@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 05:32:00**
+As of **2025-08-20 06:08:57**
 
 ## Newspaper Stats
 
-*Scraped **71,245** Articles*
+*Scraped **71,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 729
 economynextcom | 4,357
-islandlk | 4,379
+islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,245 articles have been extended.
+61,973 (87.0%) of 71,255 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -303,6 +303,82 @@ The liberalised rules will now offer Enhanced Preference countries (including Sr
 ...
 
 [Data](articles/2c056708.json)
+
+---
+
+### SamsonLines appoints Rushdi Zackariya as director to spearhead future expansion
+
+*2025-08-19 18:50:00* · [`islandlk`](http://island.lk/samsonlines-appoints-rushdi-zackariya-as-director-to-spearhead-future-expansion/) · `en`
+
+Samson Logistics (Pvt) Ltd (SamsonLines), a subsidiary of DSI Samson Group, in a strategic move to transform into a fully integrated third-party logistics (3PL) provider has appointed Rushdi Zackariya to its Board of Directors, effective immediately. This appointment marks a pivotal step in the company’s long-term vision to expand its service portfolio beyond freight forwarding and establish itself as a comprehensive logistics solutions provider. The announcement comes at a time where Sri Lanka is seeing significant sustained growth in e-commerce, as well as a growing hub for South Asia.
+
+...
+
+[Data](articles/93ac7f5e.json)
+
+---
+
+### GP Certified – paves way for certified plastic recycling
+
+*2025-08-19 18:49:00* · [`islandlk`](http://island.lk/gp-certified-paves-way-for-certified-plastic-recycling/) · `en`
+
+Transforming Sri Lanka’s plastic recycling industry requires bold leadership and collaboration. GP Certified has partnered with pioneering recyclers and FMCG brands who are championing the certification process through pilot programs. These early adopters – “Champions of Change” – are setting the foundation for the country’s transition to a more sustainable and profitable plastic waste management system.
+
+The Champions of Change include leading recyclers who are refining their processes to meet GP Certified standards and FMCG companies committed to integrating certified recycled plastics into their packaging. Their participation in the pilot phase is instrumental in testing and refining the certification process, ensuring that it is both rigorous and practical for industry-wide adoption.
+
+...
+
+[Data](articles/90b45261.json)
+
+---
+
+### Browns recognised at NBEA 2025
+
+*2025-08-19 18:49:00* · [`islandlk`](http://island.lk/browns-recognised-at-nbea-2025/) · `en`
+
+One of Sri Lanka’s leading and most diversified conglomerates, Brown & Company was recently honoured with the Silver Award in the Trading Category at the renowned National Business Excellence Awards (NBEA) 2025, organised by the National Chamber of Commerce of Sri Lanka (NCCSL).
+
+Held on the 24th of July at the Shangri-La Hotel, Colombo, the annual awards ceremony commemorated organisations that had demonstrated an unwavering commitment to high standards in business performance while contributing to nation-wide economic development.
+
+The stringent NBEA framework measures companies based on several core evaluation metrics such as Excellence in Strategy and Leadership, Corporate Governance, Capacity Building, Performance Management, Local and Global Market Reach, Corporate Social Responsibility, Environmental Sustainability, and Business and Financial Results.
+
+...
+
+[Data](articles/cbbf3054.json)
+
+---
+
+### S&P SL 20 crosses 6,000 Pts. for the first time as banking counters prove attractive
+
+*2025-08-19 18:48:00* · [`islandlk`](http://island.lk/sp-sl-20-crosses-6000-pts-for-the-first-time-as-banking-counters-prove-attractive/) · `en`
+
+The CSE was extremely bullish yesterday due to very satisfactory results being recorded in banking sector counters, especially HNB and Commercial Bank. Also notable was the fact that the S&P SL 20 index crossed 6,000 points for the first time, ending at 6,055.92 pts.
+
+The fact that banking stock prices were fundamentally economical compared to other stocks, made them attractive to investors.
+
+The All Share Price Index, meanwhile, went up by 100 points.
+
+Turnover stood at Rs 10.8 billion with 25 crossings. Top most crossings were reported in Carson Cumberbatch, HNB, Ceylon Guardian Investors, Commercial Bank and Aitken Spence.
+
+In the retail market companies that mainly contributed to the turnover were, HNB, Digital Mobility Solutions, Commercial Bank, HNB, Sampath Bank and DFCC. During the day 200 million share volumes changed hands in 47340 transactions.
+
+...
+
+[Data](articles/bcf155fc.json)
+
+---
+
+### SLANZBC hosts 30th AGM followed by panel discussion on “Accelerating Sri Lanka’s Digital Economy”
+
+*2025-08-19 18:46:00* · [`islandlk`](http://island.lk/slanzbc-hosts-30th-agm-followed-by-panel-discussion-on-accelerating-sri-lankas-digital-economy/) · `en`
+
+The 30th Annual General Meeting of the Sri Lanka – Australia – New Zealand Business Council (SLANZBC) of The Ceylon Chamber of Commerce was held on 7th July 2025, with Paul Stephens, High Commissioner of Australia to Sri Lanka, and David Pine, High Commissioner of New Zealand to Sri Lanka & Maldives, in attendance as Chief Guests.
+
+Paul Stephens, High Commissioner of Australia to Sri Lanka, acknowledged Sri Lanka’s resilience during the recent economic challenges and emphasized the need for accelerated reforms, including export diversification, investment, climate improvements, tourism, vocational education, and digitalization, to prepare for debt repayments from 2028.
+
+...
+
+[Data](articles/0966741c.json)
 
 ---
 
@@ -812,6 +888,26 @@ The Deputy Minister noted that Sri Lanka currently has Rs. 1.6 trillion in reser
 
 ---
 
+### EOIs  called to recommence Kurunchathivu (Elephant Pass – North) Saltern
+
+*2025-08-19 14:46:00* · [`islandlk`](http://island.lk/eois-called-to-recommence-kurunchathivu-elephant-pass-north-saltern/) · `en`
+
+The Cabinet of Ministers granted approval to the proposal furnished by the Minister of Industries and Entrepreneurship
+
+Development to call for expression of interest at international level for the re – commencement of the Kurunchathivu (Elephant Pass – North) Saltern as a  Public – Private Partnership.
+
+Policy approval granted to amend Bank of Ceylon Ordinance No. 53 of 1938 (Authority 397)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/02721f6d.json)
+
+---
+
 ### Former State Minister Shasheendra Rajapaksa further remanded
 
 *2025-08-19 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111637/former-state-minister-shasheendra-rajapaksa-further-remanded) · `en`
@@ -843,6 +939,24 @@ Several properties, including a building that had been illegally constructed on 
 ◼️
 
 [Data](articles/755cb9b5.json)
+
+---
+
+### Selected locations within Pelwatte and Sevanagala sugar factory premises to be developed to attract tourist
+
+*2025-08-19 14:10:00* · [`islandlk`](http://island.lk/selected-locations-within-pelwatte-and-sevanagala-sugar-factory-premises-to-be-developed-to-attract-tourist/) · `en`
+
+It has been identified that four selected lications wirhin the Pelwatte sugar factory premises are tourist places  of touris attraction drawing special attention to ecotourism, agrotourism, wellness tourism, and conservation-based tourism,  as per the recommendations of the feasibility study conducted by the Public-Private Partnership National Agency.
+
+Further, it has been identified that 4 locations within  the Sevanagala sugar factory premises could also be developedas tourist attractions.
+
+Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the Minister of Foreign Affairs, Foreign Employment, and Tourism and the Minister of Industry and Entrepreneurship to  commence two Public-Private Partnership projects  within  the Pelwatte sugar factory and the Sevanagala sugar factory premises , which are under Lanka Sugar (Pvt) Ltd, as  tourist attractions.
+
+Mrs. M. K. S. R. D. Samarasinghe appointed  Dirctor General of Export Agriculture
+
+...
+
+[Data](articles/d877ea6f.json)
 
 ---
 
@@ -1711,151 +1825,5 @@ A suspect has been arrested over the incident while the Kalpitiya Police have la
 ◼️
 
 [Data](articles/d0c3729c.json)
-
----
-
-### Sri Lanka among top 10 source countries for foreign tourist arrivals in India
-
-*2025-08-19 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111615/sri-lanka-among-top-10-source-countries-for-foreign-tourist-arrivals-in-india) · `en`
-
-Sri Lanka, the United States, Bangladesh, the United Kingdom, Australia and Canada were among the top 10 source countries for foreign tourist arrivals in India in the past five years, according to data shared by the Indian government.
-
-The Indian Culture Minister Gajendra Singh Shekhawat shared the data in a written response to queries related to tourist arrivals in the Lok Sabha, the PTI reported.
-
-The FTA figures stood at 9.95 million for 2024, as per the government data.
-
-The minister was asked details related to foreign tourist arrivals recorded in the country during the last five years, and whether India’s tourism sector has seen a significant recovery after the COVID-19 pandemic, with international tourist arrivals exceeding pre-pandemic levels.
-
-According to the UN World Tourism Organization, International Tourist Arrivals (ITAs) has two components, namely Foreign Tourist Arrivals (FTAs) and Arrivals of Non-Resident Nationals.
-
-...
-
-[Data](articles/e1a8b484.json)
-
----
-
-### සල්ලි අච්චු ගැසීම ගැන රජයෙන් ප්‍රකාශයක්
-
-*2025-08-19 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213529) · `si`
-
-මුදල් අච්චු ගැසීම හේතුවෙන් රටේ උද්ධමනයේ වැඩිවීමක් සිදුනොවන බව ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
-
-ඔහු පෙන්වා දෙන්නේ, රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ඒම මඟින් උද්ධමනය පාලනය කිරීමට වත්මන් ආණ්ඩුව පියවර ගෙන ඇති බවය.
-
-ධාවනයෙන් ඉවත් කර තිබූ 2014 වර්ෂයේ දී මෙරටට ආනයනය කරන ලද බස් රථ සඳහා නව එංජින් කට්ටල යොදා යළි ධාවනයට එක්කිරීමේ අවස්ථාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා මේ බව සඳහන් කළේය.
-
-"රටේ ආර්ථිකයට අවශ්‍ය ප්‍රමාණයට තමා මුදල් අච්චු ගැසීම වෙන්නේ. හැම අවුරුද්දකම වෙන එකක්. බලන්න තියෙන්නේ ආර්ථිකය ගමන් කරන දර්ශක එක්ක. පසුගිය අවුරුදුවල මාස 6ට සාපේක්ෂව අපි ආදායම් වියදම් පරතරය අඩුකරගෙන තියෙනවා 33%කට වඩා වැඩිපුර. ගිය අවුරුද්දේ පළවෙනි මාස 6 රාජ්‍ය ආදායම රු ත්‍රිලියන 1.8යි. මේ අවුරුද්දේ රු ත්‍රිලියන 2.3යි. 24.7%කින් ආදායම වැඩි කරලා. වියදම අඩුකරලා තියෙනවා. ඒ නිසා ආර්ථිකය ස්ථාවරයි කිසිම සැකයක් තියා ගන්න එපා."
-
-...
-
-[Data](articles/b1dca806.json)
-
----
-
-### Three injured in head-on collision between bus and defender in Hingurakgoda
-
-*2025-08-19 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111614/three-injured-in-head-on-collision-between-bus-and-defender-in-hingurakgoda) · `en`
-
-At least three individuals have been hospitalized after a private passenger bus and a Sri Lanka Air Force (SLAF) Defender vehicle collided along the Hingurakgoda–Medirigiriya main road this morning (19), police stated.
-
-The incident took place at around 7:30 a.m. in Kimbulawala along the Hingurakgoda–Medirigiriya main road.
-
-At the time, the bus was traveling from Wadigawewa, Medirigiriya towards Hingurakgoda, while the defender was traveling in the opposite direction.
-
-According to Ada Derana correspondent, three Air Force personnel traveling in the defender sustained minor injuries in the accident.
-
-The cause of the accident has not yet been determined, and further investigations are being conducted by the Hingurakgoda Police.
-
-◼️
-
-[Data](articles/1c91a441.json)
-
----
-
-### Speaker to announce stance on No-Confidence Motion against Deputy Defence Minister
-
-*2025-08-19 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111613/speaker-to-announce-stance-on-no-confidence-motion-against-deputy-defence-minister) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne is expected to deliver his opinion today (19) on the no-confidence motion submitted by the opposition against Deputy Minister of Defence Major General Aruna Jayasekara (Retd).
-
-Parliament is scheduled to convene at 9:30 a.m. today under the patronage of the Speaker.
-
-It is reported that during today’s sitting, the Speaker will announce his stance on the no-confidence motion brought forward by the opposition.
-
-However, several parties have already raised concerns stating that the motion was not submitted in accordance with parliamentary procedure.
-
-Accordingly, government sources indicate that the Speaker is likely to declare that the motion cannot be included in the parliamentary order book due to procedural issues.
-
-Nevertheless, the opposition—particularly the Samagi Jana Balawegaya (SJB)—claims that the Speaker cannot arbitrarily act regarding the no-confidence motion against the Deputy Minister of Defence.
-
-...
-
-[Data](articles/1bdde81d.json)
-
----
-
-### Sri Lanka should structure syndicated loans with local banks, avoid CB dollar swaps
-
-*2025-08-19 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-structure-dollar-syndicated-loans-avoid-cb-swaps-237193/) · `en`
-
-ECONOMYNEXT – Sri Lanka should structure a dollar syndicated loan targeting local banks to raise some of the forex deposits in banks, which can be used to settle the next maturing sovereign bond.
-
-Getting the central bank to engage in buy-sell swaps and giving proceeds to the government to repay debt is kind of a circular debt operation.
-
-Sri Lanka’s banks are now participating in Indian and other syndicated loans with their foreign currency deposits.
-
-It is perfectly fine to invest part of the NRFC or RFC deposit money or equity balances in the offshore banking units of banks in foreign debt.
-
-Since Sri Lanka government’s rating is low it is better to hold some money in higher rate foreign bonds or loans. But it must be understood that even US government finances are not in a good shape under the single policy rate/abundant reserve regime.
-
-But in any case, geographical diversification is good for depositors to mitigate risks provided banks are careful about the issuer.
-
-...
-
-[Data](articles/4e9cf1c0.json)
-
----
-
-### Sri Lanka should structure syndicated loans with local banks, avoid CB dollar swaps
-
-*2025-08-19 08:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-structure-syndicated-loans-with-local-banks-avoid-cb-dollar-swaps-237193/) · `en`
-
-ECONOMYNEXT – Sri Lanka should structure a dollar syndicated loan targeting local banks to raise some of the forex deposits in banks, which can be used to settle the next maturing sovereign bond.
-
-Getting the central bank to engage in buy-sell swaps and giving proceeds to the government to repay debt is kind of a circular debt operation.
-
-Sri Lanka’s banks are now participating in Indian and other syndicated loans with their foreign currency deposits.
-
-It is perfectly fine to invest part of the NRFC or RFC deposit money or equity balances in the offshore banking units of banks in foreign debt.
-
-Since Sri Lanka government’s rating is low it is better to hold some money in higher rate foreign bonds or loans. But it must be understood that even US government finances are not in a good shape under the single policy rate/abundant reserve regime.
-
-But in any case, geographical diversification is good for depositors to mitigate risks provided banks are careful about the issuer.
-
-...
-
-[Data](articles/a3df6bb4.json)
-
----
-
-### ආරක්ෂක නියෝජ්‍ය ඇමතිට එරෙහි විශ්වාසභංග යෝජනාව ගැන කථානායකගේ තීරණය අද
-
-*2025-08-19 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213527) · `si`
-
-ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජනරාල් අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳ කථානායකවරයාගේ මතය අද (19) ප්‍රකාශ කිරීමට නියමිතව තිබේ.
-
-පාර්ලිමේන්තුව කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරු 09.30ට රැස්වීමට නියමිතය.
-
-එහිදී කථානායකවරයා විසින් විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳව සිය මතය ඉදිරිපත් කරනු ඇති බව වාර්තා වේ.
-
-අදාළ විශ්වාසභංග යෝජනාව නීත්‍යානුකූලව ඉදිරිත් කර නොමැති බවට මේ වන විට විවිධ පාර්ශව කරුණු දක්වමින් සිටී.
-
-ඒ අනුව අදාළ විශ්වාසභංග යෝජනාව පාර්ලිමේන්තු න්‍යාය පුස්තකයට ඇතුළත් කිරීමට නොහැකි බවට කථානායකවරයා විසින් ප්‍රකාශයක් සිදුකරනු ඇති බව රජයේ ආරංචි මාර්ග සඳහන් කළේය.
-
-කෙසේවෙතත් විපක්ෂය විසින් ආරක්ෂක නියෝජ්‍ය අමාත්‍යවරයාට එරෙහිව ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව සම්බන්ධයෙන් කථානායකවරයාට හිතුවක්කාරි ලෙස කටයුතු කිරීමට නොහැකි බව සමගි ජන බලවේගය පවසයි.
-
-...
-
-[Data](articles/6f03d39f.json)
 
 ---

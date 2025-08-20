@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 21:32:04**
+As of **2025-08-20 21:50:26**
 
 ## Newspaper Stats
 
-*Scraped **71,429** Articles*
+*Scraped **71,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,030
 adalk | 6,871
 adaderanalk | 8,995
-tamilmirrorlk | 10,505
+tamilmirrorlk | 10,506
 virakesarilk | 11,820
 adaderanasinhalalk | 12,340
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,429 articles have been extended.
+61,973 (86.8%) of 71,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### ”அனைத்து துறையிலும் கைரேகை முறையை அமுல்படுத்த வேண்டும்”
+
+*2025-08-20 21:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-துறையிலும்-கைரேகை-முறையை-அமுல்படுத்த-வேண்டும்/175-363176) · `ta`
+
+சில உறுப்பினர்களின் அமர்வு வருகை குறைவாக இருப்பதால், கைரேகை அடிப்படையிலான வருகைப் பதிவை அமல்படுத்த பாராளுமன்ற உறுப்பினர் அர்ச்சுனா ராமநாதன் முன்மொழிந்துள்ளார்.
+
+"கைரேகை அவசியம், ஆனால் அதை முதலில் பாராளுமன்றத்தில் இருந்து ஆரம்பிக்கலாம். இன்று இங்கு எத்தனை எம்.பி.க்கள் உள்ளனர் என்று பாருங்கள். நாங்கள் மொத்தம் 350,000 ரூபாய் சம்பளம் பெறுகிறோம். சில எம்.பி.க்கள் 66 அமர்வுகளில் 25 அமர்வுகளில் மட்டுமே கலந்து கொண்டுள்ளனர்," என்று ராமநாதன் கூறினார், பாராளுமன்ற அமர்வுகளை நடத்துவதற்கு மில்லியன் கணக்கான பணம் செலவிடப்படுகிறது, ஆனால் சில எம்.பி.க்கள் இதில் கலந்து கொள்ளவில்லை.
+
+சட்டம் அனைவருக்கும் சமமாகப் பொருந்த வேண்டும் என்று கூறிய எம்.பி., மருத்துவத் துறை, பொலிஸ் மற்றும் சட்டத் துறை உள்ளிட்ட அனைத்து தொழில்களிலும் கட்டாய கைரேகை விதியை அமல்படுத்த வேண்டும் என்று அழைப்பு விடுத்தார்.
+
+...
+
+[Data](articles/30c5608a.json)
+
+---
 
 ### බොරැල්ලේ වෙඩිතැබීමට වෙඩික්කරු රැගෙන ආ යතුරුපැදිකරු අත්අඩංගුවට
 
@@ -1773,17 +1789,5 @@ As Sri Lanka stands just weeks away from the abolition of the Simplified VAT (SV
 ◼️
 
 [Data](articles/f85b45f6.json)
-
----
-
-### What Karannagoda’s ‘Turning Point’ teaches post-conflict generation
-
-*2025-08-20 12:52:55* · [`dailyftlk`](https://www.ft.lk/columns/What-Karannagoda-s-Turning-Point-teaches-post-conflict-generation/4-780467) · `en`
-
-The book’s emphasis on strategic and operational management makes it a valuable resource for students. Reviews suggest it is particularly suitable for management students, as it provides practical examples of decision-making under pressure, resource allocation, and innovation. For instance, Karannagoda’s decision to use a leased Indonesian passenger ship, Jetliner, to transport 3,200 security personnel, despite the risk of LTTE attacks, demonstrates bold risk management
-
-...
-
-[Data](articles/2b4712b3.json)
 
 ---

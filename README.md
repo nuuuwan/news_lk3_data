@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 10:49:52**
+As of **2025-08-20 11:07:11**
 
 ## Newspaper Stats
 
-*Scraped **71,284** Articles*
+*Scraped **71,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,978
+adaderanalk | 8,979
 tamilmirrorlk | 10,463
 virakesarilk | 11,811
 adaderanasinhalalk | 12,323
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,284 articles have been extended.
+61,973 (86.9%) of 71,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### At least 71 die in bus crash involving Afghans deported from Iran
+
+*2025-08-20 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111664/at-least-71-die-in-bus-crash-involving-afghans-deported-from-iran) · `en`
+
+A passenger bus carrying migrants recently returned from Iran has collided with a truck and a motorcycle in western Afghanistan, killing 71 people.
+
+Among the people killed were 17 children, provincial government spokesperson Ahmadullah Muttaqi said.
+
+Police in Herat province said the accident was caused due to the bus’s “excessive speed and negligence” on a road outside Herat city in Guzara district.
+
+The bus was carrying Afghans recently returned from Iran and en route to the capital, Kabul, provincial governor spokesperson Mohammad Yousuf Saeedi told AFP.
+
+A massive wave of Afghans has returned from Iran in recent months after Tehran initiated a pressure campaign to force millions of migrants to leave.
+
+More than 1.6 million people have returned to Afghanistan since the start of this year from Iran and Pakistan, which have long hosted millions of Afghans fleeing decades of war and humanitarian crises, according to the United Nations migration agency.
+
+...
+
+[Data](articles/feec0fa4.json)
+
+---
 
 ### බස්රථ අනතුරකින් 73 දෙනෙකු මියයයි
 
@@ -51,6 +73,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/19dcbfe8.json)
+
+---
+
+### முன்னாள் அமைச்சர் மனுஷ சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவில் ஆஜர் !
+
+*2025-08-20 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/222913) · `ta`
+
+முன்னாள் அமைச்சர் மனுஷ நாணயக்கார, குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்து விசாரணைப் பிரிவில் இன்று (ஆகஸ்ட் 20) ஆஜராகியுள்ளார்.
+
+சட்டவிரோத சொத்துக்கள் மற்றும் பணமோசடி குற்றச்சாட்டுகள் தொடர்பில் அவரிடம் வாக்குமூலம் பெறுவதற்காகவே அவர் அழைக்கப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+அண்மைக்காலமாக, முன்னாள் மற்றும் தற்போதைய அமைச்சர்கள் உட்பட 28 அரசியல் பிரமுகர்களின் சட்டவிரோத சொத்துக்கள் குறித்து விசாரணையை குற்றப் புலனாய்வுத் திணைக்களம் (CID), ஆரம்பித்துள்ளது.
+
+இதன் தொடர்ச்சியாகவே முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவிடம் விசாரணை நடத்தப்படுகிறது. குறிப்பாக, சட்டவிரோதமாக ஆடம்பரமான சொத்துக்களை, வாங்கியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பாக இந்த விசாரணை இடம்பெறுவதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/f3708d22.json)
 
 ---
 
@@ -153,24 +193,6 @@ Association representative Amila Koralage stated that the move has created signi
 ◼️
 
 [Data](articles/14a63f8b.json)
-
----
-
-### முன்னாள் அமைச்சர் மனுஷ சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவில் ஆஜர் !
-
-*2025-08-20 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222913) · `ta`
-
-முன்னாள் அமைச்சர் மனுஷ நாணயக்கார, குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்து விசாரணைப் பிரிவில் இன்று (ஆகஸ்ட் 20, 2025) ஆஜராகியுள்ளார்.
-
-சட்டவிரோத சொத்துக்கள் மற்றும் பணமோசடி குற்றச்சாட்டுகள் தொடர்பில் அவரிடம் வாக்குமூலம் பெறுவதற்காகவே அவர் அழைக்கப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
-
-அண்மைக்காலமாக, முன்னாள் மற்றும் தற்போதைய அமைச்சர்கள் உட்பட 28 அரசியல் பிரமுகர்களின் சட்டவிரோத சொத்துக்கள் குறித்து விசாரணையை குற்றப் புலனாய்வுத் திணைக்களம் (CID), ஆரம்பித்துள்ளது.
-
-இதன் தொடர்ச்சியாகவே முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவிடம் விசாரணை நடத்தப்படுகிறது. குறிப்பாக, சட்டவிரோதமாக ஆடம்பரமான சொத்துக்களை, வாங்கியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பாக இந்த விசாரணை இடம்பெறுவதாக கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/f3708d22.json)
 
 ---
 
@@ -522,9 +544,9 @@ The union also advised its members to “fully co-operate with resumption of ope
 
 *2025-08-20 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111654/sri-lanka-aviation-unit-honoured-for-outstanding-service-in-minusca) · `en`
 
-The Sri Lanka Aviation Unit in Bria, serving under the United Nations mandate in the Central African Republic (MINUSCA), has received high praise and official commendation for the successful execution of a high-risk Casualty Evacuation (CASEVAC) mission.
+The Sri Lanka Aviation Unit in Bria, serving under the United Nations mandate in the Central African Republic (MINUSCA), has received high praise and official commendation for the successful execution of a high-risk Casualty Evacuation (CASEVAC) mission, the Ministry of Defence said in a statement.
 
-Further, another commendation received to the unit, headed by the 10th Aviation Contingent Commander, Group Captain Uditha De Silva for the outstanding commitment, conscientiousness and professional expertise in providing critical air support, contributing significantly to the success of the mission.
+The Ministry added that the unit headed by the 10th Aviation Contingent Commander, Group Captain Uditha De Silva was also commended for the outstanding commitment, conscientiousness and professional expertise in providing critical air support, contributing significantly to the success of the mission.
 
 The mission, carried out in a highly hostile and unpredictable operational environment, involved the urgent evacuation of three severely wounded UN personnel from Zemio. The operation was conducted using an Mi-17 helicopter (UNO 326P) and required precision flying, quick decision-making and exceptional teamwork under extreme pressure.
 
@@ -1803,23 +1825,5 @@ The 31-year-old Sri Lankan worker suffered the mistreatment for about five minut
 ...
 
 [Data](articles/7d9e96c2.json)
-
----
-
-### නිවාස පහසුකම් සඳහා මූල්‍යාධාර හිමිවන පිරිස මෙන්න
-
-*2025-08-19 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213542) · `si`
-
-ආයතනගතව සිට සමාජගත වන තරුණ තරුණියන්ට නිවාස පහසුකම් සපයාගැනීම සඳහා මූල්‍යාධාර ලබා දීමේ වැඩසටහනට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
-
-ළමා සංවර්ධන මධ්‍යස්ථානයක රැකවරණය යටතේ සිට සමාජගත වී විවාහ අපේක්ෂාවෙන් පසුවන තරුණ තරුණියන්, ඒ සඳහා ක්‍රමානුකූලව හා විධිමත්ව සූදානම් කිරීමේ අරමුණින් ස්ථාවර හා ආරක්ෂිත නිවසක් තනා ගැනීමට හැකි වන පරිදි රුපියල් මිලියනයක මූල්‍යාධාරයක් ලබා දීම සඳහා 2025 අයවැය යෝජනාවක් අනුව රුපියල් මිලියන 1,000ක ප්‍රතිපාදන වෙන් කර ඇත.
-
-අදාළ කාර්යය සඳහා, කාන්තා සහ ළමා කටයුතු අමාත්‍යාංශය, පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තුව, පළාත් පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තු, සංවර්ධන මූල්‍ය දෙපාර්තමේන්තුව, දිස්ත්‍රික් ලේකම්වරුන් සහ ප්‍රාදේශීය ලේකම්වරුන් සම්බන්ධ කර ගනිමින් වැඩසටහනක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
-
-ඒ අනුව, හඳුනාගනු ලැබ ඇති නිර්ණායක මත පදනම්ව පහත සඳහන් කණ්ඩායම්වලට අයත් වූවන් වෙත මූල්‍යාධාර ලබා දීම සඳහා ජනාධිපතිවරයා සහ කාන්තා සහ ළමා කටයුතු අමාත්‍යතුමිය ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවට අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
-
-...
-
-[Data](articles/5f769661.json)
 
 ---

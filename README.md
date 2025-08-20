@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 14:08:37**
+As of **2025-08-20 14:23:01**
 
 ## Newspaper Stats
 
-*Scraped **71,342** Articles*
+*Scraped **71,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,010
 adalk | 6,859
 adaderanalk | 8,985
-tamilmirrorlk | 10,484
+tamilmirrorlk | 10,486
 virakesarilk | 11,816
 adaderanasinhalalk | 12,329
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,342 articles have been extended.
+61,973 (86.9%) of 71,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### மாவனெல்ல யுவதி மாயம்
+
+*2025-08-20 14:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாவனெல்ல-யுவதி-மாயம்/76-363127) · `ta`
+
+ஒரு இளம் பெண் காணாமல் போனது தொடர்பாக. மாவனெல்ல பொலிஸ் பிரிவில் உள்ள கெடப்பா, கலத்தரா என்ற முகவரியில் வசிக்கும் ஒருவர் தனது மகள் 2025.07.28 முதல், காணாமல் போனது தொடர்பாக மாவனெல்ல பொலிஸ் நிலையத்தில் அளித்த புகாரின் பேரில் விசாரணை நடந்து வருகிறது.
+
+இந்த இளம் பெண்ணைக் கண்டுபிடிப்பதில் பொலிஸார் பொதுமக்களின் உதவியை நாடுகிறது மற்றும் அவரது புகைப்படத்தை உங்களுக்கு அனுப்புகிறது. இந்த இளம் பெண்ணைப் பற்றி ஏதேனும் தகவல் இருந்தால், 071-8591418 என்ற தொலைபேசி எண்ணைத் தொடர்பு கொள்ளவும்:
+
+◼️
+
+[Data](articles/0313cad4.json)
+
+---
+
+### அரைகுறை உடையணிந்து அதிரடியான அறிவிப்பு
+
+*2025-08-20 14:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரைகுறை-உடையணிந்து-அதிரடியான-அறிவிப்பு/175-363125) · `ta`
+
+அளித்த போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர், அரைகுறையாக உடையணிந்த  ஊடகங்களுக்கு பேட்டி கொடுக்கையில்,  நடந்து வரும் தபால் வேலைநிறுத்தம் குறித்து பொய்யான தகவல்களுடன் பொதுமக்களை தவறாக வழிநடத்துவதாக குற்றம் சாட்டினார்.
+
+அதிகாரிகள் போதுமான சம்பளம் மற்றும் கொடுப்பனவுகளை வழங்கத் தவறிவிட்டதாகவும், அதே நேரத்தில் அமைச்சர் தபால் மற்றும் அதிகாரிகள் "ஊழியர்களை முட்டாளாக்கி முழு நாட்டிற்கும் பொய் சொல்கிறார்கள்" என்றும் அவர் கூறினார்.
+
+தற்போதைய  600 ரூபாய் கொடுப்பனவில் சீருடை தைக்க முடியுமா என்றும் ஊழியர் கேள்வி எழுப்பினார்.
+
+"சீருடை கொடுப்பனவு, மிதிவண்டி கொடுப்பனவு மற்றும் ஒப்பந்த ஊழியர்களை நிரந்தரமாக நியமிக்க வேண்டும் என்று நாங்கள் கோரியுள்ளோம். அதற்கு பதிலாக, அதிகாரிகள் கைரேகை மற்றும் கூடுதல் நேரம் பற்றி தொடர்ந்து பேசுகிறார்கள்," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/60515294.json)
+
+---
 
 ### மனைவியைக் கேட்டு கம்பத்தில் ஏறிய நபரால் பதற்றம்
 
@@ -143,6 +175,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Building high-performing teams: Converting mystery into reality
 
 *2025-08-20 13:17:42* · [`dailyftlk`](https://www.ft.lk/columns/Building-high-performing-teams-Converting-mystery-into-reality/4-780473) · `en`
+
+In the face of rapid technological advancements and shifting market demands, organisations must create room for high performance to stay competitive
 
 In today’s hyper-competitive landscape, high-performance teams, being those elite units that consistently exceed expectations, are an elusive rarity. What fuels their relentless drive for excellence has been a subject of much discussion. We have been made to believe that there is a mysterious intangible which separates a great team from a good team and that there is an ethereal alchemy of traits and behaviours which combine to produce a binding, collaborative force.
 
@@ -1739,39 +1773,5 @@ In an interview with the Fox News “Fox & Friends” programme, Trump said he b
 ...
 
 [Data](articles/4e6ea318.json)
-
----
-
-### Details of UK’s liberalised trade rules for Sri Lankan garment sector released
-
-*2025-08-19 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111648/details-of-uks-liberalised-trade-rules-for-sri-lankan-garment-sector-released) · `en`
-
-Sri Lankan garment manufacturers will gain unprecedented access to UK markets under liberalised trade rules taking effect in early 2026, according to the British High Commission in Colombo.
-
-It said the reforms enable manufacturers to source up to 100% of garment inputs from any country worldwide while maintaining tariff-free access to the UK.
-
-Under the UK’s Developing Countries Trading Scheme (DCTS), Sri Lanka receives benefits as an ‘Enhanced Preference’ country. Current rules allow tariff-free access to Sri Lankan garments if inputs are sourced from the South Asian region along with restrictions around processing, the statement said.
-
-The liberalised rules will now offer Enhanced Preference countries (including Sri Lanka) the same product-specific rules for apparel (chapters 61 and 62) as lower-income countries covered by the scheme (such as Bangladesh) which have ‘Comprehensive Preferences’.
-
-...
-
-[Data](articles/2f73c115.json)
-
----
-
-### இந்தியா மற்றும் இலங்கை ஏற்றுமதி அமைப்புகளுக்கு இடையே புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து
-
-*2025-08-19 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222901) · `ta`
-
-இந்திய மற்றும் இலங்கைக்கு இடையில் இருதரப்பு பொருளாதார கூட்டாண்மையை மேம்படுத்துவதற்கும், குறிப்பாக குறுகிய, சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கு (MSME) ஆதரவளிக்கும் நோக்குடன், இந்தியா மற்றும் இலங்கையின் பல்வேறு அமைப்புகளுக்கு இடையே கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயம் பேச்சுவார்த்தைகளை நடத்தி வருகிறது.
-
-அதன் ஒரு பகுதியாக, கடந்த ஜூன் இல் இந்திய ஏற்றுமதி அமைப்புகளின் கூட்டமைப்பு (FIEO) மற்றும் இலங்கை தேசிய ஏற்றுமதியாளர்கள் சம்மேளனம் (NCE) ஆகியவற்றுக்கு இடையே பேச்சுவார்த்தை நடத்தப்பட்டது.
-
-இதன் தொடர்ச்சியாக, செவ்வாய்க்கிழமை 19 ஆம் திகதி (19-08- 2025) அன்று, இந்திய ஏற்றுமதி அமைப்புகளின் கூட்டமைப்பு (FIEO) மற்றும் இலங்கை தேசிய ஏற்றுமதியாளர்கள் சம்மேளனம் (NCE) ஆகிய இரண்டும் ஒரு புரிந்துணர்வு ஒப்பந்தத்தில் (MoU) கையெழுத்திட்டன. இந்த ஒப்பந்தத்தின் நோக்கம் தகவல் பரிமாற்றம், முதலீடு மற்றும் வர்த்தகத்திற்கான கூட்டாளர்களை இணைத்தல் உட்பட புதிய ஒத்துழைப்புக்கான வாய்ப்புகளை ஆராய்வதாகும்.
-
-...
-
-[Data](articles/2c056708.json)
 
 ---

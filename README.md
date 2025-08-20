@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 21:07:55**
+As of **2025-08-20 21:20:15**
 
 ## Newspaper Stats
 
-*Scraped **71,424** Articles*
+*Scraped **71,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
 adalk | 6,871
-adaderanalk | 8,991
+adaderanalk | 8,995
 tamilmirrorlk | 10,505
 virakesarilk | 11,820
 adaderanasinhalalk | 12,339
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,424 articles have been extended.
+61,973 (86.8%) of 71,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ad9e5b19.json)
+
+---
+
+### President directs to implement women’s empowerment programs aimed at eradicating rural poverty
+
+*2025-08-20 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111683/president-directs-to-implement-womens-empowerment-programs-aimed-at-eradicating-rural-poverty) · `en`
+
+A pre-budget meeting for the Ministry of Women and Child Affairs for the year 2026 was held this morning (20) at the Presidential Secretariat, presided over by President Anura Kumara Dissanayake.
+
+During the meeting, the progress of projects implemented by various institutions under the Ministry of Women and Child Affairs, including the Women’s Bureau of Sri Lanka, National Committee on Women, the National Secretariat for Early Childhood Development, the Department of Probation and Child Care Services and the National Child Protection Authority, using the 2025 budget allocations was reviewed individually, according to the President’s Media Division (PMD).
+
+The President emphasised the need for the budget allocations to be properly utilised for the relevant projects within the specified financial year to ensure the public receives the benefits. He also inquired about the Ministry of Women and Child Affairs’ future plans, highlighting its crucial role.
+
+...
+
+[Data](articles/2faa5801.json)
 
 ---
 
@@ -93,6 +109,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7008c7eb.json)
+
+---
+
+### Death toll in Nigeria mosque attack rises to 50, dozens abducted
+
+*2025-08-20 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111682/death-toll-in-nigeria-mosque-attack-rises-to-50-dozens-abducted) · `en`
+
+The death toll from an attack by gunmen on a mosque and nearby homes in Nigeria’s northwest Katsina state has risen to at least 50, with around 60 others abducted, local officials and residents said on Wednesday.
+
+The attack occurred early on Tuesday in the remote community of Unguwan Mantau, in Malumfashi district, as Muslim worshippers gathered for Fajr, the dawn prayer. Witnesses reported that armed assailants arrived on motorcycles, opening fire inside the mosque before moving through the village.
+
+Aminu Ibrahim, a lawmaker representing Malumfashi, said at least 30 people were killed and 20 others burned alive in what he described as a series of brutal attacks on the community.
+
+Katsina police spokesperson Abubakar Sadiq Aliyu said officers intercepted the attackers and successfully prevented a planned assault on two villages. But while fleeing through Mantau, the attackers opened fire on residents.
+
+Several homes were also set ablaze before security forces arrived at the scene, he said.
+
+...
+
+[Data](articles/4349531e.json)
 
 ---
 
@@ -428,6 +464,28 @@ These outlets will offer an extensive range of CEAT tyres with attractive discou
 
 ---
 
+### Sri Lanka says anti-doping suspension over ‘procedural delay’
+
+*2025-08-20 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111681/sri-lanka-says-anti-doping-suspension-over-procedural-delay) · `en`
+
+Sri Lanka’s suspension this week from the World Anti-Doping Agency (WADA) was due to “procedural challenges” in updating the island’s sports law, the local governing body said Wednesday.
+
+The Sri Lanka Anti-Doping Agency (SLADA) said that legislative amendments were already before parliament to bring local laws in line with international standards required by WADA.
+
+“These are procedural challenges. We will get this done in the next couple of weeks,” SLADA Director-General Shiromi Pilapitiya told AFP. “Once it is done, we will be reinstated.”
+
+She said that Sri Lanka’s parliament was expected to ratify an amended sports law that expands the list of banned substances for athletes.
+
+Sri Lanka’s cabinet approved the proposed amendments in May, but it is still awaiting parliamentary approval.
+
+Canada-based WADA, which placed Sri Lanka on a “watch-list” in March, suspended the South Asian nation on Tuesday, saying it had not addressed or disputed the world body’s concerns.
+
+...
+
+[Data](articles/2016e2b3.json)
+
+---
+
 ### විපක්ෂයේ පක්ෂ විශේෂ සාකච්ඡාවක
 
 *2025-08-20 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213586) · `si`
@@ -515,6 +573,20 @@ Dr. Fernando earned his MBBS and MD in Anaesthesiology from the University of Co
 ◼️
 
 [Data](articles/ba2462d8.json)
+
+---
+
+### Manusha leaves Illegal Assets Investigation Division after recording statement
+
+*2025-08-20 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111680/manusha-leaves-illegal-assets-investigation-division-after-recording-statement) · `en`
+
+Former Minister Manusha Nanayakkara has left the Illegal Assets Investigation Division of the Criminal Investigation Department (CID), a short while ago, after providing a statement for nearly 7 hours, said Ada Derana reporter.
+
+He had arrived at the Illegal Assets Investigation Division this morning (20) to record a statement related to an on-going investigation.
+
+◼️
+
+[Data](articles/60402675.json)
 
 ---
 
@@ -864,7 +936,7 @@ Rebuilding roads, hospitals, and schools costs billions. Governments often raise
 
 Former Inspector General of Police (IGP) Deshabandu Tennakoon has been arrested by the Criminal Investigation Department (CID).
 
-The former police chief has been arrested by a team of CID officers at his residence in Mirihana.
+The former police chief has been arrested by a team of CID officers at his residence.
 
 He has reportedly been arrested in connection with investigations into the attack carried out on the ‘Aragalaya’ protest movement on May 09, 2022, at the Galle Face Green in Colombo.
 
@@ -1717,71 +1789,5 @@ The book’s emphasis on strategic and operational management makes it a valuabl
 ...
 
 [Data](articles/d07e40f9.json)
-
----
-
-### දෙනියාය ට නව රෝහලක්
-
-*2025-08-20 12:47:26* · [`adalk`](https://www.ada.lk/breaking_news/දෙනියාය-ට-නව-රෝහලක්/11-417969) · `si`
-
-විසිරුනු වාට්ටු සම්ප්‍රදාය වෙනුවට එකම ගොඩනැගිල්ලක් තුල වාට්ටු ඇතුලු සියළු ඒකක ස්ථාපිත වන නවීන සැලසුමක් .
-
-පොදු ප්‍රවාහන සේවාවන් භාවිතා කර ප්‍රතිකාර ලබා ගැනීමට රෝහල වෙත පැමිණෙන ජනතාවට රෝහල් පරිශ්‍රයට පැමිනීමේ විශේෂ පිවිසුම් ක්‍රමවේදයක් .
-
-වසර 127 කට අධික ඉතිහාසක් පවතින වත්මන් දෙනියාය මූලික රෝහල්  පරිශ්‍රයේ ස්ථාන කිහිපයක්   නාය යෑමේ අවධානමකට  ලක්ව ඇති නිසා  එම රෝහල වෙනත් ස්ථානයක  ප්‍රතිස්ථාපනය කිරීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ සහ දකුණු පළාත් සභාවේ විශේෂ අවධානය යොමුවීමත් සමග ඊට අදාළව සිදුකෙරෙන විශේෂ සාකච්ජාවක් පසුගියදා දකුණු පලාත් ආණ්ඩුකාර බන්දුල හරිස්චන්ද්‍ර මහතාගේ සහ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතාගේ ප්‍රධානත්වයෙන් දෙනියාය කොටපොල ප්‍රාදේශීය සභා ශ්‍රවණාගාරයේ දී පැවැත්විණි.
-
-...
-
-[Data](articles/9752b7ae.json)
-
----
-
-### நீதிபதிக்கும் மனைவிக்கும் விளக்கமறியல்
-
-*2025-08-20 12:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதிக்கும்-மனைவிக்கும்-விளக்கமறியல்/175-363117) · `ta`
-
-இலஞ்சம் கோரிய குற்றச்சாட்டின் அடிப்படையில் கைதான கல்முனை காதி நீதிமன்ற நீதிபதி   மற்றும் அவரது மனைவி எதிர்வரும் ஆகஸ்ட் மாதம் 25  வரை விளக்கமறியலில் வைக்குமாறு கல்முனை நீதிவான் நீதிமன்றம் உத்தரவிட்டது.
-
-கடந்த திங்கட்கிழமை  (18) மாலை அம்பாறை மாவட்டம்  பெரிய நீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட  மருதமுனை பகுதியில் இயங்கி வந்த கல்முனை காதி நீதிமன்ற  நீதிபதியின் வீட்டில் அமைந்துள்ள அலுவலகத்தில்  இலஞ்சம் கோரிய குற்றச்சாட்டின் அடிப்படையில், கல்முனை  குவாஷி நீதிமன்ற  நீதிபதியும் இதற்கு உடந்தையாக செயற்பட்ட அவரது மனைவியும் இலஞ்சம் மற்றும் ஊழல் ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டிருந்தனர்.
-
-வழக்கு ஒன்றுக்காக தன்னிடம்  2300 ரூபாய்  பணம்  இலஞ்சமாக கேட்பதாக பாதிக்கப்பட்ட  நபர் ஒருவர் இலஞ்சம் அல்லது ஊழல் பற்றிய  சாத்துதல்களைப் புலனாய்வு செய்யும் ஆணைக்குழுவின் அதிகாரிகளிடம்  முறைப்பாடு செய்துள்ளார்.
-
-...
-
-[Data](articles/f53d96d6.json)
-
----
-
-### Appreciation: Oscar Gunewardena
-
-*2025-08-20 12:45:40* · [`dailyftlk`](https://www.ft.lk/opinion/Appreciation-Oscar-Gunewardena/14-780464) · `en`
-
-Oscar Sarath Alwis Wijesiri Gunewardena (OSAW) was born on 3 September 1928 in the village Mihiripanna, south of Sri Lanka. His father J.A.W. Gunewardena was a Government Surveyor of the Department of Survey. The surveyors were generally confined to rural areas, but he migrated and settled in Colombo to provide the best education to his children.
-
-I came to know Oscar Uncle in 1979 when Chandani and I were occupying the annex in his parental home in Isipathana Mawatha (old name Greenlands Road), Colombo 5. During weekends Uncle visited his mother Robert Aunt (Sugunawathie) with his wife Sriya and the children, Duminda, Padmika, Saman and Samantha. Uncle’s siblings were late Iris Nanayakkara (Colombo 5), Doreen Jayamaha (Melbourne, Australia) and the late Padma/Shani Jayawardene (Surrey, England).
-
-...
-
-[Data](articles/7896bd42.json)
-
----
-
-### මේ වසරේදී දකුණු කොරියාවට 2522 ක් පිටව යයි
-
-*2025-08-20 12:44:26* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-දකුණු-කොරියාවට-2522-ක්-පිටව-යයි/11-417968) · `si`
-
-2025 වර්ෂයේ ගතවූ මාස 8ට ආසන්න කාලය තුළදී දකුණු කොරියාවේ රැකියා සඳහා ශ්‍රි ලාංකික තරුණ තරුණියන් 2522 දෙනෙකු පිටත්ව ගොස් තිබේ.
-
-දකුණු කොරියාවේ නිශ්පාදන අංශයේ රැකියා සඳහා සුදුසුකම් ලැබූ තවත් 60ක් ඊයේ  (2025.08.19) ශ්‍රි ලංකන් ගුවන් සේවයට අයත් UL 470 දරණ ගුවන් යානයෙන් පිටත්ව ගිය අතර, මෙම කණ්ඩායමට තරුණියන් 7 දෙනෙකුද අයත් වේ.
-
-මෑත කාලීනව තරුණියන්ද දකුණු කොරියාවේ රැකියා සඳහා යොමුවීමේ වැඩි ප්‍රවණතාවයක් ඇති වී තිබෙන අතර, ඒ අනුව 2025 වර්ෂය තුළදී තරුණියන් 85 දෙනෙකු පිටත්ව ගොස් තිබේ.
-
-රැකියා ලාභීන්ට වසර 4 මාස 10 කාලයක් දකුණු කොරියාවේ රැදී සිටීමට අවස්ථාව හිමිවන අතර, නියමිත කාලය අවසන්ව මෙරටට පැමිණෙන ශ්‍රමිකයින්ට යළි දකුණු කොරියාවට ඇතුළුවීමට අවසර හිමිවේ.
-
-2024 වර්ෂය තුලදී ශ්‍රී ලාංකිකයින් 7,122 කු දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් තිබේ.
-
-◼️
-
-[Data](articles/6824d046.json)
 
 ---

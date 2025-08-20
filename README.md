@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 17:06:27**
+As of **2025-08-20 17:19:50**
 
 ## Newspaper Stats
 
-*Scraped **71,390** Articles*
+*Scraped **71,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,182 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,023
+dailyftlk | 5,030
 adalk | 6,865
 adaderanalk | 8,991
 tamilmirrorlk | 10,499
 virakesarilk | 11,818
-adaderanasinhalalk | 12,335
+adaderanasinhalalk | 12,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,390 articles have been extended.
+61,973 (86.8%) of 71,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Govt. hopes for Provincial Council Elections in 2026: Bimal
+
+*2025-08-20 17:02:06* · [`dailyftlk`](https://www.ft.lk/news/Govt-hopes-for-Provincial-Council-Elections-in-2026-Bimal/56-780518) · `en`
+
+Leader of the House Minister Bimal Rathnayake yesterday said the Government hopes to conduct the Provincial Council Elections in the first six months of next year.
+
+Speaking to the media in Kilinochchi, he said that the Presidential Election was held in November 2024 and the Local Council Election was held this year. “There were two back-to-back elections held and the Government hopes to hold the Provincial Council Elections within the first six months of 2026,” he added.
+
+Pointing out that there were some legal obstacles in this regard, Rathnayake said that the Government is confident these can be resolved.
+
+He also added that the Government intends to hold the Provincial Council Election before bringing forth a Constitutional Amendment. “We hope to conduct the Provincial Council Election, after which we will decide on implementing a comprehensive political plan for a Constitutional Amendment,” he added.
+
+◼️
+
+[Data](articles/2e674b7b.json)
+
+---
+
+### US launches inaugural Young South Asian Leaders Initiative workshop in Colombo
+
+*2025-08-20 17:00:12* · [`dailyftlk`](https://www.ft.lk/news/US-launches-inaugural-Young-South-Asian-Leaders-Initiative-workshop-in-Colombo/56-780517) · `en`
+
+US Ambassador to Sri Lanka Julie Chung, South and Central Asian Affairs Acting Deputy Assistant Secretary Shelly Seaver, and Youth Affairs and Sports Minister Sunil Gamage yesterday opened the inaugural workshop of the Young South Asian Leaders Initiative (YSALI), the US Embassy in Colombo said.
+
+The YSALI is a US Government-funded program aimed at empowering youth leaders, promoting peace, and bolstering economic growth across South Asia.
+
+More than 80 YSALI participants, competitively selected from alumni of previous US Government initiatives, represent the next generation of South Asian leaders and innovators in business, government, academia, health, and other fields. By connecting them with counterparts from across the region, the US is building lasting networks and cultivating future partners and advocates for American businesses and shared interests, the Embassy said.
+
+...
+
+[Data](articles/4d4757f6.json)
+
+---
+
+### North, East hartal ends after Govt. gives assurance to investigate military death, remove Army camps
+
+*2025-08-20 16:58:35* · [`dailyftlk`](https://www.ft.lk/news/North-East-hartal-ends-after-Govt-gives-assurance-to-investigate-military-death-remove-Army-camps/56-780516) · `en`
+
+Ilankai Tamil Arasu Kachchi (ITAK) MP Shanakiyan Rasamanickam yesterday said the hartal in the North and East was called off by noon the same day after Government assurances to investigate the death of a 32-year-old in Mullaitivu caused by the military.
+
+“The hartal called by the ITAK was a resounding success. Following (Sunday’s) press briefing by the Cabinet Spokesperson, and based on assurances given regarding the investigation and steps being taken towards the removal of Army camps, we decided to limit the hartal until 12 p.m.,” he said on ‘X.’
+
+...
+
+[Data](articles/e31d5883.json)
+
+---
+
+### WFP Representative and Country Director presents credentials to Foreign Minister
+
+*2025-08-20 16:58:01* · [`dailyftlk`](https://www.ft.lk/news/WFP-Representative-and-Country-Director-presents-credentials-to-Foreign-Minister/56-780515) · `en`
+
+WFP Sri Lanka Representative and Country Director Philip Ward (left) hands over his letter of credentials to Foreign Minister Vijitha Herath
+
+Newly-appointed Representative and Country Director of the United Nations World Food Programme (WFP) in Sri Lanka Philip Ward has formally presented his letter of credentials to Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath at the Ministry premises.
+
+In his discussions with Minister Herath, Ward reaffirmed the WFP’s commitment to supporting Sri Lanka’s efforts to strengthen food systems, improve nutrition, and build resilience among vulnerable communities.
+
+“I am honoured to take up this role at a time when Sri Lanka is navigating both progress and persistent challenges in food security and nutrition,” said Ward. “The WFP remains steadfast in its support to national efforts, working hand in hand with partners to ensure access to nutritious food, especially for those most at risk.”
+
+...
+
+[Data](articles/7aec78e9.json)
+
+---
+
+### Rhino launches ‘Rhino Premier’: Game-changer in roofing innovation
+
+*2025-08-20 16:55:19* · [`dailyftlk`](https://www.ft.lk/business/Rhino-launches-Rhino-Premier-Game-changer-in-roofing-innovation/34-780514) · `en`
+
+Rhino Roofing, Sri Lanka’s most trusted name in roofing and ceiling sheets, unveiled its latest innovation, ‘Rhino Premier Roofing Sheets’, at a grand launch ceremony that took place on 15 August, at the Cumulus Ballroom, Cinnamon Life, Colombo.
+
+Bringing together leading architects, developers, contractors, members of Chamber of Construction Industry and Chartered Institute of Building, and Rhino’s network of authorised dealers, the event marked a significant milestone in the brand’s continued journey of innovation.
+
+...
+
+[Data](articles/8002019e.json)
+
+---
+
+### CEAT extends premium ‘SIS’ retail experience to Kelaniya and Horana
+
+*2025-08-20 16:54:29* · [`dailyftlk`](https://www.ft.lk/business/CEAT-extends-premium-SIS-retail-experience-to-Kelaniya-and-Horana/34-780513) · `en`
+
+Sri Lanka’s top tyre brand CEAT has extended its premium retail experience to Kelaniya and Horana, with the opening of new concept Shop-in-Shop (SIS) outlets in these bustling towns.
+
+The 11th and 12th CEAT SIS outlets in Sri Lanka are located at Jayantha Tyre Traders at No. 408, Kandy Road, Kelaniya and at Lal Tyre House at No. 243, Panadura – Anguruwatota Road, Horana, providing vehicle owners in these areas an exclusive and premium purchase experience.
+
+These outlets will offer an extensive range of CEAT tyres with attractive discounts, tyre care and technical expertise, as well as a combination of services such as wheel balancing and alignment, nitrogen and air pumps for tyre inflation, alloy wheels and automobile batteries. A distinctive feature of every CEAT SIS outlet is its own customer lounge.
+
+...
+
+[Data](articles/4d07b4d1.json)
+
+---
+
+### විපක්ෂයේ පක්ෂ විශේෂ සාකච්ඡාවක
+
+*2025-08-20 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213586) · `si`
+
+විපක්ෂයේ දේශපාලන පක්ෂ එකතුවෙන් අද (20) පාර්ලිමේන්තු සංකීර්ණයේදී විශේෂ සාකච්ඡාවක් පවත්වා තිබේ.
+
+ඒ, ආරක්ෂක නියෝජ්‍ය අමාත්‍ය මේජර් ‍ජෙනරාල් (විශ්‍රාමික) අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය ගෙනආ විශ්වාසභංග යෝජනාව පිළිබඳවය.
+
+විපක්ෂයේ ප්‍රධාන සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතාගේ මූලිකත්වයෙන් මෙම සාකච්ඡාව පවත්වා ඇති බව සඳහන් ය.
+
+මෙහිදී අදාළ විශ්වාසභංගය සම්බන්ධයෙන් ආණ්ඩුව ඉදිරිපත් කර ඇති විවිධ මත පිළිබඳව සාකච්ඡා කර තිබේ.
+
+එමෙන්ම අදාළ යෝජනාව සම්බන්ධයෙන් කථානායකවරයාගේ ප්‍රකාශය පිළිබඳව මෙම සාකච්ඡාවේදී අවධානය යොමුවී ඇති අතර ඒ පිළිබඳ හෙට (21) දිනයේදී කථානායකවරයා සිය ස්ථාවරය ඉදිරිපත් කරනු ඇති බවටද විපක්ෂයේ දේශපාලන පක්ෂ සඳහන් කර ඇත.
+
+කෙසේවෙතත් මෙම විශ්වාසභංග යෝජනාව ඉදිරිපත් කිරීම පාර්ලිමේන්තු සම්ප්‍රදායට අනුව සිදුකර ඇති බවත් එහි කිසිඳු ගැටලුවක් නොමැති බවත් විපක්ෂයේ දේශපාලන පක්ෂවල මතය වී තිබේ.
+
+මෙම සාකච්ඡාව සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන, රවුෆ් හකීම්, රිෂාඩ් බදියුදීන්, එස්. ශ්‍රීධරන්, ෂානක්කියන් රාසමාණික්කම් ඇතුළු සමගි ජන බලවේගයේ මෙන්ම ද්‍රවිඩ සහ මුස්ලිම් දේශපාලන පක්ෂවල නායකයින් ද එක්වී ඇත.
+
+...
+
+[Data](articles/62190dfd.json)
+
+---
+
+### New Chairman at Lanka Hospitals Corporation
+
+*2025-08-20 16:53:09* · [`dailyftlk`](https://www.ft.lk/business/New-Chairman-at-Lanka-Hospitals-Corporation/34-780512) · `en`
+
+Major General (Dr.) P.A. Chrisantha Fernando (Retd.) has been appointed Independent Non-Executive Director and Chairman of The Lanka Hospitals Corporation PLC.
+
+He is a highly accomplished Consultant Anaesthetist, currently serving at Ninewells Hospitals and Lanka Hospitals, Colombo, with over 34 years of medical service, including 20 years at leading private hospitals in Sri Lanka.
+
+A decorated officer of the Sri Lanka Army Medical Corps, he has held senior leadership positions such as Director General of Army Health Services, Colonel Commandant of the Army Medical Corps, Director of Army Medical Services, and Director of Army Hospital, Colombo.
+
+Dr. Fernando earned his MBBS and MD in Anaesthesiology from the University of Colombo, complemented by advanced training in the UK.
+
+...
+
+[Data](articles/97dda5c9.json)
+
+---
+
+### වැඩි මිලට වතුර විකිණූ පෝට් සිටියේ සමාගමකට දඩයක්
+
+*2025-08-20 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213585) · `si`
+
+බෝතල්කළ පානීය ජලය වැඩි මිලට විකිණූ කොළඹ වරාය නගරයේ පුද්ගලික සමාගමකට එරෙහිව රුපියල් ලක්ෂ 5ක දඩයක් පනවා ඇත.
+
+අදාළ සමාගම රුපියල් 70ක් ලෙස මිල සඳහන් පානීය ජල බෝතලයක් රුපියල් 200කට අලෙවි කර ඇති අතර, ඒ සම්බන්ධයෙන් වන නඩුව  කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේ අද (20) කැඳවීමෙන් අනතුරුව ඔවුන් සිය වරද පිළිගෙන තිබේ.
+
+පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ විමර්ශන නිලධාරීන් විසින් ඉකුත් ජූලි 16වනදා අදාළ වෙළඳසැල පරීක්ෂාවට ලක්කර ඇත.
+
+ඒ අවස්ථාවේ දී අදාළ වෙළෙඳසැල මගින් රුපියල් 70ක් ලෙස මිල සඳහන් කර තිබූ මි.ලි. 500 බෝතල් කළ පානීය ජල බෝතලයක් රු. 200කට අලෙවිකර තිබේ.
+
+2025.04.01 දින නිකුත් කළ අතිවිශේෂ ගැසට් නියෝගය අනුව මි.ලි. 500 බෝතල් කළ පානීය ජල බෝතලයක උපරිම සිල්ලර මිල රු. 70ක් ලෙස නියම කර ඇත.
+
+ඒ අනුව රු. 200කට අලෙවි කිරීම 2003 අංක 09 දරණ පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පනතේ 20(5) සහ 68 වගන්ති සහ 2021 අංක 20 සංශෝධන පනතේ 60(4A) වගන්තිය යටතේ වරදක් බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පැවසීය.
+
+◼️
+
+[Data](articles/ba2462d8.json)
+
+---
 
 ### කෙතරම් අවවාද කළත් නිසි මගට නොඑන මත්ස්‍ය වෙළෙඳසැලක්
 
@@ -1549,167 +1709,5 @@ Previously, the JCPSM had announced plans to initiate trade union action from to
 ◼️
 
 [Data](articles/76111b4e.json)
-
----
-
-### கைவிரல் அடையாளம்
-
-*2025-08-20 12:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கைவிரல்-அடையாளம்/62-363097) · `ta`
-
-◼️
-
-[Data](articles/e37f7227.json)
-
----
-
-### யாழில். வெடிக்காத துப்பாக்கி ரவைகள் மீட்பு
-
-*2025-08-20 12:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-வெடிக்காத-துப்பாக்கி-ரவைகள்-மீட்பு/175-363096) · `ta`
-
-யாழ்ப்பாணம் கொடிகாமம் பகுதியில் செவ்வாய்க்கிழமை (20) அன்று நீர் குழாய்களை மண்ணில் புதைக்கும் பணிகளுக்காக நிலத்தினை அகழ்ந்து போது ஒரு தொகை துப்பாக்கி ரவைகள் மீட்கப்பட்டுள்ளன.
-
-குழாய்களை புதைப்பதற்காக நிலத்தினை அகழ்ந்து போது சந்தேகத்திற்கு இடமான முறையில் உரை பை ஒன்று காணப்பட்டதை அடுத்து , கொடிகாம பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
-
-தகவலை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த உரை பையை மீட்டு சோதனையிட்ட போது அவற்றுக்குள் வெடிக்காத நிலையில் துப்பாக்கி ரவை கோர்வைகள் காணப்பட்டுள்ளன.
-
-அதனை அடுத்து அவற்றை மீட்டு கொடிகாம பொலிஸ் நிலையம் எடுத்து சென்ற பொலிஸார் அவற்றுள் 1393 துப்பாக்கி ரவைகள் காணப்பட்டதாகவும் , அவற்றினை நீதிமன்றில் பரப்படுத்தி நீதிமன்ற உத்தரவில் அடுத்த கட்ட நடவடிக்கையை எடுக்கவுள்ளதாக தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d3123585.json)
-
----
-
-### SriLankan to boost cargo handling by 70-pct with new terminal
-
-*2025-08-20 12:00:00* · [`economynextcom`](https://economynext.com/srilankan-to-boost-cargo-handling-by-70-pct-with-new-terminal-237444/) · `en`
-
-ECONOMYNEXT – National carrier SriLankan Airlines is in the process of expanding its cargo handling by over 70 percent with a new import terminal, a top official said.
-
-The state-owned SriLankan has five terminal in its cargo village adjoining to the island nation’s main Bandaranaike Internatinal Airport.
-
-“The new terminal with 10,000 square meters can handle an additional 177,000 metric tons of cargo,” Chaminda Perera, head of SriLankan Cargo told reporters during a special familiarisation tour to the cargo village.
-
-“At the moment, we are handling 250,000 metric tons of cargoes in 16,500 square meter area.”
-
-After the new terminal, the existing import terminal will be handling perishable goods and courier for exports, officials said.
-
-The expansion also comes with the government’s ambitious goal to boost exports including services to around USD 30 billion by 2030.
-
-Cargo has been making profits though SriLankan Airlines has been incurring a loss. (Karunayake/August 16/2025)
-
-◼️
-
-[Data](articles/fc0f0abd.json)
-
----
-
-### පරිපූරක වෛද්‍ය වෘත්තිකයන්ගේ වර්ජනය කලින්ම එයි
-
-*2025-08-20 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213575) · `si`
-
-පරිපූරක වෛද්‍ය වෘත්තීයවේදීන්ගේ ඒකාබද්ධ බලමණ්ඩලය විසින් බස්නාහිර පළාත තුළ හෙට සිදුකිරීමට නියමිතව තිබූ වෘත්තීය සමිති ක්‍රියාමාර්ගය අද (20)  උදෑසන 8ට ගම්පහ මහ රෝහලේ දී හදිසියේ ආරම්භ කර තිබේ.
-
-අද උදෑසන ගම්පහ දිස්‍ත්‍රික් මහ රෝහලේ අධ්‍යක්ෂවරයා, පරිපූරක වෛද්‍ය වෘත්තීය නිලධාරීන්ට අත්සන් තැබීම සිදුනොකරන ලෙසට උපදෙස් ලබාදෙමින් නිකුත් කර තිබූ ලිපියක් හේතුවෙන් පරිපූරක වෛද්‍ය සේවාවේ සියලු නිලධාරීන් ගම්පහ රෝහලේ සියලු රාජකාරී කටයුතුවලින් ඉවත් වූ බව පරිපූරක වෛද්‍ය වෘත්තීයවේදීන්ගේ ඒකාබද්ධ බල මණ්ඩලය, ප්‍රධාන ලේකම් චානක ධර්මවික්‍රම මහතා පැවසීය.
-
-අදාළ ගැටලුව සම්බන්ධයෙන් ගම්පහ මහ රෝහලේ අධ්‍යක්ෂවරයා සමඟ සාකච්ඡා කරමින් සිටින අතර, ඔහු ඊට නිසි පිළිතුරක් ලබාදීමට මේ වනවිටත් අපොහොසත් වී ඇතැයි ද ඒ මහතා කියා සිටියේය.
-
-මීට පෙර පරිපූරක වෛද්‍ය වෘත්තිකයන් හෙට (21) දිනයේ සිට බස්නාහිර පළාත් සභාවට අයත් රෝහල් 31ක වෘත්තීය ක්‍රියාමාර්ගයකට අවතීර්ණ වීමට තීරණය කර තිබුණි.
-
-...
-
-[Data](articles/2527cdbb.json)
-
----
-
-### ஈரானில் இருந்து நாடு கடத்தப்பட்ட ஆப்கானியர்கள் சென்ற பஸ் விபத்து ;  71 பேர் உயிரிழப்பு
-
-*2025-08-20 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222922) · `ta`
-
-ஈரானில் இருந்து நாடு கடத்தப்பட்ட ஆப்கானியர்களை ஏற்றிச் சென்ற பயணிகள் பஸ் ஒன்று லொறி மற்றும் மோட்டார் சைக்கிள் மீது மோதி விபத்துக்குள்ளானதில் 71 பேர் உயிரிழந்துள்ளனர். உயிரிழந்தவரிகளில் 17 சிறுவர்கள் அடங்குவர்.
-
-குசாரா மாவட்டத்தில் உள்ள ஹெராத் நகருக்கு வெளியே உள்ள வீதியில் பஸ் வேகமாக சென்றமையினால் இந்த விபத்து இடம்பெற்றுள்ளதாக ஹெராத் மாகாண பொலிஸார் தெரிவித்தனர்.
-
-மில்லியன் கணக்கான புலம்பெயர்ந்தோரை வெளியேற கட்டாயப்படுத்த தெஹ்ரான் அழுத்தம் கொடுக்கும் பிரச்சாரத்தைத் ஆரம்பித்த பின்னர், அண்மைய மாதங்களில் ஈரானில் இருந்து ஆப்கானியர்கள் பெரும் அளவில் வெளியேறுகின்றார்கள்.
-
-பஸ் முதலில் மோட்டார் சைக்கிள் மீது மோதி, பின்னர் எரிபொருள் ஏற்றிச் சென்ற லொறி மீது மோதி தீப்பிடித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-லொறியில் பயணித்த இரண்டு பேரும் மோட்டார் சைக்கிளில் பயணித்த இரண்டு பேரும் உயிரிழந்தவர்களில் அடங்குவர். பல தசாப்தங்களாக இடம்பெற்ற மோதலுக்கு பின்னர் வீதிகள், அதிவேக வீதிகளில் ஆபத்தான முறையில் வாகனம் ஓட்டுவதால் ஆப்கானிஸ்தானில் போக்குவரத்து விபத்துக்கள் பொதுவானவையாக காணப்படுகின்றன.
-
-...
-
-[Data](articles/c7faaef1.json)
-
----
-
-### “I want to try and get to heaven”: Trump on solving Russian-Ukraine war
-
-*2025-08-20 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111667/i-want-to-try-and-get-to-heaven-trump-on-solving-russian-ukraine-war) · `en`
-
-U.S. President Donald Trump said Tuesday that a Ukraine peace deal could boost his chances of getting to heaven -- joking that his odds of making it through the pearly gates are currently low.
-
-The 79-year-old US president has previously said he wants to end Russia’s war in Ukraine as part of his bid to win the Nobel Peace Prize.
-
-But a day after hosting the leaders of Ukraine and several European nations at the White House, Trump said his motivations were not all earthly.
-
-“I want to try and get to heaven if possible,” Trump told Fox News morning show “Fox & Friends.”
-
-“I hear I’m not doing well -- I hear I’m really at the bottom of the totem pole! But if I can get to heaven this will be one of the reasons.”
-
-By traditional yardsticks the three-times-married, twice-impeached Trump is no saint.
-
-...
-
-[Data](articles/2b379c1d.json)
-
----
-
-### Deshabandu Tennakoon’s anticipatory bail application rejected
-
-*2025-08-20 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111666/deshabandu-tennakoons-anticipatory-bail-application-rejected) · `en`
-
-An anticipatory bail application filed by former Inspector General of Police (IGP) Deshabandu Tennakoon, seeking an order to prevent his arrest, has been rejected by the Colombo Fort Magistrate’s Court, Ada Derana reporter said.
-
-The bail application, filed by attorneys of the former IGP was considered by Colombo Fort Magistrate Nilupuli Lankapura this morning.
-
-Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected by the Magistrate.
-
-◼️
-
-[Data](articles/631d1692.json)
-
----
-
-### දේශබන්දුගේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
-
-*2025-08-20 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213574) · `si`
-
-තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ගොනුකර තිබූ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය ප්‍රතික්ෂේප කර තිබේ.
-
-අදාළ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය අද (20) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබීය.
-
-◼️
-
-[Data](articles/a96b75eb.json)
-
----
-
-### හිටපු ඇමති ලක්ෂ්මන් යාපාට එරෙහි අල්ලස් නඩුවට අධිකරණයෙන් නියෝගයක්
-
-*2025-08-20 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213573) · `si`
-
-රජයට රුපියල් ලක්ෂ 17කට අධික පාඩුවක් සිදුකිරීම තුළින් දූෂණය නැමති වරද සිදුකළේ යැයි චෝදනා කරමින් හිටපු ආයෝජන ප්‍රවර්ධන අමාත්‍ය ලක්ෂ්මන් යාපා අබේවර්ධන සහ ශ්‍රී ලංකා ආයෝජන මණ්ඩලයේ හිටපු අධ්‍යක්ෂ ජෙනරාල් ජයන්ත එදිරිසිංහ යන අයට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර ඇති නඩුව පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා සැප්තැම්බර් මස 07 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
-
-මෙම නඩුව අද (20) කොළඹ මහාධිකරණ විනිසුරු ප්‍රදීප් අබේරත්ත මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එම අවස්ථාවේදී අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි නීතිඥවරිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම අධිචෝදනා පත්‍රයට සංශෝධන කිහිපයක් එක්කිරීම සඳහා අවසර දෙන ලෙස ඉල්ලා සිටියේය.
-
-ඒ අනුව අදාළ අධිචෝදනා පත්‍රය සංශෝධනය කිරීමට අධිකරණය විසින් අල්ලස් කොමිසමට අවසර ලබා දුන්නේය.
-
-ඉන් අනතුරුව අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි නීතිඥවරිය විසින් මෙම අධිචෝදනා පත්‍රය හා සම්බන්ධ ලේඛන ඇතුළත් සංයුක්ත තැටියක් විත්තියේ නීතිඥවරුන්ට ලබා දුන්නේය.
-
-...
-
-[Data](articles/0b5dae12.json)
 
 ---

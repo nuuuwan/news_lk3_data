@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 23:51:44**
+As of **2025-08-21 00:08:42**
 
 ## Newspaper Stats
 
-*Scraped **71,439** Articles*
+*Scraped **71,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,030
 adalk | 6,873
 adaderanalk | 8,998
-tamilmirrorlk | 10,507
+tamilmirrorlk | 10,508
 virakesarilk | 11,821
 adaderanasinhalalk | 12,342
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,439 articles have been extended.
+61,973 (86.7%) of 71,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### சாந்த முதுன்கொடுவ கொலை ; துப்பாக்கிதாரி கைது
+
+*2025-08-20 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்த-முதுன்கொடுவ-கொலை-துப்பாக்கிதாரி-கைது/175-363180) · `ta`
+
+ஹோமாகம பிரதேச சபையின் முன்னாள் உறுப்பினர் சாந்த முதுன்கொடுவ சுட்டுக் கொல்லப்பட்ட சம்பவத்துடன் தொடர்புடைய துப்பாக்கிதாரி குற்றப் புலனாய்வுத் திணைக்களத்தின் விசேட பொலிஸ் குழுவால் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.R
+
+◼️
+
+[Data](articles/c527edc3.json)
+
+---
 
 ### யாழ். மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை
 
@@ -1763,23 +1775,5 @@ This important step reflects the UK’s continued commitment to greater trade op
 ...
 
 [Data](articles/7cc0166e.json)
-
----
-
-### Sri Lanka’s JAAF welcomes UK’s liberalised trade rules of origin for apparel exports
-
-*2025-08-20 13:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-jaaf-welcomes-uks-liberalised-trade-rules-of-origin-for-apparel-exports-237450/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s apparel association welcomed the UK’s announcement of liberalised rules of origin under the Developing Countries Trading Scheme (DCTS), which will allow local manufacturers to source up to 100% of inputs for garments from any country worldwide while continuing to enjoy tariff-free access to the UK market.
-
-“We see this as an opportunity to expand trade, strengthen industry competitiveness, and secure more jobs and livelihoods across Sri Lanka’s apparel sector,”  JAAF Secretary General, Yohan Lawrence, said.
-
-JAAF welcomes UK’s liberalised trade rules of origin for apparel exports
-
-The Joint Apparel Association Forum (JAAF) today warmly welcomed the UK Government’s announcement of liberalised rules of origin under the Developing Countries Trading Scheme (DCTS), which will come into effect in early 2026.
-
-...
-
-[Data](articles/2d8ce0c8.json)
 
 ---

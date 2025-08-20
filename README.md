@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 14:23:01**
+As of **2025-08-20 14:33:45**
 
 ## Newspaper Stats
 
-*Scraped **71,344** Articles*
+*Scraped **71,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,010
 adalk | 6,859
-adaderanalk | 8,985
-tamilmirrorlk | 10,486
+adaderanalk | 8,986
+tamilmirrorlk | 10,487
 virakesarilk | 11,816
 adaderanasinhalalk | 12,329
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,344 articles have been extended.
+61,973 (86.9%) of 71,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### சர்வதேச தபால்கள்  BIA-வில்  தேக்கம்
+
+*2025-08-20 14:18:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தபால்கள்-BIA-வில்-தேக்கம்/175-363128) · `ta`
+
+தபால் ஊழியர்களின் தொடர்ச்சியான வேலைநிறுத்தம் காரணமாக, பல்வேறு நாடுகளிலிருந்து இலங்கைக்கு அனுப்பப்பட்ட ஏராளமான கடிதங்கள் மற்றும் பொதிகள் புதன்கிழமை (20) நண்பகல் 12.00 மணியளவில் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் (BIA) சரக்கு மையத்தில் குவிந்துள்ளன.
+
+சர்வதேச தபால்களின் குவிப்பு அத்தியாவசிய ஆவணங்கள் மற்றும் பொதிகளை வழங்குவதில் தாமதம் ஏற்படுவது குறித்து கவலைகளை எழுப்பியுள்ளது, ஏனெனில் வேலைநிறுத்தம் நாடு முழுவதும் தபால் நடவடிக்கைகளை தொடர்ந்து பாதிக்கிறது.
+
+◼️
+
+[Data](articles/e6c7ebe4.json)
+
+---
 
 ### மாவனெல்ல யுவதி மாயம்
 
@@ -137,6 +151,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1a4a9c67.json)
+
+---
+
+### Over 1,300 bullets found from abandoned well in Jaffna
+
+*2025-08-20 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111674/over-1300-bullets-found-from-abandoned-well-in-jaffna) · `en`
+
+A total of 1,393 bullets have been recovered from an abandoned well in Kodikamam, Jaffna, police said.
+
+According to the Kodikamam Police, the ammunition was discovered yesterday (19), concealed in a bag unearthed during the removal of sediment from a well that had remained abandoned for several years.
+
+Preliminary assessments indicate that the bullets were corroded. Authorities suspect that the ammunition may have been discarded in the well during the period of armed conflict.
+
+The bag containing the ammunition is scheduled to be presented before the Chavakachcheri Magistrate’s Court. Following judicial procedures, the bomb disposal unit is expected to proceed with the deactivation of the recovered items.
+
+◼️
+
+[Data](articles/dc5ed2ac.json)
 
 ---
 
@@ -1731,47 +1763,5 @@ Extending her best wishes to the newly appointed members of the Parliamentary Ca
 ...
 
 [Data](articles/dc3d81f7.json)
-
----
-
-### Trump says Putin may not want to make a deal on Ukraine
-
-*2025-08-19 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111649/trump-says-putin-may-not-want-to-make-a-deal-on-ukraine) · `en`
-
-U.S. President Donald Trump said on Tuesday he hoped Russia’s Vladimir Putin would move forward on ending the war in Ukraine but conceded that the Kremlin leader may not want to make a deal at all, adding this would create a “rough situation” for Putin.
-
-In an interview with the Fox News “Fox & Friends” programme, Trump said he believed Putin’s course of action would become clear in the next couple of weeks. Trump again ruled out American boots on the ground in Ukraine and gave no specifics about the security guarantees he has previously said Washington could offer Kyiv under any post-war settlement.
-
-“I don’t think it’s going to be a problem (reaching a peace deal), to be honest with you. I think Putin is tired of it. I think they’re all tired of it, but you never know,” Trump said.
-
-...
-
-[Data](articles/fc7bdc5f.json)
-
----
-
-### පෑලියගොඩ පුද්ගල ඝාතනය ගැන තවත් තොරතුරු
-
-*2025-08-19 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213557) · `si`
-
-පෑලියගොඩ මාළු වෙළෙඳසැලේ සේවකයෙකු පෑලියගොඩදී අද (19) වෙඩි තබා ඝාතනය කර තිබුණි.
-
-වෙඩික්කරුවන්ගේ ඉලක්කය වූ තැනැත්තා පමණක් නොව මහමඟ ගමන් කරමින් සිටි පුද්ගලයෙක් ද මෙම වෙඩි ප්‍රහාරයට ලක්වී තුවාල ලැබීය.
-
-පෑලියගොඩ, ඥාණරතන මාවත ප්‍රදේශයේදී අද උදෑසන 9:30ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණි.
-
-යතුරුපැදියකින් පැමිණි දෙදෙනෙක් මාර්ගයේ ගමන් කරමින් සිටි අයෙකු ඉලක්ක කර T56 වර්ගයේ ගිනිඅවියකින් වෙඩිතැබීම සිදුකර ඇති බව පොලිසිය පවසයි.
-
-වෙඩිවැදීමෙන් තුවාල ලැබූ දෙදෙනා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණු අතර එහිදී වෙඩික්කරුවන්ගේ ඉලක්කය වූ පුද්ගලයා අද දහවල් ජීවිතක්ෂයට පත් විය.
-
-වෙඩි තැබීමෙන් ඝාතනය වූ පුද්ගලයා අයියප්පන් ප්‍රභූ නම් 40 හැවිරිදි අයෙකි.
-
-ඔහු පෑලියගොඩ මාළු වෙළඳසැලේ සේවය අවසන් කර නිවස බලා පැමිණෙමින් සිටියදී වෙඩි ප්‍රහාරයට ලක්වී තිබුණි.
-
-ඝාතනය වූ පුද්ගලයා මෝදර ප්‍රදේශයේ පදිංචිකරුවකු වන අතර වැල්ලේ සාරංග නම් අපරාධකරුගෙන් එල්ල වූ මරණ තර්ජන හමුවේ ඔහු පෑලියගොඩට පැමිණ සිට ඇති බව පොලීසිය පැවසීය.
-
-...
-
-[Data](articles/4e6ea318.json)
 
 ---

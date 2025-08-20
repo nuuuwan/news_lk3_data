@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 22:08:05**
+As of **2025-08-20 22:22:35**
 
 ## Newspaper Stats
 
-*Scraped **71,431** Articles*
+*Scraped **71,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,872
 adaderanalk | 8,995
 tamilmirrorlk | 10,506
 virakesarilk | 11,820
-adaderanasinhalalk | 12,340
+adaderanasinhalalk | 12,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,431 articles have been extended.
+61,973 (86.8%) of 71,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### කරච්චි නගරයටත් ගංවතුර
+
+*2025-08-20 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213590) · `si`
+
+පාකිස්තානයට මේ දිනවල ඇඳහැලෙන ධාරානිපාත මෝසම් වර්ෂාව හේතුවෙන් එරට අගනුවර මෙන්ම ජනාකීර්ණම නගරය වන කරච්චි නුවරට දැඩි බලපෑම් එල්ල වී ඇත.
+
+මේ හේතුවෙන් එහි පාසල් සහ රජයේ කාර්යාල වසා දැමීමට පවා පාකිස්තාන රජයට සිදුව තිබේ.
+
+වර්ෂාව හේතුවෙන් අවම වශයෙන් පුද්ගලයින් 10 දෙනෙකු මේ වනවිට මියගොස් ඇති අතර, එම ප්‍රදේශයට තවදුරටත් තද වැසි ඇතිවිය හැකි බවට පුරෝකථනය කර ඇත.
+
+ඉකුත් සිකුරාදා වයඹ දිග කඳුකරයට බලපෑ හදිසි ගංවතුරෙන් මියගිය සංඛ්‍යාව 385 දක්වා ඉහළගිය අතර, තවත් නිශ්චිත සංඛ්‍යාවක් අතුරුදහන් වී ඇති බව එරට බලධාරීන් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/d9aad608.json)
+
+---
 
 ### ”அனைத்து துறையிலும் கைரேகை முறையை அமுல்படுத்த வேண்டும்”
 
@@ -1773,19 +1791,5 @@ We stand at an inflection point: modernise and transition to clean energy at sca
 ...
 
 [Data](articles/6d095513.json)
-
----
-
-### SVAT to risk-based refunds: Turning point in Sri Lanka’s tax policy
-
-*2025-08-20 13:01:59* · [`dailyftlk`](https://www.ft.lk/columns/SVAT-to-risk-based-refunds-Turning-point-in-Sri-Lanka-s-tax-policy/4-780469) · `en`
-
-As Sri Lanka transitions from SVAT to a risk-based VAT refund system, the importance of a reliable and intelligent computerised infrastructure cannot be overstated
-
-As Sri Lanka stands just weeks away from the abolition of the Simplified VAT (SVAT) scheme on 1 October 2025, the country is preparing to transition to a risk-based VAT refund system. This marks a significant shift in the VAT landscape—one that will impact exporters, tax administrators, and the broader economy. While the Inland Revenue Department (IRD) has made efforts to create awareness on the anticipated changes and its impact, the question remains: Are both taxpayers and officials truly ready for this transformation?
-
-...
-
-[Data](articles/53fbd9b7.json)
 
 ---

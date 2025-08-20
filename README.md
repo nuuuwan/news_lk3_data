@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 15:32:39**
+As of **2025-08-20 15:49:39**
 
 ## Newspaper Stats
 
-*Scraped **71,358** Articles*
+*Scraped **71,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,012
-adalk | 6,859
+dailyftlk | 5,014
+adalk | 6,861
 adaderanalk | 8,986
-tamilmirrorlk | 10,494
+tamilmirrorlk | 10,495
 virakesarilk | 11,816
 adaderanasinhalalk | 12,332
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 12,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,358 articles have been extended.
+61,973 (86.8%) of 71,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### மிஸ் இந்தியா யுனிவர்ஸ் அழகி மணிகா
+
+*2025-08-20 15:27:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிஸ்-இந்தியா-யுனிவர்ஸ்-அழகி-மணிகா/175-363139) · `ta`
+
+ஜெய்ப்பூரில் நடைபெற்ற மிஸ் இந்தியா யுனிவர்ஸ் 2025ம் ஆண்டுக்கான அழகிப்போட்டியில் ராஜஸ்தான் மாநிலத்தை சேர்ந்த மணிகா விஸ்வகர்மா தெரிவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/1d5c7ae0.json)
+
+---
+
+### කොරියාවේ අඛණ්ඩ සහාය ලංකාවේ ප්‍රමුඛතාව අනුව
+
+*2025-08-20 15:26:53* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-අඛණ්ඩ-සහාය-ලංකාවේ-ප්‍රමුඛතාව-අනුව/11-417971) · `si`
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ශ්‍රී ලංකාවේ කොරියානු තානාපති මියොන් ලී ( Miyon LEE) මහත්මිය අතර හමුවක් ඊයේ (18) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+කොරියානු නව පාලනය යටතේ ශ්‍රී ලංකා රජයේ ප්‍රමුඛතාවන් හඳුනාගෙන සමීපව කටයුතු කිරීමට සූදානම් බව ශ්‍රී ලංකාවේ කොරියානු තානාපති මියොන් ලී ( Miyon LEE) මහත්මිය මෙහිදී ප්‍රකාශ කළාය.
+
+ශ්‍රී ලංකා රජයේ ප්‍රමුඛතා මත කොරියානු රජයේ අඛණ්ඩ සහයෝගය ලබා දීමට සූදානම් බවද තානාපතිනිය අවධාරණය කළාය.
+
+කොරියානු ජාත්‍යන්තර සහයෝගීතා ආයතනයේ (KOICA) නව නියෝජිතයින්ද මෙහිදී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමුවූ අතර ශ්‍රී ලංකාව තුළ සිදු කෙරෙන KOICA ව්‍යාපෘති කඩිනමින් නිම කිරීම සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡා කෙරිණි.
+
+ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රෝෂන් ගමගේ, KOICA ශ්‍රී ලංකා හි අධ්‍යක්ෂ යූලි ලී ( Yooli LEE) සහ කොරියානු එක්සිම් බැංකුවේ කොරියානු ආර්ථික සංවර්ධන සහයෝගිතා අරමුදලේ (EDCF) කොළඹ කාර්යාලයේ අධ්‍යක්ෂ ඕ ජියොන්ග්-ටේ (Oh Joeng-tae) යන මහත්ම මහත්මීහු ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/178f198e.json)
+
+---
+
+### Vidullanka commissions 2 MW solar project in Horana
+
+*2025-08-20 15:24:16* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-commissions-2-MW-solar-project-in-Horana/34-780479) · `en`
+
+Vidullanka PLC yesterday said it commissioned a 2 MW solar plant, constructed by its subsidiary, Vidul Solar Power Ltd.
+
+This marks the successful completion of the second phase of the Horana Solar Project. The new facility has an AC capacity of 2 MW and a DC capacity of 2.5 MW, with the ability to export approximately 3.6 GWh of clean energy annually to the national grid, the company said.
+
+The inauguration ceremony took place on Saturday (16) and was graced by Energy Minister Eng. Kumara Jayakody, Ceylon Electricity Board and Sustainable Energy Authority officials and representatives of key Government and civil authorities.
+
+This milestone brings Vidullanka’s total portfolio to 23 operational power plants with a combined installed capacity of 63 MW in the renewable energy sector.
+
+...
+
+[Data](articles/2f0104e6.json)
+
+---
+
+### Japan’s revolutionary “W.O.W” technology to debut in Sri Lanka
+
+*2025-08-20 15:22:33* · [`dailyftlk`](https://www.ft.lk/business/Japan-s-revolutionary-W-O-W-technology-to-debut-in-Sri-Lanka/34-780478) · `en`
+
+Japanese innovation with 40 patents targets global health and wellness markets
+
+A revolutionary Japanese technology with the potential to reshape sectors from food preservation to healthcare will make its debut in Sri Lanka. The “W.O.W” (Water Optimising Waves) innovation, developed by Evertron Co., Ltd., was unveiled at the Hilton Colombo by its inventor and CEO Hisao Tanaka, in a landmark gathering of industry leaders and innovators.
+
+“Sri Lanka is the first country where I am fulfilling my dream of sharing this technology internationally,” he said, noting the nation’s historical ties with Japan.
+
+The patented W.O.W system – protected by around 40 global patents – enhances the molecular structure of water, enabling it to maintain cellular freshness in food, flowers and even human cells.
+
+...
+
+[Data](articles/801d618d.json)
+
+---
 
 ### SLANZBC hosts 30th AGM followed by panel discussion on “Accelerating Sri Lanka’s Digital Economy”
 
@@ -385,6 +453,20 @@ The bag containing the ammunition is scheduled to be presented before the Chavak
 ◼️
 
 [Data](articles/4b981d98.json)
+
+---
+
+### දේශබන්දුගේ ඉල්ලීමක් ප්‍රතික්ෂේප වෙයි
+
+*2025-08-20 13:20:16* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දුගේ-ඉල්ලීමක්-ප්‍රතික්ෂේප-වෙයි/11-417970) · `si`
+
+තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ගොනුකර තිබූ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය ප්‍රතික්ෂේප කර තිබේ.
+
+අදාළ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය අද (20දා) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබිණි.
+
+◼️
+
+[Data](articles/56c552b6.json)
 
 ---
 
@@ -1681,99 +1763,5 @@ In April where rains also improved, renewable energy was 809 GWh, or a share of 
 ◼️
 
 [Data](articles/b2e7ce01.json)
-
----
-
-### Air Canada to resume flights after pay deal struck with union
-
-*2025-08-20 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111655/air-canada-to-resume-flights-after-pay-deal-struck-with-union) · `en`
-
-Flight crew at Air Canada have ended a dispute with the airline which had grounded flights and stranded thousands of passengers since Saturday.
-
-A tentative agreement was announced by the union representing flight attendants and confirmed by the airline, which said flights will resume later on Tuesday.
-
-More than 10,000 staff had walked out in protest at pay and scheduling. The deal has not been disclosed in full, though the union said it achieves “transformational change” for workers and the industry.
-
-The agreement will now be presented to members to be ratified.
-
-The breakthrough came nine hours after talks began with the help of an approved mediator appointed by the government.
-
-“Unpaid work is over,” said the Canadian Union of Public Employees (CUPE) in a statement early on Tuesday, calling the negotiations a “historic fight” for the industry.
-
-The union also advised its members to “fully co-operate with resumption of operations”.
-
-...
-
-[Data](articles/bb34eb0b.json)
-
----
-
-### Sri Lanka Aviation Unit honoured for outstanding service in MINUSCA
-
-*2025-08-20 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111654/sri-lanka-aviation-unit-honoured-for-outstanding-service-in-minusca) · `en`
-
-The Sri Lanka Aviation Unit in Bria, serving under the United Nations mandate in the Central African Republic (MINUSCA), has received high praise and official commendation for the successful execution of a high-risk Casualty Evacuation (CASEVAC) mission, the Ministry of Defence said in a statement.
-
-The Ministry added that the unit headed by the 10th Aviation Contingent Commander, Group Captain Uditha De Silva was also commended for the outstanding commitment, conscientiousness and professional expertise in providing critical air support, contributing significantly to the success of the mission.
-
-The mission, carried out in a highly hostile and unpredictable operational environment, involved the urgent evacuation of three severely wounded UN personnel from Zemio. The operation was conducted using an Mi-17 helicopter (UNO 326P) and required precision flying, quick decision-making and exceptional teamwork under extreme pressure.
-
-...
-
-[Data](articles/a042261f.json)
-
----
-
-### ප්‍රදේශ රැසකට වැසි රහිත කාලගුණයක්
-
-*2025-08-20 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213560) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇතිවිය හැකිය.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල විටින් විට හමන පැ.කි.මී.30-40ක පමණ තරමක තද සුළං ඇති වේ.
-
-◼️
-
-[Data](articles/d2f08ef2.json)
-
----
-
-### “Suwa Seriya” ambulances to be increased from 272 to 400
-
-*2025-08-20 05:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111653/suwa-seriya-ambulances-to-be-increased-from-272-to-400) · `en`
-
-Authorities are seeking provisions to increase the number of “Suwa Seriya” ambulances, currently operational in different parts of the country from 272 to 400.
-
-This proposal was deliberated during a review of the projects implemented under the 2025 budgetary allocations for the Ministry of Health and Mass Media, together with a pre-budget discussion for the year 2026, held at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
-
-The discussion broadly scrutinized the allocations made for 41 institutions under four departments of the Ministry of Health and Mass Media, as well as the progress of projects implemented accordingly, the President’s Media Division said.
-
-During the review meeting, the President instructed officials to focus special attention in the upcoming budget on strengthening primary healthcare services.
-
-...
-
-[Data](articles/83faaed2.json)
-
----
-
-### India, China agree to resume direct flights, boost business links
-
-*2025-08-20 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111652/india-china-agree-to-resume-direct-flights-boost-business-links) · `en`
-
-India and China agreed on Tuesday (Aug 19) to resume direct flights and step up trade and investment flows as the neighbours rebuild ties damaged by a deadly border clash in 2020.
-
-The announcements followed Chinese Foreign Minister Wang Yi’s two-day visit to New Delhi for the 24th round of border talks with India’s National Security Advisor Ajit Doval. The talks addressed troop deployments, delimitation of borders and boundary management, though no breakthrough was achieved.
-
-Beijing said both countries agreed to meet again in China in 2026.
-
-The two sides said they would restore direct flights suspended since the COVID-19 pandemic, ease visas and boost trade and investment. No date was given for when flights would resume.
-
-“Stable, predictable, constructive ties between India and China will contribute significantly to regional as well as global peace and prosperity,” Prime Minister Narendra Modi posted on X after meeting Wang.
-
-...
-
-[Data](articles/7482e932.json)
 
 ---

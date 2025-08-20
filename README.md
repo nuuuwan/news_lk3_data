@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 09:09:35**
+As of **2025-08-20 09:29:43**
 
 ## Newspaper Stats
 
-*Scraped **71,271** Articles*
+*Scraped **71,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,854
 adaderanalk | 8,974
 tamilmirrorlk | 10,463
 virakesarilk | 11,810
-adaderanasinhalalk | 12,318
+adaderanasinhalalk | 12,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,271 articles have been extended.
+61,973 (87.0%) of 71,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### මනූෂ FCIDයට
+
+*2025-08-20 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213569) · `si`
+
+හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතා මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/092182ce.json)
+
+---
+
+### විදෙස් සංචාරකයින් 1,338ක් ගුවන්තොටේ දී රියදුරු බලපත්‍ර අරන්
+
+*2025-08-20 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213568) · `si`
+
+කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පරිශ්‍රයේ ස්ථාපිත කරන ලද මෝටර්රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ කාර්යාලය මඟින් විදේශ සංචාරකයින් 1,338 දෙනෙකු සඳහා රියදුරු බලපත්‍ර නිකුත් කර තිබේ.
+
+මෙරට සංචාර සඳහා පැමිණෙන විදේශිකයින්ට ස්වයං ප්‍රවාහන පහසුව සලසා ගැනීමට රියදුරු බලපත්‍ර නිකුත් කිරීමේ කවුළුවක් පසුගිය 3 වනදා ස්ථාපිත කෙරුණි.
+
+මීට පෙර විදේශිකයින් විසින් රියදුරු බලපත්‍ර ලබාගැනීම වෙනුවෙන් වේරහැර පිහිටි මෝටර්රථ කොමසාරිස් කාර්යාලය වෙත පැමිණිය යුතුව තිබූ බව සඳහන්ය.
+
+පසුගිය 3 වනදා සිට 17 වනදා දක්වා කාලය තුළ රියදුරු බලපත්‍ර 1,338ක් නිකුත් කර ඇති අතර ඉන් වැඩිම ප්‍රමාණයක් නිකුත් කර ඇත්තේ පසුගිය 7 වනදා බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර මෙරටට පැමිණෙන විදේශිකයන්ට රුපියල් 2,000ක් වැනි සුළු මුදලකට රියදුරු බලපත්‍ර නිකුත් කිරීම සම්බන්ධයෙන් විරෝධය පලකරන බව ශ්‍රී ලංකා සංචාරක රියදුරන්ගේ එකමුතුව සඳහන් කරයි.
+
+එහි නියෝජිත අමිල කෝරලගේ මහතා පැවසුවේ, මේ හේතුවෙන් එම රැකියාවේ නිරත පිරිස් සඳහා දැඩි අසාධාරණයක් සිදුව ඇති බවය.
+
+◼️
+
+[Data](articles/f654f7d9.json)
+
+---
 
 ### සෞඛ්‍ය පුරප්පාඩු බඳවා ගැනීම් නවතී - දෙස් විදෙස් නිවාඩුත් අවලංගුයි
 
@@ -1771,51 +1805,5 @@ Additionally, it can assume the roles of editors and content writers, significan
 ◼️
 
 [Data](articles/e2f0b2a0.json)
-
----
-
-### Acting Director of Police Cultural Division arrested on bribery charges further remanded
-
-*2025-08-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111625/acting-director-of-police-cultural-division-arrested-on-bribery-charges-further-remanded) · `en`
-
-The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 2.
-
-The order was issued by Colombo Chief Magistrate Thanuja Lakmali Jayatunga after considering the facts presented by officers of the Bribery Commission and the defense counsel.
-
-According to the Bribery Commission, the suspect, during his tenure as the Senior Superintendent of Police in charge of the Galle and Embilipitiya Police Divisions, had allegedly opened three bank accounts in private banks under another person’s name.
-
-It is alleged that he had received approximately Rs. 14 million as bribes from organized criminals, individuals seeking police services and other offenders, which were deposited into those accounts.
-
-Accordingly, he was arrested under charges of accepting bribes and money laundering and was produced before court.
-
-◼️
-
-[Data](articles/ce98caa2.json)
-
----
-
-### Interviews begin to register new political parties, 47 shortlisted
-
-*2025-08-19 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111624/interviews-begin-to-register-new-political-parties-47-shortlisted-) · `en`
-
-The National Election Commission (EC) states that interviews for new political parties applying for registration for the year 2025 have commenced.
-
-Commissioner-General of Elections Saman Sri Ratnayake noted that 47 political parties have been selected for preliminary interviews.
-
-Applications for registering political parties for this year were called in February, during which a total of 83 applications were submitted.
-
-Out of these 83 applications, 36 were rejected due to failure to meet the basic requirements, according to Commissioner-General Ratnayake.
-
-Accordingly, preliminary interviews are currently being conducted for the remaining 47 applications.
-
-Political parties selected from these initial interviews will be invited to a second round of interviews.
-
-Following the second round, those parties that qualify will be officially registered as new political parties for the year 2025, the Election Commission confirmed.
-
-At present, there are 86 recognized political parties in Sri Lanka.
-
-◼️
-
-[Data](articles/6dcd2c03.json)
 
 ---

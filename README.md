@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 10:33:16**
+As of **2025-08-20 10:49:52**
 
 ## Newspaper Stats
 
-*Scraped **71,283** Articles*
+*Scraped **71,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,854
 adaderanalk | 8,978
 tamilmirrorlk | 10,463
 virakesarilk | 11,811
-adaderanasinhalalk | 12,322
+adaderanasinhalalk | 12,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,283 articles have been extended.
+61,973 (86.9%) of 71,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### බස්රථ අනතුරකින් 73 දෙනෙකු මියයයි
+
+*2025-08-20 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213572) · `si`
+
+බටහිර ඇෆ්ගනිස්ථානයේ සිදුවූ බස්රථ අනතුරකින් පුද්ගලයින් 73 දෙනෙකු මියගොස් ඇති අතර ඉන් 17 දෙනෙකු කුඩා ළමුන් බව විදෙස් මාධ්‍ය පවසයි.
+
+කාබුල් බලා යමින් සිටි බස් රථය ඊයේ (19) රාත්‍රියේ හේරාත් පළාතේදී ට්‍රක් රථයක සහ යතුරුපැදියක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+අනතුර සිදුවීමෙන් අනතුරුව බස් රථය ගිනි ගැනීමකට ද ලක්වූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+බස්රථයේ ගමන් ගත් මගීන්ගෙන් වැඩි දෙනෙකු ඉරානයෙන් පිටුවහල් කරන ලද ඇෆ්ගන් සංක්‍රමණිකයන් බව සඳහන්ය.
+
+බස්රථයේ සිටි මගීන් සියලුදෙනාම මිය ගොස් ඇති අතර ට්‍රක් රථයේ සහ යතුරුපැදියේ පැමිණි දෙදෙනෙකු ද මිය ගොස් ඇත.
+
+හේරාත් පොලීසිය පවසන ලද්දේ බස්රථ රියදුරුගේ අධික වේගය සහ නොසැලකිල්ල හේතුවෙන් අනතුර සිදු වූ බවය.
+
+◼️
+
+[Data](articles/19dcbfe8.json)
+
+---
 
 ### පාකිස්තාන ක්‍රිකට් ආයතනයෙන් දැඩි තීරණයක්
 
@@ -1799,27 +1821,5 @@ The 31-year-old Sri Lankan worker suffered the mistreatment for about five minut
 ...
 
 [Data](articles/5f769661.json)
-
----
-
-### Two businessmen held at BIA with smuggled cigarettes
-
-*2025-08-19 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111628/two-businessmen-held-at-bia-with-smuggled-cigarettes) · `en`
-
-Two persons have been arrested at the Bandaranaike International Airport (BIA) in Katunayake earlier today (19), while attempting to smuggle foreign-made cigarettes worth Rs. 5.94 million into the country.
-
-The duo was arrested with the large consignment of foreign-made cigarettes by the Police Narcotics Bureau (PNB) officers.
-
-They had purchased the stock of cigarettes in Dubai and travelled to Sri Lanka onboard a flight from Kuwait.
-
-The arrested duo has been identified as businessmen from Trincomalee aged 33 and 45 years.
-
-They were in possession of 198 cartons containing 39,600 cigarettes at the time of the arrest.
-
-The suspects and the smuggled cigarettes are to be produced before the Negombo Magistrate’s Court.
-
-◼️
-
-[Data](articles/fc75e6a4.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 13:52:49**
+As of **2025-08-20 14:08:37**
 
 ## Newspaper Stats
 
-*Scraped **71,331** Articles*
+*Scraped **71,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,010
 adalk | 6,859
-adaderanalk | 8,984
-tamilmirrorlk | 10,480
-virakesarilk | 11,811
-adaderanasinhalalk | 12,328
+adaderanalk | 8,985
+tamilmirrorlk | 10,484
+virakesarilk | 11,816
+adaderanasinhalalk | 12,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,331 articles have been extended.
+61,973 (86.9%) of 71,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### மனைவியைக் கேட்டு கம்பத்தில் ஏறிய நபரால் பதற்றம்
+
+*2025-08-20 13:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியைக்-கேட்டு-கம்பத்தில்-ஏறிய-நபரால்-பதற்றம்/175-363124) · `ta`
+
+வெளிநாட்டில் பணிபுரியும் தனது மனைவியை மீட்டு வரவழைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்று கோரி, ஒரு நபர் மின் கம்பத்தின் மேல் ஏறியதால் கறுவாத்தோட்ட பொலிஸ் பிரிவிலுள்ள அந்த இடத்தில் பதற்றமான சூழ்நிலை ஏற்பட்டது.
+
+சம்பவ இடத்திற்கு காவல்துறையினரும் தீயணைப்புப் படையினரும் வரவழைக்கப்பட்டு, கூட்டு நடவடிக்கையின் மூலம் அந்த நபரை பாதுகாப்பாக கீழே இறக்கினர். பல மணி நேரத்திற்குப் பிறகு, அவர் காயமின்றி மீட்கப்பட்டார்.
+
+சம்பவத்தின் போது ஊடகங்களுக்குப் பேசிய அந்த நபர், தனது மூன்று குழந்தைகளும் தங்கள் தாய் தங்கள் முன்பாக இல்லாமல் சிரமப்படுவதாகவும், அவரை இலங்கைக்குத் திரும்புவதற்கு வசதி செய்யுமாறு அதிகாரிகளை வலியுறுத்தினார் என்றும் விளக்கினார்.
+
+◼️
+
+[Data](articles/b1793a38.json)
+
+---
+
+### நல்லூர் தேர்த்திருவிழாவினையொட்டி நாளை யாழ். மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை
+
+*2025-08-20 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/222936) · `ta`
+
+வரலாற்று சிறப்புமிக்க யாழ்ப்பாணம் நல்லூர் கந்தசாமி ஆலய தேர்த்திருவிழா பாடசாலை நாளில் இடம்பெறுகின்றமையால், பாடசாலை மாணவர்கள் ஆசிரியர்களும் குறித்த நிகழ்வில் பங்குபெற வேண்டும் எனும் நோக்கில் யாழ் மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை நாளை வியாழக்கிழமை (21) வழங்கவேண்டும் என பாராளுமன்ற உறுப்பினர்களான வைத்தியர் ப.பத்மநாதன் சத்தியலிங்கம் மற்றும் ரஜீவன் ஜெயச்சந்திரமூர்த்தி ஆகியோர் இன்று புதன்கிழமை (20) மதியம் பிரதமர் ஹரிணி அமரசூரியவை  நேரில் சந்தித்து கோரிக்கை விடுத்தனர்.
+
+இதன்பிரகாரம், உடனடியாக கல்வி அமைச்சின் செயலாளருக்கு நாளைய தினம் யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறையினை அறிவிக்குமாறு பிரதமர் பணித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3ad32d8a.json)
+
+---
+
+### முல்லைத்தீவு இளைஞன் படுகொலை:   4 இராணுவத்தினருக்கும் விளக்கமறியல் நீடிப்பு
+
+*2025-08-20 13:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவு-இளைஞன்-படுகொலை-4-இராணுவத்தினருக்கும்-விளக்கமறியல்-நீடிப்பு/175-363123) · `ta`
+
+முல்லைத்தீவு முத்தியன்காடு குளத்தில் இருந்து சடலமாக மீட்கப்பட்ட 32 வயதுடைய நபரின் மரணம் தொடர்பாக, சார்ஜென்ட் உட்பட நான்கு இராணுவ வீரர்களின் விளக்கமறியல் ஆகஸ்ட் 26 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+முல்லைத்தீவில் உள்ள இராணுவ முகாமுக்குள் இரும்புத் துண்டுகளை சேகரிக்க ஆகஸ்ட் 9 ஆம் திகதி சென்றதாக கூறப்படும் எதிரிமானசிங்கம் கபில்ராஜ் என்பவரின் மரணம் தொடர்பான வழக்கிலேயே இந்த நான்கு இராணு வீரர்களின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+இது. இராணுவ வீரர்களை அவர் கண்டதும் முகாமிலிருந்து  அந்த இளைஞன் தப்பிச் சென்றதாகவும், பின்னர் அவரது உடல் அருகிலுள்ள குளத்தில் இருந்து கண்டுபிடிக்கப்பட்டது.
+
+சந்தேக நபர்கள் முல்லைத்தீவு நீதிவான் எஸ்.எச். மாருஸ் முன்னிலையில் செவ்வாய்க்கிழமை (19) ஆஜர்படுத்தப்பட்டு, பின்னர் அவர்களின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/99c20f29.json)
+
+---
+
+### මෙරට තහනම් උත්තේජක නියෝජ්‍යාතනයට ජාත්‍යන්තර තහනමක්
+
+*2025-08-20 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213578) · `si`
+
+ලෝක තහනම් උත්තේජක විරෝධී ඒජන්සිය (WADA) විසින් ශ්‍රී ලංකාවේ ජාතික තහනම් උත්තේජක විරෝධී සංවිධානය ලෝක තහනම් උත්තේජක විරෝධී නීති සංග්‍රහයට අනුකූල නොවන බව මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/9ab0fd24.json)
+
+---
+
+### 71 சதவீத குடும்பங்கள் உதவி கேட்கும் மனநிலையில் உள்ளனர்
+
+*2025-08-20 13:42:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/71-சதவீத-குடும்பங்கள்-உதவி-கேட்கும்-மனநிலையில்-உள்ளனர்/175-363121) · `ta`
+
+இலங்கையில் உள்ள மொத்த குடும்பங்களில் எழுபத்தொரு சதவீத குடும்பங்கள் நிவாரண உதவிக்காக விண்ணப்பித்துள்ளதாக கிராமப்புற மேம்பாடு, சமூகப் பாதுகாப்பு மற்றும் சமூக அதிகாரமளித்தல் அமைச்சர் உபாலி பன்னிலகே பாராளுமன்றத்தில் தெரிவித்தார்.
+
+இலங்கை குடும்பங்களில் 71 சதவீத குடும்பங்கள் உதவி கேட்கும் மனநிலையில் உள்ளன என்பதை நாம் கருத்தில் கொள்ள வேண்டும். கிராமப்புற வறுமையை ஒழிப்பது எங்கள் முதன்மையான முன்னுரிமைகளில் ஒன்றாக அடையாளம் காணப்பட்டுள்ளது.
+
+உதவியை நம்பி ஒரு குடும்பம் வளர்ச்சியடையாது. நலன்புரி நிதி உதவிகளை வழங்கும் அதே வேளையில், மறுபுறம், சமூகத்தை மேம்படுத்த முயற்சிகள் மேற்கொள்ளப்பட வேண்டும். இரண்டு மில்லியன் ஏழைக் குடும்பங்களை ஐந்து ஆண்டுகளுக்குள் மேம்படுத்தும் திட்டத்தை நாங்கள் தொடங்கியுள்ளோம் என்று அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/1a4a9c67.json)
+
+---
+
+### முக்கால் ஓட்டம்
+
+*2025-08-20 13:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/முக்கால்-ஓட்டம்/62-363120) · `ta`
+
+◼️
+
+[Data](articles/4b981d98.json)
+
+---
+
+### எமது போராட்டத்தை அரசாங்கம் தவறாக சித்தரிக்கின்றது - அரைகுறை ஆடையுடன் போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர்
+
+*2025-08-20 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222933) · `ta`
+
+அதிகாரிகள், அமைச்சருடன் இணைந்து தபால் ஊழியர்களின் வேலைநிறுத்தம் குறித்து தவறான தகவல்களை வெளியிட்டு  பொதுமக்களை தவறாக வழிநடத்துவதாக அரைகுறை ஆடையுடன் போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர் தெரிவித்துள்ளார்.
+
+எங்களுக்கு போதுமான சம்பளம் மற்றும் கொடுப்பனவுகளை வழங்குவதில் அதிகாரிகள் தவறிவிட்டதாலேயே இந்த வேலைநிறுத்தம் முன்னெடுக்கப்படுகின்றது.
+
+அத்துடன், ஊழியர்களின் ஒப்பந்தங்களை நிரந்தரமாக்குமாறு கோரியுள்ளோம். ஆனால், அதிகாரிகளும், அமைச்சரும் கைரேகை மற்றும் மேலதிக நேரம் பற்றி பேசுகிறார்கள்.
+
+அஞ்சல் தொழிற்சங்கங்களால் நடத்தப்படும் தொடர்ச்சியான வேலைநிறுத்தம் குறித்து பொதுமக்களிடம் அதிகாரிகள் தவறான தகவல்களை பரப்புகின்றனர்.
+
+நாடளாவிய ரீதியில் ஞாயிற்றுக்கிழமை (17) முதல் ஆரம்பித்த தபால் ஊழியர்களின் வேலை நிறுத்த போராட்டம் தொடர்ந்து இடம்பெற்று வருகின்றது.
+
+இதேவேளை, 19 முக்கிய கோரிக்கைகளை முன்வைத்து செவ்வாய்க்கிழமை (19) ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலுக்குப் பின்னரும், வேலைநிறுத்த போராட்டம் தொடரும் என தபால் தொழிற்சங்கங்கள் அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1dc7cd5f.json)
+
+---
 
 ### Building high-performing teams: Converting mystery into reality
 
@@ -59,6 +167,26 @@ In today’s hyper-competitive landscape, high-performance teams, being those el
 ◼️
 
 [Data](articles/3e8e23bd.json)
+
+---
+
+### Bribery case filed against ex-Minister Lakshman Yapa to be taken up in September
+
+*2025-08-20 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111673/bribery-case-filed-against-ex-minister-lakshman-yapa-to-be-taken-up-in-september) · `en`
+
+The Colombo High Court today (20) ordered to call a pre-trial conference in the case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Minister of Investment Promotion Lakshman Yapa Abeywardena and former Director General of the Board of Investment (BOI) Jayantha Edirisinghe on September 7.
+
+The case has been filed by the Bribery Commission alleging that the duo caused a loss of over Rs. 1.7 million to the government during the tenure of Lakshman Yapa Abeywardena as the Minister of Investment Promotion.
+
+The case was called before the Colombo High Court Judge Pradeep Abeyratne today (20), said Ada Derana reporter.
+
+During today’s proceedings, the attorney appearing for the Bribery Commission presented facts before court and requested permission to make several amendments to the indictment.
+
+Accordingly, court granted permission to the Bribery Commission to amend the relevant indictment.
+
+...
+
+[Data](articles/4c807df7.json)
 
 ---
 
@@ -119,6 +247,26 @@ The book’s emphasis on strategic and operational management makes it a valuabl
 ...
 
 [Data](articles/2b4712b3.json)
+
+---
+
+### 10 ஆயிரம் இலங்கையர்களுக்கு தாய்லாந்தில் தொழில்வாய்ப்பு !
+
+*2025-08-20 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/222929) · `ta`
+
+கம்போடியாவுடன் ஏற்பட்ட எல்லை மோதல்கள் காரணமாக தொழிலாளர் பற்றாக்குறை ஏற்பட்டதையடுத்து, அந்த இடைவெளியை நிரப்புவதற்காக இலங்கையிலிருந்து 10 ஆயிரம் தொழிலாளர்களை பணிக்கமர்த்த தாய்லாந்து அமைச்சரவை அனுமதியளித்துள்ளது.
+
+தாய்லாந்து மற்றும் கம்போடியாவிற்கு இடையே அண்மையில் இடம்பெற்ற எல்லை மோதல்களில் ஆயிரக்கணக்கான கம்போடிய தொழிலாளர்கள் தங்கள் நாட்டிற்குத் திரும்பியதால், தாய்லாந்தில் பல்வேறு துறைகளில் கடுமையான தொழிலாளர் பற்றாக்குறை ஏற்பட்டுள்ளது.
+
+தாய்லாந்தில் தற்போது விவசாயம், கட்டுமானம் மற்றும் உற்பத்தி போன்ற துறைகளில் தொழிலாளர்கள் பற்றாக்குறை அதிகமாக காணப்படுகின்றது.
+
+இந்நிலையில், இலங்கையிலிருந்து தொழிலாளர்களை பணிக்கமர்த்தும் திட்டத்திற்கு அமைச்சரவை அனுமதி அளித்துள்ளதாக தாய்லாந்து தொழில்  அமைச்சர் பொங்கவின் அறிவித்துள்ளார்.
+
+இதுவரை 30,000க்கும் மேற்பட்ட இலங்கை தொழிலாளர்கள் வேலைக்கு விண்ணப்பித்துள்ளதாகவும், அவர்களில் முதல் கட்டமாக 10,000 பேர் விரைவில் தாய்லாந்தில் வேலைகளுகளுக்கு இணைத்துக்கொள்ளப்படுவார்கள் என்றும் தாய்லாந்து தொழில்  அமைச்சர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d07e40f9.json)
 
 ---
 
@@ -564,6 +712,22 @@ Previously, the JCPSM had announced plans to initiate trade union action from to
 
 ---
 
+### தேசபந்து தென்னகோனின் முன் பிணை மனு நிராகரிப்பு
+
+*2025-08-20 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222923) · `ta`
+
+முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது செய்யப்படுவதைத் தடுக்க உத்தரவிடக் கோரி தாக்கல் செய்த முன்பிணை மனுவை கொழும்பு கோட்டை நீதவான் நீதிமன்றம் நிராகரித்துள்ளது.
+
+முன்னாள் பொலிஸ் மா அதிபரின் சட்டதரணிகளால் தாக்கல் செய்யப்பட்ட பிணை மனுவை இன்று புதன்கிழமை (20) காலை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர பரிசீலித்தார்.
+
+அதன்படி, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கோரிய முன் பிணை  மனுவை  நீதவான் நிராகரித்துள்ளார்.
+
+◼️
+
+[Data](articles/76111b4e.json)
+
+---
+
 ### கைவிரல் அடையாளம்
 
 *2025-08-20 12:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கைவிரல்-அடையாளம்/62-363097) · `ta`
@@ -631,6 +795,26 @@ Cargo has been making profits though SriLankan Airlines has been incurring a los
 ...
 
 [Data](articles/2527cdbb.json)
+
+---
+
+### ஈரானில் இருந்து நாடு கடத்தப்பட்ட ஆப்கானியர்கள் சென்ற பஸ் விபத்து ;  71 பேர் உயிரிழப்பு
+
+*2025-08-20 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/222922) · `ta`
+
+ஈரானில் இருந்து நாடு கடத்தப்பட்ட ஆப்கானியர்களை ஏற்றிச் சென்ற பயணிகள் பஸ் ஒன்று லொறி மற்றும் மோட்டார் சைக்கிள் மீது மோதி விபத்துக்குள்ளானதில் 71 பேர் உயிரிழந்துள்ளனர். உயிரிழந்தவரிகளில் 17 சிறுவர்கள் அடங்குவர்.
+
+குசாரா மாவட்டத்தில் உள்ள ஹெராத் நகருக்கு வெளியே உள்ள வீதியில் பஸ் வேகமாக சென்றமையினால் இந்த விபத்து இடம்பெற்றுள்ளதாக ஹெராத் மாகாண பொலிஸார் தெரிவித்தனர்.
+
+மில்லியன் கணக்கான புலம்பெயர்ந்தோரை வெளியேற கட்டாயப்படுத்த தெஹ்ரான் அழுத்தம் கொடுக்கும் பிரச்சாரத்தைத் ஆரம்பித்த பின்னர், அண்மைய மாதங்களில் ஈரானில் இருந்து ஆப்கானியர்கள் பெரும் அளவில் வெளியேறுகின்றார்கள்.
+
+பஸ் முதலில் மோட்டார் சைக்கிள் மீது மோதி, பின்னர் எரிபொருள் ஏற்றிச் சென்ற லொறி மீது மோதி தீப்பிடித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+லொறியில் பயணித்த இரண்டு பேரும் மோட்டார் சைக்கிளில் பயணித்த இரண்டு பேரும் உயிரிழந்தவர்களில் அடங்குவர். பல தசாப்தங்களாக இடம்பெற்ற மோதலுக்கு பின்னர் வீதிகள், அதிவேக வீதிகளில் ஆபத்தான முறையில் வாகனம் ஓட்டுவதால் ஆப்கானிஸ்தானில் போக்குவரத்து விபத்துக்கள் பொதுவானவையாக காணப்படுகின்றன.
+
+...
+
+[Data](articles/c7faaef1.json)
 
 ---
 
@@ -1589,191 +1773,5 @@ The liberalised rules will now offer Enhanced Preference countries (including Sr
 ...
 
 [Data](articles/2c056708.json)
-
----
-
-### SamsonLines appoints Rushdi Zackariya as director to spearhead future expansion
-
-*2025-08-19 18:50:00* · [`islandlk`](http://island.lk/samsonlines-appoints-rushdi-zackariya-as-director-to-spearhead-future-expansion/) · `en`
-
-Samson Logistics (Pvt) Ltd (SamsonLines), a subsidiary of DSI Samson Group, in a strategic move to transform into a fully integrated third-party logistics (3PL) provider has appointed Rushdi Zackariya to its Board of Directors, effective immediately. This appointment marks a pivotal step in the company’s long-term vision to expand its service portfolio beyond freight forwarding and establish itself as a comprehensive logistics solutions provider. The announcement comes at a time where Sri Lanka is seeing significant sustained growth in e-commerce, as well as a growing hub for South Asia.
-
-...
-
-[Data](articles/93ac7f5e.json)
-
----
-
-### GP Certified – paves way for certified plastic recycling
-
-*2025-08-19 18:49:00* · [`islandlk`](http://island.lk/gp-certified-paves-way-for-certified-plastic-recycling/) · `en`
-
-Transforming Sri Lanka’s plastic recycling industry requires bold leadership and collaboration. GP Certified has partnered with pioneering recyclers and FMCG brands who are championing the certification process through pilot programs. These early adopters – “Champions of Change” – are setting the foundation for the country’s transition to a more sustainable and profitable plastic waste management system.
-
-The Champions of Change include leading recyclers who are refining their processes to meet GP Certified standards and FMCG companies committed to integrating certified recycled plastics into their packaging. Their participation in the pilot phase is instrumental in testing and refining the certification process, ensuring that it is both rigorous and practical for industry-wide adoption.
-
-...
-
-[Data](articles/90b45261.json)
-
----
-
-### Browns recognised at NBEA 2025
-
-*2025-08-19 18:49:00* · [`islandlk`](http://island.lk/browns-recognised-at-nbea-2025/) · `en`
-
-One of Sri Lanka’s leading and most diversified conglomerates, Brown & Company was recently honoured with the Silver Award in the Trading Category at the renowned National Business Excellence Awards (NBEA) 2025, organised by the National Chamber of Commerce of Sri Lanka (NCCSL).
-
-Held on the 24th of July at the Shangri-La Hotel, Colombo, the annual awards ceremony commemorated organisations that had demonstrated an unwavering commitment to high standards in business performance while contributing to nation-wide economic development.
-
-The stringent NBEA framework measures companies based on several core evaluation metrics such as Excellence in Strategy and Leadership, Corporate Governance, Capacity Building, Performance Management, Local and Global Market Reach, Corporate Social Responsibility, Environmental Sustainability, and Business and Financial Results.
-
-...
-
-[Data](articles/cbbf3054.json)
-
----
-
-### S&P SL 20 crosses 6,000 Pts. for the first time as banking counters prove attractive
-
-*2025-08-19 18:48:00* · [`islandlk`](http://island.lk/sp-sl-20-crosses-6000-pts-for-the-first-time-as-banking-counters-prove-attractive/) · `en`
-
-The CSE was extremely bullish yesterday due to very satisfactory results being recorded in banking sector counters, especially HNB and Commercial Bank. Also notable was the fact that the S&P SL 20 index crossed 6,000 points for the first time, ending at 6,055.92 pts.
-
-The fact that banking stock prices were fundamentally economical compared to other stocks, made them attractive to investors.
-
-The All Share Price Index, meanwhile, went up by 100 points.
-
-Turnover stood at Rs 10.8 billion with 25 crossings. Top most crossings were reported in Carson Cumberbatch, HNB, Ceylon Guardian Investors, Commercial Bank and Aitken Spence.
-
-In the retail market companies that mainly contributed to the turnover were, HNB, Digital Mobility Solutions, Commercial Bank, HNB, Sampath Bank and DFCC. During the day 200 million share volumes changed hands in 47340 transactions.
-
-...
-
-[Data](articles/bcf155fc.json)
-
----
-
-### SLANZBC hosts 30th AGM followed by panel discussion on “Accelerating Sri Lanka’s Digital Economy”
-
-*2025-08-19 18:46:00* · [`islandlk`](http://island.lk/slanzbc-hosts-30th-agm-followed-by-panel-discussion-on-accelerating-sri-lankas-digital-economy/) · `en`
-
-The 30th Annual General Meeting of the Sri Lanka – Australia – New Zealand Business Council (SLANZBC) of The Ceylon Chamber of Commerce was held on 7th July 2025, with Paul Stephens, High Commissioner of Australia to Sri Lanka, and David Pine, High Commissioner of New Zealand to Sri Lanka & Maldives, in attendance as Chief Guests.
-
-Paul Stephens, High Commissioner of Australia to Sri Lanka, acknowledged Sri Lanka’s resilience during the recent economic challenges and emphasized the need for accelerated reforms, including export diversification, investment, climate improvements, tourism, vocational education, and digitalization, to prepare for debt repayments from 2028.
-
-...
-
-[Data](articles/0966741c.json)
-
----
-
-### අඟුණුකොළපැලැස්සට සයිනයිඩ් ගෙනආවේ රැඳවියෙකු ඝාතනයටද ?
-
-*2025-08-19 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213556) · `si`
-
-අඟුණුකොළපැලැස්ස බන්ධනාගාරයේ පරීක්ෂා කිරීමකදී සයිනයිඩ් කුප්පියක් සොයාගැනීමට බන්ධනාගාර නිලධාරීන්ට හැකිව තිබේ.
-
-"කුඩු සලිඳු" නමැති මත්ද්‍රව්‍ය ජාවරම්කරුගේ ගෝලයකු වන "තරිඳු මධුසංක" නැමැත්තා සතුව තිබී මෙම සයිනයිඩ් සොයාගත් බව බන්ධනාගාර මූලස්ථානය පැවසීය.
-
-"කොමාන්ඩෝ කවිෂ්ක කුමාර" නැමැත්තා ඝාතනය කිරීම සඳහා මෙම සයිනයිඩ් බන්ධනාගාරය තුළට ගෙනවිත් ඇති බවට සිදු කළ මූලික  විමර්ශනවලදී හෙළි වී තිබේ.
-
-බන්ධනාගාරය තුළට ගෙන ආ මෙම සයිනයිඩ්, පරීක්ෂා කිරීමට අදාළ පිරිස කටුස්සෙක් අල්ලා  ඌට එන්නත් කර ඇති අතර, එම ස්ථානයේදීම කටුස්සා මියගොස් ඇති බවද අනාවරණය වී ඇත.
-
-◼️
-
-[Data](articles/d6434f80.json)
-
----
-
-### Sri Lanka passes bill to set up Casino regulator
-
-*2025-08-19 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-passes-bill-to-set-up-casino-regulator-237363/) · `en`
-
-ECONOMYEXT – Sri Lanka’s parliament passed a bill to set up a casino regulator, shortly after the first international casino franchise, Melco, set up shop in the island.
-
-The regulator will ensure that casinos operate according to rules and concerns about money laundering is also addressed, Deputy Economic Development Miniter Anil Jayantha Fernando told parliament.
-
-The regulator will license the casinos and ensure they comply with rules. Existing casinos have been given time to come under the regulator.
-
-Sri Lanka has also set up a 50 dollar fee for locals to enter casinos under the regulations.
-
-Separately the parliament’s Committee on Public Finance presented it approval of foreign exchange regulations relating to gaming.
-
-◼️
-
-[Data](articles/9bf46a08.json)
-
----
-
-### සූදු නියාමන අධිකාරියේ පනත් කෙටුම්පත සංශෝධන සහිතව සම්මත කරයි
-
-*2025-08-19 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213555) · `si`
-
-සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා වූ පනත් කෙටුම්පත සංශෝධන සහිතව අද (19) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
-
-මෙහිදී ශ්‍රී ලංකාව තුළ ඔට්ටු ඇල්ලීම සහ සූදු අ‍ායතන ප්‍රමිතිකරණය කිරීමට, සමාජ හානි අවම කිරීමට, සංචාරක ක්ෂේත්‍රය සංවර්ධනය කිරීමට හා ආර්ථිකය වර්ධනය කිරීම සඳහා පුළුල් හෝ පූර්ණ විෂය පථයක් සහිත ස්වාධීන නියාමන ආයතනයක් ලෙස සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා විධිවිධාන සැලැස්වීම සිදු කෙරෙයි.
-
-◼️
-
-[Data](articles/4becb1ad.json)
-
----
-
-### Gambling Regulatory Authority Bill passed with amendments
-
-*2025-08-19 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111647/gambling-regulatory-authority-bill-passed-with-amendments) · `en`
-
-The Gambling Regulatory Authority Bill was passed in Parliament with amendments a short while ago.
-
-The Second Reading Debate of the Gambling Regulatory Authority Bill took place in Parliament today (19).
-
-The draft bill to establish a Gambling Regulatory Authority was gazetted under the directives of President Anura Kumara Dissanayake, in his capacity as the Minister of Finance, Planning and Economic Development, in May.
-
-The Bill has been drafted to grant provisions for the establishment of the Gambling Regulatory Authority, to repeal the Horse Racing Betting Ordinance, the Gambling Ordinance, and the Casino Ordinance, and to make provisions for related matters.
-
-Once endorsed by the Speaker of Parliament, the draft bill will come into effect as the Gambling Regulatory Authority Act.
-
-...
-
-[Data](articles/9630fe90.json)
-
----
-
-### Faiszer calls for stringent mechanisms to prevent ‘online gambling’ addiction
-
-*2025-08-19 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111646/faiszer-calls-for-stringent-mechanisms-to-prevent-online-gambling-addiction) · `en`
-
-New Democratic Front (NDF) Member of Parliament Faiszer Musthapha has urged the government to introduce stringent mechanisms to regulate online gambling in order to prevent Sri Lankans from getting addicted to this new gambling trend.
-
-Speaking during the debate on the second reading of the Gambling Regulatory Authority Bill in Parliament today (19), MP Musthapha said that casinos and gambling have already been legitimised in Sri Lanka, and therefore, it is imperative to introduce a stringent regulatory framework.
-
-He said that, unlike physical gambling spaces such as casinos, which create jobs and attract tourists, online gambling has no return for the government unless regulated properly.
-
-Musthapha is of the view that the Gambling Regulatory Authority Bill is a step in the right direction by the government, but noted the importance of introducing necessary laws and regulations by taking into account the new trends.
-
-...
-
-[Data](articles/4d6f83b2.json)
-
----
-
-### ශ්‍රී ලාංකික ශ්‍රමිකයින් 10000ක් සඳහා තායිලන්ත කැබිනට් අනුමැතිය
-
-*2025-08-19 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213554) · `si`
-
-සිය රට තුළ පවතින ශ්‍රමිකයින්ගේ හිඟය හේතුවෙන් ශ්‍රී ලාංකික ශ්‍රමිකයින් 10,000ක් බඳවා ගැනීමට තායිලන්ත කැබිනට් මණ්ඩලය අනුමැතිය ලබාදී තිබේ.
-
-දේශසීමා ගැටුමකින් පසු කාම්බෝජ ශ්‍රමිකයින් නැවත සිය රට බලායෑම හේතුවෙන් තායිලන්තයේ මෙම ශ්‍රම හිඟය ඇතිවිය.
-
-කෙසේවෙතත් තායිලන්තයේ වයස්ගත ජනගහනය ඉහළයෑම සහ ශ්‍රම බළකාය අඩුවීම හේතුවෙන් කෘෂිකර්මාන්තය, ඉදිකිරීම් සහ නිෂ්පාදන අංශය හරහා අවම වශයෙන් ලියාපදිංචි විදේශීය ශ්‍රමිකයින් මිලියන 3ක් මත යැපීමට සිදුවී ඇති බව ජාත්‍යන්තර කම්කරු සංවිධානයේ දත්ත පෙන්වාදී තිබේ.
-
-මේ හේතුවෙන් ශ්‍රී ලංකාව ඇතුළුව නේපාලය, බංග්ලාදේශය, ඉන්දුනීසියාව සහ පිලිපීනය යන රටවල සේවකයින්ට තායිලන්තයේ රැකියා අවස්ථා ලබාදීමට සැලසුම් කර ඇත.
-
-ශ්‍රී ලංකාවෙන් දැනටමත් ශ්‍රමිකයින් 30,000කට වැඩි පිරිසක් ලියාපදිංචිවී ඇති බව පෙන්වා දෙන තායිලන්ත බලධාරීන් පළමු අදියරේදී 10,000ක ශ්‍රමිකයින් පිරිසකට තායිලන්තයේ රැකියා අවස්ථා හිමිවෙන බව සඳහන් කරයි.
-
-◼️
-
-[Data](articles/0fad7f09.json)
 
 ---

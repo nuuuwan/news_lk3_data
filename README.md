@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 02:49:10**
+As of **2025-08-21 03:07:07**
 
 ## Newspaper Stats
 
-*Scraped **71,440** Articles*
+*Scraped **71,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 730
 economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,030
+dailyftlk | 5,032
 adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,508
@@ -26,9 +26,41 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,440 articles have been extended.
+61,973 (86.7%) of 71,442 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-21 (Thursday)
+
+### Palestine without Palestinians: Rhetoric and reality?
+
+*2025-08-21 02:50:35* · [`dailyftlk`](https://www.ft.lk/columns/Palestine-without-Palestinians-Rhetoric-and-reality/4-780537) · `en`
+
+“Colonialism is not a thinking machine, nor a body endowed with reasoning faculties. It is violence in its natural state, and it will yield only when confronted with greater violence” – Frantz Fannon
+
+“Far-right Israeli Finance Minister Bezalel Smotrich proposes to build around 3,000 homes in West Bank to increase settlement and cut West Bank off from East Jerusalem to ‘bury’ the idea of Palestine.”
+
+...
+
+[Data](articles/6aa99600.json)
+
+---
+
+### Against national policy on reconciliation: Tamil perspective
+
+*2025-08-21 02:45:58* · [`dailyftlk`](https://www.ft.lk/opinion/Against-national-policy-on-reconciliation-Tamil-perspective/14-780536) · `en`
+
+To now propose a National Policy on Reconciliation under these circumstances is not just a farce. It is offensive
+
+Reconciliation cannot be the default language of post-conflict engagement when conflict has not ended, only rebranded. When territory remains militarised, when justice remains denied, and when truth remains buried, the promotion of reconciliation becomes not just ineffective – it becomes coercive. From the very beginning of Tamil political movements, the demand of the Tamil people has never been reconciliation (although often deeply desired).
+
+On 4 August 2025, the Cabinet of Ministers approved the development of a new National Policy and Action Plan on Reconciliation and Co-Existence, to be led by the Office for National Unity and Reconciliation (ONUR) under the Ministry of Justice.
+
+...
+
+[Data](articles/eafc0add.json)
+
+---
 
 ### 2025-08-20 (Wednesday)
 
@@ -1745,35 +1777,5 @@ The bag containing the ammunition is scheduled to be presented before the Chavak
 ◼️
 
 [Data](articles/dc5ed2ac.json)
-
----
-
-### முக்கால் ஓட்டம்
-
-*2025-08-20 13:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/முக்கால்-ஓட்டம்/62-363120) · `ta`
-
-◼️
-
-[Data](articles/4b981d98.json)
-
----
-
-### Ceylon Chamber welcomes UK’s DCTS, says exporters need use opportunity
-
-*2025-08-20 13:31:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-welcomes-uks-dcts-says-exporters-need-use-opportunity-237465/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private sector trade body welcomed the UK’s liberalisation of rules of origin under its Developing Countries Trading Scheme (DCTS), saying it will provide a timely boost for the apparel industry — the island nation’s largest export sector.
-
-The Ceylon Chamber encouraged local exporters to familiarise themselves with the new trade arrangements and “take full advantage of the opportunities available”.
-
-To support this transition, the Chamber will collaborate with the UK High Commission and the Sri Lanka government to build awareness across the private sector, it said.
-
-The Ceylon Chamber of Commerce welcomes the UK Government’s liberalisation of rules of origin under its Developing Countries Trading Scheme (DCTS), set to take effect in early 2026.
-
-This important step reflects the UK’s continued commitment to greater trade openness and flexibility, offering Sri Lankan exporters enhanced access to one of their key markets.
-
-...
-
-[Data](articles/7cc0166e.json)
 
 ---

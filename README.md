@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 16:07:41**
+As of **2025-08-20 16:21:40**
 
 ## Newspaper Stats
 
-*Scraped **71,371** Articles*
+*Scraped **71,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,132 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,016
-adalk | 6,863
+dailyftlk | 5,019
+adalk | 6,864
 adaderanalk | 8,989
-tamilmirrorlk | 10,495
-virakesarilk | 11,816
+tamilmirrorlk | 10,499
+virakesarilk | 11,818
 adaderanasinhalalk | 12,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,371 articles have been extended.
+61,973 (86.8%) of 71,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Making sense of Curricular Reforms 2025
+
+*2025-08-20 16:06:15* · [`dailyftlk`](https://www.ft.lk/columns/Making-sense-of-Curricular-Reforms-2025/4-780495) · `en`
+
+At first glance the new content seems heavier and more complex. Do the drafters have any idea of how schools manage?
+
+The Ministry of Education, Higher Education, and Vocational Education (MoE) has unveiled what they call a major reform agenda to reshape the future of Sri Lankan education, titled Transform Education: Transform Sri Lanka, in the Parliament of Sri Lanka on 11 July 2025.
+
+The reform agenda has been presented as a PowerPoint and a PowerPoint only, a first for such an important reform agenda in the history of Parliament, if I am not mistaken. Whatever the format, we should be grateful to the present Government and the Minister for Education for giving leadership at this time to a stalled curricular reform process.
+
+...
+
+[Data](articles/c528f981.json)
+
+---
+
+### உப்பு விலை குறைந்தது
+
+*2025-08-20 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222948) · `ta`
+
+லங்கா உப்பு நிறுவனம் தனது அயோடின் கலந்த உப்புப் பொருட்களின் விலையைக் குறைப்பதாக அறிவித்துள்ளது.
+
+இன்று புதன்கிழமை (20) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது நிறுவனத்தின் தலைவர் நந்தன திலக்க இந்த அறிக்கையை வெளியிட்டுள்ளார்.
+
+400 கிராம் அயோடின் கலந்த உப்புத் தூள் பக்கற் ஒன்றின் விலை 20 ரூபாவால் குறைக்கப்பட்டுள்ளது. அதேவேளை,  1 கிலோ கிராம் பக்கற் ஒன்றின் விலை 30 ரூபாவால் குறைக்கப்பட்டுள்ளது.
+
+அதற்கமைய, அடுத்த வாரம் முதல் 400 கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை 100 ரூபாவுக்கும், 1 கிலோ கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை 200 ரூபாவுக்கும், கிரிஸ்டல் உப்பு பக்கற் ஒன்றின் விலை 150 ரூபாவுக்கும் விற்பனை செய்யப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+மேலதிகமாக,  நிறுவனத்தால் தயாரிக்கப்படும் 400 கிராம் உப்புத் தூள் பக்கற் ஒன்றின் விலை சதோசா விற்பனை நிலையங்களில் 90 ரூபாவுக்கு கிடைக்கும் என நந்தன திலக்க குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0359eb67.json)
+
+---
+
+### Open letter to Deputy Minister of Education Dr. Madhura Senevirathna
+
+*2025-08-20 16:00:18* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-Deputy-Minister-of-Education-Dr-Madhura-Senevirathna/14-780494) · `en`
+
+Deputy Minister of Education Dr. Madhura Senevirathna, Royal College Principal Athula Wijewardena
+
+Following is an open letter to the Deputy Minister of Education, appealing for equal opportunities for rural children to pursue education in the English Medium
+
+Admitting every applicant to bilingual education at Royal College starting from 2026
+
+Royal College each year admits around 400 students from its Primary and 260 more on Scholarship scores, to its Middle School (G6).
+
+Each year around 50% (over 300) apply to enter the bilingual stream.
+
+Until year 2020, the number admitted remained static at around 135 students and the reason given by the management was lack of qualified teachers.
+
+In ’20, few of us – concerned and empathic alumni and parents – launched a campaign to provide equal opportunities to scholars from every corner of the country (and a few others), who lacked money and influence, and as a result 324 had been admitted this year.
+
+...
+
+[Data](articles/c6c381fd.json)
+
+---
+
+### முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது
+
+*2025-08-20 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/222949) · `ta`
+
+2022 ஆம் ஆண்டு காலி முகத்திடலில் அமைதியான முறையில் ஆர்ப்பாட்டத்தில் ஈடுப்பட்டவர்களை தாக்கியவர்களுக்கு உதவிய குற்றச்சாட்டின் பேரில், தேசபந்து தென்னகோன் தனது கடமைகளைச் செய்யத் தவறியமையினால் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+இன்று புதன்கிழமை (20) தென்னகோன் கைது செய்யப்படுவதைத் தடுக்க உத்தரவிடக் கோரி அவர் சார்பில் தாக்கல் செய்யப்பட்ட முன் பிணை மனுவை கொழும்பு கோட்டை நீதவான் நீதிமன்றம் நிராகரித்தது.
+
+முன்னாள் பொலிஸ் மா அதிபரின் சட்டதரணிகளால் தாக்கல் செய்யப்பட்ட பிணை மனுவை இன்று புதன்கிழமை (20) காலை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர பரிசீலித்தார்.
+
+அதன்படி, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கோரிய முன் பிணை  மனுவை  நீதவான் நிராகரித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cdd9b5fb.json)
+
+---
+
+### தென்னகோன் கைது
+
+*2025-08-20 15:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோன்-கைது/175-363145) · `ta`
+
+2022 ஆம் ஆண்டு காலி முகத்திடலில் அமைதியான போராட்டக்காரர்களைத் தாக்கியவர்களுக்கு உதவிய குற்றச்சாட்டின் பேரில், முன்னாள் பொலிஸ் மா அதிபர்  தேசபந்து தென்னகோன், குற்றப் புலனாய்வுப் பிரிவினரால் சற்று நேரத்திற்கு முன்பு கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/bff91b0d.json)
+
+---
+
+### Can Sri Lanka be “China Plus One” country for Japanese investors?
+
+*2025-08-20 15:55:46* · [`dailyftlk`](https://www.ft.lk/columns/Can-Sri-Lanka-be-China-Plus-One-country-for-Japanese-investors/4-780493) · `en`
+
+If we can play our cards smartly and wisely we can also target to be a “China Plus One” country to Japanese investors
+
+Our proposal on 5 August 2025, at the Annual General Meeting of the Sri Lanka-Japan Business Council, to create an exclusive Export Processing Zone for Japan – will it be a reality?
+
+It may be the right time now, with Japanese preferred Anti-Corruption and Transparency policies in place, for the Government to give thought to setting up an exclusive Export Processing Zone for potential Japanese investors.
+
+Success stories of Neemrana Industrial Zone in Rajasthan, India and Bangladesh Special Economic Zone (BSEZ), also a Japanese-invested industrial zone on the outskirts of Dhaka, gives us a clear signal of the direction we need to follow.
+
+It may be prudent to establish a zone closer to the Colombo Port which has a huge advantage against any ports in the region.
+
+...
+
+[Data](articles/2c330633.json)
+
+---
 
 ### In the name of humanity
 
@@ -68,19 +178,69 @@ Rebuilding roads, hospitals, and schools costs billions. Governments often raise
 
 ---
 
-### දේශබන්දු තෙන්නකෝන් අත්අඩංගුවට
+### හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් අත්අඩංගුවට
 
 *2025-08-20 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213582) · `si`
 
-හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇත.
+හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (20) පස්වරුවේ අත්අඩංගුවට ගනු ලැබීය.
 
-ගාලුමුවදොර පැවැත් වූ අරගලයට පහරදීම සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව මෙම අත්අඩංගුවට ගැනී සිදුකර තිබේ.
+ඒ මහතාගේ මිරිහානේ පිහිටි නිවසේ දී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
 
-මේ අතර තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඒ මහතා ඇප ඉල්ලුම් පත්‍රයයක්ද ගොනුකර තිබූ අතර, එය අද (20) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී ප්‍රතික්ෂේප විය.
+ගාලුමුවදොර පැවැත් වූ අරගලයට පහරදීම සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+
+තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඒ මහතා ඇප ඉල්ලුම් පත්‍රයයක්ද ගොනුකර තිබුණි.
+
+කෙසේ වෙතත් අද (20) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී එය ප්‍රතික්ෂේප විය.
 
 ◼️
 
 [Data](articles/530a6fe3.json)
+
+---
+
+### ‘கோட்டா கோ கம’: தென்னகோனின் மனு நிராகரிப்பு
+
+*2025-08-20 15:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டா-கோ-கம-தென்னகோனின்-மனு-நிராகரிப்பு/175-363143) · `ta`
+
+2022 ஆம் ஆண்டு ‘கோட்டா கோ காமா’ மக்கள் போராட்டத்தின் மீதான தாக்குதல் தொடர்பான விசாரணையின் போது கைது செய்யப்படும் அபாயம் இருப்பதாகக் கூறி, பணியில் இருந்து நீக்கப்பட்ட முன்னாள் ஐ.ஜி.பி தேசபந்து தென்னகோன் தாக்கல் செய்த முன்பிணை  மனுவை கோட்டை நீதவான் நிலுபுலி லங்காபுர புதன்கிழமை (20) நிராகரித்தார்.
+
+சம்பவத்தில் சந்தேக நபராகப் பெயரிடப்பட்டுள்ள தேசபந்து தென்னகோன், முன்பிணையில் விடுவிக்கப்பட்டால் விசாரணையைத் தடுக்கவோ அல்லது விசாரணையைத் தடுக்கவோ மாட்டேன் என்று நீதிமன்றத்தை திருப்திப்படுத்தத் தவறிவிட்டார் என்பதை வலியுறுத்திய நீதவான், தொடர்புடைய முன்பிணை மனுவை நிராகரித்தார்.
+
+2022 ஆம் ஆண்டு ‘கோட்டா கோ கம’ மக்கள் போராட்டத்தின் மீதான தாக்குதல் நடந்த நேரத்தில்,   தேசபந்து தென்னகோன் மேல் மாகாணத்திற்குப் பொறுப்பான மூத்த டி.ஐ.ஜி.யாகச் செயல்பட்டு வந்தார். சம்பவம் தொடர்பாக நடத்தப்பட்ட விசாரணைகளைத் தொடர்ந்து,   தேசபந்து தென்னகோனை சந்தேக நபராகப் பெயரிடுமாறு சட்டமா அதிபர் கடிதம் ஒன்றை அனுப்பிவைத்துள்ளார்.
+
+◼️
+
+[Data](articles/98d8bdbe.json)
+
+---
+
+### දේශබන්දු තෙන්නකොන් සී.අයි.ඩී. අත්අඩංගුවට
+
+*2025-08-20 15:48:06* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකොන්-සී-අයි-ඩී--අත්අඩංගුවට/11-417974) · `si`
+
+හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/44686b5c.json)
+
+---
+
+### அரசியலில் களமிறங்கும் சூர்யா? ; நற்பணி இயக்கம் அறிக்கை
+
+*2025-08-20 15:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அரசியலில்-களமிறங்கும்-சூர்யா-நற்பணி-இயக்கம்-அறிக்கை/54-363142) · `ta`
+
+2026 சட்டமன்ற தேர்தலில் சூர்யா களமிறங்கப் போகிறார் என்று பொய்யான செய்தி பரப்பப்பட்டு வருகிறது. இது உண்மைக்கு மாறான போலியான தகவல் என்பது மட்டுமல்ல, சூர்யாவின் கோட்பாடுகளுக்கு முரணானது என்று சூர்யா நற்பணி இயக்கம் அறிக்கை வெளியிட்டுள்ளது.
+
+சூர்யா நற்பணி இயக்கம் வெளியிட்டுள்ள அறிக்கையில், "ஊடக நண்பகர்களுக்கும். சமூக வலைத்தள நண்பர்கள், சகோதர, சகோதரிகளுக்கும் அகில இந்திய சூர்யா தலைமை நற்பணி இயக்கம் சார்பில் வணக்கங்களைத் தெரிவித்துக் கொள்கிறோம்.
+
+கடந்த சில நாட்களாக அண்ணன் சூர்யா அவர்கள் பற்றி சில பொய்யான தகவல்கள் இணைய ஊடகங்களில் பரவி வருகிறது. வரவிருக்கும் சட்டமன்ற தேர்தலில் அண்ணன் சூர்யா அவர்கள் களமிறங்கப் போகிறார் என்று சமூக வலைத்தளங்களை மையமாக வைத்து இந்த பொய்யான செய்தி பரப்பப்பட்டு வருகிறது.
+
+இந்தச் செய்தி உண்மைக்கு மாறான போலியான தகவல் என்பது மட்டுமல்ல. அண்ணன் சூர்யாவின் கோட்பாடுகளுக்கு முரணானது. கலை உலகப் பயணமும் அகரமும் இப்போதைய அவர் வாழ்வுக்கு போதுமான நிறைவைத் தந்துள்ளது.
+
+...
+
+[Data](articles/89c41f92.json)
 
 ---
 
@@ -101,6 +261,24 @@ Rebuilding roads, hospitals, and schools costs billions. Governments often raise
 ...
 
 [Data](articles/dbbe037e.json)
+
+---
+
+### ராஜிதவுக்கு 60(1) இன் கீழ் உத்தரவு
+
+*2025-08-20 15:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவுக்கு-60-1-இன்-கீழ்-உத்தரவு/175-363141) · `ta`
+
+கடந்த ஜூன் மாதம் முதல் தலைமறைவாக இருப்பதாகக் கூறப்படும் முன்னாள் மீன்வள அமைச்சர் ராஜித சேனாரத்னவை ஆகஸ்ட் 29 ஆம் திகதி நீதிமன்றத்தில் ஆஜராகி வாக்குமூலம் அளிக்குமாறு கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க புதன்கிழமை (20) உத்தரவிட்டார்.
+
+ஒரு மாதத்திற்கும் மேலாக பிடியாணை பெற்றுள்ள ராஜித சேனாரத்னவை கைது செய்ய முயற்சித்த போதிலும், சந்தேக நபர் தொடர்ந்து தலைமறைவாக இருப்பதால் கைது தோல்வியடைந்ததாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அளித்த ஆதாரங்களை பரிசீலித்த பின்னர், இந்த உத்தரவை பிறப்பித்தது.
+
+1979 ஆம் ஆண்டு 15 ஆம் எண் குற்றவியல் நடைமுறைச் சட்டத்தின் துணைப் பிரிவு 60 (1) இன் கீழ் சிங்களம் மற்றும் தமிழில் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+சந்தேக நபராக ராஜித சேனாரத்னவுக்கு எதிராக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவால் தாக்கல் செய்யப்பட்ட புகாரை கொழும்பு நீதவான் நீதிமன்றத்தில் விசாரிக்கவும், அதே நாளில் அவர் நீதிமன்றத்தில் ஆஜராக வேண்டும் என்றும் சிங்களம் மற்றும் தமிழில் உத்தரவு பிறப்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/83dd96e7.json)
 
 ---
 
@@ -1565,183 +1743,5 @@ Association representative Amila Koralage stated that the move has created signi
 ◼️
 
 [Data](articles/e0512745.json)
-
----
-
-### පාර්ලිමේන්තු සභා වාරය ඇරඹෙයි
-
-*2025-08-20 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213570) · `si`
-
-අද (20) දිනට නියමිත පාර්ලිමේන්තු සභා වාරයේ කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/14a63f8b.json)
-
----
-
-### யாழில் வெடிக்காத நிலையில் பெருமளவான துப்பாக்கி ரவைகள் மீட்பு
-
-*2025-08-20 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222908) · `ta`
-
-யாழ்ப்பாணம் கொடிகாமம் பகுதியில் செவ்வாய்க்கிழமை (19) நீர் குழாய்களை மண்ணில் புதைக்கும் பணிகளுக்காக நிலத்தினை அகழ்ந்து போது ஒரு தொகை துப்பாக்கி ரவைகள் மீட்கப்பட்டுள்ளன.
-
-குழாய்களை புதைப்பதற்காக நிலத்தினை அகழ்ந்து போது சந்தேகத்திற்கு இடமான முறையில் உரை பை ஒன்று காணப்பட்டதை அடுத்து , கொடிகாம பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
-
-தகவலை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த உரை பையை மீட்டு சோதனையிட்ட போது அவற்றுக்குள் வெடிக்காத நிலையில் துப்பாக்கி ரவை கோர்வைகள் காணப்பட்டுள்ளன.
-
-அதனை அடுத்து அவற்றை மீட்டு கொடிகாம பொலிஸ் நிலையம் எடுத்து சென்ற பொலிஸார் அவற்றுள் 1393 துப்பாக்கி ரவைகள் காணப்பட்டதாகவும் , அவற்றினை நீதிமன்றில் பரப்படுத்தி நீதிமன்ற உத்தரவில் அடுத்த கட்ட நடவடிக்கையை எடுக்கவுள்ளதாக தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/8d5f4474.json)
-
----
-
-### මනූෂ FCIDයට
-
-*2025-08-20 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213569) · `si`
-
-හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතා මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත පැමිණ තිබේ.
-
-සිදුකෙරෙමින් පවතින පරීක්ෂණයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා ඒ මහතාට අද (20) දිනයේ මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත පැමිණෙන ලෙස මීට පෙර දැනුම්දී තිබුණි.
-
-◼️
-
-[Data](articles/092182ce.json)
-
----
-
-### Ex-Minister Manusha Nanayakkara arrives at Illegal Assets Investigation Division
-
-*2025-08-20 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111662/ex-minister-manusha-nanayakkara-arrives-at-illegal-assets-investigation-division-) · `en`
-
-Former Minister Manusha Nanayakkara has arrived at the Illegal Assets Investigation Division of the Criminal Investigation Department (CID), a short while ago, Ada Derana reporter said.
-
-He has arrived at the Illegal Assets Investigation Division to record a statement related to on-going investigations.
-
-◼️
-
-[Data](articles/b2a97cec.json)
-
----
-
-### மியன்மாரில் தேர்தல் திகதி அறிவிப்பு
-
-*2025-08-20 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222855) · `ta`
-
-மியான்மாரில் எதிர்வரும் டிசம்பரில் பொதுத்தேர்தல் பல கட்டங்களாக நடத்தப்படும் என்றும் 330 தொகுதிகளிலும் தேர்தல் நடைபெறும் என்றும் இராணுவ ஆட்சியாளர்களால் உருவாக்கப்பட்ட தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
-
-இதனையடுத்து ஆங் சான் சூகி உள்ளிட்ட ஆளுங்கட்சி தலைவர்கள் கைது செய்யப்பட்டு வீட்டுக்காவலில் சிறை வைக்கப்பட்டுள்ளனர்.
-
-இந்த நிலையில் மியான்மரில் எதிர்வரும் டிசம்பர் மாதம் பொதுத்தேர்தல் நடத்தப்படும் என்று அறிவிக்கப்பட்டுள்ளது. எதிர்வரும் டிசம்பர் மாதம் 28 ஆம் திகதி முதல் பல கட்டங்களாக தேர்தல் நடத்தப்படும் என்று இராணுவ ஆட்சியாளர்களால் உருவாக்கப்பட்ட தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
-
-தேசிய அளவில் போட்டியிடவுள்ள 9 கட்சிகள் உள்ளிட்ட மொத்தம் 55 கட்சிகள் தேர்தலில் போட்டியிட பதிவு செய்துள்ளதாக அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளன.
-
-மின் ஆங் ஹ்லைங் தலைமையிலான மியான்மர் இராணுவ நிர்வாகம், டிசம்பர் மற்றும் ஜனவரியில் தேர்தலை நடத்துவதற்குத் தயாராகும் வகையில், நாட்டின் சில பகுதிகளில் அமுலில் இருந்த அவசரகால நிலையை கடந்த மாதம் முடிவுக்கு கொண்டுவந்தது.
-
-...
-
-[Data](articles/274228a3.json)
-
----
-
-### විදෙස් සංචාරකයින් 1,338ක් ගුවන්තොටේ දී රියදුරු බලපත්‍ර අරන්
-
-*2025-08-20 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213568) · `si`
-
-කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පරිශ්‍රයේ ස්ථාපිත කරන ලද මෝටර්රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ කාර්යාලය මඟින් විදේශ සංචාරකයින් 1,338 දෙනෙකු සඳහා රියදුරු බලපත්‍ර නිකුත් කර තිබේ.
-
-මෙරට සංචාර සඳහා පැමිණෙන විදේශිකයින්ට ස්වයං ප්‍රවාහන පහසුව සලසා ගැනීමට රියදුරු බලපත්‍ර නිකුත් කිරීමේ කවුළුවක් පසුගිය 3 වනදා ස්ථාපිත කෙරුණි.
-
-මීට පෙර විදේශිකයින් විසින් රියදුරු බලපත්‍ර ලබාගැනීම වෙනුවෙන් වේරහැර පිහිටි මෝටර්රථ කොමසාරිස් කාර්යාලය වෙත පැමිණිය යුතුව තිබූ බව සඳහන්ය.
-
-පසුගිය 3 වනදා සිට 17 වනදා දක්වා කාලය තුළ රියදුරු බලපත්‍ර 1,338ක් නිකුත් කර ඇති අතර ඉන් වැඩිම ප්‍රමාණයක් නිකුත් කර ඇත්තේ පසුගිය 7 වනදා බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පවසයි.
-
-මේ අතර මෙරටට පැමිණෙන විදේශිකයන්ට රුපියල් 2,000ක් වැනි සුළු මුදලකට රියදුරු බලපත්‍ර නිකුත් කිරීම සම්බන්ධයෙන් විරෝධය පලකරන බව ශ්‍රී ලංකා සංචාරක රියදුරන්ගේ එකමුතුව සඳහන් කරයි.
-
-එහි නියෝජිත අමිල කෝරලගේ මහතා පැවසුවේ, මේ හේතුවෙන් එම රැකියාවේ නිරත පිරිස් සඳහා දැඩි අසාධාරණයක් සිදුව ඇති බවය.
-
-◼️
-
-[Data](articles/f654f7d9.json)
-
----
-
-### Postal workers continue strike action across the country
-
-*2025-08-20 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111661/postal-workers-continue-strike-action-across-the-country-) · `en`
-
-The Postal and Telecommunication Officers’ Union (PTOU) has announced that the trade union action initiated by postal workers on Sunday (17), will continue today (20) as well, affecting postal operations across the country.
-
-Union President Niroshan Gorakana stated that the strike is being carried out to demand a formal discussion with the Subject Minister regarding their concerns.
-
-He also denied claims that the trade union action was launched to protest against the decision to introduce a fingerprint system to record the attendance of employees.
-
-However, Deputy Postmaster General Chameesha de Silva, commenting on the matter stated that the implementation of the fingerprint system is, in fact, the main reason behind the ongoing strike.
-
-...
-
-[Data](articles/a6c59947.json)
-
----
-
-### Health Ministry temporarily suspends staff leave, Union claims decision unlawful
-
-*2025-08-20 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111660/health-ministry-temporarily-suspends-staff-leave-union-claims-decision-unlawful) · `en`
-
-The Ministry of Health states that due to a high volume of staff members taking leave of absence, it has become increasingly difficult to sustain the continuous operation of essential services within the ministry, given the critical nature of its duties.
-
-As a result, the Ministry of Health and Mass Media has decided to temporarily suspend the approval of leave of absence including to travel overseas for its staff until further notice.
-
-This decision was formally announced through a circular issued by the Secretary to the Ministry Dr. Anil Jasinghe.
-
-The same circular also notes that recruitment for all vacant positions within the Ministry of Health and Mass Media will be restricted until further notice.
-
-...
-
-[Data](articles/e32be3ea.json)
-
----
-
-### සෞඛ්‍ය පුරප්පාඩු බඳවා ගැනීම් නවතී - දෙස් විදෙස් නිවාඩුත් අවලංගුයි
-
-*2025-08-20 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213567) · `si`
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ කාර්ය මණ්ඩලය නිවාඩු ලබාගැනීම හේතුවෙන් අමාත්‍යාංශයේ රාජකාරී ස්වභාවය මත අත්‍යවශ්‍ය වූ රාජකාරී අඛණ්ඩව පවත්වාගෙන යෑමට අපහසු වී ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
-
-ඒ අනුව විදේශීය සහ දේශීය නිවාඩු අනුමත කිරීම නැවත දැනුම් දෙනතුරු තාවකාලිකව නතර කිරීමට සෞඛ්‍ය අමාත්‍යාංශය තීරණය කර ඇත.
-
-අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා විසින් චක්‍රලේඛයක් නිකුත් කරමින් මේ බව සඳහන් කර තිබේ.
-
-එමෙන්ම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ පුරප්පාඩු තනතුරු සියල්ල සඳහා නවක නිලධාරීන් බඳවා ගැනීම ද සීමා කර ඇතැයි අදාළ චක්‍රලේඛය මඟින් දැනුම්දී ඇත.
-
-කෙසේවෙතත් මෙම නව චක්‍රලේඛය සම්බන්ධයෙන් රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය වෙත ලිපියක් යොමු කරමින් ශ්‍රී ලංකා නිදහස් සෞඛ්‍ය සේවා සංගමය පෙන්වා දෙන්නේ අදාළ විදේශීය නිවාඩු ලබාගැනීමට ආයතන සංග්‍රහයෙන් ලබාදී තිබෙන ප්‍රතිපාදන සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයා විසින් නිකුත් කර ඇති චක්‍රලේඛය තුළින් අහිමි කර ඇති බවය.
-
-...
-
-[Data](articles/e368ff9c.json)
-
----
-
-### Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal
-
-*2025-08-20 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111659/israel-demands-release-of-all-gaza-hostages-casting-doubt-on-ceasefire-proposal) · `en`
-
-Israel is demanding the release of all 50 hostages held in Gaza, an Israeli official has said, casting doubt on whether it will accept a new proposal for a 60-day ceasefire that Hamas agreed to on Monday.
-
-The proposal, put forward by Qatar and Egypt, would see the release of around half the hostages and is “almost identical” to a US proposal Israel had previously accepted, according to Qatar.
-
-Israel has not explicitly rejected it - but Israeli government spokesman David Mencer told the BBC that it is not interested in “partial deals”.
-
-“Things have changed now. The prime minister has laid out a plan for the future of Gaza,” Mencer said.
-
-Palestinian sources said the proposal would see 10 living and 18 dead hostages handed over while the sides negotiated a permanent ceasefire and the return of the other hostages.
-
-Israel believes that only 20 of the 50 hostages are still alive after 22 months of war.
-
-...
-
-[Data](articles/7ab1b6ae.json)
 
 ---

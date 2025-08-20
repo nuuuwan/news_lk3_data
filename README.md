@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 19:33:45**
+As of **2025-08-20 19:14:19**
 
 ## Newspaper Stats
 
-*Scraped **71,421** Articles*
+*Scraped **71,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
-adalk | 6,869
+adalk | 6,868
 adaderanalk | 8,991
 tamilmirrorlk | 10,504
 virakesarilk | 11,820
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,421 articles have been extended.
+61,973 (86.8%) of 71,420 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -143,22 +143,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/69d5488e.json)
-
----
-
-### තැපැල් සේවාව නව මාදිලියකට ගෙන ඒම අත්‍යාවශ්‍යයි
-
-*2025-08-20 17:47:02* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-සේවාව-නව-මාදිලියකට-ගෙන-ඒම-අත්‍යාවශ්‍යයි/11-417982) · `si`
-
-සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (19) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
-
-සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යාංශය යටතේ පවතින දෙපාර්තමේන්තු 04ක ආයතන 41ක් වෙනුවෙන් වෙන් කෙරුණු ප්‍රතිපාදන සහ ඒ යටතේ ක්‍රියාත්මක ව්‍යාපෘතින්හි ප්‍රගතිය මෙහිදී පුළුල් ලෙස විමසා බැලිණි.
-
-සෞඛ්‍ය අමාත්‍යාංශය යටතේ ප්‍රාථමික සෞඛ්‍ය සේවා ඉහළ නැංවීම වෙනුවෙන් ඉදිරි අයවැයෙන් විශේෂ අවධානය යොමු කරන ලෙස මෙහිදී නිලධාරීන්ට උපදෙස් දුන් ජනාධිපතිවරයා ප්‍රාථමික සෞඛ්‍ය සේවා මධ්‍යස්ථාන සංවර්ධනය කිරීමට දැනට ක්‍රියාත්මක වැඩපිළිවෙළ පිළිබඳවද විමසා බැලීය. දැනට පුද්ගලයන් 30,000කට 01ක් වශයෙන් ක්‍රියාත්මක ප්‍රාථමික සෞඛ්‍ය සේවාව පුද්ගලයන් 10,000කට 01ක් වන අයුරින් සංවර්ධනය කිරිමට සැලසුම් කර තිබෙන බව මෙහිදී අනාවරණය කෙරිණි.
-
-...
-
-[Data](articles/1d2ad2ec.json)
 
 ---
 
@@ -338,7 +322,7 @@ Bringing together leading architects, developers, contractors, members of Chambe
 
 *2025-08-20 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237509/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.70/80 to the US dollar in the spot market Wednesday, weaker from 301.55/70 the previous day, while bond yields were up, dealers said.
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.70/80 to the US dollar in the spot market Wednesday, weaker from 301.55/70 the previous day, while bond yields were broadly steady, dealers said.
 
 A bond maturing on 15.12.2026 closed up at 8.12/20 percent, from 8.05/15 percent.
 
@@ -1777,5 +1761,21 @@ I came to know Oscar Uncle in 1979 when Chandani and I were occupying the annex 
 ◼️
 
 [Data](articles/9ad61a3e.json)
+
+---
+
+### ”வடக்கில் நிராகரிக்கப்பட்ட அரசியல்வாதிகள் துள்ளுகின்றனர்”
+
+*2025-08-20 12:33:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-நிராகரிக்கப்பட்ட-அரசியல்வாதிகள்-துள்ளுகின்றனர்/175-363112) · `ta`
+
+இந்த ஆட்சி கவிழும் என வங்குரோத்து அடைந்த அரசியல்வாதிகள் பிரச்சாரம் முன்னெடுத்து வருகின்றனர். இந்த போலி பரப்புரைக்கு வடக்கில் மக்களால் நிராகரிக்கப்பட்ட அரசியல்வாதிகளும் உயிர்கொடுக்க முற்படுகின்றனர்" என்று கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
+
+இலங்கை ஐயப்ப சுவாமிமார்களின் யாத்திரையினை புனித யாத்திரையாக பிரகடனப்படுத்தியதன் பின்னர் அது தொடர்பான விசேட கலந்துரையாடல்  கொழும்பு செட்டியார் தெரு கல்யாண முருகன் மண்டபத்தில் திங்கட்கிழமை (18) அன்று இடம்பெற்றது.
+
+ரவி குருசாமி தலைமையில் நடைபெற்ற நிகழ்வில், சிறப்பு அதிதியாகக் கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர், பெருந்தோட்ட மற்றும் சமூக உட்கட்டமைப்பு வசதிகள் பிரதியமைச்சர் சுந்தரலிங்கம் பிரதீப் பிரதம அதிதியாகவும், இந்து சமய அலுவல்கள் திணைக்கள பணிப்பாளர் வை.அனிருத்தன் உள்ளிட்ட முக்கிய பிரமுகர்கள் கெளரவ அதிதிகளாகவும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/94ff8d9f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 10:07:59**
+As of **2025-08-20 10:22:16**
 
 ## Newspaper Stats
 
-*Scraped **71,279** Articles*
+*Scraped **71,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 729
-economynextcom | 4,357
+economynextcom | 4,360
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -26,11 +26,59 @@ adaderanasinhalalk | 12,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,279 articles have been extended.
+61,973 (86.9%) of 71,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Sri Lanka waiting for international BESS tender for market battery price
+
+*2025-08-20 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-waiting-for-international-bess-tender-for-market-battery-price-237404/) · `en`
+
+ECONOMYNEXT – Sri Lanka is waiting for the completion of an international tender for a 160MW/640MWh) battery energy storage system (BESS) to ascertain market costs, Energy Minister Kumara Jayakody said.
+
+“When the tender is completed, we will be able to see what the actual price we will get for battery storage,” Minister Jayakody told reporters.
+
+“That is international competitive tender and we will be able to get a good price.”
+
+The Ceylon Electricity Board is offering 45.80 rupees as a feed in tariff (a calculate tariff with no competitive tender) on a calculated cost for renewable energy stored and delivered during the night peak of 630 to 1030 pm for which thermal fuel and large hydros are used.
+
+Sri Lanka will review the battery price electricity price next year after watching the competitive bid, he said.
+
+“The cost we get when calculate number and what comes practically (from the market) as a price are two things,” he explained.
+
+...
+
+[Data](articles/100a6294.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields edge up on mid tenors
+
+*2025-08-20 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-on-mid-tenors-237412/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.60/75 to the US dollar in the spot market Wednesday, weaker from 301.55/70 the previous day, while bond yields edged up on the medium tenors, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.05/15 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 8.45/55 percent.
+
+A bond maturing on 15.12.2028 was quoted at 8.90/9.00 percent, up from 8.90/92 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.42/48 percent, up from 9.41/46 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.20/28 percent, up from 10.22/27 percent
+
+A bond maturing on 01.06.2033 was quoted at 10.60/67 percent.
+
+The Colombo Stocks Exchange was trading in green: The ASPI was up 0.78 percent, or 160.35 points, at 20,731.42; the S&P SL20 was up 1.18 percent, or 71.35 points, at 6,127.27.
+
+...
+
+[Data](articles/89607ed4.json)
+
+---
 
 ### Over 1,300 driving licenses issued to foreign nationals at BIA
 
@@ -353,6 +401,28 @@ It has been ordered to verify whether the land where the excavation took place�
 ◼️
 
 [Data](articles/959e451e.json)
+
+---
+
+### Sri Lanka renewable power tops 64-pct in May 2025
+
+*2025-08-20 06:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-renewable-power-tops-64-pct-in-may-2025-237386/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s renewable power, helped by state-run Ceylon Electricity Board, hydro power and new private renewable power including rooftop solar topped 64.4 percent in May 2025, sharply up from 48.3 percent a year ago, official data showed.
+
+Out of a total of 1,531 GigaWatt hours of energy generated in May 2025, 986 GWh came from renewables, data published by the central bank showed.
+
+CEB’s hydro generation rose to 575 GWh up 44.7 percent from a year earlier, helped by good rainfall while fuel oil generation dropped from 208 to 35 GWh.
+
+Private non-conventional renewable energy grew to 367 GWh in May 2025 from 258 GWh last year.
+
+Total renewable energy grew by 43 percent to 986 GWh in May.
+
+In April where rains also improved, renewable energy was 809 GWh, or a share of 57 percent, up from 41 percent from last year.
+
+...
+
+[Data](articles/dcbc0204.json)
 
 ---
 
@@ -1747,59 +1817,5 @@ The suspects and the smuggled cigarettes are to be produced before the Negombo M
 ◼️
 
 [Data](articles/a6b29eb7.json)
-
----
-
-### පොහොර සහනාධාරයටත් QR එයි
-
-*2025-08-19 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213541) · `si`
-
-ගොවීන් සඳහා පොහොර සහනාධාරය ඩිජිටල් ක්‍රමවේදය ඔස්සේ ක්‍රියාත්මක කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
-
-ඒ අනුව රජය මඟින් ගොවීන් වෙත පොහොර සහනාධාර ලබාදීමේ දී එම සහනාධාරය නිසි වේලාවට ලැබෙන බව සහ එම මුල්‍යාධාරය ඔවුන් විසින් සිය ගොවිතැන් කටයුතු සඳහා වන පොහොර අවශ්‍යතාව සඳහා සම්පූර්ණ වශයෙන් යොදා ගන්නා බව සහතික කරගැනීමේ අවශ්‍යතාව මතුව ඇතැයි රජය පවසයි.
-
-ඒ අනුව ගොවි ජනතාවට පොහොර ලබාදීම වඩාත් විධිමත්ව සහ කාර්යක්ෂව සිදුකිරීම සඳහා QR කේතය හෝ සුදුසු ඩිජිටල් ක්‍රමවේදයක් යොදාගැනීමේ යෝග්‍යතාවය හඳුනාගෙන ඇත.
-
-ඒ අනුව පොහොර සහනාධාර වැඩසටහන සඳහා සුදුසුකම් ලබන සියලු ගොවීන් කෘෂිකර්ම විෂය භාර අමාත්‍යාංශය යටතේ සිටින ප්‍රාදේශීය නිලධාරීන් මඟින් හඳුනාගැනීමටත්, එසේ සුදුසුකම් ලබන ගොවි ජනතාව වෙත පොහොර සහනාධාරය ලබාදීම සඳහා QR ක්‍රමවේදය හෝ සුදුසු ඩිජිටල් යාන්ත්‍රණයක් සැකසීමටත් ජනාධිපතිවරයා, කෘෂිකර්ම, පශු සම්පත්  ඉඩම් සහ වාරිමාර්ග අමාත්‍යවරයා විසින් ඉදිරිපත් කළ ඒකාබද්ධ යෝජනාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
-
-◼️
-
-[Data](articles/389d06b7.json)
-
----
-
-### කැබිනට් තීරණ මෙතැනින්
-
-*2025-08-19 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213540) · `si`
-
-කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ආරම්භ වී තිබේ.
-
-ඒ කැබිනට් මාධ්‍ය ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙනි.
-
-◼️
-
-[Data](articles/97444ac2.json)
-
----
-
-### ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය
-
-*2025-08-19 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213539) · `si`
-
-ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා ඊයේ (18) සිය සහතිකය සටහන් කළේය.
-
-ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත අගෝස්තු මස 06 වන දින පාර්ලිමේන්තුවේදී සම්මත විය.
-
-ඒ අනුව, මෙම ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත් කෙටුම්පත 2025 අංක 14 දරන ශ්‍රී ලංකා විදුලිබල (සංශෝධන) පනත ලෙස බලාත්මක වනු ඇත.
-
-බලශක්තිය පිළිබඳ ජාතික ප්‍රතිපත්තියේ කොටසක් ලෙස ජාතික විදුලිබල ප්‍රතිපත්තිය සකස් කිරීමට විධිවිධාන සැලැස්වීම මෙම පනතේ අරමුණ වේ.
-
-මෙම පනත මඟින් "ජාතික විදුලිබල උපදේශක සභාව" වෙනුවට "බලශක්තිය පිළිබඳ ජාතික ප්‍රතිපත්තියේ කොටසක් ලෙස ජාතික විදුලිබල ප්‍රතිපත්තිය" සකස් කිරීමට විධිවිධාන සලසයි.
-
-එමෙන්ම, "තොග විදුලිබල වෙළෙඳපොළ" යන්න "ජාතික විදුලිබල වෙළෙඳපොළ" ලෙස වෙනස් කර ඇති අතර, කාර්යක්ෂම සහ පිරිමැසුම්දායක විදුලිබල සැපයුමක් අඛණ්ඩව පවත්වාගෙන යාම, හරිතාගාර වායු විමෝචනය අවම කිරීම සහ පුනර්ජණනීය බලශක්තිය ප්‍රවර්ධනය කිරීම මෙම පනතේ ප්‍රධාන අරමුණු වේ.
-
-◼️
-
-[Data](articles/1c1efdf4.json)
 
 ---

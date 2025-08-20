@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 03:32:07**
+As of **2025-08-21 03:49:13**
 
 ## Newspaper Stats
 
-*Scraped **71,443** Articles*
+*Scraped **71,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 730
 economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,033
+dailyftlk | 5,034
 adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,508
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,443 articles have been extended.
+61,973 (86.7%) of 71,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### Volker Türk report, toxic West, UK-Canada resolution, Israel’s North-East connection
+
+*2025-08-21 03:28:35* · [`dailyftlk`](https://www.ft.lk/columns/Volker-Türk-report-toxic-West-UK-Canada-resolution-Israel-s-North-East-connection/4-780540) · `en`
+
+Sri Lanka faces the Report of the Office of the United Nations High Commissioner on Human Rights (OHCHR), and the Resolution expected to be submitted by the UK and Canada at the September session of the UN Human Rights Council, in a specific global and historical context. That context is the confusion, fissure, irrationality and extremism in the West, and the resultant toxicity of the West.
+
+Most of the Human Rights initiatives, strictures and suggestions we face are from a West which is not merely divided but is showing increasing irrationality in different parts of the world and on different issues, displaying a deterioration in perception of and perspective on world events.
+
+It is best evidenced in the schism on two major issues: (a) Russia/Ukraine and (b) Israel/Palestine. The USA or at least the Trump administration is rational on the former and irrational on the latter. The Rest of the West – UK, EU, Canada--is irrational on the former and rational on the latter.
+
+...
+
+[Data](articles/d4f20461.json)
+
+---
 
 ### From ports to power: Sri Lanka’s 20-year journey in foreign investment (2004–2024)
 
@@ -1763,21 +1779,5 @@ He further explained that the price reduction was implemented to provide relief 
 ◼️
 
 [Data](articles/1a4a9c67.json)
-
----
-
-### 71 சதவீத குடும்பங்கள் உதவி கேட்கும் மனநிலையில் உள்ளன
-
-*2025-08-20 13:42:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/71-சதவீத-குடும்பங்கள்-உதவி-கேட்கும்-மனநிலையில்-உள்ளன/175-363121) · `ta`
-
-இலங்கையில் உள்ள மொத்த குடும்பங்களில் எழுபத்தொரு சதவீத குடும்பங்கள் நிவாரண உதவிக்காக விண்ணப்பித்துள்ளதாக கிராமப்புற மேம்பாடு, சமூகப் பாதுகாப்பு மற்றும் சமூக அதிகாரமளித்தல் அமைச்சர் உபாலி பன்னிலகே பாராளுமன்றத்தில் தெரிவித்தார்.
-
-இலங்கை குடும்பங்களில் 71 சதவீத குடும்பங்கள் உதவி கேட்கும் மனநிலையில் உள்ளன என்பதை நாம் கருத்தில் கொள்ள வேண்டும். கிராமப்புற வறுமையை ஒழிப்பது எங்கள் முதன்மையான முன்னுரிமைகளில் ஒன்றாக அடையாளம் காணப்பட்டுள்ளது.
-
-உதவியை நம்பி ஒரு குடும்பம் வளர்ச்சியடையாது. நலன்புரி நிதி உதவிகளை வழங்கும் அதே வேளையில், மறுபுறம், சமூகத்தை மேம்படுத்த முயற்சிகள் மேற்கொள்ளப்பட வேண்டும். இரண்டு மில்லியன் ஏழைக் குடும்பங்களை ஐந்து ஆண்டுகளுக்குள் மேம்படுத்தும் திட்டத்தை நாங்கள் தொடங்கியுள்ளோம் என்று அமைச்சர் கூறினார்.
-
-◼️
-
-[Data](articles/c4697836.json)
 
 ---

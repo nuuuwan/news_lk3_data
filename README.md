@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 03:07:07**
+As of **2025-08-21 03:18:02**
 
 ## Newspaper Stats
 
-*Scraped **71,442** Articles*
+*Scraped **71,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 730
 economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,032
+dailyftlk | 5,033
 adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,508
@@ -26,15 +26,35 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,442 articles have been extended.
+61,973 (86.7%) of 71,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
 
+### From ports to power: Sri Lanka’s 20-year journey in foreign investment (2004–2024)
+
+*2025-08-21 03:02:06* · [`dailyftlk`](https://www.ft.lk/columns/From-ports-to-power-Sri-Lanka-s-20-year-journey-in-foreign-investment-20042024/4-780539) · `en`
+
+From 2004 to 2024, Sri Lanka’s FDI journey has been a mix of bold ambition, uneven execution, and political shifts
+
+When Sri Lanka opened its economy in 1977, the vision was to turn a small island into a nimble hub for global trade. But it’s in the past two decades that the country’s foreign investment story has been most dramatic — and, at times, most controversial.
+
+From the cranes of Colombo to the wind farms of the North, each chapter since 2004 has been marked by big bets, bold champions, and sometimes bitter debates over the price of ambition.
+
+The early 2010s marked Colombo’s leap into the big-ship era. The Colombo International Container Terminals (CICT) — a joint venture between China Merchants Port Holdings and the Sri Lanka Ports Authority (SLPA) — opened in 2013 under a 35-year build-operate-transfer deal. It gave Colombo South Harbour the capacity to handle the world’s largest vessels, cementing the port’s status as South Asia’s top transshipment hub.
+
+...
+
+[Data](articles/8ed372b5.json)
+
+---
+
 ### Palestine without Palestinians: Rhetoric and reality?
 
 *2025-08-21 02:50:35* · [`dailyftlk`](https://www.ft.lk/columns/Palestine-without-Palestinians-Rhetoric-and-reality/4-780537) · `en`
+
+No meaningful solution to the crisis in Gaza is possible with Netanyahu’s far-right Likud in power
 
 “Colonialism is not a thinking machine, nor a body endowed with reasoning faculties. It is violence in its natural state, and it will yield only when confronted with greater violence” – Frantz Fannon
 
@@ -1759,23 +1779,5 @@ He further explained that the price reduction was implemented to provide relief 
 ◼️
 
 [Data](articles/c4697836.json)
-
----
-
-### Over 1,300 bullets found from abandoned well in Jaffna
-
-*2025-08-20 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111674/over-1300-bullets-found-from-abandoned-well-in-jaffna) · `en`
-
-A total of 1,393 bullets have been recovered from an abandoned well in Kodikamam, Jaffna, police said.
-
-According to the Kodikamam Police, the ammunition was discovered yesterday (19), concealed in a bag unearthed during the removal of sediment from a well that had remained abandoned for several years.
-
-Preliminary assessments indicate that the bullets were corroded. Authorities suspect that the ammunition may have been discarded in the well during the period of armed conflict.
-
-The bag containing the ammunition is scheduled to be presented before the Chavakachcheri Magistrate’s Court. Following judicial procedures, the bomb disposal unit is expected to proceed with the deactivation of the recovered items.
-
-◼️
-
-[Data](articles/dc5ed2ac.json)
 
 ---

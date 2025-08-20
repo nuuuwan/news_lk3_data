@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 11:20:33**
+As of **2025-08-20 11:32:11**
 
 ## Newspaper Stats
 
-*Scraped **71,285** Articles*
+*Scraped **71,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 729
-economynextcom | 4,360
+economynextcom | 4,361
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,285 articles have been extended.
+61,973 (86.9%) of 71,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Sri Lanka seeks international offers to revive saltern as PPP
+
+*2025-08-20 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-international-offers-to-revive-saltern-as-ppp-237431/) · `en`
+
+ECONOMYNEXT – Sri Lanka will seek international offers to review a saltern in northern Jaffna peninsula that went into dis-use during a civil war, minister Nalinda Jayatissa said.
+
+The saltern in Kurunchativu (Elephant Pass north) stopped operations during the civil war that ended in 2009.
+
+“An attempt to revive the saltern with local investors had failed to draw interest, so we are calling for foreign investors,” Jayatissa told reporters.
+
+The cabinet has approved seeking international interest to revive it as a public private partnership. (Colombo/Aug20/2025)
+
+◼️
+
+[Data](articles/b8932b70.json)
+
+---
 
 ### At least 71 die in bus crash involving Afghans deported from Iran
 
@@ -1805,25 +1823,5 @@ The cabinet had approved the proposal to implement 2 tourist projects as public-
 ...
 
 [Data](articles/f99a1039.json)
-
----
-
-### Video showing Sri Lankan worker moved by forklift prompts action from South Korea police
-
-*2025-08-19 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111629/video-showing-sri-lankan-worker-moved-by-forklift-prompts-action-from-south-korea-police) · `en`
-
-South Korean police will launch a 100-day special crackdown on abuses against migrant workers, the Korean National Police Agency has said.
-
-Each of the nation’s 18 regional police agencies has formed a special unit that will operate through Nov. 25 to investigate cases of violence, assault, confinement, coercion, humiliation, sexual abuse and labor exploitation targeting foreign workers.
-
-The initiative follows nationwide outrage over a video showing a Sri Lankan worker being strapped to a forklift and lifted off the ground.
-
-The incident occurred in February at a brick factory in Naju, South Jeolla Province, where the Sri Lankan, who had been working there for just three months, was allegedly harassed by a Korean forklift driver in his 50s after making mistakes on the job.
-
-The 31-year-old Sri Lankan worker suffered the mistreatment for about five minutes as a punishment imposed by the South Korean forklift driver.
-
-...
-
-[Data](articles/7d9e96c2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 06:33:35**
+As of **2025-08-20 07:17:11**
 
 ## Newspaper Stats
 
-*Scraped **71,255** Articles*
+*Scraped **71,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,854
 adaderanalk | 8,966
 tamilmirrorlk | 10,463
 virakesarilk | 11,809
-adaderanasinhalalk | 12,311
+adaderanasinhalalk | 12,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,255 articles have been extended.
+61,973 (87.0%) of 71,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### ප්‍රදේශ රැසකට වැසි රහිත කාලගුණයක්
+
+*2025-08-20 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213560) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල විටින් විට හමන පැ.කි.මී.30-40ක පමණ තරමක තද සුළං ඇති වේ.
+
+◼️
+
+[Data](articles/d2f08ef2.json)
+
+---
 
 ### முன்னாள் ஜனாதிபதி ரணில் CIDயால் அழைக்கப்பட்டுள்ளார்
 
@@ -1805,25 +1821,5 @@ Zelenskiy hailed the promise as “a major step forward,” adding that the guar
 ...
 
 [Data](articles/b8ee610e.json)
-
----
-
-### Man killed in Kalpitiya after two groups clash over personal dispute
-
-*2025-08-19 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111616/man-killed-in-kalpitiya-after-two-groups-clash-over-personal-dispute) · `en`
-
-A 37-year-old individual has died following a clash between two groups in Kalpitiya last night (18), police stated.
-
-According to preliminary police inquiries, it has been confirmed that two groups consisting of five individuals including the deceased had clashed over a personal dispute.
-
-The 37-year-old resident of Kalpitiya, who was injured in the incident had succumbed to his injuries on admission to the Kalpitiya Base Hospital.
-
-The corpse has been placed at the morgue of the Chilaw District General Hospital.
-
-A suspect has been arrested over the incident while the Kalpitiya Police have launched further investigations to arrest the remaining suspects.
-
-◼️
-
-[Data](articles/d0c3729c.json)
 
 ---

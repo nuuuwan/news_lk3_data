@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 17:19:50**
+As of **2025-08-20 17:31:43**
 
 ## Newspaper Stats
 
-*Scraped **71,399** Articles*
+*Scraped **71,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 729
-economynextcom | 4,362
+economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,399 articles have been extended.
+61,973 (86.8%) of 71,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Sri Lanka’s Maharaja Foods merges marketing, supermarket subsidiaries
+
+*2025-08-20 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-maharaja-foods-merges-marketing-supermarket-subsidiaries-237511/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Maharaja Foods will amalgamate its wholly owned subsidiaries Maharaja Marketing (Private) Limited and Maharaja Supermarket (Private) Limited from September, it said in a stock exchange filing.
+
+The company was founded by a family from Sri Lanka’s north produces processed ethnic foods, the bulk of which is exported to countries with South Asian expat communities.
+
+The company is part of GTV group which has logistics and a retailing. The group has been headed by Thavamalar Guganathan from 2016 when her husband who founded the firm passed away.
+
+In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colombo/Aug20/2025)
+
+◼️
+
+[Data](articles/0e8f3a06.json)
+
+---
 
 ### Govt. hopes for Provincial Council Elections in 2026: Bimal
 
@@ -109,6 +127,28 @@ Bringing together leading architects, developers, contractors, members of Chambe
 ...
 
 [Data](articles/8002019e.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields up
+
+*2025-08-20 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237509/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.70/80 to the US dollar in the spot market Wednesday, weaker from 301.55/70 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed up at 8.12/20 percent, from 8.05/15 percent.
+
+A bond maturing on 15.09.2027 closed up at 8.45/60 percent, from 8.45/55 percent.
+
+A bond maturing on 15.12.2028 closed at 8.95/9.00 percent, up from 8.90/92 percent.
+
+A bond maturing on 15.12.2029 closed at 9.42/45 percent, up from 9.41/46 percent.
+
+A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.22/27 percent. (Colombo/Aug20/2025)
+
+◼️
+
+[Data](articles/7879aa53.json)
 
 ---
 
@@ -426,6 +466,30 @@ It may be prudent to establish a zone closer to the Colombo Port which has a hug
 
 ---
 
+### Sri Lanka stocks close up due to sustained interest in banks and financials
+
+*2025-08-20 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-due-to-sustained-interest-in-banks-and-financials-237490/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, with banks continuing to attract investor interest, data on its site showed.
+
+The ASPI was up 0.70 percent, or 143.73 points, at 20,714.80; while the S&P SL20 was up 0.81 percent, or 49.08 points, at 6,105.00.
+
+Top contributors to the ASPI were John Keells Holdings (up 60 cents at 23.70 rupees), Hatton National Bank (up 7 rupees at 406), Sampath Bank (up 2 rupees at 147), Bukit Darah (up 61 rupees at 948.25), and National Development Bank (up 2.75 rupees at 148.50).
+
+Market Turnover was 11.14 billion rupees, while share volume was 452 million.
+
+Interest in banking (Rs4.39bn), diversified financials (Rs2.45bn) and capital goods (Rs1.1bn) stocks contributed mainly to the turnover.
+
+A transaction on HNB Finance (up 1 rupee at 9.10) contributed 1,32 billion rupees to the turnover.
+
+Banks and financials have been attracting continued investor interest after most posted positive interim results, dealers said. (Colombo/Aug20/2025)
+
+◼️
+
+[Data](articles/fdb77356.json)
+
+---
+
 ### In the name of humanity
 
 *2025-08-20 15:53:33* · [`dailyftlk`](https://www.ft.lk/columns/In-the-name-of-humanity/4-780492) · `en`
@@ -527,6 +591,26 @@ Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected b
 ◼️
 
 [Data](articles/a2745298.json)
+
+---
+
+### Sri Lanka’s EDB and JICA extend program to support ICT/BPM sector
+
+*2025-08-20 15:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-edb-and-jica-extend-program-to-support-ict-bpm-sector-237492/) · `en`
+
+ECONOMYNEXT – A partnership between the Sri Lanka Export Development Board (EDB) and the Japan International Cooperation Agency (JICA) established last year to strengthen the local ICT/BPM sector within the Japanese market has been extended.
+
+The program supports 30 Sri Lankan SME ICT/BPM companies and startups over a period of two years by providing market intelligence, business coaching, and matchmaking services.
+
+It “aims to foster technological exchange, spur innovation, and enhance global trade relations, driving sustained economic growth for both nations,” EDB said.
+
+Originally set to conclude in October 2025, the program was extended by one year at EDBs request.
+
+“This extension will expand benefits to Sri Lankan ICT companies, including continued market intelligence, business coaching, matchmaking support, and the introduction of a Proof of Concept (POC) grant scheme for select few firms.”
+
+...
+
+[Data](articles/5b4f4f9c.json)
 
 ---
 
@@ -679,6 +763,26 @@ High Commissioner Paul Stephens acknowledged Sri Lanka’s resilience during the
 ...
 
 [Data](articles/88926a4d.json)
+
+---
+
+### Sri Lanka sells Rs78.5bn treasury bills, yields slightly down
+
+*2025-08-20 15:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs78-5bn-treasury-bills-yields-slightly-down-237477/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 78.5 billion rupees of Treasury bills, with yields slightly down across shorter maturities, data from the state debt office showed.
+
+The 3-month yield was down 1 basis point at 7.50 percent, with 16 billion rupees offered and 13.11 billion sold.
+
+The 6-month yield was down 1 basis point at 7.89 percent, with 30 billion rupees offered and 24.87 billion sold.
+
+The 12-month yield was unchanged at 8.03 percent with 32.5 billion rupees of bills offered and 40.52 billion rupees bills sold.
+
+All 3 bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/cb484644.json)
 
 ---
 
@@ -1086,6 +1190,44 @@ The bag containing the ammunition is scheduled to be presented before the Chavak
 
 ---
 
+### Ceylon Chamber welcomes UK’s DCTS, says exporters need use opportunity
+
+*2025-08-20 13:31:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-welcomes-uks-dcts-says-exporters-need-use-opportunity-237465/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private sector trade body welcomed the UK’s liberalisation of rules of origin under its Developing Countries Trading Scheme (DCTS), saying it will provide a timely boost for the apparel industry — the island nation’s largest export sector.
+
+The Ceylon Chamber encouraged local exporters to familiarise themselves with the new trade arrangements and “take full advantage of the opportunities available”.
+
+To support this transition, the Chamber will collaborate with the UK High Commission and the Sri Lanka government to build awareness across the private sector, it said.
+
+The Ceylon Chamber of Commerce welcomes the UK Government’s liberalisation of rules of origin under its Developing Countries Trading Scheme (DCTS), set to take effect in early 2026.
+
+This important step reflects the UK’s continued commitment to greater trade openness and flexibility, offering Sri Lankan exporters enhanced access to one of their key markets.
+
+...
+
+[Data](articles/7cc0166e.json)
+
+---
+
+### Sri Lanka’s JAAF welcomes UK’s liberalised trade rules of origin for apparel exports
+
+*2025-08-20 13:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-jaaf-welcomes-uks-liberalised-trade-rules-of-origin-for-apparel-exports-237450/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s apparel association welcomed the UK’s announcement of liberalised rules of origin under the Developing Countries Trading Scheme (DCTS), which will allow local manufacturers to source up to 100% of inputs for garments from any country worldwide while continuing to enjoy tariff-free access to the UK market.
+
+“We see this as an opportunity to expand trade, strengthen industry competitiveness, and secure more jobs and livelihoods across Sri Lanka’s apparel sector,”  JAAF Secretary General, Yohan Lawrence, said.
+
+JAAF welcomes UK’s liberalised trade rules of origin for apparel exports
+
+The Joint Apparel Association Forum (JAAF) today warmly welcomed the UK Government’s announcement of liberalised rules of origin under the Developing Countries Trading Scheme (DCTS), which will come into effect in early 2026.
+
+...
+
+[Data](articles/2d8ce0c8.json)
+
+---
+
 ### දේශබන්දුගේ ඉල්ලීමක් ප්‍රතික්ෂේප වෙයි
 
 *2025-08-20 13:20:16* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දුගේ-ඉල්ලීමක්-ප්‍රතික්ෂේප-වෙයි/11-417970) · `si`
@@ -1151,6 +1293,26 @@ In today’s hyper-competitive landscape, high-performance teams, being those el
 ◼️
 
 [Data](articles/3e8e23bd.json)
+
+---
+
+### Sri Lanka free to use more foreign inputs in duty free apparel exports to UK
+
+*2025-08-20 13:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-free-to-use-more-foreign-inputs-in-duty-free-apparel-exports-to-uk-237452/) · `en`
+
+ECONOMYNEXT – Sri Lanka apparel exporters will be allowed to use up to 100 percent input from any country and get duty free access to the UK from 2026, under plan to help developing countries.
+
+Under the UK’s Developing Countries Trading Scheme (DCTS), Sri Lanka receives benefits as an ‘Enhanced Preference’ country.
+
+Current rules allow tariff free access to Sri Lankan garments if inputs are sourced from the South Asian region along with restrictions around processing, the British embassy said.
+
+The liberalised rules will now offer countries eligible for ‘Enhanced Preference’ including Sri Lanka the same product-specific rules for apparel  cover by chapters 61 and 62 equal to the access lower income countries like Bangladesh get through ‘Comprehensive Preferences’.
+
+“We are pleased to confirm further details of the reforms to the DCTS,” the British High Commissioner to Sri Lanka Andrew Patrick said in a statement.
+
+...
+
+[Data](articles/041ff528.json)
 
 ---
 
@@ -1577,137 +1739,5 @@ Accordingly, a total provision of Rs. 1 billion has been allocated in the 2025 B
 ◼️
 
 [Data](articles/8160b74c.json)
-
----
-
-### Strike launched at Gampaha Hospital by allied health professionals
-
-*2025-08-20 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111670/strike-launched-at-gampaha-hospital-by-allied-health-professionals) · `en`
-
-The Joint Council of Professions Supplementary to Medicine (JCPSM) has launched an unannounced trade union action at 8:00 a.m. today (20) at the Gampaha District General Hospital, ahead of a previously scheduled province-wide strike planned for tomorrow.
-
-According to JCPSM General Secretary Chanaka Dharmawickrama, the sudden move was triggered by a letter issued by the Director of the hospital instructing allied health professionals not to sign attendance records, prompting all such staff to withdraw from duties at the hospital.
-
-He added that discussions are currently ongoing with the hospital director, who has so far failed to provide a proper response to the matter.
-
-Previously, the JCPSM had announced plans to initiate trade union action from tomorrow (21) across 31 hospitals under the Western Provincial Council, in protest against the implementation of the 2024 transfer orders, which they claim were issued amid serious irregularities and strong opposition.
-
-...
-
-[Data](articles/f46ef9fc.json)
-
----
-
-### “கசினோ, கஞ்சா காரர்களாகிவிட்டனர்”
-
-*2025-08-20 12:16:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கசினோ-கஞ்சா-காரர்களாகிவிட்டனர்/175-363105) · `ta`
-
-கசினோக்களை அமைத்து கஞ்சாவைப் பயிரிட்டு பொருளாதாரத்தை வளர்க்கப் போவதாக  அன்று அரசாங்கத்தைப் பார்த்து விமர்சித்தவர்கள் இப்போது தங்களின் அரசாங்கத்தின் பொருளாதார கொள்கைத் திட்டத்திற்குள் கசினோவையும் கஞ்சாவையும் இணைத்துள்ளனர். எங்களை விடவும் அதிகமாக அதனை சமூகத்திற்குக் கொண்டு செல்வதற்கு இந்த அரசாங்கம் முயற்சிக்கின்றது  என ஶ்ரீலங்கா பொதுஜன பெரமுனஎம்.பியான  நாமல் ராஜபக்‌ஷ தெரிவித்தார்.
-
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (19)  இடம் பெற்ற பணச் சூதாட்டத்தை ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர்   இவ்வாறு குறிப்பிட்டார்.
-
-அரச வருமானம் தொடர்பில் கதைக்கின்றனர். அதிகளவில் வரிகளை அறவிட்டு மக்கள் மீது வரிச் சுமைகளைச் சுமத்துகின்றனர். இவ்வாறு மக்கள் மீது வரிகளை அறவிட்டு அரச வருமானம் அதிகரித்துள்ளதாகக் கூறுகின்றனர். இந்த வருமானத்தால் மக்களுக்கு என்ன கிடைக்கின்றது. மின் கட்டணத்தைக் குறைப்பதாகவும், உர மானியங்களை வழங்குவதாகவும் கூறினர். ஆனால் எதுவும் நடக்கவில்லை.
-
-...
-
-[Data](articles/b3ed4c89.json)
-
----
-
-### “வடக்கு, கிழக்கு ஹர்த்தாலில் 100% கடைகள்  மூடப்படவில்லை”
-
-*2025-08-20 12:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வடக்கு-கிழக்கு-ஹர்த்தாலில்-100-கடைகள்-மூடப்படவில்லை/150-363102) · `ta`
-
-தமிழரசுக் கட்சியினால் அழைப்பு விடுக்கப்பட்ட ஹர்த்தாலினால் வடக்கு, கிழக்கு மாகாணங்களில் நூற்றுக்கு நூறு சதவீதம்  கடைகள் மூடப்படவில்லை என்பதை ஏற்றுக்கொள்கிறோம். ஹர்த்தாலை பலவீனமடைய செய்ய வேண்டும் என்று ஒரு தரப்பினர் செயற்பட்டுள்ளார்கள் என  தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன்  தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19)  அன்று இடம்பெற்ற பணச்சூதாட்டத்தை  ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம்  மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-எம்மால் வடக்கு, கிழக்கு மாகாணத்தில் அழைப்பு விடுக்கப்பட்ட ஹர்த்தால் பற்றி  ஹர்த்தாலுக்கு ஆதரவு வழங்கியவர்களும், ஆதரவு வழங்காதவர்களும் பல்வேறு விடயங்களைக் கூறுகின்றனர்.
-
-...
-
-[Data](articles/058094fa.json)
-
----
-
-### “வடக்கு, கிழக்கு ஹர்த்தாலில் 100% கடைகள்  மூடப்படவில்லை”
-
-*2025-08-20 12:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-ஹர்த்தாலில்-100-கடைகள்-மூடப்படவில்லை/175-363102) · `ta`
-
-தமிழரசுக் கட்சியினால் அழைப்பு விடுக்கப்பட்ட ஹர்த்தாலினால் வடக்கு, கிழக்கு மாகாணங்களில் நூற்றுக்கு நூறு சதவீதம்  கடைகள் மூடப்படவில்லை என்பதை ஏற்றுக்கொள்கிறோம். ஹர்த்தாலை பலவீனமடைய செய்ய வேண்டும் என்று ஒரு தரப்பினர் செயற்பட்டுள்ளார்கள் என  தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன்  தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19)  அன்று இடம்பெற்ற பணச்சூதாட்டத்தை  ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம்  மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-எம்மால் வடக்கு, கிழக்கு மாகாணத்தில் அழைப்பு விடுக்கப்பட்ட ஹர்த்தால் பற்றி  ஹர்த்தாலுக்கு ஆதரவு வழங்கியவர்களும், ஆதரவு வழங்காதவர்களும் பல்வேறு விடயங்களைக் கூறுகின்றனர்.
-
-...
-
-[Data](articles/92f5c4db.json)
-
----
-
-### டெல்லி முதல்வரை அறைந்த நபரால் பரபரப்பு
-
-*2025-08-20 12:12:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெல்லி-முதல்வரை-அறைந்த-நபரால்-பரபரப்பு/175-363101) · `ta`
-
-டெல்லி முதல்வர் ரேகா குப்தா புதன்கிழமை (20) காலை தனது இல்லத்தில் நடந்த மக்கள் குறை தீர் முகாமில் கலந்து கொண்டிருந்தபோது மனு கொடுக்கவந்த நபர் ஒருவர் முதல்வரின் தலை முடியைப் பிடித்து இழுத்து, கன்னத்தில் அறைந்ததால் பரபரப்பு ஏற்பட்டுள்ளது.
-
-டெல்லியில் கடந்த சட்டப்பேரவைத் தேர்தலில் ஆம் ஆத்மி கட்சியை வீழ்த்தி ஆட்சி அமைத்தது பாஜக. முதல்வராக ரேகா குப்தா பதவியேற்றார்.
-
-அவர் முதல்வராக பதவியேற்றப் பின்னர் தனது இல்லத்தில் மக்களை நேரடியாக சந்தித்து முகாம்களைப் பெறுவதை வழக்கமாகக் கொண்டுள்ளார்.
-
-அந்த வகையில், டெல்லி முதல்வர் ரேகா குப்தா புதன்கிழமை (20) காலை தனது இல்லத்தில் நடந்த மக்கள் குறைதீர் முகாமில் பங்கேற்றிருந்தார்.
-
-அப்போது அவரை முகாமுக்கு வந்த நபர் ஒருவர் முதல்வரின் தலை முடியைப் பிடித்து இழுத்து, கன்னத்தில் தாக்கியுள்ளார்.
-
-முதல்வரை தாக்கிய அந்த நபரை பொலிஸார் உடனடியாக சுற்றி வளைத்து கைது செய்தனர். முதற்கட்ட விசாரணையின்படி அந்த நபர் 41 வயதான ராஜேஷ் பாய் கிம்ஜி பாய் சக்காரியா என்பது தெரியவந்துள்ளது. அந்த நபர் ராஜ்கோட்டை சேர்ந்தவர் என்றும் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/83ec2cbf.json)
-
----
-
-### “வெளிநாட்டுக் கையிருப்பை ஜே.வி.பியே   இல்லாதொழித்தது”
-
-*2025-08-20 12:12:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டுக்-கையிருப்பை-ஜே-வி-பியே-இல்லாதொழித்தது/175-363099) · `ta`
-
-2024ஆம் ஆண்டு ஒக்டோபர், நவம்பர் மாத காலப்பகுதியில் நாட்டின் வெளிநாட்டுக் கையிருப்பு உயர்வாக காணப்பட்ட நிலையில், தற்போது அந்தக் கையிருப்பு எண்ணிக்கை குறைவடைந்துள்ளது.இது சிவப்பு எச்சரிக்கை.அன்று சகல அபிவிருத்தி திட்டங்களுக்கும் ஜே.வி.பியே எதிர்ப்பு தெரிவித்து அனைத்தையும் இல்லாதொழித்தது. அன்று எதிர்த்த முதலீட்டுத் திட்டங்களை இன்று ஏற்கிறார்கள் இதுதான்  கர்ம வினை என ஐக்கிய மக்கள் சக்தியின் கேகாலை மாவட்ட எம்.பி. கபீர் ஹாசிம் தெரிவித்தார்.
-
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (19) அன்று இடம்பெற்ற பணச் சூதாட்டத்தை  ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர்  இவ்வாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/cf8bfa47.json)
-
----
-
-### அரசு நிறுவனங்களுக்கு சைபர் பாதுகாப்பு
-
-*2025-08-20 12:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-நிறுவனங்களுக்கு-சைபர்-பாதுகாப்பு/175-363098) · `ta`
-
-தேசிய தகவல் உள்கட்டமைப்பைப் பராமரிக்கும் அரசு நிறுவனங்களைத் தேசிய சைபர் பாதுகாப்பு செயல்பாட்டு மையத்துடன் இணைப்பதற்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
-
-அரச நிறுவனங்கள் மற்றும் நிதி நிறுவனங்களை குறிவைத்து நடத்தப்படும் சைபர் தாக்குதல்கள், அந்த நிறுவனங்களால் வழங்கப்படும் அத்தியாவசிய சேவைகளுக்கு இடையூறு விளைவிக்கும் அபாயத்தை ஏற்படுத்துகின்றன. மேலும், தனிப்பட்ட மற்றும் உணர்திறன் மிக்க தரவுகளை மற்றவர்களுக்கு இழப்பது குடிமக்களின் தனிப்பட்ட பாதுகாப்பு, தேசிய பாதுகாப்பு, பொருளாதார ஸ்திரத்தன்மை, பொது சுகாதாரம் மற்றும் சமூகத்தின் நல்வாழ்வு, அத்துடன் அரசு நிறுவனங்கள் மீதான பொதுமக்களின் நம்பிக்கையையும் மோசமாகப் பாதிக்கிறது.
-
-...
-
-[Data](articles/6a0da944.json)
-
----
-
-### தேசபந்து தென்னகோனின் முன் பிணை மனு நிராகரிப்பு
-
-*2025-08-20 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222923) · `ta`
-
-முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது செய்யப்படுவதைத் தடுக்க உத்தரவிடக் கோரி தாக்கல் செய்த முன்பிணை மனுவை கொழும்பு கோட்டை நீதவான் நீதிமன்றம் நிராகரித்துள்ளது.
-
-முன்னாள் பொலிஸ் மா அதிபரின் சட்டதரணிகளால் தாக்கல் செய்யப்பட்ட பிணை மனுவை இன்று புதன்கிழமை (20) காலை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர பரிசீலித்தார்.
-
-அதன்படி, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கோரிய முன் பிணை  மனுவை  நீதவான் நிராகரித்துள்ளார்.
-
-◼️
-
-[Data](articles/76111b4e.json)
 
 ---

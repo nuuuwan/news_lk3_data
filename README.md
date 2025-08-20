@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 09:50:20**
+As of **2025-08-20 10:07:59**
 
 ## Newspaper Stats
 
-*Scraped **71,274** Articles*
+*Scraped **71,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,974
+adaderanalk | 8,978
 tamilmirrorlk | 10,463
-virakesarilk | 11,810
+virakesarilk | 11,811
 adaderanasinhalalk | 12,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,274 articles have been extended.
+61,973 (86.9%) of 71,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Over 1,300 driving licenses issued to foreign nationals at BIA
+
+*2025-08-20 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111663/over-1300-driving-licenses-issued-to-foreign-nationals-at-bia-) · `en`
+
+A total of 1,338 driving licenses have been issued to foreign nationals by the Department of Motor Traffic (DMT) office established at the Bandaranaike International Airport (BIA) in Katunayake since its opening.
+
+The dedicated license issuance counter, set up on August 3, was introduced for the convenience of foreigners visiting Sri Lanka.
+
+Previously, foreign tourists were required to visit the DMT office in Werahera to obtain driving licenses.
+
+According to the Department, a total of 1,338 licenses were issued between August 3 and 17, with the highest number recorded on August 7.
+
+Meanwhile, the National Tourist Drivers’ Association has expressed strong opposition to this initiative, arguing that issuing licenses to foreign nationals for as little as Rs. 2,000 poses a serious threat to the livelihood of professional tourist drivers.
+
+Association representative Amila Koralage stated that the move has created significant injustice for those engaged in the profession.
+
+◼️
+
+[Data](articles/e0512745.json)
+
+---
 
 ### පාර්ලිමේන්තු සභා වාරය ඇරඹෙයි
 
@@ -41,6 +63,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/14a63f8b.json)
+
+---
+
+### முன்னாள் அமைச்சர் மனுஷ சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவில் ஆஜர் !
+
+*2025-08-20 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222913) · `ta`
+
+முன்னாள் அமைச்சர் மனுஷ நாணயக்கார, குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்து விசாரணைப் பிரிவில் இன்று (ஆகஸ்ட் 20, 2025) ஆஜராகியுள்ளார்.
+
+சட்டவிரோத சொத்துக்கள் மற்றும் பணமோசடி குற்றச்சாட்டுகள் தொடர்பில் அவரிடம் வாக்குமூலம் பெறுவதற்காகவே அவர் அழைக்கப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+அண்மைக்காலமாக, முன்னாள் மற்றும் தற்போதைய அமைச்சர்கள் உட்பட 28 அரசியல் பிரமுகர்களின் சட்டவிரோத சொத்துக்கள் குறித்து விசாரணையை குற்றப் புலனாய்வுத் திணைக்களம் (CID), ஆரம்பித்துள்ளது.
+
+இதன் தொடர்ச்சியாகவே முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவிடம் விசாரணை நடத்தப்படுகிறது. குறிப்பாக, சட்டவிரோதமாக ஆடம்பரமான சொத்துக்களை, வாங்கியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பாக இந்த விசாரணை இடம்பெறுவதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/f3708d22.json)
+
+---
+
+### யாழில் வெடிக்காத நிலையில் பெருமளவான துப்பாக்கி ரவைகள் மீட்பு
+
+*2025-08-20 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222908) · `ta`
+
+யாழ்ப்பாணம் கொடிகாமம் பகுதியில் செவ்வாய்க்கிழமை (19) நீர் குழாய்களை மண்ணில் புதைக்கும் பணிகளுக்காக நிலத்தினை அகழ்ந்து போது ஒரு தொகை துப்பாக்கி ரவைகள் மீட்கப்பட்டுள்ளன.
+
+குழாய்களை புதைப்பதற்காக நிலத்தினை அகழ்ந்து போது சந்தேகத்திற்கு இடமான முறையில் உரை பை ஒன்று காணப்பட்டதை அடுத்து , கொடிகாம பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
+
+தகவலை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த உரை பையை மீட்டு சோதனையிட்ட போது அவற்றுக்குள் வெடிக்காத நிலையில் துப்பாக்கி ரவை கோர்வைகள் காணப்பட்டுள்ளன.
+
+அதனை அடுத்து அவற்றை மீட்டு கொடிகாம பொலிஸ் நிலையம் எடுத்து சென்ற பொலிஸார் அவற்றுள் 1393 துப்பாக்கி ரவைகள் காணப்பட்டதாகவும் , அவற்றினை நீதிமன்றில் பரப்படுத்தி நீதிமன்ற உத்தரவில் அடுத்த கட்ட நடவடிக்கையை எடுக்கவுள்ளதாக தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8d5f4474.json)
 
 ---
 
@@ -55,6 +113,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/092182ce.json)
+
+---
+
+### Ex-Minister Manusha Nanayakkara arrives at Illegal Assets Investigation Division
+
+*2025-08-20 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111662/ex-minister-manusha-nanayakkara-arrives-at-illegal-assets-investigation-division-) · `en`
+
+Former Minister Manusha Nanayakkara has arrived at the Illegal Assets Investigation Division of the Criminal Investigation Department (CID), a short while ago, Ada Derana reporter said.
+
+He has arrived at the Illegal Assets Investigation Division to record a statement related to on-going investigations.
+
+◼️
+
+[Data](articles/b2a97cec.json)
+
+---
+
+### மியன்மாரில் தேர்தல் திகதி அறிவிப்பு
+
+*2025-08-20 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/222855) · `ta`
+
+மியான்மாரில் எதிர்வரும் டிசம்பரில் பொதுத்தேர்தல் பல கட்டங்களாக நடத்தப்படும் என்றும் 330 தொகுதிகளிலும் தேர்தல் நடைபெறும் என்றும் இராணுவ ஆட்சியாளர்களால் உருவாக்கப்பட்ட தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+
+இதனையடுத்து ஆங் சான் சூகி உள்ளிட்ட ஆளுங்கட்சி தலைவர்கள் கைது செய்யப்பட்டு வீட்டுக்காவலில் சிறை வைக்கப்பட்டுள்ளனர்.
+
+இந்த நிலையில் மியான்மரில் எதிர்வரும் டிசம்பர் மாதம் பொதுத்தேர்தல் நடத்தப்படும் என்று அறிவிக்கப்பட்டுள்ளது. எதிர்வரும் டிசம்பர் மாதம் 28 ஆம் திகதி முதல் பல கட்டங்களாக தேர்தல் நடத்தப்படும் என்று இராணுவ ஆட்சியாளர்களால் உருவாக்கப்பட்ட தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+
+தேசிய அளவில் போட்டியிடவுள்ள 9 கட்சிகள் உள்ளிட்ட மொத்தம் 55 கட்சிகள் தேர்தலில் போட்டியிட பதிவு செய்துள்ளதாக அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளன.
+
+மின் ஆங் ஹ்லைங் தலைமையிலான மியான்மர் இராணுவ நிர்வாகம், டிசம்பர் மற்றும் ஜனவரியில் தேர்தலை நடத்துவதற்குத் தயாராகும் வகையில், நாட்டின் சில பகுதிகளில் அமுலில் இருந்த அவசரகால நிலையை கடந்த மாதம் முடிவுக்கு கொண்டுவந்தது.
+
+...
+
+[Data](articles/274228a3.json)
 
 ---
 
@@ -77,6 +169,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f654f7d9.json)
+
+---
+
+### Postal workers continue strike action across the country
+
+*2025-08-20 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111661/postal-workers-continue-strike-action-across-the-country-) · `en`
+
+The Postal and Telecommunication Officers’ Union (PTOU) has announced that the trade union action initiated by postal workers on Sunday (17), will continue today (20) as well, affecting postal operations across the country.
+
+Union President Niroshan Gorakana stated that the strike is being carried out to demand a formal discussion with the Subject Minister regarding their concerns.
+
+He also denied claims that the trade union action was launched to protest against the decision to introduce a fingerprint system to record the attendance of employees.
+
+However, Deputy Postmaster General Chameesha de Silva, commenting on the matter stated that the implementation of the fingerprint system is, in fact, the main reason behind the ongoing strike.
+
+...
+
+[Data](articles/a6c59947.json)
+
+---
+
+### Health Ministry temporarily suspends staff leave, Union claims decision unlawful
+
+*2025-08-20 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111660/health-ministry-temporarily-suspends-staff-leave-union-claims-decision-unlawful) · `en`
+
+The Ministry of Health states that due to a high volume of staff members taking leave of absence, it has become increasingly difficult to sustain the continuous operation of essential services within the ministry, given the critical nature of its duties.
+
+As a result, the Ministry of Health and Mass Media has decided to temporarily suspend the approval of leave of absence including to travel overseas for its staff until further notice.
+
+This decision was formally announced through a circular issued by the Secretary to the Ministry Dr. Anil Jasinghe.
+
+The same circular also notes that recruitment for all vacant positions within the Ministry of Health and Mass Media will be restricted until further notice.
+
+...
+
+[Data](articles/e32be3ea.json)
 
 ---
 
@@ -421,24 +549,6 @@ Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over 
 ...
 
 [Data](articles/9a545674.json)
-
----
-
-### யாழில். வெடிக்காத நிலையில் பெருமளவான துப்பாக்கி ரவைகள் மீட்பு
-
-*2025-08-20 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/222908) · `ta`
-
-யாழ்ப்பாணம் கொடிகாமம் பகுதியில் செவ்வாய்க்கிழமை (19) நீர் குழாய்களை மண்ணில் புதைக்கும் பணிகளுக்காக நிலத்தினை அகழ்ந்து போது ஒரு தொகை துப்பாக்கி ரவைகள் மீட்கப்பட்டுள்ளன.
-
-குழாய்களை புதைப்பதற்காக நிலத்தினை அகழ்ந்து போது சந்தேகத்திற்கு இடமான முறையில் உரை பை ஒன்று காணப்பட்டதை அடுத்து , கொடிகாம பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
-
-தகவலை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த உரை பையை மீட்டு சோதனையிட்ட போது அவற்றுக்குள் வெடிக்காத நிலையில் துப்பாக்கி ரவை கோர்வைகள் காணப்பட்டுள்ளன.
-
-அதனை அடுத்து அவற்றை மீட்டு கொடிகாம பொலிஸ் நிலையம் எடுத்து சென்ற பொலிஸார் அவற்றுள் 1393 துப்பாக்கி ரவைகள் காணப்பட்டதாகவும் , அவற்றினை நீதிமன்றில் பரப்படுத்தி நீதிமன்ற உத்தரவில் அடுத்த கட்ட நடவடிக்கையை எடுக்கவுள்ளதாக தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/8d5f4474.json)
 
 ---
 
@@ -1584,22 +1694,6 @@ The 31-year-old Sri Lankan worker suffered the mistreatment for about five minut
 
 ---
 
-### மியன்மாரில் தேர்தல் திகதி அறிவிப்பு
-
-*2025-08-19 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222855) · `ta`
-
-மியன்மாரில் ஜனநாயக முறையில் தேர்ந்தெடுக்கப்பட்ட அரசாங்கத்தை கவிழ்த்து விட்டு 2021 ஆம் ஆண்டு இராணுவம் ஆட்சியைக் கைப்பற்றியது.
-
-இதனையடுத்து ஆங் சான் சூகி உள்ளிட்ட ஆளுங்கட்சி தலைவர்களை கைது செய்து வீட்டுச் சிறையில் அடைத்தனர். இதற்கு நாடு முழுவதும் எதிர்ப்புகள் கிளம்பின.
-
-கடந்த 4 ஆண்டுகளாக இந்த போராட்டம் நடந்து வரும் நிலையில் தேர்தலை நடத்துவதற்கான சூழல் தற்போது உருவாகி உள்ளது. அதன்படி எதிர்வரும் டிசம்பர் மாதம் 28 ஆம் திகதி முதல் பல கட்டங்களாக தேர்தல் நடத்தப்படும் என இராணுவ ஆட்சித் தலைவர் மின் ஆங் ஹ்லைங் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/274228a3.json)
-
----
-
 ### නිවාස පහසුකම් සඳහා මූල්‍යාධාර හිමිවන පිරිස මෙන්න
 
 *2025-08-19 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213542) · `si`
@@ -1707,99 +1801,5 @@ The suspects and the smuggled cigarettes are to be produced before the Negombo M
 ◼️
 
 [Data](articles/1c1efdf4.json)
-
----
-
-### Rising risks to Indian corporates from higher US tariffs: Fitch Ratings
-
-*2025-08-19 11:30:00* · [`economynextcom`](https://economynext.com/rising-risks-to-indian-corporates-from-higher-us-tariffs-fitch-ratings-237260/) · `en`
-
-Fitch Ratings believes India-based corporates generally have low direct exposure to US tariffs, but sectors that are currently unaffected, including pharmaceuticals, could be hit by further US tariff announcements.
-
-The risk of second-order effects from existing tariffs is also rising. A US-India trade deal, if secured, would reduce these risks.
-
-The US imposed 25% “reciprocal” tariffs on India with effect from 7 August 2025 and an additional 25% levy in connection with its oil imports from Russia, effective 27 August.
-
-...
-
-[Data](articles/991db8f5.json)
-
----
-
-### චීන - ඉන්දියා මිත්‍රත්වය අලුත් වෙයි‍
-
-*2025-08-19 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213538) · `si`
-
-මෙම මස අවසානයේ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා එක් වීමට නියමිත චීන සංචාරයත් සමග චීන-ඉන්දීය සබඳතා යළි ශක්තිමත් වීමේ ප්‍රවණතාවක් පවතී.
-
-එවන් මොහොතක චීන විදේශ අමාත්‍ය වැන්ග් යී මහතා ඉන්දියාවේ සංචාරයකට එක් වීමත් විශේෂත්වයකි.
-
-එහිදී ඉන්දීය විදේශ අමාත්‍ය එස්. ජයිශංකර් මහතා සමග පැවති සාකච්ඡාවට ද වැඩි අවධානයක් යොමු විය.
-
-එම සාකච්ඡාවේදී චීන-ඉන්දියා ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට දෙපාර්ශ්වය එකඟත්වය පළ කර ඇත.
-
-එම ද්විපාර්ශ්වික සාකච්ඡාවේදී වැන්ග් යී මහතා පැවසුවේ දෙරට නායකයින්ගේ වැදගත් එකඟතා ක්‍රියාත්මක කරමින් සියලුම මට්ටමේ සංවාද මෙන්ම හුවමාරු සබඳතා ක්‍රමයෙන් යළි ආරම්භ කිරීමට අපේක්ෂා කරන බවය.
-
-එමෙන්ම දේශසීමා ප්‍රදේශවල සාමය පවත්වා ගනිමින් ඉන්දියානු බැතිමතුන්ට චීනයේ Xizang ජාතික ස්වායත්තයේ පූජනීය ස්ථාන වන්දනා ගමන් යළි ඇරඹීමට සහයෝගය ලබා දෙන බව ද හෙතෙම සඳහන් කළේය.
-
-මේ වනවි‍ට චීන-ඉන්දියා සබඳතා ශක්තිමත් වෙමින් ධනාත්මක ප්‍රවණතාවක් පෙන්නුම් කරමින් තිබේ.
-
-එමෙන්ම මෙම වසර චීනය සහ ඉන්දියාව අතර රාජ්‍යතාන්ත්‍රික සබඳතා පිහිටුවීමේ 75 වන සංවත්සර වසරද වේ.
-
-...
-
-[Data](articles/0d649d5b.json)
-
----
-
-### රුසියාවෙන් යුක්‍රේනයට මාරාන්තික ප්‍රහාරයක්
-
-*2025-08-19 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213537) · `si`
-
-යුක්‍රේනයට එල්ල වූ රුසියානු ප්‍රහාරයකින් පුද්ගලයින් 14 දෙනෙකු මියගොස් තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කළේ, ප්‍රහාරයෙන් කුඩා ළමුන් දෙදෙනෙකු මියගොස් ඇති අතර පුද්ගලයින් 23 දෙනෙකු තුවාල ලබා ඇති බවය.
-
-යුක්‍රේනයේ කාර්කිව් වෙත එල්ල වූ ඩ්‍රෝන ප්‍රහාරයෙන් පස් මහල් ගොඩනැගිල්ලක කොටසක් සම්පූර්ණයෙන් විනාශයට පත්ව ඇති අතර මහල් තුනක ගින්නක් ද හටගෙන ඇති බව සඳහන්ය.
-
-ජනාධිපති ව්ලොද්මියර් සෙලෙන්ස්කි සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර වොෂින්ටනයේ පැවති සාකච්ඡාවලට පෙර එම ප්‍රහාර එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-◼️
-
-[Data](articles/337f850d.json)
-
----
-
-### Speaker endorses certificate on Sri Lanka Electricity (Amendment) Bill
-
-*2025-08-19 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111626/speaker-endorses-certificate-on-sri-lanka-electricity-amendment-bill) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne has endorsed the certificate on the Sri Lanka Electricity (Amendment) Bill.
-
-The Sri Lanka Electricity (Amendment) Bill was passed in Parliament on August 6.
-
-Accordingly, the Sri Lanka Electricity (Amendment) Bill will come into force as the Sri Lanka Electricity (Amendment) Act, No. 14 of 2025, the Department of Communication of Parliament said.
-
-Through the Act, provisions have been made for the preparation of the “National Electricity Policy as part of the National Policy on Energy” in place of the “National Electricity Advisory Council.” Furthermore, the term “Wholesale Electricity Market” is substituted with “National Electricity Market,” with the principal objectives of ensuring a continuous, efficient and affordable electricity supply, minimizing greenhouse gas emissions, and promoting renewable energy.
-
-...
-
-[Data](articles/9a51c393.json)
-
----
-
-### Occupational exposure to GenAI in Sri Lanka
-
-*2025-08-19 11:00:00* · [`economynextcom`](https://economynext.com/occupational-exposure-to-genai-in-sri-lanka-237222/) · `en`
-
-The first two infographics in this blog were created with Artificial Intelligence (AI) technology, resulting in production times of mere seconds. In contrast, creating similar infographics without AI would typically require several hours of work.
-
-This illustrates how AI significantly boosts worker productivity. Nearly every sector showcases examples of AI enhancing labour efficiency. For instance, online educational content can be effortlessly generated with AI by just inputting text.
-
-Additionally, it can assume the roles of editors and content writers, significantly reducing the time required to draft a report. These are just a few examples of how AI can improve the productivity of workers. As AI continues to permeate different job fields, it is poised to transform the labour market soon. With the assistance of AI, workers will be more productive, and as a result, fewer workers may be needed to perform the same job. It is also possible that AI will create new jobs.
-
-...
-
-[Data](articles/1da766ac.json)
 
 ---

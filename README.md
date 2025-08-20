@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 08:42:58**
+As of **2025-08-20 09:09:35**
 
 ## Newspaper Stats
 
-*Scraped **71,269** Articles*
+*Scraped **71,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,972
+adaderanalk | 8,974
 tamilmirrorlk | 10,463
 virakesarilk | 11,810
 adaderanasinhalalk | 12,318
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,269 articles have been extended.
+61,973 (87.0%) of 71,271 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e368ff9c.json)
+
+---
+
+### Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal
+
+*2025-08-20 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111659/israel-demands-release-of-all-gaza-hostages-casting-doubt-on-ceasefire-proposal) · `en`
+
+Israel is demanding the release of all 50 hostages held in Gaza, an Israeli official has said, casting doubt on whether it will accept a new proposal for a 60-day ceasefire that Hamas agreed to on Monday.
+
+The proposal, put forward by Qatar and Egypt, would see the release of around half the hostages and is “almost identical” to a US proposal Israel had previously accepted, according to Qatar.
+
+Israel has not explicitly rejected it - but Israeli government spokesman David Mencer told the BBC that it is not interested in “partial deals”.
+
+“Things have changed now. The prime minister has laid out a plan for the future of Gaza,” Mencer said.
+
+Palestinian sources said the proposal would see 10 living and 18 dead hostages handed over while the sides negotiated a permanent ceasefire and the return of the other hostages.
+
+Israel believes that only 20 of the 50 hostages are still alive after 22 months of war.
+
+...
+
+[Data](articles/7ab1b6ae.json)
+
+---
+
+### Man Killed with blunt weapon in Peliyagoda
+
+*2025-08-20 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111657/man-killed-with-blunt-weapon-in-peliyagoda) · `en`
+
+An individual has been killed with the use of a blunt weapon in Wedamulla, Peliyagoda, police said.
+
+Accordingly, investigations have been launched based on a complaint received by the Peliyagoda Police Station last evening (19).
+
+Preliminary investigations have revealed that the murder occurred following an argument between the deceased and another individual, which escalated into violence.
+
+Peliyagoda Police are conducting further investigations to apprehend the suspect involved in the crime.
+
+◼️
+
+[Data](articles/7328cbca.json)
 
 ---
 
@@ -1777,45 +1817,5 @@ At present, there are 86 recognized political parties in Sri Lanka.
 ◼️
 
 [Data](articles/6dcd2c03.json)
-
----
-
-### නව දේශපාලන පක්ෂ ලියාපදිංචියට සම්මුඛ පරීක්ෂණ ඇරඹෙයි
-
-*2025-08-19 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213535) · `si`
-
-2025 වර්ෂය සඳහා ලියාපදිංචි කිරීමට ඉල්ලීම් කර ඇති නව දේශපාලන පක්ෂවල සම්මුඛ පරීක්ෂණ මේ වන විට ආරම්භ කර ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
-
-එහි කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේ, දේශපාලන පක්ෂ 47ක් මූලික සම්මුඛ පරීක්ෂණ සඳහා තෝරාගෙන ඇති බවය.
-
-මේ වසර සඳහා දේශපාලන පක්ෂ ලියාපදිංචි කිරීමට පසුගිය පෙබරවාරි මාසයේ ඉල්ලුම්පත් කැඳවීම සිදුකළ අතර එහිදී ඉල්ලුම්පත් 83ක් ඉදිරිපත්වී තිබුණි.
-
-එම ඉල්ලුම්පත් 83 අතුරින් ඉල්ලුම්පත් 36ක් මූලික කරුණු පවා සපුරා නොතිබීම හේතුවෙන් ප්‍රතික්ෂේප කළ බව මැතිවරණ ‍කොමසාරිස් ජනාරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේය.
-
-ඒ අනුව ඉල්ලුම්පත් 47ක් සම්බන්ධයෙන් මූලික සම්මුඛ පරීක්ෂණ කටයුතු මේ දිනවල සිදුවන අතර එම සම්මුඛ පරීක්ෂණවලින් තෝරාගන්නා පක්ෂ සඳහා දෙවන වටයේ සම්මුඛ පරීක්ෂණවලට යොමුකිරීමට නියමිතය.
-
-එම සම්මුඛ පරීක්ෂණවලින් අනතුරුව තෝරා ගන්නා පක්ෂ 2025 වර්ෂය සඳහා නව දේශපාලන පක්ෂ ලෙස ලියාපදිංචි කිරීම සිදුකරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/93bf14e4.json)
-
----
-
-### Money printing will not lead to increase in inflation – Dy Minister
-
-*2025-08-19 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111623/money-printing-will-not-lead-to-increase-in-inflation-dy-minister) · `en`
-
-Deputy Minister of Transport, Dr. Prasanna Gunasena claims that money printing will not lead to an increase in inflation in the country.
-
-He also emphasized that the incumbent government has taken effective measures to stabilize the economy and control inflation.
-
-Dr. Gunasena made these remarks while addressing media following the re-launch of buses imported in 2014, which had been out of service and were reintroduced with newly installed engines.
-
-The Deputy Minister stated, “Currency notes printing is carried out according to the economic needs of the country. It happens every year. We must look at the overall economic indicators. Compared to the last six months, we have reduced the income–expenditure gap by more than 33%. In the first half of last year, state revenue stood at Rs. 1.8 trillion, whereas this year it has increased to Rs. 2.3 trillion—an increase of 24.7%. Meanwhile, expenditure has been reduced. Therefore, the economy is stable, and there is no need for doubt.”
-
-...
-
-[Data](articles/d21df9fb.json)
 
 ---

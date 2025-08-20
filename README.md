@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 04:07:17**
+As of **2025-08-21 04:19:32**
 
 ## Newspaper Stats
 
-*Scraped **71,448** Articles*
+*Scraped **71,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 730
 economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,035
+dailyftlk | 5,037
 adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,508
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,448 articles have been extended.
+61,973 (86.7%) of 71,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### Sahasdhanavi and LNG: Search for real costs in the midst of obfuscation
+
+*2025-08-21 03:55:10* · [`dailyftlk`](https://www.ft.lk/columns/Sahasdhanavi-and-LNG-Search-for-real-costs-in-the-midst-of-obfuscation/4-780543) · `en`
+
+Sahasdhanavi power plant has been in the news from April this year due to multiple controversies, from the infamous picture of Dr. Tilak Siyambalapitiya signing the Power Purchase Agreement (PPA) with Deputy Chairman Ravindra Pitigalage. It was soon revealed that Dr. Siyambalapitiya was also the Chairman of LTL Holdings, thus appeared to be in flagrant violation of the CIABOC Act of 2024 provisions on conflicts of interest.
+
+Soon it transpired that the cabinet approval for the PPA was obtained by showing a ridiculously low figure of Rs. 20.15/kWh, using historical rates for diesel, Natural Gas and exchange rate. PUCSL issued a clarification letter to the ministry, that changing these incorrect information would lead to Rs. 43.25/kWh and if LNG is not procured, the costs ballooning to Rs. 72/kWh.
+
+...
+
+[Data](articles/a9d1393a.json)
+
+---
+
+### JETRO delegation calls on Colombo Dockyard
+
+*2025-08-21 03:50:18* · [`dailyftlk`](https://www.ft.lk/business/JETRO-delegation-calls-on-Colombo-Dockyard/34-780542) · `en`
+
+From left: Myanmar Koei Int’l Port Engineer Arkar Phyo, Colombo Dockyard Business Development Consultant Benny Fernando, Colombo Dockyard General Manager Finance/CFO Gihan Ravinatha, JETRO Director Shipbuilding Division Suzuki Shinya, Colombo Dockyard Managing Director/CEO Thimira Godakumbura, Myanmar Koei Int’l Managing Director Kazuhisa Iwami, Marine Civil Engineer Myanmar Koei Int’l Jue Mar Soe, Colombo Dockyard Head of Shipbuilding Marketing Prince Lye
+
+Colombo Dockyard PLC said it hosted a delegation yesterday from the Japan External Trade Organisation (JETRO), an agency operating under the Ministry of Economy, Trade and Industry of Japan.
+
+The delegation was received by Colombo Dockyard Managing Director/CEO Thimira Godakumbura, General Manager Finance/CFO Gihan Ravinatha, Business Development Consultant Benny Fernando and Head of Shipbuilding Marketing Prince Lye.
+
+...
+
+[Data](articles/9db671f9.json)
+
+---
 
 ### Sri Lanka–Maldives Business Council hosts 17th AGM
 
@@ -1743,39 +1773,5 @@ He further explained that the price reduction was implemented to provide relief 
 ...
 
 [Data](articles/559dac1a.json)
-
----
-
-### அரைகுறை உடையணிந்து அதிரடியான அறிவிப்பு
-
-*2025-08-20 14:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரைகுறை-உடையணிந்து-அதிரடியான-அறிவிப்பு/175-363125) · `ta`
-
-அளித்த போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர், அரைகுறையாக உடையணிந்த  ஊடகங்களுக்கு பேட்டி கொடுக்கையில்,  நடந்து வரும் தபால் வேலைநிறுத்தம் குறித்து பொய்யான தகவல்களுடன் பொதுமக்களை தவறாக வழிநடத்துவதாக குற்றம் சாட்டினார்.
-
-அதிகாரிகள் போதுமான சம்பளம் மற்றும் கொடுப்பனவுகளை வழங்கத் தவறிவிட்டதாகவும், அதே நேரத்தில் அமைச்சர் தபால் மற்றும் அதிகாரிகள் "ஊழியர்களை முட்டாளாக்கி முழு நாட்டிற்கும் பொய் சொல்கிறார்கள்" என்றும் அவர் கூறினார்.
-
-தற்போதைய  600 ரூபாய் கொடுப்பனவில் சீருடை தைக்க முடியுமா என்றும் ஊழியர் கேள்வி எழுப்பினார்.
-
-"சீருடை கொடுப்பனவு, மிதிவண்டி கொடுப்பனவு மற்றும் ஒப்பந்த ஊழியர்களை நிரந்தரமாக நியமிக்க வேண்டும் என்று நாங்கள் கோரியுள்ளோம். அதற்கு பதிலாக, அதிகாரிகள் கைரேகை மற்றும் கூடுதல் நேரம் பற்றி தொடர்ந்து பேசுகிறார்கள்," என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/60515294.json)
-
----
-
-### மனைவியைக் கேட்டு கம்பத்தில் ஏறிய நபரால் பதற்றம்
-
-*2025-08-20 13:56:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியைக்-கேட்டு-கம்பத்தில்-ஏறிய-நபரால்-பதற்றம்/175-363124) · `ta`
-
-வெளிநாட்டில் பணிபுரியும் தனது மனைவியை மீட்டு வரவழைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்று கோரி, ஒரு நபர் மின் கம்பத்தின் மேல் ஏறியதால் கறுவாத்தோட்ட பொலிஸ் பிரிவிலுள்ள அந்த இடத்தில் பதற்றமான சூழ்நிலை ஏற்பட்டது.
-
-சம்பவ இடத்திற்கு காவல்துறையினரும் தீயணைப்புப் படையினரும் வரவழைக்கப்பட்டு, கூட்டு நடவடிக்கையின் மூலம் அந்த நபரை பாதுகாப்பாக கீழே இறக்கினர். பல மணி நேரத்திற்குப் பிறகு, அவர் காயமின்றி மீட்கப்பட்டார்.
-
-சம்பவத்தின் போது ஊடகங்களுக்குப் பேசிய அந்த நபர், தனது மூன்று குழந்தைகளும் தங்கள் தாய் தங்கள் முன்பாக இல்லாமல் சிரமப்படுவதாகவும், அவரை இலங்கைக்குத் திரும்புவதற்கு வசதி செய்யுமாறு அதிகாரிகளை வலியுறுத்தினார் என்றும் விளக்கினார்.
-
-◼️
-
-[Data](articles/b1793a38.json)
 
 ---

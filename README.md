@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 13:07:18**
+As of **2025-08-20 13:19:07**
 
 ## Newspaper Stats
 
-*Scraped **71,314** Articles*
+*Scraped **71,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,003
-adalk | 6,856
+dailyftlk | 5,008
+adalk | 6,858
 adaderanalk | 8,984
-tamilmirrorlk | 10,474
+tamilmirrorlk | 10,480
 virakesarilk | 11,811
 adaderanasinhalalk | 12,327
 
@@ -26,11 +26,139 @@ adaderanasinhalalk | 12,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,314 articles have been extended.
+61,973 (86.9%) of 71,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### SVAT to risk-based refunds: Turning point in Sri Lanka’s tax policy
+
+*2025-08-20 13:01:59* · [`dailyftlk`](https://www.ft.lk/columns/SVAT-to-risk-based-refunds-Turning-point-in-Sri-Lanka-s-tax-policy/4-780469) · `en`
+
+As Sri Lanka transitions from SVAT to a risk-based VAT refund system, the importance of a reliable and intelligent computerised infrastructure cannot be overstated
+
+As Sri Lanka stands just weeks away from the abolition of the Simplified VAT (SVAT) scheme on 1 October 2025, the country is preparing to transition to a risk-based VAT refund system. This marks a significant shift in the VAT landscape—one that will impact exporters, tax administrators, and the broader economy. While the Inland Revenue Department (IRD) has made efforts to create awareness on the anticipated changes and its impact, the question remains: Are both taxpayers and officials truly ready for this transformation?
+
+...
+
+[Data](articles/53fbd9b7.json)
+
+---
+
+### பிரதி பொலிஸ் மா அதிபரின் மனைவிக்கு ’பொலிஸ் சேவல்’
+
+*2025-08-20 12:53:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதி-பொலிஸ்-மா-அதிபரின்-மனைவிக்கு-பொலிஸ்-சேவல்/175-363118) · `ta`
+
+தொல்பொருள் மதிப்புமிக்க கோயில் உள்ள ஒரு வீட்டில் புதையல்களைத் தோண்டியதாகக் கூறப்படும் போது கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள  கொழும்புப் பகுதி பிரதி பொலிஸ் மா அதிபரின்  மனைவிக்கு, கொழும்புக்கு அருகிலுள்ள ஒரு பொலிஸ் நிலையத்தில் இருந்தே, சடங்கிற்காக ஒரு சேவைல் மற்றும் பிற பொருட்கள் வழங்கப்பட்டதாக காவல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+அந்தக் பொலிஸ் நிலையம் அந்த பிரதி பொலிஸ் மா அதிபரின்  கீழ் உள்ளது, மேலும் இவை அனைத்தும் பிரதி பொலிஸ் மா அதிபரின்  வேண்டுகோளின் பேரிலும்,   வழங்கப்பட்டதாக அந்த வட்டாரங்கள் தெரிவிக்கின்றன.
+
+பிரதி பொலிஸ் மா அதிபரின்  மனைவியும் ஒரு முன்னாள்  கான்ஸ்டபிள் என்றும் அறியப்படுகிறது.
+
+◼️
+
+[Data](articles/f85b45f6.json)
+
+---
+
+### What Karannagoda’s ‘Turning Point’ teaches post-conflict generation
+
+*2025-08-20 12:52:55* · [`dailyftlk`](https://www.ft.lk/columns/What-Karannagoda-s-Turning-Point-teaches-post-conflict-generation/4-780467) · `en`
+
+The book’s emphasis on strategic and operational management makes it a valuable resource for students. Reviews suggest it is particularly suitable for management students, as it provides practical examples of decision-making under pressure, resource allocation, and innovation. For instance, Karannagoda’s decision to use a leased Indonesian passenger ship, Jetliner, to transport 3,200 security personnel, despite the risk of LTTE attacks, demonstrates bold risk management
+
+...
+
+[Data](articles/2b4712b3.json)
+
+---
+
+### நீதிபதிக்கும் மனைவிக்கும் விளக்கமறியல்
+
+*2025-08-20 12:46:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதிக்கும்-மனைவிக்கும்-விளக்கமறியல்/175-363117) · `ta`
+
+இலஞ்சம் கோரிய குற்றச்சாட்டின் அடிப்படையில் கைதான கல்முனை காதி நீதிமன்ற நீதிபதி   மற்றும் அவரது மனைவி எதிர்வரும் ஆகஸ்ட் மாதம் 25  வரை விளக்கமறியலில் வைக்குமாறு கல்முனை நீதிவான் நீதிமன்றம் உத்தரவிட்டது.
+
+கடந்த திங்கட்கிழமை  (18) மாலை அம்பாறை மாவட்டம்  பெரிய நீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட  மருதமுனை பகுதியில் இயங்கி வந்த கல்முனை காதி நீதிமன்ற  நீதிபதியின் வீட்டில் அமைந்துள்ள அலுவலகத்தில்  இலஞ்சம் கோரிய குற்றச்சாட்டின் அடிப்படையில், கல்முனை  குவாஷி நீதிமன்ற  நீதிபதியும் இதற்கு உடந்தையாக செயற்பட்ட அவரது மனைவியும் இலஞ்சம் மற்றும் ஊழல் ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டிருந்தனர்.
+
+வழக்கு ஒன்றுக்காக தன்னிடம்  2300 ரூபாய்  பணம்  இலஞ்சமாக கேட்பதாக பாதிக்கப்பட்ட  நபர் ஒருவர் இலஞ்சம் அல்லது ஊழல் பற்றிய  சாத்துதல்களைப் புலனாய்வு செய்யும் ஆணைக்குழுவின் அதிகாரிகளிடம்  முறைப்பாடு செய்துள்ளார்.
+
+...
+
+[Data](articles/f53d96d6.json)
+
+---
+
+### Appreciation: Oscar Gunewardena
+
+*2025-08-20 12:45:40* · [`dailyftlk`](https://www.ft.lk/opinion/Appreciation-Oscar-Gunewardena/14-780464) · `en`
+
+Oscar Sarath Alwis Wijesiri Gunewardena (OSAW) was born on 3 September 1928 in the village Mihiripanna, south of Sri Lanka. His father J.A.W. Gunewardena was a Government Surveyor of the Department of Survey. The surveyors were generally confined to rural areas, but he migrated and settled in Colombo to provide the best education to his children.
+
+I came to know Oscar Uncle in 1979 when Chandani and I were occupying the annex in his parental home in Isipathana Mawatha (old name Greenlands Road), Colombo 5. During weekends Uncle visited his mother Robert Aunt (Sugunawathie) with his wife Sriya and the children, Duminda, Padmika, Saman and Samantha. Uncle’s siblings were late Iris Nanayakkara (Colombo 5), Doreen Jayamaha (Melbourne, Australia) and the late Padma/Shani Jayawardene (Surrey, England).
+
+...
+
+[Data](articles/7896bd42.json)
+
+---
+
+### මේ වසරේදී දකුණු කොරියාවට 2522 ක් පිටව යයි
+
+*2025-08-20 12:44:26* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-දකුණු-කොරියාවට-2522-ක්-පිටව-යයි/11-417968) · `si`
+
+2025 වර්ෂයේ ගතවූ මාස 8ට ආසන්න කාලය තුළදී දකුණු කොරියාවේ රැකියා සඳහා ශ්‍රි ලාංකික තරුණ තරුණියන් 2522 දෙනෙකු පිටත්ව ගොස් තිබේ.
+
+දකුණු කොරියාවේ නිශ්පාදන අංශයේ රැකියා සඳහා සුදුසුකම් ලැබූ තවත් 60ක් ඊයේ  (2025.08.19) ශ්‍රි ලංකන් ගුවන් සේවයට අයත් UL 470 දරණ ගුවන් යානයෙන් පිටත්ව ගිය අතර, මෙම කණ්ඩායමට තරුණියන් 7 දෙනෙකුද අයත් වේ.
+
+මෑත කාලීනව තරුණියන්ද දකුණු කොරියාවේ රැකියා සඳහා යොමුවීමේ වැඩි ප්‍රවණතාවයක් ඇති වී තිබෙන අතර, ඒ අනුව 2025 වර්ෂය තුළදී තරුණියන් 85 දෙනෙකු පිටත්ව ගොස් තිබේ.
+
+රැකියා ලාභීන්ට වසර 4 මාස 10 කාලයක් දකුණු කොරියාවේ රැදී සිටීමට අවස්ථාව හිමිවන අතර, නියමිත කාලය අවසන්ව මෙරටට පැමිණෙන ශ්‍රමිකයින්ට යළි දකුණු කොරියාවට ඇතුළුවීමට අවසර හිමිවේ.
+
+2024 වර්ෂය තුලදී ශ්‍රී ලාංකිකයින් 7,122 කු දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් තිබේ.
+
+◼️
+
+[Data](articles/6824d046.json)
+
+---
+
+### “நான் சொர்க்கத்தை அடைய விரும்புகிறேன்”
+
+*2025-08-20 12:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நான்-சொர்க்கத்தை-அடைய-விரும்புகிறேன்/50-363114) · `ta`
+
+வாஷிங்டன்:'உக்ரைனில் அமைதியை நிலைநாட்ட மத்தியஸ்தம் செய்வது சொர்க்கத்திற்கு செல்ல உதவும். நான் சொர்க்கத்தை அடைய விரும்புகிறேன்' என ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+
+உயிர்களை காப்பாற்றுவதே இறுதி இலட்சியம். முடிந்தால் நான் சொர்க்கத்திற்கு செல்ல முயற்சிக்க விரும்புகிறேன்.
+
+உக்ரைன் மற்றும் ரஷ்யாவில் ஒரு வாரத்திற்கு 7 ஆயிரம் பேர் கொல்லப்படுவதை தடுக்க முடிந்தால் அது மிகவும் நல்ல விடயம் என்று நான் நினைக்கிறேன்.
+
+நாங்கள் அமெரிக்க மக்கள் உயிரை இழக்கவில்லை. அமெரிக்க வீரர்களை இழக்கவில்லை. ஆனால், உங்களுக்கு தெரியும்.
+
+ஏவுகணைகள் தவறான இடங்களை தாக்கும் போதோ, உக்ரைனில் பல்வேறு நகரங்களில் வீசப்படும் போதோ, ரஷ்ய மற்றும் உக்ரைன் மக்கள் சிலரை இழக்கிறோம். இவ்வாறு அமெரிக்க ஜனாதிபதி கூறினார்.
+
+◼️
+
+[Data](articles/81e7b73c.json)
+
+---
+
+### முன்னாள் எம்.பியின் காணியில் பிரஷர் குண்டு
+
+*2025-08-20 12:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பியின்-காணியில்-பிரஷர்-குண்டு/175-363113) · `ta`
+
+தலைமன்னார் பகுதியில் உள்ள ஒரு நிலத்தில், வடமத்திய மாகாண முன்னாள் ஆளுநரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான மஹி பால ஹேரத்துக்குச் சொந்தமானதாகக் கூறப்படும் பிரஷர் வெடிகுண்டு மீட்கப்பட்டுள்ளது.
+
+தலைமன்னார் கடற்படை முகாமுக்கு அருகில் உள்ள இந்த நிலத்தை சுத்தம் செய்யும் போது, பிரஷர் வெடிகுண்டு மீட்கப்பட்டது.
+
+போரின் போது இந்த பிரஷர் வெடிகுண்டு புதைக்கப்பட்டதாக கடற்படை கூறுகிறது. சம்பவம் குறித்து தலைமன்னார் பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/eec50cb8.json)
+
+---
 
 ### ගාසා අල්ලන සැලැස්මට ඊශ්‍රායලයේ අනුමැතිය
 
@@ -43,6 +171,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9ad61a3e.json)
+
+---
+
+### ”வடக்கில் நிராகரிக்கப்பட்ட அரசியல்வாதிகள் துள்ளுகின்றனர்”
+
+*2025-08-20 12:33:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-நிராகரிக்கப்பட்ட-அரசியல்வாதிகள்-துள்ளுகின்றனர்/175-363112) · `ta`
+
+இந்த ஆட்சி கவிழும் என வங்குரோத்து அடைந்த அரசியல்வாதிகள் பிரச்சாரம் முன்னெடுத்து வருகின்றனர். இந்த போலி பரப்புரைக்கு வடக்கில் மக்களால் நிராகரிக்கப்பட்ட அரசியல்வாதிகளும் உயிர்கொடுக்க முற்படுகின்றனர்" என்று கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
+
+இலங்கை ஐயப்ப சுவாமிமார்களின் யாத்திரையினை புனித யாத்திரையாக பிரகடனப்படுத்தியதன் பின்னர் அது தொடர்பான விசேட கலந்துரையாடல்  கொழும்பு செட்டியார் தெரு கல்யாண முருகன் மண்டபத்தில் திங்கட்கிழமை (18) அன்று இடம்பெற்றது.
+
+ரவி குருசாமி தலைமையில் நடைபெற்ற நிகழ்வில், சிறப்பு அதிதியாகக் கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர், பெருந்தோட்ட மற்றும் சமூக உட்கட்டமைப்பு வசதிகள் பிரதியமைச்சர் சுந்தரலிங்கம் பிரதீப் பிரதம அதிதியாகவும், இந்து சமய அலுவல்கள் திணைக்கள பணிப்பாளர் வை.அனிருத்தன் உள்ளிட்ட முக்கிய பிரமுகர்கள் கெளரவ அதிதிகளாகவும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/94ff8d9f.json)
 
 ---
 
@@ -63,6 +207,34 @@ Mediators Egypt and Qatar have been pushing proposals to restart indirect talks 
 ...
 
 [Data](articles/1a96cd91.json)
+
+---
+
+### LAUGFS celebrates 30 years of purpose, progress, and innovation
+
+*2025-08-20 12:30:38* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-celebrates-30-years-of-purpose-progress-and-innovation/34-780453) · `en`
+
+LAUGFS Holdings Ltd., celebrates a momentous milestone, 30 years of visionary leadership, strategic growth, and impactful transformation across Sri Lanka and beyond. Since its establishment in 1995 as Gas Auto Lanka, LAUGFS has evolved into one of Sri Lanka’s most respected, powerful and diversified conglomerates, making its mark across power and energy, retail, leisure, manufacturing, logistics, pharmaceuticals, engineering, trading and more. Today, with a presence across more than 20 companies and operations extending to international markets, LAUGFS continues to embody innovation, resilience, and a strong commitment to national development.
+
+...
+
+[Data](articles/7a567fdc.json)
+
+---
+
+### EDB engages with Palestinian Ambassador to boost bilateral trade opportunities
+
+*2025-08-20 12:27:59* · [`dailyftlk`](https://www.ft.lk/business/EDB-engages-with-Palestinian-Ambassador-to-boost-bilateral-trade-opportunities/34-780451) · `en`
+
+The Sri Lanka Export Development Board (EDB) recently hosted Ambassador of the State of Palestine to Sri Lanka Ihab I.M. Khalil for a courtesy call that aimed at strengthening stronger trade ties and exploring new avenues for bilateral cooperation.
+
+The meeting, held at the EDB premises, facilitated a productive discussion on expanding market access for Sri Lankan products in Palestine and encouraging greater collaboration between the two nations.
+
+During the discussions, the EDB highlighted several product sectors with strong potential in the Palestinian market, including Ceylon Tea, natural rubber and rubber-based products, coconut-based products such as desiccated coconut and virgin coconut oil, spices; particularly Ceylon Cinnamon and pepper, processed food and beverages, and Ayurveda and herbal-based personal care products.
+
+...
+
+[Data](articles/6efaa4c1.json)
 
 ---
 
@@ -243,6 +415,22 @@ Previously, the JCPSM had announced plans to initiate trade union action from to
 ...
 
 [Data](articles/b3ed4c89.json)
+
+---
+
+### “வடக்கு, கிழக்கு ஹர்த்தாலில் 100% கடைகள்  மூடப்படவில்லை”
+
+*2025-08-20 12:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வடக்கு-கிழக்கு-ஹர்த்தாலில்-100-கடைகள்-மூடப்படவில்லை/150-363102) · `ta`
+
+தமிழரசுக் கட்சியினால் அழைப்பு விடுக்கப்பட்ட ஹர்த்தாலினால் வடக்கு, கிழக்கு மாகாணங்களில் நூற்றுக்கு நூறு சதவீதம்  கடைகள் மூடப்படவில்லை என்பதை ஏற்றுக்கொள்கிறோம். ஹர்த்தாலை பலவீனமடைய செய்ய வேண்டும் என்று ஒரு தரப்பினர் செயற்பட்டுள்ளார்கள் என  தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19)  அன்று இடம்பெற்ற பணச்சூதாட்டத்தை  ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம்  மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+எம்மால் வடக்கு, கிழக்கு மாகாணத்தில் அழைப்பு விடுக்கப்பட்ட ஹர்த்தால் பற்றி  ஹர்த்தாலுக்கு ஆதரவு வழங்கியவர்களும், ஆதரவு வழங்காதவர்களும் பல்வேறு விடயங்களைக் கூறுகின்றனர்.
+
+...
+
+[Data](articles/058094fa.json)
 
 ---
 
@@ -1587,223 +1775,5 @@ The government called for national competitive bids under 3 construction package
 ...
 
 [Data](articles/e9b30fb9.json)
-
----
-
-### Thailand turning to Sri Lankan workers to cope with Cambodian exodus, official says
-
-*2025-08-19 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111645/thailand-turning-to-sri-lankan-workers-to-cope-with-cambodian-exodus-official-says) · `en`
-
-Thailand’s cabinet has approved the hiring of 10,000 Sri Lankan workers as it tries to address a labour shortage caused by Cambodian workers returning home in the wake of a deadly border conflict between the two countries, a Thai senior official said on Tuesday.
-
-Thailand’s ageing population and shrinking workforce has forced it to rely on at least 3 million registered foreign labourers across the agriculture, construction, and manufacturing sectors, data from the International Labor Organization showed.
-
-More than 30,000 workers from Sri Lanka have already registered and 10,000 will be sent to Thailand in the first stage, Labour Minister Pongkawin Jungrungruangkit told reporters, adding that it would also allow workers from Nepal, Bangladesh, Indonesia, and the Philippines to apply.
-
-...
-
-[Data](articles/ac4c599d.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields broadly steady
-
-*2025-08-19 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-broadly-steady-237352/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.55/70 to the US dollar in the spot market Tuesday, weaker from 301.25/40 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.45/55 percent.
-
-A bond maturing on 15.12.2028 closed at 8.90/92 percent, down from 8.90/9.00 percent.
-
-A bond maturing on 15.12.2029 closed at 9.41/46 percent, down from 9.43/46 percent.
-
-A bond maturing on 15.12.2032 closed at 10.22/27 percent, up from 10.22/25 percent. (Colombo/Aug19/2025)
-
-◼️
-
-[Data](articles/8533d6fc.json)
-
----
-
-### மன்னார் மறைமாவட்ட ஆயர் ஞானப்பிரகாசம் ஆண்டகைக்கும், ஜனாதிபதிக்கும் இடையில் சந்திப்பு - பேசிய விடையம் என்ன?
-
-*2025-08-19 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/222892) · `ta`
-
-மன்னார் மறைமாவட்ட ஆயர் மேதகு அந்தோனிப்பிள்ளை . ஞானப்பிரகாசம் ஆண்டகைக்கும்,   இலங்கை ஜனாதிபதிக்கும் இடையில் இடையில் நேற்று திங்கட்கிழமை (18) மாலை இடம்பெற்ற விசேட சந்திப்பு குறித்து மன்னார் மறைமாவட்ட குருமுதல்வர் அருட்திரு. தமிழ் நேசன் அடிகளார் ஊடகங்களுக்கு கருத்து தெரிவித்துள்ளார்.
-
-நேற்று திங்கள் கிழமை மன்னார் ஆயர் மேதகு அந்தோனிப்பிள்ளை ஞானப்பிரகாசம் ஆண்டகைக்கும் இலங்கை ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இடையிலான சந்திப்பு இடம்பெற்றது.
-
-கொழும்பில் உள்ள ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற இச்சந்திப்பின்போது மன்னார் மக்கள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பாக மன்னார் ஆயர் அவர்கள் ஜனாதிபதியுடன் கலந்துரையாடினார்.
-
-மன்னாரில் முன்னெடுக்கப்படவுள்ள கனிய மணல் அகழ்வு தொடர்பான பிரச்சினை, மின்சக்தியை பெறுவதற்காக மன்னாரில் காற்றாலை அமைக்கும் செயற்பாடுகளால் எழுந்துள்ள பாரிய பாதிப்புக்கள், வடக்கு மாகாண அரசாங்கத்தின் கீழ் உள்ள மன்னார் பொது வைத்தியசாலையை மத்திய அரசாங்கத்தின் கீழ் கொண்டு வர வேண்டியதன் அவசியம் போன்ற விடயங்கள் இச்சந்திப்பின்போது கலந்துரையாடப்பட்டன.
-
-...
-
-[Data](articles/2aa7e40d.json)
-
----
-
-### Sri Lanka stocks close up 0.49-pct, pushed by banks, some financials
-
-*2025-08-19 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-49-pct-pushed-by-banks-some-financials-237326/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) continued to trade 0.49 percent higher surpassing the 20,400 mark on Monday, data showed.
-
-The ASPI climbed 100.55 points higher on Tuesday to close at 20,571.07; the S&P SL20 index rose 1.13 percent, or 67.56 points, to close at 6,065.02.
-
-The ASPI was pushed higher on Commercial Bank which ended 7.75 rupees stronger at 197.50; HNB which rose 13.50 rupees to 399.00; Carson Cumberbatch which ended 102.25 rupees up at 848.25; Sampath Bank which moved 2.25 rupees up to 145.00; and Bukith Darah which closed 37.00 rupees higher at 887.25.
-
-Turnover rose to 10.8 billion, while the share volume was 234,578,423.
-
-Elsewhere, Tokyo’s Nikkei 225 index fell after hitting record high levels for two consecutive sessions due to “directionless trading”, Japan’s The Mainichi newspaper said.
-
-The index moved 0.38 percent, or 168.02 points higher, to 43,546.29.
-
-...
-
-[Data](articles/c564937c.json)
-
----
-
-### S&P SL20 crosses 6,000 for first time ever
-
-*2025-08-19 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111644/sp-sl20-crosses-6000-for-first-time-ever-) · `en`
-
-The S&P SL20 index of the Colombo Stock Exchange (CSE), which measures the performance of 20 of the largest and most liquid Sri Lankan companies, has crossed the 6,000 points mark for the first time today (19).
-
-Accordingly, the index gained 58.46 points (0.97%) to close at 6,055.92 points, a new all-time high.
-
-Meanwhile, the All Share Price Index (ASPI) has gained 100.55 points (0.49%) to close at 20,571.07 points, also a new high for the main index.
-
-◼️
-
-[Data](articles/04fcaec1.json)
-
----
-
-### இலங்கை வந்தார் அவுஸ்திரேலிய இளம் விமானி
-
-*2025-08-19 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/222889) · `ta`
-
-உலகை சுற்றிவரும் இளைய துணை விமானியாக வரலாற்று சாதனை படைக்கும் முயற்சியில் ஈடுப்படும் அவுஸ்திரேலியாவின் பிரிஸ்பேனைச் சேர்ந்த 15 வயதுடைய பைரல் வொல்லர் (Byron Waller) இலங்கை வந்துள்ளார்.
-
-சனிக்கிழமை (17) கொழும்பு, இரத்மலானை விமான நிலையத்தை (CIAR) வந்தடைந்த அவரை விமான நிலைய அதிகாரிகள் வரவேற்றனர்.
-
-இந்தியப் பெருங்கடலில் 11 மணி நேர விமானப் பயணத்திற்குப் பின்னர் நேற்று முன்தினம் பைரன் வாலர் விமான நிலையத்தை வந்தடைந்துள்ளார்.
-
-பைரன் 45,000 கிலோ மீட்டர்கள், 7 கண்டங்களிலும் 30 நாடுகளை சுற்றிவர சுமார் 2 மாதங்கள் எடுக்கும் ஒரு பயணத்தை மேற்கொள்வதாக தெரியவருகின்றது.
-
-◼️
-
-[Data](articles/556c27fa.json)
-
----
-
-### வலையில் சிக்கிய சிறுத்தை குட்டி ; பாதுகாப்பாக மீட்க நடவடிக்கை
-
-*2025-08-19 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/222888) · `ta`
-
-நாய் வேட்டைக்கு வந்த சிறுத்தை குட்டி ஒன்று பாதுகாப்பு கம்பி வலையில் சிக்கியுள்ளது என நோர்வூட் பொலிஸார் தெரிவித்தனர்.
-
-நோர்வூட் பொலிஸ் பிரிவில் விவசாய தோட்டத்தில் வைக்கப்பட்டிருந்த வலையில் சிறுத்தை குட்டி சிக்கியுள்ளது.
-
-இரும்பு கம்பி வலையில் சிக்கிய நிலையில் உயிருக்கு போரடியபடி உறுமிக்கொண்டிருப்பதை கண்டு அதிர்ச்சியடைந்த கிராம மக்கள் உடனடியாக  பொலிஸாருக்கு அறிவித்துள்ளனர்.
-
-பின்னர் வலையில் சிக்கிய சிறுத்தை குட்டியை மீட்க நடவடிக்கை எடுக்குமாறு நல்லதண்ணி வன ஜீவராசிகள் திணைக்களத்தின்  அதிகாரிகளுக்கு அறிவிக்கப்பட்டுள்ளதாக நோர்வூட் பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/0f23e880.json)
-
----
-
-### Former NLB Director Thusitha Halloluwa remanded
-
-*2025-08-19 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111643/former-nlb-director-thusitha-halloluwa-remanded-) · `en`
-
-Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been remanded until August 28 by the Colombo Magistrate’s Court, said Ada Derana reporter.
-
-Colombo Additional Magistrate Pasan Amarasena issued the order after considering the facts presented by officers of the Colombo Crimes Division (CCD) and the defense counsel.
-
-◼️
-
-[Data](articles/7ba25d1a.json)
-
----
-
-### තුසිත හල්ලොලුව රිමාන්ඩ්
-
-*2025-08-19 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213552) · `si`
-
-වරෙන්තු නිකුත් කිරීමෙන් අනතුරුව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කෙරුණු ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයකු වන තුසිත හල්ලොලුව මහතා ලබන 28 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (19) නියම කළේය.
-
-කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් හා විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා මෙම නියෝගය නිකුත් කර තිබුණි.
-
-◼️
-
-[Data](articles/fa599b6e.json)
-
----
-
-### පෑලියගොඩදී වෙඩි වැදුණු දෙදෙනාගෙන් එක් අයෙකු මරුට
-
-*2025-08-19 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213551) · `si`
-
-පෑලියගොඩ, ඥානරතන මාවත ප්‍රදේශයේදී අද (19) උදෑසන සිදුවූ වෙඩිතැබීමෙන් තුවාල ලැබූ එක් පුද්ගලයෙකු මියගොස් තිබේ.
-
-ඉලක්කය වී ඇත්තේ, පෑලියගොඩ මාළු වෙළෙඳ සංකිර්ණයේ කම්කරුවෙකු බව පොලීසිය පැවසීය.
-
-වෙඩි වැදිමෙන් තුවාල ලැබූ පුද්ගලයින් දෙදෙනා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් පසු මෙලෙස එක් අයෙකු මියගොස් තිබේ.
-
-◼️
-
-[Data](articles/1ced4cdd.json)
-
----
-
-### දෛනික සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
-
-*2025-08-19 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213550) · `si`
-
-මත්ද්‍රව්‍ය හා පාතාලය මර්දනය කිරීම අරමුණු කරගෙන දෛනිකව විශාල මෙහෙයුම් සංඛ්‍යාවක් දිවයින පුරා සිදු කෙරෙමින් පවතී.
-
-එකී මෙහෙයුම් ශ‍්‍රී ලංකා පොලීසිය, පොලිස් විශේෂ කාර්ය බලකාය හා ත‍්‍රිවිධ හමුදාව එක්ව මුළු දිවයිනම ආවරණය වන පරිදි සිදු කරමින් පවතින අරත, එකී දෛනික මෙහෙයුම් මාලාවේ තවත් අදියරක් ඊයේ (18) දිනයේදීද පැවැත්විණි.
-
-ඊයේ දිනයේදී ශ‍්‍රී ලංකා පොලීසියේත්, පොලිස් විශේෂ කාර්ය බලකායේත් ත‍්‍රිවිධ හමුදාවේත් 6,782 දෙනෙකු සම්බන්ධ වී මෙම විශේෂ සෝදිසි මෙහෙයුම් සිදු කර ඇත.
-
-එහිදී පුද්ගලයන් 26,560 දෙනෙකු පරීක්ෂාවට ලක් කෙරුණු අතර වාහන 11,053 ක්ද යතුරු පැදි 8,444 ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර තිබේ.
-
-එකී වැටලීම්වලදී මත්ද්‍රව්‍ය සම්බන්දයෙන් පුද්ගලයන් 989 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර අපරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 18 දෙනෙකුද වරෙන්තුකරුවන් 528 දෙනෙකුද අත්අඩංගුවට පත්ව ඇත.
-
-විශේෂයෙන්ම දිවයින පුරා සිදු කරන ලද මෙකී මෙහෙයුම්වලදී හෙරොයින් ග‍්‍රෑම් 674 මිලිග‍්‍රෑම් 959ක ප‍්‍රමාණයක්ද, අයිස් මත්ද්‍රව්‍ය ග‍්‍රෑම් 193 මිලිග‍්‍රෑම් 116ක ප‍්‍රමාණයක්ද ගංජා කිලෝ 52 ග‍්‍රෑම් 714ක ප‍්‍රමාණයක්ද අත්අඩංගුවට ගැනීමට සමත්ව ඇත.
-
-...
-
-[Data](articles/44021032.json)
-
----
-
-### Postal unions to continue strike action despite successful discussion at Presidential Secretariat
-
-*2025-08-19 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111642/postal-unions-to-continue-strike-action-despite-successful-discussion-at-presidential-secretariat) · `en`
-
-Postal unions have announced that the strike action launched on Sunday (17), will continue despite successful discussions held at the Presidential Secretariat.
-
-This was confirmed by union representatives to media following discussions held with Dharmasiri Gamalath, the Director General of Public Relations at the Presidential Secretariat.
-
-Postal trade unions launched an indefinite strike on Sunday afternoon, based on 19 key demands.
-
-As a result, operations at postal offices across the country have been significantly disrupted.
-
-Following today’s discussions, Niroshan Gorakana, the Post and Telecommunication Officers’ Union (PTOU) stated that they have requested a meeting with the Subject Minister immediately.
-
-He said once a discussion is held with the Minister to discuss their demands, they are prepared to call off the strike.
-
-◼️
-
-[Data](articles/71193aa9.json)
 
 ---

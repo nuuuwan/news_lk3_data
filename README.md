@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 12:08:48**
+As of **2025-08-20 12:30:47**
 
 ## Newspaper Stats
 
-*Scraped **71,288** Articles*
+*Scraped **71,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,323 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 729
-economynextcom | 4,361
+economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 4,998
-adalk | 6,854
+dailyftlk | 5,003
+adalk | 6,856
 adaderanalk | 8,979
-tamilmirrorlk | 10,463
+tamilmirrorlk | 10,474
 virakesarilk | 11,811
-adaderanasinhalalk | 12,325
+adaderanasinhalalk | 12,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,288 articles have been extended.
+61,973 (86.9%) of 71,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Sri Lanka–Indonesia Business Council holds 2nd Annual General Meeting
+
+*2025-08-20 12:27:05* · [`dailyftlk`](https://www.ft.lk/business/Sri-LankaIndonesia-Business-Council-holds-2nd-Annual-General-Meeting/34-780450) · `en`
+
+THE Sri Lanka-Indonesia Business Council of the Ceylon Chamber of Commerce held its second Annual General Meeting (AGM) recently. The occasion was attended by the Council’s Patron, Ambassador of Indonesia to Sri Lanka Dewi Gustina Tobing.
+
+Sunshine Holdings PLC’s Vish Govindasamy, who served as President of the Council for two consecutive years, stepped down following the successful completion of his term. In his remarks, Govindasamy acknowledged the Ambassador’s instrumental role in re-establishing the Council and reflected on the notable achievements over the past two years, highlighting in particular – the successful business delegation visit to Indonesia.
+
+Ceylon Biscuits Ltd., Shea Wickramasingha was appointed as the new President for the year 2025/26. In her address, she emphasised the Council’s focus on promoting sector-specific dialogue between Sri Lankan and Indonesian stakeholders, with the aim of fostering meaningful bilateral outcomes.
+
+...
+
+[Data](articles/c051ba92.json)
+
+---
+
+### Sri Lanka–Maldives Business Council hosts 17th AGM
+
+*2025-08-20 12:25:42* · [`dailyftlk`](https://www.ft.lk/business/Sri-LankaMaldives-Business-Council-hosts-17thAGM/34-780449) · `en`
+
+Seated from left: The Ceylon Chamber of Commerce Secretariat Pasandi Senara, Immediate Past President Sudesh Mendis, High Commissioner of Maldives in Sri Lanka Masood Imad, President Sanjeewa Perera, High Commissioner Designate to Maldives M.R. Hassen, Senior Vice President Suranga Ratnayake, Advisor to the Committee Kevin Edwards, and Vice President Husne Rauf
+
+Standing from left (Committee members): Mafaz Azeez (Spillburg Holdings), Roshan Fernando (Diesel and Motor Engineering), Roshan Perera (Marine Transport Services), Adrian Fernando (Senok Trade Combine), Dishan Wijayawardena (Nestle Lanka), Mohammed Farih Fazal (American Water Systems), John Fernando (Kelani Cables), Manura Wickramasinghe (Puritas), Deepthi Hewageegana (United Tractor & Equipment), Danushka Jayasinghe (MAC Holdings)
+
+...
+
+[Data](articles/f40979fa.json)
+
+---
+
+### ஆண்களுக்கும் கருத்தடை மாத்திரையை கண்டுபிடிச்சாச்சு?
+
+*2025-08-20 12:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/ஆண்களுக்கும்-கருத்தடை-மாத்திரையை-கண்டுபிடிச்சாச்சு/53-363110) · `ta`
+
+உலகம் தோன்றிய காலம் முதலே பெண்கள் அனைத்து நாடுகளிலும், சமூகங்களிலும் இரண்டாம் நிலையிலேயே வைக்கப்பட்டுள்ளனர். ஆண்களின் வேலை சம்பாதிப்பது மட்டுமே, குடும்ப பொறுப்பு, குழந்தை வளர்ப்பு, வீட்டுப்பணி என அனைத்துமே பெண்களுக்கு ஒதுக்கப்பட்டுள்ளது. குடும்பத்தை வளர்ப்பது முதல் குடும்பக் கட்டுப்பாடு வரை அனைத்தையும் பெண்களே சுமக்க வேண்டும்
+
+பல நூற்றாண்டுகளுக்குப் பிறகு முதல் முதலாக ஆண்களுக்கான கருத்தடை மாத்திரை இப்போதுதான் தயாரிக்கப்பட்டள்ளது. YCT-529 என்று அழைக்கப்படும் இந்த மாத்திரை அதன் முதல் மனித பாதுகாப்பு சோதனையில் தேர்ச்சி பெற்றுள்ளது.
+
+...
+
+[Data](articles/8bdb7c98.json)
+
+---
+
+### State sugar firm to seek investors for two tourism PPPs
+
+*2025-08-20 12:23:11* · [`dailyftlk`](https://www.ft.lk/business/State-sugar-firm-to-seek-investors-for-two-tourism-PPPs/34-780448) · `en`
+
+In a bid to boost income of the State-run Pelwatte and Sevanagala sugar factories, which are under Lanka Sugar Ltd., the Cabinet of Ministers on Monday approved calling for expressions of interest (EoIs) from private investors to set up two tourism projects under a public-private-partnership (PPP) model.
+
+Speaking at the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said it has been identified that four selected places in the Pelwatte sugar factory premises are tourist attraction places drawing special attention to eco-tourism, agro-tourism, wellness tourism and conservation-based tourism, based on the recommendations of the feasibility study conducted by the Public-Private Partnership National Agency.
+
+In addition, he said four places of the Sevanagala sugar factory could also be developed with the objective of being a tourist attraction, without specifying the areas identified.
+
+...
+
+[Data](articles/b310aa37.json)
+
+---
+
+### ஆமடில்லாவை வேட்டையாடிய இருவர் கைது
+
+*2025-08-20 12:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஆமடில்லாவை-வேட்டையாடிய-இருவர்-கைது/75-363109) · `ta`
+
+திருகோணமலை மாவட்டம், சேருநுவர பொலிஸ் பிரிவிலுள்ள தெஹிவத்தை பகுதியில் , சட்டவிரோத கட்டுத்துவக்கு மற்றும்  வேட்டையாடப்பட்ட ஆமடில்லா (அளுங்கு) எனும் மிருகம் ஆகியவற்றுடன் இருவர் செவ்வாய்க்கிழமை (19)   கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் சேருநுவர - தெஹிவத்தை பகுதியைச் சேர்ந்த 53,45 வயதுடையவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+சேருநுவர பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட திடீர் சோதனையின்போது கட்டுத்துவக்குடனும் வேட்டையாடப்பட்ட அலுங்கு மிருகத்துடன் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் சேருநுவர பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு    மூதூர் நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்டனர்.
+
+◼️
+
+[Data](articles/99095352.json)
+
+---
+
+### பஸ் தீப்பற்றியதில்  71 பேர் உடல் கருகி பலி
+
+*2025-08-20 12:22:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-தீப்பற்றியதில்-71-பேர்-உடல்-கருகி-பலி/50-363108) · `ta`
+
+ஆப்கானிஸ்தானில் புலம் பெயர்ந்தவர்களை ஏற்றி சென்ற பஸ் ஒன்று  தீப்பிடித்து எரிந்ததில் 71 பேர் உடல் கருகி உயிரிழந்துள்ளனர் என அந்த மாகாண அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
+
+ஆப்கானிஸ்தானின் மேற்கு ஹெராத் மாகாணத்தில் ஒரு பயணிகள் பஸ் புலம் பெயர்ந்தோரை ஏற்றி சென்று கொண்டிருந்தது. அப்போது, ஓட்டுநரின் கட்டுபாட்டை இழந்த பஸ் ஒரு லொறி மற்றும் பைக் மீது மோதி விபத்துக்குள்ளானது.
+
+இந்த விபத்தில் 17 குழந்தைகள் உட்பட 71 பேர் உடல் கருகி உயிரிழந்துள்ளனர்.
+
+ஈரான் அகதிகளை ஏற்றிக் கொண்டு காபூல் நகரை நோக்கி பஸ் சென்ற போது, இந்த விபத்து நிகழ்ந்துள்ளது என்பது விசாரணையில் தெரியவந்துள்ளது.
+
+இந்த விபத்தில் 71 பேர் உயிரிழந்தனர் என்பதை ஆப்கானிஸ்தான் மாகாண அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
+
+இந்த விபத்து சமீபத்திய வரலாற்றில் மிகவும் மோசமான போக்குவரத்து பேரழிவுகளில் ஒன்றாகும் என மாகாண அரசாங்க செய்தி தொடர்பாளர் அஹ்மதுல்லா முத்தகி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3e5ecd6d.json)
+
+---
+
+### Govt. refuses to back down on fingerprint system as postal strike continues
+
+*2025-08-20 12:22:16* · [`dailyftlk`](https://www.ft.lk/news/Govt-refuses-to-back-down-on-fingerprint-system-as-postal-strike-continues/56-780447) · `en`
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa says ready to meet with TUs only if they agree to Govt. decisions on implementation of fingerprint attendance system and changes to overtime pay
+
+Asserts Govt. already addressed 17 of the 19 demands presented by postal unions
+
+Warns trade unions who do not agree to fingerprint system can seek employment elsewhere
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday said he is prepared to meet with postal trade unions only if they agree to Government decisions on the implementation of a fingerprint attendance system and changes to overtime pay.
+
+Speaking at the post-Cabinet meeting media briefing, he stressed that even brief work stoppages result in financial losses for the Department of Posts, while prolonged strikes could strain the Treasury and jeopardise future salary and overtime payments.
+
+...
+
+[Data](articles/8ae88306.json)
+
+---
+
+### Govt. allocates Rs. 1 b to support marriages of youth leaving child care centres
+
+*2025-08-20 12:20:59* · [`dailyftlk`](https://www.ft.lk/news/Govt-allocates-Rs-1-b-to-support-marriages-of-youth-leaving-child-care-centres/56-780446) · `en`
+
+The Cabinet of Ministers on Monday approved providing financial assistance of Rs. 1 million each to young men and women leaving child development centres, to help them establish stable and secure homes as they prepare for marriage.
+
+Accordingly, a total provision of Rs. 1 billion has been allocated in the 2025 Budget for this initiative, which will be jointly implemented by the Women and Child Affairs Ministry, the Department of Probation and Child Protection Services, the Department of Finance Development, Provincial Probation Departments, District Secretaries, and Divisional Secretaries.
+
+...
+
+[Data](articles/d0b14fcf.json)
+
+---
+
+### மனுஷ நாணயக்கார குற்றவியல் விசாரணைப் பிரிவில் ஆஜர்
+
+*2025-08-20 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்கார-குற்றவியல்-விசாரணைப்-பிரிவில்-ஆஜர்/175-363106) · `ta`
+
+விசாரணை தொடர்பாக வாக்குமூலம் அளிக்க இன்று புதன்கிழமை (20) நிதிக் குற்றப் புலனாய்வுப் பிரிவில் ஆஜராகுமாறு அவருக்கு முன்னர் அறிவிக்கப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/8160b74c.json)
+
+---
+
+### “கசினோ, கஞ்சா காரர்களாகிவிட்டனர்”
+
+*2025-08-20 12:16:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கசினோ-கஞ்சா-காரர்களாகிவிட்டனர்/175-363105) · `ta`
+
+கசினோக்களை அமைத்து கஞ்சாவைப் பயிரிட்டு பொருளாதாரத்தை வளர்க்கப் போவதாக  அன்று அரசாங்கத்தைப் பார்த்து விமர்சித்தவர்கள் இப்போது தங்களின் அரசாங்கத்தின் பொருளாதார கொள்கைத் திட்டத்திற்குள் கசினோவையும் கஞ்சாவையும் இணைத்துள்ளனர். எங்களை விடவும் அதிகமாக அதனை சமூகத்திற்குக் கொண்டு செல்வதற்கு இந்த அரசாங்கம் முயற்சிக்கின்றது  என ஶ்ரீலங்கா பொதுஜன பெரமுனஎம்.பியான  நாமல் ராஜபக்‌ஷ தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (19)  இடம் பெற்ற பணச் சூதாட்டத்தை ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர்   இவ்வாறு குறிப்பிட்டார்.
+
+அரச வருமானம் தொடர்பில் கதைக்கின்றனர். அதிகளவில் வரிகளை அறவிட்டு மக்கள் மீது வரிச் சுமைகளைச் சுமத்துகின்றனர். இவ்வாறு மக்கள் மீது வரிகளை அறவிட்டு அரச வருமானம் அதிகரித்துள்ளதாகக் கூறுகின்றனர். இந்த வருமானத்தால் மக்களுக்கு என்ன கிடைக்கின்றது. மின் கட்டணத்தைக் குறைப்பதாகவும், உர மானியங்களை வழங்குவதாகவும் கூறினர். ஆனால் எதுவும் நடக்கவில்லை.
+
+...
+
+[Data](articles/b3ed4c89.json)
+
+---
+
+### “வடக்கு, கிழக்கு ஹர்த்தாலில் 100% கடைகள்  மூடப்படவில்லை”
+
+*2025-08-20 12:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-ஹர்த்தாலில்-100-கடைகள்-மூடப்படவில்லை/175-363102) · `ta`
+
+தமிழரசுக் கட்சியினால் அழைப்பு விடுக்கப்பட்ட ஹர்த்தாலினால் வடக்கு, கிழக்கு மாகாணங்களில் நூற்றுக்கு நூறு சதவீதம்  கடைகள் மூடப்படவில்லை என்பதை ஏற்றுக்கொள்கிறோம். ஹர்த்தாலை பலவீனமடைய செய்ய வேண்டும் என்று ஒரு தரப்பினர் செயற்பட்டுள்ளார்கள் என  தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட எம்.பி. இரா.சாணக்கியன்  தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19)  அன்று இடம்பெற்ற பணச்சூதாட்டத்தை  ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம்  மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+எம்மால் வடக்கு, கிழக்கு மாகாணத்தில் அழைப்பு விடுக்கப்பட்ட ஹர்த்தால் பற்றி  ஹர்த்தாலுக்கு ஆதரவு வழங்கியவர்களும், ஆதரவு வழங்காதவர்களும் பல்வேறு விடயங்களைக் கூறுகின்றனர்.
+
+...
+
+[Data](articles/92f5c4db.json)
+
+---
+
+### டெல்லி முதல்வரை அறைந்த நபரால் பரபரப்பு
+
+*2025-08-20 12:12:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெல்லி-முதல்வரை-அறைந்த-நபரால்-பரபரப்பு/175-363101) · `ta`
+
+டெல்லி முதல்வர் ரேகா குப்தா புதன்கிழமை (20) காலை தனது இல்லத்தில் நடந்த மக்கள் குறை தீர் முகாமில் கலந்து கொண்டிருந்தபோது மனு கொடுக்கவந்த நபர் ஒருவர் முதல்வரின் தலை முடியைப் பிடித்து இழுத்து, கன்னத்தில் அறைந்ததால் பரபரப்பு ஏற்பட்டுள்ளது.
+
+டெல்லியில் கடந்த சட்டப்பேரவைத் தேர்தலில் ஆம் ஆத்மி கட்சியை வீழ்த்தி ஆட்சி அமைத்தது பாஜக. முதல்வராக ரேகா குப்தா பதவியேற்றார்.
+
+அவர் முதல்வராக பதவியேற்றப் பின்னர் தனது இல்லத்தில் மக்களை நேரடியாக சந்தித்து முகாம்களைப் பெறுவதை வழக்கமாகக் கொண்டுள்ளார்.
+
+அந்த வகையில், டெல்லி முதல்வர் ரேகா குப்தா புதன்கிழமை (20) காலை தனது இல்லத்தில் நடந்த மக்கள் குறைதீர் முகாமில் பங்கேற்றிருந்தார்.
+
+அப்போது அவரை முகாமுக்கு வந்த நபர் ஒருவர் முதல்வரின் தலை முடியைப் பிடித்து இழுத்து, கன்னத்தில் தாக்கியுள்ளார்.
+
+முதல்வரை தாக்கிய அந்த நபரை பொலிஸார் உடனடியாக சுற்றி வளைத்து கைது செய்தனர். முதற்கட்ட விசாரணையின்படி அந்த நபர் 41 வயதான ராஜேஷ் பாய் கிம்ஜி பாய் சக்காரியா என்பது தெரியவந்துள்ளது. அந்த நபர் ராஜ்கோட்டை சேர்ந்தவர் என்றும் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/83ec2cbf.json)
+
+---
+
+### “வெளிநாட்டுக் கையிருப்பை ஜே.வி.பியே   இல்லாதொழித்தது”
+
+*2025-08-20 12:12:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டுக்-கையிருப்பை-ஜே-வி-பியே-இல்லாதொழித்தது/175-363099) · `ta`
+
+2024ஆம் ஆண்டு ஒக்டோபர், நவம்பர் மாத காலப்பகுதியில் நாட்டின் வெளிநாட்டுக் கையிருப்பு உயர்வாக காணப்பட்ட நிலையில், தற்போது அந்தக் கையிருப்பு எண்ணிக்கை குறைவடைந்துள்ளது.இது சிவப்பு எச்சரிக்கை.அன்று சகல அபிவிருத்தி திட்டங்களுக்கும் ஜே.வி.பியே எதிர்ப்பு தெரிவித்து அனைத்தையும் இல்லாதொழித்தது. அன்று எதிர்த்த முதலீட்டுத் திட்டங்களை இன்று ஏற்கிறார்கள் இதுதான்  கர்ம வினை என ஐக்கிய மக்கள் சக்தியின் கேகாலை மாவட்ட எம்.பி. கபீர் ஹாசிம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (19) அன்று இடம்பெற்ற பணச் சூதாட்டத்தை  ஒழுங்குபடுத்தும் அதிகார சபைச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர்  இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/cf8bfa47.json)
+
+---
+
+### அரசு நிறுவனங்களுக்கு சைபர் பாதுகாப்பு
+
+*2025-08-20 12:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-நிறுவனங்களுக்கு-சைபர்-பாதுகாப்பு/175-363098) · `ta`
+
+தேசிய தகவல் உள்கட்டமைப்பைப் பராமரிக்கும் அரசு நிறுவனங்களைத் தேசிய சைபர் பாதுகாப்பு செயல்பாட்டு மையத்துடன் இணைப்பதற்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+
+அரச நிறுவனங்கள் மற்றும் நிதி நிறுவனங்களை குறிவைத்து நடத்தப்படும் சைபர் தாக்குதல்கள், அந்த நிறுவனங்களால் வழங்கப்படும் அத்தியாவசிய சேவைகளுக்கு இடையூறு விளைவிக்கும் அபாயத்தை ஏற்படுத்துகின்றன. மேலும், தனிப்பட்ட மற்றும் உணர்திறன் மிக்க தரவுகளை மற்றவர்களுக்கு இழப்பது குடிமக்களின் தனிப்பட்ட பாதுகாப்பு, தேசிய பாதுகாப்பு, பொருளாதார ஸ்திரத்தன்மை, பொது சுகாதாரம் மற்றும் சமூகத்தின் நல்வாழ்வு, அத்துடன் அரசு நிறுவனங்கள் மீதான பொதுமக்களின் நம்பிக்கையையும் மோசமாகப் பாதிக்கிறது.
+
+...
+
+[Data](articles/6a0da944.json)
+
+---
+
+### கைவிரல் அடையாளம்
+
+*2025-08-20 12:05:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கைவிரல்-அடையாளம்/62-363097) · `ta`
+
+◼️
+
+[Data](articles/e37f7227.json)
+
+---
+
+### யாழில். வெடிக்காத துப்பாக்கி ரவைகள் மீட்பு
+
+*2025-08-20 12:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-வெடிக்காத-துப்பாக்கி-ரவைகள்-மீட்பு/175-363096) · `ta`
+
+யாழ்ப்பாணம் கொடிகாமம் பகுதியில் செவ்வாய்க்கிழமை (20) அன்று நீர் குழாய்களை மண்ணில் புதைக்கும் பணிகளுக்காக நிலத்தினை அகழ்ந்து போது ஒரு தொகை துப்பாக்கி ரவைகள் மீட்கப்பட்டுள்ளன.
+
+குழாய்களை புதைப்பதற்காக நிலத்தினை அகழ்ந்து போது சந்தேகத்திற்கு இடமான முறையில் உரை பை ஒன்று காணப்பட்டதை அடுத்து , கொடிகாம பொலிஸாருக்கு தகவல் வழங்கப்பட்டது.
+
+தகவலை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த உரை பையை மீட்டு சோதனையிட்ட போது அவற்றுக்குள் வெடிக்காத நிலையில் துப்பாக்கி ரவை கோர்வைகள் காணப்பட்டுள்ளன.
+
+அதனை அடுத்து அவற்றை மீட்டு கொடிகாம பொலிஸ் நிலையம் எடுத்து சென்ற பொலிஸார் அவற்றுள் 1393 துப்பாக்கி ரவைகள் காணப்பட்டதாகவும் , அவற்றினை நீதிமன்றில் பரப்படுத்தி நீதிமன்ற உத்தரவில் அடுத்த கட்ட நடவடிக்கையை எடுக்கவுள்ளதாக தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d3123585.json)
+
+---
+
+### SriLankan to boost cargo handling by 70-pct with new terminal
+
+*2025-08-20 12:00:00* · [`economynextcom`](https://economynext.com/srilankan-to-boost-cargo-handling-by-70-pct-with-new-terminal-237444/) · `en`
+
+ECONOMYNEXT – National carrier SriLankan Airlines is in the process of expanding its cargo handling by over 70 percent with a new import terminal, a top official said.
+
+The state-owned SriLankan has five terminal in its cargo village adjoining to the island nation’s main Bandaranaike Internatinal Airport.
+
+“The new terminal with 10,000 square meters can handle an additional 177,000 metric tons of cargo,” Chaminda Perera, head of SriLankan Cargo told reporters during a special familiarisation tour to the cargo village.
+
+“At the moment, we are handling 250,000 metric tons of cargoes in 16,500 square meter area.”
+
+After the new terminal, the existing import terminal will be handling perishable goods and courier for exports, officials said.
+
+The expansion also comes with the government’s ambitious goal to boost exports including services to around USD 30 billion by 2030.
+
+Cargo has been making profits though SriLankan Airlines has been incurring a loss. (Karunayake/August 16/2025)
+
+◼️
+
+[Data](articles/fc0f0abd.json)
+
+---
+
+### පරිපූරක වෛද්‍ය වෘත්තිකයන්ගේ වර්ජනය කලින්ම එයි
+
+*2025-08-20 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213575) · `si`
+
+පරිපූරක වෛද්‍ය වෘත්තීයවේදීන්ගේ ඒකාබද්ධ බලමණ්ඩලය විසින් බස්නාහිර පළාත තුළ හෙට සිදුකිරීමට නියමිතව තිබූ වෘත්තීය සමිති ක්‍රියාමාර්ගය අද (20)  උදෑසන 8ට ගම්පහ මහ රෝහලේ දී හදිසියේ ආරම්භ කර තිබේ.
+
+අද උදෑසන ගම්පහ දිස්‍ත්‍රික් මහ රෝහලේ අධ්‍යක්ෂවරයා, පරිපූරක වෛද්‍ය වෘත්තීය නිලධාරීන්ට අත්සන් තැබීම සිදුනොකරන ලෙසට උපදෙස් ලබාදෙමින් නිකුත් කර තිබූ ලිපියක් හේතුවෙන් පරිපූරක වෛද්‍ය සේවාවේ සියලු නිලධාරීන් ගම්පහ රෝහලේ සියලු රාජකාරී කටයුතුවලින් ඉවත් වූ බව පරිපූරක වෛද්‍ය වෘත්තීයවේදීන්ගේ ඒකාබද්ධ බල මණ්ඩලය, ප්‍රධාන ලේකම් චානක ධර්මවික්‍රම මහතා පැවසීය.
+
+අදාළ ගැටලුව සම්බන්ධයෙන් ගම්පහ මහ රෝහලේ අධ්‍යක්ෂවරයා සමඟ සාකච්ඡා කරමින් සිටින අතර, ඔහු ඊට නිසි පිළිතුරක් ලබාදීමට මේ වනවිටත් අපොහොසත් වී ඇතැයි ද ඒ මහතා කියා සිටියේය.
+
+මීට පෙර පරිපූරක වෛද්‍ය වෘත්තිකයන් හෙට (21) දිනයේ සිට බස්නාහිර පළාත් සභාවට අයත් රෝහල් 31ක වෘත්තීය ක්‍රියාමාර්ගයකට අවතීර්ණ වීමට තීරණය කර තිබුණි.
+
+...
+
+[Data](articles/2527cdbb.json)
+
+---
 
 ### දේශබන්දුගේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
 
@@ -1505,323 +1803,5 @@ The Deputy Minister noted that Sri Lanka currently has Rs. 1.6 trillion in reser
 ...
 
 [Data](articles/694daedd.json)
-
----
-
-### ஜனாதிபதிகளின் உரித்துரிமைகள் சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு 3 மனுக்கள் சமர்ப்பிப்பு - சபாநாயகர்
-
-*2025-08-19 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/222874) · `ta`
-
-ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்)” சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்கு 3 மனுக்கள் சமர்ப்பிக்கப்பட்டுள்ளதாக சபாநாயகர் ஜகத் விக்கிரமரத்ன சபைக்கு அறிவித்தார்.
-
-பாராளுமன்றம் நேற்று செவ்வாய்க்கிழமை காலை 9.30 மணிக்கு சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில் கூடியது. இதனையடுத்து இடம்பெற்ற சபாநாயகர் அறிவிப்பின்போதே இதனை சபைக்கு அறிவித்தார்.
-
-அரசியலமைப்பின் 121(1) ஆம் உறுப்புரையின் பிரகாரம்,  ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்)  சட்டமூலம் தொடர்பாக உயர் நீதிமன்றத்திற்குச் சமர்ப்பிக்கப்பட்ட மூன்று மனுக்களின் பிரதிகள் எனக்குக் கிடைத்துள்ளன என்றார்.
-
-◼️
-
-[Data](articles/371166eb.json)
-
----
-
-### EOIs  called to recommence Kurunchathivu (Elephant Pass – North) Saltern
-
-*2025-08-19 14:46:00* · [`islandlk`](http://island.lk/eois-called-to-recommence-kurunchathivu-elephant-pass-north-saltern/) · `en`
-
-The Cabinet of Ministers granted approval to the proposal furnished by the Minister of Industries and Entrepreneurship
-
-Development to call for expression of interest at international level for the re – commencement of the Kurunchathivu (Elephant Pass – North) Saltern as a  Public – Private Partnership.
-
-Policy approval granted to amend Bank of Ceylon Ordinance No. 53 of 1938 (Authority 397)
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/02721f6d.json)
-
----
-
-### Former State Minister Shasheendra Rajapaksa further remanded
-
-*2025-08-19 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111637/former-state-minister-shasheendra-rajapaksa-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded until August 26, Ada Derana reporter said.
-
-Rajapaksa was arrested on August 6 by Bribery Commission officers at his residence in Nugegoda.
-
-He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
-
-Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
-
-...
-
-[Data](articles/b21e1648.json)
-
----
-
-### ශෂීන්ද්‍ර රාජපක්ෂ තවදුරටත් රිමාන්ඩ්
-
-*2025-08-19 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213548) · `si`
-
-අල්ලස් කොමිසම මගින් අත්අඩංගුවට  ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා තවදුරටත් ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළාය.
-
-ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපළ 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පත්වීමෙන් පසු එකී දේපළ සඳහා වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබියදී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ ඇතැම් රජයේ නිලධාරින්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදු කර රුපියල් 8,850,000/-ක් වන්දි ලබා ගැනීම තුළින් "දූෂණය" නමැති වරද සිදුකිරීම සහ මහවැලි අධිකාරිය සතු දේපොළක් සාපරාධී සාවද්‍ය පරිහරණය තුළින් පොදු දේපළ  පනත යටතේ වරදක් සිදුකළේ යැයි සැකපිට මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/755cb9b5.json)
-
----
-
-### Selected locations within Pelwatte and Sevanagala sugar factory premises to be developed to attract tourist
-
-*2025-08-19 14:10:00* · [`islandlk`](http://island.lk/selected-locations-within-pelwatte-and-sevanagala-sugar-factory-premises-to-be-developed-to-attract-tourist/) · `en`
-
-It has been identified that four selected lications wirhin the Pelwatte sugar factory premises are tourist places  of touris attraction drawing special attention to ecotourism, agrotourism, wellness tourism, and conservation-based tourism,  as per the recommendations of the feasibility study conducted by the Public-Private Partnership National Agency.
-
-Further, it has been identified that 4 locations within  the Sevanagala sugar factory premises could also be developedas tourist attractions.
-
-Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the Minister of Foreign Affairs, Foreign Employment, and Tourism and the Minister of Industry and Entrepreneurship to  commence two Public-Private Partnership projects  within  the Pelwatte sugar factory and the Sevanagala sugar factory premises , which are under Lanka Sugar (Pvt) Ltd, as  tourist attractions.
-
-Mrs. M. K. S. R. D. Samarasinghe appointed  Dirctor General of Export Agriculture
-
-...
-
-[Data](articles/d877ea6f.json)
-
----
-
-### ගම්පහ ප්‍රදේශයේ අපරාධකරුවන් පිරිසක් අවි ආයුධ සමග අත්අඩංගුවට
-
-*2025-08-19 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213547) · `si`
-
-ගම්පහ දිස්ත්‍රික්කයේ මත්ද්‍රව්‍ය හා අපරාධ ජාලයට සම්බන්ධ පුද්ගලයින් පිරිසක් අවි ආයුධ සමග අත්අඩංගුවට ගෙන තිබේ.
-
-පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
-
-මීට අමතරව පරකන්දෙණිය, දළුවකොටුව සහ කටාන යන ප්‍රදේශවල සිදුකළ වැටලීමක දී සැකකරුවන් සතුව තිබී රිපීටර් වර්ගයේ ගිනිඅවියක්, පිස්තෝල අවියක්, ටී - 56 මැගසින් 9ක් සමග පතොරොම් 183ක්, මිලිමීටර් 9 වර්ගයේ පතුරොම් 280ක්, කඩුවක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 300ක් සොයාගෙන ඇති බව පොලීසිය පැවසීය.
-
-එමෙන්ම සැකකරුවන් භාවිතාකළ යතුරුපැදියක් සහ මෝටර් රථයක් ද පොලීසිය භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/d0099add.json)
-
----
-
-### Petition filed by Rajitha Senaratne seeking suspension of arrest warrant rejected
-
-*2025-08-19 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111636/petition-filed-by-rajitha-senaratne-seeking-suspension-of-arrest-warrant-rejected) · `en`
-
-The petition filed by former Minister Rajitha Senaratne, seeking a temporary suspension of the warrant issued for his arrest in connection with an investigation conducted by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), has been rejected by the Colombo Additional Magistrate, Ada Derana reporter said.
-
-When the petition was taken up yesterday, Colombo Chief Magistrate Thanuja Lakmali Jayatunga noted that such a request can only be considered when the Bribery Commission, the complainant in the case, appears in court.
-
-Accordingly, the court did not issue any order regarding Senaratne’s request yesterday.
-
-◼️
-
-[Data](articles/3d242a89.json)
-
----
-
-### රාජිතගේ පෙත්සම අධිකරණයෙන් ප්‍රතික්ෂේප කරයි
-
-*2025-08-19 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213546) · `si`
-
-තමන්ව අත්අඩංගුවට ගැනීම සඳහා නිකුත් කර තිබෙන වරෙන්තුව තාවකාලිකව අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා මෝසමක් මාර්ගයෙන් කළ ඉල්ලීමක් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (19) ප්‍රතික්ෂේප කළේය.
-
-අල්ලස් කොමිසමේ නිලධාරීන් සහ රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නියෝගය නිකුත් කළේය.
-
-සැකකාර රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාගේ අපේක්ෂිත ඇප ඉල්ලීම කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ප්‍රතික්ෂේප කිරීමෙන් පසුව ඔහු ඊට එරෙහිව කොළඹ මහාධිකරණය හමුවේ ප්‍රතිශෝධන පෙත්සමක් ඉදිරිපත් කළ බව සඳහන් කළේය.
-
-එම ප්‍රතිශෝධන පෙත්සම ඉකුත් 07 වනදා කොළඹ මහාධිකරණ හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී අල්ලස් කොමිසමේ නිලධාරීනිය අධිකරණය හමුවේ පෙනී සිටි බව ඔහු සඳහන් කළේය.
-
-...
-
-[Data](articles/9e5c37f3.json)
-
----
-
-### මුදල් අච්චු ගැසීමක් සිදුකර නෑ - නියෝජ්‍ය ඇමති පාර්ලිමේන්තුවේ දී කියයි
-
-*2025-08-19 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213545) · `si`
-
-ආණ්ඩුව විසින් කිසිසේත්ම මුදල් අච්චු ගැසීමක් සිදුකර නොමැති බව ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත මහතා පැවසීය.
-
-ඒ අනුව, ට්‍රිලියන 1.2ක මුදලක් වත්මන් ආණ්ඩුව යටතේ මුදල් අච්චු ගසා ඇති බව යම් සංවිධානයක් විසින් ප්‍රකාශ කර ඇති බවත්, එම ප්‍රකාශය හිතාමතා හෝ නොදැනුවත්භාවය නිසා සිදුකරන ලද ප්‍රකාශ බවත් අද (19) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් නියෝජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
-
-දැන් පවතින තත්ත්වය අනුව, ආණ්ඩුවට මුදල් අච්චු ගැසීමට හැකියාවක් නොමැති බවත්, නීතිමය වශයෙන්ද එයට ඉඩක් නොමැති බවත් ඔහු පැවසීය.
-
-මහ බැංකුව විසින් පාලනය කරන සංචිත මුදල් හරහා මුදල් ප්‍රසාරණය වීම සිදු වී ඇති බවද, එය ආණ්ඩුව විසින් මුදල් නෝට්ටු අච්චු ගැසීමක් නොවන බවද එය සම්පූර්ණයෙන්ම සමාජය නොමඟ යැවීමක් බවද ඔහු ප්‍රකාශ කළේය.
-
-ලංකාවේ මේ වන විට සංචිත මුදල් ට්‍රිලියන 1.6ක් පවතින බවත්, එසේම පුළුල් මුදල් සැපයුම ට්‍රිලියන 15කට ආසන්න වී ඇති නිසා පුළුල් මුදල් සැපයුමේ වර්ධනයක් සිදු වී ඇත්තේ මහ බැංකුවේ මැදිහත්වීම නිසා මිස, ආණ්ඩුව මුදල් අච්චු ගැසීමක් නිසා නොවන බව නියෝජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/8613d781.json)
-
----
-
-### Govt to seek bids to reopen Elephant Pass – North Saltern under PPP model
-
-*2025-08-19 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111635/govt-to-seek-bids-to-reopen-elephant-pass-north-saltern-under-ppp-model) · `en`
-
-The Cabinet of Ministers has granted approval to a cabinet paper presented to call for bidders at international level to reopen the Kurunchathivu (Elephant Pass – North) Saltern under a Public – Private Partnership methodology.
-
-Although measures have been taken to call for bids from local investors for inaugurating the production and monitoring activities of the Elephant Pass – North Saltern which had been halted due to the conflict with the LTTE, under the Public – Private Partnership methodology, authorities did not receive adequate interest to materialize the programme, according to Cabinet Spokesman Dr. Nalinda Jayatissa.
-
-Accordingly, the Cabinet of Ministers has granted approval to the proposal furnished by the Minister of Industries and Entrepreneurship Development to call for bids at international level for the reopening of the Kurunchathivu (Elephant Pass – North) Saltern under Public – Private Partnership methodology.
-
-◼️
-
-[Data](articles/eb47292a.json)
-
----
-
-### Sri Lanka to offer concessional loans to draw youth to agriculture, industry
-
-*2025-08-19 13:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-offer-concessional-loans-to-draw-youth-to-agriculture-industry-237304/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved a concessional loan scheme at 4 percent interest to encourage younger people into the agricultural and industrial sectors, minister Nalinda Jayatissa said.
-
-“It has been proposed to provide a maximum loan facility of 5 million rupees to a beneficiary,” Jayatissa told reporters.
-
-A 4 percent interest is to be charged per annum and the scheme will be implemented over 5 years.
-
-“The lack of concessional financial facilities has been identified as an obstacle to creating entrepreneurs in the agricultural sector.”
-
-This reduces the attractiveness of agriculture for young entrepreneurs, increases the amount of uncultivated land and reduces food production, he said.
-
-The 2025 budget has made a provision of 500 million rupees for the concessional loan scheme for the development, he said.
-
-The government’s objective is to create 50,000 agricultural entrepreneurs within 5 years, Jayatissa said.
-
-◼️
-
-[Data](articles/a199a371.json)
-
----
-
-### Cabinet approves financial assistance for youth leaving institutional care
-
-*2025-08-19 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111634/cabinet-approves-financial-assistance-for-youth-leaving-institutional-care) · `en`
-
-The Cabinet of Ministers has granted approval to a joint proposal to provide financial assistance to selected groups of young people based on specified criteria.
-
-It has been planned to implement the concessional financial grant scheme with the involvement of the Ministry of Women and Child Affairs, Department of Probation and Child Protection Services, Provincial Department of Probation and Child Protection Services, Department of Finance Development, District Secretaries, and Divisional Secretaries.
-
-• To the young women and men with the completion of 18 years who do not have a stable and safe home and are married or expected to be married and have left institutional care within the last 10 years (after 30-06-2015)
-
-• Young people over the age of 18 who continue to remain in child development centers due to lack of a proper family background or livelihood (especially young women)
-
-...
-
-[Data](articles/948418b6.json)
-
----
-
-### හිටපු බන්ධනාගාර වෛද්‍ය හේමන්ත රණසිංහ තවදුරටත් රිමාන්ඩ්
-
-*2025-08-19 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213544) · `si`
-
-2024 වසරේ අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු බන්ධනාගාර සෞඛ්‍ය සේවා නියෝජ්‍ය අධ්‍යක්ෂ නයනජිත් හේමන්ත රණසිංහ මහතා ලබන 26 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
-
-අල්ලස් කොමිසම සහ විත්තිය නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය විසින් මෙම නියෝගයක් නිකුත් කළාය.
-
-බන්ධනාගාර රෝහලේ ප්‍රතිකාර සඳහා රඳවා සිටි රඳවියකු ප්‍රතිකාර අවසන් වීමෙන් පසුව බූස්ස බන්ධනාගාරයට නොයවා රෝහලේ රඳවා ගැනීම සඳහා රුපියල් ලක්ෂ 15ක අල්ලසක් ඉල්ලා, ඉන් ලක්ෂ තුනක මුදලක් අල්ලස් වශයෙන් ලබා ගත් බවට සැකපිට මෙම වෛද්‍යවරයා අල්ලස් කොමිසම විසින් පසුගිය දා අත්අඩංගුවට ගෙන තිබුණි.
-
-◼️
-
-[Data](articles/33390bf2.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-08-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/222858) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (19) இலங்கை மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.5020 ஆகவும் விற்பனை விலை ரூபா 305.0432 ஆகவும் பதிவாகியுள்ளது.
-
-◼️
-
-[Data](articles/50aa0c36.json)
-
----
-
-### ‘Admit until date’: US embassy in India warns against overstaying, explains how it can happen
-
-*2025-08-19 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111633/admit-until-date-us-embassy-in-india-warns-against-overstaying-explains-how-it-can-happen) · `en`
-
-The US embassy in India issued a fresh warning to Indians against overstaying in the US and explained the difference between the ‘Admit until date’ and the expiry of the visa date.
-
-“Your authorized period of stay is the ‘Admit Until Date’ on your I-94, not your U.S. visa expiration date. Staying in the United States beyond your authorized date is called an “overstay” and could result in a visa revocation, possible deportation, and ineligibility for future visas,” the embassy said.
-
-It is the date mentioned on I-94 (arrival/departure record) which is issued by the US Customs and Border Protection. It is not written on the visa. If you entered the US on a visa with a fixed duration (like B-1/B-2 visitor visas, F-1 students, or H-1B workers), the admit until date will usually be a specific calendar date.
-
-You must either leave the US, extend your stay, or change status on or before that date to remain in lawful status.
-
-...
-
-[Data](articles/801b5371.json)
-
----
-
-### Govt mulls using QR code to disburse fertilizer subsidies to farmers
-
-*2025-08-19 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111632/govt-mulls-using-qr-code-to-disburse-fertilizer-subsidies-to-farmers) · `en`
-
-The Cabinet of Ministers has granted approval to a proposal to implement the fertilizer subsidy program for farmers through a digital system.
-
-Accordingly, the government has identified the need to ensure that the subsidy reaches farmers on time and that the financial support is fully utilized for purchasing fertilizer required for their agricultural activities.
-
-In order to facilitate a more streamlined and efficient process of distributing fertilizer to farmers, the use of QR codes or a suitable digital method has been recognized as necessary.
-
-Under this plan, all eligible farmers will be identified by local officials under the Ministry of Agriculture. Fertilizer subsidies will then be provided using a QR-based system or another appropriate digital platform, said Cabinet Spokesman Dr. Nalinda Jayatissa.
-
-Accordingly, Cabinet approval has been granted for the integrated proposal submitted by the President and the Minister of Agriculture, Livestock, Lands, and Irrigation.
-
-◼️
-
-[Data](articles/9b8e485d.json)
-
----
-
-### අලිමංකඩ  උතුර ලුණු ලේවාය නැවත වැඩ අරඹයි
-
-*2025-08-19 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213543) · `si`
-
-උතුරු හා නැගෙනහිර පළාත්වල පැවති යුදමය වාතාවරණය හේතුවෙන් නැවතී තිබූ කුරුන්චතිවු (අලිමංකඩ - උතුර) ලුණු ලේවාය නැවත ආරම්භ කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
-
-මේ වනවිට එහි නිෂ්පාදන හා මෙහෙයුම් කටයුතු රාජ්‍ය හා පෞද්ගලික හවුල්කාරීත්ව ක්‍රමය යටතේ ආරම්භ කිරීම සඳහා දේශීය ආයෝජකයින් වෙතින් අභිලාශ ප්‍රකාශ කිරීම් කැඳවීමට පියවර ගෙන ඇතත් එමඟින් අපේක්ෂිත ප්‍රතිඵල අත්පත් කරගැනීමට නොහැකි වී තිබේ.
-
-ඒ හේතුවෙන් අලිමංකඩ උතුර ලුණු ලේවායේ නිෂ්පාදන කටයුතු රාජ්‍ය - පෞද්ගලික හවුල්කාරීත්ව ක්‍රමය යටතේ නැවත ආරම්භ කිරීමට ජාත්‍යන්තර වශයෙන් අභිලාශ ප්‍රකාශ කැඳවීම සඳහා කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
-
-◼️
-
-[Data](articles/430448ab.json)
-
----
-
-### Former Deputy Director of Prison Hospital further remanded
-
-*2025-08-19 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111631/former-deputy-director-of-prison-hospital-further-remanded) · `en`
-
-Former Deputy Director of the Prison Hospital, Dr. Hemantha Ranasinghe who was arrested on bribery charges, has been further remanded until August 26, Ada Derana reporter said.
-
-Colombo Chief Magistrate Thanuja Lakmali Jayatunga issued the order after considering the facts presented by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the defense lawyers.
-
-Dr. Hemantha Ranasinghe was arrested on August 13 in connection with an incident that took place in 2024, where an inmate was admitted to the Welikada Prison Hospital due to a medical condition.
-
-After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly demanded to allow the inmate to continue staying in the hospital. Of this amount, a sum of Rs. 300,000 was reportedly accepted as a bribe.
-
-◼️
-
-[Data](articles/a848fd54.json)
 
 ---

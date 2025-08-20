@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 17:31:43**
+As of **2025-08-20 17:53:31**
 
 ## Newspaper Stats
 
-*Scraped **71,407** Articles*
+*Scraped **71,409** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
-colombotelegraphcom | 729
+colombotelegraphcom | 730
 economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
 adalk | 6,865
 adaderanalk | 8,991
-tamilmirrorlk | 10,499
+tamilmirrorlk | 10,500
 virakesarilk | 11,818
 adaderanasinhalalk | 12,337
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,407 articles have been extended.
+61,973 (86.8%) of 71,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### தவெக மாநாட்டு:   100 அடி உயர கொடிக் கம்பம் சரிந்து விழுந்தது
+
+*2025-08-20 17:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவெக-மாநாட்டு-100-அடி-உயர-கொடிக்-கம்பம்-சரிந்து-விழுந்தது/175-363154) · `ta`
+
+மதுரை தவெக மாநாட்டுத் திடலில் நட்ட 100 அடி உயர கொடிக் கம்பம் திடீரென சரிந்து விழுந்ததால் கட்சியினர் கடும் அதிர்ச்சி அடைந்தனர். இந்தச் சம்பவத்தில் ஒரு கார் சேதம் அடைந்தது. நல்வாய்ப்பாக யாருக்கும் பாதிப்பு ஏற்படவில்லை.
+
+மதுரை அருகே அருப்புக்கோட்டை - தூத்துக்குடி தேசிய நெடுஞ்சாலையில் பாரபத்தி என்ற இடத்தில் தவெகவின் 2-வது மாநில மாநாடு நாளை (ஆக.21) நடக்கிறது. இதற்கான பிரமாண்ட மேடை அமைத்தல் உள்ளிட்ட பணிகளும் முடிந்து மாநாட்டு திடல் தயார் நிலையில் உள்ளது. மாநாடுக்கான ஏற்பாடுகள், தமிழகம் முழுவதும் இருந்து கட்சியினர், ரசிகர்கள் வருகையும் தொடங்கியுள்ளது.
+
+இந்நிலையில், மாநாடு தொடங்கும் முன்பு மேடையில் இருந்தபடி ‘ரிமோட்’ மூலம் 100 அடி உயரக் கம்பத்தில் கட்சியை கொடியை கட்சியின் தலைவர் விஜய் ஏற்ற ஏற்பாடு செய்யப்பட்டுள்ளது. இதற்காக 1,000 கிலோ எடை கொண்ட 100 அடி உயர இரும்பு கொடிக் கம்பம் தயாரிக்கப்பட்டது. நேற்று (19)  முதலே கொடிக் கம்பம் நடும் பணி தொடங்கியது.
+
+...
+
+[Data](articles/874ad982.json)
+
+---
 
 ### Sri Lanka’s Maharaja Foods merges marketing, supermarket subsidiaries
 
@@ -1727,17 +1743,5 @@ Accordingly, a total provision of Rs. 1 billion has been allocated in the 2025 B
 ...
 
 [Data](articles/d0b14fcf.json)
-
----
-
-### மனுஷ நாணயக்கார குற்றவியல் விசாரணைப் பிரிவில் ஆஜர்
-
-*2025-08-20 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்கார-குற்றவியல்-விசாரணைப்-பிரிவில்-ஆஜர்/175-363106) · `ta`
-
-விசாரணை தொடர்பாக வாக்குமூலம் அளிக்க இன்று புதன்கிழமை (20) நிதிக் குற்றப் புலனாய்வுப் பிரிவில் ஆஜராகுமாறு அவருக்கு முன்னர் அறிவிக்கப்பட்டிருந்தது.
-
-◼️
-
-[Data](articles/8160b74c.json)
 
 ---

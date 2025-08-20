@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 11:32:11**
+As of **2025-08-20 11:52:28**
 
 ## Newspaper Stats
 
-*Scraped **71,286** Articles*
+*Scraped **71,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 6,854
 adaderanalk | 8,979
 tamilmirrorlk | 10,463
 virakesarilk | 11,811
-adaderanasinhalalk | 12,323
+adaderanasinhalalk | 12,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.9%) of 71,286 articles have been extended.
+61,973 (86.9%) of 71,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### දේශබන්දුගේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
+
+*2025-08-20 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213574) · `si`
+
+තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ගොනුකර තිබූ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය ප්‍රතික්ෂේප කර තිබේ.
+
+අදාළ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය අද (20) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/a96b75eb.json)
+
+---
+
+### හිටපු ඇමති ලක්ෂ්මන් යාපාට එරෙහි අල්ලස් නඩුවට අධිකරණයෙන් නියෝගයක්
+
+*2025-08-20 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213573) · `si`
+
+රජයට රුපියල් ලක්ෂ 17කට අධික පාඩුවක් සිදුකිරීම තුළින් දූෂණය නැමති වරද සිදුකළේ යැයි චෝදනා කරමින් හිටපු ආයෝජන ප්‍රවර්ධන අමාත්‍ය ලක්ෂ්මන් යාපා අබේවර්ධන සහ ශ්‍රී ලංකා ආයෝජන මණ්ඩලයේ හිටපු අධ්‍යක්ෂ ජෙනරාල් ජයන්ත එදිරිසිංහ යන අයට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර ඇති නඩුව පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා සැප්තැම්බර් මස 07 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+
+මෙම නඩුව අද (20) කොළඹ මහාධිකරණ විනිසුරු ප්‍රදීප් අබේරත්ත මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි නීතිඥවරිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම අධිචෝදනා පත්‍රයට සංශෝධන කිහිපයක් එක්කිරීම සඳහා අවසර දෙන ලෙස ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාළ අධිචෝදනා පත්‍රය සංශෝධනය කිරීමට අධිකරණය විසින් අල්ලස් කොමිසමට අවසර ලබා දුන්නේය.
+
+ඉන් අනතුරුව අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි නීතිඥවරිය විසින් මෙම අධිචෝදනා පත්‍රය හා සම්බන්ධ ලේඛන ඇතුළත් සංයුක්ත තැටියක් විත්තියේ නීතිඥවරුන්ට ලබා දුන්නේය.
+
+...
+
+[Data](articles/0b5dae12.json)
+
+---
 
 ### Sri Lanka seeks international offers to revive saltern as PPP
 
@@ -1789,39 +1823,5 @@ After receiving in-patient treatment, a bribe of Rs. 1,500,000 was allegedly dem
 ◼️
 
 [Data](articles/a848fd54.json)
-
----
-
-### இலங்கையின் சுற்றுலாத்துறைக்கு பேராபத்தா..? ; ஏ.ஐ வீடியோவால் வந்த வினை
-
-*2025-08-19 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/222852) · `ta`
-
-கொரோனா தொற்று, பொருளாதார நெருக்கடி என பல பேரிடிகளை சந்தித்து அதள பாதாளத்தில் விழுந்த இலங்கை, தற்போது மெல்ல மெல்ல உயிர்பெற்று வருகின்றது.
-
-◼️
-
-[Data](articles/5a524508.json)
-
----
-
-### Sri Lanka state sugar firm to seek investors for tourism PPPs
-
-*2025-08-19 12:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-sugar-firm-to-seek-investors-for-tourism-ppps-237265/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call for expressions of interest from private investor to set up tourism projects in as public private partnerships in state-run Pelwatte and Sevanagala companies, Minister Nalinda Jayatissa said.
-
-“We have to find income generating methods for them,” Jayatissa told reporters referring to the loss making Lanka Sugar (Private) Company Limited properties.
-
-Based on a feasibility study by the National Agency for Public-Private Partnership, 4 locations have been identified within the Pelwatte Sugar Factory premises.
-
-He did not specify how many locations were identified within Sevanagala premises.
-
-The spots have been identified for development as tourist attractions, with “special focus on eco tourism, agro tourism, wellness tourism and conservation-based tourism” he said.
-
-The cabinet had approved the proposal to implement 2 tourist projects as public-private partnership schemes to develop the locations, he said.
-
-...
-
-[Data](articles/f99a1039.json)
 
 ---

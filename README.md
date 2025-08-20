@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 23:31:27**
+As of **2025-08-20 23:51:44**
 
 ## Newspaper Stats
 
-*Scraped **71,434** Articles*
+*Scraped **71,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
 adalk | 6,873
-adaderanalk | 8,995
-tamilmirrorlk | 10,506
-virakesarilk | 11,820
+adaderanalk | 8,998
+tamilmirrorlk | 10,507
+virakesarilk | 11,821
 adaderanasinhalalk | 12,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,434 articles have been extended.
+61,973 (86.7%) of 71,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### யாழ். மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை
+
+*2025-08-20 23:23:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்ட-பாடசாலைகளுக்கு-விசேட-விடுமுறை/71-363178) · `ta`
+
+யாழ்ப்பாணம் நல்லூர் தேர்த்திருவிழாவை முன்னிட்டு நாளை யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை வழங்கப்பட்டுள்ளது.
+
+வரலாற்று சிறப்புமிக்க யாழ்ப்பாணம் நல்லூர் கந்தசாமி ஆலய தேர்த்திருவிழா நாளைய தினம் இடம்பெறவுள்ளது.
+
+இதனையொட்டி பாடசாலை மாணவர்களும் ஆசிரியர்களும் குறித்த நிகழ்வில் பங்குபெற வேண்டும் எனும் நோக்கில் யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை வழங்க வேண்டும் என பிரதமர் ஹரிணி அமரசூரியவிடம் கோரிக்கை விடுக்கப்பட்டிருந்தது.
+
+இதன்பிரகாரம், நாளைய தினம் யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை வழங்குமாறு கல்வி அமைச்சின் செயலாளருக்கு பிரதமர், பணிப்புரை விடுத்துள்ளார். R
+
+◼️
+
+[Data](articles/645f183a.json)
+
+---
+
+### Gunman arrested in murder of ex-PS member Shantha Mudunkotuwa
+
+*2025-08-20 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111686/gunman-arrested-in-murder-of-ex-ps-member-shantha-mudunkotuwa) · `en`
+
+The gunman allegedly involved in the shooting and killing of former Homagama Pradeshiya Sabha member Shantha Mudunkotuwa has been arrested by the Criminal Investigation Department (CID), the Police said.
+
+This brings the number of suspects arrested in connection with the incident to two.
+
+The victim of the shooting incident, 46-year-old Shantha Mudunkotuwa alias ‘Bana Manthri’, was shot dead at around 1.10 p.m. on August 12 in Meegoda.
+
+He was a former member of the Homagama Pradeshiya Sabha. He had represented several parties during his political career, including the Sri Lanka Freedom Party (SLFP), the United National Party (UNP), and others.
+
+Following the shooting, police acted swiftly, setting up roadblocks and inspecting vehicles. During this operation, they seized a vehicle and its driver near the Palamthuna Junction in Thalangama. A 9mm firearm suspected to have been used in the shooting was also taken into police custody.
+
+◼️
+
+[Data](articles/889c65c1.json)
+
+---
 
 ### ශාන්ත මුදුන්කොටුව ඝාතනයේ වෙඩික්කරු අත්අඩංගුවට
 
@@ -43,6 +81,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/97f4bfdc.json)
+
+---
+
+### நல்லூர் தேர் திருவிழாவை முன்னிட்டு யாழ். மாவட்ட பாடசாலைகளுக்கு நாளை விடுமுறை
+
+*2025-08-20 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/222978) · `ta`
+
+நல்லூர் தேர் திருவிழாவை முன்னிட்டு யாழ். மாவட்ட பாடசாலைகளுக்கு நாளை வியாழக்கிழமை விடுமுறை வழங்கப்படுவதாக வடமாகாண ஆளுநர் நா.வேதநாயகன் அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9f73f3dc.json)
+
+---
+
+### Motorcyclist linked to Borella shooting incident arrested
+
+*2025-08-20 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111685/motorcyclist-linked-to-borella-shooting-incident-arrested-) · `en`
+
+Police have arrested the motorcyclist involved in the recent shooting incident that targeted five youths at the Sahaspura Sirisara Housing Complex in Borella.
+
+The Organized Crime Investigation Unit of the Colombo District Crime Division made the arrest while the suspect was hiding in a lodge in the Kadawatha area.
+
+The incident occurred on the night of August 7 at the Sahaspura Sirisara Housing Complex in Borella, resulting in the death of two youths and injuries to three others.
+
+◼️
+
+[Data](articles/0c6a0de3.json)
 
 ---
 
@@ -77,6 +143,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/30c5608a.json)
+
+---
+
+### Sri Lanka’s Foreign Minister lauds Vietnam’s dynamic development
+
+*2025-08-20 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111684/sri-lankas-foreign-minister-lauds-vietnams-dynamic-development) · `en`
+
+Sri Lankan Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath has commended Vietnam’s strong and dynamic development, describing it as a role model for his country.
+
+He made the praise on August 19 while attending a recent ceremony hosted by the Vietnamese Embassy in Sri Lanka to mark the 80th anniversary of the August Revolution (August 19), the 80th National Day (September 2), and the 55th anniversary of bilateral diplomatic relations (July 21).
+
+Vietnamese Ambassador to Sri Lanka Trinh Thi Tam stressed the valuable support of the international community, including Sri Lankan friends, in Vietnam’s national building and development.
+
+She expressed delight at the continuous strengthening of bilateral relations over the past 55 years in politics, diplomacy, trade, culture, education, and people-to-people exchanges, while highlighting the vast potential for further cooperation.
+
+...
+
+[Data](articles/8d83be3a.json)
 
 ---
 
@@ -1697,93 +1781,5 @@ The Joint Apparel Association Forum (JAAF) today warmly welcomed the UK Governme
 ...
 
 [Data](articles/2d8ce0c8.json)
-
----
-
-### දේශබන්දුගේ ඉල්ලීමක් ප්‍රතික්ෂේප වෙයි
-
-*2025-08-20 13:20:16* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දුගේ-ඉල්ලීමක්-ප්‍රතික්ෂේප-වෙයි/11-417970) · `si`
-
-තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඉල්ලා හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ගොනුකර තිබූ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය ප්‍රතික්ෂේප කර තිබේ.
-
-අදාළ අපේක්ෂිත ඇප ඉල්ලුම් පත්‍රය අද (20දා) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබිණි.
-
-◼️
-
-[Data](articles/56c552b6.json)
-
----
-
-### எமது போராட்டத்தை அரசாங்கம் தவறாக சித்தரிக்கின்றது - அரைகுறை ஆடையுடன் போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர்
-
-*2025-08-20 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/222933) · `ta`
-
-அதிகாரிகள், அமைச்சருடன் இணைந்து தபால் ஊழியர்களின் வேலைநிறுத்தம் குறித்து தவறான தகவல்களை வெளியிட்டு  பொதுமக்களை தவறாக வழிநடத்துவதாக அரைகுறை ஆடையுடன் போராட்டத்தில் ஈடுபட்ட தபால் ஊழியர் ஒருவர் தெரிவித்துள்ளார்.
-
-எங்களுக்கு போதுமான சம்பளம் மற்றும் கொடுப்பனவுகளை வழங்குவதில் அதிகாரிகள் தவறிவிட்டதாலேயே இந்த வேலைநிறுத்தம் முன்னெடுக்கப்படுகின்றது.
-
-அத்துடன், ஊழியர்களின் ஒப்பந்தங்களை நிரந்தரமாக்குமாறு கோரியுள்ளோம். ஆனால், அதிகாரிகளும், அமைச்சரும் கைரேகை மற்றும் மேலதிக நேரம் பற்றி பேசுகிறார்கள்.
-
-அஞ்சல் தொழிற்சங்கங்களால் நடத்தப்படும் தொடர்ச்சியான வேலைநிறுத்தம் குறித்து பொதுமக்களிடம் அதிகாரிகள் தவறான தகவல்களை பரப்புகின்றனர்.
-
-நாடளாவிய ரீதியில் ஞாயிற்றுக்கிழமை (17) முதல் ஆரம்பித்த தபால் ஊழியர்களின் வேலை நிறுத்த போராட்டம் தொடர்ந்து இடம்பெற்று வருகின்றது.
-
-இதேவேளை, 19 முக்கிய கோரிக்கைகளை முன்வைத்து செவ்வாய்க்கிழமை (19) ஜனாதிபதி செயலகத்தில் நடைபெற்ற கலந்துரையாடலுக்குப் பின்னரும், வேலைநிறுத்த போராட்டம் தொடரும் என தபால் தொழிற்சங்கங்கள் அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/1dc7cd5f.json)
-
----
-
-### Building high-performing teams: Converting mystery into reality
-
-*2025-08-20 13:17:42* · [`dailyftlk`](https://www.ft.lk/columns/Building-high-performing-teams-Converting-mystery-into-reality/4-780473) · `en`
-
-In the face of rapid technological advancements and shifting market demands, organisations must create room for high performance to stay competitive
-
-In today’s hyper-competitive landscape, high-performance teams, being those elite units that consistently exceed expectations, are an elusive rarity. What fuels their relentless drive for excellence has been a subject of much discussion. We have been made to believe that there is a mysterious intangible which separates a great team from a good team and that there is an ethereal alchemy of traits and behaviours which combine to produce a binding, collaborative force.
-
-...
-
-[Data](articles/4975d1e5.json)
-
----
-
-### යාපනයේ ළිඳකින් පතරොම් 1,393ක් සොයා ගනී
-
-*2025-08-20 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213577) · `si`
-
-‍යාපනය,කොඩිකාමම් ප්‍රදේශයේ ළිඳක් පිරිසිදු කිරීමේදී ළිඳ තුළ තිබි පතරොම් 1393ක් හමුවී ඇත.
-
-කොඩිකාමම් පොලීසිය පවසන ලද්දේ වසර ගණනාවක් පවිත්‍ර නොකළ ළිඳක මඩ ඉවත් කිරීමේදී ළිඳ තුළ තිබි ඊයේ(19) මෙලෙස පතරොම් සහිත බෑගයක් හමුව ඇති බවයි.
-
-අදාළ පතරොම්﻿ දිරාපත්ව පැවති අතර,යුද සමයේ කිසියම් පිරිසක් විසින් මෙම පතරොම් ළිඳට දමන්නට ඇති බවට පොලීසිය සැක පළ කරයි.
-
-හමුවු පතරොම් සහිත බෑගය යාපනය,චාවකච්චේරි මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව,බෝම්බ නිශ්ක්‍රීය අංශය විසින් මෙම පතරොම් නිශ්ක්‍රීය කිරීමට නියමිත බවද පොලීසිය වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/3e8e23bd.json)
-
----
-
-### Sri Lanka free to use more foreign inputs in duty free apparel exports to UK
-
-*2025-08-20 13:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-free-to-use-more-foreign-inputs-in-duty-free-apparel-exports-to-uk-237452/) · `en`
-
-ECONOMYNEXT – Sri Lanka apparel exporters will be allowed to use up to 100 percent input from any country and get duty free access to the UK from 2026, under plan to help developing countries.
-
-Under the UK’s Developing Countries Trading Scheme (DCTS), Sri Lanka receives benefits as an ‘Enhanced Preference’ country.
-
-Current rules allow tariff free access to Sri Lankan garments if inputs are sourced from the South Asian region along with restrictions around processing, the British embassy said.
-
-The liberalised rules will now offer countries eligible for ‘Enhanced Preference’ including Sri Lanka the same product-specific rules for apparel  cover by chapters 61 and 62 equal to the access lower income countries like Bangladesh get through ‘Comprehensive Preferences’.
-
-“We are pleased to confirm further details of the reforms to the DCTS,” the British High Commissioner to Sri Lanka Andrew Patrick said in a statement.
-
-...
-
-[Data](articles/041ff528.json)
 
 ---

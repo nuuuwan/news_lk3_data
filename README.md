@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 20:21:39**
+As of **2025-08-20 20:33:29**
 
 ## Newspaper Stats
 
@@ -238,7 +238,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Sri Lanka’s Maharaja Foods merges marketing, supermarket subsidiaries
+### Sri Lanka’s Maharaja Foods merges marketing, supermarket units
 
 *2025-08-20 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-maharaja-foods-merges-marketing-supermarket-subsidiaries-237511/) · `en`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 18:09:49**
+As of **2025-08-20 18:32:30**
 
 ## Newspaper Stats
 
-*Scraped **71,412** Articles*
+*Scraped **71,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
-adalk | 6,865
+adalk | 6,867
 adaderanalk | 8,991
-tamilmirrorlk | 10,501
+tamilmirrorlk | 10,504
 virakesarilk | 11,820
-adaderanasinhalalk | 12,337
+adaderanasinhalalk | 12,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,412 articles have been extended.
+61,973 (86.8%) of 71,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### ’’சில சக்திவாய்ந்த உலகத் தலைவர்கள் மனநலம் பாதிக்கப்பட்டவர்கள்”
+
+*2025-08-20 18:14:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-சக்திவாய்ந்த-உலகத்-தலைவர்கள்-மனநலம்-பாதிக்கப்பட்டவர்கள்/175-363162) · `ta`
+
+"இந்தியாவிற்கும் இலங்கைக்கும் இடையிலான புதிய பாதுகாப்பு ஒப்பந்தம் எதிர்காலத்தில் ஒரு பெரிய பிரச்சினையாக இருக்கப்போகிறது. ஜே.ஆர். ஜெயவர்தனேவின் காலத்தில், விடுதலைப் புலிகளின் நடவடிக்கையால், ஜெயவர்தனே மற்றும் பிறரை இந்திய-இலங்கை ஒப்பந்தத்தில் கையெழுத்திட அழுத்தம் கொடுத்தனர்.
+
+மாகாண சபைச் சட்டம் இப்படித்தான் நிறைவேற்றப்பட்டது. ஆனால் கடந்த 11 ஆண்டுகளாக, அந்த சபைகள் செயல்படாமல் உள்ளன. 2,500க்கும் மேற்பட்ட அதிகாரிகள் சும்மா இருக்கிறார்கள், மேலும் ஒவ்வொரு ஆண்டும் மில்லியன் கணக்கான ரூபாய் வீணடிக்கப்படுகிறது. இந்தப் பிரச்சினைகள் உள்ளிருந்து வரவில்லை," என்று சிறிசேன கூறினார், இந்தியாவுடனான ஒப்பந்தங்களில் இலங்கை வலுவாக ஆயுதம் ஏந்தியிருப்பதாகக் கூறினார்.
+
+உலகத் தலைவர்களின் கேள்விக்குரிய மனநிலையால் உலக அமைதி மற்றும் நிலையான வளர்ச்சி அச்சுறுத்தலுக்கு உள்ளாகியுள்ளது என்றும் முன்னாள் ஜனாதிபதி கூறினார்.
+
+"சில சக்திவாய்ந்த உலகத் தலைவர்கள் மனநலம் பாதிக்கப்பட்டவர்கள் - அவர்களால் போர் இல்லாமல் வாழ முடியாது. அவர்களுக்கு போர் மனநிலை இருக்கிறது. உதாரணமாக, நெதன்யாகு - அவர் எப்போதும் யாரையாவது தாக்க முயற்சிக்கிறார்.
+
+...
+
+[Data](articles/34711543.json)
+
+---
+
+### போர்ட் சிட்டியில் தண்ணீர் விற்றவருக்கு  ரூ. 500,000 அபராதம்
+
+*2025-08-20 18:07:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்ட்-சிட்டியில்-தண்ணீர்-விற்றவருக்கு-ரூ-500-000-அபராதம்/175-363161) · `ta`
+
+போர்ட் சிட்டி கடற்கரை பகுதியில் உள்ள ஒரு கடை உரிமையாளருக்கு ரூ. 500,000 அபராதத்தை கொழும்பு மேலதிக நீதவான் பவித்ரா சஞ்சீவனி பத்திரண இன்று (20)விதித்தார். ரூ. 70க்கு விற்கப்படவிருந்த 500 மில்லி குடிநீர் போத்தலை ரூ. 200க்கு விற்பனை செய்தபோது சந்தேக நபர் கைது செய்யப்பட்டதாக விசாரணை அதிகாரிகள் நீதிமன்றத்தில் தெரிவித்தனர்.
+
+2003 ஆம் ஆண்டு 09 ஆம் இலக்க நுகர்வோர் விவகார அதிகாரசபைச் சட்டத்தின் பிரிவுகள் 20(5) மற்றும் 68 மற்றும் 2021 ஆம் ஆண்டு 20 ஆம் இலக்க திருத்தச் சட்டத்தின் பிரிவு 60(44) ஆகியவற்றின் கீழ் சந்தேக நபர் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்.
+
+அதிக விலைக்கு தண்ணீர் போத்தல்கள் விற்பனை செய்வதைத் தடுக்கும் வர்த்தமானி அறிவிப்பு வெளியிடப்பட்ட போதிலும், அதிக விலைக்கு தண்ணீர் போத்தல்கள் விற்கப்படுவதாக தகவல் கிடைத்துள்ளதால், அத்தகைய இடங்களை சோதனை செய்ய உடனடி நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக விசாரணை அதிகாரிகள் நீதிமன்றத்தில் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/a7fe7e5b.json)
+
+---
+
+### ”4/21 சூத்திரதாரியை எல்லோருக்கும் தெரியும்,ஆனால் அவரை ஒன்றும் செய்ய முடியாது”
+
+*2025-08-20 18:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-சூத்திரதாரியை-எல்லோருக்கும்-தெரியும்-ஆனால்-அவரை-ஒன்றும்-செய்ய-முடியாது/175-363160) · `ta`
+
+2019 ஈஸ்டர் ஞாயிறு குண்டுவெடிப்புக்குப் பின்னணியில் உள்ள மூளையாகச் செயல்படும் நபரை எதிர்கொள்ள இலங்கை சக்தியற்றது என்று முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேன கூறினார். அந்த நபர் அரசாங்கங்கள், இராணுவம் மற்றும் உளவுத்துறை நிறுவனங்களுக்கு நன்கு தெரிந்தவர் என்றும், ஆனால் அவரை அடைய முடியாது என்றும் அவர் கூறினார்.
+
+இலங்கை மன்றத்தில் நடைபெற்ற நிகழ்வில் உரையாற்றிய முன்னாள் ஜனாதிபதி, கொடிய தாக்குதல்களின் மூளையாகச் செயல்பட்டவரைக் கண்டுபிடிக்க அதிகாரிகள் துடித்துக் கொண்டிருந்தாலும், உண்மையை பொதுமக்களுக்கு எளிதில் வெளிப்படுத்த முடியாது என்று கூறினார்.
+
+...
+
+[Data](articles/aa83b608.json)
+
+---
+
+### අත්බෝම්බ ළඟ තියාගෙන ඉන්න තිදෙනෙක් සොයා විමර්ශයක්
+
+*2025-08-20 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213587) · `si`
+
+අත්බෝම්බ සන්තකයේ තබා ගෙන සිටින හා ත්‍රස්තවාදී ක්‍රියාකාරකම්වලට සම්බන්ධ බවට සැකකෙරෙන සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය පතා තිබේ.
+
+කිරිබත්ගොඩ පොලිස් ස්ථානය මගින් සිදු කරන ලද වැටලීමකදී ටී-56 ගිනිඅවියක් සන්තකයේ තබාගෙන ත්‍රීරෝද රථයකින් ගමන් කරමින් සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+එම සැකකරුගෙන් අනාවරණය වූ තොරතුරු මත වව්නියාව කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් පසුගිය මස 21වනදා අත්බෝම්බ සමග තවත් සැකකරුවෙකු අත්අඩංගුවට ගනු ලැබීය.
+
+එම සැකකරු ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාසය භාරයට ගෙන සිදු කරන ලද වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ, තවත්  අත්බෝම්බ සන්තකයේ තබා ගෙන සිටින සැකකරුවෙකු හා එම ක්‍රියාකාරකම්වලට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු සිටින බවය.
+
+ඒ අනුව එම සැකකරුවන් තිදෙනා අත්අඩංගුවට ගැනීම සඳහා ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් වව්නියාව ප්‍රදේශයට ගොස් තිබූ අතර, ඒ වනවිට සැකකරුවන් තම ප්‍රදේශයන් අතහැර පලා ගොස් ඇත.
+
+...
+
+[Data](articles/69dd0b64.json)
+
+---
 
 ### தவெக மாநாட்டு:   100 அடி உயர கொடிக் கம்பம் சரிந்து விழுந்தது
 
@@ -87,6 +155,22 @@ In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colo
 ◼️
 
 [Data](articles/0e8f3a06.json)
+
+---
+
+### හිටපු ජනපතිවරුන්ගේ හිමිකම් අහිමි කරන පනතට එරෙහිව තවත් පෙත්සම් තුනක්
+
+*2025-08-20 17:05:55* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-හිමිකම්-අහිමි-කරන-පනතට-එරෙහිව-තවත්-පෙත්සම්-තුනක්/11-417979) · `si`
+
+හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පනත් කෙටුම්පත අවස්ථාවට පටහැනි බව සඳහන් කරමින් එම පනත් කෙටුම්පත විශේෂ බහුතර මන්ත්‍රී සංඛ්‍යාවකගේ ඡන්දයෙන් සහ ජනමත් විචාරණයකින් සම්මත විය යුතු බවට නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ු ශ්‍රේෂ්ඨාධිකරණයට තවත් පෙත්සම් තුනක් අද (20) ගොනු කළේය.
+
+මෙම කරුණම පාදක කරගනිමින් මීට පෙර අවස්ථාවක ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාලක ලේකම් රේණුක පෙරේරා මහතාද පුරවැසියන් දෙදෙනෙකු වන වේයන්ගොඩ පදිංචි හරින්ද්‍රරත්න බානගල සහ පන්නිපිටියේ පදිංචි ප්‍රේමසිරිත් ප්‍රියන්ත විජේසේකර මහත්වරුන්ද ගොනු කළ පෙත්සම්වලට අමතරව මෙලෙස තවත් පෙත්සම් තුනක් ගොනු කරනු ලැබුවේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ මනෝජ් ගමගේ, සබරගමුව විශ්වවිද්‍යාලයේ කථිකාචාර්ය මහින්ද පතිරණ සහ නාවික හමුදාවේ මාණ්ඩලික ප්‍රධානී දොන් එස්.එම්. විජේවික්‍රම යන මහත්වරුන්ය.
+
+නීතිඥ අනුරාධ වෙරගොඩ මහතා මඟින් ඉදිරිපත් කර ඇති අදාළ පෙත්සම්වල වගඋත්තරකරු වශයෙන් නීතිපතිවරයා නම්කර ඇත.
+
+...
+
+[Data](articles/1dc8b780.json)
 
 ---
 
@@ -265,6 +349,32 @@ Dr. Fernando earned his MBBS and MD in Anaesthesiology from the University of Co
 ...
 
 [Data](articles/97dda5c9.json)
+
+---
+
+### මහ මොළකාරයා කවුද කියලා හැමෝම දන්නවා
+
+*2025-08-20 16:52:44* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මොළකාරයා-කවුද-කියලා-හැමෝම-දන්නවා/11-417977) · `si`
+
+පාස්කු ප්‍රහාරයට අදාළව මහ මොළකාරයා කවුරුන්දැයි සෑම ආණ්ඩුවක්ම දන්නා බවත් නමුත් එම මහ මොළකාරයා සමග
+
+කිසිවෙකුටත් සටන් කළ නොහැකි බවත් හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පැවැසීය.
+
+"අපිට ලොකු අපරාධ සිද්ධවෙලා තියෙනවා. සිද්ධ කරලා තියෙනවා. මාව මහා අපකීර්තියට පත්වුණෙත්, මගේ ආණ්ඩුව
+
+විනාශ කළෙත් ඒ වගේම මගේ පක්ෂය විනාශ කළෙත් ඒත් ඔය විදිහේ වැඩ පිළිවෙළක් තුළ තමයි.
+
+මේ සිද්ධ වුණ දේ කොහොමද වුණේ කියලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කියලා තියෙනවා. නමුත් ඒක කාටවත්
+
+එළියේ කියන්න බෑ. මහ මොළකාරයෝ හොයන්න දැගලුවට ඔය හැම දෙනාම  මහ මොළකාරයා කවුද කියලා දන්නවා.
+
+මහ මොළකාරයා කවුද කියලා හැම ආණ්ඩුවකම අයත් දන්නවා, හමුදාවලත් දන්නවා, බුද්ධි අංශත් දන්නවා නමුත් මහ
+
+මොළකාරයා කොහෙද ඉන්නේ කිව්වට මහ මොළකාරයත් එක්ක අපිට සටන් කරන්න බෑ."
+
+◼️
+
+[Data](articles/a8860e0e.json)
 
 ---
 
@@ -1653,99 +1763,5 @@ LAUGFS Holdings Ltd., celebrates a momentous milestone, 30 years of visionary le
 ...
 
 [Data](articles/7a567fdc.json)
-
----
-
-### EDB engages with Palestinian Ambassador to boost bilateral trade opportunities
-
-*2025-08-20 12:27:59* · [`dailyftlk`](https://www.ft.lk/business/EDB-engages-with-Palestinian-Ambassador-to-boost-bilateral-trade-opportunities/34-780451) · `en`
-
-The Sri Lanka Export Development Board (EDB) recently hosted Ambassador of the State of Palestine to Sri Lanka Ihab I.M. Khalil for a courtesy call that aimed at strengthening stronger trade ties and exploring new avenues for bilateral cooperation.
-
-The meeting, held at the EDB premises, facilitated a productive discussion on expanding market access for Sri Lankan products in Palestine and encouraging greater collaboration between the two nations.
-
-During the discussions, the EDB highlighted several product sectors with strong potential in the Palestinian market, including Ceylon Tea, natural rubber and rubber-based products, coconut-based products such as desiccated coconut and virgin coconut oil, spices; particularly Ceylon Cinnamon and pepper, processed food and beverages, and Ayurveda and herbal-based personal care products.
-
-...
-
-[Data](articles/6efaa4c1.json)
-
----
-
-### Sri Lanka–Indonesia Business Council holds 2nd Annual General Meeting
-
-*2025-08-20 12:27:05* · [`dailyftlk`](https://www.ft.lk/business/Sri-LankaIndonesia-Business-Council-holds-2nd-Annual-General-Meeting/34-780450) · `en`
-
-THE Sri Lanka-Indonesia Business Council of the Ceylon Chamber of Commerce held its second Annual General Meeting (AGM) recently. The occasion was attended by the Council’s Patron, Ambassador of Indonesia to Sri Lanka Dewi Gustina Tobing.
-
-Sunshine Holdings PLC’s Vish Govindasamy, who served as President of the Council for two consecutive years, stepped down following the successful completion of his term. In his remarks, Govindasamy acknowledged the Ambassador’s instrumental role in re-establishing the Council and reflected on the notable achievements over the past two years, highlighting in particular – the successful business delegation visit to Indonesia.
-
-Ceylon Biscuits Ltd., Shea Wickramasingha was appointed as the new President for the year 2025/26. In her address, she emphasised the Council’s focus on promoting sector-specific dialogue between Sri Lankan and Indonesian stakeholders, with the aim of fostering meaningful bilateral outcomes.
-
-...
-
-[Data](articles/c051ba92.json)
-
----
-
-### Sri Lanka–Maldives Business Council hosts 17th AGM
-
-*2025-08-20 12:25:42* · [`dailyftlk`](https://www.ft.lk/business/Sri-LankaMaldives-Business-Council-hosts-17thAGM/34-780449) · `en`
-
-Seated from left: The Ceylon Chamber of Commerce Secretariat Pasandi Senara, Immediate Past President Sudesh Mendis, High Commissioner of Maldives in Sri Lanka Masood Imad, President Sanjeewa Perera, High Commissioner Designate to Maldives M.R. Hassen, Senior Vice President Suranga Ratnayake, Advisor to the Committee Kevin Edwards, and Vice President Husne Rauf
-
-Standing from left (Committee members): Mafaz Azeez (Spillburg Holdings), Roshan Fernando (Diesel and Motor Engineering), Roshan Perera (Marine Transport Services), Adrian Fernando (Senok Trade Combine), Dishan Wijayawardena (Nestle Lanka), Mohammed Farih Fazal (American Water Systems), John Fernando (Kelani Cables), Manura Wickramasinghe (Puritas), Deepthi Hewageegana (United Tractor & Equipment), Danushka Jayasinghe (MAC Holdings)
-
-...
-
-[Data](articles/f40979fa.json)
-
----
-
-### ஆண்களுக்கும் கருத்தடை மாத்திரையை கண்டுபிடிச்சாச்சு?
-
-*2025-08-20 12:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/ஆண்களுக்கும்-கருத்தடை-மாத்திரையை-கண்டுபிடிச்சாச்சு/53-363110) · `ta`
-
-உலகம் தோன்றிய காலம் முதலே பெண்கள் அனைத்து நாடுகளிலும், சமூகங்களிலும் இரண்டாம் நிலையிலேயே வைக்கப்பட்டுள்ளனர். ஆண்களின் வேலை சம்பாதிப்பது மட்டுமே, குடும்ப பொறுப்பு, குழந்தை வளர்ப்பு, வீட்டுப்பணி என அனைத்துமே பெண்களுக்கு ஒதுக்கப்பட்டுள்ளது. குடும்பத்தை வளர்ப்பது முதல் குடும்பக் கட்டுப்பாடு வரை அனைத்தையும் பெண்களே சுமக்க வேண்டும்
-
-பல நூற்றாண்டுகளுக்குப் பிறகு முதல் முதலாக ஆண்களுக்கான கருத்தடை மாத்திரை இப்போதுதான் தயாரிக்கப்பட்டள்ளது. YCT-529 என்று அழைக்கப்படும் இந்த மாத்திரை அதன் முதல் மனித பாதுகாப்பு சோதனையில் தேர்ச்சி பெற்றுள்ளது.
-
-...
-
-[Data](articles/8bdb7c98.json)
-
----
-
-### State sugar firm to seek investors for two tourism PPPs
-
-*2025-08-20 12:23:11* · [`dailyftlk`](https://www.ft.lk/business/State-sugar-firm-to-seek-investors-for-two-tourism-PPPs/34-780448) · `en`
-
-In a bid to boost income of the State-run Pelwatte and Sevanagala sugar factories, which are under Lanka Sugar Ltd., the Cabinet of Ministers on Monday approved calling for expressions of interest (EoIs) from private investors to set up two tourism projects under a public-private-partnership (PPP) model.
-
-Speaking at the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said it has been identified that four selected places in the Pelwatte sugar factory premises are tourist attraction places drawing special attention to eco-tourism, agro-tourism, wellness tourism and conservation-based tourism, based on the recommendations of the feasibility study conducted by the Public-Private Partnership National Agency.
-
-In addition, he said four places of the Sevanagala sugar factory could also be developed with the objective of being a tourist attraction, without specifying the areas identified.
-
-...
-
-[Data](articles/b310aa37.json)
-
----
-
-### ஆமடில்லாவை வேட்டையாடிய இருவர் கைது
-
-*2025-08-20 12:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஆமடில்லாவை-வேட்டையாடிய-இருவர்-கைது/75-363109) · `ta`
-
-திருகோணமலை மாவட்டம், சேருநுவர பொலிஸ் பிரிவிலுள்ள தெஹிவத்தை பகுதியில் , சட்டவிரோத கட்டுத்துவக்கு மற்றும்  வேட்டையாடப்பட்ட ஆமடில்லா (அளுங்கு) எனும் மிருகம் ஆகியவற்றுடன் இருவர் செவ்வாய்க்கிழமை (19)   கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்கள் சேருநுவர - தெஹிவத்தை பகுதியைச் சேர்ந்த 53,45 வயதுடையவர்கள் என பொலிஸார் தெரிவித்தனர்.
-
-சேருநுவர பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட திடீர் சோதனையின்போது கட்டுத்துவக்குடனும் வேட்டையாடப்பட்ட அலுங்கு மிருகத்துடன் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-சந்தேக நபர்கள் சேருநுவர பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு    மூதூர் நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்டனர்.
-
-◼️
-
-[Data](articles/99095352.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 15:49:39**
+As of **2025-08-20 16:07:41**
 
 ## Newspaper Stats
 
-*Scraped **71,363** Articles*
+*Scraped **71,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,014
-adalk | 6,861
-adaderanalk | 8,986
+dailyftlk | 5,016
+adalk | 6,863
+adaderanalk | 8,989
 tamilmirrorlk | 10,495
 virakesarilk | 11,816
-adaderanasinhalalk | 12,332
+adaderanasinhalalk | 12,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,363 articles have been extended.
+61,973 (86.8%) of 71,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### In the name of humanity
+
+*2025-08-20 15:53:33* · [`dailyftlk`](https://www.ft.lk/columns/In-the-name-of-humanity/4-780492) · `en`
+
+Remember them. Honour them. Demand justice for those who were murdered in cold blood in Sri Lanka and around the world
+
+Remembering the fallen humanitarians of Muttur; commemorating World Humanitarian Day
+
+In 2016, the Syrian government launched relentless attacks on Eastern Ghouta, near the capital Damascus. The attack was brutal; artillery dropped day and night, destroying every safe corner to hide. The more people tried to reach safety, the more they were attacked regardless of their age, gender, or religious background.
+
+In this chaos stood a half-constructed hospital in Ghouta with limited medical supplies and medical staff. In this massacre, most of the hospital staff fled the area, but one young doctor, 28-year-old Dr. Amani Ballour, chose to stay with 13 other volunteer doctors to treat the wounded. She assembled her treatment centre in the unfinished basement, operating on critically injured patients, many of them children and mothers.
+
+...
+
+[Data](articles/80307068.json)
+
+---
+
+### Getting the timing right: Disasters,  debt and livelihoods
+
+*2025-08-20 15:50:52* · [`dailyftlk`](https://www.ft.lk/opinion/Getting-the-timing-right-Disasters-debt-and-livelihoods/14-780491) · `en`
+
+Lenders grow cautious after a disaster, fearing tax revenue will fall and relief spending will rise
+
+Across Asia and the Pacific, floods, typhoons, heatwaves, and droughts now strike with a frequency unimaginable a generation ago. Rising temperatures and seas fuel fiercer storms, while rapid urban growth pushes more families into harm’s way.
+
+When disaster hits, it is the poorest who pay twice — first through the loss of homes, crops, and jobs, and again through the invisible cost of higher government borrowing.
+
+Rebuilding roads, hospitals, and schools costs billions. Governments often raise that money by issuing sovereign bonds. Yet lenders grow cautious after a disaster, fearing tax revenue will fall and relief spending will rise. To compensate, they demand a disaster premium — a higher interest rate on new debt.
+
+...
+
+[Data](articles/46f4aa4e.json)
+
+---
+
+### දේශබන්දු තෙන්නකෝන් අත්අඩංගුවට
+
+*2025-08-20 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213582) · `si`
+
+හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ගාලුමුවදොර පැවැත් වූ අරගලයට පහරදීම සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව මෙම අත්අඩංගුවට ගැනී සිදුකර තිබේ.
+
+මේ අතර තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඒ මහතා ඇප ඉල්ලුම් පත්‍රයයක්ද ගොනුකර තිබූ අතර, එය අද (20) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී ප්‍රතික්ෂේප විය.
+
+◼️
+
+[Data](articles/530a6fe3.json)
+
+---
+
+### බංගලියන්ගේ මැසඩෝනියා ගමන කටුනායකින් නවතී
+
+*2025-08-20 15:37:05* · [`adalk`](https://www.ada.lk/breaking_news/බංගලියන්ගේ-මැසඩෝනියා-ගමන-කටුනායකින්-නවතී/11-417973) · `si`
+
+කූඨ ලෙස සකස් කළ වීසා බලපත්‍ර භාවිත කරමින් මැසඩෝනියාව වෙත පළා යාමට තැත් කළ බංගලාදේශ ජාතිකයන් 05 දෙනෙකු 08/20 දින උදෑසන ආපසු හරවා යැවීමට කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් පියවර ගෙන තිබේ.
+
+මොවුන් 08/20 දින අලුයම 02.30 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ. - 1171 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+එසේ පැමිණි ඔවුන් සිය ආගමන කටයුතු නිශ්කාශනය කිරීම සදහා පෝලිමක රැදී සිටියදී , ප්‍රධාන ආගමන විගමන නිලධාරීවරයාට ඇති වූ සැකය මත සිදු කළ ප්‍රශ්ණ කිරීමෙන් අනතුරුව මොවුන් සතුව තිබූ මැසඩෝනියා රාජ්‍යයේ වීසා බලපත්‍ර පිළිබද වැඩිදුර විමර්ශන කටයුතු සදහා දේශසීමා ආවේක්ෂණ ඒකකය වෙත භාර දීමට පියවර ගෙන තිබුණි .
+
+එහිදී සිදු කළ තාක්ෂණික පරීක්ෂා කිරීම් වලදී , මෙම වීසා බලපත්‍ර කූඨ ලෙස සකස් කළ ඒවා බවට තහවුරු වී තිබේ .
+
+ඉන්පසු මොවුන්ගෙන් මේ පිළිබද වැඩිදුර ප්‍රශ්ණ කිරීම් වලදී තමන් මෙරටට පැමිණ දින දෙකකට පසුව මැසඩෝනියාව වෙත පළා යාම සදහා සැළසුම් කර ඇති බව ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් හමුවේ අනාවරණය කර තිබේ.
+
+...
+
+[Data](articles/dbbe037e.json)
+
+---
+
+### හිටපු ඇමති රාජිතට අධිකරණයේ පෙනී සිටින ලෙස නොතීසි
+
+*2025-08-20 15:29:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රාජිතට-අධිකරණයේ-පෙනී-සිටින-ලෙස-නොතීසි/11-417972) · `si`
+
+හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාට අගෝස්තු මස 29 වැනිදා අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (20දා) නොතීසි නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/796652ac.json)
+
+---
 
 ### மிஸ் இந்தியா யுனிவர்ஸ் அழகி மணிகா
 
@@ -150,6 +234,20 @@ Named “Xavier 4.0” it is a mission-ready platform combining the power of the
 
 ---
 
+### Court issues notice to Rajitha Senaratne to appear on August 29
+
+*2025-08-20 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111678/court-issues-notice-to-rajitha-senaratne-to-appear-on-august-29) · `en`
+
+The Colombo Magistrate’s Court today (20) issued a notice to former Minister Rajitha Senaratne, who is currently under an arrest warrant, directing him to appear before the court on August 29.
+
+Colombo Chief Magistrate Thanuja Lakmali issued the notice under Section 60(1) of the Criminal Procedure Code, following a request made by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), said Ada Derana reporter.
+
+◼️
+
+[Data](articles/a59801a6.json)
+
+---
+
 ### රාජිතට අධිකරණයේ පෙනී සිටින්නැයි නොතීසි
 
 *2025-08-20 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213581) · `si`
@@ -212,6 +310,20 @@ Named “Xavier 4.0” it is a mission-ready platform combining the power of the
 
 ---
 
+### Ishan Sanka Mapitigama elected Basnayake Nilame of Sabaragamuwa Maha Saman Devalaya
+
+*2025-08-20 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111676/ishan-sanka-mapitigama-elected-as-basnayake-nilame-of-sabaragamuwa-maha-saman-devalaya-) · `en`
+
+Ishan Sanka Mapitigama has been elected as the Basnayake Nilame of the Sabaragamuwa Maha Saman Devalaya.
+
+He was elected as the Chief Custodian during a vote held at the Ratnapura District Secretariat today (20).
+
+◼️
+
+[Data](articles/d6f2bce1.json)
+
+---
+
 ### සබරගමුව මහ සමන් දේවාලයේ බස්නායක නිළමේ පත් කෙරේ
 
 *2025-08-20 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213580) · `si`
@@ -241,6 +353,28 @@ Named “Xavier 4.0” it is a mission-ready platform combining the power of the
 ◼️
 
 [Data](articles/b315436c.json)
+
+---
+
+### Lanka Salt Company reduces prices
+
+*2025-08-20 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111675/lanka-salt-company-reduces-prices-) · `en`
+
+The Lanka Salt Limited has announced a reduction in the prices of its iodized salt products.
+
+The Chairman of the company, Nandana Thilaka made this statement during a press conference held today.
+
+According to the announcement, the price of a 400-gram packet of iodized salt powder has been reduced by Rs. 20, while the price of a 1-kilogram packet has been lowered by Rs. 30.
+
+Accordingly, from next week, a 400g packet of salt powder will be sold at Rs. 100, a 1kg packet of salt powder at Rs. 200, and a 1kg packet of crystal salt at Rs. 150.
+
+Additionally, the Chairman noted that a 400g packet of salt powder produced by the company will also be available at Sathosa outlets for Rs. 90.
+
+He further explained that the price reduction was implemented to provide relief to the public.
+
+◼️
+
+[Data](articles/6f8ee492.json)
 
 ---
 
@@ -1609,159 +1743,5 @@ Israel believes that only 20 of the 50 hostages are still alive after 22 months 
 ...
 
 [Data](articles/7ab1b6ae.json)
-
----
-
-### Man Killed with blunt weapon in Peliyagoda
-
-*2025-08-20 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111657/man-killed-with-blunt-weapon-in-peliyagoda) · `en`
-
-An individual has been killed with the use of a blunt weapon in Wedamulla, Peliyagoda, police said.
-
-Accordingly, investigations have been launched based on a complaint received by the Peliyagoda Police Station last evening (19).
-
-Preliminary investigations have revealed that the murder occurred following an argument between the deceased and another individual, which escalated into violence.
-
-Peliyagoda Police are conducting further investigations to apprehend the suspect involved in the crime.
-
-◼️
-
-[Data](articles/7328cbca.json)
-
----
-
-### තැපැල් වර්ජනය තෙවන දිනටත්
-
-*2025-08-20 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213566) · `si`
-
-තැපැල් සේවකයින් ආරම්භ කළ අඛණ්ඩ වෘත්තීය ක්‍රියාමාර්ගය තෙවන අදිනටත් අද (20) දිනයේ ක්‍රියාත්මක කරන බව තැපැල් හා විදුලි සංදේශ නිලධාරීන්ගේ සංගමය පවසයි.
-
-එහි සභාපති ජී.ජී.සී. නිරෝෂණ මහතා සඳහන් කළේ, අමාත්‍යවරයා සමඟ විධිමත් සාකච්ඡාවක් ලබාදෙන ලෙස ඉල්ලා වර්ජනය ක්‍රියාත්මක කරන බවය.
-
-ඇඟිලි සලකුණු කිරීමේ යන්ත්‍රය ප්‍රතික්ශේෂ කිරීම සම්බන්ධයෙන් එල්ල වන චෝදනා සම්පූර්ණයෙන්ම අසත්‍ය බව ද ජී.ජී.සී. නිරෝෂණ මහතා පැවසීය.
-
-කෙසේ වෙතත් මේ සම්බන්ධයෙන් අදහස් දක්වන නියෝජ්‍ය තැපැල්පති චමීශා ද සිල්වා මහත්මිය පවසන්නේ, වර්ජනයට හේතුව ඇඟිලි සලකුණු කිරීමේ යන්ත්‍රය ක්‍රියාත්මක කිරීම බවය.
-
-◼️
-
-[Data](articles/4ac91a89.json)
-
----
-
-### ෆින්ලන්ත මන්ත්‍රීවරයෙකුගේ දේහය පාර්ලිමේන්තුව තුළදී හමුවෙයි
-
-*2025-08-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213565) · `si`
-
-ෆින්ලන්ත පාර්ලිමේන්තු මන්ත්‍රීවරයෙක්ගේ මෘතදේහය එරට පාර්ලිමේන්තු ගොඩනැගිල්ල තුළම තිබියදී හමුව තිබේ.
-
-මෙලෙස හමුවී ඇත්තේ 30 හැවිරිදි ඒමලි පෙල්ටොනන් නම් එරට සමාජවාදී ප්‍රජාතන්ත්‍රවාදී පක්ෂය නියෝජනය කරන මන්ත්‍රීවරයාගේ දේහයයි.
-
-උද්ගතවූ තත්ත්වය හමුවේ පාර්ලිමේන්තුවේ සියලු නිල කාර්යාල වසා දැමීමට නියෝග කර තිබේ.
-
-◼️
-
-[Data](articles/e225e10b.json)
-
----
-
-### Court orders report on unauthorised excavation in Anuradhapura involving wife of DIG
-
-*2025-08-20 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111656/court-orders-report-on-unauthorised-excavation-in-anuradhapura-involving-wife-of-dig-) · `en`
-
-The Anuradhapura Magistrate’s Court has ordered that an urgent report be submitted regarding the alleged unauthorised excavations carried out in Timbirigaskadawala in Sravasthipura, Anuradhapura, allegedly in search of hidden treasures. Among the suspects is the wife of a Deputy Inspector General (DIG) of Police.
-
-According to the Ada Derana court correspondent, Chief Magistrate Nalaka Sanjeewa Jayasuriya has issued this order to the Director General of Archaeology.
-
-It has been ordered to verify whether the land where the excavation took place—near a shrine—belongs to the Department of Archaeology and holds archaeological value, and to promptly submit the related archaeological report to the court.
-
-...
-
-[Data](articles/01228590.json)
-
----
-
-### DIG බිරිඳ ඇතුළු පිරිස නිධන් හෑරීමේ සිද්ධිය - වාර්තාවක් දෙන්නැයි නියෝගයක්
-
-*2025-08-20 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213564) · `si`
-
-නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරිඳ ඇතුළු සැකකරුවන් පිරිසක් අනුරාධපුර ශ්‍රාවස්තිපුර තිඹිරිගස්කඩවල ප්‍රදේශයේ නිධන් වස්තූන් ලබාගැනීමේ අරමුණින් අනවසරයෙන් සිදුකළ කැණීම් සම්බන්ධයෙන් කඩිනම් වාර්තාවක් ඉදිරිපත් කරන ලෙස අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
-
-'අද දෙරණ' අධිකරණ වාර්තාකරු සඳහන් කළේ, ප්‍රධාන මහෙස්ත්‍රාත් නාලක සංජීව ජයසූරිය මහතා පුරාවිද්‍යා අධ්‍යක්ෂ ජනරාල්වරයාට එම නියෝග නිකුත් කළ බවය.
-
-කැණීම සිදුකළ, දේවාලයක් ආසන්නයේ ගල් තාලාවක් සහිත ඉඩම පුරාවිද්‍යා වටිනාකමක් ඇති පුරාවිද්‍යා දෙපාර්තමේන්තුවට අයත් භූමියක්ද යන්න පරීක්ෂා කර බලා, ඊට අදාළ පුරාවිද්‍යා වාර්තාව නොපමාව අධිකරණයට ඉදිරිපත් කරන ලෙස නියෝග කර ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන් මුදාහරින ලෙස නියෝජ්‍ය පොලිස්තිපතිවරයෙකු බව කියන පුද්ගලයෙකු පොලිස් නිලධාරීන්ට දුරකථනයෙන් බලපෑම් කර ඇද්ද, යන්න අනාවරණ කර ගැනීමට සියලු සැකකරුවන්ගේ දුරකථන අංකවලට අදාළ විශ්ලේෂණ වාර්තා නොපමාව පොලීසියට ලබා දෙන ලෙසද අනුරාධපුර වැඩබලන මහෙස්ත්‍රාත් චන්දන වීරකෝන් මහතා සියලු දුරකථන සමාගම්වලට මීට පෙර නියෝග කර තිබුණි.
-
-...
-
-[Data](articles/8e2523bf.json)
-
----
-
-### පෑලියගොඩ මනුෂ්‍ය ඝාතනයක්
-
-*2025-08-20 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213563) · `si`
-
-පෑලියගොඩ, වෙදමුල්ල ප්‍රදේශයේදී පුද්ගලයෙකුට මොට ආයුධයකින් පහර දී ඝාතනය කර ඇති බව පොලීසිය පවසයි.
-
-ඊයේ (19) සවස් කාලයේ දී මේ සම්බන්ධයෙන් පෑලියගොඩ පොලිස් ස්ථානයට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර ඇත.
-
-ඝාතනයට ලක්ව ඇත්තේ, වයස අවුරුදු 46ක් වූ වෙදමුල්ල, කැලණිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මියගිය පුද්ගලයා හා තවත් පුද්ගලයෙකු අතර ඇති වූ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් ඝාතනය සිදුව ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
-
-මෘත ශරීරය කොළඹ පොලිස් මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, අපරාධයට සම්බන්ධ සැකකරු අත්අඩංගුවට ගැනීම සඳහා පෑලියගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/959e451e.json)
-
----
-
-### Sri Lanka renewable power tops 64-pct in May 2025
-
-*2025-08-20 06:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-renewable-power-tops-64-pct-in-may-2025-237386/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s renewable power, helped by state-run Ceylon Electricity Board, hydro power and new private renewable power including rooftop solar topped 64.4 percent in May 2025, sharply up from 48.3 percent a year ago, official data showed.
-
-Out of a total of 1,531 GigaWatt hours of energy generated in May 2025, 986 GWh came from renewables, data published by the central bank showed.
-
-CEB’s hydro generation rose to 575 GWh up 44.7 percent from a year earlier, helped by good rainfall while fuel oil generation dropped from 208 to 35 GWh.
-
-Private non-conventional renewable energy grew to 367 GWh in May 2025 from 258 GWh last year.
-
-Total renewable energy grew by 43 percent to 986 GWh in May.
-
-In April where rains also improved, renewable energy was 809 GWh, or a share of 57 percent, up from 41 percent from last year.
-
-...
-
-[Data](articles/dcbc0204.json)
-
----
-
-### වසර 113ක් පැරණි කිරුනා දෙව්මැඳුර කිලෝමීටර 5ක් දුර නව ගොඩනැගිල්ලක් වෙත
-
-*2025-08-20 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213562) · `si`
-
-ස්වීඩනයේ පිහිටි ඓතිහාසික වටිනාකමකින් යුතු කිරුනා දෙව් මැඳුර වෙනත් ස්ථානයක් කරා ගෙනයාමට එහි බලධාරීන් පියවර ගෙන තිබේ.
-
-වසරේ වැඩිකාලයක් හිමෙන් වැසී ඇති කලාපයක පිහිටා ඇති මෙම කිරුනා දෙව් මැඳුර මෙලෙස රැගෙන යනු ලබන්නේ ඊට කිලෝමීටර් 5ක් දුරින් පිහිටි නව නගර ගොඩනැගිල්ල වෙතය.
-
-දැවෙන් ඉදිකෙරුණු කිරුනා දෙව් මැඳුර වසර 113ක් පැරණි වන අතර, එය රැගෙනයාමේ වෙහෙසකර කටයුත්ත වසර ගණනක සැලසුමක් අනුව සිදුවන්නකි.
-
-පැයකට මීටර් 500ක උපරිම වේගයෙන් රැගෙන යමින් ඇති මෙම දෙව් මැඳුර පිහිටි ගොඩනැගිල්ල රැගෙනයාම සඳහා දින දෙකක් ගත වෙතැයි අපේක්ෂිතය.
-
-කිරුනා දේවස්ථානය මෙලෙස වෙනත් තැනක් වෙත රැගෙන යන්නේ, එය පිහිටි භූමියේ අස්ථාවරත්වය හේතුවෙනි.
-
-එහි භූමිය අස්ථාවර වී ඇත්තේ, කලාපයේ දශක ගණනාවක් සිදුවූ යපස් කැණීම් නිසා බව පැවසේ.
-
-මීටර් 35ක් උස සහ මීටර් 40ක් පළල් වූ කිරුනා දේවස්ථානය බරින් ටොන් 672ක් වේ.
-
-ස්වීඩනයේ පිහිටි 1950 වසරට පෙර ඉදිකළ සුන්දරම ගොඩනැගිල්ල ලෙසද වරෙක එය තේරීපත්වුණි.
-
-◼️
-
-[Data](articles/b2e7ce01.json)
 
 ---

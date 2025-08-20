@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 16:33:18**
+As of **2025-08-20 16:49:04**
 
 ## Newspaper Stats
 
-*Scraped **71,384** Articles*
+*Scraped **71,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,020
+dailyftlk | 5,023
 adalk | 6,864
 adaderanalk | 8,991
 tamilmirrorlk | 10,499
 virakesarilk | 11,818
-adaderanasinhalalk | 12,333
+adaderanasinhalalk | 12,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,384 articles have been extended.
+61,973 (86.8%) of 71,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Sri Lanka moves to expand labour migration opportunities, woo Singaporean investment
+
+*2025-08-20 16:32:27* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-moves-to-expand-labour-migration-opportunities-woo-Singaporean-investment/56-780503) · `en`
+
+Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando holds high-level meetings with Singaporean State Ministers
+
+Meets State Minister of Manpower Dinesh Vasu Dash and State Minister of Trade and Industry, and National Development Alvin Tan
+
+Discussions focus on worker protection, skills recognition, training, and new job avenues in hospitality, healthcare, and manufacturing
+
+Minister Dash affirms Singapore’s interest in engaging with SL to attract skilled workers
+
+CBSL Governor Dr. Nandalal Weerasinghe briefs on financial stability, green financing, and recovery framework
+
+Sri Lanka is stepping up efforts to diversify overseas employment opportunities and attract greater foreign investment, with Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando leading high-level talks in Singapore last week.
+
+...
+
+[Data](articles/38e28e36.json)
+
+---
+
+### OrphanCare unveils inaugural Impact Report
+
+*2025-08-20 16:30:51* · [`dailyftlk`](https://www.ft.lk/news/OrphanCare-unveils-inaugural-Impact-Report/56-780502) · `en`
+
+OrphanCare Deputy Head Marshad Barry (right) handing over the Impact Report to Board of Trustees Chairman Ruzly Hussain, K.R. Ravindran, Harsha Amarasekera, PC, Jazri Magdon Ismail, Tyeab Akbarally, Mohamed Azmeer, and Sharad Amalean. Amana Bank Head of Marketing and Corporate Communications Azim Rali and OrphanCare Impact Officer Mohamed Amjad are also present
+
+Delivers transformative support for over 3,200 orphans across Sri Lanka
+
+OrphanCare recently unveiled its inaugural Impact Report, highlighting the transformative difference it has made in the lives of orphaned children across Sri Lanka.
+
+The report sheds light on a vital yet often neglected issue: securing the future of orphans once they reach the age of 18 and are compelled to leave institutional care. With a strong focus on preventing a “second abandonment,” OrphanCare through its Impact Report reaffirms its commitment to helping these young adults stepping into adulthood with dignity, stability, and opportunity.
+
+...
+
+[Data](articles/8e127fb9.json)
+
+---
+
+### Dialog introduces unlimited speed-based fibre plans for seamless internet access
+
+*2025-08-20 16:28:20* · [`dailyftlk`](https://www.ft.lk/news/Dialog-introduces-unlimited-speed-based-fibre-plans-for-seamless-internet-access/56-780501) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s No. 1 connectivity provider, introduces truly unlimited, speed-based broadband packages with no Fair Usage Policy (FUP) restrictions, underscoring its commitment to delivering seamless digital experiences and empowering customers with unrestricted internet access through its advanced Dialog Fibre network.
+
+In a groundbreaking move that redefines home connectivity, Dialog has launched a suite of new postpaid speed-based fibre packages offering unrestricted, truly unlimited data usage. Unlike traditional broadband plans that apply Fair Usage Policies—commonly used to reduce speeds after reaching a data threshold—this marks Sri Lanka’s first truly unlimited fibre broadband offering, delivering consistent, high-speed internet with no throttling, quota constraints, slowdowns, data caps, or hidden limits, ensuring customers receive a seamless and uninterrupted online experience.
+
+...
+
+[Data](articles/471ec8b3.json)
+
+---
+
+### මුම්බායි හි අධික වර්ෂාව හේතුවෙන් ජන ජීවිතය අඩාල වෙයි
+
+*2025-08-20 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213583) · `si`
+
+ඉන්දියාවේ මූල්‍ය අගනුවර වන මුම්බායි හි අයහපත් කාලගුණය හේතුවෙන් මිලියන සංඛ්‍යාත ජනතාවකගේ ජන ජීවිත අඩාල වී ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා සඳහන් කර සිටියේ, මුම්බායි හි මාර්ග රැසක් ජලයෙන් යට වී ඇති බවත්, ගුවන්ගමන් සහ දුම්රිය සේවා අවලංගු කිරීමට සිදුව ඇති බවය.
+
+නගරයට සහ එහි අසල්වැසි දිස්ත්‍රික්කවලට රතු අනතුරු ඇඟවීම් නිකුත් කර ඇති අතර, අද (20) දිනයේ දී තවදුරටත් තද වැසි ඇතිවන බවට ඉන්දීය කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කර තිබේ.
+
+ගෙවුණු දින හතරක කාලය තුළ මුම්බායි නගරයට මිලිමීටර් 800ක වර්ෂාපතනයක් ලැබී ඇති අතර, එය මෙම මාසයේ නගරයට ලැබෙන සාමාන්‍ය වර්ෂාවට වඩා අධික බව විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+නමුත් ඉදිරි දින කිහිපයේ දී මෙම තත්ත්වය යහපත් වනු ඇති බවට ඉන්දීය කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පුරෝකථනය කර ඇත.
+
+කෙසේ වෙතත් පසුගිය දින හතර තුළ මුම්බායි නුවර ඇතුළුව මහාරාෂ්ට්‍ර ප්‍රාන්තය තුළ වැසි ආශ්‍රිත අනතුරු හේතුවෙන් පුද්ගලයින් 21 දෙනෙකුට දිවි අහිමි වී තිබේ.
+
+◼️
+
+[Data](articles/26b905ef.json)
+
+---
 
 ### Price of Palestinian resistance
 
@@ -1641,87 +1717,5 @@ The cabinet has approved seeking international interest to revive it as a public
 ◼️
 
 [Data](articles/b8932b70.json)
-
----
-
-### At least 71 die in bus crash involving Afghans deported from Iran
-
-*2025-08-20 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111664/at-least-71-die-in-bus-crash-involving-afghans-deported-from-iran) · `en`
-
-A passenger bus carrying migrants recently returned from Iran has collided with a truck and a motorcycle in western Afghanistan, killing 71 people.
-
-Among the people killed were 17 children, provincial government spokesperson Ahmadullah Muttaqi said.
-
-Police in Herat province said the accident was caused due to the bus’s “excessive speed and negligence” on a road outside Herat city in Guzara district.
-
-The bus was carrying Afghans recently returned from Iran and en route to the capital, Kabul, provincial governor spokesperson Mohammad Yousuf Saeedi told AFP.
-
-A massive wave of Afghans has returned from Iran in recent months after Tehran initiated a pressure campaign to force millions of migrants to leave.
-
-More than 1.6 million people have returned to Afghanistan since the start of this year from Iran and Pakistan, which have long hosted millions of Afghans fleeing decades of war and humanitarian crises, according to the United Nations migration agency.
-
-...
-
-[Data](articles/feec0fa4.json)
-
----
-
-### බස්රථ අනතුරකින් 73 දෙනෙකු මියයයි
-
-*2025-08-20 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213572) · `si`
-
-බටහිර ඇෆ්ගනිස්ථානයේ සිදුවූ බස්රථ අනතුරකින් පුද්ගලයින් 73 දෙනෙකු මියගොස් ඇති අතර ඉන් 17 දෙනෙකු කුඩා ළමුන් බව විදෙස් මාධ්‍ය පවසයි.
-
-කාබුල් බලා යමින් සිටි බස් රථය ඊයේ (19) රාත්‍රියේ හේරාත් පළාතේදී ට්‍රක් රථයක සහ යතුරුපැදියක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
-
-අනතුර සිදුවීමෙන් අනතුරුව බස් රථය ගිනි ගැනීමකට ද ලක්වූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-බස්රථයේ ගමන් ගත් මගීන්ගෙන් වැඩි දෙනෙකු ඉරානයෙන් පිටුවහල් කරන ලද ඇෆ්ගන් සංක්‍රමණිකයන් බව සඳහන්ය.
-
-බස්රථයේ සිටි මගීන් සියලුදෙනාම මිය ගොස් ඇති අතර ට්‍රක් රථයේ සහ යතුරුපැදියේ පැමිණි දෙදෙනෙකු ද මිය ගොස් ඇත.
-
-හේරාත් පොලීසිය පවසන ලද්දේ බස්රථ රියදුරුගේ අධික වේගය සහ නොසැලකිල්ල හේතුවෙන් අනතුර සිදු වූ බවය.
-
-◼️
-
-[Data](articles/19dcbfe8.json)
-
----
-
-### முன்னாள் அமைச்சர் மனுஷ சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவில் ஆஜர் !
-
-*2025-08-20 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/222913) · `ta`
-
-முன்னாள் அமைச்சர் மனுஷ நாணயக்கார, குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்து விசாரணைப் பிரிவில் இன்று (ஆகஸ்ட் 20) ஆஜராகியுள்ளார்.
-
-சட்டவிரோத சொத்துக்கள் மற்றும் பணமோசடி குற்றச்சாட்டுகள் தொடர்பில் அவரிடம் வாக்குமூலம் பெறுவதற்காகவே அவர் அழைக்கப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
-
-அண்மைக்காலமாக, முன்னாள் மற்றும் தற்போதைய அமைச்சர்கள் உட்பட 28 அரசியல் பிரமுகர்களின் சட்டவிரோத சொத்துக்கள் குறித்து விசாரணையை குற்றப் புலனாய்வுத் திணைக்களம் (CID), ஆரம்பித்துள்ளது.
-
-இதன் தொடர்ச்சியாகவே முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவிடம் விசாரணை நடத்தப்படுகிறது. குறிப்பாக, சட்டவிரோதமாக ஆடம்பரமான சொத்துக்களை, வாங்கியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பாக இந்த விசாரணை இடம்பெறுவதாக கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/f3708d22.json)
-
----
-
-### පාකිස්තාන ක්‍රිකට් ආයතනයෙන් දැඩි තීරණයක්
-
-*2025-08-20 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213571) · `si`
-
-පාකිස්තාන ක්‍රිකට් කණ්ඩායම ලද පරාජයන් හමුවේ පාකිස්තාන ක්‍රිකට් ආයතනය දැඩී තීරණයක් ගෙන තිබේ.
-
-ඒ 2025 -2026 වසර සඳහා පාකිස්තාන කිසිඳු ක්‍රිකට් ක්‍රීඩකයෙක්ට  A ශ්‍රේණියේ කොන්ත්‍රාත්තුව ලබා නොදීමටය.
-
-පසුගිය වසරේදී A කාණ්ඩයේ කොන්ත්‍රාත්තුව හිමිව තිබුණේ බාබර් අසාම් සහ මොහොමඩ් රිස්වාන්ට.
-
-පසුගිය වසරේදී B කාණ්ඩ කොන්ත්‍රාත්තුවේ සිටි පාකිස්තාන ටෙස්ට් නායක ෂාන් මසූඩ්ට D කාණ්ඩය දක්වා පහත දමා තිබේ.
-
-මේ අතර නඩු කටයුත්තක් හේතුවෙන්  වසර 8ක් පමණ මධ්‍යම කොන්ත්‍රාතුව අහිමිවූ ෆකාර් සමාන්ට මෙම වසරේදී B කාණ්ඩයෙන් කොන්ත්‍රාත්ව හිමිවුණි.
-
-◼️
-
-[Data](articles/19595228.json)
 
 ---

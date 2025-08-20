@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 16:21:40**
+As of **2025-08-20 16:33:18**
 
 ## Newspaper Stats
 
-*Scraped **71,381** Articles*
+*Scraped **71,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 729
 economynextcom | 4,362
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,019
+dailyftlk | 5,020
 adalk | 6,864
-adaderanalk | 8,989
+adaderanalk | 8,991
 tamilmirrorlk | 10,499
 virakesarilk | 11,818
 adaderanasinhalalk | 12,333
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,381 articles have been extended.
+61,973 (86.8%) of 71,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### Price of Palestinian resistance
+
+*2025-08-20 16:10:50* · [`dailyftlk`](https://www.ft.lk/columns/Price-of-Palestinian-resistance/4-780497) · `en`
+
+Anas Jamal al-Sharif, son of Gaza, child of the Jabaliya refugee camp, father of Sham and Salah, was killed last week in a targeted strike by Israel
+
+The industrial machinery unleashed on the Palestinians in the Gaza strip by Israel and the West have harvested 60,000 lives so far. This official number is dwarfed by the estimates of the bodies entombed under the field of rubble that Gaza has been transformed into. As many as half a million Palestinians appear to be missing, apparently “spirited away” to some other realm, as Theodor Herzl, the founder of Zionism, envisioned. The method this time around might not be exactly what he had in mind, but the effect is undeniably the same.
+
+...
+
+[Data](articles/370fde80.json)
+
+---
 
 ### Making sense of Curricular Reforms 2025
 
@@ -94,15 +108,15 @@ In ’20, few of us – concerned and empathic alumni and parents – launched a
 
 ### முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது
 
-*2025-08-20 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/222949) · `ta`
+*2025-08-20 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222949) · `ta`
 
-2022 ஆம் ஆண்டு காலி முகத்திடலில் அமைதியான முறையில் ஆர்ப்பாட்டத்தில் ஈடுப்பட்டவர்களை தாக்கியவர்களுக்கு உதவிய குற்றச்சாட்டின் பேரில், தேசபந்து தென்னகோன் தனது கடமைகளைச் செய்யத் தவறியமையினால் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+2022 ஆம் ஆண்டு கொழும்பு, காலி முகத்திடலில் அமைதியான முறையில் ஆர்ப்பாட்டத்தில் ஈடுப்பட்டவர்களை தாக்கியவர்களுக்கு உதவிய குற்றச்சாட்டின் பேரில், தேசபந்து தென்னகோன் தனது கடமைகளைச் செய்யத் தவறியமையினால் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
 
 இன்று புதன்கிழமை (20) தென்னகோன் கைது செய்யப்படுவதைத் தடுக்க உத்தரவிடக் கோரி அவர் சார்பில் தாக்கல் செய்யப்பட்ட முன் பிணை மனுவை கொழும்பு கோட்டை நீதவான் நீதிமன்றம் நிராகரித்தது.
 
 முன்னாள் பொலிஸ் மா அதிபரின் சட்டதரணிகளால் தாக்கல் செய்யப்பட்ட பிணை மனுவை இன்று புதன்கிழமை (20) காலை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர பரிசீலித்தார்.
 
-அதன்படி, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கோரிய முன் பிணை  மனுவை  நீதவான் நிராகரித்தமை குறிப்பிடத்தக்கது.
+அதன்படி, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கோரிய முன் பிணை  மனுவை  நீதவான் நிராகரித்தார் இந்நிலையிலேயே, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது செய்யப்பட்டுள்ளார்.
 
 ◼️
 
@@ -223,6 +237,28 @@ Rebuilding roads, hospitals, and schools costs billions. Governments often raise
 ◼️
 
 [Data](articles/44686b5c.json)
+
+---
+
+### Former IGP Deshabandu Tennakoon arrested
+
+*2025-08-20 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111679/former-igp-deshabandu-tennakoon-arrested-) · `en`
+
+Former Inspector General of Police (IGP) Deshabandu Tennakoon has been arrested by the Criminal Investigation Department (CID).
+
+The former police chief has been arrested by a team of CID officers at his residence in Mirihana.
+
+He has reportedly been arrested in connection with investigations into the attack carried out on the ‘Aragalaya’ protest movement on May 09, 2022, at the Galle Face Green in Colombo.
+
+Earlier today, the Colombo Fort Magistrate’s Court rejected an anticipatory bail application filed on behalf of Tennakoon, which sought an order to prevent his impending arrest.
+
+The bail application, filed by attorneys representing the former IGP, was considered by Colombo Fort Magistrate Nilupuli Lankapura this morning (20).
+
+Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected by the Magistrate.
+
+◼️
+
+[Data](articles/a2745298.json)
 
 ---
 
@@ -499,6 +535,20 @@ He was elected as the Chief Custodian during a vote held at the Ratnapura Distri
 ◼️
 
 [Data](articles/d6f2bce1.json)
+
+---
+
+### Ishan Sanka Mapitigama elected Basnayake Nilame of Sabaragamuwa Maha Saman Devalaya
+
+*2025-08-20 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111676/ishan-sanka-mapitigama-elected-basnayake-nilame-of-sabaragamuwa-maha-saman-devalaya) · `en`
+
+Ishan Sanka Mapitigama has been elected as the Basnayake Nilame of the Sabaragamuwa Maha Saman Devalaya.
+
+He was elected as the Chief Custodian during a vote held at the Ratnapura District Secretariat today (20).
+
+◼️
+
+[Data](articles/fb49b018.json)
 
 ---
 
@@ -1673,75 +1723,5 @@ More than 1.6 million people have returned to Afghanistan since the start of thi
 ◼️
 
 [Data](articles/19595228.json)
-
----
-
-### Sri Lanka waiting for international BESS tender for market battery price
-
-*2025-08-20 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-waiting-for-international-bess-tender-for-market-battery-price-237404/) · `en`
-
-ECONOMYNEXT – Sri Lanka is waiting for the completion of an international tender for a 160MW/640MWh) battery energy storage system (BESS) to ascertain market costs, Energy Minister Kumara Jayakody said.
-
-“When the tender is completed, we will be able to see what the actual price we will get for battery storage,” Minister Jayakody told reporters.
-
-“That is international competitive tender and we will be able to get a good price.”
-
-The Ceylon Electricity Board is offering 45.80 rupees as a feed in tariff (a calculate tariff with no competitive tender) on a calculated cost for renewable energy stored and delivered during the night peak of 630 to 1030 pm for which thermal fuel and large hydros are used.
-
-Sri Lanka will review the battery price electricity price next year after watching the competitive bid, he said.
-
-“The cost we get when calculate number and what comes practically (from the market) as a price are two things,” he explained.
-
-...
-
-[Data](articles/100a6294.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields edge up on mid tenors
-
-*2025-08-20 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-on-mid-tenors-237412/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.60/75 to the US dollar in the spot market Wednesday, weaker from 301.55/70 the previous day, while bond yields edged up on the medium tenors, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.05/15 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.45/55 percent.
-
-A bond maturing on 15.12.2028 was quoted at 8.90/9.00 percent, up from 8.90/92 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.42/48 percent, up from 9.41/46 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.20/28 percent, up from 10.22/27 percent
-
-A bond maturing on 01.06.2033 was quoted at 10.60/67 percent.
-
-The Colombo Stocks Exchange was trading in green: The ASPI was up 0.78 percent, or 160.35 points, at 20,731.42; the S&P SL20 was up 1.18 percent, or 71.35 points, at 6,127.27.
-
-...
-
-[Data](articles/89607ed4.json)
-
----
-
-### Over 1,300 driving licenses issued to foreign nationals at BIA
-
-*2025-08-20 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111663/over-1300-driving-licenses-issued-to-foreign-nationals-at-bia-) · `en`
-
-A total of 1,338 driving licenses have been issued to foreign nationals by the Department of Motor Traffic (DMT) office established at the Bandaranaike International Airport (BIA) in Katunayake since its opening.
-
-The dedicated license issuance counter, set up on August 3, was introduced for the convenience of foreigners visiting Sri Lanka.
-
-Previously, foreign tourists were required to visit the DMT office in Werahera to obtain driving licenses.
-
-According to the Department, a total of 1,338 licenses were issued between August 3 and 17, with the highest number recorded on August 7.
-
-Meanwhile, the National Tourist Drivers’ Association has expressed strong opposition to this initiative, arguing that issuing licenses to foreign nationals for as little as Rs. 2,000 poses a serious threat to the livelihood of professional tourist drivers.
-
-Association representative Amila Koralage stated that the move has created significant injustice for those engaged in the profession.
-
-◼️
-
-[Data](articles/e0512745.json)
 
 ---

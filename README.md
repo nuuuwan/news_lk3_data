@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 08:04:54**
+As of **2025-08-20 08:42:58**
 
 ## Newspaper Stats
 
-*Scraped **71,259** Articles*
+*Scraped **71,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 4,998
 adalk | 6,854
-adaderanalk | 8,966
+adaderanalk | 8,972
 tamilmirrorlk | 10,463
-virakesarilk | 11,809
-adaderanasinhalalk | 12,315
+virakesarilk | 11,810
+adaderanasinhalalk | 12,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (87.0%) of 71,259 articles have been extended.
+61,973 (87.0%) of 71,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### සෞඛ්‍ය පුරප්පාඩු බඳවා ගැනීම් නවතී - දෙස් විදෙස් නිවාඩුත් අවලංගුයි
+
+*2025-08-20 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213567) · `si`
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ කාර්ය මණ්ඩලය නිවාඩු ලබාගැනීම හේතුවෙන් අමාත්‍යාංශයේ රාජකාරී ස්වභාවය මත අත්‍යවශ්‍ය වූ රාජකාරී අඛණ්ඩව පවත්වාගෙන යෑමට අපහසු වී ඇති බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+ඒ අනුව විදේශීය සහ දේශීය නිවාඩු අනුමත කිරීම නැවත දැනුම් දෙනතුරු තාවකාලිකව නතර කිරීමට සෞඛ්‍ය අමාත්‍යාංශය තීරණය කර ඇත.
+
+අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා විසින් චක්‍රලේඛයක් නිකුත් කරමින් මේ බව සඳහන් කර තිබේ.
+
+එමෙන්ම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ පුරප්පාඩු තනතුරු සියල්ල සඳහා නවක නිලධාරීන් බඳවා ගැනීම ද සීමා කර ඇතැයි අදාළ චක්‍රලේඛය මඟින් දැනුම්දී ඇත.
+
+කෙසේවෙතත් මෙම නව චක්‍රලේඛය සම්බන්ධයෙන් රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය වෙත ලිපියක් යොමු කරමින් ශ්‍රී ලංකා නිදහස් සෞඛ්‍ය සේවා සංගමය පෙන්වා දෙන්නේ අදාළ විදේශීය නිවාඩු ලබාගැනීමට ආයතන සංග්‍රහයෙන් ලබාදී තිබෙන ප්‍රතිපාදන සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයා විසින් නිකුත් කර ඇති චක්‍රලේඛය තුළින් අහිමි කර ඇති බවය.
+
+...
+
+[Data](articles/e368ff9c.json)
+
+---
+
+### තැපැල් වර්ජනය තෙවන දිනටත්
+
+*2025-08-20 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213566) · `si`
+
+තැපැල් සේවකයින් ආරම්භ කළ අඛණ්ඩ වෘත්තීය ක්‍රියාමාර්ගය තෙවන අදිනටත් අද (20) දිනයේ ක්‍රියාත්මක කරන බව තැපැල් හා විදුලි සංදේශ නිලධාරීන්ගේ සංගමය පවසයි.
+
+එහි සභාපති ජී.ජී.සී. නිරෝෂණ මහතා සඳහන් කළේ, අමාත්‍යවරයා සමඟ විධිමත් සාකච්ඡාවක් ලබාදෙන ලෙස ඉල්ලා වර්ජනය ක්‍රියාත්මක කරන බවය.
+
+ඇඟිලි සලකුණු කිරීමේ යන්ත්‍රය ප්‍රතික්ශේෂ කිරීම සම්බන්ධයෙන් එල්ල වන චෝදනා සම්පූර්ණයෙන්ම අසත්‍ය බව ද ජී.ජී.සී. නිරෝෂණ මහතා පැවසීය.
+
+කෙසේ වෙතත් මේ සම්බන්ධයෙන් අදහස් දක්වන නියෝජ්‍ය තැපැල්පති චමීශා ද සිල්වා මහත්මිය පවසන්නේ, වර්ජනයට හේතුව ඇඟිලි සලකුණු කිරීමේ යන්ත්‍රය ක්‍රියාත්මක කිරීම බවය.
+
+◼️
+
+[Data](articles/4ac91a89.json)
+
+---
+
+### ෆින්ලන්ත මන්ත්‍රීවරයෙකුගේ දේහය පාර්ලිමේන්තුව තුළදී හමුවෙයි
+
+*2025-08-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213565) · `si`
+
+ෆින්ලන්ත පාර්ලිමේන්තු මන්ත්‍රීවරයෙක්ගේ මෘතදේහය එරට පාර්ලිමේන්තු ගොඩනැගිල්ල තුළම තිබියදී හමුව තිබේ.
+
+මෙලෙස හමුවී ඇත්තේ 30 හැවිරිදි ඒමලි පෙල්ටොනන් නම් එරට සමාජවාදී ප්‍රජාතන්ත්‍රවාදී පක්ෂය නියෝජනය කරන මන්ත්‍රීවරයාගේ දේහයයි.
+
+උද්ගතවූ තත්ත්වය හමුවේ පාර්ලිමේන්තුවේ සියලු නිල කාර්යාල වසා දැමීමට නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/e225e10b.json)
+
+---
+
+### Court orders report on unauthorised excavation in Anuradhapura involving wife of DIG
+
+*2025-08-20 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111656/court-orders-report-on-unauthorised-excavation-in-anuradhapura-involving-wife-of-dig-) · `en`
+
+The Anuradhapura Magistrate’s Court has ordered that an urgent report be submitted regarding the alleged unauthorised excavations carried out in Timbirigaskadawala in Sravasthipura, Anuradhapura, allegedly in search of hidden treasures. Among the suspects is the wife of a Deputy Inspector General (DIG) of Police.
+
+According to the Ada Derana court correspondent, Chief Magistrate Nalaka Sanjeewa Jayasuriya has issued this order to the Director General of Archaeology.
+
+It has been ordered to verify whether the land where the excavation took place—near a shrine—belongs to the Department of Archaeology and holds archaeological value, and to promptly submit the related archaeological report to the court.
+
+...
+
+[Data](articles/01228590.json)
+
+---
 
 ### DIG බිරිඳ ඇතුළු පිරිස නිධන් හෑරීමේ සිද්ධිය - වාර්තාවක් දෙන්නැයි නියෝගයක්
 
@@ -96,6 +166,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Air Canada to resume flights after pay deal struck with union
+
+*2025-08-20 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111655/air-canada-to-resume-flights-after-pay-deal-struck-with-union) · `en`
+
+Flight crew at Air Canada have ended a dispute with the airline which had grounded flights and stranded thousands of passengers since Saturday.
+
+A tentative agreement was announced by the union representing flight attendants and confirmed by the airline, which said flights will resume later on Tuesday.
+
+More than 10,000 staff had walked out in protest at pay and scheduling. The deal has not been disclosed in full, though the union said it achieves “transformational change” for workers and the industry.
+
+The agreement will now be presented to members to be ratified.
+
+The breakthrough came nine hours after talks began with the help of an approved mediator appointed by the government.
+
+“Unpaid work is over,” said the Canadian Union of Public Employees (CUPE) in a statement early on Tuesday, calling the negotiations a “historic fight” for the industry.
+
+The union also advised its members to “fully co-operate with resumption of operations”.
+
+...
+
+[Data](articles/bb34eb0b.json)
+
+---
+
+### Sri Lanka Aviation Unit honoured for outstanding service in MINUSCA
+
+*2025-08-20 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111654/sri-lanka-aviation-unit-honoured-for-outstanding-service-in-minusca) · `en`
+
+The Sri Lanka Aviation Unit in Bria, serving under the United Nations mandate in the Central African Republic (MINUSCA), has received high praise and official commendation for the successful execution of a high-risk Casualty Evacuation (CASEVAC) mission.
+
+Further, another commendation received to the unit, headed by the 10th Aviation Contingent Commander, Group Captain Uditha De Silva for the outstanding commitment, conscientiousness and professional expertise in providing critical air support, contributing significantly to the success of the mission.
+
+The mission, carried out in a highly hostile and unpredictable operational environment, involved the urgent evacuation of three severely wounded UN personnel from Zemio. The operation was conducted using an Mi-17 helicopter (UNO 326P) and required precision flying, quick decision-making and exceptional teamwork under extreme pressure.
+
+...
+
+[Data](articles/a042261f.json)
+
+---
+
 ### ප්‍රදේශ රැසකට වැසි රහිත කාලගුණයක්
 
 *2025-08-20 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213560) · `si`
@@ -109,6 +219,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d2f08ef2.json)
+
+---
+
+### “Suwa Seriya” ambulances to be increased from 272 to 400
+
+*2025-08-20 05:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111653/suwa-seriya-ambulances-to-be-increased-from-272-to-400) · `en`
+
+A review of the projects implemented under the 2025 budgetary allocations for the Ministry of Health and Mass Media, together with a pre-budget discussion for the year 2026, was held yesterday (19) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
+
+The discussion broadly scrutinized the allocations made for 41 institutions under four departments of the Ministry of Health and Mass Media, as well as the progress of projects implemented accordingly.
+
+The President instructed officials to focus special attention in the upcoming budget on strengthening primary healthcare services. He also reviewed the ongoing programme for developing Primary Health Centres. It was revealed that currently one Primary Health Centre operates per 30,000 people; the plan is to improve one centre per 10,000 people.
+
+...
+
+[Data](articles/83faaed2.json)
+
+---
+
+### India, China agree to resume direct flights, boost business links
+
+*2025-08-20 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111652/india-china-agree-to-resume-direct-flights-boost-business-links) · `en`
+
+India and China agreed on Tuesday (Aug 19) to resume direct flights and step up trade and investment flows as the neighbours rebuild ties damaged by a deadly border clash in 2020.
+
+The announcements followed Chinese Foreign Minister Wang Yi’s two-day visit to New Delhi for the 24th round of border talks with India’s National Security Advisor Ajit Doval. The talks addressed troop deployments, delimitation of borders and boundary management, though no breakthrough was achieved.
+
+Beijing said both countries agreed to meet again in China in 2026.
+
+The two sides said they would restore direct flights suspended since the COVID-19 pandemic, ease visas and boost trade and investment. No date was given for when flights would resume.
+
+“Stable, predictable, constructive ties between India and China will contribute significantly to regional as well as global peace and prosperity,” Prime Minister Narendra Modi posted on X after meeting Wang.
+
+...
+
+[Data](articles/7482e932.json)
+
+---
+
+### Few showers expected in parts of the country today
+
+*2025-08-20 05:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111651/few-showers-expected-in-parts-of-the-country-today-) · `en`
+
+A few showers can be expected in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara Eliya, Galle and Matara districts today (20), the Department of Meteorology said.
+
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills, according to the Met. Department.
+
+◼️
+
+[Data](articles/78f7dd72.json)
 
 ---
 
@@ -851,6 +1011,18 @@ He said once a discussion is held with the Minister to discuss their demands, th
 ◼️
 
 [Data](articles/71193aa9.json)
+
+---
+
+### நிகழ்நிலைக்காப்புச் சட்டம் அரசுக்கு ஒரு அக்னிப்பரீட்சை
+
+*2025-08-19 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/222881) · `ta`
+
+“நிகழ்நிலை காப்புச் சட்டத்தினை மீளப்பெற வேண்டும் என்று எதிர்க்கட்சி ஆசனத்தில் அமர்ந்த கூறிய அநுரகுமார அரசாங்கம் ஆட்சிப்பீடத்தில் அமர்ந்திருந்து அச்சட்டத்தினை திருத்தம் செய்ய முயல்கின்றமையானது முரண்நகை”
+
+◼️
+
+[Data](articles/355b64e1.json)
 
 ---
 
@@ -1645,187 +1817,5 @@ The Deputy Minister stated, “Currency notes printing is carried out according 
 ...
 
 [Data](articles/d21df9fb.json)
-
----
-
-### Sri Lanka’s Agstar sells export unit for Rs35.3mn
-
-*2025-08-19 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-agstar-sells-export-unit-for-rs35-3mn-237242/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Agstar Plc said it had divested its entire shareholding of 4,500,000 ordinary shares in Agstar Exports (Pvt) Ltd for 35.3 million rupees.
-
-The buyers are Dassanayake Epage Prasanna Sampath Dassanayake and Nawarathne Mudiyanselage Kapugedara Ishara Thilini Nawarathne, the company said in a stock exchange filing.
-
-Agstar is part of the Browns group, which is part of LOLC Holdings.
-
-Agstar voting stock was trading up 10 cents at 8.40 rupees. (Colombo/Aug19/2025)
-
-◼️
-
-[Data](articles/2c23f219.json)
-
----
-
-### Sri Lanka’s Agstar sells export unit for Rs35.3mn
-
-*2025-08-19 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-agstar-sells-subsidiary-agstar-exports-for-rs35-3mn-237242/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Agstar Plc said it had divested its entire shareholding of 4,500,000 ordinary shares in Agstar Exports (Pvt) Ltd for 35.3 million rupees.
-
-The buyers are Dassanayake Epage Prasanna Sampath Dassanayake and Nawarathne Mudiyanselage Kapugedara Ishara Thilini Nawarathne, the company said in a stock exchange filing.
-
-Agstar is part of the Browns group, which is part of LOLC Holdings.
-
-Agstar voting stock was trading up 10 cents at 8.40 rupees. (Colombo/Aug19/2025)
-
-◼️
-
-[Data](articles/fc52f9e6.json)
-
----
-
-### Man injured in shooting incident reported in Peliyagoda
-
-*2025-08-19 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111621/man-injured-in-shooting-incident-reported-in-peliyagoda) · `en`
-
-A shooting incident was reported along the Gnanarathana Mawatha in Peliyagoda, this morning (19), police said.
-
-The suspects, who arrived on a motorcycle, opened fire, injuring a trader in the Peliyagoda fish market.
-
-◼️
-
-[Data](articles/0340426c.json)
-
----
-
-### පෑලියගොඩ වෙඩිතැබීමක්
-
-*2025-08-19 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213534) · `si`
-
-පෑලියගොඩ, ඥානරතන මාවත ප්‍රදේශයේ දී අද (19) උදෑසන සිදුවූ වෙඩි තැබීමක් සිදුව තිබේ.
-
-නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය සඳහන් කළේය.
-
-වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත්තේ, පෑලියගොඩ මාළු වෙළෙඳ සංකිර්ණයේ කම්කරුවෙකු බව පොලීසිය ප්‍රකාශ කළේය.
-
-එහිදී මාර්ගයේ ගමන්ගත් තවත් පුද්ගලයෙකුට ද වෙඩි වැදීමෙන් තුවාල ලබා තිබේ.
-
-වෙඩි වැදිමෙන් තුවාල ලැබූ පුද්ගලයින් දෙදෙනා කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
-
-◼️
-
-[Data](articles/60274b39.json)
-
----
-
-### இந்தியாவுக்கு சுற்றுலா செல்லும் முதல் 10  வெளிநாட்டவர்களின்  பட்டியலில் இலங்கை
-
-*2025-08-19 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/222838) · `ta`
-
-கடந்த ஐந்து ஆண்டுகளில் இந்தியாவிற்கு அதிகளவான வெளிநாட்டு சுற்றுலாப் பயணிகள் சென்ற முதல் 10 நாடுகளில் இலங்கை, அமெரிக்கா, பங்களாதேஷ், பிரித்தானியா, அவுஸ்திரேலியா மற்றும் கனடா ஆகியவை அடங்கும் என இந்திய அரசாங்கத்தின் தரவுகள் தெரிவிக்கின்றன.
-
-மக்களவையில் சுற்றுலாப் பயணிகளின் வருகை தொடர்பான கேள்விகளுக்கு எழுத்துப்பூர்வமாக பதிலளித்த இந்திய கலாச்சார அமைச்சர் கஜேந்திர சிங் ஷெகாவத், இந்தத் தரவைப் பகிர்ந்து கொண்டதாக பிரஸ் டிரஸ்ட் ஆஃப் இந்தியா செய்தி வெளியிட்டுள்ளது.
-
-அரசாங்கத் தரவுகளின்படி, 2024 ஆம் ஆண்டு இந்தியாவுக்கு 9.95 மில்லியன் வெளிநாட்டு சுற்றுலாப் பயணிகள் வருகை தந்துள்ளன.
-
-கடந்த ஐந்து ஆண்டுகளில் நாட்டில் பதிவு செய்யப்பட்ட வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகை மற்றும் கொவிட் தொற்றுநோய்க்குப் பின்னர் இந்தியாவின் சுற்றுலாத் துறை குறிப்பிடத்தக்க மீட்சியைக் கண்டதா, சர்வதேச சுற்றுலாப் பயணிகளின் வருகை தொற்றுநோய்க்கு முந்தைய நிலைகளை விட அதிகமாக உள்ளதா என்பது தொடர்பான விவரங்கள் அமைச்சரிடம் கேட்கப்பட்டன.
-
-...
-
-[Data](articles/4f3cdd99.json)
-
----
-
-### Speaker says decision on no-confidence motion against Deputy Defence Minister will be announced later
-
-*2025-08-19 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111620/speaker-says-decision-on-no-confidence-motion-against-deputy-defence-minister-will-be-announced-later) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne today (19) confirmed in Parliament that he has received a motion of no confidence against Deputy Minister of Defence Major General Aruna Jayasekara (Retd), which is signed by 31 opposition Members of Parliament.
-
-The Speaker informed the house that he will announce his decision in due course regarding the motion submitted by the opposition.
-
-Parliament proceedings commenced at 9:30 a.m. today, during which the Speaker stated that the no-confidence motion was submitted to him on August 12, bearing the signatures of 31 opposition MPs including Leader of the Opposition Sajith Premadasa.
-
-Accordingly, Speaker Dr. Jagath Wickramaratne said he will study the contents of the said no-confidence motion and inform the house in due course about the actions to be taken in this regard.
-
-◼️
-
-[Data](articles/c64ada5d.json)
-
----
-
-### බස් රථයක් සහ ගුවන් හමුදා ඩිෆෙන්ඩර් රථයක් ගැටී අනතුරක්
-
-*2025-08-19 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213533) · `si`
-
-හිඟුරක්ගොඩ, මැදිරිගිරිය ප්‍රධාන මාර්ගයේදී පෞද්ගලික මගී ප්‍රවාහන බස් රථයක් හා ගුවන් හමුදා ඩිෆෙන්ඩර් රථයක් ගැටී තිදෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
-
-මැදිරිගිරිය ප්‍රධාන මාර්ගයේ හිඟුරක්ගොඩ, කිඹුලාවල ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇති අතර, බස් රථය හා ඩිෆෙන්ඩර් රථය මුහුණට මුහුණ ගැටී අනතුර සිදුව තිබුණි.
-
-අද (19) උදෑසන 7.30ට පමණ අනතුර සිදුව ඇති අතර, එම අවස්ථාවේ දී බස් රථය මැදිරිගිරිය වඩිගවැව සිට හිඟුරක්ගොඩ දෙසට ධාවනය වෙමින් තිබී ඇති අතර, ගුවන් හමුදා ඩිෆෙන්ඩර් රථය හිඟුරක්ගොඩ සිට මැදිරිගිරිය දෙසට ධාවනය වී ඇත.
-
-අනතුරින් ඩිෆෙන්ඩර් රථයේ ගමන් ගත් ගුවන් හමුදා නිලධාරීන් තිදෙනෙකු සුළු තුවාල ලබා ඇතැයි අප වාර්තාකරු පැවසීය.
-
-අනතුරට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර අනතුර පිළිබඳ වැඩිදුර පරීක්ෂණ කටයුතු හිඟුරක්ගොඩ පොලීසිය විසින් සිදුකරයි.
-
-◼️
-
-[Data](articles/0790217e.json)
-
----
-
-### අරුණ ජයසේකරට එරෙහි විශ්වාසභංගය ගැන කථානායක තීරණය ඉදිරියේ දී
-
-*2025-08-19 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213532) · `si`
-
-ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජනරාල් අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳ තමාගේ තීරණය ඉදිරියේ දී දැනුම්දෙන බව කථානායකවරයා අද පාර්ලිමේන්තුවේ දී පැවසීය.
-
-අද (19) උදෑසන 9.30ට පාර්ලිමේන්තු කටයුතු ආරම්භ වූ අතර, එහිදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු විපක්ෂයේ මන්ත්‍රීවරු 31ක් දෙනෙකුගේ අත්සනින් යුතුව අගෝස්තු 12 වන දින විශ්වාසභාංග යෝජනාව තමා වෙත භාරදුන් බව ද කථානායකවරයා මෙහිදී කියා සිටියේය.
-
-ඒ අනුව අදාළ විශ්වාසභංග යෝජනාවේ ඇතුළත් කරුණු අධ්‍යයනය කර ඒ සම්බන්ධයෙන් ගත යුතු ක්‍රියාමාර්ග සම්බන්ධයෙන් ඉදිරියේ දී සභාවට දැනුම්දෙන බව ද කථානායකවරයා මෙහිදී දැනුම් දුන්නේය.
-
-◼️
-
-[Data](articles/5cfe8bd5.json)
-
----
-
-### Trump once again claims he stopped India, Pakistan war
-
-*2025-08-19 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111619/trump-once-again-claims-he-stopped-india-pakistan-war) · `en`
-
-US President Donald Trump on Monday once again repeated his claim that he stopped the war between India and Pakistan.
-
-Talking to the press in the Oval Office while meeting with Ukrainian President Volodymyr Zelenskyy, Trump claimed to have ended six wars, including the war between India and Pakistan.
-
-While answering a question, Trump said he thought that the Russia-Ukraine war would be the “easiest one” to end, but it is not.
-
-Trump said that “it is the tough one”, and we have been talking about it for a long time, like “we were talking about others …India-Pakistan.” Trump also indirectly mentioned India and Pakistan on his Truth Social post earlier in the day.
-
-“I’ve settled 6 Wars in 6 months, one of them a possible Nuclear disaster,” Trump posted.
-
-...
-
-[Data](articles/2a402b7e.json)
-
----
-
-### 26,000 individuals inspected during special police operation
-
-*2025-08-19 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111618/26000-individuals-inspected-during-special-police-operation) · `en`
-
-A total of 748 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (18).
-
-As part of the operation, 26,560 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 18 individuals directly linked to criminal activities while 528 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 64 drunk drivers were apprehended while a further 26 reckless drivers and 3,675 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/7db3b388.json)
 
 ---

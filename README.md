@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-20 18:32:30**
+As of **2025-08-20 19:14:19**
 
 ## Newspaper Stats
 
-*Scraped **71,418** Articles*
+*Scraped **71,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ economynextcom | 4,370
 islandlk | 4,389
 dailymirrorlk | 4,733
 dailyftlk | 5,030
-adalk | 6,867
+adalk | 6,868
 adaderanalk | 8,991
 tamilmirrorlk | 10,504
 virakesarilk | 11,820
-adaderanasinhalalk | 12,338
+adaderanasinhalalk | 12,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.8%) of 71,418 articles have been extended.
+61,973 (86.8%) of 71,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-20 (Wednesday)
+
+### එක්දින හා T20 සටනකට එංගලන්තය ශ්‍රී ලංකාවට
+
+*2025-08-20 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213588) · `si`
+
+එක්දින හා විස්සයි20 තරග 3 බැගින් වූ සංචාරයක් සඳහා එංගලන්ත ක්‍රිකට් කණ්ඩායම ශ්‍රී ලංකාවේ සංචාරයක නිතරවන බව එරට ක්‍රිකට් ආයතනය අද (20) නිල වශයෙන් තහවරු කළේය.
+
+එළැඹෙන විස්සයි20 ලෝක කුසලාන තරගාවලියට පෙර සූදානමක් ලෙස ඔවුන් මෙම සංචාරය සිදුකරන අතර, තරගාවලිය 2026 වසරේ ජනවාරි මස මුලදී පැවැත්වීමට නියමිතය.
+
+පළමුව එක්දින තරගාවලිය පැවැත්වෙන අතර, එය ජනවාරි 22, 24 හා 27 දිනවලදී පැවැත්වේ.
+
+ඉන් අනතුරුව තරග තුනකින් යුත් විස්සයි20 තරගාවලිය ජනවාරි 30 හා පෙබරවාරි 01, 03 දිනවල පැවැත්වේ.
+
+මෙලෙස එංගලගන්ත කණ්ඩායමක් ශ්‍රී ලංකාවේ සංචාරයක නිතරවන්නේ වසර 7කට වැඩි කාලයකට පසුව වීම විශේෂත්වයක්ය.
+
+අවසන්වරට ඔවුන් 2018 වසරේ පැවති එක්දින තරගාවලිය තරග 3-1ක් ලෙස ජයග්‍රහණය කළ අතර, එකම විස්සයි20 තරගය ජයග්‍රහණය කළේය.
+
+එමෙන්ම දෙරට අවසන් වරට විස්සයි20 තරගයකදී හමු වූයේ 2022 විස්සයි20 ලෝක කුසලාන තරගාවලියේදීය.
+
+ශ්‍රී ලංකාවේ හා ඉන්දියාවේ සම සත්කාරකත්වය යටතේ පැවැත්වෙන එළැඹෙන 2026 විස්සයි20 ලෝක කුසලානය පෙබරවාරි සහ මාර්තු මාසයන්හිදි පැවැත්වේ.
+
+එංගලන්තය අවස්ථා දෙකකදී එනම් 2009 සහ 2022 වර්ෂයන්හි දී විස්සයි20 ලෝක ශූරයන් ලෙසින් කිරුළු පළඳා ඇත.
+
+◼️
+
+[Data](articles/7008c7eb.json)
+
+---
 
 ### ’’சில சக்திவாய்ந்த உலகத் தலைவர்கள் மனநலம் பாதிக்கப்பட்டவர்கள்”
 
@@ -97,6 +125,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/69dd0b64.json)
+
+---
+
+### ආසියානු සවි එසවීමේ තරගාවලියේදී සැමියයි බිරිඳයි රන් පදක්කම් 11 දිනති
+
+*2025-08-20 17:52:33* · [`adalk`](https://www.ada.lk/sports/ආසියානු-සවි-එසවීමේ-තරගාවලියේදී-සැමියයි-බිරිඳයි-රන්-පදක්කම්-11-දිනති/9-417983) · `si`
+
+නේපාලයේ පැවති ආසියානූ සවි එසවීමේ තරගාවලියට සහභාගී වූ , ලෝක සවි එසවීමේ සම්මේලනයේ ශ්‍රී ලංකා සන්නාම තානාපති රුවන් පෝල් මහතා රන් පදක්කම් 05 ක් සහ රිදී පදක්කම් 01 ක්  සහ ඔහුගේ බිරිඳ ලීඩියා පෝල් මහත්මිය රන් පදක්කම් 06 ක් දිනා ගෙන 08/19 දින සවස කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+
+ආසියානූ සවි එසවීමේ සම්මේලනය විසින් සංවිධානය කළ මෙම තරගාවලියට ආසියානූ කළාපයේ රටවල් 06 ක සවි එසවීමේ ක්‍රීඩක ක්‍රීඩිකාවන් 200 සහභාගී වී සිටි අතර , එම තරගාවලිය ඉකුත් 08/15 දින සිට 08/17 දින දක්වා
+
+එහිදී විවෘත සවි එසවීම , එහි ජ්‍යෙෂ්ඨ අංශය , බෙන්ච් ප්‍රෙස් සහ එහි ජ්‍යෙෂ්ඨ අංශය , බෙඩ් ලිෆ්ට් සහ එහි ජ්‍යෙෂ්ඨ අංශ යටතේ තරග කරමින් මෙම පදක්කම් දිනා ගැනීමට මොවුන් සමත් වී තිබුණි .
+
+එසේම ලෝක සවි එසවීමේ තරගාවලිය මෙම වසරේ ශ්‍රී ලංකාවේ පැවැත්වීමට කටයුතු සූදානම් කර ඇති බවත් , ඒ සදහා ලෝකයේ රටවල් 40 ක සවි එසවීමේ ක්‍රීඩක ක්‍රීඩිකාවන් 500 ක් පමණ සහභාගී වීමට නියමිත බවත් එම තරගාවලිය නොවැම්බර් 25 සිට 30 දක්වා කටුනායක එයාර් පෝර්ට් ගාර්ඩන් හෝටලයේ පැවැත්වීමට කටයුතු සූදානම් කර ඇති බවත් රුවන් පෝල් මහතා අනාවරණයක් ද කළේය .
+
+...
+
+[Data](articles/69d5488e.json)
 
 ---
 
@@ -1731,37 +1777,5 @@ I came to know Oscar Uncle in 1979 when Chandani and I were occupying the annex 
 ...
 
 [Data](articles/94ff8d9f.json)
-
----
-
-### Israel approves plan to conquer Gaza City, call up 60,000 reservists
-
-*2025-08-20 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111672/israel-approves-plan-to-conquer-gaza-city-call-up-60000-reservists) · `en`
-
-Israeli Defence Minister Israel Katz has approved the military’s plan to take over Gaza City and authorised the call-up of around 60,000 reservists to carry it out, his ministry has confirmed.
-
-Thousands of people fearing an imminent Israeli ground offensive are estimated to have fled the area in the past few days for points to the west and south in the shattered territory.
-
-The confirmation comes as Israel studies Hamas’ response to a proposal for a 60-day ceasefire and release of half the hostages still held in Gaza.
-
-Efforts to pause the fighting had gained new momentum over the past week after Israel announced plans for a new offensive to seize control of Gaza City at the heart of the Palestinian territory.
-
-Mediators Egypt and Qatar have been pushing proposals to restart indirect talks between the sides on a US-backed ceasefire plan.
-
-...
-
-[Data](articles/1a96cd91.json)
-
----
-
-### LAUGFS celebrates 30 years of purpose, progress, and innovation
-
-*2025-08-20 12:30:38* · [`dailyftlk`](https://www.ft.lk/business/LAUGFS-celebrates-30-years-of-purpose-progress-and-innovation/34-780453) · `en`
-
-LAUGFS Holdings Ltd., celebrates a momentous milestone, 30 years of visionary leadership, strategic growth, and impactful transformation across Sri Lanka and beyond. Since its establishment in 1995 as Gas Auto Lanka, LAUGFS has evolved into one of Sri Lanka’s most respected, powerful and diversified conglomerates, making its mark across power and energy, retail, leisure, manufacturing, logistics, pharmaceuticals, engineering, trading and more. Today, with a presence across more than 20 companies and operations extending to international markets, LAUGFS continues to embody innovation, resilience, and a strong commitment to national development.
-
-...
-
-[Data](articles/7a567fdc.json)
 
 ---

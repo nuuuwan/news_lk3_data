@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 06:08:05**
+As of **2025-08-21 06:32:55**
 
 ## Newspaper Stats
 
-*Scraped **71,473** Articles*
+*Scraped **71,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,873
 adaderanalk | 8,998
-tamilmirrorlk | 10,508
+tamilmirrorlk | 10,509
 virakesarilk | 11,824
 adaderanasinhalalk | 12,342
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,473 articles have been extended.
+61,973 (86.7%) of 71,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### நல்லூர் கந்தனின் தேர்த்திருவிழா இன்று
+
+*2025-08-21 05:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தனின்-தேர்த்திருவிழா-இன்று/175-363183) · `ta`
+
+வரலாற்றுப் பிரசித்தி பெற்ற யாழ். நல்லூர் கந்தசுவாமி ஆலயத்தில் இன்று தேர்த்திருவிழா நடைபெறவுள்ளது.
+
+நல்லூர் கந்தசுவாமி ஆலயத்தின் பெருந்திருவிழா கடந்த மாதம் 29ஆம் திகதி கொடியேற்றத்துடன் ஆரம்பமாகி நடைபெற்று வருகின்றது.
+
+இதில், இன்று வியாழக்கிழமை தேர்த்திருவிழா நடைபெறவுள்ளது. காலை 6  மணிக்குக் காலசாந்தி பூஜையும் , 6.15 மணிக்கு வசந்த மண்டபப் பூஜையும் நடைபெற்று சுவாமி உள்வீதி வலம் வந்து, 7 மணியளவில் தேரில் எழுந்தருளுவார்.
+
+நாளை வெள்ளிக்கிழமை தீர்த்தத் திருவிழா காலை 6.15 மணிக்கு வசந்த மண்டபப் பூஜையுடன் ஆரம்பமாகும். மாலை 5.30 மணிக்குக் கொடியிறக்கம் நடைபெறும்.
+
+◼️
+
+[Data](articles/75144c86.json)
+
+---
 
 ### President pushes primary healthcare, procurement reform in pre-Budget review
 
@@ -1785,23 +1803,5 @@ All 3 bills are available on tap at the weighted average yield.
 ◼️
 
 [Data](articles/cb484644.json)
-
----
-
-### Econsulate launches Sri Lanka’s first platform in ground–air robotics
-
-*2025-08-20 15:16:30* · [`dailyftlk`](https://www.ft.lk/business/Econsulate-launches-Sri-Lanka-s-first-platform-in-groundair-robotics/34-780476) · `en`
-
-Econsulate has launched Sri Lanka’s first platform in ground–air robotics.
-
-Named “Xavier 4.0” it is a mission-ready platform combining the power of the RG 311 #UGV and the Beak B 150 #UAV, designed and developed from the ground up, into one seamless autonomous platform.
-
-“With all-terrain mobility, autonomous navigation, 3D spatial mapping, rapid aerial deployment, and high-definition imaging working in harmony, it redefines how ground and air intelligence operate together,” Econsulate said.
-
-“Designed, engineered, and built entirely in Sri Lanka, Xavier 4.0 is the first of its kind in the region and places Econsulate among a select group of companies worldwide to achieve such integration. This is more than a technological achievement, it’s a milestone for Sri Lanka and a signal to the world that world-class innovation can rise from our shores,” the company added.
-
-◼️
-
-[Data](articles/d6009d2a.json)
 
 ---

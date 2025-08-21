@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 04:20:14**
+As of **2025-08-22 04:34:09**
 
 ## Newspaper Stats
 
-*Scraped **71,638** Articles*
+*Scraped **71,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 731
 economynextcom | 4,384
 islandlk | 4,402
 dailymirrorlk | 4,733
-dailyftlk | 5,048
+dailyftlk | 5,050
 adalk | 6,895
 adaderanalk | 9,036
 tamilmirrorlk | 10,545
-virakesarilk | 11,837
+virakesarilk | 11,838
 adaderanasinhalalk | 12,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,638 articles have been extended.
+61,973 (86.5%) of 71,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### தெமட்டகொடையில் ரயில் ஒன்று தவறான பாதையில் சென்றதால் ரயில் சேவைகள் தாமதம் - இலங்கை ரயில்வே திணைக்களம்
+
+*2025-08-22 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223064) · `ta`
+
+தெமட்டகொட ரயில் நிலையம் அருகே ரயில் ஒன்று தவறான பாதையில் சென்றதால் ஏற்பட்ட இடையூறினால், மருதானை – கொழும்பு கோட்டை இடையேயான ரயில் சேவைகள் தாமதமடைந்துள்ளன.
+
+21ஆம் திகதி வியாழக்கிழமை மாலை 6.45 மணிக்கு மருதானையிலிருந்து காலிக்கு புறப்படவிருந்த கடுகதி இரவு தபால் ரயிலும் தாமதத்திற்கு உள்ளாகியுள்ளது.
+
+இந்த இடையூறு காரணமாக, மேல் மற்றும் கீழ் திசைகளில் இயங்கும் அனைத்து ரயில்களும் தாமதமாக இயங்கும் என இலங்கை ரயில்வே அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1ae33477.json)
+
+---
+
+### CIPM adds ISO 21001:2018 to growing list of global accreditations
+
+*2025-08-22 04:06:30* · [`dailyftlk`](https://www.ft.lk/business/CIPM-adds-ISO-21001-2018-to-growing-list-of-global-accreditations/34-780584) · `en`
+
+From left: CIPM Sri Lanka Manager – Quality Assurance and Compliance Hasini Samarakoon, CEO U.A.C. Obeysekere, President Priyantha Ranasinghe, SLSI Director General/CEO Dr. Siddhika Senaratne, and CIPM Sri Lanka COO Himali Dasanayake
+
+CIPM Sri Lanka, the nation’s leader in Human Resource Management, has achieved a landmark accomplishment by earning the ISO 21001:2018 Educational Organisation Management System (EOMS) certification from the Sri Lanka Standards Institution (SLSI) – an honour that cements its position at the forefront of educational excellence.
+
+The certification was ceremoniously presented to CIPM Sri Lanka President Priyantha Ranasinghe by Sri Lanka Standards Institution (SLSI) Director General Dr. Siddhika G. Senaratne. The presentation took place at the CIPM Diploma Awarding Ceremony held at BMICH, in the presence of an esteemed gathering of distinguished guests, Council Members, faculty, students, and staff.
+
+...
+
+[Data](articles/711b75fb.json)
+
+---
+
+### Gem Sri Lanka 2026 launch set for 26 August
+
+*2025-08-22 04:05:04* · [`dailyftlk`](https://www.ft.lk/business/Gem-Sri-Lanka-2026-launch-set-for-26-August/34-780583) · `en`
+
+The Ceylon Gem and Jewellery Traders Association (CGJTA) announced that the launch of the ‘Gem Sri Lanka 2026’ international expo will take place on 26 August at the Lotus Ballroom of Shangri-La Colombo.
+
+The international gem and jewellery exhibition, now in its third edition, will be held on 7-9 January 2026, at Shangri-La Colombo. Organised under the theme ‘The Source. The Production. The Selection’, the event will showcase Sri Lanka’s position as a leading origin of high-quality gemstones.
+
+Following the 2024 and 2025 editions, which attracted global collectors, traders, and connoisseurs, the 2026 exhibition will feature upgraded exhibitor services and improved visitor facilities. CGJTA said the show aims to provide an immersive experience for international and local participants, while highlighting the full journey of Sri Lankan gems from mine to market.
+
+...
+
+[Data](articles/4d3de91b.json)
+
+---
 
 ### WIM’s Top 50 Career Women Awards set to mark 15-year milestone in October
 
@@ -1805,57 +1853,5 @@ Attention was drawn to the issues prevailing in the National Audit Office.
 ...
 
 [Data](articles/f540832d.json)
-
----
-
-### Hilton network backs Vietnam food festival in Sri Lanka
-
-*2025-08-21 12:24:00* · [`economynextcom`](https://economynext.com/hilton-network-backs-vietnam-food-festival-in-sri-lanka-237684/) · `en`
-
-ECONOMYNEXT – Hilton Colombo is holding a food festival in backed by the chefs from their network in Vietnam, as the two countries celebrate 55 years of diplomatic relations, the embassy of the South East Asian nation said.
-
-“This is a very meaningful event on the occasion of the 55th anniversary of Viet Nam-Sri Lanka diplomatic relations (1970-2025),” Ambassador Trinh Thi Tam said in a statement.
-
-“Through the partnership with Hilton Colombo and Hilton Da Nang, we are thrilled to bring the essence of Viet Nam cuisine to Colombo, thus further consolidating the existing cultural bonds and people-to-people links between our two nations.”
-
-From August 21 to 30, guest chefs from Hilton Da Nang, Nguyen Dac Khoa and Nguyen Van Toan, will bring Vietnamese cooking to with authentic techniques, fresh herbs, and time-honored recipes, the embassy said.
-
-...
-
-[Data](articles/ff02fbd2.json)
-
----
-
-### “OT கூடாது: கைரேகை நிச்சயம்”
-
-*2025-08-21 12:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OT-கூடாது-கைரேகை-நிச்சயம்/175-363213) · `ta`
-
-மேலதிக நேர  கொடுப்பனவு (OT) அதிகரிக்கப்படாது. மத்திய தபால் பரிவர்த்தனை நிலையத்தில் கைரேகை ஸ்கேனர்  இயந்திரம் நிச்சயம் பொருத்தப்படும். அரசியல் நோக்கத்துடனான போராட்டத்துக்கு நாம் ஒருபோதும் அடிபணிய மாட்டோம் என  சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
-
-பாராளுமன்றத்தில்   வியாழக்கிழமை (21) இடம் பெற்ற  வாய்மூல விடைக்கான வினா நேரத்தில்  ஐக்கிய மக்கள் சக்தியின் எம்.பி.எம்.எஸ்.உதுமாலெப்பை எழுப்பிய கேள்விக்கு பதிலளிக்கையில் இவ்வாறு தெரிவித்த   அவர் மேலும் கூறுகையில்,
-
-மத்திய தபால் பரிவர்த்தனை நிலையத்தின்  ஊழியர்கள் நியாயமற்ற கோரிக்கைகளை முன்வைத்து பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபடுகின்றனர் . இந்த விடயம் தொடர்பில் எதிர்க்கட்சியின் தலைவர் உட்பட எதிர்க்கட்சியினர் பேசுவார்கள் என்று எதிர்பார்த்தேன்.ஆனால் எவரும் இவ்விடயம் குறித்து  வாய் திறக்கவில்லை.ஐக்கிய தபால் சேவை சங்கத்தினர் தான் இந்த  பணிப்புறக்கணிப்பு போராட்டத்தில் முன்னிலையில் உள்ளார்கள்.
-
-...
-
-[Data](articles/e34171b1.json)
-
----
-
-### Sri Lanka’s Millennium Housing Developers faces trading suspension
-
-*2025-08-21 12:23:00* · [`economynextcom`](https://economynext.com/sri-lankas-millennium-housing-developers-faces-trading-suspension-237680/) · `en`
-
-ECONOMYNEXT – Trading in Sri Lanka’s Millennium Housing Developers stock will be suspended if it fails to resolve accounting problems highlighted by auditors, the Colombo Stock Exchange said.
-
-Trading of its securities will be suspended from September 1, unless the company rectifies a noncompliance before August 29, the CSE said.
-
-The reason for non-compliance was given as “Emphasis of matter ongoing concern in the Independent Auditor’s Report in the Audited Financial Statements for the year ended 31st March 2023- Rule 7.5.”
-
-The stock was trading up 20 cents at 7 rupees. (Colombo/Aug21/2025)
-
-◼️
-
-[Data](articles/fa636302.json)
 
 ---

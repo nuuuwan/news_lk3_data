@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 04:51:51**
+As of **2025-08-22 05:07:03**
 
 ## Newspaper Stats
 
-*Scraped **71,642** Articles*
+*Scraped **71,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 731
 economynextcom | 4,384
 islandlk | 4,402
 dailymirrorlk | 4,733
-dailyftlk | 5,050
+dailyftlk | 5,056
 adalk | 6,895
 adaderanalk | 9,036
 tamilmirrorlk | 10,545
@@ -26,11 +26,109 @@ adaderanasinhalalk | 12,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,642 articles have been extended.
+61,973 (86.5%) of 71,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### Embassy in Sri Lanka marks 80th anniversary of Viet Nam’s Independence Day and 55 years of Viet Nam-Sri Lanka diplomatic relations
+
+*2025-08-22 04:31:31* · [`dailyftlk`](https://www.ft.lk/news/Embassy-in-Sri-Lanka-marks-80th-anniversary-of-Viet-Nam-s-Independence-Day-and-55-years-of-Viet-Nam-Sri-Lanka-diplomatic-relations/56-780599) · `en`
+
+The Embassy of Viet Nam in Sri Lanka held a distinguished commemorative event on Tuesday, at the Hilton Hotel, Colombo to celebrate two significant milestones: the 80th anniversary of Viet Nam’s Independence Day and the 55th anniversary of diplomatic relations between Viet Nam and Sri Lanka.
+
+...
+
+[Data](articles/639dec9d.json)
+
+---
+
+### Ex-IGP Deshabandu remanded till 27 August
+
+*2025-08-22 04:27:49* · [`dailyftlk`](https://www.ft.lk/news/Ex-IGP-Deshabandu-remanded-till-27-August/56-780598) · `en`
+
+Former Inspector General of Police (IGP) Deshabandu Thennakoon was remanded till 27 August after being produced before the Colombo Fort Magistrate’s Court yesterday over his alleged role in the violent crackdown on peaceful protesters at Galle Face on 9 May 2022.
+
+Thennakoon, who was arrested by the Criminal Investigation Department (CID) on Wednesday evening, appeared before Magistrate Nilupuli Lankapura.
+
+Deputy Solicitor General (DSG) Wasantha Perera told the Court that Thennakoon, serving as the Western Province Senior Deputy Inspector General (DIG) at the time, failed to act despite clear opportunities to prevent the attack on the “Aragalaya” protest movement.
+
+It was revealed in Court that Thennakoon had instructed officers not to intervene till his orders were given, even as about 2,000 armed individuals assaulted unarmed civilians. The prosecution argued that this amounted to aiding and abetting the attackers.
+
+...
+
+[Data](articles/913e20e8.json)
+
+---
+
+### Lanka Salt Company reduces prices
+
+*2025-08-22 04:26:23* · [`dailyftlk`](https://www.ft.lk/news/Lanka-Salt-Company-reduces-prices/56-780597) · `en`
+
+Lanka Salt Ltd. Chairman Nandana Thilaka on Wednesday announced a reduction in the prices of its iodised salt products.
+
+Speaking to the media, he said the price of a 400 gram packet of iodised salt powder has been reduced by Rs. 20, while the price of a 1-kilogram packet has been lowered by Rs. 30.
+
+Accordingly, from next week, a 400g packet of salt powder will be sold at Rs. 100, a 1kg packet of salt powder at Rs. 200, and a 1kg packet of crystal salt at Rs. 150.
+
+Additionally, the Chairman noted that a 400g packet of salt powder produced by the company will also be available at Sathosa outlets for Rs. 90.
+
+He further explained that the price reduction was implemented to provide relief to the public.
+
+◼️
+
+[Data](articles/61efc94e.json)
+
+---
+
+### New think-tank Asian Geopolitics, Sustainability, and Peace Council launched
+
+*2025-08-22 04:26:05* · [`dailyftlk`](https://www.ft.lk/news/New-think-tank-Asian-Geopolitics-Sustainability-and-Peace-Council-launched/56-780596) · `en`
+
+A new era in regional policy dialogue began with the official launch of The Asian Geopolitics, Sustainability, and Peace Council (AGSPeC) at the Sri Lanka Foundation Institute in Colombo on 20 August – a platform dedicated to fostering strategic understanding of geopolitical issues, advancing peace, and promoting sustainable development across Asia. Leading scholars, diplomats, policymakers, civil society leaders and concerned citizens took part in this event, in addition to a gamut of political leaders, former statesmen, and leaders of political parties.
+
+AGSPeC President Deshamanya Prof. Mohan Munasinghe (who shared the 2007 Nobel Peace Prize), stated that the Council aims to provide in-depth research, policy recommendations, and practical initiatives to address the complex issues arising from the nexus of geopolitics, sustainability and peace in the 21st century.
+
+...
+
+[Data](articles/d2ccc916.json)
+
+---
+
+### Cabinet clears construction of new Wattuwakal bridge on A035 highway
+
+*2025-08-22 04:25:38* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-construction-of-new-Wattuwakal-bridge-on-A035-highway/56-780595) · `en`
+
+The Cabinet of Ministers on Monday approved awarding the construction contract for the new Wattuwakal Bridge (Bridge No. 50/1) on the Paranthan–Karatchi–Mullaitivu (A035) highway to M/s RR Construction Ltd., the lowest substantially responsive bidder.
+
+The decision follows recommendations by the Higher Level Standing Procurement Committee, which evaluated the bids received under the national competitive bidding process.
+
+The Wattuwakal Bridge, located across the Nandikadal Lagoon, was last renovated in 2009, but is now deemed structurally insecure. To address safety and connectivity concerns, the Road Development Authority (RDA) has planned to replace it with a new two-lane bridge.
+
+The proposal was presented to the Cabinet by Transport, Highways, Ports and Civil Aviation Minister Bimal Rathnayake.
+
+◼️
+
+[Data](articles/90c6072c.json)
+
+---
+
+### Young political leaders from South and Southeast Asia meet with Women Parliamentarians’ Caucus
+
+*2025-08-22 04:25:12* · [`dailyftlk`](https://www.ft.lk/news/Young-political-leaders-from-South-and-Southeast-Asia-meet-with-Women-Parliamentarians-Caucus/56-780594) · `en`
+
+Young political leaders from across South and Southeast Asia with their staff members and representatives from the Institute of Konrad Adenauer Stiftung met with the Women Parliamentarians’ Caucus following their visit to Parliament.
+
+Young political leaders from across South and Southeast Asia engaged in constructive dialog with the Women Parliamentarians’ Caucus held recently Chaired by Women and Child Affairs Minister Saroja Savithri Paulraj and its members.
+
+Expressing views, the Chair of the Caucus stated that the 10th Parliament consists of the largest representation of women in Parliament from various political, ethnic and religious backgrounds. Furthermore, the Chair stated that main focus of the Caucus is on empowering women, eliminating violence and harassment, advocating for gender equality, and to curate legal and policy reforms.
+
+...
+
+[Data](articles/52e2328b.json)
+
+---
 
 ### திருகோணமலையில் கிழக்கு மாகாண ஆளுநர் – ஐ.அ. எமிரேட்ஸ் தூதுவர் சந்திப்பு
 
@@ -1737,117 +1835,5 @@ Police further stated that, based on information obtained from the suspect, a 9m
 ◼️
 
 [Data](articles/9af2a115.json)
-
----
-
-### ශාන්ත මුදුන්කොටුව ඝාතනයේ වෙඩික්කරු රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
-
-*2025-08-21 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213612) · `si`
-
-හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව මහතා වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියේ සැකකාර වෙඩික්කරු දින 07ක් රඳවාගෙන ප්‍රශ්න කිරීමට පූගොඩ මහේස්ත්‍රාත් අධිකරණය අද (21) අවසර ලබා දුනි.
-
-මෙම සැකකරු හම්බන්තොට නාගරවැව ප්‍රදේශයේ සැඟව සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරින් විසින් ඊයේ (20) අත්අඩංගුවට ගත්තේය.
-
-විමර්ශනවලදී අනාවරණ වී ඇත්තේ, 34 හැවිරිදි බරවකුඹුක ප්‍රදේශයේ පදිංචි හිටපු යුද හමුදා සෙබලෙකු වන සැකකරු අවිස්සාවේල්ල සහ කොල්ලුපිටිය ප්‍රදේශවලදී වෙඩිතබා මනුෂ්‍ය ඝාතන දෙකක් සිදුකිරීමට තැත්කිරීම් සම්බන්ධයෙන් ද චෝදනා එල්ලවී ඇති බවය.
-
-එමෙන්ම සැකකරුගෙන් ලබාගත් තොරතුරු මත හංවැල්ල ප්‍රදේශයේ සඟවා තිබු මිලිමීටර් 9 වර්ගයේ උණ්ඩ යෙදිය හැකි ගිනි අවියක්, පතරොම් හතරක්, බෝර 12 වර්ගයේ පතරොම් යෙදිය හැකි ගිනිඅවි දෙකක් හා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 6ක් සොයාගත් බව පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/cd2e4f02.json)
-
----
-
-### අජිත් ප්‍රසන්නට පහරදුන් බවට වූ නඩුවෙන් හේෂා නිදහස්
-
-*2025-08-21 13:05:18* · [`adalk`](https://www.ada.lk/breaking_news/අජිත්-ප්‍රසන්නට-පහරදුන්-බවට-වූ-නඩුවෙන්-හේෂා-නිදහස්/11-417996) · `si`
-
-අරලිය ගහ මන්දිරය ඉදිරිපිටදී විශ්‍රාමික මේජර් නිතිඥ අජිත් ප්‍රසන්න මහතාට පහරදුන් බවට චෝදනා කරමින් පවරා තිබූ නඩුවෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී හේෂා විතානගේ මහතා නිදහස් කිරීමට කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය අද (21) නියෝග කළාය.
-
-නඩුව පවත්වාගෙන යෑම සම්බන්ධයෙන් පැමිණීලි පාර්ශවයට කිසිඳු උනන්දුවක් නැතැයි හේෂා විතානගේ මහතා නිදහස් කරමින් මහේස්ත්‍රාත්වරිය සඳහන් කළාය.
-
-නඩුවේ සැකකරුවකු වන හිටපු පාර්ලිමේන්තු මන්ත්‍රී පාලිත තෙවරප්පෙරුම මහතා මියගොස් ඇති බව මීට පෙර අවස්ථාවක අධිකරණයට දැනුම් දී තිබිණී.
-
-2019 වසරේ නොවැම්බර් පළමුවැනිදා හෝ ඊට ආසන්න දිනයක කොල්ලුපිටිය අරලියගහ මන්දිරය ඉදිරිපිටදී විශ්‍රාමික මේජර් නිතිඥ අජිත් ප්‍රසන්න මහතාට පහරදුන් බවට චෝදනා කරමින් විත්තිකරුවන්ට එරෙහිව කොල්ලුපිටිය පොලිසිය මෙම නඩුව පවරා තිබිණී”
-
-නඩුව කැඳවනු ලැබු අටස්ථාවේදී හේෂා විතානගේ මහතා අධිකරණයේ පෙනී සිටි අතර පැමිණීලිකාර විශ්‍රාමික මේජර් නිතිඥ අජිත් ප්‍රසන්න මහතා අධිකරණයේ පෙනී සිටියේ නැත.
-
-...
-
-[Data](articles/99d468c4.json)
-
----
-
-### ශ්‍රී ලන්කන් අක්‍රමිකතා හොයන ජනපති කමිටුව මහජන පැමිණිලි ගනියි
-
-*2025-08-21 13:00:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-අක්‍රමිකතා-හොයන-ජනපති-කමිටුව-මහජන-පැමිණිලි-ගනියි/11-417995) · `si`
-
-ගුවන් තොටුපළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමෙහි සහ ශ්‍රී ලංකන් ගුවන් සමාගමෙහි පසුගිය කාලයේදි සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා සම්බන්ධයෙන් සෙවීම සඳහා පිහිටුවන ලද ජනාධිපති විශේෂ විමර්ශන කමිටුව මහජනතාවගේ පැමිණිලි, අදහස් සහ යෝජනා ලබා ගැනීමට අපේක්ෂා කරයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් 2025 ජූනි 30 දින ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශය අනුව 2025 ජූලි 01 දිනැතිව ගනු ලැබු අංක 25/1145/801/018 දරන අමාත්‍ය මණ්ඩල තීරණය ප්‍රකාරව ගුවන් තොටුපළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමෙහි සහ ශ්‍රී ලංකන් ගුවන් සමාගමෙහි පසුගිය කාලයේදි සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා සම්බන්ධයෙන් සෙවීමට ජනාධිපති විශේෂ විමර්ශන කමිටුව පිහිටුවන ලදී.
-
-...
-
-[Data](articles/50714c5a.json)
-
----
-
-### කාදිනල් හිමිපාණෝ සහ කතෝලික රදගුරු සම්මේලනය ජනපති හමුවෙති
-
-*2025-08-21 12:56:09* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිපාණෝ-සහ-කතෝලික-රදගුරු-සම්මේලනය-ජනපති-හමුවෙති/11-417994) · `si`
-
-කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් හිමිපාණන් වහන්සේ සහ කතෝලික රදගුරු සම්මේලනය ඊයේ (20) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ‌ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු වූහ.
-
-වසරකට තෙවතාවක් පැවැත්වෙන කතෝලික රදගුරු සම්මේලනයේදී සාකච්ඡා වූ මූලික කරුණු පිළිබඳව මෙහිදී කාදිනල් හිමිපාණන් විසින් ජනාධිපතිවරයා දැනුවත් කරන ලදී.
-
-එසේම, කතෝලික සභාවේදී මතු වූ අදහස් සහ යෝජනා පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානයට ලක් කෙරිණි.
-
-මෙම අවස්ථාවට ශ්‍රී ලංකා කතෝලික රදගුරු සම්මේලනයේ සභාපති හැරල්ඩ් ඇන්තනී පෙරේරා රදගුරුතුමා සහ එම සම්මේලනයේ සාමාජිකයෝද එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/be38812f.json)
-
----
-
-### யாழில் 14 பாடசாலைகளின் மாணவர்கள் ஜனாதிபதி செயலகத்துக்கு விஜயம்
-
-*2025-08-21 12:40:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-14-பாடசாலைகளின்-மாணவர்கள்-ஜனாதிபதி-செயலகத்துக்கு-விஜயம்/175-363215) · `ta`
-
-யாழ்ப்பாண கல்வி வலயத்தின் மாணவர் பாராளுமன்ற பிரதிநிதிகள் குழு உட்பட யாழ்ப்பாணத்தின்  14 பாடசாலைகளைச் சேர்ந்த மாணவர்களுக்கு,   அண்மையில் ஜனாதிபதி செயலகத்தினால் ஏற்பாடு செய்யப்படும் ‘Vision’ நிகழ்ச்சியில் பங்கேற்கும் வாய்ப்புக் கிடைத்தது.
-
-ஜனாதிபதி அலுவலகம், கல்வி அமைச்சு மற்றும் பாராளுமன்ற தொடர்பாடல் பிரிவு ஆகியவை இணைந்து பாடசாலை  மாணவர்களுக்காக இந்த திட்டத்தை செயல்படுத்துகின்றன.
-
-யாழ்ப்பாண வலய மாணவர் பாராளுமன்ற பிரதிநிதிகள் ஜனாதிபதி அலுவலகத்திற்கு விஜயம் செய்வது இதுவே முதல் தடவையாகும்.
-
-மாணவர் பாராளுமன்றம் என்ற எண்ணக்கரு, பாடசாலைகள் ஊடாக தேசிய நல்லிணக்கம் மற்றும் சகவாழ்வை உருவாக்குவதற்கும், அது குறித்த ஒரு கருத்தாடலைக் கட்டியெழுப்பவும் பங்களிக்கிறது.
-
-இந்த நிகழ்ச்சியில் கலந்துகொண்ட மாணவர்களுக்கு “ Clean Sri Lanka”  வேலைத்திட்டம் மற்றும் அதன் கருத்தியல் பெறுமதி குறித்து தெளிவுபடுத்தப்பட்டது.
-
-இந்த நிகழ்ச்சியுடன் இணைந்து, சுற்றுச்சூழல் பாதுகாப்பின் முக்கியத்துவத்தை குறிக்கும் வகையில் அடையாள ரீதியான பரிசாக பெறுமதியான  மரக்கன்றுகளும் வழங்கப்பட்டன.
-
-...
-
-[Data](articles/8b13ad1a.json)
-
----
-
-### CoPF approves Budget Estimate of National Audit Office
-
-*2025-08-21 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111702/copf-approves-budget-estimate-of-national-audit-office) · `en`
-
-The Budget Estimate of the National Audit Office for the year 2026 was taken up for consideration at the Committee on Public Finance(CoPF) held on Tuesday (19) and was approved to be presented to Parliament with the Committee’s proposals, the Department of Communication of Parliament said.
-
-This consideration was carried out in terms of Section 34 of the Audit Act No. 19 of 2018.
-
-Given that the Member of Parliament Dr. Harsha de Silva, Chair of the Committee on Public Finance, was overseas, the said Committee met under the chairmanship of the Member of Parliament Rauff Hakeem, Attorney at Law, who was appointed as the Acting Chair of the Committee, the statement added.
-
-A group of officials representing the National Audit Office including Mr. G.H.D. Dharmapala, Acting Auditor General, as well as officials from the Department of National Budget, were present at this occasion.
-
-Attention was drawn to the issues prevailing in the National Audit Office.
-
-...
-
-[Data](articles/cdbd8ebe.json)
 
 ---

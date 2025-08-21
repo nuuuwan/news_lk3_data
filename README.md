@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 23:12:01**
+As of **2025-08-21 23:30:15**
 
 ## Newspaper Stats
 
-*Scraped **71,624** Articles*
+*Scraped **71,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
-economynextcom | 4,381
+economynextcom | 4,384
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,895
-adaderanalk | 9,034
+adaderanalk | 9,036
 tamilmirrorlk | 10,544
 virakesarilk | 11,832
 adaderanasinhalalk | 12,381
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,624 articles have been extended.
+61,973 (86.5%) of 71,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### PM wants schools sports culture to prioritize physical and mental well-being of students
+
+*2025-08-21 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111726/pm-wants-schools-sports-culture-to-prioritize-physical-and-mental-well-being-of-students) · `en`
+
+A discussion has been held to deliberate proposals to promote school sports and resolving existing issues with the Ministries of Education and Sports.
+
+The meeting in this regard was held between officials of the Ministry of Education and the Ministry of Sports and Youth Affairs and Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, today (21) at the Parliamentary Complex.
+
+During the discussion, attention was drawn to the need for building a stronger collaboration between the Ministry of Education and the Ministry of Sports in order to address prevailing issues related to school sports as well as licensing issues faced by sports associations, challenges faced by sports coaches, and the development of sports schools.
+
+The Prime Minister has emphasized the importance of ensuring equal opportunities for every student to participate in sports.
+
+...
+
+[Data](articles/4e0ff80b.json)
+
+---
+
+### அம்மான்னா சும்மா இல்லடா: நெகிழ வைக்கும் வீடியோ..!
+
+*2025-08-21 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223057) · `ta`
+
+உலகத்துல, தாய்ப்பாசத்தை அடிச்சுக்க எந்த ஒரு உயிரினமும் சளைச்சதில்லை. அது, மனிதனானாலும் சரி, விலங்கானாலும் சரி, பறவையானாலும் சரி.
+
+தனது பிள்ளையின் உயிருக்கு ஆபத்துனு வரும்போது, எதிரில் இருப்பது எவ்வளவு கொடிய உயிரினமாக இருந்தாலும் அதை எதிர்த்து போராடும்.
+
+அப்படித்தான், கோழி ஒன்று தனது குஞ்சுகளை காப்பாற்ற, கொடிய விஷம் கொண்ட பாம்புடன் போராடிக் கொண்டிருக்கிறது.
+
+◼️
+
+[Data](articles/4a60b0dd.json)
+
+---
+
 ### ඉන්දු - පාකිස්තාන ක්‍රිකට් ගැන ඉන්දියාවෙන් පැහැදිලි කිරීමක්
 
 *2025-08-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213634) · `si`
@@ -70,25 +104,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### அம்மான்னா சும்மா இல்லடா: நெகிழ வைக்கும் வீடியோ..!
-
-*2025-08-21 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/223057) · `ta`
-
-உலகத்துல, தாய்ப்பாசத்தை அடிச்சுக்க எந்த ஒரு உயிரினமும் சளைச்சதில்லை. அது, மனிதனானாலும் சரி, விலங்கானாலும் சரி, பறவையானாலும் சரி.
-
-தனது பிள்ளையின் உயிருக்கு ஆபத்துனு வரும்போது, எதிரில் இருப்பது எவ்வளவு கொடிய உயிரினமாக இருந்தாலும் அதை எதிர்த்து போராடும்.
-
-அப்படித்தான், கோழி ஒன்று தனது குஞ்சுகளை காப்பாற்ற, கொடிய விஷம் கொண்ட பாம்புடன் போராடிக் கொண்டிருக்கிறது.
-
-◼️
-
-[Data](articles/4a60b0dd.json)
-
----
-
 ### நீங்க வெரி வெரி வொர்ஸ்ட் மு.க.ஸ்டாலின் அங்கிள்..!
 
-*2025-08-21 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/223056) · `ta`
+*2025-08-21 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/223056) · `ta`
 
 “எல்லோருக்கும் பொய்யான வாக்குறுதி கொடுத்து ஏமாற்றி இருக்கிறீர்கள். நீங்க வெரி வெரி வொர்ஸ்ட் மு.க.ஸ்டாலின் அங்கிள்” என, மதுரையில் நடந்த தவெக மாநாட்டில் விஜய் பேசினார்.
 
@@ -247,6 +265,26 @@ Zelensky has stated his willingness to meet Putin in “any format”, although 
 ◼️
 
 [Data](articles/d30adabd.json)
+
+---
+
+### Ministry introduces affordable crop insurance scheme for farmers
+
+*2025-08-21 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111722/ministry-introduces-affordable-crop-insurance-scheme-for-farmers) · `en`
+
+The Ministry of Agriculture, Livestock, Lands, and Irrigation has introduced a concessionary insurance scheme for key field crops, in a move to strengthen agricultural risk management.
+
+The scheme covers crops such as black gram, green gram, cowpea, peanuts, finger millet (kurakkan), sesame, and horse gram (kollu), the Ministry noted.
+
+Under this initiative, farmers cultivating cowpea can insure one acre by paying Rs. 4,200, and in the event of natural disasters, pest or disease damage, or destruction caused by wild elephants, they will be eligible to receive a compensation of Rs. 60,000 per acre.
+
+Similarly, farmers cultivating green gram can pay Rs. 5,600 per acre for insurance, and claim up to Rs. 80,000 per acre as compensation in case of damages, the Ministry stated.
+
+This special insurance scheme has been introduced particularly for districts prone to wild elephant threats, ensuring farmers receive compensation for damages incurred due to such risks.
+
+...
+
+[Data](articles/dd5396ed.json)
 
 ---
 
@@ -536,6 +574,26 @@ Police further revealed that, based on the suspect’s statements, the drugs are
 
 ---
 
+### Chinese envoy bats for UN citing hegemonism, law of the jungle
+
+*2025-08-21 17:31:00* · [`economynextcom`](https://economynext.com/chinese-envoy-bats-for-un-citing-hegemonism-law-of-the-jungle-237729/) · `en`
+
+ECONOMYNEXT – Chinese Ambassador in Sri Lanka said the authority and core role played by the United Nations should not be weakened amid the current circumstances in the world.
+
+Ambassador Qi Zhenhong made this statement when he addressed an event to mark 80th anniversary of the victory of the Chinese People’s War of Resistance Against Japanese Aggression as well as the 80th anniversary of the founding of the United Nations.
+
+His statement also comes amid U.S. President Donald Trump’s reciprocal tariff is seen hitting smaller nations like Sri Lanka.
+
+The United Nations (UN) was officially established in 1945, in the aftermath of World War II, with the goal of preventing future global conflicts and fostering international cooperation.
+
+Driven by the desire for peace and stability, the founding members of the UN aimed to promote diplomacy, human rights, and economic development.
+
+...
+
+[Data](articles/8912b243.json)
+
+---
+
 ### ஹரினி அமரசூரியவுக்கும்  ஹிஸ்புல்லாவுக்கும் இடையில் சந்திப்பு
 
 *2025-08-21 17:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரினி-அமரசூரியவுக்கும்-ஹிஸ்புல்லாவுக்கும்-இடையில்-சந்திப்பு/175-363236) · `ta`
@@ -636,6 +694,20 @@ Police further revealed that, based on the suspect’s statements, the drugs are
 
 ---
 
+### Sri Lanka sells extra Rs7.85bn Treasury bills after auction
+
+*2025-08-21 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs7-85bn-treasury-bills-after-auction-237725/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 7,850 million rupees of treasury bills offered on tap at average rates of 7.59 percent and 7.89 percent, the state debt office said, bringing the total of bills sold this week to 86.35 billion rupees.
+
+On Wednesday (20) the debt office raised 78.5 billion rupees of 3, 6 and 12 month bills.
+
+◼️
+
+[Data](articles/9ad54957.json)
+
+---
+
 ### China-Sri Lanka working to promote high-quality BR cooperation – Chinese envoy
 
 *2025-08-21 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111715/china-sri-lanka-working-to-promote-high-quality-br-cooperation-chinese-envoy) · `en`
@@ -683,6 +755,22 @@ Ambassador Zhenhong also mentioned that China and Sri Lanka, which share a time-
 ◼️
 
 [Data](articles/cad2db27.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields up
+
+*2025-08-21 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237715/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.85/302.00 to the US dollar in the spot market Thursday, weaker from 301.70/80 the previous day, while bond yields were up, dealers said.
+
+A bond maturing on 15.03.2028 closed at 8.75/83 percent, from 8.75/85 percent.
+
+A bond maturing on 15.12.2032 closed at 10.25/33 percent, up from 10.25/32 percent. (Colombo/Aug21/2025)
+
+◼️
+
+[Data](articles/b1cbe96a.json)
 
 ---
 
@@ -1773,85 +1861,5 @@ The arrest warrant has reportedly been issued due to former State Minister Diana
 ...
 
 [Data](articles/f1bf8fca.json)
-
----
-
-### ලංකාවේ කුරුඳුවලට ලෝක වෙළඳපොළේ විශාල ඉල්ලුමක්
-
-*2025-08-21 11:28:47* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කුරුඳුවලට-ලෝක-වෙළඳපොළේ-විශාල-ඉල්ලුමක්/11-417993) · `si`
-
-ලංකාවේ කුරුඳු වලට ලෝක වෙළඳ පොලේ විශාල ඉල්ලුමක් තිබෙන බවත් ඒ අනුව කුරුඳු වගාව සංවර්ධනය කිරිමේ අරමුණින් කුරුඳු වගාකරුවන්ට නව තාක්ෂණය හඳුන්වා දිමට පියවර ගෙන ඇති බවත් කුරුඳු සංවර්ධන දෙපාර්තමේන්තුවේ සහකාර අධ්‍යක්ෂ (පාලන) චතුරංග ගුණසේකර මහා පවසයි.
-
-මේ සම්බන්ධයෙන් වැඩිදුරටත් කරුණු  පැහැදිලි කල ඒ මහතා කියා සිටියේ  විශේෂයෙන්ම ගාල්ල,මාතර,කලුතර,රත්නපුර සහ හම්බන්තොට දිස්තික්කවල සාර්ථකව කුරුඳුවගාව සිදුකරනු ලබන බවය.වාර්ෂිකව කුරුඳු මෙට්ට්‍රික් ටොන් විසිපන් දහසක  ප්‍රමාණයක් අපනයනය කරණු ලබන අතර එයින් ලංකාවට ඇමරිකන් ඩොලර් මිලියන විසිපන් දහසක ආදායමක් ලැබෙන බවත් කුරුඳු ලංකවේ හතරවන වෙළඳ බෝගය බවත් ඒ මහතා පැවසිය.
-
-කුරුඳු වගාව,නිෂ්පාදනය ,සැකසිම,ආදිය සම්බන්ධයෙන් මෙසේ තාක්ෂණය හඳුන්වා දිමට පියවර ගෙන ඇති බවද මේ වනවිටත් මාතර පලොල්පිටියේ පිහිටා ඇති ජාතික කුරුඳු පර්යේෂණ පුහුණු මධ්‍යස්ථානයේ කුරුඳු ගොවින් පුහුණු කිරිමේ කටයුතු සිදුකරගෙන යන බවත් ඒ මහතා වැඩි දුරටත් පැවසිය.
-
-◼️
-
-[Data](articles/5f4b5fbb.json)
-
----
-
-### முன்னாள் அமைச்சர் டயானாவுக்கு பிடியாணை
-
-*2025-08-21 11:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-டயானாவுக்கு-பிடியாணை/175-363206) · `ta`
-
-குடிவரவு மற்றும் குடியகல்வுச் சட்டத்தை மீறி, தவறான தகவல்களைச் சமர்ப்பித்து வெளிநாட்டு கடவுச்சீட்டுகளைப் பெற்று, செல்லுபடியாகும் விசா இல்லாமல் இலங்கையில் தங்கியதாக குற்றம் சாட்டப்பட்டுள்ள முன்னாள் அமைச்சர் டயானா கமகேவை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்த கொழும்பு பிரதான  நீதவான் தனுஜா லக்மாலி ஜெயதுங்க வியாழக்கிழமை (21) பிடிவிறாந்து பிறப்பித்தார். டயானா கமகேவின் பிணையாளர்களுக்கும்   நோட்டீஸ் அனுப்பிவைக்கப்பட்டுள்ளது.
-
-குடிவரவு மற்றும் குடியகல்வுச் சட்டத்தை மீறி விசா இல்லாமல் நாட்டில் தங்கியதாக டயானா கமகே மீது சிஐடி தாக்கல் செய்த ஏழு வழக்குகளின் சாட்சிய விசாரணை இன்று (21) நடைபெறவிருந்தது, மேலும் வழக்கு அழைக்கப்பட்டபோது பிரதிவாதி நீதிமன்றத்தில் ஆஜராகாததால் இந்த பிடிவிறாந்து  பிறப்பிக்கப்பட்டது.
-
-குடிவரவு மற்றும் குடியகல்வு கட்டுப்பாட்டாளர் நாயகம், மேல் நீதிமன்ற வழக்கு கோப்புகளின் பாதுகாவலர் மற்றும் வழக்கின் முதல் சாட்சியான வாதி ஆகியோரின் பிரதிநிதிகள் நீதிமன்றத்தில் ஆஜரானர்.
-
-◼️
-
-[Data](articles/186f74fa.json)
-
----
-
-### ගින්නකට හසුවී පුද්ගලයෙකු මියයයි
-
-*2025-08-21 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213609) · `si`
-
-කුරුණෑගල පොලිස් වසමේ විල්බාව ප්‍රදේශයේ පිහිටි පුද්ගලික අධ්‍යාපන ආයතනයක ඉදිකිරීම් කටයුතු සිදුකරන කම්කරුවන් පිරිසක් නවාතැන්ගෙන සිටි තාවකාලික වාඩියක හටගත් ගින්නකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-කුරුණෑගල පොලීසියට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කිරීමේදි අනාවරණය වී ඇත්තේ ඊයේ (20) රාත්‍රී කාලයේදී මෙම ගින්න හටගෙන ඇති බවයි.
-
-◼️
-
-[Data](articles/59c79e3c.json)
-
----
-
-### Presidential Investigation Committee on irregularities at SriLankan Airlines & AASL invites public complaints, views and proposals
-
-*2025-08-21 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111699/presidential-investigation-committee-on-irregularities-at-srilankan-airlines-aasl-invites-public-complaints-views-and-proposals-) · `en`
-
-The Presidential Special Investigation Committee, established to probe into past fraud, corruption and malpractices at Airport and Aviation Services (Sri Lanka) (Private) Limited and SriLankan Airlines, has invited complaints, views, and proposals from the public.
-
-In accordance with the Cabinet Decision dated July 1, 2025, based on the Cabinet Memorandum submitted by President Anura Kumara Dissanayake on June 30, 2025, the Presidential Special Investigation Committee was established to inquire into past incidents of fraud, corruption and irregularities at Airport and Aviation Services (Sri Lanka) (Private) Limited and SriLankan Airlines.
-
-Accordingly, the Committee seeks submissions from employees, staff members and the general public concerning issues related to both institutions, the President’s Media Division (PMD) said.
-
-...
-
-[Data](articles/d70df73b.json)
-
----
-
-### Two youths missing after drowning in separate incidents
-
-*2025-08-21 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111698/two-youths-missing-after-drowning-in-separate-incidents-) · `en`
-
-A 27-year-old youth from Bibila area has reportedly gone missing after drowning while bathing in the Bowathenna Reservoir in the Naula police division.
-
-Upon initiating investigations based on a message received by the Naula police station, it has been revealed that the accident occurred last evening (20) while the youth was bathing along with two others.
-
-Meanwhile, a 24-year-old resident of Wattala who went swimming in the seas off the Ahangama Beach in the Ahangama police division has also been reported missing and is feared drowned yesterday (20).
-
-Naula police and Ahangama police have initiated a search operation for the missing youths with the assistance of navy divers.
-
-◼️
-
-[Data](articles/06c083f2.json)
 
 ---

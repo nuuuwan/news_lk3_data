@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 11:53:16**
+As of **2025-08-21 12:10:05**
 
 ## Newspaper Stats
 
-*Scraped **71,523** Articles*
+*Scraped **71,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,879
+adalk | 6,880
 adaderanalk | 9,008
-tamilmirrorlk | 10,524
+tamilmirrorlk | 10,525
 virakesarilk | 11,824
 adaderanasinhalalk | 12,358
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,523 articles have been extended.
+61,973 (86.6%) of 71,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### இன்ஸ்டாகிராம் காதல்;காதலனை நிர்வாணப்படுத்தி இளம்பெண்
+
+*2025-08-21 11:39:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்ஸ்டாகிராம்-காதல்-காதலனை-நிர்வாணப்படுத்தி-இளம்பெண்/175-363209) · `ta`
+
+உத்தர பிரதேசத்தில் மீரட் நகரை சேர்ந்தவர் அமித் ஆர்யா. பணம் கொண்டு செல்லும் வேன் டிரைவராக ஆர்யா வேலை செய்து வந்துள்ளார். இவருக்கு பிஜ்னோர் நகரை சேர்ந்த ஜோதி என்ற இளம்பெண்ணுடன் இன்ஸ்டாகிராமில் பழக்கம் ஏற்பட்டது. பின்னர் அது காதலாக மாறியது.
+
+அவருடன் பல நாட்களாக ஆர்யா சாட்டிங் செய்து வந்திருக்கிறார். ஒரு நாள் ஜோதியை நேரில் பார்க்க வேண்டும் என்று ஆர்யாவுக்கு ஆசை ஏற்பட்டது. அதற்கேற்ப, ஜோதியும் பிஜ்னோருக்கு வரும்படி ஆர்யாவிடம் கூறியிருக்கிறார். ஆனால், அதுவே விபரீதத்தில் போய் முடியும் என அப்போது அவருக்கு தெரியவில்லை.
+
+கடந்த ஜூலை 11-ந்தேதி வேலைக்கு போனவர் அரை நாள் அவசர விடுப்பு வேண்டும் என கேட்டு வெளியே வந்திருக்கிறார். அன்றைய தினம் இரவு அவர் வீட்டுக்கு வரவில்லை. இதனால், அவரை குடும்பத்தினர் பல இடங்களில் தேடியுள்ளனர். 2 நாட்களாக தேடியும் அவர் காணவில்லை.
+
+...
+
+[Data](articles/a0ea82e6.json)
+
+---
 
 ### எம்.பிக்களுக்காக  வாகனங்களை இறக்குமதி செய்ய யோசனை
 
@@ -133,6 +149,20 @@ Opposition party leaders had also met in Parliament yesterday (20) to discuss th
 ◼️
 
 [Data](articles/05a53c7b.json)
+
+---
+
+### ඩයනා ගමගේ අත්අඩංගුවට ගන්න වරෙන්තු
+
+*2025-08-21 11:09:07* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේ-අත්අඩංගුවට-ගන්න-වරෙන්තු/11-417992) · `si`
+
+ආාමික හා විගාමික පනත උල්ලංඝණය කරමින් ව්‍යාජ තොරතුරු ඉදිරිපත් කර විදෙස් ගමන් බලපත්‍රයක් ලබා ගැනීම හා වලංගු වීසා බලපත්‍රයක් නොමැතිව ලංකාවේ රැදී සිටීම යන චෝදනා යටතේ හිටපු නියෝජ්‍ය අමාත්‍යවරියක වන ඩයනා ගමගේ අත්අඩංගුවට ගෙන අ‍ධිකරණයට ඉදිරිපත් කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කළේය.
+
+ඉහත චෝදනාවට අදාළ නඩුව අද කැඳවනු ලැබූ අතර එහිදී අධිකරණයට ඉදිරිපත් නොවීම හේතුවෙන් ඇයට මෙසේ වරෙන්තු නිකුත් කළේය.
+
+◼️
+
+[Data](articles/aacd28b3.json)
 
 ---
 
@@ -1737,47 +1767,5 @@ Several homes were also set ablaze before security forces arrived at the scene, 
 ...
 
 [Data](articles/874ad982.json)
-
----
-
-### பாலியல் தொழிலுக்காகக் சிறுமிகள் கடத்தல் : அமெரிக்காவில் 5 இந்தியர்கள் கைது!
-
-*2025-08-20 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/222968) · `ta`
-
-பாலியல் தொழிலுக்காக சிறுமிகளை கடத்திய குற்றச்சாட்டில் 5 இந்தியர்களை அமெரிக்க பொலிஸார் கைது செய்துள்ளனர்.
-
-அமெரிக்காவின் நெப்ராஸ்கா மாகாணத்தில் ஆட்கத்தலில் ஈடுபடும் கும்பலைக் குறிவைத்து அமெரிக்கப் பொலிஸார் சோதனை நடவடிக்கையை முன்னெடுத்திருந்தனர்.
-
-ஒமாஹா மெட்ரோ பகுதிகளில் உள்ள விடுதிகளில் முன்னெடுக்கப்பட்ட சோதனையில், 12 வயதிற்குட்பட்ட 10 பேர், 17 ஆண்கள் மற்றும் பெண்கள் என மொத்தம் 27 பேரைக் பொலிஸார் மீட்டுள்ளனர்.
-
-மீட்கப்பட்டவர்களிடம் பொலிஸார் மேற்கொண்ட விசாரணையில் அனைவரும் கடத்தப்பட்டு விடுதி பணிக்காக பயன்படுத்தியது தெரியவந்துள்ளது.
-
-நீண்ட நேர வேலை, குறைவான ஊதியம், சிலருக்கு ஊதியமே வழங்கவில்லை என்பது தெரியவந்துள்ளது.
-
-மேலும், சில பெண்களையும் சிறுமிகளையும் கட்டாயப்படுத்தி பாலியல் தொழிலில் ஈடுபடுத்தியமையும் வெளிச்சத்திற்கு வந்தது.
-
-இந்த சோதனையின்போது, பாதிக்கப்பட்டவர்கள் அசுத்தமான இடத்தில் பூச்சிகள் ஊர்ந்து செல்வதற்கு மத்தியில், தரையில் படுத்து உறங்கிக் கொண்டிருந்த காட்சிகளைக் கண்டதாக பொலிஸார் நீதிமன்றத்தில் விவரித்தனர்.
-
-...
-
-[Data](articles/67539011.json)
-
----
-
-### Sri Lanka’s Maharaja Foods merges marketing, supermarket units
-
-*2025-08-20 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-maharaja-foods-merges-marketing-supermarket-subsidiaries-237511/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Maharaja Foods will amalgamate its wholly owned subsidiaries Maharaja Marketing (Private) Limited and Maharaja Supermarket (Private) Limited from September, it said in a stock exchange filing.
-
-The company was founded by a family from Sri Lanka’s north produces processed ethnic foods, the bulk of which is exported to countries with South Asian expat communities.
-
-The company is part of GTV group which has logistics and a retailing. The group has been headed by Thavamalar Guganathan from 2016 when her husband who founded the firm passed away.
-
-In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colombo/Aug20/2025)
-
-◼️
-
-[Data](articles/0e8f3a06.json)
 
 ---

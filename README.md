@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 14:23:10**
+As of **2025-08-21 14:34:41**
 
 ## Newspaper Stats
 
-*Scraped **71,544** Articles*
+*Scraped **71,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,882
+adalk | 6,883
 adaderanalk | 9,013
 tamilmirrorlk | 10,532
 virakesarilk | 11,825
-adaderanasinhalalk | 12,362
+adaderanasinhalalk | 12,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,544 articles have been extended.
+61,973 (86.6%) of 71,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### චීනයේ "ගංගා ඩොල්ෆින්" වඳවීමේ අවදානමක
+
+*2025-08-21 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213614) · `si`
+
+චීනයේ යැංසි ගඟේ ජීවත් වන අවසාන විශාල සත්ත්ව විශේෂයක් වන "ගංගා ඩොල්ෆින්" නැතහොත් finless porpoise නම් සත්ත්වයා බේරා ගැනීමේ සටනක චීන විද්‍යාඥයින් නිරතව සිටින බවට විදෙස් මාධ්‍ය පවසයි.
+
+එම නිසා මෙම කලාපයේ මසුන් ඇල්ලීම සම්පූර්ණයෙන්ම තහනම් කර ඇති බව ද සඳහන්ය.
+
+නැව්වලින් ඇති වන ඉතා ඝෝෂාකාරී ශබ්දය හේතුවෙන් එම සතුන්ගේ මොළයට සිදුවන හානිකර තත්ත්වයෙහි ප්‍රතිඵලයක් ලෙස මෙම සතුන් වඳවී යන බව චීන විද්‍යාඥයින් පෙන්වා දෙයි.
+
+එසේ වුවත් මගීන් මෙන්ම භාණ්ඩ ප්‍රවාහනය නෞකා සහ මධ්‍යම චීනයේ ආර්ථිකයේ වැඩි කොටසකට ජීවනාලිය සපයන කාර්යබහුල වූ ගංගා ගමනාගමනය කිසිසේත්ම නැවැත්විය නොහැකි බව ද විද්‍යාඥයින් වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f7d8c0f2.json)
+
+---
 
 ### பாலியல் தொழிலுக்காகக் கடத்தல்:   5 இந்தியர்கள் கைது
 
@@ -121,6 +139,24 @@ The Pugoda Magistrate’s Court has issued a seven-day detention order to interr
 ◼️
 
 [Data](articles/cd2e4f02.json)
+
+---
+
+### කාදිනල් හිමිපාණෝ සහ කතෝලික රදගුරු සම්මේලනය ජනපති හමුවෙති
+
+*2025-08-21 12:56:09* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිපාණෝ-සහ-කතෝලික-රදගුරු-සම්මේලනය-ජනපති-හමුවෙති/11-417994) · `si`
+
+කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් හිමිපාණන් වහන්සේ සහ කතෝලික රදගුරු සම්මේලනය ඊයේ (20) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ‌ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු වූහ.
+
+වසරකට තෙවතාවක් පැවැත්වෙන කතෝලික රදගුරු සම්මේලනයේදී සාකච්ඡා වූ මූලික කරුණු පිළිබඳව මෙහිදී කාදිනල් හිමිපාණන් විසින් ජනාධිපතිවරයා දැනුවත් කරන ලදී.
+
+එසේම, කතෝලික සභාවේදී මතු වූ අදහස් සහ යෝජනා පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානයට ලක් කෙරිණි.
+
+මෙම අවස්ථාවට ශ්‍රී ලංකා කතෝලික රදගුරු සම්මේලනයේ සභාපති හැරල්ඩ් ඇන්තනී පෙරේරා රදගුරුතුමා සහ එම සම්මේලනයේ සාමාජිකයෝද එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/be38812f.json)
 
 ---
 
@@ -1737,33 +1773,5 @@ The inauguration was held at the Ruhunu Farms site in Hambantota and was attende
 ...
 
 [Data](articles/ffc9bdc0.json)
-
----
-
-### Innovate’s “Akuru” Pen by Atlas Axillia, inspires young creators with sensory, cultural, and emotional connection
-
-*2025-08-20 21:24:00* · [`islandlk`](http://island.lk/innovates-akuru-pen-by-atlas-axillia-inspires-young-creators-with-sensory-cultural-and-emotional-connection/) · `en`
-
-Innovate, the premium lifestyle brand of Atlas Axillia, recently launched an exquisite & exciting product – a cinnamon-infused ink aromatic pen. Inspiring today’s youth, “Akuru” represents a fusion of authentic culture and modern creativity, designed to empower creators to embrace their cultural roots while expressing their individuality.
-
-Innovate’s “Akuru” Pen offers more than mere functionality. It energises the writing experience, turning a routine task into a source of excitement and creative expression through offering a one-of-a-kind sensory experience. The event held at The Sanctuarii offered an intimate, firsthand experience that captivated young consumers through a sensory journey, one that resonated emotionally and culturally, redefining how stationery connects with its audience. The Akuru Pen, with its Sri Lankan cinnamon aroma–infused ink, offers a writing experience that enhances tactile and visual interaction while fostering a strong emotional connection.
-
-...
-
-[Data](articles/4026d7c7.json)
-
----
-
-### Invigorated performance by stock market continues; turnover tops Rs 11 billion
-
-*2025-08-20 21:23:00* · [`islandlk`](http://island.lk/invigorated-performance-by-stock-market-continues-turnover-tops-rs-11-billion/) · `en`
-
-The CSE was extremely bullish but stabilized yesterday after surpassing the psychological barrier of 20,000 Index points the previous day, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 165.7 points while S and P SL20 rose by 68.46 points. Turnover stood at Rs 11.1 billion with 12 crossings. Of the12 crossings the top seven crossings were reported in HNB, which crossed four million shares to the tune of Rs 1.6 billion; its shares traded at 405.50, HNB Finance 107 million shares crossed to the tune of Rs 851 million; its shares traded at Rs 7.90.
-
-...
-
-[Data](articles/076ff8b5.json)
 
 ---

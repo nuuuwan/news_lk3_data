@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 10:49:52**
+As of **2025-08-21 11:07:23**
 
 ## Newspaper Stats
 
-*Scraped **71,510** Articles*
+*Scraped **71,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,877
+adalk | 6,878
 adaderanalk | 9,007
-tamilmirrorlk | 10,519
+tamilmirrorlk | 10,521
 virakesarilk | 11,824
-adaderanasinhalalk | 12,353
+adaderanasinhalalk | 12,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,510 articles have been extended.
+61,973 (86.7%) of 71,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ශ්‍රීලංකන් අක්‍රමිකතා සොයන ජනපති කමිටුව මහජන පැමිණිලි කැඳවයි
+
+*2025-08-21 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213606) · `si`
+
+ගුවන් තොටුපළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමෙහි සහ ශ්‍රීලංකන් ගුවන් සමාගමෙහි පසුගිය කාලයේදි සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා සම්බන්ධයෙන් සෙවීම සඳහා පිහිටුවන ලද ජනාධිපති විශේෂ විමර්ශන කමිටුව මහජනතාවගේ පැමිණිලි, අදහස් සහ යෝජනා ලබා ගැනීමට අපේක්ෂා කරයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් 2025 ජූනි 30 දින ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශය අනුව 2025 ජූලි 01 දිනැතිව ගනු ලැබු අංක 25/1145/801/018 දරන අමාත්‍ය මණ්ඩල තීරණය ප්‍රකාරව ගුවන් තොටුපළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමෙහි සහ ශ්‍රී ලංකන් ගුවන් සමාගමෙහි පසුගිය කාලයේදි සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා සම්බන්ධයෙන් සෙවීමට ජනාධිපති විශේෂ විමර්ශන කමිටුව පිහිටුවන ලදී.
+
+...
+
+[Data](articles/a08cd67d.json)
+
+---
+
+### ஜனாதிபதி விசேட விசாரணைக் குழுவிடம் முறையிடலாம்
+
+*2025-08-21 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-விசேட-விசாரணைக்-குழுவிடம்-முறையிடலாம்/175-363201) · `ta`
+
+விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) நிறுவனம் மற்றும் ஸ்ரீலங்கன் விமான சேவை ஆகியவற்றில் நடந்த ஊழல்,மோசடி  மற்றும் முறைகேடுகள் குறித்து ஆராய நியமிக்கப்பட்ட ஜனாதிபதி விசேட விசாரணைக் குழு, பொதுமக்களின் முறைப்பாடுகள், கருத்துகள் மற்றும் ஆலோசனைகளை கோருகிறது.
+
+விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) நிறுவனம் மற்றும் ஸ்ரீலங்கன் விமான சேவை ஆகியவற்றில் கடந்த காலங்களில் நடந்த ஊழல், மோசடி மற்றும் முறைகேடுகள் குறித்து ஆராய்வதற்கு நிறுவப்பட்ட ஜனாதிபதி விசேட விசாரணைக் குழு, பொதுமக்களிடமிருந்து முறைப்பாடுகள், கருத்துகள் மற்றும் ஆலோசனைகளை பெற எதிர்பார்க்கிறது.
+
+...
+
+[Data](articles/33762416.json)
+
+---
+
+### දියේ ගිලී තරුණයින් දෙදෙනෙකු අතුරුදන්
+
+*2025-08-21 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213605) · `si`
+
+ප්‍රදේශ දෙකකදී තරුණයින් දෙදෙනෙකු දියේ ගිලීමෙන් අතුරුදන් වී ඇති බවට පොලීසිය පවසයි.
+
+නාඋල පොලිස් වසමේ බෝවතැන්න ජලාශයේ දිය නෑමට ගිය අවුරුදු 27ක වනමැදගම, බිබිල ප්‍රදේශයේ තරුණයෙකු දියේ ගිලී අතුරුදන් වී තිබේ.
+
+නාඋල පොලීසියට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කිරීමේදී අනාවරණය වී ඇත්තේ ඊයේ (20) සවස් කාලයේදි මෙම අනතුර සිදුව ඇති බවයි.
+
+තවත් පුද්ගලයින් දෙදෙනෙකු සමඟ මෙලෙස බෝවතැන්න ජලාශයේ දිය නාමින් සිටියදී අදාළ තරුණයා අනතුරට පත්ව ඇති බවට නාඋල පොලීසිය සඳහන් කරයි.
+
+මේ අතර, ඊයේ (20) අහංගම පොලිස් වසමේ අහංගම මුහුදු තීරයේ දිය නෑමට ගිය තරුණයෙකු ද දියේ ගිලී අතුරුදන් වී තිබේ.
+
+නාවික හමුදා නිලධාරීන්ගේ ද සහාය ඇතිව නාඋල පොලීසිය සහ අහංගම පොලීසිය විසින් අතුරුදන් වූ තරුණයින් සෙවීමේ කටයුතු ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/5d5131aa.json)
+
+---
+
+### “அல்குர்ஆன்களை விடுவிக்கவும்”
+
+*2025-08-21 10:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அல்குர்ஆன்களை-விடுவிக்கவும்/175-363199) · `ta`
+
+சவுதி அரேபியாவில் இருந்து அனுப்பப்பட்ட புனித அல்குர்ஆன் பிரதிகள் அடங்கிய கொள்கலன் கடந்த ஒரு வருடத்திற்கும் மேலாக விடுவிக்கப்படாது இலங்கை சுங்கத் திணைக்களத்தில் தடுத்து வைக்கப்பட்டுள்ளதாகவும், அந்த கொள்கலனை விரைவாக விடுவிக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் எனவும் இலங்கை தொழில் கட்சி பாராளுமன்ற உறுப்பினர் காதர் மஸ்தான் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்   புதன்கிழமை (20) அன்று இடம்பெற்ற நிலையியல் கட்டளை 27/2இன் கீழ் கேள்வியெழுப்பி உரையாற்றுகையிலேயே மஸ்தான் எம்.பி இதனை கூறினார்.
+
+புனித அல்-குர்ஆனை அரபு மொழியில் மீள் பிரசுரிக்கவும் ஏனைய மொழிகளில் மொழிபெயர்த்து பிரசுரிக்கும் உத்தியோகபூர்வமான உரிமை சவுதி அரேபியா அரசின் "மன்னர் பஹத் அல்-குர்ஆன் பிரசுரிப்பு நிலையம்" கொண்டுள்ளதை உலகின் அனைத்து நாடுகளிலும் பரந்து வாழும் 200 கோடி முஸ்லிம் மக்கள் ஏகமனதாக ஏற்றுக்கொண்டுள்ளதுடன், உலகின் அனைத்து நாடுகளும் அங்கீகரித்துள்ளது.
+
+...
+
+[Data](articles/114198d8.json)
+
+---
 
 ### எஸ்.ஐ.யின்  கணக்கிலிருந்து உருவிய எஸ்.ஐ. கைது
 
@@ -283,6 +349,22 @@ This is to be implemented in conjunction with the ‘Clean Sri Lanka’ national
 ...
 
 [Data](articles/979fb56f.json)
+
+---
+
+### හෝමාගම හිටපු මන්ත්‍රී ඝාතනයේ වෙඩික්කරු අල්ලයි
+
+*2025-08-21 08:46:27* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-හිටපු-මන්ත්‍රී-ඝාතනයේ-වෙඩික්කරු-අල්ලයි/11-417989) · `si`
+
+හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රීවරයෙකු වෙඩි තබා ඝාතනය කිරීමට සම්බන්ධ සැකකරුවෙකු අත්අඩංගුවට ගැනීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සමත්ව තිබේ.
+
+පසුගිය 12 වැනි දින මීගොඩ පොලිස් වසමේ ගැහැනුවල ප්‍රදේශයේදී සිදුවූ මෙම ඝාතනය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් විමර්ශන ආරම්භ කර තිබුණි.
+
+ඒ අනුව 2025.08.20 වන දින අපරාධයේ වෙඩික්කරු ලෙස ක්‍රියා කල බවට සැක කෙරෙන පුද්ගලයෙකු හම්බන්තොට පොලිස් වසමේ නාගරවැව ප්‍රදේශයේදී විමර්ශන නිලධාරින් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/b8c5138f.json)
 
 ---
 
@@ -1695,103 +1777,5 @@ In his discussions with Minister Herath, Ward reaffirmed the WFP’s commitment 
 ...
 
 [Data](articles/7aec78e9.json)
-
----
-
-### Rhino launches ‘Rhino Premier’: Game-changer in roofing innovation
-
-*2025-08-20 16:55:19* · [`dailyftlk`](https://www.ft.lk/business/Rhino-launches-Rhino-Premier-Game-changer-in-roofing-innovation/34-780514) · `en`
-
-Rhino Roofing, Sri Lanka’s most trusted name in roofing and ceiling sheets, unveiled its latest innovation, ‘Rhino Premier Roofing Sheets’, at a grand launch ceremony that took place on 15 August, at the Cumulus Ballroom, Cinnamon Life, Colombo.
-
-Bringing together leading architects, developers, contractors, members of Chamber of Construction Industry and Chartered Institute of Building, and Rhino’s network of authorised dealers, the event marked a significant milestone in the brand’s continued journey of innovation.
-
-...
-
-[Data](articles/8002019e.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields up
-
-*2025-08-20 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237509/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.70/80 to the US dollar in the spot market Wednesday, weaker from 301.55/70 the previous day, while bond yields were up, dealers said.
-
-A bond maturing on 15.12.2026 closed up at 8.12/20 percent, from 8.05/15 percent.
-
-A bond maturing on 15.09.2027 closed up at 8.45/60 percent, from 8.45/55 percent.
-
-A bond maturing on 15.12.2028 closed at 8.95/9.00 percent, up from 8.90/92 percent.
-
-A bond maturing on 15.12.2029 closed at 9.42/45 percent, up from 9.41/46 percent.
-
-A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.22/27 percent. (Colombo/Aug20/2025)
-
-◼️
-
-[Data](articles/7879aa53.json)
-
----
-
-### CEAT extends premium ‘SIS’ retail experience to Kelaniya and Horana
-
-*2025-08-20 16:54:29* · [`dailyftlk`](https://www.ft.lk/business/CEAT-extends-premium-SIS-retail-experience-to-Kelaniya-and-Horana/34-780513) · `en`
-
-Sri Lanka’s top tyre brand CEAT has extended its premium retail experience to Kelaniya and Horana, with the opening of new concept Shop-in-Shop (SIS) outlets in these bustling towns.
-
-The 11th and 12th CEAT SIS outlets in Sri Lanka are located at Jayantha Tyre Traders at No. 408, Kandy Road, Kelaniya and at Lal Tyre House at No. 243, Panadura – Anguruwatota Road, Horana, providing vehicle owners in these areas an exclusive and premium purchase experience.
-
-These outlets will offer an extensive range of CEAT tyres with attractive discounts, tyre care and technical expertise, as well as a combination of services such as wheel balancing and alignment, nitrogen and air pumps for tyre inflation, alloy wheels and automobile batteries. A distinctive feature of every CEAT SIS outlet is its own customer lounge.
-
-...
-
-[Data](articles/4d07b4d1.json)
-
----
-
-### Sri Lanka says anti-doping suspension over ‘procedural delay’
-
-*2025-08-20 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111681/sri-lanka-says-anti-doping-suspension-over-procedural-delay) · `en`
-
-Sri Lanka’s suspension this week from the World Anti-Doping Agency (WADA) was due to “procedural challenges” in updating the island’s sports law, the local governing body said Wednesday.
-
-The Sri Lanka Anti-Doping Agency (SLADA) said that legislative amendments were already before parliament to bring local laws in line with international standards required by WADA.
-
-“These are procedural challenges. We will get this done in the next couple of weeks,” SLADA Director-General Shiromi Pilapitiya told AFP. “Once it is done, we will be reinstated.”
-
-She said that Sri Lanka’s parliament was expected to ratify an amended sports law that expands the list of banned substances for athletes.
-
-Sri Lanka’s cabinet approved the proposed amendments in May, but it is still awaiting parliamentary approval.
-
-Canada-based WADA, which placed Sri Lanka on a “watch-list” in March, suspended the South Asian nation on Tuesday, saying it had not addressed or disputed the world body’s concerns.
-
-...
-
-[Data](articles/2016e2b3.json)
-
----
-
-### විපක්ෂයේ පක්ෂ විශේෂ සාකච්ඡාවක
-
-*2025-08-20 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213586) · `si`
-
-විපක්ෂයේ දේශපාලන පක්ෂ එකතුවෙන් අද (20) පාර්ලිමේන්තු සංකීර්ණයේදී විශේෂ සාකච්ඡාවක් පවත්වා තිබේ.
-
-ඒ, ආරක්ෂක නියෝජ්‍ය අමාත්‍ය මේජර් ‍ජෙනරාල් (විශ්‍රාමික) අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය ගෙනආ විශ්වාසභංග යෝජනාව පිළිබඳවය.
-
-විපක්ෂයේ ප්‍රධාන සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතාගේ මූලිකත්වයෙන් මෙම සාකච්ඡාව පවත්වා ඇති බව සඳහන් ය.
-
-මෙහිදී අදාළ විශ්වාසභංගය සම්බන්ධයෙන් ආණ්ඩුව ඉදිරිපත් කර ඇති විවිධ මත පිළිබඳව සාකච්ඡා කර තිබේ.
-
-එමෙන්ම අදාළ යෝජනාව සම්බන්ධයෙන් කථානායකවරයාගේ ප්‍රකාශය පිළිබඳව මෙම සාකච්ඡාවේදී අවධානය යොමුවී ඇති අතර ඒ පිළිබඳ හෙට (21) දිනයේදී කථානායකවරයා සිය ස්ථාවරය ඉදිරිපත් කරනු ඇති බවටද විපක්ෂයේ දේශපාලන පක්ෂ සඳහන් කර ඇත.
-
-කෙසේවෙතත් මෙම විශ්වාසභංග යෝජනාව ඉදිරිපත් කිරීම පාර්ලිමේන්තු සම්ප්‍රදායට අනුව සිදුකර ඇති බවත් එහි කිසිඳු ගැටලුවක් නොමැති බවත් විපක්ෂයේ දේශපාලන පක්ෂවල මතය වී තිබේ.
-
-මෙම සාකච්ඡාව සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන, රවුෆ් හකීම්, රිෂාඩ් බදියුදීන්, එස්. ශ්‍රීධරන්, ෂානක්කියන් රාසමාණික්කම් ඇතුළු සමගි ජන බලවේගයේ මෙන්ම ද්‍රවිඩ සහ මුස්ලිම් දේශපාලන පක්ෂවල නායකයින් ද එක්වී ඇත.
-
-...
-
-[Data](articles/62190dfd.json)
 
 ---

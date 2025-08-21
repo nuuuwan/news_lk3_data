@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 15:50:08**
+As of **2025-08-21 16:07:32**
 
 ## Newspaper Stats
 
-*Scraped **71,558** Articles*
+*Scraped **71,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,884
-adaderanalk | 9,015
+adaderanalk | 9,020
 tamilmirrorlk | 10,534
 virakesarilk | 11,826
-adaderanasinhalalk | 12,369
+adaderanasinhalalk | 12,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,558 articles have been extended.
+61,973 (86.6%) of 71,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### රුසියාවෙන් යුක්‍රේනයට නව ප්‍රහාර මාලාවක්
+
+*2025-08-21 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213623) · `si`
+
+රුසියාව බටහිර යුක්‍රේනයට එක් රැයකින් ඩ්‍රෝන යානා සහ මිසයිල විශාල ප්‍රමාණයක් දියත් කර ඇති අතර එය මෑත සතිවල සිදුවූ දරුණුතම ප්‍රහාරය බව යුක්‍රේන නිලධාරීන් පවසා තිබේ.
+
+සැපොරිෂියා, ඩිනිප්‍රොපෙට්‍රොව්ස්ක් සහ ලිවිව් (Zaporizhzhia,Dnipropetrovsk,and Lviv) යන ප්‍රදේශවලින් මෙම ප්‍රහාර වාර්තා වී ඇති අතර එහිදී එක් අයෙකු මිය ගොස් තවත් පිරිසක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+
+පසුගිය සතිවල එක්සත් ජනපද රාජ්‍ය තාන්ත්‍රික කටයුතු වේගවත් කළද සාමය සඳහා මොස්කව්හි උනන්දුව නොමැතිකම මෙම ප්‍රහාරයෙන් අවධාරණය කෙරෙන බව යුක්‍රේනයේ අගමැතිනි යුලියා ස්වයිරිඩෙන්කෝ පැවසුවාය.
+
+◼️
+
+[Data](articles/6c55702e.json)
+
+---
+
+### හෙට උණුසුම් වන ප්‍රදේශ ගැන නිවේදනයක්
+
+*2025-08-21 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213622) · `si`
+
+ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (22) දිනයේද අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අද (21) පස්වරු 3.30ට නිකුත්කරන ලද එම නිවේදනය හෙට දිනය සඳහා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත් සහ හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේනදය කරයි.
+
+◼️
+
+[Data](articles/1448bed2.json)
+
+---
 
 ### தென்னகோனுக்கு விளக்கமறியல்
 
@@ -52,9 +84,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-21 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213620) · `si`
 
-අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එළැඹෙන 27 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස කොළඹ කොටුව මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
+අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එළැඹෙන 27 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (21) පස්වරුවේ නියම කළේය.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය විසින් මෙම නියෝගය නිකුත් කර ලැබීය.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය විසින් මෙම නියෝගය නිකුත් කළාය.
+
+දේශබන්දු තෙන්නකෝන් මහතා හෝකන්දර පිහිටි ඔහුගේ නිවසේදී ඊයේ (20) පස්වරුවේ අත්අඩංගුවට ගනු ලැබීය.
+
+2022 වසරේ මැයි 09 වනදා ගාලු මුවදොර අරගල භූමියට පහරදීමේ සිදුවීම වළක්වා ගැනීමට නිසි නියෝග නිකුත් නොකිරීමට අදාළව අත්අඩංගුවට පත්විය.
+
+මෙහිදී තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඒ මහතා කොටුව මහේස්ත්‍රාත් අධිකරණය හමුවේ අපේක්ෂිත ඇප අයැදුමක් ද ගොනුකර තිබුණි.
+
+කෙසේ වෙතත් අදාළ අපේක්ෂිත ඇප අයැදුම ඊයේ පෙරවරුවේ කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය විසින් ප්‍රතික්ෂේප කරනු ලැබීය.
 
 ◼️
 
@@ -86,7 +126,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-21 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213618) · `si`
 
-නොතීසි නිකුත් කර ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා තවමත් සොයා ගැනීමට නොහැකි වීම හේතුවෙන් අද (21) අල්ලස් කොමිසමේ නිලධාරීන් විසින් ඔහුගේ මාලඹේ පිහිටි නිවසට ගොස් දැන්වීම් අලවනු ලැබීය.
+නොතීසි නිකුත් කර ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා තවමත් සොයා ගැනීමට නොහැකි වීම හේතුවෙන් අද (21) අධිකරණ නිලධාරීන් විසින් ඔහුගේ මාලඹේ පිහිටි නිවසට ගොස් දැන්වීම් අලවනු ලැබීය.
 
 කිරින්ද ධීවර වරායේ වැලි ඉවත්කිරීමේ ව්‍යාපෘතියක් අවිධිමත්ව සිදුකිරීමෙන් රජයට රුපියල් ලක්ෂ 262ක පාඩුවක් සිදුකිරීම සම්බන්ධයෙන් වූ නඩුවට අදාළව මෝසමක් මගින් අල්ලස් කොමිසම කළ කරුණු දැක්වීම සලකා බැලීමෙන් අනතුරු ඔහුට නොතීසි නිකුත් කෙරුණි.
 
@@ -95,6 +135,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/85beae01.json)
+
+---
+
+### Officials post court notice at ex-Minister Rajitha’s residence
+
+*2025-08-21 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111709/bribery-comm-officials-post-court-notice-at-ex-minister-rajithasresidence) · `en`
+
+Former Minister Rajitha Senaratne, who is currently absconding authorities despite an order issued by court, has had official notices posted at his residence in Malabe today (21) by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The notices were placed following a warrant issued by the Colombo Chief Magistrate’s Court, ordering the former minister to appear in court on August 29.
+
+The case has been filed in relation to a project involving the unauthorized removal of sand at the Kirinda Fisheries Harbour, which allegedly caused a loss of Rs. 26.2 million to the government.
+
+The Bribery Commission submitted that the project was carried out fraudulently, leading to the financial loss.
+
+As former Minister Senaratne has not yet been located, officials from the Commission visited his residence and posted court summons, notifying him of the requirement to appear before court on the scheduled date.
+
+◼️
+
+[Data](articles/53c13679.json)
 
 ---
 
@@ -113,6 +173,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7ff37422.json)
+
+---
+
+### One in five people in Western Province suffer from diabetes, health experts warn
+
+*2025-08-21 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111708/one-in-five-people-in-western-province-suffer-from-diabetes-health-experts-warn) · `en`
+
+One in every five people in Western Province has diabetes as a consequence of excessive sugar consumption, according to health experts.
+
+Participating in a media briefing convened by Sri Lanka Medical Association (SLMA), Specialist Dr. Manilka Sumanatilleke stated that excessive sugar consumption had led to this situation.
+
+“Non-communicable diseases are increasing rapidly and now account for 80% of all deaths in the country. Heart disease, high blood pressure and diabetes are amongst them. Diabetes is also prevalent among children with obesity,” he said.
+
+He pointed out that Sri Lanka is listed among the countries with high sugar consumption. “On average, a person has consumed between 25 to 30 kg of sugar per year. An adult typically consumes three to four teaspoons of sugar daily,” said Specialist Dr. Manilka Sumanatilleke.
+
+...
+
+[Data](articles/fafc983a.json)
+
+---
+
+### Chinese scientists battling to save finless porpoise from brink of extinction
+
+*2025-08-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111707/chinese-scientists-battling-to-save-finless-porpoise-from-brink-of-extinction) · `en`
+
+Chinese scientists are in a battle to save one of the last large animal species living in the Yangtze River – and a complete ban on fishing in the region is helping them.
+
+At the Institute of Hydrobiology in Wuhan, just 5km (3.1 miles) from the banks of the river, the preserved bodies of the now-extinct river dolphin (baiji in Chinese) and paddle fish sit silently behind panes of glass.
+
+“Now that those have become extinct, we’re going to save the Yangtze river porpoise,” Professor Wang Xi tells the BBC. “It has become the most important animal here.”
+
+It was in 2002 that the last known baiji died, 22 years after researchers at the Institute started caring for it.
+
+A year later, the last known paddle fish - a type of ray-finned fish which can grow to more than 3 metres - was accidentally caught by fishermen and, despite being radio tagged and released, disappeared.
+
+...
+
+[Data](articles/4d497960.json)
 
 ---
 
@@ -174,6 +272,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Three-wheeler driver sentenced to death for killing man in Kelaniya
+
+*2025-08-21 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111705/three-wheeler-driver-sentenced-to-death-for-killing-man-in-kelaniya) · `en`
+
+A 43-year-old three-wheeler driver has been sentenced to death by the Colombo High Court today (21), after being found guilty of stabbing and killing a person with a sharp weapon following an argument.
+
+The verdict was delivered by Colombo High Court Judge Mahesh Weeraman, Ada Derana reporter said.
+
+The sentence was imposed on the individual found guilty of murdering an individual in Kelaniya on March 2, 2010.
+
+After a lengthy trial, Judge Mahesh Weeraman stated that the charges brought against the accused by the prosecution had been proven beyond reasonable doubt.
+
+Accordingly, the judge imposed the death sentence on the three-wheeler driver.
+
+◼️
+
+[Data](articles/d6f92d4f.json)
+
+---
+
 ### Three-wheeler driver sentenced to death for stabbing and killing an individual in Kelaniya
 
 *2025-08-21 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111705/three-wheeler-driver-sentenced-to-death-for-stabbing-and-killing-an-individual-in-kelaniya) · `en`
@@ -209,6 +327,26 @@ Accordingly, the judge imposed the death sentence on the three-wheeler driver.
 ◼️
 
 [Data](articles/f7d8c0f2.json)
+
+---
+
+### Indictments served on ex-Minister Anura Yapa and five others
+
+*2025-08-21 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111704/indictments-served-on-ex-minister-anura-yapa-and-five-others) · `en`
+
+Former Minister Anura Priyadharshana Yapa and five others have been served indictments by the Attorney General today (21) before the Colombo High Court, on charges including the misuse of government funds by illegally spending over Rs. 6.1 million from the Ceylon Petroleum Corporation under the pretext of providing flood relief in December 2014.
+
+The indictments were served before Colombo High Court Judge Manjula Thilakaratne, Ada Derana reporter said.
+
+Subsequently, the judge ordered that each accused be released on cash bail of Rs. 100,000 and two surety bails of Rs. 1 million each.
+
+The judge further ordered that the fingerprints of the accused be recorded and that reports be submitted.
+
+The case was scheduled for a pre-trial conference on October 1.
+
+...
+
+[Data](articles/191d5eab.json)
 
 ---
 
@@ -1677,123 +1815,5 @@ The delegation was received by Colombo Dockyard Managing Director/CEO Thimira Go
 ...
 
 [Data](articles/9db671f9.json)
-
----
-
-### Sri Lanka–Maldives Business Council hosts 17th AGM
-
-*2025-08-21 03:44:14* · [`dailyftlk`](https://www.ft.lk/business/Sri-LankaMaldives-Business-Council-hosts-17thAGM/34-780541) · `en`
-
-Seated from left: The Ceylon Chamber of Commerce Secretariat Pasandi Senara, Immediate Past President Sudesh Mendis, High Commissioner of Maldives in Sri Lanka Masood Imad, President Sanjeewa Perera, High Commissioner Designate to Maldives M.R. Hassen, Senior Vice President Suranga Ratnayake, Advisor to the Committee Kevin Edwards, and Vice President Husne Rauf
-
-Standing from left (Committee members): Mafaz Azeez (Spillburg Holdings), Roshan Fernando (Diesel and Motor Engineering), Roshan Perera (Marine Transport Services), Adrian Fernando (Senok Trade Combine), Dishan Wijayawardena (Nestle Lanka), Mohammed Farih Fazal (American Water Systems), John Fernando (Kelani Cables), Manura Wickramasinghe (Puritas), Deepthi Hewageegana (United Tractor & Equipment), Danushka Jayasinghe (MAC Holdings)
-
-The Sri Lanka–Maldives Business Council of The Ceylon Chamber of Commerce has concluded its 17th
-
-...
-
-[Data](articles/471b0cdd.json)
-
----
-
-### மட்டக்களப்பு நீதிமன்றத்துக்கு சென்று வெளிவந்த பெண் ஒருவர் சினிமா பாணியில் ஆட்டோவில் கடத்தல்
-
-*2025-08-21 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/222981) · `ta`
-
-மட்டக்களப்பில் இந்திய சினிமாவில் வரும் காட்சி போல நீதிமன்றத்துக்கு சென்று வெளியே வந்த பெண் ஒருவரை பெண் ஒருவர் உட்பட்ட ஒரு குழுவினர் இணைந்து அவரின் வாயை பொத்தி இழுத்துச் சென்று ஆட்டோவில் ஏற்றிய போது அவரை காப்பாற்ற சென்ற உறவினரை அடித்து கீழே தள்ளிவிட்டு பெண்ணை கடத்தி சென்ற சம்பவம் செவ்வாய்க்கிழமை (19) காலையில் நீதிமன்றத்துக்கு முன்னால் உள்ள வீதியில் இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
-
-27 வயது பெண் ஒருவர் 29 வயதுடைய ஆண் ஒருவரை காதலித்து  பெற்றோருக்கு தெரியாமல் கடந்த 2023 பதிவு திருமணம் செய்துவிட்டு தனது பெற்றோர் வீட்டில் இருந்துள்ளார் அவ்வாறே காதலன் அவரது பெற்றோர் வீட்டில் இருந்துள்ளனர்.
-
-இந்த நிலையில் சில காலங்களுக்கு பின்னர் இந்த பதிவு திருமணம் செய்து கொண்டது தொடர்பாக பெற்றோருக்கு தெரிய வந்துள்ள நிலையில் குறித்த காதலன் வெளிநாடு சென்றுள்ளார்.
-
-அதன் பின்னர் வெளிநாடு சென்ற காதலன் பல தீய பழக்கத்தில் ஈடுபட்டிருப்பதாக காதலிக்கு தெரியவந்ததையடுத்து அவருடன் வாழ முடியாது என விவாகரத்து கோரி மட்டக்களப்பு மாவட்ட நீதிமன்றில் வழக்கு தாக்கல் செய்துள்ளார்.
-
-...
-
-[Data](articles/fd2777d8.json)
-
----
-
-### Volker Türk report, toxic West, UK-Canada resolution, Israel’s North-East connection
-
-*2025-08-21 03:28:35* · [`dailyftlk`](https://www.ft.lk/columns/Volker-Türk-report-toxic-West-UK-Canada-resolution-Israel-s-North-East-connection/4-780540) · `en`
-
-Sri Lanka faces the Report of the Office of the United Nations High Commissioner on Human Rights (OHCHR), and the Resolution expected to be submitted by the UK and Canada at the September session of the UN Human Rights Council, in a specific global and historical context. That context is the confusion, fissure, irrationality and extremism in the West, and the resultant toxicity of the West.
-
-Most of the Human Rights initiatives, strictures and suggestions we face are from a West which is not merely divided but is showing increasing irrationality in different parts of the world and on different issues, displaying a deterioration in perception of and perspective on world events.
-
-It is best evidenced in the schism on two major issues: (a) Russia/Ukraine and (b) Israel/Palestine. The USA or at least the Trump administration is rational on the former and irrational on the latter. The Rest of the West – UK, EU, Canada--is irrational on the former and rational on the latter.
-
-...
-
-[Data](articles/d4f20461.json)
-
----
-
-### ஹட்டன்–நுவரெலியா வீதியில் ஒரு மணிநேரத்தில் 4 விபத்துகள்
-
-*2025-08-21 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/222980) · `ta`
-
-தலவாக்கலை பொலிஸ் பிரிவுக்குட்பட்ட  ஹட்டன் - நுவரெலியா பிரதான வீதியில் புதன்கிழமை (20) காலை 7.30  - 8.30மணிக் கிடையில் 4 விபத்துக்கள் சம்பவித்தன.
-
-ஹட்டன் பகுதியிலிருந்து தலவாக்கலை நோக்கி பயணித்த 4 மோட்டார் சைக்கிள்களே இவ்வாறு விபத்துக்குள்ளாகின.  குறித்த வீதியின் தலவாக்கலை தேயிலை தொழிற்சாலைக்கு அருகாமையில் அமைந்திருக்கும் மோட்டார் வாகன பழுது பார்க்கும்  நிலையத்தின் முன்பாகவே இந்த விபத்துக்கள் இடம் பெற்றுள்ளன.
-
-குறித்த நிலையத்தில் நிறுத்தி வைக்கப்பட்டிருந்த  லொறி ஒன்றிலிருந்து எண்ணெய்  கசிந்து பிரதான வீதியில் சென்று கொண்டிருந்ததை தொடர்ந்து வீதி ஊடாக அச்சந்தரப்பத்தில் பயணித்த மோட்டார் சைக்கிள்கள் வீதியில் வழுக்கி விழுந்து விபத்துக்கள்  சம்பத்துள்ளது. விபத்தில் காயமடைந்த அனைவரும் உடனடியாக அருகில் உள்ள வைத்தியசாலைகளுக்கு அனுப்பப்பட்டு சிகிச்சைகளின் பின்னர் விடுதிருவியுள்ளனர்.
-
-...
-
-[Data](articles/2389c4cd.json)
-
----
-
-### கராச்சியும் வெள்ளத்தில் மூழ்கியது; 10 பேர் பலி
-
-*2025-08-21 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/222979) · `ta`
-
-பாகிஸ்தானின் தலைநகரம் மற்றும் அதிக மக்கள் தொகை கொண்ட நகரமான கராச்சி, இந்த நாட்களில் நாட்டைத் தாக்கும் பலத்த பருவமழையால் கடுமையாகப் பாதிக்கப்பட்டுள்ளது.
-
-இதன் விளைவாக, பாகிஸ்தான் அரசாங்கம் அங்குள்ள பள்ளிகள் மற்றும் அரசு அலுவலகங்களை மூட வேண்டிய கட்டாயம் ஏற்பட்டுள்ளது.
-
-மழை காரணமாக குறைந்தது 10 பேர் இறந்துள்ளனர், மேலும் இப்பகுதியில் அதிக கனமழை பெய்யும் என்று எதிர்பார்க்கப்படுகிறது.
-
-கடந்த வெள்ளிக்கிழமை வடமேற்கு மலைகளைத் தாக்கிய திடீர் வெள்ளத்தில் இறந்தவர்களின் எண்ணிக்கை 385 ஆக உயர்ந்துள்ளது, மேலும் குறிப்பிடப்படாத எண்ணிக்கையைக் காணவில்லை என்று அந் நாட்டின் அதிகாரிகள் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/e336cbcd.json)
-
----
-
-### From ports to power: Sri Lanka’s 20-year journey in foreign investment (2004–2024)
-
-*2025-08-21 03:02:06* · [`dailyftlk`](https://www.ft.lk/columns/From-ports-to-power-Sri-Lanka-s-20-year-journey-in-foreign-investment-20042024/4-780539) · `en`
-
-From 2004 to 2024, Sri Lanka’s FDI journey has been a mix of bold ambition, uneven execution, and political shifts
-
-When Sri Lanka opened its economy in 1977, the vision was to turn a small island into a nimble hub for global trade. But it’s in the past two decades that the country’s foreign investment story has been most dramatic — and, at times, most controversial.
-
-From the cranes of Colombo to the wind farms of the North, each chapter since 2004 has been marked by big bets, bold champions, and sometimes bitter debates over the price of ambition.
-
-The early 2010s marked Colombo’s leap into the big-ship era. The Colombo International Container Terminals (CICT) — a joint venture between China Merchants Port Holdings and the Sri Lanka Ports Authority (SLPA) — opened in 2013 under a 35-year build-operate-transfer deal. It gave Colombo South Harbour the capacity to handle the world’s largest vessels, cementing the port’s status as South Asia’s top transshipment hub.
-
-...
-
-[Data](articles/8ed372b5.json)
-
----
-
-### Palestine without Palestinians: Rhetoric and reality?
-
-*2025-08-21 02:50:35* · [`dailyftlk`](https://www.ft.lk/columns/Palestine-without-Palestinians-Rhetoric-and-reality/4-780537) · `en`
-
-No meaningful solution to the crisis in Gaza is possible with Netanyahu’s far-right Likud in power
-
-“Colonialism is not a thinking machine, nor a body endowed with reasoning faculties. It is violence in its natural state, and it will yield only when confronted with greater violence” – Frantz Fannon
-
-“Far-right Israeli Finance Minister Bezalel Smotrich proposes to build around 3,000 homes in West Bank to increase settlement and cut West Bank off from East Jerusalem to ‘bury’ the idea of Palestine.”
-
-...
-
-[Data](articles/6aa99600.json)
 
 ---

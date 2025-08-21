@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 05:31:56**
+As of **2025-08-21 06:08:05**
 
 ## Newspaper Stats
 
-*Scraped **71,460** Articles*
+*Scraped **71,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 730
 economynextcom | 4,372
-islandlk | 4,389
+islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,873
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,460 articles have been extended.
+61,973 (86.7%) of 71,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -440,6 +440,46 @@ The incident occurred on the night of August 7 at the Sahaspura Sirisara Housing
 
 ---
 
+### Homemade face packs…
+
+*2025-08-20 21:57:00* · [`islandlk`](http://island.lk/homemade-face-packs/) · `en`
+
+Okay, this week let’s tap into some of the skincare remedies, using natural ingredients.
+
+Apply equal parts cucumber and lemon juice on your face before taking a bath. Allow it to sit for 10 minutes before rinsing it off. This natural face beauty tip will brighten your skin tone and lighten blemishes if used on a regular basis. What’s more, it is appropriate for all skin types!
+
+Blend 1⁄4 cup unripe papaya with 01 tablespoon fresh pineapple to produce a smooth combination Apply evenly and allow to sit for 05 to 15 minutes before rinsing.
+
+Scoop up one pulp of tomato and apply it evenly on your face. Allow it to dry for 15 minutes before removing it with warm water to reveal naturally radiant skin. This natural face beauty tip is also used to decrease the appearance of wrinkles and fine lines.
+
+...
+
+[Data](articles/5c3733d1.json)
+
+---
+
+### Shah Rukh Khan… in the news
+
+*2025-08-20 21:56:00* · [`islandlk`](http://island.lk/shah-rukh-khan-in-the-news/) · `en`
+
+Shah Rukh Khan was very much in the news, the past few weeks, especially in Sri Lanka, with most Sri Lankans eagerly awaiting his arrival, in Colombo, on 2nd August.
+
+Of course, it didn’t happen, and none of us know the real reason for his, let’s call it, last minute cancellation.
+
+Officially, it was stated that the cancellation was “due to unforeseen and unavoidable personal reasons beyond his control.”
+
+It was also mentioned that he was injured on the set of ‘King’ but that was reported as false by NDTV and ‘Times of India’.
+
+However, SRK is in the news again and this time it’s mainly in India.
+
+Shah Rukh Khan’s National Award win for ‘Best Actor’ for his performance in ‘Jawan’ has sparked controversy. Some people were surprised that it took him 33 years to receive this honour, while others are questioning the merit behind Khan’s win.
+
+...
+
+[Data](articles/18d25df9.json)
+
+---
+
 ### කරච්චි නගරයටත් ගංවතුර
 
 *2025-08-20 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213590) · `si`
@@ -471,6 +511,64 @@ The incident occurred on the night of August 7 at the Sahaspura Sirisara Housing
 ...
 
 [Data](articles/30c5608a.json)
+
+---
+
+### Ruhunu Farms unveils new facility, supporting the continued growth of Aberdeen Holdings
+
+*2025-08-20 21:25:00* · [`islandlk`](http://island.lk/ruhunu-farms-unveils-new-facility-supporting-the-continued-growth-of-aberdeen-holdings/) · `en`
+
+In continuing a legacy of progress in the poultry industry, Ruhunu Farms (Pvt) Ltd a subsidiary of Aberdeen Holdings, commemorated the opening of its expanded poultry facility recently, at its premises in Hambantota. The ceremony marked a pivotal chapter in the company’s 46-year journey of delivering safe, hygienic, and responsibly produced poultry to communities across the Southern Province.
+
+The inauguration was held at the Ruhunu Farms site in Hambantota and was attended by distinguished guests including Sattar Kassim, Chairman of Aberdeen Holdings, Hassan Kassim, Deputy Chairman, and the Board of Directors of the group. Among the distinguished attendees was Azmi Thassim, founder of the original M.R. Thassim and Company, which has since evolved into Ruhunu Farms.
+
+...
+
+[Data](articles/ffc9bdc0.json)
+
+---
+
+### Innovate’s “Akuru” Pen by Atlas Axillia, inspires young creators with sensory, cultural, and emotional connection
+
+*2025-08-20 21:24:00* · [`islandlk`](http://island.lk/innovates-akuru-pen-by-atlas-axillia-inspires-young-creators-with-sensory-cultural-and-emotional-connection/) · `en`
+
+Innovate, the premium lifestyle brand of Atlas Axillia, recently launched an exquisite & exciting product – a cinnamon-infused ink aromatic pen. Inspiring today’s youth, “Akuru” represents a fusion of authentic culture and modern creativity, designed to empower creators to embrace their cultural roots while expressing their individuality.
+
+Innovate’s “Akuru” Pen offers more than mere functionality. It energises the writing experience, turning a routine task into a source of excitement and creative expression through offering a one-of-a-kind sensory experience. The event held at The Sanctuarii offered an intimate, firsthand experience that captivated young consumers through a sensory journey, one that resonated emotionally and culturally, redefining how stationery connects with its audience. The Akuru Pen, with its Sri Lankan cinnamon aroma–infused ink, offers a writing experience that enhances tactile and visual interaction while fostering a strong emotional connection.
+
+...
+
+[Data](articles/4026d7c7.json)
+
+---
+
+### Invigorated performance by stock market continues; turnover tops Rs 11 billion
+
+*2025-08-20 21:23:00* · [`islandlk`](http://island.lk/invigorated-performance-by-stock-market-continues-turnover-tops-rs-11-billion/) · `en`
+
+The CSE was extremely bullish but stabilized yesterday after surpassing the psychological barrier of 20,000 Index points the previous day, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 165.7 points while S and P SL20 rose by 68.46 points. Turnover stood at Rs 11.1 billion with 12 crossings. Of the12 crossings the top seven crossings were reported in HNB, which crossed four million shares to the tune of Rs 1.6 billion; its shares traded at 405.50, HNB Finance 107 million shares crossed to the tune of Rs 851 million; its shares traded at Rs 7.90.
+
+...
+
+[Data](articles/076ff8b5.json)
+
+---
+
+### CEAT extends premium ‘S-I-S’ retail experience to Kelaniya and Horana
+
+*2025-08-20 21:22:00* · [`islandlk`](http://island.lk/ceat-extends-premium-s-i-s-retail-experience-to-kelaniya-and-horana/) · `en`
+
+Sri Lanka’s top tyre brand CEAT has extended its premium retail experience to Kelaniya and Horana, with the opening of new-concept Shop-in-Shop (SIS) outlets in these bustling towns.
+
+The 11th and 12th CEAT SIS outlets in Sri Lanka are located at Jayantha Tyre Traders at No 408, Kandy Road, Kelaniya and at Lal Tyre House at No 243, Panadura – Anguruwatota Road, Horana, providing vehicle owners in these areas an exclusive and premium purchase experience.
+
+These outlets will offer an extensive range of CEAT tyres with attractive discounts, tyre care and technical expertise, as well as a combination of services such as wheel balancing and alignment, nitrogen and air pumps for tyre inflation, alloy wheels and automobile batteries. A distinctive feature of every CEAT SIS outlet is its own customer lounge.
+
+...
+
+[Data](articles/33c71962.json)
 
 ---
 
@@ -1705,97 +1803,5 @@ Named “Xavier 4.0” it is a mission-ready platform combining the power of the
 ◼️
 
 [Data](articles/d6009d2a.json)
-
----
-
-### விசேட தேவையுடையவர்களுக்கு நற்செய்தி
-
-*2025-08-20 15:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையவர்களுக்கு-நற்செய்தி/175-363136) · `ta`
-
-நீண்டகாலமாக இருந்த தடைகள் நீக்கப்பட்ட பின்னர், இலங்கையில் மாற்றுத்திறனாளிகள் இப்போது ஓட்டுநர் உரிமங்களைப் பெறுவதற்கான வாய்ப்பைப் பெறுவார்கள் என்று பாராளுமன்ற உறுப்பினர் சுகத் வசந்த டி சில்வா இன்று தெரிவித்தார்.
-
-அரசாங்க தகவல் திணைக்களத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் பேசிய அவர், கேட்கும் திறன் அல்லது பேச்சு குறைபாடு உள்ளவர்கள் மற்றும் பகுதியளவு பார்வை திறன் கொண்டவர்கள் புதிய விதிகளின் கீழ் விண்ணப்பிக்க முடியும் என்று விளக்கினார். நாட்டில் 1.6 மில்லியனுக்கும் அதிகமான மாற்றுத்திறனாளிகளின் நடமாட்ட உரிமைகளை உறுதி செய்வதை நோக்கமாகக் கொண்ட பல ஆண்டுகால விவாதங்களைத் தொடர்ந்து இந்த மாற்றம் ஏற்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
-
-போக்குவரத்து அமைச்சகத்தின் ஆலோசனைக் குழுவிலும் பணியாற்றும் எம்.பி. சுகத், மாற்றுத்திறனாளிகள் எதிர்கொள்ளும் முக்கிய சவால்களில் ஒன்று மருத்துவ சான்றிதழ் இல்லாதது மற்றும் பல்வேறு உடல் நிலைமைகளுக்கு ஏற்ற வாகன ஏற்பாடுகள் இல்லாதது என்று கூறினார்.
-
-...
-
-[Data](articles/c58cc080.json)
-
----
-
-### Court issues notice to Rajitha Senaratne to appear on August 29
-
-*2025-08-20 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111678/court-issues-notice-to-rajitha-senaratne-to-appear-on-august-29) · `en`
-
-The Colombo Magistrate’s Court today (20) issued a notice to former Minister Rajitha Senaratne, who is currently under an arrest warrant, directing him to appear before the court on August 29.
-
-Colombo Chief Magistrate Thanuja Lakmali issued the notice under Section 60(1) of the Criminal Procedure Code, following a request made by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), said Ada Derana reporter.
-
-◼️
-
-[Data](articles/a59801a6.json)
-
----
-
-### රාජිතට අධිකරණයේ පෙනී සිටින්නැයි නොතීසි
-
-*2025-08-20 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213581) · `si`
-
-අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබෙන හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාට අගෝස්තු මස 29 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (20) නොතීසි නිකුත් කර තිබේ.
-
-අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි මහත්මිය විසින් අපරාධ නඩු විධාන සංග්‍රහයේ 60(1) වගන්තිය යටතේ මෙම නොතීසි නිකුත් කළාය.
-
-◼️
-
-[Data](articles/7e6d44dc.json)
-
----
-
-### இவர்களை உங்களுக்குத் தெரியுமா?
-
-*2025-08-20 15:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்களை-உங்களுக்குத்-தெரியுமா/175-363135) · `ta`
-
-கிரிபத்கொட காவல் நிலையத்தால் 2025.07.21 அன்று, நடத்தப்பட்ட சோதனையின் போது, T-56 துப்பாக்கி வைத்திருந்த ஒரு சந்தேக நபர் முச்சக்கர வண்டியில் பயணித்துக் கொண்டிருந்தார். சந்தேக நபரால் வெளிப்படுத்தப்பட்ட தகவலின் அடிப்படையில், வவுனியா பிரிவு குற்றப் புலனாய்வுப் பணியக அதிகாரிகள் கைக்குண்டுகளுடன் ஒரு சந்தேக நபரைக் கைது செய்தனர்.
-
-மேற்கண்ட சந்தேக நபர்கள் பயங்கரவாத எதிர்ப்பு மற்றும் புலனாய்வுப் பிரிவால் கைது செய்யப்பட்டனர், மேலும் விசாரணைகளில் கைக்குண்டுகளை வைத்திருந்த மற்றொரு சந்தேக நபர் மற்றும் அந்த நடவடிக்கைகளில் ஈடுபட்ட இரண்டு சந்தேக நபர்கள் பற்றிய தகவல்கள் தெரியவந்தது.
-
-அதன்படி, பயங்கரவாத எதிர்ப்பு மற்றும் புலனாய்வுப் பிரிவைச் சேர்ந்த அதிகாரிகள் குழு மூன்று சந்தேக நபர்களைக் கைது செய்ய வவுனியா பகுதிக்குச் சென்றிருந்தது. அதற்குள், சந்தேக நபர்கள் தங்கள் வசிப்பிடப் பகுதிகளை விட்டு வெளியேறிவிட்டனர். மூன்று சந்தேக நபர்களின் விவரங்கள் பின்வருமாறு.
-
-மேலுள்ள சந்தேக நபர்கள் குறித்து ஏதேனும் தகவல் இருந்தால் பின்வரும் தொலைபேசி எண்களுக்குத் தெரிவிக்குமாறு பொலிஸ் பொதுமக்களைக் கேட்டுக்கொள்கிறது.
-
-◼️
-
-[Data](articles/5ffdbf5b.json)
-
----
-
-### ”71 சதவீதமான குடும்பங்கள் அஸ்வெசுமவை நம்பியுள்ளன”
-
-*2025-08-20 14:54:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/71-சதவீதமான-குடும்பங்கள்-அஸ்வெசுமவை-நம்பியுள்ளன/175-363134) · `ta`
-
-இலங்கையின் வறுமை ஒழிப்புத் திட்டமான அஸ்வெசுமவை, கிட்டத்தட்ட 71 சதவீத குடும்பங்கள் நம்பியுள்ளன என்று கிராமப்புற அபிவிருத்தி, சமூகப் பாதுகாப்பு மற்றும் சமூக வலுவூட்டல் அமைச்சர் உபாலி பனிலகே இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/214f48b4.json)
-
----
-
-### சுற்றுலாப் பயணிகளுக்கு வாகன உரிமம்;அமைச்சர் விளக்கம்
-
-*2025-08-20 14:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளுக்கு-வாகன-உரிமம்-அமைச்சர்-விளக்கம்/175-363132) · `ta`
-
-கட்டுநாயக்க விமான நிலையத்தில் சுற்றுலாப் பயணிகளுக்கு வழங்கப்படும் தற்காலிக உரிமங்கள் முச்சக்கர வண்டிகளுக்கான உரிமங்களைக் கொண்டிருக்கவில்லை என்று போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-இன்று பாராளுமன்றத்தில் உரையாற்றிய அமைச்சர் ரத்நாயக்க, தற்காலிக உரிமங்கள் இலகுரக வாகனங்களுக்கு மட்டுமே சுற்றுலாப் பயணிகளுக்கு வழங்கப்படுகின்றன என்று தெளிவுபடுத்தினார்.
-
-"இந்த உரிமங்கள் இலகுரக வாகனங்களுக்கு மட்டுமே. சுற்றுலாப் பயணிகள் விடுமுறை நாட்களில் தங்களையும் தங்கள் குடும்பத்தினரையும் ஏற்றிச் செல்லப் பயன்படுத்தப்படும் இலகுரக வாகனங்களுக்கான உரிமங்களை மட்டுமே பயன்படுத்த முடியும். பொதுப் போக்குவரத்தாக கருதப்படும் எந்த வாகனத்தையும் அவர்கள் ஓட்ட முடியாது," என்று அவர் கூறினார்.
-
-சுற்றுலாப் பயணிகளுக்கு முச்சக்கர வண்டிகளுக்கான உரிமங்கள் வழங்கப்படுவதில்லை என்பதை தெளிவுபடுத்திய அவர், முச்சக்கர வண்டித் துறையில் உள்ளவர்களுக்கு ஏற்படும் பாதுகாப்பு அபாயங்கள் மற்றும் அநீதியைக் கருத்தில் கொண்ட பின்னரே இது வழங்கப்பட்டது என்றார்.
-
-...
-
-[Data](articles/1a05e635.json)
 
 ---

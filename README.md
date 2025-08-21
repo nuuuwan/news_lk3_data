@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 16:21:50**
+As of **2025-08-21 16:32:56**
 
 ## Newspaper Stats
 
-*Scraped **71,567** Articles*
+*Scraped **71,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,886
 adaderanalk | 9,020
-tamilmirrorlk | 10,534
+tamilmirrorlk | 10,535
 virakesarilk | 11,826
 adaderanasinhalalk | 12,371
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,567 articles have been extended.
+61,973 (86.6%) of 71,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### நிர்வாண வீடியோ காட்டி மிரட்டிய காதலனுக்கு விளக்கமறியல்
+
+*2025-08-21 16:11:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-வீடியோ-காட்டி-மிரட்டிய-காதலனுக்கு-விளக்கமறியல்/175-363228) · `ta`
+
+தனது காதலியின் நிர்வாண வீடியோ காட்சிகளை சமூக வலைதளங்களில் பகிர்வதாக மிரட்டிய குற்றச்சாட்டில், கைது செய்யப்பட்ட இளைஞனை செப்டம்பர் 3 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு மேலதிக நீதவான் மஞ்சுள ரத்நாயக்க உத்தரவிட்டார்.
+
+குறித்த சந்தேக நபர் பாதிக்கப்பட்ட பெண்ணுடன் சிறிது காலமாக காதல் உறவில் இருந்துள்ளதுடன் இதன்போது இருவரும் நெருக்கமாக இருக்கும் போது காதலியின் அனுமதியுடன் அதை காணொளியாக பதிவு செய்துள்ளார்
+
+பின்னர் வாட்ஸ் அப் மூலம் அந்த வீடியோக்களை சமூக வலைதளங்களில் வெளியிடுவதாக கூறியதாக பெண்ணை மிரட்டியுள்ளார்.
+
+சந்தேக நபரின் சார்பாக ஆஜரான வழக்கறிஞர் உதயங்க முனவீர, இந்த வீடியோக்கள் இரு தரப்பினரின் பரஸ்பர ஒப்புதலுடன் உருவாக்கப்பட்டதாகவும், தனது வாடிக்கையாளரை ஜாமீனில் விடுவிக்குமாறும் நீதிமன்றத்தில் கோரிக்கை விடுத்தார்.
+
+சமர்ப்பிப்புகளை பரிசீலித்த நீதவான், பிணை மனுவை நிராகரித்து, சந்தேக நபரை செப்டம்பர் 3 ஆம் திகதி வரை விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/eabf37d5.json)
+
+---
 
 ### මහවැලියේ ජීප් රියකින් මුව මස් ඇද්ද ඉංජිනේරුවෙක් ඇතුළු තිදෙනෙක් අත්අඩංගුවට
 
@@ -1805,23 +1825,5 @@ The Modara facility, owned by the Ceylon Fisheries Corporation, has long been re
 ...
 
 [Data](articles/05b08018.json)
-
----
-
-### Govt. apartment complexes over 40 years old in Colombo to be redeveloped next year: NHDA
-
-*2025-08-21 04:37:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-apartment-complexes-over-40-years-old-in-Colombo-to-be-redeveloped-next-year-NHDA/56-780551) · `en`
-
-The National Housing Development Authority (NHDA) officials recently disclosed that the Government apartment complexes in the Colombo District over 40 years old, are planned to be redeveloped next year.
-
-This was revealed during a meeting of the Sectoral Oversight Committee on Infrastructure and Strategic Development held in Parliament recently, Chaired by MP S.M. Marikkar.
-
-The officials informed the committee that there are 45 apartment housing projects over 40 years old within the Colombo District, comprising around 10,000 housing units.
-
-Accordingly, the committee Chairman instructed the officials to submit a report within a month detailing how these redevelopment projects will be implemented, including decisions regarding current residents of those housing complexes.
-
-...
-
-[Data](articles/d60dca4d.json)
 
 ---

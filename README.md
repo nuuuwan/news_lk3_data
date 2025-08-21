@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 13:31:48**
+As of **2025-08-21 13:51:51**
 
 ## Newspaper Stats
 
-*Scraped **71,541** Articles*
+*Scraped **71,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,881
+adalk | 6,882
 adaderanalk | 9,013
 tamilmirrorlk | 10,531
 virakesarilk | 11,825
-adaderanasinhalalk | 12,361
+adaderanasinhalalk | 12,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,541 articles have been extended.
+61,973 (86.6%) of 71,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ඝාතනයකට වරදකරු වූ ත්‍රිවිල් රියදුරෙකුට මරණ දණ්ඩනය
+
+*2025-08-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213613) · `si`
+
+බහින් බස් වීමකින් අනතුරුව පුද්ගලයෙකුට තියුණු ආයුධකින් ඇන මරා දැමීමේ චෝදනාවකට වරදකරු කෙරුණු 43 හැවිරිදි ත්‍රිරෝද රථ රියදුරෙකුට කොළඹ මහාධිකරණය අද (21) මරණීය දණ්ඩනය නියම කළේය.
+
+◼️
+
+[Data](articles/01f43c03.json)
+
+---
 
 ### ரணிலுக்கு அழைப்பாணை
 
@@ -293,6 +305,22 @@ The arrest warrant has reportedly been issued due to former State Minister Diana
 ...
 
 [Data](articles/f1bf8fca.json)
+
+---
+
+### ලංකාවේ කුරුඳුවලට ලෝක වෙළඳපොළේ විශාල ඉල්ලුමක්
+
+*2025-08-21 11:28:47* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කුරුඳුවලට-ලෝක-වෙළඳපොළේ-විශාල-ඉල්ලුමක්/11-417993) · `si`
+
+ලංකාවේ කුරුඳු වලට ලෝක වෙළඳ පොලේ විශාල ඉල්ලුමක් තිබෙන බවත් ඒ අනුව කුරුඳු වගාව සංවර්ධනය කිරිමේ අරමුණින් කුරුඳු වගාකරුවන්ට නව තාක්ෂණය හඳුන්වා දිමට පියවර ගෙන ඇති බවත් කුරුඳු සංවර්ධන දෙපාර්තමේන්තුවේ සහකාර අධ්‍යක්ෂ (පාලන) චතුරංග ගුණසේකර මහා පවසයි.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් කරුණු  පැහැදිලි කල ඒ මහතා කියා සිටියේ  විශේෂයෙන්ම ගාල්ල,මාතර,කලුතර,රත්නපුර සහ හම්බන්තොට දිස්තික්කවල සාර්ථකව කුරුඳුවගාව සිදුකරනු ලබන බවය.වාර්ෂිකව කුරුඳු මෙට්ට්‍රික් ටොන් විසිපන් දහසක  ප්‍රමාණයක් අපනයනය කරණු ලබන අතර එයින් ලංකාවට ඇමරිකන් ඩොලර් මිලියන විසිපන් දහසක ආදායමක් ලැබෙන බවත් කුරුඳු ලංකවේ හතරවන වෙළඳ බෝගය බවත් ඒ මහතා පැවසිය.
+
+කුරුඳු වගාව,නිෂ්පාදනය ,සැකසිම,ආදිය සම්බන්ධයෙන් මෙසේ තාක්ෂණය හඳුන්වා දිමට පියවර ගෙන ඇති බවද මේ වනවිටත් මාතර පලොල්පිටියේ පිහිටා ඇති ජාතික කුරුඳු පර්යේෂණ පුහුණු මධ්‍යස්ථානයේ කුරුඳු ගොවින් පුහුණු කිරිමේ කටයුතු සිදුකරගෙන යන බවත් ඒ මහතා වැඩි දුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/5f4b5fbb.json)
 
 ---
 
@@ -1725,39 +1753,5 @@ These outlets will offer an extensive range of CEAT tyres with attractive discou
 ...
 
 [Data](articles/33c71962.json)
-
----
-
-### Sri Lanka’s Foreign Minister lauds Vietnam’s dynamic development
-
-*2025-08-20 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111684/sri-lankas-foreign-minister-lauds-vietnams-dynamic-development) · `en`
-
-Sri Lankan Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath has commended Vietnam’s strong and dynamic development, describing it as a role model for his country.
-
-He made the praise on August 19 while attending a recent ceremony hosted by the Vietnamese Embassy in Sri Lanka to mark the 80th anniversary of the August Revolution (August 19), the 80th National Day (September 2), and the 55th anniversary of bilateral diplomatic relations (July 21).
-
-Vietnamese Ambassador to Sri Lanka Trinh Thi Tam stressed the valuable support of the international community, including Sri Lankan friends, in Vietnam’s national building and development.
-
-She expressed delight at the continuous strengthening of bilateral relations over the past 55 years in politics, diplomacy, trade, culture, education, and people-to-people exchanges, while highlighting the vast potential for further cooperation.
-
-...
-
-[Data](articles/8d83be3a.json)
-
----
-
-### බොරැල්ලේ වෙඩිතැබීමට වෙඩික්කරු රැගෙන ආ යතුරුපැදිකරු අත්අඩංගුවට
-
-*2025-08-20 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213589) · `si`
-
-බොරැල්ල, සිරිසර උයන ක්‍රීඩාංගණයේදී තරුණයන් 5 දෙනෙකු ඉලක්ක කර සිදුකළ වෙඩිතැබීමේ සිද්ධියේ වෙඩික්කරු රැගෙන යතුරුපැදිකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-කොළඹ දිසා අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන අංශය විසින් කඩවත ප්‍රදේශයේ ලැගුම්හලක සැඟවී සිටියදී මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-බොරැල්ල සිරිසර උයන ක්‍රීඩාංගණයේදී ඉකුත් 7 වනදා රාත්‍රියේ මෙම වෙඩිතැබීම සිදු වූ අතර, ඉන් තරුණයන් දෙදෙනෙකුට දිවි අහිමි විය.
-
-◼️
-
-[Data](articles/1549e42b.json)
 
 ---

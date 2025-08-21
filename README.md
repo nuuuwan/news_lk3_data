@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 14:50:25**
+As of **2025-08-21 15:07:53**
 
 ## Newspaper Stats
 
-*Scraped **71,549** Articles*
+*Scraped **71,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ adalk | 6,883
 adaderanalk | 9,015
 tamilmirrorlk | 10,532
 virakesarilk | 11,826
-adaderanasinhalalk | 12,363
+adaderanasinhalalk | 12,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,549 articles have been extended.
+61,973 (86.6%) of 71,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### සිම්බාබ්වේ යන ශ්‍රී ලංකා එක්දින සංචිතය නම් කෙරේ
+
+*2025-08-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213617) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ඉදිරියේ දී සිදුකිරීමට නියමිත සිම්බාබ්වේ තරග සංචාරයේ එක්දින තරගාවලියට ක්‍රීඩාකිරීමට නියමිත ශ්‍රී ලංකා සංචිතය අද (21) ප්‍රකාශයට පත් කළේය.
+
+ඒ අනුව චරිත් අසලංකගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 16 දෙනෙකුගෙන් යුත් සංචිතයක් ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව විසින් මේ සඳහා නම්කර ඇත.
+
+දෙරට අතර තරග 3 බැගින් වූ එක්දින හා විස්සයි20 තරගාවලියක් පැවැත්වෙන අතර, ඉන් පළමුව පැවැත්වෙන එක්දින තරගාවලිය මේ මස 29වනදා ආරම්භ වේ.
+
+ඉතිරි තරග 31වනදා හා සැප්තැම්බර් 3 යන දිනවල පැවැත්වෙන අතර, සියලුම තරග හරාරේහිදී පැවැත්වීමට නියමිතය.
+
+දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ හිදී පැවැත්වේ.
+
+1) චරිත් අසලංක (නායක), 2) පැතුම් නිස්සංක, 3) නිශාන් මධුෂ්ක, 4) කුසල් මෙන්ඩිස්, 5) සධීර සමරවික්‍රම, 6) නුවනිදු ප්‍රනාන්දු, 7) කමිඳු මෙන්ඩිස්, 8) ජනිත් ලියනගේ, 9) පවන් රත්නායක, 10) දුනිත් වෙල්ලාලගේ, 11) මිලාන් රත්නායක, 12) මහීෂ් තීක්ෂණ, 13) ජෙෆ්රි වැන්ඩර්සේ, 14) අසිත ප්‍රනාන්දු, 15) දුෂ්මන්ත චමීර, 16) ඩිල්ෂාන් මධුශංක
+
+◼️
+
+[Data](articles/ed2cc75c.json)
+
+---
+
+### හිටපු ඇමති අනුර ප්‍රියදර්ශන ඇතුළු විත්තිකරුවන්ට අධිචෝදනා
+
+*2025-08-21 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213616) · `si`
+
+2014 වසරේ දෙසැම්බර් මස ගංවතුර ආධාර සපයන බව සඳහන් කරමින් අනීතික ලෙස තෙල් නීතිගත සංස්ථාවට අයත් රුපියල් ලක්ෂ 61කට අධික මුදලක් වැය කිරීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කිරීම ඇතුළු චෝදනා යටතේ හිටපු ඛනිජතල් විෂය භාර අමාත්‍ය අනුර ප්‍රියදර්ශනය යාපා මහතා ඇතුළු විත්තිකරුවන් හය දෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබූ අධිචෝදනා පත්‍ර අද (21) කොළඹ මහාධිකරණය හමුවේ භාරදෙනු ලැබීය.
+
+කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ මෙම අධිචෝදනා භාරදීම සිදුවුණි.
+
+ඉන් අනතුරුව එක් එක් විත්තිකරු රුපියල් ලක්ෂය බැගින් වූ මුදල් ඇප සහ රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැරීමට විනිසුරුවරයා නියම කළේය.
+
+ඉන් අනතුරුව විත්තිකරුවන්ගේ ඇඟිලි සලකනු ලබාගෙන වාර්තා කැඳවීමට ද විනිසුරුවරයා විසින් නියම කරනු ලැබීය.
+
+ඉන් අනතුරුව මෙම නඩුව පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා ඔක්තෝබර් මස 01 වනදා කැඳවීමට ද නියම වුණි.
+
+...
+
+[Data](articles/bc33fd19.json)
+
+---
+
+### දයාසිරිගෙන් කථානායකට ලිපියක්
+
+*2025-08-21 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213615) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ දයාසිරි ජයසේකර මහතා විසින් අද (21) කථානායකවරයා වෙත ලිපියක් යොමු කර තිබේ.
+
+මන්ත්‍රීවරයා එලෙස ලිපියක් යොමුකරමින් ඉල්ලා ඇත්තේ, පුළුල් ඒකාබද්ධ මුදල් සැපයුම පිළිබඳ කරුණු දැක්වීමට ශ්‍රී ලංකා මහ බැංකුව රාජ්‍ය මුල්‍ය පිළිබඳ කාරක සභාව වෙත කැඳවීමට පියවර ගන්නා ලෙසය.
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා විසින් කථානායකවරයා වෙත යොමුකළ ලිපිය පහතින්,
+
+◼️
+
+[Data](articles/82838283.json)
+
+---
 
 ### Three-wheeler driver sentenced to death for stabbing and killing an individual in Kelaniya
 
@@ -1733,61 +1791,5 @@ Following the shooting, police acted swiftly, setting up roadblocks and inspecti
 ◼️
 
 [Data](articles/9f73f3dc.json)
-
----
-
-### Motorcyclist linked to Borella shooting incident arrested
-
-*2025-08-20 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111685/motorcyclist-linked-to-borella-shooting-incident-arrested-) · `en`
-
-Police have arrested the motorcyclist involved in the recent shooting incident that targeted five youths at the Sahaspura Sirisara Housing Complex in Borella.
-
-The Organized Crime Investigation Unit of the Colombo District Crime Division made the arrest while the suspect was hiding in a lodge in the Kadawatha area.
-
-The incident occurred on the night of August 7 at the Sahaspura Sirisara Housing Complex in Borella, resulting in the death of two youths and injuries to three others.
-
-◼️
-
-[Data](articles/0c6a0de3.json)
-
----
-
-### Homemade face packs…
-
-*2025-08-20 21:57:00* · [`islandlk`](http://island.lk/homemade-face-packs/) · `en`
-
-Okay, this week let’s tap into some of the skincare remedies, using natural ingredients.
-
-Apply equal parts cucumber and lemon juice on your face before taking a bath. Allow it to sit for 10 minutes before rinsing it off. This natural face beauty tip will brighten your skin tone and lighten blemishes if used on a regular basis. What’s more, it is appropriate for all skin types!
-
-Blend 1⁄4 cup unripe papaya with 01 tablespoon fresh pineapple to produce a smooth combination Apply evenly and allow to sit for 05 to 15 minutes before rinsing.
-
-Scoop up one pulp of tomato and apply it evenly on your face. Allow it to dry for 15 minutes before removing it with warm water to reveal naturally radiant skin. This natural face beauty tip is also used to decrease the appearance of wrinkles and fine lines.
-
-...
-
-[Data](articles/5c3733d1.json)
-
----
-
-### Shah Rukh Khan… in the news
-
-*2025-08-20 21:56:00* · [`islandlk`](http://island.lk/shah-rukh-khan-in-the-news/) · `en`
-
-Shah Rukh Khan was very much in the news, the past few weeks, especially in Sri Lanka, with most Sri Lankans eagerly awaiting his arrival, in Colombo, on 2nd August.
-
-Of course, it didn’t happen, and none of us know the real reason for his, let’s call it, last minute cancellation.
-
-Officially, it was stated that the cancellation was “due to unforeseen and unavoidable personal reasons beyond his control.”
-
-It was also mentioned that he was injured on the set of ‘King’ but that was reported as false by NDTV and ‘Times of India’.
-
-However, SRK is in the news again and this time it’s mainly in India.
-
-Shah Rukh Khan’s National Award win for ‘Best Actor’ for his performance in ‘Jawan’ has sparked controversy. Some people were surprised that it took him 33 years to receive this honour, while others are questioning the merit behind Khan’s win.
-
-...
-
-[Data](articles/18d25df9.json)
 
 ---

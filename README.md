@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 05:07:03**
+As of **2025-08-22 05:17:57**
 
 ## Newspaper Stats
 
-*Scraped **71,648** Articles*
+*Scraped **71,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 731
 economynextcom | 4,384
 islandlk | 4,402
 dailymirrorlk | 4,733
-dailyftlk | 5,056
+dailyftlk | 5,057
 adalk | 6,895
 adaderanalk | 9,036
 tamilmirrorlk | 10,545
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,648 articles have been extended.
+61,973 (86.5%) of 71,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### Social protection: Not an option but a necessity in Asia and the Pacific
+
+*2025-08-22 04:58:16* · [`dailyftlk`](https://www.ft.lk/opinion/Social-protection-Not-an-option-but-a-necessity-in-Asia-and-the-Pacific/14-780617) · `en`
+
+Social protection for individuals and households must be recognised not just as a safety net, but as an economically and socially empowering instrument that brings stability, prosperity and resilience
+
+Asia and the Pacific is navigating multiple disruptions, both positive and negative. Economic restructuring, green transitions, intensifying climate change, demographic shifts and digital transformations are posing a critical question: how do we ensure that large numbers of people are not left behind?
+
+One response is indispensable. Social protection for individuals and households must be recognised not just as a safety net, but as an economically and socially empowering instrument that brings stability, prosperity and resilience.
+
+...
+
+[Data](articles/e0729573.json)
+
+---
 
 ### Embassy in Sri Lanka marks 80th anniversary of Viet Nam’s Independence Day and 55 years of Viet Nam-Sri Lanka diplomatic relations
 
@@ -1815,25 +1831,5 @@ The Presidential Special Investigation Committee was established to probe fraud,
 ...
 
 [Data](articles/69cd66a5.json)
-
----
-
-### Detention orders on suspected gunman in ex-Homagama PS member’s murder
-
-*2025-08-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111703/detention-orders-on-suspected-gunman-in-ex-homagama-ps-members-murder) · `en`
-
-Police have obtained detention orders to question the gunman allegedly involved in the shooting and killing of former Homagama Pradeshiya Sabha member Shantha Mudunkotuwa, police stated.
-
-The Pugoda Magistrate’s Court issued a seven-day detention order to interrogate the suspect, after he was produced before the magistrate today (21).
-
-The suspect was arrested yesterday (20) by officers of the Criminal Investigation Department (CID) while hiding in Nagarawewa, Hambantota.
-
-Preliminary investigations have revealed that the 34-year-old suspect, a former army soldier residing in Barawakumbuka, has also been charged with attempted murder in two shootings that took place in Avissawella and Kollupitiya.
-
-Police further stated that, based on information obtained from the suspect, a 9mm firearm, four rounds of ammunition, two 12-bore firearms, and 6 grams of the crystal methamphetamine (ICE) were found concealed in Hanwella.
-
-◼️
-
-[Data](articles/9af2a115.json)
 
 ---

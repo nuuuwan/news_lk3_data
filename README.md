@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 08:42:00**
+As of **2025-08-21 09:09:00**
 
 ## Newspaper Stats
 
-*Scraped **71,482** Articles*
+*Scraped **71,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,61 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 730
-economynextcom | 4,372
+economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,874
-adaderanalk | 8,998
+adalk | 6,876
+adaderanalk | 9,002
 tamilmirrorlk | 10,511
 virakesarilk | 11,824
-adaderanasinhalalk | 12,347
+adaderanasinhalalk | 12,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,482 articles have been extended.
+61,973 (86.7%) of 71,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ලෝකයේම ආදරයට ලක්වූ විනිසුරු ෆ්‍රෑන්ක් කැප්‍රියෝ සමුගනියි
+
+*2025-08-21 08:26:06* · [`adalk`](https://www.ada.lk/international/ලෝකයේම-ආදරයට-ලක්වූ-විනිසුරු-ෆ්‍රෑන්ක්-කැප්‍රියෝ-සමුගනියි/3-417987) · `si`
+
+විනිසුරු වරයෙක් ලෙස ලෝකය පුරාම බොහෝ දෙනෙකුගේ ආදරය දිනාගත් ඇමෙරිකානු විනිසුරු ෆ්‍රෑන්ක් කැප්‍රියෝ, 2025 අගෝස්තු 20 වන දින වයස අවුරුදු 88 දී  අග්න්‍යාශ පිළිකාවක් හේතුවෙන් ජීවිතක්ෂයට පත්ව තිබේ.
+
+මොහු දෙන නඩු තීන්දු  සමාජ මාධ්‍ය තුළ සංසරණය වූ අතර බොහෝ දෙනෙකුට සමාව  ලබාදීමට ඔහු කටයුතු කළේය. ව
+
+වසර 40 කට ආසන්න කාලයක් ඔහු රෝඩ් අයිලන්ඩ් හි ප්‍රොවිඩන්ස් නාගරික අධිකරණයේ සේවය කළ අතර, ඔහුගේ ජනපි‍්‍රය හාස්‍යය, සංවේදනය සහ සැබවින්ම දයානුකම්පිත තීන්දු සමඟ හදවත් දිනා ගත්තේය.
+
+◼️
+
+[Data](articles/eed87a53.json)
+
+---
+
+### ලොව පුරා ජනතාවගේ අවධානය දිනාගත් විනිසුරු ෆ්‍රෑන්ක් කැප්රියෝ මියයයි
+
+*2025-08-21 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213598) · `si`
+
+ගෞරවනීය විනිසුරුවරයෙකු ලෙස ලොව පුරා ජනතාවගේ හදවත් දිනාගත් විනිසුරු ෆ්‍රෑන්ක් කැප්රියෝ මියගොස් තිබේ.
+
+දීර්ඝ කාලීනව පිළිකා රෝගී තත්ත්වයෙන් පෙළුනු ඔහු ඊයේ (20) දිනයේ  මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අමෙරිකාවේ රෝඩ් අයිලන්ඩ් ප්‍රාන්තයේ ප්‍රධාන විනිසුරුවරයෙකු ලෙස කටයුතු කළ ඔහු සිය නඩු ඇසීමේ ක්‍රියාවලිය තුළ දී ආදරය, කරුණාව වැනි ගුණාංග ඉස්මතු වන ආකාරයෙන් කටයුතු කිරීම හේතුවෙන් ලොව පුරා ජනතාවගේ කතාබහට ලක්වුණි.
+
+මානව හිතවාදී නඩු තීන්දු ලබාදීම සම්බන්ධයෙන් මෙන්ම ඔහුටම ආවේණික වූ යුක්තිය පසදලීමේ ක්‍රියාවලියක් හඳුන්වාදීම සම්බන්ධයෙන් ද ෆ්‍රෑන්ක් කැප්රියෝ විනිසුරුවරයා ප්‍රසිද්ධියක් උසුලයි.
+
+සමාජ මාධ්‍ය ඔස්සේ සිය නඩු තීන්දු විකාශය කිරීමට ද කටයුතු කළ ඔහු තමාගේම යුටියුබ් නාළිකාවක් මඟින් ඒවා ප්‍රසිද්ධියට පත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/09fc501b.json)
+
+---
 
 ### பொரளையில் வீதி தாழிறக்கம் : சாரதிகளுக்கு அவசர அறிவிப்பு
 
@@ -72,6 +108,40 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### බොරැල්ල්ලේ මාර්ගයක ගිලා බැසීමක්
+
+*2025-08-21 07:45:02* · [`adalk`](https://www.ada.lk/breaking_news/බොරැල්ල්ලේ-මාර්ගයක-ගිලා-බැසීමක්/11-417986) · `si`
+
+බොරැල්ල පොලිස් වසමේ මොඩල්ෆාම් හන්දිය අසළ සිට ඩි.එස්. ‍සේනානායක හන්දිය දක්වා වූ කොළඹ දෙසට ඇතුළුවන මාර්ගයේ ස්ථානයක ගිලා බැසීමක් හේතුවෙන් රථවාහන ගමනාගමනයට අවහිරතාවක් සිදුව ඇති බවපොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාය පවසයි.
+
+ඒ අනුව කොළඹ දෙසට ඇතුළුවන මාර්ගය භාවිත කරන රියදුරන් හැකිතාවක් විකල්ප මාර්ග භාවිත කරන ලෙදස පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/89fe86e1.json)
+
+---
+
+### Special notice for motorists: Road section sinking in Borella
+
+*2025-08-21 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111690/special-notice-for-motorists-road-section-sinking-in-borella) · `en`
+
+A section of the road from Model Farm Road Junction towards D.S. Senanayake Junction in Borella has been reported sinking.
+
+Therefore, motorists are urged to use alternate routes, the police said.
+
+Vehicles entering Colombo via Model Farm Road Junction can proceed from Model Farm Road Junction towards the Cemetery Roundabout in Borella and then enter Baseline Road.
+
+Vehicles entering Colombo from Rajagiriya can use Cotta Road via the Ayurveda Roundabout.
+
+Vehicles traveling from Colombo towards Sri Jayawardanapura Road via Model Farm Road Junction can turn left at D.S. Senanayake Junction, pass through Borella Junction, and enter Sri Jayawardanapura Road via Cotta Road.
+
+◼️
+
+[Data](articles/63b507f5.json)
+
+---
+
 ### මාර්ගයේ ගිලා බැසීමක් හේතුවෙන් බොරැල්ල දෙසට ගමනාගමනය සීමා වෙයි
 
 *2025-08-21 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213596) · `si`
@@ -89,6 +159,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0bd290b1.json)
+
+---
+
+### Deshabandu Tennakoon to be produced before court today
+
+*2025-08-21 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111689/deshabandu-tennakoon-to-be-produced-before-court-today) · `en`
+
+Former Inspector General of Police (IGP) Deshabandu Tennakoon, who was arrested by the Criminal Investigation Department (CID), is scheduled to be produced before the Colombo Fort Magistrate’s Court today (21).
+
+The former police chief was arrested by a team of CID officers at his residence yesterday (20).
+
+He was reportedly been arrested in connection with investigations into the attack carried out on the ‘Aragalaya’ protest movement on May 9, 2022, at Galle Face Green in Colombo.
+
+On the same day, August 20, the Colombo Fort Magistrate’s Court rejected an anticipatory bail application filed on behalf of Tennakoon, which sought an order to prevent his impending arrest.
+
+The bail application, filed by attorneys representing the former IGP, was considered by Colombo Fort Magistrate Nilupuli Lankapura.
+
+Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected by the Magistrate.
+
+◼️
+
+[Data](articles/9eefe9a5.json)
 
 ---
 
@@ -113,6 +205,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1f9f7444.json)
+
+---
+
+### Sri Lanka government does not print money, it is under central bank: Minister
+
+*2025-08-21 06:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-does-not-print-money-it-is-under-central-bank-minister-237551/) · `en`
+
+ECONOMYNEXT – Sri Lanka government does not print money, and the entire matter is under the control of the central bank, Deputy Economic Development Minister Anil Jayantha Fernando said in response to concerns raised about recent monetary expansion.
+
+“Under the current environment the government has no ability to ‘print’ money,” Minister Fernando told parliament.
+
+“So we have not done that. There is no legal room to do that.”
+
+Minister Fernando was responding to concerns raised that the expansion of broad money over the past year.
+
+“What is generally called reserve money is completely under the control of the central bank,” Minister Fernando said.
+
+“Based on that, broad money or M2b can expand. All those activities are under the control of the central. The government has not increased money supply.”
+
+...
+
+[Data](articles/74afe4db.json)
 
 ---
 
@@ -147,6 +261,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/10f8a46d.json)
+
+---
+
+### Israeli military says first stages of assault on Gaza City have begun
+
+*2025-08-21 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111688/israeli-military-says-first-stages-of-assault-on-gaza-city-have-begun) · `en`
+
+The Israeli military says it has begun the “preliminary actions” of a planned ground offensive to capture and occupy all of Gaza City and already has a hold on its outskirts.
+
+A military spokesman said troops were already operating in the Zeitoun and Jabalia areas to lay the groundwork for the offensive, which Defence Minister Israel Katz approved on Tuesday and which will be put to the security cabinet later this week.
+
+About 60,000 reservists are being called up for the beginning of September to free up active-duty personnel for the operation.
+
+Hamas has accused Israel of obstructing a ceasefire deal in favour of continuing a “brutal war against innocent civilians”, Reuters news agency reported.
+
+Hundreds of thousands of Palestinians in Gaza City are expected to be ordered to evacuate and head to shelters in southern Gaza as preparations for Israel’s takeover plan get under way.
+
+...
+
+[Data](articles/a694f7c3.json)
+
+---
+
+### Evening showers expected in several areas in next few days
+
+*2025-08-21 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111687/evening-showers-expected-in-several-areas-in-next-few-days) · `en`
+
+Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Central, Uva and Eastern provinces during the next few days, the Department of Meteorology said.
+
+Meanwhile, showers or thundershowers may occur at a few places in Northern, North-Central, Central, Uva and Eastern provinces and Hambantota district after 1.00 p.m.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/dafa477e.json)
 
 ---
 
@@ -755,6 +905,26 @@ She expressed delight at the continuous strengthening of bilateral relations ove
 ◼️
 
 [Data](articles/1549e42b.json)
+
+---
+
+### Sri Lanka dedicated to deeper economic and cultural links with Vietnam
+
+*2025-08-20 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-dedicated-to-deeper-economic-and-cultural-links-with-vietnam-237522/) · `en`
+
+ECONOMYNEXT – Sri Lanka is dedicated to deepening ties with Vietnam Foreign Minister Vijitha Herath said, as the two countries marked 55 years of diplomatic relations in 2025.
+
+A recent visit by President Anura Kumara Dissanayake to Vietnam has paved the way for a new chapter in the partnership between the two countries, he said.
+
+“It is our hope that the dialogue on cooperation in trade, investment, renewable energy, agriculture and education that was initiated during these talks will bring about a host of mutual benefits and progress in diverse fronts to both our countries,” Minister Herath said.
+
+“Sri Lanka is dedicated to deepening trade, investment, and tourism ties with Viet Nam.
+
+“Sri Lankan investments in Viet Nam totals to a registered capital of more than 43 million dollars, particularly in the apparel sector, and we encourage further collaboration, including government-to-government investments and private-sector partnerships.”
+
+...
+
+[Data](articles/6728764a.json)
 
 ---
 
@@ -1657,167 +1827,5 @@ Banks and financials have been attracting continued investor interest after most
 ◼️
 
 [Data](articles/fdb77356.json)
-
----
-
-### In the name of humanity
-
-*2025-08-20 15:53:33* · [`dailyftlk`](https://www.ft.lk/columns/In-the-name-of-humanity/4-780492) · `en`
-
-Remember them. Honour them. Demand justice for those who were murdered in cold blood in Sri Lanka and around the world
-
-Remembering the fallen humanitarians of Muttur; commemorating World Humanitarian Day
-
-In 2016, the Syrian government launched relentless attacks on Eastern Ghouta, near the capital Damascus. The attack was brutal; artillery dropped day and night, destroying every safe corner to hide. The more people tried to reach safety, the more they were attacked regardless of their age, gender, or religious background.
-
-In this chaos stood a half-constructed hospital in Ghouta with limited medical supplies and medical staff. In this massacre, most of the hospital staff fled the area, but one young doctor, 28-year-old Dr. Amani Ballour, chose to stay with 13 other volunteer doctors to treat the wounded. She assembled her treatment centre in the unfinished basement, operating on critically injured patients, many of them children and mothers.
-
-...
-
-[Data](articles/80307068.json)
-
----
-
-### Getting the timing right: Disasters,  debt and livelihoods
-
-*2025-08-20 15:50:52* · [`dailyftlk`](https://www.ft.lk/opinion/Getting-the-timing-right-Disasters-debt-and-livelihoods/14-780491) · `en`
-
-Lenders grow cautious after a disaster, fearing tax revenue will fall and relief spending will rise
-
-Across Asia and the Pacific, floods, typhoons, heatwaves, and droughts now strike with a frequency unimaginable a generation ago. Rising temperatures and seas fuel fiercer storms, while rapid urban growth pushes more families into harm’s way.
-
-When disaster hits, it is the poorest who pay twice — first through the loss of homes, crops, and jobs, and again through the invisible cost of higher government borrowing.
-
-Rebuilding roads, hospitals, and schools costs billions. Governments often raise that money by issuing sovereign bonds. Yet lenders grow cautious after a disaster, fearing tax revenue will fall and relief spending will rise. To compensate, they demand a disaster premium — a higher interest rate on new debt.
-
-...
-
-[Data](articles/46f4aa4e.json)
-
----
-
-### හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් අත්අඩංගුවට
-
-*2025-08-20 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213582) · `si`
-
-හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (20) පස්වරුවේ අත්අඩංගුවට ගනු ලැබීය.
-
-ගාලුමුවදොර පැවැත් වූ අරගලයට පහරදීම සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
-
-තමන් අත්අඩංගුවට ගැනීම වළක්වා අපේක්ෂිත ඇපයක් මත මුදාහරින ලෙස ඒ මහතා ඇප ඉල්ලුම් පත්‍රයයක්ද ගොනුකර තිබුණි.
-
-කෙසේ වෙතත් අද (20) කොටුව මහේස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී එය ප්‍රතික්ෂේප විය.
-
-◼️
-
-[Data](articles/530a6fe3.json)
-
----
-
-### ‘கோட்டா கோ கம’: தென்னகோனின் மனு நிராகரிப்பு
-
-*2025-08-20 15:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டா-கோ-கம-தென்னகோனின்-மனு-நிராகரிப்பு/175-363143) · `ta`
-
-2022 ஆம் ஆண்டு ‘கோட்டா கோ காமா’ மக்கள் போராட்டத்தின் மீதான தாக்குதல் தொடர்பான விசாரணையின் போது கைது செய்யப்படும் அபாயம் இருப்பதாகக் கூறி, பணியில் இருந்து நீக்கப்பட்ட முன்னாள் ஐ.ஜி.பி தேசபந்து தென்னகோன் தாக்கல் செய்த முன்பிணை  மனுவை கோட்டை நீதவான் நிலுபுலி லங்காபுர புதன்கிழமை (20) நிராகரித்தார்.
-
-சம்பவத்தில் சந்தேக நபராகப் பெயரிடப்பட்டுள்ள தேசபந்து தென்னகோன், முன்பிணையில் விடுவிக்கப்பட்டால் விசாரணையைத் தடுக்கவோ அல்லது விசாரணையைத் தடுக்கவோ மாட்டேன் என்று நீதிமன்றத்தை திருப்திப்படுத்தத் தவறிவிட்டார் என்பதை வலியுறுத்திய நீதவான், தொடர்புடைய முன்பிணை மனுவை நிராகரித்தார்.
-
-2022 ஆம் ஆண்டு ‘கோட்டா கோ கம’ மக்கள் போராட்டத்தின் மீதான தாக்குதல் நடந்த நேரத்தில்,   தேசபந்து தென்னகோன் மேல் மாகாணத்திற்குப் பொறுப்பான மூத்த டி.ஐ.ஜி.யாகச் செயல்பட்டு வந்தார். சம்பவம் தொடர்பாக நடத்தப்பட்ட விசாரணைகளைத் தொடர்ந்து,   தேசபந்து தென்னகோனை சந்தேக நபராகப் பெயரிடுமாறு சட்டமா அதிபர் கடிதம் ஒன்றை அனுப்பிவைத்துள்ளார்.
-
-◼️
-
-[Data](articles/98d8bdbe.json)
-
----
-
-### දේශබන්දු තෙන්නකොන් සී.අයි.ඩී. අත්අඩංගුවට
-
-*2025-08-20 15:48:06* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-තෙන්නකොන්-සී-අයි-ඩී--අත්අඩංගුවට/11-417974) · `si`
-
-හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/44686b5c.json)
-
----
-
-### Former IGP Deshabandu Tennakoon arrested
-
-*2025-08-20 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111679/former-igp-deshabandu-tennakoon-arrested-) · `en`
-
-Former Inspector General of Police (IGP) Deshabandu Tennakoon has been arrested by the Criminal Investigation Department (CID).
-
-The former police chief has been arrested by a team of CID officers at his residence.
-
-He has reportedly been arrested in connection with investigations into the attack carried out on the ‘Aragalaya’ protest movement on May 09, 2022, at the Galle Face Green in Colombo.
-
-Earlier today, the Colombo Fort Magistrate’s Court rejected an anticipatory bail application filed on behalf of Tennakoon, which sought an order to prevent his impending arrest.
-
-The bail application, filed by attorneys representing the former IGP, was considered by Colombo Fort Magistrate Nilupuli Lankapura this morning (20).
-
-Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected by the Magistrate.
-
-◼️
-
-[Data](articles/a2745298.json)
-
----
-
-### Sri Lanka’s EDB and JICA extend program to support ICT/BPM sector
-
-*2025-08-20 15:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-edb-and-jica-extend-program-to-support-ict-bpm-sector-237492/) · `en`
-
-ECONOMYNEXT – A partnership between the Sri Lanka Export Development Board (EDB) and the Japan International Cooperation Agency (JICA) established last year to strengthen the local ICT/BPM sector within the Japanese market has been extended.
-
-The program supports 30 Sri Lankan SME ICT/BPM companies and startups over a period of two years by providing market intelligence, business coaching, and matchmaking services.
-
-It “aims to foster technological exchange, spur innovation, and enhance global trade relations, driving sustained economic growth for both nations,” EDB said.
-
-Originally set to conclude in October 2025, the program was extended by one year at EDBs request.
-
-“This extension will expand benefits to Sri Lankan ICT companies, including continued market intelligence, business coaching, matchmaking support, and the introduction of a Proof of Concept (POC) grant scheme for select few firms.”
-
-...
-
-[Data](articles/5b4f4f9c.json)
-
----
-
-### அரசியலில் களமிறங்கும் சூர்யா? ; நற்பணி இயக்கம் அறிக்கை
-
-*2025-08-20 15:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அரசியலில்-களமிறங்கும்-சூர்யா-நற்பணி-இயக்கம்-அறிக்கை/54-363142) · `ta`
-
-2026 சட்டமன்ற தேர்தலில் சூர்யா களமிறங்கப் போகிறார் என்று பொய்யான செய்தி பரப்பப்பட்டு வருகிறது. இது உண்மைக்கு மாறான போலியான தகவல் என்பது மட்டுமல்ல, சூர்யாவின் கோட்பாடுகளுக்கு முரணானது என்று சூர்யா நற்பணி இயக்கம் அறிக்கை வெளியிட்டுள்ளது.
-
-சூர்யா நற்பணி இயக்கம் வெளியிட்டுள்ள அறிக்கையில், "ஊடக நண்பகர்களுக்கும். சமூக வலைத்தள நண்பர்கள், சகோதர, சகோதரிகளுக்கும் அகில இந்திய சூர்யா தலைமை நற்பணி இயக்கம் சார்பில் வணக்கங்களைத் தெரிவித்துக் கொள்கிறோம்.
-
-கடந்த சில நாட்களாக அண்ணன் சூர்யா அவர்கள் பற்றி சில பொய்யான தகவல்கள் இணைய ஊடகங்களில் பரவி வருகிறது. வரவிருக்கும் சட்டமன்ற தேர்தலில் அண்ணன் சூர்யா அவர்கள் களமிறங்கப் போகிறார் என்று சமூக வலைத்தளங்களை மையமாக வைத்து இந்த பொய்யான செய்தி பரப்பப்பட்டு வருகிறது.
-
-இந்தச் செய்தி உண்மைக்கு மாறான போலியான தகவல் என்பது மட்டுமல்ல. அண்ணன் சூர்யாவின் கோட்பாடுகளுக்கு முரணானது. கலை உலகப் பயணமும் அகரமும் இப்போதைய அவர் வாழ்வுக்கு போதுமான நிறைவைத் தந்துள்ளது.
-
-...
-
-[Data](articles/89c41f92.json)
-
----
-
-### බංගලියන්ගේ මැසඩෝනියා ගමන කටුනායකින් නවතී
-
-*2025-08-20 15:37:05* · [`adalk`](https://www.ada.lk/breaking_news/බංගලියන්ගේ-මැසඩෝනියා-ගමන-කටුනායකින්-නවතී/11-417973) · `si`
-
-කූඨ ලෙස සකස් කළ වීසා බලපත්‍ර භාවිත කරමින් මැසඩෝනියාව වෙත පළා යාමට තැත් කළ බංගලාදේශ ජාතිකයන් 05 දෙනෙකු 08/20 දින උදෑසන ආපසු හරවා යැවීමට කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් පියවර ගෙන තිබේ.
-
-මොවුන් 08/20 දින අලුයම 02.30 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ. - 1171 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-එසේ පැමිණි ඔවුන් සිය ආගමන කටයුතු නිශ්කාශනය කිරීම සදහා පෝලිමක රැදී සිටියදී , ප්‍රධාන ආගමන විගමන නිලධාරීවරයාට ඇති වූ සැකය මත සිදු කළ ප්‍රශ්ණ කිරීමෙන් අනතුරුව මොවුන් සතුව තිබූ මැසඩෝනියා රාජ්‍යයේ වීසා බලපත්‍ර පිළිබද වැඩිදුර විමර්ශන කටයුතු සදහා දේශසීමා ආවේක්ෂණ ඒකකය වෙත භාර දීමට පියවර ගෙන තිබුණි .
-
-එහිදී සිදු කළ තාක්ෂණික පරීක්ෂා කිරීම් වලදී , මෙම වීසා බලපත්‍ර කූඨ ලෙස සකස් කළ ඒවා බවට තහවුරු වී තිබේ .
-
-ඉන්පසු මොවුන්ගෙන් මේ පිළිබද වැඩිදුර ප්‍රශ්ණ කිරීම් වලදී තමන් මෙරටට පැමිණ දින දෙකකට පසුව මැසඩෝනියාව වෙත පළා යාම සදහා සැළසුම් කර ඇති බව ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් හමුවේ අනාවරණය කර තිබේ.
-
-...
-
-[Data](articles/dbbe037e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 15:20:04**
+As of **2025-08-21 15:32:23**
 
 ## Newspaper Stats
 
-*Scraped **71,553** Articles*
+*Scraped **71,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,883
+adalk | 6,884
 adaderanalk | 9,015
 tamilmirrorlk | 10,533
 virakesarilk | 11,826
-adaderanasinhalalk | 12,366
+adaderanasinhalalk | 12,368
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,553 articles have been extended.
+61,973 (86.6%) of 71,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### iPhone 17 Pro Max සැප්තැම්බර් මුල වෙළෙඳපොළට?
+
+*2025-08-21 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213619) · `si`
+
+ඇපල් සමාගම විසින්  iPhone 17 Pro Max ජංගම දුරකථනය සැප්තැම්බර් මස මුලදී වෙළෙඳපොළට නිකුත් කිරීමට නියමිත බව විදෙස් වාර්තා සඳහන් කරයි.
+
+ගෙවුණු වසරේ iPhone 16 දුරකථන මාලාව නිකුත් කිරීමෙන් පසුව, මෙම iPhone 17,iPhone 17 Pro සහ iPhone 17 Pro Max ඇතුළු iPhone 17 මාලාව ඉක්මනින් වෙළෙඳපොළට නිකුත් කිරීම ආරම්භ කෙරුණි.
+
+මෙම iPhone 17 Pro Maxහි ඇති විශේෂාංග පිළිබඳව නිල වශයෙන් තවමත් සඳහන් කර නොමැත.
+
+මේ අතර ඇපල් සමාගමේ iPhone 17 මාදිලිය ඉන්දියාව තුළ එකලස් කිරීමට නියමිත බව ද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඒ වෙනුවෙන් ඉන්දීය කර්මාන්ත ශාලා 5ක් සුදානමින් ඇති බවත්, මෙය ඉන්දියාව තුළ iPhone නිෂ්පාදනයක් ලෙස එක්ලස් කිරීමේ කටයුතු සිදුකරන පළමු අවස්ථාව ලෙසත් විදෙස් මාධ්‍ය පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/e1b19329.json)
+
+---
+
+### වරෙන්තුව කියවා රාජිතගේ නිවසේ දොරේ අලවයි
+
+*2025-08-21 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213618) · `si`
+
+නොතීසි නිකුත් කර ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා තවමත් සොයා ගැනීමට නොහැකි වීම හේතුවෙන් අද (21) අල්ලස් කොමිසමේ නිලධාරීන් විසින් ඔහුගේ මාලඹේ පිහිටි නිවසට ගොස් දැන්වීම් අලවනු ලැබීය.
+
+කිරින්ද ධීවර වරායේ වැලි ඉවත්කිරීමේ ව්‍යාපෘතියක් අවිධිමත්ව සිදුකිරීමෙන් රජයට රුපියල් ලක්ෂ 262ක පාඩුවක් සිදුකිරීම සම්බන්ධයෙන් වූ නඩුවට අදාළව මෝසමක් මගින් අල්ලස් කොමිසම කළ කරුණු දැක්වීම සලකා බැලීමෙන් අනතුරු ඔහුට නොතීසි නිකුත් කෙරුණි.
+
+අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් වී ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාට එළඹෙන අගෝස්තු 29 වනදා අධිකරණය හමුවේ පෙනීසිටින ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය ඊයේ (20) නොතීසි නිකුත් කළේය.
+
+◼️
+
+[Data](articles/85beae01.json)
+
+---
 
 ### உலக புகழ்பெற்ற  நீதிபதி பிராங்க் காப்ரியோ  காலமானார்
 
@@ -58,9 +94,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව චරිත් අසලංකගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 16 දෙනෙකුගෙන් යුත් සංචිතයක් ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව විසින් මේ සඳහා නම්කර ඇත.
 
-දෙරට අතර තරග 3 බැගින් වූ එක්දින හා විස්සයි20 තරගාවලියක් පැවැත්වෙන අතර, ඉන් පළමුව පැවැත්වෙන එක්දින තරගාවලිය මේ මස 29වනදා ආරම්භ වේ.
+දෙරට අතර තරග 2 යුත් එක්දින හා තරග 3කින් යුත් විස්සයි20 තරගාවලියක් පැවැත්වෙන අතර, ඉන් පළමුව පැවැත්වෙන එක්දින තරගාවලිය මේ මස 29වනදා ආරම්භ වේ.
 
-ඉතිරි තරග 31වනදා හා සැප්තැම්බර් 3 යන දිනවල පැවැත්වෙන අතර, සියලුම තරග හරාරේහිදී පැවැත්වීමට නියමිතය.
+ඉතිරි තරග 31වනදා පැවැත්වෙන අතර, සියලුම තරග හරාරේහිදී පැවැත්වීමට නියමිතය.
 
 දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ හිදී පැවැත්වේ.
 
@@ -279,6 +315,20 @@ Police further stated that, based on information obtained from the suspect, a 9m
 ◼️
 
 [Data](articles/cd2e4f02.json)
+
+---
+
+### ශ්‍රී ලන්කන් අක්‍රමිකතා හොයන ජනපති කමිටුව මහජන පැමිණිලි ගනියි
+
+*2025-08-21 13:00:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-අක්‍රමිකතා-හොයන-ජනපති-කමිටුව-මහජන-පැමිණිලි-ගනියි/11-417995) · `si`
+
+ගුවන් තොටුපළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමෙහි සහ ශ්‍රී ලංකන් ගුවන් සමාගමෙහි පසුගිය කාලයේදි සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා සම්බන්ධයෙන් සෙවීම සඳහා පිහිටුවන ලද ජනාධිපති විශේෂ විමර්ශන කමිටුව මහජනතාවගේ පැමිණිලි, අදහස් සහ යෝජනා ලබා ගැනීමට අපේක්ෂා කරයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් 2025 ජූනි 30 දින ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශය අනුව 2025 ජූලි 01 දිනැතිව ගනු ලැබු අංක 25/1145/801/018 දරන අමාත්‍ය මණ්ඩල තීරණය ප්‍රකාරව ගුවන් තොටුපළ හා ගුවන් සේවා (ශ්‍රී ලංකා) (පෞද්ගලික) සමාගමෙහි සහ ශ්‍රී ලංකන් ගුවන් සමාගමෙහි පසුගිය කාලයේදි සිදු වී ඇති වංචා, දූෂණ සහ අක්‍රමිකතා සම්බන්ධයෙන් සෙවීමට ජනාධිපති විශේෂ විමර්ශන කමිටුව පිහිටුවන ලදී.
+
+...
+
+[Data](articles/50714c5a.json)
 
 ---
 
@@ -1745,57 +1795,5 @@ On 4 August 2025, the Cabinet of Ministers approved the development of a new Nat
 ◼️
 
 [Data](articles/c527edc3.json)
-
----
-
-### யாழ். மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை
-
-*2025-08-20 23:23:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்ட-பாடசாலைகளுக்கு-விசேட-விடுமுறை/71-363178) · `ta`
-
-யாழ்ப்பாணம் நல்லூர் தேர்த்திருவிழாவை முன்னிட்டு நாளை யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை வழங்கப்பட்டுள்ளது.
-
-வரலாற்று சிறப்புமிக்க யாழ்ப்பாணம் நல்லூர் கந்தசாமி ஆலய தேர்த்திருவிழா நாளைய தினம் இடம்பெறவுள்ளது.
-
-இதனையொட்டி பாடசாலை மாணவர்களும் ஆசிரியர்களும் குறித்த நிகழ்வில் பங்குபெற வேண்டும் எனும் நோக்கில் யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை வழங்க வேண்டும் என பிரதமர் ஹரிணி அமரசூரியவிடம் கோரிக்கை விடுக்கப்பட்டிருந்தது.
-
-இதன்பிரகாரம், நாளைய தினம் யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை வழங்குமாறு கல்வி அமைச்சின் செயலாளருக்கு பிரதமர், பணிப்புரை விடுத்துள்ளார். R
-
-◼️
-
-[Data](articles/645f183a.json)
-
----
-
-### Gunman arrested in murder of ex-PS member Shantha Mudunkotuwa
-
-*2025-08-20 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111686/gunman-arrested-in-murder-of-ex-ps-member-shantha-mudunkotuwa) · `en`
-
-The gunman allegedly involved in the shooting and killing of former Homagama Pradeshiya Sabha member Shantha Mudunkotuwa has been arrested by the Criminal Investigation Department (CID), the Police said.
-
-This brings the number of suspects arrested in connection with the incident to two.
-
-The victim of the shooting incident, 46-year-old Shantha Mudunkotuwa alias ‘Bana Manthri’, was shot dead at around 1.10 p.m. on August 12 in Meegoda.
-
-He was a former member of the Homagama Pradeshiya Sabha. He had represented several parties during his political career, including the Sri Lanka Freedom Party (SLFP), the United National Party (UNP), and others.
-
-Following the shooting, police acted swiftly, setting up roadblocks and inspecting vehicles. During this operation, they seized a vehicle and its driver near the Palamthuna Junction in Thalangama. A 9mm firearm suspected to have been used in the shooting was also taken into police custody.
-
-◼️
-
-[Data](articles/889c65c1.json)
-
----
-
-### ශාන්ත මුදුන්කොටුව ඝාතනයේ වෙඩික්කරු අත්අඩංගුවට
-
-*2025-08-20 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213591) · `si`
-
-හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව වෙඩිතබා ඝාතනය කිරිමේ සිද්ධියේ වෙඩික්කරු අත්අඩංගුවට ගෙන ඇත.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ පොලිස් කණ්ඩායමක් විසින් ඔහුව අත්අඩංගුවට ගෙන ඇති බව පොලීසීය පැවසීය.
-
-◼️
-
-[Data](articles/97f4bfdc.json)
 
 ---

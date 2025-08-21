@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 09:09:00**
+As of **2025-08-21 09:39:54**
 
 ## Newspaper Stats
 
-*Scraped **71,491** Articles*
+*Scraped **71,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,876
-adaderanalk | 9,002
-tamilmirrorlk | 10,511
+adaderanalk | 9,004
+tamilmirrorlk | 10,513
 virakesarilk | 11,824
-adaderanasinhalalk | 12,348
+adaderanasinhalalk | 12,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,491 articles have been extended.
+61,973 (86.7%) of 71,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### Govt. to launch ‘Seiri Week’ for disposing of unnecessary items accumulated in state institutions
+
+*2025-08-21 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111693/govt-to-launch-seiri-week-for-disposing-of-unnecessary-items-accumulated-in-state-institutions) · `en`
+
+The government has taken steps to implement a special program to dispose unnecessary items which have accumulated in all state institutions.
+
+The program announced as “Seiri Week”, is scheduled to be implemented from September 01 to 04.
+
+This program has been implemented with the aim of creating a clean, healthy and safe environment suitable for officers in government institutions to freely perform their duties.
+
+Accordingly, the Secretary to the Ministry of Public Administration, Provincial Councils and Local Government has issued a special circular which has been sent to all Secretaries of Ministries, Chief Secretaries of Provinces, Heads of Departments, District Secretaries, Heads of Public Corporations and Statutory Boards.
+
+This is to be implemented in conjunction with the ‘Clean Sri Lanka’ national initiative and will involve identifying necessary and unnecessary items and discarding of all unnecessary items.
+
+...
+
+[Data](articles/2b41a8dd.json)
+
+---
+
+### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනත් කෙටුම්පතට එරෙහිව තවත් පෙත්සම් 3ක්
+
+*2025-08-21 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213600) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනත් කෙටුම්පතේ වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවත් එම වගන්ති අභියෝගයට ලක් කරමින් ශ්‍රේෂ්ඨාධිකරණයට තවත් පෙත්සම් 3ක් ඉදිරිපත් වී තිබේ.
+
+සබරගමුව විශ්වවිද්‍යාලයේ කථිකාචාර්ය මහින්ද පතිරණ, හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ මනෝජ් ගමගේ, නාවික හමුදාවේ හිටපු මාණ්ඩලික ප්‍රධානී එස්. එම්. විජේවික්‍රම යන අය විසින් මෙම පෙත්සම් ඉදිරිපත් කර ඇත.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ යෝජිත පනත් කෙටුම්පතේ 01 සිට 04 දක්වා වගන්තිවලින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර තිබෙන බලය බෙදීමේ සිද්ධාන්තය උල්ලංඝනය වීමක් සිදුවන බවය.
+
+ඊට අමතරව අදාළ පනත් කෙටුම්පතේ අන්තර්ගත වගන්ති එකකින් හෝ කීපයකින් රටේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව මගින් සහතික කර ඇති ස්වෛරී භාවය සහ ජනතා පරමාධිපත්‍යය උල්ලංඝනය කිරීමක් සිදුවන බවත් පෙත්සමෙන් චෝදනා කර තිබේ.
+
+...
+
+[Data](articles/979fb56f.json)
+
+---
+
+### இன்று நீதிமன்றில் முன்னிலையாகும் தேசபந்து தென்னகோன்
+
+*2025-08-21 08:29:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நீதிமன்றில்-முன்னிலையாகும்-தேசபந்து-தென்னகோன்/175-363188) · `ta`
+
+கைது செய்யப்பட்ட முன்னாள் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் இன்று நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளார்.
+
+2022 ஆம் ஆண்டு காலி முகத்திடல் போராட்டத்தின் மீதான தாக்குதல் தொடர்பான விசாரணைகளுக்கு அமைய, குற்றப்புலனாய்வு திணைக்களத்தினரால் அவர் நேற்று கைது செய்யப்பட்டார்.
+
+முன்னதாக, தம்மைக் கைது செய்வதைத் தடுத்து உத்தரவிடுமாறு கோரி அவர் தாக்கல் செய்த முன்பிணை மனுவை, கோட்டை நீதவான் நிராகரித்திருந்திருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/aabb97b5.json)
+
+---
+
+### Supplementary medical professionals launch strike across 31 hospitals under WPC
+
+*2025-08-21 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111691/supplementary-medical-professionals-launch-strike-across-31-hospitals-under-wpc) · `en`
+
+The Joint Council of Professions Supplementary to Medicine (JCPSM) announced that an indefinite strike has been launched today (21) across 31 hospitals under the Western Provincial Council, in protest against the implementation of the 2024 transfer orders, which they claim were issued amid serious irregularities and strong opposition.
+
+Accordingly, radiographers, medical laboratory technologists, occupational therapists, speech therapists, pharmacists, and physiotherapists have joined the strike action.
+
+As stated by JCPSM General Secretary Chanaka Dharmawickrama, the strike commenced at 8.00 a.m. today (21).
+
+He also noted that the trade union action has been carried out across 31 hospitals under the Western Provincial Council due to the failure to receive proper solutions to their demands from the authorities.
+
+...
+
+[Data](articles/4a3ab1b2.json)
+
+---
 
 ### ලෝකයේම ආදරයට ලක්වූ විනිසුරු ෆ්‍රෑන්ක් කැප්‍රියෝ සමුගනියි
 
@@ -65,6 +137,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/09fc501b.json)
+
+---
+
+### தரைவழித் தாக்குதலை ஆரம்பித்த இஸ்ரேல்
+
+*2025-08-21 08:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தரைவழித்-தாக்குதலை-ஆரம்பித்த-இஸ்ரேல்/50-363187) · `ta`
+
+காசா நகரம் முழுவதையும் கைப்பற்றும் திட்டத்தின் கீழ், தரைவழித் தாக்குதலின் முதற்கட்ட நடவடிக்கைகளை இஸ்ரேலிய இராணுவம் ஆரம்பித்துள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+தாக்குதலுக்கான அடித்தளத்தை அமைப்பதற்காக ஜெய்டவுன் மற்றும் ஜபாலியா பகுதிகளில் துருப்புக்கள் ஏற்கனவே செயலில் ஈடுபட்டுள்ளதாக இஸ்ரேலிய இராணுவப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+முன்னதாக, இந்த தாக்குதலுக்கு இஸ்ரேல் பாதுகாப்பு அமைச்சர் காட்ஸ் ஒப்புதலை வழங்கியிருந்த நிலையிலேயே தாக்குதல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/a364c043.json)
 
 ---
 
@@ -1729,103 +1817,5 @@ The reform agenda has been presented as a PowerPoint and a PowerPoint only, a fi
 ◼️
 
 [Data](articles/f38f0cf6.json)
-
----
-
-### Open letter to Deputy Minister of Education Dr. Madhura Senevirathna
-
-*2025-08-20 16:00:18* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-Deputy-Minister-of-Education-Dr-Madhura-Senevirathna/14-780494) · `en`
-
-Deputy Minister of Education Dr. Madhura Senevirathna, Royal College Principal Athula Wijewardena
-
-Following is an open letter to the Deputy Minister of Education, appealing for equal opportunities for rural children to pursue education in the English Medium
-
-Admitting every applicant to bilingual education at Royal College starting from 2026
-
-Royal College each year admits around 400 students from its Primary and 260 more on Scholarship scores, to its Middle School (G6).
-
-Each year around 50% (over 300) apply to enter the bilingual stream.
-
-Until year 2020, the number admitted remained static at around 135 students and the reason given by the management was lack of qualified teachers.
-
-In ’20, few of us – concerned and empathic alumni and parents – launched a campaign to provide equal opportunities to scholars from every corner of the country (and a few others), who lacked money and influence, and as a result 324 had been admitted this year.
-
-...
-
-[Data](articles/c6c381fd.json)
-
----
-
-### முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது
-
-*2025-08-20 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222949) · `ta`
-
-2022 ஆம் ஆண்டு கொழும்பு, காலி முகத்திடலில் அமைதியான முறையில் ஆர்ப்பாட்டத்தில் ஈடுப்பட்டவர்களை தாக்கியவர்களுக்கு உதவிய குற்றச்சாட்டின் பேரில், தேசபந்து தென்னகோன் தனது கடமைகளைச் செய்யத் தவறியமையினால் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
-
-இன்று புதன்கிழமை (20) தென்னகோன் கைது செய்யப்படுவதைத் தடுக்க உத்தரவிடக் கோரி அவர் சார்பில் தாக்கல் செய்யப்பட்ட முன் பிணை மனுவை கொழும்பு கோட்டை நீதவான் நீதிமன்றம் நிராகரித்தது.
-
-முன்னாள் பொலிஸ் மா அதிபரின் சட்டதரணிகளால் தாக்கல் செய்யப்பட்ட பிணை மனுவை இன்று புதன்கிழமை (20) காலை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர பரிசீலித்தார்.
-
-அதன்படி, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கோரிய முன் பிணை  மனுவை  நீதவான் நிராகரித்தார் இந்நிலையிலேயே, முன்னாள் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/cdd9b5fb.json)
-
----
-
-### தென்னகோன் கைது
-
-*2025-08-20 15:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோன்-கைது/175-363145) · `ta`
-
-2022 ஆம் ஆண்டு காலி முகத்திடலில் அமைதியான போராட்டக்காரர்களைத் தாக்கியவர்களுக்கு உதவிய குற்றச்சாட்டின் பேரில், முன்னாள் பொலிஸ் மா அதிபர்  தேசபந்து தென்னகோன், குற்றப் புலனாய்வுப் பிரிவினரால் சற்று நேரத்திற்கு முன்பு கைது செய்யப்பட்டார்.
-
-◼️
-
-[Data](articles/bff91b0d.json)
-
----
-
-### Can Sri Lanka be “China Plus One” country for Japanese investors?
-
-*2025-08-20 15:55:46* · [`dailyftlk`](https://www.ft.lk/columns/Can-Sri-Lanka-be-China-Plus-One-country-for-Japanese-investors/4-780493) · `en`
-
-If we can play our cards smartly and wisely we can also target to be a “China Plus One” country to Japanese investors
-
-Our proposal on 5 August 2025, at the Annual General Meeting of the Sri Lanka-Japan Business Council, to create an exclusive Export Processing Zone for Japan – will it be a reality?
-
-It may be the right time now, with Japanese preferred Anti-Corruption and Transparency policies in place, for the Government to give thought to setting up an exclusive Export Processing Zone for potential Japanese investors.
-
-Success stories of Neemrana Industrial Zone in Rajasthan, India and Bangladesh Special Economic Zone (BSEZ), also a Japanese-invested industrial zone on the outskirts of Dhaka, gives us a clear signal of the direction we need to follow.
-
-It may be prudent to establish a zone closer to the Colombo Port which has a huge advantage against any ports in the region.
-
-...
-
-[Data](articles/2c330633.json)
-
----
-
-### Sri Lanka stocks close up due to sustained interest in banks and financials
-
-*2025-08-20 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-due-to-sustained-interest-in-banks-and-financials-237490/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, with banks continuing to attract investor interest, data on its site showed.
-
-The ASPI was up 0.70 percent, or 143.73 points, at 20,714.80; while the S&P SL20 was up 0.81 percent, or 49.08 points, at 6,105.00.
-
-Top contributors to the ASPI were John Keells Holdings (up 60 cents at 23.70 rupees), Hatton National Bank (up 7 rupees at 406), Sampath Bank (up 2 rupees at 147), Bukit Darah (up 61 rupees at 948.25), and National Development Bank (up 2.75 rupees at 148.50).
-
-Market Turnover was 11.14 billion rupees, while share volume was 452 million.
-
-Interest in banking (Rs4.39bn), diversified financials (Rs2.45bn) and capital goods (Rs1.1bn) stocks contributed mainly to the turnover.
-
-A transaction on HNB Finance (up 1 rupee at 9.10) contributed 1,32 billion rupees to the turnover.
-
-Banks and financials have been attracting continued investor interest after most posted positive interim results, dealers said. (Colombo/Aug20/2025)
-
-◼️
-
-[Data](articles/fdb77356.json)
 
 ---

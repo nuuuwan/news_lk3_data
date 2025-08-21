@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 10:22:13**
+As of **2025-08-21 10:33:28**
 
 ## Newspaper Stats
 
-*Scraped **71,501** Articles*
+*Scraped **71,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,877
-adaderanalk | 9,004
-tamilmirrorlk | 10,514
+adaderanalk | 9,007
+tamilmirrorlk | 10,518
 virakesarilk | 11,824
 adaderanasinhalalk | 12,352
 
@@ -26,11 +26,109 @@ adaderanasinhalalk | 12,352
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,501 articles have been extended.
+61,973 (86.7%) of 71,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### கத்தோலிக்க ஆயர்கள் பேரவை ஜனாதிபதியுடன் சந்திப்பு
+
+*2025-08-21 10:18:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்தோலிக்க-ஆயர்கள்-பேரவை-ஜனாதிபதியுடன்-சந்திப்பு/175-363195) · `ta`
+
+கொழும்பு உயர் மறை மாவட்ட பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகை மற்றும் கத்தோலிக்க ஆயர்கள் பேரவையினர் ஜனாதிபதி அலுவலகத்தில் வைத்து புதன்கிழமை (20) பிற்பகல் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தனர்.
+
+வருடத்திற்கு மூன்று முறை நடைபெறும் கத்தோலிக்க ஆயர்கள் பேரவையில் கலந்துரையாடப்பட்ட முக்கிய விடயங்கள் குறித்து கர்தினால் ஆண்டகை, ஜனாதிபதிக்கு விளக்கினார்.
+
+மேலும்,  கத்தோலிக்க சபையில் எழுப்பப்பட்ட கருத்துக்கள் மற்றும் பரிந்துரைகள் குறித்தும் இந்தக் கலந்துரையாடலின் போது கவனம் செலுத்தப்பட்டது.
+
+இலங்கை கத்தோலிக்க ஆயர்கள் பேரவையின் தலைவர் அருட்தந்தை ஹெரல்ட் அந்தோணி பெரேரா மற்றும் பேரவையின் உறுப்பினர்களும் இந்நிகழ்வில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/caf13cdd.json)
+
+---
+
+### வீட்டில் உறங்கிய குழந்தையை கவ்விச் சென்று  குதறிய நாய்
+
+*2025-08-21 10:18:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டில்-உறங்கிய-குழந்தையை-கவ்விச்-சென்று-குதறிய-நாய்/175-363194) · `ta`
+
+அருகே வீட்​டில் தூங்​கிக்​கொண்​டிருந்த ஒன்​றரை வயது குழந்​தையை கவ்​விச் சென்று கடித்​துக் குதறிய தெரு நாய், காப்​பாற்​றச் சென்ற பாட்​டி யை​யும் கடித்தது.
+
+இந்த சம்பவம், திரு​வாரூர் மாவட்​டம் கூத்​தாநல்​லூர் அரு​கே​யுள்ள மேல்​கொண்​டாழி கிராமத்​தைச் சேர்ந்​தவர் அபு​தாகிர். வெளி​நாட்​டில் பணிபுரிந்து வரு​கிறார். இவரது மனைவி சுல்​தான்​பீ​வி(26). இவர்​களுக்கு அஜ்மல் பாஷா என்ற ஒன்​றரை வயது ஆண் குழந்தை உள்​ளது.
+
+சுல்​தான் பீவி, தனது தாய் மல்​லிகா பீவி(44) மற்​றும் குழந்தை அஜ்மல் பாஷாவுடன் மேல​கொண்​டாழி கிராமத்​தில் உள்ள வீட்​டில் வசித்து வரு​கிறார். இந்​நிலை​யில், புதன்கிழமை (20)  காலை சுல்​தான் பீவி, வீட்​டில் தனது குழந்தை அஜ்மல் பாஷாவை பக்​கத்​தில் படுக்​க​வைத்​துக்​கொண்​டு, தூங்​கிக் கொண்​டிருந்​தார்.
+
+...
+
+[Data](articles/e0e1d8bd.json)
+
+---
+
+### காசா
+
+*2025-08-21 10:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/காசா/62-363193) · `ta`
+
+◼️
+
+[Data](articles/028eee7e.json)
+
+---
+
+### நீதிமன்றுக்கு சென்று திரும்பிய  பெண்  கடத்தல்
+
+*2025-08-21 10:14:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றுக்கு-சென்று-திரும்பிய-பெண்-கடத்தல்/175-363191) · `ta`
+
+மட்டக்களப்பில்  நீதிமன்றத்துக்கு சென்று வெளியே வந்த பெண் ஒருவரை பெண் ஒருவர் உட்பட்ட ஒரு குழுவினர் இணைந்து அவரின் வாயை பொத்தி இழுத்துச் சென்று ஓட்டோவில் ஏற்றிய போது அவரை காப்பாற்ற சென்ற உறவினரை அடித்து கீழே தள்ளிவிட்டு பெண்ணை கடத்தி சென்ற சம்பவம்  செவ்வாய்க்கிழமை (19) காலையில் நீதிமன்றத்துக்கு முன்னால்   இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மாவட்டத்தில் பிரதேசம் ஒன்றைச் சேர்ந்த 27 வயது பெண் ஒருவர் 29 வயதுடைய ஆண் ஒருவரை காதலித்து  பெற்றோருக்கு தெரியாமல் கடந்த 2023 பதிவு திருமணம் செய்துவிட்டு தனது பெற்றோர் வீட்டில் இருந்துள்ளார் அவ்வாறே காதலன் அவரது பெற்றோர் வீட்டில் இருந்துள்ளனர்.
+
+இந்த நிலையில் சில காலங்களுக்கு பின்னர் இந்த பதிவு திருமணம் செய்து கொண்டது தொடர்பாக பெற்றோருக்கு தெரிய வந்துள்ள நிலையில் குறித்த காதலன் வெளிநாடு சென்றுள்ளார்.
+
+அதன் பின்னர் வெளிநாடு சென்ற காதலன் பல தீய பழக்கத்தில் ஈடுபட்டிருப்பதாக காதலிக்கு தெரியவந்ததையடுத்து அவருடன் வாழ முடியாது என விவாகரத்து கோரி மட்டக்களப்பு மாவட்ட நீதிமன்றில் வழக்கு தாக்கல் செய்துள்ளார்.
+
+...
+
+[Data](articles/de522796.json)
+
+---
+
+### President meets Cardinal Ranjith and Catholic Bishops
+
+*2025-08-21 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111696/president-meets-cardinal-ranjith-and-catholic-bishops-) · `en`
+
+A meeting was held on Wednesday (August 20) at the Presidential Secretariat between His Eminence Archbishop of Colombo, Cardinal Malcolm Ranjith, the members of the Catholic Bishops’ Conference of Sri Lanka (CBCSL) and President Anura Kumara Dissanayake.
+
+During the meeting, the Cardinal briefed the President on the matters discussed at the tri-annual meeting of the Catholic Bishops, the President’s Media Division (PMD) said.
+
+The Cardinal and Bishops also conveyed to the President, the views and proposals currently emerging within the Catholic Church.
+
+The Archbishop of Colombo was accompanied by the members of the Catholic Bishops’ Conference of Sri Lanka led by its President Bishop Harold Anthony Perera.
+
+◼️
+
+[Data](articles/ade24b62.json)
+
+---
+
+### Three more petitions filed challenging bill to revoke privileges of former Presidents
+
+*2025-08-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111695/three-more-petitions-filed-challenging-bill-to-revoke-privileges-of-former-presidents) · `en`
+
+Three more petitions have been filed before the Supreme Court challenging the clauses of the bill presented in Parliament by the government to revoke the privileges of former Presidents, on the grounds that it is contrary to the Constitution.
+
+The petitions were submitted by Sabaragamuwa University lecturer Mahinda Pathirana, former President Mahinda Rajapaksa’s media spokesman, Attorney-at-Law Raveendra Manoj Gamage, and former Navy Chief of Staff Mohan Wijewickrama.
+
+The petitioners argue that Clauses 1 to 4 of the proposed bill violate the doctrine of separation of powers, which is guaranteed by the Constitution of Sri Lanka. They also claim that several provisions of the bill undermine the sovereignty of the people and the independence guaranteed under the Constitution.
+
+They further state that, taken as a whole, the bill infringes upon fundamental constitutional principles, and violates Articles 1, 3, 4, and 12(1) of the Constitution, including the fundamental rights of individuals.
+
+...
+
+[Data](articles/581262e0.json)
+
+---
 
 ### நல்லூர் கந்தன் தேர் உற்சவம்
 
@@ -39,6 +137,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d5b07887.json)
+
+---
+
+### UN chief urges immediate Gaza ceasefire, warns of casualties from Israeli operation
+
+*2025-08-21 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111694/un-chief-urges-immediate-gaza-ceasefire-warns-of-casualties-from-israeli-operation) · `en`
+
+United Nations Secretary-General Antonio Guterres on Thursday called for an immediate ceasefire in Gaza, after Israel announced the first steps of an operation to take over Gaza City.
+
+“It is vital to reach immediately a ceasefire in Gaza,” that was necessary “to avoid the death and destruction that a military operation against Gaza City would inevitably cause,” Guterres said in Japan where he is attending the Tokyo International Conference on African Development.
+
+Israel, which has called up tens of thousands of army reservists, is pressing ahead with its plan to seize Gaza’s biggest urban centre despite international criticism of an operation likely to force the displacement of many more Palestinians.
+
+The war in Gaza began on October 7, 2023, when gunmen led by Hamas attacked southern Israeli communities, killing some 1,200 people, mainly civilians, and taking 251 hostages including children into Gaza, according to Israeli figures.
+
+...
+
+[Data](articles/48322870.json)
 
 ---
 
@@ -1683,131 +1799,5 @@ Dr. Fernando earned his MBBS and MD in Anaesthesiology from the University of Co
 ◼️
 
 [Data](articles/a8860e0e.json)
-
----
-
-### වැඩි මිලට වතුර විකිණූ පෝට් සිටියේ සමාගමකට දඩයක්
-
-*2025-08-20 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213585) · `si`
-
-බෝතල්කළ පානීය ජලය වැඩි මිලට විකිණූ කොළඹ වරාය නගරයේ පුද්ගලික සමාගමකට එරෙහිව රුපියල් ලක්ෂ 5ක දඩයක් පනවා ඇත.
-
-අදාළ සමාගම රුපියල් 70ක් ලෙස මිල සඳහන් පානීය ජල බෝතලයක් රුපියල් 200කට අලෙවි කර ඇති අතර, ඒ සම්බන්ධයෙන් වන නඩුව  කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේ අද (20) කැඳවීමෙන් අනතුරුව ඔවුන් සිය වරද පිළිගෙන තිබේ.
-
-පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ විමර්ශන නිලධාරීන් විසින් ඉකුත් ජූලි 16වනදා අදාළ වෙළඳසැල පරීක්ෂාවට ලක්කර ඇත.
-
-ඒ අවස්ථාවේ දී අදාළ වෙළෙඳසැල මගින් රුපියල් 70ක් ලෙස මිල සඳහන් කර තිබූ මි.ලි. 500 බෝතල් කළ පානීය ජල බෝතලයක් රු. 200කට අලෙවිකර තිබේ.
-
-2025.04.01 දින නිකුත් කළ අතිවිශේෂ ගැසට් නියෝගය අනුව මි.ලි. 500 බෝතල් කළ පානීය ජල බෝතලයක උපරිම සිල්ලර මිල රු. 70ක් ලෙස නියම කර ඇත.
-
-ඒ අනුව රු. 200කට අලෙවි කිරීම 2003 අංක 09 දරණ පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පනතේ 20(5) සහ 68 වගන්ති සහ 2021 අංක 20 සංශෝධන පනතේ 60(4A) වගන්තිය යටතේ වරදක් බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පැවසීය.
-
-◼️
-
-[Data](articles/ba2462d8.json)
-
----
-
-### Manusha leaves Illegal Assets Investigation Division after recording statement
-
-*2025-08-20 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111680/manusha-leaves-illegal-assets-investigation-division-after-recording-statement) · `en`
-
-Former Minister Manusha Nanayakkara has left the Illegal Assets Investigation Division of the Criminal Investigation Department (CID), a short while ago, after providing a statement for nearly 7 hours, said Ada Derana reporter.
-
-He had arrived at the Illegal Assets Investigation Division this morning (20) to record a statement related to an on-going investigation.
-
-◼️
-
-[Data](articles/60402675.json)
-
----
-
-### කෙතරම් අවවාද කළත් නිසි මගට නොඑන මත්ස්‍ය වෙළෙඳසැලක්
-
-*2025-08-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213584) · `si`
-
-බණ්ඩාරවෙල බදුල්ල ප්‍රධාන මාර්ගයේ දික්අරාව ප්‍රදේශයේ පිහිටි ප්‍රධාන පෙළේ මත්ස්‍ය වෙළෙඳසැලකින් මත්ස්‍ය අපද්‍රව්‍ය මාර්ගයට හා පරිසරයට  බැහැර කිරීමෙන් බරපතළ සෞඛ්‍ය ගැටලුවක් හටගෙන තිබේ.
-
-ඇල්ල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහන් කළේ මෙම තත්ත්වය සම්බන්ධයෙන් විමර්ශනයක් ද ආරම්භ කර ඇති බවය.
-
-අදාළ ව්‍යාපාරික ස්ථානය මගින් කිසිදු බියක් හෝ සැකයක් නොමැතිව මත්ස්‍ය අපද්‍රව්‍ය සහ අපිරිසිදු ජලය බාහිර පරිසරයට මුදාහරින බවට පැමිණිළි රැසක් ලැබී ඇති බවද ඇල්ල සෞඛ්‍ය වෛද්‍ය නිලධාරී නිශ්ශංක විජේවීර මහතා පැවසීය.
-
-මෙම ව්‍යාපාරික ස්ථානය මගින් තොග හා සිල්ලර මිලට මත්ස්‍ය අලෙවිය සිදුකරන බවත් අනුගමනය කළ යුතු මාර්ගෝපදේශ සම්බන්ධයෙන් අවස්ථා රැසකදී එහි හිමිකරුට උපදෙස් හා අවවාද දී තිබෙන බවත් සෞඛ්‍ය වෛද්‍ය නිලධාරියා සඳහන් කළේය.
-
-ඒ අනුව මෙම ගැටලුව සම්බන්ධයෙන් විශේෂ අවධානයක් යොමුකරන ලෙසට සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයේ මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ට ද උපදෙස් දී තිබෙන බවද සෞඛ්‍ය වෛද්‍ය නිලධාරීවරයා පැවසීය.
-
-...
-
-[Data](articles/4372596b.json)
-
----
-
-### ලෝකයේ ඉන්න බලවතුන් කිහිප දෙනෙක් මානසික රෝගීන්
-
-*2025-08-20 16:33:21* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-ඉන්න-බලවතුන්-කිහිප-දෙනෙක්-මානසික-රෝගීන්/11-417976) · `si`
-
-ලේකයේ සිටින බලවතුන් කිහිප දෙනෙකුමට යුද මානසිකත්වයෙන් පෙළෙන බවත් මානසික රෝගීන් බවත් හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පැවැසීය. දේශනයක් අතරතුළදී ඔහු මේ බව පැවැසීය.
-
-ලෝකයේ ඉන්න බලවතුන් කිහිප දෙනෙකුම මානසික රෝගීන්, ඒ අයට යුද්ධය නැතිව බෑ. යුද මානසිකත්වයෙන්  පෙලෙන අය. ඊශ්‍රායෙලයේ නෙතන්යාහුට ඉන්න බෑ. එයාට කාටහරි ගහන්න ඕන. පලස්තීනය ඉවරටම ඉවර කළා.
-
-ලෙබනන් වලින් කොටසක් අල්ල ගත්තා. ඉරානයට ගහන්න ගත්තා. ඉරානය ඊශ්‍රා යෙලයට ගහන කොට ඇමෙරිකාව ඇවිත් ඉරානයට ගැහුවා. මේවට යන්න සල්ලි දුප්පත් රටවලට දෙනවනම්.අද ඇමෙරිකිවට යුරෝපයට ගියොත් හිඟන්නෝ ඉන්නවා.
-
-◼️
-
-[Data](articles/4dbd691b.json)
-
----
-
-### Sri Lanka moves to expand labour migration opportunities, woo Singaporean investment
-
-*2025-08-20 16:32:27* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-moves-to-expand-labour-migration-opportunities-woo-Singaporean-investment/56-780503) · `en`
-
-Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando holds high-level meetings with Singaporean State Ministers
-
-Meets State Minister of Manpower Dinesh Vasu Dash and State Minister of Trade and Industry, and National Development Alvin Tan
-
-Discussions focus on worker protection, skills recognition, training, and new job avenues in hospitality, healthcare, and manufacturing
-
-Minister Dash affirms Singapore’s interest in engaging with SL to attract skilled workers
-
-CBSL Governor Dr. Nandalal Weerasinghe briefs on financial stability, green financing, and recovery framework
-
-Sri Lanka is stepping up efforts to diversify overseas employment opportunities and attract greater foreign investment, with Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando leading high-level talks in Singapore last week.
-
-...
-
-[Data](articles/38e28e36.json)
-
----
-
-### OrphanCare unveils inaugural Impact Report
-
-*2025-08-20 16:30:51* · [`dailyftlk`](https://www.ft.lk/news/OrphanCare-unveils-inaugural-Impact-Report/56-780502) · `en`
-
-OrphanCare Deputy Head Marshad Barry (right) handing over the Impact Report to Board of Trustees Chairman Ruzly Hussain, K.R. Ravindran, Harsha Amarasekera, PC, Jazri Magdon Ismail, Tyeab Akbarally, Mohamed Azmeer, and Sharad Amalean. Amana Bank Head of Marketing and Corporate Communications Azim Rali and OrphanCare Impact Officer Mohamed Amjad are also present
-
-Delivers transformative support for over 3,200 orphans across Sri Lanka
-
-OrphanCare recently unveiled its inaugural Impact Report, highlighting the transformative difference it has made in the lives of orphaned children across Sri Lanka.
-
-The report sheds light on a vital yet often neglected issue: securing the future of orphans once they reach the age of 18 and are compelled to leave institutional care. With a strong focus on preventing a “second abandonment,” OrphanCare through its Impact Report reaffirms its commitment to helping these young adults stepping into adulthood with dignity, stability, and opportunity.
-
-...
-
-[Data](articles/8e127fb9.json)
-
----
-
-### Dialog introduces unlimited speed-based fibre plans for seamless internet access
-
-*2025-08-20 16:28:20* · [`dailyftlk`](https://www.ft.lk/news/Dialog-introduces-unlimited-speed-based-fibre-plans-for-seamless-internet-access/56-780501) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s No. 1 connectivity provider, introduces truly unlimited, speed-based broadband packages with no Fair Usage Policy (FUP) restrictions, underscoring its commitment to delivering seamless digital experiences and empowering customers with unrestricted internet access through its advanced Dialog Fibre network.
-
-In a groundbreaking move that redefines home connectivity, Dialog has launched a suite of new postpaid speed-based fibre packages offering unrestricted, truly unlimited data usage. Unlike traditional broadband plans that apply Fair Usage Policies—commonly used to reduce speeds after reaching a data threshold—this marks Sri Lanka’s first truly unlimited fibre broadband offering, delivering consistent, high-speed internet with no throttling, quota constraints, slowdowns, data caps, or hidden limits, ensuring customers receive a seamless and uninterrupted online experience.
-
-...
-
-[Data](articles/471ec8b3.json)
 
 ---

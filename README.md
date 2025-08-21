@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 17:17:57**
+As of **2025-08-21 17:31:45**
 
 ## Newspaper Stats
 
-*Scraped **71,583** Articles*
+*Scraped **71,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,381
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,887
+adalk | 6,888
 adaderanalk | 9,023
-tamilmirrorlk | 10,536
+tamilmirrorlk | 10,537
 virakesarilk | 11,826
 adaderanasinhalalk | 12,374
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,583 articles have been extended.
+61,973 (86.6%) of 71,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ”கச்சத்தீவை இலங்கையில் இருந்து மீட்டு கொடுங்கள்“: மோடியிடம் விஜய் வலியுறுத்தல்
+
+*2025-08-21 17:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கச்சத்தீவை-இலங்கையில்-இருந்து-மீட்டு-கொடுங்கள்-மோடியிடம்-விஜய்-வலியுறுத்தல்/150-363234) · `ta`
+
+தவெக 2-வது மாநில மாநாடு மதுரையில் தொடங்கி நடைபெற்று வருகிறது. இந்த நிலையில் மாநாட்டில் தவெக தலைவர் விஜய் உரையாற்றி வருகிறார். அப்போது அவர் கூறியதாவது:-
+
+சிங்கம் வேட்டைக்கு மட்டுமே வெளியில் வரும். வேடிக்கை பார்க்க சிங்கம் வெளியே வராது. காட்டில் பல விலங்குகள் இருக்கலாம். சிங்கம் கர்ஜித்தால் 8 கிலோ மீட்டர் தூரத்துக்கு அதிரும்.
+
+மதுரை மண்ணில் வாழும் மக்கள் உணர்வுப்பூர்வமான  சினிமாவிலும், அரசியலிலும் நமக்கு பிடித்தவர் எம்ஜிஆர். அவருடன் பழகுவதற்கு எனக்கு வாய்ப்பு கிடைக்கவில்லை. ஆனால் அவரைப் போலவே குணம் கொண்ட என்னுடைய அண்ணன் விஜயகாந்துடன் பழகுவதற்கு எனக்கு நிறைய வாய்ப்பு கிடைத்தது. அவரும் இந்த மதுரை மண்ணைச் சேர்ந்தவர்தான்.
+
+யாராலும் தடுத்து நிறுத்த முடியாத குரல் இது. இந்த கூட்டம் ஓட்டாக மட்டும் அல்ல; ஆட்சியாளர்களுக்கான வேட்டாகவும் மாறும். ஆட்சியை பிடித்துக் காட்டட்டுமா? இவ்வாறு அவர் கூறினார்.
+
+எல்லாருக்கும் எல்லாமும் என்ற அரசியலை 1967-ல் அண்ணா கொண்டு வந்தார். அண்ணா கொண்டு வந்த சமத்துவ அரசியலே திராவிடம். அண்ணாவின் குறிக்கோளில் இருந்து மு.க.ஸ்டாலின் முற்றிலும் விலகிவிட்டார்.
+
+...
+
+[Data](articles/0fc3b104.json)
+
+---
 
 ### නළයක් තුළ හෙරොයින් පුරවා රැගෙන යමින් සිටි අයෙක් අත්අඩංගුවට
 
@@ -51,6 +71,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7c24fb91.json)
+
+---
+
+### එක් තීරයක් එක් මාවතක් ප්‍රවර්ධනය කිරීමට චිනය හා ලංකාව අත්වැල් බැඳගෙන සිටිනවා
+
+*2025-08-21 16:35:38* · [`adalk`](https://www.ada.lk/breaking_news/එක්-තීරයක්-එක්-මාවතක්-ප්‍රවර්ධනය-කිරීමට-චිනය-හා-ලංකාව-අත්වැල්-බැඳගෙන-සිටිනවා/11-417999) · `si`
+
+චීනය සහ ශ්‍රී ලංකාව අතර කාලාන්තරයක් මිතුරන් ලෙස කටයුතු කර ඇති බවත්  පුරාණ සේද මාවත දිගු කලක් තිස්සේ චීනය හා ශ්‍රී ලංකාවට එකට බැඳ තබා ඇති බවත් ශ්‍රී ලංකාවේ චීන තාපති චී ෂෙන්හොං මහතා පැවැසීය.
+
+ජපන් ආක්‍රමණයට සහ ලෝක ෆැසිස්ට් විරෝධී යුද්ධයට එරෙහිව චීන ජනතාවගේ ප්‍රතිරෝධක යුද ජයග්‍රහණයේ 80 වන සංවත්සරය සැමරීම වෙනුවෙන් ශ්‍රී ලංනකාවේ චීන තානාපති කාර්යාලය සංවිධානය කර තිබූ උත්සවය අමතමින් චීන තානාපතිවරයා මෙම අදහස් දැක්වීය. හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් මෙම උත්සවයපැවැත්විණ.
+
+උසස් තත්ත්වයේ එක් තීරයක් සහ මාවතක් සහයෝගීතාව ප්‍රවර්ධනය කිරීම සඳහා චීනය හා ශ්‍රි ලංකාව  දැන් අත්වැල් බැඳගෙන කටයුතු කරමින් සිටින බවත් හම්බන්තොට වරායේ ප්‍රගතියේ සිට කොළඹ වරාය නගරයේ නැගීම දක්වා සහ යටිතල පහසුකම් සම්බන්ධතාවයේ සිට සංස්කෘතික හුවමාරු ගැඹුරු කිරීම දක්වා, පි ඒකාබද්ධව සංයුක්ත ක්‍රියාමාර්ග හරහා බෙදාගත් අනාගතයක් සහිත චීන-ශ්‍රී ලංකා ප්‍රජාවක් ගොඩනැගීමේ විචිත්‍රවත් පරිච්ඡේදයක් ලියමින් සිටින බවත් තානාපතිවරයා පැවැසීය.
+
+...
+
+[Data](articles/be4eb8af.json)
 
 ---
 
@@ -1805,47 +1841,5 @@ Vehicles traveling from Colombo towards Sri Jayawardanapura Road via Model Farm 
 ◼️
 
 [Data](articles/63b507f5.json)
-
----
-
-### මාර්ගයේ ගිලා බැසීමක් හේතුවෙන් බොරැල්ල දෙසට ගමනාගමනය සීමා වෙයි
-
-*2025-08-21 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213596) · `si`
-
-බොරැල්ල පොලිස් වසමේ මොඩල්ෆාම් හන්දිය අසල සිට ඩී.එස් සේනානායක හන්දිය දක්වා වූ කොළඹ දෙසට ඇතුළුවන මාර්ගයේ ස්ථානයක ගිලා බැසීමක් හේතුවෙන් රථවාහන ගමනාගමනයට බාධා ඇතිව තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් පොලීසිය සඳහන් කරන්නේ, මේ හේතුවෙන් කොළඹ දෙසට ඇතුළුවන මාර්ගය භාවිතා කරන රියදුරන් හැකිතාක් විකල්ප මාර්ග භාවිතා කරන ලෙසය.
-
-මොඩල්ෆාම් හන්දිය හරහා කොළඹට ඇතුළු වන වාහන මොඩල් ෆාම් හන්දියෙන් කනත්ත වටරවුම දෙසට ගමන් කර බේස්ලයින් මාර්ගයට පිවිසිය හැක.
-
-• රාජගිරිය දෙස සිට කොළඹට ඇතුළු වන වාහන ආයුර්වේද වටරවුමෙන් කොටා පාර ඔස්සේ කොළඹට ඇතුළු විය හැක.
-
-• කොළඹ දෙස සිට මොඩල්ෆාම් හන්දිය හරහා ශ්‍රී ජවර්ධනපුර මාර්ගය දෙසට ගමන් ගන්නා වාහන ඩී.එස් සේනානායක හන්දියෙන් වමට හැරී බොරැල්ල හන්දිය හරහා කොටා පාර ඔස්සේ ශ්‍රී ජවර්ධනපුර මාර්ගයට පිවිසිය හැක.
-
-◼️
-
-[Data](articles/0bd290b1.json)
-
----
-
-### Deshabandu Tennakoon to be produced before court today
-
-*2025-08-21 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111689/deshabandu-tennakoon-to-be-produced-before-court-today) · `en`
-
-Former Inspector General of Police (IGP) Deshabandu Tennakoon, who was arrested by the Criminal Investigation Department (CID), is scheduled to be produced before the Colombo Fort Magistrate’s Court today (21).
-
-The former police chief was arrested by a team of CID officers at his residence yesterday (20).
-
-He was reportedly been arrested in connection with investigations into the attack carried out on the ‘Aragalaya’ protest movement on May 9, 2022, at Galle Face Green in Colombo.
-
-On the same day, August 20, the Colombo Fort Magistrate’s Court rejected an anticipatory bail application filed on behalf of Tennakoon, which sought an order to prevent his impending arrest.
-
-The bail application, filed by attorneys representing the former IGP, was considered by Colombo Fort Magistrate Nilupuli Lankapura.
-
-Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected by the Magistrate.
-
-◼️
-
-[Data](articles/9eefe9a5.json)
 
 ---

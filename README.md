@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 11:32:15**
+As of **2025-08-21 11:53:16**
 
 ## Newspaper Stats
 
-*Scraped **71,519** Articles*
+*Scraped **71,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,879
-adaderanalk | 9,007
-tamilmirrorlk | 10,522
+adaderanalk | 9,008
+tamilmirrorlk | 10,524
 virakesarilk | 11,824
-adaderanasinhalalk | 12,357
+adaderanasinhalalk | 12,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,519 articles have been extended.
+61,973 (86.6%) of 71,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### எம்.பிக்களுக்காக  வாகனங்களை இறக்குமதி செய்ய யோசனை
+
+*2025-08-21 11:28:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்காக-வாகனங்களை-இறக்குமதி-செய்ய-யோசனை/175-363207) · `ta`
+
+எதிர்காலத்தில் பாராளுமன்ற உறுப்பினர்கள் மற்றும் அரசு அதிகாரிகளின் பயன்பாட்டிற்காக இரட்டை டக்ஸிகளை இறக்குமதி செய்வது குறித்து அரசாங்கம் பரிசீலித்து வருகிறது, ஆனால் இன்னும் இறுதி முடிவு எடுக்கப்படவில்லை என்று அமைச்சர் ஒருவர் நேற்று தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தி (NPP) தலைமையிலான தற்போதைய அரசாங்கம், சுங்க வரி இல்லாமல் வாகனங்களை இறக்குமதி செய்வதற்கான அனுமதிகளை பாராளுமன்ற உறுப்பினர்களுக்கு வழங்குவதை நிறுத்தியது. கடந்த காலங்களில், பாராளுமன்ற உறுப்பினர்கள் அத்தகைய அனுமதிகளைப் பயன்படுத்தி விலையுயர்ந்த சொகுசு வாகனங்களை இறக்குமதி செய்தனர். இல்லையெனில், இந்த அனுமதிகளை மூன்றாம் தரப்பினருக்கு மில்லியன் கணக்கான ரூபாய் கட்டணங்களுக்கு மாற்ற அவர்கள் பயன்படுத்தினர்.
+
+இருப்பினும், ஒவ்வொரு எம்.பி.க்கும் ஒரு வாகனத்தை ஒதுக்க அரசாங்கம் முடிவு செய்தது. இதுவரை, அரசாங்கத்தால் எம்.பி.க்களுக்கு வாகனங்கள் ஒதுக்கப்படவில்லை.
+
+...
+
+[Data](articles/f1bf8fca.json)
+
+---
+
+### முன்னாள் அமைச்சர் டயானாவுக்கு பிடியாணை
+
+*2025-08-21 11:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-டயானாவுக்கு-பிடியாணை/175-363206) · `ta`
+
+குடிவரவு மற்றும் குடியகல்வுச் சட்டத்தை மீறி, தவறான தகவல்களைச் சமர்ப்பித்து வெளிநாட்டு கடவுச்சீட்டுகளைப் பெற்று, செல்லுபடியாகும் விசா இல்லாமல் இலங்கையில் தங்கியதாக குற்றம் சாட்டப்பட்டுள்ள முன்னாள் அமைச்சர் டயானா கமகேவை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்த கொழும்பு பிரதான  நீதவான் தனுஜா லக்மாலி ஜெயதுங்க வியாழக்கிழமை (21) பிடிவிறாந்து பிறப்பித்தார். டயானா கமகேவின் பிணையாளர்களுக்கும்   நோட்டீஸ் அனுப்பிவைக்கப்பட்டுள்ளது.
+
+குடிவரவு மற்றும் குடியகல்வுச் சட்டத்தை மீறி விசா இல்லாமல் நாட்டில் தங்கியதாக டயானா கமகே மீது சிஐடி தாக்கல் செய்த ஏழு வழக்குகளின் சாட்சிய விசாரணை இன்று (21) நடைபெறவிருந்தது, மேலும் வழக்கு அழைக்கப்பட்டபோது பிரதிவாதி நீதிமன்றத்தில் ஆஜராகாததால் இந்த பிடிவிறாந்து  பிறப்பிக்கப்பட்டது.
+
+குடிவரவு மற்றும் குடியகல்வு கட்டுப்பாட்டாளர் நாயகம், மேல் நீதிமன்ற வழக்கு கோப்புகளின் பாதுகாவலர் மற்றும் வழக்கின் முதல் சாட்சியான வாதி ஆகியோரின் பிரதிநிதிகள் நீதிமன்றத்தில் ஆஜரானர்.
+
+◼️
+
+[Data](articles/186f74fa.json)
+
+---
+
+### ගින්නකට හසුවී පුද්ගලයෙකු මියයයි
+
+*2025-08-21 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213609) · `si`
+
+කුරුණෑගල පොලිස් වසමේ විල්බාව ප්‍රදේශයේ පිහිටි පුද්ගලික අධ්‍යාපන ආයතනයක ඉදිකිරීම් කටයුතු සිදුකරන කම්කරුවන් පිරිසක් නවාතැන්ගෙන සිටි තාවකාලික වාඩියක හටගත් ගින්නකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+කුරුණෑගල පොලීසියට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කිරීමේදි අනාවරණය වී ඇත්තේ ඊයේ (20) රාත්‍රී කාලයේදී මෙම ගින්න හටගෙන ඇති බවයි.
+
+◼️
+
+[Data](articles/59c79e3c.json)
+
+---
 
 ### මහීෂ් තීක්ෂණට අංක 1 අහිමිවෙයි
 
@@ -50,11 +96,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Parliamentary Business Committee to discuss no-confidence motion today
+
+*2025-08-21 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111697/parliamentary-business-committee-to-discuss-no-confidence-motion-today) · `en`
+
+A meeting of the Committee on Parliamentary Business is scheduled to be held in Parliament today (21) at 12 noon, chaired the Speaker of the House, Dr. Jagath Wickramaratne.
+
+The Speaker has informed all party leaders represented in Parliament to attend the meeting.
+
+It is reported that the motion of no confidence against Deputy Minister of Defence, Major General (Retd.) Aruna Jayasekara, signed by 31 opposition Members of Parliament, is also scheduled to be discussed at the meeting.
+
+The Speaker’s stance on the matter will then be communicated to the Parliament.
+
+Meanwhile, the ruling party has insisted that the opposition does not have the authority to move a no-confidence motion against a deputy minister.
+
+Opposition party leaders had also met in Parliament yesterday (20) to discuss the motion.
+
+◼️
+
+[Data](articles/fa7392be.json)
+
+---
+
 ### ඩයනා ගමගේට වරෙන්තු
 
 *2025-08-21 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213607) · `si`
 
-ආගමන හා විගමන පනත යටතේ දනා ලබා සිටින හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය නඩු විභාගය සඳහා පෙනී නොසිටීම හේතුවෙන් ඇය අත්අඩංගුවට ගන්නා ලෙස දන්වමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කර තිබේ.
+ආගමන හා විගමන පනත යටතේ චෝදනා ලබා සිටින හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය නඩු විභාගය සඳහා පෙනී නොසිටීම හේතුවෙන් ඇය අත්අඩංගුවට ගන්නා ලෙස දන්වමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කර තිබේ.
+
+මෙම නඩුව අද (21) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී විත්තිකාරිය අධිකරණය පෙනී නොසිටීම හේතුවෙන් මෙම වරෙන්තු නිකුත් කිරීම සිදුකෙරුණි.
+
+විත්තිකාර ඩයනා ගමගේ මහත්මියගේ ඇපකරුවන්ටත් නොතීසි නිකුත් කරන ලෙසද නියෝග කෙරුණි.
 
 ◼️
 
@@ -1705,75 +1779,5 @@ In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colo
 ◼️
 
 [Data](articles/0e8f3a06.json)
-
----
-
-### Sri Lanka’s Maharaja Foods merges marketing, supermarket units
-
-*2025-08-20 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-maharaja-foods-merges-marketing-supermarket-units-237511/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Maharaja Foods will amalgamate its wholly owned subsidiaries Maharaja Marketing (Private) Limited and Maharaja Supermarket (Private) Limited from September, it said in a stock exchange filing.
-
-The company was founded by a family from Sri Lanka’s north produces processed ethnic foods, the bulk of which is exported to countries with South Asian expat communities.
-
-The company is part of GTV group which has logistics and a retailing. The group has been headed by Thavamalar Guganathan from 2016 when her husband who founded the firm passed away.
-
-In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colombo/Aug20/2025)
-
-◼️
-
-[Data](articles/70e27d35.json)
-
----
-
-### නව ත්‍රස්ත විරෝධී පනත් කෙටුම්පත නුදුරේදීම
-
-*2025-08-20 17:11:39* · [`adalk`](https://www.ada.lk/breaking_news/නව-ත්‍රස්ත-විරෝධී-පනත්-කෙටුම්පත-නුදුරේදීම/11-417980) · `si`
-
-නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතිය යටතේ පත් කළ විද්වත් කමිටුව පසුගිය 18 වැනිදා එම කමිටුවේ සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතාගේ ප්‍රධානත්වයෙන් අධිකරණ අමාත්‍යාංශයේදී රැස්විය.
-
-මෙම පනතට ගෙන එනු ලබන සංශෝධන පිළිබඳව එහිදී දීර්ඝ වශයෙන් සාකච්ඡා කළ අතර අදාළ පනත් කෙටුම්පත නුදුරේදීම අවසන් කිරීමට හැකි බව කමිටුවේ සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතා පැවසීය.
-
-මෙම සාකච්ඡාව සඳහා අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතිඥ, නෙරින් පුල්ලේ, ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති, අසංග කරවිට, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ අතිරේක ලේකම් (නීති) පියමුන්ති පීරිස්, ආරක්ෂක අමාත්‍යාංශයේ නීති නිලධාරීන්වන, මේජර් ජනරාල් සඳුන් ගුණවර්ධන, ලුතිනන් කර්නල් K.N.S.මෙන්ඩිස් යන මහත්ම මහත්මීන් ඇතුළු උසස් නිලධාරීන් සහභාගි විය.
-
-නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන්වු කමිටුව මේ වන විට 14  වතාවක් රැස්ව තිබේ. කමිටුවේ මීළඟ සාකච්ඡාව එළඹෙන 22 වන දින රැස්වීමට නියමිතයි.
-
-...
-
-[Data](articles/49caff82.json)
-
----
-
-### හිටපු ජනපතිවරුන්ගේ හිමිකම් අහිමි කරන පනතට එරෙහිව තවත් පෙත්සම් තුනක්
-
-*2025-08-20 17:05:55* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-හිමිකම්-අහිමි-කරන-පනතට-එරෙහිව-තවත්-පෙත්සම්-තුනක්/11-417979) · `si`
-
-හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පනත් කෙටුම්පත අවස්ථාවට පටහැනි බව සඳහන් කරමින් එම පනත් කෙටුම්පත විශේෂ බහුතර මන්ත්‍රී සංඛ්‍යාවකගේ ඡන්දයෙන් සහ ජනමත් විචාරණයකින් සම්මත විය යුතු බවට නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ු ශ්‍රේෂ්ඨාධිකරණයට තවත් පෙත්සම් තුනක් අද (20) ගොනු කළේය.
-
-මෙම කරුණම පාදක කරගනිමින් මීට පෙර අවස්ථාවක ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාලක ලේකම් රේණුක පෙරේරා මහතාද පුරවැසියන් දෙදෙනෙකු වන වේයන්ගොඩ පදිංචි හරින්ද්‍රරත්න බානගල සහ පන්නිපිටියේ පදිංචි ප්‍රේමසිරිත් ප්‍රියන්ත විජේසේකර මහත්වරුන්ද ගොනු කළ පෙත්සම්වලට අමතරව මෙලෙස තවත් පෙත්සම් තුනක් ගොනු කරනු ලැබුවේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ මනෝජ් ගමගේ, සබරගමුව විශ්වවිද්‍යාලයේ කථිකාචාර්ය මහින්ද පතිරණ සහ නාවික හමුදාවේ මාණ්ඩලික ප්‍රධානී දොන් එස්.එම්. විජේවික්‍රම යන මහත්වරුන්ය.
-
-නීතිඥ අනුරාධ වෙරගොඩ මහතා මඟින් ඉදිරිපත් කර ඇති අදාළ පෙත්සම්වල වගඋත්තරකරු වශයෙන් නීතිපතිවරයා නම්කර ඇත.
-
-...
-
-[Data](articles/1dc8b780.json)
-
----
-
-### Govt. hopes for Provincial Council Elections in 2026: Bimal
-
-*2025-08-20 17:02:06* · [`dailyftlk`](https://www.ft.lk/news/Govt-hopes-for-Provincial-Council-Elections-in-2026-Bimal/56-780518) · `en`
-
-Leader of the House Minister Bimal Rathnayake yesterday said the Government hopes to conduct the Provincial Council Elections in the first six months of next year.
-
-Speaking to the media in Kilinochchi, he said that the Presidential Election was held in November 2024 and the Local Council Election was held this year. “There were two back-to-back elections held and the Government hopes to hold the Provincial Council Elections within the first six months of 2026,” he added.
-
-Pointing out that there were some legal obstacles in this regard, Rathnayake said that the Government is confident these can be resolved.
-
-He also added that the Government intends to hold the Provincial Council Election before bringing forth a Constitutional Amendment. “We hope to conduct the Provincial Council Election, after which we will decide on implementing a comprehensive political plan for a Constitutional Amendment,” he added.
-
-◼️
-
-[Data](articles/2e674b7b.json)
 
 ---

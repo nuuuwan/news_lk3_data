@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 01:31:56**
+As of **2025-08-22 01:50:15**
 
 ## Newspaper Stats
 
-*Scraped **71,630** Articles*
+*Scraped **71,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,895
 adaderanalk | 9,036
-tamilmirrorlk | 10,544
+tamilmirrorlk | 10,545
 virakesarilk | 11,833
 adaderanasinhalalk | 12,381
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 12,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,630 articles have been extended.
+61,973 (86.5%) of 71,631 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-22 (Friday)
+
+### கடைக்குச் சென்றவர் மயங்கி விழுந்து உயிரிழப்பு
+
+*2025-08-22 01:33:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடைக்குச்-சென்றவர்-மயங்கி-விழுந்து-உயிரிழப்பு/175-363254) · `ta`
+
+கடைக்கு பொருட்களை கொள்வனவு செய்வதற்காக யாழ். நகருக்கு சென்ற வர்த்தகர் ஒருவர் மயங்கி விழுந்து உயிரிழந்துள்ளார்.
+
+இவ்வாறு உயிரிழந்தவர் முத்தமிழ் வீதி, கொட்டடி யாழ்ப்பாணத்தைச் சேர்ந்த சின்னையா பிறேமானந் (வயது 58) என்ற வர்த்தகராவார்.
+
+நேற்று வியாழக் கிழமை பிற்பகல் 1 .15 மணியளவில் யாழ். நகருக்கு சென்ற நிலையில், வர்த்தக நிலையம் ஒன்றின் முன்பாக மயங்கி விழுந்த நிலையில் யாழ். போதனா வைத்தியசாலைக்கு கொண்டு சென்ற போதும் அவர் உயிரிழந்துவிட்டார் என தெரிவிக்கப்பட்டது.
+
+இந்த மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டார். சாட்சிகளை யாழ்ப்பாண பொலிஸார் நெறிப்படுத்தினர். (a)
+
+◼️
+
+[Data](articles/e3952850.json)
+
+---
 
 ### 2025-08-21 (Thursday)
 
@@ -1851,21 +1871,5 @@ Sri Lanka sent 7,122 migrant workers to South Korea in 2024. (Colombo/Aug21/2022
 ◼️
 
 [Data](articles/cc393375.json)
-
----
-
-### Arrest warrant issued for Diana Gamage
-
-*2025-08-21 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111700/arrest-warrant-issued-for-diana-gamage) · `en`
-
-The Colombo Magistrate’s Court has issued a warrant for the arrest of former State Minister Diana Gamage, who faces charges under the Immigration and Emigration Act.
-
-The case was taken up before Colombo Chief Magistrate Thanuja Lakmali Jayatunga today (21).
-
-The arrest warrant has reportedly been issued due to former State Minister Diana Gamage’s failure to appear before the court in a case filed against her for violating immigration and emigration laws.
-
-◼️
-
-[Data](articles/af0cc105.json)
 
 ---

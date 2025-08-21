@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 11:20:56**
+As of **2025-08-21 11:32:15**
 
 ## Newspaper Stats
 
-*Scraped **71,516** Articles*
+*Scraped **71,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,878
+adalk | 6,879
 adaderanalk | 9,007
 tamilmirrorlk | 10,522
 virakesarilk | 11,824
-adaderanasinhalalk | 12,355
+adaderanasinhalalk | 12,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,516 articles have been extended.
+61,973 (86.7%) of 71,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### මහීෂ් තීක්ෂණට අංක 1 අහිමිවෙයි
+
+*2025-08-21 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213608) · `si`
+
+අයි.සී.සී. එක්දින පන්දු යවන්නන් ශ්‍රේණිගත කිරීම්වල පෙරමුණ ගැනීමට දකුණු අප්‍රිකානු කන්ඩායමේ කේෂව් මහරාජ් සමත්ව තිබේ.
+
+ඒ අනුව මෙතෙක් ශ්‍රේණිගත කිරීම්වල පෙරමුණේ සිටි මහීෂ් තීක්ෂණට දෙවන ස්ථානය හිමිවුණි.
+
+අයි.සී.සී. නවතම ශ්‍රේණිගත කිරීම්වලට අනුව එක්දින පන්දු යවන්නන්ගේ තෙවන ස්ථානය ඉන්දීය කණ්ඩායමේ කුල්දීප් යාදව්ට හිමිව ඇති අතර සිව් වන ස්ථානය නැමීබියා කණ්ඩායමේ බර්නාට් ෂෝල්ට්ස්ට හිමිව තිබේ.
+
+ශ්‍රී ලංකා කණ්ඩායමේ වනිදු හසරංග එම සටහනේ අට වන ස්ථානයේ පසු වන අතර දුනිත් වෙල්ලාලගේ 32 වන ස්ථානයේ පසු වෙයි.
+
+◼️
+
+[Data](articles/b7d942ac.json)
+
+---
+
+### ඩයනා ගමගේට වරෙන්තු
+
+*2025-08-21 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213607) · `si`
+
+ආගමන හා විගමන පනත යටතේ දනා ලබා සිටින හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය නඩු විභාගය සඳහා පෙනී නොසිටීම හේතුවෙන් ඇය අත්අඩංගුවට ගන්නා ලෙස දන්වමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/05a53c7b.json)
+
+---
 
 ### புதிய நிலா கண்டுபிடிப்பு
 
@@ -43,6 +73,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e364dde4.json)
+
+---
+
+### මහනුවර දිස්ත්‍රික්කයේ වගා නොකළ ඉඩම් හෙක්ටයාර් 3122 ක්
+
+*2025-08-21 10:52:01* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-දිස්ත්‍රික්කයේ-වගා-නොකළ-ඉඩම්-හෙක්ටයාර්-3122-ක්/11-417990) · `si`
+
+මහනුවර දිස්ත්‍රික්කය තුල වගා නොකළ ගොඩ හා මඩ ඉඩම් හෙක්ටයාර් 3122 ක් පවතින බව ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
+
+මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවැති දිස්ත්‍රික් කෘෂිකර්ම කමිටු රැස්වීමේදී ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස් ටී.ඒ.රණසිංහ මහතා මේ බව කීය. මෙහිදි තව දුරටක් අදහස් දැක්වූ නියෝජ්‍ය කොමසාරිස්වරයා සඳහන් කළේ
+
+මහනුවර දිස්ත්‍රික්කය තුල මඩ ඉඩම් හෙක්ටයාර් 2559ක් සහ ගොඩ ඉඩම් හෙක්ටයාර් 563ක් වගා නොකර ඇති බවට හඳුනා ගෙන ඇති බත් එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස් ටී.ඒ.රණසිංහ මහතා ප්‍රකාශ කළේය.
+
+ඒ අනුව දැනට කඩිනමින් වගා කළ හැකි භූමි හදුනාගෙන වගා කිරීම් ආරම්භ කළ බවත්  දැනට මඩ ඉඩම් හෙක්ටයාර් 670 සහ ගොඩ ඉඩම් හෙක්ටයාර් 93ක් වගා කිරීම ආරම්භ කළ බවත් ඒ මහතා කීය. ප්‍රාදේශීය කෘෂිකර්ම කමිටු මගින් හදුනා ගන්නා ඉඩම්  එම කමිටු තීරණ අනුව වගා කිරිම කඩිනම් කරන බව ද ඒ මහතා තව දුරටත් කීය.
+
+මහනුවර අතිරේක දිස්ත්‍රික් ලේකම් නිලූකා බුලත්ගේ, මහනුවර දිස්ත්‍රික් කෘෂිකර්ම අධ්‍යක්ෂ ආචාර්ය නිරූෂා අයෝනි යන මහත්මීන් ප්‍රාදේශීය ලේකම්වරුන් සහ කෘෂිකර්ම ක්ෂේත්‍රයට සම්බන්ධ නිලධාරීන් මෙම රැස්වීමට එක් වූහ.
+
+◼️
+
+[Data](articles/10e68aff.json)
 
 ---
 
@@ -1725,53 +1775,5 @@ He also added that the Government intends to hold the Provincial Council Electio
 ◼️
 
 [Data](articles/2e674b7b.json)
-
----
-
-### US launches inaugural Young South Asian Leaders Initiative workshop in Colombo
-
-*2025-08-20 17:00:12* · [`dailyftlk`](https://www.ft.lk/news/US-launches-inaugural-Young-South-Asian-Leaders-Initiative-workshop-in-Colombo/56-780517) · `en`
-
-US Ambassador to Sri Lanka Julie Chung, South and Central Asian Affairs Acting Deputy Assistant Secretary Shelly Seaver, and Youth Affairs and Sports Minister Sunil Gamage yesterday opened the inaugural workshop of the Young South Asian Leaders Initiative (YSALI), the US Embassy in Colombo said.
-
-The YSALI is a US Government-funded program aimed at empowering youth leaders, promoting peace, and bolstering economic growth across South Asia.
-
-More than 80 YSALI participants, competitively selected from alumni of previous US Government initiatives, represent the next generation of South Asian leaders and innovators in business, government, academia, health, and other fields. By connecting them with counterparts from across the region, the US is building lasting networks and cultivating future partners and advocates for American businesses and shared interests, the Embassy said.
-
-...
-
-[Data](articles/4d4757f6.json)
-
----
-
-### ரஷ்யா - உக்ரைன் போரை நிறுத்தவே இந்தியா மீது வரி விதிப்பு : வெள்ளை மாளிகை
-
-*2025-08-20 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/222964) · `ta`
-
-உக்ரைன் மீது ரஷ்யா தொடுத்துள்ள போரை முடிவுக்குக் கொண்டு வர ரஷ்யா மீது மறைமுக அழுத்தம் கொடுக்கும் முயற்சிகளின் ஒரு பகுதியாக அமெரிக்க ஜனாதிபதி டிரம்ப் இந்தியாவின் மீது கடுமையான வரிகளை விதித்ததாக வெள்ளை மாளிகையின் செய்தித் தொடர்பாளர் கரோலின் லீவிட் தெரிவித்துள்ளார்.
-
-யுத்தத்தை நிறுத்த மிகப் பெரிய அழுத்தத்தை டிரம்ப் அளித்துள்ளார். இதில் இந்தியா மீதான தடைகள் மற்றும் பிற நடவடிக்கைகளையும் அவர் எடுத்து உள்ளார். ரஷ்யா - உக்ரைன் போர் முடிவுக்கு வர வேண்டும் என்று டிரம்ப் மிகவும் தெளிவாக கூறி உள்ளார்.
-
-ரஷ்யா - உக்ரைன் போரை முடிவுக்குக் கொண்டு வருவதற்கான அனைத்து வழிகளையும் அமெரிக்கா ஆராய்ந்து வருகிறது. அதன் ஒரு பகுதியாக, ரஷ்யாவுடன் இராணுவ வர்த்தக உறவுகளை வைத்திருக்கும் நாடுகளுக்கு அழுத்தம் கொடுக்க தீர்மானித்தோம்.
-
-ரஷ்யாவிடம் இருந்து S-400 ஏவுகணை அமைப்பை வாங்குவதற்கான இந்தியாவின் முடிவு, இந்தப் போருக்கு மறைமுகமாக ஆதரவளிப்பதாகவே நாங்கள் கருதுகிறோம். இந்தியாவுக்கு எதிராக இந்த கூடுதல் வரி விதிப்பு, ரஷ்யாவுடனான அதன் இராணுவ வர்த்தகத்தை நிறுத்துமாறு வலியுறுத்துவதற்கே.
-
-...
-
-[Data](articles/b7b90aef.json)
-
----
-
-### North, East hartal ends after Govt. gives assurance to investigate military death, remove Army camps
-
-*2025-08-20 16:58:35* · [`dailyftlk`](https://www.ft.lk/news/North-East-hartal-ends-after-Govt-gives-assurance-to-investigate-military-death-remove-Army-camps/56-780516) · `en`
-
-Ilankai Tamil Arasu Kachchi (ITAK) MP Shanakiyan Rasamanickam yesterday said the hartal in the North and East was called off by noon the same day after Government assurances to investigate the death of a 32-year-old in Mullaitivu caused by the military.
-
-“The hartal called by the ITAK was a resounding success. Following (Sunday’s) press briefing by the Cabinet Spokesperson, and based on assurances given regarding the investigation and steps being taken towards the removal of Army camps, we decided to limit the hartal until 12 p.m.,” he said on ‘X.’
-
-...
-
-[Data](articles/e31d5883.json)
 
 ---

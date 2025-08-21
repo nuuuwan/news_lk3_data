@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 14:34:41**
+As of **2025-08-21 14:50:25**
 
 ## Newspaper Stats
 
-*Scraped **71,546** Articles*
+*Scraped **71,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,883
-adaderanalk | 9,013
+adaderanalk | 9,015
 tamilmirrorlk | 10,532
-virakesarilk | 11,825
+virakesarilk | 11,826
 adaderanasinhalalk | 12,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,546 articles have been extended.
+61,973 (86.6%) of 71,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### Three-wheeler driver sentenced to death for stabbing and killing an individual in Kelaniya
+
+*2025-08-21 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111705/three-wheeler-driver-sentenced-to-death-for-stabbing-and-killing-an-individual-in-kelaniya) · `en`
+
+A 43-year-old three-wheeler driver has been sentenced to death by the Colombo High Court today (21), after being found guilty of stabbing and killing a person with a sharp weapon following an argument.
+
+The verdict was delivered by Colombo High Court Judge Mahesh Weeraman, Ada Derana reporter said.
+
+The sentence was imposed on the individual found guilty of murdering an individual in Kelaniya on March 2, 2010.
+
+After a lengthy trial, Judge Mahesh Weeraman stated that the charges brought against the accused by the prosecution had been proven beyond reasonable doubt.
+
+Accordingly, the judge imposed the death sentence on the three-wheeler driver.
+
+◼️
+
+[Data](articles/f3b83cca.json)
+
+---
 
 ### චීනයේ "ගංගා ඩොල්ෆින්" වඳවීමේ අවදානමක
 
@@ -47,6 +67,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f7d8c0f2.json)
+
+---
+
+### Indictments served on former Minister Anura Priyadharshana Yapa and five others at Colombo HC
+
+*2025-08-21 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111704/indictments-served-on-former-minister-anura-priyadharshana-yapa-and-five-others-at-colombo-hc) · `en`
+
+Former Minister Anura Priyadharshana Yapa and five others have been served indictments by the Attorney General today (21) before the Colombo High Court, on charges including the misuse of government funds by illegally spending over Rs. 6.1 million from the Ceylon Petroleum Corporation under the pretext of providing flood relief in December 2014.
+
+The indictments were served before Colombo High Court Judge Manjula Thilakaratne, Ada Derana reporter said.
+
+Subsequently, the judge ordered that each accused be released on cash bail of Rs. 100,000 and two surety bails of Rs. 1 million each.
+
+The judge further ordered that the fingerprints of the accused be recorded and that reports be submitted.
+
+The case was scheduled for a pre-trial conference on October 1.
+
+...
+
+[Data](articles/d9c6d7f1.json)
 
 ---
 
@@ -67,6 +107,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9b6bf07d.json)
+
+---
+
+### இலங்கைக்கும் மாலைதீவுக்குமிடையிலான படகுசேவையை ஆரம்பிக்க வேண்டும் : இலங்கை - மாலைதீவு வர்த்தக சங்கத்தின் முன்னாள் தலைவர் சுதேஷ் மெண்டிஸ்
+
+*2025-08-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223009) · `ta`
+
+இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான படகு சேவை உள்ளிட்ட சுமார் 40 க்கு மேற்பட்ட ஒப்பந்தங்கள் பேச்சளவில் காணப்படுகின்றன. அவற்றை துரிதப்படுத்த இரு நாட்டு அரசாங்கங்களுக்கும் ஆலோசனை வழங்கியுள்ளோம் என இலங்கை மற்றும் மாலைதீவு வர்த்தக சங்கத்தின் முன்னாள் தலைவர் சுதேஷ் மெண்டிஸ் தெரிவித்தார்.
+
+இலங்கை மற்றும் மாலைதீவு வர்த்தக சங்கத்தின் 17 ஆவது ஆண்டு பொதுக்கூட்டம் அண்மையில் கொழும்பில் இடம்பெற்றது.
+
+இதன்போது கருத்துத் தெரிவித்த இலங்கை மற்றும் மாலைதீவு வர்த்தக சங்கத்தின் முன்னாள் தலைவர் சுதேஷ் மெண்டிஸ் மேற்கண்டவாறு தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறுதின தாக்குதலின் பின்னர் இரு நாடுகளுக்கும் இடையிலான வர்த்தகம் மற்றும் சுற்றுலாத்துறை பின்தள்ளப்பட்டது. இந்நிலையில் நாம் இலங்கையின் வெளிவிவகார அமைச்சர் விஜத்த ஹேரத்தை சந்தித்து இது குறித்து தெளிவுபடுத்தியதுடன் இணைந்து வேலைத்திட்டங்களை முன்னெடுத்தோம். இரு நாடுகளுக்கும் இடையிலான வீசா மட்டுப்பாடுகள் உள்ளிட்ட பல தடைகளை தளர்தியமைக்காக ஜனாதிபதிக்கு நாம் நன்றியை தெரிவித்துக்கொள்கின்றோம்.
+
+...
+
+[Data](articles/d1b45003.json)
 
 ---
 
@@ -114,9 +172,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111703/detention-orders-on-suspected-gunman-in-ex-homagama-ps-members-murder) · `en`
 
-Police have obtained detention orders to question the gunman allegedly involved in the shooting and killing of former Homagama Pradeshiya Sabha member Shantha Mudunkotuwa.
+Police have obtained detention orders to question the gunman allegedly involved in the shooting and killing of former Homagama Pradeshiya Sabha member Shantha Mudunkotuwa, police stated.
 
-The Pugoda Magistrate’s Court has issued a seven-day detention order to interrogate the suspect, after the suspect was produced before the court today (21).
+The Pugoda Magistrate’s Court issued a seven-day detention order to interrogate the suspect, after he was produced before the magistrate today (21).
+
+The suspect was arrested yesterday (20) by officers of the Criminal Investigation Department (CID) while hiding in Nagarawewa, Hambantota.
+
+Preliminary investigations have revealed that the 34-year-old suspect, a former army soldier residing in Barawakumbuka, has also been charged with attempted murder in two shootings that took place in Avissawella and Kollupitiya.
+
+Police further stated that, based on information obtained from the suspect, a 9mm firearm, four rounds of ammunition, two 12-bore firearms, and 6 grams of the crystal methamphetamine (ICE) were found concealed in Hanwella.
 
 ◼️
 
@@ -1725,53 +1789,5 @@ Shah Rukh Khan’s National Award win for ‘Best Actor’ for his performance i
 ...
 
 [Data](articles/18d25df9.json)
-
----
-
-### කරච්චි නගරයටත් ගංවතුර
-
-*2025-08-20 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213590) · `si`
-
-පාකිස්තානයට මේ දිනවල ඇඳහැලෙන ධාරානිපාත මෝසම් වර්ෂාව හේතුවෙන් එරට අගනුවර මෙන්ම ජනාකීර්ණම නගරය වන කරච්චි නුවරට දැඩි බලපෑම් එල්ල වී ඇත.
-
-මේ හේතුවෙන් එහි පාසල් සහ රජයේ කාර්යාල වසා දැමීමට පවා පාකිස්තාන රජයට සිදුව තිබේ.
-
-වර්ෂාව හේතුවෙන් අවම වශයෙන් පුද්ගලයින් 10 දෙනෙකු මේ වනවිට මියගොස් ඇති අතර, එම ප්‍රදේශයට තවදුරටත් තද වැසි ඇතිවිය හැකි බවට පුරෝකථනය කර ඇත.
-
-ඉකුත් සිකුරාදා වයඹ දිග කඳුකරයට බලපෑ හදිසි ගංවතුරෙන් මියගිය සංඛ්‍යාව 385 දක්වා ඉහළගිය අතර, තවත් නිශ්චිත සංඛ්‍යාවක් අතුරුදහන් වී ඇති බව එරට බලධාරීන් සඳහන් කරයි.
-
-◼️
-
-[Data](articles/d9aad608.json)
-
----
-
-### ”அனைத்து துறையிலும் கைரேகை முறையை அமுல்படுத்த வேண்டும்”
-
-*2025-08-20 21:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-துறையிலும்-கைரேகை-முறையை-அமுல்படுத்த-வேண்டும்/175-363176) · `ta`
-
-சில உறுப்பினர்களின் அமர்வு வருகை குறைவாக இருப்பதால், கைரேகை அடிப்படையிலான வருகைப் பதிவை அமல்படுத்த பாராளுமன்ற உறுப்பினர் அர்ச்சுனா ராமநாதன் முன்மொழிந்துள்ளார்.
-
-"கைரேகை அவசியம், ஆனால் அதை முதலில் பாராளுமன்றத்தில் இருந்து ஆரம்பிக்கலாம். இன்று இங்கு எத்தனை எம்.பி.க்கள் உள்ளனர் என்று பாருங்கள். நாங்கள் மொத்தம் 350,000 ரூபாய் சம்பளம் பெறுகிறோம். சில எம்.பி.க்கள் 66 அமர்வுகளில் 25 அமர்வுகளில் மட்டுமே கலந்து கொண்டுள்ளனர்," என்று ராமநாதன் கூறினார், பாராளுமன்ற அமர்வுகளை நடத்துவதற்கு மில்லியன் கணக்கான பணம் செலவிடப்படுகிறது, ஆனால் சில எம்.பி.க்கள் இதில் கலந்து கொள்ளவில்லை.
-
-சட்டம் அனைவருக்கும் சமமாகப் பொருந்த வேண்டும் என்று கூறிய எம்.பி., மருத்துவத் துறை, பொலிஸ் மற்றும் சட்டத் துறை உள்ளிட்ட அனைத்து தொழில்களிலும் கட்டாய கைரேகை விதியை அமல்படுத்த வேண்டும் என்று அழைப்பு விடுத்தார்.
-
-...
-
-[Data](articles/30c5608a.json)
-
----
-
-### Ruhunu Farms unveils new facility, supporting the continued growth of Aberdeen Holdings
-
-*2025-08-20 21:25:00* · [`islandlk`](http://island.lk/ruhunu-farms-unveils-new-facility-supporting-the-continued-growth-of-aberdeen-holdings/) · `en`
-
-In continuing a legacy of progress in the poultry industry, Ruhunu Farms (Pvt) Ltd a subsidiary of Aberdeen Holdings, commemorated the opening of its expanded poultry facility recently, at its premises in Hambantota. The ceremony marked a pivotal chapter in the company’s 46-year journey of delivering safe, hygienic, and responsibly produced poultry to communities across the Southern Province.
-
-The inauguration was held at the Ruhunu Farms site in Hambantota and was attended by distinguished guests including Sattar Kassim, Chairman of Aberdeen Holdings, Hassan Kassim, Deputy Chairman, and the Board of Directors of the group. Among the distinguished attendees was Azmi Thassim, founder of the original M.R. Thassim and Company, which has since evolved into Ruhunu Farms.
-
-...
-
-[Data](articles/ffc9bdc0.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 13:19:43**
+As of **2025-08-21 13:31:48**
 
 ## Newspaper Stats
 
-*Scraped **71,537** Articles*
+*Scraped **71,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,881
-adaderanalk | 9,011
-tamilmirrorlk | 10,530
+adaderanalk | 9,013
+tamilmirrorlk | 10,531
 virakesarilk | 11,825
-adaderanasinhalalk | 12,360
+adaderanasinhalalk | 12,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,537 articles have been extended.
+61,973 (86.6%) of 71,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ரணிலுக்கு அழைப்பாணை
+
+*2025-08-21 13:18:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-அழைப்பாணை/175-363217) · `ta`
+
+அரசாங்கப் பணத்தில் நிதியளிக்கப்பட்டதாகக் கூறப்படும் வெளிநாட்டுப் பயணம் தொடர்பான விசாரணை தொடர்பாக, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை நாளை வெள்ளிக்கிழமை குற்றப் புலனாய்வுத் திணைக்களத்தின் (CID) முன் ஆஜராகுமாறு அழைப்பாணை அனுப்பப்பட்டுள்ளது.
+
+இந்த விசாரணை, விக்ரமசிங்கவின் நியூயோர்க்கிற்கும் பின்னர் லண்டனில் நடந்த பல்கலைக்கழக பட்டமளிப்பு விழாவில் கலந்து கொண்ட ஐக்கிய இராச்சியத்திற்கும் சென்றது குறித்து கவனம் செலுத்துகிறது.
+
+லண்டன் பயணத்தின் ஒரு பகுதி தனிப்பட்ட காரணங்களுக்காக இருந்தது, ஆனால் தேசிய நிதியிலிருந்து நிதியளிக்கப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+10 பேர் கொண்ட குழுவை உள்ளடக்கிய இந்தப் பயணத்திற்காக அரசாங்கத்திற்கு சுமார் ரூ.16.9 மில்லியன் செலவானதாக CID மதிப்பிடுகிறது.
+
+விசாரணையின் ஒரு பகுதியாக, முன்னாள் ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்க மற்றும் முன்னாள் தனியார் செயலாளர் சாண்ட்ரா பெரேரா ஆகியோரிடம் புலனாய்வாளர்கள் ஏற்கனவே விசாரணை நடத்தியுள்ளனர்.
+
+...
+
+[Data](articles/69cd66a5.json)
+
+---
+
+### Detention orders on suspected gunman in ex-Homagama PS member’s murder
+
+*2025-08-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111703/detention-orders-on-suspected-gunman-in-ex-homagama-ps-members-murder) · `en`
+
+Police have obtained detention orders to question the gunman allegedly involved in the shooting and killing of former Homagama Pradeshiya Sabha member Shantha Mudunkotuwa.
+
+The Pugoda Magistrate’s Court has issued a seven-day detention order to interrogate the suspect, after the suspect was produced before the court today (21).
+
+◼️
+
+[Data](articles/9af2a115.json)
+
+---
+
+### ශාන්ත මුදුන්කොටුව ඝාතනයේ වෙඩික්කරු රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
+
+*2025-08-21 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213612) · `si`
+
+හෝමාගම ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී ශාන්ත මුදුන්කොටුව මහතා වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියේ සැකකාර වෙඩික්කරු දින 07ක් රඳවාගෙන ප්‍රශ්න කිරීමට පූගොඩ මහේස්ත්‍රාත් අධිකරණය අද (21) අවසර ලබා දුනි.
+
+මෙම සැකකරු හම්බන්තොට නාගරවැව ප්‍රදේශයේ සැඟව සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරින් විසින් ඊයේ (20) අත්අඩංගුවට ගත්තේය.
+
+විමර්ශනවලදී අනාවරණ වී ඇත්තේ, 34 හැවිරිදි බරවකුඹුක ප්‍රදේශයේ පදිංචි හිටපු යුද හමුදා සෙබලෙකු වන සැකකරු අවිස්සාවේල්ල සහ කොල්ලුපිටිය ප්‍රදේශවලදී වෙඩිතබා මනුෂ්‍ය ඝාතන දෙකක් සිදුකිරීමට තැත්කිරීම් සම්බන්ධයෙන් ද චෝදනා එල්ලවී ඇති බවය.
+
+එමෙන්ම සැකකරුගෙන් ලබාගත් තොරතුරු මත හංවැල්ල ප්‍රදේශයේ සඟවා තිබු මිලිමීටර් 9 වර්ගයේ උණ්ඩ යෙදිය හැකි ගිනි අවියක්, පතරොම් හතරක්, බෝර 12 වර්ගයේ පතරොම් යෙදිය හැකි ගිනිඅවි දෙකක් හා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 6ක් සොයාගත් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/cd2e4f02.json)
+
+---
 
 ### யாழில் 14 பாடசாலைகளின் மாணவர்கள் ஜனாதிபதி செயலகத்துக்கு விஜயம்
 
@@ -51,6 +103,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8b13ad1a.json)
+
+---
+
+### CoPF approves Budget Estimate of National Audit Office
+
+*2025-08-21 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111702/copf-approves-budget-estimate-of-national-audit-office) · `en`
+
+The Budget Estimate of the National Audit Office for the year 2026 was taken up for consideration at the Committee on Public Finance(CoPF) held on Tuesday (19) and was approved to be presented to Parliament with the Committee’s proposals, the Department of Communication of Parliament said.
+
+This consideration was carried out in terms of Section 34 of the Audit Act No. 19 of 2018.
+
+Given that the Member of Parliament Dr. Harsha de Silva, Chair of the Committee on Public Finance, was overseas, the said Committee met under the chairmanship of the Member of Parliament Rauff Hakeem, Attorney at Law, who was appointed as the Acting Chair of the Committee, the statement added.
+
+A group of officials representing the National Audit Office including Mr. G.H.D. Dharmapala, Acting Auditor General, as well as officials from the Department of National Budget, were present at this occasion.
+
+Attention was drawn to the issues prevailing in the National Audit Office.
+
+...
+
+[Data](articles/cdbd8ebe.json)
 
 ---
 
@@ -1687,77 +1759,5 @@ She expressed delight at the continuous strengthening of bilateral relations ove
 ◼️
 
 [Data](articles/1549e42b.json)
-
----
-
-### Sri Lanka dedicated to deeper economic and cultural links with Vietnam
-
-*2025-08-20 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-dedicated-to-deeper-economic-and-cultural-links-with-vietnam-237522/) · `en`
-
-ECONOMYNEXT – Sri Lanka is dedicated to deepening ties with Vietnam Foreign Minister Vijitha Herath said, as the two countries marked 55 years of diplomatic relations in 2025.
-
-A recent visit by President Anura Kumara Dissanayake to Vietnam has paved the way for a new chapter in the partnership between the two countries, he said.
-
-“It is our hope that the dialogue on cooperation in trade, investment, renewable energy, agriculture and education that was initiated during these talks will bring about a host of mutual benefits and progress in diverse fronts to both our countries,” Minister Herath said.
-
-“Sri Lanka is dedicated to deepening trade, investment, and tourism ties with Viet Nam.
-
-“Sri Lankan investments in Viet Nam totals to a registered capital of more than 43 million dollars, particularly in the apparel sector, and we encourage further collaboration, including government-to-government investments and private-sector partnerships.”
-
-...
-
-[Data](articles/6728764a.json)
-
----
-
-### Sri Lanka dedicated to deeper economic and cultural links with Vietnam
-
-*2025-08-20 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-dedicated-to-deeper-economic-and-cultural-links-with-vietnam-foreign-minister-237522/) · `en`
-
-ECONOMYNEXT – Sri Lanka is dedicated to deepening ties with Vietnam Foreign Minister Vijitha Herath said, as the two countries marked 55 years of diplomatic relations in 2025.
-
-A recent visit by President Anura Kumara Dissanayake to Vietnam has paved the way for a new chapter in the partnership between the two countries, he said.
-
-“It is our hope that the dialogue on cooperation in trade, investment, renewable energy, agriculture and education that was initiated during these talks will bring about a host of mutual benefits and progress in diverse fronts to both our countries,” Minister Herath said.
-
-“Sri Lanka is dedicated to deepening trade, investment, and tourism ties with Viet Nam.
-
-“Sri Lankan investments in Viet Nam totals to a registered capital of more than 43 million dollars, particularly in the apparel sector, and we encourage further collaboration, including government-to-government investments and private-sector partnerships.”
-
-...
-
-[Data](articles/9d0d6e47.json)
-
----
-
-### உப்பு விலை குறைந்தது
-
-*2025-08-20 19:59:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உப்பு-விலை-குறைந்தது/175-363163) · `ta`
-
-அயடின் கலந்த லக் உப்பின் விலையை லங்கா உப்பு நிறுவனம் குறைத்துள்ளதாக  நிறுவனத்தின் தலைவர் இன்று குறிப்பிட்டார்.
-
-அதன்படி, 400 கிராம் அயடின் கலந்த உப்பு தூள் பெக்கெட்டின் விலை 20 ரூபாவினால் குறைக்கப்பட்டுள்ளது.
-
-அதன்படி, அடுத்த வாரம் முதல் 400 கிராம் உப்பு தூள் பெக்கெட் ஒன்று 100 ரூபாவுக்கும், 1 கிலோகிராம் உப்பு தூள் பெக்கெட் 200 ரூபாவுக்கும், 1 கிலோகிராம் கட்டி உப்பு பெக்கெட் 150 ரூபாவுக்கும் விற்பனை செய்யப்படும் என தெரிவித்தார். R
-
-◼️
-
-[Data](articles/ad9e5b19.json)
-
----
-
-### President directs to implement women’s empowerment programs aimed at eradicating rural poverty
-
-*2025-08-20 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111683/president-directs-to-implement-womens-empowerment-programs-aimed-at-eradicating-rural-poverty) · `en`
-
-A pre-budget meeting for the Ministry of Women and Child Affairs for the year 2026 was held this morning (20) at the Presidential Secretariat, presided over by President Anura Kumara Dissanayake.
-
-During the meeting, the progress of projects implemented by various institutions under the Ministry of Women and Child Affairs, including the Women’s Bureau of Sri Lanka, National Committee on Women, the National Secretariat for Early Childhood Development, the Department of Probation and Child Care Services and the National Child Protection Authority, using the 2025 budget allocations was reviewed individually, according to the President’s Media Division (PMD).
-
-The President emphasised the need for the budget allocations to be properly utilised for the relevant projects within the specified financial year to ensure the public receives the benefits. He also inquired about the Ministry of Women and Child Affairs’ future plans, highlighting its crucial role.
-
-...
-
-[Data](articles/2faa5801.json)
 
 ---

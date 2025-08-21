@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 11:07:23**
+As of **2025-08-21 11:20:56**
 
 ## Newspaper Stats
 
-*Scraped **71,515** Articles*
+*Scraped **71,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,878
 adaderanalk | 9,007
-tamilmirrorlk | 10,521
+tamilmirrorlk | 10,522
 virakesarilk | 11,824
 adaderanasinhalalk | 12,355
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,515 articles have been extended.
+61,973 (86.7%) of 71,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### புதிய நிலா கண்டுபிடிப்பு
+
+*2025-08-21 10:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/புதிய-நிலா-கண்டுபிடிப்பு/57-363202) · `ta`
+
+அமெரிக்க விண்வெளி ஆராய்ச்சி நிலையம் நாசா, கனடா நாட்டின் விண்வெளி ஆராய்ச்சி நிறுவனத்துடன் இணைந்து ஆயிரம் கோடி அமெரிக்க டாலர் பொருட்செலவில் அதிநவீன சக்தி வாய்ந்த தொலைநோக்கியான ஜேம்ஸ் வெப் தொலைநோக்கியை உருவாக்கி விண்ணில் நிலைநிறுத்தியது. இதனை கொண்டு விண்வெளியை ஆராய்ந்து வருகின்றனர்.
+
+பால்வெளி மண்டலத்தில் 7-வது கிரகமாக யுரேனசை ஜேம்ஸ் வெப் தொலைநோக்கி ஆராய்ந்து வருகிறது. ஏற்கனவே 28 நிலாக்களை யுரேனஸ் கொண்டுள்ளது. இந்தநிலையில் யுரேனஸ் கிரகத்தை மேலும் ஒரு நிலா சுற்றி வருவதை வெப் தொலைநோக்கி கண்டுபிடித்துள்ளது. இதனால் யுரேனஸ் நிலாக்களின் எண்ணிக்கை 29 ஆக அதிகரித்துள்ளது. புதிய நிலாவுக்கு நாசா சார்பில் இன்னும் பெயர் வைக்கப்படவில்லை.
+
+◼️
+
+[Data](articles/e364dde4.json)
+
+---
 
 ### ශ්‍රීලංකන් අක්‍රමිකතා සොයන ජනපති කමිටුව මහජන පැමිණිලි කැඳවයි
 
@@ -1759,23 +1773,5 @@ Ilankai Tamil Arasu Kachchi (ITAK) MP Shanakiyan Rasamanickam yesterday said the
 ...
 
 [Data](articles/e31d5883.json)
-
----
-
-### WFP Representative and Country Director presents credentials to Foreign Minister
-
-*2025-08-20 16:58:01* · [`dailyftlk`](https://www.ft.lk/news/WFP-Representative-and-Country-Director-presents-credentials-to-Foreign-Minister/56-780515) · `en`
-
-WFP Sri Lanka Representative and Country Director Philip Ward (left) hands over his letter of credentials to Foreign Minister Vijitha Herath
-
-Newly-appointed Representative and Country Director of the United Nations World Food Programme (WFP) in Sri Lanka Philip Ward has formally presented his letter of credentials to Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath at the Ministry premises.
-
-In his discussions with Minister Herath, Ward reaffirmed the WFP’s commitment to supporting Sri Lanka’s efforts to strengthen food systems, improve nutrition, and build resilience among vulnerable communities.
-
-“I am honoured to take up this role at a time when Sri Lanka is navigating both progress and persistent challenges in food security and nutrition,” said Ward. “The WFP remains steadfast in its support to national efforts, working hand in hand with partners to ensure access to nutritious food, especially for those most at risk.”
-
-...
-
-[Data](articles/7aec78e9.json)
 
 ---

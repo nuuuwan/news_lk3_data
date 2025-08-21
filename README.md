@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 10:33:28**
+As of **2025-08-21 10:49:52**
 
 ## Newspaper Stats
 
-*Scraped **71,508** Articles*
+*Scraped **71,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,877
 adaderanalk | 9,007
-tamilmirrorlk | 10,518
+tamilmirrorlk | 10,519
 virakesarilk | 11,824
-adaderanasinhalalk | 12,352
+adaderanasinhalalk | 12,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,508 articles have been extended.
+61,973 (86.7%) of 71,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### எஸ்.ஐ.யின்  கணக்கிலிருந்து உருவிய எஸ்.ஐ. கைது
+
+*2025-08-21 10:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஐ-யின்-கணக்கிலிருந்து-உருவிய-எஸ்-ஐ-கைது/175-363197) · `ta`
+
+கிளிநொச்சியில் உள்ள அரவில் நகர் காவல் சிறப்பு அதிரடிப்படை முகாமின் பயிற்சி உப-பொலிஸ் பரிசோதகர் (எஸ்.ஐ), உப-பொலிஸ் பரிசோகரின் சிம் கார்டை திருடி, வங்கிக் கணக்கு மற்றும் கிரெடிட் கார்டில் இருந்து ரூ.138,472 எடுத்த குற்றச்சாட்டில் பயிற்சி உப-பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளதாக கிளிநொச்சி பொலிஸார் தெரிவித்துள்ளனர்.
+
+புகார்தாரரும் சந்தேக நபருமான பயிற்சி உப-பொலிஸ் பரிசோதகர்  ஒரே முகாமில் பணிபுரிகின்றனர், மேலும் புகார்தாரரின்   சிம் கார்டை சந்தேக நபரான பயிற்சி உப-பொலிஸ் பரிசோதகரே திருடிவிட்டதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+சந்தேக நபரான பயிற்சி உப-பொலிஸ் பரிசோதகருக்கு  ஜூலை 31 முதல் அவ்வப்போது பணம் கிடைத்து வந்திருப்பது தெரியவந்துள்ளது.
+
+அதன்படி, விசாரணைகள் நடத்தப்பட்ட பின்னர் சந்தேக நபரான து உப-பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/19c85472.json)
+
+---
+
+### පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේ රැස්වීමක් අද දහවල්
+
+*2025-08-21 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213604) · `si`
+
+පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේ රැස්වීමක් කථානායක, ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (21) දහවල් 12ට පාර්ලිමේන්තුවේ දී පැවැත්වීමට නියමිතය.
+
+ඒ සඳහා පාර්ලිමේන්තුව නියෝජනය කරන සියලු පක්ෂවල නායකයින්ට සහභාගී වෙන ලෙස කථානායකවරයා විසින් දැනුම්දී තිබේ.
+
+මෙහිදී ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජනරාල් අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳ සාකච්ඡා කිරීමට නියමිත බව ද වාර්තා වේ.
+
+කෙසේවෙතත් මේ සම්බන්ධයෙන් අදහස් දක්වමින් ආණ්ඩු පක්ෂය පවසා ඇත්තේ, නියෝජ්‍ය අමාත්‍යවරයෙකුට එරෙහිව විශ්වාසභංගයක් ගෙන ඒමට විපක්ෂයට හැකියාවක් නොමැති බවය.
+
+ඒ සම්බන්ධයෙන් ඊයේ (20) දිනයේ දී විපක්ෂයේ පක්ෂ නායකයින් රැස්වී පාර්ලිමේන්තුවේ දී සාකච්ඡා කර ඇතැයි ද වාර්තා වේ.
+
+◼️
+
+[Data](articles/1b5aa9a6.json)
+
+---
 
 ### கத்தோலிக்க ஆயர்கள் பேரவை ஜனாதிபதியுடன் சந்திப்பு
 
@@ -1755,49 +1793,5 @@ Canada-based WADA, which placed Sri Lanka on a “watch-list” in March, suspen
 ...
 
 [Data](articles/62190dfd.json)
-
----
-
-### New Chairman at Lanka Hospitals Corporation
-
-*2025-08-20 16:53:09* · [`dailyftlk`](https://www.ft.lk/business/New-Chairman-at-Lanka-Hospitals-Corporation/34-780512) · `en`
-
-Major General (Dr.) P.A. Chrisantha Fernando (Retd.) has been appointed Independent Non-Executive Director and Chairman of The Lanka Hospitals Corporation PLC.
-
-He is a highly accomplished Consultant Anaesthetist, currently serving at Ninewells Hospitals and Lanka Hospitals, Colombo, with over 34 years of medical service, including 20 years at leading private hospitals in Sri Lanka.
-
-A decorated officer of the Sri Lanka Army Medical Corps, he has held senior leadership positions such as Director General of Army Health Services, Colonel Commandant of the Army Medical Corps, Director of Army Medical Services, and Director of Army Hospital, Colombo.
-
-Dr. Fernando earned his MBBS and MD in Anaesthesiology from the University of Colombo, complemented by advanced training in the UK.
-
-...
-
-[Data](articles/97dda5c9.json)
-
----
-
-### මහ මොළකාරයා කවුද කියලා හැමෝම දන්නවා
-
-*2025-08-20 16:52:44* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මොළකාරයා-කවුද-කියලා-හැමෝම-දන්නවා/11-417977) · `si`
-
-පාස්කු ප්‍රහාරයට අදාළව මහ මොළකාරයා කවුරුන්දැයි සෑම ආණ්ඩුවක්ම දන්නා බවත් නමුත් එම මහ මොළකාරයා සමග
-
-කිසිවෙකුටත් සටන් කළ නොහැකි බවත් හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පැවැසීය.
-
-"අපිට ලොකු අපරාධ සිද්ධවෙලා තියෙනවා. සිද්ධ කරලා තියෙනවා. මාව මහා අපකීර්තියට පත්වුණෙත්, මගේ ආණ්ඩුව
-
-විනාශ කළෙත් ඒ වගේම මගේ පක්ෂය විනාශ කළෙත් ඒත් ඔය විදිහේ වැඩ පිළිවෙළක් තුළ තමයි.
-
-මේ සිද්ධ වුණ දේ කොහොමද වුණේ කියලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කියලා තියෙනවා. නමුත් ඒක කාටවත්
-
-එළියේ කියන්න බෑ. මහ මොළකාරයෝ හොයන්න දැගලුවට ඔය හැම දෙනාම  මහ මොළකාරයා කවුද කියලා දන්නවා.
-
-මහ මොළකාරයා කවුද කියලා හැම ආණ්ඩුවකම අයත් දන්නවා, හමුදාවලත් දන්නවා, බුද්ධි අංශත් දන්නවා නමුත් මහ
-
-මොළකාරයා කොහෙද ඉන්නේ කිව්වට මහ මොළකාරයත් එක්ක අපිට සටන් කරන්න බෑ."
-
-◼️
-
-[Data](articles/a8860e0e.json)
 
 ---

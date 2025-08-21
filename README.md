@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 19:14:05**
+As of **2025-08-21 19:33:16**
 
 ## Newspaper Stats
 
-*Scraped **71,600** Articles*
+*Scraped **71,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,109 @@ economynextcom | 4,381
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,889
-adaderanalk | 9,028
-tamilmirrorlk | 10,540
+adalk | 6,891
+adaderanalk | 9,031
+tamilmirrorlk | 10,542
 virakesarilk | 11,827
-adaderanasinhalalk | 12,378
+adaderanasinhalalk | 12,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,600 articles have been extended.
+61,973 (86.5%) of 71,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### President’s Fund to expand assistance programmes for persons with disabilities
+
+*2025-08-21 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111721/presidents-fund-to-expand-assistance-programmes-for-persons-with-disabilities) · `en`
+
+A meeting has been held in a bid to expand the services provided through the President’s Fund for persons with disabilities, as well as the execution of programmes in partnership with the National Secretariat for Persons with Disabilities.
+
+The discussion was held this afternoon (21) at the Presidential Secretariat between Secretary to the President, Dr. Nandika Sanath Kumanayake and officials of the National Secretariat for Persons with Disabilities, the President’s Media Division said.
+
+Key areas of attention included increasing medical support allowances, providing essential equipment to empower persons with disabilities, supporting the continuous education of their children and offering special educational assistance to children with disabilities, the PMD stated.
+
+Secretary to the President Dr. Nandika Sanath Kumanayake emphasized that the President’s Fund will take steps to strengthen and streamline existing services to make them more effective and impactful.
+
+...
+
+[Data](articles/7eb3ed73.json)
+
+---
+
+### පරිසර නියමුවෝ ජනපති අතින් පදක්කම් ලබති
+
+*2025-08-21 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213632) · `si`
+
+පරිසර නියමු ජනාධිපති පදක්කම් ප්‍රදානෝත්සවය  ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී අද (21) පෙරවරුවේ පැවැත්විණි.
+
+පරිසර සංරක්ෂණය සහ කළමනාකරණය පිළිබඳව දැනුමෙන් පිරිපුන් සිසුන් සඳහා ජනාධිපති පදක්කම් පිරිනමා ඔවුන් ඇගයීම වෙනුවෙන් මධ්‍යම පරිසර අධිකාරිය සහ අධ්‍යාපන අමාත්‍යාංශය ඒකාබද්ධව පරිසර නියමු ජනාධිපති පදක්කම් ප්‍රදානෝත්සවය වාර්ෂිකව සංවිධානය කරයි.
+
+මෙවර 11 වෙනි වරටත් පැවති පරිසර නියමු ජනාධිපති පදක්කම් ප්‍රදානෝත්සවයේදී පරිසර නියමුවෝ  192ක් ජනාධිපති අනුර කුමාර දිසානායක මහතා අතින් ජනාධිපති පදක්කම් ලැබූහ.
+
+පාසල් සිසුන් පරිසර නියමුවන් ලෙස පුහුණු කළ ගුරුවරුන්ට උපහාර පිදීමද මෙහිදී සිදු කෙරිණි.
+
+2025 පරිසර නියමු ජනාධිපති පදක්කම් ප්‍රදානෝත්සවය වෙනුවෙන්  සම්පාදනය කෙරුණු විශේෂ සමරු කලාපයද ජනාධිපතිවරයා වෙත පිළිගැන්විණි.
+
+මෙම උත්සව සභාව ඇමතූ පරිසර අමාත්‍ය ධම්මික පටබැඳි මහතා සඳහන් කළේ පරිසර දූෂණයේ අහිතකර ප්‍රතිවිපාකවලට අද මුළුමහත් ලෝකයටම මුහුණ දීමට සිදුව ඇති බවය.
+
+...
+
+[Data](articles/2e9b9702.json)
+
+---
+
+### Applications called to fill vacancy in Police Commission
+
+*2025-08-21 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111720/applications-called-to-fill-vacancy-in-police-commission) · `en`
+
+Applications have been called from qualified individuals to fill a vacancy in the National Police Commission.
+
+The Office of the Secretary-General of Parliament said the relevant application form is available on the official website of the Parliament of Sri Lanka.
+
+The office said completed applications, prepared according to the prescribed format, must be submitted on or before September 4, 2025.
+
+◼️
+
+[Data](articles/664d298c.json)
+
+---
+
+### சற்றுமுன் நடந்த துப்பாக்கிச் சூட்டில் ஒருவர் பலி
+
+*2025-08-21 18:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-நடந்த-துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-363239) · `ta`
+
+மோட்டார் சைக்கிளில் வந்த இரண்டு துப்பாக்கிதாரிகள், காரில் பயணித்த ஒருவர் மீது T-56 தாக்குதல் துப்பாக்கியால் துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+
+பாதிக்கப்பட்டவர் காயங்களால் இறந்தார், அதே நேரத்தில் தாக்குதல் நடத்தியவர்கள் சம்பவ இடத்திலிருந்து தப்பி ஓடிவிட்டனர்.
+
+◼️
+
+[Data](articles/1d64b202.json)
+
+---
+
+### ராஜிதவின் வீட்டின் முன் ஒலிபெருக்கியில் அறிவிப்பு
+
+*2025-08-21 18:37:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவின்-வீட்டின்-முன்-ஒலிபெருக்கியில்-அறிவிப்பு/175-363238) · `ta`
+
+முன்னாள் அமைச்சர் ராஜித சேனாரத்னவை கைது செய்வதற்காக பிறப்பிக்கப்பட்ட பிடியாணையை காட்சிப்படுத்துவதற்காக கொழும்பு நீதவான் நீதிமன்ற அதிகாரிகள் இன்று மாலபேயில் உள்ள அவரது வீட்டிற்குச் சென்றனர்.
+
+தலஹேனவில் உள்ள ராஜிதவின் வீட்டில் நீதிமன்ற அதிகாரிகள் அறிவிப்பை ஒட்டியதைக் காண முடிந்தது, அதே நேரத்தில் அவருக்கு எதிராகப் பதிவு செய்யப்பட்ட குற்றச்சாட்டுகள் குறித்து ஒலிபெருக்கியைப் பயன்படுத்தி அறிவிப்புகள் வெளியிடப்பட்டன.
+
+இந்த மாத தொடக்கத்தில், இலஞ்சம் மற்றும் ஊழல் சாத்துதல்களை புலனாய்வு செய்யும் ஆணைக்குழுவின் சமர்ப்பணங்களைத் தொடர்ந்து, கொழும்பு நீதவான் நீதிமன்றம் சேனாரத்னவைக் கைது செய்வதற்கான பிடியாணையைப் பிறப்பித்தது.
+
+முன்னாள் அமைச்சர் பல அழைப்பாணைகளுக்கு பதிலளிக்கத் தவறிவிட்டார் என்றும், அவரது பதவிக் காலத்தில் வழங்கப்பட்ட சர்ச்சைக்குரிய ஒப்பந்தம் குறித்து வாக்குமூலம் அளிப்பதைத் தவிர்த்துவிட்டார் என்றும் புலனாய்வாளர்கள் குற்றம் சாட்டினர்.
+
+...
+
+[Data](articles/247b6957.json)
+
+---
 
 ### ”பாடசாலை பாடத்திட்டத்தில் ’’சட்டம்’’ ஒரு பாடமாக்கப்பட வேண்டும்”
 
@@ -67,6 +155,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/93389333.json)
+
+---
+
+### Man shot dead near Thun Bodhiya bridge in Bandaragama
+
+*2025-08-21 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111719/man-shot-dead-near-thun-bodhiya-bridge-in-bandaragama) · `en`
+
+An individual has been shot dead near the Thun Bodhiya Bridge in Bandaragama, a short while ago, police stated.
+
+According to reports, two individuals on a motorcycle carried out the shooting using a T-56 assault rifle, targeting a person who was travelling in a car.
+
+The motive and identities of the attackers are yet to be confirmed, and investigations are ongoing.
+
+◼️
+
+[Data](articles/02a38ef0.json)
 
 ---
 
@@ -263,6 +367,38 @@ Ambassador Zhenhong also mentioned that China and Sri Lanka, which share a time-
 ...
 
 [Data](articles/c1189ab3.json)
+
+---
+
+### ලොකු ලුණු අස්වැන්න නෙලීම අරඹයි, කිලෝවට රු 250ක් ඉල්ලයි
+
+*2025-08-21 17:05:48* · [`adalk`](https://www.ada.lk/picture_story/ලොකු-ලුණු-අස්වැන්න-නෙලීම-අරඹයි--කිලෝවට-රු-250ක්-ඉල්ලයි/10-418001) · `si`
+
+මෙවර වගා කරන්නට යෙදුන දේශීය ලොකුලූණු අස්වනු නෙළීමේ කටයුතු ආරම්භ කොට තිබීම නිසා විදේශීය රටවලින් ගෙන්වන ලොකු ලූණු පාලනය කිරීම සිදු නොකළහොත් වෙනත්  වසරවල මෙන්  දේශීය ලොකු ලුණු ගොවියාට බරපතළ ප්රශ්නයකට මුහුණ දීමට සිදුවන  බව දේශීය  ලොකු ලූනු ගොවියෝ පවසති.
+
+දඹුල්ල ,ගලේවෙල ,ගල්කිරියාගම ආදී   ප්‍රදේශ වල  වගා කෙරුණු දේශීය ලොකු ලූණු අස්වනු මීට දින තුනකට පමණ ඉහත සිට  නෙලීම ආරම්භ කොට තිබේ .ලොකු ලුණු  කිලෝ එකක ගැනුම් මිල හා දඹුල්ල ආර්ථික මධ්යස්ථානය තුළ අලෙවි වන්නේ රුපියල්  80 සිට රුපියල් 100  දක්වා වූ මිල පරාසයක් තුළ බව ගොවීහු පෙන්වා දෙති.
+
+එම මිලටවත් තම අස්වනු අලවි කර ගන්නට නොහැකි බව ගලේවෙල දේවහුව ප්‍රදේශයේ ගොවින් කියති
+
+එවැනි තත්ත්වයක් තිබියදී ඉන්දියාව සහ පාකිස්තානයෙන් ගෙන්වන ලද විදේශීය ලොකු ලූණු කිලෝව රුපියල් එක 80 ත් 110 ත්  දක්වා වූ මිල ගණන් යටතේ අලවි කිරීම සිදුවෙන නිසාවෙන්  දේශීය  ලොකුළුණු සඳහා සාධාරණ මිලක්   නොලැබෙන බව ගොවීන් පවසති.
+
+...
+
+[Data](articles/e54e8d8f.json)
+
+---
+
+### ඉදිරි දින කිහිපයේදී වැස්සට හිතකර වායු ගෝලයක්
+
+*2025-08-21 16:49:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැස්සට-හිතකර-වායු-ගෝලයක්/11-418000) · `si`
+
+ඉදිරි දින කිහිපයේද‍ී උතුරු මැද, උතුරු, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල සවස්  කාලයේ  ගිගුරුම් සහිත  වැසි ඇතිවීම සඳහා හිතකර වායු ‌‌‌ගෝලීය තත්වයක් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒසේම ඉදිරි පැය 36 තුළ උතුරු, උතුරු-මැද, මධ්‍යම, ඌව හා නැහෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවත් එම ප්‍ර දේශවල ඇතැම් සරථානවලට  මි.මී. 50 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද පස්වරුවේ නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/cad2db27.json)
 
 ---
 
@@ -1703,145 +1839,5 @@ Opposition party leaders had also met in Parliament yesterday (20) to discuss th
 ◼️
 
 [Data](articles/028eee7e.json)
-
----
-
-### நீதிமன்றுக்கு சென்று திரும்பிய  பெண்  கடத்தல்
-
-*2025-08-21 10:14:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றுக்கு-சென்று-திரும்பிய-பெண்-கடத்தல்/175-363191) · `ta`
-
-மட்டக்களப்பில்  நீதிமன்றத்துக்கு சென்று வெளியே வந்த பெண் ஒருவரை பெண் ஒருவர் உட்பட்ட ஒரு குழுவினர் இணைந்து அவரின் வாயை பொத்தி இழுத்துச் சென்று ஓட்டோவில் ஏற்றிய போது அவரை காப்பாற்ற சென்ற உறவினரை அடித்து கீழே தள்ளிவிட்டு பெண்ணை கடத்தி சென்ற சம்பவம்  செவ்வாய்க்கிழமை (19) காலையில் நீதிமன்றத்துக்கு முன்னால்   இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மாவட்டத்தில் பிரதேசம் ஒன்றைச் சேர்ந்த 27 வயது பெண் ஒருவர் 29 வயதுடைய ஆண் ஒருவரை காதலித்து  பெற்றோருக்கு தெரியாமல் கடந்த 2023 பதிவு திருமணம் செய்துவிட்டு தனது பெற்றோர் வீட்டில் இருந்துள்ளார் அவ்வாறே காதலன் அவரது பெற்றோர் வீட்டில் இருந்துள்ளனர்.
-
-இந்த நிலையில் சில காலங்களுக்கு பின்னர் இந்த பதிவு திருமணம் செய்து கொண்டது தொடர்பாக பெற்றோருக்கு தெரிய வந்துள்ள நிலையில் குறித்த காதலன் வெளிநாடு சென்றுள்ளார்.
-
-அதன் பின்னர் வெளிநாடு சென்ற காதலன் பல தீய பழக்கத்தில் ஈடுபட்டிருப்பதாக காதலிக்கு தெரியவந்ததையடுத்து அவருடன் வாழ முடியாது என விவாகரத்து கோரி மட்டக்களப்பு மாவட்ட நீதிமன்றில் வழக்கு தாக்கல் செய்துள்ளார்.
-
-...
-
-[Data](articles/de522796.json)
-
----
-
-### President meets Cardinal Ranjith and Catholic Bishops
-
-*2025-08-21 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111696/president-meets-cardinal-ranjith-and-catholic-bishops-) · `en`
-
-A meeting was held on Wednesday (August 20) at the Presidential Secretariat between His Eminence Archbishop of Colombo, Cardinal Malcolm Ranjith, the members of the Catholic Bishops’ Conference of Sri Lanka (CBCSL) and President Anura Kumara Dissanayake.
-
-During the meeting, the Cardinal briefed the President on the matters discussed at the tri-annual meeting of the Catholic Bishops, the President’s Media Division (PMD) said.
-
-The Cardinal and Bishops also conveyed to the President, the views and proposals currently emerging within the Catholic Church.
-
-The Archbishop of Colombo was accompanied by the members of the Catholic Bishops’ Conference of Sri Lanka led by its President Bishop Harold Anthony Perera.
-
-◼️
-
-[Data](articles/ade24b62.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields up
-
-*2025-08-21 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237648/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.75/90 to the US dollar in the spot market Thursday, weaker from 301.70/80 the previous day, while bond yields were up, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 8.10/20 percent, from 8.12/20 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.50/60 percent, up from 8.45/60 percent.
-
-A bond maturing on 15.03.2028 was quoted at 8.80/85 percent, up from 8.75/85 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.32/35 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.43/47 percent, up from 9.42/45 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.25/29 percent, up from 10.25/32 percent.
-
-The Colombo Stocks Exchange was trading in green: The ASPI was up 0.33 percent, or 67.62 points, at 20,782.42; the S&P SL20 was up 0.44 percent, or 27.11 points, at 6,132.11.
-
-...
-
-[Data](articles/2faacdc5.json)
-
----
-
-### Three more petitions filed challenging bill to revoke privileges of former Presidents
-
-*2025-08-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111695/three-more-petitions-filed-challenging-bill-to-revoke-privileges-of-former-presidents) · `en`
-
-Three more petitions have been filed before the Supreme Court challenging the clauses of the bill presented in Parliament by the government to revoke the privileges of former Presidents, on the grounds that it is contrary to the Constitution.
-
-The petitions were submitted by Sabaragamuwa University lecturer Mahinda Pathirana, former President Mahinda Rajapaksa’s media spokesman, Attorney-at-Law Raveendra Manoj Gamage, and former Navy Chief of Staff Mohan Wijewickrama.
-
-The petitioners argue that Clauses 1 to 4 of the proposed bill violate the doctrine of separation of powers, which is guaranteed by the Constitution of Sri Lanka. They also claim that several provisions of the bill undermine the sovereignty of the people and the independence guaranteed under the Constitution.
-
-They further state that, taken as a whole, the bill infringes upon fundamental constitutional principles, and violates Articles 1, 3, 4, and 12(1) of the Constitution, including the fundamental rights of individuals.
-
-...
-
-[Data](articles/581262e0.json)
-
----
-
-### நல்லூர் கந்தன் தேர் உற்சவம்
-
-*2025-08-21 09:44:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தன்-தேர்-உற்சவம்/175-363189) · `ta`
-
-வரலாற்று சிறப்பு மிக்க நல்லூர் கந்தசுவாமி ஆலய வருடாந்த மகோற்சவ திருவிழாவின் இரதோற்சவம் வியாழக்கிழமை (21) அன்று இடம்பெறும்.
-
-◼️
-
-[Data](articles/d5b07887.json)
-
----
-
-### UN chief urges immediate Gaza ceasefire, warns of casualties from Israeli operation
-
-*2025-08-21 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111694/un-chief-urges-immediate-gaza-ceasefire-warns-of-casualties-from-israeli-operation) · `en`
-
-United Nations Secretary-General Antonio Guterres on Thursday called for an immediate ceasefire in Gaza, after Israel announced the first steps of an operation to take over Gaza City.
-
-“It is vital to reach immediately a ceasefire in Gaza,” that was necessary “to avoid the death and destruction that a military operation against Gaza City would inevitably cause,” Guterres said in Japan where he is attending the Tokyo International Conference on African Development.
-
-Israel, which has called up tens of thousands of army reservists, is pressing ahead with its plan to seize Gaza’s biggest urban centre despite international criticism of an operation likely to force the displacement of many more Palestinians.
-
-The war in Gaza began on October 7, 2023, when gunmen led by Hamas attacked southern Israeli communities, killing some 1,200 people, mainly civilians, and taking 251 hostages including children into Gaza, according to Israeli figures.
-
-...
-
-[Data](articles/48322870.json)
-
----
-
-### පාර්ලිමේන්තු සභා වාරය ඇරඹේ
-
-*2025-08-21 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213603) · `si`
-
-අද (21) දිනට නියමිත පාර්ලිමේන්තු සභා වාරයේ කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
-
-◼️
-
-[Data](articles/9c639822.json)
-
----
-
-### කාදිනල් හිමියන් සහ කතෝලික රදගුරු සම්මේලනය ජනපති හමුවෙයි
-
-*2025-08-21 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213601) · `si`
-
-කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් හිමියන් සහ කතෝලික රදගුරු සම්මේලනය ජනාධිපති කාර්යාලයේදී ‌ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
-
-වසරකට තෙවතාවක් පැවැත්වෙන කතෝලික රදගුරු සම්මේලනයේදී සාකච්ඡා වූ මූලික කරුණු පිළිබඳව මෙහිදී කාදිනල් හිමියන් විසින් ජනාධිපතිවරයා දැනුවත් කරන ලදී.
-
-එසේම, කතෝලික සභාවේදී මතුවූ අදහස් සහ යෝජනා පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානයට ලක් කෙරුණු බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
-
-මෙම අවස්ථාවට ශ්‍රී ලංකා කතෝලික රදගුරු සම්මේලනයේ සභාපති හැරල්ඩ් ඇන්තනී පෙරේරා රදගුරුතුමා සහ එම සම්මේලනයේ සාමාජිකයෝද එක්වී තිබුණි.
-
-◼️
-
-[Data](articles/1bde610a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 21:20:16**
+As of **2025-08-21 21:37:50**
 
 ## Newspaper Stats
 
-*Scraped **71,613** Articles*
+*Scraped **71,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,894
-adaderanalk | 9,031
+adaderanalk | 9,034
 tamilmirrorlk | 10,543
 virakesarilk | 11,827
 adaderanasinhalalk | 12,380
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,380
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,613 articles have been extended.
+61,973 (86.5%) of 71,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### Excavations at Chemmani mass grave to continue for eight more weeks
+
+*2025-08-21 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111725/excavations-at-chemmani-mass-grave-to-continue-for-eight-more-weeks) · `en`
+
+Excavations at the Chemmani mass grave will continue for eight more weeks, officials have said.
+
+◼️
+
+[Data](articles/27a4ba0b.json)
+
+---
+
+### All train between Maradana and Colombo Fort delayed
+
+*2025-08-21 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111724/all-train-between-maradana-and-colombo-fort-delayed) · `en`
+
+Train services between Maradana and Colombo Fort Railway stations have been disrupted due to a ‘stalled train’ near the Dematagoda yard, the Railway Control Room said.
+
+According to the Control Room, the No. 775 train scheduled to leave for Galle this evening had reportedly stalled while on its way to the Maradana station due to mix-up of tracks near the Dematagoda yard.
+
+Therefore, train services between the two stations have been affected.
+
+◼️
+
+[Data](articles/f1d9b900.json)
+
+---
 
 ### සියලුම මාර්ගයන්හි දුම්රිය ප්‍රමාදයක්
 
@@ -45,6 +73,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2b77d97d.json)
+
+---
+
+### Russia launches biggest wave of strikes on Ukraine for weeks
+
+*2025-08-21 19:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111723/russia-launches-biggest-wave-of-strikes-on-ukraine-for-weeks) · `en`
+
+Russia has launched 574 drones and 40 missiles on Ukraine in one of the heaviest bombardments in weeks, Ukrainian officials say.
+
+One person was killed in a drone and missile strike on the western city of Lviv, while 15 others were reported wounded in an attack on the south-western Transcarpathia region.
+
+The attacks came as US President Donald Trump spearheads diplomatic moves to halt the war. Ukrainian Foreign Minister Andrii Sybiha said the strikes highlighted why efforts to bring it to an end were “so critical”.
+
+President Volodymyr Zelensky has said Ukraine was ready to meet Russia’s Vladimir Putin “in neutral Europe” - mooting Switzerland or Austria - adding that he was not against Istanbul either.
+
+Zelensky has stated his willingness to meet Putin in “any format”, although he has poured cold water on the idea of talks taking place in Budapest, which he said “is not easy today”.
+
+...
+
+[Data](articles/78dd3808.json)
 
 ---
 
@@ -224,11 +272,15 @@ The office said completed applications, prepared according to the prescribed for
 
 *2025-08-21 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111719/man-shot-dead-near-thun-bodhiya-bridge-in-bandaragama) · `en`
 
-An individual has been shot dead near the Thun Bodhiya Bridge in Bandaragama, a short while ago, police stated.
+An individual has been shot dead in a shooting incident reported at around 6:00 p.m. today (21) near the Thun Bodhiya Bridge in Bandaragama, police stated.
 
-According to reports, two individuals on a motorcycle carried out the shooting using a T-56 assault rifle, targeting a person who was travelling in a car.
+Police noted that an unidentified gunman opened fire targeting a person inside a motor vehicle.
 
-The motive and identities of the attackers are yet to be confirmed, and investigations are ongoing.
+The individual in the vehicle died at the scene as a result of the shooting, police confirmed.
+
+The identity of the deceased person has not yet been revealed.
+
+Police further stated that the shooting was carried out using a T-56 firearm and that more than 20 shots were fired targeting the victim.
 
 ◼️
 
@@ -1783,57 +1835,5 @@ Opposition party leaders had also met in Parliament yesterday (20) to discuss th
 ...
 
 [Data](articles/a08cd67d.json)
-
----
-
-### ஜனாதிபதி விசேட விசாரணைக் குழுவிடம் முறையிடலாம்
-
-*2025-08-21 10:44:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-விசேட-விசாரணைக்-குழுவிடம்-முறையிடலாம்/175-363201) · `ta`
-
-விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) நிறுவனம் மற்றும் ஸ்ரீலங்கன் விமான சேவை ஆகியவற்றில் நடந்த ஊழல்,மோசடி  மற்றும் முறைகேடுகள் குறித்து ஆராய நியமிக்கப்பட்ட ஜனாதிபதி விசேட விசாரணைக் குழு, பொதுமக்களின் முறைப்பாடுகள், கருத்துகள் மற்றும் ஆலோசனைகளை கோருகிறது.
-
-விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) நிறுவனம் மற்றும் ஸ்ரீலங்கன் விமான சேவை ஆகியவற்றில் கடந்த காலங்களில் நடந்த ஊழல், மோசடி மற்றும் முறைகேடுகள் குறித்து ஆராய்வதற்கு நிறுவப்பட்ட ஜனாதிபதி விசேட விசாரணைக் குழு, பொதுமக்களிடமிருந்து முறைப்பாடுகள், கருத்துகள் மற்றும் ஆலோசனைகளை பெற எதிர்பார்க்கிறது.
-
-...
-
-[Data](articles/33762416.json)
-
----
-
-### දියේ ගිලී තරුණයින් දෙදෙනෙකු අතුරුදන්
-
-*2025-08-21 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213605) · `si`
-
-ප්‍රදේශ දෙකකදී තරුණයින් දෙදෙනෙකු දියේ ගිලීමෙන් අතුරුදන් වී ඇති බවට පොලීසිය පවසයි.
-
-නාඋල පොලිස් වසමේ බෝවතැන්න ජලාශයේ දිය නෑමට ගිය අවුරුදු 27ක වනමැදගම, බිබිල ප්‍රදේශයේ තරුණයෙකු දියේ ගිලී අතුරුදන් වී තිබේ.
-
-නාඋල පොලීසියට ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කිරීමේදී අනාවරණය වී ඇත්තේ ඊයේ (20) සවස් කාලයේදි මෙම අනතුර සිදුව ඇති බවයි.
-
-තවත් පුද්ගලයින් දෙදෙනෙකු සමඟ මෙලෙස බෝවතැන්න ජලාශයේ දිය නාමින් සිටියදී අදාළ තරුණයා අනතුරට පත්ව ඇති බවට නාඋල පොලීසිය සඳහන් කරයි.
-
-මේ අතර, ඊයේ (20) අහංගම පොලිස් වසමේ අහංගම මුහුදු තීරයේ දිය නෑමට ගිය තරුණයෙකු ද දියේ ගිලී අතුරුදන් වී තිබේ.
-
-නාවික හමුදා නිලධාරීන්ගේ ද සහාය ඇතිව නාඋල පොලීසිය සහ අහංගම පොලීසිය විසින් අතුරුදන් වූ තරුණයින් සෙවීමේ කටයුතු ආරම්භ කර ඇත.
-
-◼️
-
-[Data](articles/5d5131aa.json)
-
----
-
-### “அல்குர்ஆன்களை விடுவிக்கவும்”
-
-*2025-08-21 10:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அல்குர்ஆன்களை-விடுவிக்கவும்/175-363199) · `ta`
-
-சவுதி அரேபியாவில் இருந்து அனுப்பப்பட்ட புனித அல்குர்ஆன் பிரதிகள் அடங்கிய கொள்கலன் கடந்த ஒரு வருடத்திற்கும் மேலாக விடுவிக்கப்படாது இலங்கை சுங்கத் திணைக்களத்தில் தடுத்து வைக்கப்பட்டுள்ளதாகவும், அந்த கொள்கலனை விரைவாக விடுவிக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் எனவும் இலங்கை தொழில் கட்சி பாராளுமன்ற உறுப்பினர் காதர் மஸ்தான் தெரிவித்தார்.
-
-பாராளுமன்றத்தில்   புதன்கிழமை (20) அன்று இடம்பெற்ற நிலையியல் கட்டளை 27/2இன் கீழ் கேள்வியெழுப்பி உரையாற்றுகையிலேயே மஸ்தான் எம்.பி இதனை கூறினார்.
-
-புனித அல்-குர்ஆனை அரபு மொழியில் மீள் பிரசுரிக்கவும் ஏனைய மொழிகளில் மொழிபெயர்த்து பிரசுரிக்கும் உத்தியோகபூர்வமான உரிமை சவுதி அரேபியா அரசின் "மன்னர் பஹத் அல்-குர்ஆன் பிரசுரிப்பு நிலையம்" கொண்டுள்ளதை உலகின் அனைத்து நாடுகளிலும் பரந்து வாழும் 200 கோடி முஸ்லிம் மக்கள் ஏகமனதாக ஏற்றுக்கொண்டுள்ளதுடன், உலகின் அனைத்து நாடுகளும் அங்கீகரித்துள்ளது.
-
-...
-
-[Data](articles/114198d8.json)
 
 ---

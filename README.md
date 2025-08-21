@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 17:53:57**
+As of **2025-08-21 18:11:03**
 
 ## Newspaper Stats
 
-*Scraped **71,590** Articles*
+*Scraped **71,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,888
-adaderanalk | 9,023
+adaderanalk | 9,026
 tamilmirrorlk | 10,539
-virakesarilk | 11,826
+virakesarilk | 11,827
 adaderanasinhalalk | 12,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,590 articles have been extended.
+61,973 (86.6%) of 71,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### முன்னாள் ஜனாதிபதி கைது விவகாரம் : யூடியூப் சுதாவின் சர்ச்சை அறிக்கை - பாராளுமன்றில் தயாசிறி ஜயசேகர
+
+*2025-08-21 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/223049) · `ta`
+
+குற்றப் புலனாய்வு பிரிவுக்கு வாக்குமூலம் வழங்க வரும் முன்னாள் ஜனாதிபதி நிச்சயமாக கைது செய்யப்படுவார். இவ்வாறு இடம்பெறாவிட்டால் தனது யூடியுப் அலைவரிசையை நிறுத்துவதாக யூடியுப் அலைவரிசை சுதா அறிவித்துள்ளார். இது நீதித்துறைக்கு விடுக்கப்படும் பாரிய அச்சுறுத்தலாகும் என எதிர்க்கட்சி உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (21) இடம்பெற்ற சுங்கக் கட்டளைச் சட்டத்தின் கீழ் இறக்குமதி தீர்வைகள் தொடர்பான விவதாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+வாக்குமூலம் ஒன்றை பெற்றுக்காெள்வதற்காக முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வெள்ளிக்கிழமை (21) குற்றப்புலனாய்வு பிரிவுக்கு வருமாறு அழைப்பு விடுக்கப்பட்டிருக்கிறது.  வாக்குமூலம் வழங்க வரும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க நிச்சயமாக கைது செய்யப்படுவார் எனவும் அவ்வாறு  இடம்பெறாவிட்டால், தான் முன்னெடுத்துவரும்  யூடியுப் அலைவரிசையை நிறுத்துவதாக யூடியுப் சமுகவலைத்தளம் ஒன்றை  முன்னெடுத்துவரும் சுதா தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/7608c2a5.json)
+
+---
 
 ### ஹரினி அமரசூரியவுக்கும்  ஹிஸ்புல்லாவுக்கும் இடையில் சந்திப்பு
 
@@ -120,6 +136,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### China-Sri Lanka working to promote high-quality BR cooperation – Chinese envoy
+
+*2025-08-21 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111715/china-sri-lanka-working-to-promote-high-quality-br-cooperation-chinese-envoy) · `en`
+
+China and Sri Lanka are currently working hand in hand to promote high-quality Belt and Road cooperation, Sri Lanka’s Chinese Ambassador Qi Zhenhong said.
+
+The Ambassador was speaking at an event to mark the 80th Anniversary of the “Victory of the Chinese People’s War of Resistance Against Japanese Aggression and the World Anti-Fascist War”, held at the BMICH in Colombo yesterday (20).
+
+“This epic new chapter of cooperation is the most vibrant tribute to history, the most solid foundation for peace, and will surely paint an even brighter picture for the future of Sri Lanka,” he said.
+
+Ambassador Zhenhong also mentioned that China and Sri Lanka, which share a time-honoured friendship, had long been bound together by the ancient Silk Road.
+
+...
+
+[Data](articles/c1189ab3.json)
+
+---
+
+### Postal Strike: Stand-off between unions and authorities continues
+
+*2025-08-21 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111714/postal-strike-stand-off-between-unions-and-authorities-continues) · `en`
+
+Postal unions are not prepared to call off their ongoing strike to engage in discussions with authorities, Chinthaka Bandara, the co- convener of the United Postal Trade Unions’ Front stated.
+
+Speaking to Ada Derana regarding the on-going postal strike, Bandara emphasised that no meetings have been initiated by the subject Minister to discuss their demands.
+
+He noted that although both the Postmaster General and the subject Minister had requested the unions to call off their strike action and come to the negotiation table, the unions are not prepared to do so unless their demands are met.
+
+Chinthaka Bandara further revealed that nearly 1.7 million letters and parcels have now piled up at post offices across the country due to the ongoing strike.
+
+The strike was launched on August 17 based on 19 demands by the United Postal Trade Unions’ Front.
+
+◼️
+
+[Data](articles/8beea60a.json)
+
+---
+
 ### නළයක් තුළ හෙරොයින් පුරවා රැගෙන යමින් සිටි අයෙක් අත්අඩංගුවට
 
 *2025-08-21 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213627) · `si`
@@ -197,6 +251,26 @@ E-1 ලෙස නම් කළ මෙම ව්‍යාපෘතිය යට�
 ◼️
 
 [Data](articles/647065c7.json)
+
+---
+
+### Warm weather advisory issued for several provinces
+
+*2025-08-21 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111713/warm-weather-advisory-issued-for-several-provinces) · `en`
+
+A warm weather advisory has been issued for residents of the Northern, North-central and Eastern provinces and in Hambantota and Monaragala districts.
+
+The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (22), according to the Department of Meteorology.
+
+“The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body”, said the Met Department in a statement.
+
+The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
+
+Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
+
+◼️
+
+[Data](articles/af0060f5.json)
 
 ---
 
@@ -1765,75 +1839,5 @@ This is to be implemented in conjunction with the ‘Clean Sri Lanka’ national
 ◼️
 
 [Data](articles/aabb97b5.json)
-
----
-
-### Supplementary medical professionals launch strike across 31 hospitals under WPC
-
-*2025-08-21 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111691/supplementary-medical-professionals-launch-strike-across-31-hospitals-under-wpc) · `en`
-
-The Joint Council of Professions Supplementary to Medicine (JCPSM) announced that an indefinite strike has been launched today (21) across 31 hospitals under the Western Provincial Council, in protest against the implementation of the 2024 transfer orders, which they claim were issued amid serious irregularities and strong opposition.
-
-Accordingly, radiographers, medical laboratory technologists, occupational therapists, speech therapists, pharmacists, and physiotherapists have joined the strike action.
-
-As stated by JCPSM General Secretary Chanaka Dharmawickrama, the strike commenced at 8.00 a.m. today (21).
-
-He also noted that the trade union action has been carried out across 31 hospitals under the Western Provincial Council due to the failure to receive proper solutions to their demands from the authorities.
-
-...
-
-[Data](articles/4a3ab1b2.json)
-
----
-
-### ලෝකයේම ආදරයට ලක්වූ විනිසුරු ෆ්‍රෑන්ක් කැප්‍රියෝ සමුගනියි
-
-*2025-08-21 08:26:06* · [`adalk`](https://www.ada.lk/international/ලෝකයේම-ආදරයට-ලක්වූ-විනිසුරු-ෆ්‍රෑන්ක්-කැප්‍රියෝ-සමුගනියි/3-417987) · `si`
-
-විනිසුරු වරයෙක් ලෙස ලෝකය පුරාම බොහෝ දෙනෙකුගේ ආදරය දිනාගත් ඇමෙරිකානු විනිසුරු ෆ්‍රෑන්ක් කැප්‍රියෝ, 2025 අගෝස්තු 20 වන දින වයස අවුරුදු 88 දී  අග්න්‍යාශ පිළිකාවක් හේතුවෙන් ජීවිතක්ෂයට පත්ව තිබේ.
-
-මොහු දෙන නඩු තීන්දු  සමාජ මාධ්‍ය තුළ සංසරණය වූ අතර බොහෝ දෙනෙකුට සමාව  ලබාදීමට ඔහු කටයුතු කළේය. ව
-
-වසර 40 කට ආසන්න කාලයක් ඔහු රෝඩ් අයිලන්ඩ් හි ප්‍රොවිඩන්ස් නාගරික අධිකරණයේ සේවය කළ අතර, ඔහුගේ ජනපි‍්‍රය හාස්‍යය, සංවේදනය සහ සැබවින්ම දයානුකම්පිත තීන්දු සමඟ හදවත් දිනා ගත්තේය.
-
-◼️
-
-[Data](articles/eed87a53.json)
-
----
-
-### ලොව පුරා ජනතාවගේ අවධානය දිනාගත් විනිසුරු ෆ්‍රෑන්ක් කැප්රියෝ මියයයි
-
-*2025-08-21 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213598) · `si`
-
-ගෞරවනීය විනිසුරුවරයෙකු ලෙස ලොව පුරා ජනතාවගේ හදවත් දිනාගත් විනිසුරු ෆ්‍රෑන්ක් කැප්රියෝ මියගොස් තිබේ.
-
-දීර්ඝ කාලීනව පිළිකා රෝගී තත්ත්වයෙන් පෙළුනු ඔහු ඊයේ (20) දිනයේ  මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-අමෙරිකාවේ රෝඩ් අයිලන්ඩ් ප්‍රාන්තයේ ප්‍රධාන විනිසුරුවරයෙකු ලෙස කටයුතු කළ ඔහු සිය නඩු ඇසීමේ ක්‍රියාවලිය තුළ දී ආදරය, කරුණාව වැනි ගුණාංග ඉස්මතු වන ආකාරයෙන් කටයුතු කිරීම හේතුවෙන් ලොව පුරා ජනතාවගේ කතාබහට ලක්වුණි.
-
-මානව හිතවාදී නඩු තීන්දු ලබාදීම සම්බන්ධයෙන් මෙන්ම ඔහුටම ආවේණික වූ යුක්තිය පසදලීමේ ක්‍රියාවලියක් හඳුන්වාදීම සම්බන්ධයෙන් ද ෆ්‍රෑන්ක් කැප්රියෝ විනිසුරුවරයා ප්‍රසිද්ධියක් උසුලයි.
-
-සමාජ මාධ්‍ය ඔස්සේ සිය නඩු තීන්දු විකාශය කිරීමට ද කටයුතු කළ ඔහු තමාගේම යුටියුබ් නාළිකාවක් මඟින් ඒවා ප්‍රසිද්ධියට පත් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/09fc501b.json)
-
----
-
-### தரைவழித் தாக்குதலை ஆரம்பித்த இஸ்ரேல்
-
-*2025-08-21 08:04:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தரைவழித்-தாக்குதலை-ஆரம்பித்த-இஸ்ரேல்/50-363187) · `ta`
-
-காசா நகரம் முழுவதையும் கைப்பற்றும் திட்டத்தின் கீழ், தரைவழித் தாக்குதலின் முதற்கட்ட நடவடிக்கைகளை இஸ்ரேலிய இராணுவம் ஆரம்பித்துள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-தாக்குதலுக்கான அடித்தளத்தை அமைப்பதற்காக ஜெய்டவுன் மற்றும் ஜபாலியா பகுதிகளில் துருப்புக்கள் ஏற்கனவே செயலில் ஈடுபட்டுள்ளதாக இஸ்ரேலிய இராணுவப் பேச்சாளர் தெரிவித்துள்ளார்.
-
-முன்னதாக, இந்த தாக்குதலுக்கு இஸ்ரேல் பாதுகாப்பு அமைச்சர் காட்ஸ் ஒப்புதலை வழங்கியிருந்த நிலையிலேயே தாக்குதல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/a364c043.json)
 
 ---

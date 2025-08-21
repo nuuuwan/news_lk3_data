@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 07:17:13**
+As of **2025-08-21 08:02:39**
 
 ## Newspaper Stats
 
-*Scraped **71,475** Articles*
+*Scraped **71,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,873
 adaderanalk | 8,998
-tamilmirrorlk | 10,509
+tamilmirrorlk | 10,510
 virakesarilk | 11,824
-adaderanasinhalalk | 12,343
+adaderanasinhalalk | 12,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,475 articles have been extended.
+61,973 (86.7%) of 71,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### බස්නාහිර පරිපූරක වෛද්‍ය සේවා වෘත්තිකයෝ වර්ජනයේ - තැපෑල සිව්වන දිනටත්
+
+*2025-08-21 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213595) · `si`
+
+බස්නාහිර පළාත් සෞඛ්‍ය සේවා අධ්‍යක්ෂවරියගේ අත්තනෝතික ක්‍රියාකලාපයන්ට එරෙහිව බස්නාහිර පළාත් සභාවට අයත් සියලු රෝහල්වල පරිපූරක වෛද්‍ය සේවා වෘත්තිකයින් අද (21) දිනයේ සිට අඛණ්ඩ වර්ජන ක්‍රියාමාර්ගයක නිරත වීමට තීරණය කර තිබේ.
+
+ඒ අනුව අද උදෑසන 8.00 සිට මෙම වැඩ වර්ජනය ආරම්භ කරන බව පරිපූරක වෛද්‍ය වෘත්තීයවේදීන්ගේ සංගමයේ ප්‍රධාන ලේකම් චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+
+අදාළ අධ්‍යක්ෂවරියගේ ක්‍රියාකලාපයන්ට විරෝධය පල කරමින් ඊයේ (20) දිනයේ ගම්පහ දිස්ත්‍රික් මහ රෝහලේ පරිපූරක වෛද්‍ය සේවා වෘත්තිකයින් සංකේත වැඩවර්ජනයක් ආරම්භ කරනු ලැබීය.
+
+සිය ඉල්ලීම්වලට බලධාරින්ගෙන් නිසි විසඳුම් නොලැබීම හේතුවෙන් අද දිනයේ බස්නාහිර පළාත් සභාවට අයත් රෝහල් 31ක මෙම වර්ජන ක්‍රියාමාර්ගය සිදුකරන බව චානක ධර්මවික්‍රම මහතා පැවසුවේය.
+
+මේ අතර තැපැල් වෘත්තීය සමිති ආරම්භ කළ අඛණ්ඩ වැඩවර්ජනය අද සිව්වන දිනටත් ක්‍රියාත්මක වේ.
+
+ඉල්ලීම් 19ක් මුල් කරගනිමින් පසුගිය 17 වන දින මධ්‍යම රාත්‍රී සිට තැපැල් වෘත්තීය සමිති දිවයිනේ සියලු තැපැල් කාර්යාලවල වැඩවර්ජනය ආරම්භ කරනු ලැබීය.
+
+වර්ජනය හේතුවෙන් තැපෑල මඟින් සේවා ලබා ගැනීමට පැමිණි ජනතාව ද දැඩි අසීරුතාවට පත්වුණි.
+
+...
+
+[Data](articles/1f9f7444.json)
+
+---
+
+### பிரிட்டன் தூதுவருடன் சாணக்கியன் சந்திப்பு
+
+*2025-08-21 06:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிட்டன்-தூதுவருடன்-சாணக்கியன்-சந்திப்பு/175-363184) · `ta`
+
+இலங்கைக்கான பிரிட்டன் தூதுவரைக் கொழும்பில் உள்ள தூதுவரின் உத்தியோகபூர்வ இல்லத்தில் பாராளுமன்ற உறுப்பினர் சாணக்கியன் சந்தித்துக் கலந்துரையாடியுள்ளார்.
+
+இதன்போது,  வடக்கு - கிழக்கில் தொடரும் இராணுவத்தினரின் அராஜகத்தைத் தடுத்து நிறுத்துவதற்கு இலங்கை அரசுக்குச் சர்வதேச நாடுகள் கடும் அழுத்தம் கொடுக்க வேண்டும் என  சாணக்கியன் வலியுறுத்தியுள்ளார்.
+
+பிரிட்டன் தூதுவருடனான சந்திப்பின்போது வடக்கு - கிழக்கில் தமிழ் மக்கள் எதிர்கொள்ளும் பிரச்சினைகள் தொடர்பில் ஆராயப்பட்டது. அதில் முக்கியமாக மாகாண சபைத் தேர்தல் தொடர்பிலும் , அரசியல் கைதிகள், செம்மணி, காணிப் பிரச்சினைகள், இராணுவத் தலையீடு குறித்தும், அதிகளவு இராணுவப் பிரசன்னத்துக்கு எதிராக நடந்து முடிந்த ஹர்த்தால் பற்றியும் கலந்துரையாடப்பட்டது. அதனுடன் அரசின் வடக்கு - கிழக்குக்கான வேலைத்திட்டங்கள் தொடர்பிலும் ஆராயப்பட்டது என்றார். (a)
+
+◼️
+
+[Data](articles/b79cf7d7.json)
+
+---
+
+### අත්අඩංගුවට ගත් හිටපු පොලිස්පති දේශබන්දු අද අධිකරණයට
+
+*2025-08-21 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213594) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (21) කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරින් විසින් මිරිහානේ පිහිටි දේශබන්දු තෙන්නකෝන් මහතාට අයත් පෞද්ගලික නිවසේ දී ඊයේ (20) දිනයේ දී ඔහු අත්අඩංගුවට ගනු ලැබීය.
+
+2022 වසරේ මැයි 9 වන දින ගාලු මුවදොර අරගලකරුවන්ට පහරදීමේ සිද්ධියට අදාළ විමර්ශනවලට අනුව හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එහි සැකකරුවෙකු ලෙස නම්කර තිබීම හේතුවෙන් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති බව සඳහන්ය.
+
+සිද්ධියට අදාළව තමන් අත්අඩංගුවට ගැනීම වළක්වන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඔහු විසින් කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත අපේක්ෂිත ඇප අයදුම්පතක් ඉදිරිපත් කර තිබූ අතර එය අධිකරණය විසින් ප්‍රතික්ෂේප කළේය.
+
+◼️
+
+[Data](articles/10f8a46d.json)
+
+---
 
 ### ඉදිරි දින කිහිපයේ කාලගුණයේ වෙනසක්
 
@@ -1747,57 +1805,5 @@ Originally set to conclude in October 2025, the program was extended by one year
 ◼️
 
 [Data](articles/178f198e.json)
-
----
-
-### Vidullanka commissions 2 MW solar project in Horana
-
-*2025-08-20 15:24:16* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-commissions-2-MW-solar-project-in-Horana/34-780479) · `en`
-
-Vidullanka PLC yesterday said it commissioned a 2 MW solar plant, constructed by its subsidiary, Vidul Solar Power Ltd.
-
-This marks the successful completion of the second phase of the Horana Solar Project. The new facility has an AC capacity of 2 MW and a DC capacity of 2.5 MW, with the ability to export approximately 3.6 GWh of clean energy annually to the national grid, the company said.
-
-The inauguration ceremony took place on Saturday (16) and was graced by Energy Minister Eng. Kumara Jayakody, Ceylon Electricity Board and Sustainable Energy Authority officials and representatives of key Government and civil authorities.
-
-This milestone brings Vidullanka’s total portfolio to 23 operational power plants with a combined installed capacity of 63 MW in the renewable energy sector.
-
-...
-
-[Data](articles/2f0104e6.json)
-
----
-
-### Japan’s revolutionary “W.O.W” technology to debut in Sri Lanka
-
-*2025-08-20 15:22:33* · [`dailyftlk`](https://www.ft.lk/business/Japan-s-revolutionary-W-O-W-technology-to-debut-in-Sri-Lanka/34-780478) · `en`
-
-Japanese innovation with 40 patents targets global health and wellness markets
-
-A revolutionary Japanese technology with the potential to reshape sectors from food preservation to healthcare will make its debut in Sri Lanka. The “W.O.W” (Water Optimising Waves) innovation, developed by Evertron Co., Ltd., was unveiled at the Hilton Colombo by its inventor and CEO Hisao Tanaka, in a landmark gathering of industry leaders and innovators.
-
-“Sri Lanka is the first country where I am fulfilling my dream of sharing this technology internationally,” he said, noting the nation’s historical ties with Japan.
-
-The patented W.O.W system – protected by around 40 global patents – enhances the molecular structure of water, enabling it to maintain cellular freshness in food, flowers and even human cells.
-
-...
-
-[Data](articles/801d618d.json)
-
----
-
-### SLANZBC hosts 30th AGM followed by panel discussion on “Accelerating Sri Lanka’s Digital Economy”
-
-*2025-08-20 15:18:28* · [`dailyftlk`](https://www.ft.lk/business/SLANZBC-hosts-30th-AGM-followed-by-panel-discussion-on-Accelerating-Sri-Lanka-s-Digital-Economy/34-780477) · `en`
-
-Newly appointed Committee of Sri Lanka-Australia-New Zealand Business Council of The Ceylon Chamber of Commerce 2025/26
-
-The 30th Annual General Meeting of the Sri Lanka-Australia-New Zealand Business Council (SLANZBC) of The Ceylon Chamber of Commerce was held on 7 July, with High Commissioner of Australia to Sri Lanka Paul Stephens and High Commissioner of New Zealand to Sri Lanka and Maldives David Pine in attendance as Chief Guests.
-
-High Commissioner Paul Stephens acknowledged Sri Lanka’s resilience during the recent economic challenges and emphasised the need for accelerated reforms, including export diversification, investment, climate improvements, tourism, vocational education, and digitalisation, to prepare for debt repayments from 2028.
-
-...
-
-[Data](articles/88926a4d.json)
 
 ---

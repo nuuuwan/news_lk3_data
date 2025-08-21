@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 18:57:17**
+As of **2025-08-21 19:14:05**
 
 ## Newspaper Stats
 
-*Scraped **71,598** Articles*
+*Scraped **71,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,889
-adaderanalk | 9,026
+adaderanalk | 9,028
 tamilmirrorlk | 10,540
 virakesarilk | 11,827
 adaderanasinhalalk | 12,378
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,598 articles have been extended.
+61,973 (86.6%) of 71,600 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,9 +54,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-21 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213631) · `si`
 
-බණ්ඩාරගම, බොල්ගොඩ පාලම තුන්බෝධිය හන්දිය අසන්නයේ දී සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+බණඩාරගම, බොල්ගොඩ පාලම ආසන්නයේ තුන්බෝධිය අසලදී අද (21) පස්වරු 6.00ට පමණ වෙඩිතැබීමක් සිදුකර තිබුණි.
 
-යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනකු මෝටර් රථයක ගමන් කරමින් සිටි පුද්ගලයෙකු ඉලක්ක කර ටී 56 ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+මෝටර් රථයක සිටි පුද්ගලයෙකු ඉලක්ක කර නාඳුනන වෙඩික්කරුවකු වෙඩි ප්‍රහාරය එල්ල කර ඇති බව පොලීසිය පැවසීය.
+
+වෙඩි ප්‍රහාරයෙන් අදාළ මෝටර් රථයේ සිටි පුද්ගලයා එම ස්ථානයේම ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඝාතනය වූ පුද්ගලයා කවුරුන්ද යන්න පිළිබඳව මෙතෙක් අනාවරණ වී නොමැත.
+
+පොලීසිය පැවසුවේ ටී-56 ගිනිඅවියකින් වෙඩිතැබීම සිදුකර ඇති අතර වෙඩි ප්‍රහාර 20කට අධික සංඛ්‍යාවක් ඔහු ඉලක්ක කර තබා ඇති බවය.
 
 ◼️
 
@@ -84,6 +90,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Staff shortages threaten flight safety in India - report
+
+*2025-08-21 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111718/staff-shortages-threaten-flight-safety-in-india-report) · `en`
+
+India’s aviation safety regulator is grappling with a staffing crisis that is severely affecting its ability to fulfil its mandate, a parliamentary panel has warned in a new report.
+
+The “profound and persistent shortage” of personnel at the Directorate General of Civil Aviation (DGCA) poses an “existential threat” to the integrity of the safety system, says the report, tabled in the upper house of parliament on Wednesday.
+
+The lawmakers were tasked with reviewing aviation safety in the aftermath of the 12 June Air India plane crash which killed 260 people, mostly passengers.
+
+The report doesn’t mention the crash, but flags several other concerns including overworked air traffic controllers.
+
+The BBC has contacted the DGCA and the civil aviation ministry for comment.
+
+Parliamentary committee reports are not binding on the federal government but they have in the past influenced legislative agendas and sometimes regulations.
+
+...
+
+[Data](articles/fa4f27ff.json)
+
+---
+
 ### முன்னாள் ஜனாதிபதி கைது விவகாரம் : யூடியூப் சுதாவின் சர்ச்சை அறிக்கை - பாராளுமன்றில் தயாசிறி ஜயசேகர
 
 *2025-08-21 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/223049) · `ta`
@@ -97,6 +125,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7608c2a5.json)
+
+---
+
+### Man nabbed while transporting Rs. 20 million worth of heroin inside plumbing pipe
+
+*2025-08-21 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111717/man-nabbed-while-transporting-rs-20-million-worth-of-heroin-inside-plumbing-pipe) · `en`
+
+An individual has been arrested in Payagala while transporting a stock of heroin concealed inside a plumbing pipe, police stated.
+
+Officers attached to the Kalutara Police Special Unit arrested the individual following a tip-off indicating that the suspect was transporting heroin hidden in a pipe to hand over to another individual.
+
+The seized narcotics have an estimated street value of approximately Rs. 20 million.
+
+The suspect, a 44-year-old resident of Kuda Payagala, was found to be in possession of 1 kilogram and 175 grams of heroin, which was recovered during a search of the pipe.
+
+Police further revealed that, based on the suspect’s statements, the drugs are believed to have been smuggled by boat via sea routes and distributed in bulk.
+
+◼️
+
+[Data](articles/d1b4e497.json)
 
 ---
 
@@ -1795,47 +1843,5 @@ The war in Gaza began on October 7, 2023, when gunmen led by Hamas attacked sout
 ◼️
 
 [Data](articles/1bde610a.json)
-
----
-
-### ත්‍රස්ත විරෝධී පනත් කෙටුම්පතේ වැඩ ළඟදීම අවසන් වෙන ලකුණු
-
-*2025-08-21 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213602) · `si`
-
-නව ත්‍රස්ත විරෝධී පනත් කෙටුම්පත නුදුරේදීම සකස් කර අවසන් කිරීමට හැකියාව පවතින බව ඒ සම්බන්ධයෙන් පත්කළ විද්වත් කමිටුව පවසයි.
-
-නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතිය යටතේ පත්කළ විද්වත් කමිටුව එහි සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතාගේ ප්‍රධානත්වයෙන් අධිකරණ අමාත්‍යාංශයේදී පසුගියදා රැස්වුණි.
-
-එහිදි පනතට ගෙන එනු ලබන සංශෝධන පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා කර තිබේ.
-
-සාකච්ඡාව සඳහා අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතිඥ, නෙරින් පුල්ලේ, ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති, අසංග කරවිට, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ අතිරේක ලේකම් පියමුන්ති පීරිස්, ඇතුළු උසස් නිලධාරීන් පිරිසක් සහභාගී වී ඇති බව වාර්තා වේ.
-
-නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් වු කමිටුව මේ වන විට 14  වතාවක් රැස්ව ඇති අතර එහි මීළඟ සාකච්ඡාව හෙට (22) දින රැස්වීමට නියමිතය.
-
-පනත් කෙටුම්පත් කිරීම සම්බන්ධයෙන් මහජන අදහස්, සිවිල් සංවිධාන අදහස් හා අන්තර්ජාතික ආයතන සහ ප්‍රජාවන්ගේ අදහස් ද ලබා ගැනීමට කටයුතු කර තිබේ.
-
-◼️
-
-[Data](articles/38b48b9f.json)
-
----
-
-### Govt. to launch ‘Seiri Week’ for disposing of unnecessary items accumulated in state institutions
-
-*2025-08-21 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111693/govt-to-launch-seiri-week-for-disposing-of-unnecessary-items-accumulated-in-state-institutions) · `en`
-
-The government has taken steps to implement a special program to dispose unnecessary items which have accumulated in all state institutions.
-
-The program announced as “Seiri Week”, is scheduled to be implemented from September 01 to 04.
-
-This program has been implemented with the aim of creating a clean, healthy and safe environment suitable for officers in government institutions to freely perform their duties.
-
-Accordingly, the Secretary to the Ministry of Public Administration, Provincial Councils and Local Government has issued a special circular which has been sent to all Secretaries of Ministries, Chief Secretaries of Provinces, Heads of Departments, District Secretaries, Heads of Public Corporations and Statutory Boards.
-
-This is to be implemented in conjunction with the ‘Clean Sri Lanka’ national initiative and will involve identifying necessary and unnecessary items and discarding of all unnecessary items.
-
-...
-
-[Data](articles/2b41a8dd.json)
 
 ---

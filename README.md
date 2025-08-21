@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 06:32:55**
+As of **2025-08-21 07:17:13**
 
 ## Newspaper Stats
 
-*Scraped **71,474** Articles*
+*Scraped **71,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,509
 virakesarilk | 11,824
-adaderanasinhalalk | 12,342
+adaderanasinhalalk | 12,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,474 articles have been extended.
+61,973 (86.7%) of 71,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ඉදිරි දින කිහිපයේ කාලගුණයේ වෙනසක්
+
+*2025-08-21 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213592) · `si`
+
+ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතී.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත ඇති විය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/4d04ce6b.json)
+
+---
 
 ### நல்லூர் கந்தனின் தேர்த்திருவிழா இன்று
 
@@ -1783,25 +1799,5 @@ High Commissioner Paul Stephens acknowledged Sri Lanka’s resilience during the
 ...
 
 [Data](articles/88926a4d.json)
-
----
-
-### Sri Lanka sells Rs78.5bn treasury bills, yields slightly down
-
-*2025-08-20 15:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs78-5bn-treasury-bills-yields-slightly-down-237477/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 78.5 billion rupees of Treasury bills, with yields slightly down across shorter maturities, data from the state debt office showed.
-
-The 3-month yield was down 1 basis point at 7.50 percent, with 16 billion rupees offered and 13.11 billion sold.
-
-The 6-month yield was down 1 basis point at 7.89 percent, with 30 billion rupees offered and 24.87 billion sold.
-
-The 12-month yield was unchanged at 8.03 percent with 32.5 billion rupees of bills offered and 40.52 billion rupees bills sold.
-
-All 3 bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/cb484644.json)
 
 ---

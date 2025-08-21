@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 13:51:51**
+As of **2025-08-21 14:08:32**
 
 ## Newspaper Stats
 
-*Scraped **71,543** Articles*
+*Scraped **71,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,882
 adaderanalk | 9,013
-tamilmirrorlk | 10,531
+tamilmirrorlk | 10,532
 virakesarilk | 11,825
 adaderanasinhalalk | 12,362
 
@@ -26,17 +26,45 @@ adaderanasinhalalk | 12,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,543 articles have been extended.
+61,973 (86.6%) of 71,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
 
+### பாலியல் தொழிலுக்காகக் கடத்தல்:   5 இந்தியர்கள் கைது
+
+*2025-08-21 13:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலியல்-தொழிலுக்காகக்-கடத்தல்-5-இந்தியர்கள்-கைது/50-363218) · `ta`
+
+பாலியல் தொழிலுக்காக சிறுமிகளை கடத்திய வழக்கில் 5 இந்தியர்களை அமெரிக்க காவல்துறையினர் கைது செய்துள்ளனர்.
+
+அமெரிக்காவின் நெப்ராஸ்கா மாகாணத்தில் மனித கடத்தலில் ஈடுபடும் கும்பலைக் குறிவைத்து கடந்த வாரம் மிகப்பெரிய அளவிலான சோதனையை பொலிஸார் நடத்தினர்.
+
+ஒமாஹா மெட்ரோ பகுதிகளில் உள்ள விடுதிகளில் நடத்தப்பட்ட சோதனையில், 12 வயதுக்குட்பட்ட 10 பேர், 17 ஆண்கள் மற்றும் பெண்கள் என மொத்தம் 27 பேரைக் பொலிஸார் மீட்டனர்.
+
+இவர்களிடம் பொலிஸார் நடத்திய விசாரணையில் அனைவரும் கடத்தப்பட்டு விடுதி பணிக்காக பயன்படுத்தப்பட்டமை தெரியவந்துள்ளது. நீண்ட நேர வேலை, குறைவான ஊதியம், சிலருக்கு ஊதியமே வழங்கவில்லை என்பது தெரியவந்துள்ளது. மேலும், சில பெண்களையும் சிறுமிகளையும் கட்டாயப்படுத்தி பாலியல் தொழிலில் ஈடுபடுத்தியதும் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இந்த சோதனையின்போது, பாதிக்கப்பட்டவர்கள் அசுத்தமான இடத்தில் கரப்பான்பூச்சிகளுக்கு மத்தியில், தரையில் படுத்து உறங்கிக் கொண்டிருந்த காட்சிகளைக் கண்டதாக பொலிஸார் நீதிமன்றத்தில் விபரித்துள்ளனர்.
+
+...
+
+[Data](articles/9b6bf07d.json)
+
+---
+
 ### ඝාතනයකට වරදකරු වූ ත්‍රිවිල් රියදුරෙකුට මරණ දණ්ඩනය
 
 *2025-08-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213613) · `si`
 
-බහින් බස් වීමකින් අනතුරුව පුද්ගලයෙකුට තියුණු ආයුධකින් ඇන මරා දැමීමේ චෝදනාවකට වරදකරු කෙරුණු 43 හැවිරිදි ත්‍රිරෝද රථ රියදුරෙකුට කොළඹ මහාධිකරණය අද (21) මරණීය දණ්ඩනය නියම කළේය.
+බහින් බස්වීමකින් අනතුරුව පුද්ගලයෙකුට තියුණු ආයුධකින් ඇන මරා දැමීමේ චෝදනාවකට වරදකරු කෙරුණු 43 හැවිරිදි ත්‍රිරෝද රථ රියදුරෙකුට කොළඹ මහාධිකරණය අද (21) මරණීය දණ්ඩනය නියම කළේය.
+
+කොළඹ මහාධිකරණ විනිසුරු මහේෂ් වීරමන් මහතා විසින් මෙම තීන්දුව ලබාදුන්නේය.
+
+2010 වසරේ මාර්තු මස 02 වනදා කැලණිය ප්‍රදේශයේදී රෝයි පීරිස් නැමැත්තෙකුට ආයුධකින් ඇන මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කෙරුණු පුද්ගලයෙකුට මෙසේ දඬුවම් නියම වුණි.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව තීන්දුව ප්‍රකාශයට පත්කළ කොළඹ මහාධිකරණ විනිසුරු මහේෂ් වීරමන් මහතා විත්තිකරුට එරෙහිව පැමිණිල්ල විසින් එල්ල කර තිබෙන චෝදනා සාධාරණ සැකයෙන් ඔබ්බට සනාථ කර තිබෙන බව සඳහන් කළේය.
+
+ඒ අනුව මෙම දඬුවම් නියම කරන බවත් විනිසුරුවරයා සිය තීන්දුවේ සඳහන් කළේය.
 
 ◼️
 
@@ -1737,21 +1765,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/076ff8b5.json)
-
----
-
-### CEAT extends premium ‘S-I-S’ retail experience to Kelaniya and Horana
-
-*2025-08-20 21:22:00* · [`islandlk`](http://island.lk/ceat-extends-premium-s-i-s-retail-experience-to-kelaniya-and-horana/) · `en`
-
-Sri Lanka’s top tyre brand CEAT has extended its premium retail experience to Kelaniya and Horana, with the opening of new-concept Shop-in-Shop (SIS) outlets in these bustling towns.
-
-The 11th and 12th CEAT SIS outlets in Sri Lanka are located at Jayantha Tyre Traders at No 408, Kandy Road, Kelaniya and at Lal Tyre House at No 243, Panadura – Anguruwatota Road, Horana, providing vehicle owners in these areas an exclusive and premium purchase experience.
-
-These outlets will offer an extensive range of CEAT tyres with attractive discounts, tyre care and technical expertise, as well as a combination of services such as wheel balancing and alignment, nitrogen and air pumps for tyre inflation, alloy wheels and automobile batteries. A distinctive feature of every CEAT SIS outlet is its own customer lounge.
-
-...
-
-[Data](articles/33c71962.json)
 
 ---

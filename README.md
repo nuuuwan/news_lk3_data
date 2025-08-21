@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 16:49:25**
+As of **2025-08-21 17:06:10**
 
 ## Newspaper Stats
 
-*Scraped **71,578** Articles*
+*Scraped **71,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,45 @@ adalk | 6,887
 adaderanalk | 9,020
 tamilmirrorlk | 10,535
 virakesarilk | 11,826
-adaderanasinhalalk | 12,373
+adaderanasinhalalk | 12,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,578 articles have been extended.
+61,973 (86.6%) of 71,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
 
+### නළයක් තුළ හෙරොයින් පුරවා රැගෙන යමින් සිටි අයෙක් අත්අඩංගුවට
+
+*2025-08-21 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213627) · `si`
+
+නළයක් තුළ සඟවා හෙරොයින් මත්ද්‍රව්‍ය තොගයක් රැගෙන යමින් සිටි පුද්ගලයෙකු පයාගල ප්‍රදේශයේදී අත්අඩංගුවට ගැනීමට කළුතර පොලිස් විශේෂ කාර්යාංශයේ නිලධාරීන් සමත් විය.
+
+පොලීසිය සඳහන් කළේ සැකකරු කිසියම් පුද්ගලයකුට ලබාදීම සඳහා මෙලෙස නළයක් තුළ හෙරොයින් මත්ද්‍රව්‍ය පුරවා රැගෙන යන බවට ලැබුණු තොරතුරක් මත වැටලීම සිදුකළ බවය.
+
+එහි වටිනාකම රුපියල් කෝටි 2ක් පමණ වන බවද නිලධාරීන් සඳහන් කරයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කුඩා පයගල ප්‍රදේශයේ පදිංචි 44 හැවිරිදි පුද්ගලයෙකි.
+
+අදාළ නළය පරීක්ෂා කිරීමේදී හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 1යි ග්‍රෑම් 175ක් සොයාගත් බවද පොලීසිය පැවසීය.
+
+මුහුදු මාර්ගයෙන් බෝට්ටුවලින් රැගෙන ආ මත්ද්‍රව්‍ය මෙලෙස තොග වශයෙන් බෙදාහැර ඇති බවට සැකකරුගේ ප්‍රකාශවලින් අනාවරණය වෙන බවත් පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7c24fb91.json)
+
+---
+
 ### ගාසා නගරය අත්පත් කරගැනීමේ මෙහෙයුම අරඹයි
 
 *2025-08-21 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213626) · `si`
 
-ගාසා නගරය සම්පූර්ණයෙන් අත්පත් කරගැනීමේ මූලික පියවර ආරම්භ කළ බව ඊශ්‍රායල ආරක්ෂක හමුදා පවසා ඇත.
+ගාසා නගරය (Gaza City) සම්පූර්ණයෙන් අත්පත් කරගැනීමේ මූලික පියවර ආරම්භ කළ බව ඊශ්‍රායල ආරක්ෂක හමුදා පවසා ඇත.
 
 හමාස් ත්‍රස්තවාදීන්ගේ ප්‍රබල මර්මස්ථානයක් වන මෙම ගාසා නගරය ආසන්න ප්‍රදේශවලට දැනටමත් ඊශ්‍රායල සෙබළුන් යොදවා ඇති අතර, සමස්ත සෙබළුන් 60,000ක් පමණ කැඳවීමට නියමිත බව ද ඊශ්‍රායලය මීට පෙර සිටම පවසා තිබුණි.
 
@@ -1829,25 +1851,5 @@ Minister Fernando was responding to concerns raised that the expansion of broad 
 ◼️
 
 [Data](articles/10f8a46d.json)
-
----
-
-### Israeli military says first stages of assault on Gaza City have begun
-
-*2025-08-21 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111688/israeli-military-says-first-stages-of-assault-on-gaza-city-have-begun) · `en`
-
-The Israeli military says it has begun the “preliminary actions” of a planned ground offensive to capture and occupy all of Gaza City and already has a hold on its outskirts.
-
-A military spokesman said troops were already operating in the Zeitoun and Jabalia areas to lay the groundwork for the offensive, which Defence Minister Israel Katz approved on Tuesday and which will be put to the security cabinet later this week.
-
-About 60,000 reservists are being called up for the beginning of September to free up active-duty personnel for the operation.
-
-Hamas has accused Israel of obstructing a ceasefire deal in favour of continuing a “brutal war against innocent civilians”, Reuters news agency reported.
-
-Hundreds of thousands of Palestinians in Gaza City are expected to be ordered to evacuate and head to shelters in southern Gaza as preparations for Israel’s takeover plan get under way.
-
-...
-
-[Data](articles/a694f7c3.json)
 
 ---

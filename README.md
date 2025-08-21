@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 15:32:23**
+As of **2025-08-21 15:50:08**
 
 ## Newspaper Stats
 
-*Scraped **71,556** Articles*
+*Scraped **71,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailymirrorlk | 4,733
 dailyftlk | 5,045
 adalk | 6,884
 adaderanalk | 9,015
-tamilmirrorlk | 10,533
+tamilmirrorlk | 10,534
 virakesarilk | 11,826
-adaderanasinhalalk | 12,368
+adaderanasinhalalk | 12,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,556 articles have been extended.
+61,973 (86.6%) of 71,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### தென்னகோனுக்கு விளக்கமறியல்
+
+*2025-08-21 15:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோனுக்கு-விளக்கமறியல்/175-363224) · `ta`
+
+குற்றப் புலனாய்வுத் துறையால் (CID) புதன்கிழமை (20)  கைது செய்யப்பட்ட முன்னாள் பொலிஸ் மா அதிபர் (IGP) தேசபந்து தென்னகோனை ஆகஸ்ட் 27 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கோட்டை நீதவான் நிலுபுலி லங்காபுர வியாழக்கிழமை (21) உத்தரவிட்டுள்ளார்.
+
+இவர், 2022  மே 9,  அன்று காலி முகத்திடலில் உள்ள “கோட்டா கோ கம” போராட்டக் களத்தின் மீதான தாக்குதல் தொடர்பான விசாரணையுடன் தொடர்பு பட்டு கைது செய்யப்பட்டுள்ளார். சம்பவம் நடந்த நேரத்தில், தென்னகோன் மேற்கு மாகாணத்திற்கான காவல்துறை துணைத் தலைவராக (DIG) பணியாற்றி வந்தார், பின்னர் இந்த வழக்கில் சந்தேக நபராகப் பெயரிடப்பட்டுள்ளார்.
+
+அனைத்து காவல்துறை சாட்சிகளையும் ஒரு வாரத்திற்குள் விசாரிக்க வேண்டும் என்றும், அடுத்த விசாரணைத் திகதியில் சாட்சியங்களின் சுருக்கத்தை சமர்ப்பிக்குமாறும் நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/04ae68ee.json)
+
+---
+
+### දේශබන්දු 27 දක්වා රිමාන්ඩ්
+
+*2025-08-21 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213620) · `si`
+
+අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එළැඹෙන 27 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස කොළඹ කොටුව මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය විසින් මෙම නියෝගය නිකුත් කර ලැබීය.
+
+◼️
+
+[Data](articles/f1a043fa.json)
+
+---
 
 ### iPhone 17 Pro Max සැප්තැම්බර් මුල වෙළෙඳපොළට?
 
@@ -1765,35 +1795,5 @@ No meaningful solution to the crisis in Gaza is possible with Netanyahu’s far-
 ...
 
 [Data](articles/6aa99600.json)
-
----
-
-### Against national policy on reconciliation: Tamil perspective
-
-*2025-08-21 02:45:58* · [`dailyftlk`](https://www.ft.lk/opinion/Against-national-policy-on-reconciliation-Tamil-perspective/14-780536) · `en`
-
-To now propose a National Policy on Reconciliation under these circumstances is not just a farce. It is offensive
-
-Reconciliation cannot be the default language of post-conflict engagement when conflict has not ended, only rebranded. When territory remains militarised, when justice remains denied, and when truth remains buried, the promotion of reconciliation becomes not just ineffective – it becomes coercive. From the very beginning of Tamil political movements, the demand of the Tamil people has never been reconciliation (although often deeply desired).
-
-On 4 August 2025, the Cabinet of Ministers approved the development of a new National Policy and Action Plan on Reconciliation and Co-Existence, to be led by the Office for National Unity and Reconciliation (ONUR) under the Ministry of Justice.
-
-...
-
-[Data](articles/eafc0add.json)
-
----
-
-### 2025-08-20 (Wednesday)
-
-### சாந்த முதுன்கொடுவ கொலை ; துப்பாக்கிதாரி கைது
-
-*2025-08-20 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்த-முதுன்கொடுவ-கொலை-துப்பாக்கிதாரி-கைது/175-363180) · `ta`
-
-ஹோமாகம பிரதேச சபையின் முன்னாள் உறுப்பினர் சாந்த முதுன்கொடுவ சுட்டுக் கொல்லப்பட்ட சம்பவத்துடன் தொடர்புடைய துப்பாக்கிதாரி குற்றப் புலனாய்வுத் திணைக்களத்தின் விசேட பொலிஸ் குழுவால் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.R
-
-◼️
-
-[Data](articles/c527edc3.json)
 
 ---

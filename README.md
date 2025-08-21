@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 16:32:56**
+As of **2025-08-21 16:49:25**
 
 ## Newspaper Stats
 
-*Scraped **71,568** Articles*
+*Scraped **71,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,67 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 730
-economynextcom | 4,374
+economynextcom | 4,381
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,886
+adalk | 6,887
 adaderanalk | 9,020
 tamilmirrorlk | 10,535
 virakesarilk | 11,826
-adaderanasinhalalk | 12,371
+adaderanasinhalalk | 12,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,568 articles have been extended.
+61,973 (86.6%) of 71,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### ගාසා නගරය අත්පත් කරගැනීමේ මෙහෙයුම අරඹයි
+
+*2025-08-21 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213626) · `si`
+
+ගාසා නගරය සම්පූර්ණයෙන් අත්පත් කරගැනීමේ මූලික පියවර ආරම්භ කළ බව ඊශ්‍රායල ආරක්ෂක හමුදා පවසා ඇත.
+
+හමාස් ත්‍රස්තවාදීන්ගේ ප්‍රබල මර්මස්ථානයක් වන මෙම ගාසා නගරය ආසන්න ප්‍රදේශවලට දැනටමත් ඊශ්‍රායල සෙබළුන් යොදවා ඇති අතර, සමස්ත සෙබළුන් 60,000ක් පමණ කැඳවීමට නියමිත බව ද ඊශ්‍රායලය මීට පෙර සිටම පවසා තිබුණි.
+
+ඒ අනුව ඊශ්‍රායල හමුදාව සැලසුම් කළ මෙම ගොඩබිම් ප්‍රහාරය ආරම්භ කිරීමත් සමග සිය ගණන් පලස්තීනුවන් ගාසා නගරයේ ඇතැම් ප්‍රදේශවලින් පලා යමින් සිටින බව සඳහන්.
+
+මෙම ප්‍රහාරයෙන් සිදුවිය හැකි මරණ සහ විනාශය වළක්වා ගැනීම සඳහා වහාම සටන් විරාමයක් ඇතිකරගන්නා ලෙස එක්සත් ජාතීන්ගේ මහලේකම් ඇන්ටෝනියෝ ගුටරෙස් දෙපාර්ශ්වයෙන්ම ඉල්ලා සිටියි.
+
+මේ අතර නැගෙනහිර ජෙරුසෙලම කේන්ද්‍රකොටගත් පලස්තීන දේශයක් ගොඩනැංවීමේ සිහිනය තවදුරටත් දුරස්ථ කරන බටහිර ඉවුරේ නව යුදෙව් ජනාවාස ව්‍යාපෘතියට අවසන් අනුමැතිය හිමිවූ බව ඊශ්‍රායල රජයේ අන්ත දක්ෂිණාංශික මුදල් අමාත්‍ය බෙසලෙල් ස්මොට්රිච් පවසා තිබේ.
+
+E-1 ලෙස නම් කළ මෙම ව්‍යාපෘතිය යටතේ ඉදිකරන නව යුදෙව් ජනාවාසය මගින් නැගෙනහිර ජෙරුසලම, පලස්තීන බටහිර ඉවුරේ අනෙකුත් ප්‍රදේශවලින් වෙන්කිරීමක් සිදුවනු ඇත.
+
+...
+
+[Data](articles/203b32ab.json)
+
+---
+
+### වර්ජනය අත්හැර සාකච්ඡාවට සූදානම් නැහැ - තැපැල් සේවකයින් දැඩි තීරණයක
+
+*2025-08-21 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213625) · `si`
+
+වර්ජනය අත්හැර කිසිදු සාකච්ඡාවකට තැපැල් වෘත්තීය සමිති සූදානම් නොමැති බව තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර පැවසීය.
+
+අඛණ්ඩව ක්‍රියාත්මක වන තැපැල් වර්ජනය සම්බන්ධයෙන් 'අද දෙරණ' සිදුකළ විමසීමකට පිළිතුරු දෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+මේ දක්වාත් විෂය භාර අමාත්‍යවරයා ඒ සම්බන්ධයෙන් සාකච්ඡාවක් ලබාදී නොමැති බව සඳහන් කළ චින්තක බණ්ඩාර මහතා පෙන්වා දෙන්නේ, වෘත්තීය සමිති ක්‍රියාමාර්ග අත්හැර සාකච්ඡාවකට පැමිණෙන ලෙස තැපැල්පතිවරයා සහ විෂය භාර අමාත්‍යවරයා ඉල්ලීමක් සිදුකර ඇති බවය.
+
+කෙසේවෙතත් වෘත්තීය සමිති ක්‍රියාමාර්ගය අත්හැර කිසිඳු සාකච්ඡාවක් සිදුකිරීමට තැපැල් වෘත්තීය සමිති සූදානම් නොමැති බව තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර සඳහන් කළේය.
+
+මේ වනවිටත් ලක්ෂ 17කට ආසන්න තැපැල් මලු ප්‍රමාණයක් තැපැල් ස්ථාන ආශ්‍රිතව ගොඩගැසී ඇති බවද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/647065c7.json)
+
+---
 
 ### நிர்வாண வீடியோ காட்டி மிரட்டிய காதலனுக்கு விளக்கமறியல்
 
@@ -49,6 +91,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eabf37d5.json)
+
+---
+
+### විදුලි පද්ධතියේ ස්ථායිතාවයට ගෙන ඇති පියවර බලශක්ති ඇමති කියයි
+
+*2025-08-21 16:04:08* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පද්ධතියේ-ස්ථායිතාවයට-ගෙන-ඇති-පියවර-බලශක්ති-ඇමති-කියයි/11-417998) · `si`
+
+ජාතික විදුලි පද්ධතියේ ස්ථායිතාවය රැක ගැනීම වෙනුවෙන් ගෙන ඇති කෙටි කාලීණ සහ දිගු කාලීන පියවර රැසක් ගෙන ඇති බව අද (21) පාර්ලිමේන්තුවේදී හෙළි කලේය. ඒ පාර්ලිමේන්තු මන්ත්‍රී කාවින්ද ජයවර්ධන මහතා නැගූ පැනයකට පිළිතුරු ලබා දෙමිනි.
+
+විදුලි පද්ධතිය තුළ ක්ෂණිකව ඇතිවන අස්ථාවර අවස්ථාවන්හිදී වහල මත සවිකර ඇති සූර්ය විදුලිබල පද්ධති, ජාතික විදුලි පද්ධති තුළ පවත්වා ගැනීම තුළින් එහි ස්ථායිතාවය පවත්වැ ගැනීමට හැකිවන පරිදි ඒවායේ ඉන්වටර් පරාමිතීන් යාවත්කාලීන කිරීම
+
+ජාලක ස්ථායිතාව පිළිබඳ ගැටළුවලට ප්‍රතිචාර වශයෙන් වහල මත සවිකර ඇති සූර්ය විදුලිබල පද්ධති මගින් උත්පාදිත බලශක්තිය පද්ධතියට සැපයීම පමණක් සිදු කිරීම වෙනුවට බලශක්ති උත්පාදනය එම ස්ථානය/ පරිශ්‍රි තුළදීම පරිභෝජනය සඳහා  දිරිමත් කිරීමට තාක්ෂණික හා නියාමන පියවර හඳුන්වා දීම
+
+හැකි සෑම අවස්ථාවකදීම සමමුහුර්ත කන්ඩෙන්සර් (synchronous condenser) ආකාරයෙන් ජල හා තාප බලාගාර ක්‍රියාත්මක කිරීමට කටයුතු කිරීම
+
+අධික හිරු එලිය සහිත දිවා කාලයේ ඉරිදා වැනි ඉල්ලුම අඩු නිවාඩු දිනවලදී පද්ධති ස්ථායිතාව පවත්වා ගැනීම දුෂ්කර බැවින්,
+
+...
+
+[Data](articles/08dc0259.json)
 
 ---
 
@@ -99,6 +161,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1448bed2.json)
+
+---
+
+### Sri Lanka stocks close flat, turnover remains high
+
+*2025-08-21 15:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-flat-turnover-remains-high-237709/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed flat after some volatility in the day, data on its site showed.
+
+The ASPI closed at 20,715.49, a marginal 0.69 points higher than the previous day, while the S&P SL20 was up 3.49 points, at 6,108.
+
+Top contributors to the ASPI were Dialog Axiata (up 1.40 rupees at 23.50), Sunshine Holdings (up 2.80 rupees at 30.30), Royal Ceramics (up 2 rupees at 44), Co-operative Insurance Company (up 30 cents at 4.90 rupees), and Ambeon Holdings (up 7.25 rupees at 114.75).
+
+Most banking stocks closed down possibly due to some profit taking after days of trading up: Commercial Bank was down 25 cents at 197.50 rupees, Sampath Bank was down 1 rupee at 146, and HNB was down 1.50 rupees at 404.50. (Colombo/Aug21/2025)
+
+◼️
+
+[Data](articles/03f87788.json)
 
 ---
 
@@ -408,6 +488,28 @@ The case was scheduled for a pre-trial conference on October 1.
 
 ---
 
+### Sri Lanka Mirigama export zone not suited for growing cannabis: MP
+
+*2025-08-21 13:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-mirigama-export-zone-not-suited-for-growing-cannabis-mp-237698/) · `en`
+
+ECONOMYNEXT – The government’s decision to allow cannabis cultivation in an export processing zone in Mirigama, close to Colombo, was not a good plan, an opposition legislator has said.
+
+“I personally don’t oppose plans to cultivate cannabis [kan-sa]; if it brings investments into the country, suits the export economy, and you can forget what you said in the past, it is ok [ka-mak ne-he],” Nalin Bandara told parliament.
+
+“But Mirigama land is not suited for this [ko-heth-ma su-du-su ne-he].”
+
+“The land you have identified for the purpose in the Mirigama zone shouldn’t be given for kansa cultivation; it’s infrastructure facilities should be developed and it should be given for other investments targeting export goals.
+
+“Kansa should be grown in areas well known for its cultivation; Wellawaya, Pahala Uva.”
+
+Lands in export zones closer to Colombo like Mirigama, Biyagama, Katunayake, Koggala, and Malwathu Hiripitiya are short of land to offer other investors, he said.
+
+...
+
+[Data](articles/67129ca6.json)
+
+---
+
 ### பாலியல் தொழிலுக்காகக் கடத்தல்:   5 இந்தியர்கள் கைது
 
 *2025-08-21 13:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலியல்-தொழிலுக்காகக்-கடத்தல்-5-இந்தியர்கள்-கைது/50-363218) · `ta`
@@ -463,6 +565,26 @@ The case was scheduled for a pre-trial conference on October 1.
 ◼️
 
 [Data](articles/01f43c03.json)
+
+---
+
+### Public views sought on SriLankan Airlines, Airport and Aviation Services
+
+*2025-08-21 13:19:00* · [`economynextcom`](https://economynext.com/public-views-sought-on-srilankan-airlines-airport-and-aviation-services-237691/) · `en`
+
+ECONOMYNEXT – A presidential investigation committee has called for public complaints, views and proposals on irregularities at Airport and Aviation Services (Sri Lanka) (Private) Limited and SriLankan Airlines.
+
+“The Committee seeks submissions from employees, staff members and the general public concerning issues related to both institutions,” the president’s media division said.
+
+Individuals and organizations can forward their complaints, views or proposals on or before September 5, via email to psicairport@gmail.com or by WhatsApp to 070 3307700.
+
+“Appointments for discussions will then be scheduled with the Committee.”
+
+The Presidential Special Investigation Committee was established to probe fraud, corruption and malpractices at Airport and Aviation Services and SriLankan Airlines. (Colombo/Aug21/2025)
+
+◼️
+
+[Data](articles/50b4852b.json)
 
 ---
 
@@ -638,6 +760,24 @@ Attention was drawn to the issues prevailing in the National Audit Office.
 
 ---
 
+### Hilton network backs Vietnam food festival in Sri Lanka
+
+*2025-08-21 12:24:00* · [`economynextcom`](https://economynext.com/hilton-network-backs-vietnam-food-festival-in-sri-lanka-237684/) · `en`
+
+ECONOMYNEXT – Hilton Colombo is holding a food festival in backed by the chefs from their network in Vietnam, as the two countries celebrate 55 years of diplomatic relations, the embassy of the South East Asian nation said.
+
+“This is a very meaningful event on the occasion of the 55th anniversary of Viet Nam-Sri Lanka diplomatic relations (1970-2025),” Ambassador Trinh Thi Tam said in a statement.
+
+“Through the partnership with Hilton Colombo and Hilton Da Nang, we are thrilled to bring the essence of Viet Nam cuisine to Colombo, thus further consolidating the existing cultural bonds and people-to-people links between our two nations.”
+
+From August 21 to 30, guest chefs from Hilton Da Nang, Nguyen Dac Khoa and Nguyen Van Toan, will bring Vietnamese cooking to with authentic techniques, fresh herbs, and time-honored recipes, the embassy said.
+
+...
+
+[Data](articles/ff02fbd2.json)
+
+---
+
 ### “OT கூடாது: கைரேகை நிச்சயம்”
 
 *2025-08-21 12:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OT-கூடாது-கைரேகை-நிச்சயம்/175-363213) · `ta`
@@ -651,6 +791,24 @@ Attention was drawn to the issues prevailing in the National Audit Office.
 ...
 
 [Data](articles/e34171b1.json)
+
+---
+
+### Sri Lanka’s Millennium Housing Developers faces trading suspension
+
+*2025-08-21 12:23:00* · [`economynextcom`](https://economynext.com/sri-lankas-millennium-housing-developers-faces-trading-suspension-237680/) · `en`
+
+ECONOMYNEXT – Trading in Sri Lanka’s Millennium Housing Developers stock will be suspended if it fails to resolve accounting problems highlighted by auditors, the Colombo Stock Exchange said.
+
+Trading of its securities will be suspended from September 1, unless the company rectifies a noncompliance before August 29, the CSE said.
+
+The reason for non-compliance was given as “Emphasis of matter ongoing concern in the Independent Auditor’s Report in the Audited Financial Statements for the year ended 31st March 2023- Rule 7.5.”
+
+The stock was trading up 20 cents at 7 rupees. (Colombo/Aug21/2025)
+
+◼️
+
+[Data](articles/fa636302.json)
 
 ---
 
@@ -753,6 +911,28 @@ Attention was drawn to the issues prevailing in the National Audit Office.
 ...
 
 [Data](articles/a0ea82e6.json)
+
+---
+
+### Sri Lanka sends more migrant workers to South Korea manufacturing sector
+
+*2025-08-21 11:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-sends-more-migrant-workers-to-south-korea-manufacturing-sector-237671/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sent 60 skilled workers for jobs in South Korea’s manufacturing sector, bringing the total of migrant workers sent to the East Asian country to 2,522 so far this year.
+
+The batch included 7 women, a government statement said, showing an increase in female migrant workers in the sector.
+
+“There has been an increasing trend of young women seeking employment in South Korea, with 85 young women leaving in 2025.”
+
+According to an agreement Sri Lanka’s Bureau of Foreign Employment signed with the South Korean Human Resources Development Institute, jobs are available under the E-9 visa category, for work in the manufacturing, construction, fisheries and agriculture sectors in South Korea.
+
+The workers will be allowed to stay in South Korea for 4 years and 10 months, and those who return to the country after the specified period has expired will be allowed to re-enter South Korea.
+
+Sri Lanka sent 7,122 migrant workers to South Korea in 2024. (Colombo/Aug21/20225)
+
+◼️
+
+[Data](articles/cc393375.json)
 
 ---
 
@@ -1171,6 +1351,32 @@ The Archbishop of Colombo was accompanied by the members of the Catholic Bishops
 ◼️
 
 [Data](articles/ade24b62.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields up
+
+*2025-08-21 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237648/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.75/90 to the US dollar in the spot market Thursday, weaker from 301.70/80 the previous day, while bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 8.10/20 percent, from 8.12/20 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.50/60 percent, up from 8.45/60 percent.
+
+A bond maturing on 15.03.2028 was quoted at 8.80/85 percent, up from 8.75/85 percent.
+
+A bond maturing on 15.06.2029 was quoted at 9.32/35 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.43/47 percent, up from 9.42/45 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.25/29 percent, up from 10.25/32 percent.
+
+The Colombo Stocks Exchange was trading in green: The ASPI was up 0.33 percent, or 67.62 points, at 20,782.42; the S&P SL20 was up 0.44 percent, or 27.11 points, at 6,132.11.
+
+...
+
+[Data](articles/2faacdc5.json)
 
 ---
 
@@ -1643,187 +1849,5 @@ Hundreds of thousands of Palestinians in Gaza City are expected to be ordered to
 ...
 
 [Data](articles/a694f7c3.json)
-
----
-
-### Evening showers expected in several areas in next few days
-
-*2025-08-21 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111687/evening-showers-expected-in-several-areas-in-next-few-days) · `en`
-
-Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Central, Uva and Eastern provinces during the next few days, the Department of Meteorology said.
-
-Meanwhile, showers or thundershowers may occur at a few places in Northern, North-Central, Central, Uva and Eastern provinces and Hambantota district after 1.00 p.m.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/dafa477e.json)
-
----
-
-### ඉදිරි දින කිහිපයේ කාලගුණයේ වෙනසක්
-
-*2025-08-21 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213592) · `si`
-
-ඉදිරි දින කිහිපයේදී උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතී.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත ඇති විය හැකි බවය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/4d04ce6b.json)
-
----
-
-### நல்லூர் கந்தனின் தேர்த்திருவிழா இன்று
-
-*2025-08-21 05:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-கந்தனின்-தேர்த்திருவிழா-இன்று/175-363183) · `ta`
-
-வரலாற்றுப் பிரசித்தி பெற்ற யாழ். நல்லூர் கந்தசுவாமி ஆலயத்தில் இன்று தேர்த்திருவிழா நடைபெறவுள்ளது.
-
-நல்லூர் கந்தசுவாமி ஆலயத்தின் பெருந்திருவிழா கடந்த மாதம் 29ஆம் திகதி கொடியேற்றத்துடன் ஆரம்பமாகி நடைபெற்று வருகின்றது.
-
-இதில், இன்று வியாழக்கிழமை தேர்த்திருவிழா நடைபெறவுள்ளது. காலை 6  மணிக்குக் காலசாந்தி பூஜையும் , 6.15 மணிக்கு வசந்த மண்டபப் பூஜையும் நடைபெற்று சுவாமி உள்வீதி வலம் வந்து, 7 மணியளவில் தேரில் எழுந்தருளுவார்.
-
-நாளை வெள்ளிக்கிழமை தீர்த்தத் திருவிழா காலை 6.15 மணிக்கு வசந்த மண்டபப் பூஜையுடன் ஆரம்பமாகும். மாலை 5.30 மணிக்குக் கொடியிறக்கம் நடைபெறும்.
-
-◼️
-
-[Data](articles/75144c86.json)
-
----
-
-### President pushes primary healthcare, procurement reform in pre-Budget review
-
-*2025-08-21 05:13:10* · [`dailyftlk`](https://www.ft.lk/news/President-pushes-primary-healthcare-procurement-reform-in-pre-Budget-review/56-780561) · `en`
-
-Reviews progress of projects funded under 2025 Budgetary allocations to Health and Mass Media Ministry
-
-Highlights new National Health Policy and Strategic Plan will be launched next year
-
-Calls for urgent improvements in procurement of medical equipment and medicines
-
-Directs officials to expedite acquisition of essential vehicles for critical services within 2025
-
-Aims to expand “Suwa Seriya” ambulance service to 400 new locations
-
-Opines State media responsible for shaping public attitudes, directs to prepare dedicated financial plan to strengthen this role
-
-Discusses modernising Postal Service into hybrid courier and digital service
-
-President Anura Kumara Disanayake on Tuesday underscored sweeping reforms in the country’s health and mass media sectors, directing officials to prioritise primary healthcare expansion, procurement efficiency, and institutional modernisation in the 2026 Budget.
-
-...
-
-[Data](articles/90447919.json)
-
----
-
-### ‘It’s About Time’ Travelling History Museum opens in Colombo
-
-*2025-08-21 05:10:29* · [`dailyftlk`](https://www.ft.lk/news/It-s-About-Time-Travelling-History-Museum-opens-in-Colombo/56-780560) · `en`
-
-School students engaging with the interactive exhibits at the ‘It’s About Time’ Travelling History Museum
-
-Visitors and distinguished guests at the official opening of the ‘It’s About Time’ Travelling History Museum at the Colombo Public Library
-
-The ‘It’s About Time’ Travelling History Museum opened its doors to the public on Tuesday at the Colombo Public Library, a joint statement by the European Union Delegation to Sri Lanka and the Maldives and the German Embassy said.
-
-Since its inception in February 2019, the museum has visited 11 towns across 10 districts and seven provinces, including Jaffna, Kandy, Kurunegala, Badulla, Batticaloa, Mannar, and Galle. Drawing on feedback from more than 52,000 visitors, it has been reconceptualised for a renewed visitor experience. The updated iteration will be open to the public for the first time in Colombo from 19 to 23 August, from 8:30 a.m. to 5:30 p.m. daily.
-
-...
-
-[Data](articles/715a04ce.json)
-
----
-
-### CID arrests ex-IGP Deshabandu
-
-*2025-08-21 05:08:06* · [`dailyftlk`](https://www.ft.lk/news/CID-arrests-ex-IGP-Deshabandu/56-780559) · `en`
-
-Former Inspector General of Police (IGP) Deshabandu Thennakoon was arrested yesterday by the Criminal Investigation Department (CID) in connection with the violent crackdown on peaceful protesters at Galle Face Green during the 2022 Aragalaya movement.
-
-The arrest follows the decision by the Attorney General to name Thennakoon as a suspect in the case, which relates to the assault on peaceful demonstrators.
-
-Prior to his arrest, Thennakoon had filed an anticipatory bail application before the Fort Magistrate’s Court, citing concerns over a possible arrest. However, the Court rejected the application.
-
-On 5 August, Parliament passed a resolution to remove Thennakoon from his post as IGP, with 177 MPs voting in favour and none against. One MP abstained. This was the first time Parliament had voted to remove a sitting IGP.
-
-◼️
-
-[Data](articles/887733d4.json)
-
----
-
-### Court issues notice to Rajitha to appear on 29 August
-
-*2025-08-21 05:03:37* · [`dailyftlk`](https://www.ft.lk/news/Court-issues-notice-to-Rajitha-to-appear-on-29-August/56-780558) · `en`
-
-The Colombo Chief Magistrate’s Court yesterday issued a formal notice to former Minister Rajitha Senaratne, instructing him to appear before the Court on 29 August in connection with a case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The notice was issued by Chief Magistrate Tanuja Lakmali Jayatunga, under Section 60(1) of the Code of Criminal Procedure, following a review of the complaint submitted by the Bribery Commission.
-
-On Tuesday, the Colombo Chief Magistrate rejected a request made by the former Minister to temporarily suspend the arrest warrant issued against him.
-
-The warrant was issued on 12 August by Additional Magistrate Pasan Amarasinghe, in connection with an investigation into a sand mining project at the Kirinda Fisheries Harbour, allegedly awarded to a Korean company, resulting in a loss exceeding Rs. 20 million to the Government.
-
-◼️
-
-[Data](articles/3b4cee27.json)
-
----
-
-### President calls for stronger rural development, social security focus in 2026 Budget
-
-*2025-08-21 04:41:52* · [`dailyftlk`](https://www.ft.lk/news/President-calls-for-stronger-rural-development-social-security-focus-in-2026-Budget/56-780554) · `en`
-
-Urges officials to ensure allocations channelled towards improving rural living standards
-
-Says enable communities to become direct contributors to national economy
-
-President Anura Kumara Disanayake on Tuesday stressed the need for effective use of rural development funds and stronger social welfare measures during a review of projects implemented under the 2025 Budget allocations for the Rural Development, Social Security and Community Empowerment Ministry. The meeting, held at the Presidential Secretariat, also initiated discussions on proposals for the 2026 Budget.
-
-The President urged officials to ensure that allocations are channelled towards improving rural living standards in ways that allow communities to become direct contributors to the national economy. “When funds flow into villages in a structured and meaningful manner, rural economies can be rapidly strengthened,” he noted.
-
-...
-
-[Data](articles/b8598bc1.json)
-
----
-
-### Representatives of Young South Asian Leaders Initiative meet with Speaker
-
-*2025-08-21 04:40:23* · [`dailyftlk`](https://www.ft.lk/news/Representatives-of-Young-South-Asian-Leaders-Initiative-meet-with-Speaker/56-780553) · `en`
-
-A group of representatives of the Young South Asian Leaders Initiative (YSALI) visited the Parliament of Sri Lanka on Tuesday. The delegation, comprising 80 young delegates from Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka, is participating in the Young South Asian Leaders Regional Workshop being held in Colombo from 17-21 August.
-
-During their parliamentary visit, the delegation met with the Speaker of the Parliament Dr. Jagath Wickramaratne. Speaker explained the functioning of the Parliament of Sri Lanka as well as the importance of the contribution of the young generation of Sri Lanka towards the current socio-political transformation taking place in the country.
-
-He further stated that the present youth generation, which has emerged through the inheritance of technology, bears a unique responsibility to create a better world, and that these young delegates, as the young community of South Asia, have the responsibility of providing leadership in this regard.
-
-...
-
-[Data](articles/6c0f3563.json)
-
----
-
-### Cabinet approves Rs. 86 m renovation of Modara Fisheries cool rooms
-
-*2025-08-21 04:37:51* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-Rs-86-m-renovation-of-Modara-Fisheries-cool-rooms/56-780552) · `en`
-
-The Cabinet of Ministers on Monday approved the completion of renovation works on the Modara freezer and cool room facility, one of the largest in South Asia, by utilising funds already allocated to the Fisheries, Aquatic and Ocean Resources Ministry under the 2025 Budget.
-
-Announcing the decision at the weekly post-Cabinet media briefing on Tuesday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said the renovation project has been estimated at Rs. 86 million.
-
-The Modara facility, owned by the Ceylon Fisheries Corporation, has long been recognised as a strategic national asset for fish storage and preservation. However, Dr. Jayatissa acknowledged that the cool rooms had fallen into disrepair due to weak maintenance and management lapses.
-
-“Plans have now been drawn to renovate and restore two of the cool rooms, with storage capacities of 200 tons and 2.5 tons respectively,” he said.
-
-...
-
-[Data](articles/05b08018.json)
 
 ---

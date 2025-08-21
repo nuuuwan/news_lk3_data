@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 05:18:06**
+As of **2025-08-21 05:31:56**
 
 ## Newspaper Stats
 
-*Scraped **71,454** Articles*
+*Scraped **71,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 730
-economynextcom | 4,370
+economynextcom | 4,372
 islandlk | 4,389
 dailymirrorlk | 4,733
-dailyftlk | 5,041
+dailyftlk | 5,045
 adalk | 6,873
 adaderanalk | 8,998
 tamilmirrorlk | 10,508
@@ -26,11 +26,91 @@ adaderanasinhalalk | 12,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,454 articles have been extended.
+61,973 (86.7%) of 71,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### President pushes primary healthcare, procurement reform in pre-Budget review
+
+*2025-08-21 05:13:10* · [`dailyftlk`](https://www.ft.lk/news/President-pushes-primary-healthcare-procurement-reform-in-pre-Budget-review/56-780561) · `en`
+
+Reviews progress of projects funded under 2025 Budgetary allocations to Health and Mass Media Ministry
+
+Highlights new National Health Policy and Strategic Plan will be launched next year
+
+Calls for urgent improvements in procurement of medical equipment and medicines
+
+Directs officials to expedite acquisition of essential vehicles for critical services within 2025
+
+Aims to expand “Suwa Seriya” ambulance service to 400 new locations
+
+Opines State media responsible for shaping public attitudes, directs to prepare dedicated financial plan to strengthen this role
+
+Discusses modernising Postal Service into hybrid courier and digital service
+
+President Anura Kumara Disanayake on Tuesday underscored sweeping reforms in the country’s health and mass media sectors, directing officials to prioritise primary healthcare expansion, procurement efficiency, and institutional modernisation in the 2026 Budget.
+
+...
+
+[Data](articles/90447919.json)
+
+---
+
+### ‘It’s About Time’ Travelling History Museum opens in Colombo
+
+*2025-08-21 05:10:29* · [`dailyftlk`](https://www.ft.lk/news/It-s-About-Time-Travelling-History-Museum-opens-in-Colombo/56-780560) · `en`
+
+School students engaging with the interactive exhibits at the ‘It’s About Time’ Travelling History Museum
+
+Visitors and distinguished guests at the official opening of the ‘It’s About Time’ Travelling History Museum at the Colombo Public Library
+
+The ‘It’s About Time’ Travelling History Museum opened its doors to the public on Tuesday at the Colombo Public Library, a joint statement by the European Union Delegation to Sri Lanka and the Maldives and the German Embassy said.
+
+Since its inception in February 2019, the museum has visited 11 towns across 10 districts and seven provinces, including Jaffna, Kandy, Kurunegala, Badulla, Batticaloa, Mannar, and Galle. Drawing on feedback from more than 52,000 visitors, it has been reconceptualised for a renewed visitor experience. The updated iteration will be open to the public for the first time in Colombo from 19 to 23 August, from 8:30 a.m. to 5:30 p.m. daily.
+
+...
+
+[Data](articles/715a04ce.json)
+
+---
+
+### CID arrests ex-IGP Deshabandu
+
+*2025-08-21 05:08:06* · [`dailyftlk`](https://www.ft.lk/news/CID-arrests-ex-IGP-Deshabandu/56-780559) · `en`
+
+Former Inspector General of Police (IGP) Deshabandu Thennakoon was arrested yesterday by the Criminal Investigation Department (CID) in connection with the violent crackdown on peaceful protesters at Galle Face Green during the 2022 Aragalaya movement.
+
+The arrest follows the decision by the Attorney General to name Thennakoon as a suspect in the case, which relates to the assault on peaceful demonstrators.
+
+Prior to his arrest, Thennakoon had filed an anticipatory bail application before the Fort Magistrate’s Court, citing concerns over a possible arrest. However, the Court rejected the application.
+
+On 5 August, Parliament passed a resolution to remove Thennakoon from his post as IGP, with 177 MPs voting in favour and none against. One MP abstained. This was the first time Parliament had voted to remove a sitting IGP.
+
+◼️
+
+[Data](articles/887733d4.json)
+
+---
+
+### Court issues notice to Rajitha to appear on 29 August
+
+*2025-08-21 05:03:37* · [`dailyftlk`](https://www.ft.lk/news/Court-issues-notice-to-Rajitha-to-appear-on-29-August/56-780558) · `en`
+
+The Colombo Chief Magistrate’s Court yesterday issued a formal notice to former Minister Rajitha Senaratne, instructing him to appear before the Court on 29 August in connection with a case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The notice was issued by Chief Magistrate Tanuja Lakmali Jayatunga, under Section 60(1) of the Code of Criminal Procedure, following a review of the complaint submitted by the Bribery Commission.
+
+On Tuesday, the Colombo Chief Magistrate rejected a request made by the former Minister to temporarily suspend the arrest warrant issued against him.
+
+The warrant was issued on 12 August by Additional Magistrate Pasan Amarasinghe, in connection with an investigation into a sand mining project at the Kirinda Fisheries Harbour, allegedly awarded to a Korean company, resulting in a loss exceeding Rs. 20 million to the Government.
+
+◼️
+
+[Data](articles/3b4cee27.json)
+
+---
 
 ### President calls for stronger rural development, social security focus in 2026 Budget
 
@@ -428,6 +508,26 @@ She expressed delight at the continuous strengthening of bilateral relations ove
 
 ---
 
+### Sri Lanka dedicated to deeper economic and cultural links with Vietnam: Foreign Minister
+
+*2025-08-20 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-dedicated-to-deeper-economic-and-cultural-links-with-vietnam-foreign-minister-237522/) · `en`
+
+ECONOMYNEXT – Sri Lanka is dedicated to deepening ties with Vietnam Foreign Minister Vijitha Herath said, as the two countries marked 55 years of diplomatic relations in 2025.
+
+A recent visit by President Anura Kumara Dissanayake to Vietnam has paved the way for a new chapter in the partnership between the two countries, he said.
+
+“It is our hope that the dialogue on cooperation in trade, investment, renewable energy, agriculture and education that was initiated during these talks will bring about a host of mutual benefits and progress in diverse fronts to both our countries,” Minister Herath said.
+
+“Sri Lanka is dedicated to deepening trade, investment, and tourism ties with Viet Nam.
+
+“Sri Lankan investments in Viet Nam totals to a registered capital of more than 43 million dollars, particularly in the apparel sector, and we encourage further collaboration, including government-to-government investments and private-sector partnerships.”
+
+...
+
+[Data](articles/9d0d6e47.json)
+
+---
+
 ### உப்பு விலை குறைந்தது
 
 *2025-08-20 19:59:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உப்பு-விலை-குறைந்தது/175-363163) · `ta`
@@ -719,6 +819,24 @@ In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colo
 ◼️
 
 [Data](articles/0e8f3a06.json)
+
+---
+
+### Sri Lanka’s Maharaja Foods merges marketing, supermarket units
+
+*2025-08-20 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-maharaja-foods-merges-marketing-supermarket-units-237511/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Maharaja Foods will amalgamate its wholly owned subsidiaries Maharaja Marketing (Private) Limited and Maharaja Supermarket (Private) Limited from September, it said in a stock exchange filing.
+
+The company was founded by a family from Sri Lanka’s north produces processed ethnic foods, the bulk of which is exported to countries with South Asian expat communities.
+
+The company is part of GTV group which has logistics and a retailing. The group has been headed by Thavamalar Guganathan from 2016 when her husband who founded the firm passed away.
+
+In May, Senthilverl Holdings increased its shareholding in Maharaja Foods. (Colombo/Aug20/2025)
+
+◼️
+
+[Data](articles/70e27d35.json)
 
 ---
 
@@ -1679,101 +1797,5 @@ Colombo Chief Magistrate Thanuja Lakmali issued the notice under Section 60(1) o
 ...
 
 [Data](articles/1a05e635.json)
-
----
-
-### Ishan Sanka Mapitigama elected Basnayake Nilame of Sabaragamuwa Maha Saman Devalaya
-
-*2025-08-20 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111676/ishan-sanka-mapitigama-elected-as-basnayake-nilame-of-sabaragamuwa-maha-saman-devalaya-) · `en`
-
-Ishan Sanka Mapitigama has been elected as the Basnayake Nilame of the Sabaragamuwa Maha Saman Devalaya.
-
-He was elected as the Chief Custodian during a vote held at the Ratnapura District Secretariat today (20).
-
-◼️
-
-[Data](articles/d6f2bce1.json)
-
----
-
-### Ishan Sanka Mapitigama elected Basnayake Nilame of Sabaragamuwa Maha Saman Devalaya
-
-*2025-08-20 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111676/ishan-sanka-mapitigama-elected-basnayake-nilame-of-sabaragamuwa-maha-saman-devalaya) · `en`
-
-Ishan Sanka Mapitigama has been elected as the Basnayake Nilame of the Sabaragamuwa Maha Saman Devalaya.
-
-He was elected as the Chief Custodian during a vote held at the Ratnapura District Secretariat today (20).
-
-◼️
-
-[Data](articles/fb49b018.json)
-
----
-
-### සබරගමුව මහ සමන් දේවාලයේ බස්නායක නිළමේ පත් කෙරේ
-
-*2025-08-20 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213580) · `si`
-
-ඓතිහාසික සබරගමුව මහ සමන් දේවාලයේ බස්නායක නිළමේවරයා ලෙස ඉෂාන් සංඛ මාපිටිගම මහතා තේරී පත්ව තිබේ.
-
-ඒ අද (20) රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලයේ බෞද්ධ කටයුතු කොමසාරිස් ආර්. එම්. ජී. සේනාරත්න මහතාගේ ප්‍රධානත්වයෙන් පැවති ඡන්ද විමසීමේ දීය.
-
-එහිදී නිලවරණය සඳහා අපේක්ෂකයින් 20 දෙනෙකු පමණ තරග වැදුණු අතර, ඉෂාන් සංඛ මාපිටිගම මහතා සහ ජයසිංහ බණ්ඩාර මහතා අතර පැවති තරගයෙන් ඡන්ද 6ක් හිමිකර ගනිමින් ඉෂාන් සංඛ මහතා තේරී පත්වුණි.
-
-සබරගමුව මහ සමන් දේවාලයේ බස්නායක නිළමේ තනතුරට තරුණයෙකු පත්වූ පළමු අවස්ථාව මෙය වේ.
-
-◼️
-
-[Data](articles/c2127cc9.json)
-
----
-
-### யாழ். பாடசாலைக்கு விசேட விடுமுறை
-
-*2025-08-20 14:41:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பாடசாலைக்கு-விசேட-விடுமுறை/175-363131) · `ta`
-
-வரலாற்று சிறப்பு மிக்க யாழ்ப்பாணம் நல்லூர் கந்தசாமி ஆலய தேர்த்திருவிழாவை முன்னிட்டு பாடசாலை மாணவர்கள் ஆசிரியர்களும் குறித்த நிகழ்வில் பங்குபெற வேண்டும் எனும் நோக்கில் யாழ் மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறை நாளை வியாழக்கிழமை (21) அன்று வழங்கவேண்டும் என பாராளுமன்ற உறுப்பினர்களான  ப.பத்மநாதன் சத்தியலிங்கம் மற்றும் ரஜீவன் ஜெயச்சந்திரமூர்த்தி ஆகியோர் புதன்கிழமை (20) அன்று  பிரதமர் ஹரிணி அமரசூரியவை  நேரில் சந்தித்து கோரிக்கை விடுத்தனர்.
-
-இதன் பிரகாரம், உடனடியாக கல்வி அமைச்சின் செயலாளருக்கு நாளைய தினம் யாழ்ப்பாண மாவட்ட பாடசாலைகளுக்கு விசேட விடுமுறையினை அறிவிக்குமாறு பிரதமர் பணித்திருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/b315436c.json)
-
----
-
-### Lanka Salt Company reduces prices
-
-*2025-08-20 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111675/lanka-salt-company-reduces-prices-) · `en`
-
-The Lanka Salt Limited has announced a reduction in the prices of its iodized salt products.
-
-The Chairman of the company, Nandana Thilaka made this statement during a press conference held today.
-
-According to the announcement, the price of a 400-gram packet of iodized salt powder has been reduced by Rs. 20, while the price of a 1-kilogram packet has been lowered by Rs. 30.
-
-Accordingly, from next week, a 400g packet of salt powder will be sold at Rs. 100, a 1kg packet of salt powder at Rs. 200, and a 1kg packet of crystal salt at Rs. 150.
-
-Additionally, the Chairman noted that a 400g packet of salt powder produced by the company will also be available at Sathosa outlets for Rs. 90.
-
-He further explained that the price reduction was implemented to provide relief to the public.
-
-◼️
-
-[Data](articles/6f8ee492.json)
-
----
-
-### சிங்கப்பூர் சிவில் சேவை கல்லூரிக்கு சஜித் பிரேமதாச விஜயம்
-
-*2025-08-20 14:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிங்கப்பூர்-சிவில்-சேவை-கல்லூரிக்கு-சஜித்-பிரேமதாச-விஜயம்/175-363129) · `ta`
-
-அரச ஊழியர்களின் பயிற்சி தொடர்பில் ஆராயும் நோக்கில், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, பொதுச் சேவைத் துறை ஊழியர்களின் பயிற்சி மற்றும் திறன் மேம்பாட்டிற்காக அர்ப்பணிப்போடு செயல்பட்டு வரும் முன்னணி நிறுவனமான சிங்கப்பூர் சிவில் சேவைக் கல்லூரிக்கு (Civil Service College, Singapore) புதன்கிழமை (20)  விஜயம் செய்தார்.
-
-இவ்விஜயத்தில், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுடன் Christopher Joachim pragasm (Director - International Relations) மற்றும் Tan Chuan Tat Daniel (Assistant Director - Civil Service College International) ஆகியோர் பங்கேற்றிருந்தனர்.
-
-...
-
-[Data](articles/70806441.json)
 
 ---

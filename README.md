@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 16:07:32**
+As of **2025-08-21 16:21:50**
 
 ## Newspaper Stats
 
-*Scraped **71,565** Articles*
+*Scraped **71,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,374
 islandlk | 4,402
 dailymirrorlk | 4,733
 dailyftlk | 5,045
-adalk | 6,884
+adalk | 6,886
 adaderanalk | 9,020
 tamilmirrorlk | 10,534
 virakesarilk | 11,826
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.6%) of 71,565 articles have been extended.
+61,973 (86.6%) of 71,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### මහවැලියේ ජීප් රියකින් මුව මස් ඇද්ද ඉංජිනේරුවෙක් ඇතුළු තිදෙනෙක් අත්අඩංගුවට
+
+*2025-08-21 15:52:01* · [`adalk`](https://www.ada.lk/breaking_news/මහවැලියේ-ජීප්-රියකින්-මුව-මස්-ඇද්ද-ඉංජිනේරුවෙක්-ඇතුළු-තිදෙනෙක්-අත්අඩංගුවට/11-417997) · `si`
+
+ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත්, මහවැලි බි කලාපීය නේවාසික ව්‍යාපාර කළමනාකරණ කාර්යාලයට අනුයුක්ත ජිප් රථයකින් මුව මස් කිලෝ පහළොවක් මාදුරුඔය සිට අරලගංවිල දෙසට ප්‍රවාහනය කරමින් සිටියදී, 21 වෙනිදා සවස ශ්‍රී ලංකා මහවැලි අධිකාරීයේ ඉංජිනේරුවරයකු සහ රියදුරන් දෙදෙනකු අත්අඩංගුවට ගත් බව අරලගංවිල පොලිසිය කියයි.
+
+අරලගංවිල පොලිස් විශේෂ කාර්යාංශයට ලද තොරතුරක් අනුව මෙලෙස මස් කිලෝ 15 සහ ඒවා ප්‍රවාහනය කිරීමට යොදාගත් මහවැලි ජිප් රථය සහ තියුණු ආයුධයක් ද තිබී පිහියද අත්අඩංගුවට ගෙන ඇති බව අරලගංවිල පොලිසිය සඳහන් කරයි.
+
+අත්අඩංගුවට ගත් ඉංජිනේරුවරයා සහ රියදුරන් දෙදෙනා අලවාකුඹුර ඉංජිනේරු කාර්යාලයට අනුයුක්තව සේවය කරන සේවකයින් බවද පරීක්ෂණ සිදු කරන පොලිසිය පවසයි.
+
+ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් මෙම ජීප් රථයෙන් දිගු කලක සිට මුවමස් ජාවාරම සිදු කරගෙන ඇත්ද යන්න ගොස්   පරීක්ෂණ සිදු කරන බවත්, අත්අඩංගුවට ගත් සැකකරුවන් 22 වෙනිදා පොළොන්නරුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට කටයුතු කරන බවද, අරලගංවිල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉඳුනිල් හේමපාල මහතා අප කළ විමසීමකදී පැවසීය.
+
+◼️
+
+[Data](articles/d854e0f9.json)
+
+---
 
 ### රුසියාවෙන් යුක්‍රේනයට නව ප්‍රහාර මාලාවක්
 
@@ -126,7 +144,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-21 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213618) · `si`
 
-නොතීසි නිකුත් කර ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා තවමත් සොයා ගැනීමට නොහැකි වීම හේතුවෙන් අද (21) අධිකරණ නිලධාරීන් විසින් ඔහුගේ මාලඹේ පිහිටි නිවසට ගොස් දැන්වීම් අලවනු ලැබීය.
+නොතීසි නිකුත් කර ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා තවමත් සොයා ගැනීමට නොහැකි වීම හේතුවෙන් අද (21) නිලධාරීන් විසින් ඔහුගේ මාලඹේ පිහිටි නිවසට ගොස් දැන්වීම් අලවනු ලැබීය.
 
 කිරින්ද ධීවර වරායේ වැලි ඉවත්කිරීමේ ව්‍යාපෘතියක් අවිධිමත්ව සිදුකිරීමෙන් රජයට රුපියල් ලක්ෂ 262ක පාඩුවක් සිදුකිරීම සම්බන්ධයෙන් වූ නඩුවට අදාළව මෝසමක් මගින් අල්ලස් කොමිසම කළ කරුණු දැක්වීම සලකා බැලීමෙන් අනතුරු ඔහුට නොතීසි නිකුත් කෙරුණි.
 
@@ -483,6 +501,26 @@ Police further stated that, based on information obtained from the suspect, a 9m
 ◼️
 
 [Data](articles/cd2e4f02.json)
+
+---
+
+### අජිත් ප්‍රසන්නට පහරදුන් බවට වූ නඩුවෙන් හේෂා නිදහස්
+
+*2025-08-21 13:05:18* · [`adalk`](https://www.ada.lk/breaking_news/අජිත්-ප්‍රසන්නට-පහරදුන්-බවට-වූ-නඩුවෙන්-හේෂා-නිදහස්/11-417996) · `si`
+
+අරලිය ගහ මන්දිරය ඉදිරිපිටදී විශ්‍රාමික මේජර් නිතිඥ අජිත් ප්‍රසන්න මහතාට පහරදුන් බවට චෝදනා කරමින් පවරා තිබූ නඩුවෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී හේෂා විතානගේ මහතා නිදහස් කිරීමට කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය අද (21) නියෝග කළාය.
+
+නඩුව පවත්වාගෙන යෑම සම්බන්ධයෙන් පැමිණීලි පාර්ශවයට කිසිඳු උනන්දුවක් නැතැයි හේෂා විතානගේ මහතා නිදහස් කරමින් මහේස්ත්‍රාත්වරිය සඳහන් කළාය.
+
+නඩුවේ සැකකරුවකු වන හිටපු පාර්ලිමේන්තු මන්ත්‍රී පාලිත තෙවරප්පෙරුම මහතා මියගොස් ඇති බව මීට පෙර අවස්ථාවක අධිකරණයට දැනුම් දී තිබිණී.
+
+2019 වසරේ නොවැම්බර් පළමුවැනිදා හෝ ඊට ආසන්න දිනයක කොල්ලුපිටිය අරලියගහ මන්දිරය ඉදිරිපිටදී විශ්‍රාමික මේජර් නිතිඥ අජිත් ප්‍රසන්න මහතාට පහරදුන් බවට චෝදනා කරමින් විත්තිකරුවන්ට එරෙහිව කොල්ලුපිටිය පොලිසිය මෙම නඩුව පවරා තිබිණී”
+
+නඩුව කැඳවනු ලැබු අටස්ථාවේදී හේෂා විතානගේ මහතා අධිකරණයේ පෙනී සිටි අතර පැමිණීලිකාර විශ්‍රාමික මේජර් නිතිඥ අජිත් ප්‍රසන්න මහතා අධිකරණයේ පෙනී සිටියේ නැත.
+
+...
+
+[Data](articles/99d468c4.json)
 
 ---
 
@@ -1785,35 +1823,5 @@ Accordingly, the committee Chairman instructed the officials to submit a report 
 ...
 
 [Data](articles/d60dca4d.json)
-
----
-
-### Sahasdhanavi and LNG: Search for real costs in the midst of obfuscation
-
-*2025-08-21 03:55:10* · [`dailyftlk`](https://www.ft.lk/columns/Sahasdhanavi-and-LNG-Search-for-real-costs-in-the-midst-of-obfuscation/4-780543) · `en`
-
-Sahasdhanavi power plant has been in the news from April this year due to multiple controversies, from the infamous picture of Dr. Tilak Siyambalapitiya signing the Power Purchase Agreement (PPA) with Deputy Chairman Ravindra Pitigalage. It was soon revealed that Dr. Siyambalapitiya was also the Chairman of LTL Holdings, thus appeared to be in flagrant violation of the CIABOC Act of 2024 provisions on conflicts of interest.
-
-Soon it transpired that the cabinet approval for the PPA was obtained by showing a ridiculously low figure of Rs. 20.15/kWh, using historical rates for diesel, Natural Gas and exchange rate. PUCSL issued a clarification letter to the ministry, that changing these incorrect information would lead to Rs. 43.25/kWh and if LNG is not procured, the costs ballooning to Rs. 72/kWh.
-
-...
-
-[Data](articles/a9d1393a.json)
-
----
-
-### JETRO delegation calls on Colombo Dockyard
-
-*2025-08-21 03:50:18* · [`dailyftlk`](https://www.ft.lk/business/JETRO-delegation-calls-on-Colombo-Dockyard/34-780542) · `en`
-
-From left: Myanmar Koei Int’l Port Engineer Arkar Phyo, Colombo Dockyard Business Development Consultant Benny Fernando, Colombo Dockyard General Manager Finance/CFO Gihan Ravinatha, JETRO Director Shipbuilding Division Suzuki Shinya, Colombo Dockyard Managing Director/CEO Thimira Godakumbura, Myanmar Koei Int’l Managing Director Kazuhisa Iwami, Marine Civil Engineer Myanmar Koei Int’l Jue Mar Soe, Colombo Dockyard Head of Shipbuilding Marketing Prince Lye
-
-Colombo Dockyard PLC said it hosted a delegation yesterday from the Japan External Trade Organisation (JETRO), an agency operating under the Ministry of Economy, Trade and Industry of Japan.
-
-The delegation was received by Colombo Dockyard Managing Director/CEO Thimira Godakumbura, General Manager Finance/CFO Gihan Ravinatha, Business Development Consultant Benny Fernando and Head of Shipbuilding Marketing Prince Lye.
-
-...
-
-[Data](articles/9db671f9.json)
 
 ---

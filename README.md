@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-21 09:39:54**
+As of **2025-08-21 09:53:10**
 
 ## Newspaper Stats
 
-*Scraped **71,496** Articles*
+*Scraped **71,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adalk | 6,876
 adaderanalk | 9,004
 tamilmirrorlk | 10,513
 virakesarilk | 11,824
-adaderanasinhalalk | 12,349
+adaderanasinhalalk | 12,352
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.7%) of 71,496 articles have been extended.
+61,973 (86.7%) of 71,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-21 (Thursday)
+
+### පාර්ලිමේන්තු සභා වාරය ඇරඹේ
+
+*2025-08-21 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213603) · `si`
+
+අද (21) දිනට නියමිත පාර්ලිමේන්තු සභා වාරයේ කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/9c639822.json)
+
+---
+
+### කාදිනල් හිමියන් සහ කතෝලික රදගුරු සම්මේලනය ජනපති හමුවෙයි
+
+*2025-08-21 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213601) · `si`
+
+කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් හිමියන් සහ කතෝලික රදගුරු සම්මේලනය ජනාධිපති කාර්යාලයේදී ‌ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+
+වසරකට තෙවතාවක් පැවැත්වෙන කතෝලික රදගුරු සම්මේලනයේදී සාකච්ඡා වූ මූලික කරුණු පිළිබඳව මෙහිදී කාදිනල් හිමියන් විසින් ජනාධිපතිවරයා දැනුවත් කරන ලදී.
+
+එසේම, කතෝලික සභාවේදී මතුවූ අදහස් සහ යෝජනා පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානයට ලක් කෙරුණු බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+මෙම අවස්ථාවට ශ්‍රී ලංකා කතෝලික රදගුරු සම්මේලනයේ සභාපති හැරල්ඩ් ඇන්තනී පෙරේරා රදගුරුතුමා සහ එම සම්මේලනයේ සාමාජිකයෝද එක්වී තිබුණි.
+
+◼️
+
+[Data](articles/1bde610a.json)
+
+---
+
+### ත්‍රස්ත විරෝධී පනත් කෙටුම්පතේ වැඩ ළඟදීම අවසන් වෙන ලකුණු
+
+*2025-08-21 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213602) · `si`
+
+නව ත්‍රස්ත විරෝධී පනත් කෙටුම්පත නුදුරේදීම සකස් කර අවසන් කිරීමට හැකියාව පවතින බව ඒ සම්බන්ධයෙන් පත්කළ විද්වත් කමිටුව පවසයි.
+
+නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතිය යටතේ පත්කළ විද්වත් කමිටුව එහි සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතාගේ ප්‍රධානත්වයෙන් අධිකරණ අමාත්‍යාංශයේදී පසුගියදා රැස්වුණි.
+
+එහිදි පනතට ගෙන එනු ලබන සංශෝධන පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා කර තිබේ.
+
+සාකච්ඡාව සඳහා අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතිඥ, නෙරින් පුල්ලේ, ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති, අසංග කරවිට, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ අතිරේක ලේකම් පියමුන්ති පීරිස්, ඇතුළු උසස් නිලධාරීන් පිරිසක් සහභාගී වී ඇති බව වාර්තා වේ.
+
+නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් වු කමිටුව මේ වන විට 14  වතාවක් රැස්ව ඇති අතර එහි මීළඟ සාකච්ඡාව හෙට (22) දින රැස්වීමට නියමිතය.
+
+පනත් කෙටුම්පත් කිරීම සම්බන්ධයෙන් මහජන අදහස්, සිවිල් සංවිධාන අදහස් හා අන්තර්ජාතික ආයතන සහ ප්‍රජාවන්ගේ අදහස් ද ලබා ගැනීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/38b48b9f.json)
+
+---
 
 ### Govt. to launch ‘Seiri Week’ for disposing of unnecessary items accumulated in state institutions
 
@@ -1773,49 +1825,5 @@ In a groundbreaking move that redefines home connectivity, Dialog has launched a
 ◼️
 
 [Data](articles/0359eb67.json)
-
----
-
-### Price of Palestinian resistance
-
-*2025-08-20 16:10:50* · [`dailyftlk`](https://www.ft.lk/columns/Price-of-Palestinian-resistance/4-780497) · `en`
-
-Anas Jamal al-Sharif, son of Gaza, child of the Jabaliya refugee camp, father of Sham and Salah, was killed last week in a targeted strike by Israel
-
-The industrial machinery unleashed on the Palestinians in the Gaza strip by Israel and the West have harvested 60,000 lives so far. This official number is dwarfed by the estimates of the bodies entombed under the field of rubble that Gaza has been transformed into. As many as half a million Palestinians appear to be missing, apparently “spirited away” to some other realm, as Theodor Herzl, the founder of Zionism, envisioned. The method this time around might not be exactly what he had in mind, but the effect is undeniably the same.
-
-...
-
-[Data](articles/370fde80.json)
-
----
-
-### Making sense of Curricular Reforms 2025
-
-*2025-08-20 16:06:15* · [`dailyftlk`](https://www.ft.lk/columns/Making-sense-of-Curricular-Reforms-2025/4-780495) · `en`
-
-At first glance the new content seems heavier and more complex. Do the drafters have any idea of how schools manage?
-
-The Ministry of Education, Higher Education, and Vocational Education (MoE) has unveiled what they call a major reform agenda to reshape the future of Sri Lankan education, titled Transform Education: Transform Sri Lanka, in the Parliament of Sri Lanka on 11 July 2025.
-
-The reform agenda has been presented as a PowerPoint and a PowerPoint only, a first for such an important reform agenda in the history of Parliament, if I am not mistaken. Whatever the format, we should be grateful to the present Government and the Minister for Education for giving leadership at this time to a stalled curricular reform process.
-
-...
-
-[Data](articles/c528f981.json)
-
----
-
-### සබරගමු සමන් දේවාලයේ නව බස්නායක නිලමේ ඉෂාන් සංඛ මාපිටිගම
-
-*2025-08-20 16:02:30* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමු-සමන්-දේවාලයේ-නව-බස්නායක-නිලමේ-ඉෂාන්-සංඛ-මාපිටිගම/11-417975) · `si`
-
-රත්නපුර ඓතිහාසික මහ සමන් දේවාලයේ බස්නායක නිළමේ තනතුර සඳහා අද 20 පැවති නිළවරණයෙන් ඉෂාන් සංඛ මාපිටිගම මහතා තේරී පත්විය.
-
-තේරී පත්වීමෙන් අනතුරුව අද  දහවල් මහා සමන් දේවාලයම වෙත පැමිණ සමන් දෙවිඳුන්ගේ ආශිර්වාද ලබාගැනීමට කටයුතු කළේය.
-
-◼️
-
-[Data](articles/f38f0cf6.json)
 
 ---

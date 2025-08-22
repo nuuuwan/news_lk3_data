@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 23:06:58**
+As of **2025-08-22 23:19:31**
 
 ## Newspaper Stats
 
-*Scraped **71,830** Articles*
+*Scraped **71,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,908
 adaderanalk | 9,064
 tamilmirrorlk | 10,601
 virakesarilk | 11,853
-adaderanasinhalalk | 12,422
+adaderanasinhalalk | 12,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,830 articles have been extended.
+61,973 (86.3%) of 71,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### හිටපු ජනපති රනිල් වැලිකඩ බන්ධනාගාරය වෙත රැගෙන එයි
+
+*2025-08-22 23:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213680) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතාව මේ වන විට වැලිකඩ බන්ධනාගාරය වෙත රැගෙන විත් තිබේ.
+
+හිටපු ජනාධිපතිවරයාව දැඩි ආරක්ෂක රැකවල් මධ්‍යයේ බන්ධනාගාර බස් රියකින් වැලිකඩ බන්ධනාගාරය වෙත රැගෙන එනු දක්නට ලැබිණි.
+
+◼️
+
+[Data](articles/2f99d03b.json)
+
+---
 
 ### யூடியூப்பர் மீது முறைப்பாடு
 
@@ -1751,25 +1765,5 @@ He further emphasized that, although the PTA is still being applied to a limited
 ◼️
 
 [Data](articles/067a69a2.json)
-
----
-
-### Israel’s defense minister warns Gaza City could be destroyed
-
-*2025-08-22 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111739/israels-defense-minister-warns-gaza-city-could-be-destroyed) · `en`
-
-Israel’s defense minister warned on Friday that Gaza City could be destroyed unless Hamas accepts Israel’s terms, as the country prepares for an expanded offensive in the area.
-
-A day after Prime Minister Benjamin Netanyahu said he would authorize the military to seize Gaza City, Defense Minister Israel Katz warned that the enclave’s largest city could “turn into Rafah and Beit Hanoun,” areas reduced to rubble earlier in the war.
-
-“The gates of hell will soon open on the heads of Hamas’ murderers and rapists in Gaza – until they agree to Israel’s conditions for ending the war,” Katz wrote in a post on X.
-
-He restated Israel’s ceasefire demands: the release of all hostages and Hamas’ complete disarmament.
-
-Hamas has said it would release captives in exchange for ending the war, but rejects disarmament without the creation of a Palestinian state.
-
-◼️
-
-[Data](articles/f0b94c5d.json)
 
 ---

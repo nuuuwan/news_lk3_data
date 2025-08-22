@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 14:22:50**
+As of **2025-08-22 14:34:29**
 
 ## Newspaper Stats
 
-*Scraped **71,734** Articles*
+*Scraped **71,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,388
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,901
-adaderanalk | 9,051
+adalk | 6,903
+adaderanalk | 9,053
 tamilmirrorlk | 10,566
 virakesarilk | 11,846
 adaderanasinhalalk | 12,399
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,399
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,734 articles have been extended.
+61,973 (86.4%) of 71,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,15 +34,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது
 
-*2025-08-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/223100) · `ta`
+*2025-08-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/223100) · `ta`
 
 முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 22) கைது செய்யப்பட்டுள்ளார்.
 
-லண்டனுக்கு அவர் மேற்கொண்ட உத்தியோகபூர்வ பயணம் தொடர்பாக வாக்குமூலம் அளிப்பதற்காக நிதி குற்றப் புலனாய்வுப் பிரிவுக்கு (FCID) சென்றிருந்த நிலையில் இந்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+ரணில் விக்ரமசிங்க ஜனாதிபதியாக இருந்தபோது, அவரது மனைவி பேராசிரியர் மைத்ரி விக்ரமசிங்கவின் பட்டமளிப்பு விழாவில் கலந்துகொள்வதற்காக லண்டனுக்கு தனிப்பட்ட விஜயம் செய்வதற்காக அரச நிதியை தவறாகப் பயன்படுத்திய குற்றச்சாட்டிலேயே குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட ரணில் விக்ரமசிங்கவை கோட்டை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/7f1f1eb0.json)
+
+---
+
+### හිටපු ජනපති රනිල් CID අත්අඩංගුවට
+
+*2025-08-22 14:13:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-CID-අත්අඩංගුවට/11-418016) · `si`
+
+හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අත්අඩංගුව ගෙන තිබේ. ඒ මහතා ප්‍රකාශයක් ලබාදීම සඳහා අද (22දා) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණියේය. හිටපු ජනපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව මෙය වෙයි.
+
+රනිල් වික්‍රමසිංහ මහතා ජනපතිධුරය දරණ සමයේදී නිව්යෝක් නුවර නිල සංචාරයකට ගොස් ආපසු එමින් සිටියදී එංගලන්තයේ පැවැති උපාධි ප්‍රදානෝත්සවයකට සිය බිරිඳ සමග ඒක්වී රජයේ මුදල් අවභාවිත කර ඇති බවට වූ විමර්ශනයකට අදාළව මෙම අත්අඩංගුවට ගැනිම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/7cd98d4f.json)
 
 ---
 
@@ -63,6 +79,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/45da21bf.json)
+
+---
+
+### Former President Ranil Wickremesinghe arrested
+
+*2025-08-22 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111741/former-president-ranil-wickremesinghe-arrested-) · `en`
+
+Former President Ranil Wickremesinghe has been arrested by the Criminal Investigation Department (CID).
+
+He was arrested after arriving at the CID to record a statement today in connection with an ongoing investigation.
+
+Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President, allegedly using state funds.
+
+Meanwhile, it is reported former President Wickremesinghe is to be produced before the Fort Magistrate’s Court in a short while.
+
+The CID had earlier presented evidence related to the case before the Fort Magistrate’s Court on June 24.
+
+Statements were subsequently recorded from Sandra Perera, who served as the former President’s private secretary, and from former Presidential Secretary Saman Ekanayake.
+
+...
+
+[Data](articles/ddbb23b7.json)
 
 ---
 
@@ -111,6 +149,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eecb3265.json)
+
+---
+
+### Draft bill to repeal PTA to be gazetted next month - Foreign Minister
+
+*2025-08-22 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111740/draft-bill-to-repeal-pta-to-be-gazetted-next-month-foreign-minister) · `en`
+
+Sri Lanka’s Foreign Minister Vijitha Herath informed Parliament today (22) that the draft bill to repeal the controversial Prevention of Terrorism Act (PTA) will be published in the Government Gazette in the beginning of September.
+
+“We will make the necessary amendments and finalize them before the end of this month, after which the gazette notification to repeal the Prevention of Terrorism Act will be published in early September,” the Minister stated.
+
+He further emphasized that, although the PTA is still being applied to a limited extent in the country, it is not being used to target any ethnic or religious communities.
+
+“It is currently used to combat organized crime and underworld activities. The majority of those arrested under the PTA are not Tamils or Muslims, but Sinhalese individuals involved in drug-related and underworld crimes,” he clarified.
+
+...
+
+[Data](articles/a25a0205.json)
 
 ---
 
@@ -163,6 +219,22 @@ Hamas has said it would release captives in exchange for ending the war, but rej
 ◼️
 
 [Data](articles/f0b94c5d.json)
+
+---
+
+### සෞඛ්‍යයට ඉහළ වටිනාකමකින් යුත් උපකරණ මිලදී ගැනීම අඩු කරනවා
+
+*2025-08-22 12:47:25* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයට-ඉහළ-වටිනාකමකින්-යුත්-උපකරණ-මිලදී-ගැනීම-අඩු-කරනවා/11-418014) · `si`
+
+සෞඛ්‍ය පද්ධතිය සඳහා ඇතැම් ඉහළ වටිනාකමකින් යුත් උපකරණ මිල දී ගැනීම අඩු කර මූල්‍යමය අතින් ලාභදායි නව වැඩපිළිවෙලක් ලබන වසරේ සිට ආරම්භ කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා අවධාරණය කරයි.
+
+වයඹ පළාතේ තෘතියික සත්කාර සේවා සපයනු ලබන ප්‍රධාන රෝහල වන කුරුණෑගල ශික්ෂණ රෝහලේ භෞතික සම්පත් සවර්ධනය සඳහා ලබාදුන් මූල්‍ය ප්‍රතිපාදන සහ දැනට ක්‍රියාත්මකවන ව්‍යාපෘතීන්ට අදාළ ප්‍රගතිය පිළිබඳව කරුණු සොයා බැලීම සඳහා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා  පසුගියදා කටයුතු කරන ලදි.
+
+ඒ අනුව කුරුණෑගල ශික්ෂණ රෝහල පැමිණි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා  ඇතුළු සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ නිලධාරින් පළමුව රෝහල් අධ්‍යක්ෂ වෛද්‍ය වයි.එම්.එම් ප්‍රියංගණී මහත්මිය ඇතුළු රෝහලේ පාලනාධිකාරිය සමග රෝහල් සංවර්ධනයට අදාළ කරුණු සාකච්ඡා කරන ලද අතර, අනතුරුව විශේෂඥ, වෛද්‍ය, වෛද්‍ය, හෙද ඇතුළු කාර්ය මණ්ඩලය සමග රෝහලේ දැනට පවතින ගැටළු පිළිබඳව සහ සේවක අදහස් හා යෝජනා විමසීම සඳහා විශේෂ සාකච්ඡාවක් ද පවත්වන ලදි. එහිදී සෞඛ්‍ය ලේකම්වරයා මෙම කරුණු අනාවරණය කරන ලදි.
+
+...
+
+[Data](articles/d12d3e67.json)
 
 ---
 
@@ -1685,85 +1757,5 @@ Hayleys Mobility introduces structure, scale and assurance, delivering premium E
 ...
 
 [Data](articles/a0df1a87.json)
-
----
-
-### PM wants schools sports culture to prioritize physical and mental well-being of students
-
-*2025-08-21 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111726/pm-wants-schools-sports-culture-to-prioritize-physical-and-mental-well-being-of-students) · `en`
-
-A discussion has been held to deliberate proposals to promote school sports and resolving existing issues with the Ministries of Education and Sports.
-
-The meeting in this regard was held between officials of the Ministry of Education and the Ministry of Sports and Youth Affairs and Minister of Education, Higher Education, and Vocational Education, Prime Minister Dr. Harini Amarasuriya, today (21) at the Parliamentary Complex.
-
-During the discussion, attention was drawn to the need for building a stronger collaboration between the Ministry of Education and the Ministry of Sports in order to address prevailing issues related to school sports as well as licensing issues faced by sports associations, challenges faced by sports coaches, and the development of sports schools.
-
-The Prime Minister has emphasized the importance of ensuring equal opportunities for every student to participate in sports.
-
-...
-
-[Data](articles/4e0ff80b.json)
-
----
-
-### அம்மான்னா சும்மா இல்லடா: நெகிழ வைக்கும் வீடியோ..!
-
-*2025-08-21 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223057) · `ta`
-
-உலகத்துல, தாய்ப்பாசத்தை அடிச்சுக்க எந்த ஒரு உயிரினமும் சளைச்சதில்லை. அது, மனிதனானாலும் சரி, விலங்கானாலும் சரி, பறவையானாலும் சரி.
-
-தனது பிள்ளையின் உயிருக்கு ஆபத்துனு வரும்போது, எதிரில் இருப்பது எவ்வளவு கொடிய உயிரினமாக இருந்தாலும் அதை எதிர்த்து போராடும்.
-
-அப்படித்தான், கோழி ஒன்று தனது குஞ்சுகளை காப்பாற்ற, கொடிய விஷம் கொண்ட பாம்புடன் போராடிக் கொண்டிருக்கிறது.
-
-◼️
-
-[Data](articles/4a60b0dd.json)
-
----
-
-### ඉන්දු - පාකිස්තාන ක්‍රිකට් ගැන ඉන්දියාවෙන් පැහැදිලි කිරීමක්
-
-*2025-08-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213634) · `si`
-
-ඉන්දියාව හා පාකිස්තානය අතර ඇතිව තිබෙන දේශපාලන මතගැටුම් හේතුවෙන් දෙරට අතර ක්‍රිකට් තරග ක්‍රීඩාකිරීමට ඇති හැකියාව සම්බන්ධයෙන් ඉන්දීය රජය සිය ස්ථාවරය පැහැදිලි කර තිබේ.
-
-ඒ අනුව පාකිස්තානය සමග කිසිදු ද්විපාර්ශ්වික ක්‍රිකට් තරගාවලියක් ක්‍රීඩාකිරීමට ඉන්දීය ක්‍රිකට් කණ්ඩායමට  සම්පූර්ණ තහනමක් පනවා ඇත.
-
-මේ හේතුවෙන් දෙරට තරග කිසිදු තරගාවලියකට ඉන්දියාව සත්කාරකත්වය නොදක්වන අතර, කිසිදු සංචාරයක් හෝ සිදුකිරීමට ද අවසර නොමැත.
-
-කෙසේ වෙතත් අයි. සී. සී. විසින් සංවිධානය කරන තරගාවලි මෙන්ම බහු පාර්ශ්වීය තරගාවලිවලදී පාකිස්තානය සමගින් ක්‍රීඩාකළ හැකි බව ඉන්දීය රජය සිය නිවේදනයෙන් දන්වා ඇත.
-
-ඒ අනුව එළැඹෙන සැප්තැම්බර් මාසයේ පැවැත්වෙන ආසියානු කුසලානයේ සහ ඔක්තෝබර් මාසයේ පැවැත්වෙන කාන්තා එක්දින ලෝක කුසලානයේ දී මෙම රටවල් දෙක එකිනෙකා සමගින් ක්‍රීඩාකරනු ඇත.
-
-◼️
-
-[Data](articles/0db59701.json)
-
----
-
-### நீங்க வெரி வெரி வொர்ஸ்ட் மு.க.ஸ்டாலின் அங்கிள்..!
-
-*2025-08-21 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/223056) · `ta`
-
-“எல்லோருக்கும் பொய்யான வாக்குறுதி கொடுத்து ஏமாற்றி இருக்கிறீர்கள். நீங்க வெரி வெரி வொர்ஸ்ட் மு.க.ஸ்டாலின் அங்கிள்” என, மதுரையில் நடந்த தவெக மாநாட்டில் விஜய் பேசினார்.
-
-மதுரை அருகே உள்ள பாரபத்தி கிராமத்தில் வியாழக்கிழமை (21) மாலை தமிழக வெற்றிக் கழகத்தின் 2வது மாநில மாநாடு நடந்தது.
-
-இதில் பேசிய அக்கட்சியின் தலைவர் விஜய், “ஒரு தவறு செய்தால் அதைத் தெரிந்து செய்தால் அது மு.க.ஸ்டாலின் அங்கிளாகவே இருந்தாலும் விடமாட்டோம்.
-
-ஸ்டாலின் அங்கிள், உங்ககிட்ட கேட்க சில கேள்விகள் இருக்கு, அதுக்கு பதில் சொல்லுங்க.
-
-உங்களுடைய ஆட்சியில் ஊழல் இல்லாம இருக்கா? சட்டம் ஒழுங்கு சரியா இருக்கா? பெண்களுக்கு பாதுகாப்பு இருக்கா?
-
-பொது மக்களுக்கு பாதுகாப்பு இருக்கா? இயற்கை வளங்களுக்கு பாதுகாப்பு இருக்கா? சொல்லுங்க மை டியர் அங்கிள்.
-
-டாஸ்மாக்ல மட்டுமே ஆயிரம் கோடிக்கு மேல் ஊழல். உலகிலேயே மிஸ்டர் கிளீன் ரெக்கார்டு உங்களுக்கும், உங்க கூட இருக்கிறவங்களுக்கு மட்டும்தான் கொடுக்கணும்.
-
-பெண்களுக்கு ஆயிரம் ரூபாய் கொடுத்தால் போதுமா? எல்லாவற்றையும் முடி மறைத்து விடலாம் என பார்க்கிறீர்களா?
-
-...
-
-[Data](articles/44dc63ff.json)
 
 ---

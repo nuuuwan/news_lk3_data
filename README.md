@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 22:49:10**
+As of **2025-08-22 23:06:58**
 
 ## Newspaper Stats
 
-*Scraped **71,824** Articles*
+*Scraped **71,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,908
-adaderanalk | 9,061
-tamilmirrorlk | 10,599
+adaderanalk | 9,064
+tamilmirrorlk | 10,601
 virakesarilk | 11,853
-adaderanasinhalalk | 12,421
+adaderanasinhalalk | 12,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,824 articles have been extended.
+61,973 (86.3%) of 71,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### யூடியூப்பர் மீது முறைப்பாடு
+
+*2025-08-22 22:51:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்பர்-மீது-முறைப்பாடு/175-363312) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது செய்யப்பட்டு 14 நாட்கள் விளக்கமறியலில் வைக்கப்பட உள்ளதாகக் கூறும் பதிவை பதிவேற்றிய யூடியூபர் சுதந்த திலகசிறிக்கு எதிராக ஐக்கிய தேசியக் கட்சியின் (UNP) சட்டத்தரணிகள் முறைப்பாடு அளித்தனர்.
+
+இந்தக் கைது முன்கூட்டியே திட்டமிடப்பட்டதாக சந்தேகங்கள் இருப்பதாக சட்டத்தரணி நளின் பத்திரண ஊடகங்களுக்குத் தெரிவித்தார்.
+
+"தீர்ப்பு வழங்கப்படுவதற்கு முன்பே, இந்த யூடியூபர் நீதிமன்றங்களின் முடிவைப் பற்றி எப்படி அறிந்தார் என்று நாங்கள் ஆச்சரியப்படுகிறோம்," என்று அவர் மேலும் கூறினார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, சாமர சம்பத் தசநாயக்க மற்றும் ரவூப் ஹக்கீம் உள்ளிட்ட சில பாராளுமன்ற உறுப்பினர்களும் இதே சந்தேகத்தை எழுப்பினர்.
+
+சமீபத்தில் நடந்த பொது நிகழ்வில் பிரதமர் ஹரிணி அமரசூரிய மீது அளவுக்கு அதிகமான ஆதரவு காட்டியதாக யூடியூபர் மீது குற்றம் சாட்டப்பட்டது.
+
+"பிரதமர் போன்ற ஒரு ஆளுமைக்கு எப்படி இவ்வளவு ஆதரவை பொதுவில் காட்ட முடியும்" என்று பாராளுமன்ற உறுப்பினர் ஹக்கீம் கேள்வி எழுப்பினார்.
+
+◼️
+
+[Data](articles/166eb02b.json)
+
+---
+
+### විලංගු වැටුණු රනිල් බන්ධනාගාර  බස් රථයෙන් රැගෙන යයි
+
+*2025-08-22 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213679) · `si`
+
+රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා රැගත් බන්ධනාගාර බස් රථය මීට සුළු මොහොතකට කොළඹ කොටුව අධිකරණ පරිශ්‍රයෙන් පිටව ගොස් තිබේ.
+
+◼️
+
+[Data](articles/e2588aa1.json)
+
+---
+
+### கோட்டை நீதிமன்ற வளாகத்தில் பதற்றம்
+
+*2025-08-22 22:31:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதிமன்ற-வளாகத்தில்-பதற்றம்/175-363311) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க விளக்கமறியலில் வைக்கப்பட்டுள்ள செய்தியைத் தொடர்ந்து அவரது ஆதரவாளர்கள் திரண்டதால், கோட்டை நீதவான் நீதிமன்றத்திற்கு வெளியே சிறிது நேரத்திற்கு முன்பு பதட்டமான சூழ்நிலை ஏற்பட்டதாக தகவல்கள் தெரிவிக்கின்றன.
+
+முன்னதாக ஆதரவைக் காட்ட கூடியிருந்த கூட்டம், நீதிமன்றத்தின் தீர்ப்பிற்குப் பிறகு கவலையுடன் எதிர்வினையாற்றியது.
+
+நிலைமையை நிர்வகிக்கவும் ஒழுங்கை உறுதி செய்யவும் நீதிமன்றத்திற்கு அருகில் சிறப்புப் படைப் பிரிவுகளும் கூடுதல் பாதுகாப்பு குழுக்களும் நிறுத்தப்பட்டன.
+
+◼️
+
+[Data](articles/343bed00.json)
+
+---
 
 ### කොටුව අධිකරණ පරිශ්‍රය අසල උණුසුම් තත්ත්වයක්
 
@@ -86,6 +136,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former President Ranil Wickremesinghe remanded
+
+*2025-08-22 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111752/former-president-ranil-wickremesinghe-remanded) · `en`
+
+Former President Ranil Wickremesinghe, who was arrested by the Criminal Investigation Department (CID), has been remanded until August 26 by the Colombo Fort Magistrate’s Court.
+
+The order was issued by Colombo Fort Magistrate’s Court Nilupuli Lankapura, Ada Derana reporter said.
+
+Additional Solicitor General Dileepa Peiris, appearing for the CID, stated before the court that he would present evidence against the suspect under the Public Property Act.
+
+He also requested that the accused be remanded as the investigation is not complete.
+
+However, President’s Counsel Anuja Premaratne, appearing for the defendant, presented evidence in court and requested that the defendant be released on bail.
+
+After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapura rejected the bail application and ordered that the former President be remanded until August 26.
+
+...
+
+[Data](articles/30dbde08.json)
+
+---
+
 ### හිටපු ජනපති රනිල් රිමාන්ඩ්
 
 *2025-08-22 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213677) · `si`
@@ -127,6 +199,48 @@ He served until Anura Disanayake was elected president on September 21, 2024. (C
 ◼️
 
 [Data](articles/f30e5366.json)
+
+---
+
+### Derana Signal Colombo International Kite Festival’s opening ceremony begins
+
+*2025-08-22 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111751/derana-signal-colombo-international-kite-festivals-opening-ceremony-begins) · `en`
+
+The Derana Signal Colombo International Kite Festival is scheduled to be held on Sunday (August 24) at Galle Face Green, Colombo, while its official opening ceremony commenced a short while ago at the Cinnamon Grand Colombo.
+
+All arrangements have been finalized to host the Kite Festival, which will light up the Colombo sky on Sunday, (August 24) at Galle Face Green.
+
+The event, organized by TV Derana, the Sri Lanka Tourism Promotion Bureau, and Sri Lanka Police, is expected to feature 500 local competitors along with over 50 foreign participants representing 25 countries.
+
+Foreign competitors taking part in the Kite Festival gathered for a training session at the Galle Face Green in Colombo today.
+
+A total of 54 contestants are representing the foreign teams, with Derana representatives also joining the event.
+
+Meanwhile, the official theme song of the Kite Festival is scheduled to be released during the opening ceremony tonight.
+
+◼️
+
+[Data](articles/fe81fc83.json)
+
+---
+
+### India’s top court revises stray dog policy after public outcry
+
+*2025-08-22 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111750/indias-top-court-revises-stray-dog-policy-after-public-outcry) · `en`
+
+India’s Supreme Court modified its order on stray dogs on Friday, directing that those picked up from streets in and around Delhi be released after sterilisation and immunisation, after a storm of protests from animal lovers.
+
+Earlier this month, the court ruled that all stray dogs in Delhi and its suburbs be moved to shelters following a surge in dog bites and cases of rabies.
+
+Critics of the ruling had said it could not be implemented because there were not enough shelters.
+
+Many animal lovers took to the streets to protest against the order. Animal rights activists signed online petitions asking the court to revoke its decision.
+
+The court ruling also drew criticism from politicians and celebrities. India’s opposition leader Rahul Gandhi called it a “step back from decades of humane, science-backed policy”.
+
+...
+
+[Data](articles/1210069a.json)
 
 ---
 
@@ -1657,109 +1771,5 @@ Hamas has said it would release captives in exchange for ending the war, but rej
 ◼️
 
 [Data](articles/f0b94c5d.json)
-
----
-
-### සෞඛ්‍යයට ඉහළ වටිනාකමකින් යුත් උපකරණ මිලදී ගැනීම අඩු කරනවා
-
-*2025-08-22 12:47:25* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍යයට-ඉහළ-වටිනාකමකින්-යුත්-උපකරණ-මිලදී-ගැනීම-අඩු-කරනවා/11-418014) · `si`
-
-සෞඛ්‍ය පද්ධතිය සඳහා ඇතැම් ඉහළ වටිනාකමකින් යුත් උපකරණ මිල දී ගැනීම අඩු කර මූල්‍යමය අතින් ලාභදායි නව වැඩපිළිවෙලක් ලබන වසරේ සිට ආරම්භ කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා අවධාරණය කරයි.
-
-වයඹ පළාතේ තෘතියික සත්කාර සේවා සපයනු ලබන ප්‍රධාන රෝහල වන කුරුණෑගල ශික්ෂණ රෝහලේ භෞතික සම්පත් සවර්ධනය සඳහා ලබාදුන් මූල්‍ය ප්‍රතිපාදන සහ දැනට ක්‍රියාත්මකවන ව්‍යාපෘතීන්ට අදාළ ප්‍රගතිය පිළිබඳව කරුණු සොයා බැලීම සඳහා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා  පසුගියදා කටයුතු කරන ලදි.
-
-ඒ අනුව කුරුණෑගල ශික්ෂණ රෝහල පැමිණි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා  ඇතුළු සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ නිලධාරින් පළමුව රෝහල් අධ්‍යක්ෂ වෛද්‍ය වයි.එම්.එම් ප්‍රියංගණී මහත්මිය ඇතුළු රෝහලේ පාලනාධිකාරිය සමග රෝහල් සංවර්ධනයට අදාළ කරුණු සාකච්ඡා කරන ලද අතර, අනතුරුව විශේෂඥ, වෛද්‍ය, වෛද්‍ය, හෙද ඇතුළු කාර්ය මණ්ඩලය සමග රෝහලේ දැනට පවතින ගැටළු පිළිබඳව සහ සේවක අදහස් හා යෝජනා විමසීම සඳහා විශේෂ සාකච්ඡාවක් ද පවත්වන ලදි. එහිදී සෞඛ්‍ය ලේකම්වරයා මෙම කරුණු අනාවරණය කරන ලදි.
-
-...
-
-[Data](articles/d12d3e67.json)
-
----
-
-### தமிழ் ஊடகவியலாளர்களுக்கு எதிரான அநுர அரசாங்கத்தின் அடக்குமுறையை கண்டித்து கவனயீர்ப்பு போராட்டம்
-
-*2025-08-22 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/223092) · `ta`
-
-தமிழ் ஊடகவியலாளர்களுக்கு எதிரான அநுர அரசாங்கத்தின் அடக்குமுறையை கண்டித்து ஊடகவியலாளர்கள், சிவில் செயற்பாட்டார்கள் பாராளுமன்ற சுற்றுவட்டத்துக்கு முன்பாக கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுக்கப்பட்டது.
-
-◼️
-
-[Data](articles/a7582d1f.json)
-
----
-
-### මස්කෙළිය එළවළු වාඩියක තිබී ගිනි අවියක් හා ජීව උණ්ඩ සොයා ගනියි
-
-*2025-08-22 12:36:43* · [`adalk`](https://www.ada.lk/breaking_news/මස්කෙළිය-එළවළු-වාඩියක-තිබී-ගිනි-අවියක්-හා-ජීව-උණ්ඩ-සොයා-ගනියි/11-418013) · `si`
-
-මස්කෙළිය සාමිමලේ මීලියාකෝට්ටේ එලවළු වගා භූමියක තාවකාලිකව ඉදි කර තිබු වාඩියක තිබී මෙරට නිශ්පාදනය කරන ලද ගිනි අවියක් සහ ඊට යොදන පතුරම් 02ක්, එස්.ජී. වර්ගයේ ජීව උණ්ඩ 02ක් සමග සැකකරුවෙකු මස්කෙළිය පොලිසිය විසින් (21) දින රාත්‍රියේ සැකපිට අත්අඩංගුවට ගෙන ඇත.
-
-මීලියාකෝට්ට ප්‍රදේශයේ එළවළු වගා කොටුවක සැක කටයුතු පුද්ගලයෙකු සිටින බවට මසකෙළිය පොලිසියට ලද තොරතුරක් මත මස්කෙලිය පොලිසියේ නිළධාරින් විසින් (21) රාත්‍රියේ මෙහෙයුමක් දියත් කර වාඩිය පරික්ෂා කිරිමේදි ගිනි අවිය සහ ඊට යොදන පතුරම් 02ක්, එස්.ජී. වර්ගයේ ජීව උණ්ඩ 02ක් සොයාගෙන ඇත.
-
-මීලියාකෝට්ට ප්‍රදේශයේ අක්කර 02ක පමණ ඉඩමක එළවළු වගා කරන කොටුවක සැකකරු සිටි බවත්, සැකකරු බිංගිරිය ප්‍රදේශයේ පදිංචි අවුරුදු 44ක් පමණ වයසැති පුද්ගලයෙකු බවයි පොලිසිය කියා සිටියේ.
-
-මීලියාකෝට්ට ප්‍රදේශයේ එළවළු වගා භූමියට මීලියාකෝට්ට රක්ෂිතයේ සැරිසරන ගෝණුන් පැමිණෙන බවත්, එම වන සතුන් දඩයම් කිරිමට හෝ වෙනත් අරමුණකින් මෙම ගිනි අවිය සැකකරු රැගෙන ආවේදැයි පිලිබද පොලිසිය අංශ කිහිපයක් ඔස්සේ පුළුල් ලෙස විමර්ෂණයක ආරම්භ කර ඇත.
-
-...
-
-[Data](articles/79995c0c.json)
-
----
-
-### වෙඩිතබා ඝාතනය කළ හිටපු බන්ධනාගාර නිලධාරියා කවුදැයි පොලීසිය කියයි
-
-*2025-08-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213653) · `si`
-
-බණ්ඩාරගමදී වෙඩිතබා ඝාතනය කෙරුණු හිටපු බන්ධනාගාර නිලධාරියා මාකඳුරේ මදූෂ්ගේ ඩුබායි සාදයට සහභාගී වූ අයෙකු බවත් සංවිධානාත්මක අපරාධකරුවෙකු වූ සමයං ඝාතන සිද්ධිය පිළිබඳ තොරතුරු ලබාදීම සම්බන්ධයෙන් චෝදනා එල්ල වූවෙකු බවත් පොලීසිය පවසයි.
-
-බණ්ඩාරගම, බොල්ගොඩ තුංබෝධිය පාලම අසලදී ඊයේ (21) පස්වරු 6:05ට පමණ මෙම වෙඩිතැබීම සිදුකර තිබුණි.
-
-පානදුර දෙස සිට බණ්ඩාරගම දෙසට ධාවනය කරමින් තිබූ මෝටර් රථයක රියදුරු වෙඩික්කරුගේ ඉලක්කය වූ බව පොලීසිය පැවසීය.
-
-වෙඩික්කරුවන් එම මෝටර් රථය ලුහුබඳින අයුරු අසල තිබූ සීසීටීවී කැමරාවක ද සටහන් වී තිබුණි.
-
-පොලීසිය සඳහන් කළේ, වෙඩික්කරුවන් වෙඩි ප්‍රහාර 29ක් පමණ මෙහිදී එල්ල කර ඇති බවය.
-
-ප්‍රහාරයෙන් පසු වෙඩික්කරුවන් කළුතර දෙසට පලාගොස් ඇති අතර ඔවුන්ගේ ඉලක්කය වූ පුද්ගලයා මෝටර් රථය තුළම ජීවිතක්ෂයට පත්වුණි.
-
-ඝාතනයට ලක්වූ පුද්ගලයා පානදුර, අලුබෝගහවත්ත ප්‍රදේශයේ පදිංචි ලලිත් කුමාර කෝදාගොඩ නමැත්තෙක් වන අතර ඔහු වැඩතහනමට ලක්වූ බන්ධනාගාර නිලධාරියෙකි.
-
-ඔහු සතුව තිබී රුපියල් ලක්ෂයකට අධික මුදලක්ද ඝාතනය වූ අවස්ථාවේදී  පොලිසිය සොයාගෙන තිබේ.
-
-...
-
-[Data](articles/5d5ce192.json)
-
----
-
-### தனகே திரும்பும் ஆப்பு
-
-*2025-08-22 12:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தனகே-திரும்பும்-ஆப்பு/62-363274) · `ta`
-
-◼️
-
-[Data](articles/61b2e404.json)
-
----
-
-### සූරියවැව වෙඩි හුවමාරුව ගැන තවත් තොරතුරු
-
-*2025-08-22 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213652) · `si`
-
-සූරියවැවදී අද (22) උදෑසන පොලිස් විශේෂ කාර්ය බළකායට අත්බෝම්බ ප්‍රහාරයක් එල්ල කර පලායෑමට උත්සාහ කළ පුද්ගලයෙක් එහිදී සිදුවූ වෙඩි හුවමාරුවකදී ජීවිතක්ෂයට පත්විය.
-
-මියගිය තැනැත්තා මග්ගොන ප්‍රදේශයේ පදිංචි දොන් කෝසල හෙවත් බේරුවල කෝසල නැමැත්තෙකි.
-
-ඔහු පසුගිය ජූලි 31 වනදා කොස්ගොඩ කැස්බෑ සංරක්ෂණ මධ්‍යස්ථානයක් තුළදී එහි හිමිකරුගේ පුත්‍රයා වන අරුණ මෙන්ඩිස් නැමැත්තාට වෙඩිතබා ඝාතනය කළ වෙඩික්කරු බවට පොලීසිය සැකකරයි.
-
-ඔහු පිළිබඳ ලද තොරතුරකට අනුව ගාල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය හා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් සැකකරු අත්අඩංගුවට ගැනීමට හම්බන්තොට සූරියවැව වැවේගම කැලෑබද ප්‍රදේශයකට ගොස් තිබුණි.
-
-අද අලුයම 5ට පමණ වැටලීම සිදුකර ඇති අතර එහිදී ඔහු පොලිස් නිලධාරීන්ට අත්බෝම්බ ප්‍රහාරයක් එල්ල කළ බව පොලීසිය සඳහන් කළේය.
-
-එම අවස්ථාවේදී පොලිස් විශේෂ කාර්ය බළකා නිලධාරියෙකු ද තුවාල ලබා ඇති බව පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/45fe5ea0.json)
 
 ---

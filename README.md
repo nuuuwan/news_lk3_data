@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 15:32:14**
+As of **2025-08-22 15:50:02**
 
 ## Newspaper Stats
 
-*Scraped **71,748** Articles*
+*Scraped **71,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,903
-adaderanalk | 9,053
-tamilmirrorlk | 10,573
-virakesarilk | 11,846
+adaderanalk | 9,054
+tamilmirrorlk | 10,575
+virakesarilk | 11,847
 adaderanasinhalalk | 12,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,748 articles have been extended.
+61,973 (86.4%) of 71,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### யூடியூபர் கணித்தபடி ரணில் கைது: சப்ரி கவலை
+
+*2025-08-22 15:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபர்-கணித்தபடி-ரணில்-கைது-சப்ரி-கவலை/175-363288) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்படுவது குறித்து முன்னாள் வெளியுறவு அமைச்சர் அலி சப்ரி கடுமையான கவலை தெரிவித்தார். இது "ஆழ்ந்த தொந்தரவானது" என்றும், இலங்கையில் பழிவாங்கும் அரசியல் வளர்ந்து வருவதைக் குறிக்கிறது என்றும் அவர் குறிப்பிட்டார்.
+
+மூன்று முக்கியமான சந்தர்ப்பங்களில் இலங்கையை நிலைப்படுத்துவதிலும் மீண்டும் உயிர்ப்பிப்பதிலும் விக்கிரமசிங்க ஒரு தீர்க்கமான பங்கைக் கொண்டிருந்தார் என்று சப்ரி ஒரு பேஸ்புக் பதிவில் கூறினார்.
+
+1993 ஆம் ஆண்டு, ஜனாதிபதி ஆர். பிரேமதாசவின் படுகொலையைத் தொடர்ந்து, அவர் தொடர்ச்சியான நிர்வாகத்தை உறுதிசெய்து, நாடு அராஜகத்திற்குள் செல்வதைத் தடுத்தார்.
+
+2000 ஆம் ஆண்டு, நாடு அதன் முதல் மந்தநிலையை எதிர்கொண்டபோது, ​​அவர் வளர்ச்சி மற்றும் ஸ்திரத்தன்மையை மீட்டெடுத்தார்.
+
+2022 ஆம் ஆண்டு, நமது வரலாற்றில் மிக மோசமான பொருளாதார நெருக்கடியின் உச்சத்தில், அவர் தலைமைப் பொறுப்பை ஏற்று, இலங்கையை சரிவின் விளிம்பிலிருந்து மீட்டெடுத்தார்.
+
+...
+
+[Data](articles/d6be0755.json)
+
+---
+
+### ரணில் கைது: ஐ.தே.க ஆதரவாளர்கள் குவிந்தனர்
+
+*2025-08-22 15:23:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-தே-க-ஆதரவாளர்கள்-குவிந்தனர்/175-363287) · `ta`
+
+குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க நீதிமன்றத்தில் ஆஜராவதற்கு முன்னதாக, கோட்டை நீதவான் நீதிமன்ற வளாகத்தில் பல ஐக்கிய தேசியக் கட்சி ஆதரவாளர்கள் கூடியிருந்தனர்.
+
+◼️
+
+[Data](articles/5b266e2e.json)
+
+---
 
 ### கைவிலங்கு இடாது நீதிமன்றில் ரணில் ஆஜர்
 
@@ -55,6 +87,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/940028b8.json)
+
+---
+
+### அதிகரித்து வரும் யானைகளின் உயிரிழப்பு தொடர்பில் இலங்கை சட்டதரணிகள் சங்கம் எச்சரிக்கை ; அவசர சட்ட சீர்திருத்தங்களுக்கு அழைப்பு
+
+*2025-08-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223107) · `ta`
+
+நாட்டில் யானைகளின் உயிரிழப்பு அதிகரிக்கின்றமை தொடர்பில் வருத்தம் தெரிவித்துள்ளதோடு, ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு இலங்கை சட்டத்தரணிகள் சங்கம் கடிதம் எழுதியுள்ளது.
+
+உலகிலேயே அதிகளவில் இலங்கையில் யானைகள் உயிரிழக்கின்றன. கடந்த ஆண்டுகளில் சிறுத்தைகள் மற்றும் பிற பாதுகாக்கப்பட்ட விலங்கினங்கள் தொடர்ந்து கொல்லப்படுகின்றன.
+
+இலங்கையின் தாவரங்கள் மற்றும் விலங்கினங்கள் நாட்டின் வளமான மற்றும் பன்முகத்தன்மை கொண்ட பாரம்பரியத்தின் ஒருங்கிணைந்த பகுதியாகும். இது எதிர்கால சந்ததியினருக்காக பாதுகாக்கப்பட வேண்டும்.
+
+இலங்கைக்கு வருகை தரும் மில்லியன் கணக்கான வெளிநாட்டு சுற்றுலாப் பயணிகள் வளவிலங்குகளால் ஈர்க்கப்படுகின்றன. நாட்டின் பொருளாதாரத்தில் முக்கிய பங்கு வகிக்கிறது.
+
+இந்த விடயத்தை கருத்தில் கொண்டு தற்போதுள்ள சட்ட கட்டமைப்பிற்கு அவசர திருத்தம் மற்றும் மறுசீரமைப்பு தேவை.  விரிவான சட்ட சீர்திருத்தங்களுக்கான தனது சொந்த திட்டங்களை விரைவில் ஜனாதிபதியிடம் சமர்ப்பிக்க உள்ளோம்.
+
+...
+
+[Data](articles/1c9a269e.json)
 
 ---
 
@@ -101,6 +153,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f3ad25d8.json)
+
+---
+
+### Ex-President Ranil brought to court after arrest
+
+*2025-08-22 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111742/ex-president-ranil-brought-to-court-after-arrest) · `en`
+
+Former President Ranil Wickremesinghe, who was arrested by the Criminal Investigation Department (CID), has been brought to the Colombo Fort Magistrate’s Court, a short while ago.
+
+He was escorted to the court premises by CID officers under heavy security, Ada Derana reporter said.
+
+Former President Wickremesinghe was arrested today (22) after arriving at the CID to record a statement in connection with an ongoing investigation.
+
+Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President, allegedly using state funds.
+
+The CID had earlier presented evidence related to the case before the Fort Magistrate’s Court on June 24.
+
+Statements were subsequently recorded from Sandra Perera, who served as the former President’s private secretary, and from former Presidential Secretary Saman Ekanayake.
+
+...
+
+[Data](articles/298212b6.json)
 
 ---
 
@@ -1693,71 +1767,5 @@ Women in Management (WIM) is set to host its signature event, the Top 50 Profess
 ...
 
 [Data](articles/1406b450.json)
-
----
-
-### EDB conducts spices packaging workshop
-
-*2025-08-22 04:00:51* · [`dailyftlk`](https://www.ft.lk/business/EDB-conducts-spices-packaging-workshop/34-780581) · `en`
-
-The Sri Lanka Export Development Board’s (EDB) National Packaging Centre (NPC) recently conducted an awareness workshop on spices packaging for over 75 exporters and potential exporters, aimed at enhancing product competitiveness in local and international markets.
-
-The session, held at EDB premises, was conducted in collaboration with packaging consultant W. Abhaya Senavirathna and focused on best practices for packaging spices to meet both local and international market standards.
-
-The comprehensive session covered critical aspects of spices packaging including the importance and functions of packaging, valuable characteristics of spices, packaging development, materials selection and techniques, regulatory compliance, and packaging labelling requirements.
-
-Participants gained practical insights into selecting appropriate packaging methods and materials to maintain product quality, minimise waste, and ensure regulatory compliance, the EB said in a statement.
-
-...
-
-[Data](articles/9e1e8a31.json)
-
----
-
-### “Secret of Success” one-day workshop on 28 August
-
-*2025-08-22 03:59:20* · [`dailyftlk`](https://www.ft.lk/business/Secret-of-Success-one-day-workshop-on-28-August/34-780580) · `en`
-
-A transformative one-day special workshop on “Secret of Success” for mid and senior level managers committed to achieving personal and organisational excellence, led by Professor Thilakasiri – a management expert and former Director General of the Sri Lanka Institute of Development Administration (SLIDA) with over 35 years of experience – is scheduled to be held on 28 August from 9.00 a.m. to 4.30 p.m. at the SLIDA, Colombo 07.
-
-Participants in this workshop will learn about the 5 essential pillars of successful leadership, personalised 90-day action plan, professional networking with like-minded professionals, and receive a certificate and learning materials. This workshop, which will be conducted in both English and Sinhala, will not be just another ordinary workshop, but one that will change your perspective. A 10% discount is offered for group of 5 or more participants. To register for this workshop, please contact via [email protected] or [email protected].
-
-◼️
-
-[Data](articles/f6076101.json)
-
----
-
-### இலங்கை குறித்து ஐ.நா மனித உரிமை ஆணையாளருக்கு தமிழ் தரப்பின் மற்றொரு கடிதம்
-
-*2025-08-22 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223063) · `ta`
-
-இலங்கை அரசிற்கான சர்வதேச விசாரணை தொடர்பாக ஐக்கிய நாடுகள் மனித உரிமைகள் ஆணையாளருக்கும் ஐ.நா. மனித உரிமை ஆணைய நிரந்தர மற்றும் அவதானிப்பு நாடுகளின் அங்கத்துவர்களுக்கும் தமிழ் தரப்பில் இருந்து மற்றொரு கடிதமொன்று அனுப்பிவைக்கப்பட்டுள்ளது.
-
-பாராளுமன்ற உறுப்பினர்கள், அரசியல் பிரமுகர்கள், மத தலைவர்கள், சிவில் சமூக தலைவர்கள் என பலரது கையொப்பத்துடன் குறித்த கடிதம் அனுப்பபட்டுள்ளது.
-
-இது தொடர்பில் யாழ் ஊடக அமையத்தில் வியாழக்கிழமை (21) இடம்பெற்ற ஊடக சந்திப்பில் அரசியல் மற்றும் சிவில் சமூக தரப்பினரால் தெளிவுபடுத்தப்பட்டது.
-
-அக்கடிதத்தில், ஐக்கிய நாடுகள் மனித உரிமைச் சபையின் 60ஆவது அமர்வு – ஸ்ரீலங்கா அரசிற்கான பன்னாட்டு விசாரணையும் நடவடிக்கை பற்றி மிகத் தெளிவாக விடயங்களை வெளிப்படுத்தும் முகமாக எங்களால் எழுதப்படும் இந்தக் கடிதத்தை நீங்கள் இதற்கு முன் இதே விடயம் தொடர்பாக எழுதப்பட்ட கடிதங்களுடன் இணைத்தோ அல்லது தனித்தோ வாசிக்க முடியும் என்பதை தங்களின் கவனத்திற்குத் தருகிறோம்.
-
-...
-
-[Data](articles/f483bb6e.json)
-
----
-
-### தமிழக அமைச்சர் தங்கம் தென்னரசுவுடன் பிரதியமைச்சர் பிரதீப் சந்திப்பு
-
-*2025-08-22 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223062) · `ta`
-
-தமிழ் நாட்டின்  நிதி மற்றும் சுற்றுச்சூழல் காலநிலை மாற்ற அமைச்சர்  தங்கம் தென்னரசு மற்றும்  தமிழகம் சென்றுள்ள பெருந்தோட்டம் மற்றும் சமூக உட்கட்டமைப்பு வசதிகள் பிரதியமைச்சர் சுந்தரலிங்கம் பிரதீப் ஆகியோருக்கிடையிலான சந்திப்பு வியாக்கிழமை (21) சென்னையில் இடம்பெற்றது.
-
-இதன்போது இலங்கை தொடர்பான பல விடயங்கள் கலந்துரையாடப்பட்டுள்ளது. குறிப்பாக மலையக மாணவர்களுக்கான உயர்கல்வி வாய்ப்பு பற்றி பிரதானமாகக் கலந்துரையாடப்பட்டது.
-
-மலையக மக்களின் கலை, இலக்கிய, சமூக,பொருளாதார விடயங்கள் பற்றியும் அமைச்சர் அவர்களுடன் காத்திரமான கலந்துரையாடல் இடம்பெற்றது.  இந்த சந்திப்பின்போது  பிரதியமைச்சர் பிரதீப்புடன் சமூக ஆர்வலர் விக்கிரமசிங்கவும் இணைந்திருந்தார்.
-
-◼️
-
-[Data](articles/ef4dfd3d.json)
 
 ---

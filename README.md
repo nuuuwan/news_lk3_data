@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 18:09:57**
+As of **2025-08-22 18:31:45**
 
 ## Newspaper Stats
 
-*Scraped **71,775** Articles*
+*Scraped **71,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
 adaderanalk | 9,057
-tamilmirrorlk | 10,585
+tamilmirrorlk | 10,586
 virakesarilk | 11,847
 adaderanasinhalalk | 12,411
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,411
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,775 articles have been extended.
+61,973 (86.3%) of 71,776 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,22 @@ A YouTuber predicting the arrest of a former President before it even happens? T
 ◼️
 
 [Data](articles/700b8a2c.json)
+
+---
+
+### ரணிலுக்கு பிணை : 30 நிமிடங்கள் ஒத்திவைப்பு
+
+*2025-08-22 16:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பிணை-30-நிமிடங்கள்-ஒத்திவைப்பு/175-363296) · `ta`
+
+முன்னாள்‌ ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டு நீதிமன்றில் ஆஜர்படுத்தப்பட்டுள்ள நிலையில் அவருக்கு பிணை வழங்கப்படும் என அறிவிக்கப்பட்டது.
+
+எனினும், ரணிலின் பிணை மனு மீதான விசாரணை அரை மணி நேரத்திற்கு பிற்போடப்பட்டது . ரணிலுக்கு பிணை வழங்குவதை சட்ட மா அதிபர் திணைக்களம் கடுமையாக ஆட்சேபிக்கிறது.
+
+பிணை வழங்கப்பட்டதாக முன்னர் கூறப்பட்டாலும் அது தொடர்பான நீதிமன்ற இறுதித் தீர்ப்பு இன்னும் வரவில்லை
+
+◼️
+
+[Data](articles/f2d2303a.json)
 
 ---
 
@@ -1747,27 +1763,5 @@ Also pending was further talks to included Bega brands in Australia which could 
 ◼️
 
 [Data](articles/b5173a15.json)
-
----
-
-### සූරියවැවදී STF සමග වෙඩි හුවමාරුවකින් සැකකරුවෙක් මරුට
-
-*2025-08-22 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213641) · `si`
-
-හම්බන්තොට සූරියවැව වැවේගම කැළෑබද ප්‍රදේශයකදී STF නිලධාරීන් සමග සිදුවූ වෙඩි හුවමාරුවකදී සැකකරුවෙකු මියගොස් තිබේ.
-
-අදාළ සැකකරු වෙඩිවැදීමෙන් තුවාල ලබා රෝහල්ගත කිරීමේදී මෙලෙස මියගොස් ඇති බව වාර්තා වෙයි.
-
-වෙඩි හුවමාරුවේදී තුවාල ලැබූ STF නිලධාරියෙකු ද සූරියවැව රෝහලට ඇතුළත් කර තිබේ.
-
-අදාළ ස්ථානයේ සැකකරුවන් දෙදෙනෙකු රැඳීසිට ඇති අතර වෙඩි හුවමාරුව අතරතුර එක් සැකකරුවෙකු පලාගොස් ඇති බවද වාර්තා වෙයි.
-
-වෙඩි හුවමාරුව අතරතුර සැකකරුවන් විසින් අත්බෝම්බයක් ද නිලධාරීන් දෙසට එල්ලකර තිබේ.
-
-වෙඩිවැදීමෙන් මියගිය සැකකරු පසුගියදා කොස්ගොඩදී සිදුකළ වෙඩිතැබීමේ සැකකරුවෙකු බවට පොලීසිය සැක පළකරයි.
-
-◼️
-
-[Data](articles/71a5fd66.json)
 
 ---

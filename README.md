@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 05:32:23**
+As of **2025-08-22 06:09:09**
 
 ## Newspaper Stats
 
-*Scraped **71,654** Articles*
+*Scraped **71,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
 economynextcom | 4,384
-islandlk | 4,404
+islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,895
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,654 articles have been extended.
+61,973 (86.5%) of 71,663 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -385,6 +385,80 @@ Participants in this workshop will learn about the 5 essential pillars of succes
 ...
 
 [Data](articles/25280630.json)
+
+---
+
+### Mahindra Ideal Finance rolls out revolving credit solution for multi brand vehicle importers and SMEs
+
+*2025-08-22 02:04:00* · [`islandlk`](http://island.lk/mahindra-ideal-finance-rolls-out-revolving-credit-solution-for-multi-brand-vehicle-importers-and-smes/) · `en`
+
+Mahindra Ideal Finance Ltd. (MIFL), one of Sri Lanka’s fastest growing finance companies, announced the launch of the MIFL Revolving Business Loan – a customized loan facility designed to address the short-term working capital needs of multi brand vehicle importers and other SME business owners across the country.
+
+The MIFL Revolving Loan product has been specifically developed to address the challenges faced by multi brand vehicle importers and SME and business owners, like irregular cash flows, delayed receivables, and the need for quick working capital to manage inventory cycles in order to capitalize on emerging growth opportunities currently prevalent in the market.
+
+With a one-time approval process, the new revolving business loan facility offers a flexible credit line that can be drawn and repaid multiple times, based on the operational cash flows of a business, thereby saving precious time and paperwork for business owners.
+
+...
+
+[Data](articles/1cd218bc.json)
+
+---
+
+### Ceylon Chamber highlights opportunities in UK’s Enhanced Trade Scheme
+
+*2025-08-22 02:04:00* · [`islandlk`](http://island.lk/ceylon-chamber-highlights-opportunities-in-uks-enhanced-trade-scheme/) · `en`
+
+The Ceylon Chamber of Commerce welcomes the UK Government’s liberalisation of rules of origin under its Developing Countries Trading Scheme (DCTS), set to take effect in early 2026. This important step reflects the UK’s continued commitment to greater trade openness and flexibility, offering Sri Lankan exporters enhanced access to one of their key markets.
+
+The reforms, which allow Sri Lankan apparel manufacturers to source up to 100% of inputs from any country while retaining tariff-free access to the UK, will provide a timely boost for the apparel industry—Sri Lanka’s largest export sector. In addition, the expanded regional cumulation arrangements across 18 Asian countries will further strengthen supply chains and open up opportunities for other value-added exports.
+
+...
+
+[Data](articles/72df01e9.json)
+
+---
+
+### CSE contends with up-and-down trend during the day but ends on high note
+
+*2025-08-22 02:02:00* · [`islandlk`](http://island.lk/cse-contends-with-up-and-down-trend-during-the-day-but-ends-on-high-note/) · `en`
+
+CSE trading kicked off bullishly yesterday but selling pressure was noted in the middle of the day. Nevertheless, trading later recovered well due to a high investor sentiment, market analysts observed.Both indices showed mixed reactions. The All Share Price Index went up by 40.19 points while S and P SL20 declined by 11.09 points.
+
+Turnover stood at Rs 10.5 billion with 13 crossings. Top seven companies that had crossings were; HNB 2.6 million shares crossed to the tune of Rs 1 billion; its shares traded at Rs 405, Sunshine Holdings 16 million shares crossed for Rs 479 million; its shares traded at Rs 30, Sampath Bank 2.2 million shares crossed for Rs 331 million; its shares sold at Rs 145.
+
+...
+
+[Data](articles/f19221d4.json)
+
+---
+
+### “75% of APAC CFOs believe that AI agents will drive revenue and transform existing organizational structures”
+
+*2025-08-22 02:00:00* · [`islandlk`](http://island.lk/75-of-apac-cfos-believe-that-ai-agents-will-drive-revenue-and-transform-existing-organizational-structures/) · `en`
+
+Chief Financial Officers (CFOs) in Asia Pacific (APAC) are moving from caution to confidence in Artificial Intelligence (AI), according to new Salesforce research. Once conservative in their approach, CFOs are now embracing AI as a strategic investment for long-term growth.
+
+In 2020, 63% of APAC CFOs maintained a conservative AI strategy. Today, only 3% remain cautious, while a growing share have adopted aggressive adoption plans. Half of CFOs say AI agents — digital labor capable of performing tasks autonomously — are reshaping how they evaluate ROI, expanding measures of success beyond traditional financial returns.
+
+...
+
+[Data](articles/d3cacdce.json)
+
+---
+
+### Hayleys enters into ‘Mobility’ with exclusive OMODA & JAECOO EVs & Hybrids
+
+*2025-08-22 01:55:00* · [`islandlk`](http://island.lk/hayleys-enters-into-mobility-with-exclusive-omoda-jaecoo-evs-hybrids/) · `en`
+
+Hayleys Mobility, the newest venture under Hayleys Fentons, has officially entered the electric and hybrid vehicle market through an exclusive distribution partnership with OMODA & JAECOO Automobile Co., Ltd, the premium NEV brand of Chery Automobile Co., Limited.
+
+The agreement grants Hayleys Mobility full franchise rights in Sri Lanka for OMODA & JAECOO. Chery has been the leader in China’s passenger vehicle exports for more than 22 years, reinforcing its standing as a global automotive powerhouse. The agreement was formalised at Chery’s global headquarters in Wuhu, China.
+
+Hayleys Mobility introduces structure, scale and assurance, delivering premium EVs, Hybrids and conventional vehicle models with regulatory clarity and factory-certified service. Complementing this, its partnership with StarCharge lays the groundwork for a nationwide fast-charging network, tackling one of Sri Lanka’s biggest barriers to EV adoption: accessible, reliable charging.
+
+...
+
+[Data](articles/4db12c95.json)
 
 ---
 
@@ -1717,105 +1791,5 @@ Accordingly, the judge imposed the death sentence on the three-wheeler driver.
 ◼️
 
 [Data](articles/f7d8c0f2.json)
-
----
-
-### Indictments served on ex-Minister Anura Yapa and five others
-
-*2025-08-21 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111704/indictments-served-on-ex-minister-anura-yapa-and-five-others) · `en`
-
-Former Minister Anura Priyadharshana Yapa and five others have been served indictments by the Attorney General today (21) before the Colombo High Court, on charges including the misuse of government funds by illegally spending over Rs. 6.1 million from the Ceylon Petroleum Corporation under the pretext of providing flood relief in December 2014.
-
-The indictments were served before Colombo High Court Judge Manjula Thilakaratne, Ada Derana reporter said.
-
-Subsequently, the judge ordered that each accused be released on cash bail of Rs. 100,000 and two surety bails of Rs. 1 million each.
-
-The judge further ordered that the fingerprints of the accused be recorded and that reports be submitted.
-
-The case was scheduled for a pre-trial conference on October 1.
-
-...
-
-[Data](articles/191d5eab.json)
-
----
-
-### Indictments served on former Minister Anura Priyadharshana Yapa and five others at Colombo HC
-
-*2025-08-21 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111704/indictments-served-on-former-minister-anura-priyadharshana-yapa-and-five-others-at-colombo-hc) · `en`
-
-Former Minister Anura Priyadharshana Yapa and five others have been served indictments by the Attorney General today (21) before the Colombo High Court, on charges including the misuse of government funds by illegally spending over Rs. 6.1 million from the Ceylon Petroleum Corporation under the pretext of providing flood relief in December 2014.
-
-The indictments were served before Colombo High Court Judge Manjula Thilakaratne, Ada Derana reporter said.
-
-Subsequently, the judge ordered that each accused be released on cash bail of Rs. 100,000 and two surety bails of Rs. 1 million each.
-
-The judge further ordered that the fingerprints of the accused be recorded and that reports be submitted.
-
-The case was scheduled for a pre-trial conference on October 1.
-
-...
-
-[Data](articles/d9c6d7f1.json)
-
----
-
-### Sri Lanka Mirigama export zone not suited for growing cannabis: MP
-
-*2025-08-21 13:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-mirigama-export-zone-not-suited-for-growing-cannabis-mp-237698/) · `en`
-
-ECONOMYNEXT – The government’s decision to allow cannabis cultivation in an export processing zone in Mirigama, close to Colombo, was not a good plan, an opposition legislator has said.
-
-“I personally don’t oppose plans to cultivate cannabis [kan-sa]; if it brings investments into the country, suits the export economy, and you can forget what you said in the past, it is ok [ka-mak ne-he],” Nalin Bandara told parliament.
-
-“But Mirigama land is not suited for this [ko-heth-ma su-du-su ne-he].”
-
-“The land you have identified for the purpose in the Mirigama zone shouldn’t be given for kansa cultivation; it’s infrastructure facilities should be developed and it should be given for other investments targeting export goals.
-
-“Kansa should be grown in areas well known for its cultivation; Wellawaya, Pahala Uva.”
-
-Lands in export zones closer to Colombo like Mirigama, Biyagama, Katunayake, Koggala, and Malwathu Hiripitiya are short of land to offer other investors, he said.
-
-...
-
-[Data](articles/67129ca6.json)
-
----
-
-### பாலியல் தொழிலுக்காகக் கடத்தல்:   5 இந்தியர்கள் கைது
-
-*2025-08-21 13:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலியல்-தொழிலுக்காகக்-கடத்தல்-5-இந்தியர்கள்-கைது/50-363218) · `ta`
-
-பாலியல் தொழிலுக்காக சிறுமிகளை கடத்திய வழக்கில் 5 இந்தியர்களை அமெரிக்க காவல்துறையினர் கைது செய்துள்ளனர்.
-
-அமெரிக்காவின் நெப்ராஸ்கா மாகாணத்தில் மனித கடத்தலில் ஈடுபடும் கும்பலைக் குறிவைத்து கடந்த வாரம் மிகப்பெரிய அளவிலான சோதனையை பொலிஸார் நடத்தினர்.
-
-ஒமாஹா மெட்ரோ பகுதிகளில் உள்ள விடுதிகளில் நடத்தப்பட்ட சோதனையில், 12 வயதுக்குட்பட்ட 10 பேர், 17 ஆண்கள் மற்றும் பெண்கள் என மொத்தம் 27 பேரைக் பொலிஸார் மீட்டனர்.
-
-இவர்களிடம் பொலிஸார் நடத்திய விசாரணையில் அனைவரும் கடத்தப்பட்டு விடுதி பணிக்காக பயன்படுத்தப்பட்டமை தெரியவந்துள்ளது. நீண்ட நேர வேலை, குறைவான ஊதியம், சிலருக்கு ஊதியமே வழங்கவில்லை என்பது தெரியவந்துள்ளது. மேலும், சில பெண்களையும் சிறுமிகளையும் கட்டாயப்படுத்தி பாலியல் தொழிலில் ஈடுபடுத்தியதும் கண்டுபிடிக்கப்பட்டுள்ளது.
-
-இந்த சோதனையின்போது, பாதிக்கப்பட்டவர்கள் அசுத்தமான இடத்தில் கரப்பான்பூச்சிகளுக்கு மத்தியில், தரையில் படுத்து உறங்கிக் கொண்டிருந்த காட்சிகளைக் கண்டதாக பொலிஸார் நீதிமன்றத்தில் விபரித்துள்ளனர்.
-
-...
-
-[Data](articles/9b6bf07d.json)
-
----
-
-### இலங்கைக்கும் மாலைதீவுக்குமிடையிலான படகுசேவையை ஆரம்பிக்க வேண்டும் : இலங்கை - மாலைதீவு வர்த்தக சங்கத்தின் முன்னாள் தலைவர் சுதேஷ் மெண்டிஸ்
-
-*2025-08-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223009) · `ta`
-
-இலங்கைக்கும் மாலைதீவுக்கும் இடையிலான படகு சேவை உள்ளிட்ட சுமார் 40 க்கு மேற்பட்ட ஒப்பந்தங்கள் பேச்சளவில் காணப்படுகின்றன. அவற்றை துரிதப்படுத்த இரு நாட்டு அரசாங்கங்களுக்கும் ஆலோசனை வழங்கியுள்ளோம் என இலங்கை மற்றும் மாலைதீவு வர்த்தக சங்கத்தின் முன்னாள் தலைவர் சுதேஷ் மெண்டிஸ் தெரிவித்தார்.
-
-இலங்கை மற்றும் மாலைதீவு வர்த்தக சங்கத்தின் 17 ஆவது ஆண்டு பொதுக்கூட்டம் அண்மையில் கொழும்பில் இடம்பெற்றது.
-
-இதன்போது கருத்துத் தெரிவித்த இலங்கை மற்றும் மாலைதீவு வர்த்தக சங்கத்தின் முன்னாள் தலைவர் சுதேஷ் மெண்டிஸ் மேற்கண்டவாறு தெரிவித்தார்.
-
-உயிர்த்த ஞாயிறுதின தாக்குதலின் பின்னர் இரு நாடுகளுக்கும் இடையிலான வர்த்தகம் மற்றும் சுற்றுலாத்துறை பின்தள்ளப்பட்டது. இந்நிலையில் நாம் இலங்கையின் வெளிவிவகார அமைச்சர் விஜத்த ஹேரத்தை சந்தித்து இது குறித்து தெளிவுபடுத்தியதுடன் இணைந்து வேலைத்திட்டங்களை முன்னெடுத்தோம். இரு நாடுகளுக்கும் இடையிலான வீசா மட்டுப்பாடுகள் உள்ளிட்ட பல தடைகளை தளர்தியமைக்காக ஜனாதிபதிக்கு நாம் நன்றியை தெரிவித்துக்கொள்கின்றோம்.
-
-...
-
-[Data](articles/d1b45003.json)
 
 ---

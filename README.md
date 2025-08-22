@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 06:33:54**
+As of **2025-08-22 07:17:19**
 
 ## Newspaper Stats
 
-*Scraped **71,664** Articles*
+*Scraped **71,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,895
-adaderanalk | 9,036
+adaderanalk | 9,037
 tamilmirrorlk | 10,546
 virakesarilk | 11,839
-adaderanasinhalalk | 12,381
+adaderanasinhalalk | 12,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,664 articles have been extended.
+61,973 (86.5%) of 71,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### ඉදිරි දින කිහිපයේ කාලගුණයේ විශේෂ වෙනසක්
+
+*2025-08-22 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213636) · `si`
+
+උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල ඉදිරි දින කිහිපයේදී සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අද (22) පෙරවරුවේ නිකුත්කළ මෙම නිවේදනයට අනුව උතුරු, උතුරු-මැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත ඇතිවිය හැකිය.
+
+එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/27597988.json)
+
+---
 
 ### சிங்கபூர் பிரஜையிடம் இலஞ்சம் ; இரு பொலிஸாருக்கு விளக்கமறியல்
 
@@ -47,6 +65,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ca5241b9.json)
+
+---
+
+### Evening thundershowers expected in several provinces today
+
+*2025-08-22 05:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111727/evening-thundershowers-expected-in-several-provinces-today) · `en`
+
+Atmospheric conditions are favorable for evening thundershowers in the Northern, North-Central, Central, Uva and Eastern provinces during the next few days, the Department of Meteorology said.
+
+Showers or thundershowers will occur at  several  places  in  Northern, North-Central, Central, Uva  and Eastern provinces and Hambantota district after 1.00 p.m. today (22), the Met. Department added.
+
+Fairly heavy falls of about 50 mm are likely at some places in above areas.
+
+The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/09e2c588.json)
 
 ---
 
@@ -1751,45 +1787,5 @@ A year later, the last known paddle fish - a type of ray-finned fish which can g
 ◼️
 
 [Data](articles/82838283.json)
-
----
-
-### Three-wheeler driver sentenced to death for killing man in Kelaniya
-
-*2025-08-21 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111705/three-wheeler-driver-sentenced-to-death-for-killing-man-in-kelaniya) · `en`
-
-A 43-year-old three-wheeler driver has been sentenced to death by the Colombo High Court today (21), after being found guilty of stabbing and killing a person with a sharp weapon following an argument.
-
-The verdict was delivered by Colombo High Court Judge Mahesh Weeraman, Ada Derana reporter said.
-
-The sentence was imposed on the individual found guilty of murdering an individual in Kelaniya on March 2, 2010.
-
-After a lengthy trial, Judge Mahesh Weeraman stated that the charges brought against the accused by the prosecution had been proven beyond reasonable doubt.
-
-Accordingly, the judge imposed the death sentence on the three-wheeler driver.
-
-◼️
-
-[Data](articles/d6f92d4f.json)
-
----
-
-### Three-wheeler driver sentenced to death for stabbing and killing an individual in Kelaniya
-
-*2025-08-21 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111705/three-wheeler-driver-sentenced-to-death-for-stabbing-and-killing-an-individual-in-kelaniya) · `en`
-
-A 43-year-old three-wheeler driver has been sentenced to death by the Colombo High Court today (21), after being found guilty of stabbing and killing a person with a sharp weapon following an argument.
-
-The verdict was delivered by Colombo High Court Judge Mahesh Weeraman, Ada Derana reporter said.
-
-The sentence was imposed on the individual found guilty of murdering an individual in Kelaniya on March 2, 2010.
-
-After a lengthy trial, Judge Mahesh Weeraman stated that the charges brought against the accused by the prosecution had been proven beyond reasonable doubt.
-
-Accordingly, the judge imposed the death sentence on the three-wheeler driver.
-
-◼️
-
-[Data](articles/f3b83cca.json)
 
 ---

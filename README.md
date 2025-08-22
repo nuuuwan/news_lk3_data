@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 15:50:02**
+As of **2025-08-22 16:22:18**
 
 ## Newspaper Stats
 
-*Scraped **71,752** Articles*
+*Scraped **71,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ economynextcom | 4,388
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,903
+adalk | 6,904
 adaderanalk | 9,054
-tamilmirrorlk | 10,575
+tamilmirrorlk | 10,578
 virakesarilk | 11,847
-adaderanasinhalalk | 12,402
+adaderanasinhalalk | 12,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,752 articles have been extended.
+61,973 (86.4%) of 71,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### හිටපු ජනපති බලන්න දේශපාලඥයින් ඇතුළු විශාල පිරිසක් අධිකරණ භූමියට
+
+*2025-08-22 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213662) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ඒමත් සමග හිටපු දේශපාලඥයින් කිහිපදෙනෙකු ද අධිකරණ භූමියට පැමිණ තිබේ.
+
+එමෙන්ම හිටපු ජනාධිපතිවරයාට සහය දක්වන පාක්ෂිකයින් විශාල පිරිසක් ද මේ වනවිට අධිකරණ භූමියට රැස්ව සිටී.
+
+රනිල් වික්‍රමසිංහ මහතාව අධිකරණය වෙත රැගෙන ඒමත් සමඟ එම භූමියේ ආරක්ෂාව දැඩි කර ඇතැයි 'අද දෙරණ' අධිකරණ වාර්තාකරු පැවසීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි අවස්ථාවේ දීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+...
+
+[Data](articles/8acc2001.json)
+
+---
+
+### ரணிலை பார்க்க வந்தார் நாமல்
+
+*2025-08-22 16:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்க்க-வந்தார்-நாமல்/175-363291) · `ta`
+
+இன்று கைது செய்யப்பட்ட ரணில் விக்ரமசிங்கவை பார்வையிடுவதற்காக, ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ சற்று நேரத்திற்கு முன்பு கோட்டை நீதவான் நீதிமன்றத்திற்கு வந்தார்.
+
+◼️
+
+[Data](articles/01cb9563.json)
+
+---
+
+### ரணிலை கைது செய்த ரசீது
+
+*2025-08-22 15:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைது-செய்த-ரசீது/175-363290) · `ta`
+
+குற்றப் புலனாய்வுத் துறையால் (CID) கைது செய்யப்பட்டதைத் தொடர்ந்து முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு கைது ரசீது வழங்கப்பட்டது,
+
+அவர் பொதுச் சொத்துச் சட்டத்தின் பிரிவு 5(1) மற்றும் குழு குறியீட்டின் பிரிவுகள் 386, 388 இன் கீழ் குற்றங்களைப் புரிந்திருப்பதைக் குறிக்கிறது.
+
+◼️
+
+[Data](articles/01129799.json)
+
+---
+
+### හිටපු ජනපති රනිල්ට විශ්වවිද්‍යාලයෙන් ලද ආරාධනා පත්‍රය මෙන්න
+
+*2025-08-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213661) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඔහුගේ බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ වෙත වුල්වර්හැම්ප්ටන් විශ්ව විද්‍යාලය විසින් කරන ලද ආරාධනා පත්‍රයේ පිටපතක් නිල වශයෙන් එක්සත් ජාතික පක්ෂ මාධ්‍ය ඒකකය මේ වන විට නිකුත් කර තිබේ.
+
+එම පක්ෂයේ මාධ්‍ය ඒකකය මේ සම්බන්ධව සඳහන් කර ඇත්තේ හිටපු ජනාධිපතිවරයා රාජ්‍ය අරමුදල් අනිසි ලෙස භාවිත කර නොමැති බවය.
+
+හිටපු ජනපති රනිල්ට විශ්වවිද්‍යාලයෙන් ලද ආරාධනා පත්‍රය මෙන්න  by  poornima
+
+◼️
+
+[Data](articles/49df1fba.json)
+
+---
+
+### මධ්‍ය තැපැල් හුවමාරුවට  කැරලි මර්දන කණ්ඩායම් කැඳවයි
+
+*2025-08-22 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213660) · `si`
+
+වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිටට මේ වනවිට කැරලි මර්දන කණ්ඩායම් කැඳවා තිබේ.
+
+අප වාර්තාකරුවන් පැවසුවේ, මේ වනවිට පොලිස් ආරක්ෂාවට ඒ අවට දැඩි කර ඇති බවය.
+
+වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිට සත්‍යග්‍රහයක් ආරම්භ කර තිබේ.
+
+එම සත්‍යග්‍රහය සඳහා ලංකා ගුරු සංගමය, කම්කරු අරගල මධ්‍යස්ථානය ඇතුළු වෘත්තීය සමිති කිහිපයක නියෝජිතයින් ද එක්ව සිටින බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+අද (22) පෙරවරුවේ එම ස්ථානයේ සත්‍යග්‍රහයක් ආරම්භ කළ අතර පසුව එම සත්‍යග්‍රහය අවසන් කිරීමට තැපැල් වර්ජකයින් කටයුතු කළේය.
+
+ප්‍රධාන ඉල්ලීම් 19ක් මුල්කරගනිමින් තැපැල් වෘත්තීය සමිති පසුගිය 17 වනදා මධ්‍යම රාත්‍රීයේ සිට ආරම්භ කළ වැඩවර්ජනය අද 05 වන දිනටත් ක්‍රියාත්මක වන අතර වර්ජනය හේතුවෙන් තැපැල් සේවා ලබා ගැනීම සඳහා පැමිණි ජනතාව දැඩි අසීරුතාවට පත්ව සිටියේය.
+
+මේ අතර සමස්ත ලංකා උප තැපැල් ස්ථානාධිපතිවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රවීන්ද්‍ර අමරජීව මහතා සඳහන් කළේ, ජනතාව අපහසුතාවයට පත් නොකර වර්ජනය අවසන් කරන ලෙස සෙසු තැපැල් වෘත්තීය සමිති නියෝජිතයින්ගෙන් ඉල්ලා සිටින බවය.
+
+...
+
+[Data](articles/623e7e41.json)
+
+---
+
+### ரணில் கைது: உலக செய்திகள் இவ்வாறு அறிக்கையிட்டுள்ளன
+
+*2025-08-22 15:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-உலக-செய்திகள்-இவ்வாறு-அறிக்கையிட்டுள்ளன/175-363289) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்ட செய்தியை, உலக ஆங்கில இணையத்தளங்கள், இவ்வாறு அறிக்கையிட்டுள்ளன.
+
+◼️
+
+[Data](articles/80e49548.json)
+
+---
 
 ### யூடியூபர் கணித்தபடி ரணில் கைது: சப்ரி கவலை
 
@@ -49,6 +149,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d6be0755.json)
+
+---
+
+### அதிகரித்து வரும் யானைகளின் உயிரிழப்பு ; அவசர சட்ட சீர்திருத்தங்களுக்கு இலங்கை சட்டதரணிகள் சங்கம் அழைப்பு
+
+*2025-08-22 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/223107) · `ta`
+
+நாட்டில் யானைகளின் உயிரிழப்பு அதிகரிக்கின்றமை தொடர்பில் வருத்தம் தெரிவித்துள்ளதோடு, ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு இலங்கை சட்டத்தரணிகள் சங்கம் கடிதம் எழுதியுள்ளது.
+
+உலகிலேயே அதிகளவில் இலங்கையில் யானைகள் உயிரிழக்கின்றன. கடந்த ஆண்டுகளில் சிறுத்தைகள் மற்றும் பிற பாதுகாக்கப்பட்ட விலங்கினங்கள் தொடர்ந்து கொல்லப்படுகின்றன.
+
+இலங்கையின் தாவரங்கள் மற்றும் விலங்கினங்கள் நாட்டின் வளமான மற்றும் பன்முகத்தன்மை கொண்ட பாரம்பரியத்தின் ஒருங்கிணைந்த பகுதியாகும். இது எதிர்கால சந்ததியினருக்காக பாதுகாக்கப்பட வேண்டும்.
+
+இலங்கைக்கு வருகை தரும் மில்லியன் கணக்கான வெளிநாட்டு சுற்றுலாப் பயணிகள் வளவிலங்குகளால் ஈர்க்கப்படுகின்றன. நாட்டின் பொருளாதாரத்தில் முக்கிய பங்கு வகிக்கிறது.
+
+இந்த விடயத்தை கருத்தில் கொண்டு தற்போதுள்ள சட்ட கட்டமைப்பிற்கு அவசர திருத்தம் மற்றும் மறுசீரமைப்பு தேவை.  விரிவான சட்ட சீர்திருத்தங்களுக்கான தனது சொந்த திட்டங்களை விரைவில் ஜனாதிபதியிடம் சமர்ப்பிக்க உள்ளோம்.
+
+...
+
+[Data](articles/1c9a269e.json)
 
 ---
 
@@ -87,26 +207,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/940028b8.json)
-
----
-
-### அதிகரித்து வரும் யானைகளின் உயிரிழப்பு தொடர்பில் இலங்கை சட்டதரணிகள் சங்கம் எச்சரிக்கை ; அவசர சட்ட சீர்திருத்தங்களுக்கு அழைப்பு
-
-*2025-08-22 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223107) · `ta`
-
-நாட்டில் யானைகளின் உயிரிழப்பு அதிகரிக்கின்றமை தொடர்பில் வருத்தம் தெரிவித்துள்ளதோடு, ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு இலங்கை சட்டத்தரணிகள் சங்கம் கடிதம் எழுதியுள்ளது.
-
-உலகிலேயே அதிகளவில் இலங்கையில் யானைகள் உயிரிழக்கின்றன. கடந்த ஆண்டுகளில் சிறுத்தைகள் மற்றும் பிற பாதுகாக்கப்பட்ட விலங்கினங்கள் தொடர்ந்து கொல்லப்படுகின்றன.
-
-இலங்கையின் தாவரங்கள் மற்றும் விலங்கினங்கள் நாட்டின் வளமான மற்றும் பன்முகத்தன்மை கொண்ட பாரம்பரியத்தின் ஒருங்கிணைந்த பகுதியாகும். இது எதிர்கால சந்ததியினருக்காக பாதுகாக்கப்பட வேண்டும்.
-
-இலங்கைக்கு வருகை தரும் மில்லியன் கணக்கான வெளிநாட்டு சுற்றுலாப் பயணிகள் வளவிலங்குகளால் ஈர்க்கப்படுகின்றன. நாட்டின் பொருளாதாரத்தில் முக்கிய பங்கு வகிக்கிறது.
-
-இந்த விடயத்தை கருத்தில் கொண்டு தற்போதுள்ள சட்ட கட்டமைப்பிற்கு அவசர திருத்தம் மற்றும் மறுசீரமைப்பு தேவை.  விரிவான சட்ட சீர்திருத்தங்களுக்கான தனது சொந்த திட்டங்களை விரைவில் ஜனாதிபதியிடம் சமர்ப்பிக்க உள்ளோம்.
-
-...
-
-[Data](articles/1c9a269e.json)
 
 ---
 
@@ -423,6 +523,24 @@ He further emphasized that, although the PTA is still being applied to a limited
 ...
 
 [Data](articles/6ecb4685.json)
+
+---
+
+### පොලීසිය හැර ගිය උප පොලිස් පරීක්ෂක අයිස් සමග අල්ලයි
+
+*2025-08-22 13:03:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-හැර-ගිය-උප-පොලිස්-පරීක්ෂක-අයිස්-සමග-අල්ලයි/11-418015) · `si`
+
+පොලිස් සේවයේ යෙදි සිටි උප පොලිස් පරික්ෂකවරයෙකු අයිස් ග්‍රෑම් 2 යි මිලිග්‍රෑම් 75 ක් සමග අත්අඩංගුවට ගත් බව කිරිඇල්ල පොලිසිය පවසයි.
+
+මෙම උප පොලිස් පරික්ෂකවරයා අවසන් වරට රත්නපුර මුලස්ථාන පොලිසියට සම්බන්ධව සේවය කර ඇති බවත් අයිස් මත් ද්‍රව්‍ය පානය කිරිම නිසා වෛද්‍ය පරික්ෂණයකට යොමු කිරිමට අදාල බලධාරින් කටයුතු කිරිමේදි එය ප්‍රතික්ෂේප කර ඇති බව පොලිස් ආරංචි මාර්ග පවසයි.
+
+මෙම තත්වය මත  රාජකාරියට වාර්තා නොකිරිම තුළ මොහුගේ සේවය අතහැර යාමට නියෝග නිකුත් කර ඇති බව පොලිස් ආරංචි මාර්ග පවසයි.
+
+රත්නපුර කොට්ඨාශ නියෝජ්‍ය පොලිස්පති මංජුල මහගිරිල්ල මහතාගේ නියෝග මත ජ්‍යේෂ්ඨ පොලිස් අධිකාරි කපිල ප්‍රේමදාස මහතාගේ උපදෙස් මත කිරිඇල්ල පොලිසිය විසින් වැඩිදුර පරික්ෂණ පැවත්වේ.
+
+◼️
+
+[Data](articles/d093087b.json)
 
 ---
 
@@ -1655,117 +1773,5 @@ AGSPeC President Deshamanya Prof. Mohan Munasinghe (who shared the 2007 Nobel Pe
 ...
 
 [Data](articles/d2ccc916.json)
-
----
-
-### Cabinet clears construction of new Wattuwakal bridge on A035 highway
-
-*2025-08-22 04:25:38* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-construction-of-new-Wattuwakal-bridge-on-A035-highway/56-780595) · `en`
-
-The Cabinet of Ministers on Monday approved awarding the construction contract for the new Wattuwakal Bridge (Bridge No. 50/1) on the Paranthan–Karatchi–Mullaitivu (A035) highway to M/s RR Construction Ltd., the lowest substantially responsive bidder.
-
-The decision follows recommendations by the Higher Level Standing Procurement Committee, which evaluated the bids received under the national competitive bidding process.
-
-The Wattuwakal Bridge, located across the Nandikadal Lagoon, was last renovated in 2009, but is now deemed structurally insecure. To address safety and connectivity concerns, the Road Development Authority (RDA) has planned to replace it with a new two-lane bridge.
-
-The proposal was presented to the Cabinet by Transport, Highways, Ports and Civil Aviation Minister Bimal Rathnayake.
-
-◼️
-
-[Data](articles/90c6072c.json)
-
----
-
-### Young political leaders from South and Southeast Asia meet with Women Parliamentarians’ Caucus
-
-*2025-08-22 04:25:12* · [`dailyftlk`](https://www.ft.lk/news/Young-political-leaders-from-South-and-Southeast-Asia-meet-with-Women-Parliamentarians-Caucus/56-780594) · `en`
-
-Young political leaders from across South and Southeast Asia with their staff members and representatives from the Institute of Konrad Adenauer Stiftung met with the Women Parliamentarians’ Caucus following their visit to Parliament.
-
-Young political leaders from across South and Southeast Asia engaged in constructive dialog with the Women Parliamentarians’ Caucus held recently Chaired by Women and Child Affairs Minister Saroja Savithri Paulraj and its members.
-
-Expressing views, the Chair of the Caucus stated that the 10th Parliament consists of the largest representation of women in Parliament from various political, ethnic and religious backgrounds. Furthermore, the Chair stated that main focus of the Caucus is on empowering women, eliminating violence and harassment, advocating for gender equality, and to curate legal and policy reforms.
-
-...
-
-[Data](articles/52e2328b.json)
-
----
-
-### திருகோணமலையில் கிழக்கு மாகாண ஆளுநர் – ஐ.அ. எமிரேட்ஸ் தூதுவர் சந்திப்பு
-
-*2025-08-22 04:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/223065) · `ta`
-
-கிழக்கு மாகாண ஆளுநர் பேராசிரியர் ஜயந்த லால் ரத்னசேகர மற்றும் இலங்கைக்கான ஐக்கிய அரபு எமிரேட்ஸ்  தூதுவர்  காலித் நாசர் அல்-அமெரி ஆகியோருக்கும் இடையேயான சந்திப்பு வியாழக்கிழமை (21) திருகோணமலையில் உள்ள ஆளுநர் செயலகத்தில் நடைபெற்றது.
-
-இலங்கையில் தற்போதைய அரசாங்கத்தால் மேற்கொள்ளப்படும் திட்டங்களுக்கு தனது பாராட்டுகளைத் தெரிவித்த தூதர், இலங்கையின் வளர்ச்சியில் முதலீடு செய்வதற்கான சாத்தியக்கூறுகள் குறித்து விரிவாக கலந்துரையாடினார்.
-
-குறிப்பாக, திருகோணமலை மாவட்டத்தில் சுற்றுலா, மீன்பிடி மற்றும் விவசாயத் தொழில்களில் முதலீடு செய்வது மற்றும் மேம்படுத்துவது குறித்து கலந்துரையாடல்கள் நடைபெற்றன இதில் ஆளுனர் செயலக செயலாளர் உள்ளிட்ட பலரும் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/ff761966.json)
-
----
-
-### தெமட்டகொடையில் ரயில் ஒன்று தவறான பாதையில் சென்றதால் ரயில் சேவைகள் தாமதம் - இலங்கை ரயில்வே திணைக்களம்
-
-*2025-08-22 04:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223064) · `ta`
-
-தெமட்டகொட ரயில் நிலையம் அருகே ரயில் ஒன்று தவறான பாதையில் சென்றதால் ஏற்பட்ட இடையூறினால், மருதானை – கொழும்பு கோட்டை இடையேயான ரயில் சேவைகள் தாமதமடைந்துள்ளன.
-
-21ஆம் திகதி வியாழக்கிழமை மாலை 6.45 மணிக்கு மருதானையிலிருந்து காலிக்கு புறப்படவிருந்த கடுகதி இரவு தபால் ரயிலும் தாமதத்திற்கு உள்ளாகியுள்ளது.
-
-இந்த இடையூறு காரணமாக, மேல் மற்றும் கீழ் திசைகளில் இயங்கும் அனைத்து ரயில்களும் தாமதமாக இயங்கும் என இலங்கை ரயில்வே அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/1ae33477.json)
-
----
-
-### CIPM adds ISO 21001:2018 to growing list of global accreditations
-
-*2025-08-22 04:06:30* · [`dailyftlk`](https://www.ft.lk/business/CIPM-adds-ISO-21001-2018-to-growing-list-of-global-accreditations/34-780584) · `en`
-
-From left: CIPM Sri Lanka Manager – Quality Assurance and Compliance Hasini Samarakoon, CEO U.A.C. Obeysekere, President Priyantha Ranasinghe, SLSI Director General/CEO Dr. Siddhika Senaratne, and CIPM Sri Lanka COO Himali Dasanayake
-
-CIPM Sri Lanka, the nation’s leader in Human Resource Management, has achieved a landmark accomplishment by earning the ISO 21001:2018 Educational Organisation Management System (EOMS) certification from the Sri Lanka Standards Institution (SLSI) – an honour that cements its position at the forefront of educational excellence.
-
-The certification was ceremoniously presented to CIPM Sri Lanka President Priyantha Ranasinghe by Sri Lanka Standards Institution (SLSI) Director General Dr. Siddhika G. Senaratne. The presentation took place at the CIPM Diploma Awarding Ceremony held at BMICH, in the presence of an esteemed gathering of distinguished guests, Council Members, faculty, students, and staff.
-
-...
-
-[Data](articles/711b75fb.json)
-
----
-
-### Gem Sri Lanka 2026 launch set for 26 August
-
-*2025-08-22 04:05:04* · [`dailyftlk`](https://www.ft.lk/business/Gem-Sri-Lanka-2026-launch-set-for-26-August/34-780583) · `en`
-
-The Ceylon Gem and Jewellery Traders Association (CGJTA) announced that the launch of the ‘Gem Sri Lanka 2026’ international expo will take place on 26 August at the Lotus Ballroom of Shangri-La Colombo.
-
-The international gem and jewellery exhibition, now in its third edition, will be held on 7-9 January 2026, at Shangri-La Colombo. Organised under the theme ‘The Source. The Production. The Selection’, the event will showcase Sri Lanka’s position as a leading origin of high-quality gemstones.
-
-Following the 2024 and 2025 editions, which attracted global collectors, traders, and connoisseurs, the 2026 exhibition will feature upgraded exhibitor services and improved visitor facilities. CGJTA said the show aims to provide an immersive experience for international and local participants, while highlighting the full journey of Sri Lankan gems from mine to market.
-
-...
-
-[Data](articles/4d3de91b.json)
-
----
-
-### WIM’s Top 50 Career Women Awards set to mark 15-year milestone in October
-
-*2025-08-22 04:03:27* · [`dailyftlk`](https://www.ft.lk/business/WIM-s-Top-50-Career-Women-Awards-set-to-mark-15-year-milestone-in-October/34-780582) · `en`
-
-From left: NextTier Awards Panel of Judge Ted Muttiah, Cinnamon Lakeside General Manager Nazoomi Azhar, Women in Management (WIM) Founder and Chairperson Dr. Sulochana Segera, Wim Top50 Global Awards Panel of Judge Gowri Rajan and MSME Awards Panel of Judge Minoli Wickramasinghe at the WIM Global Week launch press briefing – Pix by Ruwan Walpola
-
-Women in Management (WIM) is set to host its signature event, the Top 50 Professional and Career Women Awards 2025, in October. Celebrating 15 years of empowering and honouring outstanding women globally, the event will feature exciting new segments as part of its Global Week 2025.
-
-...
-
-[Data](articles/1406b450.json)
 
 ---

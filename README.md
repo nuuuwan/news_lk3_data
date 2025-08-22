@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 13:51:25**
+As of **2025-08-22 14:08:31**
 
 ## Newspaper Stats
 
-*Scraped **71,725** Articles*
+*Scraped **71,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,901
 adaderanalk | 9,048
-tamilmirrorlk | 10,565
+tamilmirrorlk | 10,566
 virakesarilk | 11,842
-adaderanasinhalalk | 12,398
+adaderanasinhalalk | 12,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,725 articles have been extended.
+61,973 (86.4%) of 71,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### හිටපු ජනපති රනිල් අත්අඩංගුවට
+
+*2025-08-22 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213655) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද (22) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි අවස්ථාවේ දීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+ඊට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට කරුණු දක්වනු ලැබුවේ, ජුනි 24 වෙනි දා ය‍.
+
+අනතුරුව එම විමර්ශනයට අදාළව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පෞද්ගලික ලේකම් ලෙස කටයුතු කළ සැන්ඩ්‍රා පෙරේරා මහත්මියගෙන් ද, හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගෙන් ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ප්‍රකාශ සටහන් කර ගත්තේය.
+
+...
+
+[Data](articles/45da21bf.json)
+
+---
+
+### ரணில் கைது
+
+*2025-08-22 13:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-கைது/150-363278) · `ta`
+
+வாக்குமூலம் ஒன்றை அளிப்பதற்காக நிதி குற்றப் புலனாய்வுப் பிரிவில் முன்னிலையான முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது செய்யப்பட்டுள்ளார்.
+
+ஜனாதிபதியாக அவர் பணியாற்றிய காலப்பகுதியில் மேற்கொண்ட வெளிநாட்டுப் பயணங்கள் தொடர்பில் வாக்குமூலம் பெறுவதற்காக இன்று காலை அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியிருந்த நிலையில் இவர் கைது செய்யப்பட்டுள்ளார்.  R
+
+◼️
+
+[Data](articles/60259f94.json)
+
+---
 
 ### සැප්තැම්බර් මුල PTA අහෝසි කරන කෙටුම්පත ගැසට් කිරීමට සූදානම්
 
@@ -1733,41 +1767,5 @@ Therefore, train services between the two railway stations have been affected.
 ◼️
 
 [Data](articles/30d9957f.json)
-
----
-
-### Russia launches biggest wave of strikes on Ukraine for weeks
-
-*2025-08-21 19:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111723/russia-launches-biggest-wave-of-strikes-on-ukraine-for-weeks) · `en`
-
-Russia has launched 574 drones and 40 missiles on Ukraine in one of the heaviest bombardments in weeks, Ukrainian officials say.
-
-One person was killed in a drone and missile strike on the western city of Lviv, while 15 others were reported wounded in an attack on the south-western Transcarpathia region.
-
-The attacks came as US President Donald Trump spearheads diplomatic moves to halt the war. Ukrainian Foreign Minister Andrii Sybiha said the strikes highlighted why efforts to bring it to an end were “so critical”.
-
-President Volodymyr Zelensky has said Ukraine was ready to meet Russia’s Vladimir Putin “in neutral Europe” - mooting Switzerland or Austria - adding that he was not against Istanbul either.
-
-Zelensky has stated his willingness to meet Putin in “any format”, although he has poured cold water on the idea of talks taking place in Budapest, which he said “is not easy today”.
-
-...
-
-[Data](articles/78dd3808.json)
-
----
-
-### வெப்பநிலை குறித்து விடுக்கப்பட்ட எச்சரிக்கை
-
-*2025-08-21 19:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-363240) · `ta`
-
-நாட்டின் பல பகுதிகளில் நாளை வெப்பநிலை அதிகரித்த மட்டத்தில் நிலவக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
-
-இன்று (21) பிற்பகல் 3.30 மணிக்கு வெளியிடப்பட்ட அறிக்கை நாளை வரை செல்லுபடியாகும் என்று அந்த திணைக்களம் தெரிவித்துள்ளது.
-
-வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்கள் மற்றும் ஹம்பாந்தோட்டை மற்றும் மொனராகலை மாவட்டங்களில் உள்ள சில பகுதிகளில் வெப்பக் குறியீடானது மனித உடலால் உணரப்படும் வெப்பநிலை, எச்சரிக்கை மட்டத்தில் காணப்படும் என வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது. R
-
-◼️
-
-[Data](articles/d30adabd.json)
 
 ---

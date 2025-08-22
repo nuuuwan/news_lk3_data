@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 08:03:26**
+As of **2025-08-22 08:42:25**
 
 ## Newspaper Stats
 
-*Scraped **71,667** Articles*
+*Scraped **71,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ economynextcom | 4,384
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,895
+adalk | 6,896
 adaderanalk | 9,038
-tamilmirrorlk | 10,546
+tamilmirrorlk | 10,547
 virakesarilk | 11,839
-adaderanasinhalalk | 12,382
+adaderanasinhalalk | 12,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,667 articles have been extended.
+61,973 (86.5%) of 71,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### இன்று எச்சரிக்கை மட்டத்தில் வெப்பநிலை
+
+*2025-08-22 07:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-363257) · `ta`
+
+நாட்டின் பல பகுதிகளில் வெப்பநிலை இன்று கவனம் செலுத்த வேண்டிய அளவுக்கு உயரும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, வட, வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் சில பகுதிகளிலும் மொனராகலை மற்றும் அம்பாந்தோட்டை மாவட்டங்களிலும் மனித உடலால் உணரப்படும் அளவில் வெப்பநிலை காணப்படும் எனத் தெரிவிக்கப்படுகின்றது.
+
+மேற்படி மாகாணங்களில் உள்ள மக்கள் உடலுக்கு தேவையான அளவு தண்ணீர் பருகுவதுடன், வயதானவர்கள் மற்றும் நோயாளர்கள் மீது அதிக கவனம் செலுத்துமாறு தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/b5173a15.json)
+
+---
+
+### සූරියවැවදී STF සමග වෙඩි හුවමාරුවකින් සැකකරුවෙක් මරුට
+
+*2025-08-22 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213641) · `si`
+
+හම්බන්තොට සූරියවැව වැවේගම කැළෑබද ප්‍රදේශයකදී STF නිලධාරීන් සමග සිදුවූ වෙඩි හුවමාරුවකදී සැකකරුවෙකු මියගොස් තිබේ.
+
+අදාළ සැකකරු වෙඩිවැදීමෙන් තුවාල ලබා රෝහල්ගත කිරීමේදී මෙලෙස මියගොස් ඇති බව වාර්තා වෙයි.
+
+වෙඩි හුවමාරුවේදී තුවාල ලැබූ STF නිලධාරියෙකු ද සූරියවැව රෝහලට ඇතුළත් කර තිබේ.
+
+අදාළ ස්ථානයේ සැකකරුවන් දෙදෙනෙකු රැඳීසිට ඇති අතර වෙඩි හුවමාරුව අතරතුර එක් සැකකරුවෙකු පලාගොස් ඇති බවද වාර්තා වෙයි.
+
+වෙඩි හුවමාරුව අතරතුර සැකකරුවන් විසින් අත්බෝම්බයක් ද නිලධාරීන් දෙසට එල්ලකර තිබේ.
+
+වෙඩිවැදීමෙන් මියගිය සැකකරු පසුගියදා කොස්ගොඩදී සිදුකළ වෙඩිතැබීමේ සැකකරුවෙකු බවට පොලීසිය සැක පළකරයි.
+
+◼️
+
+[Data](articles/71a5fd66.json)
+
+---
+
+### රනිල්ට අද FCIDයෙන් කැඳවීමක්
+
+*2025-08-22 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213640) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට අද (22) මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත කැඳවීමක් සිදුකර තිබේ.
+
+සිදු කරනු ලබන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාගැනීම සඳහා හිටපු ජනාධිපතිවරයා මෙලෙස මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය වෙත කඳවීමක් සිදුකර ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව රනිල් වික්‍රමසිංහ මහතා ජනාධිපති ධුරය දැරූ කාලසීමාව තුළ ඔහුගේ බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රධාන උත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් වන විමර්ශනයකට අදාළව මෙම විමර්ශනය සිදු කරන බව වැඩිදුරටත් සඳහන්ය.
+
+◼️
+
+[Data](articles/160c7b84.json)
+
+---
+
+### වර්ජනයේ නිරත තැපැල් සේවකයින්ට අගෝස්තු වැටුප නෑ
+
+*2025-08-22 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213639) · `si`
+
+වර්ජනයේ නිරත තැපැල් සේවකයින්ට මෙම මස වැටුප් නොගෙවන බව තැපැල්පති රුවන් සත්කුමාර මහතා පවසයි.
+
+ලිපියක් යොමුකරමින් වර්ජනයේ නිරත සේවකයින්ට ඔහු දන්වා ඇත්තේ, මාසික වැටුප අවශ්‍යනම් වහාම සේවයට වාර්තා කරන ලෙසය.
+
+වර්ජනයේ නිරත වෘත්තීය සමිති ද ලිඛිතව මේ සම්බන්දයෙන් දැනුම්වත් කළ බව හෙතෙම වැඩිදුරටත් පැවසීය.
+
+මේ අතර තැපැල්පති රුවන් සත්කුමාර මහතා පවසා සිටියේ, වර්ජනය හේතුවෙන් රුපියල් මිලියන 140ක පමණ පාඩුවක් මේ වනවිට සිදුව ඇති බවය.
+
+කෙසේ වෙතත් මධ්‍යම තැපැල් හුවමාරුවේ ගොඩගෑසී තිබූ තැපැල් මලු බෙදාහෑරීමේ කටයුතු සිදුකරන බව ඔහු පවසයි.
+
+"වැටුප් ගෙවීමට මහා භාණ්ඩාගාරයෙන් අපට මුදල් ලැබෙන්න ඕන. මට දැනුම්දී තිබෙනවා වර්ජනය කරන අතර තුර වැටුප් ගෙවීම සඳහා මුදල් නිකුත්කිරීමක් සිදුවෙන්නේ නැතිවෙයි කියලා.
+
+ඒ නිසා සේවයට වාර්තා කල අයට විතරක් මුදල් ලැබෙන්න ඉඩ තියෙනවා. වර්ජනය කරන අයටත් දැනුම්දුන්නා අද සේවයට වාර්තා කරන්න කියලා" යනුවෙන් පැවසීය.
+
+◼️
+
+[Data](articles/b6bc0655.json)
+
+---
+
+### බණ්ඩාරගමදී වෙඩිතබා ඝාතනය කර ඇත්තේ හිටපු බන්ධනාගාර නිලධාරියෙක්
+
+*2025-08-22 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213637) · `si`
+
+බණ්ඩාරගම පොලිස් වසමේ බොල්ගොඩ පාලම අසලදී වෙඩිතබා ඝාතනය කෙරුණු පුද්ගලයා පිළිබඳව තොරතුරු අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය සඳහන් කළේ මෙලෙස ඝාතනය කර ඇත්තේ හිටපු බන්ධනාගාර නිලධාරියෙකු වන ඔහු ලලිත් කුමාර කෝදාගොඩ නමැති පානදුර ප්‍රදේශයේ පදිංචිකරුවෙකු බවය.
+
+බණ්ඩාරගම පොලිස් වසමේ බොල්ගොඩ පාලම අසලදී ඔහු කාර් රථයකින් ගමන් කරමින් සිටියදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ඊයේ (21) සවස් කාලයේදී මෙම වෙඩිතැබීම සිදුකර තිබුණි.
+
+වෙඩිතැබීම සඳහා T56 වර්ගයේ ගිනිඅවියක් භාවිත කර ඇති බවට සැක කරන අතර වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
+
+වෙඩි ප්‍රහාර 20කට අධික සංඛ්‍යාවක් ඔහු ඉලක්ක කර තබා ඇති බවද වාර්තා විය.
+
+වෙඩි ප්‍රහාරයෙන් මියගිය ලලිත් කුමාර කෝදාගොඩ පාතාල කල්ලි නායක සමයං ඝාතන සිද්ධියේ ඔත්තුකරුවෙකු ලෙස කටයුතු කර ඇති අතර ඒ සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින අයෙකු වෙයි.
+
+පොලීසිය සැක පළ කරන්නේ, එම සිදුවීමට පළිගැනීමක් ලෙස මෙම ඝාතනය සිදුකරන්නට ඇති බවය.
+
+◼️
+
+[Data](articles/c874ebaf.json)
+
+---
 
 ### ඉදිරි දින කිහිපයේ කාලගුණයේ විශේෂ වෙනසක්
 
@@ -1022,6 +1124,26 @@ Police further stated that the shooting was carried out using a T-56 firearm and
 
 ---
 
+### පොරොන්දු වූ සාකච්ඡාව තවමත් නෑ  තැපැල් වර්ජනය අඛණ්ඩව
+
+*2025-08-21 18:16:17* · [`adalk`](https://www.ada.lk/breaking_news/පොරොන්දු-වූ-සාකච්ඡාව-තවමත්-නෑ--තැපැල්-වර්ජනය-අඛණ්ඩව/11-418005) · `si`
+
+තැපැල් සේවකයින්ට ඇති වි තිබෙන ගැටලු විසඳීම අමතකකර ආණඩුවේ ඇතැම් පිරිස්  තැපැල් සේවකයින් සම්බන්ධයෙන් අසත්‍ය කරුණු ප්‍රකාශ කරමින් සිටින බව තැපැල් වෘත්තීය සමීති නියොජිතයින් සඳහන් කරති.
+
+මේ නිසා අදාළ ගැටලු විසඳන ලෙස බලකරමින්  දැනට ක්‍රියාත්මක කරන වැඩ වර්ජනය අඛණ්ඩව සිදුකරන බවද එම සංගම් නියෝජිතියෝ පෙන්වා දෙති.
+
+තැපැල් වෘත්තීය සමිති  විසිහතකට අයත් සේවකයන් පසුගිය 17දා  ආරම්භ කළ වැඩවර්ජනය  පස්වන  දිනටත් ඊයේ(21දා) ක්‍රියාත්මක විය.
+
+බලධාරීන් විසින් වෘත්තීය සමිති සඳහා  සාකච්ඡාවක් ලබා දෙන බවට පොරොන්දු වී තිබුණත් අදාළ සාකච්ඡාව ඊයේ දිනයේදීත් ලබා නොදුන් බවත් සේවකයන් ඉල්ලා සිටින ඉල්ලීම්වලට කිසිදු විසඳුමක් ලබා නොදුන් බවත් වෘත්තීය සමිති නියෝජිතයෝ සඳහන් කරති.
+
+කොළඹ මධ්‍යම තැපැල් හුවමාරුවේ පසුගිය 17දා   සවස  4.00 සිට හා දිවයින පුරා අනෙකුත් සියලු තැපැල් කාර්යාලවල එදින මධ්‍යම රාත්‍රී 12.00සිට මෙම වැඩ වරජනය ආරම්භ කරනු ලැබිණි.
+
+◼️
+
+[Data](articles/3e30fe9f.json)
+
+---
+
 ### Staff shortages threaten flight safety in India - report
 
 *2025-08-21 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111718/staff-shortages-threaten-flight-safety-in-india-report) · `en`
@@ -1671,123 +1793,5 @@ As former Minister Senaratne has not yet been located, officials from the Commis
 ◼️
 
 [Data](articles/2776112b.json)
-
----
-
-### Officials post court notice at ex-Minister Rajitha’s residence
-
-*2025-08-21 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111709/bribery-comm-officials-post-court-notice-at-ex-minister-rajithasresidence) · `en`
-
-Former Minister Rajitha Senaratne, who is currently absconding authorities despite an order issued by court, has had official notices posted at his residence in Malabe today (21) by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The notices were placed following a warrant issued by the Colombo Chief Magistrate’s Court, ordering the former minister to appear in court on August 29.
-
-The case has been filed in relation to a project involving the unauthorized removal of sand at the Kirinda Fisheries Harbour, which allegedly caused a loss of Rs. 26.2 million to the government.
-
-The Bribery Commission submitted that the project was carried out fraudulently, leading to the financial loss.
-
-As former Minister Senaratne has not yet been located, officials from the Commission visited his residence and posted court summons, notifying him of the requirement to appear before court on the scheduled date.
-
-◼️
-
-[Data](articles/53c13679.json)
-
----
-
-### உலக புகழ்பெற்ற  நீதிபதி பிராங்க் காப்ரியோ  காலமானார்
-
-*2025-08-21 15:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உலக-புகழ்பெற்ற-நீதிபதி-பிராங்க்-காப்ரியோ-காலமானார்/50-363221) · `ta`
-
-கருணை மிகுந்த தீர்ப்புகளுக்காக உலகம் முழுவதும் புகழ்பெற்ற அமெரிக்க நீதிபதி பிராங்க் காப்ரியோ காலமானார். அவருக்கு வயது 88. இவரது மறைவுக்கு பல்வேறு தரப்பினர் இரங்கல் தெரிவித்து உள்ளனர்.
-
-அமெரிக்க பிரபல நீதிபதியும், சமூக ஊடக நட்சத்திரமுமான பிராங்க் காப்ரியோ,  இவர் கணைய புற்றுநோயால் அவதிப்பட்டு வந்தார். இதற்காக அவர் மருத்துவமனையில் சிகிச்சையும் பெற்று வந்தார். ஆனால் அவர் சிகிச்சை பலன் அளிக்காமல் உயிரிழந்தார். இவரது நீதிமன்ற நடவடிக்கைகள் மற்றும் அவர் வழங்கும் தீர்ப்புகள் மக்களிடையே பெரும் வரவேற்பை பெற்றன.
-
-அவரது தீர்ப்புகள், கருணை அடிப்படையில் இருக்கும். வழக்கு விசாரணையும் எவர் மனதையும் புண்படுத்தாமல், காண்பவர் மனம் திருப்தி அடையும் வகையில் இருக்கும்.
-
-நீதிமன்ற அறையில் அவரது கருணை மற்றும் நகைச்சுவை உணர்வுக்காக மிகவும் விரும்பப்பட்ட நீதிபதி கேப்ரியோ, 'Caught in providence' என்ற நிகழ்ச்சியின் வாயிலாக உலகம் முழுவதும் பிரபலமானார். உலகின் மிகச்சிறந்த நீதிபதி என்று அவரை பல்லாயிரக்கணக்கான பேர் கொண்டாடி வருகின்றனர்.
-
-...
-
-[Data](articles/7ff37422.json)
-
----
-
-### One in five people in Western Province suffer from diabetes, health experts warn
-
-*2025-08-21 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111708/one-in-five-people-in-western-province-suffer-from-diabetes-health-experts-warn) · `en`
-
-One in every five people in Western Province has diabetes as a consequence of excessive sugar consumption, according to health experts.
-
-Participating in a media briefing convened by Sri Lanka Medical Association (SLMA), Specialist Dr. Manilka Sumanatilleke stated that excessive sugar consumption had led to this situation.
-
-“Non-communicable diseases are increasing rapidly and now account for 80% of all deaths in the country. Heart disease, high blood pressure and diabetes are amongst them. Diabetes is also prevalent among children with obesity,” he said.
-
-He pointed out that Sri Lanka is listed among the countries with high sugar consumption. “On average, a person has consumed between 25 to 30 kg of sugar per year. An adult typically consumes three to four teaspoons of sugar daily,” said Specialist Dr. Manilka Sumanatilleke.
-
-...
-
-[Data](articles/fafc983a.json)
-
----
-
-### Chinese scientists battling to save finless porpoise from brink of extinction
-
-*2025-08-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111707/chinese-scientists-battling-to-save-finless-porpoise-from-brink-of-extinction) · `en`
-
-Chinese scientists are in a battle to save one of the last large animal species living in the Yangtze River – and a complete ban on fishing in the region is helping them.
-
-At the Institute of Hydrobiology in Wuhan, just 5km (3.1 miles) from the banks of the river, the preserved bodies of the now-extinct river dolphin (baiji in Chinese) and paddle fish sit silently behind panes of glass.
-
-“Now that those have become extinct, we’re going to save the Yangtze river porpoise,” Professor Wang Xi tells the BBC. “It has become the most important animal here.”
-
-It was in 2002 that the last known baiji died, 22 years after researchers at the Institute started caring for it.
-
-A year later, the last known paddle fish - a type of ray-finned fish which can grow to more than 3 metres - was accidentally caught by fishermen and, despite being radio tagged and released, disappeared.
-
-...
-
-[Data](articles/4d497960.json)
-
----
-
-### සිම්බාබ්වේ යන ශ්‍රී ලංකා එක්දින සංචිතය නම් කෙරේ
-
-*2025-08-21 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213617) · `si`
-
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ඉදිරියේ දී සිදුකිරීමට නියමිත සිම්බාබ්වේ තරග සංචාරයේ එක්දින තරගාවලියට ක්‍රීඩාකිරීමට නියමිත ශ්‍රී ලංකා සංචිතය අද (21) ප්‍රකාශයට පත් කළේය.
-
-ඒ අනුව චරිත් අසලංකගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 16 දෙනෙකුගෙන් යුත් සංචිතයක් ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව විසින් මේ සඳහා නම්කර ඇත.
-
-දෙරට අතර තරග 2 යුත් එක්දින හා තරග 3කින් යුත් විස්සයි20 තරගාවලියක් පැවැත්වෙන අතර, ඉන් පළමුව පැවැත්වෙන එක්දින තරගාවලිය මේ මස 29වනදා ආරම්භ වේ.
-
-ඉතිරි තරග 31වනදා පැවැත්වෙන අතර, සියලුම තරග හරාරේහිදී පැවැත්වීමට නියමිතය.
-
-දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ හිදී පැවැත්වේ.
-
-1) චරිත් අසලංක (නායක), 2) පැතුම් නිස්සංක, 3) නිශාන් මධුෂ්ක, 4) කුසල් මෙන්ඩිස්, 5) සධීර සමරවික්‍රම, 6) නුවනිදු ප්‍රනාන්දු, 7) කමිඳු මෙන්ඩිස්, 8) ජනිත් ලියනගේ, 9) පවන් රත්නායක, 10) දුනිත් වෙල්ලාලගේ, 11) මිලාන් රත්නායක, 12) මහීෂ් තීක්ෂණ, 13) ජෙෆ්රි වැන්ඩර්සේ, 14) අසිත ප්‍රනාන්දු, 15) දුෂ්මන්ත චමීර, 16) ඩිල්ෂාන් මධුශංක
-
-◼️
-
-[Data](articles/ed2cc75c.json)
-
----
-
-### හිටපු ඇමති අනුර ප්‍රියදර්ශන ඇතුළු විත්තිකරුවන්ට අධිචෝදනා
-
-*2025-08-21 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213616) · `si`
-
-2014 වසරේ දෙසැම්බර් මස ගංවතුර ආධාර සපයන බව සඳහන් කරමින් අනීතික ලෙස තෙල් නීතිගත සංස්ථාවට අයත් රුපියල් ලක්ෂ 61කට අධික මුදලක් වැය කිරීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කිරීම ඇතුළු චෝදනා යටතේ හිටපු ඛනිජතල් විෂය භාර අමාත්‍ය අනුර ප්‍රියදර්ශනය යාපා මහතා ඇතුළු විත්තිකරුවන් හය දෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබූ අධිචෝදනා පත්‍ර අද (21) කොළඹ මහාධිකරණය හමුවේ භාරදෙනු ලැබීය.
-
-කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ මෙම අධිචෝදනා භාරදීම සිදුවුණි.
-
-ඉන් අනතුරුව එක් එක් විත්තිකරු රුපියල් ලක්ෂය බැගින් වූ මුදල් ඇප සහ රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැරීමට විනිසුරුවරයා නියම කළේය.
-
-ඉන් අනතුරුව විත්තිකරුවන්ගේ ඇඟිලි සලකනු ලබාගෙන වාර්තා කැඳවීමට ද විනිසුරුවරයා විසින් නියම කරනු ලැබීය.
-
-ඉන් අනතුරුව මෙම නඩුව පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා ඔක්තෝබර් මස 01 වනදා කැඳවීමට ද නියම වුණි.
-
-...
-
-[Data](articles/bc33fd19.json)
 
 ---

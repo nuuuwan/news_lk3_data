@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 19:12:49**
+As of **2025-08-22 19:25:50**
 
 ## Newspaper Stats
 
-*Scraped **71,782** Articles*
+*Scraped **71,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
 adaderanalk | 9,058
-tamilmirrorlk | 10,589
-virakesarilk | 11,847
-adaderanasinhalalk | 12,413
+tamilmirrorlk | 10,592
+virakesarilk | 11,849
+adaderanasinhalalk | 12,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,782 articles have been extended.
+61,973 (86.3%) of 71,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### மின்சாரம் திரும்பியது
+
+*2025-08-22 19:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-திரும்பியது/175-363303) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்படும் நீதிமன்ற அறையில் மின்சாரம் மீண்டும் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1c03ddaf.json)
+
+---
+
+### ரணிலுக்கு மாலைதீவின் முன்னாள் ஜனாதிபதி ஆதரவு
+
+*2025-08-22 19:09:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-மாலைதீவின்-முன்னாள்-ஜனாதிபதி-ஆதரவு/175-363302) · `ta`
+
+இன்று கைது செய்யப்பட்ட இலங்கையின் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க விரைவில் வீடு திரும்புவார் என்று மாலைதீவின் முன்னாள் அதிபர் முகமது நஷீத் நம்பிக்கை தெரிவித்துள்ளார்.
+
+சமூக ஊடக தளமான X இல் நஷீத் ஒரு பதிவில், முன்னாள் ஜனாதிபதியின் அதிகாரப்பூர்வ கணக்கைக் குறிப்பிட்டு, விக்ரமசிங்கேவின் வருகையை "மிகவும் ஆவலுடன் எதிர்நோக்குகிறேன்" என்று கூறினார்.
+
+ஊழல் குற்றச்சாட்டுகளின் பேரில் இலங்கையின் முன்னாள் அரசுத் தலைவர் ஒருவர் கைது செய்யப்படுவது இதுவே முதல் முறை என்பதால் அவரது கைது பிராந்திய கவனத்தை ஈர்த்துள்ளது.
+
+◼️
+
+[Data](articles/1ac2ed51.json)
+
+---
+
+### சிங்கப்பூர் உள்துறை அமைச்சர் - எதிர்க்கட்சி தலைவருக்கிடையில் சந்திப்பு
+
+*2025-08-22 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223136) · `ta`
+
+சிங்கப்பூருக்கு விஜயம் மேற்கொண்டுள்ள எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அந்நாட்டின் தேசிய பாதுகாப்பு ஒருங்கிணைப்பு அமைச்சர் மற்றும் உள்துறை அமைச்சர் கே. சண்முகத்தை சந்தித்துள்ளார். வெள்ளிக்கிழமை (22) இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+சிங்கப்பூருக்கான இலங்கை உயர்ஸ்தானிகர் எஸ்.சந்திரதாஸ் உள்ளிட்டோரும் இந்த சந்திப்பில் பங்கேற்றிருந்தனர். இதன் போது இரு தரப்பினரும் சிங்கப்பூரின் வளர்ச்சிப் பாதை குறித்து கருத்துக்களைப் பரிமாற்றிக் கொண்டனர். சிங்கப்பூரிடமிருந்து கற்றுக்கொள்ளக்கூடிய பாடங்கள் பல இலங்கைக்குக் உள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+1950 மற்றும் 1960 தசாப்தங்களில் சிங்கப்பூர் இலங்கையின் வளர்ச்சி நோக்குநிலையைப் பின்பற்றி வளர்ச்சித் திட்டங்களை தயாரித்து தற்போது காணப்படுகின்ற விரைவான வளர்ச்சியை அடைந்துகொண்டது. ஆனால் இன்று இலங்கை வெற்றியின் முன்மாதிரியாக சிங்கப்பூரைப் பார்க்கிறது என்று எதிர்க்கட்சித் தலைவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/0d01c9c0.json)
+
+---
+
+### ගතවූ සතිය තුළ සැකකරුවන් 3,387ක් අත්අඩංගුවට
+
+*2025-08-22 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213671) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීමේ විශේෂ පොලිස් මෙහෙයුමේ දී ගතවු සතියක කාලය තුල සැකකරුවන් 3,387දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිසිය පවසයි.
+
+මේ මස 15 වනදා සිට 21 වනදා දක්වා කාලසීමාව තුල දිවයින පුරා සිදුකළ වැටලීම් 3,392කදී අදාළ පිරිස අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය කොට්ඨාශය සඳහන් කළේය.
+
+එම වැටලීම්වලදී හෙරෝයින් කිලෝග්‍රෑම් 03යි ග්‍රෑම් 869ක්, අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 02යි ග්‍රෑම් 119ක්, හෑෂ් ග්‍රෑම් 97ක්, ගංජා කිලෝග්‍රෑම් 166ක් ඇතුළු මත්ද්‍රව්‍ය පොලිස් භාරයට ගෙන ඇති බව සදහන් වේ.
+
+මත්ද්‍රව්‍ය ජාලය හදුනාගැනීම සදහා පොලිස්පතිවරයාගේ උපදෙස් මත දිවයින පුරා මෙම විශේෂ පොලිස් මෙහෙයුම ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/112761ae.json)
+
+---
+
+### பெரும்புள்ளிகள் நீதிமன்றத்தில்...
+
+*2025-08-22 19:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்புள்ளிகள்-நீதிமன்றத்தில்/175-363301) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வழக்கு நடைபெற்று வரும் நிலையில், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, பாராளுமன்ற உறுப்பினர் ரவூப் ஹக்கீம் உள்ளிட்ட பல அரசியல்வாதிகள் சற்றுமுன் கோட்டை நீதவான் நீதிமன்றத்திற்கு வருகை தந்துள்ளனர்.
+
+◼️
+
+[Data](articles/495ab744.json)
+
+---
 
 ### நீதிமன்றுக்குள் நுழைந்தது மின்சார சபை
 
@@ -71,6 +145,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/90edc8bd.json)
+
+---
+
+### பொறளையில்யில் துப்பாக்கிச் சூடு!
+
+*2025-08-22 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223135) · `ta`
+
+பொறளையில் காதர் நானாவத்த பகுதியில் வெள்ளிக்கிழமை (22) பிற்பகல் துப்பாக்கிச் சூடு சம்பவம் இடம்பெற்றது.
+
+அடையாளம் தெரியாத நபர்கள் மேற்கொண்டதாகக் கூறப்படும் இந்த துப்பாக்கிச் சூட்டில், யாருக்கும் காயம் ஏற்படவில்லை என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+சம்பவம் நடந்ததையடுத்து அப்பகுதியில் பரபரப்பு நிலவியது. துப்பாக்கிச் சூடு நடத்தியவர்கள் சம்பவத்துக்குப் பிறகு உடனடியாக அங்கிருந்து தப்பிச் சென்றனர்.
+
+இச்சம்பவம் தொடர்பாக CCTV காட்சிகள் மற்றும் சாட்சியங்களின் அடிப்படையில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/0fa1d4b9.json)
 
 ---
 
@@ -1633,109 +1725,5 @@ Accordingly, it is further stated that the investigation pertains to Ranil Wickr
 ◼️
 
 [Data](articles/106b64ab.json)
-
----
-
-### Former President Ranil arrives at CID
-
-*2025-08-22 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111733/former-president-ranil-arrives-at-cid-) · `en`
-
-Former President Ranil Wickremesinghe arrived at the Criminal Investigation Department (CID) this morning (22) to provide a statement in connection with an ongoing investigation.
-
-He had been summoned by the CID to appear today and to record his statement regarding the matter.
-
-Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President.
-
-◼️
-
-[Data](articles/9402818d.json)
-
----
-
-### Earthquake of magnitude 7.5 hits Drake Passage off South America
-
-*2025-08-22 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111732/earthquake-of-magnitude-75-hits-drake-passage-off-south-america) · `en`
-
-A magnitude 7.5 earthquake struck the Drake Passage on Thursday, the waters between South America’s southern tip and Antarctica.
-
-Chile’s Navy Hydrographic and Oceanographic Service issued a tsunami precaution for the Chilean Antarctic territory following an 8.0-magnitude earthquake that struck 258 km (160 miles)northwest of Base Frei on Wednesday evening, it said in a bulletin.
-
-The United States Geological Survey (USGS) also initially reported the earthquake at a magnitude of 8 but later revised it, said that it occurred at a depth of 11 km (7 miles).
-
-The earthquake struck over 700 km southeast of Argentina’s southern city of Ushuaia, which has a population of about 57,000, according to the USGS.
-
-◼️
-
-[Data](articles/670f74f3.json)
-
----
-
-### රනිල් CIDයට පැමිණෙයි
-
-*2025-08-22 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213643) · `si`
-
-ප්‍රකාශයක් ලබාදීම සඳහා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (22) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව (CID) වෙත පැමිණියේය.
-
-එම කොට්ඨාසය විසින් සිදුකළ කැඳවීමකට අදාළව ඔහු මෙලෙස පැමිණ තිබේ.
-
-රනිල් වික්‍රමසිංහ මහතා ජනාධිපති ධුරය දැරූ කාලසීමාව තුළ ඔහුගේ බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රධාන උත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් වන විමර්ශනයකට අදාළව මෙම විමර්ශනය සිදු කරන බව සඳහන්.
-
-◼️
-
-[Data](articles/e82b62b5.json)
-
----
-
-### Postal workers on strike will not receive salaries – Postmaster General
-
-*2025-08-22 08:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111731/postal-workers-on-strike-will-not-receive-salaries-postmaster-general) · `en`
-
-Postmaster General Ruwan Sathkumara announced that postal employees currently engaged in strike action will not be paid their salaries for this month.
-
-He stated that letters have been sent to the striking employees, instructing them to report for duty immediately if they wish to receive their monthly salaries.
-
-Relevant trade unions have also been officially notified in writing, he said.
-
-Sathkumara further revealed that the ongoing strike has resulted in an estimated financial loss of around Rs. 140 million.
-
-Despite the strike, he confirmed that the backlog of postal bags accumulated at the Colombo Central Mail Exchange is now being distributed.
-
-“We need to obtain funds from the Treasury in order to pay salaries. I have been informed that no funds will be released for salary payments during the strike. Therefore, only those who have reported for duty are likely to receive their salaries. Striking employees have also been informed to report for duty today.”
-
-◼️
-
-[Data](articles/e2f6aa8e.json)
-
----
-
-### Ex-President Ranil summoned to CID today
-
-*2025-08-22 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111730/ex-president-ranil-summoned-to-fcid-today) · `en`
-
-Former President Ranil Wickremesinghe has been summoned to appear at the Criminal Investigation Department (CID) today (22).
-
-It is reported that the former President has been summoned to record a statement in connection with an ongoing investigation.
-
-Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President.
-
-◼️
-
-[Data](articles/1fb890ea.json)
-
----
-
-### Ex-President Ranil summoned to CID today
-
-*2025-08-22 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111730/ex-president-ranil-summoned-to-cid-today) · `en`
-
-Former President Ranil Wickremesinghe has been summoned to appear at the Criminal Investigation Department (CID) today (22).
-
-It is reported that the former President has been summoned to record a statement in connection with an ongoing investigation.
-
-Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President.
-
-◼️
-
-[Data](articles/da984aa2.json)
 
 ---

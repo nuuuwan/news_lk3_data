@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 08:42:25**
+As of **2025-08-22 09:09:07**
 
 ## Newspaper Stats
 
-*Scraped **71,673** Articles*
+*Scraped **71,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,384
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,896
+adalk | 6,897
 adaderanalk | 9,038
-tamilmirrorlk | 10,547
+tamilmirrorlk | 10,549
 virakesarilk | 11,839
 adaderanasinhalalk | 12,386
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,673 articles have been extended.
+61,973 (86.5%) of 71,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### விஜயின் கருத்துக்கு கமல்ஹாசன் பதில்
+
+*2025-08-22 08:41:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-கருத்துக்கு-கமல்ஹாசன்-பதில்/175-363259) · `ta`
+
+மார்கெட் போன பின்னர் அடைக்கலம் தேடி அரசியலுக்கு வரவில்லை என்று விஜய் பேசியதற்கு மக்கள் நீதி மய்யம் கட்சியின் தலைவர் கமல்ஹாசன் பதிலளித்துள்ளார்.
+
+தமிழக வெற்றிக் கழகத்தின் 2 ஆவது மாநில மாநாடு நேற்று மதுரை மாவட்டம் பாரபத்தியில் நடைபெற்றது. வரவிருக்கும் சட்டப்பேரவைத் தேர்தலில் தனது கட்சியின் கூட்டணி நிலைப்பாடு தொடங்கி கொள்கை எதிரி, அரசியல் எதிரி யார், கட்சியின் திட்டம் என்ன என்று பல்வேறு விஷயங்கள் குறித்தும் அக்கட்சியின் தலைவர் விஜய் பேசினார்.
+
+இதில் விஜய் பேசும்போது, “கூடிய சீக்கிரம் மக்களை சந்திப்பேன். அது இடி முழக்கமாக மாறும். அது போர் முழக்கமாக மாறும். நான் மார்கெட் போன பின்னர் அடைக்கலம் தேடி அரசியலுக்கு வரவில்லை. படைக்கலனுடன் அரசியலுக்கு வந்துள்ளேன். அதுமட்டுமல்ல நான் நன்றிக்கடனுக்காக அரசியலுக்கு வந்துள்ளேன். 30 வருடங்களுக்கு மேலாக என்னை நீங்கள் தான் தாங்கிப் பிடிக்கிறீர்கள்.உங்களுக்காக வருகிறேன். நான் உங்களை மறக்க மாட்டேன்” என்று பேசினார்.
+
+...
+
+[Data](articles/2d0770e8.json)
+
+---
+
+### சமூக ஊடகங்களில் பரவும் போலி கடிதம்
+
+*2025-08-22 08:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-பரவும்-போலி-கடிதம்/175-363258) · `ta`
+
+பொலிஸ் மா அதிபர் மற்றும் மூத்த அதிகாரிகளால் வெளியிடப்பட்ட அதிகாரப்பூர்வ ஆவணம் என்று பொய்யாகக் கூறி சமூக ஊடகங்களில் பரவும் ஒரு போலி கடிதம் குறித்து இலங்கை பொலிஸ் பொதுமக்களை எச்சரித்துள்ளது.
+
+போலியான பெயர்கள் மற்றும் கையொப்பங்களைக் கொண்ட இந்தக் கடிதம், பொதுமக்களைத் தவறாக வழிநடத்தும் வகையில் வேண்டுமென்றே, பரப்பப்பட்டுள்ளதாக பொலிஸ் தெரிவித்துள்ளது.
+
+குறித்த ஆவணத்தை உருவாக்கிப் பகிர்ந்ததற்குப் பொறுப்பானவர்களைக் கண்டறியக் கணினி குற்றப்பிரிவு விசாரணையை ஆரம்பித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/e1c527cb.json)
+
+---
 
 ### இன்று எச்சரிக்கை மட்டத்தில் வெப்பநிலை
 
@@ -1144,6 +1176,22 @@ Police further stated that the shooting was carried out using a T-56 firearm and
 
 ---
 
+### වෙරළේ ස්ථිර ගොඩනැගිලිවලට වාර්ෂික දඩ හෝ බලපත්‍ර ක්‍රමයක්
+
+*2025-08-21 18:01:49* · [`adalk`](https://www.ada.lk/breaking_news/වෙරළේ-ස්ථිර-ගොඩනැගිලිවලට-වාර්ෂික-දඩ-හෝ-බලපත්‍ර-ක්‍රමයක්/11-418004) · `si`
+
+වෙරළ තීරයේ ඉදිකර ඇති ස්ථිර ගොඩනැගිලි සඳහා වාර්ෂික දඩ ක්‍රමයක් හෝ බලපත්‍ර ක්‍රමයක් සැප්තැම්බර් දෙවැනි සතියේ සිට ආරම්භ කිරීමට පියවර ගෙන ඇතැයි වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ටර්නි ප්‍රදීප් කුමාර මහතා පවසයි.
+
+ශ්‍රී ලංකාවේ මුහුදු ආසන්න පිහිටි සියලුම දිස්‌ත්‍රික්‌කවල ඉදිකර තිබෙන ස්ථිර ගොඩනැගිලි සඳහා වාර්ෂික දඩ ක්‍රමයක් හෝ බල පත්‍ර ක්‍රමයක් සැප්තැම්බර් මස දෙවැනි සතියේ සිට හඳුන්වා දීමට කටයුතු කරන බව වෙරළ සංරක්ෂණ සහ වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ටර්නි ප්‍රදීප් කුමාර මහතා සඳහන් කරන කළේය.
+
+ශ්‍රී ලංකා මුහුදු පද්ධතිය තුළ මුහුදේ අඩු බාදිය ගලන මට්ටමේ සිට කිලෝමීටර් දෙකක තීරය වෙරළ සංරක්ෂණ හා වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුවට අයත් බවත්, වෙරළ කලාපයේ ස්ථිර මායිමේ සිට මීටර් 300ක ගොඩ බිම දෙසට මුහුදු කුටි පටියද කළමනාකරණය වනුයේ වෙරළ සම්පත් කළමනාකරණ දෙපාර්තමේන්තුව යටතේ බවද, ඔහු සඳහන් කළේය.
+
+...
+
+[Data](articles/ed52ca4a.json)
+
+---
+
 ### Staff shortages threaten flight safety in India - report
 
 *2025-08-21 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111718/staff-shortages-threaten-flight-safety-in-india-report) · `en`
@@ -1737,61 +1785,5 @@ Accordingly, the relief sought by former IGP Deshabandu Tennakoon was rejected b
 ◼️
 
 [Data](articles/e0cbcb91.json)
-
----
-
-### iPhone 17 Pro Max සැප්තැම්බර් මුල වෙළෙඳපොළට?
-
-*2025-08-21 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213619) · `si`
-
-ඇපල් සමාගම විසින්  iPhone 17 Pro Max ජංගම දුරකථනය සැප්තැම්බර් මස මුලදී වෙළෙඳපොළට නිකුත් කිරීමට නියමිත බව විදෙස් වාර්තා සඳහන් කරයි.
-
-ගෙවුණු වසරේ iPhone 16 දුරකථන මාලාව නිකුත් කිරීමෙන් පසුව, මෙම iPhone 17,iPhone 17 Pro සහ iPhone 17 Pro Max ඇතුළු iPhone 17 මාලාව ඉක්මනින් වෙළෙඳපොළට නිකුත් කිරීම ආරම්භ කෙරුණි.
-
-මෙම iPhone 17 Pro Maxහි ඇති විශේෂාංග පිළිබඳව නිල වශයෙන් තවමත් සඳහන් කර නොමැත.
-
-මේ අතර ඇපල් සමාගමේ iPhone 17 මාදිලිය ඉන්දියාව තුළ එකලස් කිරීමට නියමිත බව ද විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-ඒ වෙනුවෙන් ඉන්දීය කර්මාන්ත ශාලා 5ක් සුදානමින් ඇති බවත්, මෙය ඉන්දියාව තුළ iPhone නිෂ්පාදනයක් ලෙස එක්ලස් කිරීමේ කටයුතු සිදුකරන පළමු අවස්ථාව ලෙසත් විදෙස් මාධ්‍ය පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/e1b19329.json)
-
----
-
-### වරෙන්තුව කියවා රාජිතගේ නිවසේ දොරේ අලවයි
-
-*2025-08-21 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213618) · `si`
-
-නොතීසි නිකුත් කර ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා තවමත් සොයා ගැනීමට නොහැකි වීම හේතුවෙන් අද (21) නිලධාරීන් විසින් ඔහුගේ මාලඹේ පිහිටි නිවසට ගොස් දැන්වීම් අලවනු ලැබීය.
-
-කිරින්ද ධීවර වරායේ වැලි ඉවත්කිරීමේ ව්‍යාපෘතියක් අවිධිමත්ව සිදුකිරීමෙන් රජයට රුපියල් ලක්ෂ 262ක පාඩුවක් සිදුකිරීම සම්බන්ධයෙන් වූ නඩුවට අදාළව මෝසමක් මගින් අල්ලස් කොමිසම කළ කරුණු දැක්වීම සලකා බැලීමෙන් අනතුරු ඔහුට නොතීසි නිකුත් කෙරුණි.
-
-අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් වී ඇති හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාට එළඹෙන අගෝස්තු 29 වනදා අධිකරණය හමුවේ පෙනීසිටින ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය ඊයේ (20) නොතීසි නිකුත් කළේය.
-
-◼️
-
-[Data](articles/85beae01.json)
-
----
-
-### Officials post court notice at ex-Minister Rajitha’s residence
-
-*2025-08-21 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111709/officials-post-court-notice-at-ex-minister-rajithas-residence) · `en`
-
-Former Minister Rajitha Senaratne, who is currently absconding authorities despite an order issued by court, has had official notices posted at his residence in Malabe today (21) by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The notices were placed following a warrant issued by the Colombo Chief Magistrate’s Court, ordering the former minister to appear in court on August 29.
-
-The case has been filed in relation to a project involving the unauthorized removal of sand at the Kirinda Fisheries Harbour, which allegedly caused a loss of Rs. 26.2 million to the government.
-
-The Bribery Commission submitted that the project was carried out fraudulently, leading to the financial loss.
-
-As former Minister Senaratne has not yet been located, officials from the Commission visited his residence and posted court summons, notifying him of the requirement to appear before court on the scheduled date.
-
-◼️
-
-[Data](articles/2776112b.json)
 
 ---

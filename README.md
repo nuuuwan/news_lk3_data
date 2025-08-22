@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 13:18:12**
+As of **2025-08-22 13:32:12**
 
 ## Newspaper Stats
 
-*Scraped **71,723** Articles*
+*Scraped **71,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,901
 adaderanalk | 9,048
-tamilmirrorlk | 10,564
+tamilmirrorlk | 10,565
 virakesarilk | 11,842
 adaderanasinhalalk | 12,397
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,397
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,723 articles have been extended.
+61,973 (86.4%) of 71,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### பாராளுமன்றத்தில் பதற்றம்: சுவர் ஏறி குதித்தவர் சிக்கினார்
+
+*2025-08-22 13:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பதற்றம்-சுவர்-ஏறி-குதித்தவர்-சிக்கினார்/175-363277) · `ta`
+
+பாராளுமன்ற வளாகத்துக்குள் இன்று (22)  காலையில் சுவர் ஏறி குதித்து அத்துமீறி நுழைந்த நபரால் பெரும் பரபரப்பு ஏற்பட்டது.
+
+பாராளுமன்ற வளாகத்துக்குள் இன்று (22)  காலை 6.30 மணியளவில் ஒரு நபர் மரத்தில் ஏறி சுவர் மீது குதித்து உள்ளே நுழைந்தார். ரயில் பவன் பக்கத்திலிருந்து சுவர் தாண்டி குதித்து ஊடுருவியவர், புதிய பாராளுமன்றக் கட்டிடத்தின் கருடா வாயிலை அடைந்ததாக அதிகாரிகள் தெரிவித்தனர்.
+
+சுவர் ஏறி குதித்து ஊடுருவிய நபர் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளார். அவரிடம் விசாரணை நடைபெற்று வருவதாக அதிகாரிகள் தெரிவித்தனர். பெரும் அனலை கிளப்பிய பாராளுமன்ற மழைக்காலக் கூட்டத்தொடர் வியாழக்கிழ​மையுடன் (21) நிறைவடைந்த நிலையில், இன்று (22) இந்த சம்பவம் நடந்துள்ளது.
+
+...
+
+[Data](articles/6ecb4685.json)
+
+---
 
 ### “PTA வர்த்தமானி அடுத்த மாதம் இரத்து”
 
@@ -1757,23 +1773,5 @@ This special insurance scheme has been introduced particularly for districts pro
 ...
 
 [Data](articles/dd5396ed.json)
-
----
-
-### President’s Fund to expand assistance programmes for persons with disabilities
-
-*2025-08-21 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111721/presidents-fund-to-expand-assistance-programmes-for-persons-with-disabilities) · `en`
-
-A meeting has been held in a bid to expand the services provided through the President’s Fund for persons with disabilities, as well as the execution of programmes in partnership with the National Secretariat for Persons with Disabilities.
-
-The discussion was held this afternoon (21) at the Presidential Secretariat between Secretary to the President, Dr. Nandika Sanath Kumanayake and officials of the National Secretariat for Persons with Disabilities, the President’s Media Division said.
-
-Key areas of attention included increasing medical support allowances, providing essential equipment to empower persons with disabilities, supporting the continuous education of their children and offering special educational assistance to children with disabilities, the PMD stated.
-
-Secretary to the President Dr. Nandika Sanath Kumanayake emphasized that the President’s Fund will take steps to strengthen and streamline existing services to make them more effective and impactful.
-
-...
-
-[Data](articles/7eb3ed73.json)
 
 ---

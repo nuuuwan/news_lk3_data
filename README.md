@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 11:52:23**
+As of **2025-08-22 12:08:55**
 
 ## Newspaper Stats
 
-*Scraped **71,704** Articles*
+*Scraped **71,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,388
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,897
+adalk | 6,899
 adaderanalk | 9,048
-tamilmirrorlk | 10,553
+tamilmirrorlk | 10,556
 virakesarilk | 11,842
 adaderanasinhalalk | 12,393
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 12,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,704 articles have been extended.
+61,973 (86.4%) of 71,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### யாழ்., பல்கலைக்கழக  மாணவர்களின் 10 ஆவணப்படங்கள் இன்று திரையிடப்படும்
+
+*2025-08-22 11:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழக-மாணவர்களின்-10-ஆவணப்படங்கள்-இன்று-திரையிடப்படும்/175-363268) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழக ஊடகக் கற்கைகள் துறை மாணவர்களால் தயாரிக்கப்பட்ட ஆவணப்படங்கள்  வெள்ளிக்கிழமை பிற்பகல் 2.30 மணிக்கு பல்கலைக்கழக நூலகக் கேட்போர்கூடத்தில் திரையிடப்படவுள்ளன.
+
+மலையகத்தில் ஹட்டன் பிரதேசத்தில் களிமண்ணால் மேற்கொள்ளப்படும் ஆபரணக் கைத்தொழில் தொடர்பான ‘ரெரகொட்டா ஜீவல்ஸ்’,
+
+முல்லைத்தீவு குமுளமுனை கிராமத்தில் இராணுவத்தால் படுகொலை செய்யப்பட்ட ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்களின் கதையான ‘கொலைக்களம்’,
+
+மட்டக்களப்பு - கல்லடி பிரதேச பறங்கியர் சமூக மக்களின் வாழ்வியல் பற்றிய ‘படிமம்’,
+
+மஸ்கெலியா பிரதேசசபைக்கு உட்பட்ட கிராமங்களில் தோட்ட உட்கட்டமைப்பு அமைச்சின் மூலம் முன்னெடுக்கப்பட்ட வீட்டுத் திட்டங்களில் மக்கள் எதிர்நோக்கும் சவால்களை விபரிக்கும் ‘லயத்துக்குயில்’,
+
+யுத்தத்தில் உடல் அங்கங்களை இழந்து சிரமத்தின் மத்தியில் அன்றாட வாழ்க்கையை வாழும் கேப்பாப்பிலவு கிராம மக்களின் பதிவான ‘ரணம்’,
+
+மயானங்களில் அவை சார்ந்து சேவை வழங்கும் சாதாரண மனிதர்களின் அன்றாட வாழ்வியல் சிக்கல்களைப் பதிவு செய்யும் ‘அறியாப்பாதை’
+
+◼️
+
+[Data](articles/33ff76e3.json)
+
+---
+
+### பாக்., இந்திய அணிகள்: விளையாடும் ஆனா விளையாடாது
+
+*2025-08-22 11:44:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாக்-இந்திய-அணிகள்-விளையாடும்-ஆனா-விளையாடாது/44-363267) · `ta`
+
+இருதரப்பு ஒருநாள் கிரிக்கெட் தொடரில் பாகிஸ்தானுடன் இந்திய அணி விளையாடாது என்று மத்திய விளையாட்டுத்துறை அமைச்சகம் அறிவித்துள்ளது. அதேநேரத்தில் அடுத்த மாதம் நடைபெறவுள்ள ஆசிய கோப்பையில் இந்திய அணி, பாகிஸ்தானுடன் விளையாடும் என்று அறிவிக்கப்பட்டுள்ளது.
+
+ஆசிய கோப்பை கிரிக்கெட் தொடர் வரும் செப்டம்பர் 9-ல் ஐக்கிய அரபு அமீரகத்தில் தொடங்குகிறது.
+
+இம்முறை டி20 வடிவில் போட்டிகள் நடத்தப்பட உள்ளன. மொத்தம் 8 அணிகள் பங்கேற்க உள்ளன. ‘ஏ’ பிரிவில் இந்தியா, பாகிஸ்தான், ஓமன், ஐக்கிய அரபு அமீரகம் உள்ளிட்ட உள்ளிட்ட அணிகள் இடம் பெற்றுள்ளன.
+
+‘பி’ பிரிவில் ஆப்கானிஸ்தான், வங்கதேசம், இலங்கை, ஹாங்காங் அணிகள் இடம் பெற்றுள்ளன. இந்த தொடரில் இந்திய அணி தனது முதல் ஆட்டத்தில் ஐக்கிய அரபு அமீரகத்துடன் செப்டம்பர் 10-ல் மோதுகிறது. 14ம் திகதி பாகிஸ்தானுடனும், 19ம் திகதி ஓமனையும் எதிர்த்து இந்திய அணி விளையாட உள்ளது.
+
+...
+
+[Data](articles/d41e4f8e.json)
+
+---
+
+### தென் அமெரிக்காவில் வலுவான நில அதிர்வு
+
+*2025-08-22 11:43:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்-அமெரிக்காவில்-வலுவான-நில-அதிர்வு/175-363266) · `ta`
+
+தென் அமெரிக்காவில் இன்று 7.5 மெக்னிடியூட் அளவிலான வலுவான நில அதிர்வு ஏற்பட்டது.
+
+இதைத் தொடர்ந்து ஆழிப்பேரலை அபாயம் இல்லை என அதிகாரிகள் தெரிவித்துள்ளதாக வௌிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+தென் அமெரிக்காவின் தெற்கு முனைக்கும் அண்டார்டிகாவிற்கும் இடையில் அமைந்துள்ள நீர் நிலையான டிரேக் கடல் பெருவழியில் நில அதிர்வு ஏற்பட்டதாகத் தகவல்கள் தெரிவிக்கின்றன.
+
+முன்னதாக, நில அதிர்வு 8.0 மெக்னிடியூட் அளவில் பதிவானது, ஆனால் பின்னர் அமெரிக்கப் புவியியல் ஆய்வு மையம் அதை 7.5 ஆகக் குறைத்தது.
+
+சேதம் குறித்த தகவல்கள் எதுவும் இதுவரை இல்லை என வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.  R
+
+◼️
+
+[Data](articles/efc765b6.json)
+
+---
+
+### STF නිලධාරීන් සමඟ ඇති වූ වෙඩි හුවමාරුවකින් සැකකරුවෙකු මරුට
+
+*2025-08-22 11:42:50* · [`adalk`](https://www.ada.lk/breaking_news/STF-නිලධාරීන්-සමඟ-ඇති-වූ-වෙඩි-හුවමාරුවකින්-සැකකරුවෙකු-මරුට/11-418011) · `si`
+
+හම්බන්තොට සූරියවැව වැවේගම කැළෑබද ප්‍රදේශයකදී අද (22) උදෑසන STF නිලධාරීන් සමග සිදුවූ වෙඩි හුවමාරුවකදී සැකකරුවෙකු මියගොස් ඇති බව සූරියවැව පොලීසිය කියයි.
+
+අදාළ සැකකරු වෙඩිවැදීමෙන් තුවාල ලබා රෝහල්ගත කිරීමේදී මියගොස් ඇති බව පොලීසිය කියයි.වෙඩි හුවමාරුවේදී තුවාල ලැබූ STF නිලධාරියෙකු ද සූරියවැව රෝහලට ඇතුළත් කර තිබේ.
+
+සූරියවැව වැවේගම ප්‍රදේශයේ සැකකරුවන් රැදී සිටින බවට ලද තොරතුරක් මත ඔහුව අත්අඩංගුවට ගැනීමට පොලිස් නිලධාරීන් සහ STF නිලධාරීන් පිරිසක් එහි ගොස් තිබියදී මෙම වෙඩි හුවමාරුව සිදු වී ඇති බව පොලීසිය කියයි.
+
+අදාළ ස්ථානයේ සැකකරුවන් දෙදෙනෙකු රැඳීසිට ඇති අතර වෙඩි හුවමාරුව අතරතුර එක් සැකකරුවෙකු පලාගොස් ඇති බවද වාර්තා වෙයි.
+
+මෙම වෙඩි හුවමාරුව අතරතුර සැකකරුවන් විසින් අත්බෝම්බයක් ද නිලධාරීන් දෙසට එල්ලකර ඇති අතර වෙඩිවැදීමෙන් මියගිය සැකකරු පසුගියදා කොස්ගොඩදී සිදුකළ වෙඩිතැබීමේ සැකකරුවෙකු බවට පොලීසිය සැක පළකරයි.සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/505929a1.json)
+
+---
 
 ### நோர்வூட்  முன்னாள்  தவிசாளர் இந்நாள் தவிசாளருக்கு அச்சுறுத்தல்
 
@@ -52,11 +134,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-22 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213649) · `si`
 
-දකුණු කොරියාවේ පැවැත්වෙන ආසියානු විසිකිරීමේ ශුරතාවලියේ අද (22) පැවති හෙල්ල විසිකිරීම ඉසව්වේ රන් පදක්කම දිනාගැනීමට ශ්‍රී ලංකාවේ රුමේෂ් තරංග සමත් විය.
+දකුණු කොරියාවේ පැවැත්වෙන ආසියානු විසිකිරීමේ ශුරතාවලියේ අද (22) පැවති හෙල්ල විසිකිරීම පිරිමි ඉසව්වේ රන් පදක්කම දිනාගැනීමට ශ්‍රී ලංකාවේ රුමේෂ් තරංග සමත් විය.
 
-මෙහි රිදී පදක්කම ජපාන ක්‍රීඩකයෙකුට (මී. 78.60) හිමිවූ අතර, ලෝකඩ පදක්කම පාකිස්තාන ක්‍රීඩකයෙකු (මී. 77.43) විසින් දිනාගත්තේය.
+මෙහි රිදී පදක්කම ජපාන ක්‍රීඩකයෙකුට හිමිවූ අතර, ඔහු මීටර. 78.60ක දක්ෂාතාවක් දැක්වීය.
 
-මේ අතර මෙහි කාන්තා හෙල්ල විසිකිරීමේ ඉසව්වේ රිදී පදක්කම හිමිකර ගැනීමට ශ්‍රී ලංකාවේ නදීෂා ලේකම්ගේ සමත්විය.
+ලෝකඩ පදක්කම මීටර 77.43ක දක්ෂතාවක් දැක් වූ පාකිස්තාන ක්‍රීඩකයෙකු විසින් දිනාගත්තේය.
+
+මේ අතර මෙම තරගයට පෙර පැවති කාන්තා හෙල්ල විසිකිරීමේ ඉසව්වේ රිදී පදක්කම දිනාගැනීමට ශ්‍රී ලංකාවේ නදීෂා ලේකම්ගේ සමත්විය.
+
+ඇය මීටර් 57.53ක දක්ෂතාවක් දැක්වීය. එය තරගවාරය තුළ ඇය දැක්වූ ඉහළම දක්ෂතාව මෙය වීම විශේෂත්වයක්.
+
+මේ අතර මෙම ඉසව්වේ රන් පදක්කම මීටර 62.20ක දක්ෂතාවක් දැක්වූ ජපාන ක්‍රීඩිකාව දිනාගත් අතර, ලෝකඩ පදක්කම මීටර් 57.47ක දක්ෂතාවක් දැක්වූ චීන ක්‍රීඩිකාව දිනාගත්තාය.
 
 ◼️
 
@@ -1610,6 +1698,26 @@ The office said completed applications, prepared according to the prescribed for
 
 ---
 
+### අද උෂ්ණත්වය වැඩි වෙයි
+
+*2025-08-21 18:23:03* · [`adalk`](https://www.ada.lk/breaking_news/අද-උෂ්ණත්වය-වැඩි-වෙයි/11-418006) · `si`
+
+අද(22දා) දිස්ත්‍රික්ක 12ක ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම '' අවධානය යොමු කළ යුතු ' මට්ටමක පැවතිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ, ස්වාභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය සඳහන් කරයි
+
+එනම් යාපනය, කිලිනොච්චිය, මුලතිව්,  මන්නාරම, වව්නියාව, ත්‍රිකුණාමලය, අනුරාධපුර, පොලොන්නරුව, මඩකලපුව, අම්පාර, මොනරාගල සහ හම්බන්තොට යන දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මෙම තත්ත්වය ඇති විය හැකි බවද පෙන්වා දෙයි.
+
+ඉහත උණුසුම් දර්ශකය (Heat Index) කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ගෝලීය ගණිතමය කාලගුණ අනාවැකි ආකෘති දත්ත විශ්ලේෂණ මගින් ලබාගත් වායුගෝලීය ආර්ද්‍රතාව සහ උපරිම උෂ්ණත්ව අගයන් යොදා ගනිමින්  ගණනය කර ඇති දර්ශකයක් වන අතර මෙය ශරීරයට දැනෙන තත්වයකි.
+
+මේ අනුව අද දිනයේදි වැඩ බිම්වලදී ප්‍රමාණවත් ලෙස ජලය පානය කරන ලෙසත්  සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත් වැඩිහිටි සහ රෝගී පුද්ගලයන් පිළිබඳ සැලකිලිමත් වන ලෙසත් දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+කුඩා ළමුන් වාහනවල තනියම රඳවා නොයන ලෙසත්  අධික වෙහෙසකාරී කටයුතු සීමා කරන ලෙසත්  සුදු හෝ ළා පැහැති සැහැල්ලු ඇඳුම් භාවිත කරන ලෙසත්  සඳහන් කරයි.
+
+◼️
+
+[Data](articles/b027dadf.json)
+
+---
+
 ### Man shot dead near Thun Bodhiya bridge in Bandaragama
 
 *2025-08-21 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111719/man-shot-dead-near-thun-bodhiya-bridge-in-bandaragama) · `en`
@@ -1683,99 +1791,5 @@ Police further stated that the shooting was carried out using a T-56 firearm and
 ...
 
 [Data](articles/ed52ca4a.json)
-
----
-
-### Staff shortages threaten flight safety in India - report
-
-*2025-08-21 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111718/staff-shortages-threaten-flight-safety-in-india-report) · `en`
-
-India’s aviation safety regulator is grappling with a staffing crisis that is severely affecting its ability to fulfil its mandate, a parliamentary panel has warned in a new report.
-
-The “profound and persistent shortage” of personnel at the Directorate General of Civil Aviation (DGCA) poses an “existential threat” to the integrity of the safety system, says the report, tabled in the upper house of parliament on Wednesday.
-
-The lawmakers were tasked with reviewing aviation safety in the aftermath of the 12 June Air India plane crash which killed 260 people, mostly passengers.
-
-The report doesn’t mention the crash, but flags several other concerns including overworked air traffic controllers.
-
-The BBC has contacted the DGCA and the civil aviation ministry for comment.
-
-Parliamentary committee reports are not binding on the federal government but they have in the past influenced legislative agendas and sometimes regulations.
-
-...
-
-[Data](articles/fa4f27ff.json)
-
----
-
-### முன்னாள் ஜனாதிபதி கைது விவகாரம் : யூடியூப் சுதாவின் சர்ச்சை அறிக்கை - பாராளுமன்றில் தயாசிறி ஜயசேகர
-
-*2025-08-21 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/223049) · `ta`
-
-குற்றப் புலனாய்வு பிரிவுக்கு வாக்குமூலம் வழங்க வரும் முன்னாள் ஜனாதிபதி நிச்சயமாக கைது செய்யப்படுவார். இவ்வாறு இடம்பெறாவிட்டால் தனது யூடியுப் அலைவரிசையை நிறுத்துவதாக யூடியுப் அலைவரிசை சுதா அறிவித்துள்ளார். இது நீதித்துறைக்கு விடுக்கப்படும் பாரிய அச்சுறுத்தலாகும் என எதிர்க்கட்சி உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (21) இடம்பெற்ற சுங்கக் கட்டளைச் சட்டத்தின் கீழ் இறக்குமதி தீர்வைகள் தொடர்பான விவதாத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-வாக்குமூலம் ஒன்றை பெற்றுக்காெள்வதற்காக முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வெள்ளிக்கிழமை (21) குற்றப்புலனாய்வு பிரிவுக்கு வருமாறு அழைப்பு விடுக்கப்பட்டிருக்கிறது.  வாக்குமூலம் வழங்க வரும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க நிச்சயமாக கைது செய்யப்படுவார் எனவும் அவ்வாறு  இடம்பெறாவிட்டால், தான் முன்னெடுத்துவரும்  யூடியுப் அலைவரிசையை நிறுத்துவதாக யூடியுப் சமுகவலைத்தளம் ஒன்றை  முன்னெடுத்துவரும் சுதா தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/7608c2a5.json)
-
----
-
-### Man nabbed while transporting Rs. 20 million worth of heroin inside plumbing pipe
-
-*2025-08-21 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111717/man-nabbed-while-transporting-rs-20-million-worth-of-heroin-inside-plumbing-pipe) · `en`
-
-An individual has been arrested in Payagala while transporting a stock of heroin concealed inside a plumbing pipe, police stated.
-
-Officers attached to the Kalutara Police Special Unit arrested the individual following a tip-off indicating that the suspect was transporting heroin hidden in a pipe to hand over to another individual.
-
-The seized narcotics have an estimated street value of approximately Rs. 20 million.
-
-The suspect, a 44-year-old resident of Kuda Payagala, was found to be in possession of 1 kilogram and 175 grams of heroin, which was recovered during a search of the pipe.
-
-Police further revealed that, based on the suspect’s statements, the drugs are believed to have been smuggled by boat via sea routes and distributed in bulk.
-
-◼️
-
-[Data](articles/d1b4e497.json)
-
----
-
-### අනුරට අධිචෝදනා භාර දෙයි
-
-*2025-08-21 17:40:16* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-අධිචෝදනා-භාර-දෙයි/11-418003) · `si`
-
-ගංවතුර ආධාර සපයන බව පවසමින් ඛනිජ තෙල් නීතිගත සංස්ථාවට අයත් රුපියල් ලක්‍ෂ 60ක මුදලක් වැය කිරීමෙන් රජයේ මුදල් සාවද්‍ය පරිහරණය කළ බවට චෝදනා කරමින් නීතිපතිවරයා විසින් පවරා ඇති නඩුවේ අධිචෝදනා පත්‍ර එවක ඛනිජ තෙල් විෂය භාර අමාත්‍යවරයා වශයෙන් කටයුතු කළ අනුර ප්‍රියදර්ශනය යාපා ඇතුළු විත්තිකරුවන් හයදෙනෙකුට බාරදුන් කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා විත්තිකරුවන් ඇප මත මුදාහැරීමට අද (21) නියම කළේය.
-
-රුපියල් ලක්ෂය බැගින් වූ මුදල් සහ රුපියල් ලක්ෂ 10 බැගින් වටිනා ඇපකරුවන් දෙදෙනෙකුගේ ශරීර මත විත්තිකරුවන් මුදාහැරීමට නියම කළා විනිසුරුවරයා විත්තිකරුවන්ගේ ඇඟිලි සළකුනු ලබාගෙන වාර්තා කැඳවීමටද නියම කළේය.
-
-ඛනිජ තෙල් විෂය භාර අමාත්‍යවරයා වශයෙන් කටයුතු කළ අනුර ප්‍රියදර්ශනය යාපා මහතාට අමතරව මෙලෙස චෝදනා ලැබ සිටින්නේ ධම්මිකා ශිරාණී සුමනරත්න” එස්” සමරකෝන්” සුසන්ත ද සිල්වා” සරත් පෙරේරා සහ චමින්ද සමරකෝන් නමැති විත්තිකරුවන්ය.
-
-...
-
-[Data](articles/924c0964.json)
-
----
-
-### Chinese envoy bats for UN citing hegemonism, law of the jungle
-
-*2025-08-21 17:31:00* · [`economynextcom`](https://economynext.com/chinese-envoy-bats-for-un-citing-hegemonism-law-of-the-jungle-237729/) · `en`
-
-ECONOMYNEXT – Chinese Ambassador in Sri Lanka said the authority and core role played by the United Nations should not be weakened amid the current circumstances in the world.
-
-Ambassador Qi Zhenhong made this statement when he addressed an event to mark 80th anniversary of the victory of the Chinese People’s War of Resistance Against Japanese Aggression as well as the 80th anniversary of the founding of the United Nations.
-
-His statement also comes amid U.S. President Donald Trump’s reciprocal tariff is seen hitting smaller nations like Sri Lanka.
-
-The United Nations (UN) was officially established in 1945, in the aftermath of World War II, with the goal of preventing future global conflicts and fostering international cooperation.
-
-Driven by the desire for peace and stability, the founding members of the UN aimed to promote diplomacy, human rights, and economic development.
-
-...
-
-[Data](articles/8912b243.json)
 
 ---

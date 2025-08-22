@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 17:05:53**
+As of **2025-08-22 17:17:25**
 
 ## Newspaper Stats
 
-*Scraped **71,766** Articles*
+*Scraped **71,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
-adaderanalk | 9,054
+adaderanalk | 9,055
 tamilmirrorlk | 10,583
 virakesarilk | 11,847
 adaderanasinhalalk | 12,407
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,766 articles have been extended.
+61,973 (86.4%) of 71,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ba9b0544.json)
+
+---
+
+### UNP releases Ranil’s invitation letter in response to allegations over UK trip
+
+*2025-08-22 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111743/unp-release-ranils-invitation-letter-in-response-to-allegations-over-uk-trip-) · `en`
+
+The United National Party’s (UNP) media unit has released a copy of the officially invitation letter sent by the University of Wolverhampton to former President Ranil Wickremesinghe and his wife, Professor Maithree Wickremesinghe.
+
+In its statement, the UNP media unit claimed that the former President had not misused state funds in relation to his visit to the United Kingdom.
+
+Former President Wickremesinghe was arrested today (22) after arriving at the Criminal Investigation Department (CID) to record a statement in connection with an ongoing investigation.
+
+Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
+
+Ranil Wickremesinghe had stopped in London in 2023 on his way back from Havana, where he attended a G77 summit.
+
+He and his wife, Maithree, attended a University of Wolverhampton ceremony.
+
+...
+
+[Data](articles/3733c77a.json)
 
 ---
 
@@ -1757,21 +1779,5 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/09e2c588.json)
-
----
-
-### ITAK launches half-day hartal with twin objectives in North-East
-
-*2025-08-22 05:11:44* · [`dailyftlk`](https://www.ft.lk/columns/ITAK-launches-half-day-hartal-with-twin-objectives-in-North-East/4-780620) · `en`
-
-Despite the mixed response in different areas, the hartal on the whole was successful
-
-“Hartal” is a word that entered the political discourse of countries like India, Sri Lanka and Malaysia during British rule. The Gujarati word was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A hartal denotes a total shutdown of workplaces, offices, shops, schools, transport services and courts of law. The Gandhi-led Indian National Congress often resorted to such civil disobedience protests in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati word hartal to describe the mass protests resulting in stoppages of work and shutting down of business activity.
-
-The term hartal was first introduced to Sri Lanka known formerly as Ceylon by organisations and trade unions representing the plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “hartal” shutdown.
-
-...
-
-[Data](articles/7846355b.json)
 
 ---

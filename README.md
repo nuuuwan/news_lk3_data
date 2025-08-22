@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 13:32:12**
+As of **2025-08-22 13:51:25**
 
 ## Newspaper Stats
 
-*Scraped **71,724** Articles*
+*Scraped **71,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,901
 adaderanalk | 9,048
 tamilmirrorlk | 10,565
 virakesarilk | 11,842
-adaderanasinhalalk | 12,397
+adaderanasinhalalk | 12,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,724 articles have been extended.
+61,973 (86.4%) of 71,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### සැප්තැම්බර් මුල PTA අහෝසි කරන කෙටුම්පත ගැසට් කිරීමට සූදානම්
+
+*2025-08-22 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213654) · `si`
+
+සැප්තැම්බර් මස මුලදී ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කරන කෙටුම්පත ගැසට් කිරීමට කටයුතු කරන බව විදේශ අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+අද (22) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+"ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කරනවා කියන එක අපේ ප්‍රතිපත්ති ප්‍රකාශයේ පැහැදිලිව සඳහන් වෙන දෙයක්. සැප්තැම්බර් මුල වෙනකොට ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කරන කෙටුම්පත ගැසට් කරන්න අපි කටයුතු කරනවා."
+
+◼️
+
+[Data](articles/eecb3265.json)
+
+---
 
 ### பாராளுமன்றத்தில் பதற்றம்: சுவர் ஏறி குதித்தவர் சிக்கினார்
 
@@ -1753,25 +1769,5 @@ Zelensky has stated his willingness to meet Putin in “any format”, although 
 ◼️
 
 [Data](articles/d30adabd.json)
-
----
-
-### Ministry introduces affordable crop insurance scheme for farmers
-
-*2025-08-21 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111722/ministry-introduces-affordable-crop-insurance-scheme-for-farmers) · `en`
-
-The Ministry of Agriculture, Livestock, Lands, and Irrigation has introduced a concessionary insurance scheme for key field crops, in a move to strengthen agricultural risk management.
-
-The scheme covers crops such as black gram, green gram, cowpea, peanuts, finger millet (kurakkan), sesame, and horse gram (kollu), the Ministry noted.
-
-Under this initiative, farmers cultivating cowpea can insure one acre by paying Rs. 4,200, and in the event of natural disasters, pest or disease damage, or destruction caused by wild elephants, they will be eligible to receive a compensation of Rs. 60,000 per acre.
-
-Similarly, farmers cultivating green gram can pay Rs. 5,600 per acre for insurance, and claim up to Rs. 80,000 per acre as compensation in case of damages, the Ministry stated.
-
-This special insurance scheme has been introduced particularly for districts prone to wild elephant threats, ensuring farmers receive compensation for damages incurred due to such risks.
-
-...
-
-[Data](articles/dd5396ed.json)
 
 ---

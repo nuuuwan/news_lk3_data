@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 00:35:38**
+As of **2025-08-23 00:48:55**
 
 ## Newspaper Stats
 
-*Scraped **71,844** Articles*
+*Scraped **71,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,132 @@ colombotelegraphcom | 731
 economynextcom | 4,399
 islandlk | 4,413
 dailymirrorlk | 4,733
-dailyftlk | 5,071
+dailyftlk | 5,077
 adalk | 6,908
 adaderanalk | 9,064
 tamilmirrorlk | 10,601
 virakesarilk | 11,855
-adaderanasinhalalk | 12,423
+adaderanasinhalalk | 12,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,844 articles have been extended.
+61,973 (86.3%) of 71,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### හිටපු ජනපති රනිල් බන්ධනාගාර රෝහලට
+
+*2025-08-23 00:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213681) · `si`
+
+රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුලත් කර තිබේ.
+
+වෛද්‍ය උපදෙස් මත හිටපු ජනාධිපතිවරයා මෙලෙස බන්ධනාගාර රෝහලට ඇතුලත් කර ඇති බව සඳහන් වේ.
+
+අද දෙරණ සිදු කළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුලත් කර ඇති බවය.
+
+◼️
+
+[Data](articles/a1985973.json)
+
+---
+
+### Cardinal and Catholic Bishops’ Conference call on President
+
+*2025-08-23 00:26:24* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-and-Catholic-Bishops-Conference-call-on-President/56-780669) · `en`
+
+The Archbishop of Colombo, Cardinal Malcolm Ranjith on Wednesday met with President Anura Kumara Disanayake at the Presidential Secretariat.
+
+According to the President’s Office, the Archbishop was accompanied by members of the Catholic Bishops’ Conference of Sri Lanka for the meeting.
+
+During the meeting, Cardinal Malcolm Ranjith briefed President Disanayake on key matters discussed at the Catholic Bishops’ Conference, which is held three times a year.
+
+The discussion also focused on ideas and proposals that have emerged within the Catholic Church.
+
+Catholic Bishops’ Conference of Sri Lanka Chairman Bishop Harold Anthony Perera along with other members of the Conference, attended the meeting.
+
+◼️
+
+[Data](articles/2c91b08d.json)
+
+---
+
+### Ali Sabry criticises arrest of former President Wickremesinghe
+
+*2025-08-23 00:25:42* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-criticises-arrest-of-former-President-Wickremesinghe/56-780668) · `en`
+
+Former Foreign Affairs and Justice Minister Mohamed Ali Sabry PC said the arrest of former President Ranil Wickremesinghe, as predicted by a YouTuber, was a troubling development.
+
+“Such actions reflect a disturbing trend of vindictive and destructive politics which undermines our institutions and our future. This cycle of hatred and retribution must end. Sri Lanka deserves a politics of reason, stability, and gratitude to those who have time and again safeguarded our nation,” Ali Sabry said in a statement.
+
+...
+
+[Data](articles/4a2ee054.json)
+
+---
+
+### BASL urges inclusion of Law in school curriculum
+
+*2025-08-23 00:25:25* · [`dailyftlk`](https://www.ft.lk/news/BASL-urges-inclusion-of-Law-in-school-curriculum/56-780667) · `en`
+
+The Bar Association of Sri Lanka (BASL) yesterday called on the Government to introduce Law as part of the national education curriculum, saying legal literacy is critical for civic consciousness and democratic participation.
+
+In a letter addressed to Prime Minister and Education Minister Dr. Harini Amarasuriya, the BASL welcomed the Ministry’s ongoing education reforms, saying the addition of legal studies would align Sri Lanka with international practices. “The subject of Law has been introduced to the school curriculum in many countries, reflecting the global understanding that law-related education is a fundamental building block of civic consciousness and democratic engagement,” the letter stated.
+
+...
+
+[Data](articles/be8fa90d.json)
+
+---
+
+### Chinese Embassy commemorates 80th anniversary of victory against Japanese aggression
+
+*2025-08-23 00:25:16* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Embassy-commemorates-80th-anniversary-of-victory-against-Japanese-aggression/56-780666) · `en`
+
+The Chinese Embassy in Sri Lanka held a grand reception in Colombo on Wednesday (20), at the Bandaranaike Memorial International Conference Hall, to commemorate the 80th anniversary of the victory of the Chinese People’s War of Resistance Against Japanese Aggression and the World Anti-Fascist War.
+
+...
+
+[Data](articles/b1b9ed69.json)
+
+---
+
+### Russian Geographical Society’s 180th anniversary
+
+*2025-08-23 00:25:08* · [`dailyftlk`](https://www.ft.lk/news/Russian-Geographical-Society-s-180th-anniversary/56-780665) · `en`
+
+The Centre of the Russian Geographical Society in Sri Lanka yesterday celebrated the Russian Geographical Society’s 180th anniversary at the Colombo Public Library with the presence of Deputy Minister of Environment Anton Jayakodi and Colombo Mayor Vraie Cally Balthazaar, as Chief Guests.
+
+The Russian Geographical Society (RGS), established in 1845, is a learned society dedicated to geographical research and exploration, with a focus on Russia and its surrounding territories. It’s one of the oldest geographical societies in the world, playing a significant role in the country’s history and development. Councillor of the Russian Embassy in Sri Lanka and Director of the Russian House in Colombo Maria Popova was also present.
+
+The special occasion featured the planting of 180 plants of various kinds at the Colombo Public Library premises which benefits the library too. A special photo Exhibition on the history of the RGS was also part of the celebration.
+
+◼️
+
+[Data](articles/cb8cc42e.json)
+
+---
+
+### Committee on High Posts approves appointments of Ambassador, two Ministry Secretaries, and four Chairmen
+
+*2025-08-23 00:25:01* · [`dailyftlk`](https://www.ft.lk/news/Committee-on-High-Posts-approves-appointments-of-Ambassador-two-Ministry-Secretaries-and-four-Chairmen/56-780664) · `en`
+
+The Committee on High Posts at its meeting held recently approved the appointments of an Ambassador, two Ministry Secretaries, and four Chairmen.
+
+Accordingly, the Committee approved the nomination of Wijesinghe Arachchige Kapila Sanjeewa De Alwis as the Ambassador of Sri Lanka to the Sultanate of Oman.
+
+The Committee on High Posts also approved the appointments of M.A.L.S.N.K. Manthrinayake as the Rural Development, Social Security, and Community Empowerment Ministry Secretary and J.M. Thilaka Jayasundara as the Industry and Entrepreneurship Development Ministry Secretary.
+
+Furthermore, the appointments of Kavinda de Zoysa as the Chairman of the Bank of Ceylon, Priyantha Wedamulla as the Chairman of the Independent Television Network Ltd., Pravir D. Samarasinghe as the Chairman of the Hotel Developers (Lanka) Ltd., and Jayathissa Anaththa Pathiranage as the Chairman of the Central Engineering Consultancy Bureau have been approved by the Committee on High Posts.
+
+◼️
+
+[Data](articles/e3a8eb44.json)
+
+---
 
 ### The show must not go on, Sri Lanka
 
@@ -1623,119 +1733,5 @@ He served until Anura Disanayake was elected president on September 21, 2024. (C
 ...
 
 [Data](articles/f3ad25d8.json)
-
----
-
-### Ex-President Ranil brought to court after arrest
-
-*2025-08-22 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111742/ex-president-ranil-brought-to-court-after-arrest) · `en`
-
-Former President Ranil Wickremesinghe, who was arrested by the Criminal Investigation Department (CID), has been brought to the Colombo Fort Magistrate’s Court, a short while ago.
-
-He was escorted to the court premises by CID officers under heavy security, Ada Derana reporter said.
-
-Former President Wickremesinghe was arrested today (22) after arriving at the CID to record a statement in connection with an ongoing investigation.
-
-Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President, allegedly using state funds.
-
-The CID had earlier presented evidence related to the case before the Fort Magistrate’s Court on June 24.
-
-Statements were subsequently recorded from Sandra Perera, who served as the former President’s private secretary, and from former Presidential Secretary Saman Ekanayake.
-
-...
-
-[Data](articles/298212b6.json)
-
----
-
-### ”ரணில் கைது: யூடியூபருக்கு எப்படி தெரியும் ”
-
-*2025-08-22 14:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-யூடியூபருக்கு-எப்படி-தெரியும்/175-363283) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க,  குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுவார் என்பதை யூடியூபருக்கு எவ்வாறு முன்னரே தெரியும். ரணில் கைது செய்யப்படுவார் என்பது அந்த யூடியூபருக்கு எவ்வாறு கசிந்தது என்று ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம், பாராளுமன்றத்தில் தற்போது கேள்வி எழுப்பிகொண்டிருக்கின்றனார்.
-
-◼️
-
-[Data](articles/419c6f38.json)
-
----
-
-### ரணில் கைது: வரலாற்றில் முதல் சம்பவம்
-
-*2025-08-22 14:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-வரலாற்றில்-முதல்-சம்பவம்/175-363282) · `ta`
-
-குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, இலங்கை வரலாற்றில் சட்ட அமலாக்கப் பிரிவினரால் கைது செய்யப்பட்ட முதல் முன்னாள் அரச தலைவர் ஆவார்.
-
-நிறைவேற்று ஜனாதிபதியாக இருந்தபோது லண்டனுக்கு மேற்கொண்ட தனிப்பட்ட பயணத்திற்காக அரச நிதியை தவறாகப் பயன்படுத்திய குற்றச்சாட்டில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளார்.
-
-முன்னாள் ஜனாதிபதிக்கு சிஐடி அதிகாரிகளிடமிருந்து செவ்வாய்க்கிழமை (19)  தொலைபேசி அழைப்பு வந்தது, மேலும் அவர் வழக்கமாக விசாரணைகளுக்கு ஆஜராக தனது சொந்த திகதியை வழங்கினாலும், இந்த வாரமே விசாரணையில் கலந்து கொள்வதாக அவர் தனது வழக்கறிஞர்களிடம் தெரிவித்திருந்தார்.
-
-◼️
-
-[Data](articles/d8363736.json)
-
----
-
-### ”அந்தஸ்தைப் பொருட்படுத்தாமல் சட்டம் அமல் ”
-
-*2025-08-22 14:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தஸ்தைப்-பொருட்படுத்தாமல்-சட்டம்-அமல்/175-363281) · `ta`
-
-பாரளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் அல்லது முன்னாள் ஜனாதிபதிகள் என எந்த அந்தஸ்தைப் பொருட்படுத்தாமல், அனைவருக்கும் சட்டம் அமல்படுத்தப்படுகிறது என்று பொதுப் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சர் ஆனந்த விஜேபால இன்று (22) பாராளுமன்றத்தில் தெரிவித்தார்.
-
-" குற்றம் செய்திருந்தால், அவர்களை நீதியின் முன் நிறுத்த நாங்கள் ஒருபோதும் தயங்க மாட்டோம். சட்டத்தை அமல்படுத்துவது அந்தஸ்தை அடிப்படையாகக் கொண்ட ஒன்றல்ல. குற்றம் நிகழும்போது, ​​பாதிக்கப்பட்டவர்கள் மீது சட்டம் அமல்படுத்தப்பட வேண்டும்.
-
-அதுதான் தேசிய மக்கள் சக்தியின் முக்கிய நோக்கம். பாதிக்கப்பட்ட ஒவ்வொருவருக்கும் நீதியை உறுதி செய்வதில் நாங்கள் உறுதியாக உள்ளோம் என்றார்.
-
-◼️
-
-[Data](articles/f5864ae5.json)
-
----
-
-### ரணில் கைது: நீதிமன்ற வளாகத்தில் கடும் பாதுகாப்பு
-
-*2025-08-22 14:38:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-நீதிமன்ற-வளாகத்தில்-கடும்-பாதுகாப்பு/175-363280) · `ta`
-
-இன்று (22) அதிகாலை கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க நீதிமன்றத்தில் ஆஜர்படுத்தப்படுவதை முன்னிட்டு, கோட்டை நீதவான் நீதிமன்றத்தைச் சுற்றி பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
-
-நான்கு மணி நேரத்திற்கும் மேலாக நீடித்த வாக்குமூலத்திற்குப் பிறகு,   விக்ரமசிங்க காவலில் எடுக்கப்பட்டார். விரைவில் அவர் கோட்டை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படுவார் என்று எதிர்பார்க்கப்படுகிறது.
-
-◼️
-
-[Data](articles/a2552400.json)
-
----
-
-### ரணில் கைது:  வளாகத்தில் பரபரப்பு : பலரும் படையெடுப்பு
-
-*2025-08-22 14:31:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-வளாகத்தில்-பரபரப்பு-பலரும்-படையெடுப்பு/175-363279) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, குற்றப் புலனாய்வுத் துறை அதிகாரிகளால் கைது செய்யப்பட்டதை அடுத்து, முன்னாள் அமைச்சர்கள் சிலர், ஆணைக்குழுவுக்கு அதிரடியாக படையெடுத்துள்ளனர் இதனால், குற்றப் புலனாய்வுத் துறை வளாகத்தில் பரபரப்பு ஏற்பட்டுள்ளது.
-
-ஜனாதிபதியாக அவர் பணியாற்றிய காலப்பகுதியில் மேற்கொண்ட வெளிநாட்டுப் பயணங்கள் தொடர்பில் வாக்குமூலம் பெறுவதற்காக இன்று (22) காலை அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியிருந்த நிலையில் இவர் கைது செய்யப்பட்டுள்ளார்
-
-ரணில் விக்ரமசிங்க ஜனாதிபதியாக இருந்தபோது, அவரது மனைவி பேராசிரியர் மைத்ரி விக்ரமசிங்கவின் பட்டமளிப்பு விழாவில் கலந்துகொள்வதற்காக லண்டனுக்கு தனிப்பட்ட விஜயம் செய்வதற்காக அரச நிதியை தவறாகப் பயன்படுத்திய குற்றச்சாட்டிலேயே குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட ரணில் விக்ரமசிங்கவை கோட்டை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/c5f150f2.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது
-
-*2025-08-22 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/223100) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 22) கைது செய்யப்பட்டுள்ளார்.
-
-ரணில் விக்ரமசிங்க ஜனாதிபதியாக இருந்தபோது, அவரது மனைவி பேராசிரியர் மைத்ரி விக்ரமசிங்கவின் பட்டமளிப்பு விழாவில் கலந்துகொள்வதற்காக லண்டனுக்கு தனிப்பட்ட விஜயம் செய்வதற்காக அரச நிதியை தவறாகப் பயன்படுத்திய குற்றச்சாட்டிலேயே குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட ரணில் விக்ரமசிங்கவை கோட்டை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/7f1f1eb0.json)
 
 ---

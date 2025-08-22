@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 01:31:57**
+As of **2025-08-23 01:49:50**
 
 ## Newspaper Stats
 
-*Scraped **71,851** Articles*
+*Scraped **71,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,908
-adaderanalk | 9,064
+adaderanalk | 9,065
 tamilmirrorlk | 10,601
-virakesarilk | 11,855
+virakesarilk | 11,858
 adaderanasinhalalk | 12,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,851 articles have been extended.
+61,973 (86.2%) of 71,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகள் நிறைவேற்றப்படும் - அமைச்சர் இராமலிங்கம் சந்திரசேகர்
+
+*2025-08-23 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/223146) · `ta`
+
+காணிகள் விடுவிப்பு,காணாமல் போனவர்களுக்கு நீதி, தையிட்டி விகாரை பிரச்சினை உள்ளிட்ட அரசாங்கம் தமிழ் மக்களுக்கு வழங்கியுள்ள வாக்குறுதிகளை நிறைவேற்றுவது உறுதியாகும் என அமைச்சர் இராமலிங்கம் சந்திரசேகர்தெரிவித்தார்.
+
+வடக்கு, கிழக்கு மற்றும் மலையக பகுதிகளில் வாழும்   தமிழ் மக்கள் எதிர்கொள்ளும் மனித உரிமைப் பிரச்சினைகள் தொடர்பாக தமிழரசுக் கட்சி எம்.பி சிவஞானம் ஸ்ரீதரன் வெள்ளிக்கிழமை (22) சபையில் முன்வைத்த சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/f915790a.json)
+
+---
+
+### அம்பாந்தோட்டை சூரியவெவ துப்பாக்கிச்சூடு : விசேட அதிரடிப்படையினர் நடவடிக்கையில் ஒருவர் உயிரிழப்பு
+
+*2025-08-23 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/223145) · `ta`
+
+அம்பாந்தோட்டை சூரியவெவ பகுதியில் பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட துப்பாக்கிச் சூட்டில் சந்தேக நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த நபர் கொஸ்கொட பகுதியில் இளைஞர் ஒருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய பிரதான துப்பாக்கிதாரி என பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 31 ஆம் திகதி கொஸ்கொட பொலிஸ் பிரிவுக்குட்பட்ட துவமொதர கடலாமைகள் பாதுகாப்பு மத்திய நிலையத்தில் மேற்கொள்ளப்பட்ட துப்பாக்கிப்பிரயோகத்தில் அறை ஒன்றில் உறங்கிக்கொண்டிருந்த 23 வயதுடைய இளைஞர் ஒருவர் உயிரிழந்திருந்தார். குறித்த மத்திய நிலையத்தின் உரிமையாளரின் மகனே இவ்வாறு கொலை செய்யப்பட்டதுடன் அவர் சுற்றுலா வழிகாட்டி ஒருவர் என பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/69a8e824.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி ரணில் சிறைச்சாலை வைத்தியசாலையில் அனுமதி
+
+*2025-08-23 00:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/223144) · `ta`
+
+சிறை காவலில் வைக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+உயர் இரத்த அழுத்தம் மற்றும் அதிக சர்க்கரை அளவு காரணமாக ரணில் விக்ரமசிங்க சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/996735db.json)
+
+---
 
 ### හිටපු ජනපති රනිල් බන්ධනාගාර රෝහලට
 
@@ -139,6 +183,24 @@ Furthermore, the appointments of Kavinda de Zoysa as the Chairman of the Bank of
 ◼️
 
 [Data](articles/e3a8eb44.json)
+
+---
+
+### Former President Ranil admitted to Prison Hospital
+
+*2025-08-23 00:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111753/former-president-ranil-admitted-to-prison-hospital) · `en`
+
+Former President Ranil Wickremesinghe, who was arrested and remanded in custody on Friday over allegations he misused state funds while in office, has been admitted to the Prisons Hospital on the advice of doctors, according to the Prisons Spokesman.
+
+Wickremesinghe became the most senior opposition figure to be hauled up in an anti-corruption crackdown by the new government as he was ordered remanded until August 26 by the Fort Magistrate’s Court.
+
+“The suspect (Wickremesinghe) will be held in custody till Tuesday, but considering his medical condition he could be admitted to the prison hospital or another hospital,” Magistrate Nilupuli Lankapura said ordering his remand.
+
+Wickremesinghe, whose lawyers said was suffering from heart disease and diabetes, was charged under the Public Property Act and two counts of the penal code - “dishonest misappropriation of property” and “criminal breach of trust.”
+
+...
+
+[Data](articles/9c41db6f.json)
 
 ---
 
@@ -1649,89 +1711,5 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 ◼️
 
 [Data](articles/7dafa061.json)
-
----
-
-### லொக்கோ​ கைது செய்ய முடியாதாம்:  சிரிக்கிறார் பிமல்
-
-*2025-08-22 15:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொக்கோ-கைது-செய்ய-முடியாதாம்-சிரிக்கிறார்-பிமல்/175-363285) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளார். அவர் நிறைவேற்று ஜனாதிபதியாக இருந்தபோது லண்டனுக்கு மேற்கொண்ட தனிப்பட்ட பயணத்திற்காக அரச நிதியை தவறாகப் பயன்படுத்திய குற்றச்சாட்டு தொடர்பில் பாராளுமன்றத்தில் தான் ஆவணங்களை சமர்ப்பித்துள்ளேன் என்று தெரிவித்துள்ள அமைச்சர் பிமல் ரத்னாயக்க, ஆனால், சட்டம் அமுல்படுத்தப்படுவது நல்லது ஆனால், லொக்கோ கைது செய்யப்படும் போது என்று கூறுகின்றனர். இது என்ன கதையெனக் கூறி சிரித்தார்.
-
-பாராளுமன்றத்தில் தற்போது உரையாற்றிக்கொண்டிருக்கும் போதே முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டது தொடர்பில் இவ்வாறு தெரிவித்தார். மாற்றம் வேண்டும் எனினும் நாங்கள் மாறமட்டோம் என்ற கதையாக இருக்கிறது. தபால் திணைக்களத்துக்கும் இதுதுதான் இன்று நடக்கிறது.
-
-◼️
-
-[Data](articles/940028b8.json)
-
----
-
-### Sri Lanka ex-President arrives in court
-
-*2025-08-22 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-arrives-in-court-237863/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was brought to the Colombo Fort Magistrate’s Court, after being arrested following a questioning, court reporters said.
-
-He was asked to get into the suspect’s cage, eliciting a loud gasp from people gathered outside.
-
-The arrest was over misappropriation of funds during a foreign visit while he was president, police sources said.
-
-Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
-
-Days later parliament elected him as the 8th Executive President of the country, during the worst economic crisis of its post-independence history.
-
-He is credited for steering the island nation towards recovery.
-
-He served until Anura Disanayake was elected president on September 21, 2024. (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/923e0755.json)
-
----
-
-### හිටපු ජනපති රනිල්ව අධිකරණයට රැගෙන එයි
-
-*2025-08-22 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213658) · `si`
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයට රැගෙන එනු ලැබීය.
-
-ඒ මහතාව රැගෙන ඒමත් සමඟ අධිකරණ භූමියේ ආරක්ෂාව දැඩි කර ඇතැයි 'අද දෙරණ' අධිකරණ වාර්තාකරු පැවසීය.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
-
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි අවස්ථාවේ දීය.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-ඊට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට කරුණු දක්වනු ලැබුවේ, ජුනි 24 වෙනි දා ය‍.
-
-...
-
-[Data](articles/ef77bdd0.json)
-
----
-
-### කාන්තා එක්දින ලෝක කුසලානයේ සංශෝධිත කාලසටහන
-
-*2025-08-22 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213659) · `si`
-
-ඉන්දියාවේ සහ ශ්‍රී ලංකාවේ දී පැවැත්වීමට නියමිත කාන්තා එක්දින ලෝක කුසලානයේ සංශෝධිත තරග කාලසටහන ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය (ICC) විසින් අද (22) ප්‍රකාශයට පත් කළේය.
-
-ඒ අනුව ගැටලුවක් ඇතිව තිබූ බැංගලෝර්හි එම්. චින්නස්වාමි ක්‍රීඩාංගණය ඉන් ඉවත්කර මුම්බායි හි DY පටිල් ක්‍රීඩාංගණයේ පැවැත්වීම තහවුරු කර ඇත.
-
-ශ්‍රී ලංකාව හා ඉන්දියාවට අමතරව ඔස්ට්‍රේලියාව, බංග්ලාදේශය, එංගලන්තය, නවසීලන්තය, පාකිස්තානය හා දකුණු අප්‍රිකාව යන කණ්ඩායම් අතර මෙවර තරගාවලිය පැවැත්වේ.
-
-මූලික වටයේදී සෑම රටක්ම සෙසු රටවල් සමගින් තරගවදින අතර, එහිදී ප්‍රසාද ලකුණු සටහනේ ඉදිරියෙන්ම සිටින කණ්ඩායම් 4ට අවසන් පූර්ව වටයට පිවිසීමට අවස්ථාව ඇත.
-
-තරගාවලිය සැප්තැම්බර් 30වනදා ආරම්භ වන අතර, තරග ආරම්භ කරමින් පළමු තරගය ශ්‍රී ලංකාව හා ඉන්දියාව අතර ගුවහාතිහිදී පැවැත්වේ.
-
-මේ අතර ඉන්දු - පාකිස්තාන දේශපාලන අර්බුදය හේතුවෙන් පාකිස්තානය ක්‍රීඩාකරන සියලුම තරග කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ දී පැවැත්වීමට නියමිතය.
-
-තරගාවලියේ අවසන් පූර්ව තරග ඔක්තෝබර් 29 හා 30 දිනවලදී ද, අවසන් මහා තරගය නොවැම්බර් 2 වනදා පැවැත්වීමට නියමිතය.
-
-...
-
-[Data](articles/f3ad25d8.json)
 
 ---

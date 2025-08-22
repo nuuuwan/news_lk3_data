@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 17:31:50**
+As of **2025-08-22 17:53:26**
 
 ## Newspaper Stats
 
-*Scraped **71,770** Articles*
+*Scraped **71,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
-adaderanalk | 9,055
+adaderanalk | 9,057
 tamilmirrorlk | 10,584
 virakesarilk | 11,847
-adaderanasinhalalk | 12,409
+adaderanasinhalalk | 12,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,770 articles have been extended.
+61,973 (86.3%) of 71,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශයට අදාළව අයවැය පූර්ව සාකච්ඡාවක්
+
+*2025-08-22 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213667) · `si`
+
+වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (22) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විය.
+
+වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශය යටතේ පවතින ආයතන 29 මගින් 2025 අයවැය ප්‍රතිපාදන අනුව ක්‍රියාත්මක කරන ලද ව්‍යාපෘතින්හි ප්‍රගතිය, එහිදී මතුව ඇති ගැටලු සහ ඉදිරි සැලසුම් පිළිබඳව මෙහිදී පුළුල් ලෙස විමසා බැලිණි.
+
+පොල් වගාව සංවර්ධනය පිළිබඳ විශේෂ අවධානයක් යොමු කෙරුණු අතර ඒ සඳහා වාණිජ වගාවන් සහිත ඉඩම් හඳුනාගෙන ඒවා ප්‍රවර්ධනයට පියවර ගන්නා ලෙස ජනාධිපතිවරයා උපදෙස් දුන්නේය.
+
+අලුතින් පොල් වගාවට වඩා පවතින වගාවන්හි ඵලදායීතාව ඉහළ නංවා ගැනීමට අවධානය යොමු කරන ලෙස මෙහිදී උපදෙස් දුන් ජනාධිපතිවරයා ඌන උපයෝජන සහිත පෞද්ගලික හිමිකාරිත්වය යටතේ පවතින පොල් වතු ප්‍රශස්ත ලෙස උපයෝජනය සඳහා දැනට පවතින නීති, රීති පිළිබඳ ජනතාව දැනුවත් කිරීමේ වැදගත්කමද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/75ef67cf.json)
+
+---
 
 ### යූටියුබ් සුදාගේ ප්‍රකාශයට සජිත්ගෙන් X සටහනක්
 
@@ -41,6 +59,8 @@ Extensions include translations and NER (Named Entity Recognition).
 එමගින් විපක්ෂ නායකවරයා සඳහන් කර ඇත්තේ මෙවැනි ප්‍රකාශ අහම්බයක් විය නොහැකි බවත් මෙවැනි සිදුවීම් සැලසුම් සහගතව සිදුකළ එකක් විය හැකි බවය.
 
 එමෙන්ම නීතිය හා සාමාය වැනි පූජනීය දෙයක් ලාභ නාට්‍යමය රංගනයක් බවට පත් කිරීම පිළිබඳව තමන් දැඩි ලෙස හෙළා දකින බවද විපක්ෂනායකවරයාගේ X සටහනේ සඳහන්ව තිබේ.
+
+A YouTuber predicting the arrest of a former President before it even happens? That can’t be a coincidence, could it be planned? If true, it’s a sad day when something as sacred as law and order is reduced to cheap theatrics.
 
 ◼️
 
@@ -97,6 +117,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e603cc21.json)
+
+---
+
+### ‘Positions don’t matter...everyone stands equal before law’ - Public Security Minister
+
+*2025-08-22 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111744/positions-dont-mattereveryone-stands-equal-before-law-public-security-minister) · `en`
+
+The current government is ensuring the rule of law and the law will be implemented equally regardless of titles and positions, says the Minister of Public Security and Parliamentary Affairs, Ananda Wijayapala.
+
+Making a special statement in Parliament today (22), the Minister stated that titles such as the Inspector General of Police (IGP), Deputy IGP, former President are not relevant when it comes to the law.
+
+Further, he stated that if anyone has committed an illegal action, such accused persons will be brought to justice regardless of their title or position.
+
+When the National People’s Power took over the country’s rule, Sri Lanka was facing not only economic bankruptcy, but also severe political and social deterioration, said Minister Ananda Wijayapala.
+
+...
+
+[Data](articles/83b7bf83.json)
 
 ---
 
@@ -165,6 +203,28 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 ...
 
 [Data](articles/3733c77a.json)
+
+---
+
+### UNP releases Ranil’s invitation letter in response to allegations over UK trip
+
+*2025-08-22 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111743/unp-releases-ranils-invitation-letter-in-response-to-allegations-over-uk-trip-) · `en`
+
+The United National Party’s (UNP) media unit has released a copy of the officially invitation letter sent by the University of Wolverhampton to former President Ranil Wickremesinghe and his wife, Professor Maithree Wickremesinghe.
+
+In its statement, the UNP media unit claimed that the former President had not misused state funds in relation to his visit to the United Kingdom.
+
+Former President Wickremesinghe was arrested today (22) after arriving at the Criminal Investigation Department (CID) to record a statement in connection with an ongoing investigation.
+
+Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
+
+Ranil Wickremesinghe had stopped in London in 2023 on his way back from Havana, where he attended a G77 summit.
+
+He and his wife, Maithree, attended a University of Wolverhampton ceremony.
+
+...
+
+[Data](articles/80991482.json)
 
 ---
 
@@ -1713,65 +1773,5 @@ Also pending was further talks to included Bega brands in Australia which could 
 ◼️
 
 [Data](articles/b6bc0655.json)
-
----
-
-### Sri Lanka loan demand to expand further in 3Q 2025: CB Survey
-
-*2025-08-22 06:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-loan-demand-to-expand-further-in-3q-cb-survey-237736/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s demand for loans is expected to expand further in the third quarter of 2025, on top of high growth in the second quarter, a survey conducted by the central bank has found.
-
-“During 2025 Q3, loan demand is expected to increase across all sectors, driven by the increase in vehicle imports, low interest rates, rising consumer confidence, and favourable business and economic outlook,” the central bank said.
-
-“Due to the expected further reduction in interest rates, increase in vehicle imports, and improved business confidence, the demand for loans is expected to further increase during 2025 Q3.”
-
-The survey comes as concerns are rising that the last rate cut by the central bank may have pushed domestic credit and investment to such a high level that it may hinder the repayment of foreign debt, even though money is not being printed per se to trigger forex shortages.
-
-...
-
-[Data](articles/3e36cc76.json)
-
----
-
-### බණ්ඩාරගමදී වෙඩිතබා ඝාතනය කර ඇත්තේ හිටපු බන්ධනාගාර නිලධාරියෙක්
-
-*2025-08-22 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213637) · `si`
-
-බණ්ඩාරගම පොලිස් වසමේ බොල්ගොඩ පාලම අසලදී වෙඩිතබා ඝාතනය කෙරුණු පුද්ගලයා පිළිබඳව තොරතුරු අනාවරණය වී ඇති බව පොලීසිය පවසයි.
-
-පොලීසිය සඳහන් කළේ මෙලෙස ඝාතනය කර ඇත්තේ හිටපු බන්ධනාගාර නිලධාරියෙකු වන ලලිත් කුමාර කෝදාගොඩ නමැති පානදුර ප්‍රදේශයේ පදිංචිකරුවෙකු බවය.
-
-බණ්ඩාරගම පොලිස් වසමේ බොල්ගොඩ පාලම අසලදී ඔහු කාර් රථයකින් ගමන් කරමින් සිටියදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ඊයේ (21) සවස් කාලයේදී මෙම වෙඩිතැබීම සිදුකර තිබුණි.
-
-වෙඩිතැබීම සඳහා T56 වර්ගයේ ගිනිඅවියක් භාවිත කර ඇති බවට සැක කරන අතර වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
-
-වෙඩි ප්‍රහාර 20කට අධික සංඛ්‍යාවක් ඔහු ඉලක්ක කර තබා ඇති බවද වාර්තා විය.
-
-වෙඩි ප්‍රහාරයෙන් මියගිය ලලිත් කුමාර කෝදාගොඩ පාතාල කල්ලි නායක සමයං ඝාතන සිද්ධියේ ඔත්තුකරුවෙකු ලෙස කටයුතු කර ඇති අතර ඒ සම්බන්ධයෙන් ඇප මත මුදාහැර සිටින අයෙකු වෙයි.
-
-පොලීසිය සැක පළ කරන්නේ, එම සිදුවීමට පළිගැනීමක් ලෙස මෙම ඝාතනය සිදුකරන්නට ඇති බවය.
-
-◼️
-
-[Data](articles/c874ebaf.json)
-
----
-
-### ඉදිරි දින කිහිපයේ කාලගුණයේ විශේෂ වෙනසක්
-
-*2025-08-22 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213636) · `si`
-
-උතුරු, උතුරුමැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල ඉදිරි දින කිහිපයේදී සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-අද (22) පෙරවරුවේ නිකුත්කළ මෙම නිවේදනයට අනුව උතුරු, උතුරු-මැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත ඇතිවිය හැකිය.
-
-එමෙන්ම බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/27597988.json)
 
 ---

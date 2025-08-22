@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 19:34:46**
+As of **2025-08-22 19:49:32**
 
 ## Newspaper Stats
 
-*Scraped **71,788** Articles*
+*Scraped **71,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
-adaderanalk | 9,058
+adaderanalk | 9,060
 tamilmirrorlk | 10,592
 virakesarilk | 11,849
 adaderanasinhalalk | 12,414
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,788 articles have been extended.
+61,973 (86.3%) of 71,790 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/112761ae.json)
+
+---
+
+### At least minimum courtesies should be extended to a former president – Hakeem
+
+*2025-08-22 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111747/at-least-minimum-courtesies-should-be-extended-to-a-former-president-hakeem) · `en`
+
+MP Rauff Hakeem says it is worrying that the arrest of former President Ranil Wickremesinghe was announced in advance by a ‘YouTuber’.
+
+Speaking in Parliament, the former minister referenced the arrest of Wickremesinghe by CID officers after recording a statement from the former president.
+
+“A few days ago, there was a YouTuber who was showing his affection in a very inappropriate way, in my opinion. But then this particular YouTuber also went on record virtually announcing that the former President would be arrested.”
+
+“So, it appears there’s an inspired leak. This worries us,” the MP stressed.
+
+The former minister explained that normally, when statements are recorded by the police, a ‘B report’ is filed before the magistrate.
+
+“You have a basic courtesy. You give it to a former head of state. Then if the magistrate felt right, his attorneys could have made submissions and the magistrate could have decided whether to remand them or bail him out.”
+
+...
+
+[Data](articles/4faf23d1.json)
 
 ---
 
@@ -175,6 +197,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/effcfbe9.json)
+
+---
+
+### Shooting incident reported in Borella
+
+*2025-08-22 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111746/shooting-incident-reported-in-borella) · `en`
+
+A shooting incident has been reported in the Kader Nana Watte area in Borella this evening (22).
+
+However, it is reported that no one was injured in the shooting incident.
+
+Police said that the magazine of a firearm and a spent cartridge has been recovered from the scene.
+
+◼️
+
+[Data](articles/d9d8f1f8.json)
 
 ---
 
@@ -1687,43 +1725,5 @@ The telegraphic transfer rates for the American dollar was 298.3500 buying, 305.
 ◼️
 
 [Data](articles/65b0763e.json)
-
----
-
-### මධ්‍ය තැපැල් හුවමාරුවට පොලිස් ආරක්ෂාව
-
-*2025-08-22 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213644) · `si`
-
-තැපැල් වෘත්තීය සමිති ආරම්භ කළ වැඩ වර්ජනය අද (22) 5 වැනි දිනටත් ක්‍රියාත්මක කෙරේ.
-
-එවන් පසුබිමක් තුළ මධ්‍ය තැපැල් හුවමාරුවට පොලිස් ආරක්ෂාව ලබාදී ඇත.
-
-මේ අතර වර්ජකයන් පවසන්නේ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා ඉදිරිපත් කරන කොන්දේසිවලට යටත්ව වර්ජනය අවසන් කිරීම පිළිබඳ සාකච්ඡා සඳහා සහභාගි වීම ප්‍රතික්ෂේප කරන බවය.
-
-කෙසේ වෙතත් ඇඟිලි සලකුණු අනිවාර්ය කිරීම සහ අතිකාල පිළිබඳ තීන්දුව කිසිසේත් හකුලා ගැනීමට රජය කටයුතු නොකරන බව අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඊයේ පාර්ලිමේන්තුවේදී යළි අවධාරණය කළේය.
-
-ඉල්ලීම් 19ක් මුල් කරගනිමින් පසුගිය 17 වන දින මධ්‍යම රාත්‍රියේ සිට ආරම්භ වූ තැපැල් වෘත්තීය සමිති ක්‍රියාමාර්ගය අද තවදුරටත් ක්‍රියාත්මකය.
-
-වර්ජනය හේතුවෙන් පසුගිය දින කිහිපය පුරාම තැපෑල මගින් සේවා ලබා ගැනීමට පැමිණි ජනතාව දැඩි අසීරුතාවට පත්වුණි.
-
-◼️
-
-[Data](articles/006f4af2.json)
-
----
-
-### Former President Ranil arrives at CID
-
-*2025-08-22 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111733/former-president-ranil-arrives-at-fcid-) · `en`
-
-Former President Ranil Wickremesinghe arrived at the Criminal Investigation Department (CID) this morning (22) to provide a statement in connection with an ongoing investigation.
-
-He had been summoned by the CID to appear today and to record his statement regarding the matter.
-
-Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President.
-
-◼️
-
-[Data](articles/106b64ab.json)
 
 ---

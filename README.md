@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 10:21:46**
+As of **2025-08-22 10:33:17**
 
 ## Newspaper Stats
 
-*Scraped **71,692** Articles*
+*Scraped **71,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,897
 adaderanalk | 9,043
-tamilmirrorlk | 10,551
+tamilmirrorlk | 10,552
 virakesarilk | 11,842
 adaderanasinhalalk | 12,390
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,692 articles have been extended.
+61,973 (86.4%) of 71,693 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c8c7e195.json)
+
+---
+
+### துப்பாக்கிதாரி சுட்டுப் படுகொலை
+
+*2025-08-22 09:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிதாரி-சுட்டுப்-படுகொலை/175-363263) · `ta`
+
+சூரியவெவ பகுதியில் விசேட அதிரடிப் படையினர் நடத்திய பதில் தாக்குதலில் ஒருவர் பலியானார்.
+
+நபர் ஒருவரைக் கைது செய்ய முயன்றபோது, அந்த நபர், படையினர் மீது துப்பாக்கிச் சூடு நடத்தியதாகக் கூறப்படுகிறது.
+
+இதனையடுத்து விசேட அதிரடிப்படையினர் நடத்திய பதில் தாக்குதலில் சம்பந்தப்பட்ட நபர் உயிரிழந்தார் என பொலிஸார் தெரிவித்துள்ளனர்
+
+◼️
+
+[Data](articles/e6f2ac81.json)
 
 ---
 
@@ -1745,25 +1761,5 @@ A bond maturing on 15.12.2032 closed at 10.25/33 percent, up from 10.25/32 perce
 ◼️
 
 [Data](articles/b1cbe96a.json)
-
----
-
-### Postal Strike: Stand-off between unions and authorities continues
-
-*2025-08-21 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111714/postal-strike-stand-off-between-unions-and-authorities-continues) · `en`
-
-Postal unions are not prepared to call off their ongoing strike to engage in discussions with authorities, Chinthaka Bandara, the co- convener of the United Postal Trade Unions’ Front stated.
-
-Speaking to Ada Derana regarding the on-going postal strike, Bandara emphasised that no meetings have been initiated by the subject Minister to discuss their demands.
-
-He noted that although both the Postmaster General and the subject Minister had requested the unions to call off their strike action and come to the negotiation table, the unions are not prepared to do so unless their demands are met.
-
-Chinthaka Bandara further revealed that nearly 1.7 million letters and parcels have now piled up at post offices across the country due to the ongoing strike.
-
-The strike was launched on August 17 based on 19 demands by the United Postal Trade Unions’ Front.
-
-◼️
-
-[Data](articles/8beea60a.json)
 
 ---

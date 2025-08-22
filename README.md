@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 02:07:49**
+As of **2025-08-23 02:19:40**
 
 ## Newspaper Stats
 
-*Scraped **71,855** Articles*
+*Scraped **71,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,908
 adaderanalk | 9,065
-tamilmirrorlk | 10,601
+tamilmirrorlk | 10,602
 virakesarilk | 11,858
 adaderanasinhalalk | 12,424
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,855 articles have been extended.
+61,973 (86.2%) of 71,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ரணில் விக்ரமசிங்க வைத்தியசாலையில் அனுமதி
+
+*2025-08-23 01:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்க-வைத்தியசாலையில்-அனுமதி/175-363326) · `ta`
+
+வெலிக்கடை சிறைச்சாலைக்கு கொண்டு வரப்பட்ட பின்னர் உயர் இரத்த அழுத்தம் மற்றும் இரத்தத்தில் சீனியின் அளவு அதிகரித்ததன் காரணமாக வைத்திய ஆலோசனையின் பேரில் சிறைச்சாலை வைத்தியசாலையில் முன்னாள் ஜனாதிபதி ரணில் அனுமதிக்கப்பட்டுள்ளார் என தெரிவிக்கப்படுகிறது. (a)
+
+◼️
+
+[Data](articles/7b0be331.json)
+
+---
 
 ### தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகள் நிறைவேற்றப்படும் - அமைச்சர் இராமலிங்கம் சந்திரசேகர்
 
@@ -1699,17 +1711,5 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 ◼️
 
 [Data](articles/5b266e2e.json)
-
----
-
-### கைவிலங்கு இடாது நீதிமன்றில் ரணில் ஆஜர்
-
-*2025-08-22 15:16:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவிலங்கு-இடாது-நீதிமன்றில்-ரணில்-ஆஜர்/175-363286) · `ta`
-
-குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, கோட்டை நீதவான் நீதிமன்றத்தில் சற்றுமுன்னர் ஆஜர்படுத்தப்பட்டார். அங்கு பெருந்திரளான மக்கள் கூறியிருந்தனர். அவர் கைவிலங்கு இடப்பட்டு அழைத்துவரப்படவில்லை
-
-◼️
-
-[Data](articles/7dafa061.json)
 
 ---

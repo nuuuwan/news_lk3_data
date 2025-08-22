@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 10:33:17**
+As of **2025-08-22 10:50:01**
 
 ## Newspaper Stats
 
-*Scraped **71,693** Articles*
+*Scraped **71,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
-economynextcom | 4,386
+economynextcom | 4,388
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,693 articles have been extended.
+61,973 (86.4%) of 71,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### Sri Lanka’s Ambeon Holdings buys 6.09-pct of The Kandy Hotels Corporation
+
+*2025-08-22 10:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-holdings-buys-6-09-pct-of-the-kandy-hotels-corporation-237784/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s Ambeon Holdings said it had acquired a 6.09 percent stake of the ordinary voting shares of The Kandy Hotels Corporation (1938) PLC for 550.8 million rupees.
+
+Ambeon Holdings paid 12 rupees per share, the company said in a stock exchange filing.
+
+The Kandy Hotels Corporation (1938) stock was trading down 30 cents at 17.50 rupees.
+
+Kandy Hotels Company (1938), a subsidiary of Ceylon Hotels Corporation PLC, owns the Queen’s Hotel and Hotel Suisse located in Kandy. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/81b6020c.json)
+
+---
 
 ### தென் அமெரிக்காவில் சக்திவாய்ந்த நிலநடுக்கம்
 
@@ -133,6 +151,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bd87be06.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-08-22 09:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-237770/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.95/302.05 to the US dollar in the spot market Friday, weaker from 301.85/302.00 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.02.2028 was quoted at 8.79/80 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.43/47 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.25/35 percent, up from 10.25/33 percent.
+
+The Colombo Stocks Exchange opened in green: The ASPI was up 0.28 percent, or 58.53 points, at 20,774.02; the S&P SL20 was up 0.23 percent, or 14.13 points, at 6,122.62.
+
+The telegraphic transfer rates for the American dollar was 298.3500 buying, 305.3500 selling; the British pound was 399.1814 buying, and 410.5232 selling, and the euro was 344.1892 buying, 355.3944 selling. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/65b0763e.json)
 
 ---
 
@@ -328,7 +368,7 @@ Preliminary investigations suggest that the deceased suspect is believed to have
 
 *2025-08-22 07:58:00* · [`economynextcom`](https://economynext.com/fonterra-sells-most-downstream-businesses-including-in-sri-lanka-to-lactalis-237766/) · `en`
 
-ECONOMYNEXT – New Zealand’s Fonterra said it had agreed to sell most of its consumer, ingredients and foodservice businesses including in Sri Lanka to France based Lactalis for 3.845 billion dollars.
+ECONOMYNEXT – New Zealand’s Fonterra said it had agreed to sell most of its consumer, ingredients and foodservice businesses including in Sri Lanka to France based Lactalis for 3.845 billion New Zealand dollars.
 
 “The sale comprises Fonterra’s global Consumer business (excluding Greater China) and Consumer brands; the integrated Foodservice and Ingredients businesses in Oceania and Sri Lanka; and the Middle East and Africa Foodservice business,” the dairy co-operative said in a statement.
 
@@ -1731,35 +1771,5 @@ Ambassador Zhenhong also mentioned that China and Sri Lanka, which share a time-
 ...
 
 [Data](articles/e54e8d8f.json)
-
----
-
-### ඉදිරි දින කිහිපයේදී වැස්සට හිතකර වායු ගෝලයක්
-
-*2025-08-21 16:49:32* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැස්සට-හිතකර-වායු-ගෝලයක්/11-418000) · `si`
-
-ඉදිරි දින කිහිපයේද‍ී උතුරු මැද, උතුරු, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල සවස්  කාලයේ  ගිගුරුම් සහිත  වැසි ඇතිවීම සඳහා හිතකර වායු ‌‌‌ගෝලීය තත්වයක් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඒසේම ඉදිරි පැය 36 තුළ උතුරු, උතුරු-මැද, මධ්‍යම, ඌව හා නැහෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයෙත් ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවත් එම ප්‍ර දේශවල ඇතැම් සරථානවලට  මි.මී. 50 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද පස්වරුවේ නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
-
-◼️
-
-[Data](articles/cad2db27.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields up
-
-*2025-08-21 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237715/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.85/302.00 to the US dollar in the spot market Thursday, weaker from 301.70/80 the previous day, while bond yields were up, dealers said.
-
-A bond maturing on 15.03.2028 closed at 8.75/83 percent, from 8.75/85 percent.
-
-A bond maturing on 15.12.2032 closed at 10.25/33 percent, up from 10.25/32 percent. (Colombo/Aug21/2025)
-
-◼️
-
-[Data](articles/b1cbe96a.json)
 
 ---

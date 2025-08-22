@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 07:17:19**
+As of **2025-08-22 08:03:26**
 
 ## Newspaper Stats
 
-*Scraped **71,666** Articles*
+*Scraped **71,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,895
-adaderanalk | 9,037
+adaderanalk | 9,038
 tamilmirrorlk | 10,546
 virakesarilk | 11,839
 adaderanasinhalalk | 12,382
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,666 articles have been extended.
+61,973 (86.5%) of 71,667 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ca5241b9.json)
+
+---
+
+### Trump Administration reviews 55 million US visa holders for deportation violations
+
+*2025-08-22 05:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111728/trump-administration-reviews-55-million-us-visa-holders-for-deportation-violations) · `en`
+
+The US State Department said Thursday that it’s reviewing the records of more than 55 million foreigners who hold valid U.S. visas for potential revocation or deportable violations of immigration rules.
+
+In a written answer to a question posed by The Associated Press, the department said that all U.S. visa holders are subject to “continuous vetting” with an eye toward any indication that they could be ineligible for the document.
+
+Should such information be found, the visa will be revoked and, if the visa holder is in the United States, he or she would be subject to deportation.
+
+The department said it was looking for indicators of ineligibility, including visa overstays, criminal activity, threats to public safety, engaging in any form of terrorist activity, or providing support to a terrorist organization.
+
+...
+
+[Data](articles/ef4d89d2.json)
 
 ---
 
@@ -1771,21 +1789,5 @@ A year later, the last known paddle fish - a type of ray-finned fish which can g
 ...
 
 [Data](articles/bc33fd19.json)
-
----
-
-### දයාසිරිගෙන් කථානායකට ලිපියක්
-
-*2025-08-21 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213615) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ දයාසිරි ජයසේකර මහතා විසින් අද (21) කථානායකවරයා වෙත ලිපියක් යොමු කර තිබේ.
-
-මන්ත්‍රීවරයා එලෙස ලිපියක් යොමුකරමින් ඉල්ලා ඇත්තේ, පුළුල් ඒකාබද්ධ මුදල් සැපයුම පිළිබඳ කරුණු දැක්වීමට ශ්‍රී ලංකා මහ බැංකුව රාජ්‍ය මුල්‍ය පිළිබඳ කාරක සභාව වෙත කැඳවීමට පියවර ගන්නා ලෙසය.
-
-පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා විසින් කථානායකවරයා වෙත යොමුකළ ලිපිය පහතින්,
-
-◼️
-
-[Data](articles/82838283.json)
 
 ---

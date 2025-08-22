@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 16:48:50**
+As of **2025-08-22 17:05:53**
 
 ## Newspaper Stats
 
-*Scraped **71,764** Articles*
+*Scraped **71,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
 adaderanalk | 9,054
-tamilmirrorlk | 10,581
+tamilmirrorlk | 10,583
 virakesarilk | 11,847
 adaderanasinhalalk | 12,407
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 12,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,764 articles have been extended.
+61,973 (86.4%) of 71,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### ரணில் கைது : நீதவான் அதிரடி
+
+*2025-08-22 16:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-நீதவான்-அதிரடி/175-363295) · `ta`
+
+அரச நிதியை முறைக்கேடாக பயன்படுத்திய குற்றச்சாட்டின் கீழ், ரணில் விக்ரமசிங்க விசாரணைகளுக்காக இன்று அழைக்கப்பட்டிருந்தார்.
+
+இதன்படி, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, கொழும்பில் உள்ளகுற்றப் புலனாய்வு திணைக்களத்தில் இன்று முற்பகல் ஆஜராகியிருந்தார்.
+
+ரணில் விக்ரமசிங்க தனது மனைவியான மைத்திரி விக்ரமசிங்கவின் பட்டமளிப்பு விழாவிற்காக லண்டனுக்கு , அரச நிதியை பயன்படுத்தி விஜயம் மேற்கொண்டதாக கூறப்பட்டது.
+
+கைது செய்யப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, கொழும்பு கோட்டை நீதவான் நீதிமன்றத்திற்கு அழைத்து வரப்பட்டுள்ளார்.
+
+இலங்கையின் அரசியல் வரலாற்றில் முதல் தடவையாக முன்னான் ஜனாதிபதி ஒருவர் இன்றைய தினம் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.. R
+
+◼️
+
+[Data](articles/e603cc21.json)
+
+---
+
+### முன்னாள் ஜனாதிபதியை கைது செய்ய முடியுமா?
+
+*2025-08-22 16:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதியை-கைது-செய்ய-முடியுமா/175-363294) · `ta`
+
+முன்னாள் ஜனாதிபதி ஒருவரை கைது செய்யும் அதிகாரம், இலங்கை அரசியலமைப்பின் பிரகாரம் காணப்படுகின்றதா என்பது தொடர்பில் மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளரும், சட்டத்தரணியுமான பிரதீபா மஹனாமஹேவா சர்வதேச ஊடகத்திடம் கருத்து தெரிவித்துள்ளார்.
+
+''ஜனாதிபதி ஒருவருக்கு விசேட சிறப்புரிமை உள்ளது என 1978ம் ஆண்டு அரசியலமைப்பின் 7வது சரத்தில் மிகவும் தெளிவாக கூறப்பட்டுள்ளது. இந்த சிறப்புரிமையின் பிரகாரம், ஜனாதிபதி ஒருவருக்கு எதிராக அவரது பதவி காலத்தில் எந்தவொரு சிவில் அல்லது குற்றவியல் வழக்கொன்றை பதிவு செய்ய முடியாது என 35/1 சரத்தில் குறிப்பிடப்பட்டுள்ளது." என்றார்.
+
+எனினும், அரசியலமைப்பின் 19வது திருத்தத்திற்கு அமைய, அவரது பதவிக் காலத்திற்குள் அடிப்படை மனித உரிமைகள் மீறப்பட்டிருக்கும் பட்சத்தில், அவருக்கு எதிராக சிவில் அல்லது குற்றவியல் வழக்கொன்று தாக்கல் செய்ய முடியாத பட்சத்திலும் அவருக்கு எதிராக அடிப்படை மனித உரிமை மீறல் வழக்கொன்றை தாக்கல் செய்ய முடியும் என அவர் விளக்குகிறார்.
+
+...
+
+[Data](articles/cb2dd944.json)
+
+---
 
 ### හෙට උණුසුම් වන ප්‍රදේශ ගැන නිවේදනයක්
 
@@ -1737,35 +1773,5 @@ The term hartal was first introduced to Sri Lanka known formerly as Ceylon by or
 ...
 
 [Data](articles/7846355b.json)
-
----
-
-### Harsha’s strategy for financing long-term credit for SMEs: Is it viable?
-
-*2025-08-22 05:06:31* · [`dailyftlk`](https://www.ft.lk/columns/Harsha-s-strategy-for-financing-long-term-credit-for-SMEs-Is-it-viable/4-780619) · `en`
-
-At a recent SME forum, Dr. Harsha de Silva proposed an approach to support Sri Lanka’s small and medium enterprises (SMEs) by creating a dedicated long-term credit facility by tapping into domestic provident funds. He underscored a critical challenge facing Sri Lanka’s financial sector: the collapse of the traditional development banking model following the country’s transition to middle-income status.
-
-...
-
-[Data](articles/9f3110ee.json)
-
----
-
-### George Steuart turning 190: A phenomenal landmark
-
-*2025-08-22 05:03:50* · [`dailyftlk`](https://www.ft.lk/columns/George-Steuart-turning-190-A-phenomenal-landmark/4-780618) · `en`
-
-The grand old firm George Steuart has moved into the 190 ’s and is standing tall notwithstanding recent reversals as COVID and the country’s bankruptcy.
-
-Few if any in the world will match that and I bow to the current Chairman and Board.
-
-When James Steuart, the Founder, a man of impeccable integrity, bequeathed his prime ten-acre property in 1870 to the Bishop of Colombo, he made it conditional that the proceeds from their sales should go to propagating his religious faith and to alleviate the suffering of people through a program of public welfare. Today, the Cinnamon Grand, St. Thomas Prep, Scotts Kirk Church are among the very prestigious building’s standing on it.
-
-That benevolent gesture and his integrity became the foundation and philosophy of George Steuart in the ensuing years and invoked their share of blessings.
-
-...
-
-[Data](articles/76a80c72.json)
 
 ---

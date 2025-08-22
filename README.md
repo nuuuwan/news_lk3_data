@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 15:07:49**
+As of **2025-08-22 15:19:44**
 
 ## Newspaper Stats
 
-*Scraped **71,744** Articles*
+*Scraped **71,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 6,903
 adaderanalk | 9,053
 tamilmirrorlk | 10,571
 virakesarilk | 11,846
-adaderanasinhalalk | 12,400
+adaderanasinhalalk | 12,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,744 articles have been extended.
+61,973 (86.4%) of 71,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### හිටපු ජනපති රනිල් කොටුව මහෙස්ත්‍රාත් අධිකරණයට
+
+*2025-08-22 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213658) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගනු ලැබූ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත මීට සුළු මොහොතකට පෙර රැගෙන ආවේය.
+
+◼️
+
+[Data](articles/ef77bdd0.json)
+
+---
+
+### කාන්තා එක්දින ලෝක කුසලානයේ සංශෝධිත කාලසටහන
+
+*2025-08-22 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213659) · `si`
+
+ඉන්දියාවේ සහ ශ්‍රී ලංකාවේ දී පැවැත්වීමට නියමිත කාන්තා එක්දින ලෝක කුසලානයේ සංශෝධිත තරග කාලසටහන ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය (ICC) විසින් අද (22) ප්‍රකාශයට පත් කළේය.
+
+ඒ අනුව ගැටලුවක් ඇතිව තිබූ බැංගලෝර්හි එම්. චින්නස්වාමි ක්‍රීඩාංගණය ඉන් ඉවත්කර මුම්බායි හි DY පටිල් ක්‍රීඩාංගණයේ පැවැත්වීම තහවුරු කර ඇත.
+
+ශ්‍රී ලංකාව හා ඉන්දියාවට අමතරව ඔස්ට්‍රේලියාව, බංග්ලාදේශය, එංගලන්තය, නවසීලන්තය, පාකිස්තානය හා දකුණු අප්‍රිකාව යන කණ්ඩායම් අතර මෙවර තරගාවලිය පැවැත්වේ.
+
+මූලික වටයේදී සෑම රටක්ම සෙසු රටවල් සමගින් තරගවදින අතර, එහිදී ප්‍රසාද ලකුණු සටහනේ ඉදිරියෙන්ම සිටින කණ්ඩායම් 4ට අවසන් පූර්ව වටයට පිවිසීමට අවස්ථාව ඇත.
+
+තරගාවලිය සැප්තැම්බර් 30වනදා ආරම්භ වන අතර, තරග ආරම්භ කරමින් පළමු තරගය ශ්‍රී ලංකාව හා ඉන්දියාව අතර ගුවහාතිහිදී පැවැත්වේ.
+
+මේ අතර ඉන්දු - පාකිස්තාන දේශපාලන අර්බුදය හේතුවෙන් පාකිස්තානය ක්‍රීඩාකරන සියලුම තරග කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ දී පැවැත්වීමට නියමිතය.
+
+තරගාවලියේ අවසන් පූර්ව තරග ඔක්තෝබර් 29 හා 30 දිනවලදී ද, අවසන් මහා තරගය නොවැම්බර් 2 වනදා පැවැත්වීමට නියමිතය.
+
+...
+
+[Data](articles/f3ad25d8.json)
+
+---
 
 ### ”ரணில் கைது: யூடியூபருக்கு எப்படி தெரியும் ”
 
@@ -1717,43 +1753,5 @@ Participants in this workshop will learn about the 5 essential pillars of succes
 ...
 
 [Data](articles/b7f33d28.json)
-
----
-
-### தமிழக வெற்றிக் கழக மாநாட்டில் விஜய் தலைமையில் நிறைவேற்றப்பட்ட 6 தீர்மானங்கள் : முழு விவரம்..!
-
-*2025-08-22 03:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/223059) · `ta`
-
-தமிழக வெற்றிக் கழகம் மாநில மாநாட்டில் விஜய் தலைமையில் 6 தீர்மானங்கள் நிறைவேற்றப்பட்டன.
-
-'தமிழக வெற்றிக் கழகம்' கட்சியின் இரண்டாவது மாநில மாநாடு மதுரை-தூத்துக்குடி தேசிய நெடுஞ்சாலையில் உள்ள பாரப்பத்தி என்ற பகுதியில் இன்று வியாழக்கிழமை (21) நடைபெற்றது.
-
-மாநாட்டு மேடைக்கு வருகை தந்த தமிழக வெற்றிக் கழகத்தின் தலைவர் விஜய், கட்சியின் கொடியை ஏற்றி வைத்து உரையாற்றினார். சுமார் 35 நிமிடங்கள் நீடித்த அவரது பேச்சில் அரசியல் மற்றும் தேர்தல் குறித்த அதிரடியான கருத்துக்கள் இடம்பெற்றன.
-
-இந்த மாநாட்டில் தமிழகம் முழுவதிலும் இருந்து இலட்சக்கணக்கான தொண்டர்கள் மற்றும் பொதுமக்கள் கலந்து கொண்டனர்.
-
-தமிழக வெற்றிக் கழகம் மாநில மாநாட்டில் விஜய் தலைமையில் நிறைவேற்றப்பட்ட 6 தீர்மானங்களும் பின்வருமாறு:-
-
-தீர்மானம் 1: பரந்தூரில் விவசாய நிலங்களை அழித்து புதிய விமான நிலையம் கட்டும் முடிவைக் கண்டித்துத் தீர்மானம்
-
-...
-
-[Data](articles/25280630.json)
-
----
-
-### Mahindra Ideal Finance rolls out revolving credit solution for multi brand vehicle importers and SMEs
-
-*2025-08-22 02:04:00* · [`islandlk`](http://island.lk/mahindra-ideal-finance-rolls-out-revolving-credit-solution-for-multi-brand-vehicle-importers-and-smes/) · `en`
-
-Mahindra Ideal Finance Ltd. (MIFL), one of Sri Lanka’s fastest growing finance companies, announced the launch of the MIFL Revolving Business Loan – a customized loan facility designed to address the short-term working capital needs of multi brand vehicle importers and other SME business owners across the country.
-
-The MIFL Revolving Loan product has been specifically developed to address the challenges faced by multi brand vehicle importers and SME and business owners, like irregular cash flows, delayed receivables, and the need for quick working capital to manage inventory cycles in order to capitalize on emerging growth opportunities currently prevalent in the market.
-
-With a one-time approval process, the new revolving business loan facility offers a flexible credit line that can be drawn and repaid multiple times, based on the operational cash flows of a business, thereby saving precious time and paperwork for business owners.
-
-...
-
-[Data](articles/1cd218bc.json)
 
 ---

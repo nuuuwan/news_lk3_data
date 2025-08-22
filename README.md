@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 19:49:32**
+As of **2025-08-22 20:08:21**
 
 ## Newspaper Stats
 
-*Scraped **71,790** Articles*
+*Scraped **71,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,388
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,904
+adalk | 6,905
 adaderanalk | 9,060
 tamilmirrorlk | 10,592
 virakesarilk | 11,849
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,790 articles have been extended.
+61,973 (86.3%) of 71,791 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -639,6 +639,18 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 ◼️
 
 [Data](articles/80e49548.json)
+
+---
+
+### හිටපු ජනපති රනිල් අධිකරණයට රැගෙන එයි
+
+*2025-08-22 15:38:54* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-අධිකරණයට-රැගෙන-එයි/11-418018) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගත් හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා කොටුව මහේස්ත්‍රාත් අධිකරණයට රැගෙන ආවේය. අධිකරණය අවට දැඩි පොලිස් ආරක්ෂාවක්ද ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/18ba9403.json)
 
 ---
 
@@ -1703,27 +1715,5 @@ The exact motive behind the shooting has not yet been determined, said police.
 ◼️
 
 [Data](articles/bd87be06.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-08-22 09:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-237770/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.95/302.05 to the US dollar in the spot market Friday, weaker from 301.85/302.00 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.02.2028 was quoted at 8.79/80 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.43/47 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.25/35 percent, up from 10.25/33 percent.
-
-The Colombo Stocks Exchange opened in green: The ASPI was up 0.28 percent, or 58.53 points, at 20,774.02; the S&P SL20 was up 0.23 percent, or 14.13 points, at 6,122.62.
-
-The telegraphic transfer rates for the American dollar was 298.3500 buying, 305.3500 selling; the British pound was 399.1814 buying, and 410.5232 selling, and the euro was 344.1892 buying, 355.3944 selling. (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/65b0763e.json)
 
 ---

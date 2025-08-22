@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 17:17:25**
+As of **2025-08-22 17:31:50**
 
 ## Newspaper Stats
 
-*Scraped **71,767** Articles*
+*Scraped **71,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
 adaderanalk | 9,055
-tamilmirrorlk | 10,583
+tamilmirrorlk | 10,584
 virakesarilk | 11,847
-adaderanasinhalalk | 12,407
+adaderanasinhalalk | 12,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,767 articles have been extended.
+61,973 (86.3%) of 71,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### යූටියුබ් සුදාගේ ප්‍රකාශයට සජිත්ගෙන් X සටහනක්
+
+*2025-08-22 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213666) · `si`
+
+හිටපු ජනාධිපතිවරයෙකු අත්අඩංගුවට ගැනීමක් සිදුවීමට පෙර සමාජ මාධ්‍ය ක්‍රියාකරුවෙකු වන සුදත්ත තිලකසිරි නැමැත්තා සිදුකළ ප්‍රකාශයක් සම්බන්ධව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා "X" සටහනක් තබා තිබේ.
+
+එමගින් විපක්ෂ නායකවරයා සඳහන් කර ඇත්තේ මෙවැනි ප්‍රකාශ අහම්බයක් විය නොහැකි බවත් මෙවැනි සිදුවීම් සැලසුම් සහගතව සිදුකළ එකක් විය හැකි බවය.
+
+එමෙන්ම නීතිය හා සාමාය වැනි පූජනීය දෙයක් ලාභ නාට්‍යමය රංගනයක් බවට පත් කිරීම පිළිබඳව තමන් දැඩි ලෙස හෙළා දකින බවද විපක්ෂනායකවරයාගේ X සටහනේ සඳහන්ව තිබේ.
+
+◼️
+
+[Data](articles/9b842e58.json)
+
+---
+
+### විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට ගත් ඉතිහාසයේ පළමු අවස්ථාව
+
+*2025-08-22 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213665) · `si`
+
+මෙරට ඉතිහාසයේ විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සඳහන් කළ හැකියි.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි අවස්ථාවේ දීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+ඊට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට කරුණු දක්වනු ලැබුවේ, ජුනි 24 වෙනි දා ය‍.
+
+...
+
+[Data](articles/ed60f6c3.json)
+
+---
+
+### ரணிலுக்கு பிணை
+
+*2025-08-22 16:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பிணை/175-363296) · `ta`
+
+அரச நிதியை முறைக்கேடாக பயன்படுத்திய குற்றச்சாட்டின் கீழ், விசாரணைகளுக்காக இன்று அழைக்கப்பட்டிருந்த நிலையில் கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/700b8a2c.json)
+
+---
 
 ### ரணில் கைது : நீதவான் அதிரடி
 
@@ -1725,59 +1773,5 @@ The survey comes as concerns are rising that the last rate cut by the central ba
 ◼️
 
 [Data](articles/27597988.json)
-
----
-
-### சிங்கபூர் பிரஜையிடம் இலஞ்சம் ; இரு பொலிஸாருக்கு விளக்கமறியல்
-
-*2025-08-22 06:05:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிங்கபூர்-பிரஜையிடம்-இலஞ்சம்-இரு-பொலிஸாருக்கு-விளக்கமறியல்/175-363255) · `ta`
-
-சிங்கப்பூர் பிரஜை ஒருவரிடமிருந்து இரண்டு மின்னணு சிகரெட்டுகளையும் ரூ.30,000/= பணத்தையும் வலுக்கட்டாயமாக எடுத்துச் சென்றதாக குற்றம் சாட்டப்பட்டுள்ள பம்பலப்பிட்டி காவல்துறையின் இரண்டு காவல்துறை அதிகாரிகளை வரும் 25 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு மேலதிக நீதவான் பசன் அமரசேன நேற்று (21) உத்தரவிட்டார்.
-
-சிங்கப்பூர் பிரஜை ஒருவர் அளித்த புகாரைத் தொடர்ந்து கைது செய்யப்பட்ட பம்பலப்பிட்டி காவல்துறையின் ஒரு பொலிஸ் சார்ஜென்ட் மற்றும் ஒரு பொலிஸ் டிரைவர் ஆகியோர்  நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு காவலில் வைக்கப்பட்டனர்.
-
-சந்தேக நபர்களை நீதிமன்றத்தில் ஆஜர்படுத்திய பம்பலப்பிட்டி காவல்துறை அதிகாரிகள், இரவில் ரோந்துப் பணியில் ஈடுபட்டிருந்த இரண்டு காவல்துறை அதிகாரிகள், புகார்தாரர் முச்சக்கர வண்டியில் பயணித்தபோது சிங்கப்பூரரின் பையை சோதனை செய்து இரண்டு வெளிநாட்டு சிகரெட்டுகளை கைப்பற்றியதாக தெரிவித்தனர்.
-
-சட்டத்தை அமல்படுத்துவதைத் தவிர்ப்பதற்காக இந்த பணத்தை பலவந்தமாகக் கோரி பெற்றதாக பொலிஸார் நீதிமன்றத்தில் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/ca5241b9.json)
-
----
-
-### Trump Administration reviews 55 million US visa holders for deportation violations
-
-*2025-08-22 05:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111728/trump-administration-reviews-55-million-us-visa-holders-for-deportation-violations) · `en`
-
-The US State Department said Thursday that it’s reviewing the records of more than 55 million foreigners who hold valid U.S. visas for potential revocation or deportable violations of immigration rules.
-
-In a written answer to a question posed by The Associated Press, the department said that all U.S. visa holders are subject to “continuous vetting” with an eye toward any indication that they could be ineligible for the document.
-
-Should such information be found, the visa will be revoked and, if the visa holder is in the United States, he or she would be subject to deportation.
-
-The department said it was looking for indicators of ineligibility, including visa overstays, criminal activity, threats to public safety, engaging in any form of terrorist activity, or providing support to a terrorist organization.
-
-...
-
-[Data](articles/ef4d89d2.json)
-
----
-
-### Evening thundershowers expected in several provinces today
-
-*2025-08-22 05:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111727/evening-thundershowers-expected-in-several-provinces-today) · `en`
-
-Atmospheric conditions are favorable for evening thundershowers in the Northern, North-Central, Central, Uva and Eastern provinces during the next few days, the Department of Meteorology said.
-
-Showers or thundershowers will occur at  several  places  in  Northern, North-Central, Central, Uva  and Eastern provinces and Hambantota district after 1.00 p.m. today (22), the Met. Department added.
-
-Fairly heavy falls of about 50 mm are likely at some places in above areas.
-
-The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/09e2c588.json)
 
 ---

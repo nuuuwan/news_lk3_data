@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 14:50:08**
+As of **2025-08-22 15:07:49**
 
 ## Newspaper Stats
 
-*Scraped **71,740** Articles*
+*Scraped **71,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,903
 adaderanalk | 9,053
-tamilmirrorlk | 10,567
+tamilmirrorlk | 10,571
 virakesarilk | 11,846
 adaderanasinhalalk | 12,400
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 12,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,740 articles have been extended.
+61,973 (86.4%) of 71,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### ”ரணில் கைது: யூடியூபருக்கு எப்படி தெரியும் ”
+
+*2025-08-22 14:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-யூடியூபருக்கு-எப்படி-தெரியும்/175-363283) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க,  குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுவார் என்பதை யூடியூபருக்கு எவ்வாறு முன்னரே தெரியும். ரணில் கைது செய்யப்படுவார் என்பது அந்த யூடியூபருக்கு எவ்வாறு கசிந்தது என்று ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம், பாராளுமன்றத்தில் தற்போது கேள்வி எழுப்பிகொண்டிருக்கின்றனார்.
+
+◼️
+
+[Data](articles/419c6f38.json)
+
+---
+
+### ரணில் கைது: வரலாற்றில் முதல் சம்பவம்
+
+*2025-08-22 14:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-வரலாற்றில்-முதல்-சம்பவம்/175-363282) · `ta`
+
+குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, இலங்கை வரலாற்றில் சட்ட அமலாக்கப் பிரிவினரால் கைது செய்யப்பட்ட முதல் முன்னாள் அரச தலைவர் ஆவார்.
+
+நிறைவேற்று ஜனாதிபதியாக இருந்தபோது லண்டனுக்கு மேற்கொண்ட தனிப்பட்ட பயணத்திற்காக அரச நிதியை தவறாகப் பயன்படுத்திய குற்றச்சாட்டில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளார்.
+
+முன்னாள் ஜனாதிபதிக்கு சிஐடி அதிகாரிகளிடமிருந்து செவ்வாய்க்கிழமை (19)  தொலைபேசி அழைப்பு வந்தது, மேலும் அவர் வழக்கமாக விசாரணைகளுக்கு ஆஜராக தனது சொந்த திகதியை வழங்கினாலும், இந்த வாரமே விசாரணையில் கலந்து கொள்வதாக அவர் தனது வழக்கறிஞர்களிடம் தெரிவித்திருந்தார்.
+
+◼️
+
+[Data](articles/d8363736.json)
+
+---
+
+### ”அந்தஸ்தைப் பொருட்படுத்தாமல் சட்டம் அமல் ”
+
+*2025-08-22 14:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தஸ்தைப்-பொருட்படுத்தாமல்-சட்டம்-அமல்/175-363281) · `ta`
+
+பாரளுமன்ற உறுப்பினர்கள், அமைச்சர்கள் அல்லது முன்னாள் ஜனாதிபதிகள் என எந்த அந்தஸ்தைப் பொருட்படுத்தாமல், அனைவருக்கும் சட்டம் அமல்படுத்தப்படுகிறது என்று பொதுப் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சர் ஆனந்த விஜேபால இன்று (22) பாராளுமன்றத்தில் தெரிவித்தார்.
+
+" குற்றம் செய்திருந்தால், அவர்களை நீதியின் முன் நிறுத்த நாங்கள் ஒருபோதும் தயங்க மாட்டோம். சட்டத்தை அமல்படுத்துவது அந்தஸ்தை அடிப்படையாகக் கொண்ட ஒன்றல்ல. குற்றம் நிகழும்போது, ​​பாதிக்கப்பட்டவர்கள் மீது சட்டம் அமல்படுத்தப்பட வேண்டும்.
+
+அதுதான் தேசிய மக்கள் சக்தியின் முக்கிய நோக்கம். பாதிக்கப்பட்ட ஒவ்வொருவருக்கும் நீதியை உறுதி செய்வதில் நாங்கள் உறுதியாக உள்ளோம் என்றார்.
+
+◼️
+
+[Data](articles/f5864ae5.json)
+
+---
+
+### ரணில் கைது: நீதிமன்ற வளாகத்தில் கடும் பாதுகாப்பு
+
+*2025-08-22 14:38:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-நீதிமன்ற-வளாகத்தில்-கடும்-பாதுகாப்பு/175-363280) · `ta`
+
+இன்று (22) அதிகாலை கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க நீதிமன்றத்தில் ஆஜர்படுத்தப்படுவதை முன்னிட்டு, கோட்டை நீதவான் நீதிமன்றத்தைச் சுற்றி பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+
+நான்கு மணி நேரத்திற்கும் மேலாக நீடித்த வாக்குமூலத்திற்குப் பிறகு,   விக்ரமசிங்க காவலில் எடுக்கப்பட்டார். விரைவில் அவர் கோட்டை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படுவார் என்று எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/a2552400.json)
+
+---
 
 ### ரணில் கைது:  வளாகத்தில் பரபரப்பு : பலரும் படையெடுப்பு
 
@@ -1697,63 +1755,5 @@ With a one-time approval process, the new revolving business loan facility offer
 ...
 
 [Data](articles/1cd218bc.json)
-
----
-
-### Ceylon Chamber highlights opportunities in UK’s Enhanced Trade Scheme
-
-*2025-08-22 02:04:00* · [`islandlk`](http://island.lk/ceylon-chamber-highlights-opportunities-in-uks-enhanced-trade-scheme/) · `en`
-
-The Ceylon Chamber of Commerce welcomes the UK Government’s liberalisation of rules of origin under its Developing Countries Trading Scheme (DCTS), set to take effect in early 2026. This important step reflects the UK’s continued commitment to greater trade openness and flexibility, offering Sri Lankan exporters enhanced access to one of their key markets.
-
-The reforms, which allow Sri Lankan apparel manufacturers to source up to 100% of inputs from any country while retaining tariff-free access to the UK, will provide a timely boost for the apparel industry—Sri Lanka’s largest export sector. In addition, the expanded regional cumulation arrangements across 18 Asian countries will further strengthen supply chains and open up opportunities for other value-added exports.
-
-...
-
-[Data](articles/72df01e9.json)
-
----
-
-### CSE contends with up-and-down trend during the day but ends on high note
-
-*2025-08-22 02:02:00* · [`islandlk`](http://island.lk/cse-contends-with-up-and-down-trend-during-the-day-but-ends-on-high-note/) · `en`
-
-CSE trading kicked off bullishly yesterday but selling pressure was noted in the middle of the day. Nevertheless, trading later recovered well due to a high investor sentiment, market analysts observed.Both indices showed mixed reactions. The All Share Price Index went up by 40.19 points while S and P SL20 declined by 11.09 points.
-
-Turnover stood at Rs 10.5 billion with 13 crossings. Top seven companies that had crossings were; HNB 2.6 million shares crossed to the tune of Rs 1 billion; its shares traded at Rs 405, Sunshine Holdings 16 million shares crossed for Rs 479 million; its shares traded at Rs 30, Sampath Bank 2.2 million shares crossed for Rs 331 million; its shares sold at Rs 145.
-
-...
-
-[Data](articles/f19221d4.json)
-
----
-
-### “75% of APAC CFOs believe that AI agents will drive revenue and transform existing organizational structures”
-
-*2025-08-22 02:00:00* · [`islandlk`](http://island.lk/75-of-apac-cfos-believe-that-ai-agents-will-drive-revenue-and-transform-existing-organizational-structures/) · `en`
-
-Chief Financial Officers (CFOs) in Asia Pacific (APAC) are moving from caution to confidence in Artificial Intelligence (AI), according to new Salesforce research. Once conservative in their approach, CFOs are now embracing AI as a strategic investment for long-term growth.
-
-In 2020, 63% of APAC CFOs maintained a conservative AI strategy. Today, only 3% remain cautious, while a growing share have adopted aggressive adoption plans. Half of CFOs say AI agents — digital labor capable of performing tasks autonomously — are reshaping how they evaluate ROI, expanding measures of success beyond traditional financial returns.
-
-...
-
-[Data](articles/d3cacdce.json)
-
----
-
-### Hayleys enters into ‘Mobility’ with exclusive OMODA & JAECOO EVs & Hybrids
-
-*2025-08-22 01:55:00* · [`islandlk`](http://island.lk/hayleys-enters-into-mobility-with-exclusive-omoda-jaecoo-evs-hybrids/) · `en`
-
-Hayleys Mobility, the newest venture under Hayleys Fentons, has officially entered the electric and hybrid vehicle market through an exclusive distribution partnership with OMODA & JAECOO Automobile Co., Ltd, the premium NEV brand of Chery Automobile Co., Limited.
-
-The agreement grants Hayleys Mobility full franchise rights in Sri Lanka for OMODA & JAECOO. Chery has been the leader in China’s passenger vehicle exports for more than 22 years, reinforcing its standing as a global automotive powerhouse. The agreement was formalised at Chery’s global headquarters in Wuhu, China.
-
-Hayleys Mobility introduces structure, scale and assurance, delivering premium EVs, Hybrids and conventional vehicle models with regulatory clarity and factory-certified service. Complementing this, its partnership with StarCharge lays the groundwork for a nationwide fast-charging network, tackling one of Sri Lanka’s biggest barriers to EV adoption: accessible, reliable charging.
-
-...
-
-[Data](articles/4db12c95.json)
 
 ---

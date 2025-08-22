@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 16:22:18**
+As of **2025-08-22 16:32:56**
 
 ## Newspaper Stats
 
-*Scraped **71,759** Articles*
+*Scraped **71,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
 adaderanalk | 9,054
-tamilmirrorlk | 10,578
+tamilmirrorlk | 10,580
 virakesarilk | 11,847
 adaderanasinhalalk | 12,405
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,759 articles have been extended.
+61,973 (86.4%) of 71,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### இவர்தான் அவரு:  வைரலாகும் போஸ்ட்
+
+*2025-08-22 16:15:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவர்தான்-அவரு-வைரலாகும்-போஸ்ட்/175-363292) · `ta`
+
+குற்றப் புலனாய்வுத் துறையால் (CID) முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது செய்யப்பட்டதைத் தொடர்ந்து, மேலே தரவேற்றப்பட்டிருக்கும் போஸ்ட் சமூக வலைத்தளங்களில் மீண்டும் வைரலாகியுள்ளது.
+
+ரணில் விக்கிரமசிங்க கைது செய்யப்படாவிட்டால், தான், தன்னுடைய யூடியூப் ​சனலை மூடி விடுவதாக, சுதத் திலக்கசிறி தன்னுடைய யூடியூப் செனலில், வியாழக்கிழமை (21) தெரிவித்திருந்தார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/00b97b16.json)
+
+---
 
 ### හිටපු ජනපති බලන්න දේශපාලඥයින් ඇතුළු විශාල පිරිසක් අධිකරණ භූමියට
 
@@ -80,6 +94,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ரணிலை கைது செய்த ரசீது இணைப்பு
+
+*2025-08-22 15:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைது-செய்த-ரசீது-இணைப்பு/175-363290) · `ta`
+
+குற்றப் புலனாய்வுத் துறையால் (CID) கைது செய்யப்பட்டதைத் தொடர்ந்து முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு கைது ரசீது வழங்கப்பட்டது,
+
+அவர் பொதுச் சொத்துச் சட்டத்தின் பிரிவு 5(1) மற்றும் குழு குறியீட்டின் பிரிவுகள் 386, 388 இன் கீழ் குற்றங்களைப் புரிந்திருப்பதைக் குறிக்கிறது.
+
+◼️
+
+[Data](articles/8b06b498.json)
+
+---
+
 ### හිටපු ජනපති රනිල්ට විශ්වවිද්‍යාලයෙන් ලද ආරාධනා පත්‍රය මෙන්න
 
 *2025-08-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213661) · `si`
@@ -104,11 +132,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 අප වාර්තාකරුවන් පැවසුවේ, මේ වනවිට පොලිස් ආරක්ෂාවට ඒ අවට දැඩි කර ඇති බවය.
 
-වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිට සත්‍යග්‍රහයක් ආරම්භ කර තිබේ.
+වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිට සත්‍යග්‍රහයක් ආරම්භ කර තිබුණි.
 
-එම සත්‍යග්‍රහය සඳහා ලංකා ගුරු සංගමය, කම්කරු අරගල මධ්‍යස්ථානය ඇතුළු වෘත්තීය සමිති කිහිපයක නියෝජිතයින් ද එක්ව සිටින බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
-
-අද (22) පෙරවරුවේ එම ස්ථානයේ සත්‍යග්‍රහයක් ආරම්භ කළ අතර පසුව එම සත්‍යග්‍රහය අවසන් කිරීමට තැපැල් වර්ජකයින් කටයුතු කළේය.
+එම සත්‍යග්‍රහය සඳහා ලංකා ගුරු සංගමය, කම්කරු අරගල මධ්‍යස්ථානය ඇතුළු වෘත්තීය සමිති කිහිපයක නියෝජිතයින් ද එක්වුණි.
 
 ප්‍රධාන ඉල්ලීම් 19ක් මුල්කරගනිමින් තැපැල් වෘත්තීය සමිති පසුගිය 17 වනදා මධ්‍යම රාත්‍රීයේ සිට ආරම්භ කළ වැඩවර්ජනය අද 05 වන දිනටත් ක්‍රියාත්මක වන අතර වර්ජනය හේතුවෙන් තැපැල් සේවා ලබා ගැනීම සඳහා පැමිණි ජනතාව දැඩි අසීරුතාවට පත්ව සිටියේය.
 
@@ -1739,39 +1765,5 @@ It was revealed in Court that Thennakoon had instructed officers not to interven
 ...
 
 [Data](articles/913e20e8.json)
-
----
-
-### Lanka Salt Company reduces prices
-
-*2025-08-22 04:26:23* · [`dailyftlk`](https://www.ft.lk/news/Lanka-Salt-Company-reduces-prices/56-780597) · `en`
-
-Lanka Salt Ltd. Chairman Nandana Thilaka on Wednesday announced a reduction in the prices of its iodised salt products.
-
-Speaking to the media, he said the price of a 400 gram packet of iodised salt powder has been reduced by Rs. 20, while the price of a 1-kilogram packet has been lowered by Rs. 30.
-
-Accordingly, from next week, a 400g packet of salt powder will be sold at Rs. 100, a 1kg packet of salt powder at Rs. 200, and a 1kg packet of crystal salt at Rs. 150.
-
-Additionally, the Chairman noted that a 400g packet of salt powder produced by the company will also be available at Sathosa outlets for Rs. 90.
-
-He further explained that the price reduction was implemented to provide relief to the public.
-
-◼️
-
-[Data](articles/61efc94e.json)
-
----
-
-### New think-tank Asian Geopolitics, Sustainability, and Peace Council launched
-
-*2025-08-22 04:26:05* · [`dailyftlk`](https://www.ft.lk/news/New-think-tank-Asian-Geopolitics-Sustainability-and-Peace-Council-launched/56-780596) · `en`
-
-A new era in regional policy dialogue began with the official launch of The Asian Geopolitics, Sustainability, and Peace Council (AGSPeC) at the Sri Lanka Foundation Institute in Colombo on 20 August – a platform dedicated to fostering strategic understanding of geopolitical issues, advancing peace, and promoting sustainable development across Asia. Leading scholars, diplomats, policymakers, civil society leaders and concerned citizens took part in this event, in addition to a gamut of political leaders, former statesmen, and leaders of political parties.
-
-AGSPeC President Deshamanya Prof. Mohan Munasinghe (who shared the 2007 Nobel Peace Prize), stated that the Council aims to provide in-depth research, policy recommendations, and practical initiatives to address the complex issues arising from the nexus of geopolitics, sustainability and peace in the 21st century.
-
-...
-
-[Data](articles/d2ccc916.json)
 
 ---

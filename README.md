@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 18:31:45**
+As of **2025-08-22 18:56:39**
 
 ## Newspaper Stats
 
-*Scraped **71,776** Articles*
+*Scraped **71,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
-adaderanalk | 9,057
+adaderanalk | 9,058
 tamilmirrorlk | 10,586
 virakesarilk | 11,847
-adaderanasinhalalk | 12,411
+adaderanasinhalalk | 12,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,776 articles have been extended.
+61,973 (86.3%) of 71,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### බොරැල්ලේ වෙඩි තැබීමක්
+
+*2025-08-22 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213669) · `si`
+
+බොරැල්ල කාදර් නානාවත්ත ප්‍රදේශයේදී අද (22) පස්වරුවේ වෙඩි තැබීමක් සිදුව තිබේ.
+
+◼️
+
+[Data](articles/b52185ce.json)
+
+---
 
 ### ரணில் கைது; கடுமையாக சாடினார் சஜித்
 
@@ -43,6 +55,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/49654c65.json)
+
+---
+
+### Decision on Ranil’s bail application adjourned for half an hour
+
+*2025-08-22 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111745/decision-on-ranils-bail-application-adjourned-for-half-an-hour) · `en`
+
+The Colombo Fort Magistrate’s Court has adjourned for half an hour the announcement of the order on the bail application filed on behalf of former President Ranil Wickremesinghe, who was arrested and produced before the court by the Criminal Investigation Department (CID).
+
+The bail application was considered before Colombo Fort Magistrate Nilupuli Lankapura.
+
+Additional Solicitor General Dileepa Peiris, appearing for the CID, stated before the court that he would present evidence against the suspect under the Public Property Act.
+
+He also requested that the suspect be remanded as the investigation is not complete.
+
+However, President’s Counsel Anuja Premaratne, appearing for the defendant, presented evidence in court and requested that the suspect be released on bail.
+
+The Magistrate then announced that the order on the bail application will be adjourned for half an hour.
+
+◼️
+
+[Data](articles/96dfa356.json)
 
 ---
 
@@ -1727,41 +1761,5 @@ Preliminary investigations suggest that the deceased suspect is believed to have
 ◼️
 
 [Data](articles/62238875.json)
-
----
-
-### Fonterra sells most downstream businesses including in Sri Lanka to Lactalis
-
-*2025-08-22 07:58:00* · [`economynextcom`](https://economynext.com/fonterra-sells-most-downstream-businesses-including-in-sri-lanka-to-lactalis-237766/) · `en`
-
-ECONOMYNEXT – New Zealand’s Fonterra said it had agreed to sell most of its consumer, ingredients and foodservice businesses including in Sri Lanka to France based Lactalis for 3.845 billion New Zealand dollars.
-
-“The sale comprises Fonterra’s global Consumer business (excluding Greater China) and Consumer brands; the integrated Foodservice and Ingredients businesses in Oceania and Sri Lanka; and the Middle East and Africa Foodservice business,” the dairy co-operative said in a statement.
-
-Also pending was further talks to included Bega brands in Australia which could add another 375 million dollars to the deal.
-
-“As the world’s largest dairy company, Lactalis has the scale required to take these brands and businesses to the next level,” Fonterra CEO Miles Hurrell said in a statement.
-
-“Fonterra farmers will continue to benefit from their success, with Lactalis to become one of our most significant Ingredients customers.”
-
-...
-
-[Data](articles/129a9dfb.json)
-
----
-
-### இன்று எச்சரிக்கை மட்டத்தில் வெப்பநிலை
-
-*2025-08-22 07:56:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-363257) · `ta`
-
-நாட்டின் பல பகுதிகளில் வெப்பநிலை இன்று கவனம் செலுத்த வேண்டிய அளவுக்கு உயரும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-அதன்படி, வட, வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் சில பகுதிகளிலும் மொனராகலை மற்றும் அம்பாந்தோட்டை மாவட்டங்களிலும் மனித உடலால் உணரப்படும் அளவில் வெப்பநிலை காணப்படும் எனத் தெரிவிக்கப்படுகின்றது.
-
-மேற்படி மாகாணங்களில் உள்ள மக்கள் உடலுக்கு தேவையான அளவு தண்ணீர் பருகுவதுடன், வயதானவர்கள் மற்றும் நோயாளர்கள் மீது அதிக கவனம் செலுத்துமாறு தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/b5173a15.json)
 
 ---

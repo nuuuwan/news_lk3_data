@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 00:08:32**
+As of **2025-08-23 00:24:52**
 
 ## Newspaper Stats
 
-*Scraped **71,833** Articles*
+*Scraped **71,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 731
 economynextcom | 4,399
 islandlk | 4,413
 dailymirrorlk | 4,733
-dailyftlk | 5,060
+dailyftlk | 5,070
 adalk | 6,908
 adaderanalk | 9,064
 tamilmirrorlk | 10,601
@@ -26,11 +26,65 @@ adaderanasinhalalk | 12,423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,833 articles have been extended.
+61,973 (86.3%) of 71,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### President hits pause on Mannar: Will SL’s present Govt. finally press play on real energy reform?
+
+*2025-08-22 23:38:49* · [`dailyftlk`](https://www.ft.lk/columns/President-hits-pause-on-Mannar-Will-SL-s-present-Govt-finally-press-play-on-real-energy-reform/4-780657) · `en`
+
+Agrovoltaics allows solar panels to be installed above farmland, generating electricity while crops continue to grow
+
+The Mannar pause is not a defeat. It is a blessing in disguise. It forces us to confront the uncomfortable truth: our renewable energy strategy has been haphazard, politically manipulated, and environmentally shortsighted
+
+The Mannar pause has proven that past warnings were not unfounded. But this moment is not a failure—it’s an opportunity to re-evaluate and correct the mistakes of past governments. A golden opportunity to reimagine with the right plan for Sri Lanka’s energy future with boldness, pragmatism, and fairness for all. An opportunity to bring solar and agrovoltaics into the mainstream of our strategy, taking into account Sri Lanka’s resources rather than merely imitating trends of another completely different territory
+
+...
+
+[Data](articles/8afeb545.json)
+
+---
+
+### Integrating cross-cutting considerations into national adaptation planning
+
+*2025-08-22 23:34:32* · [`dailyftlk`](https://www.ft.lk/columns/Integrating-cross-cutting-considerations-into-national-adaptation-planning/4-780656) · `en`
+
+Climate change adaptation refers to measures that reduce climate-related risks and impacts on people, ecosystems, and economies while identifying and seizing opportunities for green growth and a just economic transition. National adaptation plans (NAPs) are often the cornerstone of countries’ efforts to identify their vulnerabilities, set adaptation priorities, mobilise finance for implementation, and track progress. However, incorporating cross-cutting considerations—for example, youth, gender, human mobility, or entrepreneurship—into these plans presents an important challenge.
+
+...
+
+[Data](articles/3145ab75.json)
+
+---
+
+### Rules-based order at risk: Return of power politics
+
+*2025-08-22 23:31:03* · [`dailyftlk`](https://www.ft.lk/columns/Rules-based-order-at-risk-Return-of-power-politics/4-780655) · `en`
+
+These cases, though diverse, reveal a consistent pattern. Treaty obligations are observed selectively, depending on political convenience. Legal mechanisms are bypassed, as governments resort to unilateral measures over arbitration. Enforcement is shaped by alliances and geopolitics rather than universal principles. The rules-based order is being hollowed out—not with one decisive blow, but through the steady erosion of credibility
+
+...
+
+[Data](articles/ffd34b76.json)
+
+---
+
+### The day negligence exploded: How greed  and ignorance fuelled Sri Lanka’s LPG disaster
+
+*2025-08-22 23:27:51* · [`dailyftlk`](https://www.ft.lk/opinion/The-day-negligence-exploded-How-greed-and-ignorance-fuelled-Sri-Lanka-s-LPG-disaster/14-780654) · `en`
+
+Review of “A Sri Lankan Misadventure” by Nareshkumar B. Handagama
+
+In 2021, Sri Lanka was rocked by over 400 cooking gas explosions – many fatal, many more injured, and all terrified. Homes and restaurants became death traps overnight. While victims were initially blamed for “using old cookers” or “neglecting maintenance,” Dr. Nareshkumar B. Handagama – a globally renowned chemical engineer, professor, former CEO of Sri Lanka Institute of Nanotechnology – and his meticulously researched book, ‘A Sri Lankan Misadventure’, exposes the shocking truth: the explosions were a manmade disaster fuelled by corporate greed, regulatory negligence, complicit indifference and governmental wilful ignorance.
+
+...
+
+[Data](articles/2c83e171.json)
+
+---
 
 ### கை விலங்கிடப்பட்டு சிறை செல்கிறார் ரணில்
 
@@ -51,6 +105,102 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8615d2e5.json)
+
+---
+
+### Estate Lake facilitates Colombo’s largest property deal valued at Rs. 4.5 b
+
+*2025-08-22 23:12:33* · [`dailyftlk`](https://www.ft.lk/business/Estate-Lake-facilitates-Colombo-s-largest-property-deal-valued-at-Rs-4-5-b/34-780645) · `en`
+
+Estate Lake Real Estate yesterday said it facilitated a historic transaction valued at Rs. 4.5 billion for Home Lands Holding, marking the largest recorded real estate deal in Colombo’s history.
+
+The transaction paves the way for a 40-story twin tower project that is set to become a landmark on the city’s skyline. This milestone underscores Estate Lake’s unmatched ability to connect high-value opportunities with strategic investors. Known for its professionalism, market insight, and client-centric approach, the company has consistently delivered results that redefine industry benchmarks.
+
+“This achievement is a testament not only to the reach of our network but also to the confidence our clients place in our integrity, professionalism, and commitment to excellence,” said Estate Lake Real Estate Managing Director Malik Zaveer, adding, “We take pride in contributing to the growth in the industry while maintaining the highest standards of service in every transaction.”
+
+...
+
+[Data](articles/69ec8e49.json)
+
+---
+
+### Matheendra De Zoysa to lead Bangladesh LPG giant
+
+*2025-08-22 23:11:45* · [`dailyftlk`](https://www.ft.lk/business/Matheendra-De-Zoysa-to-lead-Bangladesh-LPG-giant/34-780644) · `en`
+
+Leading Bangladesh LPG downstream business Omera Petroleum has recently appointed Matheendra De Zoysa to lead its two companies, Omera LPG and Omera Cylinders Ltd.
+
+Omera is a subsidiary of MJL Bangladesh and its holding company East Coast Group, which is one of the largest private entities in Bangladesh spanning its business in LPG, lubricants, shipping, retail, ceramics, etc.
+
+Matheendra holds more than 25 years of experience across diverse business sectors starting his career with Caltex Lubricants in 2000 and had served as the Chief Operating Officer for LAUGFS Gas PLC and Lubricants prior to his assignment in Bangladesh.
+
+His previous experience in Bangladesh in IT and automotive sectors have facilitated him to be appointed for his new position as the Chief Executive Officer of Omera Petroleum.
+
+Matheendra is the first Sri Lankan appointed to such a higher post in the Bangladesh LPG industry. He is a product of Ananda College Colombo.
+
+◼️
+
+[Data](articles/d9a3bc32.json)
+
+---
+
+### Profood Propack & Agbiz 2025 opens at BMICH
+
+*2025-08-22 23:10:47* · [`dailyftlk`](https://www.ft.lk/business/Profood-Propack-Agbiz-2025-opens-at-BMICH/34-780643) · `en`
+
+Sri Lanka’s most anticipated food industry event, Profood Propack & Agbiz 2025, began yesterday at the Sirimavo Bandaranaike Exhibition and Convention Centre, BMICH, Colombo.
+
+The exhibition is organised by the Sri Lanka Food Processors Association (SLFPA) in collaboration with Lanka Exhibition and Conference Services (LECS).
+
+Endorsed by the Industries Ministry, the National Agribusiness Council, and the Institute of Food Science and Technology Sri Lanka (IFSTSL), the exhibition continues its legacy as a driving force in advancing Sri Lanka’s food sector.
+
+For over 25 years, Profood Propack & Agbiz has stood as SLFPA’s flagship platform, bringing together leaders in agriculture, food processing, packaging, and allied services. The event fosters knowledge-sharing, innovation, and strategic partnerships, while significantly contributing to the nation’s economic growth, the organisers said in a statement.
+
+...
+
+[Data](articles/6583aa67.json)
+
+---
+
+### Cycle Brands launches  new fragrance and website at ‘Scent & Sparkles 2025’
+
+*2025-08-22 23:09:39* · [`dailyftlk`](https://www.ft.lk/business/Cycle-Brands-launches-new-fragrance-and-website-at-Scent-Sparkles-2025/34-780642) · `en`
+
+Cycle Brands, which promotes incense products, recently took a remarkable step by launching four new fragrances and creating a convenient online access to its customers and partners at ‘Scent & Sparkle 2025’.
+
+Held at the Golden Rose Hotel in Boralesgamuwa, Cycle Brands introduced four exclusive fragrances to its already existing and rich collection, expanding the choices and options to their increasing customer base. At ‘Scent & Sparkle 2025’, Cycle Brands also launched its official website, with the prime intention of creating a convenient passage to its customers to purchase products online, marking an important strategic leap into the digital age.
+
+...
+
+[Data](articles/4b99f6e7.json)
+
+---
+
+### The Routes we Take project heads to Jaffna
+
+*2025-08-22 23:08:19* · [`dailyftlk`](https://www.ft.lk/business/The-Routes-we-Take-project-headstoJaffna/34-780641) · `en`
+
+The Routes we Take (TRWT) will be at Yarl IT Hub’s YGC Innovation Festival
+
+The Routes we Take, a pioneering initiative by the European Union National Institutes for Culture (EUNIC) Sri Lanka, Europe’s network of national cultural institutes and organisations, with 36 members from all EU Member States and associate countries and Good Life X, is heading to Jaffna for the YGC Innovation Festival 29-30 August 2025.
+
+...
+
+[Data](articles/a1486ae7.json)
+
+---
+
+### Heritance Hotels, Aitken Spence Travels partner CCC Foundation to champion  mental health through 1333 Bikeathon
+
+*2025-08-22 23:07:21* · [`dailyftlk`](https://www.ft.lk/business/Heritance-Hotels-Aitken-Spence-Travels-partner-CCC-Foundation-to-champion-mental-health-through-1333-Bikeathon/34-780640) · `en`
+
+Heritance Hotels and Resorts, the flagship brand of Aitken Spence Hotels, and Aitken Spence Travels have announced their partnership for the upcoming Bikeathon, organised by the CCC Foundation to raise national awareness for mental health and promote the lifesaving 1333 Mental Health Helpline.
+
+The 1333 Bikeathon charts a powerful journey across Sri Lanka, from southern coastlines to the heartland, blending purpose with discovery. Along this route, participants will find exclusive accommodation at Heritance Hotels and Resorts and Aitken Spence Hotels, including Heritance Ahungalla, Heritance Kandalama, Sentido Heritance Negombo, and Amethyst Resort Passikudah.
+
+...
+
+[Data](articles/e41a1d6b.json)
 
 ---
 
@@ -1589,185 +1739,5 @@ Statements were subsequently recorded from Sandra Perera, who served as the form
 ...
 
 [Data](articles/21734e98.json)
-
----
-
-### හිටපු ජනපති රනිල් CID අත්අඩංගුවට
-
-*2025-08-22 14:13:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-CID-අත්අඩංගුවට/11-418016) · `si`
-
-හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අත්අඩංගුව ගෙන තිබේ. ඒ මහතා ප්‍රකාශයක් ලබාදීම සඳහා අද (22දා) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණියේය. හිටපු ජනපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව මෙය වෙයි.
-
-රනිල් වික්‍රමසිංහ මහතා ජනපතිධුරය දරණ සමයේදී නිව්යෝක් නුවර නිල සංචාරයකට ගොස් ආපසු එමින් සිටියදී එංගලන්තයේ පැවැති උපාධි ප්‍රදානෝත්සවයකට සිය බිරිඳ සමග ඒක්වී රජයේ මුදල් අවභාවිත කර ඇති බවට වූ විමර්ශනයකට අදාළව මෙම අත්අඩංගුවට ගැනිම සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/7cd98d4f.json)
-
----
-
-### Ex-Sri Lanka president arrested for misappropriation allegation
-
-*2025-08-22 13:56:00* · [`economynextcom`](https://economynext.com/ex-sri-lanka-president-arrested-for-misappropriation-allegation-237824/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former president Ranil Wickremesinghe was arrested by police following a brief questioning over misappropriation of funds during a foreign visit while he was the president, police sources said.
-
-Wickremesinghe is widely hailed for his leadership during Sri Lanka’s unprecedented economic crisis and steered the island nation towards recovery path.
-
-Sources close to the government had predicted Wickremesinghe will be arrested for 14 days on Friday (22) when he visits police Criminal Investigation Department (CID).  (Colombo/August 22/2023)
-
-◼️
-
-[Data](articles/fb25cfda.json)
-
----
-
-### Sri Lanka ex-President Ranil Wickremesinghe arrested
-
-*2025-08-22 13:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-arrested-237820/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe has been arrested by police over allegations of mis-using state property, reports said.
-
-He was arrested by the police criminal investigation department after he came to give a statement upon being summoned.
-
-The investigation related to a private visit to London to attend a graduation ceremony connected to his wife Maithree Wickramasinghe, last year.
-
-He is to be shortly presented before Colombo Fort Magistrate, sources said.
-
-Wickremesinghe became president during the worst economic crisis of post-independent Sri Lanka.
-
-He became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
-
-Days later parliament elected him as the 8th Executive President of the country.
-
-He served until Anura Disanayake was elected president on September 21, 2024. (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/a3ce0b1e.json)
-
----
-
-### හිටපු ජනපති රනිල් අත්අඩංගුවට
-
-*2025-08-22 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213655) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද (22) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි අවස්ථාවේ දීය.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-ඊට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට කරුණු දක්වනු ලැබුවේ, ජුනි 24 වෙනි දා ය‍.
-
-අනතුරුව එම විමර්ශනයට අදාළව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පෞද්ගලික ලේකම් ලෙස කටයුතු කළ සැන්ඩ්‍රා පෙරේරා මහත්මියගෙන් ද, හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගෙන් ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ප්‍රකාශ සටහන් කර ගත්තේය.
-
-...
-
-[Data](articles/45da21bf.json)
-
----
-
-### Former President Ranil Wickremesinghe arrested
-
-*2025-08-22 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111741/former-president-ranil-wickremesinghe-arrested-) · `en`
-
-Former President Ranil Wickremesinghe has been arrested by the Criminal Investigation Department (CID).
-
-He was arrested after arriving at the CID to record a statement today in connection with an ongoing investigation.
-
-Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President, allegedly using state funds.
-
-Meanwhile, it is reported former President Wickremesinghe is to be produced before the Fort Magistrate’s Court in a short while.
-
-The CID had earlier presented evidence related to the case before the Fort Magistrate’s Court on June 24.
-
-Statements were subsequently recorded from Sandra Perera, who served as the former President’s private secretary, and from former Presidential Secretary Saman Ekanayake.
-
-...
-
-[Data](articles/ddbb23b7.json)
-
----
-
-### ரணில் கைது
-
-*2025-08-22 13:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-கைது/150-363278) · `ta`
-
-வாக்குமூலம் ஒன்றை அளிப்பதற்காக நிதி குற்றப் புலனாய்வுப் பிரிவில் முன்னிலையான முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது செய்யப்பட்டுள்ளார்.
-
-ஜனாதிபதியாக அவர் பணியாற்றிய காலப்பகுதியில் மேற்கொண்ட வெளிநாட்டுப் பயணங்கள் தொடர்பில் வாக்குமூலம் பெறுவதற்காக இன்று காலை அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியிருந்த நிலையில் இவர் கைது செய்யப்பட்டுள்ளார்.  R
-
-◼️
-
-[Data](articles/60259f94.json)
-
----
-
-### மயக்க மருந்து ஸ்ப்ரே பற்றாக்குறையால் முக்கிய பரிசோதனைகள் தாமதம்
-
-*2025-08-22 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223099) · `ta`
-
-மயக்க மருந்து  ஸ்ப்ரே இன்மையால் மேல் செரிமான அமைப்பைப் பரிசோதிக்கப் பயன்படுத்தப்படும்  மேல் இரைப்பை குடல் எண்டோஸ்கோபி (UGIE) சோதனைகள்  பல வைத்தியசாலைகளில் தாமதமாகி வருகின்றன.
-
-இந்த மயக்க மருந்து இலங்கையில் கிடைப்பதில்லை. தற்போது சந்தையில் உள்ள தயாரிப்புக்கு தேசிய மருந்துகள் ஒழுங்குப்படுத்தல் ஆணைக்குழு அனுமதி அளிக்கவில்லை.
-
-சில வைத்தியர்கள் தனிப்பட்ட நோயாளிகளுக்கு வெளிநாட்டு நிறுவனங்களிடமிருந்து மயக்க மருந்து  ஸ்ப்ரேயை வாங்குவதற்கு முன்பதிவு செய்துள்ளதாகவும், ஆனால் பெரும்பாலான வைத்தியசாலை நடைமுறைகள் புதிய திகதிகள் இன்மையால் நிறுத்தி வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கின்றன.
-
-தேசிய, கற்பித்தல் மற்றும் மாவட்ட வைத்தியசாலைகளில் UGIE சோதனைகள் வழக்கமாக  செய்யப்படுகின்றன. ஒவ்வொரு வாரமும் 50 க்கும் மேற்பட்ட நோயாளிகள் பரிசோதனைக்கு உட்படுகிறார்கள்.
-
-◼️
-
-[Data](articles/0b1fffad.json)
-
----
-
-### සැප්තැම්බර් මුල PTA අහෝසි කරන කෙටුම්පත ගැසට් කිරීමට සූදානම්
-
-*2025-08-22 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213654) · `si`
-
-සැප්තැම්බර් මස මුලදී ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කරන කෙටුම්පත ගැසට් කිරීමට කටයුතු කරන බව විදේශ අමාත්‍ය විජිත හේරත් මහතා පවසයි.
-
-අද (22) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
-
-"ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කරනවා කියන එක අපේ ප්‍රතිපත්ති ප්‍රකාශයේ පැහැදිලිව සඳහන් වෙන දෙයක්. සැප්තැම්බර් මුල වෙනකොට ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කරන කෙටුම්පත ගැසට් කරන්න අපි කටයුතු කරනවා."
-
-◼️
-
-[Data](articles/eecb3265.json)
-
----
-
-### Draft bill to repeal PTA to be gazetted next month - Foreign Minister
-
-*2025-08-22 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111740/draft-bill-to-repeal-pta-to-be-gazetted-next-month-foreign-minister) · `en`
-
-Sri Lanka’s Foreign Minister Vijitha Herath informed Parliament today (22) that the draft bill to repeal the controversial Prevention of Terrorism Act (PTA) will be published in the Government Gazette in the beginning of September.
-
-“We will make the necessary amendments and finalize them before the end of this month, after which the gazette notification to repeal the Prevention of Terrorism Act will be published in early September,” the Minister stated.
-
-He further emphasized that, although the PTA is still being applied to a limited extent in the country, it is not being used to target any ethnic or religious communities.
-
-“It is currently used to combat organized crime and underworld activities. The majority of those arrested under the PTA are not Tamils or Muslims, but Sinhalese individuals involved in drug-related and underworld crimes,” he clarified.
-
-...
-
-[Data](articles/a25a0205.json)
-
----
-
-### பாராளுமன்றத்தில் பதற்றம்: சுவர் ஏறி குதித்தவர் சிக்கினார்
-
-*2025-08-22 13:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பதற்றம்-சுவர்-ஏறி-குதித்தவர்-சிக்கினார்/175-363277) · `ta`
-
-பாராளுமன்ற வளாகத்துக்குள் இன்று (22)  காலையில் சுவர் ஏறி குதித்து அத்துமீறி நுழைந்த நபரால் பெரும் பரபரப்பு ஏற்பட்டது.
-
-பாராளுமன்ற வளாகத்துக்குள் இன்று (22)  காலை 6.30 மணியளவில் ஒரு நபர் மரத்தில் ஏறி சுவர் மீது குதித்து உள்ளே நுழைந்தார். ரயில் பவன் பக்கத்திலிருந்து சுவர் தாண்டி குதித்து ஊடுருவியவர், புதிய பாராளுமன்றக் கட்டிடத்தின் கருடா வாயிலை அடைந்ததாக அதிகாரிகள் தெரிவித்தனர்.
-
-சுவர் ஏறி குதித்து ஊடுருவிய நபர் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளார். அவரிடம் விசாரணை நடைபெற்று வருவதாக அதிகாரிகள் தெரிவித்தனர். பெரும் அனலை கிளப்பிய பாராளுமன்ற மழைக்காலக் கூட்டத்தொடர் வியாழக்கிழ​மையுடன் (21) நிறைவடைந்த நிலையில், இன்று (22) இந்த சம்பவம் நடந்துள்ளது.
-
-...
-
-[Data](articles/6ecb4685.json)
 
 ---

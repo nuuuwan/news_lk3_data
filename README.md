@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 14:08:31**
+As of **2025-08-22 14:22:50**
 
 ## Newspaper Stats
 
-*Scraped **71,727** Articles*
+*Scraped **71,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,901
-adaderanalk | 9,048
+adaderanalk | 9,051
 tamilmirrorlk | 10,566
-virakesarilk | 11,842
+virakesarilk | 11,846
 adaderanasinhalalk | 12,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,727 articles have been extended.
+61,973 (86.4%) of 71,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது
+
+*2025-08-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/223100) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று வெள்ளிக்கிழமை (ஆகஸ்ட் 22) கைது செய்யப்பட்டுள்ளார்.
+
+லண்டனுக்கு அவர் மேற்கொண்ட உத்தியோகபூர்வ பயணம் தொடர்பாக வாக்குமூலம் அளிப்பதற்காக நிதி குற்றப் புலனாய்வுப் பிரிவுக்கு (FCID) சென்றிருந்த நிலையில் இந்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7f1f1eb0.json)
+
+---
 
 ### හිටපු ජනපති රනිල් අත්අඩංගුවට
 
@@ -63,6 +77,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/60259f94.json)
+
+---
+
+### மயக்க மருந்து ஸ்ப்ரே பற்றாக்குறையால் முக்கிய பரிசோதனைகள் தாமதம்
+
+*2025-08-22 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223099) · `ta`
+
+மயக்க மருந்து  ஸ்ப்ரே இன்மையால் மேல் செரிமான அமைப்பைப் பரிசோதிக்கப் பயன்படுத்தப்படும்  மேல் இரைப்பை குடல் எண்டோஸ்கோபி (UGIE) சோதனைகள்  பல வைத்தியசாலைகளில் தாமதமாகி வருகின்றன.
+
+இந்த மயக்க மருந்து இலங்கையில் கிடைப்பதில்லை. தற்போது சந்தையில் உள்ள தயாரிப்புக்கு தேசிய மருந்துகள் ஒழுங்குப்படுத்தல் ஆணைக்குழு அனுமதி அளிக்கவில்லை.
+
+சில வைத்தியர்கள் தனிப்பட்ட நோயாளிகளுக்கு வெளிநாட்டு நிறுவனங்களிடமிருந்து மயக்க மருந்து  ஸ்ப்ரேயை வாங்குவதற்கு முன்பதிவு செய்துள்ளதாகவும், ஆனால் பெரும்பாலான வைத்தியசாலை நடைமுறைகள் புதிய திகதிகள் இன்மையால் நிறுத்தி வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கின்றன.
+
+தேசிய, கற்பித்தல் மற்றும் மாவட்ட வைத்தியசாலைகளில் UGIE சோதனைகள் வழக்கமாக  செய்யப்படுகின்றன. ஒவ்வொரு வாரமும் 50 க்கும் மேற்பட்ட நோயாளிகள் பரிசோதனைக்கு உட்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/0b1fffad.json)
 
 ---
 
@@ -111,6 +143,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/067a69a2.json)
+
+---
+
+### Israel’s defense minister warns Gaza City could be destroyed
+
+*2025-08-22 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111739/israels-defense-minister-warns-gaza-city-could-be-destroyed) · `en`
+
+Israel’s defense minister warned on Friday that Gaza City could be destroyed unless Hamas accepts Israel’s terms, as the country prepares for an expanded offensive in the area.
+
+A day after Prime Minister Benjamin Netanyahu said he would authorize the military to seize Gaza City, Defense Minister Israel Katz warned that the enclave’s largest city could “turn into Rafah and Beit Hanoun,” areas reduced to rubble earlier in the war.
+
+“The gates of hell will soon open on the heads of Hamas’ murderers and rapists in Gaza – until they agree to Israel’s conditions for ending the war,” Katz wrote in a post on X.
+
+He restated Israel’s ceasefire demands: the release of all hostages and Hamas’ complete disarmament.
+
+Hamas has said it would release captives in exchange for ending the war, but rejects disarmament without the creation of a Palestinian state.
+
+◼️
+
+[Data](articles/f0b94c5d.json)
+
+---
+
+### தமிழ் ஊடகவியலாளர்களுக்கு எதிரான அநுர அரசாங்கத்தின் அடக்குமுறையை கண்டித்து கவனயீர்ப்பு போராட்டம்
+
+*2025-08-22 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/223092) · `ta`
+
+தமிழ் ஊடகவியலாளர்களுக்கு எதிரான அநுர அரசாங்கத்தின் அடக்குமுறையை கண்டித்து ஊடகவியலாளர்கள், சிவில் செயற்பாட்டார்கள் பாராளுமன்ற சுற்றுவட்டத்துக்கு முன்பாக கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுக்கப்பட்டது.
+
+◼️
+
+[Data](articles/a7582d1f.json)
 
 ---
 
@@ -206,6 +270,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ex-Minister Akila Viraj arrives at Bribery Commission
+
+*2025-08-22 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111738/ex-minister-akila-viraj-arrives-at-bribery-commission) · `en`
+
+Former Minister Akila Viraj Kariyawasam has arrived at the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) this morning (22) to provide a statement.
+
+This relates to an investigation into an incident where employees of the State Engineering Corporation of Sri Lanka were reportedly used to carry out renovations at the ‘Sirikotha’ headquarters of the United National Party (UNP), said Ada Derana reporter.
+
+◼️
+
+[Data](articles/2bc7ebb8.json)
+
+---
+
 ### යුද්ධය අවසන් කරන්න නෙතන්යාහු සුදානමින්
 
 *2025-08-22 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213651) · `si`
@@ -259,6 +337,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9b90188e.json)
+
+---
+
+### கொலம்பியாவில் ஆயுதமேந்திய புரட்சிப் படை நடத்திய இரண்டு தாக்குதல்களில் 18 பேர் உயிரிழப்பு
+
+*2025-08-22 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223089) · `ta`
+
+கொலம்பியாவின் ஆயுதமேந்திய புரட்சிப் படை வியாழக்கிழமை (21) நடத்திய இரண்டு தாக்குதல்களில் சுமார் 18 பேர் கொல்லப்பட்டுள்ளதோடு, பலர் காயமடைந்துள்ளனர்.
+
+கொலம்பியாவில் அதிக  சனத்தொகை கொண்ட மூன்றாவது நகரமான காலியில், இராணுவ விமான பயிற்சி  முகாமுக்கு அருகே  வெடிப்பொருட்கள் நிரப்பப்பட்ட வாகனம் வெடித்தது. அதில் ஆறு பேர் கொல்லப்பட்டுள்ளதோடு 71 பேர் காயமடைந்தனர்.
+
+இந்த சம்பவம் இடம்பெற்று சில மணி நேரங்களுக்கு முன்பு, கோகோ இலை பயிர் ஒழிப்பு நடவடிக்கையில் ஈடுப்பட்ட தேசிய பொலிஸ் பிளாக் ஹாக் ஹெலிகொப்டர், ஆன்டியோகுவியா துறையில் உள்ள அமல்ஃபி நகராட்சியில் ட்ரோன் மூலம் சுட்டு வீழ்த்தப்பட்டதில் 12 பொலிஸ் அதிகாரிகள் கொல்லப்பட்டனர்.
+
+இந்த தாக்குதலுக்கு 450,000 க்கும் அதிகமானோர் கொல்லப்பட்ட நீண்டகால உள்நாட்டு மோதலை முடிவுக்குக் கொண்டுவருவதற்கான 2016 அமைதி ஒப்பந்தத்தை நிராகரித்த ஆயுதமேந்திய புரட்சிப் படை தான் காரணம் என கொலம்பிய ஜனாதிபதி குஸ்டாவோ பெட்ரோ குற்றம்சாட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/a66318b7.json)
 
 ---
 
@@ -339,6 +435,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/33ff76e3.json)
+
+---
+
+### Postal trade unions stage ‘Satyagraha’ in Colombo
+
+*2025-08-22 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111737/postal-trade-unions-stage-satyagraha-in-colombo) · `en`
+
+Postal trade unions participating in the ongoing strike have staged a ‘Satyagraha’ campaign in front of the Colombo Central Mail Exchange, said Ada Derana reporter.
+
+Representatives from several other trade unions, including the All Ceylon United Teachers’ Union and the Workers’ Struggle Center, are also taking part in this ‘Satyagraha’ campaign.
+
+Special police security has been deployed around the Colombo Central Mail Exchange premises in response to the campaign, which commenced this morning (22).
+
+The postal strike, which commenced on the night of August 17 over 19 key demands, today entered its fifth day. The disruption has caused significant inconvenience to the public seeking postal services.
+
+Meanwhile, the Treasurer of the All Ceylon Sub-Postmasters’ Union, Ravindra Amarajeewa, has urged other postal trade union representatives to end the strike to prevent further disruption and inconvenience to the public.
+
+...
+
+[Data](articles/d3ac87ea.json)
 
 ---
 
@@ -1649,123 +1765,5 @@ The Prime Minister has emphasized the importance of ensuring equal opportunities
 ...
 
 [Data](articles/44dc63ff.json)
-
----
-
-### Excavations at Chemmani mass grave to continue for eight more weeks
-
-*2025-08-21 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111725/excavations-at-chemmani-mass-grave-to-continue-for-eight-more-weeks) · `en`
-
-Excavations at the Chemmani Sindhubathi cemetery in Jaffna are likely to continue for eight more weeks, officials have said.
-
-Skeletal remains believed to belong to 141 individuals have been recovered from the Chemmani Sindhubathi cemetery, located near a suspected mass grave site in Jaffna.
-
-The skeletal remains were first noticed on February 20, 2025, during a development project at the Chemmani Sindhubathi cemetery in Jaffna.
-
-Following the discovery, those involved in the development work informed the Jaffna police.
-
-Subsequently, the Jaffna police obtained a court order from the Jaffna Magistrate’s Court to conduct excavations at the site where the remains were found.
-
-Excavations commenced under the supervision of a team of experts, and human remains have been discovered at various stages since then.
-
-Since the area was secured and declared an area of interest, a total of 141 skeletons have been discovered within a 165-square-meter area.
-
-...
-
-[Data](articles/27a4ba0b.json)
-
----
-
-### All trains between Maradana and Colombo Fort delayed
-
-*2025-08-21 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111724/all-trains-between-maradana-and-colombo-fort-delayed) · `en`
-
-Train services between Maradana and Colombo Fort Railway stations have been disrupted due to a ‘stalled train’ near the Dematagoda Yard, the Railway Control Room said.
-
-According to the Control Room, the No. 775 train scheduled to leave for Galle this evening had reportedly stalled while on its way to the Maradana station due to a mix-up of tracks near the Dematagoda Yard.
-
-Therefore, train services between the two railway stations have been affected.
-
-◼️
-
-[Data](articles/b43ed395.json)
-
----
-
-### All trains between Maradana and Colombo Fort delayed
-
-*2025-08-21 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111724/all-train-between-maradana-and-colombo-fort-delayed) · `en`
-
-Train services between Maradana and Colombo Fort Railway stations have been disrupted due to a ‘stalled train’ near the Dematagoda Yard, the Railway Control Room said.
-
-According to the Control Room, the No. 775 train scheduled to leave for Galle this evening had reportedly stalled while on its way to the Maradana station due to a mix-up of tracks near the Dematagoda Yard.
-
-Therefore, train services between the two railway stations have been affected.
-
-◼️
-
-[Data](articles/f1d9b900.json)
-
----
-
-### සියලුම මාර්ගයන්හි දුම්රිය ප්‍රමාදයක්
-
-*2025-08-21 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213633) · `si`
-
-දෙමටගොඩ දුම්රිය අංගනය අසල දී දුම්රියක් වැරදි මංතීරු මත ගමන්කිරීමේ ඇති වූ අවහිරතාවකින් මරදාන සහ කොළඹ කොටුව අතර දුම්රිය ප්‍රමාදයක් ඇතිව තිබේ.
-
-අද (21) ප.ව. 6.45ට මරදාන සිට ගාල්ල දක්වා ධාවනය වීමට නියමිත තිබූ සීඝ්‍රගාමී රාත්‍රී තැපැල් දුම්රිය මෙලෙස ගමන්කර ඇත.
-
-ඒ හේතුවෙන් ඇතිවූ මාර්ග අවහිරතාවයෙන් ඉහළ සහ පහළ දෙසට ධාවනයවීමට නියමිත සියලුම දුම්රියන් ප්‍රමාද වී ධාවනය කිරීමට සිදුවනු ඇති බව සඳහන්.
-
-◼️
-
-[Data](articles/2b77d97d.json)
-
----
-
-### மாற்றுத்திறனாளி சமூகத்திற்கு நிவாரணம் வழங்குவதற்கான திட்டத்தை முறைப்படுத்த ஜனாதிபதி நிதியத்தின் ஆதரவு
-
-*2025-08-21 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223055) · `ta`
-
-மாற்றுத்திறனாளி சமூகத்திற்கு நிவாரணம் வழங்குவதற்கான முறையான வழிமுறையை தயாரிப்பது தொடர்பில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க மற்றும்  மாற்றுத்திறனாளிகளுக்கான தேசிய செயலக அதிகாரிகளுக்கு இடையே வியாழக்கிழமை (21) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் கலந்துரையாடல் நடைபெற்றது.
-
-மாற்றுத்திறனாளிகளுக்கான ஜனாதிபதி நிதியத்தால் வழங்கப்படும் சேவைகளை மேலும் விரிவுபடுத்துதல் மற்றும் முறையாக வழங்குதல் மற்றும் மாற்றுத்திறனாளிகளுக்கான தேசிய செயலகத்துடன் இணைந்து திட்டங்களை செயல்படுத்துதல் குறித்து இதன்போது கவனம் செலுத்தப்பட்டது.
-
-...
-
-[Data](articles/918f9186.json)
-
----
-
-### பாடசாலைகளில் உள்ள விளையாட்டுத்துறை சார்ந்த பிரச்சினைகள் குறித்து பிரதமர் மற்றும் அதிகாரிகளுக்கு இடையே கலந்துரையாடல்
-
-*2025-08-21 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/223054) · `ta`
-
-பாடசாலைகளில் நிலவும் விளையாட்டுத்துறை சார்ந்த பிரச்சினைகள் குறித்து, கல்வி அமைச்சு மற்றும் விளையாட்டு அமைச்சின் அதிகாரிகள், கல்வி, உயர்கல்வி மற்றும் தொழில் கல்வி அமைச்சரும் பிரதமருமான கலாநிதி ஹரிணி அமரசூரிய அவர்களை ஆகஸ்ட் 21 அன்று பாராளுமன்ற வளாகத்தில் சந்தித்துக் கலந்துரையாடினர்.
-
-இதன்போது, விளையாட்டுத்துறை சார்ந்த பிரச்சினைகளுக்குத் தீர்வு காண கல்வி அமைச்சுக்கும் விளையாட்டு அமைச்சுக்கும் இடையில் ஒரு தொடர்பாடலை ஏற்படுத்துவதன் அவசியம் குறித்து இருதரப்பு அதிகாரிகளும் சுட்டிக்காட்டினர்.
-
-அத்துடன், விளையாட்டுச் சங்கங்களில் நிலவும் அனுமதிப்பத்திரப் பிரச்சினைகள், விளையாட்டுப் பயிற்றுவிப்பாளர்களால் ஏற்படும் வன்முறைகள், பாடசாலை விளையாட்டுத்துறையை மேம்படுத்துதல் ஆகியன தொடர்பான பிரச்சினைகள் குறித்தும் இங்கு கவனம் செலுத்தப்பட்டது.
-
-...
-
-[Data](articles/7dccf009.json)
-
----
-
-### பண்டாரகம துப்பாக்கிச் சூடு ; ஒருவரின் உயிரிழப்பு
-
-*2025-08-21 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/223053) · `ta`
-
-பண்டாரகம, துன்போதிய பாலத்திற்கு அருகில் 21ஆம் திகதி வியாழக்கிழமை மாலை 6.00 மணியளவில் துப்பாக்கிச் சூடு சம்பவத்தில் ஒருவர் உயிரிழந்தார்.
-
-காரில் இருந்த ஒருவர் மீது அடையாளம் தெரியாத துப்பாக்கிச் சூடு நடத்தியதாக பொலிசார் தெரிவித்தனர்.
-
-டி-56 துப்பாக்கியால் துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அவர் மீது 20க்கும் மேற்பட்ட துப்பாக்கிச் சூடுகள் நடத்தப்பட்டதாகவும் பொலிசார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/30d9957f.json)
 
 ---

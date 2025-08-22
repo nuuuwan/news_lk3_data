@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 05:17:57**
+As of **2025-08-22 05:32:23**
 
 ## Newspaper Stats
 
-*Scraped **71,649** Articles*
+*Scraped **71,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
 economynextcom | 4,384
-islandlk | 4,402
+islandlk | 4,404
 dailymirrorlk | 4,733
-dailyftlk | 5,057
+dailyftlk | 5,060
 adalk | 6,895
 adaderanalk | 9,036
 tamilmirrorlk | 10,545
@@ -26,11 +26,57 @@ adaderanasinhalalk | 12,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.5%) of 71,649 articles have been extended.
+61,973 (86.5%) of 71,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### ITAK launches half-day hartal with twin objectives in North-East
+
+*2025-08-22 05:11:44* · [`dailyftlk`](https://www.ft.lk/columns/ITAK-launches-half-day-hartal-with-twin-objectives-in-North-East/4-780620) · `en`
+
+Despite the mixed response in different areas, the hartal on the whole was successful
+
+“Hartal” is a word that entered the political discourse of countries like India, Sri Lanka and Malaysia during British rule. The Gujarati word was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A hartal denotes a total shutdown of workplaces, offices, shops, schools, transport services and courts of law. The Gandhi-led Indian National Congress often resorted to such civil disobedience protests in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati word hartal to describe the mass protests resulting in stoppages of work and shutting down of business activity.
+
+The term hartal was first introduced to Sri Lanka known formerly as Ceylon by organisations and trade unions representing the plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “hartal” shutdown.
+
+...
+
+[Data](articles/7846355b.json)
+
+---
+
+### Harsha’s strategy for financing long-term credit for SMEs: Is it viable?
+
+*2025-08-22 05:06:31* · [`dailyftlk`](https://www.ft.lk/columns/Harsha-s-strategy-for-financing-long-term-credit-for-SMEs-Is-it-viable/4-780619) · `en`
+
+At a recent SME forum, Dr. Harsha de Silva proposed an approach to support Sri Lanka’s small and medium enterprises (SMEs) by creating a dedicated long-term credit facility by tapping into domestic provident funds. He underscored a critical challenge facing Sri Lanka’s financial sector: the collapse of the traditional development banking model following the country’s transition to middle-income status.
+
+...
+
+[Data](articles/9f3110ee.json)
+
+---
+
+### George Steuart turning 190: A phenomenal landmark
+
+*2025-08-22 05:03:50* · [`dailyftlk`](https://www.ft.lk/columns/George-Steuart-turning-190-A-phenomenal-landmark/4-780618) · `en`
+
+The grand old firm George Steuart has moved into the 190 ’s and is standing tall notwithstanding recent reversals as COVID and the country’s bankruptcy.
+
+Few if any in the world will match that and I bow to the current Chairman and Board.
+
+When James Steuart, the Founder, a man of impeccable integrity, bequeathed his prime ten-acre property in 1870 to the Bishop of Colombo, he made it conditional that the proceeds from their sales should go to propagating his religious faith and to alleviate the suffering of people through a program of public welfare. Today, the Cinnamon Grand, St. Thomas Prep, Scotts Kirk Church are among the very prestigious building’s standing on it.
+
+That benevolent gesture and his integrity became the foundation and philosophy of George Steuart in the ensuing years and invoked their share of blessings.
+
+...
+
+[Data](articles/76a80c72.json)
+
+---
 
 ### Social protection: Not an option but a necessity in Asia and the Pacific
 
@@ -1771,65 +1817,5 @@ Lands in export zones closer to Colombo like Mirigama, Biyagama, Katunayake, Kog
 ...
 
 [Data](articles/d1b45003.json)
-
----
-
-### ඝාතනයකට වරදකරු වූ ත්‍රිවිල් රියදුරෙකුට මරණ දණ්ඩනය
-
-*2025-08-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213613) · `si`
-
-බහින් බස්වීමකින් අනතුරුව පුද්ගලයෙකුට තියුණු ආයුධකින් ඇන මරා දැමීමේ චෝදනාවකට වරදකරු කෙරුණු 43 හැවිරිදි ත්‍රිරෝද රථ රියදුරෙකුට කොළඹ මහාධිකරණය අද (21) මරණීය දණ්ඩනය නියම කළේය.
-
-කොළඹ මහාධිකරණ විනිසුරු මහේෂ් වීරමන් මහතා විසින් මෙම තීන්දුව ලබාදුන්නේය.
-
-2010 වසරේ මාර්තු මස 02 වනදා කැලණිය ප්‍රදේශයේදී රෝයි පීරිස් නැමැත්තෙකුට ආයුධකින් ඇන මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු කෙරුණු පුද්ගලයෙකුට මෙසේ දඬුවම් නියම වුණි.
-
-දීර්ඝ නඩු විභාගයකින් අනතුරුව තීන්දුව ප්‍රකාශයට පත්කළ කොළඹ මහාධිකරණ විනිසුරු මහේෂ් වීරමන් මහතා විත්තිකරුට එරෙහිව පැමිණිල්ල විසින් එල්ල කර තිබෙන චෝදනා සාධාරණ සැකයෙන් ඔබ්බට සනාථ කර තිබෙන බව සඳහන් කළේය.
-
-ඒ අනුව මෙම දඬුවම් නියම කරන බවත් විනිසුරුවරයා සිය තීන්දුවේ සඳහන් කළේය.
-
-◼️
-
-[Data](articles/01f43c03.json)
-
----
-
-### Public views sought on SriLankan Airlines, Airport and Aviation Services
-
-*2025-08-21 13:19:00* · [`economynextcom`](https://economynext.com/public-views-sought-on-srilankan-airlines-airport-and-aviation-services-237691/) · `en`
-
-ECONOMYNEXT – A presidential investigation committee has called for public complaints, views and proposals on irregularities at Airport and Aviation Services (Sri Lanka) (Private) Limited and SriLankan Airlines.
-
-“The Committee seeks submissions from employees, staff members and the general public concerning issues related to both institutions,” the president’s media division said.
-
-Individuals and organizations can forward their complaints, views or proposals on or before September 5, via email to psicairport@gmail.com or by WhatsApp to 070 3307700.
-
-“Appointments for discussions will then be scheduled with the Committee.”
-
-The Presidential Special Investigation Committee was established to probe fraud, corruption and malpractices at Airport and Aviation Services and SriLankan Airlines. (Colombo/Aug21/2025)
-
-◼️
-
-[Data](articles/50b4852b.json)
-
----
-
-### ரணிலுக்கு அழைப்பாணை
-
-*2025-08-21 13:18:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-அழைப்பாணை/175-363217) · `ta`
-
-அரசாங்கப் பணத்தில் நிதியளிக்கப்பட்டதாகக் கூறப்படும் வெளிநாட்டுப் பயணம் தொடர்பான விசாரணை தொடர்பாக, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை நாளை வெள்ளிக்கிழமை குற்றப் புலனாய்வுத் திணைக்களத்தின் (CID) முன் ஆஜராகுமாறு அழைப்பாணை அனுப்பப்பட்டுள்ளது.
-
-இந்த விசாரணை, விக்ரமசிங்கவின் நியூயோர்க்கிற்கும் பின்னர் லண்டனில் நடந்த பல்கலைக்கழக பட்டமளிப்பு விழாவில் கலந்து கொண்ட ஐக்கிய இராச்சியத்திற்கும் சென்றது குறித்து கவனம் செலுத்துகிறது.
-
-லண்டன் பயணத்தின் ஒரு பகுதி தனிப்பட்ட காரணங்களுக்காக இருந்தது, ஆனால் தேசிய நிதியிலிருந்து நிதியளிக்கப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-10 பேர் கொண்ட குழுவை உள்ளடக்கிய இந்தப் பயணத்திற்காக அரசாங்கத்திற்கு சுமார் ரூ.16.9 மில்லியன் செலவானதாக CID மதிப்பிடுகிறது.
-
-விசாரணையின் ஒரு பகுதியாக, முன்னாள் ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்க மற்றும் முன்னாள் தனியார் செயலாளர் சாண்ட்ரா பெரேரா ஆகியோரிடம் புலனாய்வாளர்கள் ஏற்கனவே விசாரணை நடத்தியுள்ளனர்.
-
-...
-
-[Data](articles/69cd66a5.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 22:22:50**
+As of **2025-08-22 22:49:10**
 
 ## Newspaper Stats
 
-*Scraped **71,810** Articles*
+*Scraped **71,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,35 +12,55 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
-economynextcom | 4,388
+economynextcom | 4,399
 islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
-adalk | 6,907
+adalk | 6,908
 adaderanalk | 9,061
 tamilmirrorlk | 10,599
 virakesarilk | 11,853
-adaderanasinhalalk | 12,419
+adaderanasinhalalk | 12,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,810 articles have been extended.
+61,973 (86.3%) of 71,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
 
+### කොටුව අධිකරණ පරිශ්‍රය අසල උණුසුම් තත්ත්වයක්
+
+*2025-08-22 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213678) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කිරීමටත් සමග මේ වන විට කොළඹ අධිකරණය අසළ උණුසුම් වාතාවරණයක් හටගෙන තිබේ.
+
+ඒ එක්සත් ජාතික පක්ෂ ආධාරකරුවන් සහ රනිල් වික්‍රමසිංහ මහතාට හිතවත් පාක්ෂිකයින් රැසක් අධිකරණ පරිශ්‍රය අසලට එක් වීමත් සමගය.
+
+◼️
+
+[Data](articles/88a648e0.json)
+
+---
+
 ### ரணிலுக்கு விளக்கமறியல்
 
 *2025-08-22 22:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-விளக்கமறியல்/175-363309) · `ta`
 
-குற்றப் புலனாய்வுத் துறையினரால் (CID) இன்று கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கோட்டை நீதவான் நீதிமன்றம் விளக்கமறியலில் வைத்துள்ளது.
+குற்றப் புலனாய்வுத் திணைக்களத்தினரால் (CID) இன்று கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கோட்டை நீதவான் நீதிமன்றம் விளக்கமறியலில் வைத்துள்ளது.
 
 இன்று நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர், விக்ரமசிங்க ஆகஸ்ட் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
 
-◼️
+வெளிநாட்டுப் பயணம் தொடர்பாக வாக்குமூலம் பதிவு செய்த பின்னர், இன்று காலை குற்றப் புலனாய்வுத் திணைக்களத்தினரால் கைது செய்யப்பட்ட பின்னர், இலங்கையில் கைது செய்யப்பட்ட முதல் முன்னாள் அரச தலைவர் ரணில் விக்ரமசிங்கே ஆவார்.
+
+லண்டனுக்கு மேற்கொண்ட வெளிநாட்டுப் பயணம் தொடர்பான விசாரணைக்காக அவர் சிஐடி முன் அழைக்கப்பட்டார். இந்தப் பயணத்தில் தனியார் நிகழ்வுகள் இடம்பெற்றதாகவும், ஆனால் அரசு நிதியில் இருந்து நிதியளிக்கப்பட்டதாகவும் புலனாய்வாளர்கள் கூறுகின்றனர்.
+
+ரணில் விக்கிரமசிங்க ஜனாதிபதியாக இருந்தபோது, ​​2023 ஆம் ஆண்டின் பிற்பகுதியில் ஐக்கிய இராச்சியத்திற்கு விஜயம் செய்தபோது, ​​அரசு நிதியை முறைகேடாகப் பயன்படுத்தியதாகக் குற்றம் சாட்டப்பட்டுள்ளது.
+
+...
 
 [Data](articles/f72d3009.json)
 
@@ -63,6 +83,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/307d9d71.json)
+
+---
+
+### හිටපු ජනපති රනිල් රිමාන්ඩ්
+
+*2025-08-22 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213677) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+මෙහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් මහතා අධිකරණය හමුවේ කරමින් මෙම සැකකරුට එරෙහිව පොදු දේපොළ පනත යටතේ කරුණු ඉදිරිපත් කරන බව සඳහන් කළේය.
+
+විමර්ශන කටයුතු අවසන් නොමැති නිසා සැකකරු රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් ඔහු ඉල්ලා සිටියේය.
+
+සැකකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ අනූජ ප්‍රේමරත්න මහතා අධිකරණයේ කරුණු දක්වමින් සැකකරු ඇප මත මුදාහරින ලෙසත් ඉල්ලා සිටියේය.
+
+ඉන් අනතුරුව කරුණු සලකා බැලූ කොළඹ මහෙස්ත්‍රාත් නිලුපුලි ලංකාපුර මෙනවිය සැකකරුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් සැකකරු එළැඹෙන 26 දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළාය.
+
+◼️
+
+[Data](articles/2b3acbfb.json)
+
+---
+
+### Sri Lanka ex-President Ranil Wickremesinghe remanded
+
+*2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-237900/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested following a questioning, court reporters said.
+
+Shortly after the verdict was announced, crowds gathered outside the courthouse were heard shouting and hooting.
+
+Wickremesinghe was arrested over alleged misappropriation of funds during a foreign visit while he was president.
+
+Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
+
+Days later parliament elected him as the 8th Executive President of the country, during the worst economic crisis of its post-independence history.
+
+He is credited for steering the island nation towards recovery.
+
+He served until Anura Disanayake was elected president on September 21, 2024. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/f30e5366.json)
 
 ---
 
@@ -101,6 +165,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/66a339ee.json)
+
+---
+
+### කොළඹ වරායේ නැව් තෙල් වෙළදාමට අවශ්‍ය පහසුකම් පුළුල් කෙරේ
+
+*2025-08-22 21:40:28* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරායේ-නැව්-තෙල්-වෙළදාමට-අවශ්‍ය-පහසුකම්-පුළුල්-කෙරේ/11-418021) · `si`
+
+කොළඹ වරායේ නැව් තෙල් වෙළදාමට අවශ්‍ය නළ පද්ධති හා තෙල් නැව්ගත කිරීමේ පහසුකම් සීමිත වීම නිසා තෙල් වෙළදාමට ඇතිව තිබූ බාධාකාරී තත්වය ඉවත් කිරීම පිණිස නව රජය විසින් කළ විශේෂ සැළසුමක පළමු අදියර ලෙස ඛණිජ තෙල් තොග පර්යන්ත සමාගම විසින් කොළඹ වරාය දකුණු ජැටියේ සංවර්ධනය කරන ලද නව නල පද්ධතිය හා තෙල් නැව්ගත කිරීමේ පහසුකම ඔස්සේ ඛණිජ තෙල් සංස්ථාව විසින් මෙරට නැව් තෙල් වෙළදාමේ යෙදෙන පුද්ගලික සමාගමක් හරහා නැව් තෙල් ලබාදීම ප්‍රථම වරට අද (22) සිදු කෙරුණි.
+
+මෙම අවස්ථාවට එක්වූ බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා අදහස් දක්වමින් පැවැසුවේ,
+
+“මෙතෙක් කොළඹ වරායේ නැව් තෙල් සැපයීම කෙරුණේ ඩොල්පින් ජැටිය මාර්ගයෙන් විතරයි. ඒත් රටට තෙල් ගොඩබෑම් කටයුතුත් සිදු වුණේ එම ජැටියෙන් වීම නිසාම නැව් තෙල් සැපයුමට බාධා සිදු වුණා. ඒක නැව් තෙල් වෙළදාමට තිබුණු ලොකු බාධාවක්. අපි මේ තත්වය හදුනාගෙන වරායේ දකුණු ජැටිය හරහා නැව් තෙල් සපයන්න අතුරු නළ මාර්ගයක් හදලා පහසුකම් වැඩි දියුණු කලා.
+
+...
+
+[Data](articles/b084d06f.json)
 
 ---
 
@@ -386,6 +466,28 @@ TV දෙරණ, ශ්‍රී ලංකා සංචාරක ප්‍රව
 
 ---
 
+### Wickremesinghe revived Sri Lanka’s economy: former minister
+
+*2025-08-22 19:13:00* · [`economynextcom`](https://economynext.com/wickremesinghe-revived-sri-lankas-economy-former-minister-237932/) · `en`
+
+ECONOMYNEXT – Ex-President Ranil Wickremesinghe’s leadership revived Sri Lanka’s economy, former state minister of finance Shehan Semasinghe has said.
+
+“Without his guidance & leadership, overcoming the economic crisis would not have been possible,” Semasinghe said on X.
+
+“More importantly, essential structural and economic reforms were implemented, and the most challenging debt restructuring was successfully completed, firmly placing the country on a path toward a stronger and more stable economy for the betterment of people of Sri Lanka.”
+
+Wickremesinghe is at a bail hearing at Colombo Fort Magistrate’s Court, after being arrested following a questioning.
+
+The arrest was over an alleged misappropriation of funds during a foreign visit while he was president.
+
+Wickremesinghe became president during the worst economic crisis of Sri Lanka’s post-independence history. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/e3dcdb49.json)
+
+---
+
 ### ரணிலுக்கு மாலைதீவின் முன்னாள் ஜனாதிபதி ஆதரவு
 
 *2025-08-22 19:09:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-மாலைதீவின்-முன்னாள்-ஜனாதிபதி-ஆதரவு/175-363302) · `ta`
@@ -500,6 +602,32 @@ The former minister explained that normally, when statements are recorded by the
 
 ---
 
+### Blackout at Sri Lanka court during ex-President’s bail hearing
+
+*2025-08-22 18:41:00* · [`economynextcom`](https://economynext.com/blackout-at-sri-lanka-court-during-ex-presidents-bail-hearing-237928/) · `en`
+
+ECONOMYNEXT – A blackout occurred at the Colombo Fort Magistrate’s Court during the bail hearing of ex-President Ranil Wickremesinghe, a court reporter said.
+
+Wickremesinghe was brought to court after being arrested in the afternoon following a questioning.
+
+The bail hearing went on for hours with the court eventually taking a 30 minute recess.
+
+Lights then went out plunging the premises packed with officials, media and supporters into darkness.
+
+Wickremesinghe was asked earlier in the proceedings to step into the suspect’s cage, eliciting a loud gasp from people gathered outside.
+
+His arrest was over misappropriation of funds during a foreign visit while he was president, police sources said.
+
+Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
+
+Days later parliament elected him as the 8th Executive President of the country, during the worst economic crisis of its post-independence history.
+
+...
+
+[Data](articles/b50e8633.json)
+
+---
+
 ### ரணில் ஆஜராகியிக்கும் நீதிமன்றத்தில் மின்வெட்டு ?
 
 *2025-08-22 18:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஆஜராகியிக்கும்-நீதிமன்றத்தில்-மின்வெட்டு/175-363299) · `ta`
@@ -585,6 +713,22 @@ The Magistrate then announced that the order on the bail application will be adj
 ◼️
 
 [Data](articles/96dfa356.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-08-22 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-237917/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.95/302.05 to the US dollar in the spot market Friday, weaker from 301.85/302.00 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2029 closed at 9.42/45 percent, down from 9.43/47 percent.
+
+A bond maturing on 15.12.2032 closed at 10.25/31 percent, down from 10.25/33 percent. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/4e1266c9.json)
 
 ---
 
@@ -775,6 +919,30 @@ When the National People’s Power took over the country’s rule, Sri Lanka was
 ...
 
 [Data](articles/ba9b0544.json)
+
+---
+
+### Sri Lanka stocks dip 0.32-pct, weighted down by capital goods, financials
+
+*2025-08-22 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-0-32-pct-weighted-down-by-capital-goods-financials-237887/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) fell 0.32 percent, data on its site showed.
+
+The ASPI fell 66.29 points on Friday to close at 20,649.20; while the S&P SL20 index dipped 0.21 percent, or 12.86 points, to close at 6,095.63.
+
+The ASPI was weighted down by Ceylinco Holdings which ended 178.50 rupees down at 3,021; Commercial Bank which ended 2.25 rupees weaker at 195.25; DFCC Bank which ended 3.50 rupees up at 162.25; Carson Cumberbatch which moved 39 rupees down to 800.25; and Melstacorp which closed 1.75 rupees lower at 162.25.
+
+Turnover fell to 5.1 billion, while the share volume was 181,232,722.
+
+Elsewhere, the Pakistan Stock Exchange’s KSE 100 Index was trading 0.53 percent stronger at 150,019.23.
+
+India’s Nifty 50 fell 0.85 percent to 24,870.10, while the BSE Sensex was 0.85 percent up at 81,306.85.
+
+Meanwhile, Tokyo’s Nikkei 225 index ended slightly higher on financials, Japan’s The Mainichi newspaper said.
+
+...
+
+[Data](articles/2943fe08.json)
 
 ---
 
@@ -1056,6 +1224,30 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 
 ---
 
+### Sri Lanka ex-President arrives in court
+
+*2025-08-22 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-arrives-in-court-237863/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was brought to the Colombo Fort Magistrate’s Court, after being arrested following a questioning, court reporters said.
+
+He was asked to get into the suspect’s cage, eliciting a loud gasp from people gathered outside.
+
+The arrest was over misappropriation of funds during a foreign visit while he was president, police sources said.
+
+Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
+
+Days later parliament elected him as the 8th Executive President of the country, during the worst economic crisis of its post-independence history.
+
+He is credited for steering the island nation towards recovery.
+
+He served until Anura Disanayake was elected president on September 21, 2024. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/923e0755.json)
+
+---
+
 ### හිටපු ජනපති රනිල්ව අධිකරණයට රැගෙන එයි
 
 *2025-08-22 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213658) · `si`
@@ -1245,6 +1437,48 @@ Statements were subsequently recorded from Sandra Perera, who served as the form
 ◼️
 
 [Data](articles/7cd98d4f.json)
+
+---
+
+### Ex-Sri Lanka president arrested for misappropriation allegation
+
+*2025-08-22 13:56:00* · [`economynextcom`](https://economynext.com/ex-sri-lanka-president-arrested-for-misappropriation-allegation-237824/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former president Ranil Wickremesinghe was arrested by police following a brief questioning over misappropriation of funds during a foreign visit while he was the president, police sources said.
+
+Wickremesinghe is widely hailed for his leadership during Sri Lanka’s unprecedented economic crisis and steered the island nation towards recovery path.
+
+Sources close to the government had predicted Wickremesinghe will be arrested for 14 days on Friday (22) when he visits police Criminal Investigation Department (CID).  (Colombo/August 22/2023)
+
+◼️
+
+[Data](articles/fb25cfda.json)
+
+---
+
+### Sri Lanka ex-President Ranil Wickremesinghe arrested
+
+*2025-08-22 13:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-arrested-237820/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe has been arrested by police over allegations of mis-using state property, reports said.
+
+He was arrested by the police criminal investigation department after he came to give a statement upon being summoned.
+
+The investigation related to a private visit to London to attend a graduation ceremony connected to his wife Maithree Wickramasinghe, last year.
+
+He is to be shortly presented before Colombo Fort Magistrate, sources said.
+
+Wickremesinghe became president during the worst economic crisis of post-independent Sri Lanka.
+
+He became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
+
+Days later parliament elected him as the 8th Executive President of the country.
+
+He served until Anura Disanayake was elected president on September 21, 2024. (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/a3ce0b1e.json)
 
 ---
 
@@ -1527,189 +1761,5 @@ Hamas has said it would release captives in exchange for ending the war, but rej
 ◼️
 
 [Data](articles/45fe5ea0.json)
-
----
-
-### நடிகர் போல நடித்து இளம் பெண்கள் வன்புணர்வு
-
-*2025-08-22 12:20:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-போல-நடித்து-இளம்-பெண்கள்-வன்புணர்வு/175-363273) · `ta`
-
-மூத்த திரைப்பட இயக்குனர் சோமரத்ன திசாநாயக்கவைப் போல நடித்து இளம் பெண்களை பாலியல் ரீதியாக துன்புறுத்தி, அவர்களிடம் இருந்து பணத்தை மோசடி செய்ததாக கூறப்படும் வழக்கில் விளக்கமறியலில் வைக்கப்பட்டிருந்த பொல்கஹவெல தபால் ஊழியரை பிணையில் விடுவிக்க கொழும்பு பிரதான நீதவான் தனுஜா லக்மாலி ஜெயதுங்க, வியாழக்கிழமை (21) உத்தரவிட்டார்.
-
-சந்தேக நபரான இசுரு மதுமல் கருணாதாசவை ஒரு மில்லியன் ரூபாய் சொந்த பிணையில் விடுவிக்க உத்தரவிட்டார்.
-
-சோமரத்ன திசாநாயக்கவைப் போல நடித்து தொடர்புடைய குற்றங்களை ஒப்புக்கொள்ள அவர் தயாராக இருப்பதாகவும், சோமரத்ன திசாநாயக்கவுக்கு ஏற்பட்ட நற்பெயர் மற்றும் அவமானத்திற்காக மன்னிப்பு கேட்க அவர் தயாராக இருப்பதாகவும், பொது ஊடகங்கள் மூலம் மன்னிப்பு கேட்க அவர் எதிர்பார்க்கிறார் என்றும் நீதிமன்றத்தில் முன்வைக்கப்பட்ட கருத்துக்களை கருத்தில் கொண்டு, பிணையில் விடுவிக்க நீதிவான்உத்தரவிட்டார்.
-
-...
-
-[Data](articles/2d0ca49d.json)
-
----
-
-### Ex-Minister Akila Viraj arrives at Bribery Commission
-
-*2025-08-22 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111738/ex-minister-akila-viraj-arrives-at-bribery-commission) · `en`
-
-Former Minister Akila Viraj Kariyawasam has arrived at the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) this morning (22) to provide a statement.
-
-This relates to an investigation into an incident where employees of the State Engineering Corporation of Sri Lanka were reportedly used to carry out renovations at the ‘Sirikotha’ headquarters of the United National Party (UNP), said Ada Derana reporter.
-
-◼️
-
-[Data](articles/2bc7ebb8.json)
-
----
-
-### යුද්ධය අවසන් කරන්න නෙතන්යාහු සුදානමින්
-
-*2025-08-22 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213651) · `si`
-
-හමාස් භාරයේ සිටින ප්‍රාණ ඇපකරුවන් නිදහස්කර ගැනීමට සහ වසර දෙකකට ආසන්න කාලයක් පවතින යුද්ධය අවසන් කිරීම සඳහා වන සාකච්ඡාවලට ඉක්මනින් එළැඹීමට අපේක්ෂා කරන බව ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු පවසයි.
-
-ඊයේ (21) ඊශ්‍රායල -ගාසා දේශසීමාව ආසන්නයේදී ගාසා තීරය තුළ සේවය කරන ඊශ්‍රායල සෙබළුන් මුණගැසී ඔහු මේ බව ප්‍රකාශ කර තිබේ.
-
-එමෙන්ම ගාසා නගරය අත්පත් කරගැනීම සඳහා ඊශ්‍රායල ආරක්ෂක හමුදා ඉදිරිපත් කළ සැලසුම් අනුමත කිරීමට ද කටයුතු කරන බව ඔහු පවසා සිටියේය.
-
-◼️
-
-[Data](articles/9df706e6.json)
-
----
-
-### அகில விராஜிடம் விசாரணை
-
-*2025-08-22 12:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகில-விராஜ்-காரியவசத்திடம்-விசாரணை/175-363272) · `ta`
-
-முன்னாள் அமைச்சர் அகில விராஜ் காரியவசம், வாக்குமூலம் ஒன்றை வழங்குவதற்காக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவில் முன்னிலையாகியுள்ளார். R
-
-◼️
-
-[Data](articles/a2d19018.json)
-
----
-
-### அகில விராஜிடம் விசாரணை
-
-*2025-08-22 12:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகில-விராஜிடம்-விசாரணை/175-363272) · `ta`
-
-முன்னாள் அமைச்சர் அகில விராஜ் காரியவசம், வாக்குமூலம் ஒன்றை வழங்குவதற்காக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவில் முன்னிலையாகியுள்ளார். R
-
-◼️
-
-[Data](articles/e3cd079e.json)
-
----
-
-### மஸ்கெலியாவில் துப்பாக்கி மீட்பு
-
-*2025-08-22 12:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஸ்கெலியாவில்-துப்பாக்கி-மீட்பு/76-363271) · `ta`
-
-மஸ்கெலியா பொலிஸ் பிரிவின் சாமிமலை, மீரியகோட்டேயில் உள்ள ஒரு காய்கறித் தோட்டத்தில், உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும் இரண்டு SG வகை தோட்டாக்களுடன் சந்தேகத்தின் பேரில் ஒருவர்  வியாழக்கிழமை (21) கைது செய்யப்பட்டதாக மஸ்கெலியா பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் இங்கிரிய பகுதியைச் சேர்ந்தவர், மேலும் அவர் மீரியகோட்டே பகுதியில் சுமார் 02 ஏக்கர் நிலத்தில் தற்காலிகமாக வசித்து வருகிறார், மேலும் அவர் காய்கறிகளை பயிரிட்டு வருகிறார், மேலும் அந்தத் தோட்டத்தில் உள்ள தோட்டத்தில் இருந்து துப்பாக்கி மற்றும் தோட்டாக்கள் கைப்பற்றப்பட்டதாக மஸ்கெலியா பொலிஸார் தெரிவித்தனர்,
-
-சம்பவம் குறித்து மேலும் விசாரணைகள் நடைபெற்று வருவதாகவும் சந்தேகநபரை ஹட்டன் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/9b90188e.json)
-
----
-
-### கொலம்பியாவில் ஆயுதமேந்திய புரட்சிப் படை நடத்திய இரண்டு தாக்குதல்களில் 18 பேர் உயிரிழப்பு
-
-*2025-08-22 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223089) · `ta`
-
-கொலம்பியாவின் ஆயுதமேந்திய புரட்சிப் படை வியாழக்கிழமை (21) நடத்திய இரண்டு தாக்குதல்களில் சுமார் 18 பேர் கொல்லப்பட்டுள்ளதோடு, பலர் காயமடைந்துள்ளனர்.
-
-கொலம்பியாவில் அதிக  சனத்தொகை கொண்ட மூன்றாவது நகரமான காலியில், இராணுவ விமான பயிற்சி  முகாமுக்கு அருகே  வெடிப்பொருட்கள் நிரப்பப்பட்ட வாகனம் வெடித்தது. அதில் ஆறு பேர் கொல்லப்பட்டுள்ளதோடு 71 பேர் காயமடைந்தனர்.
-
-இந்த சம்பவம் இடம்பெற்று சில மணி நேரங்களுக்கு முன்பு, கோகோ இலை பயிர் ஒழிப்பு நடவடிக்கையில் ஈடுப்பட்ட தேசிய பொலிஸ் பிளாக் ஹாக் ஹெலிகொப்டர், ஆன்டியோகுவியா துறையில் உள்ள அமல்ஃபி நகராட்சியில் ட்ரோன் மூலம் சுட்டு வீழ்த்தப்பட்டதில் 12 பொலிஸ் அதிகாரிகள் கொல்லப்பட்டனர்.
-
-இந்த தாக்குதலுக்கு 450,000 க்கும் அதிகமானோர் கொல்லப்பட்ட நீண்டகால உள்நாட்டு மோதலை முடிவுக்குக் கொண்டுவருவதற்கான 2016 அமைதி ஒப்பந்தத்தை நிராகரித்த ஆயுதமேந்திய புரட்சிப் படை தான் காரணம் என கொலம்பிய ஜனாதிபதி குஸ்டாவோ பெட்ரோ குற்றம்சாட்டியுள்ளார்.
-
-◼️
-
-[Data](articles/a66318b7.json)
-
----
-
-### அமெரிக்கருக்கு யூரல் பைக்கை   பரிசளித்த புட்டின்
-
-*2025-08-22 12:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கருக்கு-யூரல்-பைக்கை-பரிசளித்த-புட்டின்/50-363270) · `ta`
-
-அமெரிக்​கா​வின் அலாஸ்கா மாகாணம், ரஷ்ய எல்​லை​யில் இருந்து 80 கி.மீ. தொலை​வில் உள்​ளது.
-
-ஒரு காலத்​தில் இந்த மாகாணம் ரஷ்​யா​வின் ஒருங்​கிணைந்த பகு​தி​யாக இருந்​தது. கடந்த 1867-ம் ஆண்​டில் ரஷ்​யா​வில் ஜார் மன்​னர் ஆட்சி நடை​பெற்​ற​போது அலாஸ்கா பகுதி அமெரிக்​கா​வுக்கு ரூ.45 கோடிக்கு விற்​பனை செய்​யப்​பட்​டது. இன்​றள​வும் அலாஸ்கா முழு​வதும் ரஷ்ய கலாச்​சா​ரம் நிறைந்​திருக்​கிறது.
-
-கடந்த 15-ம் திகதி அமெரிக்க ஜனாதிபதி டொனால்டு ட்ரம்​பும், ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினும் அலாஸ்கா மாகாணம், ஆங்​கரேஜ் இராணுவ தளத்​தில் சந்​தித்​துப் பேசினர். அப்​போது ரஷ்ய ஜனாதிபதி புட்டின், அமெரிக்​கா​வின் அலாஸ்​காவை சேர்ந்த மார்க் வாரனுக்கு ரூ.19 லட்​சம் மதிப்​புள்ள யூரல் பைக்கை பரி​சாக வழங்​கி​னார்.
-
-இதுகுறித்து மார்க் வாரன் கூறிய​தாவது: அமெரிக்​கா​வின் அலாஸ்கா மாகாண தீயணைப்பு படை​யில் பணி​யாற்றி ஓய்வு பெற்​றேன். ரஷ்ய தயாரிப்​பான யூரல் பைக்​கின் தீவிர ரசிக​னான நான், பழைய யூரல் பைக்கை வாங்கி ஓட்டி வந்​தேன்.
-
-...
-
-[Data](articles/30ee4b7a.json)
-
----
-
-### වසර 33කට පසු මැකේ ක්‍රීඩාංගණයට ජාත්‍යන්තර ක්‍රිකට්
-
-*2025-08-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213650) · `si`
-
-සංචාරක දකුණු අප්‍රිකාව හා ඔස්ට්‍රේලියාව අතර දෙවන එක්දින ක්‍රිකට් තරගය මැකේ ක්‍රීඩාංගණයේ දී අද (22) ආරම්භ විය.
-
-මෙම ක්‍රීඩාංගණයේ ජාත්‍යන්තර පිරිමි ක්‍රිකට් තරගයක් පැවැත්වෙන දෙවන අවස්ථාව මෙය වන අතර, සත්කාරක ඔස්ට්‍රේලියාව එහි ක්‍රීඩාකරන පළමු අවස්ථාව මෙයයි.
-
-මැකේ ක්‍රීඩාංගණය ජාත්‍යන්තරය සඳහා විවෘත වූයේ 1992 පැවති එක්දින ලෝක කුසලානයේදීය.
-
-ශ්‍රී ලංකාව හා ඉන්දියාව අතර එම තරගය පැවති අතර, වසර 33ක් පුරා එතෙක් මෙතෙක් එම ක්‍රීඩාංගණයේ ක්‍රීඩාකළ එකම ජාත්‍යන්තර පිරිමි ක්‍රිකට් තරගය එය විය.
-
-කෙසේ වෙතත් වර්ෂාව හේතුවෙන් එම තරගයද පන්දු 2ක් පමණක් ක්‍රීඩාකර අතහැර දැමීමට සිදුව ඇත.
-
-1968 වසරේ දී ස්ථාපිත කළ මැකේ ක්‍රීඩාංගණයේ ප්‍රේක්ෂකයන් 10,000කට එකවර අසුන්ගත හැකිය.
-
-◼️
-
-[Data](articles/77ee80a2.json)
-
----
-
-### மீன்பிடிக்கச் சென்ற இளைஞர் நீரில் மூழ்கி பலி
-
-*2025-08-22 11:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடிக்கச்-சென்ற-இளைஞர்-நீரில்-மூழ்கி-பலி/175-363269) · `ta`
-
-திருகோணமலை குச்சவெளி பொலிஸ் பிரிவுக்குட்பட்ட இறக்கக் கண்டி கடல் பகுதியில் மீன் பிடிக்க சென்ற இளைஞன் ஒருவர் நீரில் மூழ்கி பலியானதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-குறித்த சம்பவம் வியாழக்கிழமை (21) இடம் பெற்றுள்ளது. இவ்வாறு உயிரிழந்தவர் இறக்ககக் கண்டி வாழை ஊத்து பகுதியை சேர்ந்த என்.அப்சான் வயது (22) என்றும் தெரியவருகிறது.
-
-பிரேத பரிசோதனையின் பின் உறவினர்களிடம் சடலம் ஒப்படைக்கப்பட உள்ளதாக தெரிவிக்கப்படுகிறது. சம்பவம் தொடர்பான மேலதிக விசாரணைகளை குச்சவெளி பொலிஸார் முன்னெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/262ece82.json)
-
----
-
-### யாழ்., பல்கலைக்கழக  மாணவர்களின் 10 ஆவணப்படங்கள் இன்று திரையிடப்படும்
-
-*2025-08-22 11:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழக-மாணவர்களின்-10-ஆவணப்படங்கள்-இன்று-திரையிடப்படும்/175-363268) · `ta`
-
-யாழ்ப்பாணப் பல்கலைக்கழக ஊடகக் கற்கைகள் துறை மாணவர்களால் தயாரிக்கப்பட்ட ஆவணப்படங்கள்  வெள்ளிக்கிழமை பிற்பகல் 2.30 மணிக்கு பல்கலைக்கழக நூலகக் கேட்போர்கூடத்தில் திரையிடப்படவுள்ளன.
-
-மலையகத்தில் ஹட்டன் பிரதேசத்தில் களிமண்ணால் மேற்கொள்ளப்படும் ஆபரணக் கைத்தொழில் தொடர்பான ‘ரெரகொட்டா ஜீவல்ஸ்’,
-
-முல்லைத்தீவு குமுளமுனை கிராமத்தில் இராணுவத்தால் படுகொலை செய்யப்பட்ட ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்களின் கதையான ‘கொலைக்களம்’,
-
-மட்டக்களப்பு - கல்லடி பிரதேச பறங்கியர் சமூக மக்களின் வாழ்வியல் பற்றிய ‘படிமம்’,
-
-மஸ்கெலியா பிரதேசசபைக்கு உட்பட்ட கிராமங்களில் தோட்ட உட்கட்டமைப்பு அமைச்சின் மூலம் முன்னெடுக்கப்பட்ட வீட்டுத் திட்டங்களில் மக்கள் எதிர்நோக்கும் சவால்களை விபரிக்கும் ‘லயத்துக்குயில்’,
-
-யுத்தத்தில் உடல் அங்கங்களை இழந்து சிரமத்தின் மத்தியில் அன்றாட வாழ்க்கையை வாழும் கேப்பாப்பிலவு கிராம மக்களின் பதிவான ‘ரணம்’,
-
-மயானங்களில் அவை சார்ந்து சேவை வழங்கும் சாதாரண மனிதர்களின் அன்றாட வாழ்வியல் சிக்கல்களைப் பதிவு செய்யும் ‘அறியாப்பாதை’
-
-◼️
-
-[Data](articles/33ff76e3.json)
 
 ---

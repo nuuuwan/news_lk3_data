@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 00:24:52**
+As of **2025-08-23 00:35:38**
 
 ## Newspaper Stats
 
-*Scraped **71,843** Articles*
+*Scraped **71,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 731
 economynextcom | 4,399
 islandlk | 4,413
 dailymirrorlk | 4,733
-dailyftlk | 5,070
+dailyftlk | 5,071
 adalk | 6,908
 adaderanalk | 9,064
 tamilmirrorlk | 10,601
@@ -26,9 +26,25 @@ adaderanasinhalalk | 12,423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,843 articles have been extended.
+61,973 (86.3%) of 71,844 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-23 (Saturday)
+
+### The show must not go on, Sri Lanka
+
+*2025-08-23 00:18:52* · [`dailyftlk`](https://www.ft.lk/columns/The-show-must-not-go-on-Sri-Lanka/4-780660) · `en`
+
+On the ground level, where real life trumps dreams and the carnival-like atmosphere of the socio-political circus – things are still hard for the kos polos type of voter
+
+Some days are better by far than others. There you go again then, blithe spirit, blissfully humming that the lark’s on the wing, the snail’s on the thorn, God is in heaven, all’s right with the world. And to the other place beginning with the same letter as heaven with the likes of Sunil H to whom life is nothing but one big question mark...
+
+...
+
+[Data](articles/c1d79b59.json)
+
+---
 
 ### 2025-08-22 (Friday)
 
@@ -1721,23 +1737,5 @@ Statements were subsequently recorded from Sandra Perera, who served as the form
 ◼️
 
 [Data](articles/7f1f1eb0.json)
-
----
-
-### තරාතිරම වැදගත් නෑ...නීතිය ඉදිරියේ කවුරුත් පොදුයි -මහජන ආරක්ෂක අමාත්‍ය
-
-*2025-08-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213656) · `si`
-
-වර්තමාන ආණ්ඩුව නීතියේ ආධිපත්‍ය තහවුරු කරමින් සිටින බවත්, තරාතිරම නොබලා නීතිය එක ලෙස ක්‍රියාත්මක වෙන බවත් මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-අද (22) පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමින් අමාත්‍යවරයා ස﻿ඳහන් කර සිටියේ, පොලිස්පති ද ? නියෝජ්‍ය පොලිස්පති ද ? හිටපු ජනාධිපති ද ඊට අදාළ නොවන බවය.
-
-කවුරුන් හෝ වරදක් කර ඇත්නම් නීතිය ඉදිරියට ඔවුන්ව ගෙනඒමට පසුබට නොවන බව ද පැවසු අමාත්‍යවරයා, මේ වනවිට සිදුවෙමින් ඇත්තේ එලෙස වැරදි කරන ලද පිරිස් තරාතිරම නොබලා නීතිය ඉදිරියට ගෙන ඒම බව ද පැවසීය.
-
-ආණ්ඩුව රට භාරගන්නා අවස්ථාවේ ආර්ථික බංකොළොත්භාවයක් පමණක් නොව, සමාජ, දේශපාලනික වශයෙන් රට තුළ බංකොළොත් වී සිටි බවත් සමාජ පරිහානියට ලක්වෙමින් තිබූ රටක් ජාතික ජන බලවේගය භාරගත් බවත් අමාත්‍යවරයා කියා සිටියේය.
-
-...
-
-[Data](articles/21734e98.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 16:32:56**
+As of **2025-08-22 16:48:50**
 
 ## Newspaper Stats
 
-*Scraped **71,761** Articles*
+*Scraped **71,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,904
 adaderanalk | 9,054
-tamilmirrorlk | 10,580
+tamilmirrorlk | 10,581
 virakesarilk | 11,847
-adaderanasinhalalk | 12,405
+adaderanasinhalalk | 12,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,761 articles have been extended.
+61,973 (86.4%) of 71,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### හෙට උණුසුම් වන ප්‍රදේශ ගැන නිවේදනයක්
+
+*2025-08-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213664) · `si`
+
+ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (23) දිනයේද අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අද (22) පස්වරු 3.30ට නිකුත්කරන ලද එම නිවේදනය හෙට දිනය සඳහා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+උතුරු, උතුරු - මැද සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කළ යුතු” මට්ටමක පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේනදය කර තිබේ.
+
+◼️
+
+[Data](articles/c3297ff9.json)
+
+---
+
+### ​ரணில் கைது: ஐ.ம.ச கண்டனம்
+
+*2025-08-22 16:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-ம-ச-கண்டனம்/175-363293) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க குற்றப் புலனாய்வுத் துறை (CID) முன் வாக்குமூலம் அளிக்க வந்தால், அவரை கட்டாயமாக விளக்கமறியலில் வைக்க வேண்டும் என்று பரிந்துரைத்த யூடியூபர் சுதாவின் கூற்றுக்கு ஐக்கிய மக்கள் சக்தி (SJB) உறுப்பினரும் வழக்கறிஞருமான லிஹினி பெர்னாண்டோ கடும் கண்டனம் தெரிவித்துள்ளார்.
+
+பிரபல யூடியூபர் சுதா, விக்கிரமசிங்கவை கைது செய்து, நீதிமன்றத்தில் ஆஜர்படுத்தி, 14 நாட்கள் தடுப்பு காவலில் வைக்க வேண்டும் என்று கூறியிருந்தார், மேலும் அத்தகைய நடவடிக்கை எடுக்கப்படாவிட்டால் அவரது நிகழ்ச்சிகளை நிறுத்துவதாகவும் உறுதியளித்தார். இந்தக் கருத்துக்களை "ஆதாரமற்றது மற்றும் பொறுப்பற்றது" என்று பெர்னாண்டோ விவரித்தார், இது நீதித்துறை மீதான பொதுமக்களின் நம்பிக்கையை குறைமதிப்பிற்கு உட்படுத்துகிறது என்று லிஹினி பெர்னாண்டோ வலியுறுத்தினார்.
+
+...
+
+[Data](articles/ba9b0544.json)
+
+---
+
+### මියන්මාර - ඉන්දියානු දේශසීමාව ආසන්නයේ ප්‍රබල භූකම්පනයක්
+
+*2025-08-22 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213663) · `si`
+
+විදෙස් මාධ්‍ය වාර්තා කළේ රිච්ටර් මාපකයේ ඒකක 5.6ක ප්‍රබලත්වයෙන් යුතුව මෙම භූකම්පනය සිදුව ඇති බවය.
+
+පොළොව මට්ටමේ සිට කිලෝමීටර් 10ක් ගැඹුරින් මෙම භූකම්පනය සිදුව ඇති බව සදහන් වේ.
+
+භූකම්පනයෙන් කිසිදු ජීවිත හෝ දේපල හානියක් සිදුව නොමැති අතර සුනාමි අනතුරු ඇඟවීම් ද නිකුත් කර නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/aea39090.json)
+
+---
 
 ### இவர்தான் அவரு:  வைரலாகும் போஸ்ட்
 
@@ -128,9 +174,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-22 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213660) · `si`
 
-වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිටට මේ වනවිට කැරලි මර්දන කණ්ඩායම් කැඳවා තිබේ.
+කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිටට මේ වනවිට කැරලි මර්දන කණ්ඩායම් කැඳවා තිබේ.
 
-අප වාර්තාකරුවන් පැවසුවේ, මේ වනවිට පොලිස් ආරක්ෂාවට ඒ අවට දැඩි කර ඇති බවය.
+අප වාර්තාකරුවන් පැවසුවේ, මේ වනවිට පොලිස් ආරක්ෂාවද ඒ අවට දැඩි කර ඇති බවය.
 
 වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිට සත්‍යග්‍රහයක් ආරම්භ කර තිබුණි.
 
@@ -139,6 +185,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ප්‍රධාන ඉල්ලීම් 19ක් මුල්කරගනිමින් තැපැල් වෘත්තීය සමිති පසුගිය 17 වනදා මධ්‍යම රාත්‍රීයේ සිට ආරම්භ කළ වැඩවර්ජනය අද 05 වන දිනටත් ක්‍රියාත්මක වන අතර වර්ජනය හේතුවෙන් තැපැල් සේවා ලබා ගැනීම සඳහා පැමිණි ජනතාව දැඩි අසීරුතාවට පත්ව සිටියේය.
 
 මේ අතර සමස්ත ලංකා උප තැපැල් ස්ථානාධිපතිවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රවීන්ද්‍ර අමරජීව මහතා සඳහන් කළේ, ජනතාව අපහසුතාවයට පත් නොකර වර්ජනය අවසන් කරන ලෙස සෙසු තැපැල් වෘත්තීය සමිති නියෝජිතයින්ගෙන් ඉල්ලා සිටින බවය.
+
+මේ අතර අද දිනයේ සේවයට නොපැමිණෙන සියලු තැපැල් සේවකයින් තනතුර අතහැර ගියා සේ සලකා කටයුතු කිරීමට සිදුවන බව පවසමින් තැපැල්පති රුවන් සත්කුමාර මහතා විසින් නිවේදනයක් නිකුත් කර තිබුණි.
 
 ...
 
@@ -1719,51 +1767,5 @@ That benevolent gesture and his integrity became the foundation and philosophy o
 ...
 
 [Data](articles/76a80c72.json)
-
----
-
-### Social protection: Not an option but a necessity in Asia and the Pacific
-
-*2025-08-22 04:58:16* · [`dailyftlk`](https://www.ft.lk/opinion/Social-protection-Not-an-option-but-a-necessity-in-Asia-and-the-Pacific/14-780617) · `en`
-
-Social protection for individuals and households must be recognised not just as a safety net, but as an economically and socially empowering instrument that brings stability, prosperity and resilience
-
-Asia and the Pacific is navigating multiple disruptions, both positive and negative. Economic restructuring, green transitions, intensifying climate change, demographic shifts and digital transformations are posing a critical question: how do we ensure that large numbers of people are not left behind?
-
-One response is indispensable. Social protection for individuals and households must be recognised not just as a safety net, but as an economically and socially empowering instrument that brings stability, prosperity and resilience.
-
-...
-
-[Data](articles/e0729573.json)
-
----
-
-### Embassy in Sri Lanka marks 80th anniversary of Viet Nam’s Independence Day and 55 years of Viet Nam-Sri Lanka diplomatic relations
-
-*2025-08-22 04:31:31* · [`dailyftlk`](https://www.ft.lk/news/Embassy-in-Sri-Lanka-marks-80th-anniversary-of-Viet-Nam-s-Independence-Day-and-55-years-of-Viet-Nam-Sri-Lanka-diplomatic-relations/56-780599) · `en`
-
-The Embassy of Viet Nam in Sri Lanka held a distinguished commemorative event on Tuesday, at the Hilton Hotel, Colombo to celebrate two significant milestones: the 80th anniversary of Viet Nam’s Independence Day and the 55th anniversary of diplomatic relations between Viet Nam and Sri Lanka.
-
-...
-
-[Data](articles/639dec9d.json)
-
----
-
-### Ex-IGP Deshabandu remanded till 27 August
-
-*2025-08-22 04:27:49* · [`dailyftlk`](https://www.ft.lk/news/Ex-IGP-Deshabandu-remanded-till-27-August/56-780598) · `en`
-
-Former Inspector General of Police (IGP) Deshabandu Thennakoon was remanded till 27 August after being produced before the Colombo Fort Magistrate’s Court yesterday over his alleged role in the violent crackdown on peaceful protesters at Galle Face on 9 May 2022.
-
-Thennakoon, who was arrested by the Criminal Investigation Department (CID) on Wednesday evening, appeared before Magistrate Nilupuli Lankapura.
-
-Deputy Solicitor General (DSG) Wasantha Perera told the Court that Thennakoon, serving as the Western Province Senior Deputy Inspector General (DIG) at the time, failed to act despite clear opportunities to prevent the attack on the “Aragalaya” protest movement.
-
-It was revealed in Court that Thennakoon had instructed officers not to intervene till his orders were given, even as about 2,000 armed individuals assaulted unarmed civilians. The prosecution argued that this amounted to aiding and abetting the attackers.
-
-...
-
-[Data](articles/913e20e8.json)
 
 ---

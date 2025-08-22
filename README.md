@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 11:07:14**
+As of **2025-08-22 11:20:12**
 
 ## Newspaper Stats
 
-*Scraped **71,695** Articles*
+*Scraped **71,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,413
 dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,897
-adaderanalk | 9,043
+adaderanalk | 9,046
 tamilmirrorlk | 10,552
 virakesarilk | 11,842
 adaderanasinhalalk | 12,390
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.4%) of 71,695 articles have been extended.
+61,973 (86.4%) of 71,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### தென் அமெரிக்காவில் சக்திவாய்ந்த நிலநடுக்கம்
+
+*2025-08-22 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/223073) · `ta`
+
+தென் அமெரிக்காவில் இன்று காலை சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. ரிச்டர் அளவுகோலில் 7.5ஆக பதிவாகியுள்ளது.
+
+தென் அமெரிக்காவுக்கும், அண்டார்டிகாவுக்கும் இடையே உள்ள டிரேக் பாசேஜ் பகுதியில் இந்த நிலநடுக்கம் உணரப்பட்டுள்ளது. பூமிக்கு அடியில் சுமார் 10.8 கிலோ மீட்டர் தொலைவில் இந்த நிலஅதிர்வு ஏற்பட்டுள்ளது.
+
+முதலில் ரிச்டர் அளவுகோலில் 8 என்ற அளவில் மதிப்பிடப்பட்ட இந்த நிலநடுக்கம் பின்னர், 7.5 என்ற அளவில் பதிவாகியுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+
+இந்த நிலநடுக்கத்தால் உயிர்ச்சேதமோ, பொருட்சேதமோ ஏற்பட்டதாக இதுவரையில் எந்த தகவலும் இல்லை. சுனாமி எச்சரிக்கையும் விடுக்கப்படவில்லை.
+
+◼️
+
+[Data](articles/c8c7e195.json)
+
+---
 
 ### Sri Lanka’s Ambeon Holdings buys 6.09-pct of The Kandy Hotels Corporation
 
@@ -50,21 +68,25 @@ Kandy Hotels Company (1938), a subsidiary of Ceylon Hotels Corporation PLC, owns
 
 ---
 
-### தென் அமெரிக்காவில் சக்திவாய்ந்த நிலநடுக்கம்
+### Bandaragama shooting victim was a former prison officer - Police
 
-*2025-08-22 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223073) · `ta`
+*2025-08-22 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111734/bandaragama-shooting-victim-was-a-former-prison-officer-police-) · `en`
 
-தென் அமெரிக்காவில் இன்று காலை சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. ரிச்டர் அளவுகோலில் 7.5ஆக பதிவாகியுள்ளது.
+Police have revealed further details regarding the shooting incident near the Bolgoda Bridge in the Bandaragama Police Division last evening and the victim of the shooting.
 
-தென் அமெரிக்காவுக்கும், அண்டார்டிகாவுக்கும் இடையே உள்ள டிரேக் பாசேஜ் பகுதியில் இந்த நிலநடுக்கம் உணரப்பட்டுள்ளது. பூமிக்கு அடியில் சுமார் 10.8 கிலோ மீட்டர் தொலைவில் இந்த நிலஅதிர்வு ஏற்பட்டுள்ளது.
+The deceased has been identified as 57-year-old Lalith Kumara Kodagoda, a former prison officer and resident of Panadura.
 
-முதலில் ரிச்டர் அளவுகோலில் 8 என்ற அளவில் மதிப்பிடப்பட்ட இந்த நிலநடுக்கம் பின்னர், 7.5 என்ற அளவில் பதிவாகியுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+According to police, the incident occurred last evening (21) while he was traveling in a car near the Bolgoda Bridge. Two unidentified assailants had arrived on a motorcycle and opened fire at him, killing him on the spot.
 
-இந்த நிலநடுக்கத்தால் உயிர்ச்சேதமோ, பொருட்சேதமோ ஏற்பட்டதாக இதுவரையில் எந்த தகவலும் இல்லை. சுனாமி எச்சரிக்கையும் விடுக்கப்படவில்லை.
+Preliminary investigations suggest that a T-56 assault rifle may have been used to carry out the shooting.
 
-◼️
+Police also reported that over 20 gunshots were fired at the victim.
 
-[Data](articles/c8c7e195.json)
+The exact motive behind the shooting has not yet been determined, said police.
+
+...
+
+[Data](articles/b81dd996.json)
 
 ---
 
@@ -214,6 +236,22 @@ Accordingly, it is further stated that the investigation pertains to Ranil Wickr
 
 ---
 
+### Former President Ranil arrives at CID
+
+*2025-08-22 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111733/former-president-ranil-arrives-at-cid-) · `en`
+
+Former President Ranil Wickremesinghe arrived at the Criminal Investigation Department (CID) this morning (22) to provide a statement in connection with an ongoing investigation.
+
+He had been summoned by the CID to appear today and to record his statement regarding the matter.
+
+Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President.
+
+◼️
+
+[Data](articles/9402818d.json)
+
+---
+
 ### Earthquake of magnitude 7.5 hits Drake Passage off South America
 
 *2025-08-22 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111732/earthquake-of-magnitude-75-hits-drake-passage-off-south-america) · `en`
@@ -283,6 +321,22 @@ Accordingly, it is further stated that the investigation pertains to Ranil Wickr
 ◼️
 
 [Data](articles/1fb890ea.json)
+
+---
+
+### Ex-President Ranil summoned to CID today
+
+*2025-08-22 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111730/ex-president-ranil-summoned-to-cid-today) · `en`
+
+Former President Ranil Wickremesinghe has been summoned to appear at the Criminal Investigation Department (CID) today (22).
+
+It is reported that the former President has been summoned to record a statement in connection with an ongoing investigation.
+
+Accordingly, it is further stated that the investigation pertains to Ranil Wickremesinghe’s visit to London to attend a graduation ceremony of his wife, Professor Maithree Wickremesinghe, during his tenure as President.
+
+◼️
+
+[Data](articles/da984aa2.json)
 
 ---
 
@@ -462,7 +516,7 @@ Also pending was further talks to included Bega brands in Australia which could 
 
 ---
 
-### Sri Lanka loan demand to expand further in 3Q: CB Survey
+### Sri Lanka loan demand to expand further in 3Q 2025: CB Survey
 
 *2025-08-22 06:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-loan-demand-to-expand-further-in-3q-cb-survey-237736/) · `en`
 
@@ -1148,15 +1202,15 @@ Since the area was secured and declared an area of interest, a total of 141 skel
 
 ---
 
-### All train between Maradana and Colombo Fort delayed
+### All trains between Maradana and Colombo Fort delayed
 
 *2025-08-21 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111724/all-train-between-maradana-and-colombo-fort-delayed) · `en`
 
-Train services between Maradana and Colombo Fort Railway stations have been disrupted due to a ‘stalled train’ near the Dematagoda yard, the Railway Control Room said.
+Train services between Maradana and Colombo Fort Railway stations have been disrupted due to a ‘stalled train’ near the Dematagoda Yard, the Railway Control Room said.
 
-According to the Control Room, the No. 775 train scheduled to leave for Galle this evening had reportedly stalled while on its way to the Maradana station due to mix-up of tracks near the Dematagoda yard.
+According to the Control Room, the No. 775 train scheduled to leave for Galle this evening had reportedly stalled while on its way to the Maradana station due to a mix-up of tracks near the Dematagoda Yard.
 
-Therefore, train services between the two stations have been affected.
+Therefore, train services between the two railway stations have been affected.
 
 ◼️
 
@@ -1721,55 +1775,5 @@ Driven by the desire for peace and stability, the founding members of the UN aim
 ...
 
 [Data](articles/0fc3b104.json)
-
----
-
-### Sri Lanka sells extra Rs7.85bn Treasury bills after auction
-
-*2025-08-21 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs7-85bn-treasury-bills-after-auction-237725/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 7,850 million rupees of treasury bills offered on tap at average rates of 7.59 percent and 7.89 percent, the state debt office said, bringing the total of bills sold this week to 86.35 billion rupees.
-
-On Wednesday (20) the debt office raised 78.5 billion rupees of 3, 6 and 12 month bills.
-
-◼️
-
-[Data](articles/9ad54957.json)
-
----
-
-### China-Sri Lanka working to promote high-quality BR cooperation – Chinese envoy
-
-*2025-08-21 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111715/china-sri-lanka-working-to-promote-high-quality-br-cooperation-chinese-envoy) · `en`
-
-China and Sri Lanka are currently working hand in hand to promote high-quality Belt and Road cooperation, Sri Lanka’s Chinese Ambassador Qi Zhenhong said.
-
-The Ambassador was speaking at an event to mark the 80th Anniversary of the “Victory of the Chinese People’s War of Resistance Against Japanese Aggression and the World Anti-Fascist War”, held at the BMICH in Colombo yesterday (20).
-
-“This epic new chapter of cooperation is the most vibrant tribute to history, the most solid foundation for peace, and will surely paint an even brighter picture for the future of Sri Lanka,” he said.
-
-Ambassador Zhenhong also mentioned that China and Sri Lanka, which share a time-honoured friendship, had long been bound together by the ancient Silk Road.
-
-...
-
-[Data](articles/c1189ab3.json)
-
----
-
-### ලොකු ලුණු අස්වැන්න නෙලීම අරඹයි, කිලෝවට රු 250ක් ඉල්ලයි
-
-*2025-08-21 17:05:48* · [`adalk`](https://www.ada.lk/picture_story/ලොකු-ලුණු-අස්වැන්න-නෙලීම-අරඹයි--කිලෝවට-රු-250ක්-ඉල්ලයි/10-418001) · `si`
-
-මෙවර වගා කරන්නට යෙදුන දේශීය ලොකුලූණු අස්වනු නෙළීමේ කටයුතු ආරම්භ කොට තිබීම නිසා විදේශීය රටවලින් ගෙන්වන ලොකු ලූණු පාලනය කිරීම සිදු නොකළහොත් වෙනත්  වසරවල මෙන්  දේශීය ලොකු ලුණු ගොවියාට බරපතළ ප්රශ්නයකට මුහුණ දීමට සිදුවන  බව දේශීය  ලොකු ලූනු ගොවියෝ පවසති.
-
-දඹුල්ල ,ගලේවෙල ,ගල්කිරියාගම ආදී   ප්‍රදේශ වල  වගා කෙරුණු දේශීය ලොකු ලූණු අස්වනු මීට දින තුනකට පමණ ඉහත සිට  නෙලීම ආරම්භ කොට තිබේ .ලොකු ලුණු  කිලෝ එකක ගැනුම් මිල හා දඹුල්ල ආර්ථික මධ්යස්ථානය තුළ අලෙවි වන්නේ රුපියල්  80 සිට රුපියල් 100  දක්වා වූ මිල පරාසයක් තුළ බව ගොවීහු පෙන්වා දෙති.
-
-එම මිලටවත් තම අස්වනු අලවි කර ගන්නට නොහැකි බව ගලේවෙල දේවහුව ප්‍රදේශයේ ගොවින් කියති
-
-එවැනි තත්ත්වයක් තිබියදී ඉන්දියාව සහ පාකිස්තානයෙන් ගෙන්වන ලද විදේශීය ලොකු ලූණු කිලෝව රුපියල් එක 80 ත් 110 ත්  දක්වා වූ මිල ගණන් යටතේ අලවි කිරීම සිදුවෙන නිසාවෙන්  දේශීය  ලොකුළුණු සඳහා සාධාරණ මිලක්   නොලැබෙන බව ගොවීන් පවසති.
-
-...
-
-[Data](articles/e54e8d8f.json)
 
 ---

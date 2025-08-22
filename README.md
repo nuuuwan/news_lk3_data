@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-22 20:32:26**
+As of **2025-08-22 20:49:23**
 
 ## Newspaper Stats
 
-*Scraped **71,796** Articles*
+*Scraped **71,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ dailymirrorlk | 4,733
 dailyftlk | 5,060
 adalk | 6,906
 adaderanalk | 9,060
-tamilmirrorlk | 10,594
+tamilmirrorlk | 10,596
 virakesarilk | 11,849
-adaderanasinhalalk | 12,416
+adaderanasinhalalk | 12,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.3%) of 71,796 articles have been extended.
+61,973 (86.3%) of 71,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-22 (Friday)
+
+### த.வெ.க மாநாடு : உயிரிழந்தோரின் எண்ணிக்கை அதிகரிப்பு
+
+*2025-08-22 20:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/த-வெ-க-மாநாடு-உயிரிழந்தோரின்-எண்ணிக்கை-அதிகரிப்பு/54-363306) · `ta`
+
+தவெக மாநாட்டில் கலந்துகொள்ளச் சென்ற இளைஞர் மயங்கி விழுந்து உயிரிழந்த நிலையில், மற்றொரு இளைஞரும் மூச்சுத்திணறி உயிரிழந்துள்ள சம்பவம் அதிர்ச்சியை உண்டுபண்ணியிருக்கிறது.
+
+தவெக தலைவர் விஜய் தலைமையில் மதுரையில் 2வது மாநாடு நேற்றைய தினம் நடைபெற்றது. சுமார் 506 ஏக்கர் பரப்பளவில் ஏற்பாடு செய்யப்பட்டிருந்த மாநாடு, நேற்று பிற்பகல் 3.30 மணிக்கு தொடங்கி இரவு சுமார் 8 மணி வரை மாநாடு நடைபெற்றது.
+
+இந்த மாநாட்டில் கலந்து கொள்வதற்காக மாநாட்டு திடலுக்கு நேற்று அதிகாலையில் இருந்தே தொண்டர்கள் குவியத் தொடங்கினர்.
+
+60க்கும் மேற்பட்ட பெண்கள், குழந்தைகள் உள்ளிட்டோர் மயங்கி விழுந்தனர்.. இதையடுத்து, அவர்கள் ஆம்புலன்ஸ் மூலம் மாநாட்டுத் திடலின் வெளிப்புறத்தில் அமைக்கப்பட்டிருந்த மருத்துவ உதவி முகாமில் சிகிச்சைக்காக அனுமதிக்கப்பட்டனர்.
+
+இதனிடையே, தவெக மாநில மாநாட்டில் கலந்து கொள்வதற்காக சென்னை அடுத்த ஊரப்பாக்கம் பகுதியில் இருந்து மதுரைக்கு வந்த பிரபாகரன் (வயது 33) என்ற இளைஞர் மதுரை வந்துகொண்டிருந்தார். சக்கிமங்கலம் அருகே இயற்கை உபாதை கழிக்க வாகனத்திலிருந்து கீழே இறங்கிய போது மயங்கி விழுந்து உயிரிழந்தார்.
+
+...
+
+[Data](articles/dc9f0758.json)
+
+---
+
+### ’’ஜனாதிபதிக்கு தனிப்பட்ட ,உத்தியோகபூர்வ பயணம் என்று எதுவும் இல்லை’’
+
+*2025-08-22 20:27:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-தனிப்பட்ட-உத்தியோகபூர்வ-பயணம்-என்று-எதுவும்-இல்லை/175-363305) · `ta`
+
+மேலதிக சொலிசிட்டர் ஜெனரல் திலீப பீரிஸ் இன்று நீதிமன்றத்தில் கூறுகையில், முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கேள்வி எழுப்பப்பட்டபோது, ​​ஒரு ஜனாதிபதி எந்தவொரு பயணத்திற்கும் அரசு நிதியைப் பயன்படுத்தலாம் என்றும், "ஒரு ஜனாதிபதிக்கு தனிப்பட்ட அல்லது உத்தியோகபூர்வ பயணம் என்று எதுவும் இல்லை" என்றும் கூறியதாக தெரிவித்தார்.
+
+சில ஆவணங்கள் ஆரம்பத்தில் விக்ரமசிங்கவின் 2023 லண்டன் பயணத்தை "தனிப்பட்ட பயணம்" என்று விவரித்திருந்ததாகவும், பின்னர் அது ஒரு "பயணம்" என்று வெறுமனே குறிப்பிடுவதற்கு மாற்றப்பட்டதாகவும் பீரிஸ் கூறினார்.
+
+இந்தப் பயணத்திற்காக பாதுகாப்பு அதிகாரிகள் உட்பட 10 பேருக்கு ரூ. 16.6 மில்லியன் அரசு நிதி செலவிடப்பட்டதாக அவர் நீதிமன்றத்தில் தெரிவித்தார்.
+
+மேலும், இந்த அழைப்பு ஒரு தனியார் நிறுவனமான வோல்வர்ஹாம்டன் பல்கலைக்கழகத்திடமிருந்து வந்ததாகவும், இந்த வருகை ஒரு அரசு நிகழ்வாக அங்கீகரிக்கப்பட வேண்டுமென்றால், இங்கிலாந்து அரசாங்கத்திடமிருந்து அதிகாரப்பூர்வ அழைப்பு இருந்திருக்க வேண்டும் என்றும் அவர் வாதிட்டார்.
+
+◼️
+
+[Data](articles/f84af9df.json)
+
+---
+
+### දෙරණ - සිග්නල් සරුංගල් සැණකෙළියේ නිල සමාරම්භක උත්සවය අද රාත්‍රියේදී
+
+*2025-08-22 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213674) · `si`
+
+දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළියට සහභාගීවන විදේශීය තරගකරුවන් කණ්ඩායම අද කොළඹ ගාලුමුවදොර පිටියේදී පුහුණු සැසියකට එක්විය.
+
+දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය අගෝස්තු 24වැනිදා කොළඹ ගාලුමුවදොර පිටියේදී පැවැත්වීමට නියමිත අතර එහි නිල සමාරම්භක උත්සවය අද (22) රාත්‍රියේ කොළඹදී පැවැත්වීමට නියමිතය.
+
+කොළඹ අහස විචිත්‍රවත් කරන දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය ලබන 24 වැනිදා ඉරිදා ගාලු මුවදොර පිටියේදී පැවැත්වීම සඳහා මේ වන විට සියලු කටයුතු සූදානම් කර ඇත.
+
+TV දෙරණ, ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය සහ ශ්‍රී ලංකා පොලිසිය සංවිධානය කරන මෙම සැණකෙළිය සඳහා දේශීය තරගකරුවන් 500ක් මෙන්ම රටවල් 25ක් නියෝජනය කරමින් විදේශීය තරගකරුවන් එක්වීමට නියමිතය.
+
+සරුංගල් සැණකෙළිය සඳහා එක්වන විදේශීය තරගකරුවන්  අද කොළඹ ගාලු මුවදොර පිටියේදී පුහුණු සැසියකට එක්විය.
+
+තරගකරුවන් 54 දෙනෙකු මෙලෙස විදෙස් කණ්ඩායම නියෝජනය කරන අතර ඔවුන් සමග දෙරණ නියෝජිතයින් ද මෙම අවස්ථාවට එක් විය.
+
+...
+
+[Data](articles/03968b27.json)
+
+---
 
 ### සුදත්තගේ යූටියුබ් ප්‍රකාශයට විමර්ශනයක් ඉල්ලා එජාපයෙන් CIDයට පැමිණිල්ලක්
 
@@ -70,7 +130,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-22 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213672) · `si`
 
-විදෙස් සංචාරයකදී රජයේ මුදල් අවභාවිත කළ බවට එල්ල වූ චෝදනා මත හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගනු ලැබුවා.
+විදෙස් සංචාරයකදී රජයේ මුදල් අවභාවිත කළ බවට එල්ල වූ චෝදනා මත හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
 
 ඒ මෙම චෝදනාව සම්බන්ධයෙන් ප්‍රශ්නකිරීම සඳහා එම දෙපාර්තමේන්තුව හමුවට කැඳවූ අවස්ථාවේදීය.
 
@@ -1671,61 +1731,5 @@ The postal trade union action that began at midnight on the (17) based on 19 key
 ◼️
 
 [Data](articles/0950a460.json)
-
----
-
-### Sri Lanka’s Ambeon Holdings buys 6.09-pct of The Kandy Hotels Corporation
-
-*2025-08-22 10:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-holdings-buys-6-09-pct-of-the-kandy-hotels-corporation-237784/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s Ambeon Holdings said it had acquired a 6.09 percent stake of the ordinary voting shares of The Kandy Hotels Corporation (1938) PLC for 550.8 million rupees.
-
-Ambeon Holdings paid 12 rupees per share, the company said in a stock exchange filing.
-
-The Kandy Hotels Corporation (1938) stock was trading down 30 cents at 17.50 rupees.
-
-Kandy Hotels Company (1938), a subsidiary of Ceylon Hotels Corporation PLC, owns the Queen’s Hotel and Hotel Suisse located in Kandy. (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/81b6020c.json)
-
----
-
-### Bandaragama shooting victim was a former prison officer - Police
-
-*2025-08-22 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111734/bandaragama-shooting-victim-was-a-former-prison-officer-police-) · `en`
-
-Police have revealed further details regarding the shooting incident near the Bolgoda Bridge in the Bandaragama Police Division last evening and the victim of the shooting.
-
-The deceased has been identified as 57-year-old Lalith Kumara Kodagoda, a former prison officer and resident of Panadura.
-
-According to police, the incident occurred last evening (21) while he was traveling in a car near the Bolgoda Bridge. Two unidentified assailants had arrived on a motorcycle and opened fire at him, killing him on the spot.
-
-Preliminary investigations suggest that a T-56 assault rifle may have been used to carry out the shooting.
-
-Police also reported that over 20 gunshots were fired at the victim.
-
-The exact motive behind the shooting has not yet been determined, said police.
-
-...
-
-[Data](articles/b81dd996.json)
-
----
-
-### துப்பாக்கிதாரி சுட்டுப் படுகொலை
-
-*2025-08-22 09:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிதாரி-சுட்டுப்-படுகொலை/175-363263) · `ta`
-
-சூரியவெவ பகுதியில் விசேட அதிரடிப் படையினர் நடத்திய பதில் தாக்குதலில் ஒருவர் பலியானார்.
-
-நபர் ஒருவரைக் கைது செய்ய முயன்றபோது, அந்த நபர், படையினர் மீது துப்பாக்கிச் சூடு நடத்தியதாகக் கூறப்படுகிறது.
-
-இதனையடுத்து விசேட அதிரடிப்படையினர் நடத்திய பதில் தாக்குதலில் சம்பந்தப்பட்ட நபர் உயிரிழந்தார் என பொலிஸார் தெரிவித்துள்ளனர்
-
-◼️
-
-[Data](articles/e6f2ac81.json)
 
 ---

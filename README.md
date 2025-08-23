@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 11:51:01**
+As of **2025-08-23 12:08:36**
 
 ## Newspaper Stats
 
-*Scraped **71,898** Articles*
+*Scraped **71,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,51 @@ adalk | 6,910
 adaderanalk | 9,072
 tamilmirrorlk | 10,608
 virakesarilk | 11,862
-adaderanasinhalalk | 12,437
+adaderanasinhalalk | 12,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,898 articles have been extended.
+61,973 (86.2%) of 71,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
 
+### විජේ දේශපාලන වේදිකාවේ දී කච්චතිව් ඉල්ලයි
+
+*2025-08-23 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213696) · `si`
+
+2026 පැවැත්වීමට නියමිත ප්‍රාන්ත මහ මැතිවරණය සඳහා තරග වැදීමට අපේක්ෂිත දකුණු ඉන්දීය සුපිරි නළු විජේගේ TVK නම් නව දේශපාලන පක්ෂයේ දෙවැනි රැලිය තමිල් නාඩුවේ මදුරෙයි හීදි ඊයේ (22) පැවැත්වුණි.
+
+මෙහිදී ජනහමුව අමතමින් ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිගෙන් විජේ ඉල්ලීමක් කර තිබුණි.
+
+"තමිල්නාඩු ධීවරයින් 800ක් සහ ඔවුන්ගේ බෝට්ටු ශ්‍රී ලංකාවේ නාවික හමුදාව විසින් ඔවුන් භාරයට ගෙන තියෙනවා. අපි ඒක හෙළා දකිනවා. ඒ වෙනුවෙන් පොඩි දෙයක් අපි කරන්න ඕනේ. අපේ ධීවර ජනතාවට ආරක්ෂිතව ජීවත් වෙන්න නම්, කච්චතිව් දූපත විතරක් අපිට ලබාදෙන්න. ඒක අපිට ඇති" යනුවෙන් එහිදී ඔහු සඳහන් කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ශ්‍රී ලංකාවට අයත්ව තිබෙන කච්චතීව් දූපත ඉන්දියාවේ මැතිවරණය ඉලක්ක කර ගත් ආන්දෝලනාත්මක මාතෘකාවක් බවට පත්ව තිබේ.
+
+කච්චතිව් දූපත මෙරටට අයත් දූපත් සමූහයට අයත් එක් දූපතක් වන අතර, ශ්‍රී ලංකාවට වඩාත් දුරින්ම පිහිටි දූපත වන්නේද කච්චතිව් දූපතයි.
+
+...
+
+[Data](articles/31e6f2d7.json)
+
+---
+
 ### මහින්ද කනගාටුවෙන්
 
 *2025-08-23 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213695) · `si`
 
-දේශපාලන නායකයින්ගේ සුළු වැරදිවලට සිරගත කිරීම ගැන තමා කනගාටුවට පත්වෙන බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+දේශපාලන නායකයින්ව සුළු වැරදිවලට සිරගත කිරීම ගැන තමා කනගාටුවට පත්වෙන බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් බැලීමට ගොස් බන්ධනාගාරයෙන් පිටතට පැමිණි පසු මාධ්‍ය වෙත අදහස් දක්වමින් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මේ බව කියා සිටියේය.
+
+"දේශපාලනය කරනවා නම් ඕක උරුමයි...එතුමා ඒකට මුහුණදෙනවා" යනුවෙන් ද මහින්ද රාජපක්ෂ මහතා පැවසීය.
+
+රජයේ ක්‍රියාකලාපය පිළිබඳ ජනතාව හොඳින් තේරුම් ගෙන ඇති බවත් මෙවැනි ක්‍රියාවන් පළිගැනීමක් මිස වෙන ක්‍රියාවක් නොවන බව ද පැවසු මහින්ද රාජපක්ෂ මහතා, ජනතාව තවමත් තමාට ආදරය කරන බව ද කියා සිටියේය.
+
+"අපි මිනිස්සුන්ට ආදරේ කරනවා. ඒ නිසා මිනිස්සු අපිට ආදරේ කරනවා..."
 
 ◼️
 
@@ -588,26 +616,6 @@ The general public has also been requested to take adequate precautions to minim
 
 ---
 
-### 
-
-*2025-08-23 02:04:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86306) · `en`
-
-•	Former   President Ranil Wickremesinghe Arrested on August 22  by CID  for alleged misuse of State funds for personal UK trip in 2023  and  Remanded by Colombo Fort Magistrate Until Aug 26;
-
-Former President Ranil Wickremesinghe was yesterday ( Aug 22 )  remanded by the Colombo Fort Magistrate’s Court for  four days until 26 August.
-
-Wickremesinghe was arrested earlier in the day by the Criminal Investigation Department (CID) after appearing before the sleuths to record a statement.
-
-The arrest follows an investigation into allegations that Wickremesinghe used State funds for a private visit to London in September 2023 to attend a university ceremony with his wife, Prof. Maithree Wickremesinghe.
-
-The trip coincided with his return from the Group of 77 (G77) Summit in Havana, but was not classified as an official engagement. Investigators allege that Government resources, including security, were misused.
-
-...
-
-[Data](articles/3e7ee80b.json)
-
----
-
 ### ரணில் விக்ரமசிங்க வைத்தியசாலையில் அனுமதி
 
 *2025-08-23 01:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்க-வைத்தியசாலையில்-அனுமதி/175-363326) · `ta`
@@ -617,6 +625,40 @@ The trip coincided with his return from the Group of 77 (G77) Summit in Havana, 
 ◼️
 
 [Data](articles/7b0be331.json)
+
+---
+
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-23 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
+
+---
+
+### Former   President Ranil Wickremesinghe Arrested on August 22  by CID  for alleged misuse of State funds for personal UK trip in 2023  and  Remanded by Colombo Fort Magistrate Until Aug 26
+
+*2025-08-23 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86306) · `en`
+
+Former President Ranil Wickremesinghe was yesterday ( Aug 22 )  remanded by the Colombo Fort Magistrate’s Court for  four days until 26 August.
+
+Wickremesinghe was arrested earlier in the day by the Criminal Investigation Department (CID) after appearing before the sleuths to record a statement.
+
+The arrest follows an investigation into allegations that Wickremesinghe used State funds for a private visit to London in September 2023 to attend a university ceremony with his wife, Prof. Maithree Wickremesinghe.
+
+The trip coincided with his return from the Group of 77 (G77) Summit in Havana, but was not classified as an official engagement. Investigators allege that Government resources, including security, were misused.
+
+Earlier, the CID questioned former Presidential Secretary Saman Ekanayake and former Private Secretary Sandra Perera in connection with the arrangements for the visit. It had also presented evidence before the Colombo Fort Magistrate’s Court in June.
+
+...
+
+[Data](articles/3e7ee80b.json)
 
 ---
 
@@ -1701,39 +1743,5 @@ Wickremesinghe became president during the worst economic crisis of Sri Lanka’
 ◼️
 
 [Data](articles/1ac2ed51.json)
-
----
-
-### சிங்கப்பூர் உள்துறை அமைச்சர் - எதிர்க்கட்சி தலைவருக்கிடையில் சந்திப்பு
-
-*2025-08-22 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223136) · `ta`
-
-சிங்கப்பூருக்கு விஜயம் மேற்கொண்டுள்ள எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அந்நாட்டின் தேசிய பாதுகாப்பு ஒருங்கிணைப்பு அமைச்சர் மற்றும் உள்துறை அமைச்சர் கே. சண்முகத்தை சந்தித்துள்ளார். வெள்ளிக்கிழமை (22) இந்த சந்திப்பு இடம்பெற்றுள்ளது.
-
-சிங்கப்பூருக்கான இலங்கை உயர்ஸ்தானிகர் எஸ்.சந்திரதாஸ் உள்ளிட்டோரும் இந்த சந்திப்பில் பங்கேற்றிருந்தனர். இதன் போது இரு தரப்பினரும் சிங்கப்பூரின் வளர்ச்சிப் பாதை குறித்து கருத்துக்களைப் பரிமாற்றிக் கொண்டனர். சிங்கப்பூரிடமிருந்து கற்றுக்கொள்ளக்கூடிய பாடங்கள் பல இலங்கைக்குக் உள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
-
-1950 மற்றும் 1960 தசாப்தங்களில் சிங்கப்பூர் இலங்கையின் வளர்ச்சி நோக்குநிலையைப் பின்பற்றி வளர்ச்சித் திட்டங்களை தயாரித்து தற்போது காணப்படுகின்ற விரைவான வளர்ச்சியை அடைந்துகொண்டது. ஆனால் இன்று இலங்கை வெற்றியின் முன்மாதிரியாக சிங்கப்பூரைப் பார்க்கிறது என்று எதிர்க்கட்சித் தலைவர் குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/0d01c9c0.json)
-
----
-
-### ගතවූ සතිය තුළ සැකකරුවන් 3,387ක් අත්අඩංගුවට
-
-*2025-08-22 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213671) · `si`
-
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීමේ විශේෂ පොලිස් මෙහෙයුමේ දී ගතවු සතියක කාලය තුල සැකකරුවන් 3,387දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිසිය පවසයි.
-
-මේ මස 15 වනදා සිට 21 වනදා දක්වා කාලසීමාව තුල දිවයින පුරා සිදුකළ වැටලීම් 3,392කදී අදාළ පිරිස අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය කොට්ඨාශය සඳහන් කළේය.
-
-එම වැටලීම්වලදී හෙරෝයින් කිලෝග්‍රෑම් 03යි ග්‍රෑම් 869ක්, අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 02යි ග්‍රෑම් 119ක්, හෑෂ් ග්‍රෑම් 97ක්, ගංජා කිලෝග්‍රෑම් 166ක් ඇතුළු මත්ද්‍රව්‍ය පොලිස් භාරයට ගෙන ඇති බව සදහන් වේ.
-
-මත්ද්‍රව්‍ය ජාලය හදුනාගැනීම සදහා පොලිස්පතිවරයාගේ උපදෙස් මත දිවයින පුරා මෙම විශේෂ පොලිස් මෙහෙයුම ක්‍රියාත්මකය.
-
-◼️
-
-[Data](articles/112761ae.json)
 
 ---

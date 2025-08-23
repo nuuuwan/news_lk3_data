@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 04:19:09**
+As of **2025-08-24 04:32:04**
 
 ## Newspaper Stats
 
-*Scraped **71,957** Articles*
+*Scraped **71,958** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 609
 bbccomsinhala | 677
-colombotelegraphcom | 732
+colombotelegraphcom | 733
 economynextcom | 4,402
 islandlk | 4,421
 dailymirrorlk | 4,733
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,957 articles have been extended.
+61,973 (86.1%) of 71,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Ranil Wickremesinghe: A Career Of Losing The Plot
+
+*2025-08-23 22:38:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghe-a-career-of-losing-the-plot/) · `en`
+
+There’s a temptation in Sri Lanka to treat Ranil Wickremesinghe as some elder statesman — the “last liberal,” the West-friendly technocrat who stood above the Rajapaksa swamp. But let’s be honest: RW’s political decline is no accident. It’s the result of a career defined by hubris, bad judgment, and a knack for playing the wrong hand at every critical moment.
+
+If anything, his story is not one of tragedy but of farce: four election cycles, four colossal blunders, and one country left bleeding from his inability to get it right.
+
+In 2005, RW entered the presidential race still basking in the afterglow of his 2002 Ceasefire Agreement with the LTTE. He genuinely believed peace talks with Prabhakaran would carry him to victory. Instead, the Tigers enforced a boycott in the North and East, stripping RW of the votes he needed and handing Mahinda Rajapaksa the presidency.
+
+...
+
+[Data](articles/1e33d68d.json)
+
+---
 
 ### Newly appointed IGP Priyantha Weerasuriya calls on PM Harini
 
@@ -1857,19 +1873,5 @@ Former Foreign Affairs and Justice Minister Mohamed Ali Sabry PC said the arrest
 ...
 
 [Data](articles/4a2ee054.json)
-
----
-
-### BASL urges inclusion of Law in school curriculum
-
-*2025-08-23 00:25:25* · [`dailyftlk`](https://www.ft.lk/news/BASL-urges-inclusion-of-Law-in-school-curriculum/56-780667) · `en`
-
-The Bar Association of Sri Lanka (BASL) yesterday called on the Government to introduce Law as part of the national education curriculum, saying legal literacy is critical for civic consciousness and democratic participation.
-
-In a letter addressed to Prime Minister and Education Minister Dr. Harini Amarasuriya, the BASL welcomed the Ministry’s ongoing education reforms, saying the addition of legal studies would align Sri Lanka with international practices. “The subject of Law has been introduced to the school curriculum in many countries, reflecting the global understanding that law-related education is a fundamental building block of civic consciousness and democratic engagement,” the letter stated.
-
-...
-
-[Data](articles/be8fa90d.json)
 
 ---

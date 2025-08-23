@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 09:25:23**
+As of **2025-08-23 09:36:15**
 
 ## Newspaper Stats
 
-*Scraped **71,886** Articles*
+*Scraped **71,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,909
 adaderanalk | 9,068
-tamilmirrorlk | 10,607
+tamilmirrorlk | 10,608
 virakesarilk | 11,862
-adaderanasinhalalk | 12,432
+adaderanasinhalalk | 12,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,886 articles have been extended.
+61,973 (86.2%) of 71,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ශ්‍රී ලාංකික අධ්‍යයන 20ක් ඇතුළත් ලොව ප්‍රකට කොට්ලර්ගේ ග්‍රන්ථය එළිදකී
+
+*2025-08-23 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213690) · `si`
+
+ලොව ප්‍රකට මහාචාර්ය පිලිප් කොට්ලර් විසින් රචිත ශ්‍රී ලාංකික අධ්‍යයන 20ක් ඇතුළත් 'Essentials of Modern Marketing' ග්‍රන්ථය ඊයේ (22) එළිදක්වා තිබේ.
+
+එහි විශේෂාංග අතර, ටීවි දෙරණ නාළිකාව පිළිබඳව ද ඇතුළත්ව තිබීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/bd0f9a73.json)
+
+---
+
+### ரணில் ஏன் வைத்தியசாலையில் அனுமதிக்கப்பட்டார்?
+
+*2025-08-23 09:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஏன்-வைத்தியசாலையில்-அனுமதிக்கப்பட்டார்/175-363333) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, உயர் இரத்த அழுத்தம் மற்றும் அதிகரித்த சர்க்கரை அளவு காரணமாக வைத்திய  ஆலோசனையின் பேரில் நேற்று (22) இரவு சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் விளக்கமறியலைத் தொடர்ந்து, நேற்று (22) இரவு பல அரசியல்வாதிகள் சிறைச்சாலைக்குச் சென்றனர்.
+
+முன்னாள் அமைச்சர்கள் துமிந்த திசாநாயக்க மற்றும் பிரசன்ன ரணதுங்க, பாராளுமன்ற உறுப்பினர் சாமர சம்பத் உள்ளிட்டோர் ஆதரவாளர்கள் குழுவுடன் சிறைச்சாலைக்கு வந்தனர்.
+
+இருப்பினும், அவர்கள் உள்ளே நுழைய அனுமதிக்கப்படவில்லை, பின்னர் வெளியே காத்திருந்ததாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/f3b1cb85.json)
+
+---
 
 ### காசா நகரம் அழிக்கப்படும்: இஸ்ரேல் எச்சரிக்கை
 
@@ -1671,43 +1703,5 @@ Police said that the magazine of a firearm and a spent cartridge has been recove
 ◼️
 
 [Data](articles/49654c65.json)
-
----
-
-### Decision on Ranil’s bail application adjourned for half an hour
-
-*2025-08-22 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111745/decision-on-ranils-bail-application-adjourned-for-half-an-hour) · `en`
-
-The Colombo Fort Magistrate’s Court has adjourned for half an hour the announcement of the order on the bail application filed on behalf of former President Ranil Wickremesinghe, who was arrested and produced before the court by the Criminal Investigation Department (CID).
-
-The bail application was considered before Colombo Fort Magistrate Nilupuli Lankapura.
-
-Additional Solicitor General Dileepa Peiris, appearing for the CID, stated before the court that he would present evidence against the suspect under the Public Property Act.
-
-He also requested that the suspect be remanded as the investigation is not complete.
-
-However, President’s Counsel Anuja Premaratne, appearing for the defendant, presented evidence in court and requested that the suspect be released on bail.
-
-The Magistrate then announced that the order on the bail application will be adjourned for half an hour.
-
-◼️
-
-[Data](articles/96dfa356.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-08-22 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-237917/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.95/302.05 to the US dollar in the spot market Friday, weaker from 301.85/302.00 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2029 closed at 9.42/45 percent, down from 9.43/47 percent.
-
-A bond maturing on 15.12.2032 closed at 10.25/31 percent, down from 10.25/33 percent. (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/4e1266c9.json)
 
 ---

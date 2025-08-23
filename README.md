@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 22:07:59**
+As of **2025-08-23 22:20:48**
 
 ## Newspaper Stats
 
-*Scraped **71,953** Articles*
+*Scraped **71,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,913
 adaderanalk | 9,087
 tamilmirrorlk | 10,617
 virakesarilk | 11,862
-adaderanasinhalalk | 12,461
+adaderanasinhalalk | 12,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,953 articles have been extended.
+61,973 (86.1%) of 71,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### සාමය සඳහා එළැඹෙන්නේ නැතිනම් ට්‍රම්ප්ගෙන් රුසියාවට සම්බාධක
+
+*2025-08-23 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213720) · `si`
+
+සති දෙකක කාලයකින් පසුව යුක්‍රේන - රුසියා යුද්ධය සම්බන්ධව සාමකාමී විසඳුමක් නොලැබුණහොත් රුසියාවට එරෙහිව සම්බාදක පනවන බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා තිබේ.
+
+අමෙරිකානු ජනාධිපති සහ රුසියානු ජනාධිපති පුටින් අතර පසුගියදා ඇලෙස්කාවේදී රුසියානු - යුක්‍රේන යුද්ධය සඳහා සාමකාමී මාවතක් වෙනුවෙන් සාකච්ඡා පැවැත්වුවද එම සාකච්ඡා එකඟතාවකින් තොරව අවසන් වී තිබුණි.
+
+සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අමෙරිකානු ජනාධිපතිවරයා පැවසුවේ සාකච්ඡාවන් හි අවසන් එකඟතාවයක් නොමැති වුවද සාකච්ඡා ඵළදායීව සහ පැවැති බවය.
+
+එම සාකච්ඡාවලින් පසුව අමෙරිකානු ජනාධිපති ට්‍රම්ප් සහ යුක්‍රේන ජනාධිපති සෙලෙන්ස්කි අතර හමුවක්ද සිදුවූ අතර එහිදී ද යුක්‍රේන - රුසියා යුද්ධය සඳහා සාමකාමී මාවතක් ගෙන ඒම පිළිබඳව දැඩි ලෙස සාකච්ඡා වී තිබුණි.
+
+කෙසේ නමුත් මෙම සාකච්ඡාවලින් අතරතුර වුවද පසුගිය දිනක යුක්‍රේනයේ පිහිටි කර්මාන්ත ශාලාවක් වෙත රුසියානු ප්‍රහාරයක්ද එල්ල විය.
+
+මෙම ප්‍රහාරය සම්බන්ධව අමෙරිකානු ජනාධිපතිවරයා සිය අදහස් දක්වා ඇති අතර එමගින් ඔහු පවසා ඇත්තේ සිදුකළ ප්‍රහාරය තමන් දැඩිව හෙළා දකින බවය.
+
+...
+
+[Data](articles/8ff942d0.json)
+
+---
 
 ### ජනාධිපති අරමුදලෙන් සබරගමුව පළාතේ උසස් පෙළ විශිෂ්ටයෝ අගයයි
 
@@ -1843,23 +1865,5 @@ Furthermore, the appointments of Kavinda de Zoysa as the Chairman of the Bank of
 ◼️
 
 [Data](articles/e3a8eb44.json)
-
----
-
-### Former President Ranil admitted to Prison Hospital
-
-*2025-08-23 00:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111753/former-president-ranil-admitted-to-prison-hospital) · `en`
-
-Former President Ranil Wickremesinghe, who was arrested and remanded in custody on Friday over allegations he misused state funds while in office, has been admitted to the Prisons Hospital on the advice of doctors, according to the Prisons Spokesman.
-
-Wickremesinghe became the most senior opposition figure to be hauled up in an anti-corruption crackdown by the new government as he was ordered remanded until August 26 by the Fort Magistrate’s Court.
-
-“The suspect (Wickremesinghe) will be held in custody till Tuesday, but considering his medical condition he could be admitted to the prison hospital or another hospital,” Magistrate Nilupuli Lankapura said ordering his remand.
-
-Wickremesinghe, whose lawyers said was suffering from heart disease and diabetes, was charged under the Public Property Act and two counts of the penal code - “dishonest misappropriation of property” and “criminal breach of trust.”
-
-...
-
-[Data](articles/9c41db6f.json)
 
 ---

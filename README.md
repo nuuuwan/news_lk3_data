@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 19:48:45**
+As of **2025-08-23 20:06:54**
 
 ## Newspaper Stats
 
-*Scraped **71,945** Articles*
+*Scraped **71,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,400
 islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,912
+adalk | 6,913
 adaderanalk | 9,087
 tamilmirrorlk | 10,616
 virakesarilk | 11,862
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,945 articles have been extended.
+61,973 (86.1%) of 71,946 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -433,6 +433,20 @@ Accordingly, prison authorities have decided to transfer former President Wickre
 ◼️
 
 [Data](articles/75e405f2.json)
+
+---
+
+### දේශපාලන නායකයෝ මේ වගේ පොඩි දේවල්වලට හිර ගෙවල් වලට දාන එක වැරදියි
+
+*2025-08-23 14:40:25* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-නායකයෝ-මේ-වගේ-පොඩි-දේවල්වලට-හිර-ගෙවල්-වලට-දාන-එක-වැරදියි/11-418026) · `si`
+
+රක්ෂිත බන්ධනාගාර ගත කර මේ වන විට වැලිකඩ බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් විමසීමට හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා අද පෙරවරුවේ බන්ධනාගාර රෝහලට පැමිණියේය. එහිදී මාධ්‍ය වේදීන් යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් හිටපු ජනපතිවරයා පැවැසුවේ දේශපාලනය කරනවානම් මෙවැනි දේවල් උරුම බවයි.
+
+"එතුමා ඕක ගණන් ගන්නේ නෑ මට පේන විදිහට. දේශපාලනය කරනවානම් ඕවා උරුමයි. එතුමත් ඒකට මුහුණ දෙනවා. දේශපාලන නායකයෝ මේ වගේ පොඩි දේවල් වලට අල්ලලා හිර ගෙවල් වලට දාන එක නම් වැරදියි කියලා තමයි මට කියන්න වෙන්නේ. මේක හොඳ කාර්යයක් නෙමෙයි. පළි ගැනීම තමයි වෙන දෙයක් නෙමෙයි නේ."
+
+◼️
+
+[Data](articles/66f1e6eb.json)
 
 ---
 
@@ -1823,25 +1837,5 @@ The transaction paves the way for a 40-story twin tower project that is set to b
 ...
 
 [Data](articles/69ec8e49.json)
-
----
-
-### Matheendra De Zoysa to lead Bangladesh LPG giant
-
-*2025-08-22 23:11:45* · [`dailyftlk`](https://www.ft.lk/business/Matheendra-De-Zoysa-to-lead-Bangladesh-LPG-giant/34-780644) · `en`
-
-Leading Bangladesh LPG downstream business Omera Petroleum has recently appointed Matheendra De Zoysa to lead its two companies, Omera LPG and Omera Cylinders Ltd.
-
-Omera is a subsidiary of MJL Bangladesh and its holding company East Coast Group, which is one of the largest private entities in Bangladesh spanning its business in LPG, lubricants, shipping, retail, ceramics, etc.
-
-Matheendra holds more than 25 years of experience across diverse business sectors starting his career with Caltex Lubricants in 2000 and had served as the Chief Operating Officer for LAUGFS Gas PLC and Lubricants prior to his assignment in Bangladesh.
-
-His previous experience in Bangladesh in IT and automotive sectors have facilitated him to be appointed for his new position as the Chief Executive Officer of Omera Petroleum.
-
-Matheendra is the first Sri Lankan appointed to such a higher post in the Bangladesh LPG industry. He is a product of Ananda College Colombo.
-
-◼️
-
-[Data](articles/d9a3bc32.json)
 
 ---

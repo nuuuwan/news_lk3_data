@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 04:51:09**
+As of **2025-08-24 05:06:46**
 
 ## Newspaper Stats
 
-*Scraped **71,959** Articles*
+*Scraped **71,961** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 609
 bbccomsinhala | 677
-colombotelegraphcom | 734
+colombotelegraphcom | 736
 economynextcom | 4,402
 islandlk | 4,421
 dailymirrorlk | 4,733
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,959 articles have been extended.
+61,973 (86.1%) of 71,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Public Sector Reform In Sri Lanka: The Battle To Dismantle The Predatory Syndicate
+
+*2025-08-23 23:16:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/public-sector-reform-in-sri-lanka-the-battle-to-dismantle-the-predatory-syndicate/) · `en`
+
+“The crisis consists precisely in the fact that the old is dying and the new cannot be born; in this interregnum, a great variety of morbid symptoms appear” —Antonio Gramsci.
+
+The National People’s Power (NPP) has launched a decisive assault on Sri Lanka’s dysfunctional public service, a cancerous system posing an existential threat to the NPP’s reform agenda. Many conscientious public officials have courageously broken ranks and are earnestly working to dismantle the toxic culture. This transformation would have been impossible to imagine under other political parties, whose entourages were complicit in corrupt practices they could not escape without risking their political survival. The government inherited a morass of graft and finds itself forced to begin reforms alongside compromised bureaucrats with connections to terrified ex-politicos and complicit businesses seeking to escape accountability and justice.
+
+...
+
+[Data](articles/106ed4e9.json)
+
+---
+
+### Human-Elephant Conflict, The Worst Animal Cruelty
+
+*2025-08-23 23:07:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/human-elephant-conflict-the-worst-animal-cruelty/) · `en`
+
+Sri Lanka records the highest number of elephant deaths in the world. The year 2023 marked one of the worst in recent memory, with 488 elephants killed and 182 human deaths reported due to the conflict. By mid-2024, another 388 elephants had already perished. (Dr Vipula Wanigasekera).  According to Wildlife Director General Ranjan Marasinghe, a total of 245 elephants has died this year due to various causes. Among them, 38 were electrocuted, while 13 were fatally struck by trains. The annual toll may exceed 500 lives of elephants by year-end.
+
+Despite shocking revelations by the media of the alarming figures of elephant deaths and animal cruelty no government had taken serious steps to address Human-elephant conflict.  Between 2015 and 2024, over 3,484 elephants have died due to this conflict, along with 1,195 human lives lost (VOA News, 2024).
+
+...
+
+[Data](articles/373228fe.json)
+
+---
 
 ### Government Must Work With Mandatory Fingerprint Attendance System
 
@@ -260,6 +288,20 @@ A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has bee
 
 ---
 
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-23 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
+
+---
+
 ### ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් බඳවා ගැනීමට අයදුම්පත් කැඳවයි
 
 *2025-08-23 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213715) · `si`
@@ -293,20 +335,6 @@ A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has bee
 ◼️
 
 [Data](articles/9559af95.json)
-
----
-
-### சுப்றீம்சற் ( SupremeSAT) ‘சிச்சீ’ யின் ரொக்கெட்  :அறியாமையால் பிரதமர் ஹரிணி செய்த தவறும் சேதத்தை சீர்செய்த  அமைச்சர் வசந்தவின் அறிக்கையும்
-
-*2025-08-23 17:57:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86315) · `en`
-
-ஜனாதிபதி அநுர குமார திசநாயக்கவின் ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) தலைமையிலான தேசிய மக்கள் சக்தி அரசாங்கம் பதவியில் இப்போது ஒரு வருடத்தை நெருங்குகிறது. ஜே.வி.பி. — தேசிய மக்கள் சக்தியின் 159 பாராளுமன்ற உறுப்பினர்களையும் உள்ளூராட்சி தேர்தல்களில் தேசிய மக்கள் சக்தி பெற்ற வெற்றிகளையும் அடிப்படையாகக் கொண்டு நோக்கும் போது விரைவாக அவர்களின் அரசாங்கத்தை பதவியில் இருந்து அகற்றுவதற்கு அண்மைய எதிர்காலத்தில் சாத்தியமில்லை என்றே தோன்றுகிறது.
-
-இருந்தாலும், பல எதிர்க்கட்சிகளின் தலைவர்கள் வேறு விதமாக நினைக்கிறார்கள் போன்று தெரிகிறது. இந்த எதிர்பார்ப்புகள் இரு சாத்தியப்பாடுகளில் தங்கியிருக்கின்றன. நாளடைவில் பொருளாதாரம் சீர்குலைந்து எரிபொருள்,  மின்சாரம், எரிவாயு மற்றும் அத்தியாவசிய உணவு வகைகளுக்கு தட்டுப்பாடும் மக்களினால் அவற்றை கொள்வனவு செய்வது கட்டுப்படியாகாத நிலை ஏற்பட்டு நெருக்கடி நிலைவரமும் தோன்றும் என்று சிலர் எதிர்பார்க்கிறார்கள். அநுரவின் அரசாங்கத்தைக் கவிழ்த்துவிடக்கூடிய  ” அறகலய ”  போன்ற  கொந்தளிப்பான நிலைவரம் ஏற்படும் என்பது இவர்களின் நம்பிக்கை.
-
-...
-
-[Data](articles/1f5db0e6.json)
 
 ---
 
@@ -623,6 +651,20 @@ Accordingly, prison authorities have decided to transfer former President Wickre
 ...
 
 [Data](articles/44a5f087.json)
+
+---
+
+### சுப்றீம்சற் ( SupremeSAT) ‘சிச்சீ’ யின் ரொக்கெட்  :அறியாமையால் பிரதமர் ஹரிணி செய்த தவறும் சேதத்தை சீர்செய்த  அமைச்சர் வசந்தவின் அறிக்கையும்
+
+*2025-08-23 15:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86315) · `en`
+
+ஜனாதிபதி அநுர குமார திசநாயக்கவின் ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) தலைமையிலான தேசிய மக்கள் சக்தி அரசாங்கம் பதவியில் இப்போது ஒரு வருடத்தை நெருங்குகிறது. ஜே.வி.பி. — தேசிய மக்கள் சக்தியின் 159 பாராளுமன்ற உறுப்பினர்களையும் உள்ளூராட்சி தேர்தல்களில் தேசிய மக்கள் சக்தி பெற்ற வெற்றிகளையும் அடிப்படையாகக் கொண்டு நோக்கும் போது விரைவாக அவர்களின் அரசாங்கத்தை பதவியில் இருந்து அகற்றுவதற்கு அண்மைய எதிர்காலத்தில் சாத்தியமில்லை என்றே தோன்றுகிறது.
+
+இருந்தாலும், பல எதிர்க்கட்சிகளின் தலைவர்கள் வேறு விதமாக நினைக்கிறார்கள் போன்று தெரிகிறது. இந்த எதிர்பார்ப்புகள் இரு சாத்தியப்பாடுகளில் தங்கியிருக்கின்றன. நாளடைவில் பொருளாதாரம் சீர்குலைந்து எரிபொருள்,  மின்சாரம், எரிவாயு மற்றும் அத்தியாவசிய உணவு வகைகளுக்கு தட்டுப்பாடும் மக்களினால் அவற்றை கொள்வனவு செய்வது கட்டுப்படியாகாத நிலை ஏற்பட்டு நெருக்கடி நிலைவரமும் தோன்றும் என்று சிலர் எதிர்பார்க்கிறார்கள். அநுரவின் அரசாங்கத்தைக் கவிழ்த்துவிடக்கூடிய  ” அறகலய ”  போன்ற  கொந்தளிப்பான நிலைவரம் ஏற்படும் என்பது இவர்களின் நம்பிக்கை.
+
+...
+
+[Data](articles/1f5db0e6.json)
 
 ---
 
@@ -1704,20 +1746,6 @@ The general public has also been requested to take adequate precautions to minim
 
 ---
 
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
-
-*2025-08-23 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
-
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
-
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
-
-...
-
-[Data](articles/d609682b.json)
-
----
-
 ### Former President Ranil Wickremesinghe Transferred to National Hospital from Prison Hospital due to Unstable Health Condition. Intensive Specialist care provided after steeo rise in Blood Pressure and Blood sugar levels
 
 *2025-08-23 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86311) · `en`
@@ -1831,45 +1859,5 @@ Earlier, the CID questioned former Presidential Secretary Saman Ekanayake and fo
 ◼️
 
 [Data](articles/996735db.json)
-
----
-
-### හිටපු ජනපති රනිල් බන්ධනාගාර රෝහලට
-
-*2025-08-23 00:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213681) · `si`
-
-රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර තිබේ.
-
-වෛද්‍ය උපදෙස් මත හිටපු ජනාධිපතිවරයා මෙලෙස බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බව සඳහන් වේ.
-
-'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ඊයේ (22) නියම කළේය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් සහ සැකකාර රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ අනූජ ප්‍රේමරත්න ඇතුළු නීතිඥ මණ්ඩලයක් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මෙහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය මෙම නියෝගය නිකුත් කළාය.
-
-...
-
-[Data](articles/a1985973.json)
-
----
-
-### Cardinal and Catholic Bishops’ Conference call on President
-
-*2025-08-23 00:26:24* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-and-Catholic-Bishops-Conference-call-on-President/56-780669) · `en`
-
-The Archbishop of Colombo, Cardinal Malcolm Ranjith on Wednesday met with President Anura Kumara Disanayake at the Presidential Secretariat.
-
-According to the President’s Office, the Archbishop was accompanied by members of the Catholic Bishops’ Conference of Sri Lanka for the meeting.
-
-During the meeting, Cardinal Malcolm Ranjith briefed President Disanayake on key matters discussed at the Catholic Bishops’ Conference, which is held three times a year.
-
-The discussion also focused on ideas and proposals that have emerged within the Catholic Church.
-
-Catholic Bishops’ Conference of Sri Lanka Chairman Bishop Harold Anthony Perera along with other members of the Conference, attended the meeting.
-
-◼️
-
-[Data](articles/2c91b08d.json)
 
 ---

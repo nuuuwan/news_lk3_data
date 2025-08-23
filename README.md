@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 07:16:42**
+As of **2025-08-23 08:00:00**
 
 ## Newspaper Stats
 
-*Scraped **71,871** Articles*
+*Scraped **71,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,908
-adaderanalk | 9,065
-tamilmirrorlk | 10,602
+adaderanalk | 9,067
+tamilmirrorlk | 10,603
 virakesarilk | 11,862
-adaderanasinhalalk | 12,427
+adaderanasinhalalk | 12,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,871 articles have been extended.
+61,973 (86.2%) of 71,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### නිව්යෝර්ක් හි සංචාරක බස් රථයක් අනතුරක
+
+*2025-08-23 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213687) · `si`
+
+අමෙරිකාවේ බටහිර නිව්යෝර්ක් හි සංචාරක බස් රථයක් අනතුරට ලක්වීමෙන් පුද්ගලයින් පස් දෙනෙකු මිය ගොස් තිබේ.
+
+විදෙස්වාර්තා සඳහන් කළේ, අමෙරිකානු -කැනඩා දේශසීමාවේ නයගරා දිය ඇල්ලේ සිට නිව්යෝර්ක් නගරයට ආපසු යමින් සිටි බස්රථයක් පාලනයෙන් ගිලිහී මෙම අනතුර සිදුව ඇති බවය.
+
+ඉන්දියාව, චීනය සහ පිලිපීනයෙන් පැමිණි සංචාරකයින් මෙම බස්රථයේ ගමන් කර තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ පුද්ගලයින් 52 දෙනෙකු ගමන් කර ඇති බව සඳහන්ය.
+
+අනතුරත් සමඟ පුද්ගලයින් බස්රථයෙන් ඉවතට විසිවී ගොස් ඇති අතර එරට පොලීසිය පවසන්නේ බොහෝ දෙනෙක් ආසන පටි පැළඳ නොසිට ඇති බවය.
+
+අනතුර සිදුවන අවස්ථාවේ බස්රථයේ ළමුන් කිහිපදෙනෙකු ද ගමන් කර ඇති අතර පුද්ගලයින් 21 දෙනෙකු තුවාල ලබා ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/853098ce.json)
+
+---
+
+### ධාවනය වූ බස් රථයේ බැටරි කාමරයේ දොර විවෘත වී මාරක අනතුරක්
+
+*2025-08-23 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213686) · `si`
+
+මාර්ගයේ ධාවනය වූ සුඛෝපභෝගී බස් රථයක බැටරි කාමරයේ දොර විවෘත වී මාර්ගයේ රැඳී සිටි පුද්ගලයෙකුගේ ශරීරයේ ගැටී අනතුරක් සිදුවී තිබේ.
+
+අදාළ බස් රථය කොළඹ දෙස සිට නුවරඑළිය දෙසට ධාවනය වූ බස් රථයක් බවත් කොළඹ හැටන් ප්‍රධාන මාර්ගයේ තැඹිලියාන ප්‍රදේශයේදී ඊයේ (22) දහවල් කාලයේදී මෙම අනතුර සිදුවී ඇති බවත් පොලීසිය පැවසීය.
+
+අනතුරින් තුවාල ලැබූ පුද්ගලයා අවිස්සාවේල්ල රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇත.
+
+මියගොස් ඇත්තේ වයස අවුරුදු 59 ක් වූ දෙහිඕවිට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෘතශරීරය අවිස්සාවේල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර අනතුර සිදු කළ බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව දෙහිඕවිට පොලීසිය වැඩිදුර පැවසීය.
+
+◼️
+
+[Data](articles/efb88177.json)
+
+---
+
+### දුම්රිය අවලංගු කිරීමක් ගැන දැනුම්දීමක්
+
+*2025-08-23 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213685) · `si`
+
+අද (23) සහ හෙට (24) යන දෙදින මුහුදුබඩ දුම්රිය මාර්ගයේ අත්‍යවශ්‍ය අලුත්වැඩියා කටයුත්තක් හේතුවෙන් දුම්රිය ගමන්වාර කිහිපයක් අවලංගු කර තිබේ.
+
+එලෙස අවලංගු කර ඇත්තේ, මුහුදුබඩ දුම්රිය මාර්ගයේ දොඩන්දුව සහ බුස්ස අතර දුම්රිය මාර්ගයේ දුම්රිය ගමන් වාර කිහිපයක් බව දුම්රිය සාමාන්‍යාධිකාරී, රවීන්ද්‍ර පත්මප්‍රිය මහතා නිවේදනය කරයි.
+
+01. ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.05.15 ට කොළඹ කොටුව බලා ධාවනය වීමට නියමිත අංක 8319 දුම්රිය
+
+02. මරදාන දුම්රිය ස්ථානයෙන් ප.ව.12.10 ට පිටත්ව ගාල්ල දක්වා ධාවනය වීමට නියමිත අංක 8788 දුම්රිය
+
+01. ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.05.00 ට කොළඹ කොටුව බලා ධාවනය වීමට නියමිත අංක 8327 සමුද්‍රදේවී දුම්රිය, ගාල්ල දුම්රිය ස්ථානයෙන් පැය 1ක් පමණ ප්‍රමාදකර පෙ.ව.06.30 ට ගමන් ආරම්භ කිරීම.
+
+02. ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.04.10 ට කොළඹ කොටුව බලා ධාවනය වීමට නියමිත අංක 8320 දුම්රිය ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.08.50 ට ගමන් ආරම්භ කිරීම.
+
+මීට අමතරව අද කොළඹ කොටුවෙන් ප.ව.07.30ට පිටත්ව ගාල්ල දක්වා ධාවනය වීමට නියමිත රාත්‍රී තැපැල් දුම්රිය හික්කඩුව දුම්රිය ස්ථානය දක්වා පමණක් ධාවනය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/e4b162a9.json)
+
+---
+
+### Island-wide postal strike enters day six
+
+*2025-08-23 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111755/island-wide-postal-strike-enters-day-six) · `en`
+
+The strike launched by postal workers will continue for the sixth consecutive day today (23).
+
+Chinthaka Bandara, the co-convener of the United Postal Trade Union Front stated that legal action will be taken regarding the unauthorised removal of mailbags stored at the Central Mail Exchange.
+
+The trade union action was launched on Sunday (17), over 19 demands.
+
+◼️
+
+[Data](articles/986680e7.json)
+
+---
 
 ### මාරක අනතුරු කිහිපයක් - 18 හැවිරිදි තරුණයෙකු ඇතුළු 4ක් මරුට
 
@@ -65,6 +147,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f6e38f4d.json)
+
+---
+
+### Showers or thundershowers expected in several provinces after 2pm today
+
+*2025-08-23 06:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111754/showers-or-thundershowers-expected-in-several-provinces-after-2pm-today) · `en`
+
+Showers or thundershowers will occur at several places in the Northern, North-Central, Central, Uva and Eastern provinces after 2:00 p.m. today (23), the Department of Meteorology said.
+
+A few showers can also be expected in the Western and Sabaragamuwa provinces and in the Galle and Matara districts, the Met. Department said.
+
+The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/372cd69e.json)
 
 ---
 
@@ -143,6 +241,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/73ad99ba.json)
+
+---
+
+### வெளிநாட்டிலிருந்து வந்த பெண் உயிரிழப்பு
+
+*2025-08-23 02:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-உயிரிழப்பு/175-363327) · `ta`
+
+கொலண்டிலிருந்து யாழ்ப்பாணம் வந்திருந்த நிலையில் வாந்தி எடுத்த குடும்பப் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+இவ்வாறு உயிரிழந்தவர் கந்தர் மடம் யாழ்ப்பாணத்தைச் சேர்ந்த சிவலிங்கம் ஜெயலட்சமி (வயது 61) என்ற மூன்று பிள்ளைகளைகளின்  தாயாராவார்.
+
+மேற்படி குடும்பப் பெண் கந்தர் மடத்தில் தங்கி இருந்த நிலையில் நேற்று வெள்ளிக் கிழமை அதிகாலை வாந்தி எடுத்த நிலையில் யாழ். போதனா வைத்தியசாலையில் அனுமதித்த போதும், சில மணித்தியாலங்களில் அவர் உயிரிழந்துள்ளார்.
+
+இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணை மேற்கொண்டார். சாட்சிகளை யாழ்ப்பாண பொலிஸார் நெறிப்படுத்தினர்.  (a)
+
+◼️
+
+[Data](articles/8975adf6.json)
 
 ---
 
@@ -780,21 +896,17 @@ After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapur
 
 *2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-237900/) · `en`
 
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested following a questioning, court reporters said.
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department after he came to give a statement.
 
-Shortly after the verdict was announced, crowds gathered outside the courthouse were heard shouting and hooting.
+Wickremesinghe was arrested over alleged the use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, during a foreign visit while he was President.
 
-Wickremesinghe was arrested over alleged misappropriation of funds during a foreign visit while he was president.
+The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
+
+A letter purportedly inviting him to the University of Wolverhamptom was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
 
 Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
 
-Days later parliament elected him as the 8th Executive President of the country, during the worst economic crisis of its post-independence history.
-
-He is credited for steering the island nation towards recovery.
-
-He served until Anura Disanayake was elected president on September 21, 2024. (Colombo/Aug22/2025)
-
-◼️
+...
 
 [Data](articles/f30e5366.json)
 
@@ -1328,7 +1440,7 @@ Lights then went out plunging the premises packed with officials, media and supp
 
 Wickremesinghe was asked earlier in the proceedings to step into the suspect’s cage, eliciting a loud gasp from people gathered outside.
 
-His arrest was over misappropriation of funds during a foreign visit while he was president, police sources said.
+His arrest was over the use of state funds for a stop-over in London while returning from a foreign visit while he was president.
 
 Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
 
@@ -1601,119 +1713,5 @@ When the National People’s Power took over the country’s rule, Sri Lanka was
 ...
 
 [Data](articles/cb2dd944.json)
-
----
-
-### හෙට උණුසුම් වන ප්‍රදේශ ගැන නිවේදනයක්
-
-*2025-08-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213664) · `si`
-
-ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (23) දිනයේද අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-අද (22) පස්වරු 3.30ට නිකුත්කරන ලද එම නිවේදනය හෙට දිනය සඳහා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-උතුරු, උතුරු - මැද සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මොණරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කළ යුතු” මට්ටමක පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් නිවේනදය කර තිබේ.
-
-◼️
-
-[Data](articles/c3297ff9.json)
-
----
-
-### ​ரணில் கைது: ஐ.ம.ச கண்டனம்
-
-*2025-08-22 16:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-ம-ச-கண்டனம்/175-363293) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க குற்றப் புலனாய்வுத் துறை (CID) முன் வாக்குமூலம் அளிக்க வந்தால், அவரை கட்டாயமாக விளக்கமறியலில் வைக்க வேண்டும் என்று பரிந்துரைத்த யூடியூபர் சுதாவின் கூற்றுக்கு ஐக்கிய மக்கள் சக்தி (SJB) உறுப்பினரும் வழக்கறிஞருமான லிஹினி பெர்னாண்டோ கடும் கண்டனம் தெரிவித்துள்ளார்.
-
-பிரபல யூடியூபர் சுதா, விக்கிரமசிங்கவை கைது செய்து, நீதிமன்றத்தில் ஆஜர்படுத்தி, 14 நாட்கள் தடுப்பு காவலில் வைக்க வேண்டும் என்று கூறியிருந்தார், மேலும் அத்தகைய நடவடிக்கை எடுக்கப்படாவிட்டால் அவரது நிகழ்ச்சிகளை நிறுத்துவதாகவும் உறுதியளித்தார். இந்தக் கருத்துக்களை "ஆதாரமற்றது மற்றும் பொறுப்பற்றது" என்று பெர்னாண்டோ விவரித்தார், இது நீதித்துறை மீதான பொதுமக்களின் நம்பிக்கையை குறைமதிப்பிற்கு உட்படுத்துகிறது என்று லிஹினி பெர்னாண்டோ வலியுறுத்தினார்.
-
-...
-
-[Data](articles/ba9b0544.json)
-
----
-
-### Sri Lanka stocks dip 0.32-pct, weighted down by capital goods, financials
-
-*2025-08-22 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-0-32-pct-weighted-down-by-capital-goods-financials-237887/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) fell 0.32 percent, data on its site showed.
-
-The ASPI fell 66.29 points on Friday to close at 20,649.20; while the S&P SL20 index dipped 0.21 percent, or 12.86 points, to close at 6,095.63.
-
-The ASPI was weighted down by Ceylinco Holdings which ended 178.50 rupees down at 3,021; Commercial Bank which ended 2.25 rupees weaker at 195.25; DFCC Bank which ended 3.50 rupees up at 162.25; Carson Cumberbatch which moved 39 rupees down to 800.25; and Melstacorp which closed 1.75 rupees lower at 162.25.
-
-Turnover fell to 5.1 billion, while the share volume was 181,232,722.
-
-Elsewhere, the Pakistan Stock Exchange’s KSE 100 Index was trading 0.53 percent stronger at 150,019.23.
-
-India’s Nifty 50 fell 0.85 percent to 24,870.10, while the BSE Sensex was 0.85 percent up at 81,306.85.
-
-Meanwhile, Tokyo’s Nikkei 225 index ended slightly higher on financials, Japan’s The Mainichi newspaper said.
-
-...
-
-[Data](articles/2943fe08.json)
-
----
-
-### UNP releases Ranil’s invitation letter in response to allegations over UK trip
-
-*2025-08-22 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111743/unp-release-ranils-invitation-letter-in-response-to-allegations-over-uk-trip-) · `en`
-
-The United National Party’s (UNP) media unit has released a copy of the officially invitation letter sent by the University of Wolverhampton to former President Ranil Wickremesinghe and his wife, Professor Maithree Wickremesinghe.
-
-In its statement, the UNP media unit claimed that the former President had not misused state funds in relation to his visit to the United Kingdom.
-
-Former President Wickremesinghe was arrested today (22) after arriving at the Criminal Investigation Department (CID) to record a statement in connection with an ongoing investigation.
-
-Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
-
-Ranil Wickremesinghe had stopped in London in 2023 on his way back from Havana, where he attended a G77 summit.
-
-He and his wife, Maithree, attended a University of Wolverhampton ceremony.
-
-...
-
-[Data](articles/3733c77a.json)
-
----
-
-### UNP releases Ranil’s invitation letter in response to allegations over UK trip
-
-*2025-08-22 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111743/unp-releases-ranils-invitation-letter-in-response-to-allegations-over-uk-trip-) · `en`
-
-The United National Party’s (UNP) media unit has released a copy of the officially invitation letter sent by the University of Wolverhampton to former President Ranil Wickremesinghe and his wife, Professor Maithree Wickremesinghe.
-
-In its statement, the UNP media unit claimed that the former President had not misused state funds in relation to his visit to the United Kingdom.
-
-Former President Wickremesinghe was arrested today (22) after arriving at the Criminal Investigation Department (CID) to record a statement in connection with an ongoing investigation.
-
-Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
-
-Ranil Wickremesinghe had stopped in London in 2023 on his way back from Havana, where he attended a G77 summit.
-
-He and his wife, Maithree, attended a University of Wolverhampton ceremony.
-
-...
-
-[Data](articles/80991482.json)
-
----
-
-### මියන්මාර - ඉන්දියානු දේශසීමාව ආසන්නයේ ප්‍රබල භූකම්පනයක්
-
-*2025-08-22 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213663) · `si`
-
-විදෙස් මාධ්‍ය වාර්තා කළේ රිච්ටර් මාපකයේ ඒකක 5.6ක ප්‍රබලත්වයෙන් යුතුව මෙම භූකම්පනය සිදුව ඇති බවය.
-
-පොළොව මට්ටමේ සිට කිලෝමීටර් 10ක් ගැඹුරින් මෙම භූකම්පනය සිදුව ඇති බව සදහන් වේ.
-
-භූකම්පනයෙන් කිසිදු ජීවිත හෝ දේපල හානියක් සිදුව නොමැති අතර සුනාමි අනතුරු ඇඟවීම් ද නිකුත් කර නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-◼️
-
-[Data](articles/aea39090.json)
 
 ---

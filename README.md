@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 21:49:09**
+As of **2025-08-23 22:07:59**
 
 ## Newspaper Stats
 
-*Scraped **71,952** Articles*
+*Scraped **71,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,913
 adaderanalk | 9,087
 tamilmirrorlk | 10,617
 virakesarilk | 11,862
-adaderanasinhalalk | 12,460
+adaderanasinhalalk | 12,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,952 articles have been extended.
+61,973 (86.1%) of 71,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ජනාධිපති අරමුදලෙන් සබරගමුව පළාතේ උසස් පෙළ විශිෂ්ටයෝ අගයයි
+
+*2025-08-23 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213719) · `si`
+
+ජනාධිපති අරමුදලෙන් ක්‍රියාත්මක කරන 2023/2024 අ.පො.ස උසස් පෙළ විභාගයේදී දිස්ත්‍රික් මට්ටමින් ඉහළ දක්ෂතා දැක් වූ විශිෂ්ටයන් ඇගයීමේ සබරගමුව පළාත් වැඩසටහන කතානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (23) රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලයීය ශ්‍රවණාගාරයේදි පැවැත්විණි.
+
+මෙහිදී රත්නපුර සහ කෑගල්ල දිස්ත්‍රික්කයන්හි 2023 හා 2024 වර්ෂවලට අදාළ අ.පො.ස උසස් පෙළ විභාගයේදී, විෂය ධාරා 6 යටතේ ඉහළ ප්‍රතිඵල ලබා ගත් සිසුන් 10 දෙනකු බැගින්, සිසුන් 360 දෙනකුට රුපියල් ලක්ෂය බැගින් වූ දිරි දීමනාවක් සහ සහතික පත් ප්‍රදානය කිරීම සිදු කෙරිණි.
+
+මේ සඳහා ජනාධිපති අරමුදල වැය කර ඇති මුදල රුපියල් මිලියන 36කි.
+
+එහිදී සිසු දරුවන් ඇමතූ කතානායක ජගත් වික්‍රමරත්න මහතා සඳහන් කළේ රාජ්‍ය දේපළ ජනතාවගේ අනාගත අභිවෘද්ධිය වෙනුවෙන් යෙදවීම රජයක වගකීම වන අතර ජනාධිපති අරමුදල මේ වන විට එම වගකීම නිසි ලෙසම ඉටු කරමින් සිටින බවය.
+
+එමෙන්ම දැනුම, කුසලතා සහ ආකල්ප වර්ධනය කරගත් අනාගත පරපුරක් රටට අවශ්‍ය බවත්, වත්මන් රජයේ නව අධ්‍යාපන ප්‍රතිපත්තිවලින් බිහි කිරීමට අපේක්ෂා කරන්නේ එවන් පරපුරක් බවත් කතානායකවරයා පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/a7868190.json)
+
+---
 
 ### අමෙරිකාවේ කර්මාන්ත ශාලාවක  දැවැන්ත පිපිරීමක්
 
@@ -1841,19 +1861,5 @@ Wickremesinghe, whose lawyers said was suffering from heart disease and diabetes
 ...
 
 [Data](articles/9c41db6f.json)
-
----
-
-### The show must not go on, Sri Lanka
-
-*2025-08-23 00:18:52* · [`dailyftlk`](https://www.ft.lk/columns/The-show-must-not-go-on-Sri-Lanka/4-780660) · `en`
-
-On the ground level, where real life trumps dreams and the carnival-like atmosphere of the socio-political circus – things are still hard for the kos polos type of voter
-
-Some days are better by far than others. There you go again then, blithe spirit, blissfully humming that the lark’s on the wing, the snail’s on the thorn, God is in heaven, all’s right with the world. And to the other place beginning with the same letter as heaven with the likes of Sunil H to whom life is nothing but one big question mark...
-
-...
-
-[Data](articles/c1d79b59.json)
 
 ---

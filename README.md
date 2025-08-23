@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 20:31:56**
+As of **2025-08-23 20:48:37**
 
 ## Newspaper Stats
 
-*Scraped **71,949** Articles*
+*Scraped **71,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,913
 adaderanalk | 9,087
 tamilmirrorlk | 10,616
 virakesarilk | 11,862
-adaderanasinhalalk | 12,458
+adaderanasinhalalk | 12,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,949 articles have been extended.
+61,973 (86.1%) of 71,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### මහවැලි ගඟේ ගිලී තරුණ‍යෙකු ජීවිතක්ෂයට
+
+*2025-08-23 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213717) · `si`
+
+පොල්ගොල්ල මහවැලි වේල්ලට ආසන්නයේ උඩඟුන්නෑපාන ප්‍රදේශයේ දී දියේ ගිලීමෙන් තරුණ‍යෙකු අද (23) ජීවිතක්ෂයට පත්ව තිබේ.
+
+අදාළ තරුණයා මිතුරන් පිරිසක් සමඟ මහවැලි ගඟේ දිය නෑමට ගොස් ඇති අතර එහිදී මෙම අනතුරට ලක්ව ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 18ක් වන කටුගස්තොට ප්‍රදේශයේ පදිංචි සංදීප කුමාර නැමැති තරුණයෙකි.
+
+කෙසේ වෙතත් මේ බව මහවැලි අධිකාරිය දැනුවත් කිරීමෙන් අනතුරුව පොල්ගොල්ල වේල්ල දොරටු වසා පහළ කොටසේ ජලය අඩු කිරීමෙන් පසුව මියගිය තරුණයාගේ මළ සිරුර දියේ තිබී සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/be7b1b1d.json)
+
+---
 
 ### ණය සහනදායක මණ්ඩලයීය දෙපාර්තමේන්තුවට සාමාජිකයින් පත් කරයි
 
@@ -1837,17 +1855,5 @@ Climate change adaptation refers to measures that reduce climate-related risks a
 ...
 
 [Data](articles/3145ab75.json)
-
----
-
-### Rules-based order at risk: Return of power politics
-
-*2025-08-22 23:31:03* · [`dailyftlk`](https://www.ft.lk/columns/Rules-based-order-at-risk-Return-of-power-politics/4-780655) · `en`
-
-These cases, though diverse, reveal a consistent pattern. Treaty obligations are observed selectively, depending on political convenience. Legal mechanisms are bypassed, as governments resort to unilateral measures over arbitration. Enforcement is shaped by alliances and geopolitics rather than universal principles. The rules-based order is being hollowed out—not with one decisive blow, but through the steady erosion of credibility
-
-...
-
-[Data](articles/ffd34b76.json)
 
 ---

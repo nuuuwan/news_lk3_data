@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 21:31:50**
+As of **2025-08-23 21:49:09**
 
 ## Newspaper Stats
 
-*Scraped **71,951** Articles*
+*Scraped **71,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,913
 adaderanalk | 9,087
 tamilmirrorlk | 10,617
 virakesarilk | 11,862
-adaderanasinhalalk | 12,459
+adaderanasinhalalk | 12,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,951 articles have been extended.
+61,973 (86.1%) of 71,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### අමෙරිකාවේ කර්මාන්ත ශාලාවක  දැවැන්ත පිපිරීමක්
+
+*2025-08-23 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213718) · `si`
+
+විදෙස් මාධ්‍ය වාර්තා කළේ ලිහිසි තෙල් නිෂ්පාදනය කරනු ලබන කර්මාන්ත ශාලාවක මෙම පිපිරීම සිදුව ඇති බවය.
+
+පිපිරීමත් සමඟ විශාල දුමාරයක් හටගෙන ඇති අතර ශ්වසන අපහසුතා ඇති වීම වළක්වා ගැනීම සඳහා එම කර්මාන්ත ශාලාව අවට නිවෙස්වල පදිංචිකරුවන් ඉවත් කිරීමට ද කටයුතු කර ඇත.
+
+පිපිරීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර තුවාල ලැබූ පුද්ගලයින් සම්බන්ධයෙන් ද මෙතෙක් තොරතුරු වාර්තා කර නොමැති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේය.
+
+◼️
+
+[Data](articles/ba8693c2.json)
+
+---
 
 ### ரணிலுக்கு நிதியை அங்கீகரித்த சமன் ஏக்கநாயக்க தொடர்பிலும் விசாரணை
 
@@ -1839,23 +1855,5 @@ Some days are better by far than others. There you go again then, blithe spirit,
 ...
 
 [Data](articles/c1d79b59.json)
-
----
-
-### 2025-08-22 (Friday)
-
-### President hits pause on Mannar: Will SL’s present Govt. finally press play on real energy reform?
-
-*2025-08-22 23:38:49* · [`dailyftlk`](https://www.ft.lk/columns/President-hits-pause-on-Mannar-Will-SL-s-present-Govt-finally-press-play-on-real-energy-reform/4-780657) · `en`
-
-Agrovoltaics allows solar panels to be installed above farmland, generating electricity while crops continue to grow
-
-The Mannar pause is not a defeat. It is a blessing in disguise. It forces us to confront the uncomfortable truth: our renewable energy strategy has been haphazard, politically manipulated, and environmentally shortsighted
-
-The Mannar pause has proven that past warnings were not unfounded. But this moment is not a failure—it’s an opportunity to re-evaluate and correct the mistakes of past governments. A golden opportunity to reimagine with the right plan for Sri Lanka’s energy future with boldness, pragmatism, and fairness for all. An opportunity to bring solar and agrovoltaics into the mainstream of our strategy, taking into account Sri Lanka’s resources rather than merely imitating trends of another completely different territory
-
-...
-
-[Data](articles/8afeb545.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 22:20:48**
+As of **2025-08-23 22:32:44**
 
 ## Newspaper Stats
 
-*Scraped **71,954** Articles*
+*Scraped **71,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,913
-adaderanalk | 9,087
+adaderanalk | 9,089
 tamilmirrorlk | 10,617
 virakesarilk | 11,862
 adaderanasinhalalk | 12,462
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,954 articles have been extended.
+61,973 (86.1%) of 71,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Newly appointed IGP Priyantha Weerasuriya calls on PM Harini
+
+*2025-08-23 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111777/newly-appointed-igp-priyantha-weerasuriya-calls-on-pm-harini-) · `en`
+
+The 37th Inspector General of Police of Sri Lanka, Attorney-at-Law Priyantha Weerasuriya, officially met with Prime Minister Dr. Harini Amarasuriya, according to the Prime Minister’s Media Division.
+
+Senior Deputy Inspector General of Police Priyantha Weerasuriya, who was recently appointed as the 37th Inspector General of Police of the Democratic Socialist Republic of Sri Lanka, held the official meeting with the Prime Minister on 22 August at the Prime Minister’s Office following his assumption of duties.
+
+Secretary to the Prime Minister, Mr. Pradeep Saputanthri, was also present on the occasion.
+
+◼️
+
+[Data](articles/37495be5.json)
+
+---
 
 ### සාමය සඳහා එළැඹෙන්නේ නැතිනම් ට්‍රම්ප්ගෙන් රුසියාවට සම්බාධක
 
@@ -101,6 +117,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7095011b.json)
+
+---
+
+### Former President Ranil Wickremesinghe admitted to ICU
+
+*2025-08-23 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111776/former-president-ranil-wickremesinghe-admitted-to-icu-) · `en`
+
+Former President Ranil Wickremesinghe, who was initially receiving treatment at the Prison Hospital, has been transferred to the Colombo National Hospital and admitted to the Intensive Care Unit (ICU).
+
+Hospital sources reported that the former President was moved to the ICU due to dehydration.
+
+The transfer was carried out on the recommendation of Prison Hospital doctors following medical examinations.
+
+Wickremesinghe, who was remanded until August 26 after being arrested by the Criminal Investigation Department (CID), was admitted to the Prison Hospital last night (22).
+
+He was placed under medical care there due to high blood pressure and elevated blood sugar levels.
+
+Prison Hospital doctors, who have been continuously monitoring his health, also recommended that he be permitted to receive meals from home. Approval for this arrangement has reportedly been granted by Prison Headquarters.
+
+◼️
+
+[Data](articles/a7982cc8.json)
 
 ---
 
@@ -1831,39 +1869,5 @@ The Chinese Embassy in Sri Lanka held a grand reception in Colombo on Wednesday 
 ...
 
 [Data](articles/b1b9ed69.json)
-
----
-
-### Russian Geographical Society’s 180th anniversary
-
-*2025-08-23 00:25:08* · [`dailyftlk`](https://www.ft.lk/news/Russian-Geographical-Society-s-180th-anniversary/56-780665) · `en`
-
-The Centre of the Russian Geographical Society in Sri Lanka yesterday celebrated the Russian Geographical Society’s 180th anniversary at the Colombo Public Library with the presence of Deputy Minister of Environment Anton Jayakodi and Colombo Mayor Vraie Cally Balthazaar, as Chief Guests.
-
-The Russian Geographical Society (RGS), established in 1845, is a learned society dedicated to geographical research and exploration, with a focus on Russia and its surrounding territories. It’s one of the oldest geographical societies in the world, playing a significant role in the country’s history and development. Councillor of the Russian Embassy in Sri Lanka and Director of the Russian House in Colombo Maria Popova was also present.
-
-The special occasion featured the planting of 180 plants of various kinds at the Colombo Public Library premises which benefits the library too. A special photo Exhibition on the history of the RGS was also part of the celebration.
-
-◼️
-
-[Data](articles/cb8cc42e.json)
-
----
-
-### Committee on High Posts approves appointments of Ambassador, two Ministry Secretaries, and four Chairmen
-
-*2025-08-23 00:25:01* · [`dailyftlk`](https://www.ft.lk/news/Committee-on-High-Posts-approves-appointments-of-Ambassador-two-Ministry-Secretaries-and-four-Chairmen/56-780664) · `en`
-
-The Committee on High Posts at its meeting held recently approved the appointments of an Ambassador, two Ministry Secretaries, and four Chairmen.
-
-Accordingly, the Committee approved the nomination of Wijesinghe Arachchige Kapila Sanjeewa De Alwis as the Ambassador of Sri Lanka to the Sultanate of Oman.
-
-The Committee on High Posts also approved the appointments of M.A.L.S.N.K. Manthrinayake as the Rural Development, Social Security, and Community Empowerment Ministry Secretary and J.M. Thilaka Jayasundara as the Industry and Entrepreneurship Development Ministry Secretary.
-
-Furthermore, the appointments of Kavinda de Zoysa as the Chairman of the Bank of Ceylon, Priyantha Wedamulla as the Chairman of the Independent Television Network Ltd., Pravir D. Samarasinghe as the Chairman of the Hotel Developers (Lanka) Ltd., and Jayathissa Anaththa Pathiranage as the Chairman of the Central Engineering Consultancy Bureau have been approved by the Committee on High Posts.
-
-◼️
-
-[Data](articles/e3a8eb44.json)
 
 ---

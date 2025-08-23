@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 20:06:54**
+As of **2025-08-23 20:19:05**
 
 ## Newspaper Stats
 
-*Scraped **71,946** Articles*
+*Scraped **71,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,913
 adaderanalk | 9,087
 tamilmirrorlk | 10,616
 virakesarilk | 11,862
-adaderanasinhalalk | 12,457
+adaderanasinhalalk | 12,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,946 articles have been extended.
+61,973 (86.1%) of 71,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ණය සහනදායක මණ්ඩලයීය දෙපාර්තමේන්තුවට සාමාජිකයින් පත් කරයි
+
+*2025-08-23 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213716) · `si`
+
+අධිකරණ අමාත්‍යාංශය යටතේ ඇති ණය සහනදායක මණ්ඩලයීය දෙපාර්තමේන්තුව සඳහා අධ්‍යක්ෂක මණ්ඩලය සහ සාමාජිකයින් වෙත පත්වීම් ලිපි ප්‍රදානය කිරීම පාර්ලිමේන්තු පරිශ්‍රයේදී සිදු විය.
+
+ඒ අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙනි.
+
+කොළඹ, ගම්පහ, කුරුණෑගල, ගාල්ල යන ණය සහනදායක මණ්ඩල සාමාජිකයින් සඳහා මෙහිදී පත්වීම් ලිපි ප්‍රදානය කෙරිණි.
+
+මෙම මණ්ඩලය අමාත්‍යවරයා විසින් පත් කරනු ලබන අතර ඉන් එක් සමාජිකයෙකු මණ්ඩලයේ සභාපති ලෙස අමාත්‍යවරයා විසින් පත්කරනු ලබයි.
+
+එමෙන්ම මෙහි රාජකාරී කටයුතු සාමාන්‍ය අධිකරණයක පවත්නා ස්වරූපයට වඩා වෙනස් වන අතර මණ්ඩලය ඉදිරියේදි එළඹෙන ගිවිසුම් පාර්ශවකරුවන් ඔවුනොවුන්ගේ කැමැත්තෙන් එළ‍ඹෙන ගිවිසුම් වේ.
+
+කෙසේ වෙතත් අසාධාරණ පොලී ප්‍රමාණයන් අඩු කිරිමටද මණ්ඩලය විසින් ඉදිරිපත් කරනු ලබන සාධාරණ යෝජනා ණය හිමියන් විසින් පිළිනොගන්නේ නම් ඒ සම්බන්ධයෙන් ආඥාපනත යටතේ ණයකරුවන්ට සහතිකයක් නිකුත් කිරීමටද මෙම මණ්ඩලයට බලතල ඇත.
+
+...
+
+[Data](articles/bd1d8a4e.json)
+
+---
 
 ### India says US trade negotiations are still going on as fresh tariffs loom
 
@@ -1821,21 +1843,5 @@ In 2021, Sri Lanka was rocked by over 400 cooking gas explosions – many fatal,
 ◼️
 
 [Data](articles/8615d2e5.json)
-
----
-
-### Estate Lake facilitates Colombo’s largest property deal valued at Rs. 4.5 b
-
-*2025-08-22 23:12:33* · [`dailyftlk`](https://www.ft.lk/business/Estate-Lake-facilitates-Colombo-s-largest-property-deal-valued-at-Rs-4-5-b/34-780645) · `en`
-
-Estate Lake Real Estate yesterday said it facilitated a historic transaction valued at Rs. 4.5 billion for Home Lands Holding, marking the largest recorded real estate deal in Colombo’s history.
-
-The transaction paves the way for a 40-story twin tower project that is set to become a landmark on the city’s skyline. This milestone underscores Estate Lake’s unmatched ability to connect high-value opportunities with strategic investors. Known for its professionalism, market insight, and client-centric approach, the company has consistently delivered results that redefine industry benchmarks.
-
-“This achievement is a testament not only to the reach of our network but also to the confidence our clients place in our integrity, professionalism, and commitment to excellence,” said Estate Lake Real Estate Managing Director Malik Zaveer, adding, “We take pride in contributing to the growth in the industry while maintaining the highest standards of service in every transaction.”
-
-...
-
-[Data](articles/69ec8e49.json)
 
 ---

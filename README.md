@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 20:48:37**
+As of **2025-08-23 21:06:43**
 
 ## Newspaper Stats
 
-*Scraped **71,950** Articles*
+*Scraped **71,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,913
 adaderanalk | 9,087
-tamilmirrorlk | 10,616
+tamilmirrorlk | 10,617
 virakesarilk | 11,862
 adaderanasinhalalk | 12,459
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,950 articles have been extended.
+61,973 (86.1%) of 71,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ரணிலுக்கு நிதியை அங்கீகரித்த சமன் ஏக்கநாயக்க தொடர்பிலும் விசாரணை
+
+*2025-08-23 20:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-நிதியை-அங்கீகரித்த-சமன்-ஏக்கநாயக்க-தொடர்பிலும்-விசாரணை/175-363342) · `ta`
+
+ரணில் விக்ரமசிங்கவின் வெளிநாட்டுப் பயணத்திற்கான நிதியை அங்கீகரித்தமை தொடர்பாக முன்னாள் ஜனாதிபதியின் செயலாளர் சமன் ஏகநாயக்கவுக்கு எதிராக தற்போது விசாரணைகள் நடைபெற்று வருவதாக பொலிஸ் தலைமையக சட்டப்பிரிவுக்கு பொறுப்பான பிரதி பொலிஸ்மாஅதிபர் காலிங்க ஜயசிங்க இன்று தெரிவித்துள்ளார்.
+
+விசாரணைகள் தொடருந்து நடந்து வருவதால், சமன் ஏக்கநாயக்க கைது செய்யப்பட்டுவாரா என்பது குறித்து எதுவும் கூற முடியாது என்றும் அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/7095011b.json)
+
+---
 
 ### මහවැලි ගඟේ ගිලී තරුණ‍යෙකු ජීවිතක්ෂයට
 
@@ -1843,17 +1857,5 @@ The Mannar pause has proven that past warnings were not unfounded. But this mome
 ...
 
 [Data](articles/8afeb545.json)
-
----
-
-### Integrating cross-cutting considerations into national adaptation planning
-
-*2025-08-22 23:34:32* · [`dailyftlk`](https://www.ft.lk/columns/Integrating-cross-cutting-considerations-into-national-adaptation-planning/4-780656) · `en`
-
-Climate change adaptation refers to measures that reduce climate-related risks and impacts on people, ecosystems, and economies while identifying and seizing opportunities for green growth and a just economic transition. National adaptation plans (NAPs) are often the cornerstone of countries’ efforts to identify their vulnerabilities, set adaptation priorities, mobilise finance for implementation, and track progress. However, incorporating cross-cutting considerations—for example, youth, gender, human mobility, or entrepreneurship—into these plans presents an important challenge.
-
-...
-
-[Data](articles/3145ab75.json)
 
 ---

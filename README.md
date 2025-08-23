@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 05:31:45**
+As of **2025-08-23 06:08:30**
 
 ## Newspaper Stats
 
-*Scraped **71,860** Articles*
+*Scraped **71,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
 economynextcom | 4,399
-islandlk | 4,413
+islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,908
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,860 articles have been extended.
+61,973 (86.2%) of 71,868 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -534,6 +534,36 @@ The 1333 Bikeathon charts a powerful journey across Sri Lanka, from southern coa
 
 ---
 
+### Pan Asia Bank IT team wins at the Global Infosys Finacle Innovation Awards 2025
+
+*2025-08-22 22:35:00* · [`islandlk`](http://island.lk/pan-asia-bank-it-team-wins-at-the-global-infosys-finacle-innovation-awards-2025/) · `en`
+
+Pan Asia Banking Corporation PLC has once again elevated Sri Lanka’s reputation on the global financial stage by winning the prestigious Platinum Award for Maximizing Customer Engagement at the Infosys Finacle Innovation Awards 2025, marking its second consecutive global recognition following last year’s success.
+
+This year’s winning initiative, the pioneering “Falcon Eye” platform, delivers a revolutionary 360-degree customer view by seamlessly consolidating all critical insights from core banking and related systems into a single, unified interface. This integration provides staff with real-time, centralized information that not only enhances service speed and accuracy but also enables effective cross-selling opportunities by offering a complete picture of each customer’s financial portfolio. In addition, it empowers management with deep, data-driven visibility into customer relationships, supporting smarter, faster, and more strategic decision-making.
+
+...
+
+[Data](articles/1af304ed.json)
+
+---
+
+### Prem Watsa’s visit underscores Fairfax’s long-term commitment to Sri Lanka
+
+*2025-08-22 22:34:00* · [`islandlk`](http://island.lk/prem-watsas-visit-underscores-fairfaxs-long-term-commitment-to-sri-lanka/) · `en`
+
+Fairfirst Insurance had the honour of welcoming Prem Watsa, Chairman and Chief Executive Officer of Fairfax Financial Holdings Limited, to its head office in Colombo on 14 August 2025. Returning to Sri Lanka after six years, his visit reaffirmed the Fairfax Group’s strong and ongoing commitment to the country.
+
+Even during the most challenging years of Sri Lanka’s economic crisis, Fairfirst stood firmly by its people—ensuring stability for employees and continuity for customers at a time when uncertainty was widespread. The Chairman’s visit was a meaningful recognition of that resilience and a celebration of the company’s values in action.
+
+Watsa acknowledged Sri Lanka’s remarkable recovery in the aftermath of the 2022 crisis, noting how the country has steadily regained its footing through bold reforms, improved governance, and renewed investor confidence.
+
+...
+
+[Data](articles/dcf3f75e.json)
+
+---
+
 ### கோட்டை நீதிமன்ற வளாகத்தில் பதற்றம்
 
 *2025-08-22 22:31:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதிமன்ற-வளாகத்தில்-பதற்றம்/175-363311) · `ta`
@@ -561,6 +591,54 @@ The 1333 Bikeathon charts a powerful journey across Sri Lanka, from southern coa
 ◼️
 
 [Data](articles/88a648e0.json)
+
+---
+
+### SDB bank delivers resilient performance in Q2 2025
+
+*2025-08-22 22:28:00* · [`islandlk`](http://island.lk/sdb-bank-delivers-resilient-performance-in-q2-2025/) · `en`
+
+As a progressive development bank with a unique mandate, SDB bank continues to position itself at the intersection of financial inclusion, cooperative values, and digital innovation. Rooted in community and cooperative banking principles, the Bank plays a vital role in uplifting underserved segments particularly women entrepreneurs, MSMEs, and rural populations while scaling its reach through digital channels and customer-centric solutions. With its strategic focus on sustainability, social impact, and inclusive finance, SDB bank has steadily grown into one of Sri Lanka’s most purpose-driven financial institutions.
+
+...
+
+[Data](articles/7b9426e2.json)
+
+---
+
+### NDB Toastmasters Club ushers in a new era of leadership at 13th Executive Committee Installation
+
+*2025-08-22 22:28:00* · [`islandlk`](http://island.lk/ndb-toastmasters-club-ushers-in-a-new-era-of-leadership-at-13th-executive-committee-installation/) · `en`
+
+NDB Bank proudly celebrated the 13th Executive Committee Installation Ceremony of the NDB Toastmasters Club on 6 August 2025 at the Hilton Colombo Residencies, an evening marked by leadership, fellowship, and inspiration, reflecting the Bank’s commitment to nurturing talent, empowering communication, and fostering personal and professional growth among its employees.
+
+The ceremony was graced by Mr. Lasantha Dasanayaka, Vice President – Human Resources at NDB Bank, who attended as Chief Guest, while the Guest of Honour was distinguished Toastmaster Niroshan Nadarajah, District Director – District 82, who delivered a motivational address to the newly appointed leaders. District officials DTM Bhathiya Hettiarachchi (Program Quality Director) and DTM Piyakara Jayaratne (Club Growth Director) added their presence to the occasion.
+
+...
+
+[Data](articles/9d24eb1e.json)
+
+---
+
+### Month-end profit-takings weigh down on bourse; Ambeon Capital figures in notable share transaction
+
+*2025-08-22 22:27:00* · [`islandlk`](http://island.lk/month-end-profit-takings-weigh-down-on-bourse-ambeon-capital-figures-in-notable-share-transaction/) · `en`
+
+Ambeon Capital said it had acquired a 6.8 percent stake of the ordinary voting shares of Ceylon Hotels Corporation for Rs 320 million. This constitutes 12,310,543 shares.Ambeon Holdings paid Rs 26 per share, the company said in a stock exchange filing.
+
+A Ceylon Hotels Corporation stock was trading down 60 cents at Rs 32,whileAmbeon Holdings said it had acquired a 6.09 percent stake of the ordinary voting shares of The Kandy Hotels Corporation (1938) PLC for Rs 550.8 million.
+
+Ambeon Holdings paid Rs 12 per share, the company said in a stock exchange filing.
+
+The Kandy Hotels Corporation (1938) stock was trading down 30 cents at Rs 17.50.
+
+Kandy Hotels Company (1938), a subsidiary of Ceylon Hotels Corporation PLC, owns the Queen’s Hotel and Hotel Suisse located in Kandy.
+
+Meanwhile CSE trading activities were down yesterday due to month end profit- takings.
+
+...
+
+[Data](articles/1a5c74e3.json)
 
 ---
 
@@ -1627,85 +1705,5 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 ◼️
 
 [Data](articles/01cb9563.json)
-
----
-
-### ரணிலை கைது செய்த ரசீது
-
-*2025-08-22 15:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைது-செய்த-ரசீது/175-363290) · `ta`
-
-குற்றப் புலனாய்வுத் துறையால் (CID) கைது செய்யப்பட்டதைத் தொடர்ந்து முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு கைது ரசீது வழங்கப்பட்டது,
-
-அவர் பொதுச் சொத்துச் சட்டத்தின் பிரிவு 5(1) மற்றும் குழு குறியீட்டின் பிரிவுகள் 386, 388 இன் கீழ் குற்றங்களைப் புரிந்திருப்பதைக் குறிக்கிறது.
-
-◼️
-
-[Data](articles/01129799.json)
-
----
-
-### ரணிலை கைது செய்த ரசீது இணைப்பு
-
-*2025-08-22 15:55:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைது-செய்த-ரசீது-இணைப்பு/175-363290) · `ta`
-
-குற்றப் புலனாய்வுத் துறையால் (CID) கைது செய்யப்பட்டதைத் தொடர்ந்து முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு கைது ரசீது வழங்கப்பட்டது,
-
-அவர் பொதுச் சொத்துச் சட்டத்தின் பிரிவு 5(1) மற்றும் குழு குறியீட்டின் பிரிவுகள் 386, 388 இன் கீழ் குற்றங்களைப் புரிந்திருப்பதைக் குறிக்கிறது.
-
-◼️
-
-[Data](articles/8b06b498.json)
-
----
-
-### හිටපු ජනපති රනිල්ට විශ්වවිද්‍යාලයෙන් ලද ආරාධනා පත්‍රය මෙන්න
-
-*2025-08-22 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213661) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඔහුගේ බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ වෙත වුල්වර්හැම්ප්ටන් විශ්ව විද්‍යාලය විසින් කරන ලද ආරාධනා පත්‍රයේ පිටපතක් නිල වශයෙන් එක්සත් ජාතික පක්ෂ මාධ්‍ය ඒකකය මේ වන විට නිකුත් කර තිබේ.
-
-එම පක්ෂයේ මාධ්‍ය ඒකකය මේ සම්බන්ධව සඳහන් කර ඇත්තේ හිටපු ජනාධිපතිවරයා රාජ්‍ය අරමුදල් අනිසි ලෙස භාවිත කර නොමැති බවය.
-
-හිටපු ජනපති රනිල්ට විශ්වවිද්‍යාලයෙන් ලද ආරාධනා පත්‍රය මෙන්න  by  poornima
-
-◼️
-
-[Data](articles/49df1fba.json)
-
----
-
-### මධ්‍ය තැපැල් හුවමාරුවට  කැරලි මර්දන කණ්ඩායම් කැඳවයි
-
-*2025-08-22 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213660) · `si`
-
-කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිටට මේ වනවිට කැරලි මර්දන කණ්ඩායම් කැඳවා තිබේ.
-
-අප වාර්තාකරුවන් පැවසුවේ, මේ වනවිට පොලිස් ආරක්ෂාවද ඒ අවට දැඩි කර ඇති බවය.
-
-වර්ජනයේ නිරත තැපැල් වෘත්තීය සමිති කොළඹ පිහිටි මධ්‍ය තැපැල් හුවමාරුව ඉදිරිපිට සත්‍යග්‍රහයක් ආරම්භ කර තිබුණි.
-
-එම සත්‍යග්‍රහය සඳහා ලංකා ගුරු සංගමය, කම්කරු අරගල මධ්‍යස්ථානය ඇතුළු වෘත්තීය සමිති කිහිපයක නියෝජිතයින් ද එක්වුණි.
-
-ප්‍රධාන ඉල්ලීම් 19ක් මුල්කරගනිමින් තැපැල් වෘත්තීය සමිති පසුගිය 17 වනදා මධ්‍යම රාත්‍රීයේ සිට ආරම්භ කළ වැඩවර්ජනය අද 05 වන දිනටත් ක්‍රියාත්මක වන අතර වර්ජනය හේතුවෙන් තැපැල් සේවා ලබා ගැනීම සඳහා පැමිණි ජනතාව දැඩි අසීරුතාවට පත්ව සිටියේය.
-
-මේ අතර සමස්ත ලංකා උප තැපැල් ස්ථානාධිපතිවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රවීන්ද්‍ර අමරජීව මහතා සඳහන් කළේ, ජනතාව අපහසුතාවයට පත් නොකර වර්ජනය අවසන් කරන ලෙස සෙසු තැපැල් වෘත්තීය සමිති නියෝජිතයින්ගෙන් ඉල්ලා සිටින බවය.
-
-මේ අතර අද දිනයේ සේවයට නොපැමිණෙන සියලු තැපැල් සේවකයින් තනතුර අතහැර ගියා සේ සලකා කටයුතු කිරීමට සිදුවන බව පවසමින් තැපැල්පති රුවන් සත්කුමාර මහතා විසින් නිවේදනයක් නිකුත් කර තිබුණි.
-
-...
-
-[Data](articles/623e7e41.json)
-
----
-
-### ரணில் கைது: உலக செய்திகள் இவ்வாறு அறிக்கையிட்டுள்ளன
-
-*2025-08-22 15:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-உலக-செய்திகள்-இவ்வாறு-அறிக்கையிட்டுள்ளன/175-363289) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்ட செய்தியை, உலக ஆங்கில இணையத்தளங்கள், இவ்வாறு அறிக்கையிட்டுள்ளன.
-
-◼️
-
-[Data](articles/80e49548.json)
 
 ---

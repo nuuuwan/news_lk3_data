@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 15:07:28**
+As of **2025-08-23 15:17:56**
 
 ## Newspaper Stats
 
-*Scraped **71,920** Articles*
+*Scraped **71,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 6,912
 adaderanalk | 9,080
 tamilmirrorlk | 10,610
 virakesarilk | 11,862
-adaderanasinhalalk | 12,446
+adaderanasinhalalk | 12,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,920 articles have been extended.
+61,973 (86.2%) of 71,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### රනිල්ගේ විදෙස් සංචාරයට මුදල් අනුමත කළ සමන් ඒකනායකටත් වැඩවරදින ලකුණු
+
+*2025-08-23 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213706) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ විදෙස් සංචාරයට මුදල් අනුමත කිරීම සම්බන්ධයෙන් හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා පිළිබඳ මේ වනවිට විමර්ශන සිදුකෙරෙමින් පවතින බව පොලීසිය පවසයි.
+
+රනිල් වික්‍රමසිංහ මහතාව අත්අඩංගුවට ගැනීම හා එහි විමර්ශන සම්බන්ධයෙන් අද (23) පැවති පොලිසීයේ විශේෂ මාධ්‍ය හමුවකට එක්වෙමින් නීති දිශාව භාර, නියෝජ්‍ය පොලිස්පති කාලිංග ජයසිංහ මහතා මේ බව පැවසීය.
+
+එහිදී මාධ්‍යවේදීන් ප්‍රශ්න කර සිටියේ, අදාළ සිදුවීම සම්බන්ධයෙන් සමන් ඒකනායක මහතාට අත්අඩංගුවට ගැනීමට ද නියමිත යන්නය.
+
+විමර්ශන ඉදිරියට සිදුවෙමින් පවතින බැවින් ඒ සම්බන්ධයෙන් අදහස් දැක්විය නොහැකි බව ද කාලිංග ජයසිංහ මහතා පැවසීය.
+
+විදෙස් සංචාරයකදී රජයේ මුදල් අවභාවිත කළ බවට එල්ල වූ චෝදනා මත හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
+
+ඒ මෙම චෝදනාව සම්බන්ධයෙන් ප්‍රශ්නකිරීම සඳහා එම දෙපාර්තමේන්තුව හමුවට කැඳවූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/44a5f087.json)
+
+---
+
+### හිටපු ජනපති රනිල් කොළඹ ජාතික රෝහලට මාරු කිරීමට නිර්දේශ
+
+*2025-08-23 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213705) · `si`
+
+බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කොළඹ ජාතික රෝහලට මාරුකර යැවීම සඳහා වෛද්‍යවරුන් විසින් නිර්දේශ කර තිබේ.
+
+ඔහුගේ රෝගී තත්ත්වය පිළිබඳ පරීක්ෂා කළ බන්ධනාගාර වෛද්‍යවරුන් අදාළ නිර්දේශය ලබාදී ඇති බව වාර්තා වෙයි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව එළඹෙන 26 වන දින දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණු රනිල් වික්‍රමසිංහ මහතා ඊයේ (22) රාත්‍රියේ බන්ධනාගාර රෝහල වෙත ඇතුළත් කෙරුණි.
+
+රුධිර පීඩනය ඉහළයෑම සහ සීනි මට්ටම ඉහළයෑම හේතුවෙන් හිටපු ජනාධිපතිවරයා මෙලෙස බන්ධනාගාර රෝහලට ඇතුළත් කරන ලෙස වෛද්‍යවරුන් නිර්දේශ කළේය.
+
+මේ අතර හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ දිගින් දිගටම නිරීක්ෂණය කළ බන්ධනාගාර වෛද්‍යවරුන් ඔහුට නිවසින් ලබාදීමටද නිර්දේශ කර තිබුණි.
+
+ඒ අනුව ඊට බන්ධනාගාර මූලස්ථානයේ අනුමැතිය හිමිවී ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/75e405f2.json)
+
+---
 
 ### ණය සහනදායක මණ්ඩලයීය දෙපාර්තමේන්තුවට අධ්‍යක්ෂ මණ්ඩලය පත්කරයි
 
@@ -1745,43 +1789,5 @@ Meanwhile, the official theme song of the Kite Festival is scheduled to be relea
 ◼️
 
 [Data](articles/fe81fc83.json)
-
----
-
-### India’s top court revises stray dog policy after public outcry
-
-*2025-08-22 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111750/indias-top-court-revises-stray-dog-policy-after-public-outcry) · `en`
-
-India’s Supreme Court modified its order on stray dogs on Friday, directing that those picked up from streets in and around Delhi be released after sterilisation and immunisation, after a storm of protests from animal lovers.
-
-Earlier this month, the court ruled that all stray dogs in Delhi and its suburbs be moved to shelters following a surge in dog bites and cases of rabies.
-
-Critics of the ruling had said it could not be implemented because there were not enough shelters.
-
-Many animal lovers took to the streets to protest against the order. Animal rights activists signed online petitions asking the court to revoke its decision.
-
-The court ruling also drew criticism from politicians and celebrities. India’s opposition leader Rahul Gandhi called it a “step back from decades of humane, science-backed policy”.
-
-...
-
-[Data](articles/1210069a.json)
-
----
-
-### ”முன்னாள் ஜனாதிபதிக்கு சிறைச்சாலை பாதுகாப்பான இடம் அல்ல”
-
-*2025-08-22 21:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிக்கு-சிறைச்சாலை-பாதுகாப்பான-இடம்-அல்ல/175-363308) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்காக ஆஜரான ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன, பிணை கோரி மனு தாக்கல் செய்தார்.
-
-"கௌரவத் தலைவர் அவர்களே, இந்த சந்தேக நபர் ஏற்கனவே உயர் நீதிமன்றத்தின் தீர்ப்புகளால் இதே போன்ற குற்றச்சாட்டுகளிலிருந்து விடுவிக்கப்பட்டுள்ளார். இந்த விசாரணை ஜனாதிபதி செயலகத்தால் நடத்தப்பட்ட உள் விசாரணையை அடிப்படையாகக் கொண்டது, ஆனால் தேசிய கணக்காய்வாளர் அலுவலகத்தின் அறிக்கை அத்தகைய மோசடி எதுவும் இல்லை என்பதைக் காட்டுகிறது.
-
-தற்போதைய ஜனாதிபதியின் செயலாளரின் முறைப்பாட்டின் பேரில் மட்டுமே இந்த விசாரணை தொடங்கப்பட்டது. ஒரு ஜனாதிபதியின் விதிவிலக்கு நீக்கப்பட்டதால் மட்டுமே இந்த வழக்கு தாக்கல் செய்யப்பட்டுள்ளது.
-
-இல்லையெனில், அத்தகைய வழக்குகளை தாக்கல் செய்ய முடியாது. இந்த வழக்கு தீங்கிழைக்கும் நோக்கத்துடன் தாக்கல் செய்யப்பட்டுள்ளது மற்றும் அழைப்பின் அடிப்படையை முறையாக ஆராயாமல் உள்ளது.
-
-...
-
-[Data](articles/7b735238.json)
 
 ---

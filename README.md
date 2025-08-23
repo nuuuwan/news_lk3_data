@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 10:32:43**
+As of **2025-08-23 10:49:02**
 
 ## Newspaper Stats
 
-*Scraped **71,892** Articles*
+*Scraped **71,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,909
-adaderanalk | 9,071
+adaderanalk | 9,072
 tamilmirrorlk | 10,608
 virakesarilk | 11,862
 adaderanasinhalalk | 12,434
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,434
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,892 articles have been extended.
+61,973 (86.2%) of 71,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Sajith Premadasa visits ex-President Ranil in Prison Hospital
+
+*2025-08-23 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111760/sajith-premadasa-visits-ex-president-ranil-in-prison-hospital-) · `en`
+
+Opposition Leader Sajith Premadasa today visited former President Ranil Wickremesinghe, who is currently admitted to the Prison Hospital.
+
+Several politicians also visited the Magazine New Remand Prison last night (22) following the remand of the former President.
+
+Former ministers Duminda Dissanayake and Prasanna Ranatunga, along with a group of supporters including MP Chamara Sampath, arrived at the prison.
+
+However, they were not permitted to enter and were later captured on camera while waiting outside.
+
+Former President Wickremesinghe, who was placed in remand custody, was admitted to the prison hospital last night (22) on medical advice.
+
+◼️
+
+[Data](articles/64538fdd.json)
+
+---
 
 ### රනිල් බලන්න සජිත් එයි
 
@@ -1146,7 +1166,7 @@ After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapur
 
 ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department when he came in to give a statement.
 
-Wickremesinghe was arrested over alleged the use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, when he was returning from the US after addressing a UN General Assembly meeting.
+Wickremesinghe was arrested over alleged the mis-use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, when he was returning from the US after addressing a UN General Assembly meeting.
 
 The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
 
@@ -1713,17 +1733,5 @@ Days later parliament elected him as the 8th Executive President of the country,
 ...
 
 [Data](articles/b50e8633.json)
-
----
-
-### ரணில் ஆஜராகியிக்கும் நீதிமன்றத்தில் மின்வெட்டு ?
-
-*2025-08-22 18:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஆஜராகியிக்கும்-நீதிமன்றத்தில்-மின்வெட்டு/175-363299) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிரான வழக்கு விசாரணை கோட்டை நீதவான் நீதிமன்றத்தில் அரை மணி நேரம் ஒத்திவைக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/90edc8bd.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 20:19:05**
+As of **2025-08-23 20:31:56**
 
 ## Newspaper Stats
 
-*Scraped **71,947** Articles*
+*Scraped **71,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 608
 bbccomsinhala | 677
 colombotelegraphcom | 732
-economynextcom | 4,400
+economynextcom | 4,402
 islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,458
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,947 articles have been extended.
+61,973 (86.1%) of 71,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -265,6 +265,26 @@ The strike has been planned based on several demands, including issues related t
 ◼️
 
 [Data](articles/0ca23752.json)
+
+---
+
+### World Bank team discuss Sri Lanka Customs modernisation programme
+
+*2025-08-23 16:15:00* · [`economynextcom`](https://economynext.com/world-bank-team-discuss-sri-lanka-customs-modernisation-programme-237907/) · `en`
+
+ECONOMYNEXT – World Bank representatives and Revenue Administration Reform and Modernization Bureau officials have met to discuss the Sri Lanka Customs Modernisation Programme.
+
+The World Bank representatives “expressed their willingness to provide the necessary international institutional support and expert guidance to ensure the success of the programme,” the president’s media division said.
+
+The revision of the Customs Ordinance was also discussed the PMD said.
+
+Sri Lanka Customs, the Inland Revenue Department, and the Excise Department are the government’s leading revenue collection sources.
+
+The Revenue Administration Reform and Modernization Bureau was established to identify the policy and strategic changes required within these institutions.
+
+...
+
+[Data](articles/dce7ab35.json)
 
 ---
 
@@ -657,6 +677,28 @@ Former President Mahinda Rajapaksa is also reported to have joined the discussio
 ◼️
 
 [Data](articles/b9227938.json)
+
+---
+
+### Colombo international kite festival to add to Sri Lanka city branding
+
+*2025-08-23 13:45:00* · [`economynextcom`](https://economynext.com/colombo-international-kite-festival-to-add-to-sri-lanka-city-branding-238059/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Kite Festival to be held from August 24 with 55 foreign kite flyers taking part from 25 countries, which add to the country’s appeal for tourism and variety, organizers said.
+
+Sri Lanka had a longstanding tradition in kites especially among young people, but with the city life and the pace of life children were losing the skills that the earlier generation had.
+
+“We started the Colombo kite festival in 2015 mostly with local participants,” Chief Operating Officer of Sri Lanka’s DeranaTV network, Madhawa Madawala told reporters in Colombo.
+
+“But it has now expanded and it is now we have the it the calendar of international kite festivals. “We hope it will help boost tourism and make Colombo.”
+
+The Derana Colombo International Festival will be held on Sunday August 24 also supported by the Sri Lanka Tourism Promotion Bureau.
+
+The kite festival will add a colourful activity to the Colombo, Ruwan Ranasinghe, Deputy Minister of Tourism said.
+
+...
+
+[Data](articles/62f9d8ca.json)
 
 ---
 
@@ -1807,41 +1849,5 @@ These cases, though diverse, reveal a consistent pattern. Treaty obligations are
 ...
 
 [Data](articles/ffd34b76.json)
-
----
-
-### The day negligence exploded: How greed  and ignorance fuelled Sri Lanka’s LPG disaster
-
-*2025-08-22 23:27:51* · [`dailyftlk`](https://www.ft.lk/opinion/The-day-negligence-exploded-How-greed-and-ignorance-fuelled-Sri-Lanka-s-LPG-disaster/14-780654) · `en`
-
-Review of “A Sri Lankan Misadventure” by Nareshkumar B. Handagama
-
-In 2021, Sri Lanka was rocked by over 400 cooking gas explosions – many fatal, many more injured, and all terrified. Homes and restaurants became death traps overnight. While victims were initially blamed for “using old cookers” or “neglecting maintenance,” Dr. Nareshkumar B. Handagama – a globally renowned chemical engineer, professor, former CEO of Sri Lanka Institute of Nanotechnology – and his meticulously researched book, ‘A Sri Lankan Misadventure’, exposes the shocking truth: the explosions were a manmade disaster fuelled by corporate greed, regulatory negligence, complicit indifference and governmental wilful ignorance.
-
-...
-
-[Data](articles/2c83e171.json)
-
----
-
-### கை விலங்கிடப்பட்டு சிறை செல்கிறார் ரணில்
-
-*2025-08-22 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/223143) · `ta`
-
-166 இலட்சம் ரூபா பொதுமக்கள் பணத்தை முறையற்ற விதத்தில் பயன்படுத்திய குற்றச்சாட்டில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-கைதுசெய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை எதிர்வரும் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு கோட்டை நீதிவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-இந்நிலையில் அவர் கை விலங்கிடப்பட்டு சிறைச்சாலை பேருந்தில் கொழும்பு கோட்டை நீதிமன்ற வளாகத்திலிருந்து புறப்பட்டார்.
-
-முன்னதாக முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க வெள்ளிக்கிழமை (ஆகஸ்ட் 22) கைது செய்யப்பட்டு கோட்டை நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டார்.
-
-லண்டனுக்கு ரணில் விக்கிரமசிங்க மேற்கொண்ட உத்தியோகபூர்வ பயணம் தொடர்பாக வாக்குமூலம் அளிப்பதற்காக நிதி குற்றப் புலனாய்வுப் பிரிவுக்கு (FCID) சென்றிருந்த நிலையில் இந்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
-
-இதனையடுத்து கொழும்பு கோட்டை நீதவான் நீதிமன்ற பகுதியில் ஆதரவாளர்கள் போராட்டத்தில் ஈடுப்பட்டனர். இந்நிலையில் குறித்த பகுதியில் பதற்ற நிலைமை ஏற்பட்டிருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/8615d2e5.json)
 
 ---

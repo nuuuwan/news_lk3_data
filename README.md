@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 14:21:12**
+As of **2025-08-23 14:33:18**
 
 ## Newspaper Stats
 
-*Scraped **71,915** Articles*
+*Scraped **71,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,910
-adaderanalk | 9,078
+adaderanalk | 9,080
 tamilmirrorlk | 10,610
 virakesarilk | 11,862
-adaderanasinhalalk | 12,445
+adaderanasinhalalk | 12,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,915 articles have been extended.
+61,973 (86.2%) of 71,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### නව දේශපාලන පක්ෂ ලියාපදිංචි කිරීමේ අයදුම්පත් 36ක් ප්‍රතික්ෂේප වෙයි
+
+*2025-08-23 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213704) · `si`
+
+නව දේශපාලන පක්ෂ ලියාපදිංචි කිරීම සදහා යොමු කළ අයදුම්පත් 36ක් ප්‍රතික්ෂේප කළ බව මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා පවසයි.
+
+මුලික සුදුසුකම් සපුරා නොගැනීම හේතුවෙන් එම පක්ෂවල අයදුම්පත් ප්‍රතික්ෂේප කර ඇති බව වාර්තා වේ.
+
+නව දේශපාලන පක්ෂ ලියාපදිංචි කිරීම සදහා පසුගිය මාර්තු මාසයේ අයදුම්පත් කැඳවා තිබු අතර ඊට අයදුම්පත් 82ක් ලැබුණු බව මැතිවරණ කොමිසම සදහන් කළේය.
+
+ඒ අනුව සිදුකළ සම්මුඛ පරීක්ෂණවලදී මුලික සුදුසුකම් සපුරා නොතිබීම හේතුවෙන් අදාළ පක්ෂ ප්‍රතික්ෂේප කළ බව සදහන් වේ.
+
+◼️
+
+[Data](articles/4396b874.json)
+
+---
 
 ### හිටපු මහ බැංකු අධිපති අර්ජුන් මහේන්ද්‍රන්ට නොතීසි
 
@@ -38,9 +56,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 2015 වසරේ මහත් ආන්දෝලනයකට තුඩුදුන් මහ බැංකු බැඳුම්කර වංචා සිද්ධියේ සැකකරු වශයෙන් නම්කර සිටින හිටපු මහ බැංකු අධිපති අර්ජුන මහේන්ද්‍රන් මහතාට සැප්තැම්බර් මස 26 වන දා අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය නොතිසි නිකුත් කර තිබේ.
 
-◼️
+අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී ජයතුංග මහත්මිය මෙම නොතීසි නිකුත් කිරීම සිදුකරනු ලැබුවාය.
+
+මේ වනවිට සිංගප්පූරුවේ වාසය කරන බව සඳහන් වන අර්ජුන මහේන්ද්‍රන් මහතාට අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා ඉකුත් වසරේ නොතිසී නිකුත් කර තිබුණත් එම නොසීසි නිසියාකාරව ක්‍රියාත්මක වී නොමැති බව අධිකරණයට දැනුම් දෙන්න ලැබීය.
+
+ඒ අනුව මෙම සැකකරුට ඉංග්‍රීසි භාෂාවෙන් නොතිසි නිකුත් කිරීමට පියවර ගන්නා ලෙසත් අල්ලස් කොමිසම අධිකරණයෙන් ඉල්ලීමක් කළේය.
+
+එම ඉල්ලීම පිළිගත් ප්‍රධාන මහෙස්ත්‍රාත්වරිය මෙම නොතිසි නිකුත් කිරීම සිදුකළාය.
+
+...
 
 [Data](articles/1a510fe2.json)
+
+---
+
+### Ranil’s arrest will shift trajectory of Sri Lankan politics – MP Dilith
+
+*2025-08-23 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111768/ranils-arrest-will-shift-trajectory-of-sri-lankan-politics-mp-dilith) · `en`
+
+The arrest and imprisonment of former President Ranil Wickremesinghe is an incident that will take Sri Lanka’s politics in a different direction, says Sarvajana Balaya leader, MP Dilith Jayaweera.
+
+He made these remarks this afternoon (23), after visiting former President Wickremesinghe at the Prison Hospital.
+
+“He went to play cricket, but this government is playing ‘Elle’. They hit him with the ball and said he was out.”
+
+“According to my political reading, this will be an incident that will take our country’s politics in a new direction,” he said.
+
+MP Jayaweera further stated that although he does not approve of Ranil Wickremesinghe’s politics, it was wrong for a President of the country to be treated in such a manner.
+
+...
+
+[Data](articles/dfac93e4.json)
 
 ---
 
@@ -79,6 +125,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5e180fdd.json)
+
+---
+
+### Opposition parties hold special discussion in Colombo
+
+*2025-08-23 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111767/opposition-parties-hold-special-discussion-in-colombo-) · `en`
+
+A special discussion is currently underway in Colombo with the participation of opposition politicians and party leaders.
+
+The meeting is being held at a political party office located on Flower Road, Colombo, and commenced at around 12 noon today (23).
+
+Political leaders and representatives from the United National Party (UNP), Samagi Jana Balawegaya (SJB), Sri Lanka Podujana Peramuna (SLPP), Sri Lanka Freedom Party (SLFP), and the Sri Lanka Muslim Congress (SLMC), along with several parliamentarians, have joined the discussion.
+
+It is reported that the primary objective of the meeting is to deliberate on the situation concerning former President Ranil Wickremesinghe, who is currently in remand custody, as well as on future political activities.
+
+Former President Mahinda Rajapaksa is also reported to have joined the discussion.
+
+◼️
+
+[Data](articles/b9227938.json)
 
 ---
 
@@ -1725,49 +1791,5 @@ The court ruling also drew criticism from politicians and celebrities. India’s
 ...
 
 [Data](articles/b084d06f.json)
-
----
-
-### ගුරු විද්‍යාල අවසාන විභාග ප්‍රතිඵල නිකුත් කෙරේ
-
-*2025-08-22 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213675) · `si`
-
-2022/2023(2025) ගුරු විද්‍යාල අවසාන විභාගයෙහි ප්‍රතිඵල නිකුත් කර ඇති බව විභාග දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
-
-www.doenets.lk හා www.results.exams.gov.lk යන වෙබ්අඩවි වෙත පිවිසීමෙන් මෙහි ප්‍රතිඵල ලබා ගත හැකිය.
-
-ගුරු විද්‍යාල අවසාන විභාගය 2025.05.19 දින සිට 2025.05.25 දින දක්වා පැවැත්වුණු අතර අයදුම්කරුවන් 238ක් ඒ සඳහා පෙනී සිටියා.
-
-◼️
-
-[Data](articles/589bf9ac.json)
-
----
-
-### நண்பேன்டா...
-
-*2025-08-22 21:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நண்பேன்டா/175-363307) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணிலின் பிணை மனு விசாரணையில் அவருடன் முன்னாள் ஜனாதிபதி மைத்திரி அமர்ந்திருக்கும் போது...
-
-◼️
-
-[Data](articles/d291db37.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் வழக்கு விசாரணை : நீதிமன்றத்தில் மின்தடை
-
-*2025-08-22 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/223139) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிரான வழக்கு விசாரணை நடைபெற்றுக் கொண்டிருந்தபோது, கோட்டை நீதவான் நீதிமன்ற அறையில் திடீரென மின்சாரம் துண்டிக்கப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
-
-இன்று (21) பிற்பகல், குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்ட ரணில் விக்கிரமசிங்க நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார். அப்போது, வழக்கின் தீர்ப்பை அரைமணி நேரத்திற்கு ஒத்திவைக்க நீதிபதி உத்தரவிட்டார்.
-
-மாலை 5.30 மணியளவில் நீதிபதியின் உத்தரவு பிறப்பிக்கப்பட்டது. எனினும், அதன் பின்னர் வழக்கு மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்படவில்லை.
-
-◼️
-
-[Data](articles/83ee3b9c.json)
 
 ---

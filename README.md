@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 10:49:02**
+As of **2025-08-23 11:06:49**
 
 ## Newspaper Stats
 
-*Scraped **71,893** Articles*
+*Scraped **71,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 6,909
 adaderanalk | 9,072
 tamilmirrorlk | 10,608
 virakesarilk | 11,862
-adaderanasinhalalk | 12,434
+adaderanasinhalalk | 12,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,893 articles have been extended.
+61,973 (86.2%) of 71,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### රනිල්ව බලන්න මහින්දත් එයි
+
+*2025-08-23 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213693) · `si`
+
+බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් බැලීමට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මීට සුළු වේලාවකට පෙර පැමිණ තිබේ.
+
+අද (23) උදෑසන 9.30ට පමණ සජිත් ප්‍රේමදාස මහතා සහ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා ද හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව බැලීමට මැගසින් බන්ධනාගාරය වෙත පැමිණ තිබුණි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස ඊයේ (22) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+ඒ අනුව රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව වෛද්‍ය උපදෙස් මත බන්ධනාගාර රෝහලට ඇතුළත් කර තිබුණි.
+
+'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
+
+...
+
+[Data](articles/9631c721.json)
+
+---
 
 ### Sajith Premadasa visits ex-President Ranil in Prison Hospital
 
@@ -1707,31 +1727,5 @@ The former minister explained that normally, when statements are recorded by the
 ◼️
 
 [Data](articles/396c0918.json)
-
----
-
-### Blackout at Sri Lanka court during ex-President’s bail hearing
-
-*2025-08-22 18:41:00* · [`economynextcom`](https://economynext.com/blackout-at-sri-lanka-court-during-ex-presidents-bail-hearing-237928/) · `en`
-
-ECONOMYNEXT – A blackout occurred at the Colombo Fort Magistrate’s Court during the bail hearing of ex-President Ranil Wickremesinghe, a court reporter said.
-
-Wickremesinghe was brought to court after being arrested in the afternoon following a questioning.
-
-The bail hearing went on for hours with the court eventually taking a 30 minute recess.
-
-Lights then went out plunging the premises packed with officials, media and supporters into darkness.
-
-Wickremesinghe was asked earlier in the proceedings to step into the suspect’s cage, eliciting a loud gasp from people gathered outside.
-
-His arrest was over the use of state funds for a stop-over in London while returning from a foreign visit while he was president.
-
-Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
-
-Days later parliament elected him as the 8th Executive President of the country, during the worst economic crisis of its post-independence history.
-
-...
-
-[Data](articles/b50e8633.json)
 
 ---

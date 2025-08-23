@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 06:08:30**
+As of **2025-08-23 06:33:13**
 
 ## Newspaper Stats
 
-*Scraped **71,868** Articles*
+*Scraped **71,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,908
 adaderanalk | 9,065
 tamilmirrorlk | 10,602
 virakesarilk | 11,862
-adaderanasinhalalk | 12,424
+adaderanasinhalalk | 12,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,868 articles have been extended.
+61,973 (86.2%) of 71,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### අද සවස 2න් පසු තැනින් තැන තද වැසි
+
+*2025-08-23 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213682) · `si`
+
+උතුරු, උතුරු-මැද, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල ප.ව. 2න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, මෙම ප්‍රදේශවල ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/6286c122.json)
+
+---
 
 ### செம்மணி அநியாயங்களுக்கு தண்டனை வழங்கப்பட வேண்டும் - ரிஷாத் பதியுதீன்
 
@@ -1693,17 +1711,5 @@ He and his wife, Maithree, attended a University of Wolverhampton ceremony.
 ...
 
 [Data](articles/8acc2001.json)
-
----
-
-### ரணிலை பார்க்க வந்தார் நாமல்
-
-*2025-08-22 16:00:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்க்க-வந்தார்-நாமல்/175-363291) · `ta`
-
-இன்று கைது செய்யப்பட்ட ரணில் விக்ரமசிங்கவை பார்வையிடுவதற்காக, ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ சற்று நேரத்திற்கு முன்பு கோட்டை நீதவான் நீதிமன்றத்திற்கு வந்தார்.
-
-◼️
-
-[Data](articles/01cb9563.json)
 
 ---

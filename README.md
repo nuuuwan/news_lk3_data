@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 18:53:36**
+As of **2025-08-23 19:08:21**
 
 ## Newspaper Stats
 
-*Scraped **71,943** Articles*
+*Scraped **71,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
 adaderanalk | 9,086
-tamilmirrorlk | 10,615
+tamilmirrorlk | 10,616
 virakesarilk | 11,862
 adaderanasinhalalk | 12,457
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,943 articles have been extended.
+61,973 (86.1%) of 71,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### “வருத்தத்தை ஏற்படுத்துகின்றது” மஹிந்த
+
+*2025-08-23 18:40:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருத்தத்தை-ஏற்படுத்துகின்றது-மஹிந்த/175-363341) · `ta`
+
+அரசியல் பழிவாங்கல்களைத் தவிர அரசாங்கத்தால் வேறு எந்த நடவடிக்கைகளும் முன்னெடுக்கப்படவில்லையென முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+ரணில் விக்ரமசிங்கவை பார்வையிட்டதன் பின்னர், ஊடகங்களுக்குக் கருத்துத் தெரிவிக்கையில் அவர் இதனைக் குறிப்பிட்டார்.
+
+அரசியல் தலைவர்கள் சிறிய குற்றங்களுக்காக சிறையில் அடைக்கப்படுவது தமக்கு வருத்தத்தை ஏற்படுத்துவதாகவும் மஹிந்த ராஜபக்ஷ தெரிவித்தார். R
+
+◼️
+
+[Data](articles/2846c3ea.json)
+
+---
 
 ### ரணில் தீவிர சிகிச்சைப் பிரிவில் அனுமதி
 
@@ -1827,19 +1843,5 @@ For over 25 years, Profood Propack & Agbiz has stood as SLFPA’s flagship platf
 ...
 
 [Data](articles/6583aa67.json)
-
----
-
-### Cycle Brands launches  new fragrance and website at ‘Scent & Sparkles 2025’
-
-*2025-08-22 23:09:39* · [`dailyftlk`](https://www.ft.lk/business/Cycle-Brands-launches-new-fragrance-and-website-at-Scent-Sparkles-2025/34-780642) · `en`
-
-Cycle Brands, which promotes incense products, recently took a remarkable step by launching four new fragrances and creating a convenient online access to its customers and partners at ‘Scent & Sparkle 2025’.
-
-Held at the Golden Rose Hotel in Boralesgamuwa, Cycle Brands introduced four exclusive fragrances to its already existing and rich collection, expanding the choices and options to their increasing customer base. At ‘Scent & Sparkle 2025’, Cycle Brands also launched its official website, with the prime intention of creating a convenient passage to its customers to purchase products online, marking an important strategic leap into the digital age.
-
-...
-
-[Data](articles/4b99f6e7.json)
 
 ---

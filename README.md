@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 15:31:57**
+As of **2025-08-23 15:49:01**
 
 ## Newspaper Stats
 
-*Scraped **71,926** Articles*
+*Scraped **71,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
 adaderanalk | 9,083
-tamilmirrorlk | 10,611
+tamilmirrorlk | 10,612
 virakesarilk | 11,862
-adaderanasinhalalk | 12,448
+adaderanasinhalalk | 12,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,926 articles have been extended.
+61,973 (86.2%) of 71,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### හිටපු ජනපති රනිල් කොළඹ ජාතික රෝහලට
+
+*2025-08-23 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213708) · `si`
+
+බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කොළඹ ජාතික රෝහලට මාරුකර යවා තිබේ.
+
+ඔහුගේ රෝගී තත්ත්වය පිළිබඳ පරීක්ෂා කළ බන්ධනාගාර වෛද්‍යවරුන් සිදු කළ නිර්දේශයකට අනුව මෙලෙස හිටපු ජනධිපතිවරයා කොළඹ ජාතික රෝහලට ඇතුලත් කෙරිණි.
+
+◼️
+
+[Data](articles/c314c838.json)
+
+---
+
+### ரணிலுக்கு வீட்டிலிருந்து உணவு
+
+*2025-08-23 15:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-வீட்டிலிருந்து-உணவு/175-363337) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உடல்நிலையை கருத்தில் கொண்டு வீட்டிலிருந்து உணவு பெற அனுமதிக்க வேண்டும் என்ற கோரிக்கை ஏற்றுக்கொள்ளப்பட்டுள்ளது.
+
+சிறைச்சாலை ஊடகப் பேச்சாளர் சிறைச்சாலை ஆணையாளர் நாயகம் ஜகத் வீரசிங்க  இதை தெரிவித்துள்ளார்.
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, உயர் இரத்த அழுத்தம் மற்றும் அதிக சர்க்கரை அளவு காரணமாக மருத்துவ ஆலோசனைக்கு அமைய சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/310fd3f1.json)
+
+---
+
+### PCID නමින් පොලීසියෙන් නව විමර්ශන අංශයක්
+
+*2025-08-23 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213707) · `si`
+
+අපරාධයකින් උත්පාදිත දේපළ පිළිබඳ විමර්ශනය කිරීම සඳහා ශ්‍රී ලංකා පොලිසීය අලුත් විමර්ශන අංශයක් ආ‍රම්භ කරන බව කොළඹ බස්නාහිර පළාත් උතුර භාර නියෝජ්‍ය පොලිස්පති නිශාන්ත සොයිසා මහතා පවසයි.
+
+පාර්ලිමෙන්තුවේ දී සම්මත වූ, අපරාධයකින් උත්පාදිත දේපළ පිළිබද පනතට අනුව මෙම විමර්ශන අංශය ආරම්භ කිරීමට නියමිත බව ඔහු පැවසුවේය.
+
+ඔහු මේ බව සඳහන් කර සිටියේ අද (23) පැවති විශේෂ පොලිස් මාධ්‍ය හමුවට එක්වෙමිනි.
+
+PCID හෙවත් අපරාධයකින් උත්පාදිත දේපළ පිළිබද විමර්ශන කොට්ට්ථාශය ලෙස මෙම අංශය නම් කර ඇත.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් නියෝජ්‍ය පොලිස්පතිවරයා වැඩිදුරටත් සඳහන් කළේ ආරම්භ කිටීමට නියමිත මෙම නව විමර්ශන අංශය පොලිස්පතිතුමාගේ ප්‍රධානත්වයෙන් පොලිස් දිනයට සමගාමීව ආරම්භ කිරීමට කටයුතු සූදානම්ව ඇති බවය.
+
+විශේෂ මෙහෙයුම්වලින් සංවිධානාත්මක අපරාධකරුවන්ගේ දේපල බිලියන 4.5ක් පොලීසිය සිය භාරයට ගෙන ඇති බව ද ඒ මහතා මෙහිදී පැවසුවේය.
+
+ඒ අතර ගොඩනැගිලි, නිවාස, වාහන, ඉඩම්, ස්වර්ණාභරණ, බෝට්ටු සහ මුදල්වලින් රුපියල් මිලියන 57ක්ද වන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/b51de40f.json)
+
+---
 
 ### Ex-President Ranil to be transferred to Colombo National Hospital?
 
@@ -88,7 +142,7 @@ Accordingly, prison authorities have decided to transfer former President Wickre
 
 රුධිර පීඩනය ඉහළයෑම සහ සීනි මට්ටම ඉහළයෑම හේතුවෙන් හිටපු ජනාධිපතිවරයා මෙලෙස බන්ධනාගාර රෝහලට ඇතුළත් කරන ලෙස වෛද්‍යවරුන් නිර්දේශ කළේය.
 
-මේ අතර හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ දිගින් දිගටම නිරීක්ෂණය කළ බන්ධනාගාර වෛද්‍යවරුන් ඔහුට නිවසින් ලබාදීමටද නිර්දේශ කර තිබුණි.
+මේ අතර හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ දිගින් දිගටම නිරීක්ෂණය කළ බන්ධනාගාර වෛද්‍යවරුන් ඔහුට නිවසින් කෑම ලබාදීමටද නිර්දේශ කර තිබුණි.
 
 ඒ අනුව ඊට බන්ධනාගාර මූලස්ථානයේ අනුමැතිය හිමිවී ඇති බවද වාර්තා වෙයි.
 
@@ -1737,61 +1791,5 @@ Meanwhile CSE trading activities were down yesterday due to month end profit- ta
 ...
 
 [Data](articles/c0bce75b.json)
-
----
-
-### හිටපු ජනපති රනිල් රිමාන්ඩ්
-
-*2025-08-22 22:15:47* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-රිමාන්ඩ්/11-418022) · `si`
-
-රජයේ මුදල් අවභාවිත කිරීමේ චෝදනා යටතේ අත්අඩංගුවට පත් හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 දා තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කළේය.
-
-ප්‍රකාශයක් ලබා දීම වෙනුවෙන් අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශය ලබාද‍ිමෙන් අනතුරුව අත්අඩංගුවට ගැණින.
-
-◼️
-
-[Data](articles/257dfa67.json)
-
----
-
-### ரணிலுக்கு விளக்கமறியல்
-
-*2025-08-22 22:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-விளக்கமறியல்/175-363309) · `ta`
-
-குற்றப் புலனாய்வுத் திணைக்களத்தினரால் (CID) இன்று கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கோட்டை நீதவான் நீதிமன்றம் விளக்கமறியலில் வைத்துள்ளது.
-
-இன்று நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர், விக்ரமசிங்க ஆகஸ்ட் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-வெளிநாட்டுப் பயணம் தொடர்பாக வாக்குமூலம் பதிவு செய்த பின்னர், இன்று காலை குற்றப் புலனாய்வுத் திணைக்களத்தினரால் கைது செய்யப்பட்ட பின்னர், இலங்கையில் கைது செய்யப்பட்ட முதல் முன்னாள் அரச தலைவர் ரணில் விக்ரமசிங்கே ஆவார்.
-
-லண்டனுக்கு மேற்கொண்ட வெளிநாட்டுப் பயணம் தொடர்பான விசாரணைக்காக அவர் சிஐடி முன் அழைக்கப்பட்டார். இந்தப் பயணத்தில் தனியார் நிகழ்வுகள் இடம்பெற்றதாகவும், ஆனால் அரசு நிதியில் இருந்து நிதியளிக்கப்பட்டதாகவும் புலனாய்வாளர்கள் கூறுகின்றனர்.
-
-ரணில் விக்கிரமசிங்க ஜனாதிபதியாக இருந்தபோது, ​​2023 ஆம் ஆண்டின் பிற்பகுதியில் ஐக்கிய இராச்சியத்திற்கு விஜயம் செய்தபோது, ​​அரசு நிதியை முறைகேடாகப் பயன்படுத்தியதாகக் குற்றம் சாட்டப்பட்டுள்ளது.
-
-...
-
-[Data](articles/f72d3009.json)
-
----
-
-### Former President Ranil Wickremesinghe remanded
-
-*2025-08-22 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111752/former-president-ranil-wickremesinghe-remanded) · `en`
-
-Former President Ranil Wickremesinghe, who was arrested by the Criminal Investigation Department (CID), has been remanded until August 26 by the Colombo Fort Magistrate’s Court.
-
-The order was issued by Colombo Fort Magistrate’s Court Nilupuli Lankapura, Ada Derana reporter said.
-
-Additional Solicitor General Dileepa Peiris, appearing for the CID, stated before the court that he would present evidence against the suspect under the Public Property Act.
-
-He also requested that the accused be remanded as the investigation is not complete.
-
-However, President’s Counsel Anuja Premaratne, appearing for the defendant, presented evidence in court and requested that the defendant be released on bail.
-
-After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapura rejected the bail application and ordered that the former President be remanded until August 26.
-
-...
-
-[Data](articles/30dbde08.json)
 
 ---

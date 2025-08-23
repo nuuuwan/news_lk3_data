@@ -1,36 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 11:31:56**
+As of **2025-08-23 11:51:01**
 
 ## Newspaper Stats
 
-*Scraped **71,895** Articles*
+*Scraped **71,898** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 606
+dbsjeyarajcom | 607
 bbccomsinhala | 677
 colombotelegraphcom | 731
 economynextcom | 4,400
 islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,909
+adalk | 6,910
 adaderanalk | 9,072
 tamilmirrorlk | 10,608
 virakesarilk | 11,862
-adaderanasinhalalk | 12,436
+adaderanasinhalalk | 12,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,895 articles have been extended.
+61,973 (86.2%) of 71,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### මහින්ද කනගාටුවෙන්
+
+*2025-08-23 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213695) · `si`
+
+දේශපාලන නායකයින්ගේ සුළු වැරදිවලට සිරගත කිරීම ගැන තමා කනගාටුවට පත්වෙන බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+◼️
+
+[Data](articles/e2fea36c.json)
+
+---
 
 ### සමාජ මාධ්‍ය තුළ අනාවැකි පළ කිරීම අධිකරණයට අපහාස කිරීමක් -සජිත්
 
@@ -213,6 +225,26 @@ Yesterday, the Colombo Fort Magistrate’s Court ordered that former President W
 ◼️
 
 [Data](articles/cf6b83a8.json)
+
+---
+
+### හිටපු ජනපති රනිල් වික්‍රමසිංහ බන්ධනාගාර රෝහලට
+
+*2025-08-23 08:35:15* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-වික්‍රමසිංහ-බන්ධනාගාර-රෝහලට/11-418023) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර තිබේ.
+
+රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් වෛද්‍ය උපදෙස් මත හිටපු ජනාධිපතිවරයා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බව සඳහන් වේ.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ඊයේ (22) නියම කළේය.
+
+මෙරට ඉතිහාසයේ විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව මෙය වන අතර, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+◼️
+
+[Data](articles/81337638.json)
 
 ---
 
@@ -553,6 +585,26 @@ The general public has also been requested to take adequate precautions to minim
 ◼️
 
 [Data](articles/8975adf6.json)
+
+---
+
+### 
+
+*2025-08-23 02:04:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86306) · `en`
+
+•	Former   President Ranil Wickremesinghe Arrested on August 22  by CID  for alleged misuse of State funds for personal UK trip in 2023  and  Remanded by Colombo Fort Magistrate Until Aug 26;
+
+Former President Ranil Wickremesinghe was yesterday ( Aug 22 )  remanded by the Colombo Fort Magistrate’s Court for  four days until 26 August.
+
+Wickremesinghe was arrested earlier in the day by the Criminal Investigation Department (CID) after appearing before the sleuths to record a statement.
+
+The arrest follows an investigation into allegations that Wickremesinghe used State funds for a private visit to London in September 2023 to attend a university ceremony with his wife, Prof. Maithree Wickremesinghe.
+
+The trip coincided with his return from the Group of 77 (G77) Summit in Havana, but was not classified as an official engagement. Investigators allege that Government resources, including security, were misused.
+
+...
+
+[Data](articles/3e7ee80b.json)
 
 ---
 
@@ -1683,51 +1735,5 @@ Wickremesinghe became president during the worst economic crisis of Sri Lanka’
 ◼️
 
 [Data](articles/112761ae.json)
-
----
-
-### At least minimum courtesies should be extended to a former president – Hakeem
-
-*2025-08-22 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111747/at-least-minimum-courtesies-should-be-extended-to-a-former-president-hakeem) · `en`
-
-MP Rauff Hakeem says it is worrying that the arrest of former President Ranil Wickremesinghe was announced in advance by a ‘YouTuber’.
-
-Speaking in Parliament, the former minister referenced the arrest of Wickremesinghe by CID officers after recording a statement from the former president.
-
-“A few days ago, there was a YouTuber who was showing his affection in a very inappropriate way, in my opinion. But then this particular YouTuber also went on record virtually announcing that the former President would be arrested.”
-
-“So, it appears there’s an inspired leak. This worries us,” the MP stressed.
-
-The former minister explained that normally, when statements are recorded by the police, a ‘B report’ is filed before the magistrate.
-
-“You have a basic courtesy. You give it to a former head of state. Then if the magistrate felt right, his attorneys could have made submissions and the magistrate could have decided whether to remand them or bail him out.”
-
-...
-
-[Data](articles/4faf23d1.json)
-
----
-
-### பெரும்புள்ளிகள் நீதிமன்றத்தில்...
-
-*2025-08-22 19:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்புள்ளிகள்-நீதிமன்றத்தில்/175-363301) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வழக்கு நடைபெற்று வரும் நிலையில், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, பாராளுமன்ற உறுப்பினர் ரவூப் ஹக்கீம் உள்ளிட்ட பல அரசியல்வாதிகள் சற்றுமுன் கோட்டை நீதவான் நீதிமன்றத்திற்கு வருகை தந்துள்ளனர்.
-
-◼️
-
-[Data](articles/495ab744.json)
-
----
-
-### நீதிமன்றுக்குள் நுழைந்தது மின்சார சபை
-
-*2025-08-22 18:50:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றுக்குள்-நுழைந்தது-மின்சார-சபை/175-363300) · `ta`
-
-இலங்கை மின்சார சபையின் ஊழியர்கள் (CEB) மின் விநியோகத்தை மீட்டெடுக்க, மின் பழுது நீக்கும் சேவைகள் கோட்டை நீதவான் நீதிமன்ற வளாகத்திற்கு வருகின்றன.
-
-◼️
-
-[Data](articles/4efd4867.json)
 
 ---

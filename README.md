@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 17:17:27**
+As of **2025-08-23 17:32:02**
 
 ## Newspaper Stats
 
-*Scraped **71,936** Articles*
+*Scraped **71,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
-adaderanalk | 9,085
+adaderanalk | 9,086
 tamilmirrorlk | 10,613
 virakesarilk | 11,862
-adaderanasinhalalk | 12,453
+adaderanasinhalalk | 12,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,936 articles have been extended.
+61,973 (86.1%) of 71,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### හෙට උණුසුම් වන ප්‍රදේශ
+
+*2025-08-23 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213712) · `si`
+
+ප්‍රදේශ රැසක මිනිස් සිරුරට දැනෙන උෂ්ණත්වය හෙට (24) දිනයේ ද අවධානය යොමුකළ යුත් මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ උතුර, උතුරු මැද, නැගෙනහිර යන පළාත්වල මෙන්ම මොණරාගල සහ හම්බන්තොට යන දිස්ත්‍රික්කවලද මෙම තත්ත්වය අපේක්ෂා කළ හැකි බවය.
+
+ඒ අනුව අදාළ ප්‍රදේශවල උෂ්ණත්වය සෙල්සියස් අංශක 39ත් 45ත් අතර පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සදහන් කළේය.
+
+◼️
+
+[Data](articles/dcfaa061.json)
+
+---
 
 ### ரணிலை தேசிய வைத்தியசாலைக்கு மாற்றுமாறு பரிந்துரை
 
@@ -51,6 +67,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7bf64da1.json)
+
+---
+
+### Doctors to launch island-wide strike on Monday
+
+*2025-08-23 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111774/doctors-to-launch-island-wide-strike-on-monday) · `en`
+
+The Government Medical Officers’ Association (GMOA) has announced that it will launch a strike on Monday (25) over several demands.
+
+At a press briefing held today (23), the GMOA stated that the island-wide strike will commence at 8.00 a.m. on Monday.
+
+The strike has been planned based on several demands, including issues related to the medical officer transfer process.
+
+◼️
+
+[Data](articles/4ebb8d6f.json)
 
 ---
 
@@ -1803,31 +1835,5 @@ The 1333 Bikeathon charts a powerful journey across Sri Lanka, from southern coa
 ...
 
 [Data](articles/307d9d71.json)
-
----
-
-### විලංගු වැටුණු රනිල් බන්ධනාගාර  බස් රථයෙන් රැගෙන යයි
-
-*2025-08-22 22:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213679) · `si`
-
-රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා රැගත් බන්ධනාගාර බස් රථය මීට සුළු මොහොතකට කොළඹ කොටුව අධිකරණ පරිශ්‍රයෙන් පිටව ගොස් තිබේ.
-
-◼️
-
-[Data](articles/e2588aa1.json)
-
----
-
-### Pan Asia Bank IT team wins at the Global Infosys Finacle Innovation Awards 2025
-
-*2025-08-22 22:35:00* · [`islandlk`](http://island.lk/pan-asia-bank-it-team-wins-at-the-global-infosys-finacle-innovation-awards-2025/) · `en`
-
-Pan Asia Banking Corporation PLC has once again elevated Sri Lanka’s reputation on the global financial stage by winning the prestigious Platinum Award for Maximizing Customer Engagement at the Infosys Finacle Innovation Awards 2025, marking its second consecutive global recognition following last year’s success.
-
-This year’s winning initiative, the pioneering “Falcon Eye” platform, delivers a revolutionary 360-degree customer view by seamlessly consolidating all critical insights from core banking and related systems into a single, unified interface. This integration provides staff with real-time, centralized information that not only enhances service speed and accuracy but also enables effective cross-selling opportunities by offering a complete picture of each customer’s financial portfolio. In addition, it empowers management with deep, data-driven visibility into customer relationships, supporting smarter, faster, and more strategic decision-making.
-
-...
-
-[Data](articles/1af304ed.json)
 
 ---

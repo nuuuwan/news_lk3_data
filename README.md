@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 17:04:54**
+As of **2025-08-23 17:17:27**
 
 ## Newspaper Stats
 
-*Scraped **71,935** Articles*
+*Scraped **71,936** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 607
+dbsjeyarajcom | 608
 bbccomsinhala | 677
 colombotelegraphcom | 732
 economynextcom | 4,400
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,935 articles have been extended.
+61,973 (86.2%) of 71,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,9 +200,9 @@ Accordingly, prison authorities had decided to transfer former President Wickrem
 
 PCID හෙවත් අපරාධයකින් උත්පාදිත දේපළ පිළිබද විමර්ශන කොට්ට්ථාශය ලෙස මෙම අංශය නම් කර ඇත.
 
-මාධ්‍ය වෙත අදහස් දක්වමින් නියෝජ්‍ය පොලිස්පතිවරයා වැඩිදුරටත් සඳහන් කළේ ආරම්භ කිටීමට නියමිත මෙම නව විමර්ශන අංශය පොලිස්පතිතුමාගේ ප්‍රධානත්වයෙන් පොලිස් දිනයට සමගාමීව ආරම්භ කිරීමට කටයුතු සූදානම්ව ඇති බවය.
+මාධ්‍ය වෙත අදහස් දක්වමින් නියෝජ්‍ය පොලිස්පතිවරයා වැඩිදුරටත් සඳහන් කළේ ආරම්භ කිරීමට නියමිත මෙම නව විමර්ශන අංශය පොලිස්පතිතුමාගේ ප්‍රධානත්වයෙන් පොලිස් දිනයට සමගාමීව ආරම්භ කිරීමට කටයුතු සූදානම්ව ඇති බවය.
 
-විශේෂ මෙහෙයුම්වලින් සංවිධානාත්මක අපරාධකරුවන්ගේ දේපල බිලියන 4.5ක් පොලීසිය සිය භාරයට ගෙන ඇති බව ද ඒ මහතා මෙහිදී පැවසුවේය.
+එමෙන්ම විශේෂ මෙහෙයුම්වලින් මේ වන විට සංවිධානාත්මක අපරාධකරුවන්ගේ දේපල බිලියන 4.5ක් පොලීසිය සිය භාරයට ගෙන ඇති බව ද ඒ මහතා මෙහිදී පැවසුවේය.
 
 ඒ අතර ගොඩනැගිලි, නිවාස, වාහන, ඉඩම්, ස්වර්ණාභරණ, බෝට්ටු සහ මුදල්වලින් රුපියල් මිලියන 57ක්ද වන බව වාර්තා වේ.
 
@@ -1298,6 +1298,42 @@ The general public has also been requested to take adequate precautions to minim
 
 ---
 
+### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
+
+*2025-08-23 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
+
+The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
+
+Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
+
+...
+
+[Data](articles/d609682b.json)
+
+---
+
+### Former President Ranil Wickremesinghe Transferred to National Hospital from Prison Hospital due to Unstable Health Condition. Intensive Specialist care provided after steeo rise in Blood Pressure and Blood sugar levels
+
+*2025-08-23 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86311) · `en`
+
+The medical condition of former President Ranil Wickremesinghe, who was admitted to the prison hospital on the night of 22 August 2025  following a remand order, is reported to he  unstable.
+
+A prison official said Wickremesinghe was first brought to the Magazine Prison, where doctors who examined him recommended a transfer to the Welikada Prison Hospital after his blood pressure and sugar levels were found to be elevated.
+
+However, it was reported that his blood pressure further increased by this afternoon.
+
+The Former President was  transferred to the National Hospital in Colombo due to health concerns.
+
+According to sources, the move followed medical assessments that recommended specialist care not available at the prison hospital.
+
+Wickremesinghe, who was remanded on 22 August  was first admitted to the prison hospital with multiple health complications.
+
+...
+
+[Data](articles/27054498.json)
+
+---
+
 ### வெளிநாட்டிலிருந்து வந்த பெண் உயிரிழப்பு
 
 *2025-08-23 02:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-உயிரிழப்பு/175-363327) · `ta`
@@ -1328,23 +1364,9 @@ The general public has also been requested to take adequate precautions to minim
 
 ---
 
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
-
-*2025-08-23 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
-
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
-
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
-
-...
-
-[Data](articles/d609682b.json)
-
----
-
 ### Former   President Ranil Wickremesinghe Arrested on August 22  by CID  for alleged misuse of State funds for personal UK trip in 2023  and  Remanded by Colombo Fort Magistrate Until Aug 26
 
-*2025-08-23 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86306) · `en`
+*2025-08-23 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86306) · `en`
 
 Former President Ranil Wickremesinghe was yesterday ( Aug 22 )  remanded by the Colombo Fort Magistrate’s Court for  four days until 26 August.
 
@@ -1807,21 +1829,5 @@ This year’s winning initiative, the pioneering “Falcon Eye” platform, del
 ...
 
 [Data](articles/1af304ed.json)
-
----
-
-### Prem Watsa’s visit underscores Fairfax’s long-term commitment to Sri Lanka
-
-*2025-08-22 22:34:00* · [`islandlk`](http://island.lk/prem-watsas-visit-underscores-fairfaxs-long-term-commitment-to-sri-lanka/) · `en`
-
-Fairfirst Insurance had the honour of welcoming Prem Watsa, Chairman and Chief Executive Officer of Fairfax Financial Holdings Limited, to its head office in Colombo on 14 August 2025. Returning to Sri Lanka after six years, his visit reaffirmed the Fairfax Group’s strong and ongoing commitment to the country.
-
-Even during the most challenging years of Sri Lanka’s economic crisis, Fairfirst stood firmly by its people—ensuring stability for employees and continuity for customers at a time when uncertainty was widespread. The Chairman’s visit was a meaningful recognition of that resilience and a celebration of the company’s values in action.
-
-Watsa acknowledged Sri Lanka’s remarkable recovery in the aftermath of the 2022 crisis, noting how the country has steadily regained its footing through bold reforms, improved governance, and renewed investor confidence.
-
-...
-
-[Data](articles/dcf3f75e.json)
 
 ---

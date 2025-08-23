@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 15:17:56**
+As of **2025-08-23 15:31:57**
 
 ## Newspaper Stats
 
-*Scraped **71,922** Articles*
+*Scraped **71,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
-adaderanalk | 9,080
-tamilmirrorlk | 10,610
+adaderanalk | 9,083
+tamilmirrorlk | 10,611
 virakesarilk | 11,862
 adaderanasinhalalk | 12,448
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,922 articles have been extended.
+61,973 (86.2%) of 71,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Ex-President Ranil to be transferred to Colombo National Hospital?
+
+*2025-08-23 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111771/ex-president-ranil-to-be-transferred-to-colombo-national-hospital) · `en`
+
+Doctors have reportedly recommended that former President Ranil Wickremesinghe, who is currently receiving treatment at the Prison Hospital, be transferred to the Colombo National Hospital.
+
+According to reports, prison doctors who examined him today made this recommendation after assessing his health condition.
+
+Wickremesinghe, who was remanded until August 26 following his arrest by the Criminal Investigation Department (CID) yesterday, was admitted to the Prison Hospital last night (22) on medical advice due to high blood pressure and elevated blood sugar levels.
+
+Prison doctors, who have been continuously monitoring his health condition, have also recommended that he be provided with home cooked meals.
+
+It is further reported that the approval of Prison Headquarters has been granted in this regard.
+
+Accordingly, prison authorities have decided to transfer former President Wickremesinghe to the Colombo National Hospital due to his health issues.
+
+◼️
+
+[Data](articles/f8bba300.json)
+
+---
 
 ### රනිල්ගේ විදෙස් සංචාරයට මුදල් අනුමත කළ සමන් ඒකනායකටත් වැඩවරදින ලකුණු
 
@@ -73,6 +95,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/75e405f2.json)
+
+---
+
+### Ex-President Ranil granted permission to receive home-cooked meals
+
+*2025-08-23 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111770/ex-president-ranil-granted-permission-to-receive-home-cooked-meals) · `en`
+
+Former President Ranil Wickremesinghe’s request to receive meals from home due to health reasons has been granted.
+
+When inquired by Ada Derana, Prison Media Spokesperson and Commissioner Jagath Weerasinghe said that approval was given following the request made by the former President.
+
+Wickremesinghe, who is currently in remand custody, has been admitted to the Prison Hospital on medical advice after being diagnosed with high blood pressure and elevated blood sugar levels.
+
+Former President Wickremesinghe, who was placed in remand custody, was admitted to the prison hospital last night (22) on medical advice.
+
+◼️
+
+[Data](articles/91625de9.json)
+
+---
+
+### ரணிலை சந்தித்த பின் சஜித் கூறியது என்ன?
+
+*2025-08-23 14:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்த-பின்-சஜித்-கூறியது-என்ன/175-363336) · `ta`
+
+சட்டத்தை அமுல்படுத்துவது தொடர்பாக சமூக ஊடகங்களில் ஒருவர் கணிப்புகளை வெளியிட்டு நீதிமன்றத்தை அவமதிப்பு செய்துள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் சுகநலன்களை விசாரிப்பதற்காக புதிய மெகசின் சிறைச்சாலைக்கு இன்று (23) காலை சென்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது சஜித் பிரேமதாச இந்தக் கருத்துக்களை வௌியிட்டார்.
+
+நீதிக்கான செயல்முறை மற்றும் சட்டத்தின் ஆட்சி செயல்படுத்தப்படும் நேரத்தில், சட்டத்தில் குறிப்பிடப்படாத மூன்றாம் தரப்பினரால் சட்டத்தின் இறுதி முடிவை கணிக்க முடியாது என்று சஜித் பிரேமதாச இதன்போது வலியுறுத்தினார்.
+
+இது மிகவும் ஆபத்தான சூழ்நிலை என்றும், ஜனநாயகத்தைப் பாதுகாக்க வேண்டும் என்றால், சட்டத்தை அமுல்படுத்தும் முறை சரியானது என்று நாட்டு மக்கள் நம்ப வேண்டும் என்றும் சஜித் பிரேமதாச கூறினார்.
+
+...
+
+[Data](articles/13690243.json)
+
+---
+
+### Notice issued on Arjuna Mahendran to appear before court
+
+*2025-08-23 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111769/notice-issued-on-arjuna-mahendran-to-appear-before-court-) · `en`
+
+The Colombo Magistrate’s Court has issued a notice on former Governor of the Central Bank of Sri Lanka (CBSL), Arjuna Mahendran, who has been named as a suspect in the 2015 Central Bank bond scam, to appear before court on September 26.
+
+The notice was issued by Colombo Chief Magistrate Thanuja Lakmali Jayatunga after considering a request made by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), said Ada Derana reporter.
+
+Mahendran, who is currently residing in Singapore, was summoned to appear before court.
+
+It was revealed that although a notice had been issued last year, it had not been properly executed.
+
+Accordingly, the Bribery Commission requested the court to issue the notice in English to ensure proper implementation.
+
+The Chief Magistrate accepted the request and accordingly issued the notice.
+
+...
+
+[Data](articles/59e601df.json)
 
 ---
 
@@ -1713,81 +1793,5 @@ After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapur
 ...
 
 [Data](articles/30dbde08.json)
-
----
-
-### හිටපු ජනපති රනිල් රිමාන්ඩ්
-
-*2025-08-22 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213677) · `si`
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහේස්ත්‍රාත් අධිකරණය අද (22) නියම කළේය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් සහ සැකකාර රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ අනූජ ප්‍රේමරත්න ඇතුළු නීතිඥ මණ්ඩලයක් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය මෙම නියෝගය නිකුත් කළාය.
-
-නියෝගය ප්‍රකාශයට පත් කරමින් මහේස්ත්‍රාත්වරිය සඳහන් කළේ මෙම නඩු විභාගයේදී ඉදිරිපත් වූ කරුණු විශ්ලේෂණය කිරීමේදී මෙම නඩුකරයට පාදක වන ප්‍රශ්නගත සංචාරය පෞද්ගලික සංචාරයක් බව පෙනී යන බවය.
-
-එමෙන්ම එම සංචාරය සඳහා සැකකරු රජයේ මුදල් භාවිත කළ බව සැකකාර පාර්ශවයේ නීතිඥවරු  ප්‍රතික්ෂේප කර නොමැති බවත් තීන්දුවේ සඳහන් විය.
-
-...
-
-[Data](articles/2b3acbfb.json)
-
----
-
-### Sri Lanka ex-President Ranil Wickremesinghe remanded after arrest
-
-*2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-after-arrest-237900/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department when he came in to give a statement.
-
-Wickremesinghe was arrested over alleged the mis-use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, when he was returning from the US after addressing a UN General Assembly meeting.
-
-The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
-
-A letter purportedly inviting him to the University of Wolverhampton was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
-
-...
-
-[Data](articles/90799bbe.json)
-
----
-
-### Sri Lanka ex-President Ranil Wickremesinghe remanded after arrest
-
-*2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-237900/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department after he came to give a statement.
-
-Wickremesinghe was arrested over alleged the use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, during a foreign visit while he was President.
-
-The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
-
-A letter purportedly inviting him to the University of Wolverhamptom was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
-
-...
-
-[Data](articles/f30e5366.json)
-
----
-
-### Derana Signal Colombo International Kite Festival’s opening ceremony begins
-
-*2025-08-22 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111751/derana-signal-colombo-international-kite-festivals-opening-ceremony-begins) · `en`
-
-The Derana Signal Colombo International Kite Festival is scheduled to be held on Sunday (August 24) at Galle Face Green, Colombo, while its official opening ceremony commenced a short while ago at the Cinnamon Grand Colombo.
-
-All arrangements have been finalized to host the Kite Festival, which will light up the Colombo sky on Sunday, (August 24) at Galle Face Green.
-
-The event, organized by TV Derana, the Sri Lanka Tourism Promotion Bureau, and Sri Lanka Police, is expected to feature 500 local competitors along with over 50 foreign participants representing 25 countries.
-
-Foreign competitors taking part in the Kite Festival gathered for a training session at the Galle Face Green in Colombo today.
-
-A total of 54 contestants are representing the foreign teams, with Derana representatives also joining the event.
-
-Meanwhile, the official theme song of the Kite Festival is scheduled to be released during the opening ceremony tonight.
-
-◼️
-
-[Data](articles/fe81fc83.json)
 
 ---

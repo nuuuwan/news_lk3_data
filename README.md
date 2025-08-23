@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 09:49:59**
+As of **2025-08-23 10:08:01**
 
 ## Newspaper Stats
 
-*Scraped **71,888** Articles*
+*Scraped **71,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,909
-adaderanalk | 9,068
+adaderanalk | 9,071
 tamilmirrorlk | 10,608
 virakesarilk | 11,862
-adaderanasinhalalk | 12,433
+adaderanasinhalalk | 12,434
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,888 articles have been extended.
+61,973 (86.2%) of 71,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### රනිල් බලන්න සජිත් එයි
+
+*2025-08-23 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213691) · `si`
+
+බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් බැලීමට විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/1feb87cf.json)
+
+---
 
 ### ශ්‍රී ලාංකික අධ්‍යයන 20ක් ඇතුළත් ලොව ප්‍රකට කොට්ලර්ගේ ග්‍රන්ථය එළිදකී
 
@@ -43,6 +55,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bd0f9a73.json)
+
+---
+
+### TV Derana featured as case study in Prof. Philip Kotler’s ‘Essentials of Modern Marketing’
+
+*2025-08-23 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111759/tv-derana-featured-as-case-study-in-prof-philip-kotlers-essentials-of-modern-marketing) · `en`
+
+The book ‘Essentials of Modern Marketing’ Sri Lanka and Maldives edition by the world-renowned Prof. Philip Kotler, featuring 20 Sri Lankan case studies, was launched last evening (22) with TV Derana also featured.
+
+The case studies provide localised insights into successful branding strategies, serving as an invaluable resource for businesses, students, and marketing professionals throughout Sri Lanka and the Maldives.
+
+◼️
+
+[Data](articles/59e3cd2a.json)
 
 ---
 
@@ -61,6 +87,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f3b1cb85.json)
+
+---
+
+### Several politicians visited Ranil last night following his remand
+
+*2025-08-23 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111758/several-politicians-visited-ranil-last-night-following-his-remand) · `en`
+
+Several politicians visited the Magazine New Remand Prison last night (22) following the remand of former President Ranil Wickremesinghe.
+
+Former ministers Duminda Dissanayake and Prasanna Ranatunga, along with a group of supporters including MP Chamara Sampath, arrived at the prison.
+
+However, they were not permitted to enter and were later captured on camera by Ada Derana while waiting outside.
+
+Former President Wickremesinghe, who was placed in remand custody, was admitted to the prison hospital last night (22) on medical advice.
+
+An inquiry made by Ada Derana revealed that he was admitted due to high blood pressure and elevated sugar levels.
+
+Yesterday, the Colombo Fort Magistrate’s Court ordered that former President Wickremesinghe, who had been arrested by the Criminal Investigation Department (CID) and produced before court, be remanded until August 26.
+
+...
+
+[Data](articles/66644979.json)
 
 ---
 
@@ -95,6 +143,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/cf6b83a8.json)
+
+---
+
+### Police OIC injured in van collision while on duty
+
+*2025-08-23 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111757/police-oic-injured-in-van-collision-while-on-duty) · `en`
+
+Kalutara North Police OIC, Chief Inspector Thushara Silva, was injured in a collision with a van while on special operations duty.
+
+According to Kalutara North Police, the accident occurred last night (22) in the Wadiyamankada area, Waskaduwa, while he was travelling from Panadura towards Kalutara.
+
+The injured officer has been transferred to the Colombo National Hospital for treatment.
+
+Police further stated that the van involved in the accident has been taken into custody, and its driver has been arrested.
+
+◼️
+
+[Data](articles/180131db.json)
 
 ---
 
@@ -1649,59 +1715,5 @@ Days later parliament elected him as the 8th Executive President of the country,
 ◼️
 
 [Data](articles/90edc8bd.json)
-
----
-
-### காதர் நானா வத்தையில் துப்பாக்கிச் சூடு
-
-*2025-08-22 18:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதர்-நானா-வத்தையில்-துப்பாக்கிச்-சூடு/175-363298) · `ta`
-
-பொரளை காதர் நானா வத்தையில் துப்பாக்கிச் சூடு ஒருவருக்கும் பாதிப்பில்லை என்கிறது பொலிஸ்
-
-◼️
-
-[Data](articles/effcfbe9.json)
-
----
-
-### Shooting incident reported in Borella
-
-*2025-08-22 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111746/shooting-incident-reported-in-borella) · `en`
-
-A shooting incident has been reported in the Kader Nana Watte area in Borella this evening (22).
-
-However, it is reported that no one was injured in the shooting incident.
-
-Police said that the magazine of a firearm and a spent cartridge has been recovered from the scene.
-
-◼️
-
-[Data](articles/d9d8f1f8.json)
-
----
-
-### බොරැල්ලේ වෙඩි තැබීමක්
-
-*2025-08-22 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213669) · `si`
-
-බොරැල්ල කාදර් නානාවත්ත ප්‍රදේශයේදී අද (22) පස්වරුවේ වෙඩි තැබීමක් සිදුව තිබේ.
-
-◼️
-
-[Data](articles/b52185ce.json)
-
----
-
-### ரணில் கைது; கடுமையாக சாடினார் சஜித்
-
-*2025-08-22 17:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-கடுமையாக-சாடினார்-சஜித்/175-363297) · `ta`
-
-முன்னாள்‌ ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளமை தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கடுமையான பதிவொன்றை இட்டுள்ளார்.
-
-யூடியூபர் ஒருவர் முன்னாள் ஜனாதிபதி ஒருவர் கைது செய்யப்படுவார் என்பது நடப்பதற்கு முன்னமே எதிர்வு கூறுவது ? இது வெறும் தற்செயல் நிகழ்வாக இருக்க முடியாது, இது ஒரு திட்டமிட்ட நிகழ்வாக அமைந்திருக்க முடியுமா? அது உண்மையாக இருந்தால், சட்டம் ஒழுங்கு போன்ற உன்னதமானதொரு விடயம் மலிவான நாடகக் காட்சியாக மாறும் அந்நாள் மோசமானதொரு நாளாகும்.
-
-◼️
-
-[Data](articles/49654c65.json)
 
 ---

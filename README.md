@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 09:03:37**
+As of **2025-08-23 09:25:23**
 
 ## Newspaper Stats
 
-*Scraped **71,885** Articles*
+*Scraped **71,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,909
 adaderanalk | 9,068
-tamilmirrorlk | 10,606
+tamilmirrorlk | 10,607
 virakesarilk | 11,862
 adaderanasinhalalk | 12,432
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,885 articles have been extended.
+61,973 (86.2%) of 71,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### காசா நகரம் அழிக்கப்படும்: இஸ்ரேல் எச்சரிக்கை
+
+*2025-08-23 08:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-நகரம்-அழிக்கப்படும்-இஸ்ரேல்-எச்சரிக்கை/50-363332) · `ta`
+
+இஸ்​ரேலுக்​கும் பாலஸ்​தீனத்​தின் காசாவை ஆளும் ஹமாஸ் தீவிர​வா​தி​களுக்​கும் இடையே இரண்​டாம் கட்ட போர் நிறுத்​தம் தொடர்​பாக பேச்​சு​வார்த்தை நடை​பெற்​றது.
+
+இதில் இஸ்​ரேல் விதித்த நிபந்​தனை​களை ஹமாஸ் ஏற்க மறுத்​தது. இதையடுத்து காசா மீது இஸ்​ரேல் மீண்​டும் தாக்​குதல் நடத்தி வரு​கிறது.
+
+இந்​நிலை​யில் இஸ்​ரேல் பாது​காப்பு அமைச்​சர் இஸ்​ரேல் காட்ஸ் நேற்று எக்ஸ் தளத்​தில் வெளி​யிட்ட பதிவில்,
+
+போரை முடிவுக்கு கொண்டு வரு​வதற்​கான இஸ்​ரேலின் நிபந்​தனை​களை ஹமாஸ் ஏற்​கா​விட்​டால் குறிப்​பாக அனைத்து பணயக் கைதி​களை​யும் விடு​வித்​து, ஆயுதக்​குறைப்​புக்கு முன்​வ​ரா​விட்​டால் ஹமாஸின் தலைநகர​மான காசா அழிக்​கப்​படும் என்று எச்​சரித்​துள்​ளார். (a)
+
+◼️
+
+[Data](articles/688c8833.json)
+
+---
 
 ### 10 கோடி ரூபாய் பணம், போதைப்பொருளுடன் இருவர் கைது
 
@@ -1018,13 +1036,13 @@ After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapur
 
 *2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-after-arrest-237900/) · `en`
 
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department after he came to give a statement.
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department when he came in to give a statement.
 
-Wickremesinghe was arrested over alleged the use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, during a foreign visit while he was President.
+Wickremesinghe was arrested over alleged the use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, when he was returning from the US after addressing a UN General Assembly meeting.
 
 The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
 
-A letter purportedly inviting him to the University of Wolverhamptom was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
+A letter purportedly inviting him to the University of Wolverhampton was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
 
 ...
 
@@ -1691,27 +1709,5 @@ A bond maturing on 15.12.2032 closed at 10.25/31 percent, down from 10.25/33 per
 ◼️
 
 [Data](articles/4e1266c9.json)
-
----
-
-### රනිල්ගේ ඇප ඉල්ලීම පිළිබඳ නියෝගය පැය භාගයකට කල් යයි
-
-*2025-08-22 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213668) · `si`
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඇප ඉල්ලීම පිළිබඳ නියෝගය ප්‍රකාශ කිරීම පැය භාගයකට කල් තබන බව කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ප්‍රකාශ කළේය.
-
-මෙම ඇප ඉල්ලීම කොළඹ  කොටුව මහෙස්ත්‍රාත් නිලුපුලි ලංකාපුර මහත්මිය ඉදිරියේ සලකා බැලුණි.
-
-එහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් මහතා අධිකරණය හමුවේ කරමින් මෙම සැකකරුට එරෙහිව පොදු දේපොළ පනත යටතේ කරුණු ඉදිරිපත් කරන බව සඳහන් කළේය.
-
-විමර්ශන කටයුතු අවසන් නොමැති නිසා සැකකරු රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් ඔහු ඉල්ලා සිටියේය.
-
-සැකකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ අනූජ ප්‍රේමරත්න මහතා අධිකරණයේ කරුණු දක්වමින් සැකකරු ඇප මත මුදාහරින ලෙස ඉල්ලා සිටියේය.
-
-ඉන් අනතුරුව ඇප ඉල්ලීම පිළිබඳ නියෝගය ප්‍රකාශ කිරීම පැය භාගයකට කල් තබන බව මහෙස්ත්‍රාත්වරිය නිවේදනය කළාය.
-
-◼️
-
-[Data](articles/8238cf35.json)
 
 ---

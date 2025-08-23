@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 16:31:56**
+As of **2025-08-23 16:48:27**
 
 ## Newspaper Stats
 
-*Scraped **71,930** Articles*
+*Scraped **71,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
-adaderanalk | 9,083
+adaderanalk | 9,085
 tamilmirrorlk | 10,612
 virakesarilk | 11,862
 adaderanasinhalalk | 12,451
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,930 articles have been extended.
+61,973 (86.2%) of 71,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Police confirm probe against former Presidential Secretary over Ranil’s UK visit
+
+*2025-08-23 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111773/police-confirm-probe-against-former-presidential-secretary-over-ranils-uk-visit) · `en`
+
+Sri Lanka Police have confirmed that investigations are currently underway regarding former Presidential Secretary Saman Ekanayake in connection with the approving of funds for the foreign visit of former President Ranil Wickremesinghe, who is presently in remand custody.
+
+Deputy Inspector General of Police Kalinga Jayasinghe, who is in charge of the Police Legal Division, made this statement during a special police media briefing held today (23) regarding the arrest of Ranil Wickremesinghe and related investigations.
+
+When questioned by journalists on whether Saman Ekanayake was also scheduled to be arrested in connection with the matter, Jayasinghe stated that he could not comment, as investigations are ongoing.
+
+...
+
+[Data](articles/8d6db9d3.json)
+
+---
 
 ### මත්ද්‍රව්‍ය තොගයක් සමඟ පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට
 
@@ -53,6 +69,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4fe5946e.json)
+
+---
+
+### Former President Ranil transferred to Colombo National Hospital
+
+*2025-08-23 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111772/former-president-ranil-transferred-to-colombo-national-hospital) · `en`
+
+Former President Ranil Wickremesinghe, who was receiving treatment at the Prison Hospital, has been transferred to the Colombo National Hospital.
+
+According to reports, prison doctors who examined him today recommended the transfer after assessing his health condition.
+
+Wickremesinghe, who was remanded until August 26 following his arrest by the Criminal Investigation Department (CID) yesterday, was admitted to the Prison Hospital last night (22) on medical advice due to high blood pressure and elevated blood sugar levels.
+
+Prison doctors, who have been continuously monitoring his health condition, have also recommended that he be provided with home cooked meals.
+
+It is further reported that the approval of Prison Headquarters has been granted in this regard.
+
+Accordingly, prison authorities had decided to transfer former President Wickremesinghe to the Colombo National Hospital due to his health issues.
+
+◼️
+
+[Data](articles/5205842c.json)
 
 ---
 
@@ -1771,41 +1809,5 @@ As a progressive development bank with a unique mandate, SDB bank continues to p
 ...
 
 [Data](articles/7b9426e2.json)
-
----
-
-### NDB Toastmasters Club ushers in a new era of leadership at 13th Executive Committee Installation
-
-*2025-08-22 22:28:00* · [`islandlk`](http://island.lk/ndb-toastmasters-club-ushers-in-a-new-era-of-leadership-at-13th-executive-committee-installation/) · `en`
-
-NDB Bank proudly celebrated the 13th Executive Committee Installation Ceremony of the NDB Toastmasters Club on 6 August 2025 at the Hilton Colombo Residencies, an evening marked by leadership, fellowship, and inspiration, reflecting the Bank’s commitment to nurturing talent, empowering communication, and fostering personal and professional growth among its employees.
-
-The ceremony was graced by Mr. Lasantha Dasanayaka, Vice President – Human Resources at NDB Bank, who attended as Chief Guest, while the Guest of Honour was distinguished Toastmaster Niroshan Nadarajah, District Director – District 82, who delivered a motivational address to the newly appointed leaders. District officials DTM Bhathiya Hettiarachchi (Program Quality Director) and DTM Piyakara Jayaratne (Club Growth Director) added their presence to the occasion.
-
-...
-
-[Data](articles/9d24eb1e.json)
-
----
-
-### Month-end profit-takings weigh down on bourse; Ambeon Capital figures in notable share transaction
-
-*2025-08-22 22:27:00* · [`islandlk`](http://island.lk/month-end-profit-takings-weigh-down-on-bourse-ambeon-capital-figures-in-notable-share-transaction/) · `en`
-
-Ambeon Capital said it had acquired a 6.8 percent stake of the ordinary voting shares of Ceylon Hotels Corporation for Rs 320 million. This constitutes 12,310,543 shares.Ambeon Holdings paid Rs 26 per share, the company said in a stock exchange filing.
-
-A Ceylon Hotels Corporation stock was trading down 60 cents at Rs 32,whileAmbeon Holdings said it had acquired a 6.09 percent stake of the ordinary voting shares of The Kandy Hotels Corporation (1938) PLC for Rs 550.8 million.
-
-Ambeon Holdings paid Rs 12 per share, the company said in a stock exchange filing.
-
-The Kandy Hotels Corporation (1938) stock was trading down 30 cents at Rs 17.50.
-
-Kandy Hotels Company (1938), a subsidiary of Ceylon Hotels Corporation PLC, owns the Queen’s Hotel and Hotel Suisse located in Kandy.
-
-Meanwhile CSE trading activities were down yesterday due to month end profit- takings.
-
-...
-
-[Data](articles/1a5c74e3.json)
 
 ---

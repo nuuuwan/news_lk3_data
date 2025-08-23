@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 04:32:04**
+As of **2025-08-24 04:51:09**
 
 ## Newspaper Stats
 
-*Scraped **71,958** Articles*
+*Scraped **71,959** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 609
 bbccomsinhala | 677
-colombotelegraphcom | 733
+colombotelegraphcom | 734
 economynextcom | 4,402
 islandlk | 4,421
 dailymirrorlk | 4,733
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,958 articles have been extended.
+61,973 (86.1%) of 71,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### Government Must Work With Mandatory Fingerprint Attendance System
+
+*2025-08-23 23:00:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/government-must-work-with-mandatory-fingerprint-attendance-system/) · `en`
+
+The fingerprint system uses biometric fingerprints. In simple terms, it’s a biometric time-tracking system designed for fairness and accountability in various professions. Canners can record their attendance at workplaces or institutions. Instead of just signing a register or calling out names, employees need to scan their fingerprints to verify their presence. The goal is to prevent proxy attendance (someone else signing in for you). This ensures accurate records of who is there and for how long. It also boosts accountability, especially in public institutions where taxpayer money is involved. Additionally, it can help (i) reduce absenteeism, (ii) reduce false overtime claims, and (iii) reduce misuse of public funds. In short, it’s a biometric time-tracking system created for fairness and accountability across professions. This system is used in other countries, such as India, Malaysia, and New Zealand.
+
+...
+
+[Data](articles/5a9b39db.json)
+
+---
 
 ### Ranil Wickremesinghe: A Career Of Losing The Plot
 
@@ -1859,19 +1871,5 @@ Catholic Bishops’ Conference of Sri Lanka Chairman Bishop Harold Anthony Perer
 ◼️
 
 [Data](articles/2c91b08d.json)
-
----
-
-### Ali Sabry criticises arrest of former President Wickremesinghe
-
-*2025-08-23 00:25:42* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-criticises-arrest-of-former-President-Wickremesinghe/56-780668) · `en`
-
-Former Foreign Affairs and Justice Minister Mohamed Ali Sabry PC said the arrest of former President Ranil Wickremesinghe, as predicted by a YouTuber, was a troubling development.
-
-“Such actions reflect a disturbing trend of vindictive and destructive politics which undermines our institutions and our future. This cycle of hatred and retribution must end. Sri Lanka deserves a politics of reason, stability, and gratitude to those who have time and again safeguarded our nation,” Ali Sabry said in a statement.
-
-...
-
-[Data](articles/4a2ee054.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 08:00:00**
+As of **2025-08-23 08:38:06**
 
 ## Newspaper Stats
 
-*Scraped **71,877** Articles*
+*Scraped **71,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,95 @@ newsfirstlk | 363
 dbsjeyarajcom | 606
 bbccomsinhala | 677
 colombotelegraphcom | 731
-economynextcom | 4,399
+economynextcom | 4,400
 islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,908
 adaderanalk | 9,067
-tamilmirrorlk | 10,603
+tamilmirrorlk | 10,605
 virakesarilk | 11,862
-adaderanasinhalalk | 12,430
+adaderanasinhalalk | 12,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,877 articles have been extended.
+61,973 (86.2%) of 71,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ஆறாவது நாளாக தொடரும் போராட்டம்
+
+*2025-08-23 08:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறாவது-நாளாக-தொடரும்-போராட்டம்/175-363330) · `ta`
+
+தபால் ஊழியர்கள் ஆரம்பித்த வேலைநிறுத்தம் இன்று (23) தொடர்ந்து ஆறாவது நாளாக முன்னெடுக்கப்பட்டு வருகின்றது.
+
+19 கோரிக்கைகளை முன்வைத்து ஞாயிற்றுக்கிழமை (17) முதல் இவர்களது தொழிற்சங்க போராட்டம் தொடங்கப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/bfec84be.json)
+
+---
+
+### மோடி - இமானுவேல் மெக்ரான் தொலைபேசி உரையாடல்
+
+*2025-08-23 08:18:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-இமானுவேல்-மெக்ரான்-தொலைபேசி-உரையாடல்/175-363328) · `ta`
+
+பி​ரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்​ரான், பிரதமர் நரேந்​திர மோடியை தொலைபேசி​யில் தொடர்பு கொண்டு பேசி​னார்.
+
+உக்​ரைன் போரை நிறுத்​து​வது தொடர்​பாக கடந்த 15 ஆம் திகதி அமெரிக்க ஜனாதிபதி டொனால்ட்  ட்ரம்​பும் ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினும் அமெரிக்​கா​வில் சந்​தித்​துப் பேசினர். இதைத் தொடர்ந்து கடந்த 18 ஆம் திகதி அமெரிக்க ஜனாதிபதி ட்ரம்​பை, உக்​ரைன் ஜனாதிபதி ஜெலன்​ஸ்கி சந்​தித்​துப் பேசி​னார். அப்​போது பிரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்​ரான் உட்பட ஐரோப்​பிய தலை​வர்​கள் உடன் இருந்​தனர்.
+
+இந்த சூழலில் பிரான்ஸ் ஜனாதிபதி மெக்​ரான், பிரதமர் நரேந்​திர மோடியை நேற்று முன்​தினம் தொலைபேசி​யில் தொடர்பு கொண்டு பேசி​னார். அப்​போது உக்​ரைன் போர் மற்​றும் காசா போர் குறித்து இரு தலை​வர்​களும் ஆலோ​சனை நடத்​தியுள்ளனர். (a)
+
+◼️
+
+[Data](articles/b51e19fc.json)
+
+---
+
+### හිටපු ජනපති රනිල්ව බලන්න මහ රෑ බන්ධනාගාරයට ගිය දුමින්ද, ප්‍රසන්න සහ චාමර
+
+*2025-08-23 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213689) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමෙන් පසු දේශපාලඥයින් කිහිපදෙනෙකුම ඊයේ (22) රාත්‍රියේම නව මැගසින් බන්ධනාගාරය වෙත පැමිණි තිබුණි.
+
+එලෙස පැමිණ තිබුණේ, හිටපු අමාත්‍යවරුන් වන දුමින්ද දිසානායක, ප්‍රසන්න රණතුංග සහ පාර්ලිමෙන්තු මන්ත්‍රී චාමර සම්පත් ඇතුළු ආධාරකරුවන් පිරිසකි.
+
+ඔවුන් බන්ධනාගාරය වෙත පැමිණිය ද ඉන් ඇතුළුවීමට අවසර නොලැබුණු අතර, පසුව බන්ධනාගාරය පිටත රැඳී සිටින ආකාරය අද දෙරණ කැමරාවේ ද සටහන්ව තිබුණි.
+
+රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (22) රාත්‍රියේ බන්ධනාගාර රෝහලට ඇතුළත් කළේ, වෛද්‍ය උපදෙස් මතය.
+
+'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ඊයේ නියම කළේය.
+
+...
+
+[Data](articles/9d2a59e8.json)
+
+---
+
+### රාජකාරියේ නිරතවී සිටි පොලිස් ස්ථානාධිපති වෑන් රථයක ගැටෙයි
+
+*2025-08-23 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213688) · `si`
+
+විශේෂ මෙහෙයුම් රාජකාරියක යෙදී සිටියදී කළුතර උතුර පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තුෂාර සිල්වා මහතා වෑන් රථයක ගැටී තිබේ.
+
+කළුතර උතුර පොලීසිය පැවසුවේ ඊයේ (22) රාත්‍රියේ වස්කඩුව වාඩියමංකඩ ප්‍රදේශයේදී පානදුර දෙස සිට කළුතර දෙසට ගමන් කිරීමේදී මෙලෙස වැන් රථයක ගැටී ඇති බවය.
+
+අනතුරින් තුවාල ලැබූ ස්ථානාධිපතිවරයා කොළඹ ජාතික රෝහලට මාරුකර යැවූ බව පොලිසිය වැඩිදුරටත් පැවසීය.
+
+වැන් රථය පොලිස් භාරයට ගෙන ඇති බවත් රියදුරු අත්අඩංගුවට ගෙන ඇති බවත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/2576f646.json)
+
+---
 
 ### නිව්යෝර්ක් හි සංචාරක බස් රථයක් අනතුරක
 
@@ -328,7 +398,7 @@ The general public has also been requested to take adequate precautions to minim
 
 'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (22) නියම කළේය.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ඊයේ (22) නියම කළේය.
 
 අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් සහ සැකකාර රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ අනූජ ප්‍රේමරත්න ඇතුළු නීතිඥ මණ්ඩලයක් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මෙහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය මෙම නියෝගය නිකුත් කළාය.
 
@@ -892,7 +962,25 @@ After considering the facts presented, Colombo Fort Magistrate Nilupuli Lankapur
 
 ---
 
-### Sri Lanka ex-President Ranil Wickremesinghe remanded
+### Sri Lanka ex-President Ranil Wickremesinghe remanded after arrest
+
+*2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-after-arrest-237900/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court, after being arrested by the police criminal investigation department after he came to give a statement.
+
+Wickremesinghe was arrested over alleged the use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, during a foreign visit while he was President.
+
+The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
+
+A letter purportedly inviting him to the University of Wolverhamptom was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
+
+...
+
+[Data](articles/90799bbe.json)
+
+---
+
+### Sri Lanka ex-President Ranil Wickremesinghe remanded after arrest
 
 *2025-08-22 22:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-237900/) · `en`
 
@@ -903,8 +991,6 @@ Wickremesinghe was arrested over alleged the use of state-funds for a stop-over 
 The stop-over was initially described as a private visit in documents but later the expenses for President Wickremesinghe and his staff including bodyguards were paid from state funds, court was told.
 
 A letter purportedly inviting him to the University of Wolverhamptom was presented to court, but no mention of it had been made in 2023 when he was president, or witnesses who were questioned by police, court was told.
-
-Wickremesinghe became acting president following the resignation of President Gotabaya Rajapaksa on July 15, 2022.
 
 ...
 
@@ -1631,87 +1717,5 @@ A YouTuber predicting the arrest of a former President before it even happens? T
 ...
 
 [Data](articles/ed60f6c3.json)
-
----
-
-### ரணிலுக்கு பிணை
-
-*2025-08-22 16:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பிணை/175-363296) · `ta`
-
-அரச நிதியை முறைக்கேடாக பயன்படுத்திய குற்றச்சாட்டின் கீழ், விசாரணைகளுக்காக இன்று அழைக்கப்பட்டிருந்த நிலையில் கைது செய்யப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க பிணையில் விடுவிக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/700b8a2c.json)
-
----
-
-### ரணிலுக்கு பிணை : 30 நிமிடங்கள் ஒத்திவைப்பு
-
-*2025-08-22 16:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பிணை-30-நிமிடங்கள்-ஒத்திவைப்பு/175-363296) · `ta`
-
-முன்னாள்‌ ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டு நீதிமன்றில் ஆஜர்படுத்தப்பட்டுள்ள நிலையில் அவருக்கு பிணை வழங்கப்படும் என அறிவிக்கப்பட்டது.
-
-எனினும், ரணிலின் பிணை மனு மீதான விசாரணை அரை மணி நேரத்திற்கு பிற்போடப்பட்டது . ரணிலுக்கு பிணை வழங்குவதை சட்ட மா அதிபர் திணைக்களம் கடுமையாக ஆட்சேபிக்கிறது.
-
-பிணை வழங்கப்பட்டதாக முன்னர் கூறப்பட்டாலும் அது தொடர்பான நீதிமன்ற இறுதித் தீர்ப்பு இன்னும் வரவில்லை
-
-◼️
-
-[Data](articles/f2d2303a.json)
-
----
-
-### ரணில் கைது : நீதவான் அதிரடி
-
-*2025-08-22 16:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-நீதவான்-அதிரடி/175-363295) · `ta`
-
-அரச நிதியை முறைக்கேடாக பயன்படுத்திய குற்றச்சாட்டின் கீழ், ரணில் விக்ரமசிங்க விசாரணைகளுக்காக இன்று அழைக்கப்பட்டிருந்தார்.
-
-இதன்படி, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, கொழும்பில் உள்ளகுற்றப் புலனாய்வு திணைக்களத்தில் இன்று முற்பகல் ஆஜராகியிருந்தார்.
-
-ரணில் விக்ரமசிங்க தனது மனைவியான மைத்திரி விக்ரமசிங்கவின் பட்டமளிப்பு விழாவிற்காக லண்டனுக்கு , அரச நிதியை பயன்படுத்தி விஜயம் மேற்கொண்டதாக கூறப்பட்டது.
-
-கைது செய்யப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, கொழும்பு கோட்டை நீதவான் நீதிமன்றத்திற்கு அழைத்து வரப்பட்டுள்ளார்.
-
-இலங்கையின் அரசியல் வரலாற்றில் முதல் தடவையாக முன்னான் ஜனாதிபதி ஒருவர் இன்றைய தினம் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.. R
-
-◼️
-
-[Data](articles/e603cc21.json)
-
----
-
-### ‘Positions don’t matter...everyone stands equal before law’ - Public Security Minister
-
-*2025-08-22 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111744/positions-dont-mattereveryone-stands-equal-before-law-public-security-minister) · `en`
-
-The current government is ensuring the rule of law and the law will be implemented equally regardless of titles and positions, says the Minister of Public Security and Parliamentary Affairs, Ananda Wijayapala.
-
-Making a special statement in Parliament today (22), the Minister stated that titles such as the Inspector General of Police (IGP), Deputy IGP, former President are not relevant when it comes to the law.
-
-Further, he stated that if anyone has committed an illegal action, such accused persons will be brought to justice regardless of their title or position.
-
-When the National People’s Power took over the country’s rule, Sri Lanka was facing not only economic bankruptcy, but also severe political and social deterioration, said Minister Ananda Wijayapala.
-
-...
-
-[Data](articles/83b7bf83.json)
-
----
-
-### முன்னாள் ஜனாதிபதியை கைது செய்ய முடியுமா?
-
-*2025-08-22 16:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதியை-கைது-செய்ய-முடியுமா/175-363294) · `ta`
-
-முன்னாள் ஜனாதிபதி ஒருவரை கைது செய்யும் அதிகாரம், இலங்கை அரசியலமைப்பின் பிரகாரம் காணப்படுகின்றதா என்பது தொடர்பில் மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளரும், சட்டத்தரணியுமான பிரதீபா மஹனாமஹேவா சர்வதேச ஊடகத்திடம் கருத்து தெரிவித்துள்ளார்.
-
-''ஜனாதிபதி ஒருவருக்கு விசேட சிறப்புரிமை உள்ளது என 1978ம் ஆண்டு அரசியலமைப்பின் 7வது சரத்தில் மிகவும் தெளிவாக கூறப்பட்டுள்ளது. இந்த சிறப்புரிமையின் பிரகாரம், ஜனாதிபதி ஒருவருக்கு எதிராக அவரது பதவி காலத்தில் எந்தவொரு சிவில் அல்லது குற்றவியல் வழக்கொன்றை பதிவு செய்ய முடியாது என 35/1 சரத்தில் குறிப்பிடப்பட்டுள்ளது." என்றார்.
-
-எனினும், அரசியலமைப்பின் 19வது திருத்தத்திற்கு அமைய, அவரது பதவிக் காலத்திற்குள் அடிப்படை மனித உரிமைகள் மீறப்பட்டிருக்கும் பட்சத்தில், அவருக்கு எதிராக சிவில் அல்லது குற்றவியல் வழக்கொன்று தாக்கல் செய்ய முடியாத பட்சத்திலும் அவருக்கு எதிராக அடிப்படை மனித உரிமை மீறல் வழக்கொன்றை தாக்கல் செய்ய முடியும் என அவர் விளக்குகிறார்.
-
-...
-
-[Data](articles/cb2dd944.json)
 
 ---

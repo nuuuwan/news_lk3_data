@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 08:38:06**
+As of **2025-08-23 09:03:37**
 
 ## Newspaper Stats
 
-*Scraped **71,882** Articles*
+*Scraped **71,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,400
 islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,908
-adaderanalk | 9,067
-tamilmirrorlk | 10,605
+adalk | 6,909
+adaderanalk | 9,068
+tamilmirrorlk | 10,606
 virakesarilk | 11,862
 adaderanasinhalalk | 12,432
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,882 articles have been extended.
+61,973 (86.2%) of 71,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### 10 கோடி ரூபாய் பணம், போதைப்பொருளுடன் இருவர் கைது
+
+*2025-08-23 08:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-பணம்-போதைப்பொருளுடன்-இருவர்-கைது/175-363331) · `ta`
+
+கெண்டலியத்த, ராகம, பலுவ பகுதியில் நடத்தப்பட்ட சோதனையின் போது, ​​போதைப்பொருள், சுமார் 10 கோடி ரூபாய் பணத்துடன் இரண்டு பேர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+மேலும், 8.168 கிலோ போதைப்பொருள், 666 கிராம் ஐஸ் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் 823 000 ரூபாய் பணம், மூன்று மின்சார ஸ்கூட்டர்கள், ஒரு வேன், ஒரு கார், ஒரு முச்சக்கர வண்டி, பல உரிமத் தகடுகள் மற்றும் இரண்டு மோட்டார் சைக்கிள்களுடன் சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+
+இரண்டு சந்தேக நபர்களும் போதைப்பொருள் கடத்தல்காரர் ஒருவரின் அறிவுடன் இந்த கடத்தலை மேற்கொண்டு வருவதாக விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர். R
+
+◼️
+
+[Data](articles/cf6b83a8.json)
+
+---
 
 ### ஆறாவது நாளாக தொடரும் போராட்டம்
 
@@ -81,6 +97,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9d2a59e8.json)
+
+---
+
+### Several coastal railway line train services cancelled and rescheduled
+
+*2025-08-23 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111756/several-coastal-railway-line-train-services-cancelled-and-rescheduled) · `en`
+
+Several train services have been cancelled and rescheduled today (August 23) and tomorrow (August 24) due to essential maintenance work on the Coastal Railway Line.
+
+The General Manager of Railways, Ravindra Pathmapriya, announced that several train services between Dodanduwa and Boossa have been cancelled.
+
+1. Train No. 8319 scheduled to depart from Galle Railway Station at 5:15 a.m. to Colombo Fort.
+
+2. Train No. 8788 scheduled to depart from Maradana Railway Station at 12:10 p.m. to Galle.
+
+1. Train No. 8327 ‘Samudra Devi’, scheduled to depart from Galle Railway Station at 5:00 a.m. to Colombo Fort, will be delayed by around one hour. It will now commence its journey from Galle at 6:30 a.m.
+
+2. Train No. 8320, scheduled to depart from Galle Railway Station at 4:10 a.m. to Colombo Fort, will instead commence its journey at 8:50 a.m. from Galle.
+
+...
+
+[Data](articles/50a74d51.json)
 
 ---
 
@@ -902,6 +940,20 @@ Meanwhile CSE trading activities were down yesterday due to month end profit- ta
 
 ---
 
+### හිටපු ජනපති රනිල් රිමාන්ඩ්
+
+*2025-08-22 22:15:47* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-රිමාන්ඩ්/11-418022) · `si`
+
+රජයේ මුදල් අවභාවිත කිරීමේ චෝදනා යටතේ අත්අඩංගුවට පත් හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 දා තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+ප්‍රකාශයක් ලබා දීම වෙනුවෙන් අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශය ලබාද‍ිමෙන් අනතුරුව අත්අඩංගුවට ගැණින.
+
+◼️
+
+[Data](articles/257dfa67.json)
+
+---
+
 ### ரணிலுக்கு விளக்கமறியல்
 
 *2025-08-22 22:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-விளக்கமறியல்/175-363309) · `ta`
@@ -1661,61 +1713,5 @@ A bond maturing on 15.12.2032 closed at 10.25/31 percent, down from 10.25/33 per
 ◼️
 
 [Data](articles/8238cf35.json)
-
----
-
-### වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශයට අදාළව අයවැය පූර්ව සාකච්ඡාවක්
-
-*2025-08-22 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213667) · `si`
-
-වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (22) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විය.
-
-වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශය යටතේ පවතින ආයතන 29 මගින් 2025 අයවැය ප්‍රතිපාදන අනුව ක්‍රියාත්මක කරන ලද ව්‍යාපෘතින්හි ප්‍රගතිය, එහිදී මතුව ඇති ගැටලු සහ ඉදිරි සැලසුම් පිළිබඳව මෙහිදී පුළුල් ලෙස විමසා බැලිණි.
-
-පොල් වගාව සංවර්ධනය පිළිබඳ විශේෂ අවධානයක් යොමු කෙරුණු අතර ඒ සඳහා වාණිජ වගාවන් සහිත ඉඩම් හඳුනාගෙන ඒවා ප්‍රවර්ධනයට පියවර ගන්නා ලෙස ජනාධිපතිවරයා උපදෙස් දුන්නේය.
-
-අලුතින් පොල් වගාවට වඩා පවතින වගාවන්හි ඵලදායීතාව ඉහළ නංවා ගැනීමට අවධානය යොමු කරන ලෙස මෙහිදී උපදෙස් දුන් ජනාධිපතිවරයා ඌන උපයෝජන සහිත පෞද්ගලික හිමිකාරිත්වය යටතේ පවතින පොල් වතු ප්‍රශස්ත ලෙස උපයෝජනය සඳහා දැනට පවතින නීති, රීති පිළිබඳ ජනතාව දැනුවත් කිරීමේ වැදගත්කමද පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/75ef67cf.json)
-
----
-
-### යූටියුබ් සුදාගේ ප්‍රකාශයට සජිත්ගෙන් X සටහනක්
-
-*2025-08-22 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213666) · `si`
-
-හිටපු ජනාධිපතිවරයෙකු අත්අඩංගුවට ගැනීමක් සිදුවීමට පෙර සමාජ මාධ්‍ය ක්‍රියාකරුවෙකු වන සුදත්ත තිලකසිරි නැමැත්තා සිදුකළ ප්‍රකාශයක් සම්බන්ධව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා "X" සටහනක් තබා තිබේ.
-
-එමගින් විපක්ෂ නායකවරයා සඳහන් කර ඇත්තේ මෙවැනි ප්‍රකාශ අහම්බයක් විය නොහැකි බවත් මෙවැනි සිදුවීම් සැලසුම් සහගතව සිදුකළ එකක් විය හැකි බවය.
-
-එමෙන්ම නීතිය හා සාමාය වැනි පූජනීය දෙයක් ලාභ නාට්‍යමය රංගනයක් බවට පත් කිරීම පිළිබඳව තමන් දැඩි ලෙස හෙළා දකින බවද විපක්ෂනායකවරයාගේ X සටහනේ සඳහන්ව තිබේ.
-
-A YouTuber predicting the arrest of a former President before it even happens? That can’t be a coincidence, could it be planned? If true, it’s a sad day when something as sacred as law and order is reduced to cheap theatrics.
-
-◼️
-
-[Data](articles/9b842e58.json)
-
----
-
-### විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට ගත් ඉතිහාසයේ පළමු අවස්ථාව
-
-*2025-08-22 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213665) · `si`
-
-මෙරට ඉතිහාසයේ විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සඳහන් කළ හැකියි.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
-
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශනයකට අදාළව ප්‍රකාශයක් ලබාදීම සඳහා අද පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි අවස්ථාවේ දීය.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-ඊට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහෙස්ත්‍රාත් අධිකරණයට කරුණු දක්වනු ලැබුවේ, ජුනි 24 වෙනි දා ය‍.
-
-...
-
-[Data](articles/ed60f6c3.json)
 
 ---

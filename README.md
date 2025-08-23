@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 03:48:48**
+As of **2025-08-24 04:07:20**
 
 ## Newspaper Stats
 
-*Scraped **71,956** Articles*
+*Scraped **71,957** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 608
+dbsjeyarajcom | 609
 bbccomsinhala | 677
 colombotelegraphcom | 732
 economynextcom | 4,402
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,956 articles have been extended.
+61,973 (86.1%) of 71,957 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -265,6 +265,20 @@ A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has bee
 ◼️
 
 [Data](articles/9559af95.json)
+
+---
+
+### சுப்றீம்சற் ( SupremeSAT) ‘சிச்சீ’ யின் ரொக்கெட்  :அறியாமையால் பிரதமர் ஹரிணி செய்த தவறும் சேதத்தை சீர்செய்த  அமைச்சர் வசந்தவின் அறிக்கையும்
+
+*2025-08-23 17:57:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86315) · `en`
+
+ஜனாதிபதி அநுர குமார திசநாயக்கவின் ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) தலைமையிலான தேசிய மக்கள் சக்தி அரசாங்கம் பதவியில் இப்போது ஒரு வருடத்தை நெருங்குகிறது. ஜே.வி.பி. — தேசிய மக்கள் சக்தியின் 159 பாராளுமன்ற உறுப்பினர்களையும் உள்ளூராட்சி தேர்தல்களில் தேசிய மக்கள் சக்தி பெற்ற வெற்றிகளையும் அடிப்படையாகக் கொண்டு நோக்கும் போது விரைவாக அவர்களின் அரசாங்கத்தை பதவியில் இருந்து அகற்றுவதற்கு அண்மைய எதிர்காலத்தில் சாத்தியமில்லை என்றே தோன்றுகிறது.
+
+இருந்தாலும், பல எதிர்க்கட்சிகளின் தலைவர்கள் வேறு விதமாக நினைக்கிறார்கள் போன்று தெரிகிறது. இந்த எதிர்பார்ப்புகள் இரு சாத்தியப்பாடுகளில் தங்கியிருக்கின்றன. நாளடைவில் பொருளாதாரம் சீர்குலைந்து எரிபொருள்,  மின்சாரம், எரிவாயு மற்றும் அத்தியாவசிய உணவு வகைகளுக்கு தட்டுப்பாடும் மக்களினால் அவற்றை கொள்வனவு செய்வது கட்டுப்படியாகாத நிலை ஏற்பட்டு நெருக்கடி நிலைவரமும் தோன்றும் என்று சிலர் எதிர்பார்க்கிறார்கள். அநுரவின் அரசாங்கத்தைக் கவிழ்த்துவிடக்கூடிய  ” அறகலய ”  போன்ற  கொந்தளிப்பான நிலைவரம் ஏற்படும் என்பது இவர்களின் நம்பிக்கை.
+
+...
+
+[Data](articles/1f5db0e6.json)
 
 ---
 
@@ -1857,17 +1871,5 @@ In a letter addressed to Prime Minister and Education Minister Dr. Harini Amaras
 ...
 
 [Data](articles/be8fa90d.json)
-
----
-
-### Chinese Embassy commemorates 80th anniversary of victory against Japanese aggression
-
-*2025-08-23 00:25:16* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Embassy-commemorates-80th-anniversary-of-victory-against-Japanese-aggression/56-780666) · `en`
-
-The Chinese Embassy in Sri Lanka held a grand reception in Colombo on Wednesday (20), at the Bandaranaike Memorial International Conference Hall, to commemorate the 80th anniversary of the victory of the Chinese People’s War of Resistance Against Japanese Aggression and the World Anti-Fascist War.
-
-...
-
-[Data](articles/b1b9ed69.json)
 
 ---

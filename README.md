@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 12:23:26**
+As of **2025-08-23 12:33:41**
 
 ## Newspaper Stats
 
-*Scraped **71,900** Articles*
+*Scraped **71,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,910
-adaderanalk | 9,072
+adaderanalk | 9,076
 tamilmirrorlk | 10,609
 virakesarilk | 11,862
-adaderanasinhalalk | 12,438
+adaderanasinhalalk | 12,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,900 articles have been extended.
+61,973 (86.2%) of 71,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### අත්අඩංගුවට ගැනීමට පෙර රනිල් කළ ප්‍රකාශය එළියට
+
+*2025-08-23 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213697) · `si`
+
+තමා කටයුතු කළේ රට වෙනුවෙන් බවත්, පුද්ගලික කාරණා වෙනුවෙන් කටයුතු නොකළ බවත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අත්අඩංගුවට ගැනීමට පෙර ප්‍රකාශයක් ලබාදෙමින් සඳහන් කර තිබුණි.
+
+අද (23) කොළඹදී පැවති විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එක්සත් ජාතික පක්ෂයේ උපනායක අකිල විරාජ් කාරියවසම් මහතා එම ප්‍රකාශය මාධ්‍යයට නිකුත් කළේය.
+
+◼️
+
+[Data](articles/4d842b8f.json)
+
+---
+
+### Govt’s actions are nothing but acts of revenge - Mahinda Rajapaksa
+
+*2025-08-23 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111764/govts-actions-are-nothing-but-acts-of-revenge-mahinda-rajapaksa) · `en`
+
+Former President Mahinda Rajapaksa expressed his regret over the imprisonment of political leaders for minor offenses.
+
+He made these remarks to the media after leaving the Prison Hospital, following his visit of former President Ranil Wickremesinghe, who is currently admitted there.
+
+“If you engage in politics, it is part of your legacy… he will face it,” Mahinda Rajapaksa told reporters when asked about the visit.
+
+He charged the public has properly understood the government’s actions, and declared that such measures are nothing but acts of revenge.
+
+He emphasized that the people continue to support political leaders, adding, “We love the people. That is why the people love us.”
+
+◼️
+
+[Data](articles/f60f39bb.json)
+
+---
 
 ### ரணிலை பார்க்க வந்தார் மஹிந்த
 
@@ -65,6 +99,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/31e6f2d7.json)
+
+---
+
+### Social media predictions of legal outcomes are contempt of court - Sajith
+
+*2025-08-23 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111763/social-media-predictions-of-legal-outcomes-are-contempt-of-court-sajith-) · `en`
+
+Opposition Leader Sajith Premadasa claims that an individual making predictions on social media regarding the implementation of the law is an act of contempt of court.
+
+He made these remarks while speaking to the media this morning (23), following his visit to the Magazine New Remand Prison Hospital to check on the well-being of former President Ranil Wickremesinghe.
+
+Premadasa emphasized that, at a time when the process of justice and the rule of law are being carried out, a third party not mentioned in the law cannot predict the final outcome.
+
+He described the situation as “very dangerous” and stressed that, in order to protect democracy, the public must have confidence in the proper implementation of the law.
+
+“The proper implementation of the law and the public’s understanding of it are both crucial. A serious situation has arisen due to a person making predictions on social media,” Sajith Premadasa said.
+
+...
+
+[Data](articles/ffc5796d.json)
 
 ---
 
@@ -105,6 +159,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c78a728a.json)
+
+---
+
+### Ex-President Mahinda Rajapaksa visits Ranil in Prison Hospital
+
+*2025-08-23 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111762/ex-president-mahinda-rajapaksa-visits-ranil-in-prison-hospital) · `en`
+
+Former President Mahinda Rajapaksa visited former President Ranil Wickremesinghe, who is currently admitted to the Prison Hospital.
+
+Earlier today (23) at around 9:30 a.m., Opposition Leader Sajith Premadasa and Samagi Jana Balawegaya MP Nalin Bandara also visited Wickremesinghe at the Prison Hospital.
+
+Several politicians had visited the Magazine New Remand Prison last night (22) following the remand of the former president. Former ministers Duminda Dissanayake and Prasanna Ranatunga, along with a group of supporters including MP Chamara Sampath, arrived at the prison.
+
+However, they were not permitted to enter and were later captured on camera while waiting outside.
+
+Former President Wickremesinghe, who was placed in remand custody, was admitted to the Prison Hospital last night (22) on medical advice.
+
+◼️
+
+[Data](articles/eb51f5cb.json)
+
+---
+
+### Voice of Dr. Nanda Malini is an intangible cultural heritage of this country – PM Harini
+
+*2025-08-23 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111761/voice-of-dr-nanda-malini-is-an-intangible-cultural-heritage-of-this-country-pm-harini) · `en`
+
+A special felicitation program organized by the Sri Lanka Broadcasting Corporation (SLBC) in honor of Dr. Nanda Malini was held on August 22 at the Kumaranatunga Munidasa Hall of the Corporation, under the patronage of Prime Minister Dr. Harini Amarasuriya.
+
+The purpose of this program was to pay tribute to the great service rendered by Dr. Nanda Malini for more than nearly seven decades to the field of music in Sri Lanka as well as to the Sri Lanka Broadcasting Corporation, according to the Prime Minister’s Media Division.
+
+As a token of appreciation, a building of the Corporation was also named after her and ceremonially opened.
+
+Accordingly, within the premises of the Corporation, a portrait of Dr. Nanda Malini was unveiled, and its 9th Cabin was officially declared open under the name Dr. Nanda Malini Building” by the Prime Minister together with Dr. Nanda Malini herself.
+
+...
+
+[Data](articles/fdaec25e.json)
 
 ---
 
@@ -1665,83 +1757,5 @@ TV දෙරණ, ශ්‍රී ලංකා සංචාරක ප්‍රව
 ...
 
 [Data](articles/3ee5e305.json)
-
----
-
-### හිටපු ජනපතිගේ නඩුව විභාග කරන ශාලාවේ විදුලිය විසන්ධි වෙයි
-
-*2025-08-22 19:52:01* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිගේ-නඩුව-විභාග-කරන-ශාලාවේ-විදුලිය-විසන්ධි-වෙයි/11-418019) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහි නඩුව විභාගයට ගැනෙන අධිකරණ ශාලා පරිශ්‍රයේ විදුලිය විසන්ධි වි තිබේ.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් රනිල් වික්‍රමසිංහ මහතා කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අතර නඩුවේ තීන්දුව ලබා දීම පැය භාගයකට කල් තැබීමට මහෙස්ත්‍රාත්වරිය නියෝග කළාය.
-
-◼️
-
-[Data](articles/c8d9b19e.json)
-
----
-
-### நீதிமன்றத்தில் மின்சாரம் திரும்பியது
-
-*2025-08-22 19:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-மின்சாரம்-திரும்பியது/175-363303) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்படும் நீதிமன்ற அறையில் மின்சாரம் மீண்டும் வழங்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/0a655327.json)
-
----
-
-### மின்சாரம் திரும்பியது
-
-*2025-08-22 19:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-திரும்பியது/175-363303) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்படும் நீதிமன்ற அறையில் மின்சாரம் மீண்டும் வழங்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/1c03ddaf.json)
-
----
-
-### பொரளையில்யில் துப்பாக்கிச் சூடு!
-
-*2025-08-22 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223135) · `ta`
-
-பொரளையில் காதர் நானாவத்த பகுதியில் வெள்ளிக்கிழமை (22) பிற்பகல் துப்பாக்கிச் சூடு சம்பவம் இடம்பெற்றது.
-
-அடையாளம் தெரியாத நபர்கள் மேற்கொண்டதாகக் கூறப்படும் இந்த துப்பாக்கிச் சூட்டில், யாருக்கும் காயம் ஏற்படவில்லை என்று பொலிஸார் தெரிவித்துள்ளனர்.
-
-சம்பவம் நடந்ததையடுத்து அப்பகுதியில் பரபரப்பு நிலவியது. துப்பாக்கிச் சூடு நடத்தியவர்கள் சம்பவத்துக்குப் பிறகு உடனடியாக அங்கிருந்து தப்பிச் சென்றனர்.
-
-இச்சம்பவம் தொடர்பாக CCTV காட்சிகள் மற்றும் சாட்சியங்களின் அடிப்படையில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/0fa1d4b9.json)
-
----
-
-### Wickremesinghe revived Sri Lanka’s economy: former minister
-
-*2025-08-22 19:13:00* · [`economynextcom`](https://economynext.com/wickremesinghe-revived-sri-lankas-economy-former-minister-237932/) · `en`
-
-ECONOMYNEXT – Ex-President Ranil Wickremesinghe’s leadership revived Sri Lanka’s economy, former state minister of finance Shehan Semasinghe has said.
-
-“Without his guidance & leadership, overcoming the economic crisis would not have been possible,” Semasinghe said on X.
-
-“More importantly, essential structural and economic reforms were implemented, and the most challenging debt restructuring was successfully completed, firmly placing the country on a path toward a stronger and more stable economy for the betterment of people of Sri Lanka.”
-
-Wickremesinghe is at a bail hearing at Colombo Fort Magistrate’s Court, after being arrested following a questioning.
-
-The arrest was over an alleged misappropriation of funds during a foreign visit while he was president.
-
-Wickremesinghe became president during the worst economic crisis of Sri Lanka’s post-independence history. (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/e3dcdb49.json)
 
 ---

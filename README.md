@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 12:49:08**
+As of **2025-08-23 13:06:06**
 
 ## Newspaper Stats
 
-*Scraped **71,906** Articles*
+*Scraped **71,907** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 607
 bbccomsinhala | 677
-colombotelegraphcom | 731
+colombotelegraphcom | 732
 economynextcom | 4,400
 islandlk | 4,421
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.2%) of 71,906 articles have been extended.
+61,973 (86.2%) of 71,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -553,6 +553,24 @@ The General Manager of Railways, Ravindra Pathmapriya, announced that several tr
 ◼️
 
 [Data](articles/efb88177.json)
+
+---
+
+### Sri Lanka’s Presidency At Risk: The Blurred Line Between Public Duty & Private Life
+
+*2025-08-23 07:05:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-presidency-at-risk-the-blurred-line-between-public-duty-private-life/) · `en`
+
+A President of a country cannot separate his private life from public life. The moment one assumes the office of Head of State, he ceases to be a private individual. His security, movements, and even his day-to-day engagements are under the control of the State.
+
+The Presidential Security Division (PSD) is duty-bound to accompany him at all times, whether he is attending a state meeting, a private function, or even traveling abroad. A specific budget is allocated for this purpose, and his security detail has no discretion to abandon him simply because he is engaged in a personal activity.
+
+Even if a President attends a private wedding, funeral, or visits a sick relative, the PSD must accompany him. His official vehicle too is part of the security protocol. Therefore, in practice, there is no clear distinction between public and private life for a sitting President.
+
+This brings us to the case of former President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/eea1ef1b.json)
 
 ---
 
@@ -1739,21 +1757,5 @@ TV දෙරණ, ශ්‍රී ලංකා සංචාරක ප්‍රව
 ...
 
 [Data](articles/976ba5c3.json)
-
----
-
-### ரணிலின் பிணை மனு;நீதிமன்றத்தில் என்ன நடக்கிறது?
-
-*2025-08-22 20:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-பிணை-மனு-நீதிமன்றத்தில்-என்ன-நடக்கிறது/175-363304) · `ta`
-
-முன்னாள் ஜனாதிபதி இதய நோய், நீரிழிவு நோய் மற்றும் உயர் இரத்த அழுத்தம் உள்ளிட்ட பல உடல்நலக் குறைபாடுகளால் பாதிக்கப்பட்டுள்ளதாக ரணில் விக்ரமசிங்கவின் சட்டத்தரணி இன்று நீதிமன்றத்தில் தெரிவித்தார்.
-
-மேலும், விக்ரமசிங்கவின் மனைவி புற்றுநோயால் பாதிக்கப்பட்டு சிகிச்சை பெற்று வருவதாகவும், அவரைப் பராமரிக்க அவர் மட்டுமே உள்ளார் என்றும் அவர் கூறினார்.
-
-தனது கட்சிக்காரரின் பிணை மனுவை பரிசீலிக்கும்போது இந்த சூழ்நிலைகளை கணக்கில் எடுத்துக்கொள்ளுமாறு அவர் நீதிமன்றத்தை வலியுறுத்தினார்.
-
-◼️
-
-[Data](articles/3ac983ac.json)
 
 ---

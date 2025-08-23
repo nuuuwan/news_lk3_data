@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 19:32:02**
+As of **2025-08-23 19:48:45**
 
 ## Newspaper Stats
 
-*Scraped **71,944** Articles*
+*Scraped **71,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,421
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
-adaderanalk | 9,086
+adaderanalk | 9,087
 tamilmirrorlk | 10,616
 virakesarilk | 11,862
 adaderanasinhalalk | 12,457
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,944 articles have been extended.
+61,973 (86.1%) of 71,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### India says US trade negotiations are still going on as fresh tariffs loom
+
+*2025-08-23 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111775/india-says-us-trade-negotiations-are-still-going-on-as-fresh-tariffs-loom) · `en`
+
+India’s foreign minister said on Saturday that trade negotiations with Washington are continuing but there are lines that New Delhi needs to defend, just days before hefty additional U.S. tariffs are due to hit.
+
+Indian goods face additional U.S. tariffs of up to 50%, among the highest imposed by Washington, due to its increased purchases of Russian oil. A 25% tariff has already come into effect, while the remaining 25% is set to be enforced from August 27.
+
+A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has been called off, dashing hopes that the levies may be lowered or postponed.
+
+“We have some redlines in the negotiations, to be maintained and defended,” Indian Foreign Minister Subrahmanyam Jaishankar said at an Economic Times forum event in New Delhi, singling out the interests of the country’s farmers and small producers.
+
+...
+
+[Data](articles/f3384b29.json)
+
+---
 
 ### “வருத்தத்தை ஏற்படுத்துகின்றது” மஹிந்த
 
@@ -1825,23 +1843,5 @@ Matheendra is the first Sri Lankan appointed to such a higher post in the Bangla
 ◼️
 
 [Data](articles/d9a3bc32.json)
-
----
-
-### Profood Propack & Agbiz 2025 opens at BMICH
-
-*2025-08-22 23:10:47* · [`dailyftlk`](https://www.ft.lk/business/Profood-Propack-Agbiz-2025-opens-at-BMICH/34-780643) · `en`
-
-Sri Lanka’s most anticipated food industry event, Profood Propack & Agbiz 2025, began yesterday at the Sirimavo Bandaranaike Exhibition and Convention Centre, BMICH, Colombo.
-
-The exhibition is organised by the Sri Lanka Food Processors Association (SLFPA) in collaboration with Lanka Exhibition and Conference Services (LECS).
-
-Endorsed by the Industries Ministry, the National Agribusiness Council, and the Institute of Food Science and Technology Sri Lanka (IFSTSL), the exhibition continues its legacy as a driving force in advancing Sri Lanka’s food sector.
-
-For over 25 years, Profood Propack & Agbiz has stood as SLFPA’s flagship platform, bringing together leaders in agriculture, food processing, packaging, and allied services. The event fosters knowledge-sharing, innovation, and strategic partnerships, while significantly contributing to the nation’s economic growth, the organisers said in a statement.
-
-...
-
-[Data](articles/6583aa67.json)
 
 ---

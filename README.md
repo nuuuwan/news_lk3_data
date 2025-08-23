@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-23 18:31:01**
+As of **2025-08-23 18:53:36**
 
 ## Newspaper Stats
 
-*Scraped **71,941** Articles*
+*Scraped **71,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,912
 adaderanalk | 9,086
-tamilmirrorlk | 10,614
+tamilmirrorlk | 10,615
 virakesarilk | 11,862
-adaderanasinhalalk | 12,456
+adaderanasinhalalk | 12,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,941 articles have been extended.
+61,973 (86.1%) of 71,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-23 (Saturday)
+
+### ரணில் தீவிர சிகிச்சைப் பிரிவில் அனுமதி
+
+*2025-08-23 18:19:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-தீவிர-சிகிச்சைப்-பிரிவில்-அனுமதி/150-363340) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, தீவிர சிகிச்சைப் பிரிவுக்கு (ICU) மாற்றப்பட்டுள்ளார் என வைத்தியசாலையின் பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன  உறுதிப்படுத்தினார்.
+
+வைத்தியர்களின் ஆலோனைக்கமைய, ரணில் விக்ரமசிங்க தீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டதாக அவர் குறிப்பிட்டுள்ளார்.
+
+நேற்றைய தினம் நீதிமன்ற உத்தரவுக்கமைய, விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, நேற்றிரவு மருத்துவர்களின் ஆலோசனைக்கமைய, சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/bdad0d36.json)
+
+---
+
+### ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් බඳවා ගැනීමට අයදුම්පත් කැඳවයි
+
+*2025-08-23 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213715) · `si`
+
+ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් 1,408 දෙනෙකු බඳවා ගැනීම සඳහා අයදුම්පත් කැඳවීමට සෞඛ්‍ය අමාත්‍යාංශය තීරණය කර තිබේ.
+
+පසුගිය වසරේ ඔක්තෝබර් මස 29 වැනි දිනට සීමාවාසික පුහුණුව අවසන් කළ වෛද්‍යවරුන් 1,408 දෙනෙකු සඳහා සෞඛ්‍ය අමාත්‍යාංශය යටතේ ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් ලෙසන් පත්වීම් ලබාදීම සඳහා අයදුම්පත් කැඳවා ඇයැදි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (වෛද්‍ය සේවා) II වෛද්‍ය එච්.එම්.අර්ජුන තිලකරත්න මහතා සඳහන් කළේය.
+
+ඒ අනුව ඉහත තනතුර සඳහා සුදුසුකම් ලද වෛද්‍යවරු සෞඛ්‍ය අමාත්‍යාංශයේ මානව සම්පත් කළමනාකරණ හා තොරතුරු පද්ධතියට (HRMIS) පිවිස අයදුම් කරන ලෙසද දක්වා තිබේ.
+
+නැවත අයදුම්කිරීමේ දිනය 2025.08.25 දිනෙන් අවසන් වන බැවින්, සියලුම අයදුම්කරුවන් එදිනට පෙර මාර්ගත ක්‍රමය (online) ඔස්සේ අයදුම්පත් යොමු කරන ලෙස ද අදාළ නිවේදනයේ වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/222edf80.json)
+
+---
 
 ### ගෙවුණු පැය 24ට මන්දපෝෂණයෙන් ගාසාවේ 08 දෙනෙකු මරුට
 
@@ -1807,33 +1841,5 @@ Held at the Golden Rose Hotel in Boralesgamuwa, Cycle Brands introduced four exc
 ...
 
 [Data](articles/4b99f6e7.json)
-
----
-
-### The Routes we Take project heads to Jaffna
-
-*2025-08-22 23:08:19* · [`dailyftlk`](https://www.ft.lk/business/The-Routes-we-Take-project-headstoJaffna/34-780641) · `en`
-
-The Routes we Take (TRWT) will be at Yarl IT Hub’s YGC Innovation Festival
-
-The Routes we Take, a pioneering initiative by the European Union National Institutes for Culture (EUNIC) Sri Lanka, Europe’s network of national cultural institutes and organisations, with 36 members from all EU Member States and associate countries and Good Life X, is heading to Jaffna for the YGC Innovation Festival 29-30 August 2025.
-
-...
-
-[Data](articles/a1486ae7.json)
-
----
-
-### Heritance Hotels, Aitken Spence Travels partner CCC Foundation to champion  mental health through 1333 Bikeathon
-
-*2025-08-22 23:07:21* · [`dailyftlk`](https://www.ft.lk/business/Heritance-Hotels-Aitken-Spence-Travels-partner-CCC-Foundation-to-champion-mental-health-through-1333-Bikeathon/34-780640) · `en`
-
-Heritance Hotels and Resorts, the flagship brand of Aitken Spence Hotels, and Aitken Spence Travels have announced their partnership for the upcoming Bikeathon, organised by the CCC Foundation to raise national awareness for mental health and promote the lifesaving 1333 Mental Health Helpline.
-
-The 1333 Bikeathon charts a powerful journey across Sri Lanka, from southern coastlines to the heartland, blending purpose with discovery. Along this route, participants will find exclusive accommodation at Heritance Hotels and Resorts and Aitken Spence Hotels, including Heritance Ahungalla, Heritance Kandalama, Sentido Heritance Negombo, and Amethyst Resort Passikudah.
-
-...
-
-[Data](articles/e41a1d6b.json)
 
 ---

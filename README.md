@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 03:49:13**
+As of **2025-08-25 04:07:14**
 
 ## Newspaper Stats
 
-*Scraped **72,107** Articles*
+*Scraped **72,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 738
 economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
-dailyftlk | 5,082
+dailyftlk | 5,088
 adalk | 6,927
 adaderanalk | 9,108
 tamilmirrorlk | 10,656
@@ -26,11 +26,127 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.9%) of 72,107 articles have been extended.
+61,973 (85.9%) of 72,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### President reviews 29 institutions of Plantation and Community Infrastructure Ministry
+
+*2025-08-25 03:43:44* · [`dailyftlk`](https://www.ft.lk/news/President-reviews-29-institutions-of-Plantation-and-Community-Infrastructure-Ministry/56-780725) · `en`
+
+Highlights increasing export income and meeting plantation sector targets as key priorities
+
+Instructs officials to identify land for new large-scale coconut plantations
+
+President asks for plan for underutilised Department of Public Trustee lands
+
+Calls for study on tea, rubber and strategy to expand cinnamon cultivation in Western Province
+
+Notes need for industrial development strategy to address under-capacity caused by ‘artificially created’ domestic market
+
+Overlapping institutional functions will be identified, with instructions to merge or dissolve entities where necessary
+
+President Anura Kumara Disanayake on Friday held a review of projects implemented under the 2025 Budget allocations for the Plantation and Community Infrastructure Ministry, along with preliminary discussions on the 2026 Budget, the President’s media office said.
+
+The meeting extensively reviewed the progress of projects implemented by 29 institutions under the Ministry in 2025.
+
+...
+
+[Data](articles/e8238859.json)
+
+---
+
+### Health Minister faults previous administration for drugs shortage
+
+*2025-08-25 03:40:38* · [`dailyftlk`](https://www.ft.lk/news/Health-Minister-faults-previous-administration-for-drugs-shortage/56-780724) · `en`
+
+Says previous administration failed to call tenders for drug supplies
+
+Rs. 35 b allocated to regional hospitals to purchase medicines
+
+Health Minister Dr. Nalinda Jayatissa yesterday said the current shortage of certain medicines was due to the previous administration’s decision to bypass the standard tender procedure for imports.
+
+He said the disruption stemmed from the failure to call tenders last year. “The issue of not being able to supply medicines now is a result of not holding a tender last year. If a tender had been called, the medicines would have been delivered properly. We have now initiated the tendering process for next year,” he explained.
+
+To address the gap in supply, Dr. Jayatissa noted that the National People’s Power (NPP) Government had moved on two fronts. Hospitals have been allocated Rs. 35 billion to make purchases at the regional level, while talks are also ongoing with several countries to secure medicine donations on a periodic basis.
+
+◼️
+
+[Data](articles/b15c5bf6.json)
+
+---
+
+### President instructs new Envoys to boost FDI, FTAs
+
+*2025-08-25 03:39:22* · [`dailyftlk`](https://www.ft.lk/business/President-instructs-new-Envoys-to-boost-FDI-FTAs/34-780723) · `en`
+
+President Anura Kumara Disanayake on Friday met newly appointed Heads of Missions and said Ambassadors have a key role in strengthening Sri Lanka’s image abroad and supporting the country’s economy by promoting Foreign Direct Investment (FDI), Free Trade Agreements (FTAs), and other trade agreements.
+
+He urged the Envoys to serve Sri Lankans overseas fairly and address the issues of expatriates without delay, according to a statement from the Presidential Media Division.
+
+The President said Embassies are central to generating foreign income through investment, exports, tourism, and foreign employment. He added that all foreign exchange channels essential for external stability are linked to the work of Missions.
+
+“Furthermore, the President stressed the importance of entering into FTAs and preferential trade arrangements with foreign nations as a timely priority,” the statement added.
+
+...
+
+[Data](articles/d0d8ef1b.json)
+
+---
+
+### Dr. Malraj B. Kiriella receives lifetime recognition at OPA National Apex Awards 2025
+
+*2025-08-25 03:37:40* · [`dailyftlk`](https://www.ft.lk/business/Dr-Malraj-B-Kiriella-receives-lifetime-recognition-at-OPA-National-Apex-Awards-2025/34-780722) · `en`
+
+Dr. Malraj Bharatha Kiriella recently received the National Apex Award of Professional Excellence in Marketing and Hospitality at the 4th National Apex Awards 2025, organised by the Organisation of Professional Associations of Sri Lanka (OPA).
+
+The award was presented by Speaker of Parliament Dr. Jagath Wickramaratne at the ceremony held in Colombo.
+
+This recognition marks a lifetime achievement, celebrating Dr. Kiriella’s nearly four decades of dedicated service to Sri Lanka’s tourism, hospitality, and marketing sectors. His career has been defined by innovation, policy reforms, and pioneering initiatives that have contributed significantly to strengthening Sri Lanka’s global brand.
+
+...
+
+[Data](articles/27671c71.json)
+
+---
+
+### President’s Senior Economic Adviser Duminda Hulangamuwa to keynote Planters’ AGM on Friday
+
+*2025-08-25 03:35:29* · [`dailyftlk`](https://www.ft.lk/business/President-s-Senior-Economic-Adviser-Duminda-Hulangamuwa-to-keynote-Planters-AGM-on-Friday/34-780721) · `en`
+
+Senior Economic Adviser to the President Duminda Hulangamuwa is set to deliver the keynote address at the Annual General Meeting (AGM) of the Planters’ Association of Ceylon (PA).
+
+To be held on Friday, 29 August, the 171st AGM will bring together the membership of regional plantation companies, industry leaders, and key stakeholders to review the past year’s performance and deliberate on policies and strategies for growth.
+
+Hulangamuwa’s address is expected to highlight Government priorities in policy direction and reforms while emphasising the facilities afforded to the residential population.
+
+...
+
+[Data](articles/5a5ce847.json)
+
+---
+
+### Arcade of Aluminium celebrates 15 years of long-standing customer relationship
+
+*2025-08-25 03:33:06* · [`dailyftlk`](https://www.ft.lk/business/Arcade-of-Aluminium-celebrates-15-years-of-long-standing-customer-relationship/34-780720) · `en`
+
+From left: Arcade of Aluminium Ltd., Managing Director Heshan Padukka, Alumex PLC Managing Director Pramuk Dediwela, and Ferroli Gypsheet LLP Chief Sales Director Amish Tankariya
+
+Announces diversification into hospitality sector with acquisition of Sigiri Asna Nature Resort and Spa
+
+Arcade of Aluminium, a leading provider of aluminium products in Sri Lanka, recently hosted its 15th annual get-together, themed “Champions of Arcade”, at Waters Edge.
+
+The event honoured the long-standing customers and key suppliers, acknowledging their continuous trust and support, and celebrating their shared journey towards achieving greater milestones in the industry together.
+
+Speaking at the event, Arcade of Aluminium Ltd., Managing Director Heshan Padukka reflected on the company’s remarkable journey, noting how it began with a small team of five in 2010 and grew into a trusted market leader by consistently delivering products that exceed industry standards.
+
+...
+
+[Data](articles/da6838a3.json)
+
+---
 
 ### மருத்துவர்களின் இடமாற்ற முறைகேடுகள் காரணமாக அரச மருத்துவர்கள் இன்று பணிப்புறக்கணிப்பு போராட்டம்
 
@@ -1631,101 +1747,5 @@ In her statement, Chandrika Kumaratunga also said that she wholeheartedly joins 
 ◼️
 
 [Data](articles/0a07d169.json)
-
----
-
-### LIVE: Opposition political parties’ special press conference
-
-*2025-08-24 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111785/live-opposition-political-parties-special-press-conference) · `en`
-
-Representatives of several opposition political parties are currently holding a special press conference in Colombo in relation with the arrest of former President Ranil Wickremesinghe, who is presently in remand custody.
-
-◼️
-
-[Data](articles/28ca3a5b.json)
-
----
-
-### மிஸ் தனுஷி அமயா இந்தியாவுக்கு புறப்பட்டார்
-
-*2025-08-24 10:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிஸ்-தனுஷி-அமயா-இந்தியாவுக்கு-புறப்பட்டார்/175-363366) · `ta`
-
-இந்தியாவில் நடைபெறும் 08வது மிஸ் டீன் இன்டர்நேஷனல் போட்டியில் இலங்கையைப் பிரதிநிதித்துவப்படுத்த மிஸ் தனுஷி அமயா, கட்டுநாயக்க விமான நிலையத்திலிருந்து சனிக்கிழமை (23) அன்று இரவு புறப்பட்டார்.
-
-இந்தப் போட்டி, ஞாயிற்றுக்கிழமை (24) முதல் செப்டெம்பர் ​(01) வரை இந்தியாவின் புதுடெல்லி மற்றும் ஜெய்ப்பூரில் நடைபெற உள்ளது, இதில் உலகின் 40 நாடுகளைச் சேர்ந்த 40 அழகிகள் பங்கேற்கின்றனர்.
-
-பள்ளிப் பருவத்தில் இருக்கும் 14 வயதுடைய தனுஷி அமயா, 19 வயதுக்குட்பட்டோருக்கான உலகின் முன்னணி அழகுப் போட்டிகளில் ஒன்றான இந்தப் போட்டியில் இலங்கையைப் பிரதிநிதித்துவப்படுத்துவார்.
-
-தனுஷி   சனிக்கிழமை (23) அன்று இரவு கட்டுநாயக்க விமான நிலையத்திலிருந்து இண்டிகோ ஏர்லைன்ஸ் விமானம் 6E-1174 மூலம் இந்தியாவின் புதுடெல்லிக்கு புறப்பட்டார்.
-
-◼️
-
-[Data](articles/4b1693e0.json)
-
----
-
-### Drug shortage caused by past govt’s tender irregularities - Health Minister
-
-*2025-08-24 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111784/drug-shortage-caused-by-past-govts-tender-irregularities-health-minister) · `en`
-
-Minister of Health and Mass Media, Dr. Nalinda Jayatissa, says the current shortage of certain medicines in the country is due to the previous government bypassing the proper tender process when importing medicine.
-
-To address the issue, the government has allocated Rs. 35 billion to hospitals for regional-level medicine purchases, he said.
-
-Commenting further, the Minister stated, “The issue of not being able to supply medicines now is a result of not holding a tender last year. If a tender had been called, the medicines would have been delivered properly. We have now initiated the tendering process for next year.”
-
-Dr. Jayatissa further noted that the government has taken two steps to manage the temporary shortage. First, Rs. 35 billion has been allocated to hospitals for regional purchases. Second, the government is in discussions with several countries to obtain medicines as donations from time to time.
-
-...
-
-[Data](articles/783c4b6f.json)
-
----
-
-### தபாலுக்கு சிவப்பு எச்சரிக்கை
-
-*2025-08-24 10:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபாலுக்கு-சிவப்பு-எச்சரிக்கை/175-363365) · `ta`
-
-அரசாங்கத்தின் கொள்கைக்கு இணங்க முடியாதவர்களை தபால் திணைக்களத்தில் இருந்து நீக்கப்படுவார்கள் என்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் டாக்டர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-மத்திய அஞ்சல் பரிவர்தனை நிலையத்துக்கும், மற்ற அரசு நிறுவனங்களைப் போலவே, கைரேகை இயந்திரங்கள் கட்டாயம் என்று கூறிய அமைச்சர், மேலும் பல கைரேகை இயந்திரங்கள் அங்கு நிறுவப்படும் என்றும் கூறினார்.
-
-◼️
-
-[Data](articles/9176ccd8.json)
-
----
-
-### ஆன்லைன் மோசடி ;இளைஞன்  கைது
-
-*2025-08-24 10:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆன்லைன்-மோசடி-இளைஞன்-கைது/175-363364) · `ta`
-
-அம்பாறை மாவட்ட சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட புறநகர் பகுதியில் ஆன்லைன் மூலம்  கொள்வனவு  செய்த பொருளை பெற்றுக் கொண்டு அதற்குரிய பணம் வழங்காது இளைஞன் தப்பி ஓடியதாக  கடந்த புதன்கிழமை (20)  அன்று முறைப்பாடு வழங்கப்பட்டிருந்தது.
-
-ஆன்லைன் மூலம் ரூபாய் 45000 பெறுமதியான பொருளை  கொள்வனவு செய்து  உரிய பணத்தை வழங்காமல் தப்பியோடிய  இளைஞனை  சம்மாந்துறை பொலிஸார் கைது செய்துள்ளனர்.
-
-இதற்கமைய   சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரி கே.டி.எஸ் ஜெயலத்தின் வழிகாட்டலில் செயற்பட்ட பல்வேறு முறைப்பாட்டு பிரிவு பொறுப்பதிகாரி எம்.எச்.எம்.ஹசீப் தலைமையிலான பொலிஸார்  விசாரணைகளை மேற்கொண்டு  சம்மாந்துறை 01 பகுதியைச் சேர்ந்த20 வயதுடைய இளைஞனை கைது செய்தனர்.
-
-இதன் போது கைதான  இளைஞனிடம் இருந்து ஆன்லைன்   மூலம்  கொள்வனவு செய்யப்பட்ட  பொருள்  மீட்கப்பட்டுள்ளது டன் சந்தேக நபர் உள்ளிட்ட சான்றுப் பொருள்கள் வெள்ளிக்கிழமை  (22) அன்று சம்மாந்துறை நீதிவான் நீதிமன்றத்தில் சட்ட நடவடிக்கைக்காக ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/fc1af58b.json)
-
----
-
-### மின்னல் தாக்கத்தில் தந்தை பலி
-
-*2025-08-24 10:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தில்-தந்தை-பலி/175-363363) · `ta`
-
-நெல் வயலில் மின்னல் தாக்கத்தினால்  மூன்று பிள்ளைகளின் தந்தை ஒருவர் (வயது 53) உயிரிழந்துள்ளதாக கஹடகஸ்டிகிலிய பொலிஸார் தெரிவிக்கின்றனர்.
-
-ரத்மலை, உப்புல்தெனியவில் வசித்து வந்த மூன்று பிள்ளைகளின் தந்தையான குணசேனகே உபாலி சமரவிக்ரம (53) என்பவரே உயிரிழந்துள்ளார்.
-
-ரத்மலையில் உள்ள நெல் வயலில் மேய்ச்சலுக்காக கட்டப்பட்டிருந்த தனது மாடுகளை  வீட்டிற்கு கொண்டு வருவதற்காக கனமழை பெய்த போதிலும் வயலுக்குச் சென்றபோது அந்த நபர் மின்னல் தாக்கத்துக்கு உள்ளாகியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர். மின்னல் தாக்கத்தினால் பலத்த தீக்காயங்களுக்கு ஆளான நபர் தம்மன்னாவ மருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்தார்.
-
-◼️
-
-[Data](articles/cf0e851e.json)
 
 ---

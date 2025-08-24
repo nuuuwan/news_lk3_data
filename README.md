@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 00:34:00**
+As of **2025-08-25 00:48:36**
 
 ## Newspaper Stats
 
-*Scraped **72,099** Articles*
+*Scraped **72,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 738
 economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
-dailyftlk | 5,077
+dailyftlk | 5,078
 adalk | 6,927
 adaderanalk | 9,108
 tamilmirrorlk | 10,656
@@ -26,9 +26,23 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,099 articles have been extended.
+61,973 (86.0%) of 72,100 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-25 (Monday)
+
+### Cost of wrong strategies in internal conflicts
+
+*2025-08-25 00:20:56* · [`dailyftlk`](https://www.ft.lk/columns/Cost-of-wrong-strategies-in-internal-conflicts/4-780683) · `en`
+
+The only hope for Sri Lanka is for it to be blessed with a Government that has the hutzpah to make a realistic appraisal of the ground situation and acknowledge that, instead of adopting the strategy recommended by Volker Turk which is in keeping with external values of Retributive Justice followed by inevitable bitterness associated with it, to adopt a strategy that mirrors Sri Lanka’s heritage of Restorative Justice as being in its long term best interests. Such a strategy would be to grant a general amnesty to all associated with the armed conflict and focus on the present by attending to the physical wellbeing of the survivors of all communities in a tangible way
+
+...
+
+[Data](articles/fc71d390.json)
+
+---
 
 ### 2025-08-24 (Sunday)
 
@@ -1719,25 +1733,5 @@ South Korea and the United States have been conducting large-scale joint militar
 ◼️
 
 [Data](articles/0b0c80a8.json)
-
----
-
-### Special discussion between striking postal workers and Minister today
-
-*2025-08-24 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111782/special-discussion-between-striking-postal-workers-and-minister-today) · `en`
-
-A special discussion is scheduled to be held today (24) between the postal employees currently engaged in strike action and the Minister of Health and Mass Media, Dr. Nalinda Jayatissa.
-
-The meeting is expected to take place at 9.00 a.m., and it is reported that representatives from all postal trade unions engaged in the strike action have been summoned for this discussion.
-
-The trade union action was launched on Sunday (17) by several unions, including the Postal and Telecommunications Officers’ Union and the United Postal Trade Unions’ Front (UPTUF), citing 19 unresolved demands.
-
-As a result, postal operations across the island have been severely affected, with services in many post offices coming to a standstill. People who came to obtain postal services have faced significant difficulties.
-
-Chinthaka Bandara, co-convener of the United Postal Trade Union Front, stated that he is prepared to discuss the matter with the Minister today.
-
-...
-
-[Data](articles/afda337d.json)
 
 ---

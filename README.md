@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 00:48:36**
+As of **2025-08-25 01:04:57**
 
 ## Newspaper Stats
 
-*Scraped **72,100** Articles*
+*Scraped **72,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 738
 economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
-dailyftlk | 5,078
+dailyftlk | 5,080
 adalk | 6,927
 adaderanalk | 9,108
 tamilmirrorlk | 10,656
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,100 articles have been extended.
+61,973 (86.0%) of 72,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Reducing prison congestion and costs using technology
+
+*2025-08-25 00:41:52* · [`dailyftlk`](https://www.ft.lk/columns/Reducing-prison-congestion-and-costs-using-technology/4-780686) · `en`
+
+Electronic anklets are a viable and cost-effective solution to the problem of prison overcrowding caused by excessive remanding pre-trial detainees
+
+This was written shortly after the National Movement for Social Justice conducted a webinar on problems with remanding practices in the aftermath of the neurologist and her daughter being remanded. But now that the question of remanding President Wickremesinghe is front and centre, completion cannot wait.
+
+According to the World Prison Brief, the total number of prisoners Sri Lankan prisons can hold was 13,241 in 2025. But the prisons held 32,747 persons in inhumane conditions. Worse, two thirds of these prisoners had not been convicted; they were pre-trial detainees/remand prisoners. Sri Lanka has one of the highest rates of pre-trial detention in the world.
+
+...
+
+[Data](articles/73a0e7a3.json)
+
+---
+
+### CFEP: ‘Think-tank’ of the young, by the young but for all of us
+
+*2025-08-25 00:37:09* · [`dailyftlk`](https://www.ft.lk/columns/CFEP-Think-tank-of-the-young-by-the-young-but-for-all-of-us/4-780684) · `en`
+
+The final message delivered by Pasan was a warning: “Grab the opportunities today because there might not be a second chance”. This has been a warning given to all the political leaders of Sri Lanka since independence but conveniently chosen to be ignored by them. At least if only a section of the country’s youth takes this warning seriously and decides to act fast, it will be a new journey for the country’s future generations
+
+Recently, I had the opportunity to witness the formalisation of a new ‘think-tank’ in Colombo by some interested young people to undertake economic policy analysis. The think-tank, formally known as Ceylon Foundation for Economic Policy-analysis or CFEP (pronounced as SEE-FEP), has been created by young economist Pasan Wijayawardhana, an economics Don at the Colombo University.
+
+...
+
+[Data](articles/684a4477.json)
+
+---
 
 ### Cost of wrong strategies in internal conflicts
 
@@ -1699,39 +1729,5 @@ Dr. Jayatissa further noted that the government has taken two steps to manage th
 ...
 
 [Data](articles/947b4efb.json)
-
----
-
-### North Korean leader oversees new missile test, state media says
-
-*2025-08-24 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111783/north-korean-leader-oversees-new-missile-test-state-media-says) · `en`
-
-North Korean state media has said two new air defence missiles have been fired in a test overseen by the country’s leader Kim Jong Un.
-
-The weapons had “superior combat capability” and used a “unique technology”, the Korean Central News Agency (KCNA) said, without adding details.
-
-The launches, carried out on Saturday, “proved that the technological features of two types of projectiles are very suitable for destroying various aerial targets” including drones and cruise missiles, KCNA said.
-
-The test comes hours after South Korea confirmed it fired warning shots on Tuesday at North Korean soldiers who briefly crossed the Demilitarised Zone (DMZ) separating the countries.
-
-United Nations Command said about 30 North Korean troops crossed the heavily-fortified border between the north and south, Yonhap News Agency said.
-
-South Korea and the United States have been conducting large-scale joint military exercises in the region since Monday.
-
-...
-
-[Data](articles/9b6aa1c9.json)
-
----
-
-### இந்திய ஒப்பந்தம் ஆபத்து! மைத்திரியின் கருத்துக்களால் சர்ச்சை
-
-*2025-08-24 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/223226) · `ta`
-
-ஈஸ்டர் தாக்குதலின் பிரதான சூத்திரதாரி யார் என்பது அனைவருக்கும் தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மீண்டும் அரசியல் சர்ச்சையை கிளப்பியுள்ளார். இந்த தாக்குதலுடன் தொடர்புடையவர்கள் குறித்து அனைத்து அரசாங்கங்களும், இராணுவமும், புலனாய்வுப் பிரிவுகளும் அறிந்திருப்பதாகவும் அவர் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/0b0c80a8.json)
 
 ---

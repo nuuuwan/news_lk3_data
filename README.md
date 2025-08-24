@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 18:31:13**
+As of **2025-08-24 18:54:06**
 
 ## Newspaper Stats
 
-*Scraped **72,067** Articles*
+*Scraped **72,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,923
-adaderanalk | 9,103
-tamilmirrorlk | 10,652
+adalk | 6,924
+adaderanalk | 9,104
+tamilmirrorlk | 10,653
 virakesarilk | 11,871
-adaderanasinhalalk | 12,484
+adaderanasinhalalk | 12,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,067 articles have been extended.
+61,973 (86.0%) of 72,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### அஞ்சல் பணியாளர்களின் பணிப்புறக்கணிப்பு கைவிடப்பட்டது
+
+*2025-08-24 18:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-பணியாளர்களின்-பணிப்புறக்கணிப்பு-கைவிடப்பட்டது/175-363406) · `ta`
+
+சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவுடன் நடைபெற்ற கலந்துரையாடலின் போது எட்டப்பட்ட உடன்பாட்டையடுத்து, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5678171c.json)
+
+---
+
+### දෙරණ සිග්නල් - රාත්‍රී සරුංගල් සැණකෙළියත් සූදානම්
+
+*2025-08-24 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213744) · `si`
+
+2025 දෙරණ කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළියේ කටයුතු මේ වන විට අවසන් අදියරට පැමිණ තිබේ.
+
+අද (24) පස්වරු 1.00ට ආරම්භ  වූ සරුංගල් සැණකෙලිය නැරඹීම සඳහා දිවයිනේ නන්දෙසින් ජනතාව විශාල පිරිසක් ගාලුමුවදොරට පිටිය වෙත පැමිණියේය.
+
+මෙවර සරුංගල් සැණකෙළිය සඳහා රටවල් 25ක් නියෝජනය කරමින් ජාත්‍යන්තර තරගකරුවන් 55 දෙනෙකු ද සහභාගී විය.
+
+දෙරණ කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළියට සමගාමීව රාත්‍රී සරුංගල් සැණකෙළියක් ද පැවැත්වීමට නියමිතය.
+
+සරුංගල් සැණකෙළිය අවසානයේ අද රාත්‍රී 8 සිට ගාලුමුවදොර පිටියේදී "ඇවටා" සංගීත කණ්ඩායමේ ප්‍රසංගයකින් සැණකෙළිය වර්ණවත් වෙනු ඇත.
+
+◼️
+
+[Data](articles/8e5b2bdc.json)
+
+---
 
 ### හෙට ප්‍රදේශ කිහිපයක උණුසුම ඉහළට
 
@@ -65,6 +97,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2de651c7.json)
+
+---
+
+### ඉල්ලීම් 19න් 17 කට විසඳුම් ලබා දීමට වන පොරොන්දුව මත වර්ජනය අවසන් කළා
+
+*2025-08-24 17:41:46* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලීම්-19න්-17-කට-විසඳුම්-ලබා-දීමට-වන-පොරොන්දුව-මත-වර්ජනය-අවසන්-කළා/11-418037) · `si`
+
+වැඩවර්ජනයට යාමට මූලික වුණු කරුණු 19න් 17කට මාසයක කාලයක් තුළ විසඳුම් ලබා දෙන බවට විෂය භාර අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා එකඟත්වය පළ කිරීම සහ එය ලිඛිතව ලබා දීම හේතුවෙන් තැපැල් වැඩ වර්ජනය අවසක් කළ බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා පැවසීය.
+
+අමාත්‍යවරයා සමග අද(24දා) පැවති සාකච්ඡාවෙන් පසු මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/234c7289.json)
 
 ---
 
@@ -131,6 +177,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f55d5bbc.json)
+
+---
+
+### Postal trade unions end strike action
+
+*2025-08-24 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111792/postal-trade-unions-end-strike-action) · `en`
+
+Postal trade unions have decided to call off their strike action following discussions held with the Minister of Health and Media.
+
+Speaking at a press briefing in Colombo following talks with Minister Dr. Nalinda Jayatissa, the trade union representatives announced that they have decided to end the strike with immediate effect.
+
+The co-convener of the United Postal Trade Union Front, Chinthaka Bandara, stated that the Minister has instructed the Postmaster General to devise solutions to 17 of the 19 basic issues presented by them, within a month.
+
+He further stated that the Minister did not agree to make any changes to the request regarding the other issues, namely fingerprinting and overtime allowances, and that the action that can be taken in accordance with the existing law in this regard will be discussed in the future.
+
+Speaking to reporters after the conclusion of the discussion, Minister Jayatissa said:
+
+...
+
+[Data](articles/d0a41a83.json)
 
 ---
 
@@ -1687,79 +1753,5 @@ In 2005, RW entered the presidential race still basking in the afterglow of his 
 ...
 
 [Data](articles/1e33d68d.json)
-
----
-
-### Newly appointed IGP Priyantha Weerasuriya calls on PM Harini
-
-*2025-08-23 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111777/newly-appointed-igp-priyantha-weerasuriya-calls-on-pm-harini-) · `en`
-
-The 37th Inspector General of Police of Sri Lanka, Attorney-at-Law Priyantha Weerasuriya, officially met with Prime Minister Dr. Harini Amarasuriya, according to the Prime Minister’s Media Division.
-
-Senior Deputy Inspector General of Police Priyantha Weerasuriya, who was recently appointed as the 37th Inspector General of Police of the Democratic Socialist Republic of Sri Lanka, held the official meeting with the Prime Minister on 22 August at the Prime Minister’s Office following his assumption of duties.
-
-Secretary to the Prime Minister, Mr. Pradeep Saputanthri, was also present on the occasion.
-
-◼️
-
-[Data](articles/37495be5.json)
-
----
-
-### සාමය සඳහා එළැඹෙන්නේ නැතිනම් ට්‍රම්ප්ගෙන් රුසියාවට සම්බාධක
-
-*2025-08-23 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213720) · `si`
-
-සති දෙකක කාලයකින් පසුව යුක්‍රේන - රුසියා යුද්ධය සම්බන්ධව සාමකාමී විසඳුමක් නොලැබුණහොත් රුසියාවට එරෙහිව සම්බාදක පනවන බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා තිබේ.
-
-අමෙරිකානු ජනාධිපති සහ රුසියානු ජනාධිපති පුටින් අතර පසුගියදා ඇලෙස්කාවේදී රුසියානු - යුක්‍රේන යුද්ධය සඳහා සාමකාමී මාවතක් වෙනුවෙන් සාකච්ඡා පැවැත්වුවද එම සාකච්ඡා එකඟතාවකින් තොරව අවසන් වී තිබුණි.
-
-සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අමෙරිකානු ජනාධිපතිවරයා පැවසුවේ සාකච්ඡාවන් හි අවසන් එකඟතාවයක් නොමැති වුවද සාකච්ඡා ඵළදායීව සහ පැවැති බවය.
-
-එම සාකච්ඡාවලින් පසුව අමෙරිකානු ජනාධිපති ට්‍රම්ප් සහ යුක්‍රේන ජනාධිපති සෙලෙන්ස්කි අතර හමුවක්ද සිදුවූ අතර එහිදී ද යුක්‍රේන - රුසියා යුද්ධය සඳහා සාමකාමී මාවතක් ගෙන ඒම පිළිබඳව දැඩි ලෙස සාකච්ඡා වී තිබුණි.
-
-කෙසේ නමුත් මෙම සාකච්ඡාවලින් අතරතුර වුවද පසුගිය දිනක යුක්‍රේනයේ පිහිටි කර්මාන්ත ශාලාවක් වෙත රුසියානු ප්‍රහාරයක්ද එල්ල විය.
-
-මෙම ප්‍රහාරය සම්බන්ධව අමෙරිකානු ජනාධිපතිවරයා සිය අදහස් දක්වා ඇති අතර එමගින් ඔහු පවසා ඇත්තේ සිදුකළ ප්‍රහාරය තමන් දැඩිව හෙළා දකින බවය.
-
-...
-
-[Data](articles/8ff942d0.json)
-
----
-
-### ජනාධිපති අරමුදලෙන් සබරගමුව පළාතේ උසස් පෙළ විශිෂ්ටයෝ අගයයි
-
-*2025-08-23 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213719) · `si`
-
-ජනාධිපති අරමුදලෙන් ක්‍රියාත්මක කරන 2023/2024 අ.පො.ස උසස් පෙළ විභාගයේදී දිස්ත්‍රික් මට්ටමින් ඉහළ දක්ෂතා දැක් වූ විශිෂ්ටයන් ඇගයීමේ සබරගමුව පළාත් වැඩසටහන කතානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (23) රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලයීය ශ්‍රවණාගාරයේදි පැවැත්විණි.
-
-මෙහිදී රත්නපුර සහ කෑගල්ල දිස්ත්‍රික්කයන්හි 2023 හා 2024 වර්ෂවලට අදාළ අ.පො.ස උසස් පෙළ විභාගයේදී, විෂය ධාරා 6 යටතේ ඉහළ ප්‍රතිඵල ලබා ගත් සිසුන් 10 දෙනකු බැගින්, සිසුන් 360 දෙනකුට රුපියල් ලක්ෂය බැගින් වූ දිරි දීමනාවක් සහ සහතික පත් ප්‍රදානය කිරීම සිදු කෙරිණි.
-
-මේ සඳහා ජනාධිපති අරමුදල වැය කර ඇති මුදල රුපියල් මිලියන 36කි.
-
-එහිදී සිසු දරුවන් ඇමතූ කතානායක ජගත් වික්‍රමරත්න මහතා සඳහන් කළේ රාජ්‍ය දේපළ ජනතාවගේ අනාගත අභිවෘද්ධිය වෙනුවෙන් යෙදවීම රජයක වගකීම වන අතර ජනාධිපති අරමුදල මේ වන විට එම වගකීම නිසි ලෙසම ඉටු කරමින් සිටින බවය.
-
-එමෙන්ම දැනුම, කුසලතා සහ ආකල්ප වර්ධනය කරගත් අනාගත පරපුරක් රටට අවශ්‍ය බවත්, වත්මන් රජයේ නව අධ්‍යාපන ප්‍රතිපත්තිවලින් බිහි කිරීමට අපේක්ෂා කරන්නේ එවන් පරපුරක් බවත් කතානායකවරයා පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/a7868190.json)
-
----
-
-### අමෙරිකාවේ කර්මාන්ත ශාලාවක  දැවැන්ත පිපිරීමක්
-
-*2025-08-23 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213718) · `si`
-
-විදෙස් මාධ්‍ය වාර්තා කළේ ලිහිසි තෙල් නිෂ්පාදනය කරනු ලබන කර්මාන්ත ශාලාවක මෙම පිපිරීම සිදුව ඇති බවය.
-
-පිපිරීමත් සමඟ විශාල දුමාරයක් හටගෙන ඇති අතර ශ්වසන අපහසුතා ඇති වීම වළක්වා ගැනීම සඳහා එම කර්මාන්ත ශාලාව අවට නිවෙස්වල පදිංචිකරුවන් ඉවත් කිරීමට ද කටයුතු කර ඇත.
-
-පිපිරීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර තුවාල ලැබූ පුද්ගලයින් සම්බන්ධයෙන් ද මෙතෙක් තොරතුරු වාර්තා කර නොමැති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේය.
-
-◼️
-
-[Data](articles/ba8693c2.json)
 
 ---

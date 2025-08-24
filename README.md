@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 21:32:00**
+As of **2025-08-24 21:49:39**
 
 ## Newspaper Stats
 
-*Scraped **72,085** Articles*
+*Scraped **72,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,926
 adaderanalk | 9,106
 tamilmirrorlk | 10,656
 virakesarilk | 11,877
-adaderanasinhalalk | 12,486
+adaderanasinhalalk | 12,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,085 articles have been extended.
+61,973 (86.0%) of 72,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### ජිහාඩ් සටන්කාමීන් 35ක් ජීවිතක්ෂයට
+
+*2025-08-24 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213747) · `si`
+
+නයිජිරියානු ආරක්ෂක අංශ එල්ල  කළ ගුවන් ප්‍රහාර මාලාවකින් ජිහාඩ් සටන්කාමීන් 35 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+කැමරූන් දේශසීමාව ආසන්නයට එල්ල කරන ලද ගුවන් ප්‍රහාරවලින් මෙම මරණ සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ජිහාඩ් සටන්කාමීන් විසින් නයිජිරියාව වෙත එල්ල කිරීමට සැලසුම් කර තිබු ප්‍රහාරයක් වළක්වාලමින් මෙම ප්‍රහාර එල්ල කර ඇත.
+
+නයිජීරියානු ආරක්ෂක අංශ පසුගිය මාස කිහිපය තුළ එල්ල කරන ලද ප්‍රහාරවලින් සටන්කාමින් 800 දෙනෙකු පමණ ජීවිතක්ෂයට පත්ව ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/828334fb.json)
+
+---
 
 ### ரணில் விக்கிரமசிங்க கைது சரியா,தவறா ஆராய போவதில்லை நீதிமன்றம் சுயாதீனமாக செயற்பட இடமளிக்க வேண்டும் - விமல் வீரவன்ச
 
@@ -1737,23 +1755,5 @@ Wickremesinghe was arrested over using government money to pay for his travel an
 ...
 
 [Data](articles/af6bf672.json)
-
----
-
-### Few showers expected in parts of the island
-
-*2025-08-24 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111779/few-showers-expected-in-parts-of-the-island) · `en`
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
-
-Mainly fair weather will prevail over elsewhere of the island, the Met. Department added.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/9845ca18.json)
 
 ---

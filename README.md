@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 07:18:24**
+As of **2025-08-24 08:10:12**
 
 ## Newspaper Stats
 
-*Scraped **71,978** Articles*
+*Scraped **71,982** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 610
 bbccomsinhala | 677
-colombotelegraphcom | 737
+colombotelegraphcom | 738
 economynextcom | 4,402
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,913
-adaderanalk | 9,089
+adaderanalk | 9,091
 tamilmirrorlk | 10,619
 virakesarilk | 11,862
-adaderanasinhalalk | 12,464
+adaderanasinhalalk | 12,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,978 articles have been extended.
+61,973 (86.1%) of 71,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය අද
+
+*2025-08-24 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213723) · `si`
+
+"දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය" අද (24) කොළඹ ගාලු මුවදොර පිටියේදී පැවැත්වීම සඳහා මේ වන විට සියලු කටයුතු සූදානම් කර තිබේ.
+
+ටීවී දෙරණ, ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය සහ ශ්‍රී ලංකා පොලිසිය එක්ව සංවිධානය කරන මෙම සැණකෙළිය සඳහා දේශීය තරගකරුවන් 500ක් මෙන්ම රටවල් 25ක් නියෝජනය කරමින් විදේශීය තරගකරුවන් එක්වීමටද නියමිතය.
+
+සරුංගල් සැණකෙළියේ නිල සමාරම්භක උත්සවය පසුගියදා කොළඹ සිනමන් ග්‍රෑන්ඩ් හෝටල් පරිශ්‍රයේ අතිඋත්කර්ෂවත් අයුරින් පැවැත්විණි.
+
+එහිදී දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළියේ නිල තේමා ගීතය එළිදැක්වීමද සිදු කෙරුණු ලැබීය.
+
+කොළඹ අහස විචිත්‍රවත් කරන දෙරණ සිග්නල් කොළඹ ජාත්‍යන්තර සරුංගල් සැණකෙළිය අද පස්වරු 1ට ගාලු මුවදොර පිටියේ දී ආරම්භ වීමට නියමිත අතර තරගකරුවන් ලියාපදිංචිය උදෑසන 11 සිට සිදු කිරීමට නියමිතව තිබේ.
+
+සරුංගල් සැණකෙළිය අවසානයේ රාත්‍රී 8 සිට ගාලුමුවදොර පිටියේදී "ඇවටා" සංගීත කණ්ඩායමේ ප්‍රසංගයකින් ද සැණකෙළිය වර්ණවත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b70c53dd.json)
+
+---
+
+### Few showers expected in parts of the island
+
+*2025-08-24 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111779/few-showers-expected-in-parts-of-the-island) · `en`
+
+A few showers may occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, the Department of Meteorology said.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Mainly fair weather will prevail over elsewhere of the island, the Met. Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/9845ca18.json)
+
+---
+
+### Youth shot dead in Boralesgamuwa, another injured
+
+*2025-08-24 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111778/youth-shot-dead-in-boralesgamuwa-another-injured-) · `en`
+
+A 21-year-old youth has been shot dead while another person has been injured in a shooting incident that occurred in the Malani Bulathsinhala Road at Boralesgamuwa, the Police Spokesman said.
+
+The shooting was carried out by an unidentified gunman who arrived in a three-wheeler.
+
+◼️
+
+[Data](articles/049e0a6c.json)
+
+---
 
 ### බොරලැස්ගමුවේ වෙඩි තැබීමකින් අයෙක් මරුට
 
@@ -101,6 +155,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9dda5cca.json)
+
+---
+
+### Hunger Being Weaponised In Gaza Amid A Crumbling World Order!
+
+*2025-08-24 01:34:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hunger-being-weaponised-in-gaza-amid-a-crumbling-world-order/) · `en`
+
+Famine is taking place in Gaza – just a short drive away from hundreds of trucks of aid sitting idly outside its borders. “One in three people hasn’t eaten for days”, insisted Tom Fletcher, UN Emergency Relief Chief and head of OCHA. “People are being shot just trying to get food to feed their families. Children are wasting away. This is what we face on the ground right now.” People in Gaza have exhausted every possible means of survival. Hunger and malnutrition are claiming lives every day, and the destruction of cropland, livestock, greenhouses, fisheries and food production systems has made the situation even more dire. A joint statement from several UN organisations, including UNICEF, the WFP, and the WHO, expressed alarm, saying “it would have further devastating consequences for civilians where famine conditions already exist. “Many people – especially sick and malnourished children, older people and people with disabilities – may be unable to evacuate.”
+
+...
+
+[Data](articles/7d214447.json)
 
 ---
 
@@ -1783,85 +1849,5 @@ The General Manager of Railways, Ravindra Pathmapriya, announced that several tr
 ◼️
 
 [Data](articles/efb88177.json)
-
----
-
-### Sri Lanka’s Presidency At Risk: The Blurred Line Between Public Duty & Private Life
-
-*2025-08-23 07:05:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-presidency-at-risk-the-blurred-line-between-public-duty-private-life/) · `en`
-
-A President of a country cannot separate his private life from public life. The moment one assumes the office of Head of State, he ceases to be a private individual. His security, movements, and even his day-to-day engagements are under the control of the State.
-
-The Presidential Security Division (PSD) is duty-bound to accompany him at all times, whether he is attending a state meeting, a private function, or even traveling abroad. A specific budget is allocated for this purpose, and his security detail has no discretion to abandon him simply because he is engaged in a personal activity.
-
-Even if a President attends a private wedding, funeral, or visits a sick relative, the PSD must accompany him. His official vehicle too is part of the security protocol. Therefore, in practice, there is no clear distinction between public and private life for a sitting President.
-
-This brings us to the case of former President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/eea1ef1b.json)
-
----
-
-### දුම්රිය අවලංගු කිරීමක් ගැන දැනුම්දීමක්
-
-*2025-08-23 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213685) · `si`
-
-අද (23) සහ හෙට (24) යන දෙදින මුහුදුබඩ දුම්රිය මාර්ගයේ අත්‍යවශ්‍ය අලුත්වැඩියා කටයුත්තක් හේතුවෙන් දුම්රිය ගමන්වාර කිහිපයක් අවලංගු කර තිබේ.
-
-එලෙස අවලංගු කර ඇත්තේ, මුහුදුබඩ දුම්රිය මාර්ගයේ දොඩන්දුව සහ බුස්ස අතර දුම්රිය මාර්ගයේ දුම්රිය ගමන් වාර කිහිපයක් බව දුම්රිය සාමාන්‍යාධිකාරී, රවීන්ද්‍ර පත්මප්‍රිය මහතා නිවේදනය කරයි.
-
-01. ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.05.15 ට කොළඹ කොටුව බලා ධාවනය වීමට නියමිත අංක 8319 දුම්රිය
-
-02. මරදාන දුම්රිය ස්ථානයෙන් ප.ව.12.10 ට පිටත්ව ගාල්ල දක්වා ධාවනය වීමට නියමිත අංක 8788 දුම්රිය
-
-01. ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.05.00 ට කොළඹ කොටුව බලා ධාවනය වීමට නියමිත අංක 8327 සමුද්‍රදේවී දුම්රිය, ගාල්ල දුම්රිය ස්ථානයෙන් පැය 1ක් පමණ ප්‍රමාදකර පෙ.ව.06.30 ට ගමන් ආරම්භ කිරීම.
-
-02. ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.04.10 ට කොළඹ කොටුව බලා ධාවනය වීමට නියමිත අංක 8320 දුම්රිය ගාල්ල දුම්රිය ස්ථානයෙන් පෙ.ව.08.50 ට ගමන් ආරම්භ කිරීම.
-
-මීට අමතරව අද කොළඹ කොටුවෙන් ප.ව.07.30ට පිටත්ව ගාල්ල දක්වා ධාවනය වීමට නියමිත රාත්‍රී තැපැල් දුම්රිය හික්කඩුව දුම්රිය ස්ථානය දක්වා පමණක් ධාවනය කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/e4b162a9.json)
-
----
-
-### Island-wide postal strike enters day six
-
-*2025-08-23 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111755/island-wide-postal-strike-enters-day-six) · `en`
-
-The strike launched by postal workers will continue for the sixth consecutive day today (23).
-
-Chinthaka Bandara, the co-convener of the United Postal Trade Union Front stated that legal action will be taken regarding the unauthorised removal of mailbags stored at the Central Mail Exchange.
-
-The trade union action was launched on Sunday (17), over 19 demands.
-
-◼️
-
-[Data](articles/986680e7.json)
-
----
-
-### මාරක අනතුරු කිහිපයක් - 18 හැවිරිදි තරුණයෙකු ඇතුළු 4ක් මරුට
-
-*2025-08-23 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213684) · `si`
-
-දිවයිනේ ස්ථාන කිහිපයක සිදුවු රිය අනතුරුවලින් පුද්ගලයින් සිව්දෙනෙකුට දිවි අහිමිවී ඇතැයි පොලීසිය පවසයි.
-
-ඊයේ (22) දිනය තුළ මෙම මාරක රිය අනතුරු සිදුව තිබුණේ, මහියංගනය, පැල්මඩුල්ල, දෙහිඕවිට හා කටුගස්තොට යන ප්‍රදේශවලය.
-
-ඊයේ අලුයම් මහනුවර - කටුගස්තොට මාර්ගයේ සියඹලාතැන්න හන්දිය ආසන්නයේදී  මහනුවර දෙස සිට කටුගස්තොට දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි පහන් කණුවක ගැටී  අනතුරක් සිදුව තිබුණි.
-
-අනතුරින් තුවාල ලැබූ යතුරුපැදිකරු හා පසුපැදිකරු මහනුවර රෝහලට ඇතුළත් කිරීමෙන් පසු පැදිකරු මියගොස් ඇත.
-
-එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 18ක් වූ අකුරණ ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මේ අතර, කොළඹ - හැටන් ප්‍රධාන මාර්ගයේ තැඹිලියාන ප්‍රදේශයේදී කොළඹ දෙස සිට නුවරඑළිය දෙසට ධාවනය වූ සුඛෝපභෝගී බස් රථයක බැටරි කාමරයේ දොර විවෘත වී මාර්ගයේ රැඳී සිටි 59 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබුණි.
-
-...
-
-[Data](articles/ceb9a5eb.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 18:54:06**
+As of **2025-08-24 19:09:00**
 
 ## Newspaper Stats
 
-*Scraped **72,071** Articles*
+*Scraped **72,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,924
 adaderanalk | 9,104
-tamilmirrorlk | 10,653
+tamilmirrorlk | 10,654
 virakesarilk | 11,871
 adaderanasinhalalk | 12,485
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,071 articles have been extended.
+61,973 (86.0%) of 72,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### அதிக விலைக்குக் குடிநீர் போத்தலை விற்பனை செய்த உணவகம்
+
+*2025-08-24 18:47:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-விலைக்குக்-குடிநீர்-போத்தலை-விற்பனை-செய்த-உணவகம்/175-363407) · `ta`
+
+வில்பத்து தேசிய பூங்காவுக்கு வருகைதரும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கு அதிக விலைக்குப் பொருட்களை விற்பனை செய்யும் உணவகம் ஒன்று தொடர்பில் தகவல் வெளியாகியுள்ளது.
+
+குறித்த தகவலையடுத்து நுகர்வோர் விவகார அதிகாரசபை, புத்தளம் மாவட்ட அலுவலக அதிகாரிகள் குழு ஆகியவை சோதனை நடவடிக்கையில் ஈடுபட்டுள்ளன.
+
+தேசிய பூங்காவின் பிரதான நுழைவாயிலுக்கு அருகில் உள்ள உணவகம் ஒன்றிலேயே இந்த சோதனை நடவடிக்கை இடம்பெற்றது.
+
+உணவகத்தை சோதனை செய்தபோது, ​​130 ரூபாய்க்கு விற்கப்பட வேண்டிய ஒன்றரை லீற்றர் குடிநீர் போத்தல் 200 ரூபாய்க்கு விற்பனை செய்யப்பட்டமை தெரியவந்துள்ளது.
+
+ஒன்றரை லிற்றர் குடிநீர் போத்தல் ஒன்றுக்கு கூடுதலாக 70 ரூபாய் வசூலிக்கப்பட்டமை கண்டறியப்பட்டது.
+
+மேலும், இந்த உணவகத்தில் விற்கப்படும் அனைத்து உணவு மற்றும் பானங்களும் அதிக விலைக்கு விற்கப்படுவதாகத் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/58a1b54b.json)
+
+---
 
 ### அஞ்சல் பணியாளர்களின் பணிப்புறக்கணிப்பு கைவிடப்பட்டது
 
@@ -1737,21 +1759,5 @@ The fingerprint system uses biometric fingerprints. In simple terms, it’s a bi
 ...
 
 [Data](articles/5a9b39db.json)
-
----
-
-### Ranil Wickremesinghe: A Career Of Losing The Plot
-
-*2025-08-23 22:38:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghe-a-career-of-losing-the-plot/) · `en`
-
-There’s a temptation in Sri Lanka to treat Ranil Wickremesinghe as some elder statesman — the “last liberal,” the West-friendly technocrat who stood above the Rajapaksa swamp. But let’s be honest: RW’s political decline is no accident. It’s the result of a career defined by hubris, bad judgment, and a knack for playing the wrong hand at every critical moment.
-
-If anything, his story is not one of tragedy but of farce: four election cycles, four colossal blunders, and one country left bleeding from his inability to get it right.
-
-In 2005, RW entered the presidential race still basking in the afterglow of his 2002 Ceasefire Agreement with the LTTE. He genuinely believed peace talks with Prabhakaran would carry him to victory. Instead, the Tigers enforced a boycott in the North and East, stripping RW of the votes he needed and handing Mahinda Rajapaksa the presidency.
-
-...
-
-[Data](articles/1e33d68d.json)
 
 ---

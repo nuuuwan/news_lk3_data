@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 16:20:27**
+As of **2025-08-24 16:32:22**
 
 ## Newspaper Stats
 
-*Scraped **72,054** Articles*
+*Scraped **72,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,921
 adaderanalk | 9,102
-tamilmirrorlk | 10,647
+tamilmirrorlk | 10,648
 virakesarilk | 11,870
 adaderanasinhalalk | 12,480
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,480
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,054 articles have been extended.
+61,973 (86.0%) of 72,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,15 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-24 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213739) · `si`
 
-අද (24) පස්වරු 4.00 සිට වෘත්තීය සමිති ක්‍රියාමාර්ග අතහැර නියමිත පරිදි සිය රාජකාරී සිදුකිරීමට වර්ජනයේ නිරතව සිටි තැපැත් සේවකයින් එකඟ වූ බව විෂයභාර අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+අද (24) පස්වරු 4 සිට වෘත්තීය සමිති ක්‍රියාමාර්ග අතහැර නියමිත පරිදි සිය රාජකාරී සිදුකිරීමට වර්ජනයේ නිරතව සිටි තැපැත් සේවකයින් එකඟ වූ බව විෂයභාර අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
 
 වර්ජනයේ නිරත තැපැල් සේවකයින් සහ විෂය භාර අමාත්‍ය නලින්ද ජයතිස්ස මහතා අතර අද පැවති විශේෂ සාකච්ඡාවකින් අනතුරුව අමාත්‍යවරයා මාධ්‍යට අදහස් දක්වමින් මේ බව පැවසීය.
 
-කෙසේවෙතත් මේ සම්බන්ධයෙන් අදහස් දැක්වූ වර්ජනයේ නියත තැපැල් සේවකයින් පැවසුවේ අදාළ එකඟතාවයන් සම්බන්ධයෙන් ලිඛිතව පිළිතුරුක් ලැබෙන තුර වර්ජනය සම්බන්ධයෙන් නිෂ්චිතව කිව නොහැකි බවය.
+"ඉදිරිපත් කරපු ප්‍රධන ඉල්ලීම් දෙකක් තිබුණා. නමුත් අපි මුල ඉදළම කිව්වා ඒ ඉල්ලීම් ගැන රජය සාකච්ඡා කරන්න සූදානම් නෑ කියලා. ඉතිරි ඉල්ලීම් 17 ගැන සාකච්ඡා කරන්න සූදානම් කියලා."
 
-"සාකච්ඡාව පිළිබඳ අවසන් තීන්දුවක් තාම කියන්න බැහැ. තැපැල්පතිවරයා ලිඛිතව අපිට දෙන්න ඕනේ. යම් යම් කාරණා ගැන එකඟතාවයන් තියෙනවා. හැබැයි අපිට ඒක පිළිගන්න වෙන්නේ ලියවිල්ලක් ඉදිරිපත් වුණාට පස්සේ. ඒ ලියවිල්ලත් එක්ක අපි වැඩවර්ජනය ගැන අවසන් තීන්දුවක් ගන්නවා."
+"ඒ අනුව අද සවස 4.00 සිට තැපැල් වෘත්තීය සමිති ක්‍රියාමාර්ග නතර කරලා නියමිත පරිදි තමන්ගේ රාජකාරි කරන්න සියලුම වෘත්තීය සමිත එකඟතාවය පල කළා."
 
-විදුලි සංදේශ නිලධාරීන්ගේ සංගමය සහ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති ඇතුළු සංගම් කිහිපයක් ඉල්ලීම් 19ක් මුල් කර ගනිමින් පසුගිය 17වනදා ආරම්භ කළ වර්ජනය අද 07වන දිනටත් ක්‍රියාත්මක වේ.
+"වැඩවර්ජනය කළ සියලුම තැපැත් සේවකයින්ට අපි කියන්න කැමති දින 6ක විතර සිදුවෙච්ච පාඩුවක් තියෙනවා. ගොඩ ගැහුණ ලියුම් සහ පාර්සල් කන්දරාවක් තියෙනවා. ඒවා නිදහස් කරලා දෙන්න ඕනේ. බලාපොරොත්තු වෙනවා ඒ වෘත්තීය සමිති වලට අදාළ සියලුදෙනා පැමින ඒ කටයුතු නොපමාව ඉටු කරයි කියලා."
 
 ...
 
@@ -575,6 +575,22 @@ In a statement, the Government Medical Officers’ Association (GMOA) claimed th
 ◼️
 
 [Data](articles/ebfb7921.json)
+
+---
+
+### ரணில் கைது;சந்திரிகா கவலை
+
+*2025-08-24 11:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-சந்திரிகா-கவலை/175-363377) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டதற்கு முன்னாள் ஜனாதிபதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்க கடும் கவலை தெரிவித்துள்ளார், இது இலங்கையின் ஜனநாயகத்திற்கு கடுமையான அச்சுறுத்தலாக இருப்பதாக எச்சரித்துள்ளார்.
+
+ஒரு அறிக்கையில், குமாரதுங்க இந்த நடவடிக்கை நாட்டின் ஜனநாயக விழுமியங்கள் மீதான திட்டமிட்ட தாக்குதலுக்குச் சமம் என்றும், அதன் தாக்கங்கள் ஒரு தனிநபர் அல்லது அரசியல் கட்சியைத் தாண்டி நீண்டுள்ளது என்றும் வலியுறுத்தினார். இந்த வளர்ச்சி ஒட்டுமொத்த சமூகத்தின் உரிமைகளுக்கு ஆபத்தை விளைவிப்பதாகவும், அனைத்து அரசியல் தலைவர்களும் இதுபோன்ற நடவடிக்கைகளை எதிர்க்க வேண்டும் என்றும் அவர் வலியுறுத்தினார்.
+
+ஜனநாயகத்தை குறைமதிப்பிற்கு உட்படுத்தும் முயற்சிகள் என்று தான் விவரித்தவற்றுக்கு தனது நிபந்தனையற்ற எதிர்ப்பை வெளிப்படுத்துவதில் குமாரதுங்கவும் இணைகிறார், மேலும் அவை கூட்டாக எதிர்க்கப்பட வேண்டும் என்றும் கூறினார்.
+
+◼️
+
+[Data](articles/b8949008.json)
 
 ---
 
@@ -1747,23 +1763,5 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 ◼️
 
 [Data](articles/9559af95.json)
-
----
-
-### Ranil Wickremesinghe’s Arrest: “Sri Lanka’s Presidency at Risk: The Blurred Line Between Public Duty and Private Life”
-
-*2025-08-23 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86319) · `en`
-
-(The writer is an Attorney-at-Law and member of the Moratuwa Municipal Council)
-
-A President of a country cannot separate his private life from public life. The moment one assumes the office of Head of State, he ceases to be a private individual. His security, movements, and even his day-to-day engagements are under the control of the State.
-
-The Presidential Security Division (PSD) is duty-bound to accompany him at all times, whether he is attending a state meeting, a private function, or even traveling abroad. A specific budget is allocated for this purpose, and his security detail has no discretion to abandon him simply because he is engaged in a personal activity.
-
-Even if a President attends a private wedding, funeral, or visits a sick relative, the PSD must accompany him. His official vehicle too is part of the security protocol. Therefore, in practice, there is no clear distinction between public and private life for a sitting President.
-
-...
-
-[Data](articles/b9b3fc2b.json)
 
 ---

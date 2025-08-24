@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 16:32:22**
+As of **2025-08-24 16:48:38**
 
 ## Newspaper Stats
 
-*Scraped **72,055** Articles*
+*Scraped **72,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,921
-adaderanalk | 9,102
+adaderanalk | 9,103
 tamilmirrorlk | 10,648
 virakesarilk | 11,870
 adaderanasinhalalk | 12,480
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,480
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,055 articles have been extended.
+61,973 (86.0%) of 72,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### Sri Lanka’s opposition condemns ‘undemocratic’ arrest of ex-president
+
+*2025-08-24 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111791/sri-lankas-opposition-condemns-undemocratic-arrest-of-ex-president) · `en`
+
+Sri Lankan opposition parties gathered in Colombo on Sunday to condemn the arrest of former president Ranil Wickremesinghe calling it “undemocratic” and “petty act of political vengeance.”
+
+Leaders of several opposition parties held a joint press conference in Colombo to protest the arrest of Wickremesinghe over alleged misuse of state funds during his tenure.
+
+“Our country is used to a very open democratic practices,” said former president Maithripala Sirisena, who served as Sri Lanka’s head of state from January 2015 to November 2019.
+
+“These sort of actions go against those basic principles,” Sirisena added.
+
+He stated that prevailing situation is extremely regrettable and that and that the opposition parties will unite in their efforts to do their utmost in a democratic manner to get former President Wickremesinghe released.
+
+...
+
+[Data](articles/53c60b1b.json)
+
+---
 
 ### ඇමති සමග සාකච්ඡාවෙන් පසු තැපැල් වෘත්තීය සමිති ස්ථාවරය කියයි
 
@@ -1745,23 +1765,5 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 ◼️
 
 [Data](articles/222edf80.json)
-
----
-
-### ගෙවුණු පැය 24ට මන්දපෝෂණයෙන් ගාසාවේ 08 දෙනෙකු මරුට
-
-*2025-08-23 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213714) · `si`
-
-පසුගිය පැය 24 තුළ ගාසා තීරයේ මන්දපෝෂණය හේතුවෙන් ළමුන් දෙදෙනෙකු ඇතුළුව පුද්ගලයින් 08 දෙනෙකු මියගොස් තිබේ.
-
-ඒ අනුව මන්දපෝෂණ තත්ත්වය හේතුවෙන් මේ වන විට පුද්ගලයින් 281 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-මානව හිමිකම් සංවිධාන පෙන්වා දෙන්නේ පවතින තත්ත්වය හමුවේ ගාසා තීරයේ තවත් විශාල පිරිසක් මන්දපෝෂණයට ගොදුරු වී සිටින බවය.
-
-මේ අතර පසුගිය 2023 වසරේ ඔක්තෝබර් මාසයේ සිට මේ දක්වා කාලසීමාව තුල ඊශ්‍රායලය එල්ල කළ ප්‍රහාරවලින් ගාසා වැසියන් 63,300 දෙනෙකු මියගොස් ඇත.
-
-◼️
-
-[Data](articles/9559af95.json)
 
 ---

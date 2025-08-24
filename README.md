@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 05:31:44**
+As of **2025-08-24 06:12:32**
 
 ## Newspaper Stats
 
-*Scraped **71,969** Articles*
+*Scraped **71,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 610
 bbccomsinhala | 677
 colombotelegraphcom | 736
 economynextcom | 4,402
-islandlk | 4,428
+islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,913
 adaderanalk | 9,089
-tamilmirrorlk | 10,617
+tamilmirrorlk | 10,618
 virakesarilk | 11,862
 adaderanasinhalalk | 12,462
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,969 articles have been extended.
+61,973 (86.1%) of 71,974 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-24 (Sunday)
+
+### மசகு எண்ணெய் உற்பத்தி ஆலையில் வெடிப்பு
+
+*2025-08-24 05:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மசகு-எண்ணெய்-உற்பத்தி-ஆலையில்-வெடிப்பு/50-363355) · `ta`
+
+அமெரிக்காவின், லூசியானாவில் உள்ள ஒரு மசகு எண்ணெய் உற்பத்தி ஆலையில் வெடிப்பு சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+மசகு எண்ணெய் உற்பத்தி ஆலையில் இருந்து வெளியேறும் நச்சுப் புகை காரணமாக, அருகிலுள்ள குடியிருப்பாளர்கள் சுவாசப் பிரச்சினைகளை சந்திப்பதாக வெளிநாட்டு ஊடகங்கள் தகவல்கள் தெரிவிக்கின்றன.
+
+ஆலையில் இருந்து வெளியேறும் நச்சுப் புகை காரணமாக அருகில் உள்ள நெடுஞ்சாலை மற்றும் பாடசாலைகள் மூடப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/9dda5cca.json)
+
+---
 
 ### 2025-08-23 (Saturday)
 
@@ -338,7 +356,7 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 
 ---
 
-### “Sri Lanka’s Presidency at Risk: The Blurred Line Between Public Duty and Private Life”
+### Ranil Wickremesinghe’s Arrest: “Sri Lanka’s Presidency at Risk: The Blurred Line Between Public Duty and Private Life”
 
 *2025-08-23 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86319) · `en`
 
@@ -875,6 +893,30 @@ In Paris, we were engaged in a busy round of talks, with appropriate officials o
 ...
 
 [Data](articles/6eb21743.json)
+
+---
+
+### Back in the saddle as Secretary/PM:Ranil-CBK tensions after 2001 election
+
+*2025-08-23 14:20:00* · [`islandlk`](http://island.lk/back-in-the-saddle-as-secretary-pmranil-cbk-tensions-after-2001-election/) · `en`
+
+A day after the December 5, 2001 general election results were out, I got a call from Ranil Wickremesinghe’s private office at Cambridge Terrace. It was Dayaratne, Ranil’s personal secretary, with a message that the ‘boss’ wanted to see me urgently.
+
+Ranil was brief and to the point as usual. He wasted no time on the formalities. He returned my congratulatory handshake with his normal perfunctory acknowledgement. He waved me to a chair.
+
+I thought I would be flippant; after all it was a moment for celebration.
+
+“No, but there is a serious one,” said Ranil. “What’s that?”
+
+“That’s not too difficult, I can suggest a few names,” I ventured. “No, no, I want you.”
+
+“Me! Do you know how old I am?”” You must be about sixty five.”
+
+“No. I am 71. I don’t think I can last the pace.” “But you are well, aren’t you. You look okay.” He looked so earnest. I played for time.
+
+...
+
+[Data](articles/3e7c168a.json)
 
 ---
 
@@ -1811,37 +1853,5 @@ The general public has also been requested to take adequate precautions to minim
 ...
 
 [Data](articles/6d91e156.json)
-
----
-
-### தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகள் நிறைவேறும் – அமைச்சர் ஹர்ஷன நாணயக்கார
-
-*2025-08-23 03:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/223149) · `ta`
-
-தமிழ் மக்களுக்கு இந்த நாட்டில் பல பிரச்சினைகள் உள்ளன என்பதை ஏற்கிறோம். தேர்தல் விஞ்ஞாபனத்தில் ஊடாக தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகளை நிச்சயம் நிறைவேற்றுவோம். ஐக்கிய நாடுகள் சபை எங்களின் சர்வதேச நண்பன். அதன் உதவிகள் எங்களுக்கு எப்போதும் தேவையானது. என நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் ஹர்ஷன  நாணயக்கார தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (22) நடைபெற்ற வடக்கு, கிழக்கு மற்றும் மலையகம் வாழ் தமிழ் மக்கள் எதிர்கொள்ளும் மனித உரிமைகள் பிரச்சினைகள் தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில்  மேற்கண்டவாறு குறிப்பிட்டார்.
-
-சிங்கள அரசாங்கம் தமிழ் மக்களின் பிரச்சினைகளுக்கு செவிமெடுப்பதில்லை என்பது தவறான கருத்தாகும். தேசிய மக்கள் சக்தி அவ்வாறு நடந்துகொள்வதில்லை. நாங்கள் இனங்கள், பாலினங்கள் என எது தொடர்பிலும் பார்ப்பதில்லை. சகலர் தொடர்பிலும் அவதானம் செலுத்துகின்றோம். வடக்கு மக்கள் தொடர்பிலும் முக்கியத்துவம் கொடுக்கின்றோம். ஆனால் வடக்கு அரசியல்வாதிகள் அச்சமடைவது ஏன் என்று தெரியவில்லை.
-
-...
-
-[Data](articles/ce049ea6.json)
-
----
-
-### ரணில் விக்ரமசிங்க கைது முன்கூட்டியே திட்டமிட்டது - ரவூப் ஹக்கீம்
-
-*2025-08-23 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223148) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது செய்யப்பட்ட சம்பவம் முன்கூட்டியே திட்டமிடப்பட்ட செயலாகும். அதனாலே யூடியுப் அலைவரிசையாளர் ரணில் விக்ரமசிங்க கைதுசெய்யப்படுவார் என ஏற்கனவே அறிவித்திருந்தார் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
-
-வடக்கு, கிழக்கு மற்றும் மலையக பகுதிகளில் வாழும்   தமிழ் மக்கள் எதிர்கொள்ளும் மனித உரிமைப் பிரச்சினைகள் தொடர்பாக தமிழரசுக் கட்சி எம்.பி சிவஞானம் ஸ்ரீதரன் வெள்ளிக்கிழமை (22) சபையில் முன்வைத்த சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இலஞ்ச ஆணைக்குழுவினால் கைது செய்யப்பட்டுள்ளார். ஆனால் அவர் இன்று (நேற்று) கைது செய்யப்படுவது யூடியுப் அலைவரிசையாளர் ஒருவர் அறிந்துள்ளார்.அவருக்கு இது எப்படி தெரியும். அதிகாரத்தில் இருப்பவர்கள்தான் அவருக்கு சில துப்புகளை கொடுத்திருக்கலாம். இதுதானா அரசாங்கத்தின் புதிய கலாசாரம் என கேட்கிறோம்.
-
-...
-
-[Data](articles/41f278c0.json)
 
 ---

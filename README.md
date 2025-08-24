@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 05:06:46**
+As of **2025-08-24 05:31:44**
 
 ## Newspaper Stats
 
-*Scraped **71,961** Articles*
+*Scraped **71,969** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 609
+dbsjeyarajcom | 610
 bbccomsinhala | 677
 colombotelegraphcom | 736
 economynextcom | 4,402
-islandlk | 4,421
+islandlk | 4,428
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,913
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,961 articles have been extended.
+61,973 (86.1%) of 71,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -338,6 +338,24 @@ Yet many opposition leaders  seem to think otherwise.  These hopes are hinged ar
 
 ---
 
+### “Sri Lanka’s Presidency at Risk: The Blurred Line Between Public Duty and Private Life”
+
+*2025-08-23 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86319) · `en`
+
+(The writer is an Attorney-at-Law and member of the Moratuwa Municipal Council)
+
+A President of a country cannot separate his private life from public life. The moment one assumes the office of Head of State, he ceases to be a private individual. His security, movements, and even his day-to-day engagements are under the control of the State.
+
+The Presidential Security Division (PSD) is duty-bound to accompany him at all times, whether he is attending a state meeting, a private function, or even traveling abroad. A specific budget is allocated for this purpose, and his security detail has no discretion to abandon him simply because he is engaged in a personal activity.
+
+Even if a President attends a private wedding, funeral, or visits a sick relative, the PSD must accompany him. His official vehicle too is part of the security protocol. Therefore, in practice, there is no clear distinction between public and private life for a sitting President.
+
+...
+
+[Data](articles/b9b3fc2b.json)
+
+---
+
 ### හිටපු ජනාධිපති රනිල් දැඩි සත්කාර ඒකකයට
 
 *2025-08-23 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213713) · `si`
@@ -502,6 +520,24 @@ When questioned by journalists on whether Saman Ekanayake was also scheduled to 
 
 ---
 
+### Lush Sanctuaries of Survival:
+
+*2025-08-23 16:08:00* · [`islandlk`](http://island.lk/lush-sanctuaries-of-survival/) · `en`
+
+How Sri Lanka’s Home Gardens Are Healing a Biodiversity Crisis
+
+At a time when deforestation, monocultures, and climate chaos are rapidly eroding the natural wealth of Sri Lanka, a quiet revolution in conservation is flourishing right outside people’s front doors.
+
+Sri Lanka’s traditional home gardens—are now being recognised not merely as spaces of subsistence but as dynamic arks of biodiversity. A groundbreaking 15-year study led by biodiversity scientists  Suranjan Karunaratne, Dushantha Kandambi, and Thilina Surasinghe has revealed that a single 36-perch garden in Rambukpitiya, in the central highlands of Kandy District, has evolved into a thriving microrefugium for more than 250 species—95 of them endemic and 74 threatened, including seven classified as Critically Endangered.
+
+“Home gardens can no longer be dismissed as marginal green patches. Our findings show that, with thoughtful management, they can act as lifelines for species teetering on the edge,”
+
+...
+
+[Data](articles/aa775ec9.json)
+
+---
+
 ### මත්ද්‍රව්‍ය තොගයක් සමඟ පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට
 
 *2025-08-23 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213709) · `si`
@@ -523,6 +559,34 @@ When questioned by journalists on whether Saman Ekanayake was also scheduled to 
 ◼️
 
 [Data](articles/4fe5946e.json)
+
+---
+
+### St. Maximilian Kolbe:‘The Saint and Hero at Auschwitz’ and His Visits To Sri Lanka in the 1930s
+
+*2025-08-23 15:55:00* · [`islandlk`](http://island.lk/st-maximilian-kolbethe-saint-and-hero-at-auschwitz-and-his-visits-to-sri-lanka-in-the-1930s/) · `en`
+
+St. Maximilian Kolbe’s Visits to Ceylon (Sri Lanka) and His Impressions
+
+St. Maximian Kolbe, during his missionary travels to and from Japan, China and India, visted Sri Lanka (then known as Ceylon) in 1930, 1932 and 1933. The impressions he formed during these visits as recorded in his contemporary writings – letters, diaries, notes and article, provide a fascinating read.
+
+...
+
+[Data](articles/cdb759fb.json)
+
+---
+
+### Memories of WW II days in Kandy
+
+*2025-08-23 15:42:00* · [`islandlk`](http://island.lk/memories-of-ww-ii-days-in-kandy/) · `en`
+
+Landmark commemorations of 80 years were marked this year on May 8th and August 15th. They are named VE Day and VJ Day–Victory in Europe Day and Victory over Japan Day respectively. These Days are opportunities to commemorate the sacrifices and achievements of the second world war generation.
+
+The Allied Forces marched into Germany and Hitler committed suicide in his bunker with Eva Braun; while the American Fleet particularly, fought the war in the Pacific against Japan which battled ruthlessly in the name of their Emperor – Hirohito. He announced Japan’s surrender to the nation on August 15, 1945, in a broadcast known as the ‘Jewel Voice Broadcast’ according to the Nuclear Museum – the first time an emperor had addressed the public via radio.
+
+...
+
+[Data](articles/e0f66b41.json)
 
 ---
 
@@ -776,6 +840,44 @@ The Chief Magistrate accepted the request and accordingly issued the notice.
 
 ---
 
+### More on Premadasa years: pro-poor policies, garment factories, Janasaviya and housing
+
+*2025-08-23 14:27:00* · [`islandlk`](http://island.lk/more-on-premadasa-years-pro-poor-policies-garment-factories-janasaviya-and-housing/) · `en`
+
+Premadasa then unleashed his prodigious energy to make dramatic changes in the country’s economy. He looked on economic development as a part of his bigger vision to ensure “growth with equity”. While the JRJ administration followed a classical pattern of investment fueled by urbanization which made the GDP of Western province much higher than that of the outlier provinces, Premadasa was a proponent of the concept of all round growth as a way of catering to the poorer segments of society.
+
+...
+
+[Data](articles/6150db36.json)
+
+---
+
+### Sri Lankan ingenuity saves billions at Kelanitissa Power Plant
+
+*2025-08-23 14:23:00* · [`islandlk`](http://island.lk/sri-lankan-ingenuity-saves-billions-at-kelanitissa-power-plant/) · `en`
+
+In a remarkable display of homegrown engineering prowess, the engineers of the Ceylon Electricity Board (CEB) at the Kelanitissa Combined Cycle Power Station (KCCP) have achieved what international experts considered impossible. By successfully repairing a critical turbine rotor locally, the team not only averted an enormous foreign exchange outflow but also safeguarded national energy security at a crucial juncture.
+
+At the heart of this achievement was the 110 MW gas turbine generator rotor, a vital component of the plant’s combined cycle system. When it developed a critical fault, the Original Equipment Manufacturer (OEM) ruled it beyond repair in Sri Lanka and insisted on complete replacement. The quoted price for a new rotor was an eye-watering Rs. 1.4 billion, excluding additional costs for replacement, installation, testing, and commissioning.
+
+...
+
+[Data](articles/47c1629f.json)
+
+---
+
+### Opening of the Prima Mill
+
+*2025-08-23 14:22:00* · [`islandlk`](http://island.lk/opening-of-the-prima-mill/) · `en`
+
+In Paris, we were engaged in a busy round of talks, with appropriate officials of the Egyptian Embassy there and the company with which we had signed the contract. The ongoing discussions necessitated several telephone calls to Cairo. Both our Embassies in Paris and Cairo were very helpful, although not adequately staffed. Getting to a mutually satisfactory agreement was not easy and one had to keep one’s nerve and not show that there was any hurry to get back. After a few days of discussions and telephone calls, including to Sri Lanka, we were finally able to reach a satisfactory agreement with both the French and the Egyptians.
+
+...
+
+[Data](articles/6eb21743.json)
+
+---
+
 ### චීනයේ පාලමක් කඩා වැටී 07ක් මරුට
 
 *2025-08-23 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213704) · `si`
@@ -791,6 +893,18 @@ The Chief Magistrate accepted the request and accordingly issued the notice.
 ◼️
 
 [Data](articles/4396b874.json)
+
+---
+
+### India-China Ties Can Fall Short Without Pakistan
+
+*2025-08-23 14:16:00* · [`islandlk`](http://island.lk/india-china-ties-can-fall-short-without-pakistan/) · `en`
+
+It is far too soon for the self-styled ‘advocates’ of the Global South to hail Trump’s tariff theatrics, when most of these countries still rule through propaganda and oppression, not transparent institutions. Equally, it is premature to herald the so-called “honeymoon” between India and China; yet it remains crucial to observe these developments with measured attention.
+
+...
+
+[Data](articles/1f6434f7.json)
 
 ---
 
@@ -1729,135 +1843,5 @@ The general public has also been requested to take adequate precautions to minim
 ...
 
 [Data](articles/41f278c0.json)
-
----
-
-### நல்லிணக்கமும், அபிவிருத்தியும் நாணங்களின் இரு பக்கங்களை போன்றது அதன்படி செயற்படுவோம் -  பிமல் ரத்நாயக்க
-
-*2025-08-23 03:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223147) · `ta`
-
-வடக்கு  மற்றும் கிழக்கு மக்கள்  அதிகளவில் வாக்களித்து தேசிய மக்கள் சக்தியையே தெரிவு செய்துள்ளனர். அந்த மக்களின் ஆணையை ஏன் நாங்கள் இல்லாமல் செய்ய வேண்டும். ஏன் அதனை பங்கிட வேண்டும்.வடக்கின் அபிவிருத்திக்காக நிதியை ஒதுக்கியுள்ளோம்.நல்லிணக்கமும், அபிவிருத்தியும் நாணங்களின் இரு பக்கங்களை போன்றது. அதன்படி செயற்படுவோம். ஒரு வருடத்துக்கான பூர்த்தியை முன்னிட்டு ஜனாதிபதி வடக்கில் இருந்தே அபிவிருத்தி கருத்திட்டத்தை ஆரம்பிப்பார் என  சபை முதல்வரும், அமைச்சருமான பிமல் ரத்நாயக்க தெரிவித்தார்.
-
-யுத்த காலத்தை போன்று யுத்தத்தின் பின்னரான காலத்திலும் தமிழ் மக்கள் இனவாதங்களுக்கு முகம்கொடுத்தனர்.தேசிய மக்கள் சக்தி அரசாங்கம் ரணில்,ராஜபக்‌ஷக்களை விடவும்   மோசமானதா  அரசியல் ரீதியில் அழிந்துகொண்டு போகும் சவால்களுக்கு மத்தியில் இதுவரை காலம் தள்ளப்படாத இடங்களுக்கு தள்ளப்பட்டுள்ளனர்.வேண்டுமென்றால் தேசியப் பட்டியல் எம்.பி பதவியை தருகின்றோம். இனவாத தீனியை தேடிப் போக வேண்டாம். மாற்றங்களை பாருங்கள்.வடக்கு மக்களின் அடிப்படை உரிமைகளுக்கு முன்னுரிமையளித்துள்ளோம்   எனவும் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/73ad99ba.json)
-
----
-
-### Former President Ranil Wickremesinghe Transferred to National Hospital from Prison Hospital due to Unstable Health Condition. Intensive Specialist care provided after steeo rise in Blood Pressure and Blood sugar levels
-
-*2025-08-23 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86311) · `en`
-
-The medical condition of former President Ranil Wickremesinghe, who was admitted to the prison hospital on the night of 22 August 2025  following a remand order, is reported to he  unstable.
-
-A prison official said Wickremesinghe was first brought to the Magazine Prison, where doctors who examined him recommended a transfer to the Welikada Prison Hospital after his blood pressure and sugar levels were found to be elevated.
-
-However, it was reported that his blood pressure further increased by this afternoon.
-
-The Former President was  transferred to the National Hospital in Colombo due to health concerns.
-
-According to sources, the move followed medical assessments that recommended specialist care not available at the prison hospital.
-
-Wickremesinghe, who was remanded on 22 August  was first admitted to the prison hospital with multiple health complications.
-
-...
-
-[Data](articles/27054498.json)
-
----
-
-### வெளிநாட்டிலிருந்து வந்த பெண் உயிரிழப்பு
-
-*2025-08-23 02:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-உயிரிழப்பு/175-363327) · `ta`
-
-கொலண்டிலிருந்து யாழ்ப்பாணம் வந்திருந்த நிலையில் வாந்தி எடுத்த குடும்பப் பெண் ஒருவர் உயிரிழந்துள்ளார்.
-
-இவ்வாறு உயிரிழந்தவர் கந்தர் மடம் யாழ்ப்பாணத்தைச் சேர்ந்த சிவலிங்கம் ஜெயலட்சமி (வயது 61) என்ற மூன்று பிள்ளைகளைகளின்  தாயாராவார்.
-
-மேற்படி குடும்பப் பெண் கந்தர் மடத்தில் தங்கி இருந்த நிலையில் நேற்று வெள்ளிக் கிழமை அதிகாலை வாந்தி எடுத்த நிலையில் யாழ். போதனா வைத்தியசாலையில் அனுமதித்த போதும், சில மணித்தியாலங்களில் அவர் உயிரிழந்துள்ளார்.
-
-இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணை மேற்கொண்டார். சாட்சிகளை யாழ்ப்பாண பொலிஸார் நெறிப்படுத்தினர்.  (a)
-
-◼️
-
-[Data](articles/8975adf6.json)
-
----
-
-### ரணில் விக்ரமசிங்க வைத்தியசாலையில் அனுமதி
-
-*2025-08-23 01:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்க-வைத்தியசாலையில்-அனுமதி/175-363326) · `ta`
-
-வெலிக்கடை சிறைச்சாலைக்கு கொண்டு வரப்பட்ட பின்னர் உயர் இரத்த அழுத்தம் மற்றும் இரத்தத்தில் சீனியின் அளவு அதிகரித்ததன் காரணமாக வைத்திய ஆலோசனையின் பேரில் சிறைச்சாலை வைத்தியசாலையில் முன்னாள் ஜனாதிபதி ரணில் அனுமதிக்கப்பட்டுள்ளார் என தெரிவிக்கப்படுகிறது. (a)
-
-◼️
-
-[Data](articles/7b0be331.json)
-
----
-
-### Former   President Ranil Wickremesinghe Arrested on August 22  by CID  for alleged misuse of State funds for personal UK trip in 2023  and  Remanded by Colombo Fort Magistrate Until Aug 26
-
-*2025-08-23 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86306) · `en`
-
-Former President Ranil Wickremesinghe was yesterday ( Aug 22 )  remanded by the Colombo Fort Magistrate’s Court for  four days until 26 August.
-
-Wickremesinghe was arrested earlier in the day by the Criminal Investigation Department (CID) after appearing before the sleuths to record a statement.
-
-The arrest follows an investigation into allegations that Wickremesinghe used State funds for a private visit to London in September 2023 to attend a university ceremony with his wife, Prof. Maithree Wickremesinghe.
-
-The trip coincided with his return from the Group of 77 (G77) Summit in Havana, but was not classified as an official engagement. Investigators allege that Government resources, including security, were misused.
-
-Earlier, the CID questioned former Presidential Secretary Saman Ekanayake and former Private Secretary Sandra Perera in connection with the arrangements for the visit. It had also presented evidence before the Colombo Fort Magistrate’s Court in June.
-
-...
-
-[Data](articles/3e7ee80b.json)
-
----
-
-### தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகள் நிறைவேற்றப்படும் - அமைச்சர் இராமலிங்கம் சந்திரசேகர்
-
-*2025-08-23 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/223146) · `ta`
-
-காணிகள் விடுவிப்பு,காணாமல் போனவர்களுக்கு நீதி, தையிட்டி விகாரை பிரச்சினை உள்ளிட்ட அரசாங்கம் தமிழ் மக்களுக்கு வழங்கியுள்ள வாக்குறுதிகளை நிறைவேற்றுவது உறுதியாகும் என அமைச்சர் இராமலிங்கம் சந்திரசேகர்தெரிவித்தார்.
-
-வடக்கு, கிழக்கு மற்றும் மலையக பகுதிகளில் வாழும்   தமிழ் மக்கள் எதிர்கொள்ளும் மனித உரிமைப் பிரச்சினைகள் தொடர்பாக தமிழரசுக் கட்சி எம்.பி சிவஞானம் ஸ்ரீதரன் வெள்ளிக்கிழமை (22) சபையில் முன்வைத்த சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/f915790a.json)
-
----
-
-### அம்பாந்தோட்டை சூரியவெவ துப்பாக்கிச்சூடு : விசேட அதிரடிப்படையினர் நடவடிக்கையில் ஒருவர் உயிரிழப்பு
-
-*2025-08-23 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/223145) · `ta`
-
-அம்பாந்தோட்டை சூரியவெவ பகுதியில் பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட துப்பாக்கிச் சூட்டில் சந்தேக நபர் ஒருவர் உயிரிழந்துள்ளார்.
-
-குறித்த நபர் கொஸ்கொட பகுதியில் இளைஞர் ஒருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய பிரதான துப்பாக்கிதாரி என பொலிஸார் தெரிவித்தனர்.
-
-கடந்த 31 ஆம் திகதி கொஸ்கொட பொலிஸ் பிரிவுக்குட்பட்ட துவமொதர கடலாமைகள் பாதுகாப்பு மத்திய நிலையத்தில் மேற்கொள்ளப்பட்ட துப்பாக்கிப்பிரயோகத்தில் அறை ஒன்றில் உறங்கிக்கொண்டிருந்த 23 வயதுடைய இளைஞர் ஒருவர் உயிரிழந்திருந்தார். குறித்த மத்திய நிலையத்தின் உரிமையாளரின் மகனே இவ்வாறு கொலை செய்யப்பட்டதுடன் அவர் சுற்றுலா வழிகாட்டி ஒருவர் என பொலிஸார் தெரிவித்தனர்.
-
-...
-
-[Data](articles/69a8e824.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் சிறைச்சாலை வைத்தியசாலையில் அனுமதி
-
-*2025-08-23 00:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/223144) · `ta`
-
-சிறை காவலில் வைக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-உயர் இரத்த அழுத்தம் மற்றும் அதிக சர்க்கரை அளவு காரணமாக ரணில் விக்ரமசிங்க சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/996735db.json)
 
 ---

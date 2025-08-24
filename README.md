@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 14:33:20**
+As of **2025-08-24 14:49:36**
 
 ## Newspaper Stats
 
-*Scraped **72,039** Articles*
+*Scraped **72,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,25 +18,61 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,920
 adaderanalk | 9,099
-tamilmirrorlk | 10,641
+tamilmirrorlk | 10,642
 virakesarilk | 11,869
-adaderanasinhalalk | 12,476
+adaderanasinhalalk | 12,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,039 articles have been extended.
+61,973 (86.0%) of 72,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
 
+### සංචාරක ක්ෂේත්‍රයේ ප්‍රවර්ධනයට කාර්යය සාධක බලකායක්
+
+*2025-08-24 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213735) · `si`
+
+‍සංචාරක කර්මාන්තයේ ප්‍රවර්ධනය වෙනුවෙන් ජනාධිපති කාර්යය සාධක බලකායක් ස්ථාපිත කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+අදාළ ගැසට් නිවේදනයේ දැක්වෙන්නේ ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත පැවරී ඇති බලතල ප්‍රකාරව මෙම කාර්යය සාධක බලකාය ස්ථාපිත කර ඇති බවය.
+
+විදේශ කටයුතු, විදේශ රැකියා හා සංචාරක අමාත්‍ය විජිත හේරත් මහතාගේ සභාපතීත්වයෙන් යුත් එම කමිටුව සාමාජිකයින් 28 දෙනෙකුගෙන් සමන්විතය.
+
+සංචාරක නියෝජ්‍ය අමාත්‍යවරයා, ජනාධිපති ලේකම්වරයා ඇතුළු අමාත්‍යාංශ රැසක ලේකම්වරු, සංචාරක සංවර්ධන අධිකාරියේ සභාපතිවරයා ඇතුළු සංචාරක ක්ෂේත්‍රයට අදාළ ආයතනවල ප්‍රධානීන්ගෙන් මෙම කාර්යය සාධක බලකාය සමන්විත වේ.
+
+එම බලකාය මගින් සංචාරක ක්ෂේත්‍රයේ ප්‍රතිපත්ති විශ්ලේෂණය, උපාය මාර්ගික සැලසුම් සකස් කිරීම සහ නියාමනය, අභියෝග හඳුනාගැනීම සහ විසඳුම් යෝජනා කිරීම, අධීක්ෂණය සහ ඇගයීම, ප්‍රාදේශීය මට්ටම දක්වා පුළුල් කිරීම, ආකර්ෂණීය ගමනාන්ත සදහා පහසුකම් පුළුල් කිරීම, තිරසාර සංචාරක සංවර්ධනය සහ සංචාරක ප්‍රවර්ධනය අලෙවිකරණය සහ සන්නාමකරණය යන කාර්යයන් සිදුවනු ඇති.
+
+...
+
+[Data](articles/ad34f886.json)
+
+---
+
+### ”விளக்கை அணைத்து விளையாட வேண்டாம்”
+
+*2025-08-24 14:13:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கை-அணைத்து-விளையாட-வேண்டாம்/175-363389) · `ta`
+
+இந்த அரசாங்கத்தால் முன்னெடுக்கப்பட்டிருக்கும் ரணில் விக்கிரமசிங்கவுக்கு எதிரான பழிவாங்கலை தமிழ் மக்கள் கண்டிப்பதாக தமிழ் முற்போக்கு அமைப்பின் தலைவரும் பாராளுமன்ற உறுப்பினருமான மனோ கணேசன் தெரிவித்தார்.
+
+கொழும்பில் உள்ள அமரி ஹோட்டலில் கட்சித் தலைவர்களின் பங்கேற்புடன்  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மனோ கணேசன் மேற்கண்டவாறு தெரிவித்தார்.
+
+, வெள்ளிக்கிழமை பார்த்து  இந்த விஷயத்தை நீதிமன்றத்திற்கு எடுத்துச் சென்று விளக்கை அணைத்து விளையாட வேண்டாம் என்றும் எனது அன்பு நண்பர் தோழர் அனுரவிடம் கேட்டுக்கொள்கிறேன் என்றார். அரசியல் ஜனநாயகத்தைப் பாதுகாக்க நாம் ஒன்றுபட்டு கட்சி வேறுபாடுகள் இல்லாமல் செயல்பட வேண்டும். ஆரம்பத்தில் கூறப்பட்ட மத்திய வங்கி மோசடிக்கு எதிராக ஏன் நடவடிக்கை எடுக்கப்படவில்லை? இது நிச்சயமாக 100% அரசியல் பழிவாங்கல் என்று மனோ கணேசன் கூறினார்.
+
+◼️
+
+[Data](articles/0fedd14b.json)
+
+---
+
 ### බොරලැස්ගමුවේ ඝාතනයට වෙඩික්කරුවන් පැමිණි ත්‍රිරෝද රථය සොයා ගනී
 
 *2025-08-24 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213734) · `si`
 
-බොරලැස්කුමුව මාලනී බුලත්සිංහල මාවතේදී තරුණයකු වෙඩි තබා ඝාතනය කිරීම සඳහා වෙඩික්කරුවන් පැමිණි ත්‍රිරෝද රථය පිළියන්දල බෝකුන්දර ආර්ථික මධ්‍යස්ථානය අසල දමා ගොස් තිබියදී සොයාගත් බව බොරලැස්ගමුව පොලිසිය පවසයි.
+බොරලැස්ගමුව මාලනී බුලත්සිංහල මාවතේදී තරුණයකු වෙඩි තබා ඝාතනය කිරීම සඳහා වෙඩික්කරුවන් පැමිණි ත්‍රිරෝද රථය පිළියන්දල බෝකුන්දර ආර්ථික මධ්‍යස්ථානය අසල දමා ගොස් තිබියදී සොයාගත් බව බොරලැස්ගමුව පොලිසිය පවසයි.
 
 එම ත්‍රිරෝද රථය තුළ තිබී කළු පැහැති ආරක්ෂක හිස් වැසුම් දෙකක් සහ ජැකට්ටුවක් ද පොලිසිය විසින් සොයා ගෙන ඇත.
 
@@ -46,7 +82,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මෙලෙස මියගොස් ඇත්තේ ගල්කිස්ස පන්සල පාරේ පදිංචි ගිහාන් දුලාන් පෙරේරා නොහොත් චොප්පේ නමින් හඳුන්වන 21 හැවිරිදි ත්‍රිරෝද රථ රියදුරෙකි.
 
-මේ අතර වෙඩි තැබීමෙන් ඔහු සමග පැමිණි 28 හැවිරිදි තවත් පුද්ගලයෙකුද තුවාල ලබා රෝහල්ගත කළ අතර එම තැනැත්තාගේ අතෙහි ඇඟිලි දෙකකට තුවාල සිදුව ඇති බව පොලිසිය පැවසුවේය.
+වෙඩි තැබීමෙන් ඔහු සමග පැමිණි 28 හැවිරිදි තවත් පුද්ගලයෙකුද තුවාල ලබා රෝහල්ගත කළ අතර එම තැනැත්තාගේ අතෙහි ඇඟිලි දෙකකට තුවාල සිදුව ඇති බව පොලිසිය පැවසුවේය.
 
 ...
 
@@ -1727,49 +1763,5 @@ The Allied Forces marched into Germany and Hitler committed suicide in his bunke
 ...
 
 [Data](articles/e0f66b41.json)
-
----
-
-### Former President Ranil transferred to Colombo National Hospital
-
-*2025-08-23 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111772/former-president-ranil-transferred-to-colombo-national-hospital) · `en`
-
-Former President Ranil Wickremesinghe, who was receiving treatment at the Prison Hospital, has been transferred to the Colombo National Hospital.
-
-According to reports, prison doctors who examined him today recommended the transfer after assessing his health condition.
-
-Wickremesinghe, who was remanded until August 26 following his arrest by the Criminal Investigation Department (CID) yesterday, was admitted to the Prison Hospital last night (22) on medical advice due to high blood pressure and elevated blood sugar levels.
-
-Prison doctors, who have been continuously monitoring his health condition, have also recommended that he be provided with home cooked meals.
-
-It is further reported that the approval of Prison Headquarters has been granted in this regard.
-
-Accordingly, prison authorities had decided to transfer former President Wickremesinghe to the Colombo National Hospital due to his health issues.
-
-◼️
-
-[Data](articles/5205842c.json)
-
----
-
-### හිටපු ජනපති රනිල් කොළඹ ජාතික රෝහලට
-
-*2025-08-23 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213708) · `si`
-
-බන්ධනාගාර රෝහලේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කොළඹ ජාතික රෝහලට මාරුකර යවා තිබේ.
-
-ඔහුගේ රෝගී තත්ත්වය පිළිබඳ පරීක්ෂා කළ බන්ධනාගාර වෛද්‍යවරුන් සිදු කළ නිර්දේශයකට අනුව මෙලෙස හිටපු ජනධිපතිවරයා කොළඹ ජාතික රෝහලට ඇතුලත් කෙරිණි.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව එළඹෙන 26 වන දින දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණු රනිල් වික්‍රමසිංහ මහතා ඊයේ (22) රාත්‍රියේ බන්ධනාගාර රෝහල වෙත ඇතුළත් කෙරුණි.
-
-රුධිර පීඩනය ඉහළයෑම සහ සීනි මට්ටම ඉහළයෑම හේතුවෙන් හිටපු ජනාධිපතිවරයා මෙලෙස බන්ධනාගාර රෝහලට ඇතුළත් කරන ලෙස වෛද්‍යවරුන් නිර්දේශ කළේය.
-
-මේ අතර හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ දිගින් දිගටම නිරීක්ෂණය කළ බන්ධනාගාර වෛද්‍යවරුන් ඔහුට නිවසින් කෑම ලබාදීමටද නිර්දේශ කර තිබුණි.
-
-ඒ අනුව ඊට බන්ධනාගාර මූලස්ථානයේ අනුමැතිය හිමිවී ඇති බවද වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/c314c838.json)
 
 ---

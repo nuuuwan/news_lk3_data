@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 09:20:32**
+As of **2025-08-24 09:46:21**
 
 ## Newspaper Stats
 
-*Scraped **71,992** Articles*
+*Scraped **71,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,403
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,915
-adaderanalk | 9,093
+adalk | 6,916
+adaderanalk | 9,094
 tamilmirrorlk | 10,622
 virakesarilk | 11,862
 adaderanasinhalalk | 12,467
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,992 articles have been extended.
+61,973 (86.1%) of 71,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### Special discussion between striking postal workers and Minister today
+
+*2025-08-24 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111782/special-discussion-between-striking-postal-workers-and-minister-today) · `en`
+
+A special discussion is scheduled to be held today (24) between the postal employees currently engaged in strike action and the Minister of Health and Mass Media, Dr. Nalinda Jayatissa.
+
+The meeting is expected to take place at 9.00 a.m., and it is reported that representatives from all postal trade unions engaged in the strike action have been summoned for this discussion.
+
+The trade union action was launched on Sunday (17) by several unions, including the Postal and Telecommunications Officers’ Union and the United Postal Trade Unions’ Front (UPTUF), citing 19 unresolved demands.
+
+As a result, postal operations across the island have been severely affected, with services in many post offices coming to a standstill. People who came to obtain postal services have faced significant difficulties.
+
+Chinthaka Bandara, co-convener of the United Postal Trade Union Front, stated that he is prepared to discuss the matter with the Minister today.
+
+...
+
+[Data](articles/afda337d.json)
+
+---
 
 ### තැපැල් වර්ජකයින් සහ ඇමති අතර සාකච්ඡාවක් අද
 
@@ -235,6 +255,22 @@ The investigations conducted so far have revealed that both parties are members 
 ◼️
 
 [Data](articles/049e0a6c.json)
+
+---
+
+### වෛද්‍ය නිලධාරීන් 1408 ක් බඳවා ගැනීමට අයදුම්පත් කැඳවයි
+
+*2025-08-24 06:23:13* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-නිලධාරීන්-1408-ක්-බඳවා-ගැනීමට-අයදුම්පත්-කැඳවයි/11-418028) · `si`
+
+2024.10.29 දිනට සීමාවාසික පුහුණුව අවසන් කළ වෛද්‍යවරුන් 1408 දෙනෙකු සඳහා සෞඛ්‍ය අමාත්‍යාංශය යටතේ ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් ලෙසින් පත්වීම් ලබාදීම සඳහා අයදුම්පත් කැඳවා ඇතැයි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (වෛද්‍ය සේවා) II වෛද්‍ය එච්.එම්.අර්ජුන තිලකරත්න මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+එම නිවේදනයට අනුව ඉහත තනතුර සඳහා සුදුසුකම් ලද වෛද්‍යවරු සෞඛ්‍ය අමාත්‍යාංශයේ මානව සම්පත් කළමනාකරණ හා තොරතුරු පද්ධතියට (HRMIS) පිවිස අයදුම් කරන ලෙස එම නිවේදනයේ දක්වා ඇත.
+
+නැවත අයදුම්කිරීමේ දිනය 2025.08.25 දිනෙන් අවසන් වන බැවින්, සියලුම අයදුම්කරුවන් එදිනට පෙර මාර්ගත ක්‍රමය (online) ඔස්සේ අයදුම්පත් යොමු කරන ලෙස ද අදාළ නිවේදනයේ වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/740ae405.json)
 
 ---
 
@@ -1801,45 +1837,5 @@ The case studies provide localised insights into successful branding strategies,
 ◼️
 
 [Data](articles/f3b1cb85.json)
-
----
-
-### Several politicians visited Ranil last night following his remand
-
-*2025-08-23 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111758/several-politicians-visited-ranil-last-night-following-his-remand) · `en`
-
-Several politicians visited the Magazine New Remand Prison last night (22) following the remand of former President Ranil Wickremesinghe.
-
-Former ministers Duminda Dissanayake and Prasanna Ranatunga, along with a group of supporters including MP Chamara Sampath, arrived at the prison.
-
-However, they were not permitted to enter and were later captured on camera by Ada Derana while waiting outside.
-
-Former President Wickremesinghe, who was placed in remand custody, was admitted to the prison hospital last night (22) on medical advice.
-
-An inquiry made by Ada Derana revealed that he was admitted due to high blood pressure and elevated sugar levels.
-
-Yesterday, the Colombo Fort Magistrate’s Court ordered that former President Wickremesinghe, who had been arrested by the Criminal Investigation Department (CID) and produced before court, be remanded until August 26.
-
-...
-
-[Data](articles/66644979.json)
-
----
-
-### காசா நகரம் அழிக்கப்படும்: இஸ்ரேல் எச்சரிக்கை
-
-*2025-08-23 08:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-நகரம்-அழிக்கப்படும்-இஸ்ரேல்-எச்சரிக்கை/50-363332) · `ta`
-
-இஸ்​ரேலுக்​கும் பாலஸ்​தீனத்​தின் காசாவை ஆளும் ஹமாஸ் தீவிர​வா​தி​களுக்​கும் இடையே இரண்​டாம் கட்ட போர் நிறுத்​தம் தொடர்​பாக பேச்​சு​வார்த்தை நடை​பெற்​றது.
-
-இதில் இஸ்​ரேல் விதித்த நிபந்​தனை​களை ஹமாஸ் ஏற்க மறுத்​தது. இதையடுத்து காசா மீது இஸ்​ரேல் மீண்​டும் தாக்​குதல் நடத்தி வரு​கிறது.
-
-இந்​நிலை​யில் இஸ்​ரேல் பாது​காப்பு அமைச்​சர் இஸ்​ரேல் காட்ஸ் நேற்று எக்ஸ் தளத்​தில் வெளி​யிட்ட பதிவில்,
-
-போரை முடிவுக்கு கொண்டு வரு​வதற்​கான இஸ்​ரேலின் நிபந்​தனை​களை ஹமாஸ் ஏற்​கா​விட்​டால் குறிப்​பாக அனைத்து பணயக் கைதி​களை​யும் விடு​வித்​து, ஆயுதக்​குறைப்​புக்கு முன்​வ​ரா​விட்​டால் ஹமாஸின் தலைநகர​மான காசா அழிக்​கப்​படும் என்று எச்​சரித்​துள்​ளார். (a)
-
-◼️
-
-[Data](articles/688c8833.json)
 
 ---

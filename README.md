@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 13:17:35**
+As of **2025-08-24 13:32:06**
 
 ## Newspaper Stats
 
-*Scraped **72,028** Articles*
+*Scraped **72,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,918
+adalk | 6,919
 adaderanalk | 9,099
-tamilmirrorlk | 10,639
+tamilmirrorlk | 10,640
 virakesarilk | 11,865
 adaderanasinhalalk | 12,473
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,473
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,028 articles have been extended.
+61,973 (86.0%) of 72,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### ரணிலுக்கு அதை செய்யவேண்டும்: பிரதி பணிப்பாளர் தகவல்
+
+*2025-08-24 13:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-அதை-செய்யவேண்டும்-பிரதி-பணிப்பாளர்-தகவல்/175-363387) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தற்போது தேசிய மருத்துவமனையில் மருத்துவ மேற்பார்வையின் கீழ் சிகிச்சை பெற்று வருவதாக கொழும்பு தேசிய மருத்துவமனையின்  பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன   தெரிவித்துள்ளார்.
+
+ரணிலின் உடல்நிலை குறித்து  வைத்தியர்  ருக்ஷான் பெல்லன, ஞாயிற்றுக்கிழமை (24) நடத்திய   ஊடக சந்திப்பிலேயே இவ்வாறு கூறியுள்ளார்.
+
+அவருக்கு நீர்ச்சத்து குறைபாடு இருப்பதாகவும், அவரது உடலில் இரத்தத்தில் ஏற்படும் மாற்றங்கள் மற்றும் பிற அறிகுறிகள் காணப்படுவதாகவும் அவர் கூறினார்.
+
+நீதிமன்ற அறையில் பல மணி நேரம் காத்திருந்தபோது மின்சாரம் தடைபட்டதாலும், தண்ணீர் குடிக்காததாலும் ஏற்பட்ட சிக்கல்களால் அவருக்கு நீர்ச்சத்து குறைபாடு ஏற்பட்டதாக மருத்துவர் கூறினார்.
+
+இதன் காரணமாக, அவர் சிறைச்சாலை மருத்துவமனையில் இருந்து தேசிய மருத்துவமனைக்கு மாற்றப்பட்டுள்ளதாகவும், அதன்படி, முன்னாள் ஜனாதிபதி கடுமையான மருத்துவ மேற்பார்வையின் கீழ் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வருவதாகவும்  தெரிவித்தார்.
+
+...
+
+[Data](articles/f0fd9e4b.json)
+
+---
 
 ### யூடியூப்பரின் கணிப்பு குறித்து அமைச்சர் கருத்து
 
@@ -141,6 +161,18 @@ In a statement, the Government Medical Officers’ Association (GMOA) claimed th
 ◼️
 
 [Data](articles/672656d1.json)
+
+---
+
+### පුජාරා ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදීමට තීරණය කරයි
+
+*2025-08-24 11:43:08* · [`adalk`](https://www.ada.lk/sports/පුජාරා-ජාත්‍යන්තර-ක්‍රිකට්-පිටියට-සමුදීමට-තීරණය-කරයි/9-418032) · `si`
+
+ඒ අනුව එක්දින, ටෙස්ට් සහ විස්සයි 20 යන සියලුම ආකාරයේ තරග රටා වලින් සමුගන්නා බව ඔහු ප්‍රකාශයට පත් කර ඇත.
+
+◼️
+
+[Data](articles/ebfb7921.json)
 
 ---
 
@@ -1739,41 +1771,5 @@ Former President Wickremesinghe, who was placed in remand custody, was admitted 
 ...
 
 [Data](articles/13690243.json)
-
----
-
-### Notice issued on Arjuna Mahendran to appear before court
-
-*2025-08-23 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111769/notice-issued-on-arjuna-mahendran-to-appear-before-court-) · `en`
-
-The Colombo Magistrate’s Court has issued a notice on former Governor of the Central Bank of Sri Lanka (CBSL), Arjuna Mahendran, who has been named as a suspect in the 2015 Central Bank bond scam, to appear before court on September 26.
-
-The notice was issued by Colombo Chief Magistrate Thanuja Lakmali Jayatunga after considering a request made by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), said Ada Derana reporter.
-
-Mahendran, who is currently residing in Singapore, was summoned to appear before court.
-
-It was revealed that although a notice had been issued last year, it had not been properly executed.
-
-Accordingly, the Bribery Commission requested the court to issue the notice in English to ensure proper implementation.
-
-The Chief Magistrate accepted the request and accordingly issued the notice.
-
-...
-
-[Data](articles/59e601df.json)
-
----
-
-### ණය සහනදායක මණ්ඩලයීය දෙපාර්තමේන්තුවට අධ්‍යක්ෂ මණ්ඩලය පත්කරයි
-
-*2025-08-23 14:30:14* · [`adalk`](https://www.ada.lk/breaking_news/ණය-සහනදායක-මණ්ඩලයීය-දෙපාර්තමේන්තුවට-අධ්‍යක්ෂ-මණ්ඩලය-පත්කරයි/11-418025) · `si`
-
-අධිකරණ අමාත්‍යාංශය යටතේ ඇති ණය සහනදායක මණ්ඩලයීය දෙපාර්තමේන්තුව සඳහා අධ්‍යක්ෂක මණ්ඩලය සහ සාමාජිකයින් වෙත පත්වීම් ලිපි ප්‍රදානය කිරීම ගරු අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු පරිශ්‍රයේදී සිදු විය.
-
-කොළඹ, ගම්පහ, කුරුණෑගල, ගාල්ල යන ණය සහනදායක මණ්ඩලයන් සඳහා සාමාජිකයින් සඳහා පත්වීම් ලිපි ප්‍රදානය කිරීම මෙලෙස සිදු විය. මෙම මණ්ඩලය අමාත්‍යවරයා විසින් පත් කරනු ලබන අතර ඉන් එක් සමාජිකයෙකු මණ්ඩලයේ සභාපති ලෙස අමාත්‍යවරයා විසින් පත්කරනු ලබයි. මෙම මණ්ඩලයේ රාජකාරී කටයුතු සාමාන්‍ය අධිකරණයක පවත්නා ස්වරූපයට වඩා වෙනස් ස්වරූපයක් ගනී.
-
-...
-
-[Data](articles/0e520116.json)
 
 ---

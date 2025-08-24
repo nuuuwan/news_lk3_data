@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 11:20:05**
+As of **2025-08-24 11:32:05**
 
 ## Newspaper Stats
 
-*Scraped **72,010** Articles*
+*Scraped **72,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,917
 adaderanalk | 9,095
-tamilmirrorlk | 10,631
+tamilmirrorlk | 10,632
 virakesarilk | 11,865
-adaderanasinhalalk | 12,469
+adaderanasinhalalk | 12,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 72,010 articles have been extended.
+61,973 (86.1%) of 72,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### மட்டக்களப்பில் சொந்த வீட்டில் 16 பவுண் தங்க ஆபரணங்களை திருடிய இளைஞன் ; மூவர் கைது
+
+*2025-08-24 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223239) · `ta`
+
+மட்டக்களப்பில் சொந்த வீட்டில் 16 பவுண் தங்க ஆபரணங்களை திருடிய  இளைஞனையும் அவரது நண்பனையும் திருட்டு தங்க ஆபரணத்தை வாங்கிய நகைகடை உரிமையாளர் ஒருவர் உட்பட 3 பேரை வெள்ளிக்கிழமை (21) கைது செய்துள்ளனர்.
+
+...
+
+[Data](articles/dccb140f.json)
+
+---
+
+### ரூ.100 கோடி சொத்து:  3 கோடியை எரித்து கழிவறையில் ஊற்றிய தம்பதி சிக்கினர்
+
+*2025-08-24 11:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-100-கோடி-சொத்து-3-கோடியை-எரித்து-கழிவறையில்-ஊற்றிய-தம்பதி-சிக்கினர்/175-363373) · `ta`
+
+ரூ.100 கோடி சொத்து:  3 கோடியை எரித்து கழிவறையில் ஊற்றிய தம்பதி சிக்கினர்
+
+லஞ்​சம் வாங்கி ரூ.100 கோடிக்கு மேல் சொத்து குவித்த பிஹார் இன்ஜினீயர் வீட்​டில் சோதனை நடத்த வந்த பொருளா​தார குற்​றப்​பிரிவு அதி​காரி​கள், ரூ.3 கோடி பணத்தை எரித்து அழித்​ததை கண்டு திடுக்​கிட்​டனர்.
+
+பிஹார் மாநிலத்​தில் ஊரக பணி​கள் துறை​யில் இன்​ஜினீய​ராக பணி​யாற்​று​பவர் வினோத் ராய், இவர்,  மது​பானி, சீதா மார்ஹி ஆகிய இரு மாவட்​டங்​களில் நடை​பெறும் சாலைகள் மற்​றும் பாலங்​கள் கட்​டு​மானத்தை இவர்​தான் கவனித்து வந்​தார். ஒப்​பந்​த​காரர்​களிடம் இருந்து அதி​கள​வில் லஞ்​சம் வாங்​கு​வதை இவர் வழக்​க​மாக கொண்​டுள்​ளார். இது குறித்து பொருளா​தார குற்​றப்​பிரிவுக்கு புகார் தெரிவிக்​கப்​பட்​டது. இதையடுத்து அவர்​கள் வீட்​டில் சோதனை செய்ய பொருளா​தார குற்​றப்​பிரிவு அதி​காரி​கள் முடிவு செய்​தனர்.
+
+...
+
+[Data](articles/0a46260e.json)
+
+---
+
+### හිටපු ජනපති රනිල් අත්අඩංගුවට ගැනීමට විරෝධය දක්වමින් හිටපු ජනපතිනී චන්ද්‍රිකාගෙන් නිවේදනයක්
+
+*2025-08-24 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213728) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මැතිණිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එම නිවේදනයේ සඳහන් වන්නේ විමර්ශනය බොහෝ දුරට අවසන් වී ඇති අවස්ථාවක, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ අත්අඩංගුවට ගැනීම රටේ මූලික ප්‍රජාතන්ත්‍රවාදී ආයතනවල ශක්තිය සම්බන්ධයෙන් බරපතල කනස්සල්ලක් ඇති කරන බවය.
+
+එමෙන්ම මෙහි ප්‍රතිවිපාක පුද්ගලයෙකුගේ හෝ ඕනෑම දේශපාලන කණ්ඩායමක ඉරණමට වඩා සමාජයේ අයිතිවාසිකම් සඳහා ගැටලුවක් ඇති කරවන බවද එහි සඳහන් වේ.
+
+දේශපාලන නායකයින්ට විරුද්ධ ගෙන යන මෙම ක්‍රියාකාරකම් සඳහා තමන් දැඩිව සිය විරෝධය දක්වන බවද හිටපු ජනාධිපතිනිය වැඩිදුරටත් එම නිවේදනයේ දක්වා ඇත.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන බන්ධනාගාරගත කිරීමේ සිද්ධිය මුල් කරගනිමින් විපක්ෂයේ දේශපාලන පක්ෂ නියෝජිතයින් එක්ව පවත්වන විශේෂ ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් තලතා අතුකෝරල මහත්මිය විසින් අදාළ නිවේදනය ප්‍රකාශ‍යට පත් කළාය.
+
+◼️
+
+[Data](articles/279d1ec8.json)
+
+---
 
 ### சொந்த வீட்டில் தங்கம் திருடிய இளைஞன் கைது
 
@@ -63,18 +111,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8b7648e8.json)
-
----
-
-### மட்டக்களப்பில் சொந்த வீட்டில் 16 பவுண் தங்க ஆபரணங்களை திருடிய இளைஞன் ; கடைமுதலாளி உட்பட 3 பேர் கைது
-
-*2025-08-24 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/223239) · `ta`
-
-மட்டக்களப்பில் சொந்த வீட்டில் 16 பவுண் தங்க ஆபரணங்களை திருடிய  இளைஞனையும் அவரது நண்பனையும் திருட்டு தங்க ஆபரணத்தை வாங்கிய நகைகடை உரிமையாளர் ஒருவர் உட்பட 3 பேரை வெள்ளிக்கிழமை (21) கைது செய்துள்ளனர்.
-
-...
-
-[Data](articles/dccb140f.json)
 
 ---
 
@@ -1765,47 +1801,5 @@ Former President Wickremesinghe, who was placed in remand custody, was admitted 
 ◼️
 
 [Data](articles/e8b78e0a.json)
-
----
-
-### Man charged with murder after Sri Lankan woman found dead in UK
-
-*2025-08-23 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111765/man-charged-with-murder-after-sri-lankan-woman-found-dead-in-uk) · `en`
-
-A 37-year-old man has been charged with murder after a Sri Lankan woman was found dead in a Cardiff street.
-
-South Wales Police were called to South Morgan Place in Riverside at 07:37 BST on Thursday to reports of a seriously injured woman.
-
-Niwunhellage Dona Nirodha Kalapni Niwunhella, 32, who was known as Nirodha, died at the scene.
-
-Thisara Weragalage of Pentwyn, was arrested shortly after on Seawall Road, in Splott, and was later charged with murder.
-
-Police said he was known to Nirodha and remained in custody ahead of his scheduled appearance at Cardiff Magistrates’ Court on Saturday.
-
-Paying tribute, Nirodha’s family described her as a “cherished daughter, family member and dear friend to many”.
-
-“Nirodha will be forever remembered with peace, love and gratitude,” they said.
-
-“She touched many lives with her kindness and warmth and her memory will continue to inspire us. Though her life ended too soon, the love she shared will always remain with us.”
-
-...
-
-[Data](articles/9144fd8f.json)
-
----
-
-### අත්අඩංගුවට ගැනීමට පෙර රනිල් කළ ප්‍රකාශය එළියට
-
-*2025-08-23 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213697) · `si`
-
-තමා කටයුතු කළේ රට වෙනුවෙන් බවත්, පුද්ගලික කාරණා වෙනුවෙන් කටයුතු නොකළ බවත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අත්අඩංගුවට ගැනීමට පෙර ප්‍රකාශයක් ලබාදෙමින් සඳහන් කර තිබුණි.
-
-අද (23) කොළඹදී පැවති විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එක්සත් ජාතික පක්ෂයේ උපනායක අකිල විරාජ් කාරියවසම් මහතා එම ප්‍රකාශය මාධ්‍යයට නිකුත් කළේය.
-
-"මම හැම වෙලාවෙම රට වෙනුවෙන් වැඩ කළේ. පුද්ගලික කාරණා වලට වැඩ කරලා නැහැ. අද පෙනෙන්නේ.. මේ පාලනයේ දැන් තමයි සත්‍ය මුහුණ එන්නේ. මේ හැම තැනම සිදුවෙන දේශපාලන වශයෙන් කරන කටයුතු.. මේ එකක්වත් මම පිළිගන්නේ නැහැ."
-
-◼️
-
-[Data](articles/4d842b8f.json)
 
 ---

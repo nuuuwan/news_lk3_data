@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 15:31:57**
+As of **2025-08-24 15:49:16**
 
 ## Newspaper Stats
 
-*Scraped **72,042** Articles*
+*Scraped **72,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,920
+adalk | 6,921
 adaderanalk | 9,099
-tamilmirrorlk | 10,642
+tamilmirrorlk | 10,644
 virakesarilk | 11,869
 adaderanasinhalalk | 12,478
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 12,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,042 articles have been extended.
+61,973 (86.0%) of 72,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### உலகின் அதிக எடை கொண்ட கைதி: ஒரு நாளைக்கு ரூ.1 லட்சம் செலவு
+
+*2025-08-24 15:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/உலகின்-அதிக-எடை-கொண்ட-கைதி-ஒரு-நாளைக்கு-ரூ-1-லட்சம்-செலவு/53-363395) · `ta`
+
+போதைப்பொருள் கடத்தல் வழக்கில் தண்டனை பெற்ற 300 கிலோ கிராம் எடையுள்ள கைதி முதலில் வியன்னாவின் ஜோசப்ஸ்டாட் சிறையில் அடைக்கப்பட்டார்,
+
+ஆனால் அவரது படுக்கை அவரது எடையால் சரிந்ததால் 15 கி.மீ தொலைவில் உள்ள கோர்னியூபர்க்கிற்கு மாற்றப்பட்டார். நாடு தழுவிய விவாதத்தைத் தூண்டிய ஒரு அசாதாரண வழக்கு காரணமாக ஆவுஸ்திரேலியாவின் கவனத்தை ஈர்த்துள்ளது.
+
+கிட்டத்தட்ட 300 கிலோ கிராம் எடையுள்ள 29 வயது கைதி, ஒரு சராசரி கைதியின் பராமரிப்பை விட 10 மடங்கு அதிகமாக மாநிலத்திற்கு செலவாகிறார்.
+
+அவரது வழக்கு குடிமக்களிடமிருந்து கடுமையான விமர்சனங்களை ஈர்த்துள்ளது, அவர்கள் போதைப்பொருள் கடத்தல் குற்றவாளிக்கு வரி செலுத்துவோரின் பணம் ஏன் இவ்வளவு அதிகமாக செலவிடப்படுகிறது என்று கேள்வி எழுப்புகின்றனர்.
+
+உள்ளூர் ஊடகங்களின்படி, அவரது வீட்டிலிருந்து 45 கிலோ கஞ்சா, 2 கிலோ கொக்கெயின், சுமார் 2 கிலோ ஆம்பெடமைன் மற்றும் 2,000 க்கும் மேற்பட்ட எக்ஸ்டசி மாத்திரைகளை பொலிஸார் பறிமுதல் செய்த பின்னர் அந்த நபர் கைது செய்யப்பட்டார்.
+
+...
+
+[Data](articles/f46a34c6.json)
+
+---
+
+### லசந்த  படுகொலை;விசாரணைகள் மீள ஆரம்பம்
+
+*2025-08-24 15:21:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-படுகொலை-விசாரணைகள்-மீள-ஆரம்பம்/175-363394) · `ta`
+
+ஊடகவியலாளர் லசந்த விக்ரமதுங்கவின் கொலை தொடர்பான விசாரணையை குற்றப் புலனாய்வுத் திணைக்களம் (சிஐடி) மீண்டும் தொடங்கியுள்ளது.
+
+முன்னர் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கு மேலதிகமாக, இந்த புதுப்பிக்கப்பட்ட விசாரணை நடத்தப்படுவதாக பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+
+த சண்டே லீடர் செய்தித்தாளின் முன்னாள் ஆசிரியரான விக்கிரமதுங்க, ஜனவரி 9, 2009 அன்று தனது காரில் தனது அலுவலகத்திற்குச் செல்லும் வழியில் ரத்மலானையில் படுகொலை செய்யப்பட்டார்.
+
+ஊடகவியலாளர் கீத் நொயர் கடத்தப்பட்டு காணாமல் போனது தொடர்பான விசாரணைக் கோப்பையும் சிஐடி சட்டமா அதிபருக்கு அனுப்பியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c8fc981b.json)
+
+---
 
 ### පෙන්ටගනයේ බුද්ධි අංශ ප්‍රධානියා එම තනතුරින් ඉවතට
 
@@ -103,6 +141,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/908470e6.json)
+
+---
+
+### ඔස්ට්‍රේලියානු ප්‍රවේගකාරී පිතිහරඹය හමුවේ ද.අප්‍රිකාවට ලකුණු 432ක දැවන්ත ඉලක්කයක්
+
+*2025-08-24 13:36:50* · [`adalk`](https://www.ada.lk/sports/ඔස්ට්‍රේලියානු-ප්‍රවේගකාරී-පිතිහරඹය-හමුවේ-ද-අප්‍රිකාවට-ලකුණු-432ක-දැවන්ත-ඉලක්කයක්/9-418034) · `si`
+
+සංචාරක දකුණු අප්‍රිකා කණ්ඩායමට එරෙහි තුන්වන එක්දින තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඕස්ට්‍රේලියා කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 2ක් පමණක් දැවී ලකුණු 431ක් රැස් කිරීමට සමත් විය.
+
+එහිදී ට්‍රැවිස් හෙඩ් ලකුණු 142(103)ක්, කැමරන් ග්‍රීන් නොදැවි ලකුණු 118(55)ක්, මිචෙල් මාෂ් ලකුණු 100(106)ක් සහ ​ඇලෙක්ස් කේරි නොදැවී ලකුණු 50(37)ක් රැස් කිරීමට සමත් විය.
+
+පන්දු යැවීමේදී කේෂව් මහරාජ් සහ සෙනුරන් මුත්තුස්වාමී එක් කඩුල්ල බැගින් බිඳ හෙළුවේය.
+
+ඒ අනුව තරගය ජයග්‍රහණය කිරීමට නම් දකුණු අප්‍රිකා කණ්ඩායම ලකුනු 432ක් රැස් කරගත යුතු වේ.
+
+◼️
+
+[Data](articles/26938df1.json)
 
 ---
 
@@ -1709,61 +1765,5 @@ When questioned by journalists on whether Saman Ekanayake was also scheduled to 
 ...
 
 [Data](articles/8d6db9d3.json)
-
----
-
-### Lush Sanctuaries of Survival:
-
-*2025-08-23 16:08:00* · [`islandlk`](http://island.lk/lush-sanctuaries-of-survival/) · `en`
-
-How Sri Lanka’s Home Gardens Are Healing a Biodiversity Crisis
-
-At a time when deforestation, monocultures, and climate chaos are rapidly eroding the natural wealth of Sri Lanka, a quiet revolution in conservation is flourishing right outside people’s front doors.
-
-Sri Lanka’s traditional home gardens—are now being recognised not merely as spaces of subsistence but as dynamic arks of biodiversity. A groundbreaking 15-year study led by biodiversity scientists  Suranjan Karunaratne, Dushantha Kandambi, and Thilina Surasinghe has revealed that a single 36-perch garden in Rambukpitiya, in the central highlands of Kandy District, has evolved into a thriving microrefugium for more than 250 species—95 of them endemic and 74 threatened, including seven classified as Critically Endangered.
-
-“Home gardens can no longer be dismissed as marginal green patches. Our findings show that, with thoughtful management, they can act as lifelines for species teetering on the edge,”
-
-...
-
-[Data](articles/aa775ec9.json)
-
----
-
-### මත්ද්‍රව්‍ය තොගයක් සමඟ පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට
-
-*2025-08-23 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213709) · `si`
-
-රාගම, කැන්දලියද්දපාලුව ප්‍රදේශයේදී මත්ද්‍රව්‍ය තොගයක් සමඟ පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-පොලිසිය පැවසුවේ අම්පාර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව මෙම වැටලීම සිදුකර ඇති බවය.
-
-සැකකරුවන් සතුව තිබී හෙරොයින් කිලෝග්‍රෑම් 8ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 666ක්, මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් බවට සැකකෙරෙන රුපියල් අට ලක්ෂ විසිතුන් දහසක මුදලක්, විද්‍යුත් තරාදි 3 ක්, ජංගම දුරකථන 4 ක්, ව්‍යාජ අංක තහඩු 6ක්, මෝටර් රථයක්, වෑන් රථයක්, ත්‍රීරෝද රථයක් සහ යතුරු පැදි දෙකක් ද සොයාගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන් 21 හා 42 යන වයස්වල පසුවන හෝකන්දර සහ අම්පාර ප්‍රදේශයේ පදිංචිකරුවන් බව සඳහන් වේ.
-
-සිද්ධිය සම්බන්ධයෙන් පොලිසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත්තේ මෙම ජාවාරම විදේශගතව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ අනුදැනුම මත සිදුකර ඇති බවය.
-
-මොවුන් කුලී පදනම මත ලබාගත් නිවසක රැදී සිටිමින් මෙම ජාවාරම සිදුකර ඇති බව පොලිසිය පැවසුවේය.
-
-සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා පොලිස් මත්ද්‍රව්‍ය කාර්යංශය වෙත භාර දී තිබේ.
-
-◼️
-
-[Data](articles/4fe5946e.json)
-
----
-
-### St. Maximilian Kolbe:‘The Saint and Hero at Auschwitz’ and His Visits To Sri Lanka in the 1930s
-
-*2025-08-23 15:55:00* · [`islandlk`](http://island.lk/st-maximilian-kolbethe-saint-and-hero-at-auschwitz-and-his-visits-to-sri-lanka-in-the-1930s/) · `en`
-
-St. Maximilian Kolbe’s Visits to Ceylon (Sri Lanka) and His Impressions
-
-St. Maximian Kolbe, during his missionary travels to and from Japan, China and India, visted Sri Lanka (then known as Ceylon) in 1930, 1932 and 1933. The impressions he formed during these visits as recorded in his contemporary writings – letters, diaries, notes and article, provide a fascinating read.
-
-...
-
-[Data](articles/cdb759fb.json)
 
 ---

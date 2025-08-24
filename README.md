@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 01:04:57**
+As of **2025-08-25 01:17:47**
 
 ## Newspaper Stats
 
-*Scraped **72,102** Articles*
+*Scraped **72,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 738
 economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
-dailyftlk | 5,080
+dailyftlk | 5,081
 adalk | 6,927
 adaderanalk | 9,108
 tamilmirrorlk | 10,656
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,102 articles have been extended.
+61,973 (86.0%) of 72,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Exporting in new era: ESG reporting as strategic enabler for global market entry
+
+*2025-08-25 00:50:06* · [`dailyftlk`](https://www.ft.lk/columns/Exporting-in-new-era-ESG-reporting-as-strategic-enabler-for-global-market-entry/4-780688) · `en`
+
+As a country with a long-standing reputation for quality, especially in apparel, tea and many other agricultural products, Sri Lanka has much to gain by aligning its exports with global sustainability values
+
+In an increasingly competitive and sustainability-conscious global marketplace, Sri Lankan exporters can no longer afford to view Environmental, Social and Governance (ESG) reporting as a corporate luxury or compliance burden. Instead, proactive ESG engagement must become a strategic priority if the country’s export sector is to remain relevant, competitive and resilient in the years ahead.
+
+...
+
+[Data](articles/cd336505.json)
+
+---
 
 ### Reducing prison congestion and costs using technology
 
@@ -1713,21 +1727,5 @@ Dr. Jayatissa further noted that the government has taken two steps to manage th
 ◼️
 
 [Data](articles/388dade4.json)
-
----
-
-### கலாநிதி செந்தூரன் மகேஸ்வரனுக்கு விருது
-
-*2025-08-24 09:39:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-செந்தூரன்-மகேஸ்வரனுக்கு-விருது/175-363360) · `ta`
-
-16 ஆண்டுகளுக்கும் மேலாக இலங்கை, அமெரிக்கா மற்றும் ஐரோப்பிய பல்தேசிய நிறுவனங்களில், தரக்கட்டுப்பாடு, மற்றும் பொறியியல் முகாமைத்துவம்  ஆகியவற்றில் மேற்கொண்ட சிறந்த பங்களிப்புகளுக்காக கலாநிதி. செந்தூரன் மகேஸ்வரனுக்கு 'உலகளாவிய பொறியியல் மற்றும் தொழில்நுட்பத்தில் மிகவும் மதிப்பு வாய்ந்த நிபுணருக்கான 2025 விருது' வழங்கி கௌரவிக்கப்பட்டது.
-
-இவ்விருது வழங்கும் விழா கடந்த ஆவணி 17ஆம் திகதி  கொழும்பு கோல்ஃபேஸ் ஹோட்டலில் நடைபெற்றது. இதில், பேராசிரியர்கள், அரசு மற்றும் தனியார் நிறுவனங்கள், கல்வியியலாளர்கள், பல்துறை சாதனையாளர்கள், ஊடகவியலாளர்கள், திரை நட்சத்திரங்கள் மற்றும் இலங்கைக்கான மிஸ் யூனிவேர்ஸ் 2024 உட்பட பலர் 'வைர விருதுகள் 2025' விருது வழங்கி கெளரவிக்கப்பட்டனர்.
-
-கோப்பாய் வடக்கை பூர்வீகமாகக் கொண்ட கலாநிதி செந்தூரன் மகேஸ்வரன் அவர்கள், இளைப்பாறிய இலங்கை வங்கி முகாமையாளர் திரு. மகேஸ்வரன் மற்றும் திருமதி யாழினியின் புதல்வர் ஆவார்.
-
-...
-
-[Data](articles/947b4efb.json)
 
 ---

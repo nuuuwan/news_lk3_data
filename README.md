@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 23:50:29**
+As of **2025-08-25 00:08:32**
 
 ## Newspaper Stats
 
-*Scraped **72,094** Articles*
+*Scraped **72,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 610
 bbccomsinhala | 677
 colombotelegraphcom | 738
-economynextcom | 4,404
+economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,094 articles have been extended.
+61,973 (86.0%) of 72,096 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -339,6 +339,22 @@ Therefore, residents have been requested to stay hydrated and to limit strenuous
 ...
 
 [Data](articles/e2c805a1.json)
+
+---
+
+### Sri Lanka ex-President’s arrest draws criticism from former rivals
+
+*2025-08-24 18:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-presidents-arrest-draws-criticism-from-former-rivals-238107/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe’s arrest and remand over alleged mis-use of public funds has drawn criticism including from his rivals as a calculated political act designed to humiliate the ex-leader on flimsy charges and intimidate the democratic opposition.
+
+Wickremesinghe was arrested over the use of state funds for himself and his staff during a stop-over in the UK where he attended the award of an honorary professorship to his wife, while returning from the UN General Assembly in the US in 2023.
+
+His arrest on Friday was unnecessary for the investigation except as a tactic to humiliate him and intimidate the opposition, activists said Sunday drawing attention to a youtuber who had predicted the sequence of events.
+
+...
+
+[Data](articles/6802954d.json)
 
 ---
 
@@ -1680,6 +1696,24 @@ Chinthaka Bandara, co-convener of the United Postal Trade Union Front, stated th
 
 ### Sri Lanka inks UK final debt restructure agreements
 
+*2025-08-24 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-uk-final-debt-restructure-agreements-238102/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed new agreements on restructured bilateral debt of the United Kingdom of Great Britain and Northern Ireland, after a sovereign default, the Finance Ministry said.
+
+Debt rescheduled debt under this agreement amounts to 86,068,439.80 US dollars and 582,940,944.31 Japanese yen.
+
+“Entering into the Agreement will certainly pave the way to developing further the deep and longstanding bilateral relationships between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Sri Lanka,” the statement said.
+
+The sharing of diplomatic notes related to the bilateral agreement took place between Andrew Patrick, British High Commissioner to Sri Lanka and Harshana Suriyapperuma, Secretary of the Ministry of Finance, Planning and Economic Development. (Colombo/Aug24/2025)
+
+◼️
+
+[Data](articles/200de290.json)
+
+---
+
+### Sri Lanka inks UK final debt restructure agreements
+
 *2025-08-24 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-agreements-to-restructure-uk-debt-238102/) · `en`
 
 ECONOMYNEXT – Sri Lanka has signed new agreements on restructured bilateral debt of the United Kingdom of Great Britain and Northern Ireland, after a sovereign default, the Finance Ministry said.
@@ -1715,37 +1749,5 @@ The sharing of diplomatic notes related to the bilateral agreement took place be
 ◼️
 
 [Data](articles/be1c88e9.json)
-
----
-
-### பொரலஸ்கமுவவில் துப்பாக்கிச் சூடு: ஒருவர் பலி
-
-*2025-08-24 08:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரலஸ்கமுவவில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-363359) · `ta`
-
-பொரலஸ்கமுவ, மாலனி புலத்சிங்கள மாவத்தையில் முச்சக்கர வண்டியில் வந்த இருவர் நடத்திய துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்ததாகக் பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/2e6d6d42.json)
-
----
-
-### Dutch foreign minister resigns after failing to secure sanctions against Israel
-
-*2025-08-24 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111781/dutch-foreign-minister-resigns-after-failing-to-secure-sanctions-against-israel) · `en`
-
-Dutch Foreign Minister Caspar Veldkamp resigned Friday evening, after he failed to secure new sanctions against Israel over the war in Gaza.
-
-Veldkamp had informed the country’s parliament he intended to bring in new measures in response to Israel’s planned offensive in Gaza City and other heavily populated areas but was unable to secure the support of his coalition partners.
-
-The 61-year-old former ambassador to Israel told reporters he felt he was unable “to implement policy myself and chart the course I deem necessary.”
-
-Following Veldkamp’s resignation, the remaining Cabinet members of his center-right New Social Contract party also quit, leaving the Dutch government in disarray.
-
-“In short we are done with it,” party leader Eddy Van Hijum said, calling the Israeli government’s actions “diametrically opposed to international treaties.”
-
-...
-
-[Data](articles/4d03675a.json)
 
 ---

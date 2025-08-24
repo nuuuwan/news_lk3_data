@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 16:48:38**
+As of **2025-08-24 17:17:37**
 
 ## Newspaper Stats
 
-*Scraped **72,056** Articles*
+*Scraped **72,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,921
+adalk | 6,922
 adaderanalk | 9,103
-tamilmirrorlk | 10,648
+tamilmirrorlk | 10,651
 virakesarilk | 11,870
-adaderanasinhalalk | 12,480
+adaderanasinhalalk | 12,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,056 articles have been extended.
+61,973 (86.0%) of 72,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### வாட்ஸ்அப்பில் வந்த திருமண அழைப்பிதழால் பல லட்சம் ரூபாயை இழந்த ஊழியர்
+
+*2025-08-24 16:58:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாட்ஸ்அப்பில்-வந்த-திருமண-அழைப்பிதழால்-பல-லட்சம்-ரூபாயை-இழந்த-ஊழியர்/175-363403) · `ta`
+
+வாட்ஸ் அப்  வழியாக வந்த திருமண அழைப்பிதழை கிளிக் செய்ததால் இந்திய ரூபாய் மதிப்பீட்டில் 1.9 லட்சம் பணத்தை இழந்துள்ளார். மகாராஷ்ராவின்   ஹிங்கோலி மாவட்டத்தில்  அரசு ஊழியர் ஒருவரே இவ்வாறு பணத்தை இழந்துள்ளார்.
+
+ஆகஸ்ட் 30 ஆம் திகதி நடைபெறவிருந்த ஒரு திருமணத்திற்கான அழைப்பிதழை அந்த ஊழியர்  அடையாளம் தெரியாத எண்ணிலிருந்து பெற்றுள்ளார்.
+
+அந்த அழைப்பிதழ் ஒரு PDF கோப்பு போல் தோன்றினாலும், அது உண்மையில் ஒருவரின் மொபைலை ஹேக் செய்வதற்கான APK கோப்பு ஆகும்.
+
+பாதிக்கப்பட்டவர் அந்த கோப்பை கிளிக் செய்தபோது, சைபர் குற்றவாளிகள் அவரது மொபைல் ஃபோனில் இருந்து தனிப்பட்ட தரவுகளை திருடி, அவரது வங்கிக் கணக்கிலிருந்து  1.9 லட்சம் பணத்தை கொள்ளையடித்துள்ளனர்.
+
+இது குறித்து ஹிங்கோலி காவல் நிலையத்திலும் சைபர் பிரிவிலும் வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/82bb766d.json)
+
+---
+
+### තැපැල් වැඩවර්ජනය අවසන්
+
+*2025-08-24 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213741) · `si`
+
+පසුගිය 17 වැනිදා සිට ක්‍රියාත්මක වූ අඛණ්ඩ වැඩවර්ජනය ඇමති සමඟ සාකච්ඡාවෙන් පසු මේ මොහොතේ සිට නවතා දමන බව  ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බංඩාර පවසයි.
+
+◼️
+
+[Data](articles/f55d5bbc.json)
+
+---
+
+### කොළඹ - ගාල්ල ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීමක්
+
+*2025-08-24 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213740) · `si`
+
+සීනිගම ඓතිහාසික ශ්‍රී මහා දෙවොල් දේවාල පෙරහර හේතුවෙන් කොළඹ ගාල්ල ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීම සම්බන්ධයෙන් පොලිස් මාධ්‍ය කොට්ඨාසය දැනුම් දීමක් සිදුකර තිබේ.
+
+ඓතිහාසික සීනිගම ශ්‍රී මහා දෙවොල් දේවාලයේ වාර්ෂික පෙරහර 2025.08.24 වන දින සිට 2025.08.26 වන දින දක්වා ගාල්ල - කොළඹ ප්‍රධාන මාර්ගයේ පහත පරිදි වීථි සංචාරය කිරීමට නියමිතව ඇත.
+
+2025.08.24 වන දින දිවා පෙරහර දහවල් 01.00 සිට රාත්‍රී 10.00 දක්වාද, 2025.08.25 හා 26 වන දිනයන්හි මහ පෙරහර රාත්‍රී 07.00 සිට අළුයම 02.00 දක්වාද කොළඹ ගාල්ල මාර්ගයේ වීථි සංචාරය කිරීමට සැලසුම් කර තිබේ.
+
+එබැවින් එම පෙරහර ගමන් ගන්නා කාලය තුල කොළඹ ගාල්ල ප්‍රධාන මාර්ගය හික්කඩුව හන්දියේ සිට කහව හන්දිය දක්වා ගමනා ගමනය සීමා කරන අතර එම කාලය තුල මාර්ගය භාවිතා කරන මහජනතාව සහ රියදුරන් පහත විකල්ප මාර්ගයන් භාවිතා කරන ලෙස පොලීසිය ඉල්ලා සිටී.
+
+...
+
+[Data](articles/dc88bbef.json)
+
+---
+
+### ”யூடியூபர்கள்  முன்கூட்டியே   அறிவிப்பதுதான்  மாற்றமா”?
+
+*2025-08-24 16:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபர்கள்-முன்கூட்டியே-அறிவிப்பதுதான்-மாற்றமா/175-363401) · `ta`
+
+நீதியை நிலைநாட்டும் செயற்பாடும், சட்டத்தின் ஆட்சியும் ஜனநாயக ரீதியாகவும், முறையாகவும் முன்னெடுக்கப்பட வேண்டும். எல்லோரும் சரியான வழிமுறையைப் பின்பற்றியொழுக தயாராக இருந்தாலும், யூடியூப் மூலம் வழங்கப்படும் நீதியின் நியாயத்தன்மை குறித்து எந்தவித ஒருமித்த கருத்தும் இல்லை. நீதிமன்றத்தால் பெற்றுத்தரப்படும் தீர்ப்புக்கள் மற்றும் நீதியை நிலைநாட்டும் செயற்பாடுகள் தொடர்பில் பல நாட்களுக்கு முன்பே, அரசியல் கட்சி சார் யூடியூப் ஆர்வலர்கள் முன்கூட்டியே எவ்வாறு கருத்து வெளியிடுவர் என்பது குறித்து பிரச்சினை காணப்படுகின்றது. இவ்வாறான விடயமொன்று நடக்கக்கூடாது என்று எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/c88b8ca8.json)
+
+---
+
+### ’’ஒரு பாம்பை காயப்படுத்தி, அதைக் கொல்லாவிட்டால், அது திருப்பித் தாக்கும்’’
+
+*2025-08-24 16:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-பாம்பை-காயப்படுத்தி-அதைக்-கொல்லாவிட்டால்-அது-திருப்பித்-தாக்கும்/175-363400) · `ta`
+
+"ஒரு பாம்பை காயப்படுத்தி, அதைக் கொல்லாவிட்டால், அது திருப்பித் தாக்கும்" என்று முன்னணி சோசலிசக் கட்சி (FLSP), தெரிவித்துள்ளது. முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கே கைது செய்யப்பட்டு சிறையில் அடைக்கப்பட்டுள்ள விவகாரம் தொடர்பில் கருத்துரைக்கும் போதே மேற்கண்டவாறு தெரிவித்துள்ளது.
+
+முன்னணி சோசலிசக் கட்சியின் முன்வரிசை உறுப்பினர் துமிந்த நாகமுவ தெரிவிக்கையில்,  அரசாங்கம் இராஜதந்திர சமூகத்தின் சில பிரிவுகளின் அழுத்தத்தை மீறி ரணில் விக்கிரமசிங்கவுக்கு  எதிராக நடவடிக்கை எடுக்க முன்வந்ததாகக் கூறினார்.
+
+இதற்காக அரசாங்கத்தைப் பாராட்டிய அவர், ரணில் விக்கிரமசிங்கவுக்கு  எதிராக அரசாங்கம் எடுக்கும் மேலதிக நடவடிக்கைகளை   தமது கட்சி  ஆதரிக்கும் என்றார்.
+
+"ரணில் விக்கிரமசிங்க ஓர் ஆபத்தான நபர். படலந்த சித்திரவதைக் கூடத்தை நடத்தியமை குற்றச்சாட்டுகளால் கறைபட்டவர்" என்று நாகமுவ கூறினார்.
+
+◼️
+
+[Data](articles/1782df00.json)
+
+---
 
 ### Sri Lanka’s opposition condemns ‘undemocratic’ arrest of ex-president
 
@@ -44,7 +124,9 @@ Leaders of several opposition parties held a joint press conference in Colombo t
 
 “These sort of actions go against those basic principles,” Sirisena added.
 
-He stated that prevailing situation is extremely regrettable and that and that the opposition parties will unite in their efforts to do their utmost in a democratic manner to get former President Wickremesinghe released.
+He stated that the prevailing situation is extremely regrettable and that the opposition parties will unite in their efforts to do their utmost in a democratic manner to get former President Wickremesinghe released.
+
+Former Foreign Minister Prof. G.L. Peiris said it is clearly evident that this is an attempt to intimidate and silence the opinions expressed against the government.
 
 ...
 
@@ -127,6 +209,22 @@ He stated that prevailing situation is extremely regrettable and that and that t
 ...
 
 [Data](articles/f46a34c6.json)
+
+---
+
+### ප්‍රජාතන්ත්‍රවාදය වැලළීමේ මිනී පෙට්ටියේ ලෑලී යතු ගාමින් සිටිනවා
+
+*2025-08-24 15:26:32* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රජාතන්ත්‍රවාදය-වැලළීමේ-මිනී-පෙට්ටියේ-ලෑලී-යතු-ගාමින්-සිටිනවා/11-418035) · `si`
+
+ප්‍රජාතන්ත්‍රවාදී සමාජයක තිබිය යුතු ගති ලක්ෂණ ක්‍රමක් ක්‍රමයෙන් මැකී යන ආකාරයක් වර්තමානයේ දකින්ට තිබෙන බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පැවසීය.
+
+විපක්ෂයේ දේශපාලන පක්ෂ වල නියෝජිතයන් එක්ව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සහ රක්ෂිත බන්ධනාගාර ගත කිරීමේ සිද්ධියට එරෙහිව අද(24දා) පවත්වනු ලැබූ මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“ප්‍රජාතන්ත්‍රවාදී සමාජයක තිබෙන  ගති ලක්ෂණ කෙමෙන් කෙමෙන් මැකී යන ආකාරයක් අපිට දකින්න පුළුවන්. ප්‍රජාතන්ත්‍රවාදය වැලළීමේ මිනී පෙට්ටියේ ලෑලී යතු ගාමින් සිටින බව තමයි අපිට පේන්නේ. ”
+
+◼️
+
+[Data](articles/4611e002.json)
 
 ---
 
@@ -1667,103 +1765,5 @@ Prison Hospital doctors, who have been continuously monitoring his health, also 
 ◼️
 
 [Data](articles/b378c291.json)
-
----
-
-### India says US trade negotiations are still going on as fresh tariffs loom
-
-*2025-08-23 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111775/india-says-us-trade-negotiations-are-still-going-on-as-fresh-tariffs-loom) · `en`
-
-India’s foreign minister said on Saturday that trade negotiations with Washington are continuing but there are lines that New Delhi needs to defend, just days before hefty additional U.S. tariffs are due to hit.
-
-Indian goods face additional U.S. tariffs of up to 50%, among the highest imposed by Washington, due to its increased purchases of Russian oil. A 25% tariff has already come into effect, while the remaining 25% is set to be enforced from August 27.
-
-A planned visit by U.S. trade negotiators to New Delhi from August 25-29 has been called off, dashing hopes that the levies may be lowered or postponed.
-
-“We have some redlines in the negotiations, to be maintained and defended,” Indian Foreign Minister Subrahmanyam Jaishankar said at an Economic Times forum event in New Delhi, singling out the interests of the country’s farmers and small producers.
-
-...
-
-[Data](articles/f3384b29.json)
-
----
-
-### “வருத்தத்தை ஏற்படுத்துகின்றது” மஹிந்த
-
-*2025-08-23 18:40:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருத்தத்தை-ஏற்படுத்துகின்றது-மஹிந்த/175-363341) · `ta`
-
-அரசியல் பழிவாங்கல்களைத் தவிர அரசாங்கத்தால் வேறு எந்த நடவடிக்கைகளும் முன்னெடுக்கப்படவில்லையென முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
-
-ரணில் விக்ரமசிங்கவை பார்வையிட்டதன் பின்னர், ஊடகங்களுக்குக் கருத்துத் தெரிவிக்கையில் அவர் இதனைக் குறிப்பிட்டார்.
-
-அரசியல் தலைவர்கள் சிறிய குற்றங்களுக்காக சிறையில் அடைக்கப்படுவது தமக்கு வருத்தத்தை ஏற்படுத்துவதாகவும் மஹிந்த ராஜபக்ஷ தெரிவித்தார். R
-
-◼️
-
-[Data](articles/2846c3ea.json)
-
----
-
-### ரணில் தீவிர சிகிச்சைப் பிரிவில் அனுமதி
-
-*2025-08-23 18:19:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தீவிர-சிகிச்சைப்-பிரிவில்-அனுமதி/175-363340) · `ta`
-
-கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, தீவிர சிகிச்சைப் பிரிவுக்கு (ICU) மாற்றப்பட்டுள்ளார் என வைத்தியசாலையின் பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன  உறுதிப்படுத்தினார்.
-
-வைத்தியர்களின் ஆலோனைக்கமைய, ரணில் விக்ரமசிங்க தீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டதாக அவர் குறிப்பிட்டுள்ளார்.
-
-நேற்றைய தினம் நீதிமன்ற உத்தரவுக்கமைய, விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, நேற்றிரவு மருத்துவர்களின் ஆலோசனைக்கமைய, சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/12ab8f56.json)
-
----
-
-### ரணில் தீவிர சிகிச்சைப் பிரிவில் அனுமதி
-
-*2025-08-23 18:19:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-தீவிர-சிகிச்சைப்-பிரிவில்-அனுமதி/150-363340) · `ta`
-
-கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, தீவிர சிகிச்சைப் பிரிவுக்கு (ICU) மாற்றப்பட்டுள்ளார் என வைத்தியசாலையின் பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன  உறுதிப்படுத்தினார்.
-
-வைத்தியர்களின் ஆலோனைக்கமைய, ரணில் விக்ரமசிங்க தீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டதாக அவர் குறிப்பிட்டுள்ளார்.
-
-நேற்றைய தினம் நீதிமன்ற உத்தரவுக்கமைய, விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, நேற்றிரவு மருத்துவர்களின் ஆலோசனைக்கமைய, சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/bdad0d36.json)
-
----
-
-### Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.
-
-*2025-08-23 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86276) · `en`
-
-The Janatha  Vimukthi Peramuna(JVP)led National People’s Power(NPP) Government of President Anura Kumara Dissanayake known as AKD , has been in the saddle for close upon a year now. Given the  JVP-NPP’s 159 members  of Parliament and the victories registered in the local authority polls, the chances of being dislodged from that saddle soon  seem remote.
-
-Yet many opposition leaders  seem to think otherwise.  These hopes are hinged around two possibilities.Some are  hopeful that the economy  will eventually  deteriorate, resulting  in a crisis situation of availability and affordability along with shortages of fuel,electricity, gas and essential food items. This in turn would cause an “Aragalaya” type of situation that would topple the AKD regime.
-
-...
-
-[Data](articles/d609682b.json)
-
----
-
-### ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් බඳවා ගැනීමට අයදුම්පත් කැඳවයි
-
-*2025-08-23 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213715) · `si`
-
-ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් 1,408 දෙනෙකු බඳවා ගැනීම සඳහා අයදුම්පත් කැඳවීමට සෞඛ්‍ය අමාත්‍යාංශය තීරණය කර තිබේ.
-
-පසුගිය වසරේ ඔක්තෝබර් මස 29 වැනි දිනට සීමාවාසික පුහුණුව අවසන් කළ වෛද්‍යවරුන් 1,408 දෙනෙකු සඳහා සෞඛ්‍ය අමාත්‍යාංශය යටතේ ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් ලෙසන් පත්වීම් ලබාදීම සඳහා අයදුම්පත් කැඳවා ඇයැදි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (වෛද්‍ය සේවා) II වෛද්‍ය එච්.එම්.අර්ජුන තිලකරත්න මහතා සඳහන් කළේය.
-
-ඒ අනුව ඉහත තනතුර සඳහා සුදුසුකම් ලද වෛද්‍යවරු සෞඛ්‍ය අමාත්‍යාංශයේ මානව සම්පත් කළමනාකරණ හා තොරතුරු පද්ධතියට (HRMIS) පිවිස අයදුම් කරන ලෙසද දක්වා තිබේ.
-
-නැවත අයදුම්කිරීමේ දිනය 2025.08.25 දිනෙන් අවසන් වන බැවින්, සියලුම අයදුම්කරුවන් එදිනට පෙර මාර්ගත ක්‍රමය (online) ඔස්සේ අයදුම්පත් යොමු කරන ලෙස ද අදාළ නිවේදනයේ වැඩිදුරටත් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/222edf80.json)
 
 ---

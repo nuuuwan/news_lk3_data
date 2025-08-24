@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 04:32:00**
+As of **2025-08-25 04:49:13**
 
 ## Newspaper Stats
 
-*Scraped **72,113** Articles*
+*Scraped **72,114** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 611
 bbccomsinhala | 677
-colombotelegraphcom | 738
+colombotelegraphcom | 739
 economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.9%) of 72,113 articles have been extended.
+61,973 (85.9%) of 72,114 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -387,6 +387,18 @@ During the meeting, the Prime Minister encouraged the envoys to enhance goodwill
 ...
 
 [Data](articles/8e0208f0.json)
+
+---
+
+### CFEP: ‘Think-Tank’ Of The Young, By The Young But For All Of Us
+
+*2025-08-24 22:00:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/cfep-think-tank-of-the-young-by-the-young-but-for-all-of-us/) · `en`
+
+Recently, I had the opportunity to witness the formalisation of a new ‘think-tank’ in Colombo by some interested young people to undertake economic policy analysis. The think-tank, formally known as Ceylon Foundation for Economic Policy-analysis or CFEP (pronounced as SEE-FEP), has been created by young economist Pasan Wijayawardhana, an economics Don at the Colombo University.
+
+...
+
+[Data](articles/406f595d.json)
 
 ---
 
@@ -1725,27 +1737,5 @@ In her statement, Chandrika Kumaratunga also said that she wholeheartedly joins 
 ◼️
 
 [Data](articles/8b7648e8.json)
-
----
-
-### ஜன்னலில் சிக்கிய தலை ; விடிய விடிய தவித்த சிறுமி
-
-*2025-08-24 10:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜன்னலில்-சிக்கிய-தலை-விடிய-விடிய-தவித்த-சிறுமி/175-363367) · `ta`
-
-இந்தியாவின் ஒடிசா மாநிலத்தில் உள்ள பாடசாலையொன்றின் ஊழியர்களின் அலட்சியத்தால்  தனித்து விடப்பட்ட சிறுமி, தப்பிக்க முயன்ற போது ஜன்னல் கம்பி இடையே தலை  படுகாயமடைந்துள்ளார்.
-
-ஒடிஷாவின் கியோஞ்சர் மாவட்டத்தில் அரசு நடுநிலைப் பாடசாலை இயங்கி வருகிறதுடன் இங்கு, வெள்ளிக்கிழமை (22) அன்று  வழக்கம் போல் வகுப்புகள் இயங்கின.
-
-பின், மாணவர்கள் அனைவரும் வீட்டிற்கு புறப்பட்டுள்ளதுடன் அங்கு, இரண்டாம் வகுப்பு பயிலும் மாணவி ஒருவர் வகுப்பறையிலேயே தூங்கிய நிலையில், அதை கவனிக்காமல் பாடசாலை பூட்டப்பட்டது.
-
-தூங்கி எழுந்த சிறுமி வகுப்பறைக்குள் சிக்கியுள்ளதை அறிந்தவுடன் பதற்றம் அடைந்து ஜன்னல் கம்பி வழியாக வெளியேற முயன்ற போது அவரது தலை இரு கம்பிகளுக்கு இடையே சிக்கியது.
-
-தலையை வெளியே எடுக்க முடியாமல் விடிய விடிய ஜன்னல் கம்பிகளுக்கு இடையே சிக்கி தவித்ததில் படுகாயமடைந்தார்.
-
-சிறுமி வீட்டுக்கு வராததால் கவலையடைந்த பெற்றோர், பல இடங்களில் தேடியுள்ளதுடன் சனிக்கிழமை (23) காலை பாடசாலைக்கு சென்றுள்ளனர்.
-
-◼️
-
-[Data](articles/0a07d169.json)
 
 ---

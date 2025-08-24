@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 09:56:35**
+As of **2025-08-24 10:12:04**
 
 ## Newspaper Stats
 
-*Scraped **71,995** Articles*
+*Scraped **71,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,916
 adaderanalk | 9,094
 tamilmirrorlk | 10,623
 virakesarilk | 11,862
-adaderanasinhalalk | 12,467
+adaderanasinhalalk | 12,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,995 articles have been extended.
+61,973 (86.1%) of 71,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### ඇතැම් ඖෂධ හිඟ බව සෞඛ්‍ය ඇමති කියයි
+
+*2025-08-24 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213726) · `si`
+
+පසුගිය රජයේ නිසි ටෙන්ඩර් ක්‍රමවේදයෙන් බැහැරව කටයුතු කරමින් ඖෂධ ගෙන්වීම හේතුවෙන් වර්තමානයේ රට තුළ ඇතැම් ඖෂධවල හිඟයක් පවතින බව සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+ඔහු පවසන්නේ මේ වන විට පවතින ඖෂධ හිඟය මගහරවා ගැනීම සදහා ප්‍රදේශීය මිලදී ගැනීම් වෙනුවෙන් රුපියල් කෝටි 3,500ක මුදලක් රෝහල් සදහා වෙන්කර ඇති බවය.
+
+"ගිය අවුරුද්දේ ටෙන්ඩර් නොකිරීමේ ප්‍රතිඵලය තමයි දැන් ඖෂධ සැපයෙන්නේ නැති ප්‍රශ්නේ. ගිය අවුරුද්දේ ටෙන්ඩර් කරලා තිබුණා නම් හරියට ඖෂධ එනවා. අපි දැන් ලබන වසර සඳහා ටෙන්ඩර් කරලා තියෙනවා. දැන් ඇති වෙලා තියෙන තාවකාලික ඖෂධ හිඟයට එකක් අපි රෝහල්වලට රුපියල් කෝටි 3,500ක් වෙන් කරලා තියෙනවා ප්‍රාදේශීය මිලදී ගැනීම් කරන්න. දෙවැනි එක විටින් විට අපි සමහර රටවල් එක්ක සාකච්ඡා කරලා පරිත්‍යාග හැටියට මේක ලබා ගන්නවා සමහර රටවල් සමග අවබෝධතා ගිවිසුම් අත්සන් කරන තැනට ඇවිල්ලා තියෙන්නේ එ්කෙන් මේ ප්‍රශ්නයට මුහුණ දෙන්න පුළුවන් කමක් තියෙනවා."
+
+◼️
+
+[Data](articles/388dade4.json)
+
+---
 
 ### கலாநிதி செந்தூரன் மகேஸ்வரனுக்கு விருது
 
@@ -1821,19 +1837,5 @@ Former President Wickremesinghe, who was placed in remand custody, was admitted 
 ◼️
 
 [Data](articles/bd0f9a73.json)
-
----
-
-### TV Derana featured as case study in Prof. Philip Kotler’s ‘Essentials of Modern Marketing’
-
-*2025-08-23 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111759/tv-derana-featured-as-case-study-in-prof-philip-kotlers-essentials-of-modern-marketing) · `en`
-
-The book ‘Essentials of Modern Marketing’ Sri Lanka and Maldives edition by the world-renowned Prof. Philip Kotler, featuring 20 Sri Lankan case studies, was launched last evening (22) with TV Derana also featured.
-
-The case studies provide localised insights into successful branding strategies, serving as an invaluable resource for businesses, students, and marketing professionals throughout Sri Lanka and the Maldives.
-
-◼️
-
-[Data](articles/59e3cd2a.json)
 
 ---

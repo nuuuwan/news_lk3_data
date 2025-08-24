@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 00:08:32**
+As of **2025-08-25 00:22:57**
 
 ## Newspaper Stats
 
-*Scraped **72,096** Articles*
+*Scraped **72,099** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 610
+dbsjeyarajcom | 611
 bbccomsinhala | 677
 colombotelegraphcom | 738
 economynextcom | 4,406
@@ -17,20 +17,38 @@ islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,927
-adaderanalk | 9,107
+adaderanalk | 9,108
 tamilmirrorlk | 10,656
-virakesarilk | 11,881
+virakesarilk | 11,882
 adaderanasinhalalk | 12,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,096 articles have been extended.
+61,973 (86.0%) of 72,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### களுத்துறை, கலமுல்ல கடலில் நீந்திச் சென்ற இரண்டு மாணவர்கள் காணாமல் போயினர்
+
+*2025-08-24 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223279) · `ta`
+
+களுத்துறை, கலமுல்ல கடல் பகுதியில் ஞாயிற்றுக்கிழமை (24) மதியம் நீச்சலுக்காகச் சென்ற மூன்று பாடசாலை மாணவர்களில் இருவர் நீரில் மூழ்கி காணாமல் போயுள்ளனர், அதே நேரத்தில் ஒரு மாணவர் மீட்கப்பட்டுள்ளதாக பயாகல பொலிஸார் தெரிவிக்கின்றனர்.
+
+நீரில் மூழ்கி காணாமல் போன இருவரும் பாணந்துறை, எலுவில மற்றும் ஹொரணை, கல்பத்த ஆகிய இடங்களைச் சேர்ந்த 15 வயதுடைய மிஹின் சன்ஹிந்த மற்றும் நெதும் நெத்சரா என்ற இரண்டு பாடசாலை மாணவர்கள் ஆவர்.
+
+ஹொரணையில் உள்ள ஒரு பாடசாலையில் படித்து வரும் மூவரும், கலமுல்ல, புனித அந்தோணியர் மாவத்தையின் முடிவில் தனியார் கல்வி வகுப்பில் கலந்து கொண்டதாக தகவல் கிடைத்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+களுத்துறை கடற்படை உயிர்காப்பாளர்கள் மற்றும் பயாகல பொலிஸாருடன் மீனவர்களும் இணைந்து காணாமல் போன இரண்டு பாடசாலை மாணவர்களை தேடும் நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/cfb9b347.json)
+
+---
 
 ### ரணில் கைது : ஜனநாயக மதிப்பின் மீதான திட்டமிட்ட தாக்குதல் - சந்திரிக்கா
 
@@ -83,6 +101,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/972cad33.json)
+
+---
+
+### PM urges new envoys to prioritize efforts to attract quality investments to Sri Lanka
+
+*2025-08-24 22:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111796/pm-urges-new-envoys-to-prioritize-efforts-to-attract-quality-investments-to-sri-lanka) · `en`
+
+The Heads of Missions–Designate of Sri Lanka, paid a courtesy call on the Prime Minister of Sri Lanka Dr. Harini Amarasuriya at the Prime Minister’s Office recently.
+
+The delegation comprised of Ms. S.S. Premawardhane, Ambassador-designate to Indonesia, Ms. C.A.C.I. Colonne, Ambassador-designate to Brazil, Mr. M.R. Hassen, High Commissioner-designate to the Maldives; Mr. L.R.M.N.P.G.P.B. Kadurugamuwa, Ambassador-designate to Turkey; Ms. Ruwanthi Delpitiya, Ambassador-designate to Nepal; Mr. M.K. Pathmanaathan, Ambassador-designate to the Republic of Korea; and Mr. W.A.K.S. De Alwis, Ambassador-designate to the Sultanate of Oman.
+
+During the meeting, the Prime Minister encouraged the envoys to enhance goodwill towards Sri Lanka, promote the country’s image globally, and prioritize efforts to attract quality investments, the PM’s Office said.
+
+...
+
+[Data](articles/109bf0aa.json)
 
 ---
 
@@ -894,6 +928,20 @@ The Police Media Division further stated that three female police officers and t
 
 ---
 
+### ITAK  Launches Half-day Hartal  in North-East Over Alleged Killing of Tamil Youth by Army and Excessive Military Presence Amidst Civilian Habitats.
+
+*2025-08-24 14:16:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86325) · `en`
+
+“Hartal” is a word that entered the political discourse of countries like  India , Sri Lanka  and Malaysia during British rule. The Gujarati word  was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A Hartal denotes  a total shutdown of workplaces, offices, shops, schools,transport services  and courts of law. The  Gandhi-led Indian National Congress often resorted to such  civil disobedience protests  in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati  word Hartal to describe the  mass protests resulting in stoppages of work and shutting  down of business activity.
+
+The term Hartal was  first introduced to Sri Lanka known formerly as Ceylon by organizations and  Trade unions representing the Plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “Hartal”shutdown.
+
+...
+
+[Data](articles/edc1f230.json)
+
+---
+
 ### ”விளக்கை அணைத்து விளையாட வேண்டாம்”
 
 *2025-08-24 14:13:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கை-அணைத்து-விளையாட-வேண்டாம்/175-363389) · `ta`
@@ -1691,63 +1739,5 @@ Chinthaka Bandara, co-convener of the United Postal Trade Union Front, stated th
 ...
 
 [Data](articles/afda337d.json)
-
----
-
-### Sri Lanka inks UK final debt restructure agreements
-
-*2025-08-24 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-uk-final-debt-restructure-agreements-238102/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed new agreements on restructured bilateral debt of the United Kingdom of Great Britain and Northern Ireland, after a sovereign default, the Finance Ministry said.
-
-Debt rescheduled debt under this agreement amounts to 86,068,439.80 US dollars and 582,940,944.31 Japanese yen.
-
-“Entering into the Agreement will certainly pave the way to developing further the deep and longstanding bilateral relationships between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Sri Lanka,” the statement said.
-
-The sharing of diplomatic notes related to the bilateral agreement took place between Andrew Patrick, British High Commissioner to Sri Lanka and Harshana Suriyapperuma, Secretary of the Ministry of Finance, Planning and Economic Development. (Colombo/Aug24/2025)
-
-◼️
-
-[Data](articles/200de290.json)
-
----
-
-### Sri Lanka inks UK final debt restructure agreements
-
-*2025-08-24 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-agreements-to-restructure-uk-debt-238102/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed new agreements on restructured bilateral debt of the United Kingdom of Great Britain and Northern Ireland, after a sovereign default, the Finance Ministry said.
-
-Debt rescheduled debt under this agreement amounts to 86,068,439.80 US dollars and 582,940,944.31 Japanese yen.
-
-“Entering into the Agreement will certainly pave the way to developing further the deep and longstanding bilateral relationships between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Sri Lanka,” the statement said.
-
-The sharing of diplomatic notes related to the bilateral agreement took place between Andrew Patrick, British High Commissioner to Sri Lanka and Harshana Suriyapperuma, Secretary of the Ministry of Finance, Planning and Economic Development. (Colombo/Aug24/2025)
-
-◼️
-
-[Data](articles/5cc078fe.json)
-
----
-
-### තැපැල් වර්ජකයින් සහ ඇමති අතර සාකච්ඡාවක් අද
-
-*2025-08-24 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213725) · `si`
-
-වර්ජනයේ නිරත තැපැල් සේවකයින් සහ විෂය භාර අමාත්‍ය නලින්ද ජයතිස්ස මහතා අතර විශේෂ සාකච්ඡාවක් අද (24) පැවැත්වීමට නියමිතව තිබේ.
-
-අද පෙරවරු 9ට එම සාකච්ඡාව පැවැත්වීමට නියමිත අතර ඒ සදහා වර්ජනයේ නිරත සියලු තැපැල් වෘත්තීය සමිතිවල නියෝජිතයින් කැඳවා ඇති බවද වාර්තා වේ.
-
-විදුලි සංදේශ නිලධාරීන්ගේ සංගමය සහ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති ඇතුළු සංගම් කිහිපයක් ඉල්ලීම් 19ක් මුල් කර ගනිමින් පසුගිය 17වනදා ආරම්භ කළ වර්ජනය අද 07වන දිනටත් ක්‍රියාත්මක වේ.
-
-වර්ජනය ආරම්භ කිරීමත් සමග දිවයින පුරා පිහිටි තැපැල් කාර්යාලවල තැපැල් සේවා කටයුතු අඩාල වී ඇති අතර තැපැල් සේවා ලබා ගැනීමට පැමිණි ජනතාව දැඩි දුෂ්කරතාවටද පත්විය.
-
-කෙසේවෙතත් මේ සම්බන්ධයෙන් අද දිනයේ අමාත්‍යවරයා සමග සාකච්ඡා කිරීමට සූදානම් බව ඒකාබද්ද තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
-
-මේ අතර ලංකා තැපැල් සේවා සංගමයේ සභාපති ජගත් මහින්ද මහතා පැවසුවේ වර්ජනයේ නිරතව සිටි සාමාජිකයින් රැසක් මේ වන විට සේවා කටයුතු සදහා සහභාගී වී ඇති බැවින් හෙට දිනය වන විට තැපැල් සේවා කටයුතු සාමාන්‍ය පරිදි සිදුකිරීමට හැකිවන පවතින බවය.
-
-◼️
-
-[Data](articles/be1c88e9.json)
 
 ---

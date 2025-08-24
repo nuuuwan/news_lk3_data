@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 19:48:56**
+As of **2025-08-24 20:06:26**
 
 ## Newspaper Stats
 
-*Scraped **72,074** Articles*
+*Scraped **72,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,924
+adalk | 6,925
 adaderanalk | 9,104
 tamilmirrorlk | 10,656
 virakesarilk | 11,871
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,074 articles have been extended.
+61,973 (86.0%) of 72,075 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,7 +98,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### දෙරණ සිග්නල් - රාත්‍රී සරුංගල් සැණකෙළියත් සූදානම්
+### දෙරණ සිග්නල් - රාත්‍රී සරුංගල් සැණකෙළියත් ඇරඹෙයි
 
 *2025-08-24 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213744) · `si`
 
@@ -115,6 +115,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8e5b2bdc.json)
+
+---
+
+### හිටපු ජනාධිපති රනිල් අත්අඩංගුවට ගැනීම සජබ පිළිකුලෙන් යුතුව හෙළා දකියි
+
+*2025-08-24 18:26:34* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-රනිල්-අත්අඩංගුවට-ගැනීම-සජබ-පිළිකුලෙන්-යුතුව-හෙළා-දකියි/11-418038) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රසිංහ මහතා අත්අඩංගුවට ගැනීම බලවත් පිළිකුලෙන් යුතුව හෙළා දකින බව සමගි ජන බලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+ඒ අනුව ආණ්ඩුවේ ප්‍රජාතන්ත්‍ර විරෝධී  සියලුම ක්‍රියාවන්ට එරෙහිව කොන්දේසි විරහිතව සියලු දේශපාලන පක්ෂ, සිවිල් සංවිධාන සමග එක්ව  කටයුතු කිරීමට සමගි ජන බලවේගය කටයුතු කරන බවට අවධාරණය කරන බව එහි සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/0c936fb2.json)
 
 ---
 
@@ -1749,21 +1763,5 @@ The move has stirred intense debate, particularly given the history of the Janat
 ...
 
 [Data](articles/f05e27a1.json)
-
----
-
-### 2025-08-23 (Saturday)
-
-### Public Sector Reform In Sri Lanka: The Battle To Dismantle The Predatory Syndicate
-
-*2025-08-23 23:16:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/public-sector-reform-in-sri-lanka-the-battle-to-dismantle-the-predatory-syndicate/) · `en`
-
-“The crisis consists precisely in the fact that the old is dying and the new cannot be born; in this interregnum, a great variety of morbid symptoms appear” —Antonio Gramsci.
-
-The National People’s Power (NPP) has launched a decisive assault on Sri Lanka’s dysfunctional public service, a cancerous system posing an existential threat to the NPP’s reform agenda. Many conscientious public officials have courageously broken ranks and are earnestly working to dismantle the toxic culture. This transformation would have been impossible to imagine under other political parties, whose entourages were complicit in corrupt practices they could not escape without risking their political survival. The government inherited a morass of graft and finds itself forced to begin reforms alongside compromised bureaucrats with connections to terrified ex-politicos and complicit businesses seeking to escape accountability and justice.
-
-...
-
-[Data](articles/106ed4e9.json)
 
 ---

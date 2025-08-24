@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 08:48:57**
+As of **2025-08-24 09:20:32**
 
 ## Newspaper Stats
 
-*Scraped **71,986** Articles*
+*Scraped **71,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,93 @@ newsfirstlk | 363
 dbsjeyarajcom | 610
 bbccomsinhala | 677
 colombotelegraphcom | 738
-economynextcom | 4,402
+economynextcom | 4,403
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,915
-adaderanalk | 9,091
-tamilmirrorlk | 10,620
+adaderanalk | 9,093
+tamilmirrorlk | 10,622
 virakesarilk | 11,862
-adaderanasinhalalk | 12,466
+adaderanasinhalalk | 12,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,986 articles have been extended.
+61,973 (86.1%) of 71,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### තැපැල් වර්ජකයින් සහ ඇමති අතර සාකච්ඡාවක් අද
+
+*2025-08-24 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213725) · `si`
+
+වර්ජනයේ නිරත තැපැල් සේවකයින් සහ විෂය භාර අමාත්‍ය නලින්ද ජයතිස්ස මහතා අතර විශේෂ සාකච්ඡාවක් අද (24) පැවැත්වීමට නියමිතව තිබේ.
+
+අද පෙරවරු 9ට එම සාකච්ඡාව පැවැත්වීමට නියමිත අතර ඒ සදහා වර්ජනයේ නිරත සියලු තැපැල් වෘත්තීය සමිතිවල නියෝජිතයින් කැඳවා ඇති බවද වාර්තා වේ.
+
+විදුලි සංදේශ නිලධාරීන්ගේ සංගමය සහ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති ඇතුළු සංගම් කිහිපයක් ඉල්ලීම් 19ක් මුල් කර ගනිමින් පසුගිය 17වනදා ආරම්භ කළ වර්ජනය අද 07වන දිනටත් ක්‍රියාත්මක වේ.
+
+වර්ජනය ආරම්භ කිරීමත් සමග දිවයින පුරා පිහිටි තැපැල් කාර්යාලවල තැපැල් සේවා කටයුතු අඩාල වී ඇති අතර තැපැල් සේවා ලබා ගැනීමට පැමිණි ජනතාව දැඩි දුෂ්කරතාවටද පත්විය.
+
+කෙසේවෙතත් මේ සම්බන්ධයෙන් අද දිනයේ අමාත්‍යවරයා සමග සාකච්ඡා කිරීමට සූදානම් බව ඒකාබද්ද තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා සඳහන් කළේය.
+
+මේ අතර ලංකා තැපැල් සේවා සංගමයේ සභාපති ජගත් මහින්ද මහතා පැවසුවේ වර්ජනයේ නිරතව සිටි සාමාජිකයින් රැසක් මේ වන විට සේවා කටයුතු සදහා සහභාගී වී ඇති බැවින් හෙට දිනය වන විට තැපැල් සේවා කටයුතු සාමාන්‍ය පරිදි සිදුකිරීමට හැකිවන පවතින බවය.
+
+◼️
+
+[Data](articles/be1c88e9.json)
+
+---
+
+### பொரலஸ்கமுவவில் துப்பாக்கிச் சூடு: ஒருவர் பலி
+
+*2025-08-24 08:15:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரலஸ்கமுவவில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-363359) · `ta`
+
+பொரலஸ்கமுவ, மாலனி புலத்சிங்கள மாவத்தையில் முச்சக்கர வண்டியில் வந்த இருவர் நடத்திய துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்ததாகக் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/2e6d6d42.json)
+
+---
+
+### Dutch foreign minister resigns after failing to secure sanctions against Israel
+
+*2025-08-24 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111781/dutch-foreign-minister-resigns-after-failing-to-secure-sanctions-against-israel) · `en`
+
+Dutch Foreign Minister Caspar Veldkamp resigned Friday evening, after he failed to secure new sanctions against Israel over the war in Gaza.
+
+Veldkamp had informed the country’s parliament he intended to bring in new measures in response to Israel’s planned offensive in Gaza City and other heavily populated areas but was unable to secure the support of his coalition partners.
+
+The 61-year-old former ambassador to Israel told reporters he felt he was unable “to implement policy myself and chart the course I deem necessary.”
+
+Following Veldkamp’s resignation, the remaining Cabinet members of his center-right New Social Contract party also quit, leaving the Dutch government in disarray.
+
+“In short we are done with it,” party leader Eddy Van Hijum said, calling the Israeli government’s actions “diametrically opposed to international treaties.”
+
+...
+
+[Data](articles/4d03675a.json)
+
+---
+
+### தொடர் சிகிச்சையில் ரணில் விக்கிரமசிங்க
+
+*2025-08-24 08:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்-சிகிச்சையில்-ரணில்-விக்கிரமசிங்க/175-363358) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தொடர்ந்தும் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சையளிக்கப்பட்டு வருவதாகத் தெரிவிக்கப்படுகிறது.
+
+உயர் இரத்த அழுத்தம், சர்க்கரை அளவு மற்றும் மிகுந்த சோர்வு காரணமாக ரணில் விக்கிரமசிங்க நேற்று அதிதீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டார் என்று தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/0123fe91.json)
+
+---
 
 ### උතුරු කොරියාවෙන් නව ගුවන් ආරක්ෂක මිසයිල පද්ධතියක්
 
@@ -50,6 +118,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Derana Signal Colombo International Kite Festival to kick off today
+
+*2025-08-24 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111780/derana-signal-colombo-international-kite-festival-to-kick-off-today) · `en`
+
+All arrangements are in place for the Derana Signal Colombo International Kite Festival 2025, which will take place today (24) at the Galle Face Green in Colombo.
+
+The event, organized by TV Derana, the Sri Lanka Tourism Promotion Bureau, and the Sri Lanka Police, is expected to feature 500 local competitors along with over 50 foreign participants representing 25 countries.
+
+The festival’s official opening ceremony took place recently at the Cinnamon Grand Colombo, where the event’s theme song was also launched.
+
+The Colombo International Kite Festival, which will brighten the Colombo sky, is scheduled to commence at 1.00 p.m. today at the Galle Face Green, with competitor registration beginning at 11.00 a.m.
+
+To conclude the festival, a musical show by the band ‘Avatar’ will be held at the Galle Face Green from 8.00 p.m.
+
+◼️
+
+[Data](articles/a2a9ab3d.json)
+
+---
+
 ### බොරලැස්ගමුවේ වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට
 
 *2025-08-24 07:15:40* · [`adalk`](https://www.ada.lk/breaking_news/බොරලැස්ගමුවේ-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-418030) · `si`
@@ -63,6 +151,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3d2955ab.json)
+
+---
+
+### Sri Lanka ex-President transferred from prison to state hospital
+
+*2025-08-24 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-transferred-from-prison-to-state-hospital-238094/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe who was arrested and remanded over allegations of mis-using state property has been transferred to the national hospital in Colombo, an associate said.
+
+Wickremesinghe initially admitted to a paying ward after in the National Hospital but was later transferred to the Emergency Treatment Unit as his blood pressure was high and he required more monitoring.
+
+Doctors were considering moving him to the ICU if required, the associate said.
+
+He was transferred to the national hospital from the prison hospital.
+
+Wickremesinghe has complications including high blood pressure and a heart condition, court was told when bail was requested.
+
+Wickremesinghe was arrested over using government money to pay for his travel and accommodation and that of his staff including bodyguards, during a stop-over in London.   (Colombo/Aug22/2025)
+
+◼️
+
+[Data](articles/94713a17.json)
 
 ---
 
@@ -110,9 +220,17 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 *2025-08-24 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111778/youth-shot-dead-in-boralesgamuwa-another-injured-) · `en`
 
-A 21-year-old youth has been shot dead while another person has been injured in a shooting incident that occurred in the Malani Bulathsinhala Road at Boralesgamuwa, the Police Spokesman said.
+A 25-year-old youth has been shot dead while another person has been injured in a shooting incident that occurred in the Malani Bulathsinhala Road at Boralesgamuwa, the Police Spokesman said.
 
-The shooting was carried out by an unidentified gunman who arrived in a three-wheeler.
+The shooting, which was reportedly carried out by an unidentified gunman who arrived in a three-wheeler, occurred at around 12.30 a.m. today (24), according to police.
+
+The deceased has been identified as 25-year-old Gihan Dulan Perera, a resident of the Mount Lavinia area.
+
+Police investigations have revealed that a gunman who arrived in a three-wheeler opened fire at the victim while he was walking on the road with eight others, after attending a musical show in the Boralesgamuwa area.
+
+Police suspect that the shooting occurred following an argument that escalated during the musical show.
+
+The investigations conducted so far have revealed that both parties are members of certain organized criminal groups, Police Media Spokesperson, ASP F.U. Wootler said.
 
 ◼️
 
@@ -128,7 +246,7 @@ The shooting was carried out by an unidentified gunman who arrived in a three-wh
 
 පොලීසිය පැවසුවේ අද අලුයම 12.30ට පමණ මෙම වෙඩි තැබීම සිදුව ඇති බවය.
 
-වෙඩි තැබීමෙන් මියගොස් ඇත්තේ ගල්කිස්ස ප්‍රදේශයේ පදිංචිව සිටි ගිහාන් දුලාන් පෙරේරා නම් 25 හැවිරිදි තරුණයෙකි.
+වෙඩි තැබීමෙන් මියගොස් ඇත්තේ ගල්කිස්ස ප්‍රදේශයේ පදිංචිව සිටි ගිහාන් දුලාන් පෙරේරා නම් 21 හැවිරිදි තරුණයෙකි.
 
 බොරලැස්ගමුව ප්‍රදේශයේ පැවැති සංගීත සංදර්ශනයක් නරඹා මියගිය තරුණයා ඇතුළු පුද්ගලයින් 9 දෙනෙකු මාර්ගයේ පා ගමනින් යමින් සිටියදී ත්‍රීරෝද රථයකින් පැමිණි පුද්ගලයෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇතැයි පොලීස් විමර්ශනවලදී අනාවරණය වී තිබේ.
 
@@ -1723,111 +1841,5 @@ Yesterday, the Colombo Fort Magistrate’s Court ordered that former President W
 ◼️
 
 [Data](articles/688c8833.json)
-
----
-
-### 10 கோடி ரூபாய் பணம், போதைப்பொருளுடன் இருவர் கைது
-
-*2025-08-23 08:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-பணம்-போதைப்பொருளுடன்-இருவர்-கைது/175-363331) · `ta`
-
-கெண்டலியத்த, ராகம, பலுவ பகுதியில் நடத்தப்பட்ட சோதனையின் போது, ​​போதைப்பொருள், சுமார் 10 கோடி ரூபாய் பணத்துடன் இரண்டு பேர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-மேலும், 8.168 கிலோ போதைப்பொருள், 666 கிராம் ஐஸ் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் 823 000 ரூபாய் பணம், மூன்று மின்சார ஸ்கூட்டர்கள், ஒரு வேன், ஒரு கார், ஒரு முச்சக்கர வண்டி, பல உரிமத் தகடுகள் மற்றும் இரண்டு மோட்டார் சைக்கிள்களுடன் சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
-
-இரண்டு சந்தேக நபர்களும் போதைப்பொருள் கடத்தல்காரர் ஒருவரின் அறிவுடன் இந்த கடத்தலை மேற்கொண்டு வருவதாக விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர். R
-
-◼️
-
-[Data](articles/cf6b83a8.json)
-
----
-
-### හිටපු ජනපති රනිල් වික්‍රමසිංහ බන්ධනාගාර රෝහලට
-
-*2025-08-23 08:35:15* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-වික්‍රමසිංහ-බන්ධනාගාර-රෝහලට/11-418023) · `si`
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර තිබේ.
-
-රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් වෛද්‍ය උපදෙස් මත හිටපු ජනාධිපතිවරයා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බව සඳහන් වේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ඊයේ (22) නියම කළේය.
-
-මෙරට ඉතිහාසයේ විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව මෙය වන අතර, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ (22) දහවල් අත්අඩංගුවට ගනු ලැබීය.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ධුර කාලයේදී රජයේ මුදල් භාවිත කරමින් පෞද්ගලික සංචාරයක් ලෙස සිය බිරිඳ වන මහාචාර්ය මෛත්‍රී වික්‍රමසිංහ මහත්මියගේ උපාධි ප්‍රදානෝත්සවයක් සඳහා සහභාගි වීමට ලන්ඩනයට යාම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබුණි.
-
-◼️
-
-[Data](articles/81337638.json)
-
----
-
-### Police OIC injured in van collision while on duty
-
-*2025-08-23 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111757/police-oic-injured-in-van-collision-while-on-duty) · `en`
-
-Kalutara North Police OIC, Chief Inspector Thushara Silva, was injured in a collision with a van while on special operations duty.
-
-According to Kalutara North Police, the accident occurred last night (22) in the Wadiyamankada area, Waskaduwa, while he was travelling from Panadura towards Kalutara.
-
-The injured officer has been transferred to the Colombo National Hospital for treatment.
-
-Police further stated that the van involved in the accident has been taken into custody, and its driver has been arrested.
-
-◼️
-
-[Data](articles/180131db.json)
-
----
-
-### ஆறாவது நாளாக தொடரும் போராட்டம்
-
-*2025-08-23 08:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆறாவது-நாளாக-தொடரும்-போராட்டம்/175-363330) · `ta`
-
-தபால் ஊழியர்கள் ஆரம்பித்த வேலைநிறுத்தம் இன்று (23) தொடர்ந்து ஆறாவது நாளாக முன்னெடுக்கப்பட்டு வருகின்றது.
-
-19 கோரிக்கைகளை முன்வைத்து ஞாயிற்றுக்கிழமை (17) முதல் இவர்களது தொழிற்சங்க போராட்டம் தொடங்கப்பட்டமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/bfec84be.json)
-
----
-
-### மோடி - இமானுவேல் மெக்ரான் தொலைபேசி உரையாடல்
-
-*2025-08-23 08:18:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-இமானுவேல்-மெக்ரான்-தொலைபேசி-உரையாடல்/175-363328) · `ta`
-
-பி​ரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்​ரான், பிரதமர் நரேந்​திர மோடியை தொலைபேசி​யில் தொடர்பு கொண்டு பேசி​னார்.
-
-உக்​ரைன் போரை நிறுத்​து​வது தொடர்​பாக கடந்த 15 ஆம் திகதி அமெரிக்க ஜனாதிபதி டொனால்ட்  ட்ரம்​பும் ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினும் அமெரிக்​கா​வில் சந்​தித்​துப் பேசினர். இதைத் தொடர்ந்து கடந்த 18 ஆம் திகதி அமெரிக்க ஜனாதிபதி ட்ரம்​பை, உக்​ரைன் ஜனாதிபதி ஜெலன்​ஸ்கி சந்​தித்​துப் பேசி​னார். அப்​போது பிரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்​ரான் உட்பட ஐரோப்​பிய தலை​வர்​கள் உடன் இருந்​தனர்.
-
-இந்த சூழலில் பிரான்ஸ் ஜனாதிபதி மெக்​ரான், பிரதமர் நரேந்​திர மோடியை நேற்று முன்​தினம் தொலைபேசி​யில் தொடர்பு கொண்டு பேசி​னார். அப்​போது உக்​ரைன் போர் மற்​றும் காசா போர் குறித்து இரு தலை​வர்​களும் ஆலோ​சனை நடத்​தியுள்ளனர். (a)
-
-◼️
-
-[Data](articles/b51e19fc.json)
-
----
-
-### හිටපු ජනපති රනිල්ව බලන්න මහ රෑ බන්ධනාගාරයට ගිය දුමින්ද, ප්‍රසන්න සහ චාමර
-
-*2025-08-23 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213689) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමෙන් පසු දේශපාලඥයින් කිහිපදෙනෙකුම ඊයේ (22) රාත්‍රියේම නව මැගසින් බන්ධනාගාරය වෙත පැමිණි තිබුණි.
-
-එලෙස පැමිණ තිබුණේ, හිටපු අමාත්‍යවරුන් වන දුමින්ද දිසානායක, ප්‍රසන්න රණතුංග සහ පාර්ලිමෙන්තු මන්ත්‍රී චාමර සම්පත් ඇතුළු ආධාරකරුවන් පිරිසකි.
-
-ඔවුන් බන්ධනාගාරය වෙත පැමිණිය ද ඉන් ඇතුළුවීමට අවසර නොලැබුණු අතර, පසුව බන්ධනාගාරය පිටත රැඳී සිටින ආකාරය අද දෙරණ කැමරාවේ ද සටහන්ව තිබුණි.
-
-රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (22) රාත්‍රියේ බන්ධනාගාර රෝහලට ඇතුළත් කළේ, වෛද්‍ය උපදෙස් මතය.
-
-'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය ඊයේ නියම කළේය.
-
-...
-
-[Data](articles/9d2a59e8.json)
 
 ---

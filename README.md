@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 19:09:00**
+As of **2025-08-24 19:20:52**
 
 ## Newspaper Stats
 
-*Scraped **72,072** Articles*
+*Scraped **72,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,924
 adaderanalk | 9,104
-tamilmirrorlk | 10,654
+tamilmirrorlk | 10,656
 virakesarilk | 11,871
 adaderanasinhalalk | 12,485
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,072 articles have been extended.
+61,973 (86.0%) of 72,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### ”ரணிலை 40 ஆண்டுகளுக்கு முன்பே கைது செய்திருக்க வேண்டும்”
+
+*2025-08-24 19:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-40-ஆண்டுகளுக்கு-முன்பே-கைது-செய்திருக்க-வேண்டும்/175-363409) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மீது சுமத்தப்பட்டுள்ள மிகவும் கடுமையான குற்றச்சாட்டுகளுக்காக 40 ஆண்டுகளுக்கு முன்பே அவர் கைது செய்யப்பட்டிருக்க வேண்டும் என்று அமைச்சர் பிமல் ரத்நாயக்க கூறுகிறார்.
+
+"அவரது சமீபத்திய கைதுக்குப் பின்னால் உள்ள குற்றச்சாட்டுகள் அற்பமானவை என்ற வாதங்கள் உள்ளன; அது உண்மைதான். இருப்பினும், 1977 இல் அவரது அரசாங்கம் தேர்தலுக்குப் பிந்தைய பாரிய வன்முறையைக் கட்டவிழ்த்துவிட்டிருந்தது. அதற்கு ரணிலும் ஜே.ஆரும் பொறுப்பாளிகள், அந்த நேரத்தில் அவர்கள் கைது செய்யப்பட்டிருக்க வேண்டும்," என்று அவர் கூறினார்.
+
+1980களின் முற்பகுதியில் நடந்த முக்கிய சம்பவங்கள், 1981ல் யாழ்ப்பாண நூலகம் எரிப்பு மற்றும் ஜூலை 1983 கலவரம் உள்ளிட்டவற்றின் போது அமைச்சரவையில் ரணில் விக்கிரமசிங்க வகித்த பங்கிற்கு அவர் பொறுப்புக்கூற வேண்டியிருந்தது என்று அமைச்சர் மேலும் கூறினார்.
+
+...
+
+[Data](articles/4651f931.json)
+
+---
+
+### ”ரணில் மீது குற்றம் சாட்ட வேறு சிறந்த வழக்கைத் தேடுங்கள்”
+
+*2025-08-24 19:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-மீது-குற்றம்-சாட்ட-வேறு-சிறந்த-வழக்கைத்-தேடுங்கள்/175-363408) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க மீதான குற்றச்சாட்டுகளை அரசியல் பழிவாங்கும் நடவடிக்கை என்று முன்னாள் வெளியுறவு அமைச்சரும் ஜனாதிபதி சட்டத்தரணியுமான அலி சப்ரி தெரிவித்துள்ளார்.
+
+பதவியில் இருக்கும் ஜனாதிபதி ஒருவர் உத்தியோகபூர்வ பாதுகாப்பு மற்றும் நெறிமுறைகளின் கீழ் பயணம் செய்யும் போது அது பொது நிதியை தவறாகப் பயன்படுத்துவது ஆகாது என்று அவர் கூறியுள்ளார்.
+
+உத்தியோகபூர்வ கடமைகளுக்காகவோ அல்லது தனிப்பட்ட காரணங்களுக்காகவோ பயணம் செய்தாலும், பதவியில் இருப்பவர் உட்பட ஒவ்வொரு ஜனாதிபதியும் பொலிஸ் மற்றும் பாதுகாப்புப் பிரிவின் பாதுகாப்பைப் பெற உரிமை உண்டு என்று சப்ரி குறிப்பிட்டார்.
+
+...
+
+[Data](articles/e2c805a1.json)
+
+---
 
 ### அதிக விலைக்குக் குடிநீர் போத்தலை விற்பனை செய்த உணவகம்
 
@@ -1733,31 +1765,5 @@ The National People’s Power (NPP) has launched a decisive assault on Sri Lanka
 ...
 
 [Data](articles/106ed4e9.json)
-
----
-
-### Human-Elephant Conflict, The Worst Animal Cruelty
-
-*2025-08-23 23:07:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/human-elephant-conflict-the-worst-animal-cruelty/) · `en`
-
-Sri Lanka records the highest number of elephant deaths in the world. The year 2023 marked one of the worst in recent memory, with 488 elephants killed and 182 human deaths reported due to the conflict. By mid-2024, another 388 elephants had already perished. (Dr Vipula Wanigasekera).  According to Wildlife Director General Ranjan Marasinghe, a total of 245 elephants has died this year due to various causes. Among them, 38 were electrocuted, while 13 were fatally struck by trains. The annual toll may exceed 500 lives of elephants by year-end.
-
-Despite shocking revelations by the media of the alarming figures of elephant deaths and animal cruelty no government had taken serious steps to address Human-elephant conflict.  Between 2015 and 2024, over 3,484 elephants have died due to this conflict, along with 1,195 human lives lost (VOA News, 2024).
-
-...
-
-[Data](articles/373228fe.json)
-
----
-
-### Government Must Work With Mandatory Fingerprint Attendance System
-
-*2025-08-23 23:00:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/government-must-work-with-mandatory-fingerprint-attendance-system/) · `en`
-
-The fingerprint system uses biometric fingerprints. In simple terms, it’s a biometric time-tracking system designed for fairness and accountability in various professions. Canners can record their attendance at workplaces or institutions. Instead of just signing a register or calling out names, employees need to scan their fingerprints to verify their presence. The goal is to prevent proxy attendance (someone else signing in for you). This ensures accurate records of who is there and for how long. It also boosts accountability, especially in public institutions where taxpayer money is involved. Additionally, it can help (i) reduce absenteeism, (ii) reduce false overtime claims, and (iii) reduce misuse of public funds. In short, it’s a biometric time-tracking system created for fairness and accountability across professions. This system is used in other countries, such as India, Malaysia, and New Zealand.
-
-...
-
-[Data](articles/5a9b39db.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 14:49:36**
+As of **2025-08-24 15:07:10**
 
 ## Newspaper Stats
 
-*Scraped **72,041** Articles*
+*Scraped **72,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 6,920
 adaderanalk | 9,099
 tamilmirrorlk | 10,642
 virakesarilk | 11,869
-adaderanasinhalalk | 12,477
+adaderanasinhalalk | 12,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,041 articles have been extended.
+61,973 (86.0%) of 72,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### පෙන්ටගනයේ බුද්ධි අංශ ප්‍රධානියා එම තනතුරින් ඉවතට
+
+*2025-08-24 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213737) · `si`
+
+පෙන්ටගනයේ බුද්ධි අංශ ප්‍රධානී ලුතිතන් ජෙනරාල් ජෙෆ්රි කෘෘස් එම තනතුරින් පහ කිරීමට අමෙරිකානු ආරක්ෂක ලේකම් පීට් හෙග්සෙත් කටයුතු කර තිබේ.
+
+කෙසේ වෙතත් එම ඉවත් කිරීමට නිශ්චිත හේතු දැක්වීමත් සිදුකර නැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අමෙරිකාව ඉරානයේ න්‍යෂ්ටික මර්මස්ථාන තුනකට ප්‍රහාර එල්ල කිරීම සම්බන්ධ බුද්ධි අංශ වාර්තාවක් මාධ්‍ය වෙත කාන්දු වීමේ සිදුවීම මෙයට හේතු වී ඇති බව සැලකේ.
+
+◼️
+
+[Data](articles/4fff1bd0.json)
+
+---
 
 ### සංචාරක ක්ෂේත්‍රයේ ප්‍රවර්ධනයට කාර්යය සාධක බලකායක්
 
@@ -1749,19 +1765,5 @@ St. Maximian Kolbe, during his missionary travels to and from Japan, China and I
 ...
 
 [Data](articles/cdb759fb.json)
-
----
-
-### Memories of WW II days in Kandy
-
-*2025-08-23 15:42:00* · [`islandlk`](http://island.lk/memories-of-ww-ii-days-in-kandy/) · `en`
-
-Landmark commemorations of 80 years were marked this year on May 8th and August 15th. They are named VE Day and VJ Day–Victory in Europe Day and Victory over Japan Day respectively. These Days are opportunities to commemorate the sacrifices and achievements of the second world war generation.
-
-The Allied Forces marched into Germany and Hitler committed suicide in his bunker with Eva Braun; while the American Fleet particularly, fought the war in the Pacific against Japan which battled ruthlessly in the name of their Emperor – Hirohito. He announced Japan’s surrender to the nation on August 15, 1945, in a broadcast known as the ‘Jewel Voice Broadcast’ according to the Nuclear Museum – the first time an emperor had addressed the public via radio.
-
-...
-
-[Data](articles/e0f66b41.json)
 
 ---

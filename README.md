@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 01:17:47**
+As of **2025-08-25 01:32:48**
 
 ## Newspaper Stats
 
-*Scraped **72,103** Articles*
+*Scraped **72,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 738
 economynextcom | 4,406
 islandlk | 4,432
 dailymirrorlk | 4,733
-dailyftlk | 5,081
+dailyftlk | 5,082
 adalk | 6,927
 adaderanalk | 9,108
 tamilmirrorlk | 10,656
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,103 articles have been extended.
+61,973 (85.9%) of 72,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Development surge in Peninsula India: Lessons for Sri Lanka
+
+*2025-08-25 01:03:48* · [`dailyftlk`](https://www.ft.lk/opinion/Development-surge-in-Peninsula-India-Lessons-for-Sri-Lanka/14-780689) · `en`
+
+The Eastern, North Central, and Northern Provinces, with a historical presence of handloom and garment sectors, could be linked to the textile clusters of Tamil Nadu
+
+The geographical proximity and historical ties between Northern, North Central, and Eastern Sri Lanka and Tamil Nadu state present an untapped opportunity for mutually beneficial economic cooperation. However, these possibilities remain untapped
+
+By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Piratheepan, Neruja Narenthiran, Mary Delcia Antony Christian, Kamalakumari Karunanithy, and Muttukrishna Sarvananthan
+
+...
+
+[Data](articles/8c15ac74.json)
+
+---
 
 ### Exporting in new era: ESG reporting as strategic enabler for global market entry
 
@@ -1711,21 +1727,5 @@ Dr. Jayatissa further noted that the government has taken two steps to manage th
 ...
 
 [Data](articles/eb9b4ec9.json)
-
----
-
-### ඇතැම් ඖෂධ හිඟ බව සෞඛ්‍ය ඇමති කියයි
-
-*2025-08-24 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213726) · `si`
-
-පසුගිය රජයේ නිසි ටෙන්ඩර් ක්‍රමවේදයෙන් බැහැරව කටයුතු කරමින් ඖෂධ ගෙන්වීම හේතුවෙන් වර්තමානයේ රට තුළ ඇතැම් ඖෂධවල හිඟයක් පවතින බව සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-ඔහු පවසන්නේ මේ වන විට පවතින ඖෂධ හිඟය මගහරවා ගැනීම සදහා ප්‍රදේශීය මිලදී ගැනීම් වෙනුවෙන් රුපියල් කෝටි 3,500ක මුදලක් රෝහල් සදහා වෙන්කර ඇති බවය.
-
-"ගිය අවුරුද්දේ ටෙන්ඩර් නොකිරීමේ ප්‍රතිඵලය තමයි දැන් ඖෂධ සැපයෙන්නේ නැති ප්‍රශ්නේ. ගිය අවුරුද්දේ ටෙන්ඩර් කරලා තිබුණා නම් හරියට ඖෂධ එනවා. අපි දැන් ලබන වසර සඳහා ටෙන්ඩර් කරලා තියෙනවා. දැන් ඇති වෙලා තියෙන තාවකාලික ඖෂධ හිඟයට එකක් අපි රෝහල්වලට රුපියල් කෝටි 3,500ක් වෙන් කරලා තියෙනවා ප්‍රාදේශීය මිලදී ගැනීම් කරන්න. දෙවැනි එක විටින් විට අපි සමහර රටවල් එක්ක සාකච්ඡා කරලා පරිත්‍යාග හැටියට මේක ලබා ගන්නවා සමහර රටවල් සමග අවබෝධතා ගිවිසුම් අත්සන් කරන තැනට ඇවිල්ලා තියෙන්නේ එ්කෙන් මේ ප්‍රශ්නයට මුහුණ දෙන්න පුළුවන් කමක් තියෙනවා."
-
-◼️
-
-[Data](articles/388dade4.json)
 
 ---

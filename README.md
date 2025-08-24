@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 15:49:16**
+As of **2025-08-24 16:07:33**
 
 ## Newspaper Stats
 
-*Scraped **72,045** Articles*
+*Scraped **72,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,921
-adaderanalk | 9,099
-tamilmirrorlk | 10,644
-virakesarilk | 11,869
-adaderanasinhalalk | 12,478
+adaderanalk | 9,102
+tamilmirrorlk | 10,646
+virakesarilk | 11,870
+adaderanasinhalalk | 12,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,045 articles have been extended.
+61,973 (86.0%) of 72,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### කුන්ඩසාලේ බස්නැවතුම්පොලේ නාඳුනන මළ සිරුරක්
+
+*2025-08-24 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213738) · `si`
+
+පල්ලෙකැලේ, කුන්ඩසාලේ නව නගරයේ බස්නැවතුම්පොලේ තිබී නාඳුනන පුද්ගල මළ සිරුරක් සොයාගෙන තිබේ.
+
+බස් නැවතුම්පොලේ පුද්ගලයෙකුගේ මළ සිරුරක් ඇති බවට ලද තොරතුරක් මත පල්ලෙකැලේ පොලිසිය විසින් අදාළ මළ සිරුර සොයාගෙන ඇත.
+
+මියගිය පුද්ගලයාගේ අනන්‍යතාව තහවුරු වී නොමැති අතර ඔහු වයස අවුරුදු 70ක පමණ අයෙකු වන බව සඳහන් වේ.
+
+මෘත ශරීරය මහනුවර රෝහලේ මෘත ශරීරාගාරයේ තබා ඇති අතර පල්ලෙකැලේ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/47e50b7e.json)
+
+---
+
+### “ரணில் மீது சட்டம் பாய்ந்ததால் ராஜபக்‌ஷர்கள்   நடுங்குகின்றனர்”
+
+*2025-08-24 15:33:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-மீது-சட்டம்-பாய்ந்ததால்-ராஜபக்-ஷர்கள்-நடுங்குகின்றனர்/175-363396) · `ta`
+
+“ வடக்கில் மக்களுக்குரிய காணிகளை முழுமையாக விடுவிக்கும் நிலைந்நாட்டிலேயே ஜனாதிபதி இருக்கின்றார். தையிட்டி விகாரைப் பிரச்சினைக்கும் சுமுக தீர்வு காணப்படும்.” என்று கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் யாழ்.மாவட்ட அலுவலகத்தில் ஞாயிற்றுக்கிழமை (24) நடைபெற்ற விசேட ஊடக சந்திப்பின்போதே அவர் இவ்வாறு கூறினார்.
+
+“ ரணில் விக்கிரமசிங்கவை நெருங்க முடியாது, அவர்மீது கை வைக்க முடியாது, அவர் சர்வதேச இராஜந்திரம் தெரிந்தவர், நரித்தனமானவர், அவரோடு விளையாட முற்பட வேண்டாம் என எதிரணியினர் கூறி வந்தனர்.
+
+நாட்டுக்கு தீங்கு, இழப்பு ஏற்படுத்தியது ரணிலோ, ராஜபக்ஷவோ என்பது எமக்கு முக்கியம் அல்ல. எவராக இருந்தாலும் ஊழல், மோசடிகளில் ஈடுபட்டவர்களுக்கு எதிராக சட்டம் தனக்குரிய கடமையை செய்யும்.
+
+ஒரு சில வாரங்களில் வடக்கில் உள்ள அரசியல்வாதிகள் வாழ்விலும் வசந்தம் பிறக்கும் என நினைக்கின்றோம்.
+
+...
+
+[Data](articles/af82a4d7.json)
+
+---
 
 ### உலகின் அதிக எடை கொண்ட கைதி: ஒரு நாளைக்கு ரூ.1 லட்சம் செலவு
 
@@ -52,7 +90,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### லசந்த  படுகொலை;விசாரணைகள் மீள ஆரம்பம்
+### லசந்த  படுகொலை;  விசாரணைகள் மீள ஆரம்பம்
 
 *2025-08-24 15:21:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-படுகொலை-விசாரணைகள்-மீள-ஆரம்பம்/175-363394) · `ta`
 
@@ -70,6 +108,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Three-wheeler used in Boralesgamuwa shooting discovered
+
+*2025-08-24 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111790/three-wheeler-used-in-boralesgamuwa-shooting-discovered) · `en`
+
+The three-wheeler suspected to have been used by the gunman to carry out the shooting that killed a youth on Malani Bulathsinhala Road in Boralesgamuwa last night has been found abandoned near the Bokundara Dedicated Economic Center in Piliyandala, Police said.
+
+Police have also discovered two black motorcycle helmets and a jacket inside the vehicle.
+
+The shooting incident was carried out by an unidentified gunman who arrived in a three-wheeler, at around 12.30 a.m. in the early hours of today (24), according to police
+
+A 21-year-old youth, identified as Gihan Dulan Perera alias ‘Choppe,’ a three-wheeler driver from Temple Road in Mount Lavinia, was killed in the incident, Police said.
+
+The victim, who was critically injured in the shooting, later succumbed to his injuries after being admitted to the Colombo South Teaching Hospital in Kalubowila.
+
+...
+
+[Data](articles/08214da6.json)
+
+---
+
 ### පෙන්ටගනයේ බුද්ධි අංශ ප්‍රධානියා එම තනතුරින් ඉවතට
 
 *2025-08-24 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213737) · `si`
@@ -83,6 +141,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4fff1bd0.json)
+
+---
+
+### 51 Inspectors of Police promoted to ASP
+
+*2025-08-24 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111789/51-inspectors-of-police-promoted-to-asp) · `en`
+
+A total of 51 Inspectors of Police (IPs) have been promoted to the rank of Assistant Superintendent of Police (ASP) with immediate effect.
+
+According to the Police Media Division, these promotions have been granted with effect from March 25 this year, following a competitive examination.
+
+This includes officers who previously served in the ranks of Sub-Inspector, Inspector of Police, and Chief Inspector of Police.
+
+The Police Media Division further stated that three female police officers and two officers from the Police Special Task Force (STF) have also been promoted to the rank of ASP.
+
+◼️
+
+[Data](articles/3f202d76.json)
+
+---
+
+### விரைவில் இந்தியா செல்கிறார் உக்ரேன் ஜனாதிபதி
+
+*2025-08-24 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/223253) · `ta`
+
+உக்ரேன் ஜனாதிபதி ஜெலென்ஸ்கி விரைவில் இந்தியா செல்ல உள்ளதாக இந்தியாவுக்கான உக்ரேன் தூதர் போலிஷ்சுக் தெரிவித்துள்ளார். ஜெலென்ஸ்கியின் பயணத் திகதியை இறுதி செய்வது குறித்து ஆலோசிக்கப்பட்டு வருவதாகவும் அவர் தெரிவித்துள்ளார். இந்தியா வரும் உக்ரேன் ஜனாதிபதி பிரதமர் மோடியுடன் சந்திப்பு நடத்துவார் என்றும் அப்போது போர் நிலவரம், போரை நிறுத்துவது குறித்தும் ஆலோசனை நடத்துவார்கள் என்றும் போலிஷ்சுக் தெரிவித்துள்ளார்.
+
+உக்ரேன் ஜனாதிபதியின் இந்திய பயணம் இருதரப்பு உறவை மேலும் வலுப்படுத்தும் என போலிஷ்சுக் தெரிவித்துள்ளார். கடந்த ஆண்டு ரஷ்யா மற்றும் உக்ரேனுக்கு பயணம் செய்த பிரதமர் மோடி, பேச்சுவார்த்தை மூலம் பிரச்சினைக்கு தீர்வு காணுமாறு இரு நாட்டு தலைவர்களிடமும் வலியுறுத்தி இருந்தது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a4f1ce2f.json)
 
 ---
 
@@ -184,6 +274,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former President Ranil under close medical supervision - Dr. Bellana
+
+*2025-08-24 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111788/former-president-ranil-under-close-medical-supervision-dr-bellana) · `en`
+
+Former President Ranil Wickremesinghe is currently receiving treatment under close medical supervision at the Colombo National Hospital, according to the hospital’s Deputy Director, Dr. Rukshan Bellana.
+
+Dr. Bellana noted that the former President is suffering from dehydration, and some changes in his blood and other symptoms have also been observed.
+
+He explained that the dehydration was caused by spending long hours in a courtroom without drinking water, along with a power outage that occurred at the time.
+
+Due to this condition, he was transferred from the Prison Hospital to the Colombo National Hospital, where he is now receiving treatment under close medical supervision.
+
+...
+
+[Data](articles/0c45e1f8.json)
+
+---
+
 ### පොලීසියේ 51කට උසස්වීම්
 
 *2025-08-24 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213732) · `si`
@@ -199,6 +307,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1b022d96.json)
+
+---
+
+### ரணிலுக்கு மாரடைப்பு ஏற்படலாம். : பிரதி பணிப்பாளர் தகவல்
+
+*2025-08-24 13:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணிலுக்கு-மாரடைப்பு-ஏற்படலாம்-பிரதி-பணிப்பாளர்-தகவல்/150-363387) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தற்போது தேசிய மருத்துவமனையில் மருத்துவ மேற்பார்வையின் கீழ் சிகிச்சை பெற்று வருவதாக கொழும்பு தேசிய மருத்துவமனையின்  பிரதி பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன   தெரிவித்துள்ளார்.
+
+ரணிலின் உடல்நிலை குறித்து  வைத்தியர்  ருக்ஷான் பெல்லன, ஞாயிற்றுக்கிழமை (24) நடத்திய   ஊடக சந்திப்பிலேயே இவ்வாறு கூறியுள்ளார்.
+
+அவருக்கு நீர்ச்சத்து குறைபாடு இருப்பதாகவும், அவரது உடலில் இரத்தத்தில் ஏற்படும் மாற்றங்கள் மற்றும் பிற அறிகுறிகள் காணப்படுவதாகவும் அவர் கூறினார்.
+
+நீதிமன்ற அறையில் பல மணி நேரம் காத்திருந்தபோது மின்சாரம் தடைபட்டதாலும், தண்ணீர் குடிக்காததாலும் ஏற்பட்ட சிக்கல்களால் அவருக்கு நீர்ச்சத்து குறைபாடு ஏற்பட்டதாக மருத்துவர் கூறினார்.
+
+இதன் காரணமாக, அவர் சிறைச்சாலை மருத்துவமனையில் இருந்து தேசிய மருத்துவமனைக்கு மாற்றப்பட்டுள்ளதாகவும், அதன்படி, முன்னாள் ஜனாதிபதி கடுமையான மருத்துவ மேற்பார்வையின் கீழ் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வருவதாகவும்  தெரிவித்தார்.
+
+...
+
+[Data](articles/b91ea48a.json)
 
 ---
 
@@ -1641,129 +1769,5 @@ Even if a President attends a private wedding, funeral, or visits a sick relativ
 ◼️
 
 [Data](articles/ee0b74ff.json)
-
----
-
-### හෙට උණුසුම් වන ප්‍රදේශ
-
-*2025-08-23 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213712) · `si`
-
-ප්‍රදේශ රැසක මිනිස් සිරුරට දැනෙන උෂ්ණත්වය හෙට (24) දිනයේ ද අවධානය යොමුකළ යුත් මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ උතුර, උතුරු මැද, නැගෙනහිර යන පළාත්වල මෙන්ම මොණරාගල සහ හම්බන්තොට යන දිස්ත්‍රික්කවලද මෙම තත්ත්වය අපේක්ෂා කළ හැකි බවය.
-
-ඒ අනුව අදාළ ප්‍රදේශවල උෂ්ණත්වය සෙල්සියස් අංශක 39ත් 45ත් අතර පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සදහන් කළේය.
-
-◼️
-
-[Data](articles/dcfaa061.json)
-
----
-
-### ரணிலை தேசிய வைத்தியசாலைக்கு மாற்றுமாறு பரிந்துரை
-
-*2025-08-23 16:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-தேசிய-வைத்தியசாலைக்கு-மாற்றுமாறு-பரிந்துரை/175-363338) · `ta`
-
-சிறைச்சாலை வைத்தியசாலையில் சிகிச்சை பெற்று வரும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றுமாறு பரிந்திரைக்கப்பட்டுள்ளது.
-
-அவரது நோய் நிலையை பரிசோதித்த சிறைச்சாலை வைத்தியர்கள் அதற்கான பரிந்துரையை வழங்கியுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-குற்றப் புலனாய்வுத் திணைக்களத்தால் கைது செய்யப்பட்ட ரணில் விக்ரமசிங்க தொடர்ந்து 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-இந்த நிலையில், ரணில் விக்ரமசிங்க நேற்று (22) இரவு சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
-
-உயர் இரத்த அழுத்தம் மற்றும் அதிக சர்க்கரை அளவு காரணமாக முன்னாள் ஜனாதிபதியை சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்குமாறு வைத்தியர்கள் பரிந்துரைத்தனர்.
-
-இதற்கிடையில், முன்னாள் ஜனாதிபதியின் உடல்நிலையை தொடர்ந்து கண்காணித்து வரும் சிறைச்சாலை வைத்தியர்களும் அவருக்கு வீட்டு உணவை வழங்குமாறு பரிந்துரைத்திருந்தனர்.
-
-◼️
-
-[Data](articles/7bf64da1.json)
-
----
-
-### Doctors to launch island-wide strike on Monday
-
-*2025-08-23 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111774/doctors-to-launch-island-wide-strike-on-monday) · `en`
-
-The Government Medical Officers’ Association (GMOA) has announced that it will launch a strike on Monday (25) over several demands.
-
-At a press briefing held today (23), the GMOA stated that the island-wide strike will commence at 8.00 a.m. on Monday.
-
-The strike has been planned based on several demands, including issues related to the medical officer transfer process.
-
-◼️
-
-[Data](articles/4ebb8d6f.json)
-
----
-
-### වනඅලි ආරක්ෂා කරන්න වනජීවි දෙපාර්තමේන්තුවෙන් ඉල්ලීමක්
-
-*2025-08-23 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213711) · `si`
-
-වනඅලි බහුල වශයෙන් වෙඩි වැදීම්වලට ලක්වන්නේ බදින තුවක්කු හේතුවෙන් බව වනජීවි දෙපාර්තමේන්තුව පවසයි.
-
-රක්ෂිත ප්‍රදේශවල සතුන් දඩයම් කිරීම සදහා බදින තුවක්කු බහුල වශයෙන් භාවිත කරන අතර එලෙස භාවිතා කරන පුද්ගලයින් සම්බන්ධයෙන් ජනතාවට වනජීවි දෙපාර්තමේන්තුව දැනුවත් කිරීමට හැකියාව පවතියි.
-
-ඒ අනුව 1992 ක්ෂණික දුරකතන අංකය ඔස්සේ ජනතාවට ඒ සම්බන්ධ තොරතුරු ලබා දිය හැකියි.
-
-එලෙස තොරතුරු ලබාදෙන පුද්ගලයින්ගේ රහස්‍යභාවය ආරක්ෂා කිරීමට වනජීවි දෙපාර්තමේන්තුව කටයුතු කරන බව ද එහි ප්‍රකාශකයෙකු සදහන් කළේය.
-
-මේ අතර මේ විට තුවාල ලැබූ වනඅලි 06 දෙනෙකුට පමණ වනජීවි දෙපාර්තමේන්තුව මගින් ප්‍රථිකාර සිදුකරන බව සදහන් වේ.
-
-◼️
-
-[Data](articles/8f30e6bf.json)
-
----
-
-### රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සඳුදා වැඩ වර්ජනයක
-
-*2025-08-23 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213710) · `si`
-
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය එළැඹෙන සඳුදා (25) වැඩ වර්ජනයක් සිදු කිරීමට තීරණය කර තිබේ.
-
-වෛද්‍ය ස්ථාන මාරු ක්‍රියාවලිය, ඇතුළු ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් එළැඹෙන සඳුදා දින උදෑසන 08 සිට දීප ව්‍යාප්තව මෙම වැඩ වර්ජනය පැවැත්වීමට සැලසුම් කර ඇතැයි රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය අද (23) පැවැති මාධ්‍ය හමුවේදී පැවසීය.
-
-◼️
-
-[Data](articles/0ca23752.json)
-
----
-
-### World Bank team discuss Sri Lanka Customs modernisation programme
-
-*2025-08-23 16:15:00* · [`economynextcom`](https://economynext.com/world-bank-team-discuss-sri-lanka-customs-modernisation-programme-237907/) · `en`
-
-ECONOMYNEXT – World Bank representatives and Revenue Administration Reform and Modernization Bureau officials have met to discuss the Sri Lanka Customs Modernisation Programme.
-
-The World Bank representatives “expressed their willingness to provide the necessary international institutional support and expert guidance to ensure the success of the programme,” the president’s media division said.
-
-The revision of the Customs Ordinance was also discussed the PMD said.
-
-Sri Lanka Customs, the Inland Revenue Department, and the Excise Department are the government’s leading revenue collection sources.
-
-The Revenue Administration Reform and Modernization Bureau was established to identify the policy and strategic changes required within these institutions.
-
-...
-
-[Data](articles/dce7ab35.json)
-
----
-
-### Police confirm probe against former Presidential Secretary over Ranil’s UK visit
-
-*2025-08-23 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111773/police-confirm-probe-against-former-presidential-secretary-over-ranils-uk-visit) · `en`
-
-Sri Lanka Police have confirmed that investigations are currently underway regarding former Presidential Secretary Saman Ekanayake in connection with the approving of funds for the foreign visit of former President Ranil Wickremesinghe, who is presently in remand custody.
-
-Deputy Inspector General of Police Kalinga Jayasinghe, who is in charge of the Police Legal Division, made this statement during a special police media briefing held today (23) regarding the arrest of Ranil Wickremesinghe and related investigations.
-
-When questioned by journalists on whether Saman Ekanayake was also scheduled to be arrested in connection with the matter, Jayasinghe stated that he could not comment, as investigations are ongoing.
-
-...
-
-[Data](articles/8d6db9d3.json)
 
 ---

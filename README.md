@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 23:06:15**
+As of **2025-08-24 23:18:35**
 
 ## Newspaper Stats
 
-*Scraped **72,091** Articles*
+*Scraped **72,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,927
-adaderanalk | 9,106
+adaderanalk | 9,107
 tamilmirrorlk | 10,656
-virakesarilk | 11,879
+virakesarilk | 11,881
 adaderanasinhalalk | 12,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,091 articles have been extended.
+61,973 (86.0%) of 72,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### ரணில் கைது : ஜனநாயக மதிப்பின் மீதான திட்டமிட்ட தாக்குதல் - சந்திரிக்கா
+
+*2025-08-24 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223278) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமை இந்த நாட்டின் ஜனநாயக மதிப்பின் மீது திட்டமிட்ட வகையில் மேற்கொண்ட தாக்குதலாகும். ஜனநாயக விரோத செயற்பாடுகளுக்கு சகல அரசியல் தலைவர்களும் எதிர்ப்பு தெரிவிக்க வேண்டும் என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க  குமாரதுங்க வலியுறுத்தியுள்ளார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமை தொடர்பில் விசேட ஊடக அறிக்கை ஒன்றை வெளியிட்டு மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமை இந்நாட்டின் ஜனநாயக மதிப்பின் மீது திட்டமிட்ட வகையில் மேற்கொண்ட தாக்குதலாகும்.இது விசேடமானதொரு நிலையாகும்.நாட்டின்  அடிப்படை ஜனநாயக நிறுவனங்களின் பலம் தொடர்பில் பாரியதொரு கவலை ஏற்பட்டுள்ளது.
+
+இவ்வாறான நிலையால் ஏற்படும் எதிர்விளைவுகள் தனி நபரையோ அல்லது அரசியல் கட்சிகளுக்கு செல்வாக்கு செலுத்துவதை காட்டிலும் அதற்கு அப்பாற்பட்ட வகையில் ஒட்டுமொத்த சமூக கட்டமைப்பின் உரிமைகளுக்கும் அச்சுறுத்தலாக அமையும்.
+
+...
+
+[Data](articles/4cbeee33.json)
+
+---
 
 ### දෙමහල් ගොඩනැගිල්ලක් ව්‍යාජ ඔප්පුවකට බදුදීමේ සිද්ධියට අදාළ නඩුවට දුන් නියෝගය
 
@@ -49,6 +67,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/28a390e2.json)
+
+---
+
+### தபால் பணிப்புறக்கணிப்பு முடிவு : கைவிரல் ரேகை ஸ்கேனர் முறைமை அமுல் - நளிந்த ஜயதிஸ்ஸ
+
+*2025-08-24 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223277) · `ta`
+
+தபால் சேவையில் கைவிரல் ரேகை பதிவு ஸ்கேனர் பொருத்தல் மற்றும் மேலதிக நேர கொடுப்பனவில் மாற்றமில்லை என்ற அரசாங்கத்தின் உறுதியான இரண்டு கோரிக்கைக்கு இணக்கம் தெரிவித்து தபால் சேவையாளர்கள் ஞாயிற்றுக்கிழமை (24) மாலையுடன் பணிப்புறக்கணிப்பு போராட்டத்தை கைவிட்டனர். நியாயமற்ற பணிப்புறக்கணிப்பு போராட்டத்துக்கு ஒட்டுமொத்த மக்களும் கடும் எதிர்ப்பை வெளிப்படுத்தியமை வரவேற்கத்தக்கது. கொழும்பு மத்திய தபால் பரிவர்த்தனை நிலையத்தில் கைவிரல் ரேகை பதிவு ஸ்கேனர் முறைமை அமுல்படுத்தப்படும் என சுகாதாரம் மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபட்டிருந்த தபால் சேவை தொழிற்சங்கத்தின் பிரதிநிதிகளுக்கும், வெகுஜன ஊடகத்துறை அமைச்சருக்கும் இடையிலான கலந்துரையாடல் ஞாயிற்றுக்கிழமை (24) வெகுஜன ஊடக அமைச்சின் காரியாலயத்தில் இடம்பெற்றது.
+
+தபால் சேவையாளர்கள் முன்வைத்த கோரிக்கைகளில் 17 கோரிக்கைகளை நிறைவேற்ற நாங்கள் இணக்கம் தெரிவித்தனர். தபால் சேவையில் கைவிரல் ரேகை பதிவு ஸ்கேனர் பொருத்தல் மற்றும் அங்கீகரிக்கப்பட்ட மேலதிக நேர கொடுப்பனவை அதிகரிக்க முடியாது என்பதில் உறுதியாக இருந்தோம்.
+
+...
+
+[Data](articles/972cad33.json)
 
 ---
 
@@ -72,7 +106,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### ரணிலின் பிணை கோரிக்கை நிராகரிக்கப்பட்டமை தவறென்று குறிப்பிடுபவர்கள் நீதிமன்றம் செல்லலாம் – நளிந்த ஜயதிஸ்ஸ
 
-*2025-08-24 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223276) · `ta`
+*2025-08-24 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223276) · `ta`
 
 முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பிணை கோரிக்கை நிராகரிக்கப்பட்டமை தவறென்று குறிப்பிடுபவர்கள் நீதிமன்றத்தில் விடயங்களை முன்வைக்கலாம். 166 இலட்சம் அரச நிதியை சாதாரண நபர் ஒருவர் முறைகேடாக பயன்படுத்தியிருந்தால் அவருக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படமாட்டாதா, ரணில் விக்கிரமசிங்க தொடர்பில் மேலதிக தகவல்கள் தேவையாயின் இன்று அவருக்கு ஆதரவாக ஒன்றிணைந்துள்ளவர்கள் கடந்த காலங்களில் ரணில் விக்கிரமசிங்க தொடர்பில் குறிப்பிட்ட விடயங்களை மீண்டும் கேட்கலாம். சந்தர்ப்பவாத அரசியல்வாதிகளை மக்கள் இனியேனும் விளங்கிக்கொள்ள வேண்டும் என சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
 
@@ -81,6 +115,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8e0208f0.json)
+
+---
+
+### European postal services suspend shipment of packages to US over tariffs
+
+*2025-08-24 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111795/european-postal-services-suspend-shipment-of-packages-to-us-over-tariffs) · `en`
+
+The end of an exemption on tariff duties for low-value packages coming into the United States is causing multiple international postal services to pause shipping as they await more clarity on the rule.
+
+The exemption, known as the “ de minimis” exemption, allows packages worth less than $800 to come into the U.S. duty free. A total of 1.36 billion packages were sent in 2024 under this exemption, for goods worth $64.6 billion, according to data from the U.S. Customs and Border Patrol Agency.
+
+It is set to expire on Friday. On Saturday, postal services around Europe announced that they are suspending the shipment of many packages to the United States amid confusion over new import duties.
+
+Postal services in Germany, Denmark, Sweden and Italy said they will stop shipping most merchandise to the U.S. effective immediately. France and Austria will follow on Monday.
+
+...
+
+[Data](articles/a98d07bf.json)
 
 ---
 
@@ -1695,57 +1747,5 @@ Following Veldkamp’s resignation, the remaining Cabinet members of his center-
 ...
 
 [Data](articles/4d03675a.json)
-
----
-
-### தொடர் சிகிச்சையில் ரணில் விக்கிரமசிங்க
-
-*2025-08-24 08:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்-சிகிச்சையில்-ரணில்-விக்கிரமசிங்க/175-363358) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு தொடர்ந்தும் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சையளிக்கப்பட்டு வருவதாகத் தெரிவிக்கப்படுகிறது.
-
-உயர் இரத்த அழுத்தம், சர்க்கரை அளவு மற்றும் மிகுந்த சோர்வு காரணமாக ரணில் விக்கிரமசிங்க நேற்று அதிதீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டார் என்று தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/0123fe91.json)
-
----
-
-### උතුරු කොරියාවෙන් නව ගුවන් ආරක්ෂක මිසයිල පද්ධතියක්
-
-*2025-08-24 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213724) · `si`
-
-උතුරු කොරියාව නව ගුවන් ආරක්ෂක මිසයිල පද්ධතියක් අත්හදා බැලූ බව එරට රාජ්‍ය මාධ්‍ය වාර්තා කර තිබේ.
-
-උතුරු කොරියානු නායක කිම් ජොන් උන්ගේ අධීක්ෂණය යටතේ මෙම නව ගුවන් ආරක්ෂක මිසයිල පද්ධතිය අත්හදා බලා ඇත.
-
-එරට රාජ්‍ය මාධ්‍ය වාර්තා කර ඇත්තේ මෙම අවි සඳහා උසස් සටන් හැකියාවක් ඇති අද්විතීය තාක්ෂණයක් භාවිත කර ඇති බවය.
-
-මෙම නව ගුවන් ආරක්ෂක මිසයිල අවි පද්ධතිවලට ප්‍රහාරක ඩ්‍රෝන යානා සහ කෲස් මිසයිල වැනි විවිධ ගුවන් ඉලක්ක වෙත වේගයෙන් ප්‍රතිචාර දැක්වීමේ උසස් සටන් හැකියාවක් ඇති බවත් ඒවායේ ක්‍රියාකාරිත්වය සහ ප්‍රතික්‍රියා මාදිලිය අද්විතීය හා විශේෂ තාක්‍ෂණය මත පදනම් වී ඇති බවත් තක්සේරු කර ඇතැයි ද එම මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
-
-◼️
-
-[Data](articles/636cfb15.json)
-
----
-
-### Derana Signal Colombo International Kite Festival to kick off today
-
-*2025-08-24 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111780/derana-signal-colombo-international-kite-festival-to-kick-off-today) · `en`
-
-All arrangements are in place for the Derana Signal Colombo International Kite Festival 2025, which will take place today (24) at the Galle Face Green in Colombo.
-
-The event, organized by TV Derana, the Sri Lanka Tourism Promotion Bureau, and the Sri Lanka Police, is expected to feature 500 local competitors along with over 50 foreign participants representing 25 countries.
-
-The festival’s official opening ceremony took place recently at the Cinnamon Grand Colombo, where the event’s theme song was also launched.
-
-The Colombo International Kite Festival, which will brighten the Colombo sky, is scheduled to commence at 1.00 p.m. today at the Galle Face Green, with competitor registration beginning at 11.00 a.m.
-
-To conclude the festival, a musical show by the band ‘Avatar’ will be held at the Galle Face Green from 8.00 p.m.
-
-◼️
-
-[Data](articles/a2a9ab3d.json)
 
 ---

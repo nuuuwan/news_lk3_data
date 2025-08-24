@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 10:35:27**
+As of **2025-08-24 10:49:23**
 
 ## Newspaper Stats
 
-*Scraped **71,999** Articles*
+*Scraped **72,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ economynextcom | 4,403
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,916
-adaderanalk | 9,094
-tamilmirrorlk | 10,625
-virakesarilk | 11,862
+adalk | 6,917
+adaderanalk | 9,095
+tamilmirrorlk | 10,628
+virakesarilk | 11,864
 adaderanasinhalalk | 12,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,999 articles have been extended.
+61,973 (86.1%) of 72,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### மிஸ் தனுஷி அமயா இந்தியாவுக்கு புறப்பட்டார்
+
+*2025-08-24 10:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிஸ்-தனுஷி-அமயா-இந்தியாவுக்கு-புறப்பட்டார்/175-363366) · `ta`
+
+இந்தியாவில் நடைபெறும் 08வது மிஸ் டீன் இன்டர்நேஷனல் போட்டியில் இலங்கையைப் பிரதிநிதித்துவப்படுத்த மிஸ் தனுஷி அமயா, கட்டுநாயக்க விமான நிலையத்திலிருந்து சனிக்கிழமை (23) அன்று இரவு புறப்பட்டார்.
+
+இந்தப் போட்டி, ஞாயிற்றுக்கிழமை (24) முதல் செப்டெம்பர் ​(01) வரை இந்தியாவின் புதுடெல்லி மற்றும் ஜெய்ப்பூரில் நடைபெற உள்ளது, இதில் உலகின் 40 நாடுகளைச் சேர்ந்த 40 அழகிகள் பங்கேற்கின்றனர்.
+
+பள்ளிப் பருவத்தில் இருக்கும் 14 வயதுடைய தனுஷி அமயா, 19 வயதுக்குட்பட்டோருக்கான உலகின் முன்னணி அழகுப் போட்டிகளில் ஒன்றான இந்தப் போட்டியில் இலங்கையைப் பிரதிநிதித்துவப்படுத்துவார்.
+
+தனுஷி   சனிக்கிழமை (23) அன்று இரவு கட்டுநாயக்க விமான நிலையத்திலிருந்து இண்டிகோ ஏர்லைன்ஸ் விமானம் 6E-1174 மூலம் இந்தியாவின் புதுடெல்லிக்கு புறப்பட்டார்.
+
+◼️
+
+[Data](articles/4b1693e0.json)
+
+---
+
+### தபாலுக்கு சிவப்பு எச்சரிக்கை
+
+*2025-08-24 10:18:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபாலுக்கு-சிவப்பு-எச்சரிக்கை/175-363365) · `ta`
+
+அரசாங்கத்தின் கொள்கைக்கு இணங்க முடியாதவர்களை தபால் திணைக்களத்தில் இருந்து நீக்கப்படுவார்கள் என்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் டாக்டர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+மத்திய அஞ்சல் பரிவர்தனை நிலையத்துக்கும், மற்ற அரசு நிறுவனங்களைப் போலவே, கைரேகை இயந்திரங்கள் கட்டாயம் என்று கூறிய அமைச்சர், மேலும் பல கைரேகை இயந்திரங்கள் அங்கு நிறுவப்படும் என்றும் கூறினார்.
+
+◼️
+
+[Data](articles/9176ccd8.json)
+
+---
+
+### ஆன்லைன் மோசடி ;இளைஞன்  கைது
+
+*2025-08-24 10:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆன்லைன்-மோசடி-இளைஞன்-கைது/175-363364) · `ta`
+
+அம்பாறை மாவட்ட சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட புறநகர் பகுதியில் ஆன்லைன் மூலம்  கொள்வனவு  செய்த பொருளை பெற்றுக் கொண்டு அதற்குரிய பணம் வழங்காது இளைஞன் தப்பி ஓடியதாக  கடந்த புதன்கிழமை (20)  அன்று முறைப்பாடு வழங்கப்பட்டிருந்தது.
+
+ஆன்லைன் மூலம் ரூபாய் 45000 பெறுமதியான பொருளை  கொள்வனவு செய்து  உரிய பணத்தை வழங்காமல் தப்பியோடிய  இளைஞனை  சம்மாந்துறை பொலிஸார் கைது செய்துள்ளனர்.
+
+இதற்கமைய   சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரி கே.டி.எஸ் ஜெயலத்தின் வழிகாட்டலில் செயற்பட்ட பல்வேறு முறைப்பாட்டு பிரிவு பொறுப்பதிகாரி எம்.எச்.எம்.ஹசீப் தலைமையிலான பொலிஸார்  விசாரணைகளை மேற்கொண்டு  சம்மாந்துறை 01 பகுதியைச் சேர்ந்த20 வயதுடைய இளைஞனை கைது செய்தனர்.
+
+இதன் போது கைதான  இளைஞனிடம் இருந்து ஆன்லைன்   மூலம்  கொள்வனவு செய்யப்பட்ட  பொருள்  மீட்கப்பட்டுள்ளது டன் சந்தேக நபர் உள்ளிட்ட சான்றுப் பொருள்கள் வெள்ளிக்கிழமை  (22) அன்று சம்மாந்துறை நீதிவான் நீதிமன்றத்தில் சட்ட நடவடிக்கைக்காக ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/fc1af58b.json)
+
+---
 
 ### மின்னல் தாக்கத்தில் தந்தை பலி
 
@@ -76,6 +126,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பொரலஸ்கமுவவில் துப்பாக்கிச் சூடு ; ஒருவர் பலி
+
+*2025-08-24 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223233) · `ta`
+
+பொரலஸ்கமுவ, மாலனி புலத்சிங்கள வீதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் 25 வயதுடைய இளைஞர் ஒருவர் சுட்டுக் கொல்லப்பட்டுள்ளதாகவும், மற்றொருவர் காயமடைந்துள்ளதாகவும் பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+இன்று ஞாயிற்றுக்கிழமை (24) அதிகாலை 12.30 மணியளவில் முச்சக்கர வண்டியில் வந்த அடையாளம் தெரியாத துப்பாக்கிதாரியால் இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+
+உயிரிழந்தவர் கல்கிஸ்ஸை பகுதியைச் சேர்ந்த 25 வயதுடைய கிஹான் துலான் பெரேரா என அடையாளம் காணப்பட்டுள்ளார்.
+
+பொரலஸ்கமுவ பகுதியில் நடந்த இசை நிகழ்ச்சியில் கலந்து கொண்டுவிட்டு, எட்டு பேருடன் வீதியில் நடந்து சென்று கொண்டிருந்தபோது, முச்சக்கர வண்டியில் வந்த துப்பாக்கிதாரி , துப்பாக்கிச் சூட்டை நடத்தியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+இசை நிகழ்ச்சியின் போது ஏற்பட்ட வாக்குவாதத்தைத் தொடர்ந்து துப்பாக்கிச் சூடு நடந்திருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+...
+
+[Data](articles/eb9b4ec9.json)
+
+---
+
 ### ඇතැම් ඖෂධ හිඟ බව සෞඛ්‍ය ඇමති කියයි
 
 *2025-08-24 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213726) · `si`
@@ -105,6 +175,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/947b4efb.json)
+
+---
+
+### North Korean leader oversees new missile test, state media says
+
+*2025-08-24 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111783/north-korean-leader-oversees-new-missile-test-state-media-says) · `en`
+
+North Korean state media has said two new air defence missiles have been fired in a test overseen by the country’s leader Kim Jong Un.
+
+The weapons had “superior combat capability” and used a “unique technology”, the Korean Central News Agency (KCNA) said, without adding details.
+
+The launches, carried out on Saturday, “proved that the technological features of two types of projectiles are very suitable for destroying various aerial targets” including drones and cruise missiles, KCNA said.
+
+The test comes hours after South Korea confirmed it fired warning shots on Tuesday at North Korean soldiers who briefly crossed the Demilitarised Zone (DMZ) separating the countries.
+
+United Nations Command said about 30 North Korean troops crossed the heavily-fortified border between the north and south, Yonhap News Agency said.
+
+South Korea and the United States have been conducting large-scale joint military exercises in the region since Monday.
+
+...
+
+[Data](articles/9b6aa1c9.json)
+
+---
+
+### இந்திய ஒப்பந்தம் ஆபத்து! மைத்திரியின் கருத்துக்களால் சர்ச்சை
+
+*2025-08-24 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/223226) · `ta`
+
+ஈஸ்டர் தாக்குதலின் பிரதான சூத்திரதாரி யார் என்பது அனைவருக்கும் தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மீண்டும் அரசியல் சர்ச்சையை கிளப்பியுள்ளார். இந்த தாக்குதலுடன் தொடர்புடையவர்கள் குறித்து அனைத்து அரசாங்கங்களும், இராணுவமும், புலனாய்வுப் பிரிவுகளும் அறிந்திருப்பதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0b0c80a8.json)
 
 ---
 
@@ -294,6 +398,22 @@ Wickremesinghe was arrested over using government money to pay for his travel an
 
 ---
 
+### ඕනෑම වගාවක් සඳහා කෘෂි රක්ෂණ මණ්ඩලයෙන් රක්ෂණාවරණයක්
+
+*2025-08-24 06:44:20* · [`adalk`](https://www.ada.lk/breaking_news/ඕනෑම-වගාවක්-සඳහා-කෘෂි-රක්ෂණ-මණ්ඩලයෙන්-රක්ෂණාවරණයක්/11-418029) · `si`
+
+වෙළෙඳපොළ ඉල්ලුම අනුව වගා කරන ඕනෑම වගාවක් සඳහා කෘෂි රක්ෂණ මණ්ඩලයෙන් රක්ෂණාවරණයක් ලබා දීමට පසුගියදා පැවැති ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ දී යොජනා වී තිබේ.
+
+කෘෂිකාර්මික අවදානම් කළමනාකරණ හා සමාජ සුභසාධනය අරමුණු කර ගනිමින් කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍යාංශය යටතේ ක්‍රියාත්මක වන කෘෂිකර්ම හා ගොවිජන රක්ෂණ මණ්ඩලය මගින් ලංකාව තුළ වගා කරන ඕනෑම වගාවක් සඳහා වෙළඳපොළ ඉල්ලුම අනුව මෙම රක්ෂණාවරණය ලබාදීමට යෝජනා කර ඇත. මෙහිදී නව රක්ෂණ යෝජනා ක්‍රම කිහිපයක් හඳුන්වා දී ඇත. කුරුඳු වගා රක්ෂණ යෝජනා ක්‍රමය, රබර් වගාරක්ෂණ යෝජනා ක්‍රමය, බඳුන්ගත මඤ්ඤොක්කා වගා රක්ෂණ යෝජනා ක්‍රමය, කෙසෙල් වගාරක්ෂණ යෝජනා ක්‍රමය, බිම්මල් වගාව සඳහා රක්ෂණ යෝජනා ක්‍රමය, පොල් වගාව සඳහා රක්ෂණ යෝජනා ක්‍රමය මේ යටතේ හඳුන්වාදී ක්‍රියාත්මක කෙරේ.
+
+මෙයට අමතරව ජාතික වගා රක්ෂණ යෝජනා ක්‍රමය,වගා ණය රක්ෂණ යෝජනා ක්‍රමය,ව්‍යාපෘති හා ගොවිපළ සඳහා විශේෂ යෝජනා ක්‍රම ක්‍රියාත්මකය . මෙහිදී විශේෂ යෝජනා ක්‍රමය යටතේ ආවරණය වන අවදානම් තත්ත්ව ලෙස කාළගුණික අවදානම් ,කෘමි හානි,රෝග පළිබෝධ ,වන අලි හානි,සත්ව හානි හඳුන්වා දිය හැකිය.
+
+...
+
+[Data](articles/af6bf672.json)
+
+---
+
 ### Few showers expected in parts of the island
 
 *2025-08-24 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111779/few-showers-expected-in-parts-of-the-island) · `en`
@@ -316,7 +436,7 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 *2025-08-24 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111778/youth-shot-dead-in-boralesgamuwa-another-injured-) · `en`
 
-A 25-year-old youth has been shot dead while another person has been injured in a shooting incident that occurred in the Malani Bulathsinhala Road at Boralesgamuwa, the Police Spokesman said.
+A 21-year-old youth has been shot dead while another person has been injured in a shooting incident that occurred in the Malani Bulathsinhala Road at Boralesgamuwa, the Police Spokesman said.
 
 The shooting, which was reportedly carried out by an unidentified gunman who arrived in a three-wheeler, occurred at around 12.30 a.m. today (24), according to police.
 
@@ -1693,137 +1813,5 @@ He emphasized that the people continue to support political leaders, adding, “
 ...
 
 [Data](articles/31e6f2d7.json)
-
----
-
-### Social media predictions of legal outcomes are contempt of court - Sajith
-
-*2025-08-23 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111763/social-media-predictions-of-legal-outcomes-are-contempt-of-court-sajith-) · `en`
-
-Opposition Leader Sajith Premadasa claims that an individual making predictions on social media regarding the implementation of the law is an act of contempt of court.
-
-He made these remarks while speaking to the media this morning (23), following his visit to the Magazine New Remand Prison Hospital to check on the well-being of former President Ranil Wickremesinghe.
-
-Premadasa emphasized that, at a time when the process of justice and the rule of law are being carried out, a third party not mentioned in the law cannot predict the final outcome.
-
-He described the situation as “very dangerous” and stressed that, in order to protect democracy, the public must have confidence in the proper implementation of the law.
-
-“The proper implementation of the law and the public’s understanding of it are both crucial. A serious situation has arisen due to a person making predictions on social media,” Sajith Premadasa said.
-
-...
-
-[Data](articles/ffc5796d.json)
-
----
-
-### මහින්ද කනගාටුවෙන්
-
-*2025-08-23 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213695) · `si`
-
-දේශපාලන නායකයින්ව සුළු වැරදිවලට සිරගත කිරීම ගැන තමා කනගාටුවට පත්වෙන බව හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පවසයි.
-
-බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් බැලීමට ගොස් බන්ධනාගාරයෙන් පිටතට පැමිණි පසු මාධ්‍ය වෙත අදහස් දක්වමින් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මේ බව කියා සිටියේය.
-
-"දේශපාලනය කරනවා නම් ඕක උරුමයි...එතුමා ඒකට මුහුණදෙනවා" යනුවෙන් ද මහින්ද රාජපක්ෂ මහතා පැවසීය.
-
-රජයේ ක්‍රියාකලාපය පිළිබඳ ජනතාව හොඳින් තේරුම් ගෙන ඇති බවත් මෙවැනි ක්‍රියාවන් පළිගැනීමක් මිස වෙන ක්‍රියාවක් නොවන බව ද පැවසු මහින්ද රාජපක්ෂ මහතා, ජනතාව තවමත් තමාට ආදරය කරන බව ද කියා සිටියේය.
-
-"අපි මිනිස්සුන්ට ආදරේ කරනවා. ඒ නිසා මිනිස්සු අපිට ආදරේ කරනවා..."
-
-◼️
-
-[Data](articles/e2fea36c.json)
-
----
-
-### සිවිල් ගුවන් සේවා අධිකාරිය භාණ්ඩාගාරයට දිය යුතු රු බිලියන 20ක් දීලා නෑ
-
-*2025-08-23 11:13:34* · [`adalk`](https://www.ada.lk/breaking_news/සිවිල්-ගුවන්-සේවා-අධිකාරිය-භාණ්ඩාගාරයට-දිය-යුතු-රු-බිලියන-20ක්-දීලා-නෑ/11-418024) · `si`
-
-තම ප්‍රධානතම කාර්යභාරය වන “නියාමන” කාර්ය නිසියාකාරව සිදුකිරීමට නම් පවතින නීති රාමු තුළ කටයුතු කරන ලෙස පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්)   ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියට උපදෙස් ලබාදෙන ලදී
-
-ඒ ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ 2022, 2023 වර්ෂයන්හි විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගිය 20 වැනි දා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-...
-
-[Data](articles/cab4339b.json)
-
----
-
-### සමාජ මාධ්‍ය තුළ අනාවැකි පළ කිරීම අධිකරණයට අපහාස කිරීමක් -සජිත්
-
-*2025-08-23 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213694) · `si`
-
-සමාජ මාධ්‍ය තුළ එක් පුද්ගලයෙකු නීතිය ක්‍රියාත්මක වීම සම්බන්ධයෙන් අනාවැකි පලකිරීම තුළ අධිකරණයට අපහාසයක් සිදුකර ඇතැයි විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
-
-අද (23) උදෑසන හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුවදුක් බැලීමට නව මැගසින් බන්ධනාගාරය වෙත ගොස් පිටතට පැමිණි අවස්ථාවේ දී මාධ්‍ය වෙත අදහස් දක්වමින් සජිත් ප්‍රේමදාස මහතා මෙම අදහස් පළ කළේය.
-
-යුක්තිය පසඳලීමේ ක්‍රියාවලිය සහ නීතියේ ආධිපත්‍ය ක්‍රියාත්මක වන මොහොතක නීතියේ සඳහන් නොවන තුන්වන පාර්ශවයකට නීතියේ අවසන් ක්‍රියාවලිය පුරෝකථනය කළ නොහැකි බව ද සජිත් ප්‍රේමදාස මහතා පැවසීය.
-
-එය බොහෝම භයානක තත්ත්වයක් බවත් ප්‍රජාතන්ත්‍රවාදය ආරක්ෂා වීමට නම් රටේ ජනතාව නීතිය ක්‍රියාත්මක වීමේ ක්‍රමවේදය නිවැරදි බවට විශ්වාස කළ යුතු බව ද සජිත් ප්‍රේමදාස මහතා කියා සිටියේය.
-
-නීතිය ක්‍රියාත්මක වීම මෙන්ම ජනතාව ඒ පිළිබ﻿ඳව ඇති කරගන්නා අවබෝධය යන කරුණු දෙකම ඉතා වැදගත් වන බවත් සමාජ මාධ්‍යවල පුද්ගලයෙකු අනාවැකි පළ කිරීම තුළ අදාළ ක්‍රියාවලිය තුළ බරපතළ තත්ත්වයක් හට ගෙන ඇතැයි ද සජිත් ප්‍රේමදාස මහතා පැවසීය.
-
-...
-
-[Data](articles/c78a728a.json)
-
----
-
-### Ex-President Mahinda Rajapaksa visits Ranil in Prison Hospital
-
-*2025-08-23 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111762/ex-president-mahinda-rajapaksa-visits-ranil-in-prison-hospital) · `en`
-
-Former President Mahinda Rajapaksa visited former President Ranil Wickremesinghe, who is currently admitted to the Prison Hospital.
-
-Earlier today (23) at around 9:30 a.m., Opposition Leader Sajith Premadasa and Samagi Jana Balawegaya MP Nalin Bandara also visited Wickremesinghe at the Prison Hospital.
-
-Several politicians had visited the Magazine New Remand Prison last night (22) following the remand of the former president. Former ministers Duminda Dissanayake and Prasanna Ranatunga, along with a group of supporters including MP Chamara Sampath, arrived at the prison.
-
-However, they were not permitted to enter and were later captured on camera while waiting outside.
-
-Former President Wickremesinghe, who was placed in remand custody, was admitted to the Prison Hospital last night (22) on medical advice.
-
-◼️
-
-[Data](articles/eb51f5cb.json)
-
----
-
-### Voice of Dr. Nanda Malini is an intangible cultural heritage of this country – PM Harini
-
-*2025-08-23 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111761/voice-of-dr-nanda-malini-is-an-intangible-cultural-heritage-of-this-country-pm-harini) · `en`
-
-A special felicitation program organized by the Sri Lanka Broadcasting Corporation (SLBC) in honor of Dr. Nanda Malini was held on August 22 at the Kumaranatunga Munidasa Hall of the Corporation, under the patronage of Prime Minister Dr. Harini Amarasuriya.
-
-The purpose of this program was to pay tribute to the great service rendered by Dr. Nanda Malini for more than nearly seven decades to the field of music in Sri Lanka as well as to the Sri Lanka Broadcasting Corporation, according to the Prime Minister’s Media Division.
-
-As a token of appreciation, a building of the Corporation was also named after her and ceremonially opened.
-
-Accordingly, within the premises of the Corporation, a portrait of Dr. Nanda Malini was unveiled, and its 9th Cabin was officially declared open under the name Dr. Nanda Malini Building” by the Prime Minister together with Dr. Nanda Malini herself.
-
-...
-
-[Data](articles/fdaec25e.json)
-
----
-
-### රනිල්ව බලන්න මහින්දත් එයි
-
-*2025-08-23 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213693) · `si`
-
-බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් බැලීමට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මීට සුළු වේලාවකට පෙර පැමිණ තිබේ.
-
-අද (23) උදෑසන 9.30ට පමණ සජිත් ප්‍රේමදාස මහතා සහ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා ද හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව බැලීමට මැගසින් බන්ධනාගාරය වෙත පැමිණ තිබුණි.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස ඊයේ (22) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
-
-ඒ අනුව රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව වෛද්‍ය උපදෙස් මත බන්ධනාගාර රෝහලට ඇතුළත් කර තිබුණි.
-
-'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
-
-...
-
-[Data](articles/9631c721.json)
 
 ---

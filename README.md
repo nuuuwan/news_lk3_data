@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 06:38:55**
+As of **2025-08-24 07:18:24**
 
 ## Newspaper Stats
 
-*Scraped **71,976** Articles*
+*Scraped **71,978** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 610
 bbccomsinhala | 677
-colombotelegraphcom | 736
+colombotelegraphcom | 737
 economynextcom | 4,402
 islandlk | 4,432
 dailymirrorlk | 4,733
@@ -20,17 +20,39 @@ adalk | 6,913
 adaderanalk | 9,089
 tamilmirrorlk | 10,619
 virakesarilk | 11,862
-adaderanasinhalalk | 12,463
+adaderanasinhalalk | 12,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,976 articles have been extended.
+61,973 (86.1%) of 71,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### බොරලැස්ගමුවේ වෙඩි තැබීමකින් අයෙක් මරුට
+
+*2025-08-24 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213722) · `si`
+
+බොරලැස්ගමුව මාලනී බුලත් සිංහල මාවතේදී අද (24) අලුයම සිදුවූ වෙඩි තැබීමකින් තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ අද අලුයම 12.30ට පමණ මෙම වෙඩි තැබීම සිදුව ඇති බවය.
+
+වෙඩි තැබීමෙන් මියගොස් ඇත්තේ ගල්කිස්ස ප්‍රදේශයේ පදිංචිව සිටි ගිහාන් දුලාන් පෙරේරා නම් 25 හැවිරිදි තරුණයෙකි.
+
+බොරලැස්ගමුව ප්‍රදේශයේ පැවැති සංගීත සංදර්ශනයක් නරඹා මියගිය තරුණයා ඇතුළු පුද්ගලයින් 9 දෙනෙකු මාර්ගයේ පා ගමනින් යමින් සිටියදී ත්‍රීරෝද රථයකින් පැමිණි පුද්ගලයෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇතැයි පොලීස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+සංගීත සංදර්ශනයේදී ඇතිවූ ආරවුලක් හේතුවෙන් මෙම වෙඩි තැබීම සිදුව ඇතැයි පොලීසිය සැකපළ කරයි.
+
+මේ වන විට සිදුකළ විමර්ශනවලදී දෙපාර්ශ්වයේම යම් සංවිධානාත්මක කල්ලියකට අයත් පිරිසක් බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි උදය කුමාර වුට්ලර් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/8f8af50b.json)
+
+---
 
 ### දිස්ත්‍රික්ක කිහිපයකට වැසි වාර කිහිපයක්
 
@@ -79,6 +101,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9dda5cca.json)
+
+---
+
+### Is It Justified To Apprehend Ranil?
+
+*2025-08-24 01:04:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-it-justified-to-apprehend-ranil/) · `en`
+
+Sri Lanka’s former president Ranil Wickremesinghe has been arrested on allegations of misusing public funds during his tenure in office. His arrest marks the first time a former head of state in the country has been taken into custody, making him the most high-profile political figure currently under investigation for corruption under President Anura Kumara Dissanayake’s government.
+
+Mr. Wickremesinghe has been remanded in custody until a second court hearing scheduled for Tuesday.
+
+The move has stirred intense debate, particularly given the history of the Janatha Vimukthi Peramuna (JVP), the party now in power. During the 1987–1989 insurrection, the JVP was widely held responsible for the killings of members of the defence forces, academics, politicians, artists, and media professionals. The party also launched violent attacks on government institutions and other public assets, while ordering the execution of civilians who refused to follow its directives.
+
+...
+
+[Data](articles/f05e27a1.json)
 
 ---
 
@@ -1825,35 +1863,5 @@ The trade union action was launched on Sunday (17), over 19 demands.
 ...
 
 [Data](articles/ceb9a5eb.json)
-
----
-
-### තැපැල් වර්ජනය 6 වන දිනටත් අඛණ්ඩව
-
-*2025-08-23 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213683) · `si`
-
-තැපැල් සේවකයින් ආරම්භ කළ තැපැල් වර්ජනය 06 වන දිනටත් අද (23) දිනයේදී ක්‍රියාත්මක කෙරෙයි.
-
-ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා පැවසුවේ මධ්‍යම තැපැල් හුවමාරුවේ ගොඩගසා තිබූ තැපැල් මලු අනීතික ආකාරයෙන් රැගෙන යාමට කටයුතු කිරීම සම්බන්ධයෙන් නීතිමය ක්‍රියාමාර්ග ගන්නා බවය.
-
-◼️
-
-[Data](articles/f6e38f4d.json)
-
----
-
-### Showers or thundershowers expected in several provinces after 2pm today
-
-*2025-08-23 06:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111754/showers-or-thundershowers-expected-in-several-provinces-after-2pm-today) · `en`
-
-Showers or thundershowers will occur at several places in the Northern, North-Central, Central, Uva and Eastern provinces after 2:00 p.m. today (23), the Department of Meteorology said.
-
-A few showers can also be expected in the Western and Sabaragamuwa provinces and in the Galle and Matara districts, the Met. Department said.
-
-The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/372cd69e.json)
 
 ---

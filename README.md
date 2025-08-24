@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 18:09:39**
+As of **2025-08-24 18:31:13**
 
 ## Newspaper Stats
 
-*Scraped **72,065** Articles*
+*Scraped **72,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailyftlk | 5,077
 adalk | 6,923
 adaderanalk | 9,103
 tamilmirrorlk | 10,652
-virakesarilk | 11,870
-adaderanasinhalalk | 12,483
+virakesarilk | 11,871
+adaderanasinhalalk | 12,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,065 articles have been extended.
+61,973 (86.0%) of 72,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### හෙට ප්‍රදේශ කිහිපයක උණුසුම ඉහළට
+
+*2025-08-24 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213743) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+එම දෙපාර්තමේන්තුවේ, ස්වභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් හෙට (25) දිනය සඳහා වලංගු වන පරිදි, 2025 අගෝස්තු 24 දින ප.ව. 03.30 ට නිකුත් කරන ලදී.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත් සහ හම්බන්තොට, මොනරාගල දිස්ත්‍රික්ක සඳහා විමසිලිමත්වන ලෙස එම නිවේදනයෙන් දැනුම් දී ඇත.
+
+එහි දැක්වෙන්නේ උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවය.
+
+◼️
+
+[Data](articles/0369c3ac.json)
+
+---
 
 ### නයිජිරියානු ගුවන් ප්‍රහාරයකින්  ජිහාඩ් සටන්කාමීන් 35ක් මරුට
 
@@ -47,6 +65,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2de651c7.json)
+
+---
+
+### தபால் ஊழியர்களின் பணிப்பகிஷ்கரிப்பு நிறைவு
+
+*2025-08-24 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/223262) · `ta`
+
+தபால் தொழிற்சங்கத்தினர் முன்னெடுத்து வந்த பணிப்பகிஷ்கரிப்பு உடனவோபி அமுலுக்கு வரும் வகையில் நிறைவுக்கு வந்துள்ளது.
+
+அமைச்சருடனான கலந்துரையாடலுக்கு பின்னர் ஏற்பட்ட இணக்கப்பாடுகளுக்கு அமைய, இதுவரை முன்னெடுக்கப்பட்டு வந்த பணிப்பகிஷ்கரிப்பு நிறைவுக்கு வந்துள்ளதாக ஒன்றிணைந்த தபால் தொழிற்சங்க முன்னணியின் இணைப்பாளர் சிந்தக்க பண்டார தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ffdee8a2.json)
 
 ---
 
@@ -1729,41 +1761,5 @@ Secretary to the Prime Minister, Mr. Pradeep Saputanthri, was also present on th
 ◼️
 
 [Data](articles/ba8693c2.json)
-
----
-
-### ரணிலுக்கு நிதியை அங்கீகரித்த சமன் ஏக்கநாயக்க தொடர்பிலும் விசாரணை
-
-*2025-08-23 20:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-நிதியை-அங்கீகரித்த-சமன்-ஏக்கநாயக்க-தொடர்பிலும்-விசாரணை/175-363342) · `ta`
-
-ரணில் விக்ரமசிங்கவின் வெளிநாட்டுப் பயணத்திற்கான நிதியை அங்கீகரித்தமை தொடர்பாக முன்னாள் ஜனாதிபதியின் செயலாளர் சமன் ஏகநாயக்கவுக்கு எதிராக தற்போது விசாரணைகள் நடைபெற்று வருவதாக பொலிஸ் தலைமையக சட்டப்பிரிவுக்கு பொறுப்பான பிரதி பொலிஸ்மாஅதிபர் காலிங்க ஜயசிங்க இன்று தெரிவித்துள்ளார்.
-
-விசாரணைகள் தொடருந்து நடந்து வருவதால், சமன் ஏக்கநாயக்க கைது செய்யப்பட்டுவாரா என்பது குறித்து எதுவும் கூற முடியாது என்றும் அவர் தெரிவித்தார். R
-
-◼️
-
-[Data](articles/7095011b.json)
-
----
-
-### Former President Ranil Wickremesinghe admitted to ICU
-
-*2025-08-23 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111776/former-president-ranil-wickremesinghe-admitted-to-icu-) · `en`
-
-Former President Ranil Wickremesinghe, who was initially receiving treatment at the Prison Hospital, has been transferred to the Colombo National Hospital and admitted to the Intensive Care Unit (ICU).
-
-Hospital sources reported that the former President was moved to the ICU due to dehydration.
-
-The transfer was carried out on the recommendation of Prison Hospital doctors following medical examinations.
-
-Wickremesinghe, who was remanded until August 26 after being arrested by the Criminal Investigation Department (CID), was admitted to the Prison Hospital last night (22).
-
-He was placed under medical care there due to high blood pressure and elevated blood sugar levels.
-
-Prison Hospital doctors, who have been continuously monitoring his health, also recommended that he be permitted to receive meals from home. Approval for this arrangement has reportedly been granted by Prison Headquarters.
-
-◼️
-
-[Data](articles/a7982cc8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 10:12:04**
+As of **2025-08-24 10:25:51**
 
 ## Newspaper Stats
 
-*Scraped **71,996** Articles*
+*Scraped **71,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,916
 adaderanalk | 9,094
-tamilmirrorlk | 10,623
+tamilmirrorlk | 10,625
 virakesarilk | 11,862
-adaderanasinhalalk | 12,468
+adaderanasinhalalk | 12,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 71,996 articles have been extended.
+61,973 (86.1%) of 71,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### மின்னல் தாக்கத்தில் தந்தை பலி
+
+*2025-08-24 10:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கத்தில்-தந்தை-பலி/175-363363) · `ta`
+
+நெல் வயலில் மின்னல் தாக்கத்தினால்  மூன்று பிள்ளைகளின் தந்தை ஒருவர் (வயது 53) உயிரிழந்துள்ளதாக கஹடகஸ்டிகிலிய பொலிஸார் தெரிவிக்கின்றனர்.
+
+ரத்மலை, உப்புல்தெனியவில் வசித்து வந்த மூன்று பிள்ளைகளின் தந்தையான குணசேனகே உபாலி சமரவிக்ரம (53) என்பவரே உயிரிழந்துள்ளார்.
+
+ரத்மலையில் உள்ள நெல் வயலில் மேய்ச்சலுக்காக கட்டப்பட்டிருந்த தனது மாடுகளை  வீட்டிற்கு கொண்டு வருவதற்காக கனமழை பெய்த போதிலும் வயலுக்குச் சென்றபோது அந்த நபர் மின்னல் தாக்கத்துக்கு உள்ளாகியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர். மின்னல் தாக்கத்தினால் பலத்த தீக்காயங்களுக்கு ஆளான நபர் தம்மன்னாவ மருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்தார்.
+
+◼️
+
+[Data](articles/cf0e851e.json)
+
+---
+
+### ரணில் விவகாரம்: எதிர்க்கட்சித் தலைவர்கள் அவசரமாக கூடுகின்றனர்
+
+*2025-08-24 10:08:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விவகாரம்-எதிர்க்கட்சித்-தலைவர்கள்-அவசரமாக-கூடுகின்றனர்/175-363362) · `ta`
+
+எதிர்க்கட்சித் தலைவர்கள் கொழும்பில் இன்று (24) அவசரமாக  கூடுகின்றனர். "அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிப்போம்" என்ற கருபொருளிலேயே இந்த கூட்டம் நடைபெறவுள்ளது.
+
+தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் சார்பாக இந்தக் கூட்டம் நடைபெறுகிறது.
+
+முன்னாள் ஜனாதிபதிகள் உட்பட எதிர்க்கட்சித் தலைவர்கள் கலந்து கொள்ளும் இந்தக் கூட்டம், கொழும்பில் உள்ள அமரி ஹோட்டலில் இன்று காலை 10 மணியளவில் நடைபெற உள்ளது.
+
+◼️
+
+[Data](articles/d8a86393.json)
+
+---
+
+### විපක්ෂයේ දේශපාලන පක්ෂ නියෝජිතයින් රැසක් එක්ව විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් - සජීව විකාශය
+
+*2025-08-24 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213727) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන බන්ධනාගාර ගත කිරීමේ සිද්ධිය මුල් කරගනිමින් විපක්ෂයේ දේශපාලන පක්ෂ නියෝජිතයින් රැසක් එක්ව මේ වන විට කොළඹදී විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/78aad070.json)
+
+---
 
 ### ඇතැම් ඖෂධ හිඟ බව සෞඛ්‍ය ඇමති කියයි
 
@@ -1781,61 +1825,5 @@ Accordingly, within the premises of the Corporation, a portrait of Dr. Nanda Mal
 ...
 
 [Data](articles/9631c721.json)
-
----
-
-### Sajith Premadasa visits ex-President Ranil in Prison Hospital
-
-*2025-08-23 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111760/sajith-premadasa-visits-ex-president-ranil-in-prison-hospital-) · `en`
-
-Opposition Leader Sajith Premadasa today visited former President Ranil Wickremesinghe, who is currently admitted to the Prison Hospital.
-
-Several politicians also visited the Magazine New Remand Prison last night (22) following the remand of the former President.
-
-Former ministers Duminda Dissanayake and Prasanna Ranatunga, along with a group of supporters including MP Chamara Sampath, arrived at the prison.
-
-However, they were not permitted to enter and were later captured on camera while waiting outside.
-
-Former President Wickremesinghe, who was placed in remand custody, was admitted to the prison hospital last night (22) on medical advice.
-
-◼️
-
-[Data](articles/64538fdd.json)
-
----
-
-### රනිල් බලන්න සජිත් එයි
-
-*2025-08-23 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213691) · `si`
-
-බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුව දුක් බැලීමට විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා පැමිණ තිබේ.
-
-අද (23) උදෑසන 9.30ට පමණ සජිත් ප්‍රේමදාස මහතා සහ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා ද මැගසින් බන්ධනාගාරය වෙත පැමිණ තිබුණි.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස ඊයේ (22) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
-
-ඒ අනුව රක්ෂිත බන්ධනාගාර ගත කෙරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව වෛද්‍ය උපදෙස් මත බන්ධනාගාර රෝහලට ඇතුළත් කර තිබුණි.
-
-'අද දෙරණ' සිදුකළ සොයා බැලීමකදී අණාවරණය වූයේ රුධිර පීඩනය ඉහළ යාම සහ සීනි මට්ටම ඉහළ යාම හේතුවෙන් මෙලෙස රනිල් වික්‍රමසිංහ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර ඇති බවය.
-
-මෙරට ඉතිහාසයේ විධායක ජනාධිපතිවරයෙක් අත්අඩංගුවට පත්වූ පළමු අවස්ථාව මෙය වන අතර, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ දහවල් අත්අඩංගුවට ගනු ලැබීය.
-
-...
-
-[Data](articles/1feb87cf.json)
-
----
-
-### ශ්‍රී ලාංකික අධ්‍යයන 20ක් ඇතුළත් ලොව ප්‍රකට කොට්ලර්ගේ ග්‍රන්ථය එළිදකී
-
-*2025-08-23 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213690) · `si`
-
-ලොව ප්‍රකට මහාචාර්ය පිලිප් කොට්ලර් විසින් රචිත ශ්‍රී ලාංකික අධ්‍යයන 20ක් ඇතුළත් 'Essentials of Modern Marketing' ග්‍රන්ථය ඊයේ (22) එළිදක්වා තිබේ.
-
-එහි විශේෂාංග අතර, ටීවි දෙරණ නාළිකාව පිළිබඳව ද ඇතුළත්ව තිබීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/bd0f9a73.json)
 
 ---

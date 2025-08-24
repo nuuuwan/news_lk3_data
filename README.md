@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 22:08:03**
+As of **2025-08-24 22:21:42**
 
 ## Newspaper Stats
 
-*Scraped **72,088** Articles*
+*Scraped **72,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,926
+adalk | 6,927
 adaderanalk | 9,106
 tamilmirrorlk | 10,656
 virakesarilk | 11,879
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,088 articles have been extended.
+61,973 (86.0%) of 72,089 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f10fc6dd.json)
+
+---
+
+### ඔස්ට්‍රේලියාවට ලකුණු 276ක ජයක් - තරගාවලියේ ජය ද.අප්‍රිකාවට
+
+*2025-08-24 20:07:52* · [`adalk`](https://www.ada.lk/sports/ඔස්ට්‍රේලියාවට-ලකුණු-276ක-ජයක්---තරගාවලියේ-ජය-ද-අප්‍රිකාවට/9-418040) · `si`
+
+සංචාරක දකුණු අප්‍රිකා කණ්ඩායමට එරෙහි තුන්වන හා අවසන් එක්දින ක්‍රිකට් තරගයෙන් ලකුණු 276ක ජයක් වාර්තා කිරීමට ඔස්ට්‍රේලියානු කණ්ඩායම අද (24දා) සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඕස්ට්‍රේලියානු කණ්ඩායම පන්දුවාර 50 අවසනයේ කඩුලු 2ක් පමණක් දැවී ලකුණු 431ක් රැස් කිරීමට සමත් විය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ දකුණු අප්‍රිකා කණ්ඩායමට පන්දුවාර 24යි පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වූයේ ලකුණු 155ක් පමණී.
+
+කෙසේ වෙතත් පළමු තරග 2ම ජයගත් දකුණු අප්‍රිකා කණ්ඩායම 2ට 1ක් ලෙස තරගාවලිය ජයග්‍රහණය කරනු ලැබිණි.
+
+◼️
+
+[Data](articles/dc498293.json)
 
 ---
 
@@ -1725,27 +1743,5 @@ To conclude the festival, a musical show by the band ‘Avatar’ will be held a
 ◼️
 
 [Data](articles/3d2955ab.json)
-
----
-
-### Sri Lanka ex-President transferred from prison to state hospital
-
-*2025-08-24 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-transferred-from-prison-to-state-hospital-238094/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe who was arrested and remanded over allegations of mis-using state property has been transferred to the national hospital in Colombo, an associate said.
-
-Wickremesinghe initially admitted to a paying ward after in the National Hospital but was later transferred to the Emergency Treatment Unit as his blood pressure was high and he required more monitoring.
-
-Doctors were considering moving him to the ICU if required, the associate said.
-
-He was transferred to the national hospital from the prison hospital.
-
-Wickremesinghe has complications including high blood pressure and a heart condition, court was told when bail was requested.
-
-Wickremesinghe was arrested over using government money to pay for his travel and accommodation and that of his staff including bodyguards, during a stop-over in London.   (Colombo/Aug22/2025)
-
-◼️
-
-[Data](articles/94713a17.json)
 
 ---

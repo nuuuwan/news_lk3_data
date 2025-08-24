@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 13:06:51**
+As of **2025-08-24 13:17:35**
 
 ## Newspaper Stats
 
-*Scraped **72,024** Articles*
+*Scraped **72,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,918
-adaderanalk | 9,095
+adaderanalk | 9,099
 tamilmirrorlk | 10,639
 virakesarilk | 11,865
 adaderanasinhalalk | 12,473
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,473
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,024 articles have been extended.
+61,973 (86.0%) of 72,028 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3e400133.json)
+
+---
+
+### GMOA to launch island-wide strike tomorrow
+
+*2025-08-24 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111787/gmoa-to-launch-island-wide-strike-tomorrow) · `en`
+
+The Government Medical Officers’ Association (GMOA) has announced that it will launch an island-wide strike in all government hospitals from 8.00 a.m. tomorrow (August 25).
+
+The GMOA says the strike is being launched considering the risk of hospitals in remote areas closing down, the direct influence exerted by the government on patients to purchase scarce medicines, and the threat of the collapse of the free healthcare system caused by the failure to provide hospitals with quality medicines and essential equipment.
+
+In a statement, the Government Medical Officers’ Association (GMOA) claimed that the process of transferring doctors and assigning them to remote areas has almost completely collapsed, owing to the irregular, inefficient, and non-transparent practices within the Ministry of Health.
+
+...
+
+[Data](articles/8a2c5c3c.json)
 
 ---
 
@@ -195,6 +211,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/37824074.json)
+
+---
+
+### Ex-President Chandrika Kumaratunga issues statement on Ranil’s arrest
+
+*2025-08-24 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111786/ex-president-chandrika-kumaratunga-issues-statement-on-ranils-arrest-) · `en`
+
+Former President Chandrika Kumaratunga has issued a statement regarding the arrest of former President Ranil Wickremesinghe, who is presently in remand custody.
+
+The statement emphasizes that the particular circumstances surrounding the arrest of former President Wickremesinghe at a point when the investigation is nearly complete give rise to grave concern regarding the strength of basic democratic institutions in the country.
+
+“What we are witnessing is a calculated onslaught on the very essence of our democratic values. The consequences of this go far beyond the fate of an individual or any political grouping, and involve peril for the rights of our society as a whole,” the statement added.
+
+In her statement, Chandrika Kumaratunga also said that she wholeheartedly joins in expressing her unreserved opposition to these initiatives, which all political leaders are duty-bound to resist.
+
+◼️
+
+[Data](articles/b5318694.json)
 
 ---
 
@@ -302,6 +336,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### LIVE: Opposition political parties’ special press conference
+
+*2025-08-24 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111785/live-opposition-political-parties-special-press-conference) · `en`
+
+Representatives of several opposition political parties are currently holding a special press conference in Colombo in relation with the arrest of former President Ranil Wickremesinghe, who is presently in remand custody.
+
+◼️
+
+[Data](articles/28ca3a5b.json)
+
+---
+
 ### மிஸ் தனுஷி அமயா இந்தியாவுக்கு புறப்பட்டார்
 
 *2025-08-24 10:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிஸ்-தனுஷி-அமயா-இந்தியாவுக்கு-புறப்பட்டார்/175-363366) · `ta`
@@ -317,6 +363,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4b1693e0.json)
+
+---
+
+### Drug shortage caused by past govt’s tender irregularities - Health Minister
+
+*2025-08-24 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111784/drug-shortage-caused-by-past-govts-tender-irregularities-health-minister) · `en`
+
+Minister of Health and Mass Media, Dr. Nalinda Jayatissa, says the current shortage of certain medicines in the country is due to the previous government bypassing the proper tender process when importing medicine.
+
+To address the issue, the government has allocated Rs. 35 billion to hospitals for regional-level medicine purchases, he said.
+
+Commenting further, the Minister stated, “The issue of not being able to supply medicines now is a result of not holding a tender last year. If a tender had been called, the medicines would have been delivered properly. We have now initiated the tendering process for next year.”
+
+Dr. Jayatissa further noted that the government has taken two steps to manage the temporary shortage. First, Rs. 35 billion has been allocated to hospitals for regional purchases. Second, the government is in discussions with several countries to obtain medicines as donations from time to time.
+
+...
+
+[Data](articles/783c4b6f.json)
 
 ---
 
@@ -1711,67 +1775,5 @@ The Chief Magistrate accepted the request and accordingly issued the notice.
 ...
 
 [Data](articles/0e520116.json)
-
----
-
-### More on Premadasa years: pro-poor policies, garment factories, Janasaviya and housing
-
-*2025-08-23 14:27:00* · [`islandlk`](http://island.lk/more-on-premadasa-years-pro-poor-policies-garment-factories-janasaviya-and-housing/) · `en`
-
-Premadasa then unleashed his prodigious energy to make dramatic changes in the country’s economy. He looked on economic development as a part of his bigger vision to ensure “growth with equity”. While the JRJ administration followed a classical pattern of investment fueled by urbanization which made the GDP of Western province much higher than that of the outlier provinces, Premadasa was a proponent of the concept of all round growth as a way of catering to the poorer segments of society.
-
-...
-
-[Data](articles/6150db36.json)
-
----
-
-### Sri Lankan ingenuity saves billions at Kelanitissa Power Plant
-
-*2025-08-23 14:23:00* · [`islandlk`](http://island.lk/sri-lankan-ingenuity-saves-billions-at-kelanitissa-power-plant/) · `en`
-
-In a remarkable display of homegrown engineering prowess, the engineers of the Ceylon Electricity Board (CEB) at the Kelanitissa Combined Cycle Power Station (KCCP) have achieved what international experts considered impossible. By successfully repairing a critical turbine rotor locally, the team not only averted an enormous foreign exchange outflow but also safeguarded national energy security at a crucial juncture.
-
-At the heart of this achievement was the 110 MW gas turbine generator rotor, a vital component of the plant’s combined cycle system. When it developed a critical fault, the Original Equipment Manufacturer (OEM) ruled it beyond repair in Sri Lanka and insisted on complete replacement. The quoted price for a new rotor was an eye-watering Rs. 1.4 billion, excluding additional costs for replacement, installation, testing, and commissioning.
-
-...
-
-[Data](articles/47c1629f.json)
-
----
-
-### Opening of the Prima Mill
-
-*2025-08-23 14:22:00* · [`islandlk`](http://island.lk/opening-of-the-prima-mill/) · `en`
-
-In Paris, we were engaged in a busy round of talks, with appropriate officials of the Egyptian Embassy there and the company with which we had signed the contract. The ongoing discussions necessitated several telephone calls to Cairo. Both our Embassies in Paris and Cairo were very helpful, although not adequately staffed. Getting to a mutually satisfactory agreement was not easy and one had to keep one’s nerve and not show that there was any hurry to get back. After a few days of discussions and telephone calls, including to Sri Lanka, we were finally able to reach a satisfactory agreement with both the French and the Egyptians.
-
-...
-
-[Data](articles/6eb21743.json)
-
----
-
-### Back in the saddle as Secretary/PM:Ranil-CBK tensions after 2001 election
-
-*2025-08-23 14:20:00* · [`islandlk`](http://island.lk/back-in-the-saddle-as-secretary-pmranil-cbk-tensions-after-2001-election/) · `en`
-
-A day after the December 5, 2001 general election results were out, I got a call from Ranil Wickremesinghe’s private office at Cambridge Terrace. It was Dayaratne, Ranil’s personal secretary, with a message that the ‘boss’ wanted to see me urgently.
-
-Ranil was brief and to the point as usual. He wasted no time on the formalities. He returned my congratulatory handshake with his normal perfunctory acknowledgement. He waved me to a chair.
-
-I thought I would be flippant; after all it was a moment for celebration.
-
-“No, but there is a serious one,” said Ranil. “What’s that?”
-
-“That’s not too difficult, I can suggest a few names,” I ventured. “No, no, I want you.”
-
-“Me! Do you know how old I am?”” You must be about sixty five.”
-
-“No. I am 71. I don’t think I can last the pace.” “But you are well, aren’t you. You look okay.” He looked so earnest. I played for time.
-
-...
-
-[Data](articles/3e7c168a.json)
 
 ---

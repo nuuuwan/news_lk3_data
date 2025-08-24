@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 11:51:25**
+As of **2025-08-24 12:08:56**
 
 ## Newspaper Stats
 
-*Scraped **72,014** Articles*
+*Scraped **72,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,75 @@ newsfirstlk | 363
 dbsjeyarajcom | 610
 bbccomsinhala | 677
 colombotelegraphcom | 738
-economynextcom | 4,403
+economynextcom | 4,404
 islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
-adalk | 6,917
+adalk | 6,918
 adaderanalk | 9,095
-tamilmirrorlk | 10,634
+tamilmirrorlk | 10,636
 virakesarilk | 11,865
-adaderanasinhalalk | 12,470
+adaderanasinhalalk | 12,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.1%) of 72,014 articles have been extended.
+61,973 (86.1%) of 72,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### அமைச்சர் வசந்தவுக்கு எதிரான வழக்கை தாமதப்படுத்துவது ஏன்?
+
+*2025-08-24 11:49:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-வசந்தவுக்கு-எதிரான-வழக்கை-தாமதப்படுத்துவது-ஏன்/175-363380) · `ta`
+
+வர்த்தக அமைச்சர் வசந்த சமரசிங்க சம்பந்தப்பட்ட வழக்கின் சில பகுதிகளை விசாரணை முடிவதற்கு முன்பே சட்டமா அதிபருக்கு அனுப்பியதற்காக, கொழும்பு மோசடிப் பணியகத்தின் (CFB) அதிகாரிகளை கல்கிசை நீதவான் ஏ.டி. சதுரிகா டி சில்வா கண்டித்துள்ளதாக சண்டே டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
+
+இந்த வழக்கு தேசிய தொழிலாளர் நிறுவனத்திற்குச் சொந்தமான ஒரு கட்டிடத்தைப் பற்றியது, திரு. சமரசிங்க உள்ளிட்ட நபர்கள் தேசிய தொழிலாளர் காங்கிரஸ் சங்கத்தின் அதிகாரிகள் என்று காட்டிக் கொண்டு ரூ. 3.6 மில்லியனுக்கு குத்தகைக்கு எடுத்ததாகக் கூறப்படுகிறது.
+
+வழக்குத் தொடர்பான கோப்பை அனுப்புவதில் ஏற்பட்ட அவசரத்தை நீதிபதி கேள்வி எழுப்பினார், மேலும் அது நடவடிக்கைகளை தாமதப்படுத்தக்கூடும் என்று குறிப்பிட்டார், விசாரணை முடிந்த பின்னரே சட்டமா அதிபரின் ஆலோசனையைப் பெறுமாறு CFBக்கு அறிவுறுத்தினார்.
+
+◼️
+
+[Data](articles/672656d1.json)
+
+---
+
+### ரணில் கைது;சந்திரிக்கா கவலை
+
+*2025-08-24 11:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-சந்திரிக்கா-கவலை/175-363377) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டதற்கு முன்னாள் ஜனாதிபதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்க கடும் கவலை தெரிவித்துள்ளார், இது இலங்கையின் ஜனநாயகத்திற்கு கடுமையான அச்சுறுத்தலாக இருப்பதாக எச்சரித்துள்ளார்.
+
+ஒரு அறிக்கையில், குமாரதுங்க இந்த நடவடிக்கை நாட்டின் ஜனநாயக விழுமியங்கள் மீதான திட்டமிட்ட தாக்குதலுக்குச் சமம் என்றும், அதன் தாக்கங்கள் ஒரு தனிநபர் அல்லது அரசியல் கட்சியைத் தாண்டி நீண்டுள்ளது என்றும் வலியுறுத்தினார். இந்த வளர்ச்சி ஒட்டுமொத்த சமூகத்தின் உரிமைகளுக்கு ஆபத்தை விளைவிப்பதாகவும், அனைத்து அரசியல் தலைவர்களும் இதுபோன்ற நடவடிக்கைகளை எதிர்க்க வேண்டும் என்றும் அவர் வலியுறுத்தினார்.
+
+ஜனநாயகத்தை குறைமதிப்பிற்கு உட்படுத்தும் முயற்சிகள் என்று தான் விவரித்தவற்றுக்கு தனது நிபந்தனையற்ற எதிர்ப்பை வெளிப்படுத்துவதில் குமாரதுங்கவும் இணைகிறார், மேலும் அவை கூட்டாக எதிர்க்கப்பட வேண்டும் என்றும் கூறினார்.
+
+◼️
+
+[Data](articles/c666070d.json)
+
+---
+
+### රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය හෙට වැඩ වර්ජනයක
+
+*2025-08-24 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213729) · `si`
+
+රජයේ රෝහල් සියල්ලේම හෙට (25) උදෑසන 8.00 සිට දීප ව්‍යාප්ත වැඩ වර්ජනයක් ආරම්භ කරන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.
+
+දුෂ්කර පළාත්වල රෝහල් වැසී යාමේ අවදානමත්, රෝගීන්ට හිඟ ඖෂධ මිලදී ගැනීම සඳහා රජයෙන් එල්ල කර ඇති සෘජු බලපෑමත්, ප්‍රමිතියෙන් යුතු ඖෂධ සහ උපකරණ රෝහල්වලට ලබා නොදීම හරහා නිදහස් සෞඛ්‍ය බිඳ වැටීමේ අවදානමත් සැලකිල්ලට ගනිමින් මෙම වැඩ වර්ජනය ආරම්භ කරන බව සඳහන් වේ.
+
+රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය නිවේදනයක් නිකුත් කරමින් සඳහන් කරන්නේ සෞඛ්‍ය අමාත්‍යංශය තුළ අවිධිමත්, අකාර්යක්ෂම, විනිවිධ භාවයකින් තොර ක්‍රියාවලින් හරහා වෛද්‍යවරුන්ගේ ස්ථාන මාරු ක්‍රියාවලිය ද, වෛද්‍යවරුන් දුෂ්කර පළාත්වලට අනුයුක්ත කිරීමේ ක්‍රියාවලිය ද මේ වන විට සම්පූර්ණයෙන් පාහේ බිඳ වැටී ඇති බවය.
+
+මේ නිසා රට පුරා රෝහල් 200කට ආසන්න ප්‍රමාණයක් වැසීයාමේ අවදානමකට මුහුණ පා තිබෙන අතර අනිත් රෝහල්වලත් වෛද්‍යවරුන් හිඟ වීම හරහා යම් ඒකකවල කටයුතු අඩාල වීමේ අවදාමනක් මතුව ව ඇති බව එහි වැඩිදුරටත් සඳහන් වේ.
+
+...
+
+[Data](articles/87d8515d.json)
+
+---
 
 ### “ஜனநாயகம் குழிதோண்டி புதைக்கப்படுகிறது”
 
@@ -372,6 +422,24 @@ Chinthaka Bandara, co-convener of the United Postal Trade Union Front, stated th
 
 ---
 
+### Sri Lanka signs agreements to restructure UK debt
+
+*2025-08-24 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-signs-agreements-to-restructure-uk-debt-238102/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed new agreements on restructured bilateral debt of the United Kingdom of Great Britain and Northern Ireland, after a sovereign default, the Finance Ministry said.
+
+Debt rescheduled debt under this agreement amounts to 86,068,439.80 US dollars and 582,940,944.31 Japanese yen.
+
+“Entering into the Agreement will certainly pave the way to developing further the deep and longstanding bilateral relationships between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Sri Lanka,” the statement said.
+
+The sharing of diplomatic notes related to the bilateral agreement took place between Andrew Patrick, British High Commissioner to Sri Lanka and Harshana Suriyapperuma, Secretary of the Ministry of Finance, Planning and Economic Development. (Colombo/Aug24/2025)
+
+◼️
+
+[Data](articles/5cc078fe.json)
+
+---
+
 ### තැපැල් වර්ජකයින් සහ ඇමති අතර සාකච්ඡාවක් අද
 
 *2025-08-24 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213725) · `si`
@@ -475,6 +543,24 @@ To conclude the festival, a musical show by the band ‘Avatar’ will be held a
 ◼️
 
 [Data](articles/a2a9ab3d.json)
+
+---
+
+### දුම්රිය ගේට්ටු මුරකරු දුම්රියට බිලි
+
+*2025-08-24 07:20:31* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ගේට්ටු-මුරකරු-දුම්රියට-බිලි/11-418031) · `si`
+
+මැදවච්චිය පොලිස් වසමේ යකාවැව දුම්රිය ගේට්ටුව ආසන්නයේදී කොළඹ කොටුව සිට මන්නාරම දක්වා ධාවනය වූ දුම්රියක ඊයේ (23දා) රාත්‍රී කාලයේ  පුද්ගලයෙකු ගැටී මියගොස් ඇති බවට මැදවච්චිය පොලිස් ස්ථානයට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
+
+මරණකරු වයස අවුරුදු 34 ක් වූ යකාවැව, මැදවච්චිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මරණකරු දුම්රිය ගේට්ටුවෙහි තාවකාලික ගේට්ටු මුරකරු වශයෙන් රාජකාරි යෙදී සිටියදී මෙලෙස අනතුරට ලක්ව ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වී ඇත.
+
+මෘත ශරීරය මැදවච්චිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත. මැදවච්චිය පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/b0b09557.json)
 
 ---
 
@@ -1697,109 +1783,5 @@ MP Jayaweera further stated that although he does not approve of Ranil Wickremes
 ...
 
 [Data](articles/06d216b9.json)
-
----
-
-### අබිරහස් ලෙස මියගිය කාන්තාවකගේ මළ සිරුරක් සොයා ගනී
-
-*2025-08-23 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213701) · `si`
-
-මාන්කුලම්, පාලප්පානි ප්‍රදේශයේ නිවසක් තුළ තිබී සැකකටයුතු ලෙස මියගිය කාන්තාවකගේ මළ සිරුරක් හමුවී තිබේ.
-
-මියගිය කාන්තාවගේ ගෙල ප්‍රදේශයේ කැපුම් තුවාල ද දක්නට ලැබුණු බව පොලිසිය පැවසුවේය.
-
-එමෙන්ම ඇය පැළදී සිටි රන් ආභරණ ද අස්ථාන ගත වී ඇති බව පොලිසිය සිදුකළ විමර්ශන වලදී අනාවරණය වී ඇත.
-
-මෙලෙස මියගොස් ඇත්තේ 70 හැවිරිදි පාලප්පානි ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවකි.
-
-◼️
-
-[Data](articles/5e180fdd.json)
-
----
-
-### Opposition parties hold special discussion in Colombo
-
-*2025-08-23 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111767/opposition-parties-hold-special-discussion-in-colombo-) · `en`
-
-A special discussion is currently underway in Colombo with the participation of opposition politicians and party leaders.
-
-The meeting is being held at a political party office located on Flower Road, Colombo, and commenced at around 12 noon today (23).
-
-Political leaders and representatives from the United National Party (UNP), Samagi Jana Balawegaya (SJB), Sri Lanka Podujana Peramuna (SLPP), Sri Lanka Freedom Party (SLFP), and the Sri Lanka Muslim Congress (SLMC), along with several parliamentarians, have joined the discussion.
-
-It is reported that the primary objective of the meeting is to deliberate on the situation concerning former President Ranil Wickremesinghe, who is currently in remand custody, as well as on future political activities.
-
-Former President Mahinda Rajapaksa is also reported to have joined the discussion.
-
-◼️
-
-[Data](articles/b9227938.json)
-
----
-
-### Colombo international kite festival to add to Sri Lanka city branding
-
-*2025-08-23 13:45:00* · [`economynextcom`](https://economynext.com/colombo-international-kite-festival-to-add-to-sri-lanka-city-branding-238059/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Kite Festival to be held from August 24 with 55 foreign kite flyers taking part from 25 countries, which add to the country’s appeal for tourism and variety, organizers said.
-
-Sri Lanka had a longstanding tradition in kites especially among young people, but with the city life and the pace of life children were losing the skills that the earlier generation had.
-
-“We started the Colombo kite festival in 2015 mostly with local participants,” Chief Operating Officer of Sri Lanka’s DeranaTV network, Madhawa Madawala told reporters in Colombo.
-
-“But it has now expanded and it is now we have the it the calendar of international kite festivals. “We hope it will help boost tourism and make Colombo.”
-
-The Derana Colombo International Festival will be held on Sunday August 24 also supported by the Sri Lanka Tourism Promotion Bureau.
-
-The kite festival will add a colourful activity to the Colombo, Ruwan Ranasinghe, Deputy Minister of Tourism said.
-
-...
-
-[Data](articles/62f9d8ca.json)
-
----
-
-### රනිල් සහ ඉදිරි දේශපාලනය ගැන කොළඹදී විපක්ෂයේ ප්‍රබල සාකච්ඡාවක් - මහින්දත් එක්වෙයි
-
-*2025-08-23 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213700) · `si`
-
-විපක්ෂයේ දේශපාලනඥයින් සහ පක්ෂ නායකයින් එක්ව විශේෂ සාකච්ඡාවක් මේ වනවිට කොළඹදී පැවැත්වෙයි.
-
-කොළඹ මල් පාරේ පිහිටි දේශපාලන පක්ෂ කාර්යාලයේදී මෙම සාකච්ඡාව පැවැත්වෙයි.
-
-අද (23) දහවල් 12ට පමණ මෙම සාකච්ඡාව ආරම්භ වී ඇති අතර එක්සත් ජාතික පක්ෂය, සමගි ජන බලවේගය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, ශ්‍රී ලංකා නිදහස් පක්ෂය, මුස්ලිම් කොංග්‍රසය ඇතුළු පාර්ලිමේන්තුව නියෝජනය කරන දේශපාලන පක්ෂ නායකයින් සහ දේශපාලනඥයින් මෙම අවස්ථාවට එක්වී තිබේ.
-
-රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳව සහ ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීම මෙම සාකච්ඡාවේ ප්‍රධාන අරමුණ වී ඇති බව පැවසෙයි.
-
-මෙම සාකච්ඡාව සඳහා හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා ද එක්වී ඇති බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/eb49c519.json)
-
----
-
-### ශ්‍රී ලාංකික තරුණියක් එක්සත් රාජධානියේදී ඝාතනයට ලක්වෙයි
-
-*2025-08-23 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213699) · `si`
-
-එක්සත් රාජධානියේ වේල්ස් කාඩිෆ් හී ජීවත් වූ ශ්‍රී ලාංකික තරුණියක් තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
-
-South Wales පොලීසිය පවසා ඇත්තේ මිය ගිය තරුණිය 32 හැවිරිදි දෝන නිරෝධා කල්පනී නිවුන්හැල්ල ලෙස හඳුනාගෙන ඇති බවය.
-
-පසුගිය අගෝස්තු 21 වනදා පෙරවරු 7:37 ට හදිසි සේවා වෙත ලැබුණු දුරකථන ඇමතුමක් මත රිවර්සයිඩ් හි දකුණු මෝගන් ප්‍රදේශයට පොලීසිය කැඳවා තිබෙන අතර එහිදී බරපතළ තුවාල සහිතව වැටී සිටි තුවාලකාරිය සොයාගෙන තිබුණි.
-
-සෞඛ්‍ය අංශ විසින් අපරාධය සිදුවූ ස්ථානයේදීම ඇයට ප්‍රථිකාර ලබා දුන්නද රෝහලට රැගෙන යාමට ප්‍රථම ඇය එම ස්ථානයේදීම මියගිය බව පොලීසිය සඳහන් කර තිබේ.
-
-සිදුවීමට සැකපිට 37 හැවිරිදි තවත් ශ්‍රී ලාංකික පුද්ගලයෙකු ඊට ආසන්න ප්‍රදේශයකදී පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
-
-සැකකරු රඳවාගෙන ප්‍රශ්න කරන අතර සැකකාර අපරාධකරු පිළිබඳ වැඩිදුර විමර්ශන සඳහා අපරාධය සිදුවූ ප්‍රදේශය අවට පිහිටි CCTV දර්ශන ඔස්සේ විමර්ශන සිදුවෙමින් පවතී.
-
-එරට පොලීසිය වැඩිදුරටත් පවසන්නේ නිරෝධා කල්පනීගේ ඝාතනයට සැකපිට අත්තඩංගුවට ගත් පුද්ගලයා 37 හැවිරිදි තිසර වේරගල ලෙස හඳුනාගෙන ඇති බවත්ය.
-
-◼️
-
-[Data](articles/7679f2c0.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 20:06:26**
+As of **2025-08-24 20:19:20**
 
 ## Newspaper Stats
 
-*Scraped **72,075** Articles*
+*Scraped **72,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 4,432
 dailymirrorlk | 4,733
 dailyftlk | 5,077
 adalk | 6,925
-adaderanalk | 9,104
+adaderanalk | 9,106
 tamilmirrorlk | 10,656
-virakesarilk | 11,871
+virakesarilk | 11,875
 adaderanasinhalalk | 12,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,075 articles have been extended.
+61,973 (86.0%) of 72,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### நைஜீரிய வான்வழித் தாக்குதலில் 35 ஜிஹாதிகள் பலி
+
+*2025-08-24 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/223272) · `ta`
+
+குறித்த தாக்குதலானது கேமரூன் எல்லைக்கு அருகே நடந்த வான்வழித் தாக்குதல்களில் இந்த இறப்புகள் நிகழ்ந்ததாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+நைஜீரியா மீது ஜிஹாதிகள் திட்டமிட்ட தாக்குதலைத் தடுக்க இந்த தாக்குதல்கள் நடத்தப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
+
+கடந்த சில மாதங்களில் நைஜீரிய பாதுகாப்புப் படையினரின் தாக்குதல்களில் சுமார் 800 போராளிகள் கொல்லப்பட்டுள்ளமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/a60ae338.json)
+
+---
+
+### ரணில் கைது: அரசாங்க சர்வாதிகாரத்துக்கு எதிராக எதிர்க்கட்சிகள் ஒன்றிணைந்த கண்டனம்
+
+*2025-08-24 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/223271) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமைப்பு எதிர்ப்பு தெரிவித்து சகல எதிர்க்கட்சிகளும் ஒன்றிணைந்து 'அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிப்போம்'என்ற தொனிப்பொருளில் அரசாங்கத்தின் சர்வாதிகார செயற்பாட்டுக்கு கடும் கண்டனத்தை வெளியிட்டன.
+
+சட்டத்தின் முன் அனைவரும் சமம் என்று குறிப்பிட்டுக் கொண்டு அரசாங்கம் அரசியல் பழிவாங்கலை மாத்திரம் முன்னிலைப்படுத்தி செயற்படுகிறது. இன்று ரணிலுக்கு நேர்ந்த கதி நாளை பிறிதொருவருக்கு ஏற்படலாம்.ஆகவே ஜனநாயகத்தையும், அரசியலமைப்பை பாதுகாக்கவும் சகல தரப்பினரும் அரசியல்,கட்சி பேதமின்றி ஒன்றிணைய  வேண்டும் என்று எதிர்கட்சிகளின் தலைவர்கள் கூட்டாக வலியுறுத்தியதுடன், முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பாதுகாக்க அர்ப்பணிப்புடன் செயற்படுவதாகவும் குறிப்பிட்டனர்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமைக்கு எதிர்ப்பு தெரிவிக்கும் வன்னம் எதிர்க்கட்சிகளின் தலைவர்கள், பிரதிநிதிகள் கூட்டாக ஒன்றிணைந்து ஞாயிற்றுக்கிழமை (24) கொழும்பில் விசேட ஊடகவியலாளர் சந்திப்பினை நடத்தினர்.
+
+...
+
+[Data](articles/7d8c60ae.json)
+
+---
+
+### Warm weather advisory issued for several provinces
+
+*2025-08-24 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111794/warm-weather-advisory-issued-for-several-provinces) · `en`
+
+The Department of Meteorology has issued a warm weather advisory for residents of Northern, North-central, Eastern provinces and Hambantota and Monaragala districts.
+
+The heat index — the temperature felt by the human body — is likely to increase up to ‘Caution level’ at some places in Northern, North-central and Eastern provinces and in Hambantota and Monaragala districts, it said.
+
+The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body, said the Met Department.
+
+The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue, while continuing activity could lead to heat cramps.
+
+Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
+
+◼️
+
+[Data](articles/c4bc30fc.json)
+
+---
 
 ### ”ரணிலை 40 ஆண்டுகளுக்கு முன்பே கைது செய்திருக்க வேண்டும்”
 
@@ -86,6 +138,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Indian MP condemns arrest of ex-president Ranil on ‘trivial charges’
+
+*2025-08-24 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/111793/indian-mp-condemns-arrest-of-ex-president-ranil-on-trivial-charges) · `en`
+
+Indian Congress MP Shashi Tharoor on Sunday voiced concern over the arrest of former Sri Lankan President Ranil Wickremesinghe, describing the charges against him as “trivial” and urging Colombo to refrain from the”politics of vengeance.”
+
+“Concerned about the detention of former Sri Lankan President Ranil Wickremesinghe on what, on the face of it, seem trivial charges. His health issues have already seen him taken to the prison hospital,” Tharoor, a former diplomat, wrote on X while sharing an old photograph with the Sri Lankan leader.
+
+“I call on the government of Sri Lanka — while fully respecting that this is their internal matter — to abjure the politics of vengeance and treat their former President with the respect and dignity that he deserves, after his decades of service to the nation,” he added.
+
+◼️
+
+[Data](articles/1d1928a3.json)
+
+---
+
 ### அஞ்சல் பணியாளர்களின் பணிப்புறக்கணிப்பு கைவிடப்பட்டது
 
 *2025-08-24 18:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சல்-பணியாளர்களின்-பணிப்புறக்கணிப்பு-கைவிடப்பட்டது/175-363406) · `ta`
@@ -115,6 +183,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8e5b2bdc.json)
+
+---
+
+### அரசியல் பழிவாங்கலுக்காகவே ரணில் கைது – மனோ கணேசன்
+
+*2025-08-24 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223270) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க மீது முன்வைக்கப்பட்டுள்ள பட்டலந்த விவகாரம் மற்றும் பிணைமுறி மோசடி குற்றச்சாட்டு தொடர்பில் நடவடிக்கைகளை மேற்கொண்டால் எதிர்க்கட்சிகள் ஒன்றிணைய போவதில்லை. அரசியல் பழிவாங்களுக்காகவே ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளார் என தமிழ் முற்போக்கு கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான மனோ கணேசன் தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க உட்பட எதிர்க்கட்சிகளின் உறுப்பினர்களை இலக்குப்படுத்தி அரச அதிகாரத்துடன் இடம்பெறும் பழிவாங்கல்கள் வன்மையாக கண்டிக்கத்தக்கது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க மீது பட்டலந்த விவகாரம், பிணைமுறி மோசடி உள்ளிட்ட குற்றச்சாட்டுக்களை முன்வைத்து,அக்குற்றச்சாட்டுக்கள் தொடர்பில் நடவடிக்கை எடுப்பதாக குறிப்பிட்டுக் கொண்டு தான் தேசிய மக்கள் சக்தி அரசாங்கம் ஆட்சிக்கு வந்தது.இந்த வாக்குறுதிகளை நிறைவேற்றினால் எதிர்க்கட்சிகள் ஒன்றிணைய போவதில்லை.
+
+...
+
+[Data](articles/1327570e.json)
+
+---
+
+### சுன்னாகத்தில் ஹெரோயினுடன் சந்தேகநபர் ஒருவர் கைது!
+
+*2025-08-24 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/223269) · `ta`
+
+சுன்னாகம் பகுதியில் 23ஆம் திகதி சனிக்கிழமை இரவு ஹெரோயினுடன் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார். குறித்த நபர் 2 கிராம் ஹெரோயினை தனது காரில் வைத்திருந்தவேளை இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் சுன்னாகம் பொலிஸ் நிலையத்தில் வைத்து விசாரணைகளுக்கு உட்படுத்தப்பட்டு வருகின்றார்.
+
+விசாரணைகளின் பின்னர் அவரை மல்லாகம் நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/d6aa0345.json)
 
 ---
 
@@ -1661,107 +1761,5 @@ The investigations conducted so far have revealed that both parties are members 
 ◼️
 
 [Data](articles/81aeb387.json)
-
----
-
-### දිස්ත්‍රික්ක කිහිපයකට වැසි වාර කිහිපයක්
-
-*2025-08-24 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213721) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඌව පළාතේත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වේ.
-
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටින බවත් එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/119b3417.json)
-
----
-
-### செம்மணியில் கையெழுத்துப் போராட்டம்
-
-*2025-08-24 05:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/செம்மணியில்-கையெழுத்துப்-போராட்டம்/46-363356) · `ta`
-
-சர்வதேச நீதி கோரி ஒன்பது கோரிக்கைகளை முன்வைத்து 'நீதியின் ஓலம்' கையெழுத்துப் போராட்டம் நேற்று (23) யாழ். செம்மணியில் முன்னெடுக்கப்பட்டது.
-
-தாயகச் செயலணி அமைப்பினரால் தமிழினப் படுகொலைக்குச் சர்வதேச நீதி கோரலை வலியுறுத்தியே இந்த 'நீதியின் ஓலம்' எனும் கையெழுத்துப் போராட்டம் முன்னெடுக்கப்படுகின்றது.
-
-இந்தப் போராட்டம் மாணவி கிருசாந்தி கொலைச் சம்பவத்துடன் தொடர்புடைய செம்மணிப் பகுதியில் அணையா விளக்கு போராட்ட தூபி அமைந்துள்ள இடத்தில் முன்னெடுக்கப்பட்டது. (a)
-
-சர்வதேச நீதி கோரும் போராட்டமான நீதியின் ஓலம் (VOICE OF JUSTICE) எனும் தொனிப்பொருளுடனான பொதுமக்கள் கையெழுத்து சேகரிக்கும் போராட்டமானது சனிக்கிழமை(23) வடகிழக்கு தமிழர் தாயகம் எங்கும் எட்டு மாவட்டங்களிலும் ஆரம்பிக்கப்பட்டிருந்தது.
-
-அந்த வகையில் அம்பாறை மாவட்டத்தின் கல்முனை மாநகர மத்தியில் ஸ்ரீ அம்பலத்தடி பிள்ளையார் ஆலயம் முன்பாக இக்கையெழுத்து சேகரிக்கும் பணி ஆரம்பிக்கப்பட்டிருந்தது.
-
-◼️
-
-[Data](articles/b7a25582.json)
-
----
-
-### செம்மணியில் கையெழுத்துப் போராட்டம்
-
-*2025-08-24 05:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-கையெழுத்துப்-போராட்டம்/175-363356) · `ta`
-
-சர்வதேச நீதி கோரி ஒன்பது கோரிக்கைகளை முன்வைத்து 'நீதியின் ஓலம்' கையெழுத்துப் போராட்டம் நேற்று (23) யாழ். செம்மணியில் முன்னெடுக்கப்பட்டது.
-
-தாயகச் செயலணி அமைப்பினரால் தமிழினப் படுகொலைக்குச் சர்வதேச நீதி கோரலை வலியுறுத்தியே இந்த 'நீதியின் ஓலம்' எனும் கையெழுத்துப் போராட்டம் முன்னெடுக்கப்படுகின்றது.
-
-இந்தப் போராட்டம் மாணவி கிருசாந்தி கொலைச் சம்பவத்துடன் தொடர்புடைய செம்மணிப் பகுதியில் அணையா விளக்கு போராட்ட தூபி அமைந்துள்ள இடத்தில் முன்னெடுக்கப்பட்டது. (a)
-
-சர்வதேச நீதி கோரும் போராட்டமான நீதியின் ஓலம் (VOICE OF JUSTICE) எனும் தொனிப்பொருளுடனான பொதுமக்கள் கையெழுத்து சேகரிக்கும் போராட்டமானது சனிக்கிழமை(23) வடகிழக்கு தமிழர் தாயகம் எங்கும் எட்டு மாவட்டங்களிலும் ஆரம்பிக்கப்பட்டிருந்தது.
-
-அந்த வகையில் அம்பாறை மாவட்டத்தின் கல்முனை மாநகர மத்தியில் ஸ்ரீ அம்பலத்தடி பிள்ளையார் ஆலயம் முன்பாக இக்கையெழுத்து சேகரிக்கும் பணி ஆரம்பிக்கப்பட்டிருந்தது.
-
-◼️
-
-[Data](articles/f6ec133c.json)
-
----
-
-### மசகு எண்ணெய் உற்பத்தி ஆலையில் வெடிப்பு
-
-*2025-08-24 05:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மசகு-எண்ணெய்-உற்பத்தி-ஆலையில்-வெடிப்பு/50-363355) · `ta`
-
-அமெரிக்காவின், லூசியானாவில் உள்ள ஒரு மசகு எண்ணெய் உற்பத்தி ஆலையில் வெடிப்பு சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-மசகு எண்ணெய் உற்பத்தி ஆலையில் இருந்து வெளியேறும் நச்சுப் புகை காரணமாக, அருகிலுள்ள குடியிருப்பாளர்கள் சுவாசப் பிரச்சினைகளை சந்திப்பதாக வெளிநாட்டு ஊடகங்கள் தகவல்கள் தெரிவிக்கின்றன.
-
-ஆலையில் இருந்து வெளியேறும் நச்சுப் புகை காரணமாக அருகில் உள்ள நெடுஞ்சாலை மற்றும் பாடசாலைகள் மூடப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/9dda5cca.json)
-
----
-
-### Hunger Being Weaponised In Gaza Amid A Crumbling World Order!
-
-*2025-08-24 01:34:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hunger-being-weaponised-in-gaza-amid-a-crumbling-world-order/) · `en`
-
-Famine is taking place in Gaza – just a short drive away from hundreds of trucks of aid sitting idly outside its borders. “One in three people hasn’t eaten for days”, insisted Tom Fletcher, UN Emergency Relief Chief and head of OCHA. “People are being shot just trying to get food to feed their families. Children are wasting away. This is what we face on the ground right now.” People in Gaza have exhausted every possible means of survival. Hunger and malnutrition are claiming lives every day, and the destruction of cropland, livestock, greenhouses, fisheries and food production systems has made the situation even more dire. A joint statement from several UN organisations, including UNICEF, the WFP, and the WHO, expressed alarm, saying “it would have further devastating consequences for civilians where famine conditions already exist. “Many people – especially sick and malnourished children, older people and people with disabilities – may be unable to evacuate.”
-
-...
-
-[Data](articles/7d214447.json)
-
----
-
-### Is It Justified To Apprehend Ranil?
-
-*2025-08-24 01:04:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-it-justified-to-apprehend-ranil/) · `en`
-
-Sri Lanka’s former president Ranil Wickremesinghe has been arrested on allegations of misusing public funds during his tenure in office. His arrest marks the first time a former head of state in the country has been taken into custody, making him the most high-profile political figure currently under investigation for corruption under President Anura Kumara Dissanayake’s government.
-
-Mr. Wickremesinghe has been remanded in custody until a second court hearing scheduled for Tuesday.
-
-The move has stirred intense debate, particularly given the history of the Janatha Vimukthi Peramuna (JVP), the party now in power. During the 1987–1989 insurrection, the JVP was widely held responsible for the killings of members of the defence forces, academics, politicians, artists, and media professionals. The party also launched violent attacks on government institutions and other public assets, while ordering the execution of civilians who refused to follow its directives.
-
-...
-
-[Data](articles/f05e27a1.json)
 
 ---

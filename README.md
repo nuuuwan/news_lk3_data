@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-24 12:24:38**
+As of **2025-08-24 12:35:45**
 
 ## Newspaper Stats
 
-*Scraped **72,020** Articles*
+*Scraped **72,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,918
 adaderanalk | 9,095
 tamilmirrorlk | 10,637
 virakesarilk | 11,865
-adaderanasinhalalk | 12,471
+adaderanasinhalalk | 12,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (86.0%) of 72,020 articles have been extended.
+61,973 (86.0%) of 72,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-24 (Sunday)
+
+### රනිල්ගේ සෞඛ්‍ය තත්ත්වය ගැන වෛද්‍ය බෙල්ලන කියන කතාව
+
+*2025-08-24 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213730) · `si`
+
+හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා මේ වන විට දැඩි වෛද්‍ය අධීක්ෂණය යටතේ ජාතික රෝහලේ ප්‍රතිකාර ලබන බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ රුක්ෂාන් බෙල්ලන මහතා පවසයි.
+
+ඒ මහතා පැවසුවේ හිටපු ජනාධිපතිවරයාට විජලන තත්ත්වයක් ඇතිව ඇති බවත් ඔහුගේ ශරීරයේ ඇති රුධිරයේ වෙනස් වීම් සහ වෙනත් සළකුණුද මේ වන විට නිරීක්ෂණය වී ඇති බවය.
+
+වෛද්‍යවරයා පැවසුවේ අධිකරණ ශාලාවේදී පැය කිහිපයක් රැඳී සිටීමේදි එහිදී ඇතිවූ විදුලි විසන්දිවීම්, ජලය පානය නොකිරීම් හේතුවෙන් ඇතිවූ සංකූලතා මත ඔහු විජලන තත්ත්වයට පත්ව ඇති බවය.
+
+මේ හේතුවෙන් බන්ධනාගාර රෝහලින් පසුව ජාතික රෝහලට මාරුකර එවා ඇති බවත් ඒ අනුව දැඩි වෛද්‍ය නිරීක්ෂණය යටතේ හිටපු ජනාධිපතිවරයා කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබන බවද වෛද්‍ය බෙල්ලන මහතා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/d5c43871.json)
+
+---
 
 ### ரணிலுக்கு அதியுச்ச பாதுகாப்பு: ஆயுதங்களுடன் எட்டு அதிகாரிகள்
 
@@ -1761,25 +1779,5 @@ It is far too soon for the self-styled ‘advocates’ of the Global South to ha
 ...
 
 [Data](articles/1a510fe2.json)
-
----
-
-### Ranil’s arrest will shift trajectory of Sri Lankan politics – MP Dilith
-
-*2025-08-23 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111768/ranils-arrest-will-shift-trajectory-of-sri-lankan-politics-mp-dilith) · `en`
-
-The arrest and imprisonment of former President Ranil Wickremesinghe is an incident that will take Sri Lanka’s politics in a different direction, says Sarvajana Balaya leader, MP Dilith Jayaweera.
-
-He made these remarks this afternoon (23), after visiting former President Wickremesinghe at the Prison Hospital.
-
-“He went to play cricket, but this government is playing ‘Elle’. They hit him with the ball and said he was out.”
-
-“According to my political reading, this will be an incident that will take our country’s politics in a new direction,” he said.
-
-MP Jayaweera further stated that although he does not approve of Ranil Wickremesinghe’s politics, it was wrong for a President of the country to be treated in such a manner.
-
-...
-
-[Data](articles/dfac93e4.json)
 
 ---

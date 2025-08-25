@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 02:33:07**
+As of **2025-08-26 02:49:13**
 
 ## Newspaper Stats
 
-*Scraped **72,312** Articles*
+*Scraped **72,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 739
 economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,098
+dailyftlk | 5,099
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,700
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,312 articles have been extended.
+61,973 (85.7%) of 72,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### Milk is a basic need, though a luxury at present but meticulous supply chain can curb price
+
+*2025-08-26 02:32:35* · [`dailyftlk`](https://www.ft.lk/columns/Milk-is-a-basic-need-though-a-luxury-at-present-but-meticulous-supply-chain-can-curb-price/4-780763) · `en`
+
+Milk price is exorbitantly higher in Sri Lanka when comparing to the countries of the world. Sri Lanka shows the highest price gap for milk with the farm gate price and the retail price, as of now the farm gate price of a litre of milk is Rs. 200 while the retail price is up to Rs. 550 in a Tetra pack and a plastic one litre bottle is Rs. 480 further, 900 millilitre in polythene pack is Rs. 380. This is what the problem that the analyses should be. This is a problem of the logistics/supply chain. The basic theory of the supply chain is; the supplier, the manufacturer and the market must have been in the range of reasonable distance. If I elaborate the theory more with an example; “Supplier is in Jaffna, factory is at Digana (Kandy) and again the market is in Jaffna”. This is one of the real situation theory that can observe in the country in order to elaborate the wrong and long logistic model.
+
+...
+
+[Data](articles/2d771501.json)
+
+---
 
 ### Lanka IOC appoints  new Chairman, Directors
 
@@ -1799,21 +1811,5 @@ The US has alleged that India’s purchase of Russian oil is helping fund the wa
 ...
 
 [Data](articles/4933c264.json)
-
----
-
-### ரணிலை பார்வையிட்டார் ஹரினி
-
-*2025-08-25 13:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்வையிட்டார்-ஹரினி/175-363453) · `ta`
-
-கைது செய்யப்பட்டு நீதிமன்ற உத்தரவின் பிரகாரம், கொழும்பு தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப்பிரிவில் அனுமதிக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்றும் சென்று பார்வையிட்டார்.
-
-இந்நிலையில், பிரதமர் கலாநிதி ஹரினி அமரசூரிய,   திருமதி மைத்ரி விக்கிரமசிங்கவுடன் இணைந்து முன்னாள் ஜனாதிபதி ரணிலை வைத்தியசாலையில், ஞாயிற்றுக்கிழமை (24) பார்வையிட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
-
-இந்த செய்தி சமூக வலைத்தளங்களிலும் பதிவாகியுள்ளது. எனினும், இந்த செய்தி போலியானது என பிரதமர் காரியாலய தகவல்கள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/c4355a4b.json)
 
 ---

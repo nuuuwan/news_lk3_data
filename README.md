@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 15:08:01**
+As of **2025-08-25 15:20:59**
 
 ## Newspaper Stats
 
-*Scraped **72,222** Articles*
+*Scraped **72,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,937
-adaderanalk | 9,128
+adaderanalk | 9,131
 tamilmirrorlk | 10,687
-virakesarilk | 11,890
+virakesarilk | 11,894
 adaderanasinhalalk | 12,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,222 articles have been extended.
+61,973 (85.8%) of 72,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### டன்சினன் பகுதியில் தீ விபத்து ; 06 வீடுகள் சேதம்
+
+*2025-08-25 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223315) · `ta`
+
+பூண்டுலோயா, டன்சினன் மத்திய பிரிவில் உள்ள லைன் குடியிருப்பில் திங்கட்கிழமை (25) முற்பகல் 11 மணியளவில் ஏற்பட்ட தீ பரவலில் 20 வீடுகளை கொண்ட தொடர் குடியிருப்பு தொகுதியில் 06 வீடுகள் சேதமடைந்துள்ளன.
+
+◼️
+
+[Data](articles/8cc60242.json)
+
+---
 
 ### ரணிலின் வழக்கு:கூட்டத்தை திரட்ட எதிர்க்கட்சிகள் திட்டம்
 
@@ -86,6 +98,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கைது தொடர்பில் கலந்துரையாட ஐக்கிய மக்கள் சக்தியின் எம்பிக்கள் ஒன்றுகூடல்
+
+*2025-08-25 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/223320) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கைது தொடர்பில் கலந்துரையாட, ஐக்கிய மக்கள் சக்தியின் சகல பாராளுமன்ற உறுப்பினர்களும் இன்று திங்கட்கிழமை (25) பிற்பகல் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஒன்று கூடுகின்றனர்.
+
+இந்தக் கூட்டத்திற்குப் பிறகு, ஐக்கிய மக்கள் கூட்டணியைச்  சேர்ந்த சகல கட்சித் தலைவர்களும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் கூடுவார்கள் என்று கட்சியின் நம்பத்தகுந்த வட்டாரங்கள் தெரிவிக்கின்றன.
+
+முன்னாள் ஜனாதிபதியின் நீதிமன்ற நடவடிக்கை தொடர்பிலான கட்சியின் நிலைப்பாட்டு குறித்த தெளிவை எட்டும் வகையிலயே இச்சந்திப்புகள் இடம்பெறுகின்றன. இந்தக் கலந்துரையாடல்களுக்குப் பிறகு நடைபெறவிருக்கும் கலந்துரையாடலில் எதிர்க்கட்சியைப் பிரதிநிதித்துவப்படுத்தும் சகல  கட்சித் தலைவர்களும் பங்கேற்கவுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/170a5c44.json)
+
+---
+
+### பாதுகாப்பு செயலாளரை சந்தித்தார் புதிய பொலிஸ் மா அதிபர்
+
+*2025-08-25 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/223319) · `ta`
+
+புதிய பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய, பாதுகாப்பு அமைச்சின் செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் துயகோண்டாவை (ஓய்வு) இன்று திங்கட்கிழமை  (25) பாதுகாப்பு அமைச்சில் சந்தித்தார்.
+
+இலங்கையின் 37வது பொலிஸ் மா அதிபராக பொறுப்பேற்ற பிரியந்த வீரசூரியவை பாதுகாப்புச் செயலாளர் அன்புடன் வரவேற்றார்.
+
+இந்தச் சந்திப்பின் போது, இரு அதிகாரிகளும் பரஸ்பர நலன் சார்ந்த விடயங்களைப் பற்றி கலந்துரையாடினர்.
+
+தேசிய பாதுகாப்பு மற்றும் சட்டம் மற்றும் ஒழுங்கைப் பராமரிப்பதில் நிறுவனங்களுக்கு இடையேயான ஒருங்கிணைப்பு குறித்து கவனம் செலுத்தினர்.
+
+புதிய பொலிஸ் மா அதிபருக்கு பாதுகாப்பு செயலாளர் வாழ்த்து தெரிவித்ததாகவும், பாதுகாப்பு அமைச்சகம் மற்றும் இலங்கை பொலிஸ் திணைக்களத்துக்கு இடையிலான கூட்டு முயற்சிகளை வலுப்படுத்துவதில் தனது நம்பிக்கையை வெளிப்படுத்தியதாகவும் பாதுகாப்பு அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/e757246a.json)
+
+---
+
 ### “ரணிலை பார்வையிடவில்லை“ பிரதமர் விளக்கம்
 
 *2025-08-25 14:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்வையிடவில்லை-பிரதமர்-விளக்கம்/175-363456) · `ta`
@@ -116,6 +164,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### SC to hear appeals filed by convicts in Vidya murder in Nov.
+
+*2025-08-25 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111823/sc-to-hear-appeals-filed-by-convicts-sentenced-to-death-over-murder-of-sivaloganathan-vidya-in-nov) · `en`
+
+The Supreme Court has scheduled the hearing of appeals on November 6, filed by the convicts who were sentenced to death over the abduction, rape, and murder of schoolgirl Sivaloganathan Vidya— an incident that sparked widespread outrage in Jaffna in 2015.
+
+The appeals were taken up before a three-judge bench of the Supreme Court, consisting of Chief Justice Preethi Padman Surasena and Justices Achala Wengappuli, and Sampath Abeykoon.
+
+During the proceedings, the attorney representing the appellants informed court that it took more than four and a half years to obtain the Tamil-language translations relevant to the case.
+
+Accordingly, the defense counsel requested court to assign an early date for the appeal hearing.
+
+In response, Chief Justice Preethi Padman Surasena stated that the appeals would be given a date to ensure an expedited hearing.
+
+As such, court scheduled the hearing of the appeals for November 6.
+
+...
+
+[Data](articles/dd2bd18c.json)
+
+---
+
+### ரணிலை விடுதலை செய்யுமாறு எரிக் சொல்ஹெய்ம் கோரிக்கை
+
+*2025-08-25 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/223313) · `ta`
+
+இலங்கைக்கான முன்னாள் நோர்வே சமாதானத் தூதுவர் எரிக் சொல்ஹெய்ம், முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை உடனடியாக விடுதலை செய்யுமாறு கோரிக்கை விடுத்துள்ளார். தடுப்புக்காவலில் உள்ள அவரது உடல்நிலை குறித்து ஆழ்ந்த கவலையையும் அவர் வெளிப்படுத்தியுள்ளார்.
+
+டுவிட்டர் பதிவொன்றை வெளியிட்டு அவர் இதனைத் தெரிவித்துள்ளார். 2022-இல் நாடு மிக மோசமான அரசியல் மற்றும் பொருளாதார நெருக்கடியைச் சந்தித்தபோது இலங்கையைக் காப்பாற்ற முன்வந்த தலைவர் விக்கிரமசிங்க என்று சொல்ஹெய்ம் குறிப்பிட்டுள்ளார். முன்னாள் ஜனாதிபதி மீதான குற்றச்சாட்டுகள் 'ஆதாரமற்றவை' என்று அவர் குறிப்பிட்டுள்ளார். மேலும், அவை நிரூபிக்கப்பட்டாலும், ஐரோப்பிய தரங்களின்படி அவை குற்றவியல் அல்லது ஏற்றுக்கொள்ள முடியாத நடத்தை அல்ல என்றும் அவர் தெரிவித்துள்ளார்.
+
+'இலங்கை அரசாங்கத்தின் ஊழலுக்கு எதிரான பிரச்சாரத்திற்கு நான் முழு ஆதரவு அளிக்கிறேன், ஆனால் அது உண்மையான பிரச்சினைகளில் கவனம் செலுத்த வேண்டும்,' என்று குறிப்பிட்டுள்ள சொல்ஹெய்ம், ரணில் விக்கிரமசிங்கவை விடுதலை செய்யுமாறு அதிகாரிகளை வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/14d0f441.json)
+
+---
+
 ### ’’நான் இராஜினாமா செய்யவில்லை’’
 
 *2025-08-25 13:57:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-இராஜினாமா-செய்யவில்லை/175-363454) · `ta`
@@ -130,15 +216,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### இந்தியாவில் இருந்து கடல் மார்க்கமாக தலைமன்னார் வந்த குடும்பஸ்தர் மீது கடற்படையினர் கொடூர தாக்குதல் - யாழ். வைத்தியசாலையில் அனுமதி
 
-*2025-08-25 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223311) · `ta`
+*2025-08-25 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/223311) · `ta`
 
 இந்தியாவில் இருந்து கடந்த 18 வருடங்களின் பின்னர் கடல் மார்க்கமாக தலைமன்னார் பகுதிக்கு படகில் வருகை தந்த குடும்பஸ்தர் ஒருவர் மீது கடற்படையினர் கடுமையாக தாக்கிய நிலையில் குறித்த குடும்பஸ்தர் யாழ்ப்பாணம் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வருகிறது.
 
-முல்லைத்தீவு உடையார் கட்டு பகுதியைச் சேர்ந்த தங்கையா டேவிட் பாலேந்திரன் என்ற இளம் குடும்பஸ்தர் 2007 ஆம் ஆண்டில் தனது 18 வது வயதில் கடல் மார்க்கமாக இந்தியா சென்றுள்ளார்.பின்னர் கடந்த 18 வருடங்களாக இந்தியாவில் வசித்து வந்த நிலையில் மீண்டும் தாயம் திரும்ப முயற்சித்துள்ளார்.
+முல்லைத்தீவு உடையார் கட்டு பகுதியைச் சேர்ந்த தங்கையா டேவிட் பாலேந்திரன் என்ற இளம் குடும்பஸ்தர் 2007 ஆம் ஆண்டில் தனது 18 வது வயதில் கடல் மார்க்கமாக இந்தியா சென்றுள்ளார்.பின்னர் கடந்த 18 வருடங்களாக இந்தியாவில் வசித்து வந்த நிலையில் மீண்டும் தாயகம் திரும்ப முயற்சித்துள்ளார்.
 
 இந்நிலையில் கடந்த 22 ஆம் திகதி இந்தியாவில் இருந்து கடல் மார்க்கமாக படகு ஒன்றில் தலைமன்னார் பகுதியை நோக்கி வந்துள்ளார்.
 
-40 வயதுடைய குறித்த குடும்பஸ்தருக்கு இதய நோய் காணப்படுகின்ற நிலையில் அதற்கான மருத்துவ அறிக்கைகளையும் தன் வசம் எடுத்து வந்துள்ளார்.எனினும் தலைமன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்ற கடற்படையினர் நோயாளியான குறித்த குடும்பஸ்தரை கண்மூடித்தனமாக தாக்கியுள்ளர்.
+40 வயதுடைய குறித்த குடும்பஸ்தருக்கு இதய நோய் காணப்படுகின்ற நிலையில் அதற்கான மருத்துவ அறிக்கைகளையும் தன் வசம் எடுத்து வந்துள்ளார். எனினும் தலைமன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்ற கடற்படையினர் நோயாளியான குறித்த குடும்பஸ்தரை கண்மூடித்தனமாக தாக்கியுள்ளர்.
 
 ...
 
@@ -195,6 +281,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/93c68857.json)
+
+---
+
+### Heightened security for ex-President Ranil at National Hospital
+
+*2025-08-25 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111821/heightened-security-for-ex-president-ranil-at-national-hospital) · `en`
+
+A special security detail has been assigned to the Colombo National Hospital, where former President Ranil Wickremesinghe is receiving medical treatment after being remanded on Friday (25), a spokesperson for the Department of Prisons said Monday.
+
+According to prison spokesperson Jagath Weerasinghe, seven jailors and four prison guards have been deployed to ensure former President Wickremesinghe’s security.
+
+The former President was arrested and remanded on charges of misusing state funds.
+
+He was initially admitted to the prison hospital and transferred to the Colombo National Hospital later.
+
+◼️
+
+[Data](articles/db9630f7.json)
+
+---
+
+### Newly appointed IGP calls on Defence Secretary
+
+*2025-08-25 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111820/newly-appointed-igp-calls-on-defence-secretary) · `en`
+
+The newly appointed Inspector General of Police (IGP), Priyantha Weerasooriya has paid a courtesy call on the Secretary of the Ministry Defence, Air Vice Marshal Sampath Thuyacontha (Retd), today (25) at the Ministry of Defence.
+
+Priyantha Weerasooriya, who assumed duties as the 37th IGP of Sri Lanka, was warmly received by the Defence Secretary.
+
+During the meeting, both officials discussed matters of mutual interest, focusing on national security and inter-agency coordination in maintaining law and order.
+
+The Defence Secretary congratulated the new IGP on his appointment and expressed his confidence in strengthening the collaborative efforts between the Ministry of Defence and the Sri Lanka Police, according to a statement issued by the Defence Ministry.
+
+This meeting underscored the importance of continued cooperation between security institutions to address emerging challenges and uphold public safety across the country, the statement added further.
+
+◼️
+
+[Data](articles/85aff06f.json)
 
 ---
 
@@ -1661,143 +1785,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/49e0f06d.json)
-
----
-
-### අදත් අලුයම වෙඩි තැබීමක්
-
-*2025-08-25 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213750) · `si`
-
-වැල්ලම්පිටිය කිත්තම්පහුව ප්‍රදේශයේ ලැඟුම්හලක සිටි දෙදෙනෙකු ඉලක්ක කර අද (25) අලුයම වෙඩි තැබීමක් සිදුව තිබේ.
-
-පොලීසිය පැවසුවේ පුද්ගලයින් තිදෙනෙකු පැමිණ මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
-
-ඔවුන් යතුරුපැදියකින් පැමිණ පිස්තෝල වර්ගයේ ගිනි අවියක් භාවිත කර මෙම වෙඩි තැබීම සිදුකර තිබේ.
-
-කෙසේ නමුත් වෙඩි තැබීමෙන් කිසිවෙකුටත් තුවාල හෝ ජීවිත හානි සිදුව නොමැති අතර සිද්ධිය සම්බන්ධව ඔවුන් පොලීසිය වෙත පසුව පැමිණිලි කර ඇත.
-
-වෙඩිතැබීමට පැමිණි පුද්ගලයින්ගේ ජංගම දුරකතනයක් සහ වෙඩි තැබීමට භාවිතා කළ පිස්තෝල වර්ගයේ ගිනි අවියේ මැගසීනය ද එම ස්ථානයේ තිබී සොයාගත් බවද පොලිසිය පැවසීය.
-
-වෙඩි තැබීමෙන් කිසිදු පුද්ගලයෙකුට හානියක් සිදුව නොමැති අතර සිද්ධිය සම්බන්ධයෙන් වැල්ලම්පිටිය පොලිසිය වැඩිදුර විමර්ශන සිදුකෙරේ.
-
-◼️
-
-[Data](articles/a4809bd5.json)
-
----
-
-### President reviews 29 institutions of Plantation and Community Infrastructure Ministry
-
-*2025-08-25 03:43:44* · [`dailyftlk`](https://www.ft.lk/news/President-reviews-29-institutions-of-Plantation-and-Community-Infrastructure-Ministry/56-780725) · `en`
-
-Highlights increasing export income and meeting plantation sector targets as key priorities
-
-Instructs officials to identify land for new large-scale coconut plantations
-
-President asks for plan for underutilised Department of Public Trustee lands
-
-Calls for study on tea, rubber and strategy to expand cinnamon cultivation in Western Province
-
-Notes need for industrial development strategy to address under-capacity caused by ‘artificially created’ domestic market
-
-Overlapping institutional functions will be identified, with instructions to merge or dissolve entities where necessary
-
-President Anura Kumara Disanayake on Friday held a review of projects implemented under the 2025 Budget allocations for the Plantation and Community Infrastructure Ministry, along with preliminary discussions on the 2026 Budget, the President’s media office said.
-
-The meeting extensively reviewed the progress of projects implemented by 29 institutions under the Ministry in 2025.
-
-...
-
-[Data](articles/e8238859.json)
-
----
-
-### Health Minister faults previous administration for drugs shortage
-
-*2025-08-25 03:40:38* · [`dailyftlk`](https://www.ft.lk/news/Health-Minister-faults-previous-administration-for-drugs-shortage/56-780724) · `en`
-
-Says previous administration failed to call tenders for drug supplies
-
-Rs. 35 b allocated to regional hospitals to purchase medicines
-
-Health Minister Dr. Nalinda Jayatissa yesterday said the current shortage of certain medicines was due to the previous administration’s decision to bypass the standard tender procedure for imports.
-
-He said the disruption stemmed from the failure to call tenders last year. “The issue of not being able to supply medicines now is a result of not holding a tender last year. If a tender had been called, the medicines would have been delivered properly. We have now initiated the tendering process for next year,” he explained.
-
-To address the gap in supply, Dr. Jayatissa noted that the National People’s Power (NPP) Government had moved on two fronts. Hospitals have been allocated Rs. 35 billion to make purchases at the regional level, while talks are also ongoing with several countries to secure medicine donations on a periodic basis.
-
-◼️
-
-[Data](articles/b15c5bf6.json)
-
----
-
-### President instructs new Envoys to boost FDI, FTAs
-
-*2025-08-25 03:39:22* · [`dailyftlk`](https://www.ft.lk/business/President-instructs-new-Envoys-to-boost-FDI-FTAs/34-780723) · `en`
-
-President Anura Kumara Disanayake on Friday met newly appointed Heads of Missions and said Ambassadors have a key role in strengthening Sri Lanka’s image abroad and supporting the country’s economy by promoting Foreign Direct Investment (FDI), Free Trade Agreements (FTAs), and other trade agreements.
-
-He urged the Envoys to serve Sri Lankans overseas fairly and address the issues of expatriates without delay, according to a statement from the Presidential Media Division.
-
-The President said Embassies are central to generating foreign income through investment, exports, tourism, and foreign employment. He added that all foreign exchange channels essential for external stability are linked to the work of Missions.
-
-“Furthermore, the President stressed the importance of entering into FTAs and preferential trade arrangements with foreign nations as a timely priority,” the statement added.
-
-...
-
-[Data](articles/d0d8ef1b.json)
-
----
-
-### Dr. Malraj B. Kiriella receives lifetime recognition at OPA National Apex Awards 2025
-
-*2025-08-25 03:37:40* · [`dailyftlk`](https://www.ft.lk/business/Dr-Malraj-B-Kiriella-receives-lifetime-recognition-at-OPA-National-Apex-Awards-2025/34-780722) · `en`
-
-Dr. Malraj Bharatha Kiriella recently received the National Apex Award of Professional Excellence in Marketing and Hospitality at the 4th National Apex Awards 2025, organised by the Organisation of Professional Associations of Sri Lanka (OPA).
-
-The award was presented by Speaker of Parliament Dr. Jagath Wickramaratne at the ceremony held in Colombo.
-
-This recognition marks a lifetime achievement, celebrating Dr. Kiriella’s nearly four decades of dedicated service to Sri Lanka’s tourism, hospitality, and marketing sectors. His career has been defined by innovation, policy reforms, and pioneering initiatives that have contributed significantly to strengthening Sri Lanka’s global brand.
-
-...
-
-[Data](articles/27671c71.json)
-
----
-
-### President’s Senior Economic Adviser Duminda Hulangamuwa to keynote Planters’ AGM on Friday
-
-*2025-08-25 03:35:29* · [`dailyftlk`](https://www.ft.lk/business/President-s-Senior-Economic-Adviser-Duminda-Hulangamuwa-to-keynote-Planters-AGM-on-Friday/34-780721) · `en`
-
-Senior Economic Adviser to the President Duminda Hulangamuwa is set to deliver the keynote address at the Annual General Meeting (AGM) of the Planters’ Association of Ceylon (PA).
-
-To be held on Friday, 29 August, the 171st AGM will bring together the membership of regional plantation companies, industry leaders, and key stakeholders to review the past year’s performance and deliberate on policies and strategies for growth.
-
-Hulangamuwa’s address is expected to highlight Government priorities in policy direction and reforms while emphasising the facilities afforded to the residential population.
-
-...
-
-[Data](articles/5a5ce847.json)
-
----
-
-### Arcade of Aluminium celebrates 15 years of long-standing customer relationship
-
-*2025-08-25 03:33:06* · [`dailyftlk`](https://www.ft.lk/business/Arcade-of-Aluminium-celebrates-15-years-of-long-standing-customer-relationship/34-780720) · `en`
-
-From left: Arcade of Aluminium Ltd., Managing Director Heshan Padukka, Alumex PLC Managing Director Pramuk Dediwela, and Ferroli Gypsheet LLP Chief Sales Director Amish Tankariya
-
-Announces diversification into hospitality sector with acquisition of Sigiri Asna Nature Resort and Spa
-
-Arcade of Aluminium, a leading provider of aluminium products in Sri Lanka, recently hosted its 15th annual get-together, themed “Champions of Arcade”, at Waters Edge.
-
-The event honoured the long-standing customers and key suppliers, acknowledging their continuous trust and support, and celebrating their shared journey towards achieving greater milestones in the industry together.
-
-Speaking at the event, Arcade of Aluminium Ltd., Managing Director Heshan Padukka reflected on the company’s remarkable journey, noting how it began with a small team of five in 2010 and grew into a trusted market leader by consistently delivering products that exceed industry standards.
-
-...
-
-[Data](articles/da6838a3.json)
 
 ---

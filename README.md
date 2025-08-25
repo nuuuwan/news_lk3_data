@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 22:08:25**
+As of **2025-08-25 21:51:00**
 
 ## Newspaper Stats
 
-*Scraped **72,297** Articles*
+*Scraped **72,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,21 @@ economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,947
+adalk | 6,946
 adaderanalk | 9,149
 tamilmirrorlk | 10,700
 virakesarilk | 11,902
-adaderanasinhalalk | 12,524
+adaderanasinhalalk | 12,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,297 articles have been extended.
+61,973 (85.7%) of 72,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
-
-### නීතිඥ සංගමයෙන් නිවේදනයක්
-
-*2025-08-25 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213785) · `si`
-
-පසුගිය සති කිහිපය තුළ සමාජ මාධ්‍ය ඔස්සේ අධිකරණ සේවා කොමිෂන් සභාව සහ අධිකරණ පද්ධතියේ විෂය පථයට අයත් කාරණා සම්බන්ධයෙන් පළ වී ඇති අදහස් පිළිබඳ නීතිඥ සංගමයෙන් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
-
-එම නිවේදනය මඟින් නීතිඥ සංගමය පෙන්වා දෙන්නේ, අධිකරණ කොමිෂන් සභාව ස්වාධීන ආයතනයක් වන බවත් එය ඉතා වගකීම් සහගත අන්දමින් කාලාන්තරයක් මුළුල්ලේ නීතියේ ස්වාධීනත්වය ආරක්ෂා කිරීමට කටයුතු කරමින් සිටින බවත්ය.
-
-යූ ටියුබ් වැනි සමාජ මාධ්‍යයන් ඔස්සේ, අදහස් පළ කිරීමේදී හා නීතියේ විෂයපථයට අදාළ කරුණු වාර්තා කිරීමේ දී සුපරික්ෂාකාරී අන්දමින් කටයුතු කරන ලෙසත් අසත්‍ය පුවත් වාර්තා කිරීම නීතියට පටහැනි බවත් අදාළ නිවේදනයෙන් වැඩිදුරටත් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/4a7ffa7a.json)
-
----
 
 ### Israel hits Gaza hospital, killing at least 20 people, including five journalists
 
@@ -211,22 +195,6 @@ The journalists killed included Mariam Abu Dagga, who freelanced for the Associa
 ...
 
 [Data](articles/a7bf734e.json)
-
----
-
-### ප්‍රසන්න රණවීර ඇතුළු තිදෙනා තවදුරටත් රිමාන්ඩ්
-
-*2025-08-25 19:03:14* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසන්න-රණවීර-ඇතුළු-තිදෙනා-තවදුරටත්-රිමාන්ඩ්/11-418063) · `si`
-
-කිරිබත්ගොඩ නගරයේ ඉදි කිරීමට රජයට පවරා ගෙන තිබු රුපියල් කෝටි දෙකක් පමණ වටිනා ඉඩමකට කූට ලේඛණ සකස් කිරීම සම්බන්ධව රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර ඇතුළු තිදෙනා තවදුරටත්  ලබන සැප්තැම්බර් මස  08 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට මහර අංක 01  අධිකරණයේ ප්‍රධාන  මහේස්ත්‍රාත් ජනිතා පෙරේරා  මහත්මිය අද ( 25  වැනිදා ) නියම කරනු ලැබුවාය.
-
-මෙසේ තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර  , කැලණිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී මිල්රෝයි පෙරේරා හා  හිටපු ඇමැති මර්වින් සිල්වා ගේ එවකට පාර්ලිමේන්තු කටයුතු හිටපු ලේකම් දොන් සරත් කුමාර එදිරිසිංහ  නොහොත් සිංගප්පූරු සරත් යන තිදෙනා වෙති.
-
-මෙදින සැකකරුවන් තිදෙනාගෙන් හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර හා කැළණිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී මිල්රෝයි පෙරේරා යන දෙදෙනා  අධිකරණයට ඉදිරිපත් කර නොසිටි අතර ඔවුන් ස්කයිප් තාක්ෂණය ඔස්සේ සම්බන්ධ කර  ගැනිණි. ඔවුනට නියෝගය බන්ධනාගාරය මගින් දන්වන බවද මහේස්ත්‍රාත්වරිය සදහන් කළාය.
-
-...
-
-[Data](articles/c578e22a.json)
 
 ---
 
@@ -1839,5 +1807,39 @@ Local wholesale prices of coconut oil were 900,000 to 920,000 rupees per metric 
 ◼️
 
 [Data](articles/20953d96.json)
+
+---
+
+### වියට්නාමයේ  පුද්ගලයන් ලක්ෂ 5ක් ඉවත් කරයි
+
+*2025-08-25 12:03:58* · [`adalk`](https://www.ada.lk/breaking_news/වියට්නාමයේ--පුද්ගලයන්-ලක්ෂ-5ක්-ඉවත්-කරයි/11-418048) · `si`
+
+ටයිෆූන් කජිකි සුළි කුණාටුව වියට්නාමයට පැමිණීමට පෙර එරට 586,000 කට අධික පිරිසක් ඉවත් කිරීමට නියෝග කර තිබේ.
+
+කුණාටුව ​මේ වන විට පැයට කි​ලෝමීටර් 166ක හමන බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/d4ffd0f9.json)
+
+---
+
+### SC begins hearing petitions against bill to revoke privileges of former Presidents
+
+*2025-08-25 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111815/sc-begins-hearing-petitions-against-bill-to-revoke-privileges-of-former-presidents) · `en`
+
+The Supreme Court today (25) commenced hearing petitions filed seeking a ruling that the provisions of the bill presented to Parliament by the government to revoke the privileges of former presidents are unconstitutional.
+
+The petitioners argue that, if the bill is to be passed, it must be approved by a two-thirds majority in Parliament and also endorsed through a public referendum.
+
+The petitions are being heard before a three-member Supreme Court bench comprising Chief Justice Preethi Padman Surasena, and Justices Achala Wengappuli and Sampath Abeykoon.
+
+According to Ada Derana court correspondent, the attorneys representing the petitioners have commenced presenting their arguments.
+
+Solicitor General Viraj Dayaratne appeared on behalf of the government.
+
+...
+
+[Data](articles/2c53c949.json)
 
 ---

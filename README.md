@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 01:32:19**
+As of **2025-08-26 01:50:37**
 
 ## Newspaper Stats
 
-*Scraped **72,311** Articles*
+*Scraped **72,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 739
 economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,097
+dailyftlk | 5,098
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,700
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,311 articles have been extended.
+61,973 (85.7%) of 72,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### Lanka IOC appoints  new Chairman, Directors
+
+*2025-08-26 01:24:51* · [`dailyftlk`](https://www.ft.lk/business/Lanka-IOC-appoints-new-Chairman-Directors/34-780755) · `en`
+
+Lanka IOC PLC (LIOC) yesterday announced the appointment of Anuj Jain as Chairman of the Board. The company also appointed Saumitra P. Srivastava and Rajesh Singh as Non-Executive Directors.
+
+In a stock exchange filing LIOC said Jain is presently on the Board of Indian Oil Corporation Ltd., a Fortune 500 Indian oil and gas major, as the Director (Finance), and is the CFO of the company. He is a Chartered Accountant and also holds master’s in Business Finance from The Institute of Chartered Accountants of India.
+
+...
+
+[Data](articles/9b7c9c58.json)
+
+---
 
 ### New chapter for EO Sri Lanka as 2025-2026 Board takes lead
 
@@ -1801,21 +1815,5 @@ The US has alleged that India’s purchase of Russian oil is helping fund the wa
 ◼️
 
 [Data](articles/c4355a4b.json)
-
----
-
-### නාමල් රාජපක්ෂ නිතරගයෙන් රටේ ජනාධිපති කරනවා
-
-*2025-08-25 13:01:35* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-රාජපක්ෂ-නිතරගයෙන්-රටේ-ජනාධිපති-කරනවා/11-418051) · `si`
-
-වත්මන් ජනාධිපතිවරයා ප්‍රමුඛ රජය  සමග සිටි සියලු රණවිරුවන් මේවන විට නාමල් රාජපක්ෂ මහතා වටා අත් වැල් බැද ගනිමින් සිටින බවත් වත්මන් ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවට 2029 වර්ෂයේ නිතරගයෙන් නාමල් රාජපක්ෂ මහතා ජනාධිපති කරවන බවට තමා අභියෝග කරන බවත් විශ්‍රාමික රණවිරුවෙකු වූ ශ්‍රි ලංකා පොදුජන පෙරමුණේ කොට්ඨාස සංවිධායක එච්.එම් කීර්තිරත්න බණ්ඩාර මහතා පැවැසීය.
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා බැලීමට විජේරාම නිවසට මැදවච්චිය පිරිස් ගිය සිදුවීම මුල්කරගනිමින් ආණ්ඩුවේ හැසිරීමේ ක්‍රියා දාමයට විරුද්ධව පසුගිය (24)සවස මැදවච්චිය නගරයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන මහජන නියෝජිතයින් පිරිසක් සහ ප්‍රබල පාක්ෂිකයින් පිරිසක් මන්නාරම් මාර්ගයේ පිහිටි ගණ දෙවිකෝවිලට පැමිණි පොල් ගසා මාධ්‍ය සාකච්ඡාවක් පැවැත්වුහ. එහිදී අදහස් දක්වමින් ඒ මහතා එසේ කීහ.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මැදවච්චිය ආසන සංවිධායක චානක විජේසූරිය මහතා විසින් මෙය සංවිධානය කර තිබුණි.
-
-...
-
-[Data](articles/228a59ef.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 16:49:34**
+As of **2025-08-25 17:06:25**
 
 ## Newspaper Stats
 
-*Scraped **72,250** Articles*
+*Scraped **72,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,938
 adaderanalk | 9,140
-tamilmirrorlk | 10,693
+tamilmirrorlk | 10,694
 virakesarilk | 11,896
-adaderanasinhalalk | 12,516
+adaderanasinhalalk | 12,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,250 articles have been extended.
+61,973 (85.8%) of 72,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
+
+*2025-08-25 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213778) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා ලබන මස 8 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+අද (25) දින මහර මහෙස්ත්‍රාත් ජනිතා පෙරේරා මහත්මිය විසින් මෙම නියෝග ලබාදී ඇත.
+
+කිරිබත්ගොඩ ප්‍රදේශයේ ඉඩම් වංචා කිරීමේ සිදුවීමකට අදාළව පැවැත්වෙන නඩුව විභාගයට ගත් අවස්ථාවේදී අධිකරණය මෙම නියෝගය ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/d4ef1dbd.json)
+
+---
+
+### “அனுமான்தான் முதலில் விண்வெளிக்கு போனாரா?”
+
+*2025-08-25 16:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமான்தான்-முதலில்-விண்வெளிக்கு-போனாரா/175-363464) · `ta`
+
+தேசிய விண்வெளி தினத்தை முன்னிட்டு, இமாச்சலப் பிரதேசத்தில் பாடசாலை  மாணவர்களிடையே பாரதிய ஜனதா கட்சியின் (பாஜக) எம்பியும், முன்னாள் மத்திய அமைச்சருமான அனுராக் தாக்கூர், உரையாடியிருந்தார். அப்போது அவர் உலகின் முதல் விண்வெளி வீரர் அனுமான் என்று கூறியிருந்தார்
+
+இது தொடர்பான வீடியோ விவாதங்களை ஏற்படுத்தியிருக்கும் நிலையில், "பாஜகவினரின் அறிவு நாளுக்குநாள் அபாரமாகிக் கொண்டிருக்கிறது" என மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி எம்பி.சு.வெங்கடேசன் விமர்சித்திருக்கிறார்.
+
+தேசிய விண்வெளி தினத்தை முன்னிட்டு, இமாச்சலப் பிரதேசத்தின் உனாவில் உள்ள பி.எம். ஸ்ரீ பள்ளியில் மாணவர்களுடன் அனுராக் உரையாற்றினார். அப்போது மாணவர்களிடம்,விண்வெளிக்கு முதலில் பயணம் செய்தவர் யார்? என கேள்வி எழுப்பியிருந்தார்.
+
+...
+
+[Data](articles/df305ad9.json)
+
+---
 
 ### හිටපු ජනපති රනිල්ව අත්අඩංගුවට ගැනීම හුදකලා සිදුවීමක් නොවේ - සජිත් කියයි
 
@@ -90,11 +122,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-25 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111831/sc-concludes-hearing-of-petitions-against-bill-to-revoke-privileges-of-former-presidents) · `en`
 
-The Supreme Court has concluded the hearing of petitions filed against the bill presented by the government to remove the privileges of former Presidents, and announced that its confidential determination on the constitutionality of the bill will be forwarded to the Speaker of House.
+The Supreme Court today (25) announced that it will submit its confidential determination on the constitutionality of the bill presented by the government to remove privileges of retired presidents to the Speaker of House.
 
-After an extensive review, the order was issued by a three-judge bench of the Supreme Court comprising Chief Justice Preethi Padman Surasena, Justice Achala Wengappuli, and Justice Sampath Abeykoon.
+After an extensive hearing, a three-judge bench comprising Chief Justice Preethi Padman Surasena and Justices Achala Wengappuli, and Sampath Abeykoon issued the order concluding the hearing of petitions filed against the Presidents’ Entitlements (Repeal) Bill.
 
-◼️
+At the commencement of today’s hearing, President’s Counsel Ali Sabry, appearing on behalf of former Chief of Staff of the Navy S.M. Wijewickrama, who had filed a petition, argued before court that, under Section 3 of the Presidential Entitlements Act No. 4 of 1986, retired presidents or their widows are entitled to housing, pensions, staff facilities, and transportation.
+
+...
 
 [Data](articles/205dfa60.json)
 
@@ -1773,45 +1807,5 @@ The Colombo Central Divisional Crime Investigation Bureau (CCIB) is conducting f
 ◼️
 
 [Data](articles/7e977c5b.json)
-
----
-
-### Govt’s large-scale development projects to begin in Sept – Minister
-
-*2025-08-25 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111802/govts-large-scale-development-projects-to-begin-in-sept-minister) · `en`
-
-Minister Bimal Ratnayake announced that the government’s large-scale development projects will commence in September.
-
-He stated that the first phase of these projects will commence in Jaffna under the patronage of President Anura Kumara Dissanayake.
-
-The Minister further noted that development activities related to the new Coconut Triangle in the Northern Province, centered in the Mullaitivu area of the Vanni region, are scheduled to commence on September 2.
-
-“From the first of September, the government will launch major development projects for the benefit of the people. Among them, the opening of an international sports complex in the Mandaitivu area of Jaffna will take place.”
-
-In addition, the longstanding issue faced by the people of Jaffna in obtaining passports from the District Secretariat will be resolved, he added.
-
-“The facility will be provided through a new online system. Several other development initiatives will also be launched during this period,” he noted.
-
-◼️
-
-[Data](articles/d99c1c5a.json)
-
----
-
-### එරික් සෝල්හයිම් හිටපු ජනාධිපති රනිල්ට නිදහස ඉල්ලයි
-
-*2025-08-25 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213759) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් අප්‍රසාදය පළ කරමින් සහ ඔහුව නිදහස් කරන ලෙස ඉල්ලා නෝර්වේ ශ්‍රී ලංකා හිටපු සාම නියෝජිත එරික් සෝල්හයිම් සිය එක්ස් ගිණුමෙහි සටහනක් තබා තිබේ.
-
-එහිදී ඔහු සඳහන් කර ඇත්තේ හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍යය පිළිබඳව සැලකිලිමත් විය යුතු බවය.
-
-එමෙන්ම 2022 දී ශ්‍රී ලංකාව ආර්ථික හා දේශපාලන ව්‍යසනයකට ළඟා වූ විට ශ්‍රී ලංකාව බේරා ගැනීමට නැගී සිටි නායකයා ඔහු වන බවත් ඔහුට එරෙහි චෝදනාවලට කිසිදු පදනමක් නොමැති බවත් එම සටහන හරහා ඔහු සඳහන් කර ඇත.
-
-දූෂණයට එරෙහි ශ්‍රී ලංකා රජයේ ව්‍යාපාරයට තමන් පූර්ණ සහයෝගය ලබා දෙන නමුත් සැබෑ ගැටළු කෙරෙහි අවධානය යොමු කරන ලෙස එරික් සෝල්හයිම් වැඩිදුරටත් සඳහන් කර සිටී.
-
-◼️
-
-[Data](articles/1750b92c.json)
 
 ---

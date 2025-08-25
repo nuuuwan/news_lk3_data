@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 05:31:53**
+As of **2025-08-25 06:11:02**
 
 ## Newspaper Stats
 
-*Scraped **72,115** Articles*
+*Scraped **72,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 611
 bbccomsinhala | 677
 colombotelegraphcom | 739
 economynextcom | 4,406
-islandlk | 4,433
+islandlk | 4,441
 dailymirrorlk | 4,733
 dailyftlk | 5,088
 adalk | 6,927
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.9%) of 72,115 articles have been extended.
+61,973 (85.9%) of 72,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -306,6 +306,38 @@ The only hope for Sri Lanka is for it to be blessed with a Government that has t
 
 ---
 
+### AI brings new sparkle to Sri Lankan gem trade
+
+*2025-08-24 22:43:00* · [`islandlk`](http://island.lk/ai-brings-new-sparkle-to-sri-lankan-gem-trade/) · `en`
+
+In a significant boost to Sri Lanka’s historic gemstone trade, local traders can now harness the power of Artificial Intelligence (AI) to instantly certify and assess the quality of their stones, thanks to a groundbreaking new technology launched in the island’s key trading hubs.
+
+The revolutionary system, a result of a partnership between global digital engineering firm Fcode Labs and gemstone scanning innovator Porolis, has been deployed at centres in Beruwala, Colombo, and Rathnapura. This move puts laboratory-grade analysis directly into the hands of gemologists and traders, modernising a centuries-old industry that has long relied on manual, time-consuming methods.
+
+The technology combines the KROMA scanning device, invented by Porolis, with the cloud-based GemLUX AIaaS platform. This allows professionals to digitally scan a gemstone and receive an immediate, AI-driven analysis, complete with a detailed digital report accessible through a secure online dashboard.
+
+...
+
+[Data](articles/e920362d.json)
+
+---
+
+### Softlogic Life leadership expresses strong confidence in Sri Lanka’s insurance sector
+
+*2025-08-24 22:42:00* · [`islandlk`](http://island.lk/softlogic-life-leadership-expresses-strong-confidence-in-sri-lankas-insurance-sector/) · `en`
+
+Iftikar Ahamed, Managing Director of Softlogic Life, recently reaffirmed his optimism regarding the future of life and health insurance in Sri Lanka, citing the company’s strong performance and strategic expansion efforts as key drivers of growth.
+
+“We remain optimistic about the prospects for Life and Health insurance in Sri Lanka,” Ahamed stated. “Our results in the first half of the year are a testament to our proactive mindset and the resilience of our team in driving sustainable business performance while delivering on our core purpose of protecting lives.”
+
+The company recently acquired Allianz Life Insurance Lanka Limited, now a subsidiary of Softlogic Life Insurance PLC. Ahamed emphasised that this move aligns with the company’s mission to extend protection to more Sri Lankans. “As we move ahead together, we will continue to innovate and challenge industry norms to drive a better quality of life for Sri Lankans,” he added.
+
+...
+
+[Data](articles/34d3e76b.json)
+
+---
+
 ### දෙමහල් ගොඩනැගිල්ලක් ව්‍යාජ ඔප්පුවකට බදුදීමේ සිද්ධියට අදාළ නඩුවට දුන් නියෝගය
 
 *2025-08-24 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213749) · `si`
@@ -399,6 +431,78 @@ Recently, I had the opportunity to witness the formalisation of a new ‘think-t
 ...
 
 [Data](articles/406f595d.json)
+
+---
+
+### Tata Motors and DIMO strengthen partnership with major vehicle launch in Sri Lanka
+
+*2025-08-24 21:42:00* · [`islandlk`](http://island.lk/tata-motors-and-dimo-strengthen-partnership-with-major-vehicle-launch-in-sri-lanka/) · `en`
+
+Tata Motors, in partnership with its long-standing Sri Lankan distributor DIMO, has launched 10 new commercial trucks and buses. This expansion celebrates the 65-year collaboration between the two companies and significantly bolsters Tata Motors’ presence in the Sri Lankan market.
+
+The new vehicles are engineered to meet the country’s diverse cargo and passenger transport needs. Designed for superior performance and durability across demanding terrain, they promise operational efficiency, reliability, and a lower total cost of ownership for businesses.
+
+...
+
+[Data](articles/6693b4a6.json)
+
+---
+
+### Royal Nursing Home’s chairman recognised with three Gold awards for social services
+
+*2025-08-24 21:38:00* · [`islandlk`](http://island.lk/royal-nursing-homes-chairman-recognised-with-three-gold-awards-for-social-services/) · `en`
+
+The Club Awarding Ceremony organized by Lions Clubs International District 306 was held recently in a prestigious manner at the Royal Colombo Golf Club. The Chief Guest at the event was Prime Minister’s Secretary, Lion. Pradeep Saputhanthri along with District 306 D6 Chairman Lion. Ayesh De Silva. During the event, in recognition of the social service contributions made through the Lions organization from 2021 to 2025, Lion. Manuja Hewawasam, the Chairman of Royal Nursing Home (Pvt) Ltd, was honored with three Gold Awards: Most Supportive & Outstanding Lion Leader Award 2021–2025, Highest Financial Sponsorships Award 2021–2025, Service Excellence Award 2021–2025. Lion. Manuja Hewawasam has generously made significant financial donations towards Buddhist religious activities, including temple renovations and new constructions. He has also greatly contributed to social welfare initiatives.
+
+Industry observers highlight BYD’s potential in Sri Lanka’s evolving EV market
+
+...
+
+[Data](articles/02f6e6ab.json)
+
+---
+
+### Tech Cargo Hub hosts strategic industry dialogue
+
+*2025-08-24 21:38:00* · [`islandlk`](http://island.lk/tech-cargo-hub-hosts-strategic-industry-dialogue/) · `en`
+
+Tech Cargo Hub (TCH), Sri Lanka’s leading digital warehousing and logistics solutions provider, hosted a high-impact industry conference on the 12th of July, to unveil its newest venture; TCH 2, a 20,000 sq. ft. smart warehouse designed to power the future of logistics in the region.
+
+Held at TCH 1, the event brought together industry leaders from freight forwarding, retail, and supply chain tech to discuss a shared challenge: how to digitalize warehousing in a market long reliant on manual processes.
+
+“Digitisation gives us the tools to make an immediate impact, even in small ways,” said Ikraam Reyaz, CEO of SFL Tech — the technology service provider and advisor for TCH — during his keynote.
+
+...
+
+[Data](articles/07d77b0e.json)
+
+---
+
+### ANC Education hosts pre-departure event for students heading to U.S. and Canada
+
+*2025-08-24 21:37:00* · [`islandlk`](http://island.lk/anc-education-hosts-pre-departure-event-for-students-heading-to-u-s-and-canada/) · `en`
+
+ANC Education recently hosted a special pre-departure event to celebrate and support students who have successfully secured their student visas to begin their higher education journey in the United States and Canada. This event was designed not only to recognize the achievements of these students but also to provide them and their families with guidance and reassurance as they prepare to embark on a new chapter of their lives.
+
+Over 30 students, accompanied by their parents, gathered for this occasion, which marked the culmination of months of planning, preparation, and perseverance. The event featured a series of informative and engaging sessions focused on helping students navigate the practical and emotional aspects of international relocation.
+
+...
+
+[Data](articles/83070c99.json)
+
+---
+
+### Pyramid Wilmar launches 20th Anniversary Chefs Programme
+
+*2025-08-24 21:36:00* · [`islandlk`](http://island.lk/pyramid-wilmar-launches-20th-anniversary-chefs-programme/) · `en`
+
+Commemorating two decades of operations in Sri Lanka, leading food manufacturing and marketing company Pyramid Wilmar recently announced the launch of a new ‘ChefsHunt’ scholarship programme. The joint venture between Sri Lanka’s Pyramid Oil Mills and Singapore-based agribusiness giant Wilmar International was incorporated in 2005 and has since become a major force in the local industry.
+
+The ‘ChefsHunt’ initiative aims to award 25 culinary enthusiasts across the island with scholarships to enroll in an NVQ Level 4 certification programme at the M W Institute of Culinary Arts. This effort is part of the company’s broader anniversary celebrations and reflects its commitment to nurturing local talent.
+
+...
+
+[Data](articles/54bfc544.json)
 
 ---
 
@@ -1619,123 +1723,5 @@ In a statement, the Government Medical Officers’ Association (GMOA) claimed th
 ◼️
 
 [Data](articles/4ca8b127.json)
-
----
-
-### ரணில் கைது: இந்திய எம்.பி கடும் அறிவுறுத்தல்
-
-*2025-08-24 11:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-இந்திய-எம்-பி-கடும்-அறிவுறுத்தல்/175-363374) · `ta`
-
-“பழிவாங்கும் அரசியலை கைவிட வேண்டும்”என இலங்கை முன்னாள்  ஜனாதிபதி ரணில் விக்கிரமசிங்கே கைதுக்கு காங்கிரஸ் எம்பி சசி தரூர் கருத்து தெரிவித்துள்ளார்.
-
-இலங்கை முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க,   அரசு நிதி முறைகேடு வழக்கில், கைது செய்யப்பட்ட ரணில் விக்கிரமசிங்கவுக்கு உடல் நலக்குறைவு ஏற்பட்டதையடுத்து தீவிர சிகிச்சைக்காக மருத்துவமனையில் அனுமதிக்கப்பட்டு உள்ளார். இவரது கைதுக்கு, காங்கிரஸ் எம்பி சசி தரூர் கவலை தெரிவித்துள்ளார்.
-
-இது குறித்து காங்கிரஸ் எம்பி சசி தரூர் சமூக வலைதளத்தில் வெளியிட்டுள்ள பதிவில் கூறியிருப்பதாவது: இலங்கையின் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை, மேலோட்டமாகப் பார்த்தால், அற்பமான குற்றச்சாட்டுகளின் பேரில் கைது செய்திருப்பது குறித்து கவலை கொள்கிறேன்.
-
-உடல்நலப் பிரச்னைகள் காரணமாக அவர் ஏற்கனவே சிறை மருத்துவமனைக்கு கொண்டு செல்லப்பட்டு உள்ளார். இது அவர்களின் உள் விவகாரம் என்பதை முழுமையாக மதிக்கும் அதே வேளையில், பழிவாங்கும் அரசியலை இலங்கை அரசு கைவிட வேண்டும்.
-
-...
-
-[Data](articles/37824074.json)
-
----
-
-### Ex-President Chandrika Kumaratunga issues statement on Ranil’s arrest
-
-*2025-08-24 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111786/ex-president-chandrika-kumaratunga-issues-statement-on-ranils-arrest-) · `en`
-
-Former President Chandrika Kumaratunga has issued a statement regarding the arrest of former President Ranil Wickremesinghe, who is presently in remand custody.
-
-The statement emphasizes that the particular circumstances surrounding the arrest of former President Wickremesinghe at a point when the investigation is nearly complete give rise to grave concern regarding the strength of basic democratic institutions in the country.
-
-“What we are witnessing is a calculated onslaught on the very essence of our democratic values. The consequences of this go far beyond the fate of an individual or any political grouping, and involve peril for the rights of our society as a whole,” the statement added.
-
-In her statement, Chandrika Kumaratunga also said that she wholeheartedly joins in expressing her unreserved opposition to these initiatives, which all political leaders are duty-bound to resist.
-
-◼️
-
-[Data](articles/b5318694.json)
-
----
-
-### மட்டக்களப்பில் சொந்த வீட்டில் 16 பவுண் தங்க ஆபரணங்களை திருடிய இளைஞன் ; மூவர் கைது
-
-*2025-08-24 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223239) · `ta`
-
-மட்டக்களப்பில் சொந்த வீட்டில் 16 பவுண் தங்க ஆபரணங்களை திருடிய  இளைஞனையும் அவரது நண்பனையும் திருட்டு தங்க ஆபரணத்தை வாங்கிய நகைகடை உரிமையாளர் ஒருவர் உட்பட 3 பேரை வெள்ளிக்கிழமை (21) கைது செய்துள்ளனர்.
-
-...
-
-[Data](articles/dccb140f.json)
-
----
-
-### ரூ.100 கோடி சொத்து:  3 கோடியை எரித்து கழிவறையில் ஊற்றிய தம்பதி சிக்கினர்
-
-*2025-08-24 11:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-100-கோடி-சொத்து-3-கோடியை-எரித்து-கழிவறையில்-ஊற்றிய-தம்பதி-சிக்கினர்/175-363373) · `ta`
-
-ரூ.100 கோடி சொத்து:  3 கோடியை எரித்து கழிவறையில் ஊற்றிய தம்பதி சிக்கினர்
-
-லஞ்​சம் வாங்கி ரூ.100 கோடிக்கு மேல் சொத்து குவித்த பிஹார் இன்ஜினீயர் வீட்​டில் சோதனை நடத்த வந்த பொருளா​தார குற்​றப்​பிரிவு அதி​காரி​கள், ரூ.3 கோடி பணத்தை எரித்து அழித்​ததை கண்டு திடுக்​கிட்​டனர்.
-
-பிஹார் மாநிலத்​தில் ஊரக பணி​கள் துறை​யில் இன்​ஜினீய​ராக பணி​யாற்​று​பவர் வினோத் ராய், இவர்,  மது​பானி, சீதா மார்ஹி ஆகிய இரு மாவட்​டங்​களில் நடை​பெறும் சாலைகள் மற்​றும் பாலங்​கள் கட்​டு​மானத்தை இவர்​தான் கவனித்து வந்​தார். ஒப்​பந்​த​காரர்​களிடம் இருந்து அதி​கள​வில் லஞ்​சம் வாங்​கு​வதை இவர் வழக்​க​மாக கொண்​டுள்​ளார். இது குறித்து பொருளா​தார குற்​றப்​பிரிவுக்கு புகார் தெரிவிக்​கப்​பட்​டது. இதையடுத்து அவர்​கள் வீட்​டில் சோதனை செய்ய பொருளா​தார குற்​றப்​பிரிவு அதி​காரி​கள் முடிவு செய்​தனர்.
-
-...
-
-[Data](articles/0a46260e.json)
-
----
-
-### හිටපු ජනපති රනිල් අත්අඩංගුවට ගැනීමට විරෝධය දක්වමින් හිටපු ජනපතිනී චන්ද්‍රිකාගෙන් නිවේදනයක්
-
-*2025-08-24 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213728) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මැතිණිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-එම නිවේදනයේ සඳහන් වන්නේ විමර්ශනය බොහෝ දුරට අවසන් වී ඇති අවස්ථාවක, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ අත්අඩංගුවට ගැනීම රටේ මූලික ප්‍රජාතන්ත්‍රවාදී ආයතනවල ශක්තිය සම්බන්ධයෙන් බරපතල කනස්සල්ලක් ඇති කරන බවය.
-
-එමෙන්ම මෙහි ප්‍රතිවිපාක පුද්ගලයෙකුගේ හෝ ඕනෑම දේශපාලන කණ්ඩායමක ඉරණමට වඩා සමාජයේ අයිතිවාසිකම් සඳහා ගැටලුවක් ඇති කරවන බවද එහි සඳහන් වේ.
-
-දේශපාලන නායකයින්ට විරුද්ධ ගෙන යන මෙම ක්‍රියාකාරකම් සඳහා තමන් දැඩිව සිය විරෝධය දක්වන බවද හිටපු ජනාධිපතිනිය වැඩිදුරටත් එම නිවේදනයේ දක්වා ඇත.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන බන්ධනාගාරගත කිරීමේ සිද්ධිය මුල් කරගනිමින් විපක්ෂයේ දේශපාලන පක්ෂ නියෝජිතයින් එක්ව පවත්වන විශේෂ ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් තලතා අතුකෝරල මහත්මිය විසින් අදාළ නිවේදනය ප්‍රකාශ‍යට පත් කළාය.
-
-◼️
-
-[Data](articles/279d1ec8.json)
-
----
-
-### சொந்த வீட்டில் தங்கம் திருடிய இளைஞன் கைது
-
-*2025-08-24 10:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/சொந்த-வீட்டில்-தங்கம்-திருடிய-இளைஞன்-கைது/73-363370) · `ta`
-
-சுமார் 16 பவுன் தங்க ஆபரணங்களை திருடிய இளைஞன் ஒருவன் உட்பட மூவர் வெள்ளிக்கிழமை (21) அன்று கைது செய்யப்பட்டதாக மட்டக்களப்பு தலைமையக பொலிஸார் தெரிவித்தனர்.
-
-சந்தேக நபரான 18 வயதுடைய இளைஞன் தாய் தந்தை இழந்த நிலையில் அவரை அவரது உறவினர்கள் தமது வீட்டில் வைத்து ஆதரித்து படிக்க வைத்து பராமரித்து வந்தனர்.
-
-இந்த நிலையில் தமது வீட்டில் வைக்கப்பட்டிருந்த தங்க ஆபரணங்கள் திருட்டுப் போயுள்ளதையடுத்து பொலிஸ் நிலையத்தில் உறவினர்கள் முறைப்பாடு செய்ததன்  பிரகாரம் பொலிஸார் மேற்கொண்ட விசாரணையில் குறித்த இளைஞன் திருடியுள்ளதைக கண்டறிந்தனர்.
-
-இதனையடுத்து சம்பவ தினமான வெள்ளிக்கிழமை  குறித்த இளைஞனையும் அவரது நண்பனையும் மற்றும்  திருடிய தங்க ஆபரணத்தை சட்டவிரோதமாக வாங்கிய  காத்தான்குடி பகுதியிலுள்ள தங்க ஆபரண விற்பனை நிலைய உரிமையாளர் உட்பட 3 பேரை கைது செய்தனர்.
-
-...
-
-[Data](articles/e055639d.json)
-
----
-
-### ரணில் கைது: ஐ.நாவில் முறைப்பாடு
-
-*2025-08-24 10:48:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-நாவில்-முறைப்பாடு/175-363368) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கைது தொடர்பாக கொழும்பில் உள்ள ஐக்கிய நாடுகள் சபை அலுவலகத்தில் புகார் அளிக்கப்பட்டுள்ளது.
-
-பாராளுமன்ற உறுப்பினர் கவிந்த ஜெயவர்தன மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர் மயந்த திசாநாயக்க ஆகியோர் தாக்கல் செய்துள்ளனர்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் கைது மற்றும் தடுப்புக்காவல் இந்த அரசாங்கம் செயல்படுத்தியுள்ள ஜனநாயக விரோத அரசியல் பழிவாங்கலுக்கு சிறந்த எடுத்துக்காட்டு என்று   கவிந்த ஜெயவர்தன தெரிவித்தார்.
-
-◼️
-
-[Data](articles/8b7648e8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 14:09:01**
+As of **2025-08-25 14:25:15**
 
 ## Newspaper Stats
 
-*Scraped **72,214** Articles*
+*Scraped **72,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,935
 adaderanalk | 9,128
-tamilmirrorlk | 10,683
+tamilmirrorlk | 10,684
 virakesarilk | 11,890
 adaderanasinhalalk | 12,511
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,214 articles have been extended.
+61,973 (85.8%) of 72,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### ’’நான் இராஜினாமா செய்யவில்லை’’
+
+*2025-08-25 13:57:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-இராஜினாமா-செய்யவில்லை/175-363454) · `ta`
+
+தேசிய மக்கள் சக்தி  அரசாங்கத்திலிருந்து இராஜினாமா செய்யவுள்ளதாக வெளியாகும் தகவல்கள் அடிப்படையற்றவை என்பதுடன் அவை பொய்யானவை என‌ மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/212cc921.json)
+
+---
 
 ### இந்தியாவில் இருந்து கடல் மார்க்கமாக தலைமன்னார் வந்த குடும்பஸ்தர் மீது கடற்படையினர் கொடூர தாக்குதல் - யாழ். வைத்தியசாலையில் அனுமதி
 
@@ -1785,21 +1797,5 @@ By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Pirat
 ...
 
 [Data](articles/8c15ac74.json)
-
----
-
-### Development surge in Peninsula India: Lessons for Sri Lanka
-
-*2025-08-25 01:03:48* · [`dailyftlk`](https://www.ft.lk/columns/Development-surge-in-Peninsula-India-Lessons-for-Sri-Lanka/4-780689) · `en`
-
-The Eastern, North Central, and Northern Provinces, with a historical presence of handloom and garment sectors, could be linked to the textile clusters of Tamil Nadu
-
-The geographical proximity and historical ties between Northern, North Central, and Eastern Sri Lanka and Tamil Nadu state present an untapped opportunity for mutually beneficial economic cooperation. However, these possibilities remain untapped
-
-By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Piratheepan, Neruja Narenthiran, Mary Delcia Antony Christian, Kamalakumari Karunanithy, and Muttukrishna Sarvananthan
-
-...
-
-[Data](articles/f14c4eec.json)
 
 ---

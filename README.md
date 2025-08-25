@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 21:33:11**
+As of **2025-08-25 21:51:00**
 
 ## Newspaper Stats
 
-*Scraped **72,294** Articles*
+*Scraped **72,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,946
-adaderanalk | 9,148
+adaderanalk | 9,149
 tamilmirrorlk | 10,700
 virakesarilk | 11,902
 adaderanasinhalalk | 12,523
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,294 articles have been extended.
+61,973 (85.7%) of 72,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Israel hits Gaza hospital, killing at least 20 people, including five journalists
+
+*2025-08-25 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111840/israel-hits-gaza-hospital-killing-at-least-20-people-including-five-journalists) · `en`
+
+Israel struck Nasser hospital in the south of the Gaza Strip on Monday, killing at least 20 people, including five journalists who worked for Reuters, the Associated Press, Al Jazeera and others.
+
+Cameraman Hussam al-Masri, a Reuters contractor, was killed near a live broadcasting position operated by Reuters on an upper floor just below the roof of the hospital in Khan Younis in an initial strike, Palestinian health officials said.
+
+Officials at the hospital and witnesses said Israel then struck the site a second time, killing other journalists as well as rescue workers and medics, who had rushed to the scene to help.
+
+The journalists killed included Mariam Abu Dagga, who freelanced for the Associated Press and other outlets, Mohammed Salama, who worked for Qatar-based broadcaster Al Jazeera, Moaz Abu Taha, a freelance journalist who worked with several news organisations including occasionally contributing to Reuters, and Ahmed Abu Aziz.
+
+...
+
+[Data](articles/3def333d.json)
+
+---
 
 ### රුසියාව යුද්ධය අවසන් කිරීමේ කොන්දේසි ඉදිරිපත් කරයි
 
@@ -1823,23 +1841,5 @@ Solicitor General Viraj Dayaratne appeared on behalf of the government.
 ...
 
 [Data](articles/2c53c949.json)
-
----
-
-### Diplomats in Colombo informed about arrest of ex-President Ranil Wickremesinghe
-
-*2025-08-25 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111816/diplomats-in-colombo-informed-about-arrest-of-ex-president-ranil-wickremesinghe) · `en`
-
-Foreign diplomats in Colombo have been informed yesterday (25) regarding the arrest and imprisonment of former President Ranil Wickremesinghe.
-
-Accordingly, the Indian High Commissioner was briefed last night at the Indian House.
-
-Former Members of Parliament including G.L. Peiris, Thalatha Atukorale, and Ali Sabry also participated in the occasion.
-
-Former President Ranil Wickremesinghe is currently in remand custody after being arrested by the Criminal Investigation Department (CID) for allegedly misusing state funds in 2023.
-
-◼️
-
-[Data](articles/b1036533.json)
 
 ---

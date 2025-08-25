@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 12:52:50**
+As of **2025-08-25 13:07:26**
 
 ## Newspaper Stats
 
-*Scraped **72,193** Articles*
+*Scraped **72,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,410
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,933
+adalk | 6,934
 adaderanalk | 9,119
-tamilmirrorlk | 10,680
+tamilmirrorlk | 10,682
 virakesarilk | 11,886
 adaderanasinhalalk | 12,509
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,509
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,193 articles have been extended.
+61,973 (85.8%) of 72,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### டன்சினன் லயனில் தீ ; 10 வீடுகள் கருகின
+
+*2025-08-25 12:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டன்சினன்-லயனில்-தீ-10-வீடுகள்-கருகின/76-363450) · `ta`
+
+பூண்டுலோயா, டன்சினன் மத்திய பிரிவில் உள்ள லயன் குடியிருப்பில் திங்கட்கிழமை(25) முற்பகல் 11 மணியளவில் ஏற்பட்ட தீ பரவலில்  10 அறைகள் சேதமடைந்துள்ளன.
+
+◼️
+
+[Data](articles/1bbe3633.json)
+
+---
+
+### இலங்கைப் பெண் இங்கிலாந்தில் கொலை
+
+*2025-08-25 12:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பெண்-இங்கிலாந்தில்-கொலை/175-363449) · `ta`
+
+இங்கிலாந்து தெற்கு வேல்ஸ் நகரம் கார்டிஃப் பிரதேசத்தில் வசிக்கும் இலங்கைப் பெண் ஒருவர் கடந்த 21 ஆம் திகதி  கொலை செய்யப்பட்டுள்ளார்.
+
+சம்பவ தினமான 21 ஆம் திகதி அன்று அந்நாட்டு  நேரப்படி காலை 7.37 மணியளவில் கார்டிஃப் பகுதியில் உள்ள ஒரு வீதியில் குறித்த பெண் பலத்த காயங்களுடன் விழுந்து கிடந்த நிலையில் மீட்கப்பட்டுள்ளார். அவசர உதவியாளர்கள் அவரது உயிரைக் காப்பாற்ற தீவிரமாக முயன்ற போதும்   அனைத்து முயற்சிகளும் பலனளிக்கவில்லை என வெளிநாட்டு ஊடகங்கள் தெரிவித்துள்ளது.
+
+இந்த சம்பவம் தொடர்பாக கார்டிஃப் பகுதியைச் சேர்ந்த  37 வயது இலங்கையர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக  தெற்கு வேல்ஸ் பொலிஸார். தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f1a57a03.json)
+
+---
 
 ### හිටපු ජනපති රනිල් අත්අඩංගුවට ගැනීම ගැන විදේශ තානාපතිවරු දැනුවත් කරයි
 
@@ -101,6 +129,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/146784e1.json)
+
+---
+
+### ටයිෆූන් පැමිණීමට පෙර වියට්නාමයේ  පුද්ගලයන් ලක්ෂ 5ක් ඉවත් කරයි
+
+*2025-08-25 12:03:58* · [`adalk`](https://www.ada.lk/breaking_news/ටයිෆූන්-පැමිණීමට-පෙර-වියට්නාමයේ--පුද්ගලයන්-ලක්ෂ-5ක්-ඉවත්-කරයි/11-418048) · `si`
+
+ටයිෆූන් කජිකි සුළි කුණාටුව වියට්නාමයට පැමිණීමට පෙර එරට 586,000 කට අධික පිරිසක් ඉවත් කිරීමට නියෝග කර තිබේ.
+
+කුණාටුව ​මේ වන විට පැයට කි​ලෝමීටර් 166ක හමන බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/20953d96.json)
 
 ---
 
@@ -1701,55 +1743,5 @@ Over 30 students, accompanied by their parents, gathered for this occasion, whic
 ...
 
 [Data](articles/83070c99.json)
-
----
-
-### Pyramid Wilmar launches 20th Anniversary Chefs Programme
-
-*2025-08-24 21:36:00* · [`islandlk`](http://island.lk/pyramid-wilmar-launches-20th-anniversary-chefs-programme/) · `en`
-
-Commemorating two decades of operations in Sri Lanka, leading food manufacturing and marketing company Pyramid Wilmar recently announced the launch of a new ‘ChefsHunt’ scholarship programme. The joint venture between Sri Lanka’s Pyramid Oil Mills and Singapore-based agribusiness giant Wilmar International was incorporated in 2005 and has since become a major force in the local industry.
-
-The ‘ChefsHunt’ initiative aims to award 25 culinary enthusiasts across the island with scholarships to enroll in an NVQ Level 4 certification programme at the M W Institute of Culinary Arts. This effort is part of the company’s broader anniversary celebrations and reflects its commitment to nurturing local talent.
-
-...
-
-[Data](articles/54bfc544.json)
-
----
-
-### European postal services suspend shipment of packages to US over tariffs
-
-*2025-08-24 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111795/european-postal-services-suspend-shipment-of-packages-to-us-over-tariffs) · `en`
-
-The end of an exemption on tariff duties for low-value packages coming into the United States is causing multiple international postal services to pause shipping as they await more clarity on the rule.
-
-The exemption, known as the “ de minimis” exemption, allows packages worth less than $800 to come into the U.S. duty free. A total of 1.36 billion packages were sent in 2024 under this exemption, for goods worth $64.6 billion, according to data from the U.S. Customs and Border Patrol Agency.
-
-It is set to expire on Friday. On Saturday, postal services around Europe announced that they are suspending the shipment of many packages to the United States amid confusion over new import duties.
-
-Postal services in Germany, Denmark, Sweden and Italy said they will stop shipping most merchandise to the U.S. effective immediately. France and Austria will follow on Monday.
-
-...
-
-[Data](articles/a98d07bf.json)
-
----
-
-### ජිහාඩ් සටන්කාමීන් 35ක් ජීවිතක්ෂයට
-
-*2025-08-24 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213747) · `si`
-
-නයිජිරියානු ආරක්ෂක අංශ එල්ල  කළ ගුවන් ප්‍රහාර මාලාවකින් ජිහාඩ් සටන්කාමීන් 35 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-කැමරූන් දේශසීමාව ආසන්නයට එල්ල කරන ලද ගුවන් ප්‍රහාරවලින් මෙම මරණ සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ජිහාඩ් සටන්කාමීන් විසින් නයිජිරියාව වෙත එල්ල කිරීමට සැලසුම් කර තිබු ප්‍රහාරයක් වළක්වාලමින් මෙම ප්‍රහාර එල්ල කර ඇත.
-
-නයිජීරියානු ආරක්ෂක අංශ පසුගිය මාස කිහිපය තුළ එල්ල කරන ලද ප්‍රහාරවලින් සටන්කාමින් 800 දෙනෙකු පමණ ජීවිතක්ෂයට පත්ව ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/828334fb.json)
 
 ---

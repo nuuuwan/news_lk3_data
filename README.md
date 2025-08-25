@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 18:10:13**
+As of **2025-08-25 18:32:41**
 
 ## Newspaper Stats
 
-*Scraped **72,268** Articles*
+*Scraped **72,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,941
+adalk | 6,942
 adaderanalk | 9,140
 tamilmirrorlk | 10,696
 virakesarilk | 11,896
-adaderanasinhalalk | 12,520
+adaderanasinhalalk | 12,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,268 articles have been extended.
+61,973 (85.8%) of 72,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ රිමාන්ඩ්
+
+*2025-08-25 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213782) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ මහතා සැප්තැම්බර් මස 1 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/844da43e.json)
+
+---
 
 ### රැප් ගායකයෙක් ව්‍යාජ පිස්තෝලයක් සහ මත්ද්‍රව්‍ය සමග අත්අඩංගුවට
 
@@ -1330,6 +1342,20 @@ Local wholesale prices of coconut oil were 900,000 to 920,000 rupees per metric 
 
 ---
 
+### වියට්නාමයේ  පුද්ගලයන් ලක්ෂ 5ක් ඉවත් කරයි
+
+*2025-08-25 12:03:58* · [`adalk`](https://www.ada.lk/breaking_news/වියට්නාමයේ--පුද්ගලයන්-ලක්ෂ-5ක්-ඉවත්-කරයි/11-418048) · `si`
+
+ටයිෆූන් කජිකි සුළි කුණාටුව වියට්නාමයට පැමිණීමට පෙර එරට 586,000 කට අධික පිරිසක් ඉවත් කිරීමට නියෝග කර තිබේ.
+
+කුණාටුව ​මේ වන විට පැයට කි​ලෝමීටර් 166ක හමන බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/d4ffd0f9.json)
+
+---
+
 ### SC begins hearing petitions against bill to revoke privileges of former Presidents
 
 *2025-08-25 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111815/sc-begins-hearing-petitions-against-bill-to-revoke-privileges-of-former-presidents) · `en`
@@ -1789,33 +1815,5 @@ The suspects taken into custody are residents of the Wellampitiya and Peliyagoda
 ◼️
 
 [Data](articles/81bd7010.json)
-
----
-
-### කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති සී.අයි.ඩී. අත්අඩංගුවට
-
-*2025-08-25 10:22:32* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-දිසාව-භාර-නියෝජ්‍ය-පොලිස්පති-සී-අයි-ඩී--අත්අඩංගුවට/11-418047) · `si`
-
-කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද(25දා) අත්අඩංගුවට ගෙන තිබේ.
-
-ශ්‍රාවස්තිපුර තිබිරිකඩවල ප්‍රදේශයේ නිදන් හැරීමේ සිදුවීමක් සම්බන්ධව අත්අඩංගුවට ගෙන සිටින ඔහුගේ බිරිඳ සම්බන්ධව සිදු කෙරෙන විමර්ශන කටයුතු සඳහා මෙලෙස ඔහුව අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/89fa6218.json)
-
----
-
-### Container truck collision with tractor kills 8, injures 43 in India
-
-*2025-08-25 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111807/container-truck-collision-with-tractor-kills-8-injures-43-in-india) · `en`
-
-At least eight people, including two women and a child, were killed, and around 43 others injured when a container truck collided with a tractor carrying devotees in India’s northern state of Uttar Pradesh early on Monday, police said.
-
-“Three people are in serious condition on ventilator,” Bulandshahr district police chief Dinesh Kumar Singh said.
-
-◼️
-
-[Data](articles/4ad69c66.json)
 
 ---

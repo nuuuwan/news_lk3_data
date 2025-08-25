@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 17:32:18**
+As of **2025-08-25 17:56:08**
 
 ## Newspaper Stats
 
-*Scraped **72,257** Articles*
+*Scraped **72,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 614
 bbccomsinhala | 677
 colombotelegraphcom | 739
-economynextcom | 4,410
+economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,257 articles have been extended.
+61,973 (85.8%) of 72,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Sri Lanka coconut production recovers strongly in 2Q
+
+*2025-08-25 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-production-recovers-strongly-in-2q-238251/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s coconut production had recovered strongly in the second quarter of 2025, with June production rising 18 percent from a year earlier to 289.5 million nuts, official data showed.
+
+Coconut output in May 2025 was down 1.2 percent from a year earlier to 257.5 million nuts.
+
+Coconut output in April 2025 was down 6.2 percent from a year earlier.
+
+Sri Lanka’s coconut output as well as production in several East Asian countries plunged in the second quarter of 2025, with freak weather and disease suspected among other reasons.
+
+Sri Lanka coconut prices shot up 18.32 percent in January 2025, recording the highest price for a coconut in a weekly auction, Coconut Development Authority showed.
+
+But now prices have eased to around 134 rupees a coconut at the weekly auctions. (Colombo/Aug25/2025)
+
+◼️
+
+[Data](articles/6687bd99.json)
+
+---
 
 ### ’’ரணில் விக்ரமசிங்கவின் கைது தனிப்பட்டதொரு சம்பவமல்ல’’
 
@@ -45,6 +67,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/07ea6acc.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-08-25 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238267/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.25/35 to the US dollar in the spot market Monday, weaker from 301.95/302.05 Friday, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.10/20 percent, down from 8.15/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.55/60 percent, up from 8.50/60 percent.
+
+A bond maturing on 15.12.2028 closed at 8.95/9.00 percent, up from 8.90/9.00 percent.
+
+A bond maturing on 15.12.2029 closed at 9.43/46 percent, up from 9.42/45 percent.
+
+A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.25/31 percent. (Colombo/Aug25/2025)
+
+◼️
+
+[Data](articles/0d074ed4.json)
 
 ---
 
@@ -134,6 +178,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka stocks slide 0.36-pct, weighed down by banks
+
+*2025-08-25 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-slide-0-36-pct-weighed-down-by-banks-238240/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) fell 0.36 percent for the second straight session, brokers said.
+
+“Market ended a bit lower. Saw a bit of profit taking after five days of continuous gain,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI fell 73.61 points from Friday to close at 20,575.59; while the S&P SL20 index dipped 0.78 percent, or 47.33 points, to close at 6,042.51.
+
+“Investor interest in construction and hotel related shares were seen,” Mathew said. ” Banks were largely down. Lot of turnover was seen.”
+
+Hotel and related shares possibly rose on tourist arrivals, topping 1.5 million on August 18, 2025, Mathew said.
+
+...
+
+[Data](articles/e6ced4d4.json)
+
+---
+
 ### හිටපු ජනාධිපතිවරුන්ගේ හිමකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන්
 
 *2025-08-25 16:23:52* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරුන්ගේ-හිමකම්-ඉවත්-කිරීමේ-පනත්-කෙටුම්පතට-එරෙහි-පෙත්සම්-විභාගය-අවසන්/11-418054) · `si`
@@ -161,6 +225,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b499ab05.json)
+
+---
+
+### Sri Lanka export board promotes smart agriculture, aquaculture tech
+
+*2025-08-25 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-export-board-promotes-smart-agriculture-aquaculture-tech-238202/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s export development board has conducted awareness sessions on ‘smart solutions’ for agricultural and aquaculture exporters in the island’s north western and central provinces.
+
+The seminar focused on “adopting advanced solutions and provided insights into a diverse range of devices and products designed to enhance productivity and sustainability” of the sectors, EDB said.
+
+Over 50 exporters, suppliers, manufacturers attended the seminar on the benefits of integrating smart agriculture and aquaculture technologies.
+
+Solar power systems adaptability for both on-grid and off-grid applications, efficient solar-powered water pump systems tailored for irrigation needs, and smart weather stations delivering real-time environmental data were discussed.
+
+Attendees learnt about developments in smart soil moisture and nutrient control systems, and about devices for monitoring humidity, temperature, and pH levels.
+
+...
+
+[Data](articles/0cdfe99c.json)
 
 ---
 
@@ -213,6 +297,30 @@ At the commencement of today’s hearing, President’s Counsel Ali Sabry, appea
 ◼️
 
 [Data](articles/5b435ced.json)
+
+---
+
+### Sri Lanka services exports rise 3.36-pct in July
+
+*2025-08-25 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-rise-3-36-pct-in-july-238241/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s services exports rose 3.36 percent from a year ago to 337.11 million US dollars in July 2025, helped by transport and logistics, the island’s Export Development Board said.
+
+Over the first six months of the year, services exports are estimated to have increased 9.86 percent, totaling 2,192.71 million dollars.
+
+ICT/BPM exports dropped 2.28 percent to 144.98 million US dollars in July 2025 compared to July 2024, and construction fell 42.03 percent to 10.73 million US dollars.
+
+Financial services also fell 9.51 percent to 2.66 million US dollars.
+
+Transport and logistics grew 14.33 percent to 178.74 million US dollars.
+
+RELATED Sri Lanka exports rise 15.37-pct in July 2025, helped by tea, coconut, rubber and apparel
+
+Up to July total exports of goods and services were 9,992.53 million US dollars, up 7.79 percent. (Colombo/Aug25/2025)
+
+◼️
+
+[Data](articles/e0352c27.json)
 
 ---
 
@@ -419,6 +527,28 @@ Among the cases filed against her include the charge of remaining in Sri Lanka w
 ...
 
 [Data](articles/6e5ee8b7.json)
+
+---
+
+### Sri Lanka exports rise 15.37-pct in July, helped by tea, coconut, rubber and apparel
+
+*2025-08-25 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-rise-15-37-pct-in-july-helped-by-tea-coconut-rubber-and-apparel-238231/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s merchandise exports rose 15.37 percent to 1,304.00 million dollars in July 2025 from a year ago, helped by tea, coconut and apparel exports, data from the export promotion office showed.
+
+Merchandise exports for January to June 2025 rose 7.22 percent, compared to the same period in 2024, to 7,799.82 million dollars.
+
+Earnings from tea which made up 12.8 percent of merchandise exports, increased 13.09 percent to 141.02 million dollars in July 2025 compared to July 2024.
+
+Export earnings from coconut-based products increased 63.85 percent in July 2025 compared to the same month in 2024.
+
+Export earnings from apparel and textiles increased by 8.15 percent y-o-y to 479.90 million dollars, while US President Donald Trump’s new tariffs remained paused.
+
+Earnings from food and beverages increased 64.47, rubber and rubber products increased 10.10 percent, and seafood and ornamental fish rose 78.17 percent and 148.97 respectively.
+
+...
+
+[Data](articles/9ca8a8fa.json)
 
 ---
 
@@ -733,6 +863,24 @@ As such, court scheduled the hearing of the appeals for November 6.
 ...
 
 [Data](articles/4606196a.json)
+
+---
+
+### EXPLAINER – Sri Lanka’s ex-president Wickremesinghe’s unprecedented arrest
+
+*2025-08-25 13:55:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-ex-president-wickremesinghes-unprecedented-arrest-238212/) · `en`
+
+ECONOMYNEXT – The arrest of former President Ranil Wickremesinghe is one of the most consequential developments in Sri Lanka’s post-independence political history.
+
+For decades, Wickremesinghe symbolized continuity in the country’s politics, navigating crises, shaping economic policy, and representing Sri Lanka on the global stage.
+
+His sudden arrest not only raises questions about the direction of Sri Lanka’s politics, but also tests the strength of its constitutional framework, which has often been manipulated for short-term political gains.
+
+This explainer unpacks the meaning of his arrest, exploring the political ramifications, institutional consequences, and the constitutional challenges that are likely to arise.
+
+...
+
+[Data](articles/ecc3364a.json)
 
 ---
 
@@ -1069,6 +1217,28 @@ Having considered the facts presented, the bench directed the accused to present
 ...
 
 [Data](articles/6ae6940d.json)
+
+---
+
+### Sri Lanka average coconut prices rise 0.3-pct
+
+*2025-08-25 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-average-coconut-prices-rise-0-3-pct-238200/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices climbed 0.3 percent at a weekly auction, Coconut Development Authority data showed.
+
+The average price for 1,000 nuts was 134,068.09 rupees on August 21.
+
+“The highest and the lowest price for a nut was not declared,” CDA officials told EconomyNext.
+
+The number of nuts offered dipped to 551,525 from 658,480 a week earlier, while nuts sold fell to 519,803 from 582,000.
+
+In the local market, the wholesale price for a large nut was 170-180 rupees, while small nuts were 150-160 a piece on August 21.
+
+Local wholesale prices of coconut oil were 900,000 to 920,000 rupees per metric ton. (Colombo/Aug25/2025)
+
+◼️
+
+[Data](articles/639eff44.json)
 
 ---
 
@@ -1631,167 +1801,5 @@ At least eight people, including two women and a child, were killed, and around 
 ◼️
 
 [Data](articles/8ba20f4c.json)
-
----
-
-### කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ CID අත්අඩංගුවට
-
-*2025-08-25 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213762) · `si`
-
-කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ මහතාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ ශ්‍රාවස්තිපුර තිබිරිකඩවල ප්‍රදේශයේ නිදන් හැරීමේ සිදුවීමක් සම්බන්ධව අත්අඩංගුවට ගෙන සිටින ඔහුගේ බිරිඳ සම්බන්ධව සිදු කෙරෙන විමර්ශන කටයුතු සඳහාය.
-
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හාරමින් සිටි බව කියන නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරියක ඇතුළු 8 දෙනෙකු අනුරාධපුර පොලිසිය මගින් පසුගියදා අත්අඩංගුවට ගෙන තිබුණි.
-
-ඒ ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ රත්‍රං දේවාලය අසල පිහිටි ඉඩමක පිරිසක් නිධන් හාරන බවට අනුරාධපුර පොලීසියට පසුගිය 13 වැනිදා ලැබී තිබූ තොරතුරක් අනුවය.
-
-එහිදී අත්අඩංගුවට ගත් සැකකරුවන් මුදාහරින ලෙස නියෝජ්‍ය පොලිස්තිපතිවරයා වැටලීම සිදුකළ පොලිස් නිලධාරීන්ට දුරකථනයෙන් බලපෑම් කිරීමේ සිදුවීමක් සම්බන්ධවද තොරතුරු වාර්තා වූ අතර එම කරුණු අනාවරණය කර ගැනීම සඳහා  සියලු සැකකරුවන්ගේ දුරකතන අංකවලට අදාළ විශ්ලේෂණ වාර්තා නොපමාව පොලීසියට ලබා දෙන ලෙසද අනුරාධපුර වැඩබලන මහෙස්ත්‍රාත් චන්දන වීරකෝන් මහතා සියලු දුරකථන සමාගම්වලට මීට පෙර නියෝග කර තිබුණි.
-
-◼️
-
-[Data](articles/0a2e608b.json)
-
----
-
-### DIG Uditha Liyanage arrested by CID
-
-*2025-08-25 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111806/dig-uditha-liyanage-arrested-by-cid-) · `en`
-
-The Criminal Investigation Department (CID) has arrested Colombo Range Deputy Inspector General of Police (DIG) Uditha Liyanage in connection with the allegations of treasure hunting levelled against his wife, police said.
-
-The Anuradhapura Police recently arrested eight people, including a wife of a DIG, who were allegedly excavating a plot of land for treasure near a temple in Thibirikadawala, Srawasthipura.
-
-This was based on information received by the Anuradhapura Police on August 13 that a group was treasure hunting near the Ratrang Devalaya in Thibirikadawala, Srawasthipura, police said.
-
-Following the arrest of the alleged group, the police officers who conducted the raid have been pressured by an individual claiming to be a DIG over the phone to release the arrested suspects.
-
-...
-
-[Data](articles/32668d31.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-08-25 09:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238148/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.95/302.20 to the US dollar in the spot market Monday, weaker from 301.95/302.05 Friday, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.02.2028 was quoted at 8.78/81 percent.
-
-A bond maturing on 15.12.2028 was quoted at 8.96/99 percent, up from 8.90/9.00 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.32/35 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.41/44 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.44/48 percent, up from 9.42/45 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.25/35 percent, from 10.25/31 percent.
-
-The Colombo Stocks Exchange opened in red: The ASPI was down 0.52 percent, or 107.28 points, at 20,541.92; the S&P SL20 was down 0.67 percent, or 41.10 points, at 6,048.74.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 401.8137 buying, and 413.1555 selling, and the euro was 346.9455 buying, 358.1507 selling.
-
-...
-
-[Data](articles/1937689b.json)
-
----
-
-### Three suspects arrested over Boralesgamuwa shooting incident
-
-*2025-08-25 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111805/three-suspects-arrested-over-boralesgamuwa-shooting-incident) · `en`
-
-Three suspects have been arrested for allegedly aiding and abetting the shooting incident that killed a youth on Malani Bulathsinhala Road in Boralesgamuwa.
-
-Police investigations revealed that two gunmen, who arrived in a three-wheeler, opened fire at the victim at around 12.30 a.m. on August 24 while he was walking on the road with eight others after attending a musical show in the Boralesgamuwa area.
-
-A 21-year-old youth, identified as Gihan Dulan Perera, alias ‘Choppe,’ a three-wheeler driver from Temple Road in Mount Lavinia, was killed in the incident, police said.
-
-The three suspects were arrested yesterday (24) in the Dehiwala and Rathmalana areas based on intelligence received by the Police Special Task Force (STF) during their investigation into the incident.
-
-The arrested suspects, aged 19 and 20, are residents of the Dehiwala and Rathmalana areas.
-
-The suspects have been handed over to the Crimes Division of the Western Province South Range for further investigation.
-
-◼️
-
-[Data](articles/8a8e74a5.json)
-
----
-
-### Erik Solheim calls for immediate release of ex-President Ranil
-
-*2025-08-25 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111804/erik-solheim-calls-for-immediate-release-of-ex-president-ranil-) · `en`
-
-Former Norwegian special peace envoy to Sri Lanka, Erik Solheim, has expressed strong concerns over the arrest of former President Ranil Wickremesinghe and has called for his immediate release.
-
-In a post on his official ‘X’ (formerly Twitter) account, Solheim stated:
-
-“Please urgently release Ranil Wickremesinghe! I join the many leaders in Sri Lanka, South Asia, and around the world calling for the immediate release of Sri Lanka’s former President Ranil Wickremesinghe. We are all concerned for his health during detention.”
-
-He further highlighted Wickremesinghe’s role during Sri Lanka’s crisis in 2022, stating:
-
-“Ranil was the leader who stood up to save Sri Lanka when the nation reached rock bottom of economic and political disaster in 2022.”
-
-He claimed that the accusations against Ranil are without merit. “Even if they were true, they will not constitute any criminal or even unacceptable behavior in Europe.”
-
-...
-
-[Data](articles/2a42d5d9.json)
-
----
-
-### ඊශ්‍රායලයෙන් තවදුරටත් ප්‍රහාර
-
-*2025-08-25 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213761) · `si`
-
-ඊශ්‍රායලය විසින් යේමනයේ අගනුවර වෙත එල්ල කළ ප්‍රහාරවලින් පුද්ගලයින් 06 දෙනෙකු මියගොස් තිබේ.
-
-ප්‍රහාරවලින් තවත් පුද්ගලයින් 86 දෙනෙකු තුවාල ලබා ඇති බව හවුති සෞඛ්‍ය අංශ ප්‍රකාශ කර ඇත.
-
-කෙසේ වෙතත් ඊශ්‍රායල හමුදාව සඳහන් කර සිටියේ ජනාධිපති මන්දිරයේ පිහිටා ඇති හමුදා සංකීර්ණයක්, විදුලි බලාගාර දෙකක් සහ ඉන්ධන ගබඩා ස්ථානයක් තම ඉලක්ක අතරට ඇතුළත් වු බවය.
-
-හවුති ත්‍රස්තවාදී විසින් එල්ල කරන ලද ප්‍රහාරවලට ප්‍රතිචාර වශයෙන් මෙම ප්‍රහාර එල්ල කර ඇති බව හමුදාව වැඩිදුරටත් පැවසුවේය.
-
-◼️
-
-[Data](articles/4affa7fe.json)
-
----
-
-### Suspect arrested for defrauding over Rs. 150 mln by promising jobs in Korea
-
-*2025-08-25 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111803/suspect-arrested-for-defrauding-over-rs-150-mln-by-promising-jobs-in-korea-) · `en`
-
-A suspect who defrauded large sums of money by promising foreign employment opportunities in South Korea has been arrested by officers of the Colombo Central Crime Investigation Bureau (CCIB) in the Thalikulam area.
-
-The suspect arrested is a 41-year-old resident of Colombo 15.
-
-Initial investigations have revealed that the suspect had defrauded over Rs. 150 million from around 150 persons by promising jobs in Korea.
-
-Police have also seized a jeep, a power of attorney document for a land plot and two mobile phones from the possession of the suspect.
-
-The Colombo Central Divisional Crime Investigation Bureau (CCIB) is conducting further investigations into the suspect.
-
-◼️
-
-[Data](articles/111f8851.json)
-
----
-
-### வெல்லம்பிட்டியவில் துப்பாக்கிச் சூடு
-
-*2025-08-25 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223285) · `ta`
-
-வெல்லம்பிட்டி, கிட்டம்பஹுவ பகுதியில் உள்ள விடுதி ஒன்றில் இன்று திங்கட்கிழமை (25) அதிகாலை துப்பாக்கிச் சூடு சம்பவம் இடம்பெற்றுள்ளதாக முறைப்பாடு செய்யப்பட்டுள்ளது.
-
-இந்த துப்பாக்கிச் சூடு, மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத துப்பாக்கிதாரிகளால் மேற்கொள்ளப்பட்டதாக பொலிஸ் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/e230ce0a.json)
 
 ---

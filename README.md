@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 13:07:26**
+As of **2025-08-25 13:18:58**
 
 ## Newspaper Stats
 
-*Scraped **72,196** Articles*
+*Scraped **72,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,934
 adaderanalk | 9,119
-tamilmirrorlk | 10,682
+tamilmirrorlk | 10,683
 virakesarilk | 11,886
 adaderanasinhalalk | 12,509
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,509
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,196 articles have been extended.
+61,973 (85.8%) of 72,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### ரணிலை பார்வையிட்டார் ஹரினி
+
+*2025-08-25 13:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்வையிட்டார்-ஹரினி/175-363453) · `ta`
+
+கைது செய்யப்பட்டு நீதிமன்ற உத்தரவின் பிரகாரம், கொழும்பு தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப்பிரிவில் அனுமதிக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்றும் சென்று பார்வையிட்டார்.
+
+இந்நிலையில், பிரதமர் கலாநிதி ஹரினி அமரசூரிய,   திருமதி மைத்ரி விக்கிரமசிங்கவுடன் இணைந்து முன்னாள் ஜனாதிபதி ரணிலை வைத்தியசாலையில், ஞாயிற்றுக்கிழமை (24) பார்வையிட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
+
+இந்த செய்தி சமூக வலைத்தளங்களிலும் பதிவாகியுள்ளது. எனினும், இந்த செய்தி போலியானது என பிரதமர் காரியாலய தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/c4355a4b.json)
+
+---
 
 ### டன்சினன் லயனில் தீ ; 10 வீடுகள் கருகின
 
@@ -1729,19 +1745,5 @@ Held at TCH 1, the event brought together industry leaders from freight forwardi
 ...
 
 [Data](articles/07d77b0e.json)
-
----
-
-### ANC Education hosts pre-departure event for students heading to U.S. and Canada
-
-*2025-08-24 21:37:00* · [`islandlk`](http://island.lk/anc-education-hosts-pre-departure-event-for-students-heading-to-u-s-and-canada/) · `en`
-
-ANC Education recently hosted a special pre-departure event to celebrate and support students who have successfully secured their student visas to begin their higher education journey in the United States and Canada. This event was designed not only to recognize the achievements of these students but also to provide them and their families with guidance and reassurance as they prepare to embark on a new chapter of their lives.
-
-Over 30 students, accompanied by their parents, gathered for this occasion, which marked the culmination of months of planning, preparation, and perseverance. The event featured a series of informative and engaging sessions focused on helping students navigate the practical and emotional aspects of international relocation.
-
-...
-
-[Data](articles/83070c99.json)
 
 ---

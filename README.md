@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 01:18:00**
+As of **2025-08-26 01:32:19**
 
 ## Newspaper Stats
 
-*Scraped **72,309** Articles*
+*Scraped **72,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 739
 economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,095
+dailyftlk | 5,097
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,700
@@ -26,11 +26,37 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,309 articles have been extended.
+61,973 (85.7%) of 72,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### New chapter for EO Sri Lanka as 2025-2026 Board takes lead
+
+*2025-08-26 01:12:04* · [`dailyftlk`](https://www.ft.lk/business/New-chapter-for-EO-Sri-Lanka-as-2025-2026-Board-takes-lead/34-780754) · `en`
+
+In a vibrant ceremony held on 19 July, the Entrepreneurs’ Organisation (EO) Sri Lanka celebrated the official induction of its 2025-2026 Board. The baton of leadership was handed over from outgoing President, Chinese Dragon Café Director Naishadh Udeshi to the newly appointed President, Stafford Motor Company Ltd., Executive Director Tarindra Kaluperuma. Kaluperuma is focused on helping members explore EO beyond the country, encouraging engagement with the larger EO community outside of EO Sri Lanka. His theme, “Beyond Boundaries, Beyond Limits”, embodies a vision of deeper and wider connections, inspiring members to broaden their horizons and build meaningful relationships across borders.
+
+...
+
+[Data](articles/3ec84712.json)
+
+---
+
+### Chartered Management Institute (UK) Sri Lanka branch re-appoints Kamaya Perera as President
+
+*2025-08-26 01:10:43* · [`dailyftlk`](https://www.ft.lk/business/Chartered-Management-Institute-UK-Sri-Lanka-branch-re-appoints-Kamaya-Perera-as-President/34-780753) · `en`
+
+The Chartered Management Institute (CMI-UK) Sri Lanka branch has announced the re-appointment of Kamaya Perera as its President during its 24th Annual General Meeting held on 12 August 2025.
+
+Perera, a distinguished leader in the management field, assumes this pivotal role as the first female President of the CMI Sri Lanka branch with a steadfast commitment to advancing professional standards and fostering leadership excellence across Sri Lanka.
+
+...
+
+[Data](articles/9d8737b2.json)
+
+---
 
 ### How private is a “private” visit?
 
@@ -1791,37 +1817,5 @@ The US has alleged that India’s purchase of Russian oil is helping fund the wa
 ...
 
 [Data](articles/228a59ef.json)
-
----
-
-### මහින්දානන්දගේ හා නලීන්ගේ ඇප ඉල්ලීම කල් යයි
-
-*2025-08-25 12:54:01* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්දගේ-හා-නලීන්ගේ-ඇප-ඉල්ලීම-කල්-යයි/11-418050) · `si`
-
-බරපතළ වැඩ සහිත සිර දඬුවම් නියම වී සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු  ඉදිරිපත් කර තිබෙන අභියාචනයට යටත්ව තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ගොනු කර ඇති පෙත්සම් සැප්තැම්බර් මස 23 වනදා කරුණු තහවුරු කිරීම සඳහා කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල ස්ථිර මහාධිකරණ විනිසුරු මඩුල්ල අද (25) නියම කළේය.
-
-ඉදිරිපත් වූ කරුණු සලකා බැලූ විනිසුරු මඬුල්ල මෙම විත්තිකරුවන්ගේ ඇප ඉල්ලීම් සම්බන්ධයෙන් කරුණු දක්වන ලෙස දන්වා අල්ලස් කොමිසම වෙත නොතීසි නිකුත් කිරීමට නියෝග කරමින් පෙත්සම් යළි සැප්තැම්බර් 23 කැඳවීමට නියම කළේය.
-
-කැරම් බෝඩ් නඩුව සම්බන්ධයෙන් සිර දඬුවම් ලබා සිටින තමන් ඊට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයට අභියාචනා ඉදිරිපත් කර ඇති බැවින් එහි අවසන් තීන්දුවක් ලැබෙන තුරු තමන්ව ඇප මත මුදා හරින ලෙස ඉල්ලා මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු යන හිටපු අමාත්‍යවරු විසින් මෙම පෙත්සම් ඉදිරිපත් කර ඇත.
-
-◼️
-
-[Data](articles/6bae7fb2.json)
-
----
-
-### “Moving towards dictatorship “: - Opposition leaders issue statement on arrest of ex-President Ranil
-
-*2025-08-25 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111818/moving-towards-dictatorship-opposition-leaders-issue-statement-on-arrest-of-ex-president-ranil) · `en`
-
-Leaders of opposition political parties have jointly issued a statement regarding the arrest of former President Ranil Wickremesinghe by the Criminal Investigation Department (CID).
-
-The statement declares that the move to arrest former President Wickremesinghe and to remand him over a non-bailable offense constitutes a form of state conduct that is “moving towards dictatorship “ and is in opposition to a multi-party democratic system.
-
-According to the statement, the developments during the last few days represent a deliberate attack on the democratic way of life in Sri Lanka and it is vital that the public should be aware of the implications of this situation and its danger to the society as a whole.
-
-...
-
-[Data](articles/15668868.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 03:07:57**
+As of **2025-08-26 03:18:25**
 
 ## Newspaper Stats
 
-*Scraped **72,313** Articles*
+*Scraped **72,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailyftlk | 5,099
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,700
-virakesarilk | 11,905
+virakesarilk | 11,906
 adaderanasinhalalk | 12,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,313 articles have been extended.
+61,973 (85.7%) of 72,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### அரசியல் செல்வாக்கின்றி நியமனம் : கடமைகளைச் சிறப்பாகச் செய்யும் சூழல் உருவானது - பொலிஸ் மாஅதிபர் பிரியந்த வீரசூரிய
+
+*2025-08-26 03:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/223362) · `ta`
+
+எந்தவொரு அரசியல் செல்வாக்குமின்றி பொலிஸ் மாஅதிபராக நியமிக்கப்பட்டமை குறித்துத் தான் மகிழ்ச்சியடைவதாகவும், அது தனது உத்தியோகபூர்வ கடமைகளைச் சிறப்பாகச் செய்வதற்குச் சாதகமான சூழலை உருவாக்கும் என்றும் பொலிஸ் மாஅதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய சபாநாயகரிடம் தெரிவித்தார்.
+
+பொலிஸ் மாஅதிபர் (சட்டத்தரணி) பிரியந்த வீரசூரிய, சபாநாயகர் (வைத்தியர்) ஜகத் விக்கிரமரத்னவை அண்மையில் பாராளுமன்ற கட்டிடத்தொகுதியில் சந்தித்தார்.இதன்போது சபாநாயகர் பொலிஸ் மா அதிபர் அதிபருக்குத் தனது வாழ்த்துக்களைத் தெரிவித்தார்.
+
+அரசியலமைப்புப் பேரவையின் ஒருமித்த தீர்மானத்திற்கு அமைய, முழுமையான வெளிப்படைத் தன்மையுடனும் இந்த நியமனம் இடம்பெற்றிருப்பதாக சபாநாயகர் இதன்போது  குறிப்பிட்டார்.
+
+இதன்போது கருத்து தெரிவித்த  பொலிஸ் மாஅதிபர் (சட்டத்தரணி) பிரியந்த வீரசூரிய, எந்தவொரு அரசியல் செல்வாக்கும் இன்றி பொலிஸ்  மாஅதிபராக நியமிக்கப்பட்டமை குறித்துத் தான் மகிழ்ச்சியடைவதாகவும், அது தனது உத்தியோகபூர்வ கடமைகளைச் சிறப்பாகச் செய்வதற்குச் சாதகமான சூழலை உருவாக்கும் என்றும் தெரிவித்தார்.
+
+...
+
+[Data](articles/de9d4bc5.json)
+
+---
 
 ### Milk is a basic need, though a luxury at present but meticulous supply chain can curb price
 
@@ -1789,27 +1807,5 @@ This meeting underscored the importance of continued cooperation between securit
 ◼️
 
 [Data](articles/85aff06f.json)
-
----
-
-### India will buy oil from where it gets ‘the best deal’ - envoy to Russia
-
-*2025-08-25 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111819/india-will-buy-oil-from-where-it-gets-the-best-deal-envoy-to-russia) · `en`
-
-India will continue to buy oil from wherever it “gets the best deal” in order to protect the interests of its 1.4 billion people, the country’s ambassador to Russia has said.
-
-Vinay Kumar’s statement comes days before US President Donald Trump’s 50% tariffs on India, including a 25% penalty for buying Russian oil and weapons, are set to kick in.
-
-On Sunday, US Vice-President JD Vance said that Trump had announced secondary tariffs on India to apply “aggressive economic leverage” on Russia and force it to stop the war in Ukraine.
-
-Delhi’s increased imports of cheap Russian crude since the war began has strained its ties with the US and impacted negotiations on a trade deal.
-
-Russian crude made up 35-40% of India’s oil imports in 2024, up from 3% in 2021.
-
-The US has alleged that India’s purchase of Russian oil is helping fund the war in Ukraine, a charge Delhi denies.
-
-...
-
-[Data](articles/4933c264.json)
 
 ---

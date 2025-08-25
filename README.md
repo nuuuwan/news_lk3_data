@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 04:49:34**
+As of **2025-08-26 05:07:14**
 
 ## Newspaper Stats
 
-*Scraped **72,323** Articles*
+*Scraped **72,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 5,106
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,702
-virakesarilk | 11,906
+virakesarilk | 11,909
 adaderanasinhalalk | 12,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,323 articles have been extended.
+61,973 (85.7%) of 72,326 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,6 +132,20 @@ Dream11 too has announced that it will shut down operations in the wake of the b
 
 ---
 
+### மட்டு. களுவங்கேணியில் சிஜடி கைது செய்த இனிய பாரதியின் சகா 7 மணி நேர விசாரணையின் பின் விடுவிப்பு
+
+*2025-08-26 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/223365) · `ta`
+
+சிஜடி யினரால் 25ஆம் திகதி திங்கட்கிழமை கைது செய்யப்பட்ட இனிய பாரதியின் சகாவான மட்டு களுவங்கேணியைச் சேர்ந்த பாலசுந்தரம் என்பவரை சுமார் 7 மணித்தியால விசாரணையின் பின்னர் சிஐடியினர் விடுதலை செய்துள்ளதாக கைது செய்யப்பட்டவரின் உறவினர்கள் தெரிவித்தனர்.
+
+இனிய பாரதியின் சகாவாக செயற்பட்டிருந்த குறித்த நபரை சம்பவ தினமான திங்கட்கிழமை (25) பகல் களுவங்கேணியிலுள்ள அவரது வீட்டில் வைத்து கொழும்பில் இருந்து சென்ற சிஜடி யினர் கைது செய்தனர் இதனையடுத்து அவரை கொண்டு சென்று சுமார் 7 மணித்தியால தொடர் விசாரணையின் பின்னர் இரவு 9.00 மணிக்கு விடுவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/cdd1b317.json)
+
+---
+
 ### இராணுவ முகாம்களை அகற்றக்கோரி ஆர்ப்பாட்டம்
 
 *2025-08-26 03:18:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாம்களை-அகற்றக்கோரி-ஆர்ப்பாட்டம்/175-363486) · `ta`
@@ -181,6 +195,40 @@ Lawrence said: “Sri Lanka needs to widen our trade beyond our traditional mark
 ...
 
 [Data](articles/65e8e19b.json)
+
+---
+
+### எதிர்க்கட்சிகளை அச்சுறுத்தவே ரணில் கைது : சட்டத்தில் பதிலளிக்க நேரிடும் - ஜி.எல்.பீரிஸ்
+
+*2025-08-26 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223364) · `ta`
+
+அரசாங்கத்தை விமர்சிக்கும் எதிர்க்கட்சிகளை அச்சமடைய செய்வதற்காகவே முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டார்.கைது செய்வதற்குரிய நியாயமான காரணிகள் ஏதும் இருக்கவில்லை. இந்த கைதுக்கு அரசாங்கம் நிச்சயம் சட்டத்தின் ஊடாக பதிலளிக்க நேரிடும் என முன்னாள் வெளிவிவகாரத்துறை அமைச்சர் பேராசிரியர் ஜி.எல்.பீரிஸ் தெரிவித்தார்.
+
+நீதிமன்ற செயற்பாடுகளுக்கு இடமளிக்க வேண்டும். சட்டத்தின் முன் அனைவரும் சமமாக நடத்தப்பட வேண்டும் என்பதில் எவ்வித மாற்றுக்கருத்தும் கிடையாது.முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் மீதான குற்றச்சாட்டுக்கள் முறையாக விசாரிக்கப்பட வேண்டும்.
+
+முறையான காரணிகளை அடிப்படையாகக் கொண்டு முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்படவில்லை.நிறைவேற்றுத்துறையின் ஒரு பகுதியாக செயற்படும் பொலிஸாரின் பிரதான நோக்கம் ரணில் விக்கிரமசிங்கவை கைது செய்வதாகவே அமைந்தது.
+
+...
+
+[Data](articles/3ec51572.json)
+
+---
+
+### மன்னாரில் 23 வது நாளாக  தொடரும் போராட்டம் : ஏராளமான பெண்கள் கலந்து கொண்டு ஆதரவு!
+
+*2025-08-26 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223363) · `ta`
+
+மன்னாரில் காற்றாலை கோபுரங்கள் அமைத்தல் மற்றும் கனிய மணல் அகழ்வு ஆகியவற்றுக்கு எதிராக முன்னெடுக்கப்பட்டு வரும் கவனயீர்ப்பு போராட்டம் திங்கட்கிழமை (25) 23 வது நாளாகவும் சுழற்சி முறையில் முன்னெடுக்கப்பட்டு வருகின்ற நிலையில் குறித்த போராட்டத்திற்கு ஆதரவு தெரிவிக்கும் வகையில் இசைமாலை தாழ்வு கிராமத்தைச் சேர்ந்த பெண்கள் ஒன்று திறண்டு ஆதரவை வழங்கியுள்ளனர்.
+
+25ஆம் திகதி திங்கட்கிழமை காலை மன்னார் நகர சுற்றுவட்ட பகுதியில் இடம் பெற்று வருகின்ற போராட்டத்திற்கு ஆதரவு வழங்கும் வகையில் இசைமாலை தாழ்வு கிராம பெண்கள் அமைப்பு  உள்ளடங்களாக இசைமாலை தாழ்வு கிராமத்தை சேர்ந்த அனேகமானோர் வருகை தந்து கலந்து கொண்டு தமது எதிர்ப்பையும் வெளிப்படுத்தினர்.
+
+மன்னார் மக்கள் மற்றும் இளையோர் ஒன்றிணைந்து முன்னெடுத்து வருகின்ற போராட்டம் இன்றைய தினம் திங்கட்கிழமை 23 ஆவது நாளாகவும் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருகின்றது.
+
+போராட்டத்தில் ஈடுபட்ட மக்கள் பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளை ஏந்தியவாறு கோஷங்களை எழுப்பி போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+...
+
+[Data](articles/748da153.json)
 
 ---
 
@@ -1743,67 +1791,5 @@ Police suspect the fire was caused by an electrical short circuit, but the exact
 ◼️
 
 [Data](articles/0852af38.json)
-
----
-
-### වතු නිවාස පෙළක ගින්නක් - නිවාස 4ක් විනාශයි
-
-*2025-08-25 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213773) · `si`
-
-කොත්මලේ පූඩළුඔය පොලිස් වසමට අයත් ඩන්සින්න වත්තේ මැද කොටසේ වතු නිවාස පේළියක (25) දින දහවල් හට ගත් ගින්නකින් වතු නිවාස 4ක් සම්පූර්ණයෙන් විනාශ වී ඇති බව පූඩළුඔය පොලීසිය පවසයි.
-
-පෙ.ව. 11ට පමණ එක් නිවසකින් ඇවිලුණු ගින්න සෙසු නිවාසවලට පැතිර ගිය බවත්, එම නිවාස පේළියේ වතු නිවාස 20ක් පිහිටි බවත් පොලීය සඳහන් කළේය.
-
-පැතිර යමින් තිබූ ගින්න වතු කම්කරුවන් එක්ව සෙවිලි තහඩු සහ වහළ ගලවා පාලනය කර ඇති අතර, ගින්නෙන් කිසිවෙකුටත් තුවාල සිදු වී නොමැත.
-
-ගින්නෙන් විනාශ වූ වතු නිවාස 4ට පදිංචිව සිටි වතු කම්කරුවන් 30 දෙනෙකු පමණ තාවකාලිකව එම වතුයායේම ආරක්ෂිත ස්ථානයක තාවකාලිකව නතර කර ඇති බවත්, ගින්නට හේතුව විදුලි කාන්දුවීමක් බවට සැකකරන බවත්, ගින්නෙන් සිදු වූ අලාභය මෙතෙක් තක්සේරු කර නොමැති බවත් පූඩළුඔය පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/8e420e70.json)
-
----
-
-### SC to hear appeals filed by convicts in Vidya murder in Nov.
-
-*2025-08-25 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111823/sc-to-hear-appeals-filed-by-convicts-in-vidya-murder-in-nov) · `en`
-
-The Supreme Court has scheduled the hearing of appeals on November 6, filed by the convicts who were sentenced to death over the abduction, rape, and murder of schoolgirl Sivaloganathan Vidya— an incident that sparked widespread outrage in Jaffna in 2015.
-
-The appeals were taken up before a three-judge bench of the Supreme Court, consisting of Chief Justice Preethi Padman Surasena and Justices Achala Wengappuli, and Sampath Abeykoon.
-
-During the proceedings, the attorney representing the appellants informed court that it took more than four and a half years to obtain the Tamil-language translations relevant to the case.
-
-Accordingly, the defense counsel requested court to assign an early date for the appeal hearing.
-
-In response, Chief Justice Preethi Padman Surasena stated that the appeals would be given a date to ensure an expedited hearing.
-
-As such, court scheduled the hearing of the appeals for November 6.
-
-...
-
-[Data](articles/2f6118a9.json)
-
----
-
-### SC to hear appeals filed by convicts in Vidya murder in Nov.
-
-*2025-08-25 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111823/sc-to-hear-appeals-filed-by-convicts-sentenced-to-death-over-murder-of-sivaloganathan-vidya-in-nov) · `en`
-
-The Supreme Court has scheduled the hearing of appeals on November 6, filed by the convicts who were sentenced to death over the abduction, rape, and murder of schoolgirl Sivaloganathan Vidya— an incident that sparked widespread outrage in Jaffna in 2015.
-
-The appeals were taken up before a three-judge bench of the Supreme Court, consisting of Chief Justice Preethi Padman Surasena and Justices Achala Wengappuli, and Sampath Abeykoon.
-
-During the proceedings, the attorney representing the appellants informed court that it took more than four and a half years to obtain the Tamil-language translations relevant to the case.
-
-Accordingly, the defense counsel requested court to assign an early date for the appeal hearing.
-
-In response, Chief Justice Preethi Padman Surasena stated that the appeals would be given a date to ensure an expedited hearing.
-
-As such, court scheduled the hearing of the appeals for November 6.
-
-...
-
-[Data](articles/dd2bd18c.json)
 
 ---

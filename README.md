@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 03:18:25**
+As of **2025-08-26 03:32:30**
 
 ## Newspaper Stats
 
-*Scraped **72,314** Articles*
+*Scraped **72,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 739
 economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,099
+dailyftlk | 5,101
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,700
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,314 articles have been extended.
+61,973 (85.7%) of 72,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### NCE strengthens regional trade ties with India through strategic partnership
+
+*2025-08-26 03:12:25* · [`dailyftlk`](https://www.ft.lk/business/NCE-strengthens-regional-trade-ties-with-India-through-strategic-partnership/34-780770) · `en`
+
+Says Indo-Lanka FTA facilitates greater trade volumes, encourages cross-border investments
+
+The National Chamber of Exporters of Sri Lanka (NCE) has said it has entered into a partnership with the Federation of Indian Export Organisations (FIEO), marking a significant step toward strengthening bilateral trade and expanding export opportunities for Sri Lankan businesses.
+
+Recognising the importance of closer regional collaboration, the NCE signed a Memorandum of Understanding (MoU) with FIEO, opening doors for enhanced cooperation between Sri Lankan and Indian exporters. This partnership is expected to create new opportunities for trade, knowledge-sharing, and capacity building, while also enhancing the international competitiveness of exporters in both countries, the chamber said in a statement.
+
+...
+
+[Data](articles/28a72160.json)
+
+---
+
+### Exporters’ Association of Sri Lanka holds 28th AGM
+
+*2025-08-26 03:11:01* · [`dailyftlk`](https://www.ft.lk/business/Exporters-Association-of-Sri-Lanka-holds-28th-AGM/34-780769) · `en`
+
+The Exporters’ Association of Sri Lanka (EASL) held its 28th Annual General Meeting with European Union to Sri Lanka and the Maldives Ambassador Carmen Moreno as Chief Guest.
+
+The EU Ambassador emphasised the vital importance of compliance, sustainability, and regional integration, highlighting how these factors offer small and medium-sized enterprises a competitive edge, support sustainable sourcing, and strengthen connectivity in Asia and Africa. She also underscored EU efforts to support climate action, innovation, and fair-trade practices in alignment with evolving consumer demands and the CBAM (Carbon Border Adjustment Mechanism) framework.
+
+Yohan Lawrence was re-elected as Chairman, with Rozanne de Almeida and Nalaka Ratnayake continuing as Vice Chairpersons.
+
+Lawrence said: “Sri Lanka needs to widen our trade beyond our traditional markets, seeking better sources of raw materials for our manufacturing enterprises, and a greater presence for both our goods and our service exporters.”
+
+...
+
+[Data](articles/65e8e19b.json)
+
+---
 
 ### அரசியல் செல்வாக்கின்றி நியமனம் : கடமைகளைச் சிறப்பாகச் செய்யும் சூழல் உருவானது - பொலிஸ் மாஅதிபர் பிரியந்த வீரசூரிய
 
@@ -1769,43 +1803,5 @@ This explainer unpacks the meaning of his arrest, exploring the political ramifi
 ...
 
 [Data](articles/93c68857.json)
-
----
-
-### Heightened security for ex-President Ranil at National Hospital
-
-*2025-08-25 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111821/heightened-security-for-ex-president-ranil-at-national-hospital) · `en`
-
-A special security detail has been assigned to the Colombo National Hospital, where former President Ranil Wickremesinghe is receiving medical treatment after being remanded on Friday (25), a spokesperson for the Department of Prisons said Monday.
-
-According to prison spokesperson Jagath Weerasinghe, seven jailors and four prison guards have been deployed to ensure former President Wickremesinghe’s security.
-
-The former President was arrested and remanded on charges of misusing state funds.
-
-He was initially admitted to the prison hospital and transferred to the Colombo National Hospital later.
-
-◼️
-
-[Data](articles/db9630f7.json)
-
----
-
-### Newly appointed IGP calls on Defence Secretary
-
-*2025-08-25 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111820/newly-appointed-igp-calls-on-defence-secretary) · `en`
-
-The newly appointed Inspector General of Police (IGP), Priyantha Weerasooriya has paid a courtesy call on the Secretary of the Ministry Defence, Air Vice Marshal Sampath Thuyacontha (Retd), today (25) at the Ministry of Defence.
-
-Priyantha Weerasooriya, who assumed duties as the 37th IGP of Sri Lanka, was warmly received by the Defence Secretary.
-
-During the meeting, both officials discussed matters of mutual interest, focusing on national security and inter-agency coordination in maintaining law and order.
-
-The Defence Secretary congratulated the new IGP on his appointment and expressed his confidence in strengthening the collaborative efforts between the Ministry of Defence and the Sri Lanka Police, according to a statement issued by the Defence Ministry.
-
-This meeting underscored the importance of continued cooperation between security institutions to address emerging challenges and uphold public safety across the country, the statement added further.
-
-◼️
-
-[Data](articles/85aff06f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 18:32:41**
+As of **2025-08-25 18:58:17**
 
 ## Newspaper Stats
 
-*Scraped **72,270** Articles*
+*Scraped **72,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,942
-adaderanalk | 9,140
+adaderanalk | 9,147
 tamilmirrorlk | 10,696
-virakesarilk | 11,896
+virakesarilk | 11,898
 adaderanasinhalalk | 12,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,270 articles have been extended.
+61,973 (85.7%) of 72,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### அரசியல்வாதிகள் திட்டமிட்ட வகையில் நெருக்கடிக்குள்ளானால் அவர்களுக்காக முன்னிலையாகுவோம் - ஜோன்ஸ்டன் பெர்னாண்டோ
+
+*2025-08-25 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223354) · `ta`
+
+மக்கள் விடுதலை முன்னணியை போன்று நாங்கள் வைராக்கியத்துடன் செயற்படவில்லை. அரசியல்வாதிகள் திட்டமிட்ட வகையில் நெருக்கடிக்குள்ளானால் அவர்களுக்காக முன்னிலையாகுவோம். விசாரணைகளுக்காக திட்டமிட்ட வகையில் அரசியல்வாதிகள் வெள்ளிக்கிழமை அழைக்கப்படுகிறார்கள்  என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் திங்கட்கிழமை (25) கட்சியின் உறுப்பினர்களுக்கிடையில் நடைபெற்ற கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அரசியல் பழிவாங்களுக்காகவே முன்னாள்  ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளார்.ஐக்கிய தேசியக் கட்சியின் கொள்கைக்கும்,எமக்கும் இடையில் பாரிய வேறுபாடுகள் உள்ளது என்பதை ஏற்றுக்கொள்கிறோம்.
+
+2022 ஆம் ஆண்டு நாடு வங்குரோத்து நிலையடைந்த போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தான் நாட்டை பொறுப்பேற்றார். ஆகவே அதற்கான கௌரவத்தை அவருக்கு வழங்க வேண்டும்.
+
+...
+
+[Data](articles/e24f75d8.json)
+
+---
+
+### Colombo Range DIG Uditha Liyanage remanded
+
+*2025-08-25 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111838/colombo-range-dig-uditha-liyanage-remanded) · `en`
+
+Deputy Inspector General (DIG) of the Colombo Range, Uditha Liyanage, who was arrested by the Criminal Investigation Department (CID) in connection with allegations of aiding and abetting illegal treasure hunting, has been remanded, Ada Derana reporter said.
+
+He was remanded by the Anuradhapura Magistrate’s Court until September 1.
+
+The CID arrested DIG Uditha Liyanage earlier today (25) in connection with the allegations of treasure hunting levelled against his wife, police said.
+
+The Anuradhapura Police recently arrested eight people, including a wife of a DIG, who were allegedly excavating a plot of land for treasure near a temple in Thibirikadawala, Srawasthipura.
+
+This was based on information received by the Anuradhapura Police on August 13 that a group was treasure hunting near the Ratrang Devalaya in Thibirikadawala, Srawasthipura, police said.
+
+...
+
+[Data](articles/9afd2617.json)
+
+---
 
 ### කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ රිමාන්ඩ්
 
@@ -38,9 +76,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ මහතා සැප්තැම්බර් මස 1 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස නියෝග කර තිබේ.
 
+සැකකාර නියෝජ්‍ය පොලිස්පතිවරයාව අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය ලබාදී ඇත.
+
+ශ්‍රාවස්තිපුර තිබිරිකඩවල ප්‍රදේශයේ නිධන් හැරීමේ සිදුවීමක් සම්බන්ධයෙන් උදිත ලියනගේ මහතාගේ බිරිඳ පිළිබඳ සිදුකෙරෙන විමර්ශන කටයුතුවලට අදාළ අද (25) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඒ මහතාව අත්අඩංගුවට ගෙන තිබුණි.
+
+ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හාරමින් සිටි බව කියන නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරියක ඇතුළු 8 දෙනෙකු අනුරාධපුර පොලීසිය මඟින් පසුගියදා අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ රත්‍රං දේවාලය අසල පිහිටි ඉඩමක පිරිසක් නිධන් හාරන බවට අනුරාධපුර පොලීසියට පසුගිය 13 වැනිදා ලැබී තිබූ තොරතුරක් අනුවය.
+
 ◼️
 
 [Data](articles/844da43e.json)
+
+---
+
+### Rapper arrested with fake firearm and narcotics
+
+*2025-08-25 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111837/rapper-arrested-with-fake-firearm-and-narcotics) · `en`
+
+Rapper Madhawa Prasad, popularly known by his stage name ‘Maduwa’, has been arrested by the Kahathuduwa Police for possession of a fake firearm and narcotics, according to police.
+
+The arrest followed an investigation into a video circulating on Facebook, showing a group of six individuals in possession of narcotics and a firearm, allegedly consuming drugs.
+
+Based on these investigations, police arrested the rapper at a housing complex in Homagama, where he had been residing.
+
+During further questioning, the suspect confessed that the video was uploaded to Facebook with the intention of gaining more followers by showcasing drug consumption.
+
+Police recovered 20 milligrams of crystal meth (‘Ice’) and 35 grams of hashish from the suspect’s possession.
+
+The 26-year-old suspect is scheduled to be produced before the Kesbewa Magistrate’s Court.
+
+◼️
+
+[Data](articles/1dde0a4b.json)
 
 ---
 
@@ -88,6 +156,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### President appoints 28-member Task Force to develop Tourism industry
+
+*2025-08-25 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111836/president-appoints-28-member-task-force-to-develop-tourism-industry-) · `en`
+
+A Presidential Task Force has been appointed for the implementation of the Sri Lanka Tourism Development Programme.
+
+The 28-member Task Force has been appointed by President Anura Kumara Dissanayake by virtue of the powers vested in him by Article 33 of the Constitution.
+
+◼️
+
+[Data](articles/d044a0c8.json)
+
+---
+
 ### Sri Lanka coconut production recovers strongly in 2Q
 
 *2025-08-25 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-production-recovers-strongly-in-2q-238251/) · `en`
@@ -107,6 +189,24 @@ But now prices have eased to around 134 rupees a coconut at the weekly auctions.
 ◼️
 
 [Data](articles/6687bd99.json)
+
+---
+
+### New Chairman for Sri Lanka Law Commission appointed
+
+*2025-08-25 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111835/new-chairman-for-sri-lanka-law-commission-appointed) · `en`
+
+Appointments to the Chairman and members of the Law Commission of Sri Lanka, which functions under the Ministry of Justice and National Unity, were presented today (25) at the Ministry of Justice, under the leadership of the Minister of Justice and National Integration, Harsha Nanayakkara.
+
+Retired Justice E.A.G.R. Amarasekara has been appointed as the new Chairman of the Sri Lanka Law Commission.
+
+Also present at the occasion were the Secretary to the Ministry of Justice and National Integration, President’s Counsel Ayesha Jinasena, senior officials from the Ministry, and officials of the Sri Lanka Law Commission.
+
+Established in 1969 under Act No. 03 of 1969, the Law Commission of Sri Lanka is tasked with legal reforms and development. According to Section 2 of the Act, the President of the Republic appoints the Chairman and members of the Commission for a term of five years.
+
+◼️
+
+[Data](articles/9e7b050d.json)
 
 ---
 
@@ -195,6 +295,78 @@ A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.25/31 perce
 ◼️
 
 [Data](articles/3ed21eb3.json)
+
+---
+
+### Ranil Wickremesinghe’s arrest not an isolated incident – Sajith
+
+*2025-08-25 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111834/ranil-wickremesinghes-arrest-not-an-isolated-incident-sajith) · `en`
+
+A meeting of opposition political party leaders was held today (25) at the Office of the Leader of the Opposition, under the leadership of Opposition Leader Sajith Premadasa, to discuss the political situation that has arisen following the arrest of former President Ranil Wickremesinghe.
+
+Speaking at the meeting, Sajith Premadasa stated that the arrest of Ranil Wickremesinghe is not an isolated incident, but rather a serious challenge to democratic politics. He emphasized the importance of all opposition political parties uniting to confront this challenge.
+
+He noted that the discussion was convened with the aim of formulating both short-term and long-term action plans in collaboration with all opposition parties to respond effectively to the current developments.
+
+During the meeting, former President Maithripala Sirisena also expressed his views, stating that there are two main issues that must be addressed.
+
+...
+
+[Data](articles/d6ad727d.json)
+
+---
+
+### Nearly 800 dead, over 1,000 injured in rain-related incidents in Pakistan
+
+*2025-08-25 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111833/nearly-800-dead-over-1000-injured-in-rain-related-incidents-in-pakistan) · `en`
+
+At least 799 people died and 1,080 others were injured in rain-related incidents and floods across Pakistan since June 26 this year, said the National Disaster Management Authority (NDMA) on Monday.
+
+NDMA said in a statement that 11 more people lost their lives during the last 24 hours, increasing the toll to 799, fearing that the spells of torrential rains and flash floods would continue to hit the country this week.
+
+The NDMA said that the deceased include 477 males, 119 females and 203 children.
+
+The country’s northwest Khyber Pakhtunkhwa province appeared as the most affected region with 479 deaths, followed by eastern Punjab province where 165 people lost lives.
+
+According to the NDMA, rains and flash floods also damaged 7,175 houses and killed 5,552 livestock across the country.
+
+...
+
+[Data](articles/c1935fed.json)
+
+---
+
+### Sri Lanka’s exports hit US$ 10 billion mark in first seven months of 2025
+
+*2025-08-25 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111832/sri-lankas-exports-hit-us-10-billion-mark-in-first-seven-months-of-2025) · `en`
+
+Sri Lanka’s total export earnings in the first seven months of 2025 have soared to nearly US$ 10 billion, according to the Central Bank of Sri Lanka (CBSL and Sri Lanka Customs metrics.
+
+Total exports including both merchandise and services reached US$ 9,992.53 million between January and July 2025, the CBSL noted.
+
+This marks a robust 7.79% increase compared to the same period last year, reinforcing the country’s strategic gains in global trade.
+
+Industry experts attribute this strong performance to proactive policy measures, enhanced market diversification efforts, and competitive improvements across key export sectors.
+
+Accordingly, with five months still remaining in the year, the country appears on track to surpass the US$ 17 billion export target set for 2025, Mangala Wijesinghe, Chairman and Chief Executive Officer of the Export Development Board (EDB) stated.
+
+...
+
+[Data](articles/d16c8531.json)
+
+---
+
+### மட்டக்களப்பு கிரானில் பிள்ளையானின் சகா ஒருவர் கைது
+
+*2025-08-25 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223338) · `ta`
+
+மட்டக்களப்பு கிரான் பிரதேசத்தில் வைத்து பிள்ளையானின் சகாவான சின்னத்தம்பி என அழைக்கப்படும் பூபாலப்பிள்ளை என்பரை நேற்று ஞாயிற்றுக்கிழமை (24) குற்ற விசாரணைப் பிரிவு (சிஐடி) கைது செய்துள்ளது.
+
+கடந்த ஏப்ரல் 8ம் திகதி பிள்ளான் என்றழைக்கப்படும் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவரும் முன்னாள் கிழக்கு மாகாண முதலமைச்சர் இராஜாங்க அமைச்சருமான சிவநேசதுரை சந்திரகாந்தன் முன்னாள் கிழக்கு பல்கலைக்கழக உபவேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத் 2006 டிசம்பர் 15 ஆம் திகதி கடத்தி காணாமல் ஆக்கப்பட்ட சம்பவம் தொடர்பாக சந்தேகத்தின் அடிப்படையில் சிஐடியினர் அவரது மட்டக்களப்பு காரியாலயத்தில் வைத்து கைது செய்து பயங்கரவாத தடுப்பு சட்டத்தின் கீழ் தடுத்து வைக்கப்பட்டு விசாரணைகள் இடம்பெற்று வருகின்றது.
+
+...
+
+[Data](articles/8f4ba680.json)
 
 ---
 
@@ -1663,157 +1835,5 @@ The arrested suspects and the motorcycle are scheduled to be produced in court.
 ...
 
 [Data](articles/4bf4856b.json)
-
----
-
-### විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීමේ පනතට එරෙහි පෙත්සම් විභාගය ඇරඹෙයි
-
-*2025-08-25 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213765) · `si`
-
-විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් අවලංගු කිරීම සඳහා රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන පනත් කෙටුම්පතේ වගන්ති වලින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනයවන බවත් එය සම්මත කිරීමට අවශ්‍ය නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතර ඡන්දයෙන් අනුමත වී ජනමත විචාරණයකින්ද අනුමත වියයුතු බවටත් තීන්දුවක් ලබාදන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් විභාග කිරීම අද (25) පෙරවරුවේ ශ්‍රේෂ්ඨාධිකරණය හමුවේ ආරම්භ විය.
-
-අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වේ.
-
-ඒ අනුව පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටින නීතිඥවරු විසින් කරුණු ඉදිරිපත් කිරීම ආරම්භ කර ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
-
-අදාළ පනත් කෙටුම්පත අභියෝගයට ලක්කරමින් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාලක ලේකම් රේණුක පෙරේරා, සබරගමුව විශ්වවිද්‍යාලයේ කථිකාචාර්ය මහින්ද පතිරණ, හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ මනෝජ් ගමගේ ඇතුළු පිරිසක් විසින් පෙත්සම් හයක් ඉදිරිපත් කර ඇත.
-
-◼️
-
-[Data](articles/dd70d61e.json)
-
----
-
-### பிரதிப் பொலிஸ் மா அதிபர் கைது
-
-*2025-08-25 10:50:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதிப்-பொலிஸ்-மா-அதிபர்-கைது/175-363436) · `ta`
-
-கொழும்பு மாவட்ட டி.ஐ.ஜி உதித லியனகே குற்றப் புலனாய்வுத் துறையினரால் கைது செய்யப்பட்டதாக பொலிஸ்  ஊடகப் பேச்சாளர் உதவி ​பொலிஸ்  கண்காணிப்பாளர் உதய குமார வுட்லர் தெரிவித்தார்.
-
-ஷாவஸ்த்ரிபுராவின் திம்பிரி கடவல பகுதியில் கடந்த 13 ஆம் திகதி நடந்த புதையல் வேட்டை சம்பவம் தொடர்பாக டி.ஐ.ஜியின் மனைவி உட்பட எட்டு பேர் கொண்ட குழுவினர் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-அதே நேரத்தில் அதற்கு டி.ஐ.ஜி உதவியதற்காக கைது செய்யப்பட்டுள்ளார் என்று ஊடகப் பேச்சாளர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/15494bc4.json)
-
----
-
-### බොරැල්ල වෙඩි තැබීමට සැක දෙදෙනෙකු අල්ලයි
-
-*2025-08-25 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213764) · `si`
-
-බොරැල්ල කාදර්නානා වත්ත ප්‍රදේශයේදී පසුගිය 22 වැනිදා සිදුවූ වෙඩි තැබීමට අධාර අනුබල දුන් බවට සැක කෙරෙන සැකකරුවන් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ සමග අදාළ වෙඩි තැබීම සදහා පැමිණි බවට සැක යතුරුපැදියක්ද බොරැල්ල පොලීසිය විසින් සිය භාරයට ගෙන ඇත.
-
-◼️
-
-[Data](articles/b0de9184.json)
-
----
-
-### Sri Lanka stocks recover from opening slide
-
-*2025-08-25 10:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-recover-from-opening-slide-238165/) · `en`
-
-ECONOMYNEXT – The Colombo stock exchange opened down on Monday, with its All Share Price Index falling almost 200 points to 20,460 points, before starting to regain some of the losses.
-
-The markets are opening after ex-President Ranil Wickremesinghe was arrested and jailed over alleged use of state funds during a stop-over in London.
-
-Brokers said the market was seeing profit taking, after steady gains seen over recent weeks.
-
-The ASPI fell 188.96 points in the first 15 minutes of trading before climbing back up.
-
-The market has been rising in the past few weeks hitting the 20,000 mark earlier this month.
-
-Over the weekend, opposition party activists questioned the way Wickremesinghe was arrested at the tail end of a investigation on a Friday saying it was done so that he would be jailed at least for the weekend to humiliate him and intimidate the opposition. (Colombo/Aug25/2025)
-
-◼️
-
-[Data](articles/52fddba0.json)
-
----
-
-### Shooter and motorcyclist arrested over Gandara shooting incident
-
-*2025-08-25 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111809/shooter-and-motorcyclist-arrested-over-gandara-shooting-incident) · `en`
-
-The alleged shooter and the motorcyclist have been arrested in connection with the shooting incident in the Kapugama area of the Gandara Police Division, police confirmed.
-
-Two unidentified individuals who arrived on a motorcycle had targeted a person at a residence in Kapugama on August 3.
-
-The Matara Divisional Crime Investigation Bureau initiated an investigation into the incident, and accordingly, two individuals involved in the crime were arrested yesterday (24) in the Wellampitiya and Ganemulla Police Divisions, based on information received by the investigating officers.
-
-Accordingly, the shooter and the motorcyclist who committed the crime have been arrested.
-
-Additionally, the motorcycle used for the murder has also been taken into police custody, said police.
-
-The suspects taken into custody are residents of the Wellampitiya and Peliyagoda areas, aged 28 and 47.
-
-...
-
-[Data](articles/3c0e1eb5.json)
-
----
-
-### ரணில் விவகாரம்: ஐ.ம.ச எம்.பிக்கள் அவசரமாக கூடுகின்றனர்
-
-*2025-08-25 10:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விவகாரம்-ஐ-ம-ச-எம்-பிக்கள்-அவசரமாக-கூடுகின்றனர்/175-363434) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கைது தொடர்பில் கலந்துரையாட, ஐக்கிய மக்கள் சக்தியின் சகல பாராளுமன்ற உறுப்பினர்களும் திங்கட்கிழமை (25) அன்று பிற்பகல் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஒன்று கூடுகின்றனர்.
-
-இந்தக் கூட்டத்திற்குப் பிறகு, ஐக்கிய மக்கள் கூட்டணியைச்  சேர்ந்த சகல கட்சித் தலைவர்களும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் கூடுவார்கள் என்று கட்சியின் நம்பத்தகுந்த வட்டாரங்கள் தெரிவிக்கின்றன.
-
-முன்னாள் ஜனாதிபதியின் நீதிமன்ற நடவடிக்கை தொடர்பிலான கட்சியின் நிலைப்பாட்டு குறித்த தெளிவை எட்டும் வகையிலயே இச்சந்திப்புகள் இடம்பெறுகின்றன. இந்தக் கலந்துரையாடல்களுக்குப் பிறகு நடைபெறவிருக்கும் கலந்துரையாடலில் எதிர்க்கட்சியைப் பிரதிநிதித்துவப்படுத்தும் சகல  கட்சித் தலைவர்களும் பங்கேற்கவுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
-
-◼️
-
-[Data](articles/7f96a196.json)
-
----
-
-### ரணில் விவகாரம்: ஐ.ம.ச எம்.பிக்கள்  கூடுகின்றனர்
-
-*2025-08-25 10:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விவகாரம்-ஐ-ம-ச-எம்-பிக்கள்-கூடுகின்றனர்/175-363434) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கைது தொடர்பில் கலந்துரையாட, ஐக்கிய மக்கள் சக்தியின் சகல பாராளுமன்ற உறுப்பினர்களும் திங்கட்கிழமை (25) அன்று பிற்பகல் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஒன்று கூடுகின்றனர்.
-
-இந்தக் கூட்டத்திற்குப் பிறகு, ஐக்கிய மக்கள் கூட்டணியைச்  சேர்ந்த சகல கட்சித் தலைவர்களும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் கூடுவார்கள் என்று கட்சியின் நம்பத்தகுந்த வட்டாரங்கள் தெரிவிக்கின்றன.
-
-முன்னாள் ஜனாதிபதியின் நீதிமன்ற நடவடிக்கை தொடர்பிலான கட்சியின் நிலைப்பாட்டு குறித்த தெளிவை எட்டும் வகையிலயே இச்சந்திப்புகள் இடம்பெறுகின்றன. இந்தக் கலந்துரையாடல்களுக்குப் பிறகு நடைபெறவிருக்கும் கலந்துரையாடலில் எதிர்க்கட்சியைப் பிரதிநிதித்துவப்படுத்தும் சகல  கட்சித் தலைவர்களும் பங்கேற்கவுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
-
-◼️
-
-[Data](articles/9163a2d7.json)
-
----
-
-### ரணிலுக்காக பெருந்தோட்டங்களில் பூஜை வழிபாடுகள்
-
-*2025-08-25 10:24:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலுக்காக-பெருந்தோட்டங்களில்-பூஜை-வழிபாடுகள்/76-363433) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க உடல்நிலை குறைபாட்டால் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், அவர் விரைவாக குணமடைய வேண்டும் என  இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாடு செய்த  சிறப்பு ஆசீர்வாத பூஜைகள் பெருந்தோட்ட பகுதிகளில் திங்கட்கிழமை (25) அன்று நடைபெற்றது.
-
-மேலும் ,  பிரித்தானியாவின் வோல்வர்ஹாம்டன் பல்கலைக்கழகத்தின் அழைப்பின் பேரில் நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக பணியாற்றிய முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, இங்கிலாந்துக்கு மேற்கொண்ட  பயணம் தனிப்பட்ட பயணமாக  குற்றப் புலனாய்வுப் பிரிவினரால் அடையாளப்படுத்தப்பட்டதோடு, அவரின் பாதுகாப்பிற்காக சென்ற மெய் பாதுகாவலர்களுக்கு அரச நிதியைப் பயன்படுத்தியதாக அவர் மீது  குற்றச்சாட்டு, வழக்கு தொடுக்கப்பட்டுள்ள நிலையில், அவர் இந்த வழக்கில் இருந்து நிரந்தரமாக விடுபட வேண்டும் என்று இலங்கை தொழிலாளர் காங்கிரஸால் பெருந்தோட்ட பகுதிகளில்  விசேட பூஜை வழிபாடுகள் நடைபெறவுள்ளதாக இ.தொ.காவின் தேசிய அமைப்பாளர் சக்திவேல் வெளியிட்டுள்ள ஊடக அறிக்கையில் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/5bc95e31.json)
-
----
-
-### ரணிலுக்காக பெருந்தோட்டங்களில் பூஜை
-
-*2025-08-25 10:24:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரணிலுக்காக-பெருந்தோட்டங்களில்-பூஜை/76-363433) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க உடல்நிலை குறைபாட்டால் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், அவர் விரைவாக குணமடைய வேண்டும் என  இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாடு செய்த  சிறப்பு ஆசீர்வாத பூஜைகள் பெருந்தோட்ட பகுதிகளில் திங்கட்கிழமை (25) அன்று நடைபெற்றது.
-
-மேலும் ,  பிரித்தானியாவின் வோல்வர்ஹாம்டன் பல்கலைக்கழகத்தின் அழைப்பின் பேரில் நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக பணியாற்றிய முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, இங்கிலாந்துக்கு மேற்கொண்ட  பயணம் தனிப்பட்ட பயணமாக  குற்றப் புலனாய்வுப் பிரிவினரால் அடையாளப்படுத்தப்பட்டதோடு, அவரின் பாதுகாப்பிற்காக சென்ற மெய் பாதுகாவலர்களுக்கு அரச நிதியைப் பயன்படுத்தியதாக அவர் மீது  குற்றச்சாட்டு, வழக்கு தொடுக்கப்பட்டுள்ள நிலையில், அவர் இந்த வழக்கில் இருந்து நிரந்தரமாக விடுபட வேண்டும் என்று இலங்கை தொழிலாளர் காங்கிரஸால் பெருந்தோட்ட பகுதிகளில்  விசேட பூஜை வழிபாடுகள் நடைபெறவுள்ளதாக இ.தொ.காவின் தேசிய அமைப்பாளர் சக்திவேல் வெளியிட்டுள்ள ஊடக அறிக்கையில் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/81bd7010.json)
 
 ---

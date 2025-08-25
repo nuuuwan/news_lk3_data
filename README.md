@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 14:37:20**
+As of **2025-08-25 14:51:15**
 
 ## Newspaper Stats
 
-*Scraped **72,217** Articles*
+*Scraped **72,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,410
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,936
+adalk | 6,937
 adaderanalk | 9,128
-tamilmirrorlk | 10,684
+tamilmirrorlk | 10,685
 virakesarilk | 11,890
 adaderanasinhalalk | 12,512
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,217 articles have been extended.
+61,973 (85.8%) of 72,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### “ரணிலை பார்வையிடவில்லை“ பிரதமர் விளக்கம்
+
+*2025-08-25 14:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்வையிடவில்லை-பிரதமர்-விளக்கம்/175-363456) · `ta`
+
+பிரதமர் கலாநிதி ஹரினி அமரசூரிய,   திருமதி மைத்ரி விக்கிரமசிங்கவுடன் இணைந்து முன்னாள் ஜனாதிபதி ரணிலை வைத்தியசாலையில், ஞாயிற்றுக்கிழமை (24) அன்று பார்வையிட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
+
+◼️
+
+[Data](articles/0852af38.json)
+
+---
 
 ### වතු නිවාස පෙළක ගින්නක් - නිවාස 4ක් විනාශයි
 
@@ -167,6 +179,22 @@ The US has alleged that India’s purchase of Russian oil is helping fund the wa
 ◼️
 
 [Data](articles/c4355a4b.json)
+
+---
+
+### නාමල් රාජපක්ෂ නිතරගයෙන් රටේ ජනාධිපති කරනවා
+
+*2025-08-25 13:01:35* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-රාජපක්ෂ-නිතරගයෙන්-රටේ-ජනාධිපති-කරනවා/11-418051) · `si`
+
+වත්මන් ජනාධිපතිවරයා ප්‍රමුඛ රජය  සමග සිටි සියලු රණවිරුවන් මේවන විට නාමල් රාජපක්ෂ මහතා වටා අත් වැල් බැද ගනිමින් සිටින බවත් වත්මන් ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවට 2029 වර්ෂයේ නිතරගයෙන් නාමල් රාජපක්ෂ මහතා ජනාධිපති කරවන බවට තමා අභියෝග කරන බවත් විශ්‍රාමික රණවිරුවෙකු වූ ශ්‍රි ලංකා පොදුජන පෙරමුණේ කොට්ඨාස සංවිධායක එච්.එම් කීර්තිරත්න බණ්ඩාර මහතා පැවැසීය.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා බැලීමට විජේරාම නිවසට මැදවච්චිය පිරිස් ගිය සිදුවීම මුල්කරගනිමින් ආණ්ඩුවේ හැසිරීමේ ක්‍රියා දාමයට විරුද්ධව පසුගිය (24)සවස මැදවච්චිය නගරයේ දී ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන මහජන නියෝජිතයින් පිරිසක් සහ ප්‍රබල පාක්ෂිකයින් පිරිසක් මන්නාරම් මාර්ගයේ පිහිටි ගණ දෙවිකෝවිලට පැමිණි පොල් ගසා මාධ්‍ය සාකච්ඡාවක් පැවැත්වුහ. එහිදී අදහස් දක්වමින් ඒ මහතා එසේ කීහ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මැදවච්චිය ආසන සංවිධායක චානක විජේසූරිය මහතා විසින් මෙය සංවිධානය කර තිබුණි.
+
+...
+
+[Data](articles/228a59ef.json)
 
 ---
 
@@ -1763,37 +1791,5 @@ That diversion was to attend the conferral of an honorary professorship on the f
 ...
 
 [Data](articles/797adcbd.json)
-
----
-
-### சுற்றுலாத்துறை மேம்பாடு : ஜனாதிபதி செயலணி ஸ்தாபிக்க வர்த்தமானி பிரசுரம்
-
-*2025-08-25 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/223280) · `ta`
-
-சுற்றுலாத் துறையை மேம்படுத்துவதற்காக ஜனாதிபதி செயலணி ஒன்றை நிறுவுவதற்கான அதிவிசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது. வெளிவிவகாரம், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் தலைமையிலான இந்த குழுவில் 28 உறுப்பினர்கள் அங்கம் வகிக்கவுள்ளனர்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு வழங்கப்பட்டுள்ள அதிகாரங்களின் அடிப்படையில் இந்த செயலணி நிறுவப்பட்டுள்ளதாக அந்த வர்த்தமானி அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது. வெளிவிவகாரம், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத் துறை அமைச்சர் விஜித ஹேரத் தலைமையிலான இந்த குழுவில் 28 உறுப்பினர்கள் உள்ளனர்.
-
-இந்த செயலணியில் சுற்றுலாத்துறை பிரதி அமைச்சர், ஜனாதிபதியின் செயலாளர் பல அமைச்சுக்களின் செயலாளர்கள், சுற்றுலா அபிவிருத்தி அதிகார சபையின் தலைவர் மற்றும் சுற்றுலாத் துறையுடன் தொடர்புடைய நிறுவனங்களின் தலைவர்கள் அங்கம் வகிக்கின்றனர்.
-
-...
-
-[Data](articles/ed3fb2c2.json)
-
----
-
-### Coalition of Opposition Party Leaders  Mobilise Under Slogan  “Let’s Defeat the Constitutional Dictatorship ” and Denounce Arrest of Ex- president Ranil Wickremesinghe; Accuse JVP-led NPP Govt  of weaponising the legal system against political rivals
-
-*2025-08-25 01:08:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86329) · `en`
-
-A coalition of Opposition party leaders yesterday held a press briefing in Colombo to denounce the arrest of ex-President Ranil Wickremesinghe.
-
-Gathering under the banner “Let’s Defeat the Constitutional Dictatorship,” the speakers accused the administration of weaponising the legal system against political rivals. Party leaders argued that Wickremesinghe’s detention was part of a wider attempt to erode democratic institutions and suppress dissent.
-
-Ex-President Maithripala Sirisena said he was disappointed and distressed by the arrest and called on all political parties and civil society organisations to condemn the arrest and defend democracy. Former MP Patali Champika Ranawaka speaking at the press conference said the arrest of Wickremesinghe was the Government’s attempt to squash dissent towards establishing a single-party State.
-
-...
-
-[Data](articles/bc5a80cc.json)
 
 ---

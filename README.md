@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 21:08:09**
+As of **2025-08-25 21:21:32**
 
 ## Newspaper Stats
 
-*Scraped **72,292** Articles*
+*Scraped **72,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,946
 adaderanalk | 9,148
-tamilmirrorlk | 10,699
+tamilmirrorlk | 10,700
 virakesarilk | 11,902
-adaderanasinhalalk | 12,522
+adaderanasinhalalk | 12,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,292 articles have been extended.
+61,973 (85.7%) of 72,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### රුසියාව යුද්ධය අවසන් කිරීමේ කොන්දේසි ඉදිරිපත් කරයි
+
+*2025-08-25 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213784) · `si`
+
+රුසියානු විදෙස් කටයුතු ඇමති සර්ගෙයි ලැව්රෝ, යුක්‍රේන යුද්ධය අවසන් කිරීමට රුසියාව අපේක්ෂා කරන කොන්දේසි කිහිපයක් නිවේදනය කර තිබේ.
+
+එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලයේ නිත්‍ය සාමාජිකයින් පස් දෙනා ඇතුළුව රටවල් ඇතුළත් කණ්ඩායමක් පත්කර යුක්‍රේනයේ ආරක්ෂාව තහවුරු කළ යුතු බවට ඒ යටතේ ලැව්රෝ පවසයි.
+
+එම රටවල් අතරට ජර්මනිය සහ තුර්කිය ඇතුළත් වීම අත්‍යවශ්‍ය බවත් එහිදී ඔහු වැඩිදුරටත් පවසා තිබුණි.
+
+එමෙන්ම අපක්ෂපාතී රටක් ලෙස පැවතිය යුතු බවත්, කිසිදු යුදමය කණ්ඩායමක සාමාජිකත්වය නොගත යුතු බවත් එය න්‍යෂ්ටික අවි අත්හළ යුතු බවත් රුසියානු විදෙස් කටයුතු ඇමතිවරයා මෙහිදී අවධාරණය කළේය.
+
+◼️
+
+[Data](articles/5cd39e77.json)
+
+---
+
+### தனியார் வைத்தியசாலையில் அறுவை சிகிச்சை செய்த தாய் மரணம்
+
+*2025-08-25 20:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-வைத்தியசாலையில்-அறுவை-சிகிச்சை-செய்த-தாய்-மரணம்/175-363473) · `ta`
+
+தனியார் வைத்தியசாலையில் அறுவை சிகிச்சைக்குப் பிறகு உயிரிழந்த தாயின் மரணம் தொடர்பாக இன்று மூன்று பேர் கொண்ட சிறப்பு தடயவியல் வைத்தியர்கள்  குழு பிரேத பரிசோதனை நடத்த உள்ளது.
+
+காலியைச் சேர்ந்த, 46 வயதான செவ்வந்தி வயிற்று வலி காரணமாக ஹிம்புராலவில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக கூறப்படுகிறது.
+
+கருப்பைக்கட்டியை குணப்படுத்த அவரது கருப்பையை அகற்ற வேண்டும் என்று ஒரு மகளிர் வைத்திய நிபுணர் அறிவுறுத்தியதாகக் கூறப்படுகிறது.
+
+இரண்டாவது டோஸ் ஊசி போட்ட பிறகு அவரது உடல்நிலை மிகவும் மோசமாகியது, இதனால் அவர் கராப்பிட்டி வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+கராப்பிட்டியில் உள்ள வைத்தியர்கள் முயற்சித்த போதும், அவரது மூளைக்கு இரத்தம் செல்வது தடைப்பட்டதால் ஆகஸ்ட் 23ஆம் திகதி அவர் உயிரிழந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/72cc3d96.json)
+
+---
 
 ### செம்மணி மனித புதைகுழி: இரண்டாம் கட்டத்தின் மூன்றாம் பகுதி அகழ்வு தொடக்கம்
 
@@ -1803,41 +1841,5 @@ Former President Ranil Wickremesinghe is currently in remand custody after being
 ◼️
 
 [Data](articles/b1036533.json)
-
----
-
-### எதிர்க்கட்சிகளுக்கு ரணிலிடமிருந்து முக்கிய செய்தி
-
-*2025-08-25 11:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளுக்கு-ரணிலிடமிருந்து-முக்கிய-செய்தி/175-363445) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது கட்சி மற்றும் சில முக்கிய எதிர்க்கட்சி உறுப்பினர்களிடம், இந்த நேரத்தில் ஒற்றுமையாக இருந்து ஜனநாயகம் நிலைநிறுத்தப்படுவதை உறுதி செய்ய போராட வேண்டும் என்று கூறியுள்ளார்.
-
-நேற்று காலை கொழும்பு தேசிய மருத்துவமனையில் மூத்த அரசியல்வாதிகள் அவரைச் சந்தித்தபோது, ​​விக்கிரமசிங்க அனைத்து எதிர்க்கட்சிகளுக்குள்ளும் ஒற்றுமையை வலியுறுத்தியதாகவும், அனைவரும் தங்கள் அரசியல் வேறுபாடுகளை ஒதுக்கி வைக்குமாறு கேட்டுக் கொண்டதாகவும் டெய்லி மிரர் செய்தித்தாளுக்குத் தெரிய வருகிறது.
-
-நீர்ச்சத்து குறைபாடு மற்றும் உயர் இரத்த அழுத்தத்திற்காக சிகிச்சை பெற்று வருவதால், விக்ரமசிங்க தொடர்ந்து மருத்துவமனையின் தீவிர சிகிச்சைப் பிரிவில் (ICU) இருப்பதாக கட்சியின் மூத்த வட்டாரம் தெரிவித்துள்ளது. விக்ரமசிங்கவின் மனைவி பேராசிரியர் மைத்ரி விக்ரமசிங்கவும் தனது கணவரை ஐசியூவில் சந்தித்துப் பேசியதுடன் அவரும் இன்னும் அதிர்ச்சியில் இருந்தார், மேலும் அவரது உடல்நிலை குறித்து கவலை தெரிவித்தார்.
-
-...
-
-[Data](articles/39dd54d4.json)
-
----
-
-### Vietnam evacuates tens of thousands, shuts airports as Typhoon Kajiki approaches
-
-*2025-08-25 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111814/vietnam-evacuates-tens-of-thousands-shuts-airports-as-typhoon-kajiki-approaches) · `en`
-
-The Vietnamese government said Typhoon Kajiki is expected to be as powerful as Typhoon Yagi, which battered the country less than a year ago, killing about 300 people.
-
-HANOI: Vietnam has shut airports, closed schools and initiated mass evacuations as it prepares for the most powerful storm so far this year.
-
-Typhoon Kajiki was packing winds of up to 166kmh as it approached Vietnam’s central coast and was forecast to grow stronger before making landfall on Monday afternoon (Aug 25), the country’s weather agency said.
-
-“This is an extremely dangerous fast-moving storm,” the government said in a statement on Sunday night, warning that Kajiki would bring heavy rains, flooding and landslides.
-
-The typhoon - the fifth to affect Vietnam this year - is currently at sea, roiling the Gulf of Tonkin with waves of up to 9.5m. The eye of the storm is forecast to hit an area between Thanh Hoa and Nghe An provinces.
-
-...
-
-[Data](articles/550fed72.json)
 
 ---

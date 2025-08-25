@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 09:40:43**
+As of **2025-08-25 09:57:27**
 
 ## Newspaper Stats
 
-*Scraped **72,150** Articles*
+*Scraped **72,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,406
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,929
-adaderanalk | 9,113
+adalk | 6,930
+adaderanalk | 9,117
 tamilmirrorlk | 10,662
 virakesarilk | 11,886
 adaderanasinhalalk | 12,500
@@ -26,11 +26,55 @@ adaderanasinhalalk | 12,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.9%) of 72,150 articles have been extended.
+61,973 (85.9%) of 72,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Three suspects arrested over Boralesgamuwa shooting incident
+
+*2025-08-25 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111805/three-suspects-arrested-over-boralesgamuwa-shooting-incident) · `en`
+
+Three suspects have been arrested for allegedly aiding and abetting the shooting incident that killed a youth on Malani Bulathsinhala Road in Boralesgamuwa.
+
+Police investigations revealed that two gunmen, who arrived in a three-wheeler, opened fire at the victim at around 12.30 a.m. on August 24 while he was walking on the road with eight others after attending a musical show in the Boralesgamuwa area.
+
+A 21-year-old youth, identified as Gihan Dulan Perera, alias ‘Choppe,’ a three-wheeler driver from Temple Road in Mount Lavinia, was killed in the incident, police said.
+
+The three suspects were arrested yesterday (24) in the Dehiwala and Rathmalana areas based on intelligence received by the Police Special Task Force (STF) during their investigation into the incident.
+
+The arrested suspects, aged 19 and 20, are residents of the Dehiwala and Rathmalana areas.
+
+The suspects have been handed over to the Crimes Division of the Western Province South Range for further investigation.
+
+◼️
+
+[Data](articles/8a8e74a5.json)
+
+---
+
+### Erik Solheim calls for immediate release of ex-President Ranil
+
+*2025-08-25 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111804/erik-solheim-calls-for-immediate-release-of-ex-president-ranil-) · `en`
+
+Former Norwegian special peace envoy to Sri Lanka, Erik Solheim, has expressed strong concerns over the arrest of former President Ranil Wickremesinghe and has called for his immediate release.
+
+In a post on his official ‘X’ (formerly Twitter) account, Solheim stated:
+
+“Please urgently release Ranil Wickremesinghe! I join the many leaders in Sri Lanka, South Asia, and around the world calling for the immediate release of Sri Lanka’s former President Ranil Wickremesinghe. We are all concerned for his health during detention.”
+
+He further highlighted Wickremesinghe’s role during Sri Lanka’s crisis in 2022, stating:
+
+“Ranil was the leader who stood up to save Sri Lanka when the nation reached rock bottom of economic and political disaster in 2022.”
+
+He claimed that the accusations against Ranil are without merit. “Even if they were true, they will not constitute any criminal or even unacceptable behavior in Europe.”
+
+...
+
+[Data](articles/2a42d5d9.json)
+
+---
 
 ### ඊශ්‍රායලයෙන් තවදුරටත් ප්‍රහාර
 
@@ -47,6 +91,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4affa7fe.json)
+
+---
+
+### Suspect arrested for defrauding over Rs. 150 mln by promising jobs in Korea
+
+*2025-08-25 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111803/suspect-arrested-for-defrauding-over-rs-150-mln-by-promising-jobs-in-korea-) · `en`
+
+A suspect who defrauded large sums of money by promising foreign employment opportunities in South Korea has been arrested by officers of the Colombo Central Crime Investigation Bureau (CCIB) in the Thalikulam area.
+
+The suspect arrested is a 41-year-old resident of Colombo 15.
+
+Initial investigations have revealed that the suspect had defrauded over Rs. 150 million from around 150 persons by promising jobs in Korea.
+
+Police have also seized a jeep, a power of attorney document for a land plot and two mobile phones from the possession of the suspect.
+
+The Colombo Central Divisional Crime Investigation Bureau (CCIB) is conducting further investigations into the suspect.
+
+◼️
+
+[Data](articles/111f8851.json)
 
 ---
 
@@ -138,6 +202,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Govt’s large-scale development projects to begin in Sept – Minister
+
+*2025-08-25 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111802/govts-large-scale-development-projects-to-begin-in-sept-minister) · `en`
+
+Minister Bimal Ratnayake announced that the government’s large-scale development projects will commence in September.
+
+He stated that the first phase of these projects will commence in Jaffna under the patronage of President Anura Kumara Dissanayake.
+
+The Minister further noted that development activities related to the new Coconut Triangle in the Northern Province, centered in the Mullaitivu area of the Vanni region, are scheduled to commence on September 2.
+
+“From the first of September, the government will launch major development projects for the benefit of the people. Among them, the opening of an international sports complex in the Mandaitivu area of Jaffna will take place.”
+
+In addition, the longstanding issue faced by the people of Jaffna in obtaining passports from the District Secretariat will be resolved, he added.
+
+“The facility will be provided through a new online system. Several other development initiatives will also be launched during this period,” he noted.
+
+◼️
+
+[Data](articles/d99c1c5a.json)
+
+---
+
 ### එරික් සෝල්හයිම් හිටපු ජනාධිපති රනිල්ට නිදහස ඉල්ලයි
 
 *2025-08-25 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213759) · `si`
@@ -173,6 +259,20 @@ He also mentioned that after a four-and-a-half-hour drive, provisions will be ma
 ...
 
 [Data](articles/c2df3b16.json)
+
+---
+
+### වැල්ලම්පිටියේ වෙඩි තැබීමක්
+
+*2025-08-25 08:09:42* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලම්පිටියේ-වෙඩි-තැබීමක්/11-418043) · `si`
+
+වැල්ලම්පිටිය, කිත්තම්පහුව ප්‍ර දේශයේදී අද අලුයම ලැගුම්හලකදී වෙඩි තැබීමක් සිදුව ඇති බවට වැල්ලම්පිටිය පොලීසිය පවසයි.
+
+ලැගුම්හලේ නවාතැන්ගෙන සිටි පුද්ගලයෙක් ඉලක්ක කරගෙන මෙම වෙඩි තැබීම සිදුකර තිබේ. සැකකරුවන් යතුරු පැදියකින් පැමිණි ඇති අතර වෙඩි තැබීම ඳසහා පිස්තෝල අවියක් භාවිත කර තිබේ.
+
+◼️
+
+[Data](articles/092acda7.json)
 
 ---
 
@@ -1643,93 +1743,5 @@ Former Foreign Minister Prof. G.L. Peiris said it is clearly evident that this i
 ◼️
 
 [Data](articles/c8fc981b.json)
-
----
-
-### Three-wheeler used in Boralesgamuwa shooting discovered
-
-*2025-08-24 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111790/three-wheeler-used-in-boralesgamuwa-shooting-discovered) · `en`
-
-The three-wheeler suspected to have been used by the gunman to carry out the shooting that killed a youth on Malani Bulathsinhala Road in Boralesgamuwa last night has been found abandoned near the Bokundara Dedicated Economic Center in Piliyandala, Police said.
-
-Police have also discovered two black motorcycle helmets and a jacket inside the vehicle.
-
-The shooting incident was carried out by an unidentified gunman who arrived in a three-wheeler, at around 12.30 a.m. in the early hours of today (24), according to police
-
-A 21-year-old youth, identified as Gihan Dulan Perera alias ‘Choppe,’ a three-wheeler driver from Temple Road in Mount Lavinia, was killed in the incident, Police said.
-
-The victim, who was critically injured in the shooting, later succumbed to his injuries after being admitted to the Colombo South Teaching Hospital in Kalubowila.
-
-...
-
-[Data](articles/08214da6.json)
-
----
-
-### පෙන්ටගනයේ බුද්ධි අංශ ප්‍රධානියා එම තනතුරින් ඉවතට
-
-*2025-08-24 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213737) · `si`
-
-පෙන්ටගනයේ බුද්ධි අංශ ප්‍රධානී ලුතිතන් ජෙනරාල් ජෙෆ්රි කෘෘස් එම තනතුරින් පහ කිරීමට අමෙරිකානු ආරක්ෂක ලේකම් පීට් හෙග්සෙත් කටයුතු කර තිබේ.
-
-කෙසේ වෙතත් එම ඉවත් කිරීමට නිශ්චිත හේතු දැක්වීමත් සිදුකර නැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-අමෙරිකාව ඉරානයේ න්‍යෂ්ටික මර්මස්ථාන තුනකට ප්‍රහාර එල්ල කිරීම සම්බන්ධ බුද්ධි අංශ වාර්තාවක් මාධ්‍ය වෙත කාන්දු වීමේ සිදුවීම මෙයට හේතු වී ඇති බව සැලකේ.
-
-◼️
-
-[Data](articles/4fff1bd0.json)
-
----
-
-### 51 Inspectors of Police promoted to ASP
-
-*2025-08-24 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111789/51-inspectors-of-police-promoted-to-asp) · `en`
-
-A total of 51 Inspectors of Police (IPs) have been promoted to the rank of Assistant Superintendent of Police (ASP) with immediate effect.
-
-According to the Police Media Division, these promotions have been granted with effect from March 25 this year, following a competitive examination.
-
-This includes officers who previously served in the ranks of Sub-Inspector, Inspector of Police, and Chief Inspector of Police.
-
-The Police Media Division further stated that three female police officers and two officers from the Police Special Task Force (STF) have also been promoted to the rank of ASP.
-
-◼️
-
-[Data](articles/3f202d76.json)
-
----
-
-### விரைவில் இந்தியா செல்கிறார் உக்ரேன் ஜனாதிபதி
-
-*2025-08-24 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/223253) · `ta`
-
-உக்ரேன் ஜனாதிபதி ஜெலென்ஸ்கி விரைவில் இந்தியா செல்ல உள்ளதாக இந்தியாவுக்கான உக்ரேன் தூதர் போலிஷ்சுக் தெரிவித்துள்ளார். ஜெலென்ஸ்கியின் பயணத் திகதியை இறுதி செய்வது குறித்து ஆலோசிக்கப்பட்டு வருவதாகவும் அவர் தெரிவித்துள்ளார். இந்தியா வரும் உக்ரேன் ஜனாதிபதி பிரதமர் மோடியுடன் சந்திப்பு நடத்துவார் என்றும் அப்போது போர் நிலவரம், போரை நிறுத்துவது குறித்தும் ஆலோசனை நடத்துவார்கள் என்றும் போலிஷ்சுக் தெரிவித்துள்ளார்.
-
-உக்ரேன் ஜனாதிபதியின் இந்திய பயணம் இருதரப்பு உறவை மேலும் வலுப்படுத்தும் என போலிஷ்சுக் தெரிவித்துள்ளார். கடந்த ஆண்டு ரஷ்யா மற்றும் உக்ரேனுக்கு பயணம் செய்த பிரதமர் மோடி, பேச்சுவார்த்தை மூலம் பிரச்சினைக்கு தீர்வு காணுமாறு இரு நாட்டு தலைவர்களிடமும் வலியுறுத்தி இருந்தது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/a4f1ce2f.json)
-
----
-
-### සංචාරක ක්ෂේත්‍රයේ ප්‍රවර්ධනයට කාර්යය සාධක බලකායක්
-
-*2025-08-24 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213735) · `si`
-
-‍සංචාරක කර්මාන්තයේ ප්‍රවර්ධනය වෙනුවෙන් ජනාධිපති කාර්යය සාධක බලකායක් ස්ථාපිත කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
-
-අදාළ ගැසට් නිවේදනයේ දැක්වෙන්නේ ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත පැවරී ඇති බලතල ප්‍රකාරව මෙම කාර්යය සාධක බලකාය ස්ථාපිත කර ඇති බවය.
-
-විදේශ කටයුතු, විදේශ රැකියා හා සංචාරක අමාත්‍ය විජිත හේරත් මහතාගේ සභාපතීත්වයෙන් යුත් එම කමිටුව සාමාජිකයින් 28 දෙනෙකුගෙන් සමන්විතය.
-
-සංචාරක නියෝජ්‍ය අමාත්‍යවරයා, ජනාධිපති ලේකම්වරයා ඇතුළු අමාත්‍යාංශ රැසක ලේකම්වරු, සංචාරක සංවර්ධන අධිකාරියේ සභාපතිවරයා ඇතුළු සංචාරක ක්ෂේත්‍රයට අදාළ ආයතනවල ප්‍රධානීන්ගෙන් මෙම කාර්යය සාධක බලකාය සමන්විත වේ.
-
-එම බලකාය මගින් සංචාරක ක්ෂේත්‍රයේ ප්‍රතිපත්ති විශ්ලේෂණය, උපාය මාර්ගික සැලසුම් සකස් කිරීම සහ නියාමනය, අභියෝග හඳුනාගැනීම සහ විසඳුම් යෝජනා කිරීම, අධීක්ෂණය සහ ඇගයීම, ප්‍රාදේශීය මට්ටම දක්වා පුළුල් කිරීම, ආකර්ෂණීය ගමනාන්ත සදහා පහසුකම් පුළුල් කිරීම, තිරසාර සංචාරක සංවර්ධනය සහ සංචාරක ප්‍රවර්ධනය අලෙවිකරණය සහ සන්නාමකරණය යන කාර්යයන් සිදුවනු ඇති.
-
-...
-
-[Data](articles/ad34f886.json)
 
 ---

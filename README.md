@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 12:39:48**
+As of **2025-08-25 12:52:50**
 
 ## Newspaper Stats
 
-*Scraped **72,191** Articles*
+*Scraped **72,193** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 612
+dbsjeyarajcom | 613
 bbccomsinhala | 677
 colombotelegraphcom | 739
 economynextcom | 4,410
@@ -20,17 +20,39 @@ adalk | 6,933
 adaderanalk | 9,119
 tamilmirrorlk | 10,680
 virakesarilk | 11,886
-adaderanasinhalalk | 12,508
+adaderanasinhalalk | 12,509
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,191 articles have been extended.
+61,973 (85.8%) of 72,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### හිටපු ජනපති රනිල් අත්අඩංගුවට ගැනීම ගැන විදේශ තානාපතිවරු දැනුවත් කරයි
+
+*2025-08-25 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213770) · `si`
+
+එක්සත් ජාතික පක්ෂයේ නායකයින් පිරිසක් ඊයේ රාත්‍රියේ කොළඹ පිහිටි ඉන්දීය මහ කොමසාරිස් කාර්යාලය වෙත පැමිණ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීමේ සිදුවීම පිළිබඳ මහ කොමසාරිස් කාර්යාල නිලධාරීන් දැනුම්වත් කර තිබේ.
+
+මෙම අවස්ථාව සඳහා ජී එල් පීරිස්, තලතා අතුකෝරාල, අලි සබ්‍රි ඇතුළු දේශපාඥයින් පිරිසක් සහභාගී වී ඇත.
+
+එමෙන්ම මේ පිළිබඳව අනෙක් තානාපති කාර්යාල දැනුවත් කිරීම ද ඉදිරියේදී සිදුකිරීමට නියමිත බව වාර්තා වේ.
+
+මේ අතර හිටපු ජනාධිපතිවරයාට නිදහස හා හිමි ගෞරවය ලබා දෙන ලෙස කරන ඉල්ලීම්වලට සහාය පළකරමින් නෝර්වේ හිටපු විශේෂ සාම නියෝජිත එරික් සෝල්හයිම් සහ ඉන්දීය දේශපාලනඥයෙකු වන ශෂී තරූර් පණිවිඩ නිකුත් කර ඇත.
+
+එමෙන්ම හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වහා නිදහස් කරන ලෙස විවිධ පාර්ශ්ව සිදුකරන ඉල්ලීමට තමාගේ සහායද හිමිවන බව නෝර්වේ හිටපු විශේෂ සාම නියෝජිත එරික් සෝලහයිම් මහතා එක්ස් පණිවුඩයක් නිකුත් කරමින් සඳහන් කළේය.
+
+ඔහු එමඟින් පෙන්වා දී ඇත්තේ 2022 වසරේ ශ්‍රී ලංකාව මුහුණදුන් ආර්ථික සහ දේශපාලනික ආගාධයෙන් රට ගොඩගැනීමට ඉදිරිපත්වූ එකම නායකයා රනිල් වික්‍රමසිංහ බවය.
+
+...
+
+[Data](articles/5f9cb4f6.json)
+
+---
 
 ### சலுகைக் குறைப்பு சட்டமூலம் மீதான விசாரணை ஆரம்பம்
 
@@ -1350,6 +1372,26 @@ Ex-President Maithripala Sirisena said he was disappointed and distressed by the
 
 ---
 
+### Bimal Ratnayake says Charges on which Ranil Wickremesinghe was arrested May  seem Trivial and that the Former President should have been brought to justice decades ago for “far more serious allegations.”
+
+*2025-08-25 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86333) · `en`
+
+Cabinet Minister Bimal Ratnayake stated that while the charges for which former President Ranil Wickremesinghe was recently arrested may seem trivial, he
+
+Ratnayake cited several incidents, including the post-election violence of 1977, the burning of the Jaffna library in 1981, and the 1983 riots, as reasons for which Wickremesinghe should have been held accountable during his time in Government.
+
+The minister also brought up the deaths of over 60,000 people between 1987 and 1990 and the ongoing Batalanda torture house investigation.
+
+He further noted that despite his alleged involvement in the 2015 bond scam, no arrest was made.
+
+Ratnayake concluded by asserting that the current government is now allowing investigating officers to perform their duties with integrity and without hindrance.
+
+◼️
+
+[Data](articles/8a3b9c0c.json)
+
+---
+
 ### Development surge in Peninsula India: Lessons for Sri Lanka
 
 *2025-08-25 01:03:48* · [`dailyftlk`](https://www.ft.lk/opinion/Development-surge-in-Peninsula-India-Lessons-for-Sri-Lanka/14-780689) · `en`
@@ -1709,37 +1751,5 @@ Postal services in Germany, Denmark, Sweden and Italy said they will stop shippi
 ◼️
 
 [Data](articles/828334fb.json)
-
----
-
-### ரணில் கைது : நீதிமன்ற உத்தரவை மலினப்படுத்துவது நீதிமன்ற அவமதிப்பாகும் - மக்கள் விடுதலை முன்னணி
-
-*2025-08-24 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223275) · `ta`
-
-முன்னாள் ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக இன்று கைகோர்த்துள்ள எதிர்க்கட்சிகள் தான் கடந்த காலங்களில் 'ரணிலை சிறைக்கு அனுப்பினால் தான் உறக்கம் வரும்' என்றார்கள். நீதிமன்றத்தின் உத்தரவுக்கு அமைவாகவே ரணில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார். நீதிமன்றத்தின் உத்தரவை சவாலுக்குட்படுத்தி போராட்டத்தில் ஈடுபட்டால் அது நீதிமன்ற அவமதிப்பாகும் என மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் ரில்வின் சில்வா தெரிவித்தார்.
-
-அரச நிதி மோசடி குற்றச்சாட்டின் அடிப்படையில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க குற்றப்புலனாய்வு திணைக்களத்தால் கைது செய்யப்பட்டு நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட்டார். நீதிமன்றத்தில் இருதரப்பிலும் விடயங்கள் முன்வைக்கப்பட்டன.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பிணையளிப்பதற்கு போதுமான காரணிகள் இல்லாததால் அவரது பிணை கோரிக்கை நிராகரிக்கப்பட்டு நீதிமன்றத்தால் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.இன்று நீதிமன்றம் குறித்து மாறுப்பட்ட கருத்துக்களை குறிப்பிடுபவர்கள், ரணில் விக்கிரமசிங்கவுக்கு பிணை கிடைத்திருந்தால் நீதிமன்றத்தை புகழ்வார்கள்.
-
-...
-
-[Data](articles/dec6e8b2.json)
-
----
-
-### විපක්ෂයේ දේශපාලන පක්ෂ හෙට විශේෂ සාකච්ඡාවක
-
-*2025-08-24 20:25:20* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-දේශපාලන-පක්ෂ-හෙට-විශේෂ-සාකච්ඡාවක/11-418041) · `si`
-
-විපක්ෂය නියෝජනය කරන පක්ෂ නායකයන්ගේ විශේෂ හමුවක් හෙට(25දා) පැවත්වීමට නියමිතව තිබේ.
-
-විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් කොළඹ විපක්ෂනායක කාර්යාලයේදී හෙට පස්වරු 1ට මෙම  සාකච්ඡාව පැවැත්වීමට කටයුතු යොදා තිබේ.
-
-මෙහිදී විශේෂයෙන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කිරීමේ සිද්ධිය සම්බන්ධයෙන් සාකච්ඡා සිදු කිරීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/a4d93010.json)
 
 ---

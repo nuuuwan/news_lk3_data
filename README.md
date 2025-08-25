@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 09:22:35**
+As of **2025-08-25 09:40:43**
 
 ## Newspaper Stats
 
-*Scraped **72,146** Articles*
+*Scraped **72,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 611
 bbccomsinhala | 677
 colombotelegraphcom | 739
 economynextcom | 4,406
-islandlk | 4,441
+islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,088
-adalk | 6,927
+dailyftlk | 5,089
+adalk | 6,929
 adaderanalk | 9,113
 tamilmirrorlk | 10,662
 virakesarilk | 11,886
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.9%) of 72,146 articles have been extended.
+61,973 (85.9%) of 72,150 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,20 @@ He also mentioned that after a four-and-a-half-hour drive, provisions will be ma
 ◼️
 
 [Data](articles/33c8f2af.json)
+
+---
+
+### කොරියා රැකියා සිහින පෙන්වා රු. කෝටි 15ක් වංචාකළ සැකකරුවෙක් අල්ලයි
+
+*2025-08-25 08:05:02* · [`adalk`](https://www.ada.lk/breaking_news/කොරියා-රැකියා-සිහින-පෙන්වා-රු--කෝටි-15ක්-වංචාකළ-සැකකරුවෙක්-අල්ලයි/11-418042) · `si`
+
+කොරියාවේ රැකියා ලබාදෙන බව පවසා පුද්ගලයන් 150කගෙන් පමණ රුපියල් කෝටි 15කට අධික මුදලක් වංචා කළ සැකකරුවෙක් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය  ප්‍රකාශක කාර්යාලය කියයි. සැකකරු කොළඹ 15 ප්‍ර දේශයේ පදිංචි 41 හැවැරිදි පුද්ගලයෙකි.
+
+සැකකරු තාරේකුලම් ප්‍ර දේශයේදී කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන ඒකකයේ කණ්ඩායමක් විසින් ඊයේ උදෑසන අත්අඩංගුවට ගන තිබේ.සැකකරුත් සමග ජීප් රථයක්, ඉඩමකට අදාළ ඇටෝනි බලපත්‍රයක් හා ජගම දුරකතන දෙකක් පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/3c93481f.json)
 
 ---
 
@@ -618,6 +632,22 @@ By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Pirat
 
 ---
 
+### Development surge in Peninsula India: Lessons for Sri Lanka
+
+*2025-08-25 01:03:48* · [`dailyftlk`](https://www.ft.lk/columns/Development-surge-in-Peninsula-India-Lessons-for-Sri-Lanka/4-780689) · `en`
+
+The Eastern, North Central, and Northern Provinces, with a historical presence of handloom and garment sectors, could be linked to the textile clusters of Tamil Nadu
+
+The geographical proximity and historical ties between Northern, North Central, and Eastern Sri Lanka and Tamil Nadu state present an untapped opportunity for mutually beneficial economic cooperation. However, these possibilities remain untapped
+
+By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Piratheepan, Neruja Narenthiran, Mary Delcia Antony Christian, Kamalakumari Karunanithy, and Muttukrishna Sarvananthan
+
+...
+
+[Data](articles/f14c4eec.json)
+
+---
+
 ### Exporting in new era: ESG reporting as strategic enabler for global market entry
 
 *2025-08-25 00:50:06* · [`dailyftlk`](https://www.ft.lk/columns/Exporting-in-new-era-ESG-reporting-as-strategic-enabler-for-global-market-entry/4-780688) · `en`
@@ -961,6 +991,22 @@ Postal services in Germany, Denmark, Sweden and Italy said they will stop shippi
 ...
 
 [Data](articles/dec6e8b2.json)
+
+---
+
+### විපක්ෂයේ දේශපාලන පක්ෂ හෙට විශේෂ සාකච්ඡාවක
+
+*2025-08-24 20:25:20* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-දේශපාලන-පක්ෂ-හෙට-විශේෂ-සාකච්ඡාවක/11-418041) · `si`
+
+විපක්ෂය නියෝජනය කරන පක්ෂ නායකයන්ගේ විශේෂ හමුවක් හෙට(25දා) පැවත්වීමට නියමිතව තිබේ.
+
+විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් කොළඹ විපක්ෂනායක කාර්යාලයේදී හෙට පස්වරු 1ට මෙම  සාකච්ඡාව පැවැත්වීමට කටයුතු යොදා තිබේ.
+
+මෙහිදී විශේෂයෙන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කිරීමේ සිද්ධිය සම්බන්ධයෙන් සාකච්ඡා සිදු කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/a4d93010.json)
 
 ---
 
@@ -1685,57 +1731,5 @@ The Police Media Division further stated that three female police officers and t
 ...
 
 [Data](articles/ad34f886.json)
-
----
-
-### ITAK  Launches Half-day Hartal  in North-East Over Alleged Killing of Tamil Youth by Army and Excessive Military Presence Amidst Civilian Habitats.
-
-*2025-08-24 14:16:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86325) · `en`
-
-“Hartal” is a word that entered the political discourse of countries like  India , Sri Lanka  and Malaysia during British rule. The Gujarati word  was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A Hartal denotes  a total shutdown of workplaces, offices, shops, schools,transport services  and courts of law. The  Gandhi-led Indian National Congress often resorted to such  civil disobedience protests  in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati  word Hartal to describe the  mass protests resulting in stoppages of work and shutting  down of business activity.
-
-The term Hartal was  first introduced to Sri Lanka known formerly as Ceylon by organizations and  Trade unions representing the Plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “Hartal”shutdown.
-
-...
-
-[Data](articles/edc1f230.json)
-
----
-
-### ”விளக்கை அணைத்து விளையாட வேண்டாம்”
-
-*2025-08-24 14:13:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளக்கை-அணைத்து-விளையாட-வேண்டாம்/175-363389) · `ta`
-
-இந்த அரசாங்கத்தால் முன்னெடுக்கப்பட்டிருக்கும் ரணில் விக்கிரமசிங்கவுக்கு எதிரான பழிவாங்கலை தமிழ் மக்கள் கண்டிப்பதாக தமிழ் முற்போக்கு அமைப்பின் தலைவரும் பாராளுமன்ற உறுப்பினருமான மனோ கணேசன் தெரிவித்தார்.
-
-கொழும்பில் உள்ள அமரி ஹோட்டலில் கட்சித் தலைவர்களின் பங்கேற்புடன்  நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மனோ கணேசன் மேற்கண்டவாறு தெரிவித்தார்.
-
-, வெள்ளிக்கிழமை பார்த்து  இந்த விஷயத்தை நீதிமன்றத்திற்கு எடுத்துச் சென்று விளக்கை அணைத்து விளையாட வேண்டாம் என்றும் எனது அன்பு நண்பர் தோழர் அனுரவிடம் கேட்டுக்கொள்கிறேன் என்றார். அரசியல் ஜனநாயகத்தைப் பாதுகாக்க நாம் ஒன்றுபட்டு கட்சி வேறுபாடுகள் இல்லாமல் செயல்பட வேண்டும். ஆரம்பத்தில் கூறப்பட்ட மத்திய வங்கி மோசடிக்கு எதிராக ஏன் நடவடிக்கை எடுக்கப்படவில்லை? இது நிச்சயமாக 100% அரசியல் பழிவாங்கல் என்று மனோ கணேசன் கூறினார்.
-
-◼️
-
-[Data](articles/0fedd14b.json)
-
----
-
-### බොරලැස්ගමුවේ ඝාතනයට වෙඩික්කරුවන් පැමිණි ත්‍රිරෝද රථය සොයා ගනී
-
-*2025-08-24 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213734) · `si`
-
-බොරලැස්ගමුව මාලනී බුලත්සිංහල මාවතේදී තරුණයකු වෙඩි තබා ඝාතනය කිරීම සඳහා වෙඩික්කරුවන් පැමිණි ත්‍රිරෝද රථය පිළියන්දල බෝකුන්දර ආර්ථික මධ්‍යස්ථානය අසල දමා ගොස් තිබියදී සොයාගත් බව බොරලැස්ගමුව පොලිසිය පවසයි.
-
-එම ත්‍රිරෝද රථය තුළ තිබී කළු පැහැති ආරක්ෂක හිස් වැසුම් දෙකක් සහ ජැකට්ටුවක් ද පොලිසිය විසින් සොයා ගෙන ඇත.
-
-බොරලැස්ගමුව බලරැස් ක්‍රීඩාංගනයේ පැවති සංගීත සංදර්ශනයක් නැරඹීමට ගොස් යළි නිවස වෙත පැමිණෙමින් සිටි අයෙකු ඉලක්කකර ඊයේ රාත්‍රී 12.30ට පමණ මෙම වෙඩි ප්‍රහාරය එල්ල විය.
-
-වෙඩි ප්‍රහාරයට ලක්වූ පුද්ගලයා කළුබෝවිල ශික්ෂණ රෝහල වෙත ඇතුළත් කිරීමෙන් පසු මිය ගොස් තිබුණි.
-
-මෙලෙස මියගොස් ඇත්තේ ගල්කිස්ස පන්සල පාරේ පදිංචි ගිහාන් දුලාන් පෙරේරා නොහොත් චොප්පේ නමින් හඳුන්වන 21 හැවිරිදි ත්‍රිරෝද රථ රියදුරෙකි.
-
-වෙඩි තැබීමෙන් ඔහු සමග පැමිණි 28 හැවිරිදි තවත් පුද්ගලයෙකුද තුවාල ලබා රෝහල්ගත කළ අතර එම තැනැත්තාගේ අතෙහි ඇඟිලි දෙකකට තුවාල සිදුව ඇති බව පොලිසිය පැවසුවේය.
-
-...
-
-[Data](articles/908470e6.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 11:53:01**
+As of **2025-08-25 12:09:41**
 
 ## Newspaper Stats
 
-*Scraped **72,180** Articles*
+*Scraped **72,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,83 @@ newsfirstlk | 363
 dbsjeyarajcom | 611
 bbccomsinhala | 677
 colombotelegraphcom | 739
-economynextcom | 4,406
+economynextcom | 4,410
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,932
 adaderanalk | 9,119
-tamilmirrorlk | 10,677
+tamilmirrorlk | 10,678
 virakesarilk | 11,886
-adaderanasinhalalk | 12,506
+adaderanasinhalalk | 12,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.9%) of 72,180 articles have been extended.
+61,973 (85.9%) of 72,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### எதிர்க்கட்சிகளுக்கு ரணிலிடமிருந்து முக்கிய செய்தி
+
+*2025-08-25 11:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளுக்கு-ரணிலிடமிருந்து-முக்கிய-செய்தி/175-363445) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது கட்சி மற்றும் சில முக்கிய எதிர்க்கட்சி உறுப்பினர்களிடம், இந்த நேரத்தில் ஒற்றுமையாக இருந்து ஜனநாயகம் நிலைநிறுத்தப்படுவதை உறுதி செய்ய போராட வேண்டும் என்று கூறியுள்ளார்.
+
+நேற்று காலை கொழும்பு தேசிய மருத்துவமனையில் மூத்த அரசியல்வாதிகள் அவரைச் சந்தித்தபோது, ​​விக்கிரமசிங்க அனைத்து எதிர்க்கட்சிகளுக்குள்ளும் ஒற்றுமையை வலியுறுத்தியதாகவும், அனைவரும் தங்கள் அரசியல் வேறுபாடுகளை ஒதுக்கி வைக்குமாறு கேட்டுக் கொண்டதாகவும் டெய்லி மிரர் செய்தித்தாளுக்குத் தெரிய வருகிறது.
+
+நீர்ச்சத்து குறைபாடு மற்றும் உயர் இரத்த அழுத்தத்திற்காக சிகிச்சை பெற்று வருவதால், விக்ரமசிங்க தொடர்ந்து மருத்துவமனையின் தீவிர சிகிச்சைப் பிரிவில் (ICU) இருப்பதாக கட்சியின் மூத்த வட்டாரம் தெரிவித்துள்ளது. விக்ரமசிங்கவின் மனைவி பேராசிரியர் மைத்ரி விக்ரமசிங்கவும் தனது கணவரை ஐசியூவில் சந்தித்துப் பேசியதுடன் அவரும் இன்னும் அதிர்ச்சியில் இருந்தார், மேலும் அவரது உடல்நிலை குறித்து கவலை தெரிவித்தார்.
+
+...
+
+[Data](articles/39dd54d4.json)
+
+---
+
+### වියට්නාමයට සුළි කුණාටු අවදානමක්
+
+*2025-08-25 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213768) · `si`
+
+සුළි කුණාටුවක අවධානමක් හේතුවෙන් වියට්නාමයේ පුද්ගලයින් ලක්ෂ 05කට අධික පිරිසකට එරට බලධාරීන් විසින් ඉවත් වීමේ නිවේදන නිකුත් කර තිබේ.
+
+‘කජිකි‘ ලෙස නම් කර ඇති මෙම සුළි කුණාටුව පැයට කිලෝමීටර් 200ක වේගයකින් වියට්නාමය හරහා හමායනු ඇති බවට අපේක්ෂා කරන බව එරට  බලධාරීන් සඳහන් කළේය.
+
+ඒ අනුව තාන් හොවා, කුවාම්, ඩා නෑන්ග් යන ප්‍රදේශවල පදිංචිකරුවන් 586,000ක පිරිසක් පදිංචි ස්ථානවලින් තාවකාලිකව ඉවත් කිරීමට තීරණය කර ඇත.
+
+සුළි කුණාටුවත් සමඟ අධික වර්ෂාපතනයක් ද අපේක්ෂා කරන අතර එම ප්‍රදේශ ආශ්‍රිතව ගුවන් ගමන් ද තාවකාලිකව අත්හිටුවීමට පියවර ගෙන ඇති බව සඳහන් වේ.
+
+කජිකි සුළි කුණාටුවෙන් චීනයේ හයිනෑම් ප්‍රදේශයට ද බලපෑම් එල්ලවූ අතර සුළි කුණාටුවත් සමඟ මිලිමීටර් 320ක වර්ෂාපතනයක් ද වාර්තා වී තිබුණි.
+
+◼️
+
+[Data](articles/4907e9ea.json)
+
+---
+
+### CEAT to invest US$171mn in Sri Lanka OHT tyre and track plants
+
+*2025-08-25 11:35:00* · [`economynextcom`](https://economynext.com/ceat-to-invest-us171mn-in-sri-lanka-oht-tyre-and-track-plants-238195/) · `en`
+
+ECONOMYNEXT – India’s CEAT group said it has inked a deal with Sri Lanka’s Board of Investment to spend 171 million dollars to expand off-highway-tyre (OHT) and track plants in Sri Lanka, which were acquired from Michelin.
+
+CEAT bought a tyre plant in Midigama plant and a casting product plant in Kotugoda as part of the deal.
+
+“With CEAT’s vision of expanding our global off-highway tyre business, we have great plans for this country,” Amit Tolani, Chief Executive, CEAT Specialty, said in the statement.
+
+“This investment will bring exciting new opportunities for Sri Lanka while playing a central role in our future growth.”
+
+CEAT said it is strengthening its position as a global player in the high-margin OHT and tracks segment, while putting Sri Lanka at the centre of its international expansion strategy.
+
+BOI Chairman Arjuna Herath said the investment approval will enhance Sri Lanka’s position as a manufacturing and export hub.
+
+...
+
+[Data](articles/7d3f3516.json)
+
+---
 
 ### සිරදඬුවම් ලැබු උතුරු මැද ප්‍රධාන ඇමැතිගේ ඇප ඉල්ලීම කල්යයි
 
@@ -96,13 +154,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-25 11:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கழிவறையில்-கேமரா-பொருத்தி-ஆபாச-படம்-எடுத்த-வைத்தியர்/50-363441) · `ta`
 
-இந்த மருத்துவமனையின் கழிவறையில் இரகசியமான முறையில் கேமரா பொருத்தப்பட்டு இருந்ததை பெண் வைத்தியர் கண்டறிந்தனர்.
+வைத்தியசாலையின் பெண்கள் கழிவறையில் இரகசியமான முறையில் கேமரா பொருத்தி பெண்களின் அந்தரங்கத்தை நிர்வாணமாக படங்களை எடுத்தார் என்றக் குற்றச்சாட்டில் ஆண் வைத்தியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இந்த சம்பவம், அவுஸ்திரேலியாவின் மெல்போர்ன் அருகே  அரச மருத்துவமனை ஒன்று உள்ளது. இந்த மருத்துவமனையின் பெண்கள் கழிவறையில் இரகசியமான முறையில் கேமரா பொருத்தப்பட்டு இருந்ததை பெண் வைத்தியர் கண்டுள்ளார்.
 
 இது குறித்து மருத்துவமனையின் நிர்வாகத்திடம் புகார் கொடுத்தனர். அதன் பேரில் பொலிஸார் வழக்குப்பதிவு செய்து விசாரித்தனர்.
 
-அப்போது அதே மருத்துவமனையில் பணிபுரிந்து வரும் ரயான் சோ (வயது 28) என்ற வைத்தியர் இரவு நேரத்தில் கழிவறைக்குள் சென்று வருவதை கண்டு பிடித்தனர்.
+அப்போது அதே மருத்துவமனையில் பணிபுரிந்து வரும் ரயான் சோ (வயது 28) என்ற வைத்தியர் இரவு நேரத்தில் பெண்களின் கழிவறைக்குள் சென்று வருவதை கண்டு பிடித்தனர்.
 
-அப்போது அவருடைய சல்லாப புத்தி காரணமாக மருத்துவமனையின் கழிவறையில் ரகசியமான முறையில் கேமரா பொருத்தி ஆபாச படம் எடுத்ததை அவர் ஒப்புக்கொண்டார்.
+அப்போது அவருடைய சல்லாப புத்தி காரணமாக மருத்துவமனையின் பெண்கள் கழிவறையில் ரகசியமான முறையில் கேமரா பொருத்தி, கழிவறைக்கு செல்லும் பெண்கள் உடைகளை கழற்றும் போது, ஆபாசமாக படம் எடுத்ததை அவர் ஒப்புக்கொண்டார்.
+
+2021-ம் ஆண்டு பயிற்சி வைத்தியராக பணியில் சேர்ந்ததில் இருந்து இவ்வாறு செய்து வருவதை அவர் ஒப்புக்கொண்டுள்ளார்.
 
 ◼️
 
@@ -227,6 +289,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b0de9184.json)
+
+---
+
+### Sri Lanka stocks recover from opening slide
+
+*2025-08-25 10:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-recover-from-opening-slide-238165/) · `en`
+
+ECONOMYNEXT – The Colombo stock exchange opened down on Monday, with its All Share Price Index falling almost 200 points to 20,460 points, before starting to regain some of the losses.
+
+The markets are opening after ex-President Ranil Wickremesinghe was arrested and jailed over alleged use of state funds during a stop-over in London.
+
+Brokers said the market was seeing profit taking, after steady gains seen over recent weeks.
+
+The ASPI fell 188.96 points in the first 15 minutes of trading before climbing back up.
+
+The market has been rising in the past few weeks hitting the 20,000 mark earlier this month.
+
+Over the weekend, opposition party activists questioned the way Wickremesinghe was arrested at the tail end of a investigation on a Friday saying it was done so that he would be jailed at least for the weekend to humiliate him and intimidate the opposition. (Colombo/Aug25/2025)
+
+◼️
+
+[Data](articles/52fddba0.json)
 
 ---
 
@@ -377,6 +461,34 @@ The Criminal Investigation Department (CID) has arrested Colombo Range Deputy In
 ◼️
 
 [Data](articles/32668d31.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-08-25 09:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238148/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.95/302.20 to the US dollar in the spot market Monday, weaker from 301.95/302.05 Friday, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.02.2028 was quoted at 8.78/81 percent.
+
+A bond maturing on 15.12.2028 was quoted at 8.96/99 percent, up from 8.90/9.00 percent.
+
+A bond maturing on 15.06.2029 was quoted at 9.32/35 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.41/44 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.44/48 percent, up from 9.42/45 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.25/35 percent, from 10.25/31 percent.
+
+The Colombo Stocks Exchange opened in red: The ASPI was down 0.52 percent, or 107.28 points, at 20,541.92; the S&P SL20 was down 0.67 percent, or 41.10 points, at 6,048.74.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 401.8137 buying, and 413.1555 selling, and the euro was 346.9455 buying, 358.1507 selling.
+
+...
+
+[Data](articles/1937689b.json)
 
 ---
 
@@ -733,6 +845,30 @@ He also mentioned that after a four-and-a-half-hour drive, provisions will be ma
 ◼️
 
 [Data](articles/f64b9949.json)
+
+---
+
+### Sri Lanka electricity generation surge in May amid economic recovery
+
+*2025-08-25 07:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-generation-surge-in-may-amid-economic-recovery-238121/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s electricity generation has surged 7.7 percent in May 2025 to 1,531 GigaWatt hours, official data show, amid an economic recovery, a price cuts and also an expansion in electric vehicles.
+
+Up to May 2025 electricity generation was up 3.7 percent to 7,167 GigaWatt hours.
+
+Electricity generation is a clear proxy of underlying economic activity.
+
+After February 2025 Sri Lanka has also started to import electric vehicles. The impact on electric vehicles on demand is not yet clear.
+
+Expensive new cars are usually bought by higher income earners who drive more than people owning older cars.
+
+But petrol sales, which is an indicator of private transport was also up 14.8 percent to 128,000 metric tonnes in May.
+
+Sri Lanka’s electricity generation was 16,588 GWh in 2021 shortly before a currency collapse in 2022 which destroyed people’s purchasing power.
+
+...
+
+[Data](articles/217f7da8.json)
 
 ---
 
@@ -1615,111 +1751,5 @@ Postal services in Germany, Denmark, Sweden and Italy said they will stop shippi
 ◼️
 
 [Data](articles/a60ae338.json)
-
----
-
-### ரணில் கைது: அரசாங்க சர்வாதிகாரத்துக்கு எதிராக எதிர்க்கட்சிகள் ஒன்றிணைந்த கண்டனம்
-
-*2025-08-24 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/223271) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமைப்பு எதிர்ப்பு தெரிவித்து சகல எதிர்க்கட்சிகளும் ஒன்றிணைந்து 'அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிப்போம்'என்ற தொனிப்பொருளில் அரசாங்கத்தின் சர்வாதிகார செயற்பாட்டுக்கு கடும் கண்டனத்தை வெளியிட்டன.
-
-சட்டத்தின் முன் அனைவரும் சமம் என்று குறிப்பிட்டுக் கொண்டு அரசாங்கம் அரசியல் பழிவாங்கலை மாத்திரம் முன்னிலைப்படுத்தி செயற்படுகிறது. இன்று ரணிலுக்கு நேர்ந்த கதி நாளை பிறிதொருவருக்கு ஏற்படலாம்.ஆகவே ஜனநாயகத்தையும், அரசியலமைப்பை பாதுகாக்கவும் சகல தரப்பினரும் அரசியல்,கட்சி பேதமின்றி ஒன்றிணைய  வேண்டும் என்று எதிர்கட்சிகளின் தலைவர்கள் கூட்டாக வலியுறுத்தியதுடன், முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பாதுகாக்க அர்ப்பணிப்புடன் செயற்படுவதாகவும் குறிப்பிட்டனர்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமைக்கு எதிர்ப்பு தெரிவிக்கும் வன்னம் எதிர்க்கட்சிகளின் தலைவர்கள், பிரதிநிதிகள் கூட்டாக ஒன்றிணைந்து ஞாயிற்றுக்கிழமை (24) கொழும்பில் விசேட ஊடகவியலாளர் சந்திப்பினை நடத்தினர்.
-
-...
-
-[Data](articles/7d8c60ae.json)
-
----
-
-### Warm weather advisory issued for several provinces
-
-*2025-08-24 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111794/warm-weather-advisory-issued-for-several-provinces) · `en`
-
-The Department of Meteorology has issued a warm weather advisory for residents of Northern, North-central, Eastern provinces and Hambantota and Monaragala districts.
-
-The heat index — the temperature felt by the human body — is likely to increase up to ‘Caution level’ at some places in Northern, North-central and Eastern provinces and in Hambantota and Monaragala districts, it said.
-
-The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body, said the Met Department.
-
-The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue, while continuing activity could lead to heat cramps.
-
-Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
-
-◼️
-
-[Data](articles/c4bc30fc.json)
-
----
-
-### ”ரணிலை 40 ஆண்டுகளுக்கு முன்பே கைது செய்திருக்க வேண்டும்”
-
-*2025-08-24 19:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-40-ஆண்டுகளுக்கு-முன்பே-கைது-செய்திருக்க-வேண்டும்/175-363409) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மீது சுமத்தப்பட்டுள்ள மிகவும் கடுமையான குற்றச்சாட்டுகளுக்காக 40 ஆண்டுகளுக்கு முன்பே அவர் கைது செய்யப்பட்டிருக்க வேண்டும் என்று அமைச்சர் பிமல் ரத்நாயக்க கூறுகிறார்.
-
-"அவரது சமீபத்திய கைதுக்குப் பின்னால் உள்ள குற்றச்சாட்டுகள் அற்பமானவை என்ற வாதங்கள் உள்ளன; அது உண்மைதான். இருப்பினும், 1977 இல் அவரது அரசாங்கம் தேர்தலுக்குப் பிந்தைய பாரிய வன்முறையைக் கட்டவிழ்த்துவிட்டிருந்தது. அதற்கு ரணிலும் ஜே.ஆரும் பொறுப்பாளிகள், அந்த நேரத்தில் அவர்கள் கைது செய்யப்பட்டிருக்க வேண்டும்," என்று அவர் கூறினார்.
-
-1980களின் முற்பகுதியில் நடந்த முக்கிய சம்பவங்கள், 1981ல் யாழ்ப்பாண நூலகம் எரிப்பு மற்றும் ஜூலை 1983 கலவரம் உள்ளிட்டவற்றின் போது அமைச்சரவையில் ரணில் விக்கிரமசிங்க வகித்த பங்கிற்கு அவர் பொறுப்புக்கூற வேண்டியிருந்தது என்று அமைச்சர் மேலும் கூறினார்.
-
-...
-
-[Data](articles/4651f931.json)
-
----
-
-### ”ரணில் மீது குற்றம் சாட்ட வேறு சிறந்த வழக்கைத் தேடுங்கள்”
-
-*2025-08-24 19:02:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-மீது-குற்றம்-சாட்ட-வேறு-சிறந்த-வழக்கைத்-தேடுங்கள்/175-363408) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க மீதான குற்றச்சாட்டுகளை அரசியல் பழிவாங்கும் நடவடிக்கை என்று முன்னாள் வெளியுறவு அமைச்சரும் ஜனாதிபதி சட்டத்தரணியுமான அலி சப்ரி தெரிவித்துள்ளார்.
-
-பதவியில் இருக்கும் ஜனாதிபதி ஒருவர் உத்தியோகபூர்வ பாதுகாப்பு மற்றும் நெறிமுறைகளின் கீழ் பயணம் செய்யும் போது அது பொது நிதியை தவறாகப் பயன்படுத்துவது ஆகாது என்று அவர் கூறியுள்ளார்.
-
-உத்தியோகபூர்வ கடமைகளுக்காகவோ அல்லது தனிப்பட்ட காரணங்களுக்காகவோ பயணம் செய்தாலும், பதவியில் இருப்பவர் உட்பட ஒவ்வொரு ஜனாதிபதியும் பொலிஸ் மற்றும் பாதுகாப்புப் பிரிவின் பாதுகாப்பைப் பெற உரிமை உண்டு என்று சப்ரி குறிப்பிட்டார்.
-
-...
-
-[Data](articles/e2c805a1.json)
-
----
-
-### Sri Lanka ex-President’s arrest draws criticism from former rivals
-
-*2025-08-24 18:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-presidents-arrest-draws-criticism-from-former-rivals-238107/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-President Ranil Wickremesinghe’s arrest and remand over alleged mis-use of public funds has drawn criticism including from his rivals as a calculated political act designed to humiliate the ex-leader on flimsy charges and intimidate the democratic opposition.
-
-Wickremesinghe was arrested over the use of state funds for himself and his staff during a stop-over in the UK where he attended the award of an honorary professorship to his wife, while returning from the UN General Assembly in the US in 2023.
-
-His arrest on Friday was unnecessary for the investigation except as a tactic to humiliate him and intimidate the opposition, activists said Sunday drawing attention to a youtuber who had predicted the sequence of events.
-
-...
-
-[Data](articles/6802954d.json)
-
----
-
-### அதிக விலைக்குக் குடிநீர் போத்தலை விற்பனை செய்த உணவகம்
-
-*2025-08-24 18:47:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-விலைக்குக்-குடிநீர்-போத்தலை-விற்பனை-செய்த-உணவகம்/175-363407) · `ta`
-
-வில்பத்து தேசிய பூங்காவுக்கு வருகைதரும் வெளிநாட்டு சுற்றுலாப் பயணிகளுக்கு அதிக விலைக்குப் பொருட்களை விற்பனை செய்யும் உணவகம் ஒன்று தொடர்பில் தகவல் வெளியாகியுள்ளது.
-
-குறித்த தகவலையடுத்து நுகர்வோர் விவகார அதிகாரசபை, புத்தளம் மாவட்ட அலுவலக அதிகாரிகள் குழு ஆகியவை சோதனை நடவடிக்கையில் ஈடுபட்டுள்ளன.
-
-தேசிய பூங்காவின் பிரதான நுழைவாயிலுக்கு அருகில் உள்ள உணவகம் ஒன்றிலேயே இந்த சோதனை நடவடிக்கை இடம்பெற்றது.
-
-உணவகத்தை சோதனை செய்தபோது, ​​130 ரூபாய்க்கு விற்கப்பட வேண்டிய ஒன்றரை லீற்றர் குடிநீர் போத்தல் 200 ரூபாய்க்கு விற்பனை செய்யப்பட்டமை தெரியவந்துள்ளது.
-
-ஒன்றரை லிற்றர் குடிநீர் போத்தல் ஒன்றுக்கு கூடுதலாக 70 ரூபாய் வசூலிக்கப்பட்டமை கண்டறியப்பட்டது.
-
-மேலும், இந்த உணவகத்தில் விற்கப்படும் அனைத்து உணவு மற்றும் பானங்களும் அதிக விலைக்கு விற்கப்படுவதாகத் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/58a1b54b.json)
 
 ---

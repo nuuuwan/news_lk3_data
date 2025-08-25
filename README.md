@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 19:50:21**
+As of **2025-08-25 20:07:50**
 
 ## Newspaper Stats
 
-*Scraped **72,283** Articles*
+*Scraped **72,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,944
-adaderanalk | 9,147
+adalk | 6,945
+adaderanalk | 9,148
 tamilmirrorlk | 10,698
-virakesarilk | 11,898
+virakesarilk | 11,901
 adaderanasinhalalk | 12,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,283 articles have been extended.
+61,973 (85.7%) of 72,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### 2026 வரவு செலவுத் திட்ட பூர்வாங்க கலந்துரையாடல் - ஜனாதிபதி தலைமையில் ஆய்வு
+
+*2025-08-25 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223355) · `ta`
+
+2025 ஆம் ஆண்டு நகர அபிவிருத்தி, நிர்மாணிப்பு மற்றும் வீடமைப்பு அமைச்சிற்கு ஒதுக்கப்பட்ட வரவு செலவுத் திட்ட நிதி ஒதுக்கீட்டின் கீழ் செயல்படுத்தப்பட்ட திட்டங்கள் குறித்த மீளாய்வு மற்றும் 2026 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட பூர்வாங்க  கலந்துரையாடல் இன்று (25) காலை ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+நகர மற்றும் கிராமிய வீடமைப்பு நிர்மாணத் திட்டங்கள், நகர  அபிவிருத்தித் திட்டங்கள், நகர திட்டமிடல் திட்டங்கள், கழிவு முகாமைத்துவம் மற்றும் சுற்றுச்சூழல் பாதுகாப்புத் திட்டங்கள், நீர் வழங்கல் மற்றும் சுகாதாரத் திட்டங்கள் போன்ற துறைகள் குறித்து இங்கு கலந்துரையாடல்கள் நடத்தப்பட்டன. இந்தத் துறைகளுடன் தொடர்புடைய  நாட்டின் ஒவ்வொரு மாகாணத்திலும் செயல்படுத்தப்படும் திட்டங்களின் தற்போதைய முன்னேற்றம்  குறித்து மீளாய்வு செய்யப்பட்டது.
+
+...
+
+[Data](articles/31fca5fb.json)
+
+---
+
+### மட்டு களுவங்கேணியில் இனியபாரதியின் மற்றுமொரு சகா சிஜடி யினரால் கைது!
+
+*2025-08-25 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223357) · `ta`
+
+இனிய பாரதியின் சகாவான மட்டு களுவங்கேணியைச் சேர்ந்த பாலசுந்தரம் என்பவரை திங்கட்கிழமை (25) மட்டு களுவங்கேணியில் வீட்டில் வைத்து  சிஐடியினர் கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+கடந்த ஜுலை 6 ம் திகதி அம்பாறை திருக்கோவில் பிரதேச சபையின் முன்னாள் தவிசாளர் உதயகுமார் துப்பாக்கியால் சுட்டு படுகொலை செய்யப்பட்ட சம்பவம் உட்பட 2005 மற்றும் 2008 க்கு இடையில் கிழக்கு மாகாணத்தில் நடந்த கொலைகள், கடத்தல்கள், காணாமல் போதல்கள், துப்பாக்கிகளைப் பயன்படுத்துதல், சித்திரவதைக் கூடங்களை நடத்துதல்; மிரட்டி பணம் பறித்தல் போன்ற சம்பவங்களுடன் தொடர்புடைய கருணா அணியைச் சேர்ந்த இனியபாரதி என்றழைக்கப்படும் கே. புஸ்பகுமார் அவரது சகாவான சசீதரன் தவசீலன் ஆகியோரை குற்ற விசாரணைப் பிரிவினர் கைது செய்தனர்.
+
+இதனையடுத்து இவர்களிடம் மேற்கொண்ட விசாரணையின் அடிப்படையில் இனியபாரதியுடன் சேர்ந்து இயங்கிவந்த வரும் அவரின் சகாவான களுவங்கேணியைச் சேர்ந்த பாலசுந்தரம் என்பவரை இவரது வீட்டில் வைத்து திங்கட்கிழமை (25) பகல் கைது  குற்ற விசாரணைப் பிரிவினர் கைது செய்தனர்.
+
+...
+
+[Data](articles/d030b3b2.json)
+
+---
+
+### குருக்கள்மடம் மனிதப் புதை குழியை தோண்டுவதற்கு நீதிமன்றம் உத்தரவு
+
+*2025-08-25 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/223356) · `ta`
+
+1990ஆம் ஆண்டு புனித ஹஜ் யாத்திரையை முடித்துக் கொண்டு கல்முனை வழியாக காத்தான்குடிக்கு பயணம் செய்த அப்பாவி முஸ்லிம்கள் ஆயுத தாரிகளால் இடைமறிக்கப்பட்டு கடத்தப்பட்டு குருக்கள்மடத்தில் வைத்து கொலை செய்­யப்­பட்டு புதைக்கப்பட்டது சம்பந்தமாக, பாதிக்கப்பட்டவர்களின் குடும்பம் சார்பாக AMM.ரவூப் என்பவரால் களுவாஞ்சிக்குடி பொலிஸ் நிலையத்தில் செய்­யப்­பட்ட முறைப்பாட்டின் பிரகாரம், களுவாஞ்சிக்குடி நீதிவான் நீதிமன்றத்தில் தொடரப்பட்ட வழக்கு விசாரணை, திங்கட்கிழமை (25) களுவாஞ்சிக்குடி நீதிவான் நீதிமன்ற நீதிபதி ஜே.பீ ஏ.ரஞ்சித்குமார் முன்னிலையில் விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டது.
+
+முறைப்பாட்டில் குறிப்பிட்டுள்ள படி உரிய இடத்தில் புதைக்கப்பட்டுள்ள மனித எச்சங்களை தோண்டி எடுப்பதற்கான கட்டளையை நீதிவான் நீதிமன்ற நீதிபதியால் பிறப்பிக்கப்பட்டுள்ளது.
+
+மேலதிக நடவடிக்கைகளை களுவாஞ்சிக்குடி பொலீஸார் மேற்கொண்டு வருகின்றனர்.முறைப்பாட்டாளர் சார்பாக குரல்கள் இயக்க சட்டத்தரணிகள் ஆஜராகி இருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/a7bf734e.json)
+
+---
 
 ### ’’அரசாங்கம் ஒரு சர்வாதிகாரப் போக்கில் நகர்கிறது”
 
@@ -49,6 +95,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b2eb1265.json)
+
+---
+
+### US suspends chikungunya vaccine Ixchiq over ‘serious’ side effects: Valneva
+
+*2025-08-25 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111839/us-suspends-chikungunya-vaccine-ixchiq-over-serious-side-effects-valneva) · `en`
+
+US health authorities have suspended the licence for the Ixchiq vaccine against the chikungunya virus following reports of “serious adverse events”, the drug’s French maker said on Monday (Aug 25).
+
+Ixchiq is one of just two vaccines approved by the US Food and Drug Administration for the mosquito-spread virus, which mainly occurs in tropical and subtropical regions but has recently been discovered in countries worldwide.
+
+French company Valneva obtained US approval for the vaccine in 2023, but reports of side effects have prompted reviews, in particular over its use in older patients, including by the European Medicines Agency this year.
+
+“The suspension of the licence is effective immediately,” Valneva said of the FDA order issued on Friday, citing four additional cases of serious side effects, three of which involved people aged 70 to 82.
+
+...
+
+[Data](articles/b146039f.json)
 
 ---
 
@@ -148,6 +212,22 @@ The 26-year-old suspect is scheduled to be produced before the Kesbewa Magistrat
 
 ---
 
+### රෝහල් 20 කට අති නවීන ගිලන් රථ 20 ක්
+
+*2025-08-25 17:59:10* · [`adalk`](https://www.ada.lk/breaking_news/රෝහල්-20-කට-අති-නවීන-ගිලන්-රථ-20-ක්/11-418059) · `si`
+
+මෙරට ජනතාවට ගුණාත්මක, කාර්යක්ෂම, විශිෂ්ට සෞඛ්‍ය සේවාවක් ලබා දීම ප්‍රමුඛ අරමුණ කර ගනිමින් රෝහල් පද්ධතියෙ හි භෞතික සම්පත්  ඉහළ නැංවීමට අති නවීන තාක්ෂණයෙන් යුත්  ගිලන් රථ 20 ක්  රජයේ රෝහල් වෙත බෙදා දීම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සෞඛ්‍ය හා ජනමාධ්‍ය  අමාත්‍යාංශ පරිශ්‍රයේ දී අද දින (25) සිදු කෙරිණි.
+
+ආසියානු සංවර්ධන බැංකුවේ මූල්‍ය දායකත්වය මත සෞඛ්‍ය පද්ධති වැඩිදියුණු කිරීමේ ව්‍යාපෘතියේ අනුග්‍රහයෙන් මධ්‍යම රජයේ සහ පළාත් සභාව යටතේ පාලනය වන රෝ‍හල් සදහා බෙදාදෙන ලද මෙම එක් ගිලන් රථයක වටිනාකම රුපියල් ලක්ෂ 257කට අධික වේ.
+
+මෙම නව ගිලන් රථ තුළ අති නවීන පහසුකම් රැසක් පවතින අතර රෝගීයා වෙනත් රෝහලක් කරා ගෙනයන අතරතුර ද ප්‍රතිකාර රැසක් එමඟින් සිදු කිරීමේ හැකියාව පවතී.
+
+...
+
+[Data](articles/a551048e.json)
+
+---
+
 ### රැප් ගායකයෙක් ව්‍යාජ පිස්තෝලයක් සහ මත්ද්‍රව්‍ය සමග අත්අඩංගුවට
 
 *2025-08-25 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213781) · `si`
@@ -199,6 +279,14 @@ The 26-year-old suspect is scheduled to be produced before the Kesbewa Magistrat
 A Presidential Task Force has been appointed for the implementation of the Sri Lanka Tourism Development Programme.
 
 The 28-member Task Force has been appointed by President Anura Kumara Dissanayake by virtue of the powers vested in him by Article 33 of the Constitution.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath has been named the Chairman of the Task Force while the Deputy Minister of Tourism, Ruwan Chaminda Ranasingha has been named the Vice Chairman of the Presidential Task Force.
+
+The Task Force has been mandated with policy analysis, strategic planning and regulations and the identification of challenges and solutions.
+
+They are also tasked with monitoring and evaluation of all institutions in the tourism sector, including the Sri Lanka Tourism Development Authority.
+
+The Presidential Task Force has been appointed for a period of two years and they are required to submit a comprehensive report before the end of their tenure.
 
 ◼️
 
@@ -1749,87 +1837,5 @@ Wickremesinghe was taken into custody for allegedly “misusing government funds
 ...
 
 [Data](articles/86eba189.json)
-
----
-
-### உதவி தோட்ட முகாமையாளர் மர்மமாக மரணம்
-
-*2025-08-25 11:30:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உதவி-தோட்ட-முகாமையாளர்-மர்மமாக-மரணம்/76-363444) · `ta`
-
-ஹட்டன், வட்டவல பகுதியில் உள்ள வெலிஓயா தோட்டத்தில் பணிபுரிந்து வந்த மூத்த உதவி தோட்ட முகாமையாளர், தனது உத்தியோகபூர்வ இல்லத்தின் குளியலறையில் மர்மமான முறையில் இறந்து கிடந்ததாக வட்டவல பொலிஸார் தெரிவித்தனர்.
-
-மர்மமான முறையில் உயிரிழந்த நபர், குறித்த தோட்டத்தின் மூத்த உதவி தோட்ட முகாமையாளராக பணியாற்றி வந்த அனவாகி ரிட்டோ அமீன் (வயது45) ஆவார்.
-
-குறித்த தோட்ட முகாமையாளர் இன்று (25) காலை கடமைக்கு சமூகமளிக்க எழுந்திருக்காததால், குறித்த உத்தியோகபூர்வ இல்லத்தில் பணிபுரியும் சமையல்காரர்,   உதவி தோட்ட முகாமையாளரின் படுக்கையறைக்குச் சென்று பார்த்துள்ளார்.  உதவி தோட்ட முகாமையாளர் அங்கு இல்லாததால், குளியலறைக்குச் சென்று பார்த்துள்ளார். அங்கு  உதவி தோட்ட முகாமையாளர் விழுந்து கிடந்துள்ளார். சமையல்காரர் உத்தியோகபூர்வ இல்லத்தின் காவலருக்கு தகவல் தெரிவித்தார், மேலும் தோட்டத்தின் முகாமையாளர் வட்டவல பொலிஸாருக்கு தகவல் தெரிவித்தார்.
-
-உதவி தோட்ட முகாமையாளர் குளியலறையில் வழுக்கி விழுந்து சுவரில் தலை மோதியதால் இந்த விபத்து ஏற்பட்டதாக வட்டவல பொலிஸார் சந்தேகிக்கின்றனர்.
-
-◼️
-
-[Data](articles/88ad13e5.json)
-
----
-
-### நீதிமன்றில் நாளை ரணில் ஆஜராகமாட்டார்?
-
-*2025-08-25 11:29:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-நாளை-ரணில்-ஆஜராகமாட்டார்/175-363443) · `ta`
-
-கொழும்பு கோட்டை நீதவான் நீதிமன்றத்தில் நாளை முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை ஆஜர்படுத்த வேண்டியுள்ளபோதும், அவர் அன்று நீதிமன்றத்தில் ஆஜராவதை அவரது உடல்நிலை தடுப்பதாக வைத்தியசாலை அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-மருந்துகளை உள்ளெடுக்குமாறும், அடுத்த மூன்று நாள்களுக்கு ஓய்வெடுக்குமாறு விக்ரமசிங்கவுக்கு ஆலோசனையளிக்கப்பட்டுள்ளதாக கொழும்பு தேசிய வைத்தியசலையின் சிரேஷ்ட அதிகாரியொருவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/70e9a8bf.json)
-
----
-
-### Two individuals arrested over Borella shooting
-
-*2025-08-25 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111812/two-individuals-arrested-over-borella-shooting-) · `en`
-
-Two individuals have been arrested for allegedly aiding and abetting the shooting reported in the Kader Nana Watte area in Borella on August 22, police stated.
-
-The suspects have been arrested by the Borella Police in Wellampitiya.
-
-The Borella Police have also taken into custody a motorcycle suspected of being used in the shooting.
-
-The arrested suspects and the motorcycle are scheduled to be produced in court.
-
-◼️
-
-[Data](articles/4acfa099.json)
-
----
-
-### நிறுத்தவோ அல்லது திரும்பவோ இல்லை
-
-*2025-08-25 11:24:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நிறுத்தவோ-அல்லது-திரும்பவோ-இல்லை/62-363442) · `ta`
-
-◼️
-
-[Data](articles/9121dae6.json)
-
----
-
-### கழிவறையில்  கேமரா பொருத்தி ஆபாச படம் எடுத்த வைத்தியர்
-
-*2025-08-25 11:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கழிவறையில்-கேமரா-பொருத்தி-ஆபாச-படம்-எடுத்த-வைத்தியர்/50-363441) · `ta`
-
-வைத்தியசாலையின் பெண்கள் கழிவறையில் இரகசியமான முறையில் கேமரா பொருத்தி பெண்களின் அந்தரங்கத்தை நிர்வாணமாக படங்களை எடுத்தார் என்றக் குற்றச்சாட்டில் ஆண் வைத்தியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-இந்த சம்பவம், அவுஸ்திரேலியாவின் மெல்போர்ன் அருகே  அரச மருத்துவமனை ஒன்று உள்ளது. இந்த மருத்துவமனையின் பெண்கள் கழிவறையில் இரகசியமான முறையில் கேமரா பொருத்தப்பட்டு இருந்ததை பெண் வைத்தியர் கண்டுள்ளார்.
-
-இது குறித்து மருத்துவமனையின் நிர்வாகத்திடம் புகார் கொடுத்தனர். அதன் பேரில் பொலிஸார் வழக்குப்பதிவு செய்து விசாரித்தனர்.
-
-அப்போது அதே மருத்துவமனையில் பணிபுரிந்து வரும் ரயான் சோ (வயது 28) என்ற வைத்தியர் இரவு நேரத்தில் பெண்களின் கழிவறைக்குள் சென்று வருவதை கண்டு பிடித்தனர்.
-
-அப்போது அவருடைய சல்லாப புத்தி காரணமாக மருத்துவமனையின் பெண்கள் கழிவறையில் ரகசியமான முறையில் கேமரா பொருத்தி, கழிவறைக்கு செல்லும் பெண்கள் உடைகளை கழற்றும் போது, ஆபாசமாக படம் எடுத்ததை அவர் ஒப்புக்கொண்டார்.
-
-2021-ம் ஆண்டு பயிற்சி வைத்தியராக பணியில் சேர்ந்ததில் இருந்து இவ்வாறு செய்து வருவதை அவர் ஒப்புக்கொண்டுள்ளார்.
-
-◼️
-
-[Data](articles/097bd0ad.json)
 
 ---

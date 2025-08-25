@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 20:33:29**
+As of **2025-08-25 20:22:19**
 
 ## Newspaper Stats
 
-*Scraped **72,291** Articles*
+*Scraped **72,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,61 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,945
 adaderanalk | 9,148
-tamilmirrorlk | 10,699
-virakesarilk | 11,902
+tamilmirrorlk | 10,698
+virakesarilk | 11,901
 adaderanasinhalalk | 12,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,291 articles have been extended.
+61,973 (85.7%) of 72,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
-
-### குருக்கள்மடம் மனிதப் புதை குழி தொடர்பில் நீதிமன்றம் கொடுத்த உத்தரவு
-
-*2025-08-25 20:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்மடம்-மனிதப்-புதை-குழி-தொடர்பில்-நீதிமன்றம்-கொடுத்த-உத்தரவு/175-363472) · `ta`
-
-1990 ஆம் ஆண்டில் புனித ஹஜ் யாத்திரையை முடித்துவிட்டு கல்முனை வழியாக காத்தான்குடிக்கு பயணித்த முஸ்லிம் யாத்ரீகர்கள், ஆயுததாரிகளால் இடைமறிக்கப்பட்டு குருக்கள்மடத்தில் கொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய வழக்கு, களுவாஞ்சிக்குடி நீதவான் நீதிமன்றத்தில் விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டுள்ளது.
-
-பாதிக்கப்பட்டவர்களின் குடும்பத்தின் சார்பில் ஏ.எம்.எம். ரவூப் என்பவர் களுவாஞ்சிக்குடி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
-
-இதன்போது, சம்பவ இடத்தில் புதைக்கப்பட்ட மனித எச்சங்களை தோண்டி எடுக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-மேலும், சம்பவ இடமான குருக்கள்மடம் கடற்கரை வீதியை சந்தேகிக்கப்படும் இடமாக அடையாளப்படுத்தி, பொலிஸாருக்கு பாதுகாப்பு வலயம் அமைக்கவும் நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-இந்த வழக்கு நாளை (26) காலை 9:30 மணிக்கு மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது.
-
-அத்துடன், குருக்கள்மடம் பகுதியில் மனிதப் புதைகுழி இருப்பதாக சந்தேகிக்கப்படும் இடத்தை களுவாஞ்சிக்குடி நீதவான் நேரடியாகச் சென்று பார்வையிட்டார். R
-
-◼️
-
-[Data](articles/39f1b152.json)
-
----
-
-### செம்மணி மனித புதைகுழி: இரண்டாம் கட்டத்தின் மூன்றாம் பகுதி அகழ்வு தொடக்கம்
-
-*2025-08-25 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/223358) · `ta`
-
-செம்மணி மனித புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகளுக்காக நீதிமன்றம் 45 நாட்கள் அனுமதி வழங்கியுள்ள நிலையில் , கடந்த 06ஆம் திகதி வரையில் 32 நாட்கள் முன்னெடுக்ககப்பட்ட நிலையில் , பணிகள் தற்காலிகமாக இடைநிறுத்தப்பட்டன.
-
-இந்நிலையில் 33ஆவது நாளான திங்கட்கிழமை (25) மூன்றாம் பகுதி அகழ்வு பணிகள் ஆரம்பமானது.
-
-இன்றைய தினம், ஏற்கனவே இருந்த அகழ்வு தளங்களை மேலும் விரிவாக்கம் செய்யும் பணிகள் முன்னெடுக்கப்பட்டுள்ளது. நாளைய தினமும் பணிகள் முன்னெடுக்கப்படவுள்ளது.
-
-அதேவேளை கடந்த 06ஆம் திகதி வரையில் கட்டம் கட்டமாக 41 நாட்கள் முன்னெடுக்கப்பட்ட அகழ்வு பணிகளின் போது, 150 எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டிருந்த நிலையில் அவை முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-கடந்த 14 ஆம் திகதி நடைபெற்ற வழக்கு விசாரணைகளின் போது மேலும் அகழ்வு பணிகள் முன்னெடுக்க வேண்டும் என கோரிக்கை முன்வைக்கப்பட்ட நிலையில் அதற்கான நடவடிக்கைகளை மேற்கொள்ளுமாறு நீதவான் உத்தரவிட்டுள்ள நிலையில் அதற்கான பாதீடுகளை தயாரிக்க நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளதாக  தெரிவிக்கப்பட்டுகிறது.
-
-◼️
-
-[Data](articles/6a4146c8.json)
-
----
 
 ### හෙට කොළඹට ජනතාව රැස්කරන්න විපක්ෂයෙන් සැලසුමක්
 
@@ -754,15 +712,15 @@ At the commencement of today’s hearing, President’s Counsel Ali Sabry, appea
 
 *2025-08-25 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213776) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබූ, විශ්‍රාමික ජනපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය ශ්‍රේෂ්ඨාධිකරණයේදී අද (25) අවසන් කෙරුණි.
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කරන බව නිවේදනය කළේය.
 
-එහිදී දීර්ඝ කරුණු සලකා බැලීමකින් පසු අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියෝග කළේ, එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කෙරෙන බවය.
+දීර්ඝ කරුණු සලකා බැලීමකින් අනතුරුව අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර තිබේ.
 
-එහිදී පළමුව කරුණු දැක්වූයේ නඩුවේ එක් පෙත්සම්කාර පාර්ශ්වයක්වන නාවික හමුදාවේ හිටපු මාණ්ඩලික ප්‍රධානී එස්.එම්. විජේවික්‍රම මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ අලි සබ්‍රි මහතාය.
+මෙම නඩුකරයට අදාළ ලිඛිත දේශනා තිබේ නම් ඒවා ලබන බ්‍රහස්පතින්දා දහවල් 12.00 පෙර ගොනුකරන ලෙසත් විනිසුරු මඩුල්ල පාර්ශවකරුවන්ට නියම කළේය.
 
-ජනාධිපති නීතිඥවරයා කරුණු දක්වමින් පැවසුවේ, 1986 අංක 04 දරණ ජනාධිපති හිමිකම් පනතේ 03 වැනි වගන්තිය යටතේ විශ්‍රාමික ජනාධිපතිවරුන්ට හෝ වැන්දඹු භාර්යාවට නිවාස, විශ්‍රාමික දීමනා, කාර්ය මණ්ඩල පහසුකම් සහ ප්‍රවාහන පහසුකම් සලසාදීම සම්බන්ධයෙන් කරුණු දක්වා ඇති බවය.
+ඉන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණයේ රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකට යොමු කරන බවත් විනිසුරු මඩුල්ල සඳහන් කළේය.
 
-...
+◼️
 
 [Data](articles/5b435ced.json)
 
@@ -1843,5 +1801,49 @@ The typhoon - the fifth to affect Vietnam this year - is currently at sea, roili
 ◼️
 
 [Data](articles/4907e9ea.json)
+
+---
+
+### CEAT to invest US$171mn in Sri Lanka OHT tyre and track plants
+
+*2025-08-25 11:35:00* · [`economynextcom`](https://economynext.com/ceat-to-invest-us171mn-in-sri-lanka-oht-tyre-and-track-plants-238195/) · `en`
+
+ECONOMYNEXT – India’s CEAT group said it has inked a deal with Sri Lanka’s Board of Investment to spend 171 million dollars to expand off-highway-tyre (OHT) and track plants in Sri Lanka, which were acquired from Michelin.
+
+CEAT bought a tyre plant in Midigama plant and a casting product plant in Kotugoda as part of the deal.
+
+“With CEAT’s vision of expanding our global off-highway tyre business, we have great plans for this country,” Amit Tolani, Chief Executive, CEAT Specialty, said in the statement.
+
+“This investment will bring exciting new opportunities for Sri Lanka while playing a central role in our future growth.”
+
+CEAT said it is strengthening its position as a global player in the high-margin OHT and tracks segment, while putting Sri Lanka at the centre of its international expansion strategy.
+
+BOI Chairman Arjuna Herath said the investment approval will enhance Sri Lanka’s position as a manufacturing and export hub.
+
+...
+
+[Data](articles/7d3f3516.json)
+
+---
+
+### Sajith visits Ranil at hospital again, says he expects court to issue independent ruling tomorrow
+
+*2025-08-25 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111813/sajith-visits-ranil-at-hospital-again-says-he-expects-court-to-issue-independent-ruling-tomorrow) · `en`
+
+Leader of the Opposition Sajith Premadasa visited former President Ranil Wickremesinghe who is currently receiving treatment at the Colombo National Hospital once again this morning (25).
+
+Former President Wickremesinghe, who was remanded until tomorrow (26), was initially admitted to the Prison Hospital, and then transferred to the National Hospital.
+
+He was admitted to the Intensive Care Unit (ICU) due to dehydration, according to hospital sources.
+
+The transfer was carried out on the recommendation of Prison Hospital doctors following medical examinations.
+
+Former President Wickremesinghe, was remanded until August 26 after being arrested by the Criminal Investigation Department (CID) on August 22.
+
+Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to the United Kingdom to attend a ceremony for his wife at a British university while he was head of state.
+
+...
+
+[Data](articles/626f384a.json)
 
 ---

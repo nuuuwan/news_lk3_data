@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 14:25:15**
+As of **2025-08-25 14:37:20**
 
 ## Newspaper Stats
 
-*Scraped **72,215** Articles*
+*Scraped **72,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,410
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,935
+adalk | 6,936
 adaderanalk | 9,128
 tamilmirrorlk | 10,684
 virakesarilk | 11,890
-adaderanasinhalalk | 12,511
+adaderanasinhalalk | 12,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,215 articles have been extended.
+61,973 (85.8%) of 72,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### වතු නිවාස පෙළක ගින්නක් - නිවාස 4ක් විනාශයි
+
+*2025-08-25 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213773) · `si`
+
+කොත්මලේ පූඩළුඔය පොලිස් වසමට අයත් ඩන්සින්න වත්තේ මැද කොටසේ වතු නිවාස පේළියක (25) දින දහවල් හට ගත් ගින්නකින් වතු නිවාස 4ක් සම්පූර්ණයෙන් විනාශ වී ඇති බව පූඩළුඔය පොලීසිය පවසයි.
+
+පෙ.ව. 11ට පමණ එක් නිවසකින් ඇවිලුණු ගින්න සෙසු නිවාසවලට පැතිර ගිය බවත්, එම නිවාස පේළියේ වතු නිවාස 20ක් පිහිටි බවත් පොලීය සඳහන් කළේය.
+
+පැතිර යමින් තිබූ ගින්න වතු කම්කරුවන් එක්ව සෙවිලි තහඩු සහ වහළ ගලවා පාලනය කර ඇති අතර, ගින්නෙන් කිසිවෙකුටත් තුවාල සිදු වී නොමැත.
+
+ගින්නෙන් විනාශ වූ වතු නිවාස 4ට පදිංචිව සිටි වතු කම්කරුවන් 30 දෙනෙකු පමණ තාවකාලිකව එම වතුයායේම ආරක්ෂිත ස්ථානයක තාවකාලිකව නතර කර ඇති බවත්, ගින්නට හේතුව විදුලි කාන්දුවීමක් බවට සැකකරන බවත්, ගින්නෙන් සිදු වූ අලාභය මෙතෙක් තක්සේරු කර නොමැති බවත් පූඩළුඔය පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/8e420e70.json)
+
+---
 
 ### ’’நான் இராஜினாமா செய்யவில்லை’’
 
@@ -149,6 +167,22 @@ The US has alleged that India’s purchase of Russian oil is helping fund the wa
 ◼️
 
 [Data](articles/c4355a4b.json)
+
+---
+
+### මහින්දානන්දගේ හා නලීන්ගේ ඇප ඉල්ලීම කල් යයි
+
+*2025-08-25 12:54:01* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්දගේ-හා-නලීන්ගේ-ඇප-ඉල්ලීම-කල්-යයි/11-418050) · `si`
+
+බරපතළ වැඩ සහිත සිර දඬුවම් නියම වී සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු  ඉදිරිපත් කර තිබෙන අභියාචනයට යටත්ව තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ගොනු කර ඇති පෙත්සම් සැප්තැම්බර් මස 23 වනදා කරුණු තහවුරු කිරීම සඳහා කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල ස්ථිර මහාධිකරණ විනිසුරු මඩුල්ල අද (25) නියම කළේය.
+
+ඉදිරිපත් වූ කරුණු සලකා බැලූ විනිසුරු මඬුල්ල මෙම විත්තිකරුවන්ගේ ඇප ඉල්ලීම් සම්බන්ධයෙන් කරුණු දක්වන ලෙස දන්වා අල්ලස් කොමිසම වෙත නොතීසි නිකුත් කිරීමට නියෝග කරමින් පෙත්සම් යළි සැප්තැම්බර් 23 කැඳවීමට නියම කළේය.
+
+කැරම් බෝඩ් නඩුව සම්බන්ධයෙන් සිර දඬුවම් ලබා සිටින තමන් ඊට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයට අභියාචනා ඉදිරිපත් කර ඇති බැවින් එහි අවසන් තීන්දුවක් ලැබෙන තුරු තමන්ව ඇප මත මුදා හරින ලෙස ඉල්ලා මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු යන හිටපු අමාත්‍යවරු විසින් මෙම පෙත්සම් ඉදිරිපත් කර ඇත.
+
+◼️
+
+[Data](articles/6bae7fb2.json)
 
 ---
 
@@ -1761,41 +1795,5 @@ Ex-President Maithripala Sirisena said he was disappointed and distressed by the
 ...
 
 [Data](articles/bc5a80cc.json)
-
----
-
-### Bimal Ratnayake says Charges on which Ranil Wickremesinghe was arrested May  seem Trivial and that the Former President should have been brought to justice decades ago for “far more serious allegations.”
-
-*2025-08-25 01:05:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86333) · `en`
-
-Cabinet Minister Bimal Ratnayake stated that while the charges for which former President Ranil Wickremesinghe was recently arrested may seem trivial, he
-
-Ratnayake cited several incidents, including the post-election violence of 1977, the burning of the Jaffna library in 1981, and the 1983 riots, as reasons for which Wickremesinghe should have been held accountable during his time in Government.
-
-The minister also brought up the deaths of over 60,000 people between 1987 and 1990 and the ongoing Batalanda torture house investigation.
-
-He further noted that despite his alleged involvement in the 2015 bond scam, no arrest was made.
-
-Ratnayake concluded by asserting that the current government is now allowing investigating officers to perform their duties with integrity and without hindrance.
-
-◼️
-
-[Data](articles/8a3b9c0c.json)
-
----
-
-### Development surge in Peninsula India: Lessons for Sri Lanka
-
-*2025-08-25 01:03:48* · [`dailyftlk`](https://www.ft.lk/opinion/Development-surge-in-Peninsula-India-Lessons-for-Sri-Lanka/14-780689) · `en`
-
-The Eastern, North Central, and Northern Provinces, with a historical presence of handloom and garment sectors, could be linked to the textile clusters of Tamil Nadu
-
-The geographical proximity and historical ties between Northern, North Central, and Eastern Sri Lanka and Tamil Nadu state present an untapped opportunity for mutually beneficial economic cooperation. However, these possibilities remain untapped
-
-By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Piratheepan, Neruja Narenthiran, Mary Delcia Antony Christian, Kamalakumari Karunanithy, and Muttukrishna Sarvananthan
-
-...
-
-[Data](articles/8c15ac74.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 00:09:00**
+As of **2025-08-26 00:25:40**
 
 ## Newspaper Stats
 
-*Scraped **72,300** Articles*
+*Scraped **72,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 739
 economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,089
+dailyftlk | 5,093
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,700
@@ -26,11 +26,73 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,300 articles have been extended.
+61,973 (85.7%) of 72,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### Prime Group makes history with Sri Lanka’s first luxury real estate client experience initiative ‘Prime Premier’
+
+*2025-08-25 23:25:32* · [`dailyftlk`](https://www.ft.lk/business/Prime-Group-makes-history-with-Sri-Lanka-s-first-luxury-real-estate-client-experience-initiative-Prime-Premier/34-780745) · `en`
+
+First-of-its-kind premium initiative revolutionises real estate industry in Sri Lanka
+
+Celebrating three decades of industry leadership, Prime Group, Sri Lanka’s most distinguished and pioneering real estate developer, unveiled ‘Prime Premier’, an exclusive client experience initiative designed to transform how discerning clientele engage with real estate.
+
+Located at No. 226, Lake Drive, Colombo 8, the sophisticated facility was ceremonially inaugurated by Prime Group Chairman, Chairperson and CEO in the presence of distinguished officials and invitees. The visionary initiative is part of Prime Group’s anniversary celebrations to showcase the company’s proven commitment to excellence, trust, and client satisfaction.
+
+...
+
+[Data](articles/91af0d57.json)
+
+---
+
+### 38th Annual Conference and 4th National  Apex Awards of  the OPA honours excellence, fosters professional collaboration
+
+*2025-08-25 23:21:08* · [`dailyftlk`](https://www.ft.lk/business/38th-Annual-Conference-and-4th-National-Apex-Awards-of-the-OPA-honours-excellence-fosters-professional-collaboration/34-780744) · `en`
+
+The Organisation of Professional Associations of Sri Lanka (OPA) successfully hosted its 38th Annual Conference and the prestigious 4th National Apex Awards on 19 and 20 August, at the Cinnamon Life, Colombo. The event commenced with a distinguished inaugural ceremony, graced by the Chief Guest – Speaker of the Parliament of Sri Lanka Dr. Jagath Wickramaratne, and attended by leading figures from the professional sector.
+
+In his welcome address, OPA President Sujeewa Lal Dahanayake, reaffirmed the OPA’s commitment to national development through professional collaboration and active engagement with the Government. He emphasised the significance of the Annual Conference, which was taking place during the 50th anniversary of the OPA, marking five decades of multidisciplinary professional unity and collective efforts toward the advancement of the nation.
+
+...
+
+[Data](articles/2ea7264c.json)
+
+---
+
+### From warning to wake-up call: Elephants  now drive 40% of Sri Lanka’s tourism economy
+
+*2025-08-25 23:08:52* · [`dailyftlk`](https://www.ft.lk/columns/From-warning-to-wake-up-call-Elephants-now-drive-40-of-Sri-Lanka-s-tourism-economy/4-780743) · `en`
+
+In November 2020, we argued in this paper that “a cut tree, a dead elephant, is a lost tourism dollar in the future.” At the time, we estimated the lifetime value of a wild elephant at $ 11 million and warned that deforestation, human-elephant conflict, and short-sighted planning were dismantling the very assets Sri Lanka most needed to attract high-value travellers.
+
+Five years later, the future has arrived and with startling clarity. Elephants are no longer a peripheral tourism attraction. They are the central economic engine of Sri Lanka’s foreign exchange earnings.
+
+If the past decade has taught Sri Lanka one lesson, it is that tourism is the fastest way out of crisis.
+
+In 2018, the industry generated $ 5.6 billion from 2.5 million visitors, briefly standing as the nation’s top foreign exchange earner. The 2019 Easter Sunday attacks cut earnings to $ 3.6 billion, and by 2022, the economic collapse had almost paralysed the sector.
+
+...
+
+[Data](articles/833b74d0.json)
+
+---
+
+### Why economic inequality matters for development
+
+*2025-08-25 22:59:48* · [`dailyftlk`](https://www.ft.lk/opinion/Why-economic-inequality-matters-for-development/14-780742) · `en`
+
+Does economic inequality matter for development? That’s a question we discussed at a recent event with international experts and practitioners. Among them was our Chief Economist Indermit Gill, who responded: “How can it not? If you look at the aspects of inequality—you can talk about the inequality of opportunity, of income, of wealth, and of power—it matters a lot. It can really hurt development, if it’s too high or unmanageable. But then, the real question is, what do you do about it? And is the cure often worse than the disease?”
+
+High economic inequality in a country can limit people’s ability to move up the socioeconomic ladder, and thereby slow progress toward broad-based growth and poverty eradication. Decreasing high levels of inequality, on the other hand, can spur economic development, strengthen human capital, and speed up poverty reduction.
+
+...
+
+[Data](articles/375b95ae.json)
+
+---
 
 ### BASL warns against social media interference with judiciary
 
@@ -1767,79 +1829,5 @@ According to the statement, the developments during the last few days represent 
 ...
 
 [Data](articles/5f9cb4f6.json)
-
----
-
-### Colombo HC to consider bail requests filed by Aluthgamage & Nalin Fernando in Sept
-
-*2025-08-25 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111817/colombo-hc-to-consider-bail-requests-filed-by-aluthgamage-nalin-fernando-in-sept) · `en`
-
-The Colombo High Court today (25) ordered that the bail petitions filed by former ministers Mahindananda Aluthgamage and Nalin Fernando be taken up again on September 23 for confirmation of facts, Ada Derana reporter said.
-
-The two former ministers, who were convicted and sentenced to rigorous imprisonment in the “carrom board case”, had filed these petitions seeking release on bail pending their appeals against the sentences.
-
-The applications were called before a three-member bench consisting Judges Mahesh Weeraman, Pradeep Abeyratne, and Amali Ranaweera.
-
-During the hearing, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) informed court that it had not yet received notices relating to the petitions.
-
-Having considered the facts presented, the bench directed the accused to present their facts on the bail applications and further ordered that notices be duly issued to the Bribery Commission.
-
-...
-
-[Data](articles/5fbdaf81.json)
-
----
-
-### சலுகைக் குறைப்பு சட்டமூலம் மீதான விசாரணை ஆரம்பம்
-
-*2025-08-25 12:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைக்-குறைப்பு-சட்டமூலம்-மீதான-விசாரணை-ஆரம்பம்/175-363448) · `ta`
-
-முன்மொழியப்பட்ட ஜனாதிபதி உரிமைகள் (ரத்து செய்தல்) சட்டமூலத்தின் அரசியலமைப்புச் சட்டத்தை எதிர்த்து தாக்கல் செய்யப்பட்ட ஏழு விசேட தீர்மான மனுக்களின் விசாரணையை உயர் நீதிமன்றம் தொடங்கியது.
-
-இந்த மனுக்கள் தற்போது உயர் நீதிமன்ற தலைமை நீதிபதி பிரீத்தி பத்மன் சூரசேன, நீதிபதி அச்சலா வெங்கப்புலி மற்றும் நீதிபதி சம்பத் அபயகோன் ஆகியோர் அடங்கிய மூன்று நீதிபதிகள் கொண்ட அமர்வு முன் விசாரிக்கப்படுகின்றன.
-
-1986 ஆம் ஆண்டின் 4 ஆம் இலக்க ஜனாதிபதி உரிமைச் சட்டத்தை ரத்து செய்யும் சட்டமூலத்தை எளிய பாராளுமன்ற செயல்முறை மூலம் மட்டும் நிறைவேற்ற முடியாது என்று மனுதாரர்கள் வாதிடுகின்றனர்.
-
-1986 சட்டம் தற்போது முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது விதவைகளுக்கு சிறப்பு சலுகைகள் மற்றும் உரிமைகளை வழங்குகிறது. முன்மொழியப்பட்ட சட்டமூலம் இந்த சலுகைகளை முற்றிலுமாக ஒழிப்பதை நோக்கமாகக் கொண்டுள்ளது.
-
-◼️
-
-[Data](articles/56ddae54.json)
-
----
-
-### ஜனாதிபதிக்கு உக்ரேன் ஜனாதிபதி நன்றி தெரிவிப்பு
-
-*2025-08-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/223303) · `ta`
-
-உக்ரேனின் சுதந்திர தினத்தை முன்னிட்டு ஜனாதிபதி அநுர குமார திசாநாயக்கவின் அன்பான வாழ்த்துக்களுக்கு உக்ரேன் ஜனாதிபதி  விளோடிமிர் ஜெலென்ஸ்கி தனது மனமார்ந்த நன்றியைத் தெரிவித்துள்ளார்.
-
-இலங்கையின் தொடர்ச்சியான ஆதரவிற்கு நன்றி தெரிவித்ததோடு,  இரு நாடுகளுக்கும் இடையிலான நட்புறவை வலியுறுத்தினார்.
-
-"உக்ரேனின் சுதந்திர தினத்தன்று அன்பான மற்றும் நேர்மையான வாழ்த்துக்களுக்கு ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு நான் நன்றி கூறுகிறேன். பரஸ்பர மரியாதை மற்றும் அமைதி, செழிப்புக்கான பகிரப்பட்ட அர்ப்பணிப்பின் அடிப்படையில் இலங்கையுடனான நட்புறவுகள் மற்றும் ஒத்துழைப்பை உக்ரேன் மதிக்கிறது. இரு நாடுகளுக்கும் நன்மைகளைத் தரும் வகையில், எங்கள் உறவுகள் மேலும் வளர்ச்சியடையும் சாத்தியக்கூறுகளைக் கொண்டுள்ளன என நாங்கள் நம்புகிறோம்," என தெரிவித்துள்ளார்.
-
-ஜனாதிபதி அநுர குமார திசாநாயக்க உக்ரேன் ஜனாதிபதிக்கு அனுப்பி வைத்துள்ள கடிதத்தில், உக்ரேன் மக்களுக்கு சுதந்திர தின வாழ்த்துக்களைத் தெரிவித்து, இருதரப்பு உறவுகளை ஆழப்படுத்துவதற்கான இலங்கையின் உறுதிப்பாட்டை மீண்டும் உறுதிப்படுத்தியுள்ளார்.
-
-◼️
-
-[Data](articles/9b3d2b2e.json)
-
----
-
-### කැරම් බෝඩ් නඩුවේ ඇප ඉල්ලීම කල් යයි
-
-*2025-08-25 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213769) · `si`
-
-කැරම් බෝඩ් සිද්ධිය සම්බන්ධයෙන් වරදකරු වී බරපතළ වැඩ සහිත සිර දඬුවම් නියම වී සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු යන අය එම දඬුවමට එරෙහිව ඉදිරිපත් කර තිබෙන අභියාචනයට යටත්ව තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ගොනු කර ඇති පෙත්සම් සැප්තැම්බර් මස 23 වනදා කරුණු තහවුරු කිරීම සඳහා කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල ස්ථිර මහාධිකරණ විනිසුරු මඩුල්ල අද (25) නියම කළේය.
-
-මෙම ඇප ඉල්ලීම අද මහේෂ් වීරමන්, ප්‍රදීප් අබේරත්න, අමාලි රණවීර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි නීතීඥවරයා අධිකරණයට දන්වා සිටියේ මෙම  පෙත්සම්වලට අදාළ නොතීසී තමන්ට ලැබී නොමැති බවය.
-
-ඉදිරිපත් වූ කරුණු සලකා බැලූ විනිසුරු මඬුල්ල මෙම විත්තිකරුවන්ගේ ඇප ඉල්ලීම් සම්බන්ධයෙන් කරුණු දක්වන ලෙස දන්වා අල්ලස් කොමිසම වෙත නොතීසි නිකුත් කිරීමට නියෝග කරමින් පෙත්සම් යළි සැප්තැම්බර් 23 කැඳවීමට නියම කළේය.
-
-...
-
-[Data](articles/6ae6940d.json)
 
 ---

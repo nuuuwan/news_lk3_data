@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 16:07:54**
+As of **2025-08-25 16:23:03**
 
 ## Newspaper Stats
 
-*Scraped **72,236** Articles*
+*Scraped **72,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,938
-adaderanalk | 9,131
-tamilmirrorlk | 10,692
-virakesarilk | 11,894
-adaderanasinhalalk | 12,514
+adaderanalk | 9,135
+tamilmirrorlk | 10,693
+virakesarilk | 11,895
+adaderanasinhalalk | 12,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,236 articles have been extended.
+61,973 (85.8%) of 72,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### ரஷ்யாவில்  சக்திவாய்ந்த நிலநடுக்கம்
+
+*2025-08-25 16:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவில்-சக்திவாய்ந்த-நிலநடுக்கம்/50-363463) · `ta`
+
+கடந்த சில காலமாகவே ரஷ்யா பிராந்தியத்தில் தொடர்ச்சியாக நில அதிர்வுகள் ஏற்பட்டு வருகிறது. இதற்கிடையே இந்த மாதத்தில் நான்காவது முறையாக ரஷ்யாவில் மிகப் பெரிய நிலநடுக்கம் ஏற்பட்டுள்ளது.
+
+ரஷ்யாவின் குரில் தீவுகளுக்கு அருகே 6.3 ரிக்டர் அளவில் பதிவான இந்த நிலநடுக்கத்தால் மக்கள் அச்சத்தில் இருக்கிறார்கள்.
+
+பொதுவாகப் பூகம்பம் உலகின் எந்தப் பகுதியில் எப்போது நடக்கும் என்று யாருக்குமே தெரியாது. நாம் சற்றும் எதிர்பார்க்காத நேரத்தில் நிலநடுக்கம் நொடிகளில் ஏற்பட்டு மிக மோசமான பாதிப்பை ஏற்படுத்தும். இதனால் ஏற்படும் உயிரிழப்புகளும் பொருளாதார இழப்புகளும் நாம் கற்பனை கூடச் செய்ய முடியாத அளவுக்கு மோசமாக இருக்கும். இதன் காரணமாகவே நிலநடுக்கம் என்றாலே மக்கள் அலறுகிறார்கள்.
+
+இதற்கிடையே ரஷ்யாவின் குரில் தீவுகளுக்கு அருகே 6.3 ரிக்டர் அளவில் வலிமையான நிலநடுக்கம் ஏற்பட்டுள்ளது. இந்த நிலநடுக்கத்தால் மக்கள் அச்சத்தில் இருக்கிறார்கள். அந்தப் பிராந்தியத்தில் கடந்த ஒரே மாதத்தில் ஏற்படும் நான்காவது வலிமையான நிலநடுக்கம் இதுவாகும்.
+
+...
+
+[Data](articles/8bb7c86e.json)
+
+---
+
+### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන්
+
+*2025-08-25 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213776) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කරන බව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/5b435ced.json)
+
+---
+
+### “சிறுவர்கள் மயானமாக” மாறிவிட்ட காசா! ; பாலஸ்தீனம் போரை நிறுத்துவதற்காகவும் குரல் கொடுங்கள்! - மெலனியா ட்ரம்புக்கு துருக்கியின் முதல் பெண்மணி கடிதம்
+
+*2025-08-25 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/223326) · `ta`
+
+பல ஆண்டுகளாக தொடர்ந்துவரும் காசா போரை நிறுத்தப்படுவதற்காக குரல் கொடுக்குமாறு, துருக்கியின் முதல் பெண்மணியான எமின் எர்டோகன் (Emine Erdogan), அமெரிக்காவின் முதல் பெண்மணியான மெலனியா ட்ரம்புக்கு (Melania Trump) கடிதம் ஒன்றினூடாக வலியுறுத்தியுள்ளார்.
+
+அண்மையில் உக்ரேன் - ரஷ்ய போரை நிறுத்துமாறு கோரி, ரஷ்ய ஜனாதிபதி புட்டினுக்கு மெலனியா கடிதம் ஒன்றை எழுதியிருந்தார். அதில் போரினால் விளைந்த பாதிப்புகள், குறிப்பாக சிறுவர்களுக்கு நேர்ந்த கதியை சுட்டிக்காட்டி, யுத்தத்தை உடனடியாக நிறுத்துமாறு கோரிக்கை விடுத்திருந்தார்.
+
+மெலனியாவின் இந்த முயற்சியை பாராட்டும் வகையில், கடந்த சனிக்கிழமை (23) துருக்கி ஜனாதிபதி மாளிகையின் ஊடாக எமின் எர்டோகனின் கடிதமொன்று வெளியிடப்பட்டது.
+
+அதில், உக்ரேன் - ரஷ்ய போரை நிறுத்த மெலனியா எடுத்துக்கொண்ட முயற்சியை எமின் பாராட்டி எழுதியிருந்தார்.
+
+அதேபோன்று பாலஸ்தீனத்தின் காசாவில் இடம்பெற்று வரும் போரை நிறுத்துமாறு இஸ்ரேல் பிரதமருக்கும் ஒரு கடிதம் அனுப்ப வேண்டும் என்றும் அந்தக் கடிதத்தில், மெலனியாவுக்கு எமின் கோரிக்கை விடுத்தார்.
+
+...
+
+[Data](articles/c293d6b4.json)
+
+---
 
 ### பாதுகாப்பு செயலாளரை சந்தித்தார் புதிய DIG
 
@@ -128,6 +178,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Will ex-President Ranil be produced in court tomorrow?
+
+*2025-08-25 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111826/will-ex-president-ranil-be-produced-in-court-tomorrow-) · `en`
+
+The health condition of former President Ranil Wickremesinghe has improved to a somewhat satisfactory level, according to Dr. Pradeep Wijesinghe, the Acting Director of the Colombo National Hospital.
+
+Dr. Pradeep Wijesinghe stated that although the former President is currently in a stable and satisfactory condition, he remains under close observation by specialist doctors in the Intensive Care Unit (ICU), and his condition could still change.
+
+However, Dr. Wijesinghe further noted that a decision regarding whether former President Wickremesinghe will be able to appear before court tomorrow will be made later today, following a medical discussion among the doctors.
+
+“The medical team treating him is currently having a discussion in the hospital auditorium. After that discussion, a decision will be made regarding the medical reasoning and his current condition. Only then can a decision be taken on whether he is fit to appear in court.
+
+...
+
+[Data](articles/32f78a14.json)
+
+---
+
 ### டன்சினன் பகுதியில் தீ விபத்து ; 06 வீடுகள் சேதம்
 
 *2025-08-25 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223315) · `ta`
@@ -176,6 +244,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Israeli airstrike on southern Gaza hospital kills 8, health ministry says
+
+*2025-08-25 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111825/israeli-airstrike-on-southern-gaza-hospital-kills-8-health-ministry-says) · `en`
+
+An Israeli airstrike hit the fourth floor of southern Gaza’s main hospital Monday, killing at least eight people, Gaza’s health ministry said.
+
+The victims on the fourth floor of Nasser Hospital were killed in a double-tap strike with one missile hitting first, then another moments later as rescue crews arrived, the ministry said.
+
+Khan Younis’ Nasser Hospital, the largest in southern Gaza, has withstood raids and bombardment throughout 22 months of war, with officials citing critical shortages of supplies and staff.
+
+Israel’s military did not immediately respond to questions about the strike.
+
+Israeli strikes and raids on hospitals are not uncommon. Multiple hospitals have been struck or raided across the Gaza Strip, with Israel claiming its attacks had targeted militants operating inside the medical facilities, without providing evidence.
+
+...
+
+[Data](articles/f9ff6fab.json)
+
+---
+
 ### රනිල් වෙනුවෙන් විපක්ෂයේ ප්‍රබලයින් රැසක් විපක්ෂ නායක කාර්යාලයට
 
 *2025-08-25 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213774) · `si`
@@ -184,13 +272,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳව සහ ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීම මෙම සාකච්ඡාවේ ප්‍රධාන අරමුණ වී ඇති බව පැවසෙයි.
 
-ඒ සඳහා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක, රංජිත් මද්දුමබණ්ඩාර, කබීර් හෂීම් හා පලනි දිගම්බරන් මෙන්ම හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන රුවන් විජේවර්ධන, කාවින්ද ජයවර්ධන, නිමල් සිරිපාල ද සිල්වා, ජීඑල් පීරිස්, සාගල රත්නායක යන මහත්වරුන් ඇතුළු විපක්ෂයේ ප්‍රබලයින් පිරිසක් එක්ව තිබේ.
+ඒ සඳහා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක, රංජිත් මද්දුමබණ්ඩාර, කබීර් හෂීම්, කාවින්ද ජයවර්ධන හා පලනි දිගම්බරන් මෙන්ම හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන රුවන් විජේවර්ධන, නිමල් සිරිපාල ද සිල්වා, ජීඑල් පීරිස්, සාගල රත්නායක යන මහත්වරුන් ඇතුළු විපක්ෂයේ ප්‍රබලයින් පිරිසක් එක්ව තිබේ.
 
 මේ අතර, සමගි ජන බලවේගය නියෝජනය කරමින් තවත් මන්ත්‍රීවරු පිරිසක් සම්බන්ධ වී ඇත.
 
 ◼️
 
 [Data](articles/6a14274d.json)
+
+---
+
+### Four line-houses destroyed in a fire at Pundaluoya
+
+*2025-08-25 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111824/four-line-houses-destroyed-in-a-fire-at-pundaluoya) · `en`
+
+At least four houses have been destroyed in a fire that broke out at around midday today (25) in a row of estate houses within the Dunsinane Estate, in Pundaluoya, Kotmale, police said.
+
+The fire, which started in a house at around 11:00 a.m., quickly spread to nearby houses, and police confirmed that the affected housing row consists of 20 estate houses.
+
+Estate workers were able to control the spread of the fire by removing roofing sheets and other flammable materials, and no injuries were reported, police added.
+
+Around 30 estate workers, who had been residing in the four destroyed houses, have been temporarily relocated to a safe area within the same estate.
+
+Police suspect the fire was caused by an electrical short circuit, but the exact cause is still under investigation, and the total damage has not yet been assessed.
+
+◼️
+
+[Data](articles/bf404e2a.json)
 
 ---
 
@@ -291,6 +399,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8e420e70.json)
+
+---
+
+### SC to hear appeals filed by convicts in Vidya murder in Nov.
+
+*2025-08-25 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111823/sc-to-hear-appeals-filed-by-convicts-in-vidya-murder-in-nov) · `en`
+
+The Supreme Court has scheduled the hearing of appeals on November 6, filed by the convicts who were sentenced to death over the abduction, rape, and murder of schoolgirl Sivaloganathan Vidya— an incident that sparked widespread outrage in Jaffna in 2015.
+
+The appeals were taken up before a three-judge bench of the Supreme Court, consisting of Chief Justice Preethi Padman Surasena and Justices Achala Wengappuli, and Sampath Abeykoon.
+
+During the proceedings, the attorney representing the appellants informed court that it took more than four and a half years to obtain the Tamil-language translations relevant to the case.
+
+Accordingly, the defense counsel requested court to assign an early date for the appeal hearing.
+
+In response, Chief Justice Preethi Padman Surasena stated that the appeals would be given a date to ensure an expedited hearing.
+
+As such, court scheduled the hearing of the appeals for November 6.
+
+...
+
+[Data](articles/2f6118a9.json)
 
 ---
 
@@ -1679,129 +1809,5 @@ He also mentioned that after a four-and-a-half-hour drive, provisions will be ma
 ◼️
 
 [Data](articles/f64b9949.json)
-
----
-
-### Sri Lanka electricity generation surge in May amid economic recovery
-
-*2025-08-25 07:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-generation-surge-in-may-amid-economic-recovery-238121/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s electricity generation has surged 7.7 percent in May 2025 to 1,531 GigaWatt hours, official data show, amid an economic recovery, a price cuts and also an expansion in electric vehicles.
-
-Up to May 2025 electricity generation was up 3.7 percent to 7,167 GigaWatt hours.
-
-Electricity generation is a clear proxy of underlying economic activity.
-
-After February 2025 Sri Lanka has also started to import electric vehicles. The impact on electric vehicles on demand is not yet clear.
-
-Expensive new cars are usually bought by higher income earners who drive more than people owning older cars.
-
-But petrol sales, which is an indicator of private transport was also up 14.8 percent to 128,000 metric tonnes in May.
-
-Sri Lanka’s electricity generation was 16,588 GWh in 2021 shortly before a currency collapse in 2022 which destroyed people’s purchasing power.
-
-...
-
-[Data](articles/217f7da8.json)
-
----
-
-### බොරලැස්ගමුවේ වෙඩි තැබීමට ආධාර අනුබල දුන් සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට
-
-*2025-08-25 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213756) · `si`
-
-බොරලැස්ගමුව පොලිස් වසමේ මාලනි බුලත්සිංහල මාවතේ පා ගමනින් ගමන් කරමින් සිටි තරුණයෙකු ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-සංගීත ප්‍රසංගයක් නිමවී පාගමනින් පැමිණි පිරිසකට ඊයේ (24) අලුයම් කාලයේදී ත්‍රිරෝද රථයකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩි තබා ඇති අතර එහිදී 21 හැවිරිදි වියේ පසුවූ තරුණයෙකු ජීවිතක්ෂයට පත්විය.
-
-සිද්ධිය සම්බන්ධව සිදුකළ විමර්ශනයේදී පොලිස් විශේෂ කාර්ය බළකායට ලද තොරතුරක් මත අපරාධයට ආධාර අනුබල දුන් සැකකරුවන් තිදෙනෙකු ඊයේ (24) දිනයේදී දෙහිවල සහ රත්මලාන ප්‍රදේශවලදී අත්අඩංගුවට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 19 හා 20 වයස්වල පසුවන දෙහිවල සහ රත්මලාන ප්‍රදේශවල පදිංචිකරුවන් වේ.
-
-අත්අඩංගුවට ගත් සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයට භාර දී ඇත.
-
-◼️
-
-[Data](articles/e8565884.json)
-
----
-
-### US National Guard troops in Washington to begin carrying weapons, officials say
-
-*2025-08-25 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111800/us-national-guard-troops-in-washington-to-begin-carrying-weapons-officials-say) · `en`
-
-U.S. National Guard troops patrolling the streets of Washington D.C. as part of what President Donald Trump said was his crackdown on crime will begin carrying weapons on Sunday night, two officials said.
-
-The exact number of troops who would carry their weapons was fluid, but they will either carry their M17 pistols or M4 rifles, according to the officials who spoke on condition of anonymity as they were not authorized to discuss the matter.
-
-Hundreds of unarmed National Guard troops have been in Washington’s streets for the past two weeks after Trump declared a crime emergency in the district. Defense Secretary Pete Hegseth last week authorized the troops to carry weapons.
-
-The Guard’s Joint Task Force-DC said in a written statement on Sunday that its personnel would only use force “as a last resort and solely in response to an imminent threat of death or serious bodily harm.”
-
-...
-
-[Data](articles/cf760a25.json)
-
----
-
-### ලංගම සහ පෞද්ගලික බස් රථ ඒකාබද්ධ කාලසටහනක් යටතේ ධාවන වෙයි
-
-*2025-08-25 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213755) · `si`
-
-ලංකා ගමනා ගමන මණ්ඩලය සහ පෞද්ගලික අංශයේ දුරගමන් සේවා බස් රථ ඒකාබද්ධ කාල සටහනක් යටතේ ක්‍රියාත්මක කිරීමට ජාතික ගමනා ගමන කොමිෂන් සභාව තීරණය කර තිබේ.
-
-කොළඹ - හලාවත, කොළඹ - පුත්තලම, කොළඹ - ආනමඩුව, කොළඹ -එළුවන්කුළම, කොළඹ - කල්පිටිය, මීගමුව - කල්පිටිය, කොළඹ - මන්නාරම, කොළඹ - තලෙයිමන්නාරම, කොළඹ - කුලියාපිටිය, කොළඹ - නිකවැරටිය, කොළඹ - කුළියාපිටිය, කොළඹ - අනුරාධපුර, කොළඹ - වව්නියාව, කොළඹ - කිලිනොච්චිය, කොළඹ - යාපනය, කොළඹ - කන්කසන්තුරේ, කොළඹ - කරෙයිනගර්, කොළඹ - තුන්නුක්කායි, යන ගමන් මාර්ග මෙම ඒකාබද්ධ කාලසටහන් ක්‍රමය යටතේ ක්‍රියාත්මක කිරීමට තීරණය කර තිබේ.
-
-ඒ අනුව අද (25) මධ්‍යම රාත්‍රියේ සිට කොළඹ බැස්ටියන් මාවතේ පිහිටි පෞද්ගලික බස් රථ අංගනයේ සිට එම  ගමන්වාර ආරම්භ කරන බව ජාතික ගමනා ගමන කොමිෂන් සභාවේ සභාපති පී.ඒ චන්ද්‍රපාල මහතා සදහන් කළේය.
-
-එමෙන්ම මෙහිදී පැය හතරහමාරක ධාවන කාලයකින් පසුව බස් රථ රියදුරාට නිශ්චිත ස්ථානයකදී විවේක ගැනීම සඳහා ප්‍රතිපාදන සලසන බවද ඔහු පැවසීය.
-
-...
-
-[Data](articles/ddbefe42.json)
-
----
-
-### දියේ ගිලී සිසුන් දෙදෙනෙකු අතුරුදන්
-
-*2025-08-25 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213754) · `si`
-
-පයාගල වෙරළ තීරයේ දිය නෑමට ගිය සිසුන් දෙදෙනෙකු දියේ ගිලී අතුරුදන් වී ඇති බවට පයාගල පොලිස් ස්ථානයට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර තිබේ.
-
-අතුරුදන් වූ සිසුන් දෙදෙනා 15 හැවිරිදි වියේ පසුවන ගල්පාත සහ පානදුර ප්‍රදේශවල පදිංචිකරුවන් වේ.
-
-මෙම සිසුන් දෙදෙනා උපකාරක පන්ති යන බවට දෙමාපියන්ට පවසා මුහුදේ දිය නෑමට ගොස් ඇති අතර එහිදී මෙම අනතුර සිදුව ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වි ඇත.
-
-◼️
-
-[Data](articles/6d4c34b8.json)
-
----
-
-### இன்று வைத்தியர்கள் பணிப் புறக்கணிப்பு
-
-*2025-08-25 06:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வைத்தியர்கள்-பணிப்-புறக்கணிப்பு/175-363426) · `ta`
-
-நாடு முழுவதும் இன்று திங்கட்கிழமை காலை 8 மணி முதல் வைத்தியர்கள் பணிப் புறக்கணிப்புப் போராட்டத்தில் ஈடுபடவுள்ளனர்.
-
-வைத்தியர்களின் இடமாற்ற செயல்முறை தொடர்பான பிரச்சினைகள் உட்படப் பல கோரிக்கைகளை முன்வைத்து இந்தப் பணிப்புறக்கணிப்புக்கு அரச வைத்திய அதிகாரிகள் சங்கம் அழைப்பு விடுத்திருந்தது என்பது குறிப்பிடத்தக்கது. (a)
-
-◼️
-
-[Data](articles/cbafca92.json)
-
----
-
-### இன்று முதல் மீண்டும் செம்மணி அகழ்வு நடவடிக்கை
-
-*2025-08-25 06:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மீண்டும்-செம்மணி-அகழ்வு-நடவடிக்கை/175-363425) · `ta`
-
-செம்மணி மனித புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகளுக்காக நீதிமன்றம் 45 நாட்கள் அனுமதி வழங்கிய நிலையில், கடந்த 06ஆம் திகதி வரையில் 32 நாட்கள் முன்னெடுக்ககப்பட்ட பணிகள் தற்காலிகமாக இடைநிறுத்தப்பட்டன.
-
-அதேவேளை கடந்த 06ஆம் திகதி வரையில் மொத்தமாக 41 நாள்கள் முன்னெடுக்கப்பட்ட அகழ்வு பணிகளின் போது, 133 எலும்பு கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. மொத்தம் 147 எலும்புக் கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டிருந்தமை குறிப்பிடத்தக்கது. (a)
-
-◼️
-
-[Data](articles/afc5f6fc.json)
 
 ---

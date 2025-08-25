@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 14:51:15**
+As of **2025-08-25 15:08:01**
 
 ## Newspaper Stats
 
-*Scraped **72,219** Articles*
+*Scraped **72,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,937
 adaderanalk | 9,128
-tamilmirrorlk | 10,685
+tamilmirrorlk | 10,687
 virakesarilk | 11,890
-adaderanasinhalalk | 12,512
+adaderanasinhalalk | 12,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,219 articles have been extended.
+61,973 (85.8%) of 72,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### ரணிலின் வழக்கு:கூட்டத்தை திரட்ட எதிர்க்கட்சிகள் திட்டம்
+
+*2025-08-25 14:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வழக்கு-கூட்டத்தை-திரட்ட-எதிர்க்கட்சிகள்-திட்டம்/175-363458) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட நீதிமன்ற விசாரணையுடன் இணைந்து,  பெருந்திரளான ஆதரவாளர்களை, கொழும்பில் நாளைக்கு (26)  ஒன்று திரட்டும் திட்டத்தை எதிர்க்கட்சி அரசியல் கட்சிகள் மற்றும் சிவில் சமூக குழுக்களின் இளைஞர் அணிகள் அறிவித்துள்ளன.
+
+விக்ரமசிங்கவின் வெளிநாட்டு சுற்றுப்பயணத்திற்காக பொது நிதியை தவறாகப் பயன்படுத்தியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பான வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்படுவதால், கோட்டை நீதவான் நீதிமன்றத்திற்கு வெளியே கூட்டம் கூடும் என்று எதிர்பார்க்கப்படுகிறது.
+
+பங்கேற்கும் குழுக்களில் இலங்கை பொதுஜன பெரமுன (SLPP) இளைஞர் முன்னணி, இலங்கை தொழிலாளர் காங்கிரஸ் (CWC), சமகி ஜன பலவேகய (SJB), லங்கா ஜனதா கட்சி, சர்வஜன பலய, ஐக்கிய தேசியக் கட்சி (UNP), இலங்கை பசுமைக் கட்சி, முற்போக்கு இளைஞர் இயக்கம் மற்றும் பல அமைப்புகள் அடங்கும்.
+
+இன்று (25)  நடைபெற்ற ஊடக சந்திப்பில் பேசிய SJB இன் 'ஹோரா' அமைப்பாளர் சரித் அபேசிங்க, கூட்டு எதிர்க்கட்சி கோட்டை நீதவான் நீதிமன்றத்தை நோக்கி பேரணி செல்வதற்கு முன்பு கொம்பனித் தெரிவில் இருந்து ஒன்றுகூட திட்டமிட்டுள்ளதாகக் கூறினார்.
+
+...
+
+[Data](articles/a10a9c66.json)
+
+---
+
+### රනිල් වෙනුවෙන් විපක්ෂයේ ප්‍රබලයින් රැසක් විපක්ෂ නායක කාර්යාලයට
+
+*2025-08-25 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213774) · `si`
+
+විපක්ෂයේ ප්‍රබල දේශපාලනඥයින් රැසක් අද (25) දහවල් විපක්ෂ නායක කාර්යාලයට රැස්ව තිබේ.
+
+ඒ රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳව සහ ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීම මෙම සාකච්ඡාවේ ප්‍රධාන අරමුණ වී ඇති බව පැවසෙයි.
+
+ඒ සඳහා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක, රංජිත් මද්දුමබණ්ඩාර, කබීර් හෂීම් හා පලනි දිගම්බරන් මෙන්ම හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන රුවන් විජේවර්ධන, කාවින්ද ජයවර්ධන, නිමල් සිරිපාල ද සිල්වා, ජීඑල් පීරිස්, සාගල රත්නායක යන මහත්වරුන් ඇතුළු විපක්ෂයේ ප්‍රබලයින් පිරිසක් එක්ව තිබේ.
+
+මේ අතර, සමගි ජන බලවේගය නියෝජනය කරමින් තවත් මන්ත්‍රීවරු පිරිසක් සම්බන්ධ වී ඇත.
+
+◼️
+
+[Data](articles/6a14274d.json)
+
+---
+
+### அம்மாவாகும் ரோபோக்கள்
+
+*2025-08-25 14:41:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/அம்மாவாகும்-ரோபோக்கள்/57-363457) · `ta`
+
+வாடகைத் தாய்க்கு பதிலாக, கர்ப்ப காலங்களில் ரோபோக்களை உருவாக்கி மனித குழந்தைகளைப் பெற்றெடுக்கும் முயற்சியில் சீன விஞ்ஞானிகள் ஈடுபட்டுள்ளனர்.
+
+குறித்த ரோபோக்களில் செயற்கை கருப்பையைப் பொருத்தி, ஒரு குழாய் மூலம் ஊட்டச்சத்துக்கள் செலுத்தப்படும் எனசீன விஞ்ஞானி ஜாங் கியூ இஃபெங் தெரிவித்துள்ளார்.
+
+இருப்பினும் குறித்த தொழில்நுட்பம் மீது பல்வேறு நெறிமுறை சார்ந்த கேள்விகளும் எழுந்துள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+அத்துடன் குறித்த திட்டத்தை எதிர்வரும் 2026ஆம் ஆண்டுக்குள் அறிமுகப்படுத்த சீனா திட்டமிட்டுள்ளதாகத் தெரிவிக்கப் படுகின்றது.
+
+◼️
+
+[Data](articles/13effffd.json)
+
+---
 
 ### “ரணிலை பார்வையிடவில்லை“ பிரதமர் விளக்கம்
 
@@ -1745,51 +1799,5 @@ Speaking at the event, Arcade of Aluminium Ltd., Managing Director Heshan Padukk
 ...
 
 [Data](articles/da6838a3.json)
-
----
-
-### ITAK  Launches Half-day Hartal  in North-East Over Alleged Killing of Tamil Youth by Army and Excessive Military Presence Amidst Civilian Habitats.
-
-*2025-08-25 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86325) · `en`
-
-“Hartal” is a word that entered the political discourse of countries like  India , Sri Lanka  and Malaysia during British rule. The Gujarati word  was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A Hartal denotes  a total shutdown of workplaces, offices, shops, schools,transport services  and courts of law. The  Gandhi-led Indian National Congress often resorted to such  civil disobedience protests  in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati  word Hartal to describe the  mass protests resulting in stoppages of work and shutting  down of business activity.
-
-The term Hartal was  first introduced to Sri Lanka known formerly as Ceylon by organizations and  Trade unions representing the Plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “Hartal”shutdown.
-
-...
-
-[Data](articles/edc1f230.json)
-
----
-
-### When a President travels whether to Anuradhapura  to see his mother , or to London  to accompany his spouse , does the law expect the head of state to discard the security trappings of that office?
-
-*2025-08-25 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86335) · `en`
-
-The National Peoples’ Power (NPP) Government may well have achieved the impossible by a clumsily handled arrest and remanding of former Executive President of Sri Lanka Ranil Wickremesinghe this Friday (August 22nd 2025) over alleged misuse of public property in expending LKR 16.6 million on a ‘diversionary’ transit in the United Kingdom while returning from state visits to the United States and Cuba as a sitting President at the time.
-
-That diversion was to attend the conferral of an honorary professorship on the former President’s spouse by a (somewhat less distinguished) British university with some of the expended costs during this one and a half day transit reportedly going towards supporting security and personal staff. Some have yawned that this is a meaningless controversy when measured against grand political corruption in Sri Lanka.
-
-...
-
-[Data](articles/c7af7b59.json)
-
----
-
-### மருத்துவர்களின் இடமாற்ற முறைகேடுகள் காரணமாக அரச மருத்துவர்கள் இன்று பணிப்புறக்கணிப்பு போராட்டம்
-
-*2025-08-25 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/223281) · `ta`
-
-மருத்துவர்களின் இடமாற்றத்தில் உள்ள முறைகேடுகள் மற்றும் வைத்தியசாலைகள் மூடப்படும் அவதான நிலை ஆகிய காரணிகளை முன்வைத்து அரச மருத்துவ அதிகாரிகள் சங்கத்தினர் திங்கட்கிழமை (25) காலை 08 மணிமுதல் பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபடவுள்ளனர்.
-
-சகல அவசர சிகிச்சை சேவைகள்,மகப்பேறு வைத்தியசாலைகள்,சிறுவர் வைத்தியசாலைகள்,புற்றுநோய் வைத்தியசாலை (மஹரகம),சகல சிறுநீரக நோய் பிரிவு,இராணுவ வைத்தியசாலை,தேசிய மனநல வைத்திய நிறுவனம் ஆகியவற்றின் சேவைகள் தடையின்றி இடம்பெறும் என அரச மருத்துவ அதிகாரிகள் சங்கம் அறிவித்துள்ளது.
-
-பணிப்புறக்கணிப்பு போராட்டம் தொடர்பில் அரச மருத்துவ அதிகாரிகள் சங்கம் வெளியிட்டுள்ள ஊடக அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
-
-பின்தங்கிய பிரதேசங்களில் உள்ள வைத்தியசாலைகள் மூடப்படும் அவதானம்,மருந்து கொள்வனவில் ஏற்பட்டுள்ள பாதிப்பு,தரமான மருந்துகள் மற்றும் மருத்துவ உபகரணங்கள் வைத்தியசாலைகளுக்கு வழங்காமை உள்ளிட்ட காரணிகளை அடிப்படையாகக் கொண்டு  திங்கட்கிழமை (25) காலை 08 மணிமுதல் பணிப்புறக்கணிப்பில் போராட்டத்தில் ஈடுபடவுள்ளோம்.
-
-...
-
-[Data](articles/797adcbd.json)
 
 ---

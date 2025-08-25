@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 13:52:26**
+As of **2025-08-25 14:09:01**
 
 ## Newspaper Stats
 
-*Scraped **72,199** Articles*
+*Scraped **72,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 4,410
 islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
-adalk | 6,934
-adaderanalk | 9,119
+adalk | 6,935
+adaderanalk | 9,128
 tamilmirrorlk | 10,683
-virakesarilk | 11,886
-adaderanasinhalalk | 12,510
+virakesarilk | 11,890
+adaderanasinhalalk | 12,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,199 articles have been extended.
+61,973 (85.8%) of 72,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### இந்தியாவில் இருந்து கடல் மார்க்கமாக தலைமன்னார் வந்த குடும்பஸ்தர் மீது கடற்படையினர் கொடூர தாக்குதல் - யாழ். வைத்தியசாலையில் அனுமதி
+
+*2025-08-25 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223311) · `ta`
+
+இந்தியாவில் இருந்து கடந்த 18 வருடங்களின் பின்னர் கடல் மார்க்கமாக தலைமன்னார் பகுதிக்கு படகில் வருகை தந்த குடும்பஸ்தர் ஒருவர் மீது கடற்படையினர் கடுமையாக தாக்கிய நிலையில் குறித்த குடும்பஸ்தர் யாழ்ப்பாணம் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வருகிறது.
+
+முல்லைத்தீவு உடையார் கட்டு பகுதியைச் சேர்ந்த தங்கையா டேவிட் பாலேந்திரன் என்ற இளம் குடும்பஸ்தர் 2007 ஆம் ஆண்டில் தனது 18 வது வயதில் கடல் மார்க்கமாக இந்தியா சென்றுள்ளார்.பின்னர் கடந்த 18 வருடங்களாக இந்தியாவில் வசித்து வந்த நிலையில் மீண்டும் தாயம் திரும்ப முயற்சித்துள்ளார்.
+
+இந்நிலையில் கடந்த 22 ஆம் திகதி இந்தியாவில் இருந்து கடல் மார்க்கமாக படகு ஒன்றில் தலைமன்னார் பகுதியை நோக்கி வந்துள்ளார்.
+
+40 வயதுடைய குறித்த குடும்பஸ்தருக்கு இதய நோய் காணப்படுகின்ற நிலையில் அதற்கான மருத்துவ அறிக்கைகளையும் தன் வசம் எடுத்து வந்துள்ளார்.எனினும் தலைமன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்ற கடற்படையினர் நோயாளியான குறித்த குடும்பஸ்தரை கண்மூடித்தனமாக தாக்கியுள்ளர்.
+
+...
+
+[Data](articles/4606196a.json)
+
+---
+
+### විද්‍යා ඝාතන සිද්ධියේ විත්තිකරුවන්ගේ අභියාචනා විභාගයට දින දෙයි
+
+*2025-08-25 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213772) · `si`
+
+2015 වසරේ මහත් ආන්දෝලනයකට දුන් යාපනයේ සිවලෝගනාදන් විද්‍යා නමැති පාසල් දැරියක් පැහැර ගෙන ගොස් දූෂණය කර මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු වී මරණය දණ්ඩනය නියම වී සිටින විත්තිකරුවන් විසින් ඉදිරිපත් කර තිබෙන අභියාචනා විභාග කිරීම සඳහා නොවැම්බර් මස 06 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කර තිබේ.
+
+ප්‍රීති පද්මන් සුරසේන, අචල වෙංගප්පුලි සහ  සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම අභියාචනා කැඳවනු ලැබීය.
+
+මෙහිදී  විත්තිකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුකරයට අදාළ දෙමළ භාෂා පරිවර්තන ලබා ගැනීම සඳහා වසර හතර හමාරකට වැඩි කාලයක් ගත වූ බව පෙන්වා දුන්නේය.
+
+ඒ අනුව මෙම අභියාචනා විභාගය සඳහා කෙටි දිනයක් ලබාදෙන ලෙස විත්තියේ නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+මෙහිදී අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා සඳහන් කළේ, මෙම අභියාචනා කඩිනමින් විභාග කිරීම සඳහා කෙටි දිනයක් ලබාදෙන බවය.
+
+ඒ අනුව අදාළ අභියාචනා විභාගය සඳහා නොවැම්බර් මස 6 වන දා කැඳවන ලෙසත් විනිසුරු මඩුල්ල නියම කළේය.
+
+...
+
+[Data](articles/c0ca9e45.json)
+
+---
+
+### பிரிட்டனின் தீர்மானத்துக்கு ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் வரவேற்பு
+
+*2025-08-25 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223308) · `ta`
+
+அபிவிருத்தி அடைந்துவரும் நாடுகளுக்கான வணிகத் திட்டத்தின்(DCTS) கீழ், இலங்கையிலிருந்து பிரிட்டனுக்கு ஏற்றுமதி செய்யப்படும் ஆடைகளுக்கான வணிக விதிகளை தளர்த்துவது குறித்த பிரிட்டனின் அறிவிப்பு தொடர்பில் ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் தங்களின் மகிழ்ச்சியைத் தெரிவித்துள்ளது. இத்திட்டம் 2026 ஆம் ஆண்டு முதல் நடைமுறைக்கு வரவுள்ளமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/2ccef497.json)
+
+---
 
 ### රනිල්ගේ සෞඛ්‍ය තත්ත්වය ගැන වැඩබලන අධ්‍යක්ෂකගෙන් ප්‍රකාශයක්
 
@@ -50,6 +102,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### India will buy oil from where it gets ‘the best deal’ - envoy to Russia
+
+*2025-08-25 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111819/india-will-buy-oil-from-where-it-gets-the-best-deal-envoy-to-russia) · `en`
+
+India will continue to buy oil from wherever it “gets the best deal” in order to protect the interests of its 1.4 billion people, the country’s ambassador to Russia has said.
+
+Vinay Kumar’s statement comes days before US President Donald Trump’s 50% tariffs on India, including a 25% penalty for buying Russian oil and weapons, are set to kick in.
+
+On Sunday, US Vice-President JD Vance said that Trump had announced secondary tariffs on India to apply “aggressive economic leverage” on Russia and force it to stop the war in Ukraine.
+
+Delhi’s increased imports of cheap Russian crude since the war began has strained its ties with the US and impacted negotiations on a trade deal.
+
+Russian crude made up 35-40% of India’s oil imports in 2024, up from 3% in 2021.
+
+The US has alleged that India’s purchase of Russian oil is helping fund the war in Ukraine, a charge Delhi denies.
+
+...
+
+[Data](articles/4933c264.json)
+
+---
+
 ### ரணிலை பார்வையிட்டார் ஹரினி
 
 *2025-08-25 13:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்வையிட்டார்-ஹரினி/175-363453) · `ta`
@@ -63,6 +137,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c4355a4b.json)
+
+---
+
+### “Moving towards dictatorship “: - Opposition leaders issue statement on arrest of ex-President Ranil
+
+*2025-08-25 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111818/moving-towards-dictatorship-opposition-leaders-issue-statement-on-arrest-of-ex-president-ranil) · `en`
+
+Leaders of opposition political parties have jointly issued a statement regarding the arrest of former President Ranil Wickremesinghe by the Criminal Investigation Department (CID).
+
+The statement declares that the move to arrest former President Wickremesinghe and to remand him over a non-bailable offense constitutes a form of state conduct that is “moving towards dictatorship “ and is in opposition to a multi-party democratic system.
+
+According to the statement, the developments during the last few days represent a deliberate attack on the democratic way of life in Sri Lanka and it is vital that the public should be aware of the implications of this situation and its danger to the society as a whole.
+
+...
+
+[Data](articles/15668868.json)
+
+---
+
+### යතුරුපැදි රේස් පදින්න ගිහින් ජීවිතයෙන් වන්දි ගෙවයි
+
+*2025-08-25 12:48:03* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදි-රේස්-පදින්න-ගිහින්-ජීවිතයෙන්-වන්දි-ගෙවයි/11-418049) · `si`
+
+මහනුවර කටුගස්තොට මාර්ගයේ යතුරුපැදි රේස් පැද්ද තරුණයන්  දෙදෙනෙකු අනතුරට ලක්ව එක් තරුණයෙකු මියගොස් තවත් තරුණයෙකු බරපතල තුවාල ලබා පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුළත් කොට ඇති බව කටුගස්තොට පොලිසිය කියයි.
+
+අකුරණ ප්‍රදේශයේ පදිංචි 18 හැවිරිදි වියේ සහ 19 හැවිරිදි වියේ තරුණයන් දෙදෙනෙකු සෙනසුරාදා (23) අලුයම 1.30 ට පමණ එසේ කටුගස්තොට මාර්ගයේ අධික වේගයෙන් රේස් පදිමින් සිටියදී ශාන්ත අන්තෝනි බාලිකා විදුහල අසලදී එම යතුරු පැදිය මාර්ගයේ මැද විදුලි පහන් කණු සඳහා යොදා ඇති ආරක්ෂක කොන්ක්‍රීට් කණුවේ වැදීමෙන් සිදු වූ අනතුරකින් 18 හැවිරිදි තරුණයා එම ස්ථානයේදීම මියගොස් ඇතිි බව පොලිසිය කියයි.
+
+පොලිසිය පවසනුයේ කටුගස්තොට මාර්ගයේ මහයියාව බිංගය සහ කටුගස්තොට පාලම අතර කොටසේ අධිබල යතුරුපැදි සහ මෝටර් රථ යොදා ගනිමින් රාත්‍රී කාලයේ රේස් පැදීම කලක සිට සිදු කෙරෙමින් පවතින බවත් ප්‍රදේශ වාසීන්ගේ පැමිණිලි මත අවස්ථා කිහිපයකදීම රාත්‍රී කාලයේ රේස් පදින පුද්ගලයන් අත්අඩංගුවට ගෙන නීති මාර්ගයෙන් ක්‍රියාකළ ද එම කටයුත්ත දිගින් දිගටම සිදු කෙරෙමින් පවතින බවයි.
+
+...
+
+[Data](articles/fd96e280.json)
 
 ---
 
@@ -94,6 +200,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஜப்பானிய நகரத்தில் கையடக்க தொலைபேசி பயன்பாட்டு நேரத்தை கட்டுப்படுத்த தீர்மானம்
+
+*2025-08-25 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/223300) · `ta`
+
+ஜப்பானின், ஐச்சி மாகாணத்தில் உள்ள டொயோகே நகரம், பணியிடம் அல்லது பாடசாலைக்கு வெளியே கையடக்க தொலைபேசியை நாளொன்றுக்கு இரண்டு மணிநேரம் மாத்திரமே பயன்படுத்த முடியும் என அறிவித்துள்ளது. இந்த அவசரச் சட்டத்தை மீறினால் அபராதங்கள் எதுவும் விதிக்கப்படமாட்டாது.
+
+இந்த கட்டுப்பாடு நகரத்தில் உள்ள அனைத்து குடியிருப்பாளர்களுக்கும் பொருத்தமானது அல்ல. அதிகமாக பயன்படுத்தினாலும் எந்த அபராதமும் விதிக்கப்படாது என வரைவு கட்டளைச் சட்டத்தின்படி தெரிவிக்கப்பட்டுள்ளது.
+
+"தூக்கப் பிரச்சினைகள் உட்பட உடல் மற்றும் மனநலப் பிரச்சினைகளை ஏற்படுத்தும் சாதனங்களை அதிகமாகப் பயன்படுத்துவதைத் தடுப்பதே இந்த திட்டத்தின் நோக்கமாகும்" என டொயோக் மேயர் மசாஃபுமி கோகி வெள்ளிக்கிழமை அறிக்கை ஒன்றில் தெரிவித்துள்ளார்.
+
+இந்த சட்டம், ஆரம்ப பாடசாலை மாணவர்கள் இரவு 9 மணிக்குப் பின்னர் கையடக்க தொலைபேசியைப் பயன்படுத்துவதைத் தவிர்க்குமாறு வலியுறுத்துகிறது.
+
+மேலும் உயர்தர வகுப்பு பாடசாலை மாணவர்கள் மற்றும் பெரியவர்கள் இரவு 10 மணிக்குப் பின்னர் அவற்றைப் பயன்படுத்த வேண்டாம் என்று அறிவுறுத்துகிறது.
+
+...
+
+[Data](articles/fb822a31.json)
+
+---
+
 ### හිටපු ජනපති රනිල් අත්අඩංගුවට ගැනීම ගැන විදේශ තානාපතිවරු දැනුවත් කරයි
 
 *2025-08-25 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213770) · `si`
@@ -116,6 +242,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Colombo HC to consider bail requests filed by Aluthgamage & Nalin Fernando in Sept
+
+*2025-08-25 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111817/colombo-hc-to-consider-bail-requests-filed-by-aluthgamage-nalin-fernando-in-sept) · `en`
+
+The Colombo High Court today (25) ordered that the bail petitions filed by former ministers Mahindananda Aluthgamage and Nalin Fernando be taken up again on September 23 for confirmation of facts, Ada Derana reporter said.
+
+The two former ministers, who were convicted and sentenced to rigorous imprisonment in the “carrom board case”, had filed these petitions seeking release on bail pending their appeals against the sentences.
+
+The applications were called before a three-member bench consisting Judges Mahesh Weeraman, Pradeep Abeyratne, and Amali Ranaweera.
+
+During the hearing, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) informed court that it had not yet received notices relating to the petitions.
+
+Having considered the facts presented, the bench directed the accused to present their facts on the bail applications and further ordered that notices be duly issued to the Bribery Commission.
+
+...
+
+[Data](articles/5fbdaf81.json)
+
+---
+
 ### சலுகைக் குறைப்பு சட்டமூலம் மீதான விசாரணை ஆரம்பம்
 
 *2025-08-25 12:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைக்-குறைப்பு-சட்டமூலம்-மீதான-விசாரணை-ஆரம்பம்/175-363448) · `ta`
@@ -131,6 +277,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/56ddae54.json)
+
+---
+
+### ஜனாதிபதிக்கு உக்ரேன் ஜனாதிபதி நன்றி தெரிவிப்பு
+
+*2025-08-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/223303) · `ta`
+
+உக்ரேனின் சுதந்திர தினத்தை முன்னிட்டு ஜனாதிபதி அநுர குமார திசாநாயக்கவின் அன்பான வாழ்த்துக்களுக்கு உக்ரேன் ஜனாதிபதி  விளோடிமிர் ஜெலென்ஸ்கி தனது மனமார்ந்த நன்றியைத் தெரிவித்துள்ளார்.
+
+இலங்கையின் தொடர்ச்சியான ஆதரவிற்கு நன்றி தெரிவித்ததோடு,  இரு நாடுகளுக்கும் இடையிலான நட்புறவை வலியுறுத்தினார்.
+
+"உக்ரேனின் சுதந்திர தினத்தன்று அன்பான மற்றும் நேர்மையான வாழ்த்துக்களுக்கு ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு நான் நன்றி கூறுகிறேன். பரஸ்பர மரியாதை மற்றும் அமைதி, செழிப்புக்கான பகிரப்பட்ட அர்ப்பணிப்பின் அடிப்படையில் இலங்கையுடனான நட்புறவுகள் மற்றும் ஒத்துழைப்பை உக்ரேன் மதிக்கிறது. இரு நாடுகளுக்கும் நன்மைகளைத் தரும் வகையில், எங்கள் உறவுகள் மேலும் வளர்ச்சியடையும் சாத்தியக்கூறுகளைக் கொண்டுள்ளன என நாங்கள் நம்புகிறோம்," என தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அநுர குமார திசாநாயக்க உக்ரேன் ஜனாதிபதிக்கு அனுப்பி வைத்துள்ள கடிதத்தில், உக்ரேன் மக்களுக்கு சுதந்திர தின வாழ்த்துக்களைத் தெரிவித்து, இருதரப்பு உறவுகளை ஆழப்படுத்துவதற்கான இலங்கையின் உறுதிப்பாட்டை மீண்டும் உறுதிப்படுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/9b3d2b2e.json)
 
 ---
 
@@ -180,6 +344,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### SC begins hearing petitions against bill to revoke privileges of former Presidents
+
+*2025-08-25 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111815/sc-begins-hearing-petitions-against-bill-to-revoke-privileges-of-former-presidents) · `en`
+
+The Supreme Court today (25) commenced hearing petitions filed seeking a ruling that the provisions of the bill presented to Parliament by the government to revoke the privileges of former presidents are unconstitutional.
+
+The petitioners argue that, if the bill is to be passed, it must be approved by a two-thirds majority in Parliament and also endorsed through a public referendum.
+
+The petitions are being heard before a three-member Supreme Court bench comprising Chief Justice Preethi Padman Surasena, and Justices Achala Wengappuli and Sampath Abeykoon.
+
+According to Ada Derana court correspondent, the attorneys representing the petitioners have commenced presenting their arguments.
+
+Solicitor General Viraj Dayaratne appeared on behalf of the government.
+
+...
+
+[Data](articles/2c53c949.json)
+
+---
+
+### Diplomats in Colombo informed about arrest of ex-President Ranil Wickremesinghe
+
+*2025-08-25 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111816/diplomats-in-colombo-informed-about-arrest-of-ex-president-ranil-wickremesinghe) · `en`
+
+Foreign diplomats in Colombo have been informed yesterday (25) regarding the arrest and imprisonment of former President Ranil Wickremesinghe.
+
+Accordingly, the Indian High Commissioner was briefed last night at the Indian House.
+
+Former Members of Parliament including G.L. Peiris, Thalatha Atukorale, and Ali Sabry also participated in the occasion.
+
+Former President Ranil Wickremesinghe is currently in remand custody after being arrested by the Criminal Investigation Department (CID) for allegedly misusing state funds in 2023.
+
+◼️
+
+[Data](articles/b1036533.json)
+
+---
+
 ### எதிர்க்கட்சிகளுக்கு ரணிலிடமிருந்து முக்கிய செய்தி
 
 *2025-08-25 11:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளுக்கு-ரணிலிடமிருந்து-முக்கிய-செய்தி/175-363445) · `ta`
@@ -193,6 +395,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/39dd54d4.json)
+
+---
+
+### Vietnam evacuates tens of thousands, shuts airports as Typhoon Kajiki approaches
+
+*2025-08-25 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111814/vietnam-evacuates-tens-of-thousands-shuts-airports-as-typhoon-kajiki-approaches) · `en`
+
+The Vietnamese government said Typhoon Kajiki is expected to be as powerful as Typhoon Yagi, which battered the country less than a year ago, killing about 300 people.
+
+HANOI: Vietnam has shut airports, closed schools and initiated mass evacuations as it prepares for the most powerful storm so far this year.
+
+Typhoon Kajiki was packing winds of up to 166kmh as it approached Vietnam’s central coast and was forecast to grow stronger before making landfall on Monday afternoon (Aug 25), the country’s weather agency said.
+
+“This is an extremely dangerous fast-moving storm,” the government said in a statement on Sunday night, warning that Kajiki would bring heavy rains, flooding and landslides.
+
+The typhoon - the fifth to affect Vietnam this year - is currently at sea, roiling the Gulf of Tonkin with waves of up to 9.5m. The eye of the storm is forecast to hit an area between Thanh Hoa and Nghe An provinces.
+
+...
+
+[Data](articles/550fed72.json)
 
 ---
 
@@ -235,6 +457,28 @@ BOI Chairman Arjuna Herath said the investment approval will enhance Sri Lanka�
 ...
 
 [Data](articles/7d3f3516.json)
+
+---
+
+### Sajith visits Ranil at hospital again, says he expects court to issue independent ruling tomorrow
+
+*2025-08-25 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111813/sajith-visits-ranil-at-hospital-again-says-he-expects-court-to-issue-independent-ruling-tomorrow) · `en`
+
+Leader of the Opposition Sajith Premadasa visited former President Ranil Wickremesinghe who is currently receiving treatment at the Colombo National Hospital once again this morning (25).
+
+Former President Wickremesinghe, who was remanded until tomorrow (26), was initially admitted to the Prison Hospital, and then transferred to the National Hospital.
+
+He was admitted to the Intensive Care Unit (ICU) due to dehydration, according to hospital sources.
+
+The transfer was carried out on the recommendation of Prison Hospital doctors following medical examinations.
+
+Former President Wickremesinghe, was remanded until August 26 after being arrested by the Criminal Investigation Department (CID) on August 22.
+
+Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to the United Kingdom to attend a ceremony for his wife at a British university while he was head of state.
+
+...
+
+[Data](articles/626f384a.json)
 
 ---
 
@@ -285,6 +529,24 @@ BOI Chairman Arjuna Herath said the investment approval will enhance Sri Lanka�
 ◼️
 
 [Data](articles/70e9a8bf.json)
+
+---
+
+### Two individuals arrested over Borella shooting
+
+*2025-08-25 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111812/two-individuals-arrested-over-borella-shooting-) · `en`
+
+Two individuals have been arrested for allegedly aiding and abetting the shooting reported in the Kader Nana Watte area in Borella on August 22, police stated.
+
+The suspects have been arrested by the Borella Police in Wellampitiya.
+
+The Borella Police have also taken into custody a motorcycle suspected of being used in the shooting.
+
+The arrested suspects and the motorcycle are scheduled to be produced in court.
+
+◼️
+
+[Data](articles/4acfa099.json)
 
 ---
 
@@ -462,6 +724,28 @@ Over the weekend, opposition party activists questioned the way Wickremesinghe w
 
 ---
 
+### Shooter and motorcyclist arrested over Gandara shooting incident
+
+*2025-08-25 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111809/shooter-and-motorcyclist-arrested-over-gandara-shooting-incident) · `en`
+
+The alleged shooter and the motorcyclist have been arrested in connection with the shooting incident in the Kapugama area of the Gandara Police Division, police confirmed.
+
+Two unidentified individuals who arrived on a motorcycle had targeted a person at a residence in Kapugama on August 3.
+
+The Matara Divisional Crime Investigation Bureau initiated an investigation into the incident, and accordingly, two individuals involved in the crime were arrested yesterday (24) in the Wellampitiya and Ganemulla Police Divisions, based on information received by the investigating officers.
+
+Accordingly, the shooter and the motorcyclist who committed the crime have been arrested.
+
+Additionally, the motorcycle used for the murder has also been taken into police custody, said police.
+
+The suspects taken into custody are residents of the Wellampitiya and Peliyagoda areas, aged 28 and 47.
+
+...
+
+[Data](articles/3c0e1eb5.json)
+
+---
+
 ### ரணில் விவகாரம்: ஐ.ம.ச எம்.பிக்கள் அவசரமாக கூடுகின்றனர்
 
 *2025-08-25 10:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விவகாரம்-ஐ-ம-ச-எம்-பிக்கள்-அவசரமாக-கூடுகின்றனர்/175-363434) · `ta`
@@ -620,7 +904,13 @@ At least eight people, including two women and a child, were killed, and around 
 
 The Criminal Investigation Department (CID) has arrested Colombo Range Deputy Inspector General of Police (DIG) Uditha Liyanage in connection with the allegations of treasure hunting levelled against his wife, police said.
 
-◼️
+The Anuradhapura Police recently arrested eight people, including a wife of a DIG, who were allegedly excavating a plot of land for treasure near a temple in Thibirikadawala, Srawasthipura.
+
+This was based on information received by the Anuradhapura Police on August 13 that a group was treasure hunting near the Ratrang Devalaya in Thibirikadawala, Srawasthipura, police said.
+
+Following the arrest of the alleged group, the police officers who conducted the raid have been pressured by an individual claiming to be a DIG over the phone to release the arrested suspects.
+
+...
 
 [Data](articles/32668d31.json)
 
@@ -1511,241 +1801,5 @@ By Thavarasa Sujanthini, Sivanesan Mathusha, Loganathan Sihanika, Suveedda Pirat
 ...
 
 [Data](articles/f14c4eec.json)
-
----
-
-### Exporting in new era: ESG reporting as strategic enabler for global market entry
-
-*2025-08-25 00:50:06* · [`dailyftlk`](https://www.ft.lk/columns/Exporting-in-new-era-ESG-reporting-as-strategic-enabler-for-global-market-entry/4-780688) · `en`
-
-As a country with a long-standing reputation for quality, especially in apparel, tea and many other agricultural products, Sri Lanka has much to gain by aligning its exports with global sustainability values
-
-In an increasingly competitive and sustainability-conscious global marketplace, Sri Lankan exporters can no longer afford to view Environmental, Social and Governance (ESG) reporting as a corporate luxury or compliance burden. Instead, proactive ESG engagement must become a strategic priority if the country’s export sector is to remain relevant, competitive and resilient in the years ahead.
-
-...
-
-[Data](articles/cd336505.json)
-
----
-
-### Reducing prison congestion and costs using technology
-
-*2025-08-25 00:41:52* · [`dailyftlk`](https://www.ft.lk/columns/Reducing-prison-congestion-and-costs-using-technology/4-780686) · `en`
-
-Electronic anklets are a viable and cost-effective solution to the problem of prison overcrowding caused by excessive remanding pre-trial detainees
-
-This was written shortly after the National Movement for Social Justice conducted a webinar on problems with remanding practices in the aftermath of the neurologist and her daughter being remanded. But now that the question of remanding President Wickremesinghe is front and centre, completion cannot wait.
-
-According to the World Prison Brief, the total number of prisoners Sri Lankan prisons can hold was 13,241 in 2025. But the prisons held 32,747 persons in inhumane conditions. Worse, two thirds of these prisoners had not been convicted; they were pre-trial detainees/remand prisoners. Sri Lanka has one of the highest rates of pre-trial detention in the world.
-
-...
-
-[Data](articles/73a0e7a3.json)
-
----
-
-### CFEP: ‘Think-tank’ of the young, by the young but for all of us
-
-*2025-08-25 00:37:09* · [`dailyftlk`](https://www.ft.lk/columns/CFEP-Think-tank-of-the-young-by-the-young-but-for-all-of-us/4-780684) · `en`
-
-The final message delivered by Pasan was a warning: “Grab the opportunities today because there might not be a second chance”. This has been a warning given to all the political leaders of Sri Lanka since independence but conveniently chosen to be ignored by them. At least if only a section of the country’s youth takes this warning seriously and decides to act fast, it will be a new journey for the country’s future generations
-
-Recently, I had the opportunity to witness the formalisation of a new ‘think-tank’ in Colombo by some interested young people to undertake economic policy analysis. The think-tank, formally known as Ceylon Foundation for Economic Policy-analysis or CFEP (pronounced as SEE-FEP), has been created by young economist Pasan Wijayawardhana, an economics Don at the Colombo University.
-
-...
-
-[Data](articles/684a4477.json)
-
----
-
-### Cost of wrong strategies in internal conflicts
-
-*2025-08-25 00:20:56* · [`dailyftlk`](https://www.ft.lk/columns/Cost-of-wrong-strategies-in-internal-conflicts/4-780683) · `en`
-
-The only hope for Sri Lanka is for it to be blessed with a Government that has the hutzpah to make a realistic appraisal of the ground situation and acknowledge that, instead of adopting the strategy recommended by Volker Turk which is in keeping with external values of Retributive Justice followed by inevitable bitterness associated with it, to adopt a strategy that mirrors Sri Lanka’s heritage of Restorative Justice as being in its long term best interests. Such a strategy would be to grant a general amnesty to all associated with the armed conflict and focus on the present by attending to the physical wellbeing of the survivors of all communities in a tangible way
-
-...
-
-[Data](articles/fc71d390.json)
-
----
-
-### 2025-08-24 (Sunday)
-
-### களுத்துறை, கலமுல்ல கடலில் நீந்திச் சென்ற இரண்டு மாணவர்கள் காணாமல் போயினர்
-
-*2025-08-24 23:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223279) · `ta`
-
-களுத்துறை, கலமுல்ல கடல் பகுதியில் ஞாயிற்றுக்கிழமை (24) மதியம் நீச்சலுக்காகச் சென்ற மூன்று பாடசாலை மாணவர்களில் இருவர் நீரில் மூழ்கி காணாமல் போயுள்ளனர், அதே நேரத்தில் ஒரு மாணவர் மீட்கப்பட்டுள்ளதாக பயாகல பொலிஸார் தெரிவிக்கின்றனர்.
-
-நீரில் மூழ்கி காணாமல் போன இருவரும் பாணந்துறை, எலுவில மற்றும் ஹொரணை, கல்பத்த ஆகிய இடங்களைச் சேர்ந்த 15 வயதுடைய மிஹின் சன்ஹிந்த மற்றும் நெதும் நெத்சரா என்ற இரண்டு பாடசாலை மாணவர்கள் ஆவர்.
-
-ஹொரணையில் உள்ள ஒரு பாடசாலையில் படித்து வரும் மூவரும், கலமுல்ல, புனித அந்தோணியர் மாவத்தையின் முடிவில் தனியார் கல்வி வகுப்பில் கலந்து கொண்டதாக தகவல் கிடைத்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-களுத்துறை கடற்படை உயிர்காப்பாளர்கள் மற்றும் பயாகல பொலிஸாருடன் மீனவர்களும் இணைந்து காணாமல் போன இரண்டு பாடசாலை மாணவர்களை தேடும் நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/cfb9b347.json)
-
----
-
-### ரணில் கைது : ஜனநாயக மதிப்பின் மீதான திட்டமிட்ட தாக்குதல் - சந்திரிக்கா
-
-*2025-08-24 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223278) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமை இந்த நாட்டின் ஜனநாயக மதிப்பின் மீது திட்டமிட்ட வகையில் மேற்கொண்ட தாக்குதலாகும். ஜனநாயக விரோத செயற்பாடுகளுக்கு சகல அரசியல் தலைவர்களும் எதிர்ப்பு தெரிவிக்க வேண்டும் என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க  குமாரதுங்க வலியுறுத்தியுள்ளார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமை தொடர்பில் விசேட ஊடக அறிக்கை ஒன்றை வெளியிட்டு மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டமை இந்நாட்டின் ஜனநாயக மதிப்பின் மீது திட்டமிட்ட வகையில் மேற்கொண்ட தாக்குதலாகும்.இது விசேடமானதொரு நிலையாகும்.நாட்டின்  அடிப்படை ஜனநாயக நிறுவனங்களின் பலம் தொடர்பில் பாரியதொரு கவலை ஏற்பட்டுள்ளது.
-
-இவ்வாறான நிலையால் ஏற்படும் எதிர்விளைவுகள் தனி நபரையோ அல்லது அரசியல் கட்சிகளுக்கு செல்வாக்கு செலுத்துவதை காட்டிலும் அதற்கு அப்பாற்பட்ட வகையில் ஒட்டுமொத்த சமூக கட்டமைப்பின் உரிமைகளுக்கும் அச்சுறுத்தலாக அமையும்.
-
-...
-
-[Data](articles/4cbeee33.json)
-
----
-
-### AI brings new sparkle to Sri Lankan gem trade
-
-*2025-08-24 22:43:00* · [`islandlk`](http://island.lk/ai-brings-new-sparkle-to-sri-lankan-gem-trade/) · `en`
-
-In a significant boost to Sri Lanka’s historic gemstone trade, local traders can now harness the power of Artificial Intelligence (AI) to instantly certify and assess the quality of their stones, thanks to a groundbreaking new technology launched in the island’s key trading hubs.
-
-The revolutionary system, a result of a partnership between global digital engineering firm Fcode Labs and gemstone scanning innovator Porolis, has been deployed at centres in Beruwala, Colombo, and Rathnapura. This move puts laboratory-grade analysis directly into the hands of gemologists and traders, modernising a centuries-old industry that has long relied on manual, time-consuming methods.
-
-The technology combines the KROMA scanning device, invented by Porolis, with the cloud-based GemLUX AIaaS platform. This allows professionals to digitally scan a gemstone and receive an immediate, AI-driven analysis, complete with a detailed digital report accessible through a secure online dashboard.
-
-...
-
-[Data](articles/e920362d.json)
-
----
-
-### Softlogic Life leadership expresses strong confidence in Sri Lanka’s insurance sector
-
-*2025-08-24 22:42:00* · [`islandlk`](http://island.lk/softlogic-life-leadership-expresses-strong-confidence-in-sri-lankas-insurance-sector/) · `en`
-
-Iftikar Ahamed, Managing Director of Softlogic Life, recently reaffirmed his optimism regarding the future of life and health insurance in Sri Lanka, citing the company’s strong performance and strategic expansion efforts as key drivers of growth.
-
-“We remain optimistic about the prospects for Life and Health insurance in Sri Lanka,” Ahamed stated. “Our results in the first half of the year are a testament to our proactive mindset and the resilience of our team in driving sustainable business performance while delivering on our core purpose of protecting lives.”
-
-The company recently acquired Allianz Life Insurance Lanka Limited, now a subsidiary of Softlogic Life Insurance PLC. Ahamed emphasised that this move aligns with the company’s mission to extend protection to more Sri Lankans. “As we move ahead together, we will continue to innovate and challenge industry norms to drive a better quality of life for Sri Lankans,” he added.
-
-...
-
-[Data](articles/34d3e76b.json)
-
----
-
-### දෙමහල් ගොඩනැගිල්ලක් ව්‍යාජ ඔප්පුවකට බදුදීමේ සිද්ධියට අදාළ නඩුවට දුන් නියෝගය
-
-*2025-08-24 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213749) · `si`
-
-කම්කරු අමාත්‍යාංශයට අයත් දෙමහල් ගොඩනැගිල්ලක් ව්‍යාජ ඔප්පුවක් මත බදුදීමේ සිද්ධියක් සම්බන්ධයෙන් ගොනුකර ඇති නඩුවට අදාළව අමාත්‍ය වසන්ත සමරසිංහ ඇතුළු තිදෙනෙකුගෙන් ප්‍රකාශ ලබාගැනීමට පෙර අදාළ නඩු ගොනුව නීතිපතිවරයා වෙත යොමුකළේ ඇයිදැයි ගල්කිස්ස මහෙස්ත්‍රාත් චතුරිකා ද සිල්වා මහත්මිය ප්‍රශ්නකර තිබේ.
-
-ඒ, අමාත්‍ය වසන්ත සමරසිංහ, නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ සහ කඩුවෙල නගරාධිපති රන්ජන් ජයලාල් සහ යන අයගෙන් ලබාගත් වාර්තා කොළඹ වංචා විමර්ශන කාර්යාංශයේ නිලධාරීන් අධිකරණය ඉදිරිපත් කළ අවස්ථාවේදීය.
-
-අමාත්‍ය වසන්ත සමරසිංහ, නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ සහ කඩුවෙල නගරාධිපති රන්ජන් ජයලාල් සහ යන තිදෙනා පසුගියදා කොළඹ වංචා විමර්ශන කාර්යාංශයට පැමිණ ප්‍රකාශ ලබාදී තිබුණේ ගල්කිස්ස මහෙස්ත්‍රාත් චතුරිකා ද සිල්වා මහත්මිය කළ නියෝගයකට අනුවයි.
-
-ඒ, නැෂනල් වර්ක්ස් ඉන්ස්ටිටියුට් ආයතනය සතු දෙමහල් ගොඩනැගිල්ල සහිත ඉඩමක් රුපියල් ලක්ෂ 36කට බදුදී වංචා කරන ලදැයි කියන සිද්ධියකට අදාළව යි.
-
-මෙම සිද්ධියට අදාළ නඩුව ඉකුත් 22 වැනිදා කැඳවු අතර කොළඹ වංචා විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් ලබාගත් ප්‍රකාශ සම්බන්ධ වාර්තා අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
-
-...
-
-[Data](articles/28a390e2.json)
-
----
-
-### தபால் பணிப்புறக்கணிப்பு முடிவு : கைவிரல் ரேகை ஸ்கேனர் முறைமை அமுல் - நளிந்த ஜயதிஸ்ஸ
-
-*2025-08-24 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223277) · `ta`
-
-தபால் சேவையில் கைவிரல் ரேகை பதிவு ஸ்கேனர் பொருத்தல் மற்றும் மேலதிக நேர கொடுப்பனவில் மாற்றமில்லை என்ற அரசாங்கத்தின் உறுதியான இரண்டு கோரிக்கைக்கு இணக்கம் தெரிவித்து தபால் சேவையாளர்கள் ஞாயிற்றுக்கிழமை (24) மாலையுடன் பணிப்புறக்கணிப்பு போராட்டத்தை கைவிட்டனர். நியாயமற்ற பணிப்புறக்கணிப்பு போராட்டத்துக்கு ஒட்டுமொத்த மக்களும் கடும் எதிர்ப்பை வெளிப்படுத்தியமை வரவேற்கத்தக்கது. கொழும்பு மத்திய தபால் பரிவர்த்தனை நிலையத்தில் கைவிரல் ரேகை பதிவு ஸ்கேனர் முறைமை அமுல்படுத்தப்படும் என சுகாதாரம் மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபட்டிருந்த தபால் சேவை தொழிற்சங்கத்தின் பிரதிநிதிகளுக்கும், வெகுஜன ஊடகத்துறை அமைச்சருக்கும் இடையிலான கலந்துரையாடல் ஞாயிற்றுக்கிழமை (24) வெகுஜன ஊடக அமைச்சின் காரியாலயத்தில் இடம்பெற்றது.
-
-தபால் சேவையாளர்கள் முன்வைத்த கோரிக்கைகளில் 17 கோரிக்கைகளை நிறைவேற்ற நாங்கள் இணக்கம் தெரிவித்தனர். தபால் சேவையில் கைவிரல் ரேகை பதிவு ஸ்கேனர் பொருத்தல் மற்றும் அங்கீகரிக்கப்பட்ட மேலதிக நேர கொடுப்பனவை அதிகரிக்க முடியாது என்பதில் உறுதியாக இருந்தோம்.
-
-...
-
-[Data](articles/972cad33.json)
-
----
-
-### PM urges new envoys to prioritize efforts to attract quality investments to Sri Lanka
-
-*2025-08-24 22:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111796/pm-urges-new-envoys-to-prioritize-efforts-to-attract-quality-investments-to-sri-lanka) · `en`
-
-The Heads of Missions–Designate of Sri Lanka, paid a courtesy call on the Prime Minister of Sri Lanka Dr. Harini Amarasuriya at the Prime Minister’s Office recently.
-
-The delegation comprised of Ms. S.S. Premawardhane, Ambassador-designate to Indonesia, Ms. C.A.C.I. Colonne, Ambassador-designate to Brazil, Mr. M.R. Hassen, High Commissioner-designate to the Maldives; Mr. L.R.M.N.P.G.P.B. Kadurugamuwa, Ambassador-designate to Turkey; Ms. Ruwanthi Delpitiya, Ambassador-designate to Nepal; Mr. M.K. Pathmanaathan, Ambassador-designate to the Republic of Korea; and Mr. W.A.K.S. De Alwis, Ambassador-designate to the Sultanate of Oman.
-
-During the meeting, the Prime Minister encouraged the envoys to enhance goodwill towards Sri Lanka, promote the country’s image globally, and prioritize efforts to attract quality investments, the PM’s Office said.
-
-...
-
-[Data](articles/109bf0aa.json)
-
----
-
-### කළුතර කලමුල්ල මුහුදු තීරයේ දිය නෑ සිසුන් දෙදෙනෙක් අතුරුදන්
-
-*2025-08-24 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213748) · `si`
-
-කළුතර කලමුල්ල ප්‍රදේශයේ මුහුදේ අද (24) පස්වරුවේ දියනැමට ගිය පාසල් සිසුන් තිදෙදෙනෙකුගෙන් දෙදෙනෙකු දියේ ගිලී අතුරුදන් වී ඇති අතර එක් සිසුවෙකු දිවි බේරාගෙන ඇති බව පයාගල පොලීසිය පවසයි.
-
-මෙලෙස දියේ ගිලී අතුරුදන්ව ඇත්තේ පානදුර එළුවිල සහ හොරණ ගල්පාත ප්‍රදේශයේ  පදිංචිව සිටී මිහින් සන්හිඳ සහ නෙතුම් නෙත්සර නමැති  15 හැවිරිදි  පාසල් සිසුන් දෙදෙනෙකි.
-
-ඔවුන් තිදෙනා හොරණ ප්‍රදේශයේ පාසලක ඉගෙනුම ලබන බවත්, පෞද්ගලික උපකාරක පංතියකට සහභාගි වීමට පැමිණි අතරතුර කලමුල්ල ශාන්ත අන්තෝනි මාවත කෙලවර මුහුදු වෙරලේ දියනාමින් සිට ඇති බවට තොරතුරු ලැබී ඇති බවත් පොලීසිය පවසයි.
-
-කළුතර නාවික හමුදා ජීවිත ආරක්ෂක නිළධාරීන් සහ පයාගල පොලීසිය සමග එක්ව ධීවරයින් මෙහෙයුම් සිදුකරන බව පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/77c08b8f.json)
-
----
-
-### ரணிலின் பிணை கோரிக்கை நிராகரிக்கப்பட்டமை தவறென்று குறிப்பிடுபவர்கள் நீதிமன்றம் செல்லலாம் – நளிந்த ஜயதிஸ்ஸ
-
-*2025-08-24 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223276) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பிணை கோரிக்கை நிராகரிக்கப்பட்டமை தவறென்று குறிப்பிடுபவர்கள் நீதிமன்றத்தில் விடயங்களை முன்வைக்கலாம். 166 இலட்சம் அரச நிதியை சாதாரண நபர் ஒருவர் முறைகேடாக பயன்படுத்தியிருந்தால் அவருக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படமாட்டாதா, ரணில் விக்கிரமசிங்க தொடர்பில் மேலதிக தகவல்கள் தேவையாயின் இன்று அவருக்கு ஆதரவாக ஒன்றிணைந்துள்ளவர்கள் கடந்த காலங்களில் ரணில் விக்கிரமசிங்க தொடர்பில் குறிப்பிட்ட விடயங்களை மீண்டும் கேட்கலாம். சந்தர்ப்பவாத அரசியல்வாதிகளை மக்கள் இனியேனும் விளங்கிக்கொள்ள வேண்டும் என சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-தபால் தொழிற்சங்கத்தினருடன் ஞாயிற்றுக்கிழமை (24) ஊடகத்துறை அமைச்சில் நடைபெற்ற கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/8e0208f0.json)
-
----
-
-### CFEP: ‘Think-Tank’ Of The Young, By The Young But For All Of Us
-
-*2025-08-24 22:00:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/cfep-think-tank-of-the-young-by-the-young-but-for-all-of-us/) · `en`
-
-Recently, I had the opportunity to witness the formalisation of a new ‘think-tank’ in Colombo by some interested young people to undertake economic policy analysis. The think-tank, formally known as Ceylon Foundation for Economic Policy-analysis or CFEP (pronounced as SEE-FEP), has been created by young economist Pasan Wijayawardhana, an economics Don at the Colombo University.
-
-...
-
-[Data](articles/406f595d.json)
-
----
-
-### Tata Motors and DIMO strengthen partnership with major vehicle launch in Sri Lanka
-
-*2025-08-24 21:42:00* · [`islandlk`](http://island.lk/tata-motors-and-dimo-strengthen-partnership-with-major-vehicle-launch-in-sri-lanka/) · `en`
-
-Tata Motors, in partnership with its long-standing Sri Lankan distributor DIMO, has launched 10 new commercial trucks and buses. This expansion celebrates the 65-year collaboration between the two companies and significantly bolsters Tata Motors’ presence in the Sri Lankan market.
-
-The new vehicles are engineered to meet the country’s diverse cargo and passenger transport needs. Designed for superior performance and durability across demanding terrain, they promise operational efficiency, reliability, and a lower total cost of ownership for businesses.
-
-...
-
-[Data](articles/6693b4a6.json)
 
 ---

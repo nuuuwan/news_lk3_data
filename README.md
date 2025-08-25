@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 03:49:38**
+As of **2025-08-26 04:07:15**
 
 ## Newspaper Stats
 
-*Scraped **72,317** Articles*
+*Scraped **72,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 739
 economynextcom | 4,418
 islandlk | 4,442
 dailymirrorlk | 4,733
-dailyftlk | 5,101
+dailyftlk | 5,106
 adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,701
@@ -26,11 +26,95 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,317 articles have been extended.
+61,973 (85.7%) of 72,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### Prime Minister says Govt. remains committed to human rights, fostering harmony
+
+*2025-08-26 03:52:23* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-says-Govt-remains-committed-to-human-rights-fostering-harmony/56-780786) · `en`
+
+Prime Minister Dr. Harini Amarasuriya told Parliament last week that the Government remains committed to upholding human rights and deliberately avoids narratives that foster division, hatred, or violence.
+
+“As the new Government in Sri Lanka, we are committed to ensuring the protection of all people,” the Prime Minister said on Friday, responding to a question raised by MP S. Shritharan. “We are always willing to listen, correct ourselves, and be responsive for public sentiment.”
+
+Dr. Amarasuriya underscored that all citizens were entitled to equal dignity and respect, without exception. She said the Government aimed to promote unity, empathy, and accountability as part of its broader commitment to human rights.
+
+...
+
+[Data](articles/01d595d9.json)
+
+---
+
+### “Premakeerthi Ghathanaye Sulamula” book launch tomorrow
+
+*2025-08-26 03:51:26* · [`dailyftlk`](https://www.ft.lk/news/Premakeerthi-Ghathanaye-Sulamula-book-launch-tomorrow/56-780785) · `en`
+
+Senior journalist Dharman Wickramaratne’s latest book “Premakeerthi Ghathanaye Sulamula”, written about the JVP’s second insurrection, will be launched tomorrow at 3 p.m. at the National Library and Documentation Services Board Auditorium, Colombo 7.
+
+This book is based on the assassination of veteran radio broadcaster Premakeerthi de Alwis on 31 July, 1989 – 36 years ago, and the series of true events connected to it, compiled through in-depth research. This 256-page book contains 168 photographs.
+
+During this said period, around 60,000 people were killed, including 17 artists with Premakeerthi amongst them. This latest release is the fourth book of Dharman Wickramaratne’s series on the JVP’s second insurrection, and it is also his 55th publication.
+
+...
+
+[Data](articles/f1002478.json)
+
+---
+
+### President’s Fund to expand assistance for differently-abled persons
+
+*2025-08-26 03:50:40* · [`dailyftlk`](https://www.ft.lk/news/President-s-Fund-to-expand-assistance-for-differently-abled-persons/56-780784) · `en`
+
+The President’s Fund will expand assistance programs for differently-abled persons, the Presidential Secretariat said last Friday.
+
+A discussion was held last week at the Presidential Secretariat between Secretary to the President Dr. Nandika Sanath Kumanayake and National Secretariat for Persons with Disabilities officials to establish a more structured mechanism for providing assistance to the disabled community.
+
+The meeting focused on expanding and systematising the services provided through the President’s Fund for persons with disabilities, as well as the execution of programs in partnership with the National Secretariat for Persons with Disabilities. Key areas of attention included increasing support allowances, providing essential equipment to empower differently-abled persons, supporting the continuous education of their children, and offering special educational assistance to differently-abled children.
+
+...
+
+[Data](articles/6cad50a8.json)
+
+---
+
+### New IGP calls on Defence Secretary
+
+*2025-08-26 03:50:06* · [`dailyftlk`](https://www.ft.lk/news/New-IGP-calls-on-Defence-Secretary/56-780783) · `en`
+
+Newly appointed Inspector General of Police (IGP) Priyantha Weerasooriya yesterday paid a courtesy call on Defence Secretary Air Vice Marshal (Retd.) Sampath Thuyacontha at the Defence Ministry.
+
+Weerasooriya, who assumed duties as the 37th IGP of Sri Lanka, was warmly received by the Defence Secretary. During the cordial meeting, both officials discussed matters of mutual interest, focusing on national security and inter-agency coordination in maintaining law and order.
+
+The Defence Secretary congratulated the new IGP on his appointment and expressed his confidence in strengthening the collaborative efforts between the Defence Ministry and the Sri Lanka Police.
+
+This meeting underscored the importance of continued cooperation between security institutions to address emerging challenges and uphold public safety across the country.
+
+◼️
+
+[Data](articles/da1e23e1.json)
+
+---
+
+### India bans all forms of paid online games
+
+*2025-08-26 03:49:17* · [`dailyftlk`](https://www.ft.lk/news/India-bans-all-forms-of-paid-online-games/56-780782) · `en`
+
+The Indian Parliament has passed the Promotion and Regulation of Online Gaming Bill, 2025, which bans all forms of paid online games such as fantasy sports, rummy, and poker. Following the passing of the Bill, several gaming platforms announced suspension of their paid offerings.
+
+WinZO said: “In compliance with the new law, we are responsibly withdrawing impacted offerings with effect from 22 August 2025.” The company added that it does not plan to downsize its workforce and will redeploy employees towards other focus areas, such as social gaming.
+
+Mobile Premier League (MPL) also announced the suspension of money-based games. In a LinkedIn post, it said: “Effective immediately [Thursday], we are suspending all gaming offerings involving money on the MPL platform in India. Online money games will not be available on the MPL platform anymore.”
+
+Dream11 too has announced that it will shut down operations in the wake of the ban.
+
+...
+
+[Data](articles/d1d8612c.json)
+
+---
 
 ### இராணுவ முகாம்களை அகற்றக்கோரி ஆர்ப்பாட்டம்
 
@@ -1721,87 +1805,5 @@ As such, court scheduled the hearing of the appeals for November 6.
 ...
 
 [Data](articles/14d0f441.json)
-
----
-
-### ’’நான் இராஜினாமா செய்யவில்லை’’
-
-*2025-08-25 13:57:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-இராஜினாமா-செய்யவில்லை/175-363454) · `ta`
-
-தேசிய மக்கள் சக்தி  அரசாங்கத்திலிருந்து இராஜினாமா செய்யவுள்ளதாக வெளியாகும் தகவல்கள் அடிப்படையற்றவை என்பதுடன் அவை பொய்யானவை என‌ மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் தெரிவித்துள்ளார்
-
-◼️
-
-[Data](articles/212cc921.json)
-
----
-
-### இந்தியாவில் இருந்து கடல் மார்க்கமாக தலைமன்னார் வந்த குடும்பஸ்தர் மீது கடற்படையினர் கொடூர தாக்குதல் - யாழ். வைத்தியசாலையில் அனுமதி
-
-*2025-08-25 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/223311) · `ta`
-
-இந்தியாவில் இருந்து கடந்த 18 வருடங்களின் பின்னர் கடல் மார்க்கமாக தலைமன்னார் பகுதிக்கு படகில் வருகை தந்த குடும்பஸ்தர் ஒருவர் மீது கடற்படையினர் கடுமையாக தாக்கிய நிலையில் குறித்த குடும்பஸ்தர் யாழ்ப்பாணம் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிய வருகிறது.
-
-முல்லைத்தீவு உடையார் கட்டு பகுதியைச் சேர்ந்த தங்கையா டேவிட் பாலேந்திரன் என்ற இளம் குடும்பஸ்தர் 2007 ஆம் ஆண்டில் தனது 18 வது வயதில் கடல் மார்க்கமாக இந்தியா சென்றுள்ளார்.பின்னர் கடந்த 18 வருடங்களாக இந்தியாவில் வசித்து வந்த நிலையில் மீண்டும் தாயகம் திரும்ப முயற்சித்துள்ளார்.
-
-இந்நிலையில் கடந்த 22 ஆம் திகதி இந்தியாவில் இருந்து கடல் மார்க்கமாக படகு ஒன்றில் தலைமன்னார் பகுதியை நோக்கி வந்துள்ளார்.
-
-40 வயதுடைய குறித்த குடும்பஸ்தருக்கு இதய நோய் காணப்படுகின்ற நிலையில் அதற்கான மருத்துவ அறிக்கைகளையும் தன் வசம் எடுத்து வந்துள்ளார். எனினும் தலைமன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்ற கடற்படையினர் நோயாளியான குறித்த குடும்பஸ்தரை கண்மூடித்தனமாக தாக்கியுள்ளர்.
-
-...
-
-[Data](articles/4606196a.json)
-
----
-
-### EXPLAINER – Sri Lanka’s ex-president Wickremesinghe’s unprecedented arrest
-
-*2025-08-25 13:55:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-ex-president-wickremesinghes-unprecedented-arrest-238212/) · `en`
-
-ECONOMYNEXT – The arrest of former President Ranil Wickremesinghe is one of the most consequential developments in Sri Lanka’s post-independence political history.
-
-For decades, Wickremesinghe symbolized continuity in the country’s politics, navigating crises, shaping economic policy, and representing Sri Lanka on the global stage.
-
-His sudden arrest not only raises questions about the direction of Sri Lanka’s politics, but also tests the strength of its constitutional framework, which has often been manipulated for short-term political gains.
-
-This explainer unpacks the meaning of his arrest, exploring the political ramifications, institutional consequences, and the constitutional challenges that are likely to arise.
-
-...
-
-[Data](articles/ecc3364a.json)
-
----
-
-### විද්‍යා ඝාතන සිද්ධියේ විත්තිකරුවන්ගේ අභියාචනා විභාගයට දින දෙයි
-
-*2025-08-25 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213772) · `si`
-
-2015 වසරේ මහත් ආන්දෝලනයකට දුන් යාපනයේ සිවලෝගනාදන් විද්‍යා නමැති පාසල් දැරියක් පැහැර ගෙන ගොස් දූෂණය කර මරා දැමීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු වී මරණය දණ්ඩනය නියම වී සිටින විත්තිකරුවන් විසින් ඉදිරිපත් කර තිබෙන අභියාචනා විභාග කිරීම සඳහා නොවැම්බර් මස 06 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කර තිබේ.
-
-ප්‍රීති පද්මන් සුරසේන, අචල වෙංගප්පුලි සහ  සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම අභියාචනා කැඳවනු ලැබීය.
-
-මෙහිදී  විත්තිකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුකරයට අදාළ දෙමළ භාෂා පරිවර්තන ලබා ගැනීම සඳහා වසර හතර හමාරකට වැඩි කාලයක් ගත වූ බව පෙන්වා දුන්නේය.
-
-ඒ අනුව මෙම අභියාචනා විභාගය සඳහා කෙටි දිනයක් ලබාදෙන ලෙස විත්තියේ නීතිඥවරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
-
-මෙහිදී අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා සඳහන් කළේ, මෙම අභියාචනා කඩිනමින් විභාග කිරීම සඳහා කෙටි දිනයක් ලබාදෙන බවය.
-
-ඒ අනුව අදාළ අභියාචනා විභාගය සඳහා නොවැම්බර් මස 6 වන දා කැඳවන ලෙසත් විනිසුරු මඩුල්ල නියම කළේය.
-
-...
-
-[Data](articles/c0ca9e45.json)
-
----
-
-### பிரிட்டனின் தீர்மானத்துக்கு ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் வரவேற்பு
-
-*2025-08-25 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223308) · `ta`
-
-அபிவிருத்தி அடைந்துவரும் நாடுகளுக்கான வணிகத் திட்டத்தின்(DCTS) கீழ், இலங்கையிலிருந்து பிரிட்டனுக்கு ஏற்றுமதி செய்யப்படும் ஆடைகளுக்கான வணிக விதிகளை தளர்த்துவது குறித்த பிரிட்டனின் அறிவிப்பு தொடர்பில் ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் தங்களின் மகிழ்ச்சியைத் தெரிவித்துள்ளது. இத்திட்டம் 2026 ஆம் ஆண்டு முதல் நடைமுறைக்கு வரவுள்ளமை குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/2ccef497.json)
 
 ---

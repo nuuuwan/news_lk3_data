@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 13:32:09**
+As of **2025-08-25 13:52:26**
 
 ## Newspaper Stats
 
-*Scraped **72,198** Articles*
+*Scraped **72,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,934
 adaderanalk | 9,119
 tamilmirrorlk | 10,683
 virakesarilk | 11,886
-adaderanasinhalalk | 12,509
+adaderanasinhalalk | 12,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,198 articles have been extended.
+61,973 (85.8%) of 72,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### රනිල්ගේ සෞඛ්‍ය තත්ත්වය ගැන වැඩබලන අධ්‍යක්ෂකගෙන් ප්‍රකාශයක්
+
+*2025-08-25 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213771) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ තත්ත්වය යම්තාක් දුරට සතුටුදායක මට්ටමකට පැමිණ ඇති බව කොළඹ ජාතික රෝහලේ වැඩබලන අධ්‍යක්ෂ වෛද්‍ය ප්‍රදීප් විජේසිංහ පවසයි.
+
+දැඩි සත්කාර ඒකකයේ සිටින විශේෂඥ වෛද්‍යවරු හිටපු ජනාධිපතිවරයා පිළිබඳව දැඩි අධීක්ෂණයෙන් සිටින බවත් මේ වන විට සතුටුදායක මට්ටමක සිටියද ඔහුගේ තත්ත්වය වෙනස් විය හැකි බවත් වෛද්‍යවරයා මෙහිදී පැවසුවේය.
+
+කෙසේ වෙතත් වෛද්‍ය ප්‍රදීප් විජේසිංහ වැඩිදුරටත් සඳහන් කළේ හෙට දිනයේ දී ඔහුට උසාවිය ඉදිරියේ පෙනී සිටීමේ හැකියාව පවතීන යන්න පිළිබඳව අද පස්වරුවේ වෛද්‍යවරුන්ගේ සාකච්ඡාවෙන් පසුව තීරණය කරන බවය.
+
+එහිදී අදහස් දැක්වූ කොළඹ ජාතික රෝහලේ වැඩබලන අධ්‍යක්ෂ වෛද්‍ය ප්‍රදීප් විජේසිංහ මහතා,
+
+...
+
+[Data](articles/93c68857.json)
+
+---
 
 ### ரணிலை பார்வையிட்டார் ஹரினி
 
@@ -1729,19 +1747,5 @@ The new vehicles are engineered to meet the country’s diverse cargo and passen
 ...
 
 [Data](articles/6693b4a6.json)
-
----
-
-### Royal Nursing Home’s chairman recognised with three Gold awards for social services
-
-*2025-08-24 21:38:00* · [`islandlk`](http://island.lk/royal-nursing-homes-chairman-recognised-with-three-gold-awards-for-social-services/) · `en`
-
-The Club Awarding Ceremony organized by Lions Clubs International District 306 was held recently in a prestigious manner at the Royal Colombo Golf Club. The Chief Guest at the event was Prime Minister’s Secretary, Lion. Pradeep Saputhanthri along with District 306 D6 Chairman Lion. Ayesh De Silva. During the event, in recognition of the social service contributions made through the Lions organization from 2021 to 2025, Lion. Manuja Hewawasam, the Chairman of Royal Nursing Home (Pvt) Ltd, was honored with three Gold Awards: Most Supportive & Outstanding Lion Leader Award 2021–2025, Highest Financial Sponsorships Award 2021–2025, Service Excellence Award 2021–2025. Lion. Manuja Hewawasam has generously made significant financial donations towards Buddhist religious activities, including temple renovations and new constructions. He has also greatly contributed to social welfare initiatives.
-
-Industry observers highlight BYD’s potential in Sri Lanka’s evolving EV market
-
-...
-
-[Data](articles/02f6e6ab.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 23:31:56**
+As of **2025-08-25 23:51:48**
 
 ## Newspaper Stats
 
-*Scraped **72,299** Articles*
+*Scraped **72,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,948
-adaderanalk | 9,149
+adaderanalk | 9,150
 tamilmirrorlk | 10,700
 virakesarilk | 11,902
 adaderanasinhalalk | 12,525
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,299 articles have been extended.
+61,973 (85.7%) of 72,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### BASL warns against social media interference with judiciary
+
+*2025-08-25 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111841/basl-warns-against-social-media-interference-with-judiciary) · `en`
+
+The Bar Association of Sri Lanka (BASL) has issued a statement regarding comments seen on social media and other platforms concerning matters that fall within the purview of the Judicial Service Commission and the Judiciary.
+
+Issuing a statement in this regard, the BASL noted that in the past week, several comments have been made on social media and other platforms pertaining to such matters. Both the Judicial Service Commission and the Judiciary are independent institutions, it said.
+
+The statement pointed out that the Judicial Service Commission is a Commission consisting of the Chief Justice and two Senior Judges of the Supreme Court, which holds responsibility in relation to the transfer of judges of the High Court, as well as for the appointment, promotion, transfer, disciplinary control, and dismissal of judicial officers and relevant scheduled public officers.
+
+...
+
+[Data](articles/7f2517bf.json)
+
+---
 
 ### මිනිස් මාංශ පණපිටින් බුදින පණුවෙක්
 
@@ -1825,27 +1841,5 @@ Having considered the facts presented, the bench directed the accused to present
 ...
 
 [Data](articles/6ae6940d.json)
-
----
-
-### Sri Lanka average coconut prices rise 0.3-pct
-
-*2025-08-25 12:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-average-coconut-prices-rise-0-3-pct-238200/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices climbed 0.3 percent at a weekly auction, Coconut Development Authority data showed.
-
-The average price for 1,000 nuts was 134,068.09 rupees on August 21.
-
-“The highest and the lowest price for a nut was not declared,” CDA officials told EconomyNext.
-
-The number of nuts offered dipped to 551,525 from 658,480 a week earlier, while nuts sold fell to 519,803 from 582,000.
-
-In the local market, the wholesale price for a large nut was 170-180 rupees, while small nuts were 150-160 a piece on August 21.
-
-Local wholesale prices of coconut oil were 900,000 to 920,000 rupees per metric ton. (Colombo/Aug25/2025)
-
-◼️
-
-[Data](articles/639eff44.json)
 
 ---

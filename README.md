@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 13:18:58**
+As of **2025-08-25 13:32:09**
 
 ## Newspaper Stats
 
-*Scraped **72,197** Articles*
+*Scraped **72,198** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 613
+dbsjeyarajcom | 614
 bbccomsinhala | 677
 colombotelegraphcom | 739
 economynextcom | 4,410
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,509
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,197 articles have been extended.
+61,973 (85.8%) of 72,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1366,6 +1366,34 @@ Speaking at the event, Arcade of Aluminium Ltd., Managing Director Heshan Padukk
 
 ---
 
+### ITAK  Launches Half-day Hartal  in North-East Over Alleged Killing of Tamil Youth by Army and Excessive Military Presence Amidst Civilian Habitats.
+
+*2025-08-25 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86325) · `en`
+
+“Hartal” is a word that entered the political discourse of countries like  India , Sri Lanka  and Malaysia during British rule. The Gujarati word  was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A Hartal denotes  a total shutdown of workplaces, offices, shops, schools,transport services  and courts of law. The  Gandhi-led Indian National Congress often resorted to such  civil disobedience protests  in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati  word Hartal to describe the  mass protests resulting in stoppages of work and shutting  down of business activity.
+
+The term Hartal was  first introduced to Sri Lanka known formerly as Ceylon by organizations and  Trade unions representing the Plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “Hartal”shutdown.
+
+...
+
+[Data](articles/edc1f230.json)
+
+---
+
+### When a President travels whether to Anuradhapura  to see his mother , or to London  to accompany his spouse , does the law expect the head of state to discard the security trappings of that office?
+
+*2025-08-25 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86335) · `en`
+
+The National Peoples’ Power (NPP) Government may well have achieved the impossible by a clumsily handled arrest and remanding of former Executive President of Sri Lanka Ranil Wickremesinghe this Friday (August 22nd 2025) over alleged misuse of public property in expending LKR 16.6 million on a ‘diversionary’ transit in the United Kingdom while returning from state visits to the United States and Cuba as a sitting President at the time.
+
+That diversion was to attend the conferral of an honorary professorship on the former President’s spouse by a (somewhat less distinguished) British university with some of the expended costs during this one and a half day transit reportedly going towards supporting security and personal staff. Some have yawned that this is a meaningless controversy when measured against grand political corruption in Sri Lanka.
+
+...
+
+[Data](articles/c7af7b59.json)
+
+---
+
 ### மருத்துவர்களின் இடமாற்ற முறைகேடுகள் காரணமாக அரச மருத்துவர்கள் இன்று பணிப்புறக்கணிப்பு போராட்டம்
 
 *2025-08-25 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/223281) · `ta`
@@ -1397,20 +1425,6 @@ Speaking at the event, Arcade of Aluminium Ltd., Managing Director Heshan Padukk
 ...
 
 [Data](articles/ed3fb2c2.json)
-
----
-
-### ITAK  Launches Half-day Hartal  in North-East Over Alleged Killing of Tamil Youth by Army and Excessive Military Presence Amidst Civilian Habitats.
-
-*2025-08-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86325) · `en`
-
-“Hartal” is a word that entered the political discourse of countries like  India , Sri Lanka  and Malaysia during British rule. The Gujarati word  was popularised by Mahatma Gandhi during the Indian freedom struggle in the 20th century. A Hartal denotes  a total shutdown of workplaces, offices, shops, schools,transport services  and courts of law. The  Gandhi-led Indian National Congress often resorted to such  civil disobedience protests  in their campaign for independence from Britain. The Mahatma being a Gujarati himself used the Gujarati  word Hartal to describe the  mass protests resulting in stoppages of work and shutting  down of business activity.
-
-The term Hartal was  first introduced to Sri Lanka known formerly as Ceylon by organizations and  Trade unions representing the Plantation workers of Indian descent in the hill country areas. Strike action was often coupled with a “Hartal”shutdown.
-
-...
-
-[Data](articles/edc1f230.json)
 
 ---
 
@@ -1729,21 +1743,5 @@ Industry observers highlight BYD’s potential in Sri Lanka’s evolving EV mark
 ...
 
 [Data](articles/02f6e6ab.json)
-
----
-
-### Tech Cargo Hub hosts strategic industry dialogue
-
-*2025-08-24 21:38:00* · [`islandlk`](http://island.lk/tech-cargo-hub-hosts-strategic-industry-dialogue/) · `en`
-
-Tech Cargo Hub (TCH), Sri Lanka’s leading digital warehousing and logistics solutions provider, hosted a high-impact industry conference on the 12th of July, to unveil its newest venture; TCH 2, a 20,000 sq. ft. smart warehouse designed to power the future of logistics in the region.
-
-Held at TCH 1, the event brought together industry leaders from freight forwarding, retail, and supply chain tech to discuss a shared challenge: how to digitalize warehousing in a market long reliant on manual processes.
-
-“Digitisation gives us the tools to make an immediate impact, even in small ways,” said Ikraam Reyaz, CEO of SFL Tech — the technology service provider and advisor for TCH — during his keynote.
-
-...
-
-[Data](articles/07d77b0e.json)
 
 ---

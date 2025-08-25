@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-25 16:23:03**
+As of **2025-08-25 16:33:35**
 
 ## Newspaper Stats
 
-*Scraped **72,243** Articles*
+*Scraped **72,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,442
 dailymirrorlk | 4,733
 dailyftlk | 5,089
 adalk | 6,938
-adaderanalk | 9,135
+adaderanalk | 9,140
 tamilmirrorlk | 10,693
-virakesarilk | 11,895
+virakesarilk | 11,896
 adaderanasinhalalk | 12,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.8%) of 72,243 articles have been extended.
+61,973 (85.8%) of 72,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-25 (Monday)
+
+### அரசாங்கத்திலிருந்து விலகுகிறாரா மேல் மாகாண ஆளுநர் ?
+
+*2025-08-25 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/223331) · `ta`
+
+மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் அரசாங்கத்திலிருந்து விலகப் போவதாக வெளியான செய்திகளை மறுத்துள்ளதுடன், அந்தச் செய்திகள் "ஆதாரமற்றவை மற்றும் பொய்யானவை" என்று தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அநுர குமார திஸாநாயக்கவின் தொலைநோக்கு மற்றும் கொள்கைகளுக்கு தனது உறுதிப்பாட்டை மீண்டும் வலியுறுத்தியுள்ளார்.
+
+"எந்த ஒரு தயக்கமும் இன்றி, நமது தேசத்தை மீண்டும் கட்டியெழுப்பும் பணியில் நான் என்னை முழுமையாக அர்ப்பணித்துள்ளேன்" என்று தெரிவித்த ஆளுநர், அரசாங்கத்தின் முயற்சிகளுடன் தான் உறுதியாக இணைந்திருப்பதாகவும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/b499ab05.json)
+
+---
 
 ### ரஷ்யாவில்  சக்திவாய்ந்த நிலநடுக்கம்
 
@@ -50,15 +66,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### SC concludes hearing of petitions against bill to revoke privileges of former Presidents
+
+*2025-08-25 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111831/sc-concludes-hearing-of-petitions-against-bill-to-revoke-privileges-of-former-presidents) · `en`
+
+The Supreme Court has concluded the hearing of petitions filed against the bill presented by the government to remove the privileges of former Presidents, and announced that its confidential determination on the constitutionality of the bill will be forwarded to the Speaker of House.
+
+After an extensive review, the order was issued by a three-judge bench of the Supreme Court comprising Chief Justice Preethi Padman Surasena, Justice Achala Wengappuli, and Justice Sampath Abeykoon.
+
+◼️
+
+[Data](articles/205dfa60.json)
+
+---
+
 ### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන්
 
 *2025-08-25 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213776) · `si`
 
 රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කරන බව නිවේදනය කළේය.
 
+දීර්ඝ කරුණු සලකා බැලීමකින් අනතුරුව අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+
+මෙම නඩුකරයට අදාළ ලිඛිත දේශනා තිබේ නම් ඒවා ලබන බ්‍රහස්පතින්දා දහවල් 12.00 පෙර ගොනුකරන ලෙසත් විනිසුරු මඩුල්ල පාර්ශවකරුවන්ට නියම කළේය.
+
+ඉන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණයේ රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකට යොමු කරන බවත් විනිසුරු මඩුල්ල සඳහන් කළේය.
+
 ◼️
 
 [Data](articles/5b435ced.json)
+
+---
+
+### Opposition heavyweights meet to deliberate ex-President Ranil’s arrest
+
+*2025-08-25 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111830/opposition-heavyweights-meet-to-deliberate-ex-president-ranils-arrest-) · `en`
+
+A group of prominent opposition politicians met today (25) to discuss the situation surrounding former President Ranil Wickremesinghe, who is currently in remand custody.
+
+The meeting was held at the Office of the Leader of the Opposition, where the attendees also deliberate on future political activities.
+
+The meeting was attended by former President Maithripala Sirisena, Members of Parliament Ravi Karunanayake, Ranjith Madduma Bandara, Kabir Hashim, Kavinda Jayawardena and Palani Thigambaram, as well as former MPs Ruwan Wijewardene, Nimal Siripala de Silva, G.L. Peiris, and Sagala Ratnayake, among other key opposition figures.
+
+Meanwhile, a number of other MPs representing the Samagi Jana Balawegaya (SJB) have also participated in the discussions.
+
+Former President Wickremesinghe, was remanded until August 26 by the Colombo Fort Magistrate’s Court after being arrested by the Criminal Investigation Department (CID) on August 22.
+
+◼️
+
+[Data](articles/65f44cb1.json)
 
 ---
 
@@ -79,6 +135,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c293d6b4.json)
+
+---
+
+### Stocks close down, ASPI drops 73.61 points
+
+*2025-08-25 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111829/stocks-close-down-aspi-drops-7361-points-) · `en`
+
+The Colombo Stock Exchange (CSE) faced a decline today (25), with the key indices recording drops at the end of trading.
+
+The All Share Price Index (ASPI) declined by 73.61 to close at 20,575.59, while the S&P SL20 Index fell by 41.51 points, ending the session at 6,048.33.
+
+Meanwhile, a turnover of Rs.4.4 billion was recorded during the day.
+
+◼️
+
+[Data](articles/a4363773.json)
 
 ---
 
@@ -122,6 +194,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ex-State Minister Prasanna Ranaweera further remanded
+
+*2025-08-25 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111828/ex-state-minister-prasanna-ranaweera-further-remanded) · `en`
+
+Former State Minister Prasanna Ranaweera, who was arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents, has been further remanded.
+
+When the case was heard before Mahara Magistrate Janitha Perera, an order was issued to further remand Prasanna Ranaweera until September 8, Ada Derana reporter said.
+
+Additionally, former Kelaniya Pradeshiya Sabha member Milroy Perera and Sarath Kumar also known as ‘Singapore Sarath’ were also remanded until September 8.
+
+As the case was heard via Skype, former State Minister Prasanna Ranaweera and Milroy Perera were not physically produced in court. Only Sarath Kumara appeared in person before court, Ada Derana reporter said.
+
+Ranaweera and four others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
+
+◼️
+
+[Data](articles/a1f9ca46.json)
+
+---
+
 ### டயானா கமகேக்கு பிணை
 
 *2025-08-25 15:24:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானா-கமகேக்கு-பிணை/175-363460) · `ta`
@@ -137,6 +229,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1801b4e9.json)
+
+---
+
+### Former State Minister Diana Gamage appears before court
+
+*2025-08-25 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111827/former-state-minister-diana-gamage-appears-before-court) · `en`
+
+Former State Minister Diana Gamage has appeared before court through her lawyers after a warrant was issued for her arrest, Ada Derana reporter said.
+
+She appeared before Colombo Chief Magistrate Asanga S. Bodaragama and subsequently was released on bail.
+
+She was released on a surety bail amounting to Rs. 10 million.
+
+The warrants had been issued after Gamage failed to appear in court when seven cases filed against her were taken up previously.
+
+Among the cases filed against her include the charge of remaining in Sri Lanka without a valid visa.
+
+◼️
+
+[Data](articles/5bf8418c.json)
 
 ---
 
@@ -1705,109 +1817,5 @@ In addition, the longstanding issue faced by the people of Jaffna in obtaining p
 ◼️
 
 [Data](articles/1aa9406c.json)
-
----
-
-### NTC to introduce unified timetable for long-distance bus services
-
-*2025-08-25 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111801/ntc-to-introduce-unified-timetable-for-long-distance-bus-services) · `en`
-
-The National Transport Commission (NTC) has decided to operate long-distance passenger transport buses, both by the Sri Lanka Transport Board (SLTB) and private companies, under a unified timetable.
-
-These buses will operate on the following routes under the unified timetable system,
-
-Colombo - Chilaw, Colombo - Puttalam, Colombo - Anamaduwa, Colombo - Eluwankulama, Colombo - Kalpitiya, Negombo - Kalpitiya, Colombo - Mannar, Colombo - Talaimannar, Colombo - Kuliyapitiya, Colombo - Nikaweratiya, Colombo - Anuradhapura, Colombo - Vavuniya, Colombo - Kilinochchi, Colombo - Jaffna, Colombo - Kankesanturai, Colombo - Karainagar, and Colombo - Thunukkai.
-
-Accordingly, the Chairman of the National Transport Commission (NTC), Eng. P.A. Chandrapala, stated that these bus routes will commence at midnight today (25) from the Bastiyan Mawatha Private Bus Stand.
-
-He also mentioned that after a four-and-a-half-hour drive, provisions will be made for the bus driver to rest at a designated location.
-
-...
-
-[Data](articles/c2df3b16.json)
-
----
-
-### වැල්ලම්පිටියේ වෙඩි තැබීමක්
-
-*2025-08-25 08:09:42* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලම්පිටියේ-වෙඩි-තැබීමක්/11-418043) · `si`
-
-වැල්ලම්පිටිය, කිත්තම්පහුව ප්‍ර දේශයේදී අද අලුයම ලැගුම්හලකදී වෙඩි තැබීමක් සිදුව ඇති බවට වැල්ලම්පිටිය පොලීසිය පවසයි.
-
-ලැගුම්හලේ නවාතැන්ගෙන සිටි පුද්ගලයෙක් ඉලක්ක කරගෙන මෙම වෙඩි තැබීම සිදුකර තිබේ. සැකකරුවන් යතුරු පැදියකින් පැමිණි ඇති අතර වෙඩි තැබීම ඳසහා පිස්තෝල අවියක් භාවිත කර තිබේ.
-
-◼️
-
-[Data](articles/092acda7.json)
-
----
-
-### රජයේ මහා පරිමාණ සංවර්ධන ව්‍යාපෘති සැප්තැම්බර් පළමු වැනිදා සිට - බිමල්
-
-*2025-08-25 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213758) · `si`
-
-රජය ක්‍රියාත්මක කරන මහා පරිමාණ සංවර්ධන ව්‍යාපෘති එලඹෙන සැප්තැම්බර් මාසයේ සිට ආරම්භ කරන බව අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
-
-අමාත්‍යවරයා පැවසුවේ එහි පළමු අදියර ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් යාපනයෙන් ආරම්භ කරන බවය.
-
-එමෙන්ම සැප්තැම්බර් දෙවැනි දින වන්නි ප්‍රදේශයේ මුලතිව් ප්‍රදේශය කේන්ද්‍ර කරගනිමින් උතුරු පළාතේ නව පොල් ත්‍රිකෝණයේ සංවර්ධන කටයුතුත් ආරම්භ කරන බව අමාත්‍යවරයා පැවසීය.
-
-"ආණ්ඩුවේ මේ අවුරුද්ද වෙනුවෙන් විශේෂයෙන් ජනතාව වෙනුවෙන් විශාල ප්‍රමාණයේ සංවර්ධන ව්‍යාපෘති ආරම්භ කිරීම සැප්තැම්බර් මාසේ පළවෙනිදා ඉඳලාම ක්‍රියාත්මක කරනවා... එහිදී යාපනයේ මන්ඩතිව් ප්‍රදේශයේ ජාත්‍යන්තර ක්‍රීඩා සංකීර්ණයක් ආරම්භ කිරීම ඒ වගේම යාපනයේ කච්චේරිය තුළ පාස්පෝට් ලබා ගැනීම සඳහා යාපනයේ ජනතාවට අතිවිශාල ගැටළුවක් වශයෙන් තිබුණා ඒක විසඳලා ඔන්ලයින් ක්‍රමවේදයෙන් ඒ පහසුකම ලබා දෙන්න ඇතුළු සංවර්ධන කටයුතු රාශ්‍රියක් ආරම්භ කරන්න බලාපොරොත්තු වෙනවා"
-
-◼️
-
-[Data](articles/33c8f2af.json)
-
----
-
-### කොරියා රැකියා සිහින පෙන්වා රු. කෝටි 15ක් වංචාකළ සැකකරුවෙක් අල්ලයි
-
-*2025-08-25 08:05:02* · [`adalk`](https://www.ada.lk/breaking_news/කොරියා-රැකියා-සිහින-පෙන්වා-රු--කෝටි-15ක්-වංචාකළ-සැකකරුවෙක්-අල්ලයි/11-418042) · `si`
-
-කොරියාවේ රැකියා ලබාදෙන බව පවසා පුද්ගලයන් 150කගෙන් පමණ රුපියල් කෝටි 15කට අධික මුදලක් වංචා කළ සැකකරුවෙක් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය  ප්‍රකාශක කාර්යාලය කියයි. සැකකරු කොළඹ 15 ප්‍ර දේශයේ පදිංචි 41 හැවැරිදි පුද්ගලයෙකි.
-
-සැකකරු තාරේකුලම් ප්‍ර දේශයේදී කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන ඒකකයේ කණ්ඩායමක් විසින් ඊයේ උදෑසන අත්අඩංගුවට ගන තිබේ.සැකකරුත් සමග ජීප් රථයක්, ඉඩමකට අදාළ ඇටෝනි බලපත්‍රයක් හා ජගම දුරකතන දෙකක් පොලිස් භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/3c93481f.json)
-
----
-
-### விபத்தில் குடும்பஸ்தர் உயிரிழப்பு
-
-*2025-08-25 07:48:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-உயிரிழப்பு/175-363427) · `ta`
-
-வவுனியா, கனகராயன்குளம் - கொல்லர்புளியங்குளம் பகுதியில் நேற்று இடம்பெற்ற விபத்தில் சைக்கிளில் பயணித்த ஒருவர் பரிதாபகரமாக உயிரிழந்துள்ளார்.
-
-யாழ்ப்பாணத்தில் இருந்து வவுனியா நோக்கி வந்து கொண்டிருந்த கென்ரர் ரக வாகனம் கொல்லர்புளியங்குளம் பகுதியில் சென்று கொண்டிருந்த போது எதிரே சைக்கிளில் பயணித்த நபருடன் மோதி விபத்துக்குள்ளாகியது.
-
-இந்த விபத்தில் சைக்கிளில் பயணித்த நபர் படுகாயமடைந்த நிலையில் மாங்குளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டார். எனினும், அவர் சிகிச்சை பலனின்றி உயிரிழந்தார்
-
-சம்பவத்தில் அதே பகுதியைச் சேர்ந்த முத்து இராமலிங்கம் (வயது 61) என்ற குடும்பஸ்தரே சாவடைந்தார்.
-
-◼️
-
-[Data](articles/0225d7f2.json)
-
----
-
-### විදෙස් රැකියා ලබා දෙන බව පවසා මුදල් වංචා කළ අයෙකු අත්අඩංගුවට
-
-*2025-08-25 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213757) · `si`
-
-විදෙස් රැකියා ලබා දෙන බවට පවසා මුදල් වංචා කළ සැකකරුවෙකු තාරේකුලම් ප්‍රදේශයේදී කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 41ක් වන කොළඹ 15 ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මෙම සැකකරු කොරියාවේ රැකියා ලබාදෙන බවට පවසා පුද්ගලයින් 150 දෙනෙකුගෙන් රුපියල් කෝටි 15කට අධික මුදලක් වංචා කර ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
-
-අදාළ පුද්ගලයා ළඟ තිබී ජීප් රථයක්, ඉඩමක ඇටෝනි බලපත්‍රයක් හා ජංගම දුරකථන දෙකක් ද පොලිසිය සිය භාරයට ගෙන තිබේ.
-
-කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/f64b9949.json)
 
 ---

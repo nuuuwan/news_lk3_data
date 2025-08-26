@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 20:07:34**
+As of **2025-08-26 20:20:49**
 
 ## Newspaper Stats
 
-*Scraped **72,511** Articles*
+*Scraped **72,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,971
-adaderanalk | 9,184
+adaderanalk | 9,187
 tamilmirrorlk | 10,751
-virakesarilk | 11,925
+virakesarilk | 11,927
 adaderanasinhalalk | 12,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,511 articles have been extended.
+61,973 (85.5%) of 72,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### பிணையில் விடுதலையானார் ரணில் !
+
+*2025-08-26 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/223425) · `ta`
+
+குற்றப்புலனாய்வுத் திணைக்களத்தினரால் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சற்றுமுன்னர் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+இதேவேளை கடந்த 22 ஆம் திகதி அரச நிதியை தவறாகப் பயன்படுத்தியதாக குற்றப்புலனாய்வுத் திணைக்களத்தினரால் கைதுசெய்யப்பட்டு இன்று வரை விளக்கமறியலில் வைக்கப்பட்டிருந்த நிலையிலேயே கொழும்பு கோட்டை நீதிவான் நீதிமன்றால் பிணையில் விடுதலை செய்யப்பட்டுள்ளார்.
+
+நோய் நிலைமையை கருத்திலெடுத்த கொழும்பு கோட்டை நீதிவான் நீதிமன்றம் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பிணை வழங்கியுள்ளது.
+
+பொது சொத்து சட்டத்தின் கீழ் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு இன்று செவ்வாய்க்கிழமை (26) கொழும்பு கோட்டை நீதிவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டுள்ளது.
+
+இந்த வழக்கு கொழும்பு கோட்டை நீதவான் திருமதி நிலுபுலி லங்காபுர முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இதன்போது, குற்றப் புலனாய்வுத் பிரிவிலிருந்து சொலிசிட்டர் ஜெனரல் திலீப பீரிஸ் ஆஜரானார்.
+
+...
+
+[Data](articles/00b31da9.json)
+
+---
+
+### சம்பூர் பகுதியில் மனித எச்சங்களை ஸ்கான் இயந்திரம் கொண்டு ஆய்வு செய்வதற்காக பட்ஜட் மன்றில் சமர்ப்பிப்பு
+
+*2025-08-26 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/223437) · `ta`
+
+சம்பூர் பகுதியில் மேலதிக மனித எச்சங்கள் தொடர்பில் ஸ்கான் இயந்திரம் கொண்டு ஆய்வு செய்வதற்காக சம்பூர் பொலிஸாரினால் இன்று செவ்வாய்க்கிழமை (26) பட்ஜட் சமர்ப்பிக்கப்பட்டதுடன், மாகாண மேல் நீதிமன்ற அனுமதியுடன் மேலதிக நடவடிக்கைக்காக குறித்த வழக்கானது செப்டெம்பர் மாதம் 2ஆம் திகதிக்கு தவணையிடப்பட்டுள்ளது.
+
+திருகோணமலை சம்பூர் பகுதியில் மனித எச்சங்கள் மீட்கப்பட்ட விடயம் தொடர்பான வழக்கானது மூதூர் நீதிமன்ற நீதிபதி திருமதி. தஸ்னீம் பௌசான் முன்னிலையில் இன்றைய தினம்  விசாரனைக்காக எடுத்துக் கொள்ளப்பட்டது.
+
+இதன்போது குறித்த பகுதியில் மேலதிக மனித எச்சங்கள் தொடர்பில் ஆராய்வதற்காக  சம்பூர் பொலிஸ் பொறுப்பதிகாரியினால் உத்திதேச பட்ஜட் ஒன்று தாக்கல் செய்யப்பட்டது.
+
+குறித்த பகுதியில் தொல்பொருள் திணைக்களத்திடம் இருக்கின்ற ஜி.பி.ஆர் என்ற ஸ்கான் இயந்திரத்தை கொண்டு குறித்த பகுதியில் மேலும் மனித எச்சங்கள் இருக்கின்றனவா என்பதை ஆய்வு செய்வதற்காக சட்ட வைத்திய அதிகாரி, தொல்லியல் திணைக்களம் ஆகியவற்றின் ஊடாக காணாமல் போனோர் அலுவலகத்தினால் ஒப்பமிடப்பட்டு குறித்த உத்தேச பட்ஜட் ஆனது தாக்கல் செய்யப்பட்டுள்ளதாகவும்,
+
+...
+
+[Data](articles/1ab7acb2.json)
+
+---
 
 ### රනිල්ට ඇප දුන් නඩු තීන්දුවේ සම්පූර්ණ විස්තරය මෙන්න
 
@@ -51,6 +89,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4c52bc9d.json)
+
+---
+
+### Case against ex-President Ranil to be heard in October
+
+*2025-08-26 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111878/case-against-ex-president-ranil-to-be-heard-in-october) · `en`
+
+The case filed against former President Ranil Wickremesinghe over the alleged misuse of state funds will be taken up again on October 29.
+
+Former President Wickremesinghe, who was arrested and remanded on Friday (22), was granted bail today (26).
+
+Wickremesinghe was ordered to be released on three surety bails of Rs. 5 million each by Colombo Fort Magistrate Nilupuli Lankapura.
+
+Former President Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
+
+◼️
+
+[Data](articles/f23e9d2a.json)
 
 ---
 
@@ -85,6 +141,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/30035184.json)
+
+---
+
+### Ex-President Ranil to remain in hospital for few days
+
+*2025-08-26 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111877/ex-president-ranil-to-remain-in-hospital-for-few-days-) · `en`
+
+Former President Ranil Wickremesinghe, who was granted bail by the Colombo Fort Magistrate’s Court today (26), will remain at the Colombo National Hospital for a few more days to continue receiving treatment, according to his office.
+
+Issuing a statement, the former President’s Office expressed its gratitude to all parties who have contributed to the broad protest movement themed “Let’s Defeat the Constitutional Dictatorship” since the former president’s arrest.
+
+The statement also noted that former President Wickremesinghe is expected to deliver an address to all parties after completing his medical treatment.
+
+◼️
+
+[Data](articles/163237e0.json)
 
 ---
 
@@ -206,6 +278,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### UNP leaders express gratitude for support of former President Ranil
+
+*2025-08-26 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111876/unp-leaders-express-gratitude-for-support-of-former-president-ranil) · `en`
+
+United National Party (UNP) Assistant Leader and former minister Akila Viraj Kariyawasam expressed his gratitude on behalf of the UNP to everyone who worked tirelessly during the period following the arrest of former President Ranil Wickremesinghe.
+
+He also extended his appreciation to the more than 500 attorneys and the large crowds that came out in support of the former President.
+
+Speaking further on this, he added, “On behalf of the UNP and other parties, I would like to thank all those who worked with dedication. More than five hundred lawyers came, and a large crowd gathered today. I think we should express our gratitude to all of them. And we should also say one thing, we expected the independence of this judiciary.”
+
+He further noted that they stood by former President Ranil Wickremesinghe because he was wronged, and that they are not politicians who fight for corruption, fraud, and theft.
+
+...
+
+[Data](articles/def478f2.json)
+
+---
+
 ### පළාත් පාලන ආයතනවලට බරවාහන අලුතින් මිලදී ගැනීමට තීරණයක්
 
 *2025-08-26 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213823) · `si`
@@ -237,6 +327,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d39cfc3f.json)
+
+---
+
+### முத்தையன்கட்டு இளைஞனின் மரணம் ; 04  இராணுவத்தினருக்கும் பிணை
+
+*2025-08-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/223435) · `ta`
+
+முத்தையன்கட்டு இளைஞனின் மரணம் தொடர்பான வழக்குடன் தொடர்புடைய நான்கு இராணுவத்தினருக்கும் இன்று செவ்வாய்க்கிழமை (26) பிணை வழங்கப்பட்டுள்ளது.
+
+முல்லைத்தீவு முத்தையன்கட்டு பகுதியில் மர்மமான முறையில் குளக்கரையில் சடலமாக மீட்கப்பட்ட இளம் குடும்பஸ்தரின் மரணம் தொடர்பில் ஒட்டிசுட்டான் பொலிஸாரால் தாக்கல் செய்யப்பட்ட வழக்கானது இன்றையதினம் முல்லைத்தீவு மாவட்ட நீதிமன்றில் வழக்கு விசாரணைக்காக எடுத்து கொள்ளப்பட்டிருந்தது.
+
+குறித்த சம்பவம் தொடர்பான வழக்கு விசாரணை கடந்த 19.08.2025 அன்று முல்லைத்தீவு மாவட்ட நீதவான் நீதிமன்றில் எடுத்துக்கொள்ளப்பட்ட போது பாதிக்கப்பட்ட இளைஞன் சார்பாக ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் உள்ளிட்ட சட்டத்தரணிகள் மன்றில் பிரசன்னமாகியுள்ள நிலையில் குறித்த வழக்கு 26.08.2025 ம் திகதிக்கு திகதியிடப்பட்டிருந்தது.
+
+இந்நிலையில் இந்த வழக்கு விசாரணை இன்று (26) முல்லைத்தீவு மாவட்ட நீதவான் நீதிமன்றில் நீதிபதி எம்.எச்.மஹ்ரூஸ் தலைமையில் எடுத்து கொள்ளப்பட்டிருந்தது. இதன்போது சட்டத்தரணி கெங்காதரன் தலைமையிலான நான்கு சட்டத்தரணிகள் உயிரிழந்த பாதிக்கப்பட்ட இளைஞர்களுக்காக நியாயங்களை முன்வைத்திருந்தனர்.
+
+...
+
+[Data](articles/ec9b461d.json)
 
 ---
 
@@ -310,6 +418,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ரணிலுக்கு நோய் நிலைமையால் உயிராபத்து : பிணையில் விடுதலை செய்யுமாறு சட்டத்தரணி அனுஜ பிரேமரத்தன மன்றில் கோரிக்கை !
+
+*2025-08-26 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/223420) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு நோய் நிலைமை அதிகரித்துள்ளதால் பாரிய உயிராபத்து ஏற்பட்டுள்ளதாகவும் அவரை பிணையில் விடுதலை செய்யுமாறும் ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன நீதிமன்றில் கோரிக்கை முன்வைத்துள்ளார்.
+
+பொது சொத்து சட்டத்தின் கீழ் விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு தற்போது கொழும்பு கோட்டை நீதிவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டுள்ளது.
+
+இந்த வழக்கு கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இதன்போது, குற்றப்புலனாய்வுத் பிரிவிலிருந்து சொலிசிட்டர் ஜெனரல் திலீப பீரிஸ் ஆஜரானார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சார்பில் ஜனாதிபதி சட்டதரணிகளான திலக் மாரப்பன, அனுஜ பிரேமரத்ன, உப்புல் ஜயசூரிய மற்றும் அலி சப்ரி ஆகியோர்  ஆஜராகியுள்ளனர்.
+
+இதன்போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தற்போதைய உடல்நிலைமைகள் தொடர்பில் நீதிமன்றில் வெளிப்படுத்திய ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன,
+
+...
+
+[Data](articles/9a2ad078.json)
+
+---
+
 ### ජාතික ආරක්ෂාව තහවුරුයි, වෙඩි තැබීම් ගැන සැකයි
 
 *2025-08-26 16:36:40* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආරක්ෂාව-තහවුරුයි--වෙඩි-තැබීම්-ගැන-සැකයි/11-418081) · `si`
@@ -323,26 +451,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a9f879ab.json)
-
----
-
-### பிணையில் விடுதலையானார் ரணில் !
-
-*2025-08-26 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/223425) · `ta`
-
-குற்றப்புலனாய்வுத் திணைக்களத்தினரால் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சற்றுமுன்னர் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
-
-இதேவேளை கடந்த 22ஆம் திகதி அரச நிதியை தவறாகப் பயன்படுத்தியதாக குற்றப்புலனாய்வுத் திணைக்களத்தினரால் கைதுசெய்யப்பட்டு இன்று வரை விளக்கமறியலில் வைக்கப்பட்டிருந்த நிலையிலேயே கொழும்பு கோட்டை நீதிவான் நீதிமன்றால் பிணையில் விடுதலை செய்யப்பட்டுள்ளார்.
-
-நோய் நிலைமையை கருத்திலெடுத்த கொழும்பு கோட்டை நீதிவான் நீதிமன்றம் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பிணை வழங்கியுள்ளது.
-
-பொது சொத்து சட்டத்தின் கீழ் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு இன்று செவ்வாய்க்கிழமை (26) கொழும்பு கோட்டை நீதிவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டுள்ளது.
-
-இந்த வழக்கு கொழும்பு கோட்டை நீதவான் திருமதி நிலுபுலி லங்காபுர முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இதன்போது, குற்றப் புலனாய்வுத் பிரிவிலிருந்து சொலிசிட்டர் ஜெனரல் திலீப பீரிஸ் ஆஜரானார்.
-
-...
-
-[Data](articles/00b31da9.json)
 
 ---
 
@@ -445,26 +553,6 @@ According to the submissions made by President’s Counsel Anuja Premaratna, thr
 ◼️
 
 [Data](articles/9d50f165.json)
-
----
-
-### ரணிலுக்கு நோய் நிலைமையால் உயிராபத்து : பிணையில் விடுதலை செய்யுமாறு சட்டத்தரணி அனுஜ பிரேமரத்தன மன்றில் கோரிக்கை !
-
-*2025-08-26 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223420) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு நோய் நிலைமை அதிகரித்துள்ளதால் பாரிய உயிராபத்து ஏற்பட்டுள்ளதாகவும் அவரை பிணையில் விடுதலை செய்யுமாறும் ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன நீதிமன்றில் கோரிக்கை முன்வைத்துள்ளார்.
-
-பொது சொத்து சட்டத்தின் கீழ் விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு தற்போது கொழும்பு கோட்டை நீதிவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டுள்ளது.
-
-இந்த வழக்கு கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இதன்போது, குற்றப்புலனாய்வுத் பிரிவிலிருந்து சொலிசிட்டர் ஜெனரல் திலீப பீரிஸ் ஆஜரானார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சார்பில் ஜனாதிபதி சட்டதரணிகளான திலக் மாரப்பன, அனுஜ பிரேமரத்ன, உப்புல் ஜயசூரிய மற்றும் அலி சப்ரி ஆகியோர்  ஆஜராகியுள்ளனர்.
-
-இதன்போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தற்போதைய உடல்நிலைமைகள் தொடர்பில் நீதிமன்றில் வெளிப்படுத்திய ஜனாதிபதி சட்டத்தரணி அனுஜ பிரேமரத்ன,
-
-...
-
-[Data](articles/9a2ad078.json)
 
 ---
 
@@ -1645,99 +1733,5 @@ Former Minister Harin Fernando was arrested in relation to heated exchange with 
 ◼️
 
 [Data](articles/cdba4111.json)
-
----
-
-### ජාතික ක්‍රීඩා සංගම් 3ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවයි
-
-*2025-08-26 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213805) · `si`
-
-මළල ක්‍රීඩා, මේස පන්දු හා ජිම්නාස්ටික් ජාතික සංගම් වල ලියාපදිංචිය තාවකාලිකව අත්හිටුවා ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
-
-ඒ අනුව ඊයේ (25) දිනයේ සිට මෙය ක්‍රියාත්මක බව අදාළ ගැසට් නිවේදනයෙන් දක්වා ඇත.
-
-මෙමගින් අදාළ සංගම් තුනෙහි පරිපාලන හා අධීක්ෂණ කටයුතු ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යංශ ලේකම්වරයා යටතට පත් කොට තිබේ.
-
-1973 අංක 25 දරණ ක්‍රීඩා පනතේ 32 හා 33 වගන්ති වලට අනුව මෙම ගැසට් නිවේදනය නිකුත් කර ඇති බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/23db16d3.json)
-
----
-
-### Special Security at Colombo National Hospital
-
-*2025-08-26 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111860/special-security-at-colombo-national-hospital) · `en`
-
-Security has been beefed up at the Colombo National Hospital and surrounding areas from this morning (26), Ada Derana reporter said.
-
-This comes after the Criminal Investigation Department (CID) arrested former President Ranil Wickremesinghe on August 22, in connection with allegations under the Public Property Act related to the misuse of state funds. He was ordered by court to be remanded until today.
-
-However, due to his medical condition, he was first admitted to the Prison Hospital on Friday. Based on medical recommendations, he was later transferred to the Intensive Care Unit (ICU) at the Colombo National Hospital the following day.
-
-As of now, the former President continues to receive treatment in the ICU of the Colombo National Hospital.
-
-Security has also been beefed up adjacent to the Colombo Fort Magistrate’s Court premises.
-
-Accordingly, Police and Special Task Force personnel have been deployed to the area.
-
-...
-
-[Data](articles/9df992f9.json)
-
----
-
-### අපනයන ආදායම වාර්තා පිට වාර්තා තබයි
-
-*2025-08-26 11:03:40* · [`adalk`](https://www.ada.lk/business/අපනයන-ආදායම-වාර්තා-පිට-වාර්තා-තබයි/7-418072) · `si`
-
-මෙරට අපනයන ආදායම් ඉතිහාසයේ නව සංධිෂ්ඨානයක් ලකුණු කරමින් මාසයක් තුළ ලබාගත් වැඩිම අපනයන ආදායම පසුගිය ජූලි මාසයේ දී වාර්තා වී ඇති බව ශ්‍රී ලංකා අපනයන සංවර්ධන මණ්ඩලය පවසයි.
-
-ජූලි මාසයේ දී අපනයන ආදායම අමෙරිකානු ඩොලර් මිලියන 1,641 දක්වා ඉහළ ගොස් තිබේ. මෙහිදී භාණ්ඩ අපනයනයෙන් ඇමෙරිකානු ඩොලර් මිලියන 1304ක් හා  සේවා අංශයේ අපනයනයෙන් අමෙරිකානු ඩොලර් මිලියන 337ක ආදායමක් වාර්තා වී තිබේ.
-
-ඇඟළුම්, තේ, පොල් ආශ්‍රිත නිෂ්පාදන සැකසු ආහාර වර්ග, ස්වර්ණාභරණ, එළවළු, පලතුරු ඇතුළු අංශවල ඉතාමත්ම කැපී පෙනෙන වර්ධනයක් මෙහිදී පෙන්වා තිබේ.
-
-අමෙරිකාව මෙම අපනයන ආදායමට වැඩි දායකත්වයක් ලබාදී ඇති අතර එම අගය  ඩොලර් මිලියන 275 ඉක්මවා ගොස් තිබේ.
-
-එසේම ජනවාරි සිට ජූලි දක්වා මාස 7ක අපනයන ආදායම අමෙරිකානු ඩොලර් බිලියන 9.89ක් වන අතර වසරක මුල් මාස 7 වාර්තා වූ වැඩිම අපනයන ආදායම ලෙසද මෙය වාර්තා අතරට එක්ව තිබේ.
-
-◼️
-
-[Data](articles/88e7e373.json)
-
----
-
-### Unified bus timetable introduced for long-distance buses operating from Colombo
-
-*2025-08-26 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111859/unified-bus-timetable-introduced-for-long-distance-buses-operating-from-colombo) · `en`
-
-The National Transport Commission (NTC) announced that the unified bus timetable service for both Sri Lanka Transport Board (SLTB) and private buses commenced at midnight yesterday (25) from the Bastian Mawatha Bus Terminal in Colombo.
-
-Deputy Minister of Transport and Highways Prasanna Gunasena stated that both SLTB and private buses are expected to operate from the same location within a specified timeframe from today.
-
-However, SLTB trade unions have expressed strong opposition to the move, stating that they will protest against the decision to operate long-distance bus services under a unified timetable involving both SLTB and private operators.
-
-Trade union members staged a protest yesterday (25) at the Colombo Central Bus Stand against the government’s decision.
-
-Meanwhile, the General Secretary of the Sri Lanka Free National Transport Workers’ Union, Bandula Ratnayake, also confirmed that their union would launch further protests against the initiative.
-
-◼️
-
-[Data](articles/1a9bf348.json)
-
----
-
-### Two police officers killed and one injured in shooting in Victoria, Australia
-
-*2025-08-26 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111858/two-police-officers-killed-and-one-injured-in-shooting-in-victoria-australia) · `en`
-
-Two police officers have been killed and another injured in a shooting at a rural property in Porepunkah in north-east Victoria, Australia.
-
-Emergency services have swarmed the scene of the incident in the regional town, 300 kilometres north-east of Melbourne, with the shooter believed to still be at large.
-
-◼️
-
-[Data](articles/dec4483c.json)
 
 ---

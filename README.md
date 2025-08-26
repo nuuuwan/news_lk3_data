@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 20:52:08**
+As of **2025-08-26 21:08:35**
 
 ## Newspaper Stats
 
-*Scraped **72,518** Articles*
+*Scraped **72,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,971
-adaderanalk | 9,187
+adaderanalk | 9,188
 tamilmirrorlk | 10,751
 virakesarilk | 11,927
-adaderanasinhalalk | 12,563
+adaderanasinhalalk | 12,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,518 articles have been extended.
+61,973 (85.5%) of 72,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### අගෝස්තු වැඩිහිටි දීමනාව හෙට
+
+*2025-08-26 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213831) · `si`
+
+සුබසාධඛ ප්‍රතිලාභ මණ්ඩලය විසින් අගෝස්තු මාසයට අදාළ අස්වැසුම ප්‍රතිලාභී පවුල්වල අවුරුදු 70ට වැඩි වැඩිහිටියන්ගේ වැඩිහිටි දීමනාව හෙට (27) බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
+
+ඒ අනුව රුපියල් දෙබිලියන නවසිය අනූතුන් මිලියන හත්සිය අනූ එක් දහසක මුදලක් ප්‍රතිලාභීන් 599,730 අතරේ බෙදා හැරීමට නියමිත බවද එම මණ්ඩලය පැවසීය.
+
+◼️
+
+[Data](articles/397cd6e4.json)
+
+---
 
 ### ආරක්ෂක අමාත්‍යාංශයේ 2026 අයවැය  පූර්ව සාකච්ඡාව ජනපති ප්‍රධානත්වයෙන්
 
@@ -85,6 +99,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/00b31da9.json)
+
+---
+
+### British HC denies claims of High Commissioner’s presence at Ranil’s court hearing
+
+*2025-08-26 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111879/british-hc-denies-claims-of-high-commissioners-presence-at-ranils-court-hearing) · `en`
+
+The British High Commission in Colombo has denied reports claiming that British High Commissioner Andrew Patrick attended the court hearing of former President Ranil Wickremesinghe today (August 26).
+
+In a post on its official ‘X’ (formerly Twitter) account, the British High Commission in Colombo stated,
+
+“Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.”
+
+It further emphasized that the public should refer only to its official ‘X’ account or the High Commissioner’s official handle for accurate updates on the activities of the High Commission and High Commissioner.
+
+◼️
+
+[Data](articles/902ab8b6.json)
 
 ---
 
@@ -1705,33 +1737,5 @@ It was also one of the venues of pre-wedding celebrations of Anant last year, th
 ...
 
 [Data](articles/427a0785.json)
-
----
-
-### හරීන්ට එරෙහි නඩුවක් කල්යයි
-
-*2025-08-26 11:22:53* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්ට-එරෙහි-නඩුවක්-කල්යයි/11-418074) · `si`
-
-මහ මැතිවරණය අවස්ථාවේ දී මැතිවරණ නීති උල්ලංඝනය කළේ යැයි පැවසෙන සිද්ධියක් සම්බන්ධයෙන් බදුල්ල මහේස්ත්‍රාත් අධිකරණයේ හිටපු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාට එරෙහිව පවතින නඩුව ලබන ජනවාරි මස 06 දා තෙක් කල් දැමීමට අධිකරණය අද නියෝග කළේය.
-
-◼️
-
-[Data](articles/1d757a35.json)
-
----
-
-### US congressional staff team visits Sri Lanka to ‘grow ties’
-
-*2025-08-26 11:17:00* · [`economynextcom`](https://economynext.com/us-congressional-staff-team-visits-sri-lanka-to-grow-ties-238330/) · `en`
-
-ECONOMYNEXT – A bipartisan congressional staff delegation from the United States is visiting Sri Lanka looking at ways to grow ties in governance, trade, and security, the US ambassador said.
-
-“As part of ongoing cooperation, they’ll meet with parliamentarians, civil society, & senior government officials to share ideas on strengthening how our democracies work together,” US ambassador Julie Chung said.
-
-The bipartisan House Democracy Partnership works to strengthen accountable & transparent legislatures worldwide, advancing economic growth, regional security, & international cooperation, she said. (Colombo/Aug26/2025)
-
-◼️
-
-[Data](articles/81f49686.json)
 
 ---

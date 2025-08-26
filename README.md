@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 14:24:30**
+As of **2025-08-26 14:36:54**
 
 ## Newspaper Stats
 
-*Scraped **72,446** Articles*
+*Scraped **72,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,27 +16,103 @@ economynextcom | 4,428
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,962
+adalk | 6,963
 adaderanalk | 9,170
-tamilmirrorlk | 10,733
+tamilmirrorlk | 10,735
 virakesarilk | 11,918
-adaderanasinhalalk | 12,546
+adaderanasinhalalk | 12,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,446 articles have been extended.
+61,973 (85.5%) of 72,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
 
+### රනිල් වෙනුවෙන් නීතිඥ මණ්ඩලයක් - නීතිපති දෙපාර්තමේන්තුව ඇප දීමට විරුද්ධ වෙයි
+
+*2025-08-26 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213813) · `si`
+
+පොදු දේපළ පනත යටතේ රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහිව ඉදිරිපත් කර තිබෙන නඩුකරය කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ මේ වනවිට කැඳවා තිබේ.
+
+කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනෙවිය ඉදිරියේ නඩුව කැඳවා ඇත.
+
+නඩුව කැඳවූ අවස්ථාවේදී සැකකාර රනිල් වික්‍රමසිංහ මහතා අධිකරණයට ඉදිරිපත් කර තිබුණේ නැහැ.
+
+නඩුකරයේ කැඳවූ අවස්ථාවේදී අද (26) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් මහතා පෙනී සිටියේය.
+
+සැකකාර රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් තිලක් මාරපන, අනූජ ප්‍රේමරත්න යන ජනාධිපති නීතිඥවරු ඇතුළු නීතිඥ මණ්ඩලයක් පෙනී සිටියහ.
+
+◼️
+
+[Data](articles/4f9c77b7.json)
+
+---
+
+### වෛද්‍ය හේමන්ත රණසිංහට ඇප
+
+*2025-08-26 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213812) · `si`
+
+අංගොඩ ජාතික මානසික විද්‍යායතනයේ වර්තමාන වැඩබලන නියෝජ්‍ය අධ්‍යක්ෂ ලෙස සේවය කළ වෛද්‍ය හේමන්ත රණසිංහ මහතා ඇප මත මුදා හැරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය  නියෝග කර තිබේ.
+
+ඒ අනුව රුපියල් ලක්ෂ 10ක මුදල් ඇපයක් සහ ලක්ෂ 25ක ශරීර ඇප දෙකක් සහ විදේශ ගමන් තහනමක් සමගින් ඇප මත මුදා හැරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද නියම කළේය.
+
+2024 වසරේ ඔහු බන්ධනාගාර සෞඛ්‍ය සේවා නියෝජ්‍ය අධ්‍යක්ෂ ලෙස කටයුතු කළ සමයේදී අල්ලසක් ලබාගැනීමක් පිළිබඳ වූ චෝදනාවක් ඔහු මින් පෙර අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කරනු ලැබීය.
+
+◼️
+
+[Data](articles/39bdc4bb.json)
+
+---
+
+### ”நாங்கள் எதற்கும் தயார்”
+
+*2025-08-26 14:12:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-எதற்கும்-தயார்/175-363528) · `ta`
+
+இன்று கோட்டை நீதவான் நீதிமன்றத்திற்கு வந்த இலங்கை பொதுஜன பெரமுன (SLPP) பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ, தானும் எதிர்க்கட்சியில் உள்ள மற்றவர்களும் எதையும் எதிர்கொள்ளத் தயாராக இருப்பதாகக் கூறினார்.
+
+"ஜேவிபி தலைமையிலான என்பிபி அரசாங்கம் திடீரென்று ஒரு உயரடுக்கு மனநிலையை ஏற்றுக்கொண்டதால், நாங்கள் எதற்கும் தயாராக இருக்கிறோம்," என்று அவர் ஊடகவியலாளர்களிடம் கூறினார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவாக, ஐக்கிய மக்கள் சக்தி (SJB) உட்பட ஏராளமான பாராளுமன்ற உறுப்பினர்கள் கோட்டை நீதவான் நீதிமன்றங்களுக்கு அருகில் கூடியுள்ளனர்.
+
+◼️
+
+[Data](articles/5237918f.json)
+
+---
+
+### ஸூம் இல் வழக்கு தொடர்கிறது
+
+*2025-08-26 14:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸூம்-இல்-வழக்கு-தொடர்கிறது/175-363527) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தொடர்பான வழக்கு விசாரணை இன்று (26) சிறிது நேரத்திற்கு முன்பு கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் ஸூம் தொழில்நுட்பம் மூலம் தொடங்கியது.
+
+திரு. விக்ரமசிங்க சார்பாக ஜனாதிபதி சட்டத்தரணி திலக் மாரப்பன, அனுஜ பிரேமரத்ன, உபுல் ஜெயசூரிய, அலி சப்ரி மற்றும் சட்டத்தரணி குழு ஒன்று ஆஜரானார்கள்.
+
+◼️
+
+[Data](articles/4844ec4c.json)
+
+---
+
 ### රනිල් අද අධිකරණයට එන්නේ නෑ
 
 *2025-08-26 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213811) · `si`
 
-හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා අද (26) දින අධිකරණයට ඉදිරිපත් නොකරන බව දැනුම් දී තිබේ.
+හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා අද (26) දින අධිකරණයට ඉදිරිපත් නොකරන බව වාර්තා වේ.
+
+රාජ්‍ය මුදල් අවභාවිතකිරීමේ චෝදනාවකට රක්ෂිත බන්ධනාගාර ගත කර, කොළඹ ජාතික රෝහලේ ප්‍රතිකර ලබමින් සිටින හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳ නීති කෘත්‍යය මේ වනවිට කොටුව මහෙස්ත්‍රාත් අධිකරණයේදී යළි විභාගයට ගෙන තිබේ.
+
+සිද්ධියට අදාළව පසුගිය 22 වෙනිදා අත්අඩංගුවට ගත් හිටපු ජනාධිපතිවරයා අද දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කර තිබුණි.
+
+ඒ මහතාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගනිමින් එදින ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු අතර වෛද්‍ය නිර්දේශ මත ඊට පසුදින ඔහු කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කෙරුණි.
+
+ඒ අනුව මේ වන විට හිටපු ජනාධිපතිවරයා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන අතර ඔහු අද දිනයේ අධිකරණය හමුවට ඉදිරිපත් කළ යුතුව තිබුණි.
+
+කෙසේවෙතත් හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගෙන විශේෂඥ වෛද්‍යවරුන් 5 දෙනෙකුගෙන් යුත් කමිටුවක් මඟින් ඔහු අධීක්ෂණය සිදුකරන අතර අද දිනයේ අධිකරණයට ඉදිරිපත් නොකරන ලෙස වෛද්‍ය නිර්දේශ ලැබී තිබේ.
 
 ◼️
 
@@ -609,6 +685,26 @@ Accordingly, Police and Special Task Force personnel have been deployed to the a
 ...
 
 [Data](articles/9df992f9.json)
+
+---
+
+### අපනයන ආදායම වාර්තා පිට වාර්තා තබයි
+
+*2025-08-26 11:03:40* · [`adalk`](https://www.ada.lk/business/අපනයන-ආදායම-වාර්තා-පිට-වාර්තා-තබයි/7-418072) · `si`
+
+මෙරට අපනයන ආදායම් ඉතිහාසයේ නව සංධිෂ්ඨානයක් ලකුණු කරමින් මාසයක් තුළ ලබාගත් වැඩිම අපනයන ආදායම පසුගිය ජූලි මාසයේ දී වාර්තා වී ඇති බව ශ්‍රී ලංකා අපනයන සංවර්ධන මණ්ඩලය පවසයි.
+
+ජූලි මාසයේ දී අපනයන ආදායම අමෙරිකානු ඩොලර් මිලියන 1,641 දක්වා ඉහළ ගොස් තිබේ. මෙහිදී භාණ්ඩ අපනයනයෙන් ඇමෙරිකානු ඩොලර් මිලියන 1304ක් හා  සේවා අංශයේ අපනයනයෙන් අමෙරිකානු ඩොලර් මිලියන 337ක ආදායමක් වාර්තා වී තිබේ.
+
+ඇඟළුම්, තේ, පොල් ආශ්‍රිත නිෂ්පාදන සැකසු ආහාර වර්ග, ස්වර්ණාභරණ, එළවළු, පලතුරු ඇතුළු අංශවල ඉතාමත්ම කැපී පෙනෙන වර්ධනයක් මෙහිදී පෙන්වා තිබේ.
+
+අමෙරිකාව මෙම අපනයන ආදායමට වැඩි දායකත්වයක් ලබාදී ඇති අතර එම අගය  ඩොලර් මිලියන 275 ඉක්මවා ගොස් තිබේ.
+
+එසේම ජනවාරි සිට ජූලි දක්වා මාස 7ක අපනයන ආදායම අමෙරිකානු ඩොලර් බිලියන 9.89ක් වන අතර වසරක මුල් මාස 7 වාර්තා වූ වැඩිම අපනයන ආදායම ලෙසද මෙය වාර්තා අතරට එක්ව තිබේ.
+
+◼️
+
+[Data](articles/88e7e373.json)
 
 ---
 
@@ -1693,95 +1789,5 @@ Wickremesinghe was arrested over alledged mis-use of public property, during a s
 ◼️
 
 [Data](articles/f823fb5c.json)
-
----
-
-### Ethics For Comments in Colombo Telegraph: The Ranil Wickremesinghe Arrest
-
-*2025-08-26 05:57:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ethics-for-comments-in-colombo-telegraph-the-ranil-wickremesinghe-arrest/) · `en`
-
-Reader-comments are an important element of Colombo Telegraph (CT) articles. They are indispensable because they allow corrections to mistakes and untruths in articles and permit elaborations on articles. CT imposes a 5-day limit on comments which prevents distortions being sneaked in through untrue statements after an article has ceased being on the front page. A downside is that unfair comments may be made on the fifth day thereby preventing an author-response. CT has to find a way to overcome that.
-
-Another problem is when a determined detractor writes in numerous distortions as separate comments making it an insurmountable obstacle for an author to address all of them. This allows some unfair comments to remain unchallenged. Some ethics guidelines, if not rules are necessary. The 200-word limit on comment would be a burden if not for the fact that a response can be broken up into multi-parts of 200 words each.
-
-...
-
-[Data](articles/112e263e.json)
-
----
-
-### University entrance cut-off marks released
-
-*2025-08-26 05:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111845/university-entrance-cut-off-marks-released) · `en`
-
-The University Grants Commission (UGC) has released the cut-off marks required for university admission based on the results of the 2024 G.C.E. Advanced Level Examination.
-
-Accordingly, the minimum Z-scores required for admission to various academic programs at different universities, based on each district, have been announced.
-
-Students can obtain the university and course to which they have been selected by visiting the official website of the University Grants Commission via http://www.ugc.ac.lk or by contacting the UGC via 0112695301, 0112695302, 0112692357 or 0112675854 telephone numbers.
-
-Furthermore, all applicants for university admission will be informed via SMS, the UGC said.
-
-An SMS will be sent to notify whether or not they have been selected for university admission.
-
-◼️
-
-[Data](articles/9d84c748.json)
-
----
-
-### Case against ex-President Ranil to be taken up in court today
-
-*2025-08-26 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111844/case-against-ex-president-ranil-to-be-taken-up-in-court-today) · `en`
-
-Former President Ranil Wickremesinghe, who became the first Executive President of Sri Lanka to be arrested and remanded on Friday (22), is scheduled to be produced before the Colombo Fort Magistrate’s Court today (26).
-
-Former President Wickremesinghe, who was arrested by the Criminal Investigations Department (CID) at around 1:10 p.m. on Friday for allegedly misusing state funds was produced before Colombo Fort Magistrate Nilupuli Lankapura at around 3:00 p.m.
-
-The case, filed under the under provisions of the Penal Code and the Public Property Act, was adjourned after initial submissions, and subsequently the commencement of court proceedings delayed due to a blackout at the Fort Magistrate Court premises.
-
-After the resumption, considering the submissions made by the Attorney General’s Department and the defence attorneys, Colombo Fort Magistrate Nilupuli Lankapura ordered that the former President be remanded until August 26, a first in the history of Sri Lanka.
-
-...
-
-[Data](articles/6e792204.json)
-
----
-
-### Donald Trump says likely to visit China this year or soon after
-
-*2025-08-26 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111843/donald-trump-says-likely-to-visit-china-this-year-or-soon-after) · `en`
-
-US President Donald Trump said Monday (Aug 25) that he expects to visit China this year or shortly afterwards, noting that economic ties between the two countries have improved - even as he kept the door open to steeper tariffs.
-
-Speaking to reporters as he met South Korean President Lee Jae Myung in Washington, Trump pointed to recent talks with Chinese counterpart Xi Jinping: “At some point, probably during this year or shortly thereafter, we’ll go to China.”
-
-“We’re going to have a great relationship with China,” Trump vowed.
-
-The US leader added, “They have some cards. We have incredible cards, but I don’t want to play those cards. If I played those cards, that would destroy China.”
-
-Tensions between the world’s two biggest economies have been simmering this year, but have significantly cooled since April, when both countries slapped escalating tariffs on each other’s exports.
-
-...
-
-[Data](articles/0c7ae73b.json)
-
----
-
-### Showers expected in few areas of the country today
-
-*2025-08-26 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111842/showers-expected-in-few-areas-of-the-country-today) · `en`
-
-Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa district after 2.00 p.m. today (26), the Department of Meteorology said.
-
-A few showers may occur in the Western and Sabaragamuwa provinces during the morning.
-
-Mainly fair weather will prevail elsewhere in the island, the Met. Department added.
-
-The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3120bb65.json)
 
 ---

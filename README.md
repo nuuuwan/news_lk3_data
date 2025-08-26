@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 12:09:22**
+As of **2025-08-26 12:27:19**
 
 ## Newspaper Stats
 
-*Scraped **72,408** Articles*
+*Scraped **72,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,957
-adaderanalk | 9,165
+adaderanalk | 9,169
 tamilmirrorlk | 10,723
-virakesarilk | 11,914
-adaderanasinhalalk | 12,540
+virakesarilk | 11,917
+adaderanasinhalalk | 12,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,408 articles have been extended.
+61,973 (85.6%) of 72,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### வாழைச்சேனை - கருவாக்கேணியில் இளைஞன் சடலமாக மீட்பு
+
+*2025-08-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223394) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட மட்டக்களப்பு - கருவாக்கேணி பிரதான வீதியில் அமைந்துள்ள வாகன சுத்திகரிப்பு நிலையத்துக்கு முன்னாலுள்ள மரம் ஒன்றில் தொங்கிய நிலையில் இளைஞன் ஒருவன் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+இளைஞனின் மரணத்துக்கான காரணத்தை கண்டறிய வாழைச்சேனை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b3138a4b.json)
+
+---
 
 ### ”பொலிஸ்,ராணுவ நடவடிக்கைகள் இன்று முதல் தீவிரப்படுத்தப்படும்”
 
@@ -48,6 +62,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ලංකාවට එරෙහි තරගාවලියට වසර 4කට පසු බ්‍රෙන්ඩන් ටේලර් නැවතත් සිම්බාබ්වේ කණ්ඩායමට
+
+*2025-08-26 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213806) · `si`
+
+ශ්‍රී ලංකාවට එරෙහි එක්දින තරගාවලිය සඳහා සිම්බාබ්වේ කණ්ඩායම වෙනුවෙන් බ්‍රෙන්ඩන් ටේලර් යළි කැඳවා තිබේ.
+
+ශ්‍රී ලංකාවට එරෙහිව පැවැත්වෙන එක්දින ජාත්‍යන්තර තරග දෙකකින් සමන්විත තරගාවලිය සඳහා ක්‍රීඩකයන් 16 දෙනෙකුගෙන් යුත් සංචිතයක් සිම්බාබ්වේ ක්‍රිකට් ආයතනය විසින් නම්කර ඇති බව සඳහන් වේ.
+
+හිටපු කඩුලු රකින පිතිකරු බ්‍රෙන්ඩන් ටේලර් වසර හතරකට ආසන්න කාලයකට පසු ජාතික කණ්ඩායමට යළි කැඳවීම මෙහි විශේෂත්වයකි.
+
+මෙම තරගාවලිය අගෝස්තු 29 සහ 31 යන දිනවල හරාරේ ක්‍රීඩා සමාජයේදී පැවැත්වීමට නියමිත අතර එය 2021 වසරේ සැප්තැම්බර් මාසයෙන් පසු ටේලර්ගේ පළමු එක්දින ජාත්‍යන්තර තරගය බව සඳහන් වේ.
+
+ක්‍රෙග් අර්වින්ගේ නායකත්වයෙන් යුත් මෙම සංචිතය පළපුරුදු ක්‍රීඩකයින් සහ නැගී එන දක්ෂතා ඇති ක්‍රීඩකයින්ගෙන් සමන්විතය.
+
+◼️
+
+[Data](articles/3c68c441.json)
+
+---
+
 ### ரணில் கைது;ஐ.தே.க உறுப்பினர்கள் மகாநாயக்க தேரருடன் சந்திப்பு
 
 *2025-08-26 11:46:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-தே-க-உறுப்பினர்கள்-மகாநாயக்க-தேரருடன்-சந்திப்பு/175-363512) · `ta`
@@ -61,6 +95,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2bde32d1.json)
+
+---
+
+### காசா வைத்தியசாலை மீதான தாக்குதலில் 5 ஊடகவியலாளர்கள் உள்ளிட்ட பலர் உயிரிழப்பு : தவறுதலான விபத்து என நெதன்யாகு கவலை !
+
+*2025-08-26 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/223391) · `ta`
+
+காசா வைத்தியசாலை மீதான தாக்குதலுக்கு சர்வதேச அளவில் கண்டனம் எழுந்து வரும் நிலையில், குறித்த தாகுதல் தவறுத்தலாக நடந்த ஒரு "துயரமான விபத்து" என இஸ்ரேலியப் பிரதமர் பெஞ்சமின் நெதன்யாகு கவலை தெரிவித்துள்ளார்.
+
+வைத்தியசாலை மீதான தாக்குதலை உறுதிப்படுத்திய இஸ்ரேல் இராணுவம் இதுகுறித்து உள்ளக விசாரணை நடத்தப்படும் என அறிவித்துள்ளது. ஊடகவியலாளர்களை காயப்படுத்துவது தங்கள் நோக்கம் அல்ல என இஸ்ரேல் இராணுவம் அறிக்கையொன்றின் மூலம் தெரிவித்துள்ளது.
+
+இதேவேளை, இந்த தாக்குதல் குறித்த கேள்விக்கு வெள்ளை மாளிகையில் ஊடகங்களுக்கு பதிலளித்த அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப், "இது எப்போது நடந்தது? எனக்கு அது தெரியாதே!. அதுகுறித்து நான் மகிழ்ச்சியாக இல்லை. அதை பார்க்க நான் விரும்பவில்லை. அதேநேரம் இந்த மொத்த கெட்ட கனவையும் நிறுத்த வேண்டும்" என்று பதிலளித்துள்ளார்.
+
+தெற்கு காசாவின் கான் யூனிஸ் நகரில் உள்ள நாசர் வைத்தியசாலை மீது திங்கட்கிழமை (25)இஸ்ரேல் மேற்கொண்ட தாக்குதலில் ஐந்து ஊடகவியலாளர்கள் உள்ளிட்ட 20 பேர் உயிரிழந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ce650901.json)
+
+---
+
+### அவுஸ்திரேலியாவில் இரண்டு பொலிஸ் அதிகாரிகள் சுட்டுக் கொலை
+
+*2025-08-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223381) · `ta`
+
+அவுஸ்திரேலியாவில், மெல்போர்னிலிருந்து கிட்டத்தட்ட 200 மைல் வடகிழக்கே உள்ள போர்பங்கா (Porepunkah)  கிராமப்புறப் பகுதியில்  இரண்டு பொலிஸ் அதிகாரிகள் சுட்டுக் கொலை செய்யப்பட்டுள்ளனர்.
+
+துப்பாக்கிச் சூடு இடம்பெற்ற 1,000 பேர் வசிக்கும் போர்பங்கா பகுதியில் ஆரம்பப் பாடசாலை செவ்வாய்க்கிழமை அதன் அவசரகால நடவடிக்கைகளை செயல்படுத்தியதாகவும், அனைத்து மாணவர்களும் ஆசிரியர்களும் பாதுகாப்பாக இருப்பதாகவும் அப்பாடசாலையின் அதிபர் ஜில் கில்லிஸ் தெரிவித்துள்ளார்.
+
+அவுஸ்திரேலியாவில் துப்பாக்கி வன்முறை என்பது அரிதான ஒன்றாகும். 1996-ல் தாஸ்மேனியாவில் நடந்த ஒரு பெரும் துப்பாக்கிச் சூட்டில் 35 பேர் கொல்லப்பட்டதை அடுத்து, அரசாங்கம் கட்டாயமாக துப்பாக்கிகளைத் திரும்பப் பெறும் திட்டத்தை அமல்படுத்தியது. இந்த தற்காலிக திரும்பப் பெறும் திட்டங்கள் பொதுமக்களின் கைகளில் இருந்த துப்பாக்கிகளின் எண்ணிக்கையைக் குறைத்தன.
+
+...
+
+[Data](articles/c35b5ea2.json)
 
 ---
 
@@ -102,6 +170,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Case against ex-Minister Harin Fernando postponed until January
+
+*2025-08-26 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111861/case-against-ex-minister-harin-fernando-postponed-until-january) · `en`
+
+The case filed against former Minister Harin Fernando, in relation to the alleged election law violations has been postponed until January 6, Ada Derana reporter said.
+
+The order was issued by Badulla Magistrate Nujith de Silva, when the case was taken up for hearing this morning.
+
+Former Minister Harin Fernando was arrested in relation to heated exchange with police while campaigning for the General Election on November 11, 2024 in Badulla.
+
+◼️
+
+[Data](articles/cdba4111.json)
+
+---
+
 ### ජාතික ක්‍රීඩා සංගම් 3ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවයි
 
 *2025-08-26 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213805) · `si`
@@ -117,6 +201,62 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/23db16d3.json)
+
+---
+
+### Special Security at Colombo National Hospital
+
+*2025-08-26 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111860/special-security-at-colombo-national-hospital) · `en`
+
+Security has been beefed up at the Colombo National Hospital and surrounding areas from this morning (26), Ada Derana reporter said.
+
+This comes after the Criminal Investigation Department (CID) arrested former President Ranil Wickremesinghe on August 22, in connection with allegations under the Public Property Act related to the misuse of state funds. He was ordered by court to be remanded until today.
+
+However, due to his medical condition, he was first admitted to the Prison Hospital on Friday. Based on medical recommendations, he was later transferred to the Intensive Care Unit (ICU) at the Colombo National Hospital the following day.
+
+As of now, the former President continues to receive treatment in the ICU of the Colombo National Hospital.
+
+Security has also been beefed up adjacent to the Colombo Fort Magistrate’s Court premises.
+
+Accordingly, Police and Special Task Force personnel have been deployed to the area.
+
+...
+
+[Data](articles/9df992f9.json)
+
+---
+
+### Unified bus timetable introduced for long-distance buses operating from Colombo
+
+*2025-08-26 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111859/unified-bus-timetable-introduced-for-long-distance-buses-operating-from-colombo) · `en`
+
+The National Transport Commission (NTC) announced that the unified bus timetable service for both Sri Lanka Transport Board (SLTB) and private buses commenced at midnight yesterday (25) from the Bastian Mawatha Bus Terminal in Colombo.
+
+Deputy Minister of Transport and Highways Prasanna Gunasena stated that both SLTB and private buses are expected to operate from the same location within a specified timeframe from today.
+
+However, SLTB trade unions have expressed strong opposition to the move, stating that they will protest against the decision to operate long-distance bus services under a unified timetable involving both SLTB and private operators.
+
+Trade union members staged a protest yesterday (25) at the Colombo Central Bus Stand against the government’s decision.
+
+Meanwhile, the General Secretary of the Sri Lanka Free National Transport Workers’ Union, Bandula Ratnayake, also confirmed that their union would launch further protests against the initiative.
+
+◼️
+
+[Data](articles/1a9bf348.json)
+
+---
+
+### Two police officers killed and one injured in shooting in Victoria, Australia
+
+*2025-08-26 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111858/two-police-officers-killed-and-one-injured-in-shooting-in-victoria-australia) · `en`
+
+Two police officers have been killed and another injured in a shooting at a rural property in Porepunkah in north-east Victoria, Australia.
+
+Emergency services have swarmed the scene of the incident in the regional town, 300 kilometres north-east of Melbourne, with the shooter believed to still be at large.
+
+◼️
+
+[Data](articles/dec4483c.json)
 
 ---
 
@@ -426,9 +566,13 @@ He was then transferred to the Colombo National Hospital after his medical condi
 
 *2025-08-26 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111855/ex-president-ranil-unlikely-to-be-produced-in-court-today-prisons-spokesman) · `en`
 
-Former President Ranil Wickremesinghe, who is currently under observation at the Intensive Care Unit (ICU) of the National Hospital in Colombo, is unlikely to be produced in person before court today owing to his health condition, said Prisons Spokesman.
+Former President Ranil Wickremesinghe is unlikely to be produced before court today (26), due to medical recommendations stating that he must continue to remain under observation in the Intensive Care Unit (ICU), according to Prisons media spokesperson Jagath Weerasinghe.
 
-◼️
+He further stated that if the Magistrate issues an order for Wickremesinghe to be presented via Zoom for legal proceedings, necessary arrangements can be made accordingly.
+
+The case against the former President — who was arrested by the Criminal Investigation Department (CID) on August 22 under the Public Property Act over alleged misuse of state funds — is scheduled to be taken up again today before the Colombo Fort Magistrate’s Court.
+
+...
 
 [Data](articles/f2cb9020.json)
 
@@ -1118,17 +1262,13 @@ An SMS will be sent to notify whether or not they have been selected for univers
 
 *2025-08-26 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111844/case-against-ex-president-ranil-to-be-taken-up-in-court-today) · `en`
 
-Former President Ranil Wickremesinghe, who became the first Executive President of Sri Lanka to be arrested and remanded, is scheduled to be produced before the Colombo Fort Magistrate’s Court today.
+Former President Ranil Wickremesinghe, who became the first Executive President of Sri Lanka to be arrested and remanded on Friday (22), is scheduled to be produced before the Colombo Fort Magistrate’s Court today (26).
 
-Former President Wickremesinghe, who was remanded until tomorrow (26), was initially admitted to the Prison Hospital, and then transferred to the National Hospital.
+Former President Wickremesinghe, who was arrested by the Criminal Investigations Department (CID) at around 1:10 p.m. on Friday for allegedly misusing state funds was produced before Colombo Fort Magistrate Nilupuli Lankapura at around 3:00 p.m.
 
-He was admitted to the Intensive Care Unit (ICU) due to dehydration, according to hospital sources.
+The case, filed under the under provisions of the Penal Code and the Public Property Act, was adjourned after initial submissions, and subsequently the commencement of court proceedings delayed due to a blackout at the Fort Magistrate Court premises.
 
-The transfer was carried out on the recommendation of Prison Hospital doctors following medical examinations.
-
-Former President Wickremesinghe, was remanded until August 26 after being arrested by the Criminal Investigation Department (CID) on August 22.
-
-Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to the United Kingdom to attend a ceremony for his wife at a British university while he was head of state.
+After the resumption, considering the submissions made by the Attorney General’s Department and the defence attorneys, Colombo Fort Magistrate Nilupuli Lankapura ordered that the former President be remanded until August 26, a first in the history of Sri Lanka.
 
 ...
 
@@ -1615,135 +1755,5 @@ Located at No. 226, Lake Drive, Colombo 8, the sophisticated facility was ceremo
 ...
 
 [Data](articles/91af0d57.json)
-
----
-
-### 38th Annual Conference and 4th National  Apex Awards of  the OPA honours excellence, fosters professional collaboration
-
-*2025-08-25 23:21:08* · [`dailyftlk`](https://www.ft.lk/business/38th-Annual-Conference-and-4th-National-Apex-Awards-of-the-OPA-honours-excellence-fosters-professional-collaboration/34-780744) · `en`
-
-The Organisation of Professional Associations of Sri Lanka (OPA) successfully hosted its 38th Annual Conference and the prestigious 4th National Apex Awards on 19 and 20 August, at the Cinnamon Life, Colombo. The event commenced with a distinguished inaugural ceremony, graced by the Chief Guest – Speaker of the Parliament of Sri Lanka Dr. Jagath Wickramaratne, and attended by leading figures from the professional sector.
-
-In his welcome address, OPA President Sujeewa Lal Dahanayake, reaffirmed the OPA’s commitment to national development through professional collaboration and active engagement with the Government. He emphasised the significance of the Annual Conference, which was taking place during the 50th anniversary of the OPA, marking five decades of multidisciplinary professional unity and collective efforts toward the advancement of the nation.
-
-...
-
-[Data](articles/2ea7264c.json)
-
----
-
-### From warning to wake-up call: Elephants  now drive 40% of Sri Lanka’s tourism economy
-
-*2025-08-25 23:08:52* · [`dailyftlk`](https://www.ft.lk/columns/From-warning-to-wake-up-call-Elephants-now-drive-40-of-Sri-Lanka-s-tourism-economy/4-780743) · `en`
-
-In November 2020, we argued in this paper that “a cut tree, a dead elephant, is a lost tourism dollar in the future.” At the time, we estimated the lifetime value of a wild elephant at $ 11 million and warned that deforestation, human-elephant conflict, and short-sighted planning were dismantling the very assets Sri Lanka most needed to attract high-value travellers.
-
-Five years later, the future has arrived and with startling clarity. Elephants are no longer a peripheral tourism attraction. They are the central economic engine of Sri Lanka’s foreign exchange earnings.
-
-If the past decade has taught Sri Lanka one lesson, it is that tourism is the fastest way out of crisis.
-
-In 2018, the industry generated $ 5.6 billion from 2.5 million visitors, briefly standing as the nation’s top foreign exchange earner. The 2019 Easter Sunday attacks cut earnings to $ 3.6 billion, and by 2022, the economic collapse had almost paralysed the sector.
-
-...
-
-[Data](articles/833b74d0.json)
-
----
-
-### Why economic inequality matters for development
-
-*2025-08-25 22:59:48* · [`dailyftlk`](https://www.ft.lk/opinion/Why-economic-inequality-matters-for-development/14-780742) · `en`
-
-Does economic inequality matter for development? That’s a question we discussed at a recent event with international experts and practitioners. Among them was our Chief Economist Indermit Gill, who responded: “How can it not? If you look at the aspects of inequality—you can talk about the inequality of opportunity, of income, of wealth, and of power—it matters a lot. It can really hurt development, if it’s too high or unmanageable. But then, the real question is, what do you do about it? And is the cure often worse than the disease?”
-
-High economic inequality in a country can limit people’s ability to move up the socioeconomic ladder, and thereby slow progress toward broad-based growth and poverty eradication. Decreasing high levels of inequality, on the other hand, can spur economic development, strengthen human capital, and speed up poverty reduction.
-
-...
-
-[Data](articles/375b95ae.json)
-
----
-
-### BASL warns against social media interference with judiciary
-
-*2025-08-25 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/111841/basl-warns-against-social-media-interference-with-judiciary) · `en`
-
-The Bar Association of Sri Lanka (BASL) has issued a statement regarding comments seen on social media and other platforms concerning matters that fall within the purview of the Judicial Service Commission and the Judiciary.
-
-Issuing a statement in this regard, the BASL noted that in the past week, several comments have been made on social media and other platforms pertaining to such matters. Both the Judicial Service Commission and the Judiciary are independent institutions, it said.
-
-The statement pointed out that the Judicial Service Commission is a Commission consisting of the Chief Justice and two Senior Judges of the Supreme Court, which holds responsibility in relation to the transfer of judges of the High Court, as well as for the appointment, promotion, transfer, disciplinary control, and dismissal of judicial officers and relevant scheduled public officers.
-
-...
-
-[Data](articles/7f2517bf.json)
-
----
-
-### මිනිස් මාංශ පණපිටින් බුදින පණුවෙක්
-
-*2025-08-25 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213786) · `si`
-
-සත්ත්ව මාංශ භක්ෂණය කරමින් වැඩෙන ස්කෘෘවර්ම් (screwworm)නම් පරපෝෂිත ආසාදිතයෙක් අමෙරිකාවෙන් පළමුවරට හඳුනාගෙන තිබේ.
-
-එම ආසාදිතයා මෑතකදී ග්වාතමාලා හි සිටි අමෙරිකාවේ මේරිලෑන්ඩ් ප්‍රාන්තය වෙත පැමිණි අයෙකි.
-
-ගවයන් ඇතුළු වන සතුන්ගේ මාංශ එම සතුන් පණ පිටින් සිටියදී භක්ෂණය කරන මෙම පරපෝෂි විශේෂය සුලබව හමුවන්නේ මධ්‍යම අමෙරිකාවෙන් සහ දකුණුදිග මෙක්සිකෝව යන කලාපවලිනි.
-
-◼️
-
-[Data](articles/73571903.json)
-
----
-
-### இலங்கை சட்ட ஆணைக்குழுவுக்கு தலைவர் உள்ளிட்ட உறுப்பினர்கள்  நியமனம்
-
-*2025-08-25 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223361) · `ta`
-
-நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சுக்கு கீழ் இருக்கும் இலங்கை சட்ட ஆணைக்குழுவின் தலைவர் உள்ளிட்ட ஆணைக்குழு உறுப்பினர்களுக்கான  நியமனம் வழங்கும் நிகழ்வு நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் ஹர்ஷண நாணயக்கார தலைமையில் நேற்று நீதி அமைச்சில் இடம்பெற்றது.
-
-இலங்கை சட்ட ஆணைக்குழுவின் புதிய தலைவராக நீதிபதி ஈ.ஏ.ஜீ.ஆர். அமரசேகர நியமிக்கப்பட்டதுடன் ஆணைக்குழுவின் ஏனைய உறுப்பினர்களாக நீதிபதி எம்.ஆர்.சி. பெர்னாண்டோ, ஜனாதிபதி சட்டத்தரணிகளான பீ,ஐ.எஸ்.தேமுனித சில்வா, எப்.ஜமீல், நீல்  டீ.பி.உனும்புவே,எச்.யூ.பெர்னாண்டோ, விரான் குரே,  சட்டத்தரணி ஜீ.எஸ்.ஏ.சான்த்தடி சில்வா, பேராசிரியர் சுனில் டீ.பி. அபேரத்ன,  பி.ஐ.எஸ்.சமரசிங்க, ஆர்.அமீன் மற்றும் பேராசிரியர் டபிள்யூ. செனவிரத்ன ஆகியோர்  நியமிக்கப்பட்டுள்ளனர்.
-
-1969ஆம் ஆண்டு 3ஆம் இலக்க சட்ட ஆணைக்குழு சட்டத்தின் 2ஆம் உறுப்புரைக்கு அமைய 1969ஆம் ஆண்டு இலங்கை சட்ட ஆணைக்குழு ஆரம்பிக்கப்பட்டதுடன் ஜனாதிபதியால் 5வருட காலத்துக்கு இலங்கை சட்ட ஆணைக்குழுவின் தலைவர் உள்ளிட்ட உறுப்பினர்கள் நியமிக்கப்படுவார்கள்.
-
-◼️
-
-[Data](articles/97c9cd55.json)
-
----
-
-### ஜனாதிபதி அநுரவுக்கு விசேட நன்றி - துமிந்த திஸாநாயக்க
-
-*2025-08-25 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223360) · `ta`
-
-நாட்டில் நடைமுறையிலுள்ள பல கட்சி ஆட்சி முறைமையை ஒழித்து ஒரு கட்சி ஆட்சியை நிலைநிறுத்த தேசிய மக்கள் சக்தி அரசாங்கம் முயற்சிக்கிறது. அரசாங்கத்தின் இந்த சர்வாதிகார போக்கினை தடுப்பதற்காகவே இன்று எதிர்க்கட்சிகள் ஒன்றிணைந்துள்ளன. எதிர்க்கட்சிகளை ஒன்றிணைத்தமைக்கு ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு நன்றி கூறுவதாக ஸ்ரீலங்கா சுதந்திர கட்சியின் பொதுச் செயலாளர் துமிந்த திஸாநாயக்க தெரிவித்தார்.
-
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (25) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு முதலில் நன்றியைத் தெரிவித்துக் கொள்கின்றேன். ஆட்சியைப் பொறுப்பேற்று ஓராண்டு நிறைவடைவதற்கு முன்னரே எதிர்க்கட்சிகளை இவ்வாறு ஒன்றிணைத்தமைக்கு அவருக்கு நன்றியைத் தெரிவித்துக் கொள்கின்றோம். நாம் எதற்காக ஒன்றிணைந்தோம் என்பதை அனைவரும் அறிவர். ரணில் விக்கிரமசிங்க என்பது ஒரு காரணியாகும். ஆனால் இந்த தேசிய மக்கள் சக்தி நாட்டில் தொடர்ந்தும் காணப்படும் பல கட்சி ஆட்சி முறைமையை இல்லாதொழித்து ஒரு கட்சி ஆட்சி முறைமையை ஏற்படுத்த முயற்சிக்கிறது.
-
-...
-
-[Data](articles/00aa8bdc.json)
-
----
-
-### ராப் பாடகர் ‘மதுவா’ போலி துப்பாக்கி மற்றும் போதைப்பொருளுடன் கைது
-
-*2025-08-25 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/223359) · `ta`
-
-‘மாதவ் பிரசாத்’ எனும் இயற்பெயர் கொண்ட ராப் பாடகர் ‘மதுவா’, போலி கைத்துப்பாக்கி மற்றும் போதைப்பொருளுடன் கைது செய்யப்பட்டதாக கஹதுடுவ பொலிஸார் தெரிவித்துள்ளனர்.
-
-போதைப்பொருள் மற்றும் கைத்துப்பாக்கியை வைத்திருந்து, போதைப்பொருள் உட்கொள்வதைச் சித்தரிக்கும் வீடியோவை பேஸ்புக்கில் பதிவேற்றிய ஆறு பேர் கொண்ட குழுவைச் சார்ந்த விசாரணையின் போது, சந்தேகநபர் ஹோமாகம பகுதியில் உள்ள வீட்டு வளாகத்தில் கைது செய்யப்பட்டார்.
-
-விசாரணையில், தனது பேஸ்புக் பின்தொடர்பவர்களின் எண்ணிக்கையை அதிகரிக்கும் நோக்கில் சந்தேகநபர் போதைப்பொருள் உட்கொள்வதை காட்டும் வீடியோக்களை பதிவேற்றியிருந்தது தெரியவந்தது.
-
-பொலிஸார் அவரிடமிருந்து 20 மில்லிகிராம் ஐஸ் மற்றும் 35 கிராம் ஹஷீஷ் பறிமுதல் செய்துள்ளனர்.
-
-இந்த கைது நடவடிக்கை, கஹதுடுவ பொலிஸ் நிலைய பொறுப்பதிகாரி பிரதான பொலிஸ் பரிசோதகர் தமித பெரேராவின் அறிவுறுத்தலின் பேரில், குற்றப்புலனாய்வு பிரிவு பொறுப்பதிகாரி உப பொலிஸ் பரிசோதகர் ரஜித குருசிங்க தலைமையிலான குழுவால் முன்னெடுக்கப்பட்டது.
-
-◼️
-
-[Data](articles/a7472fba.json)
 
 ---

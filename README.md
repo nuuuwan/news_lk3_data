@@ -1,36 +1,70 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 18:58:44**
+As of **2025-08-26 19:34:20**
 
 ## Newspaper Stats
 
-*Scraped **72,505** Articles*
+*Scraped **72,509** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 615
+dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 742
 economynextcom | 4,428
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,969
+adalk | 6,970
 adaderanalk | 9,184
-tamilmirrorlk | 10,750
+tamilmirrorlk | 10,751
 virakesarilk | 11,925
-adaderanasinhalalk | 12,559
+adaderanasinhalalk | 12,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,505 articles have been extended.
+61,973 (85.5%) of 72,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### சம்பூர் மனித எச்சங்கள்;ஸ்கேன் ஆராய்ச்சிக்கான மதிப்பீடு கையளிப்பு
+
+*2025-08-26 18:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/சம்பூர்-மனித-எச்சங்கள்-ஸ்கேன்-ஆராய்ச்சிக்கான-மதிப்பீடு-கையளிப்பு/75-363543) · `ta`
+
+சம்பூர் பிரதேசத்தில் மனித எச்சங்கள் கண்டெடுக்கப்பட்ட  காணியில் மேலும் மனித எச்சங்கள் இருக்கின்றனவா என்பதை ஆராய்வதற்காக தொல்பொருள் திணைக்களத்திடமுள்ள ஸ்கேன் இயந்திரம் மூலம் மேலும் ஆராய்வதற்கான உத்தேச செலவு மதிப்பீடு நேற்று(26) தொல்பொருள் திணைக்களம்,சட்ட வைத்திய அதிகாரி,சம்பூர் பொலிஸார்,காணாமல் ஆக்கப்பட்டோர் அலுவலகம் ஆகியவற்றின் கையொப்பத்துடன் மூதூர் நீதிவான் நீதிமன்றத்தில் சம்பூர் பொலிஸாரினால் சமர்பிக்கப்பட்டது.
+
+இவ் உத்தேச செலவு மதிப்பீடு, மூதூர் நீதிமன்றத்தின் கட்டளையுடன் மாகாண மேல் நீதிமன்றத்துக்கு அனுப்பப்படவுள்ளதுடன் மாகாண நீதிமன்றத்தின் அனுமதியுடன் மேலதிக நடவடிக்கை மேற்கொள்ளப்படவுள்ளது.
+
+சம்பூரில் மனித எச்சங்கள் மீட்கப்பட்டமை தொடர்பான வழக்கானது மூதூர் நீதிமன்ற நீதிவான் தஸ்னீம் பௌஸான் முன்னிலையில் இன்று செவ்வாய்கிழமை எடுத்து கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/0341c5af.json)
+
+---
+
+### අල්ලස් ලබාගත් ග්‍රාම නිලධාරිනියක් අත්අඩංගුවට
+
+*2025-08-26 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213826) · `si`
+
+අල්ලසක් ලබා ගැනීම සම්බන්ධයෙන් ගොවිදුපුර ප්‍රදේශයේ ග්‍රාම නිලධාරිනියක් අල්ලස් හා දූෂණ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇති ග්‍රාම නිලධාරිනිය බරවාය ග්‍රාම නිලධාරි වසමට අනුයුක්තව සේවය කර ඇත.
+
+අදාළ නිලධාරිනිය අල්මාරියක් ලබා ගැනීම සඳහා රුපියල් 23,500 වටිනා මුදල් ගෙවන ලද බිලක් ලබා ගන්නා අවස්ථාවේ මෙසේ අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
+
+අත්අඩංගුවට ගත්  ග්‍රාම නිලධාරිනිය සියඹලාණ්ඩුව පොලිස් ස්ථානය වෙත ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/30035184.json)
+
+---
 
 ### හිටපු ජනපති රනිල්ට ඉදිරි දින කිහිපයේදීත් ජාතික රෝහලේදී ප්‍රතිකාර
 
@@ -163,6 +197,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d39cfc3f.json)
+
+---
+
+### කොරියානු ගුවන් සේවය ඇමෙරිකාවේ බෝයිං ගුවන් යානා 103ක් මිලට ගැනීමට යයි
+
+*2025-08-26 17:20:05* · [`adalk`](https://www.ada.lk/international/කොරියානු-ගුවන්-සේවය-ඇමෙරිකාවේ-බෝයිං-ගුවන්-යානා-103ක්-මිලට-ගැනීමට-යයි/3-418083) · `si`
+
+ඇමරිකාවේ ගුවන් සේවා දැවැන්තයෙකු වන බෝයිං සමාගමෙන් කොරියානු එයාර් ගුවන් සේවයට ගුවන් යානා 103 ක් මිලදී ගැනීම සඳහා සමාගම් දෙක ගිවිසුමකට එක්ව තිබේ.මෙම ගිවිසුමේ වටිනායක ඇමෙරිකානු ඩොලර් බිලියන 36 ක් වෙයි.
+
+සමාගම් දෙකේ ඒකාබද්ධ ප්‍රකාශයක අනුව, මෙම ගනුදෙනුව යටතේ කොරියානු ගුවන් සේවය බෝයිං 787, 777 සහ 737 යන ගුවන් යානා මිලදී ගැනීමට නියමිතය.
+
+දකුණු කොරියානු ජනාධිපති ලී ජේ මියුන්ග් ඇමෙරිකාවේ සිදුකළ සංචාරයට සමගාමීව ඇමෙරිකානු ජනපති ට්‍රම්ප් හමුවී පැය කිහිපයකට පසුව මෙම ගිවිසුම ප්‍රකාශයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/db934ccc.json)
 
 ---
 
@@ -1683,55 +1733,5 @@ Emergency services have swarmed the scene of the incident in the regional town, 
 ...
 
 [Data](articles/36ee6dc8.json)
-
----
-
-### හරීන් අධිකරණයට
-
-*2025-08-26 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213804) · `si`
-
-බදුල්ල මහෙස්ත්‍රාත් නුජිත් ද සිල්වා විසින් එළැඹෙන ජනවාරි මස 6 වන දා දක්වා නඩුව කල් තබා තිබේ.
-
-හිටපු අමාත්‍ය හරින් ප්‍රනාන්දු මහතා අද (26) දින බදුල්ල මහෙස්ත්‍රාත් අධිකරණයේ පෙනී සිටියේය.
-
-ඒ පහුගිය මහ මැතිවරණය අවස්ථාවේ දී මැතිවරණ නීති උල්ලංඝනය කළේ යැයි පැවසෙන සිද්ධියක් සම්බන්ධයෙන් අධිකරණයේ පවතින නඩු කටයුත්ත සඳහාය.
-
-◼️
-
-[Data](articles/8f906791.json)
-
----
-
-### එජාප නායකයන් අස්ගිරි මහානායක  හිමි හමුවෙයි - හිටපු ජනපති රනිල් ගැනත් සාකච්ඡාවක
-
-*2025-08-26 10:36:02* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-නායකයන්-අස්ගිරි-මහානායක--හිමි-හමුවෙයි---හිටපු-ජනපති-රනිල්-ගැනත්-සාකච්ඡාවක/11-418071) · `si`
-
-එකසත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා, පක්ෂ මහා ලේකම් නීතිඥ තලතා අතොකොරල මහත්මිය ඇතුළු පක්ෂයේ ජ්‍යෙෂ්ටයින් පිරිසක් අද (26දා)  අස්ගිරි මහා විහාරයේදී සියම් මහ නිකායේ අස්ගිරි පාර්ශවයේ මහා නායක වරකාගොඩ ශ්‍රී ඥානරතන නාහිමි හමුව තිබේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සම්භන්ධයෙන් ඇතිවී තිබෙන වත්මන් තත්වය සහ රට තුළ පවතින දේශපාලන හා ආර්ථික තත්වය පිළිබඳව මෙහිදී සාකච්ඡා කර තිබේ.
-
-​එමෙන්ම හිටපු ජනාධිපතිවරයා වෙනුවෙන් ආශිර්වාද ලබා ගැනීමද සිදු කර ඇත.
-
-◼️
-
-[Data](articles/9dd0b623.json)
-
----
-
-### UNP seniors call on Chief Prelate of Asgiriya Chapter
-
-*2025-08-26 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111857/unp-seniors-call-on-chief-prelate-of-asgiriya-chapter) · `en`
-
-A delegation of senior members and leaders of the United National Party (UNP) visited the Asgiriya Maha Viharaya this morning (26) and received blessings from the Chief Prelate of the Asgiriya Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.
-
-During the visit, Deputy Leader of the UNP Ruwan Wijewardene and General Secretary Thalatha Atukorale engaged in discussions with the Chief Prelate and other senior members of the Maha Sangha regarding the current situation concerning former President Ranil Wickremesinghe, as well as the prevailing political and economic conditions in the country.
-
-They also sought blessings for the current health condition of former President Ranil Wickremesinghe.
-
-Former President Wickremesinghe is currently receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital.
-
-◼️
-
-[Data](articles/0beaf3d4.json)
 
 ---

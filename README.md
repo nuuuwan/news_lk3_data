@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 20:20:49**
+As of **2025-08-26 20:32:58**
 
 ## Newspaper Stats
 
-*Scraped **72,516** Articles*
+*Scraped **72,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,971
 adaderanalk | 9,187
 tamilmirrorlk | 10,751
 virakesarilk | 11,927
-adaderanasinhalalk | 12,561
+adaderanasinhalalk | 12,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,516 articles have been extended.
+61,973 (85.5%) of 72,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ඔස්ට්‍රේලියාවේ වෙඩි තැබීමකින්  පොලිස් නිලධාරීන් දෙදෙනෙකු මරුට
+
+*2025-08-26 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213828) · `si`
+
+ඔස්ට්‍රේලියාවේ වික්ටෝරියා ප්‍රාන්තයේ සිදුවු වෙඩි තැබීමකින් පොලිස් නිලධාරීන් දෙදෙනෙකු මියගොස් තිබේ.
+
+එහිදී තවත් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+වෙඩි තැබීම සිදුකළ පුද්ගලයා මෙතෙක් අත්ඩංගුවට ගෙන නොමැති අතර ඔහු අත්අඩංගුවට ගැනීම සදහා මෙහෙයුම් ආරම්භ කර ඇති බව සදහන් වේ.
+
+කෙසේ වෙතත් විදෙස් මාධ්‍ය වාර්තා කළේ කුමන හේතුවක් මත වෙඩික්කරු විසින් මෙම වෙඩි තැබීම සිදු කළේ ද යන්න සම්බන්ධයෙන් තොරතුරු අනාවරණය වී නොමැති බවය.
+
+◼️
+
+[Data](articles/a44aa3cc.json)
+
+---
 
 ### பிணையில் விடுதலையானார் ரணில் !
 
@@ -1717,21 +1735,5 @@ The bipartisan House Democracy Partnership works to strengthen accountable & tra
 ◼️
 
 [Data](articles/a5a365e4.json)
-
----
-
-### Case against ex-Minister Harin Fernando postponed until January
-
-*2025-08-26 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111861/case-against-ex-minister-harin-fernando-postponed-until-january) · `en`
-
-The case filed against former Minister Harin Fernando, in relation to the alleged election law violations has been postponed until January 6, Ada Derana reporter said.
-
-The order was issued by Badulla Magistrate Nujith de Silva, when the case was taken up for hearing this morning.
-
-Former Minister Harin Fernando was arrested in relation to heated exchange with police while campaigning for the General Election on November 11, 2024 in Badulla.
-
-◼️
-
-[Data](articles/cdba4111.json)
 
 ---

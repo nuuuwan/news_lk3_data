@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 10:08:11**
+As of **2025-08-26 10:22:33**
 
 ## Newspaper Stats
 
-*Scraped **72,380** Articles*
+*Scraped **72,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,952
 adaderanalk | 9,162
-tamilmirrorlk | 10,715
+tamilmirrorlk | 10,716
 virakesarilk | 11,910
-adaderanasinhalalk | 12,535
+adaderanasinhalalk | 12,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,380 articles have been extended.
+61,973 (85.6%) of 72,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### மனித உடல் சதை உண்ணும் ஒட்டுண்ணி
+
+*2025-08-26 10:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மனித-உடல்-சதை-உண்ணும்-ஒட்டுண்ணி/53-363500) · `ta`
+
+மனிதர்களின் சதையை உண்ணும் 'ஸ்க்ரூவோர்ம்' என்ற ஒட்டுண்ணி அமெரிக்காவில் ஒருவருக்கு தொற்றியுள்ளதை அந்நாட்டு சுகாதாரத் துறை உறுதிப்படுத்தியுள்ளது.
+
+'ஸ்க்ரூவோர்ம்கள்' அல்லது சதை உண்ணும் திருகுப்புழுக்கள் என்பவை ஒருவித ஒட்டுண்ணி ஈக்கள். இதில் பெண் ஈக்கள் கால்நடைகள், காட்டு விலங்குகளில் ஏற்படும் காயங்களில் முட்டையிடுகின்றன.
+
+முட்டைகள் பொரித்தவுடன், நுாற்றுக்கணக்கான திருகுப்புழு லார்வாக்கள் தங்கள் கூர்மையான வாய்களை பயன்படுத்தி, விலங்கின் காயங்களுக்குள்ளும் சென்று, உயிருள்ள சதையைத் துளையிட்டு உண்ணும்.
+
+உரிய நேரத்தில் சிகிச்சை அளிக்கப்படாவிட்டால் பாதிக்கப்பட்ட கால் நடையோ, விலங்கோ உயிரிழக்க நேரிடும். ஆனால் இந்த சதை உண்ணும் ஒட்டுண்ணி மனிதர்களிடத்தில் காணப்படுவது அரிது.
+
+இந்த நிலையில் முதல்முறையாக, அமெரிக்காவின் மத்திய நோய் கட்டுப்பாடு மற்றும் தடுப்பு மையம், நியூயார்க்கில் உள்ள ஒருவரிடம், இந்த ஒட்டுண்ணியைக் கண்டறிந்துள்ளது. அவர், எல் சால்வடாரில் இருந்து திரும்பியதாக தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/915161d8.json)
+
+---
+
+### රනිල්ට අද අධිකරණයට යන්න බැරි වෙන ලකුණු  - තවදුරටත් ICU ප්‍රතිකාර
+
+*2025-08-26 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213801) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව තවදුරටත් දැඩි සත්කාර ඒකකයේ වෛද්‍ය නිරීක්ෂණය මත තබාගත යුතු බවට වන නිර්දේශ හේතුවෙන් බොහෝදුරට ඔහු අද (26) අධිකරණයට ඉදිරිපත් කිරීම නොහැකිවනු ඇතැයි බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ජගත් වීරසිංහ මහතා සඳහන් කරයි.
+
+ඒ මහතා වැඩිදුරටත් සඳහන් කළේ ZOOM තාක්ෂණය ඔස්සේ හෝ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව නීති කෘත්‍ය සඳහා ඉදිරිපත් කරන ලෙසට මහෙස්ත්‍රාත්වරිය නියෝග කළ හොත් ඊට අවශ්‍ය කටයුතු සම්පාදනය කළ හැකි බවය.
+
+රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහි නඩුව අද කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ යළි කැඳවීමට නියමිතය.
+
+සිද්ධියට අදාළව පසුගිය 22 වෙනිදා අත්අඩංගුවට ගත් හිටපු ජනාධිපතිවරයා අද දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
+
+ඒ මහතාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගනිමින් එදින ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු අතර වෛද්‍ය නිර්දේශ මත ඊට පසුදින ඔහු කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කෙරුණි.
+
+...
+
+[Data](articles/b67fa29b.json)
+
+---
 
 ### கலகம் தடுக்கும் படைகள் குவிப்பு
 
@@ -588,7 +628,7 @@ Meanwhile, the General Secretary of the Sri Lanka Freedom Party (SLFP), Duminda 
 
 ඒ අනුව මේ වන විට හිටපු ජනාධිපතිවරයා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන අතර ඔහු අද දිනයේ අධිකරණය හමුවට ඉදිරිපත් කළ යුතු වේ.
 
-කෙසේවෙතත් ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගෙන විශේෂඥ වෛද්‍යවරුන් 5 දෙනෙකුගෙන් යුත් කමිටුවක් මඟින් ඔහු අධීක්ෂණය සිදුකරන අතර අද දිනයේ අධිකරණයට ඉදිරිපත් කරනවාද? නැද්ද? යන්න එම කමිටුව විසින් නිර්දේශ ඉදිරිපත් කරන බව වාර්තා වේ.
+කෙසේවෙතත් හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගෙන විශේෂඥ වෛද්‍යවරුන් 5 දෙනෙකුගෙන් යුත් කමිටුවක් මඟින් ඔහු අධීක්ෂණය සිදුකරන අතර අද දිනයේ අධිකරණයට ඉදිරිපත් කරනවාද? නැද්ද? යන්න එම කමිටුව විසින් නිර්දේශ ඉදිරිපත් කරන බව වාර්තා වේ.
 
 ...
 
@@ -1749,43 +1789,5 @@ The 26-year-old suspect is scheduled to be produced before the Kesbewa Magistrat
 ◼️
 
 [Data](articles/09a48287.json)
-
----
-
-### President appoints 28-member Task Force to develop Tourism industry
-
-*2025-08-25 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111836/president-appoints-28-member-task-force-to-develop-tourism-industry-) · `en`
-
-A Presidential Task Force has been appointed for the implementation of the Sri Lanka Tourism Development Programme.
-
-The 28-member Task Force has been appointed by President Anura Kumara Dissanayake by virtue of the powers vested in him by Article 33 of the Constitution.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath has been named the Chairman of the Task Force while the Deputy Minister of Tourism, Ruwan Chaminda Ranasingha has been named the Vice Chairman of the Presidential Task Force.
-
-The Task Force has been mandated with policy analysis, strategic planning and regulations and the identification of challenges and solutions.
-
-They are also tasked with monitoring and evaluation of all institutions in the tourism sector, including the Sri Lanka Tourism Development Authority.
-
-The Presidential Task Force has been appointed for a period of two years and they are required to submit a comprehensive report before the end of their tenure.
-
-◼️
-
-[Data](articles/d044a0c8.json)
-
----
-
-### ධාවනයෙන් ඉවත් කල වාහන 60ක් වෙන්දේසියේ විකුණා රු. කෝටි 12ක් ‍උපයා ගනියි
-
-*2025-08-25 17:35:51* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනයෙන්-ඉවත්-කල-වාහන-60ක්-වෙන්දේසියේ-විකුණා-රු--කෝටි-12ක්-‍උපයා-ගනියි/11-418058) · `si`
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයට අයත් ධාවනයෙන් ඉවතකල අබලි වාහන 60ක් ප්‍රසිද්ධ වෙන්දේසියේ විකුණා රු දොලොස් කෝටි අටලක්ෂ හැත්තෑහත්දහසක මුදලක් (රු. 120,877,000.00) ක මුදලක් රජයේ අදායමට බැර කර ඇත.
-
-මෙම අබලි වාහන 60න් වාහන 53ක් සාමාන්‍ය වාහන ලෙසත්, වාහන 07ක් අබලි වාහන ලෙසත්, වෙන්දේසි කරන ලද අතර අබලි වාහන වෙන්දේසියේදී වෙන්දේසි කිරීමට ප්‍රථම ලියාපදිංචි අවලංගු කිරීමටද කටයුතු කර ඇත.
-
-වෙන්දේසි කල වාහන අතර අබලි මෝටර් රථ, අබලි ත්‍රිරෝද රථ සහ අබලි යතුරුපැදි ද වූ බව සඳහන් වේ. ඉදිරියේදී මුදල් අමාත්‍යාංශයේ කොම්ප්ට්‍රොලර් ජනරාල්ගේ අනුමැතිය ලද වහාම ධාරිතාවය 1800 CC ට වැඩි පෙට්‍රල් වාහන සහ 2300  CC ට වැඩි ඩීසල් වාහන (ධාවන තත්වයේ) 18 ක්ද ප්‍රසිද්ධ වෙන්දේසියේ වෙන්දේසි කිරීමට නියමිත බව සෞඛය අමාත්‍යාංශය සදහන් කර ඇත.
-
-...
-
-[Data](articles/5a9bcb4e.json)
 
 ---

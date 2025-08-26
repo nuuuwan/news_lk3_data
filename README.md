@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 04:19:42**
+As of **2025-08-27 04:32:07**
 
 ## Newspaper Stats
 
-*Scraped **72,534** Articles*
+*Scraped **72,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 744
 economynextcom | 4,431
 islandlk | 4,454
 dailymirrorlk | 4,733
-dailyftlk | 5,106
+dailyftlk | 5,109
 adalk | 6,974
 adaderanalk | 9,190
 tamilmirrorlk | 10,752
@@ -26,11 +26,65 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,534 articles have been extended.
+61,973 (85.4%) of 72,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### President orders housing, urban development projects completion within 2025 Budget timelines
+
+*2025-08-27 04:05:34* · [`dailyftlk`](https://www.ft.lk/news/President-orders-housing-urban-development-projects-completion-within-2025-Budget-timelines/56-780802) · `en`
+
+Says projects with 2025 Budget allocations must be completed within year
+
+Points to 18 bridge projects in Hambantota abandoned mid-construction to be reassessed
+
+Instructs officials to explore bank facilities for citizens without State housing
+
+Officials say housing schemes funded by Chinese and Indian loans to be completed this year
+
+President Anura Kumara Disanayake on Monday instructed the Urban Development, Construction, and Housing Ministry to ensure that projects launched under the 2025 Budget, including housing schemes, bridge construction, and urban development initiatives, are completed within the year, cautioning that unspent allocations and delays have become a recurring problem.
+
+A review of projects implemented under the 2025 Budget allocations for the ministry, together with a pre-Budget discussion for 2026, was held on 25 August at the Presidential Secretariat, the President’s Media Division said.
+
+...
+
+[Data](articles/f3924f45.json)
+
+---
+
+### BASL warns against social media interference in judiciary
+
+*2025-08-27 04:04:30* · [`dailyftlk`](https://www.ft.lk/news/BASL-warns-against-social-media-interference-in-judiciary/56-780801) · `en`
+
+The Bar Association of Sri Lanka (BASL) on Monday expressed serious concern over comments circulating on social media and other platforms relating to matters that fall under the purview of the Judicial Service Commission (JSC) and the judiciary, stressing that both are independent institutions that must remain free from outside interference.
+
+In a statement, the BASL noted that the Judicial Service Commission, comprising the Chief Justice and two senior Supreme Court judges, holds responsibility over the transfer of High Court judges as well as the appointment, promotion, transfer, disciplinary control, and dismissal of judicial officers and certain scheduled public officers.
+
+...
+
+[Data](articles/c5d82fff.json)
+
+---
+
+### US Congressional staff delegation in Sri Lanka
+
+*2025-08-27 04:04:11* · [`dailyftlk`](https://www.ft.lk/news/US-Congressional-staff-delegation-in-Sri-Lanka/56-780800) · `en`
+
+US Ambassador Julie Chung says delegation seeking cooperation in governance, trade and security
+
+US Ambassador to Sri Lanka Julie Chung yesterday said a delegation of bipartisan Congressional staffers from the United States was in Sri Lanka to explore opportunities for cooperation in governance, trade and security.
+
+Ambassador Chung said the visit is part of ongoing engagement, with meetings scheduled with Parliamentarians, civil society groups and senior Government officials to exchange views on strengthening democratic practices.
+
+She added that the House Democracy Partnership, a bipartisan initiative of the US Congress, supports legislatures worldwide in promoting accountability and transparency, and contributes to advancing economic growth, regional security and international cooperation.
+
+◼️
+
+[Data](articles/464c19e4.json)
+
+---
 
 ### செம்மணியில் மேலும் 6 எலும்புக்கூடுகள் அடையாளம்
 
@@ -1683,63 +1737,5 @@ Instead, that goal “is increasingly out of reach”, they warned.
 ...
 
 [Data](articles/90553a17.json)
-
----
-
-### சிறுமியை 20 முறை கத்தியால் குத்தி கொலை செய்த சிறுவன்
-
-*2025-08-26 12:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-20-முறை-கத்தியால்-குத்தி-கொலை-செய்த-சிறுவன்/175-363518) · `ta`
-
-10 வயது சிறுமியை 20 முறை கத்தியால் குத்தி, சிறுவன் ஒருவன் கொலை செய்துள்ளமை தெலங்கானா மாநிலம் சங்காரெட்டி மாவட்டத்தில் பெரும் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.
-
-தெலங்கானா மாநிலம் சங்காரெட்டி மாவட்டம் முத்தக்யாசாராம் கிராமத்தை சேர்ந்த தம்பதியின் மகள் சஹஸ்ரா.
-
-10 வயதே ஆன சஹஸ்ரா வீட்டருகே உள்ள பாடசாலையில் 5ஆம் வகுப்பு படித்து வந்தார். கணவன் - மனைவி இருவரும் வேலைக்கு சென்று விட்ட நிலையில் சஹஸ்ரா மட்டும் வீட்டில் தனியாக இருந்துள்ளார்.
-
-வேலைக்கு சென்றவர்கள் திரும்பி வந்தபோது, வீட்டிற்குள் சஹஸ்ரா இரத்த வெள்ளத்தில் இறந்து கிடந்ததை பார்த்து கடும் அதிர்ச்சி அடைந்துள்ளனர்.
-
-உடல் முழுவதும் கத்திக் குத்து காயங்களுடன் சஹஸ்ரா கொடூரமாக கொலை செய்யப்பட்டு கிடந்துள்ளார். தகவல் அறிந்த பொலிஸார் விரைந்து வந்து தீவிர விசாரணை நடத்தியும், கொலையாளி குறித்த எந்த தடயமும் கிடைக்கவில்லை.
-
-அந்த பகுதியில் பொருத்தப்பட்டிருந்த கண்காணிப்பு கெமரா காட்சிகளை ஆய்வு செய்தபோது, சஹஸ்ராவின் பாடசாலையில் 10ஆவது படிக்கும் ஒரு மாணவன் வந்து செல்வது பதிவாகி இருந்தது.
-
-...
-
-[Data](articles/deaa943f.json)
-
----
-
-### Former State Minister Shasheendra Rajapaksa further remanded
-
-*2025-08-26 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111864/former-state-minister-shasheendra-rajapaksa-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded until August 29, Ada Derana reporter said.
-
-Rajapaksa was arrested on August 6 by Bribery Commission officers at his residence in Nugegoda.
-
-He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
-
-Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
-
-...
-
-[Data](articles/e6b7d6fc.json)
-
----
-
-### Tourist arrivals in August top 166,000
-
-*2025-08-26 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111863/tourist-arrivals-in-august-top-166000) · `en`
-
-A total of 166,766 tourists have arrived in the country thus far in August, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
-
-According to data released by the SLTDA, a total of 38,456 tourists have arrived from India which accounts to 23.1%. Furthermore, 17,418 persons from the United Kingdom, 11,459 from Italy, 10,559 from China and 10,344 German nationals have also visited Sri Lanka in the month of August.
-
-Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,535,054 with the release of the latest figures for August.
-
-Among them, 317,578 individuals are from India, 148,795 from the UK and 118,371 are from Russia, the SLTDA noted.
-
-◼️
-
-[Data](articles/cc617740.json)
 
 ---

@@ -1,36 +1,68 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 11:52:34**
+As of **2025-08-26 12:09:22**
 
 ## Newspaper Stats
 
-*Scraped **72,404** Articles*
+*Scraped **72,408** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 614
 bbccomsinhala | 677
-colombotelegraphcom | 741
+colombotelegraphcom | 742
 economynextcom | 4,420
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,957
 adaderanalk | 9,165
-tamilmirrorlk | 10,721
+tamilmirrorlk | 10,723
 virakesarilk | 11,914
-adaderanasinhalalk | 12,539
+adaderanasinhalalk | 12,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,404 articles have been extended.
+61,973 (85.6%) of 72,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ”பொலிஸ்,ராணுவ நடவடிக்கைகள் இன்று முதல் தீவிரப்படுத்தப்படும்”
+
+*2025-08-26 11:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-ராணுவ-நடவடிக்கைகள்-இன்று-முதல்-தீவிரப்படுத்தப்படும்/175-363513) · `ta`
+
+இலங்கையில் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களைத் தடுப்பதற்கான தொடர்ச்சியான நடவடிக்கைகள் இன்று (26) முதல் தீவிரப்படுத்தப்படும் என்று பொதுப் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பொலிஸ் மற்றும் ராணுவத்தால் நடத்தப்படும் நடவடிக்கைகள் மேலும் வலுப்படுத்தப்படும் என்றும், மேலும் தொடரும் என்றும் அவர் கூறினார்.
+
+இரண்டு மாகாணங்களிலும் சமீபத்தில் குற்றச் செயல்கள் அதிகரித்து வருவதால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அமைச்சர் விஜேபால தெரிவித்தார்.
+
+◼️
+
+[Data](articles/5ddf77c9.json)
+
+---
+
+### ரணில் கைது;ஐ.தே.க உறுப்பினர்கள் மகாநாயக்க தேரருடன் சந்திப்பு
+
+*2025-08-26 11:46:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-தே-க-உறுப்பினர்கள்-மகாநாயக்க-தேரருடன்-சந்திப்பு/175-363512) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் (UNP) துணைத் தலைவர் ருவான் விஜேவர்தன, கட்சியின் பொதுச் செயலாளர் தலதா அதுகோரல மற்றும் பல மூத்த கட்சி உறுப்பினர்கள் இன்று (26) காலை அஸ்கிரிய மகா விஹாரையில் சியாம் மகா நிக்காயவின் அஸ்கிரிய பீடத்தின் மகாநாயக்கர் வரகாகொட ஸ்ரீ ஞானரத்ன தேரரை சந்தித்தனர்.
+
+இந்தச் சந்திப்பின் போது, ​​முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தொடர்பான விஷயங்கள் மற்றும் நாட்டின் தற்போதைய அரசியல் மற்றும் பொருளாதார நிலைமை குறித்து ஐக்கிய தேசியக் கட்சி பிரதிநிதிகள் மகாநாயக்க தேரர் மற்றும் மகா சங்கத்தினருக்கு விளக்கினர்.
+
+தற்போது கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வரும் திரு. விக்ரமசிங்கவுக்கு மகா சங்கத்தினர் தமது ஆசிர்வாதங்களை வழங்கினர்.
+
+◼️
+
+[Data](articles/2bde32d1.json)
+
+---
 
 ### ”ஒருபோதும் அஞ்சமாட்டோம்”
 
@@ -67,6 +99,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/427a0785.json)
+
+---
+
+### ජාතික ක්‍රීඩා සංගම් 3ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවයි
+
+*2025-08-26 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213805) · `si`
+
+මළල ක්‍රීඩා, මේස පන්දු හා ජිම්නාස්ටික් ජාතික සංගම් වල ලියාපදිංචිය තාවකාලිකව අත්හිටුවා ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව ඊයේ (25) දිනයේ සිට මෙය ක්‍රියාත්මක බව අදාළ ගැසට් නිවේදනයෙන් දක්වා ඇත.
+
+මෙමගින් අදාළ සංගම් තුනෙහි පරිපාලන හා අධීක්ෂණ කටයුතු ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යංශ ලේකම්වරයා යටතට පත් කොට තිබේ.
+
+1973 අංක 25 දරණ ක්‍රීඩා පනතේ 32 හා 33 වගන්ති වලට අනුව මෙම ගැසට් නිවේදනය නිකුත් කර ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/23db16d3.json)
 
 ---
 
@@ -960,6 +1010,24 @@ Meanwhile, the General Secretary of the Sri Lanka Freedom Party (SLFP), Duminda 
 
 ---
 
+### Do Lankans Want Corruption Eradicated, But Not Through Ranil!?
+
+*2025-08-26 06:22:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/do-lankans-want-corruption-eradicated-but-not-through-ranil/) · `en`
+
+Corruption remains a significant challenge within Sri Lanka’s political landscape. It has eroded public trust and has fostered a culture of impunity. A weak legal framework, lack of transparency and political accountability has offered impunity to many in power. We have witnessed the extraordinary abuse of public funds by successive political entities.
+
+The current government in its bid for election, ran its campaign offering a concerted effort to enhance transparency, strengthen institutions, and promote civic engagement to foster-a political culture that prioritizes integrity and accountability.
+
+Is there psychological discomfort with the arrest of former president Ranil Wickremesinghe?
+
+to reevaluate one’s principles as to who should be held accountable and who shouldn’t?
+
+...
+
+[Data](articles/8dc3f968.json)
+
+---
+
 ### හිටපු ජනපති රනිල්ට එරෙහි නඩුව අද
 
 *2025-08-26 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213788) · `si`
@@ -1677,77 +1745,5 @@ The statement pointed out that the Judicial Service Commission is a Commission c
 ◼️
 
 [Data](articles/a7472fba.json)
-
----
-
-### නීතිඥ සංගමයෙන් නිවේදනයක්
-
-*2025-08-25 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213785) · `si`
-
-පසුගිය සති කිහිපය තුළ සමාජ මාධ්‍ය ඔස්සේ අධිකරණ සේවා කොමිෂන් සභාව සහ අධිකරණ පද්ධතියේ විෂය පථයට අයත් කාරණා සම්බන්ධයෙන් පළ වී ඇති අදහස් පිළිබඳ නීතිඥ සංගමයෙන් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
-
-එම නිවේදනය මඟින් නීතිඥ සංගමය පෙන්වා දෙන්නේ, අධිකරණ කොමිෂන් සභාව ස්වාධීන ආයතනයක් වන බවත් එය ඉතා වගකීම් සහගත අන්දමින් කාලාන්තරයක් මුළුල්ලේ නීතියේ ස්වාධීනත්වය ආරක්ෂා කිරීමට කටයුතු කරමින් සිටින බවත්ය.
-
-යූ ටියුබ් වැනි සමාජ මාධ්‍යයන් ඔස්සේ, අදහස් පළ කිරීමේදී හා නීතියේ විෂයපථයට අදාළ කරුණු වාර්තා කිරීමේ දී සුපරික්ෂාකාරී අන්දමින් කටයුතු කරන ලෙසත් අසත්‍ය පුවත් වාර්තා කිරීම නීතියට පටහැනි බවත් අදාළ නිවේදනයෙන් වැඩිදුරටත් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/4a7ffa7a.json)
-
----
-
-### Israel hits Gaza hospital, killing at least 20 people, including five journalists
-
-*2025-08-25 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111840/israel-hits-gaza-hospital-killing-at-least-20-people-including-five-journalists) · `en`
-
-Israel struck Nasser hospital in the south of the Gaza Strip on Monday, killing at least 20 people, including five journalists who worked for Reuters, the Associated Press, Al Jazeera and others.
-
-Cameraman Hussam al-Masri, a Reuters contractor, was killed near a live broadcasting position operated by Reuters on an upper floor just below the roof of the hospital in Khan Younis in an initial strike, Palestinian health officials said.
-
-Officials at the hospital and witnesses said Israel then struck the site a second time, killing other journalists as well as rescue workers and medics, who had rushed to the scene to help.
-
-The journalists killed included Mariam Abu Dagga, who freelanced for the Associated Press and other outlets, Mohammed Salama, who worked for Qatar-based broadcaster Al Jazeera, Moaz Abu Taha, a freelance journalist who worked with several news organisations including occasionally contributing to Reuters, and Ahmed Abu Aziz.
-
-...
-
-[Data](articles/3def333d.json)
-
----
-
-### රුසියාව යුද්ධය අවසන් කිරීමේ කොන්දේසි ඉදිරිපත් කරයි
-
-*2025-08-25 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213784) · `si`
-
-රුසියානු විදෙස් කටයුතු ඇමති සර්ගෙයි ලැව්රෝ, යුක්‍රේන යුද්ධය අවසන් කිරීමට රුසියාව අපේක්ෂා කරන කොන්දේසි කිහිපයක් නිවේදනය කර තිබේ.
-
-එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලයේ නිත්‍ය සාමාජිකයින් පස් දෙනා ඇතුළුව රටවල් ඇතුළත් කණ්ඩායමක් පත්කර යුක්‍රේනයේ ආරක්ෂාව තහවුරු කළ යුතු බවට ඒ යටතේ ලැව්රෝ පවසයි.
-
-එම රටවල් අතරට ජර්මනිය සහ තුර්කිය ඇතුළත් වීම අත්‍යවශ්‍ය බවත් එහිදී ඔහු වැඩිදුරටත් පවසා තිබුණි.
-
-එමෙන්ම අපක්ෂපාතී රටක් ලෙස පැවතිය යුතු බවත්, කිසිදු යුදමය කණ්ඩායමක සාමාජිකත්වය නොගත යුතු බවත් එය න්‍යෂ්ටික අවි අත්හළ යුතු බවත් රුසියානු විදෙස් කටයුතු ඇමතිවරයා මෙහිදී අවධාරණය කළේය.
-
-◼️
-
-[Data](articles/5cd39e77.json)
-
----
-
-### தனியார் வைத்தியசாலையில் அறுவை சிகிச்சை செய்த தாய் மரணம்
-
-*2025-08-25 20:39:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-வைத்தியசாலையில்-அறுவை-சிகிச்சை-செய்த-தாய்-மரணம்/175-363473) · `ta`
-
-தனியார் வைத்தியசாலையில் அறுவை சிகிச்சைக்குப் பிறகு உயிரிழந்த தாயின் மரணம் தொடர்பாக இன்று மூன்று பேர் கொண்ட சிறப்பு தடயவியல் வைத்தியர்கள்  குழு பிரேத பரிசோதனை நடத்த உள்ளது.
-
-காலியைச் சேர்ந்த, 46 வயதான செவ்வந்தி வயிற்று வலி காரணமாக ஹிம்புராலவில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக கூறப்படுகிறது.
-
-கருப்பைக்கட்டியை குணப்படுத்த அவரது கருப்பையை அகற்ற வேண்டும் என்று ஒரு மகளிர் வைத்திய நிபுணர் அறிவுறுத்தியதாகக் கூறப்படுகிறது.
-
-இரண்டாவது டோஸ் ஊசி போட்ட பிறகு அவரது உடல்நிலை மிகவும் மோசமாகியது, இதனால் அவர் கராப்பிட்டி வைத்தியசாலைக்கு மாற்றப்பட்டார்.
-
-கராப்பிட்டியில் உள்ள வைத்தியர்கள் முயற்சித்த போதும், அவரது மூளைக்கு இரத்தம் செல்வது தடைப்பட்டதால் ஆகஸ்ட் 23ஆம் திகதி அவர் உயிரிழந்தமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/72cc3d96.json)
 
 ---

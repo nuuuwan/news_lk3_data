@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 17:06:52**
+As of **2025-08-26 17:18:13**
 
 ## Newspaper Stats
 
-*Scraped **72,490** Articles*
+*Scraped **72,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,967
-adaderanalk | 9,183
+adaderanalk | 9,184
 tamilmirrorlk | 10,744
 virakesarilk | 11,925
-adaderanasinhalalk | 12,554
+adaderanasinhalalk | 12,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,490 articles have been extended.
+61,973 (85.5%) of 72,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### රනිල්ට සහාය දුන් සැමට  එජාපයෙන් ස්තූතිය
+
+*2025-08-26 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213820) · `si`
+
+මෙම කාලය පුරාවටම කැප වී වැඩ කරපු සියලු දෙනාට තම පක්ෂය වෙනුවෙන් ස්තූතිය පුද කරන බව එක්සත් ජාතික පක්ෂයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී අකිල විරාජ් කාරියවසම් මහතා පවසයි.
+
+නීතිඥවරු 500කට වැඩි ප්‍රමාණයක් හා විශාල ජනකායක් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වීම සඳහා පැමිණීම සම්බන්ධයෙන්ද තමා සිය කෘතඥතාවය පළ කරන බව එහිදී ඔහු වැඩිදුරටත් සඳහන් කළේය.
+
+එමෙන්ම මාධ්‍ය වෙත අදහස් දක්වමින් එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා ද හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කිරීමට පැමිණි සියලුම දෙනාට සිය ස්තූතිය පළ කර සිටියේය.
+
+විශේෂයෙන්ම සමගි ජන බලවේගයේ විපක්ෂනායකවරයා ඇතුළු සියලුම දෙනාටත් අනෙත් පක්ෂවල නායකයින්ටත් රටේ ප්‍රජාතන්ත්‍රවාදය ආරක්ෂා කිරීමට සහාය ලබා දීම පිළිබඳව සිය ස්තූතිය පළ කරන බව එහිදී ඔහු සඳහන් කළේය.
+
+එමෙන්ම ප්‍රතිවාදීන් ලෙස සිටි නාමල් රාජපක්ෂ, මහින්ද රාජපක්ෂ සහ මෛත්‍රීපාල සිරිසේන මෙන්ම රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් පෙනී සිටි සියලුම නීතිඥවරුන්ටත් ඔහු සිය කෘතඥතාවය පළ කර සිටියේය.
+
+◼️
+
+[Data](articles/8c051da3.json)
+
+---
 
 ### பிணையில் விடுதலையானார் ரணில் !
 
@@ -95,6 +115,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/22b52d52.json)
+
+---
+
+### Ex-President Ranil Wickremesinghe granted bail
+
+*2025-08-26 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111875/ex-president-ranil-wickremesinghe-granted-bail-) · `en`
+
+Former President Ranil Wickremesinghe, who was arrested and remanded on Friday (22), has been granted bail, Ada Derana reporter said.
+
+The order was issued by Colombo Fort Magistrate Nilupuli Lankapura.
+
+Former President Ranil Wickremesinghe was ordered released on three surety bails of Rs. 5 million each.
+
+The hearing of the case filed against former President Ranil Wickremesinghe commenced at the Colombo Fort Magistrate’s Court, at around 1:40 p.m. on Tuesday.
+
+The former President, who is at the Intensive Care Unit of the Colombo National Hospital at present, joined the court hearing virtually via Zoom.
+
+During the hearing, a detailed medical report of former President Ranil Wickremesinghe’s medical was presented to the court by his attorneys.
+
+According to the submissions made by President’s Counsel Anuja Premaratna, three of the four coronary arteries of the former President have been blocked.
+
+...
+
+[Data](articles/9c7e6184.json)
 
 ---
 
@@ -1703,41 +1747,5 @@ He was then transferred to the Colombo National Hospital after his medical condi
 ...
 
 [Data](articles/d94780cb.json)
-
----
-
-### රනිල්ට අද අධිකරණයට යන්න බැරි වෙන ලකුණු  - තවදුරටත් ICU ප්‍රතිකාර
-
-*2025-08-26 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213801) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව තවදුරටත් දැඩි සත්කාර ඒකකයේ වෛද්‍ය නිරීක්ෂණය මත තබාගත යුතු බවට වන නිර්දේශ හේතුවෙන් බොහෝදුරට ඔහු අද (26) අධිකරණයට ඉදිරිපත් කිරීම නොහැකිවනු ඇතැයි බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ජගත් වීරසිංහ මහතා සඳහන් කරයි.
-
-ඒ මහතා වැඩිදුරටත් සඳහන් කළේ ZOOM තාක්ෂණය ඔස්සේ හෝ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව නීති කෘත්‍ය සඳහා ඉදිරිපත් කරන ලෙසට මහෙස්ත්‍රාත්වරිය නියෝග කළ හොත් ඊට අවශ්‍ය කටයුතු සම්පාදනය කළ හැකි බවය.
-
-රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහි නඩුව අද කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ යළි කැඳවීමට නියමිතය.
-
-සිද්ධියට අදාළව පසුගිය 22 වෙනිදා අත්අඩංගුවට ගත් හිටපු ජනාධිපතිවරයා අද දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
-
-ඒ මහතාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගනිමින් එදින ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු අතර වෛද්‍ය නිර්දේශ මත ඊට පසුදින ඔහු කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කෙරුණි.
-
-...
-
-[Data](articles/b67fa29b.json)
-
----
-
-### Ex-President Ranil unlikely to be produced in court today - Prisons Spokesman
-
-*2025-08-26 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111855/ex-president-ranil-unlikely-to-be-produced-in-court-today-prisons-spokesman) · `en`
-
-Former President Ranil Wickremesinghe is unlikely to be produced before court today (26), due to medical recommendations stating that he must continue to remain under observation in the Intensive Care Unit (ICU), according to Prisons media spokesperson Jagath Weerasinghe.
-
-He further stated that if the Magistrate issues an order for Wickremesinghe to be presented via Zoom for legal proceedings, necessary arrangements can be made accordingly.
-
-The case against the former President — who was arrested by the Criminal Investigation Department (CID) on August 22 under the Public Property Act over alleged misuse of state funds — is scheduled to be taken up again today before the Colombo Fort Magistrate’s Court.
-
-...
-
-[Data](articles/f2cb9020.json)
 
 ---

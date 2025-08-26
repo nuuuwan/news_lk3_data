@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 13:19:18**
+As of **2025-08-26 13:31:54**
 
 ## Newspaper Stats
 
-*Scraped **72,425** Articles*
+*Scraped **72,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,959
-adaderanalk | 9,169
+adaderanalk | 9,170
 tamilmirrorlk | 10,729
-virakesarilk | 11,917
+virakesarilk | 11,918
 adaderanasinhalalk | 12,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,425 articles have been extended.
+61,973 (85.6%) of 72,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### அம்பானி மகனின் வனவிலங்குப் பூங்கா மீது நீதிமன்ற விசாரணை
+
+*2025-08-26 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223400) · `ta`
+
+இந்திய தொழிலதிபர் முகேஷ் அம்பானியின் மகன் ஆனந்த் அம்பானி தலைமையில் செயல்பட்டு வரும் ரிலையன்ஸ் அறக்கட்டளையின் 'வந்தாரா' வனவிலங்குப் பூங்காவை விசாரணை செய்ய நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த பூங்கா குஜராத்தின் ரிலையன்ஸ் ஜாம்நகர் வளாகத்தில் 3000 ஏக்கர் பரப்பளவில் பறந்து விரிந்துள்ளது. 2024 இல் இந்திய பிரதமர் மோடி இந்த மையத்தை திறந்து வைத்தார். இதுவே உலகின் மிகப்பெரிய தனியார் உயிரியல் பூங்கா என கருதப்படுகிறது.
+
+இங்கு சிங்கங்கள், சிறுத்தைகள், யானைகள், காண்டாமிருகங்கள் மற்றும் முதலைகள் என 43 வகையான இனத்தைச் சேர்ந்த 2000க்கும் மேற்பட்ட வனவிலங்குகள் உள்ளது.
+
+இங்குள்ள விலங்குகள் குறிப்பாக யானைகள் சட்டவிரோதமாக உள்நாடு மற்றும் வெளிநாடுகளில் இருந்து கடத்திக் கொண்டுவரப்பட்டவை என்று பரவலாக குற்றசாட்டு எழுந்தது. விலங்குகள் நல அமைப்புகள், ஆர்வலர்கள் தரப்பில் இந்த குற்றச்சாட்டு முன்வைக்கப்பட்டது.
+
+இதுதொடர்பாக சட்டதரணி சி.ஆர்.ஜெயா சுகின் உச்சநீதிமன்றத்தில் பொதுநல மனு தாக்கல் செய்தார். மனுவில் வந்தாரா மையத்தின் செயல்பாடுகள் குறித்து சுகின் பல குற்றச்சாட்டுகளை முன்வைத்திருந்தார்.
+
+...
+
+[Data](articles/05b20cdd.json)
+
+---
 
 ### ශෂේන්ද්‍ර රාජපක්ෂ යළි රිමාන්ඩ්
 
@@ -157,6 +177,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b3138a4b.json)
+
+---
+
+### Ambani son’s wildlife park to face court probe into allegations of animal mistreatment
+
+*2025-08-26 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111862/ambani-sons-wildlife-park-to-face-court-probe-into-allegations-of-animal-mistreatment) · `en`
+
+India’s Supreme Court has ordered an investigation into a wildlife rescue park run by Reliance Foundation, the philanthropic arm of billionaire Mukesh Ambani’s group, although it said allegations of unlawful animal acquisitions and mistreatment were not supported by evidence.
+
+Vanatara is a marquee project of the Ambani family located in western Gujarat state and led by the billionaire’s son, Anant Ambani.
+
+Its website says it has rescued and treated thousands of animals, and built the largest elephant hospital.
+
+It was also one of the venues of pre-wedding celebrations of Anant last year, that saw global celebrities in attendance who were advised to don “jungle fever” outfits when visiting the animal rescue centre.
+
+...
+
+[Data](articles/8dd64c50.json)
 
 ---
 
@@ -1725,31 +1763,5 @@ In a stock exchange filing LIOC said Jain is presently on the Board of Indian Oi
 ...
 
 [Data](articles/9b7c9c58.json)
-
----
-
-### New chapter for EO Sri Lanka as 2025-2026 Board takes lead
-
-*2025-08-26 01:12:04* · [`dailyftlk`](https://www.ft.lk/business/New-chapter-for-EO-Sri-Lanka-as-2025-2026-Board-takes-lead/34-780754) · `en`
-
-In a vibrant ceremony held on 19 July, the Entrepreneurs’ Organisation (EO) Sri Lanka celebrated the official induction of its 2025-2026 Board. The baton of leadership was handed over from outgoing President, Chinese Dragon Café Director Naishadh Udeshi to the newly appointed President, Stafford Motor Company Ltd., Executive Director Tarindra Kaluperuma. Kaluperuma is focused on helping members explore EO beyond the country, encouraging engagement with the larger EO community outside of EO Sri Lanka. His theme, “Beyond Boundaries, Beyond Limits”, embodies a vision of deeper and wider connections, inspiring members to broaden their horizons and build meaningful relationships across borders.
-
-...
-
-[Data](articles/3ec84712.json)
-
----
-
-### Chartered Management Institute (UK) Sri Lanka branch re-appoints Kamaya Perera as President
-
-*2025-08-26 01:10:43* · [`dailyftlk`](https://www.ft.lk/business/Chartered-Management-Institute-UK-Sri-Lanka-branch-re-appoints-Kamaya-Perera-as-President/34-780753) · `en`
-
-The Chartered Management Institute (CMI-UK) Sri Lanka branch has announced the re-appointment of Kamaya Perera as its President during its 24th Annual General Meeting held on 12 August 2025.
-
-Perera, a distinguished leader in the management field, assumes this pivotal role as the first female President of the CMI Sri Lanka branch with a steadfast commitment to advancing professional standards and fostering leadership excellence across Sri Lanka.
-
-...
-
-[Data](articles/9d8737b2.json)
 
 ---

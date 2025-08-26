@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 05:18:28**
+As of **2025-08-26 06:09:33**
 
 ## Newspaper Stats
 
-*Scraped **72,326** Articles*
+*Scraped **72,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 614
 bbccomsinhala | 677
 colombotelegraphcom | 739
-economynextcom | 4,418
-islandlk | 4,442
+economynextcom | 4,420
+islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,948
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,326 articles have been extended.
+61,973 (85.7%) of 72,340 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -328,7 +328,109 @@ At the heart of the matter is a fundamental question: can Sri Lanka strike the d
 
 ---
 
+### Bert … in the spotlight
+
+*2025-08-26 00:07:00* · [`islandlk`](http://island.lk/bert-in-the-spotlight/) · `en`
+
+Bert Ekenaike is making his presence felt in Melbourne, Australia, in a very big way, but not as an entertainer.
+
+He is big in the scene over there as a promoter in the entertainment industry, and his activities have benefitted several Sri Lankan performers.
+
+As President of The Voluntary Outreach Club, last month (July), on the 19th, Bert provided an excellent ‘Winter Ball’, at The Grand On Princess, Mulgrave, Melbourne.
+
+According to informed sources, tickets were priced at $100 that allowed people, especially the pensioners and unemployed, to enjoy the music of Sri Lanka’s premier band Redeemers, with Perfect Harmony as a second band.
+
+Bert is now working on ‘A Flaming Night’, presented by the PPA of his old school, St. John’s College, Nugegoda, to be held on 13th September, at Number Ninety Receptions, with the band Flame, from Sri Lanka, providing the music.
+
+It’s after six years, says Bert, that Flame will be seen in action, at an event in Melbourne
+
+...
+
+[Data](articles/5ef04e08.json)
+
+---
+
 ### 2025-08-25 (Monday)
+
+### Indices decline as profit-takings hold sway
+
+*2025-08-25 23:55:00* · [`islandlk`](http://island.lk/indices-decline-as-profit-takings-hold-sway/) · `en`
+
+The CSE having gone through a major rally on the market the previous working days yesterday witnessed heavy profit- takings, market analysts said.
+
+Amid those developments both indices moved downward. The All Share Price Index went down by 73.61 points while the S and P SL20 declined by 41.51 points. Turnover stood at Rs 4.4 billion with eight crossings.
+
+Those crossings were reported in HNB, which crossed two million shares to the tune of Rs 790 million and its shares traded at Rs 395, E. B Creasy Company two million shares crossed to the tune of Rs 124 million; its shares traded at Rs 62, Hemas Holdings 2.75 million shares crossed for Rs 85.2 million; its shares traded at Rs 31, Sunshine Holdings 2.6 million shares crossed for Rs 81.9 million; its shares traded at Rs 30.50.
+
+...
+
+[Data](articles/4123d5dc.json)
+
+---
+
+### Union Bank recognised at Satyn Women Friendly Workplace Awards 2025
+
+*2025-08-25 23:54:00* · [`islandlk`](http://island.lk/union-bank-recognised-at-satyn-women-friendly-workplace-awards-2025/) · `en`
+
+Union Bank is proud to be recognized with a Special Award at the Satyn Women Friendly Workplace Awards 2025 for championing women in leadership! With women representing 50% of the Bank’s total workforce, this recognition reaffirms Union Bank’s dedication to driving equality and empowering women to thrive at every level.
+
+Aitken Spence Elevators and Rush Housing forge strategic partnership for vertical mobility across new developments
+
+Seylan Bank becomes the first Sri Lankan bank to achieve ISO 22301 certification for Business Continuity with an extended scope
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/9bc9e81d.json)
+
+---
+
+### Sri Lanka lawyers condemn YouTuber interference in legal proceedings
+
+*2025-08-25 23:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawyers-condemn-youtuber-interference-in-legal-proceedings-238282/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s judicial independence must be safeguarded and protected from any form of outside threat or interference sought to be effected via social media posts, statements, commentaries or purported case outcome predictions by YouTubers, a lawyers’ group has said.
+
+The Bar Association of Sri Lanka said that “Such acts undermine the rule of law, threatens the due process of law and can have potential to impact the public confidence in the administration of justice.”
+
+Perpetrators of such acts can be dealt with in terms of the law, BASL said, pointing to Article 111(C)(1) and (2) of the Constitution which contain penal provisions regarding interference with the judiciary.
+
+Sri Lanka’s former president Ranil Wickremesinghe was arrested and remanded last Friday following police questioning over alleged misappropriation of funds during a foreign visit while he was the president.
+
+...
+
+[Data](articles/57f3f795.json)
+
+---
+
+### Seylan Bank becomes the first Sri Lankan bank to achieve ISO 22301 certification for Business Continuity with an extended scope
+
+*2025-08-25 23:49:00* · [`islandlk`](http://island.lk/seylan-bank-becomes-the-first-sri-lankan-bank-to-achieve-iso-22301-certification-for-business-continuity-with-an-extended-scope/) · `en`
+
+Seylan Bank PLC proudly announces a landmark achievement in its commitment to operational excellence and customer trust. The Bank has secured the internationally recognized ISO 22301:2019 for Business Continuity Management Systems (BCMS), distinguishing Seylan Bank as the first bank in Sri Lanka to achieve this prestigious recognition. The certification covers International Banking, Treasury Function, Digital Banking, Central Clearing, IT, Card Center Operations, Finance, HR, Marketing, and the Bank’s Information Security Unit. This pioneering accomplishment is complemented by the concurrent attainment of the ISO/IEC 27001:2022 certification for Information Security Management Systems (ISMS), further solidifying the Bank’s robust infrastructure.
+
+...
+
+[Data](articles/853db5b4.json)
+
+---
+
+### From Saver to Investor: A Sri Lankan perspective
+
+*2025-08-25 23:46:00* · [`islandlk`](http://island.lk/from-saver-to-investor-a-sri-lankan-perspective/) · `en`
+
+Christine Dias Bandaranaike, CFA Charterholder since 1999, brings over 15 years of experience in both locally and internationally. As the current President of UTASL, she has been at the forefront of a remarkable transformation in Sri Lanka’s unit trust industry.
+
+In the early 1990, my mother, then a young widow, took a bold step. She sent me, her only child, to university overseas. When questioned about how she funded my undergraduate education, she revealed that she had done so without taking bank loans.
+
+...
+
+[Data](articles/68ef899c.json)
+
+---
 
 ### Prime Group makes history with Sri Lanka’s first luxury real estate client experience initiative ‘Prime Premier’
 
@@ -767,6 +869,26 @@ French company Valneva obtained US approval for the vaccine in 2023, but reports
 ◼️
 
 [Data](articles/12ab6ea5.json)
+
+---
+
+### Foreign investors sell Sri Lanka rupee bonds for second straight week
+
+*2025-08-25 18:24:00* · [`economynextcom`](https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-for-second-straight-week-238278/) · `en`
+
+ECONOMYNEXT – Foreign investors sold Sri Lanka government securities for second successive week in the week ended on August 21, the Central Bank data showed, despite emerging market equity funds saw a renewed interest as these funds drew a net $458 million in inflows.
+
+Foreign investors sold a net 1,342 million rupee ($4.47 million) worth of government securities in the week ended on August 21.
+
+Global investors, however, bought a net $2.13 billion worth bond funds last week following two weekly outflows in a row, Reuters reported.
+
+They bought $30 million worth Sri Lankan rupee bonds in the two weeks ended on August 7 as there were some certainties over Trump’s reciprocal tariff.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
+
+...
+
+[Data](articles/00f69d9b.json)
 
 ---
 
@@ -1671,125 +1793,5 @@ Israeli strikes and raids on hospitals are not uncommon. Multiple hospitals have
 ...
 
 [Data](articles/f9ff6fab.json)
-
----
-
-### රනිල් වෙනුවෙන් විපක්ෂයේ ප්‍රබලයින් රැසක් විපක්ෂ නායක කාර්යාලයට
-
-*2025-08-25 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213774) · `si`
-
-විපක්ෂයේ ප්‍රබල දේශපාලනඥයින් රැසක් අද (25) දහවල් විපක්ෂ නායක කාර්යාලයට රැස්ව තිබේ.
-
-ඒ රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳව සහ ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීම මෙම සාකච්ඡාවේ ප්‍රධාන අරමුණ වී ඇති බව පැවසෙයි.
-
-ඒ සඳහා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක, රංජිත් මද්දුමබණ්ඩාර, කබීර් හෂීම්, කාවින්ද ජයවර්ධන හා පලනි දිගම්බරන් මෙන්ම හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන රුවන් විජේවර්ධන, නිමල් සිරිපාල ද සිල්වා, ජීඑල් පීරිස්, සාගල රත්නායක යන මහත්වරුන් ඇතුළු විපක්ෂයේ ප්‍රබලයින් පිරිසක් එක්ව තිබේ.
-
-මේ අතර, සමගි ජන බලවේගය නියෝජනය කරමින් තවත් මන්ත්‍රීවරු පිරිසක් සම්බන්ධ වී ඇත.
-
-◼️
-
-[Data](articles/6a14274d.json)
-
----
-
-### Four line-houses destroyed in a fire at Pundaluoya
-
-*2025-08-25 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111824/four-line-houses-destroyed-in-a-fire-at-pundaluoya) · `en`
-
-At least four houses have been destroyed in a fire that broke out at around midday today (25) in a row of estate houses within the Dunsinane Estate, in Pundaluoya, Kotmale, police said.
-
-The fire, which started in a house at around 11:00 a.m., quickly spread to nearby houses, and police confirmed that the affected housing row consists of 20 estate houses.
-
-Estate workers were able to control the spread of the fire by removing roofing sheets and other flammable materials, and no injuries were reported, police added.
-
-Around 30 estate workers, who had been residing in the four destroyed houses, have been temporarily relocated to a safe area within the same estate.
-
-Police suspect the fire was caused by an electrical short circuit, but the exact cause is still under investigation, and the total damage has not yet been assessed.
-
-◼️
-
-[Data](articles/bf404e2a.json)
-
----
-
-### அம்மாவாகும் ரோபோக்கள்
-
-*2025-08-25 14:41:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/அம்மாவாகும்-ரோபோக்கள்/57-363457) · `ta`
-
-வாடகைத் தாய்க்கு பதிலாக, கர்ப்ப காலங்களில் ரோபோக்களை உருவாக்கி மனித குழந்தைகளைப் பெற்றெடுக்கும் முயற்சியில் சீன விஞ்ஞானிகள் ஈடுபட்டுள்ளனர்.
-
-குறித்த ரோபோக்களில் செயற்கை கருப்பையைப் பொருத்தி, ஒரு குழாய் மூலம் ஊட்டச்சத்துக்கள் செலுத்தப்படும் எனசீன விஞ்ஞானி ஜாங் கியூ இஃபெங் தெரிவித்துள்ளார்.
-
-இருப்பினும் குறித்த தொழில்நுட்பம் மீது பல்வேறு நெறிமுறை சார்ந்த கேள்விகளும் எழுந்துள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-அத்துடன் குறித்த திட்டத்தை எதிர்வரும் 2026ஆம் ஆண்டுக்குள் அறிமுகப்படுத்த சீனா திட்டமிட்டுள்ளதாகத் தெரிவிக்கப் படுகின்றது.
-
-◼️
-
-[Data](articles/13effffd.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கைது தொடர்பில் கலந்துரையாட ஐக்கிய மக்கள் சக்தியின் எம்பிக்கள் ஒன்றுகூடல்
-
-*2025-08-25 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/223320) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கைது தொடர்பில் கலந்துரையாட, ஐக்கிய மக்கள் சக்தியின் சகல பாராளுமன்ற உறுப்பினர்களும் இன்று திங்கட்கிழமை (25) பிற்பகல் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஒன்று கூடுகின்றனர்.
-
-இந்தக் கூட்டத்திற்குப் பிறகு, ஐக்கிய மக்கள் கூட்டணியைச்  சேர்ந்த சகல கட்சித் தலைவர்களும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் கூடுவார்கள் என்று கட்சியின் நம்பத்தகுந்த வட்டாரங்கள் தெரிவிக்கின்றன.
-
-முன்னாள் ஜனாதிபதியின் நீதிமன்ற நடவடிக்கை தொடர்பிலான கட்சியின் நிலைப்பாட்டு குறித்த தெளிவை எட்டும் வகையிலயே இச்சந்திப்புகள் இடம்பெறுகின்றன. இந்தக் கலந்துரையாடல்களுக்குப் பிறகு நடைபெறவிருக்கும் கலந்துரையாடலில் எதிர்க்கட்சியைப் பிரதிநிதித்துவப்படுத்தும் சகல  கட்சித் தலைவர்களும் பங்கேற்கவுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
-
-◼️
-
-[Data](articles/170a5c44.json)
-
----
-
-### හිටපු ජනපති රනිල් අධිකරණයට ඉදිරිපත් කිරීමේ හැකියාව ගැන පැහැදිලි කිරීමක්
-
-*2025-08-25 14:30:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-අධිකරණයට-ඉදිරිපත්-කිරීමේ-හැකියාව-ගැන-පැහැදිලි-කිරීමක්/11-418052) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හෙට (26දා) අධිකරණයට ඉදිරිපත් කිරීම සම්බන්ධයෙන් වන අවසන් තීරණය ඔහුට ප්‍රතිකාර කරනු ලබන වෛද්‍ය මණ්ඩලයේ තීරණය අනුව සිදු කරන බව කොළඹ ජාතික රෝහලේ වැඩබලන අධ්‍යක්ෂ වෛද්‍ය ප්‍රදීප් විජේසිංහ මහතා පැවසීය.
-
-ප්‍රශ්නය - රනිල් වික්‍රමසිංහ මහතාට හෙට දිනයේ උසාවියේ පෙනී සිටින්න වුණොත් ඒ අවසන් තීරණය ගන්නේ කොතනින්ද?
-
-පිළිතුර - එතුමාට ප්‍රතිකාර කරන වෛද්‍ය මණ්ඩලය මේ වෙලාවෙත්  ඔඩිටෝරියම් එකේ සාකච්ඡාවක් පවත්වනවා. ඒ සාකච්ඡාවෙන් පස්සේ තීරණය කරයි වෛද්‍යමය හේතුව මොන විදියද, මොන තත්වෙද තියෙන්නේ කියලා. එතනින් පස්සේ තමයි තීරණය කරන්න වෙන්නේ අපිට ඔබ අහපු ප්‍රශ්නයට උත්තරේ.
-
-◼️
-
-[Data](articles/300d379d.json)
-
----
-
-### பாதுகாப்பு செயலாளரை சந்தித்தார் புதிய பொலிஸ் மா அதிபர்
-
-*2025-08-25 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/223319) · `ta`
-
-புதிய பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய, பாதுகாப்பு அமைச்சின் செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் துயகோண்டாவை (ஓய்வு) இன்று திங்கட்கிழமை  (25) பாதுகாப்பு அமைச்சில் சந்தித்தார்.
-
-இலங்கையின் 37வது பொலிஸ் மா அதிபராக பொறுப்பேற்ற பிரியந்த வீரசூரியவை பாதுகாப்புச் செயலாளர் அன்புடன் வரவேற்றார்.
-
-இந்தச் சந்திப்பின் போது, இரு அதிகாரிகளும் பரஸ்பர நலன் சார்ந்த விடயங்களைப் பற்றி கலந்துரையாடினர்.
-
-தேசிய பாதுகாப்பு மற்றும் சட்டம் மற்றும் ஒழுங்கைப் பராமரிப்பதில் நிறுவனங்களுக்கு இடையேயான ஒருங்கிணைப்பு குறித்து கவனம் செலுத்தினர்.
-
-புதிய பொலிஸ் மா அதிபருக்கு பாதுகாப்பு செயலாளர் வாழ்த்து தெரிவித்ததாகவும், பாதுகாப்பு அமைச்சகம் மற்றும் இலங்கை பொலிஸ் திணைக்களத்துக்கு இடையிலான கூட்டு முயற்சிகளை வலுப்படுத்துவதில் தனது நம்பிக்கையை வெளிப்படுத்தியதாகவும் பாதுகாப்பு அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/e757246a.json)
-
----
-
-### “ரணிலை பார்வையிடவில்லை“ பிரதமர் விளக்கம்
-
-*2025-08-25 14:26:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பார்வையிடவில்லை-பிரதமர்-விளக்கம்/175-363456) · `ta`
-
-பிரதமர் கலாநிதி ஹரினி அமரசூரிய,   திருமதி மைத்ரி விக்கிரமசிங்கவுடன் இணைந்து முன்னாள் ஜனாதிபதி ரணிலை வைத்தியசாலையில், ஞாயிற்றுக்கிழமை (24) அன்று பார்வையிட்டுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
-
-◼️
-
-[Data](articles/0852af38.json)
 
 ---

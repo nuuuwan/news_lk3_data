@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 09:30:12**
+As of **2025-08-26 09:50:53**
 
 ## Newspaper Stats
 
-*Scraped **72,366** Articles*
+*Scraped **72,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,951
-adaderanalk | 9,158
-tamilmirrorlk | 10,708
-virakesarilk | 11,909
-adaderanasinhalalk | 12,534
+adaderanalk | 9,162
+tamilmirrorlk | 10,709
+virakesarilk | 11,910
+adaderanasinhalalk | 12,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,366 articles have been extended.
+61,973 (85.6%) of 72,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### කොටුව මහෙස්ත්‍රාත් අධිකරණය අවට ආරක්ෂාව තර කෙරේ
+
+*2025-08-26 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213800) · `si`
+
+කොටුව මහෙස්ත්‍රාත් අධිකරණ පරිශ්‍රය අවට ආරක්ෂාව මේ වනවිට තරකර තිබේ.
+
+අප වාර්තාකරුවන් පැවසුවේ, එහි ආරක්ෂාවට පොලීසිය සහ විශේෂ කාර්ය බළකාය කැඳවා ඇති බවය.
+
+මෙහිදී අධිකරණ පරිශ්‍රයට ඇතුළු වන පුද්ගලයින්ගේ නඩු අංක පරීක්ෂා කර ගමන්මලු සහ පුද්ගලයින් දැඩි ලෙස පරීක්ෂාවට ලක්කරන අතර කිව් මාර්ගයෙහි (Kew Road) පදිංචිකරුවන්ට හා නීතිඥවරුන්ට පමණක් එම මාර්ගයට ඇතුළු විය හැකිය.
+
+රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහි නඩුව අද (26) කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ යළි කැඳවීමට නියමිතය.
+
+සිද්ධියට අදාළව පසුගිය 22 වෙනිදා අත්අඩංගුවට ගත් හිටපු ජනාධිපතිවරයා අද දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
+
+ඒ මහතාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගනිමින් එදින ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු අතර වෛද්‍ය නිර්දේශ මත ඊට පසුදින ඔහු කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කෙරුණි.
+
+...
+
+[Data](articles/86a6149b.json)
+
+---
+
+### Another 619 individuals nabbed during special island-wide police raids
+
+*2025-08-26 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111854/another-619-individuals-nabbed-during-special-island-wide-police-raids) · `en`
+
+A total of 619 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (25).
+
+As part of the operation, 26,216 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 27 individuals directly linked to criminal activities while 396 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 73 drunk drivers were apprehended while a further 23 reckless drivers and 3,810 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/358fc34f.json)
+
+---
+
+### இனிய பாரதியின் சகா   விடுவிப்பு
+
+*2025-08-26 09:19:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிய-பாரதியின்-சகா-விடுவிப்பு/175-363494) · `ta`
+
+சிஐடி யினரால்   திங்கட்கிழமை (25)   கைது செய்யப்பட்ட இனிய பாரதியின் சகாவான மட்டு களுவங்கேணியைச் சேர்ந்த பாலசுந்தரம் என்பவரை சுமார் 7 மணித்தியால விசாரணையின் பின்னர் சிஐடியினர் விடுதலை செய்துள்ளதாக கைது செய்யப்பட்டவரின் உறவினர்கள் தெரிவித்தனர்.
+
+இனிய பாரதியின் சகாவாக செயற்பட்டிருந்த குறித்த நபரை சம்பவ தினத்தன்று களுவங்கேணியிலுள்ள அவரது வீட்டில் வைத்து கொழும்பில் இருந்து சென்ற சிஐடி யினர் கைது செய்தனர் இதனையடுத்து அவரை கொண்டு சென்று சுமார் 7 மணித்தியால தொடர் விசாரணையின் பின்னர் இரவு 9.00 மணிக்கு விடுவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/568639d1.json)
+
+---
+
+### மாத்தறையில் துப்பாக்கிச் சூடு
+
+*2025-08-26 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223369) · `ta`
+
+மாத்தறையில் கடற்கரைப்பகுதியில் உள்ள உணவகம் ஒன்றின் உரிமையாளரை குறிவைத்து நேற்று திங்கட்கிழமை (25) துப்பாக்கிச் சூடு இடம்பெற்றுள்ளது.
+
+துப்பாக்கிதாரி சம்பவ இடத்தில் ஒரு ஆயுதம், 4 தோட்டாக்கள் மற்றும் ஒரு பயன்படுத்தப்பட்ட தோட்டாவை விட்டுச் சென்றுள்ளார்.
+
+◼️
+
+[Data](articles/339483ea.json)
+
+---
 
 ### ලංගම - පෞද්ගලික ඒකාබද්ධ ගමන්වාර ආරම්භ කෙරේ
 
@@ -97,6 +167,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0374c8fa.json)
+
+---
+
+### Seevali Arukgoda named new Director General of Sri Lanka Customs
+
+*2025-08-26 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111852/seevali-arukgoda-named-new-director-general-of-sri-lanka-customs) · `en`
+
+Additional Director General of Sri Lanka Customs Seevali Arukgoda has been appointed as the new Director General, effective today (26).
+
+Accordingly, Seevali Arukgoda has become the 45th Head of Sri Lanka Customs.
+
+Arukgoda joined Sri Lanka Customs in 1989 as an Assistant Superintendent.
+
+He has earned the unique distinction of being the first officer in the Department’s history to ascend through every rank and reach the highest position of the institution, the Director General position, according to a statement by Sri Lanka Customs.
+
+Over his 36 years of service, he has distinguished himself both locally and internationally, most notably through his strong association with the World Customs Organization (WCO).
+
+Recognized as an accredited WCO expert, he served two terms with the Organization, contributing to key global initiatives in Customs and Border Management, and gaining international experience.
+
+...
+
+[Data](articles/13a08e03.json)
 
 ---
 
@@ -168,6 +260,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Gazan students granted approval to study in UK
+
+*2025-08-26 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111851/gazan-students-granted-approval-to-study-in-uk) · `en`
+
+The British government has agreed plans to allow around 40 students in Gaza to come to the UK in the coming weeks to take up funded university scholarships.
+
+Nine have been told they will be given assistance to leave Gaza to pursue scholarships under the Chevening scheme, a predominantly government-funded initiative for international students to study one-year master’s degrees.
+
+The BBC understands the home secretary has also approved plans to help around 30 others who have fully funded scholarships through other private schemes.
+
+They would be the first to leave Gaza to study in the UK since the Hamas-Israel war began in 2023. However, Israel must agree that each student can leave the territory.
+
+Relations with Israel have deteriorated since the UK said it would recognise a Palestinian state in September if Israel did not meet certain conditions related to its war in Gaza.
+
+...
+
+[Data](articles/1c79aa1d.json)
+
+---
+
 ### මාතර වෙඩිතැබීමක් - වෙඩික්කරු සමග පොර බැදීමක්
 
 *2025-08-26 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213795) · `si`
@@ -203,6 +315,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f759d468.json)
+
+---
+
+### Shooting incident reported in Matara
+
+*2025-08-26 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/111850/shooting-incident-reported-in-matara-) · `en`
+
+A shooting incident has been reported on Beach Road in Matara, last night (25), police said.
+
+An individual, who arrived in a car, had opened fire at an owner of a restaurant before fleeing the scene.
+
+No one was injured in the incident, and police said a pistol was used in the shooting.
+
+The suspect fled after getting into a scuffle with the restaurant owner, who was the target of the shooting, police noted.
+
+A firearm, four rounds of ammunition and an empty cartridge case have been found at the scene of the shooting.
+
+The motive for the shooting and the identity of the suspect have not yet been revealed.
+
+◼️
+
+[Data](articles/14c68156.json)
 
 ---
 
@@ -1669,125 +1803,5 @@ A bond maturing on 15.12.2032 closed at 10.25/32 percent, up from 10.25/31 perce
 ...
 
 [Data](articles/4c5b0d79.json)
-
----
-
-### ”சலுகைக் குறைப்பு சட்டமூலத்தில் ஓய்வூதியம் நீக்கப்படாது”
-
-*2025-08-25 16:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைக்-குறைப்பு-சட்டமூலத்தில்-ஓய்வூதியம்-நீக்கப்படாது/175-363466) · `ta`
-
-முன்மொழியப்பட்ட ஜனாதிபதி உரிமைகள் சட்டமூலம், தற்போதைய அரசியலமைப்பின் கீழ் முன்னாள் ஜனாதிபதிகளுக்கு வழங்கப்பட்ட ஓய்வூதிய உரிமைகளை நீக்க முயற்சிக்கவில்லை, மாறாக 1986 ஆம் ஆண்டு 4 ஆம் எண் ஜனாதிபதி உரிமைகள் சட்டத்தின் கீழ் முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது மனைவிகளுக்கு வழங்கப்படும் கூடுதல் சலுகைகளைக் குறைப்பதாகும் என்று சட்டமா அதிபர் இன்று உயர் நீதிமன்றத்தில் தெரிவித்தார்.
-
-முன்மொழியப்பட்ட ஜனாதிபதி உரிமைகள் (ரத்துசெய்தல்) சட்டமூலத்தின் அரசியலமைப்புச் சட்டத்தை எதிர்த்து தாக்கல் செய்யப்பட்ட ஏழு விசேட தீர்மான மனுக்கள் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, ​​சட்டமா அதிபர் சார்பாக ஆஜரான சொலிசிட்டர் ஜெனரல் விராஜ் தயாரத்ன இந்தக் கருத்துக்களைத் தெரிவித்தார்.
-
-உயர் நீதிமன்றத்தின் மூன்று நீதிபதிகள் கொண்ட அமர்வில் தலைமை நீதிபதி பிரீத்தி பத்மன் சூரசேன, நீதிபதி அச்சல வெங்கப்புலி மற்றும் நீதிபதி சம்பத் அபயகோன் ஆகியோர் இருந்தனர்.
-
-◼️
-
-[Data](articles/3ed21eb3.json)
-
----
-
-### Ranil Wickremesinghe’s arrest not an isolated incident – Sajith
-
-*2025-08-25 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111834/ranil-wickremesinghes-arrest-not-an-isolated-incident-sajith) · `en`
-
-A meeting of opposition political party leaders was held today (25) at the Office of the Leader of the Opposition, under the leadership of Opposition Leader Sajith Premadasa, to discuss the political situation that has arisen following the arrest of former President Ranil Wickremesinghe.
-
-Speaking at the meeting, Sajith Premadasa stated that the arrest of Ranil Wickremesinghe is not an isolated incident, but rather a serious challenge to democratic politics. He emphasized the importance of all opposition political parties uniting to confront this challenge.
-
-He noted that the discussion was convened with the aim of formulating both short-term and long-term action plans in collaboration with all opposition parties to respond effectively to the current developments.
-
-During the meeting, former President Maithripala Sirisena also expressed his views, stating that there are two main issues that must be addressed.
-
-...
-
-[Data](articles/d6ad727d.json)
-
----
-
-### Nearly 800 dead, over 1,000 injured in rain-related incidents in Pakistan
-
-*2025-08-25 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/111833/nearly-800-dead-over-1000-injured-in-rain-related-incidents-in-pakistan) · `en`
-
-At least 799 people died and 1,080 others were injured in rain-related incidents and floods across Pakistan since June 26 this year, said the National Disaster Management Authority (NDMA) on Monday.
-
-NDMA said in a statement that 11 more people lost their lives during the last 24 hours, increasing the toll to 799, fearing that the spells of torrential rains and flash floods would continue to hit the country this week.
-
-The NDMA said that the deceased include 477 males, 119 females and 203 children.
-
-The country’s northwest Khyber Pakhtunkhwa province appeared as the most affected region with 479 deaths, followed by eastern Punjab province where 165 people lost lives.
-
-According to the NDMA, rains and flash floods also damaged 7,175 houses and killed 5,552 livestock across the country.
-
-...
-
-[Data](articles/c1935fed.json)
-
----
-
-### Sri Lanka’s exports hit US$ 10 billion mark in first seven months of 2025
-
-*2025-08-25 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111832/sri-lankas-exports-hit-us-10-billion-mark-in-first-seven-months-of-2025) · `en`
-
-Sri Lanka’s total export earnings in the first seven months of 2025 have soared to nearly US$ 10 billion, according to the Central Bank of Sri Lanka (CBSL and Sri Lanka Customs metrics.
-
-Total exports including both merchandise and services reached US$ 9,992.53 million between January and July 2025, the CBSL noted.
-
-This marks a robust 7.79% increase compared to the same period last year, reinforcing the country’s strategic gains in global trade.
-
-Industry experts attribute this strong performance to proactive policy measures, enhanced market diversification efforts, and competitive improvements across key export sectors.
-
-Accordingly, with five months still remaining in the year, the country appears on track to surpass the US$ 17 billion export target set for 2025, Mangala Wijesinghe, Chairman and Chief Executive Officer of the Export Development Board (EDB) stated.
-
-...
-
-[Data](articles/d16c8531.json)
-
----
-
-### மட்டக்களப்பு கிரானில் பிள்ளையானின் சகா ஒருவர் கைது
-
-*2025-08-25 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223338) · `ta`
-
-மட்டக்களப்பு கிரான் பிரதேசத்தில் வைத்து பிள்ளையானின் சகாவான சின்னத்தம்பி என அழைக்கப்படும் பூபாலப்பிள்ளை என்பரை நேற்று ஞாயிற்றுக்கிழமை (24) குற்ற விசாரணைப் பிரிவு (சிஐடி) கைது செய்துள்ளது.
-
-கடந்த ஏப்ரல் 8ம் திகதி பிள்ளான் என்றழைக்கப்படும் தமிழ் மக்கள் விடுதலைப் புலிகள் கட்சியின் தலைவரும் முன்னாள் கிழக்கு மாகாண முதலமைச்சர் இராஜாங்க அமைச்சருமான சிவநேசதுரை சந்திரகாந்தன் முன்னாள் கிழக்கு பல்கலைக்கழக உபவேந்தர் பேராசிரியர் சுப்பிரமணியம் ரவீந்திரநாத் 2006 டிசம்பர் 15 ஆம் திகதி கடத்தி காணாமல் ஆக்கப்பட்ட சம்பவம் தொடர்பாக சந்தேகத்தின் அடிப்படையில் சிஐடியினர் அவரது மட்டக்களப்பு காரியாலயத்தில் வைத்து கைது செய்து பயங்கரவாத தடுப்பு சட்டத்தின் கீழ் தடுத்து வைக்கப்பட்டு விசாரணைகள் இடம்பெற்று வருகின்றது.
-
-...
-
-[Data](articles/8f4ba680.json)
-
----
-
-### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
-
-*2025-08-25 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213778) · `si`
-
-හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා ලබන මස 8 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
-
-අද (25) දින මහර මහෙස්ත්‍රාත් ජනිතා පෙරේරා මහත්මිය විසින් මෙම නියෝග ලබාදී ඇත.
-
-කිරිබත්ගොඩ ප්‍රදේශයේ ඉඩම් වංචා කිරීමේ සිදුවීමකට අදාළව පැවැත්වෙන නඩුව විභාගයට ගත් අවස්ථාවේදී අධිකරණය මෙම නියෝගය ලබාදී තිබේ.
-
-◼️
-
-[Data](articles/d4ef1dbd.json)
-
----
-
-### “அனுமான்தான் முதலில் விண்வெளிக்கு போனாரா?”
-
-*2025-08-25 16:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமான்தான்-முதலில்-விண்வெளிக்கு-போனாரா/175-363464) · `ta`
-
-தேசிய விண்வெளி தினத்தை முன்னிட்டு, இமாச்சலப் பிரதேசத்தில் பாடசாலை  மாணவர்களிடையே பாரதிய ஜனதா கட்சியின் (பாஜக) எம்பியும், முன்னாள் மத்திய அமைச்சருமான அனுராக் தாக்கூர், உரையாடியிருந்தார். அப்போது அவர் உலகின் முதல் விண்வெளி வீரர் அனுமான் என்று கூறியிருந்தார்
-
-இது தொடர்பான வீடியோ விவாதங்களை ஏற்படுத்தியிருக்கும் நிலையில், "பாஜகவினரின் அறிவு நாளுக்குநாள் அபாரமாகிக் கொண்டிருக்கிறது" என மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி எம்பி.சு.வெங்கடேசன் விமர்சித்திருக்கிறார்.
-
-தேசிய விண்வெளி தினத்தை முன்னிட்டு, இமாச்சலப் பிரதேசத்தின் உனாவில் உள்ள பி.எம். ஸ்ரீ பள்ளியில் மாணவர்களுடன் அனுராக் உரையாற்றினார். அப்போது மாணவர்களிடம்,விண்வெளிக்கு முதலில் பயணம் செய்தவர் யார்? என கேள்வி எழுப்பியிருந்தார்.
-
-...
-
-[Data](articles/df305ad9.json)
 
 ---

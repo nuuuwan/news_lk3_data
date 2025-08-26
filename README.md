@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 12:51:00**
+As of **2025-08-26 13:07:44**
 
 ## Newspaper Stats
 
-*Scraped **72,422** Articles*
+*Scraped **72,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,420
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,957
+adalk | 6,958
 adaderanalk | 9,169
 tamilmirrorlk | 10,728
 virakesarilk | 11,917
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,422 articles have been extended.
+61,973 (85.6%) of 72,423 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,7 +70,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ශෂීන්ද්‍ර රාජපක්ෂ 29 දක්වා යළි රිමාන්ඩ්
+### ශෂීන්ද්‍ර යළි රිමාන්ඩ්
 
 *2025-08-26 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213807) · `si`
 
@@ -267,6 +267,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/427a0785.json)
+
+---
+
+### හරීන්ට එරෙහි නඩුවක් කල්යයි
+
+*2025-08-26 11:22:53* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්ට-එරෙහි-නඩුවක්-කල්යයි/11-418074) · `si`
+
+මහ මැතිවරණය අවස්ථාවේ දී මැතිවරණ නීති උල්ලංඝනය කළේ යැයි පැවසෙන සිද්ධියක් සම්බන්ධයෙන් බදුල්ල මහේස්ත්‍රාත් අධිකරණයේ හිටපු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතාට එරෙහිව පවතින නඩුව ලබන ජනවාරි මස 06 දා තෙක් කල් දැමීමට අධිකරණය අද නියෝග කළේය.
+
+◼️
+
+[Data](articles/1d757a35.json)
 
 ---
 
@@ -1735,27 +1747,5 @@ At the heart of the matter is a fundamental question: can Sri Lanka strike the d
 ...
 
 [Data](articles/7cc4fe8c.json)
-
----
-
-### Bert … in the spotlight
-
-*2025-08-26 00:07:00* · [`islandlk`](http://island.lk/bert-in-the-spotlight/) · `en`
-
-Bert Ekenaike is making his presence felt in Melbourne, Australia, in a very big way, but not as an entertainer.
-
-He is big in the scene over there as a promoter in the entertainment industry, and his activities have benefitted several Sri Lankan performers.
-
-As President of The Voluntary Outreach Club, last month (July), on the 19th, Bert provided an excellent ‘Winter Ball’, at The Grand On Princess, Mulgrave, Melbourne.
-
-According to informed sources, tickets were priced at $100 that allowed people, especially the pensioners and unemployed, to enjoy the music of Sri Lanka’s premier band Redeemers, with Perfect Harmony as a second band.
-
-Bert is now working on ‘A Flaming Night’, presented by the PPA of his old school, St. John’s College, Nugegoda, to be held on 13th September, at Number Ninety Receptions, with the band Flame, from Sri Lanka, providing the music.
-
-It’s after six years, says Bert, that Flame will be seen in action, at an event in Melbourne
-
-...
-
-[Data](articles/5ef04e08.json)
 
 ---

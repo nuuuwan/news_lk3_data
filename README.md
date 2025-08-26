@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 03:49:08**
+As of **2025-08-27 04:07:33**
 
 ## Newspaper Stats
 
-*Scraped **72,533** Articles*
+*Scraped **72,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,974
 adaderanalk | 9,190
-tamilmirrorlk | 10,751
+tamilmirrorlk | 10,752
 virakesarilk | 11,927
 adaderanasinhalalk | 12,567
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,533 articles have been extended.
+61,973 (85.4%) of 72,534 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-27 (Wednesday)
+
+### செம்மணியில் மேலும் 6 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-08-27 03:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-மேலும்-6-எலும்புக்கூடுகள்-அடையாளம்/175-363556) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்று (26) இடம்பெற்ற அகழ்வின் போது புதிதாக 16 எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அத்துடன் ஆடை ஒன்றும் அடையாளம் காணப்பட்டுள்ளது.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 34 ஆம் நாள் அகழ்வு நேற்று (26) இடம்பெற்றது.
+
+நேற்றைய அகழ்வில் 16 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதன்மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித என்புத் தொகுதிகளின் எண்ணிக்கை 166 ஆக அதிகரித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/24edcb9e.json)
+
+---
 
 ### 2025-08-26 (Tuesday)
 
@@ -1723,27 +1741,5 @@ Among them, 317,578 individuals are from India, 148,795 from the UK and 118,371 
 ◼️
 
 [Data](articles/cc617740.json)
-
----
-
-### Sri Lanka former president likely to face bail hearing via Zoom: Prison spokesman
-
-*2025-08-26 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-president-likely-to-face-bail-hearing-via-zoom-prison-spokesman-238337/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former president Ranil Wickremesinghe is likely to be kept in hospital and face his bail hearing online via Zoom, Prison spokesman Jagath Weerasinghe told a private media channel.
-
-“The doctors’ recommendation is that because he has complications he cannot be produced in court physically,” Weerasinghe told Derana TV.
-
-“Most likely [bo-ho du-ra-ta], if the magistrate orders us, we are prepared to present him via Zoom technology for the hearing.”
-
-Former President Wickremesinghe, who was admitted to the Intensive Care Unit of the National hospital is due to appear in Court at 1 pm today.
-
-Wickremesinghe, who is suffering from type 2 diabetes and a heart condition was admitted to hospital on Saturday following complications from dehydration, after a long drawn out questioning, arrest and bail hearing on Friday.
-
-He was arrested over alleged mis-use of public property during a stop-over in London while returning from the UN General Assembly in the US. (Colombo/Aug26/2025)
-
-◼️
-
-[Data](articles/2dfdcd9c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 08:43:39**
+As of **2025-08-26 09:10:34**
 
 ## Newspaper Stats
 
-*Scraped **72,359** Articles*
+*Scraped **72,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ economynextcom | 4,420
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,950
+adalk | 6,951
 adaderanalk | 9,158
-tamilmirrorlk | 10,705
+tamilmirrorlk | 10,708
 virakesarilk | 11,909
-adaderanasinhalalk | 12,531
+adaderanasinhalalk | 12,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,359 articles have been extended.
+61,973 (85.6%) of 72,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ලංගම - පෞද්ගලික ඒකාබද්ධ ගමන්වාර ආරම්භ කෙරේ
+
+*2025-08-26 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213799) · `si`
+
+ඊයේ (25) මධ්‍යම රාත්‍රියේ සිට කොළඹ බැස්ටියන් මාවතේ පිහිටි පෞද්ගලික බස්රථ අංගනයේ සිට එම ඒකාබද්ධ ගමන්වාර ආරම්භ කරන බව ජාතික ගමනා ගමන කොමිෂන් සභාව නිවේදනය කළේය.
+
+එමෙන්ම ප්‍රවාහන සහ මහමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා පැවසුවේ ද නිෂ්චිත කාල රාමුවකට ලංගම සහ පෞද්ගලික බසරථ බල ඇනිය එකම තැනකින් ගමන් ආරම්භ කිරීමට බලාපොරොත්තු වෙන බවය.
+
+"පැවති සාකච්චා සමූහයක ප්‍රතිඵලයක් ලෙස ශ්‍රී ලංගම සහ පෞද්ගලික අංශය ඒකාබද්ධ වෙච්ච ඒකාබද්ධ කාලසටහනකට ධාවනය කිරීම සඳහා එක ප්‍රවේශ මාර්ගයක් කොළඹට පිවිසෙන ප්‍රධාන ප්‍රවේශ මාර්ගය වන පුත්තලම් කොරිඩෝ එක , යාපනය සිට කොළඹ දක්වා, මන්නාරම සිට කොළඹ දක්වා, තලෛයිමාන්නාරම සිට කොළඹ දක්වා, ඒ ඒ ගමනාන්ත දක්වා ලඟාවන බස්රථ පොදු ඒකාබද්ධ කාලසටහනකට ධාවනය කරන්න අපි අනිවාර්යයෙන්ම නිෂ්චිත වෙලාවකට බස් රථය පිටත් වෙන්න පටන් ගන්නවා නිෂ්චිත වෙලාවට ගමනාන්තය දක්වා යා යුතුයි. ඒ වගේම පිටත්වෙන බස් රථයෙන් බස් රථයට ඇති කාල පරාසය නිෂ්චිත කරලා තියෙනවා. මේ ආකාරයට නිෂ්චිත කාල රාමුවකට ලංගම සහ පෞද්ගලික බසරථ බල ඇනිය එකම තැනකින් ගමන් ආරම්භ කිරීමට බලාපොරොත්තු වෙනවා. "
+
+...
+
+[Data](articles/8a59ec90.json)
+
+---
+
+### මෙරට ඉතිහාසයේ මසක් තුළ ඉපැයූ වැඩිම අපනයන ආදායම ජූලි මාසයේ
+
+*2025-08-26 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213797) · `si`
+
+මෙරට මාසයක් තුළ ලබාගත් වැඩිම අපනයන ආදායම පසුගිය ජූලි මාසයේ දී වාර්තා වී ඇති බව ශ්‍රී ලංකා අපනයන සංවර්ධන මණ්ඩලය පවසයි.
+
+එහි සභාපති මංගල විජේසිංහ මහතා සඳහන් ක‍ළේ, ජූලි මාසයේ දී අපනයන ආදායම අමෙරිකානු ඩොලර් මිලියන 1,641 දක්වා ඉහළ ගොස් ඇති බවය.
+
+රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ කැඳවා තිබූ මාධ්‍ය හමුවකට එක්වෙමින් අපනයන සංවර්ධන මණ්ඩලයේ සභාපති මංගල විජේසිංහ මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/60083ed9.json)
+
+---
+
+### டுபாய் பாதாள உலக குழுவால் திலீப பீரிஸூக்கு கொலை மிரட்டல்
+
+*2025-08-26 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டுபாய்-பாதாள-உலக-குழுவால்-திலீப-பீரிஸூக்கு-கொலை-மிரட்டல்/175-363492) · `ta`
+
+டுபாயில் மறைந்திருக்கும் திட்டமிட்ட குற்றவாளிகள் குழுவினால், மேலதிக மன்றாடியார் மற்றும் ஜனாதிபதி வழக்கறிஞர் திலீப பீரிஸின் உயிருக்கு ஆபத்து விளைவிக்க திட்டமிட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இந்த கொலை சதி தொடர்பாக பொலிஸ்மா அதிபருக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில், இந்த பாதுகாப்பு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+திலீப பீரிஸின் வீட்டையும் அவர் பயணிக்கும் போது பாதுகாப்பதற்காக இந்த சிறப்பு பொலிஸ் குழு நிறுத்தப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/5ad91577.json)
+
+---
+
+### இன்று விசாரணைக்கு வரும் ரணில் தொடர்பான வழக்கு
+
+*2025-08-26 08:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசாரணைக்கு-வரும்-ரணில்-தொடர்பான-வழக்கு/175-363491) · `ta`
+
+அரச நிதியை முறைக்கேடாகப் பயன்படுத்திய குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தொடர்பான வழக்கு மீண்டும் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ளது.
+
+கடந்த 22 ஆம் திகதி குற்றப்புலனாய்வு திணைக்களத்தால் கைது செய்யப்பட்டு இன்று (26) வரை விளக்கமறியலில் வைக்கப்பட்டிருந்தார்.
+
+இந்தநிலையில், விளக்கமறியலில் வைக்கப்பட்ட அவர் நோய் நிலைமை காரணமாகக் தேசிய வைத்தியசாலையின் அதிதீவிர சிகிச்சைப்பிரிவில் அனுமதிக்கப்பட்டு தொடர்ந்தும் சிகிச்சைப் பெற்று வருகின்றார்.
+
+இதன்படி, நேற்று (25) அவரைப் பரிசோதித்த மருத்துவர்கள் அவர் தொடர்ந்தும் அதிதீவிர சிகிச்சைப்பிரிவில் சிகிச்சைப் பெற வேண்டும் என அறிவித்திருந்தனர்.
+
+இந்தநிலையிலேயே, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தொடர்பான வழக்கு இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ளது.  R
+
+◼️
+
+[Data](articles/0374c8fa.json)
+
+---
+
+### සීවලි අරුක්ගොඩ රේගු අධ්‍යක්ෂ ජනරාල් තනතුරට
+
+*2025-08-26 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213796) · `si`
+
+ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුවේ නව අධ්‍යක්ෂ ජනරාල් ධුරයට සීවලි අරුක්ගොඩ මහතාව අද (26) සිට බලපැවැත්වෙන පරිදි පත්කර තිබේ.
+
+ඒ අනුව සීවලි අරුක්ගොඩ මහතා 45 වන රේගු අධ්‍යක්ෂ ජනරාල්වරයා බවට පත්වේ.
+
+සීවලි අරුක්ගොඩ මහතා රේගු දෙපාර්තමේන්තුවේ මාධ්‍ය ප්‍රකාශකවරයා ලෙස ද කටයුතු කළේය.
+
+◼️
+
+[Data](articles/887b4b58.json)
+
+---
 
 ### ஒரே நேரத்தில் 108 ஜோடிகளுக்கு திருமணம்
 
@@ -47,6 +131,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/22fa5f5c.json)
+
+---
+
+### දිලීප ප‍ිරිස්‍ගේ ජීවිතයට පාතාලයෙන් තර්ජන
+
+*2025-08-26 07:57:34* · [`adalk`](https://www.ada.lk/breaking_news/දිලීප-ප‍ිරිස්‍ගේ-ජීවිතයට-පාතාලයෙන්-තර්ජන/11-418064) · `si`
+
+ඩුබායි රාජ්‍යයේ සැඟව සිටින සංවිධානාත්මක අපරාධකරුවන් පිරිසක් විසින් අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතීඥ දිලීප පීරීස් මහතාගේ ජීවීතයට හානියක් කිරීමට සැලසුම් සකස් කරන බවට ලැබුණු බුද්ධි තොරතුරකට අනුව ඔහුගේ ජීවිත ආරක්‍ෂාව සඳහා විශේෂ පොලිස් කණ්ඩායමක් යෙදවීමට පියවර ගෙන ඇතැයි වාර්තාවේ.
+
+මෙම ඝාතන සැලසුම සම්බන්ධයෙන් පොලිස්පතිවරයාට ලැබුණු බුද්ධි තොරතුරකට අනුව පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතාගේ නියෝග මත මෙම පියවර ගෙන ඇතැයි වාර්තාවේ.
+
+දිලීප පීරීස් මහතාගේ නිවසට මෙන්ම ඔහු ගමන් බිමන් යන අවස්ථාවලදී ආරක්‍ෂාව සඳහා මෙම විශේෂ පොලිස් කණ්ඩායමක් යෙදවීමට පියවර ගෙන ඇතැයිද වාර්තාවේ.
+
+ආන්දෝලනාත්මක නඩු ගණනාවක පැමිණිල්ල නීතිපතිවරයා නියෝජනය කරමින් මෙහෙයවනු ලැබූ නීතිපති දෙපාර්තමෙන්තුවේ ජ්‍යෙෂ්ඨතම නීතීඥවරුන්ගෙන් කෙනෙකු වන අතිරේක සොලිසිටර් ජනරාල් ජනාධිපති නීතීඥ දිලීප පීරීස් මහතාට හානි කිරීම සඳහා ඩුබායි රාජ්‍යයේ සැඟව සිටින සංවිධානාත්මක අපරාධකරුවන් පිරිසක් විසින් සැලසුම් සකස් කරන බවට පසුගිය සෙනසුරාදා (23දා) රාත්‍රියේ පොලිස්පතිට බුද්ධි තොරතුරු ලැබී ඇතැයිද වාර්තාවේ.
+
+...
+
+[Data](articles/f59b2b1f.json)
 
 ---
 
@@ -421,6 +523,20 @@ This meeting underscored the importance of continued cooperation between securit
 ◼️
 
 [Data](articles/da1e23e1.json)
+
+---
+
+### செம்மணி அகழ்வுப் பணி மீள ஆரம்பமானது
+
+*2025-08-26 03:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-அகழ்வுப்-பணி-மீள-ஆரம்பமானது/175-363487) · `ta`
+
+யாழ். செம்மணி மனிதப் புதைகுழியில் இடைநிறுத்தப்பட்ட இரண்டாம் கட்ட அகழ்வுப் பணி நேற்று மீண்டும் ஆரம்பமானது.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் அகழ்வுப் பணிகள் கடந்த ஓகஸ்ட் 6ஆம் திகதி முதல் இடைநிறுத்தப்பட்டன.
+
+◼️
+
+[Data](articles/946a5322.json)
 
 ---
 
@@ -1673,129 +1789,5 @@ Accordingly, with five months still remaining in the year, the country appears o
 ...
 
 [Data](articles/df305ad9.json)
-
----
-
-### හිටපු ජනපති රනිල්ව අත්අඩංගුවට ගැනීම හුදකලා සිදුවීමක් නොවේ - සජිත් කියයි
-
-*2025-08-25 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213777) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම තුළ මතුව ඇති දේශපාලනික තත්ත්වය පිළිබඳව සාකච්ඡා කිරීමට විපක්ෂයේ දේශපාලන පක්ෂ නායකයින්ගේ හමුවක් අද (25) විපක්ෂ නායක කාර්යාලයේ දී විපක්‍ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
-
-රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම හුදෙකලා සිදුවීමක් නොව ප්‍රජාතන්ත්‍රවාදී දේශපාලනය සඳහා ප්‍රබල අභියෝගයක් එල්ල කරන්නක් බව මෙහිදී සඳහන් කළ විපක්ෂ නායකවරයා, එම අභියෝගයට මුහුණදීම සඳහා විපක්ෂයේ සියලු‍ දේශපාලන පක්ෂ එක්ව කටයුතු කිරීමේ වැදගත්කම පෙන්වා දී තිබේ.
-
-ඒ සඳහා විපක්ෂයේ සියලු‍ දේශපාලන පක්ෂ සමඟ කෙටිකාලීන සහ දිගුකාලීන වැඩපිළිවෙළක් ක්‍රියාවට නැංවීමට මෙම සාකච්ඡාව කැඳ වූ බව විපක්ෂ නායකවරයා අවධාරණය කර ඇත.
-
-මෙම හමුවේ දී අදහස් දක්වමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සඳහන් කර ඇත්තේ, මේ මොහොතේ ප්‍රධාන ප්‍රශ්න දෙකකට පිළිතුරු සෙවිය යුතු බවය.
-
-පළමුවැන්න රනිල් වික්‍රමසිංහ මහතා නිදහස් කර ගැනීම සඳහා වූ වැඩපිළිවෙළ වන අතර, දෙවැන්න රටේ ප්‍රජාතන්ත්‍රවාදී දේශපාලනයට එල්ල වී ඇති අභියෝගය ජයග්‍රහණය කිරීම බව ද හිටපු ජනාධිපතිවරයා මෙහිදී පෙන්වා දී තිබේ.
-
-...
-
-[Data](articles/96bda7f6.json)
-
----
-
-### Sri Lanka stocks slide 0.36-pct, weighed down by banks
-
-*2025-08-25 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-slide-0-36-pct-weighed-down-by-banks-238240/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) fell 0.36 percent for the second straight session, brokers said.
-
-“Market ended a bit lower. Saw a bit of profit taking after five days of continuous gain,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-The ASPI fell 73.61 points from Friday to close at 20,575.59; while the S&P SL20 index dipped 0.78 percent, or 47.33 points, to close at 6,042.51.
-
-“Investor interest in construction and hotel related shares were seen,” Mathew said. ” Banks were largely down. Lot of turnover was seen.”
-
-Hotel and related shares possibly rose on tourist arrivals, topping 1.5 million on August 18, 2025, Mathew said.
-
-...
-
-[Data](articles/e6ced4d4.json)
-
----
-
-### හිටපු ජනාධිපතිවරුන්ගේ හිමකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන්
-
-*2025-08-25 16:23:52* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරුන්ගේ-හිමකම්-ඉවත්-කිරීමේ-පනත්-කෙටුම්පතට-එරෙහි-පෙත්සම්-විභාගය-අවසන්/11-418054) · `si`
-
-විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ  ​ශ්‍රේෂ්ඨාධිකරණයේ නිගමනය  කථානායකවරයා වෙත යොමු කරන බව  අද (25දා) සඳහන් කර තිබේ.
-
-අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/439ae91f.json)
-
----
-
-### அரசாங்கத்திலிருந்து விலகுகிறாரா மேல் மாகாண ஆளுநர் ?
-
-*2025-08-25 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/223331) · `ta`
-
-மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் அரசாங்கத்திலிருந்து விலகப் போவதாக வெளியான செய்திகளை மறுத்துள்ளதுடன், அந்தச் செய்திகள் "ஆதாரமற்றவை மற்றும் பொய்யானவை" என்று தெரிவித்துள்ளார்.
-
-ஜனாதிபதி அநுர குமார திஸாநாயக்கவின் தொலைநோக்கு மற்றும் கொள்கைகளுக்கு தனது உறுதிப்பாட்டை மீண்டும் வலியுறுத்தியுள்ளார்.
-
-"எந்த ஒரு தயக்கமும் இன்றி, நமது தேசத்தை மீண்டும் கட்டியெழுப்பும் பணியில் நான் என்னை முழுமையாக அர்ப்பணித்துள்ளேன்" என்று தெரிவித்த ஆளுநர், அரசாங்கத்தின் முயற்சிகளுடன் தான் உறுதியாக இணைந்திருப்பதாகவும் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/b499ab05.json)
-
----
-
-### Sri Lanka export board promotes smart agriculture, aquaculture tech
-
-*2025-08-25 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-export-board-promotes-smart-agriculture-aquaculture-tech-238202/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s export development board has conducted awareness sessions on ‘smart solutions’ for agricultural and aquaculture exporters in the island’s north western and central provinces.
-
-The seminar focused on “adopting advanced solutions and provided insights into a diverse range of devices and products designed to enhance productivity and sustainability” of the sectors, EDB said.
-
-Over 50 exporters, suppliers, manufacturers attended the seminar on the benefits of integrating smart agriculture and aquaculture technologies.
-
-Solar power systems adaptability for both on-grid and off-grid applications, efficient solar-powered water pump systems tailored for irrigation needs, and smart weather stations delivering real-time environmental data were discussed.
-
-Attendees learnt about developments in smart soil moisture and nutrient control systems, and about devices for monitoring humidity, temperature, and pH levels.
-
-...
-
-[Data](articles/0cdfe99c.json)
-
----
-
-### ரஷ்யாவில்  சக்திவாய்ந்த நிலநடுக்கம்
-
-*2025-08-25 16:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவில்-சக்திவாய்ந்த-நிலநடுக்கம்/50-363463) · `ta`
-
-கடந்த சில காலமாகவே ரஷ்யா பிராந்தியத்தில் தொடர்ச்சியாக நில அதிர்வுகள் ஏற்பட்டு வருகிறது. இதற்கிடையே இந்த மாதத்தில் நான்காவது முறையாக ரஷ்யாவில் மிகப் பெரிய நிலநடுக்கம் ஏற்பட்டுள்ளது.
-
-ரஷ்யாவின் குரில் தீவுகளுக்கு அருகே 6.3 ரிக்டர் அளவில் பதிவான இந்த நிலநடுக்கத்தால் மக்கள் அச்சத்தில் இருக்கிறார்கள்.
-
-பொதுவாகப் பூகம்பம் உலகின் எந்தப் பகுதியில் எப்போது நடக்கும் என்று யாருக்குமே தெரியாது. நாம் சற்றும் எதிர்பார்க்காத நேரத்தில் நிலநடுக்கம் நொடிகளில் ஏற்பட்டு மிக மோசமான பாதிப்பை ஏற்படுத்தும். இதனால் ஏற்படும் உயிரிழப்புகளும் பொருளாதார இழப்புகளும் நாம் கற்பனை கூடச் செய்ய முடியாத அளவுக்கு மோசமாக இருக்கும். இதன் காரணமாகவே நிலநடுக்கம் என்றாலே மக்கள் அலறுகிறார்கள்.
-
-இதற்கிடையே ரஷ்யாவின் குரில் தீவுகளுக்கு அருகே 6.3 ரிக்டர் அளவில் வலிமையான நிலநடுக்கம் ஏற்பட்டுள்ளது. இந்த நிலநடுக்கத்தால் மக்கள் அச்சத்தில் இருக்கிறார்கள். அந்தப் பிராந்தியத்தில் கடந்த ஒரே மாதத்தில் ஏற்படும் நான்காவது வலிமையான நிலநடுக்கம் இதுவாகும்.
-
-...
-
-[Data](articles/8bb7c86e.json)
-
----
-
-### SC concludes hearing of petitions against bill to revoke privileges of former Presidents
-
-*2025-08-25 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111831/sc-concludes-hearing-of-petitions-against-bill-to-revoke-privileges-of-former-presidents) · `en`
-
-The Supreme Court today (25) announced that it will submit its confidential determination on the constitutionality of the bill presented by the government to remove privileges of retired presidents to the Speaker of House.
-
-After an extensive hearing, a three-judge bench comprising Chief Justice Preethi Padman Surasena and Justices Achala Wengappuli, and Sampath Abeykoon issued the order concluding the hearing of petitions filed against the Presidents’ Entitlements (Repeal) Bill.
-
-At the commencement of today’s hearing, President’s Counsel Ali Sabry, appearing on behalf of former Chief of Staff of the Navy S.M. Wijewickrama, who had filed a petition, argued before court that, under Section 3 of the Presidential Entitlements Act No. 4 of 1986, retired presidents or their widows are entitled to housing, pensions, staff facilities, and transportation.
-
-...
-
-[Data](articles/205dfa60.json)
 
 ---

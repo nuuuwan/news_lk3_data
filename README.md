@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 14:50:39**
+As of **2025-08-26 15:08:43**
 
 ## Newspaper Stats
 
-*Scraped **72,460** Articles*
+*Scraped **72,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,963
 adaderanalk | 9,175
-tamilmirrorlk | 10,737
-virakesarilk | 11,920
-adaderanasinhalalk | 12,548
+tamilmirrorlk | 10,738
+virakesarilk | 11,921
+adaderanasinhalalk | 12,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,460 articles have been extended.
+61,973 (85.5%) of 72,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### சிறுத்தைகளை பாதுகாக்க கால்நடை காப்பீட்டுத் திட்டம் : இலங்கையில் புதிய முயற்சி
+
+*2025-08-26 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/223411) · `ta`
+
+இலங்கையில் மனித-வனவிலங்கு மோதலைக் குறைக்கும் நோக்கில், ஐக்கிய நாடுகள் அபிவிருத்தித் திட்டம் (UNDP), வனவிலங்கு மற்றும் இயற்கை பாதுகாப்புச் சங்கம் (WNPS), மற்றும் LOLC காப்புறுதி நிறுவனம் ஆகியவை இணைந்து புதிய கால்நடை காப்பீட்டுத் திட்டத்தை அறிமுகப்படுத்தியுள்ளன.
+
+வனவிலங்கு பாதுகாப்புத் திணைக்களத்தின் வழிகாட்டுதலின் கீழ் ஆரம்பிக்கப்பட்ட இந்தத் திட்டம், அழிந்து வரும் இலங்கைச் சிறுத்தைகளைப் (Panthera pardus kotiya) பாதுகாக்க ஒரு முக்கிய நடவடிக்கையாகக் கருதப்படுகிறது.
+
+இந்தக் காப்பீட்டுத் திட்டத்தின் மூலம், சிறுத்தைகளால் தங்கள் கால்நடைகளை இழக்கும் விவசாயிகளுக்கு விரைவான நிதி இழப்பீடு வழங்கப்படும். இதன் மூலம், கிராமப்புற மக்களின் வாழ்வாதாரத்தைப் பாதுகாப்பதுடன், பதில் நடவடிக்கையாக சிறுத்தைகள் கொல்லப்படுவதைத் தடுக்கவும் இந்தத் திட்டம் உதவுகிறது.
+
+...
+
+[Data](articles/2509115c.json)
+
+---
+
+### රනිල්ව බලන්න රෝහලට ගියාද ? අගමැති හරිනිගෙන් පිළිතුරු
+
+*2025-08-26 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213814) · `si`
+
+තමන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බැලීම සඳහා රෝහලට ගිය බවට පළවෙන තොරතුරු සාවද්‍ය බවත් එසේ ගිය බවට තොරතුරු ඇත්තම් එය ඔප්පු කර පෙන්වන ලෙසත් අගමැති හරිනි අමරසූරිය මෙනවිය පවසයි.
+
+මාධ්‍ය සාකච්ඡාවකට එක්වෙමින් ඇය සඳහන් කර සිටියේ එම අසත්‍ය තොරතුරු ප්‍රචාරය කරන ලද මාධ්‍ය ආයතනයට එය ඔප්පු කර පෙන්වන ලෙස තමන් අභියෝග කරන බවය.
+
+...
+
+[Data](articles/6d619acc.json)
+
+---
+
+### ‘அனுர கோ ஹோம்’ ஆரம்பம்: ஹிருணிகா, ஆசுக்கு தடை
+
+*2025-08-26 14:41:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-கோ-ஹோம்-ஆரம்பம்-ஹிருணிகா-ஆசுக்கு-தடை/175-363531) · `ta`
+
+கொழும்பு நீதவான் நீதிமன்றத்திற்கு அருகிலுள்ள கியூ வீதியில் ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள், ‘அனுர கோ ஹோம்’ தொடங்கிவிட்டது என்றார்.
+
+கூட்டத்தினரிடையே உரையாற்றிய ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கவிந்த ஜெயவர்தன, அரசாங்கத்திற்கு எதிரான எதிர்க்கட்சிகளின் கூட்டுப் போராட்டம் இப்போது தொடங்கிவிட்டது என்று கூறினார்.
+
+இந்த அடக்குமுறை ஊர்வலத்திற்கு அதிக ஆயுள் இல்லை என்றும் கவிந்த ஜெயவர்தன கூறினார்.
+
+இதேவேளை, நீதிமன்றத்துக்கு வருகைதந்த முன்னாள் பாராளுமன்ற உறுப்பினர்களான ஹிருணிகா பிரேமசந்திர மற்றும் ஆசு மாரசிங்க ஆகியோரை பொலிஸார் நீதிமன்றத்துக்குள் செல்வதற்கு அனுமதிக்கவில்லை. எனினும், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ ஆகியோர் நீதிமன்ற வழக்கு விசாரணை அறையில் பிரசன்னமாய் உள்ளனர்.
+
+◼️
+
+[Data](articles/d36edb33.json)
+
+---
 
 ### ’வந்தாரா’  விவகாரம்: முகேஷ் அம்பானியின் மகனுக்கு  சிக்கல்
 
@@ -72,17 +120,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-26 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213813) · `si`
 
+ජාතික විගණන කාර්යාලය සිදුකළ විගණනයේදී කිසිදු අවභාවිතයක් සිදුව නෑ - ජනාධිපති නීතීඥ තිලක් මාරපන
+
+UPDATE - ජනාධිපති නීතීඥ තිලක් මාරපන මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පෙන්වා දී ඇත්තේ මෙම සිදුවීම සම්බන්ධව ජනාධිපති ලේකම් කාර්යාලයේ විගණන නිලධාරියාට විගණනය කිරීම සඳහා බලයක් නොමැති බවය.
+
+එමෙන්ම මේ සම්බන්ධව සිදුකළ වියදම් සියල්ල ජනාධිපති වැය ශීර්ෂය බවත් ඒ සඳහා ජාතික විගණන කාර්යාලය සිදුකළ විගණනයේදී කිසිදු අවභාවිතයක් සිදුව නොමැති බවත් තොරතුරු අනාවරණය වී ඇති බවත් ඔහු අධිකරණය හමුවේ කරුණු දක්වමින් පැවසීය.
+
+ආරාධනා පත්‍රයේ නීතියානුකූලත්වය මෙතෙක් තහවුරු කරගෙන නෑ - අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස්
+
 පොදු දේපළ පනත යටතේ රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහිව ඉදිරිපත් කර තිබෙන නඩුකරය කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ මේ වනවිට කැඳවා තිබේ.
 
 කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනෙවිය ඉදිරියේ නඩුව කැඳවා ඇත.
 
-නඩුව කැඳවූ අවස්ථාවේදී සැකකාර රනිල් වික්‍රමසිංහ මහතා අධිකරණයට ඉදිරිපත් කර තිබුණේ නැහැ.
+නඩුව කැඳවූ අවස්ථාවේදී සැකකාර රනිල් වික්‍රමසිංහ මහතා අධිකරණයට ඉදිරිපත් කර තිබුණේ නැත.
 
-නඩුකරයේ කැඳවූ අවස්ථාවේදී අද (26) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් අතිරේක සොලිසිටර් ජෙනරාල් දිලීප පීරිස් මහතා පෙනී සිටියේය.
-
-සැකකාර රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් තිලක් මාරපන, අනූජ ප්‍රේමරත්න යන ජනාධිපති නීතිඥවරු ඇතුළු නීතිඥ මණ්ඩලයක් පෙනී සිටියහ.
-
-◼️
+...
 
 [Data](articles/4f9c77b7.json)
 
@@ -1711,67 +1763,5 @@ The motive for the shooting and the identity of the suspect have not yet been re
 ◼️
 
 [Data](articles/14c68156.json)
-
----
-
-### Youth arrested over Boralesgamuwa fatal shooting
-
-*2025-08-26 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111849/youth-arrested-over-boralesgamuwa-fatal-shooting-) · `en`
-
-An individual involved in a fatal shooting and the injuring of another person in Boralesgamuwa has been arrested by a team of officers from the Moratuwa camp of the Police Special Task Force (STF), along with a quantity of heroin, police stated.
-
-On Sunday morning (24), two individuals arrived in a three-wheeler and opened fire at a pedestrian walking along the Malani Bulathsinhala Mawatha in Boralesgamuwa. One person was killed, and another was injured in the shooting.
-
-Following the incident, the Western Province South Crime Division, together with the STF, launched an investigation.
-
-Based on the information uncovered during the investigation, a team from the STF Moratuwa camp apprehended the suspect—believed to be the shooter—last afternoon in Nawinna, Maharagama.
-
-At the time of arrest, the suspect was found in possession of 20 grams and 550 milligrams of heroin.
-
-The suspect has been handed over to the Western Province South Crime Division for further investigations.
-
-◼️
-
-[Data](articles/f1f79ed8.json)
-
----
-
-### Special attention drawn to challenges faced in resuming projects that were halted due to economic crisis
-
-*2025-08-26 07:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111848/special-attention-drawn-to-challenges-faced-in-resuming-projects-that-were-halted-due-to-economic-crisis-) · `en`
-
-Special attention of President Anura Kumara Dissanayake and officials has been drawn to the challenges faced in resuming projects that were halted due to the recent economic crisis as well as in sustaining on-going projects.
-
-Meanwhile, President Dissanayake has emphasized the importance of ensuring that projects initiated this year are steered towards achieving their specific targets within the same year.
-
-He has further pointed out that while the government allocates sufficient provisions to the relevant Ministries, failure to utilize those funds effectively within the stipulated timeframe becomes a serious concern.
-
-These remarks were made during a meeting to review the projects implemented under the 2025 budget allocations for the Ministry of Urban Development, Construction and Housing.
-
-The pre-budget discussions for 2026 was held at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/ef2de4d0.json)
-
----
-
-### යතුරුපැදි අනතුරින් තරුණයෙක්ට දිවි අහිමිවෙයි
-
-*2025-08-26 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213793) · `si`
-
-මත්තේගොඩ පොලිස් වසමේ 342 මාර්ගයේ සල්ගස් හන්දිය ආසන්නයේ දී සිදුවු මාරක අනතුරකින් තරුණයෙකුට දිවි අහිමි වී තිබේ.
-
-කොට්ටාව දෙසට ගමන් කළ යතුරුපැදියක් ඉදිරියෙන් ආ බස් රථයක ගැටී මාර්ගයේ පෙරළී ගොස් එම අනතුර සිදුව ඇත.
-
-අනතුරින් යතුරුපැදියේ ගමන්ගත් 30 හැවිරිදි දේවින්ද රුක්ෂාන් නැමති තරුණයා බරපතළ තුවාල ලබා හෝමාගම රෝහලට ඇතුළත් කිරීමේ දී ජීවිතක්ෂයට පත්වුණි.
-
-අනතුර සම්බන්ධයෙන් බස් රියදුරු අත්අඩංගුවට ගෙන ඇති අතර, මත්තේගොඩ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-එම අනතුර සිදුවන අයුරු අසල තිබු CCTV කැමරාවක මෙලෙස සටහන්ව තිබුණි.
-
-◼️
-
-[Data](articles/6c9c9736.json)
 
 ---

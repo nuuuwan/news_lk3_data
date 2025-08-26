@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 21:50:50**
+As of **2025-08-26 22:08:45**
 
 ## Newspaper Stats
 
@@ -131,6 +131,8 @@ In a post on its official ‘X’ (formerly Twitter) account, the British High C
 “Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.”
 
 It further emphasized that the public should refer only to its official ‘X’ account or the High Commissioner’s official handle for accurate updates on the activities of the High Commission and High Commissioner.
+
+Please refer to this account or the High Commissioner’s official handle @AndrewPtkFCDO for accurate updates on the activities of the High Commission and High Commissioner. Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.— UK in Sri Lanka 🇬🇧🇱🇰 (@UKinSriLanka) August 26, 2025
 
 ◼️
 

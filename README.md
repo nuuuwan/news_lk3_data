@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 08:03:58**
+As of **2025-08-26 08:43:39**
 
 ## Newspaper Stats
 
-*Scraped **72,350** Articles*
+*Scraped **72,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,135 @@ economynextcom | 4,420
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,949
-adaderanalk | 9,154
-tamilmirrorlk | 10,703
+adalk | 6,950
+adaderanalk | 9,158
+tamilmirrorlk | 10,705
 virakesarilk | 11,909
-adaderanasinhalalk | 12,529
+adaderanasinhalalk | 12,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,350 articles have been extended.
+61,973 (85.6%) of 72,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ஒரே நேரத்தில் 108 ஜோடிகளுக்கு திருமணம்
+
+*2025-08-26 08:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-நேரத்தில்-108-ஜோடிகளுக்கு-திருமணம்/175-363490) · `ta`
+
+சிங்கப்பூர் வாழ் தமிழ் உணர்வாளரது நிதிப் பங்களிப்பில் யாழ். மாவட்டத்தில் திருமண வயதை எட்டியும் பொருளாதார நிலை காரணமாக இல்லற வாழ்வில் இணைய முடியாதிருக்கும் 108 ஜோடிகளுக்கு திருமணம் செய்துவைக்கப்படவுள்ளதாக வடக்கு மாகாண சபையின் முன்னாள் உறுப்பினர் ஜெயசேகரம் தெரிவித்துள்ளார்.
+
+இது குறித்து ஊடக சந்திப்பொன்றை நடத்தி இவ்வாறு தெரிவித்த அவர் மேலும் கூறுகையில்,
+
+சிங்கப்பூரை வதிவிடமாக கொண்ட  ரி.ரி. துரை சுமதினியின் பங்களிப்பிலேயே குறித்த 108 தம்பதியினருக்கு திருமணம் செய்துவைக்கப்பவுள்ளது
+
+தாலி, சீதனம் உள்ளிட்ட அனைத்தும் குறித்த தம்பதியினருக்கு வழங்கப்பட்டு தொண்டமனாறு செல்வச் சந்நிதியான் ஆலயத்தில் எதிர்வரும் வியாழகாகிழமை (28)  குறித்த 108 தம்பதியினருக்கும் திருமணம் செய்து வைக்கும் நிகழ்வு இடம்பெறவுள்ளது. (a)
+
+◼️
+
+[Data](articles/22fa5f5c.json)
+
+---
+
+### காலநிலையில் இன்று சிறிய மாற்றம்
+
+*2025-08-26 07:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலையில்-இன்று-சிறிய-மாற்றம்/175-363489) · `ta`
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல் சப்ரகமுவ மாகாணங்களில் காலை வேளையில் சிறிதளவான மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் மின்னல் தாக்கங்களினாலும் பலத்த காற்றினாலும் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/5889084b.json)
+
+---
+
+### මාතර වෙඩිතැබීමක් - වෙඩික්කරු සමග පොර බැදීමක්
+
+*2025-08-26 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213795) · `si`
+
+මාතර පොලිස් වසමේ වෙරළ පාර ප්‍රදේශයේ දී මෝටර් රථයකින් පැමිණි පුද්ගලයෙකු විසින් අවන්හලක හිමිකරුවෙකුට වෙඩිතැබීමක් සිදුකර පලා ගොස් තිබේ.
+
+වෙඩි තැබීමෙන් කිසිවෙකුටත් තුවාල සිදුව නොමැති අතර, වෙඩිතැබීම සඳහා පිස්තෝල අවියක් භාවිත කර ඇතැයි පොලීසිය පවසයි.
+
+වෙඩි තැබීමට ඉලක්ක වූ අවන්හලේ හිමිකරු වෙඩික්කරු සමග පොර බැදීමක් සිදුකිරීමෙන් පසු සැකකරු පලාගොස් ඇත.
+
+ගිනිඅවිය, සජීව පතරොම් 4ක් සහ හිස් කොපුවක් එම වෙඩිතැබීම සිදුකළ ස්ථානයේ තිබී හමුව තිබේ.
+
+වෙඩි තැබීමට හේතුව  හෝ සැකකරු සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති අතර, මාතර පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/93252b8f.json)
+
+---
+
+### 2024/2025 අධ්‍යයන වර්ෂයට අදාළ විශ්වවිද්‍යාල කඩඉම් ලකුණු නිකුත් කරයි
+
+*2025-08-26 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213794) · `si`
+
+2024 වර්ෂයේ පවත්වන ලද අ.පො.ස. (උසස් පෙළ) විභාගයේ ප්‍රතිඵල මත විශ්වවිද්‍යාල ප්‍රවේශය සදහා කඩඉම් ලකුණු විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව එක් එක් දිස්ත්‍රික්කයෙන් විවිධ විශ්වවිද්‍යාලයන්හි එක් එක් අධ්‍යයන පාඨමාලාවට ඇතුළත් වීමට අවශ්‍ය අවම "Z" අගයන් අදාළ නිවේදනයේ සඳහන් වේ.
+
+සිසුන් හට ඔවුන් තේරී ඇති පාඨමාලාව සහ විශ්වවිද්‍යාලය පහත සඳහන් ක්‍රම ඔස්සේ දැන ගත හැකිය.
+
+3. විශ්වවිද්‍යාල ප්‍රවේශය සඳහා අයදුම්කළ සියලුම සිසුන්ට SMS පණිවිඩයක් හරහා විශ්වවිද්‍යාලයට තේරී පත් වී ඇති බව හෝ නැති බව දැන්වීම සිදු කරනු ඇත.
+
+◼️
+
+[Data](articles/f759d468.json)
+
+---
+
+### Youth arrested over Boralesgamuwa fatal shooting
+
+*2025-08-26 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111849/youth-arrested-over-boralesgamuwa-fatal-shooting-) · `en`
+
+An individual involved in a fatal shooting and the injuring of another person in Boralesgamuwa has been arrested by a team of officers from the Moratuwa camp of the Police Special Task Force (STF), along with a quantity of heroin, police stated.
+
+On Sunday morning (24), two individuals arrived in a three-wheeler and opened fire at a pedestrian walking along the Malani Bulathsinhala Mawatha in Boralesgamuwa. One person was killed, and another was injured in the shooting.
+
+Following the incident, the Western Province South Crime Division, together with the STF, launched an investigation.
+
+Based on the information uncovered during the investigation, a team from the STF Moratuwa camp apprehended the suspect—believed to be the shooter—last afternoon in Nawinna, Maharagama.
+
+At the time of arrest, the suspect was found in possession of 20 grams and 550 milligrams of heroin.
+
+The suspect has been handed over to the Western Province South Crime Division for further investigations.
+
+◼️
+
+[Data](articles/f1f79ed8.json)
+
+---
+
+### Special attention drawn to challenges faced in resuming projects that were halted due to economic crisis
+
+*2025-08-26 07:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111848/special-attention-drawn-to-challenges-faced-in-resuming-projects-that-were-halted-due-to-economic-crisis-) · `en`
+
+Special attention of President Anura Kumara Dissanayake and officials has been drawn to the challenges faced in resuming projects that were halted due to the recent economic crisis as well as in sustaining on-going projects.
+
+Meanwhile, President Dissanayake has emphasized the importance of ensuring that projects initiated this year are steered towards achieving their specific targets within the same year.
+
+He has further pointed out that while the government allocates sufficient provisions to the relevant Ministries, failure to utilize those funds effectively within the stipulated timeframe becomes a serious concern.
+
+These remarks were made during a meeting to review the projects implemented under the 2025 budget allocations for the Ministry of Urban Development, Construction and Housing.
+
+The pre-budget discussions for 2026 was held at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/ef2de4d0.json)
+
+---
 
 ### යතුරුපැදි අනතුරින් තරුණයෙක්ට දිවි අහිමිවෙයි
 
@@ -71,6 +185,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0747d14c.json)
+
+---
+
+### First human case of flesh-eating screwworm parasite confirmed in US
+
+*2025-08-26 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111847/first-human-case-of-flesh-eating-screwworm-parasite-confirmed-in-us) · `en`
+
+The first human case of a flesh-eating parasite infestation has been confirmed in the US, authorities say.
+
+New World screwworm (NWS) myiasis was found in a patient who returned to the US from El Salvador, the Department of Health and Human Services said on Monday. The case was confirmed on 4 August.
+
+NWS myiasis is a parasitic infestation of fly larvae, or maggots, caused by parasitic flies.
+
+The pest primarily affects livestock, and authorities have said the risk to US public health was currently “very low”.
+
+The Centers for Disease Control and Prevention (CDC) worked with Maryland’s health department to investigate the case.
+
+HHS spokesperson Andrew Nixon said it is the first human case of travel-associated NWS myiasis from an outbreak-affected country identified in the US.
+
+The devastating pest, which feeds on live tissue, is usually found in South America and the Caribbean.
+
+...
+
+[Data](articles/18146b4a.json)
+
+---
+
+### Large crowd to converge in Colombo today?
+
+*2025-08-26 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111846/large-crowd-to-converge-in-colombo-today) · `en`
+
+All opposition parties have decided to gather in Colombo today (26), setting aside political and party differences to express solidarity with former President Ranil Wickremesinghe who is currently in remand custody after being arrested on Friday (22), Assistant Leader of the United National Party (UNP) former Minister Akila Viraj Kariyawasam stated.
+
+He made this announcement while addressing media following a special discussion held with the participation of various opposition parties.
+
+Former Minister Kariyawasam noted that the denial of bail to former President Ranil Wickremesinghe shows that even the basic bail conditions were not considered by police.
+
+He also said that the arrest of former President Ranil Wickremesinghe is a clear indication of political repression.
+
+Meanwhile, the General Secretary of the Sri Lanka Freedom Party (SLFP), Duminda Dissanayake, also addressed the gathering and emphasised that everyone who values democracy should come to Colombo today.
+
+◼️
+
+[Data](articles/80107f80.json)
 
 ---
 
@@ -132,7 +290,17 @@ The cut-off marks can be accessed from the official website of the UGC.
 
 Former President Ranil Wickremesinghe, who became the first Executive President of Sri Lanka to be arrested and remanded, is scheduled to be produced before the Colombo Fort Magistrate’s Court today.
 
-◼️
+Former President Wickremesinghe, who was remanded until tomorrow (26), was initially admitted to the Prison Hospital, and then transferred to the National Hospital.
+
+He was admitted to the Intensive Care Unit (ICU) due to dehydration, according to hospital sources.
+
+The transfer was carried out on the recommendation of Prison Hospital doctors following medical examinations.
+
+Former President Wickremesinghe, was remanded until August 26 after being arrested by the Criminal Investigation Department (CID) on August 22.
+
+Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to the United Kingdom to attend a ceremony for his wife at a British university while he was head of state.
+
+...
 
 [Data](articles/6e792204.json)
 
@@ -1330,6 +1498,24 @@ Established in 1969 under Act No. 03 of 1969, the Law Commission of Sri Lanka is
 
 ---
 
+### හිටපු ජනපතිට එරෙහි නඩුව අද විභාගයට
+
+*2025-08-25 17:10:35* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිට-එරෙහි-නඩුව-අද-විභාගයට/11-418055) · `si`
+
+එංගලන්තයේ පෞද්ගලික විශ්ව විද්‍යාලයක පැවති උපාධි ප්‍රධානෝත්සවයක් සඳහා පුද්ගලික සංචාරයකට ගොස් දවස් එකහමාරක කාලයක් සඳහා රුපියල් කෝටි 1 1/2කට අධික මුදලක් වැය කර රජයට පාඩු කළැයි කියන සිද්ධිය සම්බන්ධයෙන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහි නඩුව අද (26) දින කොටුව මහෙස්ත්‍රාත් අධිකරණයේ කැඳවීමට නියමිතය.
+
+සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රිමාන්ඩ් බාරයට පත් කරනු ලැබු ශ්‍රී ලංකාවේ අටවැනි විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (26) දිනයේ අධිකරණයට ඉදිරිපත් කරන ලෙස කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනවිය පෙර දිනයේ නියෝග කර ඇත.
+
+රිමාන්ඩ් බාරයට පත් කිරීමෙන් අනතුරුව බන්ධනාගාර රෝහලට ඇතුලත් කෙරුණු රනිල් වික්‍රමසිංහ මහතාගේ සෞඛ්‍ය තත්වය අනුව පසුව ඔහු කොළඹ ජාතික රෝහලට ඇතුලත් කෙරිණී.
+
+රනිල් වික්‍රමසිංහ මහතාට පිළිබඳ ප්‍රතිකාර කරන වෛද්‍ය විශේඥයින්ගේ උපදෙස් මත රනිල් වික්‍රමසිංහ මහතා අධිකරණයට ඉදිරිපත් කිරීම සම්බන්ධයෙන් සළකා බලන බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/d5407761.json)
+
+---
+
 ### Sri Lanka rupee weaker against dollar, bond yields steady
 
 *2025-08-25 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238267/) · `en`
@@ -1611,177 +1797,5 @@ At the commencement of today’s hearing, President’s Counsel Ali Sabry, appea
 ...
 
 [Data](articles/205dfa60.json)
-
----
-
-### හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන්
-
-*2025-08-25 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213776) · `si`
-
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබූ, විශ්‍රාමික ජනපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය ශ්‍රේෂ්ඨාධිකරණයේදී අද (25) අවසන් කෙරුණි.
-
-එහිදී දීර්ඝ කරුණු සලකා බැලීමකින් පසු අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියෝග කළේ, එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කෙරෙන බවය.
-
-එහිදී පළමුව කරුණු දැක්වූයේ නඩුවේ එක් පෙත්සම්කාර පාර්ශ්වයක්වන නාවික හමුදාවේ හිටපු මාණ්ඩලික ප්‍රධානී එස්.එම්. විජේවික්‍රම මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ අලි සබ්‍රි මහතාය.
-
-ජනාධිපති නීතිඥවරයා කරුණු දක්වමින් පැවසුවේ, 1986 අංක 04 දරණ ජනාධිපති හිමිකම් පනතේ 03 වැනි වගන්තිය යටතේ විශ්‍රාමික ජනාධිපතිවරුන්ට හෝ වැන්දඹු භාර්යාවට නිවාස, විශ්‍රාමික දීමනා, කාර්ය මණ්ඩල පහසුකම් සහ ප්‍රවාහන පහසුකම් සලසාදීම සම්බන්ධයෙන් කරුණු දක්වා ඇති බවය.
-
-...
-
-[Data](articles/5b435ced.json)
-
----
-
-### Sri Lanka services exports rise 3.36-pct in July
-
-*2025-08-25 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-rise-3-36-pct-in-july-238241/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s services exports rose 3.36 percent from a year ago to 337.11 million US dollars in July 2025, helped by transport and logistics, the island’s Export Development Board said.
-
-Over the first six months of the year, services exports are estimated to have increased 9.86 percent, totaling 2,192.71 million dollars.
-
-ICT/BPM exports dropped 2.28 percent to 144.98 million US dollars in July 2025 compared to July 2024, and construction fell 42.03 percent to 10.73 million US dollars.
-
-Financial services also fell 9.51 percent to 2.66 million US dollars.
-
-Transport and logistics grew 14.33 percent to 178.74 million US dollars.
-
-RELATED Sri Lanka exports rise 15.37-pct in July 2025, helped by tea, coconut, rubber and apparel
-
-Up to July total exports of goods and services were 9,992.53 million US dollars, up 7.79 percent. (Colombo/Aug25/2025)
-
-◼️
-
-[Data](articles/e0352c27.json)
-
----
-
-### Opposition heavyweights meet to deliberate ex-President Ranil’s arrest
-
-*2025-08-25 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111830/opposition-heavyweights-meet-to-deliberate-ex-president-ranils-arrest-) · `en`
-
-A group of prominent opposition politicians met today (25) to discuss the situation surrounding former President Ranil Wickremesinghe, who is currently in remand custody.
-
-The meeting was held at the Office of the Leader of the Opposition, where the attendees also deliberate on future political activities.
-
-The meeting was attended by former President Maithripala Sirisena, Members of Parliament Ravi Karunanayake, Ranjith Madduma Bandara, Kabir Hashim, Kavinda Jayawardena and Palani Thigambaram, as well as former MPs Ruwan Wijewardene, Nimal Siripala de Silva, G.L. Peiris, and Sagala Ratnayake, among other key opposition figures.
-
-Meanwhile, a number of other MPs representing the Samagi Jana Balawegaya (SJB) have also participated in the discussions.
-
-Former President Wickremesinghe, was remanded until August 26 by the Colombo Fort Magistrate’s Court after being arrested by the Criminal Investigation Department (CID) on August 22.
-
-◼️
-
-[Data](articles/65f44cb1.json)
-
----
-
-### “சிறுவர்கள் மயானமாக” மாறிவிட்ட காசா! ; பாலஸ்தீனம் போரை நிறுத்துவதற்காகவும் குரல் கொடுங்கள்! - மெலனியா ட்ரம்புக்கு துருக்கியின் முதல் பெண்மணி கடிதம்
-
-*2025-08-25 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/223326) · `ta`
-
-பல ஆண்டுகளாக தொடர்ந்துவரும் காசா போரை நிறுத்தப்படுவதற்காக குரல் கொடுக்குமாறு, துருக்கியின் முதல் பெண்மணியான எமின் எர்டோகன் (Emine Erdogan), அமெரிக்காவின் முதல் பெண்மணியான மெலனியா ட்ரம்புக்கு (Melania Trump) கடிதம் ஒன்றினூடாக வலியுறுத்தியுள்ளார்.
-
-அண்மையில் உக்ரேன் - ரஷ்ய போரை நிறுத்துமாறு கோரி, ரஷ்ய ஜனாதிபதி புட்டினுக்கு மெலனியா கடிதம் ஒன்றை எழுதியிருந்தார். அதில் போரினால் விளைந்த பாதிப்புகள், குறிப்பாக சிறுவர்களுக்கு நேர்ந்த கதியை சுட்டிக்காட்டி, யுத்தத்தை உடனடியாக நிறுத்துமாறு கோரிக்கை விடுத்திருந்தார்.
-
-மெலனியாவின் இந்த முயற்சியை பாராட்டும் வகையில், கடந்த சனிக்கிழமை (23) துருக்கி ஜனாதிபதி மாளிகையின் ஊடாக எமின் எர்டோகனின் கடிதமொன்று வெளியிடப்பட்டது.
-
-அதில், உக்ரேன் - ரஷ்ய போரை நிறுத்த மெலனியா எடுத்துக்கொண்ட முயற்சியை எமின் பாராட்டி எழுதியிருந்தார்.
-
-அதேபோன்று பாலஸ்தீனத்தின் காசாவில் இடம்பெற்று வரும் போரை நிறுத்துமாறு இஸ்ரேல் பிரதமருக்கும் ஒரு கடிதம் அனுப்ப வேண்டும் என்றும் அந்தக் கடிதத்தில், மெலனியாவுக்கு எமின் கோரிக்கை விடுத்தார்.
-
-...
-
-[Data](articles/c293d6b4.json)
-
----
-
-### Stocks close down, ASPI drops 73.61 points
-
-*2025-08-25 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111829/stocks-close-down-aspi-drops-7361-points-) · `en`
-
-The Colombo Stock Exchange (CSE) faced a decline today (25), with the key indices recording drops at the end of trading.
-
-The All Share Price Index (ASPI) declined by 73.61 to close at 20,575.59, while the S&P SL20 Index fell by 41.51 points, ending the session at 6,048.33.
-
-Meanwhile, a turnover of Rs.4.4 billion was recorded during the day.
-
-◼️
-
-[Data](articles/a4363773.json)
-
----
-
-### අධිකරණයට ඉදිරිපත් වූ හිටපු රාජ්‍ය ඇමති ඩයනාට ලැබුණු තීන්දුව මෙන්න
-
-*2025-08-25 15:28:25* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණයට-ඉදිරිපත්-වූ-හිටපු-රාජ්‍ය-ඇමති-ඩයනාට-ලැබුණු-තීන්දුව-මෙන්න/11-418053) · `si`
-
-අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය සිය නීතිඥවරු මාර්ගයෙන් අධිකරණයට අද(25දා) ඉදිරිපත් වී තිබේ.
-
-අනතුරුව රුපියල් මිලියන 10ක ශරීර ඇප මත මුදා හැරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර ඇත.
-
-◼️
-
-[Data](articles/fdec62f2.json)
-
----
-
-### பாதுகாப்பு செயலாளரை சந்தித்தார் புதிய DIG
-
-*2025-08-25 15:27:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-செயலாளரை-சந்தித்தார்-புதிய-DIG/175-363461) · `ta`
-
-புதிதாக நியமிக்கப்பட்ட பொலிஸ் மா அதிபர் (DIG) பிரியந்த வீரசூரிய, பாதுகாப்பு செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தாவை (ஓய்வு) திங்கட்கிழமை ( 25) பாதுகாப்பு அமைச்சில் மரியாதை நிமித்தமாக சந்தித்தார்.
-
-இலங்கையின் 37வது பொலிஸ் மா அதிபராகப் பொறுப்பேற்ற வீரசூரியவை பாதுகாப்பு செயலாளர் அன்புடன் வரவேற்றார்.
-
-இந்த சந்திப்பின் போது, இரு அதிகாரிகளும் பரஸ்பர நலன் சார்ந்த விடயங்கள் குறித்து கலந்துரையாடியதுடன், தேசிய பாதுகாப்பு மற்றும் சட்டம் ஒழுங்கைப் பராமரிப்பதில் நிறுவனங்களுக்கு இடையேயான ஒருங்கிணைப்பு குறித்து கவனம் செலுத்தினர்.
-
-புதிய பொலிஸ் மா அதிபரின் நியமனத்திற்கு பாதுகாப்புச் செயலாளர் வாழ்த்து தெரிவித்ததோடு, பாதுகாப்பு அமைச்சகத்திற்கும் இலங்கை பொலிஸாருக்கும் இடையிலான கூட்டு முயற்சிகளை வலுப்படுத்துவதில் நம்பிக்கை தெரிவித்தார்.
-
-நாடு முழுவதும் வளர்ந்து வரும் சவால்களை எதிர்கொள்ளவும், பாதுகாப்பை நிலைநிறுதத்தல், பாதுகாப்பு நிறுவனங்களுக்கு இடையே தொடர்ச்சியான ஒத்துழைப்பின் முக்கியத்துவத்தை இந்தச் சந்திப்பு சுட்டிக்காட்டினார்.
-
-◼️
-
-[Data](articles/7726da0c.json)
-
----
-
-### புதிய பொலிஸ் மா அதிபர் பாதுகாப்பு செயலாளரை சந்தித்தார்
-
-*2025-08-25 15:27:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பொலிஸ்-மா-அதிபர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-363461) · `ta`
-
-புதிதாக நியமிக்கப்பட்ட பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய, பாதுகாப்பு செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தாவை (ஓய்வு) திங்கட்கிழமை ( 25) பாதுகாப்பு அமைச்சில் மரியாதை நிமித்தமாக சந்தித்தார்.
-
-இலங்கையின் 37வது பொலிஸ் மா அதிபராகப் பொறுப்பேற்ற வீரசூரியவை பாதுகாப்பு செயலாளர் அன்புடன் வரவேற்றார்.
-
-இந்த சந்திப்பின் போது, இரு அதிகாரிகளும் பரஸ்பர நலன் சார்ந்த விடயங்கள் குறித்து கலந்துரையாடியதுடன், தேசிய பாதுகாப்பு மற்றும் சட்டம் ஒழுங்கைப் பராமரிப்பதில் நிறுவனங்களுக்கு இடையேயான ஒருங்கிணைப்பு குறித்து கவனம் செலுத்தினர்.
-
-புதிய பொலிஸ் மா அதிபரின் நியமனத்திற்கு பாதுகாப்புச் செயலாளர் வாழ்த்து தெரிவித்ததோடு, பாதுகாப்பு அமைச்சகத்திற்கும் இலங்கை பொலிஸாருக்கும் இடையிலான கூட்டு முயற்சிகளை வலுப்படுத்துவதில் நம்பிக்கை தெரிவித்தார்.
-
-நாடு முழுவதும் வளர்ந்து வரும் சவால்களை எதிர்கொள்ளவும், பாதுகாப்பை நிலைநிறுதத்தல், பாதுகாப்பு நிறுவனங்களுக்கு இடையே தொடர்ச்சியான ஒத்துழைப்பின் முக்கியத்துவத்தை இந்தச் சந்திப்பு சுட்டிக்காட்டினார்.
-
-◼️
-
-[Data](articles/bf4e09a2.json)
-
----
-
-### Ex-State Minister Prasanna Ranaweera further remanded
-
-*2025-08-25 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111828/ex-state-minister-prasanna-ranaweera-further-remanded) · `en`
-
-Former State Minister Prasanna Ranaweera, who was arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents, has been further remanded.
-
-When the case was heard before Mahara Magistrate Janitha Perera, an order was issued to further remand Prasanna Ranaweera until September 8, Ada Derana reporter said.
-
-Additionally, former Kelaniya Pradeshiya Sabha member Milroy Perera and Sarath Kumar also known as ‘Singapore Sarath’ were also remanded until September 8.
-
-As the case was heard via Skype, former State Minister Prasanna Ranaweera and Milroy Perera were not physically produced in court. Only Sarath Kumara appeared in person before court, Ada Derana reporter said.
-
-Ranaweera and four others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
-
-◼️
-
-[Data](articles/a1f9ca46.json)
 
 ---

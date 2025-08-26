@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 06:09:33**
+As of **2025-08-26 06:34:11**
 
 ## Newspaper Stats
 
-*Scraped **72,340** Articles*
+*Scraped **72,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 6,948
 adaderanalk | 9,150
 tamilmirrorlk | 10,702
 virakesarilk | 11,909
-adaderanasinhalalk | 12,525
+adaderanasinhalalk | 12,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,340 articles have been extended.
+61,973 (85.7%) of 72,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### අදත් සවස 2න් පසුව තද වැසි
+
+*2025-08-26 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213788) · `si`
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+◼️
+
+[Data](articles/1759f802.json)
+
+---
 
 ### 29 ஆம் திகதி கையெழுத்துப் போராட்டம்
 
@@ -1773,25 +1785,5 @@ However, Dr. Wijesinghe further noted that a decision regarding whether former P
 ...
 
 [Data](articles/a10a9c66.json)
-
----
-
-### Israeli airstrike on southern Gaza hospital kills 8, health ministry says
-
-*2025-08-25 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111825/israeli-airstrike-on-southern-gaza-hospital-kills-8-health-ministry-says) · `en`
-
-An Israeli airstrike hit the fourth floor of southern Gaza’s main hospital Monday, killing at least eight people, Gaza’s health ministry said.
-
-The victims on the fourth floor of Nasser Hospital were killed in a double-tap strike with one missile hitting first, then another moments later as rescue crews arrived, the ministry said.
-
-Khan Younis’ Nasser Hospital, the largest in southern Gaza, has withstood raids and bombardment throughout 22 months of war, with officials citing critical shortages of supplies and staff.
-
-Israel’s military did not immediately respond to questions about the strike.
-
-Israeli strikes and raids on hospitals are not uncommon. Multiple hospitals have been struck or raided across the Gaza Strip, with Israel claiming its attacks had targeted militants operating inside the medical facilities, without providing evidence.
-
-...
-
-[Data](articles/f9ff6fab.json)
 
 ---

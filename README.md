@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 06:34:11**
+As of **2025-08-26 07:17:51**
 
 ## Newspaper Stats
 
-*Scraped **72,341** Articles*
+*Scraped **72,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,948
-adaderanalk | 9,150
-tamilmirrorlk | 10,702
+adaderanalk | 9,154
+tamilmirrorlk | 10,703
 virakesarilk | 11,909
 adaderanasinhalalk | 12,526
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,526
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.7%) of 72,341 articles have been extended.
+61,973 (85.7%) of 72,346 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,68 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1759f802.json)
+
+---
+
+### University entrance cut-off marks released
+
+*2025-08-26 05:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111845/university-entrance-cut-off-marks-released) · `en`
+
+University entrance cut-off marks for the candidates of 2024/25 G.C.E. Advanced Level Examination have been released by the University Grants Commission (UGC).
+
+The cut-off marks can be accessed from the official website of the UGC.
+
+◼️
+
+[Data](articles/9d84c748.json)
+
+---
+
+### Case against ex-President Ranil to be taken up in court today
+
+*2025-08-26 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111844/case-against-ex-president-ranil-to-be-taken-up-in-court-today) · `en`
+
+Former President Ranil Wickremesinghe, who became the first Executive President of Sri Lanka to be arrested and remanded, is scheduled to be produced before the Colombo Fort Magistrate’s Court today.
+
+◼️
+
+[Data](articles/6e792204.json)
+
+---
+
+### Donald Trump says likely to visit China this year or soon after
+
+*2025-08-26 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111843/donald-trump-says-likely-to-visit-china-this-year-or-soon-after) · `en`
+
+US President Donald Trump said Monday (Aug 25) that he expects to visit China this year or shortly afterwards, noting that economic ties between the two countries have improved - even as he kept the door open to steeper tariffs.
+
+Speaking to reporters as he met South Korean President Lee Jae Myung in Washington, Trump pointed to recent talks with Chinese counterpart Xi Jinping: “At some point, probably during this year or shortly thereafter, we’ll go to China.”
+
+“We’re going to have a great relationship with China,” Trump vowed.
+
+The US leader added, “They have some cards. We have incredible cards, but I don’t want to play those cards. If I played those cards, that would destroy China.”
+
+Tensions between the world’s two biggest economies have been simmering this year, but have significantly cooled since April, when both countries slapped escalating tariffs on each other’s exports.
+
+...
+
+[Data](articles/0c7ae73b.json)
+
+---
+
+### Showers expected in few areas of the country today
+
+*2025-08-26 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111842/showers-expected-in-few-areas-of-the-country-today) · `en`
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa district after 2.00 p.m.
+
+A few showers may occur in Western and Sabaragamuwa provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3120bb65.json)
 
 ---
 
@@ -123,6 +185,20 @@ This meeting underscored the importance of continued cooperation between securit
 ◼️
 
 [Data](articles/da1e23e1.json)
+
+---
+
+### செம்மணி அகழ்வுப் பணி மீள ஆரம்பனது
+
+*2025-08-26 03:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-அகழ்வுப்-பணி-மீள-ஆரம்பனது/175-363487) · `ta`
+
+யாழ். செம்மணி மனிதப் புதைகுழியில் இடைநிறுத்தப்பட்ட இரண்டாம் கட்ட அகழ்வுப் பணி நேற்று மீண்டும் ஆரம்பமானது.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் அகழ்வுப் பணிகள் கடந்த ஓகஸ்ட் 6ஆம் திகதி முதல் இடைநிறுத்தப்பட்டன.
+
+◼️
+
+[Data](articles/f8f633b0.json)
 
 ---
 
@@ -1697,93 +1773,5 @@ Among the cases filed against her include the charge of remaining in Sri Lanka w
 ...
 
 [Data](articles/6e5ee8b7.json)
-
----
-
-### Sri Lanka exports rise 15.37-pct in July, helped by tea, coconut, rubber and apparel
-
-*2025-08-25 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-rise-15-37-pct-in-july-helped-by-tea-coconut-rubber-and-apparel-238231/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s merchandise exports rose 15.37 percent to 1,304.00 million dollars in July 2025 from a year ago, helped by tea, coconut and apparel exports, data from the export promotion office showed.
-
-Merchandise exports for January to June 2025 rose 7.22 percent, compared to the same period in 2024, to 7,799.82 million dollars.
-
-Earnings from tea which made up 12.8 percent of merchandise exports, increased 13.09 percent to 141.02 million dollars in July 2025 compared to July 2024.
-
-Export earnings from coconut-based products increased 63.85 percent in July 2025 compared to the same month in 2024.
-
-Export earnings from apparel and textiles increased by 8.15 percent y-o-y to 479.90 million dollars, while US President Donald Trump’s new tariffs remained paused.
-
-Earnings from food and beverages increased 64.47, rubber and rubber products increased 10.10 percent, and seafood and ornamental fish rose 78.17 percent and 148.97 respectively.
-
-...
-
-[Data](articles/9ca8a8fa.json)
-
----
-
-### Will ex-President Ranil be produced in court tomorrow?
-
-*2025-08-25 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/111826/will-ex-president-ranil-be-produced-in-court-tomorrow-) · `en`
-
-The health condition of former President Ranil Wickremesinghe has improved to a somewhat satisfactory level, according to Dr. Pradeep Wijesinghe, the Acting Director of the Colombo National Hospital.
-
-Dr. Pradeep Wijesinghe stated that although the former President is currently in a stable and satisfactory condition, he remains under close observation by specialist doctors in the Intensive Care Unit (ICU), and his condition could still change.
-
-However, Dr. Wijesinghe further noted that a decision regarding whether former President Wickremesinghe will be able to appear before court tomorrow will be made later today, following a medical discussion among the doctors.
-
-“The medical team treating him is currently having a discussion in the hospital auditorium. After that discussion, a decision will be made regarding the medical reasoning and his current condition. Only then can a decision be taken on whether he is fit to appear in court.
-
-...
-
-[Data](articles/32f78a14.json)
-
----
-
-### டன்சினன் பகுதியில் தீ விபத்து ; 06 வீடுகள் சேதம்
-
-*2025-08-25 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223315) · `ta`
-
-பூண்டுலோயா, டன்சினன் மத்திய பிரிவில் உள்ள லைன் குடியிருப்பில் திங்கட்கிழமை (25) முற்பகல் 11 மணியளவில் ஏற்பட்ட தீ பரவலில் 20 வீடுகளை கொண்ட தொடர் குடியிருப்பு தொகுதியில் 06 வீடுகள் சேதமடைந்துள்ளன.
-
-◼️
-
-[Data](articles/8cc60242.json)
-
----
-
-### ரணிலின் வழக்கு: மக்களை  திரட்ட எதிர்க்கட்சிகள் திட்டம்
-
-*2025-08-25 14:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வழக்கு-மக்களை-திரட்ட-எதிர்க்கட்சிகள்-திட்டம்/175-363458) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட நீதிமன்ற விசாரணையுடன் இணைந்து,  பெருந்திரளான ஆதரவாளர்களை, கொழும்பில் நாளைக்கு (26)  ஒன்று திரட்டும் திட்டத்தை எதிர்க்கட்சி அரசியல் கட்சிகள் மற்றும் சிவில் சமூக குழுக்களின் இளைஞர் அணிகள் அறிவித்துள்ளன.
-
-விக்ரமசிங்கவின் வெளிநாட்டு சுற்றுப்பயணத்திற்காக பொது நிதியை தவறாகப் பயன்படுத்தியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பான வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்படுவதால், கோட்டை நீதவான் நீதிமன்றத்திற்கு வெளியே கூட்டம் கூடும் என்று எதிர்பார்க்கப்படுகிறது.
-
-பங்கேற்கும் குழுக்களில் இலங்கை பொதுஜன பெரமுன (SLPP) இளைஞர் முன்னணி, இலங்கை தொழிலாளர் காங்கிரஸ் (CWC), சமகி ஜன பலவேகய (SJB), லங்கா ஜனதா கட்சி, சர்வஜன பலய, ஐக்கிய தேசியக் கட்சி (UNP), இலங்கை பசுமைக் கட்சி, முற்போக்கு இளைஞர் இயக்கம் மற்றும் பல அமைப்புகள் அடங்கும்.
-
-இன்று (25)  நடைபெற்ற ஊடக சந்திப்பில் பேசிய SJB இன் 'ஹோரா' அமைப்பாளர் சரித் அபேசிங்க, கூட்டு எதிர்க்கட்சி கோட்டை நீதவான் நீதிமன்றத்தை நோக்கி பேரணி செல்வதற்கு முன்பு கொம்பனித் தெரிவில் இருந்து ஒன்றுகூட திட்டமிட்டுள்ளதாகக் கூறினார்.
-
-...
-
-[Data](articles/54eecee0.json)
-
----
-
-### ரணிலின் வழக்கு:கூட்டத்தை திரட்ட எதிர்க்கட்சிகள் திட்டம்
-
-*2025-08-25 14:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வழக்கு-கூட்டத்தை-திரட்ட-எதிர்க்கட்சிகள்-திட்டம்/175-363458) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட நீதிமன்ற விசாரணையுடன் இணைந்து,  பெருந்திரளான ஆதரவாளர்களை, கொழும்பில் நாளைக்கு (26)  ஒன்று திரட்டும் திட்டத்தை எதிர்க்கட்சி அரசியல் கட்சிகள் மற்றும் சிவில் சமூக குழுக்களின் இளைஞர் அணிகள் அறிவித்துள்ளன.
-
-விக்ரமசிங்கவின் வெளிநாட்டு சுற்றுப்பயணத்திற்காக பொது நிதியை தவறாகப் பயன்படுத்தியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பான வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்படுவதால், கோட்டை நீதவான் நீதிமன்றத்திற்கு வெளியே கூட்டம் கூடும் என்று எதிர்பார்க்கப்படுகிறது.
-
-பங்கேற்கும் குழுக்களில் இலங்கை பொதுஜன பெரமுன (SLPP) இளைஞர் முன்னணி, இலங்கை தொழிலாளர் காங்கிரஸ் (CWC), சமகி ஜன பலவேகய (SJB), லங்கா ஜனதா கட்சி, சர்வஜன பலய, ஐக்கிய தேசியக் கட்சி (UNP), இலங்கை பசுமைக் கட்சி, முற்போக்கு இளைஞர் இயக்கம் மற்றும் பல அமைப்புகள் அடங்கும்.
-
-இன்று (25)  நடைபெற்ற ஊடக சந்திப்பில் பேசிய SJB இன் 'ஹோரா' அமைப்பாளர் சரித் அபேசிங்க, கூட்டு எதிர்க்கட்சி கோட்டை நீதவான் நீதிமன்றத்தை நோக்கி பேரணி செல்வதற்கு முன்பு கொம்பனித் தெரிவில் இருந்து ஒன்றுகூட திட்டமிட்டுள்ளதாகக் கூறினார்.
-
-...
-
-[Data](articles/a10a9c66.json)
 
 ---

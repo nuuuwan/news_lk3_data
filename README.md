@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 12:27:19**
+As of **2025-08-26 12:39:09**
 
 ## Newspaper Stats
 
-*Scraped **72,416** Articles*
+*Scraped **72,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,957
 adaderanalk | 9,169
-tamilmirrorlk | 10,723
+tamilmirrorlk | 10,726
 virakesarilk | 11,917
-adaderanasinhalalk | 12,541
+adaderanasinhalalk | 12,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,416 articles have been extended.
+61,973 (85.6%) of 72,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ශෂීන්ද්‍ර රාජපක්ෂ 29 දක්වා යළි රිමාන්ඩ්
+
+*2025-08-26 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213807) · `si`
+
+අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා තවදුරටත් ලබන 29 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+◼️
+
+[Data](articles/2eccd606.json)
+
+---
+
+### சஷீந்திர ராஜபக்ஷவுக்கு கடும் சிக்கல்
+
+*2025-08-26 12:15:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-கடும்-சிக்கல்/175-363517) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷவை, வழக்கு விசாரணை செய்யப்பட்டு முடிவடையும் வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம முன்னிலையில் இன்று (26) ஆஜரான இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு கோரிக்கை விடுத்தது.
+
+கிரிப்பன்வெவவில் உள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் அலுவலகம் 2022 ஆம் ஆண்டு எரிக்கப்பட்டதால் ஏற்பட்ட சேதத்திற்கு ரூ. 8,850,000.00 இழப்பீடு வழங்குமாறு அரசாங்க அதிகாரிகளுக்கு அழுத்தம் கொடுத்து அரச சொத்துக்களை துஷ்பிரயோகம் செய்ததாகக் கூறப்படும் குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+சந்தேக நபருக்கு எதிரான விசாரணைகள் பொது சொத்துச் சட்டம் மற்றும் ஊழல் தடுப்புச் சட்டத்தின் பிரிவு 139 இன் கீழ் குற்றங்களாக இருப்பதால், அவருக்கு பிணை மறுக்கப்பட்டு, விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு மேலும் கோரியது.
+
+...
+
+[Data](articles/f30b8d42.json)
+
+---
+
+### கேமரா அடங்கிய வாகனமும் களத்தில்
+
+*2025-08-26 12:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேமரா-அடங்கிய-வாகனமும்-களத்தில்/175-363516) · `ta`
+
+இலங்கை பொலிஸ் திணைக்களத்தின் பாதுகாப்பு கேமரா அடங்கிய வாகனம், கொழும்பு கோட்டை நீதவான் நீதிமன்ற வளாகத்தில் நிறுத்தி வைக்கப்பட்டுள்ளது.  அத்துடன், அந்த வளாகத்தில் சுமார் 200 மீற்றர் சுற்றுவட்டாரத்தில், ஆயுதம் ஏந்திய பொலிஸார், பாதுகாப்பு படையினர் நிறுத்தி வைக்கப்பட்டுள்ளனர்.
+
+கொழும்பு கோட்டை நீதவான் நீதிமன்ற வளாகத்தில் மட்டுமன்றி, கொழும்பு தேசிய வைத்தியசாலை மற்றும் ஜனாதிபதி செயலகம் உள்ளிட்ட கேந்திர முக்கியத்துவம் வாய்ந்த இடங்களிலும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/088ae8f4.json)
+
+---
 
 ### வாழைச்சேனை - கருவாக்கேணியில் இளைஞன் சடலமாக மீட்பு
 
@@ -79,6 +121,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3c68c441.json)
+
+---
+
+### ரணில் கைது;  ஐ.தே.கவினர் மகாநாயக்க தேரருடன் சந்திப்பு
+
+*2025-08-26 11:46:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-ஐ-தே-கவினர்-மகாநாயக்க-தேரருடன்-சந்திப்பு/175-363512) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் (UNP) பிரதித் தலைவர் ருவான் விஜேவர்தன, கட்சியின் பொதுச் செயலாளர் தலதா அதுகோரல மற்றும் பல மூத்த கட்சி உறுப்பினர்கள்  அஸ்கிரிய மகா விஹாரையில் சியாம் மகா நிக்காயவின் அஸ்கிரிய பீடத்தின் மகாநாயக்கர் வரகாகொட ஸ்ரீ ஞானரத்ன தேரரை  இன்று (26) காலைசந்தித்தனர்.
+
+இந்தச் சந்திப்பின் போது, ​​முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தொடர்பான விஷயங்கள் மற்றும் நாட்டின் தற்போதைய அரசியல் மற்றும் பொருளாதார நிலைமை குறித்து ஐக்கிய தேசியக் கட்சி பிரதிநிதிகள் மகாநாயக்க தேரர் மற்றும் மகா சங்கத்தினருக்கு விளக்கினர்.
+
+தற்போது கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வரும்  விக்ரமசிங்கவுக்கு மகா சங்கத்தினர் தமது ஆசிர்வாதங்களை வழங்கினர்.
+
+◼️
+
+[Data](articles/135b8fef.json)
 
 ---
 
@@ -1695,65 +1753,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/9bc9e81d.json)
-
----
-
-### Sri Lanka lawyers condemn YouTuber interference in legal proceedings
-
-*2025-08-25 23:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-lawyers-condemn-youtuber-interference-in-legal-proceedings-238282/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s judicial independence must be safeguarded and protected from any form of outside threat or interference sought to be effected via social media posts, statements, commentaries or purported case outcome predictions by YouTubers, a lawyers’ group has said.
-
-The Bar Association of Sri Lanka said that “Such acts undermine the rule of law, threatens the due process of law and can have potential to impact the public confidence in the administration of justice.”
-
-Perpetrators of such acts can be dealt with in terms of the law, BASL said, pointing to Article 111(C)(1) and (2) of the Constitution which contain penal provisions regarding interference with the judiciary.
-
-Sri Lanka’s former president Ranil Wickremesinghe was arrested and remanded last Friday following police questioning over alleged misappropriation of funds during a foreign visit while he was the president.
-
-...
-
-[Data](articles/57f3f795.json)
-
----
-
-### Seylan Bank becomes the first Sri Lankan bank to achieve ISO 22301 certification for Business Continuity with an extended scope
-
-*2025-08-25 23:49:00* · [`islandlk`](http://island.lk/seylan-bank-becomes-the-first-sri-lankan-bank-to-achieve-iso-22301-certification-for-business-continuity-with-an-extended-scope/) · `en`
-
-Seylan Bank PLC proudly announces a landmark achievement in its commitment to operational excellence and customer trust. The Bank has secured the internationally recognized ISO 22301:2019 for Business Continuity Management Systems (BCMS), distinguishing Seylan Bank as the first bank in Sri Lanka to achieve this prestigious recognition. The certification covers International Banking, Treasury Function, Digital Banking, Central Clearing, IT, Card Center Operations, Finance, HR, Marketing, and the Bank’s Information Security Unit. This pioneering accomplishment is complemented by the concurrent attainment of the ISO/IEC 27001:2022 certification for Information Security Management Systems (ISMS), further solidifying the Bank’s robust infrastructure.
-
-...
-
-[Data](articles/853db5b4.json)
-
----
-
-### From Saver to Investor: A Sri Lankan perspective
-
-*2025-08-25 23:46:00* · [`islandlk`](http://island.lk/from-saver-to-investor-a-sri-lankan-perspective/) · `en`
-
-Christine Dias Bandaranaike, CFA Charterholder since 1999, brings over 15 years of experience in both locally and internationally. As the current President of UTASL, she has been at the forefront of a remarkable transformation in Sri Lanka’s unit trust industry.
-
-In the early 1990, my mother, then a young widow, took a bold step. She sent me, her only child, to university overseas. When questioned about how she funded my undergraduate education, she revealed that she had done so without taking bank loans.
-
-...
-
-[Data](articles/68ef899c.json)
-
----
-
-### Prime Group makes history with Sri Lanka’s first luxury real estate client experience initiative ‘Prime Premier’
-
-*2025-08-25 23:25:32* · [`dailyftlk`](https://www.ft.lk/business/Prime-Group-makes-history-with-Sri-Lanka-s-first-luxury-real-estate-client-experience-initiative-Prime-Premier/34-780745) · `en`
-
-First-of-its-kind premium initiative revolutionises real estate industry in Sri Lanka
-
-Celebrating three decades of industry leadership, Prime Group, Sri Lanka’s most distinguished and pioneering real estate developer, unveiled ‘Prime Premier’, an exclusive client experience initiative designed to transform how discerning clientele engage with real estate.
-
-Located at No. 226, Lake Drive, Colombo 8, the sophisticated facility was ceremonially inaugurated by Prime Group Chairman, Chairperson and CEO in the presence of distinguished officials and invitees. The visionary initiative is part of Prime Group’s anniversary celebrations to showcase the company’s proven commitment to excellence, trust, and client satisfaction.
-
-...
-
-[Data](articles/91af0d57.json)
 
 ---

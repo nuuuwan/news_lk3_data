@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 14:09:12**
+As of **2025-08-26 14:24:30**
 
 ## Newspaper Stats
 
-*Scraped **72,439** Articles*
+*Scraped **72,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ economynextcom | 4,428
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,960
+adalk | 6,962
 adaderanalk | 9,170
-tamilmirrorlk | 10,730
+tamilmirrorlk | 10,733
 virakesarilk | 11,918
-adaderanasinhalalk | 12,544
+adaderanasinhalalk | 12,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,439 articles have been extended.
+61,973 (85.5%) of 72,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### රනිල් අද අධිකරණයට එන්නේ නෑ
+
+*2025-08-26 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213811) · `si`
+
+හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා අද (26) දින අධිකරණයට ඉදිරිපත් නොකරන බව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/ecd2a24e.json)
+
+---
+
+### ரணிலின்றி வழக்கு ஆரம்பம்: 300 சட்டத்தரணிகள் களத்தில்
+
+*2025-08-26 14:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்றி-வழக்கு-ஆரம்பம்-300-சட்டத்தரணிகள்-களத்தில்/175-363526) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மீதான நீதிமன்ற விசாரணை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் சற்று முன்னர் தொடங்கியது. ரணில் விக்கிரமசிங்க இன்றியே வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டுள்ளது.
+
+சட்டத்தரணிகளான திலக் மாரப்பன, அனுஜா பிரேமரத்ன, உப்புல் ஜெயசூரியா, அலி சப்ரி மற்றும் வழக்கறிஞர்கள்  ரணில் விக்ரமசிங்கவுக்காக ஆஜராகின்றனர். மேற்படி சட்டத்தரணிகளுடன், சுமார் 300க்கும் மேற்பட்ட சட்டத்தரணிகளும் நீதிமன்றத்தில் பிரசன்னமாய் உள்ளனர்.
+
+◼️
+
+[Data](articles/8a011f82.json)
+
+---
+
+### முதலாவது பெண் பதிவாளர் நாயகம் நியமிப்பு
+
+*2025-08-26 13:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/முதலாவது-பெண்-பதிவாளர்-நாயகம்-நியமிப்பு/75-363525) · `ta`
+
+இலங்கை வரலாற்றில் முதலாவது பெண் பதிவாளர் நாயகமாக திருகோணமலையைச் சேர்ந்த இலங்கை நிர்வாக சேவையின் அதி விசேட தரமுடைய சசிதேவி ஜலதீபன் நியமிக்கப்பட்டு திங்கட்கிழமை (25) அன்று தனது கடமைகளை பொறுப்பேற்றுள்ளார்.
+
+...
+
+[Data](articles/c9bfce27.json)
+
+---
+
+### கொழும்பை சுற்றியுள்ள பகுதிகளில் கடும் வாகன நெரிசல்
+
+*2025-08-26 13:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பை-சுற்றியுள்ள-பகுதிகளில்-கடும்-வாகன-நெரிசல்/175-363524) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிரான வழக்கு கொழும்பு கோட்டை நீதவான் நீதிமன்றில் நடைபெறவுள்ள நிலையில், பல்வேறு தரப்பினர் நீதிமன்றத்துக்கு அருகில் கூடியுள்ளனர்.
+
+◼️
+
+[Data](articles/35339e55.json)
+
+---
+
+### හිටපු ජනපති රනිල්ට අදාළ නීති කෘත්‍ය ඇරඹෙයි
+
+*2025-08-26 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213810) · `si`
+
+රාජ්‍ය මුදල් අවභාවිතකිරීමේ චෝදනාවකට රක්ෂිත බන්ධනාගාර ගත කර, කොළඹ ජාතික රෝහලේ ප්‍රතිකර ලබමින් සිටින හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳ නීති කෘත්‍යය කොටුව මහේස්ත්‍රාත් අධිකරණයේදී මීට සුළු වේලාවකට පෙර යළි විභාගයට ගැනුණි.
+
+මේ වනවිට කොටුව මහෙස්ත්‍රාත් අධිකරණ පරිශ්‍රය අවට පොලිස්, පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් සහ කැරලි මර්දන ඒකකයේ නිලධාරීන් දැඩි ආරක්ෂාවක් යොදවා ඇති ආකාරය දක්නට ලැබේ.
+
+නිල සංචාරයක යෙදෙන බව පවසමින් පෞද්ගලික සංචාරයක නිරත වීමෙන් රාජ්‍ය මුදල් අවභාවිත කිරීමේ චෝදනාව මත අගෝස්තු 22 වැනිදා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගැනුණි.
+
+පසුව කොටුව මහෙස්ත්‍රාත් අධිකරණය මඟින් ඔහු අද දිනය දක්වා රක්ෂිත බන්ධානාගාර ගත කෙරුණි.
+
+එහිදී ඇති වූ හදිසි රෝගී තත්ත්වය හේතුවෙන් හිටපු ජනාධිපතිවරයා මේ වන විට කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටී.
+
+...
+
+[Data](articles/7c355b01.json)
+
+---
 
 ### Making public policy work for women: Lessons from Sri Lanka’s Covid-19 response
 
@@ -86,7 +156,11 @@ One night during the pandemic, Nishanthi, a garment factory worker living in a b
 
 මේ අතර, පොලිස් ජල ප්‍රහාරක රථ, කැරලි මර්දන ඒකකයේ භට පිරිස්, පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් සීරුවෙන් තබා ඇති අයුරුද දක්නට ලැබේ.
 
-◼️
+රක්ෂිත බන්ධනාගාර ගත කිරීමෙන් අනතුරුව මේ වන විට කො‍ළඹ ජාතික රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නීති කෘත්‍ය තව සුළු වේලාවකින් ආරම්භ වීමට නියමිතය.
+
+රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් පසුගිය 22 වෙනිදා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගනු ලැබීය.
+
+...
 
 [Data](articles/ef7d5653.json)
 
@@ -459,6 +533,26 @@ The bipartisan House Democracy Partnership works to strengthen accountable & tra
 ◼️
 
 [Data](articles/81f49686.json)
+
+---
+
+### සිසුන් 42172ක් සරසවිවලට ඇතුළත් කර ගනිති
+
+*2025-08-26 11:15:33* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-42172ක්-සරසවිවලට-ඇතුළත්-කර-ගනිති/11-418073) · `si`
+
+2024 වර්ෂයේ පවත්වන ලද අ.පො.ස. (උසස් පෙළ) විභාගයේ ප්‍රතිඵල මත විශ්වවිද්‍යාල ප්‍රවේශය සදහා කඩඉම් ලකුණු විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව එක් එක් දිස්ත්‍රික්කයෙන් විවිධ විශ්වවිද්‍යාලයන්හි එක් එක් අධ්‍යයන පාඨමාලාවට ඇතුළත් වීමට අවශ්‍ය අවම "Z" අගයන් අදාළ නිවේදනයේ සඳහන් වේ.
+
+මෙවර විශ්වවිද්‍යාල ප්‍රවේශය සඳහා සිසුන් 90670ක් අයදුම්කර ඇති අතර 42172ක් විශ්වවිද්‍යාවලට ඇතුළත්වීම සඳහා තෝරාගෙන තිබේ.
+
+සිසුන්ට ඔවුන් තේරී ඇති පාඨමාලාව සහ විශ්වවිද්‍යාලය පහත සඳහන් ක්‍රම ඔස්සේ දැන ගත හැකිය.
+
+3. විශ්වවිද්‍යාල ප්‍රවේශය සඳහා අයදුම්කළ සියලුම සිසුන්ට SMS පණිවිඩයක් හරහා විශ්වවිද්‍යාලයට තේරී පත් වී ඇති බව හෝ නැති බව දැන්වීම සිදු කරනු ඇත.
+
+◼️
+
+[Data](articles/a5a365e4.json)
 
 ---
 
@@ -1689,101 +1783,5 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/3120bb65.json)
-
----
-
-### 29 ஆம் திகதி கையெழுத்துப் போராட்டம்
-
-*2025-08-26 04:08:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-ஆம்-திகதி-கையெழுத்துப்-போராட்டம்/175-363488) · `ta`
-
-செம்மணி மனிதப் புதைகுழிக்குச் சர்வதேச விசாரணை கோரி வடக்கு, கிழக்கு மாகாணங்களில் எதிர்வரும் 29 ஆம் திகதி கையெழுத்துப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
-
-யாழ்ப்பாணத்தில் உள்ள தனியார் விடுதியில் தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் நேற்று (25) நடத்திய கூட்டு ஊடகவியலாளர் சந்திப்பில் இந்த விடயம் தெரிவிக்கப்பட்டது.
-
-ஜனநாயகத் தமிழ்த் தேசியக் கூட்டணியின் சார்பில் ஈ.பி.ஆர்.எல்.எவ். தலைவர் சுரேஷ் பிரேமச்சந்திரன், புளொட் தலைவர் த.சித்தார்த்தன், ரெலோ தலைவர் செல்வம் அடைக்கலநாதன் எம்.பி., சமத்துவக் கட்சியின் தலைவர் முருகேசு சந்திரகுமார், ஜனநாயகப் போராளிகள் கட்சியின் தலைவர் சி.வேந்தன் ஆகியோருடன், இலங்கைத் தமிழரசுக் கட்சியின் பொதுச்செயலாளர் எம்.ஏ சுமந்திரன் மற்றும் தமிழ்த் தேசிய மக்கள் முன்னணியின் பொதுச்செயலாளர் செல்வராசா கஜேந்திரன் ஆகியோர் இந்த ஊடக சந்திப்பில் பங்கேற்றனர். (a)
-
-◼️
-
-[Data](articles/a61c10c1.json)
-
----
-
-### Prime Minister says Govt. remains committed to human rights, fostering harmony
-
-*2025-08-26 03:52:23* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-says-Govt-remains-committed-to-human-rights-fostering-harmony/56-780786) · `en`
-
-Prime Minister Dr. Harini Amarasuriya told Parliament last week that the Government remains committed to upholding human rights and deliberately avoids narratives that foster division, hatred, or violence.
-
-“As the new Government in Sri Lanka, we are committed to ensuring the protection of all people,” the Prime Minister said on Friday, responding to a question raised by MP S. Shritharan. “We are always willing to listen, correct ourselves, and be responsive for public sentiment.”
-
-Dr. Amarasuriya underscored that all citizens were entitled to equal dignity and respect, without exception. She said the Government aimed to promote unity, empathy, and accountability as part of its broader commitment to human rights.
-
-...
-
-[Data](articles/01d595d9.json)
-
----
-
-### “Premakeerthi Ghathanaye Sulamula” book launch tomorrow
-
-*2025-08-26 03:51:26* · [`dailyftlk`](https://www.ft.lk/news/Premakeerthi-Ghathanaye-Sulamula-book-launch-tomorrow/56-780785) · `en`
-
-Senior journalist Dharman Wickramaratne’s latest book “Premakeerthi Ghathanaye Sulamula”, written about the JVP’s second insurrection, will be launched tomorrow at 3 p.m. at the National Library and Documentation Services Board Auditorium, Colombo 7.
-
-This book is based on the assassination of veteran radio broadcaster Premakeerthi de Alwis on 31 July, 1989 – 36 years ago, and the series of true events connected to it, compiled through in-depth research. This 256-page book contains 168 photographs.
-
-During this said period, around 60,000 people were killed, including 17 artists with Premakeerthi amongst them. This latest release is the fourth book of Dharman Wickramaratne’s series on the JVP’s second insurrection, and it is also his 55th publication.
-
-...
-
-[Data](articles/f1002478.json)
-
----
-
-### President’s Fund to expand assistance for differently-abled persons
-
-*2025-08-26 03:50:40* · [`dailyftlk`](https://www.ft.lk/news/President-s-Fund-to-expand-assistance-for-differently-abled-persons/56-780784) · `en`
-
-The President’s Fund will expand assistance programs for differently-abled persons, the Presidential Secretariat said last Friday.
-
-A discussion was held last week at the Presidential Secretariat between Secretary to the President Dr. Nandika Sanath Kumanayake and National Secretariat for Persons with Disabilities officials to establish a more structured mechanism for providing assistance to the disabled community.
-
-The meeting focused on expanding and systematising the services provided through the President’s Fund for persons with disabilities, as well as the execution of programs in partnership with the National Secretariat for Persons with Disabilities. Key areas of attention included increasing support allowances, providing essential equipment to empower differently-abled persons, supporting the continuous education of their children, and offering special educational assistance to differently-abled children.
-
-...
-
-[Data](articles/6cad50a8.json)
-
----
-
-### New IGP calls on Defence Secretary
-
-*2025-08-26 03:50:06* · [`dailyftlk`](https://www.ft.lk/news/New-IGP-calls-on-Defence-Secretary/56-780783) · `en`
-
-Newly appointed Inspector General of Police (IGP) Priyantha Weerasooriya yesterday paid a courtesy call on Defence Secretary Air Vice Marshal (Retd.) Sampath Thuyacontha at the Defence Ministry.
-
-Weerasooriya, who assumed duties as the 37th IGP of Sri Lanka, was warmly received by the Defence Secretary. During the cordial meeting, both officials discussed matters of mutual interest, focusing on national security and inter-agency coordination in maintaining law and order.
-
-The Defence Secretary congratulated the new IGP on his appointment and expressed his confidence in strengthening the collaborative efforts between the Defence Ministry and the Sri Lanka Police.
-
-This meeting underscored the importance of continued cooperation between security institutions to address emerging challenges and uphold public safety across the country.
-
-◼️
-
-[Data](articles/da1e23e1.json)
-
----
-
-### செம்மணி அகழ்வுப் பணி மீள ஆரம்பமானது
-
-*2025-08-26 03:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-அகழ்வுப்-பணி-மீள-ஆரம்பமானது/175-363487) · `ta`
-
-யாழ். செம்மணி மனிதப் புதைகுழியில் இடைநிறுத்தப்பட்ட இரண்டாம் கட்ட அகழ்வுப் பணி நேற்று மீண்டும் ஆரம்பமானது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் அகழ்வுப் பணிகள் கடந்த ஓகஸ்ட் 6ஆம் திகதி முதல் இடைநிறுத்தப்பட்டன.
-
-◼️
-
-[Data](articles/946a5322.json)
 
 ---

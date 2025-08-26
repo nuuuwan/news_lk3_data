@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 02:32:36**
+As of **2025-08-27 02:48:55**
 
 ## Newspaper Stats
 
-*Scraped **72,532** Articles*
+*Scraped **72,533** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
-colombotelegraphcom | 743
+colombotelegraphcom | 744
 economynextcom | 4,431
 islandlk | 4,454
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,532 articles have been extended.
+61,973 (85.4%) of 72,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -115,6 +115,20 @@ The President emphasized that individuals involved in crimes, corruption, abuse 
 ◼️
 
 [Data](articles/9dc45236.json)
+
+---
+
+### My Memory Lane With Ranil Wickremesinghe
+
+*2025-08-26 20:58:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-memory-lane-with-ranil-wickremesinghe/) · `en`
+
+“If a leader thinks that even a crow cannot fly over his head, such a leader is destined to leave no legacy”
+
+I entered the University of Colombo in 1968 and was part of the Arts Faculty. As I recall, RW entered the same university in 1969 and joined the Law Faculty. The Law faculty was located in a small classroom right between the Arts Theater Lecture Hall and the famous Domba Three. It was a small faculty with about 100 students. Back then, the relationship between the Law Faculty and the rest of the University was minimal.  One reason was that Law Faculty students studied in English. As I remember, all students were neatly dressed, so that they distinguished from the rest.  Once lectures were over, most students in the Law Faculty hurried to leave the campus, sometimes in their cars.
+
+...
+
+[Data](articles/294632e9.json)
 
 ---
 
@@ -1731,21 +1745,5 @@ He was arrested over alleged mis-use of public property during a stop-over in Lo
 ◼️
 
 [Data](articles/2dfdcd9c.json)
-
----
-
-### ශෂීන්ද්‍ර යළි රිමාන්ඩ්
-
-*2025-08-26 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213807) · `si`
-
-දූෂණ චෝදනාවක් සම්බන්ධයෙන් රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා  ලබන 29 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
-
-අල්ලස් කොමිසමේ නිලධාරීන් සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක බෝදරගම මහතා මෙම නියෝගය නිකුත් කර ඇත.
-
-අරගලකරුවන් විසින්  මහවැලි ඉඩමක ඉදිකර තිබූ සිය දේශපාලන කාර්යාලය ගිනි තබා විනාශ කිරීම හේතුවෙන් නීතියට පටහැනි ලෙස රුපියල්  8,850,000/-ක මුදලක් වන්දි වශයෙන් ලබා ගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ "දූෂණය" නමැති වරද සිදුකළ බවට චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගෙන රක්ෂිද බන්ධනාගාර ගතකර තිබුණි.
-
-◼️
-
-[Data](articles/2eccd606.json)
 
 ---

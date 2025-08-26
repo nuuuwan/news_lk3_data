@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 01:17:49**
+As of **2025-08-27 02:01:25**
 
 ## Newspaper Stats
 
-*Scraped **72,526** Articles*
+*Scraped **72,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 742
-economynextcom | 4,428
+economynextcom | 4,431
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,974
-adaderanalk | 9,188
+adaderanalk | 9,190
 tamilmirrorlk | 10,751
 virakesarilk | 11,927
 adaderanasinhalalk | 12,567
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,526 articles have been extended.
+61,973 (85.4%) of 72,531 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b2bc1d47.json)
+
+---
+
+### Aswesuma: August allowance for elders to be credited to bank accounts tomorrow
+
+*2025-08-26 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111881/aswesuma-august-allowance-for-elders-to-be-credited-to-bank-accounts-tomorrow) · `en`
+
+The monthly allowance designated for elderly individuals aged over 70, enrolled in the ‘Aswesuma’ welfare benefit program, will be credited to their respective bank accounts tomorrow (27), the Welfare Benefits Board has announced.
+
+According to the Board, a total sum of Rs. 2,993,791,000 will be distributed among 599,730 beneficiaries.
+
+◼️
+
+[Data](articles/a139cecb.json)
 
 ---
 
@@ -81,6 +95,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4672df7d.json)
+
+---
+
+### Not revenge or political witch-hunt, everyone is equal before the law – President
+
+*2025-08-26 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111880/not-revenge-or-political-witch-hunt-everyone-is-equal-before-the-law-president) · `en`
+
+President Anura Kumara Dissanayake stated that his government is committed to establishing a culture where everyone is treated equally before the law.
+
+He made these remarks while attending the National Bhikkhu Day commemoration held in Colombo today (26).
+
+The President emphasized that individuals involved in crimes, corruption, abuse of power, or the misappropriation of public funds will be held accountable, regardless of their social or political standing.
+
+“Everyone should be equal before the law. We are committed to creating such a culture. Wealth, power, position, history, or the status of once being a monarch—none of these matter. Everyone is equal before the law,” the President said.
+
+“If anyone in our country has engaged in crime, corruption, abuse of power, or the misuse of public funds, every effort will be made to bring them to justice. This is not about revenge or political witch-hunts. What our society needs is the restoration of law, justice, fairness, and public trust.”
+
+◼️
+
+[Data](articles/9dc45236.json)
 
 ---
 
@@ -165,8 +199,6 @@ In a post on its official ‘X’ (formerly Twitter) account, the British High C
 “Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.”
 
 It further emphasized that the public should refer only to its official ‘X’ account or the High Commissioner’s official handle for accurate updates on the activities of the High Commission and High Commissioner.
-
-Please refer to this account or the High Commissioner’s official handle @AndrewPtkFCDO for accurate updates on the activities of the High Commission and High Commissioner. Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.— UK in Sri Lanka 🇬🇧🇱🇰 (@UKinSriLanka) August 26, 2025
 
 ◼️
 
@@ -654,6 +686,26 @@ He further noted that they stood by former President Ranil Wickremesinghe becaus
 
 ---
 
+### Sri Lanka former President Wickremesinghe granted bail by court
+
+*2025-08-26 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-president-wickremesinghe-granted-bail-by-court-238350/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former President Ranil Wickremesinghe has been granted bail on medical grounds by the Colombo Fort Magistrate.
+
+The Attorney General’s department had objected to bail, lawyers told crowds gathered outside the courthouse during the hearing.
+
+Wickremesinghe, who is in hospital, was not present in court on doctors’ recommendations.
+
+He was remanded until Tuesday, August 26 by the Colombo Fort Magistrate’s Court on Friday, after being arrested by the police criminal investigation department when he came in to give a statement.
+
+He was arrested over an alleged mis-use of state-funds for a stop-over in London to visit a university where his wife was made an honorary professor, when he was returning from the US after addressing a UN General Assembly meeting. (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/9ef225a4.json)
+
+---
+
 ### රනිල්ට ඇප
 
 *2025-08-26 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213819) · `si`
@@ -693,6 +745,30 @@ According to the submissions made by President’s Counsel Anuja Premaratna, thr
 ...
 
 [Data](articles/9c7e6184.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields steady
+
+*2025-08-26 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-238371/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.25/33 to the US dollar in the spot market Tuesday, stable from 302.25/35 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.55/64 percent, from 8.55/60 percent.
+
+A bond maturing on 15.12.2028 closed flat at 8.95/9.00 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.43/46 percent.
+
+A bond maturing on 15.12.2032 closed at 10.26/33 percent, from 10.25/32 percent.
+
+A bond maturing on 15.09.2034 closed at 10.75/85 percent. (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/792fd59e.json)
 
 ---
 
@@ -1011,6 +1087,22 @@ Earlier today, Prisons media spokesperson Jagath Weerasinghe said the former Pre
 ◼️
 
 [Data](articles/bccadc8d.json)
+
+---
+
+### Sri Lanka stocks close up 0.32-pct
+
+*2025-08-26 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-32-pct-238363/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stock market closed up on Tuesday after some volatility, data on its site showed.
+
+The Colombo Stock Exchange’s All Share Price Index closed up 0.32 percent, or 64.88 points, at 20,640, while the S&P SL20 closed up 0.39 percent, or 23.50 points, at 6,066, provisional data showed.
+
+Top contributors to the ASPI were DFCC Bank, Sampath Bank, Dialog Axiata, Commercial Bank and Hatton National Bank.  (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/7f97fda7.json)
 
 ---
 
@@ -1655,87 +1747,5 @@ He was arrested over alleged mis-use of public property during a stop-over in Lo
 ...
 
 [Data](articles/f30b8d42.json)
-
----
-
-### கேமரா அடங்கிய வாகனமும் களத்தில்
-
-*2025-08-26 12:08:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேமரா-அடங்கிய-வாகனமும்-களத்தில்/175-363516) · `ta`
-
-இலங்கை பொலிஸ் திணைக்களத்தின் பாதுகாப்பு கேமரா அடங்கிய வாகனம், கொழும்பு கோட்டை நீதவான் நீதிமன்ற வளாகத்தில் நிறுத்தி வைக்கப்பட்டுள்ளது.  அத்துடன், அந்த வளாகத்தில் சுமார் 200 மீற்றர் சுற்றுவட்டாரத்தில், ஆயுதம் ஏந்திய பொலிஸார், பாதுகாப்பு படையினர் நிறுத்தி வைக்கப்பட்டுள்ளனர்.
-
-கொழும்பு கோட்டை நீதவான் நீதிமன்ற வளாகத்தில் மட்டுமன்றி, கொழும்பு தேசிய வைத்தியசாலை மற்றும் ஜனாதிபதி செயலகம் உள்ளிட்ட கேந்திர முக்கியத்துவம் வாய்ந்த இடங்களிலும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/088ae8f4.json)
-
----
-
-### வாழைச்சேனை - கருவாக்கேணியில் இளைஞன் சடலமாக மீட்பு
-
-*2025-08-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223394) · `ta`
-
-வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட மட்டக்களப்பு - கருவாக்கேணி பிரதான வீதியில் அமைந்துள்ள வாகன சுத்திகரிப்பு நிலையத்துக்கு முன்னாலுள்ள மரம் ஒன்றில் தொங்கிய நிலையில் இளைஞன் ஒருவன் சடலமாக மீட்கப்பட்டுள்ளார்.
-
-இளைஞனின் மரணத்துக்கான காரணத்தை கண்டறிய வாழைச்சேனை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/b3138a4b.json)
-
----
-
-### Ambani son’s wildlife park to face court probe into allegations of animal mistreatment
-
-*2025-08-26 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111862/ambani-sons-wildlife-park-to-face-court-probe-into-allegations-of-animal-mistreatment) · `en`
-
-India’s Supreme Court has ordered an investigation into a wildlife rescue park run by Reliance Foundation, the philanthropic arm of billionaire Mukesh Ambani’s group, although it said allegations of unlawful animal acquisitions and mistreatment were not supported by evidence.
-
-Vanatara is a marquee project of the Ambani family located in western Gujarat state and led by the billionaire’s son, Anant Ambani.
-
-Its website says it has rescued and treated thousands of animals, and built the largest elephant hospital.
-
-It was also one of the venues of pre-wedding celebrations of Anant last year, that saw global celebrities in attendance who were advised to don “jungle fever” outfits when visiting the animal rescue centre.
-
-...
-
-[Data](articles/8dd64c50.json)
-
----
-
-### ”பொலிஸ்,ராணுவ நடவடிக்கைகள் இன்று முதல் தீவிரப்படுத்தப்படும்”
-
-*2025-08-26 11:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-ராணுவ-நடவடிக்கைகள்-இன்று-முதல்-தீவிரப்படுத்தப்படும்/175-363513) · `ta`
-
-இலங்கையில் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களைத் தடுப்பதற்கான தொடர்ச்சியான நடவடிக்கைகள் இன்று (26) முதல் தீவிரப்படுத்தப்படும் என்று பொதுப் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
-
-பொலிஸ் மற்றும் ராணுவத்தால் நடத்தப்படும் நடவடிக்கைகள் மேலும் வலுப்படுத்தப்படும் என்றும், மேலும் தொடரும் என்றும் அவர் கூறினார்.
-
-இரண்டு மாகாணங்களிலும் சமீபத்தில் குற்றச் செயல்கள் அதிகரித்து வருவதால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அமைச்சர் விஜேபால தெரிவித்தார்.
-
-◼️
-
-[Data](articles/5ddf77c9.json)
-
----
-
-### ලංකාවට එරෙහි තරගාවලියට වසර 4කට පසු බ්‍රෙන්ඩන් ටේලර් නැවතත් සිම්බාබ්වේ කණ්ඩායමට
-
-*2025-08-26 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213806) · `si`
-
-ශ්‍රී ලංකාවට එරෙහි එක්දින තරගාවලිය සඳහා සිම්බාබ්වේ කණ්ඩායම වෙනුවෙන් බ්‍රෙන්ඩන් ටේලර් යළි කැඳවා තිබේ.
-
-ශ්‍රී ලංකාවට එරෙහිව පැවැත්වෙන එක්දින ජාත්‍යන්තර තරග දෙකකින් සමන්විත තරගාවලිය සඳහා ක්‍රීඩකයන් 16 දෙනෙකුගෙන් යුත් සංචිතයක් සිම්බාබ්වේ ක්‍රිකට් ආයතනය විසින් නම්කර ඇති බව සඳහන් වේ.
-
-හිටපු කඩුලු රකින පිතිකරු බ්‍රෙන්ඩන් ටේලර් වසර හතරකට ආසන්න කාලයකට පසු ජාතික කණ්ඩායමට යළි කැඳවීම මෙහි විශේෂත්වයකි.
-
-මෙම තරගාවලිය අගෝස්තු 29 සහ 31 යන දිනවල හරාරේ ක්‍රීඩා සමාජයේදී පැවැත්වීමට නියමිත අතර එය 2021 වසරේ සැප්තැම්බර් මාසයෙන් පසු ටේලර්ගේ පළමු එක්දින ජාත්‍යන්තර තරගය බව සඳහන් වේ.
-
-ක්‍රෙග් අර්වින්ගේ නායකත්වයෙන් යුත් මෙම සංචිතය පළපුරුදු ක්‍රීඩකයින් සහ නැගී එන දක්ෂතා ඇති ක්‍රීඩකයින්ගෙන් සමන්විතය.
-
-◼️
-
-[Data](articles/3c68c441.json)
 
 ---

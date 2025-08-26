@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 10:33:37**
+As of **2025-08-26 10:50:02**
 
 ## Newspaper Stats
 
-*Scraped **72,385** Articles*
+*Scraped **72,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 4,420
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,953
+adalk | 6,955
 adaderanalk | 9,162
 tamilmirrorlk | 10,718
-virakesarilk | 11,910
-adaderanasinhalalk | 12,536
+virakesarilk | 11,912
+adaderanasinhalalk | 12,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,385 articles have been extended.
+61,973 (85.6%) of 72,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ජාතික රෝහලටත් විශේෂ ආරක්ෂාවක්
+
+*2025-08-26 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213803) · `si`
+
+කොළඹ ජාතික රෝහලට සහ ඒ අවට ප්‍රදේශයේ ආරක්ෂාව අද (26) උදෑසන සිට තරකර ඇති අයුරු 'අද දෙරණ' කැමරාවේ මෙලෙස සටහන් වුණි.
+
+රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
+
+එහෙත් ඒ මහතාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගනිමින් එදින ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු අතර වෛද්‍ය නිර්දේශ මත ඊට පසුදින ඔහු කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කෙරුණි.
+
+ඒ අනුව මේ වන විටත් හිටපු ජනාධිපතිවරයා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටී.
+
+◼️
+
+[Data](articles/3b065a07.json)
+
+---
+
+### හිටපු ජනපති රනිල් අද අධිකරණයට ඉදිරිපත් කිරීම අවිනිශ්චිතයි
+
+*2025-08-26 10:24:41* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-අද-අධිකරණයට-ඉදිරිපත්-කිරීම-අවිනිශ්චිතයි/11-418070) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව තවදුරටත් දැඩි සත්කාර ඒකකයේ (ICU) තබා ඇති බැවින් අද(26දා) අධිකරණයට ඉදිරිපත් කළ නොහැකි තත්ත්වයක් තිබෙන බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ජගත් වීරසිංහ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/763ebe9d.json)
+
+---
+
+### රනිල් වෙනුවෙන් එජාපයේ ප්‍රධානීන් අස්ගිරි මහානාහිමි බැහැදකී
+
+*2025-08-26 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213802) · `si`
+
+එකසත් ජාතික පක්ෂයේ ප්‍රධානීන් ඇතුළු පක්ෂයේ ජ්‍යෙෂ්ඨයින් පිරිසක් අද (26) පෙරවරුවේ අස්ගිරි මහා විහාරයේ දී අස්ගිරි පාර්ශවයේ මහා නායක වරකාගොඩ ශ්‍රී ඥානරතන නාහිමි  බැහැදැක ආශිර්වාද ලබා ගත්තේය.
+
+එහිදී පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජයවර්ධන මහතා, පක්ෂ මහා ලේකම් තලතා අතුකෝරල මහත්මිය විසින්, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සම්බන්ධයෙන් මේ වන විට ඇතිවී තිබෙන වත්මන් තත්ත්වය සහ රට තුළ පවතින දේශපාලන හා ආර්ථික තත්ත්වය පිළිබඳව මහා නායක හිමි ඇතුළු මහා සංඝරත්නය සමඟ සාකච්ඡා කර තිබේ.
+
+එමෙන්ම හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ පවතින සෞඛ්‍ය තත්ත්වය වෙනුවෙන් ද උන්වහන්සේගේ ආශීර්වාද ලබාගෙන ඇත.
+
+◼️
+
+[Data](articles/0ffa940d.json)
+
+---
 
 ### பொரலஸ்கமுவ துப்பாக்கி சூடு ; சந்தேக நபர் கைது
 
@@ -67,6 +113,60 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/edfd5c00.json)
+
+---
+
+### மடுல்சீமை பகுதியில் கத்தியால் வெட்டி ஒருவர் கொலை
+
+*2025-08-26 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/223374) · `ta`
+
+மடுல்சீமை போகஹகும்புர எக்கிரிய பகுதியில் இன்று செவ்வாய்க்கிழமை (26) அதிகாலை ஒருவர் கத்தியால் வெட்டிக் கொல்லப்பட்டுள்ளதாக மடுல்சீமை பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தில் உயிரிழந்த நபர் 39 வயதுடைய பஹல கம்மலே கெடெரா, எகிரிய மடுல்சீமை பகுதியை சேர்ந்தவர் என பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த நபருக்கும் அதே கிராமத்தில் உள்ள மற்றைய நபர் ஒருவருக்கும் மாணிக்கக் கல் அகழ்வின் போது  ஏற்பட்ட நீண்ட காலம் நிலவிய கருத்து வேறுபாடு தற்போது கொலையில் முடிந்துள்ளதாக பொலிஸாரின் ஆரம்ப கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+சந்தேகநபர் இன்றையதினம் அதிகாலை உயிரிழந்த நபரை வீட்டிலிருந்து வெளியே உள்ள வயலுக்கு அழைத்துச் சென்று கத்தியால் குத்திக் கொலை செய்துள்ளதாக தெரியவந்துள்ளது.
+
+சம்பவம் தொடர்பாக பசறை நீதவான் நீதிமன்றத்தில் அறிக்கை சமர்ப்பிக்கப்பட உள்ளதாகவும் சடலம் தற்போது சம்பவ இடத்திலேயே வைக்கப்பட்டுள்ளதாகவும் நீதிவான் பார்வையிடதன் பின்னர் பிரேத பரிசோதனைக்காக பதுளை வைத்தியசாலைக்கு கொண்டு செல்லப்பட உள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/5a36fd07.json)
+
+---
+
+### සීවලී අරුක්ගොඩ රේගු අධ්‍යක්ෂ ජනරාල් ධුරයට පත් කෙරේ
+
+*2025-08-26 10:14:22* · [`adalk`](https://www.ada.lk/breaking_news/සීවලී-අරුක්ගොඩ-රේගු-අධ්‍යක්ෂ-ජනරාල්-ධුරයට-පත්-කෙරේ/11-418069) · `si`
+
+ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුවේ නව අධ්‍යක්ෂ ජනරාල් ලෙස සීවලි අරුක්ගොඩ මහතාව අද (26දා) සිට බලපැවැත්වෙන පරිදි පත්කර තිබේ.
+
+◼️
+
+[Data](articles/2e2d0646.json)
+
+---
+
+### காசா வைத்தியசாலை மீது இஸ்ரேல் தாக்குதல் : 5 ஊடகவியலாளர்கள் உள்ளிட்ட 20 பேர் உயிரிழப்பு
+
+*2025-08-26 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/223372) · `ta`
+
+காசாவில் உள்ள வைத்தியசாலையின் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் ஐந்து ஊடகவியலாளர்கள் உள்ளிட்ட 20 பேர் கொல்லப்பட்டுள்ளதாக காசாவின் சிவில் பாதுகாப்பு நிறுவனம் தெரிவித்துள்ளது.
+
+தெற்கு காசாவின் கான் யூனிஸ் நகரில் உள்ள நாசர் வைத்தியசாலை மீது திங்கட்கிழமை (25) இஸ்ரேல் தாக்குதல் மேற்கொண்டுள்ளது.
+
+இந்தத் தாக்குதலில் உயிரிழந்தவர்களில் 5 ஊடகவியலாளர்கள் மற்றும் ஒரு சிவில் பாதுகாப்பு பணியாளர் அடங்குவதாக சிவில் பாதுகாப்பு செய்தித் தொடர்பாளர் மஹ்மூத் பஸ்ஸல் தெரிவித்தார்.
+
+இஸ்ரேல் முதலில் ஆளில்லா குண்டுவீச்சு விமானத் தாக்குதல் நடத்தியதாகவும், காயமடைந்தவர்கள் வெளியேற்றப்படும் போது மற்றுமொரு வான்வழித் தாக்குதலை நடத்தியதாகவும் பஸ்ஸல் கூறினார்.
+
+இந்தச் சம்பவம் குறித்து இஸ்ரேலிய இராணுவம் விசாரணையை ஆரம்பித்துள்ளது. இஸ்ரேல் வேண்டுமென்றே செய்தியாளர்களையோ, அப்பாவி பொதுமக்களையோ குறிவைக்கவில்லை என்றும், இச்சம்பவத்திற்கு கவலை தெரிவித்துள்ளது.
+
+ரொய்ட்டர்ஸ் செய்தி நிறுவனத்தின் ஒளிப்பதிவாளரான ஹுஸாம் அல்-மஸ்ரி, இந்தத் தாக்குதலில் கொல்லப்பட்டதாக ரொய்ட்டர்ஸ் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/353001b7.json)
 
 ---
 
@@ -1663,125 +1763,5 @@ French company Valneva obtained US approval for the vaccine in 2023, but reports
 ◼️
 
 [Data](articles/e16d3016.json)
-
----
-
-### Foreign investors sell Sri Lanka rupee bonds for second straight week
-
-*2025-08-25 18:24:00* · [`economynextcom`](https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-for-second-straight-week-238278/) · `en`
-
-ECONOMYNEXT – Foreign investors sold Sri Lanka government securities for second successive week in the week ended on August 21, the Central Bank data showed, despite emerging market equity funds saw a renewed interest as these funds drew a net $458 million in inflows.
-
-Foreign investors sold a net 1,342 million rupee ($4.47 million) worth of government securities in the week ended on August 21.
-
-Global investors, however, bought a net $2.13 billion worth bond funds last week following two weekly outflows in a row, Reuters reported.
-
-They bought $30 million worth Sri Lankan rupee bonds in the two weeks ended on August 7 as there were some certainties over Trump’s reciprocal tariff.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
-
-...
-
-[Data](articles/00f69d9b.json)
-
----
-
-### ඇල්ලේ කුණු ගොඩ ගැසෙයි සංචාරකයන් පීඩාවට
-
-*2025-08-25 18:23:03* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-කුණු-ගොඩ-ගැසෙයි-සංචාරකයන්-පීඩාවට/11-418060) · `si`
-
-ඇල්ල නගරයේ එකතු වී ඇති  කැලිකසල ගොඩ සහ කාබනික පොහොර ව්‍යාපෘතිය මගින් හමාඑන දුගඳ මෙන්ම මැසි කරදර නිසාවෙන් ඇල්ල සංචාරක පුරවරයට පැමිණෙන දෙස්විදෙස් සංචාරකයින් දැඩි අපහසුතාවට පත්ව සිටිති .
-
-ඇල්ල , දෙමෝදර ,බල්ලකැටුව කුඹල්වෙල යන නගරවල එකතු වෙන කැලිකසල මෙසේ ඇල්ල නගරයේ බිංගෙය ආසන්නයේ කිතල්ඇල්ල මාර්ගයේ පිහිටි ඉඩමක දැනට ගොඩ ගසමින් පවතින අතර , ඒ අසලම ඇල්ල ප්‍රාදේශීය සභාව සතු අබලන් ගරාවැටීමේ අවධානමක ඇති  කාබනික පොහොර ව්‍යාපෘතිය ද පිහිටා ඇත.
-
-වසර 2012දී කසලින් තොර ශ්‍රීලංකාවක් පිලිසරු කාබනික පොහොර ව්‍යාපෘතිය යටතේ ඇල්ල ප්‍රාදේශීය සභාවේ ඉල්ලීම මත පරිසර හා ස්වභාවික අමාත්‍යාංශයේ අධීක්ෂණය මත පිලිසරු ජාතික ඝන අපද්‍රව්‍ය කලමනාකරන ව්‍යාපෘතියේ  මූල්‍යමය හා තක්ෂනික දායකත්වය මත ඉදිවූ ඇල්ල කාබනික පොහොර ව්‍යාපෘතියේ ගොඩනැගිලි අදවන විට දිරාපත්ව විනාශ  වෙමින් කඩා වැටීමට ආසන්න අනතුරු දායක තත්වයේ පැවතීම නිසාවෙන් එහි සේවකයන් ද දැඩි අසීරූතාවයට පත්ව සිටිති .
-
-...
-
-[Data](articles/aadc4c93.json)
-
----
-
-### அரசியல்வாதிகள் திட்டமிட்ட வகையில் நெருக்கடிக்குள்ளானால் அவர்களுக்காக முன்னிலையாகுவோம் - ஜோன்ஸ்டன் பெர்னாண்டோ
-
-*2025-08-25 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223354) · `ta`
-
-மக்கள் விடுதலை முன்னணியை போன்று நாங்கள் வைராக்கியத்துடன் செயற்படவில்லை. அரசியல்வாதிகள் திட்டமிட்ட வகையில் நெருக்கடிக்குள்ளானால் அவர்களுக்காக முன்னிலையாகுவோம். விசாரணைகளுக்காக திட்டமிட்ட வகையில் அரசியல்வாதிகள் வெள்ளிக்கிழமை அழைக்கப்படுகிறார்கள்  என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜோன்ஸ்டன் பெர்னாண்டோ தெரிவித்தார்.
-
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் திங்கட்கிழமை (25) கட்சியின் உறுப்பினர்களுக்கிடையில் நடைபெற்ற கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-அரசியல் பழிவாங்களுக்காகவே முன்னாள்  ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டுள்ளார்.ஐக்கிய தேசியக் கட்சியின் கொள்கைக்கும்,எமக்கும் இடையில் பாரிய வேறுபாடுகள் உள்ளது என்பதை ஏற்றுக்கொள்கிறோம்.
-
-2022 ஆம் ஆண்டு நாடு வங்குரோத்து நிலையடைந்த போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தான் நாட்டை பொறுப்பேற்றார். ஆகவே அதற்கான கௌரவத்தை அவருக்கு வழங்க வேண்டும்.
-
-...
-
-[Data](articles/e24f75d8.json)
-
----
-
-### Colombo Range DIG Uditha Liyanage remanded
-
-*2025-08-25 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111838/colombo-range-dig-uditha-liyanage-remanded) · `en`
-
-Deputy Inspector General (DIG) of the Colombo Range, Uditha Liyanage, who was arrested by the Criminal Investigation Department (CID) in connection with allegations of aiding and abetting illegal treasure hunting, has been remanded, Ada Derana reporter said.
-
-He was remanded by the Anuradhapura Magistrate’s Court until September 1.
-
-The CID arrested DIG Uditha Liyanage earlier today (25) in connection with the allegations of treasure hunting levelled against his wife, police said.
-
-The Anuradhapura Police recently arrested eight people, including a wife of a DIG, who were allegedly excavating a plot of land for treasure near a temple in Thibirikadawala, Srawasthipura.
-
-This was based on information received by the Anuradhapura Police on August 13 that a group was treasure hunting near the Ratrang Devalaya in Thibirikadawala, Srawasthipura, police said.
-
-...
-
-[Data](articles/9afd2617.json)
-
----
-
-### කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ රිමාන්ඩ්
-
-*2025-08-25 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213782) · `si`
-
-නිධන් හෑරීමට අනුබලදීමේ චෝදනාවක් යටතේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ මහතා සැප්තැම්බර් පළමු වෙනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
-
-පසුගියදා ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක සිය බිරිඳ ඇතුළු පිරිසක් නිදන් හෑරීමේ සිද්ධියට අදාළව අද (25) පෙරවරුවේ ඔහු අත්අඩංගුවට ගනු ලැබීය.
-
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ රත්‍රං දේවාලය අසල නිධන් හාරමින් සිටි කාන්තාවක් ඇතුළු අට දෙනෙක් අනුරාධපුර පොලීසිය විසින් අත්අඩංගුවට ගනුලැබුවේ අගෝස්තු 15 වෙනි දාය.
-
-අදාළ පිරිස බදුල්ල, මාලිගාතැන්න, පදවි ශ්‍රීපුර, ගිරාඳුරුකෝට්ටේ, වරකාපොළ හා අනුරාධපුර යන ප්‍රදේශවල පදිංචිකරුවන් පිරිසකි.
-
-ඒ අතර කොළඹ ප්‍රදේශයේ නියෝජ්‍ය පොලිස්පතිවරයෙකුගේ බිරිඳක්ද සිටින බව අනාවරණ වුණි.
-
-සිය නිවසට ආරක්ෂාවක් කරගැනීම සඳහා තමන් මෙම ස්ථානයට පැමිණි බව ඇය ප්‍රකාශ කර තිබුණි.
-
-සැකකරුවන්  අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව හෙට (26) දක්වා රක්ෂිත බන්ධනාගාරගත කරනු ලැබීය.
-
-...
-
-[Data](articles/844da43e.json)
-
----
-
-### Rapper arrested with fake firearm and narcotics
-
-*2025-08-25 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111837/rapper-arrested-with-fake-firearm-and-narcotics) · `en`
-
-Rapper Madhawa Prasad, popularly known by his stage name ‘Maduwa’, has been arrested by the Kahathuduwa Police for possession of a fake firearm and narcotics, according to police.
-
-The arrest followed an investigation into a video circulating on Facebook, showing a group of six individuals in possession of narcotics and a firearm, allegedly consuming drugs.
-
-Based on these investigations, police arrested the rapper at a housing complex in Homagama, where he had been residing.
-
-During further questioning, the suspect confessed that the video was uploaded to Facebook with the intention of gaining more followers by showcasing drug consumption.
-
-Police recovered 20 milligrams of crystal meth (‘Ice’) and 35 grams of hashish from the suspect’s possession.
-
-The 26-year-old suspect is scheduled to be produced before the Kesbewa Magistrate’s Court.
-
-◼️
-
-[Data](articles/1dde0a4b.json)
 
 ---

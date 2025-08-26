@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 02:08:03**
+As of **2025-08-27 02:32:36**
 
 ## Newspaper Stats
 
-*Scraped **72,531** Articles*
+*Scraped **72,532** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
-colombotelegraphcom | 742
+colombotelegraphcom | 743
 economynextcom | 4,431
 islandlk | 4,454
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,531 articles have been extended.
+61,973 (85.4%) of 72,532 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -118,6 +118,20 @@ The President emphasized that individuals involved in crimes, corruption, abuse 
 
 ---
 
+### Why Fear Sri Lankan Remand Prison?
+
+*2025-08-26 20:49:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-fear-sri-lankan-remand-prison/) · `en`
+
+Today’s decision to grant bail to former president Ranil Wickremesinghe has defused some of the political tension building around his arrest. Yet the episode has drawn renewed attention to a long-standing question: why does the very thought of Sri Lankan remand custody inspire such fear, across all layers of society?
+
+In principle, remand detention is not intended as punishment. Those held in custody are legally presumed innocent, awaiting trial or bail. Yet in Sri Lanka, the reputation of remand prisons is so negative that many accused individuals — whether ordinary citizens or public figures — do everything possible to avoid them. Appeals for bail are made urgently, and transfers to hospital are sometimes sought on contested medical grounds. The issue is less about guilt or innocence than about the conditions within the system itself.
+
+...
+
+[Data](articles/dc3c1115.json)
+
+---
+
 ### අගෝස්තු වැඩිහිටි දීමනාව හෙට
 
 *2025-08-26 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213831) · `si`
@@ -199,6 +213,8 @@ In a post on its official ‘X’ (formerly Twitter) account, the British High C
 “Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.”
 
 It further emphasized that the public should refer only to its official ‘X’ account or the High Commissioner’s official handle for accurate updates on the activities of the High Commission and High Commissioner.
+
+Please refer to this account or the High Commissioner’s official handle @AndrewPtkFCDO for accurate updates on the activities of the High Commission and High Commissioner. Claims that the High Commissioner attended former President Wickremesinghe’s court hearing today are false.— UK in Sri Lanka 🇬🇧🇱🇰 (@UKinSriLanka) August 26, 2025
 
 ◼️
 
@@ -1731,21 +1747,5 @@ He was arrested over alleged mis-use of public property during a stop-over in Lo
 ◼️
 
 [Data](articles/2eccd606.json)
-
----
-
-### சஷீந்திர ராஜபக்ஷவுக்கு கடும் சிக்கல்
-
-*2025-08-26 12:15:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-கடும்-சிக்கல்/175-363517) · `ta`
-
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷவை, வழக்கு விசாரணை செய்யப்பட்டு முடிவடையும் வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம முன்னிலையில் இன்று (26) ஆஜரான இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு கோரிக்கை விடுத்தது.
-
-கிரிப்பன்வெவவில் உள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் அலுவலகம் 2022 ஆம் ஆண்டு எரிக்கப்பட்டதால் ஏற்பட்ட சேதத்திற்கு ரூ. 8,850,000.00 இழப்பீடு வழங்குமாறு அரசாங்க அதிகாரிகளுக்கு அழுத்தம் கொடுத்து அரச சொத்துக்களை துஷ்பிரயோகம் செய்ததாகக் கூறப்படும் குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-சந்தேக நபருக்கு எதிரான விசாரணைகள் பொது சொத்துச் சட்டம் மற்றும் ஊழல் தடுப்புச் சட்டத்தின் பிரிவு 139 இன் கீழ் குற்றங்களாக இருப்பதால், அவருக்கு பிணை மறுக்கப்பட்டு, விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு மேலும் கோரியது.
-
-...
-
-[Data](articles/f30b8d42.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 11:07:47**
+As of **2025-08-26 11:20:52**
 
 ## Newspaper Stats
 
-*Scraped **72,393** Articles*
+*Scraped **72,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,60 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,956
-adaderanalk | 9,162
-tamilmirrorlk | 10,718
-virakesarilk | 11,912
+adaderanalk | 9,165
+tamilmirrorlk | 10,719
+virakesarilk | 11,914
 adaderanasinhalalk | 12,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,393 articles have been extended.
+61,973 (85.6%) of 72,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
 
+### ரணிலை  ஆஜர்படுத்துவதில் சிக்கல்
+
+*2025-08-26 10:58:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-ஆஜர்படுத்துவதில்-சிக்கல்/175-363508) · `ta`
+
+தற்போதைய உடல்நிலை காரணமாக, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று (26) நீதிமன்றத்தில் ஆஜர்படுத்தப்படுவாரா என்பது நிச்சயமற்றது என்று சிறைச்சாலை ஊடகப் பேச்சாளர் ஜகத் வீரசிஹ தெரிவித்துள்ளார். மருத்துவ அறிக்கை சிறைச்சாலைத் திணைக்களத்திற்கு இன்னும் கிடைக்கவில்லை.
+
+இதேவேளை, Zoom தொழில்நுட்பம் மூலம் நீதிமன்றத்துடன் இணைக்க வேண்டும் என்று அறிவிப்பு வந்தால், அது தொடர்பாக தேவையான வசதிகளை வழங்க சிறைச்சாலைகள் திணைக்களம் நடவடிக்கை எடுக்கும் என்று தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/eccf9bbd.json)
+
+---
+
+### காசா மாணவர்கள் பிரித்தானியாவில் கல்வி கற்க அனுமதி
+
+*2025-08-26 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223370) · `ta`
+
+காசாவில் உள்ள சுமார் 40 மாணவர்கள் நிதியளிக்கப்பட்ட பல்கலைக்கழகங்களில் கல்வி கற்பதற்கு எதிர்வரும் வாரங்களில் பிரித்தானியாவுக்கு வரவழைக்கும் திட்டங்களுக்கு அந்நாட்டு அரசாங்கம் அனுமதி அளித்துள்ளது.
+
+செவனிங் திட்டத்தின் கீழ் (Chevening scheme) புலமைப் பரிசில்கள் ஊடாக ஒன்பது மாணவர்களுக்கு காசாவை விட்டு வெளியேற உதவி வழங்கப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+செவனிங் திட்டம் என்பது, சர்வதேச மாணவர்கள் ஓராண்டு முதுகலைப் பட்டப்படிப்பைப் படிப்பதற்காக, பெருமளவில் அரசாங்கத்தால் நிதியளிக்கப்படும் கல்வி திட்டம் ஆகும்.
+
+ஏனைய தனியார் திட்டங்கள் மூலம் முழுமையாக நிதியளிக்கப்பட்ட புலமைப் பரிசில்கள் கிடைத்த சுமார் 30 மாணவர்களுக்கு உதவுவதற்கான திட்டங்களுக்கும் உள்நாட்டு  செயலாளர் அனுமதி அளித்துள்ளதாக பிபிசிக்கு தகவல் கிடைத்துள்ளது.
+
+2023-ல் ஹமாஸ்-இஸ்ரேல் போர் ஆரம்பித்த பின்னர், பிரித்தானியாவில் கல்வி கற்பதற்கு காசாவை விட்டு வெளியேறும் முதல் மாணவர்கள் இவர்களாகத்தான் இருப்பார்கள். இருப்பினும், ஒவ்வொரு மாணவரும் அப்பகுதியை விட்டு வெளியேற இஸ்ரேல் அனுமதி அளிக்க வேண்டும்.
+
+...
+
+[Data](articles/36ee6dc8.json)
+
+---
+
 ### හරීන් අධිකරණයට
 
 *2025-08-26 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213804) · `si`
+
+බදුල්ල මහෙස්ත්‍රාත් නුජිත් ද සිල්වා විසින් එළැඹෙන ජනවාරි මස 6 වන දා දක්වා නඩුව කල් තබා තිබේ.
 
 හිටපු අමාත්‍ය හරින් ප්‍රනාන්දු මහතා අද (26) දින බදුල්ල මහෙස්ත්‍රාත් අධිකරණයේ පෙනී සිටියේය.
 
@@ -43,6 +79,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8f906791.json)
+
+---
+
+### UNP seniors call on Chief Prelate of Asgiriya Chapter
+
+*2025-08-26 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111857/unp-seniors-call-on-chief-prelate-of-asgiriya-chapter) · `en`
+
+A delegation of senior members and leaders of the United National Party (UNP) visited the Asgiriya Maha Viharaya this morning (26) and received blessings from the Chief Prelate of the Asgiriya Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.
+
+During the visit, Deputy Leader of the UNP Ruwan Wijewardene and General Secretary Thalatha Atukorale engaged in discussions with the Chief Prelate and other senior members of the Maha Sangha regarding the current situation concerning former President Ranil Wickremesinghe, as well as the prevailing political and economic conditions in the country.
+
+They also sought blessings for the current health condition of former President Ranil Wickremesinghe.
+
+Former President Wickremesinghe is currently receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital.
+
+◼️
+
+[Data](articles/0beaf3d4.json)
 
 ---
 
@@ -61,6 +115,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3b065a07.json)
+
+---
+
+### வட கொரியத் தலைவர் கிம் ஜாங் உன்னை சந்திக்க ஆசைப்படுகிறார் ஜனாதிபதி டிரம்ப் !
+
+*2025-08-26 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/223377) · `ta`
+
+வட கொரியத் தலைவர் கிம் ஜாங் உன்னை மீண்டும் சந்திக்க விரும்புவதாகவும், இந்த ஆண்டுக்குள் அந்த சந்திப்பு நிகழலாம் எனவும் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் தெரிவித்துள்ளார். தென் கொரியாவின் புதிய ஜனாதிபதி லீ ஜே மியுங் உடன் வெள்ளை மாளிகையில் இடம்பெற்ற பேச்சுவார்த்தையின்போது டிரம்ப் இந்தக் கருத்தை வெளியிட்டுள்ளார்.
+
+ஜனாதிபதி லீ ஜே மியுங் வெள்ளை மாளிகைக்கு வருவதற்கு சில மணி நேரங்களுக்கு முன்பு, தென் கொரியாவில் தேவாலயங்கள் தொடர்பான சோதனைகளைக் குறிப்பிட்டு, அங்கு ஒரு "துடைப்பு அல்லது புரட்சி" நடப்பதாக டிரம்ப் சமூக ஊடகங்களில் கடுமையான விமர்சனத்தை முன்வைத்தார். ஆனால், சந்திப்பின் போது, ஜனாதிபதி லீ, டிரம்ப்பை பெரிதும் புகழ்ந்து பேசியதையடுத்து, டிரம்ப் தனது முந்தைய கருத்தை "ஒரு தவறான புரிதல்" என்று கூறி நிராகரித்தார்.
+
+வட கொரிய விவகாரத்தில் லீயின் அணுகுமுறையும் தனது அணுகுமுறையும் ஒரே மாதிரியானவை என டிரம்ப் நம்புவதாகக் கூறினார். மேலும், கிம் ஜாங் உன்னின் சகோதரியைத் தவிர வேறு எவரையும் விட தனக்கு நன்றாகத் தெரியும்" என்று டிரம்ப் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/465b2cb9.json)
 
 ---
 
@@ -204,6 +274,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Security beefed up near Colombo Fort Magistrate’s Court premises
+
+*2025-08-26 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111856/security-beefed-up-near-colombo-fort-magistrates-court-premises) · `en`
+
+Security has been beefed up adjacent to the Colombo Fort Magistrate’s Court premises, Ada Derana reporter said.
+
+Accordingly, Police and Special Task Force personnel have been deployed to the area.
+
+This is in anticipation of large crowds converging to the court premises ahead of the hearing of a case filed against former President Ranil Wickremesinghe.
+
+Former President Wickremesinghe, who was arrested by the Criminal Investigation Department (CID) on Friday (22), is scheduled to be produced before court today.
+
+The former President was apprehended in relation to the alleged misuse of public funds during a visit to the United Kingdom in 2023.
+
+Following the remand order, former President Wickremesinghe was escorted to the Welikada Prison and subsequently admitted to the Prison Hospital under medical grounds.
+
+He was then transferred to the Colombo National Hospital after his medical condition deteriorated.
+
+...
+
+[Data](articles/d94780cb.json)
+
+---
+
 ### රනිල්ට අද අධිකරණයට යන්න බැරි වෙන ලකුණු  - තවදුරටත් ICU ප්‍රතිකාර
 
 *2025-08-26 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213801) · `si`
@@ -221,6 +315,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b67fa29b.json)
+
+---
+
+### Ex-President Ranil unlikely to be produced in court today - Prisons Spokesman
+
+*2025-08-26 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111855/ex-president-ranil-unlikely-to-be-produced-in-court-today-prisons-spokesman) · `en`
+
+Former President Ranil Wickremesinghe, who is currently under observation at the Intensive Care Unit (ICU) of the National Hospital in Colombo, is unlikely to be produced in person before court today owing to his health condition, said Prisons Spokesman.
+
+◼️
+
+[Data](articles/f2cb9020.json)
 
 ---
 
@@ -842,9 +948,15 @@ Meanwhile, the General Secretary of the Sri Lanka Freedom Party (SLFP), Duminda 
 
 *2025-08-26 05:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111845/university-entrance-cut-off-marks-released) · `en`
 
-University entrance cut-off marks for the candidates of 2024/25 G.C.E. Advanced Level Examination have been released by the University Grants Commission (UGC).
+The University Grants Commission (UGC) has released the cut-off marks required for university admission based on the results of the 2024 G.C.E. Advanced Level Examination.
 
-The cut-off marks can be accessed from the official website of the UGC.
+Accordingly, the minimum Z-scores required for admission to various academic programs at different universities, based on each district, have been announced.
+
+Students can obtain the university and course to which they have been selected by visiting the official website of the University Grants Commission via http://www.ugc.ac.lk or by contacting the UGC via 0112695301, 0112695302, 0112692357 or 0112675854 telephone numbers.
+
+Furthermore, all applicants for university admission will be informed via SMS, the UGC said.
+
+An SMS will be sent to notify whether or not they have been selected for university admission.
 
 ◼️
 
@@ -898,11 +1010,13 @@ Tensions between the world’s two biggest economies have been simmering this ye
 
 *2025-08-26 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111842/showers-expected-in-few-areas-of-the-country-today) · `en`
 
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa district after 2.00 p.m.
+Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa district after 2.00 p.m. today (26), the Department of Meteorology said.
 
-A few showers may occur in Western and Sabaragamuwa provinces during the morning.
+A few showers may occur in the Western and Sabaragamuwa provinces during the morning.
 
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+Mainly fair weather will prevail elsewhere in the island, the Met. Department added.
+
+The general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
 ◼️
 
@@ -1647,117 +1761,5 @@ The journalists killed included Mariam Abu Dagga, who freelanced for the Associa
 ...
 
 [Data](articles/d030b3b2.json)
-
----
-
-### குருக்கள்மடம் மனிதப் புதை குழியை தோண்டுவதற்கு நீதிமன்றம் உத்தரவு
-
-*2025-08-25 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/223356) · `ta`
-
-1990ஆம் ஆண்டு புனித ஹஜ் யாத்திரையை முடித்துக் கொண்டு கல்முனை வழியாக காத்தான்குடிக்கு பயணம் செய்த அப்பாவி முஸ்லிம்கள் ஆயுத தாரிகளால் இடைமறிக்கப்பட்டு கடத்தப்பட்டு குருக்கள்மடத்தில் வைத்து கொலை செய்­யப்­பட்டு புதைக்கப்பட்டது சம்பந்தமாக, பாதிக்கப்பட்டவர்களின் குடும்பம் சார்பாக AMM.ரவூப் என்பவரால் களுவாஞ்சிக்குடி பொலிஸ் நிலையத்தில் செய்­யப்­பட்ட முறைப்பாட்டின் பிரகாரம், களுவாஞ்சிக்குடி நீதிவான் நீதிமன்றத்தில் தொடரப்பட்ட வழக்கு விசாரணை, திங்கட்கிழமை (25) களுவாஞ்சிக்குடி நீதிவான் நீதிமன்ற நீதிபதி ஜே.பீ ஏ.ரஞ்சித்குமார் முன்னிலையில் விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டது.
-
-முறைப்பாட்டில் குறிப்பிட்டுள்ள படி உரிய இடத்தில் புதைக்கப்பட்டுள்ள மனித எச்சங்களை தோண்டி எடுப்பதற்கான கட்டளையை நீதிவான் நீதிமன்ற நீதிபதியால் பிறப்பிக்கப்பட்டுள்ளது.
-
-மேலதிக நடவடிக்கைகளை களுவாஞ்சிக்குடி பொலீஸார் மேற்கொண்டு வருகின்றனர்.முறைப்பாட்டாளர் சார்பாக குரல்கள் இயக்க சட்டத்தரணிகள் ஆஜராகி இருந்தமை குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/a7bf734e.json)
-
----
-
-### ප්‍රසන්න රණවීර ඇතුළු තිදෙනා තවදුරටත් රිමාන්ඩ්
-
-*2025-08-25 19:03:14* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසන්න-රණවීර-ඇතුළු-තිදෙනා-තවදුරටත්-රිමාන්ඩ්/11-418063) · `si`
-
-කිරිබත්ගොඩ නගරයේ ඉදි කිරීමට රජයට පවරා ගෙන තිබු රුපියල් කෝටි දෙකක් පමණ වටිනා ඉඩමකට කූට ලේඛණ සකස් කිරීම සම්බන්ධව රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර ඇතුළු තිදෙනා තවදුරටත්  ලබන සැප්තැම්බර් මස  08 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට මහර අංක 01  අධිකරණයේ ප්‍රධාන  මහේස්ත්‍රාත් ජනිතා පෙරේරා  මහත්මිය අද ( 25  වැනිදා ) නියම කරනු ලැබුවාය.
-
-මෙසේ තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර  , කැලණිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී මිල්රෝයි පෙරේරා හා  හිටපු ඇමැති මර්වින් සිල්වා ගේ එවකට පාර්ලිමේන්තු කටයුතු හිටපු ලේකම් දොන් සරත් කුමාර එදිරිසිංහ  නොහොත් සිංගප්පූරු සරත් යන තිදෙනා වෙති.
-
-මෙදින සැකකරුවන් තිදෙනාගෙන් හිටපු රාජ්‍ය ඇමැති ප්‍රසන්න රණවීර හා කැළණිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී මිල්රෝයි පෙරේරා යන දෙදෙනා  අධිකරණයට ඉදිරිපත් කර නොසිටි අතර ඔවුන් ස්කයිප් තාක්ෂණය ඔස්සේ සම්බන්ධ කර  ගැනිණි. ඔවුනට නියෝගය බන්ධනාගාරය මගින් දන්වන බවද මහේස්ත්‍රාත්වරිය සදහන් කළාය.
-
-...
-
-[Data](articles/c578e22a.json)
-
----
-
-### ’’அரசாங்கம் ஒரு சர்வாதிகாரப் போக்கில் நகர்கிறது”
-
-*2025-08-25 18:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-ஒரு-சர்வாதிகாரப்-போக்கில்-நகர்கிறது/175-363469) · `ta`
-
-எதிர்க்கட்சிகளை அடக்கி நாட்டை ஒற்றைக் கட்சி ஆட்சியை நோக்கி இட்டுச் செல்ல அரசாங்கம் முயற்சிப்பதாக முன்னாள் அமைச்சர் ரஞ்சித் மத்துமபண்டார இன்று குற்றம் சாட்டினார்.
-
-ஊடகங்களுக்கு உரையாற்றிய மத்தும பண்டார, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருப்பது "ஜனநாயகத்தின் மீதான கொடிய தாக்குதலுக்கு" சமம் என்றார்.
-
-மக்களுக்கு அளித்த வாக்குறுதிகளை நிறைவேற்றத் தவறியதை மறைக்க, தவறு செய்தவர்களுக்கு எதிராக நடவடிக்கை எடுப்பதற்குப் பதிலாக, எதிர்க்கட்சித் தலைவர்களை அரசாங்கம் குறிவைத்து வருவதாக அவர் கூறினார்.
-
-"அரசாங்கம் ஒரு சர்வாதிகாரப் பயணத்தில் நகர்கிறது. அவர்கள் தங்கள் அரசியல் நிகழ்ச்சி நிரலுக்கு ஏற்ப செயல்பட சிஐடி மற்றும் பொலிஸைப் பயன்படுத்துகிறார்கள்," என்று அவர் கூறினார், அதிகாரிகளுக்கு வழங்கப்பட்ட தகவல்கள் விக்கிரமசிங்கவின் கைதுக்கு வழி வகுத்ததாகக் குற்றம் சாட்டினார்.
-
-ஜனநாயகத்தையும் மக்களின் வாக்குரிமையையும் பாதுகாக்க எதிர்க்கட்சிகளுடன் இணைந்து செயல்படுமாறு மத்தும பண்டார பொதுமக்களை வலியுறுத்தினார்.
-
-...
-
-[Data](articles/b2eb1265.json)
-
----
-
-### Sri Lanka coconut recovers strongly June 2025, topping last year’s level
-
-*2025-08-25 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-production-recovers-strongly-in-2q-238251/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s coconut production had recovered strongly in the second quarter of 2025, with June production rising 18 percent from a year earlier to 289.5 million nuts, official data showed.
-
-Coconut output in May 2025 was down 1.2 percent from a year earlier to 257.5 million nuts.
-
-Coconut output in April 2025 was down 6.2 percent from a year earlier.
-
-Sri Lanka’s coconut output as well as production in several East Asian countries plunged in the second quarter of 2025, with freak weather and disease suspected among other reasons.
-
-Sri Lanka coconut prices shot up 18.32 percent in January 2025, recording the highest price for a coconut in a weekly auction, Coconut Development Authority showed.
-
-But now prices have eased to around 134 rupees a coconut at the weekly auctions. (Colombo/Aug25/2025)
-
-◼️
-
-[Data](articles/6687bd99.json)
-
----
-
-### පුත්තලම මාර්ගයේ ලංගම හා පුද්ගලික මිතුරු වෙයි
-
-*2025-08-25 18:42:02* · [`adalk`](https://www.ada.lk/breaking_news/පුත්තලම-මාර්ගයේ-ලංගම-හා-පුද්ගලික-මිතුරු-වෙයි/11-418062) · `si`
-
-අද (25) රාත්‍රි 12න් පසුව  පුත්තලම මාර්ගයෙන් ආරම්භ වන ලංගම හා පෞද්ගලික බස් රථ  ඒකාබද්ධ කාලසටහනක් යටතේ  ක්‍රියාත්මක කරන බව ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා සදහන් කළේය.
-
-මෙම වැඩපිළිවෙල යටතේ නිශ්චිත වෙලාවට බස් රථ ගමන් ආරම්භ කිරිම් හා නිශ්චිත වෙලාවට ගමනාන්තයට ලගා විම සිදුවන බවද පැවසිය.
-
-මේ අනුව තලෛයිමන්නාරම් සිට කොළඹ දක්වාත් .යාපනය සිට කොළඹ දක්වාත්  මන්නාරමේ සිට කොළඹ දක්වාත්  ගමන් කරන බස් රථ  එකාබද්ධ කාලසටහනක් යටතේ ධාවන වන බවද සදහන් කළේය.
-
-මෙම ක්‍රමය යටතේ බස් රථයක් හා තවත් බස් රථයක් අතර නිශ්චිත කාල පරායසයක් පවතින බවත්  ජි පි එස් තාක්ෂණය ඹස්සේ මෙය සිදුවන ආකාරය නිරික්ෂණය කරණ බවත් ඊට අදාල උපකරණ බස් රථවල සවිකර තිබෙන බවද පැවසිය
-
-මිට අමතරව ගමන් කරණ මාර්ගයේ පවතින බස් නැවතුම් පොලවල්වලට පැමිණිය යුතු වෙලාවන්ද තිබෙන බවත්  ඒ පිලිබදවත් නිරික්ෂණය කරන බවත්  ලංගම හා පෞද්ගල බස් රථවලින් අති බහුතර ප්‍රමාණයක් ලබන වසර අවසන් වන විට එකාබද්ධ කාලසටනක් යටතේ ක්‍රියාත්මක කිරිමට සැලසුම් කර තිබෙන බවද සදහන් කලේය
-
-◼️
-
-[Data](articles/b71b78ee.json)
-
----
-
-### US suspends chikungunya vaccine Ixchiq over ‘serious’ side effects: Valneva
-
-*2025-08-25 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111839/us-suspends-chikungunya-vaccine-ixchiq-over-serious-side-effects-valneva) · `en`
-
-US health authorities have suspended the licence for the Ixchiq vaccine against the chikungunya virus following reports of “serious adverse events”, the drug’s French maker said on Monday (Aug 25).
-
-Ixchiq is one of just two vaccines approved by the US Food and Drug Administration for the mosquito-spread virus, which mainly occurs in tropical and subtropical regions but has recently been discovered in countries worldwide.
-
-French company Valneva obtained US approval for the vaccine in 2023, but reports of side effects have prompted reviews, in particular over its use in older patients, including by the European Medicines Agency this year.
-
-“The suspension of the licence is effective immediately,” Valneva said of the FDA order issued on Friday, citing four additional cases of serious side effects, three of which involved people aged 70 to 82.
-
-...
-
-[Data](articles/b146039f.json)
 
 ---

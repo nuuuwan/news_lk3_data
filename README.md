@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 16:08:57**
+As of **2025-08-26 16:22:51**
 
 ## Newspaper Stats
 
-*Scraped **72,478** Articles*
+*Scraped **72,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,428
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,964
-adaderanalk | 9,179
+adalk | 6,965
+adaderanalk | 9,183
 tamilmirrorlk | 10,743
 virakesarilk | 11,922
 adaderanasinhalalk | 12,553
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,553
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,478 articles have been extended.
+61,973 (85.5%) of 72,483 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,32 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Road opposite Colombo University blocked due to IUSF protest
+
+*2025-08-26 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111874/road-opposite-colombo-university-blocked-due-to-iusf-protest) · `en`
+
+The road adjacent to the University of Colombo has been closed due to a protest organized by the Inter-University Student Federation (IUSF).
+
+The protest has been organized demanding the formulation of a clear criteria for degrees and demanding authorities to streamline the recruitment process of degree holders into the teaching service.
+
+◼️
+
+[Data](articles/ca7e45d4.json)
+
+---
+
+### Police officer sustains injuries during protest organized by opposition
+
+*2025-08-26 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111873/police-officer-sustains-injuries-during-protest-organized-by-opposition) · `en`
+
+A police officer has sustained injuries during the protest organized by the opposition in Colombo.
+
+◼️
+
+[Data](articles/28889f67.json)
+
+---
+
 ### උද්ඝෝෂණය අතරතුර පොලිස් නිලධාරියෙක්ට ප්‍රහාරයක්
 
 *2025-08-26 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213818) · `si`
@@ -61,6 +87,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d30b4efc.json)
+
+---
+
+### හිටපු ජනපති රනිල් Zoom  හරහා නඩුවට පෙනී සිටියි
+
+*2025-08-26 15:25:39* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-Zoom--හරහා-නඩුවට-පෙනී-සිටියි/11-418078) · `si`
+
+රක්ෂිත බන්ධනාගාර ගත කිරීමෙන් පසු කොළඹ ජාතික රෝහලේ ප්‍රතිකර ලබමින් සිටින හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා Zoom තාක්ෂණය ඔස්සේ අද(26දා) නඩුවට පෙනී සිට තිබේ.
+
+මෙම නඩුව අද කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනෙවිය ඉදිරියේ කැඳවනු ලැබූ අතර, මේ වන විටත් නඩුවේ කටයුතු සිදුවෙමින් පවතී.
+
+◼️
+
+[Data](articles/a2c3ac14.json)
+
+---
+
+### PM Harini denies visiting Ex-President Ranil in hospital
+
+*2025-08-26 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111872/pm-harini-denies-visiting-ex-president-ranil-in-hospital) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has dismissed reports claiming that she visited former President Ranil Wickremesinghe who is currently receiving treatment at the Intensive Care Unit(ICU) of the Colombo National Hospital. She challenged anyone who has evidence to the contrary to come forward and present them.
+
+At a press conference, Prime Minister Harini challenged the media organization that spread the fabricated information to provide evidence.
+
+She further commented, “I think we will have to take legal action against those who spread fake news. Disbursing fake news like this is unacceptable. That’s all I’m saying. If I went, there should be some evidence to support that news. Present the evidence. You can’t just create news out of thin air.”
+
+The Prime Minister also questioned, “If I did go, where did that information come from? Has anyone seen me visiting the former president in hospital?”
+
+...
+
+[Data](articles/6a7fd8e0.json)
 
 ---
 
@@ -161,6 +219,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/257194a0.json)
+
+---
+
+### Ex-President Ranil joins court hearing via Zoom, full medical report submitted by attorneys
+
+*2025-08-26 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111871/ex-president-ranil-joins-court-hearing-via-zoom-full-medical-report-submitted-by-attorneys) · `en`
+
+The hearing of the case filed against Former President Ranil Wickremesinghe is currently underway at the Colombo Fort Magistrate’s Court.
+
+The former President, who is at the Intensive Care Unit of the Colombo National Hospital at present has joined the hearing virtually via Zoom, Ada Derana reporter said.
+
+Former President Ranil Wickremesinghe was not produced in court for the hearing taking place before Colombo Fort Magistrate Nilupuli Lankapura.
+
+During the hearing, a detailed medical report of former President Ranil Wickremesinghe was produced by his attorneys.
+
+According to the submissions made by President’s Counsel Anuja Premaratna, three of the four coronary arteries of the former President have been blocked.
+
+Earlier today, Prisons media spokesperson Jagath Weerasinghe said the former President is unlikely to be produced before court today, due to medical recommendations stating that he must continue to remain under observation in the ICU.
+
+...
+
+[Data](articles/c4ec0cab.json)
 
 ---
 
@@ -1663,79 +1743,5 @@ Rs. 82,000 million Treasury bills are to be issued through an auction on 27th Au
 ◼️
 
 [Data](articles/3fec73d4.json)
-
----
-
-### மாமாவின் தலையால் மருமகனின் தலையை உருட்டும் அனுர
-
-*2025-08-26 09:22:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/மாமாவின்-தலையால்-மருமகனின்-தலையை-உருட்டும்-அனுர/62-363495) · `ta`
-
-◼️
-
-[Data](articles/2c4d292a.json)
-
----
-
-### Another 619 individuals nabbed during special island-wide police raids
-
-*2025-08-26 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111854/another-619-individuals-nabbed-during-special-island-wide-police-raids) · `en`
-
-A total of 619 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (25).
-
-As part of the operation, 26,216 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 27 individuals directly linked to criminal activities while 396 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 73 drunk drivers were apprehended while a further 23 reckless drivers and 3,810 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/358fc34f.json)
-
----
-
-### இனிய பாரதியின் சகா   விடுவிப்பு
-
-*2025-08-26 09:19:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிய-பாரதியின்-சகா-விடுவிப்பு/175-363494) · `ta`
-
-சிஐடி யினரால்   திங்கட்கிழமை (25)   கைது செய்யப்பட்ட இனிய பாரதியின் சகாவான மட்டு களுவங்கேணியைச் சேர்ந்த பாலசுந்தரம் என்பவரை சுமார் 7 மணித்தியால விசாரணையின் பின்னர் சிஐடியினர் விடுதலை செய்துள்ளதாக கைது செய்யப்பட்டவரின் உறவினர்கள் தெரிவித்தனர்.
-
-இனிய பாரதியின் சகாவாக செயற்பட்டிருந்த குறித்த நபரை சம்பவ தினத்தன்று களுவங்கேணியிலுள்ள அவரது வீட்டில் வைத்து கொழும்பில் இருந்து சென்ற சிஐடி யினர் கைது செய்தனர் இதனையடுத்து அவரை கொண்டு சென்று சுமார் 7 மணித்தியால தொடர் விசாரணையின் பின்னர் இரவு 9.00 மணிக்கு விடுவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/568639d1.json)
-
----
-
-### மாத்தறையில் துப்பாக்கிச் சூடு
-
-*2025-08-26 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223369) · `ta`
-
-மாத்தறையில் கடற்கரைப்பகுதியில் உள்ள உணவகம் ஒன்றின் உரிமையாளரை குறிவைத்து நேற்று திங்கட்கிழமை (25) துப்பாக்கிச் சூடு இடம்பெற்றுள்ளது.
-
-துப்பாக்கிதாரி சம்பவ இடத்தில் ஒரு ஆயுதம், 4 தோட்டாக்கள் மற்றும் ஒரு பயன்படுத்தப்பட்ட தோட்டாவை விட்டுச் சென்றுள்ளார்.
-
-◼️
-
-[Data](articles/339483ea.json)
-
----
-
-### ලංගම - පෞද්ගලික ඒකාබද්ධ ගමන්වාර ආරම්භ කෙරේ
-
-*2025-08-26 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213799) · `si`
-
-ඊයේ (25) මධ්‍යම රාත්‍රියේ සිට කොළඹ බැස්ටියන් මාවතේ පිහිටි පෞද්ගලික බස්රථ අංගනයේ සිට එම ඒකාබද්ධ ගමන්වාර ආරම්භ කරන බව ජාතික ගමනා ගමන කොමිෂන් සභාව නිවේදනය කළේය.
-
-එමෙන්ම ප්‍රවාහන සහ මහමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා පැවසුවේ ද නිෂ්චිත කාල රාමුවකට ලංගම සහ පෞද්ගලික බසරථ බල ඇනිය එකම තැනකින් ගමන් ආරම්භ කිරීමට බලාපොරොත්තු වෙන බවය.
-
-"පැවති සාකච්චා සමූහයක ප්‍රතිඵලයක් ලෙස ශ්‍රී ලංගම සහ පෞද්ගලික අංශය ඒකාබද්ධ වෙච්ච ඒකාබද්ධ කාලසටහනකට ධාවනය කිරීම සඳහා එක ප්‍රවේශ මාර්ගයක් කොළඹට පිවිසෙන ප්‍රධාන ප්‍රවේශ මාර්ගය වන පුත්තලම් කොරිඩෝ එක , යාපනය සිට කොළඹ දක්වා, මන්නාරම සිට කොළඹ දක්වා, තලෛයිමාන්නාරම සිට කොළඹ දක්වා, ඒ ඒ ගමනාන්ත දක්වා ලඟාවන බස්රථ පොදු ඒකාබද්ධ කාලසටහනකට ධාවනය කරන්න අපි අනිවාර්යයෙන්ම නිෂ්චිත වෙලාවකට බස් රථය පිටත් වෙන්න පටන් ගන්නවා නිෂ්චිත වෙලාවට ගමනාන්තය දක්වා යා යුතුයි. ඒ වගේම පිටත්වෙන බස් රථයෙන් බස් රථයට ඇති කාල පරාසය නිෂ්චිත කරලා තියෙනවා. මේ ආකාරයට නිෂ්චිත කාල රාමුවකට ලංගම සහ පෞද්ගලික බසරථ බල ඇනිය එකම තැනකින් ගමන් ආරම්භ කිරීමට බලාපොරොත්තු වෙනවා. "
-
-...
-
-[Data](articles/8a59ec90.json)
 
 ---

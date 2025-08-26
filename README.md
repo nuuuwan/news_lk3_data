@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 12:39:09**
+As of **2025-08-26 12:51:00**
 
 ## Newspaper Stats
 
-*Scraped **72,420** Articles*
+*Scraped **72,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,957
 adaderanalk | 9,169
-tamilmirrorlk | 10,726
+tamilmirrorlk | 10,728
 virakesarilk | 11,917
 adaderanasinhalalk | 12,542
 
@@ -26,17 +26,59 @@ adaderanasinhalalk | 12,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,420 articles have been extended.
+61,973 (85.6%) of 72,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
 
+### “சர்வதேச நீதியைத் தான் தமிழர்கள் கோருகிறார்கள்”
+
+*2025-08-26 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-நீதியைத்-தான்-தமிழர்கள்-கோருகிறார்கள்/175-363519) · `ta`
+
+தமிழ் மக்கள் சர்வதேச நீதியைத் தான் கோருகிறார்கள்! ஒரு போதும் உள்ளூர் பொறிமுறையை ஏற்றுக் கொள்ளவில்லை என்பதை வலியுறுத்தி சர்வதேச காணாமல் ஆக்கப்பட்டோர் தினத்தில் வடக்கு, கிழக்கு பகுதிகளில் இடம்பெறவுள்ள  பெரும் போராட்டத்திற்கு அனைவரும் ஆதரவு வழங்குமாறு முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகளின் சங்கத் தலைவர் சுப்பிரமணியம் பரமானந்தம் கோரிக்கை விடுத்துள்ளார்
+
+சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டோர் தினமான எதிர்வரும் 30 ஆம் திகதி சர்வதேச நீதியை கோரி வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத்தினரால் வடக்கில் யாழ்ப்பாணம் கிட்டுப் பூங்காவில் இருந்து செம்மணி  வரையும் கிழக்கில் கல்லடி பாலத்தில் இருந்து காந்தி பூங்கா வரையும் மாபெரும் கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட உள்ளது
+
+இது தொடர்பில் முல்லைத்தீவு ஊடக அமையத்தில் செவ்வாய்க்கிழமை (26) காலை முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் ஊடக சந்திப்பு ஒன்றை நடத்தி குறித்த போராட்டத்திற்கு அனைத்து தரப்பினரின்  ஆதரவையும் வேண்டி நிற்பதாக தெரிவித்தனர்
+
+...
+
+[Data](articles/90553a17.json)
+
+---
+
+### சிறுமியை 20 முறை கத்தியால் குத்தி கொலை செய்த சிறுவன்
+
+*2025-08-26 12:33:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-20-முறை-கத்தியால்-குத்தி-கொலை-செய்த-சிறுவன்/175-363518) · `ta`
+
+10 வயது சிறுமியை 20 முறை கத்தியால் குத்தி, சிறுவன் ஒருவன் கொலை செய்துள்ளமை தெலங்கானா மாநிலம் சங்காரெட்டி மாவட்டத்தில் பெரும் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.
+
+தெலங்கானா மாநிலம் சங்காரெட்டி மாவட்டம் முத்தக்யாசாராம் கிராமத்தை சேர்ந்த தம்பதியின் மகள் சஹஸ்ரா.
+
+10 வயதே ஆன சஹஸ்ரா வீட்டருகே உள்ள பாடசாலையில் 5ஆம் வகுப்பு படித்து வந்தார். கணவன் - மனைவி இருவரும் வேலைக்கு சென்று விட்ட நிலையில் சஹஸ்ரா மட்டும் வீட்டில் தனியாக இருந்துள்ளார்.
+
+வேலைக்கு சென்றவர்கள் திரும்பி வந்தபோது, வீட்டிற்குள் சஹஸ்ரா இரத்த வெள்ளத்தில் இறந்து கிடந்ததை பார்த்து கடும் அதிர்ச்சி அடைந்துள்ளனர்.
+
+உடல் முழுவதும் கத்திக் குத்து காயங்களுடன் சஹஸ்ரா கொடூரமாக கொலை செய்யப்பட்டு கிடந்துள்ளார். தகவல் அறிந்த பொலிஸார் விரைந்து வந்து தீவிர விசாரணை நடத்தியும், கொலையாளி குறித்த எந்த தடயமும் கிடைக்கவில்லை.
+
+அந்த பகுதியில் பொருத்தப்பட்டிருந்த கண்காணிப்பு கெமரா காட்சிகளை ஆய்வு செய்தபோது, சஹஸ்ராவின் பாடசாலையில் 10ஆவது படிக்கும் ஒரு மாணவன் வந்து செல்வது பதிவாகி இருந்தது.
+
+...
+
+[Data](articles/deaa943f.json)
+
+---
+
 ### ශෂීන්ද්‍ර රාජපක්ෂ 29 දක්වා යළි රිමාන්ඩ්
 
 *2025-08-26 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213807) · `si`
 
-අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා තවදුරටත් ලබන 29 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+දූෂණ චෝදනාවක් සම්බන්ධයෙන් රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා  ලබන 29 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+අල්ලස් කොමිසමේ නිලධාරීන් සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක බෝදරගම මහතා මෙම නියෝගය නිකුත් කර ඇත.
+
+අරගලකරුවන් විසින්  මහවැලි ඉඩමක ඉදිකර තිබූ සිය දේශපාලන කාර්යාලය ගිනි තබා විනාශ කිරීම හේතුවෙන් නීතියට පටහැනි ලෙස රුපියල්  8,850,000/-ක මුදලක් වන්දි වශයෙන් ලබා ගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ "දූෂණය" නමැති වරද සිදුකළ බවට චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගෙන රක්ෂිද බන්ධනාගාර ගතකර තිබුණි.
 
 ◼️
 
@@ -1715,43 +1757,5 @@ It’s after six years, says Bert, that Flame will be seen in action, at an even
 ...
 
 [Data](articles/5ef04e08.json)
-
----
-
-### 2025-08-25 (Monday)
-
-### Indices decline as profit-takings hold sway
-
-*2025-08-25 23:55:00* · [`islandlk`](http://island.lk/indices-decline-as-profit-takings-hold-sway/) · `en`
-
-The CSE having gone through a major rally on the market the previous working days yesterday witnessed heavy profit- takings, market analysts said.
-
-Amid those developments both indices moved downward. The All Share Price Index went down by 73.61 points while the S and P SL20 declined by 41.51 points. Turnover stood at Rs 4.4 billion with eight crossings.
-
-Those crossings were reported in HNB, which crossed two million shares to the tune of Rs 790 million and its shares traded at Rs 395, E. B Creasy Company two million shares crossed to the tune of Rs 124 million; its shares traded at Rs 62, Hemas Holdings 2.75 million shares crossed for Rs 85.2 million; its shares traded at Rs 31, Sunshine Holdings 2.6 million shares crossed for Rs 81.9 million; its shares traded at Rs 30.50.
-
-...
-
-[Data](articles/4123d5dc.json)
-
----
-
-### Union Bank recognised at Satyn Women Friendly Workplace Awards 2025
-
-*2025-08-25 23:54:00* · [`islandlk`](http://island.lk/union-bank-recognised-at-satyn-women-friendly-workplace-awards-2025/) · `en`
-
-Union Bank is proud to be recognized with a Special Award at the Satyn Women Friendly Workplace Awards 2025 for championing women in leadership! With women representing 50% of the Bank’s total workforce, this recognition reaffirms Union Bank’s dedication to driving equality and empowering women to thrive at every level.
-
-Aitken Spence Elevators and Rush Housing forge strategic partnership for vertical mobility across new developments
-
-Seylan Bank becomes the first Sri Lankan bank to achieve ISO 22301 certification for Business Continuity with an extended scope
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/9bc9e81d.json)
 
 ---

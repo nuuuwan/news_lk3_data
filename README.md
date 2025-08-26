@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 13:31:54**
+As of **2025-08-26 13:51:56**
 
 ## Newspaper Stats
 
-*Scraped **72,427** Articles*
+*Scraped **72,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,85 @@ newsfirstlk | 363
 dbsjeyarajcom | 614
 bbccomsinhala | 677
 colombotelegraphcom | 742
-economynextcom | 4,420
+economynextcom | 4,428
 islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
-adalk | 6,959
+adalk | 6,960
 adaderanalk | 9,170
-tamilmirrorlk | 10,729
+tamilmirrorlk | 10,730
 virakesarilk | 11,918
-adaderanasinhalalk | 12,542
+adaderanasinhalalk | 12,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.6%) of 72,427 articles have been extended.
+61,973 (85.6%) of 72,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### Making public policy work for women: Lessons from Sri Lanka’s Covid-19 response
+
+*2025-08-26 13:30:00* · [`economynextcom`](https://economynext.com/making-public-policy-work-for-women-lessons-from-sri-lankas-covid-19-response-238320/) · `en`
+
+The COVID-19 pandemic revealed critical gaps in how policies are made and who they serve. Women face distinct challenges that are too often ignored in national responses. To build resilient and equitable public health systems, we must start by listening to women, valuing their experiences, and including them meaningfully in policymaking. True gender-responsive policymaking is not just about fairness, it’s about designing smarter, more inclusive policies that work for everyone.
+
+One night during the pandemic, Nishanthi, a garment factory worker living in a boarding house in Katunayake, was suddenly told by military officers to pack her belongings and leave with the other women. There were 54 of them in the boarding house.
+
+...
+
+[Data](articles/e6437844.json)
+
+---
+
+### කොළඹ මාර්ග කිහිපයක් දැඩි රථවාහන තදබදයක්
+
+*2025-08-26 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213809) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් විපක්ෂය විසින් සිදුකරනු ලබන විරෝධතාවක් හේතුවෙන් කොළඹ මාර්ග රැසක් කොළඹ මාර්ග රැසක මාර්ග තදබදයක් හටගෙන තිබේ.
+
+ඒ අනුව කොළඹ කොටුව සිට ලේක්හවුස් වටරවුම, කොම්පඤ්ඥවීදීය ඇතුළු මාර්ග රැසක දැඩි රථවාහන තදබදයක් හටගෙන ඇතැයි අප වාර්තාකරුවන් පැවසීය.
+
+◼️
+
+[Data](articles/e0b4cd1a.json)
+
+---
+
+### கோட்டை நீதிமன்ற வளாகத்தில் பதற்றம்
+
+*2025-08-26 13:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதிமன்ற-வளாகத்தில்-பதற்றம்/175-363523) · `ta`
+
+கோட்டை, நீதவான் நீதிமன்றத்தில்  முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிராக வழக்கு, இன்னும் சொற்பநேரத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட உள்ள நிலையில், எதிர்க்கட்சிகளின் ஆதரவாளர்கள், பாராளுமன்ற உறுப்பினர்கள் கடுமையான எதிர்ப்பு நடவடிக்கைகளில் ஈடுபட்டுள்ளனர். இதனால், நீதிமன்ற வளாகத்தில் பதற்றமான நிலை ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/98232229.json)
+
+---
+
+### විපක්ෂයේ විරෝධයෙන් උණුසුම් තත්ත්වයක් - ජල ප්‍රහාරක රථ සීරුවෙන්
+
+*2025-08-26 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213808) · `si`
+
+කොටුව මහෙස්ත්‍රාත් අධිකරණය ආසන්නයේ මේ වන විට උණුසුම් තත්ත්වයක් හට ගෙන තිබේ.
+
+ඒ විපක්ෂයේ පක්ෂ සාමාජිකයින් විසින් "මර්දනයට එරෙහිව" නමින් ආරම්භ කර ඇති විරෝධතාවය හේතුවෙනි.
+
+අධිකරණ භූමිය දෙසට කිව් මාර්ගය මේ වනවිට ආරක්ෂ අංශ විසින් වසා දමා ඇති අතර, සීමිත පිරිසකට පමණක් ඉන් ඇතුළු වීමට අවසර හිමිව තිබේ.
+
+කෙසේවෙතත් මේ වනවිට අධිකරණ භූමියට ඇතුළු වන බැරැක්ක මාවත දෙසට විපක්ෂයේ විරෝධතාකරුවන් පොලිස් මාර්ග බාධක බිඳ දමා ඇතුළු වීමට උත්සාහ කරන අයුරු 'අද දෙරණ' කැමරාවේ සටහන්ව තිබුණි.
+
+මේ අතර, පොලිස් ජල ප්‍රහාරක රථ, කැරලි මර්දන ඒකකයේ භට පිරිස්, පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් සීරුවෙන් තබා ඇති අයුරුද දක්නට ලැබේ.
+
+◼️
+
+[Data](articles/ef7d5653.json)
+
+---
 
 ### அம்பானி மகனின் வனவிலங்குப் பூங்கா மீது நீதிமன்ற விசாரணை
 
@@ -82,6 +142,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ආයුර්වේද, සිද්ධ සහ යුනානි වෛද්‍ය උපාධිධාරීන් 160ක් සීමාවාසික පුහුණුවට
+
+*2025-08-26 12:48:14* · [`adalk`](https://www.ada.lk/breaking_news/ආයුර්වේද--සිද්ධ-සහ-යුනානි-වෛද්‍ය-උපාධිධාරීන්-160ක්-සීමාවාසික-පුහුණුවට/11-418075) · `si`
+
+බටහිර, ආයුර්වේද, සිද්ධ, යුනානි ඇතුළු ව සමස්ත සෞඛ්‍ය පද්ධතිය වර්තමානයේ දී මෙහෙයවනු ලබන්නේ පුරවැසියා කේන්ද්‍ර කරගත් සෞඛ්‍ය පද්ධතියක් ගොඩනැගීමට  බවත්, වත්මන් රජය පුරවැසියාගේ සෞඛ්‍ය ආරක්ෂණය, ප්‍රතිකාර ඇතුළු සෞඛ්‍ය වගකීම භාරගන්නා බවත්, පුරවැසියාට කැමති නම් ප්‍රතිකාර ගන්නා ක්‍රමය වෙනුවට, පුරවැසියා වෙනුවෙන් වග වන සේවාවක්  බවට සෞඛ්‍ය සේවාව පත්කළ යුතු බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කරයි.
+
+අමාත්‍යවරයා මේ බව අවධාරණය කර සිටියේ ආයුර්වේද, සිද්ධ සහ යුනානි වෛද්‍ය උපාධිධාරීන් 160 දෙනෙකු සඳහා සීමාවාසික පුහුණු පත්වීම් ලිපි ප්‍රදානය කිරීමේ උත්සව අවස්ථාවට ප්‍රධාන ආරාධිත අමුත්තා ලෙස එක්වෙමින් ය. පත්වීම් ලිපි ප්‍රදානය කිරීම පසුගිය දා  මහරගම, නාවින්න බණ්ඩාරනායක අනුස්මරණ ආයුර්වේද පර්යේෂණායතන  ග්‍රවණාගාරයේ දී පැවැත්විණි.
+
+...
+
+[Data](articles/b966bab2.json)
+
+---
+
 ### “சர்வதேச நீதியைத் தான் தமிழர்கள் கோருகிறார்கள்”
 
 *2025-08-26 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-நீதியைத்-தான்-தமிழர்கள்-கோருகிறார்கள்/175-363519) · `ta`
@@ -117,6 +191,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/deaa943f.json)
+
+---
+
+### Sri Lanka former president likely to face bail hearing via Zoom: Prison spokesman
+
+*2025-08-26 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-president-likely-to-face-bail-hearing-via-zoom-prison-spokesman-238337/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former president Ranil Wickremesinghe is likely to be kept in hospital and face his bail hearing online via Zoom, Prison spokesman Jagath Weerasinghe told a private media channel.
+
+“The doctors’ recommendation is that because he has complications he cannot be produced in court physically,” Weerasinghe told Derana TV.
+
+“Most likely [bo-ho du-ra-ta], if the magistrate orders us, we are prepared to present him via Zoom technology for the hearing.”
+
+Former President Wickremesinghe, who was admitted to the Intensive Care Unit of the National hospital is due to appear in Court at 1 pm today.
+
+Wickremesinghe, who is suffering from type 2 diabetes and a heart condition was admitted to hospital on Saturday following complications from dehydration, after a long drawn out questioning, arrest and bail hearing on Friday.
+
+He was arrested over alleged mis-use of public property during a stop-over in London while returning from the UN General Assembly in the US. (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/2dfdcd9c.json)
 
 ---
 
@@ -350,6 +446,22 @@ It was also one of the venues of pre-wedding celebrations of Anant last year, th
 
 ---
 
+### US congressional staff team visits Sri Lanka to ‘grow ties’
+
+*2025-08-26 11:17:00* · [`economynextcom`](https://economynext.com/us-congressional-staff-team-visits-sri-lanka-to-grow-ties-238330/) · `en`
+
+ECONOMYNEXT – A bipartisan congressional staff delegation from the United States is visiting Sri Lanka looking at ways to grow ties in governance, trade, and security, the US ambassador said.
+
+“As part of ongoing cooperation, they’ll meet with parliamentarians, civil society, & senior government officials to share ideas on strengthening how our democracies work together,” US ambassador Julie Chung said.
+
+The bipartisan House Democracy Partnership works to strengthen accountable & transparent legislatures worldwide, advancing economic growth, regional security, & international cooperation, she said. (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/81f49686.json)
+
+---
+
 ### Case against ex-Minister Harin Fernando postponed until January
 
 *2025-08-26 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111861/case-against-ex-minister-harin-fernando-postponed-until-january) · `en`
@@ -539,6 +651,26 @@ Former President Wickremesinghe is currently receiving treatment at the Intensiv
 ◼️
 
 [Data](articles/3b065a07.json)
+
+---
+
+### US consumer spending slows as tariffs raise inflation: Fitch
+
+*2025-08-26 10:32:00* · [`economynextcom`](https://economynext.com/us-consumer-spending-slows-as-tariffs-raise-inflation-fitch-238316/) · `en`
+
+ECONOMYNEXT – American consumer spending slowed in the first half of 2025, as increased trade policy uncertainty around tariffs led to lower household spending, according to Fitch Ratings’ latest US Consumer Health Monitor.
+
+“As tariff-related cost pass-throughs to goods increase inflationary pressure, the economy could take a stagflationary turn later this year,” said Olu Sonola, Head of US Economic Research, Fitch Ratings.
+
+A cooling labor market will also likely limit further gains in consumer confidence, the ratings agency said.
+
+America is Sri Lanka’s largest export market, particularly for apparel.
+
+U.S. Consumer Spending Slows Sharply as Labor Market Weakens, Tariffs Raise Inflation
+
+...
+
+[Data](articles/e4712717.json)
 
 ---
 
@@ -801,6 +933,32 @@ The case against the former President — who was arrested by the Criminal Inves
 ...
 
 [Data](articles/f70d2695.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields edge up
+
+*2025-08-26 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-238302/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.23/40 to the US dollar in the spot market Tuesday, weaker from 302.25/35 the previous day, while bond yields edged up, dealers said.
+
+A bond maturing on 15.09.2027 was quoted at 8.58/63 percent, up from 8.55/60 percent.
+
+A bond maturing on 15.12.2028 was quoted flat at 8.95/9.00 percent.
+
+A bond maturing on 15.12.2029 was quoted flat at 9.43/46 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.27/33 percent, up from 10.25/32 percent.
+
+The Colombo Stocks Exchange was trading flat: The ASPI was up 0.02 percent, or 4.33 points, at 20,579.92; the S&P SL20 was down 0.33 percent, or 0.01 points, at 6,042.18.
+
+The telegraphic transfer rates for the American dollar was 298.7500 buying, 305.7500 selling; the British pound was 401.6523 buying, and 412.9941 selling, and the euro was 345.7568 buying, 356.9620 selling.
+
+Rs. 82,000 million Treasury bills are to be issued through an auction on 27th August. (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/8edb0cd2.json)
 
 ---
 
@@ -1352,6 +1510,28 @@ to reevaluate one’s principles as to who should be held accountable and who sh
 
 ---
 
+### Sri Lanka to stretch main airport night hub peak to cut congestion
+
+*2025-08-26 06:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-stretch-main-airport-night-hub-peak-to-cut-congestion-238285/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main airport in the capital Colombo planning to stretch a peak in aircraft landings in the late night to reduce congestion, Deputy Minister of Tourism Ruwan Ranasinghe said.
+
+Earlier this month the Airport and Aviation Services, which manages the Bandaranaike International Airport stopped visitors coming to the departure section between the hours of 2200 and 2400 to reduce congestion inside the terminal.
+
+Airports have so-called hub peaks where aircraft converge within a short time. Hub peaks allow passengers, such as those arriving from India to transit onto other aircraft with a minimum waiting time.
+
+“The arrivals scheduled within a short time,” Deputy Minister Ruwan Ranasinghe explained. “We have a large number of landings within four hours. We are stretching it to about six hours.”
+
+The arrivals led to congestion at immigration was contributing to the delay.
+
+“We have increased the number of immigration counters,” he said. “Recruitment are also going on.”
+
+...
+
+[Data](articles/c61dfcc2.json)
+
+---
+
 ### හිටපු ජනපති රනිල්ට එරෙහි නඩුව අද
 
 *2025-08-26 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213788) · `si`
@@ -1401,6 +1581,24 @@ The key question is whether state officials are entitled to use public funds for
 ...
 
 [Data](articles/288b6769.json)
+
+---
+
+### Doctors to decide Sri Lanka ex-President Wickremesinghe’s court appearance
+
+*2025-08-26 06:00:00* · [`economynextcom`](https://economynext.com/doctors-to-decide-sri-lanka-ex-president-wickremesinghes-court-appearance-238294/) · `en`
+
+ECONOMYNEXT – Doctors will decide whether ex-President Ranil Wickremesinghe, who was admitted to the Intensive Care Unit of the National hospital is in a condition to appear in Court on today, a hospital official has said.
+
+A team of specialists had recommended that Wickremesinghe be kept in the ICU under close supervision up up to then, acting director of the National Hospital Pradeep Wijesinghe said on Monday.
+
+Wickremesinghe, who is suffering from type 2 diabetes and a heart condition was admittted to hospital following complications from dehydration.
+
+Wickremesinghe was arrested over alledged mis-use of public property, during a stop-over in London while returning from the UN General Assembly in the US. (Colombo/Aug25/2025)
+
+◼️
+
+[Data](articles/f823fb5c.json)
 
 ---
 
@@ -1587,181 +1785,5 @@ This meeting underscored the importance of continued cooperation between securit
 ◼️
 
 [Data](articles/946a5322.json)
-
----
-
-### செம்மணி அகழ்வுப் பணி மீள ஆரம்பனது
-
-*2025-08-26 03:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-அகழ்வுப்-பணி-மீள-ஆரம்பனது/175-363487) · `ta`
-
-யாழ். செம்மணி மனிதப் புதைகுழியில் இடைநிறுத்தப்பட்ட இரண்டாம் கட்ட அகழ்வுப் பணி நேற்று மீண்டும் ஆரம்பமானது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியின் அகழ்வுப் பணிகள் கடந்த ஓகஸ்ட் 6ஆம் திகதி முதல் இடைநிறுத்தப்பட்டன.
-
-◼️
-
-[Data](articles/f8f633b0.json)
-
----
-
-### India bans all forms of paid online games
-
-*2025-08-26 03:49:17* · [`dailyftlk`](https://www.ft.lk/news/India-bans-all-forms-of-paid-online-games/56-780782) · `en`
-
-The Indian Parliament has passed the Promotion and Regulation of Online Gaming Bill, 2025, which bans all forms of paid online games such as fantasy sports, rummy, and poker. Following the passing of the Bill, several gaming platforms announced suspension of their paid offerings.
-
-WinZO said: “In compliance with the new law, we are responsibly withdrawing impacted offerings with effect from 22 August 2025.” The company added that it does not plan to downsize its workforce and will redeploy employees towards other focus areas, such as social gaming.
-
-Mobile Premier League (MPL) also announced the suspension of money-based games. In a LinkedIn post, it said: “Effective immediately [Thursday], we are suspending all gaming offerings involving money on the MPL platform in India. Online money games will not be available on the MPL platform anymore.”
-
-Dream11 too has announced that it will shut down operations in the wake of the ban.
-
-...
-
-[Data](articles/d1d8612c.json)
-
----
-
-### மட்டு. களுவங்கேணியில் சிஜடி கைது செய்த இனிய பாரதியின் சகா 7 மணி நேர விசாரணையின் பின் விடுவிப்பு
-
-*2025-08-26 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/223365) · `ta`
-
-சிஜடி யினரால் 25ஆம் திகதி திங்கட்கிழமை கைது செய்யப்பட்ட இனிய பாரதியின் சகாவான மட்டு களுவங்கேணியைச் சேர்ந்த பாலசுந்தரம் என்பவரை சுமார் 7 மணித்தியால விசாரணையின் பின்னர் சிஐடியினர் விடுதலை செய்துள்ளதாக கைது செய்யப்பட்டவரின் உறவினர்கள் தெரிவித்தனர்.
-
-இனிய பாரதியின் சகாவாக செயற்பட்டிருந்த குறித்த நபரை சம்பவ தினமான திங்கட்கிழமை (25) பகல் களுவங்கேணியிலுள்ள அவரது வீட்டில் வைத்து கொழும்பில் இருந்து சென்ற சிஜடி யினர் கைது செய்தனர் இதனையடுத்து அவரை கொண்டு சென்று சுமார் 7 மணித்தியால தொடர் விசாரணையின் பின்னர் இரவு 9.00 மணிக்கு விடுவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/cdd1b317.json)
-
----
-
-### இராணுவ முகாம்களை அகற்றக்கோரி ஆர்ப்பாட்டம்
-
-*2025-08-26 03:18:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாம்களை-அகற்றக்கோரி-ஆர்ப்பாட்டம்/175-363486) · `ta`
-
-யாழ். பருத்தித்துறை நகரசபை எல்லைக்குள் காணப்படும் இராணுவ முகாம்களை அகற்றுமாறு வலியுறுத்தி பருத்தித்துறையில் நேற்று (25) ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
-
-'பருத்தித்துறை நகரை பாதுகாப்போம்' என்ற தொனிப்பொருளில் பருத்தித்துதறை நகரில் உள்ள சில இராணுவ முகாம்களை அகற்ற வலியுறுத்தி பருத்தித்துறை நகர பிதா டக்ளஸ் போல் தலைமையில் நேற்று கவனயீர்ப்பு ஆர்ப்பாட்டம் மற்றும் பேரணி இடம்பெற்றுள்ளது.
-
-பருத்தித்துறை துறைமுகப்பகுதியில் அமைந்துள் இராணுவ முகாம், வெளிச்சவீட்டை ஆக்கிரமித்து அமைந்துள்ள கடற்படை முகாம் என்பன போருக்கு பின்னரான நகரின் வளர்ச்சிக்கு பாரிய தடைக்கல்லாக உள்ளது.
-
-பருத்தித்துறை நகரின் வளர்ச்சி கருதியும் பருத்தித்துறை வாழ் மக்களின் நன்மைகருதியும் மேகுறித்த இராணுவ, கடற்படை முகாம்களை அகற்றித்தருமாறு வலியுறுத்தி குறித்த கவனயீர்ப்பு ஆர்ப்பாட்டம் மற்றும் பேரணி இட்ம்பெற்றுள்ளது. (a)
-
-◼️
-
-[Data](articles/2459354b.json)
-
----
-
-### NCE strengthens regional trade ties with India through strategic partnership
-
-*2025-08-26 03:12:25* · [`dailyftlk`](https://www.ft.lk/business/NCE-strengthens-regional-trade-ties-with-India-through-strategic-partnership/34-780770) · `en`
-
-Says Indo-Lanka FTA facilitates greater trade volumes, encourages cross-border investments
-
-The National Chamber of Exporters of Sri Lanka (NCE) has said it has entered into a partnership with the Federation of Indian Export Organisations (FIEO), marking a significant step toward strengthening bilateral trade and expanding export opportunities for Sri Lankan businesses.
-
-Recognising the importance of closer regional collaboration, the NCE signed a Memorandum of Understanding (MoU) with FIEO, opening doors for enhanced cooperation between Sri Lankan and Indian exporters. This partnership is expected to create new opportunities for trade, knowledge-sharing, and capacity building, while also enhancing the international competitiveness of exporters in both countries, the chamber said in a statement.
-
-...
-
-[Data](articles/28a72160.json)
-
----
-
-### Exporters’ Association of Sri Lanka holds 28th AGM
-
-*2025-08-26 03:11:01* · [`dailyftlk`](https://www.ft.lk/business/Exporters-Association-of-Sri-Lanka-holds-28th-AGM/34-780769) · `en`
-
-The Exporters’ Association of Sri Lanka (EASL) held its 28th Annual General Meeting with European Union to Sri Lanka and the Maldives Ambassador Carmen Moreno as Chief Guest.
-
-The EU Ambassador emphasised the vital importance of compliance, sustainability, and regional integration, highlighting how these factors offer small and medium-sized enterprises a competitive edge, support sustainable sourcing, and strengthen connectivity in Asia and Africa. She also underscored EU efforts to support climate action, innovation, and fair-trade practices in alignment with evolving consumer demands and the CBAM (Carbon Border Adjustment Mechanism) framework.
-
-Yohan Lawrence was re-elected as Chairman, with Rozanne de Almeida and Nalaka Ratnayake continuing as Vice Chairpersons.
-
-Lawrence said: “Sri Lanka needs to widen our trade beyond our traditional markets, seeking better sources of raw materials for our manufacturing enterprises, and a greater presence for both our goods and our service exporters.”
-
-...
-
-[Data](articles/65e8e19b.json)
-
----
-
-### எதிர்க்கட்சிகளை அச்சுறுத்தவே ரணில் கைது : சட்டத்தில் பதிலளிக்க நேரிடும் - ஜி.எல்.பீரிஸ்
-
-*2025-08-26 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223364) · `ta`
-
-அரசாங்கத்தை விமர்சிக்கும் எதிர்க்கட்சிகளை அச்சமடைய செய்வதற்காகவே முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டார்.கைது செய்வதற்குரிய நியாயமான காரணிகள் ஏதும் இருக்கவில்லை. இந்த கைதுக்கு அரசாங்கம் நிச்சயம் சட்டத்தின் ஊடாக பதிலளிக்க நேரிடும் என முன்னாள் வெளிவிவகாரத்துறை அமைச்சர் பேராசிரியர் ஜி.எல்.பீரிஸ் தெரிவித்தார்.
-
-நீதிமன்ற செயற்பாடுகளுக்கு இடமளிக்க வேண்டும். சட்டத்தின் முன் அனைவரும் சமமாக நடத்தப்பட வேண்டும் என்பதில் எவ்வித மாற்றுக்கருத்தும் கிடையாது.முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் மீதான குற்றச்சாட்டுக்கள் முறையாக விசாரிக்கப்பட வேண்டும்.
-
-முறையான காரணிகளை அடிப்படையாகக் கொண்டு முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்படவில்லை.நிறைவேற்றுத்துறையின் ஒரு பகுதியாக செயற்படும் பொலிஸாரின் பிரதான நோக்கம் ரணில் விக்கிரமசிங்கவை கைது செய்வதாகவே அமைந்தது.
-
-...
-
-[Data](articles/3ec51572.json)
-
----
-
-### மன்னாரில் 23 வது நாளாக  தொடரும் போராட்டம் : ஏராளமான பெண்கள் கலந்து கொண்டு ஆதரவு!
-
-*2025-08-26 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223363) · `ta`
-
-மன்னாரில் காற்றாலை கோபுரங்கள் அமைத்தல் மற்றும் கனிய மணல் அகழ்வு ஆகியவற்றுக்கு எதிராக முன்னெடுக்கப்பட்டு வரும் கவனயீர்ப்பு போராட்டம் திங்கட்கிழமை (25) 23 வது நாளாகவும் சுழற்சி முறையில் முன்னெடுக்கப்பட்டு வருகின்ற நிலையில் குறித்த போராட்டத்திற்கு ஆதரவு தெரிவிக்கும் வகையில் இசைமாலை தாழ்வு கிராமத்தைச் சேர்ந்த பெண்கள் ஒன்று திறண்டு ஆதரவை வழங்கியுள்ளனர்.
-
-25ஆம் திகதி திங்கட்கிழமை காலை மன்னார் நகர சுற்றுவட்ட பகுதியில் இடம் பெற்று வருகின்ற போராட்டத்திற்கு ஆதரவு வழங்கும் வகையில் இசைமாலை தாழ்வு கிராம பெண்கள் அமைப்பு  உள்ளடங்களாக இசைமாலை தாழ்வு கிராமத்தை சேர்ந்த அனேகமானோர் வருகை தந்து கலந்து கொண்டு தமது எதிர்ப்பையும் வெளிப்படுத்தினர்.
-
-மன்னார் மக்கள் மற்றும் இளையோர் ஒன்றிணைந்து முன்னெடுத்து வருகின்ற போராட்டம் இன்றைய தினம் திங்கட்கிழமை 23 ஆவது நாளாகவும் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருகின்றது.
-
-போராட்டத்தில் ஈடுபட்ட மக்கள் பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளை ஏந்தியவாறு கோஷங்களை எழுப்பி போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
-
-...
-
-[Data](articles/748da153.json)
-
----
-
-### அரசியல் செல்வாக்கின்றி நியமனம் : கடமைகளைச் சிறப்பாகச் செய்யும் சூழல் உருவானது - பொலிஸ் மாஅதிபர் பிரியந்த வீரசூரிய
-
-*2025-08-26 03:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/223362) · `ta`
-
-எந்தவொரு அரசியல் செல்வாக்குமின்றி பொலிஸ் மாஅதிபராக நியமிக்கப்பட்டமை குறித்துத் தான் மகிழ்ச்சியடைவதாகவும், அது தனது உத்தியோகபூர்வ கடமைகளைச் சிறப்பாகச் செய்வதற்குச் சாதகமான சூழலை உருவாக்கும் என்றும் பொலிஸ் மாஅதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய சபாநாயகரிடம் தெரிவித்தார்.
-
-பொலிஸ் மாஅதிபர் (சட்டத்தரணி) பிரியந்த வீரசூரிய, சபாநாயகர் (வைத்தியர்) ஜகத் விக்கிரமரத்னவை அண்மையில் பாராளுமன்ற கட்டிடத்தொகுதியில் சந்தித்தார்.இதன்போது சபாநாயகர் பொலிஸ் மா அதிபர் அதிபருக்குத் தனது வாழ்த்துக்களைத் தெரிவித்தார்.
-
-அரசியலமைப்புப் பேரவையின் ஒருமித்த தீர்மானத்திற்கு அமைய, முழுமையான வெளிப்படைத் தன்மையுடனும் இந்த நியமனம் இடம்பெற்றிருப்பதாக சபாநாயகர் இதன்போது  குறிப்பிட்டார்.
-
-இதன்போது கருத்து தெரிவித்த  பொலிஸ் மாஅதிபர் (சட்டத்தரணி) பிரியந்த வீரசூரிய, எந்தவொரு அரசியல் செல்வாக்கும் இன்றி பொலிஸ்  மாஅதிபராக நியமிக்கப்பட்டமை குறித்துத் தான் மகிழ்ச்சியடைவதாகவும், அது தனது உத்தியோகபூர்வ கடமைகளைச் சிறப்பாகச் செய்வதற்குச் சாதகமான சூழலை உருவாக்கும் என்றும் தெரிவித்தார்.
-
-...
-
-[Data](articles/de9d4bc5.json)
-
----
-
-### Milk is a basic need, though a luxury at present but meticulous supply chain can curb price
-
-*2025-08-26 02:32:35* · [`dailyftlk`](https://www.ft.lk/columns/Milk-is-a-basic-need-though-a-luxury-at-present-but-meticulous-supply-chain-can-curb-price/4-780763) · `en`
-
-Milk price is exorbitantly higher in Sri Lanka when comparing to the countries of the world. Sri Lanka shows the highest price gap for milk with the farm gate price and the retail price, as of now the farm gate price of a litre of milk is Rs. 200 while the retail price is up to Rs. 550 in a Tetra pack and a plastic one litre bottle is Rs. 480 further, 900 millilitre in polythene pack is Rs. 380. This is what the problem that the analyses should be. This is a problem of the logistics/supply chain. The basic theory of the supply chain is; the supplier, the manufacturer and the market must have been in the range of reasonable distance. If I elaborate the theory more with an example; “Supplier is in Jaffna, factory is at Digana (Kandy) and again the market is in Jaffna”. This is one of the real situation theory that can observe in the country in order to elaborate the wrong and long logistic model.
-
-...
-
-[Data](articles/2d771501.json)
-
----
-
-### Lanka IOC appoints  new Chairman, Directors
-
-*2025-08-26 01:24:51* · [`dailyftlk`](https://www.ft.lk/business/Lanka-IOC-appoints-new-Chairman-Directors/34-780755) · `en`
-
-Lanka IOC PLC (LIOC) yesterday announced the appointment of Anuj Jain as Chairman of the Board. The company also appointed Saumitra P. Srivastava and Rajesh Singh as Non-Executive Directors.
-
-In a stock exchange filing LIOC said Jain is presently on the Board of Indian Oil Corporation Ltd., a Fortune 500 Indian oil and gas major, as the Director (Finance), and is the CFO of the company. He is a Chartered Accountant and also holds master’s in Business Finance from The Institute of Chartered Accountants of India.
-
-...
-
-[Data](articles/9b7c9c58.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-26 14:36:54**
+As of **2025-08-26 14:50:39**
 
 ## Newspaper Stats
 
-*Scraped **72,451** Articles*
+*Scraped **72,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,454
 dailymirrorlk | 4,733
 dailyftlk | 5,106
 adalk | 6,963
-adaderanalk | 9,170
-tamilmirrorlk | 10,735
-virakesarilk | 11,918
+adaderanalk | 9,175
+tamilmirrorlk | 10,737
+virakesarilk | 11,920
 adaderanasinhalalk | 12,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.5%) of 72,451 articles have been extended.
+61,973 (85.5%) of 72,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-26 (Tuesday)
+
+### ’வந்தாரா’  விவகாரம்: முகேஷ் அம்பானியின் மகனுக்கு  சிக்கல்
+
+*2025-08-26 14:31:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வந்தாரா-விவகாரம்-முகேஷ்-அம்பானியின்-மகனுக்கு-சிக்கல்/175-363530) · `ta`
+
+இந்திய தொழிலதிபர் முகேஷ் அம்பானியின் மகன் ஆனந்த் அம்பானி தலைமையில் ரிலையன்ஸ் அறக்கட்டளையின் 'வந்தாரா' விலங்கு மீட்பு மற்றும் மறுவாழ்வு மையம் செயல்பட்டு வருகிறது.
+
+இந்த மையம் குஜராத்தின் ரிலையன்ஸ் ஜாம்நகர் வளாகத்தில் 3000 ஏக்கர் பரப்பளவில் பறந்து விரிந்துள்ளது. 2024 இல் பிரதமர் மோடி இந்த மையத்தை திறந்து வைத்தார். இதுவே உலகின் மிகப்பெரிய தனியார் உயிரியல் பூங்கா என கருதப்படுகிறது.
+
+இங்கு சிங்கங்கள், சிறுத்தைகள், யானைகள், காண்டாமிருகங்கள் மற்றும் முதலைகள் என 43 வகையான இனத்தைச் சேர்ந்த 2000க்கும் மேற்பட்ட வனவிலங்குகள் உள்ளது.
+
+இங்குள்ள விலங்குகள் குறிப்பாக யானைகள் சட்டவிரோதமாக உள்நாடு மற்றும் வெளிநாடுகளில் இருந்து கடத்திக் கொண்டுவரப்பட்டவை என்று பரவலாக குற்றசாட்டு எழுந்தது. விலங்குகள் நல அமைப்புகள், ஆர்வலர்கள் தரப்பில் இந்த குற்றச்சாட்டு முன்வைக்கப்பட்டது.
+
+இதுதொடர்பாக வழக்கறிஞர் சி.ஆர்.ஜெயா சுகின் உச்சநீதிமன்றத்தில் பொதுநல மனு தாக்கல் செய்தார். மனுவில் வந்தாரா மையத்தின் செயல்பாடுகள் குறித்து சுகின் பல குற்றச்சாட்டுகளை முன்வைத்திருந்தார்.
+
+...
+
+[Data](articles/e2da677e.json)
+
+---
+
+### நீதிமன்ற வளாகத்தில் பதற்றம்: நீர்தாரை இயந்திரம் தயார்
+
+*2025-08-26 14:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்ற-வளாகத்தில்-பதற்றம்-நீர்தாரை-இயந்திரம்-தயார்/175-363529) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிராக தாக்கல் செய்யப்பட்ட நிதி முறைகேடு தொடர்பான வழக்கு, ரணில் விக்கிரமசிங்க இன்றி, கோட்டை நீதவான் நீதிமன்றத்தில் விசாரணைக்கு உட்படுத்தப்பட்டு வருகிறது.
+
+வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டுள்ள அறையில், ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக 500 க்கும் மேற்பட்ட சட்டத்தரணிகள் ஆஜராகியுள்ளனர்.
+
+நீதிமன்ற வளாகத்திலும் பொதுமக்கள் வந்து கூடிக்கொண்டிருக்கின்றனர். இந்நிலையில், ஏதாவது அசாதாரண நிலை ஏற்படுமாயின், அதனை தடுப்பதற்காக பொலிஸ் நீர்த்தாரை பிரயோக  வாகனம் தயார் நிலையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d9edfab3.json)
+
+---
 
 ### රනිල් වෙනුවෙන් නීතිඥ මණ්ඩලයක් - නීතිපති දෙපාර්තමේන්තුව ඇප දීමට විරුද්ධ වෙයි
 
@@ -134,6 +170,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ரணிலின் வழக்கு விசாரணை ஆரம்பம்
+
+*2025-08-26 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223404) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மீதான நீதிமன்ற விசாரணை சற்று முன்னர் கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் ஆரம்பமானது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கே சாரிபில் ஜனாதிபதி சட்டதரணிகளான திலக் மாரப்பன, அனுஜா பிரேமரத்ன, உப்புல் ஜயசூரிய மற்றும் அலி சப்ரி ஆகியோர் ஆஜராகின்றனர்.
+
+◼️
+
+[Data](articles/0927f387.json)
+
+---
+
 ### முதலாவது பெண் பதிவாளர் நாயகம் நியமிப்பு
 
 *2025-08-26 13:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/முதலாவது-பெண்-பதிவாளர்-நாயகம்-நியமிப்பு/75-363525) · `ta`
@@ -143,6 +193,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c9bfce27.json)
+
+---
+
+### Hearing of case against ex-President Ranil underway at Fort Magistrate’s Court
+
+*2025-08-26 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111867/hearing-of-case-against-ex-president-ranil-underway-at-fort-magistrates-court) · `en`
+
+The hearing of the case filed against former President Ranil Wickremesinghe, who was arrested and remanded over the alleged misuse of state funds, commenced at the Colombo Fort Magistrate”s Court, a short while ago, Ada Derana reporter said.
+
+Meanwhile, former President Ranil Wickremesinghe has not been produced in court for the hearing of the case filed against him under the Public Property Act.
+
+Earlier today, Prisons media spokesperson Jagath Weerasinghe said the former President is unlikely to be produced before court today, due to medical recommendations stating that he must continue to remain under observation in the Intensive Care Unit (ICU).
+
+He further stated that if the Magistrate issues an order for Wickremesinghe to be presented via Zoom for legal proceedings, necessary arrangements can be made accordingly.
+
+...
+
+[Data](articles/105c4baf.json)
 
 ---
 
@@ -175,6 +243,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7c355b01.json)
+
+---
+
+### Heavy traffic congestion in Colombo 2, Opposition protest march “Against Repression” underway
+
+*2025-08-26 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111866/heavy-traffic-congestion-in-colombo-2-opposition-protest-march-against-repression-underway) · `en`
+
+Heavy traffic congestion has been reported along several roads near the Colombo Fort Magistrate’s Court premises due to a protest march.
+
+According to Ada Derana reporter, several leaders of political parties have joined the protest march themed “Against Repression.”
+
+This has been organized to show solidarity to former President Ranil Wickremesinghe who has been held in remand custody and to show displeasure over the actions of the present government.
+
+Accordingly, the movement of traffic along several roads in Slave Island and Colombo Fort have been restricted.
+
+Meanwhile, the road leading to the Colombo Fort Magistrate’s Court premises has currently been cordoned off by security forces, and only a limited number of individuals are being allowed to enter.
+
+However, Ada Derana cameras captured footage showing opposition protestors attempting to break through police barricades on Barracks Lane in an effort to enter the court premises.
+
+...
+
+[Data](articles/b009e324.json)
 
 ---
 
@@ -242,6 +332,18 @@ One night during the pandemic, Nishanthi, a garment factory worker living in a b
 
 ---
 
+### ஜே.வி.பிக்கு சீன கம்யூனிஸ்ட் கட்சியின் ஆலோசனை
+
+*2025-08-26 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223401) · `ta`
+
+" நிக்கோலஸ் லார்டி போன்ற பொருளாதார வல்லுநர்கள் குறிப்பிட்டது போல், மில்லியன் கணக்கான மக்களை வறுமையிலிருந்து மீட்டது உலகமயமாக்கல் தான், ஒற்றைக்கட்சி ஒடுக்குமுறை அல்ல. எனவே, சீனாவின் சர்வாதிகார மாதிரி, வளர்ச்சியின் இயந்திரமாக இருந்ததில்லை. மாறாக, முறையான உரிமை மீறல்கள், ஊழல், மற்றும் சுற்றுச்சூழல் சீரழிவு ஆகியவற்றை செயல்படுத்தும் கட்டமைப்பாகவே இருந்துள்ளது என்றார். இவ்வாறானதொரு நிலையில் இலங்கை எதிர்கொள்ளும் கேள்வி மிகவும் தீவிரமானதொன்றகும். அதாவது, ஜே.வி.பியை தலைமைத்துவமாக கொண்ட தேசிய மக்கள் சக்தி அரசாங்கம், இந்த சர்வாதிகார மாதிரியைப் பின்பற்ற விரும்புகிறதா? "
+
+◼️
+
+[Data](articles/2bc3ab09.json)
+
+---
+
 ### அம்பானி மகனின் வனவிலங்குப் பூங்கா மீது நீதிமன்ற விசாரணை
 
 *2025-08-26 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223400) · `ta`
@@ -259,6 +361,28 @@ One night during the pandemic, Nishanthi, a garment factory worker living in a b
 ...
 
 [Data](articles/05b20cdd.json)
+
+---
+
+### 1 in 4 people lack access to safe drinking water: UN
+
+*2025-08-26 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111865/1-in-4-people-lack-access-to-safe-drinking-water-un) · `en`
+
+More than two billion people worldwide still lack access to safely-managed drinking water, the United Nations said on Tuesday (Aug 26), warning that progress towards universal coverage was moving nowhere near quickly enough.
+
+The UN’s health and children’s agencies said a full one in four people globally were without access to safely-managed drinking water last year, with over 100 million people remaining reliant on drinking surface water - for example from rivers, ponds and canals.
+
+The World Health Organization and UNICEF said lagging water, sanitation and hygiene (WASH) services were leaving billions at greater risk of disease.
+
+They said in a joint study that the world remains far off track to reach a target of achieving universal coverage of such services by 2030.
+
+Instead, that goal “is increasingly out of reach”, they warned.
+
+“Water, sanitation and hygiene are not privileges: they are basic human rights,” said the WHO’s environment chief Ruediger Krech.
+
+...
+
+[Data](articles/f9c3a90a.json)
 
 ---
 
@@ -341,6 +465,42 @@ One night during the pandemic, Nishanthi, a garment factory worker living in a b
 ...
 
 [Data](articles/deaa943f.json)
+
+---
+
+### Former State Minister Shasheendra Rajapaksa further remanded
+
+*2025-08-26 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111864/former-state-minister-shasheendra-rajapaksa-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded until August 29, Ada Derana reporter said.
+
+Rajapaksa was arrested on August 6 by Bribery Commission officers at his residence in Nugegoda.
+
+He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+
+Several properties, including a building that had been illegally constructed on a plot of land belonging to the Sri Lanka Mahaweli Authority in the Sevanagala-Kiriibban Wewa area, were damaged during the public uprising that took place on May 9, 2022, the Bribery Commission stated.
+
+...
+
+[Data](articles/e6b7d6fc.json)
+
+---
+
+### Tourist arrivals in August top 166,000
+
+*2025-08-26 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111863/tourist-arrivals-in-august-top-166000) · `en`
+
+A total of 166,766 tourists have arrived in the country thus far in August, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 38,456 tourists have arrived from India which accounts to 23.1%. Furthermore, 17,418 persons from the United Kingdom, 11,459 from Italy, 10,559 from China and 10,344 German nationals have also visited Sri Lanka in the month of August.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,535,054 with the release of the latest figures for August.
+
+Among them, 317,578 individuals are from India, 148,795 from the UK and 118,371 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/cc617740.json)
 
 ---
 
@@ -1613,181 +1773,5 @@ The pre-budget discussions for 2026 was held at the Presidential Secretariat und
 ◼️
 
 [Data](articles/6c9c9736.json)
-
----
-
-### බොරලැස්ගමුවේ වෙඩි තැබීමේ වෙඩික්කරු අත්අඩංගුවට
-
-*2025-08-26 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213792) · `si`
-
-බොරලැස්ගමුව පොලිස් වසමේදී වෙඩි තබා මනුෂ්‍ය ඝාතනයක් සිදුකර තවත් පුද්ගලයෙකුට තුවාල සිදුකිරීමේ අපරාධයට සම්බන්ධ සැකකරුවෙකු හෙරොයින් සමග පොලිස් විශේෂ කාර්ය බලකා මොරටුව කඳවුරේ නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-පසුගිය 24 වනදා අළුයම් කාලයේ බොරලැස්ගමුව පොලිස් වසමේ මාලනී බුලත්සිංහල මාවතේ පා ගමනින් ගිය පුද්ගලයෙකුට ත්‍රීරෝද රථයකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් වෙඩි තබා ඝාතනය කර තවත් පුද්ගලයෙකුට තුවාල සිදුකර තිබුණි.
-
-ඒ අනුව, අපරාධය සම්බන්ධයෙන් බස්නාහිර පළාත දකුණ දිසා අපරාධ කොට්ඨාසය හා පොලිස් විශේෂ කාර්ය බලකාය මගින් විමර්ශන ආරම්භ කර තිබුණි.
-
-සිදුකල විමර්ශනයේදී අනාවරණය කරගත් තොරතුරු මත පොලිස් විශේෂ කාර්ය බලකා මොරටුව කඳවුරේ නිලධාරීන් කණ්ඩායමක් මගින් මෙම අපරාධයේ වෙඩික්කරු ලෙස ක්‍රියාකල සැකකරුව ඊයේ (25) දහවල් මහරගම පොලිස් වසමේ නාවින්න ප්‍රදේශයේදී හෙරොයින් ග්‍රෑම් 20 මිලිග්‍රෑම් 550 ක් සමග අත්අඩංගුවට ගෙන ඇත.
-
-පසුව වැඩිදුර විමර්ශන සඳහා බස්නාහිර පළාත දකුණ දිසා අපරාධ කොට්ඨාසය වෙත ඉදිරිපත් කර තිබේ.
-
-සැකකරු වයස අවුරුදු 24 ක් වන කොළඹ 13 ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-...
-
-[Data](articles/0747d14c.json)
-
----
-
-### First human case of flesh-eating screwworm parasite confirmed in US
-
-*2025-08-26 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111847/first-human-case-of-flesh-eating-screwworm-parasite-confirmed-in-us) · `en`
-
-The first human case of a flesh-eating parasite infestation has been confirmed in the US, authorities say.
-
-New World screwworm (NWS) myiasis was found in a patient who returned to the US from El Salvador, the Department of Health and Human Services said on Monday. The case was confirmed on 4 August.
-
-NWS myiasis is a parasitic infestation of fly larvae, or maggots, caused by parasitic flies.
-
-The pest primarily affects livestock, and authorities have said the risk to US public health was currently “very low”.
-
-The Centers for Disease Control and Prevention (CDC) worked with Maryland’s health department to investigate the case.
-
-HHS spokesperson Andrew Nixon said it is the first human case of travel-associated NWS myiasis from an outbreak-affected country identified in the US.
-
-The devastating pest, which feeds on live tissue, is usually found in South America and the Caribbean.
-
-...
-
-[Data](articles/18146b4a.json)
-
----
-
-### Large crowd to converge in Colombo today?
-
-*2025-08-26 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/111846/large-crowd-to-converge-in-colombo-today) · `en`
-
-All opposition parties have decided to gather in Colombo today (26), setting aside political and party differences to express solidarity with former President Ranil Wickremesinghe who is currently in remand custody after being arrested on Friday (22), Assistant Leader of the United National Party (UNP) former Minister Akila Viraj Kariyawasam stated.
-
-He made this announcement while addressing media following a special discussion held with the participation of various opposition parties.
-
-Former Minister Kariyawasam noted that the denial of bail to former President Ranil Wickremesinghe shows that even the basic bail conditions were not considered by police.
-
-He also said that the arrest of former President Ranil Wickremesinghe is a clear indication of political repression.
-
-Meanwhile, the General Secretary of the Sri Lanka Freedom Party (SLFP), Duminda Dissanayake, also addressed the gathering and emphasised that everyone who values democracy should come to Colombo today.
-
-◼️
-
-[Data](articles/80107f80.json)
-
----
-
-### Do Lankans Want Corruption Eradicated, But Not Through Ranil!?
-
-*2025-08-26 06:22:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/do-lankans-want-corruption-eradicated-but-not-through-ranil/) · `en`
-
-Corruption remains a significant challenge within Sri Lanka’s political landscape. It has eroded public trust and has fostered a culture of impunity. A weak legal framework, lack of transparency and political accountability has offered impunity to many in power. We have witnessed the extraordinary abuse of public funds by successive political entities.
-
-The current government in its bid for election, ran its campaign offering a concerted effort to enhance transparency, strengthen institutions, and promote civic engagement to foster-a political culture that prioritizes integrity and accountability.
-
-Is there psychological discomfort with the arrest of former president Ranil Wickremesinghe?
-
-to reevaluate one’s principles as to who should be held accountable and who shouldn’t?
-
-...
-
-[Data](articles/8dc3f968.json)
-
----
-
-### Sri Lanka to stretch main airport night hub peak to cut congestion
-
-*2025-08-26 06:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-stretch-main-airport-night-hub-peak-to-cut-congestion-238285/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main airport in the capital Colombo planning to stretch a peak in aircraft landings in the late night to reduce congestion, Deputy Minister of Tourism Ruwan Ranasinghe said.
-
-Earlier this month the Airport and Aviation Services, which manages the Bandaranaike International Airport stopped visitors coming to the departure section between the hours of 2200 and 2400 to reduce congestion inside the terminal.
-
-Airports have so-called hub peaks where aircraft converge within a short time. Hub peaks allow passengers, such as those arriving from India to transit onto other aircraft with a minimum waiting time.
-
-“The arrivals scheduled within a short time,” Deputy Minister Ruwan Ranasinghe explained. “We have a large number of landings within four hours. We are stretching it to about six hours.”
-
-The arrivals led to congestion at immigration was contributing to the delay.
-
-“We have increased the number of immigration counters,” he said. “Recruitment are also going on.”
-
-...
-
-[Data](articles/c61dfcc2.json)
-
----
-
-### හිටපු ජනපති රනිල්ට එරෙහි නඩුව අද
-
-*2025-08-26 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213788) · `si`
-
-රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එරෙහි නඩුව අද (26) කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ යළි කැඳවීමට නියමිතය.
-
-සිද්ධියට අදාළව පසුගිය 22 වෙනිදා අත්අඩංගුවට ගත් හිටපු ජනාධිපතිවරයා අද දිනය දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
-
-ඒ මහතාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගනිමින් එදින ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු අතර වෛද්‍ය නිර්දේශ මත ඊට පසුදින ඔහු කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කෙරුණි.
-
-ඒ අනුව මේ වන විට හිටපු ජනාධිපතිවරයා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන අතර ඔහු අද දිනයේ අධිකරණය හමුවට ඉදිරිපත් කළ යුතු වේ.
-
-කෙසේවෙතත් හිටපු ජනාධිපතිවරයාගේ සෞඛ්‍ය තත්ත්වය සැලකිල්ලට ගෙන විශේෂඥ වෛද්‍යවරුන් 5 දෙනෙකුගෙන් යුත් කමිටුවක් මඟින් ඔහු අධීක්ෂණය සිදුකරන අතර අද දිනයේ අධිකරණයට ඉදිරිපත් කරනවාද? නැද්ද? යන්න එම කමිටුව විසින් නිර්දේශ ඉදිරිපත් කරන බව වාර්තා වේ.
-
-...
-
-[Data](articles/1759f802.json)
-
----
-
-### අදත් සවස 2න් පසුව තද වැසි
-
-*2025-08-26 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213787) · `si`
-
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර සහ සබරගමුව පළාත්වල උදෑසන කාලයේදී වැසි ස්වල්පයක් ඇති විය හැකි බවය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/18dd5060.json)
-
----
-
-### Private & Public In The Use Of Government Funds By State Officials During Overseas Visits
-
-*2025-08-26 06:05:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/private-public-in-the-use-of-government-funds-by-state-officials-during-overseas-visits/) · `en`
-
-The issue of state officials using public funds during overseas visits has recently become a matter of public debate in Sri Lanka. Without referring to any specific case, I wish to make some general observations.
-
-The key question is whether state officials are entitled to use public funds for private purposes while on an official overseas tour. If there is a conflict of interest, how should they ensure that public money is not misused? The Ministry of Foreign Affairs presumably has regulations to address such situations. However, whether these are followed consistently and whether there is adequate monitoring remain open questions.
-
-...
-
-[Data](articles/288b6769.json)
-
----
-
-### Doctors to decide Sri Lanka ex-President Wickremesinghe’s court appearance
-
-*2025-08-26 06:00:00* · [`economynextcom`](https://economynext.com/doctors-to-decide-sri-lanka-ex-president-wickremesinghes-court-appearance-238294/) · `en`
-
-ECONOMYNEXT – Doctors will decide whether ex-President Ranil Wickremesinghe, who was admitted to the Intensive Care Unit of the National hospital is in a condition to appear in Court on today, a hospital official has said.
-
-A team of specialists had recommended that Wickremesinghe be kept in the ICU under close supervision up up to then, acting director of the National Hospital Pradeep Wijesinghe said on Monday.
-
-Wickremesinghe, who is suffering from type 2 diabetes and a heart condition was admittted to hospital following complications from dehydration.
-
-Wickremesinghe was arrested over alledged mis-use of public property, during a stop-over in London while returning from the UN General Assembly in the US. (Colombo/Aug25/2025)
-
-◼️
-
-[Data](articles/f823fb5c.json)
 
 ---

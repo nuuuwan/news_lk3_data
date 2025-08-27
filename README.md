@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 17:54:01**
+As of **2025-08-27 18:10:15**
 
 ## Newspaper Stats
 
-*Scraped **72,683** Articles*
+*Scraped **72,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,991
-adaderanalk | 9,217
-tamilmirrorlk | 10,786
-virakesarilk | 11,940
+adaderanalk | 9,222
+tamilmirrorlk | 10,787
+virakesarilk | 11,941
 adaderanasinhalalk | 12,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,683 articles have been extended.
+61,973 (85.3%) of 72,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### கம்மன்பிலவுக்கு எதிராக ICCPR இன் கீழ் விசாரணை
+
+*2025-08-27 17:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவுக்கு-எதிராக-ICCPR-இன்-கீழ்-விசாரணை/175-363608) · `ta`
+
+முன்னாள் அமைச்சர் உதய கம்மன்பிலவுக்கு எதிராக சர்வதேச சிவில் மற்றும் அரசியல் உரிமைகள் உடன்படிக்கை (ICCPR) சட்டத்தின் கீழ் விசாரணை தொடங்கப்பட்டுள்ளதாக குற்றப் புலனாய்வுத் திணைக்களம் (CID) இன்று கோட்டை நீதவான் நீதிமன்றத்திற்குத் தெரிவித்தது.
+
+சமூகங்களுக்கிடையில் ஒற்றுமையை சீர்குலைக்கும் வகையில் கம்மன்பில தெரிவித்ததாகக் கூறப்படும் ஒரு கருத்து தொடர்பாக விசாரணை தொடங்கப்பட்டதாக சிஐடி தெரிவித்துள்ளது.
+
+விசாரணை முன்னேறும்போது மேலும் நடவடிக்கை எடுக்கப்படும் என்று எதிர்பார்க்கப்படும் அதே வேளையில், கோட்டை நீதவான் சமர்ப்பிப்பைப் பதிவு செய்தார்.
+
+◼️
+
+[Data](articles/600cdd5e.json)
+
+---
 
 ### ගම්මන්පිල සිදුකළ ප්‍රකාශයක් ගැන CIDයෙන් විමර්ශන
 
@@ -114,6 +130,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### கொழும்பிற்கு மீண்டும் வருகை தந்துள்ள  “ டல்ஸா ”
+
+*2025-08-27 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/223522) · `ta`
+
+கரைக்கு அருகிலுள்ள கடற்பகுதியில் செயற்படும் (லிட்டோரல்) சுயாதீன மாற்றுரு போர்க்கப்பலான யுஎஸ்எஸ் டல்ஸா (LCS 16) புதன்கிழமை (ஆகஸ்ட் 27) கொழும்புத் துறைமுகத்திற்கு வருகைதந்துள்ளதாக இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் உறுதிப்படுத்தியுள்ளது.
+
+வேகம் மற்றும் பல்வேறு திறன்களுக்காக கட்டமைக்கப்பட்ட HSS டல்ஸா, ஆழமற்ற நீர் மற்றும் திறந்த கடல் இரண்டிலும் இயங்கக் கூடியது. இது அமெரிக்காவின் அதிநவீன கடல்சார் திறனை பிரதிபலிக்கிறது. இறுதியாக 2021ஆம் ஆண்டு இலங்கை கடற்படையுடன் இணைந்து இடம்பெற்ற Cooperation Afloat Readiness and Training (CARAT) பயிற்சிகளின் போது இக்கப்பல் இலங்கைக்கு விஜயம் செய்தது. இம்முறை, யுஎஸ்எஸ் டல்ஸா இந்தோ பசிபிக்கில் தனது பயணத்தை மீண்டும் தொடர்வதற்கு முன்பு எரிபொருள் நிரப்புவதற்கும் மற்றும் ஏனைய தேவையான பொருட்களைப் பெற்றுக்கொள்வதற்குமான ஒரு குறுகிய நிறுத்தமாக கொழும்பு செயற்படும்.
+
+...
+
+[Data](articles/eb8516db.json)
+
+---
+
 ### බොරැල්ලේ ගිලා බැසීමේ අවදානමක් සහිත මාර්ගය වසා දැමේ
 
 *2025-08-27 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213857) · `si`
@@ -131,6 +161,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/346ab41b.json)
+
+---
+
+### ‘Katchatheevu belongs to Sri Lanka, that will never change’ – FM responds to Vijay
+
+*2025-08-27 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111916/katchatheevu-belongs-to-sri-lanka-that-will-never-change-fm-responds-to-vijay) · `en`
+
+Sri Lanka’s Foreign Minister Vijitha Herath today issued a stern response to the controversial comments recently made by Indian actor-turned-politician Vijay regarding the Katchatheevu Island.
+
+“Katchatheevu Island belongs to Sri Lanka. It is an island belonging to Sri Lanka. Therefore, that will never change,” the minister said, responding to questions from reporters during the weekly Cabinet press briefing.
+
+He stated that elections are slated to be held in South India and candidates will make various statements in the election stage to obtain votes. “This is not the first time. Even in the past, various such statements have been made on the election stage.”
+
+However, statements made on those election stages will not change anything, Minister Herath emphasized.
+
+“I saw that Vijay had made this statement at an election rally,” he said, adding that not much attention should be paid to that statement.
+
+...
+
+[Data](articles/4bb9e7a5.json)
+
+---
+
+### CID probing Gammanpila’s controversial statement, court told
+
+*2025-08-27 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111915/cid-probing-gammanpilas-controversial-statement-court-told) · `en`
+
+The Criminal Investigation Department (CID) has informed the Colombo Fort Magistrate’s Court that an investigation has been initiated under the International Covenant on Civil and Political Rights (ICCPR) Act against former Minister Udaya Gammanpila.
+
+The investigation has been initiated against the former Minister for allegedly making a statement that could incite disharmony among communities.
+
+Presenting facts before Colombo Fort Magistrate Nilupuli Lankapura, the CID noted that the investigation was launched based on a complaint filed with the CID on August 08, 2025.
+
+◼️
+
+[Data](articles/50c9867c.json)
 
 ---
 
@@ -252,6 +318,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### President discusses boosting dollar reserves with export sector business leaders
+
+*2025-08-27 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111914/president-discusses-boosting-dollar-reserves-with-export-sector-business-leaders) · `en`
+
+A pre-budget discussion for the year 2026 was held yesterday (26) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake with private sector entrepreneurs in the plantation sector to gather insights and recommendations regarding issues in the export sector.
+
+The government of Sri Lanka has made notable progress in enhancing state revenue and achieving a degree of economic stability. Accordingly, the aim of this discussion was to gather insights from business leaders and industrialists regarding strategies to bolster dollar reserves, a crucial factor for maintaining the stability of the nation’s economy, the President’s Media Division (PMD) said.
+
+During the meeting, President Anura Kumara Dissanayake stated that it is the responsibility of the government to provide the necessary facilities and support to entrepreneurs and industrialists.
+
+...
+
+[Data](articles/3445c09b.json)
+
+---
+
 ### වෛද්‍ය රුක්ෂාන් බෙල්ලනට විනය පරීක්ෂණයක්
 
 *2025-08-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213854) · `si`
@@ -283,6 +365,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8ab1d4e3.json)
+
+---
+
+### Disciplinary inquiry against National Hospital’s Deputy Director Dr. Bellana
+
+*2025-08-27 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111913/disciplinary-inquiry-against-national-hospitals-deputy-director-dr-bellana) · `en`
+
+Acting Health Minister Dr. Hansaka Wijemuni says that a disciplinary inquiry is to be initiated against the Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana, for divulging information regarding the health condition of former President Ranil Wickremesinghe to the media while he was receiving treatment at the hospital in remand custody.
+
+Dr. Wijemuni stressed that Dr. Bellana had no authority to comment on or release information about the former President’s medical status.
+
+“He has no right to issue such information,” Dr. Wijemuni said adding that the former President Ranil Wickremesinghe was not even admitted in his section.
+
+“The Deputy Director of the Colombo National Hospital acted beyond his responsibilities. This must be investigated,” the Acting Minister said.
+
+He further pointed out that revealing a patient’s medical information to the media was neither legal nor ethical, regardless of the position held by the officer concerned.
+
+...
+
+[Data](articles/2d1b501c.json)
 
 ---
 
@@ -320,6 +422,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### US, India push 10-year defence framework even as ties sour over tariffs
+
+*2025-08-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111912/us-india-push-10-year-defence-framework-even-as-ties-sour-over-tariffs) · `en`
+
+The United States and India put defence at the centre of their virtual 2+2 Intersessional Dialogue on Tuesday, moving toward a new 10-year Framework for the US-India Major Defence Partnership.
+
+As part of the talks, top US and Indian officials also mapped next steps on defence industry and technology ties between the two countries.
+
+The two countries discussed expanding co-operation and agreed to keep building out collaboration under the US-India COMPACT (Catalyzing Opportunities for Military Partnership, Accelerated Commerce & Technology) initiative, which links military partnership with accelerated commerce and technology, according to a statement released by US Department of State.
+
+“The chairs reaffirmed their commitment to promoting a safer, stronger, and more prosperous Indo-Pacific region through the Quad,” the statement said.
+
+...
+
+[Data](articles/f0e626bc.json)
+
+---
+
 ### இன்றைய நாணய மாற்று விகிதம்
 
 *2025-08-27 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/223500) · `ta`
@@ -352,7 +472,7 @@ He added that although there were previous claims suggesting that the law was no
 
 ---
 
-### அபர்ணா சென் என் தந்தையின் காதலி
+### “அபர்ணா சென் என் தந்தையின் காதலி”
 
 *2025-08-27 14:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அபர்ணா-சென்-என்-தந்தையின்-காதலி/54-363592) · `ta`
 
@@ -1689,107 +1809,5 @@ Upon inspection, officers found 1,503 cartons of cigarettes concealed within 15 
 ◼️
 
 [Data](articles/d0102ff3.json)
-
----
-
-### 30 killed in landslides in India’s Jammu and Kashmir
-
-*2025-08-27 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/111890/30-killed-in-landslides-in-indias-jammu-and-kashmir) · `en`
-
-At least 30 people have lost their lives after heavy rains triggered a massive landslide near the Vaishno Devi shrine in Katra, Jammu and Kashmir in India, news agency ANI reported.
-
-Indian Home Minister Amit Shah called the landslide near the Vaishno Devi shrine in Jammu and Kashmir’s Katra district “extremely tragic” and said he had spoken to Chief Minister Omar Abdullah and Lieutenant Governor Manoj Sinha, assuring full support from the Centre.
-
-In a post on X, Shah stated that National Disaster Response Force (NDRF) teams had already been rushed to the scene soon after the incident.
-
-...
-
-[Data](articles/5b93dd9b.json)
-
----
-
-### வண்டியும் ஒரு நாள் ஒடத்தில் ஏறும், ஒடமும் ஒரு நாள் வண்டியில் இறங்கும்
-
-*2025-08-27 09:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வண்டியும்-ஒரு-நாள்-ஒடத்தில்-ஏறும்-ஒடமும்-ஒரு-நாள்-வண்டியில்-இறங்கும்/62-363561) · `ta`
-
-வண்டியும் ஒரு நாள் ஒடத்தில் ஏறும், ஒடமும் ஒரு நாள் வண்டியில் இறங்கும்
-
-◼️
-
-[Data](articles/2147067f.json)
-
----
-
-### குளியாப்பிட்டியில் விபத்து ; இரண்டு பாடசாலை சிறுவர்கள் உட்பட மூவர் உயிரிழப்பு
-
-*2025-08-27 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223454) · `ta`
-
-குளியாப்பிட்டியின் பல்லேவல பாலத்துக்கருகில் இன்று புதன்கிழமை (27) இடம்பெற்ற விபத்தில் இரண்டு பாடசாலை சிறுவர்கள் மற்றும் வேன் சாரதி உட்பட மூன்று பேர் உயிரிழந்ததாக பொலிஸார்  தெரிவித்தனர்.
-
-பாடசாலை வேன் ஒன்று லொறியுடன் மோதியதியே விகத்து இடம்பெற்றுள்ளது. இதன்போது, 13 பேர் காயமடைந்தனர். காயமடைந்தவர்கள் சிகிச்சைக்காக அருகிலுள்ள வைத்தியசாலைகளுக்கு அழைத்துச் செல்லப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/ddaae60d.json)
-
----
-
-### பாடசாலை வேன் கோர விபத்து : மாணவர்கள் இருவர் பலி
-
-*2025-08-27 08:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-வேன்-கோர-விபத்து-மாணவர்கள்-இருவர்-பலி/175-363560) · `ta`
-
-குளியாப்பிட்டி, நிலபொல பாலத்திற்கு அருகில் இன்று (27) காலை இடம்பெற்ற  விபத்தில் பாடசாலை மாணவர்கள் இருவர் உட்பட மூன்று பேர் உயிரிழந்துள்ளனர்.
-
-பாடசாலை வேன் மற்றும் டிப்பர் வாகனமும் மோதியதில் இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.  R
-
-◼️
-
-[Data](articles/867c7761.json)
-
----
-
-### பாடசாலை வேன் கோர விபத்து : மாணவர்கள் பலி
-
-*2025-08-27 08:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-வேன்-கோர-விபத்து-மாணவர்கள்-பலி/175-363560) · `ta`
-
-குளியாப்பிட்டி, நிலபொல பாலத்திற்கு அருகில் இன்று (27) காலை இடம்பெற்ற  விபத்தில் பாடசாலை மாணவர்கள் இருவர் உட்பட மூன்று பேர் உயிரிழந்துள்ளனர்.
-
-பாடசாலை வேன் மற்றும் டிப்பர் வாகனமும் மோதியதில் இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.  R
-
-◼️
-
-[Data](articles/de2c90c8.json)
-
----
-
-### புதிதாக பொறுப்பேற்ற வட மாகாண கடற்படைத் தளபதி - அரசாங்க அதிபர் சந்திப்பு
-
-*2025-08-27 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223452) · `ta`
-
-புதிதாக பொறுப்பேற்ற வட மாகாண கடற்படைத் தளபதியாக புதிதாக பொறுப்பேற்ற ரியர் அட்மிரல் புடிக்ஹ லியனகமகேஅவர்கள், யாழ்ப்பாண மாவட்ட அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன் அவர்களை இன்றைய தினம் செவ்வாய்க்கிழமை (26) பி. ப 04.30 மணிக்கு மரியாதை நிமித்தம் அரசாங்க அதிபர் அலுவலகத்தில் சந்தித்து கலந்துரையாடினார்.
-
-இச் சந்திப்பில் மேலதிக அரசாங்க அதிபர் கே. சிவகரன், மேலதிக அரசாங்க அதிபர் (காணி) பா.ஜெயகரன், பிரதம கணக்காளர் எஸ் கிருபாகரன், திட்டமிடல் பணிப்பாளர்  இ.சுரேந்திரநாதன் மற்றும் உதவி மாவட்டச் செயலாளர்   உ.தா்சினி ஆகியோரும் உடனிருந்தார்கள்.
-
-◼️
-
-[Data](articles/0fb409fd.json)
-
----
-
-### Three including two school children killed in Kuliyapitiya accident
-
-*2025-08-27 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111889/three-including-two-school-children-killed-in-kuliyapitiya-accident) · `en`
-
-At least three persons including two children have died in a road accident in Kuliyapitiya at around 7:05 a.m. today (27), police said.
-
-The accident took place when a school van collided with a tipper truck near the Wilapola bridge in Kuliyapitiya.
-
-The driver of the van is also among those dead, according to area residents.
-
-Thirteen others have sustained injuries in the incident and have been rushed to the hospital.
-
-◼️
-
-[Data](articles/468f51d8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 00:34:03**
+As of **2025-08-28 00:48:57**
 
 ## Newspaper Stats
 
-*Scraped **72,725** Articles*
+*Scraped **72,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 744
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,125
+dailyftlk | 5,126
 adalk | 6,998
 adaderanalk | 9,229
 tamilmirrorlk | 10,791
@@ -26,9 +26,25 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,725 articles have been extended.
+61,973 (85.2%) of 72,726 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-28 (Thursday)
+
+### Ranil’s arrest, political ethics and seeing “this administration’s true face”
+
+*2025-08-28 00:30:12* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-arrest-political-ethics-and-seeing-this-administration-s-true-face/4-780857) · `en`
+
+When Napoleon ordered the execution of the Duc d’Enghien, a Bourbon prince, in 1804, the great French diplomat and thinker Talleyrand reportedly said “it is worse than a crime, it is a blunder”. The phrase became legend. The JVP-NPP will learn the same about its many excesses, including the mean-spirited treatment of Ranil Wickremesinghe.
+
+Ex-President Ranil Wickremesinghe being transported to remand prison in handcuffs late at night after a protracted hearing on a charge of the misusing public funds to the tune of 16.6 million rupees, was a social shock, a scene the general public cannot unsee. It came as culmination of an unforgettable day, but is also the commencement of a shift in the balance of public opinion and the sociopolitical equilibrium.
+
+...
+
+[Data](articles/15da7595.json)
+
+---
 
 ### 2025-08-27 (Wednesday)
 
@@ -1763,25 +1779,5 @@ At the IMF’s request, the Commonwealth Secretariat has been advising the gover
 ...
 
 [Data](articles/9f533bf5.json)
-
----
-
-### எதிர்க்கட்சித் தலைவர் இளவரசர் வில்லியமிடம் வேண்டுகோள்
-
-*2025-08-27 11:53:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-இளவரசர்-வில்லியமிடம்-வேண்டுகோள்/175-363579) · `ta`
-
-அதிகரித்து வரும் மனித-யானை மோதல் உயிர்களுக்கும் பல்லுயிர் பெருக்கத்திற்கும் ஒரு முக்கியமான அச்சுறுத்தலாகக் குறிப்பிட்டு, இலங்கையின் காட்டு யானைகளின் எண்ணிக்கையைப் பாதுகாக்கும் முயற்சிகளை ஆதரிக்குமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பிரிட்டனின் இளவரசர் வில்லியமிடம் வேண்டுகோள் விடுத்துள்ளார்.
-
-நேற்று (26), பிரேமதாச கொழும்பில் பிரிட்டிஷ் உயர் ஸ்தானிகர் ஆண்ட்ரூ பேட்ரிக்கை சந்தித்து வேல்ஸ் இளவரசருக்கு முகவரியிட்ட கடிதத்தை ஒப்படைத்தார்.
-
-ஆசிய யானைகளின் மிகப்பெரிய தொகை கொண்ட நாடுகளில் ஒன்றாக இலங்கையின் நிலையை இந்தக் கடிதம் எடுத்துக்காட்டுகிறது மற்றும் சர்வதேச ஒத்துழைப்பை வலியுறுத்துகிறது.
-
-இந்த மோதலின் விளைவாக ஆண்டுதோறும் 400க்கும் மேற்பட்ட யானைகளும் 150 மனித உயிர்களும் இழக்கப்படுவதாக பிரேமதாச வலியுறுத்தினார்.
-
-உள்ளூர் சமூகங்கள், நிபுணர்கள் மற்றும் சர்வதேச கூட்டாளர்களை உள்ளடக்கிய நீண்டகால, அறிவியல் அடிப்படையிலான உத்தியான தேசிய யானை பாதுகாப்பு மற்றும் சகவாழ்வு முயற்சியை (NECCI) நிறுவ அவர் முன்மொழிந்தார்.
-
-...
-
-[Data](articles/e529afc6.json)
 
 ---

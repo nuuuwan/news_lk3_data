@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 14:08:55**
+As of **2025-08-27 14:23:04**
 
 ## Newspaper Stats
 
-*Scraped **72,643** Articles*
+*Scraped **72,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 744
-economynextcom | 4,434
+economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,985
 adaderanalk | 9,208
-tamilmirrorlk | 10,776
+tamilmirrorlk | 10,777
 virakesarilk | 11,936
-adaderanasinhalalk | 12,582
+adaderanasinhalalk | 12,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,643 articles have been extended.
+61,973 (85.3%) of 72,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### “வெலிக்கடை சிறை காணி ரணிலுடையது”
+
+*2025-08-27 14:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிக்கடை-சிறை-காணி-ரணிலுடையது/175-363587) · `ta`
+
+விளக்கமறியலில் உத்தரவு பிறப்பிக்கப்பட்டதன் பின்னர், ரணில் விக்கிரமசிங்கவை அழைத்துச் சென்ற வெலிக்கடை சிறைச்சாலை அமைந்திருக்கும் காணியின் அசல் உரிமையாளர்கள், ரணில் விக்கிரமசிங்கவும் அவரது குடும்பத்தினரும் ஆவர் என ஐக்கிய தேசியக் கட்சியின் தவிசாளர் வஜிர அபேவர்தன, ஊடகங்களுக்கு இன்று (27) தெரிவித்தார்.
+
+அந்த உண்மையை நிரூபிக்கும் ஆவணங்கள் தன்னிடம் இருப்பதாக வஜிர அபேவர்தன கூறினார், மேலும் தொடர்புடைய உண்மையை உறுதிப்படுத்தும் ஆவணங்களை ஊடகங்களுக்கும் வழங்கினார்.
+
+“ரணில் விக்கிரமசிங்க கைது செய்யப்பட்ட பிறகு, அவர் தனது குடும்பத்திற்குச் சொந்தமான அதாவது அவரது பாட்டிக்குச் சொந்தமான 43 ஏக்கரை கொண்ட வெலிக்கடை நிலத்திற்கு அழைத்துச் செல்லப்பட்டார், இந்த நிலத்தின் அசல் உரிமையாளர்கள் ரணில் விக்கிரமசிங்க மற்றும் அவரது குடும்பத்தினர் ஆவார். அதுவும் ஒரு துரதிர்ஷ்டவசமான சம்பவமாகும்” என்றார்.
+
+"வெலிக்கடை சிறைச்சாலை அமைந்துள்ள நிலத்தின் அனைத்து நிலப் பதிவுகளும் என்னிடம் உள்ளன. அத்தகைய தலைமுறையைச் சேர்ந்த ஒருவர் இதை எதிர்கொள்ள வேண்டியது மிகவும் சோகமான நடத்தை என்று சொல்ல வேண்டும்," என்றும் அபேவர்தன கூறினார்.
+
+◼️
+
+[Data](articles/d17e65ad.json)
+
+---
+
+### ඩොලර් සංචිත වැඩි කරගන්න ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
+
+*2025-08-27 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213851) · `si`
+
+අපනයන ක්ෂේත්‍රයේ පවතින ගැටලු සම්බන්ධයෙන් යෝජනා සහ අදහස් විමසීම සඳහා වැවිලි ක්ෂේත්‍රයේ පෞද්ගලික අංශයේ ව්‍යාපාරිකයින් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී ඊයේ (26) පස්වරුවේදී පැවැත්විණි.
+
+සැලකිය යුතු ප්‍රමාණයකින් රාජ්‍ය ආදායම වර්ධනය කර ගැනීමටත්, ආර්ථිකයෙහි යම් ස්ථාවරත්වයක් ඇති කිරීමටත් ශ්‍රී ලංකා රජය මේ වන විට සමත් වී ඇති නමුත් රටේ ආර්ථිකය ස්ථාවර වීම සඳහා ඉතා වැදගත් වන ඩොලර් සංචිත ශක්තිමත් කර ගැනීමේ අභියෝගය ජය ගැනිම සඳහා ව්‍යාපාරිකයන්ගේ සහ කර්මාන්තකරුවන්ගේ අදහස් ලබා ගැනීම මෙම සාකච්ඡාවේ අරමුණ වී තිබේ.
+
+එහිදී ව්‍යාපාරිකයන්ට සහ කර්මාන්තකරුවන්ට අවශ්‍ය පහසුකම් සැපයීම රජයේ වගකීම බව ප්‍රකාශ කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා රජය, ව්‍යාපාරිකයන්ට සහ කර්මාන්තකරුවන්ට ලබා දෙන පහසුකම්වලට සරිලන සාධාරණ බදු ගෙවීමක් සිදුකළ යුතු බවද පෙන්වා දී ඇත.
+
+ආර්ථිකයට තිරිංග යොදා සීමා කළ නොහැකි බව කියා සිටි ජනාධිපතිවරයා හැකිළී තිබුණු ආර්ථිකය ප්‍රසාරණය කරමින් ඉදිරියට ගෙන යාමට වත්මන් රජය කටයුතු කරමින් සිටින බවද මෙහිදී අවධාරණය කළේය.
+
+...
+
+[Data](articles/2dfcfd9b.json)
+
+---
+
+### Sri Lanka’s CEB to get stand-by power to cool coal plant during tripping
+
+*2025-08-27 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-get-stand-by-power-to-cool-coal-plant-during-tripping-238474/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has given approval for the Ceylon Electricity Board to acquire a stand by power system to cool a coal plant when it trips off the grid, a government statement said.
+
+Standby power will be used to keep the cooling systems of capacitors and also water feeder of the boiler also running, the statement said.
+
+During emergency tripping, steam is released quickly to protect components by bursting a rubber seal called a diaphragm as cooling system lose power during a large power failure.
+
+The replacement of the diagram takes a long time as 4 to 5 days are required for the boiler related components to cool sufficiently for technicians to approach to components. (Colombo/Aug27/2025)
+
+◼️
+
+[Data](articles/630afa1d.json)
+
+---
 
 ### දක්ෂිණ අධිවේගයේ කොටසක් ප්‍රතිසංස්කරණයට කැබිනට් අනුමැතිය
 
@@ -42,7 +96,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ සඳහා, ජාතික තරගකාරි ලංසු කැඳවීමේ ප්‍රසම්පාදන ක්‍රමවේදය අනුගමනය කරමින් සුදුසුකම්ලත් දේශීය ආයතන වෙතින් ලංසු කැඳවා ඇත.
 
-ලැබී ඇති ලංසු ඇගයීමෙන් පසු ඉහළ මට්ටමේ ස්ථාවර ප්‍රසම්පාදන කමිටුව විසින් සාරානුකූලව ප්‍රතිචාර දක්වන ලද අවම ලංසුකරු වන මාගා ඉංජිනියරින් (ප්‍රයිවට්) ලිමිටඩ් වෙත කොන්ත්‍රාත්තුව ප්‍රදානය කිරීමට නිර්දේශ කර තිබේ.
+ලැබී ඇති ලංසු ඇගයීමෙන් පසු ඉහළ මට්ටමේ ස්ථාවර ප්‍රසම්පාදන කමිටුව විසින් ප්‍රතිචාර දක්වන ලද අවම ලංසුකරු වන මාගා ඉංජිනියරින් (ප්‍රයිවට්) ලිමිටඩ් වෙත කොන්ත්‍රාත්තුව ප්‍රදානය කිරීමට නිර්දේශ කර තිබේ.
 
 එම කොන්ත්‍රාත්තුව පිරිනැමීමට ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව ඇත.
 
@@ -1715,51 +1769,5 @@ She added that the House Democracy Partnership, a bipartisan initiative of the U
 ◼️
 
 [Data](articles/464c19e4.json)
-
----
-
-### செம்மணியில் மேலும் 6 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-08-27 03:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-மேலும்-6-எலும்புக்கூடுகள்-அடையாளம்/175-363556) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்று (26) இடம்பெற்ற அகழ்வின் போது புதிதாக 16 எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அத்துடன் ஆடை ஒன்றும் அடையாளம் காணப்பட்டுள்ளது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 34 ஆம் நாள் அகழ்வு நேற்று (26) இடம்பெற்றது.
-
-நேற்றைய அகழ்வில் 16 மனித என்புத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. இதன்மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித என்புத் தொகுதிகளின் எண்ணிக்கை 166 ஆக அதிகரித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/24edcb9e.json)
-
----
-
-### 2025-08-26 (Tuesday)
-
-### Macroeconomic factors fuel upswing in stock investor sentiment
-
-*2025-08-26 23:10:00* · [`islandlk`](http://island.lk/macroeconomic-factors-fuel-upswing-in-stock-investor-sentiment/) · `en`
-
-The CSE bounced back yesterday because investor sentiment had improved as a result of macroeconomic fundamentals proving conducive to business, market analysts said.
-
-The stock market closed up after some volatility but both indices moved upwards. The All Share Price Index moved up by 37.8 points, while the S&P SL20 closed up 0.39 percent, or 23.50 points, at 6,066, provisional data showed.
-
-...
-
-[Data](articles/c0a0b46c.json)
-
----
-
-### AB Mauri Lanka celebrates exceptional safety achievements with Target Zero Safety Award
-
-*2025-08-26 23:10:00* · [`islandlk`](http://island.lk/ab-mauri-lanka-celebrates-exceptional-safety-achievements-with-target-zero-safety-award/) · `en`
-
-AB Mauri Lanka is proud to announce its recognition at the prestigious AB Mauri Global Award, Target Zero Safety Awards 2023/2024 under the Safety Performance category. This award showcases AB Mauri Lanka’s dedication to maintaining exemplary health and safety standards within its operations. Through year-long initiatives, AB Mauri Lanka has demonstrated outstanding efforts and innovations, fostering a culture of safety that extends from its facilities to the broader community.
-
-At AB Mauri, the commitment to achieving zero accidents is a core value that encompasses every aspect of the business. With a strategy that includes proactive measures, continuous improvement, and a comprehensive approach to health and safety (H&S), these efforts are designed to maintain and enhance safe working environments across all operations. This approach has been crucial in securing the Safety Performance award, highlighting proactive measures, strategic initiatives, and engagement with all stakeholders.
-
-...
-
-[Data](articles/dcfe3c3f.json)
 
 ---

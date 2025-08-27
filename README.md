@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 14:23:04**
+As of **2025-08-27 14:34:38**
 
 ## Newspaper Stats
 
-*Scraped **72,646** Articles*
+*Scraped **72,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,985
+adalk | 6,986
 adaderanalk | 9,208
-tamilmirrorlk | 10,777
+tamilmirrorlk | 10,778
 virakesarilk | 11,936
-adaderanasinhalalk | 12,583
+adaderanasinhalalk | 12,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,646 articles have been extended.
+61,973 (85.3%) of 72,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### රනිල් ගැන ජාත්‍යන්තරයේ මතය විජිත කැබිනට් හමුවේදී රටට කියයි
+
+*2025-08-27 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213852) · `si`
+
+කිසිදු රාජ්‍ය තාන්ත්‍රිකයෙකු හෝ  රාජ්‍ය තාන්ත්‍රිකයෙකු සංවිධානයක් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් විරෝධයක් දක්වා නොමැති බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+අද (27) පැවැති කැබිනට් මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය විජිත හේරත් මහතා මේ බව පැවසීය.
+
+විවිධ පුද්ගලයින් විවිධ ප්‍රකාශ සිදුකර ඇති බවද සඳහන් කළ අමාත්‍යවරයා ඒවා සැලකියයුතු කාරණා නොවන බවද සඳහන් කළේය.
+
+මෙරට තුළ නීතිය එකහා සමානව ක්‍රියාත්මක වෙන බවට ජාත්‍යන්තරය මේ වනවිට නිරීක්ෂණය කරමින් සිටින බවද අමාත්‍යවරයා පැවසීය.
+
+පසුගිය කාලසීමාවේදී ශ්‍රී ලංකාව තුළ නීතිය නිසිපරිදි ක්‍රියාත්මක නොවන බවට ප්‍රකාශ කළද වර්තමානයේ එවැනි තත්ත්වයක් දක්නට නොලැබෙන බවද ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/57a9aa47.json)
+
+---
+
+### ஜனாதிபதி, பிரதமர் , அமைச்சரவைக்கு நோட்டீஸ்
+
+*2025-08-27 14:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிரதமர்-அமைச்சரவைக்கு-நோட்டீஸ்/175-363589) · `ta`
+
+இலங்கை குடிமக்களுக்கு டிஜிட்டல் அடையாள அட்டைகளை வழங்கும் திட்டத்தை செயல்படுத்துவதற்காக இந்தியாவுடன் இலங்கை அரசு கையெழுத்திட்ட புரிந்துணர்வு ஒப்பந்தத்தை (MoU) ரத்து செய்ய உத்தரவிடக் கோரி முன்னாள் அமைச்சர் விமல் வீரவன்ச உள்ளிட்டோர் தாக்கல் செய்த இரண்டு மனுக்களை அக்டோபர் 17 ஆம் திகதி விசாரிக்க உயர் நீதிமன்றம் , புதன்கிழமை (27) உத்தரவிட்டது.
+
+பிரதம நீதியரசர் பிரீத்தி பத்மன் சூரசேன மற்றும் உயர் நீதிமன்ற நீதியரசர்கள் குமுதுனி விக்ரமசிங்க மற்றும் சம்பத் விஜேரத்ன ஆகியோர் அடங்கிய உயர் நீதிமன்ற அமர்வு இந்த மனுக்களை பரிசீலித்தது.
+
+சட்டமா அதிபர் சார்பில் ஆஜரான சொலிசிட்டர் ஜெனரல் விராஜ் தயாரத்ன, மனுவில் பிரதிவாதிகளாகப் பெயரிடப்பட்டுள்ள அமைச்சரவை உறுப்பினர்கள் உட்பட பிரதிவாதிகளுக்கு எந்த நோட்டீஸும் கிடைக்கவில்லை என்று நீதிமன்றத்தின் கவனத்தக்கு கொண்டுவந்தார்.
+
+மனுதாரர் சார்பில் ஆஜரான வழக்கறிஞர் கனிஷ்க விதாரண, வழக்கை பரிசீலிப்பதற்கான விரைவான திகதியைக் கோரினார்.
+
+மனுவை ஒக்டோபர் 17 ஆம் திகதி பரிசீலனைக்கு அழைக்குமாறு நீதியர​சர்கள் அமர்வு உத்தரவிட்டது.
+
+...
+
+[Data](articles/61a7cef3.json)
+
+---
 
 ### “வெலிக்கடை சிறை காணி ரணிலுடையது”
 
@@ -693,6 +733,22 @@ Additionally, 13 other students who were injured in the accident have been admit
 ...
 
 [Data](articles/f282c5c1.json)
+
+---
+
+### උඩරට දුම්රිය මාර්ගයේ ගෙවීගිය පීලි වෙනුවට අලුත් පීලි
+
+*2025-08-27 11:09:50* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-මාර්ගයේ-ගෙවීගිය-පීලි-වෙනුවට-අලුත්-පීලි/11-418098) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ මහනුවර සිට බදුල්ල දුම්රිය ස්ථානය දක්වා ගෙවී ගොස් ඇති රේල් පීලි වෙනුවට අලුතින් රේල් පීලි සවි කිරිමේ කටයුතු දුම්රිය දෙපාර්තමේන්තුවේ මාර්ග නඩත්තු අංශය විසින් මේ වන විට ආරම්භ කර ඇත.
+
+එම දුම්රිය මාර්ගයේ දැනට සවි කර ඇති 1960  වසරේ නිෂ්පාදිත රේල් පීලිවල ගෙවී ගිය රේල් පීලි වෙනුවට අඩි 225ක දිගින් යුත් අලුතින් නිෂ්පාදනය කරන ලද රේල් පීලි මෙසේ සවි කරනු ලබන්නේ.
+
+අඩි 225ක දිගකින් යුත් එම රේල් පීලි ප්‍රවාහනය කර දොඹකර 5ක් උපයෝගි කරගෙන එක්වර ගොඩ බෑම සදහා දුම්රිය දෙපාර්තමේන්තුව මගින් ට්‍රැක් මෝටර් කාර් නමින් විශේෂ දුම්රිය දොඹකරයක්ද උපයෝගි කරගෙන ඇත.
+
+◼️
+
+[Data](articles/9da24d40.json)
 
 ---
 
@@ -1715,59 +1771,5 @@ This pivotal discussion aims to dissect the potential ripple effects of new US t
 ...
 
 [Data](articles/17cb6f79.json)
-
----
-
-### President orders housing, urban development projects completion within 2025 Budget timelines
-
-*2025-08-27 04:05:34* · [`dailyftlk`](https://www.ft.lk/news/President-orders-housing-urban-development-projects-completion-within-2025-Budget-timelines/56-780802) · `en`
-
-Says projects with 2025 Budget allocations must be completed within year
-
-Points to 18 bridge projects in Hambantota abandoned mid-construction to be reassessed
-
-Instructs officials to explore bank facilities for citizens without State housing
-
-Officials say housing schemes funded by Chinese and Indian loans to be completed this year
-
-President Anura Kumara Disanayake on Monday instructed the Urban Development, Construction, and Housing Ministry to ensure that projects launched under the 2025 Budget, including housing schemes, bridge construction, and urban development initiatives, are completed within the year, cautioning that unspent allocations and delays have become a recurring problem.
-
-A review of projects implemented under the 2025 Budget allocations for the ministry, together with a pre-Budget discussion for 2026, was held on 25 August at the Presidential Secretariat, the President’s Media Division said.
-
-...
-
-[Data](articles/f3924f45.json)
-
----
-
-### BASL warns against social media interference in judiciary
-
-*2025-08-27 04:04:30* · [`dailyftlk`](https://www.ft.lk/news/BASL-warns-against-social-media-interference-in-judiciary/56-780801) · `en`
-
-The Bar Association of Sri Lanka (BASL) on Monday expressed serious concern over comments circulating on social media and other platforms relating to matters that fall under the purview of the Judicial Service Commission (JSC) and the judiciary, stressing that both are independent institutions that must remain free from outside interference.
-
-In a statement, the BASL noted that the Judicial Service Commission, comprising the Chief Justice and two senior Supreme Court judges, holds responsibility over the transfer of High Court judges as well as the appointment, promotion, transfer, disciplinary control, and dismissal of judicial officers and certain scheduled public officers.
-
-...
-
-[Data](articles/c5d82fff.json)
-
----
-
-### US Congressional staff delegation in Sri Lanka
-
-*2025-08-27 04:04:11* · [`dailyftlk`](https://www.ft.lk/news/US-Congressional-staff-delegation-in-Sri-Lanka/56-780800) · `en`
-
-US Ambassador Julie Chung says delegation seeking cooperation in governance, trade and security
-
-US Ambassador to Sri Lanka Julie Chung yesterday said a delegation of bipartisan Congressional staffers from the United States was in Sri Lanka to explore opportunities for cooperation in governance, trade and security.
-
-Ambassador Chung said the visit is part of ongoing engagement, with meetings scheduled with Parliamentarians, civil society groups and senior Government officials to exchange views on strengthening democratic practices.
-
-She added that the House Democracy Partnership, a bipartisan initiative of the US Congress, supports legislatures worldwide in promoting accountability and transparency, and contributes to advancing economic growth, regional security and international cooperation.
-
-◼️
-
-[Data](articles/464c19e4.json)
 
 ---

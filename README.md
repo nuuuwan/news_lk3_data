@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 12:35:47**
+As of **2025-08-27 12:49:56**
 
 ## Newspaper Stats
 
-*Scraped **72,620** Articles*
+*Scraped **72,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,431
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,981
+adalk | 6,982
 adaderanalk | 9,206
 tamilmirrorlk | 10,771
 virakesarilk | 11,933
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,620 articles have been extended.
+61,973 (85.3%) of 72,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -309,6 +309,20 @@ By The National Peace Council As Sri Lanka prepares to appear before the United 
 ...
 
 [Data](articles/94ee36bc.json)
+
+---
+
+### සිමෙන්ති ලොරියේ ගැටුණ වන අලියාට බරපතලයි
+
+*2025-08-27 10:55:29* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-ලොරියේ-ගැටුණ-වන-අලියාට-බරපතලයි/11-418096) · `si`
+
+කොළඹ ත්‍රිකුණාමලය ප්‍රධාන මාර්ගයේ  හිරිවඩුන්න ප්‍රදේශයේදී අද අලුයම 03.ට පමන ත්‍රිකුණාමලයේ සිට කොළඹ දෙසට  සිමෙන්ති ප්‍රවාහනය කරමින් තිබූ බර වාහනයකට  සීගිරිය වනජීවී රක්ෂිත කලාපය නිජ භූමිය කරගෙන සැරිසරූ වයස අවුරුදු  10 ක පමන  අලි පැටියකු ගැටීමෙන් එම වන අලියා බරපතල තුවාල ලබා ප්‍රධාන මාර්ගය ආසන්නේ වැටී සිටි.
+
+මෙම වන අලියාට අවශ්‍ය ප්‍රතිකාර කිරීමට සීගිරිය වනජීවී කාර්යාලය මගින් ගිරිතලේ  වන ජීවී පශු වෛද්‍ය ඒකකයට දැනුම් දී ඇති අතර කඩිනමින්  ප්‍රතිකාර  කිරිම ආරම්භ කිරිමට නියමිතයි.
+
+◼️
+
+[Data](articles/1a839c65.json)
 
 ---
 
@@ -1713,21 +1727,5 @@ Former President Wickremesinghe was taken into custody for allegedly “misusing
 ...
 
 [Data](articles/f263794d.json)
-
----
-
-### Ex-President Ranil to remain in hospital for few days
-
-*2025-08-26 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111877/ex-president-ranil-to-remain-in-hospital-for-few-days-) · `en`
-
-Former President Ranil Wickremesinghe, who was granted bail by the Colombo Fort Magistrate’s Court today (26), will remain at the Colombo National Hospital for a few more days to continue receiving treatment, according to his office.
-
-Issuing a statement, the former President’s Office expressed its gratitude to all parties who have contributed to the broad protest movement themed “Let’s Defeat the Constitutional Dictatorship” since the former president’s arrest.
-
-The statement also noted that former President Wickremesinghe is expected to deliver an address to all parties after completing his medical treatment.
-
-◼️
-
-[Data](articles/163237e0.json)
 
 ---

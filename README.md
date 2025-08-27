@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 14:34:38**
+As of **2025-08-27 14:50:19**
 
 ## Newspaper Stats
 
-*Scraped **72,649** Articles*
+*Scraped **72,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,986
 adaderanalk | 9,208
-tamilmirrorlk | 10,778
+tamilmirrorlk | 10,779
 virakesarilk | 11,936
-adaderanasinhalalk | 12,584
+adaderanasinhalalk | 12,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,649 articles have been extended.
+61,973 (85.3%) of 72,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### නිශාන්ත උළුගෙතැන්න තවදුරටත් රිමාන්ඩ්
+
+*2025-08-27 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213853) · `si`
+
+අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකර සිටින හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න මහතා සැප්තැම්බර් මස 10වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගතකර ඇත.
+
+හිටපු නාවික හමුදාපතිවරයා අද (27) පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී තිබේ.
+
+නිශාන්ත උළුගෙතැන්න මහතා නාවික හමුදා බුද්ධි අධ්‍යක්ෂකවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේ සිදුව ඇති පුද්ගල පැහැරගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව පසුගිය මස 28වනදා අත්අඩංගුවට ගනු ලැබීය.
+
+◼️
+
+[Data](articles/0dfd8ff6.json)
+
+---
+
+### ரணிலுக்கு பிணை: எட்டுபேர் வெளியேறினர்
+
+*2025-08-27 14:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பிணை-எட்டுபேர்-வெளியேறினர்/175-363590) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பாதுகாப்பு வழங்க நியமிக்கப்பட்ட சிறைச்சாலை அதிகாரிகள் எட்டுபேர்,  கொழும்பு தேசிய மருத்துவமனையில் இருந்து, செவ்வாய்க்கிழமை (26) வெளியேறியதாக கூறப்படுகிறது.
+
+ரணில் விக்கிரமசிங்கவுக்கு, ​கோட்டை நீதவான் நீதிமன்றத்தால் சரீரப்பிணை வழங்கிய பின்னர் அவர்கள் வெளியேறியுள்ளனர்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை, கொழும்பு கோட்டை நீதவான் திருமதி நுலுபுலி லங்காபுர தலா ஐந்து லட்சம் ரூபாய் மதிப்புள்ள மூன்று சரீரப்பிணைகளில் விடுவித்தார்.
+
+விளக்கமறியல் உத்தரவுக்குப் பின்னர், வெலிக்கடை சிறைச்சாலைக்கு அழைத்துச் செல்லப்பட்டு, சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர்,  கொழும்பு தேசிய மருத்துவமனைக்கு மாற்றப்பட்ட ரணில் விக்கிரமசிங்க, இன்னும் அங்கேயே சிகிச்சை பெற்று வருகிறார்.
+
+◼️
+
+[Data](articles/2a3aea12.json)
+
+---
 
 ### රනිල් ගැන ජාත්‍යන්තරයේ මතය විජිත කැබිනට් හමුවේදී රටට කියයි
 
@@ -1743,33 +1777,5 @@ In the bustling streets of Colombo, a small garment manufacturer still conducts 
 ...
 
 [Data](articles/b4fed42f.json)
-
----
-
-### FinTech Intel UK joins as Strategic Global Media Partner for Asia International Digital Economy and AI in Finance Summit 2025
-
-*2025-08-27 05:30:26* · [`dailyftlk`](https://www.ft.lk/business/FinTech-Intel-UK-joins-as-Strategic-Global-Media-Partner-for-Asia-International-Digital-Economy-and-AI-in-Finance-Summit-2025/34-780804) · `en`
-
-Asia International Digital Economy and AI in Finance Summit 2025 Convenor Rajkumar Kanagasingam (left) with UK-based Barker Brooks (owner of FinTech Intel) Managing Director Alex Gray at the Asia FinTech Awards in Singapore, Barker Brooks Event Manager Lauren Wood looks on
-
-The Asia International Digital Economy and AI in Finance Summit 2025, featuring the Asian Digital Finance Forum and Awards, has named FinTech Intel as its Strategic Global Media Partner. The summit will take place on 23 October 2025 at Port City Colombo.
-
-...
-
-[Data](articles/39fd36d9.json)
-
----
-
-### Navigating global trade: CEO Forum 2025 to address economic impact of new US tariffs on Sri Lanka
-
-*2025-08-27 05:29:08* · [`dailyftlk`](https://www.ft.lk/business/Navigating-global-trade-CEO-Forum-2025-to-address-economic-impact-of-new-US-tariffs-on-Sri-Lanka/34-780803) · `en`
-
-In an era of shifting global trade dynamics, the CEMBA/CEMPA Alumni Association of the Open University of Sri Lanka is set to host its highly anticipated CEO Forum 2025. The timely event will focus on a critical issue for the nation’s economy: “The Economic Impact of New US Tariffs.” The forum is scheduled to take place on 2 September at 4.00 p.m in the CETMe Auditorium, The Open University of Sri Lanka (OUSL), Nawala, Nugegoda.
-
-This pivotal discussion aims to dissect the potential ripple effects of new US trade policies on Sri Lanka’s key export sectors, supply chains, and overall economic stability. With US being a primary market for Sri Lankan goods, particularly apparel, rubber products, and tea, any changes in tariff structures could have significant and far-reaching consequences for local industries, foreign exchange earnings, and employment.
-
-...
-
-[Data](articles/17cb6f79.json)
 
 ---

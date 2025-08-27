@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 15:49:54**
+As of **2025-08-27 16:07:54**
 
 ## Newspaper Stats
 
-*Scraped **72,666** Articles*
+*Scraped **72,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,987
 adaderanalk | 9,217
 tamilmirrorlk | 10,782
 virakesarilk | 11,938
-adaderanasinhalalk | 12,585
+adaderanasinhalalk | 12,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,666 articles have been extended.
+61,973 (85.3%) of 72,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### වෛද්‍ය රුක්ෂාන් බෙල්ලනට විනය පරීක්ෂණයක්
+
+*2025-08-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213854) · `si`
+
+කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතාට එරෙහිව විනය පරීක්ෂණයක් සිදුකිරීමට බලාපොරොත්තු වන බව වැඩබලන සෞඛ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතා පැවසීය.
+
+මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය හංසක විජේමුණි මහතා පවසා සිටියේ, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මාධ්‍යයට ඔහුගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ තොරතුරු හෙළි කිරීම සම්බන්ධයෙන් මෙම විනය පරීක්ෂණය සිදුකිරීමට බලාපොරොත්තු වන බවය.
+
+◼️
+
+[Data](articles/fa0d9953.json)
+
+---
 
 ### முன்னாள் கடற்படைத் தளபதி நிஷாந்​தவுக்கு விளக்கமறியலில்
 
@@ -1799,19 +1813,5 @@ The progress of projects implemented under the budgetary provisions allocated to
 ...
 
 [Data](articles/9d254a2c.json)
-
----
-
-### Sri Lanka-China Business Council holds 24th AGM
-
-*2025-08-27 06:08:28* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-China-Business-Council-holds-24th-AGM/34-780820) · `en`
-
-The Sri Lanka-China Business Council (SLCHBC) of The Ceylon Chamber of Commerce held its 24th Annual General Meeting (AGM) on 3 July, at the Port City Sales Gallery, Colombo Port City, reaffirming its commitment to strengthening bilateral economic cooperation with China.
-
-Officials from the Embassy of the People’s Republic of China graced the occasion, with Second Secretary Geng Zichao, delivering an address on behalf of the Chinese Embassy. He highlighted China’s robust economic performance in 2024, including a GDP of $ 18.94 trillion and 5.4% growth in Q1 2025. Bilateral trade with Sri Lanka reached $ 5.365 billion, marking a 30.4% year-on-year increase – the fastest growth in South Asia.
-
-...
-
-[Data](articles/8a71086a.json)
 
 ---

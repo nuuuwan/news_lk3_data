@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 21:19:45**
+As of **2025-08-27 21:32:20**
 
 ## Newspaper Stats
 
-*Scraped **72,711** Articles*
+*Scraped **72,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,995
-adaderanalk | 9,226
+adaderanalk | 9,227
 tamilmirrorlk | 10,790
 virakesarilk | 11,947
 adaderanasinhalalk | 12,596
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,596
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,711 articles have been extended.
+61,973 (85.2%) of 72,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### USS Tulsa makes return to Colombo Port
+
+*2025-08-27 20:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111921/uss-tulsa-makes-return-to-colombo-port) · `en`
+
+The U.S. Embassy in Sri Lanka announced the visit of the Independence-variant littoral combat ship USS Tulsa (LCS 16) of the US Navy to the Port of Colombo today (August 27).
+
+Built for speed and versatility, the USS Tulsa can operate in both shallow waters and the open ocean — reflecting America’s cutting-edge maritime capability, the U.S. Embassy in Sri Lanka said in a statement.
+
+The ship last visited Sri Lanka in 2021 for the Cooperation Afloat Readiness and Training (CARAT) exercise with the Sri Lanka Navy.
+
+This time, Colombo will serve as a brief stop for refueling and resupply before the USS Tulsa continues its mission in the Indo-Pacific, it said.
+
+The United States deeply appreciates Sri Lanka’s warm welcome for the USS Tulsa and her crew — a gesture that reflects the strength of our partnership and our shared commitment to a free and open Indo-Pacific, secure sea lanes, and regional prosperity, the statement said.
+
+...
+
+[Data](articles/6b64b5ca.json)
+
+---
 
 ### තායිවානයට ප්‍රබල භූමිකම්පාවක්
 
@@ -1793,19 +1813,5 @@ Additionally, 13 other students who were injured in the accident have been admit
 ◼️
 
 [Data](articles/9da24d40.json)
-
----
-
-### இந்தியப் பொருட்களுக்கு  இன்று முதல் 50% வரி
-
-*2025-08-27 11:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியப்-பொருட்களுக்கு-இன்று-முதல்-50-வரி/50-363572) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்டு ட்ரம்ப் இந்தியப் பொருட்களுக்கான வரிகளை 50% ஆக உயர்த்துவதாக அறிவித்ததைத் தொடர்ந்து, இந்தியாவில் இருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு மேலதிக    வரிகளை அமல்படுத்துவதற்கான வரைவு அறிவிப்பை அமெரிக்க சுங்கம் மற்றும் எல்லைப் பாதுகாப்புத் துறை வெளியிட்டுள்ளது.
-
-50 சதவீத வரிவிதிப்பு குறித்து வெளியாகியுள்ள அறிவிப்பின்படி, 2025ஆகஸ்ட் 6, அன்று “ரஷ்யவால் அமெரிக்காவுக்கு ஏற்படும் அச்சுறுத்தல்களை நிவர்த்தி செய்தல்” என்ற தலைப்பில் ஜனாதிபதி ட்ரம்ப் வெளியிட்ட நிர்வாக ஆணை 14329-ஐ அமல்படுத்தும் வகையில் கூடுதல் வரிகள் விதிக்கப்படுகின்றன எனத் தெரிவிக்கப்பட்டுள்ளது. இந்த உத்தரவில், இந்தியப் பொருட்களின் இறக்குமதிக்கான புதிய வரி சதவீதம் பற்றி விளக்கமாக குறிப்பிட்டுள்ளது.
-
-...
-
-[Data](articles/334c60b6.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 06:09:21**
+As of **2025-08-27 06:34:13**
 
 ## Newspaper Stats
 
-*Scraped **72,550** Articles*
+*Scraped **72,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 744
 economynextcom | 4,431
-islandlk | 4,463
+islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,113
+dailyftlk | 5,121
 adalk | 6,974
 adaderanalk | 9,190
 tamilmirrorlk | 10,752
@@ -26,11 +26,127 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,550 articles have been extended.
+61,973 (85.4%) of 72,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### Elevating construction excellence: Würth Lanka hosts Engineering Forum on anchors and construction fixings
+
+*2025-08-27 06:05:23* · [`dailyftlk`](https://www.ft.lk/business/Elevating-construction-excellence-Würth-Lanka-hosts-Engineering-Forum-on-anchors-and-construction-fixings/34-780817) · `en`
+
+In its ongoing mission to advance Sri Lanka’s built environment, Würth Lanka Ltd., recently convened the Würth Lanka Engineering Forum 2025—a landmark gathering of leading civil engineers, structural consultants, and industry innovators from across the country. Under the banner “Elevating Construction Excellence,” the one-day event showcased cutting edge German engineered anchor systems and construction fixing solutions designed to raise safety, efficiency, and quality standards across local infrastructure projects.
+
+...
+
+[Data](articles/f675d635.json)
+
+---
+
+### HelpAge SL and HelpAge Deutschland empower senior citizens through HASOP
+
+*2025-08-27 06:01:34* · [`dailyftlk`](https://www.ft.lk/news/HelpAge-SL-and-HelpAge-Deutschland-empower-senior-citizens-through-HASOP/56-780816) · `en`
+
+HelpAge Sri Lanka (HASL) in partnership with HelpAge Deutschland (HAD), is making a significant impact on the lives of older persons through the HelpAge Sri Lanka Older Persons’ Empowerment Project (HASOP).
+
+Launched in December 2024, the project continues through the end of 2025, working across Galle, Matara, and Hambantota districts to promote dignity, inclusion, and active participation for senior citizens.
+
+The HASOP adopts a holistic approach to elder empowerment, integrating advocacy for rights, improved access to healthcare, sustainable livelihood development, and strengthened leadership within Senior Citizens’ Clubs (SCCs).
+
+...
+
+[Data](articles/06f4c81b.json)
+
+---
+
+### Model Children and Women’s Bureau opens at Colombo North Police station
+
+*2025-08-27 06:00:21* · [`dailyftlk`](https://www.ft.lk/news/Model-Children-and-Women-s-Bureau-opens-at-Colombo-North-Police-station/56-780815) · `en`
+
+Embassy of Japan Head of Economic and Development Cooperation Kenji Ohashi, and UNFPA Sri Lanka Assistant Representative Dr. Dayanath Ranatunga, handed over the newly constructed Japan-funded Model Children and Women’s Bureau (MCWB) at the Colombo North (Modara) Police Station to Sri Lanka Police. The Bureau, formerly known as the Emergency Waiting Area (EWA), represents a strengthened approach to supporting survivors of gender-based violence (GBV) and child abuse with dignity, privacy, and protection.
+
+Police Inspector General Priyantha Weerasuriya, Western Province SDIG Sanjeewa Dharmarathne, officers representing the Women and Children Abuse Investigation Range, World Vision Lanka National Director Dr. Dhanan Senathirajah, senior officers of the Sri Lanka Police, officials from the District Secretariat, and representatives from World Vision Lanka were present at the ceremony.
+
+...
+
+[Data](articles/621f2904.json)
+
+---
+
+### Nandasiri Ponnamperuma appointed to Board of Directors of SOS Children’s Villages International
+
+*2025-08-27 05:59:09* · [`dailyftlk`](https://www.ft.lk/news/Nandasiri-Ponnamperuma-appointed-to-Board-of-Directors-of-SOS-Children-s-Villages-International/56-780814) · `en`
+
+National Board of SOS Children’s Villages Sri Lanka President Nandasiri Ponnamperuma was recently elected to the newly formed International Board of SOS Children’s Villages. Ponnamperuma’s appointment was made official during the 23rd Ordinary General Assembly of SOS Children’s Villages International, held recently in Vienna, Austria.
+
+The International Board’s 13 newly elected members, all of whom volunteered for the position, replace the former International Senate. Selected from among 138 member associations worldwide to serve on the newly formed International Board, Ponnamperuma will represent the Asian region alongside a second representative from Nepal. His appointment reflects SOS Children’s Villages Sri Lanka’s commitment to advancing child rights and protection on a broader scale. Ponnamperuma’s appointment will contribute to ensuring long-term sustainability and accountability, overseeing executive leadership, and guiding future planning for the organisation.
+
+...
+
+[Data](articles/5e125ae7.json)
+
+---
+
+### First-ever mass wedding in Sri Lanka’s history – 20 couples united under one roof
+
+*2025-08-27 05:58:04* · [`dailyftlk`](https://www.ft.lk/news/First-ever-mass-wedding-in-Sri-Lanka-s-history-20-couples-united-under-one-roof/56-780813) · `en`
+
+Under the initiative of Member of Parliament and All Ceylon Makkal Congress (ACMC) leader Rishad Bathiudeen, the inaugural mass wedding ceremony was successfully held in Puttalam under the project titled “Mawaddatha wa Rahmah” (affection and mercy).
+
+This historic, first-of-its-kind event in Sri Lanka’s history brought together 20 selected couples in a collective marriage ceremony at the White Mantapam Hall. The event was organised by OHRD, chaired by Justice Saleem Marsoof (Retd.), who presided over the arrangements.
+
+...
+
+[Data](articles/dc6b8939.json)
+
+---
+
+### CPC, PSTL boost bunkering capacity at Colombo Port
+
+*2025-08-27 05:56:08* · [`dailyftlk`](https://www.ft.lk/business/CPC-PSTL-boost-bunkering-capacity-at-Colombo-Port/34-780812) · `en`
+
+From right: Energy Minister Eng. Kumara Jayakody, Civil Aviation Deputy Minister Janitha Ruwan Kodithuwakku, CPC Chairman Janaka Rajakaruna, and Managing Director Dr. Mayura Neththikumarage
+
+Phase one of expanding bunkering capacity begins operations at Colombo Port South Jetty
+
+Energy Minister Eng. Kumara Jayakody says Govt. addressing longstanding bottlenecks
+
+The Energy Ministry yesterday said that it has expanded bunkering capacity at the Colombo Port South Jetty with the launch of new pipelines and fuelling facilities. The initiative, a joint project of the Ceylon Petroleum Corporation (CPC) and Petroleum Storage Terminals Ltd., (PSTL), marks the first phase of a plan to upgrade petroleum storage, distribution, and bunkering operations.
+
+...
+
+[Data](articles/fe62fba3.json)
+
+---
+
+### Free Trade Zone Manufacturers Association hails UK boost for Lankan exports
+
+*2025-08-27 05:54:33* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-Association-hails-UK-boost-for-Lankan-exports/34-780811) · `en`
+
+The Free Trade Zone Manufacturers Association (FTZMA) has welcomed the United Kingdom’s decision to liberalise Rules of Origin and offer Zero Tariff access for Sri Lankan exports under the Developing Countries Trading Scheme (DCTS).
+
+“This generous reform goes far beyond the apparel sector. Sri Lankan exporters now enjoy duty-free access to over 7,000 eligible product lines across a wide range of industries. In addition, the liberalisation of Rules of Origin provisions, particularly in apparel, allows manufacturers to source up to 100% of inputs from any country while maintaining tariff-free entry into the UK market,” said the FTZMA in a letter to UK High Commissioner Andrew Patrick.
+
+...
+
+[Data](articles/9ff3549e.json)
+
+---
+
+### Sri Lanka will become a $ 100 billion plus economy in 2025
+
+*2025-08-27 05:46:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-will-become-a-100-billion-plus-economy-in-2025/4-780809) · `en`
+
+Sri Lanka’s economy crashed to $ 74 billion in 2022 with the financial crisis hitting the country. However, with the structural changes that took place and the resiliency of the private sector, the country is poised to cross the magical $ 100 billion mark in 2025. Research reveals that similar countries that were termed small economies and grew to cross $ 100 billion have been valued as a nation brand to be worth a $ 100 billion and they turned to be strong economies globally.
+
+What makes Sri Lanka special is that if we analyse the details – Maldives is heading towards a financial crisis next year with the shutters already put up. Pakistan is still in political turmoil and fighting to manage the financial crisis. Bangladesh is picking up the pieces to bring back the lost glory but politically is lacking leadership. Nepal is showing signs of an economic recovery but is reliant on one sector – the tourism industry.
+
+...
+
+[Data](articles/5d0b54b4.json)
+
+---
 
 ### Misuse and abuse of public funds beyond presidency
 
@@ -1585,141 +1701,5 @@ He further stated that if the Magistrate issues an order for Wickremesinghe to b
 ...
 
 [Data](articles/0a41d75d.json)
-
----
-
-### Hearing of case against ex-President Ranil underway at Fort Magistrate’s Court
-
-*2025-08-26 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111867/hearing-of-case-against-ex-president-ranil-underway-at-fort-magistrates-court) · `en`
-
-The hearing of the case filed against former President Ranil Wickremesinghe, who was arrested and remanded over the alleged misuse of state funds, commenced at the Colombo Fort Magistrate”s Court, a short while ago, Ada Derana reporter said.
-
-Meanwhile, former President Ranil Wickremesinghe has not been produced in court for the hearing of the case filed against him under the Public Property Act.
-
-Earlier today, Prisons media spokesperson Jagath Weerasinghe said the former President is unlikely to be produced before court today, due to medical recommendations stating that he must continue to remain under observation in the Intensive Care Unit (ICU).
-
-He further stated that if the Magistrate issues an order for Wickremesinghe to be presented via Zoom for legal proceedings, necessary arrangements can be made accordingly.
-
-...
-
-[Data](articles/105c4baf.json)
-
----
-
-### கொழும்பை சுற்றியுள்ள பகுதிகளில் கடும் வாகன நெரிசல்
-
-*2025-08-26 13:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பை-சுற்றியுள்ள-பகுதிகளில்-கடும்-வாகன-நெரிசல்/175-363524) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிரான வழக்கு கொழும்பு கோட்டை நீதவான் நீதிமன்றில் நடைபெறவுள்ள நிலையில், பல்வேறு தரப்பினர் நீதிமன்றத்துக்கு அருகில் கூடியுள்ளனர்.
-
-◼️
-
-[Data](articles/35339e55.json)
-
----
-
-### හිටපු ජනපති රනිල්ට අදාළ නීති කෘත්‍ය ඇරඹෙයි
-
-*2025-08-26 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213810) · `si`
-
-රාජ්‍ය මුදල් අවභාවිතකිරීමේ චෝදනාවකට රක්ෂිත බන්ධනාගාර ගත කර, කොළඹ ජාතික රෝහලේ ප්‍රතිකර ලබමින් සිටින හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා පිළිබඳ නීති කෘත්‍යය කොටුව මහේස්ත්‍රාත් අධිකරණයේදී මීට සුළු වේලාවකට පෙර යළි විභාගයට ගැනුණි.
-
-මේ වනවිට කොටුව මහෙස්ත්‍රාත් අධිකරණ පරිශ්‍රය අවට පොලිස්, පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් සහ කැරලි මර්දන ඒකකයේ නිලධාරීන් දැඩි ආරක්ෂාවක් යොදවා ඇති ආකාරය දක්නට ලැබේ.
-
-නිල සංචාරයක යෙදෙන බව පවසමින් පෞද්ගලික සංචාරයක නිරත වීමෙන් රාජ්‍ය මුදල් අවභාවිත කිරීමේ චෝදනාව මත අගෝස්තු 22 වැනිදා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගැනුණි.
-
-පසුව කොටුව මහෙස්ත්‍රාත් අධිකරණය මඟින් ඔහු අද දිනය දක්වා රක්ෂිත බන්ධානාගාර ගත කෙරුණි.
-
-එහිදී ඇති වූ හදිසි රෝගී තත්ත්වය හේතුවෙන් හිටපු ජනාධිපතිවරයා මේ වන විට කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටී.
-
-...
-
-[Data](articles/7c355b01.json)
-
----
-
-### Heavy traffic congestion in Colombo 2, Opposition protest march “Against Repression” underway
-
-*2025-08-26 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111866/heavy-traffic-congestion-in-colombo-2-opposition-protest-march-against-repression-underway) · `en`
-
-Heavy traffic congestion has been reported along several roads near the Colombo Fort Magistrate’s Court premises due to a protest march.
-
-According to Ada Derana reporter, several leaders of political parties have joined the protest march themed “Against Repression.”
-
-This has been organized to show solidarity to former President Ranil Wickremesinghe who has been held in remand custody and to show displeasure over the actions of the present government.
-
-Accordingly, the movement of traffic along several roads in Slave Island and Colombo Fort have been restricted.
-
-Meanwhile, the road leading to the Colombo Fort Magistrate’s Court premises has currently been cordoned off by security forces, and only a limited number of individuals are being allowed to enter.
-
-However, Ada Derana cameras captured footage showing opposition protestors attempting to break through police barricades on Barracks Lane in an effort to enter the court premises.
-
-...
-
-[Data](articles/b009e324.json)
-
----
-
-### Making public policy work for women: Lessons from Sri Lanka’s Covid-19 response
-
-*2025-08-26 13:30:00* · [`economynextcom`](https://economynext.com/making-public-policy-work-for-women-lessons-from-sri-lankas-covid-19-response-238320/) · `en`
-
-The COVID-19 pandemic revealed critical gaps in how policies are made and who they serve. Women face distinct challenges that are too often ignored in national responses. To build resilient and equitable public health systems, we must start by listening to women, valuing their experiences, and including them meaningfully in policymaking. True gender-responsive policymaking is not just about fairness, it’s about designing smarter, more inclusive policies that work for everyone.
-
-One night during the pandemic, Nishanthi, a garment factory worker living in a boarding house in Katunayake, was suddenly told by military officers to pack her belongings and leave with the other women. There were 54 of them in the boarding house.
-
-...
-
-[Data](articles/e6437844.json)
-
----
-
-### කොළඹ මාර්ග කිහිපයක් දැඩි රථවාහන තදබදයක්
-
-*2025-08-26 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213809) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙනුවෙන් විපක්ෂය විසින් සිදුකරනු ලබන විරෝධතාවක් හේතුවෙන් කොළඹ මාර්ග රැසක් කොළඹ මාර්ග රැසක මාර්ග තදබදයක් හටගෙන තිබේ.
-
-ඒ අනුව කොළඹ කොටුව සිට ලේක්හවුස් වටරවුම, කොම්පඤ්ඥවීදීය ඇතුළු මාර්ග රැසක දැඩි රථවාහන තදබදයක් හටගෙන ඇතැයි අප වාර්තාකරුවන් පැවසීය.
-
-◼️
-
-[Data](articles/e0b4cd1a.json)
-
----
-
-### கோட்டை நீதிமன்ற வளாகத்தில் பதற்றம்
-
-*2025-08-26 13:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதிமன்ற-வளாகத்தில்-பதற்றம்/175-363523) · `ta`
-
-கோட்டை, நீதவான் நீதிமன்றத்தில்  முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு எதிராக வழக்கு, இன்னும் சொற்பநேரத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட உள்ள நிலையில், எதிர்க்கட்சிகளின் ஆதரவாளர்கள், பாராளுமன்ற உறுப்பினர்கள் கடுமையான எதிர்ப்பு நடவடிக்கைகளில் ஈடுபட்டுள்ளனர். இதனால், நீதிமன்ற வளாகத்தில் பதற்றமான நிலை ஏற்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/98232229.json)
-
----
-
-### විපක්ෂයේ විරෝධයෙන් උණුසුම් තත්ත්වයක් - ජල ප්‍රහාරක රථ සීරුවෙන්
-
-*2025-08-26 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213808) · `si`
-
-කොටුව මහෙස්ත්‍රාත් අධිකරණය ආසන්නයේ මේ වන විට උණුසුම් තත්ත්වයක් හට ගෙන තිබේ.
-
-ඒ විපක්ෂයේ පක්ෂ සාමාජිකයින් විසින් "මර්දනයට එරෙහිව" නමින් ආරම්භ කර ඇති විරෝධතාවය හේතුවෙනි.
-
-අධිකරණ භූමිය දෙසට කිව් මාර්ගය මේ වනවිට ආරක්ෂ අංශ විසින් වසා දමා ඇති අතර, සීමිත පිරිසකට පමණක් ඉන් ඇතුළු වීමට අවසර හිමිව තිබේ.
-
-කෙසේවෙතත් මේ වනවිට අධිකරණ භූමියට ඇතුළු වන බැරැක්ක මාවත දෙසට විපක්ෂයේ විරෝධතාකරුවන් පොලිස් මාර්ග බාධක බිඳ දමා ඇතුළු වීමට උත්සාහ කරන අයුරු 'අද දෙරණ' කැමරාවේ සටහන්ව තිබුණි.
-
-මේ අතර, පොලිස් ජල ප්‍රහාරක රථ, කැරලි මර්දන ඒකකයේ භට පිරිස්, පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් සීරුවෙන් තබා ඇති අයුරුද දක්නට ලැබේ.
-
-රක්ෂිත බන්ධනාගාර ගත කිරීමෙන් අනතුරුව මේ වන විට කො‍ළඹ ජාතික රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නීති කෘත්‍ය තව සුළු වේලාවකින් ආරම්භ වීමට නියමිතය.
-
-රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් පසුගිය 22 වෙනිදා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගනු ලැබීය.
-
-...
-
-[Data](articles/ef7d5653.json)
 
 ---

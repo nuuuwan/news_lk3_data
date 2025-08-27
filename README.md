@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 14:50:19**
+As of **2025-08-27 15:20:05**
 
 ## Newspaper Stats
 
-*Scraped **72,651** Articles*
+*Scraped **72,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,986
-adaderanalk | 9,208
-tamilmirrorlk | 10,779
-virakesarilk | 11,936
+adalk | 6,987
+adaderanalk | 9,217
+tamilmirrorlk | 10,780
+virakesarilk | 11,938
 adaderanasinhalalk | 12,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,651 articles have been extended.
+61,973 (85.3%) of 72,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-08-27 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/223500) · `ta`
+
+இன்று புதன்கிழமை (27) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.03 ஆகவும் கொள்வனவு விலை ரூபா 298.49 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (27.08.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
+
+◼️
+
+[Data](articles/a21c39cd.json)
+
+---
+
+### No objection from any diplomat regarding arrest of ex-President Ranil – Foreign Minister
+
+*2025-08-27 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111911/no-objection-from-any-diplomat-regarding-arrest-of-ex-president-ranil-foreign-minister-) · `en`
+
+No diplomat or diplomatic organization raised any objection regarding the arrest of former President Ranil Wickremesinghe, Minister of Foreign Affairs Vijitha Herath stated.
+
+Speaking at the weekly Cabinet media briefing held today (27), Minister Herath noted that although various individuals have made statements on the matter, such comments are not of significant relevance.
+
+The Minister also emphasized that the international community is currently observing that the law in Sri Lanka is being enforced equally and fairly.
+
+He added that although there were previous claims suggesting that the law was not being properly enforced in Sri Lanka, such a situation is no longer evident in the present context.
+
+◼️
+
+[Data](articles/37bc5bc9.json)
+
+---
+
+### அபர்ணா சென் என் தந்தையின் காதலி
+
+*2025-08-27 14:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அபர்ணா-சென்-என்-தந்தையின்-காதலி/54-363592) · `ta`
+
+சமூக வலைதளங்களிலும், கூகுளிலும் அபர்ணா சென் என்ற பெயர் கடந்த இரு தினங்களாக அதிகம் பேசப்பட்ட, தேடப்பட்ட ஒரு பெயராகியிருக்கிறது. அதற்கு காரணம் ‘கூலி’ படம் தொடர்பாக சன் பிக்சர்ஸ் நிறுவனம் வெளியிட்ட ஒரு பேட்டி.
+
+நடிகர் சத்யராஜும், நடிகை ஸ்ருதிஹாசனும் படத்தில் நடித்த அனுபவங்களை ஜாலியாக பகிர்ந்து கொள்ளும் அந்தப் பேட்டியில், கமல்ஹாசனின் பலமொழிப் புலமை குறித்து சத்யராஜ் சிலாகித்துப் பேசினார். 1977-ஆம் ஆண்டு கமல்ஹாசன் ஒரு வங்க மொழி படத்தில் நடித்ததையும் குறிப்பிட்டிருந்தார்.
+
+அப்போது குறுக்கிட்ட ஸ்ருதிஹாசன், “அப்பா வங்க மொழி ஏன் கற்றுக் கொண்டார் என்றால், அப்போது அவருக்கு அபர்ணா சென் மீது காதல் இருந்தது. அவரை இம்ப்ரஸ் செய்வதற்காக வங்க மொழியை முழுவதுமாக கற்றார். அதனால்தான் ‘ஹே ராம்’ படத்தில் ராணி முகர்ஜி கதாபாத்திரத்தின் பெயர் அபர்ணா. இப்போது நீங்கள் அதை கனெக்ட் செய்து கொள்ளலாம்” என்றார் ஸ்ருதிஹாசன்.
+
+கமல்ஹாசன் நடித்த அந்தப் படம் ‘கபிதா’. தமிழில் கே.பாலச்சந்தர் இயக்கத்தில் வெளியான ‘அவள் ஒரு தொடர்கதை’ படத்தின் வங்க மொழி ரீமேக்.
+
+...
+
+[Data](articles/2ac54873.json)
+
+---
+
+### Ex-Navy Commander Nishantha Ulugetenne further remanded
+
+*2025-08-27 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111910/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
+
+Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded, said Ada Derana reporter.
+
+He has been remanded until September 13 by the Polgahawela Magistrate’s Court.
+
+The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/6733b226.json)
+
+---
 
 ### නිශාන්ත උළුගෙතැන්න තවදුරටත් රිමාන්ඩ්
 
@@ -45,6 +111,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0dfd8ff6.json)
+
+---
+
+### தம்புள்ளையில் 05 வாகனங்கள் மோதி விபத்து ;  ஒருவர் காயம்
+
+*2025-08-27 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223499) · `ta`
+
+கொழும்பு - திருகோணமலை பிரதான வீதியில் தம்புள்ளை, போஹோரன் வெவ பகுதியில் ஐந்து வாகனங்கள் மோதி கொண்டதில் விபத்து ஏற்பட்டுள்ளது.
+
+கொழும்பிலிருந்து தம்புள்ளை நோக்கிச் சென்ற மூன்று வாகனங்கள் எதிர் திசையில் சென்ற லொறி மற்றும் கார் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/3379adef.json)
+
+---
+
+### Special awareness program to be conducted to address mental health problems among youth
+
+*2025-08-27 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111909/special-awareness-program-to-be-conducted-to-address-mental-health-problems-among-youth) · `en`
+
+A proposal to implement a medium-term project with the objective of educating school children and youth to address mental health problems has been approved by the Cabinet of Ministers.
+
+This has been proposed considering the suicide rate among Sri Lankans, the increase in drug addiction, and the emergence of psychosocial problems, especially among adolescents and young adults, according to the Department of Government Information.
+
+Through the 2025 budget, a provision of Rs. 250 million was also allocated to implement a special program to address mental health problems.
+
+Under this, the Ministry of Health and Mass Media has proposed to implement a medium-term program.
+
+...
+
+[Data](articles/04fbfb51.json)
 
 ---
 
@@ -124,6 +222,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### One injured after collision involving five vehicles in Dambulla
+
+*2025-08-27 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111908/one-injured-after-collision-involving-five-vehicles-in-dambulla) · `en`
+
+A road accident involving five vehicles has been reported along the Colombo–Trincomalee main road in the Pohoran Wewa area in Dambulla.
+
+The accident took place when three vehicles traveling from Colombo to Dambulla collided with a lorry and a car heading in the opposite direction.
+
+◼️
+
+[Data](articles/594c3f7a.json)
+
+---
+
 ### ඩොලර් සංචිත වැඩි කරගන්න ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
 
 *2025-08-27 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213851) · `si`
@@ -157,6 +269,26 @@ The replacement of the diagram takes a long time as 4 to 5 days are required for
 ◼️
 
 [Data](articles/630afa1d.json)
+
+---
+
+### Number of skeletal remains uncovered from Chemmani mass grave increases to 166
+
+*2025-08-27 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111907/number-of-skeletal-remains-uncovered-from-chemmani-mass-grave-increases-to-166) · `en`
+
+A total of 166 human skeletal remains have been unearthed thus far from a mass grave located near the Sindhubathi cemetery in Chemmani, Jaffna.
+
+Officials have stated that the fifth phase of the excavation process is planned to continue until September 7.
+
+The current phase is being conducted based on the findings of previous scanning investigations carried out on the mass grave site.
+
+The excavation is being conducted under the supervision of Jaffna Magistrate A.A. Anandarajah, with the involvement of a team of experts including Prof. Raj Somadeva, Senior Archaeologist from the University of Kelaniya, and Dr. Sellaiya Pirapanan, a specialist in forensic medicine from the University of Jaffna.
+
+The recovered skeletal remains and items found within the mass grave have been placed in the custody of Dr. Sellaiya Pirapanan, under the orders of the Jaffna Magistrate’s Court, for further forensic examination at the University of Jaffna’s Faculty of Forensic Medicine.
+
+...
+
+[Data](articles/b5ead577.json)
 
 ---
 
@@ -258,7 +390,29 @@ The Southern Expressway runs from Colombo to Hambantota. The stretch  being repa
 
 ---
 
-### ජනපති, අගමැති, අමාත්‍ය මණ්ඩලය ඇතුළු 31කට ශ්‍රේෂ්ඨාධිකරණයෙන් නොතීසි
+### Govt to award contract to local company to renovate section of Southern Expressway
+
+*2025-08-27 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111906/govt-to-award-contract-to-local-company-to-renovate-section-of-southern-expressway) · `en`
+
+The Cabinet of Ministers has granted approval to award the contract to a local company for the renovation of the section of the Southern Expressway between Kottawa and Dodangoda, covering 15 kilometers.
+
+The decision has been taken after extensive surface cracks and degradation of internal structural layers were observed in this stretch of the expressway.
+
+Therefore, it has been identified that the area should be renovated, the degraded base repaired, and a surface overlay applied, Minister Vijitha Herath said.
+
+For this purpose, bids were invited from qualified local institutions under the National Competitive Procurement procedure.
+
+Accordingly, after evaluating the received bids, the High-Level Standing Procurement Committee recommended awarding the contract to the lowest responsive bidder.
+
+The Cabinet of Ministers has therefore approved the proposal presented by the Minister of Transport, Highways, Ports, and Civil Aviation to award the contract to the said company.
+
+◼️
+
+[Data](articles/65a9445e.json)
+
+---
+
+### ඩිජිටල් IDයට අදාළ ඉන්දීය ගිවිසුම බලරහිත කරන්නැයි ඉල්ලු පෙත්සම සලකා බලන්න දිනදෙයි
 
 *2025-08-27 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213847) · `si`
 
@@ -290,6 +444,24 @@ The Southern Expressway runs from Colombo to Hambantota. The stretch  being repa
 
 ---
 
+### Sri Lanka approves action plan to combat illegal fishing in South Asian waters
+
+*2025-08-27 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111905/sri-lanka-approves-action-plan-to-combat-illegal-fishing-in-south-asian-waters) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal presented by the Minister of Fisheries, Water, and Ocean Resources to sign the regional action plan regarding actions related to illegal, unreported, and unregulated fishing in the region.
+
+The member countries of the Food and Agriculture Organization have unanimously passed the international action plan for the prevention, discouragement, and elimination of illegal, unreported, and unregulated catching of fish with the objective of restoring depleted fish stocks and ensuring food security in the year 2001.
+
+Accordingly, Sri Lanka has also prepared a national action plan for that purpose.
+
+Further, the member countries of the Intergovernmental Organization have collectively agreed to sign the regional action plan.
+
+...
+
+[Data](articles/e183c734.json)
+
+---
+
 ### நள்ளிரவில்  தாம்பத்யம்: ஜன்னல் வழியாக வீடியோ எடுத்த வாலிபர்
 
 *2025-08-27 13:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவில்-தாம்பத்யம்-ஜன்னல்-வழியாக-வீடியோ-எடுத்த-வாலிபர்/175-363584) · `ta`
@@ -305,6 +477,44 @@ The Southern Expressway runs from Colombo to Hambantota. The stretch  being repa
 ...
 
 [Data](articles/8d35d0ff.json)
+
+---
+
+### SC adjourns consideration of petitions challenging Sri Lanka–India Digital ID MoU
+
+*2025-08-27 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111903/sc-adjourns-consideration-of-petitions-challenging-sri-lankaindia-digital-id-mou) · `en`
+
+The Supreme Court has ordered that two petitions filed by former Minister Wimal Weerawansa and several others, seeking a ruling to invalidate the Memorandum of Understanding (MoU) signed between Sri Lanka and India for the implementation of a project to issue digital identity cards for Sri Lankan citizens, be taken up for consideration on October 17, 2025.
+
+The petitions were heard before a three-member Supreme Court bench comprising Chief Justice Preethi Padman Surasena and Justices Kumudini Wickremasinghe and Sampath Wijeratne.
+
+Solicitor General Viraj Dayaratne, appearing for the Attorney General, informed court that the respondents, including Cabinet Ministers named in the petitions, had not been issued notices thus far.
+
+Attorney Kanishka Vinarana Mahana, appearing on behalf of the petitioners, requested that an expedited date be fixed for the consideration of the case.
+
+Accordingly, the Supreme Court bench directed the attorney for the defendants to issue notices to the respondents.
+
+...
+
+[Data](articles/a33334c9.json)
+
+---
+
+### New methodology introduced for pricing of pharmaceutical drugs
+
+*2025-08-27 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111904/new-methodology-introduced-for-pricing-of-pharmaceutical-drugs) · `en`
+
+The Cabinet of Ministers has granted approval to a resolution seeking parliamentary approval for regulations issued under the National Medicines Regulatory Authority Act, No. 2 of 2025, relating to the pricing of pharmaceutical drugs.
+
+The regulations introduce a methodology for determining the maximum retail price of pharmaceutical products. They also specify the highest permissible price limits based on the dosage and severity of a particular drug or drug category.
+
+These regulations were published in Extraordinary Gazette No. 2446/34, dated July 21, 2025.
+
+Accordingly, the Cabinet of Ministers approved the resolution submitted by the Minister of Health and Mass Media to present the regulations to Parliament for approval.
+
+◼️
+
+[Data](articles/f0f57b0f.json)
 
 ---
 
@@ -749,6 +959,26 @@ Additionally, 13 other students who were injured in the accident have been admit
 ◼️
 
 [Data](articles/bbf7de39.json)
+
+---
+
+### රු. කෝටි 10ක දුරකතන කටුනායකින් පන්නන්න බැරි වෙයි
+
+*2025-08-27 11:13:26* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-10ක-දුරකතන-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-418099) · `si`
+
+රුපියල් කෝටි දහයක් වටිනා අති නවීනතම ජංගම දුරකථන තොගයක් , ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිසමේ නිසි අවසරයකින් තොරව මෙරටට රැගෙන ඒමට තැත් කළ ශ්‍රී ලාංකික ගුවන් මගීන් දෙදෙනෙකු 08/27 උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන් තොටුපොළ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත '' ( Green Channel ) ඔස්සේ පිට වී යාමට තැත් කරමින් සිටියදී අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් දෙදෙනාම කොළඹ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ පදිංචිකරුවන් වන අතර එක් අයෙකු 24 හැවිරිදි ව්‍යාපාරිකයෙකි . අනෙකා 32 හැවිරිදිය කර්මාන්තශාලාවක වැඩ සුපරීක්ෂකවරයෙකි .
+
+ඔවුන් දෙදෙනා 08/27 දින උදෑසන 07.00 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් විසින් රැගෙන ආ ගමන් මලු 03 ක් තුළ නීතිවිරෝධී ලෙස මෙරටට ගෙන ආ අති නවීනතම ජංගම දුරකථන 955 ක් සගවා ගෙන සිටියදී මෙම අත් අඩංගුවට ගැනීම සිදු කර තිබේ .
+
+රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් මොවුන් දෙදෙනා අත් අඩංගුවේ තබා ගෙන මේ පිළිබද වැඩිදුර විමර්ශන සිදු කරමින් සිටිති .
+
+◼️
+
+[Data](articles/64522ba7.json)
 
 ---
 
@@ -1581,201 +1811,5 @@ Established in 1989, Aitken Spence Elevators, a joint venture between Aitken Spe
 ...
 
 [Data](articles/785498da.json)
-
----
-
-### Elevating construction excellence: Würth Lanka hosts Engineering Forum on anchors and construction fixings
-
-*2025-08-27 06:05:23* · [`dailyftlk`](https://www.ft.lk/business/Elevating-construction-excellence-Würth-Lanka-hosts-Engineering-Forum-on-anchors-and-construction-fixings/34-780817) · `en`
-
-In its ongoing mission to advance Sri Lanka’s built environment, Würth Lanka Ltd., recently convened the Würth Lanka Engineering Forum 2025—a landmark gathering of leading civil engineers, structural consultants, and industry innovators from across the country. Under the banner “Elevating Construction Excellence,” the one-day event showcased cutting edge German engineered anchor systems and construction fixing solutions designed to raise safety, efficiency, and quality standards across local infrastructure projects.
-
-...
-
-[Data](articles/f675d635.json)
-
----
-
-### HelpAge SL and HelpAge Deutschland empower senior citizens through HASOP
-
-*2025-08-27 06:01:34* · [`dailyftlk`](https://www.ft.lk/news/HelpAge-SL-and-HelpAge-Deutschland-empower-senior-citizens-through-HASOP/56-780816) · `en`
-
-HelpAge Sri Lanka (HASL) in partnership with HelpAge Deutschland (HAD), is making a significant impact on the lives of older persons through the HelpAge Sri Lanka Older Persons’ Empowerment Project (HASOP).
-
-Launched in December 2024, the project continues through the end of 2025, working across Galle, Matara, and Hambantota districts to promote dignity, inclusion, and active participation for senior citizens.
-
-The HASOP adopts a holistic approach to elder empowerment, integrating advocacy for rights, improved access to healthcare, sustainable livelihood development, and strengthened leadership within Senior Citizens’ Clubs (SCCs).
-
-...
-
-[Data](articles/06f4c81b.json)
-
----
-
-### Model Children and Women’s Bureau opens at Colombo North Police station
-
-*2025-08-27 06:00:21* · [`dailyftlk`](https://www.ft.lk/news/Model-Children-and-Women-s-Bureau-opens-at-Colombo-North-Police-station/56-780815) · `en`
-
-Embassy of Japan Head of Economic and Development Cooperation Kenji Ohashi, and UNFPA Sri Lanka Assistant Representative Dr. Dayanath Ranatunga, handed over the newly constructed Japan-funded Model Children and Women’s Bureau (MCWB) at the Colombo North (Modara) Police Station to Sri Lanka Police. The Bureau, formerly known as the Emergency Waiting Area (EWA), represents a strengthened approach to supporting survivors of gender-based violence (GBV) and child abuse with dignity, privacy, and protection.
-
-Police Inspector General Priyantha Weerasuriya, Western Province SDIG Sanjeewa Dharmarathne, officers representing the Women and Children Abuse Investigation Range, World Vision Lanka National Director Dr. Dhanan Senathirajah, senior officers of the Sri Lanka Police, officials from the District Secretariat, and representatives from World Vision Lanka were present at the ceremony.
-
-...
-
-[Data](articles/621f2904.json)
-
----
-
-### Nandasiri Ponnamperuma appointed to Board of Directors of SOS Children’s Villages International
-
-*2025-08-27 05:59:09* · [`dailyftlk`](https://www.ft.lk/news/Nandasiri-Ponnamperuma-appointed-to-Board-of-Directors-of-SOS-Children-s-Villages-International/56-780814) · `en`
-
-National Board of SOS Children’s Villages Sri Lanka President Nandasiri Ponnamperuma was recently elected to the newly formed International Board of SOS Children’s Villages. Ponnamperuma’s appointment was made official during the 23rd Ordinary General Assembly of SOS Children’s Villages International, held recently in Vienna, Austria.
-
-The International Board’s 13 newly elected members, all of whom volunteered for the position, replace the former International Senate. Selected from among 138 member associations worldwide to serve on the newly formed International Board, Ponnamperuma will represent the Asian region alongside a second representative from Nepal. His appointment reflects SOS Children’s Villages Sri Lanka’s commitment to advancing child rights and protection on a broader scale. Ponnamperuma’s appointment will contribute to ensuring long-term sustainability and accountability, overseeing executive leadership, and guiding future planning for the organisation.
-
-...
-
-[Data](articles/5e125ae7.json)
-
----
-
-### First-ever mass wedding in Sri Lanka’s history – 20 couples united under one roof
-
-*2025-08-27 05:58:04* · [`dailyftlk`](https://www.ft.lk/news/First-ever-mass-wedding-in-Sri-Lanka-s-history-20-couples-united-under-one-roof/56-780813) · `en`
-
-Under the initiative of Member of Parliament and All Ceylon Makkal Congress (ACMC) leader Rishad Bathiudeen, the inaugural mass wedding ceremony was successfully held in Puttalam under the project titled “Mawaddatha wa Rahmah” (affection and mercy).
-
-This historic, first-of-its-kind event in Sri Lanka’s history brought together 20 selected couples in a collective marriage ceremony at the White Mantapam Hall. The event was organised by OHRD, chaired by Justice Saleem Marsoof (Retd.), who presided over the arrangements.
-
-...
-
-[Data](articles/dc6b8939.json)
-
----
-
-### CPC, PSTL boost bunkering capacity at Colombo Port
-
-*2025-08-27 05:56:08* · [`dailyftlk`](https://www.ft.lk/business/CPC-PSTL-boost-bunkering-capacity-at-Colombo-Port/34-780812) · `en`
-
-From right: Energy Minister Eng. Kumara Jayakody, Civil Aviation Deputy Minister Janitha Ruwan Kodithuwakku, CPC Chairman Janaka Rajakaruna, and Managing Director Dr. Mayura Neththikumarage
-
-Phase one of expanding bunkering capacity begins operations at Colombo Port South Jetty
-
-Energy Minister Eng. Kumara Jayakody says Govt. addressing longstanding bottlenecks
-
-The Energy Ministry yesterday said that it has expanded bunkering capacity at the Colombo Port South Jetty with the launch of new pipelines and fuelling facilities. The initiative, a joint project of the Ceylon Petroleum Corporation (CPC) and Petroleum Storage Terminals Ltd., (PSTL), marks the first phase of a plan to upgrade petroleum storage, distribution, and bunkering operations.
-
-...
-
-[Data](articles/fe62fba3.json)
-
----
-
-### Free Trade Zone Manufacturers Association hails UK boost for Lankan exports
-
-*2025-08-27 05:54:33* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-Association-hails-UK-boost-for-Lankan-exports/34-780811) · `en`
-
-The Free Trade Zone Manufacturers Association (FTZMA) has welcomed the United Kingdom’s decision to liberalise Rules of Origin and offer Zero Tariff access for Sri Lankan exports under the Developing Countries Trading Scheme (DCTS).
-
-“This generous reform goes far beyond the apparel sector. Sri Lankan exporters now enjoy duty-free access to over 7,000 eligible product lines across a wide range of industries. In addition, the liberalisation of Rules of Origin provisions, particularly in apparel, allows manufacturers to source up to 100% of inputs from any country while maintaining tariff-free entry into the UK market,” said the FTZMA in a letter to UK High Commissioner Andrew Patrick.
-
-...
-
-[Data](articles/9ff3549e.json)
-
----
-
-### Ex-President Ranil should undergo immediate heart surgery – Dr. Rukshan Bellana
-
-*2025-08-27 05:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111884/ex-president-ranil-should-undergo-immediate-heart-surgery-dr-rukshan-bellana) · `en`
-
-Dr. Rukshan Bellana, the Deputy Director of the Colombo National Hospital says that it is appropriate to refer former President Ranil Wickremesinghe for urgent heart surgery.
-
-He stated that this surgery should ideally be carried out at the Colombo National Hospital according to the waiting list, but if not, former President Wickremesinghe has the option to undergo the procedure at a private hospital.
-
-...
-
-[Data](articles/80ec3f76.json)
-
----
-
-### Sri Lanka will become a $ 100 billion plus economy in 2025
-
-*2025-08-27 05:46:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-will-become-a-100-billion-plus-economy-in-2025/4-780809) · `en`
-
-Sri Lanka’s economy crashed to $ 74 billion in 2022 with the financial crisis hitting the country. However, with the structural changes that took place and the resiliency of the private sector, the country is poised to cross the magical $ 100 billion mark in 2025. Research reveals that similar countries that were termed small economies and grew to cross $ 100 billion have been valued as a nation brand to be worth a $ 100 billion and they turned to be strong economies globally.
-
-What makes Sri Lanka special is that if we analyse the details – Maldives is heading towards a financial crisis next year with the shutters already put up. Pakistan is still in political turmoil and fighting to manage the financial crisis. Bangladesh is picking up the pieces to bring back the lost glory but politically is lacking leadership. Nepal is showing signs of an economic recovery but is reliant on one sector – the tourism industry.
-
-...
-
-[Data](articles/5d0b54b4.json)
-
----
-
-### US imposes 50% tariff on Indian goods starting today, Modi says buy local
-
-*2025-08-27 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111883/us-imposes-50-tariff-on-indian-goods-starting-today-modi-says-buy-local-) · `en`
-
-The U.S. has imposed a new 50% tariff on Indian-origin goods starting Wednesday, August 27. The tariff is a response by the Trump administration to India’s continued purchase of discounted Russian oil.
-
-The U.S. Department of Homeland Security published a notice that the increased levies will apply to goods entered for consumption or withdrawn from a warehouse for consumption on or after 12:01 AM Eastern Daylight Time on August 27.
-
-President Donald Trump argued that the measure is necessary to advance peace negotiations with Russia on Ukraine. He termed India’s trade with Russia as indirect funding of the Russian war on Ukraine.
-
-Modi urges Indian citizens to prioritize Swadeshi goods amid the tariff hike
-
-...
-
-[Data](articles/aa750b1c.json)
-
----
-
-### Misuse and abuse of public funds beyond presidency
-
-*2025-08-27 05:40:06* · [`dailyftlk`](https://www.ft.lk/columns/Misuse-and-abuse-of-public-funds-beyond-presidency/4-780808) · `en`
-
-The starting point therefore is for the people, for concerned citizens to demand necessary amendments immediately to the Referendum Act
-
-Arrest and detention of former president Ranil Wickremesinghe last Friday (22 August), under the “Offences Against Public Property Act No. 12 of 1982” reported as the first such arrest of a former Head of State in Sri Lanka, brings about an issue that had not been paid attention to, though frequent allegations are made on “abuse of public property”. As raised by Moratuwa Municipal Council member, Attorney at Law Lihini Fernando, how public life in high office and the individual’s private life could be recognised and differentiated for the benefit of the office held and the individual’s freedom has never been looked into by any. For the presidency, it is by all means a daunting and a challenging task.
-
-...
-
-[Data](articles/75803319.json)
-
----
-
-### Several spells of showers expected in various parts of the country today
-
-*2025-08-27 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111882/several-spells-of-showers-expected-in-various-parts-of-the-country-today-) · `en`
-
-Several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (27), the Department of Meteorology said.
-
-A few showers may occur in the North-western and Northern provinces as well.
-
-Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
-
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts.
-
-The general public has also been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7fa9036b.json)
-
----
-
-### Aggregating innovation: Sri Lanka FinTech Summit aims to spark digital economic renaissance
-
-*2025-08-27 05:34:28* · [`dailyftlk`](https://www.ft.lk/business/Aggregating-innovation-Sri-Lanka-FinTech-Summit-aims-to-spark-digital-economic-renaissance/34-780805) · `en`
-
-SL FinTech Summit’s mission to enable transformative change with coordinated ecosystem development
-
-In the bustling streets of Colombo, a small garment manufacturer still conducts most transactions in cash, despite owning a smartphone more powerful than the computers that once ran entire banks. Across the city, a FinTech start-up has developed innovative credit scoring algorithms but struggles to access the customer data that could make their solution transformative. Meanwhile, a major bank has invested millions in establishing secure digital infrastructure that while effective, still remains siloed mainly from the broader financial ecosystem.
-
-...
-
-[Data](articles/b4fed42f.json)
 
 ---

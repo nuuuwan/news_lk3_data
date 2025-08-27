@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 00:26:13**
+As of **2025-08-28 00:34:03**
 
 ## Newspaper Stats
 
-*Scraped **72,720** Articles*
+*Scraped **72,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,998
-adaderanalk | 9,227
+adaderanalk | 9,229
 tamilmirrorlk | 10,791
-virakesarilk | 11,947
+virakesarilk | 11,950
 adaderanasinhalalk | 12,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,720 articles have been extended.
+61,973 (85.2%) of 72,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### பாணத்துறையில் – வந்துரமுல்ல பகுதியில் துப்பாக்கிச் சூடு: ஒருவர் உயிரிழப்பு
+
+*2025-08-27 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223539) · `ta`
+
+பாணத்துறையில் – வந்துரமுல்ல அலுபோகஹவத்தை பகுதியில் உள்ள வீடொன்றில், அடையாளம் தெரியாத துப்பாக்கி தாரிகள் துப்பாக்கி சூட்டு பிரயோகத்தில், ஒருவர் சுட்டுக்கொல்லப்பட்டார் என்று பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/72800fe6.json)
+
+---
 
 ### துப்பாக்கிச் சூட்டில் ஒருவர் சுட்டுக் கொலை
 
@@ -63,6 +75,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2e35bd94.json)
+
+---
+
+### 11 injured in head-on collision of two buses in Tangalle
+
+*2025-08-27 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111923/11-injured-in-head-on-collision-of-two-buses-in-tangalle) · `en`
+
+A total of eleven people have sustained injuries in a road accident that occurred this evening (27) when two buses collided head-on in the Mahawela area of Tangalle.
+
+The accident reportedly occurred when a Sri Lanka Transport Board (SLTB) bus traveling from Matara to Tangalle collided head-on with another SLTB bus traveling from Tangalle to Dickwella.
+
+The injured have been admitted to Nakulugamuwa and Tangalle hospitals for further treatment.
+
+◼️
+
+[Data](articles/d60b6fba.json)
 
 ---
 
@@ -107,6 +135,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3ebfb324.json)
+
+---
+
+### தங்காலை – மாவெல்ல சந்தியில் இரு பேருந்துகள் மோதிய விபத்து : 12 பேர் காயம்
+
+*2025-08-27 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223538) · `ta`
+
+தங்காலை, நகுலுகமப் பகுதியில் உள்ள மாவெல்ல சந்தி அருகே 27ஆம் திகதி புதன்கிழமை இரண்டு இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்துகள் நேருக்கு நேர் மோதியதில் விபத்து ஏற்பட்டது.
+
+◼️
+
+[Data](articles/e3c7cf3f.json)
+
+---
+
+### ‘Every woman and girl must be able to live with dignity and safety’ - PM Harini
+
+*2025-08-27 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111922/every-woman-and-girl-must-be-able-to-live-with-dignity-and-safety-pm-harini) · `en`
+
+The Prime Minister Dr. Harini Amarasuriya participated in the policy and research forum titled “Unlocking the Gender Dividend: Driving Policy Change Through Knowledge,” hosted by the United Nations Population Fund (UNFPA) Sri Lanka today (August 27) at Galle Face Hotel.
+
+During the event four landmark reports were officially presented to the Prime Minister that provide the policymakers, researchers, and civil society, with critical evidence and policy recommendations to address persistent gender inequalities and emerging challenges in Sri Lanka and create a more inclusive and equitable society, the Prime Minister’s Media Division said.
+
+Delivering the keynote address, Prime Minister Dr. Harini Amarasuriya noted that every woman and girl must be able to live with dignity, feel safe, and contribute fully to the life of this country. She added that when this is true, the whole nation moves forward.
+
+...
+
+[Data](articles/7a37db4e.json)
 
 ---
 
@@ -155,6 +211,24 @@ The United States deeply appreciates Sri Lanka’s warm welcome for the USS Tuls
 ◼️
 
 [Data](articles/1d209a89.json)
+
+---
+
+### வடக்கு மக்கள் இழந்த உயிர்களைத் தவிர அனைத்தையும் நாம் மீளவும் தருவோம்- அமைச்சர் கலாநிதி எச்.எம்.எச். அபயரத்தன
+
+*2025-08-27 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/223537) · `ta`
+
+வடக்கு மக்கள் இழந்த உயிர்களைத் தவிர அனைத்தையும் நாம் மீளவும் தருவோம் என பொதுநிர்வாக உள்நாட்டலுவல்கள், மாகாணசபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் கலாநிதி எச்.எம்.எச். அபயரத்தன தெரிவித்தார்.
+
+வடக்கு மாகாணசபையின் முன்னேற்ற மீளாய்வு தொடர்பான விசேட கலந்துரையாடல் வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் தலைமையில், பொதுநிர்வாக உள்நாட்டலுவல்கள், மாகாணசபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் கலாநிதி எச்.எம்.எச்.அபயரத்தன, கடற்றொழில், நீரியல், கடல்வளங்கள் அமைச்சர் இ.சந்திரசேகர், பொதுநிர்வாக உள்நாட்டலுவல்கள், மாகாணசபைகள் மற்றும் உள்ளூராட்சி பிரதி அமைச்சர் பி.ருவான் செனரத் ஆகியோரின் பங்கேற்புடன் ஆளுநர் செயலகத்தில்  புதன்கிழமை இடம்பெற்றது.
+
+இதில் கலந்து கொண்டு வடக்கு மாகாணத்தின் தேவைகள் பிரச்சினைகள் தொடர்பில் கருத்து தெரிவிக்கையில் இதனை தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்;
+
+அனைத்துறைகளிலும் உள்ள ஆளணி வெற்றிடங்களையும் படிப்படியாக நிரப்புவதற்கான நடவடிக்கைகள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளன. ஒவ்வொரு துறையாக அவை நிரப்பப்படும். அதேபோல திணைக்களங்களுக்குத் தேவையான வாகனங்களும் வழங்குவதற்கு விரைவான நடவடிக்கை எடுக்கப்படும்.
+
+...
+
+[Data](articles/67983163.json)
 
 ---
 
@@ -1709,97 +1783,5 @@ At the IMF’s request, the Commonwealth Secretariat has been advising the gover
 ...
 
 [Data](articles/e529afc6.json)
-
----
-
-### Special Commodity Levy on potatoes and big onions increased
-
-*2025-08-27 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111899/special-commodity-levy-on-potatoes-and-big-onions-increased) · `en`
-
-The Special Commodity Levy on imported potatoes has been increased from Rs. 60 to Rs. 80 per kilogram, the Ministry of Finance said.
-
-Furthermore, the levy on a kilogram of big onions has been increased from Rs. 10 to Rs. 50, with effect from yesterday (26).
-
-The gazette extraordinary in this regard has been issued by President Anura Kumara Dissanayake in his capacity as the Minister of Finance.
-
-◼️
-
-[Data](articles/cf1a01f5.json)
-
----
-
-### வெளிநாட்டு சிகரெட்டுகளை கடத்த முயன்ற மூவர் கைது
-
-*2025-08-27 11:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளை-கடத்த-முயன்ற-மூவர்-கைது/175-363577) · `ta`
-
-45.8 மில்லியன் ரூபாய் மதிப்புள்ள வெளிநாட்டு சிகரெட்டுகளை கடத்த முயன்ற மூன்று இலங்கையர்கள் இன்று (27) கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளனர்.
-
-'கிரீன் சேனலை' பயன்படுத்த முயன்ற மூவரையும் இலங்கை சுங்க அதிகாரிகள் கைது செய்தனர்.
-
-24, 28 மற்றும் 30 வயதுடைய சந்தேக நபர்கள் துபாயில் சிகரெட்டுகளை வாங்கி டோஹா வழியாக இலங்கைக்கு கடத்தியதாக  கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/0a2a10da.json)
-
----
-
-### Ex-President Ranil to remain in ICU for two more days – National Hospital
-
-*2025-08-27 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/111898/ex-president-ranil-to-remain-in-icu-for-two-more-days-national-hospital) · `en`
-
-Former President Ranil Wickremesinghe will need to remain in the Intensive Care Unit (ICU) of the Colombo National Hospital for approximately two more days, as recommended by specialist doctors, according to the Deputy Director, Dr. Rukshan Bellana.
-
-Speaking at a media briefing held this morning (27), Dr. Bellana stated that the former president is no longer a detainee, and therefore, he is free to consult his private physician or seek treatment at a private hospital if desired.
-
-Dr. Bellana further noted that the former President’s severe dehydration, which was a major concern upon admission, is now gradually subsiding with medical treatment.
-
-He also emphasized that the National Hospital provides equal service to all patients, stating: “Everyone who comes to the hospital is treated the same, regardless of their background or status.”
-
-...
-
-[Data](articles/5856ce62.json)
-
----
-
-### Sri Lanka rupee steady, stocks up
-
-*2025-08-27 11:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-stocks-up-238444/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 203.30/35 to the US dollars in the spot market Wednesday in late morning trde, marginally weaker from 302.25/33 while bond were broadly unchanged, dealers said.
-
-The Colombo All Share Index was up 0.64 percent in later morning trade.
-
-A bond maturing on 15.12.2026 was quoted at 8.10/24 percent steady from 8.10/20 percent o Tuesday.
-
-A bond maturing on 15.09.2027 was quoted at 8.55/65 percent from 55/64 percent.
-
-A bond maturing on 15.12.2028 was quoted at 9.90/9.00 percent lower from 8.95/9.00 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.43/45 percent steady from 9.43/46 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.27/35 down from 10.26/33 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.75/85 percent, flat. (Colombo/Aug26/2025)
-
-◼️
-
-[Data](articles/4f10105f.json)
-
----
-
-### யாசகராக மாறிய அஜித்தின் சுவாரசிய தகவல்கள்
-
-*2025-08-27 11:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாசகராக-மாறிய-அஜித்தின்-சுவாரசிய-தகவல்கள்/175-363576) · `ta`
-
-தேசிய பாது​காப்பு ஆலோ​சகர் அஜித் தோவல் குறித்த நூல் அண்​மை​யில் வெளி​யானது. அதில் பல்​வேறு சுவாரசிய தகவல்​கள் இடம்​பெற்​றுள்​ளன. உத்​த​ராகண்ட் மாநிலம், பவுரி கர்​வால் அருகே கிரி என்ற மலைக்​ கி​ராமத்​தில் கடந்த 1945ஆம் ஆண்டில் அஜித் தோவல் பிறந்​தார். உத்தர பிரதேச முன்​னாள் முதல்​வர் ஹேம்​வதி நந்​தன் பகு​குணா​வின் நெருங்​கிய உறவினரான அவர், கடந்த 1968ஆம் ஆண்​டில் ஐபிஎஸ் அதி​காரி​யா​னார்.
-
-கேரள பொலிஸ் துறை​யில் பணி​யாற்​றிய தோவல், கடந்த 1971ஆம் ஆண்டில் தலச்​சேரி​யில் நடை​பெற்ற கலவரத்தை கட்​டுப்​படுத்தி நாடு முழு​வதும் பிரபலம் அடைந்​தார். கடந்த 1972ஆம் ஆண்​டில் இந்​திய உளவுத் துறை​யில் அஜித் தோவல் இணைந்​தார்.
-
-மிசோரமில் செயல்​பட்ட தீவிர​வாத குழுக்​கள் குறித்த தகவல்​களை திரட்ட அவர் அனுப்​பப்​பட்​டார். அவரது தீவிர முயற்​சி​யால் கடந்த 1986ஆம் ஆண்​டில் இந்திய அரசுக்​கும் தீவிர​வாத குழுக்​களுக்​கும் இடையே அமைதி ஒப்​பந்​தம் கையெழுத்​தானது.
-
-...
-
-[Data](articles/b4ef0812.json)
 
 ---

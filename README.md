@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 15:32:24**
+As of **2025-08-27 15:49:54**
 
 ## Newspaper Stats
 
-*Scraped **72,664** Articles*
+*Scraped **72,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,987
 adaderanalk | 9,217
-tamilmirrorlk | 10,780
+tamilmirrorlk | 10,782
 virakesarilk | 11,938
 adaderanasinhalalk | 12,585
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,664 articles have been extended.
+61,973 (85.3%) of 72,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### முன்னாள் கடற்படைத் தளபதி நிஷாந்​தவுக்கு விளக்கமறியலில்
+
+*2025-08-27 15:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படைத்-தளபதி-நிஷாந்-தவுக்கு-விளக்கமறியலில்/175-363596) · `ta`
+
+இலங்கை கடற்படையின் முன்னாள் தளபதி  நிஷாந்த உலுகேதென்னவை எதிர்வரும் செப்டம்பர் 10 ஆம் திகதி வரை மேலும் விளக்கமறியலில் வைக்குமாறு பொல்கஹவெல நீதவான் நீதிமன்றம் செவ்வாய்க்கிழமை (27) அன்று  உத்தரவிட்டுள்ளது.
+
+பொதுஹெரவை பிரதேசத்தை சேர்ந்த இளைஞன்  ஒருவர் காணாமல் போன சம்பவம் தொடர்பில் மேற்கொள்ளப்பட்டு வரும் விசாரணைகளின் அடிப்படையில், நிஷாந்த உலுகேதென்ன கடந்த ஜூலை மாதம் 28 ஆம் திகதி குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைதுசெய்யப்பட்ட நிலையில் நீதிமன்ற உத்தரவின் கீழ் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8ab1d4e3.json)
+
+---
+
+### “ஒரு நாட்டை ஆள மூளை போதும்”
+
+*2025-08-27 15:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-நாட்டை-ஆள-மூளை-போதும்/175-363595) · `ta`
+
+“ஒரு நாட்டை ஆளத் தேவையான ஒரே விஷயம் மூளைதான்” என்று கூறிய கொழும்பு தேசிய மருத்துவமனையின் பிரதி பணிப்பாளர் டாக்டர் ருக்ஷன் பெல்லனா, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தொற்றாத நோய்களால் பாதிக்கப்பட்டுள்ளார் என்றார்.
+
+ஊடகங்களுக்கு கருத்துத் தெரிவித்த பிரதி பணிப்பாளர் டாக்டர் ருக்ஷன் பெல்லனா, மருத்துவமனையில் விக்கிரமசிங்க அனுமதிக்கப்பட்டதற்கு வழிவகுத்த சம்பவத்தில் ஈடுபட்டவர்களுக்கு நன்றி தெரிவிக்க வேண்டும் என்றும், ஏனெனில் அது அவரது உடல்நிலையை சரியாக அடையாளம் காண அனுமதித்தது என்றார்.
+
+“மருத்துவமனையில் அனுமதிக்கப்பட்டதன் விளைவாக, அவர் இப்போது சரியான சிகிச்சையைப் பெற்று இளமை வலிமையை மீண்டும் பெற முடியும்” என்று டாக்டர் பெல்லனா குறிப்பிட்டார்.
+
+அவர் மேலும் கூறினார், “எனக்குத் தெரிந்தவரை, அவருக்கு நடந்தது உண்மையில் ஒரு நல்ல விஷயம்.” என்றார்.
+
+◼️
+
+[Data](articles/adaf8082.json)
+
+---
 
 ### இன்றைய நாணய மாற்று விகிதம்
 
@@ -1781,35 +1813,5 @@ Officials from the Embassy of the People’s Republic of China graced the occasi
 ...
 
 [Data](articles/8a71086a.json)
-
----
-
-### ILCCI-FICCI-Edelman Group webinar on  ‘Think India’ and emerging growth opportunities
-
-*2025-08-27 06:07:23* · [`dailyftlk`](https://www.ft.lk/business/ILCCI-FICCI-Edelman-Group-webinar-on-Think-India-and-emerging-growth-opportunities/34-780819) · `en`
-
-The Indo-Lanka Chamber of Commerce & Industry (ILCCI) affiliated to The Ceylon Chamber of Commerce successfully hosted an interactive webinar aimed at equipping Sri Lankan business leaders with a deeper understanding of India’s evolving policy environment, economic priorities, and emerging strategic growth sectors. The session was presented by the Edelman Group and supported by the Federation of Indian Chambers of Commerce & Industry (FICCI).
-
-Led by Edelman’s Public & Government Affairs practice, the program explored how Sri Lankan enterprises can align with India’s growth trajectory for long-term value creation. The comprehensive discussion covered diverse topics, from identifying sectoral opportunities in various Indian states to outlining the essential steps required to enter and thrive in the Indian market.
-
-...
-
-[Data](articles/7a7c0723.json)
-
----
-
-### Aitken Spence Elevators and Rush Housing forge strategic partnership for vertical mobility across new developments
-
-*2025-08-27 06:07:02* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Elevators-and-Rush-Housing-forge-strategic-partnership-for-vertical-mobility-across-new-developments/34-780818) · `en`
-
-Aitken Spence Elevators Ltd., has signed a Memorandum of Understanding (MoU) with Rush Housing Ltd., to provide nine OTIS Gen2 Hz machine room-less elevators for five upcoming residential projects in Colombo District.
-
-The projects include Maimoon Residencies (Dehiwala), Rush Court 5 (Mahawatte), Rush Tower 2 (Dehiwala), Street Rush Residencies, and Rush Metropolis (Dehiwala).
-
-Established in 1989, Aitken Spence Elevators, a joint venture between Aitken Spence PLC and OTIS Elevator Company (Singapore) PTE Ltd., is Sri Lanka’s exclusive provider of OTIS elevators and escalators, servicing over 95% of Colombo’s high-rise buildings. As the first and only elevator company in Sri Lanka certified with an integrated management system (ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018), Aitken Spence Elevators continues to lead in quality, environmental stewardship, and workplace safety.
-
-...
-
-[Data](articles/785498da.json)
 
 ---

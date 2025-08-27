@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 13:51:37**
+As of **2025-08-27 14:08:55**
 
 ## Newspaper Stats
 
-*Scraped **72,640** Articles*
+*Scraped **72,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 4,434
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,984
+adalk | 6,985
 adaderanalk | 9,208
 tamilmirrorlk | 10,776
 virakesarilk | 11,936
-adaderanasinhalalk | 12,580
+adaderanasinhalalk | 12,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,640 articles have been extended.
+61,973 (85.3%) of 72,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### දක්ෂිණ අධිවේගයේ කොටසක් ප්‍රතිසංස්කරණයට කැබිනට් අනුමැතිය
+
+*2025-08-27 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213850) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව සහ දොඩංගොඩ අතර 19වන කිලෝමීටරයේ සිට 34වන කිලෝමීටරය දක්වා ප්‍රදේශයේ පුළුල් පෘෂ්ඨික ඉරි තැළුම් සහ අභ්‍යන්තර ව්‍යූහාත්මක ස්ථරවල භායනයන් සිදු වී ඇති බව නිරීක්ෂණය කර ඇත.
+
+ඒ අනුව එම මාර්ග කොටස ප්‍රතිසංස්කරණය කිරීම, පාදමේ බිඳ වැටීම් දෝෂාපහරණය සහ නව ආස්තරණයක් යෙදීම සිදුකළ යුතු බවට හඳුනාගනු ලැබ තිබේ.
+
+ඒ සඳහා, ජාතික තරගකාරි ලංසු කැඳවීමේ ප්‍රසම්පාදන ක්‍රමවේදය අනුගමනය කරමින් සුදුසුකම්ලත් දේශීය ආයතන වෙතින් ලංසු කැඳවා ඇත.
+
+ලැබී ඇති ලංසු ඇගයීමෙන් පසු ඉහළ මට්ටමේ ස්ථාවර ප්‍රසම්පාදන කමිටුව විසින් සාරානුකූලව ප්‍රතිචාර දක්වන ලද අවම ලංසුකරු වන මාගා ඉංජිනියරින් (ප්‍රයිවට්) ලිමිටඩ් වෙත කොන්ත්‍රාත්තුව ප්‍රදානය කිරීමට නිර්දේශ කර තිබේ.
+
+එම කොන්ත්‍රාත්තුව පිරිනැමීමට ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව ඇත.
+
+◼️
+
+[Data](articles/7b5602d1.json)
+
+---
+
+### බිහිසුණු පාසල් වෑන් අනතුර ගැන තවත් තොරතුරු - ටිපර් රියදුරා අත්අඩංගුවට
+
+*2025-08-27 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213849) · `si`
+
+කුලියාපිටිය විලපොළ මංසන්ධියේ පල්ලේවෙල පාලම මතදී ටිපර් රථයක් හා පාසල් වෑන් රථයක් මුහුණට මුහුණ ගැටී අද (27) උදෑසන සිදුවූ අනතුරකින් සිසුවියන් දෙදෙනෙකු හා වෑන් රථයේ රියදුරු මියගොස් තිබුණි.
+
+තුවාල ලැබූ සිසු සිසුවියන් 13 දෙනෙකු රෝහල්ගතව ප්‍රතිකාර ලබමින් පසු වෙයි.
+
+පාසල් වෑන් රථය දුම්මලසූරිය ප්‍රදේශයේ සිට කුලියාපිටිය දක්වා පැමිණ තිබුණි.
+
+වැලි පැටවූ ටිපර් රථය ධාවනය කර තිබුණේ කුලියාපිටිය ප්‍රදේශයේ සිට, වෑන් රථයට ප්‍රතිවිරුද්ධ දිශාවටය.
+
+අනතුරත් සමග එම ස්ථානයට පැමිණි පොලිසිය සහ ජනතාව තුවාල ලැබූ සිසුන් කඩිනමින් රෝහල්ගත කිරීමට පියවර ගෙන තිබුණි.
+
+අනතුර සිදුවන අවස්ථාවේ වෑන් රථයේ සිසුවියන් 12 දෙනෙකු සහ සිසුන් තිදෙනෙකු සිට ඇති බව පොලිසිය පැවසීය.
+
+එහිදී මියගොස් ඇත්තේ, වයස අවුරුදු 12ත් 13ත් අතර වයස්වල පසුවන සිසුවියන් දෙදෙනෙකි.
+
+අනතුරින් තුවාල ලැබූ සිසු සිසුවියන් 13 දෙනාගෙන් 9 දෙනෙකු මේ වනවිට කුලියාපිටිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන අතර තවත් තිදෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කෙරුණි.
+
+එක් සිසුවියක් කොළඹ ජාතික රෝහලට මාරු කර යැවීමට ද පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/efbfe31b.json)
+
+---
 
 ### MAGA Engineering wins deal to repair Sri Lanka’s Southern Expressway
 
@@ -66,13 +114,13 @@ The Southern Expressway runs from Colombo to Hambantota. The stretch  being repa
 
 ---
 
-### වාහන 5ක් එක පෙළට ගැටෙයි
+### වාහන 5ක් එකපෙළට ගැටෙයි
 
 *2025-08-27 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213848) · `si`
 
 කොළඹ - ත්‍රිකුණාමල ප්‍රධාන මාර්ගයේ දඹුල්ල, පොහොරන් වැව ප්‍රදේශයේ රථ වාහන පහක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
 
-අනතුරනි එක් අයෙකු තුවාල ලබා ඇති අතර, එම අවස්ථාවේ CCTV දර්ශන පෙළක් ද අද දෙරණට ලැබී ඇත.
+අනතුරෙන් එක් අයෙකු තුවාල ලබා ඇති අතර, එම අවස්ථාවේ CCTV දර්ශන පෙළක් ද අද දෙරණට ලැබී ඇත.
 
 කොළඹ සිට දඹුල්ල දෙසට ධාවනය වූ වාහන තුනක් හා දඹුල්ල සිට කොළඹ දෙසට ධාවනය වු ලොරියක් හා කාර් රථයක් එකිනෙක ගැටීමෙන් අනතුර සිදුව තිබුණි.
 
@@ -163,6 +211,20 @@ The Southern Expressway runs from Colombo to Hambantota. The stretch  being repa
 ◼️
 
 [Data](articles/3fbac1a6.json)
+
+---
+
+### ඖෂධ වල උපරිම සිල්ලර මිල නියම කිරීමේ නියෝගය පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට අනුමැතිය
+
+*2025-08-27 12:49:56* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වල-උපරිම-සිල්ලර-මිල-නියම-කිරීමේ-නියෝගය-පාර්ලිමේන්තුවට-ඉදිරිපත්-කිරීමට-අනුමැතිය/11-418101) · `si`
+
+ඖෂධ වල උපරිම සිල්ලර මිල නිර්ණය කිරීම සඳහා වන නියෝගය පාර්ලිමේන්තුවේ අනුමැතිය සඳහා ඉදිරිපත් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වූ බව අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/458f64ac.json)
 
 ---
 
@@ -1699,51 +1761,5 @@ At AB Mauri, the commitment to achieving zero accidents is a core value that enc
 ...
 
 [Data](articles/dcfe3c3f.json)
-
----
-
-### Raising the Bar Again: CIPM adds ISO 21001:2018 to its growing list of global accreditations
-
-*2025-08-26 23:09:00* · [`islandlk`](http://island.lk/raising-the-bar-again-cipm-adds-iso-210012018-to-its-growing-list-of-global-accreditations/) · `en`
-
-CIPM Sri Lanka, the nation’s leader in Human Resource Management, has achieved a landmark accomplishment by earning the ISO 21001:2018 Educational Organization Management System (EOMS) certification from the Sri Lanka Standards Institution (SLSI) – an honour that cements its position at the forefront of educational excellence.
-
-The certification was ceremoniously presented to Priyantha Ranasinghe, President of CIPM Sri Lanka, by Dr. Siddhika G. Senaratne, Director General of the Sri Lanka Standards Institution (SLSI). The presentation took place at the CIPM Diploma Awarding Ceremony held at the BMICH, in the presence of an esteemed gathering of distinguished guests, Council Members, faculty, students, and staff.
-
-...
-
-[Data](articles/459109d0.json)
-
----
-
-### නියෝජ්‍ය අමාත්‍යවරුන් වේරහැර මෝටර් රථ දෙපාර්තමේන්තුවේ නිරීක්ෂණ චාරිකාවක
-
-*2025-08-26 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213834) · `si`
-
-ඩිජිටල් ආර්ථික නියෝජ්‍ය අමාත්‍ය එරංග වීරරත්න මහතා සහ වරාය සහ සිවිල් ගුවන්සේවා නියෝජ්‍ය අමාත්‍ය ජනිත කොඩිතුවක්කු මහතා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ වේරහැර ශාඛාව වෙත නිරීක්ෂණ චාරිකාවක් සඳහා සහභාගී විය.
-
-එහිදී නියෝජ්‍ය අමාත්‍යවරුන් පෙන්වා දුන්නේ, මේ වනවිට රියදුරු බලපත්‍රය ලබාගැනීම සඳහා පැමිණෙන ජනතාවට ජාතික ප්‍රවාහන වෛද්‍ය ආයතනය මගින් මුද්‍රණ පිටපතක් ආකාරයෙන් නිකුත් කරනු ලබන වෛද්‍ය සහතිකය විනිවිදභාවයෙන් තොර අතර අක්‍රමිකතා සිදුවන බවට අනාවරණය වී ඇති හෙයින් ඒවා අවම කිරීම වෙනුවෙන් මාර්ගගත ක්‍රමවේදය භාවිත කළයුතු බවය.
-
-එසේම රියදුරු බලපත්‍රය කල් ඉකුත්වූ විට එය අලුත් කර ගැනීමටත් වේරහැරට පැමිණීමට සිදුවන අතර එය ජනතාව අපහසුතාවට පත් කරවන්නක් බව ද අමාත්‍යවරුන් පෙන්වා දුන්නේය.
-
-ඒ අනුව මාසයක් වැනි කාලයක් තුළ මෙම ක්‍රමවේදයත් වෙනස් කර, රියදුරු බලපත්‍රයක් අලුත් කිරිම සඳහා පහසු ක්‍රමවේදයක් සකස් කිරීමට බලාපොරොත්තු වන බවත් ඒ සඳහා මූලික කටයුතු මේ වනවිටත් ආරම්භ කර ඇති ඔවුන් එහිදී වැඩිදුරටත් පැවසීය.
-
-...
-
-[Data](articles/b2bc1d47.json)
-
----
-
-### Aswesuma: August allowance for elders to be credited to bank accounts tomorrow
-
-*2025-08-26 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111881/aswesuma-august-allowance-for-elders-to-be-credited-to-bank-accounts-tomorrow) · `en`
-
-The monthly allowance designated for elderly individuals aged over 70, enrolled in the ‘Aswesuma’ welfare benefit program, will be credited to their respective bank accounts tomorrow (27), the Welfare Benefits Board has announced.
-
-According to the Board, a total sum of Rs. 2,993,791,000 will be distributed among 599,730 beneficiaries.
-
-◼️
-
-[Data](articles/a139cecb.json)
 
 ---

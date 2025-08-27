@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 13:32:05**
+As of **2025-08-27 13:51:37**
 
 ## Newspaper Stats
 
-*Scraped **72,632** Articles*
+*Scraped **72,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,75 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 744
-economynextcom | 4,431
+economynextcom | 4,434
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,984
-adaderanalk | 9,206
-tamilmirrorlk | 10,774
+adaderanalk | 9,208
+tamilmirrorlk | 10,776
 virakesarilk | 11,936
-adaderanasinhalalk | 12,579
+adaderanasinhalalk | 12,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,632 articles have been extended.
+61,973 (85.3%) of 72,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### MAGA Engineering wins deal to repair Sri Lanka’s Southern Expressway
+
+*2025-08-27 13:32:00* · [`economynextcom`](https://economynext.com/maga-engineering-wins-deal-to-repair-sri-lankas-southern-expressway-238472/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s MAGA Engineering has won a contract to repair a 15 kilometre stretch of the island’s Southern Expressway, Minister Vijitha Herath.
+
+MAGA Engineering (Pvt) Ltd was chosen following national competitive tender, he said.
+
+The repair involves fixing cracks on the surface and also the deterioration in internal structures, he said.
+
+The Southern Expressway runs from Colombo to Hambantota. The stretch  being repaired is between the 19 and 34 kilometre posts.
+
+◼️
+
+[Data](articles/8af57591.json)
+
+---
+
+### தென்னகோன் பிணையில் விடுதலை
+
+*2025-08-27 13:30:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோன்-பிணையில்-விடுதலை/175-363586) · `ta`
+
+மே 9, 2022 அன்று காலி முகத்திடலில் அமைதிப் போராட்டக்காரர்கள் மீது நடத்தப்பட்ட தாக்குதல் தொடர்பாக கைது செய்யப்பட்ட முன்னாள் பொலிஸ்மா அதிபர் (டிஐஜி) தேசபந்து தென்னகோன் இன்று பிணையில் விடுவிக்கப்பட்டார்.
+
+கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர, தலா 1 மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளுடன் அவருக்கு பிணை வழங்கியதுடன், பயணத் தடையையும் விதித்தார்.
+
+இந்த வழக்கில் தென்னகோன் 33வது சந்தேக நபர் அல்ல, 37வது சந்தேக நபர் என்றும், 33வது சந்தேக நபர் லியானாட் மெண்டிஸ் என்றும் நீதவான் மேலும் தெளிவுபடுத்தினார்.
+
+◼️
+
+[Data](articles/81ff9ec1.json)
+
+---
+
+### වාහන 5ක් එක පෙළට ගැටෙයි
+
+*2025-08-27 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213848) · `si`
+
+කොළඹ - ත්‍රිකුණාමල ප්‍රධාන මාර්ගයේ දඹුල්ල, පොහොරන් වැව ප්‍රදේශයේ රථ වාහන පහක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරනි එක් අයෙකු තුවාල ලබා ඇති අතර, එම අවස්ථාවේ CCTV දර්ශන පෙළක් ද අද දෙරණට ලැබී ඇත.
+
+කොළඹ සිට දඹුල්ල දෙසට ධාවනය වූ වාහන තුනක් හා දඹුල්ල සිට කොළඹ දෙසට ධාවනය වු ලොරියක් හා කාර් රථයක් එකිනෙක ගැටීමෙන් අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/e45d7578.json)
+
+---
 
 ### ජනපති, අගමැති, අමාත්‍ය මණ්ඩලය ඇතුළු 31කට ශ්‍රේෂ්ඨාධිකරණයෙන් නොතීසි
 
@@ -61,6 +111,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f59d1a93.json)
+
+---
+
+### நள்ளிரவில்  தாம்பத்யம்: ஜன்னல் வழியாக வீடியோ எடுத்த வாலிபர்
+
+*2025-08-27 13:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவில்-தாம்பத்யம்-ஜன்னல்-வழியாக-வீடியோ-எடுத்த-வாலிபர்/175-363584) · `ta`
+
+நள்ளிரவில் புதுமண தம்பதி தாம்பத்யத்தில் ஈடுபட்டிருந்த போது,  ஜன்னல் வழியாக அதனை வீடியோ எடுத்த வாலிபரால் அடுத்தடுத்து நடந்த பரபரப்பான சம்பவம் சிவகங்கையில் இடம்பெற்றுள்ளது.
+
+சிவகங்கை மாவட்டம் காரைக்குடியை சேர்ந்த 20 வயது இளம்பெண் ஒருவரை காதலித்து வந்துள்ளார். இந்நிலையில் இருவருக்கும் கடந்த மாதம் திருமணம் நடைபெற்றுள்ளது. இருவரும் வசித்து வந்த வீட்டின் எதிர் வீட்டில் கோகுல் சந்தோஷ் என்பவர் வசித்து வந்தார்.
+
+இந்தநிலையில் புதுமண தம்பதி இருவரும் நள்ளிரவில் தாம்பத்ய உறவில் ஈடுபட்டிருந்த போது, திறந்திருந்த ஜன்னல் கதவு வழியாக எதிர்வீட்டில் வசிக்கும் கோகுல் சந்தோஷ், தனது வீட்டு மாடியில் இருந்து, அலைபேசி மூலம் தாம்பத்ய உறவில் ஈடுபட்டிருந்த தம்பதியரை வீடியோ படம் பிடித்துள்ளார்.
+
+அந்த வீடியோவை சித்த மருத்துவர் ஹரிஹரசுதன் என்பவரிடம் சந்தோஷ் காண்பித்துள்ளார். இருவரும் கண்டு ரசித்த நிலையில், சித்த மருத்துவர் ஹரிகரசுதன் கோகுல் சந்தோசிடம் இந்த ஆபாச வீடியோவை இணையதளத்தில் வெளியிட்டு விடுவோம் என்று அந்த பெண்ணை மிரட்டி பணம் பறித்து அந்த பெண்ணுடன் உல்லாசம் அனுபவிக்கலாம் என்ற யோசனையை கூறியுள்ளார்.
+
+...
+
+[Data](articles/8d35d0ff.json)
 
 ---
 
@@ -168,6 +236,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ex-IGP Deshabandu Tennakoon granted bail
+
+*2025-08-27 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111901/ex-igp-deshabandu-tennakoon-granted-bail-) · `en`
+
+Former Inspector General of Police (IGP) Deshabandu Tennakoon, who was arrested by the Criminal Investigation Department (CID), and subsequently remanded, has been granted bail.
+
+The order was issued by the Colombo Fort Magistrate Nilupuli Lankapura, Ada Derana reporter said.
+
+The Magistrate ordered Deshabandu Tennakoon be released on two surety bails of Rs. 1 million each while a travel ban was also imposed on the suspect.
+
+Meanwhile, former IGP Deshabandu Tennakoon has been instructed to refrain from influencing the witnesses.
+
+Furthermore, the Magistrate ordered that the suspect must assist the CID and court during the investigation process when summoned.
+
+Fort Magistrate Nilupuli Lankapura stated that the failure to appear when summoned would result in the cancellation of the bail and the suspect being remanded.
+
+Subsequently, the case was scheduled to be taken up again on September 3.
+
+...
+
+[Data](articles/aed60a2c.json)
+
+---
+
 ### யூதர்களுக்கு எதிரான தாக்குதல்கள் : ஈரானியத் தூதுவரை நாடுகடத்தியது அவுஸ்திரேலியா
 
 *2025-08-27 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223473) · `ta`
@@ -203,6 +295,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/fbfd9495.json)
+
+---
+
+### Sri Lanka set to manage public debt using Commonwealth software from next month
+
+*2025-08-27 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111900/sri-lanka-set-to-manage-public-debt-using-commonwealth-software-from-next-month) · `en`
+
+Sri Lanka will begin using the Commonwealth Meridian software from next month to manage public debt as part of the economic recovery plan.
+
+The decision to adopt a new system follows recommendations from the International Monetary Fund (IMF) and World Bank to establish a Public Debt Management Office. It comes after Sri Lanka defaulted on its foreign debt in 2022 during a severe economic crisis, which forced it to seek IMF assistance.
+
+Since then, the government has been working with the IMF and World Bank on reforms to restore economic stability, including restructuring debt and improving the management of its borrowings.
+
+At the IMF’s request, the Commonwealth Secretariat has been advising the government alongside the IMF and World Bank on the legal framework, governance and systems needed for its newly established debt office.
+
+...
+
+[Data](articles/4dfe9247.json)
 
 ---
 
@@ -319,6 +429,32 @@ He also emphasized that the National Hospital provides equal service to all pati
 ...
 
 [Data](articles/5856ce62.json)
+
+---
+
+### Sri Lanka rupee steady, stocks up
+
+*2025-08-27 11:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-steady-stocks-up-238444/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 203.30/35 to the US dollars in the spot market Wednesday in late morning trde, marginally weaker from 302.25/33 while bond were broadly unchanged, dealers said.
+
+The Colombo All Share Index was up 0.64 percent in later morning trade.
+
+A bond maturing on 15.12.2026 was quoted at 8.10/24 percent steady from 8.10/20 percent o Tuesday.
+
+A bond maturing on 15.09.2027 was quoted at 8.55/65 percent from 55/64 percent.
+
+A bond maturing on 15.12.2028 was quoted at 9.90/9.00 percent lower from 8.95/9.00 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.43/45 percent steady from 9.43/46 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.27/35 down from 10.26/33 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.75/85 percent, flat. (Colombo/Aug26/2025)
+
+◼️
+
+[Data](articles/4f10105f.json)
 
 ---
 
@@ -966,6 +1102,24 @@ Thirteen others have sustained injuries in the incident and have been rushed to 
 
 ---
 
+### Sri Lanka’s central bank settles US$1.1bn in debt to RBI, IMF in year to March
+
+*2025-08-27 08:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-settles-us1-1bn-in-debt-to-rbi-imf-in-year-to-march-238401/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has settled debt of 900 million US dollars to the Reserve Bank of India, and another 209 million US dollars to the International Monetary Fund, during the year to March 2025, official data show.
+
+The central bank borrowed around 2.2 billion US dollars from the RBI through the Asian Clearing Union, and also took a 400 million dollar swap during the currency crisis triggered by the 2019-2020 rate cuts and liquidity injections.
+
+Once private credit has picked up, any reserve sales made for imports out of central bank swaps or ACU borrowings trigger more money printing to sterilize interventions delaying a correction to the system.
+
+Dollars borrowed from foreign central banks or other swaps allow a monetary authority to delay rate corrections, and build up imbalances between credit demand and supply of savings which then require large rate hikes to correct, especially if confidence in the currency has been lost in the meantime.
+
+...
+
+[Data](articles/5f112a8a.json)
+
+---
+
 ### මව හා පියා ඝාතනය කළ සැකකරුවකු මරා පුළුස්සා වලදැමූ  පුතා අඩංගුවට
 
 *2025-08-27 08:07:31* · [`adalk`](https://www.ada.lk/breaking_news/මව-හා-පියා-ඝාතනය-කළ-සැකකරුවකු-මරා-පුළුස්සා-වලදැමූ--පුතා-අඩංගුවට/11-418091) · `si`
@@ -1591,137 +1745,5 @@ According to the Board, a total sum of Rs. 2,993,791,000 will be distributed amo
 ◼️
 
 [Data](articles/a139cecb.json)
-
----
-
-### නඩු කටයුතුවලින් පසුවත් සජිත් රනිල් බලන්න ජාතික රෝහලට එයි
-
-*2025-08-26 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213833) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඇප ලැබීමෙන් පසු විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (26) පස්වරුවේද කොළඹ ජාතික රෝහලට පැමිණියේය.
-
-විපක්ෂ නායකවරයා සමගම විපක්ෂයේ මන්ත්‍රීවරු රැසක් මෙන්ම විවිධ පක්ෂවල හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් කිහිප දෙනෙකුද හිටපු ජනාධිපතිවරයාගේ සුවදුක් බැලීම සඳහා අද පස්වරුවේ ජාතික රොහලට පැමිණි අයුරුද දක්නට ලැබිණි.
-
-බන්ධනාගාර ගත කළ අවස්ථාවේ සිට ජාතික රෝහලට ඇතුළත් කළ අවස්ථාව දක්වාම විපක්ෂ නායකවරයා හිටපු ජනාධිපතිවරයාගේ සුව දුක් බැලීම සඳහා දිනපතාම ජාතික රෝහලට පැමිණියේය.
-
-◼️
-
-[Data](articles/229ba9cc.json)
-
----
-
-### බාල වයස්කාර දැරියක් දූෂණය කළාට පුද්ගලයෙකුට වසර 12ක සිරදඬුවම්
-
-*2025-08-26 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213832) · `si`
-
-බාල වයස්කාරියකව සිටි තැනැත්තියක් කඩුවෙල වැලිවිට ප්‍රදේශයේදී දූෂණය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් වරදකරුවෙකු වූ පුද්ගලයෙකුට බරපතල වැඩ සහිතව වසර 12 ක සිර දඩුවම් ලබා දෙන ලෙස හෝමගම මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (26) දින නියෝග කළේය.
-
-එසේම සැකකරුට රුපියල් 20,000ක නඩු ගාස්තු ගෙවීමටත් එම මුදල් නොගෙවන්නේ නම් තවත් මාස හයක සිර දඬුවමක් ලබා දෙන ලෙස ද නියෝග කර ඇත.
-
-එමෙන්ම වින්දිත තැනැත්තියට රුපියල් ලක්ෂ තුනක වන්දි මුදලක් ලබා දෙන ලෙසත්, එම මුදල් ලබා නොදෙන්නේ නම් තවත් වසරක සිර දඬුවමක් ලබා දෙන බවද මහාධිකරණ විනිසුරුවරයා වැඩිදුරටත් නියෝග කළේය.
-
-එකල බාලවයස්කාර දැරියක වූ වින්දිත දැරිය අධිකරණ නියෝගයක් මත මාර්ගම ප්‍රදේශයේ ළමා නිවාසයක රැකවරණය ලබමින් සිට පාසල් අධ්‍යාපනයෙන් පසු රැකියාවක් සොයා පිටකොටුවට ගිය අවස්ථාවේදී සැකකරු විසින් වින්දිත දැරිය රවටා 2012 මාර්තු 04 දින හෝ ඊට ආසන්න දිනයකදී කඩුවෙල වැලිවිට ප්‍රදේශයේ ඥාති නිවසකට ගෙන ගොස් දූෂණයට ලක් කර ඇති බවට සාක්ෂි සහිතව ඔප්පු වීම හරහා මෙම නියෝගය ලබා දී ඇත.
-
-◼️
-
-[Data](articles/4672df7d.json)
-
----
-
-### Not revenge or political witch-hunt, everyone is equal before the law – President
-
-*2025-08-26 21:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111880/not-revenge-or-political-witch-hunt-everyone-is-equal-before-the-law-president) · `en`
-
-President Anura Kumara Dissanayake stated that his government is committed to establishing a culture where everyone is treated equally before the law.
-
-He made these remarks while attending the National Bhikkhu Day commemoration held in Colombo today (26).
-
-The President emphasized that individuals involved in crimes, corruption, abuse of power, or the misappropriation of public funds will be held accountable, regardless of their social or political standing.
-
-“Everyone should be equal before the law. We are committed to creating such a culture. Wealth, power, position, history, or the status of once being a monarch—none of these matter. Everyone is equal before the law,” the President said.
-
-“If anyone in our country has engaged in crime, corruption, abuse of power, or the misuse of public funds, every effort will be made to bring them to justice. This is not about revenge or political witch-hunts. What our society needs is the restoration of law, justice, fairness, and public trust.”
-
-◼️
-
-[Data](articles/9dc45236.json)
-
----
-
-### My Memory Lane With Ranil Wickremesinghe
-
-*2025-08-26 20:58:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-memory-lane-with-ranil-wickremesinghe/) · `en`
-
-“If a leader thinks that even a crow cannot fly over his head, such a leader is destined to leave no legacy”
-
-I entered the University of Colombo in 1968 and was part of the Arts Faculty. As I recall, RW entered the same university in 1969 and joined the Law Faculty. The Law faculty was located in a small classroom right between the Arts Theater Lecture Hall and the famous Domba Three. It was a small faculty with about 100 students. Back then, the relationship between the Law Faculty and the rest of the University was minimal.  One reason was that Law Faculty students studied in English. As I remember, all students were neatly dressed, so that they distinguished from the rest.  Once lectures were over, most students in the Law Faculty hurried to leave the campus, sometimes in their cars.
-
-...
-
-[Data](articles/294632e9.json)
-
----
-
-### Why Fear Sri Lankan Remand Prison?
-
-*2025-08-26 20:49:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-fear-sri-lankan-remand-prison/) · `en`
-
-Today’s decision to grant bail to former president Ranil Wickremesinghe has defused some of the political tension building around his arrest. Yet the episode has drawn renewed attention to a long-standing question: why does the very thought of Sri Lankan remand custody inspire such fear, across all layers of society?
-
-In principle, remand detention is not intended as punishment. Those held in custody are legally presumed innocent, awaiting trial or bail. Yet in Sri Lanka, the reputation of remand prisons is so negative that many accused individuals — whether ordinary citizens or public figures — do everything possible to avoid them. Appeals for bail are made urgently, and transfers to hospital are sometimes sought on contested medical grounds. The issue is less about guilt or innocence than about the conditions within the system itself.
-
-...
-
-[Data](articles/dc3c1115.json)
-
----
-
-### අගෝස්තු වැඩිහිටි දීමනාව හෙට
-
-*2025-08-26 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213831) · `si`
-
-සුබසාධඛ ප්‍රතිලාභ මණ්ඩලය විසින් අගෝස්තු මාසයට අදාළ අස්වැසුම ප්‍රතිලාභී පවුල්වල අවුරුදු 70ට වැඩි වැඩිහිටියන්ගේ වැඩිහිටි දීමනාව හෙට (27) බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
-
-ඒ අනුව රුපියල් දෙබිලියන නවසිය අනූතුන් මිලියන හත්සිය අනූ එක් දහසක මුදලක් ප්‍රතිලාභීන් 599,730 අතරේ බෙදා හැරීමට නියමිත බවද එම මණ්ඩලය පැවසීය.
-
-◼️
-
-[Data](articles/397cd6e4.json)
-
----
-
-### ආරක්ෂක අමාත්‍යාංශයේ 2026 අයවැය  පූර්ව සාකච්ඡාව ජනපති ප්‍රධානත්වයෙන්
-
-*2025-08-26 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213830) · `si`
-
-ශ්‍රී ලංකා ආරක්ෂක හමුදාව ලෝකයේ ඉහළම වෘත්තීයභාවයක් සහිත ආරක්ෂක හමුදාවක් බවට පත්විය යුතු බවත්, ඒ සඳහා අවශ්‍ය පුහුණුව සහ පහසුකම් සැලසීම වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන නිසි පරිදි යොදවන ලෙසත් ජනාධිපති අනුර කුමාර දිසානායක මහතා නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
-
-ජනාධිපතිවරයා මෙම උපදෙස් ලබා දුන්නේ අද (26) පෙරවරුවේ ජනාධිපති කාර්යාලයේ පැවති ආරක්ෂක අමාත්‍යාංශයේ 2026 වසරේ පූර්ව අයවැය සාකච්ඡාවට එක් වෙමිනි.
-
-ආරක්ෂක අමාත්‍යාංශයට අදාළව 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදනවලින් එක් එක් අංශ විසින් ක්‍රියාත්මක කර ඇති ව්‍යාපෘතිවල ප්‍රගතිය සහ ශ්‍රී ලංකා යුද හමුදාව, ගුවන් හමුදාව, නාවික හමුදාව, සිවිල් ආරක්ෂක දෙපාර්තමේන්තුව සහ කැඩෙට් නිලධාරින් වෙනුවෙන් ක්‍රියාත්මක වන වැඩසටහන් පිළිබඳවද මෙහිදී විමසා බැලිණි.
-
-ආරක්ෂක අංශ සාමාජිකයන් සඳහා ලබා දෙන විදෙස් පුහුණුවීම් පිළිබඳවද විශේෂ අවධානය යොමු කෙරුණු අතර එම පුහුණුවීම් අනෙකුත් රාජ්‍ය අංශවල නිලධාරීන්ට ලබා දෙන පුහුණුවීම්වලට වඩා සුවිශේෂී බැවින් ඒ පිළිබඳ වැඩි අවධානයෙන් කටයුතු කරන ලෙස ජනාධිපතිවරයා නිලධාරීන්ට උපදෙස් දුන්නේය.
-
-...
-
-[Data](articles/8c9d47ed.json)
-
----
-
-### ඔස්ට්‍රේලියාවේ වෙඩි තැබීමකින්  පොලිස් නිලධාරීන් දෙදෙනෙකු මරුට
-
-*2025-08-26 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213828) · `si`
-
-ඔස්ට්‍රේලියාවේ වික්ටෝරියා ප්‍රාන්තයේ සිදුවු වෙඩි තැබීමකින් පොලිස් නිලධාරීන් දෙදෙනෙකු මියගොස් තිබේ.
-
-එහිදී තවත් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-වෙඩි තැබීම සිදුකළ පුද්ගලයා මෙතෙක් අත්ඩංගුවට ගෙන නොමැති අතර ඔහු අත්අඩංගුවට ගැනීම සදහා මෙහෙයුම් ආරම්භ කර ඇති බව සදහන් වේ.
-
-කෙසේ වෙතත් විදෙස් මාධ්‍ය වාර්තා කළේ කුමන හේතුවක් මත වෙඩික්කරු විසින් මෙම වෙඩි තැබීම සිදු කළේ ද යන්න සම්බන්ධයෙන් තොරතුරු අනාවරණය වී නොමැති බවය.
-
-◼️
-
-[Data](articles/a44aa3cc.json)
 
 ---

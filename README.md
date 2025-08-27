@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 10:32:47**
+As of **2025-08-27 10:49:40**
 
 ## Newspaper Stats
 
-*Scraped **72,589** Articles*
+*Scraped **72,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,431
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,124
-adalk | 6,978
+adalk | 6,979
 adaderanalk | 9,199
-tamilmirrorlk | 10,758
+tamilmirrorlk | 10,760
 virakesarilk | 11,929
-adaderanasinhalalk | 12,573
+adaderanasinhalalk | 12,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,589 articles have been extended.
+61,973 (85.4%) of 72,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### අතුරුදන් වූ පුද්ගලයාගේ සිරුර ගඟේ
+
+*2025-08-27 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213842) · `si`
+
+ඉත්තෑපාන, මීගම පාලම යටින් ගලාබසිනා බෙන්තර අතු ගංගාවේ පාවෙමින් තිබි පුද්ගල මළ සිරුරක් හමුවූ බව ඉත්තෑපාන පොලීසිය පවසයි.
+
+එලෙස මියගොස් තිබුණේ ඉත්තෑපාන බදුගොඩ ප්‍රදේශයේ පදිංචිව සිටි 79 හැවිරිදි පුද්ගලයෙකි.
+
+දිනකට පෙර නිවසින් අතුරුදන්ව සිටි බව පැවසෙන පුද්ගලයාගේ සිරුර එලෙස සොයාගත් බව පොලීසිය පැවසීය.
+
+මියගිය පුද්ගලයා ඉකුත් 24 දහවල් නිවසින් පිටවී ගොස් ඇති බවට ඔහුගේ දියණිය කරන ලද පැමිණිල්ලක සඳහන් වන බව පොලීසියේ සඳහන් කළේය.
+
+මළ සිරුර කළුතර නාගොඩ රෝහලේ තැන්පත් කර ඇති අතර අද (27) පශ්චාත් මරණ පරීක්ෂණය පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/9b9f88d0.json)
+
+---
 
 ### කහවත්තේ වෙඩිතැබීමේ ඝාතන සැකකරුවෙක් අත්අඩංගුවට
 
@@ -80,6 +100,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ரணிலுக்கு இருதய அறுவை சிகிச்சையை  உடனடியாக செய்ய வேண்டும்
+
+*2025-08-27 10:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-இருதய-அறுவை-சிகிச்சையை-உடனடியாக-செய்ய-வேண்டும்/175-363564) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு உடனடியாக இருதய அறுவை சிகிச்சை செய்யப்பட வேண்டும் என்று கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் வைத்தியர் ருக்‌ஷன் பெல்லன தெரிவித்துள்ளார்.
+
+அறுவை சிகிச்சையை தேசிய வைத்தியசாலையில் செய்வதற்காக காத்திருப்பு பட்டியலில் இருக்க வேண்டும் என்றும், அவ்வாறு முடியாவிடின் தனியார் வைத்தியசாலைக்கு சென்று அதைச் செய்யும் வாய்ப்பு ரணில் விக்ரமசிங்கவுக்கு உள்ளதாகவும் அவர் கூறினார்.
+
+அவரது இதயத்தில் சில சிக்கல்கள் உள்ளன. விரைவில் அறுவை சிகிச்சைக்கு உட்படுத்தினால் நல்லது.
+
+தேசிய வைத்தியசாலையில் காத்திருப்பு பட்டியல் சில நேரங்களில் சுமார் 3 ஆண்டுகள் ஆகும்.
+
+எனவே, அவர் தனது சொந்த செலவில், விரும்பும் வைத்தியசாலையில் அதை விரைவாகச் செய்ய முடியும்.
+
+தற்போது, ​​அவருக்கு கரோனரி தமனிகளில் அடைப்பு இருப்பதாக தெரிவிக்கப்படுகிறது. அவருக்கு நீரிழப்பும் உள்ளது.
+
+அந்த நிலை படிப்படியாக சரி செய்யப்பட்டு வருகிறது. அந்த நேரத்தில், அவரது இருதயம் பலவீனமாக இருப்பதைக் கண்டறிய முடிந்தது.
+
+அதை இயல்பு நிலைக்குக் கொண்டுவர அறுவை சிகிச்சை செய்ய வேண்டியிருக்கும் என்றார்.  R
+
+◼️
+
+[Data](articles/65875431.json)
+
+---
+
+### කුලියාපිටියේදී සිදු වූ රිය අනතුරකින් පාසල් ළමුන් 2ක් ඇතුළු 3ක් මරුට
+
+*2025-08-27 10:02:27* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේදී-සිදු-වූ-රිය-අනතුරකින්-පාසල්-ළමුන්-2ක්-ඇතුළු-3ක්-මරුට/11-418094) · `si`
+
+කුලියාපිටියේදී අද (27දා) උදෑසන සිදුවූ රිය අනතුරකින් පාසල් සිසුන් දෙදෙනෙකු ඇතුළු තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පාසල් ළමුන් රැගත් වෑන් රථයක් සහ ටිපර් රථයක් ගැටීමෙන් මෙම අනතුර සිදුව තිබේ.
+
+◼️
+
+[Data](articles/a0e6a432.json)
+
+---
+
 ### வைரத்தில் உருவான விநாயகர் சிலை
 
 *2025-08-27 09:39:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைரத்தில்-உருவான-விநாயகர்-சிலை/175-363562) · `ta`
@@ -119,6 +179,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ddaae60d.json)
+
+---
+
+### பாடசாலை வேன் கோர விபத்து : மாணவர்கள் இருவர் பலி
+
+*2025-08-27 08:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-வேன்-கோர-விபத்து-மாணவர்கள்-இருவர்-பலி/175-363560) · `ta`
+
+குளியாப்பிட்டி, நிலபொல பாலத்திற்கு அருகில் இன்று (27) காலை இடம்பெற்ற  விபத்தில் பாடசாலை மாணவர்கள் இருவர் உட்பட மூன்று பேர் உயிரிழந்துள்ளனர்.
+
+பாடசாலை வேன் மற்றும் டிப்பர் வாகனமும் மோதியதில் இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவித்தனர்.  R
+
+◼️
+
+[Data](articles/867c7761.json)
 
 ---
 
@@ -1665,71 +1739,5 @@ A bond maturing on 15.09.2034 closed at 10.75/85 percent. (Colombo/Aug26/2025)
 ...
 
 [Data](articles/e626c3ab.json)
-
----
-
-### “ நான் ரணிலை சந்தித்ததை பார்த்தீர்களா?”
-
-*2025-08-26 15:48:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-ரணிலை-சந்தித்ததை-பார்த்தீர்களா/175-363536) · `ta`
-
-ரணில் விக்கிரமசிங்கவை பார்வையிவதற்கு சிறைச்சாலைக்கு நான் சென்றிருந்தால் அதனை நிரூபிக்க வேண்டும் எனக் கோரியுள்ள பிரதமர் கலாநிதி ஹரிணி அமரசூரிய ,பிரதமர் என்ற  வகையில் நினைத்த இடங்களுக்கு செல்ல முடியாது. களவாகவும் செல்ல முடியாது. ஆகையால் நான் சென்றதை நிரூபிக்குமாறு  ஊடகங்களுக்கு அவர் சவால் விடுத்தார்.
-
-ஊவா மாகாண சபையில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-போலியான செய்திகளை பரப்புவோருக்கு எதிராக சரியான நடவடிக்கை எடுக்கப்படும். அடிப்படை அற்ற கதைகளை நிரூபித்து காட்டுங்கள். வாய்வழி கதைகளை செய்தியாக்க வேண்டாம் என்றும் கேட்டுக்கொண்டார்.
-
-செய்தியை தயாரிக்க வேண்டுமாயின் அதற்கு ஓர் அடிப்படை இருக்க வேண்டும். அரசாங்கத்தில் இருந்து 50 பேர் செல்வதாக கூறுகின்றனர். யார் என்றே என்னால் கேட்க முடியும்.
-
-மக்களுக்கு கொடுத்த வாக்குறுதிகளையே நாங்கள் நிறைவேற்றி வருகின்றோம். சடத்துக்கு நாங்கள் அழுத்தம் கொடுக்க மாட்டோம் என்றார்
-
-◼️
-
-[Data](articles/f450079a.json)
-
----
-
-### Road opposite Colombo University blocked due to IUSF protest
-
-*2025-08-26 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111874/road-opposite-colombo-university-blocked-due-to-iusf-protest) · `en`
-
-The road adjacent to the University of Colombo has been closed due to a protest organized by the Inter-University Student Federation (IUSF).
-
-The protest has been organized demanding the formulation of a clear criteria for degrees and demanding authorities to streamline the recruitment process of degree holders into the teaching service.
-
-◼️
-
-[Data](articles/ca7e45d4.json)
-
----
-
-### Police officer sustains injuries during protest organized by opposition
-
-*2025-08-26 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/111873/police-officer-sustains-injuries-during-protest-organized-by-opposition) · `en`
-
-A police officer has sustained injuries during a protest organized by the opposition in Colombo, Ada Derana reporter said.
-
-A large crowd is gathered at the Colombo Fort Magistrate’s Court premises at present.
-
-Heavy traffic congestion was also reported along several roads near the Colombo Fort Magistrate’s Court premises due to a protest march earlier in the afternoon.
-
-According to Ada Derana reporter, several leaders of political parties participated in the protest march staged under the theme “Against Repression.”
-
-◼️
-
-[Data](articles/28889f67.json)
-
----
-
-### උද්ඝෝෂණය අතරතුර පොලිස් නිලධාරියෙක්ට ප්‍රහාරයක්
-
-*2025-08-26 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213818) · `si`
-
-විපක්ෂය විසින් සංවිධානය කර ඇති විරෝධතාවය අතරතුර පොලිස් නිලධාරියෙකුට ප්‍රහාරයක් එල්ල වී තිබේ.
-
-මේ වනවිට කොටුව මහෙස්ත්‍රාත් අධිකරණය අසලට විශාල පිරිසක් රැස්ව ඇතැයි අද දෙරණ වාර්තාකරු පැවසීය.
-
-◼️
-
-[Data](articles/d30b4efc.json)
 
 ---

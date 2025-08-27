@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 17:17:35**
+As of **2025-08-27 17:32:31**
 
 ## Newspaper Stats
 
-*Scraped **72,678** Articles*
+*Scraped **72,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,990
 adaderanalk | 9,217
-tamilmirrorlk | 10,785
+tamilmirrorlk | 10,786
 virakesarilk | 11,940
-adaderanasinhalalk | 12,589
+adaderanasinhalalk | 12,590
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,678 articles have been extended.
+61,973 (85.3%) of 72,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### අධිකරණය ළඟ නීති විරෝධීව හැසිරුණු අය ගැන විමර්ශනයක්
+
+*2025-08-27 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213858) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නීති කෘත්‍ය ඊයේ (26) කොටුව මහෙස්ත්‍රාත් අධිකරණයේ ආරම්භ කිරීමට නියමිතව තිබූ අවස්ථාවේදී අධිකරණ පරිශ්‍රය අසල නීතිවිරෝධී අයුරින් හැසිරුණු පිරිස් සම්බන්ධයෙන් විමර්ශනයක් සිදුකර වාර්තාවක් ලබාදෙන ලෙස අධිකරණයෙන් නියෝගයක් ලබාදී තිබේ.
+
+අද (27) පැවති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුට්ලර් මහතා මේ බව පැවසීය.
+
+"අධිකරණය විසින්ම පැහැදිලි නියෝගයක් ලබාදුන්නා නීතිවිරෝධිව අනීතික ලෙස රැස්වීම පිළිබඳ විමර්ශනයක් සිදුකර ගරු අධිකරණයට ඊළඟ දිනයේ දී වාර්තා කරන්න. ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ පිළිබඳ ඉදිරියේදී අධිකරණයට වාර්තාවක් සපයන්න නියමිතයි" යනුවෙන් හෙතෙම පැවසීය.
+
+◼️
+
+[Data](articles/98960af1.json)
+
+---
+
+### நடிகர் விஜய்க்கு, அமைச்சர் விஜித பதிலடி
+
+*2025-08-27 17:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-விஜய்க்கு-அமைச்சர்-விஜித-பதிலடி/175-363606) · `ta`
+
+கச்சத்தீவு தீவின் உரிமை தொடர்பாக இந்திய மத்திய அரசாலோ அல்லது இராஜதந்திர வழிகள் மூலமாகவோ எந்த மாற்றமும் ஏற்படவில்லை என்பதை வெளியுறவு அமைச்சர் விஜித ஹேரத், இன்று (27) மீண்டும் உறுதிப்படுத்தினார்.
+
+அரசாங்க தக​வல் திணைக்களத்தில் வாராந்த அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பு, புதன்கிழமை (27) இடம்பெற்றது. அந்த ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்ட ஊடகவிலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+“கச்சத்தீவு இலங்கைக்குச் சொந்தமானது. அது இலங்கைப் பிரதேசம், அது ஒருபோதும் மாறாது. தென்னிந்தியாவில் தற்போது தேர்தல் நடைபெற்று வருகின்றது. மேலும் வேட்பாளர்கள் பெரும்பாலும் வாக்குகளைப் பெறுவதற்காக அறிக்கைகளை வெளியிடுகிறார்கள். பிரச்சாரங்களின் போது இதுபோன்ற சொல்லாட்சிகள் வெளிப்படுவது இது முதல் முறை அல்ல, மேலும் அந்தக் கூற்றுக்கள் எதுவும் எந்த மாற்றத்தையும் ஏற்படுத்தவில்லை, ”என்று அமைச்சர் ஹேரத் கூறினார்.
+
+...
+
+[Data](articles/377ea79b.json)
+
+---
 
 ### கச்சத்தீவு தீவு: நடிகர் விஜய்க்கு, அமைச்சர் விஜித பதிலடி
 
@@ -52,11 +84,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-27 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213857) · `si`
 
-බොරැල්ල පොලිස් වසමේ දේවි බාලිකා වටරවුමේ සිට ඩී.එස්. සේනානායක හන්දිය දක්වා වූ කොළඹ දෙසට ඇතුළු වන මාර්ගයේ පළමු හා දෙවන මංතීරු හදිසියේ වසා දැමීමට පියවර ගෙන තිබේ.
+බොරැල්ල පොලිස් වසමේ දේවි බාලිකා වටරවුමේ සිට ඩී.එස්. සේනානායක හන්දිය දක්වා වූ කොළඹ දෙසට ඇතුළු වන මාර්ගය හදිසියේ වසා දැමීමට පියවර ගෙන තිබේ.
 
 ඒ,  අද (27) දින උදෑසන සිට එහි ඉරිතැලීම් හා ගිලා බැසීමේ අවදානමක් හා අපජලය මාර්ගයට ගලා ඒම හේතුවෙනි.
 
-එම ස්ථානයෙහි අලුත්වැඩියා කටයුතු සිදුකරන බැවින් කොළඹ දෙසට ඇතුළු වන මංතිරු දෙක මෙලෙස වසා දැමීමට පියවර ගෙන ඇත.
+එම ස්ථානයෙහි අලුත්වැඩියා කටයුතු සිදුකරන බැවින් කොළඹ දෙසට ඇතුළු වන මංතිරු මෙලෙස වසා දැමීමට පියවර ගෙන ඇත.
 
 මේ හේතුවෙන් මාර්ගයේ රථවාහන ගමනාගමනයට බාධා ඇති විය හැකි බැවින් කොළඹ දෙසට ඇතුළුවන මාර්ගය භාවිත කරන රියදුරන් හැකිතාක් විකල්ප මාර්ග භාවිත කරන මෙන් පොලිසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
 
@@ -1761,37 +1793,5 @@ Thirteen others have sustained injuries in the incident and have been rushed to 
 ...
 
 [Data](articles/f730fa71.json)
-
----
-
-### இன்று முதியோருக்கு கொடுப்பனவு
-
-*2025-08-27 08:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதியோருக்கு-கொடுப்பனவு/175-363559) · `ta`
-
-ஓகஸ்ட் மாதத்துக்கான அஸ்வெசும நன்மைகளைப் பெறும் குடும்பகளின் 70 வயதுக்கு மேற்பட்ட முதியோருக்கான கொடுப்பனவு இன்று வங்கிகளில் வைப்பிலிடப்படும் என நலன்புரி நன்மைகள் சபை அறிவித்துள்ளது.
-
-அதன்படி 599,730 பயனாளிகளுக்கான கொடுப்பனவு இன்று வைப்பிலிடப்படவுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/6e8de4a3.json)
-
----
-
-### Sri Lanka’s central bank settles US$1.1bn in debt to RBI, IMF in year to March
-
-*2025-08-27 08:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-settles-us1-1bn-in-debt-to-rbi-imf-in-year-to-march-238401/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has settled debt of 900 million US dollars to the Reserve Bank of India, and another 209 million US dollars to the International Monetary Fund, during the year to March 2025, official data show.
-
-The central bank borrowed around 2.2 billion US dollars from the RBI through the Asian Clearing Union, and also took a 400 million dollar swap during the currency crisis triggered by the 2019-2020 rate cuts and liquidity injections.
-
-Once private credit has picked up, any reserve sales made for imports out of central bank swaps or ACU borrowings trigger more money printing to sterilize interventions delaying a correction to the system.
-
-Dollars borrowed from foreign central banks or other swaps allow a monetary authority to delay rate corrections, and build up imbalances between credit demand and supply of savings which then require large rate hikes to correct, especially if confidence in the currency has been lost in the meantime.
-
-...
-
-[Data](articles/5f112a8a.json)
 
 ---

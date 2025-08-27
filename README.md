@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 16:49:01**
+As of **2025-08-27 17:05:58**
 
 ## Newspaper Stats
 
-*Scraped **72,673** Articles*
+*Scraped **72,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,989
+adalk | 6,990
 adaderanalk | 9,217
 tamilmirrorlk | 10,783
 virakesarilk | 11,940
-adaderanasinhalalk | 12,587
+adaderanasinhalalk | 12,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,673 articles have been extended.
+61,973 (85.3%) of 72,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### පනත් කෙටුම්පත් දෙකකට කථානායකගේ සහතිකය
+
+*2025-08-27 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213856) · `si`
+
+කථානායක ජගත් වික්‍රමරත්න මහතා පසුගියදා (22) සමෘද්ධි (සංශෝධන) පනත් කෙටුම්පත සහ රබර් පාලන (සංශෝධන) පනත් කෙටුම්පත සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව ප්‍රකාරව සිය සහතිකය සටහන් කර තිබේ.
+
+2013 අංක 1 දරන සමෘද්ධි පනත සංශෝධනය කිරීම සඳහා 2025 ජුනි 17 වන දින ග්‍රාමීය සංවර්ධන සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබලගැන්වීමේ අමාත්‍යවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද මෙම පනත මූල්‍ය ආයතනයවල මූල්‍ය අධීක්ෂණය වැඩිදියුණු කිරීම කෙරෙහි සහ මූල්‍ය ආයතන තුළ වගවීම ශක්තිමත් කිරීමට ප්‍රතිපාදන සපයනු ලබයි.
+
+තවද, මෙම සංශෝධනය මගින් සමෘද්ධි ප්‍රජාමූල බැංකු සහ සමෘද්ධි ප්‍රජාමූල සමිති සඳහා ගිණුම් විගණනය කිරීම සඳහා ජාතික විගණන කාර්යාලය වෙත මූල්‍ය ආයතන තුළ වගවීම ශක්තිමත් කිරීමට පැවරීම මඟින් පවතින ව්‍යවස්ථාපිත සහ ජාතික විගණන විධිවිධානවලට අනුකූල වීම සහතික කරයි.
+
+...
+
+[Data](articles/addd937b.json)
+
+---
 
 ### ජනපති, අගමැති ඇතුළු කැබිනට් මණ්ඩලයට නොතීසි
 
@@ -61,6 +77,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0aadeb2f.json)
+
+---
+
+### වෛද්‍ය රුක්ෂාන් බෙල්ලනට එරෙහිව විනය පරීක්ෂණයක්
+
+*2025-08-27 16:14:17* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය රුක්ෂාන්-බෙල්ලනට-එරෙහිව-විනය-පරීක්ෂණයක්/11-418103) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සෞඛ්‍ය තත්ත්වය පිළිබඳව මාධ්‍ය වෙත ප්‍රසිද්ධ ප්‍රකාශ නිකුත් කිරීම සම්බන්ධයෙන් කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතාට එරෙහිව විනය පරීක්ෂණයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/6d90c3b4.json)
 
 ---
 
@@ -1773,45 +1801,5 @@ The body has been placed in the morgue of the Dambulla Hospital.
 ◼️
 
 [Data](articles/781f4c27.json)
-
----
-
-### පහරදී පුද්ගලයෙකු ඝාතනය කෙරේ - නාවික සෙබළෙක් අත්අඩංගුවට
-
-*2025-08-27 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213838) · `si`
-
-යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයෙකුට පහරදී ඝාතනය කර ඇති සිදුවීමක් මකුළුගස්වැව පොලිස් වසමෙන් වාර්තා වේ.
-
-පොලීසිය සඳහන් කළේ, පහරදී පුද්ගලයෙකු පැහැරගෙන ගොස් ඇති බවට මකුළුගස්වැව පොලිස් ස්ථානයට 119 දුරකථන අංකයට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කළ බවය.
-
-එහිදී අනාවරණය වී ඇත්තේ, පැහැරගැනීමට ලක් වූ පුද්ගලයා යතුරු පැදියෙන් ගමන් කරමින් සිටි අවස්ථාවේදී තවත් පුද්ගලයෙකු විසින් යතුරු පැදියෙන් ගමන් කරන ලද මාර්ගය හරස් කර නවතා පහරදී ඝාතනය කර ඇති බවය.
-
-ඝාතනයට ලක්ව ඇත්තේ, වයස අවුරුදු 59ක් වූ දේවහුව ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-සිද්ධියට සම්බන්ධයෙන් වයස අවුරුදු 26ක නාවික හමුදා සෙබළෙකු අත්අඩංගුවට ගෙන ඇති අතර කලක පටන් මරණකරු සමඟ පැවති ආරවුලක් දුරදිග යාම හේතුවෙන් සැකකරු විසින් මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේ දී අනාවරණය වී ඇත.
-
-මෘත ශරීරය දඹුල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මකුළුගස්වැව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/d169520f.json)
-
----
-
-### UN demands justice over Israeli double strike on Gaza hospital
-
-*2025-08-27 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111887/un-demands-justice-over-israeli-double-strike-on-gaza-hospital) · `en`
-
-The UN has said “there needs to be justice” following Israel’s double strike on a Gaza hospital which killed at least 20 people, as an initial Israeli military probe said the strike had targeted a “camera positioned by Hamas”.
-
-Condemnation of the attack, whose victims included five journalists and four health workers, has been mounting, with UK Prime Minister Keir Starmer describing it as “completely indefensible”.
-
-Later on Tuesday the Israel Defense Forces (IDF) released its initial inquiry, which identified several “gaps” for further investigation.
-
-It came as Israelis launched a day of nationwide protests calling on their government to accept a deal to release the hostages.
-
-...
-
-[Data](articles/b4dfed4f.json)
 
 ---

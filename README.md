@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 22:34:25**
+As of **2025-08-27 22:49:11**
 
 ## Newspaper Stats
 
-*Scraped **72,717** Articles*
+*Scraped **72,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,997
+adalk | 6,998
 adaderanalk | 9,227
 tamilmirrorlk | 10,790
 virakesarilk | 11,947
-adaderanasinhalalk | 12,599
+adaderanasinhalalk | 12,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,717 articles have been extended.
+61,973 (85.2%) of 72,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### අමෙරිකාවේ පාසලක වෙඩිතැබීමක්
+
+*2025-08-27 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213868) · `si`
+
+අමෙරිකාවේ මිනියාපොලිස් හි පාසලක අද (27) සිදු වූ වෙඩිතැබීමකින් ළමුන් දෙදෙනෙකු මියගොස් තවත් 17 දෙනෙකු තුවාල ලබා තිබේ.
+
+වෙඩි ප්‍රහාරයෙන් මියගොස් ඇත්තේ වයස අවුරුදු 8ක සහ 10ක ළමුන් දෙදෙනෙකු බවට පොලීසිය තහවුර කර තිබේ.
+
+මෙම වෙඩි ප්‍රහාරය ළමයි සහ දේව මෙහෙයට සහභාගි වූවන් ඉලක්ක කර සිතාමතා සිදුකළ ප්‍රචණ්ඩ ක්‍රියාවක් බව සඳහන්.
+
+වෙඩික්කරු රයිෆලයක්, ෂොට්ගන් සහ පිස්තෝලයකින් සන්නද්ධව සිට ඇති අතර, ඔහු දේවස්ථානයේ ජනේල හරහා වෙඩි තබා තිබේ.
+
+කෙසේ වෙතත් මෙම වෙඩිතැබීමෙන් අනතුරුව ඔහුද තුවක්කුවකින් වෙඩි ප්‍රහාරයක් එල්ල කරගෙන ඇත.
+
+තුවාල ලැබූවන්ගෙන් 14 දෙනෙකු ළමුන් වන අතර ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/2e35bd94.json)
+
+---
 
 ### ඝාතන දෙකකට පස්දෙනෙකුට මරණ දඬුවම
 
@@ -291,6 +313,24 @@ They also addressed the challenges and issues faced, as well as future plans aim
 ...
 
 [Data](articles/5999e09c.json)
+
+---
+
+### දියවැඩියා රෝගීන්ගෙන් බහුතරයක් නිසි ප්‍රතිකාර ගන්නේ නෑ
+
+*2025-08-27 18:41:58* · [`adalk`](https://www.ada.lk/breaking_news/දියවැඩියා-රෝගීන්ගෙන්-බහුතරයක්-නිසි-ප්‍රතිකාර-ගන්නේ-නෑ/11-418113) · `si`
+
+දියවැඩියාවට ගොදුරුවූවන්ගෙන් 80%ක් පමණ නිසි අවබෝධයකින් ප්‍රතිකාර නොගන්නා බවට පවතින සංඛ්‍යා ලේඛන මගින් අනාවරණය වී ඇතැයි සෞඛ්‍ය අමාත්‍ය, වෛද්‍ය නලින්ද ජයතිස්ස මහතා ප්‍රකාශ කළේය.
+
+එසේම දියවැඩියා රෝගීන්ගෙන් 20% -21% ක් පමණක් පාලනය කරගත හැකි මට්ටමේ ප්‍රතිකාර ලබා ගන්නා බවද ඔහු පැවසීය.අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර සිටියේ අධික රුධිර පීඩනයෙන් පෙළෙන අයගේ සංඛ්‍යා ලේඛන ද මීට සමාන බවය.
+
+ප්‍රාථමික සෞඛ්‍ය සේවාවේදීත් ජනගහනය 10000 කට, ග්‍රාම නිලධාරී වසම් 4-5 කට, ජනතාවට කිලෝමීටර් 03 කට වඩා අඩු දුරක දී ළඟාවිය හැකි සෞඛ්‍ය මධ්‍යස්ථානයක් ආරෝග්‍යා නමින් ආරම්භ කිරීමට සෞඛ්‍ය අමාත්‍යංශය මේ වනවිට මූලික අවධානය යොමු කර ඇත.
+
+වැඩිහිටි ජනගහනය ඉහළ යාමත්, තවත් වසර කිහිපයකින් මෙරට ජනගහනයෙන් හතරෙන් එකක් වැඩිහිටියන් වීමත් වත්මනෙහි රට මුහුණ දෙන අභියෝගයක් බන බවද අමාත්‍යාංශය පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/c44a5a33.json)
 
 ---
 
@@ -1765,39 +1805,5 @@ A bond maturing on 15.09.2034 was quoted at 10.75/85 percent, flat. (Colombo/Aug
 ...
 
 [Data](articles/da3a70a8.json)
-
----
-
-### Two nabbed at BIA with smartphones worth Rs. 100M
-
-*2025-08-27 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/111897/two-nabbed-at-bia-with-smartphones-worth-rs-100m-) · `en`
-
-Two Sri Lankans have been arrested at the Bandaranaike International Airport (BIA) by Sri Lanka Customs this morning (27), while attempting to smuggle in a large quantity of smartphones valued at Rs. 100 million, without the required approval from the Telecommunications Regulatory Commission of Sri Lanka (TRCSL).
-
-The suspects had attempted to exit the airport through the “Green Channel”, which is designated for passengers with no items to declare.
-
-Upon inspection of three pieces of luggage, customs officials found 955 smartphones that had been smuggled into the country.
-
-◼️
-
-[Data](articles/55050249.json)
-
----
-
-### அதி நவீன கைத்தொலைபேசிகளுடன் இருவர் கைது
-
-*2025-08-27 11:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-நவீன-கைத்தொலைபேசிகளுடன்-இருவர்-கைது/175-363574) · `ta`
-
-இலங்கை தொலைத்தொடர்பு ஒழுங்குமுறை ஆணையத்தின் அனுமதியின்றி 10 கோடி ரூபாய் பெறுமதியுடைய அதிநவீன கைத்தொலைபேசிகளை  நாட்டிற்குள் கொண்டு வந்த இருவர் புதன்கிழமை (27) அன்று கட்டுநாயக்க விமான நிலையத்திலிருந்து வெளியேற முயன்ற போது கைது செய்யப்பட்டனர்.
-
-சந்தேக நபர்களான 24 வயதுடைய வர்த்தகர் மற்றும் 32 வயதுடைய தொழிற்சாலை மேற்பார்வையாளர் கொழும்பு, கிராண்ட்பாஸ் பகுதியைச் சேர்ந்தவர்கள்  என தெரியவந்துள்ளது.
-
-சந்தேக நபர்கள் இலங்கை ஏர்லைன்ஸ் விமானம்  மூலம் துபாயில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளதுடன் அவர்களின் 3 பைகளில் இருந்து, அதி நவீன  கைத்தொலைபேசிகள் 955  கைப்பற்றப்பட்டுள்ளது.
-
-சுங்கப் போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவு அதிகாரிகள், சந்தேக நபர்களை தடுத்து வைத்து  விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/0a89274c.json)
 
 ---

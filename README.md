@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 03:32:20**
+As of **2025-08-28 03:50:37**
 
 ## Newspaper Stats
 
-*Scraped **72,743** Articles*
+*Scraped **72,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 745
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,133
+dailyftlk | 5,135
 adalk | 6,998
 adaderanalk | 9,230
 tamilmirrorlk | 10,791
@@ -26,11 +26,53 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,743 articles have been extended.
+61,973 (85.2%) of 72,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### Gem Sri Lanka 2026: Ultimate sourcing mission
+
+*2025-08-28 03:28:11* · [`dailyftlk`](https://www.ft.lk/business/Gem-Sri-Lanka-2026-Ultimate-sourcing-mission/34-780884) · `en`
+
+Sri Lanka, renowned as the Island of gemstones, is preparing to host the third edition of Gem Sri Lanka, South Asia’s premier international gem and jewellery exhibition.
+
+Organised by the Ceylon Gem and Jewellery Traders Association (CGJTA), the event will take place from 7-9 January 2026 at the Shangri-La Colombo, bringing together industry leaders, global buyers and connoisseurs.
+
+The official launch ceremony, held yesterday at the Shangri-La Colombo, welcomed a distinguished gathering of ministers, ambassadors, dignitaries, industry leaders and stakeholders.
+
+With the theme “The Source. The Production. The Selection”, Gem Sri Lanka 2026 will highlight the complete journey of gemstones—from their origins in Sri Lankan mines to masterful craftsmanship and international markets.
+
+Gems Sri Lanka Chairman and CGJTA Vice Chairman Hilmy Cassim, described the exhibition as a powerful gateway connecting Sri Lanka’s timeless gemstone legacy with the global marketplace.
+
+...
+
+[Data](articles/4fbfe31f.json)
+
+---
+
+### From ashes to action: Kandurata Umbrella Industries resumes production in record time
+
+*2025-08-28 03:21:35* · [`dailyftlk`](https://www.ft.lk/business/From-ashes-to-action-Kandurata-Umbrella-Industries-resumes-production-in-record-time/34-780883) · `en`
+
+Chairman M. T. M. Nawushad (left) and Managing Director M. T. M. Naufal
+
+In an astonishing display of resilience and community spirit, Kandurata Umbrella Industries Ltd., announced this week that it has resumed production at its Gampola factory, less than a month after a devastating fire completely destroyed the facility.
+
+The blaze, which occurred on 28 July 2025, razed the entire manufacturing plant, wiping out the building, critical production equipment, and inventory for the iconic ‘Penguin’ brand.
+
+The incident was seen as a major blow to the nearly 50-year-old company, a household name in Sri Lanka and a significant employer in the Gampola region.
+
+However, in what is being hailed as a remarkable comeback, the company has managed to restart its operations in record time.
+
+In an official statement, the Board of Directors credited the rapid recovery to the “extraordinary” dedication of its employees and the “unwavering support” of partners, customers, and the local community.
+
+...
+
+[Data](articles/0b16f396.json)
+
+---
 
 ### Companies (Amendment) Act No. 12 of 2025: What it means  for businesses
 
@@ -1685,41 +1727,5 @@ The Cabinet of Ministers has therefore approved the proposal presented by the Mi
 ...
 
 [Data](articles/f59d1a93.json)
-
----
-
-### Sri Lanka approves action plan to combat illegal fishing in South Asian waters
-
-*2025-08-27 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111905/sri-lanka-approves-action-plan-to-combat-illegal-fishing-in-south-asian-waters) · `en`
-
-The Cabinet of Ministers has granted approval to the proposal presented by the Minister of Fisheries, Water, and Ocean Resources to sign the regional action plan regarding actions related to illegal, unreported, and unregulated fishing in the region.
-
-The member countries of the Food and Agriculture Organization have unanimously passed the international action plan for the prevention, discouragement, and elimination of illegal, unreported, and unregulated catching of fish with the objective of restoring depleted fish stocks and ensuring food security in the year 2001.
-
-Accordingly, Sri Lanka has also prepared a national action plan for that purpose.
-
-Further, the member countries of the Intergovernmental Organization have collectively agreed to sign the regional action plan.
-
-...
-
-[Data](articles/e183c734.json)
-
----
-
-### நள்ளிரவில்  தாம்பத்யம்: ஜன்னல் வழியாக வீடியோ எடுத்த வாலிபர்
-
-*2025-08-27 13:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவில்-தாம்பத்யம்-ஜன்னல்-வழியாக-வீடியோ-எடுத்த-வாலிபர்/175-363584) · `ta`
-
-நள்ளிரவில் புதுமண தம்பதி தாம்பத்யத்தில் ஈடுபட்டிருந்த போது,  ஜன்னல் வழியாக அதனை வீடியோ எடுத்த வாலிபரால் அடுத்தடுத்து நடந்த பரபரப்பான சம்பவம் சிவகங்கையில் இடம்பெற்றுள்ளது.
-
-சிவகங்கை மாவட்டம் காரைக்குடியை சேர்ந்த 20 வயது இளம்பெண் ஒருவரை காதலித்து வந்துள்ளார். இந்நிலையில் இருவருக்கும் கடந்த மாதம் திருமணம் நடைபெற்றுள்ளது. இருவரும் வசித்து வந்த வீட்டின் எதிர் வீட்டில் கோகுல் சந்தோஷ் என்பவர் வசித்து வந்தார்.
-
-இந்தநிலையில் புதுமண தம்பதி இருவரும் நள்ளிரவில் தாம்பத்ய உறவில் ஈடுபட்டிருந்த போது, திறந்திருந்த ஜன்னல் கதவு வழியாக எதிர்வீட்டில் வசிக்கும் கோகுல் சந்தோஷ், தனது வீட்டு மாடியில் இருந்து, அலைபேசி மூலம் தாம்பத்ய உறவில் ஈடுபட்டிருந்த தம்பதியரை வீடியோ படம் பிடித்துள்ளார்.
-
-அந்த வீடியோவை சித்த மருத்துவர் ஹரிஹரசுதன் என்பவரிடம் சந்தோஷ் காண்பித்துள்ளார். இருவரும் கண்டு ரசித்த நிலையில், சித்த மருத்துவர் ஹரிகரசுதன் கோகுல் சந்தோசிடம் இந்த ஆபாச வீடியோவை இணையதளத்தில் வெளியிட்டு விடுவோம் என்று அந்த பெண்ணை மிரட்டி பணம் பறித்து அந்த பெண்ணுடன் உல்லாசம் அனுபவிக்கலாம் என்ற யோசனையை கூறியுள்ளார்.
-
-...
-
-[Data](articles/8d35d0ff.json)
 
 ---

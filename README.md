@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 00:48:57**
+As of **2025-08-28 01:06:01**
 
 ## Newspaper Stats
 
-*Scraped **72,726** Articles*
+*Scraped **72,729** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
-colombotelegraphcom | 744
+colombotelegraphcom | 745
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,126
+dailyftlk | 5,128
 adalk | 6,998
 adaderanalk | 9,229
 tamilmirrorlk | 10,791
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,726 articles have been extended.
+61,973 (85.2%) of 72,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### Government must work with mandatory fingerprint attendance system
+
+*2025-08-28 00:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Government-must-work-with-mandatory-fingerprint-attendance-system/4-780859) · `en`
+
+It boosts accountability, especially in public institutions where taxpayer money is involved
+
+The fingerprint system uses biometric fingerprints. In simple terms, it’s a biometric time-tracking system designed for fairness and accountability in various professions. Scanners can record their attendance at workplaces or institutions. Instead of just signing a register or calling out names, employees need to scan their fingerprints to verify their presence. The goal is to prevent proxy attendance (someone else signing in for you). This ensures accurate records of who is there and for how long.
+
+...
+
+[Data](articles/3eb3c155.json)
+
+---
+
+### Science at the heart of democracy: Blueprint for Sri Lanka
+
+*2025-08-28 00:39:22* · [`dailyftlk`](https://www.ft.lk/columns/Science-at-the-heart-of-democracy-Blueprint-for-Sri-Lanka/4-780858) · `en`
+
+Appoint Chief Scientific Advisers or Thematic Research Leads to bring impartial, up-to-date expertise directly into legislative debates
+
+When Vikings arrived in Iceland towards the end of the 8th century, they gathered on a midsummer’s day to hear the laws of the land proclaimed, air grievances, and seek justice. This marked the beginning of the oldest known parliament in the world — the Althing, or Thingvellir — which still operates today.
+
+The word “parliament” later came to describe the after-dinner discussions between monks in their cloisters. Modern parliaments trace their roots to 13th-century England, when King Edward I convened joint meetings of two governing bodies: the Great Council and the Curia Regis, a smaller body of semi-professional advisors.
+
+...
+
+[Data](articles/47918d3f.json)
+
+---
 
 ### Ranil’s arrest, political ethics and seeing “this administration’s true face”
 
@@ -347,6 +377,20 @@ They said the E3 had decided to start triggering the so-called snapback of U.N. 
 ...
 
 [Data](articles/fd188f88.json)
+
+---
+
+### Climbing To Nowhere: How Social Aspiration Sustains Corruption In Sri Lanka
+
+*2025-08-27 19:15:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/climbing-to-nowhere-how-social-aspiration-sustains-corruption-in-sri-lanka/) · `en`
+
+In Sri Lanka, as in many post-colonial societies, social climbing and power climbing are not just parallel pursuits—they are one and the same. Advancement is rarely dictated solely by merit or hard work; more often, it is tethered to proximity to power, wealth, and influence. The forces sustaining this order are both visible and invisible, ranging from entrenched patronage networks and caste affiliations to elite educational backgrounds and influential family names.
+
+This obsession with upward mobility often reveals a collective inferiority complex, especially among those from lower or middle socio-economic backgrounds. It is not that individuals lack confidence or ambition; rather, the system has taught people to equate status with worth. In this framework, aligning oneself with the elite becomes a form of social validation—proof that one has “made it.”
+
+...
+
+[Data](articles/19e76eca.json)
 
 ---
 
@@ -1713,71 +1757,5 @@ At the IMF’s request, the Commonwealth Secretariat has been advising the gover
 ...
 
 [Data](articles/4dfe9247.json)
-
----
-
-### இலங்கையின் ஆடை ஏற்றுமதி : 2025 ஜூலை மாதத்தில் வலுவான வளர்ச்சி !
-
-*2025-08-27 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223482) · `ta`
-
-இலங்கையின் ஆடை ஏற்றுமதித் துறை, பொருளாதார சவால்களை எதிர்கொண்டு, 2025 ஜூலை மாதத்தில் வலுவான வளர்ச்சியைப் பதிவு செய்துள்ளது.
-
-கடந்த ஆண்டின் இதே மாதத்துடன் ஒப்பிடுகையில், ஆடை ஏற்றுமதி வருவாய் 9.84% அதிகரித்துள்ளதாக ஒன்றிணைந்த ஆடைச் சங்கங்களின் மன்றம் (JAAF) தெரிவித்துள்ளது.
-
-2025 ஜூலை மாதத்தில், இலங்கையின் ஆடை ஏற்றுமதி வருவாய் 455.16 மில்லியன் அமெரிக்க டொலர்களை எட்டியுள்ளது. இது 2024 ஜூலை மாதத்தில் பதிவான 414.38 மில்லியன் டொலர்களை விட கணிசமான உயர்வாகும்.
-
-2025 ஜனவரி முதல் ஜூலை வரையான இந்த ஆண்டின் முதல் ஏழு மாதங்களில், இலங்கையின் மொத்த ஆடை ஏற்றுமதி வருவாய் 2916.10 மில்லியன் அமெரிக்க டொலர்களை எட்டியுள்ளது. இது கடந்த ஆண்டின் இதே காலகட்டத்துடன் ஒப்பிடுகையில் 9.09% அதிகரிப்பாகும்.
-
-ஜனவரி முதல் ஜூலை வரையிலான காலகட்டத்தில், ஐரோப்பாவிற்கான ஏற்றுமதி வருவாய் 18.2% அதிகரித்துள்ளது.
-
-"இந்த வளர்ச்சி, பொருளாதார சவால்களை வெற்றிகரமாக எதிர்கொள்ளவும், நிலவும் சூழ்நிலைகளுக்கு ஏற்ப ஐரோப்பிய சந்தையில் வெற்றிபெறவும் இலங்கையின் ஆடைத் துறைக்கு முடிந்துள்ளது என்பதைக் காட்டுகிறது." என்று தெரிவித்தார்.
-
-...
-
-[Data](articles/b86cf94d.json)
-
----
-
-### ආනයනික අල - ළුෑනු සඳහා පනවා තිබු විශේෂ වෙළෙඳ භාණ්ඩ බද්ද ඉහළට
-
-*2025-08-27 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213844) · `si`
-
-ආනයනික අර්තාපල් සහ බොම්බයි ලූනු සඳහා පනවා ඇති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද ඉහළ දැමීමට රජය තීරණය කර තිබේ.
-
-ඊයේ (26) දිනයේ සිට ක්‍රියාත්මක වන පරිදි මෙම බදු සංශෝධනය සිදුකර ඇති බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
-
-මුදල් ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ඊට අදාළ ගැසට් නිවේදනය නිකුත් කර තිබේ.
-
-ඒ අනුව ආනයනික අර්තාපල් කිලෝග්‍රෑම් එකක් සඳහා පනවා තිබු රුපියල් 60ක විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල් 80 දක්වා ඉහළ දමා ඇති බව වාර්තා වේ.
-
-ආනයනික බොම්බයි ලූනු කිලෝග්‍රෑම් එකක් සඳහා රුපියල් 10ක් පැවති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල් 50 දක්වා රුපියල් 40කින් ඉහළ දමා තිබේ.
-
-මෙම බදු සංශෝධනය ඊයේ දිනයේ සිට මාස 03ක කාල සීමාවක් සඳහා බලපැවැත්වෙන බව මුදල් ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යංශය සඳහන් කළේය.
-
-මෙරට දේශීය අර්තාපල් සහ බොම්බයි ලූනු ගොවියා ආරක්ෂා කර ගැනීමේ අරමුණින් මෙම පියවර ගෙන ඇති අතර සිය අස්වනු සඳහා නිසි මිලක් නොමැති බවට පසුගිය දිනවල ගොවීන් චෝදනා කරනු ලැබීය.
-
-◼️
-
-[Data](articles/38e4cd09.json)
-
----
-
-### இளவரசர் வில்லியமிடம் சஜித் வேண்டுகோள்
-
-*2025-08-27 11:53:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளவரசர்-வில்லியமிடம்-சஜித்-வேண்டுகோள்/175-363579) · `ta`
-
-அதிகரித்து வரும் மனித-யானை மோதல் உயிர்களுக்கும் பல்லுயிர் பெருக்கத்திற்கும் ஒரு முக்கியமான அச்சுறுத்தலாகக் குறிப்பிட்டு, இலங்கையின் காட்டு யானைகளின் எண்ணிக்கையைப் பாதுகாக்கும் முயற்சிகளை ஆதரிக்குமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச பிரிட்டனின் இளவரசர் வில்லியமிடம் வேண்டுகோள் விடுத்துள்ளார்.
-
-நேற்று (26), பிரேமதாச கொழும்பில் பிரிட்டிஷ் உயர் ஸ்தானிகர் ஆண்ட்ரூ பேட்ரிக்கை சந்தித்து வேல்ஸ் இளவரசருக்கு முகவரியிட்ட கடிதத்தை ஒப்படைத்தார்.
-
-ஆசிய யானைகளின் மிகப்பெரிய தொகை கொண்ட நாடுகளில் ஒன்றாக இலங்கையின் நிலையை இந்தக் கடிதம் எடுத்துக்காட்டுகிறது மற்றும் சர்வதேச ஒத்துழைப்பை வலியுறுத்துகிறது.
-
-இந்த மோதலின் விளைவாக ஆண்டுதோறும் 400க்கும் மேற்பட்ட யானைகளும் 150 மனித உயிர்களும் இழக்கப்படுவதாக பிரேமதாச வலியுறுத்தினார்.
-
-உள்ளூர் சமூகங்கள், நிபுணர்கள் மற்றும் சர்வதேச கூட்டாளர்களை உள்ளடக்கிய நீண்டகால, அறிவியல் அடிப்படையிலான உத்தியான தேசிய யானை பாதுகாப்பு மற்றும் சகவாழ்வு முயற்சியை (NECCI) நிறுவ அவர் முன்மொழிந்தார்.
-
-...
-
-[Data](articles/9f533bf5.json)
 
 ---

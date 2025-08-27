@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 04:07:30**
+As of **2025-08-28 04:19:33**
 
 ## Newspaper Stats
 
-*Scraped **72,749** Articles*
+*Scraped **72,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 745
-economynextcom | 4,435
+economynextcom | 4,440
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,137
+dailyftlk | 5,140
 adalk | 6,998
 adaderanalk | 9,230
 tamilmirrorlk | 10,793
@@ -26,11 +26,65 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,749 articles have been extended.
+61,973 (85.2%) of 72,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### NMSJ questions due process, raises concerns about Wickremesinghe arrest
+
+*2025-08-28 04:05:11* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-questions-due-process-raises-concerns-about-Wickremesinghe-arrest/56-780897) · `en`
+
+National Movement for Social Justice reiterates call to abolish Executive Presidency for a just society
+
+Arrest of former President Ranil Wickremesinghe seen as pre-planned political move
+
+Use of Penal Code instead of Anti-Corruption Act raises concerns of prosecutorial abuse
+
+Timing of arrest before long weekend questioned as attempt to block legal redress
+
+The National Movement for Social Justice (NMSJ) yesterday reiterated its call for abolishing the Executive Presidency, while raising serious concerns over the arrest of former President Ranil Wickremesinghe.
+
+In a statement, the Movement questioned whether due process was properly observed by the institutions and individuals involved. It said that the earlier announcement by a YouTuber, who predicted Wickremesinghe’s remand, reinforced the impression that the arrest was a pre-planned political move.
+
+...
+
+[Data](articles/b4e316e1.json)
+
+---
+
+### Cabinet approves Rs. 250 m mental health program targeting youth
+
+*2025-08-28 04:03:34* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-Rs-250-m-mental-health-program-targeting-youth/56-780896) · `en`
+
+The Cabinet of Ministers on Monday approved the implementation of a special program to address rising mental health challenges, particularly among schoolchildren, adolescents, and young adults.
+
+Announcing the decision at the weekly post-Cabinet meeting media briefing yesterday, Minister Vijitha Herath said the initiative will be carried out in collaboration with the Education, Higher Education and Vocational Education Ministry, the National Dangerous Drugs Control Board, the National Institute of Mental Health, provincial and divisional health services, hospitals, and other related institutions.
+
+He said the country has seen worrying trends in recent years, including a persistently high suicide rate, growing drug addiction, and an increase in psychosocial issues among youth.
+
+“As proposed in the 2025 Budget, Rs. 250 million has been allocated to launch a medium-term program under the Health and Mass Media Ministry,” Herath added.
+
+...
+
+[Data](articles/50e472ed.json)
+
+---
+
+### DIG Nishantha Soysa appointed Acting Colombo Police Chief
+
+*2025-08-28 04:03:04* · [`dailyftlk`](https://www.ft.lk/news/DIG-Nishantha-Soysa-appointed-Acting-Colombo-Police-Chief/56-780895) · `en`
+
+Western Province (North) Deputy Inspector General of Police (DIG) Nishantha Soysa has been named Acting DIG Colombo on Monday after Udith Liyanage was arrested for allegedly trying to block the detention of his wife, who was among eight suspects held in connection with an alleged treasure-hunting incident in Anuradhapura. Liyanage was remanded until 1 September on accusations that he pressured local Police to release her.
+
+Soysa has previously said he was threatened with death by former Inspector General of Police (IGP) Deshabandu Thennakoon while Soysa, as DIG Matara, investigated a shooting at a Weligama hotel. Thennakoon is accused of orchestrating that incident, which involved officers from the Colombo Crime Division (CCD), Weligama Police, and the Special Task Force, and left one CCD officer dead and another injured.
+
+...
+
+[Data](articles/638553f7.json)
+
+---
 
 ### அமெரிக்க பாடசாலையில் துப்பாக்கிச் சூடு
 
@@ -942,6 +996,42 @@ Police Media Spokesperson ASP F.U. Wootler revealed this at the press conference
 
 ---
 
+### Sri Lanka inks deal with China for technical support on fruit value addition
+
+*2025-08-27 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-deal-with-china-for-technical-support-on-fruit-value-addition-238490/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Agriculture Ministry has signed a Memorandum of Understanding (MoU) with Chinese Academy of Tropical Agricultural Sciences with the objective of value addition of banana, mango, and pineapple in the island nation, the government said.
+
+The project aimed at introducing novel technologies and practices that could increase the harvest in fruit cultivation fields, enhance the capability of obtaining planting materials, strengthen post harvest practices, and promote value addition of these fruits.
+
+“It has been observed that the appropriateness of establishing a proper mechanism to maintain the cooperation with the Chinese Academy of Tropical Agricultural Sciences continuously beyond the existing project duration in order to achieve the benefits of the.. project completely and sustainably,” the government said.
+
+...
+
+[Data](articles/be4ea9ed.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields edge up
+
+*2025-08-27 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-238486/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.42/52 to the US dollar in the spot market Wednesday, weaker from 302.25/33 the previous day, while bond yields closed slightly up, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.15/24 percent, up from 8.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 8.58/65 percent, up from 8.55/64 percent.
+
+A bond maturing on 15.12.2029 closed at 9.41/44 percent, down from 9.43/46 percent.
+
+A bond maturing on 15.12.2032 closed at 10.28/32 percent, from 10.26/33 percent. (Colombo/Aug27/2025)
+
+◼️
+
+[Data](articles/6fb2b896.json)
+
+---
+
 ### ගම්මන්පිල සිදුකළ ප්‍රකාශයක් ගැන CIDයෙන් විමර්ශන
 
 *2025-08-27 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213860) · `si`
@@ -1176,6 +1266,44 @@ Presenting facts before Colombo Fort Magistrate Nilupuli Lankapura, the CID note
 
 ---
 
+### Sri Lanka awards Aditya Birla bid to supply Octane 92 for six months
+
+*2025-08-27 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-aditya-birla-bid-to-supply-octane-92-for-six-months-238488/) · `en`
+
+ECONOMYNEXT – Sri Lanka Cabinet has approved a decision to award supply of 1.5 million barrels of Octane to M/s Aditya Birla Global Trading (Singapore) Pte for six months starting from September 15 this year, the government said.
+
+The decision for long term contract of supplying was based on the recommendation by a Special Standing Procurement Committee appointed by the Cabinet of Ministers.
+
+The government in its cabinet decisions this week said Aditya Birla was chosen after receiving eight bidders after the state-owned Ceylon Petroleum Corporation (CPC) called for bids. (Colombo/August 27/2025)
+
+◼️
+
+[Data](articles/e0e15a9c.json)
+
+---
+
+### Sri Lanka sells 37-pct less bills than offered
+
+*2025-08-27 16:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-37-pct-less-bills-than-offered-238481/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 51.14 billion rupees of Treasury bills of an offered 82 billion, with very small amounts of 3-month bills sold, with yields being kept flat, data from the state debt office showed.
+
+The 3-month yield was down 1 basis points at 7.58 percent, with 15 billion rupees offered and only 4.64 billion sold.
+
+The 6-month yield was flat at 7.89 percent, with 33 billion offered and 36.51 billion sold.
+
+The 12-month yield was flat at 8.03 percent with 35 billion rupees of bills offered and only 9.9 billion sold.
+
+The debt office is offering bills on tap at the weighted average yield.
+
+All bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/cc849fac.json)
+
+---
+
 ### ජනපති, අගමැති ඇතුළු කැබිනට් මණ්ඩලයට නොතීසි
 
 *2025-08-27 16:20:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති--අගමැති-ඇතුළු-කැබිනට්-මණ්ඩලයට-නොතීසි/11-418104) · `si`
@@ -1239,6 +1367,24 @@ Presenting facts before Colombo Fort Magistrate Nilupuli Lankapura, the CID note
 ...
 
 [Data](articles/d2e9ee5d.json)
+
+---
+
+### Sri Lanka stocks close up, led by capital goods, financials
+
+*2025-08-27 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-led-by-capital-goods-financials-238479/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stock market closed up on Wednesday, data on its site showed.
+
+The Colombo stock exchange’s ASPI was up 0.68 percent, or 139.82 points, at 20,753.21, while the S&P SL20 was up 0.23 percent, or 13.64 points, at 6,062.44.
+
+Turnover was 7.8 billion rupees. Capital goods and diversified financials stocks contributed the most.
+
+Top contributors to ASPI were Access Engineering (up 2.60 rupees at 60.50), Vallibel One (up 3.80 rupees at 93.80), Ceylon Tobacco (up 24.25 rupees at 1,641.75), and Royal Ceramics (up 1.40 at 46.40 rupees).
+
+◼️
+
+[Data](articles/b02bbe00.json)
 
 ---
 
@@ -1569,157 +1715,5 @@ Under this, the Ministry of Health and Mass Media has proposed to implement a me
 ◼️
 
 [Data](articles/d17e65ad.json)
-
----
-
-### One injured after collision involving five vehicles in Dambulla
-
-*2025-08-27 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111908/one-injured-after-collision-involving-five-vehicles-in-dambulla) · `en`
-
-A road accident involving five vehicles has been reported along the Colombo–Trincomalee main road in the Pohoran Wewa area in Dambulla.
-
-The accident took place when three vehicles traveling from Colombo to Dambulla collided with a lorry and a car heading in the opposite direction.
-
-◼️
-
-[Data](articles/594c3f7a.json)
-
----
-
-### ඩොලර් සංචිත වැඩි කරගන්න ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
-
-*2025-08-27 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213851) · `si`
-
-අපනයන ක්ෂේත්‍රයේ පවතින ගැටලු සම්බන්ධයෙන් යෝජනා සහ අදහස් විමසීම සඳහා වැවිලි ක්ෂේත්‍රයේ පෞද්ගලික අංශයේ ව්‍යාපාරිකයින් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී ඊයේ (26) පස්වරුවේදී පැවැත්විණි.
-
-සැලකිය යුතු ප්‍රමාණයකින් රාජ්‍ය ආදායම වර්ධනය කර ගැනීමටත්, ආර්ථිකයෙහි යම් ස්ථාවරත්වයක් ඇති කිරීමටත් ශ්‍රී ලංකා රජය මේ වන විට සමත් වී ඇති නමුත් රටේ ආර්ථිකය ස්ථාවර වීම සඳහා ඉතා වැදගත් වන ඩොලර් සංචිත ශක්තිමත් කර ගැනීමේ අභියෝගය ජය ගැනිම සඳහා ව්‍යාපාරිකයන්ගේ සහ කර්මාන්තකරුවන්ගේ අදහස් ලබා ගැනීම මෙම සාකච්ඡාවේ අරමුණ වී තිබේ.
-
-එහිදී ව්‍යාපාරිකයන්ට සහ කර්මාන්තකරුවන්ට අවශ්‍ය පහසුකම් සැපයීම රජයේ වගකීම බව ප්‍රකාශ කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා රජය, ව්‍යාපාරිකයන්ට සහ කර්මාන්තකරුවන්ට ලබා දෙන පහසුකම්වලට සරිලන සාධාරණ බදු ගෙවීමක් සිදුකළ යුතු බවද පෙන්වා දී ඇත.
-
-ආර්ථිකයට තිරිංග යොදා සීමා කළ නොහැකි බව කියා සිටි ජනාධිපතිවරයා හැකිළී තිබුණු ආර්ථිකය ප්‍රසාරණය කරමින් ඉදිරියට ගෙන යාමට වත්මන් රජය කටයුතු කරමින් සිටින බවද මෙහිදී අවධාරණය කළේය.
-
-...
-
-[Data](articles/2dfcfd9b.json)
-
----
-
-### Sri Lanka’s CEB to get stand-by power to cool coal plant during tripping
-
-*2025-08-27 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-to-get-stand-by-power-to-cool-coal-plant-during-tripping-238474/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has given approval for the Ceylon Electricity Board to acquire a stand by power system to cool a coal plant when it trips off the grid, a government statement said.
-
-Standby power will be used to keep the cooling systems of capacitors and also water feeder of the boiler also running, the statement said.
-
-During emergency tripping, steam is released quickly to protect components by bursting a rubber seal called a diaphragm as cooling system lose power during a large power failure.
-
-The replacement of the diagram takes a long time as 4 to 5 days are required for the boiler related components to cool sufficiently for technicians to approach to components. (Colombo/Aug27/2025)
-
-◼️
-
-[Data](articles/630afa1d.json)
-
----
-
-### Number of skeletal remains uncovered from Chemmani mass grave increases to 166
-
-*2025-08-27 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/111907/number-of-skeletal-remains-uncovered-from-chemmani-mass-grave-increases-to-166) · `en`
-
-A total of 166 human skeletal remains have been unearthed thus far from a mass grave located near the Sindhubathi cemetery in Chemmani, Jaffna.
-
-Officials have stated that the fifth phase of the excavation process is planned to continue until September 7.
-
-The current phase is being conducted based on the findings of previous scanning investigations carried out on the mass grave site.
-
-The excavation is being conducted under the supervision of Jaffna Magistrate A.A. Anandarajah, with the involvement of a team of experts including Prof. Raj Somadeva, Senior Archaeologist from the University of Kelaniya, and Dr. Sellaiya Pirapanan, a specialist in forensic medicine from the University of Jaffna.
-
-The recovered skeletal remains and items found within the mass grave have been placed in the custody of Dr. Sellaiya Pirapanan, under the orders of the Jaffna Magistrate’s Court, for further forensic examination at the University of Jaffna’s Faculty of Forensic Medicine.
-
-...
-
-[Data](articles/b5ead577.json)
-
----
-
-### දක්ෂිණ අධිවේගයේ කොටසක් ප්‍රතිසංස්කරණයට කැබිනට් අනුමැතිය
-
-*2025-08-27 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213850) · `si`
-
-දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව සහ දොඩංගොඩ අතර 19වන කිලෝමීටරයේ සිට 34වන කිලෝමීටරය දක්වා ප්‍රදේශයේ පුළුල් පෘෂ්ඨික ඉරි තැළුම් සහ අභ්‍යන්තර ව්‍යූහාත්මක ස්ථරවල භායනයන් සිදු වී ඇති බව නිරීක්ෂණය කර ඇත.
-
-ඒ අනුව එම මාර්ග කොටස ප්‍රතිසංස්කරණය කිරීම, පාදමේ බිඳ වැටීම් දෝෂාපහරණය සහ නව ආස්තරණයක් යෙදීම සිදුකළ යුතු බවට හඳුනාගනු ලැබ තිබේ.
-
-ඒ සඳහා, ජාතික තරගකාරි ලංසු කැඳවීමේ ප්‍රසම්පාදන ක්‍රමවේදය අනුගමනය කරමින් සුදුසුකම්ලත් දේශීය ආයතන වෙතින් ලංසු කැඳවා ඇත.
-
-ලැබී ඇති ලංසු ඇගයීමෙන් පසු ඉහළ මට්ටමේ ස්ථාවර ප්‍රසම්පාදන කමිටුව විසින් ප්‍රතිචාර දක්වන ලද අවම ලංසුකරු වන මාගා ඉංජිනියරින් (ප්‍රයිවට්) ලිමිටඩ් වෙත කොන්ත්‍රාත්තුව ප්‍රදානය කිරීමට නිර්දේශ කර තිබේ.
-
-එම කොන්ත්‍රාත්තුව පිරිනැමීමට ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව ඇත.
-
-◼️
-
-[Data](articles/7b5602d1.json)
-
----
-
-### බිහිසුණු පාසල් වෑන් අනතුර ගැන තවත් තොරතුරු - ටිපර් රියදුරා අත්අඩංගුවට
-
-*2025-08-27 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213849) · `si`
-
-කුලියාපිටිය විලපොළ මංසන්ධියේ පල්ලේවෙල පාලම මතදී ටිපර් රථයක් හා පාසල් වෑන් රථයක් මුහුණට මුහුණ ගැටී අද (27) උදෑසන සිදුවූ අනතුරකින් සිසුවියන් දෙදෙනෙකු හා වෑන් රථයේ රියදුරු මියගොස් තිබුණි.
-
-තුවාල ලැබූ සිසු සිසුවියන් 13 දෙනෙකු රෝහල්ගතව ප්‍රතිකාර ලබමින් පසු වෙයි.
-
-පාසල් වෑන් රථය දුම්මලසූරිය ප්‍රදේශයේ සිට කුලියාපිටිය දක්වා පැමිණ තිබුණි.
-
-වැලි පැටවූ ටිපර් රථය ධාවනය කර තිබුණේ කුලියාපිටිය ප්‍රදේශයේ සිට, වෑන් රථයට ප්‍රතිවිරුද්ධ දිශාවටය.
-
-අනතුරත් සමග එම ස්ථානයට පැමිණි පොලිසිය සහ ජනතාව තුවාල ලැබූ සිසුන් කඩිනමින් රෝහල්ගත කිරීමට පියවර ගෙන තිබුණි.
-
-අනතුර සිදුවන අවස්ථාවේ වෑන් රථයේ සිසුවියන් 12 දෙනෙකු සහ සිසුන් තිදෙනෙකු සිට ඇති බව පොලිසිය පැවසීය.
-
-එහිදී මියගොස් ඇත්තේ, වයස අවුරුදු 12ත් 13ත් අතර වයස්වල පසුවන සිසුවියන් දෙදෙනෙකි.
-
-අනතුරින් තුවාල ලැබූ සිසු සිසුවියන් 13 දෙනාගෙන් 9 දෙනෙකු මේ වනවිට කුලියාපිටිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන අතර තවත් තිදෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කෙරුණි.
-
-එක් සිසුවියක් කොළඹ ජාතික රෝහලට මාරු කර යැවීමට ද පියවර ගෙන ඇත.
-
-...
-
-[Data](articles/efbfe31b.json)
-
----
-
-### MAGA Engineering wins deal to repair Sri Lanka’s Southern Expressway
-
-*2025-08-27 13:32:00* · [`economynextcom`](https://economynext.com/maga-engineering-wins-deal-to-repair-sri-lankas-southern-expressway-238472/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s MAGA Engineering has won a contract to repair a 15 kilometre stretch of the island’s Southern Expressway, Minister Vijitha Herath.
-
-MAGA Engineering (Pvt) Ltd was chosen following national competitive tender, he said.
-
-The repair involves fixing cracks on the surface and also the deterioration in internal structures, he said.
-
-The Southern Expressway runs from Colombo to Hambantota. The stretch  being repaired is between the 19 and 34 kilometre posts.
-
-◼️
-
-[Data](articles/8af57591.json)
-
----
-
-### தென்னகோன் பிணையில் விடுதலை
-
-*2025-08-27 13:30:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்னகோன்-பிணையில்-விடுதலை/175-363586) · `ta`
-
-மே 9, 2022 அன்று காலி முகத்திடலில் அமைதிப் போராட்டக்காரர்கள் மீது நடத்தப்பட்ட தாக்குதல் தொடர்பாக கைது செய்யப்பட்ட முன்னாள் பொலிஸ்மா அதிபர் (டிஐஜி) தேசபந்து தென்னகோன் இன்று பிணையில் விடுவிக்கப்பட்டார்.
-
-கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர, தலா 1 மில்லியன் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளுடன் அவருக்கு பிணை வழங்கியதுடன், பயணத் தடையையும் விதித்தார்.
-
-இந்த வழக்கில் தென்னகோன் 33வது சந்தேக நபர் அல்ல, 37வது சந்தேக நபர் என்றும், 33வது சந்தேக நபர் லியானாட் மெண்டிஸ் என்றும் நீதவான் மேலும் தெளிவுபடுத்தினார்.
-
-◼️
-
-[Data](articles/81ff9ec1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 18:32:26**
+As of **2025-08-27 18:56:33**
 
 ## Newspaper Stats
 
-*Scraped **72,692** Articles*
+*Scraped **72,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,991
+adalk | 6,992
 adaderanalk | 9,222
-tamilmirrorlk | 10,789
+tamilmirrorlk | 10,790
 virakesarilk | 11,941
 adaderanasinhalalk | 12,592
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,692 articles have been extended.
+61,973 (85.3%) of 72,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### “ரணிலின் நோய்களை சொன்னவருக்கு ஒழுக்காற்று”
+
+*2025-08-27 18:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-நோய்களை-சொன்னவருக்கு-ஒழுக்காற்று/175-363609) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது செய்யப்பட்ட பின்னர் தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வந்தபோது அவரது உடல்நிலை குறித்து ஊடகங்களுக்கு அறிக்கைகளை வெளியிட்ட கொழும்பு தேசிய மருத்துவமனையின் பிரதி பணிப்பாளர் டாக்டர் ருக்‌ஷான் பெல்லனா மீது ஒழுக்காற்று விசாரணை நடத்தப்படும் என்று  சுகாதார மற்றும் வெகுஜன ஊடக பதில்அமைச்சர் டாக்டர் ஹன்சக விஜேமுனி தெரிவித்தார்.
+
+ஓர் அரச அதிகாரியாகவும் மருத்துவ நெறிமுறைகளின்படியும், அவர் அவ்வாறு செய்ய முடியாது என்றும், குறிப்பாக ஒரு நோயாளியின் உடல்நிலை குறித்து மற்ற தரப்பினருக்கு தகவல்களை வெளியிடக்கூடாது என்றும் பதில் அமைச்சர் கூறினார்.
+
+கண்டி மாவட்ட ஒருங்கிணைப்பு குழு கூட்டம் புதன்கிழமை (27) நடைபெற்றது. அதனை தொடர்ந்து ஊடகங்களுக்கு கருத்துரைத்த போதே பதில் அமைச்சர் இவ்வாறு கூறினார்.
+
+இதுபோன்ற அறிக்கைகளை வெளியிட பிரதி பணிப்பாளருக்கு உரிமை இல்லை என்றும், முன்னாள் ஜனாதிபதி அவரது பிரிவில் சிகிச்சை பெறவில்லை என்றும் அமைச்சர் கூறினார்.
+
+...
+
+[Data](articles/9698f096.json)
+
+---
 
 ### கம்மன்பிலவுக்கு எதிராக ICCPR இன் கீழ் விசாரணை
 
@@ -95,6 +113,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/98960af1.json)
+
+---
+
+### මහනුවරට ඒකාබද්ධ කාල සටහනක්
+
+*2025-08-27 17:03:18* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවරට-ඒකාබද්ධ-කාල-සටහනක්/11-418106) · `si`
+
+මහනුවර නගරයේ පවතින අධික වාහන තදබදයට පිළියමක් වශයෙන් නගරය හරහා දිවෙන මගි ප්‍රවාහන බස් රථ එකාබද්ධ කාල සටහනකට අනුව ධාවනය කරවීමේ පෙරහුරු වැඩසටහනක් සැප්තැම්බර් මස 15 වැනි දින සිට ක්‍රියාත්මක කරන ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
+
+නියෝජ්‍ය අමාත්‍යවරයා ඒ බව අවධාරණය කර සිටියේ අද (27) කෘෂිකර්ම ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී. ලාල්කාන්ත මහතාගේ සභාපතිත්වයෙන් යුක්තව මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පැවැති දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමට සහභාගි වීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිණි.
+
+එහිදී අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ මහනුවර බහුවිධි මාදිලි ප්‍රවාහන පර්යන්තය ඉදිකිරීම් වර්ෂ 2027 වර්ෂයේදී නිමා වන විට එම පර්යන්තය තුළින් දීප ව්‍යාප්තව බස් ගාවනය කරවීමේ සැලසුමේ පළමු අදියර යටතේ මෙම පෙරහුරු වැඩසටහන ක්‍රියාත්මක කරන බවයි.
+
+එ් අනුව දිගන සිට මහනුවරට ධාවනය වන බස් රථ සිය ගමනාන්තය බවට මහනුවර පත්කිරීම වෙනුවට දිගන පැණිදෙනිය වැනි වෙනත් ගමනාන්තයක් හඳුන්වාදීම මෙහිදී සිදුවන බවත් මහනුවර නගරයේ බස් ගාල් කිරීමක් එහිදී සිදු නොවන බවත්ය.
+
+...
+
+[Data](articles/37af40ba.json)
 
 ---
 
@@ -1771,43 +1807,5 @@ By The National Peace Council As Sri Lanka prepares to appear before the United 
 ◼️
 
 [Data](articles/a0e6a432.json)
-
----
-
-### Three Sri Lankans arrested at BIA with foreign cigarettes worth Rs. 45M
-
-*2025-08-27 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/111892/three-sri-lankans-arrested-at-bia-with-foreign-cigarettes-worth-rs-45m) · `en`
-
-Three Sri Lankans have been arrested at the Bandaranaike International Airport (BIA) this morning (27) while attempting to smuggle a large stock of foreign-manufactured cigarettes into the country.
-
-The trio had attempted to smuggle the cigarettes worth Rs. 45.8 million, using the “Green Channel” — a lane at the airport meant for passengers with nothing to declare.
-
-They were apprehended by the Narcotics Control Division of the Sri Lanka Customs at the arrival terminal of the BIA.
-
-The arrested individuals aged 24, 28, and 30, are residents of Colombo, Avissawella, and Mattakkuliya respectively.
-
-According to officials, the suspects had purchased the cigarettes in Dubai, transported them to Doha, Qatar, and from there flown to Sri Lanka on a flight landed at the BIA at 2:05 a.m.
-
-Upon inspection, officers found 1,503 cartons of cigarettes concealed within 15 pieces of luggage carried by the suspects.
-
-...
-
-[Data](articles/5ecd6f89.json)
-
----
-
-### வைரத்திலான விநாயகர் சிலை
-
-*2025-08-27 09:39:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/temple/வைரத்திலான-விநாயகர்-சிலை/64-363562) · `ta`
-
-நாடு முழுவதும் இன்று (புதன்கிழமை) விநாயகர் சதுர்த்தி பண்டிகை கொண்டாடப்பட்டு வருகிறது. இதையொட்டி விநாயகர் சிலைகள் வைத்து பொதுமக்கள், இந்து அமைப்பினர் வழிபாடு நடத்த உள்ளனர். இதையொட்டி விற்பனைக்காக பல்வேறு வடிவங்கள், வண்ணங்களில் விதவிதமான விநாயகர் சிலைகள் விற்பனைக்கு வந்துள்ளனர்.
-
-இந்த நிலையில் கர்நாடக மாநிலம் தார்வார் மாவட்டம் உப்பள்ளியில் வசித்து வரும் மராட்டியத்தை சேர்ந்த மகேஷ் முரகோடா என்ற கலைஞர் வைரத்தில் விநாயகர் சிலையை வடிவமைத்துள்ளார். சுமார் ரூ.6 லட்சம் மதிப்பிலான அமெரிக்க வைரத்தில் இந்த விநாயகர் சிலை உருவாக்கப்பட்டுள்ளது.
-
-இந்த விநாயகர் சிலையின் எடை 50 கிலோ ஆகும். இந்த விநாயகர் சிலை பெங்களூரு தெற்கு (ராமநகர்) மாவட்டம் ராமநகரில் நடைபெறும் விநாயகர் சதுர்த்தி விழாவில் நாடபிரபு கெம்பேகவுடா மித்ரா சபை சார்பில் நிறுவப்படுகிறது. பின்னர் அந்த சிலை யானை மீது வைத்து ஊர்வலமாக எடுத்துச் செல்லப்பட உள்ளது.
-
-◼️
-
-[Data](articles/50780cfa.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 01:06:01**
+As of **2025-08-28 01:17:28**
 
 ## Newspaper Stats
 
-*Scraped **72,729** Articles*
+*Scraped **72,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 745
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,128
+dailyftlk | 5,129
 adalk | 6,998
 adaderanalk | 9,229
 tamilmirrorlk | 10,791
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,729 articles have been extended.
+61,973 (85.2%) of 72,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### NIBM Neo Ventures: Colouring passionate lives through Sri Lanka’s startup revolution
+
+*2025-08-28 00:56:15* · [`dailyftlk`](https://www.ft.lk/business/NIBM-Neo-Ventures-Colouring-passionate-lives-through-Sri-Lanka-s-startup-revolution/34-780860) · `en`
+
+National Institute of Business Management Director General Dr. D.M.A. Kulasooriya
+
+In a world where innovation drives progress, startups have become the lifeblood of economic growth and societal transformation. At the National Institute of Business Management (NIBM) in Sri Lanka, a dynamic initiative called Neo Ventures is empowering learners and young entrepreneurs to “colour their passionate lives” by turning bold ideas into thriving businesses.
+
+With Sri Lanka’s startup ecosystem gaining momentum, Neo Ventures stands as a beacon of creativity, resilience, and entrepreneurial spirit. NIBM Neo Ventures is shaping the future of business in Sri Lanka, the current startup landscape, and the potential for exponential growth in the coming years.
+
+...
+
+[Data](articles/0ca18553.json)
+
+---
 
 ### Government must work with mandatory fingerprint attendance system
 
@@ -1739,23 +1755,5 @@ Subsequently, the case was scheduled to be taken up again on September 3.
 ...
 
 [Data](articles/fbfd9495.json)
-
----
-
-### Sri Lanka set to manage public debt using Commonwealth software from next month
-
-*2025-08-27 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111900/sri-lanka-set-to-manage-public-debt-using-commonwealth-software-from-next-month) · `en`
-
-Sri Lanka will begin using the Commonwealth Meridian software from next month to manage public debt as part of the economic recovery plan.
-
-The decision to adopt a new system follows recommendations from the International Monetary Fund (IMF) and World Bank to establish a Public Debt Management Office. It comes after Sri Lanka defaulted on its foreign debt in 2022 during a severe economic crisis, which forced it to seek IMF assistance.
-
-Since then, the government has been working with the IMF and World Bank on reforms to restore economic stability, including restructuring debt and improving the management of its borrowings.
-
-At the IMF’s request, the Commonwealth Secretariat has been advising the government alongside the IMF and World Bank on the legal framework, governance and systems needed for its newly established debt office.
-
-...
-
-[Data](articles/4dfe9247.json)
 
 ---

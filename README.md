@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 06:34:13**
+As of **2025-08-27 07:17:24**
 
 ## Newspaper Stats
 
-*Scraped **72,559** Articles*
+*Scraped **72,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 744
 economynextcom | 4,431
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,121
+dailyftlk | 5,124
 adalk | 6,974
 adaderanalk | 9,190
 tamilmirrorlk | 10,752
 virakesarilk | 11,927
-adaderanasinhalalk | 12,567
+adaderanasinhalalk | 12,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,559 articles have been extended.
+61,973 (85.4%) of 72,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### අදත් සවස 2න් පසු තද වැසි
+
+*2025-08-27 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213835) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, වයඹ සහ උතුරු පළාත්වල වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/24e7cac9.json)
+
+---
+
+### Sri Lanka-China Business Council holds 24th AGM
+
+*2025-08-27 06:08:28* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-China-Business-Council-holds-24th-AGM/34-780820) · `en`
+
+The Sri Lanka-China Business Council (SLCHBC) of The Ceylon Chamber of Commerce held its 24th Annual General Meeting (AGM) on 3 July, at the Port City Sales Gallery, Colombo Port City, reaffirming its commitment to strengthening bilateral economic cooperation with China.
+
+Officials from the Embassy of the People’s Republic of China graced the occasion, with Second Secretary Geng Zichao, delivering an address on behalf of the Chinese Embassy. He highlighted China’s robust economic performance in 2024, including a GDP of $ 18.94 trillion and 5.4% growth in Q1 2025. Bilateral trade with Sri Lanka reached $ 5.365 billion, marking a 30.4% year-on-year increase – the fastest growth in South Asia.
+
+...
+
+[Data](articles/8a71086a.json)
+
+---
+
+### ILCCI-FICCI-Edelman Group webinar on  ‘Think India’ and emerging growth opportunities
+
+*2025-08-27 06:07:23* · [`dailyftlk`](https://www.ft.lk/business/ILCCI-FICCI-Edelman-Group-webinar-on-Think-India-and-emerging-growth-opportunities/34-780819) · `en`
+
+The Indo-Lanka Chamber of Commerce & Industry (ILCCI) affiliated to The Ceylon Chamber of Commerce successfully hosted an interactive webinar aimed at equipping Sri Lankan business leaders with a deeper understanding of India’s evolving policy environment, economic priorities, and emerging strategic growth sectors. The session was presented by the Edelman Group and supported by the Federation of Indian Chambers of Commerce & Industry (FICCI).
+
+Led by Edelman’s Public & Government Affairs practice, the program explored how Sri Lankan enterprises can align with India’s growth trajectory for long-term value creation. The comprehensive discussion covered diverse topics, from identifying sectoral opportunities in various Indian states to outlining the essential steps required to enter and thrive in the Indian market.
+
+...
+
+[Data](articles/7a7c0723.json)
+
+---
+
+### Aitken Spence Elevators and Rush Housing forge strategic partnership for vertical mobility across new developments
+
+*2025-08-27 06:07:02* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Elevators-and-Rush-Housing-forge-strategic-partnership-for-vertical-mobility-across-new-developments/34-780818) · `en`
+
+Aitken Spence Elevators Ltd., has signed a Memorandum of Understanding (MoU) with Rush Housing Ltd., to provide nine OTIS Gen2 Hz machine room-less elevators for five upcoming residential projects in Colombo District.
+
+The projects include Maimoon Residencies (Dehiwala), Rush Court 5 (Mahawatte), Rush Tower 2 (Dehiwala), Street Rush Residencies, and Rush Metropolis (Dehiwala).
+
+Established in 1989, Aitken Spence Elevators, a joint venture between Aitken Spence PLC and OTIS Elevator Company (Singapore) PTE Ltd., is Sri Lanka’s exclusive provider of OTIS elevators and escalators, servicing over 95% of Colombo’s high-rise buildings. As the first and only elevator company in Sri Lanka certified with an integrated management system (ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018), Aitken Spence Elevators continues to lead in quality, environmental stewardship, and workplace safety.
+
+...
+
+[Data](articles/785498da.json)
+
+---
 
 ### Elevating construction excellence: Würth Lanka hosts Engineering Forum on anchors and construction fixings
 
@@ -366,7 +430,7 @@ According to the Board, a total sum of Rs. 2,993,791,000 will be distributed amo
 
 ---
 
-### බාල වයස්කාර දැරියක් දූෂණය කළාට පුද්ගලයෙකුට වසර 12ක සිර දඬුවම්
+### බාල වයස්කාර දැරියක් දූෂණය කළාට පුද්ගලයෙකුට වසර 12ක සිරදඬුවම්
 
 *2025-08-26 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213832) · `si`
 
@@ -1643,63 +1707,5 @@ Former President Ranil Wickremesinghe has not been produced in court for the hea
 ◼️
 
 [Data](articles/ecd2a24e.json)
-
----
-
-### ரணிலின்றி வழக்கு ஆரம்பம்: 300 சட்டத்தரணிகள் களத்தில்
-
-*2025-08-26 14:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்றி-வழக்கு-ஆரம்பம்-300-சட்டத்தரணிகள்-களத்தில்/175-363526) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மீதான நீதிமன்ற விசாரணை கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் சற்று முன்னர் தொடங்கியது. ரணில் விக்கிரமசிங்க இன்றியே வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டுள்ளது.
-
-சட்டத்தரணிகளான திலக் மாரப்பன, அனுஜா பிரேமரத்ன, உப்புல் ஜெயசூரியா, அலி சப்ரி மற்றும் வழக்கறிஞர்கள்  ரணில் விக்ரமசிங்கவுக்காக ஆஜராகின்றனர். மேற்படி சட்டத்தரணிகளுடன், சுமார் 300க்கும் மேற்பட்ட சட்டத்தரணிகளும் நீதிமன்றத்தில் பிரசன்னமாய் உள்ளனர்.
-
-◼️
-
-[Data](articles/8a011f82.json)
-
----
-
-### ரணிலின் வழக்கு விசாரணை ஆரம்பம்
-
-*2025-08-26 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223404) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மீதான நீதிமன்ற விசாரணை சற்று முன்னர் கொழும்பு கோட்டை நீதவான் நிலுபுலி லங்காபுர முன்னிலையில் ஆரம்பமானது.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கே சாரிபில் ஜனாதிபதி சட்டதரணிகளான திலக் மாரப்பன, அனுஜா பிரேமரத்ன, உப்புல் ஜயசூரிய மற்றும் அலி சப்ரி ஆகியோர் ஆஜராகின்றனர்.
-
-◼️
-
-[Data](articles/0927f387.json)
-
----
-
-### முதலாவது பெண் பதிவாளர் நாயகம் நியமிப்பு
-
-*2025-08-26 13:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/முதலாவது-பெண்-பதிவாளர்-நாயகம்-நியமிப்பு/75-363525) · `ta`
-
-இலங்கை வரலாற்றில் முதலாவது பெண் பதிவாளர் நாயகமாக திருகோணமலையைச் சேர்ந்த இலங்கை நிர்வாக சேவையின் அதி விசேட தரமுடைய சசிதேவி ஜலதீபன் நியமிக்கப்பட்டு திங்கட்கிழமை (25) அன்று தனது கடமைகளை பொறுப்பேற்றுள்ளார்.
-
-...
-
-[Data](articles/c9bfce27.json)
-
----
-
-### Hearing of case against ex-President Ranil underway at Fort Magistrate’s Court
-
-*2025-08-26 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111867/hearing-of-case-against-ex-president-ranil-underway-at-fort-magistrates-court-) · `en`
-
-The hearing of the case filed against former President Ranil Wickremesinghe, who was arrested and remanded over the alleged misuse of state funds, commenced at the Colombo Fort Magistrate”s Court, a short while ago, Ada Derana reporter said.
-
-Meanwhile, former President Ranil Wickremesinghe has not been produced in court for the hearing of the case filed against him under the Public Property Act.
-
-Earlier today, Prisons media spokesperson Jagath Weerasinghe said the former President is unlikely to be produced before court today, due to medical recommendations stating that he must continue to remain under observation in the Intensive Care Unit (ICU).
-
-He further stated that if the Magistrate issues an order for Wickremesinghe to be presented via Zoom for legal proceedings, necessary arrangements can be made accordingly.
-
-...
-
-[Data](articles/0a41d75d.json)
 
 ---

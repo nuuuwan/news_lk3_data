@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 09:36:00**
+As of **2025-08-27 09:51:02**
 
 ## Newspaper Stats
 
-*Scraped **72,584** Articles*
+*Scraped **72,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,124
 adalk | 6,977
 adaderanalk | 9,199
-tamilmirrorlk | 10,755
+tamilmirrorlk | 10,756
 virakesarilk | 11,929
 adaderanasinhalalk | 12,572
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,584 articles have been extended.
+61,973 (85.4%) of 72,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### வண்டியும் ஒரு நாள் ஒடத்தில் ஏறும், ஒடமும் ஒரு நாள் வண்டியில் இறங்கும்
+
+*2025-08-27 09:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வண்டியும்-ஒரு-நாள்-ஒடத்தில்-ஏறும்-ஒடமும்-ஒரு-நாள்-வண்டியில்-இறங்கும்/62-363561) · `ta`
+
+வண்டியும் ஒரு நாள் ஒடத்தில் ஏறும், ஒடமும் ஒரு நாள் வண்டியில் இறங்கும்
+
+◼️
+
+[Data](articles/2147067f.json)
+
+---
 
 ### குளியாப்பிட்டியில் விபத்து ; இரண்டு பாடசாலை சிறுவர்கள் உட்பட மூவர் உயிரிழப்பு
 
@@ -1707,19 +1719,5 @@ The Prime Minister also questioned, “If I did go, where did that information c
 ◼️
 
 [Data](articles/a40b8c07.json)
-
----
-
-### අන්තරේ විරෝධයක් නිසා කොළඹ තවත් පාරක් අවහිර වෙයි
-
-*2025-08-26 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213817) · `si`
-
-අන්තර් විශ්වවිද්‍යාලයීය ශිෂ්‍ය බලමණ්ඩලය විසින් සංවිධානය කළ විරෝධතාවයක් හේතුවෙන් කොළඹ සරසවිය අසල මාර්ගය වසා දැමීමට කටයුතු කර ඇත.
-
-"අධ්‍යාපනවේදී උපාධියේ නිර්ණායක සකසනු!" සහ "අධ්‍යාපනවේදී උපාධිධාරීන් ගුරු සේවයට බඳවාගැනීමේ පටිපාටිය විධිමත් කරනු! යන සටන්පාඨ මුල්කරගනිමින් ඔවුන් මෙම විරෝධතාවය සංවිධානය කර තිබේ.
-
-◼️
-
-[Data](articles/58f19216.json)
 
 ---

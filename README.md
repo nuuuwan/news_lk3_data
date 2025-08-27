@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 20:07:33**
+As of **2025-08-27 20:28:29**
 
 ## Newspaper Stats
 
-*Scraped **72,707** Articles*
+*Scraped **72,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,28 +17,62 @@ islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
 adalk | 6,995
-adaderanalk | 9,225
+adaderanalk | 9,226
 tamilmirrorlk | 10,790
-virakesarilk | 11,945
+virakesarilk | 11,947
 adaderanasinhalalk | 12,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,707 articles have been extended.
+61,973 (85.2%) of 72,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
 
+### பீங்கான் கைத்தொழில் வர்த்தகர்களுடன் 2026 வரவு செலவுத் திட்ட கலந்துரையாடல் : அரசாங்க ஆதரவு உறுதி - ஜனாதிபதி
+
+*2025-08-27 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223536) · `ta`
+
+பீங்கான் கைத்தொழிற் துறையில்  நிலவும் பிரச்சினைகள் குறித்து கருத்துகள் மற்றும் பரிந்துரைகளைப் பெறுவதற்காக உள்ளூர் வர்த்தகர்களுடன் நடைபெற்ற 2026 வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடல் புதன்கிழமை (27) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+ஏற்றுமதி வருவாயை அதிகரிக்கவும் உள்ளூர் வர்த்தகர்களைப் பாதுகாக்கவும் நாட்டில் உற்பத்தித் துறையை வலுப்படுத்துவதற்கான அரசாங்கத்தின் திட்டங்கள் மற்றும் உற்பத்தித் துறையுடன் தொடர்புடைய தற்போதைய பிரச்சினைகள் மற்றும் சவால்கள் குறித்து விரிவாக ஆராயப்பட்டது.
+
+டையில், குளியலறை உதிரிப்பாகங்கள் மற்றும் சுகாதாரப்பாதுகாப்புப் பொருட்கள் உள்ளிட்ட பீங்கான் பொருட்கள் குறித்து இதன் போது  தனித்தனியாக கவனம் செலுத்தப்பட்டது. சந்தையில் தற்போது கிடைக்கும் மேற்படி பொருட்களின்  தரத்தைப் பாதுகாப்பது குறித்தும் கலந்துரையாடல்கள் நடத்தப்பட்டன.
+
+இந்த நாட்டின் நுகர்வோருக்கு தரமான மற்றும் உயர்தர பீங்கான் பொருட்களை நியாயமான விலையில் வழங்க அரசாங்கம் அதிகபட்ச ஆதரவை வழங்கும் என்று ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+...
+
+[Data](articles/f0b900e8.json)
+
+---
+
+### சட்டம் எல்லோருக்கும் சமம் என்றால் தையிட்டி விகாரையில் ஏன் ஜனாதிபதி நிலை நாட்டவில்லை - சபா குகதாஸ் கேள்வி
+
+*2025-08-27 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223535) · `ta`
+
+நாட்டில் சட்டம் எல்லோருக்கும் சமம் எனக் கூறும் ஜனாதிபதி அநுர ஏன் தையிட்டி சட்டவிரோத விகாரை விவகாரத்தில் சட்டம் எல்லோருக்கும் சமம் என்பதை நிலை நாட்டவில்லை அப்படி என்றால் நாட்டில் இரண்டு சட்டமா? வடக்குக்கு ஒரு சட்டம் தெற்கிற்கு பிறிதொரு சட்டமா என வடக்கு மாகாணசபை முன்னாள் உறுப்பினர் சபா குகதாஸ் கேள்வி எழுப்பினார்.
+
+தனியார் காணியில் அத்துமீறி கட்டிய விகாரை விவகாரத்தில் பாதிக்கப்பட்ட காணி உரிமையாளர்கள் சட்டரீதியாக கோரி நிற்கும் விடையத்தை தட்டிக்கழித்து மீண்டும் அந்த மக்களின் காணியில் மேலதிக கட்டங்களை கட்டிக் கொண்டு நாட்டில் எல்லோருக்கும் சட்டம் சமம் என்று கூறுவது ஜனாதிபதியின் பெரும் பித்தலாட்டம்.
+
+தெற்கில் நாட்டில் சட்டம் எல்லோருக்கும் சமம் என்று பேசிக் கொண்டு வடக்கில் சட்டத்தை அரச திணைக்களம் மற்றும் இராணுவ முகாம்கங்கள் போன்ற வற்றின் செயற்பாடுகள் மூலம் வடக்கு மக்களின் அடிப்படை உரிமைகளை தடுப்பது எந்தவகையில் சட்டம் எல்லோருக்கும்  சமம் என்பதை உறுதி செய்கிறது ஆகவே ஜனாதிபதி கடந்த கால ஆட்சியாளர்கள் போன்ற சாத்தான் வேதம் ஓதுகின்றார் என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d94cf660.json)
+
+---
+
 ### දුම්රිය ස්ථානාධිපති ධුරය කාන්තාවන්ටත් ඉල්ලා යොමුකළ පෙත්සමට අධිකරණයේ තීරණය
 
 *2025-08-27 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213863) · `si`
 
-ශ්‍රී ලංකා දුම්රිය සේවය සඳහා ස්ථානාධිපතිවරු බඳවා ගැනීමේ දී ඊට පිරිමි පුද්ගලයින්ට පමණක් අයදුම් කළ හැකි බව දන්වමින් නිකුත් කර තිබෙන ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා අමාත්‍ය මණ්ඩලවෙත යොමුකර තිබෙන බව නීතිපතිවරයා අද (27) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+ශ්‍රී ලංකා දුම්රිය සේවය සඳහා ස්ථානාධිපතිවරු බඳවා ගැනීමේ දී ඊට පිරිමි පුද්ගලයින්ට පමණක් අයදුම් කළ හැකි බව දන්වමින් නිකුත් කර තිබෙන ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා අමාත්‍ය මණ්ඩලය වෙත යොමුකර තිබෙන බව නීතිපතිවරයා අද (27) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
 
-අදාළ තීරණය අභියෝගයට ලක් කරමින් අයේෂානි ජයවර්ධන සහ සුරේෂ් විදුෂා යන කාන්තාවන් දෙදෙනෙකු විසින් ඉදිරිපත් කළ  මූලික අයිතිවාසිකම් පෙත්සමක් ප්‍රීති පද්මන් සූරසේන, කුමුදුනී වික්‍රමසිංහ සහ සම්පත් විජේරත්න යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධික විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී ජ්‍යෙෂ්ඨ රජයේ නීතිඥවරිය විසින් මෙම දැනුම්දීම සිදු කරනු ලැබීය.
+අදාළ තීරණය අභියෝගයට ලක් කරමින් අයේෂානි ජයවර්ධන සහ සුරේෂ් විදුෂා යන කාන්තාවන් දෙදෙනෙකු විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ප්‍රීති පද්මන් සූරසේන, කුමුදුනී වික්‍රමසිංහ සහ සම්පත් විජේරත්න යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී ජ්‍යෙෂ්ඨ රජයේ නීතිඥවරිය විසින් මෙම දැනුම්දීම සිදුකරනු ලැබීය.
 
 නීතිපතිවරයා වෙනුවෙන් සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ නයනතාරා බාලපටබැඳි මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් අදාළ ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා එය අමාත්‍ය මණ්ඩලය වෙත යොමු කර ඇති බව සඳහන් කළේය.
 
@@ -63,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6338b3b1.json)
+
+---
+
+### Europeans likely to initiate UN sanctions process on Iran on Thursday, sources say
+
+*2025-08-27 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111920/europeans-likely-to-initiate-un-sanctions-process-on-iran-on-thursday-sources-say) · `en`
+
+Britain, France and Germany are likely to begin the process of reimposing U.N. sanctions on Iran on Thursday, but hope Tehran will provide commitments over its nuclear programme within 30 days that will convince them to defer concrete action, four diplomats said.
+
+The trio, known as the E3, met Iran on Tuesday to try to revive diplomacy over the nuclear programme before they lose the ability in mid-October to restore sanctions on Tehran that were lifted under a 2015 nuclear accord with world powers.
+
+Three European diplomats and a Western diplomat said Tuesday’s talks did not yield sufficiently tangible commitments from Iran, although they believed there was scope for further diplomacy in the coming weeks.
+
+They said the E3 had decided to start triggering the so-called snapback of U.N. sanctions, possibly as early as Thursday, over accusations that Iran has violated the 2015 deal with world powers that aimed to prevent Tehran from developing a nuclear weapon.
+
+...
+
+[Data](articles/d990008b.json)
 
 ---
 
@@ -1366,7 +1418,7 @@ Subsequently, the case was scheduled to be taken up again on September 3.
 
 மொனராகலை, கோணக்கங்ஹார பொலிஸ் பிரிவுக்கு உட்பட்ட   ஜயமஹா பிரதேசத்தில் வசிக்கும் சிறுமியே இவ்வாறு கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்தப்பட்டுள்ளார்.
 
-சிறுமியை கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்துவதற்கு உறுதியாக இருந்து ஆதரவு வழங்கியது மற்றும் குற்றத்தை மறைத்தமை ஆகிய குற்றச்சாட்டின் கீழ், அந்த சிறுமியின் பாட்டியை (வயது 81) கோணக்கங்ஹார பொலிஸார், செவ்வாய்க்கிழமை (26) கைது செய்தனர்.
+சிறுமியை கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்துவதற்கு உறுதுணையாக இருந்து ஆதரவு வழங்கியது மற்றும் குற்றத்தை மறைத்தமை ஆகிய குற்றச்சாட்டின் கீழ், அந்த சிறுமியின் பாட்டியை (வயது 81) கோணக்கங்ஹார பொலிஸார், செவ்வாய்க்கிழமை (26) கைது செய்தனர்.
 
 சிறுமியின் தாய் வெளிநாட்டுக்கு பணிப்பெண்ணாக சென்றுள்ளார். அந்த சிறுமி, தனது தாயின் இரண்டாவது கணவர் மற்றும் பாட்டியுடன் வாழ்ந்து வருகிறார்.
 
@@ -1743,51 +1795,5 @@ Additionally, 13 other students who were injured in the accident have been admit
 ◼️
 
 [Data](articles/a2ee23c5.json)
-
----
-
-### Another suspect arrested over Kahawatta shooting incident
-
-*2025-08-27 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111894/another-suspect-arrested-over-kahawatta-shooting-incident) · `en`
-
-Another suspect in connection with the Kahawatta shooting incident has been arrested by the Ratnapura Divisional Crime Investigation Bureau, police stated.
-
-The suspect who allegedly aided the shooting death of a person in the Yainna area in Kahawatta on June 30 was arrested in Pelwadiya yesterday (27).
-
-Meanwhile, two suspects involved in an attempted shooting death have been arrested in Delgahawatta.
-
-The duo was apprehended after an investigation was launched over an attempt to shoot a person at a residence along the Railway Station Road in Dehiwala on July 18 by two unidentified persons who arrived on a motorcycle.
-
-Accordingly, based on information received, a suspect was arrested last morning in Boralesgamuwa with 12 grams and 20 milligrams of the drug ICE, while a female suspect who abetted the crime was also arrested in Halpita, Delgahawatta by the Western Province South Crime Division.
-
-...
-
-[Data](articles/64c875e6.json)
-
----
-
-### Government must share plan for national reconciliation with the people
-
-*2025-08-27 10:57:09* · [`dailyftlk`](https://www.ft.lk/opinion/Government-must-share-plan-for-national-reconciliation-with-the-people/14-780853) · `en`
-
-By The National Peace Council As Sri Lanka prepares to appear before the United Nations Human Rights Council in Geneva this September under Resolution 51/2, the Government will need to show more than promises. The UN Human Rights High Commissioner’s 2025 report recognises that the new Government has both a historic opportunity and a clear mandate to deliver results. The continuation of arbitrary arrests under the Prevention of Terrorism Act, custodial deaths, intimidation of civil society and the discovery of mass graves such as at Chemmani the UN report highlights shows the urgency of action.
-
-...
-
-[Data](articles/94ee36bc.json)
-
----
-
-### සිමෙන්ති ලොරියේ ගැටුණ වන අලියාට බරපතලයි
-
-*2025-08-27 10:55:29* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-ලොරියේ-ගැටුණ-වන-අලියාට-බරපතලයි/11-418096) · `si`
-
-කොළඹ ත්‍රිකුණාමලය ප්‍රධාන මාර්ගයේ  හිරිවඩුන්න ප්‍රදේශයේදී අද අලුයම 03.ට පමන ත්‍රිකුණාමලයේ සිට කොළඹ දෙසට  සිමෙන්ති ප්‍රවාහනය කරමින් තිබූ බර වාහනයකට  සීගිරිය වනජීවී රක්ෂිත කලාපය නිජ භූමිය කරගෙන සැරිසරූ වයස අවුරුදු  10 ක පමන  අලි පැටියකු ගැටීමෙන් එම වන අලියා බරපතල තුවාල ලබා ප්‍රධාන මාර්ගය ආසන්නේ වැටී සිටි.
-
-මෙම වන අලියාට අවශ්‍ය ප්‍රතිකාර කිරීමට සීගිරිය වනජීවී කාර්යාලය මගින් ගිරිතලේ  වන ජීවී පශු වෛද්‍ය ඒකකයට දැනුම් දී ඇති අතර කඩිනමින්  ප්‍රතිකාර  කිරිම ආරම්භ කිරිමට නියමිතයි.
-
-◼️
-
-[Data](articles/1a839c65.json)
 
 ---

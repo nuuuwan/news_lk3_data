@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 04:19:33**
+As of **2025-08-28 04:32:16**
 
 ## Newspaper Stats
 
-*Scraped **72,757** Articles*
+*Scraped **72,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 745
 economynextcom | 4,440
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,140
+dailyftlk | 5,148
 adalk | 6,998
 adaderanalk | 9,230
 tamilmirrorlk | 10,793
@@ -26,11 +26,157 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,757 articles have been extended.
+61,973 (85.2%) of 72,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### Foreign Minister draws line between personal and official travel in Wickremesinghe probe
+
+*2025-08-28 04:18:41* · [`dailyftlk`](https://www.ft.lk/business/Foreign-Minister-draws-line-between-personal-and-official-travel-in-Wickremesinghe-probe/34-780905) · `en`
+
+Foreign Minister Vijitha Herath notes State-sector circulars allow internal travel, but private international trips financed by public funds constitute misuseOpines case marks visible shift towards accountability for political elites Says Govt. welcomes Opposition realignments, highlighting law enforcement now applies regardless of political status
+
+Foreign Minister Vijitha Herath yesterday clarified that using public resources for private overseas travel cannot be equated with domestic personal travel, amid scrutiny of former President Ranil Wickremesinghe’s UK trip.
+
+Speaking at the post-Cabinet meeting media briefing, he pointed out that while State-sector circulars allow certain internal uses of official vehicles, financing a private overseas trip remains a misuse of public funds.
+
+“Attending a funeral or travelling within Sri Lanka is not comparable to booking seats on an international flight. That is wrong,” he said.
+
+...
+
+[Data](articles/98fc2e96.json)
+
+---
+
+### President tells exporters pay taxes for support
+
+*2025-08-28 04:16:28* · [`dailyftlk`](https://www.ft.lk/business/President-tells-exporters-pay-taxes-for-support/34-780904) · `en`
+
+AKD meets tea, coconut, rubber exporters for pre-Budget 2026 discussion
+
+Says Govt. reviving economy without artificial controls by encouraging production
+
+President Anura Kumara Disanayake told a group of exporters this week that the Government would provide them with facilities and support, but stressed they must pay fair taxes in return, according to a statement from the President’s Media Division (PMD) yesterday.
+
+He made the remarks during a pre-Budget 2026 discussion with plantation sector entrepreneurs held at the Presidential Secretariat on Tuesday. The meeting focused on strengthening dollar reserves through export earnings, the PMD said.
+
+...
+
+[Data](articles/447a86ea.json)
+
+---
+
+### Govt. awards six-month petrol supply deal to Aditya Birla Global Trading
+
+*2025-08-28 04:15:52* · [`dailyftlk`](https://www.ft.lk/business/Govt-awards-six-month-petrol-supply-deal-to-Aditya-Birla-Global-Trading/34-780903) · `en`
+
+The Government yesterday announced that the Cabinet of Ministers had approved awarding a six-month contract to Aditya Birla Global Trading (Singapore) Ltd., for the supply of petrol to Sri Lanka for six months.
+
+The contract covers the delivery of 1.5 million (+/-5%) barrels of 92 Octane Unleaded Petrol over a six-month period from 15 September 2025 to 14 March 2026.
+
+“Supply will be made in five shipments of 300,000 (+/-5%) barrels each,” Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
+
+The Ceylon Petroleum Corporation (CPC) had earlier called for quotations from its registered suppliers, receiving bids from eight international suppliers. Following an evaluation process, the Special Standing Procurement Committee appointed by the Cabinet recommended awarding the contract to Aditya Birla Global Trading.
+
+The proposal to this effect was submitted by Energy Minister Eng. Kumara Jayakody.
+
+◼️
+
+[Data](articles/b307ea0c.json)
+
+---
+
+### New Mediation Bill gets committee-level nod
+
+*2025-08-28 04:15:31* · [`dailyftlk`](https://www.ft.lk/business/New-Mediation-Bill-gets-committee-level-nod/34-780902) · `en`
+
+Parliament Secretariat says new Bill to repeal Commercial Mediation Centre Act, No. 44 of 2000
+
+Improved protections and enforcement and minimum standards for resolving civil and commercial disputes
+
+To ease pressure on legal system and reduce costs of litigation
+
+Dispute resolution slow and costly, biggest pain point in attracting investment
+
+The Parliament Secretariat yesterday said a Parliamentary oversight committee had approved a new Bill to enforce mediated settlements, provide greater protection for participants, and set minimum standards for resolving civil and commercial disputes that would ease pressure on the legal system.
+
+The Sectoral Oversight Committee on Governance, Justice and Civil Protection, chaired by ruling party National People’s Power (NPP) MP lawmaker Dr. Najith Indika, approved the Mediation (Civil and Commercial Disputes) Bill at a session held recently in Parliament, the Secretariat said in a statement.
+
+...
+
+[Data](articles/1ff68f37.json)
+
+---
+
+### Govt. assures  continuity of Pekoe Trail despite Founder’s exit
+
+*2025-08-28 04:14:52* · [`dailyftlk`](https://www.ft.lk/business/Govt-assures-continuity-of-Pekoe-Trail-despite-Founder-s-exit/34-780901) · `en`
+
+Tourism Minister Vijitha Herath yesterday reaffirmed that the Government remains fully committed to the continuation of the Pekoe Trail project, despite the exit of its Founder Miguel Cunat.
+
+Responding to questions raised at the post-Cabinet meeting media briefing, Herath stressed that the project is not dependent on any individual. “The Pekoe Trail will continue irrespective of personal resignations. The Government is committed to ensuring its success,” he said.
+
+Cunat, a sustainable tourism pioneer and long-time resident of Sri Lanka, dedicated more than a decade to exploring and mapping Sri Lanka’s central highlands in order to create the country’s first long-distance hiking route. His work was supported by a three-year program funded by the EU and United States Agency for International Development (USAID), aimed at promoting sustainable and community-based tourism.
+
+...
+
+[Data](articles/13f84a7b.json)
+
+---
+
+### Pradeep Kahawalage elected to chair CNCI
+
+*2025-08-28 04:14:12* · [`dailyftlk`](https://www.ft.lk/business/Pradeep-Kahawalage-elected-to-chair-CNCI/34-780900) · `en`
+
+Newly elected Chairman Pradeep Kahawalage being garlanded by outgoing Chairman Kevin Edwards
+
+Pradeep Kahawalage was elected as the Chairman of the Ceylon National Chamber of Industries (CNCI) at the 64th Annual General Meeting (AGM). The AGM was held on 26 August at the Hotel Taj Samudra, Colombo.
+
+...
+
+[Data](articles/990a22b0.json)
+
+---
+
+### Govt. reaffirms sovereignty over Kachchatheevu amid Indian election rhetoric
+
+*2025-08-28 04:09:14* · [`dailyftlk`](https://www.ft.lk/news/Govt-reaffirms-sovereignty-over-Kachchatheevu-amid-Indian-election-rhetoric/56-780899) · `en`
+
+Foreign Affairs Minister Vijitha Herath says no change in ownership indicated by Indian Govt. or through diplomatic channels
+
+Stresses similar claims surface during Indian elections, but never lead to policy change
+
+Confirms agreements signed with Indian PM Narendra Modi under judicial review
+
+Notes online petition pending; says documents will be available once legal process concludes
+
+Foreign Affairs Minister Vijitha Herath yesterday reiterated that Kachchatheevu Island remains undisputedly Sri Lankan territory, stressing that there has been no change in ownership indicated either by the Government of India or through diplomatic channels.
+
+He made the remarks at the post-Cabinet meeting media briefing in Colombo, responding to questions over recent statements by Tamilaga Vettri Kazhagam (TVK) Leader and Kollywood actor Vijay, who raised the Kachchatheevu issue during a political rally in Tamil Nadu.
+
+...
+
+[Data](articles/087c00e2.json)
+
+---
+
+### President says Defence Hospital must ramp-up public healthcare services
+
+*2025-08-28 04:06:43* · [`dailyftlk`](https://www.ft.lk/news/President-says-Defence-Hospital-must-ramp-up-public-healthcare-services/56-780898) · `en`
+
+President Anura Kumara Disanayake on Tuesday said the Government bore significant expenses to maintain the Sir John Kotelawala Defence University Hospital and instructed officials to streamline and deliver healthcare to the public in a “more efficient and effective manner.” The President’s Media Division said Disanayake made these comments while chairing a Defence Ministry Pre-Budget 2026 discussion.
+
+He emphasised that Sri Lanka’s defence forces must be developed into one of the most professional forces in the world, instructing officials to ensure that the necessary Budgetary allocations were properly channelled to provide the required training and facilities.
+
+The progress of projects implemented under the Budgetary provisions allocated to the Defence Ministry in 2025 was reviewed at the discussion, and programs currently being carried out for the Sri Lanka Army, Air Force, Navy, the Civil Security Department, and cadet officers were also examined.
+
+...
+
+[Data](articles/45dafd0c.json)
+
+---
 
 ### NMSJ questions due process, raises concerns about Wickremesinghe arrest
 
@@ -1575,145 +1721,5 @@ He added that although there were previous claims suggesting that the law was no
 ...
 
 [Data](articles/2ac54873.json)
-
----
-
-### Ex-Navy Commander Nishantha Ulugetenne further remanded
-
-*2025-08-27 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/111910/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
-
-Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded, said Ada Derana reporter.
-
-He has been remanded until September 13 by the Polgahawela Magistrate’s Court.
-
-The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
-
-◼️
-
-[Data](articles/6733b226.json)
-
----
-
-### නිශාන්ත උළුගෙතැන්න තවදුරටත් රිමාන්ඩ්
-
-*2025-08-27 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213853) · `si`
-
-අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකර සිටින හිටපු නාවික හමුදාපති නිශාන්ත උළුගෙතැන්න මහතා සැප්තැම්බර් මස 10වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගතකර ඇත.
-
-හිටපු නාවික හමුදාපතිවරයා අද (27) පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණය ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී තිබේ.
-
-නිශාන්ත උළුගෙතැන්න මහතා නාවික හමුදා බුද්ධි අධ්‍යක්ෂකවරයා ලෙස කටයුතු කළ සමයේ පොතුහැර ප්‍රදේශයේ සිදුව ඇති පුද්ගල පැහැරගැනීමක් සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව පසුගිය මස 28වනදා අත්අඩංගුවට ගනු ලැබීය.
-
-◼️
-
-[Data](articles/0dfd8ff6.json)
-
----
-
-### தம்புள்ளையில் 05 வாகனங்கள் மோதி விபத்து ;  ஒருவர் காயம்
-
-*2025-08-27 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223499) · `ta`
-
-கொழும்பு - திருகோணமலை பிரதான வீதியில் தம்புள்ளை, போஹோரன் வெவ பகுதியில் ஐந்து வாகனங்கள் மோதி கொண்டதில் விபத்து ஏற்பட்டுள்ளது.
-
-கொழும்பிலிருந்து தம்புள்ளை நோக்கிச் சென்ற மூன்று வாகனங்கள் எதிர் திசையில் சென்ற லொறி மற்றும் கார் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
-
-◼️
-
-[Data](articles/3379adef.json)
-
----
-
-### Special awareness program to be conducted to address mental health problems among youth
-
-*2025-08-27 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111909/special-awareness-program-to-be-conducted-to-address-mental-health-problems-among-youth) · `en`
-
-A proposal to implement a medium-term project with the objective of educating school children and youth to address mental health problems has been approved by the Cabinet of Ministers.
-
-This has been proposed considering the suicide rate among Sri Lankans, the increase in drug addiction, and the emergence of psychosocial problems, especially among adolescents and young adults, according to the Department of Government Information.
-
-Through the 2025 budget, a provision of Rs. 250 million was also allocated to implement a special program to address mental health problems.
-
-Under this, the Ministry of Health and Mass Media has proposed to implement a medium-term program.
-
-...
-
-[Data](articles/04fbfb51.json)
-
----
-
-### ரணிலுக்கு பிணை: எட்டுபேர் வெளியேறினர்
-
-*2025-08-27 14:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-பிணை-எட்டுபேர்-வெளியேறினர்/175-363590) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பாதுகாப்பு வழங்க நியமிக்கப்பட்ட சிறைச்சாலை அதிகாரிகள் எட்டுபேர்,  கொழும்பு தேசிய மருத்துவமனையில் இருந்து, செவ்வாய்க்கிழமை (26) வெளியேறியதாக கூறப்படுகிறது.
-
-ரணில் விக்கிரமசிங்கவுக்கு, ​கோட்டை நீதவான் நீதிமன்றத்தால் சரீரப்பிணை வழங்கிய பின்னர் அவர்கள் வெளியேறியுள்ளனர்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை, கொழும்பு கோட்டை நீதவான் திருமதி நுலுபுலி லங்காபுர தலா ஐந்து லட்சம் ரூபாய் மதிப்புள்ள மூன்று சரீரப்பிணைகளில் விடுவித்தார்.
-
-விளக்கமறியல் உத்தரவுக்குப் பின்னர், வெலிக்கடை சிறைச்சாலைக்கு அழைத்துச் செல்லப்பட்டு, சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர்,  கொழும்பு தேசிய மருத்துவமனைக்கு மாற்றப்பட்ட ரணில் விக்கிரமசிங்க, இன்னும் அங்கேயே சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/2a3aea12.json)
-
----
-
-### රනිල් ගැන ජාත්‍යන්තරයේ මතය විජිත කැබිනට් හමුවේදී රටට කියයි
-
-*2025-08-27 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213852) · `si`
-
-කිසිදු රාජ්‍ය තාන්ත්‍රිකයෙකු හෝ  රාජ්‍ය තාන්ත්‍රික සංවිධානයක් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් විරෝධයක් දක්වා නොමැති බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
-
-අද (27) පැවැති කැබිනට් මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය විජිත හේරත් මහතා මේ බව පැවසීය.
-
-විවිධ පුද්ගලයින් විවිධ ප්‍රකාශ සිදුකර ඇති බවද සඳහන් කළ අමාත්‍යවරයා ඒවා සැලකියයුතු කාරණා නොවන බවද සඳහන් කළේය.
-
-මෙරට තුළ නීතිය එකහා සමානව ක්‍රියාත්මක වෙන බවට ජාත්‍යන්තරය මේ වනවිට නිරීක්ෂණය කරමින් සිටින බවද අමාත්‍යවරයා පැවසීය.
-
-පසුගිය කාලසීමාවේදී ශ්‍රී ලංකාව තුළ නීතිය නිසිපරිදි ක්‍රියාත්මක නොවන බවට ප්‍රකාශ කළද වර්තමානයේ එවැනි තත්ත්වයක් දක්නට නොලැබෙන බවද ඔහු සඳහන් කළේය.
-
-◼️
-
-[Data](articles/57a9aa47.json)
-
----
-
-### ஜனாதிபதி, பிரதமர் , அமைச்சரவைக்கு நோட்டீஸ்
-
-*2025-08-27 14:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிரதமர்-அமைச்சரவைக்கு-நோட்டீஸ்/175-363589) · `ta`
-
-இலங்கை குடிமக்களுக்கு டிஜிட்டல் அடையாள அட்டைகளை வழங்கும் திட்டத்தை செயல்படுத்துவதற்காக இந்தியாவுடன் இலங்கை அரசு கையெழுத்திட்ட புரிந்துணர்வு ஒப்பந்தத்தை (MoU) ரத்து செய்ய உத்தரவிடக் கோரி முன்னாள் அமைச்சர் விமல் வீரவன்ச உள்ளிட்டோர் தாக்கல் செய்த இரண்டு மனுக்களை அக்டோபர் 17 ஆம் திகதி விசாரிக்க உயர் நீதிமன்றம் , புதன்கிழமை (27) உத்தரவிட்டது.
-
-பிரதம நீதியரசர் பிரீத்தி பத்மன் சூரசேன மற்றும் உயர் நீதிமன்ற நீதியரசர்கள் குமுதுனி விக்ரமசிங்க மற்றும் சம்பத் விஜேரத்ன ஆகியோர் அடங்கிய உயர் நீதிமன்ற அமர்வு இந்த மனுக்களை பரிசீலித்தது.
-
-சட்டமா அதிபர் சார்பில் ஆஜரான சொலிசிட்டர் ஜெனரல் விராஜ் தயாரத்ன, மனுவில் பிரதிவாதிகளாகப் பெயரிடப்பட்டுள்ள அமைச்சரவை உறுப்பினர்கள் உட்பட பிரதிவாதிகளுக்கு எந்த நோட்டீஸும் கிடைக்கவில்லை என்று நீதிமன்றத்தின் கவனத்தக்கு கொண்டுவந்தார்.
-
-மனுதாரர் சார்பில் ஆஜரான வழக்கறிஞர் கனிஷ்க விதாரண, வழக்கை பரிசீலிப்பதற்கான விரைவான திகதியைக் கோரினார்.
-
-மனுவை ஒக்டோபர் 17 ஆம் திகதி பரிசீலனைக்கு அழைக்குமாறு நீதியர​சர்கள் அமர்வு உத்தரவிட்டது.
-
-...
-
-[Data](articles/61a7cef3.json)
-
----
-
-### “வெலிக்கடை சிறை காணி ரணிலுடையது”
-
-*2025-08-27 14:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிக்கடை-சிறை-காணி-ரணிலுடையது/175-363587) · `ta`
-
-விளக்கமறியலில் உத்தரவு பிறப்பிக்கப்பட்டதன் பின்னர், ரணில் விக்கிரமசிங்கவை அழைத்துச் சென்ற வெலிக்கடை சிறைச்சாலை அமைந்திருக்கும் காணியின் அசல் உரிமையாளர்கள், ரணில் விக்கிரமசிங்கவும் அவரது குடும்பத்தினரும் ஆவர் என ஐக்கிய தேசியக் கட்சியின் தவிசாளர் வஜிர அபேவர்தன, ஊடகங்களுக்கு இன்று (27) தெரிவித்தார்.
-
-அந்த உண்மையை நிரூபிக்கும் ஆவணங்கள் தன்னிடம் இருப்பதாக வஜிர அபேவர்தன கூறினார், மேலும் தொடர்புடைய உண்மையை உறுதிப்படுத்தும் ஆவணங்களை ஊடகங்களுக்கும் வழங்கினார்.
-
-“ரணில் விக்கிரமசிங்க கைது செய்யப்பட்ட பிறகு, அவர் தனது குடும்பத்திற்குச் சொந்தமான அதாவது அவரது பாட்டிக்குச் சொந்தமான 43 ஏக்கரை கொண்ட வெலிக்கடை நிலத்திற்கு அழைத்துச் செல்லப்பட்டார், இந்த நிலத்தின் அசல் உரிமையாளர்கள் ரணில் விக்கிரமசிங்க மற்றும் அவரது குடும்பத்தினர் ஆவார். அதுவும் ஒரு துரதிர்ஷ்டவசமான சம்பவமாகும்” என்றார்.
-
-"வெலிக்கடை சிறைச்சாலை அமைந்துள்ள நிலத்தின் அனைத்து நிலப் பதிவுகளும் என்னிடம் உள்ளன. அத்தகைய தலைமுறையைச் சேர்ந்த ஒருவர் இதை எதிர்கொள்ள வேண்டியது மிகவும் சோகமான நடத்தை என்று சொல்ல வேண்டும்," என்றும் அபேவர்தன கூறினார்.
-
-◼️
-
-[Data](articles/d17e65ad.json)
 
 ---

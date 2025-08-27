@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 03:50:37**
+As of **2025-08-28 04:07:30**
 
 ## Newspaper Stats
 
-*Scraped **72,745** Articles*
+*Scraped **72,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 745
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,135
+dailyftlk | 5,137
 adalk | 6,998
 adaderanalk | 9,230
-tamilmirrorlk | 10,791
+tamilmirrorlk | 10,793
 virakesarilk | 11,958
 adaderanasinhalalk | 12,600
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,745 articles have been extended.
+61,973 (85.2%) of 72,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### அமெரிக்க பாடசாலையில் துப்பாக்கிச் சூடு
+
+*2025-08-28 03:45:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-பாடசாலையில்-துப்பாக்கிச்-சூடு/50-363628) · `ta`
+
+அமெரிக்காவின் மினியாபோலிஸ் நகரில் உள்ள ஒரு பாடசாலையில் நடந்த துப்பாக்கிச் சூடு சம்பவத்தில் 2 குழந்தைகள் உட்பட மூன்று பேர் உயிரிழந்தனர். 17 பேர் காயமடைந்துள்ளனர்.
+
+மினசோட்டா மாகாணத்தில் உள்ள மினியாபோலிஸ் நகரில் இயங்கி வரும் ஒரு கத்தாலிக்க பள்ளியில் இந்த துப்பாக்கிச் சூடு நடைபெற்றது.
+
+395 குழந்தைகள் படிக்கும் இந்த பாடசாலையில் நுழைந்த மர்ம நபர் ஒருவர், பாடசாலையில் உள்ள தேவாலயத்தில் குழந்தைகள் பிரார்த்தனையில் ஈடுபட்டுக் கொண்டிருந்தபோது ஜன்னல் வெளியாக திடீரென குழந்தைகளை நோக்கி சரமாரியாக சுடத் தொடங்கியுள்ளார்.
+
+ரைபிள், ஷாட்கன், பிஸ்டல் உள்ளிட்ட துப்பாக்கி ரகங்களை கொண்டு அவர் இந்த தாக்குதலை நடத்தினார் என அதிகாரிகள் தெரிவிக்கின்றனர். இந்த துப்பாக்கிச் சூட்டில் 8 மற்றும் 9 வயதுடைய இரண்டு குழந்தைகள் பரிதாபமாக உயிரிழந்தனர். 17 குழந்தைகள் படுகாயங்களுடன் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர். இதில் 7 குழந்தைகள் ஆபத்தான நிலையில் இருக்கின்றனர் என அதிகாரிகள் கூறுகின்றனர். இந்த தாக்குதலை நடத்திய நபரும் துப்பாக்கியால் தன்னைத் தானே சுட்டு தற்கொலை செய்து கொண்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/13430dfd.json)
+
+---
+
+### Sysco LABS Sri Lanka appoints  Thushera Kawdawatta as Managing Director
+
+*2025-08-28 03:40:00* · [`dailyftlk`](https://www.ft.lk/business/Sysco-LABS-Sri-Lanka-appoints-Thushera-Kawdawatta-as-Managing-Director/34-780886) · `en`
+
+Sysco LABS Sri Lanka, the largest Global Innovation Center (GIC) of the world leader in food service, said it has appointed Thushera Kawdawatta as Managing Director.
+
+Commenting on the appointment, Sysco Executive Vice President and Chief Information and Digital Officer Tom Peck said: “We are proud to welcome Thushera to lead Sysco LABS Sri Lanka into its next phase of growth. Thushera’s forward-looking approach to business and technology, and responsible AI adoption, aligns perfectly with our ambitions. Sysco LABS’ depth of expertise and engagement are integral to our global success, and this appointment underscores our continued commitment to Sri Lanka.”
+
+...
+
+[Data](articles/1bea1c78.json)
+
+---
+
+### AgStar appoints two Non-Executive Directors
+
+*2025-08-28 03:38:43* · [`dailyftlk`](https://www.ft.lk/business/AgStar-appoints-two-Non-Executive-Directors/34-780885) · `en`
+
+AgStar PLC yesterday said it has appointed Sanjaya Nissanka and Shamal Abeysinghe as non-executive directors to its board.
+
+Nissanka has over two decades of experience in the agricultural machinery and crop solutions sector. He is Cluster Chief Operating Officer for Agri and Heavy Equipment at Brown & Company PLC and Chief Executive Officer of Browns Agri Solutions Ltd.
+
+He has overseen the introduction of brands such as Yanmar, Sumo World, TAFE Power, Himoinsa, Hyundai, Shakthiman and Fieldking to Sri Lanka. He is Vice President of the Agricultural Machinery Manufacturers and Suppliers Association of Sri Lanka. He holds an MBA in International Marketing from Anglia Ruskin University in the UK, a Diploma in Agriculture from the School of Agriculture, Dambulla, and other professional certifications in marketing.
+
+...
+
+[Data](articles/02a553d1.json)
+
+---
+
+### செம்மணியில் மேலும்3 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-08-28 03:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-மேலும்3-எலும்புக்கூடுகள்-அடையாளம்/175-363627) · `ta`
+
+நேற்று முன்தினம் புதிதாக 16 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளப்படுத்தப்பட்டிருந்த நிலையில் நேற்று மேலும் 3 எலும்புக்கூட்டுத்  தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+அதேவேளை, நேற்றுமுன்தினம் அடையாளம் காணப்பட்ட எலும்புக்கூட்டுத் தொகுதிகளில் 8 எலும்புக்கூடுகள் நேற்று முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
+
+கட்டம் கட்டமாக இதுவரையில் 43 நாட்கள் முன்னெடுக்கப்பட்ட அகழ்வுப்  பணிகளின் போது, மொத்தமாக 169 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 158 எலும்புக்கூட்டுத்  தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/8e42d319.json)
+
+---
 
 ### Gem Sri Lanka 2026: Ultimate sourcing mission
 
@@ -1657,75 +1721,5 @@ The Southern Expressway runs from Colombo to Hambantota. The stretch  being repa
 ◼️
 
 [Data](articles/81ff9ec1.json)
-
----
-
-### වාහන 5ක් එකපෙළට ගැටෙයි
-
-*2025-08-27 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213848) · `si`
-
-කොළඹ - ත්‍රිකුණාමල ප්‍රධාන මාර්ගයේ දඹුල්ල, පොහොරන් වැව ප්‍රදේශයේ රථ වාහන පහක් එකිනෙක ගැටී අනතුරක් සිදුව තිබේ.
-
-අනතුරෙන් එක් අයෙකු තුවාල ලබා ඇති අතර, එම අවස්ථාවේ CCTV දර්ශන පෙළක් ද අද දෙරණට ලැබී ඇත.
-
-කොළඹ සිට දඹුල්ල දෙසට ධාවනය වූ වාහන තුනක් හා දඹුල්ල සිට කොළඹ දෙසට ධාවනය වු ලොරියක් හා කාර් රථයක් එකිනෙක ගැටීමෙන් අනතුර සිදුව තිබුණි.
-
-◼️
-
-[Data](articles/e45d7578.json)
-
----
-
-### Govt to award contract to local company to renovate section of Southern Expressway
-
-*2025-08-27 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/111906/govt-to-award-contract-to-local-company-to-renovate-section-of-southern-expressway) · `en`
-
-The Cabinet of Ministers has granted approval to award the contract to a local company for the renovation of the section of the Southern Expressway between Kottawa and Dodangoda, covering 15 kilometers.
-
-The decision has been taken after extensive surface cracks and degradation of internal structural layers were observed in this stretch of the expressway.
-
-Therefore, it has been identified that the area should be renovated, the degraded base repaired, and a surface overlay applied, Minister Vijitha Herath said.
-
-For this purpose, bids were invited from qualified local institutions under the National Competitive Procurement procedure.
-
-Accordingly, after evaluating the received bids, the High-Level Standing Procurement Committee recommended awarding the contract to the lowest responsive bidder.
-
-The Cabinet of Ministers has therefore approved the proposal presented by the Minister of Transport, Highways, Ports, and Civil Aviation to award the contract to the said company.
-
-◼️
-
-[Data](articles/65a9445e.json)
-
----
-
-### ඩිජිටල් IDයට අදාළ ඉන්දීය ගිවිසුම බලරහිත කරන්නැයි ඉල්ලු පෙත්සම සලකා බලන්න දිනදෙයි
-
-*2025-08-27 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213847) · `si`
-
-මෙරට පුරවැසියන් සඳහා ඩිජිටල් හැඳුනුම්පත් නිකුත් කිරීමේ  ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම සඳහා ශ්‍රී ලංකා රජය ඉන්දියාව සමග ඇතිකරගෙන තිබෙන අවබෝධතා ගිවිසුම බලරහිත කිරීමේ තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා හිටපු අමාත්‍ය විමල් වීරවංශ මහතා ඇතුළු පාර්ශ්ව විසින් ඉදිරිපත් කර තිබෙන පෙත්සම් දෙකක් සලකා බැලීම සඳහා ඔක්තෝබර් මස 17 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (27) නියම කළේය.
-
-මෙම පෙත්සම් අද අගවිනිසුරු  ප්‍රීති පද්මන් සූරසේන, කුමුදුනි වික්‍රමසිංහ සහ සම්පත් විජේරත්න යන මහත්වරුන්ගෙන් සමන්විත පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විණිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි සොලිසිටර් ජෙනරාල් ජනරාල් විරාජ් දයාරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින්  මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම් කර සිටින අමාත්‍ය මණ්ඩල සාමාජිකයින් ඇතුළු වගඋත්තරකරුවන්ට නොතීසි ලැබී නොමැති බව සඳහන් කළේය.
-
-පෙත්සම්කාර පාර්ශ්වයක් වෙනුවෙන් පෙනී සිටි නීතිඥ කණිෂ්ක විතාරණ මහතා සඳහන් කළේ, මෙම නඩුව සලකා බැලීම සඳහා කඩිනම් දිනයක් ලබා දෙන ලෙසය.
-
-...
-
-[Data](articles/f303c345.json)
-
----
-
-### முன்னாள் அரசியல் கைதிக்கு பிணை வழக்கப்பட்டும் தொடர்ந்து சிறையில் இருப்பதாக உறவினர்கள்  குற்றச்சாட்டு
-
-*2025-08-27 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223493) · `ta`
-
-முன்னாள் அரசியல் கைதியும், போராளிகள் நலன்புரிச் சங்கத்தின் வவுனியா மாவட்டத் தலைவருமான ஆனந்தவர்மன் எனப்படும் அரவிந்தன், கடந்த ஒரு வருடத்திற்கும் மேலாக பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் தடுத்து வைக்கப்பட்டிருந்த நிலையில், கடந்த யூலை மாதம் (07) பிணை வழக்கப்பட்டும் தற்போது தொடர்ச்சியாக சிறையில் இருப்பதாக உறவினர்கள் குற்றச்சாட்டை முன்வைத்துள்ளார்கள்.
-
-2024 மார்ச் மாதம் விடுதலைப் புலிகளை ஊக்குவிக்கும் வகையில் முகநூலில் பதிவுகள் இட்டதாகக் கூறி பயங்கரவாத விசாரணைப் பிரிவு அதிகாரிகளால் முகநூல் பதிவு தொடர்பாக வாக்குமூலம் பெறுவதற்கு அழைக்கப்பட்டிருந்த நிலையில், அவர் பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் கைது செய்யப்பட்டு ஒரு வருடத்திற்கும் மேலாக தடுத்து வைக்கப்பட்டிருந்தார்.
-
-...
-
-[Data](articles/f59d1a93.json)
 
 ---

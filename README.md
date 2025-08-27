@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 05:33:22**
+As of **2025-08-27 06:09:21**
 
 ## Newspaper Stats
 
-*Scraped **72,537** Articles*
+*Scraped **72,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 744
 economynextcom | 4,431
-islandlk | 4,454
+islandlk | 4,463
 dailymirrorlk | 4,733
-dailyftlk | 5,109
+dailyftlk | 5,113
 adalk | 6,974
 adaderanalk | 9,190
 tamilmirrorlk | 10,752
@@ -26,11 +26,67 @@ adaderanasinhalalk | 12,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,537 articles have been extended.
+61,973 (85.4%) of 72,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### Misuse and abuse of public funds beyond presidency
+
+*2025-08-27 05:40:06* · [`dailyftlk`](https://www.ft.lk/columns/Misuse-and-abuse-of-public-funds-beyond-presidency/4-780808) · `en`
+
+The starting point therefore is for the people, for concerned citizens to demand necessary amendments immediately to the Referendum Act
+
+Arrest and detention of former president Ranil Wickremesinghe last Friday (22 August), under the “Offences Against Public Property Act No. 12 of 1982” reported as the first such arrest of a former Head of State in Sri Lanka, brings about an issue that had not been paid attention to, though frequent allegations are made on “abuse of public property”. As raised by Moratuwa Municipal Council member, Attorney at Law Lihini Fernando, how public life in high office and the individual’s private life could be recognised and differentiated for the benefit of the office held and the individual’s freedom has never been looked into by any. For the presidency, it is by all means a daunting and a challenging task.
+
+...
+
+[Data](articles/75803319.json)
+
+---
+
+### Aggregating innovation: Sri Lanka FinTech Summit aims to spark digital economic renaissance
+
+*2025-08-27 05:34:28* · [`dailyftlk`](https://www.ft.lk/business/Aggregating-innovation-Sri-Lanka-FinTech-Summit-aims-to-spark-digital-economic-renaissance/34-780805) · `en`
+
+SL FinTech Summit’s mission to enable transformative change with coordinated ecosystem development
+
+In the bustling streets of Colombo, a small garment manufacturer still conducts most transactions in cash, despite owning a smartphone more powerful than the computers that once ran entire banks. Across the city, a FinTech start-up has developed innovative credit scoring algorithms but struggles to access the customer data that could make their solution transformative. Meanwhile, a major bank has invested millions in establishing secure digital infrastructure that while effective, still remains siloed mainly from the broader financial ecosystem.
+
+...
+
+[Data](articles/b4fed42f.json)
+
+---
+
+### FinTech Intel UK joins as Strategic Global Media Partner for Asia International Digital Economy and AI in Finance Summit 2025
+
+*2025-08-27 05:30:26* · [`dailyftlk`](https://www.ft.lk/business/FinTech-Intel-UK-joins-as-Strategic-Global-Media-Partner-for-Asia-International-Digital-Economy-and-AI-in-Finance-Summit-2025/34-780804) · `en`
+
+Asia International Digital Economy and AI in Finance Summit 2025 Convenor Rajkumar Kanagasingam (left) with UK-based Barker Brooks (owner of FinTech Intel) Managing Director Alex Gray at the Asia FinTech Awards in Singapore, Barker Brooks Event Manager Lauren Wood looks on
+
+The Asia International Digital Economy and AI in Finance Summit 2025, featuring the Asian Digital Finance Forum and Awards, has named FinTech Intel as its Strategic Global Media Partner. The summit will take place on 23 October 2025 at Port City Colombo.
+
+...
+
+[Data](articles/39fd36d9.json)
+
+---
+
+### Navigating global trade: CEO Forum 2025 to address economic impact of new US tariffs on Sri Lanka
+
+*2025-08-27 05:29:08* · [`dailyftlk`](https://www.ft.lk/business/Navigating-global-trade-CEO-Forum-2025-to-address-economic-impact-of-new-US-tariffs-on-Sri-Lanka/34-780803) · `en`
+
+In an era of shifting global trade dynamics, the CEMBA/CEMPA Alumni Association of the Open University of Sri Lanka is set to host its highly anticipated CEO Forum 2025. The timely event will focus on a critical issue for the nation’s economy: “The Economic Impact of New US Tariffs.” The forum is scheduled to take place on 2 September at 4.00 p.m in the CETMe Auditorium, The Open University of Sri Lanka (OUSL), Nawala, Nugegoda.
+
+This pivotal discussion aims to dissect the potential ripple effects of new US trade policies on Sri Lanka’s key export sectors, supply chains, and overall economic stability. With US being a primary market for Sri Lankan goods, particularly apparel, rubber products, and tea, any changes in tariff structures could have significant and far-reaching consequences for local industries, foreign exchange earnings, and employment.
+
+...
+
+[Data](articles/17cb6f79.json)
+
+---
 
 ### President orders housing, urban development projects completion within 2025 Budget timelines
 
@@ -103,6 +159,48 @@ She added that the House Democracy Partnership, a bipartisan initiative of the U
 ---
 
 ### 2025-08-26 (Tuesday)
+
+### Macroeconomic factors fuel upswing in stock investor sentiment
+
+*2025-08-26 23:10:00* · [`islandlk`](http://island.lk/macroeconomic-factors-fuel-upswing-in-stock-investor-sentiment/) · `en`
+
+The CSE bounced back yesterday because investor sentiment had improved as a result of macroeconomic fundamentals proving conducive to business, market analysts said.
+
+The stock market closed up after some volatility but both indices moved upwards. The All Share Price Index moved up by 37.8 points, while the S&P SL20 closed up 0.39 percent, or 23.50 points, at 6,066, provisional data showed.
+
+...
+
+[Data](articles/c0a0b46c.json)
+
+---
+
+### AB Mauri Lanka celebrates exceptional safety achievements with Target Zero Safety Award
+
+*2025-08-26 23:10:00* · [`islandlk`](http://island.lk/ab-mauri-lanka-celebrates-exceptional-safety-achievements-with-target-zero-safety-award/) · `en`
+
+AB Mauri Lanka is proud to announce its recognition at the prestigious AB Mauri Global Award, Target Zero Safety Awards 2023/2024 under the Safety Performance category. This award showcases AB Mauri Lanka’s dedication to maintaining exemplary health and safety standards within its operations. Through year-long initiatives, AB Mauri Lanka has demonstrated outstanding efforts and innovations, fostering a culture of safety that extends from its facilities to the broader community.
+
+At AB Mauri, the commitment to achieving zero accidents is a core value that encompasses every aspect of the business. With a strategy that includes proactive measures, continuous improvement, and a comprehensive approach to health and safety (H&S), these efforts are designed to maintain and enhance safe working environments across all operations. This approach has been crucial in securing the Safety Performance award, highlighting proactive measures, strategic initiatives, and engagement with all stakeholders.
+
+...
+
+[Data](articles/dcfe3c3f.json)
+
+---
+
+### Raising the Bar Again: CIPM adds ISO 21001:2018 to its growing list of global accreditations
+
+*2025-08-26 23:09:00* · [`islandlk`](http://island.lk/raising-the-bar-again-cipm-adds-iso-210012018-to-its-growing-list-of-global-accreditations/) · `en`
+
+CIPM Sri Lanka, the nation’s leader in Human Resource Management, has achieved a landmark accomplishment by earning the ISO 21001:2018 Educational Organization Management System (EOMS) certification from the Sri Lanka Standards Institution (SLSI) – an honour that cements its position at the forefront of educational excellence.
+
+The certification was ceremoniously presented to Priyantha Ranasinghe, President of CIPM Sri Lanka, by Dr. Siddhika G. Senaratne, Director General of the Sri Lanka Standards Institution (SLSI). The presentation took place at the CIPM Diploma Awarding Ceremony held at the BMICH, in the presence of an esteemed gathering of distinguished guests, Council Members, faculty, students, and staff.
+
+...
+
+[Data](articles/459109d0.json)
+
+---
 
 ### නියෝජ්‍ය අමාත්‍යවරුන් වේරහැර මෝටර් රථ දෙපාර්තමේන්තුවේ නිරීක්ෂණ චාරිකාවක
 
@@ -1623,119 +1721,5 @@ One night during the pandemic, Nishanthi, a garment factory worker living in a b
 ...
 
 [Data](articles/ef7d5653.json)
-
----
-
-### ஜே.வி.பிக்கு சீன கம்யூனிஸ்ட் கட்சியின் ஆலோசனை
-
-*2025-08-26 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223401) · `ta`
-
-" நிக்கோலஸ் லார்டி போன்ற பொருளாதார வல்லுநர்கள் குறிப்பிட்டது போல், மில்லியன் கணக்கான மக்களை வறுமையிலிருந்து மீட்டது உலகமயமாக்கல் தான், ஒற்றைக்கட்சி ஒடுக்குமுறை அல்ல. எனவே, சீனாவின் சர்வாதிகார மாதிரி, வளர்ச்சியின் இயந்திரமாக இருந்ததில்லை. மாறாக, முறையான உரிமை மீறல்கள், ஊழல், மற்றும் சுற்றுச்சூழல் சீரழிவு ஆகியவற்றை செயல்படுத்தும் கட்டமைப்பாகவே இருந்துள்ளது என்றார். இவ்வாறானதொரு நிலையில் இலங்கை எதிர்கொள்ளும் கேள்வி மிகவும் தீவிரமானதொன்றகும். அதாவது, ஜே.வி.பியை தலைமைத்துவமாக கொண்ட தேசிய மக்கள் சக்தி அரசாங்கம், இந்த சர்வாதிகார மாதிரியைப் பின்பற்ற விரும்புகிறதா? "
-
-◼️
-
-[Data](articles/2bc3ab09.json)
-
----
-
-### அம்பானி மகனின் வனவிலங்குப் பூங்கா மீது நீதிமன்ற விசாரணை
-
-*2025-08-26 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223400) · `ta`
-
-இந்திய தொழிலதிபர் முகேஷ் அம்பானியின் மகன் ஆனந்த் அம்பானி தலைமையில் செயல்பட்டு வரும் ரிலையன்ஸ் அறக்கட்டளையின் 'வந்தாரா' வனவிலங்குப் பூங்காவை விசாரணை செய்ய நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-இந்த பூங்கா குஜராத்தின் ரிலையன்ஸ் ஜாம்நகர் வளாகத்தில் 3000 ஏக்கர் பரப்பளவில் பறந்து விரிந்துள்ளது. 2024 இல் இந்திய பிரதமர் மோடி இந்த மையத்தை திறந்து வைத்தார். இதுவே உலகின் மிகப்பெரிய தனியார் உயிரியல் பூங்கா என கருதப்படுகிறது.
-
-இங்கு சிங்கங்கள், சிறுத்தைகள், யானைகள், காண்டாமிருகங்கள் மற்றும் முதலைகள் என 43 வகையான இனத்தைச் சேர்ந்த 2000க்கும் மேற்பட்ட வனவிலங்குகள் உள்ளது.
-
-இங்குள்ள விலங்குகள் குறிப்பாக யானைகள் சட்டவிரோதமாக உள்நாடு மற்றும் வெளிநாடுகளில் இருந்து கடத்திக் கொண்டுவரப்பட்டவை என்று பரவலாக குற்றசாட்டு எழுந்தது. விலங்குகள் நல அமைப்புகள், ஆர்வலர்கள் தரப்பில் இந்த குற்றச்சாட்டு முன்வைக்கப்பட்டது.
-
-இதுதொடர்பாக சட்டதரணி சி.ஆர்.ஜெயா சுகின் உச்சநீதிமன்றத்தில் பொதுநல மனு தாக்கல் செய்தார். மனுவில் வந்தாரா மையத்தின் செயல்பாடுகள் குறித்து சுகின் பல குற்றச்சாட்டுகளை முன்வைத்திருந்தார்.
-
-...
-
-[Data](articles/05b20cdd.json)
-
----
-
-### 1 in 4 people lack access to safe drinking water: UN
-
-*2025-08-26 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111865/1-in-4-people-lack-access-to-safe-drinking-water-un) · `en`
-
-More than two billion people worldwide still lack access to safely-managed drinking water, the United Nations said on Tuesday (Aug 26), warning that progress towards universal coverage was moving nowhere near quickly enough.
-
-The UN’s health and children’s agencies said a full one in four people globally were without access to safely-managed drinking water last year, with over 100 million people remaining reliant on drinking surface water - for example from rivers, ponds and canals.
-
-The World Health Organization and UNICEF said lagging water, sanitation and hygiene (WASH) services were leaving billions at greater risk of disease.
-
-They said in a joint study that the world remains far off track to reach a target of achieving universal coverage of such services by 2030.
-
-Instead, that goal “is increasingly out of reach”, they warned.
-
-“Water, sanitation and hygiene are not privileges: they are basic human rights,” said the WHO’s environment chief Ruediger Krech.
-
-...
-
-[Data](articles/f9c3a90a.json)
-
----
-
-### ශෂේන්ද්‍ර රාජපක්ෂ යළි රිමාන්ඩ්
-
-*2025-08-26 12:55:16* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍ර-රාජපක්ෂ-යළි-රිමාන්ඩ්/11-418076) · `si`
-
-දේශපාලන කාර්යාලය ගිනි තබා විනාශ කිරීම හේතුවෙන් නීතියට පටහැනි ලෙස රුපියල්  8,850,000/-ක මුදලක් වන්දි වශයෙන් ලබා ගැනීම  "දූෂණය" නමැති වරද සිදුකළ බවට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින  හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා  ලබන 29 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
-
-අල්ලස් කොමිසමේ නිලධාරීන් සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කළේය.
-
-◼️
-
-[Data](articles/5306343f.json)
-
----
-
-### 25 வயசுல இப்படியா? நம்பவே முடியல
-
-*2025-08-26 12:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/25-வயசுல-இப்படியா-நம்பவே-முடியல/53-363521) · `ta`
-
-இணையத்தில் தற்போது அனைவரையும் கவர்ந்து வரும் பெண்ணின் பெயர் ரெபேக்கா மா. ‘பெக்கா ப்ளூம்’ என டிக்டோக்கில் அறியப்படும் இவர், வெறும் 25 வயதிலேயே 54 லட்சம் பின்தொடர்பவர்களை பெற்றுள்ளார். தனியார் ஜெட் பயணம், பல்கேரி நகை சேகரிப்பு, ஆடம்பர ஃபேஷன், செல்ல பூனைகளுக்குக் கேவியர் உணவு என தனது அட்டகாசமான வாழ்க்கை முறையை சமூக ஊடகங்களில் பகிர்ந்து வருகிறார்.
-
-‘#RichTok’ எனப்படும் லக்ஷரி கலாச்சாரத்தை இந்தியர்களுக்கும் வெளிநாட்டவர்களுக்கும் நெருக்கமாக அறிமுகப்படுத்தியுள்ளார். 2025 ஜனவரியில் தனது டிக்டோக் கணக்கைத் தொடங்கிய பெக்கா, 8 மாதத்தில் 38 லட்சம் பின்தொடர்பவர்களை ஈர்த்ததோடு, இன்ஸ்டாகிராமிலும் விரைவில் வெற்றி பெற்றார்.
-
-அமெரிக்காவின் கலிபோர்னியா மாநிலத்தில் உள்ள ஏதர்டனில் வளர்ந்த பெக்காவின் பெற்றோர் சைமன் யிமிங் மா மற்றும் ஹெய்டி சோவ் ஆகியோர் ‘கேம்லாட்’ எனும் ஐடி நிறுவனத்தை தொடங்கி அதனை மிகப்பெரிய அளவிற்கு வளர்த்துள்ளனர்.
-
-...
-
-[Data](articles/5fc05be9.json)
-
----
-
-### ආයුර්වේද, සිද්ධ සහ යුනානි වෛද්‍ය උපාධිධාරීන් 160ක් සීමාවාසික පුහුණුවට
-
-*2025-08-26 12:48:14* · [`adalk`](https://www.ada.lk/breaking_news/ආයුර්වේද--සිද්ධ-සහ-යුනානි-වෛද්‍ය-උපාධිධාරීන්-160ක්-සීමාවාසික-පුහුණුවට/11-418075) · `si`
-
-බටහිර, ආයුර්වේද, සිද්ධ, යුනානි ඇතුළු ව සමස්ත සෞඛ්‍ය පද්ධතිය වර්තමානයේ දී මෙහෙයවනු ලබන්නේ පුරවැසියා කේන්ද්‍ර කරගත් සෞඛ්‍ය පද්ධතියක් ගොඩනැගීමට  බවත්, වත්මන් රජය පුරවැසියාගේ සෞඛ්‍ය ආරක්ෂණය, ප්‍රතිකාර ඇතුළු සෞඛ්‍ය වගකීම භාරගන්නා බවත්, පුරවැසියාට කැමති නම් ප්‍රතිකාර ගන්නා ක්‍රමය වෙනුවට, පුරවැසියා වෙනුවෙන් වග වන සේවාවක්  බවට සෞඛ්‍ය සේවාව පත්කළ යුතු බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කරයි.
-
-අමාත්‍යවරයා මේ බව අවධාරණය කර සිටියේ ආයුර්වේද, සිද්ධ සහ යුනානි වෛද්‍ය උපාධිධාරීන් 160 දෙනෙකු සඳහා සීමාවාසික පුහුණු පත්වීම් ලිපි ප්‍රදානය කිරීමේ උත්සව අවස්ථාවට ප්‍රධාන ආරාධිත අමුත්තා ලෙස එක්වෙමින් ය. පත්වීම් ලිපි ප්‍රදානය කිරීම පසුගිය දා  මහරගම, නාවින්න බණ්ඩාරනායක අනුස්මරණ ආයුර්වේද පර්යේෂණායතන  ග්‍රවණාගාරයේ දී පැවැත්විණි.
-
-...
-
-[Data](articles/b966bab2.json)
-
----
-
-### “சர்வதேச நீதியைத் தான் தமிழர்கள் கோருகிறார்கள்”
-
-*2025-08-26 12:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-நீதியைத்-தான்-தமிழர்கள்-கோருகிறார்கள்/175-363519) · `ta`
-
-தமிழ் மக்கள் சர்வதேச நீதியைத் தான் கோருகிறார்கள்! ஒரு போதும் உள்ளூர் பொறிமுறையை ஏற்றுக் கொள்ளவில்லை என்பதை வலியுறுத்தி சர்வதேச காணாமல் ஆக்கப்பட்டோர் தினத்தில் வடக்கு, கிழக்கு பகுதிகளில் இடம்பெறவுள்ள  பெரும் போராட்டத்திற்கு அனைவரும் ஆதரவு வழங்குமாறு முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவுகளின் சங்கத் தலைவர் சுப்பிரமணியம் பரமானந்தம் கோரிக்கை விடுத்துள்ளார்
-
-சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டோர் தினமான எதிர்வரும் 30 ஆம் திகதி சர்வதேச நீதியை கோரி வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகளின் சங்கத்தினரால் வடக்கில் யாழ்ப்பாணம் கிட்டுப் பூங்காவில் இருந்து செம்மணி  வரையும் கிழக்கில் கல்லடி பாலத்தில் இருந்து காந்தி பூங்கா வரையும் மாபெரும் கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட உள்ளது
-
-இது தொடர்பில் முல்லைத்தீவு ஊடக அமையத்தில் செவ்வாய்க்கிழமை (26) காலை முல்லைத்தீவு மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் ஊடக சந்திப்பு ஒன்றை நடத்தி குறித்த போராட்டத்திற்கு அனைத்து தரப்பினரின்  ஆதரவையும் வேண்டி நிற்பதாக தெரிவித்தனர்
-
-...
-
-[Data](articles/90553a17.json)
 
 ---

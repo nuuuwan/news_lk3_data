@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 09:04:29**
+As of **2025-08-27 09:25:11**
 
 ## Newspaper Stats
 
-*Scraped **72,580** Articles*
+*Scraped **72,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,124
 adalk | 6,976
-adaderanalk | 9,197
+adaderanalk | 9,199
 tamilmirrorlk | 10,754
 virakesarilk | 11,929
 adaderanasinhalalk | 12,572
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.4%) of 72,580 articles have been extended.
+61,973 (85.4%) of 72,582 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,9 +34,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### குளியாப்பிட்டியில் விபத்து ; இரண்டு பாடசாலை சிறுவர்கள் உட்பட மூவர் உயிரிழப்பு
 
-*2025-08-27 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/223454) · `ta`
+*2025-08-27 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223454) · `ta`
 
-குளியாப்பிட்டியவில் இடம்பெற்ற விபத்தில் இரண்டு பாடசாலை சிறுவர்கள் உட்பட மொத்தம் மூன்று பேர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+குளியாப்பிட்டியின் பல்லேவல பாலத்துக்கருகில் இன்று புதன்கிழமை (27) இடம்பெற்ற விபத்தில் இரண்டு பாடசாலை சிறுவர்கள் மற்றும் வேன் சாரதி உட்பட மூன்று பேர் உயிரிழந்ததாக பொலிஸார்  தெரிவித்தனர்.
+
+பாடசாலை வேன் ஒன்று லொறியுடன் மோதியதியே விகத்து இடம்பெற்றுள்ளது. இதன்போது, 13 பேர் காயமடைந்தனர். காயமடைந்தவர்கள் சிகிச்சைக்காக அருகிலுள்ள வைத்தியசாலைகளுக்கு அழைத்துச் செல்லப்பட்டுள்ளனர்.
 
 ◼️
 
@@ -55,6 +57,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0fb409fd.json)
+
+---
+
+### Three including two school children killed in Kuliyapitiya accident
+
+*2025-08-27 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111889/three-including-two-school-children-killed-in-kuliyapitiya-accident) · `en`
+
+At least three persons including two children have died in a road accident in Kuliyapitiya at around 7:05 a.m. today (27), police said.
+
+The accident took place when a school van collided with a tipper truck near the Wilapola bridge in Kuliyapitiya.
+
+The driver of the van is also among those dead, according to area residents.
+
+Thirteen others have sustained injuries in the incident and have been rushed to the hospital.
+
+◼️
+
+[Data](articles/468f51d8.json)
 
 ---
 
@@ -191,6 +211,24 @@ Engaging citizens through storytelling and best practices on reels and emerging 
 ...
 
 [Data](articles/af19a97c.json)
+
+---
+
+### How to effectively communicate using Facebook and WhatsApp? State workers given training
+
+*2025-08-27 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111886/how-to-effectively-communicate-using-facebook-and-whatsapp-state-workers-given-training) · `en`
+
+Meta launched a Digital Government Day program to upskill media secretaries and representatives of state media institutions, in partnership with the Ministry of Digital Economy and the Information and Communication Technology Agency (ICTA).
+
+This is the first workshop that provided necessary skills in using digital media such as Facebook, Instagram, WhatsApp and Threads effectively to communicate the digital transformation journey, the President’s Media Division said.
+
+The sessions were conducted and lead by Kaiya Waddell, Director of Government & Social Impact, APAC Neha Mathur, Partner Manager, Government & Social Impact Dr Priyanka Bhalla, Safety Policy Manager, South Asia Senura Abeywardena, Head of Public Policy, Central Asia, Mongolia, Sri Lanka & Maldives, the PMD added.
+
+Engaging citizens through storytelling and best practices on reels and emerging formats
+
+...
+
+[Data](articles/e0a33e4e.json)
 
 ---
 
@@ -1679,45 +1717,5 @@ The Prime Minister also questioned, “If I did go, where did that information c
 ◼️
 
 [Data](articles/3394362a.json)
-
----
-
-### සමාජ මාධ්‍ය පළ කිරීම් සම්බන්ධයෙන් ශ්‍රී ලංකා නීතිඥ සංගමයෙන් නිවේදනයක්
-
-*2025-08-26 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213816) · `si`
-
-සමාජ මාධ්‍ය පළ කිරීම්, ප්‍රකාශ, විවරණ හෝ නඩු ප්‍රතිඵල පිළිබඳව යූටියුබර්වරුන් විසින් කරනු ලබන අනාවැකි ඔස්සේ බලපෑම් කිරීමට දරන උත්සාහයන් හේතුවෙන් සිදුවිය හැකි, බාහිර තර්ජන හෝ මැදිහත්වීම්වලින් අධිකරණය ආරක්ෂා කර සුරැකිය යුතු බව සඳහන් කරමින් ශ්‍රී ලංකා නීතිඥ සංගමය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-නිවේදනයෙන් කරුණු දක්වමින් ශ්‍රී ලංකා නීතිඥ සංගමය පෙන්වා දී ඇත්තේ, එවැනි ක්‍රියාවන් මගින් නීතියේ ආධිපත්‍යය අඩපණ කරන අතර, නීතියේ නිසි ක්‍රියාවලියට තර්ජනයක් වෙමින් යුක්තිය පසිඳලීම පිළිබඳ මහජන විශ්වාසයට බලපෑම් කිරීමේ විභවයක් එහි තිබෙන බවයි.
-
-එවැනි ක්‍රියාවන්හි වැරදිකරුවන්ට එරෙහිව නීතිය අනුව කටයුතු කළ හැකි බවත් මේ සම්බන්ධයෙන්, අධිකරණයට බලපෑම් කිරීම සම්බන්ධ දණ්ඩනීය විධිවිධාන අඩංගු ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 111(ඇ)(1) සහ (2) යන අනුව්‍යවස්ථා කෙරෙහි අවධානය යොමු කරන බවද දැනුම් දී ඇත.
-
-ඒ හා සමගම, නීතිය ක්‍රියාත්මක කරන බලධාරීන් ඇතුළු සියලුම පාර්ශවකරුවන් විසින් නීතියේ ආධිපත්‍යය, නිසි ක්‍රියාවලිය සහ පුරවැසියන්ගේ අයිතිවාසිකම් සහ නිදහස සෑම විටම ආරක්ෂා කිරීමේ අවශ්‍යතාව ශ්‍රී ලංකා නීතීඥ සංගමය අවධාරණය කරන බවද දැනුම් දී තිබේ.
-
-...
-
-[Data](articles/257194a0.json)
-
----
-
-### Ex-President Ranil joins court hearing via Zoom, full medical report submitted by attorneys
-
-*2025-08-26 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/111871/ex-president-ranil-joins-court-hearing-via-zoom-full-medical-report-submitted-by-attorneys) · `en`
-
-The hearing of the case filed against Former President Ranil Wickremesinghe is currently underway at the Colombo Fort Magistrate’s Court.
-
-The former President, who is at the Intensive Care Unit of the Colombo National Hospital at present has joined the hearing virtually via Zoom, Ada Derana reporter said.
-
-Former President Ranil Wickremesinghe was not produced in court for the hearing taking place before Colombo Fort Magistrate Nilupuli Lankapura.
-
-During the hearing, a detailed medical report of former President Ranil Wickremesinghe was produced by his attorneys.
-
-According to the submissions made by President’s Counsel Anuja Premaratna, three of the four coronary arteries of the former President have been blocked.
-
-Earlier today, Prisons media spokesperson Jagath Weerasinghe said the former President is unlikely to be produced before court today, due to medical recommendations stating that he must continue to remain under observation in the ICU.
-
-...
-
-[Data](articles/c4ec0cab.json)
 
 ---

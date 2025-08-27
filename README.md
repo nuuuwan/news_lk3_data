@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-27 16:32:35**
+As of **2025-08-27 16:49:01**
 
 ## Newspaper Stats
 
-*Scraped **72,671** Articles*
+*Scraped **72,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
 dailyftlk | 5,125
-adalk | 6,987
+adalk | 6,989
 adaderanalk | 9,217
 tamilmirrorlk | 10,783
 virakesarilk | 11,940
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.3%) of 72,671 articles have been extended.
+61,973 (85.3%) of 72,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-27 (Wednesday)
+
+### ජනපති, අගමැති ඇතුළු කැබිනට් මණ්ඩලයට නොතීසි
+
+*2025-08-27 16:20:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති--අගමැති-ඇතුළු-කැබිනට්-මණ්ඩලයට-නොතීසි/11-418104) · `si`
+
+ලංකික පුරවැසියන් සඳහා ඩිජිටල් හැදුනුම්පත් නිකුත් කිරීමේ ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම සඳහා ශ්‍රී ලංකා රජය ඉන්දියාව සමග ඇතිකරගෙන ඇති අවබෝධතා ගිවිසුම බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා හිටපු අමාත්‍ය විමල් වීරවංශ මහතා ඇතුළු පිරිසක් ගොනු කර ඇති පෙත්සම් දෙක ඔක්තෝබර් 17 වැනිදා කැඳවීමට ශ්‍රේෂ්ඨාධිකරණය අද (27) නියෝග කළේය.
+
+අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන කුමුදුනි වික්‍රමසිංහ සහ සම්පත් විජේරත්න යන මහත්ම මහත්මීන්ගෙන් සමන්විත  විණිසුරු මඩුල්ල හමුවේ පෙත්සම සලකා බැලීණි.
+
+හිටපු අමාත්‍ය විමල් වීරවංශ මහතා ඇතුළු පිරිසක් ගොනු කර ඇති පෙත්සම්වල වගඋත්තරකරුවන් ලෙස ඩිජිටල් ආර්ථික අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා, අග්‍රාමාත්‍ය හරිනී අමරසූරිය මෙනවිය ඇතුළු අමාත්‍ය මණ්ඩලය සහ 31 දෙනෙකු නම් කර ඇත.
+
+...
+
+[Data](articles/5681999d.json)
+
+---
 
 ### அமெரிக்காவின் 50 சதவீத வரிவிதிப்பால் பல இலட்சம் கோடி பாதிப்பு ஏற்படுமாம் - இந்திய ஏற்றுமதியாளர்கள் அச்சம்
 
@@ -96,7 +112,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය හංසක විජේමුණි මහතා පවසා සිටියේ, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මාධ්‍යයට ඔහුගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ තොරතුරු හෙළි කිරීම සම්බන්ධයෙන් මෙම විනය පරීක්ෂණය සිදුකිරීමට බලාපොරොත්තු වන බවය.
 
-◼️
+"රනිල් වික්‍රමසිංහ මහත්තයාගේ සෞඛ්‍ය තත්තවය ගැන ප්‍රකාශ නිකුත් කරලා තිබ්බා කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂකවරයෙක්. ඔහුට එහෙම නිවේදන නිකුත් කිරීමට කිසිම අයිතියක් නෑ.
+
+එයාගෙ සෙක්ෂන් එකේ නෙවෙයි අර මහත්තයා හිටියේ ඇඩ්මිට් වෙලා. අපිට රෝගියෙක් ආවම ඒ හැම රෝගියෙක්ම රෝගියෙක්. ඒ වගේම අපි කරන්න පුලුවන් උපරිම දේ කරනවා සෞඛ්‍ය අමාත්‍යංශය විදියට.
+
+නමුත් ජාතික රෝහලේ ඔය කියන පුද්ගලයා කරන්නේ එයාට අයිති නැති ජොබ් එකක්. ඒකට අනිවාර්යෙන් පරීක්ෂණයක් කරන්න ඕන. මොකද රෝගියෙක්ගේ තොරතුරු ඔහු කුමන තරාතිරමක වුනත් ජනමාධ්‍යකට ලබාදීමට කිසිදු අයිතියක් නෑ. ඔහුගේ සමහර ක්‍රියා කලාප නීත්‍යාකූල නෑ.
+
+...
 
 [Data](articles/fa0d9953.json)
 
@@ -286,7 +308,7 @@ Under this, the Ministry of Health and Mass Media has proposed to implement a me
 
 *2025-08-27 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213852) · `si`
 
-කිසිදු රාජ්‍ය තාන්ත්‍රිකයෙකු හෝ  රාජ්‍ය තාන්ත්‍රිකයෙකු සංවිධානයක් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් විරෝධයක් දක්වා නොමැති බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+කිසිදු රාජ්‍ය තාන්ත්‍රිකයෙකු හෝ  රාජ්‍ය තාන්ත්‍රික සංවිධානයක් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් විරෝධයක් දක්වා නොමැති බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
 
 අද (27) පැවැති කැබිනට් මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය විජිත හේරත් මහතා මේ බව පැවසීය.
 
@@ -667,6 +689,22 @@ Accordingly, the Cabinet of Ministers approved the resolution submitted by the M
 ◼️
 
 [Data](articles/3fbac1a6.json)
+
+---
+
+### සමථකරණ පනතට ආංශික කාරක සභාවේ අනුමැතිය
+
+*2025-08-27 12:50:30* · [`adalk`](https://www.ada.lk/breaking_news/සමථකරණ-පනතට-ආංශික-කාරක-සභාවේ-අනුමැතිය/11-418102) · `si`
+
+සමථකරණ (සිවිල් සහ වාණිජ ආරවුල්) පනත් කෙටුම්‍පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
+
+ඒ එම කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානතයෙන් පසුගියදා 22 වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  වාණිජ සමථකරණය සඳහා මධ්‍යස්ථානයක් ස්ථාපිත කිරීම පිණිස විශේෂයෙන්ම සකස් කරන ලද 2000 අංක 44 දරන වාණිජ සමථකරණ මධ්‍යස්ථාන පනත තාක්ෂණික හේතු සහ සීමාවන් කිහිපයක් හේතුවෙන් ක්‍රියාත්මක කිරීමට නොහැකි වී ඇති බව පෙන්වා දුන්හ. ඒ අනුව අදාළ  එම පනත පරිච්ඡින්න කිරීම, වාණිජ සමථකරණය පවත්වාගෙන යාම සම්බන්ධයෙන් අවම ප්‍රමිතින් ඇතුළත් කිරීම සහ අදාළ නියමයන් සපුරාලීමට යටත්ව අධිකරණ පද්ධතිය මඟින් සමථකරණ විසඳුම් බලාත්මක කිරීමට අවශ්‍ය විධිවිධාන සැලසීම යන අරමුණු සහිතව  එම නව පනත් කෙටුම්පතක් සකස්  කර තිබෙන බව එම නිලධාරීහු වැඩිදුරටත් අදහස් දක්වමින්  පැවසූහ.
+
+...
+
+[Data](articles/970e9faf.json)
 
 ---
 
@@ -1775,41 +1813,5 @@ It came as Israelis launched a day of nationwide protests calling on their gover
 ...
 
 [Data](articles/b4dfed4f.json)
-
----
-
-### How to effectively communicate using Facebook and WhatsApp? State workers given training
-
-*2025-08-27 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111886/how-to-effectively-communicate-using-facebook-instagram-and-whatsapp-state-workers-given-training) · `en`
-
-Meta launched a Digital Government Day program to upskill media secretaries and representatives of state media institutions, in partnership with the Ministry of Digital Economy and the Information and Communication Technology Agency (ICTA).
-
-This is the first workshop that provided necessary skills in using digital media such as Facebook, Instagram, WhatsApp and Threads effectively to communicate the digital transformation journey, the President’s Media Division said.
-
-The sessions were conducted and lead by Kaiya Waddell, Director of Government & Social Impact, APAC Neha Mathur, Partner Manager, Government & Social Impact Dr Priyanka Bhalla, Safety Policy Manager, South Asia Senura Abeywardena, Head of Public Policy, Central Asia, Mongolia, Sri Lanka & Maldives, the PMD added.
-
-Engaging citizens through storytelling and best practices on reels and emerging formats
-
-...
-
-[Data](articles/af19a97c.json)
-
----
-
-### How to effectively communicate using Facebook and WhatsApp? State workers given training
-
-*2025-08-27 06:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111886/how-to-effectively-communicate-using-facebook-and-whatsapp-state-workers-given-training) · `en`
-
-Meta launched a Digital Government Day program to upskill media secretaries and representatives of state media institutions, in partnership with the Ministry of Digital Economy and the Information and Communication Technology Agency (ICTA).
-
-This is the first workshop that provided necessary skills in using digital media such as Facebook, Instagram, WhatsApp and Threads effectively to communicate the digital transformation journey, the President’s Media Division said.
-
-The sessions were conducted and lead by Kaiya Waddell, Director of Government & Social Impact, APAC Neha Mathur, Partner Manager, Government & Social Impact Dr Priyanka Bhalla, Safety Policy Manager, South Asia Senura Abeywardena, Head of Public Policy, Central Asia, Mongolia, Sri Lanka & Maldives, the PMD added.
-
-Engaging citizens through storytelling and best practices on reels and emerging formats
-
-...
-
-[Data](articles/e0a33e4e.json)
 
 ---

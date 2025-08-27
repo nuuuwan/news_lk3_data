@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 02:32:44**
+As of **2025-08-28 02:56:58**
 
 ## Newspaper Stats
 
-*Scraped **72,730** Articles*
+*Scraped **72,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 745
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,129
+dailyftlk | 5,131
 adalk | 6,998
 adaderanalk | 9,229
 tamilmirrorlk | 10,791
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,730 articles have been extended.
+61,973 (85.2%) of 72,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### Perverse pleasures of genocide
+
+*2025-08-28 02:24:31* · [`dailyftlk`](https://www.ft.lk/columns/Perverse-pleasures-of-genocide/4-780877) · `en`
+
+A bomb has been dropped on the Nasser Hospital in Khan Younis, Gaza. Someone is videoing from a distance, and we see Palestinian aid workers climbing up the stairs, trying to rescue the survivors. Among the civil defence crew wearing bright vests, there are also four journalists: Hossam al-Masri (Reuters), Mohammed Salama (Al Jazeera), Mariam Abu Daqqa (Independent Arabia) and Moaz Abu Taha (NBC). Then another explosion, killing those very people offering help and documenting the carnage. In front of cameras, for the whole world to see through the livestream, Israel commits yet another war crime and … nothing happens.
+
+...
+
+[Data](articles/54623fef.json)
+
+---
+
+### Arrest of former President Ranil: Test case for Sri Lanka’s democracy
+
+*2025-08-28 02:19:51* · [`dailyftlk`](https://www.ft.lk/columns/Arrest-of-former-President-Ranil-Test-case-for-Sri-Lanka-s-democracy/4-780876) · `en`
+
+The arrest of a former President is not merely a headline; it is a defining moment in the struggle to build a nation where the rule of law prevails over political privilege
+
+Sri Lanka has entered uncharted political and legal territory. For the first time in its post-independence history, a former President has been arrested, remanded, and brought before a court of law. The charges concern the alleged misuse of public funds for private foreign travel, following investigations by the Criminal Investigation Department (CID).
+
+This event is more than a legal case. It is a litmus test for Sri Lanka’s democratic institutions, the independence of its judiciary, and the rule of law in a system long accused of shielding political elites from accountability.
+
+...
+
+[Data](articles/f3211aad.json)
+
+---
 
 ### NIBM Neo Ventures: Colouring passionate lives through Sri Lanka’s startup revolution
 
@@ -1717,43 +1745,5 @@ Subsequently, the case was scheduled to be taken up again on September 3.
 ...
 
 [Data](articles/aed60a2c.json)
-
----
-
-### யூதர்களுக்கு எதிரான தாக்குதல்கள் : ஈரானியத் தூதுவரை நாடுகடத்தியது அவுஸ்திரேலியா
-
-*2025-08-27 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223473) · `ta`
-
-அவுஸ்திரேலியாவில் யூத சமூகத்திற்கு எதிராக நடந்த தாக்குதல்களுக்கு ஈரான் அரசுதான் காரணம் என அவுஸ்திரேலியப் பிரதமர் அந்தோனி அல்பானீஸ் குற்றம் சாட்டியுள்ளார்.
-
-சிட்னி மற்றும் மெல்போர்னில் இடம்பெற்ற இரண்டு யூத விரோதத் தாக்குதல்களை ஈரான் அரசு திட்டமிட்டு செயல்படுத்தியுள்ளது. இந்த குற்றச்சாட்டின் பின்னணியில், அவுஸ்திரேலியா ஈரானியத் தூதுவரை நாட்டை விட்டு வெளியேற்றியுள்ளது.
-
-இரண்டாம் உலகப் போருக்குப் பின்னர் ஒரு வெளிநாட்டு தூதரை அவுஸ்திரேலியா நாடு கடத்துவது இதுவே முதல் முறை என அந்நாட்டின் வெளியுறவுத்துறை அமைச்சர் தெரிவித்துள்ளார்.
-
-அவுஸ்திரேலிய பாதுகாப்பு புலனாய்வு அமைப்பு (ASIO) திரட்டிய புலனாய்வுத்துறை தகவல்களின் அடிப்படையில், கடந்த ஆண்டு அக்டோபரில் சிட்னியில் உள்ள யூத உணவு நிறுவனம் ஒன்றின் மீதும், டிசம்பரில் மெல்போர்னில் உள்ள ஒரு யூத தொழுகைக்கூடத்தின் மீதும் நடத்தப்பட்ட தீ வைப்புத் தாக்குதல்களுக்கு ஈரானின் புரட்சிகர காவல்படை (IRGC) பின்னணியில் இருந்தது என அவுஸ்திரேலிய அரசு உறுதிப்படுத்தியுள்ளது.
-
-...
-
-[Data](articles/9594172e.json)
-
----
-
-### சிறுமி வன்புணர்வு: 81 வயதான பாட்டி கைது
-
-*2025-08-27 12:28:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-வன்புணர்வு-81-வயதான-பாட்டி-கைது/175-363581) · `ta`
-
-12 வயதும் 11 மாதங்களேயான ஒரு சிறுமி கடுமையான பாலியல் வன்புணர்விற்கு உட்படுத்தப்பட்ட சம்பவம் இடம்பெற்றுள்ளது.
-
-மொனராகலை, கோணக்கங்ஹார பொலிஸ் பிரிவுக்கு உட்பட்ட   ஜயமஹா பிரதேசத்தில் வசிக்கும் சிறுமியே இவ்வாறு கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்தப்பட்டுள்ளார்.
-
-சிறுமியை கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்துவதற்கு உறுதுணையாக இருந்து ஆதரவு வழங்கியது மற்றும் குற்றத்தை மறைத்தமை ஆகிய குற்றச்சாட்டின் கீழ், அந்த சிறுமியின் பாட்டியை (வயது 81) கோணக்கங்ஹார பொலிஸார், செவ்வாய்க்கிழமை (26) கைது செய்தனர்.
-
-சிறுமியின் தாய் வெளிநாட்டுக்கு பணிப்பெண்ணாக சென்றுள்ளார். அந்த சிறுமி, தனது தாயின் இரண்டாவது கணவர் மற்றும் பாட்டியுடன் வாழ்ந்து வருகிறார்.
-
-தாயின் இரண்டாவது கணவர், ஆகஸ்ட் மாதம் 8ஆம் திகதி மதுபானத்தை அருந்தியுள்ளார். அப்போது வீட்டில் பாட்டி இல்லை. அந்த சந்தர்ப்பத்தை பயன்படுத்தி, வீட்டுக்குள் ஓர் அறைக்குள் சிறுமியை இழுத்துச் சென்று,  கடுமையாக பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளார்.
-
-...
-
-[Data](articles/fbfd9495.json)
 
 ---

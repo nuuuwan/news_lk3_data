@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 02:56:58**
+As of **2025-08-28 03:06:53**
 
 ## Newspaper Stats
 
-*Scraped **72,732** Articles*
+*Scraped **72,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 745
 economynextcom | 4,435
 islandlk | 4,464
 dailymirrorlk | 4,733
-dailyftlk | 5,131
+dailyftlk | 5,133
 adalk | 6,998
 adaderanalk | 9,229
 tamilmirrorlk | 10,791
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,732 articles have been extended.
+61,973 (85.2%) of 72,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### Companies (Amendment) Act No. 12 of 2025: What it means  for businesses
+
+*2025-08-28 02:42:21* · [`dailyftlk`](https://www.ft.lk/opinion/Companies-Amendment-Act-No-12-of-2025-What-it-means-for-businesses/14-780879) · `en`
+
+Deloitte Sri Lanka views the Companies (Amendment) Act No. 12 of 2025, which was officially certified and passed into law on 4 August 2025, as a major milestone for the country’s corporate sector and a critical step in strengthening the governance framework.
+
+With 21 amendments introduced, the legislation improves the regulatory framework for business operations, enhances transparency, and aligns Sri Lanka with international standards such as those set by the Financial Action Task Force (FATF) and the Asia-Pacific Group on Anti-Money Laundering (AML). These reforms are not only about compliance, but also about building investor confidence and helping Sri Lanka position itself as a trusted and competitive business hub.
+
+...
+
+[Data](articles/7358cd4f.json)
+
+---
+
+### Strategic planning: Missing link for SME success in Sri Lanka
+
+*2025-08-28 02:36:43* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-planning-Missing-link-for-SME-success-in-Sri-Lanka/4-780878) · `en`
+
+The question is not whether your SME can afford to invest in strategic planning, but whether it can afford not to
+
+In the bustling corridors of Sri Lankan business, I have witnessed countless Small and Medium Enterprises (SMEs) rise and fall like waves against the shore. As a Chartered Human Resource professional, my journey through government, private sector, and multinational corporations has provided me with a unique vantage point to observe what separates thriving businesses from those that merely survive.
+
+...
+
+[Data](articles/c650638b.json)
+
+---
 
 ### Perverse pleasures of genocide
 
@@ -1699,51 +1727,5 @@ Accordingly, the Cabinet of Ministers approved the resolution submitted by the M
 ...
 
 [Data](articles/21c2fe2b.json)
-
----
-
-### දේශබන්දුට ඇප
-
-*2025-08-27 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213845) · `si`
-
-2022 වසරේ ගාලු මුවදොර 'ගෝඨා ගෝ ගම' අරගලයට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඇප මත මුදාහරිණ ලෙස කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ කොටුව මහෙස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනෙවිය මෙම නියෝගය නිකුත් කළාය.
-
-ඒ අනුව සැකකාර දේශබන්දු තෙන්නකෝන් මහතා රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමට නියෝග කළ මහෙස්ත්‍රාත්වරිය සැකකරුගේ විදේශ ගමන් තහනම් කරන බවත් නියෝග කළාය.
-
-සාක්ෂිකරුවන්ට බලපෑම් කිරීමෙන් වළකින ලෙසත් සැකකරුට තවත් නියෝගයක් නිකුත් කරනු ලැබීය.
-
-එමෙන්ම කැඳවීම් සිදුකරනු ලබන අවස්ථාවල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට මෙන්ම අධිකරණයට පැමිණ විමර්ශන කටයුතුවලට සහාය විය යුතු බවත් එසේ කැඳවනු ලබන අවස්ථාවල මගහැරීම් සිදුකරන්නේ නම් ඇප අවලංගු කර සැකකරු රක්ෂිත බන්ධනාගාරගත කරන බවත් මහෙස්ත්‍රාත්වරිය නියෝග කර සිටියාය.
-
-ඉන් අනතුරුව මෙම පැමිණිල්ල සැප්තැම්බර් මස 03 වන දා කැඳවීමටද නියම වුණි.
-
-◼️
-
-[Data](articles/678d3a30.json)
-
----
-
-### Ex-IGP Deshabandu Tennakoon granted bail
-
-*2025-08-27 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/111901/ex-igp-deshabandu-tennakoon-granted-bail-) · `en`
-
-Former Inspector General of Police (IGP) Deshabandu Tennakoon, who was arrested by the Criminal Investigation Department (CID), and subsequently remanded, has been granted bail.
-
-The order was issued by the Colombo Fort Magistrate Nilupuli Lankapura, Ada Derana reporter said.
-
-The Magistrate ordered Deshabandu Tennakoon be released on two surety bails of Rs. 1 million each while a travel ban was also imposed on the suspect.
-
-Meanwhile, former IGP Deshabandu Tennakoon has been instructed to refrain from influencing the witnesses.
-
-Furthermore, the Magistrate ordered that the suspect must assist the CID and court during the investigation process when summoned.
-
-Fort Magistrate Nilupuli Lankapura stated that the failure to appear when summoned would result in the cancellation of the bail and the suspect being remanded.
-
-Subsequently, the case was scheduled to be taken up again on September 3.
-
-...
-
-[Data](articles/aed60a2c.json)
 
 ---

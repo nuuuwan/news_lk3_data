@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 00:09:03**
+As of **2025-08-29 00:24:39**
 
 ## Newspaper Stats
 
-*Scraped **72,940** Articles*
+*Scraped **72,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,148
+dailyftlk | 5,150
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,940 articles have been extended.
+61,973 (85.0%) of 72,942 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-08-29 (Friday)
+
+### Power of the point in educational reforms
+
+*2025-08-29 00:06:48* · [`dailyftlk`](https://www.ft.lk/columns/Power-of-the-point-in-educational-reforms/4-780910) · `en`
+
+What is on offer as Education Course Books in different systems differ widely
+
+We are into yet another round of education reforms. As someone who has experienced the implementation of reforms – the psyche as a student is you have no clue about the philosophy or the reasons for reforms you just wade through the process for better or worse! I now like to discuss ‘reforming education’ after almost 40 years on the delivery side of tertiary education.
+
+...
+
+[Data](articles/91f3ca29.json)
+
+---
+
 ### 2025-08-28 (Thursday)
+
+### Was Ranil Wickremesinghe  target of political witch hunt?
+
+*2025-08-28 23:42:50* · [`dailyftlk`](https://www.ft.lk/columns/Was-Ranil-Wickremesinghe-target-of-political-witch-hunt/4-780908) · `en`
+
+Wickremesinghe has many faults and flaws but was never perceived as a person lacking  financial integrity
+
+History was made when 76-year-old Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department (CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over Rs. 16.6 million and produced before the Colombo Fort Magistrate on 22 August 2025. He was charged under Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
+
+Six times Prime Minister Wickremesinghe who served as the eighth Executive President of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts in a Black Maria. Ranil Wickremesinghe thus became the first Sri Lankan ex-President and former Prime Minister to be arrested and remanded in the history of Sri Lanka.
+
+...
+
+[Data](articles/8796d52a.json)
+
+---
 
 ### பிக் பாஸ் புகழ் ஜனனி நடிக்கும் நிழல் படத்தின் ஃபர்ஸ்ட் லுக்
 
@@ -1807,37 +1839,5 @@ He pointed out that an environment is now emerging in which criminals no longer 
 ...
 
 [Data](articles/a48f0ada.json)
-
----
-
-### இராணுவ ஜீப் விபத்து: மூவர் காயம்
-
-*2025-08-28 12:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-ஜீப்-விபத்து-மூவர்-காயம்/175-363654) · `ta`
-
-ஹம்பந்தோட்டையிலிருந்து மொனராகலை நோக்கி பயணித்த இராணுவ ஜீப் வாகனமொன்று மொனராகலை வெல்லவாய வீதியில் உள்ள பாலாருவ பகுதியில் வைத்து வேகக் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளான சம்பவம், புதன்கிழமை (27) அன்று இடம்பெற்றது.
-
-இதன் போது ஜீப் வண்டியில் பயணித்த ஓட்டுநர் மற்றும் இரண்டு வீரர்கள் சிறு காயங்களுக்குள்ளான நிலையில் மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-இந்த ஜீப் இலங்கை இராணுவத்தின் கஜபா படைப்பிரிவு, ஹம்பாந்தோட்டை முகாமைச் சேர்ந்தது என தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/399d3f45.json)
-
----
-
-### இராணுவ ஜீப் விபத்துக்குள்ளானதில் மூவர் காயம்
-
-*2025-08-28 12:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-ஜீப்-விபத்துக்குள்ளானதில்-மூவர்-காயம்/175-363654) · `ta`
-
-ஹம்பந்தோட்டையிலிருந்து மொனராகலை நோக்கி பயணித்த இராணுவ ஜீப் வாகனமொன்று மொனராகலை வெல்லவாய வீதியில் உள்ள பாலாருவ பகுதியில் வைத்து வேகக் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளான சம்பவம், புதன்கிழமை (27) அன்று இடம்பெற்றது.
-
-இதன் போது ஜீப் வண்டியில் பயணித்த ஓட்டுநர் மற்றும் இரண்டு வீரர்கள் சிறு காயங்களுக்குள்ளான நிலையில் மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-இந்த ஜீப் இலங்கை இராணுவத்தின் கஜபா படைப்பிரிவு, ஹம்பாந்தோட்டை முகாமைச் சேர்ந்தது என தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/e9eb373d.json)
 
 ---

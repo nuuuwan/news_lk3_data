@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 01:17:48**
+As of **2025-08-29 01:32:16**
 
 ## Newspaper Stats
 
-*Scraped **72,942** Articles*
+*Scraped **72,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,150
+dailyftlk | 5,152
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,49 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,942 articles have been extended.
+61,973 (85.0%) of 72,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Marianne Page appointed to CT Holdings Board
+
+*2025-08-29 01:14:26* · [`dailyftlk`](https://www.ft.lk/business/Marianne-Page-appointed-to-CT-Holdings-Board/34-780916) · `en`
+
+Marianne Page, a pioneer in promoting Sri Lanka as an investment destination to foreign institutional investors since the early 1990’s has been appointed as a Non-Independent Non-Executive Director of conglomerate CT Holdings PLC
+
+While based in Hong Kong, she held senior positions at global financial institutions such as Credit Lyonnais, Smith New Court and Lehman Brothers. Page has had a longstanding involvement in Asian financial markets and has developed a strong network of relationships with leading foreign institutional fund managers.
+
+She is currently based in Singapore and continues to be at the forefront of showcasing Sri Lankan corporates to foreign institutional fund managers. Page was instrumental in establishing CT Smith Group of Companies a leading capital market service provider in 1992.
+
+She has been a Non-Executive Non-Independent Director of Cargills Bank PLC since 2019.
+
+She is a Fellow of the Chartered institute of Management Accountants, UK.
+
+◼️
+
+[Data](articles/8b56cb13.json)
+
+---
+
+### Sri Lankan Entrepreneur of the Year 2025 Awards tonight
+
+*2025-08-29 01:08:28* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-Entrepreneur-of-the-Year-2025-Awards-tonight/34-780915) · `en`
+
+25 years of celebrating excellence as FCCISL marks 50 years of service to nation
+
+The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) will host the Sri Lankan Entrepreneur of the Year Awards 2025 today at 5 p.m. at Cinnamon Life.
+
+Since the mid-1990s, SLEOTY has stood as the country’s premier stage for recognising excellence in enterprise. It has celebrated entrepreneurs who rose from humble beginnings and persevered through adversity to shape Sri Lanka’s economy.
+
+The Awards are inclusive, recognising micro, small, medium, large, and extra-large enterprises, and through rigorous evaluation have showcased firms that embraced global best practices, sustainability, exports, digital transformation, and innovation. Many winners have grown from small family businesses into regional and multinational leaders, proving the transformative power of entrepreneurship.
+
+...
+
+[Data](articles/ca53bcf5.json)
+
+---
 
 ### Power of the point in educational reforms
 
@@ -1801,43 +1839,5 @@ He pointed out that an environment is now emerging in which criminals no longer 
 ...
 
 [Data](articles/299825a8.json)
-
----
-
-### ඉන්දුනීසියාවේදී කොටු වූ අපරාධ කල්ලි නායකයින්ට ඇති චෝදනා
-
-*2025-08-28 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213884) · `si`
-
-මෙරට ප්‍රබල සංවිධානාත්මක අපරාධ කල්ලි නායකයින් ලෙස සැලකෙන කෙහෙල්බද්දර පද්මේ ඇතුළු පාතාල නායකයින් 05 දෙනෙකු ඉන්දුනීසියාවේ ජකර්තා අගනුවරදී අත්අඩංගුවට ගෙන තිබුණේ  ශ්‍රී ලංකා පොලීසියේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ විශේෂ මෙහෙයුමකදීය.
-
-එහිදී කෙහෙල්බද්දර පද්මේ,  කමාන්ඩෝ සලින්ත, පානදුරේ නිලංග, බැකෝ සමන් සහ තැඹිලි ළහිරු යන සංවිධානාත්මක අපරාධ කල්ලි නායකයින් අත්අඩංගුවට පත්විය.
-
-පොලීසිය පැවසුවේ, ඔවුන් සමග සිටි බැකෝ සමන්ගේ බිරිඳ ද අත්අඩංගුවට ගෙන තුන් හැවිරිදි දරුවා පොලිස් භාරයට ගත්බවය.
-
-අලුත්කඩේ අංක 5 මහෙස්ත්‍රාත් අධිකරණයේ විත්ති කූඩුව තුළදී පසුගිය පෙබරවාරි 19 වනිදා පාතාල කල්ලි නායක සංජීව කුමාර සමරරත්න හෙවත් ගනේමුල්ල සංජීව වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් චෝදනා එල්ල වූයේ කෙහෙල්බද්දර පද්මේටයි.
-
-එහිදී වෙඩික්කරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔහු පවසා තිබුණේ, කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත හා අවිශ්ක නම් අපරාධ කල්ලි සාමාජිකයන්ගේ උපදෙස් මත ගනේමුල්ල සංජීව ඝාතනය කළ බවයට.
-
-ඊට අමතරව කෙහෙල්බද්ද පද්මේ ඇතුළු මෙම පිරිසට විවිධ අපරාධ සම්බන්ධයෙන් චෝදනා එල්ල වී තිබුණි.
-
-...
-
-[Data](articles/47fb09c9.json)
-
----
-
-### சீதை அம்மன் ஆலயத்திற்குச் சென்றார் இலங்கைக்கான பிரிட்டிஷ் உயர் ஸ்தானிகர்
-
-*2025-08-28 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/223568) · `ta`
-
-இலங்கைக்கான பிரிட்டிஷ் உயர் ஸ்தானிகர் ஆண்ட்ரூ பேட்ரிக் இன்று வியாழக்கிழமை (28) காலை நுவரெலியாவில் உள்ள வரலாற்று சிறப்புமிக்க சீதா எலிய ஸ்ரீ சீதை அம்மன் கோவிலுக்குச் சென்று சிறப்பு பூஜை செய்து ஆசி பெற்றார்.
-
-பிரிட்டிஷ் அரசாங்கத்திற்கும் இலங்கைக்கும் இடையிலான தொடர்ச்சியான உறவுகள் மூலம் மலையக மலைப்பகுதிகளில் ஏற்பட்டுள்ள வளர்ச்சி நடவடிக்கைகள் குறித்து விசாரிக்கவும், நுவரெலியா மாவட்ட மக்கள் பிரதிநிதிகளிடமிருந்து கருத்துக்களைப் பெறவும் நுவரெலியா மாவட்டத்திற்கு உத்தியோகபூர்வ விஜயம் செய்தபோது, அவர் ஆசீர்வாதம் பெற நுவரெலியா சீதா அம்மன் கோவிலுக்கும் சென்றார்.
-
-நுவரெலியா சீதா அம்மன் கோவிலுக்கு வந்த பிரிட்டிஷ் உயர் ஸ்தானிகரை, நுவரெலியா மாவட்ட நாடாளுமன்ற உறுப்பினரும் கோவில் அறங்காவலர் குழுவின் தலைவருமான திரு. வேலுசாமி ராதாகிருஷ்ணன் மற்றும் அறங்காவலர் குழுவின் செயலாளர் திரு. சிவா குணசேகரம் ஆகியோர் வரவேற்றனர்.மேலும் சிறப்பு ஆசீர்வாத  பூஜையில் பங்கேற்க அழைக்கப்பட்டனர்.
-
-...
-
-[Data](articles/a48f0ada.json)
 
 ---

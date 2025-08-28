@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 01:32:16**
+As of **2025-08-29 01:50:47**
 
 ## Newspaper Stats
 
-*Scraped **72,944** Articles*
+*Scraped **72,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,152
+dailyftlk | 5,154
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,944 articles have been extended.
+61,973 (85.0%) of 72,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Presidential immunity on trial:  Boundaries of accountability from Washington to Colombo
+
+*2025-08-29 01:30:42* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-immunity-on-trial-Boundaries-of-accountability-from-Washington-to-Colombo/4-780918) · `en`
+
+The arrest of former President Ranil Wickremesinghe illustrates the structural tension in Sri Lanka’s constitutional design. In September 2023, while serving as president, Wickremesinghe traveled to Havana for the G77 Summit and to New York for the United Nations General Assembly. On his return journey, he stopped in the United Kingdom to attend a ceremony at the University of Wolverhampton, where his wife was awarded an honorary professorship. Investigators allege that state funds were improperly used to finance the UK leg of the trip. Wickremesinghe has denied wrongdoing, insisting that his wife personally covered her travel expenses.
+
+...
+
+[Data](articles/f7ff2195.json)
+
+---
+
+### Yalamanchili appoints Dihan Rodrigo as Country Manager for Sri Lanka and Maldives
+
+*2025-08-29 01:16:13* · [`dailyftlk`](https://www.ft.lk/business/Yalamanchili-appoints-Dihan-Rodrigo-as-Country-Manager-for-Sri-Lanka-and-Maldives/34-780917) · `en`
+
+Yalamanchili Solutions for Payments (YSP), a Singapore based global technology leader in digital payment processing, has announced the appointment of Dihan Rodrigo as Country Manager for Sri Lanka and the Maldives.
+
+With this strategic appointment, YSP aims to strengthen its local presence and deliver enhanced support to partnering banks and financial institutions across the region.
+
+Rodrigo brings with him over 30 years of extensive experience in the banking and finance sector, with specialised expertise in payment cards and digital payment solutions.
+
+A respected figure in the industry, Rodrigo will lead YSP’s operations in Sri Lanka and the Maldives, spearheading initiatives to accelerate the digital transformation of the region’s financial landscape. His appointment reaffirms YSP’s commitment to empowering financial entities through cutting-edge technology, robust processing capabilities, and sustainable partnerships.
+
+...
+
+[Data](articles/7dfb2538.json)
+
+---
 
 ### Marianne Page appointed to CT Holdings Board
 
@@ -1797,47 +1827,5 @@ Speaking at a special media briefing today (28), the Minister affirmed this resp
 ◼️
 
 [Data](articles/35749006.json)
-
----
-
-### කුලියාපිටිය අනතුරේ ටිපර් රියදුරා රිමාන්ඩ්  - පැය 24කට අධිකව රිය ධාවනයේ
-
-*2025-08-28 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213885) · `si`
-
-පාසල් සිසුවියන් දෙදෙනෙකු ඇතුළු තිදෙනෙකුට මරු කැඳවමින් කුලියාපිටිය විලපොළ මංසන්ධියේ සිදුවූ අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටිපර් රථයේ රියදුරා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
-
-ඊයේ (27) උදෑසන ටිපර් රථයක් සහ පාසල් වෑන් රථයක් ගැටී විලපොළ මංසන්ධියේ පල්ලෙවෙල පාලම මතදී සිදුවූ අනතුරෙන් තිදෙනෙකු මියගොස් පාසල් සිසුවියන් 13 දෙනෙකු තුවාල ලැබීය.
-
-සිද්ධියට අදාළව කුලියාපිටිය පොලීසිය විසින් ටිපර් රථයේ රියදුරා අත්අඩංගුවට ගත් අතර ඔහු මෙලෙස අද කුලියාපිටිය මහේස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා හමුවට ඉදිරිපත් කෙරුණි.
-
-එහිදී ඉදිරිපත් වූ කරුණු සලකාබැලීමෙන් අනතුරුව සැකකාර ටිපර් රථ රියදුරා සැප්තැම්බර් මස 8 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
-
-අදාළ රියදුරා පැය 24කට අධික කාලයක් නිදිවර්ජිතව රිය ධාවනය කර ඇති බවට අනාවරණය වී ඇති බවද පොලීසිය අධිකරණය හමුවේ පවසා තිබේ.
-
-ඒ අනුව අදාළ ටිපර් රථයේ හිමිකරුට විරුද්ධව ද ඉදිරියේදී අවශ්‍ය නීතිමය ක්‍රියාමාර්ග ගන්නා බව අධිකරණයේදී අනාවරණය විය.
-
-◼️
-
-[Data](articles/60f9fbb4.json)
-
----
-
-### Historic operation in Indonesia led to arrest of 5 major Sri Lankan underworld figures at once - IGP
-
-*2025-08-28 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111938/historic-operation-in-indonesia-led-to-arrest-of-5-major-sri-lankan-underworld-figures-at-once-igp) · `en`
-
-The arrest of five of Sri Lanka’s most infamous underworld figures in Indonesia at once marks the first time in history that such an operation has been carried out, says Inspector General of Police (IGP) Priyantha Weerasooriya.
-
-Speaking at a press conference at the Department of Government Information this morning (28) regarding the arrest of major Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda,’ the IGP stated that five of those arrested individuals are currently subject to Red Notices issued by INTERPOL.
-
-The IGP confirmed that the operation was a joint effort between Sri Lanka’s Criminal Investigation Department (CID), the Indonesian Police in Jakarta, and INTERPOL.
-
-Meanwhile, the IGP noted that there has historically been political involvement in organized crime in the country, but emphasized that the situation has changed.
-
-He pointed out that an environment is now emerging in which criminals no longer have political protection.
-
-...
-
-[Data](articles/299825a8.json)
 
 ---

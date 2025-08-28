@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 23:32:42**
+As of **2025-08-28 23:52:18**
 
 ## Newspaper Stats
 
-*Scraped **72,936** Articles*
+*Scraped **72,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,019
 adaderanalk | 9,263
-tamilmirrorlk | 10,830
+tamilmirrorlk | 10,832
 virakesarilk | 11,979
 adaderanasinhalalk | 12,635
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,936 articles have been extended.
+61,973 (85.0%) of 72,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### பிக் பாஸ் புகழ் ஜனனி நடிக்கும் நிழல் படத்தின் ஃபர்ஸ்ட் லுக்
+
+*2025-08-28 23:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிக்-பாஸ்-புகழ்-ஜனனி-நடிக்கும்-நிழல்-படத்தின்-ஃபர்ஸ்ட்-லுக்/54-363695) · `ta`
+
+பிக்பாஸ் நிகழ்ச்சியின் மூலம் பிரபலமானவர் நடிகை ஜனனி. இலங்கையை சேர்ந்த இவர் தனியார் தொலைக்காட்சியில் தொகுப்பாளராக பணியாற்றினார். இதையடுத்து, பிக்பாஸ் 6 நிகழ்ச்சியில் பங்கேற்க கிடைத்த வாய்ப்பை சரியாக பயன்படுத்தி கொண்டார்.
+
+தற்போது, ஜனனி நிழல் படத்தில் ஹீரோயினாக நடித்து வருகிறார். இப்படத்தின் ஃபர்ஸ்ட் லுக் போஸ்டர் வெளியாகி உள்ளது.
+
+பிக்பாஸ் நிகழ்ச்சியில் கலந்து கொண்டு இளைஞர்களின் மனதில் இடம் பிடித்த ஜனனிக்கு ஜாக்பாட் அடித்தது போல, விஜய்யுடன் லியோ படத்தில் நடிக்கும் வாய்ப்பு கிடைத்தது. சினிமாவில் அறிமுகமான முதல் படத்திலேயே விஜய், த்ரிஷா என டாப் நடிகர்களின் படத்தில் நடித்தார்.
+
+லியோவில் அவருக்கு கிடைத்த கதாப்பாத்திரம் சிறியதாக இருந்தாலும், அதில் கன கச்சிதமாக பொருந்தி நடித்திருந்தார் ஜனனி. விஜய்யுடன் இணைந்து நடித்து அழுத்தமான நடிப்பை வெளிப்படுத்தி பலரின் பாராட்டை பெற்றார்.
+
+லியோ படத்திற்கு பிறகு நல்ல ரோலுக்காக காத்திருந்த ஜனனி, உசுரே படத்தில் ஹீரோயினாக நடித்திருந்தார். இந்த படம் ஜூன் மாதம் வெளியாகி கலவையான விமர்சனத்தை பெற்றது.
+
+...
+
+[Data](articles/c1b2ca3d.json)
+
+---
+
+### மற்றுமொரு விபத்தில் மாணவி உட்பட இருவர் மரணம்
+
+*2025-08-28 23:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-விபத்தில்-மாணவி-உட்பட-இருவர்-மரணம்/175-363694) · `ta`
+
+ஹொரவப்பொத்தானை - கஹடகஸ்திகிலிய பிரதான வீதியின் எலயாபத்து பகுதியில் இன்று இடம்பெற்ற வாகன விபத்தில் மாணவி உட்பட இருவர் உயிரிழந்துள்ளனர்.
+
+வவுனியாவிலிருந்து அனுராதபுரத்திற்கு கண்ணாடி ஏற்றிச் சென்ற லொறி வீதியை விட்டு விலகி, பாலத்தின் தடுப்பு வேலியில் மோதியதால் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+இந்த விபத்தில், பாடசாலை முடிந்து வீடு திரும்பிக் கொண்டிருந்த 10 வயதுடைய மாணவியும், லொறியின் உதவியாளரான 27 வயது இளைஞரும் உயிரிழந்துள்ளனர்.
+
+லொறியில் பயணித்த சாரதி மற்றும் மற்றொரு நபர் பலத்த காயங்களுடன் ஹொரவப்பொத்தானை வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக அனுராதபுரம் வைத்தியசாலைக்கு மாற்றப்பட்டதாக வைத்தியசாலைப் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+உயிரிழந்த மாணவி மற்றும் லொறி உதவியாளரின் சடலங்கள் ஹொரவப்பொத்தானை வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில், பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/0d2c372e.json)
+
+---
 
 ### රුසියාවෙන් යුක්‍රේන අගනුවරට දැවැන්ත ඩ්‍රෝන සහ මිසයිල ප්‍රහාරක්
 
@@ -1801,45 +1841,5 @@ The Police Media Spokesperson, Assistant Superintendent of Police (ASP) F. U. Wo
 ◼️
 
 [Data](articles/9559abc0.json)
-
----
-
-### ‘No one is above the law’: Govt committed to ensure everyone is held accountable - Public Security Minister
-
-*2025-08-28 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111936/no-one-is-above-the-law-govt-committed-to-ensure-everyone-is-held-accountable-public-security-minister) · `en`
-
-Minister of Public Security Ananda Wijepala revealed that the major Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda,’ who were arrested in Jakarta, Indonesia, will be repatriated to the country within the next two to three days.
-
-Speaking at a special press conference today (August 28), the Minister emphasized that the incumbent government has successfully restored the independence of law enforcement agencies, as promised.
-
-These underworld figures were arrested as part of a seven-day joint operation between Sri Lanka’s Criminal Investigation Department (CID) and the Indonesian Police. The operation was also supported by Indian intelligence agencies, according to Minister Wijepala.
-
-...
-
-[Data](articles/c7baff6a.json)
-
----
-
-### Sri Lanka working with India, Abu Dhabi and Indonesia to apprehend criminals: Official
-
-*2025-08-28 12:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-working-with-india-abu-dhabi-and-indonesia-to-apprehend-criminals-official-238535/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s police was working with India, Malaysia, Thailand, Abu Dhabi and Indonesia officials to apprehend criminals, Ministry of Public Security secretary Ravi Seneviratne said.
-
-“Organized criminal gangs operating from foreign states increased in the recent past,” Seneviratne told reporters. “This was a huge challenge to crack down on crime in our country.”
-
-“They operated from neighbouring countries such as India, Malaysia, Thailand, Abu Dhabi in the middle east, and Indonesia.”
-
-The government was able to build on bilateral ties, conduct discussions with these countries and work with them to apprehend criminals he said.
-
-“Intelligence agencies in India, Malaysia, Thailand, Abu Dhabi and Indonesia, aided us in this effort.”
-
-This enabled criminals operating from India and Abu Dhabi to be extradited back to Sri Lanka to face legal proceedings, he said.
-
-Underworld operative Kehelbaddara Padme, in particular, proved to be hard to catch, Seneviratne said.
-
-...
-
-[Data](articles/8e47c26a.json)
 
 ---

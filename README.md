@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 15:50:34**
+As of **2025-08-28 16:07:55**
 
 ## Newspaper Stats
 
-*Scraped **72,874** Articles*
+*Scraped **72,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 4,444
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,009
-adaderanalk | 9,249
-tamilmirrorlk | 10,821
-virakesarilk | 11,967
+adalk | 7,010
+adaderanalk | 9,250
+tamilmirrorlk | 10,823
+virakesarilk | 11,968
 adaderanasinhalalk | 12,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,874 articles have been extended.
+61,973 (85.0%) of 72,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### குளியாப்பிட்டி பாடசாலை வேன் விபத்து ; பாதிக்கப்பட்ட சிறுவர்களை வைத்தியசாலையில் பார்வையிட்டார் பிரதி அமைச்சர்
+
+*2025-08-28 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/223595) · `ta`
+
+குளியாப்பிட்டியில் இடம்பெற்ற துயரமான பாடசாலை வேன் விபத்தில் காயமடைந்த சிறுவர்களின் நிலையைப் பார்வையிட மகளிர் மற்றும் சிறுவர்கள் விவகார பிரதி அமைச்சர்  நாமல் சுதர்சன இன்று வியாழக்கிழமை (28) குருநாகல் போதனா வைத்தியசாலைக்குச் சென்றார்.
+
+குளியாப்பிட்டியில் உள்ள விலாபொல சந்திப்பில் உள்ள பல்லேவெல பாலத்தில் நேற்று புதன்கிழமை (27) காலை இந்த விபத்து நிகழ்ந்தது. இந்த விபத்தில் இரண்டு சிறுவர்கள் மற்றும் சாரதி உயிரிழந்தனர். மேலும் பல குழந்தைகள் காயமடைந்து தற்போது வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+வடமேற்கு மாகாண ஆளுநர் திஸ்ஸ வர்ணசூரிய, விவசாயம் மற்றும் கால்நடை பிரதி அமைச்சர் நாமல் கருணாரத்ன மற்றும் பிற அரச பிரதி அமைச்சருடன் வைத்தியசாலைக்கு உடன் சென்றிருந்தனர்.
+
+காயமடைந்த சிறுவர்களின் நல்வாழ்வையும் ஆரோக்கியத்தையும் உறுதி செய்வதற்குத் தேவையான நடவடிக்கைகளை எடுக்குமாறு அமைச்சர் சுதர்சன சம்பந்தப்பட்ட அதிகாரிகளுக்கு வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/8fc39c4e.json)
+
+---
+
+### நானுஓயா நாய் விவகாரம்: வீடியோ இணைப்பு
+
+*2025-08-28 15:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-நாய்-விவகாரம்-வீடியோ-இணைப்பு/76-363668) · `ta`
+
+நானுஓயாவைச் சேர்ந்த இளைஞன், வளர்ப்பு நாயை தூக்கி நிலத்தில் அடித்து, அதன்பின்னர் ஆற்றில் வீசிய சம்பவம் தொடர்பிலான வீடியோ, சமூக வலைத்தளங்களில் வைரலாகியுள்ளது
+
+◼️
+
+[Data](articles/bfa130cf.json)
+
+---
+
+### ரணில்-ஹரிணி விவகாரம்: சிசிடிவியை ஆராய கோருகிறது சிஐடி
+
+*2025-08-28 15:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஹரிணி-விவகாரம்-சிசிடிவியை-ஆராய-கோருகிறது-சிஐடி/175-363667) · `ta`
+
+பிரதமர் கலாநிதி ஹரிணி அமரசூரிய முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கொழும்பு தேசிய மருத்துவமனையில் சந்தித்ததாகக் கூறப்படும் சமூக ஊடகப் பதிவுகள் குறித்த விசாரணையில், தேவைப்பட்டால் கொழும்பு தேசிய மருத்துவமனையின் சி.சி.டி.வி காட்சிகளை ஆய்வு செய்ய அனுமதி வழங்க முடியும் என்று மாளிகாகந்த நீதவான் குற்றப் புலனாய்வுத் துறைக்கு (சி.ஐ.டி) வியாழக்கிழமை (28) தெரிவித்தார்.
+
+பிரதமர் அமரசூரிய மற்றும் அவரது பாதுகாப்புப் பணியாளர்களிடமிருந்து வாக்குமூலங்களைப் பதிவு செய்யுமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதவான் லோச்சனி அபேவிக்ரம உத்தரவிட்டார்.
+
+பிரதமர் ஹரிணி அமரசூரிய, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை மருத்துவமனையில் சந்தித்ததாகக் கூறும் சமூக ஊடகப் பதிவுகள் குறித்து விசாரணைகள் ஏற்கெனவே ஆரம்பிக்கப்பட்டுள்ளதாக, குற்றப் புலனாய்வுப் பிரிவினர், நீதவானிடம் தெரிவித்தனர்.
+
+விசாரணைகள் தொடர்பாக தேசிய மருத்துவமனையின் சிசிடிவி காட்சிகளை ஆய்வு செய்யுமாறு சிஐடி விடுத்த கோரிக்கையை பரிசீலித்த பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/5ce7ab97.json)
+
+---
 
 ### வெண்மையாக்கும் பற்பசை பற்களை வெண்மையாக்குவதில்லை - எச்சரிக்கை விடுக்கும் சுகாதார அமைச்சு
 
@@ -49,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5de28913.json)
+
+---
+
+### Second round of review of new Anti-Terrorism Bill underway
+
+*2025-08-28 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111947/second-round-of-review-of-new-anti-terrorism-bill-underway) · `en`
+
+President’s Counsel Rienzie Arsekularatne, the Chairman of the expert committee appointed under Cabinet approval to draft the new Anti-Terrorism Bill stated that the committee’s work will be completed within the month of September.
+
+This was confirmed by Chairman Arsekularatne when the committee appointed for this task convened at the Ministry of Justice and National Integration.
+
+He also confirmed that the proposed amendments to the draft legislation are currently undergoing a second round of critical review.
+
+With Cabinet approval, the Minister of Justice and National Integration appointed the expert committee to repeal the current Prevention of Terrorism (Temporary Provisions) Act No. 48 of 1979 and to formulate new legislation.
+
+...
+
+[Data](articles/4fd8e4ed.json)
 
 ---
 
@@ -238,6 +304,20 @@ Accordingly, all medical reports regarding his condition have now been submitted
 
 ---
 
+### සහස්දනවි සහ සොබාදනවි ගැන ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය
+
+*2025-08-28 13:58:44* · [`adalk`](https://www.ada.lk/breaking_news/සහස්දනවි-සහ-සොබාදනවි-ගැන-ආංශික-අධීක්ෂණ-කාරක-සභාවේ-අවධානය/11-418126) · `si`
+
+ඉදිරියේදී වැඩ අවසන් කිරීමට නියමිත කෙරවලපිටිය සහස්දනවි ද්‍රවීකෘත ස්වාභාවික වායු (LNG) බලාගාරයට අදාළව අනුමතිය ලබාගත් කැබිනට් පත්‍රිකාවේ අන්තර්ගත මිල ගණන් වර්තමානයට ගැළපෙන පරිදි වෙනස් කිරීමේ අවශ්‍යතාව යටිතල පහසුකම් සහ උපාය මාර්ගික සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී පෙන්වා දෙන ලදී. එම මිල ගණන් සඳහා එවකට මෙම ප්‍රසම්පාදන ක්‍රියාවලිය ආරම්භවූ  2021 වසරේ පැවති ඉන්ධන මිල සහ ඩොලරයේ අගය වැනි සාධක පදනම්වී ඇති බැවින් එහි වත්මන් මිල ගණන්වල තත්ත්වය පිළිබඳව කැබිනට් මණ්ඩලය දැනුවත් කිරීමට පියවර ගන්නා ලෙස ද කාරක සභාව බලශක්ති අමාත්‍යාංශයට  දැනුම් දුන්නේය.
+
+එම කාරක සභාව ගරු පාර්ලිමේන්තු මන්ත්‍රී එස්. එම්. මරික්කාර් මහතාගේ සභාපතිත්වයෙන් පසුගියදා (25) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම දැනුම් දීම සිදු කෙරිණි. විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු නලින් බණ්ඩාර සහ ජගත් විතාන යන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ද මෙම කාරක සභා රැස්වීමට එක්ව සිටියහ. විදුලිබල සහ බලශක්ති අමාත්‍යාංශයේ ලේකම්වරයා මෙන්ම ලංකා විදුලිබල මණ්ඩලය සහ මහජන උපයෝගිතා කොමිෂන් සභාව යන ආයතන නියෝජනය කරමින් නිලධාරීහු ද මෙම අවස්ථාවට සහභාගී වූහ.
+
+...
+
+[Data](articles/7204e5d5.json)
+
+---
+
 ### வடமேற்கு நைஜீரியாவில் கொலரா தொற்று ; 08 பேர் உயிரிழப்பு ; 200க்கும் மேற்பட்டோர் பாதிப்பு
 
 *2025-08-28 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223581) · `ta`
@@ -312,7 +392,15 @@ The petition has been scheduled to be taken up again on September 10.
 
 Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been further remanded until September 4 by the Colombo Magistrate’s Court, said Ada Derana reporter.
 
-◼️
+The order was issued by Colombo Additional Magistrate Lahiru Silva after considering the submissions made by the Colombo Crimes Division (CCD) and the suspect’s legal representatives during the hearing of the case.
+
+Halloluwa has been named as a suspect in connection with a shooting incident that took place on May 17 in Narahenpita area, targeting a vehicle he was traveling in.
+
+When the case was called, officers of the CCD informed court that the suspect had attempted to evade investigations, and therefore, a warrant had been obtained to arrest him, after which he was produced before court.
+
+Although the suspect was initially identified as a victim in the incident, police revealed that subsequent investigations showed discrepancies between his initial statements and later findings.
+
+...
 
 [Data](articles/65c48d90.json)
 
@@ -1777,99 +1865,5 @@ He made the remarks during a pre-Budget 2026 discussion with plantation sector e
 ...
 
 [Data](articles/447a86ea.json)
-
----
-
-### Govt. awards six-month petrol supply deal to Aditya Birla Global Trading
-
-*2025-08-28 04:15:52* · [`dailyftlk`](https://www.ft.lk/business/Govt-awards-six-month-petrol-supply-deal-to-Aditya-Birla-Global-Trading/34-780903) · `en`
-
-The Government yesterday announced that the Cabinet of Ministers had approved awarding a six-month contract to Aditya Birla Global Trading (Singapore) Ltd., for the supply of petrol to Sri Lanka for six months.
-
-The contract covers the delivery of 1.5 million (+/-5%) barrels of 92 Octane Unleaded Petrol over a six-month period from 15 September 2025 to 14 March 2026.
-
-“Supply will be made in five shipments of 300,000 (+/-5%) barrels each,” Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
-
-The Ceylon Petroleum Corporation (CPC) had earlier called for quotations from its registered suppliers, receiving bids from eight international suppliers. Following an evaluation process, the Special Standing Procurement Committee appointed by the Cabinet recommended awarding the contract to Aditya Birla Global Trading.
-
-The proposal to this effect was submitted by Energy Minister Eng. Kumara Jayakody.
-
-◼️
-
-[Data](articles/b307ea0c.json)
-
----
-
-### New Mediation Bill gets committee-level nod
-
-*2025-08-28 04:15:31* · [`dailyftlk`](https://www.ft.lk/business/New-Mediation-Bill-gets-committee-level-nod/34-780902) · `en`
-
-Parliament Secretariat says new Bill to repeal Commercial Mediation Centre Act, No. 44 of 2000
-
-Improved protections and enforcement and minimum standards for resolving civil and commercial disputes
-
-To ease pressure on legal system and reduce costs of litigation
-
-Dispute resolution slow and costly, biggest pain point in attracting investment
-
-The Parliament Secretariat yesterday said a Parliamentary oversight committee had approved a new Bill to enforce mediated settlements, provide greater protection for participants, and set minimum standards for resolving civil and commercial disputes that would ease pressure on the legal system.
-
-The Sectoral Oversight Committee on Governance, Justice and Civil Protection, chaired by ruling party National People’s Power (NPP) MP lawmaker Dr. Najith Indika, approved the Mediation (Civil and Commercial Disputes) Bill at a session held recently in Parliament, the Secretariat said in a statement.
-
-...
-
-[Data](articles/1ff68f37.json)
-
----
-
-### Govt. assures  continuity of Pekoe Trail despite Founder’s exit
-
-*2025-08-28 04:14:52* · [`dailyftlk`](https://www.ft.lk/business/Govt-assures-continuity-of-Pekoe-Trail-despite-Founder-s-exit/34-780901) · `en`
-
-Tourism Minister Vijitha Herath yesterday reaffirmed that the Government remains fully committed to the continuation of the Pekoe Trail project, despite the exit of its Founder Miguel Cunat.
-
-Responding to questions raised at the post-Cabinet meeting media briefing, Herath stressed that the project is not dependent on any individual. “The Pekoe Trail will continue irrespective of personal resignations. The Government is committed to ensuring its success,” he said.
-
-Cunat, a sustainable tourism pioneer and long-time resident of Sri Lanka, dedicated more than a decade to exploring and mapping Sri Lanka’s central highlands in order to create the country’s first long-distance hiking route. His work was supported by a three-year program funded by the EU and United States Agency for International Development (USAID), aimed at promoting sustainable and community-based tourism.
-
-...
-
-[Data](articles/13f84a7b.json)
-
----
-
-### Pradeep Kahawalage elected to chair CNCI
-
-*2025-08-28 04:14:12* · [`dailyftlk`](https://www.ft.lk/business/Pradeep-Kahawalage-elected-to-chair-CNCI/34-780900) · `en`
-
-Newly elected Chairman Pradeep Kahawalage being garlanded by outgoing Chairman Kevin Edwards
-
-Pradeep Kahawalage was elected as the Chairman of the Ceylon National Chamber of Industries (CNCI) at the 64th Annual General Meeting (AGM). The AGM was held on 26 August at the Hotel Taj Samudra, Colombo.
-
-...
-
-[Data](articles/990a22b0.json)
-
----
-
-### Govt. reaffirms sovereignty over Kachchatheevu amid Indian election rhetoric
-
-*2025-08-28 04:09:14* · [`dailyftlk`](https://www.ft.lk/news/Govt-reaffirms-sovereignty-over-Kachchatheevu-amid-Indian-election-rhetoric/56-780899) · `en`
-
-Foreign Affairs Minister Vijitha Herath says no change in ownership indicated by Indian Govt. or through diplomatic channels
-
-Stresses similar claims surface during Indian elections, but never lead to policy change
-
-Confirms agreements signed with Indian PM Narendra Modi under judicial review
-
-Notes online petition pending; says documents will be available once legal process concludes
-
-Foreign Affairs Minister Vijitha Herath yesterday reiterated that Kachchatheevu Island remains undisputedly Sri Lankan territory, stressing that there has been no change in ownership indicated either by the Government of India or through diplomatic channels.
-
-He made the remarks at the post-Cabinet meeting media briefing in Colombo, responding to questions over recent statements by Tamilaga Vettri Kazhagam (TVK) Leader and Kollywood actor Vijay, who raised the Kachchatheevu issue during a political rally in Tamil Nadu.
-
-...
-
-[Data](articles/087c00e2.json)
 
 ---

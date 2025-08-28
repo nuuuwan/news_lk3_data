@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 06:34:05**
+As of **2025-08-28 07:17:29**
 
 ## Newspaper Stats
 
-*Scraped **72,778** Articles*
+*Scraped **72,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 6,998
 adaderanalk | 9,230
 tamilmirrorlk | 10,793
 virakesarilk | 11,958
-adaderanasinhalalk | 12,600
+adaderanasinhalalk | 12,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,778 articles have been extended.
+61,973 (85.2%) of 72,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### පානදුරේ වෙඩි තැබීමෙන් පුද්ගලයෙකු මරුට - අපරාධ කල්ලි අතර ගැටුමක් බවට තොරතුරු
+
+*2025-08-28 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213871) · `si`
+
+පානදුර අලුබෝගහවත්ත ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+ඊයේ (27) රාත්‍රී නිවසක සිටි පුද්ගලයෙකුට යතුරු පැදියකින් පැමිණි බවට සැක කරන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර පලාගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+වෙඩි වැදීමෙන් එම පුද්ගලයා මියගොස් ඇති අතර මෙලෙස මියගොස් ඇත්තේ 55 හැවිරිදි අලුබෝගහවත්ත ප්‍රදේශයේ පදිංචිකරුවෙක් බව සඳහන්ය.
+
+ඝාතනයට හේතුව හා යොදා ගත් ගිනිඅවිය පිළිබඳ මෙතෙක් තොරතුරු අනාවරණය වී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් පානදුර දකුණ පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පානදුර නිලංග නැමති අපරාධ කල්ලි සාමාජිකයාගේ මාමණ්ඩිය බව වාර්තා වේ.
+
+පානදුර සලිඳු නැමති අපරාධ කල්ලි සාමාජිකයාගේ මෙහෙය වීම මත අදාළ වෙඩි තැබීම සිදුකර ඇති බවට සැකපළ වී ඇති බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8a5766e0.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-08-28 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213869) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සබරගමුව පළාතේත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-5‍0ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+තද සුළංවලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහලින් පවතී.
+
+අද දින (28) දහවල් 12:11 ට නාගදීපය (නයිනතිව්), පුනරීන් , මානෙල්කාඩු , අලියාවලෙයි ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
+
+◼️
+
+[Data](articles/efab1035.json)
+
+---
 
 ### Foreign Minister draws line between personal and official travel in Wickremesinghe probe
 
@@ -1667,41 +1711,5 @@ Top contributors to ASPI were Access Engineering (up 2.60 rupees at 60.50), Vall
 ...
 
 [Data](articles/a17591c4.json)
-
----
-
-### President discusses boosting dollar reserves with export sector business leaders
-
-*2025-08-27 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111914/president-discusses-boosting-dollar-reserves-with-export-sector-business-leaders) · `en`
-
-A pre-budget discussion for the year 2026 was held yesterday (26) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake with private sector entrepreneurs in the plantation sector to gather insights and recommendations regarding issues in the export sector.
-
-The government of Sri Lanka has made notable progress in enhancing state revenue and achieving a degree of economic stability. Accordingly, the aim of this discussion was to gather insights from business leaders and industrialists regarding strategies to bolster dollar reserves, a crucial factor for maintaining the stability of the nation’s economy, the President’s Media Division (PMD) said.
-
-During the meeting, President Anura Kumara Dissanayake stated that it is the responsibility of the government to provide the necessary facilities and support to entrepreneurs and industrialists.
-
-...
-
-[Data](articles/3445c09b.json)
-
----
-
-### වෛද්‍ය රුක්ෂාන් බෙල්ලනට විනය පරීක්ෂණයක්
-
-*2025-08-27 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213854) · `si`
-
-කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතාට එරෙහිව විනය පරීක්ෂණයක් සිදුකිරීමට බලාපොරොත්තු වන බව වැඩබලන සෞඛ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතා පැවසීය.
-
-මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය හංසක විජේමුණි මහතා පවසා සිටියේ, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මාධ්‍යයට ඔහුගේ සෞඛ්‍ය තත්ත්වය පිළිබඳ තොරතුරු හෙළි කිරීම සම්බන්ධයෙන් මෙම විනය පරීක්ෂණය සිදුකිරීමට බලාපොරොත්තු වන බවය.
-
-"රනිල් වික්‍රමසිංහ මහත්තයාගේ සෞඛ්‍ය තත්තවය ගැන ප්‍රකාශ නිකුත් කරලා තිබ්බා කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂකවරයෙක්. ඔහුට එහෙම නිවේදන නිකුත් කිරීමට කිසිම අයිතියක් නෑ.
-
-එයාගෙ සෙක්ෂන් එකේ නෙවෙයි අර මහත්තයා හිටියේ ඇඩ්මිට් වෙලා. අපිට රෝගියෙක් ආවම ඒ හැම රෝගියෙක්ම රෝගියෙක්. ඒ වගේම අපි කරන්න පුලුවන් උපරිම දේ කරනවා සෞඛ්‍ය අමාත්‍යංශය විදියට.
-
-නමුත් ජාතික රෝහලේ ඔය කියන පුද්ගලයා කරන්නේ එයාට අයිති නැති ජොබ් එකක්. ඒකට අනිවාර්යෙන් පරීක්ෂණයක් කරන්න ඕන. මොකද රෝගියෙක්ගේ තොරතුරු ඔහු කුමන තරාතිරමක වුනත් ජනමාධ්‍යකට ලබාදීමට කිසිදු අයිතියක් නෑ. ඔහුගේ සමහර ක්‍රියා කලාප නීත්‍යාකූල නෑ.
-
-...
-
-[Data](articles/fa0d9953.json)
 
 ---

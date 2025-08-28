@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 03:07:18**
+As of **2025-08-29 03:18:07**
 
 ## Newspaper Stats
 
-*Scraped **72,947** Articles*
+*Scraped **72,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,155
+dailyftlk | 5,156
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,947 articles have been extended.
+61,973 (85.0%) of 72,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Are tobacco taxes still a reliable source of revenue?
+
+*2025-08-29 02:51:10* · [`dailyftlk`](https://www.ft.lk/opinion/Are-tobacco-taxes-still-a-reliable-source-of-revenue/14-780929) · `en`
+
+Tobacco taxes have been a cash cow for governments around the world. World Health Organisation (WHO) data suggest that combined annual global taxes on cigarettes are approaching $1 trillion. In many countries, however, cigarette tax collections shrink each year because fewer people smoke. This tremendous win for public health should be a cause for celebration.
+
+But for governments that have become dependent on their tobacco tax revenue, declining revenue means fewer resources available to spend on programs linked to that revenue. Rather than try to fund government programs with a broader and more stable source of revenue, some groups have called to push tobacco rates even higher in an attempt to restore and grow tobacco revenue.
+
+...
+
+[Data](articles/223cf572.json)
+
+---
 
 ### WCIC launches Prathibhabhisheka Women Entrepreneur Awards 2025
 
@@ -1811,19 +1825,5 @@ Speaking at a special media briefing today (28), the Minister affirmed this resp
 ◼️
 
 [Data](articles/5845d5f1.json)
-
----
-
-### කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස මෙරටට ගේන දිනය ගැන ඇමතිගෙන් ප්‍රකාශයක්
-
-*2025-08-28 12:44:48* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේ-ඇතුළු-පිරිස-මෙරටට-ගේන-දිනය-ගැන-ඇමතිගෙන්-ප්‍රකාශයක්/11-418121) · `si`
-
-ඉන්දුනීසියාවේ දී සිදුකළ ඒකාබද්ධ මෙහෙයුමකින් අනතුරුව අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් ඉදිරි දින දෙක තුන තුළ මෙරටට ගෙන්වා ගැනීමට කටයුතු කරන බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.
-
-අද(28දා) පැවති මාධ්‍ය හමුවකට එක්වෙිම්න් හෙතෙම මේ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/a98ddf9c.json)
 
 ---

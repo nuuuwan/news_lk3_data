@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 22:22:54**
+As of **2025-08-28 22:34:59**
 
 ## Newspaper Stats
 
-*Scraped **72,932** Articles*
+*Scraped **72,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,018
-adaderanalk | 9,261
+adaderanalk | 9,263
 tamilmirrorlk | 10,830
 virakesarilk | 11,979
 adaderanasinhalalk | 12,634
@@ -26,11 +26,49 @@ adaderanasinhalalk | 12,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,932 articles have been extended.
+61,973 (85.0%) of 72,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### New details emerge on arrest of five underworld figures including  Kehelbaddara Padme’ in Indonesia
+
+*2025-08-28 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111962/new-details-emerge-on-arrest-of-five-underworld-figures-including-kehelbaddara-padme-in-indonesia) · `en`
+
+New details have emerged regarding the arrest of five high-profile underworld figures, including Kehelbaddara Padme, who are linked to multiple murders—including the killing of Ganemulla Sanjeewa—and major drug trafficking operations.
+
+The suspects were apprehended during a joint special operation conducted by a special team of Sri Lanka Police in collaboration with the Jakarta Police. Authorities are preparing to bring them back to Sri Lanka promptly, according to police sources.
+
+Among those arrested are Mandinu Padmasiri, alias Kehelbaddara Padme, Commando Salintha, and Kudu Nilantha, who were believed to be hiding in Jakarta. Sri Lankan police recently received credible intelligence regarding their whereabouts.
+
+Following this, a covert operation was launched under the direct supervision of Inspector General of Police Priyantha Weerasooriya.
+
+...
+
+[Data](articles/9e7dde94.json)
+
+---
+
+### Several arrested for killing pregnant spotted deer in Wilpattu National Park
+
+*2025-08-28 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111961/several-arrested-for-killing-pregnant-spotted-deer-in-wilpattu-national-park) · `en`
+
+A total of five individuals have been arrested today (28) by wildlife officers for allegedly shooting and killing a pregnant spotted deer in the Kukulkatuwa -Bittuwa wildlife zone, within the Wilpattu National Park.
+
+The arrested individuals, aged 31, 40, and 52 are residents of Ranorawa, Nochchiyagama, and Anuradhapura.
+
+The firearm used in the shooting and two motorcycles used by the suspects were also taken into custody by the wildlife officers.
+
+It is reported that the group has been repeatedly involved in poaching wild animals that meander within the national park at night in search of water during the dry season. They have allegedly been killing the animals and selling the meat.
+
+This raid was carried out by Wilpattu National Park officials based on intelligence received regarding their activities.
+
+◼️
+
+[Data](articles/988e9441.json)
+
+---
 
 ### පද්මේ ඇතුළු පාතාල චණ්ඩි ඉන්දුනීසියාවේ දී කොටු වූ හැටි
 
@@ -1801,41 +1839,5 @@ Underworld operative Kehelbaddara Padme, in particular, proved to be hard to cat
 ...
 
 [Data](articles/acfbe607.json)
-
----
-
-### இராணுவ அணிவகுப்பில் பங்கேற்கும் புட்டின், கிம் ஜாங் உன்
-
-*2025-08-28 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/223563) · `ta`
-
-மேற்குலக அழுத்தங்களுக்கு மத்தியில், கூட்டு எதிர்ப்பை வெளிப்படுத்தும் விதமாக, ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டின் மற்றும் வட கொரிய ஜனாதிபதி கிம் ஜாங் உன் ஆகியோர் பீஜிங்கில் நடைபெறும் இராணுவ அணிவகுப்பில் கலந்துகொள்ள உள்ளனர்.
-
-சீன ஜனாதிபதி ஜி ஜின்பிங்குடன் ரஷ்யா் மற்றும் வட கொரியா ஆகிய இரு நாட்டுத்தலைவர்களும் ஒன்றாகப் பொதுவெளியில் தோன்றும் முதல் சந்தர்ப்பம் இதுவாகும்.
-
-ஐரோப்பிய ஒன்றிய உறுப்பு நாடான ஸ்லோவாக்கியாவின் பிரதமர் ரொபர்ட் ஃபிகோவைத் தவிர்ந்த,  அடுத்த வாரம் அணிவகுப்பில் கலந்து கொள்ளும் 26 வெளிநாட்டு அரச தலைவர்கள் மற்றும் அரசாங்கத் தலைவர்களில் எந்த மேற்கத்திய தலைவர்களும் இடம்பெறமாட்டார்கள் என சீன வெளிவிவகார அமைச்சு வியாழக்கிழமை தெரிவித்துள்ளது.
-
-செப்டம்பர் மாதம் 3 ஆம் திகதி நடைபெறும் "வெற்றி நாள்" அணிவகுப்பின் போது, சீனாவின் வளர்ந்து வரும் இராணுவ வலிமையின் பின்னணியில், இந்த மூன்று தலைவர்களும், சீனா மற்றும் உலகளாவிய தெற்கு நாடுகளுக்கு இடையேயான ஒற்றுமையை மட்டுமல்லாமல், தடைகளால் பாதிக்கப்பட்ட ரஷ்யா மற்றும் வட கொரியாவுடனான தங்கள் ஒருமைப்பாட்டையும் வெளிப்படுத்துவார்கள்.
-
-...
-
-[Data](articles/f4b921a4.json)
-
----
-
-### செல்ஃபி உயிரிழப்பு:  இந்தியா முதலிடம்
-
-*2025-08-28 11:22:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்ஃபி-உயிரிழப்பு-இந்தியா-முதலிடம்/175-363648) · `ta`
-
-உலக அளவில் செல்ஃபி உயிரிழப்புகள் இந்தியாவிலேயே அதிகம் ஏற்பட்டுள்ளதாக அமெரிக்க தனியார் நிறுவனம் ஒன்று ஆய்வு மேற்கொண்ட ஆய்வில் தெரிவிக்கப்பட்டுள்ளது.
-
-உலக அளவில் கடந்த 2014 மார்ச் முதல் 2025 மே மாதம் வரையில் ஏற்பட்ட செல்ஃபி உயிரிழப்பு தரவுகளை அடிப்படையாக கொண்டு ‘தி பார்பர் லா ஃபிர்ம்’ என்ற நிறுவனம் இந்த ஆய்வை நடத்தியுள்ளது.
-
-அதன்படி, இந்த குறிப்பிட்ட காலகட்டத்தில் இந்தியாவில் மட்டும் சுமார் 271 விபத்துகள் செல்ஃபி எடுக்கும்போது ஏற்பட்டுள்ளது. அதில், 214 பேர் உயிரிழந்துள்ளனர். 57 பேர் காயமடைந்துள்ளனர். ஒட்டுமொத்தமாக இந்த காலகட்டத்தில் செல்ஃபி மோகத்தால் ஏற்பட்ட வியாபிரீதங்களில் 42.1% இந்தியாவில் நடந்துள்ளதாக அந்த நிறுவனம் தெரிவித்துள்ளது.
-
-மக்கள் கூட்டம் அதிகம் நிறைந்த பகுதி, ரயில் பாதை அல்லது மலை உச்சி, உயரமான கட்டிடம் என ஆபத்து நிறைந்த இடங்கள், இந்தியாவில் நிலவும் சமூக வலைதள மோகம் உள்ளிட்டவை இதற்கு காரணம் என ஆய்வை மேற்கொண்ட வல்லுநர்கள் தெரிவித்துள்ளனர்.
-
-...
-
-[Data](articles/161305a0.json)
 
 ---

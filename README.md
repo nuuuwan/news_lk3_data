@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 04:32:19**
+As of **2025-08-29 04:49:55**
 
 ## Newspaper Stats
 
-*Scraped **72,959** Articles*
+*Scraped **72,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,163
-adalk | 7,019
+dailyftlk | 5,168
+adalk | 7,020
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
 virakesarilk | 11,984
@@ -26,11 +26,95 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,959 articles have been extended.
+61,973 (84.9%) of 72,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Hemas opens first Piyawara preschool in plantation sector
+
+*2025-08-29 04:30:59* · [`dailyftlk`](https://www.ft.lk/news/Hemas-opens-first-Piyawara-preschool-in-plantation-sector/56-780963) · `en`
+
+From left: Hemas Outreach Foundation Executive Director Shiromi Masakorala, Chairperson Abbas Esufally, and Senior Manager – Group Sustainability and Special Projects Mindika Thilakarathna at the opening of the first Piyawara preschool in the plantation sector
+
+The Hemas Outreach Foundation, dedicated to transforming early childhood education in Sri Lanka, recently opened its first Piyawara preschool in the plantation sector at the Pedro Estate, Nuwara Eliya. The initiative, carried out in partnership with the Plantation Human Development Trust (PHDT) and Kelani Valley Plantations, is part of Hemas’ broader efforts to expand access to quality education for underserved communities.
+
+...
+
+[Data](articles/77744e5e.json)
+
+---
+
+### Uma Rajamantri installed as 39th President of Rotary Club of Colombo Mid-City
+
+*2025-08-29 04:28:05* · [`dailyftlk`](https://www.ft.lk/news/Uma-Rajamantri-installed-as-39th-President-of-Rotary-Club-of-Colombo-Mid-City/56-780962) · `en`
+
+The Rotary Club of Colombo Mid-City recently held its 39th Presidential Installation at Hilton Colombo, where Uma Rajamantri was inducted as President for 2025–26, alongside her newly appointed Board of Directors, in the presence of distinguished Past District Governors and District Governor-Elect Kumar Sundaraj, as well as corporate leaders.
+
+District Governor Delvin Pereira graced the occasion, emphasising this year’s Rotary theme, “Unite for Good,” and highlighting the importance of collaboration between clubs and the district to drive meaningful community impact. Immediate Past President Sethu Ramalingam reflected on his “Year in Action,” showcasing the Club’s achievements before formally handing over the mantle of leadership.
+
+Guest of Honour Eran Wickramaratne addressed the gathering on the significance of the Small and Medium Enterprise (SME) sector, underlining its critical role in economic growth and community development.
+
+...
+
+[Data](articles/be68dec4.json)
+
+---
+
+### Killing the Travellers documentary sheds light on forgotten Kurukkalmadam massacre
+
+*2025-08-29 04:25:12* · [`dailyftlk`](https://www.ft.lk/news/Killing-the-Travellers-documentary-sheds-light-on-forgotten-Kurukkalmadam-massacre/56-780961) · `en`
+
+A new documentary, Killing the Travellers: Kurukkalmadam Massacre, directed by British-Sri Lankan filmmaker Baazir Kaleelur Rahman, has brought renewed attention to one of Sri Lanka’s most tragic and overlooked episodes of the civil war.
+
+The 25-minute documentary, produced in Tamil and subtitled in English, examines the 1990 abduction and killing of Muslim travellers on the roads around Kattankudy, shedding light on the human cost of conflict and the impact on relations between the Muslim and Tamil communities, strongly emphasising the urgent need for justice for the victims and their families.
+
+...
+
+[Data](articles/07b1a1f1.json)
+
+---
+
+### AKD’s domestic travel details exempt from RTI
+
+*2025-08-29 04:20:46* · [`dailyftlk`](https://www.ft.lk/news/AKD-s-domestic-travel-details-exempt-from-RTI/56-780960) · `en`
+
+The Presidential Secretariat on Wednesday rejected a Right to Information (RTI) request from a citizen for details of President Anura Kumara Disanayake’s domestic travel.
+
+The RTI was rejected because “the information requested is directly relevant to the security sensitive information of the Hon. President,” the letter rejecting the RTI issued by the Presidential Secretariat said.
+
+The request had been submitted on 4 August by Jinath Premaratne. The Secretariat’s response, dated 27 August, cited Section 5(1)(b)(i) of the RTI Act as the legal basis for refusal, noting that the details sought fell within the exemption covering information tied to presidential security.
+
+...
+
+[Data](articles/87b31576.json)
+
+---
+
+### Police nabs five underworld kingpins in joint international operation
+
+*2025-08-29 04:20:19* · [`dailyftlk`](https://www.ft.lk/news/Police-nabs-five-underworld-kingpins-in-joint-international-operation/56-780959) · `en`
+
+Operation involves Sri Lanka Police, CID, Indonesian Police, INTERPOL, and Indian intelligence agencies; suspects to be repatriated within 2–3 days
+
+Public Security Minister Ananda Wijepala says crackdown marks end of political protection for organised crime; vows end to political-crime nexus
+
+Affirms no one is above the law; probes into role of politicians who allegedly enabled criminal networks, investigations extend to assets of detained suspects
+
+Says nearly 75 red warrants issued; over 20 underworld figures already brought back in recent months
+
+Reveals plan to establish a Special Court for swift prosecution of organised crime cases
+
+Public Security Ministry Secretary Ravi Seneviratne says law enforcement now operates free from political interference for first time in decades
+
+IGP Priyantha Weerasooriya says Sri Lankan criminals remain active overseas, including in Dubai, Oman, Russia, Belarus and France, with further operations planned
+
+...
+
+[Data](articles/ae4d372b.json)
+
+---
 
 ### Govt. identifies national research priorities
 
@@ -1108,6 +1192,22 @@ Provincial minister Marriyum Aurangzeb said floods hit 1,432 villages located al
 
 ---
 
+### රාජිත හෙට අධිකරණයේ පෙනී සිටින බව නීතිඥවරයා පවසයි
+
+*2025-08-28 16:57:43* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-හෙට-අධිකරණයේ-පෙනී-සිටින-බව-නීතිඥවරයා-පවසයි/11-418131) · `si`
+
+කිරින්ද ධීවර වරායේ වැලි කැණීමේ ව්‍යාපෘතියක් කොරියානු සමාගමකට ලබාදී රජයට රුපියල් කෝටි දෙකකට අධික පාඩුවක් කළැයි කියන සිද්ධියට අදාළව මාස තුනක පමණ කාලයක් තිස්සේ සැඟව සිටින හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා හෙට (29) කොළඹ මහෙස්ත්‍රාත් අධිකරණයේ පෙනී සිටීමට සුදානම් බව ඔහුගේ නීතීඥවරයා කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංග වංශ මහත්මියට අද (28) දැනුම් දුන්නේය.
+
+වහාම අත්අඩංගුවට ගන්නා ලෙස නියම කරමින් මහේස්ත්‍රාත් අධිකරණයෙන් නිකුත් කර ඇති වරෙන්තුව අත්හිටුවන්නැයි ඉල්ලමින් රාජිත සේනාරත්න මහතා ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම කැඳවූ අවස්ථාවේදී ඒ බව දැනුම් දෙමින් ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ කාලිංග ඉන්දතිස්ස මහතා කළ ඉල්ලීමකට අනුව විනිසුරුවරිය අල්ලස් කොමිසමේ අධ්‍යක්‍ෂ ජනරාල්වරයාට අධිකරණයේ පෙනී සිටින ලෙස නියම කරමින් නොතිසිද නිකුත් කළාය.
+
+හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමේ  වගඋත්තරකරුවන් වශයෙන් අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා ඇතුළු පිරිසක් නම් කර ඇත.
+
+...
+
+[Data](articles/87a2c430.json)
+
+---
+
 ### ஹட்டனில் மூன்றரை கோடி பணமோசடி
 
 *2025-08-28 16:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-மூன்றரை-கோடி-பணமோசடி/76-363675) · `ta`
@@ -1695,107 +1795,5 @@ Accordingly, all medical reports regarding his condition have now been submitted
 ...
 
 [Data](articles/dee04971.json)
-
----
-
-### සහස්දනවි සහ සොබාදනවි ගැන ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය
-
-*2025-08-28 13:58:44* · [`adalk`](https://www.ada.lk/breaking_news/සහස්දනවි-සහ-සොබාදනවි-ගැන-ආංශික-අධීක්ෂණ-කාරක-සභාවේ-අවධානය/11-418126) · `si`
-
-ඉදිරියේදී වැඩ අවසන් කිරීමට නියමිත කෙරවලපිටිය සහස්දනවි ද්‍රවීකෘත ස්වාභාවික වායු (LNG) බලාගාරයට අදාළව අනුමතිය ලබාගත් කැබිනට් පත්‍රිකාවේ අන්තර්ගත මිල ගණන් වර්තමානයට ගැළපෙන පරිදි වෙනස් කිරීමේ අවශ්‍යතාව යටිතල පහසුකම් සහ උපාය මාර්ගික සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී පෙන්වා දෙන ලදී. එම මිල ගණන් සඳහා එවකට මෙම ප්‍රසම්පාදන ක්‍රියාවලිය ආරම්භවූ  2021 වසරේ පැවති ඉන්ධන මිල සහ ඩොලරයේ අගය වැනි සාධක පදනම්වී ඇති බැවින් එහි වත්මන් මිල ගණන්වල තත්ත්වය පිළිබඳව කැබිනට් මණ්ඩලය දැනුවත් කිරීමට පියවර ගන්නා ලෙස ද කාරක සභාව බලශක්ති අමාත්‍යාංශයට  දැනුම් දුන්නේය.
-
-එම කාරක සභාව ගරු පාර්ලිමේන්තු මන්ත්‍රී එස්. එම්. මරික්කාර් මහතාගේ සභාපතිත්වයෙන් පසුගියදා (25) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම දැනුම් දීම සිදු කෙරිණි. විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු නලින් බණ්ඩාර සහ ජගත් විතාන යන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ද මෙම කාරක සභා රැස්වීමට එක්ව සිටියහ. විදුලිබල සහ බලශක්ති අමාත්‍යාංශයේ ලේකම්වරයා මෙන්ම ලංකා විදුලිබල මණ්ඩලය සහ මහජන උපයෝගිතා කොමිෂන් සභාව යන ආයතන නියෝජනය කරමින් නිලධාරීහු ද මෙම අවස්ථාවට සහභාගී වූහ.
-
-...
-
-[Data](articles/7204e5d5.json)
-
----
-
-### வடமேற்கு நைஜீரியாவில் கொலரா தொற்று ; 08 பேர் உயிரிழப்பு ; 200க்கும் மேற்பட்டோர் பாதிப்பு
-
-*2025-08-28 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223581) · `ta`
-
-வடமேற்கு நைஜீரியாவின் ஜம்ஃபாரா மாநிலத்தின் புக்குயம் மாவட்டத்தில் கொலரா தொற்று நோய் பரவி வருவதால் 11 பேர் உயிரிழந்துள்ளதோடு, 200க்கும் மேற்பட்டோர் பாதிக்கப்பட்டுள்ளனர்.
-
-நைஜீரியாவில் நீரினால் பரவும் நோயான கொலரா தொற்றால்அதிகளவானோர் பாதிக்கப்படுகின்றனர். ஏனெனில், அங்கு கிராமப்புறங்கள் மற்றும் நகர்ப்புற சேரிகளில் சுத்தமான நீர் பற்றாக்குறை பரவலாக இருப்பதாக சுகாதார அதிகாரிகள் குறிப்பிடுகின்றனர்.
-
-நசராவா-பர்குல்லு, குருசு மற்றும் அடாப்கா உள்ளிட்ட பாதிக்கப்பட்ட கிராமப்புற மக்கள் நிரம்பி வழிகின்றன. ஆரம்ப சுகாதார வசதிகள் இன்மையால் பல நோயாளிகள் வீட்டிலேயே சிகிச்சை பெற்று வருகின்றனர்.
-
-அண்மைய மாதங்களில் அதிகரித்து வரும் வன்முறை பயணத்தையும் விவசாயத்தையும் ஆபத்தானதாக மாற்றியுள்ளதால், உள்ளூர்வாசிகள் கொள்ளையர்கள் என்று அழைக்கப்படும் ஆயுதமேந்திய மனிதர்களின் தாக்குதல்களின் மையமாக ஜம்ஃபாரா உள்ளது. கும்பல்கள் கிராமவாசிகள் மற்றும் பயணிகளை மீட்கும் பணத்திற்காக கடத்தி விவசாய சமூகங்களை மிரட்டி பணம் பறிப்பது வழக்கம்.
-
-...
-
-[Data](articles/7c21a478.json)
-
----
-
-### ஹல்லொலுவவின் விளக்கமறியல் நீடிப்பு
-
-*2025-08-28 13:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்லொலுவவின்-விளக்கமறியல்-நீடிப்பு/175-363658) · `ta`
-
-தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளர் துசித்த ஹல்லோலுவ, தனது வாகனத்தைத் தாக்கி துப்பாக்கிச் சூடு நடத்திய சம்பவம் தொடர்பாக செப்டம்பர் 4 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-சந்தேக நபரை சிறைச்சாலை அதிகாரிகள் கொழும்பு மேலதிக நீதவான் லஹிரு சில்வா முன்னிலையில் ஆஜர்படுத்தியபோது, ​​கொழும்பு குற்றப்பிரிவு (CCD) நீதிமன்றத்திற்குத் தெரிவித்ததாவது, இந்தச் சம்பவம், சந்தேக நபரால் ஒழுங்கமைக்கப்பட்டு, ஒழுங்கமைக்கப்பட்ட குற்றவியல் குழுக்களுடன் இணைந்து மேற்கொள்ளப்பட்டதாகக் கூறப்படும் ஒரு குற்றம் என முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-சமர்ப்பிப்புகளைப் பரிசீலித்த மேலதிக நீதவான், சந்தேக நபரை செப்டம்பர் 4 ஆம் திகதி வரை மேலும் விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
-
-◼️
-
-[Data](articles/9abd3fc2.json)
-
----
-
-### Colombo HC issues notices to hear Rajitha’s revision petition
-
-*2025-08-28 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111942/colombo-hc-issues-notices-to-hear-rajithas-revision-petition) · `en`
-
-The Colombo High Court today (28) issued a notice to consider the revision petition filed by former Minister Rajitha Senaratne, seeking an order to suspend the arrest warrant issued by the Colombo Magistrate’s Court to take him into custody.
-
-Although Senaratne’s legal team also requested an interim order to suspend the arrest warrant, the High Court did not issue such an order, stating instead that only notice has been issued to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), which is named as the respondent.
-
-President’s Counsel Kalinga Indatissa, who appeared on behalf of the former Minister, stated that in accordance with the notice issued requiring Rajitha Senaratne to appear before the Colombo Magistrate’s Court tomorrow (29), the suspect will definitely appear before the court.
-
-The petition has been scheduled to be taken up again on September 10.
-
-◼️
-
-[Data](articles/8b85cd0e.json)
-
----
-
-### මසක් තුළ ඇමෙරිකාවේ දෙවැනි යුද නෞකාවත් ලංකාවට එයි
-
-*2025-08-28 13:44:15* · [`adalk`](https://www.ada.lk/picture_story/මසක්-තුළ-ඇමෙරිකාවේ-දෙවැනි-යුද-නෞකාවත්-ලංකාවට-එයි/10-418125) · `si`
-
-ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS TULSA (LCS 16)’ යුද නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා 2025 අගෝස්තු මස 27 වැනි දින කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකෙරිණි.
-
-මෙලෙස කොළඹ වරායට පැමිණි Littoral Combat වර්ගයට අයත් ‘USS TULSA (LCS 16)’ නෞකාව, දිගින් මීටර් 127.6 ක් වන අතර, එහි අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් K. A. Moyer කටයුතු කරනු ලබයි. මෙම නෞකාවේ, කුඩා ප්‍රහාරක හෙලිකොප්ටර් යානා මෙන්ම, ප්‍රහාරක බලකා සහ සන්නද්ධ රථ ප්‍රවාහනය කිරීමටද හැකියාව ඇත.
-
-මෙම නෞකාවේ පැමිණීමත් සමගින් මසක් තුළ ශ්‍රී ලංකාවට පැමිණි දෙවැනි යුද නෞකාව මෙය වෙයි.
-
-◼️
-
-[Data](articles/c650c5e6.json)
-
----
-
-### Former NLB Director Thusitha Halloluwa further remanded
-
-*2025-08-28 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111940/former-nlb-director-thusitha-halloluwa-further-remanded) · `en`
-
-Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been further remanded until September 4 by the Colombo Magistrate’s Court, said Ada Derana reporter.
-
-The order was issued by Colombo Additional Magistrate Lahiru Silva after considering the submissions made by the Colombo Crimes Division (CCD) and the suspect’s legal representatives during the hearing of the case.
-
-Halloluwa has been named as a suspect in connection with a shooting incident that took place on May 17 in Narahenpita area, targeting a vehicle he was traveling in.
-
-When the case was called, officers of the CCD informed court that the suspect had attempted to evade investigations, and therefore, a warrant had been obtained to arrest him, after which he was produced before court.
-
-Although the suspect was initially identified as a victim in the incident, police revealed that subsequent investigations showed discrepancies between his initial statements and later findings.
-
-...
-
-[Data](articles/65c48d90.json)
 
 ---

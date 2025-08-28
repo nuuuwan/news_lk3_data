@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 15:32:29**
+As of **2025-08-28 15:50:34**
 
 ## Newspaper Stats
 
-*Scraped **72,872** Articles*
+*Scraped **72,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,009
-adaderanalk | 9,248
+adaderanalk | 9,249
 tamilmirrorlk | 10,821
-virakesarilk | 11,966
+virakesarilk | 11,967
 adaderanasinhalalk | 12,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,872 articles have been extended.
+61,973 (85.0%) of 72,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### வெண்மையாக்கும் பற்பசை பற்களை வெண்மையாக்குவதில்லை - எச்சரிக்கை விடுக்கும் சுகாதார அமைச்சு
+
+*2025-08-28 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/223591) · `ta`
+
+சந்தையில் கிடைக்கும் பற்களை வெண்மையாக்கும் பற்பசைகள், பற்களை உண்மையாக வெண்மையாக்குவதில்லை என சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+சமூக பல் வைத்திய ஆலோசகர் வைத்தியர் ஷானிகா முத்தந்திரி இது குறித்து கருத்துத் தெரிவிக்கையில்,
+
+இந்த பற்பசைகள் பாதிப்பில்லாதவை என்றாலும், அவற்றில் சிலிக்கா அல்லது கல்சியம் கார்பனேட் போன்ற கடினமான கூறுகள் உள்ளன. இவை பற்களின் மேற்பரப்பில் உள்ள கறைகளை மட்டுமே சுத்தம் செய்யக்கூடியவை, ஆனால் பற்சிப்பியை (enamel) சேதப்படுத்தக்கூடியவை எனத் தெரிவித்துள்ளார்.
+
+இந்த பற்பசைகள் ஏற்படுத்தும் வெண்மையாக்கும் விளைவு நீண்ட காலம் நீடிக்காது என்றும், அதற்கு பதிலாக, பற்களைப் பாதுகாக்க உதவும் புளூரைட் (fluoride) பற்பசையைப் பயன்படுத்துமாறு பொதுமக்களுக்கு அவர் அறிவுறுத்தியுள்ளார்.
+
+தற்போது பாலர் பாடசாலை செல்லும் குழந்தைகளில் 63 சதவீதத்தினருக்கும், 35 முதல் 44 வயது வரையிலான பெரியவர்களில் 90 சதவீதத்தினருக்கும் பற்சிதைவு காணப்படுவதாகக் குறிப்பிட்டுள்ளார். பற்சிதைவைத் தடுப்பதற்கு புளூரைட் பற்பசையே சிறந்த வழி என அவர் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/5de28913.json)
+
+---
+
+### செல்பி எடுப்பதற்கு மிகவும் ஆபத்தான 10 நாடுகளின் பட்டியல்
+
+*2025-08-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/223588) · `ta`
+
+அமெரிக்காவின் டெக்சாஸ் மாநிலத்தில் உள்ள ‘தி பார்பர்’ சட்ட நிறுவனம், கடந்த 2014 முதல் 2025 மே மாதம் வரை செல்பி எடுக்கும்போது ஏற்பட்டுள்ள உயிரிழப்புகள் மற்றும் காயங்களை கண்காணித்து ஆய்வு நடத்தியது. இந்த ஆய்வு, செல்பி எடுக்க நேரடியாக முயற்சித்து மரணத்தை விளைவிக்கும் நிகழ்வுகள் குறித்து செய்திகள் மற்றும் கட்டுரைகளை அடிப்படையாக கொண்டு நடத்தப்பட்டது.
+
+அதில் அதிக மக்கள் தொகை, ரயில் தண்டவாளங்கள், பாறைகள் போன்ற ஆபத்தான இடங்களுக்கு செல்வது, சமூக ஊடக கலாசாரம் உள்ளிட்ட பல காரணிகளை ஆராய்ச்சியாளர்கள் அடையாளம் கண்டுள்ளனர். அதன் அடிப்படையில் ஆய்வு செய்யபட்டது. இதில் உலகளவில் பதிவான அனைத்து நிகழ்வுகளில் 42.1 சதவீதம் இந்தியாவில் நிகழ்ந்துள்ளதாக கூறப்படுகிறது.
+
+இதன்படி உலகில் செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் பட்டியலில் இந்தியா முதலிடத்திலும், அமெரிக்கா இரண்டாவது இடத்திலும் உள்ளதாக தெரியவந்துள்ளது. இந்த ஆய்வு முடிவுகளின்படி செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் மற்றும் அந்நாடுகளில் நிகழ்ந்த செல்பி தொடர்பான உயிரிழப்புகளின் பட்டியல் பின்வருமாறு,
+
+...
+
+[Data](articles/c5613b03.json)
+
+---
 
 ### උපාධිධාරි ගුරු විභාගය ළඟඳීම
 
@@ -38,13 +74,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 රැකියා විරහිත උපාධිධාරීන් ගුරුවරුන් ලෙස බඳවා ගැනීම පමා වීමට හේතුවක් වන, ශ්‍රේෂ්ඨාධිකරණයේ විභාග වෙමින් පැවති නඩු හතරේ අධිකරණ ක්‍රියාවලිය මේ වනවිට අවසන් අදියරේ පවතින බව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
 
-එබැවින් එම අධිකරණ කටයුතු අවසන් වූ වහා ම ගැසට් පත්‍රය නිකුත් කර උපාධිධාරින්ට ගුරු විභාගයට ඉල්ලුම් කිරීමට අවස්ථාව ලබාදීමට කටයුතු කරන බවද දී අග්‍රාමාත්‍යවරිය පැවසීය.
+එබැවින් එම අධිකරණ කටයුතු අවසන් වූ වහා ම ගැසට් පත්‍රය නිකුත් කර උපාධිධාරින්ට ගුරු විභාගයට ඉල්ලුම් කිරීමට අවස්ථාව ලබාදීමට කටයුතු කරන බවද අග්‍රාමාත්‍යවරිය පැවසීය.
 
 ඇය මේ බව පැවසුවේ රැකියා විරහිත උපාධිධාරී ඒකාබද්ධ සංගමයේ නියෝජිතයන් අතර අධ්‍යාපන අමාත්‍යාංශයේ දී පැවති සාකච්ඡාවකදීය.
 
-එසේ ම අවශ්‍ය කරන අනෙකුත් උපාධිධාරී බඳවාගැනීම් මේ වනවිට කැබිනට් අනුමැතිය ලැබී ඇති පරිදි ම සිදු කිරීමට අවශ්‍ය ක්‍රියාමාර්ග ගන්නා බවත් ඇය සඳහන් කර තිබේ.
+එසේම අවශ්‍ය කරන අනෙකුත් උපාධිධාරී බඳවාගැනීම් මේ වනවිට කැබිනට් අනුමැතිය ලැබී ඇති පරිදි ම සිදු කිරීමට අවශ්‍ය ක්‍රියාමාර්ග ගන්නා බවත් ඇය සඳහන් කර තිබේ.
 
-එසේ ම ගුරු විභාගයට ඉල්ලුම් කිරීමේ වයස් සීමා සංශෝධනයට ලක් කරමින් එම වයස් සීමාව දීර්ඝ කිරීමටත් දැනට පවත්නා සියලු ගුරු පුරප්පාඩු සඳහා කඩිනමින් බඳවාගැනීම් සිදු කිරීමටත් මෙහි දී එකඟත්වය පළ විය.
+එසේම ගුරු විභාගයට ඉල්ලුම් කිරීමේ වයස් සීමා සංශෝධනයට ලක් කරමින් එම වයස් සීමාව දීර්ඝ කිරීමටත් දැනට පවත්නා සියලු ගුරු පුරප්පාඩු සඳහා කඩිනමින් බඳවාගැනීම් සිදු කිරීමටත් මෙහි දී එකඟත්වය පළ විය.
 
 ◼️
 
@@ -78,19 +114,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### செல்பி எடுப்பதற்கு மிகவும் ஆபத்தான 10 நாடுகளின் பட்டியல்
+### SLAF warns against kite flying near airports
 
-*2025-08-28 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223588) · `ta`
+*2025-08-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111945/slaf-warns-against-kite-flying-near-airports-) · `en`
 
-அமெரிக்காவின் டெக்சாஸ் மாநிலத்தில் உள்ள ‘தி பார்பர்’ சட்ட நிறுவனம், கடந்த 2014 முதல் 2025 மே மாதம் வரை செல்பி எடுக்கும்போது ஏற்பட்டுள்ள உயிரிழப்புகள் மற்றும் காயங்களை கண்காணித்து ஆய்வு நடத்தியது. இந்த ஆய்வு, செல்பி எடுக்க நேரடியாக முயற்சித்து மரணத்தை விளைவிக்கும் நிகழ்வுகள் குறித்து செய்திகள் மற்றும் கட்டுரைகளை அடிப்படையாக கொண்டு நடத்தப்பட்டது.
+The Sri Lanka Air Force (SLAF) has warned the public regarding the potential dangers to aircraft operations associated with kite flying, which is a popular activity in the country these days.
 
-அதில் அதிக மக்கள் தொகை, ரயில் தண்டவாளங்கள், பாறைகள் போன்ற ஆபத்தான இடங்களுக்கு செல்வது, சமூக ஊடக கலாசாரம் உள்ளிட்ட பல காரணிகளை ஆராய்ச்சியாளர்கள் அடையாளம் கண்டுள்ளனர். அதன் அடிப்படையில் ஆய்வு செய்யபட்டது. இதில் உலகளவில் பதிவான அனைத்து நிகழ்வுகளில் 42.1 சதவீதம் இந்தியாவில் நிகழ்ந்துள்ளதாக கூறப்படுகிறது.
+SLAF states that kite flying in the vicinity of airport runways poses serious safety risks with the kite flying season being a favorite among both children and adults.
 
-இதன்படி உலகில் செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் பட்டியலில் இந்தியா முதலிடத்திலும், அமெரிக்கா இரண்டாவது இடத்திலும் உள்ளதாக தெரியவந்துள்ளது. இந்த ஆய்வு முடிவுகளின்படி செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் மற்றும் அந்நாடுகளில் நிகழ்ந்த செல்பி தொடர்பான உயிரிழப்புகளின் பட்டியல் பின்வருமாறு,
+Kite flying in areas near airport runways can be cited as one of the main causes for air accidents that occur around the world, the SLAF says.
 
-...
+The relevant notice further states that kite flying is extremely hazardous to aircraft operations at runways in areas such as Katunayake, Ratmalana, Hingurakgoda, China Bay, Palaly, Katukurunda, Koggala, Vavuniya, Weerawila and Mattala.
 
-[Data](articles/c5613b03.json)
+◼️
+
+[Data](articles/40b88e2c.json)
 
 ---
 
@@ -1833,43 +1871,5 @@ He made the remarks at the post-Cabinet meeting media briefing in Colombo, respo
 ...
 
 [Data](articles/087c00e2.json)
-
----
-
-### President says Defence Hospital must ramp-up public healthcare services
-
-*2025-08-28 04:06:43* · [`dailyftlk`](https://www.ft.lk/news/President-says-Defence-Hospital-must-ramp-up-public-healthcare-services/56-780898) · `en`
-
-President Anura Kumara Disanayake on Tuesday said the Government bore significant expenses to maintain the Sir John Kotelawala Defence University Hospital and instructed officials to streamline and deliver healthcare to the public in a “more efficient and effective manner.” The President’s Media Division said Disanayake made these comments while chairing a Defence Ministry Pre-Budget 2026 discussion.
-
-He emphasised that Sri Lanka’s defence forces must be developed into one of the most professional forces in the world, instructing officials to ensure that the necessary Budgetary allocations were properly channelled to provide the required training and facilities.
-
-The progress of projects implemented under the Budgetary provisions allocated to the Defence Ministry in 2025 was reviewed at the discussion, and programs currently being carried out for the Sri Lanka Army, Air Force, Navy, the Civil Security Department, and cadet officers were also examined.
-
-...
-
-[Data](articles/45dafd0c.json)
-
----
-
-### NMSJ questions due process, raises concerns about Wickremesinghe arrest
-
-*2025-08-28 04:05:11* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-questions-due-process-raises-concerns-about-Wickremesinghe-arrest/56-780897) · `en`
-
-National Movement for Social Justice reiterates call to abolish Executive Presidency for a just society
-
-Arrest of former President Ranil Wickremesinghe seen as pre-planned political move
-
-Use of Penal Code instead of Anti-Corruption Act raises concerns of prosecutorial abuse
-
-Timing of arrest before long weekend questioned as attempt to block legal redress
-
-The National Movement for Social Justice (NMSJ) yesterday reiterated its call for abolishing the Executive Presidency, while raising serious concerns over the arrest of former President Ranil Wickremesinghe.
-
-In a statement, the Movement questioned whether due process was properly observed by the institutions and individuals involved. It said that the earlier announcement by a YouTuber, who predicted Wickremesinghe’s remand, reinforced the impression that the arrest was a pre-planned political move.
-
-...
-
-[Data](articles/b4e316e1.json)
 
 ---

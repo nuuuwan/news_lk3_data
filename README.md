@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 16:07:55**
+As of **2025-08-28 16:21:52**
 
 ## Newspaper Stats
 
-*Scraped **72,879** Articles*
+*Scraped **72,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,010
 adaderanalk | 9,250
-tamilmirrorlk | 10,823
+tamilmirrorlk | 10,824
 virakesarilk | 11,968
 adaderanasinhalalk | 12,625
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,879 articles have been extended.
+61,973 (85.0%) of 72,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### கைத்தொலைபேசிகள் , ஏலக்காயுடன் வந்தவர் கைது
+
+*2025-08-28 15:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைத்தொலைபேசிகள்-ஏலக்காயுடன்-வந்தவர்-கைது/175-363669) · `ta`
+
+சுமார் 2 கோடி ரூபாய் பெறுமதியுடைய  அதிநவீன கைத்தொலைபேசிகள்  மற்றும் ஏலக்காயை சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வந்து, கட்டுநாயக்க விமான நிலையத்தில் இருந்து  வெளியேற முயன்ற  ஒருவர், வியாழக்கிழமை (28) கைது செய்யப்பட்டுள்ளார்.  சந்தேக நபர்  கொழும்பைச் சேர்ந்த 36 வயதுடையவர் என தெரியவந்துள்ளது.
+
+அவர்  வியாழக்கிழமை (28) காலை இலங்கை ஏர்லைன்ஸ் விமானம் UL-226 மூலம் துபாயில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளதுடன் அவரிடம் இருந்த 6 பயணப் பைகளில் இருந்து அதிநவீன கைத்தொலைபேசிகள் 165 மற்றும் 102 கிலோ கிராம் ஏலக்காய் கைப்பற்றப்பட்டுள்ளது.
+
+நாட்டிற்குள் கைத்தொலைபேசிகள் இறக்குமதி செய்ய, இலங்கை தொலைத்தொடர்பு ஒழுங்குமுறை ஆணையத்தின் அனுமதி தேவை, அதே நேரத்தில் ஏலக்காய் இறக்குமதி செய்ய அந் நாட்டிலும் இலங்கையிலும் உள்ள பல்வேறு நிறுவனங்களின் அனுமதி தேவையாகும்.
+
+சந்தேக நபரை கைது செய்த, விமான நிலைய சுங்க அதிகாரிகள் இது தொடர்பான விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/788cfae0.json)
+
+---
 
 ### குளியாப்பிட்டி பாடசாலை வேன் விபத்து ; பாதிக்கப்பட்ட சிறுவர்களை வைத்தியசாலையில் பார்வையிட்டார் பிரதி அமைச்சர்
 
@@ -1847,23 +1865,5 @@ Speaking at the post-Cabinet meeting media briefing, he pointed out that while S
 ...
 
 [Data](articles/98fc2e96.json)
-
----
-
-### President tells exporters pay taxes for support
-
-*2025-08-28 04:16:28* · [`dailyftlk`](https://www.ft.lk/business/President-tells-exporters-pay-taxes-for-support/34-780904) · `en`
-
-AKD meets tea, coconut, rubber exporters for pre-Budget 2026 discussion
-
-Says Govt. reviving economy without artificial controls by encouraging production
-
-President Anura Kumara Disanayake told a group of exporters this week that the Government would provide them with facilities and support, but stressed they must pay fair taxes in return, according to a statement from the President’s Media Division (PMD) yesterday.
-
-He made the remarks during a pre-Budget 2026 discussion with plantation sector entrepreneurs held at the Presidential Secretariat on Tuesday. The meeting focused on strengthening dollar reserves through export earnings, the PMD said.
-
-...
-
-[Data](articles/447a86ea.json)
 
 ---

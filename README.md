@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 19:49:46**
+As of **2025-08-28 20:07:45**
 
 ## Newspaper Stats
 
-*Scraped **72,915** Articles*
+*Scraped **72,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,015
-adaderanalk | 9,257
+adaderanalk | 9,259
 tamilmirrorlk | 10,830
-virakesarilk | 11,972
+virakesarilk | 11,976
 adaderanasinhalalk | 12,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,915 articles have been extended.
+61,973 (85.0%) of 72,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### அநுராதபுரம் ஹொரொவபத்தான–கஹட்டகஸ்திகிலி சாலை விபத்தில் சிறுமி உட்பட இருவர் உயிரிழப்பு
+
+*2025-08-28 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223640) · `ta`
+
+ஹொரொவபத்தானை - கஹட்டகஸ்திகிலிய பிரதான சாலையில் உள்ள பாலத்தில் லொறி ஒன்று சாலையை விட்டு விலகி கவிழ்ந்ததில் இரண்டு பேர் உயிரிழந்துள்ளனர்.
+
+இறந்தவர்கள் 10 வயது சிறுமி மற்றும் லாரி ஓட்டுநரின் உதவியாளர் என்று பொலிசார் தெரிவித்தனர்.
+
+விபத்துக்கான காரணம் இன்னும் வெளியாகவில்லை, மேலும் சம்பவம் குறித்து ஹொரொவபத்தானை பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/0dd53299.json)
+
+---
+
+### செம்மணி – சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 8 எலும்புக்கூடுகள் கண்டெடுப்பு
+
+*2025-08-28 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223639) · `ta`
+
+செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் 28ஆம் திகதி வியாழக்கிழமை மேலும் 8 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
+
+இதன் அடிப்படையில் இதுவரை 177 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 164 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 36வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/82254925.json)
+
+---
 
 ### ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමයෙන් ඉල්ලීමක්
 
@@ -47,6 +79,78 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/01d14265.json)
+
+---
+
+### ஆசிய கோப்பைக்கான இலங்கை அணி அறிவிக்கப்பட்டது
+
+*2025-08-28 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223638) · `ta`
+
+ஆசிய கோப்பை இருபதுக்கு 20 கிரிக்கெட் போட்டிக்கான இலங்கை அணி 28ஆம் திகதி வியாழக்கிழமை பிற்பகல் அறிவிக்கப்பட்டது.
+
+சரித் அசலங்கா தலைமையிலான 16 பேர் கொண்ட அணியை இலங்கை கிரிக்கெட் தேர்வுக் குழு அறிவித்துள்ளது.
+
+இந்த ஆண்டுக்கான போட்டி ஐக்கிய அரபு அமீரகத்தில் செப்டம்பர் 9 முதல் 28 வரை நடைபெறவுள்ளது.
+
+இலங்கை அணி தனது முதல் போட்டியில் வங்கதேசத்தை செப்டம்பர் 13ஆம் தேதி விளையாட உள்ளது.
+
+1. சரித் அசலங்கா (கேப்டன்), 2. பதும் நிஸ்ஸங்க, 3. குசல் மெண்டிஸ், 4. குசல் பெரேரா, 5. நுவனிது பெர்னாண்டோ, 6. கமிந்து மெண்டிஸ், 7. கமில் மிஷார, 8. தசுன் ஷனக, 9. வனிந்து ஹசரங்க, கர்ணேத்னி1.வெல்லால்மி, 10. 12. மஹிஷ் தீக்ஷன, 13. துஷ்மந்த சமீர, 14. பினுர பெர்னாண்டோ, 15. நுவான் துஷார, 16. மதீஷ பத்திரன
+
+◼️
+
+[Data](articles/97bda7b6.json)
+
+---
+
+### வாரக்காபொலவில் இன்று மாலை 6 மணி முதல் போக்குவரத்து கட்டுப்பாடுகள்
+
+*2025-08-28 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/223637) · `ta`
+
+வாரக்காபொல, அம்பேபுஸ்ஸ ரங்கல் குஹாவவில் உள்ள பண்டைய ஸ்ரீ பத்தினி தேவாலாயத்தில் வியாழக்கிழமை (28) நடைபெறும் தேவ பெரஹெரா காரணமாக கொழும்பு-கன்னட பிரதான சாலையில் போக்குவரத்து கட்டுப்படுத்தப்படும் என்று காவல்துறை ஊடகப் பிரிவு அறிக்கை வெளியிட்டுள்ளது.
+
+தேவ பெரஹெரா வியாழக்கிழமை (28) மாலை 6 மணி முதல் கொழும்பு-கன்னட பிரதான சாலையின் வீதிகளில் வலம் வந்து, அம்பேபுஸ்ஸ தேவாலயா சந்திப்பிலிருந்து கொழும்பு-கன்னட பிரதான சாலைக்குள் நுழைந்து அந்த சாலையில் கண்டி நோக்கிச் செல்லும்.
+
+பின்னர் அது அம்பேபுஸ்ஸ சந்தி, மஹேன பிரதேச செயலக சந்தி, மஹேன வளைவு ஆகியவற்றிலிருந்து புறப்பட்டு, பின்னர் அதே சாலையில் மீண்டும் தேவாலயத்திற்குச் செல்லும்.
+
+ஊர்வலத்தின் போது கொழும்பு-கண்டி பிரதான சாலையில் போக்குவரத்து நெரிசல் ஏற்படக்கூடும் என்பதால், அந்த நேரத்தில் இந்த சாலையைப் பயன்படுத்தும் பொதுமக்கள் மற்றும் ஓட்டுநர்கள் பின்வரும் மாற்று வழிகளைப் பயன்படுத்துமாறு காவல்துறை கேட்டுக்கொள்கிறது.
+
+...
+
+[Data](articles/93c71223.json)
+
+---
+
+### Schoolgirl and lorry assistant killed in road accident in Kahatagasdigiliya
+
+*2025-08-28 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111958/schoolgirl-and-lorry-assistant-killed-in-road-accident-in-kahatagasdigiliya) · `en`
+
+A schoolgirl and a lorry assistant have died in a fatal road accident that occurred this afternoon (28) in Alayapattuwa along the Horowpothana –Kahatagasdigiliya main road, according to Horowpothana Police.
+
+The victims have been identified as a 10-year-old student of the Morakewa Vidyalaya in Horowpothana and a 27-year-old lorry assistant.
+
+The accident took place at approximately 1:20 p.m. near a bridge about 200 meters towards Kahatagasdigiliya from the Alayapattuwa junction, police noted.
+
+The lorry was transporting glass from Vavuniya to Anuradhapura when the driver reportedly fell asleep at the wheel. As a result, the vehicle veered off the road and crashed into the protective fence of the nearby bridge.
+
+The girl, who was returning home after school, sustained serious injuries and passed away after being admitted to the hospital.
+
+...
+
+[Data](articles/24f51329.json)
+
+---
+
+### 646 individuals arrested during special island-wide police raids
+
+*2025-08-28 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111957/646-individuals-arrested-during-special-island-wide-police-raids) · `en`
+
+A total of 646 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (27).
+
+As part of the operation, 26,572 persons were subjected to inspection, the Police Media Division said.
+
+◼️
+
+[Data](articles/daf7d64c.json)
 
 ---
 
@@ -1723,127 +1827,5 @@ Underworld operative Kehelbaddara Padme, in particular, proved to be hard to cat
 ◼️
 
 [Data](articles/28917493.json)
-
----
-
-### தென்கொரியாவில் பாடசாலையில் மாணவர்கள் கையடக்க தொலைபேசி பயன்படுத்த தடை
-
-*2025-08-28 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223556) · `ta`
-
-2026 ஆம் ஆண்டு முதல் பாடசாலையில் மாணவர்கள் கையடக்க தொலைபேசி பயன்படுத்த அனுமதி இல்லை.
-
-தென்கொரியாவில் பாடசாலை மாணவ - மாணவிகளிடையே கையடக்க தொலைபேசி பயன்பாடு அதிகரித்து வந்தது. இதனால் பாலியல் குற்றச்சம்பவங்கள், போதைப்பொருள் பயன்பாடு, ஒன்லைன் கேமிங் உள்ளிட்ட பல்வேறு குற்றங்களில் மாணவர்கள் சிக்கி அவர்களின் வாழ்க்கை சீரழிவதாக முறைப்பாடு எழுந்தது.
-
-இந்நிலையில் பாடசாலையில் மாணவ-மாணவிகள் கையடக்க தொலைபேசி பயன்பாடுக்கு நிரந்தர தடை விதிக்க வேண்டும் என பெற்றோர் மற்றும் ஆசிரியர்கள் அரசாங்கத்திற்கு கோரிக்கை விடுக்கப்பட்டது.
-
-இந்நிலையில் தென்கொரிய ஜனாதிபதி மூன் ஜே இங் பாடசாலையில் மாணவர்கள் கையடக்க தொலைபேசியை பயன்படுத்த தடை விதிப்பதற்காக மசோதாவை புதன்கிழமை பாராளுமன்றத்தில் அறிமுகம் செய்தார்.
-
-இந்த மசோதாவுக்கு ஆளுங்கட்சியினர் மற்றும் எதிர்க்கட்சி எம்.பி.கள் ஆதரவு தெரிவித்தனர். இதனால் தென்கொரியாவில் அடுத்த கல்வியாண்டு முதல் பாடசாலையில் மாணவர்கள் செல்போன் பயன்படுத்த அனுமதி இல்லை என தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/64fab2f5.json)
-
----
-
-### Putin, Kim Jong Un to attend Chinese parade in show of defiance to the West
-
-*2025-08-28 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111934/putin-kim-jong-un-to-attend-chinese-parade-in-show-of-defiance-to-the-west) · `en`
-
-Russian President Vladimir Putin and North Korea’s Kim Jong Un will attend a military parade in Beijing, marking the first public appearance of the two leaders alongside President Xi Jinping in a show of collective defiance amid Western pressure.
-
-No Western leaders will be among the 26 foreign heads of state and government attending the parade next week with the exception of Robert Fico, prime minister of Slovakia, a European Union member state, according to the Chinese foreign ministry on Thursday.
-
-Against the backdrop of China’s growing military might during the “Victory Day” parade on September 3, the three leaders will project a major show of solidarity not just between China and the Global South, but also with sanctions-hit Russia and North Korea.
-
-Russia, which Beijing counts as a strategic partner, has been battered by multiple rounds of Western sanctions imposed after its invasion of Ukraine in 2022, with its economy on the brink of slipping into recession.
-
-...
-
-[Data](articles/6650f041.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields quoted higher
-
-*2025-08-28 10:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-quoted-higher-238522/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.40/50 to the US dollar in the spot market Thursday, flat from 302.42/52 the previous day, while bond yields were quoted higher at opening, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 8.15/25 percent, up from 8.15/24 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.55/65 percent, from 8.58/65 percent.
-
-A bond maturing on 15.12.2028 was quoted at 8.95/9.05 percent.
-
-A bond maturing on 15.10.2029 was quoted at 9.45/48 percent, up from 8.40/43 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.45/50 percent, up from 9.41/44 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.30/35 percent, from 10.28/32 percent.
-
-The Colombo Stocks Exchange was showed mixed sentiment: The ASPI was up 0.17 percent, or 35.09 points, at 20,788; the S&P SL20 was down 0.08 percent, or 4.57 points, at 6,057.
-
-...
-
-[Data](articles/e1528df9.json)
-
----
-
-### வகுப்பறைகளில் அலைபேசி தடை
-
-*2025-08-28 10:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வகுப்பறைகளில்-அலைபேசி-தடை/50-363640) · `ta`
-
-பாடசாலைகளில் வகுப்பு நேரங்களில் செல்லிடத் தொலைபேசிகளையும், திறன் சாதனங்களையும் பயன்படுத்துவதைத் தடை செய்யும் சட்டமூலமொன்றை தென்கொரியா நிறைவேற்றியுள்ளது.
-
-2026 மார்ச்சில் அடுத்த பாடசாலை ஆண்டு ஆரம்பிக்கும்போது இச்சட்டம் அமுலுக்கு வரவுள்ளது. திறன்பேசி அடிமையாதலைக் கட்டுப்படுத்துவதற்கு எதிர்க்கட்சியிலிருந்தும் ஆதரவு கிடைத்திருந்தது.
-
-பிரசன்னமாயிருந்த 163 உறுப்பினர்களில் 115 வாக்குகள் ஆதரவாகக் கிடைத்த நிலையில் புதன்கிழமை (27) சட்டமூலம் நிறைவேற்றப்பட்டிருந்தது.
-
-பெரும்பாலான தென் கொரியப் பாடசாலைகள் ஏற்கெனவே திறன்பேசித் தடையை வெவ்வேறு வடிவங்களில் அமுல்படுத்துகின்றன.
-
-பின்லாந்து, பிரான்ஸ் ஆகியன சிறியளவில் அலைபேசிகளைத் தடை செய்துள்ளன. இளவயது சிறுவர்களின் பாடசாலைகளில் மாத்திரம் கட்டுப்பாட்டை அமுல்படுத்துகின்றன.
-
-◼️
-
-[Data](articles/2d12dce7.json)
-
----
-
-### வகுப்பறைகளில் செல்லிடத்தொலைபேசிகளை தடை செய்த தென் கொரியா
-
-*2025-08-28 10:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வகுப்பறைகளில்-செல்லிடத்தொலைபேசிகளை-தடை-செய்த-தென்-கொரியா/50-363640) · `ta`
-
-பாடசாலைகளில் வகுப்பு நேரங்களில் செல்லிடத் தொலைபேசிகளையும், திறன் சாதனங்களையும் பயன்படுத்துவதைத் தடை செய்யும் சட்டமூலமொன்றை தென்கொரியா நிறைவேற்றியுள்ளது.
-
-2026 மார்ச்சில் அடுத்த பாடசாலை ஆண்டு ஆரம்பிக்கும்போது இச்சட்டம் அமுலுக்கு வரவுள்ளது. திறன்பேசி அடிமையாதலைக் கட்டுப்படுத்துவதற்கு எதிர்க்கட்சியிலிருந்தும் ஆதரவு கிடைத்திருந்தது.
-
-பிரசன்னமாயிருந்த 163 உறுப்பினர்களில் 115 வாக்குகள் ஆதரவாகக் கிடைத்த நிலையில் புதன்கிழமை (27) சட்டமூலம் நிறைவேற்றப்பட்டிருந்தது.
-
-பெரும்பாலான தென் கொரியப் பாடசாலைகள் ஏற்கெனவே திறன்பேசித் தடையை வெவ்வேறு வடிவங்களில் அமுல்படுத்துகின்றன.
-
-பின்லாந்து, பிரான்ஸ் ஆகியன சிறியளவில் அலைபேசிகளைத் தடை செய்துள்ளன. இளவயது சிறுவர்களின் பாடசாலைகளில் மாத்திரம் கட்டுப்பாட்டை அமுல்படுத்துகின்றன.
-
-◼️
-
-[Data](articles/b5670550.json)
-
----
-
-### Govt. will extend its support to strengthen manufacturing industry, says President Dissanayake
-
-*2025-08-28 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111933/govt-will-extend-its-support-to-strengthen-manufacturing-industry-says-president-dissanayake) · `en`
-
-A pre-budget discussion for the year 2026 was held on Wednesday (27) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake with local entrepreneurs in the ceramic industry, to review concerns and proposals related to challenges in the industry.
-
-At the discussion, it has been extensively reviewed that the government’s plans to strengthen the domestic manufacturing industry, with the aim of expanding export revenue while safeguarding local entrepreneurs, the President’s Media Division (PMD) said.
-
-In addition, the current issues and challenges related to the manufacturing sector were thoroughly examined.
-
-Specific attention was given to ceramic products, including tiles, bathroom fittings and sanitary ware, while discussions also focused on ensuring the quality and standards of these products currently available in the market, the PMD added.
-
-...
-
-[Data](articles/4aa2e8a2.json)
 
 ---

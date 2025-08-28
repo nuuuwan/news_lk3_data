@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 13:52:30**
+As of **2025-08-28 14:08:52**
 
 ## Newspaper Stats
 
-*Scraped **72,848** Articles*
+*Scraped **72,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,125 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 745
-economynextcom | 4,442
+economynextcom | 4,444
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,006
-adaderanalk | 9,242
+adalk | 7,007
+adaderanalk | 9,243
 tamilmirrorlk | 10,817
 virakesarilk | 11,964
-adaderanasinhalalk | 12,618
+adaderanasinhalalk | 12,621
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,848 articles have been extended.
+61,973 (85.1%) of 72,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### ජාතික පර්යේෂණ ප්‍රමුඛතා වාර්තාව ජනාධිපති ලේකම්වරයාට භාරදෙයි
+
+*2025-08-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213890) · `si`
+
+මෙරට ඉතිහාසයේ ප්‍රථමවරට රජයේ සමාජ ආර්ථික සංවර්ධන වැඩපිළිවෙළ සහ සමගාමී වන  "ශ්‍රී ලංකාව සඳහා වූ පර්යේෂණ ප්‍රමුඛතා – 2026" වාර්තාව ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා වෙත භාර දීම අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදුවිය.
+
+ඒ අනුව, පර්යේෂණ සහ නවෝත්පාදනය මත පදනම් වූ ජාතික සංවර්ධනයේ නව යුගයක ආරම්භය සනිටුහන් කෙරෙන මෙම වාර්තාව ජාතික විද්‍යා සහ තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී. ඩබ්ලිව්. ඒ. රොහාන් ප්‍රනාන්දු විසින් ජනාධිපති ලේකම්වරයා වෙත භාර දෙන ලදී.
+
+මේ සඳහා මූලිකත්වය ගනු ලැබුවේ ජාතික පර්යේෂණ සහ සංවර්ධන ප්‍රමුඛතා පිළිබඳ තාවකාලික කමිටුව විසින් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කරයි.
+
+එහි සම සභාපතිවරුන් ලෙස විද්‍යා හා තාක්ෂණය පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ඇමරිකා එක්සත් ජනපද ජාතික නව නිපැයුම්කරුවන්ගේ ඇකඩමියේ ජ්‍යෙෂ්ඨ සාමාජික මහාචාර්ය ගෝමික උඩුගමසූරිය මහතා සහ ජාතික විද්‍යා හා තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී. ඩබ්ලිව්. ඒ. රොහාන් ප්‍රනාන්දු මහතා කටයුතු කරයි.
+
+...
+
+[Data](articles/6095926e.json)
+
+---
+
+### Indian democracy and economic growth plays a pivotal role in world order
+
+*2025-08-28 13:30:00* · [`economynextcom`](https://economynext.com/indian-democracy-and-economic-growth-plays-a-pivotal-role-in-world-order-238544/) · `en`
+
+India is on its way to taking its place on the world stage as a developed nation by 2047, the year it will celebrate a century of independence from British rule.
+
+In 1947, India chose to steer the nation on a democratic path and has emerged as the world’s largest democracy, despite the many internal and external complexities it has faced.
+
+Its spurt of economic growth in recent decades and continued commitment to safeguarding democratic values places it in an ideal position to disrupt the world order, opine panelists who participated in a webinar titled ‘India: A Stable Democracy Leading the Global South.’
+
+But that new world order must be ‘more stable and equitable than what it is transitioning from’, cautions Apurv Kumar Mishra, Consultant, Prime Minister’s Economic Advisory Council.
+
+Sharing his thoughts as one of the panelists, Mishra explains that large parts of the developing world are now looking to India, which opted to follow democratic principles.
+
+...
+
+[Data](articles/2917d92b.json)
+
+---
+
+### හිටපු ජනපති රනිල් තවමත් දැඩිසත්කාර ඒකකයේ
+
+*2025-08-28 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213889) · `si`
+
+රාජ්‍ය මුදල් අවභාවිත කිරීමේ චෝදනාව මත අත්අඩංගුවට ගෙන පසුව ඇප මත මුදාහැරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තවමත් කොළඹ ජාතික රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියි.
+
+ඔහු රෝහලෙන් පිටව යන දිනයක් සම්බන්ධයෙන් වෛද්‍යවරුන් තවමත් අවසන් තීරණයක් ගෙන නොමැති බව වාර්තා වේ.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඇප ලබා ගැනීම සඳහා සුවිශේෂි කරුණු රැසක් ඔහු වෙනුවෙන් පෙනී සිටි නීතීඥ මණ්ඩලය අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+එහිදී රනිල් වික්‍රමසිංහ මහතාගේ සියලු රෝග සම්බන්ධ වාර්තා ඉදිරිපත් කර තිබු අතර එහි සඳහන් වී ඇත්තේ ඒ මහතාගේ හෘද වස්තුවේ ප්‍රධාන ධමනි 04න් 03ක් අවහිර වී ඇති බවය.
+
+එමෙන්ම හෘද වස්තුවේ පටක මිය යාම මෙන්ම පෙනහළු ආසාදනයක් ද පවතින බව අධිකරණ හමුවේ වාර්තා කර තිබුණි.
+
+ඒ අනුව එම රෝග තත්ත්ව පිළිබඳව සියලු වෛද්‍ය වාර්තා නීතීඥවරයා විසින් මේ වන විට අධිකරණයට ඉදිරිපත් කර තිබේ.
+
+තවද හිටපු ජනාධිපතිවරයාට බරපතල ජීවිත අවධානමක් මතුව ඇතැයිද ජනාධිපති නීතීඥ අනුජ ප්‍රේමරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පවසා තිබුණි.
+
+◼️
+
+[Data](articles/61d8e492.json)
+
+---
+
+### වරෙන්තුවට එරෙහිව රාජිතගෙන් මහාධිකරණයට පෙත්සමක්
+
+*2025-08-28 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213888) · `si`
+
+තමන්ව අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් නිකුත් කර තිබෙන වරෙන්තුව අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමක් විභාගයට ගැනීමට කොළඹ මහාධිකරණය විසින් නොතීසි නිකුත් කළේය.
+
+එමෙන්ම රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගැනීම සඳහා නිකුත් කර තිබෙන වරෙන්තුව තාවකාලිකව අත්හිටුවීමේ තාවකාලික අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඔහුගේ නීතිඥවරු විසින් ඉල්ලීමක් කළත් එම නියෝගය නිකුත් නොකළ මහාධිකරණය වගඋත්තරකාර අල්ලස් කොමිසම වෙත නොතීසි පමණක් නිකුත් කරන බව සඳහන්ය.
+
+සැකකාර රාජිත සේනාරත්න මහතාට හෙට (29) දින කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා නිකුත් කර තිබෙන නොතීසියට අදාළව ඔහු හෙට දින අනිවාර්යයෙන්ම එම අධිකරණය හමුවේ පෙනී සිටින බවත් ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා සඳහන් කර සිටියේය.
+
+ඉන් අනතුරුව පෙත්සම සැප්තැම්බර් මස 10 වන දා කැඳවීමට ද නියම වුණි.
+
+◼️
+
+[Data](articles/a5c62584.json)
+
+---
+
+### රත්නපුරේ ලංගම ඩිපෝ පහෙන් තුනක් පාඩුයි
+
+*2025-08-28 13:15:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුරේ-ලංගම-ඩිපෝ-පහෙන්-තුනක්-පාඩුයි/11-418123) · `si`
+
+රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර, ඇඹිලිපිටිය සහ ගොඩකවෙල ඩිපෝ තුනට ඔවුන්ගේ සේවකයන්ගේ වැටුප් ගෙවා ගත හැකි ආදායමක් මාසිකව නොලබන බව අනාවරණය වෙයි.
+
+රත්නපුර දිස්ත්‍රික්කයේ ප්‍රවාහන ක්ෂේත්‍රයේ සහ ඩිපෝවල වත්මන් තත්වයන් සම්බන්ධ සමාලෝචනයකදී මේ බව අනාවරණය විය. ප්‍රවාහන, මහා මාර්ග සහ සිවිල් ගුවන්සේවා ඇමති බිමල් රත්නායක මහතාගේ ප්‍රධානත්වයෙන් මෙම සමාලෝචනය සිදුවිය.
+
+රත්නපුර, ඇඹිලිපිටිය, ගොඩකවෙල, බළන්ගොඩ සහ කලවාන යන ඩිපෝ වල කළමනාකරුවන්ද ඊට කැදවා තිබුණි. එහිදි අනාවරණය වුයේ බළන්ගොඩ සහ කලවාන ඩිපෝ දෙක සේවක වැටුප් මාසිකව ගෙවන්නේ ඔවුන් ලබන ආදායමෙන් බවයි.
+
+පසුගිය වසර දෙක තුල මෙම ලංගම ඩිපෝ පහෙන් ග්‍රාමීය මාර්ග දහතුනක බස් ධාවනය අත්හිටුවා තිබුණි. බළන්ගොඩ ඩිපෝවෙන් මාර්ග අටක ද, රත්නපුර සහ ගොඩකවෙල ඩිපෝ දෙකෙන් මාර්ග දෙක බැගින් හතරක සහ කලවාන ඩිපෝවෙන් එක් මාර්ගයක බස් ධාවනය එසේ නවතා තිබේ.
+
+ලාභ නොලැබීම මත ඇඹිලිපිටය ඩිපෝව මගින් ධාවනය වු ග්‍රාමීය මාර්ග නවයක ලංගම බස් රථ ධාවනය නවත්වා තිබේ. මේ වසරේ මාර්තු මාසයේ කලවාන ඩිපෝවෙන් අලුත්වැඩියාවට මැදවච්චිය වැඩපොළට යැවු බස් එංජිමක් තවමත් ලැබී නැති බවද අනාවරණය විය.
+
+...
+
+[Data](articles/926dbfb6.json)
+
+---
 
 ### තුසිත හල්ලොලුව තවදුරටත් රිමාන්ඩ්
 
@@ -135,6 +235,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/60f9fbb4.json)
+
+---
+
+### Historic operation in Indonesia led to arrest of 5 major Sri Lankan underworld figures at once - IGP
+
+*2025-08-28 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111938/historic-operation-in-indonesia-led-to-arrest-of-5-major-sri-lankan-underworld-figures-at-once-igp) · `en`
+
+The arrest of five of Sri Lanka’s most infamous underworld figures in Indonesia at once marks the first time in history that such an operation has been carried out, says Inspector General of Police (IGP) Priyantha Weerasooriya.
+
+Speaking at a press conference at the Department of Government Information this morning (28) regarding the arrest of major Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda,’ the IGP stated that five of those arrested individuals are currently subject to Red Notices issued by INTERPOL.
+
+The IGP confirmed that the operation was a joint effort between Sri Lanka’s Criminal Investigation Department (CID), the Indonesian Police in Jakarta, and INTERPOL.
+
+Meanwhile, the IGP noted that there has historically been political involvement in organized crime in the country, but emphasized that the situation has changed.
+
+He pointed out that an environment is now emerging in which criminals no longer have political protection.
+
+...
+
+[Data](articles/299825a8.json)
 
 ---
 
@@ -255,6 +375,30 @@ These underworld figures were arrested as part of a seven-day joint operation be
 ...
 
 [Data](articles/c7baff6a.json)
+
+---
+
+### Sri Lanka working with India, Abu Dhabi and Indonesia to apprehend criminals: Official
+
+*2025-08-28 12:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-working-with-india-abu-dhabi-and-indonesia-to-apprehend-criminals-official-238535/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s police was working with India, Malaysia, Thailand, Abu Dhabi and Indonesia officials to apprehend criminals, Ministry of Public Security secretary Ravi Seneviratne said.
+
+“Organized criminal gangs operating from foreign states increased in the recent past,” Seneviratne told reporters. “This was a huge challenge to crack down on crime in our country.”
+
+“They operated from neighbouring countries such as India, Malaysia, Thailand, Abu Dhabi in the middle east, and Indonesia.”
+
+The government was able to build on bilateral ties, conduct discussions with these countries and work with them to apprehend criminals he said.
+
+“Intelligence agencies in India, Malaysia, Thailand, Abu Dhabi and Indonesia, aided us in this effort.”
+
+This enabled criminals operating from India and Abu Dhabi to be extradited back to Sri Lanka to face legal proceedings, he said.
+
+Underworld operative Kehelbaddara Padme, in particular, proved to be hard to catch, Seneviratne said.
+
+...
+
+[Data](articles/8e47c26a.json)
 
 ---
 
@@ -1693,117 +1837,5 @@ This event is more than a legal case. It is a litmus test for Sri Lanka’s demo
 ...
 
 [Data](articles/3f5f04a2.json)
-
----
-
-### பான் இந்திய திரைப்படமாக உருவாகும் 'சிங்கா'
-
-*2025-08-28 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/223543) · `ta`
-
-இந்தியாவிலேயே முதல்முறையாக காட்டு விலங்குகளின் ராஜா என கருதப்படும் சிங்கம் முதன்மையான வேடத்தில் நடித்து வரும் புதிய திரைப்படத்திற்கு 'சிங்கா'  என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் மற்றும் அதற்கான பிரத்யேக காணொளி வெளியிடப்பட்டுள்ளது.
-
-அறிமுக இயக்குநர் கே. சி. ரவி தேவன் இயக்கத்தில் உருவாகி வரும் 'சிங்கா' எனும் திரைப்படத்தில் லெனின் பாண்டியன்,  ஷிரிதா ராவ், லீஷா எக்லேர்ஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி.ஜி. முத்தையா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அம்ரீஷ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை எக்ஸட்ரா என்டர்டெயின்மென்ட் மற்றும் தித்தீர் ஃபிலிம் ஹவுஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
-
-...
-
-[Data](articles/3ddd3da7.json)
-
----
-
-### திருகோணமலை முத்து நகர் : சூரிய மின் திட்டம் காரணமாக விவசாயிகள் மற்றும் கம்பெனி தொழிலாளர்களுக்கு இடையில் வாக்குவாதம்
-
-*2025-08-28 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223541) · `ta`
-
-திருகோணமலை பட்டணமும் சூழலும் பிரதேச செயலகத்திற்குட்பட்ட முத்து நகர் விவசாய பகுதியில் புதன்கிழமை (27)சூரிய மின் சக்தி உற்பத்திக்காக மேலும் ஒரு தனியார் கம்பெனியினர் உள் நுழைந்து வேலைத் திட்டத்தை முன்னெடுத்த நிலையில் அங்கு விவசாயிகள் மற்றும் குறித்த வேலைத் திட்டத்தில் ஈடுபட்டவர்களுக்கிடையில் வாக்கு வாதம் இடம் பெற்றதாக தெரியவருகிறது.
-
-குறித்த சம்பவ இடத்துக்கு இலங்கை துறை முக அதிகார சபையினர் உள்ளிட்டவர்களுடன் திட்டத்தை ஆரம்பிக்கவுள்ள குழுவினரும் உள் நுழைந்துள்ளனர் இதனை தடுக்க சென்ற விவசாயிகளை தனியார் நிறுவன ஊழியர்கள் தாக்கியுள்ளதாக தெரியவருகிறது.
-
-குறித்த முத்து நகர் பகுதியில் ஏற்கனவே மக்களின் விவசாய காணிகளை அபகரித்து தனியார் நிறுவனங்களுக்கு சூரிய மின் சக்தி உற்பத்திக்காக வழங்கியுள்ளனர். இதனை அடுத்து மேலும் அங்கு உள்ள விவசாய காணியில் மேலும் திட்டத்தை ஆரம்பிக்க சென்ற நிலையில் இக் கை கலப்பு இடம் பெற்றது.
-
-குறித்த முத்து நகர் பகுதி விவசாயிகள் தங்களின் அபகரிக்கப்பட்ட விவசாய காணியை மீட்டுத்தரக்கோரிய பல போராட்டங்களை அண்மையில் முன்னெடுத்தனர்.
-
-...
-
-[Data](articles/62d95739.json)
-
----
-
-### NIBM Neo Ventures: Colouring passionate lives through Sri Lanka’s startup revolution
-
-*2025-08-28 00:56:15* · [`dailyftlk`](https://www.ft.lk/business/NIBM-Neo-Ventures-Colouring-passionate-lives-through-Sri-Lanka-s-startup-revolution/34-780860) · `en`
-
-National Institute of Business Management Director General Dr. D.M.A. Kulasooriya
-
-In a world where innovation drives progress, startups have become the lifeblood of economic growth and societal transformation. At the National Institute of Business Management (NIBM) in Sri Lanka, a dynamic initiative called Neo Ventures is empowering learners and young entrepreneurs to “colour their passionate lives” by turning bold ideas into thriving businesses.
-
-With Sri Lanka’s startup ecosystem gaining momentum, Neo Ventures stands as a beacon of creativity, resilience, and entrepreneurial spirit. NIBM Neo Ventures is shaping the future of business in Sri Lanka, the current startup landscape, and the potential for exponential growth in the coming years.
-
-...
-
-[Data](articles/0ca18553.json)
-
----
-
-### Government must work with mandatory fingerprint attendance system
-
-*2025-08-28 00:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Government-must-work-with-mandatory-fingerprint-attendance-system/4-780859) · `en`
-
-It boosts accountability, especially in public institutions where taxpayer money is involved
-
-The fingerprint system uses biometric fingerprints. In simple terms, it’s a biometric time-tracking system designed for fairness and accountability in various professions. Scanners can record their attendance at workplaces or institutions. Instead of just signing a register or calling out names, employees need to scan their fingerprints to verify their presence. The goal is to prevent proxy attendance (someone else signing in for you). This ensures accurate records of who is there and for how long.
-
-...
-
-[Data](articles/3eb3c155.json)
-
----
-
-### Science at the heart of democracy: Blueprint for Sri Lanka
-
-*2025-08-28 00:39:22* · [`dailyftlk`](https://www.ft.lk/columns/Science-at-the-heart-of-democracy-Blueprint-for-Sri-Lanka/4-780858) · `en`
-
-Appoint Chief Scientific Advisers or Thematic Research Leads to bring impartial, up-to-date expertise directly into legislative debates
-
-When Vikings arrived in Iceland towards the end of the 8th century, they gathered on a midsummer’s day to hear the laws of the land proclaimed, air grievances, and seek justice. This marked the beginning of the oldest known parliament in the world — the Althing, or Thingvellir — which still operates today.
-
-The word “parliament” later came to describe the after-dinner discussions between monks in their cloisters. Modern parliaments trace their roots to 13th-century England, when King Edward I convened joint meetings of two governing bodies: the Great Council and the Curia Regis, a smaller body of semi-professional advisors.
-
-...
-
-[Data](articles/47918d3f.json)
-
----
-
-### Ranil’s arrest, political ethics and seeing “this administration’s true face”
-
-*2025-08-28 00:30:12* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-arrest-political-ethics-and-seeing-this-administration-s-true-face/4-780857) · `en`
-
-When Napoleon ordered the execution of the Duc d’Enghien, a Bourbon prince, in 1804, the great French diplomat and thinker Talleyrand reportedly said “it is worse than a crime, it is a blunder”. The phrase became legend. The JVP-NPP will learn the same about its many excesses, including the mean-spirited treatment of Ranil Wickremesinghe.
-
-Ex-President Ranil Wickremesinghe being transported to remand prison in handcuffs late at night after a protracted hearing on a charge of the misusing public funds to the tune of 16.6 million rupees, was a social shock, a scene the general public cannot unsee. It came as culmination of an unforgettable day, but is also the commencement of a shift in the balance of public opinion and the sociopolitical equilibrium.
-
-...
-
-[Data](articles/15da7595.json)
-
----
-
-### அமெரிக்க பாடசாலை ஒன்றில் துப்பாக்கிச் சூடு: இரண்டு குழந்தைகள் உட்பட மூவர் பலி
-
-*2025-08-28 00:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/223540) · `ta`
-
-அமெரிக்காவின் மினியாபோலிஸில் உள்ள ஒரு பள்ளியில் 27ஆம் திகதி புதன்கிழமை நடந்த துப்பாக்கிச் சூட்டில் இரண்டு குழந்தைகள் கொல்லப்பட்டது்டன் மற்றும் 17 பேர் படு காயமடைந்தனர்.
-
-பாதிக்கப்பட்டவர்கள் 8 மற்றும் 10 வயதுடைய இரண்டு குழந்தைகள் என்பதை பொலிசார் உறுதிப்படுத்தியுள்ளனர்.
-
-குறித்த துப்பாக்கிச் சூடு குழந்தைகள் மற்றும் வழிபாட்டில் கலந்து கொண்டவர்களை குறிவைத்து வேண்டுமென்றே நடத்தப்பட்ட வன்முறைச் செயல்.
-
-துப்பாக்கிச் சூடு நடத்தியவர் துப்பாக்கி மற்றும் கைத்துப்பாக்கியுடன் ஆயுதம் ஏந்தியிருந்தார், மேலும் அவர் தேவாலயத்தின் ஜன்னல்கள் வழியாகச் சுட்டார்.
-
-இருப்பினும், இந்தத் துப்பாக்கிச் சூட்டுக்குப் பிறகு துப்பாக்கிச் சூடு நடத்தியவர் பின்னர் தன்னைத்தானே சுட்டுக் கொன்றதாக பொலிசார் ஆரம்ப கட்ட விசாரணையில் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/9d24035f.json)
 
 ---

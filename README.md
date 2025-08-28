@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 08:38:05**
+As of **2025-08-28 09:04:30**
 
 ## Newspaper Stats
 
-*Scraped **72,786** Articles*
+*Scraped **72,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ economynextcom | 4,440
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,000
-adaderanalk | 9,230
+adalk | 7,001
+adaderanalk | 9,233
 tamilmirrorlk | 10,794
-virakesarilk | 11,958
-adaderanasinhalalk | 12,605
+virakesarilk | 11,959
+adaderanasinhalalk | 12,607
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,786 articles have been extended.
+61,973 (85.1%) of 72,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### දුම්රිය ස්ථානාධිපතිවරු බඳවා ගැනීමේ ගැසට් නිවේදනය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
+
+*2025-08-28 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213876) · `si`
+
+ශ්‍රී ලංකා දුම්රිය සේවය සඳහා ස්ථානාධිපතිවරු බඳවා ගැනීමේ දී ඒ සඳහා පිරිමි පුද්ගලයින්ට පමණක් අයැදුම් කළ හැකි බව දන්වමින් නිකුත් කර තිබෙන ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා අමාත්‍ය මණ්ඩල වෙත යොමුකර තිබෙන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+
+අදාළ තීරණය අභියෝගයට ලක් කරමින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී ජ්‍යෙෂ්ඨ රජයේ නීතිඥවරිය විසින් මෙම දැනුම් දීම සිදුකර ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසුවේය.
+
+නීතිපතිවරයා වෙනුවෙන් පෙනීසිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ නයනතාරා බාලපටබැඳි මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් අදාළා ගැසට් නිවේදය සංශෝධනය කිරීම සඳහා එය අමාත්‍ය මණ්ඩලය වෙත යොමු කර ඇති බව සඳහන් කර තිබේ.
+
+එහි ප්‍රගතිය දැනුම්දීම සඳහා මෙම පෙත්සම වෙනත් දිනයක කැඳවන ලෙසත් රජයේ නීතිඥවරිය ඉල්ලා සිටියි.
+
+ඒ අනුව අදාළ පෙත්සම යළි ඔක්තෝබර් මස 30 වනදා කැඳවන ලෙස විනිසුරු මඩුල්ල නියෝග කර තිබේ.
+
+...
+
+[Data](articles/7fd43943.json)
+
+---
+
+### උසාවිය ළඟ දී පොලිස් නිලධාරියෙකුට තුවාල කළ සැකකරු අත්අඩංගුවට
+
+*2025-08-28 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213875) · `si`
+
+කොටුව මහෙස්ත්‍රාත් අචධිකරණය අසල පැවති විරෝධතාවයක දී පොලිස් නිලධාරියෙකුට තුවාල සිදුකිරීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ec26fa94.json)
+
+---
 
 ### இன்று பல தடவைகள் மழை பெய்யும்
 
@@ -43,6 +75,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/04152ccd.json)
+
+---
+
+### කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත ඇතුළු 6ක් ඉන්දුනීසියාවේදී අත්අඩංගුවට
+
+*2025-08-28 07:46:22* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේ--කමාන්ඩෝ-සලින්ත-ඇතුළු-6ක්-ඉන්දුනීසියාවේදී-අත්අඩංගුවට/11-418116) · `si`
+
+කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත ඇතුළු සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයන් පිරිසක්  ඉන්දුනීසියාවේදී  අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවටගත් පිරිස අතරට පානදුරේ නිලංග, බැකෝ සමන් සහ තැඹිලි ළහිරු යන අන්වර්ථ නාමයන්ගෙන් හඳුන්වාගන්නා අපරාධ කල්ලි සාමාජිකයින්ට අමතර බැකෝ සමන්ගේ බිරිඳ හා ඔවුන් දෙදෙනාගේ දරුවෙක්ද සිටින බව වාර්තා වෙයි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දීර්ඝ කාලීනව කළ මෙහෙයුමකින් පසුව ජාත්‍යන්තර පොලීසියේ හා ඉන්දුනීසියාවේ පොලීසිය එක්ව ඒකාබද්ධව කළ මෙහෙයුමකින් පසුව මෙම අත්අඩංගුවට ගැනිම සිදුකර තිබේ.
+
+ගණේමුල්ල සංජීව නැමැත්තා අධිකරණය තුළ වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම මෙහෙයවූ ප්‍රධාන පුද්ගලයා ලෙස කෙහෙල්බද්දර පද්මේ හඳුනාගෙන ලැබ තිබේ.
+
+◼️
+
+[Data](articles/8740f705.json)
 
 ---
 
@@ -66,6 +116,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இந்தோனேசியாவில் 'கெஹெல்பத்தார பத்மே', 'கொமாண்டோ சலிந்த'  உள்ளிட்ட முக்கிய 6 பாதாள உலகக்குழுவினர் கைது !
+
+*2025-08-28 07:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223550) · `ta`
+
+இலங்கையில் பல குற்றச் சம்பவங்களுடன் தொடர்புடைய ஆறு பாதாள உலகக் குழுவினரை இந்தோனேசியாவின் தலைநகர் ஜகார்த்தாவில் வைத்து கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் எஃப்.யு. வூட்லர் தெரிவித்துள்ளார்.
+
+கைது செய்யப்பட்டவர்களில் ஒரு பெண் உட்பட 'கெஹெல்பத்தார பத்மே', 'கொமாண்டோ சலிந்த' மற்றும் 'பாணந்துறை நிலங்க' ஆகிய முக்கிய நபர்கள் அடங்குவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+சர்வதேச பொலிஸாரால் தேடப்பட்டு வந்த இந்த ஆறு பேரும், இந்தோனேசியாவின் சட்ட அமுலாக்கல் அதிகாரிகளால் நடத்தப்பட்ட ஒரு சிறப்பு நடவடிக்கையின் போது கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களில் பிரதான குற்றவாளியான கெஹெல்பத்தார பத்மே, மலேசியாவிலிருந்து தப்பிச் சென்று ஜகார்த்தாவில் பதுங்கியிருந்த நிலையில் கைது செய்யப்பட்டுள்ளதாகத் தகவல்கள் தெரிவிக்கின்றன.
+
+இலங்கையின் தேசிய புலனாய்வுப் பிரிவின் உதவியுடன் இந்தோனேசிய அதிகாரிகள் இந்த நடவடிக்கையை மேற்கொண்டதாகவும், கைது செய்யப்பட்டவர்களை இலங்கைக்கு நாடு கடத்துவதற்கான சட்ட நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாகவும் பொலிஸ் பேச்சாளர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/e55a55e0.json)
+
+---
+
 ### කෙහෙල්බද්දර පද්මේ ඇතුළු පාතාල කල්ලි සාමාජිකයින් 6ක් ඉන්දුනීසියාවේ දී අත්අඩංගුවට
 
 *2025-08-28 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213873) · `si`
@@ -81,6 +151,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ee5e90ee.json)
+
+---
+
+### ‘Kehelbaddara Padme’ and ‘Commando Salinda’ among 6 underworld figures arrested in Indonesia
+
+*2025-08-28 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111927/kehelbaddara-padme-and-commando-salinda-among-6-underworld-figures-arrested-in-indonesia) · `en`
+
+A total of six Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda’, have been arrested in Jakarta, Indonesia, Police Media Spokesperson ASP F.U. Wootler said.
+
+The Police Media Spokesperson noted that these underworld figures were arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.
+
+According to the police, those arrested include ‘Kehelbaddara Padme’, ‘Commando Salinda’, ‘Panadura Nilanga’, ‘Thembili Lahiru’, ‘Backhoe Saman’, and his wife.
+
+◼️
+
+[Data](articles/fd63d355.json)
 
 ---
 
@@ -101,6 +187,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cf7ca0a5.json)
+
+---
+
+### Shooter kills two Minneapolis school children in Catholic church, wounds 17 others
+
+*2025-08-28 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111926/shooter-kills-two-minneapolis-school-children-in-catholic-church-wounds-17-others) · `en`
+
+An assailant armed with three guns fired through stained-glass windows into a Catholic church where parish school students were attending Mass on Wednesday, killing two children and wounding 17 other people, officials said.
+
+The shooting ended when the lone suspect, identified as Robin Westman, 23, “took his own life” at the rear of the church, according to Minneapolis Police Chief Brian O’Hara, who declined to offer a possible motive for the attack.
+
+A videotaped message by the suspect showed Westman struggled with depression and was fascinated by the perpetrators of past mass shootings.
+
+FBI Director Kash Patel said his agency was investigating the attack as an “act of domestic terrorism and hate crime targeting Catholics.”
+
+Two victims, aged 8 and 10, were slain where they sat as the gunfire turned the morning Mass into pandemonium. It sent worshipers diving behind pews for cover while older children scrambled to shield younger ones, officials said.
+
+...
+
+[Data](articles/686de49b.json)
 
 ---
 
@@ -145,6 +251,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/efab1035.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2025-08-28 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111925/showers-expected-in-parts-of-the-island) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, the Department of Meteorology said.
+
+Fairly heavy falls above 50 mm are likely at some places in the Sabaragamuwa province and in Nuwara-Eliya and Kandy districts, the Met. Department added.
+
+Several spells of showers may occur in the North-western province and in Hambantota district.
+
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western and North-western provinces and in Trincomalee and Hambantota districts, it added.
+
+Meanwhile, the general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+The sun is going to be directly over the latitudes of Sri Lanka during 28th of August to 07th of September due to its apparent southward relative motion.
+
+...
+
+[Data](articles/c88bb2dc.json)
 
 ---
 
@@ -1587,133 +1715,5 @@ The Police Media Division advises motorists using the road to seek alternative r
 ...
 
 [Data](articles/eb8516db.json)
-
----
-
-### බොරැල්ලේ ගිලා බැසීමේ අවදානමක් සහිත මාර්ගය වසා දැමේ
-
-*2025-08-27 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213857) · `si`
-
-බොරැල්ල පොලිස් වසමේ දේවි බාලිකා වටරවුමේ සිට ඩී.එස්. සේනානායක හන්දිය දක්වා වූ කොළඹ දෙසට ඇතුළු වන මාර්ගය හදිසියේ වසා දැමීමට පියවර ගෙන තිබේ.
-
-ඒ,  අද (27) දින උදෑසන සිට එහි ඉරිතැලීම් හා ගිලා බැසීමේ අවදානමක් හා අපජලය මාර්ගයට ගලා ඒම හේතුවෙනි.
-
-එම ස්ථානයෙහි අලුත්වැඩියා කටයුතු සිදුකරන බැවින් කොළඹ දෙසට ඇතුළු වන මංතිරු මෙලෙස වසා දැමීමට පියවර ගෙන ඇත.
-
-මේ හේතුවෙන් මාර්ගයේ රථවාහන ගමනාගමනයට බාධා ඇති විය හැකි බැවින් කොළඹ දෙසට ඇතුළුවන මාර්ගය භාවිත කරන රියදුරන් හැකිතාක් විකල්ප මාර්ග භාවිත කරන මෙන් පොලිසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
-
-කොළඹින් පිටවන රථවාහන සාමාන්‍ය පරිදි ධාවනය කෙරෙන බවද පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/346ab41b.json)
-
----
-
-### ‘Katchatheevu belongs to Sri Lanka, that will never change’ – FM responds to Vijay
-
-*2025-08-27 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111916/katchatheevu-belongs-to-sri-lanka-that-will-never-change-fm-responds-to-vijay) · `en`
-
-Sri Lanka’s Foreign Minister Vijitha Herath today issued a stern response to the controversial comments recently made by Indian actor-turned-politician Vijay regarding the Katchatheevu Island.
-
-“Katchatheevu Island belongs to Sri Lanka. It is an island belonging to Sri Lanka. Therefore, that will never change,” the minister said, responding to questions from reporters during the weekly Cabinet press briefing.
-
-He stated that elections are slated to be held in South India and candidates will make various statements in the election stage to obtain votes. “This is not the first time. Even in the past, various such statements have been made on the election stage.”
-
-However, statements made on those election stages will not change anything, Minister Herath emphasized.
-
-“I saw that Vijay had made this statement at an election rally,” he said, adding that not much attention should be paid to that statement.
-
-...
-
-[Data](articles/4bb9e7a5.json)
-
----
-
-### CID probing Gammanpila’s controversial statement, court told
-
-*2025-08-27 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111915/cid-probing-gammanpilas-controversial-statement-court-told) · `en`
-
-The Criminal Investigation Department (CID) has informed the Colombo Fort Magistrate’s Court that an investigation has been initiated under the International Covenant on Civil and Political Rights (ICCPR) Act against former Minister Udaya Gammanpila.
-
-The investigation has been initiated against the former Minister for allegedly making a statement that could incite disharmony among communities.
-
-Presenting facts before Colombo Fort Magistrate Nilupuli Lankapura, the CID noted that the investigation was launched based on a complaint filed with the CID on August 08, 2025.
-
-◼️
-
-[Data](articles/50c9867c.json)
-
----
-
-### ඥානසාර හිමිට ජනපති සමාව දීමට එරෙහි පෙත්සම්වල තීන්දුව ඉදිරියට
-
-*2025-08-27 16:45:23* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිට-ජනපති-සමාව-දීමට-එරෙහි-පෙත්සම්වල-තීන්දුව-ඉදිරියට/11-418105) · `si`
-
-අධිකරණයට අපහාස කිරීම සම්බන්ධයෙන් සිරදඬුවම් නියම වු බොදු බල සේනා සංවිධානයේ ලේකම් පූජ්‍ය ගලගොඩ අත්තේ ඥානසාර හිමියන් ජනාධිපති සමාව මත නිදහස් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි හෙයින් එම තීරණය බල රහිත කරන්නැයි ඉල්ලා ගොනුකළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි තීන්දුව ඉදිරියේදී ප්‍රකාශයට පත් කරන බව දැනුම් දුන්නේය.
-
-අතුරුදන් වූ මාධ්‍යවේදී ප්‍රගීත් එක්නැලිගොඩ මහතාගේ බිරිඳ වන සන්ධ්‍යා එක්නැළිගොඩ මහත්මිය සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රයේ විධායක අධ්‍යක්ෂ ආචාර්ය පාක්‍යසෝතී සරවනමුත්තු මහතා ගොනු කරතිබූ පෙත්සම් වල වගඋත්තරකරුවන් වශයෙන් හිටපු ජනාධි මෛත්‍රීපාල සිරිසේන මහතා ඇතුළු පිරිසක් නම් කර ඇත.
-
-මෙම මූලික මිනිස් අයිතිවාසිකම් පෙත්සම් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ජනක් ද සිල්වා” සෝභිත රාජකරුණා සහ සම්පත් අබේකෝන් යන යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ලක් හමුවේ විභාග කෙරිණී.
-
-පෙත්සම්කාර සහ වගඋත්තරකාර පාර්ශවයන් ඉදිරිපත් කළ කරුණු සහ දෙපාර්ශවයේ වාචික දේශන අවසන් කිරීමෙන් පසු තීන්දුව ප්‍රකාශයට පත් කිරීම කල් තැබිණි.
-
-...
-
-[Data](articles/4edb2f24.json)
-
----
-
-### පනත් කෙටුම්පත් දෙකකට කථානායකගේ සහතිකය
-
-*2025-08-27 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213856) · `si`
-
-කථානායක ජගත් වික්‍රමරත්න මහතා පසුගියදා (22) සමෘද්ධි (සංශෝධන) පනත් කෙටුම්පත සහ රබර් පාලන (සංශෝධන) පනත් කෙටුම්පත සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව ප්‍රකාරව සිය සහතිකය සටහන් කර තිබේ.
-
-2013 අංක 1 දරන සමෘද්ධි පනත සංශෝධනය කිරීම සඳහා 2025 ජුනි 17 වන දින ග්‍රාමීය සංවර්ධන සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබලගැන්වීමේ අමාත්‍යවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද මෙම පනත මූල්‍ය ආයතනයවල මූල්‍ය අධීක්ෂණය වැඩිදියුණු කිරීම කෙරෙහි සහ මූල්‍ය ආයතන තුළ වගවීම ශක්තිමත් කිරීමට ප්‍රතිපාදන සපයනු ලබයි.
-
-තවද, මෙම සංශෝධනය මගින් සමෘද්ධි ප්‍රජාමූල බැංකු සහ සමෘද්ධි ප්‍රජාමූල සමිති සඳහා ගිණුම් විගණනය කිරීම සඳහා ජාතික විගණන කාර්යාලය වෙත මූල්‍ය ආයතන තුළ වගවීම ශක්තිමත් කිරීමට පැවරීම මඟින් පවතින ව්‍යවස්ථාපිත සහ ජාතික විගණන විධිවිධානවලට අනුකූල වීම සහතික කරයි.
-
-...
-
-[Data](articles/addd937b.json)
-
----
-
-### Sri Lanka awards Aditya Birla bid to supply Octane 92 for six months
-
-*2025-08-27 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-aditya-birla-bid-to-supply-octane-92-for-six-months-238488/) · `en`
-
-ECONOMYNEXT – Sri Lanka Cabinet has approved a decision to award supply of 1.5 million barrels of Octane to M/s Aditya Birla Global Trading (Singapore) Pte for six months starting from September 15 this year, the government said.
-
-The decision for long term contract of supplying was based on the recommendation by a Special Standing Procurement Committee appointed by the Cabinet of Ministers.
-
-The government in its cabinet decisions this week said Aditya Birla was chosen after receiving eight bidders after the state-owned Ceylon Petroleum Corporation (CPC) called for bids. (Colombo/August 27/2025)
-
-◼️
-
-[Data](articles/e0e15a9c.json)
-
----
-
-### Sri Lanka sells 37-pct less bills than offered
-
-*2025-08-27 16:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-37-pct-less-bills-than-offered-238481/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 51.14 billion rupees of Treasury bills of an offered 82 billion, with very small amounts of 3-month bills sold, with yields being kept flat, data from the state debt office showed.
-
-The 3-month yield was down 1 basis points at 7.58 percent, with 15 billion rupees offered and only 4.64 billion sold.
-
-The 6-month yield was flat at 7.89 percent, with 33 billion offered and 36.51 billion sold.
-
-The 12-month yield was flat at 8.03 percent with 35 billion rupees of bills offered and only 9.9 billion sold.
-
-The debt office is offering bills on tap at the weighted average yield.
-
-All bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/cc849fac.json)
 
 ---

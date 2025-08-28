@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 17:32:21**
+As of **2025-08-28 17:54:32**
 
 ## Newspaper Stats
 
-*Scraped **72,895** Articles*
+*Scraped **72,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,99 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 745
-economynextcom | 4,448
+economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,012
 adaderanalk | 9,251
-tamilmirrorlk | 10,829
+tamilmirrorlk | 10,830
 virakesarilk | 11,968
-adaderanasinhalalk | 12,628
+adaderanasinhalalk | 12,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,895 articles have been extended.
+61,973 (85.0%) of 72,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### Sri Lanka’s Siyapatha Finance to raise Rs4bn in debenture issue
+
+*2025-08-28 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-siyapatha-finance-to-raise-rs4bn-in-debenture-issue-238597/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Siyapatha Finance PLC said it will issue listed, rated, unsecured, subordinated, redeemable debentures to raise 4 billion rupees.
+
+The bonds will have a tenor of five years and carry, “an interest rate in compliance with the guidelines of the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
+
+The issue is subject to obtaining the necessary regulatory approvals.
+
+The company proposes to have these debentures listed on the Colombo Stock Exchange. (Colombo/Aug28/2025)
+
+◼️
+
+[Data](articles/35a9ff11.json)
+
+---
+
+### பிரித்தானிய உயர் ஸ்தானிகர்  சீதை அம்மன் ஆலயத்தில் வழிபாடு
+
+*2025-08-28 17:29:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பிரித்தானிய-உயர்-ஸ்தானிகர்-சீதை-அம்மன்-ஆலயத்தில்-வழிபாடு/76-363680) · `ta`
+
+இலங்கைக்கான பிரித்தானிய உயர் ஸ்தானிகர் நுவரெலியா சீதை அம்மன் ஆலயத்தில் வழிபாட்டில் ஈடுபட்டதுடன் ஆலய வரலாற்றைப் பற்றியும் கேட்டறிந்து கொண்டார்.
+
+நுவரெலியா சீதை அம்மன் ஆலயத்திற்கு  வருகை தந்த இலங்கைக்கான பிரித்தானிய உயர் ஸ்தானிகரை, நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினரும் ஆலய அறங்காவலர் குழுவின் தலைவருமான வேலுசாமி ராதாகிருஷ்ணன் மற்றும் அறங்காவலர் குழுவின் செயலாளர் சிவாகுணசேகரன் ஆகியோர் வரவேற்றனர் .
+
+அத்தோடு ஆலயத்திற்கு வருகை தரும்இராஜதந்திரிகளின் குறிப்பேட்டில் உயர்ஸ்தானிகர் ஒரு சிறப்பு குறிப்பை எழுதினார்.  உயர்ஸ்தானிகருக்கு  நினைவுப் பரிசு ஆலய அறங்காவலர் குழுவின் நினைவுப்பரிசு ஒன்றினையும் வழங்கி கௌரவித்தனர்.
+
+◼️
+
+[Data](articles/a74e0016.json)
+
+---
+
+### අද සවස 6 සිට වරකාපොලින් රථ වාහන සීමා කිරීමක්
+
+*2025-08-28 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213899) · `si`
+
+වරකාපොල, අඹේපුස්ස රන්ගල් ගුහාව පුරාණ ශ්‍රී පත්තිනි දේවාලයේ අද (28) පැවැත්වෙන දේව පෙරහර හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ රථ වාහන ගමනාගමනය සීමාකරන බව නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය පැවසීය.
+
+මෙම දේව පෙරහර අද සවස 6 සිට කොළඹ නුවර ප්‍රධාන මාර්ගයේ වීථි සංචාරය කිරීමට නියමිතව අතර, එය අඹේපුස්ස දේවාල හන්දියෙන් කොළඹ නුවර ප්‍රධාන මාර්ගයට පිවිස, එම මාර්ගයේ නුවර දෙසට ගමන් කෙරේ.
+
+අනතුරුව අඹේපුස්ස හන්දිය, මාහේන ප්‍රාදේශීය ලේකම් කාර්යාල හන්දිය, මාහේන වංගුව දක්වා ගමන් කර නැවතත් එම මාර්ගයේම දේවාලය වෙත ගමන් කිරීමට නියමිතය.
+
+පෙරහර ගමන් කරන කාලය තුළදී කොළඹ නුවර ප්‍රධාන මාර්ගයේ රථ වාහන තදබදයක් ඇති විය හැකි බැවින් එම කාලය තුළ මෙම මාර්ගය භාවිතා කරන මහජනතාව සහ රියදුරන්ට පහත විකල්ප මාර්ගයන් භාවිතා කරන ලෙස පොලීසිය ඉල්ලා සිටී.
+
+කොළඹ - නුවර මාර්ගයේ කොළඹ දෙස සිට පැමිණෙන රථ වාහන පස්යාල හන්දියෙන් නිට්ටඹුව ගිරිඋල්ල මාර්ගය ඔස්සේ මිරීගමට ගොස් අධිවේගී මාර්ගය භාවිතා කරමින් කුරුණෑගල දෙසට සහ මහනුවර දෙසට ගමන් කළ හැකිය.
+
+...
+
+[Data](articles/ef378b8c.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-08-28 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-238591/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.23/40 to the US dollar in the spot market Thursday, stronger from 302.42/52 the previous day, while bond yields were broadly steady except for the 2029 tenors which were slightly up, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.14/24 percent, down from 8.15/24 percent.
+
+A bond maturing on 15.09.2027 closed at 8.55/62 percent, down from 8.58/65 percent.
+
+A bond maturing on 15.12.2029 closed at 9.45/59 percent, up from 9.41/44 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.28/32 percent. (Colombo/Aug28/2025)
+
+◼️
+
+[Data](articles/ee996aa0.json)
+
+---
 
 ### தம்பிலுவில் மயானத்தில் 2 ஆம் கட்ட அகழ்வு பணிகள் முன்னெடுப்பு
 
@@ -64,7 +138,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### පොලිස් නිලධාරියෙකුට වතුර බෝතලයකින් පහරදුන්බවට සැකකරන පුද්ගලයා රිමාන්ඩ්
+### පොලිස් නිලධාරියෙකුට වතුර බෝතලයකින් පහරදුන් බවට සැකකරන පුද්ගලයා රිමාන්ඩ්
 
 *2025-08-28 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213898) · `si`
 
@@ -136,19 +210,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### පුරප්පාඩු වී තිබූ අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමිට
+### අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරයට පූජ්‍ය නාරම්පනාවේ ආනන්ද නාහිමි පත් කෙරේ
 
 *2025-08-28 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213897) · `si`
 
-පුරප්පාඩු වී තිබූ අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරය සඳහා අස්ගිරි පාර්ශවයේ නියෝජ්‍ය ලේඛකාධිකාරී පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියෝ තේරීපත්ව තිබේ.
+සියම් මහා නිකායේ අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරය සඳහා අස්ගිරි පාර්ශ්වයේ නියෝජ්‍ය ලේඛකාධිකාරී අතිපූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියෝ තේරී පත්විය.
 
-මෙම ධුරය සඳහා වූ නිලවරණය අස්ගිරි පාර්ශ්වයේ මහානායක වරකාගොඩ ඥාණරතන නාහිමිගේ ප්‍රධානත්වයෙන් අද (28) ප.ව. 2ට මහනුවර අස්ගිරි මහා විහාරයේ මංගල උපෝසථගාරයේ දී පැවැත්විණි.
+මෙම ධුරය සඳහා වූ නිලවරණය අද (28) පස්වරු 2ට අස්ගිරි මහා විහාරයේ මංගල උපෝසථගාරයේදී එම පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ඥාණරතන නාහිමිගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
 
-මේ සඳහා අස්ගිරි කාරක මහා සංඝ සභාවේ හිමිවරුන් 19 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා සිටියහ.
+හිමිවරුන් විසි දෙනෙකු අස්ගිරි කාරක මහා සංඝ සභාව නියෝජනය කරන අතර ඉන් 19 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා තිබුණි.
 
 අස්ගිරි පාර්ශ්වයේ ජ්‍යෙෂ්ඨ කාරක සංඝ සභික ඓතිහාසික මහියංගනය රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ධම්මරක්ඛිත හිමි හා අස්ගිරි පාර්ශ්වයේ ජ්‍යෙෂ්ඨ ලේඛකාධිකාරී  ධර්මාචාර්ය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමිවරු මෙම ධුරය සඳහා අපේක්ෂකයන් ලෙස ඉදිරිපත්වීමට දැහැත් ලබාදී තිබුණි.
 
-අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරයේ කටයුතු කළ පූජ්‍ය  ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමියෝ අපවත්වීම හේතුවෙන් එම ධුරය පුරප්පාඩු වී තිබුණි.
+අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරයේ කටයුතු කළ පූජ්‍ය  ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමිගේ අපවත්වීම හේතුවෙන් එම පාර්ශ්වයේ එක් අනුනායක ධුරයක් පුරප්පාඩුව පැවතුණි.
 
 ◼️
 
@@ -1771,73 +1845,5 @@ Police said that it is suspected that the shooting was carried out under the dir
 ◼️
 
 [Data](articles/ec26fa94.json)
-
----
-
-### வயல்வெளிகளுக்கு தீ மூட்டிய விசமிகள்
-
-*2025-08-28 08:40:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயல்வெளிகளுக்கு-தீ-மூட்டிய-விசமிகள்/175-363631) · `ta`
-
-யாழ்ப்பாணம், மண்கும்பான் பிள்ளையார் கோயில் சுற்றுப்புறத்தில் இருக்கும் வயல் காணிகளில் காணப்பட்ட புதர்களுக்கு விசமிகள் தீ மூட்டியதால் புற்கள் சுடர்விட்டு பற்றி எரிந்து வீதியால் மக்கள் செல்லமுடியாத நிலை உருவாகியுள்ளதுடன், கால்நடைகளும் பெரும் அசௌகரியங்களை  சந்தித்துள்ளன.
-
-இது தொடர்பாக பிரதேச சபை தவிசாளருக்கு அறியப்படுத்தியதை அடுத்து துரித நடவடிக்கை மேற்கொண்டதன் பிரகாரம் யாழ் மாநகர சபையின் தீயணைப்பி வாகனம் குதித்த பகுதிக்கு வரவழைக்கப்பட்டு தீயை கட்டுப்படுத்த  நடவடிக்கை எடுக்கப்பட்டது.
-
-சம்பவம் இடம்பெற்ற இடத்துக்கு பிரதேச சபை உறுப்பினர்களான அனுசியா ஜெயகாந்த், சுவமினாதன்  பிரகலாதன், கருணாகரன் நாவலன், செந்தமிழ்ச் செல்வன் கேதீஸ்வரன் ஆகியோர் நேரில் சென்று தீப் பரவலை  கட்டுப்படுத்தும் துறைசார் அதிகாரிகளுடன் இணைந்து தேவையான நடவடிக்கைகளை முன்னெடுத்தனர்.
-
-வீசும் கடும் காற்றுக் காரணமாக பெரும் சுடர்விடு எரிந்த தீயை  தீயணைப்பு படையினர் பலமணி நேரம் போராடிய கட்டுப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/96fe8f66.json)
-
----
-
-### எதிர்க்கட்சிகள் இணைந்து புதிய தீர்மானம்
-
-*2025-08-28 08:39:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகள்-இணைந்து-புதிய-தீர்மானம்/175-363630) · `ta`
-
-எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் கூடிய கூட்டு எதிர்க்கட்சிகள், அரசியல் பழிவாங்கல்களைக் கையாள்வதற்காக ஒரு சட்டக் குழுவை நியமிக்க முடிவு செய்ததாக எதிர்க்கட்சித் தலைவர் அலுவலகம் தெரிவித்துள்ளது.
-
-இந்தக் குழுவை ஒருங்கிணைக்கும் பொறுப்பில் முன்னாள் பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடியை நியமிக்க முடிவு செய்யப்பட்டது.
-
-இத்தகைய பழிவாங்கல்களை எதிர்கொள்ள அனைத்து அரசியல் கட்சிகளின் கூட்டு அமைப்பை ஒருங்கிணைக்க முன்னாள் பாராளுமன்ற உறுப்பினர்கள் லசந்த அழகியவண்ண மற்றும் சமன் ரத்னபிரிய நியமிக்கப்பட்டனர்.
-
-◼️
-
-[Data](articles/4c17982a.json)
-
----
-
-### පානදුර නිලංකගේ මාමා වෙඩි තබා ඝාතනය කරයි
-
-*2025-08-28 08:13:58* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-නිලංකගේ-මාමා-වෙඩි-තබා-ඝාතනය-කරයි/11-418120) · `si`
-
-සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයෙක් හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් බව කියන පානදුර නිලංකගේ බිරිඳගේ පියා වෙඩි තබා ඝාතනය කර ඇති බව වාර්තා වෙයි.
-
-ඊයේ රාත්‍රී ඔහු සිටි නිවසට පැමිණි ඇති වෙඩික්කරුවන් දෙදෙනෙක් මෙම වෙඩි තැබීම සිදුකර තිබේ. පානදුර, වඳුරාමුල්ල ප්‍ර දේශයේ සිදුවූ මෙම වෙඩි තැබීමෙන් ඝාතනය වී ඇත්තේ දිල්හාර ප්‍රනාන්දු නැමැති 55 හැවැරිදි පුද්ගලයෙකි.
-
-◼️
-
-[Data](articles/2a742365.json)
-
----
-
-### SLTB trade unions launch strike over several demands
-
-*2025-08-28 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111928/sltb-trade-unions-launch-strike-over-several-demands) · `en`
-
-Several trade unions of the Sri Lanka Transport Board (SLTB) commenced trade union action from midnight yesterday (27) based on four demands.
-
-The Chairman of the SLTB ‘Samagi Sewaka Sangamaya’, Niroshan Sampath Premaratne, stated that the strike was launched in protest against the National Transport Commission’s (NTC) decision to implement a unified bus timetable for both SLTB and private buses, along with several other demands.
-
-The Chairman of the Lanka Private Bus Association, Gemunu Wijeratne, also stated that there are many issues with the introduced unified timetable.
-
-However, NTC Chairman Eng. P.A. Chandrapala responded by saying that the unified timetable was created after considering the views of all parties involved.
-
-Meanwhile, Deputy Minister of Transport and Highways, Prasanna Gunasena, stated that the strike is unfair, as the majority of the demands made by the trade unions have already been granted.
-
-...
-
-[Data](articles/32548a1a.json)
 
 ---

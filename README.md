@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 12:09:23**
+As of **2025-08-28 12:37:06**
 
 ## Newspaper Stats
 
-*Scraped **72,833** Articles*
+*Scraped **72,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,003
 adaderanalk | 9,240
-tamilmirrorlk | 10,813
+tamilmirrorlk | 10,814
 virakesarilk | 11,963
-adaderanasinhalalk | 12,613
+adaderanasinhalalk | 12,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,833 articles have been extended.
+61,973 (85.1%) of 72,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව විශේෂ අධිකරණයක්
+
+*2025-08-28 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213883) · `si`
+
+සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව විශේෂ අධිකරණයක් පිහිටුවා නඩු විභාග කඩිනම් කිරීමට පියවර ගන්නා බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.
+
+ඔහු මේ බව සඳහන් කළේ අද (28) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති මාධ්‍ය හමුවේදී විශේෂ අධිකරණයක් පිහිටුවීමට පවතින සූදානම සම්බන්ධයෙන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් මහජන ආරක්ෂක අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+"අපි දැන් සැලසුම් කරලා තියෙනවා සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිවත් විශේෂ අධිකරණයක් පිහිටුවා නඩු විභාග කඩිනම් කරන්න. විශේෂයෙන් ඔවුන්ට දඬුවම් දෙන්න. ශිෂ්ට සම්පන්න සමාජයක් ලෙස නීතිය ඉදිරියේ තමා මේ ක්‍රියාන්විතය සිද්ධ වෙන්නේ.  මේ අවස්ථාවේදී සැලසුම් කරලා තියෙනවා විශේෂ මහාධිකරණ කිහිපයක් ස්ථාපිත කරන්න. අපි උත්සාහ කරනවා සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව තිබෙන නඩු කඩිනම් කරන්නත් කාර්යක්ෂම කරන්නත්. සමස්ත ක්‍රියාවලිය හරහා ඔවුන්ට කඩිනමින් දඬුවම් ලබාදෙන්න."
+
+◼️
+
+[Data](articles/9559abc0.json)
+
+---
+
+### ரணிலுக்கு இருதய சத்திரசிகிச்சை?
+
+*2025-08-28 11:58:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-இருதய-சத்திரசிகிச்சை/175-363651) · `ta`
+
+ரணில் விக்ரமசிங்கவுக்கு இருதய சத்திரசிகிச்சை செய்ய வேண்டும் என விசேட மருத்துவர்கள் தீர்மானித்துள்ளதாக கொழும்பு தேசிய வைத்தியசாலையின் பிரதிப் பணிப்பாளர் ருக்ஷான் பெல்லன தெரிவித்துள்ளார்.
+
+மேலும், தேசிய வைத்தியசாலையில் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்றுவரும் ரணில் விக்ரமசிங்கவுக்கு இன்று மேலும் பல பரிசோதனைகள் நடத்தத் திட்டமிடப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.  R
+
+◼️
+
+[Data](articles/7887caf3.json)
+
+---
 
 ### ඉතිහාසගත වූ පොලිස් මෙහෙයුම ගැන පොලිස්පතිගෙන් හෙළිදරව්වක්
 
@@ -189,8 +219,6 @@ Extensions include translations and NER (Named Entity Recognition).
 இந்த ஈனத்தனமான சம்பவம்,  நானுஒயா பொலிஸ் பிரிவிற்குட்பட்ட நானுஒயா எடின்பரோ தோட்டப் பகுதியில் இடம்பெற்றுள்ளது.
 
 அங்கு பாலத்துக்கு மேல் நாயொன்றின் வாயையும் முன்னங் கால்களையும் இறுக்கிப் பிடித்த இளைஞன், இடுப்பு உடையும் வரை தூக்கி பாலத்தின் மீதே அடித்தான். அப்போது, மற்றொரு நாய், அந்த நாயை முகர்ந்து சுற்றி வந்தது. இரண்டு முறை தூக்கி கீழே அடித்தான். அப்போது,
-
-வயது குறைந்த சிறுவனின் குரலும் மற்றொரு ​இளைஞனின் குரலும் கேட்கிறது. எனினும், எத்தனை பேர் அவ்விடத்தில் இருந்தனர் என்பது தெளிவாக தெரியவில்லை.
 
 ...
 
@@ -1743,37 +1771,5 @@ Resonating with the company’s vision to deliver optimum value to its stakehold
 ◼️
 
 [Data](articles/3ebfb324.json)
-
----
-
-### ComBank teams up with Lead Pro Education to broaden access to overseas study
-
-*2025-08-27 21:49:00* · [`islandlk`](http://island.lk/combank-teams-up-with-lead-pro-education-to-broaden-access-to-overseas-study/) · `en`
-
-The Commercial Bank of Ceylon has entered into a partnership with Lead Pro Education Consultants (Pvt) Ltd to provide affordable financial solutions to students planning to pursue higher education overseas.
-
-The two organisations formalised their collaboration through the signing of a Memorandum of Understanding (MoU), under which students will benefit from a comprehensive education loan package and streamlined banking facilities.
-
-Lead Pro Education Consultants, which maintains affiliations with a large network of universities in Australia and New Zealand, offers advisory and placement services to students aspiring to study in these countries. Through this agreement, students who engage Lead Pro for placements can open a Student File with Commercial Bank and access loans designed specifically for overseas education.
-
-...
-
-[Data](articles/cfa6c790.json)
-
----
-
-### Bourse indices move upward as profit-takings become notable in HNB and Combank stocks
-
-*2025-08-27 21:48:00* · [`islandlk`](http://island.lk/bourse-indices-move-upward-as-profit-takings-become-notable-in-hnb-and-combank-stocks/) · `en`
-
-CSE trading kicked off on a positive note yesterday but profit- takings were soon noted in several banks, especially HNB and Commercial Bank.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 139 points while S and P SL20 rose by 19.9 points.
-
-Turnover stood at Rs 7.39 billion with 17 crossings. Of 17 crossings, top crossings were reported in LOLC, which crossed 650,000 shares to the tune of Rs 357.5 million and its shares traded at Rs 550, Union Bank 25.2 million shares crossed for Rs 357.3 million; its shares traded at 14.20, Asia Siyaka 20 million shares crossed for Rs 160 million; its shares traded at Rs 8.
-
-...
-
-[Data](articles/00edea88.json)
 
 ---

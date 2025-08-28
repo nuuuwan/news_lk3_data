@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 15:19:43**
+As of **2025-08-28 15:32:29**
 
 ## Newspaper Stats
 
-*Scraped **72,870** Articles*
+*Scraped **72,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,444
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,008
+adalk | 7,009
 adaderanalk | 9,248
-tamilmirrorlk | 10,820
+tamilmirrorlk | 10,821
 virakesarilk | 11,966
 adaderanasinhalalk | 12,625
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,870 articles have been extended.
+61,973 (85.0%) of 72,872 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c5613b03.json)
+
+---
+
+### ஜனாதிபதியின் பயண விவரங்கள்:  நிராகரித்தது செயலகம்
+
+*2025-08-28 14:44:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பயண-விவரங்கள்-நிராகரித்தது-செயலகம்/175-363662) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் உள்நாட்டு பயணம் குறித்த தகவல்களை வெளியிட ஜனாதிபதி செயலகம் மறுத்துவிட்டது. தகவல் அறியும் உரிமை (RTI) கோரிக்கைக்கு அனுப்பிவைக்கப்பட்டிருக்கும் பதிலிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+ஜினாத் பிரேமரத்னவால் ஆகஸ்ட் 4 ஆம் திகதி கேட்கப்பட்ட கேள்விகள்,    தகவல் அறியும் உரிமைச் சட்டத்தின் பிரிவு 5(1)(b)(i) இன் கீழ் ஆகஸ்ட் 27 ஆம் திகதி முறையாக நிராகரிக்கப்பட்டது.
+
+அதன் பதிலில், சட்டத்தின் பிரிவு 31(1) இன் கீழ் 14 நாட்களுக்குள் மேல்முறையீடு செய்யலாம் என்று செயலகம் விண்ணப்பதாரருக்குத் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1f7a01df.json)
 
 ---
 
@@ -236,6 +252,22 @@ The petition has been scheduled to be taken up again on September 10.
 
 ---
 
+### මසක් තුළ ඇමෙරිකාවේ දෙවැනි යුද නෞකාවත් ලංකාවට එයි
+
+*2025-08-28 13:44:15* · [`adalk`](https://www.ada.lk/picture_story/මසක්-තුළ-ඇමෙරිකාවේ-දෙවැනි-යුද-නෞකාවත්-ලංකාවට-එයි/10-418125) · `si`
+
+ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS TULSA (LCS 16)’ යුද නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා 2025 අගෝස්තු මස 27 වැනි දින කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකෙරිණි.
+
+මෙලෙස කොළඹ වරායට පැමිණි Littoral Combat වර්ගයට අයත් ‘USS TULSA (LCS 16)’ නෞකාව, දිගින් මීටර් 127.6 ක් වන අතර, එහි අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් K. A. Moyer කටයුතු කරනු ලබයි. මෙම නෞකාවේ, කුඩා ප්‍රහාරක හෙලිකොප්ටර් යානා මෙන්ම, ප්‍රහාරක බලකා සහ සන්නද්ධ රථ ප්‍රවාහනය කිරීමටද හැකියාව ඇත.
+
+මෙම නෞකාවේ පැමිණීමත් සමගින් මසක් තුළ ශ්‍රී ලංකාවට පැමිණි දෙවැනි යුද නෞකාව මෙය වෙයි.
+
+◼️
+
+[Data](articles/c650c5e6.json)
+
+---
+
 ### Former NLB Director Thusitha Halloluwa further remanded
 
 *2025-08-28 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111940/former-nlb-director-thusitha-halloluwa-further-remanded) · `en`
@@ -292,13 +324,13 @@ After considering the facts presented, the suspect was ordered to be remanded un
 
 *2025-08-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213890) · `si`
 
-මෙරට ඉතිහාසයේ ප්‍රථමවරට රජයේ සමාජ ආර්ථික සංවර්ධන වැඩපිළිවෙළ සහ සමගාමී වන  "ශ්‍රී ලංකාව සඳහා වූ පර්යේෂණ ප්‍රමුඛතා – 2026" වාර්තාව ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා වෙත භාර දීම අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදුවිය.
+මෙරට ඉතිහාසයේ ප්‍රථමවරට රජයේ සමාජ ආර්ථික සංවර්ධන වැඩපිළිවෙළ සහ සමගාමී වන"ශ්‍රී ලංකාව සඳහා වූ පර්යේෂණ ප්‍රමුඛතා – 2026" වාර්තාව ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා වෙත භාර දී තිබේ.
 
-ඒ අනුව, පර්යේෂණ සහ නවෝත්පාදනය මත පදනම් වූ ජාතික සංවර්ධනයේ නව යුගයක ආරම්භය සනිටුහන් කෙරෙන මෙම වාර්තාව ජාතික විද්‍යා සහ තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී. ඩබ්ලිව්. ඒ. රොහාන් ප්‍රනාන්දු විසින් ජනාධිපති ලේකම්වරයා වෙත භාර දෙන ලදී.
+අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී එම වාර්තාව ලබා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
 
-මේ සඳහා මූලිකත්වය ගනු ලැබුවේ ජාතික පර්යේෂණ සහ සංවර්ධන ප්‍රමුඛතා පිළිබඳ තාවකාලික කමිටුව විසින් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කරයි.
+පර්යේෂණ සහ නවෝත්පාදනය මත පදනම් වූ ජාතික සංවර්ධනයේ නව යුගයක ආරම්භය සනිටුහන් කෙරෙන මෙම වාර්තාව ජාතික විද්‍යා සහ තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී. ඩබ්ලිව්. ඒ. රොහාන් ප්‍රනාන්දු විසින් ජනාධිපති ලේකම්වරයාවෙත භාර දී තිබේ.
 
-එහි සම සභාපතිවරුන් ලෙස විද්‍යා හා තාක්ෂණය පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ඇමරිකා එක්සත් ජනපද ජාතික නව නිපැයුම්කරුවන්ගේ ඇකඩමියේ ජ්‍යෙෂ්ඨ සාමාජික මහාචාර්ය ගෝමික උඩුගමසූරිය මහතා සහ ජාතික විද්‍යා හා තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී. ඩබ්ලිව්. ඒ. රොහාන් ප්‍රනාන්දු මහතා කටයුතු කරයි.
+මේ සඳහා මූලිකත්වය ගෙන ඇත්තේ ජාතික පර්යේෂණ සහ සංවර්ධන ප්‍රමුඛතා පිළිබඳ තාවකාලික කමිටුව විසින් වන අතර එහි සම සභාපතිවරුන් ලෙස විද්‍යා හා තාක්ෂණය පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ඇමරිකා එක්සත් ජනපද ජාතිකනව නිපැයුම්කරුවන්ගේ ඇකඩමියේ ජ්‍යෙෂ්ඨ සාමාජික මහාචාර්ය ගෝමික උඩුගමසූරිය මහතා සහ ජාතික විද්‍යා හා තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී.ඩබ්ලිව්.ඒ. රොහාන් ප්‍රනාන්දු මහතා කටයුතු කර ඇති බව සඳහන්ය.
 
 ...
 
@@ -1839,37 +1871,5 @@ In a statement, the Movement questioned whether due process was properly observe
 ...
 
 [Data](articles/b4e316e1.json)
-
----
-
-### Cabinet approves Rs. 250 m mental health program targeting youth
-
-*2025-08-28 04:03:34* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-Rs-250-m-mental-health-program-targeting-youth/56-780896) · `en`
-
-The Cabinet of Ministers on Monday approved the implementation of a special program to address rising mental health challenges, particularly among schoolchildren, adolescents, and young adults.
-
-Announcing the decision at the weekly post-Cabinet meeting media briefing yesterday, Minister Vijitha Herath said the initiative will be carried out in collaboration with the Education, Higher Education and Vocational Education Ministry, the National Dangerous Drugs Control Board, the National Institute of Mental Health, provincial and divisional health services, hospitals, and other related institutions.
-
-He said the country has seen worrying trends in recent years, including a persistently high suicide rate, growing drug addiction, and an increase in psychosocial issues among youth.
-
-“As proposed in the 2025 Budget, Rs. 250 million has been allocated to launch a medium-term program under the Health and Mass Media Ministry,” Herath added.
-
-...
-
-[Data](articles/50e472ed.json)
-
----
-
-### DIG Nishantha Soysa appointed Acting Colombo Police Chief
-
-*2025-08-28 04:03:04* · [`dailyftlk`](https://www.ft.lk/news/DIG-Nishantha-Soysa-appointed-Acting-Colombo-Police-Chief/56-780895) · `en`
-
-Western Province (North) Deputy Inspector General of Police (DIG) Nishantha Soysa has been named Acting DIG Colombo on Monday after Udith Liyanage was arrested for allegedly trying to block the detention of his wife, who was among eight suspects held in connection with an alleged treasure-hunting incident in Anuradhapura. Liyanage was remanded until 1 September on accusations that he pressured local Police to release her.
-
-Soysa has previously said he was threatened with death by former Inspector General of Police (IGP) Deshabandu Thennakoon while Soysa, as DIG Matara, investigated a shooting at a Weligama hotel. Thennakoon is accused of orchestrating that incident, which involved officers from the Colombo Crime Division (CCD), Weligama Police, and the Special Task Force, and left one CCD officer dead and another injured.
-
-...
-
-[Data](articles/638553f7.json)
 
 ---

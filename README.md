@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 11:07:34**
+As of **2025-08-28 11:19:53**
 
 ## Newspaper Stats
 
-*Scraped **72,817** Articles*
+*Scraped **72,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,003
 adaderanalk | 9,238
-tamilmirrorlk | 10,807
+tamilmirrorlk | 10,809
 virakesarilk | 11,960
-adaderanasinhalalk | 12,610
+adaderanasinhalalk | 12,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,817 articles have been extended.
+61,973 (85.1%) of 72,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### ඉන්දුනීසියාවේදී කොටු කළ ප්‍රධාන පෙළේ අපරාධ කල්ලි සාමාජිකයින් මෙන්න
+
+*2025-08-28 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213880) · `si`
+
+මෙරට ප්‍රධාන පෙළේ අපරාධ කල්ලි සාමාජිකයන් 5 දෙනෙකු සහ කාන්තාවක් ඉන්දුනීසියාවේදී එරට ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් පිරිස අතරට කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, පානදුරේ නිලංග, බැකෝ සමන් සහ තැඹිලි ළහිරු යන අන්වර්ථ නාමයන්ගෙන් හඳුන්වාගන්නා අපරාධ කල්ලි සාමාජිකයින් සිටින බව පොලීසිය පවසයි.
+
+ඊට අමතරව, බැකෝ සමන් නමැත්තාගේ බිරිඳ සහ තුන් හැවිරිදි දරුවෙකු ද අත්අඩංගුවට ගත් පිරිස අතර වෙයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුට්ලර් මහතා පැවසුවේ, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකදී මොවුන් අත්අඩංගුවට ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/fd513e6f.json)
+
+---
+
+### “உயிர்களைக் காப்பாற்ற சவாரி”
+
+*2025-08-28 10:55:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/உயிர்களைக்-காப்பாற்ற-சவாரி/46-363646) · `ta`
+
+இலங்கை முழுவதும் தற்கொலைகளின் எண்ணிக்கையைக் குறைத்து மன ஆரோக்கியத்தை மேம்படுத்துவதை நோக்கமாகக் கொண்டு ஒரு தனித்துவமான பயணத்தை 25 க்கும் மேற்பட்ட சைக்கிள் ஓட்டுனர்கள் “உயிர்களைக் காப்பாற்ற சவாரி” எனும் தொனிப்​பொருளில் மேற்கொள்ளவுள்ளனர்.
+
+இது 13 நாள் பயணம் அஹுங்கல்லவில் ஆகஸ்ட் 29ஆம் திகதி ஆரம்பமாகும்.  13 நகரங்கள் வழியாக சென்று 1333 கிலோ மீற்றர்களை கடப்பார்கள்.
+
+செப்டம்பர் 10 ஆம் திகதி உலக தற்கொலை தடுப்பு தினத்தன்று இந்த சைக்கிளோட்ட விழிப்புணர்வு நிறைவடையும்
+
+இந்த அணிவகுப்பின் முக்கிய நோக்கங்களில் ஒன்று, எந்த ஒரு தொலைபேசி நெட்வொர்க் மூலமாகவும் கிடைக்கும் இலவச, ரகசியமான, தொலைபேசி நெருக்கடி ஆதரவு சேவையான CCCline 1333 பற்றி இலங்கை மக்களிடையே விழிப்புணர்வை ஏற்படுத்துவதாகும்.
+
+பயிற்சி பெற்ற நெருக்கடி ஆலோசகர்களால் பணியாற்றப்படும் CCCline 1333 தொலைபேசி சேவை, சர்வதேச லைஃப்லைன் அவுஸ்திரேலியா மாதிரியைப் பின்பற்றுகிறது மற்றும் மன அழுத்தம், பதற்றம் அல்லது தற்கொலை எண்ணங்களை அனுபவிக்கும் மக்களுக்கு உயர்தர உணர்ச்சி ஆதரவை வழங்குகிறது.
+
+...
+
+[Data](articles/2fca9da5.json)
+
+---
+
+### நாயை தாக்கிய இளைஞனுக்கு எதிராக சட்ட நடவடிக்கை
+
+*2025-08-28 10:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாயை-தாக்கிய-இளைஞனுக்கு-எதிராக-சட்ட-நடவடிக்கை/76-363645) · `ta`
+
+நானுஒயா பொலிஸ் பிரிவிற்குட்பட்ட நானுஒயா எடின்பரோ தோட்டப் பகுதியில் வளர்ப்பு நாயொன்றை, இளைஞன் ஒருவன் சரமாரியாக தாக்கி, பின்னர் ஆற்றில் தூக்கி எறியும் காட்சி சமூக வலைத்தளங்களில் வைரலாகியுள்ளது.
+
+அயல் வீட்டாருக்கும் குறித்த இளைஞனின் குடும்பத்தாருக்கும் உள்ள பழைய விரோதம் காரணமாக இந்த வளர்ப்பு நாயை, குறித்த இளைஞன் தாக்கியதாக தெரிவிக்கப்படுகிறது.
+
+இது தொடர்பாக 15வயதுடைய குறித்த இளைஞன் நானுஒயா பொலிஸாரால் கைது செய்யப்பட்டு, பொலிஸ் நிலையத்தில் வைத்து பிணை வழங்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மிருகங்கள் சித்திரவதை சட்ட திட்டத்திற்கமைய அந்த இளைஞனுக்கு எதிராக சட்ட நடவடிக்கை மேற்கொள்ளுமாறு பிரதேச மக்கள் கோரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/31b5bf2f.json)
+
+---
 
 ### 20යි 20 ශ්‍රී ලංකා සංචිතය නම් කෙරේ
 
@@ -1693,51 +1749,5 @@ They said the E3 had decided to start triggering the so-called snapback of U.N. 
 ...
 
 [Data](articles/fd188f88.json)
-
----
-
-### Climbing To Nowhere: How Social Aspiration Sustains Corruption In Sri Lanka
-
-*2025-08-27 19:15:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/climbing-to-nowhere-how-social-aspiration-sustains-corruption-in-sri-lanka/) · `en`
-
-In Sri Lanka, as in many post-colonial societies, social climbing and power climbing are not just parallel pursuits—they are one and the same. Advancement is rarely dictated solely by merit or hard work; more often, it is tethered to proximity to power, wealth, and influence. The forces sustaining this order are both visible and invisible, ranging from entrenched patronage networks and caste affiliations to elite educational backgrounds and influential family names.
-
-This obsession with upward mobility often reveals a collective inferiority complex, especially among those from lower or middle socio-economic backgrounds. It is not that individuals lack confidence or ambition; rather, the system has taught people to equate status with worth. In this framework, aligning oneself with the elite becomes a form of social validation—proof that one has “made it.”
-
-...
-
-[Data](articles/19e76eca.json)
-
----
-
-### President briefed on new plans to boost industrial sector’s contribution to national economy
-
-*2025-08-27 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111919/president-briefed-on-new-plans-to-boost-industrial-sectors-contribution-to-national-economy) · `en`
-
-A review of the projects implemented under the 2025 budgetary allocations of the Ministry of Industries and Enterprise Development, together with the pre-budget discussion for the year 2026, was held this morning (27) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
-
-The discussions focused extensively on programmes carried out by the Ministry of Industries and Entrepreneurship Development and its affiliated institutions, the President’s Media Division (PMD) said.
-
-They also addressed the challenges and issues faced, as well as future plans aimed at enhancing the contribution of the industrial and production sectors to the country’s Gross Domestic Product. Further emphasis was placed on increasing the role of entrepreneurship in the national economy and boosting export revenue.
-
-...
-
-[Data](articles/b156557c.json)
-
----
-
-### අගමැතිනියගේ ආරක්ෂක නිලධාරීන්ගෙන් ප්‍රකාශ ගන්නැයි නියෝග
-
-*2025-08-27 18:58:16* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනියගේ-ආරක්ෂක-නිලධාරීන්ගෙන්-ප්‍රකාශ-ගන්නැයි-නියෝග/11-418115) · `si`
-
-අග්‍රාමාත්‍ය හරිනි අමරසුරිය මෙනවියගෙන් සහ ඇගේ ආරක්‍ෂාවට යොදවා සිටින නිලධාරීන්ගෙන් ප්‍රකාශ සටහන් කරගන්නා ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය රහස් පොලීසියට අද (27දා) නියම කළාය.
-
-අග්‍රාමාත්‍යවරියගෙන් හා ඇගේ ආරක්‍ෂක නිලධාරීන්ගේ ප්‍රකාශ සටහන් කරගැනීමෙන් අනතුරුව අවශ්‍ය වුවහොත් කොළඹ ජාතික රෝහලේ සවිකර ඇති සී.සී.ටී.වී. කැමරා දර්ශන පරීක්‍ෂා කිරීමට අවසරදීම පිළිබඳ සලකා බැලීමට හැකියාව ඇතැයිද මහේස්ත්‍රාත්වරිය සඳහන් කළාය.
-
-පොදු දේපළ පනත යටතේ වන සිද්ධියකට අදාළව රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සුවදුක් බැලීමට අග්‍රාමාත්‍ය හරිනි අමරසුරිය මෙණෙවිය කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයට ගිය බවට සමාජ මාධ්‍යවල පළවූ පුවත සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර ඇතැයි කියමින් රහස් පොලීසිය කළ ඉල්ලීමක් පිළිගනිමින් මහේස්ත්‍රාත්වරිය එලෙස නියම කළාය.
-
-...
-
-[Data](articles/84966d7d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 21:08:03**
+As of **2025-08-28 21:32:49**
 
 ## Newspaper Stats
 
-*Scraped **72,924** Articles*
+*Scraped **72,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,017
-adaderanalk | 9,259
+adaderanalk | 9,261
 tamilmirrorlk | 10,830
-virakesarilk | 11,976
+virakesarilk | 11,978
 adaderanasinhalalk | 12,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,924 articles have been extended.
+61,973 (85.0%) of 72,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### மூங்கிலாறு பகுதியில் சந்தேகத்திற்கிடமான முறையில் மூதாட்டி ஒருவரின் சடலம் மீட்பு
+
+*2025-08-28 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223641) · `ta`
+
+மூங்கிலாறு பகுதியில் சந்தேகத்திற்கிடமான முறையில்  மூதாட்டி ஒருவருடைய சடலம் மீட்கப்பட்ட சம்பவம் ஒன்று 28ஆம் திகதி வியாழக்கிழமை இடம்பெற்றுள்ளது.
+
+புதுக்குடியிருப்பு பிரதேச செயலாளர் பிரிவிற்குட்பட்ட உடையார்கட்டு வடக்கு மூங்கிலாறு 200 வீட்டுதிட்டம் பகுதியில் சந்தேகத்திற்கிடமான முறையில் கொலை செய்யப்பட்டதாக சந்தேகிக்கப்படும் வீட்டில் தனிமையில் வசித்து வந்த கோபாலன் குண்டுமணி 84 வயதுடைய  பெண்மணியினுடைய சடலம் புதுக்குடியிருப்பு பொலிசாரால் மீட்கப்பட்டுள்ளது.
+
+குறித்த மரணம் தொடர்பாக புதுக்குடியிருப்பு பொலிசார் மேலதிக விசாரணை மேற்கொண்டுவருவதுடன் குறித்த சடலத்தை முல்லைத்தீவு நீதவான் நேரடியாக பார்வையிட்ட பின்னர் உடற்கூற்று பரிசோதனைகளுக்காக சடலம் பொலிசாரால் எடுத்துச் செல்லப்பட்டிருக்கின்றது.
+
+ஏற்கனவே 2021ம் ஆண்டு இளம் பெண்ணான நிதர்சனா என்ற இளம்பெண் சந்தேகத்திற்கிடமான முறையில் மரணம் இடம்பெற்ற குறித்த பகுதியிலே இவ் மூதாட்டியின் மரணம் இடம்பெற்றுள்ளமை அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+குறித்த மரணம் எவ்வாறு இடம்பெற்றது? கொலையா? மரணத்திற்கான காரணம் என்ன? பல்வேறு கோணத்தில் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e7d32241.json)
+
+---
+
+### UK, France and Germany move to reimpose UN sanctions on Iran
+
+*2025-08-28 20:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111960/uk-france-and-germany-move-to-reimpose-un-sanctions-on-iran) · `en`
+
+The UK, France and Germany have begun the process of restoring major UN sanctions on Iran - lifted under a 2015 deal - as tensions once again escalate over Iran’s nuclear programme.
+
+The move will trigger a so-called snapback mechanism, which could result in the return of sanctions in 30 days.
+
+The three countries, participants in the 2015 deal, warned two weeks ago that they were ready to do this unless Iran agreed to a “diplomatic solution” by the end of August.
+
+Talks between Iran and the US over its nuclear programme have not resumed since June when the US bombed Iranian nuclear sites and Iran barred UN-backed inspectors from accessing its facilities.
+
+The snapback provision was built into the 2015 accord and allows for a participant to initiate the process to bring back sanctions if they believe Iran has significantly failed to fulfil its nuclear commitments by notifying the UN Security Council.
+
+...
+
+[Data](articles/ee36a8c7.json)
+
+---
 
 ### පාසල් සිසුවියක් ඇතුළු දෙදෙනෙකුට දිවි අහිමි කළ මාරක අනතුර
 
@@ -53,6 +93,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/aac22fdd.json)
+
+---
+
+### CEB Engineers’ Union opposes letters issued to employees without VRS offer
+
+*2025-08-28 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111959/ceb-engineers-union-opposes-letters-issued-to-employees-without-vrs-offer) · `en`
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU) has raised concerned about the purported assignation letters issued to employees of the CEB claiming to be under and in terms of the Sri Lanka Electricity Act.
+
+In a letter addressed to the Secretary, Ministry of Energy, the CEBEU states that the Act clearly states that the Voluntary Retirement Scheme should be made available at the time of providing the ‘Assignation Letters’ so that the employees could make an informed and considered decision whether to accept the Assignation or to opt for the VRS.
+
+Therefore, the union said the VRS scheme should be prescribed in order for the employees of CEB to make a choice.
+
+...
+
+[Data](articles/46ccabe3.json)
 
 ---
 
@@ -171,6 +227,12 @@ The girl, who was returning home after school, sustained serious injuries and pa
 A total of 646 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (27).
 
 As part of the operation, 26,572 persons were subjected to inspection, the Police Media Division said.
+
+Police have identified 34 individuals directly linked to criminal activities while 341 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 50 drunk drivers were apprehended while 3,454 persons who violated various other traffic offences were also identified, police stated.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
 
 ◼️
 
@@ -387,6 +449,22 @@ Upon inspection of his six pieces of luggage, officials found 165 mobile phones 
 ...
 
 [Data](articles/fe48ee17.json)
+
+---
+
+### வலிந்து காணாமலாக்கப்படல்கள் குறித்த உண்மையைத் தேடுவோருக்கு எதிராக ஒடுக்குமுறைகள் - வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐ.நா நடவடிக்கைக்குழு விசனம்
+
+*2025-08-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/223611) · `ta`
+
+இலங்கையில் வலிந்து காணாமலாக்கப்பட்டோருக்கு என்ன நேர்ந்தது என்ற உண்மையை அறிந்துகொள்வதை இலக்காகக்கொண்டு இயங்கிவரும் உறவுகள் மற்றும் செயற்பாட்டாளர்களுக்கு எதிராகத் தொடர்ந்து ஒடுக்குமுறைகள் பிரயோகிக்கப்பட்டுவருவதாகத் தமக்கு முறைப்பாடுகள் கிடைக்கப்பெற்றிருப்பதாக  வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐக்கிய நாடுகள் நடவடிக்கைக்குழு விசனம் வெளியிட்டுள்ளது.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் எதிர்வரும் செப்டெம்பர் மாதம் 8 ஆம் திகதி ஆரம்பமாகி, ஒக்டோபர் மாதம் 3 ஆம் திகதி வரை நடைபெறவுள்ளது. இக்கூட்டத்தொடரின் 3 ஆவது பக்க நிகழ்வாக 'அபிவிருத்திக்கான உரிமை உள்ளடங்கலாக சகல மனித உரிமைகள், சிவில், அரசியல், பொருளாதார, சமூக மற்றும் கலாசார உரிமைகளைப் பாதுகாத்தலும் மேம்படுத்தலும்' எனும் தலைப்பிலான கலந்துரையாடல் நடைபெறவுள்ளது.
+
+இக்கலந்துரையாடலை முன்னிட்டு வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐக்கிய நாடுகள் நடவடிக்கைக்குழுவினால் வலிந்து காணாமலாக்கப்படல்கள் விவகாரத்தின் உலகளாவிய நிலைவரம் குறித்து சமர்ப்பிக்கப்பட்டிருக்கும் அறிக்கையிலேயே மேற்கண்டவாறு சுட்டிக்காட்டப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1b8b36cd.json)
 
 ---
 
@@ -1757,77 +1835,5 @@ Underworld operative Kehelbaddara Padme, in particular, proved to be hard to cat
 ...
 
 [Data](articles/2fca9da5.json)
-
----
-
-### நாயை தாக்கிய இளைஞனுக்கு எதிராக சட்ட நடவடிக்கை
-
-*2025-08-28 10:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாயை-தாக்கிய-இளைஞனுக்கு-எதிராக-சட்ட-நடவடிக்கை/76-363645) · `ta`
-
-நானுஒயா பொலிஸ் பிரிவிற்குட்பட்ட நானுஒயா எடின்பரோ தோட்டப் பகுதியில் வளர்ப்பு நாயொன்றை, இளைஞன் ஒருவன் சரமாரியாக தாக்கி, பின்னர் ஆற்றில் தூக்கி எறியும் காட்சி சமூக வலைத்தளங்களில் வைரலாகியுள்ளது.
-
-அயல் வீட்டாருக்கும் குறித்த இளைஞனின் குடும்பத்தாருக்கும் உள்ள பழைய விரோதம் காரணமாக இந்த வளர்ப்பு நாயை, குறித்த இளைஞன் தாக்கியதாக தெரிவிக்கப்படுகிறது.
-
-இது தொடர்பாக 15வயதுடைய குறித்த இளைஞன் நானுஒயா பொலிஸாரால் கைது செய்யப்பட்டு, பொலிஸ் நிலையத்தில் வைத்து பிணை வழங்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மிருகங்கள் சித்திரவதை சட்ட திட்டத்திற்கமைய அந்த இளைஞனுக்கு எதிராக சட்ட நடவடிக்கை மேற்கொள்ளுமாறு பிரதேச மக்கள் கோரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/31b5bf2f.json)
-
----
-
-### நாயை தூக்கி இடுப்பு ஒடிய அடித்த இளைஞன்
-
-*2025-08-28 10:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாயை-தூக்கி-இடுப்பு-ஒடிய-அடித்த-இளைஞன்/76-363645) · `ta`
-
-சில சம்பவங்களை பார்க்கும் போது, மனிதாபிமானம் என்பது உயிரோடு இல்லை, செத்துவிட்டது என்றே நினைக்கத் தோன்றுகிறது. மனிதனுக்கு எதிராக மனிதன் செய்யும் செயல்பாடுகளை விட, வாய் பேச முடியாத ஜீவன்களான மிருகங்களுக்கு எதிராக மனிதர்களால் மேற்கொள்ளப்படும் வன்முறைகள் அதிகரித்துள்ளன.
-
-அவ்வாறான, மிகக் கேவலமான, மனிதாபிமானம் ​கொண்ட மனிதர்களால் ஜீரணித்துக்கொள்ள முடியாத சம்பவமொன்று, நானுஓயாவில் இடம்பெற்றுள்ளது. இந்த சம்பவத்தை தொலைபேசியில் ஒளிப்பதிவு செய்யப்பட்டுள்ளது.
-
-இந்த ஈனத்தனமான சம்பவம்,  நானுஒயா பொலிஸ் பிரிவிற்குட்பட்ட நானுஒயா எடின்பரோ தோட்டப் பகுதியில் இடம்பெற்றுள்ளது.
-
-அங்கு பாலத்துக்கு மேல் நாயொன்றின் வாயையும் முன்னங் கால்களையும் இறுக்கிப் பிடித்த இளைஞன், இடுப்பு உடையும் வரை தூக்கி பாலத்தின் மீதே அடித்தான். அப்போது, மற்றொரு நாய், அந்த நாயை முகர்ந்து சுற்றி வந்தது. இரண்டு முறை தூக்கி கீழே அடித்தான். அப்போது,
-
-...
-
-[Data](articles/5c231f74.json)
-
----
-
-### செம்மணி செல்லவுள்ளார் ஜனாதிபதி?
-
-*2025-08-28 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223557) · `ta`
-
-யாழ்ப்பாணத்திற்கு எதிர்வரும் முதலாம் திகதி வருகை தரவுள்ள ஜனாதிபதி செம்மணி மனித புதைகுழி அகழ்வு பணிகளை நேரில் பார்வையிடுவதற்காக சாத்தியங்கள் உள்ளதாக கடற்தொழில் அமைச்சர் தெரிவித்தார்.
-
-யாழில். புதன்கிழமை நடைபெற்ற நிகழ்வின் போது, ஊடகவியலாளர் கேள்விக்கு பதில் அளிக்கும் போதே அவ்வாறு தெரிவித்தார்.
-
-யாழ்ப்பாணத்திற்கு முதலாம் திகதி ஜனாதிபதி வருகை தரவுள்ளார்.  மக்களின் காணிகள் மக்களிடமே கையளிக்கப்படும் என்பதே எமது அரசாங்கத்தின் நிலைப்பாடு. அதன் அடிப்படையில் மக்களின் காணிகள் விடுவிக்கப்படும். அது ஜனாதிபதி வருகை தரும் நாள் அன்றோ , அதற்கு முதலோ பின்னரோ நடைபெறலாம். அதனை எப்ப என தற்போது உறுதியாக கூற முடியாது. ஆனாலும் காணிகள் விடுவிக்கப்படும் என்பது நிச்சயம்.
-
-செம்மணி புதைகுழி அகழ்வு பணிகளை பார்வையிடுவாரா என்பதனையும் தற்போது நிச்சயமாக கூற முடியாது. சில வேளைகளில் அவற்றை பார்வையிட சந்தர்ப்பம் உண்டு என தெரிவித்தார்.
-
-◼️
-
-[Data](articles/57078bd1.json)
-
----
-
-### සිම්බාබ්වේ යන ශ්‍රී ලංකා T20 සංචිතය නම් කෙරේ
-
-*2025-08-28 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213879) · `si`
-
-සිම්බාබ්වේ තරග සංචාරයට සහභාගී වන ශ්‍රී ලංකා 20යි 20 සංචිතය නම් කර තිබේ.
-
-චරිත් අසලංකගේ නායකත්වයෙන් යුත් ක්‍රීඩකයින් 17 දෙනෙකුගෙන් සමන්විත සංචිතයක් එම තරග සංචාරය සඳහා නම් කර ඇති අතර නවක ක්‍රීඩක විෂේන් හැලඹගේ සහ කමිල් මිශාර ද ඊට එක්කර තිබීම විශේෂත්වයකි.
-
-පැතුම් නිස්සංක, කුසල් මෙන්ඩිස්, කුසල් ජනිත් පෙරේරා, නුවනිදු ප්‍රනාන්දු, කමිදු මෙන්ඩිස්, දසුන් ශානක, දුනිත් වෙල්ලාලගේ, චාමික කරුණාරත්න, මහීෂ් තීක්ෂණ, දුෂාන් හේමන්ත, දුෂ්මන්ත චමීර, බිනුර ප්‍රනාන්දු, නුවන් තුෂාර සහ මතීෂ පතිරණ සංචිතයට ඇතුළත් සෙසු ක්‍රීඩකයින් වේ.
-
-ශ්‍රී ලංකා කණ්ඩායමේ සිම්බාබ්වේ තරග සංචාරය ආරම්භ කරමින් පළමු එක්දින තරගය හෙට පැවැත්වෙන අතර 20යි20 තරගාවලිය සැප්තැම්බර් මස 03 වනදා ආරම්භ වීමට නියමිතය.
-
-◼️
-
-[Data](articles/67dd6c8c.json)
 
 ---

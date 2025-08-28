@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 05:32:20**
+As of **2025-08-28 06:09:55**
 
 ## Newspaper Stats
 
-*Scraped **72,765** Articles*
+*Scraped **72,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 745
 economynextcom | 4,440
-islandlk | 4,464
+islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 6,998
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.2%) of 72,765 articles have been extended.
+61,973 (85.2%) of 72,778 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -624,6 +624,18 @@ Police said a person was shot dead at his residence by unidentified gunmen last 
 
 ---
 
+### Ranil fiasco!
+
+*2025-08-27 22:42:00* · [`islandlk`](http://island.lk/ranil-fiasco/) · `en`
+
+In an unprecedent move, for the first time in our political history, a former head of state was remanded for an offence which would be considered relatively minor from an international perspective. His extended stay in a magistrate’s court led to medical problems which resulted in Ranil ending up in the intensive care unit of the National Hospital in Colombo. His entire medical history became public knowledge due to social media posts as well as unrestrained reporting in the press.
+
+...
+
+[Data](articles/0c0c99c9.json)
+
+---
+
 ### අමෙරිකාවේ පාසලක වෙඩිතැබීමක්
 
 *2025-08-27 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213868) · `si`
@@ -690,6 +702,50 @@ The injured have been admitted to Nakulugamuwa and Tangalle hospitals for furthe
 
 ---
 
+### NDB Bank partners with Waters Edge for Oktoberfest at the Edge 2025
+
+*2025-08-27 21:52:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-waters-edge-for-oktoberfest-at-the-edge-2025/) · `en`
+
+NDB Bank announces its partnership with Waters Edge as the Principal Partner for the much-anticipated Oktoberfest at the Edge 2025, set to take place on the 24th, 25th, and 26th of October at Waters Edge, Colombo.
+
+Renowned as one of the most vibrant celebrations of Bavarian culture in Sri Lanka, Oktoberfest at the Edge brings together a blend of authentic music, cuisine, and entertainment, making it a highlight in Colombo’s social calendar. This year’s edition promises to be more exhilarating than ever, with an atmosphere of festivity and fellowship that continues to attract both local and international audiences.
+
+...
+
+[Data](articles/08585d0f.json)
+
+---
+
+### Sysco LABS Sri Lanka appoints Thushera Kawdawatta as its Managing Director
+
+*2025-08-27 21:51:00* · [`islandlk`](http://island.lk/sysco-labs-sri-lanka-appoints-thushera-kawdawatta-as-its-managing-director/) · `en`
+
+Sysco LABS Sri Lanka, the largest Global Innovation Center (GIC) of the world leader in food service, Sysco, has appointed Thushera Kawdawatta as its managing director, marking the start of a new era of growth and innovation.
+
+Commenting on the appointment, Tom Peck, Executive Vice President & Chief Information and Digital Officer at Sysco, said: “We are proud to welcome Thushera to lead Sysco LABS Sri Lanka into its next phase of growth.”
+
+“Thushera’s forward-looking approach to business and technology, and responsible AI adoption, aligns perfectly with our ambitions. Sysco LABS’ depth of expertise and engagement are integral to our global success, and this appointment underscores our continued commitment to Sri Lanka,” Peck said.
+
+...
+
+[Data](articles/57586084.json)
+
+---
+
+### Siyapatha Finance unveils newest branch in the historic town of Mahiyanganaya
+
+*2025-08-27 21:50:00* · [`islandlk`](http://island.lk/siyapatha-finance-unveils-newest-branch-in-the-historic-town-of-mahiyanganaya/) · `en`
+
+Homegrown finance company Siyapatha Finance PLC recently expanded its holistic services to the ancient agricultural hub of Mahiyanganaya, progressing onto the successful opening of its 56th branch.
+
+Resonating with the company’s vision to deliver optimum value to its stakeholders, the latest branch offers a wide product portfolio ranging from leasing, fixed deposits, savings, gold financing, business loans, personal loans, fast draft, and factoring to the Smart Pay facility to provide an exceptional customer experience in the region.
+
+...
+
+[Data](articles/ab990828.json)
+
+---
+
 ### බස් රථ 2ක් මුහුණට මුහුණ ගැටී තංගල්ලේ අනතුරක්
 
 *2025-08-27 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213865) · `si`
@@ -706,6 +762,54 @@ The injured have been admitted to Nakulugamuwa and Tangalle hospitals for furthe
 
 ---
 
+### ComBank teams up with Lead Pro Education to broaden access to overseas study
+
+*2025-08-27 21:49:00* · [`islandlk`](http://island.lk/combank-teams-up-with-lead-pro-education-to-broaden-access-to-overseas-study/) · `en`
+
+The Commercial Bank of Ceylon has entered into a partnership with Lead Pro Education Consultants (Pvt) Ltd to provide affordable financial solutions to students planning to pursue higher education overseas.
+
+The two organisations formalised their collaboration through the signing of a Memorandum of Understanding (MoU), under which students will benefit from a comprehensive education loan package and streamlined banking facilities.
+
+Lead Pro Education Consultants, which maintains affiliations with a large network of universities in Australia and New Zealand, offers advisory and placement services to students aspiring to study in these countries. Through this agreement, students who engage Lead Pro for placements can open a Student File with Commercial Bank and access loans designed specifically for overseas education.
+
+...
+
+[Data](articles/cfa6c790.json)
+
+---
+
+### Bourse indices move upward as profit-takings become notable in HNB and Combank stocks
+
+*2025-08-27 21:48:00* · [`islandlk`](http://island.lk/bourse-indices-move-upward-as-profit-takings-become-notable-in-hnb-and-combank-stocks/) · `en`
+
+CSE trading kicked off on a positive note yesterday but profit- takings were soon noted in several banks, especially HNB and Commercial Bank.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 139 points while S and P SL20 rose by 19.9 points.
+
+Turnover stood at Rs 7.39 billion with 17 crossings. Of 17 crossings, top crossings were reported in LOLC, which crossed 650,000 shares to the tune of Rs 357.5 million and its shares traded at Rs 550, Union Bank 25.2 million shares crossed for Rs 357.3 million; its shares traded at 14.20, Asia Siyaka 20 million shares crossed for Rs 160 million; its shares traded at Rs 8.
+
+...
+
+[Data](articles/00edea88.json)
+
+---
+
+### Asian Paints Causeway fuels a triumphant launch of SLADA Racing Championship 2025 at Katukurunda
+
+*2025-08-27 21:46:00* · [`islandlk`](http://island.lk/asian-paints-causeway-fuels-a-triumphant-launch-of-slada-racing-championship-2025-at-katukurunda/) · `en`
+
+The Asian Paints Causeway SLADA Racing Championship 2025 sped off to an electrifying start with the Rotherham Katukurunda Circuit Meet 1, drawing record crowds and setting the tone for Sri Lanka’s premier motorsport season.
+
+As the title sponsor, Asian Paints Causeway played a pivotal role in powering this prestigious series, which represents a strong revival for motorsports after years of challenges. The vibrant opening meet showcased not only racing excellence but also Asian Paints Causeway’s long-standing commitment to supporting Sri Lanka’s motorsport and automotive industries.
+
+Fans witnessed an unforgettable day of high-speed competition, highlighted by the performance of Ashan Silva – Sri Lanka’s most decorated driver and Asian Paints Causeway brand ambassador – who delivered a commanding victory in the SL-GT Cars up to 3500 cc category, earning the title of Best Driver of the Meet.
+
+...
+
+[Data](articles/6e32302b.json)
+
+---
+
 ### தங்காலை – மாவெல்ல சந்தியில் இரு பேருந்துகள் மோதிய விபத்து : 12 பேர் காயம்
 
 *2025-08-27 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223538) · `ta`
@@ -715,6 +819,20 @@ The injured have been admitted to Nakulugamuwa and Tangalle hospitals for furthe
 ◼️
 
 [Data](articles/e3c7cf3f.json)
+
+---
+
+### Why aggressor states fail in wars of occupation
+
+*2025-08-27 21:32:00* · [`islandlk`](http://island.lk/why-aggressor-states-fail-in-wars-of-occupation/) · `en`
+
+‘Gaza City will be razed to the ground’ if Hamas does not agree to Israel’s terms to end the Gaza conflict, Israeli Defense Minister Israel Katz was quoted saying recently on hearing Hamas’ terms to bring the war to an end. He was speaking against the backdrop of an apparent diplomatic failure to see an end to the ongoing blood-letting in the Strip.
+
+The Israeli Defense Minister’s comment ought to have brought to the minds of more experienced commentators the US military failure in Vietnam in the decades of the sixties and early seventies. As is known, US efforts to militarily neutralize the Vietcong guerrillas in its did to halt what was seen as the spread of communism in Vietnam and South East Asia ended in abject failure.
+
+...
+
+[Data](articles/5b72e616.json)
 
 ---
 
@@ -1585,141 +1703,5 @@ During the meeting, President Anura Kumara Dissanayake stated that it is the res
 ...
 
 [Data](articles/fa0d9953.json)
-
----
-
-### முன்னாள் கடற்படைத் தளபதி நிஷாந்​தவுக்கு விளக்கமறியலில்
-
-*2025-08-27 15:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படைத்-தளபதி-நிஷாந்-தவுக்கு-விளக்கமறியலில்/175-363596) · `ta`
-
-இலங்கை கடற்படையின் முன்னாள் தளபதி  நிஷாந்த உலுகேதென்னவை எதிர்வரும் செப்டம்பர் 10 ஆம் திகதி வரை மேலும் விளக்கமறியலில் வைக்குமாறு பொல்கஹவெல நீதவான் நீதிமன்றம் செவ்வாய்க்கிழமை (27) அன்று  உத்தரவிட்டுள்ளது.
-
-பொதுஹெரவை பிரதேசத்தை சேர்ந்த இளைஞன்  ஒருவர் காணாமல் போன சம்பவம் தொடர்பில் மேற்கொள்ளப்பட்டு வரும் விசாரணைகளின் அடிப்படையில், நிஷாந்த உலுகேதென்ன கடந்த ஜூலை மாதம் 28 ஆம் திகதி குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைதுசெய்யப்பட்ட நிலையில் நீதிமன்ற உத்தரவின் கீழ் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/8ab1d4e3.json)
-
----
-
-### Disciplinary inquiry against National Hospital’s Deputy Director Dr. Bellana
-
-*2025-08-27 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/111913/disciplinary-inquiry-against-national-hospitals-deputy-director-dr-bellana) · `en`
-
-Acting Health Minister Dr. Hansaka Wijemuni says that a disciplinary inquiry is to be initiated against the Deputy Director of the Colombo National Hospital, Dr. Rukshan Bellana, for divulging information regarding the health condition of former President Ranil Wickremesinghe to the media while he was receiving treatment at the hospital in remand custody.
-
-Dr. Wijemuni stressed that Dr. Bellana had no authority to comment on or release information about the former President’s medical status.
-
-“He has no right to issue such information,” Dr. Wijemuni said adding that the former President Ranil Wickremesinghe was not even admitted in his section.
-
-“The Deputy Director of the Colombo National Hospital acted beyond his responsibilities. This must be investigated,” the Acting Minister said.
-
-He further pointed out that revealing a patient’s medical information to the media was neither legal nor ethical, regardless of the position held by the officer concerned.
-
-...
-
-[Data](articles/2d1b501c.json)
-
----
-
-### எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச - ஐக்கிய அமெரிக்காவின் பிரதிநிதிகள் சபையின் ஜனநாயகத்துக்கான கூட்டாண்மைக் குழுவினர் சந்திப்பு
-
-*2025-08-27 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/223503) · `ta`
-
-ஐக்கிய அமெரிக்காவின் பிரதிநிதிகள் சபையின் ஜனநாயகத்துக்கான பங்குடைமையின் (HDP) பணியாளர் குழும பிரதிநிதிகளுக்கும் (U.S. House Democracy Partnership-HDP) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவிற்கும் இடையிலான விசேட சந்திப்பொன்று இன்று புதன்கிழமை (27) பாராளுமன்றத்தில் இடம்பெற்றது.
-
-பொருளாதாரம் தொடர்பான பல முக்கிய விடயங்களை எடுத்துரைத்து இலங்கையின் மொத்த ஏற்றுமதியில் கிட்டத்தட்ட 24% ஆனவை அமெரிக்காவிற்கே ஏற்றுமதி செய்யப்படுகின்றன என்றும், நாட்டின் மொத்த ஆடை ஏற்றுமதியில் சுமார் 63% ஆனவையும் அமெரிக்காவிற்கே ஏற்றுமதி செயப்படுகின்றன என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-இந்த ஏற்றுமதிகள் நேரடியாக சுமார் 400,000 தொழில்வாய்ப்புகளை உருவாக்குவதோடு, இதனூடாக மறைமுகமாக ஒரு மில்லியனுக்கும் அதிகமானோர் பயனடைந்து வருகின்றனர்.
-
-...
-
-[Data](articles/5d8b812c.json)
-
----
-
-### “ஒரு நாட்டை ஆள மூளை போதும்”
-
-*2025-08-27 15:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-நாட்டை-ஆள-மூளை-போதும்/175-363595) · `ta`
-
-“ஒரு நாட்டை ஆளத் தேவையான ஒரே விஷயம் மூளைதான்” என்று கூறிய கொழும்பு தேசிய மருத்துவமனையின் பிரதி பணிப்பாளர் டாக்டர் ருக்ஷன் பெல்லனா, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தொற்றாத நோய்களால் பாதிக்கப்பட்டுள்ளார் என்றார்.
-
-ஊடகங்களுக்கு கருத்துத் தெரிவித்த பிரதி பணிப்பாளர் டாக்டர் ருக்ஷன் பெல்லனா, மருத்துவமனையில் விக்கிரமசிங்க அனுமதிக்கப்பட்டதற்கு வழிவகுத்த சம்பவத்தில் ஈடுபட்டவர்களுக்கு நன்றி தெரிவிக்க வேண்டும் என்றும், ஏனெனில் அது அவரது உடல்நிலையை சரியாக அடையாளம் காண அனுமதித்தது என்றார்.
-
-“மருத்துவமனையில் அனுமதிக்கப்பட்டதன் விளைவாக, அவர் இப்போது சரியான சிகிச்சையைப் பெற்று இளமை வலிமையை மீண்டும் பெற முடியும்” என்று டாக்டர் பெல்லனா குறிப்பிட்டார்.
-
-அவர் மேலும் கூறினார், “எனக்குத் தெரிந்தவரை, அவருக்கு நடந்தது உண்மையில் ஒரு நல்ல விஷயம்.” என்றார்.
-
-◼️
-
-[Data](articles/adaf8082.json)
-
----
-
-### US, India push 10-year defence framework even as ties sour over tariffs
-
-*2025-08-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/111912/us-india-push-10-year-defence-framework-even-as-ties-sour-over-tariffs) · `en`
-
-The United States and India put defence at the centre of their virtual 2+2 Intersessional Dialogue on Tuesday, moving toward a new 10-year Framework for the US-India Major Defence Partnership.
-
-As part of the talks, top US and Indian officials also mapped next steps on defence industry and technology ties between the two countries.
-
-The two countries discussed expanding co-operation and agreed to keep building out collaboration under the US-India COMPACT (Catalyzing Opportunities for Military Partnership, Accelerated Commerce & Technology) initiative, which links military partnership with accelerated commerce and technology, according to a statement released by US Department of State.
-
-“The chairs reaffirmed their commitment to promoting a safer, stronger, and more prosperous Indo-Pacific region through the Quad,” the statement said.
-
-...
-
-[Data](articles/f0e626bc.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-08-27 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/223500) · `ta`
-
-இன்று புதன்கிழமை (27) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.03 ஆகவும் கொள்வனவு விலை ரூபா 298.49 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (27.08.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
-
-◼️
-
-[Data](articles/a21c39cd.json)
-
----
-
-### No objection from any diplomat regarding arrest of ex-President Ranil – Foreign Minister
-
-*2025-08-27 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111911/no-objection-from-any-diplomat-regarding-arrest-of-ex-president-ranil-foreign-minister-) · `en`
-
-No diplomat or diplomatic organization raised any objection regarding the arrest of former President Ranil Wickremesinghe, Minister of Foreign Affairs Vijitha Herath stated.
-
-Speaking at the weekly Cabinet media briefing held today (27), Minister Herath noted that although various individuals have made statements on the matter, such comments are not of significant relevance.
-
-The Minister also emphasized that the international community is currently observing that the law in Sri Lanka is being enforced equally and fairly.
-
-He added that although there were previous claims suggesting that the law was not being properly enforced in Sri Lanka, such a situation is no longer evident in the present context.
-
-◼️
-
-[Data](articles/37bc5bc9.json)
-
----
-
-### “அபர்ணா சென் என் தந்தையின் காதலி”
-
-*2025-08-27 14:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அபர்ணா-சென்-என்-தந்தையின்-காதலி/54-363592) · `ta`
-
-சமூக வலைதளங்களிலும், கூகுளிலும் அபர்ணா சென் என்ற பெயர் கடந்த இரு தினங்களாக அதிகம் பேசப்பட்ட, தேடப்பட்ட ஒரு பெயராகியிருக்கிறது. அதற்கு காரணம் ‘கூலி’ படம் தொடர்பாக சன் பிக்சர்ஸ் நிறுவனம் வெளியிட்ட ஒரு பேட்டி.
-
-நடிகர் சத்யராஜும், நடிகை ஸ்ருதிஹாசனும் படத்தில் நடித்த அனுபவங்களை ஜாலியாக பகிர்ந்து கொள்ளும் அந்தப் பேட்டியில், கமல்ஹாசனின் பலமொழிப் புலமை குறித்து சத்யராஜ் சிலாகித்துப் பேசினார். 1977-ஆம் ஆண்டு கமல்ஹாசன் ஒரு வங்க மொழி படத்தில் நடித்ததையும் குறிப்பிட்டிருந்தார்.
-
-அப்போது குறுக்கிட்ட ஸ்ருதிஹாசன், “அப்பா வங்க மொழி ஏன் கற்றுக் கொண்டார் என்றால், அப்போது அவருக்கு அபர்ணா சென் மீது காதல் இருந்தது. அவரை இம்ப்ரஸ் செய்வதற்காக வங்க மொழியை முழுவதுமாக கற்றார். அதனால்தான் ‘ஹே ராம்’ படத்தில் ராணி முகர்ஜி கதாபாத்திரத்தின் பெயர் அபர்ணா. இப்போது நீங்கள் அதை கனெக்ட் செய்து கொள்ளலாம்” என்றார் ஸ்ருதிஹாசன்.
-
-கமல்ஹாசன் நடித்த அந்தப் படம் ‘கபிதா’. தமிழில் கே.பாலச்சந்தர் இயக்கத்தில் வெளியான ‘அவள் ஒரு தொடர்கதை’ படத்தின் வங்க மொழி ரீமேக்.
-
-...
-
-[Data](articles/2ac54873.json)
 
 ---

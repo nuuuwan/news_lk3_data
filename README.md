@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 23:52:18**
+As of **2025-08-29 00:09:03**
 
 ## Newspaper Stats
 
-*Scraped **72,938** Articles*
+*Scraped **72,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,019
-adaderanalk | 9,263
+adaderanalk | 9,264
 tamilmirrorlk | 10,832
-virakesarilk | 11,979
+virakesarilk | 11,980
 adaderanasinhalalk | 12,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,938 articles have been extended.
+61,973 (85.0%) of 72,940 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### நாட்டினைக் கட்டியெழுப்ப அனைவரும் ஒன்றிணைந்து செயற்படுவோம் - கடற்றொழி்ல் அமைச்சர்
+
+*2025-08-28 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223643) · `ta`
+
+கடற்றொழி்ல் நீரியல் மற்றும் கடல் வளங்கள் அமைச்சரும் யாழ்ப்பாண மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவருமான இராமலிங்கம் சந்திரசேகர் வியாழக்கிழமை (28.08.2025)  யாழ்.அரசாங்க அதிபர் அலுவலகத்தில் அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன், மாவட்டச் செயலகம் பதவிநிலை உத்தியோகத்தர்கள் மற்றும் பிரதேச செயலாளர்கள், உதவிப் பிரதேச செயலாளர்கள் மற்றும் பிரதி உதவித் திட்டமிடல் பணிப்பாளர்கள் ஆகியோருடன் அபிவிருத்தி திட்டங்கள் தொடர்பான கலந்துரையாடலில் ஈடுபட்டார்.
+
+இதன் போது கருத்து தெரிவித்த அமைச்சர், ஜனாதிபதி அவர்கள் பதவியேற்று ஒரு வருடம் பூர்த்தியாகவுள்ளதாகவும், வாக்களித்த மக்களின் எதிர்பார்ப்புக்களை அரசாங்கம் நிச்சயம் நிறைவேறும் என்றும் அதற்கு அரசாங்க உத்தியோகத்தர்களின் ஒத்துழைப்பு அவசியம் என்றும் தெரிவித்தார்.
+
+...
+
+[Data](articles/bc5510be.json)
+
+---
+
 ### රුසියාවෙන් යුක්‍රේන අගනුවරට දැවැන්ත ඩ්‍රෝන සහ මිසයිල ප්‍රහාරක්
 
 *2025-08-28 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213905) · `si`
@@ -87,6 +101,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e86f0880.json)
+
+---
+
+### Japan’s trade negotiator cancels US visit over tariff deal snag
+
+*2025-08-28 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111963/japans-trade-negotiator-cancels-us-visit-over-tariff-deal-snag) · `en`
+
+Japan’s top trade negotiator cancelled a visit to the United States at the last minute on Thursday, further delaying talks designed to finalise a $550 billion investment package offered by Tokyo in exchange for relief on punishing tariffs.
+
+Ryosei Akazawa was due to fly to Washington to craft a written confirmation of the terms of the package, such as the split of investment returns between the U.S. and Japan, a government source previously told Reuters.
+
+U.S. Commerce Secretary Howard Lutnick has also said there would be an announcement this week on Japan’s investment.
+
+‘It was found that there are points that need to be discussed at the administrative level during coordination with the American side. Therefore, the trip has been cancelled,’ Japan’s government spokesperson Yoshimasa Hayashi told reporters on Thursday.
+
+...
+
+[Data](articles/5fcda5c4.json)
 
 ---
 
@@ -1807,39 +1839,5 @@ He pointed out that an environment is now emerging in which criminals no longer 
 ◼️
 
 [Data](articles/e9eb373d.json)
-
----
-
-### Details of major underworld figures arrested in Indonesia during joint operation revealed
-
-*2025-08-28 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111937/details-of-major-underworld-figures-arrested-in-indonesia-during-joint-operation-revealed-) · `en`
-
-Six individuals, including five members of Sri Lanka’s top underworld figures and a woman, have been arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.
-
-Among those arrested are the notorious underworld figures identified by their aliases, ‘Kehelbaddara Padme’, ‘Commando Salinda’, ‘Panadura Nilanga’, ‘Thembili Lahiru’, ‘Backhoe Saman’, police said.
-
-Additionally, the wife of ‘Backhoe Saman’ and a three-year-old child are also among the arrestees, police said.
-
-The Police Media Spokesperson, Assistant Superintendent of Police (ASP) F. U. Wootler stated that the arrests were carried out in a joint operation conducted by a special team of the Sri Lankan Criminal Investigation Department (CID) and the Indonesian Police in Jakarta, Indonesia.
-
-◼️
-
-[Data](articles/a9ef4965.json)
-
----
-
-### සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව විශේෂ අධිකරණයක්
-
-*2025-08-28 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213883) · `si`
-
-සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව විශේෂ අධිකරණයක් පිහිටුවා නඩු විභාග කඩිනම් කිරීමට පියවර ගන්නා බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.
-
-අද (28) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති මාධ්‍ය හමුවේදී විශේෂ අධිකරණයක් පිහිටුවීමට පවතින සූදානම සම්බන්ධයෙන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් මහජන ආරක්ෂක අමාත්‍යවරයා මේ බව සඳහන් කළේය.
-
-"අපි දැන් සැලසුම් කරලා තියෙනවා සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිවත් විශේෂ අධිකරණයක් පිහිටුවා නඩු විභාග කඩිනම් කරන්න. විශේෂයෙන් ඔවුන්ට දඬුවම් දෙන්න. ශිෂ්ට සම්පන්න සමාජයක් ලෙස නීතිය ඉදිරියේ තමා මේ ක්‍රියාන්විතය සිද්ධ වෙන්නේ.  මේ අවස්ථාවේදී සැලසුම් කරලා තියෙනවා විශේෂ මහාධිකරණ කිහිපයක් ස්ථාපිත කරන්න. අපි උත්සාහ කරනවා සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව තිබෙන නඩු කඩිනම් කරන්නත් කාර්යක්ෂම කරන්නත්. සමස්ත ක්‍රියාවලිය හරහා ඔවුන්ට කඩිනමින් දඬුවම් ලබාදෙන්න."
-
-◼️
-
-[Data](articles/9559abc0.json)
 
 ---

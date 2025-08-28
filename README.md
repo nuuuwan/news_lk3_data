@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 16:32:53**
+As of **2025-08-28 16:49:03**
 
 ## Newspaper Stats
 
-*Scraped **72,880** Articles*
+*Scraped **72,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 745
-economynextcom | 4,444
+economynextcom | 4,448
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,010
-adaderanalk | 9,250
+adalk | 7,011
+adaderanalk | 9,251
 tamilmirrorlk | 10,824
 virakesarilk | 11,968
-adaderanasinhalalk | 12,625
+adaderanasinhalalk | 12,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,880 articles have been extended.
+61,973 (85.0%) of 72,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### පුරප්පාඩු වී තිබූ අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමිට
+
+*2025-08-28 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213897) · `si`
+
+පුරප්පාඩු වී තිබූ අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරය සඳහා අස්ගිරි පාර්ශවයේ නියෝජ්‍ය ලේඛකාධිකාරී පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියෝ තේරීපත්ව තිබේ.
+
+මෙම ධුරය සඳහා වූ නිලවරණය අස්ගිරි පාර්ශ්වයේ මහානායක වරකාගොඩ ඥාණරතන නාහිමිගේ ප්‍රධානත්වයෙන් අද (28) ප.ව. 2ට මහනුවර අස්ගිරි මහා විහාරයේ ඓතිහාසික උපෝසිතාගාරයේ දී පැවැත්විණි.
+
+මේ සඳහා අස්ගිරි කාරක මහා සංඝ සභාවේ හිමිවරුන් 19 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා සිටියහ.
+
+අස්ගිරි පාර්ශ්වයේ ජ්‍යෙෂ්ඨ කාරක සංඝ සභික ඓතිහාසික මහියංගනය රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ධම්මරක්ඛිත හිමි හා අස්ගිරි පාර්ශ්වයේ ජ්‍යෙෂ්ඨ ලේඛකාධිකාරී  ධර්මාචාර්ය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමිවරු මෙම ධුරය සඳහා අපේක්ෂකයන් ලෙස ඉදිරිපත්වීමට දැහැත් ලබාදී තිබුණි.
+
+අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරයේ කටයුතු කළ පූජ්‍ය  ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමියෝ අපවත්වීම හේතුවෙන් එම ධුරය පුරප්පාඩු වී තිබුණි.
+
+◼️
+
+[Data](articles/321da71e.json)
+
+---
+
+### Sri Lanka stocks close up 0.23-pct, S&P SL20 dips
+
+*2025-08-28 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-23-pct-sp-sl20-dips-238567/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed 0.23 percent higher following a highly volatile session, brokers said.
+
+“There was volatility in the market. Sizeable upward trend in the morning was seen. Slight profit taking was there but it didn’t last for too long,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI climbed 47.05 points on Thursday to close at 20,800.26; while the S&P SL20 index dipped 0.27 percent, or 16.67 points, to close at 6,045.77.
+
+“Investors are moving into not so popular stocks. Not really from a particular sector as well,” Mathew said. “These were mostly low market cap stocks; slightly lower levels of liquidity.”
+
+...
+
+[Data](articles/af362211.json)
+
+---
+
+### නවීන ජංගම දුරකථන ඇතුළු භාණ්ඩ තොගයක් කටුනායකදී කොටුවෙයි
+
+*2025-08-28 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213895) · `si`
+
+රුපියල් කෝටි දෙකක පමණ වටිනාකමකින් යුත් නවීන ජංගම දුරකථන සහ කරදමුංගු තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ ශ්‍රී ලාංකික ගුවන් මගියෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අද (28) උදෑසන කටුනායක ගුවන්තොටුපොළේ හරිත මාවත ඔස්සේ එම භාණ්ඩ පිටතට රැගෙන යාමට තැත් කිරීමේදී රේගු නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+ඔහුගේ ගමන් මලු 06ක් තුළ තිබී නීතිවිරෝධී ජංගම දුරකථන 165ක් සහ කරදමුංගු කිලෝග්‍රෑම් 102ක් සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/faa118d7.json)
+
+---
 
 ### குளியாப்பிட்டி பாடசாலை வேன் விபத்து ; பாதிக்கப்பட்ட சிறுவர்களை வைத்தியசாலையில் பார்வையிட்டார் பிரதி அமைச்சர்
 
@@ -50,6 +104,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka’s Companies Act amendment aligns it with global standards: Deloitte
+
+*2025-08-28 15:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-companies-act-amendment-aligns-it-with-global-standards-deloitte-238553/) · `en`
+
+ECONOMYNEXT – Changes to Sri Lanka’s Companies Act passed recently will help align the country’s legislation with international standards, enhance transparency and improve regulatory framework for businesses, Deloitte Sri Lanka and Maldives, a multi-disciplinary professional services firm, has said.
+
+“The legislation improves regulatory framework for business operations, enhances transparency, and aligns Sri Lanka with international standards such as those set by the Financial Action Task Force (FATF) and the Asia-Pacific Group on Anti-Money Laundering (AML),” Deloitte said.
+
+The amended act contains 21 amendments, which go beyond compliance, Deloitte points out, and will build investor confidence and help Sri Lanka position itself as a trusted and competitive business hub.
+
+...
+
+[Data](articles/4ebadee5.json)
+
+---
+
 ### கைத்தொலைபேசிகள் , ஏலக்காயுடன் வந்தவர் கைது
 
 *2025-08-28 15:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைத்தொலைபேசிகள்-ஏலக்காயுடன்-வந்தவர்-கைது/175-363669) · `ta`
@@ -65,6 +135,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/788cfae0.json)
+
+---
+
+### ‘National Research Priorities Report’ handed over to President’s Secretary
+
+*2025-08-28 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111949/national-research-priorities-report-handed-over-to-presidents-secretary) · `en`
+
+The Research Priorities for Sri Lanka – 2026 report, aligned with the Government’s socio-economic development programme, has been officially presented to the Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat today (28).
+
+The report was handed over by Professor G.W.A. Rohan Fernando, Chairman of the National Science and Technology Commission (NASTEC).
+
+The initiative was led by the Interim Committee on National Research and Development Priorities, co-chaired by Professor Gomika Udugamasooriya, Senior Advisor to the President on Science and Technology and Senior Member of the United States National Academy of Inventors, together with Professor G.W.A. Rohan Fernando, Chairman of the National Science and Technology Commission.
+
+The report is the outcome of a collective effort by 26 subject experts and more than 100 members of sub-committees representing 15 ministries connected to research and development, the President’s Media Division said.
+
+...
+
+[Data](articles/550eb92c.json)
 
 ---
 
@@ -118,6 +206,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka speaker endorses Samurdhi, rubber control bills
+
+*2025-08-28 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-endorses-samurdhi-rubber-control-bills-238570/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s speaker of parliament Jagath Wickramaratne has endorsed the certificates on the Samurdhi (Amendment) Bill and the Rubber Control (Amendment) Bill.
+
+The bill to amend the Samurdhi Act, No. 1 of 2013 provides for the strengthening of financial accountability within financial institutions and the improvement of financial supervision of such institutions.
+
+The amendment ensures compliance with the prevailing statutory and national auditing procedures by assigning the responsibility to audit the accounts of Samurdhi community-based banks and Samurdhi community-based banking societies to the National Audit Office.
+
+This strengthens accountability within financial institutions, parliament said in a statement.
+
+...
+
+[Data](articles/14de3f22.json)
+
+---
+
 ### Second round of review of new Anti-Terrorism Bill underway
 
 *2025-08-28 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111947/second-round-of-review-of-new-anti-terrorism-bill-underway) · `en`
@@ -133,6 +239,24 @@ With Cabinet approval, the Minister of Justice and National Integration appointe
 ...
 
 [Data](articles/4fd8e4ed.json)
+
+---
+
+### Sri Lanka’s Alliance Finance to raise Rs1.5bn in bond issue
+
+*2025-08-28 15:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-alliance-finance-to-raise-rs1-5bn-in-bond-issue-238568/) · `en`
+
+ECONOMYNEXT – Alliance Finance Company PLC said it will issue listed, rated, unsecured, subordinated high yield bonds, to raise 1.5 billion rupees.
+
+“The interest rates wi1l be determined closer to the finalization of the issue, based on prevailing market conditions at that time,” Alliance Finance said in a stock exchange filing.
+
+10 million bonds will be issued initially at 100 rupees each, with an option to issue another 5 million at the company’s discretion.
+
+The  issue is subject to obtaining the necessary regulatory approvals. (Colombo/Aug28/2025)
+
+◼️
+
+[Data](articles/0f08d850.json)
 
 ---
 
@@ -267,6 +391,22 @@ The relevant notice further states that kite flying is extremely hazardous to ai
 ...
 
 [Data](articles/5545e336.json)
+
+---
+
+### කොළඹ වරායේ සමූහ මීනී වලෙන් පුද්ගලයන් 88 දෙනෙකුගේ අස්ථි හමුවේ
+
+*2025-08-28 14:23:25* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරායේ-සමූහ-මීනී-වලෙන්-පුද්ගලයන්-88-දෙනෙකුගේ-අස්ථි-හමුවේ/11-418127) · `si`
+
+කොළඹ වරාය පරිශ්‍රයේ පිහිටි සමූහ මිනී වළක් පරික්ෂා කිරීමෙන් පසු අගෝස්තු මස 26 වෙනිදා එම මිනී වළේ තිබේ පුද්ගලයන් 88 දෙනෙකුට අයත් අස්ථි කොටස් සොයා ගෙන ඇතැයි මෝදර පොලිසිය පවසයි.
+
+කොළඹ වරාය සහ අධිවේගී මාර්ගය සම්බන්ධ කරන ඉදි කිරීමක් අතර තුර කැණීම් කටයුතු කිරීමේදී එයට කොළඹ අතිරේක මහේස්ත්‍රාත් කසුන් කාංචන දිශානායක මහතාගේ අධීක්‍ෂණය යටතේ කොළඹ වෙෙද්‍ය පීඨයේ මහාචාර්ය වරයෙකු වන රාජ් සෝමාදේවගේ මෙහෙයවීමකින් සිදු කරන අතර කොළඹ ජාතික රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය සුනිල් හේවගේ මහතා විසින් එම කටයුතු භාරව කටයුතු කරයී.
+
+අධිකරණය වෙෙද්‍ය සුනිල් හේවගේ මහතා කියා සිටියේ මෙම සමූහ මිනීවළ කාලනිර්ණය සම්බන්ධව කිසිවක් තවමත් ප්‍රකාශ නොවන බව වෙෙද්‍ය සුනිල් හේවගේ මහතා පවසයි.
+
+◼️
+
+[Data](articles/54a82ffc.json)
 
 ---
 
@@ -1707,163 +1847,5 @@ In the past, suppressed rates have led to currency collapses and default and lan
 ...
 
 [Data](articles/e55a55e0.json)
-
----
-
-### කෙහෙල්බද්දර පද්මේ ඇතුළු පාතාල කල්ලි සාමාජිකයින් 6ක් ඉන්දුනීසියාවේ දී අත්අඩංගුවට
-
-*2025-08-28 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213873) · `si`
-
-මෙරට ප්‍රධාන පෙලේ අපරාධ කල්ලි සාමාජිකයන් පස්දෙනෙකු සහ කාන්තාවක් ඉන්දුනීසියාවේදී එරට ආරක්ෂක අංශ මඟින් අත්අඩංගුවට ගෙන තිබේ.
-
-අත්අඩංගුවටගත් පිරිස අතරට කෙහෙල්බද්දර පද්මේ,  කමාන්ඩෝ සලින්ත, පානදුරේ නිලංග, බැකෝ සමන් සහ තැඹිලි ළහිරු යන අන්වර්ථ නාමයන්ගෙන් හඳුන්වාගන්නා අපරාධ කල්ලි සාමාජිකයින් සිටින බව පොලීසිය පැවසුවේය.
-
-ඊට අමතරව, බැකෝ සමන් නමැත්තාගේ බිරිඳ සහ තුන් හැවිරිදි දරුවෙකු ද අත්අඩංගුවට ගත් පිරිස අතර වේ.
-
-පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුට්ලර් මහතා පැවසුවේ, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකදී මොවුන් අත්අඩංගුවට ගෙන ඇති බවය.
-
-◼️
-
-[Data](articles/ee5e90ee.json)
-
----
-
-### ‘Kehelbaddara Padme’ and ‘Commando Salinda’ among 6 underworld figures arrested in Indonesia
-
-*2025-08-28 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111927/kehelbaddara-padme-and-commando-salinda-among-6-underworld-figures-arrested-in-indonesia) · `en`
-
-A total of six Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda’, have been arrested in Jakarta, Indonesia, Police Media Spokesperson ASP F.U. Wootler said.
-
-The Police Media Spokesperson noted that these underworld figures were arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.
-
-According to the police, those arrested include ‘Kehelbaddara Padme’, ‘Commando Salinda’, ‘Panadura Nilanga’, ‘Thembili Lahiru’, ‘Backhoe Saman’, and his wife.
-
-◼️
-
-[Data](articles/fd63d355.json)
-
----
-
-### ලංගම බස් වර්ජනය ඇරඹෙයි
-
-*2025-08-28 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213872) · `si`
-
-ඉල්ලීම් හතරක් මුල්කර ගනිමින් ඊයේ (27) මධ්‍යම රාත්‍රියේ සිට ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ වෘත්තීය සංගම් කිහිපයක් වැඩවර්ජනයක් ආරම්භ කර තිබේ.
-
-පෞද්ගලික බස් රථ සමග ඒකාබද්ධ කාලසටහනකට අනුව ධාවනය කිරීමට ගෙන ඇති තීරණයට විරෝධය පළ කරමින් සහ තවත් ඉල්ලීම් කිහිපයක් හේතුවෙන් මෙම වර්ජනය ආරම්භ කළ බව ලංගම සමගි සේවක සංගමයේ සභාපති නිරෝෂන් සම්පත් ප්‍රේමරත්න මහතා පැවසුවේය.
-
-හඳුන්වා දී ඇති ඒකාබද්ධ කාලසටහන සම්බන්ධයෙන් ගැටලු රැසක් පවතින බව ලංකා පෞද්ගලික බස්රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා ද සඳහන් කළේය.
-
-කෙසේවෙතත් සියලු පාර්ශවයන්ගේ අදහස් මත ඒකාබද්ධ කාලසටහන සකස් කිරීමේ කටයුතු සිදුකළ බව ජාතික ගමනා ගමන කොමිෂන් සභාවේ සභාපති පී.ඒ චන්ද්‍රපාල මහතා පැවසුවේය.
-
-වෘත්තීය සමිති විසින් සිදුකරන ඉල්ලීම් බහුතරයක් මේ වන විටත් ලබා දී අවසන් බැවින් මෙම වර්ජනය අසාධාරණ බව ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න කුමාර ගුණසේන මහතා පැවසුවේය.
-
-...
-
-[Data](articles/cf7ca0a5.json)
-
----
-
-### Shooter kills two Minneapolis school children in Catholic church, wounds 17 others
-
-*2025-08-28 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/111926/shooter-kills-two-minneapolis-school-children-in-catholic-church-wounds-17-others) · `en`
-
-An assailant armed with three guns fired through stained-glass windows into a Catholic church where parish school students were attending Mass on Wednesday, killing two children and wounding 17 other people, officials said.
-
-The shooting ended when the lone suspect, identified as Robin Westman, 23, “took his own life” at the rear of the church, according to Minneapolis Police Chief Brian O’Hara, who declined to offer a possible motive for the attack.
-
-A videotaped message by the suspect showed Westman struggled with depression and was fascinated by the perpetrators of past mass shootings.
-
-FBI Director Kash Patel said his agency was investigating the attack as an “act of domestic terrorism and hate crime targeting Catholics.”
-
-Two victims, aged 8 and 10, were slain where they sat as the gunfire turned the morning Mass into pandemonium. It sent worshipers diving behind pews for cover while older children scrambled to shield younger ones, officials said.
-
-...
-
-[Data](articles/686de49b.json)
-
----
-
-### පානදුරේ වෙඩි තැබීමෙන් පුද්ගලයෙකු මරුට - අපරාධ කල්ලි අතර ගැටුමක් බවට තොරතුරු
-
-*2025-08-28 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213871) · `si`
-
-පානදුර අලුබෝගහවත්ත ප්‍රදේශයේ දී වෙඩි තබා පුද්ගලයෙකු ඝාතනය කර තිබේ.
-
-ඊයේ (27) රාත්‍රී නිවසක සිටි පුද්ගලයෙකුට යතුරු පැදියකින් පැමිණි බවට සැක කරන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර පලාගොස් ඇති බව පොලීසිය පැවසුවේය.
-
-වෙඩි වැදීමෙන් එම පුද්ගලයා මියගොස් ඇති අතර මෙලෙස මියගොස් ඇත්තේ 55 හැවිරිදි අලුබෝගහවත්ත ප්‍රදේශයේ පදිංචිකරුවෙක් බව සඳහන්ය.
-
-ඝාතනයට හේතුව හා යොදා ගත් ගිනිඅවිය පිළිබඳ මෙතෙක් තොරතුරු අනාවරණය වී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් පානදුර දකුණ පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පානදුර නිලංග නැමති අපරාධ කල්ලි සාමාජිකයාගේ මාමණ්ඩිය බව වාර්තා වේ.
-
-පානදුර සලිඳු නැමති අපරාධ කල්ලි සාමාජිකයාගේ මෙහෙය වීම මත අදාළ වෙඩි තැබීම සිදුකර ඇති බවට සැකපළ වී ඇති බව පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/8a5766e0.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට වැසි
-
-*2025-08-28 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213869) · `si`
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සබරගමුව පළාතේත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-5‍0ක පමණ තද සුළං ඇතිවිය හැකිය.
-
-තද සුළංවලින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහලින් පවතී.
-
-අද දින (28) දහවල් 12:11 ට නාගදීපය (නයිනතිව්), පුනරීන් , මානෙල්කාඩු , අලියාවලෙයි ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
-
-◼️
-
-[Data](articles/efab1035.json)
-
----
-
-### Showers expected in parts of the island
-
-*2025-08-28 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111925/showers-expected-in-parts-of-the-island) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, the Department of Meteorology said.
-
-Fairly heavy falls above 50 mm are likely at some places in the Sabaragamuwa province and in Nuwara-Eliya and Kandy districts, the Met. Department added.
-
-Several spells of showers may occur in the North-western province and in Hambantota district.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western and North-western provinces and in Trincomalee and Hambantota districts, it added.
-
-Meanwhile, the general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
-
-The sun is going to be directly over the latitudes of Sri Lanka during 28th of August to 07th of September due to its apparent southward relative motion.
-
-...
-
-[Data](articles/c88bb2dc.json)
-
----
-
-### Foreign Minister draws line between personal and official travel in Wickremesinghe probe
-
-*2025-08-28 04:18:41* · [`dailyftlk`](https://www.ft.lk/business/Foreign-Minister-draws-line-between-personal-and-official-travel-in-Wickremesinghe-probe/34-780905) · `en`
-
-Foreign Minister Vijitha Herath notes State-sector circulars allow internal travel, but private international trips financed by public funds constitute misuseOpines case marks visible shift towards accountability for political elites Says Govt. welcomes Opposition realignments, highlighting law enforcement now applies regardless of political status
-
-Foreign Minister Vijitha Herath yesterday clarified that using public resources for private overseas travel cannot be equated with domestic personal travel, amid scrutiny of former President Ranil Wickremesinghe’s UK trip.
-
-Speaking at the post-Cabinet meeting media briefing, he pointed out that while State-sector circulars allow certain internal uses of official vehicles, financing a private overseas trip remains a misuse of public funds.
-
-“Attending a funeral or travelling within Sri Lanka is not comparable to booking seats on an international flight. That is wrong,” he said.
-
-...
-
-[Data](articles/98fc2e96.json)
 
 ---

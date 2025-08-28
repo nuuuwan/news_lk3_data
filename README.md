@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 04:19:15**
+As of **2025-08-29 04:32:19**
 
 ## Newspaper Stats
 
-*Scraped **72,953** Articles*
+*Scraped **72,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,161
+dailyftlk | 5,163
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
-virakesarilk | 11,980
+virakesarilk | 11,984
 adaderanasinhalalk | 12,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,953 articles have been extended.
+61,973 (84.9%) of 72,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Govt. identifies national research priorities
+
+*2025-08-29 04:18:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-identifies-national-research-priorities/56-780958) · `en`
+
+New report ‘Research Priorities for Sri Lanka – 2026’ launched
+
+Research areas cover agriculture, energy, education, digital transformation, technology, health, industry, tourism and social development
+
+Outcome of 26 subject experts, over 100 representatives of 15 State bodies connected to research, development
+
+NASTEC Chairman Prof. G.W.A. Rohan Fernando (left) presents the ‘Research Priorities for Sri Lanka – 2026’ report to Secretary to the President Dr. Nandika Sanath Kumanayake
+
+The President’s Media Division (PMD) yesterday said that for the first time in Sri Lanka’s history, the ‘Research Priorities for Sri Lanka – 2026’ report, aligned with the Government’s socio-economic development program, was officially presented to Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
+
+This report marks the beginning of a new era of national development driven by research and innovation, the statement said.
+
+...
+
+[Data](articles/1e145a05.json)
+
+---
+
+### US Fed Governor Lisa Cook sues Trump over firing attempt
+
+*2025-08-29 04:16:27* · [`dailyftlk`](https://www.ft.lk/news/US-Fed-Governor-Lisa-Cook-sues-Trump-over-firing-attempt/56-780957) · `en`
+
+US Federal Reserve Governor Lisa Cook has sued President Donald Trump over his attempt to fire her, setting up a potential legal battle with implications for the US central bank’s autonomy.
+
+Cook has asked the Court to declare Trump’s firing order “unlawful and void,” and also named Fed Chairman Jerome Powell as defendant.
+
+Trump has said there was “sufficient reason” to believe Cook had made false statements on her mortgage, and cited constitutional powers which he said allowed him to remove her. Cook previously said that “no cause exists under the law” to sack her.
+
+The President has put increasing pressure on the Fed over what he sees as an “unwillingness to lower interest rates.” Cook is part of the Board responsible for setting interest rates in the US. Thursday’s lawsuit is likely to bring up a number of legal challenges that could end up at the US Supreme Court.
+
+...
+
+[Data](articles/811a158c.json)
+
+---
 
 ### Ranil and the rigours  of a new republicanism
 
@@ -77,6 +117,68 @@ The charges themselves are the subject of continuing scrutiny and debate. Does t
 ...
 
 [Data](articles/14aa91fa.json)
+
+---
+
+### அலங்காரத்தில் ஜொலிக்கும் அன்னையின் ஆலயம்!
+
+*2025-08-29 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/223647) · `ta`
+
+தமிழகத்தின், நாகப்பட்டினம் மாவட்டம் வேளாங்கண்ணியில் அமைந்துள்ளது உலகப்பிரசித்தி பெற்ற புனித ஆரோக்கிய மாதா பேராலயம். இந்த ஆலயத்தில், ஆண்டுதோறும் 10 நாட்கள் திருவிழா நடப்பது வழக்கம்.
+
+அந்த வகையில், இந்த ஆண்டின் திருவிழா வெள்ளிக்கிழமை (ஆக.29) மாலை 6 மணிக்கு கொடியேற்றத்துடன் கோலாகலமாக தொடங்குகிறது.
+
+◼️
+
+[Data](articles/ead7361f.json)
+
+---
+
+### மட்டக்களப்பில் தண்ணீர் ஓடும் வாய்க்கால்களில் இரவில் மணல் கொள்ளை நிறுத்த முடியாத புதிய அரசு - இரா. துரைரெத்தினம் காட்டம்
+
+*2025-08-29 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223646) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தில் வெல்லாவெளி, பட்டிப்பளை, வவுணதீவு, செங்கலடி, கிரான், வாகரை பிரதேச செயலக்கப்பிரிவுக்கு உட்பட்ட பகுதிகளில் மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் இரவு7.00 மணி தொடக்கம் அதிகாலை 5.00 மணிவரை பொலிசார் பாதுகாப்பு படையினரின் அனுசரணையுடன்  மணல் கொள்ளை இடம்பெறுவதை புதிய அரசுக்குத் தெரியாதா? அதனை நிறுத்த முடியாதா?  என முன்னாள் கிழக்கு மாகாணசபை உறுப்பினர், இரா.துரைரெத்தினம் கேள்வி எழுப்பியுள்ளார்.
+
+கிழக்கு மாகாணசபை முன்னாள் உறுப்பினர் இரா.துரைரெத்தினம் (ஈ.பி.ஆர்.எல்.எப்) புதன்கிழமை (27) ஊடக அறிக்கை ஒன்றை வெளியிட்டார்.
+
+போரதீவுப்பற்று (வெல்லாவெளி), மண்முனை தென்மேற்கு (பட்டிப்பளை), மண்முனை மேற்கு (வவுணதீவு), ஏறாவூர்பற்று (செங்கலடி), கோறளைப்பற்று தெற்கு(கிரான்), கோறளைப்பற்று வடக்கு (வாகரை) போன்ற பிரதேச செயலகப்பிரிவிற்குட்பட்ட மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் மணல் கொள்ளை இடம்பெறுகின்றது
+
+...
+
+[Data](articles/148b422a.json)
+
+---
+
+### திருகோணமலை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் மாவட்ட செயலகத்தில் நடைபெற்றது
+
+*2025-08-29 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/223645) · `ta`
+
+திருகோணமலை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் வியாழக்கிழமை (28) மாவட்ட செயலக பிரதான மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+
+திருகோணமலை மாவட்ட அரசாங்க அதிபர் டபிள்யூ. ஜி. எம். ஹேமந்த குமார அவர்களின் வரவேற்புரையை தொடர்ந்து மாவட்ட ஒருங்கிணைப்புக் குழுக்கூட்டம் ஆரம்பமானது.
+
+கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அபிவிருத்தி அமைச்சர்  சுனில் ஹந்துன்நெத்தி அவர்களின் பங்குபற்றலுடன் மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவரும் வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சருமாகிய அருண் ஹேமச்சந்திரா அவர்களின் தலைமையில் இடம்பெற்ற குறித்த கூட்டத்தில் இணைத்தலைவரான கிழக்கு மாகாண ஆளுநர் பேராசிரியர் ஜயந்தலால் ரத்னசேகர, பாராளுமன்ற உறுப்பினர்களான ரொஷான் அக்மீமன, எஸ். குகதாசன், இம்ரான் மஹ்ரூப்,கிழக்கு மாகாண பிரதம செயலாளர் டி.ஏ.சி.என். தலங்கம, கிழக்கு மாகாண அமைச்சுக்களின் செயலாளர்கள், நகர சபை மற்றும் பிரதேச சபைத் தலைவர்கள், பிரதேச செயலாளர்கள், திணைக்கள தலைவர்கள், மற்றும் முப்படைகளின் உயரதிகாரிகள் உட்பட பலரும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/41b2a4a8.json)
+
+---
+
+### செட்டிகுளம் – சின்னசிப்பிக்குளம் பகுதியில் மாடுகள் கடத்தல்: ஒருவர் கைது
+
+*2025-08-29 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/223644) · `ta`
+
+செட்டிகுளம் - சிப்பிக்குளம் பகுதியில் முறையான அனுமதி பத்திரமின்றி மாடுகளை ஏற்றி வந்த வாகனம் கைப்பற்றப்பட்டுள்ளதுடன், அதன் சாரதி கைது செய்யப்பட்டுள்ளதாக செட்டிகுளம் பொலிசார் வியாழக்கிழமை (28) தெரிவித்தனர்.
+
+வவுனியா, செட்டிகுளம், சின்னச் சிப்பிக்குளம் பகுதியில் பயணித்த பாரவூர்த்தி ஒன்றை சோதனை செய்த போது முறையான அனுமதியின்றி மாடுகள் கொண்டு செல்லப்பட்டமை கண்டு பிடிக்கப்பட்டது. இதனையடுத்து குறித்த மாடுகள் மீட்கப்பட்டதுடன், குறித்த வாகனத்தை கைப்பற்றிய பொலிசார் அதனை செலுத்தி வந்த சாரதியையும் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட நபரிடம் மேலதிக விசாரணைகளின் பின் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக செட்டிகுளம் பொலிசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8d3a09d9.json)
 
 ---
 
@@ -1695,125 +1797,5 @@ Although the suspect was initially identified as a victim in the incident, polic
 ...
 
 [Data](articles/65c48d90.json)
-
----
-
-### Tragic school van accident: Tipper truck driver remanded
-
-*2025-08-28 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111941/tragic-school-van-accident-tipper-truck-driver-remanded) · `en`
-
-The driver of the tipper truck, which collided head-on with a school van in the Kuliyapitiya area on August 27, killing three persons including two schoolgirls, has been remanded after being produced before court.
-
-A tragic road accident occurred in Pallewela, Kuliyapitiya last morning (27), when a van transporting schoolchildren collided head-on with a tipper truck traveling in the opposite direction.
-
-Police said two schoolgirls, aged 12 and 13, and the driver of the van, aged 64, died in the accident.
-
-Additionally, 13 other students who were injured were admitted to the Kuliyapitiya and Kurunegala hospitals for treatment.
-
-Accordingly, Kuliyapitiya Police arrested the driver of the tipper truck in connection with the incident yesterday, and he was produced before Kuliyapitiya Magistrate Randika Lakmal Jayalath today (28).
-
-After considering the facts presented, the suspect was ordered to be remanded until September 8.
-
-...
-
-[Data](articles/65e784c1.json)
-
----
-
-### අපුරේ හා පොලොන්නරුවේ ලංගම වර්ජනයක් නෑ
-
-*2025-08-28 13:34:22* · [`adalk`](https://www.ada.lk/breaking_news/අපුරේ-හා-පොලොන්නරුවේ-ලංගම-වර්ජනයක්-නෑ/11-418124) · `si`
-
-ඉල්ලීම් කිහිපයක් මුල් කරගෙන 27 වනදා මධ්‍යම රාත්‍රියේ සිට ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ වෘත්තීය සමිති සන්ධානය වැඩ වර්ජනයක් ආරම්භ කිරීමට නියමිතව තිබුණද, අනුරාධපුර සහ පොළොන්නරුව දිස්ත්‍රික්කවල කිසිදු වැඩ වර්ජනයක් සිදු නොවූ බව ලංගම සේවක පිරිසක් සඳහන් කළහ.
-
-ලංකා ගමනාගමන මණ්ඩලයේ රජරට ප්‍රාදේශීය කලාපය තුළ බස් රථ සාමාන්‍ය පරිදි ධාවනය වන ආකාරය දැකගත හැකි විය.
-
-දුර ගමන් සේවා බස් රථ ඒකාබද්ධ කාල සටහනේ ගැටලු නිසා වෘත්තීය සමිති සන්ධානය විසින් ආරම්භ කළ වැඩවර්ජනය හේතුවෙන්, රජරට ප්‍රාදේශීය බල ප්‍රදේශය වන අනුරාධපුර, පොළොන්නරුව, කන්තලේ සහ දඹුල්ල දිස්ත්‍රික්කවල මගී ප්‍රවාහන කටයුතු වලට කිසිදු බාධාවක් සිදු නොවූ බව ලංකා ගමනාගමන මණ්ඩලයේ අනුරාධපුර ප්‍රධාන ප්‍රාදේශීය කළමනාකරු ආර් එම් ඒ.බී.
-
-ඒ මහතා වැඩවර්ජනය සම්බන්ධයෙන් ඊයේ  (28) සිදුකළ විමසීමකදී සඳහන් කරමින් කියා සිටියේ, වසර ගණනාවක් සිට අන්තර්පළාත් ඒකාබද්ධ කාල සටහනකට අනුව රජරට බස් රථ සේවාව ක්‍රියාත්මක වන බැවින්, මෙම ප්‍රාදේශීය කලාපය වැඩවර්ජනයකට එක් වීමට අවශ්‍ය නොවන බවයි.
-
-◼️
-
-[Data](articles/eaeef892.json)
-
----
-
-### ජාතික පර්යේෂණ ප්‍රමුඛතා වාර්තාව ජනාධිපති ලේකම්වරයාට භාරදෙයි
-
-*2025-08-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213890) · `si`
-
-මෙරට ඉතිහාසයේ ප්‍රථමවරට රජයේ සමාජ ආර්ථික සංවර්ධන වැඩපිළිවෙළ සහ සමගාමී වන"ශ්‍රී ලංකාව සඳහා වූ පර්යේෂණ ප්‍රමුඛතා – 2026" වාර්තාව ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා වෙත භාර දී තිබේ.
-
-අද (28) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී එම වාර්තාව ලබා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
-
-පර්යේෂණ සහ නවෝත්පාදනය මත පදනම් වූ ජාතික සංවර්ධනයේ නව යුගයක ආරම්භය සනිටුහන් කෙරෙන මෙම වාර්තාව ජාතික විද්‍යා සහ තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී. ඩබ්ලිව්. ඒ. රොහාන් ප්‍රනාන්දු විසින් ජනාධිපති ලේකම්වරයාවෙත භාර දී තිබේ.
-
-මේ සඳහා මූලිකත්වය ගෙන ඇත්තේ ජාතික පර්යේෂණ සහ සංවර්ධන ප්‍රමුඛතා පිළිබඳ තාවකාලික කමිටුව විසින් වන අතර එහි සම සභාපතිවරුන් ලෙස විද්‍යා හා තාක්ෂණය පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ඇමරිකා එක්සත් ජනපද ජාතිකනව නිපැයුම්කරුවන්ගේ ඇකඩමියේ ජ්‍යෙෂ්ඨ සාමාජික මහාචාර්ය ගෝමික උඩුගමසූරිය මහතා සහ ජාතික විද්‍යා හා තාක්ෂණ කොමිෂන් සභාවේ සභාපති මහාචාර්ය ජී.ඩබ්ලිව්.ඒ. රොහාන් ප්‍රනාන්දු මහතා කටයුතු කර ඇති බව සඳහන්ය.
-
-...
-
-[Data](articles/6095926e.json)
-
----
-
-### Indian democracy and economic growth plays a pivotal role in world order
-
-*2025-08-28 13:30:00* · [`economynextcom`](https://economynext.com/indian-democracy-and-economic-growth-plays-a-pivotal-role-in-world-order-238544/) · `en`
-
-India is on its way to taking its place on the world stage as a developed nation by 2047, the year it will celebrate a century of independence from British rule.
-
-In 1947, India chose to steer the nation on a democratic path and has emerged as the world’s largest democracy, despite the many internal and external complexities it has faced.
-
-Its spurt of economic growth in recent decades and continued commitment to safeguarding democratic values places it in an ideal position to disrupt the world order, opine panelists who participated in a webinar titled ‘India: A Stable Democracy Leading the Global South.’
-
-But that new world order must be ‘more stable and equitable than what it is transitioning from’, cautions Apurv Kumar Mishra, Consultant, Prime Minister’s Economic Advisory Council.
-
-Sharing his thoughts as one of the panelists, Mishra explains that large parts of the developing world are now looking to India, which opted to follow democratic principles.
-
-...
-
-[Data](articles/2917d92b.json)
-
----
-
-### A special court to try organized criminals - Public Security Minister
-
-*2025-08-28 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111939/a-special-court-to-try-organized-criminals-public-security-minister) · `en`
-
-The Sri Lankan government has decided to establish a special court to try organized criminals and expedite the cases against them, says Minister of Public Security Ananda Wijepala.
-
-Speaking at a special media briefing today (28), the Minister affirmed this responding to a question regarding the preparations to establish a special court.
-
-“We have now planned to establish a special court against organized criminals and expedite the trials. Especially to punish them. As a civilized society, this process will take place before the law. At this moment, plans have been made to establish several special high courts.”
-
-“We are striving to expedite and make the cases against organized criminals efficient through this entire process,” the Public Security Minister assured.
-
-◼️
-
-[Data](articles/2d2d9822.json)
-
----
-
-### හිටපු ජනපති රනිල් තවමත් දැඩිසත්කාර ඒකකයේ
-
-*2025-08-28 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213889) · `si`
-
-රාජ්‍ය මුදල් අවභාවිත කිරීමේ චෝදනාව මත අත්අඩංගුවට ගෙන පසුව ඇප මත මුදාහැරුණු හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තවමත් කොළඹ ජාතික රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියි.
-
-ඔහු රෝහලෙන් පිටව යන දිනයක් සම්බන්ධයෙන් වෛද්‍යවරුන් තවමත් අවසන් තීරණයක් ගෙන නොමැති බව වාර්තා වේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඇප ලබා ගැනීම සඳහා සුවිශේෂි කරුණු රැසක් ඔහු වෙනුවෙන් පෙනී සිටි නීතීඥ මණ්ඩලය අධිකරණයට ඉදිරිපත් කර තිබුණි.
-
-එහිදී රනිල් වික්‍රමසිංහ මහතාගේ සියලු රෝග සම්බන්ධ වාර්තා ඉදිරිපත් කර තිබු අතර එහි සඳහන් වී ඇත්තේ ඒ මහතාගේ හෘද වස්තුවේ ප්‍රධාන ධමනි 04න් 03ක් අවහිර වී ඇති බවය.
-
-එමෙන්ම හෘද වස්තුවේ පටක මිය යාම මෙන්ම පෙනහළු ආසාදනයක් ද පවතින බව අධිකරණ හමුවේ වාර්තා කර තිබුණි.
-
-ඒ අනුව එම රෝග තත්ත්ව පිළිබඳව සියලු වෛද්‍ය වාර්තා නීතීඥවරයා විසින් මේ වන විට අධිකරණයට ඉදිරිපත් කර තිබේ.
-
-තවද හිටපු ජනාධිපතිවරයාට බරපතල ජීවිත අවධානමක් මතුව ඇතැයිද ජනාධිපති නීතීඥ අනුජ ප්‍රේමරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පවසා තිබුණි.
-
-◼️
-
-[Data](articles/61d8e492.json)
 
 ---

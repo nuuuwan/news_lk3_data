@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 04:07:28**
+As of **2025-08-29 04:19:15**
 
 ## Newspaper Stats
 
-*Scraped **72,950** Articles*
+*Scraped **72,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,158
+dailyftlk | 5,161
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,59 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,950 articles have been extended.
+61,973 (84.9%) of 72,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Ranil and the rigours  of a new republicanism
+
+*2025-08-29 04:04:24* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-and-the-rigours-of-a-new-republicanism/4-780954) · `en`
+
+However one might frame the arrest or interpret the stand of the old guard, there is clearly something afoot in the affairs of state and within the machinery of politics
+
+While the public debate still rages hotly, private reflections which don’t get liked or attacked on social media may be the order of the day a week and more after the arrest and remanding of a former executive president of Sri Lanka.
+
+Not because the points of view expressed don’t have their relative merits or otherwise. But because a sense of proportion must eventually grasp the discourse by its horns and make the issue sit down and have a quiet think. And admittedly even this perspective is subjective if not slightly arbitrary.
+
+The polity remains deeply divided over the most drastic political development to press its case recently.
+
+...
+
+[Data](articles/ef61f930.json)
+
+---
+
+### Due process and power: Lessons from arrest of Ranil Wickremesinghe
+
+*2025-08-29 04:01:38* · [`dailyftlk`](https://www.ft.lk/columns/Due-process-and-power-Lessons-from-arrest-of-Ranil-Wickremesinghe/4-780953) · `en`
+
+Former President Ranil Wickremesinghe outside the Magistrate’s Court on 22 August 2025 – File photo
+
+The arrest of former President Ranil Wickremesinghe has provoked much debate between his supporters who see it as a case of political victimisation and others who see it as a case of the law now being applied to people who were previously above the law.
+
+...
+
+[Data](articles/c3b5cc2b.json)
+
+---
+
+### The Great Divide
+
+*2025-08-29 03:58:38* · [`dailyftlk`](https://www.ft.lk/columns/The-Great-Divide/4-780952) · `en`
+
+The charges themselves are the subject of continuing scrutiny and debate
+
+Last weekend’s arrest of former Sri Lankan president (and many times prime minister) Ranil Wickremesinghe on corruption charges has unsurprisingly generated large amounts of heat – but not, so far at least, much light.
+
+The charges themselves are the subject of continuing scrutiny and debate. Does the failure to declare the costs incurred by a 2023 visit to the UK en route from official business in Cuba and New York constitute corrupt behaviour by the former president, and as such worthy of official investigation and eventual punishment?
+
+...
+
+[Data](articles/14aa91fa.json)
+
+---
 
 ### Salesforce launches ‘Agentforce for Revenue’
 
@@ -1767,57 +1815,5 @@ Speaking at a special media briefing today (28), the Minister affirmed this resp
 ◼️
 
 [Data](articles/61d8e492.json)
-
----
-
-### වරෙන්තුවට එරෙහිව රාජිතගෙන් මහාධිකරණයට පෙත්සමක්
-
-*2025-08-28 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213888) · `si`
-
-තමන්ව අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් නිකුත් කර තිබෙන වරෙන්තුව අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සමක් විභාගයට ගැනීමට කොළඹ මහාධිකරණය විසින් නොතීසි නිකුත් කළේය.
-
-එමෙන්ම රාජිත සේනාරත්න මහතා අත්අඩංගුවට ගැනීම සඳහා නිකුත් කර තිබෙන වරෙන්තුව තාවකාලිකව අත්හිටුවීමේ තාවකාලික අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඔහුගේ නීතිඥවරු විසින් ඉල්ලීමක් කළත් එම නියෝගය නිකුත් නොකළ මහාධිකරණය වගඋත්තරකාර අල්ලස් කොමිසම වෙත නොතීසි පමණක් නිකුත් කරන බව සඳහන්ය.
-
-සැකකාර රාජිත සේනාරත්න මහතාට හෙට (29) දින කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ පෙනී සිටින ලෙස දන්වා නිකුත් කර තිබෙන නොතීසියට අදාළව ඔහු හෙට දින අනිවාර්යයෙන්ම එම අධිකරණය හමුවේ පෙනී සිටින බවත් ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා සඳහන් කර සිටියේය.
-
-ඉන් අනතුරුව පෙත්සම සැප්තැම්බර් මස 10 වන දා කැඳවීමට ද නියම වුණි.
-
-◼️
-
-[Data](articles/a5c62584.json)
-
----
-
-### රත්නපුරේ ලංගම ඩිපෝ පහෙන් තුනක් පාඩුයි
-
-*2025-08-28 13:15:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුරේ-ලංගම-ඩිපෝ-පහෙන්-තුනක්-පාඩුයි/11-418123) · `si`
-
-රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර, ඇඹිලිපිටිය සහ ගොඩකවෙල ඩිපෝ තුනට ඔවුන්ගේ සේවකයන්ගේ වැටුප් ගෙවා ගත හැකි ආදායමක් මාසිකව නොලබන බව අනාවරණය වෙයි.
-
-රත්නපුර දිස්ත්‍රික්කයේ ප්‍රවාහන ක්ෂේත්‍රයේ සහ ඩිපෝවල වත්මන් තත්වයන් සම්බන්ධ සමාලෝචනයකදී මේ බව අනාවරණය විය. ප්‍රවාහන, මහා මාර්ග සහ සිවිල් ගුවන්සේවා ඇමති බිමල් රත්නායක මහතාගේ ප්‍රධානත්වයෙන් මෙම සමාලෝචනය සිදුවිය.
-
-රත්නපුර, ඇඹිලිපිටිය, ගොඩකවෙල, බළන්ගොඩ සහ කලවාන යන ඩිපෝ වල කළමනාකරුවන්ද ඊට කැදවා තිබුණි. එහිදි අනාවරණය වුයේ බළන්ගොඩ සහ කලවාන ඩිපෝ දෙක සේවක වැටුප් මාසිකව ගෙවන්නේ ඔවුන් ලබන ආදායමෙන් බවයි.
-
-පසුගිය වසර දෙක තුල මෙම ලංගම ඩිපෝ පහෙන් ග්‍රාමීය මාර්ග දහතුනක බස් ධාවනය අත්හිටුවා තිබුණි. බළන්ගොඩ ඩිපෝවෙන් මාර්ග අටක ද, රත්නපුර සහ ගොඩකවෙල ඩිපෝ දෙකෙන් මාර්ග දෙක බැගින් හතරක සහ කලවාන ඩිපෝවෙන් එක් මාර්ගයක බස් ධාවනය එසේ නවතා තිබේ.
-
-ලාභ නොලැබීම මත ඇඹිලිපිටය ඩිපෝව මගින් ධාවනය වු ග්‍රාමීය මාර්ග නවයක ලංගම බස් රථ ධාවනය නවත්වා තිබේ. මේ වසරේ මාර්තු මාසයේ කලවාන ඩිපෝවෙන් අලුත්වැඩියාවට මැදවච්චිය වැඩපොළට යැවු බස් එංජිමක් තවමත් ලැබී නැති බවද අනාවරණය විය.
-
-...
-
-[Data](articles/926dbfb6.json)
-
----
-
-### තුසිත හල්ලොලුව තවදුරටත් රිමාන්ඩ්
-
-*2025-08-28 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213887) · `si`
-
-ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මහතා සැප්තැම්බර් 4 දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-විමර්ශන සිදුකරන කොළඹ අපරාධ කොට්ඨාශය සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/864667c5.json)
 
 ---

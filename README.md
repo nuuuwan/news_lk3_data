@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 12:51:31**
+As of **2025-08-28 13:18:30**
 
 ## Newspaper Stats
 
-*Scraped **72,837** Articles*
+*Scraped **72,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ economynextcom | 4,442
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,003
-adaderanalk | 9,240
-tamilmirrorlk | 10,815
+adalk | 7,004
+adaderanalk | 9,242
+tamilmirrorlk | 10,817
 virakesarilk | 11,964
-adaderanasinhalalk | 12,614
+adaderanasinhalalk | 12,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,837 articles have been extended.
+61,973 (85.1%) of 72,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### ගුවන් අනතුරු සම්බන්ධයෙන් ගුවන් හමුදාවෙන් අනතුරු ඇඟවීමක්
+
+*2025-08-28 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213886) · `si`
+
+මෙම දිනවල ප්‍රචලිතව පවතින සරුංගල් යැවීම ආශ්‍රිතව සිදුවිය හැකි ගුවන් අනතුරු සම්බන්ධයෙන් ගුවන් හමුදාවෙන් අනතුරු ඇඟවීමක් නිකුත් කර තිබේ.
+
+කුඩා ළමුන් සහ වැඩිහිටියන්, මහත්සේ ප්‍රිය කරන සරුංගල් සමයත් සමඟ ගුවන් ධාවන පථ ආසන්න ප්‍රදේශවල සරුංගල් යැවීම ඉතා අවදානම් සහගත කාරණක් බව ගුවන් හමුදාව සඳහන් කරයි.
+
+එලෙසම ලොව පුරා සිදුවන ගුවන් අනතුරුවලට ප්‍රධාන එක් හේතුවක් ලෙස ගුවන් ධාවනපථ සමීප ප්‍රදේශවල මෙම සරුංගල් යැවීම සඳහන් කළ හැකි බවද ඔවුන් අවධාරණය කරයි.
+
+ගුවන් යානා පියාසර කිරීම සඳහා සරුංගල් යැවීම සෘජුව බලපාන බාධකයක් සේම කටුනායක, රත්මලාන, හිඟුරක්ගොඩ, චීනවරාය, පලාලි, කටුකුරුන්ද, කොග්ගල, වව්නියා, වීරවිල සහ මත්තල වැනි ප්‍රදේශවල ඇති ගුවන් ධාවනපථ සමීපයේ බහුලව සරුංගල් යැවීම අති අවධානම් කරුණක් බව අදාළ නිවේදනයේ වැඩිදුර සඳහන්ය.
+
+◼️
+
+[Data](articles/5845d5f1.json)
+
+---
+
+### கர்ப்பிணி மானை   கசாப்பு செய்யவிருந்த ஐவர் கைது
+
+*2025-08-28 12:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணி-மானை-கசாப்பு-செய்யவிருந்த-ஐவர்-கைது/175-363656) · `ta`
+
+கர்ப்பிணி மானொன்றை கொன்று கசாப்பு செய்யவிருந்த ஐந்து நபர்கள் துப்பாக்கி மற்றும் கூர்மையான ஆயுதங்களுடன் கைது செய்யப்பட்டனர். இந்த சம்பவம்,  வில்பட்டு தேசிய பூங்காவில் இடம்பெற்றுள்ளது.
+
+ரனோரவ மீகஸ்தெனியா பகுதியில் குக்குல்கடுவ வனவிலங்கு பீட்டு அலுவலக அதிகாரிகள் நடத்திய விரைவான சோதனையின் போது சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+
+ரோந்து பணியில் ஈடுபட்டிருந்த வனவிலங்கு அதிகாரிகள், கர்ப்பிணி மானை கொன்று கசாப்பு செய்ய ஒரு குழு தயாராகி வருவதைக் கண்டனர், அதன்படி, உடனடியாகச் செயல்பட்ட அதிகாரிகள் அந்தப் பகுதியைச் சுற்றி வளைத்து சந்தேக நபர்களைக் கைது செய்ய நடவடிக்கை எடுத்தனர்.
+
+வனவிலங்கு அதிகாரிகள் நடத்திய சோதனையின் போது, ​​சம்பவம் தொடர்பாக ஐந்து சந்தேக நபர்கள் கைது செய்யப்பட்டனர். அங்கிருந்த சந்தேக நபர்களில் ஒருவர் வனவிலங்கு அதிகாரிகளின் கடமைகளுக்கு இடையூறு விளைவித்து தப்பிச் சென்றுள்ளார்.
+
+◼️
+
+[Data](articles/35749006.json)
+
+---
+
+### කුලියාපිටිය අනතුරේ ටිපර් රියදුරා රිමාන්ඩ්  - පැය 24කට අධිකව රිය ධාවනයේ
+
+*2025-08-28 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213885) · `si`
+
+පාසල් සිසුවියන් දෙදෙනෙකු ඇතුළු තිදෙනෙකුට මරු කැඳවමින් කුලියාපිටිය විලපොළ මංසන්ධියේ සිදුවූ අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් ටිපර් රථයේ රියදුරා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඊයේ (27) උදෑසන ටිපර් රථයක් සහ පාසල් වෑන් රථයක් ගැටී විලපොළ මංසන්ධියේ පල්ලෙවෙල පාලම මතදී සිදුවූ අනතුරෙන් තිදෙනෙකු මියගොස් පාසල් සිසුවියන් 13 දෙනෙකු තුවාල ලැබීය.
+
+සිද්ධියට අදාළව කුලියාපිටිය පොලීසිය විසින් ටිපර් රථයේ රියදුරා අත්අඩංගුවට ගත් අතර ඔහු මෙලෙස අද කුලියාපිටිය මහේස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා හමුවට ඉදිරිපත් කෙරුණි.
+
+එහිදී ඉදිරිපත් වූ කරුණු සලකාබැලීමෙන් අනතුරුව සැකකාර ටිපර් රථ රියදුරා සැප්තැම්බර් මස 8 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+
+අදාළ රියදුරා පැය 24කට අධික කාලයක් නිදිවර්ජිතව රිය ධාවනය කර ඇති බවට අනාවරණය වී ඇති බවද පොලීසිය අධිකරණය හමුවේ පවසා තිබේ.
+
+ඒ අනුව අදාළ ටිපර් රථයේ හිමිකරුට විරුද්ධව ද ඉදිරියේදී අවශ්‍ය නීතිමය ක්‍රියාමාර්ග ගන්නා බව අධිකරණයේදී අනාවරණය විය.
+
+◼️
+
+[Data](articles/60f9fbb4.json)
+
+---
+
+### ඉන්දුනීසියාවේදී කොටු වූ අපරාධ කල්ලි නායකයින්ට ඇති චෝදනා
+
+*2025-08-28 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213884) · `si`
+
+මෙරට ප්‍රබල සංවිධානාත්මක අපරාධ කල්ලි නායකයින් ලෙස සැලකෙන කෙහෙල්බද්දර පද්මේ ඇතුළු පාතාල නායකයින් 05 දෙනෙකු ඉන්දුනීසියාවේ ජකර්තා අගනුවරදී අත්අඩංගුවට ගෙන තිබුණේ  ශ්‍රී ලංකා පොලීසියේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ විශේෂ මෙහෙයුමකදීය.
+
+එහිදී කෙහෙල්බද්දර පද්මේ,  කමාන්ඩෝ සලින්ත, පානදුරේ නිලංග, බැකෝ සමන් සහ තැඹිලි ළහිරු යන සංවිධානාත්මක අපරාධ කල්ලි නායකයින් අත්අඩංගුවට පත්විය.
+
+පොලීසිය පැවසුවේ, ඔවුන් සමග සිටි බැකෝ සමන්ගේ බිරිඳ ද අත්අඩංගුවට ගෙන තුන් හැවිරිදි දරුවා පොලිස් භාරයට ගත්බවය.
+
+අලුත්කඩේ අංක 5 මහෙස්ත්‍රාත් අධිකරණයේ විත්ති කූඩුව තුළදී පසුගිය පෙබරවාරි 19 වනිදා පාතාල කල්ලි නායක සංජීව කුමාර සමරරත්න හෙවත් ගනේමුල්ල සංජීව වෙඩි තබා ඝාතනය කිරීමේ සිදුවීම සම්බන්ධයෙන් චෝදනා එල්ල වූයේ කෙහෙල්බද්දර පද්මේටයි.
+
+එහිදී වෙඩික්කරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔහු පවසා තිබුණේ, කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත හා අවිශ්ක නම් අපරාධ කල්ලි සාමාජිකයන්ගේ උපදෙස් මත ගනේමුල්ල සංජීව ඝාතනය කළ බවයට.
+
+ඊට අමතරව කෙහෙල්බද්ද පද්මේ ඇතුළු මෙම පිරිසට විවිධ අපරාධ සම්බන්ධයෙන් චෝදනා එල්ල වී තිබුණි.
+
+...
+
+[Data](articles/47fb09c9.json)
+
+---
 
 ### சீதை அம்மன் ஆலயத்திற்குச் சென்றார் இலங்கைக்கான பிரிட்டிஷ் உயர் ஸ்தானிகர்
 
@@ -45,6 +125,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a48f0ada.json)
+
+---
+
+### இராணுவ ஜீப் விபத்து: மூவர் காயம்
+
+*2025-08-28 12:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-ஜீப்-விபத்து-மூவர்-காயம்/175-363654) · `ta`
+
+ஹம்பந்தோட்டையிலிருந்து மொனராகலை நோக்கி பயணித்த இராணுவ ஜீப் வாகனமொன்று மொனராகலை வெல்லவாய வீதியில் உள்ள பாலாருவ பகுதியில் வைத்து வேகக் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளான சம்பவம், புதன்கிழமை (27) அன்று இடம்பெற்றது.
+
+இதன் போது ஜீப் வண்டியில் பயணித்த ஓட்டுநர் மற்றும் இரண்டு வீரர்கள் சிறு காயங்களுக்குள்ளான நிலையில் மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இந்த ஜீப் இலங்கை இராணுவத்தின் கஜபா படைப்பிரிவு, ஹம்பாந்தோட்டை முகாமைச் சேர்ந்தது என தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/399d3f45.json)
 
 ---
 
@@ -64,6 +160,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Details of major underworld figures arrested in Indonesia during joint operation revealed
+
+*2025-08-28 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111937/details-of-major-underworld-figures-arrested-in-indonesia-during-joint-operation-revealed-) · `en`
+
+Six individuals including five members of Sri Lanka’s top underworld figures and a woman have been arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.
+
+Among those arrested are the underworld figures identified by their aliases, ‘Kehelbaddara Padme’, ‘Commando Salinda’, ‘Panadura Nilanga’, ‘Thembili Lahiru’, ‘Backhoe Saman’, police said.
+
+Additionally, the wife of ‘Backhoe Saman’ and a three year old child are also among the arrested group, police said.
+
+The Police Media Spokesperson, Assistant Superintendent of Police (ASP) F. U. Wootler stated, that the arrest was done in a joint operation conducted by a special team of the Sri Lankan Criminal Investigation Department (CID) and the Indonesian Police in Jakarta, Indonesia.
+
+◼️
+
+[Data](articles/a9ef4965.json)
+
+---
+
 ### සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව විශේෂ අධිකරණයක්
 
 *2025-08-28 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213883) · `si`
@@ -77,6 +191,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9559abc0.json)
+
+---
+
+### ‘No one is above the law’: Govt committed to ensure everyone is held accountable - Public Security Minister
+
+*2025-08-28 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/111936/no-one-is-above-the-law-govt-committed-to-ensure-everyone-is-held-accountable-public-security-minister) · `en`
+
+Minister of Public Security Ananda Wijepala revealed that the major Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda,’ who were arrested in Jakarta, Indonesia, will be repatriated to the country within the next two to three days.
+
+Speaking at a special press conference today (August 28), the Minister emphasized that the incumbent government has successfully restored the independence of law enforcement agencies, as promised.
+
+These underworld figures were arrested as part of a seven-day joint operation between Sri Lanka’s Criminal Investigation Department (CID) and the Indonesian Police. The operation was also supported by Indian intelligence agencies, according to Minister Wijepala.
+
+...
+
+[Data](articles/c7baff6a.json)
 
 ---
 
@@ -775,6 +905,20 @@ Police said that it is suspected that the shooting was carried out under the dir
 ◼️
 
 [Data](articles/4c17982a.json)
+
+---
+
+### පානදුර නිලංකගේ මාමා වෙඩි තබා ඝාතනය කරයි
+
+*2025-08-28 08:13:58* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-නිලංකගේ-මාමා-වෙඩි-තබා-ඝාතනය-කරයි/11-418120) · `si`
+
+සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයෙක් හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් බව කියන පානදුර නිලංකගේ බිරිඳගේ පියා වෙඩි තබා ඝාතනය කර ඇති බව වාර්තා වෙයි.
+
+ඊයේ රාත්‍රී ඔහු සිටි නිවසට පැමිණි ඇති වෙඩික්කරුවන් දෙදෙනෙක් මෙම වෙඩි තැබීම සිදුකර තිබේ. පානදුර, වඳුරාමුල්ල ප්‍ර දේශයේ සිදුවූ මෙම වෙඩි තැබීමෙන් ඝාතනය වී ඇත්තේ දිල්හාර ප්‍රනාන්දු නැමැති 55 හැවැරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/2a742365.json)
 
 ---
 
@@ -1653,125 +1797,5 @@ Police said a person was shot dead at his residence by unidentified gunmen last 
 ◼️
 
 [Data](articles/0fa4d3b5.json)
-
----
-
-### துப்பாக்கிச் சூட்டில் ஒருவர் சுட்டுக் கொலை
-
-*2025-08-27 23:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-சுட்டுக்-கொலை/175-363626) · `ta`
-
-பாணந்துறை, வந்துரமுல்ல, அலுபோகஹவத்த பகுதியில் உள்ள வீட்டின் மீது அடையாளம் தெரியாத நபர்கள் நடத்திய துப்பாக்கிச் சூட்டில் ஒருவர் சுட்டுக் கொல்லப்பட்டார் என பொலிசார் தெரிவித்துள்ளனர். R
-
-◼️
-
-[Data](articles/dce66aac.json)
-
----
-
-### Ranil fiasco!
-
-*2025-08-27 22:42:00* · [`islandlk`](http://island.lk/ranil-fiasco/) · `en`
-
-In an unprecedent move, for the first time in our political history, a former head of state was remanded for an offence which would be considered relatively minor from an international perspective. His extended stay in a magistrate’s court led to medical problems which resulted in Ranil ending up in the intensive care unit of the National Hospital in Colombo. His entire medical history became public knowledge due to social media posts as well as unrestrained reporting in the press.
-
-...
-
-[Data](articles/0c0c99c9.json)
-
----
-
-### අමෙරිකාවේ පාසලක වෙඩිතැබීමක්
-
-*2025-08-27 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213868) · `si`
-
-අමෙරිකාවේ මිනියාපොලිස් හි පාසලක අද (27) සිදු වූ වෙඩිතැබීමකින් ළමුන් දෙදෙනෙකු මියගොස් තවත් 17 දෙනෙකු තුවාල ලබා තිබේ.
-
-වෙඩි ප්‍රහාරයෙන් මියගොස් ඇත්තේ වයස අවුරුදු 8ක සහ 10ක ළමුන් දෙදෙනෙකු බවට පොලීසිය තහවුර කර තිබේ.
-
-මෙම වෙඩි ප්‍රහාරය ළමයි සහ දේව මෙහෙයට සහභාගි වූවන් ඉලක්ක කර සිතාමතා සිදුකළ ප්‍රචණ්ඩ ක්‍රියාවක් බව සඳහන්.
-
-වෙඩික්කරු රයිෆලයක්, ෂොට්ගන් සහ පිස්තෝලයකින් සන්නද්ධව සිට ඇති අතර, ඔහු දේවස්ථානයේ ජනේල හරහා වෙඩි තබා තිබේ.
-
-කෙසේ වෙතත් මෙම වෙඩිතැබීමෙන් අනතුරුව ඔහුද තුවක්කුවකින් වෙඩි ප්‍රහාරයක් එල්ල කරගෙන ඇත.
-
-තුවාල ලැබූවන්ගෙන් 14 දෙනෙකු ළමුන් වන අතර ඉන් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව පොලීසිය වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/2e35bd94.json)
-
----
-
-### 11 injured in head-on collision of two buses in Tangalle
-
-*2025-08-27 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/111923/11-injured-in-head-on-collision-of-two-buses-in-tangalle) · `en`
-
-A total of eleven people have sustained injuries in a road accident that occurred this evening (27) when two buses collided head-on in the Mahawela area of Tangalle.
-
-The accident reportedly occurred when a Sri Lanka Transport Board (SLTB) bus traveling from Matara to Tangalle collided head-on with another SLTB bus traveling from Tangalle to Dickwella.
-
-The injured have been admitted to Nakulugamuwa and Tangalle hospitals for further treatment.
-
-◼️
-
-[Data](articles/d60b6fba.json)
-
----
-
-### ඝාතන දෙකකට පස්දෙනෙකුට මරණ දඬුවම
-
-*2025-08-27 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213867) · `si`
-
-2011 වසරේ වලස්මුල්ල ප්‍රදේශයේ මංගල සාදයකදී ඇතිවූ ආරවුලක් දුරදිග යාමෙන් පසු පුද්ගලයෙකු ඝාතනය කිරීම සම්බ්නධයෙන් වරදකරු වූ විත්තිකරුවන් තිදෙනකුට තංගල්ල මහාධිකරණය විසින් අද (27) මරණ දඬුවම නියම කරනු ලැබීය.
-
-එසේම 2008  වසරේ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේදී පුද්ගලයෙකු කපා කොටා ඝාතනය කිරීමේ සිද්ධියකට වරදකරුවන් වූ විත්තිකරුවන් දෙදෙනෙකුට ද කොළඹ මහාධිකරණය අද මරණ දඬුවම නියම කර තිබුණි.
-
-◼️
-
-[Data](articles/e85f0d6f.json)
-
----
-
-### මව සහ පියා ඝාතනය කළාට පළිගත් සෙබළ පුතා
-
-*2025-08-27 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213866) · `si`
-
-ගලේවෙල, දේවහුව ප්‍රදේශයේ පදිංචි  59 හැවිරිදි පුද්ගලයෙකුට පහරදී ඝාතනය කර,  පුළුස්සා වළ දැමීමේ සිද්ධියකට සැකපිට 26 හැවිරිදි නාවික හමුදා සෙබළෙකු මකුළුගස් වැව පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-වසර 6කට පෙර තම මව සහ පියා නිවස තුළදී කපා කොටා ඝාතනය කිරීමේ සිද්ධියට පළිගැනීමක් ලෙස අදාළ සැකකරු මෙම ඝාතනය සිදුකර ඇති බව විමර්ශනවලදී අනාවරණ වී ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/06367d11.json)
-
----
-
-### NDB Bank partners with Waters Edge for Oktoberfest at the Edge 2025
-
-*2025-08-27 21:52:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-waters-edge-for-oktoberfest-at-the-edge-2025/) · `en`
-
-NDB Bank announces its partnership with Waters Edge as the Principal Partner for the much-anticipated Oktoberfest at the Edge 2025, set to take place on the 24th, 25th, and 26th of October at Waters Edge, Colombo.
-
-Renowned as one of the most vibrant celebrations of Bavarian culture in Sri Lanka, Oktoberfest at the Edge brings together a blend of authentic music, cuisine, and entertainment, making it a highlight in Colombo’s social calendar. This year’s edition promises to be more exhilarating than ever, with an atmosphere of festivity and fellowship that continues to attract both local and international audiences.
-
-...
-
-[Data](articles/08585d0f.json)
-
----
-
-### Sysco LABS Sri Lanka appoints Thushera Kawdawatta as its Managing Director
-
-*2025-08-27 21:51:00* · [`islandlk`](http://island.lk/sysco-labs-sri-lanka-appoints-thushera-kawdawatta-as-its-managing-director/) · `en`
-
-Sysco LABS Sri Lanka, the largest Global Innovation Center (GIC) of the world leader in food service, Sysco, has appointed Thushera Kawdawatta as its managing director, marking the start of a new era of growth and innovation.
-
-Commenting on the appointment, Tom Peck, Executive Vice President & Chief Information and Digital Officer at Sysco, said: “We are proud to welcome Thushera to lead Sysco LABS Sri Lanka into its next phase of growth.”
-
-“Thushera’s forward-looking approach to business and technology, and responsible AI adoption, aligns perfectly with our ambitions. Sysco LABS’ depth of expertise and engagement are integral to our global success, and this appointment underscores our continued commitment to Sri Lanka,” Peck said.
-
-...
-
-[Data](articles/57586084.json)
 
 ---

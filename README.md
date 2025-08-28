@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 14:50:57**
+As of **2025-08-28 15:08:08**
 
 ## Newspaper Stats
 
-*Scraped **72,860** Articles*
+*Scraped **72,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,008
-adaderanalk | 9,243
+adaderanalk | 9,248
 tamilmirrorlk | 10,820
-virakesarilk | 11,964
-adaderanasinhalalk | 12,622
+virakesarilk | 11,966
+adaderanasinhalalk | 12,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,860 articles have been extended.
+61,973 (85.0%) of 72,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### මාංචු පිටින් කිඹුල්ලු ඉන්න වතුර වළට පැන්න සැකකරු
+
+*2025-08-28 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213893) · `si`
+
+සොරකමක් සිදුකිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකු මාංචු දමා සිටියදීම කිඹුලන් සිටින දිය වළකට පැන ඇති බව වාර්තා වේ.
+
+සැකකරු ඊයේ (27) රාත්‍රියේ මිල්ලනිය ප්‍රදේශයේ වෙළෙඳසැලක භාණ්ඩ සොරකම් කරමින් සිටියදී වෙළෙඳසැලේ හිමිකරු දැක කෑ ගසා ඇත.
+
+එම අවස්ථාවේ දී සැකකරු වෙළෙඳසැල් හිමියාට තියුණු ආයුධයකින් පහරදී පලාගොස් තිබේ.
+
+පසුව තුවාල ලැබූ වෙළෙඳසැල්හිමියා ගෝනදූව ප්‍රාදේශීය රෝහලට ඇතුළත් කිරීමෙන් පසුව වැඩිදුර ප්‍රතිකාර පානදුර රෝහල වෙත මාරු කර යවා ඇත.
+
+අද (28) උදෑසන මිල්ලනිය පොලීසිය විසින් සැකකරු සොයා සිදුකළ මෙහෙයුමකදී සැකකරුව අත්අඩංගුවට ගැනීමට සමත් වුණි.
+
+පසුව සැකකරුට මාංචු දමා යතුරුපැදියකින් රැගෙන එමින් සිටියදී යතුරුපැදිය ධාවනය කළ පොලිස් නිලධාරියාගේ ගෙලට මාංචු කුට්ටම යොදා සිරකොට යතුරුපැදිය පෙරළා දමා 'කොස් ගහ වළ' නැමති දිය පිරිණු ගැඹුරු වළකට පැන තිබේ.
+
+පසුව ප්‍රදේශවාසීන් හා මිල්ලනිය පොලිස් ස්ථානයේ නිලධාරීන් විසින් සැකකරු ගොඩගෙන නැවත පොලිස් ස්ථානයට රැගෙන ගොස් ඇත.
+
+සැකකරුට කිසිදු අනතුරක් සිදු වී නොමැති අතර මිල්ලනිය පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/1576e7fc.json)
+
+---
+
+### செல்பி எடுப்பதற்கு மிகவும் ஆபத்தான 10 நாடுகளின் பட்டியல்
+
+*2025-08-28 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223588) · `ta`
+
+அமெரிக்காவின் டெக்சாஸ் மாநிலத்தில் உள்ள ‘தி பார்பர்’ சட்ட நிறுவனம், கடந்த 2014 முதல் 2025 மே மாதம் வரை செல்பி எடுக்கும்போது ஏற்பட்டுள்ள உயிரிழப்புகள் மற்றும் காயங்களை கண்காணித்து ஆய்வு நடத்தியது. இந்த ஆய்வு, செல்பி எடுக்க நேரடியாக முயற்சித்து மரணத்தை விளைவிக்கும் நிகழ்வுகள் குறித்து செய்திகள் மற்றும் கட்டுரைகளை அடிப்படையாக கொண்டு நடத்தப்பட்டது.
+
+அதில் அதிக மக்கள் தொகை, ரயில் தண்டவாளங்கள், பாறைகள் போன்ற ஆபத்தான இடங்களுக்கு செல்வது, சமூக ஊடக கலாசாரம் உள்ளிட்ட பல காரணிகளை ஆராய்ச்சியாளர்கள் அடையாளம் கண்டுள்ளனர். அதன் அடிப்படையில் ஆய்வு செய்யபட்டது. இதில் உலகளவில் பதிவான அனைத்து நிகழ்வுகளில் 42.1 சதவீதம் இந்தியாவில் நிகழ்ந்துள்ளதாக கூறப்படுகிறது.
+
+இதன்படி உலகில் செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் பட்டியலில் இந்தியா முதலிடத்திலும், அமெரிக்கா இரண்டாவது இடத்திலும் உள்ளதாக தெரியவந்துள்ளது. இந்த ஆய்வு முடிவுகளின்படி செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் மற்றும் அந்நாடுகளில் நிகழ்ந்த செல்பி தொடர்பான உயிரிழப்புகளின் பட்டியல் பின்வருமாறு,
+
+...
+
+[Data](articles/c5613b03.json)
+
+---
+
+### නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සැප්තැම්බරයේදී අවසන්
+
+*2025-08-28 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213892) · `si`
+
+නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතිය යටතේ පත් කළ විද්වත් කමිටුවේ කටයුතු සැප්තැම්බර් මාසය තුළ අවසන් කරන බව එම කමිටුවේ සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතා පවසයි.
+
+ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් පත්කළ කමිටුව ඊයේ (27) පස්වරුවේ අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේදී රැස්වු අතර, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතා මෙම අදහස් පළ කළේය.
+
+මේ වන විට පනත් කෙටුම්පතට ගෙන එනු ලබන සංශෝධන සම්බන්ධයෙන් විමර්ශනාත්මකව දෙවැනි වරටත් පරීක්ෂා කිරීම සිදු කරමින් පවතින බවද සභාපතිවරයා මෙහිදී සඳහන් කළේය.
+
+මෙරට බලපැවැත්වෙන 1979 අංක 48 දරණ ත්‍රස්තවාදය වැළැක්වීමේ ( තාවකාලික විධිවිධාන) පනත පරිච්ඡින්න කර නව නීතියක් කෙටුම්පත් කිරීමට ලද කැබ්නට් අනුමැතිය මත අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යවරයා විසින් විද්වත් කමිටුවක් පත් කළේය.‍
+
+නව පනතක් හඳුන්වාදීම තුළින් නූතන ගෝලීය ත්‍රස්තවාදී අභියෝගයන්ට මුහුණදීම, දේශිය සහ විදේශිය වශයෙන් පුද්ගලයන්ගේ මානව හිමිකම් සහ අන්තර්ජාතිකව පිළිගන්නාවු ප්‍රමිතීන්ට අනුගතවීම අදහස් කරනු ලබයි.
+
+◼️
+
+[Data](articles/ec7853dd.json)
+
+---
 
 ### கொக்குத்தொடுவாய் மனித புதைகுழி   வழக்கு ஒத்திவைப்பு
 
@@ -80,6 +142,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ex-President Ranil still in ICU, no decision on date of discharge
+
+*2025-08-28 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111943/ex-president-ranil-still-in-icu-no-decision-on-date-of-discharge) · `en`
+
+Former President Ranil Wickremesinghe, who was arrested on charges of misappropriation of state funds and later released on bail, is still receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital.
+
+It has been reported that doctors have not yet made a final decision regarding the date of his discharge from the hospital.
+
+A legal team representing former President Ranil Wickremesinghe presented several special facts to court in support of granting him bail.
+
+During the proceedings, all of Wickremesinghe’s medical reports were submitted, which indicated that three out of the four main arteries in his heart are blocked.
+
+It was also reported in court that there is tissue damage in his heart and that he is suffering from a lung infection.
+
+Accordingly, all medical reports regarding his condition have now been submitted to court by his attorney.
+
+...
+
+[Data](articles/dee04971.json)
+
+---
+
+### வடமேற்கு நைஜீரியாவில் கொலரா தொற்று ; 08 பேர் உயிரிழப்பு ; 200க்கும் மேற்பட்டோர் பாதிப்பு
+
+*2025-08-28 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223581) · `ta`
+
+வடமேற்கு நைஜீரியாவின் ஜம்ஃபாரா மாநிலத்தின் புக்குயம் மாவட்டத்தில் கொலரா தொற்று நோய் பரவி வருவதால் 11 பேர் உயிரிழந்துள்ளதோடு, 200க்கும் மேற்பட்டோர் பாதிக்கப்பட்டுள்ளனர்.
+
+நைஜீரியாவில் நீரினால் பரவும் நோயான கொலரா தொற்றால்அதிகளவானோர் பாதிக்கப்படுகின்றனர். ஏனெனில், அங்கு கிராமப்புறங்கள் மற்றும் நகர்ப்புற சேரிகளில் சுத்தமான நீர் பற்றாக்குறை பரவலாக இருப்பதாக சுகாதார அதிகாரிகள் குறிப்பிடுகின்றனர்.
+
+நசராவா-பர்குல்லு, குருசு மற்றும் அடாப்கா உள்ளிட்ட பாதிக்கப்பட்ட கிராமப்புற மக்கள் நிரம்பி வழிகின்றன. ஆரம்ப சுகாதார வசதிகள் இன்மையால் பல நோயாளிகள் வீட்டிலேயே சிகிச்சை பெற்று வருகின்றனர்.
+
+அண்மைய மாதங்களில் அதிகரித்து வரும் வன்முறை பயணத்தையும் விவசாயத்தையும் ஆபத்தானதாக மாற்றியுள்ளதால், உள்ளூர்வாசிகள் கொள்ளையர்கள் என்று அழைக்கப்படும் ஆயுதமேந்திய மனிதர்களின் தாக்குதல்களின் மையமாக ஜம்ஃபாரா உள்ளது. கும்பல்கள் கிராமவாசிகள் மற்றும் பயணிகளை மீட்கும் பணத்திற்காக கடத்தி விவசாய சமூகங்களை மிரட்டி பணம் பறிப்பது வழக்கம்.
+
+...
+
+[Data](articles/7c21a478.json)
+
+---
+
 ### ஹல்லொலுவவின் விளக்கமறியல் நீடிப்பு
 
 *2025-08-28 13:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்லொலுவவின்-விளக்கமறியல்-நீடிப்பு/175-363658) · `ta`
@@ -93,6 +195,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9abd3fc2.json)
+
+---
+
+### Colombo HC issues notices to hear Rajitha’s revision petition
+
+*2025-08-28 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111942/colombo-hc-issues-notices-to-hear-rajithas-revision-petition) · `en`
+
+The Colombo High Court today (28) issued a notice to consider the revision petition filed by former Minister Rajitha Senaratne, seeking an order to suspend the arrest warrant issued by the Colombo Magistrate’s Court to take him into custody.
+
+Although Senaratne’s legal team also requested an interim order to suspend the arrest warrant, the High Court did not issue such an order, stating instead that only notice has been issued to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), which is named as the respondent.
+
+President’s Counsel Kalinga Indatissa, who appeared on behalf of the former Minister, stated that in accordance with the notice issued requiring Rajitha Senaratne to appear before the Colombo Magistrate’s Court tomorrow (29), the suspect will definitely appear before the court.
+
+The petition has been scheduled to be taken up again on September 10.
+
+◼️
+
+[Data](articles/8b85cd0e.json)
+
+---
+
+### Former NLB Director Thusitha Halloluwa further remanded
+
+*2025-08-28 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111940/former-nlb-director-thusitha-halloluwa-further-remanded) · `en`
+
+Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been further remanded until September 4 by the Colombo Magistrate’s Court, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/65c48d90.json)
+
+---
+
+### Tragic school van accident: Tipper truck driver remanded
+
+*2025-08-28 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111941/tragic-school-van-accident-tipper-truck-driver-remanded) · `en`
+
+The driver of the tipper truck, which collided head-on with a school van in the Kuliyapitiya area on August 27, killing three persons including two schoolgirls, has been remanded after being produced before court.
+
+A tragic road accident occurred in Pallewela, Kuliyapitiya last morning (27), when a van transporting schoolchildren collided head-on with a tipper truck traveling in the opposite direction.
+
+Police said two schoolgirls, aged 12 and 13, and the driver of the van, aged 64, died in the accident.
+
+Additionally, 13 other students who were injured were admitted to the Kuliyapitiya and Kurunegala hospitals for treatment.
+
+Accordingly, Kuliyapitiya Police arrested the driver of the tipper truck in connection with the incident yesterday, and he was produced before Kuliyapitiya Magistrate Randika Lakmal Jayalath today (28).
+
+After considering the facts presented, the suspect was ordered to be remanded until September 8.
+
+...
+
+[Data](articles/65e784c1.json)
 
 ---
 
@@ -149,6 +303,24 @@ Sharing his thoughts as one of the panelists, Mishra explains that large parts o
 ...
 
 [Data](articles/2917d92b.json)
+
+---
+
+### A special court to try organized criminals - Public Security Minister
+
+*2025-08-28 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111939/a-special-court-to-try-organized-criminals-public-security-minister) · `en`
+
+The Sri Lankan government has decided to establish a special court to try organized criminals and expedite the cases against them, says Minister of Public Security Ananda Wijepala.
+
+Speaking at a special media briefing today (28), the Minister affirmed this responding to a question regarding the preparations to establish a special court.
+
+“We have now planned to establish a special court against organized criminals and expedite the trials. Especially to punish them. As a civilized society, this process will take place before the law. At this moment, plans have been made to establish several special high courts.”
+
+“We are striving to expedite and make the cases against organized criminals efficient through this entire process,” the Public Security Minister assured.
+
+◼️
+
+[Data](articles/2d2d9822.json)
 
 ---
 
@@ -414,13 +586,13 @@ He pointed out that an environment is now emerging in which criminals no longer 
 
 *2025-08-28 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111937/details-of-major-underworld-figures-arrested-in-indonesia-during-joint-operation-revealed-) · `en`
 
-Six individuals including five members of Sri Lanka’s top underworld figures and a woman have been arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.
+Six individuals, including five members of Sri Lanka’s top underworld figures and a woman, have been arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.
 
-Among those arrested are the underworld figures identified by their aliases, ‘Kehelbaddara Padme’, ‘Commando Salinda’, ‘Panadura Nilanga’, ‘Thembili Lahiru’, ‘Backhoe Saman’, police said.
+Among those arrested are the notorious underworld figures identified by their aliases, ‘Kehelbaddara Padme’, ‘Commando Salinda’, ‘Panadura Nilanga’, ‘Thembili Lahiru’, ‘Backhoe Saman’, police said.
 
-Additionally, the wife of ‘Backhoe Saman’ and a three year old child are also among the arrested group, police said.
+Additionally, the wife of ‘Backhoe Saman’ and a three-year-old child are also among the arrestees, police said.
 
-The Police Media Spokesperson, Assistant Superintendent of Police (ASP) F. U. Wootler stated, that the arrest was done in a joint operation conducted by a special team of the Sri Lankan Criminal Investigation Department (CID) and the Indonesian Police in Jakarta, Indonesia.
+The Police Media Spokesperson, Assistant Superintendent of Police (ASP) F. U. Wootler stated that the arrests were carried out in a joint operation conducted by a special team of the Sri Lankan Criminal Investigation Department (CID) and the Indonesian Police in Jakarta, Indonesia.
 
 ◼️
 
@@ -1697,149 +1869,5 @@ Soysa has previously said he was threatened with death by former Inspector Gener
 ◼️
 
 [Data](articles/13430dfd.json)
-
----
-
-### Sysco LABS Sri Lanka appoints  Thushera Kawdawatta as Managing Director
-
-*2025-08-28 03:40:00* · [`dailyftlk`](https://www.ft.lk/business/Sysco-LABS-Sri-Lanka-appoints-Thushera-Kawdawatta-as-Managing-Director/34-780886) · `en`
-
-Sysco LABS Sri Lanka, the largest Global Innovation Center (GIC) of the world leader in food service, said it has appointed Thushera Kawdawatta as Managing Director.
-
-Commenting on the appointment, Sysco Executive Vice President and Chief Information and Digital Officer Tom Peck said: “We are proud to welcome Thushera to lead Sysco LABS Sri Lanka into its next phase of growth. Thushera’s forward-looking approach to business and technology, and responsible AI adoption, aligns perfectly with our ambitions. Sysco LABS’ depth of expertise and engagement are integral to our global success, and this appointment underscores our continued commitment to Sri Lanka.”
-
-...
-
-[Data](articles/1bea1c78.json)
-
----
-
-### AgStar appoints two Non-Executive Directors
-
-*2025-08-28 03:38:43* · [`dailyftlk`](https://www.ft.lk/business/AgStar-appoints-two-Non-Executive-Directors/34-780885) · `en`
-
-AgStar PLC yesterday said it has appointed Sanjaya Nissanka and Shamal Abeysinghe as non-executive directors to its board.
-
-Nissanka has over two decades of experience in the agricultural machinery and crop solutions sector. He is Cluster Chief Operating Officer for Agri and Heavy Equipment at Brown & Company PLC and Chief Executive Officer of Browns Agri Solutions Ltd.
-
-He has overseen the introduction of brands such as Yanmar, Sumo World, TAFE Power, Himoinsa, Hyundai, Shakthiman and Fieldking to Sri Lanka. He is Vice President of the Agricultural Machinery Manufacturers and Suppliers Association of Sri Lanka. He holds an MBA in International Marketing from Anglia Ruskin University in the UK, a Diploma in Agriculture from the School of Agriculture, Dambulla, and other professional certifications in marketing.
-
-...
-
-[Data](articles/02a553d1.json)
-
----
-
-### செம்மணியில் மேலும்3 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-08-28 03:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-மேலும்3-எலும்புக்கூடுகள்-அடையாளம்/175-363627) · `ta`
-
-நேற்று முன்தினம் புதிதாக 16 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளப்படுத்தப்பட்டிருந்த நிலையில் நேற்று மேலும் 3 எலும்புக்கூட்டுத்  தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-அதேவேளை, நேற்றுமுன்தினம் அடையாளம் காணப்பட்ட எலும்புக்கூட்டுத் தொகுதிகளில் 8 எலும்புக்கூடுகள் நேற்று முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன.
-
-கட்டம் கட்டமாக இதுவரையில் 43 நாட்கள் முன்னெடுக்கப்பட்ட அகழ்வுப்  பணிகளின் போது, மொத்தமாக 169 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றில் இதுவரை 158 எலும்புக்கூட்டுத்  தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/8e42d319.json)
-
----
-
-### Gem Sri Lanka 2026: Ultimate sourcing mission
-
-*2025-08-28 03:28:11* · [`dailyftlk`](https://www.ft.lk/business/Gem-Sri-Lanka-2026-Ultimate-sourcing-mission/34-780884) · `en`
-
-Sri Lanka, renowned as the Island of gemstones, is preparing to host the third edition of Gem Sri Lanka, South Asia’s premier international gem and jewellery exhibition.
-
-Organised by the Ceylon Gem and Jewellery Traders Association (CGJTA), the event will take place from 7-9 January 2026 at the Shangri-La Colombo, bringing together industry leaders, global buyers and connoisseurs.
-
-The official launch ceremony, held yesterday at the Shangri-La Colombo, welcomed a distinguished gathering of ministers, ambassadors, dignitaries, industry leaders and stakeholders.
-
-With the theme “The Source. The Production. The Selection”, Gem Sri Lanka 2026 will highlight the complete journey of gemstones—from their origins in Sri Lankan mines to masterful craftsmanship and international markets.
-
-Gems Sri Lanka Chairman and CGJTA Vice Chairman Hilmy Cassim, described the exhibition as a powerful gateway connecting Sri Lanka’s timeless gemstone legacy with the global marketplace.
-
-...
-
-[Data](articles/4fbfe31f.json)
-
----
-
-### From ashes to action: Kandurata Umbrella Industries resumes production in record time
-
-*2025-08-28 03:21:35* · [`dailyftlk`](https://www.ft.lk/business/From-ashes-to-action-Kandurata-Umbrella-Industries-resumes-production-in-record-time/34-780883) · `en`
-
-Chairman M. T. M. Nawushad (left) and Managing Director M. T. M. Naufal
-
-In an astonishing display of resilience and community spirit, Kandurata Umbrella Industries Ltd., announced this week that it has resumed production at its Gampola factory, less than a month after a devastating fire completely destroyed the facility.
-
-The blaze, which occurred on 28 July 2025, razed the entire manufacturing plant, wiping out the building, critical production equipment, and inventory for the iconic ‘Penguin’ brand.
-
-The incident was seen as a major blow to the nearly 50-year-old company, a household name in Sri Lanka and a significant employer in the Gampola region.
-
-However, in what is being hailed as a remarkable comeback, the company has managed to restart its operations in record time.
-
-In an official statement, the Board of Directors credited the rapid recovery to the “extraordinary” dedication of its employees and the “unwavering support” of partners, customers, and the local community.
-
-...
-
-[Data](articles/0b16f396.json)
-
----
-
-### Companies (Amendment) Act No. 12 of 2025: What it means  for businesses
-
-*2025-08-28 02:42:21* · [`dailyftlk`](https://www.ft.lk/opinion/Companies-Amendment-Act-No-12-of-2025-What-it-means-for-businesses/14-780879) · `en`
-
-Deloitte Sri Lanka views the Companies (Amendment) Act No. 12 of 2025, which was officially certified and passed into law on 4 August 2025, as a major milestone for the country’s corporate sector and a critical step in strengthening the governance framework.
-
-With 21 amendments introduced, the legislation improves the regulatory framework for business operations, enhances transparency, and aligns Sri Lanka with international standards such as those set by the Financial Action Task Force (FATF) and the Asia-Pacific Group on Anti-Money Laundering (AML). These reforms are not only about compliance, but also about building investor confidence and helping Sri Lanka position itself as a trusted and competitive business hub.
-
-...
-
-[Data](articles/7358cd4f.json)
-
----
-
-### Strategic planning: Missing link for SME success in Sri Lanka
-
-*2025-08-28 02:36:43* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-planning-Missing-link-for-SME-success-in-Sri-Lanka/4-780878) · `en`
-
-The question is not whether your SME can afford to invest in strategic planning, but whether it can afford not to
-
-In the bustling corridors of Sri Lankan business, I have witnessed countless Small and Medium Enterprises (SMEs) rise and fall like waves against the shore. As a Chartered Human Resource professional, my journey through government, private sector, and multinational corporations has provided me with a unique vantage point to observe what separates thriving businesses from those that merely survive.
-
-...
-
-[Data](articles/c650638b.json)
-
----
-
-### Perverse pleasures of genocide
-
-*2025-08-28 02:24:31* · [`dailyftlk`](https://www.ft.lk/columns/Perverse-pleasures-of-genocide/4-780877) · `en`
-
-A bomb has been dropped on the Nasser Hospital in Khan Younis, Gaza. Someone is videoing from a distance, and we see Palestinian aid workers climbing up the stairs, trying to rescue the survivors. Among the civil defence crew wearing bright vests, there are also four journalists: Hossam al-Masri (Reuters), Mohammed Salama (Al Jazeera), Mariam Abu Daqqa (Independent Arabia) and Moaz Abu Taha (NBC). Then another explosion, killing those very people offering help and documenting the carnage. In front of cameras, for the whole world to see through the livestream, Israel commits yet another war crime and … nothing happens.
-
-...
-
-[Data](articles/54623fef.json)
-
----
-
-### Arrest of former President Ranil: Test case for Sri Lanka’s democracy
-
-*2025-08-28 02:19:51* · [`dailyftlk`](https://www.ft.lk/columns/Arrest-of-former-President-Ranil-Test-case-for-Sri-Lanka-s-democracy/4-780876) · `en`
-
-The arrest of a former President is not merely a headline; it is a defining moment in the struggle to build a nation where the rule of law prevails over political privilege
-
-Sri Lanka has entered uncharted political and legal territory. For the first time in its post-independence history, a former President has been arrested, remanded, and brought before a court of law. The charges concern the alleged misuse of public funds for private foreign travel, following investigations by the Criminal Investigation Department (CID).
-
-This event is more than a legal case. It is a litmus test for Sri Lanka’s democratic institutions, the independence of its judiciary, and the rule of law in a system long accused of shielding political elites from accountability.
-
-...
-
-[Data](articles/f3211aad.json)
 
 ---

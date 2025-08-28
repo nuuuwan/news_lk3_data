@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 09:51:01**
+As of **2025-08-28 10:08:16**
 
 ## Newspaper Stats
 
-*Scraped **72,797** Articles*
+*Scraped **72,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,002
 adaderanalk | 9,233
-tamilmirrorlk | 10,797
+tamilmirrorlk | 10,799
 virakesarilk | 11,959
 adaderanasinhalalk | 12,607
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,607
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,797 articles have been extended.
+61,973 (85.1%) of 72,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### அன்னப்பிரசன்னம் விழாவில் கத்திக்குத்து: மூவருக்கு மரண தண்டனை
+
+*2025-08-28 09:49:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்னப்பிரசன்னம்-விழாவில்-கத்திக்குத்து-மூவருக்கு-மரண-தண்டனை/175-363633) · `ta`
+
+அன்னப்பிரசன்னம் விழாவின் போது 30 வயது இளைஞரை கத்தியால் குத்தி கொலை செய்த குற்றத்திற்காக தங்காலை மேல் நீதிமன்ற நீதிபதி உதேஷ் ரணதுங்க  மூன்று பேருக்கு, மரண தண்டனை விதித்தார்.
+
+வலஸ்முல்ல, மெதகன்கொட பகுதியில் இன்றைக்கு 14 ஆண்டுகளுக்கு முன்பு அன்னப்பிரசன்னம் விழாவின் போது ஏற்பட்ட வாக்குவாதத்தின் பின்னர் 30 வயது இளைஞரை கத்தியால் குத்தி கொலை செய்த குற்றத்திற்காக மனதுங்க சிரில், பொத்தல கமகே சாந்த குமார மற்றும் சிங்கப்புலிகே ஜெயதிலக ஆகிய மூவருக்கும் மரண தண்டனை விதிக்கப்பட்டது.
+
+வலஸ்முல்ல, மெதகன்கொட பகுதியில் நடைபெற்ற அன்னப்பிரசன்னம் விழாவுக்கு  சென்ற வலஸ்முல்ல, பன்சலகொட, பிரதீப் ஹவுஸைச் சேர்ந்த சுது ஹகுருகே இந்திக சமன் குமார, 12/01/2011 அன்று 30 வயது இளைஞரை கத்தியால் குத்தி கொலை செய்ததாக குற்றப்பத்திரிகையில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6a93db63.json)
+
+---
 
 ### கெஹல்பத்தர பத்மே உள்ளிட்ட 6 பேர் இந்தோனேசியாவில் கைது
 
@@ -930,6 +946,18 @@ Police said a person was shot dead at his residence by unidentified gunmen last 
 
 ---
 
+### துப்பாக்கிச் சூட்டில் ஒருவர்  பலி
+
+*2025-08-27 23:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-363626) · `ta`
+
+பாணந்துறை, வந்துரமுல்ல, அலுபோகஹவத்த பகுதியில் உள்ள வீட்டின் மீது அடையாளம் தெரியாத நபர்கள் நடத்திய துப்பாக்கிச் சூட்டில் ஒருவர் சுட்டுக் கொல்லப்பட்டார் என பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/0fa4d3b5.json)
+
+---
+
 ### துப்பாக்கிச் சூட்டில் ஒருவர் சுட்டுக் கொலை
 
 *2025-08-27 23:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-சுட்டுக்-கொலை/175-363626) · `ta`
@@ -1693,37 +1721,5 @@ A bond maturing on 15.12.2032 closed at 10.28/32 percent, from 10.26/33 percent.
 ...
 
 [Data](articles/52ee839a.json)
-
----
-
-### Traffic restricted on Borella road stretch due to risk of sinking
-
-*2025-08-27 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111917/traffic-restricted-on-borella-road-stretch-due-to-risk-of-sinking) · `en`
-
-Sri Lanka Police has announced that traffic will be restricted on a stretch of entry road to Colombo from the Devi Balika Roundabout to the D.S. Senanayake Junction in the Borella Police Division.
-
-Accordingly, the first and second lanes of this stretch of road have been closed for repair work due to the risk of cracks, subsidence, and the inflow of sewage onto the roadway since this morning (27).
-
-The Police Media Division advises motorists using the road to seek alternative routes as traffic along this section may experience disruptions. However, traffic exiting Colombo along this road will continue to operate as normal, it said.
-
-◼️
-
-[Data](articles/7d3eb79d.json)
-
----
-
-### අධිකරණය ළඟ නීති විරෝධීව හැසිරුණු අය ගැන විමර්ශනයක්
-
-*2025-08-27 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213858) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නීති කෘත්‍ය ඊයේ (26) කොටුව මහෙස්ත්‍රාත් අධිකරණයේ ආරම්භ කිරීමට නියමිතව තිබූ අවස්ථාවේදී අධිකරණ පරිශ්‍රය අසල නීතිවිරෝධී අයුරින් හැසිරුණු පිරිස් සම්බන්ධයෙන් විමර්ශනයක් සිදුකර වාර්තාවක් ලබාදෙන ලෙස අධිකරණයෙන් නියෝගයක් ලබාදී තිබේ.
-
-අද (27) පැවති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුට්ලර් මහතා මේ බව පැවසීය.
-
-"අධිකරණය විසින්ම පැහැදිලි නියෝගයක් ලබාදුන්නා නීතිවිරෝධිව අනීතික ලෙස රැස්වීම පිළිබඳ විමර්ශනයක් සිදුකර ගරු අධිකරණයට ඊළඟ දිනයේ දී වාර්තා කරන්න. ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මේ පිළිබඳ ඉදිරියේදී අධිකරණයට වාර්තාවක් සපයන්න නියමිතයි" යනුවෙන් හෙතෙම පැවසීය.
-
-◼️
-
-[Data](articles/98960af1.json)
 
 ---

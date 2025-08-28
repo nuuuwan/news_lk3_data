@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 11:19:53**
+As of **2025-08-28 11:32:21**
 
 ## Newspaper Stats
 
-*Scraped **72,820** Articles*
+*Scraped **72,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,003
-adaderanalk | 9,238
+adaderanalk | 9,240
 tamilmirrorlk | 10,809
 virakesarilk | 11,960
-adaderanasinhalalk | 12,611
+adaderanasinhalalk | 12,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,820 articles have been extended.
+61,973 (85.1%) of 72,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### නීතියට උඩින් කිසිවෙකුටත් ඉන්න අපි ඉඩ තියන්නේ නෑ -මහජන ආරක්ෂක ඇමති
+
+*2025-08-28 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213881) · `si`
+
+ඉන්දුනීසියාවේ දී සිදුකළ ඒකාබද්ධ මෙහෙයුමකින් අනතුරුව අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින්ව ඉදිරි දින දෙක තුන තුළ මෙරටට ගෙන්වා ගැනීමට කටයුතු කරන බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
+
+මේ සම්බන්ධයෙන් රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද (28) උදෑසන පැවති මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර සිටියේ, වත්මන් රජය ජනතාවට පොරොන්දු වූ පරිදි නීතිය පසඳලීමේ ආයතනවල ස්වාධීනත්වය ඇති කර ඇති බවය.
+
+ඒ අනුව සංවිධානාත්මක අපරාධකරුවන් පිරිසක් අත්අඩංගුවට ගත් බවත් එය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහ ඉන්දුනීසියානු පොලීසිය එක්ව සිදුකළ දින 7ක ඒකාබද්ධ මෙහෙයුමක ප්‍රතිඵලයක් බව ද ආනන්ද විජේපාල අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+අදාළ මෙහෙයුම සඳහා ඉන්දියානු බුද්ධි අංශවල සහායද හිමි වූ අතර, ඒ අනුව සැලැස්ම ක්‍රියාත්මක කළ බවත් මේ වනවිට අඩපණ වී තිබූ බුද්ධි අංශයේ යම් යම් කොටස් සක්‍රීය වී ඇති බව ද අමාත්‍යවරයා කියා සිටියේය.
+
+බොහෝ අවස්ථාවලදී සංවිධානාත්මක අපරාධ වර්ධනය වී ඇත්තේ, දේශපාලනඥයින්ගේ ආශිර්වාදයෙන් බවත්
+
+...
+
+[Data](articles/09ee7495.json)
+
+---
 
 ### ඉන්දුනීසියාවේදී කොටු කළ ප්‍රධාන පෙළේ අපරාධ කල්ලි සාමාජිකයින් මෙන්න
 
@@ -88,7 +108,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### 20යි 20 ශ්‍රී ලංකා සංචිතය නම් කෙරේ
+### සිම්බාබ්වේ යන ශ්‍රී ලංකා T20 සංචිතය නම් කෙරේ
 
 *2025-08-28 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213879) · `si`
 
@@ -144,6 +164,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Putin, Kim Jong Un to attend Chinese parade in show of defiance to the West
+
+*2025-08-28 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111934/putin-kim-jong-un-to-attend-chinese-parade-in-show-of-defiance-to-the-west) · `en`
+
+Russian President Vladimir Putin and North Korea’s Kim Jong Un will attend a military parade in Beijing, marking the first public appearance of the two leaders alongside President Xi Jinping in a show of collective defiance amid Western pressure.
+
+No Western leaders will be among the 26 foreign heads of state and government attending the parade next week with the exception of Robert Fico, prime minister of Slovakia, a European Union member state, according to the Chinese foreign ministry on Thursday.
+
+Against the backdrop of China’s growing military might during the “Victory Day” parade on September 3, the three leaders will project a major show of solidarity not just between China and the Global South, but also with sanctions-hit Russia and North Korea.
+
+Russia, which Beijing counts as a strategic partner, has been battered by multiple rounds of Western sanctions imposed after its invasion of Ukraine in 2022, with its economy on the brink of slipping into recession.
+
+...
+
+[Data](articles/6650f041.json)
+
+---
+
 ### வகுப்பறைகளில் செல்லிடத்தொலைபேசிகளை தடை செய்த தென் கொரியா
 
 *2025-08-28 10:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வகுப்பறைகளில்-செல்லிடத்தொலைபேசிகளை-தடை-செய்த-தென்-கொரியா/50-363640) · `ta`
@@ -161,6 +199,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b5670550.json)
+
+---
+
+### Govt. will extend its support to strengthen manufacturing industry, says President Dissanayake
+
+*2025-08-28 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/111933/govt-will-extend-its-support-to-strengthen-manufacturing-industry-says-president-dissanayake) · `en`
+
+A pre-budget discussion for the year 2026 was held on Wednesday (27) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake with local entrepreneurs in the ceramic industry, to review concerns and proposals related to challenges in the industry.
+
+At the discussion, it has been extensively reviewed that the government’s plans to strengthen the domestic manufacturing industry, with the aim of expanding export revenue while safeguarding local entrepreneurs, the President’s Media Division (PMD) said.
+
+In addition, the current issues and challenges related to the manufacturing sector were thoroughly examined.
+
+Specific attention was given to ceramic products, including tiles, bathroom fittings and sanitary ware, while discussions also focused on ensuring the quality and standards of these products currently available in the market, the PMD added.
+
+...
+
+[Data](articles/4aa2e8a2.json)
 
 ---
 
@@ -576,9 +632,9 @@ Meanwhile, Deputy Minister of Transport and Highways, Prasanna Gunasena, stated 
 
 *2025-08-28 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213874) · `si`
 
-පුරප්පාඩු වී පවතින අස්ගිරි පාර්ශ්වයේ අනුනායක ධූරය සඳහා පැවැත්වෙන නිලවරණය අද (28) පැවැත්වේ.
+පුරප්පාඩු වී පවතින අස්ගිරි පාර්ශ්වයේ එක් අනුනායක ධූරයක් සඳහා පැවැත්වෙන නිලවරණය අද (28) පැවැත්වේ.
 
-අද පස්වරු 2.00 ට මහනුවර අස්ගිරි මහා විහාරයේ ඓතිහාසික පොහොයගේ හිදී එය පැවැත්වෙන අතර අස්ගිරි පාර්ශ්වයේ මහානායක වරකාගොඩ ඥාණරතන නාහිමිගේ ප්‍රධානත්වයෙන් නිලවරණය පැවැත්වෙන බව සඳහන් වේ.
+අද පස්වරු 2.00 ට මහනුවර අස්ගිරි මහා විහාරයේ ඓතිහාසික උපෝසිතාගාරයේ දී එය පැවැත්වෙන අතර අස්ගිරි පාර්ශ්වයේ මහානායක වරකාගොඩ ඥාණරතන නාහිමිගේ ප්‍රධානත්වයෙන් නිලවරණය පැවැත්වෙන බව සඳහන් වේ.
 
 ඒ සඳහා අස්ගිරි කාරක මහා සංඝ සභාවේ හිමිවරුන් 19 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා තිබේ.
 
@@ -1699,55 +1755,5 @@ The United States deeply appreciates Sri Lanka’s warm welcome for the USS Tuls
 ...
 
 [Data](articles/78787f26.json)
-
----
-
-### செம்மணி-சித்துபாத்தி புதைகுழியில் மேலும் 3 மனித எலும்புக்கூடுகள் கண்டுபிடிப்பு
-
-*2025-08-27 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/223534) · `ta`
-
-செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் இன்று மேலும் 3 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
-
-இதன் அடிப்படையில் இதுவரை 169 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 158 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
-
-யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 35வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/6338b3b1.json)
-
----
-
-### Europeans likely to initiate UN sanctions process on Iran on Thursday, sources say
-
-*2025-08-27 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111920/europeans-likely-to-initiate-un-sanctions-process-on-iran-on-thursday-sources-say) · `en`
-
-Britain, France and Germany are likely to begin the process of reimposing U.N. sanctions on Iran on Thursday, but hope Tehran will provide commitments over its nuclear programme within 30 days that will convince them to defer concrete action, four diplomats said.
-
-The trio, known as the E3, met Iran on Tuesday to try to revive diplomacy over the nuclear programme before they lose the ability in mid-October to restore sanctions on Tehran that were lifted under a 2015 nuclear accord with world powers.
-
-Three European diplomats and a Western diplomat said Tuesday’s talks did not yield sufficiently tangible commitments from Iran, although they believed there was scope for further diplomacy in the coming weeks.
-
-They said the E3 had decided to start triggering the so-called snapback of U.N. sanctions, possibly as early as Thursday, over accusations that Iran has violated the 2015 deal with world powers that aimed to prevent Tehran from developing a nuclear weapon.
-
-...
-
-[Data](articles/d990008b.json)
-
----
-
-### மக்கள் பிரச்சினை தீர்க்கவே எதிர்க்கட்சிகள் கூட்டணி – சஜித் பிரேமதாச
-
-*2025-08-27 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/223533) · `ta`
-
-நாட்டில் மக்கள் எதிர்கொண்டுள்ள பிரச்சினைகளுக்கு தீர்வு வழங்குவதற்காகவே எதிர்க்கட்சிகளால் பரந்துபட்ட கூட்டணி அமைக்கப்படுகிறது. அதனை விடுத்து எந்தவொரு அரசியல் நோக்கமும் அதில் இல்லை என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-27 ஆம் பகுதி புதன்கிழமை கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வரும் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
-
-அரசியல் நோக்கங்களுக்காக எதிர்க்கட்சிகளால் பரந்துபட்ட கூட்டணி அமைக்கப்படவில்லை. நாட்டின் பிரச்சினைகளுக்கு தீர்வினை வழங்குவதற்காகவே நாம் ஒன்றிணைந்துள்ளோம். தற்போதைய அரசாங்கத்துக்கு பிரச்சினைகளுக்கு தீர்வு வழங்குவதற்கான இயலுமை இல்லை. 40 000 பட்டதாரிகள் வீதியிலிருக்கின்றனர். வழங்கப்பட்ட வாக்குறுதிக்கமைய அவர்களுக்கு தொழில் வழங்கப்படவில்லை.
-
-...
-
-[Data](articles/fd188f88.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 03:18:07**
+As of **2025-08-29 03:32:29**
 
 ## Newspaper Stats
 
-*Scraped **72,948** Articles*
+*Scraped **72,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,156
+dailyftlk | 5,158
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,948 articles have been extended.
+61,973 (85.0%) of 72,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Salesforce launches ‘Agentforce for Revenue’
+
+*2025-08-29 03:05:44* · [`dailyftlk`](https://www.ft.lk/business/Salesforce-launches-Agentforce-for-Revenue/34-780935) · `en`
+
+Says AI-powered solution embedded within its all-new Revenue Cloud cuts sales quoting time by 75%, dramatically reduces manual work for sales teams
+
+Salesforce has announced the launch of Agentforce for Revenue, an AI-powered solution embedded within its all-new Revenue Cloud, which is set to redefine the sales quoting process for businesses worldwide.
+
+By dramatically cutting quoting time by 75% and reducing manual clicks by 87%, Agentforce brings unprecedented efficiency to revenue operations, enabling sales teams to focus on what matters most — building stronger customer relationships and closing deals faster.
+
+...
+
+[Data](articles/f745c9f2.json)
+
+---
+
+### CBB celebrates 25th anniversary with exclusive member networking session at Cinnamon Life
+
+*2025-08-29 03:04:32* · [`dailyftlk`](https://www.ft.lk/business/CBB-celebrates-25th-anniversary-with-exclusive-member-networking-session-at-Cinnamon-Life/34-780934) · `en`
+
+From left: Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe, HSBC Sri Lanka Chief Executive Officer and CBB President Mark Surgenor, and SL-UK Chamber of Commerce Director and General Secretary Charles Rohan De Alwis
+
+The Council for Business with Britain (CBB) of The Ceylon Chamber of Commerce recently celebrated its 25th anniversary in Sri Lanka. The 25th Annual General Meeting (AGM) was held at Westminster House, followed by an exclusive networking session for members at Cinnamon Life, bringing together leading business professionals and stakeholders from the UK-Sri Lanka bilateral business community.
+
+HSBC Sri Lanka Chief Executive Officer Mark Surgenor was re-elected President of the Council, while Norfolk Foods Ltd., President Ameena Ziauddin and KPMG Sri Lanka Head of Deal Advisory Shiluka Goonewardene were re-elected Senior Vice President and Vice President, respectively. Fadhil Jiffry of London Stock Exchange Group Sri Lanka was elected Treasurer.
+
+...
+
+[Data](articles/9a1c86e9.json)
+
+---
 
 ### Are tobacco taxes still a reliable source of revenue?
 
@@ -1787,43 +1819,5 @@ Speaking at a special media briefing today (28), the Minister affirmed this resp
 ◼️
 
 [Data](articles/864667c5.json)
-
----
-
-### සබරගමුවේ සංවර්ධන නිලධාරීන් දහසක අතිරික්තයක්
-
-*2025-08-28 12:57:35* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුවේ-සංවර්ධන-නිලධාරීන්-දහසක-අතිරික්තයක්/11-418122) · `si`
-
-සබරගමු පළාතේ රාජ්‍ය ආයතනවල අතිරික්තව සිටින දහසකට ආසන්න සංවර්ධන නිලධාරීන් වහාම ඵලදායී රාජ්‍ය සේවය සඳහා අනුයුක්ත කරන ලෙස සබරගමුව පළාත් ආණ්ඩුකාර චම්පා චජනකි රාජරත්න මහත්මිය 27දා නියෝග කළාය.
-
-රත්නපුර පළාත් සභා පරිශ්‍රයේදී පිහිටි ප්‍රධාන අමාත්‍යංශ ශ්‍රවණාගාරයේ දී පැවති සබරගමු පළාත් පිරිවෙන් අධ්‍යාපනය සවිබල ගැන්වීමේ වැඩසටහනේදී  ආණ්ඩුකාරවරිය මේ බව පැවසුවාය.
-
-සබරගමු පළාතේ අධ්‍යාපන කාර්යාලයන්හි, පිරිවෙන්වල  රාජකාරි කිරීමට සංවර්ධන නිලධාරීන්ගේ විශාල හිඟයක් පවතින බව අධ්‍යාපන අමාත්‍යංශයේ පිරිවෙන් අංශයේ අධ්‍යක්ෂක පූජ්‍ය කන්තලේ විඡිත වංශ හිමි පැවසූහ.
-
-කෑගල්ල දිස්ත්‍රික්කයේ, දිස්ත්‍රික් ලේකම් කාර්යාලය යටතේ පවතින ප්‍රාදේශිය ලේකම් කාර්යාල සහ අනෙකුත් රාජ්‍ය ආයතන ආශ්‍රිතව සංවර්ධන නිලධාරින් හත්සීයක පමණ අතිරික්තයක් පවතින බව කෑගල්ල අතිරේක දිස්ත්‍රික් ලේකම් පී.දිලිප් නිශාන්ත මහතා පැවසුවේය.
-
-රත්නපුර දිස්ත්‍රික්කයේ සංවර්ධන නිලධාරීන්ගේ අතිරික්තය දෙසීය හැටක් පමණ වන බව රත්නපුර දිස්ත්‍රික් අතිරේක ලේකම් බී.ටී.ගයානි අයි කරුණාරත්න මහත්මිය කීවාය.
-
-...
-
-[Data](articles/49572341.json)
-
----
-
-### ගුවන් අනතුරු සම්බන්ධයෙන් ගුවන් හමුදාවෙන් අනතුරු ඇඟවීමක්
-
-*2025-08-28 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213886) · `si`
-
-මෙම දිනවල ප්‍රචලිතව පවතින සරුංගල් යැවීම ආශ්‍රිතව සිදුවිය හැකි ගුවන් අනතුරු සම්බන්ධයෙන් ගුවන් හමුදාවෙන් අනතුරු ඇඟවීමක් නිකුත් කර තිබේ.
-
-කුඩා ළමුන් සහ වැඩිහිටියන්, මහත්සේ ප්‍රිය කරන සරුංගල් සමයත් සමඟ ගුවන් ධාවන පථ ආසන්න ප්‍රදේශවල සරුංගල් යැවීම ඉතා අවදානම් සහගත කාරණක් බව ගුවන් හමුදාව සඳහන් කරයි.
-
-එලෙසම ලොව පුරා සිදුවන ගුවන් අනතුරුවලට ප්‍රධාන එක් හේතුවක් ලෙස ගුවන් ධාවනපථ සමීප ප්‍රදේශවල මෙම සරුංගල් යැවීම සඳහන් කළ හැකි බවද ඔවුන් අවධාරණය කරයි.
-
-ගුවන් යානා පියාසර කිරීම සඳහා සරුංගල් යැවීම සෘජුව බලපාන බාධකයක් සේම කටුනායක, රත්මලාන, හිඟුරක්ගොඩ, චීනවරාය, පලාලි, කටුකුරුන්ද, කොග්ගල, වව්නියා, වීරවිල සහ මත්තල වැනි ප්‍රදේශවල ඇති ගුවන් ධාවනපථ සමීපයේ බහුලව සරුංගල් යැවීම අති අවධානම් කරුණක් බව අදාළ නිවේදනයේ වැඩිදුර සඳහන්ය.
-
-◼️
-
-[Data](articles/5845d5f1.json)
 
 ---

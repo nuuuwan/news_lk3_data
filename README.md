@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 18:32:51**
+As of **2025-08-28 18:57:19**
 
 ## Newspaper Stats
 
-*Scraped **72,904** Articles*
+*Scraped **72,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
-adalk | 7,012
-adaderanalk | 9,255
+adalk | 7,014
+adaderanalk | 9,257
 tamilmirrorlk | 10,830
-virakesarilk | 11,968
+virakesarilk | 11,972
 adaderanasinhalalk | 12,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,904 articles have been extended.
+61,973 (85.0%) of 72,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### எல்லை நிர்ணய ஆணைக்குழு மீண்டும் நியமிக்கப்பட்டால் மாகாண சபைத் தேர்தல் 3 ஆண்டுகள் தாமதம் – மஹிந்த தேசப்பிரிய எச்சரிக்கை
+
+*2025-08-28 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/223634) · `ta`
+
+எல்லை நிர்ணய குழுவொன்றை மீண்டும் நியமித்தால் மாகாண சபைத் தேர்தலை இன்னும் மூன்று ஆண்டுகளுக்கும் நடத்த முடியாத நிலை ஏற்படும். அரச அதிகாரிகள் மற்றும் மாகாண ஆளுநர்களின் நிர்வாகத்தை காட்டிலும் அரசியல்வாதிகளின் நிர்வாகம் நூற்றுக்கு நூறு சதவீதம் சிறந்தது. தேர்தலை பிற்போடுவதற்காகவே எல்லை நிர்ணய குழு நியமிக்கப்படும். தேர்தலை பிற்போட வேண்டும் என்ற நிலைப்பாட்டில் உள்ளவர்கள் குழுவை சவாலுக்குட்படுத்துவார்கள் என தேர்தல்கள் ஆணைக்குழுவின் முன்னாள் தலைவர் மஹிந்த தேசப்பிரிய தெரிவித்தார்.
+
+மாகாண சபைத் தேர்தல் காலவரையறையின்றி பிற்போடப்பட்டுள்ளமை தொடர்பில் பெப்ரல் அமைப்பு 28ஆம் திகதி வியாழக்கிழமை கொழும்பில் ஏற்பாடு செய்திருந்த கலந்துரையாடலில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2017 ஆம் ஆண்டு மேற்கொண்ட ஒருசில தந்திரமான நடவடிக்கைகளினால் மாகாண சபைத் தேர்தல் பிற்போடப்பட்டது.இதனை சவாலுக்குட்படுத்தி உயர்நீதிமன்றத்தில் 12 அடிப்படை உரிமை மீறல் மனுக்கள் தாக்கல் செய்யப்பட்டன.இதன் பிரதிபலனாகவே மாகாணசபைகளின் பதவி காலத்தை குறைக்க முடியுமே தவிர அதிகரிக்க முடியாது என்று தீர்ப்பு கிடைக்கப்பெற்றது.
+
+...
+
+[Data](articles/bd085195.json)
+
+---
+
+### අස්ගිරි අනුනායක ධුරයට නාරම්පනාවේ ආනන්ද හිමියෝ පත්වෙති
+
+*2025-08-28 18:17:45* · [`adalk`](https://www.ada.lk/breaking_news/අස්ගිරි-අනුනායක-ධුරයට-නාරම්පනාවේ-ආනන්ද-හිමියෝ-පත්වෙති/11-418138) · `si`
+
+අස්ගිරි මහා විහාර පාර්ශ්වයේ අභිනව අනූනායක හිමියන් වශයෙන් ධර්මාචාර්ය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියන් එහි කාරක මහා සංඝ සභාව විසින් නිතරඟයෙන් පත්කර ගන්නා ලදී.
+
+උන්වහන්සේ එම පදවියට පත්වීමට පෙර අස්ගිරි මහා විහාර පාර්ශවයේ නියෝජ්‍ය ලේඛකාධිකාරීී වශයෙන් කටයුතු කටයුතු කළේය.
+
+අස්ගිරි පාර්ශ්වයේ හිටපු අනුනායක පූජ්‍ය ආනමඩුවේ ධම්මදස්සි හිමියන් අපවත්වීමෙන් අනතුරුව එහි එක් අනූනායක පදවියක් හිස් වූ අතර එම පදවියට සුදුසු ජ්‍යෙෂ්ඨ හිමිනමක් පත් කර ගැනීම සඳහා අද (28) සවස 2.45ට පමණ අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඤාණරතන හිමියන්ගේ ප්‍රධානත්වයෙන් එහි මහා කාරක සංඝ සභාව උපෝෂිත පුෂ්පාගාරයේදී රැස්විය.
+
+එම අනුනායක පදවිය සඳහා පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියන් සමඟ මහියංගන රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ධම්මරක්ඛිත හිමියන්ද ඉදිරිපත් වන බවට සඳහන් වුවද පසුව කාරකමහා සංඝ සභාව විසින් නිවේදනය කරනු ලැබූයේ පූජ්‍ය උරුලෑවත්තේ ධම්මරක්ඛිත හිමියන් විසින් පූජ්‍ය නාරම්පරාවේ ආනන්ද හිමියන්ගේ නම අනුනායක පදවිය සඳහා යෝජනා කළ බවයි.
+
+...
+
+[Data](articles/efa67aee.json)
+
+---
 
 ### ආසියානු කුසලානයට ශ්‍රී ලංකා සංචිතය නම් කෙරේ
 
@@ -38,13 +72,57 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියට තෝරාගත් ශ්‍රී ලංකා සංචිතය අද (28) පස්වරුවේ නම් කළේය.
 
+චරිත් අසලංකගේ නායකත්වයෙන් යුත් ක්‍රීඩකයන් 16 දෙනෙකුගෙන් සමන්විත සංචිතයක් ශ්‍රී ලංකා ක්‍රිකට් තේරීම් කමිටුව විසින් මේ සඳහා නම්කර ඇත.
+
 මෙවර තරගාවලිය සැප්තැම්බර් 9 වනදා සිට 28 වනදා දක්වා එක්සත් අරාබි එමීර් රාජ්‍යයේදී පැවැත්වේ.
 
-1. චරිත් අසලංක (නායක), 2. පැතුම් නිශ්ශංක, 3. කුසල් මෙන්ඩිස්, 4. කුසල් පෙරේරා, 5. නුවනිදු ප්‍රනාන්දු, 6. කමිඳු මෙන්ඩිස්, 7. කමිල් මිෂාර, 8. දසුන් ශානක, 9. වනිඳු හසරංග, 10. දුනිත් වෙල්ලාලගේ, 11. චාමික කරුණාරත්න, 12. මහීෂ් තීක්ෂණ, 13. දුෂ්මන්ත චමීර, 14. බිනුර ප්‍රනාන්දු, 15. නුවන් තුෂාර, 16. මතීෂ පතිරණ
+ශ්‍රී ලංකා කණ්ඩායම සිය පළමු තරගය සැප්තැම්බර් 13වනදා බංග්ලාදේශයට එරෙහිව ක්‍රීඩාකිරීමට නියමිතය.
+
+1. චරිත් අසලංක (නායක), 2. පැතුම් නිස්සංක, 3. කුසල් මෙන්ඩිස්, 4. කුසල් පෙරේරා, 5. නුවනිදු ප්‍රනාන්දු, 6. කමිඳු මෙන්ඩිස්, 7. කමිල් මිෂාර, 8. දසුන් ශානක, 9. වනිඳු හසරංග, 10. දුනිත් වෙල්ලාලගේ, 11. චාමික කරුණාරත්න, 12. මහීෂ් තීක්ෂණ, 13. දුෂ්මන්ත චමීර, 14. බිනුර ප්‍රනාන්දු, 15. නුවන් තුෂාර, 16. මතීෂ පතිරණ
 
 ◼️
 
 [Data](articles/83fec539.json)
+
+---
+
+### Vehicular movement restricted along Colombo - Kandy main road in Warakapola
+
+*2025-08-28 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/111956/vehicular-movement-restricted-along-colombo-kandy-main-road-in-warakapola) · `en`
+
+Vehicular movement along the Colombo –Kandy will be restricted this evening (28), owing to the Deva Perahera scheduled to be held at the ancient Sri Paththini Dewalaya in Ambepussa, Warakapola.
+
+The procession is scheduled to commence at 6 p.m. and will proceed along the Colombo–Kandy main road.
+
+It will enter the main road from the Ambepussa Dewalaya Junction and travel towards Kandy.
+
+The route includes Ambepussa Junction, the Divisional Secretariat junction in Mahena, the Mahena bend, and then returns to the temple along the same road, police stated.
+
+During the procession, heavy traffic congestion is expected along the Colombo–Kandy main road.
+
+Therefore, police have requested the public and motorists to use the following alternative routes:
+
+• For vehicles traveling from Colombo towards Kandy via the Colombo–Kandy Road:
+
+Turn off at the Pasyala Junction, proceed via Nittambuwa – Giriulla Road to Mirigama, and then use the expressway towards Kurunegala or Kandy.
+
+...
+
+[Data](articles/18f21c7a.json)
+
+---
+
+### "புதிய பயங்கரவாதச் சட்ட வரைவு: 'வெள்ளை அறிக்கை'யை உடனடியாக வெளியிடக் கோரி நீதியமைச்சரிடம் கடிதம்"
+
+*2025-08-28 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/223620) · `ta`
+
+புதிய பயங்கரவாதச் சட்ட வரைவு தொடர்பாக அரசாங்கம் வாக்குறுதியளித்திருந்த “வெள்ளை அறிக்கை”யை உடனடியாக வெளியிட வேண்டும் என வலியுறுத்தி, மக்கள் பேரவை இயக்க உறுப்பினர்கள் உள்ளிட்ட 250 க்கும் மேற்பட்ட கல்வியாளர்கள், தொழிற்சங்க பிரதிநிதிகள், மதகுருக்கள், சமூக அமைப்புகள் மற்றும் மக்கள் இயக்கங்களின் உறுப்பினர்களின் கையெழுத்திட்ட கடிதமொன்றை இன்று வியாழக்கிழமை (28) மக்கள் பேரவை இயக்க உறுப்பினர்கள் உட்பட செயற்பாட்டாளர்கள் மற்றும் அக்கறையுள்ள குடிமக்கள் குழுவினர் நீதியமைச்சரிடம் ஒப்படைத்தனர்.
+
+கடந்த மே மாதம் நீதியமைச்சருடன் நடைபெற்ற சந்திப்பின்போது, பயங்கரவாதத் தடைச் சட்டத்தை (PTA) நீக்கி, அதற்குப் பதிலாக புதிய சட்டம் கொண்டுவர வேண்டாம் என குழுவினர் கோரிக்கை விடுத்திருந்தனர். அதற்கு பதிலளித்த நீதியமைச்சர், புதிய வரைவு சட்டம் குறித்த “வெள்ளை அறிக்கை” ஒன்றை பொதுமக்களின் விரிவான கலந்துரையாடலுக்காக வெளியிடுவதாக உறுதியளித்திருந்தார்.
+
+...
+
+[Data](articles/9fc0c8a3.json)
 
 ---
 
@@ -99,6 +177,36 @@ The company proposes to have these debentures listed on the Colombo Stock Exchan
 ...
 
 [Data](articles/ef378b8c.json)
+
+---
+
+### Man held at BIA with mobile phones and cardamom worth Rs. 20M
+
+*2025-08-28 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111955/man-held-at-bia-with-mobile-phones-and-cardamom-worth-rs-20m) · `en`
+
+An individual has been arrested at the Bandaranaike International Airport (BIA) while attempting to smuggle a consignment of mobile phones and cardamom worth approximately Rs. 20 million into the country.
+
+He was apprehended this morning (28) by customs officers while attempting to smuggle the goods through the ‘Green Channel’ of the airport.
+
+Upon inspection of his six pieces of luggage, officials found 165 mobile phones and 102 kilograms of cardamom.
+
+◼️
+
+[Data](articles/5ae9c021.json)
+
+---
+
+### கொடவாய கப்பற் சிதைவு: இலங்கையின் பழமையான கடல்சார் வரலாற்றை எடுத்துக்காட்டும் அமெரிக்க - இலங்கை கண்காட்சி
+
+*2025-08-28 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/223610) · `ta`
+
+இலங்கையின் மிக முக்கியமான கடல்சார் பாரம்பரியங்களில் ஒன்றான கொடவாய கப்பற் சிதைவிலிருந்து மீட்கப்பட்ட அரிய தொல்பொருட்களை காட்சிப்படுத்தும் கண்காட்சி ஒன்று கொழும்பில் உள்ள பண்டாரநாயக்க ஞாபகார்த்த மாநாட்டு மண்டபத்தில் (BMICH ) நடைபெறவுள்ளது. அமெரிக்கத் தூதரகமும், மத்திய கலாச்சார நிதியத்தின் கடல்சார் தொல்பொருள் பிரிவும் இணைந்து ஏற்பாடு செய்துள்ள இந்தக் கண்காட்சி, BMICH Cinema Lounge இல் செப்டம்பர் 3 முதல் 5 வரை பொதுமக்களுக்காகத் திறந்திருக்கும்.
+
+தெற்கு இலங்கையில் உள்ள கொடவாய மீன்பிடிக் கிராமத்திற்கு அருகில் கண்டுபிடிக்கப்பட்ட இந்த 2,100 ஆண்டுகளுக்கு முற்பட்ட கப்பல் சிதைவு, ஆசிய-பசிபிக் பிராந்தியத்தில் இதுவரை கண்டறியப்பட்ட மிகப் பழமையான மரக்கப்பல் சிதைவு என அறியப்படுகிறது. கி.மு. 1 அல்லது 2 ஆம் நூற்றாண்டைச் சேர்ந்ததாகக் கருதப்படும் இக்கப்பல், இந்து சமுத்திரத்தில் பண்டைய காலத்தில் நடைபெற்ற வர்த்தகம் மற்றும் கடல்வழிப் பயணங்கள் குறித்த அரிய தகவல்களை வெளிப்படுத்துகின்றது.
+
+...
+
+[Data](articles/fe48ee17.json)
 
 ---
 
@@ -248,11 +356,39 @@ Provincial minister Marriyum Aurangzeb said floods hit 1,432 villages located al
 
 *2025-08-28 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111952/man-arrested-for-assaulting-police-officer-during-protest-near-fort-magistrates-court-remanded) · `en`
 
-The individual, who was arrested for allegedly injuring a police officer during a protest held near the Colombo Fort Magistrate’s Court on Tuesday (26), has been remanded, Ada Derana reporter said.
+An individual, who was arrested for allegedly assaulting a police officer on duty with a water bottle adjacent to the Colombo Fort Magistrate’s Court on Tuesday (26), has been remanded, said Ada Derana reporter.
+
+The Colombo Fort Magistrate’s Court today (28) ordered the suspect to be remanded until September 8.
+
+The incident took place on Tuesday near the court premises, during legal proceedings related to former President Ranil Wickremesinghe.
+
+The suspect was arrested in Kalutara yesterday (27) by a team of officers from the Colombo Crimes Division (CCD).
+
+According to police, the suspect has been identified as a 52-year-old former urban councilor from Nagoda.
 
 ◼️
 
 [Data](articles/717b24b7.json)
+
+---
+
+### யால தேசிய பூங்காவில் யானை குட்டிக்கு காயம்
+
+*2025-08-28 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/223600) · `ta`
+
+யால தேசிய பூங்காவின் புட்டவ நீர்த்தேக்கத்திற்கு அருகிலுள்ள வலயம் 01 இல் யானை குட்டி ஒன்று வலையில் சிக்கியதால் அதன் காலில் காயங்களுடன் கண்டுபிடிக்கப்பட்டுள்ளதாக பூங்கா காப்பாளர் தெரிவித்துள்ளார்.
+
+வனவிலங்கு கால்நடை வைத்தியர்கள் நேற்று புதன்கிழமை (27) யானைக்கு அவசர வைத்திய சிகிச்சை அளித்ததாக வனஜீவராசிகள்பாதுகாப்புத் திணைக்களம் தெரிவித்துள்ளது.
+
+காலில் பலத்த காயமடைந்த யானைக் குட்டிக்கு மயக்க மருந்து கொடுக்கப்பட்டு, தேவையான சிகிச்சைகள் அளிக்கப்பட்டன.
+
+வனவிலங்கு கால்நடை வைத்தியர் கே. தம்மி, லுனுகம்வெஹெர சுகாதார அபிவிருத்தி மைய அதிகாரிகளுடன் இந்த நடவடிக்கையில் பங்கேற்றனர்.
+
+வலையில் சிக்கிய காட்டு விலங்குகள் கடுமையான வலியை அனுபவிப்பதாகவும், சிக்கியவுடன் உடனடியாக அதிகாரிகளால் கவனிக்கப்படாமல் போவதாகவும் வனஜீவராசிகள் பாதுகாப்புத் திணைக்களம் சுட்டிக்காட்டியது.
+
+...
+
+[Data](articles/ad3716e7.json)
 
 ---
 
@@ -445,6 +581,20 @@ The report is the outcome of a collective effort by 26 subject experts and more 
 ...
 
 [Data](articles/5ce7ab97.json)
+
+---
+
+### තිස්ස හා රිදියගම වැව්වල සීමා සලකුණු කරයි
+
+*2025-08-28 15:30:15* · [`adalk`](https://www.ada.lk/breaking_news/තිස්ස-හා-රිදියගම-වැව්වල-සීමා-සලකුණු-කරයි/11-418129) · `si`
+
+ජල මූලාශ්‍රවල තිරසර බව රැක ගනිමින් සංවර්ධන කාර්යයන් සිදුකිරීම පහසු කිරීම සඳහා වාංරිමාර්ග දෙපාර්තමේන්තුව යටතේ පාලනය වන ප්‍රධාන වැව්වල සීමා සලකුණු කිරීම යටතේ හම්බන්තොට දිස්ත්‍රික්කයේ තිස්ස හා රිදියගම යන වැව්වල සීමා සලකුණු කිරීමට තීරණය කර තිබේ.
+
+ඒ අනුව තිස්ස වැවේ සීමා සලකුණු කිරීම හෙට දිනයේදීත් රිදියගම වැවේ සීමා සලකුණු කිරීම අනිද්දා දිනයේදීත් සිදු කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/8bdc71ca.json)
 
 ---
 
@@ -1691,143 +1841,5 @@ Specific attention was given to ceramic products, including tiles, bathroom fitt
 ...
 
 [Data](articles/dbbf35b3.json)
-
----
-
-### කිම් ජොන් උන් චීනයේ සංචාරයකට සැරසෙයි
-
-*2025-08-28 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213878) · `si`
-
-උතුරු කොරියානු නායක කිම් ජොන් උන් චීනයේ සංචාරයක නිරතවීමට තීරණය කර තිබේ.
-
-එළඹෙන සැප්තැම්බර් 03වන දින චීනයේ පැවැත්වෙන ජයග්‍රාහී දින පෙළපාලියට උතුරු කොරියානු නායකයා සහභාගී වීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-මෙම සංචාරය උතුරු කොරියානු නායකයාගේ පළමු ජාත්‍යන්තර මට්ටමේ නායකයින් සහභාගී වන හමුව වන බව චීනය පවසයි.
-
-ජපානයට එරෙහි යුද්ධයේ 80 වන සංවත්සරය සැමරීම සඳහා පැවැත්වෙන ජයග්‍රාහී දින පෙළපාලියට රාජ්‍ය නායකයින් 26 දෙනෙකු සහභාගී  වීමට නියමිත අතර රුසියානු ජනාධිපති වැලැද්මීර් පුටින් ද සහභාගී වීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/10aaa5b6.json)
-
----
-
-### தொழிற்சங்க நடவடிக்கையில் குதித்த SLTB
-
-*2025-08-28 10:00:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-நடவடிக்கையில்-குதித்த-SLTB/175-363637) · `ta`
-
-இலங்கை போக்குவரத்து சபையின் பல தொழிற்சங்கங்கள் 4 கோரிக்கைகளை முன்வைத்து நேற்று (27) நள்ளிரவு முதல் தொழிற்சங்க நடவடிக்கையை தொடங்கின.
-
-SLTB மற்றும் தனியார் பேருந்துகள் இரண்டிற்கும் ஒருங்கிணைந்த பேருந்து நேர அட்டவணையை அமல்படுத்த தேசிய போக்குவரத்து ஆணையம் எடுத்த முடிவுக்கு எதிர்ப்பு தெரிவித்தும், மேலும் பல கோரிக்கைகளுக்கு எதிர்ப்பு தெரிவித்தும் இந்த வேலைநிறுத்தம் தொடங்கப்பட்டுள்ளது.
-
-அறிமுகப்படுத்தப்பட்ட ஒருங்கிணைந்த நேர அட்டவணையில் பல சிக்கல்கள் இருப்பதாக இலங்கை தனியார் பேருந்து சங்கத்தின் தலைவர் கெமுனு விஜேரத்னவும் தெரிவித்தார்.
-
-இருப்பினும், தேசிய போக்குவரத்து ஆணையத்தின் தலைவர் பொறியாளர் பி.ஏ. சந்திரபால, சம்பந்தப்பட்ட அனைத்து தரப்பினரின் கருத்துக்களையும் பரிசீலித்த பின்னரே ஒருங்கிணைந்த நேர அட்டவணை உருவாக்கப்பட்டதாக கூறினார். R
-
-◼️
-
-[Data](articles/096dbb1f.json)
-
----
-
-### විදුලිබල සේවකයින්ට ස්වේච්ඡා විශ්‍රාමයාමේ යෝජනා ක්‍රමයක්
-
-*2025-08-28 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213877) · `si`
-
-නව විදුලි බල පනතට අනුව, සමාගමකට අනුයක්ත වීමට අකමැති ලංකා විදුලිබල මණ්ඩල සේවකයින් සඳහා ස්වේච්ඡා විශ්‍රාමයාමේ යෝජනා ක්‍රමයක් හඳුන්වා දීමට බලශක්ති අමාත්‍යංශය තීරණය කර තිබේ.
-
-බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා විසින් 2025 ශ්‍රී ලංකා විදුලි බල ස්වේච්ඡා විශ්‍රාම යාමේ යෝජනා ක්‍රමයේ නියම සහ කොන්දේසි නියෝග යනුවෙන් ඊට අදාළ නියෝගය නිකුත් කර ඇති බව වාර්තා වේ.
-
-ලංකා විදුලිබල මණ්ඩලයේ නව පනතේ ප්‍රතිපාදනවලට අනුව විදුලිබල මණ්ඩලය සමාගම් 4කට ප්‍රතිව්‍යුහගත කර ඇති අතර සියලු සේවකයින් අදාළ සමාගම් 4ට අනුයුක්ත කරමින් ලිපි නිකුත් කර ඇති බව සඳහන්ය.
-
-අදාළ අනුප්‍රාප්තික සමාගමට අනුයක්ත වීම ස්වකීය තේරීම නොවන සේවකයින් සඳහා ස්වේච්ඡාවෙන් විශ්‍රාම යාමේ යෝජනා ක්‍රමය යටතේ විශ්‍රාම යාම සඳහා හිමිකම් ලැබෙන බව බලශක්ති අමාත්‍යංශය සඳහන් කරයි.
-
-අදාළ දැනුම් දීම මාස දෙකක් ඇතුළත සිදුකළ යුතු අතර සේවා නියුක්තිකයෙකු විසින් ඊට අදාළ ආකෘති පත්‍රය පුරවා සිය අයදුම් පත්‍රය මඟින් අදාළ දැනුම් දීම සිදුකළ යුතු බව සඳහන්ය.
-
-ස්වේච්ඡාවෙන් විශ්‍රාම යාමේ යෝජනා ක්‍රමය යටතේ වන්දි මුදල් ප්‍රධානය කිරීමේ ක්‍රම පිළිබදව ද බලශක්ති අමාත්‍යංශය විසින් දැනුම් දී තිබේ.
-
-...
-
-[Data](articles/9d639b22.json)
-
----
-
-### செம்மணி மனிதப் புதைகுழிக்கு செல்கிறார் ஜனாதிபதி அனுர
-
-*2025-08-28 09:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனிதப்-புதைகுழிக்கு-செல்கிறார்-ஜனாதிபதி-அனுர/175-363636) · `ta`
-
-யாழ்ப்பாணம் - செம்மணி மனிதப் புதைகுழியை ஜனாதிபதி அநுர குமார திசாநாயக்க பார்வையிடலாம் என கடற்றொழில் மற்றும் நீரியல் வள அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
-
-ஜனாதிபதி அனுர குமார திஸாநாயக்க யாழப்பாணத்திற்கு எதிர்வரும் செப்டம்பர் மாதம் முதலாம் திகதி விஜயமொன்றை மேற்கொள்ளவுள்ள நிலையில் செம்மணி மனிதப் புதைக்குழியை பார்வையிட வாய்ப்புள்ளதாக தெரிவித்தார்.
-
-யாழ்ப்பாணத்தில் புதன்கிழமை (27) இடம்பெற்ற நிகழ்வின் போது ஊடகங்களுக்கு கருத்து தெரிவித்த போதே அமைச்சர் இராமலிங்கம் சந்திரசேகர் இதனை தெரிவித்தார்.
-
-◼️
-
-[Data](articles/03de76e4.json)
-
----
-
-### Trump administration moves to tighten duration of visas for students and media
-
-*2025-08-28 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111932/trump-administration-moves-to-tighten-duration-of-visas-for-students-and-media) · `en`
-
-The Trump administration aims to tighten the duration of visas for students, cultural exchange visitors and members of the media, according to a proposed government regulation issued on Wednesday, part of a broader crackdown on legal immigration.
-
-President Donald Trump, a Republican, kicked off a wide-ranging immigration crackdown after taking office in January. The latest move would create new hurdles for international students, exchange workers and foreign journalists who would have to apply to extend their stay in the U.S. rather than maintain a more flexible legal status.
-
-The proposed regulation would create a fixed time period for F visas for international students, J visas that allow visitors on cultural exchange programs to work in the U.S., and I visas for members of the media.
-
-Those visas are currently available for the duration of the program or U.S.-based employment.
-
-...
-
-[Data](articles/10b5d2a3.json)
-
----
-
-### ​ஐ.சி.யு
-
-*2025-08-28 09:55:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐ-சி-யு/62-363634) · `ta`
-
-◼️
-
-[Data](articles/c8520696.json)
-
----
-
-### அன்னப்பிரசன்னம் விழாவில் கத்திக்குத்து: மூவருக்கு மரண தண்டனை
-
-*2025-08-28 09:49:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்னப்பிரசன்னம்-விழாவில்-கத்திக்குத்து-மூவருக்கு-மரண-தண்டனை/175-363633) · `ta`
-
-அன்னப்பிரசன்னம் விழாவின் போது 30 வயது இளைஞரை கத்தியால் குத்தி கொலை செய்த குற்றத்திற்காக தங்காலை மேல் நீதிமன்ற நீதிபதி உதேஷ் ரணதுங்க  மூன்று பேருக்கு, மரண தண்டனை விதித்தார்.
-
-வலஸ்முல்ல, மெதகன்கொட பகுதியில் இன்றைக்கு 14 ஆண்டுகளுக்கு முன்பு அன்னப்பிரசன்னம் விழாவின் போது ஏற்பட்ட வாக்குவாதத்தின் பின்னர் 30 வயது இளைஞரை கத்தியால் குத்தி கொலை செய்த குற்றத்திற்காக மனதுங்க சிரில், பொத்தல கமகே சாந்த குமார மற்றும் சிங்கப்புலிகே ஜெயதிலக ஆகிய மூவருக்கும் மரண தண்டனை விதிக்கப்பட்டது.
-
-வலஸ்முல்ல, மெதகன்கொட பகுதியில் நடைபெற்ற அன்னப்பிரசன்னம் விழாவுக்கு  சென்ற வலஸ்முல்ல, பன்சலகொட, பிரதீப் ஹவுஸைச் சேர்ந்த சுது ஹகுருகே இந்திக சமன் குமார, 12/01/2011 அன்று 30 வயது இளைஞரை கத்தியால் குத்தி கொலை செய்ததாக குற்றப்பத்திரிகையில் குறிப்பிடப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/6a93db63.json)
-
----
-
-### Election for vacant Anunayake position of Asgiri Chapter to be held today
-
-*2025-08-28 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111931/election-for-vacant-anunayake-position-of-asgiri-chapter-to-be-held-today) · `en`
-
-The election to fill the vacant position of Anunayake of the Asgiri Chapter will be held today (August 28) at 2.00 PM at the historic ‘Pohoyage’ of the Asgiri Maha Viharaya in Kandy.
-
-The election will be conducted under the patronage of the Mahanayaka Thero of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.
-
-A total of 19 members of the ‘Asgiri Karaka Maha Sangha Sabha’ are eligible to vote in this election.
-
-The position became vacant following the passing of Most Venerable Anamaduwe Dhammadassi Thero, who passed away at the age of 67 on June 20.
-
-Accordingly, two senior members of the ‘Asgiri Karaka Maha Sangha Sabha’, Chief Incumbent of Mahiyangana Rajamaha Viharaya Venerable Urulawatte Dhammarakkhitha Thero, and the Deputy Registrar of the Asgiri Chapter, Venerable Narampanawe Ananda Thero, have both put forward their names as candidates for the post.
-
-◼️
-
-[Data](articles/78f4edc3.json)
 
 ---

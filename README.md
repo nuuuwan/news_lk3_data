@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 04:49:55**
+As of **2025-08-29 05:17:44**
 
 ## Newspaper Stats
 
-*Scraped **72,965** Articles*
+*Scraped **72,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,168
+dailyftlk | 5,169
 adalk | 7,020
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,35 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,965 articles have been extended.
+61,973 (84.9%) of 72,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Closing gender gap is economic strategy, boosts country’s  GDP: Prime Minister
+
+*2025-08-29 04:37:00* · [`dailyftlk`](https://www.ft.lk/news/Closing-gender-gap-is-economic-strategy-boosts-country-s-GDP-Prime-Minister/56-780964) · `en`
+
+Unpaid care and domestic work accounted for 36% of Sri Lanka’s GDP in 2017 as per National Time Transfer Account
+
+Out of 52% of Lankan women population, only 10% is represented in the Parliament
+
+Technological-facilitated violence heightens the vulnerability of local marginalised women groups
+
+Women and girls in marginalised groups are more vulnerable to climate change threats
+
+Japan’s experience in unlocking women’s economic potential offers Sri Lanka cues
+
+The United Nations Population Fund (UNFPA) Sri Lanka, on Wednesday launched a series of evidence-based reports at a forum under the banner –  ‘Unlocking the Gender Dividend: Driving Policy Change Through Knowledge’.
+
+The reports which lobby for closing the gender gaps in the country across multiple landscapes, were formally handed over to Prime Minister Dr. Harini Amarasuriya who delivered the keynote address at the event.
+
+...
+
+[Data](articles/c83eb219.json)
+
+---
 
 ### Hemas opens first Piyawara preschool in plantation sector
 
@@ -1773,27 +1797,5 @@ The relevant notice further states that kite flying is extremely hazardous to ai
 ...
 
 [Data](articles/00d708b0.json)
-
----
-
-### Ex-President Ranil still in ICU, no decision on date of discharge
-
-*2025-08-28 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111943/ex-president-ranil-still-in-icu-no-decision-on-date-of-discharge) · `en`
-
-Former President Ranil Wickremesinghe, who was arrested on charges of misappropriation of state funds and later released on bail, is still receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital.
-
-It has been reported that doctors have not yet made a final decision regarding the date of his discharge from the hospital.
-
-A legal team representing former President Ranil Wickremesinghe presented several special facts to court in support of granting him bail.
-
-During the proceedings, all of Wickremesinghe’s medical reports were submitted, which indicated that three out of the four main arteries in his heart are blocked.
-
-It was also reported in court that there is tissue damage in his heart and that he is suffering from a lung infection.
-
-Accordingly, all medical reports regarding his condition have now been submitted to court by his attorney.
-
-...
-
-[Data](articles/dee04971.json)
 
 ---

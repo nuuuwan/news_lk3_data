@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 19:34:49**
+As of **2025-08-28 19:49:46**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-28 (Thursday)
 
-### ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමයෙන් නිවේදනයක්
+### ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමයෙන් ඉල්ලීමක්
 
 *2025-08-28 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213901) · `si`
 

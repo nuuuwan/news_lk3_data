@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 11:52:40**
+As of **2025-08-28 12:09:23**
 
 ## Newspaper Stats
 
-*Scraped **72,829** Articles*
+*Scraped **72,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ newsfirstlk | 363
 dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 745
-economynextcom | 4,440
+economynextcom | 4,442
 islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,003
 adaderanalk | 9,240
-tamilmirrorlk | 10,812
+tamilmirrorlk | 10,813
 virakesarilk | 11,963
-adaderanasinhalalk | 12,612
+adaderanasinhalalk | 12,613
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,829 articles have been extended.
+61,973 (85.1%) of 72,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### ඉතිහාසගත වූ පොලිස් මෙහෙයුම ගැන පොලිස්පතිගෙන් හෙළිදරව්වක්
+
+*2025-08-28 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213882) · `si`
+
+ඉන්දුනීසියාවේ දී සංවිධානාත්මක අපරාධකරුවන් 5 දෙනෙකු එක්වර අත්අඩංගුවට ගැනීම ඉතිහාසයේ මෙවැනි මෙහෙයුමක් සිදුකළ පළමු අවස්ථාව වන බව පොලිස්පති, ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
+
+සංවිධානාත්මක අපරාධකරුවන් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද (28) උදෑසන පැවති මාධ්‍ය හමුවට එක්වෙමින් පොලිස්පතිවරයා සඳහන් කර සිටියේ, අත්අඩංගුවට ගත් පස්දෙනෙකුට දැනට ජාත්‍යන්තර පොලීසිය විසින් රතු නිවේදන නිකුත් කර ඇති අය බවය.
+
+ශ්‍රී ලංකාවේ පොලීසියේ සම්බන්ධීකරණයෙන් හා ජාත්‍යන්තර පොලීසියේ සහායෙන් ඉන්දුනීසියානු පොලීසිය මඟින් අදාළ අපරාධකරුවන් අත්අඩංගුවට ගැනීමේ මෙහෙයුම සිදුකර ඇති බව ද පොලිස්පතිවරයා මෙහිදී පැවසීය.
+
+මේ අතර, සංවිධානාත්මක අපරාධවලට මෙරට දේශපාලනය සම්බන්ධ වූ ඉතිහාසයක් පැවති බව ද කියා සිටි පොලිස්පතිවරයා, වර්තමානයේ එම පරිසරය වෙනස් වී අපරාධකරුවන්ට දේශපාලන රැකවරණය නොමැති පරිසරයක් බිහිවෙමින් පවතින බව ද කියා සිටියේය.
+
+...
+
+[Data](articles/acfbe607.json)
+
+---
 
 ### இராணுவ அணிவகுப்பில் பங்கேற்கும் புட்டின், கிம் ஜாங் உன்
 
@@ -65,6 +83,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/161305a0.json)
+
+---
+
+### செல்ஃபி உயிரிழப்பு:  முதலிடத்தில் இருக்கும் நாடு எது?
+
+*2025-08-28 11:22:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்ஃபி-உயிரிழப்பு-முதலிடத்தில்-இருக்கும்-நாடு-எது/175-363648) · `ta`
+
+உலக அளவில் செல்ஃபி உயிரிழப்புகள் இந்தியாவிலேயே அதிகம் ஏற்பட்டுள்ளதாக அமெரிக்க தனியார் நிறுவனம் ஒன்று ஆய்வு மேற்கொண்ட ஆய்வில் தெரிவிக்கப்பட்டுள்ளது.
+
+உலக அளவில் கடந்த 2014 மார்ச் முதல் 2025 மே மாதம் வரையில் ஏற்பட்ட செல்ஃபி உயிரிழப்பு தரவுகளை அடிப்படையாக கொண்டு ‘தி பார்பர் லா ஃபிர்ம்’ என்ற நிறுவனம் இந்த ஆய்வை நடத்தியுள்ளது.
+
+அதன்படி, இந்த குறிப்பிட்ட காலகட்டத்தில் இந்தியாவில் மட்டும் சுமார் 271 விபத்துகள் செல்ஃபி எடுக்கும்போது ஏற்பட்டுள்ளது. அதில், 214 பேர் உயிரிழந்துள்ளனர். 57 பேர் காயமடைந்துள்ளனர். ஒட்டுமொத்தமாக இந்த காலகட்டத்தில் செல்ஃபி மோகத்தால் ஏற்பட்ட வியாபிரீதங்களில் 42.1% இந்தியாவில் நடந்துள்ளதாக அந்த நிறுவனம் தெரிவித்துள்ளது.
+
+மக்கள் கூட்டம் அதிகம் நிறைந்த பகுதி, ரயில் பாதை அல்லது மலை உச்சி, உயரமான கட்டிடம் என ஆபத்து நிறைந்த இடங்கள், இந்தியாவில் நிலவும் சமூக வலைதள மோகம் உள்ளிட்டவை இதற்கு காரணம் என ஆய்வை மேற்கொண்ட வல்லுநர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/437e47ef.json)
 
 ---
 
@@ -289,6 +325,32 @@ Russia, which Beijing counts as a strategic partner, has been battered by multip
 ...
 
 [Data](articles/6650f041.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields quoted higher
+
+*2025-08-28 10:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-quoted-higher-238522/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.40/50 to the US dollar in the spot market Thursday, flat from 302.42/52 the previous day, while bond yields were quoted higher at opening, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 8.15/25 percent, up from 8.15/24 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.55/65 percent, from 8.58/65 percent.
+
+A bond maturing on 15.12.2028 was quoted at 8.95/9.05 percent.
+
+A bond maturing on 15.10.2029 was quoted at 9.45/48 percent, up from 8.40/43 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.45/50 percent, up from 9.41/44 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.30/35 percent, from 10.28/32 percent.
+
+The Colombo Stocks Exchange was showed mixed sentiment: The ASPI was up 0.17 percent, or 35.09 points, at 20,788; the S&P SL20 was down 0.08 percent, or 4.57 points, at 6,057.
+
+...
+
+[Data](articles/e1528df9.json)
 
 ---
 
@@ -608,7 +670,7 @@ Police said that it is suspected that the shooting was carried out under the dir
 
 කොටුව මහෙස්ත්‍රාත් අචධිකරණය අසල පැවති විරෝධතාවයක දී පොලිස් නිලධාරියෙකුට තුවාල සිදුකිරීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
 
-පසුගිය 26 වන දා රාජකාරියේ යෙදී සිටි පොලිස් නිලධාරියෙකුට බෝතලයකින් පහර දී තුවාල සිදුකිරීම හා පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කිරීමේ සිදුවීමට අදාළව එම සැකකරුව කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් කළුතර දී මෙම සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+පසුගිය 26 වන දා රාජකාරියේ යෙදී සිටි පොලිස් නිලධාරියෙකුට බෝතලයකින් පහර දී තුවාල සිදුකිරීම හා පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කිරීමේ සිදුවීමට අදාළව එම සැකකරු කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් කළුතර දී අත්අඩංගුවට ගෙන ඇත.
 
 පොලීසිය සඳහන් කළේ ඊයේ (27) අදාළ සැකකරුව අත්අඩංගුවට ගෙන කොම්පඤ්ඤවීදිය පොලීසිය වෙත ඉදිරිපත් කළ බවය.
 
@@ -757,6 +819,28 @@ Meanwhile, Deputy Minister of Transport and Highways, Prasanna Gunasena, stated 
 ◼️
 
 [Data](articles/9af38287.json)
+
+---
+
+### Sri Lanka residential land prices rise 14.4-pct in Colombo in 2025 first half
+
+*2025-08-28 07:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-residential-land-prices-rise-14-4-pct-in-colombo-in-2025-first-half-238512/) · `en`
+
+ECONOMYNEXT – Residential land prices in Sri Lanka’s Colombo District have risen 14.4 percent in the first half 2025, from a year ago, followed by commercial land by 11.5 percent, a land valuation indication (LVI) compiled by the central bank.
+
+Industrial land went up 8.4 percent in the first half of 2025, compared to last year’s first half.
+
+The overall land value index went up 11.4 percent in the first half compared to last year.
+
+The semi-annual (first half of 2025 compared to second half of 2024) increase was 8.3 percent indicating that most of the increase came in the first half of 2025.
+
+Sri Lanka’s economy has recovered strongly amid stability provided by deflationary policy of the central bank but land values has some catch up to do after a currency collapse.
+
+In the past, suppressed rates have led to currency collapses and default and land have been one of the assets that gave protection to the people against rate cuts and monetary instability.
+
+...
+
+[Data](articles/c120af14.json)
 
 ---
 
@@ -1691,63 +1775,5 @@ Turnover stood at Rs 7.39 billion with 17 crossings. Of 17 crossings, top crossi
 ...
 
 [Data](articles/00edea88.json)
-
----
-
-### Asian Paints Causeway fuels a triumphant launch of SLADA Racing Championship 2025 at Katukurunda
-
-*2025-08-27 21:46:00* · [`islandlk`](http://island.lk/asian-paints-causeway-fuels-a-triumphant-launch-of-slada-racing-championship-2025-at-katukurunda/) · `en`
-
-The Asian Paints Causeway SLADA Racing Championship 2025 sped off to an electrifying start with the Rotherham Katukurunda Circuit Meet 1, drawing record crowds and setting the tone for Sri Lanka’s premier motorsport season.
-
-As the title sponsor, Asian Paints Causeway played a pivotal role in powering this prestigious series, which represents a strong revival for motorsports after years of challenges. The vibrant opening meet showcased not only racing excellence but also Asian Paints Causeway’s long-standing commitment to supporting Sri Lanka’s motorsport and automotive industries.
-
-Fans witnessed an unforgettable day of high-speed competition, highlighted by the performance of Ashan Silva – Sri Lanka’s most decorated driver and Asian Paints Causeway brand ambassador – who delivered a commanding victory in the SL-GT Cars up to 3500 cc category, earning the title of Best Driver of the Meet.
-
-...
-
-[Data](articles/6e32302b.json)
-
----
-
-### தங்காலை – மாவெல்ல சந்தியில் இரு பேருந்துகள் மோதிய விபத்து : 12 பேர் காயம்
-
-*2025-08-27 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223538) · `ta`
-
-தங்காலை, நகுலுகமப் பகுதியில் உள்ள மாவெல்ல சந்தி அருகே 27ஆம் திகதி புதன்கிழமை இரண்டு இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்துகள் நேருக்கு நேர் மோதியதில் விபத்து ஏற்பட்டது.
-
-◼️
-
-[Data](articles/e3c7cf3f.json)
-
----
-
-### Why aggressor states fail in wars of occupation
-
-*2025-08-27 21:32:00* · [`islandlk`](http://island.lk/why-aggressor-states-fail-in-wars-of-occupation/) · `en`
-
-‘Gaza City will be razed to the ground’ if Hamas does not agree to Israel’s terms to end the Gaza conflict, Israeli Defense Minister Israel Katz was quoted saying recently on hearing Hamas’ terms to bring the war to an end. He was speaking against the backdrop of an apparent diplomatic failure to see an end to the ongoing blood-letting in the Strip.
-
-The Israeli Defense Minister’s comment ought to have brought to the minds of more experienced commentators the US military failure in Vietnam in the decades of the sixties and early seventies. As is known, US efforts to militarily neutralize the Vietcong guerrillas in its did to halt what was seen as the spread of communism in Vietnam and South East Asia ended in abject failure.
-
-...
-
-[Data](articles/5b72e616.json)
-
----
-
-### ‘Every woman and girl must be able to live with dignity and safety’ - PM Harini
-
-*2025-08-27 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111922/every-woman-and-girl-must-be-able-to-live-with-dignity-and-safety-pm-harini) · `en`
-
-The Prime Minister Dr. Harini Amarasuriya participated in the policy and research forum titled “Unlocking the Gender Dividend: Driving Policy Change Through Knowledge,” hosted by the United Nations Population Fund (UNFPA) Sri Lanka today (August 27) at Galle Face Hotel.
-
-During the event four landmark reports were officially presented to the Prime Minister that provide the policymakers, researchers, and civil society, with critical evidence and policy recommendations to address persistent gender inequalities and emerging challenges in Sri Lanka and create a more inclusive and equitable society, the Prime Minister’s Media Division said.
-
-Delivering the keynote address, Prime Minister Dr. Harini Amarasuriya noted that every woman and girl must be able to live with dignity, feel safe, and contribute fully to the life of this country. She added that when this is true, the whole nation moves forward.
-
-...
-
-[Data](articles/7a37db4e.json)
 
 ---

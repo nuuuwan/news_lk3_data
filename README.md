@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 10:08:16**
+As of **2025-08-28 10:21:43**
 
 ## Newspaper Stats
 
-*Scraped **72,799** Articles*
+*Scraped **72,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,002
-adaderanalk | 9,233
-tamilmirrorlk | 10,799
-virakesarilk | 11,959
+adaderanalk | 9,238
+tamilmirrorlk | 10,802
+virakesarilk | 11,960
 adaderanasinhalalk | 12,607
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.1%) of 72,799 articles have been extended.
+61,973 (85.1%) of 72,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-28 (Thursday)
+
+### தொழிற்சங்க நடவடிக்கையில் குதித்த SLTB
+
+*2025-08-28 10:00:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-நடவடிக்கையில்-குதித்த-SLTB/175-363637) · `ta`
+
+இலங்கை போக்குவரத்து சபையின் பல தொழிற்சங்கங்கள் 4 கோரிக்கைகளை முன்வைத்து நேற்று (27) நள்ளிரவு முதல் தொழிற்சங்க நடவடிக்கையை தொடங்கின.
+
+SLTB மற்றும் தனியார் பேருந்துகள் இரண்டிற்கும் ஒருங்கிணைந்த பேருந்து நேர அட்டவணையை அமல்படுத்த தேசிய போக்குவரத்து ஆணையம் எடுத்த முடிவுக்கு எதிர்ப்பு தெரிவித்தும், மேலும் பல கோரிக்கைகளுக்கு எதிர்ப்பு தெரிவித்தும் இந்த வேலைநிறுத்தம் தொடங்கப்பட்டுள்ளது.
+
+அறிமுகப்படுத்தப்பட்ட ஒருங்கிணைந்த நேர அட்டவணையில் பல சிக்கல்கள் இருப்பதாக இலங்கை தனியார் பேருந்து சங்கத்தின் தலைவர் கெமுனு விஜேரத்னவும் தெரிவித்தார்.
+
+இருப்பினும், தேசிய போக்குவரத்து ஆணையத்தின் தலைவர் பொறியாளர் பி.ஏ. சந்திரபால, சம்பந்தப்பட்ட அனைத்து தரப்பினரின் கருத்துக்களையும் பரிசீலித்த பின்னரே ஒருங்கிணைந்த நேர அட்டவணை உருவாக்கப்பட்டதாக கூறினார். R
+
+◼️
+
+[Data](articles/096dbb1f.json)
+
+---
+
+### செம்மணி மனிதப் புதைகுழிக்கு செல்கிறார் ஜனாதிபதி அனுர
+
+*2025-08-28 09:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனிதப்-புதைகுழிக்கு-செல்கிறார்-ஜனாதிபதி-அனுர/175-363636) · `ta`
+
+யாழ்ப்பாணம் - செம்மணி மனிதப் புதைகுழியை ஜனாதிபதி அநுர குமார திசாநாயக்க பார்வையிடலாம் என கடற்றொழில் மற்றும் நீரியல் வள அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
+
+ஜனாதிபதி அனுர குமார திஸாநாயக்க யாழப்பாணத்திற்கு எதிர்வரும் செப்டம்பர் மாதம் முதலாம் திகதி விஜயமொன்றை மேற்கொள்ளவுள்ள நிலையில் செம்மணி மனிதப் புதைக்குழியை பார்வையிட வாய்ப்புள்ளதாக தெரிவித்தார்.
+
+யாழ்ப்பாணத்தில் புதன்கிழமை (27) இடம்பெற்ற நிகழ்வின் போது ஊடகங்களுக்கு கருத்து தெரிவித்த போதே அமைச்சர் இராமலிங்கம் சந்திரசேகர் இதனை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/03de76e4.json)
+
+---
+
+### Trump administration moves to tighten duration of visas for students and media
+
+*2025-08-28 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/111932/trump-administration-moves-to-tighten-duration-of-visas-for-students-and-media) · `en`
+
+The Trump administration aims to tighten the duration of visas for students, cultural exchange visitors and members of the media, according to a proposed government regulation issued on Wednesday, part of a broader crackdown on legal immigration.
+
+President Donald Trump, a Republican, kicked off a wide-ranging immigration crackdown after taking office in January. The latest move would create new hurdles for international students, exchange workers and foreign journalists who would have to apply to extend their stay in the U.S. rather than maintain a more flexible legal status.
+
+The proposed regulation would create a fixed time period for F visas for international students, J visas that allow visitors on cultural exchange programs to work in the U.S., and I visas for members of the media.
+
+Those visas are currently available for the duration of the program or U.S.-based employment.
+
+...
+
+[Data](articles/10b5d2a3.json)
+
+---
+
+### ​ஐ.சி.யு
+
+*2025-08-28 09:55:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐ-சி-யு/62-363634) · `ta`
+
+◼️
+
+[Data](articles/c8520696.json)
+
+---
 
 ### அன்னப்பிரசன்னம் விழாவில் கத்திக்குத்து: மூவருக்கு மரண தண்டனை
 
@@ -48,6 +110,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Election for vacant Anunayake position of Asgiri Chapter to be held today
+
+*2025-08-28 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111931/election-for-vacant-anunayake-position-of-asgiri-chapter-to-be-held-today) · `en`
+
+The election to fill the vacant position of Anunayake of the Asgiri Chapter will be held today (August 28) at 2.00 PM at the historic ‘Pohoyage’ of the Asgiri Maha Viharaya in Kandy.
+
+The election will be conducted under the patronage of the Mahanayaka Thero of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.
+
+A total of 19 members of the ‘Asgiri Karaka Maha Sangha Sabha’ are eligible to vote in this election.
+
+The position became vacant following the passing of Most Venerable Anamaduwe Dhammadassi Thero, who passed away at the age of 67 on June 20.
+
+Accordingly, two senior members of the ‘Asgiri Karaka Maha Sangha Sabha’, Chief Incumbent of Mahiyangana Rajamaha Viharaya Venerable Urulawatte Dhammarakkhitha Thero, and the Deputy Registrar of the Asgiri Chapter, Venerable Narampanawe Ananda Thero, have both put forward their names as candidates for the post.
+
+◼️
+
+[Data](articles/78f4edc3.json)
+
+---
+
+### இலங்கை போக்குவரத்து சபை ஊழியர்கள் பணிப்பகிஷ்கரிப்பு
+
+*2025-08-28 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/223551) · `ta`
+
+இலங்கை போக்குவரத்து சபையின் (SLTB) பல தொழிற்சங்கங்கள் நான்கு கோரிக்கைகளை முன்வைத்து நேற்று (27) நள்ளிரவு முதல் பணிப்பகிஷ்கரிப்பு நடவடிக்கையை ஆரம்பித்துள்ளன.
+
+இலங்கை போக்குவரத்து சபை மற்றும் தனியார் பஸ்கள் இரண்டிற்கும் ஒருங்கிணைந்த பஸ் நேர அட்டவணையை அமுல்படுத்த தேசிய போக்குவரத்து ஆணைக்குழு (NTC) எடுத்த தீர்மானத்துக்கு எதிர்ப்பு தெரிவித்தும், மேலும் பல கோரிக்கைகளுக்கு எதிர்ப்பு தெரிவித்தும் இந்த பணிப்பகிஷ்கரிப்பு ஆரம்பிக்கப்பட்டதாக இலங்கை போக்குவரத்து சபையின் 'சமகி சேவை சங்கமய'வின் தலைவர் நிரோஷன் சம்பத் பிரேமரத்ன தெரிவித்தார்.
+
+அறிமுகப்படுத்தப்பட்ட ஒருங்கிணைந்த நேர அட்டவணையில் பல சிக்கல்கள் இருப்பதாக இலங்கை தனியார் பஸ் சங்கத்தின் தலைவர் கெமுனு விஜேரத்னவும் தெரிவித்தார்.
+
+இருப்பினும், தேசிய போக்குவரத்து ஆணைக்குழு  தலைவர் பொறியாளர் பி.ஏ. சந்திரபால பதிலளித்து, சம்பந்தப்பட்ட அனைத்து தரப்பினரின் கருத்துக்களையும் கருத்தில் கொண்ட பின்னரே ஒருங்கிணைந்த நேர அட்டவணை உருவாக்கப்பட்டது என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/683026ee.json)
+
+---
+
 ### கெஹல்பத்தர பத்மே உள்ளிட்ட 6 பேர் இந்தோனேசியாவில் கைது
 
 *2025-08-28 09:12:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹல்பத்தர-பத்மே-உள்ளிட்ட-6-பேர்-இந்தோனேசியாவில்-கைது/175-363632) · `ta`
@@ -61,6 +161,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f4a8c97d.json)
+
+---
+
+### Suspect arrested for injuring police officer during protest near Colombo Fort Magistrate’s Court
+
+*2025-08-28 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111930/suspect-arrested-for-injuring-police-officer-during-protest-near-colombo-fort-magistrates-court) · `en`
+
+A suspect has been arrested for injuring a police officer during a protest near the Colombo Fort Magistrate’s Court on August 26.
+
+The arrest was made in Kalutara by a team of officers from the Colombo Crime Division (CCD) in connection with the incident, in which a police officer on duty was reportedly injured by a thrown bottle. The suspect is accused of causing injuries and obstructing police duties.
+
+Police stated that the suspect was arrested on August 27 and handed over to the Kompannavidiya Police.
+
+The arrested individual is a 52-year-old former Municipal Council member from Nagoda, Kalutara.
+
+He is scheduled to be produced before the Colombo Fort Magistrate’s Court today (August 28).
+
+The Kompannavidiya Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/9af33eee.json)
+
+---
+
+### More details revealed on shooting incident in Panadura
+
+*2025-08-28 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111929/more-details-revealed-on-shooting-incident-in-panadura) · `en`
+
+Sri Lanka Police have revealed more information regarding the shooting incident in the Alubogahawatte area in Wanduramulla, Panadura, that killed one person last night.
+
+Police said a person was shot dead at his residence by unidentified gunmen last night (27).
+
+According to the police, the shooting is suspected to have been carried out by two unidentified gunmen who arrived on a motorcycle.
+
+The deceased, a 55-year old resident of the Alubogahawatte area, is said to be the father-in-law of a criminal gang member known as ‘Panadura Nilanga’,  police said.
+
+The motive for the murder and the firearm used have not yet been revealed and the Panadura South Police are conducting further investigations into the incident.
+
+Police said that it is suspected that the shooting was carried out under the direction of a criminal gang member named ‘Panadura Salindu’.
+
+◼️
+
+[Data](articles/7f656e39.json)
 
 ---
 
@@ -135,6 +279,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4c17982a.json)
+
+---
+
+### SLTB trade unions launch strike over several demands
+
+*2025-08-28 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/111928/sltb-trade-unions-launch-strike-over-several-demands) · `en`
+
+Several trade unions of the Sri Lanka Transport Board (SLTB) commenced trade union action from midnight yesterday (27) based on four demands.
+
+The Chairman of the SLTB ‘Samagi Sewaka Sangamaya’, Niroshan Sampath Premaratne, stated that the strike was launched in protest against the National Transport Commission’s (NTC) decision to implement a unified bus timetable for both SLTB and private buses, along with several other demands.
+
+The Chairman of the Lanka Private Bus Association, Gemunu Wijeratne, also stated that there are many issues with the introduced unified timetable.
+
+However, NTC Chairman Eng. P.A. Chandrapala responded by saying that the unified timetable was created after considering the views of all parties involved.
+
+Meanwhile, Deputy Minister of Transport and Highways, Prasanna Gunasena, stated that the strike is unfair, as the majority of the demands made by the trade unions have already been granted.
+
+...
+
+[Data](articles/32548a1a.json)
 
 ---
 
@@ -1571,155 +1735,5 @@ Police Media Spokesperson ASP F.U. Wootler revealed this at the press conference
 ◼️
 
 [Data](articles/cb657163.json)
-
----
-
-### பொலன்னறுவை பெரும்போக பாதிப்பு : 3422 விவசாயிகளுக்கு 82 மில்லியன் ரூபாய் நட்டஈடு
-
-*2025-08-27 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/223530) · `ta`
-
-பொலன்னறுவை மாவட்டத்தில் 2024/2025 ஆம் ஆண்டு பெரும்போக விவசாயத்தில் பாதிக்கப்பட்ட 6150 ஏக்கர்  விளைநிலங்களுக்குரிய 3422 விவசாயிகளுக்கு 82 மில்லியன் ரூபாய் நட்டஈடு வழங்கப்பட்டுள்ளது. இரண்டாம் கட்டமாக 365 விவசாயிகளுக்கு நட்டஈடு வழங்கப்படவுள்ளது என கமத்தொழில் மற்றும் கமநலக் காப்புறுதி சபை அறிவித்துள்ளது.
-
-2024 /2025 ஆம் ஆண்டு பெரும்போக விவசாயத்தில் பொலன்னறுவை மாவட்ட விவசாயிகளால் பயிரிடப்பட்ட சோளம்,சோயா மற்றும் நெல் ஆகிய பயிர்கள் வறட்சி, வெள்ளப்பெருக்கு மற்றும் காட்டு யானைகளின் தாக்குதலால் அழிவடைந்தன.
-
-பல்வேறு காரணிகளால் பாதிக்கப்பட்ட பயிர்ச்செய்கையாளர்களுக்கு நட்டஈடு வழங்குமாறு விவசாயத்துறை அமைச்சர் லால் காந்த கமநல காப்புறுதிச் சபைக்கு ஆலோசனை வழங்கியுள்ளார்.
-
-இதற்கமைய பாதிக்கப்பட்டுள்ள பெரும்பாலான விவசாயிகளுக்கு நட்டஈடு வழங்கப்பட்டுள்ள நிலையில், ஏனைய தரப்பினருக்கு  நட்டஈடு வழங்கல் இன்று வியாழக்கிழமை பிற்பகல் 2 மணிக்கு விவசாயத்துறை அமைச்சரின் தலைமையில் பொலன்னறுவை மாவட்ட செயலக காரியாலயத்தில் நடைபெறவுள்ளது.365 விவசாயிகளுக்கு காசோலை ஊடாக 12 மில்லியன் வரையான நிதி நட்டஈடாக வழங்கப்படவுள்ளது.
-
-...
-
-[Data](articles/a9580032.json)
-
----
-
-### දුම්රිය ස්ථානාධිපති තනතුරට පිරිමි අයදුම්කරුවන් පමණක් යන ගැසට් නිවේදනය සංශෝධනය කරනවා
-
-*2025-08-27 18:01:37* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපති-තනතුරට-පිරිමි-අයදුම්කරුවන්-පමණක්-යන-ගැසට්-නිවේදනය-සංශෝධනය-කරනවා/11-418110) · `si`
-
-දුම්රිය ස්ථානාධිපතිවරුන් සඳහා පිරිමි අයදුම්කරුවන්ට පමණක් ඉදිරිපත්වීමට හැකි බවට සඳහන් කරමින් නිකුත් කර ඇති ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා අමාත්‍ය මණ්ඩලයට යොමුකර ඇති බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (27) දැනුම් දුන්නේය.
-
-දුම්රිය ස්ථානාධිපතිවරුන් සඳහා පිරිමි අයදුම්කරුවන්ට පමණක් ඉදිරිපත්වීමට හැකි බවට සඳහන් කරමින් නිකුත් කර ඇති ගැසට් නිවේදනය හේතූවෙන් සිය මුලික අයිතිවාසිකම් උල්ලංඝණය වී ඇතැයි සඳහන් කරමින් කාන්තාවන් දෙදෙනෙකු ගොනු කර ඇති මූලික අයිතිවාසිකම් පෙතසම සලකා බැලූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ නයනතාරා බාලපටබැඳි මහත්මිය ඒ බව දැනුම් දුන්නාය.
-
-අදාළ ගැසට් නිවේදනයේ  ‘අයදුම්කරුවන්ට පමණක් ඉදිරිපත් විය හැකිය’ යන වගන්තිය අඩංගු කිරිමෙන් තම මූලික අයිතිවාසිකම් කඩවී ඇතැයි සඳහන් කරමින් එම වගන්තිය ඉවත් කරන්නැයි ඉල්ලා ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම විිභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය මීට පෙර අවසර දී තිබුණි.
-
-...
-
-[Data](articles/161639f0.json)
-
----
-
-### கம்மன்பிலவுக்கு எதிராக ICCPR இன் கீழ் விசாரணை
-
-*2025-08-27 17:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவுக்கு-எதிராக-ICCPR-இன்-கீழ்-விசாரணை/175-363608) · `ta`
-
-முன்னாள் அமைச்சர் உதய கம்மன்பிலவுக்கு எதிராக சர்வதேச சிவில் மற்றும் அரசியல் உரிமைகள் உடன்படிக்கை (ICCPR) சட்டத்தின் கீழ் விசாரணை தொடங்கப்பட்டுள்ளதாக குற்றப் புலனாய்வுத் திணைக்களம் (CID) இன்று கோட்டை நீதவான் நீதிமன்றத்திற்குத் தெரிவித்தது.
-
-சமூகங்களுக்கிடையில் ஒற்றுமையை சீர்குலைக்கும் வகையில் கம்மன்பில தெரிவித்ததாகக் கூறப்படும் ஒரு கருத்து தொடர்பாக விசாரணை தொடங்கப்பட்டதாக சிஐடி தெரிவித்துள்ளது.
-
-விசாரணை முன்னேறும்போது மேலும் நடவடிக்கை எடுக்கப்படும் என்று எதிர்பார்க்கப்படும் அதே வேளையில், கோட்டை நீதவான் சமர்ப்பிப்பைப் பதிவு செய்தார்.
-
-◼️
-
-[Data](articles/600cdd5e.json)
-
----
-
-### නව අස්ගිරි අනුනායක හිමි තෝරා ගැනීමට සංඝ සභාව අද රැස්වෙයි
-
-*2025-08-27 17:49:10* · [`adalk`](https://www.ada.lk/breaking_news/නව-අස්ගිරි-අනුනායක-හිමි-තෝරා-ගැනීමට-සංඝ-සභාව-අද-රැස්වෙයි/11-418109) · `si`
-
-අස්ගිරි මහා විහාර පාර්ශ්වයට නව අනුනායක හිමිනමක තෝරා ගැනීම සඳහා එම පාර්ශවයේ මහා නායක හිමියන් ප්‍රමුඛ මහා කාරක සංඝ සභාව අද (28) රැස්වීමට නියමිතය.
-
-මේ අනුව අනුනායක පදවිය සඳහා අස්ගිරි මහා විහාර පාර්ශවයේ ජේෂ්ඨ කාරක සංඝ සභික හිමිවරුන් දෙනමක් වන එම පාර්ශවයේ නියෝජ්‍ය ලේඛකාධිකාරී පදවිය හොබවන පූජ්‍ය නාරම්පානාවේ ආනන්ද හිමියන් සහ මහියංගන රජමහා විහාරයේ විහාරාධිපතිත්වය දරන පූජ්‍ය උරුලෑවත්තේ ධම්මරක්ඛිත යන හිමිවරුන් ඉදිරිපත් වන බව කාරක මහා සංඝ සභාවට දැනුම් දී තිබේ.
-
-අස්ගිරි මහා විහාර පාර්ශවයේ අනුනායක පදවිි දෙකක් තිබෙන අතර එක් පදවියක් දැනට දරනු ලබන්නේ පූජ්‍ය වේඩරුවේ උපාලි නාහිමියන් වන අතර අනෙක් අනුනායක පදවිය හෙබවූ පූජ්‍ය ආණමඩුවේ ධම්මදස්සි නාහිමියන් අපවත් වීම හේතුවෙන් එක් පදවියක් හිස් විය.
-
-◼️
-
-[Data](articles/f58a5bed.json)
-
----
-
-### Sri Lanka inks deal with China for technical support on fruit value addition
-
-*2025-08-27 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-deal-with-china-for-technical-support-on-fruit-value-addition-238490/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Agriculture Ministry has signed a Memorandum of Understanding (MoU) with Chinese Academy of Tropical Agricultural Sciences with the objective of value addition of banana, mango, and pineapple in the island nation, the government said.
-
-The project aimed at introducing novel technologies and practices that could increase the harvest in fruit cultivation fields, enhance the capability of obtaining planting materials, strengthen post harvest practices, and promote value addition of these fruits.
-
-“It has been observed that the appropriateness of establishing a proper mechanism to maintain the cooperation with the Chinese Academy of Tropical Agricultural Sciences continuously beyond the existing project duration in order to achieve the benefits of the.. project completely and sustainably,” the government said.
-
-...
-
-[Data](articles/be4ea9ed.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields edge up
-
-*2025-08-27 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-238486/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.42/52 to the US dollar in the spot market Wednesday, weaker from 302.25/33 the previous day, while bond yields closed slightly up, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.15/24 percent, up from 8.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 8.58/65 percent, up from 8.55/64 percent.
-
-A bond maturing on 15.12.2029 closed at 9.41/44 percent, down from 9.43/46 percent.
-
-A bond maturing on 15.12.2032 closed at 10.28/32 percent, from 10.26/33 percent. (Colombo/Aug27/2025)
-
-◼️
-
-[Data](articles/6fb2b896.json)
-
----
-
-### ගම්මන්පිල සිදුකළ ප්‍රකාශයක් ගැන CIDයෙන් විමර්ශන
-
-*2025-08-27 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213860) · `si`
-
-2025 අගෝස්තු මස 05 වනදා පැවැත්වුණු ප්‍රවෘත්ති සාකච්ඡාවකදී ජාතින් අතර අසමගිය ඇතිවන ආකාරයේ ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතාට එරෙහිව විමර්ශනයක් ආරම්භ කර ඇති බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අද (27) කොටුව මහේස්ත්‍රාත් අධිකරණයට දැනුම්දී තිබේ.
-
-2025 අගෝස්තු 08 වන දින ලද පැමිණිල්ලකට අනුව මෙම විමර්ශනය සිදුකරන බව එම දෙපාර්තමේන්තුව අධිකරණයට කරුණු දක්වමින් සඳහන් කරයි.
-
-ඒ අනුව සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ ජාත්‍යන්තර සම්මුති පනතේ සහ දණ්ඩ නීති සංග්‍රහය යටතේ මෙම විමර්ශනය සිදුකරන බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනෙවියට දැනුම්දුනි.
-
-◼️
-
-[Data](articles/eb7f8ddd.json)
-
----
-
-### නොරොච්චෝලේ ආරක්ෂාවට ආධාරක විදුලිබල සැපයුමක්
-
-*2025-08-27 17:27:23* · [`adalk`](https://www.ada.lk/breaking_news/නොරොච්චෝලේ-ආරක්ෂාවට-ආධාරක-විදුලිබල-සැපයුමක්/11-418107) · `si`
-
-මෙරට විදුලිබල පද්ධතියේ ස්ථායිතාවය පවත්වාගෙන යාමේදී ඉතා වැදගත් කාර්යයක් ඉටුකරන නොරොච්චෝලේ ලක්විජය ගල් අඟුරු විදුලි බලාගාරයේ ප්‍රධාන දුර්වල කමක් වුයේ රට පුරා විදුලිය බිඳ වැටීමකදී බලාගාරයේ සිසිලන පද්ධතියට සහ බොයිලර් පෝෂක ජල සැපයුම් පද්ධතියට ආධාරක විදුලි සැපයුම අකර්මන්‍යය වීමයි. එවැනි තත්වයකදී සිසිලනය සඳහා දින හතරක හෝ පහක කාලයක් මෙහෙයුම් කටයුතු අත්හිටුවීමට සිදු වීමයි. එ නිසා සැළකිය යුතු මූල්‍ය අලාභයක් ද සිදු වේ.
-
-මේ තත්ත්වය වලක්වා ගැනීම සඳහා බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතාගේ උපදෙස් අනුව තාක්ෂණික වශයෙන් යෝග්‍ය විසඳුමක් සොයා බැලීම පිණිස කමිටුවක් පත්කරන ලද අතර එකී කමිටුව විසින් අත්‍යවශ්‍යය පද්ධති සඳහා කෙටි කාලයක් තුළ ක්‍රියාත්මක කළ හැකි සහ නොකඩවා ක්‍රියාත්මක වන ආධාරක උප විදුලිබල සැපයුමක් හඳුන්වාදීම සුදුසු බව යෝජනා කෙරුණි.
-
-...
-
-[Data](articles/c7296d53.json)
-
----
-
-### උක් ගොවීන්ට ගෙවීමට ඇති සියලු මුදල් නිසි පරිදි ගෙවා අවසන් කරන්න - ජනපති
-
-*2025-08-27 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213859) · `si`
-
-කතාබහට ලක්ව ඇති සෙවණගල සහ පැල්වත්ත සීනි කර්මාන්තශාලා ආශ්‍රිතව මතුව ඇති ගැටලු පිළිබඳව අවධානය යොමු කරමින්,  උක් ගොවීන්ට ගෙවීමට ඇති සියලු මුදල් නිසි පරිදි ගෙවා අවසන් කිරීම කඩිනම් කරන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් අදාළ නිලධාරීන්ට උපදෙස් දී ඇත.
-
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශයට 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාව ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (27) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
-
-එහිදී අදහස් දක්වමින් ජනාධිපතවරයා විසින් අදාළ නිලධාරීන්ට මෙලෙස උපදෙස් ලබාදුන් බව ජනාධිපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනය සඳහන්වේ.
-
-එමෙන්ම, කර්මාන්ත අමාත්‍යාංශය සහ ඒ යටතේ ඇති ආයතන විසින් දැනට සපයනු ලබන සේවාවන් නිශ්චිත ලෙස හඳුනාගෙන ඒ සඳහා පිහිටුවා ඇති සියලු ආයතන ක්‍රියාකාරිත්වය මත ඒකාබද්ධ කිරීමේ සැලසුම් කඩිනමින් ක්‍රියාත්මක කරන ලෙසත්, තවදුරටත් මහජනතාවට ලබා දිය යුතු සේවාවන් පිළිබඳ සොයා බලා සැලසුම් ඉදිරිපත් කරන ලෙසත් ජනාධිපතිවරයා නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
-
-...
-
-[Data](articles/52ee839a.json)
 
 ---

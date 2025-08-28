@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 02:49:16**
+As of **2025-08-29 03:07:18**
 
 ## Newspaper Stats
 
-*Scraped **72,946** Articles*
+*Scraped **72,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 746
 economynextcom | 4,450
 islandlk | 4,477
 dailymirrorlk | 4,733
-dailyftlk | 5,154
+dailyftlk | 5,155
 adalk | 7,019
 adaderanalk | 9,264
 tamilmirrorlk | 10,832
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,946 articles have been extended.
+61,973 (85.0%) of 72,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### WCIC launches Prathibhabhisheka Women Entrepreneur Awards 2025
+
+*2025-08-29 02:46:14* · [`dailyftlk`](https://www.ft.lk/business/WCIC-launches-Prathibhabhisheka-Women-Entrepreneur-Awards-2025/34-780928) · `en`
+
+The Women’s Chamber of Industry and Commerce (WCIC) has launched its annual flagship event, the “WCIC Prathibhabhisheka Women Entrepreneur Awards 2025.”
+
+This prestigious awards ceremony, set to take place in January 2026, aims to recognise and celebrate the remarkable achievements of outstanding women entrepreneurs in Sri Lanka and across the SAARC region.
+
+WCIC Chairperson Gayani De Alwis outlined the chamber’s commitment to empowering women over its 40 year history, with the awards ceremony now marking its 15th anniversary. She highlighted that the event was re-launched in 2022 as ‘Prathibhabhisheka’ a Sanskrit term for ‘crowning women’ to reflect a new vision. The 2025 edition will be the fourth consecutive year under this concept, which celebrates entrepreneurs who demonstrate not just success, but also strong financial governance and a dedication to ethical and sustainable business practices.
+
+...
+
+[Data](articles/a00e608a.json)
+
+---
 
 ### Presidential immunity on trial:  Boundaries of accountability from Washington to Colombo
 
@@ -1809,23 +1825,5 @@ Speaking at a special media briefing today (28), the Minister affirmed this resp
 ◼️
 
 [Data](articles/a98ddf9c.json)
-
----
-
-### கர்ப்பிணி மானை   கசாப்பு செய்யவிருந்த ஐவர் கைது
-
-*2025-08-28 12:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணி-மானை-கசாப்பு-செய்யவிருந்த-ஐவர்-கைது/175-363656) · `ta`
-
-கர்ப்பிணி மானொன்றை கொன்று கசாப்பு செய்யவிருந்த ஐந்து நபர்கள் துப்பாக்கி மற்றும் கூர்மையான ஆயுதங்களுடன் கைது செய்யப்பட்டனர். இந்த சம்பவம்,  வில்பட்டு தேசிய பூங்காவில் இடம்பெற்றுள்ளது.
-
-ரனோரவ மீகஸ்தெனியா பகுதியில் குக்குல்கடுவ வனவிலங்கு பீட்டு அலுவலக அதிகாரிகள் நடத்திய விரைவான சோதனையின் போது சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
-
-ரோந்து பணியில் ஈடுபட்டிருந்த வனவிலங்கு அதிகாரிகள், கர்ப்பிணி மானை கொன்று கசாப்பு செய்ய ஒரு குழு தயாராகி வருவதைக் கண்டனர், அதன்படி, உடனடியாகச் செயல்பட்ட அதிகாரிகள் அந்தப் பகுதியைச் சுற்றி வளைத்து சந்தேக நபர்களைக் கைது செய்ய நடவடிக்கை எடுத்தனர்.
-
-வனவிலங்கு அதிகாரிகள் நடத்திய சோதனையின் போது, ​​சம்பவம் தொடர்பாக ஐந்து சந்தேக நபர்கள் கைது செய்யப்பட்டனர். அங்கிருந்த சந்தேக நபர்களில் ஒருவர் வனவிலங்கு அதிகாரிகளின் கடமைகளுக்கு இடையூறு விளைவித்து தப்பிச் சென்றுள்ளார்.
-
-◼️
-
-[Data](articles/35749006.json)
 
 ---

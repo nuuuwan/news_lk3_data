@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-28 17:54:32**
+As of **2025-08-28 18:10:12**
 
 ## Newspaper Stats
 
-*Scraped **72,899** Articles*
+*Scraped **72,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,477
 dailymirrorlk | 4,733
 dailyftlk | 5,148
 adalk | 7,012
-adaderanalk | 9,251
+adaderanalk | 9,255
 tamilmirrorlk | 10,830
 virakesarilk | 11,968
 adaderanasinhalalk | 12,629
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (85.0%) of 72,899 articles have been extended.
+61,973 (85.0%) of 72,903 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -158,6 +158,24 @@ A bond maturing on 15.12.2032 closed flat at 10.28/32 percent. (Colombo/Aug28/20
 
 ---
 
+### Floods affect 1.2 million, displace nearly 250,000 in eastern Pakistan
+
+*2025-08-28 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111954/floods-affect-12-million-displace-nearly-250000-in-eastern-pakistan) · `en`
+
+Rescuers in boats raced to reach stranded families in Pakistan’s populous eastern Punjab province on Thursday (Aug 28), after three major rivers burst their banks because of heavy rain and the release of water from overflowing dams in neighbouring India.
+
+The floods displaced nearly 250,000 people and officials said more than 1 million people were affected, with crops and businesses destroyed and many unable to leave their homes.
+
+At least 15 people were killed a day earlier in Gujranwala district and nearby villages, according to police. Forecasters said more rain was expected Friday, after a two-day pause, and could continue into next week.
+
+Provincial minister Marriyum Aurangzeb said floods hit 1,432 villages located along the Ravi, Sutlej and Chenab rivers, affecting about 1.2 million people and displacing 248,000 others.
+
+...
+
+[Data](articles/0540a5f9.json)
+
+---
+
 ### ”ரணிலின் அரசியல் வாழ்க்கை முடிவுக்கு வந்துவிட்டது”
 
 *2025-08-28 16:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-அரசியல்-வாழ்க்கை-முடிவுக்கு-வந்துவிட்டது/175-363676) · `ta`
@@ -207,6 +225,18 @@ A bond maturing on 15.12.2032 closed flat at 10.28/32 percent. (Colombo/Aug28/20
 ◼️
 
 [Data](articles/586efdf2.json)
+
+---
+
+### Man arrested for assaulting police officer during protest near Fort Magistrate’s Court remanded
+
+*2025-08-28 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111952/man-arrested-for-assaulting-police-officer-during-protest-near-fort-magistrates-court-remanded) · `en`
+
+The individual, who was arrested for allegedly injuring a police officer during a protest held near the Colombo Fort Magistrate’s Court on Tuesday (26), has been remanded, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/717b24b7.json)
 
 ---
 
@@ -264,6 +294,24 @@ The ASPI climbed 47.05 points on Thursday to close at 20,800.26; while the S&P S
 
 ---
 
+### Teacher recruitment exam once SC concludes hearing of four cases: PM
+
+*2025-08-28 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111951/teacher-recruitment-exam-once-sc-concludes-hearing-of-four-cases-pm) · `en`
+
+The legal proceedings of four cases under review by the Supreme Court, which have been the primary reason for the delay in recruiting unemployed graduates as teachers are now reaching their final stage, according to the Minister of Education, Higher Education, and Vocational Training, and Prime Minister, Dr. Harini Amarasuriya.
+
+Accordingly, the Prime Minister stated that once the court proceedings conclude, steps will be taken to issue the relevant Gazette notification, thereby paving the way for graduates to apply for the teacher recruitment examination without further delay.
+
+She made these remarks during a discussion held at the Ministry of Education with representatives of the Joint Unemployed Graduates Association.
+
+Dr. Amarasuriya further noted that the necessary steps are already being taken to proceed with other graduate recruitment processes, in line with the Cabinet approvals already granted.
+
+...
+
+[Data](articles/e5a0b996.json)
+
+---
+
 ### குளியாப்பிட்டி பாடசாலை வேன் விபத்து ; பாதிக்கப்பட்ட சிறுவர்களை வைத்தியசாலையில் பார்வையிட்டார் பிரதி அமைச்சர்
 
 *2025-08-28 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/223595) · `ta`
@@ -279,6 +327,26 @@ The ASPI climbed 47.05 points on Thursday to close at 20,800.26; while the S&P S
 ◼️
 
 [Data](articles/8fc39c4e.json)
+
+---
+
+### Ven. Narampanawa Ananda Thero elected as Anunayake of the Asgiri Chapter
+
+*2025-08-28 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111950/ven-narampanawa-ananda-thero-elected-as-anunayake-of-the-asgiri-chapter-) · `en`
+
+Venerable Narampanawa Ananda Thero has been elected as the Anunayake of the Asgiri Chapter.
+
+The election to fill the vacant position of Anunayake of the Asgiri Chapter was held today (August 28) at the historic ‘Pohoyage’ of the Asgiri Maha Viharaya in Kandy.
+
+The election was conducted under the patronage of the Chief Prelate of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.
+
+A total of 19 members of the ‘Asgiri Karaka Maha Sangha Sabha’ were eligible to vote in this election.
+
+The position became vacant following the passing of Most Venerable Anamaduwe Dhammadassi Thero, who passed away at the age of 67 on June 20.
+
+◼️
+
+[Data](articles/eb880559.json)
 
 ---
 
@@ -1761,89 +1829,5 @@ Accordingly, two senior members of the ‘Asgiri Karaka Maha Sangha Sabha’, Ch
 ◼️
 
 [Data](articles/f4a8c97d.json)
-
----
-
-### Suspect arrested for injuring police officer during protest near Colombo Fort Magistrate’s Court
-
-*2025-08-28 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111930/suspect-arrested-for-injuring-police-officer-during-protest-near-colombo-fort-magistrates-court) · `en`
-
-A suspect has been arrested for injuring a police officer during a protest near the Colombo Fort Magistrate’s Court on August 26.
-
-The arrest was made in Kalutara by a team of officers from the Colombo Crime Division (CCD) in connection with the incident, in which a police officer on duty was reportedly injured by a thrown bottle. The suspect is accused of causing injuries and obstructing police duties.
-
-Police stated that the suspect was arrested on August 27 and handed over to the Kompannavidiya Police.
-
-The arrested individual is a 52-year-old former Municipal Council member from Nagoda, Kalutara.
-
-He is scheduled to be produced before the Colombo Fort Magistrate’s Court today (August 28).
-
-The Kompannavidiya Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/9af33eee.json)
-
----
-
-### More details revealed on shooting incident in Panadura
-
-*2025-08-28 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111929/more-details-revealed-on-shooting-incident-in-panadura) · `en`
-
-Sri Lanka Police have revealed more information regarding the shooting incident in the Alubogahawatte area in Wanduramulla, Panadura, that killed one person last night.
-
-Police said a person was shot dead at his residence by unidentified gunmen last night (27).
-
-According to the police, the shooting is suspected to have been carried out by two unidentified gunmen who arrived on a motorcycle.
-
-The deceased, a 55-year old resident of the Alubogahawatte area, is said to be the father-in-law of a criminal gang member known as ‘Panadura Nilanga’,  police said.
-
-The motive for the murder and the firearm used have not yet been revealed and the Panadura South Police are conducting further investigations into the incident.
-
-Police said that it is suspected that the shooting was carried out under the direction of a criminal gang member named ‘Panadura Salindu’.
-
-◼️
-
-[Data](articles/7f656e39.json)
-
----
-
-### දුම්රිය ස්ථානාධිපතිවරු බඳවා ගැනීමේ ගැසට් නිවේදනය සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයට දැනුම්දීමක්
-
-*2025-08-28 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213876) · `si`
-
-ශ්‍රී ලංකා දුම්රිය සේවය සඳහා ස්ථානාධිපතිවරු බඳවා ගැනීමේ දී ඒ සඳහා පිරිමි පුද්ගලයින්ට පමණක් අයැදුම් කළ හැකි බව දන්වමින් නිකුත් කර තිබෙන ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා අමාත්‍ය මණ්ඩල වෙත යොමුකර තිබෙන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
-
-අදාළ තීරණය අභියෝගයට ලක් කරමින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී ජ්‍යෙෂ්ඨ රජයේ නීතිඥවරිය විසින් මෙම දැනුම් දීම සිදුකර ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසුවේය.
-
-නීතිපතිවරයා වෙනුවෙන් පෙනීසිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ නයනතාරා බාලපටබැඳි මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් අදාළා ගැසට් නිවේදය සංශෝධනය කිරීම සඳහා එය අමාත්‍ය මණ්ඩලය වෙත යොමු කර ඇති බව සඳහන් කර තිබේ.
-
-එහි ප්‍රගතිය දැනුම්දීම සඳහා මෙම පෙත්සම වෙනත් දිනයක කැඳවන ලෙසත් රජයේ නීතිඥවරිය ඉල්ලා සිටියි.
-
-ඒ අනුව අදාළ පෙත්සම යළි ඔක්තෝබර් මස 30 වනදා කැඳවන ලෙස විනිසුරු මඩුල්ල නියෝග කර තිබේ.
-
-...
-
-[Data](articles/7fd43943.json)
-
----
-
-### උසාවිය ළඟ දී පොලිස් නිලධාරියෙකුට තුවාල කළ සැකකරු අත්අඩංගුවට
-
-*2025-08-28 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213875) · `si`
-
-කොටුව මහෙස්ත්‍රාත් අචධිකරණය අසල පැවති විරෝධතාවයක දී පොලිස් නිලධාරියෙකුට තුවාල සිදුකිරීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-පසුගිය 26 වන දා රාජකාරියේ යෙදී සිටි පොලිස් නිලධාරියෙකුට බෝතලයකින් පහර දී තුවාල සිදුකිරීම හා පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කිරීමේ සිදුවීමට අදාළව එම සැකකරු කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් කළුතර දී අත්අඩංගුවට ගෙන ඇත.
-
-පොලීසිය සඳහන් කළේ ඊයේ (27) අදාළ සැකකරුව අත්අඩංගුවට ගෙන කොම්පඤ්ඤවීදිය පොලීසිය වෙත ඉදිරිපත් කළ බවය.
-
-එලෙස අත්අඩංගුවට පත්ව ඇත්තේ, 52 හැවිරිදි නාගොඩ, කළුතර ප්‍රදේශයේ පදිංචි හිටපු නගර සභාවේ නාගරික මන්ත්‍රීවරයෙකි.
-
-සැකකරු අද (28) කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/ec26fa94.json)
 
 ---

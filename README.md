@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 05:32:12**
+As of **2025-08-29 06:09:21**
 
 ## Newspaper Stats
 
-*Scraped **72,966** Articles*
+*Scraped **72,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 616
 bbccomsinhala | 677
 colombotelegraphcom | 746
 economynextcom | 4,450
-islandlk | 4,477
+islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,020
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,966 articles have been extended.
+61,973 (84.9%) of 72,977 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -731,6 +731,80 @@ Therefore, the union said the VRS scheme should be prescribed in order for the e
 ◼️
 
 [Data](articles/0dd53299.json)
+
+---
+
+### China plans next 5 years: Does public opinion matter?
+
+*2025-08-28 19:33:00* · [`islandlk`](http://island.lk/china-plans-next-5-years-does-public-opinion-matter/) · `en`
+
+The Peoples Republic of China (PRC) established on October 1st 1949 planned their path towards their 1st & 2nd centenary goals in five year steps. The 1st centenary goal was to alleviate poverty in China by 2021 when the Communist Party of China (CPC – established in July 1921) celebrated its centenary. China reached that goal in 2020 & marked it with the Chinese flag flying on the moon. The 2nd centenary goal was to create a moderately prosperous socialist state (a Xiaokang) by year 2049 when the PRC marks its centenary. Hence, the Five Year Plan (FYP) is an important policy documents for China. The 1st was drawn in 1953 & the FYP continue to set short term goals for China’s socioeconomic development.
+
+...
+
+[Data](articles/8bb9e5ab.json)
+
+---
+
+### Sri Lanka’s international recognition flies high as the Colombo International Kite Festival ends up on a successful note
+
+*2025-08-28 19:27:00* · [`islandlk`](http://island.lk/sri-lankas-international-recognition-flies-high-as-the-colombo-international-kite-festival-ends-up-on-a-successful-note/) · `en`
+
+The much awaited Colombo International Kite Festival, organized by Sri Lanka Tourism, in collaboration with Derana Media Network, concluded successfully with a ground breaking number of visitors, participants and the public coming to the Galle Face Green, to witness one of the most colorful and glamourous events of the year. Sri Lanka received the opportunity of hosting the much renowned festival this year, also hosting this spectacular event for the first time. This has been a great promotional opportunity for Sri Lanka as it receives a large number of tourists to the country on a daily basis, and attract more tourist arrivals.
+
+...
+
+[Data](articles/a4db7d4b.json)
+
+---
+
+### People’s Bank records historic milestone with all-time high Pre-Tax Profit of LKR 28.0 billion in 1H-2025
+
+*2025-08-28 19:27:00* · [`islandlk`](http://island.lk/peoples-bank-records-historic-milestone-with-all-time-high-pre-tax-profit-of-lkr-28-0-billion-in-1h-2025/) · `en`
+
+People’s Bank, Sri Lanka’s leading financial services provider, today announced its results for the period ended June 30, 2025, reporting operating income of LKR 80.8 billion and post-tax profit of LKR 18.2 billion. This achievement is particularly noteworthy, as this profit was recorded after recognizing significant impairment charges on exposures to several state-owned enterprises (SOEs).
+
+The Bank’s net interest income rose to LKR 69.3 billion during the period, compared to LKR 27.6 billion in the corresponding period of 2024, reflecting the timely repricing of assets and liabilities in line with changing market interest rates. Consequently, net interest margins improved to 4.0% in 2025 from 3.4% in the end 2024. Net fees and commissions reached LKR 8.0 billion, recording a 16.8% growth, the highest ever for the same period. Total operating expenses stood at LKR 33.4 billion (2024: LKR 28.7 billion)
+
+...
+
+[Data](articles/dad03b04.json)
+
+---
+
+### Bank of Ceylon launches Entrepreneur Development Program 2025
+
+*2025-08-28 19:27:00* · [`islandlk`](http://island.lk/bank-of-ceylon-launches-entrepreneur-development-program-2025/) · `en`
+
+The Bank of Ceylon successfully inaugurated the Entrepreneur Development Program (EDP) 2025 on 17th August 2025 at its Head Office, reinforcing its “Beyond Banking” vision to empower entrepreneurs and foster sustainable economic growth in Sri Lanka. This pioneering initiative provides aspiring entrepreneurs with valuable insights into entrepreneurship, financial management, business strategy, and digital innovation, while also featuring industry experts as key resource persons. With around 100 entrepreneurs from across the country including both BOC customers and non-customers, and with approximately 36% representing women-led businesses the program will run across five consecutive Sundays, helping participants enhance their knowledge, sharpen their entrepreneurial skills, and build stronger business networks.
+
+...
+
+[Data](articles/ddc84200.json)
+
+---
+
+### Celebrating Excellence: CIPM Sri Lanka collaborates with Mercer to unveil The Great HR Awards 2025
+
+*2025-08-28 19:18:00* · [`islandlk`](http://island.lk/celebrating-excellence-cipm-sri-lanka-collaborates-with-mercer-to-unveil-the-great-hr-awards-2025/) · `en`
+
+The Chartered Institute of Personnel Management (CIPM) Sri Lanka, in collaboration with Mercer, has announced The Great HR Awards 2025, an inaugural initiative that marks a new chapter in recognising HR excellence in Sri Lanka. Designed to be the most prestigious recognition in the country’s HR landscape, the awards will celebrate organisations that set benchmarks in HR practices, workplace culture, technology integration, and industrial relations. With Mercer’s global expertise and CIPM’s national leadership, the programme combines international standards with local relevance, ensuring recognition that is both meaningful and impactful.
+
+...
+
+[Data](articles/b17cd458.json)
+
+---
+
+### Shaping young minds across Sri Lanka through SLIIT School Outreach Programs
+
+*2025-08-28 19:17:00* · [`islandlk`](http://island.lk/shaping-young-minds-across-sri-lanka-through-sliit-school-outreach-programs/) · `en`
+
+At a time when education is the cornerstone of national development, SLIIT has been redefining what it means to be an academic institution. Far beyond lecture halls and laboratories, SLIIT has stepped into classrooms across the island, bringing knowledge, skills, and inspiration directly to thousands of school students. Its School Outreach Programs, conducted in collaboration with the faculties of Computing, Engineering, Business, Humanities & Sciences, and Architecture, are empowering the next generation to imagine, innovate, and create.
+
+...
+
+[Data](articles/f625c363.json)
 
 ---
 
@@ -1697,105 +1771,5 @@ The relevant notice further states that kite flying is extremely hazardous to ai
 ◼️
 
 [Data](articles/40b88e2c.json)
-
----
-
-### ஜனாதிபதியின் பயண விவரங்கள்:  நிராகரித்தது செயலகம்
-
-*2025-08-28 14:44:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பயண-விவரங்கள்-நிராகரித்தது-செயலகம்/175-363662) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் உள்நாட்டு பயணம் குறித்த தகவல்களை வெளியிட ஜனாதிபதி செயலகம் மறுத்துவிட்டது. தகவல் அறியும் உரிமை (RTI) கோரிக்கைக்கு அனுப்பிவைக்கப்பட்டிருக்கும் பதிலிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
-
-ஜினாத் பிரேமரத்னவால் ஆகஸ்ட் 4 ஆம் திகதி கேட்கப்பட்ட கேள்விகள்,    தகவல் அறியும் உரிமைச் சட்டத்தின் பிரிவு 5(1)(b)(i) இன் கீழ் ஆகஸ்ட் 27 ஆம் திகதி முறையாக நிராகரிக்கப்பட்டது.
-
-அதன் பதிலில், சட்டத்தின் பிரிவு 31(1) இன் கீழ் 14 நாட்களுக்குள் மேல்முறையீடு செய்யலாம் என்று செயலகம் விண்ணப்பதாரருக்குத் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/1f7a01df.json)
-
----
-
-### නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සැප්තැම්බරයේදී අවසන්
-
-*2025-08-28 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213892) · `si`
-
-නව ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතිය යටතේ පත් කළ විද්වත් කමිටුවේ කටයුතු සැප්තැම්බර් මාසය තුළ අවසන් කරන බව එම කමිටුවේ සභාපති, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතා පවසයි.
-
-ත්‍රස්ත විරෝධි පනත කෙටුම්පත් කිරීම සම්බන්ධයෙන් පත්කළ කමිටුව ඊයේ (27) පස්වරුවේ අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේදී රැස්වු අතර, ජනාධිපති නීතීඥ, රියෙන්සි අර්සකුලරත්න මහතා මෙම අදහස් පළ කළේය.
-
-මේ වන විට පනත් කෙටුම්පතට ගෙන එනු ලබන සංශෝධන සම්බන්ධයෙන් විමර්ශනාත්මකව දෙවැනි වරටත් පරීක්ෂා කිරීම සිදු කරමින් පවතින බවද සභාපතිවරයා මෙහිදී සඳහන් කළේය.
-
-මෙරට බලපැවැත්වෙන 1979 අංක 48 දරණ ත්‍රස්තවාදය වැළැක්වීමේ ( තාවකාලික විධිවිධාන) පනත පරිච්ඡින්න කර නව නීතියක් කෙටුම්පත් කිරීමට ලද කැබ්නට් අනුමැතිය මත අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යවරයා විසින් විද්වත් කමිටුවක් පත් කළේය.‍
-
-නව පනතක් හඳුන්වාදීම තුළින් නූතන ගෝලීය ත්‍රස්තවාදී අභියෝගයන්ට මුහුණදීම, දේශිය සහ විදේශිය වශයෙන් පුද්ගලයන්ගේ මානව හිමිකම් සහ අන්තර්ජාතිකව පිළිගන්නාවු ප්‍රමිතීන්ට අනුගතවීම අදහස් කරනු ලබයි.
-
-◼️
-
-[Data](articles/ec7853dd.json)
-
----
-
-### கொக்குத்தொடுவாய் மனித புதைகுழி   வழக்கு ஒத்திவைப்பு
-
-*2025-08-28 14:26:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-மனித-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-363660) · `ta`
-
-கொக்குத்தொடுவாய் மனிதப் புதைகுழி தொடர்பான வழக்கு முல்லைத்தீவு நீதவான் நீதிமன்றத்தில் வியாழக்கிழமை (28)  முல்லைத்தீவு நீதவான் நீதிமன்றத்தில் நீதிபதி தர்மலிங்கம் பிரதீபன் முன்னிலையில்  விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட நிலையில் வழக்கு மீண்டும் நவம்பர் மாதம் ஆறாம் திகதிக்கு தவணை இடப்பட்டுள்ளது
-
-இதன்போது  குறித்த புதைகுழியில் மீட்கப்பட்ட சான்று பொருட்கள் தொடர்பில் உறவினர்கள் அடையாளம் காட்டுவதற்கான விளம்பரங்கள், காணாமல் போனோர் அலுவலகத்தால் ஊடகங்களில் பிரசுரிக்கப்பட்டு இருப்பதாகவும் இது தொடர்பான அறிக்கைகள் நீதிமன்றுக்கு சமர்ப்பிப்பதற்கு கால அவகாசம் தேவை என கோரப்பட்டதற்கு  அமைவாக குறித்த வழக்கு நவம்பர் மாதம் 6 ஆம் திகதிக்கு தவணை இடப்பட்டுள்ளது
-
-முல்லைத்தீவு கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வுப் பணி நிறைவில்  52 மனித எச்சங்கள் மீட்கப்பட்டிருந்தது. அகழ்வுப் பணியும் நிறைவு செய்யப்பட்டிருந்தது
-
-இதனைத் தொடர்ந்து அகழ்வு பணியில் ஈடுபட்டிருந்த பேராசிரியர் ராஜ் சோமதேவவினால்  நீதிமன்றத்திற்கு முழுமையான அறிக்கை சமர்ப்பிக்கப்பட்டிருந்தது
-
-...
-
-[Data](articles/5545e336.json)
-
----
-
-### කොළඹ වරායේ සමූහ මීනී වලෙන් පුද්ගලයන් 88 දෙනෙකුගේ අස්ථි හමුවේ
-
-*2025-08-28 14:23:25* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරායේ-සමූහ-මීනී-වලෙන්-පුද්ගලයන්-88-දෙනෙකුගේ-අස්ථි-හමුවේ/11-418127) · `si`
-
-කොළඹ වරාය පරිශ්‍රයේ පිහිටි සමූහ මිනී වළක් පරික්ෂා කිරීමෙන් පසු අගෝස්තු මස 26 වෙනිදා එම මිනී වළේ තිබේ පුද්ගලයන් 88 දෙනෙකුට අයත් අස්ථි කොටස් සොයා ගෙන ඇතැයි මෝදර පොලිසිය පවසයි.
-
-කොළඹ වරාය සහ අධිවේගී මාර්ගය සම්බන්ධ කරන ඉදි කිරීමක් අතර තුර කැණීම් කටයුතු කිරීමේදී එයට කොළඹ අතිරේක මහේස්ත්‍රාත් කසුන් කාංචන දිශානායක මහතාගේ අධීක්‍ෂණය යටතේ කොළඹ වෙෙද්‍ය පීඨයේ මහාචාර්ය වරයෙකු වන රාජ් සෝමාදේවගේ මෙහෙයවීමකින් සිදු කරන අතර කොළඹ ජාතික රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය සුනිල් හේවගේ මහතා විසින් එම කටයුතු භාරව කටයුතු කරයී.
-
-අධිකරණය වෙෙද්‍ය සුනිල් හේවගේ මහතා කියා සිටියේ මෙම සමූහ මිනීවළ කාලනිර්ණය සම්බන්ධව කිසිවක් තවමත් ප්‍රකාශ නොවන බව වෙෙද්‍ය සුනිල් හේවගේ මහතා පවසයි.
-
-◼️
-
-[Data](articles/54a82ffc.json)
-
----
-
-### ஜம்மு காஷ்மீரில் உயிரிழப்பு எண்ணிக்கை 41 ஆக உயர்வு
-
-*2025-08-28 14:17:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜம்மு-காஷ்மீரில்-உயிரிழப்பு-எண்ணிக்கை-41-ஆக-உயர்வு/175-363659) · `ta`
-
-புதுடெல்லி: வட மாநிலங்களில் பருவமழை தீவிரமடைந்துள்ள நிலையில், பல்வேறு பகுதிகள் கடுமையாக பாதிக்கப்பட்டுள்ளன. பஞ்சாபில் பெரும்பாலான பகுதிகள் நீரில் மூழ்கியுள்ளன. இதனால் ரயில்கள் ரத்து செய்யப்பட்டு, பள்ளிகள் மூடப்பட்டுள்ளன. நிலச்சரிவு மற்றும் கனமழை காரணமாக ஜம்மு-காஷ்மீரில் உயிரிழந்தவர்களின் எண்ணிக்கை 41 ஆக உயர்ந்துள்ளது. இதில், வைஷ்ணவி தேவி கோயில் நிலச்சரிவில் உயிரிழந்தோரின் எண்ணிக்கை மட்டும் 34 ஆகும்.
-
-டெல்லியில் இயல்பை விட 60% அதிக மழை: டெல்லியில் ஆகஸ்ட் மாதம் முதல் இதுவரை பெய்த மழையின் அளவு மிகவும் அதிகமாகும், இது இயல்பை விட 60% அதிகம். கனமழையால் டெல்லி வழியாகப் பாயும் யமுனை நதியின் நீர்மட்டம் புதன்கிழமை காலை 204.61 மீட்டரை எட்டியது, தொடர்ந்து இரண்டாவது நாளாக யமுனை நதியின் நீர்மட்டம் 204.50 மீட்டரை தாண்டியுள்ளது.
-
-...
-
-[Data](articles/542a5d5d.json)
-
----
-
-### රාජිතගේ ප්‍රතිශෝධන පෙත්සමක් විභාගයට නියම වෙයි
-
-*2025-08-28 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213891) · `si`
-
-අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ට එරෙහිව නිකුත් කර තිබෙන වරෙන්තුව ප්‍රතිශෝධනය කර අවලංගු කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම විභාග කිරීමට තීන්දු කළ කොළඹ මහාධිකරණය එහි වගඋත්තරකරුවන් ලෙස නම් කර තිබෙන අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල් ඇතුළු නිලධාරීන්ට නොතීසි නිකුත් කරන ලෙස නියම කළේය.
-
-සිය සේවාදායකයා හෙට (29) දින කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ පෙනී සිටින බවත් ඔහු අත්අඩංගුවට ගැනීම සඳහා නිකුත් කර තිබෙන වරෙන්තුව තාවකාලිකව අත්හිටුවීමේ අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා කළ ඉල්ලීම සම්බන්ධයෙන් නියෝගයක් නිකුත් නොකළ කොළඹ මහාධිකරණ විනිසුරු ඉන්ද්‍රිකා කාලිංග වංශ මහත්මිය වගඋත්තරකරුවන්ට නොතීසි පමණක් නිකුත් කරන බව සඳහන් කළේය.
-
-මෙම ප්‍රතිශෝධන පෙත්සම සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී පෙත්සම්කාර රාජිත සේනාරත්න මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා අධිකරණය හමුවේ, කරුණු දක්වමින් ධීවර වරාය නීතිගත සංස්ථාවේ තිබූ
-
-...
-
-[Data](articles/00d708b0.json)
 
 ---

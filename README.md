@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 23:06:41**
+As of **2025-08-29 23:18:41**
 
 ## Newspaper Stats
 
-*Scraped **73,125** Articles*
+*Scraped **73,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,044
-adaderanalk | 9,287
+adaderanalk | 9,288
 tamilmirrorlk | 10,864
 virakesarilk | 11,998
 adaderanasinhalalk | 12,677
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,125 articles have been extended.
+61,973 (84.7%) of 73,126 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8be6c3bd.json)
+
+---
+
+### Madushanka’s last-over hat-trick powers Sri Lanka to a thriller win
+
+*2025-08-29 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111990/madushankas-last-over-hat-trick-powers-sri-lanka-to-a-thriller-win) · `en`
+
+Sri Lankan left-arm seamer Dilshan Madushanka produced a sensational last-over hat-trick to snatch victory from Zimbabwe in a dramatic ODI clash, sealing a 7-run win in Hambantota.
+
+With Zimbabwe needing just 10 runs off the final 6 balls, Madushanka dismissed Sikandar Raza, Brad Evans, and Richard Ngarava in consecutive deliveries to complete his magical treble and break Zimbabwean hearts.
+
+Batting first, Sri Lanka posted a competitive 298 for 6 in their 50 overs. The innings was built on a steady foundation laid by Pathum Nissanka, who scored a fluent 76 off 92 balls with twelve boundaries.
+
+He was supported by contributions from Kusal Mendis (38) and Sadeera Samarawickrama (35) through the middle overs.
+
+The real acceleration, however, came in the final phase when Janith Liyanage struck an unbeaten 70 off just 47 balls, and Kamindu Mendis added a blistering 57 off 36, lifting Sri Lanka close to the 300-mark.
+
+...
+
+[Data](articles/d72134ca.json)
 
 ---
 
@@ -1737,25 +1757,5 @@ On Wednesday (27) the debt office raised 51.14 billion rupees of 3, 6 and 12 mon
 ◼️
 
 [Data](articles/f016f9ab.json)
-
----
-
-### වාහන 3ක් එකිනෙකට ගැටී මාරක අනතුරක්
-
-*2025-08-29 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213918) · `si`
-
-යාපනය - නුවර ප්‍රධාන මාර්ගයේ පරන්තන් මංසන්ධිය ආසන්නයේ අද (29) අලුයම සිදුවු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
-
-කිලිනොච්චිය පොලීසිය පැවසූවේ යාපනය සිට නුවර බලා  ධාවනය ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ බස් රථයක්, ටිපර් රථයක් හා යතුරුපැදියක් එකිනෙකට ගැටීමෙන් අනතුර සිදුව ඇති බවය.
-
-බස් රථය මාර්ගය ආසන්නයේ නවතා තිබියදී, පසුපසින් පැමිණි ටිපර් රථයක් බස් රථයේ පළමුව ගැටී ඇති තිබේ.
-
-අනතුරුව ටිපර් රථයට පසුපසින් පැමිණි යතුරුපැදිය ටිපර් රථයේ ගැටීමෙන් අනතුර සිදුව ඇත.
-
-අනතුරින් යතුරුපැදියේ ගමන්ගත් පුද්ගලයින් දෙදෙනාගෙන් අයෙකු අදාළ ස්ථානයේදීම ජිවිතක්ෂයට පත්ව ඇති අතර,බරපතළ තුවාල ලබා කිලිනොච්චිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව අනෙක් පුද්ගලයා ජීවිතක්ෂයට පත්ව තිබේ.
-
-◼️
-
-[Data](articles/6af76068.json)
 
 ---

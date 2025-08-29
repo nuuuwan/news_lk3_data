@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 12:50:10**
+As of **2025-08-29 13:07:49**
 
 ## Newspaper Stats
 
-*Scraped **73,037** Articles*
+*Scraped **73,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,027
+adalk | 7,028
 adaderanalk | 9,277
 tamilmirrorlk | 10,849
 virakesarilk | 11,990
-adaderanasinhalalk | 12,652
+adaderanasinhalalk | 12,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 73,037 articles have been extended.
+61,973 (84.8%) of 73,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### කාසියේ වාසිය සිම්බාබ්වේට
+
+*2025-08-29 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213926) · `si`
+
+ශ්‍රී ලංකා - සිම්බාබ්වේ පළමු එක්දින තරගයේ කාසියේ වාසිය දිනාගැනීමට සිම්බාබ්වේ කණ්ඩායම සමත්වුණි.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදීමට ශ්‍රී ලංකා පිලට ආරාධනා කර තිබේ.
+
+හරාරේ ක්‍රීඩාංගණයේ දී තරගය මෙරට වේලාවෙන් ප.ව. 1ට ආරම්භවීමට නියමිතය.
+
+දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ ක්‍රීඩාංගණයේදීම පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/0a98e4a8.json)
+
+---
+
+### රාජිත 9 දක්වා රිමාන්ඩ්
+
+*2025-08-29 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213925) · `si`
+
+හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා එළඹෙන 9 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය රාජිත සේනරත්න මහතා අද (29) පෙරවරුවේ අධිකරණය හමුවේ පෙනී සිටීමෙන් අනතුරුව අත්අඩංගුවට ගැනුණි.
+
+පසුව කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ඒ මහතාව ලබන 09 වනදා දක්වා මෙලෙස රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් පසුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක. එස්. බෝදරගම මහතා මෙම නියෝගය නිකුත් කර තිබුණි.
+
+◼️
+
+[Data](articles/cca03ee3.json)
+
+---
 
 ### நிமல் லான்சா கைது
 
@@ -44,13 +80,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### විපක්ෂයේ පක්ෂ එකතු වුණු සාකච්ඡාවේදී අලුත් එකඟතා කිහිපයක්
+
+*2025-08-29 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213924) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කිරීමෙන් අනතුරුව විපක්ෂයේ දේශපාලන පක්ෂ අතර ආරම්භ වූ සාකච්ඡා තවදුරටත් පැවැත්වෙයි.
+
+ඒ අනුව අද (29) උදෑසන විපක්ෂ නායක කාර්යාලයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් සාකච්ඡාවක් පැවැත්වුණි.
+
+මෙම සාකච්ඡාව සඳහා සමගි ජන බලවේගය, එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා නිදහස් පක්ෂය, එක්සත් ජනතා නිදහස් සන්ධානය ඇතුළු දේශපාලන පක්ෂ රැසක් එක්වී තිබුණි.
+
+එහෙත් පසුගිය සාකච්ඡා සඳහා එක්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණ අද දිනයේ පැහැති සාකච්ඡා සඳහා එක් නොවීමද විශේෂත්වයකි.
+
+අද පැවැති සාකච්ඡාවලදී ප්‍රධාන මාතෘකාව බවට පත්වී තිබුණේ රනිල් වික්‍රමසිංහ මහතාට ඇප ලබාදුන් දිනයේදී උසාවිය ඉදිරිපිට උද්ඝෝෂණ සිදුකළ පාක්ෂිකයන් අත්අඩංගුවට ගැනීමට අධිකරණයෙන් සිදුකළ නියෝගය සම්බන්ධයෙන් බව වාර්තා වෙයි.
+
+එහිදී අධිකරණය ලබාදුන් නියෝගයේ පිටපතක් ලබාගෙන ඒ සම්බන්ධයෙන් ඉදිරියේදී ගතයුතු ක්‍රියාමාර්ග සාකච්ඡා කළ යුතු බව සාකච්ඡාවට එක්වූ නියෝජිතයන්ගේ මතය වී තිබේ.
+
+...
+
+[Data](articles/3d58287a.json)
+
+---
+
 ### நிமல் லான்சா கைது
 
 *2025-08-29 12:31:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிமல்-லான்சா-கைது/175-363711) · `ta`
 
 முன்னாள் இராஜாங்க அமைச்சர்   நிமல் லான்சா, கொச்சிக்கடை பொலிஸ் நிலையத்தில் ஆஜரானதன் பின்னர், வௌ்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
 
-ஒரு வீட்டை 2006 ஆம் ஆண்டு தாக்கி சேதப்படுத்திய குற்றச்சாட்டின் கீழ், வாக்குமூலம் பெற்றுக்கொள்வதற்காக கொச்சிக்கடை பொலிஸ் நிலையத்துக்கு அழைக்கப்பட்டிருந்தார். அதன்பின்னர் அவர் கைது செய்யப்பட்டார்.
+ஒரு வீட்டை 2006 ஆம் ஆண்டு தாக்கி சேதப்படுத்தியமை ஒருவரை தாக்கியமை போன்ற குற்றச்சாட்டின் கீழ், வாக்குமூலம் பெற்றுக்கொள்வதற்காக கொச்சிக்கடை பொலிஸ் நிலையத்துக்கு அழைக்கப்பட்டிருந்தார். அதன்பின்னர் அவர் கைது செய்யப்பட்டார்.
 
 ◼️
 
@@ -157,6 +215,18 @@ The attack killed one crew member and injured multiple others, the Kiev Independ
 ...
 
 [Data](articles/db583ff4.json)
+
+---
+
+### රාජිත කොළඹ මහේස්ත්‍රාත් අධිකරණයට රැගෙන එයි
+
+*2025-08-29 11:55:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-කොළඹ-මහේස්ත්‍රාත්-අධිකරණයට-රැගෙන-එයි/11-418146) · `si`
+
+කොළඹ මහාධිකරණය විසින් රක්ෂිත බන්ධනාගාර ගත කළ හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අල්ලස් කොමිසම විසින් පවරා ඇති නඩුවකට ඉදිරිපත් කිරීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.
+
+◼️
+
+[Data](articles/74103253.json)
 
 ---
 
@@ -364,7 +434,7 @@ At around 11.00 a.m., the index stood at 21,003.97 points, reflecting an increas
 
 ---
 
-### රාජිත රිමාන්ඩ්
+### මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරන තෙක් රාජිත රිමාන්ඩ්
 
 *2025-08-29 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213917) · `si`
 
@@ -1717,55 +1787,5 @@ Therefore, the union said the VRS scheme should be prescribed in order for the e
 ◼️
 
 [Data](articles/0dd53299.json)
-
----
-
-### China plans next 5 years: Does public opinion matter?
-
-*2025-08-28 19:33:00* · [`islandlk`](http://island.lk/china-plans-next-5-years-does-public-opinion-matter/) · `en`
-
-The Peoples Republic of China (PRC) established on October 1st 1949 planned their path towards their 1st & 2nd centenary goals in five year steps. The 1st centenary goal was to alleviate poverty in China by 2021 when the Communist Party of China (CPC – established in July 1921) celebrated its centenary. China reached that goal in 2020 & marked it with the Chinese flag flying on the moon. The 2nd centenary goal was to create a moderately prosperous socialist state (a Xiaokang) by year 2049 when the PRC marks its centenary. Hence, the Five Year Plan (FYP) is an important policy documents for China. The 1st was drawn in 1953 & the FYP continue to set short term goals for China’s socioeconomic development.
-
-...
-
-[Data](articles/8bb9e5ab.json)
-
----
-
-### Sri Lanka’s international recognition flies high as the Colombo International Kite Festival ends up on a successful note
-
-*2025-08-28 19:27:00* · [`islandlk`](http://island.lk/sri-lankas-international-recognition-flies-high-as-the-colombo-international-kite-festival-ends-up-on-a-successful-note/) · `en`
-
-The much awaited Colombo International Kite Festival, organized by Sri Lanka Tourism, in collaboration with Derana Media Network, concluded successfully with a ground breaking number of visitors, participants and the public coming to the Galle Face Green, to witness one of the most colorful and glamourous events of the year. Sri Lanka received the opportunity of hosting the much renowned festival this year, also hosting this spectacular event for the first time. This has been a great promotional opportunity for Sri Lanka as it receives a large number of tourists to the country on a daily basis, and attract more tourist arrivals.
-
-...
-
-[Data](articles/a4db7d4b.json)
-
----
-
-### People’s Bank records historic milestone with all-time high Pre-Tax Profit of LKR 28.0 billion in 1H-2025
-
-*2025-08-28 19:27:00* · [`islandlk`](http://island.lk/peoples-bank-records-historic-milestone-with-all-time-high-pre-tax-profit-of-lkr-28-0-billion-in-1h-2025/) · `en`
-
-People’s Bank, Sri Lanka’s leading financial services provider, today announced its results for the period ended June 30, 2025, reporting operating income of LKR 80.8 billion and post-tax profit of LKR 18.2 billion. This achievement is particularly noteworthy, as this profit was recorded after recognizing significant impairment charges on exposures to several state-owned enterprises (SOEs).
-
-The Bank’s net interest income rose to LKR 69.3 billion during the period, compared to LKR 27.6 billion in the corresponding period of 2024, reflecting the timely repricing of assets and liabilities in line with changing market interest rates. Consequently, net interest margins improved to 4.0% in 2025 from 3.4% in the end 2024. Net fees and commissions reached LKR 8.0 billion, recording a 16.8% growth, the highest ever for the same period. Total operating expenses stood at LKR 33.4 billion (2024: LKR 28.7 billion)
-
-...
-
-[Data](articles/dad03b04.json)
-
----
-
-### Bank of Ceylon launches Entrepreneur Development Program 2025
-
-*2025-08-28 19:27:00* · [`islandlk`](http://island.lk/bank-of-ceylon-launches-entrepreneur-development-program-2025/) · `en`
-
-The Bank of Ceylon successfully inaugurated the Entrepreneur Development Program (EDP) 2025 on 17th August 2025 at its Head Office, reinforcing its “Beyond Banking” vision to empower entrepreneurs and foster sustainable economic growth in Sri Lanka. This pioneering initiative provides aspiring entrepreneurs with valuable insights into entrepreneurship, financial management, business strategy, and digital innovation, while also featuring industry experts as key resource persons. With around 100 entrepreneurs from across the country including both BOC customers and non-customers, and with approximately 36% representing women-led businesses the program will run across five consecutive Sundays, helping participants enhance their knowledge, sharpen their entrepreneurial skills, and build stronger business networks.
-
-...
-
-[Data](articles/ddc84200.json)
 
 ---

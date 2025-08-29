@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 07:17:34**
+As of **2025-08-29 08:00:33**
 
 ## Newspaper Stats
 
-*Scraped **72,980** Articles*
+*Scraped **72,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,020
-adaderanalk | 9,265
+adaderanalk | 9,267
 tamilmirrorlk | 10,833
 virakesarilk | 11,984
-adaderanasinhalalk | 12,636
+adaderanasinhalalk | 12,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,980 articles have been extended.
+61,973 (84.9%) of 72,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Massive Russian attack on Kyiv kills at least 23, damages EU and British offices
+
+*2025-08-29 07:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/111966/massive-russian-attack-on-kyiv-kills-at-least-23-damages-eu-and-british-offices) · `en`
+
+Russia pounded Ukraine with deadly missiles and drone strikes early on Thursday in a sweeping attack that the U.S. special envoy on Ukraine said undermined President Donald Trump’s peace efforts.
+
+At least 23 people were killed in the capital, Tymur Tkachenko, head of Kyiv’s military administration, said on Telegram. As of 11 p.m. (2000 GMT) rescue efforts were still underway.
+
+White House Press Secretary Karoline Leavitt said Trump “was not happy about this news, but he was also not surprised,” given that the two countries had been at war for a long time.
+
+Ukraine’s President Volodymyr Zelenskiy said the strike, the second-largest attack since Russia launched a full-scale invasion in February 2022, was Moscow’s answer to diplomatic efforts to end its war.
+
+U.S. special envoy Keith Kellogg commented on X: “The targets? Not soldiers and weapons but residential areas in Kyiv - blasting civilian trains, the EU & British mission council offices, and innocent civilians.”
+
+...
+
+[Data](articles/a395cd7c.json)
+
+---
+
+### මෙරට තුළ දරුවන් 14,834ක් අනාරක්ෂිත තත්ත්වයෙන් පසුවන බවට අනාවරණයක්
+
+*2025-08-29 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213908) · `si`
+
+දිවයින පුරා අනාරක්ෂිත තත්ත්වයේ පසුවන ළමුන් 14,834ක් පමණ වාර්තාවී අති බව පරිවාස හා ළමාරක්ෂක දෙපාර්තමේන්තුව පවසයි.
+
+කොළඹ දිස්ත්‍රික් ලේකම් කාර්යාලයේදී ඊයේ (28) පැවති එම දිස්ත්‍රික් බහු පාර්ශ්විය මත්ද්‍රව්‍ය නිවාරණ ප්‍රතිකාර හා පුනුරුත්ථාපන වැඩසටහනේදී මේ බව අනාවරණය කෙරුණි.
+
+"අවදානම් ළමයින් සම්බන්ධයෙන් ළමා හිමිකම් ප්‍රවර්ධන නිලධාරීන් කටයුතු කරනවා. ඒ වගේම පොලිස් ස්ථානවලින් මේ වෙනකොට ළමයින් හඳුනගෙන අපිට යොමු කරපු ප්‍රමාණයකුත් ඉන්නවා. මේකෙදී අපි දකින ලොකුම ගැටලුව තමයි හැම තැනම අන්තර් සම්බන්ධීකරණය වෙනවා අඩුවීම. විශේෂයෙන් මත්ද්‍රව්‍ය වගේ ඒකට බඩෝවිට සහ තවත් ප්‍රදේශවලට නිලධාරීන්ටවත් යන්න පුළුවන්කමක් නැහැ. ළමයා ගොඩනගනවා වගේම පවුල කේන්ද්‍ර කරගත් රැකවරණ සැලැස්මක්, සංවර්ධන සැලැස්මක් සකස් කරලා අපි සියලු පාර්ශ්ව එකතුවෙලා වැඩ කළොත් හොඳයි කියලා තමයි මම යෝජනා කරන්නේ."
+
+◼️
+
+[Data](articles/641d4162.json)
+
+---
+
+### Dr. Nandalal Weerasinghe earns ‘A’ grade in Global Finance’s Central Banker Report Cards 2025
+
+*2025-08-29 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111965/dr-nandalal-weerasinghe-earns-a-grade-in-global-finances-central-banker-report-cards-2025) · `en`
+
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has been awarded a prestigious “A” grade in Global Finance’s 2025 Central Banker Report Card.
+
+This top-tier recognition places Dr. Weerasinghe among the elite central bank governors worldwide, acknowledging his exceptional leadership and strategic acumen in steering Sri Lanka’s economy through turbulent times.
+
+The Central Banker Report Card, published annually by Global Finance since 1994, grades the central bank governors of nearly 100 key countries, territories, and districts, as well as the European Union, the Eastern Caribbean Central Bank, the Bank of Central African States, and the Central Bank of West African States.
+
+Grades are based on an “A+” to “F” scale for success in areas such as inflation control, economic growth goals, currency stability, interest rate management, and political independence. (“A” represents excellent performance, down through “F” for outright failure.)
+
+...
+
+[Data](articles/4350682c.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
 
@@ -49,6 +103,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c170a4a4.json)
+
+---
+
+### மட்டக்களப்பில் தண்ணீர் ஓடும் வாய்க்கால்களில் இரவில் மணல் கொள்ளை : நிறுத்த முடியாத புதிய அரசு - இரா. துரைரெத்தினம் காட்டம்
+
+*2025-08-29 06:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223646) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தில் வெல்லாவெளி, பட்டிப்பளை, வவுணதீவு, செங்கலடி, கிரான், வாகரை பிரதேச செயலக்கப்பிரிவுக்கு உட்பட்ட பகுதிகளில் மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் இரவு7.00 மணி தொடக்கம் அதிகாலை 5.00 மணிவரை பொலிசார் பாதுகாப்பு படையினரின் அனுசரணையுடன்  மணல் கொள்ளை இடம்பெறுவதை புதிய அரசுக்குத் தெரியாதா? அதனை நிறுத்த முடியாதா?  என முன்னாள் கிழக்கு மாகாணசபை உறுப்பினர், இரா.துரைரெத்தினம் கேள்வி எழுப்பியுள்ளார்.
+
+கிழக்கு மாகாணசபை முன்னாள் உறுப்பினர் இரா.துரைரெத்தினம் (ஈ.பி.ஆர்.எல்.எப்) புதன்கிழமை (27) ஊடக அறிக்கை ஒன்றை வெளியிட்டார்.
+
+போரதீவுப்பற்று (வெல்லாவெளி), மண்முனை தென்மேற்கு (பட்டிப்பளை), மண்முனை மேற்கு (வவுணதீவு), ஏறாவூர்பற்று (செங்கலடி), கோறளைப்பற்று தெற்கு(கிரான்), கோறளைப்பற்று வடக்கு (வாகரை) போன்ற பிரதேச செயலகப்பிரிவிற்குட்பட்ட மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் மணல் கொள்ளை இடம்பெறுகின்றது
+
+...
+
+[Data](articles/148b422a.json)
 
 ---
 
@@ -299,22 +369,6 @@ The charges themselves are the subject of continuing scrutiny and debate. Does t
 ◼️
 
 [Data](articles/ead7361f.json)
-
----
-
-### மட்டக்களப்பில் தண்ணீர் ஓடும் வாய்க்கால்களில் இரவில் மணல் கொள்ளை நிறுத்த முடியாத புதிய அரசு - இரா. துரைரெத்தினம் காட்டம்
-
-*2025-08-29 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223646) · `ta`
-
-மட்டக்களப்பு மாவட்டத்தில் வெல்லாவெளி, பட்டிப்பளை, வவுணதீவு, செங்கலடி, கிரான், வாகரை பிரதேச செயலக்கப்பிரிவுக்கு உட்பட்ட பகுதிகளில் மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் இரவு7.00 மணி தொடக்கம் அதிகாலை 5.00 மணிவரை பொலிசார் பாதுகாப்பு படையினரின் அனுசரணையுடன்  மணல் கொள்ளை இடம்பெறுவதை புதிய அரசுக்குத் தெரியாதா? அதனை நிறுத்த முடியாதா?  என முன்னாள் கிழக்கு மாகாணசபை உறுப்பினர், இரா.துரைரெத்தினம் கேள்வி எழுப்பியுள்ளார்.
-
-கிழக்கு மாகாணசபை முன்னாள் உறுப்பினர் இரா.துரைரெத்தினம் (ஈ.பி.ஆர்.எல்.எப்) புதன்கிழமை (27) ஊடக அறிக்கை ஒன்றை வெளியிட்டார்.
-
-போரதீவுப்பற்று (வெல்லாவெளி), மண்முனை தென்மேற்கு (பட்டிப்பளை), மண்முனை மேற்கு (வவுணதீவு), ஏறாவூர்பற்று (செங்கலடி), கோறளைப்பற்று தெற்கு(கிரான்), கோறளைப்பற்று வடக்கு (வாகரை) போன்ற பிரதேச செயலகப்பிரிவிற்குட்பட்ட மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் மணல் கொள்ளை இடம்பெறுகின்றது
-
-...
-
-[Data](articles/148b422a.json)
 
 ---
 
@@ -1719,53 +1773,5 @@ With Cabinet approval, the Minister of Justice and National Integration appointe
 ...
 
 [Data](articles/4fd8e4ed.json)
-
----
-
-### Sri Lanka’s Alliance Finance to raise Rs1.5bn in bond issue
-
-*2025-08-28 15:12:00* · [`economynextcom`](https://economynext.com/sri-lankas-alliance-finance-to-raise-rs1-5bn-in-bond-issue-238568/) · `en`
-
-ECONOMYNEXT – Alliance Finance Company PLC said it will issue listed, rated, unsecured, subordinated high yield bonds, to raise 1.5 billion rupees.
-
-“The interest rates wi1l be determined closer to the finalization of the issue, based on prevailing market conditions at that time,” Alliance Finance said in a stock exchange filing.
-
-10 million bonds will be issued initially at 100 rupees each, with an option to issue another 5 million at the company’s discretion.
-
-The  issue is subject to obtaining the necessary regulatory approvals. (Colombo/Aug28/2025)
-
-◼️
-
-[Data](articles/0f08d850.json)
-
----
-
-### විශ්‍රාම ගිය දේශපාලඥයෝ කරවල  කරලා දුමේ දාලා තියා ගත යුතුද?
-
-*2025-08-28 15:05:00* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-ගිය-දේශපාලඥයෝ-කරවල--කරලා-දුමේ-දාලා-තියා-ගත-යුතුද-/11-418128) · `si`
-
-"ජනාධිපතිවරු, පාර්ලිමේන්තු මන්ත්‍රීවරු මේ කිසි කෙනෙකුගේ විශ්‍රාම වැටුප් සියල්ලම අහෝසි කළ යුතුයි.අපේ රටේ මහජන බදු මුදල් වලින් මේ දේශපාලඥයෝ නඩත්තු කරන්නේ. ඇයි ඒ නඩත්තු කරන්නේ, මොකක්ද අවශ්‍යතාව. එහෙම නම් මැරුණාම කරවල කරලා දුමේ දාලා තියා ගන්නත් ඕන" යැයි ජාතික නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් පැවසූහ.
-
-ජාතික නාමල් උයනේ පැවති මාධ්‍ය හමුවකදී මේ බව උන්වහන්සේ පැවසූහ.
-
-...
-
-[Data](articles/e0a76e7e.json)
-
----
-
-### செல்பி எடுப்பதற்கு மிகவும் ஆபத்தான 10 நாடுகளின் பட்டியல்
-
-*2025-08-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/223588) · `ta`
-
-அமெரிக்காவின் டெக்சாஸ் மாநிலத்தில் உள்ள ‘தி பார்பர்’ சட்ட நிறுவனம், கடந்த 2014 முதல் 2025 மே மாதம் வரை செல்பி எடுக்கும்போது ஏற்பட்டுள்ள உயிரிழப்புகள் மற்றும் காயங்களை கண்காணித்து ஆய்வு நடத்தியது. இந்த ஆய்வு, செல்பி எடுக்க நேரடியாக முயற்சித்து மரணத்தை விளைவிக்கும் நிகழ்வுகள் குறித்து செய்திகள் மற்றும் கட்டுரைகளை அடிப்படையாக கொண்டு நடத்தப்பட்டது.
-
-அதில் அதிக மக்கள் தொகை, ரயில் தண்டவாளங்கள், பாறைகள் போன்ற ஆபத்தான இடங்களுக்கு செல்வது, சமூக ஊடக கலாசாரம் உள்ளிட்ட பல காரணிகளை ஆராய்ச்சியாளர்கள் அடையாளம் கண்டுள்ளனர். அதன் அடிப்படையில் ஆய்வு செய்யபட்டது. இதில் உலகளவில் பதிவான அனைத்து நிகழ்வுகளில் 42.1 சதவீதம் இந்தியாவில் நிகழ்ந்துள்ளதாக கூறப்படுகிறது.
-
-இதன்படி உலகில் செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் பட்டியலில் இந்தியா முதலிடத்திலும், அமெரிக்கா இரண்டாவது இடத்திலும் உள்ளதாக தெரியவந்துள்ளது. இந்த ஆய்வு முடிவுகளின்படி செல்பி எடுப்பதற்கு ஆபத்தான நாடுகள் மற்றும் அந்நாடுகளில் நிகழ்ந்த செல்பி தொடர்பான உயிரிழப்புகளின் பட்டியல் பின்வருமாறு,
-
-...
-
-[Data](articles/c5613b03.json)
 
 ---

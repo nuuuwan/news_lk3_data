@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 15:50:17**
+As of **2025-08-29 16:09:22**
 
 ## Newspaper Stats
 
-*Scraped **73,064** Articles*
+*Scraped **73,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,034
-adaderanalk | 9,280
-tamilmirrorlk | 10,858
+adaderanalk | 9,284
+tamilmirrorlk | 10,860
 virakesarilk | 11,990
 adaderanasinhalalk | 12,660
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,064 articles have been extended.
+61,973 (84.8%) of 73,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### யாழ்.போராட்டத்துக்கு ஆதரவாக ஊர்திப் பவனி
+
+*2025-08-29 15:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/யாழ்-போராட்டத்துக்கு-ஆதரவாக-ஊர்திப்-பவனி/46-363727) · `ta`
+
+சர்வதேச நீதி கோரி யாழில் முன்னெடுக்கப்படவுள்ள போராட்டத்திற்கு ஆதரவாக ஊர்திப் பவனி ஒன்று ஆரம்பித்து வைக்கப்பட்டது.
+
+சர்வதேச காணாமல் ஆக்கப்பட்டோர் தினமான, சனிக்கிழமை (30) வடக்கு, கிழக்கு காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களின் சங்கத்தின் ஏற்பாட்டில் வடக்கிலும் கிழக்கிலும் மாபெரும் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+வடக்கில் யாழ்ப்பாணம் செம்மணியில் இப் போராட்டம் நடைபெறவுள்ளது. இப் போராட்டத்திற்கு ஆதரவு திரட்டும் வகையில் யாழிலிருந்து ஊர்திப் பவனி ஆரம்பிக்கப்பட்டுள்ளது.
+
+உலகத் தமிழாராய்ச்சி மாநாட்டு படுகொலை நினைவு தூபியில் அஞ்சலி செலுத்தி அங்கிருந்து இந்த ஊர்திப் பவனி ஆரம்பமாகியது.
+
+இவ் ஊர்திப் பவனி பல்வேறு இடங்களுக்கும் சென்று  போராட்டம் நடைபெறும் செம்மணியை சனிக்கிழமை (29) காலை வந்தடையும்.
+
+◼️
+
+[Data](articles/baef466f.json)
+
+---
+
+### லான்சாவுக்கும் விளக்கமறியல்
+
+*2025-08-29 15:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லான்சாவுக்கும்-விளக்கமறியல்/175-363726) · `ta`
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் நிமல் லான்சா, நீர்கொழும்பு நீதிவான் நீதிமன்றத்தில், வௌ்ளிக்கிழமை (29) ஆஜர்படுத்தப்பட்ட பின்னர் செப்டம்பர் 12 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/c8d76bee.json)
+
+---
 
 ### ரணில் டிஸ்சார்ஜ்
 
@@ -59,6 +91,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3a1c6cec.json)
+
+---
+
+### Former President Ranil discharged from hospital
+
+*2025-08-29 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111983/former-president-ranil-discharged-from-hospital) · `en`
+
+Former President Ranil Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, has been discharged from the hospital, a short while ago.
+
+◼️
+
+[Data](articles/1c1ff6e4.json)
 
 ---
 
@@ -140,6 +184,22 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 
 ---
 
+### Thai court removes Prime Minister Paetongtarn Shinawatra from office
+
+*2025-08-29 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111982/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office) · `en`
+
+Thailand’s Constitutional Court on Friday dismissed Paetongtarn Shinawatra from her position as prime minister, ruling that as the country’s leader she violated constitutional rules on ethics in a phone call with Cambodia’s Senate President Hun Sen.
+
+The ruling means she immediately loses her job, which she had held for about a year. Paetongtarn was suspended from her duties on July 1 when the court agreed to hear the case against her, and Deputy Prime Minister Phumtham Wechayachai took over her responsibilities.
+
+Paetongtarn’s leaked June 15 call with Hun Sen was aimed at easing tensions over competing claims to territory along their border, but sparked outrage in Thailand because Paetongtarn seemed overly friendly in discussing a matter of national security and appeared to malign a Thai army general.
+
+...
+
+[Data](articles/fdd3fbe3.json)
+
+---
+
 ### සුනඛයෙකුට පහර දී ඇළට වීසි කල තරුණයා රිමාන්ඩ්
 
 *2025-08-29 14:38:33* · [`adalk`](https://www.ada.lk/uncategorized/සුනඛයෙකුට-පහර-දී-ඇළට-වීසි-කල-තරුණයා-රිමාන්ඩ්/1-418150) · `si`
@@ -203,6 +263,44 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 ◼️
 
 [Data](articles/556c35f2.json)
+
+---
+
+### Shasheendra Rajapaksa further remanded
+
+*2025-08-29 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111981/shasheendra-rajapaksa-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa, has been further remanded until September 12 by the Colombo Magistrate.
+
+The Colombo Magistrate’s Court also rejected the bail application filed on behalf of Rajapaksa, who is facing corruption charges.
+
+Colombo Chief Magistrate Asanka S. Bodaragama ordered that the former state minister remain in remand custody until the specified date.
+
+Rajapaksa was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on August 06 at his residence in Nugegoda.
+
+He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+
+...
+
+[Data](articles/873c6551.json)
+
+---
+
+### New Rs. 2,000 commemorative note presented to the President
+
+*2025-08-29 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111980/new-rs-2000-commemorative-note-presented-to-the-president-) · `en`
+
+Marking the 75th Anniversary of the Central Bank of Sri Lanka (CBSL), a new commemorative Rs. 2,000 currency note was presented this morning (29) to President Anura Kumara Dissanayake at the Presidential Secretariat by the Governor of the Central Bank, Dr. Nandalal Weerasinghe.
+
+This commemorative note, issued to mark the anniversary, is the fifth commemorative currency note released by the Central Bank of Sri Lanka, according to the President’s Media Division (PMD).
+
+Reflecting the Central Bank’s unwavering commitment to strengthening economic stability as the foundation for national development, the note has been issued under the anniversary theme “Stability for Prosperity.”
+
+On this occasion, the President also engaged in cordial discussions with officials of the Central Bank, the PMD said.
+
+...
+
+[Data](articles/ca088e24.json)
 
 ---
 
@@ -1659,99 +1757,5 @@ The arrest of former President Ranil Wickremesinghe has provoked much debate bet
 ...
 
 [Data](articles/c3b5cc2b.json)
-
----
-
-### The Great Divide
-
-*2025-08-29 03:58:38* · [`dailyftlk`](https://www.ft.lk/columns/The-Great-Divide/4-780952) · `en`
-
-The charges themselves are the subject of continuing scrutiny and debate
-
-Last weekend’s arrest of former Sri Lankan president (and many times prime minister) Ranil Wickremesinghe on corruption charges has unsurprisingly generated large amounts of heat – but not, so far at least, much light.
-
-The charges themselves are the subject of continuing scrutiny and debate. Does the failure to declare the costs incurred by a 2023 visit to the UK en route from official business in Cuba and New York constitute corrupt behaviour by the former president, and as such worthy of official investigation and eventual punishment?
-
-...
-
-[Data](articles/14aa91fa.json)
-
----
-
-### அலங்காரத்தில் ஜொலிக்கும் அன்னையின் ஆலயம்!
-
-*2025-08-29 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/223647) · `ta`
-
-தமிழகத்தின், நாகப்பட்டினம் மாவட்டம் வேளாங்கண்ணியில் அமைந்துள்ளது உலகப்பிரசித்தி பெற்ற புனித ஆரோக்கிய மாதா பேராலயம். இந்த ஆலயத்தில், ஆண்டுதோறும் 10 நாட்கள் திருவிழா நடப்பது வழக்கம்.
-
-அந்த வகையில், இந்த ஆண்டின் திருவிழா வெள்ளிக்கிழமை (ஆக.29) மாலை 6 மணிக்கு கொடியேற்றத்துடன் கோலாகலமாக தொடங்குகிறது.
-
-◼️
-
-[Data](articles/ead7361f.json)
-
----
-
-### திருகோணமலை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் மாவட்ட செயலகத்தில் நடைபெற்றது
-
-*2025-08-29 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/223645) · `ta`
-
-திருகோணமலை மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் வியாழக்கிழமை (28) மாவட்ட செயலக பிரதான மாநாட்டு மண்டபத்தில் நடைபெற்றது.
-
-திருகோணமலை மாவட்ட அரசாங்க அதிபர் டபிள்யூ. ஜி. எம். ஹேமந்த குமார அவர்களின் வரவேற்புரையை தொடர்ந்து மாவட்ட ஒருங்கிணைப்புக் குழுக்கூட்டம் ஆரம்பமானது.
-
-கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அபிவிருத்தி அமைச்சர்  சுனில் ஹந்துன்நெத்தி அவர்களின் பங்குபற்றலுடன் மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவரும் வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சருமாகிய அருண் ஹேமச்சந்திரா அவர்களின் தலைமையில் இடம்பெற்ற குறித்த கூட்டத்தில் இணைத்தலைவரான கிழக்கு மாகாண ஆளுநர் பேராசிரியர் ஜயந்தலால் ரத்னசேகர, பாராளுமன்ற உறுப்பினர்களான ரொஷான் அக்மீமன, எஸ். குகதாசன், இம்ரான் மஹ்ரூப்,கிழக்கு மாகாண பிரதம செயலாளர் டி.ஏ.சி.என். தலங்கம, கிழக்கு மாகாண அமைச்சுக்களின் செயலாளர்கள், நகர சபை மற்றும் பிரதேச சபைத் தலைவர்கள், பிரதேச செயலாளர்கள், திணைக்கள தலைவர்கள், மற்றும் முப்படைகளின் உயரதிகாரிகள் உட்பட பலரும் கலந்து கொண்டனர்.
-
-...
-
-[Data](articles/41b2a4a8.json)
-
----
-
-### செட்டிகுளம் – சின்னசிப்பிக்குளம் பகுதியில் மாடுகள் கடத்தல்: ஒருவர் கைது
-
-*2025-08-29 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/223644) · `ta`
-
-செட்டிகுளம் - சிப்பிக்குளம் பகுதியில் முறையான அனுமதி பத்திரமின்றி மாடுகளை ஏற்றி வந்த வாகனம் கைப்பற்றப்பட்டுள்ளதுடன், அதன் சாரதி கைது செய்யப்பட்டுள்ளதாக செட்டிகுளம் பொலிசார் வியாழக்கிழமை (28) தெரிவித்தனர்.
-
-வவுனியா, செட்டிகுளம், சின்னச் சிப்பிக்குளம் பகுதியில் பயணித்த பாரவூர்த்தி ஒன்றை சோதனை செய்த போது முறையான அனுமதியின்றி மாடுகள் கொண்டு செல்லப்பட்டமை கண்டு பிடிக்கப்பட்டது. இதனையடுத்து குறித்த மாடுகள் மீட்கப்பட்டதுடன், குறித்த வாகனத்தை கைப்பற்றிய பொலிசார் அதனை செலுத்தி வந்த சாரதியையும் கைது செய்தனர்.
-
-கைது செய்யப்பட்ட நபரிடம் மேலதிக விசாரணைகளின் பின் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக செட்டிகுளம் பொலிசார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/8d3a09d9.json)
-
----
-
-### Salesforce launches ‘Agentforce for Revenue’
-
-*2025-08-29 03:05:44* · [`dailyftlk`](https://www.ft.lk/business/Salesforce-launches-Agentforce-for-Revenue/34-780935) · `en`
-
-Says AI-powered solution embedded within its all-new Revenue Cloud cuts sales quoting time by 75%, dramatically reduces manual work for sales teams
-
-Salesforce has announced the launch of Agentforce for Revenue, an AI-powered solution embedded within its all-new Revenue Cloud, which is set to redefine the sales quoting process for businesses worldwide.
-
-By dramatically cutting quoting time by 75% and reducing manual clicks by 87%, Agentforce brings unprecedented efficiency to revenue operations, enabling sales teams to focus on what matters most — building stronger customer relationships and closing deals faster.
-
-...
-
-[Data](articles/f745c9f2.json)
-
----
-
-### CBB celebrates 25th anniversary with exclusive member networking session at Cinnamon Life
-
-*2025-08-29 03:04:32* · [`dailyftlk`](https://www.ft.lk/business/CBB-celebrates-25th-anniversary-with-exclusive-member-networking-session-at-Cinnamon-Life/34-780934) · `en`
-
-From left: Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe, HSBC Sri Lanka Chief Executive Officer and CBB President Mark Surgenor, and SL-UK Chamber of Commerce Director and General Secretary Charles Rohan De Alwis
-
-The Council for Business with Britain (CBB) of The Ceylon Chamber of Commerce recently celebrated its 25th anniversary in Sri Lanka. The 25th Annual General Meeting (AGM) was held at Westminster House, followed by an exclusive networking session for members at Cinnamon Life, bringing together leading business professionals and stakeholders from the UK-Sri Lanka bilateral business community.
-
-HSBC Sri Lanka Chief Executive Officer Mark Surgenor was re-elected President of the Council, while Norfolk Foods Ltd., President Ameena Ziauddin and KPMG Sri Lanka Head of Deal Advisory Shiluka Goonewardene were re-elected Senior Vice President and Vice President, respectively. Fadhil Jiffry of London Stock Exchange Group Sri Lanka was elected Treasurer.
-
-...
-
-[Data](articles/9a1c86e9.json)
 
 ---

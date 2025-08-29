@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 03:49:57**
+As of **2025-08-30 04:07:16**
 
 ## Newspaper Stats
 
-*Scraped **73,154** Articles*
+*Scraped **73,155** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 617
+dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 750
 economynextcom | 4,462
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,154 articles have been extended.
+61,973 (84.7%) of 73,155 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -789,6 +789,20 @@ However, it is said that Indonesian authorities have deported the woman and chil
 ...
 
 [Data](articles/2a16f070.json)
+
+---
+
+### Has the JVPled NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
+
+*2025-08-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86356) · `en`
+
+History was made when 76 year old  Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department(CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over  Rupees 16.6 million.He was produced before the Colombo Fort Magistrate on 22 August 2025. Ranil was charged under  Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
+
+Six times prime minister Wickremesinghe who served as the eighth executive president of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts  in a Black Maria.  Ranil Wickremesinghe  thus became the first Sri Lankan ex-president and former Prime minister to be arrested and remanded  in the history of Sri Lanka.
+
+...
+
+[Data](articles/9ba9187c.json)
 
 ---
 
@@ -1727,23 +1741,5 @@ The stock was trading up 10 cents at 7.20 rupees. (Colombo/Aug29/2025)
 ◼️
 
 [Data](articles/2beb1647.json)
-
----
-
-### ராஜிதவுக்கு விளக்கமறியல்
-
-*2025-08-29 13:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவுக்கு-விளக்கமறியல்/175-363714) · `ta`
-
-நீதிமன்றத்தில் ஆஜராகாமல், கடந்த இரண்டு மாதங்களாக தலைமறைவாகி இருந்த முன்னாள் மீன்பிடி அமைச்சர் ராஜித சேனாரத்ன, கொழும்பு மேல் நீதிமன்றத்தில் வௌ்ளிக்கிழமை (29) ஆஜரானார்.
-
-அவரை, அடுத்த மாதம் 9 ஆம் திகதி வரை அவரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, வௌ்ளிக்கிழமை (29) உத்தரவிட்டார்.
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் வேண்டுகோளின் மேல் நீதிமன்றத்தால் இன்று (29) காலை  விளக்கமறியலில் வைக்கப்பட்ட சந்தேக நபர், நீதிமன்றத்தில் ஆஜராகாமல் தலைமறைவாகி இருந்த குற்றச்சாட்டின் கீழ் விளக்கமறியலில் வைக்கப்பட்டள்ளார்.
-
-கிரிந்த மீன்வள துறைமுகத்தில் மணல் அகழ்வு திட்டத்தை கொரிய நிறுவனத்திற்கு வழங்கியதன் மூலம் அரசாங்கத்திற்கு இருநூறு மில்லியனுக்கும் அதிகமான இழப்பு ஏற்பட்டதாகக் கூறப்படும் விசாரணை தொடர்பாக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவால் தாக்கல் செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது,
-
-◼️
-
-[Data](articles/a7e1bdbd.json)
 
 ---

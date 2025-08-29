@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 20:48:58**
+As of **2025-08-29 21:07:42**
 
 ## Newspaper Stats
 
-*Scraped **73,113** Articles*
+*Scraped **73,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,041
-adaderanalk | 9,286
+adalk | 7,042
+adaderanalk | 9,287
 tamilmirrorlk | 10,864
-virakesarilk | 11,995
+virakesarilk | 11,998
 adaderanasinhalalk | 12,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,113 articles have been extended.
+61,973 (84.8%) of 73,118 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,70 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### சுற்றுலாத்துறை பூர்வாங்கக் கலந்துரையாடல் - ஜனாதிபதி மாளிகைகளை சுற்றுலா விடுதிகளாக மாற்ற முதலீடு செய்ய அழைப்பு
+
+*2025-08-29 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/223738) · `ta`
+
+சுற்றுலாத் துறையில் ஈடுபட்டுள்ள தனியார் துறை தரப்பினர்களுடன் 2026 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடல் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் வெள்ளிக்கிழமை (29) பிற்பகல் ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+
+2026 ஆம் ஆண்டில் சுற்றுலாத் துறையில் எதிர்பார்க்கப்படும் இலக்குகளை அடைய வெறும் ஊக்குவிப்புத்  திட்டங்கள் மட்டும் போதாது என்றும், அரச மற்றும் தனியார் துறைகளை ஒருங்கிணைக்கும் புதிய மூலோபாயத் திட்டத்தை செயல்படுத்த வேண்டும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+நுவரெலியா அனுராதபுரம், மஹியங்கனை மற்றும் கதிர்காமம் போன்ற பகுதிகளில் உள்ள ஜனாதிபதி மாளிகை மற்றும் அமைச்சர்களின் உத்தியோகபூர்வ இல்லங்களை உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளை இலக்காகக் கொண்டு, வசதியான  சுற்றுலா விடுதிகளாக அபிவிருத்தி செய்வதில் முதலீடு செய்யுமாறு வர்த்தகர்களுக்கு அழைப்பு விடுத்த ஜனாதிபதி,  இது தொடர்பாக விரைவில் முறையான திட்டம் செயல்படுத்தப்படும் என்றும்  தெரிவித்தார்.
+
+...
+
+[Data](articles/92630dc4.json)
+
+---
+
+### மட்டக்களப்பு ஊறணியில் வயோதிப பெண்ணை காயப்படுத்தி தாலிக் கொடி மற்றும் சைக்கிள் கொள்ளை
+
+*2025-08-29 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/223737) · `ta`
+
+மட்டக்களப்பு ஊறணி பகுதியில் வீடு ஒன்றில் உள்நுழைந்த கொள்ளையன் ஒருவர் வயோதிப பெண் ஒருவரின் கழுத்தில் கத்தியை வைத்து கழுத்தில் இருந்த 16 பவுண் தாலிக் கொடியை அறுத்து கொள்ளையடித்து கொண்டு அங்கிருந்த சைக்கிளை திருடிக் கொண்டு தப்பி ஓடியுள்ளதுடன் வயோதிப பெண் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட சம்பவம் வியாழக்கிழமை (28)  அதிகாலையில் இடம்பெற்றுள்ளதாக கொக்குவில் பொலிசார் தெரிவித்தனர்.
+
+கொக்குவில் பொலிஸ் பிரிவிலுள்ள ஓவசியர் வீதி சின்ன ஊறணி பகுதியிலுள்ளள வீடு ஒன்றில் தாதியர் உத்தியோகத்தர் சேவையில் இருந்து ஓய்வு பெற்ற 65 வயதுடைய வயோதிப பெண்ணும் கணவனும் வாழ்ந்து வருகின்றனர்.
+
+இந்த நிலையில் வழமைபோல அதிகாலை 4.00 மணிக்கு எழுந்து இறைவழிபாட்டில் ஈடுபட்டுவருவது வழக்கம் இவ்வாறான நிலையில் சம்பவதினமான வியாழக்கிழமை அதிகாலை 4.00 மணியளவில் எழுந்து காலைக் கடன்களை முடித்துக் கொண்டு அறையின் கதவை சாத்திவிட்டு அங்கு இறைவழிபாட்டில் ஈடுபட்டுக் கொண்டிருந்தபோது அங்கு கதவினை திறந்து ஒருவர் நிற்பதை கண்டு கணவர் என நினைத்து அவரை அழைத்துள்ளார் ஆனால் சத்தம் எதுவும் இல்லை .
+
+...
+
+[Data](articles/3572e7fa.json)
+
+---
+
+### හරි පාරෙන් ජපන් යන්න දැනගන්න අවස්ථාවක්
+
+*2025-08-29 19:17:50* · [`adalk`](https://www.ada.lk/breaking_news/හරි-පාරෙන්-ජපන්-යන්න-දැනගන්න-අවස්ථාවක්/11-418158) · `si`
+
+ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනය (JAICA) එක්ව සංවිධානය කරන ජපන් රැකියා පොළ වැඩසටහනක් හා විශේෂ දැනුවත් කිරීමේ වැඩසටහනක් හෙට දින (8/30) කාර්යාංශයේ බත්තරමුල්ල ප්‍රධාන කාර්යාලයේදී කාර්යාංශ සභාපති කෝශල වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වීමට නියමිතය.
+
+මෙහිදී නිවැරදි මාර්ගයෙන් ජපන් රැකියාවක් සඳහා යොමුවන ආකාරය පිළිබඳව ජනතාව දැනුවත් කරන අතර, ඊට අමතරව, ශ්‍රි ලාංකිකයින්ට අයදුම් කළ හැකි ජපන් රැකියා ක්ෂේත්‍ර, ඊට අවශ්‍ය මූලික සුදුසුකම් වැනි කරුණු පිළිබඳව උදෑසන හා දිවා වශයෙන් සැසිවාර දෙකක් ඔස්සේ රැකියා අපේක්ෂිතයින් දැනුවත් කිරීමටද නියමිතය.
+
+මෙම දැනුවත් කිරීමේ වැඩසටහන සඳහා JAICA ආයතනය, IM Japan ආයතනය ඇතුළු ජපන් රැකියා ඇණවුම් ලැබී ඇති බලපත්‍රලාභී රැකියා නියෝජිතායතන රැසක් හා ජපන් භාෂා පුහුණු පාසල් කිහිපයක්ද සහභාගි වේ.
+
+...
+
+[Data](articles/7ffd1e52.json)
+
+---
+
+### செம்மணி–சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 10 எலும்புக்கூடுகள் கண்டெடுப்பு
+
+*2025-08-29 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223736) · `ta`
+
+செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் இன்று மேலும் 10 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
+
+இதன் அடிப்படையில் இதுவரை 187 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 174 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 37வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d0da662c.json)
+
+---
+
 ### දුර ගමන් සේවා බස් රථවල මගීන්ටත් ආසන පටි අනිවාර්ය කිරීමට යයි
 
 *2025-08-29 19:09:49* · [`adalk`](https://www.ada.lk/breaking_news/දුර-ගමන්-සේවා-බස්-රථවල-මගීන්ටත්-ආසන-පටි-අනිවාර්ය-කිරීමට-යයි/11-418157) · `si`
@@ -83,6 +147,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/302a671b.json)
+
+---
+
+### Woman and child nabbed with underworld figures in Indonesia repatriated
+
+*2025-08-29 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111989/woman-and-child-nabbed-with-underworld-figures-in-indonesia-repatriated) · `en`
+
+The woman and the small child who were arrested along with several most-wanted Sri Lankan underworld criminal figures, including ‘Kehelbaddara’ Padme, while in Indonesia, have been were brought to the island this evening (29).
+
+It is reported that they had arrived in the country at around 5.50 pm today on flight UL-365 from Jakarta, Indonesia.
+
+Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, and gang members known by the aliases ‘Commando Salintha’, ‘Backhoe Saman’, ‘Thembili Lahiru’ and Kudu Nilantha, were arrested in Jakarta recently, and a woman and a small child who were with them were also taken into custody.
+
+However, it is said that Indonesian authorities have deported the woman and child back to the island since no serious criminal charges have been filed against the woman.
+
+◼️
+
+[Data](articles/08094ffc.json)
 
 ---
 
@@ -1653,99 +1735,5 @@ Accordingly, the High Court Judge directed that he remain in custody until he is
 ...
 
 [Data](articles/fec2fe58.json)
-
----
-
-### පොලීසිය ගැන පොලීසියෙන්ම විමර්ශනයක්
-
-*2025-08-29 10:26:47* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-ගැන-පොලීසියෙන්ම-විමර්ශනයක්/11-418144) · `si`
-
-මිනිස් ජාවාරමකට සම්බන්ධ සැකකරුවෙකු හැටන් මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර අධිකරණ වෙත සැකකරු පිලිබද නිසි කරුණු ඉදිරිපත් නොකරමින් සැකකරුට ඇප ලබා දීම සම්බන්ධයෙන් හැටන් කොට්ඨාශ විශේෂ අපරාධ විමර්ශණ අංශයේ නිළධාරින්ට එරෙහිව විමර්ශණයක් ආරම්භ කරන බව හැටන් කොට්ඨාශ භාර පොලිස් අධිකාරි ප්‍රදිප් වීරසේකර මහතා පැවසිය.
-
-සැකකරු මැදපෙරදිග රටවල විවිධ රැකියා ලබා දෙන බවට පොරොන්දු වී හැටන්, නුවරඑලිය යන ප්‍රදේශවල පුද්ගලයන් රැසකගෙන් රු.ලක්ෂ 12 සිට රු.ලක්ෂ 15 දක්වා මුදල් ලබා ගෙන ඉන් කිහිප දෙනෙකු මැද පෙරදිග රටවලට දින කිහිපයකට පමණක් වීසා ලබා දි එම රටවලට යොමු කිරිමෙන් පසු එම රටවලින් එම පිරිස ආපසු මෙරටට එවා ඇත.
-
-මිනිස් ජාවාරම සිදු කල පුද්ගලයා සම්බන්ධයෙන් හැටන් ප්‍රදේශයේ තරුණයන් පිරිසක් හැටන් කොට්ඨාශයේ විශේෂ අපරාධ විමර්ශණ අංශය වෙත කිහිප වතාවක් පැමිණිලි කිරිමට එම අංශය භාර ස්ථානාධිපතිවරයා එම පැමිණිලි භාර නොගෙන එම පැමිණිලි කොළඹ අපරාධ විමර්ශණ අංශය වෙත ගොස් පැමිණිලි කරන ලෙස දන්වා ඇත.
-
-...
-
-[Data](articles/83051cb0.json)
-
----
-
-### මාතලේ යටවත්තටත් වන අලි ඇවිත්
-
-*2025-08-29 10:09:14* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-යටවත්තටත්-වන-අලි-ඇවිත්/11-418143) · `si`
-
-තුන්පත් රෑනක වන අලි රංචුවක් සමගින් සද්දන්ත තනි අලියකු ද දැනට සති දෙකක පමණ කාලයක් තිස්සේ මාතලේ යටවත්ත ප්‍රාදේශයේ ගම්මුල්ල,දිවිල්ල ආදි ප්‍රදේශවලට මේ දිනවල  සැරිසාරිම නිසා  බෝග වගාවන් විනාශයට පත් කරන බවත් ජන ජිවිතයටද බලපැම් එල්ල වි ඇති බව ගම්වාසිහු කියයි.
-
-වන අලින් මකුළුස්ස කන්දේ දවල් කාලයේ රැදි සිටින බවත් රාත්‍රියේදි ගම්මාන වෙත පැමිණෙන නිසා ජනතාව බියට පත්ව ඇති බවත් තමන් දන්නා ඉතිහාසයේ ප්‍රථම වතාවට මෙම ප්‍රදේශයට වන අලින් පැමිණි අවස්ථාවක් මෙය වන බවත් මේ පිළිබදව අදාළ බලධාරින්ගේ අවධානය යොමු විය යුතු බවද ගම්වාසිහු කියයි.
-
-වන අලින් විසින් ප්‍රදේශයේ නිවාස රැසකට මෙන්ම කෙසෙලේ,පොල් වැනි බෝග වගාවන් විශාල ප්‍රමාණයක් විනාශ කර ඇති බවද ගම්වාසිහු කියයි.
-
-මකුළුස්ස ගම්මානයේ  වගා කර ඇති හෙන් ගොවිතැන සහ එහි ඉදිකර ඇති පැල්පත් ගම්වැදුණු වන අලි විසින් විනාශ කර ඇති බවද ගොවිහු කියයි.
-
-...
-
-[Data](articles/483bb3b4.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields up
-
-*2025-08-29 10:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-238624/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 302.34/40 to the US dollar in the spot market Friday, from 302.23/40 the previous day, while bond yields were up, dealers said.
-
-A bond maturing on 15.09.2027 was quoted at 8.60/70 percent, up from 8.55/62 percent.
-
-A bond maturing on 15.12.2028 was quoted at 9.00/10 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.45/55 percent, down from 9.45/59 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.30/35 percent, up from 10.28/32 percent.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.75 percent, or 156.39 points, at 20,956.65; the S&P SL20 was up 0.77 percent, or 46.39 points, at 6,092.16.
-
-The telegraphic transfer rates for the American dollar was 298.9000 buying, 305.9000 selling; the British pound was 402.5802 buying, and 413.9220 selling, and the euro was 346.3549 buying, 357.5601 selling. (Colombo/Aug29/2025)
-
-◼️
-
-[Data](articles/ac6b0451.json)
-
----
-
-### கிளிநொச்சியில் விபத்து - இரு இளைஞர்கள் உயிரிழப்பு
-
-*2025-08-29 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223656) · `ta`
-
-கிளிநொச்சி ஏ-09 வீதியின் பரந்தன் விவசாயப் பண்ணைக்கும் கரடிப்போக்கு சந்திக்கும் அண்மித்த பகுதியல் டிப்பர் வாகனம், பஸ் மற்றும் மோட்டார் சைக்கிள் என்பன ஒன்றின் பின்னால் ஒன்று மோதி இடம்பெற்ற விபத்தில் இரு இளைஞர்கள் உயிரிழந்துள்ளனர்.
-
-யாழ்ப்பாணத்திலிருந்து இன்று வெள்ளிக்கிழமை (29) அதிகாலை 5.15 மணிக்கு கண்டி நோக்கி பயணித்த பஸ் ஒன்றுடன் பின்னால் வந்த டிப்பர்  வாகனம் மோதி, அதே திசையில் பின்னால் சட்டவிரோத கசிப்பினை கொண்டு வந்த மோட்டார் சைக்கிள் மீது மோதி விபத்து எற்பட்டுள்ளது.
-
-உயிரிழந்தவர்களின் சடலங்கள்  கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளதுடன், சம்பவம் தொடர்பில் கிளிநொச்சி பொலிஸார் விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/41114426.json)
-
----
-
-### Former Minister Rajitha Senaratne appears before court
-
-*2025-08-29 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111971/former-minister-rajitha-senaratne-appears-before-court-) · `en`
-
-Former Minister Rajitha Senaratne, who had been issued a warrant for his arrest, appeared before the Colombo High Court today (29).
-
-The Magistrate’s Court had issued a notice to Senaratne on August 20, directing him to appear before the court, said Ada Derana reporter.
-
-The notice was issued following a request by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), with Colombo Chief Magistrate Thanuja Lakmali issuing a proclamation under Section 60(1) of the Criminal Procedure Code.
-
-Meanwhile, the Colombo High Court decided yesterday (28) to hear a revision petition filed by Rajitha Senaratne, seeking to revise and cancel the warrant issued against him by the Magistrate’s Court.
-
-Accordingly, the Colombo High Court has ordered that notices be issued to the Director General of the Bribery Commission and other officials named as respondents in the petition.
-
-...
-
-[Data](articles/f1de6320.json)
 
 ---

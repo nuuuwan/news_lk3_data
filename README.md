@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 14:09:03**
+As of **2025-08-29 14:23:33**
 
 ## Newspaper Stats
 
-*Scraped **73,052** Articles*
+*Scraped **73,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 7,032
 adaderanalk | 9,280
 tamilmirrorlk | 10,851
 virakesarilk | 11,990
-adaderanasinhalalk | 12,657
+adaderanasinhalalk | 12,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,052 articles have been extended.
+61,973 (84.8%) of 73,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ශෂීන්ද්‍ර යළිත් රිමාන්ඩ්
+
+*2025-08-29 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213930) · `si`
+
+දූෂණය නමැති චෝදනාවක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහේස්ත්‍රාත අධිකරණය නියම කෙරුණි.
+
+ඒ අනුව සැකකරු ලබන 12 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස්. බෝදරගම මහතා නියෝග කළේය.
+
+◼️
+
+[Data](articles/b50b09dc.json)
+
+---
 
 ### அத்துரலியே ரத்தன தேரருக்கும் விளக்கமறியல்
 
@@ -1751,23 +1765,5 @@ Six times Prime Minister Wickremesinghe who served as the eighth Executive Presi
 ◼️
 
 [Data](articles/e86f0880.json)
-
----
-
-### Japan’s trade negotiator cancels US visit over tariff deal snag
-
-*2025-08-28 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/111963/japans-trade-negotiator-cancels-us-visit-over-tariff-deal-snag) · `en`
-
-Japan’s top trade negotiator cancelled a visit to the United States at the last minute on Thursday, further delaying talks designed to finalise a $550 billion investment package offered by Tokyo in exchange for relief on punishing tariffs.
-
-Ryosei Akazawa was due to fly to Washington to craft a written confirmation of the terms of the package, such as the split of investment returns between the U.S. and Japan, a government source previously told Reuters.
-
-U.S. Commerce Secretary Howard Lutnick has also said there would be an announcement this week on Japan’s investment.
-
-‘It was found that there are points that need to be discussed at the administrative level during coordination with the American side. Therefore, the trip has been cancelled,’ Japan’s government spokesperson Yoshimasa Hayashi told reporters on Thursday.
-
-...
-
-[Data](articles/5fcda5c4.json)
 
 ---

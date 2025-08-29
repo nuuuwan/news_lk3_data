@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 13:32:21**
+As of **2025-08-29 13:51:37**
 
 ## Newspaper Stats
 
-*Scraped **73,044** Articles*
+*Scraped **73,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,029
-adaderanalk | 9,277
-tamilmirrorlk | 10,850
+adaderanalk | 9,280
+tamilmirrorlk | 10,851
 virakesarilk | 11,990
-adaderanasinhalalk | 12,656
+adaderanasinhalalk | 12,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,044 articles have been extended.
+61,973 (84.8%) of 73,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### அத்துரலியே ரத்தன தேரருக்கும் விளக்கமறியல்
+
+*2025-08-29 13:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரருக்கும்-விளக்கமறியல்/175-363715) · `ta`
+
+◼️
+
+[Data](articles/f8a6faa6.json)
+
+---
+
+### දකුණු කොරියානු හිටපු ජනපති බිරිඳට අධිචෝදනා
+
+*2025-08-29 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213928) · `si`
+
+බලයෙන් පහකරන ලද දකුණු කොරියානු හිටපු ජනාධිපති යූන් සුක් යිඕල්ගේ බිරිඳ වන කිම් කියෝන් හී හට අල්ලස් ලබාගැනීම ඇතුළු දූෂණ අක්‍රමිකතා සිද්ධීන් කිහිපයකට අදාළව අධිචෝදනා ගොනුකර තිබේ.
+
+දකුණු කොරියාවේ හිටපු ජනපති බිරිඳක් අල්ලස් චෝදනා ලැබූ පළමු අවස්ථාව මෙය බව විදෙස් වාර්තා සඳහන් කරයි.
+
+කොටස් වෙළඳපොළ මූල්‍ය වංචා හා දේශපාලන අරමුදල් වංචා කිරීම් මෙන්ම විවිධ පුද්ගලයින්ගෙන් අල්ලස් ලබාගැනීම සම්බන්ධයෙන් මෙලෙස අධිචෝදනා ගොනුකර ඇත.
+
+රට තුළ යුද නීතිය ප්‍රකාශයට පත්කිරීමේ අසාර්ථක උත්සහයෙන් පසුව ඇතිවූ කලහකාරී වාතාවරණය මත හිටපු ජනාධිපති යූන් සුක් යිඕල් ධුරයෙන් පහ කෙරුණු අතර එම සිද්ධියට අදාළව ඔහුට එරෙහි නඩු විභාගය ද මේ වන විට සිදුවෙමින් පවතී.
+
+තවද, එම සිදුවීමට ආධාර අනුබල ලබාදීම සම්බන්ධයෙන් දකුණු කොරියානු හිටපු අග්‍රාමාත්‍ය හැන් ඩුක්-සූ හට ද අධිචෝදනා ගොනුකර ඇති බව විදෙස් මාධ්‍ය වාර්තාවේ වැඩිදුර දැක්වේ.
+
+◼️
+
+[Data](articles/3c924ac0.json)
+
+---
 
 ### ராஜிதவுக்கு விளக்கமறியல்
 
@@ -50,6 +80,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former MP Ven. Athuraliye Rathana Thero remanded
+
+*2025-08-29 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111979/former-mp-ven-athuraliye-rathana-thero-remanded-) · `en`
+
+Former Member of Parliament Ven. Athuraliye Rathana Thero has been remanded until September 12 after appearing before the Nugegoda Magistrate’s Court this afternoon (29), said Ada Derana reporter.
+
+A warrant for his arrest had been issued on 18 August by the Colombo Magistrate’s Court, according to Police Media Spokesman, Assistant Superintendent of Police F.U. Wootler.
+
+The Police Media Spokesman stated that the warrant was issued following a submission made by the police to the court requesting his arrest.
+
+The hearing is being conducted in connection with investigations into the alleged abduction and detention of the General Secretary of the ‘Ape Jana Bala’ party, Venerable Wedinigama Wimalatissa Thero, reportedly to secure the party’s national list seat in the 2020 general election.
+
+◼️
+
+[Data](articles/664a4b4b.json)
+
+---
+
 ### රතන හිමි රිමාන්ඩ්
 
 *2025-08-29 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213927) · `si`
@@ -63,6 +111,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/984fcefd.json)
+
+---
+
+### Former Minister Rajitha Senaratne remanded until Sep. 9
+
+*2025-08-29 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111978/former-minister-rajitha-senaratne-remanded-until-sep-9) · `en`
+
+Former Minister Rajitha Senaratne, who appeared before the Colombo Magistrate’s Court today (29), has been remanded until September 09.
+
+Colombo Chief Magistrate Asanka S. Bodaragama issued the order after considering the facts presented from the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the defense lawyers.
+
+Senaratne, for whom a warrant had previously been issued, was arrested after appearing before the court this morning (29).
+
+Earlier, Colombo High Court Judge Lanka Jayaratne, who had issued a remand order in connection with another case filed by the Bribery Commission, directed that Senaratne be produced before the Colombo Magistrate’s Court today.
+
+Accordingly, the High Court judge further ordered that he remain in custody until presented before the Magistrate’s Court, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/ed6ef00c.json)
 
 ---
 
@@ -163,6 +231,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/52602223.json)
+
+---
+
+### Former MP Nimal Lanza arrested
+
+*2025-08-29 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111977/former-mp-nimal-lanza-arrested-) · `en`
+
+Former Member of Parliament Nimal Lanza was arrested today (29) after surrendering to the Kochchikade Police.
+
+He is scheduled to be produced before the Negombo Magistrate’s Court later today (29), said Ada Derana reporter.
+
+The Attorney General has filed charges against the former State Minister in connection with an assault and trespassing incident that occurred during a protest in 2006.
+
+◼️
+
+[Data](articles/66597342.json)
 
 ---
 
@@ -1691,103 +1775,5 @@ This raid was carried out by Wilpattu National Park officials based on intellige
 ◼️
 
 [Data](articles/988e9441.json)
-
----
-
-### පද්මේ ඇතුළු පාතාල චණ්ඩි ඉන්දුනීසියාවේ දී කොටු වූ හැටි
-
-*2025-08-28 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213904) · `si`
-
-ගණේමුල්ල සංජීව ඝාතනය ඇතුළු මිනිස් ඝාතන රැසකට සහ මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ සංවිධානාත්මක අපරාධ කල්ලි නායකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05 දෙනෙකු ඉන්දුනීසියාවේදී අත්අඩංගුවට ගත් ආකාරය ගැන තවත් කරුණු මේ වනවිට අනාවරණය වී තිබේ.
-
-ශ්‍රී ලංකා පොලීසියේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ විශේෂ මෙහෙයුමකදී අත්අඩංගුවට ගත් මෙම පිරිස කඩිනමින් දිවයිනට ගෙන්වා ගැනීමට නියමිතය.
-
-මෙම අපරාධකරුවන් අතරින් මන්දිනු පද්මසිරි හෙවත් කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත හා කුඩු නිලංග ඉන්දුනීසියාවේ ජකර්තා නුවර සැඟවී සිටින බවට පොලීසියට විශ්වාසදායි තොරතුරක් පසුගියදා ලැබී තිබේ.
-
-ඒ අනුව අදාළ පිරිස අත්අඩංගුවට ගැනීම සඳහා පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ සෘජු අධීක්ෂණය යටතේ රහසිගත මෙහෙයුමක් ක්‍රියාත්මක කර ඇත.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති අසංක කරවිට මහතාගේ උපදෙස් මත ඒ සඳහා බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහකාර පොලිස් අධිකාරී මහින්ද ජයසුන්දර යන නිලධාරීන් දෙදෙනා මීට දින 7කට පමණ පෙර ඉන්දුනීසියාව බලා පිටත්කර තිබේ.
-
-...
-
-[Data](articles/79c9c150.json)
-
----
-
-### විල්පත්තුවේ ගැබ්බර මුවදෙනක් මරා දමලා
-
-*2025-08-28 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213903) · `si`
-
-විල්පත්තුව ජාතික වනෝද්‍යානයට අයත් කුකුල්කටුව බිට්ටු වනජීවි කලාපයේ ගැබ්බර මුවදෙනකු වෙඩිතබා මරාදැමූ සැකකරුවන් පස්දෙනෙකු වනජීවි නිලධාරීන් විසින් අද (28) අලුයම සිය භාරයට ගෙන තිබේ.
-
-මෙලෙස භාරයට ගෙන ඇත්තේ රණෝරාව, නොච්චියාගම, අනුරාධපුර ප්‍රදේශයන්හි පදිංචි වයස අවුරුදු 31,40 හා 52 යන වයස් සීමාවන්වල පදිංචි පිරිසක්ය.
-
-මෙම වෙඩිතැබීමට යොදාගත් ගිනිඅවිය හා ඔවුන් පැමිණි යතුරුපැදි 2ක්ද වනජීවි නිලධාරීන් සිය භාරයට ගෙන තිබේ.
-
-නියඟයත් සමග ජලය සොයා රාත්‍රී කාලවලදී වනෝද්‍යානයට තුළ සැරිසරන වන සතුන් මරා මස් පිණිස අලෙවිකිරීමේ ජාවාරමක මෙම පිරිස නිරන්තරයෙන් සිදුකර ඇති අතර, ඒ සම්බන්ධයෙන් ලද තොරතුරු මත මෙම වැටලීම සිදුකර ඇත.
-
-විල්පත්තුව ජාතික වනෝද්‍යාන භාරකරු ආර්. ඒ. ඩී. ඩී. සමරනායක මහතාගේ උපදෙස් මත කුකුල්කටුව අඩවි සහකාර කේ. පී. උදය කරුණානායක, වනසත්ව නියාමකයින් වන පී. යු.සඳරුවන්, ඩබ්ලියු. එස්. යු. කුමාර, ක්ෂේත්‍ර සහායක ධනුෂ්ක උදයංග, සිවිල් ආරක්ෂක නිලධාරීන් වන සේ. ඒ. දිසානායක, පී. එස්. දිසානායක, එච්. එම්. ඩී. අයි. හේරත්, බහුකාර්ය නියාමක කේ. ඒ.ඒ. ගුණසේකර, ආර්. පී. ඩී. ජේ. සෙනෙවිරත්න යන නිලධාරින් එක්ව මෙම වැටලීම සිදුකර තිබේ.
-
-◼️
-
-[Data](articles/4deb18e1.json)
-
----
-
-### டல்சா கப்பலில் இலங்கை பாதுகாப்புப் தரப்பினருக்கு வரவேற்பு : அமெரிக்க - இலங்கை உறவு வலுப்பெறுகிறது !
-
-*2025-08-28 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/223642) · `ta`
-
-இலங்கையின் பாதுகாப்புத் தரப்பினர்களான இலங்கை கடற்படை, இலங்கை பொலிஸ் ஊடகப் பிரிவு உள்ளிட்ட சட்டமா அதிபர் திணைக்களம் மற்றும் சுங்கத் திணைக்கள அதிகாரிகள் இன்று USS டல்சா கப்பலுக்கு சென்றனர்.  அவர்களுக்கு அமெரிக்க கடற்படையினர் உற்சாக வரவேற்பு அளித்தனர்.
-
-USS டல்சா கப்பல் மற்றும் அதன் குழுவினருக்கு இலங்கை வழங்கிய அன்பான வரவேற்புக்கு அமெரிக்கா தனது ஆழ்ந்த நன்றியைத் தெரிவித்துக் கொண்டது.
-
-இது குறித்து இலங்கையில் உள்ள அமெரிக்கத் தூதரகத்தின் உத்தியோகபூர்வ எக்ஸ் தளத்தில் குறிப்பிடப்பட்டுள்ளதாவது,
-
-“இந்த விஜயம் இரு நாடுகளுக்கும் இடையிலான வலுவான பங்காண்மையையும், சுதந்திரமான மற்றும் திறந்த இந்தோ-பசிபிக் பிராந்தியத்தை மேம்படுத்துதல், கடல் வழிகளைப் பாதுகாத்தல் மற்றும் பிராந்திய செழிப்பை உறுதி செய்தல் ஆகிய பொதுவான இலக்குகளை நோக்கி இணைந்து பணியாற்றும் விதம் ஆகியவற்றை எடுத்துக்காட்டுகிறது.
-
-...
-
-[Data](articles/c5416735.json)
-
----
-
-### மூங்கிலாறு பகுதியில் சந்தேகத்திற்கிடமான முறையில் மூதாட்டி ஒருவரின் சடலம் மீட்பு
-
-*2025-08-28 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223641) · `ta`
-
-மூங்கிலாறு பகுதியில் சந்தேகத்திற்கிடமான முறையில்  மூதாட்டி ஒருவருடைய சடலம் மீட்கப்பட்ட சம்பவம் ஒன்று 28ஆம் திகதி வியாழக்கிழமை இடம்பெற்றுள்ளது.
-
-புதுக்குடியிருப்பு பிரதேச செயலாளர் பிரிவிற்குட்பட்ட உடையார்கட்டு வடக்கு மூங்கிலாறு 200 வீட்டுதிட்டம் பகுதியில் சந்தேகத்திற்கிடமான முறையில் கொலை செய்யப்பட்டதாக சந்தேகிக்கப்படும் வீட்டில் தனிமையில் வசித்து வந்த கோபாலன் குண்டுமணி 84 வயதுடைய  பெண்மணியினுடைய சடலம் புதுக்குடியிருப்பு பொலிசாரால் மீட்கப்பட்டுள்ளது.
-
-குறித்த மரணம் தொடர்பாக புதுக்குடியிருப்பு பொலிசார் மேலதிக விசாரணை மேற்கொண்டுவருவதுடன் குறித்த சடலத்தை முல்லைத்தீவு நீதவான் நேரடியாக பார்வையிட்ட பின்னர் உடற்கூற்று பரிசோதனைகளுக்காக சடலம் பொலிசாரால் எடுத்துச் செல்லப்பட்டிருக்கின்றது.
-
-ஏற்கனவே 2021ம் ஆண்டு இளம் பெண்ணான நிதர்சனா என்ற இளம்பெண் சந்தேகத்திற்கிடமான முறையில் மரணம் இடம்பெற்ற குறித்த பகுதியிலே இவ் மூதாட்டியின் மரணம் இடம்பெற்றுள்ளமை அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
-
-குறித்த மரணம் எவ்வாறு இடம்பெற்றது? கொலையா? மரணத்திற்கான காரணம் என்ன? பல்வேறு கோணத்தில் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/e7d32241.json)
-
----
-
-### UK, France and Germany move to reimpose UN sanctions on Iran
-
-*2025-08-28 20:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/111960/uk-france-and-germany-move-to-reimpose-un-sanctions-on-iran) · `en`
-
-The UK, France and Germany have begun the process of restoring major UN sanctions on Iran - lifted under a 2015 deal - as tensions once again escalate over Iran’s nuclear programme.
-
-The move will trigger a so-called snapback mechanism, which could result in the return of sanctions in 30 days.
-
-The three countries, participants in the 2015 deal, warned two weeks ago that they were ready to do this unless Iran agreed to a “diplomatic solution” by the end of August.
-
-Talks between Iran and the US over its nuclear programme have not resumed since June when the US bombed Iranian nuclear sites and Iran barred UN-backed inspectors from accessing its facilities.
-
-The snapback provision was built into the 2015 accord and allows for a participant to initiate the process to bring back sanctions if they believe Iran has significantly failed to fulfil its nuclear commitments by notifying the UN Security Council.
-
-...
-
-[Data](articles/ee36a8c7.json)
 
 ---

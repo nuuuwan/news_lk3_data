@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 00:49:14**
+As of **2025-08-30 01:04:41**
 
 ## Newspaper Stats
 
-*Scraped **73,137** Articles*
+*Scraped **73,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 749
 economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
-dailyftlk | 5,173
+dailyftlk | 5,178
 adalk | 7,044
 adaderanalk | 9,289
 tamilmirrorlk | 10,864
@@ -26,9 +26,95 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,137 articles have been extended.
+61,973 (84.7%) of 73,142 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-30 (Saturday)
+
+### Sri Lanka Vanithabhimana 2025 Grand Finale
+
+*2025-08-30 00:39:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Vanithabhimana-2025-Grand-Finale/34-780986) · `en`
+
+NDB Bank, in partnership with NewsFirst, celebrated the Grand Finale of the Sri Lanka Vanithabhimana Awards on 20 August, honouring extraordinary women across the island and marking a milestone season that advanced beyond recognition to long-term empowerment through the program’s five-year sustainability model.
+
+This year built on the initiative’s expanded structure, including the introduction of the Digital Entrepreneur and Foreign Employment categories, while continuing to champion financial literacy, enterprise growth and market access for women nationwide.
+
+At the heart of the evening was the coveted Most Popular Woman title, decided by public SMS voting from a shortlist of five national personalities which included Anudi Gunasekara, Tharindi Fernando, Kanchana Anuradhi, Lochana Jayakodi and Shanudrie Priyasad. The title was awarded to Anudi Gunasekara.
+
+...
+
+[Data](articles/04ba1a21.json)
+
+---
+
+### People’s Bank presents prizes to winners of ‘People’s Debit Card  Gedaratama Thagi – 02’ grand draw
+
+*2025-08-30 00:38:31* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-presents-prizes-to-winners-of-People-s-Debit-Card-Gedaratama-Thagi-02-grand-draw/34-780985) · `en`
+
+People’s Bank recently presented prizes to the three grand prize winners of the ‘People’s Debit Card Gedaratama Thagi – 02’ draw (March – May 2025).
+
+Accordingly, S.D.R.N. Senevirathne of Horana received Rs. 1 million, T.T.S.A. Munidasa of Kegalle won Rs. 500,000, and W.A.S. Shiromi of Mulleriyawa received Rs. 250,000 worth of valuable household electronic appliances. The People’s Bank Card Centre made special arrangements to deliver these prizes directly to the winners’ doorsteps.
+
+In addition, 150 lucky winners of the monthly draws were rewarded with supermarket vouchers worth Rs. 25,000 each.
+
+The prize-giving was attended by People’s Bank Deputy General Manager – Payment and Cards Nilmini Premalal, and Cards Head Jayanath Dias, along with Regional Managers, Card Centre Managers, Branch Managers, and other officers.
+
+The ‘People’s Debit Card Gedaratama Thagi’ promotion was conducted from 1 March 2025 to 31 May 2025, with the total value of prizes amounting to Rs. 5.5 million.
+
+◼️
+
+[Data](articles/666a56cf.json)
+
+---
+
+### GDF unites world leaders and experts in Colombo
+
+*2025-08-30 00:37:53* · [`dailyftlk`](https://www.ft.lk/business/GDF-unites-world-leaders-and-experts-in-Colombo/34-780984) · `en`
+
+Explore unique AI-powered green energy, food security and cybersecurity applications
+
+The Global Dialogue Forum (GDF), in partnership with the iconic Club of Rome’s India affiliate, will host an international conclave on 20 September 2025, from 9 a.m. to 6.30 p.m. at the Galle Face Hotel, Colombo to explore the frontiers that Artificial Intelligence (AI) can breach to overcome green energy, food security and cybersecurity challenges.
+
+Where it differs from the usual recent technology conferences is the firm focus on the practical and sustainable applications of AI.
+
+With leading global experts, policy framers, decision makers and innovators, the conference will look at AI’s game changing role in the transitioning from fossil to green energy in all its forms – from solar to wind to hydrogen, in sharply enhancing agricultural productivity and water management to rid the world of hunger; all these underscored by cybersecurity which provides protection to the network systems.
+
+...
+
+[Data](articles/4a30a7d9.json)
+
+---
+
+### Bling Productions and Eyeon win big at WOW Awards Asia 2025 for South Asia’s first immersive digital art space ‘Pixel Bloom’ at Colombo Lotus Tower
+
+*2025-08-30 00:37:37* · [`dailyftlk`](https://www.ft.lk/business/Bling-Productions-and-Eyeon-win-big-at-WOW-Awards-Asia-2025-for-South-Asia-s-first-immersive-digital-art-space-Pixel-Bloom-at-Colombo-Lotus-Tower/34-780983) · `en`
+
+In a landmark achievement for the Sri Lankan event industry, Bling Productions and Eyeon recently clinched two Silver awards and one Bronze award at WOW Awards Asia 2025—Asia’s most prestigious platform for recognising excellence in events and experiential marketing.
+
+The team was awarded for their pioneering work on ‘Pixel Bloom,’ a permanent immersive digital art experience at the Colombo Lotus Tower, winning across three key categories in Experiential Tech, namely Achievement in Projection Mapping (Silver), Achievement in Audio-Visual Solutions (Bronze), and Innovative Use of Event Tech Software (Silver).
+
+Pixel Bloom was conceptualised and developed by Bling Productions and Eyeon Digital Motion, in close partnership with the Colombo Lotus Tower, showcasing what’s possible when creative technology meets national infrastructure.
+
+...
+
+[Data](articles/fc9ce26a.json)
+
+---
+
+### Lankan envoy meets Federation of the  Pakistan Chamber of Commerce and Industry
+
+*2025-08-30 00:35:54* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-meets-Federation-of-the-Pakistan-Chamber-of-Commerce-and-Industry/34-780982) · `en`
+
+High Commissioner–designate of Sri Lanka to Pakistan, Rear Admiral Fred Senevirathna, held a meeting with the FPCCI President on 13 August, at the President’s Office of the Federation Chamber of Commerce and Industry in Islamabad.
+
+FPCCI President Atif Ikram Sheikh, along with its members, extended a warm welcome to the High Commissioner-designate of Sri Lanka and congratulated him on his appointment. He noted that the visit symbolises the strong and longstanding friendship between Sri Lanka and Pakistan, rooted in mutual respect, regional cooperation, and historical goodwill.
+
+...
+
+[Data](articles/fb29702d.json)
+
+---
 
 ### 2025-08-29 (Friday)
 
@@ -1657,91 +1743,5 @@ The Attorney General has filed charges against the former State Minister in conn
 ◼️
 
 [Data](articles/66597342.json)
-
----
-
-### Ukraine’s “Largest” naval ship sunk in Russia’s first sea drone attack
-
-*2025-08-29 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111976/ukraines-largest-naval-ship-sunk-in-russias-first-sea-drone-attack) · `en`
-
-Ukrainian Navy’s reconnaissance ship Simferopol, which was reportedly the largest ship commissioned by the country in over a decade, has been hit and sunk in a naval drone strike, the Russian Defence Ministry announced on Thursday.
-
-The Laguna-class, medium-sized ship, designed for radio, electronic, radar, and optical reconnaissance, was struck in the delta of the River Danube, part of which is located in Ukraine’s Odessa Region, a Defence Ministry statement said, RT reported.
-
-This was the first successful use of a sea drone to take out a Ukrainian Navy vessel, as per a TASS report citing a UAV expert, the RT added.
-
-The attack killed one crew member and injured multiple others, the Kiev Independent wrote on Thursday, citing a Ukrainian Navy spokesperson.
-
-“Efforts to address the aftermath of the attack are ongoing. The majority of the crew are safe, and the search for several missing sailors continues,” it cited the spokesperson as saying.
-
-...
-
-[Data](articles/879f881a.json)
-
----
-
-### அத்துரலியே ரத்தன தேரர் ஆஜர்
-
-*2025-08-29 12:07:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரர்-ஆஜர்/175-363710) · `ta`
-
-பிடியாணை உத்தரவு பிறப்பிக்கப்பட்டுள்ள முன்னாள் பாராளுமன்ற உறுப்பினர் அத்துரலியே ரத்தன தேரர்  நுகேகொடை நீதவான் நீதிமன்றில்  வெள்ளிக்கிழமை (29) காலை ஆஜராகியுள்ளார்.
-
-◼️
-
-[Data](articles/015ade1c.json)
-
----
-
-### மேல் நீதிமன்றத்தில் இருந்து நீதவான் நீதிமன்றில் ஆஜர்
-
-*2025-08-29 12:05:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-நீதிமன்றத்தில்-இருந்து-நீதவான்-நீதிமன்றில்-ஆஜர்/175-363709) · `ta`
-
-கொழும்பு மேல் நீதிமன்றத்தால் விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் அமைச்சர் ராஜித சேனாரத்ன, கொழும்பு நீதவான் நீதிமன்றத்திற்கு சிறைச்சாலைப் பேருந்தில் அழைத்து வரப்பட்டு, தற்போது  நீதிமன்றத்தில் தடுத்து வைக்கப்பட்டுள்ளார்.
-
-லஞ்ச வழக்கில் கொழும்பு மேல் நீதிமன்றத்தில் ஆஜரான   ராஜித சேனாரத்னவை கொழும்பு மேல் நீதிமன்ற நீதிபதி லங்கா ஜெயரத்ன, விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு முன்வைத்த உண்மைகளை பரிசீலித்த நீதிமன்றம், நீதிமன்றத்தைத் தவிர்க்கும் சந்தேக நபராகவும், கொழும்பு பிரதான நீதவான் நீதிமன்றத்திலிருந்து பிடியாணை பெற்ற நபராகவும் ராஜித சேனாரத்ன இருப்பதால் அவரை விளக்கமறியலில் வைக்க உத்தரவிட்டது.
-
-◼️
-
-[Data](articles/8533edeb.json)
-
----
-
-### මහ බැංකුවේ 75 වන සැමරුමට රු 2,000 නව සමරු නෝට්ටුව ජනපතිට පිළිගැන්වේ
-
-*2025-08-29 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213922) · `si`
-
-ශ්‍රී ලංකා මහ බැංකුව සිය 75 වන සංවත්සර සැමරුම නිමිත්තෙන් නිකුත් කළ රුපියල් 2,000 නව සමරු නෝට්ටුව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා විසින් අද (29) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත පිළිගැන්වීය.
-
-සංසරණය සඳහා යොදන සමරු මුදල් නෝට්ටුවක් ලෙස මෙය නිකුත් කර තිබෙන අතර, මෙම මුදල් නෝට්ටුව ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කරන ලද 5 වන සමරු මුදල් නෝට්ටුවයි.
-
-ජාතික සංවර්ධනය සඳහා පදනම ලෙස ආර්ථික ස්ථාවරත්වය වර්ධනය කිරීම වෙනුවෙන් මහ බැංකුවේ නොනවතින කැපවීම පිළිබිඹු කරමින් "සමෘද්ධිය සඳහා ස්ථාවරත්වය" යන සංවත්සර තේමාව අනුව මෙම මුදල් නෝට්ටුව නිකුත් කර ඇත.
-
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක, ශ්‍රී ලංකා මහ බැංකුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය අධිපති කේ.එම්.ඒ.එන්.දවුලගල, සහකාර අධිපති කේ.ජී.පී.සිරිකුමාර, ව්‍යවහාර මුදල් දෙපාර්තමේන්තුවේ අධිපති පී.ඩී.ආර්. දයානන්ද යන මහත්ම මහත්මීහුද මෙම අවස්ථාවට එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/ec44732f.json)
-
----
-
-### `` 15 நாள் கணவனுடன், 15 நாள் காதலனுடன்’’ : பெண் போட்ட நிபந்தனை
-
-*2025-08-29 11:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/15-நாள்-கணவனுடன்-15-நாள்-காதலனுடன்-பெண்-போட்ட-நிபந்தனை/53-363708) · `ta`
-
-திருமணமான பெண் ஒருவர், கடந்த ஒரு ஆண்டில் தனது காதலனுடன் 10 முறை வீட்டை விட்டு ஓடியுள்ளார். உத்தரப்பிரதேசத்தில் உள்ள ராம்பூர் என்ற இடத்தில் வசிக்கும் சுக்ராம் என்பவர், கடந்த ஒரு ஆண்டுக்கு முன்பு மேகா என்ற பெண்ணை திருமணம் செய்து கொண்டார்.
-
-திருமணமாகி கணவன் வீட்டிற்கு வந்த மேகா, அதே பகுதியைச் சேர்ந்த ஒருவரை காதலிக்க ஆரம்பித்தார். ஒருசமயத்தில் காதலனுடன் ஓடிவிட்டார்.
-
-மனைவியை அழைத்து வரும்படி ஊர்பெரியவர்கள் சுக்ராமை நிர்பந்தித்தனர். இதனால் மனைவி இருக்கும் இடத்தை தேடி கண்டுபிடித்து, அவரை வீட்டிற்கு அழைத்து வந்தார்.
-
-சுக்ராம் தனது மனைவியை வீட்டிற்கு அழைத்து வந்துவிட்டாலும், அவரது மனைவி தொடர்ந்து வீட்டில் இருக்கவில்லை. அடிக்கடி தனது காதலனை தேடி செல்வதை வழக்கமாகக் கொண்டிருந்தார்.
-
-ஒவ்வொரு முறையும் சுக்ராம் சென்று கெஞ்சிக்கொண்டு தனது மனைவியை வீட்டிற்கு அழைத்து வருவது வழக்கம். அவர் வீட்டிற்கு அழைத்து வருவதும், மேகா மீண்டும் காதலனுடன் ஓடுவதும் தொடர்கதையாக இருந்தது.
-
-...
-
-[Data](articles/db583ff4.json)
 
 ---

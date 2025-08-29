@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 09:04:07**
+As of **2025-08-29 09:36:10**
 
 ## Newspaper Stats
 
-*Scraped **72,995** Articles*
+*Scraped **72,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,022
 adaderanalk | 9,269
-tamilmirrorlk | 10,838
+tamilmirrorlk | 10,840
 virakesarilk | 11,984
 adaderanasinhalalk | 12,640
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,995 articles have been extended.
+61,973 (84.9%) of 72,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ரணில் குறித்து தற்போது வெளியான விஷேட செய்தி
+
+*2025-08-29 08:33:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-குறித்து-தற்போது-வெளியான-விஷேட-செய்தி/175-363703) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையின் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வரும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று சாதாரண அறைக்கு மாற்றப்படுவார் என்று வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதற்கிடையில், வைத்தியசாலையில் தொடர்ந்து சிகிச்சை பெறுவாரா இல்லையா என்பதை ரணில் விக்ரமசிங்க அல்லது அவரது குடும்பத்தினர்தான் முடிவு செய்ய வேண்டும் என்றும் தெரிவிக்கப்படுகின்றது.
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள ரணில் விக்ரமசிங்க, மேலதிக சிகிச்சைக்காக கடந்த 23 ஆம் திகதி சிறைச்சாலை வைத்தியசாலையில் இருந்து கொழும்பு தேசிய வைத்தியசாலையின் தீவிர சிகிச்சைப் பிரிவுக்கு மாற்றப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/0933035c.json)
+
+---
 
 ### கிளிநொச்சி கோர விபத்தில் இருவர் மரணம்
 
@@ -81,6 +97,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/930c91d7.json)
+
+---
+
+### ஜப்பான், சீனாவுக்கு மோடி பயணம்
+
+*2025-08-29 08:05:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பான்-சீனாவுக்கு-மோடி-பயணம்/50-363700) · `ta`
+
+ஜப்பான், சீனாவில் பிரதமர் மோடி 4 நாட்கள் அரசு முறை பயணம் மேற்கொள்கிறார்.
+
+முதல்கட்டமாக அவர் நேற்று ஜப்பான் தலைநகர் டோக்கியோவுக்கு புறப்பட்டார். அங்கிருந்து சீனா செல்லும் அவர் ஆகஸ்ட் 31  திகதி ஜி ஜின்பிங்கை சந்தித்துப் பேசுகிறார்.
+
+ஜப்பான் தலைநகர் டோக்கியோவில் 15 ஆவது இந்திய, ஜப்பான் வருடாந்திர உச்சி மாநாடு ஆகஸ்ட் 29, 30 ஆம் திகதிகளில் நடைபெறுகிறது. இதில் பங்கேற்பதற்காக பிரதமர் மோடி நேற்று டெல்லியில் இருந்து டோக்கியோவுக்கு புறப்பட்டார். இந்த மாநாட்டில் ஜப்பான் பிரதமர் ஷிகேரு இஷிபாவை, அவர் சந்திக்கிறார். அப்போது பாதுகாப்பு, வர்த்தகம் உள்ளிட்ட பல்வேறு துறைகளில் இரு நாடுகள் இடையிலான உறவை மேலும் வலுப்படுத்துவது குறித்து அவர்கள் ஆலோசனை நடத்த உள்ளனர்.
+
+டோக்கியாவில் இருந்து நாளை பிரதமர் நரேந்திர மோடி சீனாவின் தியான்ஜின் நகருக்கு செல்கிறார். அங்கு ஓகஸ்ட் 31, செப்ரம்பர் 1 ஆகிய திகதிகளில் நடைபெற உள்ள ஷாங்காய் ஒத்துழைப்பு அமைப்பின் உச்சி மாநாட்டில் (எஸ்.சி.ஓ) அவர் பங்கேற்கிறார்.
+
+...
+
+[Data](articles/53109a76.json)
 
 ---
 
@@ -197,8 +231,6 @@ An official from the Department stated that Child Rights Promotion Officers are 
 *2025-08-29 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213909) · `si`
 
 ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා මෙවර ග්ලෝබල් ෆයිනෑන්ස් මහ බැංකුකරු (Global Finance’s Central Banker Report Cards 2025)  'A'ශ්‍රේණියක් ලබාගැනීමට සමත්ව තිබේ.
-
-මෙම ඉහළම මට්ටමේ පිළිගැනීමත් සමග නන්දලාල් වීරසිංහ මහතාගේ නාමයද ලොව පුරා සිටින ගෞරවනීය ප්‍රභූ මහ බැංකු අධිපතිවරුන් අතරට එක්ව ඇත.
 
 ශ්‍රී ලංකාව මුහුණදුන් ආර්ථික අර්බුදයේ දී මෙරට ආර්ථිකය ස්ථාවර කිරීමට ඔහු දැක්වූ සුවිශේෂී දායකත්වය සහ උපායමාර්ගික දැනුම සැලකිල්ලට ගෙන ඔහුට මෙම 'A'ශ්‍රේණිය ලබා දී තිබේ.
 
@@ -1745,39 +1777,5 @@ According to police, the suspect has been identified as a 52-year-old former urb
 ...
 
 [Data](articles/fe75dbea.json)
-
----
-
-### Sri Lanka stocks close up 0.23-pct, S&P SL20 dips
-
-*2025-08-28 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-23-pct-sp-sl20-dips-238567/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed 0.23 percent higher following a highly volatile session, brokers said.
-
-“There was volatility in the market. Sizeable upward trend in the morning was seen. Slight profit taking was there but it didn’t last for too long,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-The ASPI climbed 47.05 points on Thursday to close at 20,800.26; while the S&P SL20 index dipped 0.27 percent, or 16.67 points, to close at 6,045.77.
-
-“Investors are moving into not so popular stocks. Not really from a particular sector as well,” Mathew said. “These were mostly low market cap stocks; slightly lower levels of liquidity.”
-
-...
-
-[Data](articles/af362211.json)
-
----
-
-### නවීන ජංගම දුරකථන ඇතුළු භාණ්ඩ තොගයක් කටුනායකදී කොටුවෙයි
-
-*2025-08-28 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213895) · `si`
-
-රුපියල් කෝටි දෙකක පමණ වටිනාකමකින් යුත් නවීන ජංගම දුරකථන සහ කරදමුංගු තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ ශ්‍රී ලාංකික ගුවන් මගියෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
-
-අද (28) උදෑසන කටුනායක ගුවන්තොටුපොළේ හරිත මාවත ඔස්සේ එම භාණ්ඩ පිටතට රැගෙන යාමට තැත් කිරීමේදී රේගු නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
-
-ඔහුගේ ගමන් මලු 06ක් තුළ තිබී නීතිවිරෝධී ජංගම දුරකථන 165ක් සහ කරදමුංගු කිලෝග්‍රෑම් 102ක් සොයාගෙන තිබේ.
-
-◼️
-
-[Data](articles/faa118d7.json)
 
 ---

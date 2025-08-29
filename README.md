@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 13:51:37**
+As of **2025-08-29 14:09:03**
 
 ## Newspaper Stats
 
-*Scraped **73,049** Articles*
+*Scraped **73,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,029
+adalk | 7,032
 adaderanalk | 9,280
 tamilmirrorlk | 10,851
 virakesarilk | 11,990
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,657
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,049 articles have been extended.
+61,973 (84.8%) of 73,052 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -35,6 +35,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ### அத்துரலியே ரத்தன தேரருக்கும் விளக்கமறியல்
 
 *2025-08-29 13:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரருக்கும்-விளக்கமறியல்/175-363715) · `ta`
+
+அவர்  நுகேகொட நீதவான் நீதிமன்றத்தில் ஆஜரான பின்னர் செப்டெம்பர் 12 ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
 
 ◼️
 
@@ -59,6 +61,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3c924ac0.json)
+
+---
+
+### රාජිත ලබන 09 දා තෙක් රිමාන්ඩ්
+
+*2025-08-29 13:20:48* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-ලබන-09-දා-තෙක්-රිමාන්ඩ්/11-418148) · `si`
+
+හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා එළඹෙන 9 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය රාජිත සේනරත්න අධිකරණයට ඉදිරිපත් නොවී සිටියත් අද දිනයේදී මුලින්ම කොළඹ මහාධිකරණය හමුවේ පෙනී සිටීමෙන් අනතුරුව රිමාන්ඩ් භාරයට පත්කරන ලදී.
+
+ඉන් අනතුරුව ඔහු කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව මෙයේ යළිත් ලබන 9 දා තෙක් රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+
+◼️
+
+[Data](articles/9f8e8969.json)
+
+---
+
+### නිමල් ලන්සා අත්අඩංගුවට
+
+*2025-08-29 13:10:11* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-අත්අඩංගුවට/11-418147) · `si`
+
+2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා අත්අඩංගුවට ගෙන තිබේ.
+
+කොච්චිකඩේ පොලීසියට භාර වීමෙන් අනතුරුව හිටපු අමාත්‍යවරයා අත්අඩංගුවට ගෙන ඇති අතර ඔහු අද දිනයේදි මීගමුව මහේස්ත්‍රාත් අධිකරණයට  ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/2beb1647.json)
 
 ---
 
@@ -1737,43 +1769,5 @@ U.S. Commerce Secretary Howard Lutnick has also said there would be an announcem
 ...
 
 [Data](articles/5fcda5c4.json)
-
----
-
-### New details emerge on arrest of five underworld figures including  Kehelbaddara Padme’ in Indonesia
-
-*2025-08-28 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/111962/new-details-emerge-on-arrest-of-five-underworld-figures-including-kehelbaddara-padme-in-indonesia) · `en`
-
-New details have emerged regarding the arrest of five high-profile underworld figures, including Kehelbaddara Padme, who are linked to multiple murders—including the killing of Ganemulla Sanjeewa—and major drug trafficking operations.
-
-The suspects were apprehended during a joint special operation conducted by a special team of Sri Lanka Police in collaboration with the Jakarta Police. Authorities are preparing to bring them back to Sri Lanka promptly, according to police sources.
-
-Among those arrested are Mandinu Padmasiri, alias Kehelbaddara Padme, Commando Salintha, and Kudu Nilantha, who were believed to be hiding in Jakarta. Sri Lankan police recently received credible intelligence regarding their whereabouts.
-
-Following this, a covert operation was launched under the direct supervision of Inspector General of Police Priyantha Weerasooriya.
-
-...
-
-[Data](articles/9e7dde94.json)
-
----
-
-### Several arrested for killing pregnant spotted deer in Wilpattu National Park
-
-*2025-08-28 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111961/several-arrested-for-killing-pregnant-spotted-deer-in-wilpattu-national-park) · `en`
-
-A total of five individuals have been arrested today (28) by wildlife officers for allegedly shooting and killing a pregnant spotted deer in the Kukulkatuwa -Bittuwa wildlife zone, within the Wilpattu National Park.
-
-The arrested individuals, aged 31, 40, and 52 are residents of Ranorawa, Nochchiyagama, and Anuradhapura.
-
-The firearm used in the shooting and two motorcycles used by the suspects were also taken into custody by the wildlife officers.
-
-It is reported that the group has been repeatedly involved in poaching wild animals that meander within the national park at night in search of water during the dry season. They have allegedly been killing the animals and selling the meat.
-
-This raid was carried out by Wilpattu National Park officials based on intelligence received regarding their activities.
-
-◼️
-
-[Data](articles/988e9441.json)
 
 ---

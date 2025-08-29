@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 06:09:21**
+As of **2025-08-29 06:33:45**
 
 ## Newspaper Stats
 
-*Scraped **72,977** Articles*
+*Scraped **72,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,020
 adaderanalk | 9,264
-tamilmirrorlk | 10,832
+tamilmirrorlk | 10,833
 virakesarilk | 11,984
 adaderanasinhalalk | 12,635
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,977 articles have been extended.
+61,973 (84.9%) of 72,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### செம்மணியில் நேற்று 8 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-08-29 06:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-8-எலும்புக்கூடுகள்-அடையாளம்/175-363696) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது புதிதாக 8 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
+
+இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் அடையாளம் காணப்பட்ட மனித என்புத் தொகுதிகளின் எண்ணிக்கை 177  ஆக அதிகரித்துள்ளது.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 36 ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
+
+ஏற்கனவே அடையாளம் காணப்பட்ட 6 மனித எலும்புக்கூட்டுத் தொகுதிகள் நேற்று முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை மொத்தமாக 164 மனித எலும்புக்கூட்டுத் தொகுதிகள் முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/082e11f0.json)
+
+---
 
 ### Closing gender gap is economic strategy, boosts country’s  GDP: Prime Minister
 
@@ -1082,7 +1100,7 @@ Turn off at the Pasyala Junction, proceed via Nittambuwa – Giriulla Road to Mi
 
 ---
 
-### Sri Lanka’s Siyapatha Finance to raise Rs4bn in debenture issue
+### Sri Lanka’s Siyapatha Finance to raise Rs4bn from debentures
 
 *2025-08-28 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-siyapatha-finance-to-raise-rs4bn-in-debenture-issue-238597/) · `en`
 
@@ -1753,23 +1771,5 @@ The  issue is subject to obtaining the necessary regulatory approvals. (Colombo/
 ◼️
 
 [Data](articles/1576e7fc.json)
-
----
-
-### SLAF warns against kite flying near airports
-
-*2025-08-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/111945/slaf-warns-against-kite-flying-near-airports-) · `en`
-
-The Sri Lanka Air Force (SLAF) has warned the public regarding the potential dangers to aircraft operations associated with kite flying, which is a popular activity in the country these days.
-
-SLAF states that kite flying in the vicinity of airport runways poses serious safety risks with the kite flying season being a favorite among both children and adults.
-
-Kite flying in areas near airport runways can be cited as one of the main causes for air accidents that occur around the world, the SLAF says.
-
-The relevant notice further states that kite flying is extremely hazardous to aircraft operations at runways in areas such as Katunayake, Ratmalana, Hingurakgoda, China Bay, Palaly, Katukurunda, Koggala, Vavuniya, Weerawila and Mattala.
-
-◼️
-
-[Data](articles/40b88e2c.json)
 
 ---

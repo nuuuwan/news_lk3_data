@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 06:33:45**
+As of **2025-08-29 07:17:34**
 
 ## Newspaper Stats
 
-*Scraped **72,978** Articles*
+*Scraped **72,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,020
-adaderanalk | 9,264
+adaderanalk | 9,265
 tamilmirrorlk | 10,833
 virakesarilk | 11,984
-adaderanasinhalalk | 12,635
+adaderanasinhalalk | 12,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,978 articles have been extended.
+61,973 (84.9%) of 72,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
+
+*2025-08-29 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213907) · `si`
+
+අද (29) බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ද වයඹ පළාතේ වැසි ස්වල්පයක් ද ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+තවද මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+තද සුළං හේතුවෙන් ඇතිවියහැකි අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+මේ අතර සූර්යයා දෘශ්‍ය ලෙස දකුණට ගමන් කිරීමේදී, අගෝස්තු 28 සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතින බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ හේතුවෙන් අද (29) දහවල් 12:11ට කුමුලමුනේ, පඩිනද්දම්පොරේ, ආලන්කුලම්, තන්නියුට්ටු, වෙට්ටප්පලෙයි, මුලතිව් ප්‍රදේශවලට හිරු මුදුන්ව පවතිනු ඇති බවත් ඔවුන් පැවසීය.
+
+◼️
+
+[Data](articles/c170a4a4.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-08-29 06:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111964/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says that several spells of showers will occur in the Western, Sabaragamuwa and Central Provinces and in Galle and Matara Districts.
+
+A few showers may occur in the North-western Province, the Department said.
+
+Strong winds of about 40-50 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, Western and North-western Provinces and in Trincomalee and Hambantota Districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds.
+
+The sun is going to be directly over the latitudes of Sri Lanka from the 28th of August to the 07th of September due to its apparent southward relative motion, the statement added.
+
+The nearest places in Sri Lanka over which the sun is overhead today (29) are Kumulamunai, Padinaddampore, Alankulam, Thanniyuttu, Vettappalai, and Mullaitivu at about 12.11 noon.
+
+◼️
+
+[Data](articles/4066fc13.json)
+
+---
 
 ### செம்மணியில் நேற்று 8 எலும்புக்கூடுகள் அடையாளம்
 
@@ -1725,51 +1767,5 @@ The  issue is subject to obtaining the necessary regulatory approvals. (Colombo/
 ...
 
 [Data](articles/c5613b03.json)
-
----
-
-### උපාධිධාරි ගුරු විභාගය ළඟඳීම
-
-*2025-08-28 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213894) · `si`
-
-රැකියා විරහිත උපාධිධාරීන් ගුරුවරුන් ලෙස බඳවා ගැනීම පමා වීමට හේතුවක් වන, ශ්‍රේෂ්ඨාධිකරණයේ විභාග වෙමින් පැවති නඩු හතරේ අධිකරණ ක්‍රියාවලිය මේ වනවිට අවසන් අදියරේ පවතින බව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
-
-එබැවින් එම අධිකරණ කටයුතු අවසන් වූ වහා ම ගැසට් පත්‍රය නිකුත් කර උපාධිධාරින්ට ගුරු විභාගයට ඉල්ලුම් කිරීමට අවස්ථාව ලබාදීමට කටයුතු කරන බවද අග්‍රාමාත්‍යවරිය පැවසීය.
-
-ඇය මේ බව පැවසුවේ රැකියා විරහිත උපාධිධාරී ඒකාබද්ධ සංගමයේ නියෝජිතයන් අතර අධ්‍යාපන අමාත්‍යාංශයේ දී පැවති සාකච්ඡාවකදීය.
-
-එසේම අවශ්‍ය කරන අනෙකුත් උපාධිධාරී බඳවාගැනීම් මේ වනවිට කැබිනට් අනුමැතිය ලැබී ඇති පරිදි ම සිදු කිරීමට අවශ්‍ය ක්‍රියාමාර්ග ගන්නා බවත් ඇය සඳහන් කර තිබේ.
-
-එසේම ගුරු විභාගයට ඉල්ලුම් කිරීමේ වයස් සීමා සංශෝධනයට ලක් කරමින් එම වයස් සීමාව දීර්ඝ කිරීමටත් දැනට පවත්නා සියලු ගුරු පුරප්පාඩු සඳහා කඩිනමින් බඳවාගැනීම් සිදු කිරීමටත් මෙහි දී එකඟත්වය පළ විය.
-
-◼️
-
-[Data](articles/01166f42.json)
-
----
-
-### මාංචු පිටින් කිඹුල්ලු ඉන්න වතුර වළට පැන්න සැකකරු
-
-*2025-08-28 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213893) · `si`
-
-සොරකමක් සිදුකිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකු මාංචු දමා සිටියදීම කිඹුලන් සිටින දිය වළකට පැන ඇති බව වාර්තා වේ.
-
-සැකකරු ඊයේ (27) රාත්‍රියේ මිල්ලනිය ප්‍රදේශයේ වෙළෙඳසැලක භාණ්ඩ සොරකම් කරමින් සිටියදී වෙළෙඳසැලේ හිමිකරු දැක කෑ ගසා ඇත.
-
-එම අවස්ථාවේ දී සැකකරු වෙළෙඳසැල් හිමියාට තියුණු ආයුධයකින් පහරදී පලාගොස් තිබේ.
-
-පසුව තුවාල ලැබූ වෙළෙඳසැල්හිමියා ගෝනදූව ප්‍රාදේශීය රෝහලට ඇතුළත් කිරීමෙන් පසුව වැඩිදුර ප්‍රතිකාර පානදුර රෝහල වෙත මාරු කර යවා ඇත.
-
-අද (28) උදෑසන මිල්ලනිය පොලීසිය විසින් සැකකරු සොයා සිදුකළ මෙහෙයුමකදී සැකකරුව අත්අඩංගුවට ගැනීමට සමත් වුණි.
-
-පසුව සැකකරුට මාංචු දමා යතුරුපැදියකින් රැගෙන එමින් සිටියදී යතුරුපැදිය ධාවනය කළ පොලිස් නිලධාරියාගේ ගෙලට මාංචු කුට්ටම යොදා සිරකොට යතුරුපැදිය පෙරළා දමා 'කොස් ගහ වළ' නැමති දිය පිරිණු ගැඹුරු වළකට පැන තිබේ.
-
-පසුව ප්‍රදේශවාසීන් හා මිල්ලනිය පොලිස් ස්ථානයේ නිලධාරීන් විසින් සැකකරු ගොඩගෙන නැවත පොලිස් ස්ථානයට රැගෙන ගොස් ඇත.
-
-සැකකරුට කිසිදු අනතුරක් සිදු වී නොමැති අතර මිල්ලනිය පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/1576e7fc.json)
 
 ---

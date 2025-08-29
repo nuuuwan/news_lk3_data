@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 00:33:49**
+As of **2025-08-30 00:49:14**
 
 ## Newspaper Stats
 
-*Scraped **73,136** Articles*
+*Scraped **73,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 749
 economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
-dailyftlk | 5,172
+dailyftlk | 5,173
 adalk | 7,044
 adaderanalk | 9,289
 tamilmirrorlk | 10,864
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,136 articles have been extended.
+61,973 (84.7%) of 73,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Mullahs and Muslim politics
+
+*2025-08-29 23:43:52* · [`dailyftlk`](https://www.ft.lk/columns/Mullahs-and-Muslim-politics/4-780973) · `en`
+
+Muslim politicians and mullahs are walking on a tight rope by trying to bargain with these parties
+
+Whether as a pressure group or active participants the political role of these mullahs had been very negligible until the Sri Lanka Muslim Congress (SLMC) came into being in 1981. Muslim leaders of the pre-1980 era were wise enough not only to realise the irrelevance of a separate Muslim political party in this country but also were intelligent enough to reckon the critical role of Muslim voters in several electorates especially in the Sinhalese districts to decide the outcome of an election when political parties faced tight contests
+
+The name mullah is of Persian origin crept through the Arabic world maula and denotes to a theologian and interpreter of the sacred laws or sharia in Islam. The name is also popularly used in Afghanistan. It also found a place within the Jewish communities in those countries and in Bukhara in Uzbekistan where it referred to a community leader.
+
+...
+
+[Data](articles/012ee3ab.json)
+
+---
 
 ### Necessary civic revolution: Bureaucratic inertia, system change and national awakening (Punorudaya)
 
@@ -162,7 +178,7 @@ The real acceleration, however, came in the final phase when Janith Liyanage str
 
 අඛණ්ඩව මාස 11ක් පැවැති අවධනමන තත්ත්වයෙන් අනතුරුව කොළඹ පාරිභෝගික මිල දර්ශකය ධන අගයකට පත්ව ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
 
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා මහ බැංකුව සඳහන් කර ඇත්තේ කොළඹ පාරිභෝගික මිල දර්ශකය මගින් මනිනු ලබන මතුපිට උද්ධමනය 2025 ජූලි මාසයේ පැවැති 03%ක අවධමනයට සාපේක්ෂව 2025 අගොස්තු මාසයේදී 1.2%ක ධන අගයක් වාර්තා කළ බවය.
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා මහ බැංකුව සඳහන් කර ඇත්තේ කොළඹ පාරිභෝගික මිල දර්ශකය මගින් මනිනු ලබන මතුපිට උද්ධමනය 2025 ජූලි මාසයේ පැවැති 0.3%ක අවධමනයට සාපේක්ෂව 2025 අගොස්තු මාසයේදී 1.2%ක ධන අගයක් වාර්තා කළ බවය.
 
 මේ අතර ආහාර කාණ්ඩයෙහි උද්ධමනය 2025 ජූලි මාසයේදී වාර්තා වූ 1.5% හි සිට  අගෝස්තු මාසයේදී 2.0%ක් දක්වා ඉහළ ගොස් ඇති බවද මහ බැංකුව පවසයි.
 
@@ -1727,17 +1743,5 @@ The attack killed one crew member and injured multiple others, the Kiev Independ
 ...
 
 [Data](articles/db583ff4.json)
-
----
-
-### රාජිත කොළඹ මහේස්ත්‍රාත් අධිකරණයට රැගෙන එයි
-
-*2025-08-29 11:55:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-කොළඹ-මහේස්ත්‍රාත්-අධිකරණයට-රැගෙන-එයි/11-418146) · `si`
-
-කොළඹ මහාධිකරණය විසින් රක්ෂිත බන්ධනාගාර ගත කළ හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අල්ලස් කොමිසම විසින් පවරා ඇති නඩුවකට ඉදිරිපත් කිරීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.
-
-◼️
-
-[Data](articles/74103253.json)
 
 ---

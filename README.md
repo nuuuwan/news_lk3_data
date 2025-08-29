@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 15:08:14**
+As of **2025-08-29 15:21:29**
 
 ## Newspaper Stats
 
-*Scraped **73,057** Articles*
+*Scraped **73,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,033
 adaderanalk | 9,280
-tamilmirrorlk | 10,854
+tamilmirrorlk | 10,856
 virakesarilk | 11,990
 adaderanasinhalalk | 12,658
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,057 articles have been extended.
+61,973 (84.8%) of 73,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### சஷீந்திரவின் விளக்கமறியல் நீடிப்பு
+
+*2025-08-29 15:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திரவின்-விளக்கமறியல்-நீடிப்பு/175-363720) · `ta`
+
+ஊழல் மற்றும் சதித்திட்டக் குற்றச்சாட்டில் கைது செய்யப்பட்ட முன்னாள் அமைச்சர் சஷீந்திர ராஜபக்ஷவை செப்டம்பர் 12 ஆம் திதி வரை மேலும் விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, வௌ்ளிக்கிழமை (29)   உத்தரவிட்டார்.
+
+2022 பொது எழுச்சியின் போது சேதமடைந்த அங்கீகரிக்கப்படாத சொத்துக்கு சட்டவிரோதமாக இழப்பீடு பெற தனது உத்தியோகபூர்வ பதவியைப் பயன்படுத்தியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பாக இந்த கைது மேற்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/9f1626b5.json)
+
+---
+
+### ஹட்டனில் பல கோடி மோசடி: பொலிஸார் அதிரடி அறிவிப்பு
+
+*2025-08-29 15:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-பல-கோடி-மோசடி-பொலிஸார்-அதிரடி-அறிவிப்பு/76-363719) · `ta`
+
+வெளிநாட்டு வேலை வாங்கித் தருவதாகக் கூறி பணத்தை மோசடி செய்ததாக ஹட்டன் சிறப்பு குற்றப் புலனாய்வுப் பிரிவிற்கு கிடைத்த புகாரைத் தொடர்ந்து,   சந்தேக நபர் 27.08.2025 அன்று ஹட்டன் பகுதியில் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கதுருவெல பகுதியைச் சேர்ந்த 41 வயதானவர் ஆவார்.
+
+இதுவரை நடத்தப்பட்ட விசாரணையில், இந்த சந்தேக நபர் அஜர்பைஜானில் வேலை வாங்கித் தருவதாகக் கூறி ரூ.1.2 மில்லியன் மோசடி செய்துள்ளதாகவும், பல்வேறு பகுதிகளில் சமூக சேவைப் பணிகளைச் செய்து வரும் நபர்களைத் தொடர்பு கொண்டு அந்த நபர்களின் பெயர்களில் கணக்குகளைத் தொடங்கி, சமூக ஆர்வலர்கள் மூலம் அந்தக் கணக்குகளில் பணத்தை வரவு வைத்து, அதனை மோசடி செய்துள்ளதாகவும் தெரியவந்துள்ளது.
+
+இதுவரை நடத்தப்பட்ட விசாரணையில், இந்த சந்தேக நபர் ஹட்டன் காவல் பிரிவில் மட்டும் சுமார் ரூ.2.5 மில்லியன் மோசடி செய்துள்ளதாகவும், நாட்டின் பல்வேறு பகுதிகளிலும் இதேபோன்ற மோசடிகள் நடந்துள்ளதாகவும் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/c2530025.json)
+
+---
 
 ### “அதை பண்ணிட்டு தான் உள்ளயே விடுவாங்க”
 
@@ -1725,37 +1757,5 @@ The Awards are inclusive, recognising micro, small, medium, large, and extra-lar
 ...
 
 [Data](articles/ca53bcf5.json)
-
----
-
-### Power of the point in educational reforms
-
-*2025-08-29 00:06:48* · [`dailyftlk`](https://www.ft.lk/columns/Power-of-the-point-in-educational-reforms/4-780910) · `en`
-
-What is on offer as Education Course Books in different systems differ widely
-
-We are into yet another round of education reforms. As someone who has experienced the implementation of reforms – the psyche as a student is you have no clue about the philosophy or the reasons for reforms you just wade through the process for better or worse! I now like to discuss ‘reforming education’ after almost 40 years on the delivery side of tertiary education.
-
-...
-
-[Data](articles/91f3ca29.json)
-
----
-
-### 2025-08-28 (Thursday)
-
-### Was Ranil Wickremesinghe  target of political witch hunt?
-
-*2025-08-28 23:42:50* · [`dailyftlk`](https://www.ft.lk/columns/Was-Ranil-Wickremesinghe-target-of-political-witch-hunt/4-780908) · `en`
-
-Wickremesinghe has many faults and flaws but was never perceived as a person lacking  financial integrity
-
-History was made when 76-year-old Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department (CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over Rs. 16.6 million and produced before the Colombo Fort Magistrate on 22 August 2025. He was charged under Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
-
-Six times Prime Minister Wickremesinghe who served as the eighth Executive President of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts in a Black Maria. Ranil Wickremesinghe thus became the first Sri Lankan ex-President and former Prime Minister to be arrested and remanded in the history of Sri Lanka.
-
-...
-
-[Data](articles/8796d52a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 08:00:33**
+As of **2025-08-29 08:38:00**
 
 ## Newspaper Stats
 
-*Scraped **72,983** Articles*
+*Scraped **72,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,201 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,020
-adaderanalk | 9,267
-tamilmirrorlk | 10,833
+adalk | 7,021
+adaderanalk | 9,269
+tamilmirrorlk | 10,838
 virakesarilk | 11,984
-adaderanasinhalalk | 12,637
+adaderanasinhalalk | 12,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,983 articles have been extended.
+61,973 (84.9%) of 72,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### கிளிநொச்சி கோர விபத்தில் இருவர் மரணம்
+
+*2025-08-29 08:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சி-கோர-விபத்தில்-இருவர்-மரணம்/72-363702) · `ta`
+
+கிளிநொச்சி - பரந்தன் பகுதியில் இன்று அதிகாலை ஏற்பட்ட விபத்தில் இரண்டு பேர் உயிரிழந்துள்ளனர்.
+
+யாழ்ப்பாணத்திலிருந்து வவுனியா நோக்கி பயணித்த பேருந்து ஒன்றும், கனரக டிப்பர் ஒன்றும், மோட்டார் சைக்கிளும் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/f79438c3.json)
+
+---
+
+### தூக்கில் தொங்கிய நிலையில் சடலம் மீட்பு
+
+*2025-08-29 08:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தூக்கில்-தொங்கிய-நிலையில்-சடலம்-மீட்பு/72-363701) · `ta`
+
+முல்லைத்தீவு -புதுக்குடியிருப்பு, விசுவமடு மாணிக்கப்பிள்ளையார் ஆலய வளாகத்தில் உள்ள மாமரத்தில் நபர் ஒருவர் தூக்கில் தொங்கிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+இது குறித்து பொது மக்கள் புதுக்குடியிருப்பு பொலிஸாருக்கு தகவல் வழங்கியதையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸார் சடலத்தை மீட்டதுடன், மேலதிக விசாரணைகளை மேற்கொண்டனர்.
+
+முல்லைத்தீவு மாவட்ட நீதவான் நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் சம்பவ இடத்திற்கு வருகை தந்து சடலத்தைப் பார்வையிட்ட பின்னர், உடற்கூறு பரிசோதனைக்குப் பின் உடலை உறவினர்களிடம் ஒப்படைக்க உத்தரவிட்டார்.
+
+உயிரிழந்தவர் குரவில் உடையார்கட்டு பகுதியைச் சேர்ந்த கந்தசாமி தர்சன் என அடையாளம் காணப்பட்டுள்ளார்.  இது குறித்து புதுக்குடியிருப்பு பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/b3b0d10d.json)
+
+---
+
+### බණ්ඩාරගම වෙඩිතැබීමට අනුබල දුන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2025-08-29 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213911) · `si`
+
+බණ්ඩාරගම, බොල්ගොඩ පාලම අසලදී හිටපු බන්ධනාගාර නිලධාරියෙකු වෙඩිතබා ඝාතනය කිරීමට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ සැකකරුවන් දෙදෙනා ඊයේ (28දා) දහවල් පානදුර, මෝදරවිල  ප්‍රදේශයේදී අත්අඩංගුවට ගෙන බණ්ඩාරගම පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
+
+පසුගිය 21වනදා සිදු වූ මෙම වෙඩිතැබීමෙන් ඝාතනය වූයේ ලලිත් කුමාර කෝදාගොඩ නමැති පානදුර ප්‍රදේශයේ පදිංචිකරුවෙක්ය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 18 හා 21 වයස්වල පසු වන පානදුර ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+සැකකරුවන් සන්තකයේ තිබී වෙඩිතැබීම සඳහා වෙඩික්කරුවන් පැමිණි යතුරුපැදිය බවට සැක කෙරෙන ව්‍යාජ අංක තහඩු සවිකරන ලද යතුරුපැදියක්, ව්‍යාජ ගමන්බලපත්‍රයක්, රක්ෂණ සහතිකයක් හා ආදායම් බලපත්‍රයක් සහ ව්‍යාජ අංක තහඩු යුගලයක් පොලිස් භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/930c91d7.json)
+
+---
+
+### இன்று பல தடவைகள் மழை பெய்யும்
+
+*2025-08-29 08:04:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-தடவைகள்-மழை-பெய்யும்/175-363699) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+சப்ரகமுவ மாகாணத்திலும் நுவரெலியா மற்றும் கண்டி மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+வடமேல் மாகாணத்திலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் சிறிதளவான மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, மேல் மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் மின்னல் தாக்கங்களினாலும் பலத்த காற்றினாலும் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.  R
+
+◼️
+
+[Data](articles/753c5b49.json)
+
+---
+
+### கடற்றொழிலுக்குச் சென்ற இளைஞர் மாயம்
+
+*2025-08-29 07:57:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்குச்-சென்ற-இளைஞர்-மாயம்/175-363698) · `ta`
+
+முல்லைத்தீவு, கொக்கிளாயில் நேற்று முன்தினம் இரவு கடற்றொழிலுக்குச் சென்ற இளைஞர் ஒருவர் காணாமல்போயுள்ளார்.
+
+இது தொடர்பில் கொக்குளாய் பொலிஸ் நிலையத்தில் உறவினர்களால் நேற்று முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+
+கொக்குளாய், முகத்துவாரம் பகுதியில் இருந்து கடற்றொழிலை மேற்கொண்டு வரும் வர்ணகுலசூரிய நெகித் ரவிஷ பிரனாந்து என்னும் 23 வயது இளைஞரே மாயமாகியுள்ளார்
+
+மேற்படி இளைஞர் மீன்பிடிக்கச் சென்ற படகு நடுக்கடலில் நங்கூரமிட்டபடி நேற்றுக் காலை கண்டுபிடிக்கப்பட்டுள்ளது.
+
+மாயமான இளைஞரை நூற்றுக்கும் மேற்பட்ட படகுகளில் நேற்று தேடியும் அவர் கண்டுபிடிக்கப்படவில்லை. எனினும், தேடுதல் பணி தொடர்ந்து இடம்பெற்று வருகின்றது. (a)
+
+◼️
+
+[Data](articles/06112dd7.json)
+
+---
+
+### Corruption in any form undermines governance and public trust – PM
+
+*2025-08-29 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111968/corruption-in-any-form-undermines-governance-and-public-trust-pm) · `en`
+
+The inaugural workshop of a program series organized by the Commission to Investigate Allegations of Bribery or Corruption, in collaboration with the Ministry of Public Administration, Provincial Councils, and Local Government, was held yesterday (28) at the Western Provincial Council Auditorium in Battaramulla.
+
+The objective of this program is to build a culture of corruption-free local government institutions through the enforcement of anti-corruption laws and the promotion of integrity, according to the Prime Minister’s Media Division.
+
+The newly appointed local government members participated in this workshop, which is expected to be conducted across the island.
+
+...
+
+[Data](articles/4c0f4fc0.json)
+
+---
+
+### වරෙන්තු නිකුත් කර තිබෙන රාජිත අද අධිකරණයට
+
+*2025-08-29 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213910) · `si`
+
+අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබෙන හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අද (29) අධිකරණය හමුවේ පෙනී සිටීමට නියමිතය.
+
+ඒ මහතාට අද අධිකරණය හමුවේ පෙනී සිටින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය පසුගිය 20වැනිදා නොතිසි නිකුත් කර තිබුණි.
+
+අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකාබැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි ජයතුංග මහත්මිය විසින් අපරාධ නඩු විධානසංග්‍රහයේ 60(1) වගන්තිය යටතේ 'ප්‍රකාශනයක්' නිකුත් කරමින් මෙම නොතීසිය නිකුත් කරනු ලැබීය.
+
+මේ අතර අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ට එරෙහිව නිකුත් කර තිබෙන වරෙන්තුව ප්‍රතිශෝධනය කර අවලංගු කරන්නැයි ඉල්ලා රාජිත සේනාරත්න මහතා ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම විභාග කිරීමට කොළඹ මහාධිකරණය ඊයේ (28) තීරණය කළේය.
+
+ඒ අනුව පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම් කර ඇති අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා ඇතුළු නිලධාරීන්ට නොතිසි නිකුත් කරන ලෙස කොළඹ මහාධිකරණය නියම කර තිබුණි.
+
+...
+
+[Data](articles/be5f8b69.json)
+
+---
+
+### Over 14,800 children reported in vulnerable situations in Sri Lanka
+
+*2025-08-29 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111967/over-14800-children-reported-in-vulnerable-situations-in-sri-lanka) · `en`
+
+The Department of Probation and Child Care Services has revealed that around 14,834 children have been identified as being in vulnerable situations across the island.
+
+This was disclosed at the District Multi-Stakeholder Drug Prevention, Treatment, and Rehabilitation Program held yesterday (28) at the Colombo District Secretariat.
+
+An official from the Department stated that Child Rights Promotion Officers are currently engaged in supporting vulnerable children, while a significant number of cases are also referred to the Department through police stations.
+
+“The main issue we face is the lack of proper coordination among stakeholders. In particular, in drug-related cases, officers are unable to effectively reach certain areas such as Badowita. I suggest that it would be better if we all worked together to prepare a family-centered care and development plan that prioritizes the well-being of the child.”
+
+...
+
+[Data](articles/c5457f76.json)
+
+---
+
+### இன்று கையெழுத்து போராட்டம்
+
+*2025-08-29 07:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கையெழுத்து-போராட்டம்/175-363697) · `ta`
+
+யாழ். செம்மணி மனிதப் புதைகுழிக்குச் சர்வதேச விசாரணை கோரியும், புதைகுழி அகழ்வுப் பணிகளைச் சர்வதேச நிபுணத்துவப் பங்களிப்புடன் முன்னெடுக்குமாறு வலியுறுத்தியும் தமிழர் வாழ் பகுதிகளில் இன்று கையெழுத்துப் போராட்டம் ஆரம்பமாகுகின்றது.
+
+தமிழர் தாயகமெங்கும் முன்னெடுக்கப்படவுள்ள இந்தக் கையெழுத்துப் போராட்டத்தில் தமிழ் மக்கள் அனைவரும் பங்கேற்று தமது ஒப்பங்களைப் பதிவு செய்ய வேண்டும் என்று தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் கேட்டுக்கொண்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/750998ae.json)
+
+---
+
+### ආචාර්ය නන්දලාල් වීරසිංහට A ශ්‍රේණියේ ඇගයීමක්
+
+*2025-08-29 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213909) · `si`
+
+ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා මෙවර ග්ලෝබල් ෆයිනෑන්ස් මහ බැංකුකරු (Global Finance’s Central Banker Report Cards 2025)  'A'ශ්‍රේණියක් ලබාගැනීමට සමත්ව තිබේ.
+
+මෙම ඉහළම මට්ටමේ පිළිගැනීමත් සමග නන්දලාල් වීරසිංහ මහතාගේ නාමයද ලොව පුරා සිටින ගෞරවනීය ප්‍රභූ මහ බැංකු අධිපතිවරුන් අතරට එක්ව ඇත.
+
+ශ්‍රී ලංකාව මුහුණදුන් ආර්ථික අර්බුදයේ දී මෙරට ආර්ථිකය ස්ථාවර කිරීමට ඔහු දැක්වූ සුවිශේෂී දායකත්වය සහ උපායමාර්ගික දැනුම සැලකිල්ලට ගෙන ඔහුට මෙම 'A'ශ්‍රේණිය ලබා දී තිබේ.
+
+මෙම ග්ලෝබල් ෆිනෑන්ස් වාර්ෂික මහ බැංකුකරු අධිපතිවරුන් ඇගැයීම 1994 සිට සිට සිදුකරන්නක් වන අතර, ඒ සඳහා ලොව ප්‍රධාන පෙළේ රටවල් 100කට ආසන්න මහ බැංකු අධිපතිවරුන් ඇගයීම සිදුකරනු ලබයි.
+
+උද්ධමනය පාලනය, ආර්ථික වර්ධන ඉලක්ක, මුදල් ස්ථාවරත්වය, පොලී අනුපාත කලමනාකරණය සහ දේශපාලන ස්වාධීනත්වය වැනි ක්ෂේත්‍රවල සාර්ථකත්වය මත 'A+' සිට 'F'දක්වා වූ කාණ්ඩ යටතේ මෙලෙස ලොව පුරා සිටින මහ බැංකු අධිපතිවරුගේ සාර්ථකත්වය සහ අසාර්ථකත්වය මනිනු ලැබේ.
+
+◼️
+
+[Data](articles/781519bb.json)
+
+---
 
 ### Massive Russian attack on Kyiv kills at least 23, damages EU and British offices
 
@@ -62,7 +242,9 @@ U.S. special envoy Keith Kellogg commented on X: “The targets? Not soldiers an
 
 "අවදානම් ළමයින් සම්බන්ධයෙන් ළමා හිමිකම් ප්‍රවර්ධන නිලධාරීන් කටයුතු කරනවා. ඒ වගේම පොලිස් ස්ථානවලින් මේ වෙනකොට ළමයින් හඳුනගෙන අපිට යොමු කරපු ප්‍රමාණයකුත් ඉන්නවා. මේකෙදී අපි දකින ලොකුම ගැටලුව තමයි හැම තැනම අන්තර් සම්බන්ධීකරණය වෙනවා අඩුවීම. විශේෂයෙන් මත්ද්‍රව්‍ය වගේ ඒකට බඩෝවිට සහ තවත් ප්‍රදේශවලට නිලධාරීන්ටවත් යන්න පුළුවන්කමක් නැහැ. ළමයා ගොඩනගනවා වගේම පවුල කේන්ද්‍ර කරගත් රැකවරණ සැලැස්මක්, සංවර්ධන සැලැස්මක් සකස් කරලා අපි සියලු පාර්ශ්ව එකතුවෙලා වැඩ කළොත් හොඳයි කියලා තමයි මම යෝජනා කරන්නේ."
 
-◼️
+මෙහිදී අදහස් දැක්වූ මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා සඳහන් කළේ,
+
+...
 
 [Data](articles/641d4162.json)
 
@@ -1250,6 +1432,18 @@ The company proposes to have these debentures listed on the Colombo Stock Exchan
 
 ---
 
+### අද අවසන් දිනයයි
+
+*2025-08-28 17:26:27* · [`adalk`](https://www.ada.lk/breaking_news/අද-අවසන්-දිනයයි/11-418132) · `si`
+
+නිෂ්පාදන වියදම් ඉහළ යෑම නිසා ‘අද’ පුවත්පත අදින් පසුව මුද්‍රිත මාධ්‍යයෙන් නිකුත් නොවන බව දැනුම් දෙමු. මින් ඉදිරියට ‘අද’ පුවත්පතේ පළ වූ පුවත් සහ විශේෂාංග www.ada.lk වෙබ්අඩවිය ඔස්සේ පාඨක ඔබට සමීප වනු ඇත. අද පුවත්පත සමග මෙතෙක් කාලයක් රැඳී සිටි පාඨක ඔබට අපගේ කෘතඥතාව පළ කරමු.
+
+◼️
+
+[Data](articles/370bc91f.json)
+
+---
+
 ### Man held at BIA with mobile phones and cardamom worth Rs. 20M
 
 *2025-08-28 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111955/man-held-at-bia-with-mobile-phones-and-cardamom-worth-rs-20m) · `en`
@@ -1583,195 +1777,5 @@ Dr. Amarasuriya further noted that the necessary steps are already being taken t
 ...
 
 [Data](articles/e5a0b996.json)
-
----
-
-### குளியாப்பிட்டி பாடசாலை வேன் விபத்து ; பாதிக்கப்பட்ட சிறுவர்களை வைத்தியசாலையில் பார்வையிட்டார் பிரதி அமைச்சர்
-
-*2025-08-28 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/223595) · `ta`
-
-குளியாப்பிட்டியில் இடம்பெற்ற பாடசாலை வேன் விபத்தில் காயமடைந்த சிறுவர்களை பார்வையிட மகளிர் மற்றும் சிறுவர்கள் விவகார பிரதி அமைச்சர்  நாமல் சுதர்சன இன்று வியாழக்கிழமை (28) குருநாகல் போதனா வைத்தியசாலைக்குச் சென்றார்.
-
-குளியாப்பிட்டியில் உள்ள விலாபொல சந்திப்பில் உள்ள பல்லேவெல பாலத்தில் நேற்று புதன்கிழமை (27) காலை இந்த விபத்து நிகழ்ந்தது. இந்த விபத்தில் இரண்டு சிறுவர்கள் மற்றும் சாரதி உயிரிழந்தனர். மேலும் பல குழந்தைகள் காயமடைந்து தற்போது வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
-
-வடமேற்கு மாகாண ஆளுநர் திஸ்ஸ வர்ணசூரிய, விவசாயம் மற்றும் கால்நடை பிரதி அமைச்சர் நாமல் கருணாரத்ன மற்றும் பிற அரச பிரதி அமைச்சருடன் வைத்தியசாலைக்கு உடன் சென்றிருந்தனர்.
-
-காயமடைந்த சிறுவர்களின் நல்வாழ்வையும் ஆரோக்கியத்தையும் உறுதி செய்வதற்குத் தேவையான நடவடிக்கைகளை எடுக்குமாறு அமைச்சர் சுதர்சன சம்பந்தப்பட்ட அதிகாரிகளுக்கு வலியுறுத்தினார்.
-
-◼️
-
-[Data](articles/8fc39c4e.json)
-
----
-
-### Ven. Narampanawa Ananda Thero elected as Anunayake of the Asgiri Chapter
-
-*2025-08-28 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/111950/ven-narampanawa-ananda-thero-elected-as-anunayake-of-the-asgiri-chapter-) · `en`
-
-Venerable Narampanawa Ananda Thero has been elected as the Anunayake of the Asgiri Chapter.
-
-The election to fill the vacant position of Anunayake of the Asgiri Chapter was held today (August 28) at the historic ‘Pohoyage’ of the Asgiri Maha Viharaya in Kandy.
-
-The election was conducted under the patronage of the Chief Prelate of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.
-
-A total of 19 members of the ‘Asgiri Karaka Maha Sangha Sabha’ were eligible to vote in this election.
-
-The position became vacant following the passing of Most Venerable Anamaduwe Dhammadassi Thero, who passed away at the age of 67 on June 20.
-
-◼️
-
-[Data](articles/eb880559.json)
-
----
-
-### Sri Lanka’s Companies Act amendment aligns it with global standards: Deloitte
-
-*2025-08-28 15:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-companies-act-amendment-aligns-it-with-global-standards-deloitte-238553/) · `en`
-
-ECONOMYNEXT – Changes to Sri Lanka’s Companies Act passed recently will help align the country’s legislation with international standards, enhance transparency and improve regulatory framework for businesses, Deloitte Sri Lanka and Maldives, a multi-disciplinary professional services firm, has said.
-
-“The legislation improves regulatory framework for business operations, enhances transparency, and aligns Sri Lanka with international standards such as those set by the Financial Action Task Force (FATF) and the Asia-Pacific Group on Anti-Money Laundering (AML),” Deloitte said.
-
-The amended act contains 21 amendments, which go beyond compliance, Deloitte points out, and will build investor confidence and help Sri Lanka position itself as a trusted and competitive business hub.
-
-...
-
-[Data](articles/4ebadee5.json)
-
----
-
-### கைத்தொலைபேசிகள் , ஏலக்காயுடன் வந்தவர் கைது
-
-*2025-08-28 15:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைத்தொலைபேசிகள்-ஏலக்காயுடன்-வந்தவர்-கைது/175-363669) · `ta`
-
-சுமார் 2 கோடி ரூபாய் பெறுமதியுடைய  அதிநவீன கைத்தொலைபேசிகள்  மற்றும் ஏலக்காயை சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வந்து, கட்டுநாயக்க விமான நிலையத்தில் இருந்து  வெளியேற முயன்ற  ஒருவர், வியாழக்கிழமை (28) கைது செய்யப்பட்டுள்ளார்.  சந்தேக நபர்  கொழும்பைச் சேர்ந்த 36 வயதுடையவர் என தெரியவந்துள்ளது.
-
-அவர்  வியாழக்கிழமை (28) காலை இலங்கை ஏர்லைன்ஸ் விமானம் UL-226 மூலம் துபாயில் இருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளதுடன் அவரிடம் இருந்த 6 பயணப் பைகளில் இருந்து அதிநவீன கைத்தொலைபேசிகள் 165 மற்றும் 102 கிலோ கிராம் ஏலக்காய் கைப்பற்றப்பட்டுள்ளது.
-
-நாட்டிற்குள் கைத்தொலைபேசிகள் இறக்குமதி செய்ய, இலங்கை தொலைத்தொடர்பு ஒழுங்குமுறை ஆணையத்தின் அனுமதி தேவை, அதே நேரத்தில் ஏலக்காய் இறக்குமதி செய்ய அந் நாட்டிலும் இலங்கையிலும் உள்ள பல்வேறு நிறுவனங்களின் அனுமதி தேவையாகும்.
-
-சந்தேக நபரை கைது செய்த, விமான நிலைய சுங்க அதிகாரிகள் இது தொடர்பான விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/788cfae0.json)
-
----
-
-### ‘National Research Priorities Report’ handed over to President’s Secretary
-
-*2025-08-28 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/111949/national-research-priorities-report-handed-over-to-presidents-secretary) · `en`
-
-The Research Priorities for Sri Lanka – 2026 report, aligned with the Government’s socio-economic development programme, has been officially presented to the Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat today (28).
-
-The report was handed over by Professor G.W.A. Rohan Fernando, Chairman of the National Science and Technology Commission (NASTEC).
-
-The initiative was led by the Interim Committee on National Research and Development Priorities, co-chaired by Professor Gomika Udugamasooriya, Senior Advisor to the President on Science and Technology and Senior Member of the United States National Academy of Inventors, together with Professor G.W.A. Rohan Fernando, Chairman of the National Science and Technology Commission.
-
-The report is the outcome of a collective effort by 26 subject experts and more than 100 members of sub-committees representing 15 ministries connected to research and development, the President’s Media Division said.
-
-...
-
-[Data](articles/550eb92c.json)
-
----
-
-### நானுஓயா நாய் விவகாரம்: வீடியோ இணைப்பு
-
-*2025-08-28 15:34:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-நாய்-விவகாரம்-வீடியோ-இணைப்பு/76-363668) · `ta`
-
-நானுஓயாவைச் சேர்ந்த இளைஞன், வளர்ப்பு நாயை தூக்கி நிலத்தில் அடித்து, அதன்பின்னர் ஆற்றில் வீசிய சம்பவம் தொடர்பிலான வீடியோ, சமூக வலைத்தளங்களில் வைரலாகியுள்ளது
-
-◼️
-
-[Data](articles/bfa130cf.json)
-
----
-
-### ரணில்-ஹரிணி விவகாரம்: சிசிடிவியை ஆராய கோருகிறது சிஐடி
-
-*2025-08-28 15:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஹரிணி-விவகாரம்-சிசிடிவியை-ஆராய-கோருகிறது-சிஐடி/175-363667) · `ta`
-
-பிரதமர் கலாநிதி ஹரிணி அமரசூரிய முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை கொழும்பு தேசிய மருத்துவமனையில் சந்தித்ததாகக் கூறப்படும் சமூக ஊடகப் பதிவுகள் குறித்த விசாரணையில், தேவைப்பட்டால் கொழும்பு தேசிய மருத்துவமனையின் சி.சி.டி.வி காட்சிகளை ஆய்வு செய்ய அனுமதி வழங்க முடியும் என்று மாளிகாகந்த நீதவான் குற்றப் புலனாய்வுத் துறைக்கு (சி.ஐ.டி) வியாழக்கிழமை (28) தெரிவித்தார்.
-
-பிரதமர் அமரசூரிய மற்றும் அவரது பாதுகாப்புப் பணியாளர்களிடமிருந்து வாக்குமூலங்களைப் பதிவு செய்யுமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதவான் லோச்சனி அபேவிக்ரம உத்தரவிட்டார்.
-
-பிரதமர் ஹரிணி அமரசூரிய, முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை மருத்துவமனையில் சந்தித்ததாகக் கூறும் சமூக ஊடகப் பதிவுகள் குறித்து விசாரணைகள் ஏற்கெனவே ஆரம்பிக்கப்பட்டுள்ளதாக, குற்றப் புலனாய்வுப் பிரிவினர், நீதவானிடம் தெரிவித்தனர்.
-
-விசாரணைகள் தொடர்பாக தேசிய மருத்துவமனையின் சிசிடிவி காட்சிகளை ஆய்வு செய்யுமாறு சிஐடி விடுத்த கோரிக்கையை பரிசீலித்த பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
-
-...
-
-[Data](articles/5ce7ab97.json)
-
----
-
-### තිස්ස හා රිදියගම වැව්වල සීමා සලකුණු කරයි
-
-*2025-08-28 15:30:15* · [`adalk`](https://www.ada.lk/breaking_news/තිස්ස-හා-රිදියගම-වැව්වල-සීමා-සලකුණු-කරයි/11-418129) · `si`
-
-ජල මූලාශ්‍රවල තිරසර බව රැක ගනිමින් සංවර්ධන කාර්යයන් සිදුකිරීම පහසු කිරීම සඳහා වාංරිමාර්ග දෙපාර්තමේන්තුව යටතේ පාලනය වන ප්‍රධාන වැව්වල සීමා සලකුණු කිරීම යටතේ හම්බන්තොට දිස්ත්‍රික්කයේ තිස්ස හා රිදියගම යන වැව්වල සීමා සලකුණු කිරීමට තීරණය කර තිබේ.
-
-ඒ අනුව තිස්ස වැවේ සීමා සලකුණු කිරීම හෙට දිනයේදීත් රිදියගම වැවේ සීමා සලකුණු කිරීම අනිද්දා දිනයේදීත් සිදු කිරීමට නියමිතව තිබේ.
-
-◼️
-
-[Data](articles/8bdc71ca.json)
-
----
-
-### வெண்மையாக்கும் பற்பசை பற்களை வெண்மையாக்குவதில்லை - எச்சரிக்கை விடுக்கும் சுகாதார அமைச்சு
-
-*2025-08-28 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/223591) · `ta`
-
-சந்தையில் கிடைக்கும் பற்களை வெண்மையாக்கும் பற்பசைகள், பற்களை உண்மையாக வெண்மையாக்குவதில்லை என சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-சமூக பல் வைத்திய ஆலோசகர் வைத்தியர் ஷானிகா முத்தந்திரி இது குறித்து கருத்துத் தெரிவிக்கையில்,
-
-இந்த பற்பசைகள் பாதிப்பில்லாதவை என்றாலும், அவற்றில் சிலிக்கா அல்லது கல்சியம் கார்பனேட் போன்ற கடினமான கூறுகள் உள்ளன. இவை பற்களின் மேற்பரப்பில் உள்ள கறைகளை மட்டுமே சுத்தம் செய்யக்கூடியவை, ஆனால் பற்சிப்பியை (enamel) சேதப்படுத்தக்கூடியவை எனத் தெரிவித்துள்ளார்.
-
-இந்த பற்பசைகள் ஏற்படுத்தும் வெண்மையாக்கும் விளைவு நீண்ட காலம் நீடிக்காது என்றும், அதற்கு பதிலாக, பற்களைப் பாதுகாக்க உதவும் புளூரைட் (fluoride) பற்பசையைப் பயன்படுத்துமாறு பொதுமக்களுக்கு அவர் அறிவுறுத்தியுள்ளார்.
-
-தற்போது பாலர் பாடசாலை செல்லும் குழந்தைகளில் 63 சதவீதத்தினருக்கும், 35 முதல் 44 வயது வரையிலான பெரியவர்களில் 90 சதவீதத்தினருக்கும் பற்சிதைவு காணப்படுவதாகக் குறிப்பிட்டுள்ளார். பற்சிதைவைத் தடுப்பதற்கு புளூரைட் பற்பசையே சிறந்த வழி என அவர் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/5de28913.json)
-
----
-
-### Sri Lanka speaker endorses Samurdhi, rubber control bills
-
-*2025-08-28 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-endorses-samurdhi-rubber-control-bills-238570/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s speaker of parliament Jagath Wickramaratne has endorsed the certificates on the Samurdhi (Amendment) Bill and the Rubber Control (Amendment) Bill.
-
-The bill to amend the Samurdhi Act, No. 1 of 2013 provides for the strengthening of financial accountability within financial institutions and the improvement of financial supervision of such institutions.
-
-The amendment ensures compliance with the prevailing statutory and national auditing procedures by assigning the responsibility to audit the accounts of Samurdhi community-based banks and Samurdhi community-based banking societies to the National Audit Office.
-
-This strengthens accountability within financial institutions, parliament said in a statement.
-
-...
-
-[Data](articles/14de3f22.json)
-
----
-
-### Second round of review of new Anti-Terrorism Bill underway
-
-*2025-08-28 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111947/second-round-of-review-of-new-anti-terrorism-bill-underway) · `en`
-
-President’s Counsel Rienzie Arsekularatne, the Chairman of the expert committee appointed under Cabinet approval to draft the new Anti-Terrorism Bill stated that the committee’s work will be completed within the month of September.
-
-This was confirmed by Chairman Arsekularatne when the committee appointed for this task convened at the Ministry of Justice and National Integration.
-
-He also confirmed that the proposed amendments to the draft legislation are currently undergoing a second round of critical review.
-
-With Cabinet approval, the Minister of Justice and National Integration appointed the expert committee to repeal the current Prevention of Terrorism (Temporary Provisions) Act No. 48 of 1979 and to formulate new legislation.
-
-...
-
-[Data](articles/4fd8e4ed.json)
 
 ---

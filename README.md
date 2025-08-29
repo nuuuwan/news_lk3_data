@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 12:25:23**
+As of **2025-08-29 12:36:06**
 
 ## Newspaper Stats
 
-*Scraped **73,028** Articles*
+*Scraped **73,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,027
-adaderanalk | 9,274
-tamilmirrorlk | 10,845
+adaderanalk | 9,277
+tamilmirrorlk | 10,848
 virakesarilk | 11,989
 adaderanasinhalalk | 12,651
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 12,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 73,028 articles have been extended.
+61,973 (84.9%) of 73,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Ukraine’s “Largest” naval ship sunk in Russia’s first sea drone attack
+
+*2025-08-29 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/111976/ukraines-largest-naval-ship-sunk-in-russias-first-sea-drone-attack) · `en`
+
+Ukrainian Navy’s reconnaissance ship Simferopol, which was reportedly the largest ship commissioned by the country in over a decade, has been hit and sunk in a naval drone strike, the Russian Defence Ministry announced on Thursday.
+
+The Laguna-class, medium-sized ship, designed for radio, electronic, radar, and optical reconnaissance, was struck in the delta of the River Danube, part of which is located in Ukraine’s Odessa Region, a Defence Ministry statement said, RT reported.
+
+This was the first successful use of a sea drone to take out a Ukrainian Navy vessel, as per a TASS report citing a UAV expert, the RT added.
+
+The attack killed one crew member and injured multiple others, the Kiev Independent wrote on Thursday, citing a Ukrainian Navy spokesperson.
+
+“Efforts to address the aftermath of the attack are ongoing. The majority of the crew are safe, and the search for several missing sailors continues,” it cited the spokesperson as saying.
+
+...
+
+[Data](articles/879f881a.json)
+
+---
+
+### அத்துரலியே ரத்தன தேரர் ஆஜர்
+
+*2025-08-29 12:07:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரர்-ஆஜர்/175-363710) · `ta`
+
+பிடியாணை உத்தரவு பிறப்பிக்கப்பட்டுள்ள முன்னாள் பாராளுமன்ற உறுப்பினர் அத்துரலியே ரத்தன தேரர்  நுகேகொடை நீதவான் நீதிமன்றில்  வெள்ளிக்கிழமை (29) காலை ஆஜராகியுள்ளார்.
+
+◼️
+
+[Data](articles/015ade1c.json)
+
+---
+
+### மேல் நீதிமன்றத்தில் இருந்து நீதவான் நீதிமன்றில் ஆஜர்
+
+*2025-08-29 12:05:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-நீதிமன்றத்தில்-இருந்து-நீதவான்-நீதிமன்றில்-ஆஜர்/175-363709) · `ta`
+
+கொழும்பு மேல் நீதிமன்றத்தால் விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் அமைச்சர் ராஜித சேனாரத்ன, கொழும்பு நீதவான் நீதிமன்றத்திற்கு சிறைச்சாலைப் பேருந்தில் அழைத்து வரப்பட்டு, தற்போது  நீதிமன்றத்தில் தடுத்து வைக்கப்பட்டுள்ளார்.
+
+லஞ்ச வழக்கில் கொழும்பு மேல் நீதிமன்றத்தில் ஆஜரான   ராஜித சேனாரத்னவை கொழும்பு மேல் நீதிமன்ற நீதிபதி லங்கா ஜெயரத்ன, விளக்கமறியலில் வைக்க உத்தரவிட்டார்.
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு முன்வைத்த உண்மைகளை பரிசீலித்த நீதிமன்றம், நீதிமன்றத்தைத் தவிர்க்கும் சந்தேக நபராகவும், கொழும்பு பிரதான நீதவான் நீதிமன்றத்திலிருந்து பிடியாணை பெற்ற நபராகவும் ராஜித சேனாரத்ன இருப்பதால் அவரை விளக்கமறியலில் வைக்க உத்தரவிட்டது.
+
+◼️
+
+[Data](articles/8533edeb.json)
+
+---
 
 ### මහ බැංකුවේ 75 වන සැමරුමට රු 2,000 නව සමරු නෝට්ටුව ජනපතිට පිළිගැන්වේ
 
@@ -88,6 +136,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 85-year-old woman stabbed to death in Walasmulla
+
+*2025-08-29 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111975/85-year-old-woman-stabbed-to-death-in-walasmulla) · `en`
+
+An 85-year-old elderly woman has been stabbed to death with a sharp weapon in the Udagahawatte area of the Walasmulla Police Division.
+
+The incident had occurred yesterday (28) and the victim, a resident of Udagahawatte, had been living alone in her home.
+
+Police investigations have revealed that the woman was attacked after her son had visited the residence, provided her dinner, and left later that evening.
+
+It is believed that the suspect entered the residence thereafter and carried out the murder, police said.
+
+The suspect involved in the crime has fled the area and Walasmulla Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/f4c39d81.json)
+
+---
+
 ### 1.5 லட்சம் பாகிஸ்தானியர்  உயிர் தப்பினர்
 
 *2025-08-29 11:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-5-லட்சம்-பாகிஸ்தானியர்-உயிர்-தப்பினர்/50-363707) · `ta`
@@ -119,6 +187,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b869da0b.json)
+
+---
+
+### Former MP Ven. Athuraliye Rathana Thero appears before court
+
+*2025-08-29 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111974/former-mp-ven-athuraliye-rathana-thero-appears-before-court) · `en`
+
+Former Member of Parliament Ven. Athuraliye Rathana Thero has appeared before the Nugegoda Magistrate’s Court this morning (29), said Ada Derana reporter.
+
+A warrant for his arrest had been issued on 18 August by the Colombo Magistrate’s Court, according to Police Media Spokesman, Assistant Superintendent of Police F.U. Wootler.
+
+The Police Media Spokesman stated that the warrant was issued following a submission made by the police to the court requesting his arrest.
+
+◼️
+
+[Data](articles/f17aa8bd.json)
 
 ---
 
@@ -216,7 +300,9 @@ At around 11.00 a.m., the index stood at 21,003.97 points, reflecting an increas
 
 !முன்னாள் அமைச்சர் ராஜித சேனாரத்னவை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேல் நீதிமன்றம் இன்று உத்தரவிட்டுள்ளது.
 
-இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. ராஜித சேனாரத்ன இன்று நீதிமன்றத்தில் முன்னிலையாகி இருந்தார் என்பது குறிப்பிடத்தக்கது.
+
+முன்னாள் அமைச்சர் ராஜித சேனாரத்னவின் பதவிக்காலத்தில், கிரிந்த மீன்பிடித் துறைமுகத்தில் மண் அகழும் திட்டத்தை கொரிய நிறுவனத்திற்கு வழங்கிய விவகாரம் தொடர்பானது. இந்த ஒப்பந்தம் காரணமாக அரசுக்கு ரூ. 20 மில்லியனுக்கும் அதிகமான நிதி இழப்பு ஏற்பட்டதாக இஇலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு குற்றம்சாட்டியுள்ளது.
 
 ◼️
 
@@ -1679,101 +1765,5 @@ At a time when education is the cornerstone of national development, SLIIT has b
 ◼️
 
 [Data](articles/82254925.json)
-
----
-
-### ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමයෙන් ඉල්ලීමක්
-
-*2025-08-28 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213901) · `si`
-
-විනිවිද භාවයෙන් තොරව සිදුවන අවිධිමත් විදුලිබල ප්‍රතිසංස්කරණ ක්‍රියාවලිය සම්බන්ධයෙන් ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය විසින් නිවේදනයක් නිකුත් කර තිබේ.
-
-එම නිවේදනයේ දැක්වෙන්නේ, රජය ජනතා කේන්ද්‍රීය රජයක් ලෙස ඔවුන්ව විසින් හඳුන්වාගන්නේ නම්, රජය ක්‍රියා කළ යුතු වන්නේ සමාජයේ සහ රටේ ජනතාවගේ අවශ්‍යතා සපුරාලීමට මිස තනි පුද්ගලයෙකුගේ හෝ අනලොස්සක් වූ කිහිප දෙනෙකුගේ පුද්ගලික ඉලක්ක සපුරාලීමට නොවන බවය.
-
-එම හේතුවෙන් ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය දැඩි ලෙස රජයෙන් ඉල්ලා සිටින්නේ ප්‍රතිසංස්කරණ ක්‍රමවේදය සහ ක්‍රියාවලිය නැවත සලකා බලන ලෙසය.
-
-ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය විසින් නිකුත්කළ සම්පූර්ණ නිවේදනය පහතින්,
-
-◼️
-
-[Data](articles/01d14265.json)
-
----
-
-### ஆசிய கோப்பைக்கான இலங்கை அணி அறிவிக்கப்பட்டது
-
-*2025-08-28 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/223638) · `ta`
-
-ஆசிய கோப்பை இருபதுக்கு 20 கிரிக்கெட் போட்டிக்கான இலங்கை அணி 28ஆம் திகதி வியாழக்கிழமை பிற்பகல் அறிவிக்கப்பட்டது.
-
-சரித் அசலங்கா தலைமையிலான 16 பேர் கொண்ட அணியை இலங்கை கிரிக்கெட் தேர்வுக் குழு அறிவித்துள்ளது.
-
-இந்த ஆண்டுக்கான போட்டி ஐக்கிய அரபு அமீரகத்தில் செப்டம்பர் 9 முதல் 28 வரை நடைபெறவுள்ளது.
-
-இலங்கை அணி தனது முதல் போட்டியில் வங்கதேசத்தை செப்டம்பர் 13ஆம் தேதி விளையாட உள்ளது.
-
-1. சரித் அசலங்கா (கேப்டன்), 2. பதும் நிஸ்ஸங்க, 3. குசல் மெண்டிஸ், 4. குசல் பெரேரா, 5. நுவனிது பெர்னாண்டோ, 6. கமிந்து மெண்டிஸ், 7. கமில் மிஷார, 8. தசுன் ஷனக, 9. வனிந்து ஹசரங்க, கர்ணேத்னி1.வெல்லால்மி, 10. 12. மஹிஷ் தீக்ஷன, 13. துஷ்மந்த சமீர, 14. பினுர பெர்னாண்டோ, 15. நுவான் துஷார, 16. மதீஷ பத்திரன
-
-◼️
-
-[Data](articles/97bda7b6.json)
-
----
-
-### வாரக்காபொலவில் இன்று மாலை 6 மணி முதல் போக்குவரத்து கட்டுப்பாடுகள்
-
-*2025-08-28 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/223637) · `ta`
-
-வாரக்காபொல, அம்பேபுஸ்ஸ ரங்கல் குஹாவவில் உள்ள பண்டைய ஸ்ரீ பத்தினி தேவாலாயத்தில் வியாழக்கிழமை (28) நடைபெறும் தேவ பெரஹெரா காரணமாக கொழும்பு-கன்னட பிரதான சாலையில் போக்குவரத்து கட்டுப்படுத்தப்படும் என்று காவல்துறை ஊடகப் பிரிவு அறிக்கை வெளியிட்டுள்ளது.
-
-தேவ பெரஹெரா வியாழக்கிழமை (28) மாலை 6 மணி முதல் கொழும்பு-கன்னட பிரதான சாலையின் வீதிகளில் வலம் வந்து, அம்பேபுஸ்ஸ தேவாலயா சந்திப்பிலிருந்து கொழும்பு-கன்னட பிரதான சாலைக்குள் நுழைந்து அந்த சாலையில் கண்டி நோக்கிச் செல்லும்.
-
-பின்னர் அது அம்பேபுஸ்ஸ சந்தி, மஹேன பிரதேச செயலக சந்தி, மஹேன வளைவு ஆகியவற்றிலிருந்து புறப்பட்டு, பின்னர் அதே சாலையில் மீண்டும் தேவாலயத்திற்குச் செல்லும்.
-
-ஊர்வலத்தின் போது கொழும்பு-கண்டி பிரதான சாலையில் போக்குவரத்து நெரிசல் ஏற்படக்கூடும் என்பதால், அந்த நேரத்தில் இந்த சாலையைப் பயன்படுத்தும் பொதுமக்கள் மற்றும் ஓட்டுநர்கள் பின்வரும் மாற்று வழிகளைப் பயன்படுத்துமாறு காவல்துறை கேட்டுக்கொள்கிறது.
-
-...
-
-[Data](articles/93c71223.json)
-
----
-
-### Schoolgirl and lorry assistant killed in road accident in Kahatagasdigiliya
-
-*2025-08-28 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111958/schoolgirl-and-lorry-assistant-killed-in-road-accident-in-kahatagasdigiliya) · `en`
-
-A schoolgirl and a lorry assistant have died in a fatal road accident that occurred this afternoon (28) in Alayapattuwa along the Horowpothana –Kahatagasdigiliya main road, according to Horowpothana Police.
-
-The victims have been identified as a 10-year-old student of the Morakewa Vidyalaya in Horowpothana and a 27-year-old lorry assistant.
-
-The accident took place at approximately 1:20 p.m. near a bridge about 200 meters towards Kahatagasdigiliya from the Alayapattuwa junction, police noted.
-
-The lorry was transporting glass from Vavuniya to Anuradhapura when the driver reportedly fell asleep at the wheel. As a result, the vehicle veered off the road and crashed into the protective fence of the nearby bridge.
-
-The girl, who was returning home after school, sustained serious injuries and passed away after being admitted to the hospital.
-
-...
-
-[Data](articles/24f51329.json)
-
----
-
-### 646 individuals arrested during special island-wide police raids
-
-*2025-08-28 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/111957/646-individuals-arrested-during-special-island-wide-police-raids) · `en`
-
-A total of 646 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (27).
-
-As part of the operation, 26,572 persons were subjected to inspection, the Police Media Division said.
-
-Police have identified 34 individuals directly linked to criminal activities while 341 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 50 drunk drivers were apprehended while 3,454 persons who violated various other traffic offences were also identified, police stated.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/daf7d64c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 04:32:18**
+As of **2025-08-30 04:49:44**
 
 ## Newspaper Stats
 
-*Scraped **73,155** Articles*
+*Scraped **73,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,489
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,044
-adaderanalk | 9,289
+adaderanalk | 9,290
 tamilmirrorlk | 10,865
 virakesarilk | 12,006
 adaderanasinhalalk | 12,677
@@ -26,11 +26,31 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,155 articles have been extended.
+61,973 (84.7%) of 73,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### US court rules many of Donald Trump’s global tariffs are illegal
+
+*2025-08-30 04:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111992/us-court-rules-many-of-donald-trumps-global-tariffs-are-illegal) · `en`
+
+A US appeals court has ruled that most tariffs issued by US President Donald Trump are illegal, potentially removing a foreign policy tool that Trump has used extensively during his second term in office.
+
+The ruling affects Trump’s “reciprocal” tariffs, imposed on most countries around the world, as well as other tariffs slapped on China, Mexico and Canada.
+
+In a 7-4 decision, the US Court of Appeals for the Federal Circuit rejected Trump’s argument that the tariffs were permitted under his emergency economic powers act, calling them “invalid as contrary to law”.
+
+The ruling will not take effect until 14 October to give the administration time to ask the Supreme Court to take up the case.
+
+Trump had justified the tariffs under the International Emergency Economic Powers Act (IEEPA), which gives the president the power to act against “unusual and extraordinary” threats.
+
+...
+
+[Data](articles/75f08253.json)
+
+---
 
 ### ’ஜனாதிபதி மாளிகைகளை சுற்றுலா விடுதிகளாக மாற்றுக’
 
@@ -1727,19 +1747,5 @@ The stock was trading up 10 cents at 7.20 rupees. (Colombo/Aug29/2025)
 ◼️
 
 [Data](articles/9f8e8969.json)
-
----
-
-### නිමල් ලන්සා අත්අඩංගුවට
-
-*2025-08-29 13:10:11* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-අත්අඩංගුවට/11-418147) · `si`
-
-2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා අත්අඩංගුවට ගෙන තිබේ.
-
-කොච්චිකඩේ පොලීසියට භාර වීමෙන් අනතුරුව හිටපු අමාත්‍යවරයා අත්අඩංගුවට ගෙන ඇති අතර ඔහු අද දිනයේදි මීගමුව මහේස්ත්‍රාත් අධිකරණයට  ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/2beb1647.json)
 
 ---

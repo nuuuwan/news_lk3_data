@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 19:11:24**
+As of **2025-08-29 19:24:00**
 
 ## Newspaper Stats
 
-*Scraped **73,108** Articles*
+*Scraped **73,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,039
+adalk | 7,040
 adaderanalk | 9,286
 tamilmirrorlk | 10,864
 virakesarilk | 11,995
-adaderanasinhalalk | 12,669
+adaderanasinhalalk | 12,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,108 articles have been extended.
+61,973 (84.8%) of 73,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### අධිවේගයේ බස් රථවල මගීන්ට ආසන පටි පැළදීම අනිවාර්ය කිරීමේ ගැසට් නිවේදනය 31 වැනිදා
+
+*2025-08-29 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213942) · `si`
+
+අධිවේගී මාර්ගයේ ගමන් ගන්නා මගී ප්‍රවාහන බස් රථවල මගීන්ට ආසන පටි පැළදීම අනිවාර්ය කිරීමේ විධිවිධාන ඇතුළත් ගැසට් නිවේදනය මේ මස 31 වැනිදා නිකුත් කිරීමට නියමිත බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය සහ පාර්ලිමේන්තුවේ සභානායක බිමල් රත්නායක මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව ඒ මහතාගේ සභා‍පතිත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේ දී රැස් වූ අවස්ථවේදීය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා පෙන්වා දුන්නේ “ක්ලීන් ශ්‍රී ලංකා” වැඩසටහනේ ප්‍රධාන අංශයක් ලෙස මෙය ක්‍රියාත්මක කරන බවය.
+
+එසේම අධිවේගී මාර්ගවල ගමන් කරන පාසැල් බස් රථ, කාර්යාල සේවා ප්‍රවාහන බස්රථ, විනෝද චාරිකා බස් රථ සහ අනෙකුත් බස් රථ සඳහා ද ආසන පටි සැකසීමට මාස 3ක පමණ කාලයක් ලබාදෙන බවද ඔහු පෙන්වා දුන්නේය.
+
+විශේෂයෙන්ම රු. 2000 පමණ මිලකට පැවති ආසන පටි මිල රු. 5,000ත් 7,000ත් අතර මිලක් දක්වා මේ වන විට ඉහළ ගොස් ඇති බවත් මෙය පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියෙන් ‍පරීක්ෂා කර බැලිය යුතු බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/ad0e6940.json)
+
+---
 
 ### ජකර්තා නුවරදී අපරාධ කල්ලි සාමාජිකයින් සමග අත්අඩංගුවට ගත් කාන්තාව සහ කුඩා දරුවා දිවයිනට
 
@@ -109,6 +129,22 @@ During the meeting, Birla underscored Sri Lanka’s significance in India’s Ne
 ...
 
 [Data](articles/6ef03b24.json)
+
+---
+
+### සිම්බාබ්වේට ලකුණු 299ක ඉලක්කයක්
+
+*2025-08-29 17:31:17* · [`adalk`](https://www.ada.lk/breaking_news/සිම්බාබ්වේට-ලකුණු-299ක-ඉලක්කයක්/11-418156) · `si`
+
+ජනිත් ලියනගේ 70* (පන්දු 47) හා කමිඳු මෙන්ඩිස්  57 (පන්දු 36) හයවැනි කඩුල්ල වෙනුවෙන් පන්දු 77කදී ගොඩ නැගූ ලකුණු 137ක වේගවත් සබඳතාවත් සමගින් සිම්බාබ්වේ කණ්ඩායමට ලකුණු 299ක දැවැන්ත ඉල්කයක් ලබාදීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+දෙරට අතර පැවැත්වෙන පළමු එක්දින තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ‍්ඩායම පන්දුවාර 50කදී ලකුණු 298ක් රැස් කිරීමට සමත්විය. අරම්භක පිතිකරු පැතුම් නිශ්ශංක 76 (පන්දු92) සමග ශ්‍රි ලංකා ඉනිම ආරම්භ කිරීමට නිශාන් මධුෂ්ක ආරම්භ කළත් මුළු ලකුණු සංඛ්‍යාව ලකුණු 9දී නිශාන් ලකුණු නොලබා පිටියෙන් ඉවත්විය.
+
+කෙසේ වෙතත් ඉන් අනතුරුව පිටියට පිවිසි කුසල් මෙන්ඩිස් 38 (පන්දු 63) සමග එක්වූ පැතුම් දෙවැනි කඩුල්ලට ලකුණු 100ක සබඳතාවක් පත්වමින් ශ්‍ර‍ී ලංකා ඉනිම ලකුණු 109ක් දක්වා රැගෙන ආවේය. ඉන් අනතුරුව ක්‍රියාත්මක වූ ශ්‍රි ලංකා මැදපෙළ පිතිකරුවන් ශ්‍රී ලංකා ඉනිම ක්‍රමයෙන් ගොඩ නැංවීය. සිම්බාබ්වේ වෙනුවෙන් රිචඩ් න්ගරාවා කඩුලු දෙකක් දවා ගැනීමට සමත්විය
+
+◼️
+
+[Data](articles/4bdf9672.json)
 
 ---
 
@@ -1711,41 +1747,5 @@ Accordingly, the Colombo High Court has ordered that notices be issued to the Di
 ◼️
 
 [Data](articles/d03b760c.json)
-
----
-
-### ශ්‍රී ලංකා - සිම්බාබ්වේ පළමු එක්දින තරගය අද
-
-*2025-08-29 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213912) · `si`
-
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ සිම්බාබ්වේ තරග සංචාරය ආරම්භ කරමින් පළමු එක්දින ක්‍රිකට් තරගය අද (29) පැවැත්වේ.
-
-හරාරේ ක්‍රීඩාංගණයේ පැවැත්වෙන මෙම තරගය මෙරට වේලාවෙන් ප.ව. 1ට ආරම්භවීමට නියමිතය.
-
-දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ ක්‍රීඩාංගණයේදීම පැවැත්වීමට නියමිතය.
-
-◼️
-
-[Data](articles/0833194a.json)
-
----
-
-### Two arrested over shooting of former prison officer in Bandaragama
-
-*2025-08-29 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111970/two-arrested-over-shooting-of-former-prison-officer-in-bandaragama) · `en`
-
-Two suspects have been arrested for aiding and abetting the shooting of a former prison officer near the Bolgoda Bridge in the Bandaragama Police Division.
-
-The duo was arrested last afternoon (28) in the Modarawila area in Panadura and presented to the Bandaragama Police Station.
-
-The deceased in the shooting, which took place on August 21, has been identified as Lalith Kumara Kodagoda, a resident of Panadura, police said.
-
-The suspects arrested are aged 18 and 21 and are residents of Panadura, according to the police.
-
-The police have taken into custody a motorcycle with fake number plates, believed to have been used by the shooters, along with a fake license, an insurance certificate, an income certificate, and an additional set of counterfeit number plates found in the possession of the suspects.
-
-◼️
-
-[Data](articles/09f732ca.json)
 
 ---

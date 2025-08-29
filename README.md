@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 00:09:03**
+As of **2025-08-30 00:23:21**
 
 ## Newspaper Stats
 
-*Scraped **73,132** Articles*
+*Scraped **73,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 749
 economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
-dailyftlk | 5,169
+dailyftlk | 5,172
 adalk | 7,044
 adaderanalk | 9,288
 tamilmirrorlk | 10,864
@@ -26,11 +26,55 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,132 articles have been extended.
+61,973 (84.7%) of 73,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Necessary civic revolution: Bureaucratic inertia, system change and national awakening (Punorudaya)
+
+*2025-08-29 23:39:50* · [`dailyftlk`](https://www.ft.lk/columns/Necessary-civic-revolution-Bureaucratic-inertia-system-change-and-national-awakening-Punorudaya/4-780971) · `en`
+
+The NNP Government has an unprecedented opportunity to strategically dismantle moribund conditions that stand against midwifing a liberating civic ethos
+
+No amount of power can easily purge the system. Previous Governments, particularly since 1977, festered into a putrid cesspool—politicising and commodifying the public service, where bureaucrats grovelled before unscrupulous politicians, businesses, intellectuals, professional and religious authorities, selling their integrity and strangling the nation they are sworn to serve. It is inevitable that the complex web of transactions in this malignant syndicate, normalised for decades, is now being ruptured. The reaction? Complete fear and resentment, as they frantically seek every possible way to delay and dismantle reform, corrupted public servants remain their most potent weapon in this desperate war against change
+
+...
+
+[Data](articles/5b7fe67f.json)
+
+---
+
+### North star for climate change adaptation: Making progress on the Global Goal on Adaptation
+
+*2025-08-29 23:35:26* · [`dailyftlk`](https://www.ft.lk/columns/North-star-for-climate-change-adaptation-Making-progress-on-the-Global-Goal-on-Adaptation/4-780970) · `en`
+
+10 years after the Paris Agreement, 2025 is set to be the year that renders the Global Goal on Adaptation operational
+
+Ten years after the Paris Agreement, 2025 is set to render a key part of it operational: the Global Goal on Adaptation, or GGA for short. Agreed in Paris, the GGA aims to enhance adaptive capacity, strengthen resilience, and reduce vulnerability to climate change in the context of the temperature goal. So far, it has advanced through two work programs (from 2022-2023 and 2024-2025) and is now defined through the UAE Framework for Global Climate Resilience, which lists seven thematic and four dimensional targets. The current work program—the UAE–Belém work program—was launched in Dubai and is mandated to deliver a set of indicators for these targets at the end of this year, when countries from across the world will convene at COP30 in Belém, Brazil.
+
+...
+
+[Data](articles/d635d5c0.json)
+
+---
+
+### Indictment of President Emeritus
+
+*2025-08-29 23:32:36* · [`dailyftlk`](https://www.ft.lk/columns/Indictment-of-President-Emeritus/4-780969) · `en`
+
+The issue at hand should be decided according to the reasonable man standard
+
+In the context of the indictment of Ranil Wickremesinghe, various persons gave various reasons why this should not have been done. Several recalled his service to the country in various forms, his age and health condition. Others spoke of an erosion of democracy. (On the opposite side). It could have been said that he had been involved in some way in the bond scam; that he was in some way even remotely connected with Batalanda, etc… Let the negatives be cast aside for a moment.
+
+The charge is very simply that he had engaged in a private trip and had charged the Government 166 million for that jaunt. On a popular TV show the host pointed out that the current president had visited his mother and suppose he had also gone to his home town and visited friends and stayed overnight and used public funds for all this, would he also be guilty of an offence?
+
+...
+
+[Data](articles/48a00196.json)
+
+---
 
 ### බැකෝ සමන්ගේ බිරිඳ වැඩිදුර විමර්ශන සඳහා කොළඹ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවට
 
@@ -1691,59 +1735,5 @@ The attack killed one crew member and injured multiple others, the Kiev Independ
 ◼️
 
 [Data](articles/269b3957.json)
-
----
-
-### 85-year-old woman stabbed to death in Walasmulla
-
-*2025-08-29 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111975/85-year-old-woman-stabbed-to-death-in-walasmulla) · `en`
-
-An 85-year-old elderly woman has been stabbed to death with a sharp weapon in the Udagahawatte area of the Walasmulla Police Division.
-
-The incident had occurred yesterday (28) and the victim, a resident of Udagahawatte, had been living alone in her home.
-
-Police investigations have revealed that the woman was attacked after her son had visited the residence, provided her dinner, and left later that evening.
-
-It is believed that the suspect entered the residence thereafter and carried out the murder, police said.
-
-The suspect involved in the crime has fled the area and Walasmulla Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/f4c39d81.json)
-
----
-
-### 1.5 லட்சம் பாகிஸ்தானியர்  உயிர் தப்பினர்
-
-*2025-08-29 11:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-5-லட்சம்-பாகிஸ்தானியர்-உயிர்-தப்பினர்/50-363707) · `ta`
-
-இந்​தி​யா​வின் முன்​கூட்​டியே அளித்த வெள்ள எச்​சரிக்​கை​யால் 1.5 லட்​சம் பாகிஸ்​தானியர்​கள் உயிர் தப்பி உள்​ளனர்.
-
-காஷ்மீரிலிருந்து பாகிஸ்​தானை நோக்கி பாயும் ராவி, சட்​லெஜ், செனாப் ஆகிய ஆறுகளில் கடும் வெள்​ளப்​பெருக்கு ஏற்​பட்​டுள்​ளது. மேலும் ஜம்மு காஷ்மீரில் உள்ள அணை​கள் முழு கொள்​ளளவை எட்​டிய​தால் திறக்​கப்​பட்​டுள்​ளன. இதனால் கடும் வெள்​ளப்​பெருக்கு ஏற்​படும் என கடந்த திங்​கள்​கிழமை, செவ்​வாய்க்​கிழமை, புதன்​கிழமை என தொடர்ந்து பாகிஸ்​தான் அரசுக்கு இந்​திய அரசு வெள்ள அபாய எச்​சரிக்கை விடுத்​தது.
-
-இதன் அடிப்​படை​யில், ஆற்​றங் கரையோர கிராமங்​களைச் சேர்ந்த சுமார் 1.5 லட்​சம் பேர் அங்​கிருந்து அப்​புறப்​படுத்​தப்​பட்டு பாது​காப்​பான இடங்​களில் தங்க வைக்​கப்​பட்​டனர். இதனால் அவர்​கள் உயிர் தப்பி உள்​ளனர்.
-
-...
-
-[Data](articles/0330acc6.json)
-
----
-
-### முத்துநகர் விவசாயிகள் ஐவருக்கு விளக்கமறியல்
-
-*2025-08-29 11:45:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முத்துநகர்-விவசாயிகள்-ஐவருக்கு-விளக்கமறியல்/175-363706) · `ta`
-
-திருகோணமலை சீனக்குடா பொலிஸாரினால் கைது செய்யப்பட்டு திருகோணமலை நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட முத்துநகர் விவசாயிகள் 5 பேரை எதிர்வரும் 4ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் வியாழக்கிழமை (28) உத்தரவு பிறப்பித்துள்ளது.
-
-திருகோணமலை முத்து நகர் பகுதியில் இடம்பெற்ற வன்முறை சம்பவம் தொடர்பில் சீனக்குடா பொலிஸாரினால் முத்து நகர் பகுதியைச் சேர்ந்த 6 பேர் புதன்கிழமை (27) சந்தேகத்தின் பேரில் கைது செய்யப்பட்டிருந்தனர்.
-
-குறித்த சந்தேக நபர்களை வியாழக்கிழமை  (28) நீதிமன்றில் முன்னிலைபடுத்திய போது  ஒருவருக்கு பிணை வழங்கப்பட்டதுடன் ஏனைய 5 பேரையும் எதிர்வரும் 4ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-முத்துநகர் விவசாயிகள் விவசாயம் செய்து வந்த காணியில் இந்திய சோலார் நிறுவனம் ஒன்றினால் வேலைகள் இடம்பெற்றுக் கொண்டிருந்த நிலையில் குறித்த வன்முறைச் சம்பவம் இடம்பெற்றுள்ளது. குறித்த சம்பவம் இடம்பெற்ற இடத்தில் இலங்கைத் துறைமுக அதிகார சபையின் ஊழியர்கள் மற்றும் சோலார் நிறுவனத்தினுடைய ஊழியர்கள் இருந்ததாகவும் தெரிய வருகிறது.
-
-...
-
-[Data](articles/b869da0b.json)
 
 ---

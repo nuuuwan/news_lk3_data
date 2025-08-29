@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 09:36:10**
+As of **2025-08-29 09:50:57**
 
 ## Newspaper Stats
 
-*Scraped **72,997** Articles*
+*Scraped **73,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,022
-adaderanalk | 9,269
+adalk | 7,023
+adaderanalk | 9,271
 tamilmirrorlk | 10,840
 virakesarilk | 11,984
-adaderanasinhalalk | 12,640
+adaderanasinhalalk | 12,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,997 articles have been extended.
+61,973 (84.9%) of 73,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ශ්‍රී ලංකා - සිම්බාබ්වේ පළමු එක්දින තරගය අද
+
+*2025-08-29 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213912) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ සිම්බාබ්වේ තරග සංචාරය ආරම්භ කරමින් පළමු එක්දින ක්‍රිකට් තරගය අද (29) පැවැත්වේ.
+
+හරාරේ ක්‍රීඩාංගණයේ පැවැත්වෙන මෙම තරගය මෙරට වේලාවෙන් ප.ව. 1ට ආරම්භවීමට නියමිතය.
+
+දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ ක්‍රීඩාංගණයේදීම පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/0833194a.json)
+
+---
+
+### Two arrested over shooting of former prison officer in Bandaragama
+
+*2025-08-29 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/111970/two-arrested-over-shooting-of-former-prison-officer-in-bandaragama) · `en`
+
+Two suspects have been arrested for aiding and abetting the shooting of a former prison officer near the Bolgoda Bridge in the Bandaragama Police Division.
+
+The duo was arrested last afternoon (28) in the Modarawila area in Panadura and presented to the Bandaragama Police Station.
+
+The deceased in the shooting, which took place on August 21, has been identified as Lalith Kumara Kodagoda, a resident of Panadura, police said.
+
+The suspects arrested are aged 18 and 21 and are residents of Panadura, according to the police.
+
+The police have taken into custody a motorcycle with fake number plates, believed to have been used by the shooters, along with a fake license, an insurance certificate, an income certificate, and an additional set of counterfeit number plates found in the possession of the suspects.
+
+◼️
+
+[Data](articles/09f732ca.json)
+
+---
+
+### South Korea’s ex-first lady Kim Keon Hee indicted on bribery charges
+
+*2025-08-29 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111969/south-koreas-ex-first-lady-kim-keon-hee-indicted-on-bribery-charges) · `en`
+
+Kim Keon Hee, the wife of South Korea’s ousted former President Yoon Suk Yeol, has been indicted for bribery and other charges, a special prosecution team said on Friday (Aug 29), amid a widening probe into the country’s martial law crisis and scandals involving the once powerful couple.
+
+Both Yoon and Kim have been arrested and are in jail, with Yoon already undergoing trial on charges that include insurrection following his ouster in April over a botched bid to impose martial law in December.
+
+The couple are under separate investigations by special prosecutors appointed after Yoon’s removal from office and President Lee Jae Myung took office.
+
+It is the first time that a former first lady has been indicted in South Korea.
+
+The charges against Kim, which are punishable by years in prison if she is found guilty, range from stock fraud to bribery that have implicated business owners, religious figures and a political power broker.
+
+...
+
+[Data](articles/ac9ac220.json)
+
+---
 
 ### ரணில் குறித்து தற்போது வெளியான விஷேட செய்தி
 
@@ -1280,6 +1336,28 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 ---
 
+### උදෑසන පාසල් හා කාර්යාල වේලාවේ බර වාහන ධාවනයට සීමා?
+
+*2025-08-28 18:25:56* · [`adalk`](https://www.ada.lk/breaking_news/උදෑසන-පාසල්-හා-කාර්යාල-වේලාවේ-බර-වාහන-ධාවනයට-සීමා-/11-418139) · `si`
+
+උදෑසන පාසල් සහ කාර්යාල වේලාවේ බර වාහන ධාවනය සීමා කිරීමට රජයේ අවධානය යොමුව ඇති බව වාර්තාවේ.
+
+ඒ සඳහා මහජන ආරක්ෂක අමාත්‍යාංශය සහ පොලීසිය එක්ව මේ වන විට සැලසුම් සකස් කරමින් පවතින බවද වාර්තාවේ.
+
+එම කාලය තුළ බර වාහන වල ගැටී ජීවිත විශාල සංඛ්‍යාවක් නැති වීම සහ පුද්ගලයන් තුවාල වීම යන කාරණා  මත මෙම තීරණය ගැනීමට හේතු වී තිබේ.
+
+මෑත කාලය තුළ කුලියාපිටියේදී බර වාහනයක පාසල් වෑන් රථයක් ගැටී පාසල් ළමුන්ගේ ජීවිත නැතිවීම, බොරැල්ල ප්‍රදේශයේදී තිරිංග විරහිත වීමෙන් බර වාහනයක් තවත් වාහන කිහිපයක් යටකරගෙන යාම යන හේතූන් මත මේ පිළිබඳ සමාජයේ කතා බහක් ඇති වී තිබේ.
+
+මේ අතර, පාසල් ළමුන් ප්‍රවාහනය කිරීම සඳහා භාවිතා කරන වාහන වල ප්‍රමිතිය සම්බන්ධයෙන් අවධානය යොමු කිරීමට ද සාකච්ඡා වී ඇති බව වාර්තාවේ.
+
+ධාවන තත්ත්වයට නුසුදුසු වාහන පාසල් ළමුන් ප්‍රවාහනයට යොදා ගෙන පසුගිය කාලය තුළ රිය අනතුරු සිදුවීමද දක්නට ලැබිණි.
+
+◼️
+
+[Data](articles/06830041.json)
+
+---
+
 ### අස්ගිරි අනුනායක ධුරයට නාරම්පනාවේ ආනන්ද හිමියෝ පත්වෙති
 
 *2025-08-28 18:17:45* · [`adalk`](https://www.ada.lk/breaking_news/අස්ගිරි-අනුනායක-ධුරයට-නාරම්පනාවේ-ආනන්ද-හිමියෝ-පත්වෙති/11-418138) · `si`
@@ -1697,85 +1775,5 @@ Provincial minister Marriyum Aurangzeb said floods hit 1,432 villages located al
 ◼️
 
 [Data](articles/586efdf2.json)
-
----
-
-### Man arrested for assaulting police officer during protest near Fort Magistrate’s Court remanded
-
-*2025-08-28 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/111952/man-arrested-for-assaulting-police-officer-during-protest-near-fort-magistrates-court-remanded) · `en`
-
-An individual, who was arrested for allegedly assaulting a police officer on duty with a water bottle adjacent to the Colombo Fort Magistrate’s Court on Tuesday (26), has been remanded, said Ada Derana reporter.
-
-The Colombo Fort Magistrate’s Court today (28) ordered the suspect to be remanded until September 8.
-
-The incident took place on Tuesday near the court premises, during legal proceedings related to former President Ranil Wickremesinghe.
-
-The suspect was arrested in Kalutara yesterday (27) by a team of officers from the Colombo Crimes Division (CCD).
-
-According to police, the suspect has been identified as a 52-year-old former urban councilor from Nagoda.
-
-◼️
-
-[Data](articles/717b24b7.json)
-
----
-
-### யால தேசிய பூங்காவில் யானை குட்டிக்கு காயம்
-
-*2025-08-28 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/223600) · `ta`
-
-யால தேசிய பூங்காவின் புட்டவ நீர்த்தேக்கத்திற்கு அருகிலுள்ள வலயம் 01 இல் யானை குட்டி ஒன்று வலையில் சிக்கியதால் அதன் காலில் காயங்களுடன் கண்டுபிடிக்கப்பட்டுள்ளதாக பூங்கா காப்பாளர் தெரிவித்துள்ளார்.
-
-வனவிலங்கு கால்நடை வைத்தியர்கள் நேற்று புதன்கிழமை (27) யானைக்கு அவசர வைத்திய சிகிச்சை அளித்ததாக வனஜீவராசிகள்பாதுகாப்புத் திணைக்களம் தெரிவித்துள்ளது.
-
-காலில் பலத்த காயமடைந்த யானைக் குட்டிக்கு மயக்க மருந்து கொடுக்கப்பட்டு, தேவையான சிகிச்சைகள் அளிக்கப்பட்டன.
-
-வனவிலங்கு கால்நடை வைத்தியர் கே. தம்மி, லுனுகம்வெஹெர சுகாதார அபிவிருத்தி மைய அதிகாரிகளுடன் இந்த நடவடிக்கையில் பங்கேற்றனர்.
-
-வலையில் சிக்கிய காட்டு விலங்குகள் கடுமையான வலியை அனுபவிப்பதாகவும், சிக்கியவுடன் உடனடியாக அதிகாரிகளால் கவனிக்கப்படாமல் போவதாகவும் வனஜீவராசிகள் பாதுகாப்புத் திணைக்களம் சுட்டிக்காட்டியது.
-
-...
-
-[Data](articles/ad3716e7.json)
-
----
-
-### අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරයට පූජ්‍ය නාරම්පනාවේ ආනන්ද නාහිමි පත් කෙරේ
-
-*2025-08-28 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213897) · `si`
-
-සියම් මහා නිකායේ අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරය සඳහා අස්ගිරි පාර්ශ්වයේ නියෝජ්‍ය ලේඛකාධිකාරී අතිපූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියෝ තේරී පත්විය.
-
-මෙම ධුරය සඳහා වූ නිලවරණය අද (28) පස්වරු 2ට අස්ගිරි මහා විහාරයේ මංගල උපෝසථගාරයේදී එම පාර්ශ්වයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ඥාණරතන නාහිමිගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
-
-හිමිවරුන් විසි දෙනෙකු අස්ගිරි කාරක මහා සංඝ සභාව නියෝජනය කරන අතර ඉන් 19 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා තිබුණි.
-
-අස්ගිරි පාර්ශ්වයේ ජ්‍යෙෂ්ඨ කාරක සංඝ සභික ඓතිහාසික මහියංගනය රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ධම්මරක්ඛිත හිමි හා අස්ගිරි පාර්ශ්වයේ ජ්‍යෙෂ්ඨ ලේඛකාධිකාරී  ධර්මාචාර්ය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමිවරු මෙම ධුරය සඳහා අපේක්ෂකයන් ලෙස ඉදිරිපත්වීමට දැහැත් ලබාදී තිබුණි.
-
-අස්ගිරි පාර්ශ්වයේ අනුනායක ධුරයේ කටයුතු කළ පූජ්‍ය  ආනමඩුවේ ශ්‍රී ධම්මදස්සි නාහිමිගේ අපවත්වීම හේතුවෙන් එම පාර්ශ්වයේ එක් අනුනායක ධුරයක් පුරප්පාඩුව පැවතුණි.
-
-◼️
-
-[Data](articles/321da71e.json)
-
----
-
-### පොඩි මැණිකේ දුම්රිය කාර්මිකයා පොඩි මැණිකේටම යටවී ජීවිතක්ෂයට
-
-*2025-08-28 16:31:19* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-මැණිකේ-දුම්රිය-කාර්මිකයා-පොඩි-මැණිකේටම-යටවී-ජීවිතක්ෂයට/11-418130) · `si`
-
-කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1005 දරන පොඩිමැණිකේ දුම්රියෙ ගමන් ගත් කාර්මික නිළධාරියකු  අද  (28) පස්වරුවේ බණ්ඩාරවෙල දුම්රිය ස්ථානය අසල දී දුම්රියේන් ඇද වැටී එම දුම්රියටම යටවීමෙන් මිය ගිය බව බණ්ඩාරවෙල පොලිසිය පවසයි.
-
-සබරගමුව  පලාත් සභාවේ විධායක ඉංජිනේරු කාර්යාලයට අනියුක්තව සේවය කල මහනුවර පිළිමතලාව අරබේගම පදිංචි  ආර් එම් පී.එන් වීරසිංහ (52) නැමති අයෙකු මෙසේ මිය ගිය බව ද පොලිසිය කීය .
-
-දුම්රියට යටවීමෙන් ඔහුගේ පාද දෙකම වෙන්වී සිරුරට බරපතළ ලෙස තුවාල සිදුව තිබු බවත් පොලිසිය සදහන් කලේය .
-
-මොහු කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1005 දරන පොඩිමැණිකේ දුම්රියෙන් පැමින දුම්රිය බණ්ඩාරවෙල දුම්රිය ස්ථානයේ දුම්රිය නැවත්වීමට පෙර දුම්රියෙන් බැසීමට  යාමෙදී  මෙසේ දුම්රියේන් ඇද වැටී ධාවනය වූ එම දුම්රියටම යටවී ඇතයි පොලිසිය පැවසිය .
-
-දුම්රිය යට දුම්රිය මාර්ගයේ තිබු මොහුගේ සිරුර සුවසැරිය ගිලන් රථයක දමා ගෙන බණ්ඩාරවෙල රෝහලට රැගෙන ගිය බව පොලිසිය පවසයි .
-
-...
-
-[Data](articles/fe75dbea.json)
 
 ---

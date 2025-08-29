@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 00:23:21**
+As of **2025-08-30 00:33:49**
 
 ## Newspaper Stats
 
-*Scraped **73,135** Articles*
+*Scraped **73,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,172
 adalk | 7,044
-adaderanalk | 9,288
+adaderanalk | 9,289
 tamilmirrorlk | 10,864
 virakesarilk | 12,001
 adaderanasinhalalk | 12,677
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,135 articles have been extended.
+61,973 (84.7%) of 73,136 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,28 @@ The charge is very simply that he had engaged in a private trip and had charged 
 ...
 
 [Data](articles/48a00196.json)
+
+---
+
+### Colombo’s consumer price index rises on-year in August, first time in twelve months
+
+*2025-08-29 23:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111991/colombos-consumer-price-index-rises-on-year-in-august-first-time-in-twelve-months) · `en`
+
+Sri Lanka’s Colombo consumer price index rose 1.2% year-on-year in August, after falling 0.3% in July, the statistics department said on Friday.
+
+On a year-on-year basis, the index turned positive in August after falling for 11 straight months, the data showed.
+
+The Colombo Consumer Price Index (LKCCPI=ECI), a leading indicator for broader national prices, tracks inflation in Colombo, Sri Lanka’s biggest city.
+
+Inflation in the food category accelerated to 2% year-on-year in August from 1.5% in July. In the non-food category, consumer prices increased 0.8% this month compared with a drop of 1.2% year-on-year in July.
+
+“Inflation will probably remain under 2% for the rest of the year and reach the central bank’s target of 5% only in the second half of 2026,” said Dimantha Mathew, head of research at First Capital.
+
+Sri Lanka, which was plunged into a financial crisis due to a record shortage of dollars three years ago, has recovered strongly, posting 5% economic growth last year.
+
+...
+
+[Data](articles/683b2655.json)
 
 ---
 
@@ -1717,23 +1739,5 @@ The attack killed one crew member and injured multiple others, the Kiev Independ
 ◼️
 
 [Data](articles/74103253.json)
-
----
-
-### රාජිත රිමාන්ඩ්
-
-*2025-08-29 11:52:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජිත-රිමාන්ඩ්/11-418145) · `si`
-
-කොළඹ මහාධිකරණය හමුවේ පෙනී සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළ කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය, සේනාරත්න මහතාව අද දින කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරන ලෙසද නියම කළාය.
-
-අල්ලස් කොමිසම විසින් ගොනුකර තිබූ නඩුවක් සඳහා අද (29) කොළඹ මහාධිකරණය හමුවේ පෙනී සිටි රාජිත සේනාරත්න මහතාව කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනතුරු ඒ රිමාන්ඩ් භාරයේ තබාගන්නා ලෙස මහාධිකරණ විනිසුරුවරිය නියම කළාය.
-
-ධීවර අමාත්‍යවරයා වශයෙන් කටයුතු කළ අවධියේ මෝදර ධීවර වරාය පෞද්ගලික සමාගමකට බදු දීමේදී රජයට පාඩු සිදුකළේ යැයි චෝදනා කරමින් අල්ලස් කොමිසම විසින් රාජිත සේනාරත්න මහතා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව අල්ලස් කොමිසම විසින් කොළඹ මහාධිකරණය හමුවේ නඩුවක් ගොනුකර තිබුණි.
-
-එම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය ඉදිරියේ කැඳවූ අවස්ථාවේදී විත්තිකාර රාජිත සේනාරත්න මහතා අධිකරණය හමුවේ පෙනී සිටියේය.
-
-◼️
-
-[Data](articles/269b3957.json)
 
 ---

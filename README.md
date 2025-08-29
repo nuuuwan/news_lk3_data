@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 23:51:36**
+As of **2025-08-30 00:09:03**
 
 ## Newspaper Stats
 
-*Scraped **73,129** Articles*
+*Scraped **73,132** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 617
 bbccomsinhala | 677
-colombotelegraphcom | 746
+colombotelegraphcom | 749
 economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,129 articles have been extended.
+61,973 (84.7%) of 73,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -432,6 +432,18 @@ However, it is said that Indonesian authorities have deported the woman and chil
 
 ---
 
+### The Meaning Of Rata Anurata: Is It a Reality On The Grounds?
+
+*2025-08-29 18:00:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-meaning-of-rata-anurata-is-it-a-reality-on-the-grounds/) · `en`
+
+“I always tried to be correct, not politically correct.” “I am prepared to make unpopular decisions if they are right for Singapore. What matters is the country, not the individual.” — Lee Kuan Yew
+
+...
+
+[Data](articles/152fd9da.json)
+
+---
+
 ### புதிய 2000 ரூபாய் வெளியிட்டு வைக்கப்பட்டது
 
 *2025-08-29 17:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-2000-ரூபாய்-வெளியிட்டு-வைக்கப்பட்டது/175-363733) · `ta`
@@ -459,6 +471,22 @@ However, it is said that Indonesian authorities have deported the woman and chil
 ◼️
 
 [Data](articles/77960b66.json)
+
+---
+
+### Ranil Wickremesinghe’s Arrest: Fighting Corruption Or Fuelling Political Victimization?
+
+*2025-08-29 17:51:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghes-arrest-fighting-corruption-or-fuelling-political-victimization/) · `en`
+
+The arrest and remanding of former President Ranil Wickremesinghe has triggered significant political upheaval across the country. For many, particularly outside the Janatha Vimukthi Peramuna (JVP) and National People’s Power (NPP), the development has been deeply unsettling. In contrast, supporters of the JVP and NPP have expressed open delight, as evident from their reactions on social media.
+
+Some interpret the arrest as proof that the law is finally being applied equally to all. Others, especially within the opposition, dismiss it as little more than political revenge.
+
+If crimes have been committed, the law must apply equally to all. That is not up for debate. The case of Keheliya Rambukwella, the former Health Minister, is one such example.
+
+...
+
+[Data](articles/3680ee1f.json)
 
 ---
 
@@ -1003,6 +1031,18 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 ◼️
 
 [Data](articles/9f1626b5.json)
+
+---
+
+### The Struggles Of Transgender Identity: Observations & Reflections
+
+*2025-08-29 15:04:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-struggles-of-transgender-identity-observations-reflections/) · `en`
+
+This paper examines the psychological, medical, and social struggles faced by transgender individuals, drawing on both personal observations and established research. While gender reassignment surgery and hormone therapy are often framed as pathways to liberation, evidence suggests that these interventions do not fully resolve underlying identity conflicts. Instead, they may compound psychological distress and physical burdens. By combining first-hand workplace observations with findings from psychiatric and sociological studies, this paper argues that the transgender experience requires deeper reflection beyond medical affirmation.
+
+...
+
+[Data](articles/9c632012.json)
 
 ---
 
@@ -1705,65 +1745,5 @@ The suspect involved in the crime has fled the area and Walasmulla Police are co
 ...
 
 [Data](articles/b869da0b.json)
-
----
-
-### Former MP Ven. Athuraliye Rathana Thero appears before court
-
-*2025-08-29 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/111974/former-mp-ven-athuraliye-rathana-thero-appears-before-court) · `en`
-
-Former Member of Parliament Ven. Athuraliye Rathana Thero has appeared before the Nugegoda Magistrate’s Court this morning (29), said Ada Derana reporter.
-
-A warrant for his arrest had been issued on 18 August by the Colombo Magistrate’s Court, according to Police Media Spokesman, Assistant Superintendent of Police F.U. Wootler.
-
-The Police Media Spokesman stated that the warrant was issued following a submission made by the police to the court requesting his arrest.
-
-◼️
-
-[Data](articles/f17aa8bd.json)
-
----
-
-### රතන හිමි නුගේගොඩ අධිකරණයට
-
-*2025-08-29 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213921) · `si`
-
-අධිකරණයෙන් වරෙන්තු ලබා සිටි හිටපු පාර්ලිමේන්තු මන්ත්‍රි පූජ්‍ය අතුරලියේ රතන හිමියන් අද (29) නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය හමුවේ පෙනී සිටියේය.
-
-රතන හිමියන්ට එල්ල වූ චෝදනාව වූයේ 2020 මහ මැතිවරණයෙන් 'අපේ ජනබල' පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධූරය ලබාගැනීම සඳහා එම පක්ෂයේ මහලේකම් පූජ්‍ය වේදිනිගම විමලතිස්ස හිමියන් පැහැරගෙන ගොස් රඳවා තබාගැනීමය.
-
-2020 වසරේ මහමැතිවරණයෙන් 'අපේ ජනබල' පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධූරයට අදාළව පූජ්‍ය අතුරලිය රතන හිමිට එල්ලවූ චෝදනාවක් සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාසය විමර්ශනයක් සිදුකරමින් සිටී.
-
-උන්වහන්සේට එල්ල වූ චෝදනාව වූයේ බලපෑම් කොට එම මන්ත්‍රි ධුරය ලබාගැනීම සඳහා එම පක්ෂයේ මහලේකම් පූජ්‍ය වේදිනිගම විමලතිස්ස හිමියන් පැහැරගෙන ගොස් රඳවා තබාගැනීමය.
-
-එම විමර්ශනවලට අදාළව රතන හිමි අත්අඩංගුවට ගැනීම සඳහා කොළඹ අපරාධ කොට්ඨාසය උන්වහන්සේ වැඩසිටි රාජගිරිය සඳහම් සෙවණට ගියද උන්වහන්සේ එහි නොසිටි බවත් දුරකථනය ද විසන්ධි කර ඇති බවත් එම කොට්ඨාසය මීට පෙර අධිකරණයට දැනුම් දුන්නේය.
-
-...
-
-[Data](articles/491cc949.json)
-
----
-
-### අයහපත් කාලගුණයෙන් පාකිස්තානයේ මිලියනයක්  අවතැන්
-
-*2025-08-29 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213920) · `si`
-
-පාකිස්තානයේ පන්ජාබ් ප්‍රාන්තයට බලපෑ හදිසියේ ජලගැලීම් හේතුවෙන් පුද්ගලයින් 17ක් දෙනෙක් මියගොස්, ගම්මාන 1,600ක් පමණ ජලයෙන් යටවී ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
-
-ඉන්දියාවට ඇඳහැලෙන ධාරාණිපාත වැසි හේතුවෙන් එහි ජලාශ පිරීගොස්, එහි ජලය පාකිස්තානයේ පන්ජාබ් වෙත නිදහස් කිරීම හේතුවෙන් මෙලෙස ජලගැලීම් සිදුව ඇති බව සඳහන්.
-
-ඉන්දියාවේ සිට පාකිස්තානය ඔස්සේ ගලාබසින රවී, සුත්ලේජ් සහ චෙනාබ් ගංගාවල මෙලෙස ජල මට්ටම ඉහළ ගොස් ඇති බව වාර්තා වේ.
-
-ජලගැලීම් හේතුවෙන් මිලියනයක පමණ ජනතාවකට බලපෑම් එල්ලවී ඇති අතර, ආපදාවට පත් ජනතාව මුදාගැනීමට පාකිස්තාන බලධාරීන් දැඩි වෙහෙසක් දරමින් කටයුතු කරන බව සඳහන්.
-
-පාකිස්තාන සමස්ත ජනගහනයෙන් සියයට 50කට ආසන්න පිරිසක් පන්ජාබ් ප්‍රාන්තය තුළ රැඳී සිටින අතර, එරට ප්‍රධාන කෘෂිකාර්මික කලාපය ද පන්ජාබ් ප්‍රාන්තයයි.
-
-ප්‍රධාන කෘෂි නිෂ්පාදන වන තිරිඟු පිටි, සහල් සහ කපු නිපදවනු ලබන මෙම කලාපය තුළ ජලගැලීම් නිසා පාකිස්තාන ආර්ථිකයට දැඩි බලපෑමක් ඇති වන බව සඳහන්.
-
-ගෙවුණු ජුනි මාසයේ සිට මේ දක්වා පාකිස්තානයට බලපෑ ජලගැලීම්වලින් සිදුවූ මරණ ගණන 819කට අධික බව විදෙස් වාර්තා වැඩිදුර සඳහන් කරයි.
-
-◼️
-
-[Data](articles/77cbd108.json)
 
 ---

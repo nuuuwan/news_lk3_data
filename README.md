@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 12:36:06**
+As of **2025-08-29 12:50:10**
 
 ## Newspaper Stats
 
-*Scraped **73,034** Articles*
+*Scraped **73,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,027
 adaderanalk | 9,277
-tamilmirrorlk | 10,848
-virakesarilk | 11,989
-adaderanasinhalalk | 12,651
+tamilmirrorlk | 10,849
+virakesarilk | 11,990
+adaderanasinhalalk | 12,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 73,034 articles have been extended.
+61,973 (84.9%) of 73,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### நிமல் லான்சா கைது
+
+*2025-08-29 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223679) · `ta`
+
+நீர்கொழும்பு, கொச்சிக்கடை பொலிஸ் நிலையத்தில் சரணடைந்த நிலையில், முன்னாள் பாராளுமன்ற உறுப்பினர் நிமல் லான்சா கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/79a9e0d8.json)
+
+---
+
+### நிமல் லான்சா கைது
+
+*2025-08-29 12:31:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிமல்-லான்சா-கைது/175-363711) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர்   நிமல் லான்சா, கொச்சிக்கடை பொலிஸ் நிலையத்தில் ஆஜரானதன் பின்னர், வௌ்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
+
+ஒரு வீட்டை 2006 ஆம் ஆண்டு தாக்கி சேதப்படுத்திய குற்றச்சாட்டின் கீழ், வாக்குமூலம் பெற்றுக்கொள்வதற்காக கொச்சிக்கடை பொலிஸ் நிலையத்துக்கு அழைக்கப்பட்டிருந்தார். அதன்பின்னர் அவர் கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/0decf1f3.json)
+
+---
+
+### කොච්චිකඩේ පොලීසියට භාරවූ නිමල් ලාන්සා අත්අඩංගුවට
+
+*2025-08-29 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213923) · `si`
+
+කොච්චිකඩේ පොලීසියට භාර වූ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලාන්සා මහතා අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ මහතාව අද (29) මීගමුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ හිටපු රාජ්‍ය අමාත්‍යවරයාට නීතිපතිවරයා විසින් චෝදනා ගොනුකර ඇත.
+
+◼️
+
+[Data](articles/52602223.json)
+
+---
 
 ### Ukraine’s “Largest” naval ship sunk in Russia’s first sea drone attack
 
@@ -1725,45 +1767,5 @@ The Bank of Ceylon successfully inaugurated the Entrepreneur Development Program
 ...
 
 [Data](articles/ddc84200.json)
-
----
-
-### Celebrating Excellence: CIPM Sri Lanka collaborates with Mercer to unveil The Great HR Awards 2025
-
-*2025-08-28 19:18:00* · [`islandlk`](http://island.lk/celebrating-excellence-cipm-sri-lanka-collaborates-with-mercer-to-unveil-the-great-hr-awards-2025/) · `en`
-
-The Chartered Institute of Personnel Management (CIPM) Sri Lanka, in collaboration with Mercer, has announced The Great HR Awards 2025, an inaugural initiative that marks a new chapter in recognising HR excellence in Sri Lanka. Designed to be the most prestigious recognition in the country’s HR landscape, the awards will celebrate organisations that set benchmarks in HR practices, workplace culture, technology integration, and industrial relations. With Mercer’s global expertise and CIPM’s national leadership, the programme combines international standards with local relevance, ensuring recognition that is both meaningful and impactful.
-
-...
-
-[Data](articles/b17cd458.json)
-
----
-
-### Shaping young minds across Sri Lanka through SLIIT School Outreach Programs
-
-*2025-08-28 19:17:00* · [`islandlk`](http://island.lk/shaping-young-minds-across-sri-lanka-through-sliit-school-outreach-programs/) · `en`
-
-At a time when education is the cornerstone of national development, SLIIT has been redefining what it means to be an academic institution. Far beyond lecture halls and laboratories, SLIIT has stepped into classrooms across the island, bringing knowledge, skills, and inspiration directly to thousands of school students. Its School Outreach Programs, conducted in collaboration with the faculties of Computing, Engineering, Business, Humanities & Sciences, and Architecture, are empowering the next generation to imagine, innovate, and create.
-
-...
-
-[Data](articles/f625c363.json)
-
----
-
-### செம்மணி – சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 8 எலும்புக்கூடுகள் கண்டெடுப்பு
-
-*2025-08-28 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223639) · `ta`
-
-செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் 28ஆம் திகதி வியாழக்கிழமை மேலும் 8 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
-
-இதன் அடிப்படையில் இதுவரை 177 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 164 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
-
-யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 36வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/82254925.json)
 
 ---

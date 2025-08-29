@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 01:04:41**
+As of **2025-08-30 01:17:45**
 
 ## Newspaper Stats
 
-*Scraped **73,142** Articles*
+*Scraped **73,144** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 617
 bbccomsinhala | 677
-colombotelegraphcom | 749
+colombotelegraphcom | 750
 economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
@@ -19,18 +19,38 @@ dailyftlk | 5,178
 adalk | 7,044
 adaderanalk | 9,289
 tamilmirrorlk | 10,864
-virakesarilk | 12,001
+virakesarilk | 12,002
 adaderanasinhalalk | 12,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,142 articles have been extended.
+61,973 (84.7%) of 73,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### பெக்கோ சமனின் மனைவியிடம் சிஐடி விசாரணை
+
+*2025-08-30 00:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223742) · `ta`
+
+இந்தோனேசியாவின் ஜகார்த்தாவில் கைது செய்யப்பட்ட ஒரு ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலின் உறுப்பினர்களில் ஒருவரான பக்கோ சமனின் மனைவி மற்றும் மகள், வெள்ளிக்கிழமை (29) மாலை கட்டுநாயக்க விமான நிலையத்திற்கு வந்தபோது குற்றப் புலனாய்வுத் துறை அதிகாரிகள் குழுவால் கைது செய்யப்பட்டனர்.
+
+30 வயதான சஜிகா லக்ஷனி பத்தினி மற்றும் அவரது 03 வயது மகள் கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்டனர்.
+
+அவர்கள் வெள்ளிக்கிழமை (29) மாலை 05.50 மணிக்கு இலங்கை ஏர்லைன்ஸ் விமானம் UL-365 மூலம் இந்தோனேசியாவின் ஜகார்த்தாவிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்திருந்தனர்.
+
+கெஹல்பத்தர பத்மே மற்றும் அவரது குற்றக் கும்பல் உறுப்பினர்கள் ஜகார்த்தாவில் கைது செய்யப்பட்ட நிலையில், இந்தப் பெண்ணும் குழந்தையும் அங்கு தடுத்து வைக்கப்பட்டிருந்தனர்.
+
+இருப்பினும், பெண் மீது கடுமையான குற்றவியல் குற்றச்சாட்டுகள் எதுவும் பதிவு செய்யப்படாததால், இந்தோனேசிய அதிகாரிகள் அவரை இலங்கைக்கு நாடு கடத்தியதாகக் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/fbb440bb.json)
+
+---
 
 ### Sri Lanka Vanithabhimana 2025 Grand Finale
 
@@ -475,6 +495,22 @@ The real acceleration, however, came in the final phase when Janith Liyanage str
 ...
 
 [Data](articles/3572e7fa.json)
+
+---
+
+### Ranil’s Arrest: A Turning Point Or Just Another Act In Colombo’s Political Drama?
+
+*2025-08-29 19:18:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-arrest-a-turning-point-or-just-another-act-in-colombos-political-drama/) · `en`
+
+The arrest of Ranil Wickremesinghe last week, followed quickly by his release on bail, has thrown Sri Lanka’s political establishment into chaos. For some, this was long overdue accountability for a man who, along with his uncle JR Jayewardene, presided over decades of corruption, authoritarianism, and complicity in state violence. For others, it was nothing more than a political stunt—a show trial staged by the NPP to prove its toughness.
+
+But the bigger story is what comes next: how this moment reshapes the opposition, how it tests the NPP’s credibility, and how it impacts the upcoming provincial council elections.
+
+Ranil’s arrest has done what years of backroom deals could not—it has united the otherwise fractured opposition. UNP loyalists, SJB reformists, and minority party brokers are suddenly singing from the same hymn sheet: that the NPP is weaponising the law to crush rivals.
+
+...
+
+[Data](articles/da12b3b2.json)
 
 ---
 
@@ -1711,37 +1747,5 @@ The project is funded through the Ambassadors Fund for Cultural Preservation (AF
 ...
 
 [Data](articles/e200f102.json)
-
----
-
-### කොච්චිකඩේ පොලීසියට භාරවූ නිමල් ලාන්සා අත්අඩංගුවට
-
-*2025-08-29 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213923) · `si`
-
-කොච්චිකඩේ පොලීසියට භාර වූ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලාන්සා මහතා අත්අඩංගුවට ගෙන තිබේ.
-
-ඒ මහතාව අද (29) මීගමුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ හිටපු රාජ්‍ය අමාත්‍යවරයාට නීතිපතිවරයා විසින් චෝදනා ගොනුකර ඇත.
-
-◼️
-
-[Data](articles/52602223.json)
-
----
-
-### Former MP Nimal Lanza arrested
-
-*2025-08-29 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111977/former-mp-nimal-lanza-arrested-) · `en`
-
-Former Member of Parliament Nimal Lanza was arrested today (29) after surrendering to the Kochchikade Police.
-
-He is scheduled to be produced before the Negombo Magistrate’s Court later today (29), said Ada Derana reporter.
-
-The Attorney General has filed charges against the former State Minister in connection with an assault and trespassing incident that occurred during a protest in 2006.
-
-◼️
-
-[Data](articles/66597342.json)
 
 ---

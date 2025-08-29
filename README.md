@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 15:32:21**
+As of **2025-08-29 15:50:17**
 
 ## Newspaper Stats
 
-*Scraped **73,061** Articles*
+*Scraped **73,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,033
+adalk | 7,034
 adaderanalk | 9,280
-tamilmirrorlk | 10,857
+tamilmirrorlk | 10,858
 virakesarilk | 11,990
-adaderanasinhalalk | 12,659
+adaderanasinhalalk | 12,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,061 articles have been extended.
+61,973 (84.8%) of 73,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ரணில் டிஸ்சார்ஜ்
+
+*2025-08-29 15:32:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-டிஸ்சார்ஜ்/175-363724) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, கொழும்பு தேசிய மருத்துவமனையில் இருந்து, வௌ்ளிக்கிழமை (29) பிற்பகல்  டிஸ்சார்ஜ் செய்யப்பட்டதாக முன்னாள் ஜனாதிபதி அலுவலகம் தெரிவித்துள்ளது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க,  வீட்டிலேயே சிகிச்சை பெறுவார் என்று அவரது அலுவலக வட்டாரங்கள் தெரிவித்தன.
+
+◼️
+
+[Data](articles/82f1ac93.json)
+
+---
+
+### නිමල් ලාන්සා රිමාන්ඩ්
+
+*2025-08-29 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213932) · `si`
+
+කොච්චිකඩේ පොලීසියට භාර වූ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලාන්සා මහතාව සැප්තැම්බර් මස 12 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඒ මහතා අද (29) මීගමුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
+
+2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ හිටපු රාජ්‍ය අමාත්‍යවරයාට නීතිපතිවරයා විසින් චෝදනා ගොනුකර තිබේ.
+
+◼️
+
+[Data](articles/3a1c6cec.json)
+
+---
 
 ### Why aggressor states fail in wars of occupation
 
@@ -68,6 +98,10 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 
 ඒ අද (29) උදෑසන ඒ මහතාව සාමාන්‍ය වාට්ටුවක් වෙත මාරු කර යැවීමෙන් පසුවය.
 
+එක්සත් ජාතික පක්ෂ මාධ්‍ය ඒකකය පැවසුවේ රෝහලෙන් බැහැරව ගියද දී තිබෙන වෛද්‍ය උපදෙස් අනුව හිටපු ජනාධිපතිවරයා සිය නිවසේ තවදුරටත් විවේකයෙන් ගත කිරීමට නියමිතය බවය.
+
+නිවසේ රැඳි සිටින කාලය තුළදී රනිල් වික්‍රමසිංහ මහතාගේ සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් පවුලේ වෛද්‍යවරු දැඩි අධීක්ෂණයෙන් කටයුතු කරනු ලබන බවද එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
 ◼️
 
 [Data](articles/93b72261.json)
@@ -103,6 +137,24 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 ...
 
 [Data](articles/c2530025.json)
+
+---
+
+### සුනඛයෙකුට පහර දී ඇළට වීසි කල තරුණයා රිමාන්ඩ්
+
+*2025-08-29 14:38:33* · [`adalk`](https://www.ada.lk/uncategorized/සුනඛයෙකුට-පහර-දී-ඇළට-වීසි-කල-තරුණයා-රිමාන්ඩ්/1-418150) · `si`
+
+නානුඔය එඩිම්බරෝ වත්තේ නිවසක සුරතලයට ඇති කල සුනඛයෙකුට අමානුෂික ලෙස පහර දී අල්ලා පොළවේ ගසා නානුඔය ඇළට වීසි කල තරුණයා නානුඔය පොලිසිය මගින් (28) දින සැකපිට අත්අඩංගුවට ගෙන නුවරඑලිය මහේස්ත්‍රාත් ලංකාංගනී ප්‍රබුද්ධිකා මෙනවිය වෙත ඉදිරිපත් කල පසු සැකකරු 9/10 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරිමට නියෝග කළාය.
+
+මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ නානුඔය එඩිම්බරෝ වත්තේ පදිංචි මෝහන සුන්දරම් ලක්ෂාන් නැමති 17 හැවිරිදි තරුණයෙකි.
+
+සැකකරු අසල්වාසියෙක් විසින් සුරතලයට ඇති කරන සුනඛයෙකු විසින් සැකකරු සුරතලයට ඇති කරන බළල් පැටවෙකු සපා තුවාල සිදු කිරිමේ සිද්ධිකට උරන වී ඉකුත් (22) වන දින සුනඛයාට අමානුෂික ලෙස පොල්ලකින් පහර දී පොළවේ ගසා කොත්මලේ ජලාශයට ජලය ගලා බසිනා නානුඔය ඇළට දමා ඇත.
+
+ඇළට වැටුනු සුනඛයා තුවාල සහිතව ඇළ දිගේ පීනා විත් නිවසට පැමිණ ඇත. එම නිවසේ තුවාල ලැබූ සුනඛයාට අමතරව සුරතලයට තවත් සුනඛයෙකුද ඇති කරනු ලබයි.
+
+...
+
+[Data](articles/507e12bc.json)
 
 ---
 
@@ -1701,47 +1753,5 @@ HSBC Sri Lanka Chief Executive Officer Mark Surgenor was re-elected President of
 ...
 
 [Data](articles/9a1c86e9.json)
-
----
-
-### Are tobacco taxes still a reliable source of revenue?
-
-*2025-08-29 02:51:10* · [`dailyftlk`](https://www.ft.lk/opinion/Are-tobacco-taxes-still-a-reliable-source-of-revenue/14-780929) · `en`
-
-Tobacco taxes have been a cash cow for governments around the world. World Health Organisation (WHO) data suggest that combined annual global taxes on cigarettes are approaching $1 trillion. In many countries, however, cigarette tax collections shrink each year because fewer people smoke. This tremendous win for public health should be a cause for celebration.
-
-But for governments that have become dependent on their tobacco tax revenue, declining revenue means fewer resources available to spend on programs linked to that revenue. Rather than try to fund government programs with a broader and more stable source of revenue, some groups have called to push tobacco rates even higher in an attempt to restore and grow tobacco revenue.
-
-...
-
-[Data](articles/223cf572.json)
-
----
-
-### WCIC launches Prathibhabhisheka Women Entrepreneur Awards 2025
-
-*2025-08-29 02:46:14* · [`dailyftlk`](https://www.ft.lk/business/WCIC-launches-Prathibhabhisheka-Women-Entrepreneur-Awards-2025/34-780928) · `en`
-
-The Women’s Chamber of Industry and Commerce (WCIC) has launched its annual flagship event, the “WCIC Prathibhabhisheka Women Entrepreneur Awards 2025.”
-
-This prestigious awards ceremony, set to take place in January 2026, aims to recognise and celebrate the remarkable achievements of outstanding women entrepreneurs in Sri Lanka and across the SAARC region.
-
-WCIC Chairperson Gayani De Alwis outlined the chamber’s commitment to empowering women over its 40 year history, with the awards ceremony now marking its 15th anniversary. She highlighted that the event was re-launched in 2022 as ‘Prathibhabhisheka’ a Sanskrit term for ‘crowning women’ to reflect a new vision. The 2025 edition will be the fourth consecutive year under this concept, which celebrates entrepreneurs who demonstrate not just success, but also strong financial governance and a dedication to ethical and sustainable business practices.
-
-...
-
-[Data](articles/a00e608a.json)
-
----
-
-### Presidential immunity on trial:  Boundaries of accountability from Washington to Colombo
-
-*2025-08-29 01:30:42* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-immunity-on-trial-Boundaries-of-accountability-from-Washington-to-Colombo/4-780918) · `en`
-
-The arrest of former President Ranil Wickremesinghe illustrates the structural tension in Sri Lanka’s constitutional design. In September 2023, while serving as president, Wickremesinghe traveled to Havana for the G77 Summit and to New York for the United Nations General Assembly. On his return journey, he stopped in the United Kingdom to attend a ceremony at the University of Wolverhampton, where his wife was awarded an honorary professorship. Investigators allege that state funds were improperly used to finance the UK leg of the trip. Wickremesinghe has denied wrongdoing, insisting that his wife personally covered her travel expenses.
-
-...
-
-[Data](articles/f7ff2195.json)
 
 ---

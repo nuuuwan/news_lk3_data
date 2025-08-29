@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 15:21:29**
+As of **2025-08-29 15:32:21**
 
 ## Newspaper Stats
 
-*Scraped **73,059** Articles*
+*Scraped **73,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,033
 adaderanalk | 9,280
-tamilmirrorlk | 10,856
+tamilmirrorlk | 10,857
 virakesarilk | 11,990
-adaderanasinhalalk | 12,658
+adaderanasinhalalk | 12,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,059 articles have been extended.
+61,973 (84.8%) of 73,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### Why aggressor states fail in wars of occupation
+
+*2025-08-29 15:16:00* · [`islandlk`](http://island.lk/why-aggressor-states-fail-in-wars-of-occupation/) · `en`
+
+‘Gaza City will be razed to the ground’ if Hamas does not agree to Israel’s terms to end the Gaza conflict, Israeli Defense Minister Israel Katz was quoted saying recently on hearing Hamas’ terms to bring the war to an end. He was speaking against the backdrop of an apparent diplomatic failure to see an end to the ongoing blood-letting in the Strip.
+
+The Israeli Defense Minister’s comment ought to have brought to the minds of more experienced commentators the US military failure in Vietnam in the decades of the sixties and early seventies. As is known, US efforts to militarily neutralize the Vietcong guerrillas in its bid to halt what was seen as the spread of communism in Vietnam and South East Asia ended in abject failure.
+
+...
+
+[Data](articles/5b72e616.json)
+
+---
+
+### நானுஓயா நாய் விவகாரம்: இளைஞனுக்கு நீதிமன்ற தீர்ப்பு
+
+*2025-08-29 15:13:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-நாய்-விவகாரம்-இளைஞனுக்கு-நீதிமன்ற-தீர்ப்பு/76-363721) · `ta`
+
+நானுஓயா, எடின்போரோ தோட்டத்தில் உள்ள ஒரு வீட்டில் வளர்க்கப்பட்ட நாயை கொடூரமாக தாக்கி, வீதியில் தலைகீழாக தூக்கி அடித்து, ஆற்றில் வீசினார் என்றக் குற்றச்சாட்டின் கீழ்,  சந்தேகத்தின் பேரில் அந்த இளைஞன்  வியாழக்கிழமை (28) நானுஓயா பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+விசாரணைகளின் பின்னர், நுவரெலியா நீதவான் லங்கானி பிரபுத்திகா முன்னிலையில் வௌ்ளிக்கிழமை (2( ஆஜர்படுத்தப்பட்டார். சந்தேக நபரை அடுத்த மாதம் 10 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/31e8967b.json)
+
+---
+
+### හිටපු ජනපති රනිල් රෝහලෙන් පිටව යයි
+
+*2025-08-29 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213931) · `si`
+
+කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රෝහලෙන් පිටව ගොස් තිබේ.
+
+ඒ අද (29) උදෑසන ඒ මහතාව සාමාන්‍ය වාට්ටුවක් වෙත මාරු කර යැවීමෙන් පසුවය.
+
+◼️
+
+[Data](articles/93b72261.json)
+
+---
 
 ### சஷீந்திரவின் விளக்கமறியல் நீடிப்பு
 
@@ -1701,61 +1743,5 @@ The arrest of former President Ranil Wickremesinghe illustrates the structural t
 ...
 
 [Data](articles/f7ff2195.json)
-
----
-
-### Yalamanchili appoints Dihan Rodrigo as Country Manager for Sri Lanka and Maldives
-
-*2025-08-29 01:16:13* · [`dailyftlk`](https://www.ft.lk/business/Yalamanchili-appoints-Dihan-Rodrigo-as-Country-Manager-for-Sri-Lanka-and-Maldives/34-780917) · `en`
-
-Yalamanchili Solutions for Payments (YSP), a Singapore based global technology leader in digital payment processing, has announced the appointment of Dihan Rodrigo as Country Manager for Sri Lanka and the Maldives.
-
-With this strategic appointment, YSP aims to strengthen its local presence and deliver enhanced support to partnering banks and financial institutions across the region.
-
-Rodrigo brings with him over 30 years of extensive experience in the banking and finance sector, with specialised expertise in payment cards and digital payment solutions.
-
-A respected figure in the industry, Rodrigo will lead YSP’s operations in Sri Lanka and the Maldives, spearheading initiatives to accelerate the digital transformation of the region’s financial landscape. His appointment reaffirms YSP’s commitment to empowering financial entities through cutting-edge technology, robust processing capabilities, and sustainable partnerships.
-
-...
-
-[Data](articles/7dfb2538.json)
-
----
-
-### Marianne Page appointed to CT Holdings Board
-
-*2025-08-29 01:14:26* · [`dailyftlk`](https://www.ft.lk/business/Marianne-Page-appointed-to-CT-Holdings-Board/34-780916) · `en`
-
-Marianne Page, a pioneer in promoting Sri Lanka as an investment destination to foreign institutional investors since the early 1990’s has been appointed as a Non-Independent Non-Executive Director of conglomerate CT Holdings PLC
-
-While based in Hong Kong, she held senior positions at global financial institutions such as Credit Lyonnais, Smith New Court and Lehman Brothers. Page has had a longstanding involvement in Asian financial markets and has developed a strong network of relationships with leading foreign institutional fund managers.
-
-She is currently based in Singapore and continues to be at the forefront of showcasing Sri Lankan corporates to foreign institutional fund managers. Page was instrumental in establishing CT Smith Group of Companies a leading capital market service provider in 1992.
-
-She has been a Non-Executive Non-Independent Director of Cargills Bank PLC since 2019.
-
-She is a Fellow of the Chartered institute of Management Accountants, UK.
-
-◼️
-
-[Data](articles/8b56cb13.json)
-
----
-
-### Sri Lankan Entrepreneur of the Year 2025 Awards tonight
-
-*2025-08-29 01:08:28* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-Entrepreneur-of-the-Year-2025-Awards-tonight/34-780915) · `en`
-
-25 years of celebrating excellence as FCCISL marks 50 years of service to nation
-
-The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) will host the Sri Lankan Entrepreneur of the Year Awards 2025 today at 5 p.m. at Cinnamon Life.
-
-Since the mid-1990s, SLEOTY has stood as the country’s premier stage for recognising excellence in enterprise. It has celebrated entrepreneurs who rose from humble beginnings and persevered through adversity to shape Sri Lanka’s economy.
-
-The Awards are inclusive, recognising micro, small, medium, large, and extra-large enterprises, and through rigorous evaluation have showcased firms that embraced global best practices, sustainability, exports, digital transformation, and innovation. Many winners have grown from small family businesses into regional and multinational leaders, proving the transformative power of entrepreneurship.
-
-...
-
-[Data](articles/ca53bcf5.json)
 
 ---

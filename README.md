@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 11:32:23**
+As of **2025-08-29 11:52:45**
 
 ## Newspaper Stats
 
-*Scraped **73,016** Articles*
+*Scraped **73,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adalk | 7,025
 adaderanalk | 9,271
 tamilmirrorlk | 10,842
 virakesarilk | 11,989
-adaderanasinhalalk | 12,647
+adaderanasinhalalk | 12,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 73,016 articles have been extended.
+61,973 (84.9%) of 73,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### අයහපත් කාලගුණයෙන් පාකිස්තානයේ මිලියනයක්  අවතැන්
+
+*2025-08-29 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213920) · `si`
+
+පාකිස්තානයේ පන්ජාබ් ප්‍රාන්තයට බලපෑ හදිසියේ ජලගැලීම් හේතුවෙන් පුද්ගලයින් 17ක් දෙනෙක් මියගොස්, ගම්මාන 1,600ක් පමණ ජලයෙන් යටවී ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+ඉන්දියාවට ඇඳහැලෙන ධාරාණිපාත වැසි හේතුවෙන් එහි ජලාශ පිරීගොස්, එහි ජලය පාකිස්තානයේ පන්ජාබ් වෙත නිදහස් කිරීම හේතුවෙන් මෙලෙස ජලගැලීම් සිදුව ඇති බව සඳහන්.
+
+ඉන්දියාවේ සිට පාකිස්තානය ඔස්සේ ගලාබසින රවී, සුත්ලේජ් සහ චෙනාබ් ගංගාවල මෙලෙස ජල මට්ටම ඉහළ ගොස් ඇති බව වාර්තා වේ.
+
+ජලගැලීම් හේතුවෙන් මිලියනයක පමණ ජනතාවකට බලපෑම් එල්ලවී ඇති අතර, ආපදාවට පත් ජනතාව මුදාගැනීමට පාකිස්තාන බලධාරීන් දැඩි වෙහෙසක් දරමින් කටයුතු කරන බව සඳහන්.
+
+පාකිස්තාන සමස්ත ජනගහනයෙන් සියයට 50කට ආසන්න පිරිසක් පන්ජාබ් ප්‍රාන්තය තුළ රැඳී සිටින අතර, එරට ප්‍රධාන කෘෂිකාර්මික කලාපය ද පන්ජාබ් ප්‍රාන්තයයි.
+
+ප්‍රධාන කෘෂි නිෂ්පාදන වන තිරිඟු පිටි, සහල් සහ කපු නිපදවනු ලබන මෙම කලාපය තුළ ජලගැලීම් නිසා පාකිස්තාන ආර්ථිකයට දැඩි බලපෑමක් ඇති වන බව සඳහන්.
+
+ගෙවුණු ජුනි මාසයේ සිට මේ දක්වා පාකිස්තානයට බලපෑ ජලගැලීම්වලින් සිදුවූ මරණ ගණන 819කට අධික බව විදෙස් වාර්තා වැඩිදුර සඳහන් කරයි.
+
+◼️
+
+[Data](articles/77cbd108.json)
+
+---
+
+### ASPI ඉතිහාසයේ මුල්වරට ඒකක 21,000 සීමාවට පැමිණෙයි
+
+*2025-08-29 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213919) · `si`
+
+කොළඹ කොටස් වෙළඳපොළ ප්‍රධාන මිල දර්ශකය වන සියලු කොටස් මිල දර්ශකය අද (29) පෙරවරුවේ දී ඒකක 21,000 සීමාව ස්පර්ශ කිරීමට සමත්විය.
+
+දෛනික ගනුදෙනු සැසියක් අතරවාරයේ දී ඒකක 21,000 සීමාවට සියලු කොටස් මිල දර්ශකය පැමිණි ඉතිහාසයේ පළමු අවස්ථාව මෙය වනු ඇත.
+
+අද පෙරවරු 11.00ට පමණ මෙලෙස මෙම සුවිශේෂී මංසළකුණ අතික්‍රමණය කිරීමට සියලු කොටස් මිල දර්ශකයට හැකියාව ලැබිණ.
+
+ඒ වන විට පූර්ව ගනුදෙනු දිනයට සාපේක්ෂව සියලු කොටස් මිල දර්ශකය ඒකක 203.71 කින් ඉහළ ගොස් ඒකක 21,003.97ක් ලෙසින් සටහන්ව තිබුණි.
+
+◼️
+
+[Data](articles/bae60104.json)
+
+---
 
 ### වාහන 3ක් එකිනෙකට ගැටී මාරක අනතුරක්
 
@@ -1749,39 +1791,5 @@ Turn off at the Pasyala Junction, proceed via Nittambuwa – Giriulla Road to Mi
 ...
 
 [Data](articles/9fc0c8a3.json)
-
----
-
-### මාරක රිය අනතුරකින්  පාසල් සිසුවියක් හා රිය සහායක මියයයි
-
-*2025-08-28 17:38:29* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-රිය-අනතුරකින්--පාසල්-සිසුවියක්-හා-රිය-සහායක-මියයයි/11-418133) · `si`
-
-හොරොව්පොතාන, කහටගස්දිගිලිය ප්‍රධාන මාර්ගයේ ඇලයාපත්තුව ප්‍රදේශයේදී අද (28) සවස සිදුවූ මාරක රිය අනතුරකින් පාසල් සිසුවියක් සහ රිය සහයකයෙකු ජීවිතක්ෂයට පත්ව ඇති බව හොරොව්පොතාන පොලිසිය කියයි.
-
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ හොරොවිපොතාන,මොරකෑව පාසලේ ඉගෙනුම ලැබූ සදැසි විහංසා නැමති 10 හැවිරිදි දැරියක් සහ 27 හැවිරිදි රිය සහයෙකයෙකි.
-
-එදින01.20ට පමණ හොරොව්පතාන පොලිස් වසමේ මොරකෑව ප්‍රදේශයේ ඇලපත්වැව හංදියට මීටර් 200 ක් පමණ කහටගස්දිගිලිය දෙසට වන්නට ඇති පාලම අසලදී මෙම අනතරු සිදුව ඇත. වවුනියා සිට අනුරාධපුර දෙසට වීදුරු ප්‍රවාහනය කරමින් සිටි ලොරි රථයේ රියදුරුට නින්ද යාම හේතුවෙන් එම ලොරි රථය මාර්ගයෙන් ඉවතට පැන ඇත. අනතුරුව ලොරි රථය අසල තිබූ පාලමෙහි ආරක්ෂිත වැටෙහි ගැටී අනතුරට පත්ව ඇත.
-
-...
-
-[Data](articles/cbefe095.json)
-
----
-
-### Sri Lanka’s Siyapatha Finance to raise Rs4bn from debentures
-
-*2025-08-28 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-siyapatha-finance-to-raise-rs4bn-in-debenture-issue-238597/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Siyapatha Finance PLC said it will issue listed, rated, unsecured, subordinated, redeemable debentures to raise 4 billion rupees.
-
-The bonds will have a tenor of five years and carry, “an interest rate in compliance with the guidelines of the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
-
-The issue is subject to obtaining the necessary regulatory approvals.
-
-The company proposes to have these debentures listed on the Colombo Stock Exchange. (Colombo/Aug28/2025)
-
-◼️
-
-[Data](articles/35a9ff11.json)
 
 ---

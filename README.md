@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 21:18:54**
+As of **2025-08-29 21:32:21**
 
 ## Newspaper Stats
 
-*Scraped **73,119** Articles*
+*Scraped **73,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,042
 adaderanalk | 9,287
 tamilmirrorlk | 10,864
 virakesarilk | 11,998
-adaderanasinhalalk | 12,673
+adaderanasinhalalk | 12,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,119 articles have been extended.
+61,973 (84.8%) of 73,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ශ්‍රී ලංකාවට තියුණු ජයක
+
+*2025-08-29 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213946) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායමේ සිම්බාබ්වේ සංචාරය ආරම්භ කරමින් පැවති පළමු එක්දින ක්‍රිකට් තරගයේ දී ලකුණු 07ක තියුණු ජයක් ලබා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණා.
+
+තරගයේ කාසියේ වාසිය ලබා ගත් සිම්බාබ්වේ ක්‍රිකට් නායක සෝන් විලියම්ස්ගේ ආරාධනය පරිදි පළමුවට පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල සිය පන්දු වාර 50 අවසානයේ දී කඩුලු 6ක් දැවී ලකුණු 298ක් ලබා ගන්නට සමත්විය.
+
+ලකුණු 299ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි සිම්බාබ්වේ කණ්ඩායමට කඩුලු 8ක් දැවී ලබා ගත හැකි වූයේ ලකුණු 291ක් පමණී.
+
+◼️
+
+[Data](articles/259ea6ea.json)
+
+---
 
 ### උද්දිකගේ නඩුවට අදාළව නීතිපති උපදෙස් කඩිනමින් ගන්නැයි CIDයට නියෝග
 
@@ -320,11 +336,11 @@ During the meeting, Birla underscored Sri Lanka’s significance in India’s Ne
 
 ---
 
-### Sri Lanka stabilized after crisis under old monetary law: CB Governor
+### Sri Lanka was stabilized after crisis under old monetary law: CB Governor
 
 *2025-08-29 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-stabilized-after-crisis-under-old-monetary-law-cb-governor-238673/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s stabilization measures were take under an older monetary law, before a new legilstion with greater Central Bank independence was enacted Governor Nandalal Weerasinghe who hiked rates, operated deflationary policy and also appreciated a collapsed currency.
+ECONOMYNEXT – Sri Lanka’s stabilization measures were taken under an older monetary law, before new legislation with greater Central Bank independence was enacted, said Governor Nandalal Weerasinghe, who hiked rates, operated deflationary policy and also appreciated a collapsed currency.
 
 Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at providing more independence to the agency, in the hope it will help maintain stability, replacing a Monetary Law Act (MLA) dating back to 1949.
 
@@ -1719,25 +1735,5 @@ Accordingly, the High Court Judge directed that he remain in custody until he is
 ◼️
 
 [Data](articles/482f1ec7.json)
-
----
-
-### යාපනයේ ජෝඩු 108ක් එකම කෝවිලක, එකම නැකතකදී විවාහ වෙයි
-
-*2025-08-29 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213915) · `si`
-
-යාපනය දිස්ත්‍රික්කයේ විවාහ අපේක්ෂාවෙන් සිටි යුවළ 108ක් යාපනය,සෙල්වසන්නිදි කෝවිලේදී එකම නැකතකදී විවාහපත් වී තිබේ.
-
-යාපනය දිස්ත්‍රික්කයේ අඩු අදායම්ලාභී පවුල්වල විවාහ අපේක්ෂාවෙන් සිටි මෙම පිරිස ඊයේ (18) එකම නැකතකට තැල්ල බැඳීමේ චාරිත්‍රය සිදුකරමින් විවාහවීම එහිදි සිදුකෙරිණ.
-
-යාපනය දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාශ 15ක පදිංචිව සිටි විවාහ අපේක්ෂිත පිරිසක් එලෙස එකම කෝවිලකදී, හින්දු චාරිත්‍රානුකූලව විවාහ පත්වී තිබේ.
-
-සිංගප්පූරුවේ පදිංචි ටී. තුරෙයි නමැති ව්‍යාපාරිකයෙකු විසින් සිය මූල්‍ය දායකත්වය යටතේ සෑම විවාහ යුවළකට රන් පවුම් භාගය බැගින් රන් තැල්ලක් ලබාදී විවාහ මංගල්ලයේ මූල්‍ය දායකත්ව දරමින් විවාහ උත්සවය සංවිධානය කොට තිබිණි.
-
-"මගේ දියණියගේ විවාහ මංගල්ලයේ දී ඇතිවු සිතුවිල්ලක් මත තමයි මේ ක්‍රියාව සිදුකළේ. විවාහයක් කරගන්න එක සෑම ආදරණිය ජෝඩුවකම අපේක්ෂාව. සල්ලි අඩුපාඩුකම් මත විවාහ මංගල්‍යයක් කරගන්න බැරුව ගොඩක් දෙනෙක් දුක්වෙනවා. ඒ ගැන හිතලා තමයි මම මේ ක්‍රියාව කරන්න මුල් වුණේ. මට පුළුවන් විදියට මම ඒ ආදරණිය ජෝඩුවලට උපකාරයක් කළා." යනුවෙන් ව්‍යාපාරික තුරෙයි මහතා සඳහන් කළේය.
-
-...
-
-[Data](articles/d999d944.json)
 
 ---

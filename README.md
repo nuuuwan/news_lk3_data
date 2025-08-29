@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 08:38:00**
+As of **2025-08-29 09:04:07**
 
 ## Newspaper Stats
 
-*Scraped **72,994** Articles*
+*Scraped **72,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,021
+adalk | 7,022
 adaderanalk | 9,269
 tamilmirrorlk | 10,838
 virakesarilk | 11,984
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 72,994 articles have been extended.
+61,973 (84.9%) of 72,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1306,6 +1306,26 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 ---
 
+### අර්තාපල් ගොවීන් දැඩි දුෂ්කරතාවයකට
+
+*2025-08-28 17:57:08* · [`adalk`](https://www.ada.lk/breaking_news/අර්තාපල්-ගොවීන්-දැඩි-දුෂ්කරතාවයකට/11-418135) · `si`
+
+ඇතැම් ප්‍රදේශවල දේශීය ආර්තාපල් කිලෝවක ගැනුම් මිල රු.200දක්වා පහත වැටීම හා මිලදී ගන්නා ප්‍රමාණය සීමා කිරීම නිසා අර්තාපල් ගොවීන් දැඩි දුෂ්කරතාවන්ට පත්ව  සිටින බව ජාතික ගොවිජන එකමුතුව සඳහන් කරයි.
+
+රටින් ගෙන්වන අර්තාපල් සඳහා  බදු මුදල් ප්‍රමාණය මේ වන විට ඉහළ දමා තිබුණත් පසුගිය කාලයේදී විශාල වශයෙන් අර්තාපල් තොග රටට ගෙන්වා  ගබඩාවල ගොඩගසා ගෙන තිබෙන බවද එම සංගමයේ සභාපති  අනුරාධ තෙන්නකෝන් මහතා සඳහන් කළේය.
+
+ආර්තාපල් කිලෝවක් නිෂ්පාදනය කිරිම සඳහා ආසන්න වශයෙන් රු.220-  රු.230 අතර මුදලක් මෙම කන්නයේදී ගොවීන්ට වැය වී තිබෙන නිසා ආසන්න වශයෙන් අර්තාපල් කිලෝවකට රු.250කට වැඩි මුදලක් ගොවීන්ට ලැබි යුතු බවද ඔහු පැවසීය.
+
+රටේ අවශ්‍යතාවෙන් සියයට විස්පහක් වැනි ප්‍රමාණයක් දේශීය ගොවීන් නිෂ්පාදනය කරන බවත්  පසුගිය කාලයේදී අධික ලෙස අර්තාපල් රට තුළට ගෙන්වීම නිසා දේශීය ගොවීන් මෙම තත්ත්වයට මුහුණ දෙන බවත් හෙතෙම පැවසීය.
+
+විදේශීය රටවලින් ගෙන්වූ අර්තාපල් කිලෝවක සිල්ලර මිල රු.140- රු.150 අතර මුදලක් වන නිසා දේශීය ගොවීන්ගේ අස්වැන්න මිලදී ගැනීමට රජය වැඩපිළිවෙළක් සකස් කළ යුතු බවද ඔහු සඳහන් කළේය.
+
+...
+
+[Data](articles/5c0a2f98.json)
+
+---
+
 ### තෙත් කලාපය හා කඳුකර ආක්‍රමණය කරන විසිතුරු ශාකය
 
 *2025-08-28 17:51:40* · [`adalk`](https://www.ada.lk/opinion/තෙත්-කලාපය-හා-කඳුකර-ආක්‍රමණය-කරන-විසිතුරු-ශාකය/2-418134) · `si`
@@ -1759,23 +1779,5 @@ The ASPI climbed 47.05 points on Thursday to close at 20,800.26; while the S&P S
 ◼️
 
 [Data](articles/faa118d7.json)
-
----
-
-### Teacher recruitment exam once SC concludes hearing of four cases: PM
-
-*2025-08-28 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/111951/teacher-recruitment-exam-once-sc-concludes-hearing-of-four-cases-pm) · `en`
-
-The legal proceedings of four cases under review by the Supreme Court, which have been the primary reason for the delay in recruiting unemployed graduates as teachers are now reaching their final stage, according to the Minister of Education, Higher Education, and Vocational Training, and Prime Minister, Dr. Harini Amarasuriya.
-
-Accordingly, the Prime Minister stated that once the court proceedings conclude, steps will be taken to issue the relevant Gazette notification, thereby paving the way for graduates to apply for the teacher recruitment examination without further delay.
-
-She made these remarks during a discussion held at the Ministry of Education with representatives of the Joint Unemployed Graduates Association.
-
-Dr. Amarasuriya further noted that the necessary steps are already being taken to proceed with other graduate recruitment processes, in line with the Cabinet approvals already granted.
-
-...
-
-[Data](articles/e5a0b996.json)
 
 ---

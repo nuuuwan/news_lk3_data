@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 16:32:21**
+As of **2025-08-29 16:49:52**
 
 ## Newspaper Stats
 
-*Scraped **73,076** Articles*
+*Scraped **73,084** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 616
+dbsjeyarajcom | 617
 bbccomsinhala | 677
 colombotelegraphcom | 746
 economynextcom | 4,450
@@ -17,26 +17,50 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,037
-adaderanalk | 9,284
+adaderanalk | 9,285
 tamilmirrorlk | 10,862
-virakesarilk | 11,990
-adaderanasinhalalk | 12,661
+virakesarilk | 11,995
+adaderanasinhalalk | 12,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,076 articles have been extended.
+61,973 (84.8%) of 73,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### දර්ගා නගරයේ දී පොලිස් වෙඩිතැබීමක්
+
+*2025-08-29 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213934) · `si`
+
+දර්ගා නගරයේ දී නඩුවක් විභාග කිරීමට ගිය අවස්ථාවේ දී කලහාකාරීව හැසිරුණු පුද්ගලයෙකුට අලුත්ගම පොලීසියෙන් වෙඩිතැබීමක් සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/962b473a.json)
+
+---
 
 ### වැඩතහනමට ලක්ව සිටි තායි අගමැතිනී ෂිනවත්‍රා ධුරයෙන් පහකෙරේ
 
 *2025-08-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213933) · `si`
 
 වැඩතහනමට ලක්ව සිටි හිටපු තායිලන්ත අගමැතිනී පේටොන්ග්ටාන් ෂිනවත්‍රා ධුරයෙන් පහකර තිබේ.
+
+එරට ව්‍යවස්ථාදායක අධිකරණය මෙම තීන්දුව ලබාදුන්නේ අද (29) පැවති නඩු විභාගය අතරතුරදීය.
+
+කාම්බෝජයේ හිටපු නායක හුන් සෙන් සමඟ පැවති දුරකථන සංවාදයකදී ඔහු සමග සුහදව කතා කරමින් රටට අපහාස කළ බවට ඇයට චෝදනා එල්ල වී තිබුණි.
+
+හුන්සෙන් සහ ෂිනවත්‍රා අතර මෙම සංවාදය පැවැත්වීමේ අරමුණ දෙරට අතර ගිලිහෙමින් පවතින සබඳතා තරකර ගැනීම බවත්, එය හුදෙක් සාකච්ඡා කිරීමේ ක්‍රමවේදයක් මිස රටට අපහාස කිරීමක් නොවන බවත් තායිලන්ත හිටපු අගමැතිනිය පවසා තිබේ.
+
+කෙසේ නමුත් හුන් සෙන් හිටපු කාම්බෝජ නායකයා එම දුරකථන සංවාදය විවිධ පාර්ශ්ව වෙත ලබාදීමෙන් අනතුරුව ෂිනවත්‍රා අගමැතිනියට රට තුළින්ම චෝදනා එල්ල වූ අතර, ඇය ධුරයේ වැඩතහනම් කෙරුණේ එහි ප්‍රතිඵලයක් ලෙසය.
+
+ව්‍යවස්ථා අධිකරණය ද අද පෙන්වා දුන්නේ මෙවන් සංවාදයක් පැවැත්වීම මඟින් ඇය තායිලන්ත ජාතියේ අභිමානය පවා දී ඇති බවය.
+
+2008 වසරේ සිට අධිකරණයක් මඟින් ධුරයෙන් පහ කෙරුණු පස්වැනි තායිලන්ත රාජ්‍ය නායකයා වන්නේ පේටොන්ග්ටාන් ෂිනවත්‍රා යි.
 
 ◼️
 
@@ -126,6 +150,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### விஷால் - சாய் தன்ஷிகாவுக்கு நிச்சயதார்த்தம்
+
+*2025-08-29 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/223705) · `ta`
+
+தமிழ் சினிமாவின் முன்னணி நடிகரும், தென்னிந்திய நடிகர் சங்க பொதுச் செயலாளருமான விஷாலுக்கும் நடிகை சாய் தன்ஷிகாவுக்கும் திருமண நிச்சயதார்த்தம் குடும்பத்தினர் முன்னிலையில் எளிமையாக சென்னை அண்ணா நகரில் உள்ள விஷால் இல்லத்தில் நடைபெற்றது. இந்த திருமண நிச்சயதார்த்த நிகழ்வில் இரு வீட்டார் மற்றும் நெருங்கிய உறவினர்கள், நண்பர்கள் கலந்து கொண்டுள்ளனர்.
+
+நிச்சயதார்த்த விழாவில் தடபுடல் விருந்துக்கும் ஏற்பாடு செய்யப்பட்டுள்ளது. மேலும் விஷால் - சாய் தன்ஷிகா நிச்சயதார்த்த புகைப்படங்கள் சமூக வலைதளங்களில் வைரலாகி வருகிறது.
+
+48 வயதாகும் விஷால் எப்போது திருமணம் செய்து கொள்ள போகிறார்? என்று எதிர்பார்த்து காத்திருந்த அவரது ரசிகர்களுக்கு இந்த தகவல் மகிழ்ச்சிக்குரிய விஷயமாக அமைந்திருக்கிறது. விஷால் - சாய் தன்ஷிகா ஜோடிக்கு திரையுலகினரும், ரசிகர்களும் வாழ்த்து தெரிவித்து வருகிறார்கள்.
+
+◼️
+
+[Data](articles/92c8be55.json)
+
+---
+
 ### லான்சாவுக்கும் விளக்கமறியல்
 
 *2025-08-29 15:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லான்சாவுக்கும்-விளக்கமறியல்/175-363726) · `ta`
@@ -149,6 +189,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/82f1ac93.json)
+
+---
+
+### Former State Minister Nimal Lanza remanded
+
+*2025-08-29 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/111984/former-state-minister-nimal-lanza-remanded-) · `en`
+
+Former State Minister Nimal Lanza, who was arrested today (29) after surrendering to the Kochchikade Police, has been remanded until September 12 by the Negombo Magistrate’s Court.
+
+◼️
+
+[Data](articles/30f4b797.json)
 
 ---
 
@@ -195,6 +247,24 @@ Former President Ranil Wickremesinghe, who was receiving treatment at the Intens
 ◼️
 
 [Data](articles/1c1ff6e4.json)
+
+---
+
+### உக்ரேனின் மிகப்பெரிய உளவு கப்பல் மீது ரஷ்யா ட்ரோன் தாக்குதல்
+
+*2025-08-29 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223702) · `ta`
+
+உக்ரேன் கடற்படையின் உளவுக் கப்பலான சிம்ஃபெரோபோல் கடற்படை கப்பல்  ட்ரோன் தாக்குதலில்  மூழ்கடிக்கப்பட்டதாக ரஷ்ய பாதுகாப்பு அமைச்சகம் வியாழக்கிழமை (29) அறிவித்தது.
+
+ரேடியோ, எலக்ட்ரானிக், ரேடார் மற்றும் ஆப்டிகல் உளவுத்துறைக்காக வடிவமைக்கப்பட்ட லகுனா-வகுப்பு, நடுத்தர அளவிலான கப்பல், டானூப் நதியின் டெல்டாவில் தாக்கப்பட்டது. அதன் ஒரு பகுதி உக்ரேனின் ஒடெசா பிராந்தியத்தில் உள்ளது என ரஷ்ய பாதுகாப்பு அமைச்சு அறிக்கை தெரிவித்துள்ளது.
+
+இந்த தாக்குதலில் ஒரு பணியாளர் கொல்லப்பட்டதோடு, பலர் காயமடைந்தனர் என உக்ரேன் கடற்படை செய்தித் தொடர்பாளர் ஒருவரை மேற்கோள் காட்டி கீவ் இன்டிபென்டன்ட் பத்திரிகை செய்தி வெளியிட்டுள்ளது.
+
+2019 இல் சிம்ஃபெரோபோல் கப்பல் தனது செயல்பாட்டை ஆரம்பித்து இரண்டு ஆண்டுகளுக்குப் பின்னர் உக்ரேன் கடற்படையில் இணைந்தது.
+
+◼️
+
+[Data](articles/9a5090bd.json)
 
 ---
 
@@ -289,6 +359,22 @@ Paetongtarn’s leaked June 15 call with Hun Sen was aimed at easing tensions ov
 ...
 
 [Data](articles/fdd3fbe3.json)
+
+---
+
+### கொழும்பு பேர வாவியில் சூரிய சக்தி மூலம் இயங்கும் குப்பை அகற்றும் படகுகள்
+
+*2025-08-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223700) · `ta`
+
+கொழும்பு நகரின் மையப்பகுதியில் அமைந்துள்ள பேர வாவியில், சூரிய சக்தி மூலம் இயங்கும் குப்பை அகற்றும் படகுகளின் சோதனை ஓட்டங்கள் ஆரம்பிக்கப்பட்டுள்ளதாக மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் தெரிவித்தார்.
+
+இந்த முயற்சி, பேர வாவியை மீண்டும் உயிர்ப்பிப்பதற்கான ஒரு பரந்த திட்டத்தின் ஒரு பகுதியாக முன்னெடுக்கப்பட்டுள்ளது. இந்த சூரிய சக்தி மின்சாரப் படகுகள், ஒரு நாளைக்கு 3,000 கிலோகிராம் வரை மிதக்கும் கழிவுகளை சேகரிக்கக்கூடிய திறன் கொண்டவை என ஆளுநர் குறிப்பிட்டார்.
+
+ஏரியை சுத்தப்படுத்தும் முயற்சிகளை வலுப்படுத்தும் வகையில், விரைவில் மேலும் நான்கு படகுகள் சேவையில் ஈடுபடுத்தப்படவுள்ளதாக எதிர்பார்க்கப்படுகிறது. சுற்றுச்சூழல் பாதுகாப்பிற்கான நிலையான மற்றும் புதுமையான தீர்வுகளை உருவாக்குவதில் "கிளீன் ஓஷன் போர்ஸ்" (Clean Ocean Force) என்ற அமைப்பு, மேல் மாகாணத்தின் பேர வாவி புனரமைப்புக்கான பணிக்குழுவுடன் இணைந்து பணியாற்றி வருகிறது. இதன் விளைவாகவே இந்த புதிய முயற்சி ஆரம்பிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/38422431.json)
 
 ---
 
@@ -407,6 +493,42 @@ On this occasion, the President also engaged in cordial discussions with officia
 ◼️
 
 [Data](articles/b50b09dc.json)
+
+---
+
+### ஐக்கிய நாடுகள் மனித உரிமைகள் சபையின் உறுப்பு நாடுகளின் தூதரகத் தலைவர்களுக்கு இலங்கை தமிழ் அரசுக் கட்சி அனுப்பியுள்ள முக்கிய கடிதம் !
+
+*2025-08-29 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223692) · `ta`
+
+ஜெனீவா மனித உரிமைச் சபையின் கூட்டத் தொடர் ஆரம்பமாகவுள்ள நிலையில், ஐக்கிய நாடுகள் மனித உரிமைகள் சபையின் உறுப்பு நாடுகளின் தூதரகத் தலைவர்களுக்கு இலங்கை தமிழ் அரசுக் கட்சி, செம்மணி மனிதப் புதைகுழி, போர்க்குற்றங்கள் உள்ளிட்ட பிரதான நான்கு விடயங்களை முன்னிலைப்படுத்தி கடிதம் ஒன்றை அனுப்பியுள்ளது.
+
+இலங்கையில் பொறுப்புக்கூறல் மற்றும் நல்லிணக்கத்தை ஊக்குவித்தல் - HRC 57/1 இலங்கையில் பொறுப்புக்கூறல் மற்றும் நல்லிணக்கத்தை ஊக்குவித்தல் தொடர்பாக செப்டம்பர் 2024 இல் 57 வது அமர்வில் ஏற்றுக்கொள்ளப்பட்ட மேற்படி 57/1 தீர்மானத்தின் காலம் செப்டம்பர் 2025 இல் 60 ஆவது அமர்வோடு முடிவடைகின்றது.
+
+இலங்கையின் வடக்கு மற்றும் கிழக்கு என்ற இரண்டு மாகாணங்களில் உள்ள ஒவ்வொரு தேர்தல் மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதிகளைக் கொண்ட - தமிழ் மக்களைப் பிரதிநிதித்துவப்படுத்துகின்ற - முதன்மை அரசியல் கட்சி நாங்கள்தாம். (1949 இல் தொடங்கப்பட்டதிலிருந்து சமஷ்டிக் கட்சி என்று நம் கட்சி அழைக்கப்படுகிறது).
+
+...
+
+[Data](articles/6b413c03.json)
+
+---
+
+### கென்யாவில் யானைக்கு பியர் அருந்தக் கொடுத்த சுற்றுலா பயணி ; விசாரணை
+
+*2025-08-29 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/223687) · `ta`
+
+கென்யாவில் ஸ்பெயின் நாட்டைச் சேர்ந்த ஒருவர் யானையின் தும்பிக்கையில் பியரை ஊற்றி அருந்தக் கொடுக்கும் வீடியோகளை வெளியிட்டுள்ளார்.
+
+இந்நிலையில்,  இது  தொடர்பில் சமூக ஊடகங்களில் சர்ச்சை வெடித்ததை அடுத்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+குறித்த சுற்றுலா பயணி வனவிலங்கு சரணாலயத்தில் பிரபலமான 'டஸ்கர்' (Tusker) பியரை குடித்துவிட்டு, மீதமுள்ளதை யானைக்குக் கொடுப்பது போல் படமாக்கப்பட்டு "தந்தம் உள்ள நண்பனுடன் ஒரு டஸ்கர் பியர்," என இன்ஸ்டாகிராமில் பதிவிட்டிருந்தார்.
+
+இதனை அவதானித்த கென்யர்கள் எதிர்ப்பை வெளியிட்டதை தொடர்ந்து  அந்த பதிவு அவரது கணக்கிலிருந்து நீக்கப்பட்டது.
+
+பிபிசி இந்த வீடியோ காட்சிகளை ஆய்வு செய்து, அதன் உண்மை தன்மையை உறுதிப்படுத்தியது. நிலப்பரப்பு மற்றும்  நன்கு அறியப்பட்ட ஆண் யானை ஆகியவற்றை வைத்து, இது மத்திய மாகாணமான லைக்கிபியாவில் உள்ள 'ஓல் ஜோகி' (Ol Jogi) சரணாலயத்தில் படமாக்கப்பட்டிருக்கலாம் என சுட்டிக்காட்டுகிறது.
+
+...
+
+[Data](articles/64de2b11.json)
 
 ---
 
@@ -1560,6 +1682,20 @@ U.S. special envoy Keith Kellogg commented on X: “The targets? Not soldiers an
 
 ---
 
+### 
+
+*2025-08-29 07:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86352) · `en`
+
+இரண்டு நோக்கங்களுக்காக            வடக்கு, கிழக்கில்  அரைநாள் ஹர்த்தால் நடத்திய தமிழரசு கட்சி :  முதலாவது முல்லைத்தீவு மாவட்டத்தில் இராணுவத்தினரின் தாக்குதலில் குடிமகன் ஒருவர் கொல்லப்பட்டது; இரண்டாவது வடக்கு, கிழக்கில் குடிமக்கள் மத்தியில் பெருமளவு இராணுவத்தினர் இருப்பதனால் ஏற்படுகின்ற பிரச்சினைகளை கவனத்துக்கு கொண்டுவருவது
+
+” ஹர்த்தால் “என்பது பிரிட்டிஷ் ஆட்சிக்காலத்தில் இந்தியா,  இலங்கை  மற்றும் மலேசியா போன்ற நாடுகளில் அரசியல் உரையாடல்களில் பிரவேசித்த ஒரு சொல். இந்த குஜராத்திச் சொல் இருபதாம் நூற்றாண்டில் இந்திய சுதந்திரப் போராட்டத்தின்போது மகாத்மா காந்தியினால் பிரபல்யப்படுத்தப்பட்டது. வேலைத்தலங்கள், கடைகள், பாடசாலைகள், போக்குவரத்துச் சேவைகள்  மற்றும் நீதிமன்றங்களை முற்றாக மூடுவதையே ஹர்த்தால் என்ற ஹர்த்தால் குறித்து நிற்கிறது.
+
+...
+
+[Data](articles/77ed389b.json)
+
+---
+
 ### මෙරට තුළ දරුවන් 14,834ක් අනාරක්ෂිත තත්ත්වයෙන් පසුවන බවට අනාවරණයක්
 
 *2025-08-29 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213908) · `si`
@@ -1593,149 +1729,5 @@ Grades are based on an “A+” to “F” scale for success in areas such as in
 ...
 
 [Data](articles/4350682c.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
-
-*2025-08-29 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213907) · `si`
-
-අද (29) බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ද වයඹ පළාතේ වැසි ස්වල්පයක් ද ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-තවද මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, බස්නාහිර සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකිය.
-
-තද සුළං හේතුවෙන් ඇතිවියහැකි අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
-
-මේ අතර සූර්යයා දෘශ්‍ය ලෙස දකුණට ගමන් කිරීමේදී, අගෝස්තු 28 සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතින බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඒ හේතුවෙන් අද (29) දහවල් 12:11ට කුමුලමුනේ, පඩිනද්දම්පොරේ, ආලන්කුලම්, තන්නියුට්ටු, වෙට්ටප්පලෙයි, මුලතිව් ප්‍රදේශවලට හිරු මුදුන්ව පවතිනු ඇති බවත් ඔවුන් පැවසීය.
-
-◼️
-
-[Data](articles/c170a4a4.json)
-
----
-
-### மட்டக்களப்பில் தண்ணீர் ஓடும் வாய்க்கால்களில் இரவில் மணல் கொள்ளை : நிறுத்த முடியாத புதிய அரசு - இரா. துரைரெத்தினம் காட்டம்
-
-*2025-08-29 06:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223646) · `ta`
-
-மட்டக்களப்பு மாவட்டத்தில் வெல்லாவெளி, பட்டிப்பளை, வவுணதீவு, செங்கலடி, கிரான், வாகரை பிரதேச செயலக்கப்பிரிவுக்கு உட்பட்ட பகுதிகளில் மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் இரவு7.00 மணி தொடக்கம் அதிகாலை 5.00 மணிவரை பொலிசார் பாதுகாப்பு படையினரின் அனுசரணையுடன்  மணல் கொள்ளை இடம்பெறுவதை புதிய அரசுக்குத் தெரியாதா? அதனை நிறுத்த முடியாதா?  என முன்னாள் கிழக்கு மாகாணசபை உறுப்பினர், இரா.துரைரெத்தினம் கேள்வி எழுப்பியுள்ளார்.
-
-கிழக்கு மாகாணசபை முன்னாள் உறுப்பினர் இரா.துரைரெத்தினம் (ஈ.பி.ஆர்.எல்.எப்) புதன்கிழமை (27) ஊடக அறிக்கை ஒன்றை வெளியிட்டார்.
-
-போரதீவுப்பற்று (வெல்லாவெளி), மண்முனை தென்மேற்கு (பட்டிப்பளை), மண்முனை மேற்கு (வவுணதீவு), ஏறாவூர்பற்று (செங்கலடி), கோறளைப்பற்று தெற்கு(கிரான்), கோறளைப்பற்று வடக்கு (வாகரை) போன்ற பிரதேச செயலகப்பிரிவிற்குட்பட்ட மத்திய, மாகாண நீர்பாசனத்திற்குச் சொந்தமானதும், ஏனைய வனவளத்திணைக்களத்திற்குச் சொந்தமான காணிகளில் மணல் கொள்ளை இடம்பெறுகின்றது
-
-...
-
-[Data](articles/148b422a.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-08-29 06:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/111964/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says that several spells of showers will occur in the Western, Sabaragamuwa and Central Provinces and in Galle and Matara Districts.
-
-A few showers may occur in the North-western Province, the Department said.
-
-Strong winds of about 40-50 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, Western and North-western Provinces and in Trincomalee and Hambantota Districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds.
-
-The sun is going to be directly over the latitudes of Sri Lanka from the 28th of August to the 07th of September due to its apparent southward relative motion, the statement added.
-
-The nearest places in Sri Lanka over which the sun is overhead today (29) are Kumulamunai, Padinaddampore, Alankulam, Thanniyuttu, Vettappalai, and Mullaitivu at about 12.11 noon.
-
-◼️
-
-[Data](articles/4066fc13.json)
-
----
-
-### செம்மணியில் நேற்று 8 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-08-29 06:00:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-8-எலும்புக்கூடுகள்-அடையாளம்/175-363696) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது புதிதாக 8 எலும்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டுள்ளன.
-
-இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் அடையாளம் காணப்பட்ட மனித என்புத் தொகுதிகளின் எண்ணிக்கை 177  ஆக அதிகரித்துள்ளது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 36 ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-ஏற்கனவே அடையாளம் காணப்பட்ட 6 மனித எலும்புக்கூட்டுத் தொகுதிகள் நேற்று முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை மொத்தமாக 164 மனித எலும்புக்கூட்டுத் தொகுதிகள் முழுமையாக அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/082e11f0.json)
-
----
-
-### Closing gender gap is economic strategy, boosts country’s  GDP: Prime Minister
-
-*2025-08-29 04:37:00* · [`dailyftlk`](https://www.ft.lk/news/Closing-gender-gap-is-economic-strategy-boosts-country-s-GDP-Prime-Minister/56-780964) · `en`
-
-Unpaid care and domestic work accounted for 36% of Sri Lanka’s GDP in 2017 as per National Time Transfer Account
-
-Out of 52% of Lankan women population, only 10% is represented in the Parliament
-
-Technological-facilitated violence heightens the vulnerability of local marginalised women groups
-
-Women and girls in marginalised groups are more vulnerable to climate change threats
-
-Japan’s experience in unlocking women’s economic potential offers Sri Lanka cues
-
-The United Nations Population Fund (UNFPA) Sri Lanka, on Wednesday launched a series of evidence-based reports at a forum under the banner –  ‘Unlocking the Gender Dividend: Driving Policy Change Through Knowledge’.
-
-The reports which lobby for closing the gender gaps in the country across multiple landscapes, were formally handed over to Prime Minister Dr. Harini Amarasuriya who delivered the keynote address at the event.
-
-...
-
-[Data](articles/c83eb219.json)
-
----
-
-### Hemas opens first Piyawara preschool in plantation sector
-
-*2025-08-29 04:30:59* · [`dailyftlk`](https://www.ft.lk/news/Hemas-opens-first-Piyawara-preschool-in-plantation-sector/56-780963) · `en`
-
-From left: Hemas Outreach Foundation Executive Director Shiromi Masakorala, Chairperson Abbas Esufally, and Senior Manager – Group Sustainability and Special Projects Mindika Thilakarathna at the opening of the first Piyawara preschool in the plantation sector
-
-The Hemas Outreach Foundation, dedicated to transforming early childhood education in Sri Lanka, recently opened its first Piyawara preschool in the plantation sector at the Pedro Estate, Nuwara Eliya. The initiative, carried out in partnership with the Plantation Human Development Trust (PHDT) and Kelani Valley Plantations, is part of Hemas’ broader efforts to expand access to quality education for underserved communities.
-
-...
-
-[Data](articles/77744e5e.json)
-
----
-
-### Uma Rajamantri installed as 39th President of Rotary Club of Colombo Mid-City
-
-*2025-08-29 04:28:05* · [`dailyftlk`](https://www.ft.lk/news/Uma-Rajamantri-installed-as-39th-President-of-Rotary-Club-of-Colombo-Mid-City/56-780962) · `en`
-
-The Rotary Club of Colombo Mid-City recently held its 39th Presidential Installation at Hilton Colombo, where Uma Rajamantri was inducted as President for 2025–26, alongside her newly appointed Board of Directors, in the presence of distinguished Past District Governors and District Governor-Elect Kumar Sundaraj, as well as corporate leaders.
-
-District Governor Delvin Pereira graced the occasion, emphasising this year’s Rotary theme, “Unite for Good,” and highlighting the importance of collaboration between clubs and the district to drive meaningful community impact. Immediate Past President Sethu Ramalingam reflected on his “Year in Action,” showcasing the Club’s achievements before formally handing over the mantle of leadership.
-
-Guest of Honour Eran Wickramaratne addressed the gathering on the significance of the Small and Medium Enterprise (SME) sector, underlining its critical role in economic growth and community development.
-
-...
-
-[Data](articles/be68dec4.json)
-
----
-
-### Killing the Travellers documentary sheds light on forgotten Kurukkalmadam massacre
-
-*2025-08-29 04:25:12* · [`dailyftlk`](https://www.ft.lk/news/Killing-the-Travellers-documentary-sheds-light-on-forgotten-Kurukkalmadam-massacre/56-780961) · `en`
-
-A new documentary, Killing the Travellers: Kurukkalmadam Massacre, directed by British-Sri Lankan filmmaker Baazir Kaleelur Rahman, has brought renewed attention to one of Sri Lanka’s most tragic and overlooked episodes of the civil war.
-
-The 25-minute documentary, produced in Tamil and subtitled in English, examines the 1990 abduction and killing of Muslim travellers on the roads around Kattankudy, shedding light on the human cost of conflict and the impact on relations between the Muslim and Tamil communities, strongly emphasising the urgent need for justice for the victims and their families.
-
-...
-
-[Data](articles/07b1a1f1.json)
 
 ---

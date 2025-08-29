@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 17:17:54**
+As of **2025-08-29 17:32:37**
 
 ## Newspaper Stats
 
-*Scraped **73,089** Articles*
+*Scraped **73,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 617
 bbccomsinhala | 677
 colombotelegraphcom | 746
-economynextcom | 4,450
+economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
@@ -26,21 +26,65 @@ adaderanasinhalalk | 12,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,089 articles have been extended.
+61,973 (84.8%) of 73,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
 
+### Sri Lanka stabilized after crisis under old monetary law: CB Governor
+
+*2025-08-29 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-stabilized-after-crisis-under-old-monetary-law-cb-governor-238673/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stabilization measures were take under an older monetary law, before a new legilstion with greater Central Bank independence was enacted Governor Nandalal Weerasinghe who hiked rates, operated deflationary policy and also appreciated a collapsed currency.
+
+Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at providing more independence to the agency, in the hope it will help maintain stability, replacing a Monetary Law Act (MLA) dating back to 1949.
+
+“Notably, replacing the MLA with the new CBA enshrined greater independence and accountability in the new legislation,” Governor Weerasinghe said delivering an oration marking 75 years of the agency.
+
+“However, since the CBA was enacted only in September 2023, most stabilisation measures had to be executed under the MLA.
+
+...
+
+[Data](articles/3cb887de.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields edge up
+
+*2025-08-29 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-238699/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.00/10 to the US dollar in the spot market Friday, stronger from 302.23/40 the previous day, while bond yields were slightly up, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.15/25 percent, up from 8.14/24 percent.
+
+A bond maturing on 15.03.2028 closed at 8.83/90 percent, up from 8.79/82 percent.
+
+A bond maturing on 15.12.2032 closed at 10.30/40 percent, up from 10.28/32 percent. (Colombo/Aug29/2025)
+
+◼️
+
+[Data](articles/a3785d39.json)
+
+---
+
 ### ශ්‍රී ලංකා පිලෙන් සිම්බාබ්වේට ලකුණු 299ක ඉලක්කයක්
 
 *2025-08-29 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213937) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ සිම්බාබ්වේ සංචිරය ආරම්භ කරමින් පළමු එක්දින තරගය හරාරේ හිදී මේ වන විට පැවැත්වෙයි.
+ශ්‍රී ලංකා කණ්ඩායමේ සිම්බාබ්වේ සංචාරය ආරම්භ කරමින් පළමු එක්දින ක්‍රිකට් තරගය හරාරේ හිදී මේ වන විට පැවැත්වෙයි.
 
-එහිදී කාසියේ වාසිය ලබා ගත් සිම්බාබ්වේ ක්‍රිකට් නායක සෝන් විලියම්ස්ගේ ආරාධනය පරිදි පළමුවට පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල සිය පන්දු වාර 50 අවසානයේ දී කඩුළු 6ක් දැවී ලකුණු 298ක් ලබා ගන්නට සමත්විය.
+එහිදී කාසියේ වාසිය ලබා ගත් සිම්බාබ්වේ ක්‍රිකට් නායක සෝන් විලියම්ස්ගේ ආරාධනය පරිදි පළමුවට පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල සිය පන්දු වාර 50 අවසානයේ දී කඩුලු 6ක් දැවී ලකුණු 298ක් ලබා ගන්නට සමත්විය.
 
-◼️
+ලකුණු ලබා ගැනීමට දැඩි ආයාසයක් දැරීමට සිදුවූ මෙම තණතිල්ලේ මුල් පන්දුවාර 10 තුළ දී ශ්‍රී ලංකා පිලට ලබා ගැනීමට හැකියාව ලැබුණේ එක් කඩුල්ලක් දැවී ලකුණු 29ක් පමණි.
+
+අද දින ශ්‍රී ලංකා ආරම්භක පිතිකරු නිෂාන් මදුෂ්කට ලකුණු නොලබාම පිටියෙන් ඉවත්වන්නට සිදුවූ අතර දෙවැනි කඩුල්ල සඳහා පැතුම් නිස්සංක සහ කුසල් මෙන්ඩිස් අගනා ලකුණු 100ක සබඳතාවක් පවත්වන්නට සමත් විය.
+
+එහිදී පැතුම් නිස්සංක ලකුණු 76ක් සහ කුසල් මෙන්ඩිස් ලකුණු 38ක් ලබාගන්නට සමත්වූහ.
+
+තරගයේ 36 වැනි පන්දුවාරයේ දී ශ්‍රී ලංකා නායක චරිත් අසලංක ලකුණු 6කට දැවී ගිය අතර ඒ වන විට ශ්‍රී ලංකා ලකුණු පුවරුව කඩුලු 5කට ලකුණු 161ක් ලෙසින් සටහන්ව තිබුණි.
+
+...
 
 [Data](articles/9f9b9fa6.json)
 
@@ -102,11 +146,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka stocks gain 0.95-pct, driven by telecommunication, capital goods
+
+*2025-08-29 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-gain-0-95-pct-driven-by-telecommunication-capital-goods-238677/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) ended 0.95 percent higher after surpassing the psychological 21,000 mark in intraday trading, brokers said.
+
+“Market seems to be very bullish today. Crossed the 21,000 at one point,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+The ASPI climbed 197.10 points on Friday to close at 20,997.36; while the S&P SL20 index rose 0.51 percent, or 31.02 points, to close at 6,076.79.
+
+“Telecom and capital goods pushed the turnover. Heavy interest in financial companies were seen,” Mathew said.
+
+The ASPI was pushed higher on Ceylinco Holdings which ended 144.75 rupees higher at 3,200; Dialog Axiata which ended 1.20 rupees stronger at 26.10; Senkadagala Finance which ended 79.75 rupees up at 556.75; Richard Pieris & Company which moved 1.60 rupees up to 28.40; and John Keells Holdings closed up 0.30 cents at 23.30 rupees.
+
+...
+
+[Data](articles/480b8fda.json)
+
+---
+
 ### දර්ගා නගරයේ දී පොලිස් වෙඩිතැබීමක්
 
 *2025-08-29 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213934) · `si`
 
-දර්ගා නගරයේ දී නඩුවක් විභාග කිරීමට ගිය අවස්ථාවේ දී කලහාකාරීව හැසිරුණු පුද්ගලයෙකුට අලුත්ගම පොලීසියෙන් වෙඩිතැබීමක් සිදුකර තිබේ.
+පොලිස් නිලධාරීන්ට යකඩ පොල්ලකින් පහරදීමට සූදානම් වූ සැකකරුවෙකු පාලනය කිරීමට පොලීසියෙන් අහසට වෙඩිතබා ඇතැයි අලුත්ගම පොලීසිය පවසයි.
+
+අලුත්ගම, දර්ගා නගරය ප්‍රදේශයේ දී වෙඩිතැබීම සිදුව ඇති බව පොලීසිය සඳහන් කරයි.
+
+දෙපිරිසක් අතර ආරවුලක් පවතින බවට 119 ඔස්සේ ලද තොරතුරක් මත පොලිස් නිලධාරීන් එම ප්‍රදේශයට ගොස්  සිටියදී සැකකරු යකඩ පොල්ලක් රැගෙන නිලධාරීන්ට පහරදීමට උත්සහ කර ඇති බවත්, එහිදී එක් නිලධාරියෙකු අත රැඳි රිවෝල්වරයකින් වෙඩි තබා ඇති බව සඳහන් වේ.
+
+ආරවුල පාලනය කළ පොලිස් නිලධාරීන් සැකකරුව අත්අඩංගුවට ගෙන ඇති බවත්, ඔහුව කළුතර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බවත් පොලීසිය පැවසීය.
 
 ◼️
 
@@ -303,6 +373,28 @@ Former State Minister Nimal Lanza, who was arrested today (29) after surrenderin
 ◼️
 
 [Data](articles/61843be8.json)
+
+---
+
+### Sri Lanka’s central bank issues Rs2,000 note with accessibility features
+
+*2025-08-29 15:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-issues-rs2000-note-with-accessibility-features-238672/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has issued a 2,000 rupee commemorative currency note to mark its 75th anniversary, with features for the visually impaired.
+
+“To assist visually impaired people in identifying the note by touch, six raised bars, each with a diamond shape, are printed along both the left and right edges,” the central bank said describing the note.
+
+The front of the note features the CBSL head office, the Colombo lighthouse clock tower, a stylized Colombo skyline and the 75th anniversary logo.
+
+A colour-shifting security thread is embedded in the note to enhance security and facilitate public authentication, CBSL said.
+
+The reverse of the note has a stylized map of Sri Lanka, a water lily, and the central bank’s vision statement.
+
+50 million notes will be issued, which will be gradually released into circulation through Licensed Commercial Banks starting today.
+
+...
+
+[Data](articles/e92f7ce0.json)
 
 ---
 
@@ -580,6 +672,30 @@ On this occasion, the President also engaged in cordial discussions with officia
 
 ---
 
+### If you don’t know your market, don’t grow: Sri Lanka agri minister tells farmers
+
+*2025-08-29 14:05:00* · [`economynextcom`](https://economynext.com/if-you-dont-know-your-market-dont-grow-sri-lanka-agri-minister-tells-farmers-238667/) · `en`
+
+ECONOMYNEXT – Farmers shouldn’t grow produce if they don’t know the market, Sri Lanka’s Minister of Agriculture and Lands has said.
+
+“IF you don’t know the market, don’t grow [Api kiyanne velandapola danne neththam vaga karanna epa],” Kuragamage Don Lalkantha said.
+
+He said he had asked pumpkin farmers recently who they grew it for. “They don’t know who their buyers are.”
+
+“We say, grow produce knowing who you will sell it to, and at what price.
+
+But they must know if they are selling to supermarkets or for export, he said, and meet with buyers beforehand.
+
+“Then no one will be left helpless [kavuruth anatha ven neha]”.
+
+He said the government hopes to solve all farmer problems by 2028. (Colombo/Aug29/2025)
+
+◼️
+
+[Data](articles/d9b6547b.json)
+
+---
+
 ### ஐக்கிய நாடுகள் மனித உரிமைகள் சபையின் உறுப்பு நாடுகளின் தூதரகத் தலைவர்களுக்கு இலங்கை தமிழ் அரசுக் கட்சி அனுப்பியுள்ள முக்கிய கடிதம் !
 
 *2025-08-29 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223692) · `ta`
@@ -661,6 +777,24 @@ On this occasion, the President also engaged in cordial discussions with officia
 ◼️
 
 [Data](articles/89d5acb2.json)
+
+---
+
+### Sri Lanka’s SEC defers Softlogic trading suspension
+
+*2025-08-29 13:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-sec-defers-softlogic-trading-suspension-238659/) · `en`
+
+ECONOMYNEXT – Softlogic Holdings said trading of its shares will continue uninterrupted from September 1, following a deferment of the suspension granted by the Securities & Exchange Commission of Sri Lanka.
+
+The SEC has granted deferment of the trading suspension of Softlogic Holdings securities until November 30.
+
+The securities were transferred to the watch list on November 2023 and April 2024, due to “the emphasis of matter on going concern” contained in the Independent Auditor’s Reports for the financial years ended March 2022 and March 2023 respectively, the company said in a stock exchange filing.
+
+The stock was trading up 10 cents at 7.20 rupees. (Colombo/Aug29/2025)
+
+◼️
+
+[Data](articles/382c08f9.json)
 
 ---
 
@@ -847,6 +981,26 @@ Accordingly, the High Court judge further ordered that he remain in custody unti
 ◼️
 
 [Data](articles/0decf1f3.json)
+
+---
+
+### Sri Lanka shipwreck artifacts to be displayed at US-funded exhibit
+
+*2025-08-29 12:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-shipwreck-artifacts-to-be-displayed-at-us-funded-exhibit-238638/) · `en`
+
+ECONOMYNEXT – Artifacts from Sri Lanka’s Godawaya Shipwreck will be featured at an exhibition and symposium organised by the US Embassy and the Central Cultural Fund’s Maritime Archaeology Unit.
+
+Discovered off the coast of the fishing village of Godawaya in southern Sri Lanka, the ancient shipwreck is the oldest known wooden shipwreck in the Asia-Pacific region, dating back more than 2,100 years to the 1st or 2nd century BCE, the embassy pointed out.
+
+“This extraordinary underwater archaeological site provides rare insights into early Indian Ocean trade and seafaring.”
+
+The exhibition at BMICH Cinema Lounge, Colombo, will open to the public at 11 am on September 3 and will be open daily from 10 am to 5 pm on September 4 and 5.
+
+The project is funded through the Ambassadors Fund for Cultural Preservation (AFCP), a US Government initiative.
+
+...
+
+[Data](articles/e200f102.json)
 
 ---
 
@@ -1144,6 +1298,20 @@ At around 11.00 a.m., the index stood at 21,003.97 points, reflecting an increas
 
 ---
 
+### Sri Lanka sells extra Rs20bn Treasury bills after auction
+
+*2025-08-29 11:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs20bn-treasury-bills-after-auction-238634/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 20,000 million rupees of treasury bills offered on tap at average rates of 7.58 percent, 7.89 percent and 8.03 percent, the state debt office said, bringing the total of bills sold this week to 71.14 billion rupees.
+
+On Wednesday (27) the debt office raised 51.14 billion rupees of 3, 6 and 12 month bills.
+
+◼️
+
+[Data](articles/f016f9ab.json)
+
+---
+
 ### වාහන 3ක් එකිනෙකට ගැටී මාරක අනතුරක්
 
 *2025-08-29 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213918) · `si`
@@ -1309,6 +1477,30 @@ Accordingly, the High Court Judge directed that he remain in custody until he is
 ...
 
 [Data](articles/483bb3b4.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields up
+
+*2025-08-29 10:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-238624/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly weaker at 302.34/40 to the US dollar in the spot market Friday, from 302.23/40 the previous day, while bond yields were up, dealers said.
+
+A bond maturing on 15.09.2027 was quoted at 8.60/70 percent, up from 8.55/62 percent.
+
+A bond maturing on 15.12.2028 was quoted at 9.00/10 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.45/55 percent, down from 9.45/59 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.30/35 percent, up from 10.28/32 percent.
+
+The Colombo Stocks Exchange was trading in green; The ASPI was up 0.75 percent, or 156.39 points, at 20,956.65; the S&P SL20 was up 0.77 percent, or 46.39 points, at 6,092.16.
+
+The telegraphic transfer rates for the American dollar was 298.9000 buying, 305.9000 selling; the British pound was 402.5802 buying, and 413.9220 selling, and the euro was 346.3549 buying, 357.5601 selling. (Colombo/Aug29/2025)
+
+◼️
+
+[Data](articles/ac6b0451.json)
 
 ---
 
@@ -1561,169 +1753,5 @@ The charges against Kim, which are punishable by years in prison if she is found
 ◼️
 
 [Data](articles/f79438c3.json)
-
----
-
-### தூக்கில் தொங்கிய நிலையில் சடலம் மீட்பு
-
-*2025-08-29 08:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தூக்கில்-தொங்கிய-நிலையில்-சடலம்-மீட்பு/72-363701) · `ta`
-
-முல்லைத்தீவு -புதுக்குடியிருப்பு, விசுவமடு மாணிக்கப்பிள்ளையார் ஆலய வளாகத்தில் உள்ள மாமரத்தில் நபர் ஒருவர் தூக்கில் தொங்கிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
-
-இது குறித்து பொது மக்கள் புதுக்குடியிருப்பு பொலிஸாருக்கு தகவல் வழங்கியதையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸார் சடலத்தை மீட்டதுடன், மேலதிக விசாரணைகளை மேற்கொண்டனர்.
-
-முல்லைத்தீவு மாவட்ட நீதவான் நீதிமன்ற நீதிபதி தர்மலிங்கம் பிரதீபன் சம்பவ இடத்திற்கு வருகை தந்து சடலத்தைப் பார்வையிட்ட பின்னர், உடற்கூறு பரிசோதனைக்குப் பின் உடலை உறவினர்களிடம் ஒப்படைக்க உத்தரவிட்டார்.
-
-உயிரிழந்தவர் குரவில் உடையார்கட்டு பகுதியைச் சேர்ந்த கந்தசாமி தர்சன் என அடையாளம் காணப்பட்டுள்ளார்.  இது குறித்து புதுக்குடியிருப்பு பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர். R
-
-◼️
-
-[Data](articles/b3b0d10d.json)
-
----
-
-### බණ්ඩාරගම වෙඩිතැබීමට අනුබල දුන් දෙදෙනෙක් අත්අඩංගුවට
-
-*2025-08-29 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213911) · `si`
-
-බණ්ඩාරගම, බොල්ගොඩ පාලම අසලදී හිටපු බන්ධනාගාර නිලධාරියෙකු වෙඩිතබා ඝාතනය කිරීමට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-අදාළ සැකකරුවන් දෙදෙනා ඊයේ (28දා) දහවල් පානදුර, මෝදරවිල  ප්‍රදේශයේදී අත්අඩංගුවට ගෙන බණ්ඩාරගම පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
-
-පසුගිය 21වනදා සිදු වූ මෙම වෙඩිතැබීමෙන් ඝාතනය වූයේ ලලිත් කුමාර කෝදාගොඩ නමැති පානදුර ප්‍රදේශයේ පදිංචිකරුවෙක්ය.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 18 හා 21 වයස්වල පසු වන පානදුර ප්‍රදේශයේ පදිංචිකරුවන් බව පොලීසිය පවසයි.
-
-සැකකරුවන් සන්තකයේ තිබී වෙඩිතැබීම සඳහා වෙඩික්කරුවන් පැමිණි යතුරුපැදිය බවට සැක කෙරෙන ව්‍යාජ අංක තහඩු සවිකරන ලද යතුරුපැදියක්, ව්‍යාජ ගමන්බලපත්‍රයක්, රක්ෂණ සහතිකයක් හා ආදායම් බලපත්‍රයක් සහ ව්‍යාජ අංක තහඩු යුගලයක් පොලිස් භාරයට ගෙන ඇත.
-
-◼️
-
-[Data](articles/930c91d7.json)
-
----
-
-### ஜப்பான், சீனாவுக்கு மோடி பயணம்
-
-*2025-08-29 08:05:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பான்-சீனாவுக்கு-மோடி-பயணம்/50-363700) · `ta`
-
-ஜப்பான், சீனாவில் பிரதமர் மோடி 4 நாட்கள் அரசு முறை பயணம் மேற்கொள்கிறார்.
-
-முதல்கட்டமாக அவர் நேற்று ஜப்பான் தலைநகர் டோக்கியோவுக்கு புறப்பட்டார். அங்கிருந்து சீனா செல்லும் அவர் ஆகஸ்ட் 31  திகதி ஜி ஜின்பிங்கை சந்தித்துப் பேசுகிறார்.
-
-ஜப்பான் தலைநகர் டோக்கியோவில் 15 ஆவது இந்திய, ஜப்பான் வருடாந்திர உச்சி மாநாடு ஆகஸ்ட் 29, 30 ஆம் திகதிகளில் நடைபெறுகிறது. இதில் பங்கேற்பதற்காக பிரதமர் மோடி நேற்று டெல்லியில் இருந்து டோக்கியோவுக்கு புறப்பட்டார். இந்த மாநாட்டில் ஜப்பான் பிரதமர் ஷிகேரு இஷிபாவை, அவர் சந்திக்கிறார். அப்போது பாதுகாப்பு, வர்த்தகம் உள்ளிட்ட பல்வேறு துறைகளில் இரு நாடுகள் இடையிலான உறவை மேலும் வலுப்படுத்துவது குறித்து அவர்கள் ஆலோசனை நடத்த உள்ளனர்.
-
-டோக்கியாவில் இருந்து நாளை பிரதமர் நரேந்திர மோடி சீனாவின் தியான்ஜின் நகருக்கு செல்கிறார். அங்கு ஓகஸ்ட் 31, செப்ரம்பர் 1 ஆகிய திகதிகளில் நடைபெற உள்ள ஷாங்காய் ஒத்துழைப்பு அமைப்பின் உச்சி மாநாட்டில் (எஸ்.சி.ஓ) அவர் பங்கேற்கிறார்.
-
-...
-
-[Data](articles/53109a76.json)
-
----
-
-### இன்று பல தடவைகள் மழை பெய்யும்
-
-*2025-08-29 08:04:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-தடவைகள்-மழை-பெய்யும்/175-363699) · `ta`
-
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-சப்ரகமுவ மாகாணத்திலும் நுவரெலியா மற்றும் கண்டி மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
-
-வடமேல் மாகாணத்திலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் சிறிதளவான மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
-
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, மேல் மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
-
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் மின்னல் தாக்கங்களினாலும் பலத்த காற்றினாலும் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.  R
-
-◼️
-
-[Data](articles/753c5b49.json)
-
----
-
-### கடற்றொழிலுக்குச் சென்ற இளைஞர் மாயம்
-
-*2025-08-29 07:57:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்குச்-சென்ற-இளைஞர்-மாயம்/175-363698) · `ta`
-
-முல்லைத்தீவு, கொக்கிளாயில் நேற்று முன்தினம் இரவு கடற்றொழிலுக்குச் சென்ற இளைஞர் ஒருவர் காணாமல்போயுள்ளார்.
-
-இது தொடர்பில் கொக்குளாய் பொலிஸ் நிலையத்தில் உறவினர்களால் நேற்று முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
-
-கொக்குளாய், முகத்துவாரம் பகுதியில் இருந்து கடற்றொழிலை மேற்கொண்டு வரும் வர்ணகுலசூரிய நெகித் ரவிஷ பிரனாந்து என்னும் 23 வயது இளைஞரே மாயமாகியுள்ளார்
-
-மேற்படி இளைஞர் மீன்பிடிக்கச் சென்ற படகு நடுக்கடலில் நங்கூரமிட்டபடி நேற்றுக் காலை கண்டுபிடிக்கப்பட்டுள்ளது.
-
-மாயமான இளைஞரை நூற்றுக்கும் மேற்பட்ட படகுகளில் நேற்று தேடியும் அவர் கண்டுபிடிக்கப்படவில்லை. எனினும், தேடுதல் பணி தொடர்ந்து இடம்பெற்று வருகின்றது. (a)
-
-◼️
-
-[Data](articles/06112dd7.json)
-
----
-
-### Corruption in any form undermines governance and public trust – PM
-
-*2025-08-29 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/111968/corruption-in-any-form-undermines-governance-and-public-trust-pm) · `en`
-
-The inaugural workshop of a program series organized by the Commission to Investigate Allegations of Bribery or Corruption, in collaboration with the Ministry of Public Administration, Provincial Councils, and Local Government, was held yesterday (28) at the Western Provincial Council Auditorium in Battaramulla.
-
-The objective of this program is to build a culture of corruption-free local government institutions through the enforcement of anti-corruption laws and the promotion of integrity, according to the Prime Minister’s Media Division.
-
-The newly appointed local government members participated in this workshop, which is expected to be conducted across the island.
-
-...
-
-[Data](articles/4c0f4fc0.json)
-
----
-
-### වරෙන්තු නිකුත් කර තිබෙන රාජිත අද අධිකරණයට
-
-*2025-08-29 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213910) · `si`
-
-අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබෙන හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා අද (29) අධිකරණය හමුවේ පෙනී සිටීමට නියමිතය.
-
-ඒ මහතාට අද අධිකරණය හමුවේ පෙනී සිටින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය පසුගිය 20වැනිදා නොතිසි නිකුත් කර තිබුණි.
-
-අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකාබැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි ජයතුංග මහත්මිය විසින් අපරාධ නඩු විධානසංග්‍රහයේ 60(1) වගන්තිය යටතේ 'ප්‍රකාශනයක්' නිකුත් කරමින් මෙම නොතීසිය නිකුත් කරනු ලැබීය.
-
-මේ අතර අත්අඩංගුවට ගැනීම සඳහා කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ට එරෙහිව නිකුත් කර තිබෙන වරෙන්තුව ප්‍රතිශෝධනය කර අවලංගු කරන්නැයි ඉල්ලා රාජිත සේනාරත්න මහතා ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම විභාග කිරීමට කොළඹ මහාධිකරණය ඊයේ (28) තීරණය කළේය.
-
-ඒ අනුව පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම් කර ඇති අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා ඇතුළු නිලධාරීන්ට නොතිසි නිකුත් කරන ලෙස කොළඹ මහාධිකරණය නියම කර තිබුණි.
-
-...
-
-[Data](articles/be5f8b69.json)
-
----
-
-### Over 14,800 children reported in vulnerable situations in Sri Lanka
-
-*2025-08-29 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/111967/over-14800-children-reported-in-vulnerable-situations-in-sri-lanka) · `en`
-
-The Department of Probation and Child Care Services has revealed that around 14,834 children have been identified as being in vulnerable situations across the island.
-
-This was disclosed at the District Multi-Stakeholder Drug Prevention, Treatment, and Rehabilitation Program held yesterday (28) at the Colombo District Secretariat.
-
-An official from the Department stated that Child Rights Promotion Officers are currently engaged in supporting vulnerable children, while a significant number of cases are also referred to the Department through police stations.
-
-“The main issue we face is the lack of proper coordination among stakeholders. In particular, in drug-related cases, officers are unable to effectively reach certain areas such as Badowita. I suggest that it would be better if we all worked together to prepare a family-centered care and development plan that prioritizes the well-being of the child.”
-
-...
-
-[Data](articles/c5457f76.json)
-
----
-
-### இன்று கையெழுத்து போராட்டம்
-
-*2025-08-29 07:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கையெழுத்து-போராட்டம்/175-363697) · `ta`
-
-யாழ். செம்மணி மனிதப் புதைகுழிக்குச் சர்வதேச விசாரணை கோரியும், புதைகுழி அகழ்வுப் பணிகளைச் சர்வதேச நிபுணத்துவப் பங்களிப்புடன் முன்னெடுக்குமாறு வலியுறுத்தியும் தமிழர் வாழ் பகுதிகளில் இன்று கையெழுத்துப் போராட்டம் ஆரம்பமாகுகின்றது.
-
-தமிழர் தாயகமெங்கும் முன்னெடுக்கப்படவுள்ள இந்தக் கையெழுத்துப் போராட்டத்தில் தமிழ் மக்கள் அனைவரும் பங்கேற்று தமது ஒப்பங்களைப் பதிவு செய்ய வேண்டும் என்று தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் கேட்டுக்கொண்டுள்ளனர். (a)
-
-◼️
-
-[Data](articles/750998ae.json)
 
 ---

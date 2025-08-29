@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 18:32:26**
+As of **2025-08-29 18:56:02**
 
 ## Newspaper Stats
 
-*Scraped **73,105** Articles*
+*Scraped **73,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,039
-adaderanalk | 9,285
+adaderanalk | 9,286
 tamilmirrorlk | 10,864
 virakesarilk | 11,995
-adaderanasinhalalk | 12,667
+adaderanasinhalalk | 12,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,105 articles have been extended.
+61,973 (84.8%) of 73,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ජකර්තා නුවරදී අපරාධ කල්ලි සාමාජිකයින් සමග අත්අඩංගුවට ගත් කාන්තාව සහ කුඩා දරුවා දිවයිනට
+
+*2025-08-29 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213941) · `si`
+
+අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස සමග අත්අඩංගුවට ගත් කාන්තාව සහ කුඩා දරුවා අද (29) පස්වරුවේ දිවයිනට රැගෙන පැමිණ තිබේ.
+
+ඉන්දුනීසියාවේ ජකර්තා නුවර සිට පැමිණි UL -365 දරන ගුවන් යානයෙන් අද පස්වරු 5.50ට පමණ මෙවුන් දිවයිනට පැමිණ ඇති බව වාර්තා වේ.
+
+කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධ කල්ලි සාමාජිකයින් පිරිසක් විසින් පසුගියදා ජකර්තා නුවරදී අත්අඩංගුවට ගත් අතර එහිදී මෙම කාන්තාව සහ කුඩා දරුවාද අත්අඩංගුවට පත් විය.
+
+කෙසේ වෙතත් එම කාන්තාවට බරපතළ අපරාධ චෝදනා එල්ල වී නොමැති බැවින් ඉන්දුනීසියානු බලධාරීන් විසින් කාන්තාව මෙරටට එවා ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/cbc26a8d.json)
+
+---
+
+### 2000 වසරට පෙර අතුරුදන් වූවන් ගැන විමර්ශන යළි අරඹයි
+
+*2025-08-29 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213940) · `si`
+
+2000 වසරට පෙර උතුරේ සහ දකුණේ අතුරුදන් වූ බවට පැමිණිලි ලැබී ඇති විමර්ශන කටයුතු නැවත ආරම්භ කර අතුරුදන් වූ දස දහසකට අධික සංඛ්‍යාවක් සම්බන්ධව විමර්ශන කටයුතු ආරම්භ කරන බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ හර්ශණ නානායක්කාර මහතා පවසයි.
+
+අමාත්‍යවරයා පැවසුවේ මේ සඳහා හානි පූර්ණ කාර්යාලය සහ අතුරුදන් වූ තැනැත්තන් පිළිබඳ කාර්යාලය සඳහා නව ක්‍රමවේදයක්ද ඇති කරන බවය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ බලහත්කාරයෙන් අතුරුදහන්වූවන් අනුස්මරණය කිරීමේ ජාත්‍යන්තර දිනයට සමඟාමීව අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලය විසින් සංවිධානය කළ උත්සවයක් අද (29) අරලිය ගහ මන්දිරයේදී පැවැති අවස්ථාවේදීය.
+
+...
+
+[Data](articles/2a16f070.json)
+
+---
 
 ### புதிய 2000 ரூபாய் வெளியிட்டு வைக்கப்பட்டது
 
@@ -59,6 +93,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77960b66.json)
+
+---
+
+### Sri Lankan MPs delegation meets India’s Speaker, discuss boosting parliamentary ties
+
+*2025-08-29 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111987/sri-lankan-mps-delegation-meets-indias-speaker-discuss-boosting-parliamentary-ties) · `en`
+
+In a significant step towards deepening democratic ties, the 24-member high-level delegation of Sri Lanka-India Parliamentary Friendship Association met India’s Lok Sabha Speaker Om Birla during their visit to the Parliamentary Research and Training Institute for Democracies (PRIDE) at Lok Sabha Secretariat in New Delhi.
+
+The delegation was led by Nalinda Jayatissa, Minister of Health and Mass Communication of Sri Lanka and President of the Sri Lanka–India Parliamentary Friendship Association.
+
+During the meeting, Birla underscored Sri Lanka’s significance in India’s Neighbourhood First policy and MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision and called for an increase in such bilateral exchanges between India and Sri Lanka
+
+...
+
+[Data](articles/6ef03b24.json)
 
 ---
 
@@ -1697,65 +1747,5 @@ The police have taken into custody a motorcycle with fake number plates, believe
 ◼️
 
 [Data](articles/09f732ca.json)
-
----
-
-### South Korea’s ex-first lady Kim Keon Hee indicted on bribery charges
-
-*2025-08-29 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/111969/south-koreas-ex-first-lady-kim-keon-hee-indicted-on-bribery-charges) · `en`
-
-Kim Keon Hee, the wife of South Korea’s ousted former President Yoon Suk Yeol, has been indicted for bribery and other charges, a special prosecution team said on Friday (Aug 29), amid a widening probe into the country’s martial law crisis and scandals involving the once powerful couple.
-
-Both Yoon and Kim have been arrested and are in jail, with Yoon already undergoing trial on charges that include insurrection following his ouster in April over a botched bid to impose martial law in December.
-
-The couple are under separate investigations by special prosecutors appointed after Yoon’s removal from office and President Lee Jae Myung took office.
-
-It is the first time that a former first lady has been indicted in South Korea.
-
-The charges against Kim, which are punishable by years in prison if she is found guilty, range from stock fraud to bribery that have implicated business owners, religious figures and a political power broker.
-
-...
-
-[Data](articles/ac9ac220.json)
-
----
-
-### கர்ப்பிணி மானை கொலை செய்த ஐவர் கைது
-
-*2025-08-29 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223652) · `ta`
-
-வில்பத்து தேசிய பூங்காவிற்குள் உள்ள குக்குல்கட்டுவ - பிட்டுவ வனவிலங்கு வலயத்தில் கர்ப்பிணி மானை சுட்டுக் கொலை செய்த ஐந்து பேர் வியாழக்கிழமை (28) வனவிலங்கு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட 31, 40 மற்றும் 52 வயதுடைய சந்தேகநபர்கள் ரனோராவ, நொச்சியாகம மற்றும் அநுராதபுரம் ஆகிய பகுதிகளைச் சேர்ந்தவர்கள்.
-
-அவர்களிடமிருந்து துப்பாக்கி மற்றும் சந்தேகநபர்கள் பயன்படுத்திய இரண்டு மோட்டார் சைக்கிள்களையும் வனவிலங்கு அதிகாரிகள் கைப்பற்றினர்.
-
-வரட்சியான காலங்களில் தண்ணீரைத் தேடி தேசிய பூங்காவிற்குள் சுற்றித் திரியும் காட்டு விலங்குகளை இரவில் வேட்டையாடுவதில் இந்த குழு பலமுறை ஈடுபட்டுள்ளதாக தெரிவிக்கப்படுகிறது. அவர்கள் விலங்குகளைக் கொன்று இறைச்சியை விற்பனை செய்து வருவதாகக் கூறப்படுகிறது.
-
-வில்பத்து தேசிய பூங்கா அதிகாரிகளால் அவர்களின் நடவடிக்கைகள் குறித்து கிடைத்த புலனாய்வுத் தகவலின் அடிப்படையில் இந்த சோதனை நடத்தப்பட்டது.
-
-◼️
-
-[Data](articles/60f54ed2.json)
-
----
-
-### මුන්දලමේ ගිනි අවි සෙල්ලම් දැමු දෙදෙනෙකු අත්අඩංගුවට
-
-*2025-08-29 08:54:00* · [`adalk`](https://www.ada.lk/breaking_news/මුන්දලමේ-ගිනි-අවි-සෙල්ලම්-දැමු-දෙදෙනෙකු-අත්අඩංගුවට/11-418142) · `si`
-
-මුන්දලම ප්‍රදේශයේ අවස්ථා දෙකකදී වෙඩි තැබිම් දෙකක් සිදුකර එම ප්‍රදේශයෙ නොසන්සුන්තාවයක් ඇති කල බව කියන සැකකරුවන් දෙදෙනෙකු වෙඩි තැබිමට යොදා ගත් ගිනි අවිය සමග පුත්තලම කොට්ඨාශ අපරාධ කාර්යාංශයේ නිළධාරීන් විසින් සිදුකල මෙහෙයුමකින් පසු 28  දින අත් අඩංගුවට ගැනිමට කටයුතු කර තිබුනී.
-
-මෙලෙස අත් අඩංගුවට ගෙන තිබුනේ අවුරුදු 30 හා 37 වයස් සිමාවල සැකකරුවන් දෙදෙනෙකු වන අතර මොවුන් මුන්දලම නවදන්කුලම පදිංචිකරුවන් බව කියයි.
-
-මෙම අත් අඩංගුවට ගැනිම සදහා පුත්තලම කොට්ඨාශ බුද්ධි අංශය හා කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශයෙ බුද්ධි එකකක ලබා දුන් තොරතුරු මත මෙම සැකකරුවන් අත් අඩංගුවට ගැනිමට කටයුතු කර තිබුනී.
-
-අදාල වෙඩි තැබිමට සම්බන්ධව සැකකරුවන් සමග බෝර 12 ගිනි අවිය.ජීව පතොරම් තුනක් හා හිස් කොපු හතරක් මෙලෙස අත් අඩංගුවට ගැනිමට කටයුතු කර තිබු බව කියයි.
-
-මෙම වෙඩි තැබිමට හේතුවි ඇත්තේ ඉඩම් සම්බන්ධ ආරවුලක් බවත් එම ආරවුල ඇති කර ඇත්තේ මෙලෙස අත් අඩංගුවට ගත් සැකකරුවන්ට අදාල වෙඩි තැබිමට උපදෙස් දුන් ප්‍රධාන සැකකරු බවද විමර්ශන වලදී හෙළිව තිබේ .
-
-...
-
-[Data](articles/cebe8150.json)
 
 ---

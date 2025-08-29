@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 04:07:16**
+As of **2025-08-30 04:19:08**
 
 ## Newspaper Stats
 
@@ -792,7 +792,7 @@ However, it is said that Indonesian authorities have deported the woman and chil
 
 ---
 
-### Has the JVPled NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
+### Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
 
 *2025-08-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86356) · `en`
 

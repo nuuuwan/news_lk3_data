@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 17:53:46**
+As of **2025-08-29 18:10:06**
 
 ## Newspaper Stats
 
-*Scraped **73,103** Articles*
+*Scraped **73,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,47 @@ adalk | 7,039
 adaderanalk | 9,285
 tamilmirrorlk | 10,863
 virakesarilk | 11,995
-adaderanasinhalalk | 12,666
+adaderanasinhalalk | 12,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,103 articles have been extended.
+61,973 (84.8%) of 73,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
 
+### චාමර සම්පත්ගේ නඩු දෙකක් කල් යයි
+
+*2025-08-29 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213939) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී චාමර සම්පත් දසනායක මහතාට එරෙහිව ඇති නඩු දෙකක් ජනවාරි 23 වනදා යළි කැඳවන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+එම නඩු අද (29) කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංග එස් බෝදරගම මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී විමර්ශනවල ප්‍රගතිය ජනවාරි මස 23 වනදා ඉදිරිපත් කරන ලෙස මහේස්ත්‍රාත්වරයා අල්ලස් කොමිසමට නියම කළේය.
+
+ඌව පළාත් ප්‍රධාන අමාත්‍යවරයා වශයෙන් කටයුතු කරමින් සිටියදී රාජ්‍ය බැංකුවක පවත්වාගෙන ගිය පළාත් සභාවට අයත්ව තිබූ ස්ථාවර තැන්පතු ගිණුම් 6ක් කල්ඉකුත් වීමට පෙර එම බැංකුවෙන් ඉවත්කරගැනීමෙන්, රජයට රුපියල් ලක්ෂ 173ක මුදලක් පාඩු කිරීමෙ චෝදනාව මත චාමර සම්පත් දසනායක මහතාට එරෙහිව මෙම පැමිණිලි ඉදිරිපත් කර තිබෙනවා.
+
+◼️
+
+[Data](articles/77960b66.json)
+
+---
+
 ### ක්ලබ් වසන්ත ඝාතන සිද්ධියට අදාළ ටැටු මධ්‍යස්ථානයේ හිමිකරුට ඇප
 
 *2025-08-29 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213938) · `si`
 
-අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත යන අය වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් චෝදනා ලැබූ ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇප මත මුදා හරින ලෙස හෝමාගම මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත යන අය වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් චෝදනා ලැබූ ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇප මත මුදා හරින ලෙස හෝමාගම මහාධිකරණය නියෝග කර තිබේ.
 
 මෙලෙස ඇප මත මුදා හැර ඇත්තේ එම ටැටු මධ්‍යස්ථානයේ හිමිකරු වූ දුලාන් සංජුල නොහොත් ටැටූ මල්ලි නැමැත්තෙකි.
 
-ඒ අනුව ඔහු රුපියල් 150,000ක මුදල් ඇපයක් සහ 250,000 ක ශරීර ඇප දෙකක් මත මුදා හරින ලෙස හෝමාගම මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (29) නියෝග කළේය.
+ඒ අනුව ඔහු රුපියල් 150,000ක මුදල් ඇපයක් සහ 250,000 ක ශරීර ඇප දෙකක් මත මුදා හරින ලෙස හෝමාගම හෝමාගම මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (29) නියෝග කළේය.
 
-තවද මෙම ඝාතන සිදුවීම සම්බන්ධයෙන් ඊට ආදාර අනුබල දීමේ චෝදනාව මත රක්ෂිත බන්ධනාගාරගත කර සිටි තවත් සැකකරුවන් අදාළ ඇප කොන්දේසි මතම මුදා හැරීමටද මහාධිකරණ විනිසුරුවරයා නියෝග කළේය.
+තවද මෙම ඝාතන සිදුවීම සම්බන්ධයෙන් ඊට ආදාර අනුබල දීමේ චෝදනාව මත රක්ෂිත බන්ධනාගාරගත කර සිටි තවත් සැකකරුවන් අදාළ ඇප කොන්දේසි මතම මුදා හැරීමටද විනිසුරුවරයා නියෝග කළේය.
 
 ◼️
 
@@ -450,9 +468,17 @@ The reverse of the note has a stylized map of Sri Lanka, a water lily, and the c
 
 *2025-08-29 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111983/former-president-ranil-discharged-from-hospital) · `en`
 
-Former President Ranil Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, has been discharged from the hospital, a short while ago.
+Former President Ranil Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, has been discharged from the hospital on Friday.
 
-◼️
+The 76-year-old was rushed to the intensive care unit of the National Hospital in Colombo last Saturday (23), just hours after being remanded in custody.
+
+Wickremesinghe, who was granted bail on Tuesday, was ordered to be released on three surety bails of Rs. 5 million each by Colombo Fort Magistrate Nilupuli Lankapura.
+
+Former President Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
+
+However, considering his health condition, he was first admitted to the Prison Hospital, and later transferred to the Intensive Care Unit of the Colombo National Hospital based on medical advice.
+
+...
 
 [Data](articles/1c1ff6e4.json)
 
@@ -954,15 +980,15 @@ Accordingly, the High Court judge further ordered that he remain in custody unti
 
 *2025-08-29 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213925) · `si`
 
-හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා එළඹෙන 9 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා බන්ධනාකාර නිලධාරීන් විසින් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ඒ මහතාව ලබන 09 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
 
-අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය රාජිත සේනරත්න මහතා අද (29) පෙරවරුවේ අධිකරණය හමුවේ පෙනී සිටියේය.
+ප්‍රකාශයක් සටහන් කර ගැනීම සඳහා සැකකාර රාජිත සේනාරත්න මහතා ලබන 03 වනදා පෙරවරු 9.00ට අල්ලස් කොමිසම හමුවට ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙසත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක. එස්. බෝදරගම මහතා බන්ධනාගාර නිලධාරීන්ට නියම කළේය.
 
-ඒ අනුව කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව ඒ මහතාව ලබන 09 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස නියම කළේය.
+කොළඹ මහාධිකරණයේ නියෝග මත රිමාන්ඞ් භාරයට ගන්නා ලද සැකකාර රාජිත සේනාරත්න මහතාව බන්ධනාගාර නිලධාරීන් විසින් මෙම නඩුකරය අද කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී අධිකරණය හමුවට ඉදිරිපත් කර තිබුණි.
 
-අල්ලස් කොමිසම සහ විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් පසුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක. එස්. බෝදරගම මහතා මෙම නියෝගය නිකුත් කර තිබුණි.
+එහිදී අල්ලස් කොමිසම වෙනුවෙන් පෙනී සිටි එහි සහකාර අධ්‍යක්ෂ ජනරාල් සුලෝචනා හෙට්ටිආරච්චි මහත්මිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සැකකරු ධීවර අමාත්‍යවරයා වශයෙන් කටයුතු කළ අවදියේ 2013 වසරේ ලැබුණු නිර්නාමික පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කළ බව සඳහන් කළාය.
 
-◼️
+...
 
 [Data](articles/cca03ee3.json)
 
@@ -1737,21 +1763,5 @@ The charges against Kim, which are punishable by years in prison if she is found
 ◼️
 
 [Data](articles/bed345dd.json)
-
----
-
-### உக்ரேன் மீது ரஷ்யா தாக்குதல் - 23 பேர் பலி
-
-*2025-08-29 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/223650) · `ta`
-
-உக்ரேன், ரஷ்யா இடையேயான போர் நீடித்து வருகிறது. இந்த போரில் ஆயிரக்கணக்கானோர் உயிரிழந்துள்ளனர்.
-
-இதனிடையே, இந்த போரை முடிவுக்கு கொண்டுவர அமெரிக்க ஜனாதிபதி ட்ரம்ப் தீவிரம் காட்டி வருகிறார். ஆனாலும், போர் தொடர்ந்து நீடித்து வருகிறது.
-
-இந்நிலையில், உக்ரேன் மீது ரஷ்யா நேற்று தாக்குதல் நடத்தியது. உக்ரேன் தலைநகர் கீவ் உள்பட பல்வேறு பகுதிகள் மீது ரஷ்யா ட்ரோன், ஏவுகணை தாக்குதல் நடத்தியது. இந்த தாக்குதலில் 23 பேர் உயிரிழந்தனர். மேலும், 48 பேர் படுகாயமடைந்தனர்.
-
-◼️
-
-[Data](articles/0a23c1d6.json)
 
 ---

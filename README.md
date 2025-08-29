@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 16:49:52**
+As of **2025-08-29 17:06:03**
 
 ## Newspaper Stats
 
-*Scraped **73,084** Articles*
+*Scraped **73,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,037
+adalk | 7,038
 adaderanalk | 9,285
 tamilmirrorlk | 10,862
 virakesarilk | 11,995
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,084 articles have been extended.
+61,973 (84.8%) of 73,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4c5716e1.json)
+
+---
+
+### නිමල් ලන්සා රිමාන්ඩ්
+
+*2025-08-29 16:07:29* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-රිමාන්ඩ්/11-418154) · `si`
+
+2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ අත්අඩංගුවට ගෙන මීගමුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා මහතා ලබන 12 දා තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
+
+අදාළ චෝදනා යටතේ කොච්චිකඩේ පොලීසියට භාර වූ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලාන්සා අත්අඩංගුවට ගැනීමෙන් අනතුරුව අධිකරණයට ඉදිරිපත් කෙරිණි.
+
+◼️
+
+[Data](articles/d38afc6d.json)
 
 ---
 
@@ -1711,23 +1725,5 @@ U.S. special envoy Keith Kellogg commented on X: “The targets? Not soldiers an
 ...
 
 [Data](articles/641d4162.json)
-
----
-
-### Dr. Nandalal Weerasinghe earns ‘A’ grade in Global Finance’s Central Banker Report Cards 2025
-
-*2025-08-29 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/111965/dr-nandalal-weerasinghe-earns-a-grade-in-global-finances-central-banker-report-cards-2025) · `en`
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has been awarded a prestigious “A” grade in Global Finance’s 2025 Central Banker Report Card.
-
-This top-tier recognition places Dr. Weerasinghe among the elite central bank governors worldwide, acknowledging his exceptional leadership and strategic acumen in steering Sri Lanka’s economy through turbulent times.
-
-The Central Banker Report Card, published annually by Global Finance since 1994, grades the central bank governors of nearly 100 key countries, territories, and districts, as well as the European Union, the Eastern Caribbean Central Bank, the Bank of Central African States, and the Central Bank of West African States.
-
-Grades are based on an “A+” to “F” scale for success in areas such as inflation control, economic growth goals, currency stability, interest rate management, and political independence. (“A” represents excellent performance, down through “F” for outright failure.)
-
-...
-
-[Data](articles/4350682c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 01:32:23**
+As of **2025-08-30 01:50:35**
 
 ## Newspaper Stats
 
-*Scraped **73,144** Articles*
+*Scraped **73,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 750
 economynextcom | 4,462
 islandlk | 4,488
 dailymirrorlk | 4,733
-dailyftlk | 5,178
+dailyftlk | 5,182
 adalk | 7,044
 adaderanalk | 9,289
 tamilmirrorlk | 10,864
@@ -26,11 +26,83 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,144 articles have been extended.
+61,973 (84.7%) of 73,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### Stability restored, but where is growth?
+
+*2025-08-30 01:33:22* · [`dailyftlk`](https://www.ft.lk/news/Stability-restored-but-where-is-growth/56-780996) · `en`
+
+NEXUS Public Policy Dialogue probes Sri Lanka’s next economic steps
+
+The fourth Public Policy Dialogue Forum organised by the NEXUS Research Group brought a full house to the Governor’s Hall of the 80 Club on Thursday, centring debate on a blunt question: After two years of macro-stabilisation, where is Sri Lanka’s economic growth?
+
+Opening the forum, NEXUS Chairman Prof. Charitha Herath acknowledged gains achieved with IMF support: debt restructuring traction, easing inflation, and steadier currency management. “Stability is only the first step,” he cautioned, posing three questions to frame the evening: What is holding back growth? Are we focusing on the right priorities? How do we create jobs, support enterprise, and ensure shared prosperity?
+
+...
+
+[Data](articles/2424fa53.json)
+
+---
+
+### Seat belts mandatory for expressway bus passengers
+
+*2025-08-30 01:32:11* · [`dailyftlk`](https://www.ft.lk/news/Seat-belts-mandatory-for-expressway-bus-passengers/56-780995) · `en`
+
+Transport Minister Bimal Rathnayake yesterday said that a gazette notification making it mandatory for passengers traveling in passenger buses on expressways to wear seat belts is scheduled to be issued on 31 August.
+
+The initiative is a component of the Clean Sri Lanka program.
+
+A grace period of approximately three months will be given for the installation of seat belts in school transport buses, office transport services, leisure tour buses, and other passenger buses operating on expressways. The Government also plans to implement this regulation for long-distance buses.
+
+The Minister further pointed out that the price of seat belts, which was around Rs. 2,000 previously, has now risen to between Rs. 5,000 and Rs. 7,000. He stressed that this price increase should be monitored by the Consumer Affairs Authority.
+
+...
+
+[Data](articles/f854c252.json)
+
+---
+
+### Rajitha remanded till 9 September over Kirinda Harbour case
+
+*2025-08-30 01:31:29* · [`dailyftlk`](https://www.ft.lk/news/Rajitha-remanded-till-9-September-over-Kirinda-Harbour-case/56-780994) · `en`
+
+Former Fisheries Minister Rajitha Senaratne was taken to prison after being remanded yesterday
+
+Former Fisheries Minister Rajitha Senaratne was yesterday ordered to be remanded till 9 September by Colombo Chief Magistrate Asanga S. Bodaragama in connection with a corruption case linked to the Kirinda Fisheries Harbour project.
+
+Senaratne, who was brought to Court under prison custody, had earlier been produced before the Colombo High Court in relation to a separate case.
+
+The High Court Judge subsequently directed that he be placed in remand custody and produced before the Magistrate’s Court.
+
+The remand order stems from allegations that Senaratne, during his tenure as Fisheries Minister, caused a financial loss exceeding Rs. 20 million to the Government by awarding a sand mining project at the Kirinda Fisheries Harbour to a Korean company.
+
+A warrant for his arrest had previously been issued by the Magistrate’s Court.
+
+...
+
+[Data](articles/522c0996.json)
+
+---
+
+### Former MP Rathana Thera remanded till 12 September over alleged 2020 abduction case
+
+*2025-08-30 01:30:55* · [`dailyftlk`](https://www.ft.lk/news/Former-MP-Rathana-Thera-remanded-till-12-September-over-alleged-2020-abduction-case/56-780993) · `en`
+
+Former Member of Parliament Ven. Athuraliye Rathana Thera was yesterday ordered to be remanded until 12 September by the Nugegoda Magistrate’s Court in connection with an alleged abduction case dating back to 2020.
+
+Police have been investigating Rathana Thera’s alleged involvement in the abduction of Our Power of People Party (OPPP) General Secretary Ven. Wedinigama Wimalatissa Thera. According to the complaint, Rathana Thera is accused of forcing Wimalatissa Thera to sign documents that allowed him to secure a National List seat in Parliament.
+
+Law enforcement authorities reported that Rathana Thera had been evading arrest for several weeks. Officers of the Colombo Crimes Division (CCD) had carried out extensive searches at his Rajagiriya temple, other temples, meditation centres, and several housing complexes, but were unable to locate him.
+
+...
+
+[Data](articles/75b2439b.json)
+
+---
 
 ### பெக்கோ சமனின் மனைவியிடம் சிஐடி விசாரணை
 
@@ -1679,73 +1751,5 @@ Accordingly, the High Court judge further ordered that he remain in custody unti
 ...
 
 [Data](articles/cca03ee3.json)
-
----
-
-### நிமல் லான்சா கைது
-
-*2025-08-29 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/223679) · `ta`
-
-நீர்கொழும்பு, கொச்சிக்கடை பொலிஸ் நிலையத்தில் சரணடைந்த நிலையில், முன்னாள் பாராளுமன்ற உறுப்பினர் நிமல் லான்சா கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/79a9e0d8.json)
-
----
-
-### විපක්ෂයේ පක්ෂ එකතු වුණු සාකච්ඡාවේදී අලුත් එකඟතා කිහිපයක්
-
-*2025-08-29 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213924) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කිරීමෙන් අනතුරුව විපක්ෂයේ දේශපාලන පක්ෂ අතර ආරම්භ වූ සාකච්ඡා තවදුරටත් පැවැත්වෙයි.
-
-ඒ අනුව අද (29) උදෑසන විපක්ෂ නායක කාර්යාලයේදී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් සාකච්ඡාවක් පැවැත්වුණි.
-
-මෙම සාකච්ඡාව සඳහා සමගි ජන බලවේගය, එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා නිදහස් පක්ෂය, එක්සත් ජනතා නිදහස් සන්ධානය ඇතුළු දේශපාලන පක්ෂ රැසක් එක්වී තිබුණි.
-
-එහෙත් පසුගිය සාකච්ඡා සඳහා එක්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණ අද දිනයේ පැවති සාකච්ඡා සඳහා එක් නොවීමද විශේෂත්වයකි.
-
-අද පැවැති සාකච්ඡාවලදී ප්‍රධාන මාතෘකාව බවට පත්වී තිබුණේ රනිල් වික්‍රමසිංහ මහතාට ඇප ලබාදුන් දිනයේදී උසාවිය ඉදිරිපිට උද්ඝෝෂණ සිදුකළ පාක්ෂිකයන් අත්අඩංගුවට ගැනීමට අධිකරණයෙන් සිදුකළ නියෝගය සම්බන්ධයෙන් බව වාර්තා වෙයි.
-
-එහිදී අධිකරණය ලබාදුන් නියෝගයේ පිටපතක් ලබාගෙන ඒ සම්බන්ධයෙන් ඉදිරියේදී ගතයුතු ක්‍රියාමාර්ග සාකච්ඡා කළ යුතු බව සාකච්ඡාවට එක්වූ නියෝජිතයන්ගේ මතය වී තිබේ.
-
-...
-
-[Data](articles/3d58287a.json)
-
----
-
-### நிமல் லான்சா கைது
-
-*2025-08-29 12:31:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிமல்-லான்சா-கைது/175-363711) · `ta`
-
-முன்னாள் இராஜாங்க அமைச்சர்   நிமல் லான்சா, கொச்சிக்கடை பொலிஸ் நிலையத்தில் ஆஜரானதன் பின்னர், வௌ்ளிக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
-
-ஒரு வீட்டை 2006 ஆம் ஆண்டு தாக்கி சேதப்படுத்தியமை ஒருவரை தாக்கியமை போன்ற குற்றச்சாட்டின் கீழ், வாக்குமூலம் பெற்றுக்கொள்வதற்காக கொச்சிக்கடை பொலிஸ் நிலையத்துக்கு அழைக்கப்பட்டிருந்தார். அதன்பின்னர் அவர் கைது செய்யப்பட்டார்.
-
-◼️
-
-[Data](articles/0decf1f3.json)
-
----
-
-### Sri Lanka shipwreck artifacts to be displayed at US-funded exhibit
-
-*2025-08-29 12:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-shipwreck-artifacts-to-be-displayed-at-us-funded-exhibit-238638/) · `en`
-
-ECONOMYNEXT – Artifacts from Sri Lanka’s Godawaya Shipwreck will be featured at an exhibition and symposium organised by the US Embassy and the Central Cultural Fund’s Maritime Archaeology Unit.
-
-Discovered off the coast of the fishing village of Godawaya in southern Sri Lanka, the ancient shipwreck is the oldest known wooden shipwreck in the Asia-Pacific region, dating back more than 2,100 years to the 1st or 2nd century BCE, the embassy pointed out.
-
-“This extraordinary underwater archaeological site provides rare insights into early Indian Ocean trade and seafaring.”
-
-The exhibition at BMICH Cinema Lounge, Colombo, will open to the public at 11 am on September 3 and will be open daily from 10 am to 5 pm on September 4 and 5.
-
-The project is funded through the Ambassadors Fund for Cultural Preservation (AFCP), a US Government initiative.
-
-...
-
-[Data](articles/e200f102.json)
 
 ---

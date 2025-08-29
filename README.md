@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 16:21:12**
+As of **2025-08-29 16:32:21**
 
 ## Newspaper Stats
 
-*Scraped **73,070** Articles*
+*Scraped **73,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ economynextcom | 4,450
 islandlk | 4,488
 dailymirrorlk | 4,733
 dailyftlk | 5,169
-adalk | 7,034
+adalk | 7,037
 adaderanalk | 9,284
-tamilmirrorlk | 10,860
+tamilmirrorlk | 10,862
 virakesarilk | 11,990
-adaderanasinhalalk | 12,660
+adaderanasinhalalk | 12,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.8%) of 73,070 articles have been extended.
+61,973 (84.8%) of 73,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### වැඩතහනමට ලක්ව සිටි තායි අගමැතිනී ෂිනවත්‍රා ධුරයෙන් පහකෙරේ
+
+*2025-08-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213933) · `si`
+
+වැඩතහනමට ලක්ව සිටි හිටපු තායිලන්ත අගමැතිනී පේටොන්ග්ටාන් ෂිනවත්‍රා ධුරයෙන් පහකර තිබේ.
+
+◼️
+
+[Data](articles/58f73989.json)
+
+---
+
+### 1 பந்தில் 22 ஓட்டங்கள்: மிரள வைத்த ஆர்சிபி வீரர்
+
+*2025-08-29 16:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/1-பந்தில்-22-ஓட்டங்கள்-மிரள-வைத்த-ஆர்சிபி-வீரர்/44-363731) · `ta`
+
+மேற்கிந்திய தீவுகளில் நடைபெற்று வரும் சிபிஎல் கிரிக்கெட் தொடரில் ஆர்.சி.பி வீரர் ஒரே பந்தில் 22 ஓட்டங்கள் அடித்துள்ளார்.
+
+இந்திய கிரிக்கெட் வாரியத்தால் நடத்தப்படும் ஐபிஎல் 20 ஓவர் கிரிக்கெட் தொடர் போல, பல்வேறு நாடுகளிலும் 20 ஓவர் கிரிக்கெட் தொடர்கள் நடத்தப்படுகின்றன. அந்த வகையில், மேற்கிந்திய தீவுகள் கிரிக்கெட் வாரியத்தால் நடத்தப்படும் கரீபியன் பிரீமியர் லீக் போட்டிகளும் கிரிக்கெட் ரசிகர்கள் மத்தியில் மிகவும் பிரபலம். சர்வதேச அளவில் அதிக பார்வையாளர்களை கொண்ட கிரிக்கெட் லீக் தொடர்களில் ஒன்றாக சிபிஎல் எனப்படும் கரீபியன் லீக் தொடர் உள்ளது.
+
+இந்த தொடரில், மேற்கிந்திய தீவுகள் அணியின் ஆல் ரவுண்டர் ரோமாரியோ ஷெபர்ட், கிரிக்கெட் ரசிகர்கள் நினைத்து பார்க்க முடியாத அளவுக்கு ஒரு சம்பவத்தை நிகழ்த்தியுள்ளார். அதாவது, ஒரே பந்தில் 22 ஓட்டங்கள் விளாசி கிரிக்கெட் ரசிகர்களை மிரள வைத்துள்ளார் ஷெபர்ட். அது எப்படி ஒரே பந்தில் 22 ஓட்டங்கள் அடித்தார் என பலரும் வியந்து படிப்பது புரிகிறது.
+
+...
+
+[Data](articles/6f0e4a04.json)
+
+---
+
+### சிறுவனால் கர்ப்பமான நர்சிங் மாணவி: கருவை கலைத்ததால்   விபரீதம்
+
+*2025-08-29 16:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனால்-கர்ப்பமான-நர்சிங்-மாணவி-கருவை-கலைத்ததால்-விபரீதம்/175-363730) · `ta`
+
+19 வயதான யுவதிக்கும் சிறுவனுக்கும் இடையில் பழக்கம் ஏற்பட்டது. இதனால், அந்த யுவதி கர்ப்பமானார். இந்த சம்பவம், திருத்தணியில் இடம்பெற்றுள்ளது.
+
+திருத்தணியை அடுத்த ஆர்.கே.பேட்டை அருகே உள்ள கொடிவலசா கிராமத்தை சேர்ந்தவர் சீனிவாசன். இவரது மகள் சண்முகப்பிரியா (19 வயது) டிப்ளமோ நர்சிங் படித்து வந்தார். இவருக்கும் அதே பகுதியை சேர்ந்த உறவினரான சிறுவன் ஒருவருக்கும் பழக்கம் ஏற்பட்டது. இருவரும் நெருங்கி பழகியதால் சண்முகப்பிரியா கர்ப்பமானார்.
+
+இது குறித்து ஆரம்பத்தில் சண்முகப்பிரியா பெற்றோரிடம் தெரிவிக்காமல் மறைத்தார். இந்த நிலையில் அவர் 5 மாத கர்ப்பமாக இருப்பதை அறிந்த பெற்றோர் அதிர்ச்சி அடைந்தனர். இதையடுத்து கடந்த சில நாட்களுக்கு முன்பு ஆந்திர மாநிலத்தில் உள்ள கிளினிக்கில் மாணவி சண்முகப்பிரியாவின் 5 மாத கருவை கலைத்ததாக தெரிகிறது. பின்னர் வீட்டுக்கு வந்த அவருக்கு தொடர்ந்து உடல்நிலை பாதிப்பு ஏற்பட்டது.
+
+...
+
+[Data](articles/4c5716e1.json)
+
+---
+
+### රතන හිමි රිමාන්ඩ්
+
+*2025-08-29 16:03:52* · [`adalk`](https://www.ada.lk/breaking_news/රතන-හිමි-රිමාන්ඩ්/11-418153) · `si`
+
+පූජ්‍ය අතුරලියේ රතන හිමියන් සැප්තැම්බර් මස 12 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය  අද (29දා) නියෝග කළේය.
+
+අධිකරණය මඟින් වරෙන්තු ලබාසිටි උන් වහන්සේ අද (29) දහවල් අධිකරණය හමුවේ පෙනී සිටීමෙන් අනතුරුව මෙසේ උන්වහන්සේ රිමාන්ඩ් භාරයට පත් කෙරණි.
+
+2020 මහ මැතිවරණයෙන් 'අපේ ජනබල' පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධූරය ලබාගැනීම සඳහා එම පක්ෂයේ මහලේකම් පූජ්‍ය වේදිනිගම විමලතිස්ස හිමියන් පැහැරගෙන ගොස් රඳවා තබාගැනීමේ චෝදනාව සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව මෙම නඩු විභාගය පැවැත් වේ.
+
+◼️
+
+[Data](articles/871a5b4b.json)
+
+---
+
+### හිටපු ජනපති රනිල් රෝහලෙන් පිටව යයි
+
+*2025-08-29 15:59:27* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-රෝහලෙන්-පිටව-යයි/11-418152) · `si`
+
+කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද පෙරවරුවේ ඒම රෝහලේ සාමාන්‍ය වාට්ටුවකට මාරු කිරීමෙන් අනතුරුව රෝහලෙන් පිටව ගොස් තිබේ.
+
+රෝහලෙන් බැහැරව ගියද දී තිබෙන වෛද්‍ය උපදෙස් අනුව හිටපු ජනාධිපතිවරයා සිය නිවසේ තවදුරටත් විවේකයෙන් ගත කරන බවත් නිවසේ රැඳි සිටින කාලය තුළදී රනිල් වික්‍රමසිංහ මහතාගේ සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් පවුලේ වෛද්‍යවරු දැඩි අධීක්ෂණයෙන් කටයුතු කරනු ඇතැයි වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/6945654f.json)
+
+---
 
 ### யாழ்.போராட்டத்துக்கு ஆதரவாக ஊர்திப் பவனி
 
@@ -75,6 +149,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/82f1ac93.json)
+
+---
+
+### සංසරණය සඳහා රු 2000ක සමරු මුදල් නෝට්ටුවක්
+
+*2025-08-29 15:30:38* · [`adalk`](https://www.ada.lk/picture_story/සංසරණය-සඳහා-රු-2000ක-සමරු-මුදල්-නෝට්ටුවක්/10-418151) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව සිය 75 වන සංවත්සර සැමරුම නිමිත්තෙන් නිකුත් කළ රුපියල් 2000 නව සමරු නෝට්ටුව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා විසින් අද (29) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත පිළිගැන්වීය.
+
+සංසරණය සඳහා යොදන සමරු මුදල් නෝට්ටුවක් ලෙස මෙය නිකුත් කර තිබෙන අතර, මෙම මුදල් නෝට්ටුව ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කරන ලද 5 වන සමරු මුදල් නෝට්ටුවයි.
+
+ජාතික සංවර්ධනය සඳහා පදනම ලෙස ආර්ථික ස්ථාවරත්වය වර්ධනය කිරීම වෙනුවෙන් මහ බැංකුවේ නොනවතින කැපවීම පිළිබිඹු කරමින් “සමෘද්ධිය සඳහා ස්ථාවරත්වය” යන සංවත්සර තේමාව අනුව මෙම මුදල් නෝට්ටුව නිකුත් කර ඇත.
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක, ශ්‍රී ලංකා මහ බැංකුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය අධිපති කේ.එම්.ඒ.එන්.දවුලගල, සහකාර අධිපති කේ.ජී.පී.සිරිකුමාර, ව්‍යවහාර මුදල් දෙපාර්තමේන්තුවේ අධිපති පී.ඩී.ආර්. දයානන්ද යන මහත්ම මහත්මීහුද මෙම අවස්ථාවට එක්ව සිටියහ
+
+◼️
+
+[Data](articles/61843be8.json)
 
 ---
 
@@ -1645,117 +1737,5 @@ The 25-minute documentary, produced in Tamil and subtitled in English, examines 
 ...
 
 [Data](articles/07b1a1f1.json)
-
----
-
-### AKD’s domestic travel details exempt from RTI
-
-*2025-08-29 04:20:46* · [`dailyftlk`](https://www.ft.lk/news/AKD-s-domestic-travel-details-exempt-from-RTI/56-780960) · `en`
-
-The Presidential Secretariat on Wednesday rejected a Right to Information (RTI) request from a citizen for details of President Anura Kumara Disanayake’s domestic travel.
-
-The RTI was rejected because “the information requested is directly relevant to the security sensitive information of the Hon. President,” the letter rejecting the RTI issued by the Presidential Secretariat said.
-
-The request had been submitted on 4 August by Jinath Premaratne. The Secretariat’s response, dated 27 August, cited Section 5(1)(b)(i) of the RTI Act as the legal basis for refusal, noting that the details sought fell within the exemption covering information tied to presidential security.
-
-...
-
-[Data](articles/87b31576.json)
-
----
-
-### Police nabs five underworld kingpins in joint international operation
-
-*2025-08-29 04:20:19* · [`dailyftlk`](https://www.ft.lk/news/Police-nabs-five-underworld-kingpins-in-joint-international-operation/56-780959) · `en`
-
-Operation involves Sri Lanka Police, CID, Indonesian Police, INTERPOL, and Indian intelligence agencies; suspects to be repatriated within 2–3 days
-
-Public Security Minister Ananda Wijepala says crackdown marks end of political protection for organised crime; vows end to political-crime nexus
-
-Affirms no one is above the law; probes into role of politicians who allegedly enabled criminal networks, investigations extend to assets of detained suspects
-
-Says nearly 75 red warrants issued; over 20 underworld figures already brought back in recent months
-
-Reveals plan to establish a Special Court for swift prosecution of organised crime cases
-
-Public Security Ministry Secretary Ravi Seneviratne says law enforcement now operates free from political interference for first time in decades
-
-IGP Priyantha Weerasooriya says Sri Lankan criminals remain active overseas, including in Dubai, Oman, Russia, Belarus and France, with further operations planned
-
-...
-
-[Data](articles/ae4d372b.json)
-
----
-
-### Govt. identifies national research priorities
-
-*2025-08-29 04:18:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-identifies-national-research-priorities/56-780958) · `en`
-
-New report ‘Research Priorities for Sri Lanka – 2026’ launched
-
-Research areas cover agriculture, energy, education, digital transformation, technology, health, industry, tourism and social development
-
-Outcome of 26 subject experts, over 100 representatives of 15 State bodies connected to research, development
-
-NASTEC Chairman Prof. G.W.A. Rohan Fernando (left) presents the ‘Research Priorities for Sri Lanka – 2026’ report to Secretary to the President Dr. Nandika Sanath Kumanayake
-
-The President’s Media Division (PMD) yesterday said that for the first time in Sri Lanka’s history, the ‘Research Priorities for Sri Lanka – 2026’ report, aligned with the Government’s socio-economic development program, was officially presented to Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat.
-
-This report marks the beginning of a new era of national development driven by research and innovation, the statement said.
-
-...
-
-[Data](articles/1e145a05.json)
-
----
-
-### US Fed Governor Lisa Cook sues Trump over firing attempt
-
-*2025-08-29 04:16:27* · [`dailyftlk`](https://www.ft.lk/news/US-Fed-Governor-Lisa-Cook-sues-Trump-over-firing-attempt/56-780957) · `en`
-
-US Federal Reserve Governor Lisa Cook has sued President Donald Trump over his attempt to fire her, setting up a potential legal battle with implications for the US central bank’s autonomy.
-
-Cook has asked the Court to declare Trump’s firing order “unlawful and void,” and also named Fed Chairman Jerome Powell as defendant.
-
-Trump has said there was “sufficient reason” to believe Cook had made false statements on her mortgage, and cited constitutional powers which he said allowed him to remove her. Cook previously said that “no cause exists under the law” to sack her.
-
-The President has put increasing pressure on the Fed over what he sees as an “unwillingness to lower interest rates.” Cook is part of the Board responsible for setting interest rates in the US. Thursday’s lawsuit is likely to bring up a number of legal challenges that could end up at the US Supreme Court.
-
-...
-
-[Data](articles/811a158c.json)
-
----
-
-### Ranil and the rigours  of a new republicanism
-
-*2025-08-29 04:04:24* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-and-the-rigours-of-a-new-republicanism/4-780954) · `en`
-
-However one might frame the arrest or interpret the stand of the old guard, there is clearly something afoot in the affairs of state and within the machinery of politics
-
-While the public debate still rages hotly, private reflections which don’t get liked or attacked on social media may be the order of the day a week and more after the arrest and remanding of a former executive president of Sri Lanka.
-
-Not because the points of view expressed don’t have their relative merits or otherwise. But because a sense of proportion must eventually grasp the discourse by its horns and make the issue sit down and have a quiet think. And admittedly even this perspective is subjective if not slightly arbitrary.
-
-The polity remains deeply divided over the most drastic political development to press its case recently.
-
-...
-
-[Data](articles/ef61f930.json)
-
----
-
-### Due process and power: Lessons from arrest of Ranil Wickremesinghe
-
-*2025-08-29 04:01:38* · [`dailyftlk`](https://www.ft.lk/columns/Due-process-and-power-Lessons-from-arrest-of-Ranil-Wickremesinghe/4-780953) · `en`
-
-Former President Ranil Wickremesinghe outside the Magistrate’s Court on 22 August 2025 – File photo
-
-The arrest of former President Ranil Wickremesinghe has provoked much debate between his supporters who see it as a case of political victimisation and others who see it as a case of the law now being applied to people who were previously above the law.
-
-...
-
-[Data](articles/c3b5cc2b.json)
 
 ---

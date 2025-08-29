@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 03:06:29**
+As of **2025-08-30 03:17:43**
 
 ## Newspaper Stats
 
-*Scraped **73,153** Articles*
+*Scraped **73,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,044
 adaderanalk | 9,289
-tamilmirrorlk | 10,864
+tamilmirrorlk | 10,865
 virakesarilk | 12,006
 adaderanasinhalalk | 12,677
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,153 articles have been extended.
+61,973 (84.7%) of 73,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### ’ஜனாதிபதி மாளிகைகளை சுற்றுலா விடுதிகளாக மாற்றுக’
+
+*2025-08-30 02:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாளிகைகளை-சுற்றுலா-விடுதிகளாக-மாற்றுக/175-363746) · `ta`
+
+சுற்றுலாத் துறையில் ஈடுபட்டுள்ள தனியார் துறை தரப்பினர்களுடன் 2026 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடல் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நேற்று (29) பிற்பகல் ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+
+2026 ஆம் ஆண்டில் சுற்றுலாத் துறையில் எதிர்பார்க்கப்படும் இலக்குகளை அடைய வெறும் ஊக்குவிப்புத்  திட்டங்கள் மட்டும் போதாது என்றும், அரச மற்றும் தனியார் துறைகளை ஒருங்கிணைக்கும் புதிய மூலோபாயத் திட்டத்தை செயல்படுத்த வேண்டும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+நுவரெலியா, அனுராதபுரம், மஹியங்கனை மற்றும் கதிர்காமம் போன்ற பகுதிகளில் உள்ள ஜனாதிபதி மாளிகை மற்றும் அமைச்சர்களின் உத்தியோகபூர்வ இல்லங்களை உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளை இலக்காகக் கொண்டு, வசதியான  சுற்றுலா விடுதிகளாக அபிவிருத்தி செய்வதில் முதலீடு செய்யுமாறு வர்த்தகர்களுக்கு அழைப்பு விடுத்த ஜனாதிபதி,  இது தொடர்பாக விரைவில் முறையான திட்டம் செயல்படுத்தப்படும் என்றும்  தெரிவித்தார்.
+
+...
+
+[Data](articles/701b687c.json)
+
+---
 
 ### 11 மாதங்களுக்குப் பிறகு பணவீக்கம் மீண்டும் உயர்வு
 
@@ -1729,23 +1745,5 @@ The stock was trading up 10 cents at 7.20 rupees. (Colombo/Aug29/2025)
 ◼️
 
 [Data](articles/a7e1bdbd.json)
-
----
-
-### Former MP Ven. Athuraliye Rathana Thero remanded
-
-*2025-08-29 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/111979/former-mp-ven-athuraliye-rathana-thero-remanded-) · `en`
-
-Former Member of Parliament Ven. Athuraliye Rathana Thero has been remanded until September 12 after appearing before the Nugegoda Magistrate’s Court this afternoon (29), said Ada Derana reporter.
-
-A warrant for his arrest had been issued on 18 August by the Colombo Magistrate’s Court, according to Police Media Spokesman, Assistant Superintendent of Police F.U. Wootler.
-
-The Police Media Spokesman stated that the warrant was issued following a submission made by the police to the court requesting his arrest.
-
-The hearing is being conducted in connection with investigations into the alleged abduction and detention of the General Secretary of the ‘Ape Jana Bala’ party, Venerable Wedinigama Wimalatissa Thero, reportedly to secure the party’s national list seat in the 2020 general election.
-
-◼️
-
-[Data](articles/664a4b4b.json)
 
 ---

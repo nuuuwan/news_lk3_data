@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-29 10:49:51**
+As of **2025-08-29 11:07:57**
 
 ## Newspaper Stats
 
-*Scraped **73,011** Articles*
+*Scraped **73,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailymirrorlk | 4,733
 dailyftlk | 5,169
 adalk | 7,024
 adaderanalk | 9,271
-tamilmirrorlk | 10,840
+tamilmirrorlk | 10,841
 virakesarilk | 11,989
-adaderanasinhalalk | 12,645
+adaderanasinhalalk | 12,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.9%) of 73,011 articles have been extended.
+61,973 (84.9%) of 73,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-29 (Friday)
+
+### ராஜித சேனாரத்ன நீதிமன்றில் முன்னிலை
+
+*2025-08-29 10:48:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-சேனாரத்ன-நீதிமன்றில்-முன்னிலை/175-363704) · `ta`
+
+பிடியாணை பிறப்பிக்கப்பட்டுள்ள முன்னாள் அமைச்சர் ராஜித சேனாரத்னவை ஓகஸ்ட் மாதம் 29 ஆம் திகதி நீதிமன்றத்தில் முன்னிலையாகுமாறு கொழும்பு நீதவான் நீதிமன்றம் கடந்த 20 ஆம் திகதி அழைப்பாணை விடுத்திருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/9df1765b.json)
+
+---
+
+### රාජිත රිමාන්ඩ්
+
+*2025-08-29 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213917) · `si`
+
+අල්ලස් කොමිසම විසින් ගොනුකර තිබූ නඩුවක් සඳහා කොළඹ මහාධිකරණය හමුවේ අද (29) පෙරවරුවේ පෙනී සිටි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා රක්ෂිත බන්ධනාගාර ගතකර ඇත.
+
+කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය හමුවට රාජිත සේනාරත්න මහතා ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කර තිබේ.
+
+ඒ අනුව සේනාරත්න මහතා කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරන තුරු රිමාන්ඩ් භාරයේ තබාගන්න ලෙස මෙහිදි මහාධිකරණ විනිසුරුවරිය නියම කර ඇත.
+
+◼️
+
+[Data](articles/98250631.json)
+
+---
 
 ### තියුණු ආයුධයකින් පහරදී වයෝවෘධ මවක්ව ඝාතනය කරලා
 
@@ -1747,35 +1775,5 @@ The company proposes to have these debentures listed on the Colombo Stock Exchan
 ◼️
 
 [Data](articles/370bc91f.json)
-
----
-
-### Man held at BIA with mobile phones and cardamom worth Rs. 20M
-
-*2025-08-28 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/111955/man-held-at-bia-with-mobile-phones-and-cardamom-worth-rs-20m) · `en`
-
-An individual has been arrested at the Bandaranaike International Airport (BIA) while attempting to smuggle a consignment of mobile phones and cardamom worth approximately Rs. 20 million into the country.
-
-He was apprehended this morning (28) by customs officers while attempting to smuggle the goods through the ‘Green Channel’ of the airport.
-
-Upon inspection of his six pieces of luggage, officials found 165 mobile phones and 102 kilograms of cardamom.
-
-◼️
-
-[Data](articles/5ae9c021.json)
-
----
-
-### கொடவாய கப்பற் சிதைவு: இலங்கையின் பழமையான கடல்சார் வரலாற்றை எடுத்துக்காட்டும் அமெரிக்க - இலங்கை கண்காட்சி
-
-*2025-08-28 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/223610) · `ta`
-
-இலங்கையின் மிக முக்கியமான கடல்சார் பாரம்பரியங்களில் ஒன்றான கொடவாய கப்பற் சிதைவிலிருந்து மீட்கப்பட்ட அரிய தொல்பொருட்களை காட்சிப்படுத்தும் கண்காட்சி ஒன்று கொழும்பில் உள்ள பண்டாரநாயக்க ஞாபகார்த்த மாநாட்டு மண்டபத்தில் (BMICH ) நடைபெறவுள்ளது. அமெரிக்கத் தூதரகமும், மத்திய கலாச்சார நிதியத்தின் கடல்சார் தொல்பொருள் பிரிவும் இணைந்து ஏற்பாடு செய்துள்ள இந்தக் கண்காட்சி, BMICH Cinema Lounge இல் செப்டம்பர் 3 முதல் 5 வரை பொதுமக்களுக்காகத் திறந்திருக்கும்.
-
-தெற்கு இலங்கையில் உள்ள கொடவாய மீன்பிடிக் கிராமத்திற்கு அருகில் கண்டுபிடிக்கப்பட்ட இந்த 2,100 ஆண்டுகளுக்கு முற்பட்ட கப்பல் சிதைவு, ஆசிய-பசிபிக் பிராந்தியத்தில் இதுவரை கண்டறியப்பட்ட மிகப் பழமையான மரக்கப்பல் சிதைவு என அறியப்படுகிறது. கி.மு. 1 அல்லது 2 ஆம் நூற்றாண்டைச் சேர்ந்ததாகக் கருதப்படும் இக்கப்பல், இந்து சமுத்திரத்தில் பண்டைய காலத்தில் நடைபெற்ற வர்த்தகம் மற்றும் கடல்வழிப் பயணங்கள் குறித்த அரிய தகவல்களை வெளிப்படுத்துகின்றது.
-
-...
-
-[Data](articles/fe48ee17.json)
 
 ---

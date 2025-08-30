@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 11:07:00**
+As of **2025-08-30 11:18:52**
 
 ## Newspaper Stats
 
-*Scraped **73,180** Articles*
+*Scraped **73,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,045
-adaderanalk | 9,293
+adaderanalk | 9,295
 tamilmirrorlk | 10,869
 virakesarilk | 12,006
-adaderanasinhalalk | 12,682
+adaderanasinhalalk | 12,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,180 articles have been extended.
+61,973 (84.7%) of 73,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### සැකකටයුතු මරණයක්
+
+*2025-08-30 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213955) · `si`
+
+සැකකටයුතු ලෙස මිය ගිය පුද්ගලයෙකුගේ සිරුරක් කළුතර, කටුකුරුන්ද වෙරළ තීරයේ තිබී හමුවී ඇත.
+
+මෙම මළසිරුර මුහුදු වෙරළේ ශාරිරික අභ්‍යාසවල නිරතවී සිටි පියෙක් සහ දියණියක් විසින් දැක තිබේ.
+
+මෙහිදී පොලීසිය විසින් සිදුකළ පරික්ෂණයේදී අනාවරණය වී ඇත්තේ, මුහුදු වෙරළේ මුනින් අතට තබා හිස වැලිවලින් වසා ඇති බවටය.
+
+ඝාතනයට ලක්ව ඇති පුද්ගලයා වයස අවුරුදු 55 - 60  අතර වියේ පසුවන බවට සැකකරන අතර, ඔහුගේ අනන්‍යතාව මෙතෙක් තහවුරු කරගෙන නොමැති පොලීසිය පැවසීය.
+
+මියගොස් ඇති තැනැත්තා බඳපටිය සහිතව කළු දිග කලිසමක් සහ සුදු මේස් බැනියමක් ඇද සිටින බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/977517d9.json)
+
+---
 
 ### ඉන්දුනීසියාව කැලඹෙයි  - විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගනී
 
@@ -55,6 +75,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/82bda7e2.json)
+
+---
+
+### Turn President’s Houses in tourist areas into holiday resorts – President
+
+*2025-08-30 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111997/turn-presidents-houses-in-tourist-areas-into-holiday-resorts-president) · `en`
+
+A discussion on the 2026 Pre-Budget for the tourism sector with private sector stakeholders was held last afternoon (29) at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
+
+The President pointed out that mere promotional programmes would not suffice to achieve the expected targets of the tourism sector for 2026. He emphasised the need for a new strategic programme jointly implemented by both the public and private sectors, according to the President’s Media Division (PMD).
+
+Inviting entrepreneurs to invest in transforming President’s Houses and Ministers’ official bungalows located in areas such as Nuwara Eliya, Anuradhapura, Mahiyanganaya and Kataragama into comfortable holiday resorts targeting foreign tourists, the President announced that a formal programme in this regard would be launched in the near future.
+
+...
+
+[Data](articles/96628a2f.json)
+
+---
+
+### Suspected gunman arrested over Nawinna shooting incident
+
+*2025-08-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111996/suspected-gunman-arrested-over-nawinna-shooting-incident) · `en`
+
+A suspect has been arrested in connection with the recent shooting incident at Nawinna Junction, Maharagama, where a motorcyclist opened fire on a person along the High Level Road.
+
+Police said that, acting on received information, officers of the Western Province South Range Crime Division carried out a raid in Kottawa and arrested the suspect.
+
+Investigations have revealed that the arrested individual was the gunman involved in the shooting, which took place on 6 August 2025.
+
+Upon further questioning, police recovered a foreign-made firearm and three 12-bore bullets from the suspect’s residence.
+
+The suspect, a 39-year-old resident of Kiriwatthuduwa, is currently in police custody, and further investigations are underway, said police.
+
+◼️
+
+[Data](articles/a923204c.json)
 
 ---
 
@@ -1745,51 +1801,5 @@ However, considering his health condition, he was first admitted to the Prison H
 ...
 
 [Data](articles/1c1ff6e4.json)
-
----
-
-### உக்ரேனின் மிகப்பெரிய உளவு கப்பல் மீது ரஷ்யா ட்ரோன் தாக்குதல்
-
-*2025-08-29 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223702) · `ta`
-
-உக்ரேன் கடற்படையின் உளவுக் கப்பலான சிம்ஃபெரோபோல் கடற்படை கப்பல்  ட்ரோன் தாக்குதலில்  மூழ்கடிக்கப்பட்டதாக ரஷ்ய பாதுகாப்பு அமைச்சகம் வியாழக்கிழமை (29) அறிவித்தது.
-
-ரேடியோ, எலக்ட்ரானிக், ரேடார் மற்றும் ஆப்டிகல் உளவுத்துறைக்காக வடிவமைக்கப்பட்ட லகுனா-வகுப்பு, நடுத்தர அளவிலான கப்பல், டானூப் நதியின் டெல்டாவில் தாக்கப்பட்டது. அதன் ஒரு பகுதி உக்ரேனின் ஒடெசா பிராந்தியத்தில் உள்ளது என ரஷ்ய பாதுகாப்பு அமைச்சு அறிக்கை தெரிவித்துள்ளது.
-
-இந்த தாக்குதலில் ஒரு பணியாளர் கொல்லப்பட்டதோடு, பலர் காயமடைந்தனர் என உக்ரேன் கடற்படை செய்தித் தொடர்பாளர் ஒருவரை மேற்கோள் காட்டி கீவ் இன்டிபென்டன்ட் பத்திரிகை செய்தி வெளியிட்டுள்ளது.
-
-2019 இல் சிம்ஃபெரோபோல் கப்பல் தனது செயல்பாட்டை ஆரம்பித்து இரண்டு ஆண்டுகளுக்குப் பின்னர் உக்ரேன் கடற்படையில் இணைந்தது.
-
-◼️
-
-[Data](articles/9a5090bd.json)
-
----
-
-### Why aggressor states fail in wars of occupation
-
-*2025-08-29 15:16:00* · [`islandlk`](http://island.lk/why-aggressor-states-fail-in-wars-of-occupation/) · `en`
-
-‘Gaza City will be razed to the ground’ if Hamas does not agree to Israel’s terms to end the Gaza conflict, Israeli Defense Minister Israel Katz was quoted saying recently on hearing Hamas’ terms to bring the war to an end. He was speaking against the backdrop of an apparent diplomatic failure to see an end to the ongoing blood-letting in the Strip.
-
-The Israeli Defense Minister’s comment ought to have brought to the minds of more experienced commentators the US military failure in Vietnam in the decades of the sixties and early seventies. As is known, US efforts to militarily neutralize the Vietcong guerrillas in its bid to halt what was seen as the spread of communism in Vietnam and South East Asia ended in abject failure.
-
-...
-
-[Data](articles/5b72e616.json)
-
----
-
-### நானுஓயா நாய் விவகாரம்: இளைஞனுக்கு நீதிமன்ற தீர்ப்பு
-
-*2025-08-29 15:13:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-நாய்-விவகாரம்-இளைஞனுக்கு-நீதிமன்ற-தீர்ப்பு/76-363721) · `ta`
-
-நானுஓயா, எடின்போரோ தோட்டத்தில் உள்ள ஒரு வீட்டில் வளர்க்கப்பட்ட நாயை கொடூரமாக தாக்கி, வீதியில் தலைகீழாக தூக்கி அடித்து, ஆற்றில் வீசினார் என்றக் குற்றச்சாட்டின் கீழ்,  சந்தேகத்தின் பேரில் அந்த இளைஞன்  வியாழக்கிழமை (28) நானுஓயா பொலிஸாரால் கைது செய்யப்பட்டார்.
-
-விசாரணைகளின் பின்னர், நுவரெலியா நீதவான் லங்கானி பிரபுத்திகா முன்னிலையில் வௌ்ளிக்கிழமை (2( ஆஜர்படுத்தப்பட்டார். சந்தேக நபரை அடுத்த மாதம் 10 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டார்.
-
-◼️
-
-[Data](articles/31e8967b.json)
 
 ---

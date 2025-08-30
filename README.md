@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 17:18:04**
+As of **2025-08-30 17:32:32**
 
 ## Newspaper Stats
 
-*Scraped **73,206** Articles*
+*Scraped **73,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,047
-adaderanalk | 9,303
+adaderanalk | 9,304
 tamilmirrorlk | 10,870
 virakesarilk | 12,007
-adaderanasinhalalk | 12,694
+adaderanasinhalalk | 12,695
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,206 articles have been extended.
+61,973 (84.7%) of 73,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### පොතුවිල් හිදි බස් රථයක් පෙරළී අයෙකු මරුට - 57ක් රෝහලට
+
+*2025-08-30 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213968) · `si`
+
+අනතුරින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇතැයිද තවත් පුද්ගලයින් 57 දෙනෙකු තුවාල ලබා ඇතැයි ද වාර්තා වේ.
+
+තුවාලකරුවන් මේ වන විට කඩිනමින් රෝහල්ගත කිරීමට පියවර ගනිමින් සිටින බවද සඳහන් වේ.
+
+කැප්පෙටිපොල සිට ආරුගම්බේ දක්වා විනෝද චාරිකාවක ගිය බස් රථයක් මෙලෙස අනතුරට ලක්ව තිබේ.
+
+බස් රථය කෝමාරි ප්‍රදේශයේදී පාලම ගැටී පෙරළී ගොස් ඇති බවත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/a14528cf.json)
+
+---
+
+### Protesters set fire to Indonesian parliament buildings in several provinces
+
+*2025-08-30 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112006/protesters-set-fire-to-indonesian-parliament-buildings-in-several-provinces) · `en`
+
+Indonesian protesters set ablaze regional parliament buildings in three provinces during continuing demonstrations on Saturday, a day after three people were killed in violence that has presented a major test for President Prabowo Subianto.
+
+Parliamentary buildings in West Nusa Tenggara, Pekalongan city in Central Java and Cirebon city in West Java were set on fire by protesters, local media reported.
+
+Detik.com said the protesters looted parliament’s office equipments in Cirebon while police shot tear gas to disperse them in Pekalongan and West Nusa Tenggara.
+
+Reuters could not confirm the media reports and authorities were not immediately available for comment.
+
+Protests began in Indonesia’s capital Jakarta earlier this week over lawmakers’ pay, escalating on Friday after a police vehicle hit and killed the driver of a ride-hailing motorbike.
+
+National police chief Listyo Sigit Prabowo said on Saturday the president ordered authorities to take firm action against protesters who violated laws.
+
+...
+
+[Data](articles/f416c1b8.json)
+
+---
 
 ### දෛනික පොලිස් විශේෂ සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් පිරිසක් අත්අඩංගුවට
 
@@ -1791,41 +1831,5 @@ Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at
 ...
 
 [Data](articles/3cb887de.json)
-
----
-
-### Sri Lanka was stabilized after crisis under old monetary law: CB Governor
-
-*2025-08-29 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-was-stabilized-after-crisis-under-old-monetary-law-cb-governor-238673/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s stabilization measures were taken under an older monetary law, before new legislation with greater Central Bank independence was enacted, said Governor Nandalal Weerasinghe, who hiked rates, operated deflationary policy and also appreciated a collapsed currency.
-
-Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at providing more independence to the agency, in the hope it will help maintain stability, replacing a Monetary Law Act (MLA) dating back to 1949.
-
-“Notably, replacing the MLA with the new CBA enshrined greater independence and accountability in the new legislation,” Governor Weerasinghe said delivering an oration marking 75 years of the agency.
-
-“However, since the CBA was enacted only in September 2023, most stabilisation measures had to be executed under the MLA.
-
-...
-
-[Data](articles/9e253f89.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields edge up
-
-*2025-08-29 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-238699/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.00/10 to the US dollar in the spot market Friday, stronger from 302.23/40 the previous day, while bond yields were slightly up, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.15/25 percent, up from 8.14/24 percent.
-
-A bond maturing on 15.03.2028 closed at 8.83/90 percent, up from 8.79/82 percent.
-
-A bond maturing on 15.12.2032 closed at 10.30/40 percent, up from 10.28/32 percent. (Colombo/Aug29/2025)
-
-◼️
-
-[Data](articles/a3785d39.json)
 
 ---

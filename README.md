@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 09:34:02**
+As of **2025-08-30 09:50:15**
 
 ## Newspaper Stats
 
-*Scraped **73,177** Articles*
+*Scraped **73,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,497
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,045
-adaderanalk | 9,292
+adaderanalk | 9,293
 tamilmirrorlk | 10,869
 virakesarilk | 12,006
 adaderanasinhalalk | 12,681
@@ -26,11 +26,37 @@ adaderanasinhalalk | 12,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,177 articles have been extended.
+61,973 (84.7%) of 73,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### Regulations on CEB voluntary retirement scheme gazetted
+
+*2025-08-30 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111995/regulations-on-ceb-voluntary-retirement-scheme-gazetted) · `en`
+
+The terms and regulations of the Voluntary Retirement Scheme (VRS) under the Sri Lanka Electricity Act, No. 36 of 2024 have been published through an Extraordinary Gazette notification, issued under the signature of Minister of Energy Kumara Jayakodi.
+
+The regulations, made in line with Paragraph (f) of Subsection (3) of Section 18 of the Act, outline the compensation structure and eligibility criteria for employees of the Ceylon Electricity Board (CEB) opting for voluntary retirement.
+
+• Permanent cadre employees with ten years or more of service will receive:
+
+Two months’ salary for every completed year of past service, and
+
+• Permanent cadre employees with less than ten years of service will receive:
+
+Five months’ salary for every completed year of past service, and
+
+• The compensation is subject to a minimum limit of Rs. 900,000 and a maximum of Rs. 5 million.
+
+• Employees not in the permanent cadre, excluding those on contractual agreements, will be entitled to:
+
+...
+
+[Data](articles/3253fced.json)
+
+---
 
 ### ’ட்ரம்ப் பிறப்பித்த வரிகள் சட்டவிரோதமானவை’
 
@@ -1759,17 +1785,5 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 ◼️
 
 [Data](articles/9f1626b5.json)
-
----
-
-### The Struggles Of Transgender Identity: Observations & Reflections
-
-*2025-08-29 15:04:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-struggles-of-transgender-identity-observations-reflections/) · `en`
-
-This paper examines the psychological, medical, and social struggles faced by transgender individuals, drawing on both personal observations and established research. While gender reassignment surgery and hormone therapy are often framed as pathways to liberation, evidence suggests that these interventions do not fully resolve underlying identity conflicts. Instead, they may compound psychological distress and physical burdens. By combining first-hand workplace observations with findings from psychiatric and sociological studies, this paper argues that the transgender experience requires deeper reflection beyond medical affirmation.
-
-...
-
-[Data](articles/9c632012.json)
 
 ---

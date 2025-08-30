@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 00:08:37**
+As of **2025-08-31 00:22:22**
 
 ## Newspaper Stats
 
-*Scraped **73,233** Articles*
+*Scraped **73,234** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
-colombotelegraphcom | 751
+colombotelegraphcom | 752
 economynextcom | 4,465
 islandlk | 4,498
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,233 articles have been extended.
+61,973 (84.6%) of 73,234 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -325,6 +325,20 @@ SCO සමුළුව, බටහිර ආරක්ෂාවාදී ප්‍
 ...
 
 [Data](articles/7b005fc2.json)
+
+---
+
+### Centralization Or Devolution Of Power: Justice For Father Daniel Jeyaruban
+
+*2025-08-30 18:31:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/centralization-or-devolution-of-power-justice-for-father-daniel-jeyaruban/) · `en`
+
+Many act out of self-preservation rather than principle. Therefore, between centralization and devolution, those with power want to hold on to it. So it is with the church too. Bishops hold on to and assert their power. Those at parish level want it distributed. Just prior to the May 1970 general election, the UNP knew of the ULF landslide but was hiding it from us.
+
+At the time,  Lake House, founded in 1926 by D. R. Wijewardena (Ranil Wickremesinghe’s maternal grandfather) was valiantly putting out a UNP Victory. Bishop Harold de Soysa’s mother was Catherine Wijewardene. The Wijewardenas and de Soysas are related. The Bishop’s mixed-caste status gave him many important connections. He identified as Karava – I presume because the de Soysas had a better tradition in education. Harold had a real BA from Oxford but after Ranil’s recent arrest there is a document in Tamil claiming a fictitious MA from Oxford.
+
+...
+
+[Data](articles/e85e7fa4.json)
 
 ---
 
@@ -1863,21 +1877,5 @@ Sri Lanka money market has seen high levels of excess liquidity including from d
 ...
 
 [Data](articles/cccc4c81.json)
-
----
-
-### අධිවේගයට වාහන දැමීමේදී වාහන අමතර කොටස්වල තත්ත්වයට ලකුණු දීමේ ක්‍රමයක්
-
-*2025-08-29 20:22:53* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයට-වාහන-දැමීමේදී-වාහන-අමතර-කොටස්වල-තත්ත්වයට-ලකුණු-දීමේ-ක්‍රමයක්/11-418159) · `si`
-
-අවශ්‍ය නීතිමය සංශෝධන සිදු කරමින් අධිවේගී මාර්ගයට වාහන ඇතුළත් කිරීමේදී වාහන අමතර කොටස්වල තත්ත්වය පරීක්ෂා කරමින් ලකුණු ලබාදීමේ ක්‍රමයක් ආරම්භ කරන බවද මෙහිදී අමාත්‍යවරයා ප්‍රකාශ කළ අතර ඊට අදාළ ගැසට් නිවේදනය ඉදිරියේදී නිකුත් කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය සහ පාර්ලිමේන්තුවේ සභානායක බිමල් රත්නායක මහතා පැවසීය.
-
-එසේම වාහනවල ටයර් අවශ්‍ය නියමිත තත්ත්වයන් සහ ප්‍රමිතියෙන් නොපවතී නම් එවැනි වාහන අධිවේගී මාර්ගයට ඇතුළත් කිරීමට අවසර ලබා නොදෙන බව ද හෙතෙම සඳහන් කළේය.
-
-අමාත්‍ය සහ සභානායක බිමල් රත්නායක මහතා මේ බව පැවසුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව ඒ මහතාගේ සභා‍පතිත්වයෙන් පසුගියදා පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථවේදීය.
-
-◼️
-
-[Data](articles/8fa7140d.json)
 
 ---

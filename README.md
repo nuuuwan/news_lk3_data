@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 21:49:52**
+As of **2025-08-30 22:08:16**
 
 ## Newspaper Stats
 
-*Scraped **73,223** Articles*
+*Scraped **73,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,049
-adaderanalk | 9,306
+adaderanalk | 9,309
 tamilmirrorlk | 10,872
 virakesarilk | 12,007
 adaderanasinhalalk | 12,703
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,223 articles have been extended.
+61,973 (84.6%) of 73,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Israeli airstrike kills Houthi rebel prime minister in Sanaa
+
+*2025-08-30 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112011/israeli-airstrike-kills-houthi-rebel-prime-minister-in-sanaa) · `en`
+
+The Iranian-backed Houthis said Saturday an Israeli airstrike killed the prime minister of the rebel-controlled government in the Yemeni capital, Sanaa.
+
+Ahmed al-Rahawi was killed in a Thursday strike in Sanaa along with a number of ministers, the rebels said in a statement.
+
+The Israeli military said Thursday that it “precisely struck a Houthi terrorist regime military target in the area of Sanaa in Yemen.”
+
+Al-Rahawi, who served as prime minister to the Houthi-led government since August 2024, was targeted along with other members of his Houthi-controlled government during a routine workshop held by the government to evaluate its activities and performance over the past year, the rebels’ statement said.
+
+...
+
+[Data](articles/aecb3b25.json)
+
+---
+
 ### கெஹல்பத்தர பத்மே மற்றும் நான்கு சந்தேக நபர்களும் அழைத்து வரப்பட்டனர்
 
 *2025-08-30 20:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹல்பத்தர-பத்மே-மற்றும்-நான்கு-சந்தேக-நபர்களும்-அழைத்து-வரப்பட்டனர்/175-363765) · `ta`
@@ -112,9 +130,51 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස දිවයිනට රැගෙන එයි
+### Underworld figures including ‘Kehelbaddara Padme’ brought back to Sri Lanka
+
+*2025-08-30 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112010/underworld-figures-including-kehelbaddara-padme-brought-back-to-sri-lanka) · `en`
+
+The high-profile underworld figures, including ‘Kehelbaddara Padme’, who were recently arrested in Indonesia, have been brought back to the island this evening (30), according to Ada Derana reporter.
+
+A special police team from Sri Lanka was dispatched to Indonesia this morning to facilitate their return. The team had then taken the criminal gang members into their custody from the Indonesian authorities and boarded a flight back to the island from Jakarta.
+
+According to reports, the special police team accompanying the arrested suspects have now reached the Bandaranaike International Airport (BIA) in Katunayake, where special security measures have reportedly been implemented in anticipation of the arrival of the ‘most-wanted’ organized criminal suspects.
+
+The arrested suspects are expected to be escorted to the Criminal Investigation Department (CID) under tight security after brief detention at the airport.
+
+...
+
+[Data](articles/3d937870.json)
+
+---
+
+### Ukrainian former parliamentary speaker shot dead in Lviv
+
+*2025-08-30 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112009/ukrainian-former-parliamentary-speaker-shot-dead-in-lviv) · `en`
+
+Ukrainian former parliamentary speaker Andriy Parubiy was shot dead in the western city of Lviv on Saturday and a search was under way for the killer.
+
+The Prosecutor General’s office said a gunman had fired several shots at Parubiy, killing him on the spot. The attacker fled and a manhunt was launched, it said.
+
+Parubiy, 54, was a member of parliament, had been parliamentary speaker from April 2016 to August 2019, and was one of the leaders of protests in 2013-14 calling for closer ties with the European Union.
+
+He was also secretary of Ukraine’s National Security and Defence Council from February to August 2014, a period when fighting began in eastern Ukraine and Russia annexed the Crimea peninsula.
+
+Officials gave no immediate indication whether the murder had any direct link to Russia’s war in Ukraine.
+
+...
+
+[Data](articles/25b6a8e1.json)
+
+---
+
+### කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස කටුනායකින් රැගෙන යයි
 
 *2025-08-30 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213973) · `si`
+
+UPDATE: කටුනායක ගුවන්තොටුපලේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ භාරයටගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05දෙනා මීට සුළු මොහොතකට පෙර කටුනායක බණ්ඩාරනායක ගුවන්තොටුපලින් පිටතට රැගෙන ගියේය.
+
+ඔවුන් කොළඹ පිහිටි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මූලස්ථානය වෙත රැගෙන යාමට නියමිතය.
 
 ඉන්දුනීසියාවේ ජකර්තා හිදී අත්අඩංගුවට ගත් අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස රැගත් ගුවන් යානය මීට සුළු මොහොතකට පෙර කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ළඟා වී තිබේ.
 
@@ -122,11 +182,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මේ වන විට කටුනායක ගුවන් තොටුපොළ තුළත් ඉන් පිටත ප්‍රදේශයේත් දැඩි ආරක්ෂාවක් යොදවා ඇතැයිද "අද දෙරණ" වාර්තාකරු පැවසීය.
 
-මේ වන විට මෙම අවස්ථාව නිරීක්ෂණය කිරීම සදහා මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල, පොලිස්පති ප්‍රියන්ත වීරසූරිය, පොලිස් මාධ්‍ය ප්‍රකාශක වුඩ්ලර් යන මහත්වරුන් ඇතුළු පොලිස් විශේෂ කාර්යය බළකායේ සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු උසස් නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබේ.
-
-ඔවුන් බස්නාහිර උතුර අපරාධ කොට්ඨාශය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහකාර පොලිස් අධිකාරී මහින්ද ජයසුන්දර යන නිලධාරීන් දෙදෙනා විසින් ඉන්දුනීසියාවේ විශේෂ පොලිස් කණ්ඩායමකගේ සහභාගීත්වයෙන් මෙම අත් අඩංගුවට ගැනීම සිදු කර තිබුණි.
-
-◼️
+...
 
 [Data](articles/305dc442.json)
 
@@ -1823,53 +1879,5 @@ The celebration of excellence extended beyond the organisation to its leadership
 ...
 
 [Data](articles/92630dc4.json)
-
----
-
-### மட்டக்களப்பு ஊறணியில் வயோதிப பெண்ணை காயப்படுத்தி தாலிக் கொடி மற்றும் சைக்கிள் கொள்ளை
-
-*2025-08-29 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/223737) · `ta`
-
-மட்டக்களப்பு ஊறணி பகுதியில் வீடு ஒன்றில் உள்நுழைந்த கொள்ளையன் ஒருவர் வயோதிப பெண் ஒருவரின் கழுத்தில் கத்தியை வைத்து கழுத்தில் இருந்த 16 பவுண் தாலிக் கொடியை அறுத்து கொள்ளையடித்து கொண்டு அங்கிருந்த சைக்கிளை திருடிக் கொண்டு தப்பி ஓடியுள்ளதுடன் வயோதிப பெண் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட சம்பவம் வியாழக்கிழமை (28)  அதிகாலையில் இடம்பெற்றுள்ளதாக கொக்குவில் பொலிசார் தெரிவித்தனர்.
-
-கொக்குவில் பொலிஸ் பிரிவிலுள்ள ஓவசியர் வீதி சின்ன ஊறணி பகுதியிலுள்ளள வீடு ஒன்றில் தாதியர் உத்தியோகத்தர் சேவையில் இருந்து ஓய்வு பெற்ற 65 வயதுடைய வயோதிப பெண்ணும் கணவனும் வாழ்ந்து வருகின்றனர்.
-
-இந்த நிலையில் வழமைபோல அதிகாலை 4.00 மணிக்கு எழுந்து இறைவழிபாட்டில் ஈடுபட்டுவருவது வழக்கம் இவ்வாறான நிலையில் சம்பவதினமான வியாழக்கிழமை அதிகாலை 4.00 மணியளவில் எழுந்து காலைக் கடன்களை முடித்துக் கொண்டு அறையின் கதவை சாத்திவிட்டு அங்கு இறைவழிபாட்டில் ஈடுபட்டுக் கொண்டிருந்தபோது அங்கு கதவினை திறந்து ஒருவர் நிற்பதை கண்டு கணவர் என நினைத்து அவரை அழைத்துள்ளார் ஆனால் சத்தம் எதுவும் இல்லை .
-
-...
-
-[Data](articles/3572e7fa.json)
-
----
-
-### Ranil’s Arrest: A Turning Point Or Just Another Act In Colombo’s Political Drama?
-
-*2025-08-29 19:18:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-arrest-a-turning-point-or-just-another-act-in-colombos-political-drama/) · `en`
-
-The arrest of Ranil Wickremesinghe last week, followed quickly by his release on bail, has thrown Sri Lanka’s political establishment into chaos. For some, this was long overdue accountability for a man who, along with his uncle JR Jayewardene, presided over decades of corruption, authoritarianism, and complicity in state violence. For others, it was nothing more than a political stunt—a show trial staged by the NPP to prove its toughness.
-
-But the bigger story is what comes next: how this moment reshapes the opposition, how it tests the NPP’s credibility, and how it impacts the upcoming provincial council elections.
-
-Ranil’s arrest has done what years of backroom deals could not—it has united the otherwise fractured opposition. UNP loyalists, SJB reformists, and minority party brokers are suddenly singing from the same hymn sheet: that the NPP is weaponising the law to crush rivals.
-
-...
-
-[Data](articles/da12b3b2.json)
-
----
-
-### හරි පාරෙන් ජපන් යන්න දැනගන්න අවස්ථාවක්
-
-*2025-08-29 19:17:50* · [`adalk`](https://www.ada.lk/breaking_news/හරි-පාරෙන්-ජපන්-යන්න-දැනගන්න-අවස්ථාවක්/11-418158) · `si`
-
-ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනය (JAICA) එක්ව සංවිධානය කරන ජපන් රැකියා පොළ වැඩසටහනක් හා විශේෂ දැනුවත් කිරීමේ වැඩසටහනක් හෙට දින (8/30) කාර්යාංශයේ බත්තරමුල්ල ප්‍රධාන කාර්යාලයේදී කාර්යාංශ සභාපති කෝශල වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වීමට නියමිතය.
-
-මෙහිදී නිවැරදි මාර්ගයෙන් ජපන් රැකියාවක් සඳහා යොමුවන ආකාරය පිළිබඳව ජනතාව දැනුවත් කරන අතර, ඊට අමතරව, ශ්‍රි ලාංකිකයින්ට අයදුම් කළ හැකි ජපන් රැකියා ක්ෂේත්‍ර, ඊට අවශ්‍ය මූලික සුදුසුකම් වැනි කරුණු පිළිබඳව උදෑසන හා දිවා වශයෙන් සැසිවාර දෙකක් ඔස්සේ රැකියා අපේක්ෂිතයින් දැනුවත් කිරීමටද නියමිතය.
-
-මෙම දැනුවත් කිරීමේ වැඩසටහන සඳහා JAICA ආයතනය, IM Japan ආයතනය ඇතුළු ජපන් රැකියා ඇණවුම් ලැබී ඇති බලපත්‍රලාභී රැකියා නියෝජිතායතන රැසක් හා ජපන් භාෂා පුහුණු පාසල් කිහිපයක්ද සහභාගි වේ.
-
-...
-
-[Data](articles/7ffd1e52.json)
 
 ---

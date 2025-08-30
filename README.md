@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 17:04:20**
+As of **2025-08-30 17:18:04**
 
 ## Newspaper Stats
 
-*Scraped **73,204** Articles*
+*Scraped **73,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,047
-adaderanalk | 9,301
+adaderanalk | 9,303
 tamilmirrorlk | 10,870
 virakesarilk | 12,007
 adaderanasinhalalk | 12,694
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,204 articles have been extended.
+61,973 (84.7%) of 73,206 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5551bef9.json)
+
+---
+
+### Former President Ranil Wickremesinghe to make special statement
+
+*2025-08-30 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112005/former-president-ranil-wickremesinghe-to-make-special-statement) · `en`
+
+Former President Ranil Wickremesinghe is scheduled to make a special statement at an upcoming party convention on September 6.
+
+Wickremesinghe, who was arrested and remanded under the Public Property Act, was granted bail on August 26.
+
+Fort Magistrate Nilupuli Lankapura granted the bail after considering the medical reports submitted on behalf of the former President.
+
+The magistrate ordered his release on three surety bonds of Rs. 5 million each, taking into account the facts presented by the Criminal Investigation Department (CID) and the defense lawyers.
+
+The former President was arrested by the CID on August 22 on charges under the Public Property Act in connection with alleged misappropriation of state funds. Subsequently, he was produced before the Fort Magistrate’s Court and was remanded until August 26.
+
+...
+
+[Data](articles/eece1fb2.json)
+
+---
+
+### Criminal gang leaders including ‘Kehelbaddara Padme’ to be brought to Sri Lanka today
+
+*2025-08-30 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112004/criminal-gang-leaders-including-kehelbaddara-padme-to-be-brought-to-sri-lanka-today) · `en`
+
+Five high-profile underworld figures, including ‘Kehelbaddara Padme’, who were arrested in Indonesia, are scheduled to be brought back to the island this evening (30), according to Sri Lanka Police.
+
+A special police team from Sri Lanka was dispatched to Indonesia this morning to facilitate their return. The team has reportedly taken the criminal gang members into their custody from the Indonesia authorities and is now bringing them back to the island.
+
+According to reports, the special police team accompanying the arrested suspects are currently en route to Sri Lanka from Jakarta.
+
+Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, and gang members known by the aliases ‘Commando Salintha’, ‘Backhoe Saman’, ‘Thembili Lahiru’ and Kudu Nilantha, were arrested in Jakarta recently, and a woman and a small child who were with them were also taken into custody.
+
+...
+
+[Data](articles/9e5ff8d3.json)
 
 ---
 
@@ -1789,49 +1827,5 @@ A bond maturing on 15.12.2032 closed at 10.30/40 percent, up from 10.28/32 perce
 ◼️
 
 [Data](articles/a3785d39.json)
-
----
-
-### ශ්‍රී ලංකා පිලෙන් සිම්බාබ්වේට ලකුණු 299ක ඉලක්කයක්
-
-*2025-08-29 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213937) · `si`
-
-ශ්‍රී ලංකා කණ්ඩායමේ සිම්බාබ්වේ සංචාරය ආරම්භ කරමින් පළමු එක්දින ක්‍රිකට් තරගය හරාරේ හිදී මේ වන විට පැවැත්වෙයි.
-
-එහිදී කාසියේ වාසිය ලබා ගත් සිම්බාබ්වේ ක්‍රිකට් නායක සෝන් විලියම්ස්ගේ ආරාධනය පරිදි පළමුවට පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල සිය පන්දු වාර 50 අවසානයේ දී කඩුලු 6ක් දැවී ලකුණු 298ක් ලබා ගන්නට සමත්විය.
-
-ලකුණු ලබා ගැනීමට දැඩි ආයාසයක් දැරීමට සිදුවූ මෙම තණතිල්ලේ මුල් පන්දුවාර 10 තුළ දී ශ්‍රී ලංකා පිලට ලබා ගැනීමට හැකියාව ලැබුණේ එක් කඩුල්ලක් දැවී ලකුණු 29ක් පමණි.
-
-අද දින ශ්‍රී ලංකා ආරම්භක පිතිකරු නිෂාන් මදුෂ්කට ලකුණු නොලබාම පිටියෙන් ඉවත්වන්නට සිදුවූ අතර දෙවැනි කඩුල්ල සඳහා පැතුම් නිස්සංක සහ කුසල් මෙන්ඩිස් අගනා ලකුණු 100ක සබඳතාවක් පවත්වන්නට සමත් විය.
-
-එහිදී පැතුම් නිස්සංක ලකුණු 76ක් සහ කුසල් මෙන්ඩිස් ලකුණු 38ක් ලබාගන්නට සමත්වූහ.
-
-තරගයේ 36 වැනි පන්දුවාරයේ දී ශ්‍රී ලංකා නායක චරිත් අසලංක ලකුණු 6කට දැවී ගිය අතර ඒ වන විට ශ්‍රී ලංකා ලකුණු පුවරුව කඩුලු 5කට ලකුණු 161ක් ලෙසින් සටහන්ව තිබුණි.
-
-...
-
-[Data](articles/9f9b9fa6.json)
-
----
-
-### විදෙස් රැකියා ලබා දෙන බවට පවසා මුදල් වංචා කළ සැකකරුවෙකු අත්අඩංගුවට
-
-*2025-08-29 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213936) · `si`
-
-අසර්බයිජාන් රටෙහි රැකියා ලබාදෙන බවට පවසා ලක්ෂ 12ක මුදලක් වංචා කිරීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 41ක කදුරුවෙල ප්‍රදේශයේ පදිංචිකරුවෙකු වේ.
-
-හැටන් විශේෂ අපරාධ කාර්යය විමර්ශන අංශයට ලද පැමිණිල්ලක් අනුව මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
-
-මෙම සැකකරු විවිධ ප්‍රදේශවල සමාජ සේවා කටයුතු සිදු කරන පුද්ගලයන් හා සම්බන්ධ වී එම පුද්ගලයන් නමින් ගිණුම් ආරම්භ කර එම ගිණුම් වෙත සමාජ ක්‍රියාකාරීන් හරහා මුදල් බැර කරවාගෙන එම මුදල්ද වංචා කර ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වී තිබේ.
-
-මෙම සැකකරු හැටන් ප්‍රදේශයේ දී පමණක් ලක්ෂ 250ක් පමණ මුදලක් වංචා කර ඇති බවත් දිවයිනේ විවිධ ප්‍රදේශවල මෙවැනි මුදල් වංචා සිදු කර ඇති බවට දැනට සිදු කරන ලද විමර්ශනයේදී අනාවරණය වී ඇති බවත් පොලීසිය පැවසුවේය.
-
-සැකකරුගේ මෙවැනි මුදල් වංචාවලට හසුව ඇති පුද්ගලයින් වේ නම් 071-6907033 යන දුරකථන අංකයට දැනුම්දෙන ලෙස පොලීසිය වැඩිදුරටත් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/b9506198.json)
 
 ---

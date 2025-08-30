@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 22:49:10**
+As of **2025-08-30 23:05:56**
 
 ## Newspaper Stats
 
-*Scraped **73,228** Articles*
+*Scraped **73,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,465
 islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
-adalk | 7,049
+adalk | 7,052
 adaderanalk | 9,309
 tamilmirrorlk | 10,872
 virakesarilk | 12,007
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,228 articles have been extended.
+61,973 (84.6%) of 73,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### අපනයන විවිධාංගීකරණය සහ අගය එකතු කළ නිෂ්පාදන සඳහා ඉදිරියේදී සහන
+
+*2025-08-30 22:51:51* · [`adalk`](https://www.ada.lk/breaking_news/අපනයන-විවිධාංගීකරණය-සහ-අගය-එකතු-කළ-නිෂ්පාදන-සඳහා-ඉදිරියේදී-සහන/11-418168) · `si`
+
+අපනයන විවිධාංගීකරණය සහ අගය එකතු කළ නිෂ්පාදන සඳහා ඉදිරියේදී සහන ලබා දීමට අපේක්ෂා කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය. රජයන් ඇත්තේ කර්මාන්ත අපහසුතාවට පත් කිරීමට නොව පහසුකම් සැලසීමට බවත්, නීති රීති සම්පාදනයේදී අදාල ක්ෂේත්‍ර සමඟ සහ සම්බන්ධතාවක් පවත්වාගෙන යාම මෙන්ම ඒවා ක්‍රියාත්මක කිරීමේදී ප්‍රමාණවත් කාලයක් ලබා දීමේ වැදගත්කමත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ කෘෂි සහ ආහාරපාන ක්ෂේත්‍රයට සම්බන්ධ පෞද්ගලික අංශයේ ව්‍යාපාරිකයන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවකට ඊයේ (29) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
+
+ගොවීන්ට අවශ්‍ය පහසුකම් සැලසීම, අපනයන, බදු සහන, ප්‍රතිචක්‍රීකරණය සහ කර්මාන්ත පවත්වාගෙන යාමේදී බලපාන නීතිමය තත්ත්වයන් පිළිබඳවද මෙහිදී පුළුල් ලෙස සාකච්ඡා කෙරිණි.
+
+ගුණාත්මක, කෘෂි සහ ආහාරපාන නිෂ්පාදන අඛණ්ඩව පාරිභෝගිකයා වෙත ලබා දීම පිළිබඳව මෙන්ම එම කර්මාන්තයට අදාළ කටයුතුවලදී ව්‍යාපාරිකයන් මුහුණ දී සිටින ගැටලු සහ අභියෝග පිළිබඳ මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කළ අතර ඊට අදාළ ඔවුන්ගේ අදහස් හා යෝජනාද සාකච්ඡාවට ලක්විය.
+
+...
+
+[Data](articles/fe1a57f9.json)
+
+---
+
+### වන්දනා ගමනක් ගිය බස් රථය අනතුරක 57කට තුවාල, පුද්ගලයෙක් මරුට
+
+*2025-08-30 22:41:36* · [`adalk`](https://www.ada.lk/breaking_news/වන්දනා-ගමනක්-ගිය-බස්-රථය-අනතුරක-57කට-තුවාල--පුද්ගලයෙක්-මරුට/11-418166) · `si`
+
+පොතුවිල්, කෝමාරි ප්‍ර දේශයේදි අක්කරපත්තුව දෙස සිට පොතුවිල් දෙසට ධාවනය වූ වන්දනා නඩයක් රැගත් බස් රථයක් මාර්ගයෙන් ඉවතට පැන අනතුරක් සිදුව තිබේ. අනතුරින් බස් රථයෙන් ගමන් ගත් 57 දෙනෙකු පමණ තුවාල ලබා කෝමාරි, තිරුක්කෝවිල් හා පොතුවිල් යන රෝහල්වලට ඇතුළත් කර තිබේ.
+
+මෙහිදී බරපතල තුවාල ලබා සිටි අවුරුදු 74ක් වූ වැලිමඩ පදිංචි පුද්ගලයෙක් මිය ගොස් තිබේ. අනතුර සම්බන්ධයෙන් පොතුවිල් පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/862539e8.json)
+
+---
 
 ### කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස ගැන පුළුල් විමර්ශනයක් කරන බව ඇමති කියයි
 
@@ -150,6 +182,20 @@ Al-Rahawi, who served as prime minister to the Houthi-led government since Augus
 
 ---
 
+### කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධකරුවන් පිරිස දිවයිනට රැගෙන එයි
+
+*2025-08-30 19:46:52* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේ-ඇතුළු-අපරාධකරුවන්-පිරිස-දිවයිනට-රැගෙන-එයි/11-418165) · `si`
+
+ඉන්දුනීසියාවේ දී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස රැගත් ගුවන් යානය මීට සුළු මොහොතකට පෙර කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ළඟා වී තිබේ.
+
+මේ වන විට කටුනායක ගුවන් තොටුපොළ ඇතුළත සහ ඉන් පිටත ප්‍රදේශයේ දැඩි ආරක්ෂාවක් යොදවා ඇති බය වාර්තා විය.
+
+◼️
+
+[Data](articles/519a2c54.json)
+
+---
+
 ### Underworld figures including ‘Kehelbaddara Padme’ brought back to Sri Lanka
 
 *2025-08-30 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112010/underworld-figures-including-kehelbaddara-padme-brought-back-to-sri-lanka) · `en`
@@ -188,19 +234,21 @@ Officials gave no immediate indication whether the murder had any direct link to
 
 ---
 
-### කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස කටුනායකින් රැගෙන යයි
+### පද්මෙ සලින්ත සහ නිලංග CIDයට
 
 *2025-08-30 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213973) · `si`
 
-UPDATE: කටුනායක ගුවන්තොටුපලේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ භාරයටගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05දෙනා මීට සුළු මොහොතකට පෙර කටුනායක බණ්ඩාරනායක ගුවන්තොටුපලින් පිටතට රැගෙන ගියේය.
+කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත සහ පානදුරේ නිලංග යන තිදෙනා ඉදිරි විමර්ශන සඳහා අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව වෙත රැගෙන ගොස් ඇත.
+
+එමෙන්ම දිවයිනට රැගෙන ආ සංවිධානාත්මක අපරාධකරුවන් වන බැකෝ සමන් සහ තැඹිලි ළහිරු යන දෙදෙනා වැඩිදුර විමර්ශන සඳහා බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසයට භාරදීමට නියමිත බව පොලිසිය සඳහා කළේය.
+
+කටුනායක ගුවන්තොටුපලේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ භාරයටගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05දෙනා මීට සුළු මොහොතකට පෙර කටුනායක බණ්ඩාරනායක ගුවන්තොටුපලින් පිටතට රැගෙන ගියේය.
 
 ඔවුන් කොළඹ පිහිටි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මූලස්ථානය වෙත රැගෙන යාමට නියමිතය.
 
 ඉන්දුනීසියාවේ ජකර්තා හිදී අත්අඩංගුවට ගත් අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස රැගත් ගුවන් යානය මීට සුළු මොහොතකට පෙර කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ළඟා වී තිබේ.
 
 පැය කිහිපයක ප්‍රමාදයකින් අනතුරුව අද (30) පස්වරු 3.30ට පමණ ජකර්තා අගනුවරින් පිටත් වූ ගුවන් යානය රාත්‍රී 7.20ට පමණ ගුවන් තොටුපොළ වෙත ළඟා වී ඇත.
-
-මේ වන විට කටුනායක ගුවන් තොටුපොළ තුළත් ඉන් පිටත ප්‍රදේශයේත් දැඩි ආරක්ෂාවක් යොදවා ඇතැයිද "අද දෙරණ" වාර්තාකරු පැවසීය.
 
 ...
 
@@ -1831,51 +1879,5 @@ At the heart of the evening was the coveted Most Popular Woman title, decided by
 ...
 
 [Data](articles/b526a36b.json)
-
----
-
-### Digital Innovation Fund, managed by BOV Capital and powered by Dialog Axiata, successfully exits IFINITY
-
-*2025-08-29 20:13:00* · [`islandlk`](http://island.lk/digital-innovation-fund-managed-by-bov-capital-and-powered-by-dialog-axiata-successfully-exits-ifinity/) · `en`
-
-The Digital Innovation Fund (DIF), managed by BOV Capital and powered by Dialog Axiata PLC, has successfully exited its investment in IFINITY, a pioneering Sri Lankan fintech company dedicated to revolutionising banking through cutting-edge digital solutions. This exit signifies a critical milestone for both the fund and Sri Lanka’s evolving fintech ecosystem, demonstrating the country’s capability to nurture high-impact, scalable technology ventures.
-
-IFINITY, a subsidiary of NCINGA, was founded with the vision of making banking an invisible and seamless lifestyle activity. The company enables financial institutions to transition from outdated legacy systems to cloud-native, open banking-compliant platforms.
-
-Omega Line wins Asia Best Employer Brand Award with its CHRO named Top Most HR Leader – Asia
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/0fe14233.json)
-
----
-
-### Kandy Myst by Cinnamon sets benchmark as first leed Gold certified hotel in Kandy
-
-*2025-08-29 20:12:00* · [`islandlk`](http://island.lk/kandy-myst-by-cinnamon-sets-benchmark-as-first-leed-gold-certified-hotel-in-kandy/) · `en`
-
-Kandy Myst by Cinnamon, the newest addition to the Cinnamon Hotels & Resorts portfolio developed in partnership with Indra Traders (Pvt) Ltd, has become the first hotel in Kandy to be awarded the prestigious LEED (Leadership in Energy & Environmental Design) Gold certification under the globally recognized LEED v4 Building Design & Construction (BD+C) rating system. This milestone reflects the hotel’s strong commitment to advancing sustainability, protecting the environment, and fostering the well-being of its guests and community. EnergySolve International officially presented Kandy Myst by Cinnamon with the prestigious LEED Gold certification & Award at a ceremony held on-site.
-
-...
-
-[Data](articles/2175f0e0.json)
-
----
-
-### Omega Line wins Asia Best Employer Brand Award with its CHRO named Top Most HR Leader – Asia
-
-*2025-08-29 20:11:00* · [`islandlk`](http://island.lk/omega-line-wins-asia-best-employer-brand-award-with-its-chro-named-top-most-hr-leader-asia/) · `en`
-
-Omega Line has been recognised on one of Asia’s most competitive stages, winning the prestigious Asia Best Employer Brand Award at the 20th Employer Branding Awards, held on 11 August 2025 at Pan Pacific, Singapore. The accolade, presented by the Employer Branding Institute in partnership with the World HRD Congress and Stars of the Industry Group, celebrates organisations that excel in building strong employer brands and fostering inclusive, progressive workplace cultures.
-
-The celebration of excellence extended beyond the organisation to its leadership. W. M. C. Sampath Weerakoon, Chief Human Resources Officer (CHRO) for Operations at Omega Line, was named Top Most HR Leader – Asia at the 16th CMO Asia Awards 2025. Weerakoon has played a pivotal role in shaping Omega Line’s people strategy, bringing together career mobility, well-being, and performance to strengthen the company’s position as both a global exporter and an employer of choice.
-
-...
-
-[Data](articles/7cf295ca.json)
 
 ---

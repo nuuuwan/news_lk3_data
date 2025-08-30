@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 19:19:33**
+As of **2025-08-30 19:32:21**
 
 ## Newspaper Stats
 
-*Scraped **73,216** Articles*
+*Scraped **73,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 7,048
 adaderanalk | 9,306
 tamilmirrorlk | 10,871
 virakesarilk | 12,007
-adaderanasinhalalk | 12,698
+adaderanasinhalalk | 12,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,216 articles have been extended.
+61,973 (84.6%) of 73,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### ඉන්දුනීසියානු රජයට එරෙහිව පැවති විරෝධතා තවත් දරුණු අතට
+
+*2025-08-30 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213972) · `si`
+
+ඉන්දුනීසියානු රජයට එරෙහිව පවතින විරෝධතාවන් මේ වන විට වඩාත් ප්‍රචණ්ඩය මුහුණුවරක් ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ඉන්දුනීසියාව තුළ දේශපාලන සහ ආර්ථික ප්‍රතිසංස්කරණ සිදුකරන ලෙස එරට රජයට බල කරමින් ජකර්තා අගනුවරදී විරෝධතා මාලාවක් නිර්මාණය වූයේ පසුගිය බ්‍රහස්පතින්දා දිනය.
+
+එම විරෝධතාකරුවන් විසිරුවා හැරීමට කැරලි මර්දන පොලීසිය කටයුතු කරමින් සිටින අතරතුර පොලිස් වාහනයක ගැටී යතුරුපැදිකරුවෙක් මිය ගිය අතර එම සිදුවීමට විරෝධය පළ කරමින් ඊයේ (30) එරට බන්ඩුන්ග් නගරයේදී විරෝධතා පැවැති අතර එම විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබුණි.
+
+එහිදී විරෝධතාකරුවන් ගොඩනැගිලි ගිනි තබමින් සහ දේපළවලට හානි කරමින් විරෝධය පළකර තිබේ.
+
+විදෙස් මාධ්‍ය මේ වන විට වාර්තා කර ඇත්තේ මේ වන විට පවතින අඛණ්ඩ විරෝධතා අතරතුර ඉන්දුනීසියානු විරෝධතාකරුවන් පළාත් තුනක ප්‍රාදේශීය පාර්ලිමේන්තු ගොඩනැගිලිද ගිනි තබා විනාශ කර ඇති බවය.
+
+ඒ අනුව බටහිර නුසා ටෙන්ගාරා හී පාර්ලිමේන්තු ගොඩනැගිලි, මධ්‍යම ජාවා හී පෙකලෝන්ගන් නගරය සහ බටහිර ජාවා හී සයිරබන් නගරයයේ පිහිටි ගොඩනැගිලි රැසක්ද විරෝධතාකරුවන් ගිනි තබා ඇති බවද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+...
+
+[Data](articles/67136388.json)
+
+---
 
 ### නවීන පන්නයේ පිස්තෝල‍යක් සමඟ අත්අඩංගුවට ගත් පුද්ගලයා රිමාන්ඩ්
 
@@ -1837,19 +1859,5 @@ However, it is said that Indonesian authorities have deported the woman and chil
 ...
 
 [Data](articles/2a16f070.json)
-
----
-
-### Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
-
-*2025-08-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86356) · `en`
-
-History was made when 76 year old  Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department(CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over  Rupees 16.6 million.He was produced before the Colombo Fort Magistrate on 22 August 2025. Ranil was charged under  Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
-
-Six times prime minister Wickremesinghe who served as the eighth executive president of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts  in a Black Maria.  Ranil Wickremesinghe  thus became the first Sri Lankan ex-president and former Prime minister to be arrested and remanded  in the history of Sri Lanka.
-
-...
-
-[Data](articles/9ba9187c.json)
 
 ---

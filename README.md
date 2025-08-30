@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 23:05:56**
+As of **2025-08-30 23:17:56**
 
 ## Newspaper Stats
 
-*Scraped **73,231** Articles*
+*Scraped **73,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,052
-adaderanalk | 9,309
+adaderanalk | 9,310
 tamilmirrorlk | 10,872
 virakesarilk | 12,007
 adaderanasinhalalk | 12,704
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,231 articles have been extended.
+61,973 (84.6%) of 73,232 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/862539e8.json)
+
+---
+
+### ‘Kehelbaddara Padme’ and 2 others to be handed over to CID
+
+*2025-08-30 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112012/kehelbaddara-padme-and-2-others-to-be-handed-over-to-cid) · `en`
+
+Underworld figure ‘Kehelbaddara Padme’, along with ‘Commando Salintha’ and ‘Panadura Nilanga’, are to be handed over to the Criminal Investigation Department (CID) for further investigations, the police said.
+
+Meanwhile, ‘Backhoe Saman’ and ‘Thembili Lahiru’ will be placed under the custody of the Western Province North Crimes Division for continued inquiries.
+
+The suspects were among the five high-profile underworld figures arrested in Indonesia and brought back to Sri Lanka on Saturday (30) amidst tight security.
+
+◼️
+
+[Data](articles/0a7668b6.json)
 
 ---
 
@@ -1865,19 +1881,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/089903da.json)
-
----
-
-### Sri Lanka Vanithabhimana 2025 grand finale celebrates a landmark year of women’s achievement and sustainable empowerment
-
-*2025-08-29 20:14:00* · [`islandlk`](http://island.lk/sri-lanka-vanithabhimana-2025-grand-finale-celebrates-a-landmark-year-of-womens-achievement-and-sustainable-empowerment/) · `en`
-
-NDB Bank, in partnership with NewsFirst, celebrated the Grand Finale of the Sri Lanka Vanithabhimana Awards on 20 August 2025, honouring extraordinary women across the island and marking a milestone season that advanced beyond recognition to long-term empowerment through the programme’s five-year sustainability model. This year built on the initiative’s expanded structure, including the introduction of the Digital Entrepreneur and Foreign Employment categories, while continuing to champion financial literacy, enterprise growth and market access for women nationwide
-
-At the heart of the evening was the coveted Most Popular Woman title, decided by public SMS voting from a shortlist of five national personalities which included Anudi Gunasekara, Tharindi Fernando, Kanchana Anuradhi, Lochana Jayakodi and Shanudrie Priyasad. The title was awarded to Anudi Gunasekara.
-
-...
-
-[Data](articles/b526a36b.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 22:32:32**
+As of **2025-08-30 22:49:10**
 
 ## Newspaper Stats
 
-*Scraped **73,227** Articles*
+*Scraped **73,228** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
-colombotelegraphcom | 750
+colombotelegraphcom | 751
 economynextcom | 4,465
 islandlk | 4,498
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,227 articles have been extended.
+61,973 (84.6%) of 73,228 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,7 +44,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 එමෙන්ම පාතාල අපරාධවලට තවදුරටත් මේ රටේ ජනතාව පීඩාවට පත් කිරීමට ඉඩ නොදෙන බවත් එය සම්පූර්ණයෙන්ම නවතා දැමීමට දැන් කාලය එළැඹ ඇති බවත් එහිදී අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේය.
 
-◼️
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා,
+
+...
 
 [Data](articles/d66611a9.json)
 
@@ -369,6 +371,18 @@ He stated that the pain of being left without answers about a loved one is a tra
 ◼️
 
 [Data](articles/a14528cf.json)
+
+---
+
+### A Journey From War-Torn Sri Lanka To Berlin
+
+*2025-08-30 16:45:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-journey-from-war-torn-sri-lanka-to-berlin/) · `en`
+
+I was born in Pavatkulam Unit Two, a small Muslim village in Vavuniya, in the north of Sri Lanka. Life there was simple and rooted in the rhythms of land and water. Our homes stood between a great village tank and vast paddy fields that fed us. Most families were farmers, some fishermen, and together we formed a close-knit community of about 400 Muslim households. My father, the GS village headman, was a man of respect and responsibility. I was the sixth of his children. My earliest memories are of running through the fields barefoot, helping at harvest, praying at the mosque, and returning home to the smell of wood-fired meals. Childhood was untroubled—or so it seemed. None of us imagined how quickly innocence could shatter.
+
+...
+
+[Data](articles/cb40e6d1.json)
 
 ---
 
@@ -1863,23 +1877,5 @@ The celebration of excellence extended beyond the organisation to its leadership
 ...
 
 [Data](articles/7cf295ca.json)
-
----
-
-### සංචාරක කර්මාන්ත අංශයට අදාළව 2026 පූර්ව අයවැය සාකච්ඡාවක්
-
-*2025-08-29 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213943) · `si`
-
-සංචාරක කර්මාන්ත පෞද්ගලික අංශයේ පාර්ශ්වකරුවන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක් අද (29) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
-
-2026 වසරේ සංචාරක ‍ක්ෂේත්‍රයේ අපේක්ෂිත ඉලක්ක සපුරා ගැනීමේදී හුදෙක් ප්‍රවර්ධන වැඩසටහන් පමණක් ප්‍රමාණවත් නොවන බවත්, රාජ්‍ය සහ පෞද්ගලික අංශය ඒකාබද්ධ වූ නව උපායමාර්ගික වැඩසටහනක් ක්‍රියාවට නැංවිය යුතු බවත් එහිදී ජනාධිපති සඳහන් කළේය.
-
-නුවරඑළිය, අනුරාධපුර, මහියංගනය සහ කතරගම ආදී ප්‍රදේශවල පිහිටි ජනාධිපති මන්දිර සහ අමාත්‍යවරුන්ගේ නිල නිවාස දෙස් විදෙස් සංචාරකයන් ඉලක්ක කර ගනිමින් සුවපහසු නිවාඩු නිකේතන ලෙස සංවර්ධනය කිරීමට ආයෝජනය කරන ලෙස ද මෙහිදී ජනපති විසින් ව්‍යාපාරිකයන්ට ආරාධනා කර ඇත.
-
-එමෙන්ම වැඩිදුරටත් අදහස් දක්වමින් ඔහු සඳහන් කර සිටියේ ඒ වෙනුවෙන් විධිමත් වැඩපිළිවෙළක් නුදුරේදීම ක්‍රියාවට නංවන බවය.
-
-◼️
-
-[Data](articles/20770db4.json)
 
 ---

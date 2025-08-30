@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 14:33:03**
+As of **2025-08-30 14:50:05**
 
 ## Newspaper Stats
 
-*Scraped **73,192** Articles*
+*Scraped **73,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,047
-adaderanalk | 9,295
+adaderanalk | 9,301
 tamilmirrorlk | 10,870
 virakesarilk | 12,007
 adaderanasinhalalk | 12,688
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,192 articles have been extended.
+61,973 (84.7%) of 73,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### Chair of Transparency International praises govt’s anti-corruption initiatives
+
+*2025-08-30 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112003/chair-of-transparency-international-praises-govts-anti-corruption-initiatives) · `en`
+
+The Secretary to the President, Dr. Nandika  Sanath Kumanayake, met  with François Valérian, Chair of Transparency International, who is currently on a brief visit to Sri Lanka.
+
+During the discussion yesterday (29), Dr. Kumanayake highlighted the Government’s ongoing efforts to combat corruption in both the public and private sectors. He noted that several new initiatives had been launched, with significant progress already recorded in strengthening anti-corruption mechanisms.
+
+He further emphasised that plans were underway to raise public awareness on bribery and corruption, with the broader aim of eliminating corrupt practices, ensuring effective utilisation of public funds and fostering a culture of integrity in the country, according to the President’s Media Davison (PMD).
+
+...
+
+[Data](articles/7c003ca4.json)
+
+---
 
 ### ගතවූ පැය 24ට රිය අනතුරුවලින් 06 දෙනෙකු මරුට
 
@@ -76,6 +92,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Export diversification & value-added products to receive future incentives - President
+
+*2025-08-30 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112002/export-diversification-value-added-products-to-receive-future-incentives-president) · `en`
+
+President Anura Kumara Dissanayake stated that future incentives will be introduced to encourage export diversification and the development of value-added products.
+
+The President further said that the role of governments is to support industries rather than hinder them and he underscored the necessity of consulting with relevant sectors during the regulation drafting process, ensuring sufficient time is allocated for their execution.
+
+The President made these remarks yesterday (29) at the Presidential Secretariat during the 2026 pre-budget discussion with private sector representatives from the agriculture and food & beverage sectors, according to the President’s Media Division (PMD).
+
+The meeting focused on providing facilities for farmers, exports, tax concessions, recycling and the legal environment affecting the sector.
+
+...
+
+[Data](articles/d3f9313b.json)
+
+---
+
 ### අධිවේගයේ බස් රථවල මගීන්ට ආසන පටි පැළඳීම අනිද්දා සිට අනිවාර්යය වෙයි
 
 *2025-08-30 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213958) · `si`
@@ -89,6 +123,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d8b43e93.json)
+
+---
+
+### Special police team heads to Indonesia to bring back arrested criminal gang leaders
+
+*2025-08-30 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112001/special-police-team-heads-to-indonesia-to-bring-back-arrested-criminal-gang-leaders-) · `en`
+
+Five high-profile underworld figures, including ‘Kehelbaddara Padme’, are scheduled to be brought back to Sri Lanka tomorrow (August 31).
+
+It is reported that a special police team from Sri Lanka departed the island today (August 30) to facilitate their repatriation.
+
+The individuals, considered leaders of powerful organized criminal gangs in the country, were arrested in Jakarta, Indonesia, on August 28 during a special operation conducted jointly by a team from the Sri Lanka Police and Jakarta Police.
+
+The arrested underworld figures, identified by their aliases, include Kehelbaddara Padme, Commando Salinda, Panadura Nilanga, Thembili Lahiru, and Backhoe Saman, according to police.
+
+◼️
+
+[Data](articles/a2c6a167.json)
 
 ---
 
@@ -127,6 +179,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/91edd4c1.json)
+
+---
+
+### US bars Palestinian leader Abbas from UN as allies pledge statehood
+
+*2025-08-30 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112000/us-bars-palestinian-leader-abbas-from-un-as-allies-pledge-statehood) · `en`
+
+The United States said on Friday it will not allow Palestinian Authority President Mahmoud Abbas to travel to New York next month for a United Nations gathering of world leaders, where several U.S. allies are set to recognize Palestine as a state.
+
+A State Department official said Abbas and about 80 other Palestinians would be affected by the decision to deny and revoke visas from members of the umbrella Palestine Liberation Organization and the West Bank-based Palestinian Authority.
+
+Abbas had been planning to travel to New York for the annual high-level U.N. General Assembly at U.N. headquarters in Manhattan. He was also set to attend a summit there - hosted by France and Saudi Arabia - where Britain, France, Australia and Canada have pledged to formally recognize a Palestinian state.
+
+Abbas’ office said it was astonished by the visa decision and argued that it violated the U.N. “headquarters agreement.”
+
+...
+
+[Data](articles/a714740d.json)
 
 ---
 
@@ -189,6 +259,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5f80f57f.json)
+
+---
+
+### Sri Lanka to deploy solar-powered boats to clean Colombo’s Beira Lake
+
+*2025-08-30 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111999/sri-lanka-to-deploy-solar-powered-boats-to-clean-colombos-beira-lake) · `en`
+
+Sri Lanka will deploy solar-powered electric boats to collect waste from Beira Lake, a man-made lake in the heart of downtown Colombo, said Western Province Governor Hanif Yusoof on Friday.
+
+Yusoof said in a post on X that the first trials of the electric waste-collecting boats have already begun. Each vessel can remove up to 3,000 kg of floating solid waste daily.
+
+According to Yusoof, the government plans to launch up to four boats on Beira Lake as part of broader efforts to restore and revive the lake. The initiative falls under the Clean Sri Lanka program, aimed at addressing persistent pollution issues in the lake.
+
+Beira Lake, a scenic centerpiece of Colombo, has long suffered from pollution.
+
+◼️
+
+[Data](articles/c734daef.json)
+
+---
+
+### Gazette on mandatory seat belts for expressway bus passengers to be published tomorrow
+
+*2025-08-30 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111998/gazette-on-mandatory-seat-belts-for-expressway-bus-passengers-to-be-published-tomorrow) · `en`
+
+A gazette notification containing regulations that make it mandatory for passengers traveling in passenger transport buses on expressways to wear seat belts is scheduled to be issued tomorrow (August 31), said Minister of Transport, Highways, Ports and Civil Aviation and Leader of the House, Bimal Rathnayake.
+
+Minister Rathnayake state this during a recent meeting of the Ministerial Consultative Committee on Transport, Highways, Ports and Civil Aviation, held in Parliament under his chairmanship, the Department of Communication of Parliament said.
+
+Further elaborating, the Minister explained that this initiative is being implemented as a key component of the “Clean Sri Lanka” program. He also noted that a grace period of approximately three months will be given for the installation of seat belts in school transport buses, office transport services, leisure tour buses, and other passenger buses operating on expressways.
+
+...
+
+[Data](articles/bb8f2ca5.json)
 
 ---
 
@@ -1733,101 +1837,5 @@ The ASPI was pushed higher on Ceylinco Holdings which ended 144.75 rupees higher
 ◼️
 
 [Data](articles/58f73989.json)
-
----
-
-### 1 பந்தில் 22 ஓட்டங்கள்: மிரள வைத்த ஆர்சிபி வீரர்
-
-*2025-08-29 16:14:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/1-பந்தில்-22-ஓட்டங்கள்-மிரள-வைத்த-ஆர்சிபி-வீரர்/44-363731) · `ta`
-
-மேற்கிந்திய தீவுகளில் நடைபெற்று வரும் சிபிஎல் கிரிக்கெட் தொடரில் ஆர்.சி.பி வீரர் ஒரே பந்தில் 22 ஓட்டங்கள் அடித்துள்ளார்.
-
-இந்திய கிரிக்கெட் வாரியத்தால் நடத்தப்படும் ஐபிஎல் 20 ஓவர் கிரிக்கெட் தொடர் போல, பல்வேறு நாடுகளிலும் 20 ஓவர் கிரிக்கெட் தொடர்கள் நடத்தப்படுகின்றன. அந்த வகையில், மேற்கிந்திய தீவுகள் கிரிக்கெட் வாரியத்தால் நடத்தப்படும் கரீபியன் பிரீமியர் லீக் போட்டிகளும் கிரிக்கெட் ரசிகர்கள் மத்தியில் மிகவும் பிரபலம். சர்வதேச அளவில் அதிக பார்வையாளர்களை கொண்ட கிரிக்கெட் லீக் தொடர்களில் ஒன்றாக சிபிஎல் எனப்படும் கரீபியன் லீக் தொடர் உள்ளது.
-
-இந்த தொடரில், மேற்கிந்திய தீவுகள் அணியின் ஆல் ரவுண்டர் ரோமாரியோ ஷெபர்ட், கிரிக்கெட் ரசிகர்கள் நினைத்து பார்க்க முடியாத அளவுக்கு ஒரு சம்பவத்தை நிகழ்த்தியுள்ளார். அதாவது, ஒரே பந்தில் 22 ஓட்டங்கள் விளாசி கிரிக்கெட் ரசிகர்களை மிரள வைத்துள்ளார் ஷெபர்ட். அது எப்படி ஒரே பந்தில் 22 ஓட்டங்கள் அடித்தார் என பலரும் வியந்து படிப்பது புரிகிறது.
-
-...
-
-[Data](articles/6f0e4a04.json)
-
----
-
-### சிறுவனால் கர்ப்பமான நர்சிங் மாணவி: கருவை கலைத்ததால்   விபரீதம்
-
-*2025-08-29 16:08:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனால்-கர்ப்பமான-நர்சிங்-மாணவி-கருவை-கலைத்ததால்-விபரீதம்/175-363730) · `ta`
-
-19 வயதான யுவதிக்கும் சிறுவனுக்கும் இடையில் பழக்கம் ஏற்பட்டது. இதனால், அந்த யுவதி கர்ப்பமானார். இந்த சம்பவம், திருத்தணியில் இடம்பெற்றுள்ளது.
-
-திருத்தணியை அடுத்த ஆர்.கே.பேட்டை அருகே உள்ள கொடிவலசா கிராமத்தை சேர்ந்தவர் சீனிவாசன். இவரது மகள் சண்முகப்பிரியா (19 வயது) டிப்ளமோ நர்சிங் படித்து வந்தார். இவருக்கும் அதே பகுதியை சேர்ந்த உறவினரான சிறுவன் ஒருவருக்கும் பழக்கம் ஏற்பட்டது. இருவரும் நெருங்கி பழகியதால் சண்முகப்பிரியா கர்ப்பமானார்.
-
-இது குறித்து ஆரம்பத்தில் சண்முகப்பிரியா பெற்றோரிடம் தெரிவிக்காமல் மறைத்தார். இந்த நிலையில் அவர் 5 மாத கர்ப்பமாக இருப்பதை அறிந்த பெற்றோர் அதிர்ச்சி அடைந்தனர். இதையடுத்து கடந்த சில நாட்களுக்கு முன்பு ஆந்திர மாநிலத்தில் உள்ள கிளினிக்கில் மாணவி சண்முகப்பிரியாவின் 5 மாத கருவை கலைத்ததாக தெரிகிறது. பின்னர் வீட்டுக்கு வந்த அவருக்கு தொடர்ந்து உடல்நிலை பாதிப்பு ஏற்பட்டது.
-
-...
-
-[Data](articles/4c5716e1.json)
-
----
-
-### නිමල් ලන්සා රිමාන්ඩ්
-
-*2025-08-29 16:07:29* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-රිමාන්ඩ්/11-418154) · `si`
-
-2006 වසරේ දී උද්ඝෝෂණයක් අතරතුර සිදුවු පහරදීමක් සහ අයුතු ඇතුළුවීමක් සම්බන්ධයෙන් වූ චෝදනා යටතේ අත්අඩංගුවට ගෙන මීගමුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා මහතා ලබන 12 දා තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
-
-අදාළ චෝදනා යටතේ කොච්චිකඩේ පොලීසියට භාර වූ හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලාන්සා අත්අඩංගුවට ගැනීමෙන් අනතුරුව අධිකරණයට ඉදිරිපත් කෙරිණි.
-
-◼️
-
-[Data](articles/d38afc6d.json)
-
----
-
-### රතන හිමි රිමාන්ඩ්
-
-*2025-08-29 16:03:52* · [`adalk`](https://www.ada.lk/breaking_news/රතන-හිමි-රිමාන්ඩ්/11-418153) · `si`
-
-පූජ්‍ය අතුරලියේ රතන හිමියන් සැප්තැම්බර් මස 12 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය  අද (29දා) නියෝග කළේය.
-
-අධිකරණය මඟින් වරෙන්තු ලබාසිටි උන් වහන්සේ අද (29) දහවල් අධිකරණය හමුවේ පෙනී සිටීමෙන් අනතුරුව මෙසේ උන්වහන්සේ රිමාන්ඩ් භාරයට පත් කෙරණි.
-
-2020 මහ මැතිවරණයෙන් 'අපේ ජනබල' පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධූරය ලබාගැනීම සඳහා එම පක්ෂයේ මහලේකම් පූජ්‍ය වේදිනිගම විමලතිස්ස හිමියන් පැහැරගෙන ගොස් රඳවා තබාගැනීමේ චෝදනාව සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළව මෙම නඩු විභාගය පැවැත් වේ.
-
-◼️
-
-[Data](articles/871a5b4b.json)
-
----
-
-### හිටපු ජනපති රනිල් රෝහලෙන් පිටව යයි
-
-*2025-08-29 15:59:27* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-රෝහලෙන්-පිටව-යයි/11-418152) · `si`
-
-කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද පෙරවරුවේ ඒම රෝහලේ සාමාන්‍ය වාට්ටුවකට මාරු කිරීමෙන් අනතුරුව රෝහලෙන් පිටව ගොස් තිබේ.
-
-රෝහලෙන් බැහැරව ගියද දී තිබෙන වෛද්‍ය උපදෙස් අනුව හිටපු ජනාධිපතිවරයා සිය නිවසේ තවදුරටත් විවේකයෙන් ගත කරන බවත් නිවසේ රැඳි සිටින කාලය තුළදී රනිල් වික්‍රමසිංහ මහතාගේ සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් පවුලේ වෛද්‍යවරු දැඩි අධීක්ෂණයෙන් කටයුතු කරනු ඇතැයි වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/6945654f.json)
-
----
-
-### யாழ்.போராட்டத்துக்கு ஆதரவாக ஊர்திப் பவனி
-
-*2025-08-29 15:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/யாழ்-போராட்டத்துக்கு-ஆதரவாக-ஊர்திப்-பவனி/46-363727) · `ta`
-
-சர்வதேச நீதி கோரி யாழில் முன்னெடுக்கப்படவுள்ள போராட்டத்திற்கு ஆதரவாக ஊர்திப் பவனி ஒன்று ஆரம்பித்து வைக்கப்பட்டது.
-
-சர்வதேச காணாமல் ஆக்கப்பட்டோர் தினமான, சனிக்கிழமை (30) வடக்கு, கிழக்கு காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களின் சங்கத்தின் ஏற்பாட்டில் வடக்கிலும் கிழக்கிலும் மாபெரும் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
-
-வடக்கில் யாழ்ப்பாணம் செம்மணியில் இப் போராட்டம் நடைபெறவுள்ளது. இப் போராட்டத்திற்கு ஆதரவு திரட்டும் வகையில் யாழிலிருந்து ஊர்திப் பவனி ஆரம்பிக்கப்பட்டுள்ளது.
-
-உலகத் தமிழாராய்ச்சி மாநாட்டு படுகொலை நினைவு தூபியில் அஞ்சலி செலுத்தி அங்கிருந்து இந்த ஊர்திப் பவனி ஆரம்பமாகியது.
-
-இவ் ஊர்திப் பவனி பல்வேறு இடங்களுக்கும் சென்று  போராட்டம் நடைபெறும் செம்மணியை சனிக்கிழமை (29) காலை வந்தடையும்.
-
-◼️
-
-[Data](articles/baef466f.json)
 
 ---

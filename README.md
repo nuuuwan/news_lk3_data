@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 19:08:00**
+As of **2025-08-30 19:19:33**
 
 ## Newspaper Stats
 
-*Scraped **73,214** Articles*
+*Scraped **73,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,048
-adaderanalk | 9,304
+adaderanalk | 9,306
 tamilmirrorlk | 10,871
 virakesarilk | 12,007
 adaderanasinhalalk | 12,698
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,214 articles have been extended.
+61,973 (84.6%) of 73,216 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### One dead, 57 injured in bus crash in Pottuvil
+
+*2025-08-30 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112008/one-dead-57-injured-in-bus-crash-in-pottuvil) · `en`
+
+One person is reported dead, while at least 57 others were left injured in a bus accident at Komari in Pottuvil.
+
+Police said that a bus transporting a group of passengers from Welimada who were on a private excursion to Arugam Bay was involved in the fatal crash.
+
+It is reported that the bus had veered off the road and crashed near a bridge in the Komari area in Pottuvil, killing one passenger on the spot and injuring 57 other passengers.
+
+The deceased is a 74-year-old resident of Welimada. The injured have been rushed to the hospital.
+
+The bus has also reportedly sustained serious damage in the accident.
+
+◼️
+
+[Data](articles/129072dd.json)
+
+---
+
 ### பொத்துவில் விபத்தில் ஒருவர் பலி; 57 பேர் காயம்
 
 *2025-08-30 18:02:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவில்-விபத்தில்-ஒருவர்-பலி-57-பேர்-காயம்/175-363752) · `ta`
@@ -79,6 +99,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/af61bdb0.json)
+
+---
+
+### UN urges credible, independent probes into Sri Lanka’s mass graves
+
+*2025-08-30 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112007/un-urges-credible-independent-probes-into-sri-lankas-mass-graves) · `en`
+
+The United Nations (UN) Resident Coordinator in Sri Lanka Marc-André Franche says the recent recovery of human skeletal remains and personal belongings from mass graves, including those of children, is a stark reminder of the scale of past grave human rights violations and the urgent need for credible, transparent and independent investigations.
+
+Issuing a statement on the International Day of the Victims of Enforced Disappearances, the UN envoy in Colombo stated that the fate of thousands of forcibly disappeared Sri Lankans from across the entire island remains unknown; “a national wound left open by silence, inaction, and impunity”.
+
+He stated that the pain of being left without answers about a loved one is a trauma that time alone cannot heal. “It is a suffering that endures, deepened by the absence of truth and justice,” he said.
+
+...
+
+[Data](articles/ac711513.json)
 
 ---
 
@@ -1815,29 +1851,5 @@ Six times prime minister Wickremesinghe who served as the eighth executive presi
 ...
 
 [Data](articles/9ba9187c.json)
-
----
-
-### The Meaning Of Rata Anurata: Is It a Reality On The Grounds?
-
-*2025-08-29 18:00:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-meaning-of-rata-anurata-is-it-a-reality-on-the-grounds/) · `en`
-
-“I always tried to be correct, not politically correct.” “I am prepared to make unpopular decisions if they are right for Singapore. What matters is the country, not the individual.” — Lee Kuan Yew
-
-...
-
-[Data](articles/152fd9da.json)
-
----
-
-### புதிய 2000 ரூபாய் வெளியிட்டு வைக்கப்பட்டது
-
-*2025-08-29 17:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-2000-ரூபாய்-வெளியிட்டு-வைக்கப்பட்டது/175-363733) · `ta`
-
-இலங்கை மத்திய வங்கியின் 75ஆவது ஆண்டு நிறைவை முன்னிட்டு இன்று வெளியிடப்பட்ட புதிய 2000 ரூபாய்
-
-◼️
-
-[Data](articles/4d7bf8c7.json)
 
 ---

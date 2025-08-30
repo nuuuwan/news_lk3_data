@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 13:50:41**
+As of **2025-08-30 14:08:27**
 
 ## Newspaper Stats
 
@@ -32,7 +32,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 2025-08-30 (Saturday)
 
-### ජනාධිපති මන්දිර සංචාරක නිවාඩු නිකේතන බවට පත්කිරීමට ජනපතිගෙන් ව්‍යාපාරිකයින්ට ඇරයුම්
+### ජනපති මන්දිර සංචාරක නිකේතන කිරීමට ජනපතිගෙන් ව්‍යාපාරිකයින්ට ඇරයුම්
 
 *2025-08-30 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213959) · `si`
 

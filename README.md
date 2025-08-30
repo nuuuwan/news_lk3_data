@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 06:33:08**
+As of **2025-08-30 07:17:01**
 
 ## Newspaper Stats
 
-*Scraped **73,167** Articles*
+*Scraped **73,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,044
 adaderanalk | 9,290
-tamilmirrorlk | 10,866
+tamilmirrorlk | 10,867
 virakesarilk | 12,006
-adaderanasinhalalk | 12,677
+adaderanasinhalalk | 12,678
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,167 articles have been extended.
+61,973 (84.7%) of 73,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### “Invest in converting President’s houses in tourist zones into holiday resorts” – President
+
+*2025-08-30 06:22:00* · [`islandlk`](http://island.lk/invest-in-converting-presidents-houses-in-tourist-zones-into-holiday-resorts-president/) · `en`
+
+A discussion on the 2026 Pre-Budget for the tourism sector with private sector stakeholders was held this afternoon (29) at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
+
+The President pointed out that mere promotional programmes would not suffice to achieve the expected targets of the tourism sector for 2026. He emphasised the need for a new strategic programme jointly implemented by both the public and private sectors.
+
+Inviting entrepreneurs to invest in transforming President’s Houses and Ministers’ official bungalows located in areas such as Nuwara Eliya, Anuradhapura, Mahiyanganaya and Kataragama into comfortable holiday resorts targeting foreign tourists, the President announced that a formal programme in this regard would be launched in the near future.
+
+...
+
+[Data](articles/54b2202e.json)
+
+---
+
+### අද කාලගුණය
+
+*2025-08-30 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213950) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (30) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ් බව සඳහන් කරයි.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ, ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස  2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ද ඇතිවිය හැකිය.
+
+තද සුළං හේතුවෙන් ඇතිවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සූර්යයා සෘජුවම ඉහළින් පවතී.
+
+අද දින දහවල් 12:11 ට වංකලෙයි, ඕමන්තයි, වෙදමකිලන්කුලම්, බෝගස්වැව සහ තිරියාය ප්‍රදේශවලට සූර්යයා මුදුන්ව පවතී.
+
+◼️
+
+[Data](articles/bec46c31.json)
+
+---
 
 ### செம்மணியில் நேற்று 10 எலும்புக்கூடுகள் அடையாளம்
 
@@ -67,6 +107,22 @@ Trump had justified the tariffs under the International Emergency Economic Power
 ...
 
 [Data](articles/75f08253.json)
+
+---
+
+### பரீட்சைகளை உரிய காலத்தில் நடத்த ஏற்பாடு
+
+*2025-08-30 03:15:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகளை-உரிய-காலத்தில்-நடத்த-ஏற்பாடு/175-363747) · `ta`
+
+2026 ஆம் ஆண்டு முதல் கல்வி பொதுத்தராதர சாதாரண தர மற்றும் உயர்தரப் பரீட்சைகளை உரிய கால அட்டவணையில் நடத்துவற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+
+ஜனாதிபதி தலைமையில் நேற்று (29) நடைபெற்ற கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சின் 2026 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடலில் போது இது இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+அனைத்து மாணவர்களுக்கும் தரமான கல்வியை உறுதிப்படுத்தும் வகையில் எமது நாட்டின் பாடசாலை கட்டமைப்பை முறைமைப்படுத்துதல் மற்றும் பாடத்திட்ட சீர்திருத்தம் ஆகியவற்றில் கவனம் செலுத்துமாறும், ஒவ்வொரு மாணவருக்கும் தரமான கல்வியை உறுதி செய்யும் வகையில், அரசாங்கத்தின் கல்வி சீர்திருத்தங்களின் விரும்பிய இலக்குகளை அடைய தேவையான முதலீடுகளைச் செய்யுமாறும் கல்வி அமைச்சின் அதிகாரிகளுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க அறிவுறுத்தினார். (a)
+
+◼️
+
+[Data](articles/c39f8f0f.json)
 
 ---
 
@@ -359,22 +415,6 @@ No amount of power can easily purge the system. Previous Governments, particular
 ...
 
 [Data](articles/5b7fe67f.json)
-
----
-
-### “Invest in converting President’s houses in tourist zones into holiday resorts” – President
-
-*2025-08-29 23:37:00* · [`islandlk`](http://island.lk/invest-in-converting-presidents-houses-in-tourist-zones-into-holiday-resorts-president/) · `en`
-
-A discussion on the 2026 Pre-Budget for the tourism sector with private sector stakeholders was held this afternoon (29) at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
-
-The President pointed out that mere promotional programmes would not suffice to achieve the expected targets of the tourism sector for 2026. He emphasised the need for a new strategic programme jointly implemented by both the public and private sectors.
-
-Inviting entrepreneurs to invest in transforming President’s Houses and Ministers’ official bungalows located in areas such as Nuwara Eliya, Anuradhapura, Mahiyanganaya and Kataragama into comfortable holiday resorts targeting foreign tourists, the President announced that a formal programme in this regard would be launched in the near future.
-
-...
-
-[Data](articles/54b2202e.json)
 
 ---
 
@@ -1715,37 +1755,5 @@ He was taken into custody in connection with an incident where compensation was 
 ...
 
 [Data](articles/873c6551.json)
-
----
-
-### New Rs. 2,000 commemorative note presented to the President
-
-*2025-08-29 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/111980/new-rs-2000-commemorative-note-presented-to-the-president-) · `en`
-
-Marking the 75th Anniversary of the Central Bank of Sri Lanka (CBSL), a new commemorative Rs. 2,000 currency note was presented this morning (29) to President Anura Kumara Dissanayake at the Presidential Secretariat by the Governor of the Central Bank, Dr. Nandalal Weerasinghe.
-
-This commemorative note, issued to mark the anniversary, is the fifth commemorative currency note released by the Central Bank of Sri Lanka, according to the President’s Media Division (PMD).
-
-Reflecting the Central Bank’s unwavering commitment to strengthening economic stability as the foundation for national development, the note has been issued under the anniversary theme “Stability for Prosperity.”
-
-On this occasion, the President also engaged in cordial discussions with officials of the Central Bank, the PMD said.
-
-...
-
-[Data](articles/ca088e24.json)
-
----
-
-### ශෂීන්ද්‍ර යළිත් රිමාන්ඩ්
-
-*2025-08-29 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213930) · `si`
-
-දූෂණය නමැති චෝදනාවක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කෙරුණි.
-
-ඒ අනුව සැකකරු ලබන 12 වනදා දක්වා යළිත් රක්ෂිත බන්ධනාගාරගත කරන බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස්. බෝදරගම මහතා අද (29) නියෝග කළේය.
-
-◼️
-
-[Data](articles/b50b09dc.json)
 
 ---

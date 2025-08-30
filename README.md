@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 18:09:52**
+As of **2025-08-30 18:31:04**
 
 ## Newspaper Stats
 
-*Scraped **73,210** Articles*
+*Scraped **73,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,047
 adaderanalk | 9,304
-tamilmirrorlk | 10,870
+tamilmirrorlk | 10,871
 virakesarilk | 12,007
-adaderanasinhalalk | 12,696
+adaderanasinhalalk | 12,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,210 articles have been extended.
+61,973 (84.6%) of 73,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### නවීන පන්නයේ පිස්තෝල‍යක් සමඟ අත්අඩංගුවට ගත් පුද්ගලයා රිමාන්ඩ්
+
+*2025-08-30 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213971) · `si`
+
+මිලි මීටර් නවය වර්ගයේ නවීන පන්නයේ පිස්තෝල ගිනි අවියක් සමග අත්අඩංගුවට ගත් වාහන අලුත්වැඩියා ස්ථානයක හිමිකරුවකු රක්ෂිත බන්ධනාගාර ගත කිරීමට කඩුවෙල මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+ටෙන්ඩර් මගින් රජයේ වාහන අළුත්වැඩියා කටයුතු සදහා භාර ගන්නා ස්ථානයක හිමිකරුවකු වන සැකකරු අදාළ ගිනි අවිය සමග බස්නාහිර දකුණ අපරාධ කොට්ඨාශය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+අළුත්වැඩියාව සදහා රැගෙන ආ විදුලිබල මණ්ඩලයට අයත් රථයක් තුළ තිබී එහි සේවකයෙකුට මෙම ගිනි අවිය හමුවී ඇති අතර පසුව එය මාස අටක පමණ කාලයක් මෙම සැකකරු සතුව තිබී ඇති බවට විමර්ශනවලදී අනාවරණය වූ බව සැකකරු අධිකරණයට ඉදිරිපත් කරමින් බස්නාහිර දකුණ අපරාධ කොට්ඨාශය ප්‍රකාශ කළේය.
+
+මෙම ගිනි අවිය නවීන පන්නයේ ගිනි අවියක් වන බැවින් ඒ පිළිබඳව විමර්ශන කටයුතු සිදු කර යම් අපරාධයක් සදහා එය භාවිත කර ඇත්ද යන්න පිළිබඳව අධිකරණය වෙත කරුණු ඉදිරිපත් කරන ලෙස එහිදී කඩුවෙල මහේස්ත්‍රාත් අරුණ බුද්ධදාස මහතා දැනුම් දුන්නේය.
+
+අනතුරුව සැකකරු සැප්තැම්බර් මස 04 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කළේය.
+
+◼️
+
+[Data](articles/b228e2da.json)
+
+---
+
+### ශ්‍රී ලාංකිකයින් 9 දෙනෙකු නීතිවිරෝධීව මැලේසියාවට ඇතුල්වීමට දැරූ උත්සාහය වරදී
+
+*2025-08-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213970) · `si`
+
+ශ්‍රී ලාංකිකයින් ඇතුළු 12 දෙනෙකු මැලේසියා සහ තායිලන්ත දේශසීමා හරහා මැලේසියාවට ඇතුළු වීමට තැත් කිරීමේදී එරට මැලේසියානු දේශසීමා පාලන සහ ආරක්ෂණ ඒජන්සිය විසින් ආපසු හරවා යවා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ මෙම පිරිස අතරට ශ්‍රී ලාංකික පිරිමි පුද්ගලයින් 8 දෙනෙකු, ශ්‍රී ලාංකික කාන්තාවක් මෙන්ම තායිලන්ත ජාතික කාන්තාවන් තිදෙනෙකුද සමන්විත වී ඇති බවය.
+
+වලංගු වීසා බලපත්‍ර නොමැතිවීම, අවශ්‍ය රැඳී සිටීමේ කාල සීමාවන්ට අනුකූල නොවීම සහ සැක සහිත සංචාරක අරමුණු හේතුවෙන් ඔවුන්ට එම දේශසීමාවෙන් මැලේසියාවට ඇතුළු වීමට අවස්ථාව හිමිවී නොමැත.
+
+එහිදී ඇතුළු වීම ප්‍රතික්ෂේප කර ඇති එරට බලධාරීන් ඔවුන් වෙත නියෝග කර ඇත්තේ වහාම ආපසු සිය රටවල් බලා පිටත්ව යන ලෙසය.
+
+මෙම පිරිසට අපරාධකරුවන් හෝ බලාත්මක කිරීම් පරීක්ෂණ හඳුනාගෙන නොමැති බැවින් ඔවුන් අත්අඩංගුවට ගෙන නොමැති බවත් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/cf4d35ed.json)
+
+---
+
+### பொத்துவில் விபத்தில் ஒருவர் பலி; 57 பேர் காயம்
+
+*2025-08-30 18:02:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவில்-விபத்தில்-ஒருவர்-பலி-57-பேர்-காயம்/175-363752) · `ta`
+
+◼️
+
+[Data](articles/af61bdb0.json)
+
+---
 
 ### ගත වූ මාස 8ට ලොව පුරා කොලරා රෝගීන් ලක්ෂ 04ක්
 
@@ -1789,53 +1839,5 @@ Six times prime minister Wickremesinghe who served as the eighth executive presi
 ◼️
 
 [Data](articles/77960b66.json)
-
----
-
-### Ranil Wickremesinghe’s Arrest: Fighting Corruption Or Fuelling Political Victimization?
-
-*2025-08-29 17:51:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghes-arrest-fighting-corruption-or-fuelling-political-victimization/) · `en`
-
-The arrest and remanding of former President Ranil Wickremesinghe has triggered significant political upheaval across the country. For many, particularly outside the Janatha Vimukthi Peramuna (JVP) and National People’s Power (NPP), the development has been deeply unsettling. In contrast, supporters of the JVP and NPP have expressed open delight, as evident from their reactions on social media.
-
-Some interpret the arrest as proof that the law is finally being applied equally to all. Others, especially within the opposition, dismiss it as little more than political revenge.
-
-If crimes have been committed, the law must apply equally to all. That is not up for debate. The case of Keheliya Rambukwella, the former Health Minister, is one such example.
-
-...
-
-[Data](articles/3680ee1f.json)
-
----
-
-### Sri Lankan MPs delegation meets India’s Speaker, discuss boosting parliamentary ties
-
-*2025-08-29 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/111987/sri-lankan-mps-delegation-meets-indias-speaker-discuss-boosting-parliamentary-ties) · `en`
-
-In a significant step towards deepening democratic ties, the 24-member high-level delegation of Sri Lanka-India Parliamentary Friendship Association met India’s Lok Sabha Speaker Om Birla during their visit to the Parliamentary Research and Training Institute for Democracies (PRIDE) at Lok Sabha Secretariat in New Delhi.
-
-The delegation was led by Nalinda Jayatissa, Minister of Health and Mass Communication of Sri Lanka and President of the Sri Lanka–India Parliamentary Friendship Association.
-
-During the meeting, Birla underscored Sri Lanka’s significance in India’s Neighbourhood First policy and MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision and called for an increase in such bilateral exchanges between India and Sri Lanka
-
-...
-
-[Data](articles/6ef03b24.json)
-
----
-
-### සිම්බාබ්වේට ලකුණු 299ක ඉලක්කයක්
-
-*2025-08-29 17:31:17* · [`adalk`](https://www.ada.lk/breaking_news/සිම්බාබ්වේට-ලකුණු-299ක-ඉලක්කයක්/11-418156) · `si`
-
-ජනිත් ලියනගේ 70* (පන්දු 47) හා කමිඳු මෙන්ඩිස්  57 (පන්දු 36) හයවැනි කඩුල්ල වෙනුවෙන් පන්දු 77කදී ගොඩ නැගූ ලකුණු 137ක වේගවත් සබඳතාවත් සමගින් සිම්බාබ්වේ කණ්ඩායමට ලකුණු 299ක දැවැන්ත ඉල්කයක් ලබාදීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
-
-දෙරට අතර පැවැත්වෙන පළමු එක්දින තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ‍්ඩායම පන්දුවාර 50කදී ලකුණු 298ක් රැස් කිරීමට සමත්විය. අරම්භක පිතිකරු පැතුම් නිශ්ශංක 76 (පන්දු92) සමග ශ්‍රි ලංකා ඉනිම ආරම්භ කිරීමට නිශාන් මධුෂ්ක ආරම්භ කළත් මුළු ලකුණු සංඛ්‍යාව ලකුණු 9දී නිශාන් ලකුණු නොලබා පිටියෙන් ඉවත්විය.
-
-කෙසේ වෙතත් ඉන් අනතුරුව පිටියට පිවිසි කුසල් මෙන්ඩිස් 38 (පන්දු 63) සමග එක්වූ පැතුම් දෙවැනි කඩුල්ලට ලකුණු 100ක සබඳතාවක් පත්වමින් ශ්‍ර‍ී ලංකා ඉනිම ලකුණු 109ක් දක්වා රැගෙන ආවේය. ඉන් අනතුරුව ක්‍රියාත්මක වූ ශ්‍රි ලංකා මැදපෙළ පිතිකරුවන් ශ්‍රී ලංකා ඉනිම ක්‍රමයෙන් ගොඩ නැංවීය. සිම්බාබ්වේ වෙනුවෙන් රිචඩ් න්ගරාවා කඩුලු දෙකක් දවා ගැනීමට සමත්විය
-
-◼️
-
-[Data](articles/4bdf9672.json)
 
 ---

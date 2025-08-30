@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 11:51:13**
+As of **2025-08-30 12:08:46**
 
 ## Newspaper Stats
 
-*Scraped **73,185** Articles*
+*Scraped **73,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,464
 islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
-adalk | 7,045
+adalk | 7,047
 adaderanalk | 9,295
 tamilmirrorlk | 10,869
 virakesarilk | 12,007
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,684
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,185 articles have been extended.
+61,973 (84.7%) of 73,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -235,6 +235,24 @@ However, as no serious criminal charges were filed against the woman, Indonesian
 ◼️
 
 [Data](articles/3e105abf.json)
+
+---
+
+### බැකෝ සමන්ගේ බිරිඳ කටුනායකදී අත්අඩංගුවට
+
+*2025-08-30 07:49:52* · [`adalk`](https://www.ada.lk/breaking_news/බැකෝ-සමන්ගේ-බිරිඳ-කටුනායකදී-අත්අඩංගුවට/11-418162) · `si`
+
+ඉන්දුනීසියාවේ ජකර්තා නුවර දී අත් අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් අතර සිටි බැකෝ සමන් නැමැත්තාගේ බිරිඳ 08/29 දින පස්වරුවේ  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+30 හැවිරිදි සජිකා ලක්ෂානි පත්තිනිගේ මෙසේ කටුනායක ගුවන් තොටුපොළේ දී අත් අඩංගුවට ගෙන තිබේ . ඇයගේ තුන් හැවැරිදි දියණියද පොලීසිය විසින් සිය භාරයට ගෙන තිබේ.
+
+ඔවුන් 08/29 දින පස්වරු 05.50 ට ඉන්දුනීසියාවේ ජකර්තා නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 365 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+එම ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමෙන් පසුව ශ්‍රී ලංකා ආරක්ෂක නිලධාරීන් පිරිසක් ගුවන් යානය වෙත ගොස් ඇය  ගෙන ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් වෙත පමුණුවා නිශ්කාශන කටයුතු සිදු කර ගැනීමෙන් පසුව ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් වෙත ප්‍රකාශ සටහන් කර ගැනීමට භාර දී තිබේ .
+
+◼️
+
+[Data](articles/b5f0d270.json)
 
 ---
 
@@ -1785,27 +1803,5 @@ Former State Minister Nimal Lanza, who was arrested today (29) after surrenderin
 ◼️
 
 [Data](articles/61843be8.json)
-
----
-
-### Sri Lanka’s central bank issues Rs2,000 note with accessibility features
-
-*2025-08-29 15:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-issues-rs2000-note-with-accessibility-features-238672/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued a 2,000 rupee commemorative currency note to mark its 75th anniversary, with features for the visually impaired.
-
-“To assist visually impaired people in identifying the note by touch, six raised bars, each with a diamond shape, are printed along both the left and right edges,” the central bank said describing the note.
-
-The front of the note features the CBSL head office, the Colombo lighthouse clock tower, a stylized Colombo skyline and the 75th anniversary logo.
-
-A colour-shifting security thread is embedded in the note to enhance security and facilitate public authentication, CBSL said.
-
-The reverse of the note has a stylized map of Sri Lanka, a water lily, and the central bank’s vision statement.
-
-50 million notes will be issued, which will be gradually released into circulation through Licensed Commercial Banks starting today.
-
-...
-
-[Data](articles/e92f7ce0.json)
 
 ---

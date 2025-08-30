@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 10:32:35**
+As of **2025-08-30 10:49:40**
 
 ## Newspaper Stats
 
-*Scraped **73,178** Articles*
+*Scraped **73,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,50 @@ dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 750
 economynextcom | 4,464
-islandlk | 4,497
+islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,045
 adaderanalk | 9,293
 tamilmirrorlk | 10,869
 virakesarilk | 12,006
-adaderanasinhalalk | 12,681
+adaderanasinhalalk | 12,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,178 articles have been extended.
+61,973 (84.7%) of 73,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### ඉන්දුනීසියාව කැලඹෙයි  - විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගනී
+
+*2025-08-30 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213954) · `si`
+
+ඉන්දුනීසියානු රජයට එරෙහිව ඊයේ පැවැති විරෝධතාවයක් ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පෙරේදා පැවැති විරෝධතාවයක් අතරතුර පොලිස් වාහනයක ගැටී පුද්ගලයෙකු මිය යාමට එරෙහිව ඊයේ මෙම විරෝධතා පවත්වා තිබේ.
+
+ඉන්දුනීසියාව තුළ දේශපාලන සහ ආර්ථික ප්‍රතිසංස්කරණ සිදුකරන ලෙස එරට රජයට බලකරමින් ජකර්තා අගනුවරදී විරෝධතා මාලාවක් පැවැත්වුණේ පසුගිය බ්‍රහස්පතින්දාය.
+
+එම විරෝධතාකරුවන් විසිරුවා හැරීමට කැරලි මර්දන පොලිසිය කටයුතු කරමින් සිටින අතරතුර පොලිස් වාහනයක ගැටී යතුරුපැදිකරුවෙකු මියගොස් තිබුණි.
+
+එම සිදුවීමට විරෝධය පල කරමින් ඊයේ එරට බන්ඩුන්ග් නගරයේදී විරෝධතා පැවැති අතර එම විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබේ.
+
+විරෝධතාකරුවන් ගොඩනැගිලි ගිනි තබමින් සහ දේපළවලට හානි කරමින් විරෝධය පළකර ඇත.
+
+රට තුළ පොලිස් ප්‍රතිසංස්කරණ සිදුකරන ලෙස ද ඔවුන් එහිදි රජයට බලකර තිබේ.
+
+මෙම විරෝධතා හේතුවෙන් අග්නිදිග ආසියාවේ විශාලතම ආර්ථිකය ලෙස සැලකෙන ඉන්දුනීසියාව පිළිබඳව ආයෝජකයින්ගේ විශ්වාසය ද පහත වැටී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/82bda7e2.json)
+
+---
 
 ### Regulations on CEB voluntary retirement scheme gazetted
 
@@ -952,6 +978,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
+### Kandy Myst by Cinnamon sets benchmark as first leed Gold certified hotel in Kandy
+
+*2025-08-29 20:12:00* · [`islandlk`](http://island.lk/kandy-myst-by-cinnamon-sets-benchmark-as-first-leed-gold-certified-hotel-in-kandy/) · `en`
+
+Kandy Myst by Cinnamon, the newest addition to the Cinnamon Hotels & Resorts portfolio developed in partnership with Indra Traders (Pvt) Ltd, has become the first hotel in Kandy to be awarded the prestigious LEED (Leadership in Energy & Environmental Design) Gold certification under the globally recognized LEED v4 Building Design & Construction (BD+C) rating system. This milestone reflects the hotel’s strong commitment to advancing sustainability, protecting the environment, and fostering the well-being of its guests and community. EnergySolve International officially presented Kandy Myst by Cinnamon with the prestigious LEED Gold certification & Award at a ceremony held on-site.
+
+...
+
+[Data](articles/2175f0e0.json)
+
+---
+
 ### Omega Line wins Asia Best Employer Brand Award with its CHRO named Top Most HR Leader – Asia
 
 *2025-08-29 20:11:00* · [`islandlk`](http://island.lk/omega-line-wins-asia-best-employer-brand-award-with-its-chro-named-top-most-hr-leader-asia/) · `en`
@@ -1753,37 +1791,5 @@ The Israeli Defense Minister’s comment ought to have brought to the minds of m
 ◼️
 
 [Data](articles/31e8967b.json)
-
----
-
-### හිටපු ජනපති රනිල් රෝහලෙන් පිටව යයි
-
-*2025-08-29 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213931) · `si`
-
-කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රෝහලෙන් පිටව ගොස් තිබේ.
-
-ඒ අද (29) උදෑසන ඒ මහතාව සාමාන්‍ය වාට්ටුවක් වෙත මාරු කර යැවීමෙන් පසුවය.
-
-එක්සත් ජාතික පක්ෂ මාධ්‍ය ඒකකය පැවසුවේ රෝහලෙන් බැහැරව ගියද දී තිබෙන වෛද්‍ය උපදෙස් අනුව හිටපු ජනාධිපතිවරයා සිය නිවසේ තවදුරටත් විවේකයෙන් ගත කිරීමට නියමිතය බවය.
-
-නිවසේ රැඳි සිටින කාලය තුළදී රනිල් වික්‍රමසිංහ මහතාගේ සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් පවුලේ වෛද්‍යවරු දැඩි අධීක්ෂණයෙන් කටයුතු කරනු ලබන බවද එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/93b72261.json)
-
----
-
-### சஷீந்திரவின் விளக்கமறியல் நீடிப்பு
-
-*2025-08-29 15:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திரவின்-விளக்கமறியல்-நீடிப்பு/175-363720) · `ta`
-
-ஊழல் மற்றும் சதித்திட்டக் குற்றச்சாட்டில் கைது செய்யப்பட்ட முன்னாள் அமைச்சர் சஷீந்திர ராஜபக்ஷவை செப்டம்பர் 12 ஆம் திதி வரை மேலும் விளக்கமறியலில் வைக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, வௌ்ளிக்கிழமை (29)   உத்தரவிட்டார்.
-
-2022 பொது எழுச்சியின் போது சேதமடைந்த அங்கீகரிக்கப்படாத சொத்துக்கு சட்டவிரோதமாக இழப்பீடு பெற தனது உத்தியோகபூர்வ பதவியைப் பயன்படுத்தியதாக எழுந்த குற்றச்சாட்டுகள் தொடர்பாக இந்த கைது மேற்கொள்ளப்பட்டது.
-
-◼️
-
-[Data](articles/9f1626b5.json)
 
 ---

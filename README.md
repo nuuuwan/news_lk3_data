@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 15:49:14**
+As of **2025-08-30 16:19:31**
 
 ## Newspaper Stats
 
-*Scraped **73,200** Articles*
+*Scraped **73,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 7,047
 adaderanalk | 9,301
 tamilmirrorlk | 10,870
 virakesarilk | 12,007
-adaderanasinhalalk | 12,690
+adaderanasinhalalk | 12,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,200 articles have been extended.
+61,973 (84.7%) of 73,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### කාශ්මීරයේ නායයෑමකින් 11 දෙනෙකු ජිවිතක්ෂයට
+
+*2025-08-30 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213965) · `si`
+
+ඉන්දීය පාලනයේ පවතින කාශ්මීර් ප්‍රාන්තයේ සිදුවු නායයෑමකින් පුද්ගලයින් 11 දෙනෙකු මියගොස් තවත් දෙදෙනෙකු අතුරුදන්ව තිබේ.
+
+නායයෑමෙන් එරට ගොඩනැගිලි විශාල සංඛ්‍යාවකට හානි සිදුව ඇති අතර අවතැන් වු පුද්ගලයින් ආරක්ෂිත ස්ථාන වෙත යොමු කිරීමට බලධාරීන් කටයුතු කර තිබෙනවා.
+
+පසුගිය සති කිහිපය තුළ ඇදහැළුනු අධික වර්ෂාපතනය හේතුවෙන් මේ දක්වා එම ප්‍රදේශයේ පුද්ගලයින් 80 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/96464de2.json)
+
+---
+
+### හිටපු ජනපති රනිල්ගෙන් විශේෂ ප්‍රකාශයක්
+
+*2025-08-30 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213964) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එළැඹෙන 06 වනදා විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිත බව වාර්තා වෙයි.
+
+එළැඹෙන 06 වනදා පක්ෂ සම්මේලනයද පැවැත්වීමට නියමිත අතර එහිදී හිටපු ජනාධිපතිවරයා විසින් මෙම ප්‍රකාශය සිදුකරන ඇති බව වාර්තා වෙයි.
+
+පොදු දේපළ පනත යටතේ රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය 26 වනදා ඇපමත මුදා හැරියේය.
+
+හිටපු ජනාධිපතිවරයා සම්බන්ධයෙන් ඉදිරිපත් වූ වෛද්‍ය වාර්තා සලකා බැලීමෙන් අනතුරුව කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාපුර මෙනෙවිය මෙම නියෝගය නිකුත් කළාය.
+
+ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ විත්තියේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව හිටපු ජනාධිපතිවරයා රුපියල් ලක්ෂ 50 බැගින් වු ශරීර ඇප තුනක් මත මුදාහරීමට මහේස්ත්‍රාත්වරිය නියෝග කර තිබුණි.
+
+රාජ්‍ය මුදල් අවභාවිත කිරීමේ සිද්ධියකට අදාළව පොදු දේපළ පනත යටතේ වන චෝදනා මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් පසුගිය 22 වෙනිදා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගනු ලැබීය.
+
+...
+
+[Data](articles/2cdc92a0.json)
+
+---
 
 ### තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කෙරේ
 
@@ -54,7 +92,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-30 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213962) · `si`
 
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු පස් දෙනා අද (30) පස්වරුවේ දිවයිටනට රැගෙන ඒමට නියමිතව තිබේ.
+ඉන්දුනීසියාවේදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු පස් දෙනා අද (30) පස්වරුවේ දිවයිනට රැගෙන ඒමට නියමිතව තිබේ.
 
 ඔවුන් රැගෙන ඒමට දිවයිනෙන් පිටත්ව ගිය විශේෂ පොලිස් කණ්ඩායමක් දිවයිනෙන් පිටත්ව ගිය අතර මේ වන විට අපරාධ කල්ලි සාමාජිකයින් එම විශේෂ පොලිස් කණ්ඩායම භාරයට ගෙන ඇති බව සඳහන් වේ.
 
@@ -1793,39 +1831,5 @@ A bond maturing on 15.12.2032 closed at 10.30/40 percent, up from 10.28/32 perce
 ...
 
 [Data](articles/f0a364d3.json)
-
----
-
-### ශෂීන්ද්‍ර යළි රිමාන්ඩ්
-
-*2025-08-29 16:31:29* · [`adalk`](https://www.ada.lk/breaking_news/ශෂීන්ද්‍ර-යළි-රිමාන්ඩ්/11-418155) · `si`
-
-අරගලකරුවන් විසින් හානි කළ තම දේශපාලන කාර්යාලය වෙනුවෙන් වන්දි මුදල් ලබාගෙන දූෂණය නමැති වරද කර ඇති බවට වූ චෝදනාවක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කෙරුණි.
-
-ඒ අනුව සැකකරු ලබන 12 වනදා දක්වා යළිත් රක්ෂිත බන්ධනාගාරගත කරන බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය  අසංක එස්. බෝදරගම මහතා අද (29) නියෝග කළේය.
-
-◼️
-
-[Data](articles/b7b27a5f.json)
-
----
-
-### Sri Lanka stocks gain 0.95-pct, driven by telecommunication, capital goods
-
-*2025-08-29 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-gain-0-95-pct-driven-by-telecommunication-capital-goods-238677/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) ended 0.95 percent higher after surpassing the psychological 21,000 mark in intraday trading, brokers said.
-
-“Market seems to be very bullish today. Crossed the 21,000 at one point,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-The ASPI climbed 197.10 points on Friday to close at 20,997.36; while the S&P SL20 index rose 0.51 percent, or 31.02 points, to close at 6,076.79.
-
-“Telecom and capital goods pushed the turnover. Heavy interest in financial companies were seen,” Mathew said.
-
-The ASPI was pushed higher on Ceylinco Holdings which ended 144.75 rupees higher at 3,200; Dialog Axiata which ended 1.20 rupees stronger at 26.10; Senkadagala Finance which ended 79.75 rupees up at 556.75; Richard Pieris & Company which moved 1.60 rupees up to 28.40; and John Keells Holdings closed up 0.30 cents at 23.30 rupees.
-
-...
-
-[Data](articles/480b8fda.json)
 
 ---

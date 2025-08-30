@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 23:32:26**
+As of **2025-08-30 23:50:37**
 
 ## Newspaper Stats
 
-*Scraped **73,232** Articles*
+*Scraped **73,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 5,182
 adalk | 7,052
 adaderanalk | 9,310
 tamilmirrorlk | 10,872
-virakesarilk | 12,007
+virakesarilk | 12,008
 adaderanasinhalalk | 12,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,232 articles have been extended.
+61,973 (84.6%) of 73,233 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -125,6 +125,22 @@ The suspects were among the five high-profile underworld figures arrested in Ind
 ...
 
 [Data](articles/045b0440.json)
+
+---
+
+### செம்மணி–சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 10 எலும்புக்கூடுகள் கண்டெடுப்பு
+
+*2025-08-30 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/223795) · `ta`
+
+செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் சனிக்கிழமை (30) மேலும் 10 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
+
+இதன் அடிப்படையில் இதுவரை 197 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 180 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 38வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f452cab0.json)
 
 ---
 
@@ -1863,23 +1879,5 @@ Sri Lanka money market has seen high levels of excess liquidity including from d
 ◼️
 
 [Data](articles/8fa7140d.json)
-
----
-
-### Acquiring of Colombo Dockyard by Indian shipbuilding firm delayed
-
-*2025-08-29 20:14:00* · [`islandlk`](http://island.lk/acquiring-of-colombo-dockyard-by-indian-shipbuilding-firm-delayed/) · `en`
-
-Colombo Dockyard, which is to be acquired by India’s Mazagon Dock Shipbuilders Limited through an injection of capital, said the Rs 12.9 billion exercise would be delayed.Company sources said that the revised timelines would be notified after they receive the requisite regulatory approvals.
-
-Colombo Dockyard is planning to offer 323 million shares at Rs 40 to existing shareholders and the current controlling shareholder Onomichi of Japan will renounce its entitlement in favour of India’s Mazagon Dock Shipbuilders Limited.
-
-Meanwhile, yesterday the CSE crossed the 21000 point mark for the first time in its history. The development was attributable to local and foreign investor sentiment being high due to conducive macroeconomic conditions prevailing for the stock market to move.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 201.03 pound points while the S and P SL20 rose by 41.14 points. Turnover stood at Rs 7.39 billion with ten crossings.
-
-...
-
-[Data](articles/089903da.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 11:18:52**
+As of **2025-08-30 11:32:30**
 
 ## Newspaper Stats
 
-*Scraped **73,183** Articles*
+*Scraped **73,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 5,182
 adalk | 7,045
 adaderanalk | 9,295
 tamilmirrorlk | 10,869
-virakesarilk | 12,006
+virakesarilk | 12,007
 adaderanasinhalalk | 12,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,183 articles have been extended.
+61,973 (84.7%) of 73,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/977517d9.json)
+
+---
+
+### பெருந்தோட்டத் துறையில் உற்பத்தி சார்ந்த ஊதிய முறை கட்டாயம் - ஜனாதிபதியின் சிரேஷ்ட பொருளாதார ஆலோசகர் துமிந்த ஹுலங்கமுவ
+
+*2025-08-30 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223757) · `ta`
+
+பெருந்தோட்டத் துறையில் உற்பத்தி சார்ந்த ஊதிய முறை கட்டாயம் என ஜனாதிபதியின் சிரேஷ்ட பொருளாதார ஆலோசகர் துமிந்த ஹுலங்கமுவ வலியுறுத்தியுள்ளார்.
+
+இலங்கை பெருந்தோட்ட முதலாளிமார் சம்மேளனத்தின் 175-வது ஆண்டு பொதுக்கூட்டம் வெள்ளிக்கிழமை (29) நடைபெற்றது.
+
+இதில், பெருந்தோட்டத் துறையில் உற்பத்தி சார்ந்த ஊதிய முறைக்கு மாறுவது காலத்தின் கட்டாயம் என சம்மேளனத்தின் தலைவர் சுனில் பொஹொலியத்த வலியுறுத்தினார்.
+
+இந்த பொதுக்கூட்டத்தில் ஜனாதிபதியின் சிரேஷ்ட பொருளாதார ஆலோசகர் துமிந்த ஹுலங்கமுவ சிறப்பு விருந்தினராகக் கலந்துகொண்டு உரையாற்றினார்.
+
+சம்மேளனத்தின் 175 ஆண்டுகால பாரம்பரியம் மற்றும் மூன்று தசாப்தங்களுக்கு மேலாக தனியார்மயமாக்கப்பட்ட நிலையில், துறை அடைந்த முன்னேற்றங்கள் குறித்து சுனில் பொஹொலியத்த பேசினார்.
+
+பிராந்திய பெருந்தோட்ட நிறுவனங்களின் (RPC) மூலதனம் ரூபா 8 பில்லியனிலிருந்து ரூபா 113 பில்லியனாக அதிகரித்துள்ளதையும், சராசரியாக ரூபா 136 பில்லியனை மொத்த முதலீடாக ஈர்த்துள்ளதையும் அவர் சுட்டிக்காட்டினார்
+
+...
+
+[Data](articles/5f80f57f.json)
 
 ---
 
@@ -1781,25 +1803,5 @@ The reverse of the note has a stylized map of Sri Lanka, a water lily, and the c
 ◼️
 
 [Data](articles/3a1c6cec.json)
-
----
-
-### Former President Ranil discharged from hospital
-
-*2025-08-29 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/111983/former-president-ranil-discharged-from-hospital) · `en`
-
-Former President Ranil Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, has been discharged from the hospital on Friday.
-
-The 76-year-old was rushed to the intensive care unit of the National Hospital in Colombo last Saturday (23), just hours after being remanded in custody.
-
-Wickremesinghe, who was granted bail on Tuesday, was ordered to be released on three surety bails of Rs. 5 million each by Colombo Fort Magistrate Nilupuli Lankapura.
-
-Former President Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
-
-However, considering his health condition, he was first admitted to the Prison Hospital, and later transferred to the Intensive Care Unit of the Colombo National Hospital based on medical advice.
-
-...
-
-[Data](articles/1c1ff6e4.json)
 
 ---

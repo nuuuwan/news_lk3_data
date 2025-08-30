@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 05:32:21**
+As of **2025-08-30 06:07:46**
 
 ## Newspaper Stats
 
-*Scraped **73,157** Articles*
+*Scraped **73,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 750
-economynextcom | 4,462
-islandlk | 4,489
+economynextcom | 4,464
+islandlk | 4,497
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,044
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,157 articles have been extended.
+61,973 (84.7%) of 73,167 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -362,6 +362,22 @@ No amount of power can easily purge the system. Previous Governments, particular
 
 ---
 
+### “Invest in converting President’s houses in tourist zones into holiday resorts” – President
+
+*2025-08-29 23:37:00* · [`islandlk`](http://island.lk/invest-in-converting-presidents-houses-in-tourist-zones-into-holiday-resorts-president/) · `en`
+
+A discussion on the 2026 Pre-Budget for the tourism sector with private sector stakeholders was held this afternoon (29) at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
+
+The President pointed out that mere promotional programmes would not suffice to achieve the expected targets of the tourism sector for 2026. He emphasised the need for a new strategic programme jointly implemented by both the public and private sectors.
+
+Inviting entrepreneurs to invest in transforming President’s Houses and Ministers’ official bungalows located in areas such as Nuwara Eliya, Anuradhapura, Mahiyanganaya and Kataragama into comfortable holiday resorts targeting foreign tourists, the President announced that a formal programme in this regard would be launched in the near future.
+
+...
+
+[Data](articles/54b2202e.json)
+
+---
+
 ### North star for climate change adaptation: Making progress on the Global Goal on Adaptation
 
 *2025-08-29 23:35:26* · [`dailyftlk`](https://www.ft.lk/columns/North-star-for-climate-change-adaptation-Making-progress-on-the-Global-Goal-on-Adaptation/4-780970) · `en`
@@ -592,6 +608,30 @@ The real acceleration, however, came in the final phase when Janith Liyanage str
 
 ---
 
+### Sri Lanka inflation up 2.0-pct over 35-months, prices deflate in Aug
+
+*2025-08-29 21:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-up-2-0-pct-over-35-months-prices-deflate-in-aug-238704/) · `en`
+
+ECONOMYNEXT – Sri Lanka inflation in the capital Colombo rose 2.0 percent over the 35 months since September 2022, when the central bank’s deflationary policy started to show up in the balance of payments, official data showed.
+
+In the 12-months to August 2025, consumer prices were up 1.2 percent, data from the Department of Census and Statistics showed.
+
+Sri Lanka’s Colombo Consumer Price Index fell 0.4 percent absolutely in the month of August to 193.3 points after falling 0.2 percent in July.
+
+However, in September and October 2024, the index dropped below 190 points, which can lead to higher 12 month inflation next month.
+
+In July and August 2025, the food sub-index fell steeply from 249.3 to 239.4 points.
+
+The food price index is now 3.0 percent below the September 2022, after briefly reaching crisis level highs in June.
+
+Sri Lanka money market has seen high levels of excess liquidity including from dollar rupee swaps early in 2025, which has since come down.
+
+...
+
+[Data](articles/1ea01487.json)
+
+---
+
 ### சர்வதேச நீதிகோரிய காணாமலாக்கப்பட்டோரின் போராட்டத்திற்கு வலி. கிழக்கு பிரதேச சபை ஆதரவு - தவிசாளர் நிரோஷ்
 
 *2025-08-29 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/223739) · `ta`
@@ -639,6 +679,72 @@ The real acceleration, however, came in the final phase when Janith Liyanage str
 ◼️
 
 [Data](articles/8fa7140d.json)
+
+---
+
+### Acquiring of Colombo Dockyard by Indian shipbuilding firm delayed
+
+*2025-08-29 20:14:00* · [`islandlk`](http://island.lk/acquiring-of-colombo-dockyard-by-indian-shipbuilding-firm-delayed/) · `en`
+
+Colombo Dockyard, which is to be acquired by India’s Mazagon Dock Shipbuilders Limited through an injection of capital, said the Rs 12.9 billion exercise would be delayed.Company sources said that the revised timelines would be notified after they receive the requisite regulatory approvals.
+
+Colombo Dockyard is planning to offer 323 million shares at Rs 40 to existing shareholders and the current controlling shareholder Onomichi of Japan will renounce its entitlement in favour of India’s Mazagon Dock Shipbuilders Limited.
+
+Meanwhile, yesterday the CSE crossed the 21000 point mark for the first time in its history. The development was attributable to local and foreign investor sentiment being high due to conducive macroeconomic conditions prevailing for the stock market to move.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 201.03 pound points while the S and P SL20 rose by 41.14 points. Turnover stood at Rs 7.39 billion with ten crossings.
+
+...
+
+[Data](articles/089903da.json)
+
+---
+
+### Sri Lanka Vanithabhimana 2025 grand finale celebrates a landmark year of women’s achievement and sustainable empowerment
+
+*2025-08-29 20:14:00* · [`islandlk`](http://island.lk/sri-lanka-vanithabhimana-2025-grand-finale-celebrates-a-landmark-year-of-womens-achievement-and-sustainable-empowerment/) · `en`
+
+NDB Bank, in partnership with NewsFirst, celebrated the Grand Finale of the Sri Lanka Vanithabhimana Awards on 20 August 2025, honouring extraordinary women across the island and marking a milestone season that advanced beyond recognition to long-term empowerment through the programme’s five-year sustainability model. This year built on the initiative’s expanded structure, including the introduction of the Digital Entrepreneur and Foreign Employment categories, while continuing to champion financial literacy, enterprise growth and market access for women nationwide
+
+At the heart of the evening was the coveted Most Popular Woman title, decided by public SMS voting from a shortlist of five national personalities which included Anudi Gunasekara, Tharindi Fernando, Kanchana Anuradhi, Lochana Jayakodi and Shanudrie Priyasad. The title was awarded to Anudi Gunasekara.
+
+...
+
+[Data](articles/b526a36b.json)
+
+---
+
+### Digital Innovation Fund, managed by BOV Capital and powered by Dialog Axiata, successfully exits IFINITY
+
+*2025-08-29 20:13:00* · [`islandlk`](http://island.lk/digital-innovation-fund-managed-by-bov-capital-and-powered-by-dialog-axiata-successfully-exits-ifinity/) · `en`
+
+The Digital Innovation Fund (DIF), managed by BOV Capital and powered by Dialog Axiata PLC, has successfully exited its investment in IFINITY, a pioneering Sri Lankan fintech company dedicated to revolutionising banking through cutting-edge digital solutions. This exit signifies a critical milestone for both the fund and Sri Lanka’s evolving fintech ecosystem, demonstrating the country’s capability to nurture high-impact, scalable technology ventures.
+
+IFINITY, a subsidiary of NCINGA, was founded with the vision of making banking an invisible and seamless lifestyle activity. The company enables financial institutions to transition from outdated legacy systems to cloud-native, open banking-compliant platforms.
+
+Omega Line wins Asia Best Employer Brand Award with its CHRO named Top Most HR Leader – Asia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/0fe14233.json)
+
+---
+
+### Omega Line wins Asia Best Employer Brand Award with its CHRO named Top Most HR Leader – Asia
+
+*2025-08-29 20:11:00* · [`islandlk`](http://island.lk/omega-line-wins-asia-best-employer-brand-award-with-its-chro-named-top-most-hr-leader-asia/) · `en`
+
+Omega Line has been recognised on one of Asia’s most competitive stages, winning the prestigious Asia Best Employer Brand Award at the 20th Employer Branding Awards, held on 11 August 2025 at Pan Pacific, Singapore. The accolade, presented by the Employer Branding Institute in partnership with the World HRD Congress and Stars of the Industry Group, celebrates organisations that excel in building strong employer brands and fostering inclusive, progressive workplace cultures.
+
+The celebration of excellence extended beyond the organisation to its leadership. W. M. C. Sampath Weerakoon, Chief Human Resources Officer (CHRO) for Operations at Omega Line, was named Top Most HR Leader – Asia at the 16th CMO Asia Awards 2025. Weerakoon has played a pivotal role in shaping Omega Line’s people strategy, bringing together career mobility, well-being, and performance to strengthen the company’s position as both a global exporter and an employer of choice.
+
+...
+
+[Data](articles/7cf295ca.json)
 
 ---
 
@@ -967,6 +1073,24 @@ Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at
 ...
 
 [Data](articles/3cb887de.json)
+
+---
+
+### Sri Lanka was stabilized after crisis under old monetary law: CB Governor
+
+*2025-08-29 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-was-stabilized-after-crisis-under-old-monetary-law-cb-governor-238673/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stabilization measures were taken under an older monetary law, before new legislation with greater Central Bank independence was enacted, said Governor Nandalal Weerasinghe, who hiked rates, operated deflationary policy and also appreciated a collapsed currency.
+
+Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at providing more independence to the agency, in the hope it will help maintain stability, replacing a Monetary Law Act (MLA) dating back to 1949.
+
+“Notably, replacing the MLA with the new CBA enshrined greater independence and accountability in the new legislation,” Governor Weerasinghe said delivering an oration marking 75 years of the agency.
+
+“However, since the CBA was enacted only in September 2023, most stabilisation measures had to be executed under the MLA.
+
+...
+
+[Data](articles/9e253f89.json)
 
 ---
 
@@ -1623,131 +1747,5 @@ On this occasion, the President also engaged in cordial discussions with officia
 ◼️
 
 [Data](articles/b50b09dc.json)
-
----
-
-### If you don’t know your market, don’t grow: Sri Lanka agri minister tells farmers
-
-*2025-08-29 14:05:00* · [`economynextcom`](https://economynext.com/if-you-dont-know-your-market-dont-grow-sri-lanka-agri-minister-tells-farmers-238667/) · `en`
-
-ECONOMYNEXT – Farmers shouldn’t grow produce if they don’t know the market, Sri Lanka’s Minister of Agriculture and Lands has said.
-
-“IF you don’t know the market, don’t grow [Api kiyanne velandapola danne neththam vaga karanna epa],” Kuragamage Don Lalkantha said.
-
-He said he had asked pumpkin farmers recently who they grew it for. “They don’t know who their buyers are.”
-
-“We say, grow produce knowing who you will sell it to, and at what price.
-
-But they must know if they are selling to supermarkets or for export, he said, and meet with buyers beforehand.
-
-“Then no one will be left helpless [kavuruth anatha ven neha]”.
-
-He said the government hopes to solve all farmer problems by 2028. (Colombo/Aug29/2025)
-
-◼️
-
-[Data](articles/d9b6547b.json)
-
----
-
-### ஐக்கிய நாடுகள் மனித உரிமைகள் சபையின் உறுப்பு நாடுகளின் தூதரகத் தலைவர்களுக்கு இலங்கை தமிழ் அரசுக் கட்சி அனுப்பியுள்ள முக்கிய கடிதம் !
-
-*2025-08-29 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/223692) · `ta`
-
-ஜெனீவா மனித உரிமைச் சபையின் கூட்டத் தொடர் ஆரம்பமாகவுள்ள நிலையில், ஐக்கிய நாடுகள் மனித உரிமைகள் சபையின் உறுப்பு நாடுகளின் தூதரகத் தலைவர்களுக்கு இலங்கை தமிழ் அரசுக் கட்சி, செம்மணி மனிதப் புதைகுழி, போர்க்குற்றங்கள் உள்ளிட்ட பிரதான நான்கு விடயங்களை முன்னிலைப்படுத்தி கடிதம் ஒன்றை அனுப்பியுள்ளது.
-
-இலங்கையில் பொறுப்புக்கூறல் மற்றும் நல்லிணக்கத்தை ஊக்குவித்தல் - HRC 57/1 இலங்கையில் பொறுப்புக்கூறல் மற்றும் நல்லிணக்கத்தை ஊக்குவித்தல் தொடர்பாக செப்டம்பர் 2024 இல் 57 வது அமர்வில் ஏற்றுக்கொள்ளப்பட்ட மேற்படி 57/1 தீர்மானத்தின் காலம் செப்டம்பர் 2025 இல் 60 ஆவது அமர்வோடு முடிவடைகின்றது.
-
-இலங்கையின் வடக்கு மற்றும் கிழக்கு என்ற இரண்டு மாகாணங்களில் உள்ள ஒவ்வொரு தேர்தல் மாவட்டத்திலிருந்தும் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதிகளைக் கொண்ட - தமிழ் மக்களைப் பிரதிநிதித்துவப்படுத்துகின்ற - முதன்மை அரசியல் கட்சி நாங்கள்தாம். (1949 இல் தொடங்கப்பட்டதிலிருந்து சமஷ்டிக் கட்சி என்று நம் கட்சி அழைக்கப்படுகிறது).
-
-...
-
-[Data](articles/6b413c03.json)
-
----
-
-### கென்யாவில் யானைக்கு பியர் அருந்தக் கொடுத்த சுற்றுலா பயணி ; விசாரணை
-
-*2025-08-29 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/223687) · `ta`
-
-கென்யாவில் ஸ்பெயின் நாட்டைச் சேர்ந்த ஒருவர் யானையின் தும்பிக்கையில் பியரை ஊற்றி அருந்தக் கொடுக்கும் வீடியோகளை வெளியிட்டுள்ளார்.
-
-இந்நிலையில்,  இது  தொடர்பில் சமூக ஊடகங்களில் சர்ச்சை வெடித்ததை அடுத்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
-
-குறித்த சுற்றுலா பயணி வனவிலங்கு சரணாலயத்தில் பிரபலமான 'டஸ்கர்' (Tusker) பியரை குடித்துவிட்டு, மீதமுள்ளதை யானைக்குக் கொடுப்பது போல் படமாக்கப்பட்டு "தந்தம் உள்ள நண்பனுடன் ஒரு டஸ்கர் பியர்," என இன்ஸ்டாகிராமில் பதிவிட்டிருந்தார்.
-
-இதனை அவதானித்த கென்யர்கள் எதிர்ப்பை வெளியிட்டதை தொடர்ந்து  அந்த பதிவு அவரது கணக்கிலிருந்து நீக்கப்பட்டது.
-
-பிபிசி இந்த வீடியோ காட்சிகளை ஆய்வு செய்து, அதன் உண்மை தன்மையை உறுதிப்படுத்தியது. நிலப்பரப்பு மற்றும்  நன்கு அறியப்பட்ட ஆண் யானை ஆகியவற்றை வைத்து, இது மத்திய மாகாணமான லைக்கிபியாவில் உள்ள 'ஓல் ஜோகி' (Ol Jogi) சரணாலயத்தில் படமாக்கப்பட்டிருக்கலாம் என சுட்டிக்காட்டுகிறது.
-
-...
-
-[Data](articles/64de2b11.json)
-
----
-
-### அத்துரலியே ரத்தன தேரருக்கும் விளக்கமறியல்
-
-*2025-08-29 13:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரருக்கும்-விளக்கமறியல்/175-363715) · `ta`
-
-அவர்  நுகேகொட நீதவான் நீதிமன்றத்தில் ஆஜரான பின்னர் செப்டெம்பர் 12 ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/f8a6faa6.json)
-
----
-
-### දකුණු කොරියානු හිටපු ජනපති බිරිඳට අධිචෝදනා
-
-*2025-08-29 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213928) · `si`
-
-බලයෙන් පහකරන ලද දකුණු කොරියානු හිටපු ජනාධිපති යූන් සුක් යිඕල්ගේ බිරිඳ වන කිම් කියෝන් හී හට අල්ලස් ලබාගැනීම ඇතුළු දූෂණ අක්‍රමිකතා සිද්ධීන් කිහිපයකට අදාළව අධිචෝදනා ගොනුකර තිබේ.
-
-දකුණු කොරියාවේ හිටපු ජනපති බිරිඳක් අල්ලස් චෝදනා ලැබූ පළමු අවස්ථාව මෙය බව විදෙස් වාර්තා සඳහන් කරයි.
-
-කොටස් වෙළඳපොළ මූල්‍ය වංචා හා දේශපාලන අරමුදල් වංචා කිරීම් මෙන්ම විවිධ පුද්ගලයින්ගෙන් අල්ලස් ලබාගැනීම සම්බන්ධයෙන් මෙලෙස අධිචෝදනා ගොනුකර ඇත.
-
-රට තුළ යුද නීතිය ප්‍රකාශයට පත්කිරීමේ අසාර්ථක උත්සහයෙන් පසුව ඇතිවූ කලහකාරී වාතාවරණය මත හිටපු ජනාධිපති යූන් සුක් යිඕල් ධුරයෙන් පහ කෙරුණු අතර එම සිද්ධියට අදාළව ඔහුට එරෙහි නඩු විභාගය ද මේ වන විට සිදුවෙමින් පවතී.
-
-තවද, එම සිදුවීමට ආධාර අනුබල ලබාදීම සම්බන්ධයෙන් දකුණු කොරියානු හිටපු අග්‍රාමාත්‍ය හැන් ඩුක්-සූ හට ද අධිචෝදනා ගොනුකර ඇති බව විදෙස් මාධ්‍ය වාර්තාවේ වැඩිදුර දැක්වේ.
-
-◼️
-
-[Data](articles/3c924ac0.json)
-
----
-
-### බ්‍රැඩ්මන්ගේ ටෙස්ට් තොප්පියක් රු. ලක්ෂ 860ට අලෙවි වෙයි
-
-*2025-08-29 13:33:00* · [`adalk`](https://www.ada.lk/uncategorized/බ්‍රැඩ්මන්ගේ-ටෙස්ට්-තොප්පියක්-රු--ලක්ෂ-860ට-අලෙවි-වෙයි/1-418149) · `si`
-
-1946-47 අළු බඳුන තරගාවලියේදී ශ්‍රීමත් ඩොනල්ඩ් බ්‍රැඩ්මන් විසින් පැළඳ සිටි තොප්පියක් ඕස්ට්‍රේලියානු ජාතික කෞතුකාගාරය විසින් ඕස්ට්‍රේලියානු ඩොලර් 438,500 කට (ආසන්න වශයෙන් ඇමරිකානු ඩොලර් 286,700 / රුපියල් ලක්ෂ 860කට) මිලදී ගෙන ඇත.
-
-මෙම කොළ පැහැති තොප්පිය කැන්බරා කෞතුකාගාරය විසින් අත්පත් කර ගන්නා ලද අතර, එහි වියදමෙන් අඩක් ෆෙඩරල් රජය විසින් දරන ලදී.
-
-දෙවන ලෝක යුද්ධයෙන් පසු එංගලන්තයට එරෙහිව ක්‍රීඩා කළ පළමු අවස්ථාව වූ 1946-47 තරඟාවලියේදී ඕස්ට්‍රේලියාව කණ්ඩායමට නායකත්වය ලබාදුන්නේ බ්‍රැඩ්මන් විසින් වන අතර එම තරගාවලියේදි‍ බ්‍රැඩ්මන් මෙම තොප්පිය පැළඳ සිටියේය. මෙම තරගාවලිය ඕස්ට්‍රේලියාව3-0 ලෙස ජයග්‍රහණය කළේය.
-
-◼️
-
-[Data](articles/89d5acb2.json)
-
----
-
-### Sri Lanka’s SEC defers Softlogic trading suspension
-
-*2025-08-29 13:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-sec-defers-softlogic-trading-suspension-238659/) · `en`
-
-ECONOMYNEXT – Softlogic Holdings said trading of its shares will continue uninterrupted from September 1, following a deferment of the suspension granted by the Securities & Exchange Commission of Sri Lanka.
-
-The SEC has granted deferment of the trading suspension of Softlogic Holdings securities until November 30.
-
-The securities were transferred to the watch list on November 2023 and April 2024, due to “the emphasis of matter on going concern” contained in the Independent Auditor’s Reports for the financial years ended March 2022 and March 2023 respectively, the company said in a stock exchange filing.
-
-The stock was trading up 10 cents at 7.20 rupees. (Colombo/Aug29/2025)
-
-◼️
-
-[Data](articles/382c08f9.json)
 
 ---

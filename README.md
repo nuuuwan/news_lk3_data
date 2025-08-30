@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 17:52:32**
+As of **2025-08-30 18:09:52**
 
 ## Newspaper Stats
 
@@ -57,6 +57,8 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-08-30 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213968) · `si`
 
 අනතුරින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇතැයිද තවත් පුද්ගලයින් 57 දෙනෙකු තුවාල ලබා ඇතැයි ද වාර්තා වේ.
+
+එලෙස මියගොස් ඇත්තේ, 74 හැවිරිදි වැලිමඩ ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකි.
 
 තුවාලකරුවන් මේ වන විට කඩිනමින් රෝහල්ගත කිරීමට පියවර ගනිමින් සිටින බවද සඳහන් වේ.
 

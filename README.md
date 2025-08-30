@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 08:50:06**
+As of **2025-08-30 09:09:37**
 
 ## Newspaper Stats
 
-*Scraped **73,175** Articles*
+*Scraped **73,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,497
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,045
-adaderanalk | 9,290
+adaderanalk | 9,292
 tamilmirrorlk | 10,869
 virakesarilk | 12,006
 adaderanasinhalalk | 12,681
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,175 articles have been extended.
+61,973 (84.7%) of 73,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/903f4850.json)
+
+---
+
+### Wife and child of ‘Backhoe Saman’ arrested on arrival at BIA
+
+*2025-08-30 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111994/wife-and-child-of-backhoe-saman-arrested-on-arrival-at-bia) · `en`
+
+The wife and child of underworld figure ‘Backhoe Saman’, who was recently arrested in Indonesia, were taken into custody by Sri Lanka’s Criminal Investigation Department (CID) upon their arrival at Bandaranaike International Airport (BIA) yesterday (29).
+
+The duo had been deported from Indonesia and arrived in Sri Lanka at around 5:50 p.m. on SriLankan Airlines flight UL-365 from Jakarta.
+
+The CID Airport Unit immediately detained them and, after recording preliminary statements, handed them over to the CID headquarters in Colombo for further investigations.
+
+Earlier, Indonesian authorities arrested Kehelbaddara Padme—a key associate of Backhoe Saman—along with several members of an organized criminal syndicate in Jakarta.
+
+During that raid, Backhoe Saman’s wife and small child were also taken into custody.
+
+However, as no serious criminal charges were filed against the woman, Indonesian authorities decided to deport her and the child to Sri Lanka.
+
+◼️
+
+[Data](articles/3e105abf.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-08-30 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111993/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department states that several spells of showers will occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva Province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Strong winds of about 40-50 kmph can be expected at times over the western slopes of the central hills and in Northern, North-Central and North-Western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds, the Met. Department said.
+
+The sun is going to be directly over the latitudes of Sri Lanka from the 28th of August to the 7th of September due to its apparent southward relative motion.
+
+The nearest places in Sri Lanka over which the sun is overhead today (30) are Vankalei, Omanthai, Vedamakilankulam, Kelabogaswewa and Thiriyaya at about 12.11 noon, it added.
+
+◼️
+
+[Data](articles/f052fafb.json)
 
 ---
 
@@ -1727,39 +1771,5 @@ This paper examines the psychological, medical, and social struggles faced by tr
 ...
 
 [Data](articles/9c632012.json)
-
----
-
-### ஹட்டனில் பல கோடி மோசடி: பொலிஸார் அதிரடி அறிவிப்பு
-
-*2025-08-29 15:00:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-பல-கோடி-மோசடி-பொலிஸார்-அதிரடி-அறிவிப்பு/76-363719) · `ta`
-
-வெளிநாட்டு வேலை வாங்கித் தருவதாகக் கூறி பணத்தை மோசடி செய்ததாக ஹட்டன் சிறப்பு குற்றப் புலனாய்வுப் பிரிவிற்கு கிடைத்த புகாரைத் தொடர்ந்து,   சந்தேக நபர் 27.08.2025 அன்று ஹட்டன் பகுதியில் கைது செய்யப்பட்டார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கதுருவெல பகுதியைச் சேர்ந்த 41 வயதானவர் ஆவார்.
-
-இதுவரை நடத்தப்பட்ட விசாரணையில், இந்த சந்தேக நபர் அஜர்பைஜானில் வேலை வாங்கித் தருவதாகக் கூறி ரூ.1.2 மில்லியன் மோசடி செய்துள்ளதாகவும், பல்வேறு பகுதிகளில் சமூக சேவைப் பணிகளைச் செய்து வரும் நபர்களைத் தொடர்பு கொண்டு அந்த நபர்களின் பெயர்களில் கணக்குகளைத் தொடங்கி, சமூக ஆர்வலர்கள் மூலம் அந்தக் கணக்குகளில் பணத்தை வரவு வைத்து, அதனை மோசடி செய்துள்ளதாகவும் தெரியவந்துள்ளது.
-
-இதுவரை நடத்தப்பட்ட விசாரணையில், இந்த சந்தேக நபர் ஹட்டன் காவல் பிரிவில் மட்டும் சுமார் ரூ.2.5 மில்லியன் மோசடி செய்துள்ளதாகவும், நாட்டின் பல்வேறு பகுதிகளிலும் இதேபோன்ற மோசடிகள் நடந்துள்ளதாகவும் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/c2530025.json)
-
----
-
-### Thai court removes Prime Minister Paetongtarn Shinawatra from office
-
-*2025-08-29 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111982/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office) · `en`
-
-Thailand’s Constitutional Court on Friday dismissed Paetongtarn Shinawatra from her position as prime minister, ruling that as the country’s leader she violated constitutional rules on ethics in a phone call with Cambodia’s Senate President Hun Sen.
-
-The ruling means she immediately loses her job, which she had held for about a year. Paetongtarn was suspended from her duties on July 1 when the court agreed to hear the case against her, and Deputy Prime Minister Phumtham Wechayachai took over her responsibilities.
-
-Paetongtarn’s leaked June 15 call with Hun Sen was aimed at easing tensions over competing claims to territory along their border, but sparked outrage in Thailand because Paetongtarn seemed overly friendly in discussing a matter of national security and appeared to malign a Thai army general.
-
-...
-
-[Data](articles/fdd3fbe3.json)
 
 ---

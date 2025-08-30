@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 17:32:32**
+As of **2025-08-30 17:52:32**
 
 ## Newspaper Stats
 
-*Scraped **73,208** Articles*
+*Scraped **73,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 750
-economynextcom | 4,464
+economynextcom | 4,465
 islandlk | 4,498
 dailymirrorlk | 4,733
 dailyftlk | 5,182
@@ -20,17 +20,37 @@ adalk | 7,047
 adaderanalk | 9,304
 tamilmirrorlk | 10,870
 virakesarilk | 12,007
-adaderanasinhalalk | 12,695
+adaderanasinhalalk | 12,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.7%) of 73,208 articles have been extended.
+61,973 (84.7%) of 73,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### ගත වූ මාස 8ට ලොව පුරා කොලරා රෝගීන් ලක්ෂ 04ක්
+
+*2025-08-30 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213969) · `si`
+
+වසරේ මේ දක්වා ගත වු කාලසීමාව තුළ ලොව පුරා කොලරා රෝගීන් ලක්ෂ 04කට ආසන්න සංඛ්‍යාවක් වාර්තා වී ඇති බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
+
+එම සංවිධානය සඳහන් කළේ ගෝලීය වශයෙන් කොලරා රෝගය පැතිරීම මේ වන විට උත්සන්න වෙමින් පවතින බවය.
+
+ඒ අනුව කොලරා රෝගයෙන් බලපෑමට ලක්වු රටවල් 31ක රෝගීන් ලක්ෂ 04කට වැඩි ප්‍රමාණයක් මේ වසරේදී හදුනාගෙන ඇති බව ලෝක සෞඛ්‍ය සංවිධානය වැඩිදුරටත් පවසා සිටියේය.
+
+මීට පෙර කොලරා රෝගීන් වාර්තා නොවු කොංගෝ සහ චැඩ් යන රටවලින් ද එම රෝගීන් වාර්තා වීමක් මේ වන විට දක්නට ලැබෙන බවද වාර්තා වේ.
+
+එමෙන්ම ලෝක සෞඛ්‍ය සංවිධානය අනතුරු අඟවන්නේ කොලරා රෝගයෙන් සිදුවන මරණ සංඛ්‍යාව ද සියයට7.7කින් ඉහළ ගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/24eeb0bb.json)
+
+---
 
 ### පොතුවිල් හිදි බස් රථයක් පෙරළී අයෙකු මරුට - 57ක් රෝහලට
 
@@ -477,6 +497,26 @@ Further elaborating, the Minister explained that this initiative is being implem
 ...
 
 [Data](articles/bb8f2ca5.json)
+
+---
+
+### Sri Lanka Customs detain another 1,000 BYD EVs in motor capacity dispute
+
+*2025-08-30 10:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-detain-another-1000-byd-evs-in-motor-capacity-dispute-238477/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs has detained about 1,000 more Chinese-made BYD electric vehicles arriving on the island over the declaration of motor capacity which is used to calculate taxes, official sources said.
+
+Customs released the first 1,000 detained BYD electric vehicles amid a court case, with the importer giving a bank guarantee until the matter is resolved.
+
+“Another 1,000 BYD vehicles have now been detained. This time it is not only Atto 3 models, but Atto 1, Atto 2, and Dolphin models are included,” a source who is aware of the Customs’ decision told EconomyNext.
+
+The first detentions involved Atto 3 BYD vehicles with a declared motor of 100 kiloWatts following a complaint that the cars are usually produced with a 150kW motor, which attracts a higher rate of duty in Sri Lanka.
+
+The excise for a 100 KW motor vehicle is 2.4 million rupees, but this rises to about 5.4 million rupees for a 150 KW vehicle.
+
+...
+
+[Data](articles/6ba3a9a3.json)
 
 ---
 
@@ -1795,41 +1835,5 @@ During the meeting, Birla underscored Sri Lanka’s significance in India’s Ne
 ◼️
 
 [Data](articles/4bdf9672.json)
-
----
-
-### ක්ලබ් වසන්ත ඝාතන සිද්ධියට අදාළ ටැටු මධ්‍යස්ථානයේ හිමිකරුට ඇප
-
-*2025-08-29 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213938) · `si`
-
-අතුරුගිරිය ටැටූ මධ්‍යස්ථානයක් තුළදී ව්‍යාපාරික සුරේන්ද්‍ර වසන්ත පෙරේරා නොහොත් ක්ලබ් වසන්ත යන අය වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් චෝදනා ලැබූ ටැටූ මධ්‍යස්ථානයේ හිමිකරු ඇප මත මුදා හරින ලෙස හෝමාගම මහාධිකරණය නියෝග කර තිබේ.
-
-මෙලෙස ඇප මත මුදා හැර ඇත්තේ එම ටැටු මධ්‍යස්ථානයේ හිමිකරු වූ දුලාන් සංජුල නොහොත් ටැටූ මල්ලි නැමැත්තෙකි.
-
-ඒ අනුව ඔහු රුපියල් 150,000ක මුදල් ඇපයක් සහ 250,000 ක ශරීර ඇප දෙකක් මත මුදා හරින ලෙස හෝමාගම හෝමාගම මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (29) නියෝග කළේය.
-
-තවද මෙම ඝාතන සිදුවීම සම්බන්ධයෙන් ඊට ආදාර අනුබල දීමේ චෝදනාව මත රක්ෂිත බන්ධනාගාරගත කර සිටි තවත් සැකකරුවන් අදාළ ඇප කොන්දේසි මතම මුදා හැරීමටද විනිසුරුවරයා නියෝග කළේය.
-
-◼️
-
-[Data](articles/2b927126.json)
-
----
-
-### Sri Lanka was stabilized after crisis under old monetary law: CB Governor
-
-*2025-08-29 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-stabilized-after-crisis-under-old-monetary-law-cb-governor-238673/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s stabilization measures were taken under an older monetary law, before new legislation with greater Central Bank independence was enacted, said Governor Nandalal Weerasinghe, who hiked rates, operated deflationary policy and also appreciated a collapsed currency.
-
-Sri Lanka enacted a new Central Bank Act (CBA) in September 2023, which aimed at providing more independence to the agency, in the hope it will help maintain stability, replacing a Monetary Law Act (MLA) dating back to 1949.
-
-“Notably, replacing the MLA with the new CBA enshrined greater independence and accountability in the new legislation,” Governor Weerasinghe said delivering an oration marking 75 years of the agency.
-
-“However, since the CBA was enacted only in September 2023, most stabilisation measures had to be executed under the MLA.
-
-...
-
-[Data](articles/3cb887de.json)
 
 ---

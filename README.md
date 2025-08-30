@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-30 20:32:18**
+As of **2025-08-30 20:48:30**
 
 ## Newspaper Stats
 
-*Scraped **73,220** Articles*
+*Scraped **73,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,049
 adaderanalk | 9,306
-tamilmirrorlk | 10,871
+tamilmirrorlk | 10,872
 virakesarilk | 12,007
 adaderanasinhalalk | 12,701
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,701
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,220 articles have been extended.
+61,973 (84.6%) of 73,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-30 (Saturday)
+
+### கெஹல்பத்தர பத்மே மற்றும் நான்கு சந்தேக நபர்களும் அழைத்து வரப்பட்டனர்
+
+*2025-08-30 20:13:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹல்பத்தர-பத்மே-மற்றும்-நான்கு-சந்தேக-நபர்களும்-அழைத்து-வரப்பட்டனர்/175-363765) · `ta`
+
+இந்தோனேசியாவின் ஜகார்த்தாவில் கைது செய்யப்பட்ட பாதாள உலகக் குழுத் தலைவர் கெஹல்பத்தர பத்மே மற்றும் நான்கு சந்தேக நபர்களை ஏற்றிச் சென்ற விமானம் சிறிது நேரத்திற்கு முன்பு கட்டுநாயக்க சர்வதேச விமான நிலையத்தை வந்தடைந்தது.
+
+பல மணி நேர தாமதத்திற்குப் பிறகு இன்று (30) பிற்பகல் 3.30 மணியளவில் ஜகார்த்தாவிலிருந்து புறப்பட்ட ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானம் UL 365, சுமார் 7.20 மணியளவில் விமான நிலையத்தில் தரையிறங்கியது. கட்டுநாயக்க விமான நிலையத்திற்கு உள்ளேயும் வெளியேயும் பலத்த பாதுகாப்பு போடப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/6aae7e0f.json)
+
+---
 
 ### අතුරුදන්වූවන් වෙනුවෙන් දැවැන්ත පාගමනක්
 
@@ -1847,23 +1861,5 @@ Ranil’s arrest has done what years of backroom deals could not—it has united
 ...
 
 [Data](articles/302a671b.json)
-
----
-
-### Woman and child nabbed with underworld figures in Indonesia repatriated
-
-*2025-08-29 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/111989/woman-and-child-nabbed-with-underworld-figures-in-indonesia-repatriated) · `en`
-
-The woman and the small child who were arrested along with several most-wanted Sri Lankan underworld criminal figures, including ‘Kehelbaddara’ Padme, while in Indonesia, have been were brought to the island this evening (29).
-
-It is reported that they had arrived in the country at around 5.50 pm today on flight UL-365 from Jakarta, Indonesia.
-
-Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, and gang members known by the aliases ‘Commando Salintha’, ‘Backhoe Saman’, ‘Thembili Lahiru’ and Kudu Nilantha, were arrested in Jakarta recently, and a woman and a small child who were with them were also taken into custody.
-
-However, it is said that Indonesian authorities have deported the woman and child back to the island since no serious criminal charges have been filed against the woman.
-
-◼️
-
-[Data](articles/08094ffc.json)
 
 ---

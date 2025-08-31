@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 03:49:18**
+As of **2025-09-01 04:07:30**
 
 ## Newspaper Stats
 
-*Scraped **73,369** Articles*
+*Scraped **73,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 752
 economynextcom | 4,469
 islandlk | 4,513
 dailymirrorlk | 4,733
-dailyftlk | 5,185
+dailyftlk | 5,186
 adalk | 7,065
 adaderanalk | 9,339
 tamilmirrorlk | 10,894
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,369 articles have been extended.
+61,973 (84.5%) of 73,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### Sri Lanka’s Colombo Consumer Price Index based inflation back in positive territory
+
+*2025-09-01 03:41:48* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-Colombo-Consumer-Price-Index-based-inflation-back-in-positive-territory/4-781026) · `en`
+
+Headline inflation, as measured by the Colombo Consumer Price Index (CCPI), returned to positive territory in August 2025, recording 1.2% (YoY) (Figure 1). This marks the end of a deflationary phase that lasted nearly a year. CCPI based headline inflation slipped into negative territory in September 2024 and remained negative for 11 consecutive months. The lowest point was reached in February 2025, recording a deflation of 4.2%. The deflationary trend gradually eased from March 2025 onward, culminating in a turnaround by August 2025 with headline inflation reaching positive levels.
+
+...
+
+[Data](articles/f8ca0f52.json)
+
+---
 
 ### The clock is ticking for Europe’s chemical industry
 
@@ -1833,23 +1845,5 @@ Deputy Minister Ruwan Senarath stated: “To implement development projects at t
 ◼️
 
 [Data](articles/d8e44e1f.json)
-
----
-
-### Arab-Islamic ministerial committee urges U.S. to reverse visa ban on Palestinian officials
-
-*2025-08-31 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112021/arab-islamic-ministerial-committee-urges-us-to-reverse-visa-ban-on-palestinian-officials) · `en`
-
-The Ministerial Committee formed by the Joint Arab-Islamic Extraordinary Summit on Gaza on Saturday urged the U.S. administration to “reconsider and reverse” its decision not to grant visas to the Palestinian delegation for the upcoming UN General Assembly (UNGA).
-
-In a statement issued after its meeting in Amman, the committee voiced its “deep regret” at Washington’s decision, and stressed that the move contradicts obligations under the UN Headquarters Agreement, which guarantees the rights of Palestine, a UN permanent observer state, to participate in UN activities, according to a post published by Jordan’s Foreign Ministry on Facebook.
-
-The decision also undermines opportunities for dialogue and diplomacy, according to the post.
-
-The committee warned that “weakening the Palestinian Authority (PA) will undermine peace efforts in the face of escalation, the spread of violence and continuation of the conflict,” according to the post.
-
-...
-
-[Data](articles/864eec6e.json)
 
 ---

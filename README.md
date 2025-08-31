@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 12:49:43**
+As of **2025-08-31 13:06:30**
 
 ## Newspaper Stats
 
-*Scraped **73,301** Articles*
+*Scraped **73,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,057
 adaderanalk | 9,323
-tamilmirrorlk | 10,890
+tamilmirrorlk | 10,891
 virakesarilk | 12,014
-adaderanasinhalalk | 12,714
+adaderanasinhalalk | 12,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,301 articles have been extended.
+61,973 (84.5%) of 73,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### கள்ளக்காதலிக்கு கண்களை  மூடிக்கொண்டு செலவழிப்பு
+
+*2025-08-31 12:53:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கள்ளக்காதலிக்கு-கண்களை-மூடிக்கொண்டு-செலவழிப்பு/76-363789) · `ta`
+
+நாவலப்பிட்டி அங்காடி வளாகத்தின் இரண்டாவது மாடியில் உள்ள தங்கக் கடை மற்றும் தங்க அடகு கடைக்குள் புகுந்து 3.5 மில்லியன் ரூபாய்க்கு மேல் மதிப்புள்ள தங்க ஆபரணங்கள் மற்றும் உபகரணங்களைத் திருடிய சந்தேக நபர் கைது செய்யப்பட்டதாக நாவலப்பிட்டி பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கஹடகஸ்திகிலிய பொலிஸ் பிரிவில் பதிவு செய்யப்பட்ட குற்றவாளிகள் பட்டியலில் உள்ளார்.
+
+நாவலப்பிட்டி பகுதியில் உள்ள ஒரு பிரபலமான பூக்கடையில் ஓட்டுநராகப் பணியாற்றிய சந்தேக நபர், போதைப்பொருள் மற்றும் பந்தயத்திற்கு அடிமையானவர் என்று கூறப்படுகிறது.
+
+நிகினி போயா தினத்தின் அதிகாலையில், சந்தேக நபர் சம்பந்தப்பட்ட தங்கக் கடைக்குள் நுழைந்து தங்க நகைகள், நவீன மொபைல் போன், மடிக்கணினி கணினி மற்றும் கிட்டத்தட்ட 3.5 மில்லியன் ரூபாய் மதிப்புள்ள மின்னணு பொருட்களைத் திருடினார்.
+
+...
+
+[Data](articles/7fe043e4.json)
+
+---
+
+### දෙවන එක්දින තරගයේ කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2025-08-31 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213988) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර දෙවන සහ අවසන් එක්දින තරගයේ කාසිවේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකාව සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/3e98001d.json)
+
+---
 
 ### நீதி வேண்டி பிரித்தானியாவில் ஆர்ப்பாட்டம்
 
@@ -1777,39 +1807,5 @@ Who truly commands the foundations of the 21st-century economy? Which states pos
 ...
 
 [Data](articles/bc470dbb.json)
-
----
-
-### “Reflections on the Life and Times of Lakshman Kadirgamar on  the 20th Anniversary of His Death”
-
-*2025-08-30 13:36:00* · [`islandlk`](http://island.lk/reflections-on-the-life-and-times-of-lakshman-kadirgamar-on-the-20th-anniversary-of-his-death-2/) · `en`
-
-(Part one of this article appeared in The Sunday Island on 17 August 2025)
-
-On becoming prime minister in February 2002, Ranil Wickremesinghe entered into a Ceasefire Agreement (CFA) with the Liberation Tigers of Tamil Eelam (LTTE). The CFA was brokered by the Norwegians, who were at the time involved in Sri Lanka’s peace process, and Wickremesinghe presented his cabinet and his president with a fait accompli. Although initially Kadirgamar’s statement in Parliament in 2002 in response to that of the prime minister reflected a refreshing degree of constructive cooperation, a little over a year later in a speech in Parliament on 8 May, 2003, doubtless on the authority of President Kumaratunga and the Parliamentary Group of the People’s Alliance, Kadirgamar attacked the CFA arguing that it was ‘a structurally flawed document’.
-
-...
-
-[Data](articles/d603e212.json)
-
----
-
-### ජනපති මන්දිර සංචාරක නිකේතන කිරීමට ජනපතිගෙන් ව්‍යාපාරිකයින්ට ඇරයුම්
-
-*2025-08-30 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213959) · `si`
-
-සංචාරක කලාපවල පිහිටි ජනාධිපති මන්දිර සංචාරක නිවාඩු නිකේතන බවට පත් කිරීමට ආයෝජනය කරන්නැයි ජනාධිපති අනුර කුමාර දිසානායක මහතා ව්‍යාපාරිකයින්ට ආරාධනා කරයි.
-
-ජනාධිපති කාර්යාලයේ පැවති පූර්ව අයවැය සාකච්ඡාවකදි ජනාධිපතිවරයා මේ බව ප්‍රකාශ කළේය.
-
-සංචාරක ක්ෂේත්‍රයේ, පෞද්ගලික අංශයේ පාර්ශ්වකරුවන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී ඊයේ පස්වරුවේ පැවැත්වුණි.
-
-2026 වසරේ සංචාරක ක්ෂේත්‍රයේ අපේක්ෂිත ඉලක්ක සපුරා ගැනීමේදී හුදෙක් ප්‍රවර්ධන වැඩසටහන් පමණක් ප්‍රමාණවත් නොවන බවත්, රාජ්‍ය සහ පෞද්ගලික අංශය ඒකාබද්ධ වූ නව උපායමාර්ගික වැඩසටහනක් ක්‍රියාවට නැංවිය යුතු බවත් ජනාධිපතිවරයා මෙහිදී පෙන්වා දුනි.
-
-නුවරඑළිය, අනුරාධපුර, මහියංගණය සහ කතරගම ආදී ප්‍රදේශවල පිහිටි ජනාධිපති මන්දිර සහ අමාත්‍යවරුන්ගේ නිල නිවාස දෙස්විදෙස් සංචාරකයන් ඉලක්ක කර ගනිමින් සුවපහසු නිවාඩු නිකේතන ලෙස සංවර්ධනය කිරීමට ආයෝජනය කරන ලෙස මෙහිදී ව්‍යාපාරිකයන්ට ආරාධනා කළ ජනාධිපතිවරයා ඒ වෙනුවෙන් විධිමත් වැඩපිළිවෙළක් නුදුරේදීම ක්‍රියාවට නංවන බව ද ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/8b98ab87.json)
 
 ---

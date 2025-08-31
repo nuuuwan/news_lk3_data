@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 03:06:24**
+As of **2025-09-01 03:17:57**
 
 ## Newspaper Stats
 
-*Scraped **73,366** Articles*
+*Scraped **73,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 752
 economynextcom | 4,469
 islandlk | 4,513
 dailymirrorlk | 4,733
-dailyftlk | 5,182
+dailyftlk | 5,183
 adalk | 7,065
 adaderanalk | 9,339
 tamilmirrorlk | 10,894
@@ -26,9 +26,27 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,366 articles have been extended.
+61,973 (84.5%) of 73,367 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-01 (Monday)
+
+### Rule of law in taxation: Rights before revenue – Part 3
+
+*2025-09-01 02:56:14* · [`dailyftlk`](https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-3/4-781016) · `en`
+
+Every taxpayer has the right to be treated with respect in all interactions with tax officials
+
+If taxpayer rights are to be meaningful, they must be recognised not as privileges granted at the mercy of officials, but as enforceable guarantees safeguarded by the law. This requires not only enlightened leadership at the top but also vigilance by civil society, tax professionals, and taxpayers themselves. Silence and indifference in the face of corruption and abuse only deepen the culture of impunity
+
+Parts 1 and 2 of this article highlighted two fundamental rights of taxpayers: the Right to Know the Legal Basis for Taxation, and the Right to Know the Reasons for an Amended or Additional Assessment.
+
+...
+
+[Data](articles/820ad2f7.json)
+
+---
 
 ### 2025-08-31 (Sunday)
 
@@ -1843,29 +1861,5 @@ The gross street value of the stock of Kerala cannabis held in these operations 
 ...
 
 [Data](articles/f9c121ea.json)
-
----
-
-### ශ්‍රී ලංකා - සිම්බාබ්වේ අවසන් එක්දින තරගය අද
-
-*2025-08-31 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213982) · `si`
-
-සංචාරක ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර දෙවන සහ අවසන් එක්දින ක්‍රිකට් තරගය අද (31) පැවැත්වේ.
-
-හරාරේ ක්‍රීඩාංගණයේ පැවැත්වෙන මෙම තරගය මෙරට වේලාවෙන් ප.ව. 1ට ආරම්භවීමට නියමිතය.
-
-ශ්‍රී ලංකා - සිම්බාබ්වේ තරග 2කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය ලකුණු 7කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
-
-ඒ අනුව මේ වනවිට 1ට බින්දුවක් ලෙස ශ්‍රී ලංකා කණ්ඩායම මෙම තරගාවලියේ පෙරමුණ ගෙන සිටී.
-
-ශ්‍රී ලංකා කණ්ඩාය අද තරගයට පිවිසින්නේ දෙවැනි තරගයත් ජයගෙන එක්දින තරගාවලිය තරග 2ට 0ක් ලෙස ජය ගැනීමේ අරමුණ ඇතිවය.
-
-කෙසේ වෙතත් පළමු එක්දින තරගයේදී ආබාධයකට ලක් වු නිෂාන් මදුෂ්ක වෙනුවට නුවනිඳු ප්‍රනාන්දු අද තරගය සඳහා එක්වීමට වැඩි ඉඩකඩක් ඇති බව ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ පිතිකරණ පුහුණුකරු තිළිණ කණ්ඩම්බි අද දෙරණ සමගින් පවසා සිටියේය.
-
-දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ ක්‍රීඩාංගණයේදීම පැවැත්වීමට නියමිතය.
-
-◼️
-
-[Data](articles/202e8e8c.json)
 
 ---

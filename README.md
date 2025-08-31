@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 13:51:13**
+As of **2025-08-31 14:08:23**
 
 ## Newspaper Stats
 
-*Scraped **73,310** Articles*
+*Scraped **73,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,059
 adaderanalk | 9,326
 tamilmirrorlk | 10,891
 virakesarilk | 12,014
-adaderanasinhalalk | 12,717
+adaderanasinhalalk | 12,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,310 articles have been extended.
+61,973 (84.5%) of 73,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ICCයෙන් දඩයක්
+
+*2025-08-31 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213991) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට දඩයක් නියම කළ බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද (31) නිවේදනය කළේය.
+
+ඒ, ශ්‍රී ලංකාව සහ සිම්බාබ්වේ කණ්ඩායම අතර පැවති පළමු එක්දින තරගයේදී නියමිත කාලය තුළ පන්දුවාර සංඛ්‍යාව යවා නොතිබීම හේතුවෙනි.
+
+ඒ අනුව තරග ගාස්තුවෙන් සියයට පහක දඩයක් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මෙලෙස නියම කර තිබේ.
+
+ක්‍රීඩකයින් සහ ක්‍රීඩක සහායක පිරිස් සඳහා වන ICC චර්යාධර්ම සංග්‍රහයේ 2.22 වගන්තියට අනුව මෙම දඩයක් නියම කර ඇත.
+
+නායක චරිත් අසලංක වරදට වරද පිළිගෙන ඇති අතර යෝජිත දඬුවම පිළිගෙන ඇති බැවින් විධිමත් විභාගයක් සිදු නොවූ බව ICC නිවේදනයක් නිකුත් කරමින් කියා සිටියේය.
+
+◼️
+
+[Data](articles/16468af5.json)
+
+---
 
 ### හිටපු ජනාධිපති ලේකම් සමන් ඒකනායකට යළි CIDයෙන් කැඳවීමක්
 
@@ -1799,21 +1819,5 @@ Intrepid Travel is celebrating the recognition of Poornaka Delpachitra, Country 
 ...
 
 [Data](articles/fdda7715.json)
-
----
-
-### BOI seals landmark US$ 171 Mn. investment with CEAT OHT Lanka
-
-*2025-08-30 15:26:00* · [`islandlk`](http://island.lk/boi-seals-landmark-us-171-mn-investment-with-ceat-oht-lanka/) · `en`
-
-In a landmark development for Sri Lanka’s manufacturing and export sector, CEAT OHT Lanka (Private) Limited has signed an agreement with the Board of Investment of Sri Lanka (BOI) to formalise a US$ 171 million investment, one of the largest recent investments from India into the country.
-
-This investment follows CEAT Ltd.’s acquisition of Michelin Group’s Construction Compact Line Business, including their Sri Lanka-based Midigama plant and Casting Product plant in Kotugoda. The transaction gives CEAT global ownership of the Camso brand, which will be permanently assigned across categories after a three-year licensing period. The acquisition closing process is ongoing.
-
-The agreement strengthens Sri Lanka’s profile as a global hub for Off-Highway Tyres (OHT), positioning the country as a competitive centre for export-led growth.
-
-...
-
-[Data](articles/17694737.json)
 
 ---

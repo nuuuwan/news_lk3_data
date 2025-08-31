@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 10:49:51**
+As of **2025-08-31 11:07:15**
 
 ## Newspaper Stats
 
-*Scraped **73,279** Articles*
+*Scraped **73,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,465
 islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
-adalk | 7,055
+adalk | 7,056
 adaderanalk | 9,319
-tamilmirrorlk | 10,881
+tamilmirrorlk | 10,883
 virakesarilk | 12,010
 adaderanasinhalalk | 12,711
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,279 articles have been extended.
+61,973 (84.6%) of 73,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### காதலனை ரூ.11 இலட்சத்துக்கு விற்ற காதலி
+
+*2025-08-31 10:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/காதலனை-ரூ-11-இலட்சத்துக்கு-விற்ற-காதலி/53-363776) · `ta`
+
+இளம்பெண் ஒருவர் தன் காதலனை விற்பனை செய்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+சீனாவில் நடந்த இந்தச் சம்பவம் உலகையே அதிர்ச்சியடைய வைத்துள்ளது. வெறும் 17 வயதான ஒரு பெண், தனது காதலனை மோசடி கும்பலிடம் விற்றது மனிதாபிமானமற்ற செயல் என விமர்சிக்கப்படுகிறது.
+
+சீனாவைச் சேர்ந்த ஜோ (17 வயது) என்ற பெண், தன்னுடைய 19 வயது காதலன் ஹுவாங்கிடம் வேலை வாய்ப்பு கிடைக்கச் செய்வதாகக் கூறி, அவரை தாய்லாந்து அழைத்துச் சென்றார். சிறந்த வருமானம் கிடைக்கும் வேலை என்று நம்பிய ஹுவாங்கும், தனது காதலியை நம்பி அந்த நாட்டிற்குச் சென்றார்.
+
+ஆனால், வேலை கொடுக்கப்படும் என்ற பெயரில், ஜோ தனது காதலனை மியான்மரில் இயங்கும் கால்சென்டர் மோசடி கும்பலிடம் ரூ.11 லட்சத்திற்கு விற்றுவிட்டார்.
+
+இந்தக் கும்பல் ஹுவாங்கை கடத்தி வைத்து, தினமும் 20 மணி நேரம் வேலை செய்ய கட்டாயப்படுத்தியது. ஆன்லைன் மோசடி, போலியான முதலீட்டு வலைத்தளங்கள் போன்றவற்றில் மக்கள் ஏமாறச் செய்வது போன்ற சட்டவிரோத பணிகளில் ஈடுபடச் செய்தனர். சுதந்திரம் இன்றி, மனிதாபிமானமற்ற சூழலில் அந்த இளைஞன் கடுமையாக அவதிப்பட்டார்.
+
+...
+
+[Data](articles/ec913349.json)
+
+---
+
+### அறுகம்பேயில் இஸ்ரேலியர்கள் தாக்குதல்: தம்பதிக்கு காயம்
+
+*2025-08-31 10:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பேயில்-இஸ்ரேலியர்கள்-தாக்குதல்-தம்பதிக்கு-காயம்/175-363775) · `ta`
+
+அறுகம்பே விருந்தகமொன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் குற்றச்சாட்டில் இஸ்ரேலிய பிரஜைகள்  இருவர் பொத்துவில் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+
+விருந்தகத்தன் உரிமையாளரும் அவரது மனைவியும் தங்கள் வாகனத்தில் பயணித்தபோது இரண்டு இஸ்ரேலியர்களும் வீதியை வழிமறித்துள்ளனர். இதனால், கடுமையான வாக்குவாதம் ஏற்பட்டது. அதன்பின்னரே, இஸ்ரேலிய பிரஜைகள் இருவரும் அந்த தம்பதியினரை தாக்கியுள்ளனர் என்பது விசாரணைகளில் இருந்து தெரியவந்துள்ளது என பொலிஸார் தெரிவித்தனர். .
+
+◼️
+
+[Data](articles/e802df16.json)
+
+---
 
 ### இந்தோனேசிய அதிகாரிகளுக்கு பாராட்டு
 
@@ -189,6 +223,18 @@ Deputy Minister Ruwan Senarath stated: “To implement development projects at t
 ...
 
 [Data](articles/eddd1321.json)
+
+---
+
+### කොළඹ ට්‍රැෆික් අඩු කරන්න දුර ගමන් සේවා නව සීමිත නැවතුමක්
+
+*2025-08-31 09:13:20* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-ට්‍රැෆික්-අඩු-කරන්න-දුර-ගමන්-සේවා-නව-සීමිත-නැවතුමක්/11-418171) · `si`
+
+ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ බේස්ලයින් පාර ඔරුගොඩවත්ත හන්දිය දෙස සිට ඉංග්‍රම් හන්දිය සක්වා රථ වාහන කොළඹ ඇතුළු වීමේදී ඇතිවන රථ වාහන අවහිරතාවය අවම කර ගැනීම සඳහා දුරගමන් සේවා නව සීමිත නැවතුමක් ස්ථාපිත කර ඇතැයි පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/255174f6.json)
 
 ---
 
@@ -1757,65 +1803,5 @@ The suspect, a 39-year-old resident of Kiriwatthuduwa, is currently in police cu
 ◼️
 
 [Data](articles/a923204c.json)
-
----
-
-### Regulations on CEB voluntary retirement scheme gazetted
-
-*2025-08-30 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/111995/regulations-on-ceb-voluntary-retirement-scheme-gazetted) · `en`
-
-The terms and regulations of the Voluntary Retirement Scheme (VRS) under the Sri Lanka Electricity Act, No. 36 of 2024 have been published through an Extraordinary Gazette notification, issued under the signature of Minister of Energy Kumara Jayakodi.
-
-The regulations, made in line with Paragraph (f) of Subsection (3) of Section 18 of the Act, outline the compensation structure and eligibility criteria for employees of the Ceylon Electricity Board (CEB) opting for voluntary retirement.
-
-• Permanent cadre employees with ten years or more of service will receive:
-
-Two months’ salary for every completed year of past service, and
-
-• Permanent cadre employees with less than ten years of service will receive:
-
-Five months’ salary for every completed year of past service, and
-
-• The compensation is subject to a minimum limit of Rs. 900,000 and a maximum of Rs. 5 million.
-
-• Employees not in the permanent cadre, excluding those on contractual agreements, will be entitled to:
-
-...
-
-[Data](articles/3253fced.json)
-
----
-
-### ’ட்ரம்ப் பிறப்பித்த வரிகள் சட்டவிரோதமானவை’
-
-*2025-08-30 08:32:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-பிறப்பித்த-வரிகள்-சட்டவிரோதமானவை/50-363750) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் பிறப்பித்த பெரும்பாலான வரிகள் சட்டவிரோதமானவை என்று அமெரிக்க மேன்முறையீட்டு நீதிமன்றம் தீர்ப்பளித்துள்ளது.
-
-அவசரக்கால பொருளாதார அதிகாரச் சட்டத்தின் கீழ், இந்த வரிகள் அனுமதிக்கப்பட்டன என்ற ட்ரம்பின் வாதத்தை அமெரிக்கப் பிராந்திய மேன்முறையீட்டு நீதிமன்றம் நிராகரித்துள்ளது. அவை சட்டத்திற்கு முரணானது என்பதால் செல்லாது என்று நீதிமன்றம் கூறியுள்ளது.
-
-எனினும் இந்த தீர்ப்புக்கு ட்ரம்ப் நிர்வாகம் உயர் நீதிமன்றத்தில் சவால் செய்ய முடியும் என்பதற்கு, அவகாசம் அளிக்கும் வகையில் இந்த தீர்ப்பு ஒ க்டோபர் 14 வரை நடைமுறைக்கு வராது என்றும் மேன்முறையீட்டு நீதிமன்றம் அறிவித்துள்ளது.  (a)
-
-◼️
-
-[Data](articles/1b4bb15d.json)
-
----
-
-### නාවින්න වෙඩිතැබීමේ සැකකාර වෙඩික්කරු අත්අඩංගුවට
-
-*2025-08-30 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213953) · `si`
-
-මහරගම නාවින්න හංදිය ආසන්නයේ හයිලෙවල් මාර්ගයේ රැඳී සිටි පුද්ගලයෙකුට යතුරුපැදියකින් පැමිණ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-පොලීසිය පැවසුවේ ලද තොරතුරකට අනුව බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් විසින් කොට්ටාව ප්‍රදේශයේ සිදුකළ වැටලීමකදී සැකකරු අත්අඩංගුවට ගැනීමට හැකිවූ බවය.
-
-පොලීසිය තවදුරටත් සඳහන් කළේ, 2025.08.06 වනදා සිදුකර තිබූ එම වෙඩිතැබීමේ සිද්ධියේ වෙඩික්කරු ලෙස කටයුතු කළ සැකකරු මෙලෙස අත්අඩංගුවට ගෙන ඇති බවත් ය.
-
-සැකකරුගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම්වලට අනුව ඔහුගේ නිවසේ තිබි විදේශීය රටක නිෂ්පාදිත ගිනිඅවියක් සහ බෝර 12 වර්ගයේ උණ්ඩ 03ක් සොයාගත් බවද පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/903f4850.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 11:19:24**
+As of **2025-08-31 11:32:06**
 
 ## Newspaper Stats
 
-*Scraped **73,284** Articles*
+*Scraped **73,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,056
 adaderanalk | 9,319
-tamilmirrorlk | 10,885
+tamilmirrorlk | 10,887
 virakesarilk | 12,010
-adaderanasinhalalk | 12,711
+adaderanasinhalalk | 12,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,284 articles have been extended.
+61,973 (84.6%) of 73,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### වෙන්නප්පුවේ වෙඩි තැබීමකින් අයෙකු මරුට
+
+*2025-08-31 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213986) · `si`
+
+වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී අද (31) පෙරවරු 10.30ට පමණ වෙඩි තැබීමක් සිදුව තිබේ.
+
+මොටර් රථයකින් පැමිණි පිරිසක් විසින් යතුරුපැදියේ ගමන් ගත් පුද්ගලයෙකු අනතුරකට ලක් කර පසුව යතුරුපැදියේ පැමිණි දෙදෙනාට තියුණු ආයුධයකින් පහරදී වෙඩි තබා ඇත.
+
+සිද්ධියෙන් යතුරුපැදියේ පැමිණි එක් අයෙකු තුවාල ලබා පළා ගොස් ඇති අතර අනෙක් පුද්ගලයා වෙඩි වැදීමෙන් ජීවිතක්ෂයට පත්ව තිබේ.
+
+යතුරුපදියෙන් පැමිණි දෙදෙනාගෙන් මිය ගිය තැනැත්තා මහාධිකරණයේ පවතින නඩුවකට අදාළව වෙන්නප්පුව පොලීසියේ අත්සන් කිරීමට පැමිණ ආපසු යමින් සිටි අවස්ථාවේදී මෙම වෙඩි තැබීම සිදුව ඇත.
+
+රිවොල්වර වර්ගයේ ගිනි අවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවද පොලීසිය පවසයි.
+
+2025 සැප්තැම්බර් මස 09 වැනි දින මිය ගිය පුද්ගලයාගේ නඩුව සම්බන්ධව අධිකරණ තීන්දුව ලැබීමට නියමිතව තිබූ බවද පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/cebc8efc.json)
+
+---
+
+### ராகுல் திராவிட் திடீர் விலகல்
+
+*2025-08-31 11:15:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ராகுல்-திராவிட்-திடீர்-விலகல்/44-363780) · `ta`
+
+ராஜஸ்​தான் ராயல்ஸ் அணி​யின் தலைமை பயிற்​சி​யாளர் பதவி​யில் இருந்து ராகுல் திரா​விட் திடீரென விலகி உள்​ளார்.
+
+ஐபிஎல் 2025 சீசனையொட்டி ராஜஸ்​தான் ராயல்ஸ் அணி​யின் தலைமை பயிற்​சி​யாள​ராக ராகுல் திரா​விட் நியமிக்​கப்​பட்​டிருந்​தார். அவர், காலில் காயமடைந்​திருந்த போதி​லும் வீல் சேரில் வந்து அணிக்கு ஆலோ​சனை​கள் வழங்​கி​னார். இந்​நிலை​யில் ராகுல் திரா​விட் ராஜஸ்​தான் ராயல்ஸ் அணி​யின் பயிற்​சி​யாளர் பதவி​யில் இருந்து விலகி உள்​ள​தாக அந்த அணி நிர்​வாகம் தனது எக்ஸ் வலைதள பதி​வில் தெரி​வித்​துள்​ளது.
+
+இதுதொடர்​பாக ராஜஸ்​தான் ராயல்ஸ் அணி தனது எக்ஸ் வலைதள பதி​வில்​"ராகுல் திரா​விட் பல ஆண்​டு​களாகராயல்ஸ் அணி​யின் பயணத்​தில் மைய​மாக இருந்து வரு​கிறார். அவரது தலைமை ஒரு தலை​முறை வீரர்​களிடம் செல்​வாக்கை பெற்​றுள்​ளது, அணிக்​குள் வலு​வான மதிப்​பு​களை விதைத்​துள்​ளது, மேலும் அணி​யின் கலாச்​சா​ரத்​தில் அழி​யாத முத்​திரையை பதித்​துள்​ளது. அணி​யின் கட்​டமைப்​பின் ஒரு பகு​தி​யாக நடை​பெற்ற மதிப்​பாய்​வில் ராகுல் திரா​விட்​டுக்கு பெரிய பதவி வழங்​கப்​பட்​டது, ஆனால் அதை ஏற்​க​வில்​லை.
+
+...
+
+[Data](articles/9bc2a8c8.json)
+
+---
+
+### 7 ஆண்டுகளுக்குப் பின் சீன அதிபரை சந்தித்தார் பிரதமர் மோடி
+
+*2025-08-31 11:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/7-ஆண்டுகளுக்குப்-பின்-சீன-அதிபரை-சந்தித்தார்-பிரதமர்-மோடி/50-363779) · `ta`
+
+ஷங்காய் ஒத்துழைப்பு உச்சிமாநாட்டிற்கு முன்னதாக, சீனாவின் தியான்ஜினில் இந்தியப் பிரதமர் நரேந்திர மோடியும் சீன அதிபர் ஜி ஜின்பிங்கும் இருதரப்பு பேச்சுவார்த்தைகளை நடத்தி வருகின்றனர். அமெரிக்கா விதித்த வரிகள் மற்றும் அமெரிக்காவுடனான சீனாவின் நிலையற்ற உறவுகளுக்கு மத்தியில் இந்த சந்திப்பு நடைபெறுகிறது.
+
+இன்று தொடங்கி இரண்டு நாட்கள் நடைபெறும் தியான்ஜினில் ஷாங்காய் ஒத்துழைப்பு அமைப்பின் (SCO) வருடாந்திர உச்சிமாநாட்டிற்காக பிரதமர் மோடி சனிக்கிழமை சீனாவில் தரையிறங்கினார்.
+
+ஏழு ஆண்டுகளுக்கும் மேலான இடைவெளிக்குப் பிறகும், கால்வான் மோதலுக்குப் பிறகும் அவர் சீனாவிற்கு மேற்கொண்ட முதல் பயணம் இதுவாகும்.
+
+◼️
+
+[Data](articles/2521c5dc.json)
+
+---
 
 ### ஆணுறை அணியாமல்.. விடிய விடிய..
 
@@ -49,6 +103,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3714104a.json)
+
+---
+
+### අමෙරිකානු යුද නෞකාවක් වෙනිසියුලාව ආසන්නයේ ස්ථානගත කරයි
+
+*2025-08-31 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213985) · `si`
+
+දකුණු කැරිබියන් මුහුදේ අමෙරිකානු යුද නෞකාවක් ස්ථානගත කිරීමක් හේතුවෙන් වෙනිසියුලාව තුළ දේශපාලනිකව සහ ජාතික ආරක්ෂාව සම්බන්ධයෙන් මතභේදකාරී තත්ත්වයක් ඇතිවී තිබේ.
+
+ලතින් අමෙරිකානු කලාපය තුළ පවතින මත්ද්‍රව්‍ය ජාලය මැඩපැවැත්වීමට එම නෞකාව ස්ථානගත කළ බව අමෙරිකාව පවසයි.
+
+වෙනිසියුලාවට ඔබ්බෙන් වූ දකුණු කැරිබියන් මුහුදේ අමෙරිකානු යුද නෞකාවක් ස්ථානගත කෙරුණේ ලතින් අමෙරිකානු කලාපය තුළ පවතින මත්ද්‍රව්‍ය ජාලය මැඩපැවැත්වීමට බව පවසමින්ය.
+
+කෙසේවෙතත් අමෙරිකාවේ මෙම ක්‍රියාමාර්ගය වෙනිසියුලාව තුළ දේශපාලනිකව සහ ජාතික ආරක්ෂාව සම්බන්ධයෙන් මතභේදකාරී තත්ත්වයක් ඇති කර තිබේ.
+
+ඒ එම නෞකාව ස්ථානගත කිරීමේ ප්‍රධාන ඉලක්කය වන්නේ වත්මන් වෙනිසියුලානු රජය බවට සැක පල කරමින්ය.
+
+අමෙරිකාව පසුගිය අගෝස්තු මාසයේදී වෙනිසියුලානු ජනාධිපති නිකොලස් මදුරෝ අත්අඩංගුවට ගැනීමට තොරතුරක් දෙන අයෙකුට ලබා දෙන බවට මීට පෙර නිවේදනය කර තිබූ ත්‍යාග මුදල ඩොලර් මිලියන 50 දක්වා ඉහළ දැමුවේය.
+
+ඒ ඔහු මත්ද්‍රව්‍ය ජාවාරමට සහ අපරාධ කල්ලිවලට සම්බන්ධ බවට චෝදනා කරමින්ය.
+
+...
+
+[Data](articles/a40bbd50.json)
 
 ---
 
@@ -1727,85 +1805,5 @@ Abbas’ office said it was astonished by the visa decision and argued that it v
 ...
 
 [Data](articles/5f80f57f.json)
-
----
-
-### Sri Lanka to deploy solar-powered boats to clean Colombo’s Beira Lake
-
-*2025-08-30 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/111999/sri-lanka-to-deploy-solar-powered-boats-to-clean-colombos-beira-lake) · `en`
-
-Sri Lanka will deploy solar-powered electric boats to collect waste from Beira Lake, a man-made lake in the heart of downtown Colombo, said Western Province Governor Hanif Yusoof on Friday.
-
-Yusoof said in a post on X that the first trials of the electric waste-collecting boats have already begun. Each vessel can remove up to 3,000 kg of floating solid waste daily.
-
-According to Yusoof, the government plans to launch up to four boats on Beira Lake as part of broader efforts to restore and revive the lake. The initiative falls under the Clean Sri Lanka program, aimed at addressing persistent pollution issues in the lake.
-
-Beira Lake, a scenic centerpiece of Colombo, has long suffered from pollution.
-
-◼️
-
-[Data](articles/c734daef.json)
-
----
-
-### Gazette on mandatory seat belts for expressway bus passengers to be published tomorrow
-
-*2025-08-30 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/111998/gazette-on-mandatory-seat-belts-for-expressway-bus-passengers-to-be-published-tomorrow) · `en`
-
-A gazette notification containing regulations that make it mandatory for passengers traveling in passenger transport buses on expressways to wear seat belts is scheduled to be issued tomorrow (August 31), said Minister of Transport, Highways, Ports and Civil Aviation and Leader of the House, Bimal Rathnayake.
-
-Minister Rathnayake state this during a recent meeting of the Ministerial Consultative Committee on Transport, Highways, Ports and Civil Aviation, held in Parliament under his chairmanship, the Department of Communication of Parliament said.
-
-Further elaborating, the Minister explained that this initiative is being implemented as a key component of the “Clean Sri Lanka” program. He also noted that a grace period of approximately three months will be given for the installation of seat belts in school transport buses, office transport services, leisure tour buses, and other passenger buses operating on expressways.
-
-...
-
-[Data](articles/bb8f2ca5.json)
-
----
-
-### Sri Lanka Customs detain another 1,000 BYD EVs in motor capacity dispute
-
-*2025-08-30 10:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-detain-another-1000-byd-evs-in-motor-capacity-dispute-238477/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs has detained about 1,000 more Chinese-made BYD electric vehicles arriving on the island over the declaration of motor capacity which is used to calculate taxes, official sources said.
-
-Customs released the first 1,000 detained BYD electric vehicles amid a court case, with the importer giving a bank guarantee until the matter is resolved.
-
-“Another 1,000 BYD vehicles have now been detained. This time it is not only Atto 3 models, but Atto 1, Atto 2, and Dolphin models are included,” a source who is aware of the Customs’ decision told EconomyNext.
-
-The first detentions involved Atto 3 BYD vehicles with a declared motor of 100 kiloWatts following a complaint that the cars are usually produced with a 150kW motor, which attracts a higher rate of duty in Sri Lanka.
-
-The excise for a 100 KW motor vehicle is 2.4 million rupees, but this rises to about 5.4 million rupees for a 150 KW vehicle.
-
-...
-
-[Data](articles/6ba3a9a3.json)
-
----
-
-### ඉන්දුනීසියාව කැලඹෙයි  - විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගනී
-
-*2025-08-30 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213954) · `si`
-
-ඉන්දුනීසියානු රජයට එරෙහිව ඊයේ පැවැති විරෝධතාවයක් ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-පෙරේදා පැවැති විරෝධතාවයක් අතරතුර පොලිස් වාහනයක ගැටී පුද්ගලයෙකු මිය යාමට එරෙහිව ඊයේ මෙම විරෝධතා පවත්වා තිබේ.
-
-ඉන්දුනීසියාව තුළ දේශපාලන සහ ආර්ථික ප්‍රතිසංස්කරණ සිදුකරන ලෙස එරට රජයට බලකරමින් ජකර්තා අගනුවරදී විරෝධතා මාලාවක් පැවැත්වුණේ පසුගිය බ්‍රහස්පතින්දාය.
-
-එම විරෝධතාකරුවන් විසිරුවා හැරීමට කැරලි මර්දන පොලිසිය කටයුතු කරමින් සිටින අතරතුර පොලිස් වාහනයක ගැටී යතුරුපැදිකරුවෙකු මියගොස් තිබුණි.
-
-එම සිදුවීමට විරෝධය පල කරමින් ඊයේ එරට බන්ඩුන්ග් නගරයේදී විරෝධතා පැවැති අතර එම විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබේ.
-
-විරෝධතාකරුවන් ගොඩනැගිලි ගිනි තබමින් සහ දේපළවලට හානි කරමින් විරෝධය පළකර ඇත.
-
-රට තුළ පොලිස් ප්‍රතිසංස්කරණ සිදුකරන ලෙස ද ඔවුන් එහිදි රජයට බලකර තිබේ.
-
-මෙම විරෝධතා හේතුවෙන් අග්නිදිග ආසියාවේ විශාලතම ආර්ථිකය ලෙස සැලකෙන ඉන්දුනීසියාව පිළිබඳව ආයෝජකයින්ගේ විශ්වාසය ද පහත වැටී ඇති බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/82bda7e2.json)
 
 ---

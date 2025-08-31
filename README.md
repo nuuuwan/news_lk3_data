@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 10:32:41**
+As of **2025-08-31 10:49:51**
 
 ## Newspaper Stats
 
-*Scraped **73,278** Articles*
+*Scraped **73,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,055
-adaderanalk | 9,318
+adaderanalk | 9,319
 tamilmirrorlk | 10,881
 virakesarilk | 12,010
 adaderanasinhalalk | 12,711
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,278 articles have been extended.
+61,973 (84.6%) of 73,279 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/71645b6b.json)
+
+---
+
+### Govt to import 2,000 Cabs for heads of state institutions
+
+*2025-08-31 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112022/govt-to-import-2000-cabs-for-heads-of-state-institutions) · `en`
+
+Deputy Minister of Provincial Councils and Local Government Ruwan Senarath has announced that plans are underway to import 2,000 cab vehicles early next year for the use of heads of government institutions.
+
+Providing further clarification, Minister Senarath stated that in order to implement development projects at the grassroots level, it is essential to provide local government heads with the means to reach rural areas.
+
+He further said that several new projects have already been launched by resuming operations at previously inactive local government bodies.
+
+The Deputy Minister added that a number of initiatives have also been introduced with the goal of eliminating rural poverty.
+
+Deputy Minister Ruwan Senarath stated: “To implement development projects at the grassroots level, it is essential—especially for the heads of local government institutions—to have access to rural areas.
+
+...
+
+[Data](articles/e394a552.json)
 
 ---
 
@@ -1797,27 +1817,5 @@ Five months’ salary for every completed year of past service, and
 ◼️
 
 [Data](articles/903f4850.json)
-
----
-
-### Wife and child of ‘Backhoe Saman’ arrested on arrival at BIA
-
-*2025-08-30 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/111994/wife-and-child-of-backhoe-saman-arrested-on-arrival-at-bia) · `en`
-
-The wife and child of underworld figure ‘Backhoe Saman’, who was recently arrested in Indonesia, were taken into custody by Sri Lanka’s Criminal Investigation Department (CID) upon their arrival at Bandaranaike International Airport (BIA) yesterday (29).
-
-The duo had been deported from Indonesia and arrived in Sri Lanka at around 5:50 p.m. on SriLankan Airlines flight UL-365 from Jakarta.
-
-The CID Airport Unit immediately detained them and, after recording preliminary statements, handed them over to the CID headquarters in Colombo for further investigations.
-
-Earlier, Indonesian authorities arrested Kehelbaddara Padme—a key associate of Backhoe Saman—along with several members of an organized criminal syndicate in Jakarta.
-
-During that raid, Backhoe Saman’s wife and small child were also taken into custody.
-
-However, as no serious criminal charges were filed against the woman, Indonesian authorities decided to deport her and the child to Sri Lanka.
-
-◼️
-
-[Data](articles/3e105abf.json)
 
 ---

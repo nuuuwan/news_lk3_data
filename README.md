@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 12:09:06**
+As of **2025-08-31 12:23:30**
 
 ## Newspaper Stats
 
-*Scraped **73,298** Articles*
+*Scraped **73,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,057
 adaderanalk | 9,323
-tamilmirrorlk | 10,887
+tamilmirrorlk | 10,888
 virakesarilk | 12,014
 adaderanasinhalalk | 12,714
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,298 articles have been extended.
+61,973 (84.5%) of 73,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### துப்பாக்கிச் சூட்டில் ஒருவர் பலி
+
+*2025-08-31 12:00:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-363784) · `ta`
+
+இன்று காலை வென்னப்புவ பொலிஸ் நிலையத்திற்கு அருகில் நடந்த துப்பாக்கிச் சூட்டில் ஒருவர் கொல்லப்பட்டதுடன் மற்றொருவர் காயமடைந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+காலை 10.30 மணியளவில் வேவா வீதி பகுதியில் இந்த சம்பவம் நடந்துள்ளது. காரில் வந்த ஒரு குழு மோட்டார் சைக்கிள் மீது மோதியது. பின்னர் அவர்கள் கூர்மையான ஆயுதங்களால் இருவரையும் தாக்கி துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+துப்பாக்கிச் சூட்டுக் காயங்களுக்கு உள்ளான ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்தார், மற்றொருவர் காயங்களுடன் தப்பினார்.
+
+புலனாய்வாளர்களின் கூற்றுப்படி, பாதிக்கப்பட்டவர்கள் வென்னப்புவ பொலிஸ் நிலையத்தில் நடந்து வரும் மேல் நீதிமன்ற வழக்கு தொடர்பாக கையெழுத்திட்ட பிறகு திரும்பி வந்துள்ளனர். இறந்தவருக்கு செப்டம்பர் 9 ஆம் திகதி நீதிமன்றத் தீர்ப்பு வரவிருந்தது.
+
+◼️
+
+[Data](articles/f3c814be.json)
+
+---
 
 ### அறுகம் குடாவில் கைகலப்பு ; இரண்டு இஸ்ரேலிய பிரஜைகள் கைது
 
@@ -1785,17 +1803,5 @@ Ranil Wickremesinghe set about managing the peace process like a chief executive
 ...
 
 [Data](articles/faf355c9.json)
-
----
-
-### THE ELEPHANT TRANSIT HOME AT UDA WALAWE:
-
-*2025-08-30 13:21:00* · [`islandlk`](http://island.lk/the-elephant-transit-home-at-uda-walawe/) · `en`
-
-Born free…and wild…to a devoted mother who would sacrifice her life for you, and to others of your kind who would do their utmost to protect you. Free to roam over vast spaces wherever the group took you, learning, feeding, playing, and doing whatever a young elephant is born to do. Suddenly, without any warning, whether gunshot, explosion or electrocution or poison or accident, and it all disappears in brief, confusing, painful moments, and you are alone apart from being surrounded by a noisy throng of beings you had been taught to fear. Mother is now a lifeless or dying heap on the ground; protective siblings, aunts, and cousins have disappeared, either in terror or hopelessness; today has become a living nightmare. What? Why? Who? Where? What was once filled with the promise of future has suddenly come to an end. Welcome to the suffering of an elephant orphan.
-
-...
-
-[Data](articles/28ae06e6.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 09:38:17**
+As of **2025-08-31 09:50:54**
 
 ## Newspaper Stats
 
@@ -962,8 +962,6 @@ Save my name, email, and website in this browser for the next time I comment.
 
 Kelum Lakmal Dissanayake, founder of Miracle Pet Care in Pannipitiya, was named the Most Outstanding Pet Groomer at the Global Business Excellence Awards 2025, held recently at BMICH, Colombo. With over a decade of experience and a UK CPD IAP certification, Dissanayake’s salon offers comprehensive grooming services including hair trimming, bathing, nail clipping, ear cleaning, and treatments for ticks, fleas, and skin conditions. Miracle Pet Care also provides boarding services and a pet shop in Kottawa. Plans are underway to launch a pet grooming training school and a spa-style treatment centre, enhancing care and education for pets and groomers alike.
 
-BOI seals landmark US$ 171 Mn. investment with CEAT OHT Lanka
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
 Save my name, email, and website in this browser for the next time I comment.
@@ -1298,9 +1296,7 @@ The arrested underworld figures, identified by their aliases, include Kehelbadda
 
 *2025-08-30 12:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமரர்-சௌமியமூர்த்தி-தொண்டமானின்-112-ஆவது-ஜனன-தினம்/175-363751) · `ta`
 
-அமரர். சௌமியமூர்த்தி தொண்டமானின் 112 ஆவது ஜனன தினம் இன்று (30) தலைநகர் கொழும்பிலும், மலையக பகுதிகளிலும் அனுஷ்டிக்கப்பட்டு வருகின்றது.
-
-ஜனாதிபதி செயலகத்தில்  அமைந்துள்ள அவரது உருவச் சிலைக்கு இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான்,  பிரதி தலைவர் கணபதி கனகராஜ், தேசிய அமைப்பாளர் சக்திவேல் உட்பட கட்சியின் முக்கியஸ்தர்கள் மலர் மாலை அணிவித்து மரியாதை செலுத்தினர்.
+அமரர். சௌமியமூர்த்தி தொண்டமானின் 112 ஆவது ஜனன தினம் இன்று அமரர். சௌமியமூர்த்தி தொண்டமானின் 112 ஆவது ஜனன தினம் இன்று (30) தலைநகர் கொழும்பிலும், மலையக பகுதிகளிலும் அனுஷ்டிக்கப்பட்டு வருகின்றது. ஜனாதிபதி செயலகத்தில் அமைந்துள்ள அவரது உருவச் சிலைக்கு இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான், பிரதி தலைவர் கணபதி கனகராஜ், தேசிய அமைப்பாளர் சக்திவேல் உட்பட கட்சியின் முக்கியஸ்தர்கள் மலர் மாலை அணிவித்து மரியாதை செலுத்தினர். பின்னர் இ.தொ.காவின் தலைமையகமான சௌமியபவனின் விசேட பூஜை வழிபாடுகள் இடம்பெற்றன.
 
 ◼️
 

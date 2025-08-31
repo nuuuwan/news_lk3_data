@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 20:32:12**
+As of **2025-08-31 20:48:58**
 
 ## Newspaper Stats
 
-*Scraped **73,352** Articles*
+*Scraped **73,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,065
-adaderanalk | 9,336
+adaderanalk | 9,337
 tamilmirrorlk | 10,893
 virakesarilk | 12,020
 adaderanasinhalalk | 12,731
@@ -26,11 +26,35 @@ adaderanasinhalalk | 12,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,352 articles have been extended.
+61,973 (84.5%) of 73,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### Ex-President Ranil to invite all opposition leaders to UNP’s convention
+
+*2025-08-31 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112038/ex-president-ranil-to-invite-all-opposition-leaders-to-unps-convention) · `en`
+
+The United National Party (UNP) has decided to invite all opposition political party leaders to its annual convention.
+
+A preparatory discussion for the convention, which is scheduled to be held on September 6, was held this morning (31).
+
+A proposal in this regard has been made and is scheduled to be submitted to the UNP’s Working Committee meeting on September 3.
+
+The party has also decided to lift the ban on former members whose memberships were suspended, considering them as having left the party.
+
+This proposal will also be presented at the upcoming Working Committee meeting.
+
+In the coming days, former President Ranil Wickremesinghe is expected to personally invite opposition party leaders to attend the convention.
+
+The UNP has also decided to hold the convention at a neutral location, rather than at Sirikotha, the party’s headquarters, so that opposition representatives can also participate.
+
+...
+
+[Data](articles/1634f696.json)
+
+---
 
 ### පැතුම් නිස්සංකගෙන් ශතකයක්
 
@@ -1849,27 +1873,5 @@ The general public has been requested to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/8fd21506.json)
-
----
-
-### ‘Time to put a complete end to underworld crimes’ -  Public Security Minister
-
-*2025-08-31 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112013/time-to-put-a-complete-end-to-underworld-crimes-public-security-minister) · `en`
-
-“Time to put a complete end to underworld crimes” -  Public Security Minister
-
-A comprehensive investigation is being carried out into ‘Kehelbaddara Padme’ and his associates, Minister of Public Security and Parliamentary Affairs Ananda Wijepala has stated.
-
-Minister Ananda Wijepala further noted that organized criminal groups in the country had been allowed to grow over a long period with the blessing and support of certain politicians.
-
-He made these remarks while addressing media at the Bandaranaike International Airport (BIA).
-
-The Minister stressed that it is now time to put a complete end to underworld crimes and that no further opportunity will be given for such groups to continue oppressing the public.
-
-“Today, five members of a leading criminal gang, including Commander Salintha — a close associate of Kehelbaddara Padme — were brought back to Sri Lanka from Indonesia. All five are now in the custody of the Criminal Investigation Department (CID).
-
-...
-
-[Data](articles/56692bd1.json)
 
 ---

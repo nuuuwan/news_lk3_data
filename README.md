@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 14:32:34**
+As of **2025-08-31 14:49:30**
 
 ## Newspaper Stats
 
-*Scraped **73,312** Articles*
+*Scraped **73,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 5,182
 adalk | 7,059
 adaderanalk | 9,326
 tamilmirrorlk | 10,891
-virakesarilk | 12,014
+virakesarilk | 12,015
 adaderanasinhalalk | 12,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,312 articles have been extended.
+61,973 (84.5%) of 73,313 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/1ae238dd.json)
+
+---
+
+### கைது செய்யப்பட்டதை அடுத்து ரணில் எதிர்க்கட்சிகளை ஐக்கியப்படுத்தக்கூடிய வல்லமையை பெற்றுவிட்டாரா?
+
+*2025-08-31 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/223841) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இலங்கையின் அரசியல் வரலாற்றில் பல முதலாவது ' சாதனைகளுக்கு ' சொந்தக்காரர். இந்த நாட்டின் மிகவும் பழைமைவாய்ந்த  அரசியல் கட்சியான ஐக்கிய தேசிய கட்சியின் தலைவராக விக்கிரமசிங்கவை போன்று வேறு எந்த அரசியல் தலைவரும் நீண்டகாலம்  பதவி வகித்ததில்லை. மூன்று தசாப்தங்களுக்கும் அதிகமான காலமாக தனது கட்சியின் தலைவராக இருந்து வரும் அவரே மிகவும் நீண்டகாலம் பாராளுமன்றத்தில் எதிர்க்கட்சி தலைவராக பதவி வகித்த அரசியல் தலைவர்.
+
+◼️
+
+[Data](articles/6e62392e.json)
+
+---
+
+### அறுகம் குடாவில் கைகலப்பு ; இரண்டு இஸ்ரேலிய பிரஜைகள் கைது
+
+*2025-08-31 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/223811) · `ta`
+
+அறுகம் குடாவில் ஹோட்டல் ஒன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் இரண்டு இஸ்ரேலிய பிரஜைகள் சனிக்கிழமை (30) பொத்துவில் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+தம்பதியினர் தங்கள் வாகனத்தில் பயணித்தபோது, 26 வயதுடைய இரண்டு வெளிநாட்டினர் வீதியை மறித்ததால் இந்த சம்பவம் நடந்ததாக பொலிஸால் தெரிவித்தனர். இதன்போது, இரு தரப்பினருக்கும் இடையில்  வாக்கு வாதம்  ஏற்பட்ட பின்னர் அது கைகலப்பாக மாறியுள்ளது.
+
+பாதிக்கப்பட்ட கணவன் மற்றும் மனைவி காயமடைந்து சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சந்தேக நபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
+
+◼️
+
+[Data](articles/3ddc89da.json)
 
 ---
 
@@ -235,22 +263,6 @@ Australia - where one in two people is either born overseas or has a parent born
 ...
 
 [Data](articles/93dfebfa.json)
-
----
-
-### அறுகம் குடாவில் கைகலப்பு ; இரண்டு இஸ்ரேலிய பிரஜைகள் கைது
-
-*2025-08-31 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/223811) · `ta`
-
-அறுகம் குடாவில் ஹோட்டல் ஒன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் இரண்டு இஸ்ரேலிய பிரஜைகள் சனிக்கிழமை (31) பொத்துவில் பொலிஸாரால் கைது செய்யப்பட்டனர்.
-
-தம்பதியினர் தங்கள் வாகனத்தில் பயணித்தபோது, 26 வயதுடைய இரண்டு வெளிநாட்டினர் வீதியை மறித்ததால் இந்த சம்பவம் நடந்ததாக பொலிஸால் தெரிவித்தனர். இதன்போது, இரு தரப்பினருக்கும் இடையில்  வாக்கு வாதம்  ஏற்பட்ட பின்னர் அது கைகலப்பாக மாறியுள்ளது.
-
-பாதிக்கப்பட்ட கணவன் மற்றும் மனைவி காயமடைந்து சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சந்தேக நபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
-
-◼️
-
-[Data](articles/3ddc89da.json)
 
 ---
 
@@ -1809,21 +1821,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/f84d2de1.json)
-
----
-
-### Omega Line crowned Asia’s Best Employer
-
-*2025-08-30 15:28:00* · [`islandlk`](http://island.lk/omega-line-crowned-asias-best-employer/) · `en`
-
-Omega Line has been named Asia’s Best Employer Brand at the 20th Employer Branding Awards, held on 11 August 2025 at Pan Pacific, Singapore. The accolade, presented by the Employer Branding Institute in partnership with the World HRD Congress, recognises organisations excelling in employer branding and progressive workplace culture.
-
-W. M. C. Sampath Weerakoon, Omega Line’s Chief HR Officer for Operations, was also named Top Most HR Leader – Asia at the 16th CMO Asia Awards 2025, in recognition of his leadership in shaping the company’s people strategy. He credited the HR team, management, and CEO Felix Fernando for their support.
-
-Locally, Omega Line has been recognised for innovative practices, including digital literacy and social responsibility, and was ranked among the 15 Best Workplaces in the Manufacturing and Production sector by Great Place to Work Sri Lanka.
-
-...
-
-[Data](articles/a894b83f.json)
 
 ---

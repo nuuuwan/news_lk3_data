@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 16:48:43**
+As of **2025-08-31 17:04:36**
 
 ## Newspaper Stats
 
-*Scraped **73,327** Articles*
+*Scraped **73,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adalk | 7,062
 adaderanalk | 9,332
 tamilmirrorlk | 10,892
 virakesarilk | 12,016
-adaderanasinhalalk | 12,722
+adaderanasinhalalk | 12,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,327 articles have been extended.
+61,973 (84.5%) of 73,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### සමුහ සංක්‍රමණවලට එරෙහිව ඔස්ට්‍රේලියාවේ විරෝධතා
+
+*2025-08-31 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213997) · `si`
+
+සමුහ සංක්‍රමණවලට එරෙහි දැවැන්ත විරෝධතා මාලාවක් ඔස්ට්‍රේලියාවේ ප්‍රධාන නගර කිහිපයකදී අද (31) පැවැත්විය.
+
+එහිදී හටගත් කලහකාරි තත්ත්වයක් පාලනය කිරීමට පොලීසිය ද මැදිහත් වී තිබුණි.
+
+ඔස්ට්‍රේලියාව තුළ වෙසෙන සෑම දෙදෙනෙකුගෙන්ම එක්අයෙකු විදේශයක උපත ලද හෝ ඔහුගේ හෝ ඇයගේ මව්පියන්ගෙන් එක් අයෙකු හෝ විදේශයක උපත ලද අයෙකු වේ.
+
+මෙලෙස ඉහළ සංක්‍රමණික පිරිසක් රටතුළ සිටීම ඔස්ට්‍රේලියාව තුළ ඇතිවී තිබෙන ප්‍රධාන ගැටලුවකි.
+
+එවන් පසුබිමක මෙම සමුහ සංක්‍රමණවලට විරෝධය පලකරමින් 'මාච් ෆෝ ඔස්ට්‍රේලියා' නමින් දැවැන්ත රැළි මාලාවක් අද පැවැත්වුණේ එරට සිඩ්නි ඇතුළු ප්‍රධාන නගර කිහිපයකදීය.
+
+මෙම විරෝධතා සඳහා ඔස්ට්‍රේලියානු පුරවැසියන් දහස් ගණනක් සහභාගී වී තිබුණි.
+
+එරට තුළ සමූහ සංක්‍රමණ පාලනය කිරීමට පියවර ගන්නා ලෙස ඔවුන් ඔස්ට්‍රේලියානු රජයට බලකර සිටියි.
+
+කෙසේ වෙතත් ඔස්ට්‍රේලියානු රජය මෙම විරෝධතා මගින් වෛරය පතුරුවන බවට ප්‍රකාශ කරමින් එම විරෝධතා හෙළා දැක තිබේ.
+
+මේ අතර මෙම විරෝධතා වලට එරෙහි විරෝධතා මාලාවක් ද අද එරට තුළ දියත් කර තිබුණි.
+
+ඒ හේතුවෙන් මෙල්බර්න් ඇතුළු නගර කිහිපයක දී මෙම දෙපාර්ශ්වය අතර ගැටුම් ද හටගත් බව වාර්තා වේ.
+
+...
+
+[Data](articles/d4831204.json)
+
+---
+
+### ජිනීවා යන්න කලින් ඇමති විජිත  තානාපතිවරු මුණ ගැහෙන්න සැරසෙයි
+
+*2025-08-31 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213996) · `si`
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් සැසිවාරයට පෙර අමාත්‍ය විජිත හේරත් මහතා මෙරට සිටින තානාපතිවරු සහ මානව හිමිකම් ක්‍රියාකාරීන් සමඟ සාකච්ඡා කිරීමට සැලසුම් කර තිබේ.
+
+මෙහිදී මේ සම්බන්ධයෙන් උනන්දුවක් දක්වන විද්වතුන් සහ නීතීඥවරුන් ද මුණ ගැසීමට අමාත්‍යවරයා සැලසුම් කර ඇත.
+
+එළැඹෙන සතියේ දී එම සාකච්ඡාව පවත්වනු ඇති බව විදෙස් කටයුතු අමාත්‍යංශ ආරංචි මර්ග සඳහන් කළේය.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 60 වැනි සැසිවාරය සැප්තැම්බර් මස 8 වැනිදා පැවැත්වීමට නියමිතව තිබේ.
+
+ඒ අනුව නව රජය බලයට පත්වීමෙන් අනතුරුව වසරක පමණ කාලයක් තුළ මානව හිමිකම් සම්බන්ධ ගැටලු විසදීම සඳහා ගෙන ඇති ක්‍රියාමාර්ග මෙන්ම එහි ප්‍රගතිය පිළිබඳව විදේශ අමාත්‍යවරයා රාජ්‍ය තාන්ත්‍රික නිලධාරීන් දැනුවත් කිරීමට නියමිතය.
+
+යම් හෙයකින් මානව හිමිකම් කවුන්සිලය තුළ ශ්‍රී ලංකාවව සම්බන්ධ යෝජනාවකදී ඡන්ද විමසීමක් පැවැත්වුවහොත් ශ්‍රී ලංකාවට අනෙක් රටවල සහාය ලබා ගැනීම සිදු කළ යුතුව පවතී.
+
+...
+
+[Data](articles/29ca49b8.json)
+
+---
 
 ### වෙන්නප්පුවේ වෙඩි තැබීමට සැකකරුවෙකු අත්අඩංගුවට
 
@@ -1807,41 +1859,5 @@ The bus has also reportedly sustained serious damage in the accident.
 ◼️
 
 [Data](articles/af61bdb0.json)
-
----
-
-### UN urges credible, independent probes into Sri Lanka’s mass graves
-
-*2025-08-30 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112007/un-urges-credible-independent-probes-into-sri-lankas-mass-graves) · `en`
-
-The United Nations (UN) Resident Coordinator in Sri Lanka Marc-André Franche says the recent recovery of human skeletal remains and personal belongings from mass graves, including those of children, is a stark reminder of the scale of past grave human rights violations and the urgent need for credible, transparent and independent investigations.
-
-Issuing a statement on the International Day of the Victims of Enforced Disappearances, the UN envoy in Colombo stated that the fate of thousands of forcibly disappeared Sri Lankans from across the entire island remains unknown; “a national wound left open by silence, inaction, and impunity”.
-
-He stated that the pain of being left without answers about a loved one is a trauma that time alone cannot heal. “It is a suffering that endures, deepened by the absence of truth and justice,” he said.
-
-...
-
-[Data](articles/ac711513.json)
-
----
-
-### ගත වූ මාස 8ට ලොව පුරා කොලරා රෝගීන් ලක්ෂ 04ක්
-
-*2025-08-30 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213969) · `si`
-
-වසරේ මේ දක්වා ගත වු කාලසීමාව තුළ ලොව පුරා කොලරා රෝගීන් ලක්ෂ 04කට ආසන්න සංඛ්‍යාවක් වාර්තා වී ඇති බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
-
-එම සංවිධානය සඳහන් කළේ ගෝලීය වශයෙන් කොලරා රෝගය පැතිරීම මේ වන විට උත්සන්න වෙමින් පවතින බවය.
-
-ඒ අනුව කොලරා රෝගයෙන් බලපෑමට ලක්වු රටවල් 31ක රෝගීන් ලක්ෂ 04කට වැඩි ප්‍රමාණයක් මේ වසරේදී හදුනාගෙන ඇති බව ලෝක සෞඛ්‍ය සංවිධානය වැඩිදුරටත් පවසා සිටියේය.
-
-මීට පෙර කොලරා රෝගීන් වාර්තා නොවු කොංගෝ සහ චැඩ් යන රටවලින් ද එම රෝගීන් වාර්තා වීමක් මේ වන විට දක්නට ලැබෙන බවද වාර්තා වේ.
-
-එමෙන්ම ලෝක සෞඛ්‍ය සංවිධානය අනතුරු අඟවන්නේ කොලරා රෝගයෙන් සිදුවන මරණ සංඛ්‍යාව ද සියයට7.7කින් ඉහළ ගොස් ඇති බවය.
-
-◼️
-
-[Data](articles/24eeb0bb.json)
 
 ---

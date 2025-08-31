@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 12:33:51**
+As of **2025-08-31 12:49:43**
 
 ## Newspaper Stats
 
-*Scraped **73,299** Articles*
+*Scraped **73,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,057
 adaderanalk | 9,323
-tamilmirrorlk | 10,888
+tamilmirrorlk | 10,890
 virakesarilk | 12,014
 adaderanasinhalalk | 12,714
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,299 articles have been extended.
+61,973 (84.5%) of 73,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### நீதி வேண்டி பிரித்தானியாவில் ஆர்ப்பாட்டம்
+
+*2025-08-31 12:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-வேண்டி-பிரித்தானியாவில்-ஆர்ப்பாட்டம்/175-363786) · `ta`
+
+வலிந்து காணாமல் ஆக்கப்பட்ட இலங்கைத் தமிழருக்கு நீதி வேண்டி மாபெரும் கவனயீர்ப்பு போராட்டம் மற்றும் ஊர்வலம் பிரித்தானியாவின் லண்டன் நகரில் சனிக்கிழமை (30) நடைபெற்றது.
+
+புலம்பெயர்ந்து வாழும் இலங்கைத் தமிழர்களினால்  சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் தினமான சனிக்கிழமை (30)  ஏற்பாடு செய்யப்பட்ட கவனயீர்ப்பு பேரணி பிரித்தானியா - ஸ்ரீலங்கா உயர்ஸ்தானிகர்கத்தில் இருந்து ஆரம்பமாகி பிரித்தானிய பிரதமர் பணிமனை வரை சென்று பணிமனை முன்பாக தமது கோரிக்கைகள் அடங்கிய பதாகைகளை ஏந்தி கோஷங்களை எழுப்பி போராட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/6ef362f0.json)
+
+---
+
+### எல்லயில் திடீர் தீ பரவல்
+
+*2025-08-31 12:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/எல்லயில்-திடீர்-தீ-பரவல்/76-363785) · `ta`
+
+எல்ல தெமோதர ஒன்பது வளைவு பாலத்திற்கு அருகிலுள்ள மலையில் ஞாயிற்றுக்கிழமை (31) அன்று திடீர் தீ பரவல் ஏற்பட்டதாக  பதுளை அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+வனஜீவராசிகள் திணைக்கள அதிகாரிகள் மற்றும் பொலிஸார் தீயைக் கட்டுப்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர்.
+
+நிலவும் வறண்ட வானிலையுடன் தீ வேகமாக பரவி வருவதாகவும், தீ பரவலுக்கான காரணம் தொடர்பான விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும்  பதுளை அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c12a2512.json)
+
+---
 
 ### துப்பாக்கிச் சூட்டில் ஒருவர் பலி
 
@@ -1781,31 +1811,5 @@ On becoming prime minister in February 2002, Ranil Wickremesinghe entered into a
 ...
 
 [Data](articles/8b98ab87.json)
-
----
-
-### The death of Food Minister Herat and JRJ’s reaction to a corruption allegation
-
-*2025-08-30 13:28:00* · [`islandlk`](http://island.lk/the-death-of-food-minister-herat-and-jrjs-reaction-to-a-corruption-allegation/) · `en`
-
-1981, was a quieter year, where most of the policy decisions taken earlier were being implemented. There were, however, one or two points of interest. One of these related to the Minister’s health. Mr. Herat was a person who was always properly dressed in a lounge suit. Most of the time, he worked in office, wearing his full suit. Occasionally, he used to hang up his coat, until he put it on again when he was leaving.
-
-I began to notice that the Minister was breaking out into a sweat even when the air conditioner in the room had made the room quite cold. I ignored this, until one day when we were working in a freezing room at about 7.30 p.m. he was visibly perspiring badly. The coat which he had on could not have accounted for it. Therefore, this time I directly asked him what the matter was. He told me an extraordinary story.
-
-...
-
-[Data](articles/e8216156.json)
-
----
-
-### Hands-on management of the peace process by RW’s 2001 administration
-
-*2025-08-30 13:27:00* · [`islandlk`](http://island.lk/hands-on-management-of-the-peace-process-by-rws-2001-administration/) · `en`
-
-Ranil Wickremesinghe set about managing the peace process like a chief executive officer of a corporate entity. The vision was clear: there was a strategic plan; there was a road map with mile posts to be negotiated; the need to build capacity in the institutional framework which was to support the plan of action, and so on. There were things to be done within Sri Lanka and things outside. Following this strategic plan, his action was literally based on three pillars: thinking out of the box; having trust in those one was dealing with; and using the support of friends. It proved to be a simple and effective tripod.
-
-...
-
-[Data](articles/faf355c9.json)
 
 ---

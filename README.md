@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 06:11:49**
+As of **2025-08-31 06:37:34**
 
 ## Newspaper Stats
 
-*Scraped **73,234** Articles*
+*Scraped **73,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,22 +13,60 @@ dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 752
 economynextcom | 4,465
-islandlk | 4,498
+islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,052
 adaderanalk | 9,310
-tamilmirrorlk | 10,872
+tamilmirrorlk | 10,873
 virakesarilk | 12,008
-adaderanasinhalalk | 12,704
+adaderanasinhalalk | 12,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,234 articles have been extended.
+61,973 (84.6%) of 73,251 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-08-31 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
+
+*2025-08-31 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213978) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (31) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ සහ යාපනය දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකියි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+තද සුළං හේතුවෙන් ඇතිවිය හැකි අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+මේ  අතර දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+
+...
+
+[Data](articles/f63b9da8.json)
+
+---
+
+### செம்மணியில் நேற்று 10 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-08-31 05:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-10-எலும்புக்கூடுகள்-அடையாளம்/175-363766) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்று (30) மேலும் 10 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளன.
+
+இதன் அடிப்படையில் செம்மணி மனிதப் புதைகுழியில் இதுவரை 197 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளன. அவற்றில் 180 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/55d05f81.json)
+
+---
 
 ### 2025-08-30 (Saturday)
 
@@ -614,6 +652,124 @@ Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, 
 
 ---
 
+### ICC announces early handover of The Residencies Kotte
+
+*2025-08-30 15:34:00* · [`islandlk`](http://island.lk/icc-announces-early-handover-of-the-residencies-kotte/) · `en`
+
+ICC, a leading Lankan developer, has confirmed the early handover of The Residencies Kotte, set for December 2025, three months ahead of schedule. Located in central Kotte, the development offers over an acre of facilities including an infinity pool, sports amenities, a jogging track, and relaxation areas.
+
+The project, noted for maintaining construction progress ahead of client payments, aims to eliminate common home-buying challenges such as delayed handovers and incomplete documentation. With limited apartments remaining, ICC is also offering an exclusive loan scheme providing up to 100% financing, enabling buyers to move into their new homes sooner than expected.
+
+Kapruka posts 94% surge in operating performance as platform strategy drives growth
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/057d86f6.json)
+
+---
+
+### Kelum Lakmal Dissanayake named Lanka’s top pet groomer
+
+*2025-08-30 15:33:00* · [`islandlk`](http://island.lk/kelum-lakmal-dissanayake-named-lankas-top-pet-groomer/) · `en`
+
+Kelum Lakmal Dissanayake, founder of Miracle Pet Care in Pannipitiya, was named the Most Outstanding Pet Groomer at the Global Business Excellence Awards 2025, held recently at BMICH, Colombo. With over a decade of experience and a UK CPD IAP certification, Dissanayake’s salon offers comprehensive grooming services including hair trimming, bathing, nail clipping, ear cleaning, and treatments for ticks, fleas, and skin conditions. Miracle Pet Care also provides boarding services and a pet shop in Kottawa. Plans are underway to launch a pet grooming training school and a spa-style treatment centre, enhancing care and education for pets and groomers alike.
+
+BOI seals landmark US$ 171 Mn. investment with CEAT OHT Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/41fe7984.json)
+
+---
+
+### Lotus group marks 10 years with tree planting drive
+
+*2025-08-30 15:33:00* · [`islandlk`](http://island.lk/lotus-group-marks-10-years-with-tree-planting-drive/) · `en`
+
+The Lotus Group of Companies celebrated its 10th anniversary on July 7 at its Bingiriya premises with religious observances and community events. The programme, attended by local officials, bank managers and police representatives, featured a presentation on the company’s decade-long journey, a bana sermon, an alms-giving and a tree-planting ceremony to highlight its commitment to sustainable agriculture.
+
+Over the past 10 years, Lotus has expanded into seed production, fertilizers, machinery, packaging, crop care and printing, becoming a key player in supporting Sri Lanka’s agriculture industry with technology-driven solutions and quality services across multiple sectors.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/82c11da8.json)
+
+---
+
+### Eton College opens new campus with modern facilities
+
+*2025-08-30 15:32:00* · [`islandlk`](http://island.lk/eton-college-opens-new-campus-with-modern-facilities/) · `en`
+
+Eton College marked a major milestone on July 30 with the move to a new building featuring modern classrooms, a science laboratory, IT center, library, and fully equipped preschool. Established on January 7, 2024, in a rented Maradana facility with 40 students, the college has grown to over 200 students and a staff of more than 20 under Principal and CEO Akram Mohamed Thowfeek. The school emphasizes quality English-medium education, sports, arts, and trilingual fluency through its English, Sinhala, and Tamil societies. Eton Campus in Kollupitiya complements the college, offering TVEC-approved diplomas, degrees, and UK-accredited programs in business, IT, and education.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f84d2de1.json)
+
+---
+
+### Omega Line crowned Asia’s Best Employer
+
+*2025-08-30 15:28:00* · [`islandlk`](http://island.lk/omega-line-crowned-asias-best-employer/) · `en`
+
+Omega Line has been named Asia’s Best Employer Brand at the 20th Employer Branding Awards, held on 11 August 2025 at Pan Pacific, Singapore. The accolade, presented by the Employer Branding Institute in partnership with the World HRD Congress, recognises organisations excelling in employer branding and progressive workplace culture.
+
+W. M. C. Sampath Weerakoon, Omega Line’s Chief HR Officer for Operations, was also named Top Most HR Leader – Asia at the 16th CMO Asia Awards 2025, in recognition of his leadership in shaping the company’s people strategy. He credited the HR team, management, and CEO Felix Fernando for their support.
+
+Locally, Omega Line has been recognised for innovative practices, including digital literacy and social responsibility, and was ranked among the 15 Best Workplaces in the Manufacturing and Production sector by Great Place to Work Sri Lanka.
+
+...
+
+[Data](articles/a894b83f.json)
+
+---
+
+### Lanka’s Poornaka Delpachitra honoured as PATA Sustainability Leader
+
+*2025-08-30 15:27:00* · [`islandlk`](http://island.lk/lankas-poornaka-delpachitra-honoured-as-pata-sustainability-leader/) · `en`
+
+Intrepid Travel is celebrating the recognition of Poornaka Delpachitra, Country General Manager for Sri Lanka, as a 2025 PATA Face of the Future awardee. Presented by the Pacific Asia Travel Association (PATA), the award is the Association’s highest honour for young tourism professionals making an outstanding contribution to the industry. Poornaka is one of only four emerging leaders across the Asia Pacific recognised this year, and the winner in the Sustainability Initiatives category.
+
+“It’s a great honour and deeply humbling to be recognised by PATA. I’m proud to be leading a team that truly believes in creating positive change through the joy of travel, and I’m excited to keep building that future in Sri Lanka and beyond,” he said.
+
+...
+
+[Data](articles/fdda7715.json)
+
+---
+
+### BOI seals landmark US$ 171 Mn. investment with CEAT OHT Lanka
+
+*2025-08-30 15:26:00* · [`islandlk`](http://island.lk/boi-seals-landmark-us-171-mn-investment-with-ceat-oht-lanka/) · `en`
+
+In a landmark development for Sri Lanka’s manufacturing and export sector, CEAT OHT Lanka (Private) Limited has signed an agreement with the Board of Investment of Sri Lanka (BOI) to formalise a US$ 171 million investment, one of the largest recent investments from India into the country.
+
+This investment follows CEAT Ltd.’s acquisition of Michelin Group’s Construction Compact Line Business, including their Sri Lanka-based Midigama plant and Casting Product plant in Kotugoda. The transaction gives CEAT global ownership of the Camso brand, which will be permanently assigned across categories after a three-year licensing period. The acquisition closing process is ongoing.
+
+The agreement strengthens Sri Lanka’s profile as a global hub for Off-Highway Tyres (OHT), positioning the country as a competitive centre for export-led growth.
+
+...
+
+[Data](articles/17694737.json)
+
+---
+
 ### තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කෙරේ
 
 *2025-08-30 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213963) · `si`
@@ -643,6 +799,20 @@ Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, 
 ◼️
 
 [Data](articles/59dffb92.json)
+
+---
+
+### China without Blinkers
+
+*2025-08-30 14:43:00* · [`islandlk`](http://island.lk/china-without-blinkers/) · `en`
+
+I was while in Europe last month to spend a couple of days in Sete by the Mediterranean, with Tamara Kunanayagam and her partner Jean Pierre Page. He was a leading light of the French Communist party and though, as with so many left wing movements in the last century it had split, he was trying to redevelop connections. He was also strongly supportive of Jean-Luc Melenchon, the radical former Socialist who put together the coalition that emerged as the largest group in Parliament after the last French election.
+
+Jean-Pierre is highly respected internationally, and in recent years he and Tamara have often been in China at conferences which mark the increasing influence of that country. So, I was delighted when he gave me, when I was leaving, a volume entitled China without Blinkers, which he had edited together with the radical journalist Maxime Vivas.
+
+...
+
+[Data](articles/cb572951.json)
 
 ---
 
@@ -686,6 +856,50 @@ He further emphasised that plans were underway to raise public awareness on brib
 
 ---
 
+### Lanka-born copper artist makes waves in Hawaii
+
+*2025-08-30 14:04:00* · [`islandlk`](http://island.lk/lanka-born-copper-artist-makes-waves-in-hawaii/) · `en`
+
+The master copper artist known as Sooriya not only inspires many with his larger-than-life sculptures of whales and dolphins in Nānākuli, but also with his peaceful messages of caring for the earth and serving others with aloha.
+
+On a sunny Westside morning in Nānākuli, the sculptured bodies of two humpback whales reflect an iridescent radiance. They represent the largest copper whale structure in the world, and are the handiwork of artist Muthukumaru Sooriyakumar (known by most as Sooriya), a 71-year-old Sri Lankan man whose values of unity, harmony and compassion go wherever his bare feet take him.
+
+As a young boy in a Ceylon village, Sooriya developed adoration for art after wandering upon workers who were shaping stone for a nearby temple.
+
+“I was very fascinated by the sound and rhythm. Everything is rhythm,” says Sooriya. “I knew that’s the way I wanted to do artwork.”
+
+...
+
+[Data](articles/71a6e22c.json)
+
+---
+
+### How rare minerals are reshaping geopolitics
+
+*2025-08-30 13:36:00* · [`islandlk`](http://island.lk/how-rare-minerals-are-reshaping-geopolitics/) · `en`
+
+Who truly commands the foundations of the 21st-century economy? Which states possess the leverage to dictate the supply of critical minerals that underpin modern defence systems, renewable energy technologies, and digital infrastructure? How did a single nation come to dominate a market indispensable to the West’s industrial and military ambitions?
+
+...
+
+[Data](articles/bc470dbb.json)
+
+---
+
+### “Reflections on the Life and Times of Lakshman Kadirgamar on  the 20th Anniversary of His Death”
+
+*2025-08-30 13:36:00* · [`islandlk`](http://island.lk/reflections-on-the-life-and-times-of-lakshman-kadirgamar-on-the-20th-anniversary-of-his-death-2/) · `en`
+
+(Part one of this article appeared in The Sunday Island on 17 August 2025)
+
+On becoming prime minister in February 2002, Ranil Wickremesinghe entered into a Ceasefire Agreement (CFA) with the Liberation Tigers of Tamil Eelam (LTTE). The CFA was brokered by the Norwegians, who were at the time involved in Sri Lanka’s peace process, and Wickremesinghe presented his cabinet and his president with a fait accompli. Although initially Kadirgamar’s statement in Parliament in 2002 in response to that of the prime minister reflected a refreshing degree of constructive cooperation, a little over a year later in a speech in Parliament on 8 May, 2003, doubtless on the authority of President Kumaratunga and the Parliamentary Group of the People’s Alliance, Kadirgamar attacked the CFA arguing that it was ‘a structurally flawed document’.
+
+...
+
+[Data](articles/d603e212.json)
+
+---
+
 ### ජනපති මන්දිර සංචාරක නිකේතන කිරීමට ජනපතිගෙන් ව්‍යාපාරිකයින්ට ඇරයුම්
 
 *2025-08-30 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213959) · `si`
@@ -703,6 +917,44 @@ He further emphasised that plans were underway to raise public awareness on brib
 ...
 
 [Data](articles/8b98ab87.json)
+
+---
+
+### The death of Food Minister Herat and JRJ’s reaction to a corruption allegation
+
+*2025-08-30 13:28:00* · [`islandlk`](http://island.lk/the-death-of-food-minister-herat-and-jrjs-reaction-to-a-corruption-allegation/) · `en`
+
+1981, was a quieter year, where most of the policy decisions taken earlier were being implemented. There were, however, one or two points of interest. One of these related to the Minister’s health. Mr. Herat was a person who was always properly dressed in a lounge suit. Most of the time, he worked in office, wearing his full suit. Occasionally, he used to hang up his coat, until he put it on again when he was leaving.
+
+I began to notice that the Minister was breaking out into a sweat even when the air conditioner in the room had made the room quite cold. I ignored this, until one day when we were working in a freezing room at about 7.30 p.m. he was visibly perspiring badly. The coat which he had on could not have accounted for it. Therefore, this time I directly asked him what the matter was. He told me an extraordinary story.
+
+...
+
+[Data](articles/e8216156.json)
+
+---
+
+### Hands-on management of the peace process by RW’s 2001 administration
+
+*2025-08-30 13:27:00* · [`islandlk`](http://island.lk/hands-on-management-of-the-peace-process-by-rws-2001-administration/) · `en`
+
+Ranil Wickremesinghe set about managing the peace process like a chief executive officer of a corporate entity. The vision was clear: there was a strategic plan; there was a road map with mile posts to be negotiated; the need to build capacity in the institutional framework which was to support the plan of action, and so on. There were things to be done within Sri Lanka and things outside. Following this strategic plan, his action was literally based on three pillars: thinking out of the box; having trust in those one was dealing with; and using the support of friends. It proved to be a simple and effective tripod.
+
+...
+
+[Data](articles/faf355c9.json)
+
+---
+
+### THE ELEPHANT TRANSIT HOME AT UDA WALAWE:
+
+*2025-08-30 13:21:00* · [`islandlk`](http://island.lk/the-elephant-transit-home-at-uda-walawe/) · `en`
+
+Born free…and wild…to a devoted mother who would sacrifice her life for you, and to others of your kind who would do their utmost to protect you. Free to roam over vast spaces wherever the group took you, learning, feeding, playing, and doing whatever a young elephant is born to do. Suddenly, without any warning, whether gunshot, explosion or electrocution or poison or accident, and it all disappears in brief, confusing, painful moments, and you are alone apart from being surrounded by a noisy throng of beings you had been taught to fear. Mother is now a lifeless or dying heap on the ground; protective siblings, aunts, and cousins have disappeared, either in terror or hopelessness; today has become a living nightmare. What? Why? Who? Where? What was once filled with the promise of future has suddenly come to an end. Welcome to the suffering of an elephant orphan.
+
+...
+
+[Data](articles/28ae06e6.json)
 
 ---
 
@@ -1571,311 +1823,5 @@ No amount of power can easily purge the system. Previous Governments, particular
 ...
 
 [Data](articles/5b7fe67f.json)
-
----
-
-### North star for climate change adaptation: Making progress on the Global Goal on Adaptation
-
-*2025-08-29 23:35:26* · [`dailyftlk`](https://www.ft.lk/columns/North-star-for-climate-change-adaptation-Making-progress-on-the-Global-Goal-on-Adaptation/4-780970) · `en`
-
-10 years after the Paris Agreement, 2025 is set to be the year that renders the Global Goal on Adaptation operational
-
-Ten years after the Paris Agreement, 2025 is set to render a key part of it operational: the Global Goal on Adaptation, or GGA for short. Agreed in Paris, the GGA aims to enhance adaptive capacity, strengthen resilience, and reduce vulnerability to climate change in the context of the temperature goal. So far, it has advanced through two work programs (from 2022-2023 and 2024-2025) and is now defined through the UAE Framework for Global Climate Resilience, which lists seven thematic and four dimensional targets. The current work program—the UAE–Belém work program—was launched in Dubai and is mandated to deliver a set of indicators for these targets at the end of this year, when countries from across the world will convene at COP30 in Belém, Brazil.
-
-...
-
-[Data](articles/d635d5c0.json)
-
----
-
-### Indictment of President Emeritus
-
-*2025-08-29 23:32:36* · [`dailyftlk`](https://www.ft.lk/columns/Indictment-of-President-Emeritus/4-780969) · `en`
-
-The issue at hand should be decided according to the reasonable man standard
-
-In the context of the indictment of Ranil Wickremesinghe, various persons gave various reasons why this should not have been done. Several recalled his service to the country in various forms, his age and health condition. Others spoke of an erosion of democracy. (On the opposite side). It could have been said that he had been involved in some way in the bond scam; that he was in some way even remotely connected with Batalanda, etc… Let the negatives be cast aside for a moment.
-
-The charge is very simply that he had engaged in a private trip and had charged the Government 166 million for that jaunt. On a popular TV show the host pointed out that the current president had visited his mother and suppose he had also gone to his home town and visited friends and stayed overnight and used public funds for all this, would he also be guilty of an offence?
-
-...
-
-[Data](articles/48a00196.json)
-
----
-
-### Colombo’s consumer price index rises on-year in August, first time in twelve months
-
-*2025-08-29 23:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/111991/colombos-consumer-price-index-rises-on-year-in-august-first-time-in-twelve-months) · `en`
-
-Sri Lanka’s Colombo consumer price index rose 1.2% year-on-year in August, after falling 0.3% in July, the statistics department said on Friday.
-
-On a year-on-year basis, the index turned positive in August after falling for 11 straight months, the data showed.
-
-The Colombo Consumer Price Index (LKCCPI=ECI), a leading indicator for broader national prices, tracks inflation in Colombo, Sri Lanka’s biggest city.
-
-Inflation in the food category accelerated to 2% year-on-year in August from 1.5% in July. In the non-food category, consumer prices increased 0.8% this month compared with a drop of 1.2% year-on-year in July.
-
-“Inflation will probably remain under 2% for the rest of the year and reach the central bank’s target of 5% only in the second half of 2026,” said Dimantha Mathew, head of research at First Capital.
-
-Sri Lanka, which was plunged into a financial crisis due to a record shortage of dollars three years ago, has recovered strongly, posting 5% economic growth last year.
-
-...
-
-[Data](articles/683b2655.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳ වැඩිදුර විමර්ශන සඳහා කොළඹ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවට
-
-*2025-08-29 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213949) · `si`
-
-පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවටගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජික බැකෝ සමන්ගේ බිරිඳ සහ දරුවා එරටින් පිටුවහල් කිරීමෙන් පසු අද (29) පස්වරුවේ කටුනායක ගුවන්තොටුපළ වෙත පැමිණ තිබුණි.
-
-එහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ගුවන් තොටුපල ඒකකය මගින් ඔවුන්ව සිය භාරයට ගෙන ප්‍රකාශ ලබාගැනීමෙන් පසු වැඩිදුර විමර්ශන සඳහා කොළඹ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ මූලස්ථානයට භාරදී ඇත.
-
-ඉන්දුනීසියාවේ ජකර්තා නුවර සිට පැමිණි UL -365 දරන ගුවන් යානයෙන් අද පස්වරු 5.50ට පමණ මෙවුන් දිවයිනට පැමිණ ඇති බව වාර්තා වේ.
-
-කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධ කල්ලි සාමාජිකයින් පිරිසක් විසින් පසුගියදා ජකර්තා නුවරදී අත්අඩංගුවට ගත් අතර එහිදී මෙම කාන්තාව සහ කුඩා දරුවාද අත්අඩංගුවට පත් විය.
-
-කෙසේ වෙතත් එම කාන්තාවට බරපතළ අපරාධ චෝදනා එල්ල වී නොමැති බැවින් ඉන්දුනීසියානු බලධාරීන් විසින් කාන්තාව මෙරටට එවා ඇති බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/9736b9ec.json)
-
----
-
-### අධ්‍යාපන කවුන්සිලය පිහිටුවීම සඳහා වන අමාත්‍යාංශයීය කමිටුව ප්‍රථම වරට රැස්වෙයි
-
-*2025-08-29 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213948) · `si`
-
-රජයේ ප්‍රතිපත්ති ප්‍රකාශනයට අනුව, සමස්ත අධ්‍යාපනයේ ගුණාත්මක සංවර්ධනය අරමුණු කර ගනිමින් යෝජිත අධ්‍යාපන කවුන්සිලය පිහිටුවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය විසින් පත් කර ඇති කමිටුව අද (29) අධ්‍යාපන අමාත්‍යාංශයේ දී රැස් විය.
-
-ඒ අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය ආචාර්ය හරිනි අමරසූරිය, අධ්‍යාපන හා උසස් අධ්‍යාපන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය මධුර සෙනෙවිරත්න, අධ්‍යාපන කවුන්සිලය පිහිටුවීම සඳහා වන පාර්ලිමේන්තු අනුකමිටුවේ සභාපති මහින්ද ජයසිංහ යන මහත්ම මහත්මීන්ගේ සහභාගීත්වයෙනි.
-
-අධ්‍යාපන කවුන්සිලය පිහිටුවීම සඳහා පත් කර ඇති කමිටුවේ ඉදිරි කටයුතු සම්බන්ධයෙන් අමාත්‍යාංශ කමිටු සභාපති මහාචාර්ය ඕ. ජී. දයාරත්න මහතා මෙහිදී කරුණු ඉදිරිපත් කළේ ය.
-
-එමෙන් ම යෝජිත අධ්‍යාපන කවුන්සිලයේ විෂය පථය, බලතල, සාමාජිකයන් පත් කිරීම ආදි කරුණු සම්බන්ධව සවිස්තර වාර්තාවක් කඩිනමින් අමාත්‍යතුමිය වෙත ඉදිරිපත් කරන බවද මෙහිදී සඳහන් විය.
-
-...
-
-[Data](articles/8be6c3bd.json)
-
----
-
-### Madushanka’s last-over hat-trick powers Sri Lanka to a thriller win
-
-*2025-08-29 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/111990/madushankas-last-over-hat-trick-powers-sri-lanka-to-a-thriller-win) · `en`
-
-Sri Lankan left-arm seamer Dilshan Madushanka produced a sensational last-over hat-trick to snatch victory from Zimbabwe in a dramatic ODI clash, sealing a 7-run win in Hambantota.
-
-With Zimbabwe needing just 10 runs off the final 6 balls, Madushanka dismissed Sikandar Raza, Brad Evans, and Richard Ngarava in consecutive deliveries to complete his magical treble and break Zimbabwean hearts.
-
-Batting first, Sri Lanka posted a competitive 298 for 6 in their 50 overs. The innings was built on a steady foundation laid by Pathum Nissanka, who scored a fluent 76 off 92 balls with twelve boundaries.
-
-He was supported by contributions from Kusal Mendis (38) and Sadeera Samarawickrama (35) through the middle overs.
-
-The real acceleration, however, came in the final phase when Janith Liyanage struck an unbeaten 70 off just 47 balls, and Kamindu Mendis added a blistering 57 off 36, lifting Sri Lanka close to the 300-mark.
-
-...
-
-[Data](articles/d72134ca.json)
-
----
-
-### මාස 11කට පසු කොළඹ උද්ධමනය ධන වෙයි
-
-*2025-08-29 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213947) · `si`
-
-අඛණ්ඩව මාස 11ක් පැවැති අවධනමන තත්ත්වයෙන් අනතුරුව කොළඹ පාරිභෝගික මිල දර්ශකය ධන අගයකට පත්ව ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා මහ බැංකුව සඳහන් කර ඇත්තේ කොළඹ පාරිභෝගික මිල දර්ශකය මගින් මනිනු ලබන මතුපිට උද්ධමනය 2025 ජූලි මාසයේ පැවැති 0.3%ක අවධමනයට සාපේක්ෂව 2025 අගොස්තු මාසයේදී 1.2%ක ධන අගයක් වාර්තා කළ බවය.
-
-මේ අතර ආහාර කාණ්ඩයෙහි උද්ධමනය 2025 ජූලි මාසයේදී වාර්තා වූ 1.5% හි සිට  අගෝස්තු මාසයේදී 2.0%ක් දක්වා ඉහළ ගොස් ඇති බවද මහ බැංකුව පවසයි.
-
-2024 සැප්තැම්බර් මාසයේ සිට සෘණ අගයක පැවැති ආහාර නොවන කාණ්ඩයෙහි උද්ධමනයද 2025 ජූලි මාසයේදී පැවැති 1.2ක අවධමනයට සාපේක්ෂව 2025 අගෝස්තු මාසයේදී සියයට 0.8ක ධන අගයක්ද වාර්තා කළ බව ද ශ්‍රී ලංකා මහ බැංකුව නිකුත් කළ නිවේදනයේ වැඩිදුරටත් සඳහන්ව තිබේ.
-
-කො.පා.මි.ද. මත පදනම් වූ උද්ධමනය - අගෝස්තු 2025 (1)  by  poornima
-
-◼️
-
-[Data](articles/9898a255.json)
-
----
-
-### ஜிம்பாப்வே சுற்றுப்பயணத்தின் முதல் ஒருநாள் போட்டியில் இலங்கைக்கு வெற்றி
-
-*2025-08-29 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223740) · `ta`
-
-இலங்கை மற்றும் சிம்பாப்வே அணிகளுக்கிடையிலான முதல் ஒருநாள் போட்டியில், இலங்கை அணி 7 ஓட்டங்கள் வித்தியாசத்தில் அபார வெற்றியைப் பெற்றுள்ளது.
-
-நாணய சுழற்சியில் வெற்றி பெற்ற சிம்பாப்வே அணி, இலங்கையை முதலில் துடுப்பெடுத்தாட அழைத்தது. அதன்படி, இலங்கை அணி 50 ஓவர்களில் 6 விக்கெட்டுகள் இழப்பிற்கு 298 ஓட்டங்கள் எடுத்தது.
-
-பத்தும் நிஸ்ஸங்க – 76 ஓட்டங்கள், ஜனித் லியனகே – 70 ஓட்டங்கள் (ஆட்டமிழக்காமல்), கமிந்து மெந்திஸ் – 57 ஓட்டங்கள், குசல் மெந்திஸ் – 38 ஓட்டங்கள், சதீர சமரவிக்கிரம – 35 ஓட்டங்கள், சிம்பாப்வே அணியின் பந்துவீச்சில் ரிச்சர்ட் ங்காரவா 2 விக்கெட்டுகளை பெற்றார்.
-
-பதிலுக்கு, 299 ஓட்டங்களின் இலக்கை நோக்கி சிம்பாப்வே அணி துடுப்பெடுத்தாடி, 50 ஓவர்களில் 8 விக்கெட்டுகள் இழப்பிற்கு 291 ஓட்டங்களில் மட்டுமே தடுத்து நிறுத்தப்பட்டது.
-
-சிக்கந்தர் ராசா – 92 ஓட்டங்கள், பென் கரன் – 70 ஓட்டங்கள், சீன் வில்லியம்ஸ் (அணித்தலைவர்) – 57 ஓட்டங்கள்
-
-குறிப்பாக, போட்டியின் இறுதி ஓவரில், முதல் மூன்று பந்துகளில் தொடர்ந்து மூன்று விக்கெட்டுகளை வீழ்த்தி, தில்ஷான் மதுசங்க ஹெட்ரிக் சாதனை படைத்தார்.
-
-...
-
-[Data](articles/e5b6662f.json)
-
----
-
-### மூதூர் பச்சநூரில் மோட்டார் சைக்கிள் விபத்து : வயலுக்குள் விழுந்து சேதம்
-
-*2025-08-29 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/223741) · `ta`
-
-மூதூர் பொலிஸ் பிரிவிலுள்ள பச்சநூர் பகுதியில் வைத்து , மோட்டார் சைக்கிள் வேகக்கட்டுப்பாட்டை இழந்து பாதையைவிட்டு விலகி அருகிலுள்ள வயலுக்குள் விழுந்து விபத்துக்குள்ளாகியுள்ளது.
-
-விபத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயமடைந்த நிலையில் அவசர நோயாளர் காவு வண்டி மூலம் மூதூர் தள வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு அவசர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வருகின்றார்.
-
-குறித்த விபத்துச் சம்பவம் வெள்ளிக்கிழமை (29) பிற்பகல் 1.30 மணியளவில் இடம்பெற்றுள்ளது. சம்பவத்தில் படுகாயமடைந்தவர் மூதூர் பகுதியைச் சேர்ந்த யோகநாதன் ( வயது 42) என தெரியவருகிறது.
-
-◼️
-
-[Data](articles/53a7826e.json)
-
----
-
-### අවසන් පන්දුවාරයේදී කඩුලු ත්‍රිත්වයක් ගනිමින් සිම්බාබ්වේ ජය මාවත මධුශංක විනාශ කරයි
-
-*2025-08-29 21:33:15* · [`adalk`](https://www.ada.lk/sports/අවසන්-පන්දුවාරයේදී-කඩුලු-ත්‍රිත්වයක්-ගනිමින්-සිම්බාබ්වේ-ජය-මාවත-මධුශංක-විනාශ-කරයි/9-418161) · `si`
-
-ලකුණු 299ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය සිම්බාබ්වේ කණ්ඩායම ලකුණු 291/8 සීමා කිරීමට සමත්වු ශ්‍රී ලංකා කණ්ඩායම පළමු තරගෙයන් ලකුණු 7ක ජයක් වාර්තා කළේය.
-
-සිම්බාබ්වේ කණ්ඩායමේ මුල් කඩුලු දෙක පළමු පන්දුවාරයේදීම එකම ලකුණු හෝ ලබා ගැනීමට මත්තෙන් දවා ගැනීමට අසිත ප්‍රනාන්දු සමත්වුවත් ඉන් අනතුරුව තෙවැනි කඩුල්ල වෙනුවෙන් බෙන් කරන් (70) හා සීන් විලියම්සන් (57) ලකුණු 118ක් එක් කිරීමට සමත්විය.
-
-නැවතත් පස්වැනි කඩුල්ල වෙනුවෙන් සිකන්දර් රාසා (92) හා ටෝනි මුන්යොන්ගා (43*) සාර්ථක ලකුණු 128ක සබඳතාවක් ගොඩ නගමින් සිම්බාබ්වේ කණ්ඩායම ජයග්‍රහනය පෙනෙන මානයට ගෙන ආවේ සිම්බාබේ ලකුණු පුවරුව ලකුණු 289/5 දක්වා රැගෙන එමිනි.
-
-ඒ වන විට පන්දුවාර 49ක් නිමා වී තිබුණ අතර අවසන් පන්දුවාරයේදී රාසාට හා ටෝනිට පන්දු 6කදී ලකුණු 10ක පහසු ඉලක්කයක් හිමිව තිබුණි.
-
-අවසන් පන්දුවාරය යොමු කිරීම සඳහා ඩිල්ෂාන් මධුශංක කැඳවූ අතර පළමු පන්දුවෙන් සිකන්දර් රාසා, දෙවැනි පන්දුවෙන් බ්‍රැඩ් ඉවන්ස් හා තෙවැනි පන්දුවෙන් රිචඩ් එන්ගරාවා දවා ගනිමින් කඩුලු ත්‍රිත්වයක් දවා ගනිමින් ශ්‍රී ලංකා ජයග්‍රහණය තහවුරු කළේය.
-
-◼️
-
-[Data](articles/9feae38a.json)
-
----
-
-### ශ්‍රී ලංකාවට ලකුණු  7ක ජයක්
-
-*2025-08-29 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213946) · `si`
-
-දිල්ෂාන් මදුසංඛගේ විශිෂ්ට පන්දු යැවීම හේතුවෙන් සිම්බාබ්වේ කණ්ඩායමට එරෙහි පළමු එක්දින ක්‍රිකට් තරගයේ දී ලකුණු 07ක තියුණු ජයක් ලැබීමට සංචාරක ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අද (29) සමත් විය.
-
-හරාරේ ක්‍රිකට් ක්‍රීඩාංගනයේදී පැවති මෙම තරගයේ දී හිමි වූ ලකුණු 299ක ඉලක්කයට පිළිතුරු ලෙස සිම්බාබ්වේ කණ්ඩායමට පන්දුවාර 50 අවසානයේ කඩුලු 8ක් දැවී ලබා ගත හැකි වූයේ ලකුණු 291ක් පමණී.
-
-කෙසේ නමුත් මෙම තරගය අවසන් පන්දුවාරය දක්වාම තරගයේ ජය පැරදුම කණ්ඩායම් දෙකටම දෝලනය වී තිබුණි.
-
-එහිදී සිම්බාබ්වේ කණ්ඩායමට කඩුලු 5ක් අතැතිව ලකුණු 10ක ඉලක්කයක් යොමුව තිබුණි.
-
-කෙසේ වෙතත් එම පන්දුවාරය යොමු කළ දිල්ෂාන් මදුසංඛ ඒ වන විටත් ලකුණු අතර සිටි සිකන්දර් රාස (92) ඇතුළු කඩුලු ත්‍රිත්වයක් දවා ගනිමින් තරගයේ ජය ශ්‍රී ලංකාව දෙසට හරවා ගත්තේය.
-
-සිම්බාබ්වේ කණ්ඩායම වෙනුවෙන් Sikandar Raza පන්දු 87කදී ලකුණු 92ක් රැස් කිරීමට සමත් වූ අතර Ben Curran පන්දු 90කදී ලකුණු 70ක් රැස් කළේය.
-
-එමෙන්ම නායක Sean Williams පන්දු 54කදී  ලකුණු 57ක් රැස් කළ අතර Tony Munyonga නොදැවී ලකුණු 43 රැස් කිරීමට සමත් විය.
-
-...
-
-[Data](articles/259ea6ea.json)
-
----
-
-### උද්දිකගේ නඩුවට අදාළව නීතිපති උපදෙස් කඩිනමින් ගන්නැයි CIDයට නියෝග
-
-*2025-08-29 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213945) · `si`
-
-අනුරාධපුර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රි උද්දික ප්‍රේමරත්න ගමන් ගත් මෝටර් රථයට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් සිදු කර ඇති විමර්ශනවලට අදාළව නීතිපති උපදෙස් කඩිනමින් ලබා ගැනීමට අවැසි පියවර ගන්නා ලෙස අනුරාධපුර අතිරේක මහේස්ත්‍රාත් පී එච් ඩබ් ඩ් එල් සමරසිංහ මහත්මිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට නියෝග කළාය.
-
-අතිරේක මහේස්ත්‍රාත්වරිය මෙසේ නියෝග කළේ අනුරාධපර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍ර උද්දික ප්‍රේමරත්න මහතාගේ මෝටර් රථයට වෙඩි තැබීමේ සිද්ධියට අදාළ නඩුව අනුරාධපුර අතිරේක මහේස්ත්‍රාත් අධිකරණය හමුවේ යළි කැඳවූ අවස්ථාවේදීය.
-
-මෙහිදී වැඩිදුර වාර්තාවක් ඉදිරිපත් කරමින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට දැනුම් දුන්නේ මෙම සිද්ධිය සම්බන්ධයෙන් පවත්වා ඇති විමර්ශනවල උද්ධෘත (සටහන්) ඉකුත් පෙබරවාරි මස 17 දින නීතිපති උපදෙස් සඳහා නීතිපතිවරයා වෙත යවා ඇති බවය.
-
-එහෙත් ඊට අදාළ නීතිපති උපදෙස් මෙතෙක් ලැබී නැති බව ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුම් දුන්නේය.
-
-...
-
-[Data](articles/2fa3251a.json)
-
----
-
-### Sri Lanka inflation up 2.0-pct over 35-months, prices deflate in Aug
-
-*2025-08-29 21:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-up-2-0-pct-over-35-months-prices-deflate-in-aug-238704/) · `en`
-
-ECONOMYNEXT – Sri Lanka inflation in the capital Colombo rose 2.0 percent over the 35 months since September 2022, when the central bank’s deflationary policy started to show up in the balance of payments, official data showed.
-
-In the 12-months to August 2025, consumer prices were up 1.2 percent, data from the Department of Census and Statistics showed.
-
-Sri Lanka’s Colombo Consumer Price Index fell 0.4 percent absolutely in the month of August to 193.3 points after falling 0.2 percent in July.
-
-However, in September and October 2024, the index dropped below 190 points, which can lead to higher 12 month inflation next month.
-
-In July and August 2025, the food sub-index fell steeply from 249.3 to 239.4 points.
-
-The food price index is now 3.0 percent below the September 2022, after briefly reaching crisis level highs in June.
-
-Sri Lanka money market has seen high levels of excess liquidity including from dollar rupee swaps early in 2025, which has since come down.
-
-...
-
-[Data](articles/1ea01487.json)
-
----
-
-### சர்வதேச நீதிகோரிய காணாமலாக்கப்பட்டோரின் போராட்டத்திற்கு வலி. கிழக்கு பிரதேச சபை ஆதரவு - தவிசாளர் நிரோஷ்
-
-*2025-08-29 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/223739) · `ta`
-
-இனப்படுகொலையை வெளிப்படுத்தி சர்வதேச நீதிகோரும் போராட்டங்கள் சகலவற்றினையும் வலிகாமம் கிழக்கு பிரதேச சபை வரவேற்பதுடன் அவற்றிற்கு எமது ஆதரவினைத் தெரிவித்துக்கொள்கின்றோம் என சபையின் தவிசாளர் தியாகராஜா நிரோஷ்  தெரிவித்தார்.
-
-வெள்ளிக்கிழமை (29) தமிழ்த் தேசிய கட்சிகள் மற்றும் பொது அமைப்புக்கள் இணைந்து யாழ். நகரில் மேற்கொண்ட இனப்படுகொலைக்கு சர்வதேச நீதி கோரிய கையெழுத்துப் போராட்டத்தில் ஊடகங்களுக்குக் கருத்துரைக்கையிலேயே இவர் இவ்வாறு தெரிவித்தார். அவர் மேலும்,
-
-எமது இனத்தின் மீது நாட்டின் ஆட்சியாளர்களினால் திட்டமிட்ட இனப்படுகொலையே நடத்தப்பட்டது. இவ்; இனப் படுகொலையில் திட்டமிட்ட படுகொலைகள், வலிந்துகாணாமலாக்கப்பட்ட சம்பவங்கள், இடம்பெற்ற பாரதூரமான இன அடிப்படையிலான அரச பாரபட்சங்கள் என பரந்துள்ளன. இவ்வாரம் தொடர்ந்து இனப்படுகொலைக்கான நீதி கோரிய போராட்டங்கள் முடுக்கிவிடப்பட்டுள்ளன. இன்றைய தினம் தமிழ்த் தேசிய கட்சிகள் அரசியல் கட்சி பேதங்களுக்கு அப்பால் ஒன்றிணைந்து இனப்படுகொலைக்கான கையெழுத்துப் போராட்டத்தினை ஆரம்பித்துள்ளன.
-
-...
-
-[Data](articles/c053e866.json)
-
----
-
-### ජනපති මන්දිර හා අමාත්‍ය නිල නිවාස නිවාඩු නිකේතන කිරීමට ජනපතිගෙන් ආයෝජකයන්ට ආරාධනා
-
-*2025-08-29 20:59:12* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මන්දිර-හා-අමාත්‍ය-නිල-නිවාස-නිවාඩු-නිකේතන-කිරීමට-ජනපතිගෙන්-ආයෝජකයන්ට-ආරාධනා/11-418160) · `si`
-
-සංචාරක ක්ෂේත්‍රයේ, පෞද්ගලික අංශයේ පාර්ශ්වකරුවන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (29) පස්වරුවේ පැවැත්විණි.
-
-2026 වසරේ සංචාරක ක්ෂේත්‍රයේ අපේක්ෂිත ඉලක්ක සපුරා ගැනීමේදී හුදෙක් ප්‍රවර්ධන වැඩසටහන් පමණක් ප්‍රමාණවත් නොවන බවත්, රාජ්‍ය සහ පෞද්ගලික අංශය ඒකාබද්ධ වූ නව උපායමාර්ගික වැඩසටහනක් ක්‍රියාවට නැංවිය යුතු බවත් ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
-
-නුවරඑළිය, අනුරාධපුර, මහියංගණය සහ කතරගම ආදී ප්‍රදේශවල පිහිටි ජනාධිපති මන්දිර සහ අමාත්‍යවරුන්ගේ නිල නිවාස දෙස්විදෙස් සංචාරකයන් ඉලක්ක කර ගනිමින් සුවපහසු නිවාඩු නිකේතන ලෙස සංවර්ධනය කිරීමට ආයෝජනය කරන ලෙස මෙහිදී ව්‍යාපාරිකයන්ට ආරාධනා කළ ජනාධිපතිවරයා ඒ වෙනුවෙන් විධිමත් වැඩපිළිවෙළක් නුදුරේදීම ක්‍රියාවට නංවන බව ප්‍රකාශ කළේය.
-
-සංචාරක ක්ෂේත්‍රයේ කටයුතු කරගෙන යාමේදී දැනට පවතින අඩුපාඩු සහ අභියෝග පිළිබඳව ව්‍යාපාරිකයන් මෙහිදී ජනාධිපතිවරයාගේ අවධානයට ලක් කළ අතර, සංචාරක ක්ෂේත්‍රයේ උන්නතිය වෙනුවෙන් වූ යෝජනා ලබා දෙන ලෙස ජනාධිපතිවරයා මෙහිදී ව්‍යාපාරිකයන්ට ඇරයුම් කළේය.
-
-...
-
-[Data](articles/21f632c7.json)
-
----
-
-### දෛනික පොලිස් සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට
-
-*2025-08-29 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213944) · `si`
-
-සංවිධානාත්මක අපරාදකරුවන්, මත්ද්‍රව්‍ය, නීති විරෝධී ගිනි අවි හා රථවාහන අත්අඩංගුවට ගැනීම සදහා දියත්කර ඇති දෛනික මෙහෙයුම් මාලාවේ තවත් එක් මෙහෙයුමක් ඊයේ (28) දිනය තුළදී ද සිදුකර තිබේ.
-
-ඒ අනුව ඊයේ දිනය පුරා ශ‍්‍රී ලංකා පොලීසියේත්, පොලිස් විශේෂ කාර්ය බලකායේත් ත‍්‍රිවිධ හමුදාවේත් 6,180 දෙනෙකු සම්බන්ධ වී මෙම විශේෂ සෝදිසි මෙහෙයුම් සිිදු කර ඇත.
-
-එහිදී පුද්ගලයන් 27,476 දෙනෙක් පරීක්ෂාවට ලක් කෙරුණු අතර වාහන 11,418 ක්ද යතුරු පැදි 8,117 ක ප‍්‍රමාණයක්ද පරීක්ෂාවට ලක් කර තිබේ.
-
-ඊයේ දිනයේදී දිවයින පුරා සිදු කළ වැටලීම්වලදී පමණක් මත්ද්‍රව්‍ය සම්බන්දයෙන් පුද්ගලයන් 850 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර අපරාදවලට සෘජු ලෙස සම්බන්ධ පුද්ගලයන් 22 දෙනෙකුද වරෙන්තුකරුවන් 437 දෙනෙකුද අත්අඩංගුවට පත්ව ඇත.
-
-...
-
-[Data](articles/cccc4c81.json)
 
 ---

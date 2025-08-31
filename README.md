@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 19:32:22**
+As of **2025-08-31 19:48:52**
 
 ## Newspaper Stats
 
-*Scraped **73,344** Articles*
+*Scraped **73,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,063
-adaderanalk | 9,332
+adaderanalk | 9,336
 tamilmirrorlk | 10,893
 virakesarilk | 12,020
-adaderanasinhalalk | 12,729
+adaderanasinhalalk | 12,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,344 articles have been extended.
+61,973 (84.5%) of 73,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### දුරකථනයෙන් කළ මරණ තර්ජනයට පද්මේ, CI ලින්ටන්ගෙන් සමාව අයැදී
+
+*2025-08-31 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214003) · `si`
+
+ශ්‍රී ලංකා පොලිසිය, ඉන්දුනීසියාවේ ජකර්තා නුවර පොලිසිය සහ ජාත්‍යන්තර පොලිසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් පසුගියදා අත්අඩංගුවට ගැනුණු සංවිධානාත්මක අපරාධකරුවන් මෙන්ම, මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, බැකෝ සමන් ඇතුළු පිරිස රැගත් ශ්‍රී ලංකන් ගුවන් යානය ඊයේ රාත්‍රි 7.30ට පමණ කටුනායක ගුවන් තොටුපොළට ළඟා විය.
+
+එම යානයේ ඉන්දුනීසියානු පොලිස් නිලධාරීන් කණ්ඩායමක්ද පැමිණි අතර, එහිදී ඔවුන්ව සහ මෙම මෙහෙයුම සිදුකළ බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල මහතා සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහකාර පොලිස් අධිකාරී මහින්ද ජයසුන්දර යන නිලධාරීන් ද පොලිසිය විසින් පිළිගත්තේය.
+
+එම අවස්ථාවේදී ගුවන් තොටුපොළට පැමිණ සිටි මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා සහ පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා ඇතුළු නිලධාරීන් විසින් මෙම මෙහෙයුමේදී දායකත්වය දැක්වූ ඉන්දුනීසියානු ආරක්ෂක අංශ සාමාජිකයින්ට තිළිණ ප්‍රදානයක් සිදුකරනු ලැබුවේය.
+
+...
+
+[Data](articles/ca8a1488.json)
+
+---
 
 ### பசறையில் வீட்டிற்குள் மர்மமான முறையில் இரு இளைஞர்கள் சடலமாக மீட்பு!
 
@@ -45,6 +61,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d3a8fffa.json)
+
+---
+
+### 5 underworld figures including ‘Kehelbaddara Padme’ detained under PTA
+
+*2025-08-31 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112037/5-underworld-figures-including-kehelbaddara-padme-detained-under-pta) · `en`
+
+Five high-profile underworld figures, including ‘Kehelbaddara Padme’, who were recently arrested in Indonesia and brought back to the island last night (30), are being detained and interrogated under the Prevention of Terrorism Act (PTA), according to Police Headquarters.
+
+The suspects are reportedly being detained and questioned under 72-hour detention orders by the Criminal Investigation Department (CID) and the Western Province North Crimes Division.
+
+On August 27, five organized criminals from Sri Lanka were arrested in Indonesia, and they were brought back to the island last night (30).
+
+At the airport, the Indonesian officers who led the arrest and repatriation of the suspects, along with the Sri Lankan officers involved in the mission, were received and acknowledged by Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, and the Inspector General of Police (IGP), Priyantha Weerasooriya.
+
+...
+
+[Data](articles/b9d5da37.json)
+
+---
+
+### India committed to improving ties with China, Modi tells Xi
+
+*2025-08-31 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112036/india-committed-to-improving-ties-with-china-modi-tells-xi) · `en`
+
+Indian Prime Minister Narendra Modi said New Delhi was committed to improving ties with China in a key meeting with President Xi Jinping on Sunday, as both leaders discussed the need to expand trade and investment ties against the backdrop of U.S. tariffs.
+
+Modi is in China for the first time in seven years to attend a two-day meeting of the Shanghai Cooperation Organisation, along with Russian President Vladimir Putin and other leaders from Central, South and Southeast Asia and the Middle East, in a show of Global South solidarity.
+
+The meeting comes days after Washington imposed 50% tariffs on Indian goods in response to New Delhi’s purchase of Russian oil, a move analysts say has pushed Modi and Xi to align against Western pressures.
+
+Modi said India and China pursued strategic autonomy, and their ties should not be seen through the lens of a third country, according to an Indian foreign ministry readout of the meeting.
+
+...
+
+[Data](articles/dda10c53.json)
 
 ---
 
@@ -107,6 +159,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/79bc77ab.json)
+
+---
+
+### Foreign Minister to hold key talks with diplomats ahead of UNHRC session
+
+*2025-08-31 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112035/foreign-minister-to-hold-key-talks-with-diplomats-ahead-of-unhrc-session) · `en`
+
+Sri Lanka’s Foreign Minister, Vijitha Herath, has planned to hold discussions with High Commissioners and Ambassadors in Colombo, human rights activists, scholars, and attorneys in the country ahead of the 60th session of the UN Human Rights Council.
+
+Sources from the Ministry of Foreign Affairs told Ada Derana that the discussions will be held next week.
+
+The 60th session of the UN Human Rights Council is scheduled to commence in Geneva on September 8 and will continue until October 8.
+
+Accordingly, the Foreign Minister is scheduled to brief the diplomatic community on the measures taken to address human rights issues and to update them on the government’s overall progress since taking office about a year ago.
+
+If a vote is held on a resolution related to Sri Lanka at the UN Human Rights Council, the country will need to seek the support of other member states.
+
+...
+
+[Data](articles/526203a9.json)
 
 ---
 
@@ -175,6 +247,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6eb75b0d.json)
+
+---
+
+### Govt. may seek foreign assistance to fix Nilwala River salinity barrier issue – Minister
+
+*2025-08-31 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112034/govt-may-seek-foreign-assistance-to-fix-nilwala-river-salinity-barrier-issue-minister) · `en`
+
+Minister Sunil Handunnetti says that if the technical expertise available in the country is insufficient to resolve the issues caused by the irregular construction of the salinity barrier on the Nilwala River in Matara, the government will seek foreign assistance to find a permanent solution.
+
+The Minister made these remarks during a recent visit to the site.
+
+The barrier, originally built to address drinking water shortages in Matara, has not worked as intended allegedly due to substandard construction.
+
+As a result, residents are still facing problems. This is due to the National Water Supply and Drainage Board’s (NWSDB) decision to limit water supply to some areas because of the drought and saltwater intrusion into the river.
+
+However, as the Chairman of the Matara District Coordinating Committee, the Minister’s attention had been directed to this issue.
+
+To prevent saltwater from mixing with the river, authorities have decided to temporarily block nearby side canals using sandbags.
+
+...
+
+[Data](articles/b0ce9896.json)
 
 ---
 
@@ -1777,99 +1871,5 @@ The Minister stressed that it is now time to put a complete end to underworld cr
 ◼️
 
 [Data](articles/f1fd041c.json)
-
----
-
-### වන්දනා ගමනක් ගිය බස් රථය අනතුරක 57කට තුවාල, පුද්ගලයෙක් මරුට
-
-*2025-08-30 22:41:36* · [`adalk`](https://www.ada.lk/breaking_news/වන්දනා-ගමනක්-ගිය-බස්-රථය-අනතුරක-57කට-තුවාල--පුද්ගලයෙක්-මරුට/11-418166) · `si`
-
-පොතුවිල්, කෝමාරි ප්‍ර දේශයේදි අක්කරපත්තුව දෙස සිට පොතුවිල් දෙසට ධාවනය වූ වන්දනා නඩයක් රැගත් බස් රථයක් මාර්ගයෙන් ඉවතට පැන අනතුරක් සිදුව තිබේ. අනතුරින් බස් රථයෙන් ගමන් ගත් 57 දෙනෙකු පමණ තුවාල ලබා කෝමාරි, තිරුක්කෝවිල් හා පොතුවිල් යන රෝහල්වලට ඇතුළත් කර තිබේ.
-
-මෙහිදී බරපතල තුවාල ලබා සිටි අවුරුදු 74ක් වූ වැලිමඩ පදිංචි පුද්ගලයෙක් මිය ගොස් තිබේ. අනතුර සම්බන්ධයෙන් පොතුවිල් පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
-
-◼️
-
-[Data](articles/862539e8.json)
-
----
-
-### ‘Kehelbaddara Padme’ and 2 others to be handed over to CID
-
-*2025-08-30 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112012/kehelbaddara-padme-and-2-others-to-be-handed-over-to-cid) · `en`
-
-Underworld figure ‘Kehelbaddara Padme’, along with ‘Commando Salintha’ and ‘Panadura Nilanga’, are to be handed over to the Criminal Investigation Department (CID) for further investigations, the police said.
-
-Meanwhile, ‘Backhoe Saman’ and ‘Thembili Lahiru’ will be placed under the custody of the Western Province North Crimes Division for continued inquiries.
-
-The suspects were among the five high-profile underworld figures arrested in Indonesia and brought back to Sri Lanka on Saturday (30) amidst tight security.
-
-◼️
-
-[Data](articles/0a7668b6.json)
-
----
-
-### කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස ගැන පුළුල් විමර්ශනයක් කරන බව ඇමති කියයි
-
-*2025-08-30 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213977) · `si`
-
-කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස ගැන පුළුල් විමර්ශනයක් සිදු කරන බව මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-ඔහු මේ බව සඳහන් කළේ කටුනායක ගුවන්තොටුපොළේ දී මාධ්‍ය වෙත අදහස් දක්වමිනි.
-
-එමෙන්ම එහිදී ඔහු සඳහන් කර සිටියේ මෙම සංවිධානාත්මක අපරාධ කණ්ඩායම් දීර්ඝ කාලයක් තිස්සේ මේ රටේ වර්ධනය වූයේ දේශපාලඥයන්ගේ ආශිර්වාදය සහිතව බවය.
-
-එමෙන්ම පාතාල අපරාධවලට තවදුරටත් මේ රටේ ජනතාව පීඩාවට පත් කිරීමට ඉඩ නොදෙන බවත් එය සම්පූර්ණයෙන්ම නවතා දැමීමට දැන් කාලය එළැඹ ඇති බවත් එහිදී අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා,
-
-...
-
-[Data](articles/d66611a9.json)
-
----
-
-### මහනුවර ජාතික රෝහලේ අක්කර 28ක් අනවසර පදිංචිකරුවන්ගේ ග්‍රහනයට
-
-*2025-08-30 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213976) · `si`
-
-මහනුවර ජාතික රෝහල සතු ඉඩම් අක්කර 58න් අක්කර 28ක්ම අනවසර පදිංචිකරුවන් අත්පත්කරගෙන ඇතැයි එහි අධ්‍යක්ෂිකා වෛද්‍ය ඉරේෂා ප්‍රනාන්දු මහත්මිය පවසයි.
-
-මෙම ඉඩම්වල ගොඩනැගිලි ඉදිකිරීම දිගින් දිගටම සිදුවන අතර ඒ හේතුවෙන් රෝහල් කටයුතු පවත්වාගෙන යෑමේදී දැඩි දුෂ්කරතා මතුව ඇති බව ඇය සඳහන් කළේය.
-
-ශ්‍රී ලංකාවේ දෙවැනි ප්‍රධානතම ජාතික රෝහල වන මහනුවර ජාතික රෝහල ශික්ෂණ රෝහලක් ලෙසද ප්‍රචලිතය.
-
-එහි වාට්ටු 80ක්, දැඩි සත්කාර ඒකක 11ක් සහ අනෙකුත් ප්‍රතිකාර ඒකක ස්ථාපිත කර තිබේ.
-
-දිවයිනේ නන්දෙසින් පැමිණෙන විශාල රෝගීන් ප්‍රමාණයක් දෛනිකව ප්‍රතිකාර ලබාගන්නා මෙම රෝහල තවත් දියුණු කළ හැකිවුවත් ඊට බාධා මතුව ඇත.
-
-ඒ රෝහල සතු ඉඩම්වල පුද්ගලයින් අනවසරයෙන් පදිංචි වී සිටීම හේතුවෙනි.
-
-රෝහල සතු ඉඩම්වල නිවාස, වෙළෙඳසැල් සහ ගොඩනැගිලි ඉදිකර ඇති අතර තවදුරටත් එවැනි ඉදිකිරීම් ද ඉදිවෙමින් පවතියි.
-
-එවැනි තත්ත්වයක් තුළ රෝහල් කටයුතු පවත්වාගෙන යෑමේදී මතුව ඇත්තේ දැඩි දුෂ්කරතාවන් ය.
-
-එමෙන්ම වෙළෙඳසැල්, මල්ශාලා, යතුරුපැදි ගාල්කිරීම නිසා මහනුවර ජාතික රෝහලට පිවිසෙන මාර්ගය පවා අවහිර වී තිබේ.
-
-...
-
-[Data](articles/045b0440.json)
-
----
-
-### செம்மணி–சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 10 எலும்புக்கூடுகள் கண்டெடுப்பு
-
-*2025-08-30 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/223795) · `ta`
-
-செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் சனிக்கிழமை (30) மேலும் 10 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
-
-இதன் அடிப்படையில் இதுவரை 197 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 180 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
-
-யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 38வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f452cab0.json)
 
 ---

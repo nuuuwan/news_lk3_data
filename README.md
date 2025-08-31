@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 11:07:15**
+As of **2025-08-31 11:19:24**
 
 ## Newspaper Stats
 
-*Scraped **73,282** Articles*
+*Scraped **73,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,056
 adaderanalk | 9,319
-tamilmirrorlk | 10,883
+tamilmirrorlk | 10,885
 virakesarilk | 12,010
 adaderanasinhalalk | 12,711
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 12,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,282 articles have been extended.
+61,973 (84.6%) of 73,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### ஆணுறை அணியாமல்.. விடிய விடிய..
+
+*2025-08-31 11:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆணுறை-அணியாமல்-விடிய-விடிய/54-363778) · `ta`
+
+சமீபத்தில் Metro Mail என்ற யூட்யூப் சேனலில் நடிகர் பயில்வான் ரங்கநாதன், மாதம்பட்டி ரங்கராஜ் என்பவரின் இரண்டாவது திருமணம் மற்றும் அதைச் சுற்றிய சர்ச்சைகள் குறித்து பேசியது பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+ரங்கராஜின் முதல் மனைவி சுருதியை விவாகரத்து செய்யாமல், ஆடை வடிவமைப்பாளர் ஜாய் கிரிஸ்டலாவுடன் லிவிங் டு கெதர் வாழ்க்கை வாழ்ந்து, பின்னர் ஆறு மாத கர்ப்பிணியாக இருக்கும் ஜாயுடன் திருமணம் செய்து கொண்டதாக பயில்வான் குறிப்பிட்டார்.
+
+மாதம்பட்டி ரங்கராஜ், ஜாய் கிரிஸ்டலாவுடன் ஒரு கோயிலில் நடந்த திருமணம் சட்டப்படி செல்லுபடியாகாது என்று பயில்வான் தெரிவித்தார்.
+
+இந்து மத அறநிலையத் துறை விதிகளின்படி, திருமணத்திற்கு ஆதார் அட்டை, முறையான பதிவு, சான்றிதழ் உள்ளிட்டவை தேவைப்படுகின்றன. ஆனால், இந்த திருமணத்தில் இவை பின்பற்றப்படவில்லை என்று அவர் கூறினார்.
+
+முதல் மனைவி சுருதி: ரங்கராஜின் முதல் மனைவி சுருதி, திமுகவின் மகளிரணி நிர்வாகியாக உள்ளவர். அவருக்கு ரங்கராஜுடன் இரண்டு குழந்தைகள் உள்ளனர். சுருதி, தனது கணவர் இன்னும் தன்னை விவாகரத்து செய்யவில்லை என்றும், தனது குழந்தைகளுக்கு ரங்கராஜே தந்தை என்றும் கூறியுள்ளார்.
+
+...
+
+[Data](articles/3714104a.json)
+
+---
+
+### ஆடையில் காய்ந்த விந்து:  காருக்குள் பேண்ட்டை கழட்டி
+
+*2025-08-31 11:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையில்-காய்ந்த-விந்து-காருக்குள்-பேண்ட்டை-கழட்டி/175-363777) · `ta`
+
+தமிழ் மற்றும் மலையாள திரையுலகில் முன்னணி நடிகையாக வலம் வரும் லட்சுமி மேனன், குடிபோதையில் தனது நண்பர்களுடன் இணைந்து ஒரு ஐடி ஊழியரை கடத்தி, தாக்கி, அவமானப்படுத்தியதாக அதிர்ச்சி தரும் குற்றச்சாட்டுகள் எழுந்துள்ளன.
+
+இந்த சம்பவம் அவரது பொது இமேஜையும், எதிர்கால திரைப்பட வாழ்க்கையையும் பெரும் கேள்விக்குறியாக்கியுள்ளது.
+
+கொச்சியில் உள்ள பிரபல மதுபான விடுதியில் 2025 ஆகஸ்ட் 24  அன்று நடந்த வாக்குவாதத்தைத் தொடர்ந்து இந்த சம்பவம் நிகழ்ந்ததாகக் கூறப்படுகிறது. லட்சுமி மேனன் மற்றும் அவரது மூன்று நண்பர்கள், 27 வயது ஐடி ஊழியரான அலியர் ஷா சாலிமுடன் மோதலில் ஈடுபட்டனர்.
+
+வாக்குவாதம் முற்றிய நிலையில், அலியர் மற்றும் அவரது நண்பர்கள் மதுபான விடுதியை விட்டு வெளியேறியபோது, லட்சுமி மற்றும் அவரது குழுவினர் அவர்களை காரில் பின்தொடர்ந்து, எர்ணாகுலம் வடக்கு ரயில்வே ஓவர்பிரிஜ் அருகே அவர்களது வாகனத்தை வழிமறித்தனர்.
+
+பொலிஸ் அறிக்கையின்படி, லட்சுமி மேனனின் நண்பர்கள் ஐடி ஊழியரை காரில் கடத்திச் சென்று, அவரை உடல் மற்றும் மன ரீதியாக துன்புறுத்தியதாகக் கூறப்படுகிறது.
+
+...
+
+[Data](articles/4427afcb.json)
+
+---
 
 ### காதலனை ரூ.11 இலட்சத்துக்கு விற்ற காதலி
 
@@ -1767,41 +1807,5 @@ The excise for a 100 KW motor vehicle is 2.4 million rupees, but this rises to a
 ◼️
 
 [Data](articles/82bda7e2.json)
-
----
-
-### Turn President’s Houses in tourist areas into holiday resorts – President
-
-*2025-08-30 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/111997/turn-presidents-houses-in-tourist-areas-into-holiday-resorts-president) · `en`
-
-A discussion on the 2026 Pre-Budget for the tourism sector with private sector stakeholders was held last afternoon (29) at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
-
-The President pointed out that mere promotional programmes would not suffice to achieve the expected targets of the tourism sector for 2026. He emphasised the need for a new strategic programme jointly implemented by both the public and private sectors, according to the President’s Media Division (PMD).
-
-Inviting entrepreneurs to invest in transforming President’s Houses and Ministers’ official bungalows located in areas such as Nuwara Eliya, Anuradhapura, Mahiyanganaya and Kataragama into comfortable holiday resorts targeting foreign tourists, the President announced that a formal programme in this regard would be launched in the near future.
-
-...
-
-[Data](articles/96628a2f.json)
-
----
-
-### Suspected gunman arrested over Nawinna shooting incident
-
-*2025-08-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/111996/suspected-gunman-arrested-over-nawinna-shooting-incident) · `en`
-
-A suspect has been arrested in connection with the recent shooting incident at Nawinna Junction, Maharagama, where a motorcyclist opened fire on a person along the High Level Road.
-
-Police said that, acting on received information, officers of the Western Province South Range Crime Division carried out a raid in Kottawa and arrested the suspect.
-
-Investigations have revealed that the arrested individual was the gunman involved in the shooting, which took place on 6 August 2025.
-
-Upon further questioning, police recovered a foreign-made firearm and three 12-bore bullets from the suspect’s residence.
-
-The suspect, a 39-year-old resident of Kiriwatthuduwa, is currently in police custody, and further investigations are underway, said police.
-
-◼️
-
-[Data](articles/a923204c.json)
 
 ---

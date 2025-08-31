@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 23:32:12**
+As of **2025-08-31 23:51:04**
 
 ## Newspaper Stats
 
-*Scraped **73,362** Articles*
+*Scraped **73,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,065
-adaderanalk | 9,337
+adaderanalk | 9,339
 tamilmirrorlk | 10,894
-virakesarilk | 12,023
+virakesarilk | 12,024
 adaderanasinhalalk | 12,736
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,362 articles have been extended.
+61,973 (84.5%) of 73,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### எரிபொருள் விலைகள் தொடர்பில் வெளியான அறிவிப்பு
+
+*2025-08-31 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/223877) · `ta`
+
+இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தின் மாதாந்த எரிபொருள் விலை திருத்தத்தின்படி, இன்று (ஆகஸ்ட் 31) நள்ளிரவு முதல் எரிபொருள் விலை குறைக்கப்பட்டுள்ளது.
+
+அதன்படி, ஒட்டோ டீசல் ஒரு லீற்றரின் விலை 6 ரூபாவினால் குறைக்கப்பட்டுள்ளது. முன்னதாக 289 ரூபாவாக இருந்த ஒரு லீற்றர் ஒட்டோ டீசலின் புதிய விலை 283 ரூபாவாகும்.
+
+சுப்பர் டீசல் ஒரு லீற்றரின் விலை 12 ரூபாவினால் குறைக்கப்பட்டு, அதன் புதிய விலை 313 ரூபாவாக நிர்ணயிக்கப்பட்டுள்ளது. இதற்கு முன்னர் அதன் விலை 325 ரூபாவாக இருந்தது.
+
+ஒக்டேன் 92 ரக பெற்றோல் ஒரு லீற்றரின் விலை 6 ரூபாவினால் குறைக்கப்பட்டு, 305 ரூபாவிலிருந்து 299 ரூபாவாக அதன் புதிய விலை குறைக்கப்பட்டுள்ளது.
+
+எனினும், ஒக்டேன் 95 ரக பெற்றோல் மற்றும் மண்ணெண்ணெய் ஆகியவற்றின் விலைகளில் எவ்வித மாற்றமும் இல்லை. ஒக்டேன் 95 பெற்றோல் ஒரு லீற்றர் 341 ரூபாவிற்கும், மண்ணெண்ணெய் ஒரு லீற்றர் 185 ரூபாவிற்கும் தொடர்ந்து விற்பனை செய்யப்படும்.
+
+◼️
+
+[Data](articles/e791d79e.json)
+
+---
 
 ### எரிபொருள் விலையில் அதிரடி மாற்றம்
 
@@ -47,6 +67,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/66eb7922.json)
+
+---
+
+### Fuel prices reduced
+
+*2025-08-31 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112040/fuel-prices-reduced-) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) has announced a revision of fuel prices effective from midnight today (31).
+
+According to the announcement, the price of Auto Diesel will be reduced by Rs. 6 to Rs. 283 per litre, and Super Diesel will be reduced by Rs. 12 to Rs. 313 per litre.
+
+Petrol 92 Octane will be reduced by Rs. 6 to Rs. 299 per litre.
+
+Meanwhile, there will be no change in the prices of Petrol 95 Octane and Kerosene.
+
+◼️
+
+[Data](articles/b8d6a109.json)
 
 ---
 
@@ -165,6 +203,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/257e563a.json)
+
+---
+
+### US judge blocks deportations of unaccompanied migrant children to Guatemala
+
+*2025-08-31 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112039/us-judge-blocks-deportations-of-unaccompanied-migrant-children-to-guatemala) · `en`
+
+A federal judge on Sunday issued a restraining order blocking the Trump administration from deporting 10 unaccompanied migrant children to Guatemala after lawyers said the removals would violate U.S. laws.
+
+Washington, D.C.-based District Judge Sparkle Sooknanan ordered the administration to refrain from deporting the children for 14 days and called for a hearing at 3 p.m. The National Immigration Law Center, a pro-immigration advocacy group, brought the challenge on behalf of the children, who are ages 10-17.
+
+President Donald Trump’s administration struck an agreement with Guatemala that would allow the removal of unaccompanied children back to the country and planned to start deportations this weekend, one current and two former U.S. officials told Reuters. The plans were first reported by CNN on Friday.
+
+Trump, a Republican, kicked off a wide-ranging immigration crackdown after returning to the White House in January.
+
+...
+
+[Data](articles/10f0c627.json)
 
 ---
 
@@ -1821,63 +1877,5 @@ The gross street value of the stock of Kerala cannabis held in these operations 
 ...
 
 [Data](articles/4fd4d1b9.json)
-
----
-
-### Sri Lanka construction expands in July 2025: PMI
-
-*2025-08-31 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-july-2025-pmi-238711/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s construction sector expanded in July 2025, registering a value of 60.0 on a Purchasing Managers Index compiled by the central bank.
-
-“Many firms reported a steady increase in the availability of construction projects, signalling the positive growth momentum in the industry,” the central bank said.
-
-A growth in road development and private sector projects in July contributed to the increase in the New Orders Index during the month.
-
-The Employment Index remained at a neutral level registering 50.0 in July, from 51.4 in June.
-
-The Quantity of Purchases Index expanded at a slower rate, registering 52.9 in July from 57.1 in June.
-
-The Suppliers’ Delivery Time remained extended during the month recording 51.4 in July.
-
-The outlook for construction activities is positive, with many firms anticipating an increased presence of government sector projects, the central bank said. (Colombo/Aug30/2025)
-
-◼️
-
-[Data](articles/a78bf92d.json)
-
----
-
-### ’மனிதப் புதைகுழிகள் தொடர்பில் சுயாதீன விசாரணை வேண்டும்’
-
-*2025-08-31 07:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனிதப்-புதைகுழிகள்-தொடர்பில்-சுயாதீன-விசாரணை-வேண்டும்/175-363769) · `ta`
-
-இலங்கையில், அண்மையில் மனிதப் புதைகுழிகளில் இருந்து மீட்கப்பட்ட சிறுவர்கள் உள்ளிட்ட பலரின் மனித என்புக்கூடுகள் மற்றும் தனிப்பட்ட உடைமைகள் என்பன கடந்த கால மனித உரிமை மீறல்களின் அளவையும், நம்பகமான, வெளிப்படையான மற்றும் சுயாதீன விசாரணைகளுக்கான அவசரத் தேவையையும் வலியுறுத்துகின்றன என்று இலங்கைக்கான ஐக்கிய நாடுகள் வதிவிட ஒருங்கிணைப்பாளர் மார்க் ஆண்ட்ரே பிராஞ்ச் தெரிவித்துள்ளார்.
-
-சர்வதேச காணாமல்போனோர் தினம் அனைத்து பாதிக்கப்பட்டவர்கள் மற்றும் அவர்களது குடும்பத்தினரின் நினைவை மதிக்கும் ஒரு நாள் என்றும், சர்வதேச மனித உரிமைகள் சட்டத்தின் கீழ் இந்த மீறலை ஒருபோதும் பொறுத்துக்கொள்ளவோ, மன்னிக்கவோ அல்லது மறக்கவோ கூடாது என்பதை நினைவூட்டுவதாகவும் அவர் தெரிவித்துள்ளார்.
-
-நீதி, உண்மை மற்றும் இழப்பீடுகள் ஆகியவை நல்லிணக்கம், நிறுவனங்கள் மீதான நம்பிக்கை மற்றும் இலங்கையர்கள் நீண்டகாலமாகத் தேடிக்கொண்டிருக்கும் நிலையான அமைதியின் பிரிக்க முடியாத அடித்தளங்கள் என்று அவர் குறிப்பிட்டுள்ளார்
-
-...
-
-[Data](articles/ded4159f.json)
-
----
-
-### Indonesian police officers involved in operation to apprehend ‘Kehelbaddara Padme’ and his group felicitated
-
-*2025-08-31 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112018/indonesian-police-officers-involved-in-operation-to-apprehend-kehelbaddara-padme-and-his-group-felicitated-) · `en`
-
-Commemorative plaques have been presented to the Indonesian police officers involved in the operation to apprehend Kehelbaddara Padme and his group.
-
-Additionally, both the Indonesian police officers and the Sri Lankan police officers who participated in the operation were commended by the Minister of Public Security and Parliamentary Affairs, Ananda Wijepala.
-
-On August 27, five organized criminals from Sri Lanka were arrested in Indonesia, and they were brought back to the island last night (30) via the Bandaranaike International Airport (BIA).
-
-At the airport, the Indonesian officers who led the arrest and repatriation of the suspects, along with the Sri Lankan officers involved in the mission, were received and acknowledged by Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, and the Inspector General of Police, Attorney Priyantha Weerasooriya.
-
-...
-
-[Data](articles/6e0a588e.json)
 
 ---

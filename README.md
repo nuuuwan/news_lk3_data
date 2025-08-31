@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 10:08:37**
+As of **2025-08-31 10:20:57**
 
 ## Newspaper Stats
 
-*Scraped **73,269** Articles*
+*Scraped **73,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,055
 adaderanalk | 9,316
-tamilmirrorlk | 10,878
+tamilmirrorlk | 10,879
 virakesarilk | 12,008
-adaderanasinhalalk | 12,709
+adaderanasinhalalk | 12,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,269 articles have been extended.
+61,973 (84.6%) of 73,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### ලක්ෂ 20ක අල්ලස් ගැනීමට උත්සාහ කළ සුරාබදු නිලධාරීන් තිදෙනෙකු අත්අඩංගුවට
+
+*2025-08-31 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213984) · `si`
+
+මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් බව පවසමින් ලක්ෂ 20ක අල්ලස් ලබාගත් චන්කානයි හි සුරාබදු කාර්යාලයේ නිලධාරීන් තුන් දෙනෙකු උතුරු පළාත් අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+උතුරු පළාත් අපරාධ කොට්ඨාසයේ ස්ථානාධිපති එස්. සංජීව මහතාට ලැබුණු බුද්ධි තොරතුරක් අනුව ඊයේ (29) සවස සිදුකළ වැටලීමකදි මෙම තිදෙනා අත්අඩංගුවට ගෙන ඇත.
+
+අදාළ සුරාබදු නිලධාරීන් තිදෙනා මාදගල් ප්‍රදේශයේ වෙරළ තීරයකදී හොරයින් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන පසුව තමන් මත්ද්‍රව්‍ය කාර්යාංශයට අයත් බව පවසා තිබේ.
+
+පසුව ඔහුව චන්කානෙ හි පිහිටි සුරාබදු කාර්යාලය වෙත රැගෙන ගොස් ඇති අතර එහිදී ඔහු සතුව තිබූ ජංගම දුරකථනයෙන් ඔහුගේ සහෝදරිය වෙත අමතා ඇති සැකකරුවන් විසින් අදාළ පුද්ගලයා නිදහස් කිරීමට රුපියල් ලක්ෂ 20ක මුදලක් අවශ්‍ය බව පවසා තිබේ.
+
+පසුව මෙම සිද්ධිය සම්බන්ධව අදාළ කාන්තාව විසින් උතුරු පළාත් අපරාධ කොට්ඨාසයේ ස්ථානාධිපතිවරයා දැනුවත් කර ඇති අතර ඒ අනුව සිදුකළ වැටලීමකදි අදාළ සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් පිරිස අවුරුදු 48,36,32 වයස්වල පසුවන සුරාබදු ප්‍රධාන නිලධාරීවරයෙකු සහ සුරාබදු නියාමකවරුන් දෙදෙනෙකු බවද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/459f326f.json)
+
+---
+
+### சமன் ஏக்கநாயக்கவுக்கு சி.ஐ.டி அழைப்பு
+
+*2025-08-31 09:57:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமன்-ஏக்கநாயக்கவுக்கு-சி-ஐ-டி-அழைப்பு/175-363773) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் இங்கிலாந்து பயணம் மற்றும் வருகைக்காக அரசு நிதியைத் தவறாகப் பயன்படுத்திய குற்றச்சாட்டு குறித்து வாக்குமூலம் அளிக்க சமன் ஏக்கநாயக்கவை, திங்கட்கிழமை (01)  நாளையதினம் முன்னிலையாகுமாறு குற்றப்புலனாய்வுத் திணைக்களம் அழைப்பு விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/71645b6b.json)
+
+---
 
 ### கோட்டாவுக்கு சி.ஐ.டி அழைப்பு
 
@@ -59,6 +93,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fb96d748.json)
+
+---
+
+### රාජ්‍ය ආයතනවල භාවිතයට කැබ් රථ 2000ක් ආනයනයට සැලසුම්
+
+*2025-08-31 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213983) · `si`
+
+ලබන වසර මුලදී රාජ්‍ය ආයතන ප්‍රධානීන් සඳහා කැබ් රථ 2000ක් ගෙන්විමට ද සැලසුම් කර ඇති බව පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය රුවන් සෙනරත් මහතා පවසයි.
+
+ඒ පිළිබඳව වැඩිදුරටත් අදහස් දැක්වූ පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය  අමාත්‍ය රුවන් සෙනරත් මහතා,
+
+...
+
+[Data](articles/eddd1321.json)
 
 ---
 
@@ -1779,67 +1827,5 @@ Inviting entrepreneurs to invest in transforming President’s Houses and Minist
 ...
 
 [Data](articles/54b2202e.json)
-
----
-
-### අද කාලගුණය
-
-*2025-08-30 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213950) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (30) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් ඒ් බව සඳහන් කරයි.
-
-එහි වැඩිදුරටත් දැක්වෙන්නේ, ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස  2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ද ඇතිවිය හැකිය.
-
-තද සුළං හේතුවෙන් ඇතිවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සූර්යයා සෘජුවම ඉහළින් පවතී.
-
-අද දින දහවල් 12:11 ට වංකලෙයි, ඕමන්තයි, වෙදමකිලන්කුලම්, බෝගස්වැව සහ තිරියාය ප්‍රදේශවලට සූර්යයා මුදුන්ව පවතී.
-
-◼️
-
-[Data](articles/bec46c31.json)
-
----
-
-### செம்மணியில் நேற்று 10 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-08-30 05:05:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-10-எலும்புக்கூடுகள்-அடையாளம்/175-363748) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது புதிதாக 10 எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளன.
-
-இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் அடையாளம் காணப்பட்ட மனித என்புத் தொகுதிகளின் எண்ணிக்கை 187ஆக அதிகரித்துள்ளது.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 37ஆம் நாள் அகழ்வு நேற்று இடம்பெற்றது.
-
-நேற்றைய அகழ்வின் போது 10 எலும்புக்கூடு தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித எலும்புக்கூட்டு தொகுதிகளின் எண்ணிக்கை 187ஆக அதிகரித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/3972a894.json)
-
----
-
-### US court rules many of Donald Trump’s global tariffs are illegal
-
-*2025-08-30 04:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/111992/us-court-rules-many-of-donald-trumps-global-tariffs-are-illegal) · `en`
-
-A US appeals court has ruled that most tariffs issued by US President Donald Trump are illegal, potentially removing a foreign policy tool that Trump has used extensively during his second term in office.
-
-The ruling affects Trump’s “reciprocal” tariffs, imposed on most countries around the world, as well as other tariffs slapped on China, Mexico and Canada.
-
-In a 7-4 decision, the US Court of Appeals for the Federal Circuit rejected Trump’s argument that the tariffs were permitted under his emergency economic powers act, calling them “invalid as contrary to law”.
-
-The ruling will not take effect until 14 October to give the administration time to ask the Supreme Court to take up the case.
-
-Trump had justified the tariffs under the International Emergency Economic Powers Act (IEEPA), which gives the president the power to act against “unusual and extraordinary” threats.
-
-...
-
-[Data](articles/75f08253.json)
 
 ---

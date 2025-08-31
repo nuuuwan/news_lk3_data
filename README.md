@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 10:20:57**
+As of **2025-08-31 10:32:41**
 
 ## Newspaper Stats
 
-*Scraped **73,272** Articles*
+*Scraped **73,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,26 +17,60 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,055
-adaderanalk | 9,316
-tamilmirrorlk | 10,879
-virakesarilk | 12,008
+adaderanalk | 9,318
+tamilmirrorlk | 10,881
+virakesarilk | 12,010
 adaderanasinhalalk | 12,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,272 articles have been extended.
+61,973 (84.6%) of 73,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
 
+### இந்தோனேசிய அதிகாரிகளுக்கு பாராட்டு
+
+*2025-08-31 10:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசிய-அதிகாரிகளுக்கு-பாராட்டு/175-363774) · `ta`
+
+இந்தோனேசியாவின் ஜகார்த்தாவில் இலங்கை ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளைக் கைது செய்வதற்கு உதவிய இந்தோனேசிய பொலிஸ் சிறப்புப் படை அதிகாரிகள், அவர்களை சனிக்கிழமை (30) அன்று இரவு அழைத்து வந்த அதே விமானத்தில் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தனர்,
+
+பொலிஸ் சிறப்புப் படை அதிகாரிகளுக்கு விமான நிலையத்தில் வைத்து மாலை அணிவித்து வரவேற்கப்பட்டு நினைவுப் பரிசுகள் வழங்கப்பட்டன.
+
+பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால, பொலிஸ்மா அதிபர்ல் பிரியந்த வீரசூரிய, பொலிஸ் ஊடகப் பேச்சாளர் உட்லர், பொலிஸ் சிறப்புப் படை அதிகாரிகள்   மற்றும் குற்றப் புலனாய்வுத் துறையின் உயர் அதிகாரிகள் குழுவும் இந்த நிகழ்வில் பங்கேற்றனர்.
+
+கட்டுநாயக்க விமான நிலையத்தில் உள்ள சிறப்பு விருந்தினர்கள் ஓய்வறையில் இந்தப் பாராட்டு வியாழ நடத்தப்பட்டது.
+
+◼️
+
+[Data](articles/46b4c26b.json)
+
+---
+
+### அருகம் குடாவில் கைகலப்பு ; இரண்டு இஸ்ரேலிய பிரஜைகள் கைது
+
+*2025-08-31 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223811) · `ta`
+
+அருகம் குடாவில் ஹோட்டல் ஒன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் இரண்டு இஸ்ரேலிய பிரஜைகள் சனிக்கிழமை (31) பொத்துவில் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+தம்பதியினர் தங்கள் வாகனத்தில் பயணித்தபோது, 26 வயதுடைய இரண்டு வெளிநாட்டினர் வீதியை மறித்ததால் இந்த சம்பவம் நடந்ததாக பொலிஸால் தெரிவித்தனர். இதன்போது, இரு தரப்பினருக்கும் இடையில்  வாக்கு வாதம்  ஏற்பட்ட பின்னர் அது கைகலப்பாக மாறியுள்ளது.
+
+பாதிக்கப்பட்ட கணவன் மற்றும் மனைவி காயமடைந்து சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சந்தேக நபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
+
+◼️
+
+[Data](articles/3ddc89da.json)
+
+---
+
 ### ලක්ෂ 20ක අල්ලස් ගැනීමට උත්සාහ කළ සුරාබදු නිලධාරීන් තිදෙනෙකු අත්අඩංගුවට
 
 *2025-08-31 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213984) · `si`
 
-මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් බව පවසමින් ලක්ෂ 20ක අල්ලස් ලබාගත් චන්කානයි හි සුරාබදු කාර්යාලයේ නිලධාරීන් තුන් දෙනෙකු උතුරු පළාත් අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් බව පවසමින් ලක්ෂ 20ක අල්ලස් ලබා ගැනීමට තැත් කළ චන්කානයි හි සුරාබදු කාර්යාලයේ නිලධාරීන් තුන් දෙනෙකු උතුරු පළාත් අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
 උතුරු පළාත් අපරාධ කොට්ඨාසයේ ස්ථානාධිපති එස්. සංජීව මහතාට ලැබුණු බුද්ධි තොරතුරක් අනුව ඊයේ (29) සවස සිදුකළ වැටලීමකදි මෙම තිදෙනා අත්අඩංගුවට ගෙන ඇත.
 
@@ -46,9 +80,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පසුව මෙම සිද්ධිය සම්බන්ධව අදාළ කාන්තාව විසින් උතුරු පළාත් අපරාධ කොට්ඨාසයේ ස්ථානාධිපතිවරයා දැනුවත් කර ඇති අතර ඒ අනුව සිදුකළ වැටලීමකදි අදාළ සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබේ.
 
-අත්අඩංගුවට ගත් පිරිස අවුරුදු 48,36,32 වයස්වල පසුවන සුරාබදු ප්‍රධාන නිලධාරීවරයෙකු සහ සුරාබදු නියාමකවරුන් දෙදෙනෙකු බවද පොලීසිය පවසයි.
-
-◼️
+...
 
 [Data](articles/459f326f.json)
 
@@ -93,6 +125,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fb96d748.json)
+
+---
+
+### ரணில், மஹிந்த, சஜித் எவரும் எமக்கு சவால் இல்லை ; அடுத்த வருடம் மாகாண சபை தேர்தல் - பிமல் ரத்நாயக்க
+
+*2025-08-31 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223810) · `ta`
+
+திட்டமிட்டு எவரும் கைது செய்யப்படுவதில்லை. எவரும் எமக்கு அரசியல் ரீதியில் சவாலானவர்கள் அல்ல. ரணிலுடன் ஒன்றிணைந்த அனைவரும் நீதிமன்றில் வழக்குகள் உள்ளவர்கள். இவர்கள் ரணில் மீதுள்ள அன்பினால் ஒன்று சேரவில்லை. மாறாக ரணிலுக்கு எதிராக சட்டம் செயல்பட்டு உள்ளது என்றால் அடுத்தது நாங்கள் தான் என்பதை அவர்கள் அறிவார்கள் என தெரிவித்த அமைச்சர் பிமல் ரத்நாயக்க, ஓய்வுப்பெற்ற ஜனாதிபதிகளின் வரப்பிரசாதங்கள் தொடர்பான தீர்ப்பு கிடைக்கப்பெற்றுள்ளது. இந்த தீர்ப்பை இவ்வாரம் சபாநாயகர் பாராளுமன்றத்தில் அறிவிப்பார். இதன் பின்னர் ராஜபக்ஷர்கள் மீண்டும் மெதமுலனவுக்கு செல்ல நேரிடும் எனவும் அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/88b2f4f9.json)
+
+---
+
+### மட்டக்களப்பில் ஆர்ப்பாட்டம்...
+
+*2025-08-31 09:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மட்டக்களப்பில்-ஆர்ப்பாட்டம்/46-363770) · `ta`
+
+சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் தினத்தையொட்டி வடக்கு , கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர் சங்கத்தின் ஏற்பாட்டில் மட்டக்களப்பு கல்லடி பாலத்துக்கு அருகில் இருந்து காந்தி பூங்காவை நோக்கி பேரணியொன்று சனிக்கிழமை (30)  நடைபெற்றது.
+
+மட்டக்களப்பு கல்லடி பழைய பாலத்திற்கு அருகில் உயிர் நீத்த உறவுகள் மற்றும் வலிந்து காணாமல் ஆக்கப்பட்டவர்களை தேடி உயிர் நீத்த உறவுகளை நினைவுகூறும் வகையில் ஈகச்சுடர் ஏற்றப்பட்டு அகவணக்கம் செலுத்தப்பட்டதை தொடர்ந்து பேரணி ஆரம்பமானது.
+
+வலிந்துகாணாமல்ஆக்கப்பட்டவர்களின் வேதனைகளையும் நீதிக்கோரிக்கையினையும் சுமந்தவாறு வாகன ஊர்தி முன்செல்ல பேரணி மட்டக்களப்பு நகரை நோக்கிச் சென்றது.
+
+ஆயிரக்கணக்கான வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள் பல்வேறு கோரிக்கைகள் அடங்கிய பதாகைகளை மற்றும் காணாமல் போன தமது உறவுகளின் புகைப்படங்களை எந்தியவாறும் இந்த ஆர்ப்பாட்டத்தில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/4c1d989a.json)
 
 ---
 
@@ -141,6 +203,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d8e44e1f.json)
+
+---
+
+### Arab-Islamic ministerial committee urges U.S. to reverse visa ban on Palestinian officials
+
+*2025-08-31 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112021/arab-islamic-ministerial-committee-urges-us-to-reverse-visa-ban-on-palestinian-officials) · `en`
+
+The Ministerial Committee formed by the Joint Arab-Islamic Extraordinary Summit on Gaza on Saturday urged the U.S. administration to “reconsider and reverse” its decision not to grant visas to the Palestinian delegation for the upcoming UN General Assembly (UNGA).
+
+In a statement issued after its meeting in Amman, the committee voiced its “deep regret” at Washington’s decision, and stressed that the move contradicts obligations under the UN Headquarters Agreement, which guarantees the rights of Palestine, a UN permanent observer state, to participate in UN activities, according to a post published by Jordan’s Foreign Ministry on Facebook.
+
+The decision also undermines opportunities for dialogue and diplomacy, according to the post.
+
+The committee warned that “weakening the Palestinian Authority (PA) will undermine peace efforts in the face of escalation, the spread of violence and continuation of the conflict,” according to the post.
+
+...
+
+[Data](articles/864eec6e.json)
+
+---
+
+### Kerala cannabis valued over Rs. 27M seized with five suspects
+
+*2025-08-31 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112020/kerala-cannabis-valued-over-rs-27m-seized-with-five-suspects) · `en`
+
+The Sri Lanka Navy has seized more than 121kg of Kerala cannabis in separate search operations conducted in Vankalei, Mannar and off Delft Island in Jaffna.
+
+The operations also led to the apprehension of five suspects and two dinghies in connection to the smuggling racket, the Navy said.
+
+A search operation conducted by SLNS Ranawickrama of the Northern Naval Command led to the seizure of 119kg and 500g of Kerala cannabis concealed in four sacks. Four suspects along with two dinghies were taken into naval custody in the operation.
+
+In a separate operation, SLNS Pussadewa and Gajaba of the North Central Naval Command working in coordination with the Criminal Investigation Division of the Mannar Police arrested a suspect in Vankalai. The individual was found in possession of 2kg and 300g of Kerala cannabis.
+
+The gross street value of the stock of Kerala cannabis held in these operations is believed to exceed Rs. 27 million, the Navy noted.
+
+...
+
+[Data](articles/f9c121ea.json)
 
 ---
 
@@ -328,7 +428,13 @@ Indian Prime Minister Narendra Modi reaffirmed his support on Saturday (Aug 30) 
 
 Zelenskyy, speaking in his nightly video address, said Modi supported Ukraine’s call for a ceasefire in the war with Russia and hoped that notion would be heard at the forthcoming Shanghai Cooperation Organisation summit in China.
 
-◼️
+Modi’s office, in a statement, said Zelenskyy shared the Indian prime minister’s perspective on recent developments related to Ukraine, while Modi stressed India’s support for efforts aimed at the earliest restoration of peace.
+
+“The leaders also reviewed progress in the India-Ukraine bilateral partnership and discussed ways to further enhance cooperation in all areas of mutual interest,” it said.
+
+Modi is due to attend the SCO summit, which opens on Sunday in the Chinese city of Tianjin.
+
+...
 
 [Data](articles/d7235449.json)
 
@@ -378,17 +484,15 @@ Protesters said the film industry should use its public platform at Venice -- th
 
 *2025-08-31 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112014/showers-and-strong-winds-expected-in-parts-of-the-country-today-) · `en`
 
-Several spells of showers will occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+Several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (31), the Department of Meteorology said.
 
-A few showers may occur in North-western province and in Jaffna district.
+A few showers may occur in the North-western province and in the Jaffna district as well.
 
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa
+Showers or thundershowers are predicted at a few places in the Uva province and in the Ampara and Batticaloa districts after 2:00 p.m.
 
-Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills
+Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the North-central and North-western provinces and in the Trincomalee and Hambantota districts.
 
-and in North-central and North-western provinces and in Trincomalee and Hambantota districts. The
-
-general public is kindly requested to take adequate precautions to minimize damages caused by
+The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
 
 ◼️
 
@@ -1715,117 +1819,5 @@ However, as no serious criminal charges were filed against the woman, Indonesian
 ◼️
 
 [Data](articles/3e105abf.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳ කටුනායකදී අත්අඩංගුවට
-
-*2025-08-30 07:49:52* · [`adalk`](https://www.ada.lk/breaking_news/බැකෝ-සමන්ගේ-බිරිඳ-කටුනායකදී-අත්අඩංගුවට/11-418162) · `si`
-
-ඉන්දුනීසියාවේ ජකර්තා නුවර දී අත් අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් අතර සිටි බැකෝ සමන් නැමැත්තාගේ බිරිඳ 08/29 දින පස්වරුවේ  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
-
-30 හැවිරිදි සජිකා ලක්ෂානි පත්තිනිගේ මෙසේ කටුනායක ගුවන් තොටුපොළේ දී අත් අඩංගුවට ගෙන තිබේ . ඇයගේ තුන් හැවැරිදි දියණියද පොලීසිය විසින් සිය භාරයට ගෙන තිබේ.
-
-ඔවුන් 08/29 දින පස්වරු 05.50 ට ඉන්දුනීසියාවේ ජකර්තා නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 365 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-එම ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමෙන් පසුව ශ්‍රී ලංකා ආරක්ෂක නිලධාරීන් පිරිසක් ගුවන් යානය වෙත ගොස් ඇය  ගෙන ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් වෙත පමුණුවා නිශ්කාශන කටයුතු සිදු කර ගැනීමෙන් පසුව ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් වෙත ප්‍රකාශ සටහන් කර ගැනීමට භාර දී තිබේ .
-
-◼️
-
-[Data](articles/b5f0d270.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-08-30 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/111993/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department states that several spells of showers will occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva Province and in Ampara and Batticaloa districts after 2.00 p.m.
-
-Strong winds of about 40-50 kmph can be expected at times over the western slopes of the central hills and in Northern, North-Central and North-Western provinces and in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds, the Met. Department said.
-
-The sun is going to be directly over the latitudes of Sri Lanka from the 28th of August to the 7th of September due to its apparent southward relative motion.
-
-The nearest places in Sri Lanka over which the sun is overhead today (30) are Vankalei, Omanthai, Vedamakilankulam, Kelabogaswewa and Thiriyaya at about 12.11 noon, it added.
-
-◼️
-
-[Data](articles/f052fafb.json)
-
----
-
-### විදුලිබල මණ්ඩලයේ ස්වේච්ඡා විශ්‍රාම යෑමේ නියමයන් හා කොන්දේසි ගැසට් කෙරේ
-
-*2025-08-30 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213952) · `si`
-
-ශ්‍රී ලංකා විදුලි බල සං‍ශෝධන පනතේ ස්වේච්ඡා විශ්‍රාම යාමේ යෝජනා ක්‍රමයේ නියමයන් හා කොන්දේසි ගැසට් කර තිබේ.
-
-බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතාගේ අත්සනින් යුතුව නිකුත් කර ඇති අදාළ ගැසට් නිවේදනය මඟින් ස්වේච්ඡාවෙන් විශ්‍රාම යාම සඳහා හිමිකම් ලබන විදුලි බල මණ්ඩල සේවකයින්ට අදාළ නියමයන් හා කොන්දේසි මෙලෙස ගැසට් කර ඇති බව සඳහන් ය.
-
-2024 අංක 36 දරන ශ්‍රී ලංකා විදුලි බල පනතේ 18 වන වගන්තියේ තුන්වන උප වගන්තියට අදාළව මෙම නියෝග ප්‍රකාශ කර තිබේ.
-
-ඒ අනුව ලංකා විදුලි බල මණ්ඩලයේ ස්ථිර කාර්යය මණ්ඩලය යටතේ සේවය කරන සේවකයෙකුට ස්වේච්ඡා විශ්‍රාමයාමේ යෝජනා ක්‍රමයට අනුව ගෙවනු ලබන වන්දි මුදල් මෙම ගැසට් නිවේදනය මඟින් තවදුරටත් ප්‍රකාශයට පත්කර ඇති බව සඳහන් ය.
-
-වසර 10ක් හෝ ඊට වැඩි සේවා කාලයක් සපුරා ඇති සේවකයෙකු ස්වේච්ඡාවෙන් විශ්‍රාම යන අවස්ථාවකදී ඔහු සේවයේ යෙදුනු සේවා කාලයේ සෑම මාස 12ක් සඳහාම මාස දෙකක වැටුප සහ සේවය කිරීමට ඉතිරිව ඇති කාලයේ සෑම මාස 12ක් සඳහාම මාස එකහමාරක වැටුප වන්දි වශයෙන් හිමිවන බව එම ගැසට් නිවේදනයේ සඳහන් ය.
-
-...
-
-[Data](articles/169bc78f.json)
-
----
-
-### வடக்கு, கிழக்கில் இன்று ஆர்ப்பாட்டங்கள்
-
-*2025-08-30 06:42:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-இன்று-ஆர்ப்பாட்டங்கள்/175-363749) · `ta`
-
-சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டோர் தினத்தை முன்னிட்டு இன்று (30) வடக்கு, கிழக்கு மாகாணங்களில் பெரும் கவனவீர்ப்பு  ஆர்ப்பாட்டங்கள் முன்னெடுக்கப்படவுள்ளன.
-
-காணாமல் ஆக்கப்பட்டோருக்குச் சர்வதேச நீதி கோரி வடக்கு - கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவினர்கள் சங்கத்தின் ஏற்பாட்டில் வடக்கு, கிழக்கில் இன்று காலை 10 மணியளவில் இந்த ஆர்ப்பாட்டங்கள் இடம்பெறவுள்ளன.
-
-வடக்கில் யாழ்ப்பாணம் - கிட்டு பூங்கா முன்றலில் அணிதிரளும் ஆர்ப்பாட்டகாரர்கள், அங்கிருந்து செம்மணி வரையும் பேரணியாகச் செல்லவுள்ளனர்.
-
-அதேபோல் கிழக்கில் மட்டக்களப்பு - கல்லடிப் பாலத்தில் அணிதிரளும் ஆர்ப்பாட்டக்காரர்கள், அங்கிருந்து காந்தி பூங்கா வரையும் பேரணியாகச் செல்லவுள்ளனர்.
-
-பொது அமைப்புக்களும், தமிழ்த் தேசியப் பரப்பில் உள்ள ஒட்டுமொத்த தமிழ்க் கட்சிகளும் இந்தக் கவனவீர்ப்புப் ஆர்ப்பாட்டங்களுக்குத் தமது முழுமையான ஆதரவை வழங்கியுள்ளதுடன் அனைவரையும் இதில் கலந்துகொள்ளுமாறும் அழைப்பு விடுத்துள்ளன. (a)
-
-◼️
-
-[Data](articles/17b9d37e.json)
-
----
-
-### දෙහිවල ඝාතනයේ සැකකරුවෙකු කොටුවෙයි
-
-*2025-08-30 06:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213951) · `si`
-
-දෙහිවල පොලිස් වසමේ මුහුදුබඩ මාර්ගයේදී පුද්ගලයෙකුගේ ගෙල සිරකර ඝාතනයක් සිදුකිරීමේ අපරාධය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-2025.05.10 වන දින අදාළ ඝාතනය සිදුකර තිබූ අතර දෙහිවල පොලිස් ස්ථානය මගින් සිද්ධිය සම්බන්ධයෙන් විමර්ශන දියත් කළේය.
-
-ඒ අනුව ඊයේ (29) රාත්‍රී කාලයේ දෙහිවල පොලිස් වසමේ චෛත්‍ය පාර ප්‍රදේශයේදී දෙහිවල පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත මෙම අපරාධයට අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/48736af6.json)
-
----
-
-### “Invest in converting President’s houses in tourist zones into holiday resorts” – President
-
-*2025-08-30 06:22:00* · [`islandlk`](http://island.lk/invest-in-converting-presidents-houses-in-tourist-zones-into-holiday-resorts-president/) · `en`
-
-A discussion on the 2026 Pre-Budget for the tourism sector with private sector stakeholders was held this afternoon (29) at the Presidential Secretariat, under the patronage of President Anura Kumara Dissanayake.
-
-The President pointed out that mere promotional programmes would not suffice to achieve the expected targets of the tourism sector for 2026. He emphasised the need for a new strategic programme jointly implemented by both the public and private sectors.
-
-Inviting entrepreneurs to invest in transforming President’s Houses and Ministers’ official bungalows located in areas such as Nuwara Eliya, Anuradhapura, Mahiyanganaya and Kataragama into comfortable holiday resorts targeting foreign tourists, the President announced that a formal programme in this regard would be launched in the near future.
-
-...
-
-[Data](articles/54b2202e.json)
 
 ---

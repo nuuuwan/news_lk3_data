@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 17:53:03**
+As of **2025-08-31 18:10:01**
 
 ## Newspaper Stats
 
-*Scraped **73,338** Articles*
+*Scraped **73,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,062
 adaderanalk | 9,332
-tamilmirrorlk | 10,892
+tamilmirrorlk | 10,893
 virakesarilk | 12,018
 adaderanasinhalalk | 12,727
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,338 articles have been extended.
+61,973 (84.5%) of 73,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் கைது
+
+*2025-08-31 17:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டு-சம்பவத்துடன்-தொடர்புடைய-சந்தேக-நபர்-கைது/175-363792) · `ta`
+
+வென்னப்புவ பொலிஸ் நிலையத்திற்கு அருகில் ஞாயிற்றுக்கிழமை நடந்த துப்பாக்கிச் சூட்டில் ஒருவர் கொல்லப்பட்டு மற்றொருவர் காயமடைந்த சம்பவம் தொடர்பாக சந்தேக நபரை பொலிஸார் கைது செய்துள்ளனர்.
+
+துப்பாக்கி வைத்திருந்த சந்தேக நபர், தாக்குதலில் பயன்படுத்தப்பட்டதாக நம்பப்படும் ஒரு வாள் மற்றும் ஒரு காருடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+தாக்குதலில் ஈடுபட்ட மற்றவர்களை அடையாளம் காணவும், நோக்கத்தைக் கண்டறியவும் மேலும் விசாரணைகள் நடைபெற்று வருவதாக போலீசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c7e0179e.json)
+
+---
 
 ### නිවසක් තුළ තිබී තරුණයින් දෙදෙනෙකුගේ මළ සිරුරු හමුවෙයි
 
@@ -1845,23 +1861,5 @@ Al-Rahawi, who served as prime minister to the Houthi-led government since Augus
 ◼️
 
 [Data](articles/519a2c54.json)
-
----
-
-### Underworld figures including ‘Kehelbaddara Padme’ brought back to Sri Lanka
-
-*2025-08-30 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112010/underworld-figures-including-kehelbaddara-padme-brought-back-to-sri-lanka) · `en`
-
-The high-profile underworld figures, including ‘Kehelbaddara Padme’, who were recently arrested in Indonesia, have been brought back to the island this evening (30), according to Ada Derana reporter.
-
-A special police team from Sri Lanka was dispatched to Indonesia this morning to facilitate their return. The team had then taken the criminal gang members into their custody from the Indonesian authorities and boarded a flight back to the island from Jakarta.
-
-According to reports, the special police team accompanying the arrested suspects have now reached the Bandaranaike International Airport (BIA) in Katunayake, where special security measures have reportedly been implemented in anticipation of the arrival of the ‘most-wanted’ organized criminal suspects.
-
-The arrested suspects are expected to be escorted to the Criminal Investigation Department (CID) under tight security after brief detention at the airport.
-
-...
-
-[Data](articles/3d937870.json)
 
 ---

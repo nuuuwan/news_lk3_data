@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 21:18:23**
+As of **2025-08-31 21:32:09**
 
 ## Newspaper Stats
 
-*Scraped **73,353** Articles*
+*Scraped **73,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 7,065
 adaderanalk | 9,337
 tamilmirrorlk | 10,893
 virakesarilk | 12,020
-adaderanasinhalalk | 12,731
+adaderanasinhalalk | 12,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,353 articles have been extended.
+61,973 (84.5%) of 73,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### තරගාවලියේ ජය ශ්‍රී ලංකාවට
+
+*2025-08-31 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214006) · `si`
+
+සිම්බාබ්වේ කණ්ඩායම සමඟ හරාරේ ක්‍රීඩාංගණයේ අද (31) පැවති දෙවන එක්දින ක්‍රිකට් තරගයේ ජයත් හිමිකර ගැනීමට ශ්‍රී ලංකා කාණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/8f81c3b8.json)
+
+---
+
+### රනිල්ට නිල ඇරියුමක් කළ බවට වොල්වර්හැම්ප්ටන් සරසවියෙන් තහවුරු කිරීමක්
+
+*2025-08-31 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214005) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එංගලන්තයේ වොල්වර්හැම්ප්ටන් විශ්ව විද්‍යාලයේ පැවති උපාධි ප්‍රදානොත්සවය සඳහා නිල ආරාධනයක් කළ බවට එම විශ්ව විද්‍යාලය යළිත් වරක් තහවුරු කර ඇතැයි හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය අධ්‍යක්ෂ ජනරාල් ලෙස කටයුතු කළ ධනුෂ්ක රාමනායක මහතා පවසයි.
+
+මේ අතර හිටපු ජනාධිපතිවරයා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා හෙට දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා තිබේ.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ සිදුකළ සංචාරයකට අදාළව ඉකුත් අගෝස්තු 22 වැනිදා ඒ මහතාව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කෙරුණු අතර පසුව අගෝස්තු 26 ඇප මත මුදාහැරිණි.
+
+ඒ වන විටත් රෝගී තත්ත්වය මත ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපතිවරයා ඉකුත් සිකුරාදා රෝහලෙන් පිටව ගියේය.
+
+මේ අතර හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සැප්තැම්බර් 06 වැනිදා පැවැත්වෙන එක්සත් ජාතික පක්ෂ සම්මේලනයේදී විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිත බව ඒ මහතාගේ මාධ්‍ය අංශය සඳහන් කළා.
+
+...
+
+[Data](articles/c909fe7d.json)
+
+---
 
 ### Ex-President Ranil to invite all opposition leaders to UNP’s convention
 
@@ -1835,43 +1867,5 @@ Modi is due to attend the SCO summit, which opens on Sunday in the Chinese city 
 ...
 
 [Data](articles/f63b9da8.json)
-
----
-
-### Thousands protest Israeli siege of Gaza near Venice Film Festival
-
-*2025-08-31 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112015/thousands-protest-israeli-siege-of-gaza-near-venice-film-festival) · `en`
-
-Thousands of people protested Saturday against Israel’s siege of Gaza on the sidelines of the Venice Film Festival, seeking to move the spotlight from movie drama to real-world trauma.
-
-Organised by left-wing political groups in northeast Italy, the demonstration began in the early evening a few kilometres from the festival where top Hollywood talent from George Clooney and Julia Roberts to Emma Stone have walked the red carpet in recent days.
-
-The protesters, whose numbers AFP reporters estimated to be about three to four thousand, marched slowly to the entrance of the festival in the beachfront Lido district, waving Palestinian flags, as the Hollywood blockbuster “Frankenstein” was due to have its world premiere nearby.
-
-Protesters said the film industry should use its public platform at Venice -- the world’s oldest film festival whose movies often go on to Oscar glory -- to focus attention on Gaza.
-
-...
-
-[Data](articles/e8dc93c6.json)
-
----
-
-### Showers and strong winds expected in parts of the country today
-
-*2025-08-31 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112014/showers-and-strong-winds-expected-in-parts-of-the-country-today-) · `en`
-
-Several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara-Eliya, Galle and Matara districts today (31), the Department of Meteorology said.
-
-A few showers may occur in the North-western province and in the Jaffna district as well.
-
-Showers or thundershowers are predicted at a few places in the Uva province and in the Ampara and Batticaloa districts after 2:00 p.m.
-
-Meanwhile, strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the North-central and North-western provinces and in the Trincomalee and Hambantota districts.
-
-The general public has been requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/8fd21506.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 03:32:56**
+As of **2025-09-01 03:49:18**
 
 ## Newspaper Stats
 
-*Scraped **73,367** Articles*
+*Scraped **73,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 752
 economynextcom | 4,469
 islandlk | 4,513
 dailymirrorlk | 4,733
-dailyftlk | 5,183
+dailyftlk | 5,185
 adalk | 7,065
 adaderanalk | 9,339
 tamilmirrorlk | 10,894
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,367 articles have been extended.
+61,973 (84.5%) of 73,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### The clock is ticking for Europe’s chemical industry
+
+*2025-09-01 03:33:08* · [`dailyftlk`](https://www.ft.lk/columns/The-clock-is-ticking-for-Europe-s-chemical-industry/4-781024) · `en`
+
+On 1 August, the United States imposed a 15% tariff on most European chemical imports. It caught some off guard. However, for many in the industry, it was just another warning sign: Europe’s chemical sector is under serious pressure — and time is running out to turn things around.
+
+The challenges go far beyond trade. For years, Europe’s chemical industry has been weighed down by sky-high energy costs, complex regulations, and growing competition from Asia. The US tariffs didn’t start the crisis — they simply added to the long list of pressures driving Europe’s steady decline.
+
+To understand Europe’s current vulnerability, it’s important to look beyond short-term trade tensions and examine the deeper forces driving the region’s decline. A combination of high energy costs, slow regulatory processes, and rising global competition is steadily undermining Europe’s position in the global chemical market.
+
+...
+
+[Data](articles/b3884f88.json)
+
+---
+
+### Educational reforms meaningless unless learning culture is inculcated
+
+*2025-09-01 03:23:49* · [`dailyftlk`](https://www.ft.lk/columns/Educational-reforms-meaningless-unless-learning-culture-is-inculcated/4-781022) · `en`
+
+Shortfalls in learning during school years eventually show up as weak skills in the workforce
+
+The overall objective of the present reform program has been very wide. It aims at laying the foundation to creating a citizen ready for the challenges of the 21st century and beyond and help the country to attain sustainable development, and peace. While the last goal is feasible to attain within the next two to three decades, producing a human capital unit for this as well as the next century is a tall order
+
+...
+
+[Data](articles/06f4b7e4.json)
+
+---
 
 ### Rule of law in taxation: Rights before revenue – Part 3
 
@@ -1821,45 +1851,5 @@ The committee warned that “weakening the Palestinian Authority (PA) will under
 ...
 
 [Data](articles/864eec6e.json)
-
----
-
-### Sri Lanka foreign exchange earnings $2.6bn in July, exceeds imports by $729mn
-
-*2025-08-31 08:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-earnings-2-6bn-in-july-exceeds-imports-by-729mn-238818/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current foreign exchange inflows, made up of exports of goods and services exports and remittances (labour exports) exceeded imports by 729 million dollars in July 2025, official data show, even as imported goods surged amid a spike in credit.
-
-Goods exports hit a record 1,302 million US dollars in July from 1,141 million dollars in June, ahead of a Trump tariff hit in August, and emittances grew to 690.5 million US dollars from 635 million dollars.
-
-Gross services income including tourism income of 318.5 million dollars, grew to 618 million dollars from 508 million in June.
-
-Higher inflows give more money for people to spend on goods, which includes imports and also services. Outward travel grew to 81 million dollars in July 2025 from 55 million dollars last year.
-
-In addition, Sri Lanka also has to service debt. The government paid 106.9 million dollars in interest on its debt. Dividends from foreign direct investment companies were 59.3 million dollars.
-
-...
-
-[Data](articles/03e46563.json)
-
----
-
-### Kerala cannabis valued over Rs. 27M seized with five suspects
-
-*2025-08-31 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112020/kerala-cannabis-valued-over-rs-27m-seized-with-five-suspects) · `en`
-
-The Sri Lanka Navy has seized more than 121kg of Kerala cannabis in separate search operations conducted in Vankalei, Mannar and off Delft Island in Jaffna.
-
-The operations also led to the apprehension of five suspects and two dinghies in connection to the smuggling racket, the Navy said.
-
-A search operation conducted by SLNS Ranawickrama of the Northern Naval Command led to the seizure of 119kg and 500g of Kerala cannabis concealed in four sacks. Four suspects along with two dinghies were taken into naval custody in the operation.
-
-In a separate operation, SLNS Pussadewa and Gajaba of the North Central Naval Command working in coordination with the Criminal Investigation Division of the Mannar Police arrested a suspect in Vankalai. The individual was found in possession of 2kg and 300g of Kerala cannabis.
-
-The gross street value of the stock of Kerala cannabis held in these operations is believed to exceed Rs. 27 million, the Navy noted.
-
-...
-
-[Data](articles/f9c121ea.json)
 
 ---

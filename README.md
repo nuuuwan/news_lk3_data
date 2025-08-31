@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 14:49:30**
+As of **2025-08-31 15:06:59**
 
 ## Newspaper Stats
 
-*Scraped **73,313** Articles*
+*Scraped **73,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,059
-adaderanalk | 9,326
+adaderanalk | 9,329
 tamilmirrorlk | 10,891
 virakesarilk | 12,015
-adaderanasinhalalk | 12,719
+adaderanasinhalalk | 12,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,313 articles have been extended.
+61,973 (84.5%) of 73,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### දිස්ත්‍රික්ක කිහිපයකට ගිගුරුම් සහිත වැසි
+
+*2025-08-31 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213993) · `si`
+
+සබරගමුව පළාතේ මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකියි.
+
+එමෙන්ම මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු - මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් පැ.කි.මී. (40-50)ක පමණ තද සුළං ඇති විය හැකි බව වාර්තා වේ.
+
+දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහලින් පවතින බවද එම නිවේදනයේ දැක්වේ.
+
+ඒ අනුව හෙට දිනයේ (01) දහවල් 12:10ට මුදලෛපලයි, බලගොල්ලාගම, රාජාංගනය, එප්පාවල, මැදිරිගිරිය, පල්ලිත්තිඩාල්, වාකරේ ප්‍රදේශවලට හිරු මුදුන්ව පවතියි.
+
+◼️
+
+[Data](articles/ea2bcf8b.json)
+
+---
+
+### Individual arrested over this morning’s Wennappuwa shooting
+
+*2025-08-31 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112032/individual-arrested-over-this-mornings-wennappuwa-shooting-) · `en`
+
+An individual has been arrested over a shooting incident reported in Wennappuwa earlier today (31), police stated.
+
+According to police, a firearm and the car used to commit the crime have also been taken into custody.
+
+The shooting incident was reported along the Lake road, adjacent to the Wennappuwa Police Station, at around 10:30 a.m. today.
+
+Police stated that a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
+
+One of the motorcyclists was injured and managed to flee the scene, while the other sustained gunshot injuries and succumbed on the spot.
+
+The deceased was returning from the Wennappuwa Police Station, as he was required to report to the station on a monthly basis in relation to an ongoing High Court case.
+
+Police stated that the shooting was carried out using a revolver-type firearm.
+
+...
+
+[Data](articles/194c37e5.json)
+
+---
+
+### Greta Thunberg embarks on second flotilla to Gaza
+
+*2025-08-31 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112031/greta-thunberg-rejects-accusations-of-antisemitism-as-she-embarks-on-second-flotilla-to-gaza) · `en`
+
+Greta Thunberg has rejected accusations of antisemitism as she embarks on her second flotilla to Gaza.
+
+The 22-year-old and other activists are setting sail on the largest flotilla to Gaza on Sunday, despite having been detained by Israeli forces and deported when they approached on a British-flagged yacht in June.
+
+Israel later accused the group of activists of being antisemitic - an accusation Thunberg told Sky News’ Europe correspondent Siobhan Robbins she rejects.
+
+“It is not antisemitic to say that we should not be bombing people, that one should not be living in occupation, that everyone should have the right to live in freedom and dignity, no matter who you are,” she said.
+
+Before the dozens of boats carrying aid embarks from Spain, the activists called on governments to pressure Israel to allow their flotilla through the naval blockade.
+
+...
+
+[Data](articles/db8b7fcd.json)
+
+---
 
 ### සැප්තැම්බර් 07 වැනිදා පූර්ණ චන්ද්‍රග්‍රහණයක්
 
@@ -80,6 +144,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former Secretary to the President Saman Ekanayake summoned again by CID
+
+*2025-08-31 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112029/former-secretary-to-the-president-saman-ekanayake-summoned-again-by-cid) · `en`
+
+Former Secretary to the President Saman Ekanayake has been summoned once again to appear before the Criminal Investigation Department (CID).
+
+It is reported that he has been instructed to appear before the CID tomorrow (September 1) at 9:00 a.m.
+
+The summons has been issued in connection with an ongoing investigation into a visit to the United Kingdom undertaken by former President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/bda01e8d.json)
+
+---
+
 ### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ICCයෙන් දඩයක්
 
 *2025-08-31 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213991) · `si`
@@ -122,11 +202,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-08-31 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112028/celestial-spectacle-awaits-sri-lanka-rare-blood-moon-to-appear-for-82-minutes-on-september-7) · `en`
 
-A spectacular celestial event is set to light up the skies on September 7, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
+Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” next month, said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
 
-Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 77% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
+The spectacular celestial event is set to light up the skies on September 7, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
 
-Stargazers and astronomy enthusiasts across Sri Lanka have been advised to prepare for a breathtaking celestial event as a total lunar eclipse graces the night sky on September 7.
+Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
 
 ...
 
@@ -428,7 +508,7 @@ A shooting incident has been reported along the Lake road, adjacent to the Wenna
 
 According to police, a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
 
-One of the motorcyclists was injured and managed to flee the scene, while the other succumbed to gunshot injuries and succumbed on the spot.
+One of the motorcyclists was injured and managed to flee the scene, while the other sustained gunshot injuries and succumbed on the spot.
 
 The deceased had reportedly been returning from the Wennappuwa Police Station, as he was required to report to the station monthly in relation to an ongoing High Court case.
 
@@ -558,7 +638,7 @@ Wang’s visit coincided with U.S. President Donald Trump’s decision to impose
 
 ---
 
-### Air India flight returns to Delhi after ‘fire indication’ in engine, aircraft grounded for inspection
+### Air India flight returns to Delhi after ‘fire indication’ in engine
 
 *2025-08-31 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112024/air-india-flight-returns-to-delhi-after-fire-indication-in-engine-aircraft-grounded-for-inspection) · `en`
 
@@ -1751,75 +1831,5 @@ Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, 
 ...
 
 [Data](articles/2cdc92a0.json)
-
----
-
-### ICC announces early handover of The Residencies Kotte
-
-*2025-08-30 15:34:00* · [`islandlk`](http://island.lk/icc-announces-early-handover-of-the-residencies-kotte/) · `en`
-
-ICC, a leading Lankan developer, has confirmed the early handover of The Residencies Kotte, set for December 2025, three months ahead of schedule. Located in central Kotte, the development offers over an acre of facilities including an infinity pool, sports amenities, a jogging track, and relaxation areas.
-
-The project, noted for maintaining construction progress ahead of client payments, aims to eliminate common home-buying challenges such as delayed handovers and incomplete documentation. With limited apartments remaining, ICC is also offering an exclusive loan scheme providing up to 100% financing, enabling buyers to move into their new homes sooner than expected.
-
-Kapruka posts 94% surge in operating performance as platform strategy drives growth
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/057d86f6.json)
-
----
-
-### Kelum Lakmal Dissanayake named Lanka’s top pet groomer
-
-*2025-08-30 15:33:00* · [`islandlk`](http://island.lk/kelum-lakmal-dissanayake-named-lankas-top-pet-groomer/) · `en`
-
-Kelum Lakmal Dissanayake, founder of Miracle Pet Care in Pannipitiya, was named the Most Outstanding Pet Groomer at the Global Business Excellence Awards 2025, held recently at BMICH, Colombo. With over a decade of experience and a UK CPD IAP certification, Dissanayake’s salon offers comprehensive grooming services including hair trimming, bathing, nail clipping, ear cleaning, and treatments for ticks, fleas, and skin conditions. Miracle Pet Care also provides boarding services and a pet shop in Kottawa. Plans are underway to launch a pet grooming training school and a spa-style treatment centre, enhancing care and education for pets and groomers alike.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/41fe7984.json)
-
----
-
-### Lotus group marks 10 years with tree planting drive
-
-*2025-08-30 15:33:00* · [`islandlk`](http://island.lk/lotus-group-marks-10-years-with-tree-planting-drive/) · `en`
-
-The Lotus Group of Companies celebrated its 10th anniversary on July 7 at its Bingiriya premises with religious observances and community events. The programme, attended by local officials, bank managers and police representatives, featured a presentation on the company’s decade-long journey, a bana sermon, an alms-giving and a tree-planting ceremony to highlight its commitment to sustainable agriculture.
-
-Over the past 10 years, Lotus has expanded into seed production, fertilizers, machinery, packaging, crop care and printing, becoming a key player in supporting Sri Lanka’s agriculture industry with technology-driven solutions and quality services across multiple sectors.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/82c11da8.json)
-
----
-
-### Eton College opens new campus with modern facilities
-
-*2025-08-30 15:32:00* · [`islandlk`](http://island.lk/eton-college-opens-new-campus-with-modern-facilities/) · `en`
-
-Eton College marked a major milestone on July 30 with the move to a new building featuring modern classrooms, a science laboratory, IT center, library, and fully equipped preschool. Established on January 7, 2024, in a rented Maradana facility with 40 students, the college has grown to over 200 students and a staff of more than 20 under Principal and CEO Akram Mohamed Thowfeek. The school emphasizes quality English-medium education, sports, arts, and trilingual fluency through its English, Sinhala, and Tamil societies. Eton Campus in Kollupitiya complements the college, offering TVEC-approved diplomas, degrees, and UK-accredited programs in business, IT, and education.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/f84d2de1.json)
 
 ---

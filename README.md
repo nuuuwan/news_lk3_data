@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 06:37:34**
+As of **2025-08-31 07:17:25**
 
 ## Newspaper Stats
 
-*Scraped **73,251** Articles*
+*Scraped **73,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,23 +20,43 @@ adalk | 7,052
 adaderanalk | 9,310
 tamilmirrorlk | 10,873
 virakesarilk | 12,008
-adaderanasinhalalk | 12,705
+adaderanasinhalalk | 12,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,251 articles have been extended.
+61,973 (84.6%) of 73,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
 
+### රුපියල් මිලියන 27ක කේරළ ගංජා තොගයක් නාවික හමුදා භාරයට
+
+*2025-08-31 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213979) · `si`
+
+රුපියල් මිලියන 27කට අධික දළ වීථි වටිනාකමකින් යුත් කෙරළ ගංජා කිලෝ ග්‍රෑම් 121කට අධික තොගයක් නාවික හමුදා භාරයට ගෙන තිබේ.
+
+නාවික හමුදාව විසින් පසුගිය 27 සහ 29 දෙදින තුළ මන්නාරම වන්කාලෙලයි ප්‍රදේශය සහ යාපනය ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන් වූ දේශීය ජල තීරයේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුම් මගින් මෙම තොගය නාවික හමුදා භාරයට ගැනීමට හැකිව ඇත.
+
+මේ සමග සැකකරුවන් 05 දෙනෙකුද නාවික හමුදා භාරයට ගෙන ඇති අතර ඔවුන් අවුරුදු 19ත් 56ත් අතර පසුවන්නන් බවද නාවික හමුදාව පවසයි.
+
+මේ සමගම අදාළ කේරළ ගංජා තොගය ප්‍රවාහනය කළ බව කියන ඩිංගි යාත්‍රා දෙකක්ද නාවික හමුදා භාරයට ගෙන තිබේ.
+
+අදාළ ඩිංගි යාත්‍රා දෙක, කේරළ ගංජා තොගය සහ සැකකරුවන් වැඩිදුර විමර්ශන සඳහා ඩෙල්ෆ්ය් සහ වන්කාලෙයි යන පොලිස් ස්ථාන වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/58e09148.json)
+
+---
+
 ### ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්
 
 *2025-08-31 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213978) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (31) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (31) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
 එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, වයඹ පළාතේ සහ යාපනය දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
 
@@ -1809,19 +1829,5 @@ The name mullah is of Persian origin crept through the Arabic world maula and de
 ...
 
 [Data](articles/012ee3ab.json)
-
----
-
-### Necessary civic revolution: Bureaucratic inertia, system change and national awakening (Punorudaya)
-
-*2025-08-29 23:39:50* · [`dailyftlk`](https://www.ft.lk/columns/Necessary-civic-revolution-Bureaucratic-inertia-system-change-and-national-awakening-Punorudaya/4-780971) · `en`
-
-The NNP Government has an unprecedented opportunity to strategically dismantle moribund conditions that stand against midwifing a liberating civic ethos
-
-No amount of power can easily purge the system. Previous Governments, particularly since 1977, festered into a putrid cesspool—politicising and commodifying the public service, where bureaucrats grovelled before unscrupulous politicians, businesses, intellectuals, professional and religious authorities, selling their integrity and strangling the nation they are sworn to serve. It is inevitable that the complex web of transactions in this malignant syndicate, normalised for decades, is now being ruptured. The reaction? Complete fear and resentment, as they frantically seek every possible way to delay and dismantle reform, corrupted public servants remain their most potent weapon in this desperate war against change
-
-...
-
-[Data](articles/5b7fe67f.json)
 
 ---

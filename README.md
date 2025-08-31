@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 11:51:37**
+As of **2025-08-31 12:09:06**
 
 ## Newspaper Stats
 
-*Scraped **73,289** Articles*
+*Scraped **73,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,057
-adaderanalk | 9,319
+adaderanalk | 9,323
 tamilmirrorlk | 10,887
-virakesarilk | 12,010
-adaderanasinhalalk | 12,713
+virakesarilk | 12,014
+adaderanasinhalalk | 12,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,289 articles have been extended.
+61,973 (84.5%) of 73,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### அறுகம் குடாவில் கைகலப்பு ; இரண்டு இஸ்ரேலிய பிரஜைகள் கைது
+
+*2025-08-31 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/223811) · `ta`
+
+அறுகம் குடாவில் ஹோட்டல் ஒன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் இரண்டு இஸ்ரேலிய பிரஜைகள் சனிக்கிழமை (31) பொத்துவில் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+தம்பதியினர் தங்கள் வாகனத்தில் பயணித்தபோது, 26 வயதுடைய இரண்டு வெளிநாட்டினர் வீதியை மறித்ததால் இந்த சம்பவம் நடந்ததாக பொலிஸால் தெரிவித்தனர். இதன்போது, இரு தரப்பினருக்கும் இடையில்  வாக்கு வாதம்  ஏற்பட்ட பின்னர் அது கைகலப்பாக மாறியுள்ளது.
+
+பாதிக்கப்பட்ட கணவன் மற்றும் மனைவி காயமடைந்து சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சந்தேக நபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
+
+◼️
+
+[Data](articles/3ddc89da.json)
+
+---
+
+### මෝදි සහ ෂී ජින් පිං අතර ද්විපාර්ශ්වික සාකච්ඡා
+
+*2025-08-31 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213987) · `si`
+
+ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි අද (31) උදෑසන චීනයේ ටිඇන්ජින් හිදි චීන ජනාධිපති ෂී ජින් පිං හමුවී ද්විපාර්ශ්වික සාකච්ඡා පවත්වා තිබේ.
+
+ඉන්දීය අගමැතිවරයා වසර හතකින් පසු සිදු කරන පළමු චීන සංචාරය මෙය වෙයි.
+
+ඔහු චිනය වෙත පැමිණියේ ටිඇන්ජින් හි අද සහ හෙට පැවැත්වෙන ෂැංහයි සහයෝගීතා සංවිධානයේ දෙදින සමුළුවට සහභාගී වීම සඳහාය.
+
+එම සමුළුවට එක්සත් ජාතින්ගේ මහ ලේකම් අන්තෝනියෝ ගුටෙරෙස්, රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් ඇතුළු රාජ්‍ය නායකයින් සහ ජාත්‍යන්තර සංවිධානවල ප්‍රධානීන් තිහකට අධික පිරිසක් සහභාගී වෙයි.
+
+පසුගිය දිනවල රටතුළ පැවැති අර්බුධකාරී වාතාවරණය හේතුවෙන් ඉන්දුනීසියානු ජනාධිපති ප්‍රභෝවෝ සුබියන්තෝ මෙම සමුළුවට සහභාගී වීම අවලංගු කර තිබේ.
+
+◼️
+
+[Data](articles/7dd44a84.json)
+
+---
+
+### சீன ஜனாதிபதியை சந்தித்தார் இந்திய பிரதமர் மோடி
+
+*2025-08-31 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/223819) · `ta`
+
+ஜப்பானில் சுற்றுப்பயணத்தை முடித்துக்கொண்ட இந்திய பிரதமர் மோடி,  அங்கிருந்து சீனா புறப்பட்டார். சீனாவில் உள்ள தியான்ஜின் விமான நிலையத்துக்கு சென்ற இந்திய பிரதமர் மோடிக்கு, சிவப்பு கம்பள வரவேற்பு கொடுக்கப்பட்டது.
+
+தியான்ஜின் நகரில் இன்று ஞாயிற்றுக்கிழமை நடைபெறும் ஷாங்காய் ஒத்துழைப்பு அமைப்பின் உச்சி மாநாட்டில் இந்திய பிரதமர் மோடி கலந்து கொள்கிறார். இதில் சீன ஜனாதிபதி ஜின்பிங், ரஷ்ய ஜனாதிபதி புட்டின் மற்றும் கஜகஸ்தான், கிர்கிஸ்தான், தஜிகிஸ்தான், உஸ்பெகிஸ்தான், பாகிஸ்தான், ஈரான், பெலாரஸ் ஆகிய நாடுகளின் தலைவர்களும் பங்கேற்கிறார்கள்.
+
+இந்த மாநாட்டுக்கு இடையே ஜின்பிங்கையும், ரஷ்ய ஜனாதிபதி புட்டினையும் இந்திய பிரதமர் மோடி சந்தித்து பேசுவார். அப்போது இந்திய-சீனா-ரஷ்யா இடையேயான ஒத்துழைப்பு குறித்தும், உறவு குறித்தும் விரிவாக விவாதிக்கப்படும்.
+
+...
+
+[Data](articles/0736b976.json)
+
+---
 
 ### වෙන්නප්පුවේ වෙඩි තැබීමකින් අයෙකු මරුට
 
@@ -86,6 +138,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இந்திய பிரதமர் மோடி - உக்ரேன் ஜனாதிபதி ஜெலன்ஸ்கி பேச்சுவார்த்தை
+
+*2025-08-31 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/223817) · `ta`
+
+இந்திய பிரதமர் நரேந்திர மோடி  மோடியிடன் உக்ரைன் அதிபர் ஜெலன்ஸ்கி பேச்சுவார்த்தை நடத்தியுள்ளார்.
+
+இந்திய பிரதமர் மோடி ஜப்பான், சீனாவுக்கு சுற்றுப்பயணம் மேற்கொண்டுள்ளார். கடந்த 29ம் திகதி ஜப்பான் சென்ற பிரதமர் மோடி அங்கு அந்நாட்டு பிரதமர் உள்பட முக்கிய தலைவர்களை சந்தித்தார்.
+
+இதையடுத்து, இந்தியா , ஜப்பான் இடையே பல்வேறு முக்கிய ஒப்பந்தங்கள் கையெழுத்தாகின. 2 நாட்கள் ஜப்பான் பயணத்தை முடித்துக்கொண்டு பிரதமர் மோடி நேற்று இரவு சீனா சென்றார்.
+
+அவர் சீனாவின் தியான்ஜின் நகரில் இன்றும், நாளையும் நடைபெறும் ஷாங்காய் ஒத்துழைப்பு மாநாட்டில் கலந்துகொள்கிறார். இந்த மாநாட்டின்போது சீன அதிபர் ஜி ஜின்பிங், ரஷ்ய ஜனாதிகதி புட்டின் உள்பட பல்வேறு நாடுகளின் தலைவர்களை இந்திய பிரதமர் மோடி சந்திக்கிறார். இந்த சந்திப்பின்போது பல்வேறு விவகாரங்கள் குறித்து ஆலோசனை நடைபெற உள்ளது.
+
+இந்நிலையில், இந்தி பிரதமர் மோடியிடன் உக்ரைன் அதிபர் ஜெலன்ஸ்கி பேச்சுவார்த்தை நடத்தியுள்ளார். சீனா சென்றுள்ள இந்திய பிரதமர் மோடியை தொலைபேசியில் தொடர்பு கொண்டு ஜெலன்ஸ்கி பேச்சுவார்த்தை நடத்தினார்.
+
+...
+
+[Data](articles/de30194e.json)
+
+---
+
 ### ஆணுறை அணியாமல்.. விடிய விடிய..
 
 *2025-08-31 11:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆணுறை-அணியாமல்-விடிய-விடிய/54-363778) · `ta`
@@ -130,6 +202,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Man killed in shooting in Wennappuwa
+
+*2025-08-31 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112026/man-killed-in-shooting-in-wennappuwa) · `en`
+
+A shooting incident has been reported along the Lake road, adjacent to the Wennappuwa Police Station, at around 10:30 a.m., police stated.
+
+According to police, a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
+
+One of the motorcyclists was injured and managed to flee the scene, while the other succumbed to gunshot injuries and succumbed on the spot.
+
+The deceased had reportedly been returning from the Wennappuwa Police Station, as he was required to report to the station monthly in relation to an ongoing High Court case.
+
+Police state that the shooting was carried out using a revolver-type firearm.
+
+A court verdict regarding a case filed against the deceased individual is scheduled to be delivered on September 9, 2025, police stated.
+
+◼️
+
+[Data](articles/5c5d02ef.json)
+
+---
+
 ### ஆடையில் காய்ந்த விந்து:  காருக்குள் பேண்ட்டை கழட்டி
 
 *2025-08-31 11:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையில்-காய்ந்த-விந்து-காருக்குள்-பேண்ட்டை-கழட்டி/175-363777) · `ta`
@@ -147,6 +241,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4427afcb.json)
+
+---
+
+### காணாமல் ஆக்கப்பட்டமை தொடர்பாக நீதிமன்றம் கோரிய ஆவணத்தை கடற்படை வழங்கவில்லை!
+
+*2025-08-31 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/223815) · `ta`
+
+இறுதிக்கட்டப் போர் நிகழ்ந்த காலகட்டத்தில் காணாமலாக்கப்பட்டோரில் ஒரு தொகுதியினரை தடுத்து வைத்திருந்த கடற்படை அதிகாரிகள் குழுவொன்றுடன் தொடர்புடைய ஆவணத்தை வழங்குமாறு பிறப்பிக்கப்பட்ட உத்தரவுக்குக் கீழ்ப்படிவதற்கு கடற்படை தவறியுள்ளமை நீதிமன்றத்தின் முன் வெளிப்படுத்தப்பட்டுள்ளது.
+
+திருகோணமலையின் பிரபல ‘கன்சைட்’ நிலக்கீழ் வதைமுகாமை கண்காணித்ததன் பின்னர் அங்கு செயற்படும் விசேட புலனாய்வுப் பிரிவு எனும் குழுவை கலைக்குமாறு கோரி அன்றைய கடற்படை புலனாய்வுப் பிரிவு பணிப்பாளராக பணியாற்றிய நிஷாந்த உலுகேதென்னவால் கடற்படைத் தளபதிக்கு அனுப்பப்பட்டதாகக் கூறப்படும் கடிதத்தின் பிரதியை கடற்படை தமக்கு வழங்கவில்லை என குற்றப்புலனாய்வு திணைக்களம் நீதிமன்றத்துக்கு அறிவித்துள்ளது.
+
+...
+
+[Data](articles/35809cc4.json)
+
+---
+
+### Xi meets Modi as China and India seek to rebuild ties
+
+*2025-08-31 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112025/xi-meets-modi-as-china-and-india-seek-to-rebuild-ties) · `en`
+
+Chinese leader Xi Jinping met with Indian Prime Minister Narendra Modi ahead of the opening of a regional summit on Sunday in Tianjin, in a formal thaw between the two nuclear-armed powers.
+
+Modi is on his first visit to China since relations between the two sides deteriorated after Chinese and Indian soldiers engaged in deadly border clashes in 2020. Modi is visiting as part of India’s membership into the Shanghai Cooperation Organization, a regional political, economic and security group founded by China.
+
+Ahead of Modi’s visit, China’s top diplomat Wang Yi flew to New Delhi earlier in August, as the two sides announced their rapprochement. Both governments pledged to restart border talks, and resume issuing visas and direct flights.
+
+Wang’s visit coincided with U.S. President Donald Trump’s decision to impose 50% tariffs on India for its purchase of Russian oil, but Delhi’s process of rebuilding ties with China had been in the works for months.
+
+...
+
+[Data](articles/8fc025e5.json)
 
 ---
 
@@ -184,6 +310,62 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### வாக்குமூலம் அளிக்க சமன் ஏக்கநாயக்கவுக்கு சிஐடி அழைப்பு
+
+*2025-08-31 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223814) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் செயலாளர் சமன் ஏக்கநாயக்க வாக்குமூலம் அளிக்க குற்றப் புலனாய்வுத் திணைக்களத்துக்கு அழைக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் இங்கிலாந்து பயணம் மற்றும் வருகைக்காக அரச நிதியைத் தவறாகப் பயன்படுத்திய குற்றச்சாட்டு குறித்து வாக்குமூலம் அளிக்க சமன் ஏக்கநாயக்கவை நாளை திங்கட்கிழமை (01) முன்னிலையாகுமாறு குற்றப்புலனாய்வுத் திணைக்களம் அழைப்பு விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/05bf2ed4.json)
+
+---
+
+### Air India flight returns to Delhi after ‘fire indication’ in engine, aircraft grounded for inspection
+
+*2025-08-31 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112024/air-india-flight-returns-to-delhi-after-fire-indication-in-engine-aircraft-grounded-for-inspection) · `en`
+
+An Indore-bound Air India plane made an emergency landing in New Delhi on Sunday after being airborne for over 30 minutes as the pilot received a “fire indication” in the right engine of the aircraft, according to sources.
+
+One engine of the A320 neo aircraft was shut down and the plane landed safely at the Delhi airport, Air India said in a statement.
+
+The flight made an emergency landing at around 6:15 am and there were more than 90 people on board, a source said.
+
+The aircraft, which operated the flight AI2913, has been grounded for inspection.
+
+“Flight AI2913, operating from Delhi to Indore on August 31, air-returned to Delhi shortly after take off, as the cockpit crew received a fire indication for the right engine,” the Tata Group-owned airline said without divulging further details.
+
+Following standard procedure, the cockpit crew elected to shut down the engine and returned to Delhi where the flight landed safely, it said.
+
+...
+
+[Data](articles/ecd58c9b.json)
+
+---
+
+### Three Excise Officers arrested for soliciting Rs. 2M bribe
+
+*2025-08-31 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112023/three-excise-officers-arrested-for-soliciting-rs-2-million-bribe-posing-as-narcotics-bureau-officers) · `en`
+
+Three officers attached to the Excise Department in Chankanai have been arrested by the Northern Province Crimes Division for allegedly attempting to solicit a bribe of Rs. 2 million while claiming to be officials from the Narcotics Control Bureau.
+
+According to intelligence received by the head of the Northern Province Crimes Division, a raid was carried out last evening (29), during which the three officers were taken into custody.
+
+The incident was reported when the excise officers reportedly arrested a man found in possession of heroin along the Mathagal coastal area and claimed they were from the Narcotics Bureau.
+
+They had reportedly taken the suspect to the Excise Office in Chankanai, where they used his mobile phone to call his sister. During the call, the suspects allegedly demanded Rs. 2 million to release him.
+
+The victim’s sister informed the head of the Northern Province Crimes Division, leading to a sting operation that resulted in the arrest of the three excise officers.
+
+...
+
+[Data](articles/19a5eda3.json)
+
+---
+
 ### இந்தோனேசிய அதிகாரிகளுக்கு பாராட்டு
 
 *2025-08-31 10:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசிய-அதிகாரிகளுக்கு-பாராட்டு/175-363774) · `ta`
@@ -199,22 +381,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/46b4c26b.json)
-
----
-
-### அருகம் குடாவில் கைகலப்பு ; இரண்டு இஸ்ரேலிய பிரஜைகள் கைது
-
-*2025-08-31 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223811) · `ta`
-
-அருகம் குடாவில் ஹோட்டல் ஒன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் இரண்டு இஸ்ரேலிய பிரஜைகள் சனிக்கிழமை (31) பொத்துவில் பொலிஸாரால் கைது செய்யப்பட்டனர்.
-
-தம்பதியினர் தங்கள் வாகனத்தில் பயணித்தபோது, 26 வயதுடைய இரண்டு வெளிநாட்டினர் வீதியை மறித்ததால் இந்த சம்பவம் நடந்ததாக பொலிஸால் தெரிவித்தனர். இதன்போது, இரு தரப்பினருக்கும் இடையில்  வாக்கு வாதம்  ஏற்பட்ட பின்னர் அது கைகலப்பாக மாறியுள்ளது.
-
-பாதிக்கப்பட்ட கணவன் மற்றும் மனைவி காயமடைந்து சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். சந்தேக நபர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளனர்.
-
-◼️
-
-[Data](articles/3ddc89da.json)
 
 ---
 
@@ -1631,169 +1797,5 @@ Born free…and wild…to a devoted mother who would sacrifice her life for you,
 ...
 
 [Data](articles/28ae06e6.json)
-
----
-
-### Export diversification & value-added products to receive future incentives - President
-
-*2025-08-30 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112002/export-diversification-value-added-products-to-receive-future-incentives-president) · `en`
-
-President Anura Kumara Dissanayake stated that future incentives will be introduced to encourage export diversification and the development of value-added products.
-
-The President further said that the role of governments is to support industries rather than hinder them and he underscored the necessity of consulting with relevant sectors during the regulation drafting process, ensuring sufficient time is allocated for their execution.
-
-The President made these remarks yesterday (29) at the Presidential Secretariat during the 2026 pre-budget discussion with private sector representatives from the agriculture and food & beverage sectors, according to the President’s Media Division (PMD).
-
-The meeting focused on providing facilities for farmers, exports, tax concessions, recycling and the legal environment affecting the sector.
-
-...
-
-[Data](articles/d3f9313b.json)
-
----
-
-### අධිවේගයේ බස් රථවල මගීන්ට ආසන පටි පැළඳීම අනිද්දා සිට අනිවාර්යය වෙයි
-
-*2025-08-30 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213958) · `si`
-
-අධිවේගී මාර්ගවල ධාවනය වන මගී ප්‍රවාහන බස් රථවල මගීන් සඳහා ආසන පටි පැළඳීම සැප්තැම්බර් 01 වනදා සිට අනිවාර්යය කෙරුණ ද ඒ සම්බන්ධයෙන් සහන කාලයක් ලබා දීමට පියවර ගන්නා බව අද දෙරණ කළ විමසීමකදී ජාතික ගමනාගමන කොමිෂන් සභාව පැවසීය.
-
-අනතුරුව අදාළ තීරණයට පටහැනිව කටයුතු කරන බස් රථවලට එරෙහිව නීතිමය පියවර ගැනීමට කටයුතු කරන බවයි එම කොමිෂන් සභාව පැවසීය.
-
-මේ අතර ආසන පටි පැළඳීම සම්බන්ධයෙන් මාර්ග ආරක්ෂාව පිළිබද ජාතික සභාවේ සභාපති මංජුල කුලරත්න මහතා මෙලෙස අදහස් පළ කළේය.
-
-...
-
-[Data](articles/d8b43e93.json)
-
----
-
-### Special police team heads to Indonesia to bring back arrested criminal gang leaders
-
-*2025-08-30 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112001/special-police-team-heads-to-indonesia-to-bring-back-arrested-criminal-gang-leaders-) · `en`
-
-Five high-profile underworld figures, including ‘Kehelbaddara Padme’, are scheduled to be brought back to Sri Lanka tomorrow (August 31).
-
-It is reported that a special police team from Sri Lanka departed the island today (August 30) to facilitate their repatriation.
-
-The individuals, considered leaders of powerful organized criminal gangs in the country, were arrested in Jakarta, Indonesia, on August 28 during a special operation conducted jointly by a team from the Sri Lanka Police and Jakarta Police.
-
-The arrested underworld figures, identified by their aliases, include Kehelbaddara Padme, Commando Salinda, Panadura Nilanga, Thembili Lahiru, and Backhoe Saman, according to police.
-
-◼️
-
-[Data](articles/a2c6a167.json)
-
----
-
-### அமரர். சௌமியமூர்த்தி தொண்டமானின் 112 ஆவது ஜனன தினம்
-
-*2025-08-30 12:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமரர்-சௌமியமூர்த்தி-தொண்டமானின்-112-ஆவது-ஜனன-தினம்/175-363751) · `ta`
-
-அமரர். சௌமியமூர்த்தி தொண்டமானின் 112 ஆவது ஜனன தினம் இன்று அமரர். சௌமியமூர்த்தி தொண்டமானின் 112 ஆவது ஜனன தினம் இன்று (30) தலைநகர் கொழும்பிலும், மலையக பகுதிகளிலும் அனுஷ்டிக்கப்பட்டு வருகின்றது. ஜனாதிபதி செயலகத்தில் அமைந்துள்ள அவரது உருவச் சிலைக்கு இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான், பிரதி தலைவர் கணபதி கனகராஜ், தேசிய அமைப்பாளர் சக்திவேல் உட்பட கட்சியின் முக்கியஸ்தர்கள் மலர் மாலை அணிவித்து மரியாதை செலுத்தினர். பின்னர் இ.தொ.காவின் தலைமையகமான சௌமியபவனின் விசேட பூஜை வழிபாடுகள் இடம்பெற்றன.
-
-◼️
-
-[Data](articles/1b8ba9a3.json)
-
----
-
-### අපරාධ කල්ලි නායකයින් ගේන්න විශේෂ පොලිස් කණ්ඩායමක් ඉන්දුනීසියාවට
-
-*2025-08-30 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213957) · `si`
-
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05 දෙනා හෙට (31) දිවයිනට රැගෙන ඒමට නියමිතව තිබේ.
-
-ඔවුන් රැගෙන ඒම සඳහා විශේෂ පොලිස් කණ්ඩායමක් අද (30) දිවයිනෙන් පිටව ගිය බව වාර්තා වෙයි.
-
-ඉන්දුනීසියාවේ ජකර්තා නුවරදී පසුගියදා කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධකරුවන් පස්දෙනෙකු එරට පොලිසිය මගින් අත්අඩංගුවට ගනු ලැබීය.
-
-මෙරටින් ගිය සහකාර පොලිස් අධිකාරීවරුන් දෙදෙනෙකු වන රොහාන් ඕලුගල හා මහින්ද ජයසුන්දර යන මහත්වරුන් එරට පොලිසිය සමග එක්ව සිදුකළ මෙහෙයුමකදීය.
-
-එහිදී කෙහෙල්බද්දර පද්මේ,  කමාන්ඩෝ සලින්ත, පානදුරේ නිලංග, බැකෝ සමන් සහ තැඹිලි ළහිරු යන සංවිධානාත්මක අපරාධ කල්ලි නායකයින් අත්අඩංගුවට පත්විය.
-
-එම මෙහෙයුමේදී අත්අඩංගුවට පත් වූ බැකෝ සමන් නැමැත්තාගේ බිරිය හා දරුවාව අනතුරුව නිදහස් කෙරුණු අතර ඔවුන්ව නැවත මෙරටට එවීමට එරට පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය කටයුතු කර තිබුණි.
-
-ඒ අනුව ඊයේ පස්වරුවේ මෙරටට පැමිණි බැකෝ සමන්ගේ බිරිඳ සහ දරුවාව කටුනායක ගුවන්තොටුපොළෙහෙි පිහිටි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඒකකය මගින් සියභාරයට ගෙන මූලික ප්‍රකාශ සටහන් කරගෙන තිබුණි.
-
-...
-
-[Data](articles/91edd4c1.json)
-
----
-
-### US bars Palestinian leader Abbas from UN as allies pledge statehood
-
-*2025-08-30 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112000/us-bars-palestinian-leader-abbas-from-un-as-allies-pledge-statehood) · `en`
-
-The United States said on Friday it will not allow Palestinian Authority President Mahmoud Abbas to travel to New York next month for a United Nations gathering of world leaders, where several U.S. allies are set to recognize Palestine as a state.
-
-A State Department official said Abbas and about 80 other Palestinians would be affected by the decision to deny and revoke visas from members of the umbrella Palestine Liberation Organization and the West Bank-based Palestinian Authority.
-
-Abbas had been planning to travel to New York for the annual high-level U.N. General Assembly at U.N. headquarters in Manhattan. He was also set to attend a summit there - hosted by France and Saudi Arabia - where Britain, France, Australia and Canada have pledged to formally recognize a Palestinian state.
-
-Abbas’ office said it was astonished by the visa decision and argued that it violated the U.N. “headquarters agreement.”
-
-...
-
-[Data](articles/a714740d.json)
-
----
-
-### විදුලිබල මණ්ඩලයේ මෙහෙම මිනිස්සු ඉන්නවද?
-
-*2025-08-30 11:42:28* · [`adalk`](https://www.ada.lk/opinion/විදුලිබල-මණ්ඩලයේ-මෙහෙම-මිනිස්සු-ඉන්නවද-/2-418163) · `si`
-
-මහ මඟ  වැටී තිබී අහුලා ගත් අයිතිකරුවෙකු සොයා ගැනීමට නොහැකි  මුදල් පසුම්බියක් දින හතරක් තිස්සේ උපක්‍රමශීලීව හිමිකරු සොයාගෙන ගොස් අයිතිකරුට භාර දුන් අපූරු රියදුරෙක් පිළිබඳව තොරතුරක් 30 දින උදෑසන දඹුල්ල ප්‍රදේශයෙන් අපට වාර්තා විය'
-
-මීට දින හතරකට පමණ ඉහතදී    විදුලි බල මණ්ඩලයේ  දඹුල්ල ඩිපෝවේ රියදුරෙකු ලෙස සේවය කරන නිහාල් අනුරුද්ධ අමුණුගම මහතාට දඹුල්ල නගරය ආසන්නයේ  මහපාරේ තිබී  මුදල් පසුම්බියක් හමුවී තිබේ.
-
-. එම මුදල් පසුම්බියේ රුපියල් ලක්ෂයකට  වැඩි මුදල් එමෙන්ම කොරියාවේ ලොතරැයි පත්   ලංකාවේ ලොතරැයි පත් සහ වටිනා රන් මාලයක්ද තිබී ඇත.
-
-කිසිදු අයිතිකරුවෙකු පිළිබඳව තොරතුරක් එම පසුම්බියේ නොවූ බව අනුරුද්ධ අමුණුගම මහතා පැවසීය.
-
-...
-
-[Data](articles/3c3c064d.json)
-
----
-
-### අගය එකතු කළ නිෂ්පාදන සඳහා ඉදිරියේදී සහන ලබා දෙනවා - ජනපති
-
-*2025-08-30 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213956) · `si`
-
-අපනයන විවිධාංගීකරණය සහ අගය එකතු කළ නිෂ්පාදන සඳහා ඉදිරියේදී සහන ලබා දීමට අපේක්ෂා කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-රජයන් ඇත්තේ කර්මාන්ත අපහසුතාවට පත් කිරීමට නොව පහසුකම් සැලසීමට බවත්, නීති රීති සම්පාදනයේදී අදාළ  ක්ෂේත්‍ර සමඟ සහ සම්බන්ධතාවක් පවත්වාගෙන යාම මෙන්ම ඒවා ක්‍රියාත්මක කිරීමේදී ප්‍රමාණවත් කාලයක් ලබාදීමේ වැදගත්කමත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ කෘෂි සහ ආහාරපාන ක්ෂේත්‍රයට සම්බන්ධ පෞද්ගලික අංශයේ ව්‍යාපාරිකයන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවකට ඊයේ (29) පස්වරුවේ ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
-
-ගොවීන්ට අවශ්‍ය පහසුකම් සැලසීම, අපනයන, බදු සහන, ප්‍රතිචක්‍රීකරණය සහ කර්මාන්ත පවත්වාගෙන යාමේදී බලපාන නීතිමය තත්ත්වයන් පිළිබඳවද මෙහිදී පුළුල් ලෙස සාකච්ඡා කෙරිණි.
-
-ගුණාත්මක, කෘෂි සහ ආහාරපාන නිෂ්පාදන අඛණ්ඩව පාරිභෝගිකයා වෙත ලබා දීම පිළිබඳව මෙන්ම එම කර්මාන්තයට අදාළ කටයුතුවලදී ව්‍යාපාරිකයන් මුහුණ දී සිටින ගැටලු සහ අභියෝග පිළිබඳ මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කළ අතර ඊට අදාළ ඔවුන්ගේ අදහස් හා යෝජනාද සාකච්ඡාවට ලක්විය.
-
-...
-
-[Data](articles/130caa46.json)
-
----
-
-### සැකකටයුතු මරණයක්
-
-*2025-08-30 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213955) · `si`
-
-සැකකටයුතු ලෙස මිය ගිය පුද්ගලයෙකුගේ සිරුරක් කළුතර, කටුකුරුන්ද වෙරළ තීරයේ තිබී හමුවී ඇත.
-
-මෙම මළසිරුර මුහුදු වෙරළේ ශාරිරික අභ්‍යාසවල නිරතවී සිටි පියෙක් සහ දියණියක් විසින් දැක තිබේ.
-
-මෙහිදී පොලීසිය විසින් සිදුකළ පරික්ෂණයේදී අනාවරණය වී ඇත්තේ, මුහුදු වෙරළේ මුනින් අතට තබා හිස වැලිවලින් වසා ඇති බවටය.
-
-ඝාතනයට ලක්ව ඇති පුද්ගලයා වයස අවුරුදු 55 - 60  අතර වියේ පසුවන බවට සැකකරන අතර, ඔහුගේ අනන්‍යතාව මෙතෙක් තහවුරු කරගෙන නොමැති පොලීසිය පැවසීය.
-
-මියගොස් ඇති තැනැත්තා බඳපටිය සහිතව කළු දිග කලිසමක් සහ සුදු මේස් බැනියමක් ඇද සිටින බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/977517d9.json)
 
 ---

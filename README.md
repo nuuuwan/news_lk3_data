@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 14:20:31**
+As of **2025-08-31 14:32:34**
 
 ## Newspaper Stats
 
-*Scraped **73,311** Articles*
+*Scraped **73,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,059
 adaderanalk | 9,326
 tamilmirrorlk | 10,891
 virakesarilk | 12,014
-adaderanasinhalalk | 12,718
+adaderanasinhalalk | 12,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,311 articles have been extended.
+61,973 (84.5%) of 73,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### සැප්තැම්බර් 07 වැනිදා පූර්ණ චන්ද්‍රග්‍රහණයක්
+
+*2025-08-31 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213992) · `si`
+
+ශ්‍රී ලංකාවට මෙන්ම ලොව බොහෝ රටවලට දිස්වන පූර්ණ චන්ද්‍රග්‍රහණයක් සැප්තැම්බර් මස 07 වනදා සිදුවන බව‍ කොළඹ විශ්වවිද්‍යාලයේ තාරකා විද්‍යා සහ අභාවකාශ විද්‍යා ඒකකයේ අධ්‍යක්‍ෂ මහාචාර්ය චන්දන ජයරත්න මහතා පවසයි.
+
+සැප්තැම්බර් මස 07 වැනිදාට යෙදී ඇති නිකිණි පොහෝ දින රාත්‍රී 8.58 සිට 8 වනදා අලුයම 2.25 දක්වා පැය 5යි මිනිත්තු 27ක පමණ කාලයක් මෙම චන්ද්‍රග්‍රහණය නිරීක්ෂණය කිරීමේ දුර්ලභ අවස්ථාව හිමිවන බව ඔහු වැඩිදුරටත් පැවසුවේය.
+
+සූර්යයා හා චන්ද්‍රයා අතරින් පෘථිවිය ගමන් කරන අතර පෘථිවියෙහි වඩා අදුරු වූ පූර්ණ ඡායාව තුළින් චන්ද්‍රයා ගමන් කිරිම හේතුකොට ගෙන  පැයකුත් මිනිත්තු 22ක කාලයක් චන්ද්‍රයා අදුරු වී යාම මෙහිදී සිදුවන බව මහාචාර්ය චන්දන ජයරත්න මහතා පෙන්වා දුන්නේය.
+
+පුර්ණ චන්ද්‍රග්‍රහණය සම්පූර්ණයෙන් දිස්වීම 07 වනදා රාත්‍රී 11.01  සිට 08 වැනිදා අළුයම 12.22ක් දක්වා කාලය තුළ සිදුවන බවද සඳහන් වේ.
+
+එමෙන්ම මෙම චන්ද්‍රග්‍රහණය පූර්ණ වශයෙන් හෝ අර්ධ ග්‍රහණයක් වශයෙන් සියයට 85ක් පමණ ලෝක ජනතාවට දිස්වනු ඇති අතර 2028 දක්වා මෙවැනි පූර්ණ චන්ද්‍රග්‍රහණයක් දැකීමට ශ්‍රී ලාංකිකයින්ට අවස්ථාව නොලැබෙන බව ද මහාචාර්යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/1ae238dd.json)
+
+---
 
 ### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ICCයෙන් දඩයක්
 
@@ -1805,19 +1825,5 @@ Locally, Omega Line has been recognised for innovative practices, including digi
 ...
 
 [Data](articles/a894b83f.json)
-
----
-
-### Lanka’s Poornaka Delpachitra honoured as PATA Sustainability Leader
-
-*2025-08-30 15:27:00* · [`islandlk`](http://island.lk/lankas-poornaka-delpachitra-honoured-as-pata-sustainability-leader/) · `en`
-
-Intrepid Travel is celebrating the recognition of Poornaka Delpachitra, Country General Manager for Sri Lanka, as a 2025 PATA Face of the Future awardee. Presented by the Pacific Asia Travel Association (PATA), the award is the Association’s highest honour for young tourism professionals making an outstanding contribution to the industry. Poornaka is one of only four emerging leaders across the Asia Pacific recognised this year, and the winner in the Sustainability Initiatives category.
-
-“It’s a great honour and deeply humbling to be recognised by PATA. I’m proud to be leading a team that truly believes in creating positive change through the joy of travel, and I’m excited to keep building that future in Sri Lanka and beyond,” he said.
-
-...
-
-[Data](articles/fdda7715.json)
 
 ---

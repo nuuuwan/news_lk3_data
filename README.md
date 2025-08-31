@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 19:08:28**
+As of **2025-08-31 19:32:22**
 
 ## Newspaper Stats
 
-*Scraped **73,343** Articles*
+*Scraped **73,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 5,182
 adalk | 7,063
 adaderanalk | 9,332
 tamilmirrorlk | 10,893
-virakesarilk | 12,019
+virakesarilk | 12,020
 adaderanasinhalalk | 12,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,343 articles have been extended.
+61,973 (84.5%) of 73,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### பசறையில் வீட்டிற்குள் மர்மமான முறையில் இரு இளைஞர்கள் சடலமாக மீட்பு!
+
+*2025-08-31 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/223873) · `ta`
+
+பதுளை, பசறை, 10வது கனவா பகுதியில் உள்ள ஒரு வீட்டிற்குள் மர்மமான முறையில் இறந்த இரண்டு இளைஞர்களின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+
+பசறை பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் நடத்தப்பட்ட விசாரணையின் போது குறித்த சடலங்கள் கண்டெடுக்கப்பட்டன.
+
+இறந்தவர்கள் 28 மற்றும் 33 வயதுடைய இரண்டு இளைஞர்கள் என்று பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d3a8fffa.json)
+
+---
 
 ### UNP පක්ෂ සම්මේලනය නව මුහුණුවරකින් විපක්ෂයේ දේශපාලන පක්ෂ නායකයින්ට ආරාධනා
 
@@ -1855,21 +1871,5 @@ The suspects were among the five high-profile underworld figures arrested in Ind
 ◼️
 
 [Data](articles/f452cab0.json)
-
----
-
-### යේමනයේ හූති පාලන කොටසේ අග්‍රාමාත්‍යවරයා ඊශ්‍රායල් ප්‍රහාරයකින් මරුට
-
-*2025-08-30 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213975) · `si`
-
-ඊශ්‍රායල විසින් එල්ල කළ ගුවන් ප්‍රහාරයකින් යේමනයේ හූති පාලන කොටසේ අග්‍රාමාත්‍යවරයා වන අහමඩ් අල්-රහාවි මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-සානාහි සිදු වූ ප්‍රහාරයකින් ඔහු ඇතුළු අමාත්‍යවරුන් කිහිප දෙනෙකු මිය ගිය බව හූති කැරලිකරුවන් අද (30) නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත.
-
-2024 අගෝස්තු මාසයේ සිට හූති ප්‍රමුඛ රජයේ අගමැති ලෙස මොහු කටයුතු කර ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/2ebecf60.json)
 
 ---

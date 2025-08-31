@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 08:03:58**
+As of **2025-08-31 08:41:26**
 
 ## Newspaper Stats
 
-*Scraped **73,254** Articles*
+*Scraped **73,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,25 +18,81 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,052
 adaderanalk | 9,310
-tamilmirrorlk | 10,874
+tamilmirrorlk | 10,876
 virakesarilk | 12,008
-adaderanasinhalalk | 12,707
+adaderanasinhalalk | 12,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,254 articles have been extended.
+61,973 (84.6%) of 73,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
 
+### යුක්‍රේන හිටපු කතානායක වෙඩි තබා ඝාතනය කරයි
+
+*2025-08-31 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213981) · `si`
+
+යුක්‍රේන පාර්ලිමේන්තුවේ හිටපු කතානායකවරයෙකු වූ ඇන්ඩ්‍රි පරුබියි වෙඩි තබා ඝාතනය කර තිබේ.
+
+කුරියර්වරයෙකු ලෙස සැරසී වීදියේ සිටි පුද්ගලයෙකු විසින් ඇන්ඩ්‍රි පරුබියි වීදියේ ගමන් කරමින් සිටියදී ඔහු පිටුපසින් පැමිණ වෙඩි තබා මෙම ඝාතනය සිදුකර තිබේ.
+
+ඝාතනය සිදුකළ ඝාතකයා සොයා මේ වන විට එරට විශේෂ විමර්ෂනයක්ද ආරම්භ කර ඇති අතර යුක්‍රේන ජනාධිපතිවරයා පවසා ඇත්තේ අවශ්‍ය සිවලු බලවේගය මේ සඳහා යොදවා ඇති බවය.
+
+යුක්‍රේන ජනාධිපතිවරයා මෙම ඝාතනය පිළිබඳව අදහස් දක්වමින් පවසා ඇත්තේ මෙය බිහිසුණු මිනීමැරුමක් වන බවය.
+
+නාඳුනන තුවක්කුකරුවෙකුගෙන් වෙඩි ප්‍රහාර කිහිපයක් එල්ල වී ඇති අතර එම වෙඩි ප්‍රහාරයෙන් ඇන්ඩ්‍රි එම ස්ථානයෙන්ම ජීවිතක්ෂයට පත්ව තිබේ.
+
+2013 වසරේ අග භාගයේදී  රුසියානු හිතවාදී හිටපු ජනාධිපති යනුකොවිච්ගේ රජය යුරෝපා සංගමය සමග ගිවිසුමක් අත්සන් කිරීම ප්‍රතික්ෂේප කිරීමෙන් පසුව ආරම්භ වූ යුරෝමයිඩන් ව්‍යාපාරයේදී පරුබි ප්‍රමුඛ චරිතයක් බවට පත් විය.
+
+පසුකාලීනව යනුකොවිච් බලයෙන් පහ කිරීමෙන් පසු ඔහු යුක්‍රේනයේ ජාතික ආරක්ෂක සහ ආරක්ෂක කවුන්සිලයේ ලේකම් බවටද පත්විය.
+
+...
+
+[Data](articles/4fd4d1b9.json)
+
+---
+
+### ’மனிதப் புதைகுழிகள் தொடர்பில் சுயாதீன விசாரணை வேண்டும்’
+
+*2025-08-31 07:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனிதப்-புதைகுழிகள்-தொடர்பில்-சுயாதீன-விசாரணை-வேண்டும்/175-363769) · `ta`
+
+இலங்கையில், அண்மையில் மனிதப் புதைகுழிகளில் இருந்து மீட்கப்பட்ட சிறுவர்கள் உள்ளிட்ட பலரின் மனித என்புக்கூடுகள் மற்றும் தனிப்பட்ட உடைமைகள் என்பன கடந்த கால மனித உரிமை மீறல்களின் அளவையும், நம்பகமான, வெளிப்படையான மற்றும் சுயாதீன விசாரணைகளுக்கான அவசரத் தேவையையும் வலியுறுத்துகின்றன என்று இலங்கைக்கான ஐக்கிய நாடுகள் வதிவிட ஒருங்கிணைப்பாளர் மார்க் ஆண்ட்ரே பிராஞ்ச் தெரிவித்துள்ளார்.
+
+சர்வதேச காணாமல்போனோர் தினம் அனைத்து பாதிக்கப்பட்டவர்கள் மற்றும் அவர்களது குடும்பத்தினரின் நினைவை மதிக்கும் ஒரு நாள் என்றும், சர்வதேச மனித உரிமைகள் சட்டத்தின் கீழ் இந்த மீறலை ஒருபோதும் பொறுத்துக்கொள்ளவோ, மன்னிக்கவோ அல்லது மறக்கவோ கூடாது என்பதை நினைவூட்டுவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+நீதி, உண்மை மற்றும் இழப்பீடுகள் ஆகியவை நல்லிணக்கம், நிறுவனங்கள் மீதான நம்பிக்கை மற்றும் இலங்கையர்கள் நீண்டகாலமாகத் தேடிக்கொண்டிருக்கும் நிலையான அமைதியின் பிரிக்க முடியாத அடித்தளங்கள் என்று அவர் குறிப்பிட்டுள்ளார்
+
+...
+
+[Data](articles/ded4159f.json)
+
+---
+
+### பெறுமதி சேர் உற்பத்திகளுக்கு எதிர்காலத்தில் ஒத்துழைப்பு
+
+*2025-08-31 07:24:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெறுமதி-சேர்-உற்பத்திகளுக்கு-எதிர்காலத்தில்-ஒத்துழைப்பு/175-363768) · `ta`
+
+ஏற்றுமதி பல்வகைப்படுத்தல் மற்றும் பெறுமதி சேர் உற்பத்திகளுக்கு எதிர்காலத்தில் ஒத்துழைப்பு வழங்க எதிர்பார்ப்பதாக ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்தார். கைத்தொழில்களை சிரமப்படுத்துவதற்காக அன்றி, வசதிகளை வழங்குவதற்காகவே அரசாங்கங்கள் இருப்பதாகவும்  சட்டங்கள் மற்றும் ஒழுங்குமுறைகளை வகுப்பதில் சம்பந்தப்பட்ட துறையினருடன் தொடர்பைப் பேணுவதைப் போன்றே அவற்றை செயல்படுத்த போதுமான காலஅவகாசத்தை வழங்குவதன் முக்கியத்துவத்தையும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி அலுவலகத்தில் நேற்று முன்தினம் (29) பிற்பகல் நடைபெற்ற விவசாயம் மற்றும் உணவுத் துறையில் ஈடுபட்டுள்ள வர்த்தகர்களுடனான 2026 வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடலில்  ஜனாதிபதி  அநுர குமார திசாநாயக்க இதனைத் தெரிவித்தார்.
+
+விவசாயிகளுக்கு தேவையான வசதிகளை வழங்குதல், ஏற்றுமதி, வரிச் சலுகைகள், மீள்சுழற்சி மற்றும் கைத்தொழில்களின் செயல்பாட்டைப் பாதிக்கும் சட்ட நிலைமைகள் குறித்தும் ஆராயப்பட்டது.
+
+...
+
+[Data](articles/6157df21.json)
+
+---
+
 ### පද්මේ ඇතුළු පිරිස ඇල්ලූ ඉන්දුනීසියානු පොලිස් නිලධාරීන්ට ශ්‍රී ලංකා පොලීසියේ උපහාර
 
 *2025-08-31 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213980) · `si`
 
-කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස අත්අඩංගුවට ගැනීමේ මෙහෙයුමට සම්බන්ධ වූ ඉන්දුනීසියානු පොලිස් නිලධාරීන් හට සමරු ඵලකයන් පිරිනෑමීමක් සිදුකළ බව පොලීසිය පවසයි.
+කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස අත්අඩංගුවට ගැනීමේ මෙහෙයුමට සම්බන්ධ වූ ඉන්දුනීසියානු පොලිස් නිලධාරීන් ඇගයීමට ලක්කරමින් තිළිණ ප්‍රදානයක්ද සිදුකළේය.
 
 එමෙන්ම එම මෙහෙයුමට සම්බන්ධ වූ ඉන්දුනීසියානු පොලිස් නිලධාරීන්ව හා මෙරට පොලිස් නිලධාරීන්ව මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍යවරයාගේ ඇගයීමටද ලක්විය.
 
@@ -765,6 +821,8 @@ Save my name, email, and website in this browser for the next time I comment.
 *2025-08-30 15:32:00* · [`islandlk`](http://island.lk/eton-college-opens-new-campus-with-modern-facilities/) · `en`
 
 Eton College marked a major milestone on July 30 with the move to a new building featuring modern classrooms, a science laboratory, IT center, library, and fully equipped preschool. Established on January 7, 2024, in a rented Maradana facility with 40 students, the college has grown to over 200 students and a staff of more than 20 under Principal and CEO Akram Mohamed Thowfeek. The school emphasizes quality English-medium education, sports, arts, and trilingual fluency through its English, Sinhala, and Tamil societies. Eton Campus in Kollupitiya complements the college, offering TVEC-approved diplomas, degrees, and UK-accredited programs in business, IT, and education.
+
+OPA hosts 38th Annual Conference and 4th National Apex Award
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -1775,59 +1833,5 @@ At the heart of the evening was the coveted Most Popular Woman title, decided by
 ...
 
 [Data](articles/04ba1a21.json)
-
----
-
-### People’s Bank presents prizes to winners of ‘People’s Debit Card  Gedaratama Thagi – 02’ grand draw
-
-*2025-08-30 00:38:31* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-presents-prizes-to-winners-of-People-s-Debit-Card-Gedaratama-Thagi-02-grand-draw/34-780985) · `en`
-
-People’s Bank recently presented prizes to the three grand prize winners of the ‘People’s Debit Card Gedaratama Thagi – 02’ draw (March – May 2025).
-
-Accordingly, S.D.R.N. Senevirathne of Horana received Rs. 1 million, T.T.S.A. Munidasa of Kegalle won Rs. 500,000, and W.A.S. Shiromi of Mulleriyawa received Rs. 250,000 worth of valuable household electronic appliances. The People’s Bank Card Centre made special arrangements to deliver these prizes directly to the winners’ doorsteps.
-
-In addition, 150 lucky winners of the monthly draws were rewarded with supermarket vouchers worth Rs. 25,000 each.
-
-The prize-giving was attended by People’s Bank Deputy General Manager – Payment and Cards Nilmini Premalal, and Cards Head Jayanath Dias, along with Regional Managers, Card Centre Managers, Branch Managers, and other officers.
-
-The ‘People’s Debit Card Gedaratama Thagi’ promotion was conducted from 1 March 2025 to 31 May 2025, with the total value of prizes amounting to Rs. 5.5 million.
-
-◼️
-
-[Data](articles/666a56cf.json)
-
----
-
-### GDF unites world leaders and experts in Colombo
-
-*2025-08-30 00:37:53* · [`dailyftlk`](https://www.ft.lk/business/GDF-unites-world-leaders-and-experts-in-Colombo/34-780984) · `en`
-
-Explore unique AI-powered green energy, food security and cybersecurity applications
-
-The Global Dialogue Forum (GDF), in partnership with the iconic Club of Rome’s India affiliate, will host an international conclave on 20 September 2025, from 9 a.m. to 6.30 p.m. at the Galle Face Hotel, Colombo to explore the frontiers that Artificial Intelligence (AI) can breach to overcome green energy, food security and cybersecurity challenges.
-
-Where it differs from the usual recent technology conferences is the firm focus on the practical and sustainable applications of AI.
-
-With leading global experts, policy framers, decision makers and innovators, the conference will look at AI’s game changing role in the transitioning from fossil to green energy in all its forms – from solar to wind to hydrogen, in sharply enhancing agricultural productivity and water management to rid the world of hunger; all these underscored by cybersecurity which provides protection to the network systems.
-
-...
-
-[Data](articles/4a30a7d9.json)
-
----
-
-### Bling Productions and Eyeon win big at WOW Awards Asia 2025 for South Asia’s first immersive digital art space ‘Pixel Bloom’ at Colombo Lotus Tower
-
-*2025-08-30 00:37:37* · [`dailyftlk`](https://www.ft.lk/business/Bling-Productions-and-Eyeon-win-big-at-WOW-Awards-Asia-2025-for-South-Asia-s-first-immersive-digital-art-space-Pixel-Bloom-at-Colombo-Lotus-Tower/34-780983) · `en`
-
-In a landmark achievement for the Sri Lankan event industry, Bling Productions and Eyeon recently clinched two Silver awards and one Bronze award at WOW Awards Asia 2025—Asia’s most prestigious platform for recognising excellence in events and experiential marketing.
-
-The team was awarded for their pioneering work on ‘Pixel Bloom,’ a permanent immersive digital art experience at the Colombo Lotus Tower, winning across three key categories in Experiential Tech, namely Achievement in Projection Mapping (Silver), Achievement in Audio-Visual Solutions (Bronze), and Innovative Use of Event Tech Software (Silver).
-
-Pixel Bloom was conceptualised and developed by Bling Productions and Eyeon Digital Motion, in close partnership with the Colombo Lotus Tower, showcasing what’s possible when creative technology meets national infrastructure.
-
-...
-
-[Data](articles/fc9ce26a.json)
 
 ---

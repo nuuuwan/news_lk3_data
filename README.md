@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 13:32:29**
+As of **2025-08-31 13:51:13**
 
 ## Newspaper Stats
 
-*Scraped **73,305** Articles*
+*Scraped **73,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 4,465
 islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
-adalk | 7,058
-adaderanalk | 9,323
+adalk | 7,059
+adaderanalk | 9,326
 tamilmirrorlk | 10,891
 virakesarilk | 12,014
-adaderanasinhalalk | 12,716
+adaderanasinhalalk | 12,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,305 articles have been extended.
+61,973 (84.5%) of 73,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### හිටපු ජනාධිපති ලේකම් සමන් ඒකනායකට යළි CIDයෙන් කැඳවීමක්
+
+*2025-08-31 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213990) · `si`
+
+හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා යළි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා තිබේ.
+
+හෙට (01) පෙරවරු 9ට එම දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස සමන් ඒකනායක මහතාට දැනුම් දී ඇති බව වාර්තා වෙයි.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට මෙම කැඳවීම සිදුකර ඇති බව සඳහන්ය.
+
+සිද්ධියට අදාළව මීට පෙර ද සමන් ඒකනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ප්‍රකාශ සටහන් කරගෙන තිබුණි.
+
+◼️
+
+[Data](articles/8abf430c.json)
+
+---
+
+### Celestial Spectacle Awaits Sri Lanka: Rare blood moon to appear for 82 minutes on September 7
+
+*2025-08-31 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112028/celestial-spectacle-awaits-sri-lanka-rare-blood-moon-to-appear-for-82-minutes-on-september-7) · `en`
+
+A spectacular celestial event is set to light up the skies on September 7, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
+
+Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 77% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
+
+Stargazers and astronomy enthusiasts across Sri Lanka have been advised to prepare for a breathtaking celestial event as a total lunar eclipse graces the night sky on September 7.
+
+...
+
+[Data](articles/992c673e.json)
+
+---
+
+### ගොවීන්ට නොමිලයේ දීමට තිබූ රු. කෝටි ගණනක පොහොර කල් ඉකුත් වෙන්න ළඟයි
+
+*2025-08-31 13:09:27* · [`adalk`](https://www.ada.lk/breaking_news/ගොවීන්ට-නොමිලයේ-දීමට-තිබූ-රු--කෝටි-ගණනක-පොහොර-කල්-ඉකුත්-වෙන්න-ළඟයි/11-418174) · `si`
+
+පසුගිය රජය සමයේ 2023 වර්ෂයේ වී ගොවින්  වෙත ගොවිජන සේවා කාර්යාල හරහා නොමිලේ ලබාදීමට රුපියල් කෝටි ගණනක් වටිනා පොහොර මේ වන විට එම ගබඩා තුළ විනාශ වීමේ අවදානමක් පවතින බව ජාතික පොහොර ලේකම් කාර්යාලයේ නියෝජ්‍ය අධ්‍යක්ෂක අර් ඒ සි පි කේ රණසිංහ මහතා පවසයි.
+
+නියෝජ්‍ය අධ්‍යක්ෂකවරයා එසේ ප්‍රකාශ කරනු ලැබුවේ  මධ්‍යම පළාත් ආණ්ඩුකාර මහාචාර්ය එස් බි එස් අභයඅභයකෝන් මහතාගේ හා බුද්ධ ශාසන ආගමික කටයුතු හා සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යය ගම ගෙදර දිසානායක මහතාගේ සම සභාපතිත්වයෙන් යුතුව පසුගියදා රැස්වූ මාතලේ දිස්ත්‍රික් සංවර්ධන කමිටුව අමතමින්ය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ නියෝජ්‍ය අධ්‍යක්ෂක අර් ඒ සි පි කේ රණසිංහ මහතා, "වී ගොවීන් වෙත එම්ඕපි හා පිඑස්පි පොහොර නොමිලේ ලබා දීම සඳහා රජය මඟින් ලබා දුන් එම පොහොර ටොන්  70ක් පමණ ගබඩා    තුල පවතින අතර එයින් කොටසක් මීයන් හපා විනාස වීමේ අවධානමක්ද පවතිනවා ."
+
+මෙම පොහොර කිලෝ 50 ක මිටියක්  රුපියල්  8500 ක් වැනි මුදලක් වටිනා අතර මෙම පොහොර තොගය නොවැම්බර් මාසයේදී කල් ඉකුත් වීමට නියමිත බැවින් ගොවී වෙත හා රජයේ ගොවිපළවල් වෙතෙත ලබාදීම සුදුසු යැයි ඔහු විසින් සභාවට යෝජනා කළේය.
+
+...
+
+[Data](articles/6eaf46e0.json)
+
+---
 
 ### සියලු දරුවන්ට ප්‍රවේශ විය හැකි නව අධ්‍යාපන ක්‍රමයක් ඇති කිරීම රජයේ අරමුණයි - අගමැතිනි හරිනි
 
@@ -125,6 +177,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f3c814be.json)
+
+---
+
+### Thousands in Australia rally against immigration, government condemns rally
+
+*2025-08-31 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112027/thousands-in-australia-rally-against-immigration-government-condemns-rally) · `en`
+
+Thousands of Australians joined anti-immigration rallies across the country on Sunday that the centre-left government condemned, saying they sought to spread hate and were linked to neo-Nazis.
+
+March for Australia rallies against immigration were being held in Sydney and other state capitals and regional centres, according to the group’s website.
+
+“Mass migration has torn at the bonds that held our communities together,” the website says. The group posted on X on Saturday that the rallies aimed to do “what the mainstream politicians never have the courage to do: demand an end to mass immigration”.
+
+Australia - where one in two people is either born overseas or has a parent born overseas - has been grappling with a rise in right-wing extremism, including protests by neo-Nazis.
+
+...
+
+[Data](articles/93dfebfa.json)
 
 ---
 
@@ -475,6 +545,26 @@ The victim’s sister informed the head of the Northern Province Crimes Division
 ...
 
 [Data](articles/19a5eda3.json)
+
+---
+
+### Three Excise Officers arrested for soliciting Rs. 2M bribe
+
+*2025-08-31 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112023/three-excise-officers-arrested-for-soliciting-rs-2m-bribe) · `en`
+
+Three officers attached to the Excise Department in Chankanai have been arrested by the Northern Province Crimes Division for allegedly attempting to solicit a bribe of Rs. 2 million while claiming to be officials from the Narcotics Control Bureau.
+
+According to intelligence received by the head of the Northern Province Crimes Division, a raid was carried out last evening (29), during which the three officers were taken into custody.
+
+The incident was reported when the excise officers reportedly arrested a man found in possession of heroin along the Mathagal coastal area and claimed they were from the Narcotics Bureau.
+
+They had reportedly taken the suspect to the Excise Office in Chankanai, where they used his mobile phone to call his sister. During the call, the suspects allegedly demanded Rs. 2 million to release him.
+
+The victim’s sister informed the head of the Northern Province Crimes Division, leading to a sting operation that resulted in the arrest of the three excise officers.
+
+...
+
+[Data](articles/759eb25c.json)
 
 ---
 
@@ -1725,91 +1815,5 @@ The agreement strengthens Sri Lanka’s profile as a global hub for Off-Highway 
 ...
 
 [Data](articles/17694737.json)
-
----
-
-### තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කෙරේ
-
-*2025-08-30 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213963) · `si`
-
-හබරාදුව - අමුකොටුව ප්‍රදේශයේදී කාන්තාවකට තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 42ක් වූ පිලාන, අඟුලුගහ ප්‍රදේශයේ පදිංචිකාරියෙකි.
-
-පවුල් ආරවුලක් දුරදිග යාම හේතුවෙන් පුරුෂයා විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදු කරන ලද විමර්ශනවලදී අනාවරණය වී ඇත.
-
-මෘත ශරීරය කරාපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා හබරාදුව පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/65b77a74.json)
-
----
-
-### කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධ කල්ලි සාමාජිකයින් අද පස්වරුවේ දිවයිනට
-
-*2025-08-30 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213962) · `si`
-
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු පස් දෙනා අද (30) පස්වරුවේ දිවයිනට රැගෙන ඒමට නියමිතව තිබේ.
-
-ඔවුන් රැගෙන ඒමට දිවයිනෙන් පිටත්ව ගිය විශේෂ පොලිස් කණ්ඩායමක් දිවයිනෙන් පිටත්ව ගිය අතර මේ වන විට අපරාධ කල්ලි සාමාජිකයින් එම විශේෂ පොලිස් කණ්ඩායම භාරයට ගෙන ඇති බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/59dffb92.json)
-
----
-
-### China without Blinkers
-
-*2025-08-30 14:43:00* · [`islandlk`](http://island.lk/china-without-blinkers/) · `en`
-
-I was while in Europe last month to spend a couple of days in Sete by the Mediterranean, with Tamara Kunanayagam and her partner Jean Pierre Page. He was a leading light of the French Communist party and though, as with so many left wing movements in the last century it had split, he was trying to redevelop connections. He was also strongly supportive of Jean-Luc Melenchon, the radical former Socialist who put together the coalition that emerged as the largest group in Parliament after the last French election.
-
-Jean-Pierre is highly respected internationally, and in recent years he and Tamara have often been in China at conferences which mark the increasing influence of that country. So, I was delighted when he gave me, when I was leaving, a volume entitled China without Blinkers, which he had edited together with the radical journalist Maxime Vivas.
-
-...
-
-[Data](articles/cb572951.json)
-
----
-
-### Chair of Transparency International praises govt’s anti-corruption initiatives
-
-*2025-08-30 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112003/chair-of-transparency-international-praises-govts-anti-corruption-initiatives) · `en`
-
-The Secretary to the President, Dr. Nandika  Sanath Kumanayake, met  with François Valérian, Chair of Transparency International, who is currently on a brief visit to Sri Lanka.
-
-During the discussion yesterday (29), Dr. Kumanayake highlighted the Government’s ongoing efforts to combat corruption in both the public and private sectors. He noted that several new initiatives had been launched, with significant progress already recorded in strengthening anti-corruption mechanisms.
-
-He further emphasised that plans were underway to raise public awareness on bribery and corruption, with the broader aim of eliminating corrupt practices, ensuring effective utilisation of public funds and fostering a culture of integrity in the country, according to the President’s Media Davison (PMD).
-
-...
-
-[Data](articles/7c003ca4.json)
-
----
-
-### ගතවූ පැය 24ට රිය අනතුරුවලින් 06 දෙනෙකු මරුට
-
-*2025-08-30 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213960) · `si`
-
-දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 6 දෙනෙකු මියගොස් තිබේ.
-
-පොලිසිය පැවසුවේ මොරවැව, කිලිනොච්චි, අනුරාධපුර, වලස්මුල්ල සහ අරලගංවිල යන ප්‍රදේශවල මෙම අනතුරු සිදුව ඇති බවය.
-
-ඒ 9 මාර්ගයේ පරන්තන් ප්‍රදේශයේදී ලොරි රථයක් බස් රථයක ගැටීමෙන් අනතුරක් සිදුව ඇති අතර එම අවස්ථාවේ මාර්ගයේ ගමන් කරමින් තිබූ යතුරු පැදියක් එම ලොරි රථයේ ගැටීමෙන් පැදිකරු සහ පසුපැදිකරු මියගොස් ඇත.
-
-මෙලෙස මියගොස් ඇත්තේ 25 හා 27 යන වයස්වල පසුවන පරන්තන් හා මූතූර්වල පදිංචිකරුවන් දෙදෙනෙකි.
-
-මොරවැව අව්වනගර් ප්‍රදේශයේදී යතුරුපැදියක් පාපැදියක ගැටීමෙන් සිදුවූ අනතුරකින් 71 හැවිරිදි තඹලගමුව ප්‍රදේශයේ පදිංචි පාපැදිකරු මියගොස් තිබේ.
-
-අනුරාධපුර මල්වතුඔය යකඩ පාලම අසලදී යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකි වීමෙන් මාර්ගයෙන් ඉවතට පැන අසල පිහිටි ගසක ගැටිමෙන් සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් ඇත.
-
-මෙලෙස මියගොස් ඇත්තේ 26 හැවිරිදි ගලෙන්බිදුනුවැව ප්‍රදේශයේ පදිංචිකරුවෙකු බව පොලිසිය පැවසුවේය.
-
-...
-
-[Data](articles/0ab4d755.json)
 
 ---

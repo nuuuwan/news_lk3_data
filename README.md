@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 17:32:23**
+As of **2025-08-31 17:53:03**
 
 ## Newspaper Stats
 
-*Scraped **73,334** Articles*
+*Scraped **73,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 752
-economynextcom | 4,465
+economynextcom | 4,469
 islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,334 articles have been extended.
+61,973 (84.5%) of 73,338 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -130,7 +130,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව නව රජය බලයට පත්වීමෙන් අනතුරුව වසරක පමණ කාලයක් තුළ මානව හිමිකම් සම්බන්ධ ගැටලු විසදීම සඳහා ගෙන ඇති ක්‍රියාමාර්ග මෙන්ම එහි ප්‍රගතිය පිළිබඳව විදේශ අමාත්‍යවරයා රාජ්‍ය තාන්ත්‍රික නිලධාරීන් දැනුවත් කිරීමට නියමිතය.
 
-යම් හෙයකින් මානව හිමිකම් කවුන්සිලය තුළ ශ්‍රී ලංකාවව සම්බන්ධ යෝජනාවකදී ඡන්ද විමසීමක් පැවැත්වුවහොත් ශ්‍රී ලංකාවට අනෙක් රටවල සහාය ලබා ගැනීම සිදු කළ යුතුව පවතී.
+යම් හෙයකින් මානව හිමිකම් කවුන්සිලය තුළ ශ්‍රී ලංකාව සම්බන්ධ යෝජනාවකදී ඡන්ද විමසීමක් පැවැත්වුවහොත් ශ්‍රී ලංකාවට අනෙක් රටවල සහාය ලබා ගැනීම සිදු කළ යුතුව පවතී.
 
 ...
 
@@ -215,6 +215,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dc28e1bf.json)
+
+---
+
+### Sri Lanka’s Hambantota Port ‘breakwater reef’ draws rare fish as corals grow
+
+*2025-08-31 15:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-breakwater-reef-draws-rare-fish-as-corals-grow-238828/) · `en`
+
+ECONOMYNEXT  – A coral reef growing in the shelter of a  breakwater at Sri Lanka’s China-backed port has become a biodiversity hotspot with at least eight fish species no longer observed in widely known reefs in the island found, researchers have found.
+
+Researchers found a high species diversity within the coral growing habitat of the Hambantota port, exceeding other regional sites like Weligama, Polhena, and Thalaramba, a statement from the Hambantota International Port Group said.
+
+Among eight species not observed in similar studies in other locations were Blue Green Chromis (Chromis viridis), Redfin Butterflyfish (Chaetodon lunulatus),
+
+Researchers used a standardised swim-timed transect method, covering areas of 5 by 20 meters at depths between 0.5 and 5 meters, cataloguing observed visual counts of fish by family and feeding behaviour.
+
+...
+
+[Data](articles/0021323b.json)
 
 ---
 
@@ -715,6 +733,24 @@ Australia - where one in two people is either born overseas or has a parent born
 ...
 
 [Data](articles/9bc2a8c8.json)
+
+---
+
+### Sri Lanka’s PickMe, Motatuwa uni to study linking trishaws with trains and buses
+
+*2025-08-31 11:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-pickme-motatuwa-uni-to-study-linking-trishaws-with-trains-and-buses-238824/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Pick Met, a ride hailing company said it had tied up with the university to study and find solutions to communities who are facing difficulties in accessing transport and also looking at multi-modal transport.
+
+“The collaboration aims to address long-ignored mobility challenges across diverse segments of the population,” the company said in a statement.
+
+“With a population of 22 million people facing a wide range of mobility needs, from rural villages with unmarked roads to urban centres with complex traffic dynamics, PickMe and the University of Moratuwa are seeking to design scalable, locally relevant solutions.”
+
+“This includes tackling issues such as optimising transport in areas with limited GPS-based map coverage, designing user interfaces for low-literacy communities…”
+
+...
+
+[Data](articles/684e5153.json)
 
 ---
 
@@ -1240,6 +1276,26 @@ The committee warned that “weakening the Palestinian Authority (PA) will under
 
 ---
 
+### Sri Lanka foreign exchange earnings $2.6bn in July, exceeds imports by $729mn
+
+*2025-08-31 08:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-earnings-2-6bn-in-july-exceeds-imports-by-729mn-238818/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current foreign exchange inflows, made up of exports of goods and services exports and remittances (labour exports) exceeded imports by 729 million dollars in July 2025, official data show, even as imported goods surged amid a spike in credit.
+
+Goods exports hit a record 1,302 million US dollars in July from 1,141 million dollars in June, ahead of a Trump tariff hit in August, and emittances grew to 690.5 million US dollars from 635 million dollars.
+
+Gross services income including tourism income of 318.5 million dollars, grew to 618 million dollars from 508 million in June.
+
+Higher inflows give more money for people to spend on goods, which includes imports and also services. Outward travel grew to 81 million dollars in July 2025 from 55 million dollars last year.
+
+In addition, Sri Lanka also has to service debt. The government paid 106.9 million dollars in interest on its debt. Dividends from foreign direct investment companies were 59.3 million dollars.
+
+...
+
+[Data](articles/03e46563.json)
+
+---
+
 ### Kerala cannabis valued over Rs. 27M seized with five suspects
 
 *2025-08-31 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112020/kerala-cannabis-valued-over-rs-27m-seized-with-five-suspects) · `en`
@@ -1305,6 +1361,30 @@ The gross street value of the stock of Kerala cannabis held in these operations 
 ...
 
 [Data](articles/4fd4d1b9.json)
+
+---
+
+### Sri Lanka construction expands in July 2025: PMI
+
+*2025-08-31 08:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-july-2025-pmi-238711/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector expanded in July 2025, registering a value of 60.0 on a Purchasing Managers Index compiled by the central bank.
+
+“Many firms reported a steady increase in the availability of construction projects, signalling the positive growth momentum in the industry,” the central bank said.
+
+A growth in road development and private sector projects in July contributed to the increase in the New Orders Index during the month.
+
+The Employment Index remained at a neutral level registering 50.0 in July, from 51.4 in June.
+
+The Quantity of Purchases Index expanded at a slower rate, registering 52.9 in July from 57.1 in June.
+
+The Suppliers’ Delivery Time remained extended during the month recording 51.4 in July.
+
+The outlook for construction activities is positive, with many firms anticipating an increased presence of government sector projects, the central bank said. (Colombo/Aug30/2025)
+
+◼️
+
+[Data](articles/a78bf92d.json)
 
 ---
 
@@ -1783,87 +1863,5 @@ The arrested suspects are expected to be escorted to the Criminal Investigation 
 ...
 
 [Data](articles/3d937870.json)
-
----
-
-### Ukrainian former parliamentary speaker shot dead in Lviv
-
-*2025-08-30 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112009/ukrainian-former-parliamentary-speaker-shot-dead-in-lviv) · `en`
-
-Ukrainian former parliamentary speaker Andriy Parubiy was shot dead in the western city of Lviv on Saturday and a search was under way for the killer.
-
-The Prosecutor General’s office said a gunman had fired several shots at Parubiy, killing him on the spot. The attacker fled and a manhunt was launched, it said.
-
-Parubiy, 54, was a member of parliament, had been parliamentary speaker from April 2016 to August 2019, and was one of the leaders of protests in 2013-14 calling for closer ties with the European Union.
-
-He was also secretary of Ukraine’s National Security and Defence Council from February to August 2014, a period when fighting began in eastern Ukraine and Russia annexed the Crimea peninsula.
-
-Officials gave no immediate indication whether the murder had any direct link to Russia’s war in Ukraine.
-
-...
-
-[Data](articles/25b6a8e1.json)
-
----
-
-### පද්මෙ සලින්ත සහ නිලංග CIDයට
-
-*2025-08-30 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213973) · `si`
-
-කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත සහ පානදුරේ නිලංග යන තිදෙනා ඉදිරි විමර්ශන සඳහා අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව වෙත රැගෙන ගොස් ඇත.
-
-එමෙන්ම දිවයිනට රැගෙන ආ සංවිධානාත්මක අපරාධකරුවන් වන බැකෝ සමන් සහ තැඹිලි ළහිරු යන දෙදෙනා වැඩිදුර විමර්ශන සඳහා බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසයට භාරදීමට නියමිත බව පොලිසිය සඳහා කළේය.
-
-කටුනායක ගුවන්තොටුපලේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ භාරයටගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05දෙනා මීට සුළු මොහොතකට පෙර කටුනායක බණ්ඩාරනායක ගුවන්තොටුපලින් පිටතට රැගෙන ගියේය.
-
-ඔවුන් කොළඹ පිහිටි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මූලස්ථානය වෙත රැගෙන යාමට නියමිතය.
-
-ඉන්දුනීසියාවේ ජකර්තා හිදී අත්අඩංගුවට ගත් අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස රැගත් ගුවන් යානය මීට සුළු මොහොතකට පෙර කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ළඟා වී තිබේ.
-
-පැය කිහිපයක ප්‍රමාදයකින් අනතුරුව අද (30) පස්වරු 3.30ට පමණ ජකර්තා අගනුවරින් පිටත් වූ ගුවන් යානය රාත්‍රී 7.20ට පමණ ගුවන් තොටුපොළ වෙත ළඟා වී ඇත.
-
-...
-
-[Data](articles/305dc442.json)
-
----
-
-### ඉන්දුනීසියානු රජයට එරෙහිව පැවති විරෝධතා තවත් දරුණු අතට
-
-*2025-08-30 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213972) · `si`
-
-ඉන්දුනීසියානු රජයට එරෙහිව පවතින විරෝධතාවන් මේ වන විට වඩාත් ප්‍රචණ්ඩය මුහුණුවරක් ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-ඉන්දුනීසියාව තුළ දේශපාලන සහ ආර්ථික ප්‍රතිසංස්කරණ සිදුකරන ලෙස එරට රජයට බල කරමින් ජකර්තා අගනුවරදී විරෝධතා මාලාවක් නිර්මාණය වූයේ පසුගිය බ්‍රහස්පතින්දා දිනය.
-
-එම විරෝධතාකරුවන් විසිරුවා හැරීමට කැරලි මර්දන පොලීසිය කටයුතු කරමින් සිටින අතරතුර පොලිස් වාහනයක ගැටී යතුරුපැදිකරුවෙක් මිය ගිය අතර එම සිදුවීමට විරෝධය පළ කරමින් ඊයේ (30) එරට බන්ඩුන්ග් නගරයේදී විරෝධතා පැවැති අතර එම විරෝධතා ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබුණි.
-
-එහිදී විරෝධතාකරුවන් ගොඩනැගිලි ගිනි තබමින් සහ දේපළවලට හානි කරමින් විරෝධය පළකර තිබේ.
-
-විදෙස් මාධ්‍ය මේ වන විට වාර්තා කර ඇත්තේ මේ වන විට පවතින අඛණ්ඩ විරෝධතා අතරතුර ඉන්දුනීසියානු විරෝධතාකරුවන් පළාත් තුනක ප්‍රාදේශීය පාර්ලිමේන්තු ගොඩනැගිලිද ගිනි තබා විනාශ කර ඇති බවය.
-
-ඒ අනුව බටහිර නුසා ටෙන්ගාරා හී පාර්ලිමේන්තු ගොඩනැගිලි, මධ්‍යම ජාවා හී පෙකලෝන්ගන් නගරය සහ බටහිර ජාවා හී සයිරබන් නගරයයේ පිහිටි ගොඩනැගිලි රැසක්ද විරෝධතාකරුවන් ගිනි තබා ඇති බවද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-...
-
-[Data](articles/67136388.json)
-
----
-
-### චීනයේ එස්.ඕ.සී දර්ශනය ගෝලීය දකුණට බලය ලබාදෙන්නේ කෙසේද?
-
-*2025-08-30 18:49:30* · [`adalk`](https://www.ada.lk/international/චීනයේ-එස්-ඕ-සී-දර්ශනය-ගෝලීය-දකුණට-බලය-ලබාදෙන්නේ-කෙසේද-/3-418164) · `si`
-
-ෂැංහයි සහයෝගිතා සංවිධානයේ (SCO) සමුළුව මේ වන විට තියාන්ජින් නගරයේ පැවැත්වීමට නියමිත අතර, එය ගෝලීය දකුණට නව අවස්ථා සහ බලය ලබාදෙන සම්මන්ත්‍රණයක් ලෙස සැලකේ.
-
-සමුළුවට පෙර, විශේෂඥයින් තියාන්ජින් වරාය වෙත රැස්වී සිටිති. මෙම වරාය, චීනය විසින් ගෝලීය දකුණ සඳහා නිදහස් වෙළඳාම සහ සම්බන්ධතාවයන් ගොඩනගන තැනක් ලෙස විවිධ දේශයන්ගේ අවධානය දිනාගෙන ඇත. විශේෂයෙන්ම, AI බලගැන්වූ ස්වයංක්‍රීය පද්ධති හරහා වරායේ කාර්ය සාධනය ගෝලීය වෙළඳාම ඉදිරියට ගෙන යාමට උපකාර වන බව පර්යේෂකයින් නිරීක්ෂණය කරති.
-
-චීනයේ SCO දර්ශනය අනුව, ආසියානු සහ මධ්‍ය ආසියානු රටවල් අතර ආර්ථික සහාය, තාක්ෂණික ගැටළු විසඳීම, සහ ආරක්ෂාව සම්බන්ධ අත්දැකීම් බෙදාගැනීම සිදුවනවා. මෙය ගෝලීය දකුණේ රටවල් සඳහා ආර්ථික වර්ධනයට සහ කලාපීය ස්ථායිතාවයට නව ගැටුම් විසඳුම් සොයාගැනීමට උපකාරී වේ.
-
-SCO සමුළුව, බටහිර ආරක්ෂාවාදී ප්‍රවණතාට ප්‍රතිචාර දැක්වීමේ අරමුණක්ද පවත්වයි. විවිධ සංස්කෘතික, භාෂා සහ ආර්ථික පසුබිම් වලින් පැමිණි රටවල් එක්සත් කිරීම තුළින්, සමානාත්මක සහයෝගිතාව හා සම්පත් බෙදාගැනීමේ නව අවස්ථා විවෘත කරයි.
-
-...
-
-[Data](articles/7b005fc2.json)
 
 ---

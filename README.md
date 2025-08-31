@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 07:17:25**
+As of **2025-08-31 08:03:58**
 
 ## Newspaper Stats
 
-*Scraped **73,252** Articles*
+*Scraped **73,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,052
 adaderanalk | 9,310
-tamilmirrorlk | 10,873
+tamilmirrorlk | 10,874
 virakesarilk | 12,008
-adaderanasinhalalk | 12,706
+adaderanasinhalalk | 12,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,252 articles have been extended.
+61,973 (84.6%) of 73,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### පද්මේ ඇතුළු පිරිස ඇල්ලූ ඉන්දුනීසියානු පොලිස් නිලධාරීන්ට ශ්‍රී ලංකා පොලීසියේ උපහාර
+
+*2025-08-31 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213980) · `si`
+
+කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස අත්අඩංගුවට ගැනීමේ මෙහෙයුමට සම්බන්ධ වූ ඉන්දුනීසියානු පොලිස් නිලධාරීන් හට සමරු ඵලකයන් පිරිනෑමීමක් සිදුකළ බව පොලීසිය පවසයි.
+
+එමෙන්ම එම මෙහෙයුමට සම්බන්ධ වූ ඉන්දුනීසියානු පොලිස් නිලධාරීන්ව හා මෙරට පොලිස් නිලධාරීන්ව මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍යවරයාගේ ඇගයීමටද ලක්විය.
+
+පසුගිය 27 වන දින ඉන්දුනීසියාවේදී අත්අඩංගුවට ගන්නා ලද මෙරට සංවිධානාත්මක අපරාධකරුවන් පස් දෙනෙකු ඊයේ 30 වන දින රාත්‍රියේ කටුනායක ගුවන්තොටුපොළෙන් දිවයිනට රැගෙන එන ලදි.
+
+එහිදී එම සැකකරුවන් අත්අඩංගුවට ගැනීමට සහ දිවයිනට රැගෙන ඒමට මූලිකත්වය ගත් ඉන්දුනීසියානු පොලිස් නිලධාරීන් හා ශ්‍රී ලංකා පොලිසියේ මෙම මෙහෙයුමට සම්බන්ධවූ නිලධාරීන්ද කටුනායක ගුවන්තොටුපොළේදී මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා සහ පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා විසින් පිළි ගත්තේය.
+
+◼️
+
+[Data](articles/aa69012c.json)
+
+---
+
+### டிரான்ஸ்பேரன்சி இன்டர்நெஷனல் தலைவர் - ஜனாதிபதி செயலாளர் சந்திப்பு
+
+*2025-08-31 07:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரான்ஸ்பேரன்சி-இன்டர்நெஷனல்-தலைவர்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-363767) · `ta`
+
+எமது நாட்டுக்கு விஜயம் மேற்கொண்டுள்ள டிரான்ஸ்பேரன்சி இன்டர்நெஷனல் தலைவர்  பிரான்சுவா வெலரியன் மற்றும் ஜனாதிபதியின் செயலாளர்  கலாநிதி நந்திக சனத் குமாநாயக்க ஆகியோருக்கு இடையிலான சந்திப்பு ஜனாதிபதி அலுவலகத்தில் நேற்று முன்தினம்  (29) பிற்பகல்  நடைபெற்றது.
+
+அரச  மற்றும் தனியார் துறைகளில் ஊழலை எதிர்த்துப் போராடுவதற்கான அரசாங்கத்தின் தொடர்ச்சியான முயற்சிகளை  பிரான்சுவா வெலரியனுக்கு விளக்கிய ஜனாதிபதியின் செயலாளர், ஊழல் எதிர்ப்பு இயந்திரத்தை வலுப்படுத்த அரசாங்கம் பல புதிய திட்டங்களைத் தொடங்கியுள்ளது என்றும்  அவை ஏற்கனவே குறிப்பிடத்தக்க முன்னேற்றத்தைக் காட்டியுள்ளன என்றும் குறிப்பிட்டார்.
+
+லஞ்சம் மற்றும் ஊழலை ஒழித்தல்,அரச  நிதியை திறம்பட பயன்படுத்துவதை உறுதி செய்தல் மற்றும் நாட்டில் சிறந்த கலாச்சாரத்தை உருவாக்குதல் ஆகிய பரந்த நோக்கங்களுடன் லஞ்சம் மற்றும் ஊழல் குறித்து பொதுமக்களுக்கு விழிப்புணர்வு ஏற்படுத்தும் திட்டங்களும் செயல்படுத்தப்பட்டுள்ளதாக ஜனாதிபதியின் செயலாளர் கூறினார்.
+
+...
+
+[Data](articles/7b56540d.json)
+
+---
 
 ### රුපියල් මිලියන 27ක කේරළ ගංජා තොගයක් නාවික හමුදා භාරයට
 
@@ -697,8 +731,6 @@ Save my name, email, and website in this browser for the next time I comment.
 *2025-08-30 15:33:00* · [`islandlk`](http://island.lk/kelum-lakmal-dissanayake-named-lankas-top-pet-groomer/) · `en`
 
 Kelum Lakmal Dissanayake, founder of Miracle Pet Care in Pannipitiya, was named the Most Outstanding Pet Groomer at the Global Business Excellence Awards 2025, held recently at BMICH, Colombo. With over a decade of experience and a UK CPD IAP certification, Dissanayake’s salon offers comprehensive grooming services including hair trimming, bathing, nail clipping, ear cleaning, and treatments for ticks, fleas, and skin conditions. Miracle Pet Care also provides boarding services and a pet shop in Kottawa. Plans are underway to launch a pet grooming training school and a spa-style treatment centre, enhancing care and education for pets and groomers alike.
-
-BOI seals landmark US$ 171 Mn. investment with CEAT OHT Lanka
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -1797,37 +1829,5 @@ Pixel Bloom was conceptualised and developed by Bling Productions and Eyeon Digi
 ...
 
 [Data](articles/fc9ce26a.json)
-
----
-
-### Lankan envoy meets Federation of the  Pakistan Chamber of Commerce and Industry
-
-*2025-08-30 00:35:54* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-meets-Federation-of-the-Pakistan-Chamber-of-Commerce-and-Industry/34-780982) · `en`
-
-High Commissioner–designate of Sri Lanka to Pakistan, Rear Admiral Fred Senevirathna, held a meeting with the FPCCI President on 13 August, at the President’s Office of the Federation Chamber of Commerce and Industry in Islamabad.
-
-FPCCI President Atif Ikram Sheikh, along with its members, extended a warm welcome to the High Commissioner-designate of Sri Lanka and congratulated him on his appointment. He noted that the visit symbolises the strong and longstanding friendship between Sri Lanka and Pakistan, rooted in mutual respect, regional cooperation, and historical goodwill.
-
-...
-
-[Data](articles/fb29702d.json)
-
----
-
-### 2025-08-29 (Friday)
-
-### Mullahs and Muslim politics
-
-*2025-08-29 23:43:52* · [`dailyftlk`](https://www.ft.lk/columns/Mullahs-and-Muslim-politics/4-780973) · `en`
-
-Muslim politicians and mullahs are walking on a tight rope by trying to bargain with these parties
-
-Whether as a pressure group or active participants the political role of these mullahs had been very negligible until the Sri Lanka Muslim Congress (SLMC) came into being in 1981. Muslim leaders of the pre-1980 era were wise enough not only to realise the irrelevance of a separate Muslim political party in this country but also were intelligent enough to reckon the critical role of Muslim voters in several electorates especially in the Sinhalese districts to decide the outcome of an election when political parties faced tight contests
-
-The name mullah is of Persian origin crept through the Arabic world maula and denotes to a theologian and interpreter of the sacred laws or sharia in Islam. The name is also popularly used in Afghanistan. It also found a place within the Jewish communities in those countries and in Bukhara in Uzbekistan where it referred to a community leader.
-
-...
-
-[Data](articles/012ee3ab.json)
 
 ---

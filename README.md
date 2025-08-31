@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 16:19:28**
+As of **2025-08-31 16:32:32**
 
 ## Newspaper Stats
 
-*Scraped **73,324** Articles*
+*Scraped **73,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 7,062
 adaderanalk | 9,331
 tamilmirrorlk | 10,892
 virakesarilk | 12,016
-adaderanasinhalalk | 12,720
+adaderanasinhalalk | 12,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,324 articles have been extended.
+61,973 (84.5%) of 73,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### වෙන්නප්පුවේ වෙඩි තැබීමට සැකකරුවෙකු අත්අඩංගුවට
+
+*2025-08-31 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213995) · `si`
+
+අද (31) පෙරවරුවේ වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+වෙඩි තැබීම සඳහා යොදාගත් රිවෝල්වර් වර්ගයේ ගිනි අවිය ද ඔහු සතුව තිබී සොයාගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය පැවසුවේය.
+
+◼️
+
+[Data](articles/0314f8f3.json)
+
+---
 
 ### அதிக நேரம் நிகழும் சந்திர கிரகணம் ; காணத்தவறாதீர்கள்
 
@@ -47,6 +61,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dc28e1bf.json)
+
+---
+
+### නිල්වලා ගඟේ ලවණ බාධක ගැටලුව විසඳීමට අවධානය
+
+*2025-08-31 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213994) · `si`
+
+මාතර නිල්වලා ගඟේ ලවණ බාධකය අවිධිමත්ව ඉදිකිරිම හමුවේ පැන නැගි ඇති ගැටලු විසඳීමට මෙරට තාක්ෂණික දැනුම ප්‍රමාණවත් නොවේ නම් විදේශිය රටක තාක්ෂණික දැනුම ලබා ගෙන ඒ සඳහා ස්ථීර විසඳුමක් ලබාදීමට කටයුතු කරන බව අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පවසයි.
+
+මාතර දිස්ත්‍රික්කයේ ප්‍රදේශ රැසක පානීය ජල ගැටලුවට විසඳුමක් ලබාදිමේ අරමුණින් නිල්වලා ගඟ හරහා ස්වයංක්‍රීය ලවණ බාධකයක් ඉදිකලද එය නිසි ප්‍රමිතියට සකස් නොකිරීමෙන් අදටත් එම වැසියන් ගැටලුවකට මුහුණ පා සිටියි.
+
+ඒ  නියං කාලගුණයත් සමඟ නිල්වලා ගඟට කරදිය මිශ්‍රවිමෙන් ජාතික ජලසම්පාදන මණ්ඩලය මගින් ලබා දෙන ජලය සීමා කිරීමට පියවර ගැනීමත් සමගයි.
+
+මෙම ගැටලුව පිළිබඳව මාතර දිස්ත්‍රික් සම්බන්ධිකරණ කමිටුවේ සභාපති අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතාගේ අවධානය යොමුව තිබුණි.
+
+ඉන් අනතුරුව නිල්වලා ගඟට කරදිය මිශ්‍රවිම වලක්වාලමින් නිල්වලා ගගේ ඉදිකළ ලවණ බාධකය අසලින් කපා ඇති අතුරු ඇල වැලි කොට්ට දමා වසා දැමිමට තීරණය කර තිබේ.
+
+...
+
+[Data](articles/c3e14435.json)
 
 ---
 
@@ -1801,39 +1835,5 @@ He stated that the pain of being left without answers about a loved one is a tra
 ◼️
 
 [Data](articles/a14528cf.json)
-
----
-
-### A Journey From War-Torn Sri Lanka To Berlin
-
-*2025-08-30 16:45:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-journey-from-war-torn-sri-lanka-to-berlin/) · `en`
-
-I was born in Pavatkulam Unit Two, a small Muslim village in Vavuniya, in the north of Sri Lanka. Life there was simple and rooted in the rhythms of land and water. Our homes stood between a great village tank and vast paddy fields that fed us. Most families were farmers, some fishermen, and together we formed a close-knit community of about 400 Muslim households. My father, the GS village headman, was a man of respect and responsibility. I was the sixth of his children. My earliest memories are of running through the fields barefoot, helping at harvest, praying at the mosque, and returning home to the smell of wood-fired meals. Childhood was untroubled—or so it seemed. None of us imagined how quickly innocence could shatter.
-
-...
-
-[Data](articles/cb40e6d1.json)
-
----
-
-### Protesters set fire to Indonesian parliament buildings in several provinces
-
-*2025-08-30 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112006/protesters-set-fire-to-indonesian-parliament-buildings-in-several-provinces) · `en`
-
-Indonesian protesters set ablaze regional parliament buildings in three provinces during continuing demonstrations on Saturday, a day after three people were killed in violence that has presented a major test for President Prabowo Subianto.
-
-Parliamentary buildings in West Nusa Tenggara, Pekalongan city in Central Java and Cirebon city in West Java were set on fire by protesters, local media reported.
-
-Detik.com said the protesters looted parliament’s office equipments in Cirebon while police shot tear gas to disperse them in Pekalongan and West Nusa Tenggara.
-
-Reuters could not confirm the media reports and authorities were not immediately available for comment.
-
-Protests began in Indonesia’s capital Jakarta earlier this week over lawmakers’ pay, escalating on Friday after a police vehicle hit and killed the driver of a ride-hailing motorbike.
-
-National police chief Listyo Sigit Prabowo said on Saturday the president ordered authorities to take firm action against protesters who violated laws.
-
-...
-
-[Data](articles/f416c1b8.json)
 
 ---

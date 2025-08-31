@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 08:41:26**
+As of **2025-08-31 09:07:31**
 
 ## Newspaper Stats
 
-*Scraped **73,257** Articles*
+*Scraped **73,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ economynextcom | 4,465
 islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
-adalk | 7,052
-adaderanalk | 9,310
+adalk | 7,054
+adaderanalk | 9,316
 tamilmirrorlk | 10,876
 virakesarilk | 12,008
-adaderanasinhalalk | 12,708
+adaderanasinhalalk | 12,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.6%) of 73,257 articles have been extended.
+61,973 (84.6%) of 73,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### මෝටර් ට්‍රොලියක් පීලි පනියි
+
+*2025-08-31 08:53:48* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-ට්‍රොලියක්-පීලි-පනියි/11-418169) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ හපුතලේ ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර  දුම්රිය මාර්ගයයේ දී  ඊයේ (30දා) රාත්‍රි මෝටර් ට්‍රොලියක් පිලීපැනීමට ලක්වීමෙන් බදුල්ල කොළඹ කොටුව දුම්රිය ධාවනය ට බාධා සිදුව ඇතයි දුම්රිය පාලන මැදිරිය පවසයි.
+
+දෙමෝදර සිට නානුඔය බලා ධාවනය වෙමින් තිබූ දුම්රිය දෙපාර්තමේන්තුවේ නිළධාරින් පිරිසක් ගමන් ගත් මෝටර් ට්‍රොලියක් මෙලෙස පිලීපැනීමට ලක්ව ඇත.
+
+මේනිසාවෙන් කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1007 දරන විශේෂ සීඝ්‍රගාමී දුම්රිය ඔහිය දුම්රිය ස්ථානයේත්, බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක 1046 රාත්‍රි තැපැල් දුම්රිය හපුතලේ දුම්රිය ස්ථානයේත් දැනට නවතා තිබූ බව දුම්රිය පාලන මැදිරිය සදහන් කලේය .
+
+පිලීපැනීමට ලක්ව ඇති මෝටර් ට්‍රොලිය පිළීගත කිරිම සදහා බදුල්ල දුම්රිය ස්ථානයේ සිට දුම්රිය සේවකයන් රැගත් දුම්රිය ආපදා රථයක් පිටත් වී ගොස් ඇති බවත් දුම්රිය දෙපාර්තමේන්තුවේ ප්‍රකාශකයකු පැවසීය .
+
+◼️
+
+[Data](articles/d8e44e1f.json)
+
+---
+
+### ශ්‍රී ලංකා - සිම්බාබ්වේ අවසන් එක්දින තරගය අද
+
+*2025-08-31 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213982) · `si`
+
+සංචාරක ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර දෙවන සහ අවසන් එක්දින ක්‍රිකට් තරගය අද (31) පැවැත්වේ.
+
+හරාරේ ක්‍රීඩාංගණයේ පැවැත්වෙන මෙම තරගය මෙරට වේලාවෙන් ප.ව. 1ට ආරම්භවීමට නියමිතය.
+
+ශ්‍රී ලංකා - සිම්බාබ්වේ තරග 2කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය ලකුණු 7කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+ඒ අනුව මේ වනවිට 1ට බින්දුවක් ලෙස ශ්‍රී ලංකා කණ්ඩායම මෙම තරගාවලියේ පෙරමුණ ගෙන සිටී.
+
+ශ්‍රී ලංකා කණ්ඩාය අද තරගයට පිවිසින්නේ දෙවැනි තරගයත් ජයගෙන එක්දින තරගාවලිය තරග 2ට 0ක් ලෙස ජය ගැනීමේ අරමුණ ඇතිවය.
+
+කෙසේ වෙතත් පළමු එක්දින තරගයේදී ආබාධයකට ලක් වු නිෂාන් මදුෂ්ක වෙනුවට නුවනිඳු ප්‍රනාන්දු අද තරගය සඳහා එක්වීමට වැඩි ඉඩකඩක් ඇති බව ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ පිතිකරණ පුහුණුකරු තිළිණ කණ්ඩම්බි අද දෙරණ සමගින් පවසා සිටියේය.
+
+දෙරට අතර විස්සයි20 තරගාවලිය සැප්තැම්බර් 3, 6 හා 7 දිනවල පැවැත්වෙන අතර, එම තරගද හරාරේ ක්‍රීඩාංගණයේදීම පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/202e8e8c.json)
+
+---
 
 ### යුක්‍රේන හිටපු කතානායක වෙඩි තබා ඝාතනය කරයි
 
@@ -69,6 +111,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ded4159f.json)
+
+---
+
+### Indonesian police officers involved in operation to apprehend ‘Kehelbaddara Padme’ and his group felicitated
+
+*2025-08-31 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112018/indonesian-police-officers-involved-in-operation-to-apprehend-kehelbaddara-padme-and-his-group-felicitated-) · `en`
+
+Commemorative plaques have been presented to the Indonesian police officers involved in the operation to apprehend Kehelbaddara Padme and his group.
+
+Additionally, both the Indonesian police officers and the Sri Lankan police officers who participated in the operation were commended by the Minister of Public Security and Parliamentary Affairs, Ananda Wijepala.
+
+On August 27, five organized criminals from Sri Lanka were arrested in Indonesia, and they were brought back to the island last night (30) via the Katunayake International Airport.
+
+At the airport, the Indonesian officers who led the arrest and repatriation of the suspects, along with the Sri Lankan officers involved in the mission, were received and acknowledged by Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, and the Inspector General of Police, Attorney Priyantha Weerasooriya.
+
+◼️
+
+[Data](articles/6e0a588e.json)
 
 ---
 
@@ -122,6 +182,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 28 acres of Kandy Hospital occupied by unauthorised settlers: Director
+
+*2025-08-31 07:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112017/28-acres-of-kandy-hospital-occupied-by-unauthorised-settlers-director) · `en`
+
+Dr. Iresha Fernando, the Director of the Kandy National Hospital states that out of the 58 acres of land belonging to the hospital, 28 acres have been occupied by unauthorised settlers.
+
+Dr. Iresha Fernando mentioned that buildings continue to be constructed on this land, and as a result, the hospital is facing severe difficulties in carrying out its operations.
+
+The Kandy National Hospital, which is the second-largest national hospital in Sri Lanka, also functions as a teaching hospital.
+
+It has 80 wards, 11 intensive care units, and several other treatment units.
+
+Although the hospital could be further developed to serve the large number of patients who arrive daily from all parts of the island, this progress has been hindered.
+
+The main reason is the unauthorized occupation of the hospital’s land by individuals, according to Director Dr. Iresha Fernando.
+
+Houses, shops, and other buildings have been constructed on this land, and further construction continues to take place.
+
+...
+
+[Data](articles/e8f841ab.json)
+
+---
+
 ### රුපියල් මිලියන 27ක කේරළ ගංජා තොගයක් නාවික හමුදා භාරයට
 
 *2025-08-31 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213979) · `si`
@@ -139,6 +223,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/58e09148.json)
+
+---
+
+### Modi reaffirms India’s support for Ukraine peace settlement during call with Zelenskyy
+
+*2025-08-31 06:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112016/modi-reaffirms-indias-support-for-ukraine-peace-settlement-during-call-with-zelenskyy) · `en`
+
+Indian Prime Minister Narendra Modi reaffirmed his support on Saturday (Aug 30) for a peaceful settlement in Ukraine during a telephone conversation with Ukrainian President Volodymyr Zelenskyy, Modi’s office said.
+
+Zelenskyy, speaking in his nightly video address, said Modi supported Ukraine’s call for a ceasefire in the war with Russia and hoped that notion would be heard at the forthcoming Shanghai Cooperation Organisation summit in China.
+
+◼️
+
+[Data](articles/d7235449.json)
 
 ---
 
@@ -161,6 +259,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f63b9da8.json)
+
+---
+
+### Thousands protest Israeli siege of Gaza near Venice Film Festival
+
+*2025-08-31 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112015/thousands-protest-israeli-siege-of-gaza-near-venice-film-festival) · `en`
+
+Thousands of people protested Saturday against Israel’s siege of Gaza on the sidelines of the Venice Film Festival, seeking to move the spotlight from movie drama to real-world trauma.
+
+Organised by left-wing political groups in northeast Italy, the demonstration began in the early evening a few kilometres from the festival where top Hollywood talent from George Clooney and Julia Roberts to Emma Stone have walked the red carpet in recent days.
+
+The protesters, whose numbers AFP reporters estimated to be about three to four thousand, marched slowly to the entrance of the festival in the beachfront Lido district, waving Palestinian flags, as the Hollywood blockbuster “Frankenstein” was due to have its world premiere nearby.
+
+Protesters said the film industry should use its public platform at Venice -- the world’s oldest film festival whose movies often go on to Oscar glory -- to focus attention on Gaza.
+
+...
+
+[Data](articles/e8dc93c6.json)
+
+---
+
+### Showers and strong winds expected in parts of the country today
+
+*2025-08-31 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112014/showers-and-strong-winds-expected-in-parts-of-the-country-today-) · `en`
+
+Several spells of showers will occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+A few showers may occur in North-western province and in Jaffna district.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa
+
+Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills
+
+and in North-central and North-western provinces and in Trincomalee and Hambantota districts. The
+
+general public is kindly requested to take adequate precautions to minimize damages caused by
+
+◼️
+
+[Data](articles/8fd21506.json)
+
+---
+
+### ‘Time to put a complete end to underworld crimes’ -  Public Security Minister
+
+*2025-08-31 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112013/time-to-put-a-complete-end-to-underworld-crimes-public-security-minister) · `en`
+
+A comprehensive investigation is being carried out into ‘Kehelbaddara Padme’ and his associates, Minister of Public Security and Parliamentary Affairs Ananda Wijepala has stated.
+
+Minister Ananda Wijepala further noted that organized criminal groups in the country had been allowed to grow over a long period with the blessing and support of certain politicians.
+
+He made these remarks while addressing media at the Bandaranaike International Airport (BIA).
+
+The Minister stressed that it is now time to put a complete end to underworld crimes and that no further opportunity will be given for such groups to continue oppressing the public.
+
+◼️
+
+[Data](articles/56692bd1.json)
 
 ---
 
@@ -195,6 +351,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/fe1a57f9.json)
+
+---
+
+### මඩවල නගරයේ වෙළඳසැල් දෙකකට ගින්නෙන් හානි
+
+*2025-08-30 22:46:02* · [`adalk`](https://www.ada.lk/breaking_news/මඩවල-නගරයේ-වෙළඳසැල්-දෙකකට-ගින්නෙන්-හානි/11-418167) · `si`
+
+වත්තේගම පොලිස් බල ප්‍රදේශයට අයත් මඩවල නගරයේ හට ගත් හදිසි ගින්නක් හේතුවෙන් පාවහන් අලෙවි සැලකට බරපතල හානි සිදු ව ඇති අතර තවත් ඇඳුම් මැසීමේ වෙළඳ සැලකට හානි සිදුව තිබේ. මෙම ගින්න නිසා එම පේලියේ තවත් වෙළඳ  සැල් කිහිපයක තිබූ භාණ්ඩ ඉවත් කර ගැනීමට ප්‍ර දේශවාසින් සමත් වීම නිසා එම වෙළඳ සැල් ආරක්ෂා කර ගැනීමට හැකිව තිබේ.
+
+මෙම ගින්න පෙරේදා 30 උදේ වරුවේ ඇති ව ඇති  අතර ගින්නට හේතුව  අනාවරණය වී නොතිබිණ.
+
+මහනුවර මහ නගර සභාවේ ගිනි නිවීමේ රථ හතරක් පැමිණ ගින්න නිවා දැමිවට පියවර ගත් අතර වත්තේගම පොලීසිය සහ ප්‍රදේශවාසින්ගේද සහාය මේ සඳහා ලැබිණ.
+
+මෙම ගින්න හේතුවෙන් වෙළඳ සැල්වල තිබූ භාණ්ඩ උපකරණ මෙන්ම ගොඩනැගිලිද පිළිස්සී දැඩි හානි සිදුව තිබිණ. මෙම ගින්න හේතුවෙන් රුපියල් කෝටි ගණනක අලාභයක් සිදුව ඇති බව එහි හිමිකරුවන් කියති. වත්තේගම පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩි දුර විමර්ශණ සිදු කරයි.
+
+◼️
+
+[Data](articles/f1fd041c.json)
 
 ---
 
@@ -788,6 +962,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 Kelum Lakmal Dissanayake, founder of Miracle Pet Care in Pannipitiya, was named the Most Outstanding Pet Groomer at the Global Business Excellence Awards 2025, held recently at BMICH, Colombo. With over a decade of experience and a UK CPD IAP certification, Dissanayake’s salon offers comprehensive grooming services including hair trimming, bathing, nail clipping, ear cleaning, and treatments for ticks, fleas, and skin conditions. Miracle Pet Care also provides boarding services and a pet shop in Kottawa. Plans are underway to launch a pet grooming training school and a spa-style treatment centre, enhancing care and education for pets and groomers alike.
 
+BOI seals landmark US$ 171 Mn. investment with CEAT OHT Lanka
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
 Save my name, email, and website in this browser for the next time I comment.
@@ -821,8 +997,6 @@ Save my name, email, and website in this browser for the next time I comment.
 *2025-08-30 15:32:00* · [`islandlk`](http://island.lk/eton-college-opens-new-campus-with-modern-facilities/) · `en`
 
 Eton College marked a major milestone on July 30 with the move to a new building featuring modern classrooms, a science laboratory, IT center, library, and fully equipped preschool. Established on January 7, 2024, in a rented Maradana facility with 40 students, the college has grown to over 200 students and a staff of more than 20 under Principal and CEO Akram Mohamed Thowfeek. The school emphasizes quality English-medium education, sports, arts, and trilingual fluency through its English, Sinhala, and Tamil societies. Eton Campus in Kollupitiya complements the college, offering TVEC-approved diplomas, degrees, and UK-accredited programs in business, IT, and education.
-
-OPA hosts 38th Annual Conference and 4th National Apex Award
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -1673,165 +1847,5 @@ Trump had justified the tariffs under the International Emergency Economic Power
 ◼️
 
 [Data](articles/73272ec0.json)
-
----
-
-### செம்மணி மனித புதைகுழி : ஒன்றுடன் ஒன்று கட்டியணைத்தவாறு இரு எலும்பு கூட்டு தொகுதிகள் அடையாளம்
-
-*2025-08-30 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/223745) · `ta`
-
-ஒரு பெரிய எலும்பு கூட்டின் நெஞ்சு பகுதியுடன், அணைக்கப்பட்டவாறு , ஒப்பீட்டளவில் சிறிய எலும்பு கூடு ஒன்று அடையாளம் காணப்பட்டுள்ளது. அதனை சுற்றப்படுத்தும் பணிகள் முன்னெடுக்கப்பட்டு வருகிறது. அதனை முற்றாக அகழ்ந்து எடுத்த பின்னர் , சட்ட வைத்திய அதிகாரியின் அறிக்கையின் பிரகாரமே குறித்த எலும்பு கூடுகள் தொடர்பில் உறுதியாக கூற முடியும் என தெரிவிக்கப்பட்டுள்ளது.
-
-அதேவேளை , இரண்டாம் கட்டத்தின் மூன்றாம் பகுதி அகழ்வு பணிகள் கடந்த திங்கட்கிழமை முதல் முன்னெடுக்கப்பட்டு வரும் நிலையில் சிறியவர்கள் மற்றும் சிசுக்களின் எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டு வருகிறது.
-
-அத்துடன் ஒன்றுடன் ஒன்று அருகருகே புதைக்கப்பட்ட வரும் , கால்கள் மடிந்த நிலையிலும் எலும்பு கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ள நிலையில் , அவை அசாதாரணமாகவே புதைக்கப்பட்டுள்ளன என்பது கண்களுக்கு புலனாகின்ற போதிலும் , மீட்கப்படும் எலும்பு கூட்டு தொகுதிகளை சட்ட வைத்திய அதிகாரி ஆய்வுகளுக்கு உட்படுத்தி , சட்ட வைத்திய அதிகாரியின் அறிக்கையின் பிரகாரமே மேலதிக தகவல்களை கூற முடியும் என தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/559fdb58.json)
-
----
-
-### தம்பிலுவில் மயானத்தை அண்டிய பகுதிகளில் மீண்டும் 2 ஆம் கட்ட இரண்டாம் நாள்  அகழ்வு பணிகள் முன்னெடுப்பு : இனிய பாரதியின் மற்றுமொரு சகா தகவல்
-
-*2025-08-30 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223744) · `ta`
-
-கருணா -பிள்ளையான் குழு முக்கியஸ்தர் இனிய பாரதியின் மற்றுமொரு சகாவின் வாக்குமூலத்தின் அடிப்படையில் வெள்ளிக்கிழமை (29) மதியம் முதல்  அம்பாறை மாவட்டம் திருக்கோவில் பொலிஸ் பிரிவுக்குட்பட்ட தம்பிலுவில் மயானத்தை  அண்டிய பகுதிகளில் மீண்டும் 2 ஆம் கட்ட  அகழ்வு பணிகள் இரண்டாம் நாளில் முன்னெடுக்கப்பட்டுள்ளன.
-
-அக்கரைப்பற்று   நீதிவான் நீதிமன்ற மேலதிக நீதிவான்  திருமதி  தெசீபா ரஜீவன் முன்னிலையில் 3 ஜேசிபி இயந்திரம் மூலம் பல்வேறு அடையாளம் காணப்பட்ட   இடங்கள் தோண்டப்பட்டு நிறைவடைந்தன.
-
-கடந்த 2005 ஆம் ஆண்டு காலப்பகுதியில் இருந்து கருணா- பிள்ளையான் அணியின் முக்கியஸ்தரான இனிய பாரதியின் முக்கிய சகாவாக செயற்பட்ட அம்பாறை மாவட்டம் காரைதீவு பகுதியை சேர்ந்த  சந்தேக நபர் குறித்த பகுதிக்கு  கைவிலங்கிடப்பட்டு அழைத்து வரப்பட்டிருந்தார்.
-
-அவர் கடந்த காலங்களில் திருக்கோவில் பகுதியில் தனியார் தொலைத்தாடர்பு சிம்  விற்பனை முகவராக செயற்பட்ட அருளானந்தன் சீலன் என்பவரை கடத்தி படுகொலை செய்து  குறித்த இடத்தில்  புதைத்திருப்பதாக அரச சாட்சியாக மாறி குற்றப்பலனாய்வு பிரிவினரின் கவனத்திற்கு கொண்டு வந்திருந்தார்.
-
-...
-
-[Data](articles/e368956c.json)
-
----
-
-### கேப்பாப்புலவு மக்களின்காணியை கோரிய விமானப்படை; கடுமையான எதிரப்புவெளியிட்ட ரவிகரன் எம்.பி
-
-*2025-08-30 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223743) · `ta`
-
-முல்லைத்தீவு - கேப்பாப்பிலவில் அமைந்துள்ள 0.5ஹெக்டயர் மக்களின் விவசாயக்காணிகளை தமது தேவைக்கென கேப்பாப்புலவு விமானப்படையினர் முல்லைத்தீவு மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுவின் அனுமதியைக் கோரியிருந்தனர்.
-
-இந்நிலையில் கேப்பாப்பிலவில் ஏற்கனவே படையினரால் மக்களின் காணிகள் பல அபகரிக்கப்பட்டுள்ளமையினைச் சுட்டிக்காட்டிய வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன், விமானப்படையினரின் இக்கோரிக்கைக்கு தமது கடுமையான எதிர்ப்பினையும் வெளியிட்டிருந்தார்.
-
-அந்தவகையில் நாடாளுமன்ற உறுப்பினர் ரவிகரன் அவர்களது கடுமையான எதிர்ப்பினையடுத்து விமானப்படையினருக்கு காணி வழங்கப்படுவதில்லை என வெள்ளிக்கிழமை (29) இடம்பெற்ற மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக்குழுக்கூட்டத்தில் முடிவெடுக்கப்பட்டது.
-
-படையினரால் ஏற்கனவே ஆக்கிரமித்திருந்த குறித்த காணி விடுவிப்புச்செய்யப்பட்டநிலையில், அக்காணியில் மக்கள் விவசாயநடவடிக்கையில் ஈடுபட்டுவருகின்றனர். அந்தக்காணியினை விமானப்படை தமக்குத்தருமாறு மீண்டும் கோருவது பொருத்தமற்ற செயற்பாடாகும்.
-
-...
-
-[Data](articles/1cdb5a1f.json)
-
----
-
-### Stability restored, but where is growth?
-
-*2025-08-30 01:33:22* · [`dailyftlk`](https://www.ft.lk/news/Stability-restored-but-where-is-growth/56-780996) · `en`
-
-NEXUS Public Policy Dialogue probes Sri Lanka’s next economic steps
-
-The fourth Public Policy Dialogue Forum organised by the NEXUS Research Group brought a full house to the Governor’s Hall of the 80 Club on Thursday, centring debate on a blunt question: After two years of macro-stabilisation, where is Sri Lanka’s economic growth?
-
-Opening the forum, NEXUS Chairman Prof. Charitha Herath acknowledged gains achieved with IMF support: debt restructuring traction, easing inflation, and steadier currency management. “Stability is only the first step,” he cautioned, posing three questions to frame the evening: What is holding back growth? Are we focusing on the right priorities? How do we create jobs, support enterprise, and ensure shared prosperity?
-
-...
-
-[Data](articles/2424fa53.json)
-
----
-
-### Seat belts mandatory for expressway bus passengers
-
-*2025-08-30 01:32:11* · [`dailyftlk`](https://www.ft.lk/news/Seat-belts-mandatory-for-expressway-bus-passengers/56-780995) · `en`
-
-Transport Minister Bimal Rathnayake yesterday said that a gazette notification making it mandatory for passengers traveling in passenger buses on expressways to wear seat belts is scheduled to be issued on 31 August.
-
-The initiative is a component of the Clean Sri Lanka program.
-
-A grace period of approximately three months will be given for the installation of seat belts in school transport buses, office transport services, leisure tour buses, and other passenger buses operating on expressways. The Government also plans to implement this regulation for long-distance buses.
-
-The Minister further pointed out that the price of seat belts, which was around Rs. 2,000 previously, has now risen to between Rs. 5,000 and Rs. 7,000. He stressed that this price increase should be monitored by the Consumer Affairs Authority.
-
-...
-
-[Data](articles/f854c252.json)
-
----
-
-### Rajitha remanded till 9 September over Kirinda Harbour case
-
-*2025-08-30 01:31:29* · [`dailyftlk`](https://www.ft.lk/news/Rajitha-remanded-till-9-September-over-Kirinda-Harbour-case/56-780994) · `en`
-
-Former Fisheries Minister Rajitha Senaratne was taken to prison after being remanded yesterday
-
-Former Fisheries Minister Rajitha Senaratne was yesterday ordered to be remanded till 9 September by Colombo Chief Magistrate Asanga S. Bodaragama in connection with a corruption case linked to the Kirinda Fisheries Harbour project.
-
-Senaratne, who was brought to Court under prison custody, had earlier been produced before the Colombo High Court in relation to a separate case.
-
-The High Court Judge subsequently directed that he be placed in remand custody and produced before the Magistrate’s Court.
-
-The remand order stems from allegations that Senaratne, during his tenure as Fisheries Minister, caused a financial loss exceeding Rs. 20 million to the Government by awarding a sand mining project at the Kirinda Fisheries Harbour to a Korean company.
-
-A warrant for his arrest had previously been issued by the Magistrate’s Court.
-
-...
-
-[Data](articles/522c0996.json)
-
----
-
-### Former MP Rathana Thera remanded till 12 September over alleged 2020 abduction case
-
-*2025-08-30 01:30:55* · [`dailyftlk`](https://www.ft.lk/news/Former-MP-Rathana-Thera-remanded-till-12-September-over-alleged-2020-abduction-case/56-780993) · `en`
-
-Former Member of Parliament Ven. Athuraliye Rathana Thera was yesterday ordered to be remanded until 12 September by the Nugegoda Magistrate’s Court in connection with an alleged abduction case dating back to 2020.
-
-Police have been investigating Rathana Thera’s alleged involvement in the abduction of Our Power of People Party (OPPP) General Secretary Ven. Wedinigama Wimalatissa Thera. According to the complaint, Rathana Thera is accused of forcing Wimalatissa Thera to sign documents that allowed him to secure a National List seat in Parliament.
-
-Law enforcement authorities reported that Rathana Thera had been evading arrest for several weeks. Officers of the Colombo Crimes Division (CCD) had carried out extensive searches at his Rajagiriya temple, other temples, meditation centres, and several housing complexes, but were unable to locate him.
-
-...
-
-[Data](articles/75b2439b.json)
-
----
-
-### பெக்கோ சமனின் மனைவியிடம் சிஐடி விசாரணை
-
-*2025-08-30 00:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223742) · `ta`
-
-இந்தோனேசியாவின் ஜகார்த்தாவில் கைது செய்யப்பட்ட ஒரு ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலின் உறுப்பினர்களில் ஒருவரான பக்கோ சமனின் மனைவி மற்றும் மகள், வெள்ளிக்கிழமை (29) மாலை கட்டுநாயக்க விமான நிலையத்திற்கு வந்தபோது குற்றப் புலனாய்வுத் துறை அதிகாரிகள் குழுவால் கைது செய்யப்பட்டனர்.
-
-30 வயதான சஜிகா லக்ஷனி பத்தினி மற்றும் அவரது 03 வயது மகள் கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்டனர்.
-
-அவர்கள் வெள்ளிக்கிழமை (29) மாலை 05.50 மணிக்கு இலங்கை ஏர்லைன்ஸ் விமானம் UL-365 மூலம் இந்தோனேசியாவின் ஜகார்த்தாவிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்திருந்தனர்.
-
-கெஹல்பத்தர பத்மே மற்றும் அவரது குற்றக் கும்பல் உறுப்பினர்கள் ஜகார்த்தாவில் கைது செய்யப்பட்ட நிலையில், இந்தப் பெண்ணும் குழந்தையும் அங்கு தடுத்து வைக்கப்பட்டிருந்தனர்.
-
-இருப்பினும், பெண் மீது கடுமையான குற்றவியல் குற்றச்சாட்டுகள் எதுவும் பதிவு செய்யப்படாததால், இந்தோனேசிய அதிகாரிகள் அவரை இலங்கைக்கு நாடு கடத்தியதாகக் கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/fbb440bb.json)
-
----
-
-### Sri Lanka Vanithabhimana 2025 Grand Finale
-
-*2025-08-30 00:39:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Vanithabhimana-2025-Grand-Finale/34-780986) · `en`
-
-NDB Bank, in partnership with NewsFirst, celebrated the Grand Finale of the Sri Lanka Vanithabhimana Awards on 20 August, honouring extraordinary women across the island and marking a milestone season that advanced beyond recognition to long-term empowerment through the program’s five-year sustainability model.
-
-This year built on the initiative’s expanded structure, including the introduction of the Digital Entrepreneur and Foreign Employment categories, while continuing to champion financial literacy, enterprise growth and market access for women nationwide.
-
-At the heart of the evening was the coveted Most Popular Woman title, decided by public SMS voting from a shortlist of five national personalities which included Anudi Gunasekara, Tharindi Fernando, Kanchana Anuradhi, Lochana Jayakodi and Shanudrie Priyasad. The title was awarded to Anudi Gunasekara.
-
-...
-
-[Data](articles/04ba1a21.json)
 
 ---

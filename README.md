@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 12:23:30**
+As of **2025-08-31 12:33:51**
 
 ## Newspaper Stats
 
@@ -696,11 +696,11 @@ Commemorative plaques have been presented to the Indonesian police officers invo
 
 Additionally, both the Indonesian police officers and the Sri Lankan police officers who participated in the operation were commended by the Minister of Public Security and Parliamentary Affairs, Ananda Wijepala.
 
-On August 27, five organized criminals from Sri Lanka were arrested in Indonesia, and they were brought back to the island last night (30) via the Katunayake International Airport.
+On August 27, five organized criminals from Sri Lanka were arrested in Indonesia, and they were brought back to the island last night (30) via the Bandaranaike International Airport (BIA).
 
 At the airport, the Indonesian officers who led the arrest and repatriation of the suspects, along with the Sri Lankan officers involved in the mission, were received and acknowledged by Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, and the Inspector General of Police, Attorney Priyantha Weerasooriya.
 
-◼️
+...
 
 [Data](articles/6e0a588e.json)
 
@@ -884,6 +884,8 @@ The general public has been requested to take adequate precautions to minimize d
 
 *2025-08-31 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112013/time-to-put-a-complete-end-to-underworld-crimes-public-security-minister) · `en`
 
+“Time to put a complete end to underworld crimes” -  Public Security Minister
+
 A comprehensive investigation is being carried out into ‘Kehelbaddara Padme’ and his associates, Minister of Public Security and Parliamentary Affairs Ananda Wijepala has stated.
 
 Minister Ananda Wijepala further noted that organized criminal groups in the country had been allowed to grow over a long period with the blessing and support of certain politicians.
@@ -892,7 +894,9 @@ He made these remarks while addressing media at the Bandaranaike International A
 
 The Minister stressed that it is now time to put a complete end to underworld crimes and that no further opportunity will be given for such groups to continue oppressing the public.
 
-◼️
+“Today, five members of a leading criminal gang, including Commander Salintha — a close associate of Kehelbaddara Padme — were brought back to Sri Lanka from Indonesia. All five are now in the custody of the Criminal Investigation Department (CID).
+
+...
 
 [Data](articles/56692bd1.json)
 

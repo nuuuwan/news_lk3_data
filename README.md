@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 16:32:32**
+As of **2025-08-31 16:48:43**
 
 ## Newspaper Stats
 
-*Scraped **73,326** Articles*
+*Scraped **73,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,062
-adaderanalk | 9,331
+adaderanalk | 9,332
 tamilmirrorlk | 10,892
 virakesarilk | 12,016
 adaderanasinhalalk | 12,722
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,326 articles have been extended.
+61,973 (84.5%) of 73,327 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -39,6 +39,18 @@ Extensions include translations and NER (Named Entity Recognition).
 අද (31) පෙරවරුවේ වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
 
 වෙඩි තැබීම සඳහා යොදාගත් රිවෝල්වර් වර්ගයේ ගිනි අවිය ද ඔහු සතුව තිබී සොයාගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය පැවසුවේය.
+
+වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී අද (31) පෙරවරු 10.30ට පමණ වෙඩි තැබීමක් සිදුවිය.
+
+මොටර් රථයකින් පැමිණි පිරිසක් විසින් යතුරුපැදියේ ගමන් ගත් පුද්ගලයෙකු අනතුරකට ලක් කර පසුව යතුරුපැදියේ පැමිණි දෙදෙනාට තියුණු ආයුධයකින් පහරදී වෙඩි තබා ඇත.
+
+සිද්ධියෙන් යතුරුපැදියේ පැමිණි එක් අයෙකු තුවාල ලබා පළාගොස් ඇති අතර අනෙක් පුද්ගලයා වෙඩි වැදීමෙන් ජීවිතක්ෂයට පත්ව තිබේ.
+
+යතුරුපදියෙන් පැමිණි දෙදෙනාගෙන් මිය ගිය තැනැත්තා මහාධිකරණයේ පවතින නඩුවකට අදාළව වෙන්නප්පුව පොලීසියේ අත්සන් කිරීමට පැමිණ ආපසු යමින් සිටි අවස්ථාවේදී මෙම වෙඩි තැබීම සිදුව ඇත.
+
+රිවොල්වර වර්ගයේ ගිනි අවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවද පොලීසිය පවසයි.
+
+2025 සැප්තැම්බර් මස 09 වැනි දින මිය ගිය පුද්ගලයාගේ නඩුව සම්බන්ධව අධිකරණ තීන්දුව ලැබීමට නියමිතව තිබූ බවද පොලීසිය වැඩිදුරටත් පැවසීය.
 
 ◼️
 
@@ -61,6 +73,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dc28e1bf.json)
+
+---
+
+### Israel to halt airdrops ahead of Gaza City offensive as hostage families lash out at Netanyahu
+
+*2025-08-31 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112033/israel-to-halt-airdrops-ahead-of-gaza-city-offensive-as-hostage-families-lash-out-at-netanyahu) · `en`
+
+Israel is set to halt airdrops over Gaza City and reduce the entry of relief trucks ahead of a major offensive, a source told CNN, as the Red Cross warned that Israeli plans for mass evacuation were “impossible.”
+
+The Israeli military is preparing to fully capture Gaza’s biggest city after nearly two years of war, despite growing opposition at home and warnings that the campaign will have disastrous and unbearable consequences for Palestinians in the besieged region.
+
+In Tel Aviv, crowds of protesters demanded that the government pursue a ceasefire rather than escalate its offensive. Families of hostages being held in Gaza blasted the Israeli government for its failure to consider the latest ceasefire proposal, which Hamas accepted nearly two weeks ago.
+
+...
+
+[Data](articles/38e7b972.json)
 
 ---
 
@@ -1815,25 +1843,5 @@ He stated that the pain of being left without answers about a loved one is a tra
 ◼️
 
 [Data](articles/24eeb0bb.json)
-
----
-
-### පොතුවිල් හිදි බස් රථයක් පෙරළී අයෙකු මරුට - 57ක් රෝහලට
-
-*2025-08-30 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213968) · `si`
-
-අනතුරින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇතැයිද තවත් පුද්ගලයින් 57 දෙනෙකු තුවාල ලබා ඇතැයි ද වාර්තා වේ.
-
-එලෙස මියගොස් ඇත්තේ, 74 හැවිරිදි වැලිමඩ ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයෙකි.
-
-තුවාලකරුවන් මේ වන විට කඩිනමින් රෝහල්ගත කිරීමට පියවර ගනිමින් සිටින බවද සඳහන් වේ.
-
-කැප්පෙටිපොල සිට ආරුගම්බේ දක්වා විනෝද චාරිකාවක ගිය බස් රථයක් මෙලෙස අනතුරට ලක්ව තිබේ.
-
-බස් රථය කෝමාරි ප්‍රදේශයේදී පාලම ගැටී පෙරළී ගොස් ඇති බවත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/a14528cf.json)
 
 ---

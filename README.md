@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 17:04:36**
+As of **2025-08-31 17:18:04**
 
 ## Newspaper Stats
 
-*Scraped **73,329** Articles*
+*Scraped **73,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,062
 adaderanalk | 9,332
 tamilmirrorlk | 10,892
 virakesarilk | 12,016
-adaderanasinhalalk | 12,724
+adaderanasinhalalk | 12,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,329 articles have been extended.
+61,973 (84.5%) of 73,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### ශ්‍රී ලංකා කණ්ඩායමට ලකුණු 278ක ඉලක්කයක්
+
+*2025-08-31 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213998) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය හරාරේ ක්‍රීඩාංගණයේ දී මේ වන විට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායමේ ආරාධනයෙන් ප්‍රථමයෙන් පන්දුවට පහරදීමට පිටියට පිවිසි සිම්බාබ්වේ කණ්ඩායම පන්දුවාර සියල්ල අවසානයේ කඩුලු 7ක් දැවී ලකුණු 277ක් රැස් කිරීමට සමත් විය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 278ක ඉලක්කයක් හඹා යාමට නියමිතය.
+
+◼️
+
+[Data](articles/f1c9960e.json)
+
+---
 
 ### සමුහ සංක්‍රමණවලට එරෙහිව ඔස්ට්‍රේලියාවේ විරෝධතා
 
@@ -1849,15 +1865,5 @@ The bus has also reportedly sustained serious damage in the accident.
 ◼️
 
 [Data](articles/129072dd.json)
-
----
-
-### பொத்துவில் விபத்தில் ஒருவர் பலி; 57 பேர் காயம்
-
-*2025-08-30 18:02:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவில்-விபத்தில்-ஒருவர்-பலி-57-பேர்-காயம்/175-363752) · `ta`
-
-◼️
-
-[Data](articles/af61bdb0.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 13:17:34**
+As of **2025-08-31 13:32:29**
 
 ## Newspaper Stats
 
-*Scraped **73,303** Articles*
+*Scraped **73,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,465
 islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
-adalk | 7,057
+adalk | 7,058
 adaderanalk | 9,323
 tamilmirrorlk | 10,891
 virakesarilk | 12,014
-adaderanasinhalalk | 12,715
+adaderanasinhalalk | 12,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,303 articles have been extended.
+61,973 (84.5%) of 73,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### සියලු දරුවන්ට ප්‍රවේශ විය හැකි නව අධ්‍යාපන ක්‍රමයක් ඇති කිරීම රජයේ අරමුණයි - අගමැතිනි හරිනි
+
+*2025-08-31 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213989) · `si`
+
+සමානත්මභාවයෙන් හා ගුණාත්මකභාවයෙන් පිරි සියලු දරුවන්ට ප්‍රවේශ විය හැකි නව අධ්‍යාපන ක්‍රමයක් ගොඩ නැගීම රජයේ අරමුණ බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  පවසයි.
+
+යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් රදගුරු අධ්‍යාපන උපදේශක කමිටුව සමඟ පැවති සාකච්ඡාවකදී අග්‍රාමාත්‍යවරිය මෙම අදහස් පළ කළාය.
+
+ලංකා සභා කොළඹ දියෝකීසියයේ රදගුරු අධ්‍යාපන උපදේශක කමිටුව සහ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අතර පැවැති විශේෂ සාකච්ඡාවේදී ඇය මේ බව පැවසුවාය.
+
+යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් මෙහිදී සාකච්ඡාවට ගැණුන අතර උපදේශක කමිටුව, අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් සිය යෝජනා ද අග්‍රාමාත්‍යවරිය වෙත ඉදිරිපත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/59821908.json)
+
+---
 
 ### கள்ளக்காதலிக்கு கண்களை  மூடிக்கொண்டு செலவழிப்பு
 
@@ -299,6 +317,22 @@ A court verdict regarding a case filed against the deceased individual is schedu
 ◼️
 
 [Data](articles/5c5d02ef.json)
+
+---
+
+### හූති සටන්කරුවන්ගේ අගමැති ඊශ්‍රායෙල ප්‍රහාරයකින් මරුට
+
+*2025-08-31 11:00:53* · [`adalk`](https://www.ada.lk/international/හූති-සටන්කරුවන්ගේ-අගමැති-ඊශ්‍රායෙල-ප්‍රහාරයකින්-මරුට/3-418173) · `si`
+
+යේමනයේ හූති සටන්කරුවන්ගේ ස්වයං ප්‍රකාශිත අගමැති ලෙස සැලකෙන අහමඩ් ගලෙබ් නසාර් අල්-රහාවි මෙම සතිය මුලදී ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් මිය ගිය බව තහවුරු කර තිබේ.
+
+බ්‍රහස්පතින්දා ඊශ්‍රායල ආරක්ෂක හමුදා (IDF) යේමනයේ අගනුවර වන සානා ඉලක්ක කරගෙන එල්ල කළ ප්‍රහාවලින් හූති සටන්කරුවන්ගේ තවත් ජ්‍යෙෂ්ඨ නිලධාරීන් කිහිප දෙනෙකුම මිය ගොස් තිබේ.
+
+ඊශ්‍රායල ප්‍රහාරක ජෙට් යානා සානා ප්‍රදේශයේ රැස්වීමකට සිදු කළ පහරදීමකින් මෙම නායකයන් පිරිස ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/4379ca29.json)
 
 ---
 
@@ -1777,35 +1811,5 @@ He further emphasised that plans were underway to raise public awareness on brib
 ...
 
 [Data](articles/0ab4d755.json)
-
----
-
-### Lanka-born copper artist makes waves in Hawaii
-
-*2025-08-30 14:04:00* · [`islandlk`](http://island.lk/lanka-born-copper-artist-makes-waves-in-hawaii/) · `en`
-
-The master copper artist known as Sooriya not only inspires many with his larger-than-life sculptures of whales and dolphins in Nānākuli, but also with his peaceful messages of caring for the earth and serving others with aloha.
-
-On a sunny Westside morning in Nānākuli, the sculptured bodies of two humpback whales reflect an iridescent radiance. They represent the largest copper whale structure in the world, and are the handiwork of artist Muthukumaru Sooriyakumar (known by most as Sooriya), a 71-year-old Sri Lankan man whose values of unity, harmony and compassion go wherever his bare feet take him.
-
-As a young boy in a Ceylon village, Sooriya developed adoration for art after wandering upon workers who were shaping stone for a nearby temple.
-
-“I was very fascinated by the sound and rhythm. Everything is rhythm,” says Sooriya. “I knew that’s the way I wanted to do artwork.”
-
-...
-
-[Data](articles/71a6e22c.json)
-
----
-
-### How rare minerals are reshaping geopolitics
-
-*2025-08-30 13:36:00* · [`islandlk`](http://island.lk/how-rare-minerals-are-reshaping-geopolitics/) · `en`
-
-Who truly commands the foundations of the 21st-century economy? Which states possess the leverage to dictate the supply of critical minerals that underpin modern defence systems, renewable energy technologies, and digital infrastructure? How did a single nation come to dominate a market indispensable to the West’s industrial and military ambitions?
-
-...
-
-[Data](articles/bc470dbb.json)
 
 ---

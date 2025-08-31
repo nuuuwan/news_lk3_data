@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-08-31 15:51:09**
+As of **2025-08-31 16:07:47**
 
 ## Newspaper Stats
 
-*Scraped **73,320** Articles*
+*Scraped **73,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,513
 dailymirrorlk | 4,733
 dailyftlk | 5,182
 adalk | 7,061
-adaderanalk | 9,329
+adaderanalk | 9,331
 tamilmirrorlk | 10,892
-virakesarilk | 12,015
+virakesarilk | 12,016
 adaderanasinhalalk | 12,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,320 articles have been extended.
+61,973 (84.5%) of 73,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-08-31 (Sunday)
+
+### அதிக நேரம் நிகழும் சந்திர கிரகணம் ; காணத்தவறாதீர்கள்
+
+*2025-08-31 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223852) · `ta`
+
+செப்டம்பர் 7 ஆம் திகதி இரவு வானத்தில் முழு சந்திர கிரகணம் தோன்றுவதால், இலங்கையர்கள் மற்றும் வானியல் ஆர்வலர்களுக்கு பார்வையிடும் வாய்ப்பாக அமைந்துள்ளது.
+
+இந்த அற்புதமான நிகழ்வு நாட்டின் அனைத்துப் பகுதிகளிலிருந்தும் முழுமையாகத் தெரியும் என கொழும்பு பல்கலைக்கழகத்தின் இயற்பியல் துறையின் தலைவரும், வானியல் மற்றும் விண்வெளி அறிவியல் பிரிவின் பணிப்பாளரும் ஆர்தர் சி கிளார்க் நவீன தொழில்நுட்ப நிறுவனத்தின் தலைவருமான பேராசிரியர் சந்தன ஜயரத்ன தெரிவித்துள்ளார்.
+
+பூமி சூரியனை சுற்றி வரும் பாதையிலும், சந்திரன் பூமியை சுற்றி வரும் பாதையிலும் சில நேரங்களில் சூரியன், பூமி மற்றும் சந்திரன் ஆகியவை ஒரே நேர்கோட்டில் வரும்.
+
+அப்போது, சூரிய ஒளி பூமியில் விழுந்தாலும் சந்திரன் மீது விழாது. இதனால் சந்திர கிரகணம் ஏற்படுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/dc28e1bf.json)
+
+---
 
 ### දිස්ත්‍රික්ක කිහිපයකට ගිගුරුම් සහිත වැසි
 
@@ -89,6 +107,26 @@ Police stated that the shooting was carried out using a revolver-type firearm.
 ...
 
 [Data](articles/194c37e5.json)
+
+---
+
+### Greta Thunberg embarks on second flotilla to Gaza
+
+*2025-08-31 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112031/greta-thunberg-embarks-on-second-flotilla-to-gaza) · `en`
+
+Greta Thunberg has rejected accusations of antisemitism as she embarks on her second flotilla to Gaza.
+
+The 22-year-old and other activists are setting sail on the largest flotilla to Gaza on Sunday, despite having been detained by Israeli forces and deported when they approached on a British-flagged yacht in June.
+
+Israel later accused the group of activists of being antisemitic - an accusation Thunberg told Sky News’ Europe correspondent Siobhan Robbins she rejects.
+
+“It is not antisemitic to say that we should not be bombing people, that one should not be living in occupation, that everyone should have the right to live in freedom and dignity, no matter who you are,” she said.
+
+Before the dozens of boats carrying aid embarks from Spain, the activists called on governments to pressure Israel to allow their flotilla through the naval blockade.
+
+...
+
+[Data](articles/31d3dcee.json)
 
 ---
 
@@ -673,6 +711,28 @@ Wang’s visit coincided with U.S. President Donald Trump’s decision to impose
 ◼️
 
 [Data](articles/05bf2ed4.json)
+
+---
+
+### Air India flight returns to Delhi after ‘fire indication’ in engine
+
+*2025-08-31 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112024/air-india-flight-returns-to-delhi-after-fire-indication-in-engine) · `en`
+
+An Indore-bound Air India plane made an emergency landing in New Delhi on Sunday after being airborne for over 30 minutes as the pilot received a “fire indication” in the right engine of the aircraft, according to sources.
+
+One engine of the A320 neo aircraft was shut down and the plane landed safely at the Delhi airport, Air India said in a statement.
+
+The flight made an emergency landing at around 6:15 am and there were more than 90 people on board, a source said.
+
+The aircraft, which operated the flight AI2913, has been grounded for inspection.
+
+“Flight AI2913, operating from Delhi to Indore on August 31, air-returned to Delhi shortly after take off, as the cockpit crew received a fire indication for the right engine,” the Tata Group-owned airline said without divulging further details.
+
+Following standard procedure, the cockpit crew elected to shut down the engine and returned to Delhi where the flight landed safely, it said.
+
+...
+
+[Data](articles/7ced535c.json)
 
 ---
 
@@ -1775,61 +1835,5 @@ National police chief Listyo Sigit Prabowo said on Saturday the president ordere
 ◼️
 
 [Data](articles/1b9f2762.json)
-
----
-
-### පේරාදෙණිය සහ මහනුවර අතර දුම්රිය ධාවනය සීමා කිරීමක්
-
-*2025-08-30 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213966) · `si`
-
-දුම්රිය හරස් මාර්ගයක සිදුකරන නඩත්තු කටයුක්තක් හේතුවෙන් සැප්තැම්බර් මස 05 වනදා සිට 07 වනදා දක්වා උඩරට දුම්රිය මාර්ගයේ පේරාදෙණිය සහ මහනුවර අතර දුම්රිය ධාවනය සීමා කරන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-ටිකිරි මැණිකේ සහ උඩරට මැණිකේ දුම්රිය දෙක එම දින තුන තුළ පේරාදෙණිය සහ මහනුවර අතර ධාවනය නොවන බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-ඒ අනුව ටිකිරි මැණිකේ දුම්රිය, නානුඔයේ සිට පේරාදෙණිය හරහා කොළඹ කොටුව දක්වා ධාවනය වන අතර උඩරට මැණිකේ දුම්රිය කොළඹ කොටුවේ සිට පේරාදෙණිය හරහා බදුල්ල දක්වා ධාවනය වන බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-එම දුම්රියවලින් ගමන් පහසුකම් සළසා ගැනීම සඳහා මහනුවර දුම්රිය ස්ථානය වෙත පැමිණෙන මගීන්ට බස් රථ මගින් පේරාදෙණිය දක්වා ගමන් කිරීමට අවශ්‍ය ප්‍රවාහන පහසුකම් සැළසීමට පියවර ගන්නා බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/5551bef9.json)
-
----
-
-### Former President Ranil Wickremesinghe to make special statement
-
-*2025-08-30 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112005/former-president-ranil-wickremesinghe-to-make-special-statement) · `en`
-
-Former President Ranil Wickremesinghe is scheduled to make a special statement at an upcoming party convention on September 6.
-
-Wickremesinghe, who was arrested and remanded under the Public Property Act, was granted bail on August 26.
-
-Fort Magistrate Nilupuli Lankapura granted the bail after considering the medical reports submitted on behalf of the former President.
-
-The magistrate ordered his release on three surety bonds of Rs. 5 million each, taking into account the facts presented by the Criminal Investigation Department (CID) and the defense lawyers.
-
-The former President was arrested by the CID on August 22 on charges under the Public Property Act in connection with alleged misappropriation of state funds. Subsequently, he was produced before the Fort Magistrate’s Court and was remanded until August 26.
-
-...
-
-[Data](articles/eece1fb2.json)
-
----
-
-### Criminal gang leaders including ‘Kehelbaddara Padme’ to be brought to Sri Lanka today
-
-*2025-08-30 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112004/criminal-gang-leaders-including-kehelbaddara-padme-to-be-brought-to-sri-lanka-today) · `en`
-
-Five high-profile underworld figures, including ‘Kehelbaddara Padme’, who were arrested in Indonesia, are scheduled to be brought back to the island this evening (30), according to Sri Lanka Police.
-
-A special police team from Sri Lanka was dispatched to Indonesia this morning to facilitate their return. The team has reportedly taken the criminal gang members into their custody from the Indonesia authorities and is now bringing them back to the island.
-
-According to reports, the special police team accompanying the arrested suspects are currently en route to Sri Lanka from Jakarta.
-
-Notorious organised criminal Mandinu Padmasiri, alias ‘Kehelbaddara Padme’, and gang members known by the aliases ‘Commando Salintha’, ‘Backhoe Saman’, ‘Thembili Lahiru’ and Kudu Nilantha, were arrested in Jakarta recently, and a woman and a small child who were with them were also taken into custody.
-
-...
-
-[Data](articles/9e5ff8d3.json)
 
 ---

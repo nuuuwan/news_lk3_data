@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 06:15:23**
+As of **2025-09-01 06:55:12**
 
 ## Newspaper Stats
 
-*Scraped **73,390** Articles*
+*Scraped **73,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 752
 economynextcom | 4,472
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,189
+dailyftlk | 5,195
 adalk | 7,065
 adaderanalk | 9,339
 tamilmirrorlk | 10,894
@@ -26,11 +26,107 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,390 articles have been extended.
+61,973 (84.4%) of 73,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### Govt. to import 2,000 double-cabs for rural State officials
+
+*2025-09-01 06:11:48* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-import-2-000-double-cabs-for-rural-State-officials/56-781051) · `en`
+
+Provincial Councils and Local Government Deputy Minister Ruwan Senarath yesterday said the Government intends to import 2,000 double-cab vehicles early next year to improve transport facilities for officials heading State institutions, especially in the hinterland.
+
+According to him, the move is aimed at enabling officers, particularly those attached to local authorities, to reach villages and communities more effectively in order to carry out development work.
+
+“We want to ensure that officers can travel to the grassroots and fulfil their field responsibilities. That is why arrangements have been made to bring in 2,000 cabs during the first quarter of next year,” Senarath said.
+
+He further noted that additional machinery and equipment would be distributed to strengthen local operations, with funding already allocated for the program.
+
+...
+
+[Data](articles/c7238219.json)
+
+---
+
+### SITREK Group marks 48 years with awards and celebration
+
+*2025-09-01 06:03:00* · [`dailyftlk`](https://www.ft.lk/business/SITREK-Group-marks-48-years-with-awards-and-celebration/34-781050) · `en`
+
+The SITREK Group celebrated its 48th anniversary in grand style at the Grand Maitland, honouring decades of excellence and recognising key contributors through its Annual Awards Ceremony.
+
+The event, held under the patronage of Joint Group Managing Directors Jeevaka Wijesinghe and Minoli Wijesinghe, included ceremonial traditions, multimedia presentations, and a dynamic awards segment.
+
+Among the notable recognitions were: Long Service Awards; Security Officer and Officer In Charge of the Year – SITREK Security Solutions; Courier and Supervisor of the Year – SITREK Courier Services; Nursing Excellence Awards – SITREK Home Nursing and Swift Care; Driver, Customer Service and Lady Officer of the Year – SITREK Secure Logistics and Employee of the Year Awards – SITREK Secure Logistics and SITREK Technologies.
+
+◼️
+
+[Data](articles/f6c44496.json)
+
+---
+
+### Indira Malwatte honoured at Sri Lankan Iconic Woman 2025 Awards
+
+*2025-09-01 06:00:56* · [`dailyftlk`](https://www.ft.lk/business/Indira-Malwatte-honoured-at-Sri-Lankan-Iconic-Woman-2025-Awards/34-781049) · `en`
+
+Indira Malwatte was honoured with the Sri Lankan Iconic Woman 2025 award at the Sri Lanka Broadcasting Corporation’s centenary celebration, held at the Bandaranaike Memorial International Conference Hall (BMICH) on 29 August.
+
+She was recognised as the first woman to Chair the Export Development Board (EDB) for her significant contribution to the export sector and breaking barriers as the first woman Chairperson of Samson International PLC, a male-dominated industry.
+
+Malwatte continues to serve as a Non-Executive Independent Director in the public and private sectors. Her trailblazing influence extends beyond boardrooms, championing women’s empowerment, shaping inclusive workplaces, and inspiring future generations to rise above barriers.
+
+The Sri Lankan Iconic Woman Awards 2025 celebrated extraordinary women who embody integrity, innovation, and influence, leaving a profound impact on the nation.
+
+◼️
+
+[Data](articles/016d1bee.json)
+
+---
+
+### BALPP to hold workshop on research methodology for public policy
+
+*2025-09-01 05:59:04* · [`dailyftlk`](https://www.ft.lk/business/BALPP-to-hold-workshop-on-research-methodology-for-public-policy/34-781048) · `en`
+
+The Bandaranaike Academy for Leadership and Public Policy (BALPP) has organised a one-day workshop with the objective of introducing key research methods used in public policy research and equipping participants with the skills and knowledge to critically assess and evaluate public policy research and evidence-based decision making.
+
+The workshop which will be held on Friday, 26 September from 9 a.m. to 4 p.m. at the BALPP premises and will comprise of lectures and presentations conducted by experts in the field of policy research to provide the participants with foundational knowledge on policy research. The lectures and presentations will feature case studies highlighting real-world examples of research in public policy making and implementation to provide the participants with insights and practical knowledge and an in-depth analysis of policy research. Therefore, BALPP encourages scholars and professionals interested in policy research to participate in this workshop.
+
+...
+
+[Data](articles/b84856b1.json)
+
+---
+
+### Rohantha appointed to Lotus Hydro Board
+
+*2025-09-01 05:55:58* · [`dailyftlk`](https://www.ft.lk/business/Rohantha-appointed-to-Lotus-Hydro-Board/34-781047) · `en`
+
+Dr. Rohantha Athukorala has been appointed as an Independent Non-Executive Director on the Board of Lotus Hydro Power PLC.
+
+Dr. Athukorala is an accomplished business leader with over 21 years of experience in brand marketing and sales management. He has held key leadership roles at multinational companies including Unilever, Reckitt Benckiser, and Diversey Lever India. He also served as the Country Head for Sri Lanka and the Maldives, contributing significantly to brand strategy and market expansion in the region.
+
+He has held prominent positions in both the public and private sectors, including Chairmanship of the Sri Lanka Export Development Board and Sri Lanka Tourism. He was appointed as the Commissioner General for the World Expo in Milan and later joined the United Nations Office for Project Services (UNOPS) as the Portfolio Development Head for Sri Lanka and the Maldives.
+
+...
+
+[Data](articles/a78235b3.json)
+
+---
+
+### Cleantech breaks barriers in waste management: Honoured  at first DEI Championship Awards
+
+*2025-09-01 05:53:00* · [`dailyftlk`](https://www.ft.lk/business/Cleantech-breaks-barriers-in-waste-management-Honoured-at-first-DEI-Championship-Awards/34-781046) · `en`
+
+Cleantech Ltd., Sri Lanka’s leading municipal waste management service provider and sustainability arm of the Abans Group, was recognised at the first-ever Diversity, Empowerment and Inclusivity (DEI) Championship Awards organised by the Ceylon Chamber of Commerce under the SCOPE Programme, co-financed by the European Union and the German Federal Foreign Office and implemented by GIZ Sri Lanka in partnership with the Ministry of Justice and National Integration.
+
+The company was honoured for its pioneering efforts in women’s empowerment and disability inclusion—an achievement that redefines the sector and sets a benchmark for corporate Sri Lanka.
+
+...
+
+[Data](articles/1694a5bf.json)
+
+---
 
 ### Kemcare Technologies  wins “Innovator in Cosmetic Ingredients Distribution”  Award at Iconic Awards 2025
 
@@ -1759,105 +1855,5 @@ A court verdict regarding a case filed against the deceased individual is schedu
 ◼️
 
 [Data](articles/4379ca29.json)
-
----
-
-### ஆடையில் காய்ந்த விந்து:  காருக்குள் பேண்ட்டை கழட்டி
-
-*2025-08-31 11:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையில்-காய்ந்த-விந்து-காருக்குள்-பேண்ட்டை-கழட்டி/175-363777) · `ta`
-
-தமிழ் மற்றும் மலையாள திரையுலகில் முன்னணி நடிகையாக வலம் வரும் லட்சுமி மேனன், குடிபோதையில் தனது நண்பர்களுடன் இணைந்து ஒரு ஐடி ஊழியரை கடத்தி, தாக்கி, அவமானப்படுத்தியதாக அதிர்ச்சி தரும் குற்றச்சாட்டுகள் எழுந்துள்ளன.
-
-இந்த சம்பவம் அவரது பொது இமேஜையும், எதிர்கால திரைப்பட வாழ்க்கையையும் பெரும் கேள்விக்குறியாக்கியுள்ளது.
-
-கொச்சியில் உள்ள பிரபல மதுபான விடுதியில் 2025 ஆகஸ்ட் 24  அன்று நடந்த வாக்குவாதத்தைத் தொடர்ந்து இந்த சம்பவம் நிகழ்ந்ததாகக் கூறப்படுகிறது. லட்சுமி மேனன் மற்றும் அவரது மூன்று நண்பர்கள், 27 வயது ஐடி ஊழியரான அலியர் ஷா சாலிமுடன் மோதலில் ஈடுபட்டனர்.
-
-வாக்குவாதம் முற்றிய நிலையில், அலியர் மற்றும் அவரது நண்பர்கள் மதுபான விடுதியை விட்டு வெளியேறியபோது, லட்சுமி மற்றும் அவரது குழுவினர் அவர்களை காரில் பின்தொடர்ந்து, எர்ணாகுலம் வடக்கு ரயில்வே ஓவர்பிரிஜ் அருகே அவர்களது வாகனத்தை வழிமறித்தனர்.
-
-பொலிஸ் அறிக்கையின்படி, லட்சுமி மேனனின் நண்பர்கள் ஐடி ஊழியரை காரில் கடத்திச் சென்று, அவரை உடல் மற்றும் மன ரீதியாக துன்புறுத்தியதாகக் கூறப்படுகிறது.
-
-...
-
-[Data](articles/4427afcb.json)
-
----
-
-### காணாமல் ஆக்கப்பட்டமை தொடர்பாக நீதிமன்றம் கோரிய ஆவணத்தை கடற்படை வழங்கவில்லை!
-
-*2025-08-31 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/223815) · `ta`
-
-இறுதிக்கட்டப் போர் நிகழ்ந்த காலகட்டத்தில் காணாமலாக்கப்பட்டோரில் ஒரு தொகுதியினரை தடுத்து வைத்திருந்த கடற்படை அதிகாரிகள் குழுவொன்றுடன் தொடர்புடைய ஆவணத்தை வழங்குமாறு பிறப்பிக்கப்பட்ட உத்தரவுக்குக் கீழ்ப்படிவதற்கு கடற்படை தவறியுள்ளமை நீதிமன்றத்தின் முன் வெளிப்படுத்தப்பட்டுள்ளது.
-
-திருகோணமலையின் பிரபல ‘கன்சைட்’ நிலக்கீழ் வதைமுகாமை கண்காணித்ததன் பின்னர் அங்கு செயற்படும் விசேட புலனாய்வுப் பிரிவு எனும் குழுவை கலைக்குமாறு கோரி அன்றைய கடற்படை புலனாய்வுப் பிரிவு பணிப்பாளராக பணியாற்றிய நிஷாந்த உலுகேதென்னவால் கடற்படைத் தளபதிக்கு அனுப்பப்பட்டதாகக் கூறப்படும் கடிதத்தின் பிரதியை கடற்படை தமக்கு வழங்கவில்லை என குற்றப்புலனாய்வு திணைக்களம் நீதிமன்றத்துக்கு அறிவித்துள்ளது.
-
-...
-
-[Data](articles/35809cc4.json)
-
----
-
-### Xi meets Modi as China and India seek to rebuild ties
-
-*2025-08-31 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112025/xi-meets-modi-as-china-and-india-seek-to-rebuild-ties) · `en`
-
-Chinese leader Xi Jinping met with Indian Prime Minister Narendra Modi ahead of the opening of a regional summit on Sunday in Tianjin, in a formal thaw between the two nuclear-armed powers.
-
-Modi is on his first visit to China since relations between the two sides deteriorated after Chinese and Indian soldiers engaged in deadly border clashes in 2020. Modi is visiting as part of India’s membership into the Shanghai Cooperation Organization, a regional political, economic and security group founded by China.
-
-Ahead of Modi’s visit, China’s top diplomat Wang Yi flew to New Delhi earlier in August, as the two sides announced their rapprochement. Both governments pledged to restart border talks, and resume issuing visas and direct flights.
-
-Wang’s visit coincided with U.S. President Donald Trump’s decision to impose 50% tariffs on India for its purchase of Russian oil, but Delhi’s process of rebuilding ties with China had been in the works for months.
-
-...
-
-[Data](articles/8fc025e5.json)
-
----
-
-### காதலனை ரூ.11 இலட்சத்துக்கு விற்ற காதலி
-
-*2025-08-31 10:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/காதலனை-ரூ-11-இலட்சத்துக்கு-விற்ற-காதலி/53-363776) · `ta`
-
-இளம்பெண் ஒருவர் தன் காதலனை விற்பனை செய்த சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
-
-சீனாவில் நடந்த இந்தச் சம்பவம் உலகையே அதிர்ச்சியடைய வைத்துள்ளது. வெறும் 17 வயதான ஒரு பெண், தனது காதலனை மோசடி கும்பலிடம் விற்றது மனிதாபிமானமற்ற செயல் என விமர்சிக்கப்படுகிறது.
-
-சீனாவைச் சேர்ந்த ஜோ (17 வயது) என்ற பெண், தன்னுடைய 19 வயது காதலன் ஹுவாங்கிடம் வேலை வாய்ப்பு கிடைக்கச் செய்வதாகக் கூறி, அவரை தாய்லாந்து அழைத்துச் சென்றார். சிறந்த வருமானம் கிடைக்கும் வேலை என்று நம்பிய ஹுவாங்கும், தனது காதலியை நம்பி அந்த நாட்டிற்குச் சென்றார்.
-
-ஆனால், வேலை கொடுக்கப்படும் என்ற பெயரில், ஜோ தனது காதலனை மியான்மரில் இயங்கும் கால்சென்டர் மோசடி கும்பலிடம் ரூ.11 லட்சத்திற்கு விற்றுவிட்டார்.
-
-இந்தக் கும்பல் ஹுவாங்கை கடத்தி வைத்து, தினமும் 20 மணி நேரம் வேலை செய்ய கட்டாயப்படுத்தியது. ஆன்லைன் மோசடி, போலியான முதலீட்டு வலைத்தளங்கள் போன்றவற்றில் மக்கள் ஏமாறச் செய்வது போன்ற சட்டவிரோத பணிகளில் ஈடுபடச் செய்தனர். சுதந்திரம் இன்றி, மனிதாபிமானமற்ற சூழலில் அந்த இளைஞன் கடுமையாக அவதிப்பட்டார்.
-
-...
-
-[Data](articles/ec913349.json)
-
----
-
-### அறுகம்பேயில் இஸ்ரேலியர்கள் தாக்குதல்: தம்பதிக்கு காயம்
-
-*2025-08-31 10:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பேயில்-இஸ்ரேலியர்கள்-தாக்குதல்-தம்பதிக்கு-காயம்/175-363775) · `ta`
-
-அறுகம்பே விருந்தகமொன்றின் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறப்படும் குற்றச்சாட்டில் இஸ்ரேலிய பிரஜைகள்  இருவர் பொத்துவில் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
-
-விருந்தகத்தன் உரிமையாளரும் அவரது மனைவியும் தங்கள் வாகனத்தில் பயணித்தபோது இரண்டு இஸ்ரேலியர்களும் வீதியை வழிமறித்துள்ளனர். இதனால், கடுமையான வாக்குவாதம் ஏற்பட்டது. அதன்பின்னரே, இஸ்ரேலிய பிரஜைகள் இருவரும் அந்த தம்பதியினரை தாக்கியுள்ளனர் என்பது விசாரணைகளில் இருந்து தெரியவந்துள்ளது என பொலிஸார் தெரிவித்தனர். .
-
-◼️
-
-[Data](articles/e802df16.json)
-
----
-
-### வாக்குமூலம் அளிக்க சமன் ஏக்கநாயக்கவுக்கு சிஐடி அழைப்பு
-
-*2025-08-31 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/223814) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் செயலாளர் சமன் ஏக்கநாயக்க வாக்குமூலம் அளிக்க குற்றப் புலனாய்வுத் திணைக்களத்துக்கு அழைக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் இங்கிலாந்து பயணம் மற்றும் வருகைக்காக அரச நிதியைத் தவறாகப் பயன்படுத்திய குற்றச்சாட்டு குறித்து வாக்குமூலம் அளிக்க சமன் ஏக்கநாயக்கவை நாளை திங்கட்கிழமை (01) முன்னிலையாகுமாறு குற்றப்புலனாய்வுத் திணைக்களம் அழைப்பு விடுத்துள்ளது.
-
-◼️
-
-[Data](articles/05bf2ed4.json)
 
 ---

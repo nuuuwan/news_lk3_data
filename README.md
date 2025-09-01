@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 14:09:55**
+As of **2025-09-01 14:41:24**
 
 ## Newspaper Stats
 
-*Scraped **73,494** Articles*
+*Scraped **73,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,080
-adaderanalk | 9,354
+adaderanalk | 9,357
 tamilmirrorlk | 10,925
 virakesarilk | 12,037
 adaderanasinhalalk | 12,756
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,494 articles have been extended.
+61,973 (84.3%) of 73,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -120,11 +120,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### U.S. widens visa ban on Palestinian passport holders
+
+*2025-09-01 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112061/us-widens-visa-ban-on-palestinian-passport-holders) · `en`
+
+The administration of U.S. President Donald Trump has broadened its visa restrictions on Palestinian passport holders, halting approvals for nearly all categories of non-immigrant visitor visas, according to multiple US outlets.
+
+The expanded suspension covers applications for medical treatment, university study, business travel, and visiting friends or family, said the report.
+
+The measure, laid out in an Aug. 18 cable from the State Department to U.S. embassies and consulates, marks a sweeping extension of earlier measures that applied only to residents of Gaza. The new policy now targets Palestinians in the West Bank and across the diaspora.
+
+Earlier this month, the Trump administration also revoked visas from members of the Palestine Liberation Organization and the Palestinian Authority, preventing them from attending the upcoming United Nations General Assembly in New York.
+
+...
+
+[Data](articles/27d8cc3f.json)
+
+---
+
 ### வீரவன்சவுக்கு எதிரான வழக்கு விசாரணைக்கு வருகிறது
 
 *2025-09-01 12:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீரவன்சவுக்கு-எதிரான-வழக்கு-விசாரணைக்கு-வருகிறது/175-363845) · `ta`
 
-ஐ.நா. மனித உரிமைகள் ஆணையாளர் இலங்கைக்கு விஜயம் செய்த நாளில் நடைபெற்ற போராட்டத்தின் போது வீதிகளை மறித்ததாகக் கூறப்படும் குற்றச்சாட்டில் தேசிய சுதந்திர முன்னணி முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச மற்றும் ஆறு கட்சி உறுப்பினர்களுக்கு எதிரான வழக்கை விசாரிக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, திங்கட்கிழமை (01) உத்தரவிட்டார்.
+ஐ.நா. மனித உரிமைகள் ஆணையாளர் இலங்கைக்கு விஜயம் செய்த நாளில் நடைபெற்ற போராட்டத்தின் போது வீதிகளை மறித்ததாகக் கூறப்படும் குற்றச்சாட்டில் தேசிய சுதந்திர முன்னணி முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச மற்றும் ஆறு கட்சி உறுப்பினர்களுக்கு எதிரான வழக்கை நவம்பர் 10 ஆம் திகதி விசாரிக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, திங்கட்கிழமை (01) உத்தரவிட்டார்.
 
 வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச உட்பட ஐந்து பிரதிவாதிகள் நீதிமன்றத்தில் ஆஜரானார்கள்.
 
@@ -156,6 +174,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Colombo HC hears evidence against “Harak Kata” in robbery case
+
+*2025-09-01 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112060/colombo-hc-hears-evidence-against-harak-kata-in-robbery-case) · `en`
+
+The hearing of evidence in the case filed against the underworld figure Nadun Chinthaka Wickramaratne, alias “Harak Kata,” who is accused of breaking into a house in Meethotamulla and robbing a three-wheeler and Rs. 26,000 in cash, was held at the Colombo High Court today (01).
+
+The evidence was recorded before Colombo High Court Judge Lanka Jayaratne, Ada Derana reporter said.
+
+Under the direction of Deputy Solicitor General Sudarshana De Silva, the testimony of two prosecution witnesses was recorded.
+
+Court then ordered that the further hearing of evidence be adjourned until October 29.
+
+When the case was called, “Harak Kata” was produced in court under tight security, and admission of individuals into the courtroom was carried out following strict screening procedures.
+
+◼️
+
+[Data](articles/7fc97be1.json)
+
+---
+
 ### தனக்கு ஆதரவளித்த அனைவருக்கும் நன்றி - ரணில்
 
 *2025-09-01 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223910) · `ta`
@@ -167,6 +205,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4767266c.json)
+
+---
+
+### Ex-President Ranil extends his gratitude to all factions who stood by him
+
+*2025-09-01 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112057/ex-president-ranil-extends-his-gratitude-to-all-factions-who-stood-by-him-) · `en`
+
+Former President Ranil Wickremesinghe has extended his gratitude to all factions who stood by him from the time of his arrest to his hospitalisation.
+
+Issuing a special statement to media today (01), he stated that he is thankful to everyone who supported him through social media and other means from the moment he was taken into custody.
+
+The former President further mentioned in his statement that he intends to meet with all those parties at a later stage.
+
+Former President Ranil Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, was discharged from the hospital on Friday (29).
+
+The 76-year-old was rushed to the intensive care unit of the National Hospital on August 23, just hours after being remanded in custody.
+
+Wickremesinghe, who was granted bail on August 2, was ordered to be released on three surety bails of Rs. 5 million each by Colombo Fort Magistrate Nilupuli Lankapura.
+
+...
+
+[Data](articles/2d218a6a.json)
 
 ---
 
@@ -1779,53 +1839,5 @@ Among the notable recognitions were: Long Service Awards; Security Officer and O
 ◼️
 
 [Data](articles/f6c44496.json)
-
----
-
-### Indira Malwatte honoured at Sri Lankan Iconic Woman 2025 Awards
-
-*2025-09-01 06:00:56* · [`dailyftlk`](https://www.ft.lk/business/Indira-Malwatte-honoured-at-Sri-Lankan-Iconic-Woman-2025-Awards/34-781049) · `en`
-
-Indira Malwatte was honoured with the Sri Lankan Iconic Woman 2025 award at the Sri Lanka Broadcasting Corporation’s centenary celebration, held at the Bandaranaike Memorial International Conference Hall (BMICH) on 29 August.
-
-She was recognised as the first woman to Chair the Export Development Board (EDB) for her significant contribution to the export sector and breaking barriers as the first woman Chairperson of Samson International PLC, a male-dominated industry.
-
-Malwatte continues to serve as a Non-Executive Independent Director in the public and private sectors. Her trailblazing influence extends beyond boardrooms, championing women’s empowerment, shaping inclusive workplaces, and inspiring future generations to rise above barriers.
-
-The Sri Lankan Iconic Woman Awards 2025 celebrated extraordinary women who embody integrity, innovation, and influence, leaving a profound impact on the nation.
-
-◼️
-
-[Data](articles/016d1bee.json)
-
----
-
-### BALPP to hold workshop on research methodology for public policy
-
-*2025-09-01 05:59:04* · [`dailyftlk`](https://www.ft.lk/business/BALPP-to-hold-workshop-on-research-methodology-for-public-policy/34-781048) · `en`
-
-The Bandaranaike Academy for Leadership and Public Policy (BALPP) has organised a one-day workshop with the objective of introducing key research methods used in public policy research and equipping participants with the skills and knowledge to critically assess and evaluate public policy research and evidence-based decision making.
-
-The workshop which will be held on Friday, 26 September from 9 a.m. to 4 p.m. at the BALPP premises and will comprise of lectures and presentations conducted by experts in the field of policy research to provide the participants with foundational knowledge on policy research. The lectures and presentations will feature case studies highlighting real-world examples of research in public policy making and implementation to provide the participants with insights and practical knowledge and an in-depth analysis of policy research. Therefore, BALPP encourages scholars and professionals interested in policy research to participate in this workshop.
-
-...
-
-[Data](articles/b84856b1.json)
-
----
-
-### Rohantha appointed to Lotus Hydro Board
-
-*2025-09-01 05:55:58* · [`dailyftlk`](https://www.ft.lk/business/Rohantha-appointed-to-Lotus-Hydro-Board/34-781047) · `en`
-
-Dr. Rohantha Athukorala has been appointed as an Independent Non-Executive Director on the Board of Lotus Hydro Power PLC.
-
-Dr. Athukorala is an accomplished business leader with over 21 years of experience in brand marketing and sales management. He has held key leadership roles at multinational companies including Unilever, Reckitt Benckiser, and Diversey Lever India. He also served as the Country Head for Sri Lanka and the Maldives, contributing significantly to brand strategy and market expansion in the region.
-
-He has held prominent positions in both the public and private sectors, including Chairmanship of the Sri Lanka Export Development Board and Sri Lanka Tourism. He was appointed as the Commissioner General for the World Expo in Milan and later joined the United Nations Office for Project Services (UNOPS) as the Portfolio Development Head for Sri Lanka and the Maldives.
-
-...
-
-[Data](articles/a78235b3.json)
 
 ---

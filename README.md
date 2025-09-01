@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 17:22:28**
+As of **2025-09-01 17:32:48**
 
 ## Newspaper Stats
 
-*Scraped **73,526** Articles*
+*Scraped **73,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,086
 adaderanalk | 9,361
-tamilmirrorlk | 10,932
+tamilmirrorlk | 10,933
 virakesarilk | 12,037
-adaderanasinhalalk | 12,767
+adaderanasinhalalk | 12,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,526 articles have been extended.
+61,973 (84.3%) of 73,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ஆப்கானிஸ்தான் பூகம்பம்: பலி 800 ஆக அதிகரிப்பு; 4500+ காயம்
+
+*2025-09-01 17:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தான்-பூகம்பம்-பலி-800-ஆக-அதிகரிப்பு-4500-காயம்/50-363867) · `ta`
+
+ஆப்கானிஸ்தானில் இன்று (செப்.1) ஏற்பட்ட பூகம்பத்தில் சிக்கி உயிரிழந்தோர் எண்ணிக்கை 800 ஆக அதிகரித்துள்ளது. 4,500-க்கும் மேற்பட்டோர் காயமடைந்தனர்.
+
+அமெரிக்க புவியியல் ஆய்வு மையம் வெளியிட்டுள்ள அறிக்கையில், “ஆப்கானிஸ்தானின் நான்கர்ஹர் மாகாணத்தில் ஜலாலாபாத் நகரம் உள்ளது. இது பாகிஸ்தான் எல்லையை ஒட்டி அமைந்துள்ளது. ஜலாலாபாத்தில் இருந்து 27 கிலோ மீட்டர் தூரத்தில் உள்ள கிராமத்தில் பூகம்பம் மையம் கொண்டிருந்தது. பூமிக்கு அடியில் 8 கிமீ ஆழத்தில் பூகம்பம் மையம் கொண்டிருந்தது. முதலில் 6.3 ரிக்டர் அளவிலும், பின்னர் 4.7 ரிக்டர் அளவிலும் இரண்டு நிலநடுக்கங்கள் ஏற்பட்டுள்ளன. தொடர்ந்து நில அதிர்வுகளும் ஏற்பட்டுள்ளன” எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த நிலநடுக்கம் குறித்து தலிபான் அரசின் செய்தித் தொடர்பாளர் ஜபிபுல்லா முஜாஹித் கூறுகையில், “குனார் மாகாணத்தில் மட்டும் 800 பேர் உயிரிழந்துள்ளனர். 2500 பேர் காயமடைந்துள்ளனர். நாங்கர்ஹர் பகுதியில் 12 பேர் உயிரிழந்தனர். 255 பேர் காயமடைந்தனர். எண்ணற்ற வீடுகள் தரைமட்டமாயின” என்றார்.
+
+...
+
+[Data](articles/38f939dd.json)
+
+---
+
+### හික්කඩුවේ වෙඩිතැබීමක්
+
+*2025-09-01 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214045) · `si`
+
+හික්කඩුව, මලවැන්න ප්‍රදේශයේදී අද (01) පස්වරුවේ සිදුවු වෙඩි තැබීමක් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+පොලිසිය පැවසුවේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු මෙම වෙඩි තැබීම සිදුකර පළාගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/7f03891a.json)
+
+---
 
 ### තමන්ව අත්අඩංගුවට ගැනීම වළක්වාලන ලෙස ඉල්ලා ගම්මන්පිලගෙන් පෙත්සමක්
 
@@ -43,6 +73,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8dda2860.json)
+
+---
+
+### මගී ජීවිත 41ක් බේරාගත් බස් රියදුරා
+
+*2025-09-01 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214043) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේදී මගී ප්‍රවාහන බස් රථයක් අද (01) උදෑසන හදිසියේ ගිනිගැනීමකට ලක්ව තිබුණි.
+
+මෙලෙස ගිනිගෙන තිබුණේ ගාල්ල සිට කඩුවෙල බලා ධාවනය වෙමින් තිබූ සුඛෝපභෝගී බස් රථයකි.
+
+බස් රථයේ ඇතිවූ කාර්මික දෝශයක් හේතුවෙන් කහතුඩුව අධිවේගී පිවිසුම ආසන්නයේදී එහි ගින්නක් හටගෙන තිබුණි.
+
+කෙසේ වෙතත් ගින්න හටගැනීමට පෙර අදාළ බස් රථ රියදුරු සහ කොන්දොස්තර මහතා එක්ව මඟින් සියලුදෙනා රථයෙන් ඉවත් කිරීමට කටයුතු කර තිබුණි.
+
+බස් රථය ගිනිගැනීමට ලක්වන අවස්ථාවේදී මගීන් 41 දෙනෙකුගේ බස් රථය තුළ ගමන් කරමින් සිට ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/481b83df.json)
 
 ---
 
@@ -1707,53 +1757,5 @@ He further cautioned that young people exposed to these influences may become in
 ...
 
 [Data](articles/19a74dd1.json)
-
----
-
-### ஆப்கானிஸ்தானில் சக்திவாய்ந்த நிலநடுக்கம் : 20 பேர் உயிரிழப்பு
-
-*2025-09-01 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223885) · `ta`
-
-ஆப்கானிஸ்தானில் நேற்று இரவு சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. பாகிஸ்தானின் எல்லை அருகே அமைந்துள்ள அந்நாட்டின் நகங்கர் மாகாணம் ஜலாலாபாத்தை மையமாக கொண்டு 8 கிலோ மீட்டர் ஆழத்தில் இந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. இந்த நிலநடுக்கம் ரிச்டர் அளவில் 6.0 ஆக பதிவானது.
-
-நிலநடுக்கத்தால் வீடுகள், கட்டிடங்கள் அதிர்ந்தன. இந்த நிலநடுக்கத்தால் 20 பேர் உயிரிழந்துள்ளனர். இரவு மக்கள் உறங்கிக்கொண்டிருந்த நேரத்தில் ஏற்பட்ட நிலநடுக்கத்தால் பலரும் பதற்றத்துடன் வீடுகளை விட்டு வெளியேறி வீதிகளில் தஞ்சமடைந்துள்ளனர்.
-
-இந்த நிலநடுக்கம் ஏற்பட்ட 20 நிமிடம் கழித்து அதே மாகாணத்தில் மீண்டும் நிலநடுக்கம் ஏற்பட்டது. இந்த நிலநடுக்கம் ரிச்டர் அளவில் 4.5 ஆக பதிவானது. அடுத்தடுத்து 2 நிலநடுக்கத்தால் நகங்கர் மாகாணத்தில் மக்கள் தஞ்சமடைந்துள்ளனர்.
-
-◼️
-
-[Data](articles/1a2d7b72.json)
-
----
-
-### Seat belts mandatory for expressway bus passengers from today
-
-*2025-09-01 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112046/seat-belts-mandatory-for-expressway-bus-passengers-from-today) · `en`
-
-It has been made mandatory for passengers traveling in passenger transport buses on expressways to wear seat belts starting today (September 1).
-
-The Chairman of the National Council for Road Safety, Manjula Kularatne, stated that legal action is expected to be taken against those who violate the relevant decision.
-
-However, he added that a three-month grace period will be granted for the installation of seat belts in certain vehicles that are not currently equipped with them.
-
-On August 31, a gazette notification was issued containing regulations that make it mandatory for passengers in expressway buses to wear seat belts.
-
-Meanwhile, on August 30, the Minister of Transport, Highways, Ports and Civil Aviation and Leader of the House, Bimal Rathnayake explained that this initiative is being implemented as a key component of the “Clean Sri Lanka” program.
-
-...
-
-[Data](articles/c93dba98.json)
-
----
-
-### இன்று முதல் அதிவேக நெடுஞ்சாலையில் புதிய சட்டம்
-
-*2025-09-01 08:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அதிவேக-நெடுஞ்சாலையில்-புதிய-சட்டம்/175-363816) · `ta`
-
-அதிவேக நெடுஞ்சாலைகளில் பயணிக்கும் அனைத்து வாகனங்களிலும் இருக்கைகளில் உள்ள அனைவரும் இன்று முதல் ஆசனப்பட்டிகளை அணிவது கட்டாயமாக்கப்பட்டுள்ளதாக போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சு இதனைத் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/df4441df.json)
 
 ---

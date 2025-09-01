@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 18:58:55**
+As of **2025-09-01 19:26:02**
 
 ## Newspaper Stats
 
-*Scraped **73,558** Articles*
+*Scraped **73,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,119 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,090
-adaderanalk | 9,372
-tamilmirrorlk | 10,939
-virakesarilk | 12,041
-adaderanasinhalalk | 12,773
+adalk | 7,091
+adaderanalk | 9,376
+tamilmirrorlk | 10,941
+virakesarilk | 12,043
+adaderanasinhalalk | 12,775
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,558 articles have been extended.
+61,973 (84.2%) of 73,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### யாழ்ப்பாணத்தில் சர்வதேச கிரிக்கெட் விளையாட்டரங்க நிர்மாணத்திற்கான அடிக்கலை ஜனாதிபதி நாட்டிவைத்தார்
+
+*2025-09-01 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223970) · `ta`
+
+இயல்பாகவே திறமைகளைக்  கொண்ட அனைத்து கிரிக்கெட் வீர, வீராங்கனைகளுக்கும் தேசிய அணியில் பங்கேற்க சமமான வாய்ப்புகள் வழங்குவதை நோக்கமாகக் கொண்ட ஸ்ரீலங்கா கிரிக்கெட்டின் தேசிய அபிவிருத்திப் பாதை திட்டத்தின் கீழ் யாழ்ப்பாணம் மண்டைதீவில் சர்வதேச தரம்வாய்ந்த கிரிக்கெட் விளையாட்டரங்கம் ஒன்று நிர்மாணிக்கப்படவுள்ளது.
+
+ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தின் தலைவர் ஷம்மி சில்வா தலைமையிலான நிறைவேற்றுக் குழுவினரின் அழைப்பின் பேரில் விளையாட்டுத்துறை அமைச்சர் சுனில் குமார கமகேயின் பங்கேற்புடன் ஜனாதிபதி அனுர குமார திசாநாயக்க தலைமையில் இந்த விளையாட்டரங்கிற்கான அடிக்கல் நாட்டு விழா திங்கட்கிழமை (01) பிற்பகல் 1.30 மணியளவில் நடைபெற்றது.
+
+அடிக்கல் நாட்டப்பட்ட சர்வதேச கிரிக்கெட் விளையாட்டரங்கிற்கான நிர்மாணப் பணிகள் நிறைவடையும் வரை, அதற்கான முழு செலவையும் ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் ஏற்றுக்கொள்ளும்.
+
+...
+
+[Data](articles/fd73e508.json)
+
+---
+
+### மாநாட்டுக்குப் பின் புதினுடன் ஒரே காரில் சென்ற பிரதமர் மோடி
+
+*2025-09-01 19:11:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநாட்டுக்குப்-பின்-புதினுடன்-ஒரே-காரில்-சென்ற-பிரதமர்-மோடி/175-363876) · `ta`
+
+ஷங்காய் ஒத்துழைப்பு அமைப்பு உச்சி மாநாட்டில் கலந்து கொண்ட பிரதமர் மோடி, மாநாட்டுக்குப் பின்னர் ரஷ்ய அதிபர் புதினுடன் ஒரே காரில் சென்ற நிகழ்வு கவனம் பெற்றுள்ளது.
+
+ஷாங்காய் ஒத்துழைப்பு அமைப்பு (எஸ்சிஓ) கடந்த 2001-ம் ஆண்டில் தொடங்கப்பட்டது. இந்த அமைப்பில் சீனா, ரஷ்யா, கஜகஸ்தான், கிர்கிஸ்தான், தஜிகிஸ்தான், உஸ்பெகிஸ்தான், இந்தியா, பாகிஸ்தான், ஈரான், பெலாரஸ் ஆகிய நாடுகள் உறுப்பினர்களாக உள்ளன. இந்த அமைப்பின் 2 நாள் உச்சி மாநாடு சீனாவின் தியாஞின் நகரில் நடந்தது. இந்த மாநாட்டைத் தொடர்ந்து ரஷ்யா - இந்தியா இடையேயான இருதரப்பு பேச்சுவார்த்தை நடைபெறுகிறது.
+
+இந்நிலையில் இருதரப்பு பேச்சுவார்த்தை நடைபெறும் இடத்துக்கு இருவரும் ஒன்றாக காரில் சென்றனர். அது தொடர்பான புகைப்படத்தை தனது எக்ஸ் பக்கத்தில் பகிர்ந்த மோடி, “இந்திய - ரஷ்ய இருதரப்பு ஆலோசனைக்காக நானும், புதினும் ஒரே காரில் பயணிக்கிறோம். அவருடனான ஆலோசனைகள் எப்போதுமே ஆழமான புரிதலைக் கொண்டவை.” எனக் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/aab7fec6.json)
+
+---
+
+### நடிகர் விஜய்க்கு ஜனாதிபதி பதிலடி
+
+*2025-09-01 19:07:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-விஜய்க்கு-ஜனாதிபதி-பதிலடி/175-363875) · `ta`
+
+இலங்கையின் இறையாண்மை எந்த வகையான வெளிப்புற அழுத்தத்தாலும் சமரசம் செய்யப்பட மாட்டாது என ஜனாதிபதி அனுரகுமார திசாநாயக்க வலியுறுத்தியுள்ளார்,
+
+கச்சதீவுக்கு இன்று மாலை விஜயம் செய்வதற்கு முன்னதாக யாழ்ப்பாணம் - மயிலிட்டியில் உரையைாற்றியபோதே அவர் இதனை குறிப்பிட்டார்.
+
+இலங்கையின் பிராந்திய ஒருமைப்பாட்டைப் பாதுகாப்பதில் அரசாங்கத்தின் அசைக்க முடியாத உறுதிப்பாட்டை ஜனாதிபதி உறுதியாக மீண்டும் வலியுறுத்தியதுடன், நாட்டின் கடற்றொழில் சமூகங்களுக்கு கச்சத்தீவின் மூலோபாய மற்றும் உணர்வுபூர்வமான முக்கியத்துவத்தை சுட்டிக்காட்டினார்.
+
+"கச்சத்தீவு நமது மீன்பிடி சமூகத்திற்கு மிகுந்த முக்கியத்துவம் வாய்ந்தது. தீவு தொடர்பில் பெரிய பொது விவாதம் எழுந்துள்ளது, இன்று அங்கு கடற்றொழிலாளர்களை சந்திக்க விரும்புகிறேன்.
+
+இலங்கையின் பொறுப்பு அதன் நிலப்பரப்பைத் தாண்டி கடல் எல்லைகள் மற்றும் வான்வெளியை உள்ளடக்கியது.
+
+நமது தீவுகள், நமது கடல் நமது வானம் அல்லது நமது நிலம், அவை நமது மக்களுக்குச் சொந்தமானவை. எதிர்கால சந்ததியினருக்காக அவற்றைப் பாதுகாக்க நாம் கடமைப்பட்டுள்ளோம்
+
+...
+
+[Data](articles/3f60b85a.json)
+
+---
+
+### අගෝස්තුවේ සංචාරකයින් 198,235ක් මෙරටට ඇවිත්
+
+*2025-09-01 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214051) · `si`
+
+අගෝස්තු මාසය තුළ දී මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව 198,235ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරි පවසයි.
+
+මෙය පසුගිය වසරේ අගෝස්තු මාසයේදී පැමිණි සංඛ්‍යාවට සාපේක්ෂව 20.4%ක වැඩිවීමකි.
+
+ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය විසින් නිකුත් කරන ලද නවතම දත්තවලට අනුව, අගෝස්තු මාසයේදී ඉන්දියාවෙන් සංචාරකයින් 46,473ක් පැමිණ ඇති අතර එය 23.4% කි.
+
+තවද, එක්සත් රාජධානියෙන් 19,764ක්, ජර්මන් 12,500ක්, චීනයෙන් 12,294ක් සහ ප්‍රංශ ජාතිකයින් 10,495ක් ද අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට පැමිණ ඇත.
+
+ඒ අනුව, 2025 වසරේ ජනවාරි 01 වනදා සිට අගෝස්තු 31 දක්වා සංචාරක පැමිණීම් සංඛ්‍යාව 1,566,523කි.
+
+ඒ අතරින් සංචාරකයින් 325,595ක් ඉන්දියාවෙන්, 118,916ක් රුසියාවෙන් සහ 151,141ක් එක්සත් රාජධානියෙන් පැමිණි බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b1fbce67.json)
+
+---
+
+### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ICCයෙන් තවත් දඩයක්
+
+*2025-09-01 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214050) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට දඩයක් නියම කළ බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද (01) නිවේදනය කළේය.
+
+ඒ, ශ්‍රී ලංකාව සහ සිම්බාබ්වේ කණ්ඩායම අතර පැවති දෙවන එක්දින තරගයේදී නියමිත කාලය තුළ පන්දුවාර සංඛ්‍යාව යවා නොතිබීම හේතුවෙනි.
+
+ඒ අනුව තරග ගාස්තුවෙන් සියයට පහක දඩයක් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මෙලෙස නියම කර තිබේ.
+
+ක්‍රීඩකයින් සහ ක්‍රීඩක සහායක පිරිස් සඳහා වන ICC චර්යාධර්ම සංග්‍රහයේ 2.22 වගන්තියට අනුව මෙම දඩයක් නියම කර ඇත.
+
+නායක චරිත් අසලංක වරදට වරද පිළිගෙන ඇති අතර යෝජිත දඬුවම පිළිගෙන ඇති බැවින් විධිමත් විභාගයක් සිදු නොවූ බව ICC නිවේදනයක් නිකුත් කරමින් කියා සිටියේය.
+
+පිටියේ විනිසුරුවන් වන ඉක්නෝ චාබි සහ රිචඩ් කෙට්ල්බරෝ, තුන්වන විනිසුරු පර්සිවල් සිසාරා සහ සිව්වන විනිසුරු ෆෝස්ටර් මුටිස්වා චෝදනාව එල්ල කළහ.
+
+◼️
+
+[Data](articles/0cfc8c5d.json)
+
+---
 
 ### කුඩා ලොරියක් දුම්රියේ ගැටෙයි - දියණියක් ඇතුළු පවුලක්ම රෝහලේ
 
@@ -47,6 +145,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2372a5ce.json)
+
+---
+
+### இந்திய நிதியமைச்சர் நிர்மலா சீத்தாராமனுடன் பாத்பைன்டர் பவுன்டேஷன் ஸ்தாபகர் மிலிந்த மொரகொட சந்திப்பு
+
+*2025-09-01 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/223968) · `ta`
+
+பாத்பைன்டர் பவுன்டேஷனின் ஸ்தாபகரும், இந்தியாவுக்கான இலங்கையின் முன்னாள் உயர்ஸ்தானிகருமான மிலிந்த மொரகொட திங்கட்கிழமை (1) இந்திய நிதியமைச்சர் நிர்மலா சீத்தாராமனை சந்தித்துக் கலந்துரையாடியுள்ளார்.
+
+இந்திய அரசியல் தலைவர்கள் மற்றும் கொள்கை வகுப்பாளர்களுடன் அண்மைக்காலத்தில் நடாத்திவரும் சந்திப்புக்களின் ஓரங்கமாகவே நிதியமைச்சர் நிர்மலா சீத்தாராமனுடனான சந்திப்பு திங்கட்கிழமை (1) புதுடில்லியில் நடைபெற்றுள்ளது.
+
+இச்சந்திப்பின்போது சமகாலத்தில் சர்வதேச பொருளாதாரத்தில் தாக்கங்களை ஏற்படுத்திவரும் பிரச்சினைகள் மற்றும் நெருக்கடிகள் குறித்தும், அவற்றின் விளைவாக எதிர்வருங்காலத்தில் ஏற்படக்கூடிய சவால்கள் குறித்தும் விசேடமாகக் கலந்துரையாடப்பட்டன.
+
+...
+
+[Data](articles/e4a1226d.json)
 
 ---
 
@@ -99,6 +213,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8eaf2648.json)
+
+---
+
+### Colombo Range DIG Uditha Liyanage further remanded
+
+*2025-09-01 18:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112078/colombo-range-dig-uditha-liyanage-further-remanded) · `en`
+
+The Deputy Inspector General (DIG) of the Colombo Range, Uditha Liyanage who was arrested by the Criminal Investigation Department (CID) in connection with allegations of aiding and abetting illegal treasure hunting, has been further remanded, Ada Derana reporter said.
+
+He was remanded by the Anuradhapura Magistrate”s Court until September 8.
+
+The CID arrested DIG Uditha Liyanage on August 25 in connection with the allegations of treasure hunting levelled against his wife, police said.
+
+The Anuradhapura Police recently arrested eight people, including a wife of a DIG, who were allegedly excavating a plot of land for treasure near a temple in Thibirikadawala, Srawasthipura.
+
+This was based on information received by the Anuradhapura Police on August 13 that a group was treasure hunting near the Ratrang Devalaya in Thibirikadawala, Srawasthipura, police said.
+
+...
+
+[Data](articles/fd3177fc.json)
 
 ---
 
@@ -167,6 +301,28 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 ◼️
 
 [Data](articles/b10d7a84.json)
+
+---
+
+### Individual arrested over Hikkaduwa shooting
+
+*2025-09-01 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112077/individual-arrested-over-hikkaduwa-shooting) · `en`
+
+A suspect has been arrested in connection with the shooting incident that occurred in Malawenna, Hikkaduwa, police stated.
+
+A firearm used in the incident has also been taken into police custody.
+
+However, the gunman who carried out the shooting has not yet been apprehended, according to reports.
+
+The shooting resulted in one person being injured, who was then admitted to the hospital.
+
+According to police, two individuals who arrived on a motorcycle opened fire this afternoon (01) targeting five people who were traveling in a car.
+
+Out of the five targets, only one individual sustained injuries and has been admitted to the Balapitiya Base Hospital.
+
+◼️
+
+[Data](articles/21dd69e8.json)
 
 ---
 
@@ -275,6 +431,20 @@ According to police, two individuals who arrived on a motorcycle carried out the
 ◼️
 
 [Data](articles/f2a5dc6c.json)
+
+---
+
+### One person injured in shooting in Hikkaduwa
+
+*2025-09-01 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112076/one-person-injured-in-shooting-in-hikkaduwa) · `en`
+
+An individual has sustained injuries in a shooting incident reported this afternoon (01) in Malawenna, Hikkaduwa, police stated.
+
+According to police, two individuals who arrived on a motorcycle carried out the shooting and fled the scene.
+
+◼️
+
+[Data](articles/f6d19f35.json)
 
 ---
 
@@ -553,6 +723,40 @@ President Anura Kumara Dissanayake also emphasized that the government is commit
 ...
 
 [Data](articles/c2b404b8.json)
+
+---
+
+### එක්ස්ප්‍රස් පර්ල් වන්දි ගෙවූ ආකාරය පිළිබඳ සාකච්ඡාවක්
+
+*2025-09-01 16:18:02* · [`adalk`](https://www.ada.lk/breaking_news/එක්ස්ප්‍රස්-පර්ල්-වන්දි-ගෙවූ-ආකාරය-පිළිබඳ-සාකච්ඡාවක්/11-418203) · `si`
+
+එක්ස්ප්‍රස් පර්ල්  (X – Press Pearl) නෞකාවෙන් සිදුවූ හානිය සම්බන්ධයෙන් ලැබුණු වන්දි මුදල් ධීවර වන්දි ගෙවීමට සහ වෙරළ සංරක්ෂණයට යෙදවීම සිදු වූ ආකාරය පිළිබඳ පරිසරය, කෘෂිකර්මය සහ සම්පත් තිරසාරත්වය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය යොමු විය.
+
+මේ අනුව මේ වන විට ලැබී ඇති වන්දි මුදල් ප්‍රමාණය සහ ඒවායින් ධීවරයන්ට වන්දි වශයෙන් ගෙවා ඇති මුදල් ප්‍රමාණය, වෙරල ආරක්ෂණය වෙනුවෙන් වියදම් කර ඇති මුදල් ප්‍රමාණය සහ මේ වන විට ඉතිරි වී ඇති මුදල් ප්‍රමාණය සම්බන්ධයෙන් සවිස්තර වාරතාවක් කාරක සභාවට ලබාදෙන ලෙසද මෙහිදී කාරක සභාව විසින් නිර්දේශ කරන ලදි.
+
+මේ පිළිබඳ අවධානය යොමු වූයේ පරිසරය, කෘෂිකර්මය සහ සම්පත් තිරසාරත්වය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී හෙක්ටර් අප්පුහාමි මහතාගේ සභාපතිත්වයෙන් පසුගියදා (21) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/38197f30.json)
+
+---
+
+### Vehicular movement restricted between Devi Balika Roundabout and DS Junction in Borella from 7pm
+
+*2025-09-01 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112069/vehicular-movement-restricted-between-devi-balika-roundabout-and-ds-junction-in-borella-from-7pm) · `en`
+
+Vehicular movement will be restricted from 7:00 p.m. today (01), on a stretch of the entry road to Colombo from the Devi Balika Roundabout to the D.S. Senanayake Junction with the Borella Police Division.
+
+The Police Media Division attributed the road closure to the repair work to be conducted between the Devi Balika Roundabout to the D.S. Senanayake Junction.
+
+The road has been closed sporadically in the past few days due to the risk of cracks, subsidence, and the inflow of sewage onto the roadway.
+
+Police accordingly request motorists using the road to seek alternative routes. However, traffic exiting Colombo along the road will continue to operate as normal, it said.
+
+◼️
+
+[Data](articles/5801337a.json)
 
 ---
 
@@ -1545,211 +1749,5 @@ Accordingly, the Public Health Inspectors submitted to the House Committee a det
 ◼️
 
 [Data](articles/4f8f74ae.json)
-
----
-
-### ஆப்கான் நிலநடுக்கத்தில் 500க்கும் மேற்பட்டோர் பலி
-
-*2025-09-01 11:18:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கான்-நிலநடுக்கத்தில்-500க்கும்-மேற்பட்டோர்-பலி/50-363832) · `ta`
-
-கிழக்கு ஆப்கானிஸ்தானில் ஞாயிற்றுக்கிழமை (31) அன்று 6.0 ரிக்டர் அளவிலான நிலநடுக்கம் ஏற்பட்டதில் 500க்கும் மேற்பட்டோர் உயிரிழந்துள்ளனர் மற்றும் சுமார் 1,000க்கும் மேற்பட்டோர் பேர் காயமடைந்தனர் என்று அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-அந்நாட்டின் நகங்கர் மாகாணம் ஜலாலாபாத்தை மையமாக கொண்டு 8 கிலோ மீட்டர் ஆழத்தில் இந்த நிலநடுக்கம் ஏற்பட்டது.
-
-இந்த நிலநடுக்கம் ரிக்டர் அளவில் 6.0 ஆக பதிவானது.நிலநடுக்கத்தால் வீடுகள், கட்டிடங்கள் அதிர்ந்தன. இரவு மக்கள் உறங்கிக்கொண்டிருந்த நேரத்தில் ஏற்பட்ட நிலநடுக்கத்தால் பலரும் பதற்றத்துடன் வீடுகளை விட்டு வெளியேறி சாலைகளில் தஞ்சமடைந்தனர். இந்த நிலநடுக்கம் ஏற்பட்ட 20 நிமிடம் கழித்து அதே மாகாணத்தில் மீண்டும் நிலநடுக்கம் ஏற்பட்டது.
-
-இந்த நிலநடுக்கம் ரிக்டர் அளவில் 4.5 ஆக பதிவானது. அடுத்தடுத்து 2 நிலநடுக்கத்தால் நகங்கர் மாகாணத்தில் மக்கள் அஞ்சமடைந்துள்ளனர்.
-
-...
-
-[Data](articles/c01b490b.json)
-
----
-
-### ஆப்கானிஸ்தான் நிலநடுக்கத்தில் 500 பேர் பலி
-
-*2025-09-01 11:18:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தான்-நிலநடுக்கத்தில்-500-பேர்-பலி/50-363832) · `ta`
-
-கிழக்கு ஆப்கானிஸ்தானில் ஞாயிற்றுக்கிழமை (31) அன்று 6.0 ரிக்டர் அளவிலான நிலநடுக்கம் ஏற்பட்டதில் 500க்கும் மேற்பட்டோர் உயிரிழந்துள்ளனர் மற்றும் சுமார் 1,000க்கும் மேற்பட்டோர் பேர் காயமடைந்தனர் என்று அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-அந்நாட்டின் நகங்கர் மாகாணம் ஜலாலாபாத்தை மையமாக கொண்டு 8 கிலோ மீட்டர் ஆழத்தில் இந்த நிலநடுக்கம் ஏற்பட்டது.
-
-இந்த நிலநடுக்கம் ரிக்டர் அளவில் 6.0 ஆக பதிவானது.நிலநடுக்கத்தால் வீடுகள், கட்டிடங்கள் அதிர்ந்தன. இரவு மக்கள் உறங்கிக்கொண்டிருந்த நேரத்தில் ஏற்பட்ட நிலநடுக்கத்தால் பலரும் பதற்றத்துடன் வீடுகளை விட்டு வெளியேறி சாலைகளில் தஞ்சமடைந்தனர். இந்த நிலநடுக்கம் ஏற்பட்ட 20 நிமிடம் கழித்து அதே மாகாணத்தில் மீண்டும் நிலநடுக்கம் ஏற்பட்டது.
-
-இந்த நிலநடுக்கம் ரிக்டர் அளவில் 4.5 ஆக பதிவானது. அடுத்தடுத்து 2 நிலநடுக்கத்தால் நகங்கர் மாகாணத்தில் மக்கள் அஞ்சமடைந்துள்ளனர்.
-
-...
-
-[Data](articles/d09a1b7e.json)
-
----
-
-### Two suspects arrested with ‘hashish’ worth Rs. 10million
-
-*2025-09-01 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112052/two-suspects-arrested-with-hashish-worth-rs-10million) · `en`
-
-Two individuals have been arrested with a large consignment of ‘hashish’ worth approximately Rs. 10 million, the Mount Lavinia Divisional Crime Detective Bureau said.
-
-Police have also seized 1.05 kilograms of hashish along with Rs. 10 million in cash, suspected to have been earned through drug trafficking, from the possession of the two suspects.
-
-Based on a tip-off received by the OIC of the Mount Lavinia Divisional Crime Detective Bureau, one suspect was arrested for smuggling hashish under the guise of operating an apparel factory.
-
-Preliminary investigations revealed that the operation was being conducted from a house rented for Rs. 30,000 per month in Ratmalana.
-
-During a search of the house, police arrested another suspect and discovered a one-kilogram packet of hashish concealed in a cupboard.
-
-◼️
-
-[Data](articles/7b8378b2.json)
-
----
-
-### නීතිය නවන්නේ නෑ, නීතිය ක්‍රියාත්මක කරනවා
-
-*2025-09-01 11:12:11* · [`adalk`](https://www.ada.lk/breaking_news/නීතිය-නවන්නේ-නෑ--නීතිය-ක්‍රියාත්මක-කරනවා/11-418191) · `si`
-
-මෙවර යල කන්නයේ දී මේ වන විට වී කිලෝග්‍රෑම් එකක් රුපියල් 120 බැගින් මෙට්‍රික් ටොන් 40,000ක් රජය මිලදීගෙන අවසන් කර ඇත. තවද රජය විසින් වී මෙට්‍රික් ටොන් 1,20,000ක් මිලදී ගැනීමට කටයුතු කරන අතර, ඒ සඳහා අවශ්‍ය මුදල් ද වෙන් කර තිබේ. එහෙත් ඉදිරියේදී වෙළඳපොලේ සහල් හිඟයක් ඇති කරමින් සිදු කරන ජාවාරම් ක්‍රියාත්මක වුවහොත්, ඒ පිළිබඳව අවශ්‍ය තීරණ ගනු ලබන බව වෙළඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා සඳහන් කළේය.
-
-ඒ අනුව අනුරාධපුර නගරයේ මාර්ග සංවර්ධනය ආරම්භ කරමින් අනුරාධපුර නගර සභා බලප්‍රදේශයේ පවිත්‍රපුර මීටර් 800කින් පමණ යුතු මාර්ගය රුපියල් මිලියන 33ක වියදමින් සංවර්ධනය කිරීමේ අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
-
-ජනාධිපති ලේකම් කාර්යාලයට ලැබෙන පැමිණිලි අනුව රජය නීතිය ක්‍රියාත්මක කරනවා මිසක් කිසිවිටෙක දේශපාලන පළිගැනීම් සිදු නොකරන බවත් විදුලි බල මණ්ඩලය කිසිවිටෙක පෞද්ගලීකරණය හෝ විකිණීමට කටයුතු නොකරන බවත් වසන්ත සමරසිංහ අමාත්‍යවරයා පවසයි.
-
-...
-
-[Data](articles/cf571337.json)
-
----
-
-### ஹமாஸ் ஆயுதப் பிரிவின் செய்தித் தொடர்பாளர் இஸ்ரேலின் வான் தாக்குதலில் உயிரிழப்பு !
-
-*2025-09-01 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/223900) · `ta`
-
-காசாவில் மேற்கொள்ளப்பட்ட வான்வழித் தாக்குதலில், ஹமாஸ் அமைப்பின் ஆயுதப் பிரிவின் செய்தித் தொடர்பாளர் அபு ஒபேய்தா கொல்லப்பட்டதாக இஸ்ரேல் அறிவித்துள்ளது.
-
-இஸ்ரேலின் பாதுகாப்புத் துறை அமைச்சர் இஸ்ரேல் காட்ஸ், "எந்தவித பிழையும் இன்றி கச்சிதமாகத் தாக்குதலை நடத்திய இஸ்ரேல் பாதுகாப்புப் படைக்கும் (IDF) மற்றும் ஷின் பெட் (Shin Bet) பாதுகாப்பு கட்டமைப்புக்கும் " வாழ்த்து தெரிவித்து எக்ஸ் (X) சமூக வலைத்தளத்தில் பதிவிட்டுள்ளார்.
-
-எனினும், ஹமாஸ் அமைப்பு அபு ஒபேய்தாவின் மரணத்தை இதுவரை உறுதிப்படுத்தவில்லை. காசா நகரின் அல்-ரிமால் பகுதியில் உள்ள ஒரு குடியிருப்பு கட்டிடத்தின் மீது இஸ்ரேல் நடத்திய வான்வழித் தாக்குதலில், பொதுமக்கள் பலர் கொல்லப்பட்டதாகவும் காயமடைந்ததாகவும் பாலஸ்தீன ஆயுதக் குழு முன்னர் தெரிவித்திருந்தது. இந்தத் தாக்குதலில் குழந்தைகள் உட்பட குறைந்தது ஏழு பேர் கொல்லப்பட்டதாகவும், 20 பேர் காயமடைந்ததாகவும் அந்நாட்டு செய்திகள் தெரிவித்துள்ளன.
-
-...
-
-[Data](articles/5647838c.json)
-
----
-
-### බස් ගාස්තුවල වෙනසක් නෑ
-
-*2025-09-01 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214026) · `si`
-
-ඉන්ධන මිල සංශෝධනය වූවද බස් ගාස්තු සංශෝධනයක් සිදු නොවන බව ජාතික ගමනාගමන කොමිශන් සභාව පවසයි.
-
-එහි අධ්‍යක්ෂ ජනරාල් නයෝමි ජයවර්ධන මහත්මිය සදහන් කළේ ප්‍රමාණවත් ඉන්ධන මිල සංශෝධනයක් සිදු නොවීම හේතුවෙන් මෙම තීරණය ගෙන ඇති බවය.
-
-ඊයේ මධ්‍යම රාත්‍රීයේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන වර්ග කිහිපයක මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගනු ලැබුවේය.
-
-ඒ අනුව රුපියල් 305ක මිලකට පැවති ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 6කින් පහළ දමා ඇති අතර එහි නව මිල වන්නේ රුපියල් 299කි.
-
-රුපියල් 289ක මිලකට පැවති ලංකා සුදු ඩීසල් ලීටරයක් රුපියල් 6කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 283ක් වේ.
-
-ලංකා සුපිරි ඩීසල් ලීටරයක් රුපියල් 325ක මිලකට පැවති අතර එය රුපියල් 12කින් පහත දමා තිබේ.
-
-කෙසේවෙතත් ඔක්ටේන් 95 වර්ගයේ පෙට්‍රල් සහ භූමිතෙල් මිල ගණන් සංශෝධනය නොවන බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සදහන් කළේය.
-
-මේ අතර ඉන්ධන මිල අඩු කළ ද ත්‍රීරෝද රථ ගාස්තු අඩු කිරීමේ හැකියාවක් නොමැති බව සමස්ත ලංකා ත්‍රීරෝද රථ රියදුරන්ගේ වෘත්තීය සමිතියේ සභාපති ලලිත් ධර්මසේකර මහතා පැවසුවේය.
-
-◼️
-
-[Data](articles/a6b26b0f.json)
-
----
-
-### President Anura Kumara in Jaffna to inaugurate several development projects
-
-*2025-09-01 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112051/president-anura-kumara-in-jaffna-to-inaugurate-several-development-projects) · `en`
-
-President Anura Kumara Dissanayake is scheduled to participate today (01) in several events to inaugurate and commence work on new development projects in Jaffna.
-
-The third phase of the project to develop the Myliddy Fisheries Harbour in Jaffna will be inaugurated this morning (01) under the patronage of the President, the President’s Media Division said.
-
-Under this phase, essential facilities such as water, electricity, fuel, cold storage, net-mending centers, auction halls, and radio communication centers are planned to be provided for the fishing community in the Northern Province, as well as for fishing vessels arriving from the Eastern and Southern Provinces.
-
-Following the inauguration of the fisheries harbour project, the President is also scheduled to attend a public meeting at the same location.
-
-Meanwhile, the Jaffna Regional Office of the Department of Immigration and Emigration is also set to be officially opened today under the patronage of President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/b9eca2cd.json)
-
----
-
-### வங்கியில் 14 வருட அனுபவம்;பிச்சை எடுக்கும்  இளைஞர்
-
-*2025-09-01 11:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கியில்-14-வருட-அனுபவம்-பிச்சை-எடுக்கும்-இளைஞர்/175-363830) · `ta`
-
-பெங்களூர்: கர்நாடகாவின் பெங்களூரில் 14 வருடங்கள் வங்கித் துறையில் அனுபவம் கொண்ட ஒரு நபர், இப்போது வேலையில்லாமல் அவதிப்பட்டு வருகிறார். இதனால் வேறு வழியில்லாமல் அவர் பிச்சை எடுத்து வாழ்க்கை நடத்தும் சூழலுக்குத் தள்ளப்பட்டுள்ளார். இது தொடர்பான போட்டோ ரெட்டிட் தளத்தில் டிரெண்டாகி வருகிறது. யார் அந்த நபர்.. அவருக்கு ஏன் இதுபோல நடந்தது.. இதன் பின்னணி என்ன என்பது குறித்துப் பார்க்கலாம்.
-
-வாழ்க்கை எப்போதும் அனைவருக்கும் நியாயமானதாக இருக்காது. நாம் எதிர்பார்க்காத நேரங்களில் பல மோசமான சம்பவங்கள் நடக்கும். இதனால் நல்ல நிலையில் இருப்போர் கூட திடீரென அனைத்தையும் இழந்துவிடுவார்கள். அப்படியொரு மோசமான சம்பவம் தான் இப்போது பெங்களூரில் நடந்துள்ளது.
-
-சுமார் 14 ஆண்டுகள் அனுபவம் இருந்தும் கூட வேலையில்லாமல் பெங்களூர் இளைஞர் ஒருவர் வீதிக்கு வந்துள்ளார். ரெட்டிட் தளத்தில் இது தொடர்பான போட்டோ பகிரப்பட்டுள்ளது. பெங்களூரில் பரபரப்பான ஒரு இடத்தில் உள்ள சிக்னல் ஒன்றில் நடைபாதையில் அமர்ந்திருக்கும் ஒருவரின் இரண்டு படங்கள் அந்த நெட்டிசன் தனது ரெட்டிட் தளத்தில் வெளியிட்டிருந்தார்.
-
-...
-
-[Data](articles/1c8d3dbb.json)
-
----
-
-### Sri Lanka continues high-profile arrests amid pressure on government to deliver
-
-*2025-09-01 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-continues-high-profile-arrests-amid-pressure-on-government-to-deliver-238894/) · `en`
-
-Wickremesinghe’s arrest stirs controversy amid global call for his release
-
-Some see arrests as diversion strategy to hide under performance
-
-ECONOMYNEXT – Amid increasing public grumbling over delays in delivering on Sri Lanka President Anura Kumara Dissanayake government’s election promises on the economic front and political accountability, authorities have initiated a fresh series of arrests targeting prominent political figures, including former president Ranil Wickremesinghe, over various allegations.
-
-The crackdown underscores a commitment to addressing long-standing issues of governance and restoring public trust, analysts say.
-
-President Dissanayake’s ruling National People’s Power (NPP) in the run-up to last year’s presidential election promised investigations into a raft of past alleged corrupt deals, murders, and the Easter Sunday attack, holding wrong doers accountable, and a prosperous economy.
-
-...
-
-[Data](articles/6f58e654.json)
-
----
-
-### මවගෙන් වෙන් කෙරුණු වන අලි පැටවා උඩවලවට රැගෙන යයි
-
-*2025-09-01 10:58:48* · [`adalk`](https://www.ada.lk/uncategorized/මවගෙන්-වෙන්-කෙරුණු-වන-අලි-පැටවා-උඩවලවට-රැගෙන-යයි/1-418190) · `si`
-
-ඉදිරි පාදයේ අබාදයකට ලක්ව අවස්ථා ගණනාවකදී  කලාවැව ජාතික වන උද්‍යානයේදී ප්‍රතිකාර සිදුකරමින් සිටි වන අලි පැටවෙකු එම පැටවාගේ ආරක්ෂාව වෙනුවෙන් උඩවලව ඇත් අතුරු සෙවණට රැගෙන යාමට පණ්ඩුලගම පශු වෛද්‍ය ඒකකය පියවර ගත්තේය.
-
-පැය 6ක මෙහෙයුමකින් පසුව වන අලි රංචුව සමග සිටි මෙම වන අලි පැටවා සහ මව වනජීවී නිලධාරීන් විසින් වෙන්කර ගැනීමට දැඩි වෙහෙසක් ගැනීමට සිදු විය.එම අවස්ථා වල වන ජීවී නිලධාරීන් හට වන අලි පහරදිමටද සැරසුණු අවස්ථා දැක ගැනීමට හැකි විය.
-
-මුලිකව වන අලි පැටවාගේ මව නිර්වින්දනය  කොට පසුව පැටවාද නිර්වින්දනය  කොට පණ්ඩුලගම පශු වෛද්‍ය ඒකකයේ වෛද්‍ය චන්දන ජයසිංහ සහ උදේශිකා මධුවන්ති මහත්මියගේ අධීක්ෂණය යටතේ මෙම වන අලි පැටවා ආරක්ෂිතව එම භූමියෙන් පිටතට රැගෙන විත් මුලික ප්‍රතිකාර සිදුකොට උඩවලව ඇත් අතුරු සෙවණ වෙත රැගෙන යාමට පියවර ගැනිණ .
-
-මෙම වන අලි පැටවාගේ රෝගී තත්වයන් හා ආරක්ෂාව වෙනුවෙන් මවු ඇතින්නගෙන් වෙන් කිරීමට පියවර ගැනීමට සිදු වුන බව පණ්ඩුලගම වනජීවී ඒකකයේ  පශු වෛද්‍ය චන්දන ජයසිංහ මහතා පැවසිය
-
-◼️
-
-[Data](articles/5cc23a5f.json)
-
----
-
-### මවගෙන් වෙන් කෙරුණු වන අලි පැටවා උඩවලවට රැගෙන යයි
-
-*2025-09-01 10:58:48* · [`adalk`](https://www.ada.lk/opinion/මවගෙන්-වෙන්-කෙරුණු-වන-අලි-පැටවා-උඩවලවට-රැගෙන-යයි/2-418190) · `si`
-
-ඉදිරි පාදයේ අබාදයකට ලක්ව අවස්ථා ගණනාවකදී  කලාවැව ජාතික වන උද්‍යානයේදී ප්‍රතිකාර සිදුකරමින් සිටි වන අලි පැටවෙකු එම පැටවාගේ ආරක්ෂාව වෙනුවෙන් උඩවලව ඇත් අතුරු සෙවණට රැගෙන යාමට පණ්ඩුලගම පශු වෛද්‍ය ඒකකය පියවර ගත්තේය.
-
-පැය 6ක මෙහෙයුමකින් පසුව වන අලි රංචුව සමග සිටි මෙම වන අලි පැටවා සහ මව වනජීවී නිලධාරීන් විසින් වෙන්කර ගැනීමට දැඩි වෙහෙසක් ගැනීමට සිදු විය.එම අවස්ථා වල වන ජීවී නිලධාරීන් හට වන අලි පහරදිමටද සැරසුණු අවස්ථා දැක ගැනීමට හැකි විය.
-
-මුලිකව වන අලි පැටවාගේ මව නිර්වින්දනය  කොට පසුව පැටවාද නිර්වින්දනය  කොට පණ්ඩුලගම පශු වෛද්‍ය ඒකකයේ වෛද්‍ය චන්දන ජයසිංහ සහ උදේශිකා මධුවන්ති මහත්මියගේ අධීක්ෂණය යටතේ මෙම වන අලි පැටවා ආරක්ෂිතව එම භූමියෙන් පිටතට රැගෙන විත් මුලික ප්‍රතිකාර සිදුකොට උඩවලව ඇත් අතුරු සෙවණ වෙත රැගෙන යාමට පියවර ගැනිණ .
-
-මෙම වන අලි පැටවාගේ රෝගී තත්වයන් හා ආරක්ෂාව වෙනුවෙන් මවු ඇතින්නගෙන් වෙන් කිරීමට පියවර ගැනීමට සිදු වුන බව පණ්ඩුලගම වනජීවී ඒකකයේ  පශු වෛද්‍ය චන්දන ජයසිංහ මහතා පැවසිය
-
-◼️
-
-[Data](articles/754344fb.json)
 
 ---

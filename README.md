@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 23:19:55**
+As of **2025-09-01 23:32:35**
 
 ## Newspaper Stats
 
-*Scraped **73,602** Articles*
+*Scraped **73,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ dailyftlk | 5,198
 adalk | 7,094
 adaderanalk | 9,380
 tamilmirrorlk | 10,946
-virakesarilk | 12,050
+virakesarilk | 12,051
 adaderanasinhalalk | 12,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,602 articles have been extended.
+61,973 (84.2%) of 73,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### வெளிநாடுகளில் தொழில் செய்துவருபவர்களின் பிள்ளைகளுக்கு புலமைப்பரிசில்
+
+*2025-09-01 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223977) · `ta`
+
+வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் பதிவு செய்து வெளிநாடுகளுக்குச் சென்ற தொழிலாளர்களின் பிள்ளைகளின், பாடசாலைக் கல்விக்காக புலமைப்பரிசில் வழங்கும் திட்டம் ஒன்றை இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் மேற்கொண்டு வருகிறது. அதன் ஓர் அங்கமாக கொழும்பு மாவட்டத்தில் பதிவு செய்து வெளிநாடுகளில் தொழில் செய்துவருபவர்களின் 84 பிள்ளைகளுக்கு 2,655 மில்லியன் ரூபாய் பெறுமதியான புலமைப்பரிசில்கள் வழங்கும் நிகழ்வு சனிக்கிழமை (30) வெளிநாட்டு வேலையாப்பு பணியகத்தில் இடம்பெற்றது.
+
+இதன்  பிரகாரம்  தரம் 5 புலமைப்பரிசில் தேர்வில் தேர்ச்சி பெற்ற 17 மாணவர்களுக்கு தலா 25,000 ரூபா பெறுமதியான புலமைப்பரிசிலுக்காக  425,000 ரூபாவும், கல்விப்பொதுத்தராதர சாதாரண தர தேர்வில் தேர்ச்சி பெற்ற 45 மாணவர்களுக்கு தலா 30,000 ரூபா பெறுமதியான புலமைப்பரிசிலுக்காக 1,350,000 ரூபாவும்  உயர்தர தேர்வில் தேர்ச்சி பெற்ற 22  மாணவர்களுக்கு தலா 40,000 ரூபா  பெறுமதியான புலமைப்பரிசிலுக்காக 880,000 ரூபாவும் வழங்கி வைக்கப்பட்டது.
+
+...
+
+[Data](articles/e0c86ea3.json)
+
+---
 
 ### மூதூர் மத்திய கல்லூரியில் தீ விபத்து;கற்றல் உபகரணங்கள் எரிந்து சாம்பல்
 
@@ -980,15 +994,17 @@ It will also enhance health system resilience by upgrading laboratories, strengt
 
 *2025-09-01 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-promises-to-return-land-in-north-239031/) · `en`
 
-ECONOMYNEXT – Every plot of land in the North, which was acquired for the security forces during the war, will be released back to the people, Sri Lanka’s President Anura Dissanayake has said.
+ECONOMYNEXT – Every plot of land in the North acquired for the security forces during the war will be released back to the people, Sri Lanka’s President Anura Dissanayake has said.
 
-He said the government is committed to safeguarding the surrounding seas, islands and landmass of the country for the benefit of the people and will not allow any external force to exert influence in this regard.
+The government is committed to safeguarding the surrounding seas, islands and landmass of the country for the benefit of the people and will not allow any external force to exert influence in this regard, Dissanayake’s media division quoted him as saying.
 
-Dissanayake was speaking at the inauguration of the third phase of the Myliddy Fisheries Harbour Development Project in Jaffna.
+He was speaking at the inauguration of the third phase of the Myliddy Fisheries Harbour Development Project in Jaffna.
 
-Under the third phase of the Myliddy Fisheries Harbour Development Project, essential facilities such as water, electricity, fuel, cold storage, net-mending centres, auction halls and radio communication centres will be provided not only for the fishing community of the Northern Province but also for fishing boats arriving from the Eastern and Southern Provinces, the PMD said.
+Under the third phase of the project, water, electricity, fuel, and cold storage facilities, net-mending centres, auction halls and radio communication centres will be provided to fishermen, the PMD said.
 
-...
+The government has allocated 298 million rupees for this in the current year. (Colombo/Sep1/2025)
+
+◼️
 
 [Data](articles/852980cc.json)
 
@@ -1745,21 +1761,5 @@ The arrests were part of a joint operation conducted by Sri Lanka Police, Indone
 ...
 
 [Data](articles/937afae4.json)
-
----
-
-### ඇමති ආනන්ද විජේපාල ගැන ව්‍යාජ පුවත් සංසරණය වීම සම්බන්ධව විමර්ශනයක්
-
-*2025-09-01 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214032) · `si`
-
-මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු පිළිබඳ අමාත්‍ය ආනන්ද විජේපාල මහතාගේ ලෙස හැඟෙන ජායාරූප හා ව්‍යාජ ප්‍රවෘත්ති සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීම සම්බන්ධව විමර්ශන ආරම්භ කර ඇති බව පොලිස් මූලස්ථානය පවසයි.
-
-විදෙස් ගතව සැඟව සිට ශ්‍රී ලංකාව තුල මත්ද්‍රව්‍ය ජාවාරම හා සංවිධානාත්මක අපරාධ මෙහෙයවීම සම්බන්ධයෙන් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් කිහිප දෙනෙකු ශ්‍රී ලංකා පොලීසිය හා ඉන්දුනීසියානු පොලීසිය ඒකාබද්ධව සිදුකරන ලද මෙහෙයුමක් මගින් පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගන්නා ලදී.
-
-එම අත්අඩංගුවට පත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් පිරිස 2025.08.30 වන දින ශ්‍රී ලංකාවට රැගෙන එන ලද අතර එම අවස්ථාවේදී අදාළ මෙහෙයුමට සක්‍රීයව දායක වූ ඉන්දුනීසියානු පොලීසියේ නිලධාරින් කණ්ඩායමද දිවයිනට පැමිණියේ ය.
-
-...
-
-[Data](articles/65f8a5bd.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 21:32:32**
+As of **2025-09-01 21:50:54**
 
 ## Newspaper Stats
 
-*Scraped **73,583** Articles*
+*Scraped **73,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,093
+adalk | 7,094
 adaderanalk | 9,379
 tamilmirrorlk | 10,942
 virakesarilk | 12,049
-adaderanasinhalalk | 12,777
+adaderanasinhalalk | 12,778
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,583 articles have been extended.
+61,973 (84.2%) of 73,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ජනපති කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවක
+
+*2025-09-01 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214054) · `si`
+
+අද (01) යාපනයේ සංවර්ධන වැඩසටහන් කිහිපයක් ආරම්භ කිරීමේ සහ විවෘත කිරීමේ අවස්ථාවන්ට සහභාගී වු ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන් අනතුරුව යාපනය කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවකද නිරත විය.
+
+ධීවර, ජලජ සහ සාගර සම්පත් අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්, මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ යන මහත්වරුද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/62d089e9.json)
+
+---
 
 ### කොළඹට අනිද්දා විශේෂ රථවාහන සැලැස්මක්
 
@@ -611,6 +625,20 @@ Out of the five targets, only one individual sustained injuries and has been adm
 ◼️
 
 [Data](articles/d93108c6.json)
+
+---
+
+### කල්පිටියේ එළවළු මිල සීඝ්‍රයෙන් පහළට
+
+*2025-09-01 17:17:29* · [`adalk`](https://www.ada.lk/uncategorized/කල්පිටියේ-එළවළු-මිල-සීඝ්‍රයෙන්-පහළට/1-418206) · `si`
+
+අස්වැනු වැඩිවිමත් සමග කල්පිටිය අර්ධද්විපයෙ වගා කරනු ලබන සියලුම එළවළු නොසිතු ලෙස පහල වැටි ඇති බව වගා කරුවන් පවසයි.
+
+වගාකරුවන් පවසන්නේ මේ වන විට කල්පිටිය වගා බිම්වල වගා කරන එළවළු මිළ පහත වැටිමේන් තමන්ට ඇතැම් වගාවන් වල අස්වනු ‍නෙළීමට යන මුදලවත් නොලැබේන බවයි.
+
+◼️
+
+[Data](articles/a3490294.json)
 
 ---
 
@@ -1713,41 +1741,5 @@ Wickremesinghe, who was granted bail on August 2, was ordered to be released on 
 ◼️
 
 [Data](articles/214bcb45.json)
-
----
-
-### Child dies falling into irrigation well in Polpithigama
-
-*2025-09-01 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112056/child-dies-falling-into-irrigation-well-in-polpithigama) · `en`
-
-A six-year-old boy has died after falling into an irrigation well in Polpithigama, police stated.
-
-It is reported that the child passed away while being admitted to the Polpithigama Hospital for treatment.
-
-According to preliminary investigations, it has been revealed that the child had been playing alone when he fell into an unprotected well located behind his house.
-
-The body has been placed at the morgue of the Polpithigama Hospital.
-
-◼️
-
-[Data](articles/5ac3229c.json)
-
----
-
-### China’s Xi, Russia’s Putin share vision for new global order at security forum
-
-*2025-09-01 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112055/chinas-xi-russias-putin-share-vision-for-new-global-order-at-security-forum) · `en`
-
-Chinese President Xi Jinping urged leaders at a regional summit to leverage their “mega-scale market” on Monday, while Russian President Vladimir Putin showed support for Xi’s ambition for a new global security and economic order that poses a challenge to the United States.
-
-The Shanghai Cooperation Organisation (SCO) has set a model for a new type of international relations, Xi said in opening remarks addressing more than 20 world leaders at a two-day summit held in northern China’s port city Tianjin.
-
-“We should advocate for equal and orderly multipolarisation of the world, inclusive economic globalisation and promote the construction of a more just and equitable global governance system,” he said.
-
-“We must take advantage of the mega-scale market... to improve the level of trade and investment facilitation,” said Xi, urging the bloc to boost cooperation in fields including energy, infrastructure, science and technology, and artificial intelligence.
-
-...
-
-[Data](articles/5040a520.json)
 
 ---

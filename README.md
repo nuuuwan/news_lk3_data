@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 16:08:27**
+As of **2025-09-01 16:23:07**
 
 ## Newspaper Stats
 
-*Scraped **73,514** Articles*
+*Scraped **73,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,084
+adalk | 7,085
 adaderanalk | 9,361
-tamilmirrorlk | 10,928
+tamilmirrorlk | 10,929
 virakesarilk | 12,037
 adaderanasinhalalk | 12,762
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,514 articles have been extended.
+61,973 (84.3%) of 73,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### இவ்விருவரையும் உங்களுக்குத் தெரியுமா?
+
+*2025-09-01 16:06:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்விருவரையும்-உங்களுக்குத்-தெரியுமா/175-363862) · `ta`
+
+வெளிநாட்டில் வேலை வாங்கித் தருவதாகக் கூறி ஒரு பெண்ணிடம் ரூ. 3 மில்லியன் மோசடி செய்ததாகக் கூறப்படும் சந்தேக நபரான பெண்ணையும், கூர்மையான ஆயுதத்தால்  பெண்ணின் கழுத்தை அறுத்து கொலை செய்த சந்தேக நபரையும் கைது செய்ய பொலிஸ் தலைமையகம் பொதுமக்களின் உதவி கோருகிறது.
+
+சந்தேக நபர் தங்களிடம் ரூ. 3 மில்லியன் மோசடி செய்ததாக 5 பெண்கள் றக்வானை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டுக்கு அமைய றக்வானை பொலிஸார்  விசாரணைகளைத் தொடங்கியுள்ளது.
+
+அதன்படி, றக்வானை, பொதுப்பிட்டிய, கனடகம பகுதியைச் சேர்ந்த தலுகொட ஆராச்சிலகே ஹர்ஷனி பிரியந்திகா என்ற 40 வயதுடைய பெண்ணைப் பற்றிய தகவல் தெரிந்தவர்கள், றக்வானை பொலிஸ் நிலையத்தின் பொறுப்பதிகாரியை 071 859 1394 என்ற எண்ணில் தொடர்பு கொள்ளுமாறு பொலிஸ் தலைமையகம் கேட்டுக்கொள்கிறது.
+
+படத்தில் இருக்கும் ஆண், மத்துகம, டோலஹேனவத்தே பகுதியில் கூர்மையான ஆயுதத்தால் ஒரு பெண்ணின் கழுத்தை ஏப்ரல் 18 ஆம் திகதி அறுத்த குற்றத்திற்காக தேடப்படும் 41 வயதுடைய பிராமணகே டான் சனத் ரவீந்திர நிலந்த ஆவார் என்று பொலிஸார் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/57acc2eb.json)
+
+---
+
+### Seylan Cards collaborates with Cinnamon Hotels & Resorts hosted ‘The Gathering of Giants’ for 2nd consecutive year
+
+*2025-09-01 15:56:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
+
+Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
+
+...
+
+[Data](articles/4515484b.json)
+
+---
 
 ### බොරැල්ලේ මාර්ගයක රථවාහන ගමනාගමනය සීමා කිරීමක්
 
@@ -96,15 +126,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Seylan Cards collaborates with Cinnamon Hotels & Resorts to host ‘The Gathering of Giants’ for 2nd consecutive year
+### දෙමළ, සිංහල, මුස්ලිම් සියලුදෙනා නියෝජනය කරන ජාතික ක්‍රිකට් කණ්ඩායමක් අවශ්‍යයි
 
-*2025-09-01 15:30:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
+*2025-09-01 15:15:47* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ--සිංහල--මුස්ලිම්-සියලුදෙනා-නියෝජනය-කරන-ජාතික-ක්‍රිකට්-කණ්ඩායමක්-අවශ්‍යයි/11-418199) · `si`
 
-Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
+සිංහල, දෙමළ, මුස්ලිම් යන සියලු දෙනා නියෝජනය කරන ජාතික ක්‍රිකට් කණ්ඩායමක් අවශ්‍ය බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
 
-...
+අද දින​යේ අපි බලාපොරොත්තු වෙනවා මේ යාපනය දිස්ත්‍රික්කයේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයක් ආරම්භ කරන්න. අද ඒ සඳහා මුල්ගල් තියන්න සැලසුම් කරලා තිබෙනවා. අපිට අවශ්‍ය කුමක්ද? දෙමළ, සිංහල, මුස්ලිම් අපි සියලුදෙනා නියෝජනය කරන ක්‍රිකට් කණ්ඩායමක්. ජාතික ක්‍රිකට් කණ්ඩායමක්. අපි සියලුදෙනා එකතුවෙලා පැවීලියන් එකේ වාඩි වෙලා අපේ කණ්ඩායමට  උද්යෝගය නංවන්න අත්පුඩි ගස්සන්න අපි ලෑස්ති වෙන්න ඕනී.
 
-[Data](articles/4515484b.json)
+අපේ ​අපේක්ෂාව යළි අපේ රටේ කෙදිනකවත් කවර වර්ගයේවත් යුධ ගැටුමක් ඇති නොවී තිබෙන්න. අපි සහෝදරත්වයෙන් සමගියෙන් ජීවත් වෙන්න ඕනී.
+
+◼️
+
+[Data](articles/38cb14f7.json)
 
 ---
 
@@ -1749,35 +1783,5 @@ The fault line extends westward to Herat, making the country particularly vulner
 ...
 
 [Data](articles/721bb7ac.json)
-
----
-
-### වෙන්නප්පුවේ ඝාතකයන් පැය 24ක් යන්නත් කලින් අල්ලයි
-
-*2025-09-01 07:34:30* · [`adalk`](https://www.ada.lk/breaking_news/වෙන්නප්පුවේ-ඝාතකයන්-පැය-24ක්-යන්නත්-කලින්-අල්ලයි/11-418183) · `si`
-
-වෙන්නප්පුව පොලිස් වසමේ වැව පාර ප්‍ර දේශයේදී ඊයේ (31) මෝටර් රථයකින් පැමිණි පුද්ගලයන් තිදෙනෙක් විසින් යතුරුපැදියකින්
-
-ගමන් කරමින් සිටි පුද්ගලයන් දෙදෙනෙක් අනතුරට ලක් කර තියුණු ආයුධ වලින් පහරදී සිදුකළ වෙඩි තැබීමකින් එක් පුද්ගලයෙක්
-
-මෙම අපරාධය සිදු කර පළා යමින් සිටි එක් සැකකරුවෙක් අපරාධය සිදු වී සුළු මොහොතකින් වෙන්නප්පුව පොලිස් ස්ථානය මගින් අත්අඩංගුවට ගෙන සිදුකර කවැඩි දුර විමර්ශනයේදී එම පොලිස් ස්ථානයේම නිලධාරීන් කණ්ඩායම්ක සිදුකළ මෙහෙයෙමුවකදී මෙම අපරාධයට සම්බන්ධ අනෙක් සැකකරුවන් දෙදෙනාද අත්අඩංගුවට ගෙන තිබේ.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුද් 26 හා 29 වයස්හි පසුවන වෙන්නප්පුව පදිංචිකරුවන් වෙයි.
-
-◼️
-
-[Data](articles/1de3783c.json)
-
----
-
-### ඩීසල් හා පෙට්‍රල් මිල පහළට
-
-*2025-09-01 07:24:40* · [`adalk`](https://www.ada.lk/breaking_news/ඩීසල්-හා-පෙට්‍රල්-මිල-පහළට/11-418182) · `si`
-
-ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 6කින් හා ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් හයකින්ද පහළ දමා ඇති බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි. ඊට අමතරව සුපිරි ඩීසල් ලීටරයක මිලද රුපියල් 13කින් පහළ දමා ඇත. කෙසේ වෙතත් ඔක්ටේන් 95 පෙට්‍රල් හා භූමිතෙල් මිලෙහි වෙනසක් නොමැත.
-
-◼️
-
-[Data](articles/c33caebf.json)
 
 ---

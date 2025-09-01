@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 11:08:02**
+As of **2025-09-01 11:20:58**
 
 ## Newspaper Stats
 
-*Scraped **73,446** Articles*
+*Scraped **73,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 752
-economynextcom | 4,472
+economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,072
+adalk | 7,074
 adaderanalk | 9,347
-tamilmirrorlk | 10,909
+tamilmirrorlk | 10,911
 virakesarilk | 12,033
 adaderanasinhalalk | 12,749
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 12,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,446 articles have been extended.
+61,973 (84.4%) of 73,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### வங்கியில் 14 வருட அனுபவம்;பிச்சை எடுக்கும்  இளைஞர்
+
+*2025-09-01 11:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கியில்-14-வருட-அனுபவம்-பிச்சை-எடுக்கும்-இளைஞர்/175-363830) · `ta`
+
+பெங்களூர்: கர்நாடகாவின் பெங்களூரில் 14 வருடங்கள் வங்கித் துறையில் அனுபவம் கொண்ட ஒரு நபர், இப்போது வேலையில்லாமல் அவதிப்பட்டு வருகிறார். இதனால் வேறு வழியில்லாமல் அவர் பிச்சை எடுத்து வாழ்க்கை நடத்தும் சூழலுக்குத் தள்ளப்பட்டுள்ளார். இது தொடர்பான போட்டோ ரெட்டிட் தளத்தில் டிரெண்டாகி வருகிறது. யார் அந்த நபர்.. அவருக்கு ஏன் இதுபோல நடந்தது.. இதன் பின்னணி என்ன என்பது குறித்துப் பார்க்கலாம்.
+
+வாழ்க்கை எப்போதும் அனைவருக்கும் நியாயமானதாக இருக்காது. நாம் எதிர்பார்க்காத நேரங்களில் பல மோசமான சம்பவங்கள் நடக்கும். இதனால் நல்ல நிலையில் இருப்போர் கூட திடீரென அனைத்தையும் இழந்துவிடுவார்கள். அப்படியொரு மோசமான சம்பவம் தான் இப்போது பெங்களூரில் நடந்துள்ளது.
+
+சுமார் 14 ஆண்டுகள் அனுபவம் இருந்தும் கூட வேலையில்லாமல் பெங்களூர் இளைஞர் ஒருவர் வீதிக்கு வந்துள்ளார். ரெட்டிட் தளத்தில் இது தொடர்பான போட்டோ பகிரப்பட்டுள்ளது. பெங்களூரில் பரபரப்பான ஒரு இடத்தில் உள்ள சிக்னல் ஒன்றில் நடைபாதையில் அமர்ந்திருக்கும் ஒருவரின் இரண்டு படங்கள் அந்த நெட்டிசன் தனது ரெட்டிட் தளத்தில் வெளியிட்டிருந்தார்.
+
+...
+
+[Data](articles/1c8d3dbb.json)
+
+---
+
+### Sri Lanka continues high-profile arrests amid pressure on government to deliver
+
+*2025-09-01 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-continues-high-profile-arrests-amid-pressure-on-government-to-deliver-238894/) · `en`
+
+Wickremesinghe’s arrest stirs controversy amid global call for his release
+
+Some see arrests as diversion strategy to hide under performance
+
+ECONOMYNEXT – Amid increasing public grumbling over delays in delivering on Sri Lanka President Anura Kumara Dissanayake government’s election promises on the economic front and political accountability, authorities have initiated a fresh series of arrests targeting prominent political figures, including former president Ranil Wickremesinghe, over various allegations.
+
+The crackdown underscores a commitment to addressing long-standing issues of governance and restoring public trust, analysts say.
+
+President Dissanayake’s ruling National People’s Power (NPP) in the run-up to last year’s presidential election promised investigations into a raft of past alleged corrupt deals, murders, and the Easter Sunday attack, holding wrong doers accountable, and a prosperous economy.
+
+...
+
+[Data](articles/6f58e654.json)
+
+---
+
+### ‘சுனாமி’: சிறை உடைப்பு வழக்கு விசாரணைக்கு வந்தது
+
+*2025-09-01 10:57:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுனாமி-சிறை-உடைப்பு-வழக்கு-விசாரணைக்கு-வந்தது/175-363829) · `ta`
+
+2004 டிசம்பர் 26, அன்று நாட்டில் பெரும் அழிவை ஏற்படுத்திய சுனாமி பேரழிவின் போது சிறையை உடைத்துக்கொண்டு தப்பிக்க முயன்ற 56 கைதிகள் மீதான வழக்கு காலி மேல் நீதிமன்ற நீதிபதி பூர்ணிமா பரணகம முன் விசாரணைக்கு வந்தது.
+
+சட்டவிரோதமாக ஒன்றுகூடியமை, சிறைச்சாலைத் துறை சொத்துக்களுக்கு சேதம் விளைவித்தல், சிறைச்சாலை அதிகாரிகள் மீது தாக்குதல் மற்றும் காவலில் இருந்து தப்பிக்க முயன்றமை ஆகிய குற்றச்சாட்டுகள் அவர்கள் மீது சுமத்தப்பட்டுள்ளன.
+
+சம்பவத்தில் தொடர்புடைய ஒன்பது சந்தேக நபர்கள் இறந்துவிட்டதாகவும், மேலும் ஆறு பேர் காணாமல் போயுள்ளதாகவும்  நீதிமன்றத்தின் கவனத்துக்கு பொலிஸார் கொண்டுவந்தனர்.  . 25 பேர் பிணையில் விடுவிக்கப்பட்ட நிலையில், 41 சந்தேக நபர்கள் மட்டுமே நீதிமன்றத்தில் ஆஜரானார்கள்.
+
+அரசு வழக்கறிஞருடன் கலந்தாலோசித்து பொது சொத்துச் சட்டத்தின் கீழ் குற்றச்சாட்டுகளை திருத்துவதற்கான சாத்தியக்கூறுகளை ஆராயுமாறு மேல் நீதிமன்ற நீதிபதி அரசு வழக்கறிஞருக்கு அறிவுறுத்தினார்.
+
+◼️
+
+[Data](articles/2100273f.json)
+
+---
 
 ### පාර්ලිමේන්තුවේ ආහාරපානවල සෞඛ්‍යාරක්ෂිත බව ඉහළ නැංවීමේ යෝජනා ඉදිරිපත් කිරීමට කමිටුවක්
 
@@ -118,6 +172,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### පාර්ලිමේන්තුවේ ආහාරපාන සෞඛ්‍යාරක්ෂිත කිරීමේ යෝජනා ගන්න කමිටුවක්
+
+*2025-09-01 10:27:02* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-ආහාරපාන-සෞඛ්‍යාරක්ෂිත-කිරීමේ-යෝජනා-ගන්න-කමිටුවක්/11-418188) · `si`
+
+පාර්ලිමේන්තුවේ ආහාරපානවල සෞඛ්‍යාරක්ෂිත බව වැඩි කිරීමට අදාළව යෝජනා ඉදිරිපත් කිරීම සඳහා කමිටුවක් පත් කිරීමට  කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පැවති ගෘහ්‍ය කාරක සභාවේදී තීරණය කෙරිණි.
+
+කථානායකවරයාගේ ඉල්ලීම පරිදි බත්තරමුල්ල සෞඛ්‍ය වෛද්‍ය නිලධාරීවරයාගේ ප්‍රධානත්වයෙන් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් පාර්ලිමේන්තු පරිශ්‍රයේ ආහාරපාන පිළියෙල කිරීමට අදාළ  මුළුතැන්ගෙය ඇතුළු ස්ථාන පරීක්ෂා කිරීම පසුගිය අප්‍රේල් මාසයේදී සිදු කෙරිණි. ඒ අනුව ඊට අදාළ නිරීක්ෂණ ඇතුළත් වාර්තාව මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් ගෘහ්‍ය කාරක සභාවට සවිස්තරාත්මකව ඉදිරිපත් කිරීම මෙහිදී සිදුවිය.
+
+...
+
+[Data](articles/7b6d812a.json)
+
+---
+
 ### அறுகம் குடாவில் கைகலப்பு ; கைதான இரு இஸ்ரேலிய பிரஜைகள் பிணையில் விடுதலை
 
 *2025-09-01 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/223893) · `ta`
@@ -135,6 +203,32 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/15f74d42.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields up
+
+*2025-09-01 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-up-238906/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted flat at 302.00/10 to the US dollar in the spot market Monday, same as Friday’s close, while bond yields were quoted higher, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.15/25 percent.
+
+A bond maturing on 15.09.2027 was quoted at 8.60/70 percent.
+
+A bond maturing on 01.07.2028 was quoted at 8.95/9.00 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.45/55 percent.
+
+A bond maturing on 15.12.2032 was quoted flat at 10.30/40 percent.
+
+The Colombo Stocks Exchange was trading in green; The ASPI was up 0.41 percent, or 86.80 points, at 21,084; the S&P SL20 was up 0.37 percent, or 22.19 points, at 6,098.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 402.5536 buying, and 413.8954 selling, and the euro was 347.1418 buying, 358.3470 selling. (Colombo/Sep1/2025)
+
+◼️
+
+[Data](articles/562972bc.json)
 
 ---
 
@@ -562,6 +656,32 @@ Meanwhile, on August 30, the Minister of Transport, Highways, Ports and Civil Av
 
 ---
 
+### Sri Lanka budget deficit down 36-pct, tax revenues up 28.2-pct
+
+*2025-09-01 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-36-pct-tax-revenues-up-28-2-pct-238888/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax revenues grew 28.2 percent to 2,534 billion rupees in the seven months to July 2025, Finance Ministry data showed, while the overall budget deficit was down 36 percent to 556.1 billion rupees.
+
+Non-tax revenues grew to 195 billion rupees from 179 billion rupees last year.
+
+Tax revenues improved to 8.3 percent of projected gross domestic product from 7.1 percent last year during the seven months.
+
+Total revenues grew 27.9 percent to 2,728.9 billion rupees up to July.
+
+Current spending grew 12.3 percent to 3,001 billion rupees, and interest costs rose 9.9 percent to 1,530 billion rupees.
+
+Current spending without interest grew 15 percent to 1,471 billion rupees, with a public sector wage increase and new hirings.
+
+The overall deficit of the budget after grants was 556.1 billion rupees down from 872.6 billion rupees.
+
+The primary balance (current and capital spending minus interest costs) widened to a surplus of 973.6 billion rupees, up from 519.4 billion rupees.
+
+...
+
+[Data](articles/6873eaf1.json)
+
+---
+
 ### 6.3 magnitude earthquake hits Afghanistan, at least 20 killed
 
 *2025-09-01 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112045/63-magnitude-earthquake-hits-afghanistan-at-least-20-killed) · `en`
@@ -739,6 +859,22 @@ One of the motorcyclists was injured and managed to flee the scene, while the ot
 ...
 
 [Data](articles/06942543.json)
+
+---
+
+### Sri Lanka cuts petrol to Rs299 a litre, diesel to Rs283
+
+*2025-09-01 06:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-petrol-to-rs299-a-litre-diesel-to-rs283-238886/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Petroleum Corporation has cut fuel prices by midnight August 31, under a pricing formula, reports said.
+
+Octane 92 petrol was cut by 06 rupees to 299 rupees from 305 rupees.
+
+Super diesel was cut by 12 rupees to 325 rupees to 313 rupees.
+
+◼️
+
+[Data](articles/e27a90a0.json)
 
 ---
 
@@ -1234,6 +1370,30 @@ Total investment goods, which are strongly linked to credit, surged 22.5 percent
 
 ---
 
+### Sri Lanka vehicle import bill $506mn to July 2025
+
+*2025-08-31 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-import-bill-506mn-to-july-2025-238877/) · `en`
+
+ECONOMYNEXT – Sri Lanka has spent 506.1 million dollars on personal vehicle imports up to July 2025, up from 34.8 million dollars last year, while another 162.2 million dollars were spent on commercial vehicles, official data showed.
+
+Total current dollar inflows to the country in the month of July alone were 2.6 billion US dollar.
+
+RELATED : Sri Lanka foreign exchange earnings $2.6bn in July, exceeds imports by $729mn
+
+Personal vehicles are classed as consumer goods, though they are usually bought with credit, which are then repaid in about 4 years.
+
+Credit allows a person or company to acquire good outside of their current earnings.
+
+Other true consumption goods are usually bought with ready cash or in some cases using past savings, which may drive up interest rates as banks try to replenish their rupee reserves.
+
+Total investment goods, which are strongly linked to credit, surged 22.5 percent to 2,217 million dollars up to July.
+
+...
+
+[Data](articles/1464ca4d.json)
+
+---
+
 ### திறந்த அரங்கில் ஹைக்கூ அமர்வு
 
 *2025-08-31 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223878) · `ta`
@@ -1685,147 +1845,5 @@ The UNP has also decided to hold the convention at a neutral location, rather th
 ◼️
 
 [Data](articles/bd4b7ede.json)
-
----
-
-### දුරකථනයෙන් කළ මරණ තර්ජනයට පද්මේ, CI ලින්ටන්ගෙන් සමාව අයැදී
-
-*2025-08-31 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214003) · `si`
-
-ශ්‍රී ලංකා පොලිසිය, ඉන්දුනීසියාවේ ජකර්තා නුවර පොලිසිය සහ ජාත්‍යන්තර පොලිසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් පසුගියදා අත්අඩංගුවට ගැනුණු සංවිධානාත්මක අපරාධකරුවන් මෙන්ම, මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, බැකෝ සමන් ඇතුළු පිරිස රැගත් ශ්‍රී ලංකන් ගුවන් යානය ඊයේ රාත්‍රි 7.30ට පමණ කටුනායක ගුවන් තොටුපොළට ළඟා විය.
-
-එම යානයේ ඉන්දුනීසියානු පොලිස් නිලධාරීන් කණ්ඩායමක්ද පැමිණි අතර, එහිදී ඔවුන්ව සහ මෙම මෙහෙයුම සිදුකළ බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල මහතා සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහකාර පොලිස් අධිකාරී මහින්ද ජයසුන්දර යන නිලධාරීන් ද පොලිසිය විසින් පිළිගත්තේය.
-
-එම අවස්ථාවේදී ගුවන් තොටුපොළට පැමිණ සිටි මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා සහ පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය මහතා ඇතුළු නිලධාරීන් විසින් මෙම මෙහෙයුමේදී දායකත්වය දැක්වූ ඉන්දුනීසියානු ආරක්ෂක අංශ සාමාජිකයින්ට තිළිණ ප්‍රදානයක් සිදුකරනු ලැබුවේය.
-
-...
-
-[Data](articles/ca8a1488.json)
-
----
-
-### රණවිරුවට රණවිරුවෙක් කියන්න ආණ්ඩුවට කොන්දක් නෑ
-
-*2025-08-31 19:26:10* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවට-රණවිරුවෙක්-කියන්න-ආණ්ඩුවට-කොන්දක්-නෑ/11-418180) · `si`
-
-‘අපරාධ කරුවෙක් ජාත්‍යන්තර පොලිසියෙන් අත්අඩංගුවට අරන් ලංකාවට ගේනකොට ඒක මහා වීර ක්‍රියාවක් විදිහට සලකන ආණ්ඩුවට කොන්දක් නෑ රණවිරුවට රණවිරුවෙක් කියන්න. යැයි ශ්‍රී ලංකා පොදු ජන පෙරමුණේ ජාතික සංවිධායක හා පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා නාඋල දී කියා අද (31) කියා සිටියේය.
-
-‘නාමල් ගමෙන් ගමට - ගමේ බලය පොහොට්ටුවට ‘ මැයෙන් සංවිධාන කර තිබු මෙම වැඩසටහන නාඋල පුබිබ්ලිය සුදර්ශනාරාම විහාරස්ථානයේ ඉදිරිපිට දී පැවැත්විනි.
-
-එහි දි වැඩිදුරටත් අදහස් දැක්වු ශ්‍රී ලංකා පොදු ජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා මෙසේ ද කීය.
-
-"බලයට ආවට පස්සේ මුලින් කියපු කාරණාව නෙමෙයි කියන්නේ. එදා බලයට එනකොට ගොවියට රුපියල් 140 ත් මදි කීවා මේ ආණ්ඩුව. කිව්ව නේද ? අද ළූණු ගලවනකොට මොකක්ද කරන්නේ ළූණු ගේනවා පිටරටින් එකෙන් පහර වදින්නේ ගමේ ගොවියට. අද පාර්ලිමේන්තුවේ ඉන්න ජේ වි පි මන්ත්‍රිවරු එදා කුඹුරට බැහැලා වල් ගලවලා කෑවා.
-
-...
-
-[Data](articles/d776d66d.json)
-
----
-
-### பசறையில் வீட்டிற்குள் மர்மமான முறையில் இரு இளைஞர்கள் சடலமாக மீட்பு!
-
-*2025-08-31 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/223873) · `ta`
-
-பதுளை, பசறை, 10வது கனவா பகுதியில் உள்ள ஒரு வீட்டிற்குள் மர்மமான முறையில் இறந்த இரண்டு இளைஞர்களின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
-
-பசறை பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் நடத்தப்பட்ட விசாரணையின் போது குறித்த சடலங்கள் கண்டெடுக்கப்பட்டன.
-
-இறந்தவர்கள் 28 மற்றும் 33 வயதுடைய இரண்டு இளைஞர்கள் என்று பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d3a8fffa.json)
-
----
-
-### 5 underworld figures including ‘Kehelbaddara Padme’ detained under PTA
-
-*2025-08-31 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112037/5-underworld-figures-including-kehelbaddara-padme-detained-under-pta) · `en`
-
-Five high-profile underworld figures, including ‘Kehelbaddara Padme’, who were recently arrested in Indonesia and brought back to the island last night (30), are being detained and interrogated under the Prevention of Terrorism Act (PTA), according to Police Headquarters.
-
-The suspects are reportedly being detained and questioned under 72-hour detention orders by the Criminal Investigation Department (CID) and the Western Province North Crimes Division.
-
-On August 27, five organized criminals from Sri Lanka were arrested in Indonesia, and they were brought back to the island last night (30).
-
-At the airport, the Indonesian officers who led the arrest and repatriation of the suspects, along with the Sri Lankan officers involved in the mission, were received and acknowledged by Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, and the Inspector General of Police (IGP), Priyantha Weerasooriya.
-
-...
-
-[Data](articles/b9d5da37.json)
-
----
-
-### පස්සර නිවසකින් තරුණයින්ගේ මළ සිරුරු දෙකක් හමුවෙයි
-
-*2025-08-31 18:52:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්සර-නිවසකින්-තරුණයින්ගේ-මළ-සිරුරු-දෙකක්-හමුවෙයි/11-418179) · `si`
-
-පස්සර දහය කණුව ප්‍රදේශයේ නිවසක් තුළ තිබී අද 31  පස්වරුවේ තරුණයින් දෙදෙනෙකුගේ මළ සිරුරු දෙකක්  හමු වූ බව පස්සර පොලිසිය පැවසීය.
-
-පස්සර දහය කණුව ප්‍රදේශයේ නිවසක  මළ සිරුරු දෙක ක් තිබෙන බවට දහනමය අනුව ගිලන් රථ සේවාව මගින් ලැබුණු  තොරතුරකට අනුව ගොස් පරීක්ෂා කිරීමේදී මෙම මළ සිරුරු  දෙක හමුවූ බව පොලිසිය පැවසීය.
-
-එකම නිවසක තිබී මළ සිරුරු දෙකක් හමුවීම පිළිබඳව  පොලිසිය පුළුල් විමර්ශනයක් ආරම්භ කර තිබේ.  පස්සර පොලිසිය පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/78e6a818.json)
-
----
-
-### India committed to improving ties with China, Modi tells Xi
-
-*2025-08-31 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112036/india-committed-to-improving-ties-with-china-modi-tells-xi) · `en`
-
-Indian Prime Minister Narendra Modi said New Delhi was committed to improving ties with China in a key meeting with President Xi Jinping on Sunday, as both leaders discussed the need to expand trade and investment ties against the backdrop of U.S. tariffs.
-
-Modi is in China for the first time in seven years to attend a two-day meeting of the Shanghai Cooperation Organisation, along with Russian President Vladimir Putin and other leaders from Central, South and Southeast Asia and the Middle East, in a show of Global South solidarity.
-
-The meeting comes days after Washington imposed 50% tariffs on Indian goods in response to New Delhi’s purchase of Russian oil, a move analysts say has pushed Modi and Xi to align against Western pressures.
-
-Modi said India and China pursued strategic autonomy, and their ties should not be seen through the lens of a third country, according to an Indian foreign ministry readout of the meeting.
-
-...
-
-[Data](articles/dda10c53.json)
-
----
-
-### UNP පක්ෂ සම්මේලනය නව මුහුණුවරකින් විපක්ෂයේ දේශපාලන පක්ෂ නායකයින්ට ආරාධනා
-
-*2025-08-31 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214002) · `si`
-
-එක්සත් ජාතික පක්ෂ සම්මේලනය සඳහා විපක්ෂයේ සියලු දේශපාලන පක්ෂ නායකයින්ට ආරාධනා කිරීමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
-
-සැප්තැම්බර් මස 06 වනදා පැවැත්වීමට නියමිත පක්ෂ සම්මේලනය සඳහා වන සාකාච්ඡාවක් අද (31) පෙරවරුවේ පැවැත්විණි.
-
-එහිදී මේ සම්බන්ධයෙන් යෝජනා වී ඇති අතර අදාළ යෝජනාව එළැඹෙන 03 වැනිදා පැවැත්වෙන එක්සත් ජාතික පක්ෂ කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමට යොමු කිරීමට නියමිතව ඇත.
-
-ඒ අනුව දැනට පක්ෂය හැර ගියා සේ සලකා පක්ෂ සාමාජිකත්වය අත්හිටුවා ඇති සාමාජිකයින්ගේ තහනම ද ඉවත් කිරීමට තීරණය කර තිබේ.
-
-එමෙන්ම මෙම යෝජනාවද එක්සත් ජාතික පක්ෂ කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමට යෝජනා කෙරෙණු ඇත.
-
-ඉදිරි දින කිහිපය තුළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විපක්ෂයේ දේශපාලන පක්ෂ නායකයින්ට පෞද්ගලිකවම කතා කර පක්ෂ සම්මේලනයට සහභාගී වන ලෙස ආරාධනා කිරීමට නියමිතව තිබේ.
-
-එමෙන්ම විපක්ෂයේ නියෝජිතයින්ට සහභාගී විය හැකි පරිදි පක්ෂ සම්මේලනය සිරිකොත පක්ෂ මූලස්ථානයේ නොපවත්වා වෙනත් මධ්‍යස්ථ ස්ථානයක පැවැත්වීමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
-
-...
-
-[Data](articles/596851d7.json)
-
----
-
-### இனியபாரதியின் இருசகாக்கள் கல்முனை மற்றும்  கட்டுநாயாக்கா விமான நிலையத்தில் கைது
-
-*2025-08-31 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/223872) · `ta`
-
-இனியபாரதியின் கல்முனையைச் சோந்த சகாவான டிலக்ஷன் கல்முனையில்  வைத்து சனிக்கிழமை (30) சிஜடியினர் கைது செய்ததுடன் வெளிநாடு தப்பி ஓடமுயற்சித்த காரைதீவைச் சேர்ந்த இன்னொரு சகாவான வன்னியசிங்கம் பரமேஸ்வரன் கட்டுநாயக்கா விமான நிலையத்ததில் கடந்த இருவராங்களுக்கு முன்னர் கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
-
-ரி.எம்.வி.பி கட்சியைச் சேர்ந்த இனியபாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினரும் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவின் ஒருங்கிணைப்பாளருமான கே. புஷ்பகுமார் மற்றும் அவரது சகாவான சசீந்திரன் தவசீலன் ஆகியோரை 2007-6-28 ம் திகதி திருக்கோவில் பிரதேசசபையின் முன்னாள் தவிசாளர் உதயகுமார் படுகொலை தொடர்பாக படுகொலை செய்யப்பட்ட பிரதேசசபை தவிசாளரின் மனைவி சிஜடியிடம் முறைப்பாடு செய்திருந்தார்
-
-இதனையடுத்து சந்தேகத்தின் அடிப்படையில் கடந்த ஜூலை 6ம் திகதி திருக்கோவில் வைத்து இனியபாரதியையும் அவரது சகாவான மட்டு சந்திவெளியைச் சேர்ச்த சசிதரன் தவசீலன் என்பவரை சந்திவெளியில் வைத்து சிஜடியினர் கைது செய்தனர்.
-
-...
-
-[Data](articles/0f00efda.json)
 
 ---

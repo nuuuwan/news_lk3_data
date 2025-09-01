@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 23:32:35**
+As of **2025-09-02 00:09:16**
 
 ## Newspaper Stats
 
-*Scraped **73,603** Articles*
+*Scraped **73,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,094
-adaderanalk | 9,380
+adaderanalk | 9,381
 tamilmirrorlk | 10,946
-virakesarilk | 12,051
+virakesarilk | 12,052
 adaderanasinhalalk | 12,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,603 articles have been extended.
+61,973 (84.2%) of 73,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e6b96517.json)
+
+---
+
+### President Dissanayake visits Katchatheevu Island
+
+*2025-09-01 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112083/president-dissanayake-visits-katchatheevu-island) · `en`
+
+Following his participation today (01) in a series of inauguration and development programmes in Jaffna, President Anura Kumara Dissanayake undertook an inspection visit to Katchatheevu Island, according to the President’s Media Division (PMD).
+
+Minister of Fisheries, Aquatic and Ocean Resources, Ramalingam Chandrasekar, Minister of Public Security and Parliamentary Affairs Ananda Wijepala and Rear Admiral Buddhika Liyanagamage, Commander Northern Naval Area also joined the President on this visit.
+
+Earlier today, the programme to develop the Jaffna Library into an e-library was inaugurated and the construction of the Jaffna International Cricket Stadium was launched under the Patronage of the President.
+
+◼️
+
+[Data](articles/82a6c1bf.json)
 
 ---
 
@@ -1170,6 +1186,24 @@ President Anura Kumara Dissanayake also emphasized that the government is commit
 
 ---
 
+### நாட்டு மக்களுக்கு கச்சத்தீவை பாதுகாக்கும் பொறுப்பை நிறைவேற்றுவேன் - ஜனாதிபதி அநுரகுமார திசாநாயக்க
+
+*2025-09-01 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223949) · `ta`
+
+நாட்டு மக்களுக்கு கச்சத்தீவை பாதுகாக்கும் பொறுப்பை நிறைவேற்றுவேன். எந்தவொரு அழுத்தத்துக்கும் அடிபணிய போவதில்லை. மக்களின் முன்னேற்றத்துக்காகவே நாட்டின் வளங்கள் பயன்படுத்தப்படும், பாதுகாக்கப்படும் என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+யுத்தத்தை காரணியாக கொண்டு பெருமளவிலான காணிகள் கைப்பற்றப்பட்டு இராணுவ முகாம்கள் அமைக்கப்பட்டன. நாட்டில் யுத்த அச்சுறுத்தல் ஏதும் இனி கிடையாது. விடுவிக்க கூடிய சகல காணிகளையும் விடுவிப்பேன். வடக்கு மக்களுக்கு அவரவரின் காணி உரிமை வழங்கப்படும் எனவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+யாழ்ப்பாணம் மயிலிட்டி மீன்பிடித் துறைமுகத்தின் அபிவிருத்தி பணிகளை திங்கட்கிழமை (01)ஆரம்பித்து வைத்ததன் பின்னர் அங்கு உரையாற்றுகையில் ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
+
+விலகி மற்றும் பிரிந்திருந்த என்மை ஒன்றிணைத்த தீர்மானமிக்க தேர்தலாகவே நடைபெற்று முடிந்த பொதுத்தேர்தல் அமைந்திருந்தது. எமக்கு முன்னால் உள்ள சவால்கள்  அனைத்துக்கும் ஒன்றிணைந்தே நாம் முகங்கொடுக்க வேண்டும்.
+
+...
+
+[Data](articles/a1dbd11e.json)
+
+---
+
 ### நிலத்தை தோண்டும் போது எம்மவர்களின் எலும்புக்கூடுகள் கிடைக்கப்பெறும் ; செம்மணி மனிதப்புதைகுழி விவகாரம் சர்ச்சைக்குரியதாக உள்ளது - ஜனாதிபதி அநுரகுமார திஸாநாயக்க
 
 *2025-09-01 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223947) · `ta`
@@ -1729,37 +1763,5 @@ The petition, submitted through his legal counsel, names the Secretary to the Mi
 ◼️
 
 [Data](articles/7655955b.json)
-
----
-
-### Police launch probe into ‘fake news’ and doctored images of Public Security Minister
-
-*2025-09-01 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112063/police-launch-probe-into-fake-news-and-doctored-images-of-public-security-minister-) · `en`
-
-An investigation has been launched regarding the circulation of ‘fake news’ and doctored photographs on social media, which appear to falsely represent Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, the Police Headquarters stated.
-
-The incident follows a major joint operation conducted recently by Sri Lanka Police and the Indonesian Police, during which several members of organized crime gangs—who had been hiding overseas while continuing drug trafficking and criminal activities in Sri Lanka—were arrested in Indonesia.
-
-These suspects were brought to Sri Lanka on August 30 and a team of Indonesian police officers who actively contributed to the operation also arrived in the country.
-
-...
-
-[Data](articles/f77fa4b6.json)
-
----
-
-### Ishara Sewwandi fled the country shortly after Ganemulla Sanjeewa’s murder: CID
-
-*2025-09-01 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112062/ishara-sewwandi-fled-the-country-shortly-after-ganemulla-sanjeewas-murder-cid-) · `en`
-
-The Criminal Investigation Department (CID) has uncovered that ‘Ishara Sewwandi’, the fugitive female who alleged to have aided and abetted the murder of notorious underworld figure and drug trafficker Ganemulla Sanjeewa inside the he Hulftsdorp No. 05 Magistrate’s Court on February 19, 2025., has fled the country.
-
-This revelation was made during interrogations of Kehelbaddara Padme and others, who were recently arrested in Jakarta, Indonesia, and brought back to Sri Lanka.
-
-The arrests were part of a joint operation conducted by Sri Lanka Police, Indonesian Police, and Interpol, targeting organized criminals and drug traffickers. The group, including Kehelbaddara Padme, Commando Salintha, and Backhoe Saman, is currently being questioned under a 72-hour detention order.
-
-...
-
-[Data](articles/937afae4.json)
 
 ---

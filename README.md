@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 01:50:09**
+As of **2025-09-02 02:07:53**
 
 ## Newspaper Stats
 
-*Scraped **73,614** Articles*
+*Scraped **73,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,206
+dailyftlk | 5,209
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
@@ -26,11 +26,59 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,614 articles have been extended.
+61,973 (84.2%) of 73,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Eminent line-up to open SLEIS 2025 with focus on stability, growth
+
+*2025-09-02 01:55:40* · [`dailyftlk`](https://www.ft.lk/business/Eminent-line-up-to-open-SLEIS-2025-with-focus-on-stability-growth/34-781092) · `en`
+
+Opening session themed ‘Macroeconomic Dashboard – Stability Secured, Growth Unleashed’
+
+The Ceylon Chamber of Commerce yesterday said it would open the Sri Lanka Economic and Investment Summit 2025 (SLEIS 2025) on 2 December at the Shangri-La Colombo with an eminent line-up that sets the stage for two days of high-level dialogue.
+
+Conducted this year under the theme ‘Gateway to Growth – Asia’s Emerging Opportunity’ the day will begin with opening remarks by Ceylon Chamber Chairperson Krishan Balendra, followed by a keynote address from EDOTCO Group, Malaysia Chairman Kenneth Shen.
+
+In addition to his role as Chairman of the EDOTCO Group, Shen is also Chairman of Astro Holdings and a board member of Astro Malaysia Holdings, Malaysia’s largest content creator. With over three decades of investment experience across public and private equity, corporate finance, and capital markets, Shen brings a broad perspective on regional growth, investment flows, and strategic reform.
+
+...
+
+[Data](articles/b896e000.json)
+
+---
+
+### Solutions Ground pioneers Sri Lanka’s first CSR outsourcing model
+
+*2025-09-02 01:47:56* · [`dailyftlk`](https://www.ft.lk/business/Solutions-Ground-pioneers-Sri-Lanka-s-first-CSR-outsourcing-model/34-781091) · `en`
+
+In a novel approach that redefines Sri Lankan businesses’ approach to strategic corporate social responsibility, Solutions Ground Ltd., has unveiled the country’s first full-service CSR outsourcing model.
+
+Headquartered in Sri Lanka and operating regionally, Solutions Ground is an international boutique consultancy working at the intersection of business, policy, and sustainability. Its latest offering introduces a fully outsourced approach to CSR, giving companies access to dedicated external expertise to design, implement, communicate, and evaluate purpose-driven programs.
+
+...
+
+[Data](articles/13eea274.json)
+
+---
+
+### Sun Match Director Gowri Rajan honoured as Sri Lankan Iconic Woman 2025
+
+*2025-09-02 01:47:19* · [`dailyftlk`](https://www.ft.lk/business/Sun-Match-Director-Gowri-Rajan-honoured-as-Sri-Lankan-Iconic-Woman-2025/34-781090) · `en`
+
+Sri Lanka’s foremost respected media channel Broadcasting Corporation (SLBC), at its centenary celebration, honoured Sun Match Company Executive Director Gowri Rajan with the title of Sri Lankan Iconic Woman 2025 at BMICH. The Chief Guest was Minister of Labour Anil Jayantha Fernando.
+
+The award recognises Gowri’s outstanding leadership in making the four decades brand contemporary whilst also for the contribution to humanity as the first Female Rotary Governor of Sri Lanka.
+
+The colourful event took place at the BMICH amidst a gathering of business, Government, arts and civil society to celebrate Sri Lanka’s 100 top iconic women.
+
+...
+
+[Data](articles/dc53468d.json)
+
+---
 
 ### Brief history of Central Bank of Sri Lanka
 
@@ -1691,59 +1739,5 @@ The petition was considered today before a three-judge bench of the Supreme Cour
 ...
 
 [Data](articles/306f6be8.json)
-
----
-
-### Sri Lanka stocks close up, turnover pushed by John Keells crossing
-
-*2025-09-01 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-pushed-by-john-keells-crossing-238991/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index closed up on Monday, with turnover boosted by a crossing on John Keells Holdings, brokers said.
-
-The ASPI was up 0.31 percent, or 65.09 points, at 21,062.45; while the S&P SL20 was down 0.08 percent, or 4.97 points, 6,071.82.
-
-“The positive momentum continued with the market trading and closing above the 21,000 mark,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
-
-“This was mainly supported by a crossing on John Keells Holdings, which contributed 5.4 million rupees.”
-
-“Construction and property stocks saw increased activity mainly on the back of the positive PMI figures.
-
-Top contributors to the ASPI were Central Finance (up 6.75 rupees at 292.75), Dimo (up 149.25 rupees at 1,481.25), Melstacorp (up 1.50 rupees at 164.25), Cargills (Ceylon) (up 16 rupees at 738), and R I L Property (up 1.90 rupees at 30.90). (Colombo/Sep1/2025)
-
-◼️
-
-[Data](articles/3955e62d.json)
-
----
-
-### දෙමළ, සිංහල, මුස්ලිම් සියලුදෙනා නියෝජනය කරන ජාතික ක්‍රිකට් කණ්ඩායමක් අවශ්‍යයි
-
-*2025-09-01 15:15:47* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ--සිංහල--මුස්ලිම්-සියලුදෙනා-නියෝජනය-කරන-ජාතික-ක්‍රිකට්-කණ්ඩායමක්-අවශ්‍යයි/11-418199) · `si`
-
-සිංහල, දෙමළ, මුස්ලිම් යන සියලු දෙනා නියෝජනය කරන ජාතික ක්‍රිකට් කණ්ඩායමක් අවශ්‍ය බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-අද දින​යේ අපි බලාපොරොත්තු වෙනවා මේ යාපනය දිස්ත්‍රික්කයේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයක් ආරම්භ කරන්න. අද ඒ සඳහා මුල්ගල් තියන්න සැලසුම් කරලා තිබෙනවා. අපිට අවශ්‍ය කුමක්ද? දෙමළ, සිංහල, මුස්ලිම් අපි සියලුදෙනා නියෝජනය කරන ක්‍රිකට් කණ්ඩායමක්. ජාතික ක්‍රිකට් කණ්ඩායමක්. අපි සියලුදෙනා එකතුවෙලා පැවීලියන් එකේ වාඩි වෙලා අපේ කණ්ඩායමට  උද්යෝගය නංවන්න අත්පුඩි ගස්සන්න අපි ලෑස්ති වෙන්න ඕනී.
-
-අපේ ​අපේක්ෂාව යළි අපේ රටේ කෙදිනකවත් කවර වර්ගයේවත් යුධ ගැටුමක් ඇති නොවී තිබෙන්න. අපි සහෝදරත්වයෙන් සමගියෙන් ජීවත් වෙන්න ඕනී.
-
-◼️
-
-[Data](articles/38cb14f7.json)
-
----
-
-### மயிலிட்டியில் ஜனாதிபதிக்கு திலகமிட்டு வரவேற்பு
-
-*2025-09-01 15:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயிலிட்டியில்-ஜனாதிபதிக்கு-திலகமிட்டு-வரவேற்பு/175-363855) · `ta`
-
-மீனவ சமூகத்திற்குத் தேவையான வசதிகளை வழங்குவது அரசாங்கத்தின் பொறுப்பு என்றும், வடக்கில் மீன்பிடித் துறைமுகத்தை அபிவிருத்தி செய்வதன் மூலம் மீனவ சமூகத்திற்குத் தேவையான வசதிகளை வழங்கவும் அவர்களின் பிரச்சினைகளுக்கு தீர்வு காணவும் நடவடிக்கை மேற்கொள்ளப்படும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-யாழ்ப்பாணத்தில் மயிலிட்டி மீன்பிடித் துறைமுகத்தை அபிவிருத்தி செய்யும் திட்டத்தின் மூன்றாம் கட்டத்தை  ஆரம்பித்து வைக்கும் நிகழ்வில் இன்று (01) காலை  கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைக் கூறினார்.
-
-கடந்த அரசாங்கங்கள் போரை எதிர்பார்த்து பணியாற்றிய போதிலும், இந்த நாட்டில் மீண்டும் எந்த விதமான யுத்தமும் ஏற்படாத வகையில் நாட்டில் அமைதியையும் நல்லிணக்கத்தையும் கட்டியெழுப்ப தற்போதைய அரசாங்கம் பாடுபடுவதாகவும், கடந்த போரின் போது பாதுகாப்புப் படையினரின் பயன்பாட்டிற்காக கையகப்படுத்தப்பட்ட வடக்கில் விடுவிக்கக்கூடிய அனைத்து காணிகளும் மக்களுக்காக விடுவிக்கப்படும் என்றும் ஜனாதிபதி  தெரிவித்தார்.
-
-...
-
-[Data](articles/12294676.json)
 
 ---

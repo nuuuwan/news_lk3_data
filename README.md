@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 14:51:45**
+As of **2025-09-01 15:08:55**
 
 ## Newspaper Stats
 
-*Scraped **73,501** Articles*
+*Scraped **73,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,080
+adalk | 7,081
 adaderanalk | 9,359
 tamilmirrorlk | 10,926
 virakesarilk | 12,037
-adaderanasinhalalk | 12,757
+adaderanasinhalalk | 12,758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,501 articles have been extended.
+61,973 (84.3%) of 73,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### උතුරට ගිය ජනපතිගෙන් පොරොන්දු රැසක් - කච්චතිව් ගැනත් කියයි
+
+*2025-09-01 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214034) · `si`
+
+තවදුරටත් රට තුළ යුද අනතුරක් නොමැති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ යාපනය, මයිලිඩ්ඩි ධීවර වරාය සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ තුන්වන අදියර ආරම්භ කිරීමේ අවස්ථාවට අද (01) පෙරවරුවේ එක්වෙමිනි.
+
+මයිලිඩ්ඩි ධීවර වරාය සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ තුන්වන අදියර සංකේතාත්මකව ආරම්භ කිරීම මෙහිදී ජනාධිපතිවරයා අතින් සිදු කෙරිණි.
+
+මේ යටතේ උතුරු පළාතේ ධීවර ප්‍රජාවට මෙන්ම, නැගෙනහිර සහ දකුණු පළාත්වල සිට පැමිණෙන ධීවර බෝට්ටු සඳහාද ජලය, විදුලිය, ඉන්ධන ආදී අත්‍යවශ්‍ය පහසුකම්, ශීතාගාර පහසුකම්, දැල් සැකසීමේ මධ්‍යස්ථාන පහසුකම්, වෙන්දේසි ශාලා පහසුකම් සහ ගුවන් විදුලි පණිවිඩ හුවමාරු මධ්‍යස්ථාන පහසුකම්ද සලසා දීමට සැලසුම් කර තිබේ. මේ සඳහා රජය මේ වසරේ වෙන් කර ඇති මුදල රුපියල් මිලියන 298කි.
+
+රට තුළ බෙදී සිටිය ජනතාව එකතු කිරීමට උතුරේ ජනතාව පසුගිය මහ මැතිවරණයේ දී තීරණාත්මක සාධකයක් වූ බවත්, එම එකතුවීම අනාගතයේ තවදුරටත් ශක්තිමත් කළ යුතු බවත් පැවසු ජනාධිපතිවරයා දරුවන් කිසිදාක නොබෙදී සිටිය යුතු බව ද මෙහිදී අවධාරණය කළේය.
+
+...
+
+[Data](articles/47ffafb5.json)
+
+---
 
 ### ඇෆ්ගනිස්තානයේ භූ කම්පනයෙන් මිය ගිය ගණන තවත් ඉහළට
 
@@ -869,6 +889,24 @@ Because the earthquake hit a remote mountainous area, “it will take time to ge
 ...
 
 [Data](articles/73a858c4.json)
+
+---
+
+### බෝබරුදිය ඇල්ලේ දිය නෑමට පැමිණි ගුරුවරුන් අතරින් ගුරුවරයෙක් දියේ ගිලී අතුරුදන්
+
+*2025-09-01 10:47:43* · [`adalk`](https://www.ada.lk/breaking_news/බෝබරුදිය-ඇල්ලේ-දිය-නෑමට-පැමිණි-ගුරුවරුන්-අතරින්-ගුරුවරයෙක්-දියේ-ගිලී-අතුරුදන්/11-418189) · `si`
+
+උඩුපුස්සැල්ලාව ප්‍රදේශයේ පාසලක ගුරුවරුන් පිරිසක් විනෝද චාරිකාවක පැමින ඊයේ  (31) පස්වරුවේ  බෝබුරුදීය ඇල්ලේ දියනෑමට යාමේදී එක් ගුරුවරයකු දියේ ගිලී අතුරුදන් වී ඇතයි අඹගස්දෝව පොලිසිය පවසයි .
+
+රාගල හල්ග්‍රන් ඔය ග්‍රෙස්ලින්වත්තේ පදිංචිව සිටි උඩුපුස්සැල්ලාව ඩලොස්  මහ විදුහලේ ගණිතය විෂය ඉගැන්වීම් කරමින්  සේවය කල කේ. මුගිල්දරන්  (32) නැමති ගුරුවරයකු මෙසේ දියේ ගිලී අතුරුදන් වී ඇති බව පොලිසිය කීය .මොහු එක්දරු පියෙකු බවද පොලිසිය පැවසීය .
+
+පාසලේ අටදෙනකුගෙන් සමන්විත ගුරුවරුන් කණ්ඩායමක් ඊයේ    (31) බෝබුරු දිය ඇල්ල නැරැඹීමට විනෝද චාරිකාවක පැමින ඇති බවත් , ඔවුන් බෝබුරුදියඇල්ලට බැස දියනෑමට යාමේදී මෙසේ එක් ගුරුවරයකු දියේ ගිලී අතුරුදන් වී ඇතයි පොලිසිය සදහන් කලේය .
+
+දියේ ගිලී අතුරුදන් වූ ගුරුවරයා සොයා නුවරඑළිය පොලිස් ජීවිත ආරක්ශක ඒකකයේ නිළධාරින් ,අඹගස්දෝව පොලිසිය , ප්‍රදේශවාසීන් එක්වී මෙහෙයුම් කටයුතු සිදු කලත් ඊයේ  (31) රාත්‍රි වනතෙක් අතුරුදන් වූ ගුරුවරයා සොයා ගැනිමට නොහැකි වූ බවත් පොලිසිය පැවසීය .
+
+...
+
+[Data](articles/61cff352.json)
 
 ---
 
@@ -1803,39 +1841,5 @@ Katz warned on Sunday that many more of Obeida’s “criminal partners” would
 ◼️
 
 [Data](articles/9e1b42bd.json)
-
----
-
-### Secretary to the President meets Chair of Transparency International
-
-*2025-09-01 06:17:47* · [`dailyftlk`](https://www.ft.lk/news/Secretary-to-the-President-meets-Chair-of-Transparency-International/56-781054) · `en`
-
-Transparency International Chair François Valérian commends Govt. for establishment of Internal Affairs Units to prevent corruption at public institutions
-
-Secretary to the President Dr. Nandika Sanath Kumanayake last week met with Transparency International Chair François Valérian, who is currently on a brief visit to Sri Lanka.
-
-During the discussion, Dr. Kumanayake highlighted the Government’s ongoing efforts to combat corruption in both the public and private sectors. He noted that several new initiatives had been launched, with significant progress already recorded in strengthening anti-corruption mechanisms.
-
-He further emphasised that plans were underway to raise public awareness on bribery and corruption, with the broader aim of eliminating corrupt practices, ensuring effective utilisation of public funds, and fostering a culture of integrity in the country.
-
-...
-
-[Data](articles/1ba15a36.json)
-
----
-
-### President’s Fund recognises A-Level high-flyers in North Central Province
-
-*2025-09-01 06:15:50* · [`dailyftlk`](https://www.ft.lk/news/President-s-Fund-recognises-A-Level-high-flyers-in-North-Central-Province/56-781053) · `en`
-
-A ceremony to honour the top performers in the 2023/2024 G.C.E. Advanced Level (A-Level) examinations at the district level, sponsored by the President’s Fund, was held yesterday at the Anuradhapura Central College auditorium. The event was chaired by Speaker of Parliament Dr. Jagath Wickramaratne.
-
-During the ceremony, 241 students from the Anuradhapura and Polonnaruwa districts who secured positions 1 to 10 across all six subject streams in the 2023 and 2024 A-Level examinations were awarded certificates and an incentive payment of Rs. 100,000 each. The total expenditure for this initiative by the President’s Fund was Rs. 24.1 million, the President’s Media Division said.
-
-Senior Additional Secretary to the President and President’s Fund Secretary Roshan Gamage delivered the welcome address and outlined the objectives of the program.
-
-...
-
-[Data](articles/60586f1d.json)
 
 ---

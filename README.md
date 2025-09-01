@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 12:54:02**
+As of **2025-09-01 13:08:10**
 
 ## Newspaper Stats
 
-*Scraped **73,474** Articles*
+*Scraped **73,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,077
+adalk | 7,078
 adaderanalk | 9,347
 tamilmirrorlk | 10,922
 virakesarilk | 12,033
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,754
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,474 articles have been extended.
+61,973 (84.3%) of 73,475 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,7 +64,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### රෝහලින් පිටව ගිය හිටපු ජනපති රනිල් පළමු ප්‍රකාශයක්
+### රෝහලෙන් පිටව ගිය හිටපු ජනපති රනිල්ගෙන් පළමුවරට ප්‍රකාශයක්
 
 *2025-09-01 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214029) · `si`
 
@@ -267,6 +267,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0faf0e2c.json)
+
+---
+
+### ඇෆ්ගනිස්ථානයට දැරුණු භූමිකම්පාවක්, සිය ගණනක් මරුට?
+
+*2025-09-01 11:19:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇෆ්ගනිස්ථානයට-දැරුණු-භූමිකම්පාවක්--සිය-ගණනක්-මරුට-/11-418192) · `si`
+
+ඇෆ්ගනිස්ථානයේ කඳුකර ප්‍ර දේශයක සිදුව ඇති රික්ටර් මාපාංක 6.2ක දරුණු භූමිකම්පාවක් හේතුවෙන් පුද්ගලයන් සිය ගණනක් ජීවිතක්ෂයට පත්ව ඇති බවට සැක පළකරයි. මේ වන විටත් මිය ගිය 20කට ආසන්න පිරිසකගේ සිරුරු සොයාගෙන තිබේ.
+
+කඳුකර ප්‍ර දේශයක මෙම භූමිකම්පාව සිදුව ඇති හෙයින් සහන කණ්ඩායම්වලට එම ස්ථානයට ළඟා වීමට බාධා සිදුව තිබේ.
+
+ඇෆ්ගනිස්ථානය මේ වන විට තලේබාන් පාලනය යටතේ පවතින අතර භූමිකම්පාවෙන් පීඩාවට පත් පිරිසට සහන සැලසීමට උපකාර කරන ලෙස ඔවුන් ජාත්‍යන්තරයෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/4f8f74ae.json)
 
 ---
 
@@ -1787,21 +1803,5 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 ...
 
 [Data](articles/4515484b.json)
-
----
-
-### SCAN launches Cassava chips range from C.W. Mackie PLC
-
-*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/scan-launches-cassava-chips-range-from-c-w-mackie-plc/) · `en`
-
-C.W. Mackie recently launched a brand-new range of cassava chips under its widely popular food and beverage brand, SCAN.
-
-C.W. Mackie is a multi-cluster, multi-channel organisation with a strong presence in its brands at every level in the market. Sunquick and SCAN Jumbo Peanut are some of the flagship brands of the SCAN Products Division of the C.W. Mackie PLC group. In 2018, C.W. Mackie PLC decided to promote its snacks category with peanut cultivation locally and process the same in a brand-new factory with cutting-edge technology located in Horana, to build a sustainable agriculture and food system in the country.
-
-Today, in its specific product category, SCAN Jumbo Peanut is the category leader with an impressive market share of over 70 percent.
-
-...
-
-[Data](articles/4dbe3897.json)
 
 ---

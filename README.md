@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 05:32:27**
+As of **2025-09-01 06:15:23**
 
 ## Newspaper Stats
 
-*Scraped **73,375** Articles*
+*Scraped **73,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
 colombotelegraphcom | 752
-economynextcom | 4,469
-islandlk | 4,513
+economynextcom | 4,472
+islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,187
+dailyftlk | 5,189
 adalk | 7,065
 adaderanalk | 9,339
 tamilmirrorlk | 10,894
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,375 articles have been extended.
+61,973 (84.4%) of 73,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### Kemcare Technologies  wins “Innovator in Cosmetic Ingredients Distribution”  Award at Iconic Awards 2025
+
+*2025-09-01 05:25:33* · [`dailyftlk`](https://www.ft.lk/business/Kemcare-Technologies-wins-Innovator-in-Cosmetic-Ingredients-Distribution-Award-at-Iconic-Awards-2025/34-781043) · `en`
+
+Kemcare Technologies Ltd. has been honoured with the “Innovator in Cosmetic Ingredients Distribution” Award at the prestigious Iconic Awards 2025, held on 20 August at the Monarch Imperial Hotel, Colombo.
+
+This recognition, presented by the German Design Council, a globally respected awarding body, marks a significant milestone for Kemcare Technologies. Being recognised both in Sri Lanka and internationally reflects their unwavering commitment to innovation, quality, and service excellence in the personal care ingredient industry.
+
+“At Kemcare, our vision is clear: Empowering Excellence in the Personal Care Industry. We extend our heartfelt gratitude to our valued clients, business partners, and our dedicated team for making this achievement possible. Your trust and support continue to inspire us to deliver world-class solutions with a focus on innovation, trust, and sustainability.”
+
+◼️
+
+[Data](articles/90e93b53.json)
+
+---
+
+### Colombo Uni. to host program on “Embodied Intelligence, Buddhist Meditation Practice, and AI Tech Entrepreneurship”
+
+*2025-09-01 05:22:43* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Uni-to-host-program-on-Embodied-Intelligence-Buddhist-Meditation-Practice-and-AI-Tech-Entrepreneurship/34-781042) · `en`
+
+Imperial College London Professor of Robotics and Morph Lab Director Prof. Thrishantha Nanayakkara
+
+The Centre for Meditation Research (CMR), Faculty of Medicine, University of Colombo, in collaboration with the Centre for Research Development and Innovation (CRDI), will host a ground-breaking program titled “Embodied Intelligence, Buddhist Meditation Practice, and AI Tech Entrepreneurship” on 10 September, at the Main Auditorium, UCFM Tower, Faculty of Medicine, University of Colombo, from 4 p.m.
+
+The keynote address will be delivered by Imperial College London Professor of Robotics and Morph Lab Director Prof. Thrishantha Nanayakkara. An internationally acclaimed scholar, Prof. Nanayakkara’s pioneering research bridges robotics, neuroscience, and human motor control. His keynote will highlight how embodied intelligence—integrating mind, body, and environment—can inform the design of ethical, human-cantered intelligent systems, drawing parallels between Buddhist meditation and robotics.
+
+...
+
+[Data](articles/655a9973.json)
+
+---
 
 ### Tom Puthiyamadam and Jayson Traxler share key insights to Grant Thornton’s acquisition of Stax
 
@@ -192,6 +224,28 @@ Parts 1 and 2 of this article highlighted two fundamental rights of taxpayers: t
 
 ### 2025-08-31 (Sunday)
 
+### Sri Lanka vehicle import bill $506mn to July 2025
+
+*2025-08-31 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-import-bill-506mn-to-july-2025-investment-goods-surge-to-2-2bn-238877/) · `en`
+
+ECONOMYNEXT – Sri Lanka has spent 506.1 million dollars on personal vehicle imports up to July 2025, up from 34.8 million dollars last year, while another 162.2 million dollars were spent on commercial vehicles, official data showed.
+
+Personal vehicles are classed as consumer goods, though they are usually bought with credit, which are then repaid in about 4 years.
+
+Credit allows a person or company to acquire good outside of their current earnings.
+
+Other true consumption goods are usually bought with ready cash or in some cases using past savings, which may drive up interest rates as banks try to replenish their rupee reserves.
+
+Total investment goods, which are strongly linked to credit, surged 22.5 percent to 2,217 million dollars up to July.
+
+In the crisis year of 2021, when macroeconomists cut rates and directed banks to lend for construction at rock bottom rates, building material imports hit 706 million dollars by July and 1.24 billion US dollars by December.
+
+...
+
+[Data](articles/0151a0dd.json)
+
+---
+
 ### திறந்த அரங்கில் ஹைக்கூ அமர்வு
 
 *2025-08-31 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223878) · `ta`
@@ -203,6 +257,144 @@ Parts 1 and 2 of this article highlighted two fundamental rights of taxpayers: t
 ◼️
 
 [Data](articles/5f60d340.json)
+
+---
+
+### Sri Lanka foreign reserves not growing, CB swaps on the rise: Kabir
+
+*2025-08-31 23:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-not-growing-cb-swaps-on-the-rise-kabir-238857/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange reserves have not grown for several months and have shown a worrying tendency to fall, opposition legislator Kabir Hashim has told parliament.
+
+“Sri Lanka’s foreign reserves have now fallen from the levels seen in October and November 2024,” Hashim said.
+
+“Our foreign reserves are not growing. It is a problem. President has said from time to time that we are saying things to frighten people. But this is the real situation.”
+
+Sri Lanka’s central bank has increased dollar swap transactions with banks, he said.
+
+In March 2025, gross official foreign reserves were 6,531 million dollars, but four months later in July 2025, reserves were down to 6,044 million dollars.
+
+Net reserves (after swaps) were down from 2,791 million dollars to 2,210 dollars, he said.
+
+The Central bank’s net foreign assets have also fallen in June, he said.
+
+“I am asking whether ‘Is this not a red light? I appreciate the work the central bank has done up to now.
+
+...
+
+[Data](articles/8c29066d.json)
+
+---
+
+### Amana Takaful Insurance shines with four Gold wins at SLIBFI Awards 2025
+
+*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/amana-takaful-insurance-shines-with-four-gold-wins-at-slibfi-awards-2025/) · `en`
+
+Amana Takaful Insurance proudly marked a remarkable milestone at the 14th Sri Lanka Islamic Banking and Finance Industry (SLIBFI) Awards 2025 held at Shangri-La Hotel, Colombo.
+
+Organized annually by UTO EduConsult and adjudicated by KPMG, the prestigious event celebrates excellence within Sri Lanka’s Islamic finance sector, bringing together leading institutions and professionals dedicated to inclusive financial services.
+
+The company was honoured with the Gold Award for Takaful Entity of the Year, recognizing its overall performance and contribution to the Takaful sector. Amana Takaful also secured the Gold Award for Islamic Finance Entity of the Year, affirming its leadership and innovation in Islamic financial services across Sri Lanka.The Gold Award for Marketing Campaign of the Year was awarded to Amana Takaful for its Telemedicine campaign, launched earlier this year.
+
+Blood donation campaign supported by Nithyakalyani Jewellery collects blood from over 100 residents
+
+...
+
+[Data](articles/0a92d9e4.json)
+
+---
+
+### Seylan Cards with Cinnamon Hotels & Resorts to host ‘The Gathering of Giants’
+
+*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
+
+Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
+
+...
+
+[Data](articles/4515484b.json)
+
+---
+
+### SCAN launches Cassava chips range from C.W. Mackie PLC
+
+*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/scan-launches-cassava-chips-range-from-c-w-mackie-plc/) · `en`
+
+C.W. Mackie recently launched a brand-new range of cassava chips under its widely popular food and beverage brand, SCAN.
+
+C.W. Mackie is a multi-cluster, multi-channel organisation with a strong presence in its brands at every level in the market. Sunquick and SCAN Jumbo Peanut are some of the flagship brands of the SCAN Products Division of the C.W. Mackie PLC group. In 2018, C.W. Mackie PLC decided to promote its snacks category with peanut cultivation locally and process the same in a brand-new factory with cutting-edge technology located in Horana, to build a sustainable agriculture and food system in the country.
+
+Today, in its specific product category, SCAN Jumbo Peanut is the category leader with an impressive market share of over 70 percent.
+
+...
+
+[Data](articles/4dbe3897.json)
+
+---
+
+### Pro Realtors Academy holds inaugural certificate awarding ceremony
+
+*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/pro-realtors-academy-holds-inaugural-certificate-awarding-ceremony/) · `en`
+
+Pro Realtors Academy, the first and only Real Estate education program in Sri Lanka by Transco Properties, celebrated the completion of its inaugural batch of students by conducting its certificate awarding ceremony recently.
+
+The event, held at the Regent Country Club Hotel in Malabe, was graced by the presence of the Chief Guest, Ruminda Randeniya – Director/CEO of Prime Group, alongside Asir Nawaz – Director/CEO of Transco Properties and Dineth Silva – Director/CEO of Transco Digital. During the event, students who had successfully completed the very first PRO Realtor course received their certificates.
+
+...
+
+[Data](articles/6ead2fd5.json)
+
+---
+
+### Sanasa General Insurance goes live on Oracle Cloud
+
+*2025-08-31 22:46:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-goes-live-on-oracle-cloud/) · `en`
+
+Sanasa General Insurance Company (SGIC) has successfully completed a significant digital transformation by migrating its core insurance application and integration services to Oracle Cloud Infrastructure (OCI). This strategic initiative was executed with the support of DMS Software Technologies, a premier Oracle partner in Sri Lanka, and was celebrated at an event at SGIC’s Colombo headquarters.
+
+DMS led the migration process, leveraging its expertise in cloud readiness and change management to ensure a smooth transition with minimal operational disruption. This move is a key part of SGIC’s broader digital roadmap to enhance its competitiveness and responsiveness in the insurance sector.
+
+...
+
+[Data](articles/81726af6.json)
+
+---
+
+### Blood donation campaign supported by Nithyakalyani Jewellery collects blood from over 100 residents
+
+*2025-08-31 22:46:00* · [`islandlk`](http://island.lk/blood-donation-campaign-supported-by-nithyakalyani-jewellery-collects-blood-from-over-100-residents/) · `en`
+
+A recent blood donation drive, hosted and organized by Nithyakalyani Jewellery, successfully collected blood from over 100 donors.
+
+The event was held in collaboration with the Rotary Club of Colombo East and the Rotaract Club of CfPS Law School, with support from the National Blood Transfusion Centre, Wellawatta Police, and the Sri Lanka Army. All donors received a token of appreciation for their contribution.
+
+The CEO of Nithyakalyani Jewellery stated that this initiative is a key part of their ongoing social welfare efforts, which also include beach clean-ups, educational support, and community renovation projects. The company has pledged to continue the blood donation campaign in the future.
+
+Amana Takaful Insurance shines with four Gold wins at SLIBFI Awards 2025
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/d09f1680.json)
+
+---
+
+### Hishan Singhawansa appointed CEO of Cinnamon Hotels & Resorts
+
+*2025-08-31 22:32:00* · [`islandlk`](http://island.lk/hishan-singhawansa-appointed-ceo-of-cinnamon-hotels-resorts/) · `en`
+
+In a move to strengthen its role in Sri Lanka’s tourism rebound, Cinnamon Hotels & Resorts has appointed Hishan Singhawansa as its new Chief Executive Officer. Singhawansa, a 17-year veteran of parent company John Keells Group, has a vision focused on scale, innovation, and consistency to position the country as a premier global destination.
+
+Key to this strategy is the landmark US$1.2 billion Cinnamon Life integrated resort in Colombo, South Asia’s largest such development, expected to create 20,000 jobs and establish the city as a regional MICE hub.
+
+Beyond infrastructure, the group is investing in talent through its Hospitality Academy, aiming to increase women’s participation to 24%, and promoting sustainability and experiential travel through initiatives like Cinnamon Nature Trails. Singhawansa emphasises that tourism should act as a catalyst for economic transformation and community empowerment.
+
+...
+
+[Data](articles/dbb06080.json)
 
 ---
 
@@ -405,6 +597,28 @@ Trump, a Republican, kicked off a wide-ranging immigration crackdown after retur
 ...
 
 [Data](articles/8f81c3b8.json)
+
+---
+
+### Sri Lanka western province officials discuss dog population management
+
+*2025-08-31 20:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-western-province-officials-discuss-dog-population-management-238716/) · `en`
+
+ECONOMYNEXT – Local councils, health officials and animal welfare organisations have met to discuss a dog population management programme for Sri Lanka’s Western Province, its governor Hanif Yusoof said.
+
+“We brought together experts, local councils, health officials and animal welfare organisations to take the next step in building a humane, sustainable, and evidence-based dog population management programme for the Western Province.”
+
+The strategy is built on the globally endorsed One Welfare model, where animal welfare, human wellbeing, and environmental sustainability go hand in hand, Yusoof said on X.
+
+– Building a shared dashboard with MOH, local councils & NGOs to ensure better collaboration and flow of information.
+
+A public education programme on responsible pet ownership and bite prevention was also planned, he said.
+
+“Mass media and social media will play a key role in shaping how our communities understand and support this work.”
+
+...
+
+[Data](articles/c77720aa.json)
 
 ---
 
@@ -1645,219 +1859,5 @@ Wang’s visit coincided with U.S. President Donald Trump’s decision to impose
 ◼️
 
 [Data](articles/05bf2ed4.json)
-
----
-
-### Air India flight returns to Delhi after ‘fire indication’ in engine
-
-*2025-08-31 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112024/air-india-flight-returns-to-delhi-after-fire-indication-in-engine) · `en`
-
-An Indore-bound Air India plane made an emergency landing in New Delhi on Sunday after being airborne for over 30 minutes as the pilot received a “fire indication” in the right engine of the aircraft, according to sources.
-
-One engine of the A320 neo aircraft was shut down and the plane landed safely at the Delhi airport, Air India said in a statement.
-
-The flight made an emergency landing at around 6:15 am and there were more than 90 people on board, a source said.
-
-The aircraft, which operated the flight AI2913, has been grounded for inspection.
-
-“Flight AI2913, operating from Delhi to Indore on August 31, air-returned to Delhi shortly after take off, as the cockpit crew received a fire indication for the right engine,” the Tata Group-owned airline said without divulging further details.
-
-Following standard procedure, the cockpit crew elected to shut down the engine and returned to Delhi where the flight landed safely, it said.
-
-...
-
-[Data](articles/7ced535c.json)
-
----
-
-### Air India flight returns to Delhi after ‘fire indication’ in engine
-
-*2025-08-31 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112024/air-india-flight-returns-to-delhi-after-fire-indication-in-engine-aircraft-grounded-for-inspection) · `en`
-
-An Indore-bound Air India plane made an emergency landing in New Delhi on Sunday after being airborne for over 30 minutes as the pilot received a “fire indication” in the right engine of the aircraft, according to sources.
-
-One engine of the A320 neo aircraft was shut down and the plane landed safely at the Delhi airport, Air India said in a statement.
-
-The flight made an emergency landing at around 6:15 am and there were more than 90 people on board, a source said.
-
-The aircraft, which operated the flight AI2913, has been grounded for inspection.
-
-“Flight AI2913, operating from Delhi to Indore on August 31, air-returned to Delhi shortly after take off, as the cockpit crew received a fire indication for the right engine,” the Tata Group-owned airline said without divulging further details.
-
-Following standard procedure, the cockpit crew elected to shut down the engine and returned to Delhi where the flight landed safely, it said.
-
-...
-
-[Data](articles/ecd58c9b.json)
-
----
-
-### Three Excise Officers arrested for soliciting Rs. 2M bribe
-
-*2025-08-31 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112023/three-excise-officers-arrested-for-soliciting-rs-2-million-bribe-posing-as-narcotics-bureau-officers) · `en`
-
-Three officers attached to the Excise Department in Chankanai have been arrested by the Northern Province Crimes Division for allegedly attempting to solicit a bribe of Rs. 2 million while claiming to be officials from the Narcotics Control Bureau.
-
-According to intelligence received by the head of the Northern Province Crimes Division, a raid was carried out last evening (29), during which the three officers were taken into custody.
-
-The incident was reported when the excise officers reportedly arrested a man found in possession of heroin along the Mathagal coastal area and claimed they were from the Narcotics Bureau.
-
-They had reportedly taken the suspect to the Excise Office in Chankanai, where they used his mobile phone to call his sister. During the call, the suspects allegedly demanded Rs. 2 million to release him.
-
-The victim’s sister informed the head of the Northern Province Crimes Division, leading to a sting operation that resulted in the arrest of the three excise officers.
-
-...
-
-[Data](articles/19a5eda3.json)
-
----
-
-### Three Excise Officers arrested for soliciting Rs. 2M bribe
-
-*2025-08-31 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112023/three-excise-officers-arrested-for-soliciting-rs-2m-bribe) · `en`
-
-Three officers attached to the Excise Department in Chankanai have been arrested by the Northern Province Crimes Division for allegedly attempting to solicit a bribe of Rs. 2 million while claiming to be officials from the Narcotics Control Bureau.
-
-According to intelligence received by the head of the Northern Province Crimes Division, a raid was carried out last evening (29), during which the three officers were taken into custody.
-
-The incident was reported when the excise officers reportedly arrested a man found in possession of heroin along the Mathagal coastal area and claimed they were from the Narcotics Bureau.
-
-They had reportedly taken the suspect to the Excise Office in Chankanai, where they used his mobile phone to call his sister. During the call, the suspects allegedly demanded Rs. 2 million to release him.
-
-The victim’s sister informed the head of the Northern Province Crimes Division, leading to a sting operation that resulted in the arrest of the three excise officers.
-
-...
-
-[Data](articles/759eb25c.json)
-
----
-
-### இந்தோனேசிய அதிகாரிகளுக்கு பாராட்டு
-
-*2025-08-31 10:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசிய-அதிகாரிகளுக்கு-பாராட்டு/175-363774) · `ta`
-
-இந்தோனேசியாவின் ஜகார்த்தாவில் இலங்கை ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளைக் கைது செய்வதற்கு உதவிய இந்தோனேசிய பொலிஸ் சிறப்புப் படை அதிகாரிகள், அவர்களை சனிக்கிழமை (30) அன்று இரவு அழைத்து வந்த அதே விமானத்தில் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தனர்,
-
-பொலிஸ் சிறப்புப் படை அதிகாரிகளுக்கு விமான நிலையத்தில் வைத்து மாலை அணிவித்து வரவேற்கப்பட்டு நினைவுப் பரிசுகள் வழங்கப்பட்டன.
-
-பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால, பொலிஸ்மா அதிபர்ல் பிரியந்த வீரசூரிய, பொலிஸ் ஊடகப் பேச்சாளர் உட்லர், பொலிஸ் சிறப்புப் படை அதிகாரிகள்   மற்றும் குற்றப் புலனாய்வுத் துறையின் உயர் அதிகாரிகள் குழுவும் இந்த நிகழ்வில் பங்கேற்றனர்.
-
-கட்டுநாயக்க விமான நிலையத்தில் உள்ள சிறப்பு விருந்தினர்கள் ஓய்வறையில் இந்தப் பாராட்டு வியாழ நடத்தப்பட்டது.
-
-◼️
-
-[Data](articles/46b4c26b.json)
-
----
-
-### ලක්ෂ 20ක අල්ලස් ගැනීමට උත්සාහ කළ සුරාබදු නිලධාරීන් තිදෙනෙකු අත්අඩංගුවට
-
-*2025-08-31 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213984) · `si`
-
-මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් බව පවසමින් ලක්ෂ 20ක අල්ලස් ලබා ගැනීමට තැත් කළ චන්කානයි හි සුරාබදු කාර්යාලයේ නිලධාරීන් තුන් දෙනෙකු උතුරු පළාත් අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-උතුරු පළාත් අපරාධ කොට්ඨාසයේ ස්ථානාධිපති එස්. සංජීව මහතාට ලැබුණු බුද්ධි තොරතුරක් අනුව ඊයේ (29) සවස සිදුකළ වැටලීමකදි මෙම තිදෙනා අත්අඩංගුවට ගෙන ඇත.
-
-අදාළ සුරාබදු නිලධාරීන් තිදෙනා මාදගල් ප්‍රදේශයේ වෙරළ තීරයකදී හොරයින් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන පසුව තමන් මත්ද්‍රව්‍ය කාර්යාංශයට අයත් බව පවසා තිබේ.
-
-පසුව ඔහුව චන්කානෙ හි පිහිටි සුරාබදු කාර්යාලය වෙත රැගෙන ගොස් ඇති අතර එහිදී ඔහු සතුව තිබූ ජංගම දුරකථනයෙන් ඔහුගේ සහෝදරිය වෙත අමතා ඇති සැකකරුවන් විසින් අදාළ පුද්ගලයා නිදහස් කිරීමට රුපියල් ලක්ෂ 20ක මුදලක් අවශ්‍ය බව පවසා තිබේ.
-
-පසුව මෙම සිද්ධිය සම්බන්ධව අදාළ කාන්තාව විසින් උතුරු පළාත් අපරාධ කොට්ඨාසයේ ස්ථානාධිපතිවරයා දැනුවත් කර ඇති අතර ඒ අනුව සිදුකළ වැටලීමකදි අදාළ සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබේ.
-
-...
-
-[Data](articles/459f326f.json)
-
----
-
-### சமன் ஏக்கநாயக்கவுக்கு சி.ஐ.டி அழைப்பு
-
-*2025-08-31 09:57:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமன்-ஏக்கநாயக்கவுக்கு-சி-ஐ-டி-அழைப்பு/175-363773) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் இங்கிலாந்து பயணம் மற்றும் வருகைக்காக அரசு நிதியைத் தவறாகப் பயன்படுத்திய குற்றச்சாட்டு குறித்து வாக்குமூலம் அளிக்க சமன் ஏக்கநாயக்கவை, திங்கட்கிழமை (01)  நாளையதினம் முன்னிலையாகுமாறு குற்றப்புலனாய்வுத் திணைக்களம் அழைப்பு விடுத்துள்ளது.
-
-◼️
-
-[Data](articles/71645b6b.json)
-
----
-
-### Govt to import 2,000 Cabs for heads of state institutions
-
-*2025-08-31 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112022/govt-to-import-2000-cabs-for-heads-of-state-institutions) · `en`
-
-Deputy Minister of Provincial Councils and Local Government Ruwan Senarath has announced that plans are underway to import 2,000 cab vehicles early next year for the use of heads of government institutions.
-
-Providing further clarification, Minister Senarath stated that in order to implement development projects at the grassroots level, it is essential to provide local government heads with the means to reach rural areas.
-
-He further said that several new projects have already been launched by resuming operations at previously inactive local government bodies.
-
-The Deputy Minister added that a number of initiatives have also been introduced with the goal of eliminating rural poverty.
-
-Deputy Minister Ruwan Senarath stated: “To implement development projects at the grassroots level, it is essential—especially for the heads of local government institutions—to have access to rural areas.
-
-...
-
-[Data](articles/e394a552.json)
-
----
-
-### கோட்டாவுக்கு சி.ஐ.டி அழைப்பு
-
-*2025-08-31 09:55:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவுக்கு-சி-ஐ-டி-அழைப்பு/175-363772) · `ta`
-
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச வாக்குமூலம் அளிக்க குற்றப் புலனாய்வுத் திணைக்களத்துக்கு அழைக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-காலி முகத்திடலில் போராட்டம் நடத்தியவர்கள் மீதான தாக்குதலைக் கட்டுப்படுத்தத் தவறியது தொடர்பாக முன்னாள் பொலிஸ் மாஅதிபர் தேசபந்து தென்னகோன் அளித்த வாக்குமூலம் தொடர்பில் கோட்டாபயவுக்கு அழைப்பு விடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c333e626.json)
-
----
-
-### யானையின் தாக்குதலில் குடும்பஸ்தர் உயிரிழப்பு
-
-*2025-08-31 09:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையின்-தாக்குதலில்-குடும்பஸ்தர்-உயிரிழப்பு/175-363771) · `ta`
-
-திருகோணமலை மாவட்டம் , சேருநுவர பொலிஸ் பிரிவுக்குட்பட்ட தங்கநகர் பகுதியில் யானையின் தாக்குதலுக்கு உள்ளாகி இரண்டு பிள்ளைகளின் தந்தை உயிரிழந்துள்ளார். இச்சம்பவம் சனிக்கிழமை (30) இடம்பெற்றுள்ளது.
-
-தங்க நகர் பகுதியைச் சேர்ந்த இராசேந்திரன் லிங்கரதன் (வயது 58) என்பவரே யானையின் தாக்குதலுக்கு உள்ளாகி உயிரிழந்துள்ளார். இரவு வயலுக்கு யானை காவலுக்குச் சென்று காலை வீடு திரும்புகையில் தோட்டம் ஒன்றுக்குள் மறைந்திருந்த யானை தாக்கி உள்ளதாக தெரிவிக்கப்படுகின்றது. மேலதிக விசாரணைகளை சேருநுவர பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-குறித்த பகுதியில் தொடர்ச்சியாக யானையின் தாக்குதலினால் பலர் உயிரிழந்து வருவதாகவும் காட்டு யானைகள் ஊருக்குள் உள்நுழைவதை கட்டுப்படுத்த முறையான திட்டங்கள் எவையும் நடைமுறைப்படுத்தப்படவில்லை எனவும் மக்கள் கவலை வெளியிடுகின்றனர்.
-
-◼️
-
-[Data](articles/fb96d748.json)
-
----
-
-### ரணில், மஹிந்த, சஜித் எவரும் எமக்கு சவால் இல்லை ; அடுத்த வருடம் மாகாண சபை தேர்தல் - பிமல் ரத்நாயக்க
-
-*2025-08-31 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223810) · `ta`
-
-திட்டமிட்டு எவரும் கைது செய்யப்படுவதில்லை. எவரும் எமக்கு அரசியல் ரீதியில் சவாலானவர்கள் அல்ல. ரணிலுடன் ஒன்றிணைந்த அனைவரும் நீதிமன்றில் வழக்குகள் உள்ளவர்கள். இவர்கள் ரணில் மீதுள்ள அன்பினால் ஒன்று சேரவில்லை. மாறாக ரணிலுக்கு எதிராக சட்டம் செயல்பட்டு உள்ளது என்றால் அடுத்தது நாங்கள் தான் என்பதை அவர்கள் அறிவார்கள் என தெரிவித்த அமைச்சர் பிமல் ரத்நாயக்க, ஓய்வுப்பெற்ற ஜனாதிபதிகளின் வரப்பிரசாதங்கள் தொடர்பான தீர்ப்பு கிடைக்கப்பெற்றுள்ளது. இந்த தீர்ப்பை இவ்வாரம் சபாநாயகர் பாராளுமன்றத்தில் அறிவிப்பார். இதன் பின்னர் ராஜபக்ஷர்கள் மீண்டும் மெதமுலனவுக்கு செல்ல நேரிடும் எனவும் அவர் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/88b2f4f9.json)
-
----
-
-### மட்டக்களப்பில் ஆர்ப்பாட்டம்...
-
-*2025-08-31 09:43:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மட்டக்களப்பில்-ஆர்ப்பாட்டம்/46-363770) · `ta`
-
-சர்வதேச வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் தினத்தையொட்டி வடக்கு , கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர் சங்கத்தின் ஏற்பாட்டில் மட்டக்களப்பு கல்லடி பாலத்துக்கு அருகில் இருந்து காந்தி பூங்காவை நோக்கி பேரணியொன்று சனிக்கிழமை (30)  நடைபெற்றது.
-
-மட்டக்களப்பு கல்லடி பழைய பாலத்திற்கு அருகில் உயிர் நீத்த உறவுகள் மற்றும் வலிந்து காணாமல் ஆக்கப்பட்டவர்களை தேடி உயிர் நீத்த உறவுகளை நினைவுகூறும் வகையில் ஈகச்சுடர் ஏற்றப்பட்டு அகவணக்கம் செலுத்தப்பட்டதை தொடர்ந்து பேரணி ஆரம்பமானது.
-
-வலிந்துகாணாமல்ஆக்கப்பட்டவர்களின் வேதனைகளையும் நீதிக்கோரிக்கையினையும் சுமந்தவாறு வாகன ஊர்தி முன்செல்ல பேரணி மட்டக்களப்பு நகரை நோக்கிச் சென்றது.
-
-ஆயிரக்கணக்கான வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள் பல்வேறு கோரிக்கைகள் அடங்கிய பதாகைகளை மற்றும் காணாமல் போன தமது உறவுகளின் புகைப்படங்களை எந்தியவாறும் இந்த ஆர்ப்பாட்டத்தில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/4c1d989a.json)
 
 ---

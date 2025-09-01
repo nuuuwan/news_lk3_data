@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 05:18:01**
+As of **2025-09-01 05:32:27**
 
 ## Newspaper Stats
 
-*Scraped **73,374** Articles*
+*Scraped **73,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 752
 economynextcom | 4,469
 islandlk | 4,513
 dailymirrorlk | 4,733
-dailyftlk | 5,186
+dailyftlk | 5,187
 adalk | 7,065
 adaderanalk | 9,339
 tamilmirrorlk | 10,894
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.5%) of 73,374 articles have been extended.
+61,973 (84.5%) of 73,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### Tom Puthiyamadam and Jayson Traxler share key insights to Grant Thornton’s acquisition of Stax
+
+*2025-09-01 05:11:28* · [`dailyftlk`](https://www.ft.lk/business/Tom-Puthiyamadam-and-Jayson-Traxler-share-key-insights-to-Grant-Thornton-s-acquisition-of-Stax/34-781041) · `en`
+
+Following Grant Thornton’s recent announcement that it will acquire Stax, Consulting Magazine took the opportunity to have a conversation with Tom Puthiyamadam, Managing Partner for Advisory Services at Grant Thornton Advisors LLC and Jayson Traxler, CEO of Stax.
+
+In this exclusive conversation, Tom and Jayson reveal the strategic rationale behind the deal, detail how their combined expertise will elevate offerings across the private equity investment lifecycle, and explain why their shared values will ensure a seamless cultural integration.
+
+They also look ahead to the next chapter of their partnership—expanding the range of services available to private equity clients and portfolio companies, and creating fresh opportunities for team members to grow within a people-focused culture both firms have worked hard to foster.
+
+Consulting: How does the acquisition of Stax fit into Grant Thornton’s strategy for its consulting practice?
+
+...
+
+[Data](articles/0cbb11af.json)
+
+---
 
 ### Sri Lanka’s Colombo Consumer Price Index based inflation back in positive territory
 
@@ -1841,19 +1859,5 @@ Deputy Minister Ruwan Senarath stated: “To implement development projects at t
 ◼️
 
 [Data](articles/4c1d989a.json)
-
----
-
-### රාජ්‍ය ආයතනවල භාවිතයට කැබ් රථ 2000ක් ආනයනයට සැලසුම්
-
-*2025-08-31 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213983) · `si`
-
-ලබන වසර මුලදී රාජ්‍ය ආයතන ප්‍රධානීන් සඳහා කැබ් රථ 2000ක් ගෙන්විමට ද සැලසුම් කර ඇති බව පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය රුවන් සෙනරත් මහතා පවසයි.
-
-ඒ පිළිබඳව වැඩිදුරටත් අදහස් දැක්වූ පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය  අමාත්‍ය රුවන් සෙනරත් මහතා,
-
-...
-
-[Data](articles/eddd1321.json)
 
 ---

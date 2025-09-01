@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 17:32:48**
+As of **2025-09-01 17:54:32**
 
 ## Newspaper Stats
 
-*Scraped **73,529** Articles*
+*Scraped **73,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,086
+adalk | 7,089
 adaderanalk | 9,361
-tamilmirrorlk | 10,933
+tamilmirrorlk | 10,934
 virakesarilk | 12,037
 adaderanasinhalalk | 12,769
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,529 articles have been extended.
+61,973 (84.3%) of 73,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### யாழில் பிராந்திய அலுவலகம் திறப்பு
+
+*2025-09-01 17:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-பிராந்திய-அலுவலகம்-திறப்பு/175-363869) · `ta`
+
+குடிவரவு குடியகல்வு திணைக்களத்தின் யாழ்ப்பாண பிராந்திய அலுவலகம் திங்கட்கிழமை (01) அன்று திறந்து வைக்கப்பட்டது.
+
+யாழ்ப்பாண மாவட்ட செயலக வளாகத்தில் அமைக்கப்பட்டுள்ள இவ் அலுவலகம் ஜனாதிபதி அனுரகுமார திசாநாயக்க அவர்களால் திறந்து வைக்கப்பட்டது.  இந்நிகழ்வில் பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் கௌரவ ஆனந்தவிஜேபால ,கடற்றொழில் நீரியல் கடல் வளங்கள் அமைச்சர் கௌரவ இராமலிங்கம் சந்திரசேகர் ,வடக்கு மாகாண ஆளுநர்கௌரவநாகலிங்கம் வேதநாயகன் ,பிரதியமைச்சர்களான சுனில்வட்டகல.   நாடாளுமன்ற உறுப்பினர்களான ம.ஜெகதீஸ்வரன், க.இளங்குமரன், எஸ்.ஸ்ரீபவானந்தராஜா,ஜெ.றஜீவன், மற்றும் சிவிகே சிவஞானம் அமைச்சின் செயலாளர்கள், பிரதமசெயலாளர் உள்ளிட்ட திணைக்களத் தலைவர்கள் கலந்து கொண்டனர்.
+
+குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகம்ஐ.சமிந்த பத்திராஜ ,யாழ்மாவட்டச் செயலாளர் மருதலிங்கம் பிரதீபன் , பிரதியமைச்சர்கள் ,யாழ்ப்பாணம் கிளிநொச்சி மாவட்ட நாடாளுமன்ற உறுப்பினர்கள் பொதுமக்கள் அரசஅதிகாரிகள் கலந்து கொண்டனர்.யாழ்மாவட்டச் செயலகத்தின் 60 ஆவதுஆண்டுபூர்த்தியை முன்னிட்டு முத்திரையும் தபால்தலையும் வெளியிடப்பட்டது
+
+◼️
+
+[Data](articles/d93108c6.json)
+
+---
 
 ### ஆப்கானிஸ்தான் பூகம்பம்: பலி 800 ஆக அதிகரிப்பு; 4500+ காயம்
 
@@ -52,9 +68,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-01 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214045) · `si`
 
-හික්කඩුව, මලවැන්න ප්‍රදේශයේදී අද (01) පස්වරුවේ සිදුවු වෙඩි තැබීමක් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+හික්කඩුව, මලවැන්න ප්‍රදේශයේදී අද (01) පස්වරුවේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා තිබේ.
 
-පොලිසිය පැවසුවේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු මෙම වෙඩි තැබීම සිදුකර පළාගොස් ඇති බවය.
+පොලීසිය පැවසුවේ, යතුරුපැදියකින් පැමිණි දෙදෙනෙකු මෙම වෙඩි තැබීම සිදුකර පලා ගොස් ඇති බවය.
 
 ◼️
 
@@ -236,6 +252,30 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 
 ---
 
+### කුරුණෑගල කතරගම ලංගම බස් රථය යළිත් අනතුරක
+
+*2025-09-01 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගල-කතරගම-ලංගම-බස්-රථය-යළිත්-අනතුරක/11-418202) · `si`
+
+කුරුණෑගල සිට (31) වෙනිදා රාත්‍රී 7.30 කතරගම දක්වා ධාවනය වූ කතරගම ඩිපෝවට අයත් අංක WPNC 0803 දරණ ලංගම බස් රථයක පිටුපස ලොරි රථයක් ගැටීමෙන් බස් රථයට බරපතළ හානි සිදුවී ඇත.
+
+මෙම බස් රථය 31 වෙනිදා රාත්‍රී 07.30 පමණ කුරුණෑගල බස් නැවතුම්පොළෙන් කතරගමට යාමට පිටත්වී තිබේ.
+
+සැප්තැම්බර් 01 අලුයම 05.00 පමණ බස් රථය ඇතිලිවැව සති පොළ අසලට ලඟාවී මාර්ගය අයිනේ නතර කර ඇත්තේ මගීන් කිහිප දෙනෙකුට බැසයාම සඳහාය.
+
+බස් රථයේ කොන්දොස්තර බස් රථයේ ඩිකියේ තිබූ බඩු පාර්සලයක් එය අයත් මගියෙකුට ලබාදීමට සූදානම් වන විට වැල්ලවාය දෙසින් වේගයෙන් පැමිණි ලොරි රථයක් එනවා දුටු ඔහු  එයින් බේරීම සඳහා දිව ගොස් ඇත.
+
+සහල් පටවා ගත් කන්ටේනර් සහිත ලොරි රථය එකවරම බස් රථයේ පිටුපස ගැටීමෙන් බස් රථයට බරපතළ හානි සිදුවී තිබේ.
+
+බස් රථයේ සිටි එක් මගියෙකුට සුළු සිරීම් තුවාල සිදුවී ඇත. බස් රථය සහ ලොරි රථය කුඩාඔය පොලිස් ස්ථානයට රැගෙන යාමෙන් පසුව මෝටර් රථ පරීක්ෂක වරයෙකු බස් රථය පරීක්ෂා කොට ඊට ලක්ෂ 13 පමණ අලාභ හානියක් සිදුවී ඇති බවට නිගමනය කර තිබේ.
+
+ඒ අනුව කල්මුණේ පදිංචි ලොරි රථයේ හිමිකරු අදාළ මුදල බස් රථය හිමි කතරගම ඩිපෝවට කුඩාඔය පොලිස් ස්ථානයේදීම ලබාදී ඇත.
+
+...
+
+[Data](articles/2f1c2319.json)
+
+---
+
 ### බොරැල්ලේ මාර්ගයක රථවාහන ගමනාගමනය සීමා කිරීමක්
 
 *2025-09-01 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214038) · `si`
@@ -261,6 +301,28 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 ◼️
 
 [Data](articles/b1457ced.json)
+
+---
+
+### මොරගහකන්දට යටවුණු ගම්මාන මතුවෙයි
+
+*2025-09-01 15:44:15* · [`adalk`](https://www.ada.lk/uncategorized/මොරගහකන්දට-යටවුණු-ගම්මාන-මතුවෙයි/1-418201) · `si`
+
+මහවැලි ව්‍යාපාරයේ අවසාන වාරි කර්මාන්තය බවට පත් වූයේ මොරගහකන්ද ජලාශ ව්‍යාපෘතියයි. මේ දිනවල පවතින වැසි රහිත කාලගුණික තත්ත්වය නිසාවෙන් මොරගහකන්ද ජලාශයේ ජලය සීඝ්‍රයෙන් පහත වැටෙමින් පවතී.
+
+ඒ අනුව මොරගහකන්ද ජලාශයට යටවුණු ගම්මාන රැසක් මේ වනවිට නැවතත් මතු වී ඇති අයුරු දැක ගැනීමට හැකි විය.
+
+මොරගහකන්ද  කළුගඟ ජලාශ සඳහා  ග්‍රාම සේවා වසම් හතක විශාල භූමියක් සම්පූර්ණයෙන්ම ජලයෙන් යටවී තිබිණි. මේ දිනවල පවතින ජලය අඩු වීම හේතුවෙන් හතේ කණුව,  කෝංගහවෙල ,කඹරව, මොරගොල්ල, ඇතුළු පැරණි ජනපද වල නටඹුන් මතුවී තිබේ.
+
+කෝංගහවෙල ප්‍රදේශයේ බුදුපිළිම සහ නිවාස ආදී බොහොමයක් සම්පූර්ණයෙන්ම ජලය බැස ගොස් දැකබලා ගැනීමට හැකි වී තිබේ . වසර කිහිපයකට පසුව ගම්බිම් ජනතාවට දැක බලා ගැනීමට හැකිවීම විශේෂත්වයකිිි
+
+ලංකා සිතියමෙන් සම්පූර්ණයෙන්  මැකී ගිය ගම්මාන මෙසේ නැවත වරක් දැකගැනීමට හැකිවීම ද මෙහි විශේෂත්වයකිි.
+
+ඡායාරූපවලින් දැක්වෙන්නේ මොරගහකන්ද ජලාශයට යට වුනු කෝංගහවෙල ප්‍රදේශයේ ගම්මානවල නටබුන් වෙයි
+
+◼️
+
+[Data](articles/bee6180c.json)
 
 ---
 
@@ -1232,6 +1294,24 @@ President Dissanayake’s ruling National People’s Power (NPP) in the run-up t
 
 ### මවගෙන් වෙන් කෙරුණු වන අලි පැටවා උඩවලවට රැගෙන යයි
 
+*2025-09-01 10:58:48* · [`adalk`](https://www.ada.lk/uncategorized/මවගෙන්-වෙන්-කෙරුණු-වන-අලි-පැටවා-උඩවලවට-රැගෙන-යයි/1-418190) · `si`
+
+ඉදිරි පාදයේ අබාදයකට ලක්ව අවස්ථා ගණනාවකදී  කලාවැව ජාතික වන උද්‍යානයේදී ප්‍රතිකාර සිදුකරමින් සිටි වන අලි පැටවෙකු එම පැටවාගේ ආරක්ෂාව වෙනුවෙන් උඩවලව ඇත් අතුරු සෙවණට රැගෙන යාමට පණ්ඩුලගම පශු වෛද්‍ය ඒකකය පියවර ගත්තේය.
+
+පැය 6ක මෙහෙයුමකින් පසුව වන අලි රංචුව සමග සිටි මෙම වන අලි පැටවා සහ මව වනජීවී නිලධාරීන් විසින් වෙන්කර ගැනීමට දැඩි වෙහෙසක් ගැනීමට සිදු විය.එම අවස්ථා වල වන ජීවී නිලධාරීන් හට වන අලි පහරදිමටද සැරසුණු අවස්ථා දැක ගැනීමට හැකි විය.
+
+මුලිකව වන අලි පැටවාගේ මව නිර්වින්දනය  කොට පසුව පැටවාද නිර්වින්දනය  කොට පණ්ඩුලගම පශු වෛද්‍ය ඒකකයේ වෛද්‍ය චන්දන ජයසිංහ සහ උදේශිකා මධුවන්ති මහත්මියගේ අධීක්ෂණය යටතේ මෙම වන අලි පැටවා ආරක්ෂිතව එම භූමියෙන් පිටතට රැගෙන විත් මුලික ප්‍රතිකාර සිදුකොට උඩවලව ඇත් අතුරු සෙවණ වෙත රැගෙන යාමට පියවර ගැනිණ .
+
+මෙම වන අලි පැටවාගේ රෝගී තත්වයන් හා ආරක්ෂාව වෙනුවෙන් මවු ඇතින්නගෙන් වෙන් කිරීමට පියවර ගැනීමට සිදු වුන බව පණ්ඩුලගම වනජීවී ඒකකයේ  පශු වෛද්‍ය චන්දන ජයසිංහ මහතා පැවසිය
+
+◼️
+
+[Data](articles/5cc23a5f.json)
+
+---
+
+### මවගෙන් වෙන් කෙරුණු වන අලි පැටවා උඩවලවට රැගෙන යයි
+
 *2025-09-01 10:58:48* · [`adalk`](https://www.ada.lk/opinion/මවගෙන්-වෙන්-කෙරුණු-වන-අලි-පැටවා-උඩවලවට-රැගෙන-යයි/2-418190) · `si`
 
 ඉදිරි පාදයේ අබාදයකට ලක්ව අවස්ථා ගණනාවකදී  කලාවැව ජාතික වන උද්‍යානයේදී ප්‍රතිකාර සිදුකරමින් සිටි වන අලි පැටවෙකු එම පැටවාගේ ආරක්ෂාව වෙනුවෙන් උඩවලව ඇත් අතුරු සෙවණට රැගෙන යාමට පණ්ඩුලගම පශු වෛද්‍ය ඒකකය පියවර ගත්තේය.
@@ -1687,75 +1767,5 @@ The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.
 ...
 
 [Data](articles/10b4d0b5.json)
-
----
-
-### අද වහින පැති මෙන්න
-
-*2025-09-01 09:24:28* · [`adalk`](https://www.ada.lk/breaking_news/අද-වහින-පැති-මෙන්න/11-418185) · `si`
-
-සබරගමුව පළාතෙත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් අද දිනයේදී වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-බස්නාහිර හා වයඹ පළාත්වලත් ගාල්ල සහා මාතර  දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් ඌව පළාතෙත් අම්පාර, මඩකලපුව හා මුලතිව් දිස්ත්‍ත්‍රික්කවලත්ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි යැයි එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
-
-◼️
-
-[Data](articles/b81f8b4a.json)
-
----
-
-### Former Presidential Secretary Saman Ekanayake asked not to appear before CID today
-
-*2025-09-01 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112048/former-presidential-secretary-saman-ekanayake-asked-not-to-appear-before-cid-today) · `en`
-
-UPDATE: The Criminal Investigation Department (CID) has informed former President’s Secretary Saman Ekanayake that it is not necessary for him to appear before the CID today, according to the former President Ranil Wickremesinghe’s Media Division.
-
-Earlier, it was reported that he had been instructed to appear before CID at 9:00 a.m. today (01).
-
-The summons has been issued in connection with the ongoing investigation into a visit to the United Kingdom undertaken by former President Ranil Wickremesinghe.
-
-Meanwhile, the former Media Director General to the President, Dhanushka Ramanayake, said that former President Ranil Wickremesinghe attended the graduation ceremony held at the University of Wolverhampton in England upon an official invitation, and that it has once again been confirmed.
-
-Former President Ranil Wickremesinghe was remanded in connection with the aforementioned incident on August 22 and was granted bail on August 26.
-
-◼️
-
-[Data](articles/b109f166.json)
-
----
-
-### සමන් ඒකනායකට අද CIDයට නොපැමිණෙන ලෙස දන්වයි
-
-*2025-09-01 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214021) · `si`
-
-හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතාට අද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටිය යුතු නැතැයි එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
-
-හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය අංශය පැවසුවේ ඒ මහතාට අද දිනයේ පෙනී නොසිටින ලෙස දැනුම් දුන් බවය.
-
-හිටපු ජනාධිපතිවරයා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට අද පෙරවරු 9ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙසට ඔහුට මීට පෙර දැනුම් දී තිබුණි.
-
-සිද්ධියට අදාළව මීට පෙර ද සමන් ඒකනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ප්‍රකාශ සටහන් කරගෙන තිබුණි.
-
-◼️
-
-[Data](articles/4ecf006a.json)
-
----
-
-### Psychiatrist warns of rising youth violence linked to social media
-
-*2025-09-01 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112047/psychiatrist-warns-of-rising-youth-violence-linked-to-social-media) · `en`
-
-Specialist Psychiatrist Dr. Rumi Ruben of Karapitiya National Hospital has warned that young people are increasingly turning to violent behavior influenced by social media.
-
-Dr. Ruben emphasized that individuals prone to such violent tendencies should be identified at an early stage and directed towards proper guidance and rehabilitation.
-
-“Violence has become a tool to resolve problems in today’s society, and social media plays a significant role in spreading hatred and aggression. Historically, social media has been used for ideological purposes, but today it has created an environment where young people fall victim to such influences and act violently,” Dr. Ruben stated.
-
-He further cautioned that young people exposed to these influences may become involved in underworld activities, drug abuse, or armed gangs, often developing anger management issues. Once integrated into such subcultures, he said, it is extremely difficult for them to break free.
-
-...
-
-[Data](articles/19a74dd1.json)
 
 ---

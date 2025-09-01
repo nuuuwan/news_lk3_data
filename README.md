@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 01:06:26**
+As of **2025-09-02 01:18:04**
 
 ## Newspaper Stats
 
-*Scraped **73,610** Articles*
+*Scraped **73,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 753
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,203
+dailyftlk | 5,205
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,610 articles have been extended.
+61,973 (84.2%) of 73,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Sri Lanka’s automobile market: Subliminal economic bubble?
+
+*2025-09-02 01:02:51* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-automobile-market-Subliminal-economic-bubble/14-781084) · `en`
+
+Banks and finance companies have been throwing money at individuals interested in purchasing new vehicles to profit from the interest rates that stem from loans
+
+From showrooms to sinking debt; is Sri Lanka repeating a global mistake?
+
+Any Sri Lankan commuter with reasonable observation skills will notice the influx of new vehicles in Colombo. The suffocating traffic is a simple indicator. This phenomenon was only bound to happen with the recent relaxation of import restrictions on vehicles. These restrictions were a recovery measure implemented by the Government for the economy to recover from Sri Lanka’s recent financial crisis. However, short lived was the excitement for the removal of such restrictions as the Government in January 2025, announced its exorbitantly high tax rates which were to be placed on imported vehicles. Taxes running as high as 300% slapped the common man into a reality which screamed that affording a new daily driver from their savings alone was impossible.
+
+...
+
+[Data](articles/3d9ddc7f.json)
+
+---
+
+### How we are being misled by fiscal illusion in Sri Lanka
+
+*2025-09-02 00:54:12* · [`dailyftlk`](https://www.ft.lk/columns/How-we-are-being-misled-by-fiscal-illusion-in-Sri-Lanka/4-781082) · `en`
+
+Presently, Sri Lanka is on a recovery journey from the deepest economic downturn in its history. The unhealthy fiscal policies of successive Governments have already been recognised as one of the major causes of this poor performance. Fiscal policy encompasses various decisions related to the national budget. Therefore, it is crucial to closely monitor budgetary behaviour and related decisions to ensure the economy moves in the right direction.
+
+Fiscal illusion is a term originally introduced by the Italian economist Amilcare Puviani in 1903 and later developed and popularised by modern public choice economists1. It is often used to explain how governments and fiscal policymakers navigate budgets in ways that mislead voters, helping them gain and maintain popularity. Let’s take a closer look at the behaviour of Sri Lanka’s fiscal policy in the recent past to understand how this concept plays out in our own context.
+
+...
+
+[Data](articles/0ae0f874.json)
+
+---
 
 ### Accountability is not petty: Response to Dr. Dayan Jayatilleka
 
@@ -1721,39 +1751,5 @@ Top contributors to the ASPI were Central Finance (up 6.75 rupees at 292.75), Di
 ◼️
 
 [Data](articles/4af66acb.json)
-
----
-
-### Indonesian politicians to have perks cut in bid to quell unrest
-
-*2025-09-01 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112065/indonesian-politicians-to-have-perks-cut-in-bid-to-quell-unrest) · `en`
-
-Indonesian political parties have agreed to reverse some state-funded perks their politicians receive in a bid to quell nationwide protests, the country’s president has said.
-
-Several cities in the Southeast Asian nation including the capital, Jakarta, have been gripped by anti-government demonstrations in the past week that have at times led to clashes between protesters and police.
-
-While the protests have been fuelled by a wide range of issues - including the death of a ride-sharing driver - one core complaint concerns a new monthly allowance for lawmakers.
-
-President Prabowo Subianto announced on Sunday that several perks would be reined in, including the size of some allowances.
-
-The Indonesian leader - who has already had to cancel a trip to China over the unrest - said some demonstrations had gone beyond what was considered peaceful and may amount to “treason and terrorism”.
-
-...
-
-[Data](articles/b5acc1df.json)
-
----
-
-### Former Minister Udaya Gammanpila files petition to prevent arrest
-
-*2025-09-01 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112064/former-minister-udaya-gammanpila-files-petition-to-prevent-arrest-) · `en`
-
-Former Minister Udaya Gammanpila has filed a petition before the Court of Appeal seeking an order to prevent his arrest under the provisions of the International Covenant on Civil and Political Rights (ICCPR).
-
-The petition, submitted through his legal counsel, names the Secretary to the Ministry of Public Security, Ravi Seneviratne, the Inspector General of Police, and several others as respondents, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/4761506d.json)
 
 ---

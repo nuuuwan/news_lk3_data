@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 09:56:38**
+As of **2025-09-01 10:12:32**
 
 ## Newspaper Stats
 
-*Scraped **73,429** Articles*
+*Scraped **73,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,069
-adaderanalk | 9,344
-tamilmirrorlk | 10,904
-virakesarilk | 12,030
+adaderanalk | 9,347
+tamilmirrorlk | 10,906
+virakesarilk | 12,031
 adaderanasinhalalk | 12,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,429 articles have been extended.
+61,973 (84.4%) of 73,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ஸ்பாவுக்கு நுழைந்து 3 அழகிகள் வன்புணர்வு: கான்ஸ்டபில் கைது
+
+*2025-09-01 10:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பாவுக்கு-நுழைந்து-3-அழகிகள்-வன்புணர்வு-கான்ஸ்டபில்-கைது/175-363824) · `ta`
+
+மசாஜ் நிலையத்திற்குள் அத்துமீறி நுழைந்து, அங்கு பணிபுரியும் மூன்று பெண்களை பாலியல் பலாத்காரம் செய்துவிட்டு தப்பிச் சென்ற இரண்டு  கான்ஸ்டபிள்களில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+பொரளையில் உள்ள மசாஜ் நிலையத்திற்குள் அத்துமீறி நுழைந்து அங்கிருந்து பெண் மேலாலர் மற்றும் நான்கு பெண்களை அச்சுறுத்தி, அதில் மூன்று பெண்களை பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளனர்.
+
+பொலிஸ் சிறப்பு பணியக தலைமையகத்தில் பணிபுரியும் கான்ஸ்டபிள் ஒருவரே கைது செய்யப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+கைது செய்யப்பட்டவர், அந்த மாடியில் இருந்து தப்பிச்செல்ல முற்பட்டபோது, மேல் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கைது செய்யப்பட்டதாக பொரளை பொலிஸார் தெரிவித்தனர்.
+
+அத்துடன் அவர் பொலிஸாரின் பாதுகாப்பின் கீழ் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வருவதாக பொலிஸார்தெரிவிக்கின்றனர்.
+
+மேலும் சம்பவத்தில் தப்பியோடிய நபர், காவல்துறை சேவையிலிருந்து பணிநீக்கம் செய்யப்பட்ட ஒரு கான்ஸ்டபிள் என விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/f1f44ff3.json)
+
+---
+
+### எதிரணியின் முக்கிய புள்ளி விரைவில் கைது
+
+*2025-09-01 09:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிரணியின்-முக்கிய-புள்ளி-விரைவில்-கைது/175-363822) · `ta`
+
+ஊழல் வழக்கு தொடர்பாக ஒரு சக்திவாய்ந்த எதிர்க்கட்சித் தலைவரும் விரைவில் கைது செய்யப்பட உள்ளதாக வட்டாரங்கள் தெரிவித்தன.
+
+அவர் அமைச்சராக இருந்தபோது, ​​சம்பந்தப்பட்ட அமைச்சகத்தின் ஊழியர்கள் குழுவை தனது தனிப்பட்ட நோக்கங்களுக்காகப் பயன்படுத்தியதாக அவர் மீது குற்றம் சாட்டப்பட்டுள்ளதாகவும், இந்த சம்பவம் தொடர்பாக ஏற்கனவே நிறைய ஆதாரங்கள் கிடைத்துள்ளதாகவும் அரசு வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இந்த சம்பவம் தொடர்பாக ஊழியர்கள் குழுவிடமிருந்து ஏற்கனவே வாக்குமூலங்கள் பதிவு செய்யப்பட்டுள்ளதாக அறியப்படுகிறது.
+
+அவர் ஒரு அமைச்சகத்திற்கு பணம் செலவழித்ததாகவும் குற்றம் சாட்டப்பட்டுள்ளது. இதற்கிடையில், பல்வேறு ஊழல் வழக்குகளுக்காக இந்த ஆண்டு 10 அரசியல்வாதிகள் காவலில் வைக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/ccfef37c.json)
+
+---
 
 ### ஒரே வீட்டுக்குள் இரண்டு சடலங்கள் மீட்பு
 
@@ -74,6 +114,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### அதிவேக நெடுஞ்சாலைகளில் பயணிக்கும்போது இன்று முதல் சீட் பெல்ட் அணிவது கட்டாயம்
+
+*2025-09-01 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223889) · `ta`
+
+அதிவேக நெடுஞ்சாலையில் பயணிக்கும்போது  பயணிக்கும்போது அனைத்து பயணிகளும் இன்று முதல்   சீட் பெல்ட் அணிவது கட்டாயமாக்கப்பட்டுள்ளதாக தேசிய வீதி பாதுகாப்பு ஆணைக்குழு தெரிவித்துள்ளது.
+
+புதிய விதிமுறைகளை மீறுபவர்கள் மீது சட்ட நடவடிக்கை எடுக்கப்படும் என அதன் தலைவர் மஞ்சுள குலரத்ன தெரிவித்துள்ளார்.
+
+தற்போது சீட் பெல்ட் பொருத்தப்படாத வாகனங்களுக்கு மூன்று மாத கால அவகாசம் வழங்கப்படும் எனவும் அவர் மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/3d5a7930.json)
+
+---
+
 ### சிறுமிகள் பாலியல் துஷ்பிரயோகம்: இருவர் கர்ப்பம்; சிறுவர்கள் கைது
 
 *2025-09-01 09:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிகள்-பாலியல்-துஷ்பிரயோகம்-இருவர்-கர்ப்பம்-சிறுவர்கள்-கைது/175-363817) · `ta`
@@ -112,6 +168,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former Presidential Secretary Saman Ekanayake asked not to appear before CID today
+
+*2025-09-01 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112048/former-presidential-secretary-saman-ekanayake-asked-not-to-appear-before-cid-today) · `en`
+
+UPDATE: The Criminal Investigation Department (CID) has informed former President’s Secretary Saman Ekanayake that it is not necessary for him to appear before the CID today, according to the former President Ranil Wickremesinghe’s Media Division.
+
+Earlier, it was reported that he had been instructed to appear before CID at 9:00 a.m. today (01).
+
+The summons has been issued in connection with the ongoing investigation into a visit to the United Kingdom undertaken by former President Ranil Wickremesinghe.
+
+Meanwhile, the former Media Director General to the President, Dhanushka Ramanayake, said that former President Ranil Wickremesinghe attended the graduation ceremony held at the University of Wolverhampton in England upon an official invitation, and that it has once again been confirmed.
+
+Former President Ranil Wickremesinghe was remanded in connection with the aforementioned incident on August 22 and was granted bail on August 26.
+
+◼️
+
+[Data](articles/b109f166.json)
+
+---
+
 ### සමන් ඒකනායකට අද CIDයට නොපැමිණෙන ලෙස දන්වයි
 
 *2025-09-01 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214021) · `si`
@@ -130,19 +206,57 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Psychiatrist warns of rising youth violence linked to social media
+
+*2025-09-01 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112047/psychiatrist-warns-of-rising-youth-violence-linked-to-social-media) · `en`
+
+Specialist Psychiatrist Dr. Rumi Ruben of Karapitiya National Hospital has warned that young people are increasingly turning to violent behavior influenced by social media.
+
+Dr. Ruben emphasized that individuals prone to such violent tendencies should be identified at an early stage and directed towards proper guidance and rehabilitation.
+
+“Violence has become a tool to resolve problems in today’s society, and social media plays a significant role in spreading hatred and aggression. Historically, social media has been used for ideological purposes, but today it has created an environment where young people fall victim to such influences and act violently,” Dr. Ruben stated.
+
+He further cautioned that young people exposed to these influences may become involved in underworld activities, drug abuse, or armed gangs, often developing anger management issues. Once integrated into such subcultures, he said, it is extremely difficult for them to break free.
+
+...
+
+[Data](articles/19a74dd1.json)
+
+---
+
 ### ஆப்கானிஸ்தானில் சக்திவாய்ந்த நிலநடுக்கம் : 20 பேர் உயிரிழப்பு
 
-*2025-09-01 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/223885) · `ta`
+*2025-09-01 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223885) · `ta`
 
 ஆப்கானிஸ்தானில் நேற்று இரவு சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. பாகிஸ்தானின் எல்லை அருகே அமைந்துள்ள அந்நாட்டின் நகங்கர் மாகாணம் ஜலாலாபாத்தை மையமாக கொண்டு 8 கிலோ மீட்டர் ஆழத்தில் இந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. இந்த நிலநடுக்கம் ரிச்டர் அளவில் 6.0 ஆக பதிவானது.
 
 நிலநடுக்கத்தால் வீடுகள், கட்டிடங்கள் அதிர்ந்தன. இந்த நிலநடுக்கத்தால் 20 பேர் உயிரிழந்துள்ளனர். இரவு மக்கள் உறங்கிக்கொண்டிருந்த நேரத்தில் ஏற்பட்ட நிலநடுக்கத்தால் பலரும் பதற்றத்துடன் வீடுகளை விட்டு வெளியேறி வீதிகளில் தஞ்சமடைந்துள்ளனர்.
 
-இந்த நிலநடுக்கம் ஏற்பட்ட 20 நிமிடம் கழித்து அதே மாகாணத்தில் மீண்டும் நிலநடுக்கம் ஏற்பட்டது. இந்த நிலநடுக்கம் ரிச்டர் அளவில் 4.5 ஆக பதிவானது. அடுத்தடுத்து 2 நிலநடுக்கத்தால் நகங்கர் மாகாணத்தில் மக்கள் அஞ்சமடைந்துள்ளனர்.
+இந்த நிலநடுக்கம் ஏற்பட்ட 20 நிமிடம் கழித்து அதே மாகாணத்தில் மீண்டும் நிலநடுக்கம் ஏற்பட்டது. இந்த நிலநடுக்கம் ரிச்டர் அளவில் 4.5 ஆக பதிவானது. அடுத்தடுத்து 2 நிலநடுக்கத்தால் நகங்கர் மாகாணத்தில் மக்கள் தஞ்சமடைந்துள்ளனர்.
 
 ◼️
 
 [Data](articles/1a2d7b72.json)
+
+---
+
+### Seat belts mandatory for expressway bus passengers from today
+
+*2025-09-01 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112046/seat-belts-mandatory-for-expressway-bus-passengers-from-today) · `en`
+
+It has been made mandatory for passengers traveling in passenger transport buses on expressways to wear seat belts starting today (September 1).
+
+The Chairman of the National Council for Road Safety, Manjula Kularatne, stated that legal action is expected to be taken against those who violate the relevant decision.
+
+However, he added that a three-month grace period will be granted for the installation of seat belts in certain vehicles that are not currently equipped with them.
+
+On August 31, a gazette notification was issued containing regulations that make it mandatory for passengers in expressway buses to wear seat belts.
+
+Meanwhile, on August 30, the Minister of Transport, Highways, Ports and Civil Aviation and Leader of the House, Bimal Rathnayake explained that this initiative is being implemented as a key component of the “Clean Sri Lanka” program.
+
+...
+
+[Data](articles/c93dba98.json)
 
 ---
 
@@ -1751,119 +1865,5 @@ To prevent saltwater from mixing with the river, authorities have decided to tem
 ◼️
 
 [Data](articles/7beb2ac0.json)
-
----
-
-### වෙන්නප්පුවේ වෙඩි තැබීමට සැකකරුවෙකු අත්අඩංගුවට
-
-*2025-08-31 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213995) · `si`
-
-අද (31) පෙරවරුවේ වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-වෙඩි තැබීම සඳහා යොදාගත් රිවෝල්වර් වර්ගයේ ගිනි අවිය ද ඔහු සතුව තිබී සොයාගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය පැවසුවේය.
-
-වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී අද (31) පෙරවරු 10.30ට පමණ වෙඩි තැබීමක් සිදුවිය.
-
-මොටර් රථයකින් පැමිණි පිරිසක් විසින් යතුරුපැදියේ ගමන් ගත් පුද්ගලයෙකු අනතුරකට ලක් කර පසුව යතුරුපැදියේ පැමිණි දෙදෙනාට තියුණු ආයුධයකින් පහරදී වෙඩි තබා ඇත.
-
-සිද්ධියෙන් යතුරුපැදියේ පැමිණි එක් අයෙකු තුවාල ලබා පළාගොස් ඇති අතර අනෙක් පුද්ගලයා වෙඩි වැදීමෙන් ජීවිතක්ෂයට පත්ව තිබේ.
-
-යතුරුපදියෙන් පැමිණි දෙදෙනාගෙන් මිය ගිය තැනැත්තා මහාධිකරණයේ පවතින නඩුවකට අදාළව වෙන්නප්පුව පොලීසියේ අත්සන් කිරීමට පැමිණ ආපසු යමින් සිටි අවස්ථාවේදී මෙම වෙඩි තැබීම සිදුව ඇත.
-
-රිවොල්වර වර්ගයේ ගිනි අවියකින් මෙම වෙඩි තැබීම සිදුකර ඇති බවද පොලීසිය පවසයි.
-
-2025 සැප්තැම්බර් මස 09 වැනි දින මිය ගිය පුද්ගලයාගේ නඩුව සම්බන්ධව අධිකරණ තීන්දුව ලැබීමට නියමිතව තිබූ බවද පොලීසිය වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/0314f8f3.json)
-
----
-
-### විශ්‍රාමික ගුරුවරියගේ රන් භාණ්ඩ වලට ජීවම් කළ හොර කපුවා අත්අඩංගුවට
-
-*2025-08-31 15:57:34* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ගුරුවරියගේ-රන්-භාණ්ඩ-වලට-ජීවම්-කළ-හොර-කපුවා-අත්අඩංගුවට/11-418178) · `si`
-
-නිවැසියන්ට අපල සහ භූමි දෝෂ ඇති බව පවසමින් ඔවුන්ගේ රන්බඩු ජීවම් කොට අපල කැපෙන මැණික් අල්ලාගෙන බවව පවසමින් විශ්‍රාමික ගුරුවරියකගෙන් පවුම් දොළහක ස්වර්ණාභරණ ලබාගෙන ආපසු නොදී වංචා කළ බව කියන පුද්ගලයකු මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-මහනුවර බෝගම්බර ප්‍රදේශයේ පදිංචි 55 හැවිරිදි පුද්ගලයෙකු එසේ අත්අඩංගුවට ගැන ඇති අතර මහනුවර ජලාශ පාරේ විශ්‍රාමික ගුරුවරියක රවටා  සතු මාල, මුදු, පෙන්ඩන්ට්, අත් පළඳනා ඇතුළු රන් භාණ්ඩ තොගයක් සැකකරු විසින් ලබාගෙන නගරයේ රන් භාණ්ඩ අලෙවි සැලකට විකුණා තිබියදී පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරු විසින් පළමුව ගුරුවරියගේ මුද්දක් රැගෙන ගොස් ඊට මැණික් ගලක් සවිකොට ගෙනදී ඇති අතර ඉයින් අනතුරුව අවස්ථා තුනකදී සැකකරු එම නිවසට ගොස් පවුම් දොළහක භාණ්ඩ රැගෙන ගොස් ඇති බව පොලිසිය කියයි.
-
-...
-
-[Data](articles/96094eed.json)
-
----
-
-### அதிக நேரம் நிகழும் சந்திர கிரகணம் ; காணத்தவறாதீர்கள்
-
-*2025-08-31 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223852) · `ta`
-
-செப்டம்பர் 7 ஆம் திகதி இரவு வானத்தில் முழு சந்திர கிரகணம் தோன்றுவதால், இலங்கையர்கள் மற்றும் வானியல் ஆர்வலர்களுக்கு பார்வையிடும் வாய்ப்பாக அமைந்துள்ளது.
-
-இந்த அற்புதமான நிகழ்வு நாட்டின் அனைத்துப் பகுதிகளிலிருந்தும் முழுமையாகத் தெரியும் என கொழும்பு பல்கலைக்கழகத்தின் இயற்பியல் துறையின் தலைவரும், வானியல் மற்றும் விண்வெளி அறிவியல் பிரிவின் பணிப்பாளரும் ஆர்தர் சி கிளார்க் நவீன தொழில்நுட்ப நிறுவனத்தின் தலைவருமான பேராசிரியர் சந்தன ஜயரத்ன தெரிவித்துள்ளார்.
-
-பூமி சூரியனை சுற்றி வரும் பாதையிலும், சந்திரன் பூமியை சுற்றி வரும் பாதையிலும் சில நேரங்களில் சூரியன், பூமி மற்றும் சந்திரன் ஆகியவை ஒரே நேர்கோட்டில் வரும்.
-
-அப்போது, சூரிய ஒளி பூமியில் விழுந்தாலும் சந்திரன் மீது விழாது. இதனால் சந்திர கிரகணம் ஏற்படுகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/dc28e1bf.json)
-
----
-
-### Sri Lanka’s Hambantota Port ‘breakwater reef’ draws rare fish as corals grow
-
-*2025-08-31 15:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-breakwater-reef-draws-rare-fish-as-corals-grow-238828/) · `en`
-
-ECONOMYNEXT  – A coral reef growing in the shelter of a  breakwater at Sri Lanka’s China-backed port has become a biodiversity hotspot with at least eight fish species no longer observed in widely known reefs in the island found, researchers have found.
-
-Researchers found a high species diversity within the coral growing habitat of the Hambantota port, exceeding other regional sites like Weligama, Polhena, and Thalaramba, a statement from the Hambantota International Port Group said.
-
-Among eight species not observed in similar studies in other locations were Blue Green Chromis (Chromis viridis), Redfin Butterflyfish (Chaetodon lunulatus),
-
-Researchers used a standardised swim-timed transect method, covering areas of 5 by 20 meters at depths between 0.5 and 5 meters, cataloguing observed visual counts of fish by family and feeding behaviour.
-
-...
-
-[Data](articles/0021323b.json)
-
----
-
-### Israel to halt airdrops ahead of Gaza City offensive as hostage families lash out at Netanyahu
-
-*2025-08-31 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112033/israel-to-halt-airdrops-ahead-of-gaza-city-offensive-as-hostage-families-lash-out-at-netanyahu) · `en`
-
-Israel is set to halt airdrops over Gaza City and reduce the entry of relief trucks ahead of a major offensive, a source told CNN, as the Red Cross warned that Israeli plans for mass evacuation were “impossible.”
-
-The Israeli military is preparing to fully capture Gaza’s biggest city after nearly two years of war, despite growing opposition at home and warnings that the campaign will have disastrous and unbearable consequences for Palestinians in the besieged region.
-
-In Tel Aviv, crowds of protesters demanded that the government pursue a ceasefire rather than escalate its offensive. Families of hostages being held in Gaza blasted the Israeli government for its failure to consider the latest ceasefire proposal, which Hamas accepted nearly two weeks ago.
-
-...
-
-[Data](articles/38e7b972.json)
-
----
-
-### නිල්වලා ගඟේ ලවණ බාධක ගැටලුව විසඳීමට අවධානය
-
-*2025-08-31 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213994) · `si`
-
-මාතර නිල්වලා ගඟේ ලවණ බාධකය අවිධිමත්ව ඉදිකිරිම හමුවේ පැන නැගි ඇති ගැටලු විසඳීමට මෙරට තාක්ෂණික දැනුම ප්‍රමාණවත් නොවේ නම් විදේශිය රටක තාක්ෂණික දැනුම ලබා ගෙන ඒ සඳහා ස්ථීර විසඳුමක් ලබාදීමට කටයුතු කරන බව අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පවසයි.
-
-මාතර දිස්ත්‍රික්කයේ ප්‍රදේශ රැසක පානීය ජල ගැටලුවට විසඳුමක් ලබාදිමේ අරමුණින් නිල්වලා ගඟ හරහා ස්වයංක්‍රීය ලවණ බාධකයක් ඉදිකලද එය නිසි ප්‍රමිතියට සකස් නොකිරීමෙන් අදටත් එම වැසියන් ගැටලුවකට මුහුණ පා සිටියි.
-
-ඒ  නියං කාලගුණයත් සමඟ නිල්වලා ගඟට කරදිය මිශ්‍රවිමෙන් ජාතික ජලසම්පාදන මණ්ඩලය මගින් ලබා දෙන ජලය සීමා කිරීමට පියවර ගැනීමත් සමගයි.
-
-මෙම ගැටලුව පිළිබඳව මාතර දිස්ත්‍රික් සම්බන්ධිකරණ කමිටුවේ සභාපති අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතාගේ අවධානය යොමුව තිබුණි.
-
-ඉන් අනතුරුව නිල්වලා ගඟට කරදිය මිශ්‍රවිම වලක්වාලමින් නිල්වලා ගගේ ඉදිකළ ලවණ බාධකය අසලින් කපා ඇති අතුරු ඇල වැලි කොට්ට දමා වසා දැමිමට තීරණය කර තිබේ.
-
-...
-
-[Data](articles/c3e14435.json)
 
 ---

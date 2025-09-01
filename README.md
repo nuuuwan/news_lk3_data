@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 22:08:40**
+As of **2025-09-01 22:22:21**
 
 ## Newspaper Stats
 
-*Scraped **73,587** Articles*
+*Scraped **73,588** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 619
+dbsjeyarajcom | 620
 bbccomsinhala | 677
 colombotelegraphcom | 753
 economynextcom | 4,477
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,778
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,587 articles have been extended.
+61,973 (84.2%) of 73,588 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### ஜனாதிபதி கச்சதீவிற்கு விஜயம்
 
-*2025-09-01 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/223973) · `ta`
+*2025-09-01 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/223973) · `ta`
 
 யாழ்ப்பாணத்திற்கு 1ஆம் திகதி திங்கட்கிழமை காலை வந்தடைந்த ஜனாதிபதி அனுரா குமார திஸாநாயக்க, மாலை வேளையில் கச்சதீவுக்குப் பயணம் மேற்கொண்டார்.
 

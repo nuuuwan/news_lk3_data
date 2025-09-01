@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 13:53:17**
+As of **2025-09-01 14:09:55**
 
 ## Newspaper Stats
 
-*Scraped **73,492** Articles*
+*Scraped **73,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,079
+adalk | 7,080
 adaderanalk | 9,354
 tamilmirrorlk | 10,925
 virakesarilk | 12,037
-adaderanasinhalalk | 12,755
+adaderanasinhalalk | 12,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,492 articles have been extended.
+61,973 (84.3%) of 73,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ඇමති ආනන්ද විජේපාල ගැන ව්‍යාජ පුවත් සංසරණය වීම සම්බන්ධව විමර්ශනයක්
+
+*2025-09-01 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214032) · `si`
+
+මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු පිළිබඳ අමාත්‍ය ආනන්ද විජේපාල මහතාගේ ලෙස හැඟෙන ජායාරූප හා ව්‍යාජ ප්‍රවෘත්ති සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීම සම්බන්ධව විමර්ශන ආරම්භ කර ඇති බව පොලිස් මූලස්ථානය පවසයි.
+
+විදෙස් ගතව සැඟව සිට ශ්‍රී ලංකාව තුල මත්ද්‍රව්‍ය ජාවාරම හා සංවිධානාත්මක අපරාධ මෙහෙයවීම සම්බන්ධයෙන් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් කිහිප දෙනෙකු ශ්‍රී ලංකා පොලීසිය හා ඉන්දුනීසියානු පොලීසිය ඒකාබද්ධව සිදුකරන ලද මෙහෙයුමක් මගින් පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගන්නා ලදී.
+
+එම අත්අඩංගුවට පත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් පිරිස 2025.08.30 වන දින ශ්‍රී ලංකාවට රැගෙන එන ලද අතර එම අවස්ථාවේදී අදාළ මෙහෙයුමට සක්‍රීයව දායක වූ ඉන්දුනීසියානු පොලීසියේ නිලධාරින් කණ්ඩායමද දිවයිනට පැමිණියේ ය.
+
+...
+
+[Data](articles/65f8a5bd.json)
+
+---
 
 ### மயிலிட்டியில் பதற்றம்: பொலிஸார் அடாவடி: தூஷணத்தால் திட்டி  முதுகில் பிடித்து தள்ளினர்
 
@@ -85,6 +101,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bacc7908.json)
+
+---
+
+### හදීසියේම හිටපු ජනාධිපති රනිල්ගෙන් ප්‍රකාශයක්
+
+*2025-09-01 12:59:04* · [`adalk`](https://www.ada.lk/breaking_news/හදීසියේම-හිටපු-ජනාධිපති-රනිල්ගෙන්-ප්‍රකාශයක්/11-418195) · `si`
+
+තමා අත්අඩංගුවට ගත් අවස්ථාවේ සිට තමා වෙනුවෙන් පෙනී සිටි සියලු දෙනාට ස්තූතිය පුද කරන බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+මාධ්‍ය වෙත අද(01දා) විශේෂ ප්‍රකාශයක් නිකුත් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“මම අත්අඩංගුවට ගත් වෙලාවේදී මං වෙනුවෙන් පෙනී සිටි ඔන්ලයින් ඔබ සියලු දෙනාටම මගේ ස්තූතිය. පසු වෙලාවක ඔබ මුනගැහෙන්න බලාපොරොත්තු වෙනවා. යළිත් ස්තූතියි.”
+
+◼️
+
+[Data](articles/b50d4f96.json)
 
 ---
 
@@ -1795,35 +1827,5 @@ He has held prominent positions in both the public and private sectors, includin
 ...
 
 [Data](articles/a78235b3.json)
-
----
-
-### Cleantech breaks barriers in waste management: Honoured  at first DEI Championship Awards
-
-*2025-09-01 05:53:00* · [`dailyftlk`](https://www.ft.lk/business/Cleantech-breaks-barriers-in-waste-management-Honoured-at-first-DEI-Championship-Awards/34-781046) · `en`
-
-Cleantech Ltd., Sri Lanka’s leading municipal waste management service provider and sustainability arm of the Abans Group, was recognised at the first-ever Diversity, Empowerment and Inclusivity (DEI) Championship Awards organised by the Ceylon Chamber of Commerce under the SCOPE Programme, co-financed by the European Union and the German Federal Foreign Office and implemented by GIZ Sri Lanka in partnership with the Ministry of Justice and National Integration.
-
-The company was honoured for its pioneering efforts in women’s empowerment and disability inclusion—an achievement that redefines the sector and sets a benchmark for corporate Sri Lanka.
-
-...
-
-[Data](articles/1694a5bf.json)
-
----
-
-### Kemcare Technologies  wins “Innovator in Cosmetic Ingredients Distribution”  Award at Iconic Awards 2025
-
-*2025-09-01 05:25:33* · [`dailyftlk`](https://www.ft.lk/business/Kemcare-Technologies-wins-Innovator-in-Cosmetic-Ingredients-Distribution-Award-at-Iconic-Awards-2025/34-781043) · `en`
-
-Kemcare Technologies Ltd. has been honoured with the “Innovator in Cosmetic Ingredients Distribution” Award at the prestigious Iconic Awards 2025, held on 20 August at the Monarch Imperial Hotel, Colombo.
-
-This recognition, presented by the German Design Council, a globally respected awarding body, marks a significant milestone for Kemcare Technologies. Being recognised both in Sri Lanka and internationally reflects their unwavering commitment to innovation, quality, and service excellence in the personal care ingredient industry.
-
-“At Kemcare, our vision is clear: Empowering Excellence in the Personal Care Industry. We extend our heartfelt gratitude to our valued clients, business partners, and our dedicated team for making this achievement possible. Your trust and support continue to inspire us to deliver world-class solutions with a focus on innovation, trust, and sustainability.”
-
-◼️
-
-[Data](articles/90e93b53.json)
 
 ---

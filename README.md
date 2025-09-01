@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 16:23:07**
+As of **2025-09-01 16:49:19**
 
 ## Newspaper Stats
 
-*Scraped **73,516** Articles*
+*Scraped **73,520** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 618
+dbsjeyarajcom | 619
 bbccomsinhala | 677
 colombotelegraphcom | 753
 economynextcom | 4,477
@@ -18,19 +18,73 @@ dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,085
 adaderanalk | 9,361
-tamilmirrorlk | 10,929
+tamilmirrorlk | 10,930
 virakesarilk | 12,037
-adaderanasinhalalk | 12,762
+adaderanasinhalalk | 12,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,516 articles have been extended.
+61,973 (84.3%) of 73,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ஆசிரியர்களில் ஒருவர் நீரில் மூழ்கி காணாமல் போனார்
+
+*2025-09-01 16:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியர்களில்-ஒருவர்-நீரில்-மூழ்கி-காணாமல்-போனார்/76-363865) · `ta`
+
+உடபுஸ்ஸல்லாவ பகுதியில் உள்ள ஒரு பாடசாலையைச் சேர்ந்த ஆசிரியர்கள் குழு, ஞாயிற்றுக்கிழமை (31) மதியம் சுற்றுலா சென்று போபுருதிய நீர்வீழ்ச்சியின் கீழ் நீரோடையில் நீந்திக் கொண்டிருந்த ஆசிரியர் ஒருவர் நீரில் மூழ்கி காணாமல் போயுள்ளதாக அம்பகஸ்டோவ பொலிஸார் தெரிவித்தனர்.
+
+போபுஸ்ஸல்லாவ டாலோஸ் கல்லூரியில் கணிதம் கற்பித்து வந்த கே. முகில்தரன் (32) என்ற ஆசிரியர் நீரில் மூழ்கி காணாமல் போனதாக பொலிஸார் தெரிவித்தனர். அவர் ஒரு குழந்தையின் தந்தை ஆவார்.
+
+பாடசாலையைச் சேர்ந்த எட்டு ஆசிரியர்கள் ​அடங்கி குழு ஒன்று   போபுருடிய நீர்வீழ்ச்சியைப் பார்வையிட ஞாயிற்றுக்கிழமை (31) சுற்றுலா சென்றிருந்தது. அவர்கள் போபுருதிய நீர்வீழ்ச்சியின் கீழ் நீரோடையில் நீந்தச் சென்றிருந்தபோது, ​​ஆசிரியர்களில் ஒருவர் நீரில் மூழ்கி காணாமல் போனதாக  பொலிஸார் தெரிவித்தனர்.
+
+நுவரெலியா பொலிஸின் உயிர்காக்கும் பிரிவு அதிகாரிகள், அம்பகஸ்டோவ காவல்துறையினர் மற்றும் உள்ளூர்வாசிகள் இணைந்து நீரில் மூழ்கிய ஆசிரியரைத் தேடும் பணியில் ஈடுபட்ட போதிலும், காணாமல் போன ஆசிரியரை  ஞாயிற்றுக்கிழமை (31) இரவு வரை கண்டுபிடிக்க முடியவில்லை என்று பொலிஸார்தெரிவித்தனர்.
+
+...
+
+[Data](articles/041e42db.json)
+
+---
+
+### පාතාලයෝ අත්අඩංගුවට ගන්න සහාය දුන් සැමට පොලිස්පතිගෙන් විශේෂ ස්තුති
+
+*2025-09-01 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214040) · `si`
+
+විදෙස් ගතව සිටි සංවිධානාත්මක අපරාධකරුවන් පිරිසක් අත්අඩංගුවට ගැනීමට සහය ලබාදුන් ජාත්‍යන්තර පොලීසිය, ඉන්දුනීසියානු සහ ඉන්දියානු බලධාරීන් ඇතුළු මේ සඳහා දායකත්වය ලබා දුන් සැමට පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් විශේෂ ස්තුතියක් පුද කර සිටියි.
+
+නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය මේ බව දැනුම් දී තිබේ.
+
+විදෙස් රටවල සැඟව සිටිමින් මෙරට සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම් මෙහෙයවනු ලබන සංවිධානාත්මක අපරාධකරුවන් පස් දෙනෙකු ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන පසුගිය 30 වන දින දිවයිනට ගෙන ආවේය.
+
+ඉන් පසුව එම සැකකරුවන් රැඳවුම් නියෝග මත රඳවා තබා ගෙන මේ වන විට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හා බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය මඟින් වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+...
+
+[Data](articles/c2b404b8.json)
+
+---
+
+### හෙට ප්‍රදේශ කිහිපයක උණුසුම ඉහළට
+
+*2025-09-01 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214039) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (01)  ප.ව. 03.30 ට නිකුත් කරන ලද එම නිවේදනය 02 දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත් සහ මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා විමසිලිමත්වන ලෙස එම නිවේදනයෙන් දැනුම් දී ඇත.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවය.
+
+◼️
+
+[Data](articles/045c9973.json)
+
+---
 
 ### இவ்விருவரையும் உங்களுக்குத் தெரியுமா?
 
@@ -1723,65 +1777,5 @@ Meanwhile, on August 30, the Minister of Transport, Highways, Ports and Civil Av
 ...
 
 [Data](articles/64135ba2.json)
-
----
-
-### Sri Lanka budget deficit down 36-pct, tax revenues up 28.2-pct
-
-*2025-09-01 07:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-36-pct-tax-revenues-up-28-2-pct-238888/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tax revenues grew 28.2 percent to 2,534 billion rupees in the seven months to July 2025, Finance Ministry data showed, while the overall budget deficit was down 36 percent to 556.1 billion rupees.
-
-Non-tax revenues grew to 195 billion rupees from 179 billion rupees last year.
-
-Tax revenues improved to 8.3 percent of projected gross domestic product from 7.1 percent last year during the seven months.
-
-Total revenues grew 27.9 percent to 2,728.9 billion rupees up to July.
-
-Current spending grew 12.3 percent to 3,001 billion rupees, and interest costs rose 9.9 percent to 1,530 billion rupees.
-
-Current spending without interest grew 15 percent to 1,471 billion rupees, with a public sector wage increase and new hirings.
-
-The overall deficit of the budget after grants was 556.1 billion rupees down from 872.6 billion rupees.
-
-The primary balance (current and capital spending minus interest costs) widened to a surplus of 973.6 billion rupees, up from 519.4 billion rupees.
-
-...
-
-[Data](articles/6873eaf1.json)
-
----
-
-### Arrest Of Criminals & The Truth Behind The Political Euphoria
-
-*2025-09-01 07:38:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/arrest-of-criminals-the-truth-behind-the-political-euphoria/) · `en`
-
-As law abiding citizens we are happy to note the developments in the arrest of most wanted criminals who operate criminal offences living in exile having fled the country. This is a menace that we were plagued in an unprecedented manner in the recent past. The wave of crimes, some blatant open day light massacres in callous disregard of Law and Order of the country and the Law enforcing authorities were shockingly incredible. There is no doubt that citizens love to live in a peaceful environment without being disturbed by such nefarious activities.
-
-...
-
-[Data](articles/c5c23948.json)
-
----
-
-### 6.3 magnitude earthquake hits Afghanistan, at least 20 killed
-
-*2025-09-01 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112045/63-magnitude-earthquake-hits-afghanistan-at-least-20-killed) · `en`
-
-A powerful earthquake measuring 6.3 on the Richter scale struck Afghanistan late Sunday night, leaving at least 20 people dead, according to BBC reports.
-
-The National Center for Seismology (NCS) said the quake, recorded at 12:47 AM (IST), had its epicentre 160 km deep underground. Strong tremors were felt as far as Islamabad and Abbottabad in Pakistan.
-
-After the initial jolt, the region was rattled by multiple aftershocks—measuring 4.7, 4.3, and 5.0 magnitudes—at varying depths between 40 km and 140 km, intensifying fear among residents.
-
-Afghanistan lies on active fault lines between Indian and Eurasian plates
-
-Afghanistan is highly prone to earthquakes as it sits between the Indian and Eurasian tectonic plates. The Hindu Kush mountain range, running through the country, is one of the most seismically active regions in the world, where tremors are recorded almost every year.
-
-The fault line extends westward to Herat, making the country particularly vulnerable to destructive quakes.
-
-...
-
-[Data](articles/721bb7ac.json)
 
 ---

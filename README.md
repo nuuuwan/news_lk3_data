@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 23:06:23**
+As of **2025-09-01 23:19:55**
 
 ## Newspaper Stats
 
-*Scraped **73,596** Articles*
+*Scraped **73,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 621
 bbccomsinhala | 677
 colombotelegraphcom | 753
-economynextcom | 4,477
+economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,596 articles have been extended.
+61,973 (84.2%) of 73,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -976,6 +976,24 @@ It will also enhance health system resilience by upgrading laboratories, strengt
 
 ---
 
+### Sri Lanka president promises to return land in north
+
+*2025-09-01 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-promises-to-return-land-in-north-239031/) · `en`
+
+ECONOMYNEXT – Every plot of land in the North, which was acquired for the security forces during the war, will be released back to the people, Sri Lanka’s President Anura Dissanayake has said.
+
+He said the government is committed to safeguarding the surrounding seas, islands and landmass of the country for the benefit of the people and will not allow any external force to exert influence in this regard.
+
+Dissanayake was speaking at the inauguration of the third phase of the Myliddy Fisheries Harbour Development Project in Jaffna.
+
+Under the third phase of the Myliddy Fisheries Harbour Development Project, essential facilities such as water, electricity, fuel, cold storage, net-mending centres, auction halls and radio communication centres will be provided not only for the fishing community of the Northern Province but also for fishing boats arriving from the Eastern and Southern Provinces, the PMD said.
+
+...
+
+[Data](articles/852980cc.json)
+
+---
+
 ### X-Press Pearl Disaster: Sectoral Oversight Committee probes utilisation of compensation
 
 *2025-09-01 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112072/x-press-pearl-disaster-sectoral-oversight-committee-probes-utilisation-of-compensation) · `en`
@@ -1005,6 +1023,22 @@ President Dissanayake participated in several events today (01) in Jaffna, inclu
 ◼️
 
 [Data](articles/c27c5a21.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields edge up
+
+*2025-09-01 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-239023/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.97/302.07 to the US dollar in the spot market Monday, stronger from 302.00/10 the previous day, while bond yields were slightly up, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.15/26 percent, up from 8.15/25 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.30/40 percent. (Colombo/Sep1/2025)
+
+◼️
+
+[Data](articles/3c77ff48.json)
 
 ---
 
@@ -1376,6 +1410,24 @@ Police accordingly request motorists using the road to seek alternative routes. 
 
 ---
 
+### Sri Lanka tourist arrivals rise 20.4-pct in August
+
+*2025-09-01 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-rise-20-4-pct-in-august-238978/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals increased 20.4 percent from a year ago to 198,235 in August 2025, data from the island’s tourism promotion office showed.
+
+There were 46,473 visitors from India in July 2025, making up 23.4 percent of total arrivals, followed by the UK with 19,764 which made up 10 percent of arrivals.
+
+There were 12,500 visitors (6.3%) from Germany, 12,294 from China (6.2%), and 12,247 from Italy (6.2%).
+
+Visitors from other European countries included France 10,495 (5.3%) Spain 8,843 (4.5%) and the Netherlands 6,082 (3.1%) as the summer season progressed.
+
+◼️
+
+[Data](articles/a187a845.json)
+
+---
+
 ### No Laugfs Gas price revision in September
 
 *2025-09-01 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112068/no-laugfs-gas-price-revision-in-september-) · `en`
@@ -1453,6 +1505,28 @@ The petition was considered today before a three-judge bench of the Supreme Cour
 ...
 
 [Data](articles/306f6be8.json)
+
+---
+
+### Sri Lanka stocks close up, turnover pushed by John Keells crossing
+
+*2025-09-01 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-pushed-by-john-keells-crossing-238991/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index closed up on Monday, with turnover boosted by a crossing on John Keells Holdings, brokers said.
+
+The ASPI was up 0.31 percent, or 65.09 points, at 21,062.45; while the S&P SL20 was down 0.08 percent, or 4.97 points, 6,071.82.
+
+“The positive momentum continued with the market trading and closing above the 21,000 mark,” Ranjan Ranatunga, Assistant Vice President – Research at First Capital said.
+
+“This was mainly supported by a crossing on John Keells Holdings, which contributed 5.4 million rupees.”
+
+“Construction and property stocks saw increased activity mainly on the back of the positive PMI figures.
+
+Top contributors to the ASPI were Central Finance (up 6.75 rupees at 292.75), Dimo (up 149.25 rupees at 1,481.25), Melstacorp (up 1.50 rupees at 164.25), Cargills (Ceylon) (up 16 rupees at 738), and R I L Property (up 1.90 rupees at 30.90). (Colombo/Sep1/2025)
+
+◼️
+
+[Data](articles/3955e62d.json)
 
 ---
 
@@ -1687,77 +1761,5 @@ The arrests were part of a joint operation conducted by Sri Lanka Police, Indone
 ...
 
 [Data](articles/65f8a5bd.json)
-
----
-
-### மயிலிட்டியில் பதற்றம்: பொலிஸார் அடாவடி: தூஷணத்தால் திட்டி  முதுகில் பிடித்து தள்ளினர்
-
-*2025-09-01 13:05:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயிலிட்டியில்-பதற்றம்-பொலிஸார்-அடாவடி-தூஷணத்தால்-திட்டி-முதுகில்-பிடித்து-தள்ளினர்/175-363847) · `ta`
-
-யாழ்ப்பாணம் மயிலிட்டி பகுதியில் இன்று (01) காலை ஒன்றுகூடிய காணி உரிமையாளர்களையும் அதனை செய்தி சேகரித்த ஊடகவியலாளர்களையும் பொலிஸார் விரட்டியடித்தனர்.
-
-மயிலிட்டி மீன்பிடித் துறைமுகம் பகுதியில் அபிவிருத்தி பணிக்கான அடிக்கலை நாட்டுவதற்காக ஜனாதிபதி அனுர குமார  திசாநாயக்க வருகைதந்தார்.
-
-இதன்போது அப்பகுதியில் கூடியிருந்த, காணி உரிமையாளர்கள், பொதுமக்கள், ஊடகவியலாளர்கள் என அனைவரும் அப்பகுதியில் நிற்க விடாமல் விரட்டியடிக்கப்பட்டனர்.
-
-வயோதிபர்கள் எனவும் பாராது  தூஷண வார்த்தைகளால் ஏசி பொலிஸார்,  முதுகில் பிடித்து தள்ளினர்.
-
-பொலிஸார், இராணுவத்தினர், விசேட அதிரடிப் படையினர் குவிக்கப்பட்டு கடும் பாதுகாப்புக்கு மத்தியில் ஜனாதிபதி அனுர குமார திஸாநாயக்க மயிலிட்டிக்கு வருகை தந்திருந்தார்.
-
-கடந்த காலங்களில் ஜனநாயகம் பற்றி அதிகம் பேசிய அனுர குமார திசாநாயக்கவின் ஆட்சியிலும் பொலிஸார் கடந்த காலங்களை போன்று மூர்க்கத்தனமாக செயற்பட்டமை அங்கிருந்தவர்கள் மத்தியில் விசனத்தை ஏற்படுத்தியது.
-
-◼️
-
-[Data](articles/f5388d16.json)
-
----
-
-### ඉෂාරා සෙව්වන්දි රටින්  පලාගිය බවට අනාවරණයක්
-
-*2025-09-01 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214031) · `si`
-
-සංවිධානාත්මක අපරාධ කල්ලි නායක ගණේමුල්ල සංජීව අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණයේ විත්ති කූඩුවක් තුළ ඝාතනය කිරීමට ආධාර අනුබල දුන්නේ යැයි නම කියැවුණු ඉෂාරා සෙව්වන්දි නම් තැනැත්තිය රටින් පලාගොස් සිටින බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කරුණු අනාවරණය වී තිබේ.
-
-ඒ පසුගියදා ඉන්දුනීසියාවේ ජකර්තා නුවරදී අත්අඩංගුවට ගෙන පසුව මෙරටට රැගෙන ආ කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිසගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදීය.
-
-ශ්‍රී ලංකා පොලිසිය, ඉන්දුනීසියාවේ ජකර්තා නුවර පොලිසිය සහ ජාත්‍යන්තර පොලිසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් පසුගියදා අත්අඩංගුවට ගැනුණු සංවිධානාත්මක අපරාධකරුවන් මෙන්ම, මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, බැකෝ සමන් ඇතුළු පිරිස මේ වනවිට පැය 72ක් රැඳවුම් නියෝග මත ප්‍රශ්න කරමින් සිටී.
-
-ඔවුන් අතරින් මන්දිනු පද්මසිරි පෙරේරා හෙවත් කෙහෙල්බද්දර පද්මේ, නිලංග සම්පත් සිල්වා හෙවත් පානදුර නිලංග සහ ශලින්ත මදුෂාන් පෙරේරා හෙවත් කමාන්ඩෝ සලින්ත යන අපරාධකරුවන් ප්‍රශ්න කිරීම් සඳහා මේ වනවිට රඳවා ඇත්තේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේය.
-
-...
-
-[Data](articles/92f9b9ff.json)
-
----
-
-### “தனக்கு உதவிய அனைவருக்கும் நன்றி”
-
-*2025-09-01 13:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கு-உதவிய-அனைவருக்கும்-நன்றி/175-363846) · `ta`
-
-தான் கைது செய்யப்பட்டபோது தனக்கு உதவிய அனைவருக்கும் மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க,   தனது வீட்டிலிருந்து வீடியோ இணைப்பு மூலம் கருத்து தெரிவிக்கையிலேயே மேற்கண்டவாறு நன்றியை தெரிவித்தார். "
-
-“நான் கைது செய்யப்பட்டபோது என்னுடன் நின்ற அனைவருக்கும் எனது நன்றியைத் தெரிவித்துக் கொள்கிறேன். என்றாவது ஒரு நாள் உங்களைச் சந்திப்பேன் என்று நம்புகிறேன்” என்றார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தற்போது மருத்துவ மேற்பார்வையில் வீட்டில் ஓய்வெடுத்து வருகின்ற நிலையில், மீண்டும் நன்றி கூறுகிறேன் என்றார்
-
-◼️
-
-[Data](articles/bacc7908.json)
-
----
-
-### හදීසියේම හිටපු ජනාධිපති රනිල්ගෙන් ප්‍රකාශයක්
-
-*2025-09-01 12:59:04* · [`adalk`](https://www.ada.lk/breaking_news/හදීසියේම-හිටපු-ජනාධිපති-රනිල්ගෙන්-ප්‍රකාශයක්/11-418195) · `si`
-
-තමා අත්අඩංගුවට ගත් අවස්ථාවේ සිට තමා වෙනුවෙන් පෙනී සිටි සියලු දෙනාට ස්තූතිය පුද කරන බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
-
-මාධ්‍ය වෙත අද(01දා) විශේෂ ප්‍රකාශයක් නිකුත් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“මම අත්අඩංගුවට ගත් වෙලාවේදී මං වෙනුවෙන් පෙනී සිටි ඔන්ලයින් ඔබ සියලු දෙනාටම මගේ ස්තූතිය. පසු වෙලාවක ඔබ මුනගැහෙන්න බලාපොරොත්තු වෙනවා. යළිත් ස්තූතියි.”
-
-◼️
-
-[Data](articles/b50d4f96.json)
 
 ---

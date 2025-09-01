@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 22:33:57**
+As of **2025-09-01 22:49:52**
 
 ## Newspaper Stats
 
-*Scraped **73,590** Articles*
+*Scraped **73,594** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 620
+dbsjeyarajcom | 621
 bbccomsinhala | 677
 colombotelegraphcom | 753
 economynextcom | 4,477
@@ -18,19 +18,63 @@ dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,094
 adaderanalk | 9,380
-tamilmirrorlk | 10,942
+tamilmirrorlk | 10,944
 virakesarilk | 12,050
-adaderanasinhalalk | 12,780
+adaderanasinhalalk | 12,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,590 articles have been extended.
+61,973 (84.2%) of 73,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### பல உயர் பதவிகளில் விரைவில் மாற்றம்
+
+*2025-09-01 22:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-உயர்-பதவிகளில்-விரைவில்-மாற்றம்/175-363879) · `ta`
+
+பல சிரேஷ்ட பிரதி பொலிஸ்மா அதிபர்கள் மற்றும் பிரதி பொலிஸ்மா அதிபர்கள் இடமாற்றம் பெற உள்ளனர்.
+
+ஊவா மாகாணம், மேல் மாகாணம், வடமத்திய மாகாணம் உள்ளிட்ட பல மாகாணங்களில் புதிய அதிபர்கள் நியமிக்கப்பட உள்ளனர்.
+
+இது தொடர்பாக பொலிஸ்மா அதிபரின் பரிந்துரைகள் அடுத்த சில நாட்களில் தேசிய பொலிஸ் ஆணைக்குழுவிடம் சமர்ப்பிக்க திட்டமிடப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவித்தன.
+
+எவ்வாறாயினும், இது தொடர்பாக இதுவரை எந்த பரிந்துரைகளும் ஆணைக்குழுவுக்கு கிடைக்கவில்லை என்றும், அடுத்த சில நாட்களில் அவை பெறப்படும் என்றும் குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/21af7e82.json)
+
+---
+
+### විෂ වායුවක් ආඝ්‍රාණය වීමෙන් 30ක් රෝහලට
+
+*2025-09-01 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214057) · `si`
+
+පුස්සැල්ලාව, ඩෙල්ටා වත්ත ජල පවිත්‍රාගාරයේ හටගත් විෂ වායුවක් ආඝ්‍රාණය වීම හේතුවෙන් රෝගී වූ 30 ගම්පොළ ශික්ෂණ රෝහලට හා පුස්සැල්ලාව වහුගපිටිය රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/e5c59aee.json)
+
+---
+
+### ரயிலுடன் மோதிள லொறி : சிறுமி உட்பட 3 பேர் காயம்
+
+*2025-09-01 22:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோதிள-லொறி-சிறுமி-உட்பட-3-பேர்-காயம்/175-363878) · `ta`
+
+கொழும்பு கோட்டையிலிருந்து யாழ்ப்பாணம் நோக்கிச் சென்ற ரயிலில், சிறிய ரக லொறி ஒன்று மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+வவுனியா தெற்கு பிரதேச செயலகத்திற்கு அருகிலுள்ள ரயில் கடவையில் இடம்பெற்ற இவ்விபத்தில் சிறுமி உட்பட 3 பேர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக வவுனியா பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5ab07320.json)
+
+---
 
 ### ඝාතන සැකකරුවෙක් අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය පතයි
 
@@ -1703,59 +1747,5 @@ Earlier this month, the Trump administration also revoked visas from members of 
 ◼️
 
 [Data](articles/42cf6deb.json)
-
----
-
-### ஆப்கானிஸ்தான் நிலநடுக்கத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 622 ஆக அதிகரிப்பு !
-
-*2025-09-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223913) · `ta`
-
-கிழக்கு ஆப்கானிஸ்தானில் ஏற்பட்ட நிலநடுக்கத்தில் சிக்கி சுமார் 622 பேர் உயிரிழந்துள்ள நிலையில், ஆயிரத்து 500க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-இந்நிலையில், மீட்பு பணிகள் தொடர்ந்தும் இடம்பெற்று வருவதாகவும் இடிபாடுகளில் இருந்து காயமடைந்தவர்களை உலங்கு வானூர்திகளின் உதவியுடன் பாதுகாப்பாக மீட்கும் நடவடிக்கைகள் இடம்பெற்றுவருவதாகவும் தெரிவிக்கப்படுகிறது.
-
-இந்த நிலநடுக்கத்தில் சுமார் ஆயிரத்து 500 க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக தாலிபான்களால் நடத்தப்படும் ஆப்கானிஸ்தான் உள்துறை அமைச்சு வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
-
-இதேவேளை, ஆந்த நாட்டு வைத்தியசாலைகளின் புள்ளிவிவரங்களின் படி 400 க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாகவும் பலர் உயிரிழந்துள்ளதாகவும் அந்த நாட்டு அமைச்சக செய்தியாளர் வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
-
-இந்நிலையில், நிலநடுக்கத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை மேலும் அதிகரிக்கக்கூடும் என அச்சம் வெளியிடப்பட்டுள்ளது.
-
-...
-
-[Data](articles/59735c54.json)
-
----
-
-### Colombo HC hears evidence against “Harak Kata” in robbery case
-
-*2025-09-01 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112060/colombo-hc-hears-evidence-against-harak-kata-in-robbery-case) · `en`
-
-The hearing of evidence in the case filed against the underworld figure Nadun Chinthaka Wickramaratne, alias “Harak Kata,” who is accused of breaking into a house in Meethotamulla and robbing a three-wheeler and Rs. 26,000 in cash, was held at the Colombo High Court today (01).
-
-The evidence was recorded before Colombo High Court Judge Lanka Jayaratne, Ada Derana reporter said.
-
-Under the direction of Deputy Solicitor General Sudarshana De Silva, the testimony of two prosecution witnesses was recorded.
-
-Court then ordered that the further hearing of evidence be adjourned until October 29.
-
-When the case was called, “Harak Kata” was produced in court under tight security, and admission of individuals into the courtroom was carried out following strict screening procedures.
-
-◼️
-
-[Data](articles/7fc97be1.json)
-
----
-
-### தனக்கு ஆதரவளித்த அனைவருக்கும் நன்றி - ரணில்
-
-*2025-09-01 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223910) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தான் அண்மையில் கைது செய்யப்பட்ட போது தனக்கு ஆதரவு அளித்த ஒன்லைன் ஊடக சேனல்கள் உட்பட அனைவருக்கும் நன்றி தெரிவித்து விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
-
-“நான் கைது செய்யப்பட்ட நேரத்தில் எனக்கு ஆதரவளித்த ஒன்லைன் ஊடக சேனல்கள் உட்பட அனைவருக்கும் நன்றி கூறுகிறேன். வேறொரு நாளில் அனைவரையும் நேரில் சந்திப்பேன் என நம்புகிறேன்,” என விக்கிரமசிங்க தனது விசேட அறிக்கையில் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/4767266c.json)
 
 ---

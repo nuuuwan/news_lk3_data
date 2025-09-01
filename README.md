@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 02:32:33**
+As of **2025-09-02 02:49:14**
 
 ## Newspaper Stats
 
-*Scraped **73,620** Articles*
+*Scraped **73,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,210
+dailyftlk | 5,212
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,947
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,620 articles have been extended.
+61,973 (84.2%) of 73,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Central Industries appoints new Chairman, Non-Executive Directors
+
+*2025-09-02 02:24:40* · [`dailyftlk`](https://www.ft.lk/business/Central-Industries-appoints-new-Chairman-Non-Executive-Directors/34-781105) · `en`
+
+Central Industries PLC yesterday announced the appointment of C.S. Hettiarachchi as the Non-Executive Chairman of the company, along with Thilini Wathsala Weerasinghe and Dushan Virantha as Non-Executive Directors.
+
+Hettiarachchi was appointed to the Board on 30 June 2018. He holds a Bachelor of Laws (LL.B) Degree from the University of Colombo and an MBA from the University of Sri Jayewardenepura (PIM). He is an Attorney-at-Law of the Supreme Court of Sri Lanka. He is a past Chairman of the Leasing Association of Sri Lanka (LASL) and served as a Director of Credit Information Bureau of Sri Lanka (CRIB). Other current appointments in listed companies: He served as the Director – Corporate Affairs of Central Finance Company PLC and is a Director of Tea Smallholder Factories PLC. Others: Director of Dehigama Hotels Company Ltd. and Finance House Consortium Ltd. He serves as a Director on five other companies within the Central Finance PLC Group.
+
+...
+
+[Data](articles/26782289.json)
+
+---
+
+### Imran Furkan joins Softlogic Holdings Board
+
+*2025-09-02 02:23:09* · [`dailyftlk`](https://www.ft.lk/business/Imran-Furkan-joins-Softlogic-Holdings-Board/34-781104) · `en`
+
+Softlogic Holdings PLC yesterday announced the appointment of trop professional Imran Furkan as Independent Non-Executive Director with effect from 29 August 2025.
+
+Furkan advises Boards and CEOs on strategy, market expansion as well as geopolitical, economic, climate and technology risk management, the company said in a statement.
+
+“Currently serving as CEO of Tresync, Australia; Imran is passionate about one thing – fostering collaboration. This is evidenced by his achievements in senior management and Board Directorship roles in industries such as finance, health, food, retail, regulatory and industry bodies, IT/GBS, education, commodities, media, and professional services in the Asia-Pacific region,” the company said.
+
+...
+
+[Data](articles/e1b6c628.json)
+
+---
 
 ### ’மஹிந்தவை சிறையில் அடைக்க வேண்டும்’
 
@@ -1709,35 +1739,5 @@ Visitors from other European countries included France 10,495 (5.3%) Spain 8,843
 ◼️
 
 [Data](articles/a187a845.json)
-
----
-
-### No Laugfs Gas price revision in September
-
-*2025-09-01 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112068/no-laugfs-gas-price-revision-in-september-) · `en`
-
-LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of September, 2025.
-
-This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
-
-◼️
-
-[Data](articles/765882e2.json)
-
----
-
-### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
-
-*2025-09-01 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214036) · `si`
-
-මාසික මිල සංශෝධනය අනුව ලාෆ්ස් ගෑස් මිල සම්බන්ධව එම ආයතනය දැනුම් දීමක් සිදුකර තිබේ.
-
-ඒ අනුව සැප්තැම්බර් මාසයට අදාළව ලාෆ්ස් ගෑස් මිලේ කිසිදු වෙනසක් සිදුනොවන බව එහි අධ්‍යක්ෂ ආචාර්ය නිරෝෂන් ජේ.පීරිස් මහතා පවසයි.
-
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 4,100ක් වන අතර කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 1,645කි.
-
-◼️
-
-[Data](articles/da2285b4.json)
 
 ---

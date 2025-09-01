@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 13:19:52**
+As of **2025-09-01 13:32:22**
 
 ## Newspaper Stats
 
-*Scraped **73,487** Articles*
+*Scraped **73,492** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 618
 bbccomsinhala | 677
-colombotelegraphcom | 752
+colombotelegraphcom | 753
 economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,078
+adalk | 7,079
 adaderanalk | 9,354
-tamilmirrorlk | 10,922
+tamilmirrorlk | 10,925
 virakesarilk | 12,037
 adaderanasinhalalk | 12,755
 
@@ -26,19 +26,41 @@ adaderanasinhalalk | 12,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,487 articles have been extended.
+61,973 (84.3%) of 73,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
 
+### மயிலிட்டியில் பதற்றம்: பொலிஸார் அடாவடி: தூஷணத்தால் திட்டி  முதுகில் பிடித்து தள்ளினர்
+
+*2025-09-01 13:05:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயிலிட்டியில்-பதற்றம்-பொலிஸார்-அடாவடி-தூஷணத்தால்-திட்டி-முதுகில்-பிடித்து-தள்ளினர்/175-363847) · `ta`
+
+யாழ்ப்பாணம் மயிலிட்டி பகுதியில் இன்று (01) காலை ஒன்றுகூடிய காணி உரிமையாளர்களையும் அதனை செய்தி சேகரித்த ஊடகவியலாளர்களையும் பொலிஸார் விரட்டியடித்தனர்.
+
+மயிலிட்டி மீன்பிடித் துறைமுகம் பகுதியில் அபிவிருத்தி பணிக்கான அடிக்கலை நாட்டுவதற்காக ஜனாதிபதி அனுர குமார  திசாநாயக்க வருகைதந்தார்.
+
+இதன்போது அப்பகுதியில் கூடியிருந்த, காணி உரிமையாளர்கள், பொதுமக்கள், ஊடகவியலாளர்கள் என அனைவரும் அப்பகுதியில் நிற்க விடாமல் விரட்டியடிக்கப்பட்டனர்.
+
+வயோதிபர்கள் எனவும் பாராது  தூஷண வார்த்தைகளால் ஏசி பொலிஸார்,  முதுகில் பிடித்து தள்ளினர்.
+
+பொலிஸார், இராணுவத்தினர், விசேட அதிரடிப் படையினர் குவிக்கப்பட்டு கடும் பாதுகாப்புக்கு மத்தியில் ஜனாதிபதி அனுர குமார திஸாநாயக்க மயிலிட்டிக்கு வருகை தந்திருந்தார்.
+
+கடந்த காலங்களில் ஜனநாயகம் பற்றி அதிகம் பேசிய அனுர குமார திசாநாயக்கவின் ஆட்சியிலும் பொலிஸார் கடந்த காலங்களை போன்று மூர்க்கத்தனமாக செயற்பட்டமை அங்கிருந்தவர்கள் மத்தியில் விசனத்தை ஏற்படுத்தியது.
+
+◼️
+
+[Data](articles/f5388d16.json)
+
+---
+
 ### ඉෂාරා සෙව්වන්දි රටින්  පලාගිය බවට අනාවරණයක්
 
 *2025-09-01 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214031) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි නායක ගණේමුල්ල සංජීව අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණයේ විත්ති කූඩුවක් තුළ ඝාතනය කිරීමට ආධාර අනුබල දුන්නේ යැයි නම කියැවුණු ඉෂාරා සෙව්වන්දි නම් තැනැත්තිය රටින් පලාගොස් සිටින බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කරුණු අනාවරණය වී තිබේ.
+සංවිධානාත්මක අපරාධ කල්ලි නායක ගණේමුල්ල සංජීව අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණයේ විත්ති කූඩුවක් තුළ ඝාතනය කිරීමට ආධාර අනුබල දුන්නේ යැයි නම කියැවුණු ඉෂාරා සෙව්වන්දි නම් තැනැත්තිය රටින් පලාගොස් සිටින බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කරුණු අනාවරණය වී තිබේ.
 
-ඒ පසුගියදා ඉන්දුනීසියාවේ ජකර්තා නුවරදී අත්අඩංගුවටගෙන පසුව මෙරටට රැගෙන ආ කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිසගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදිය.
+ඒ පසුගියදා ඉන්දුනීසියාවේ ජකර්තා නුවරදී අත්අඩංගුවට ගෙන පසුව මෙරටට රැගෙන ආ කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිසගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදීය.
 
 ශ්‍රී ලංකා පොලිසිය, ඉන්දුනීසියාවේ ජකර්තා නුවර පොලිසිය සහ ජාත්‍යන්තර පොලිසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් පසුගියදා අත්අඩංගුවට ගැනුණු සංවිධානාත්මක අපරාධකරුවන් මෙන්ම, මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, බැකෝ සමන් ඇතුළු පිරිස මේ වනවිට පැය 72ක් රැඳවුම් නියෝග මත ප්‍රශ්න කරමින් සිටී.
 
@@ -47,6 +69,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/92f9b9ff.json)
+
+---
+
+### “தனக்கு உதவிய அனைவருக்கும் நன்றி”
+
+*2025-09-01 13:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கு-உதவிய-அனைவருக்கும்-நன்றி/175-363846) · `ta`
+
+தான் கைது செய்யப்பட்டபோது தனக்கு உதவிய அனைவருக்கும் மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க,   தனது வீட்டிலிருந்து வீடியோ இணைப்பு மூலம் கருத்து தெரிவிக்கையிலேயே மேற்கண்டவாறு நன்றியை தெரிவித்தார். "
+
+“நான் கைது செய்யப்பட்டபோது என்னுடன் நின்ற அனைவருக்கும் எனது நன்றியைத் தெரிவித்துக் கொள்கிறேன். என்றாவது ஒரு நாள் உங்களைச் சந்திப்பேன் என்று நம்புகிறேன்” என்றார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தற்போது மருத்துவ மேற்பார்வையில் வீட்டில் ஓய்வெடுத்து வருகின்ற நிலையில், மீண்டும் நன்றி கூறுகிறேன் என்றார்
+
+◼️
+
+[Data](articles/bacc7908.json)
+
+---
+
+### வீரவன்சவுக்கு எதிரான வழக்கு விசாரணைக்கு வருகிறது
+
+*2025-09-01 12:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீரவன்சவுக்கு-எதிரான-வழக்கு-விசாரணைக்கு-வருகிறது/175-363845) · `ta`
+
+ஐ.நா. மனித உரிமைகள் ஆணையாளர் இலங்கைக்கு விஜயம் செய்த நாளில் நடைபெற்ற போராட்டத்தின் போது வீதிகளை மறித்ததாகக் கூறப்படும் குற்றச்சாட்டில் தேசிய சுதந்திர முன்னணி முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச மற்றும் ஆறு கட்சி உறுப்பினர்களுக்கு எதிரான வழக்கை விசாரிக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, திங்கட்கிழமை (01) உத்தரவிட்டார்.
+
+வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச உட்பட ஐந்து பிரதிவாதிகள் நீதிமன்றத்தில் ஆஜரானார்கள்.
+
+ஐ.நா. மனித உரிமைகள் ஆணையாளர் செய்ட் ரே அல் ஹுசைனின் இலங்கை வருகைக்கு எதிர்ப்புத் தெரிவித்து, 2016 பிப்ரவரி 6,  அன்று தும்முல்ல மற்றும் பிற பகுதிகளில் ஐ.நா. அலுவலகத்திற்கு முன்பாக சாலைகளைத் தடுத்த போராட்டக்காரர்களுக்கு எதிராக கறுவாத்தோட்ட பொலிஸாரினால்   வழக்குத் தொடரப்பட்டது.
+
+◼️
+
+[Data](articles/42cf6deb.json)
 
 ---
 
@@ -465,6 +519,22 @@ During a search of the house, police arrested another suspect and discovered a o
 ◼️
 
 [Data](articles/7b8378b2.json)
+
+---
+
+### නීතිය නවන්නේ නෑ, නීතිය ක්‍රියාත්මක කරනවා
+
+*2025-09-01 11:12:11* · [`adalk`](https://www.ada.lk/breaking_news/නීතිය-නවන්නේ-නෑ--නීතිය-ක්‍රියාත්මක-කරනවා/11-418191) · `si`
+
+මෙවර යල කන්නයේ දී මේ වන විට වී කිලෝග්‍රෑම් එකක් රුපියල් 120 බැගින් මෙට්‍රික් ටොන් 40,000ක් රජය මිලදීගෙන අවසන් කර ඇත. තවද රජය විසින් වී මෙට්‍රික් ටොන් 1,20,000ක් මිලදී ගැනීමට කටයුතු කරන අතර, ඒ සඳහා අවශ්‍ය මුදල් ද වෙන් කර තිබේ. එහෙත් ඉදිරියේදී වෙළඳපොලේ සහල් හිඟයක් ඇති කරමින් සිදු කරන ජාවාරම් ක්‍රියාත්මක වුවහොත්, ඒ පිළිබඳව අවශ්‍ය තීරණ ගනු ලබන බව වෙළඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා සඳහන් කළේය.
+
+ඒ අනුව අනුරාධපුර නගරයේ මාර්ග සංවර්ධනය ආරම්භ කරමින් අනුරාධපුර නගර සභා බලප්‍රදේශයේ පවිත්‍රපුර මීටර් 800කින් පමණ යුතු මාර්ගය රුපියල් මිලියන 33ක වියදමින් සංවර්ධනය කිරීමේ අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+ජනාධිපති ලේකම් කාර්යාලයට ලැබෙන පැමිණිලි අනුව රජය නීතිය ක්‍රියාත්මක කරනවා මිසක් කිසිවිටෙක දේශපාලන පළිගැනීම් සිදු නොකරන බවත් විදුලි බල මණ්ඩලය කිසිවිටෙක පෞද්ගලීකරණය හෝ විකිණීමට කටයුතු නොකරන බවත් වසන්ත සමරසිංහ අමාත්‍යවරයා පවසයි.
+
+...
+
+[Data](articles/cf571337.json)
 
 ---
 
@@ -1244,6 +1314,18 @@ The primary balance (current and capital spending minus interest costs) widened 
 
 ---
 
+### Arrest Of Criminals & The Truth Behind The Political Euphoria
+
+*2025-09-01 07:38:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/arrest-of-criminals-the-truth-behind-the-political-euphoria/) · `en`
+
+As law abiding citizens we are happy to note the developments in the arrest of most wanted criminals who operate criminal offences living in exile having fled the country. This is a menace that we were plagued in an unprecedented manner in the recent past. The wave of crimes, some blatant open day light massacres in callous disregard of Law and Order of the country and the Law enforcing authorities were shockingly incredible. There is no doubt that citizens love to live in a peaceful environment without being disturbed by such nefarious activities.
+
+...
+
+[Data](articles/c5c23948.json)
+
+---
+
 ### 6.3 magnitude earthquake hits Afghanistan, at least 20 killed
 
 *2025-09-01 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112045/63-magnitude-earthquake-hits-afghanistan-at-least-20-killed) · `en`
@@ -1729,81 +1811,5 @@ This recognition, presented by the German Design Council, a globally respected a
 ◼️
 
 [Data](articles/90e93b53.json)
-
----
-
-### Colombo Uni. to host program on “Embodied Intelligence, Buddhist Meditation Practice, and AI Tech Entrepreneurship”
-
-*2025-09-01 05:22:43* · [`dailyftlk`](https://www.ft.lk/business/Colombo-Uni-to-host-program-on-Embodied-Intelligence-Buddhist-Meditation-Practice-and-AI-Tech-Entrepreneurship/34-781042) · `en`
-
-Imperial College London Professor of Robotics and Morph Lab Director Prof. Thrishantha Nanayakkara
-
-The Centre for Meditation Research (CMR), Faculty of Medicine, University of Colombo, in collaboration with the Centre for Research Development and Innovation (CRDI), will host a ground-breaking program titled “Embodied Intelligence, Buddhist Meditation Practice, and AI Tech Entrepreneurship” on 10 September, at the Main Auditorium, UCFM Tower, Faculty of Medicine, University of Colombo, from 4 p.m.
-
-The keynote address will be delivered by Imperial College London Professor of Robotics and Morph Lab Director Prof. Thrishantha Nanayakkara. An internationally acclaimed scholar, Prof. Nanayakkara’s pioneering research bridges robotics, neuroscience, and human motor control. His keynote will highlight how embodied intelligence—integrating mind, body, and environment—can inform the design of ethical, human-cantered intelligent systems, drawing parallels between Buddhist meditation and robotics.
-
-...
-
-[Data](articles/655a9973.json)
-
----
-
-### Tom Puthiyamadam and Jayson Traxler share key insights to Grant Thornton’s acquisition of Stax
-
-*2025-09-01 05:11:28* · [`dailyftlk`](https://www.ft.lk/business/Tom-Puthiyamadam-and-Jayson-Traxler-share-key-insights-to-Grant-Thornton-s-acquisition-of-Stax/34-781041) · `en`
-
-Following Grant Thornton’s recent announcement that it will acquire Stax, Consulting Magazine took the opportunity to have a conversation with Tom Puthiyamadam, Managing Partner for Advisory Services at Grant Thornton Advisors LLC and Jayson Traxler, CEO of Stax.
-
-In this exclusive conversation, Tom and Jayson reveal the strategic rationale behind the deal, detail how their combined expertise will elevate offerings across the private equity investment lifecycle, and explain why their shared values will ensure a seamless cultural integration.
-
-They also look ahead to the next chapter of their partnership—expanding the range of services available to private equity clients and portfolio companies, and creating fresh opportunities for team members to grow within a people-focused culture both firms have worked hard to foster.
-
-Consulting: How does the acquisition of Stax fit into Grant Thornton’s strategy for its consulting practice?
-
-...
-
-[Data](articles/0cbb11af.json)
-
----
-
-### Sri Lanka’s Colombo Consumer Price Index based inflation back in positive territory
-
-*2025-09-01 03:41:48* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-Colombo-Consumer-Price-Index-based-inflation-back-in-positive-territory/4-781026) · `en`
-
-Headline inflation, as measured by the Colombo Consumer Price Index (CCPI), returned to positive territory in August 2025, recording 1.2% (YoY) (Figure 1). This marks the end of a deflationary phase that lasted nearly a year. CCPI based headline inflation slipped into negative territory in September 2024 and remained negative for 11 consecutive months. The lowest point was reached in February 2025, recording a deflation of 4.2%. The deflationary trend gradually eased from March 2025 onward, culminating in a turnaround by August 2025 with headline inflation reaching positive levels.
-
-...
-
-[Data](articles/f8ca0f52.json)
-
----
-
-### The clock is ticking for Europe’s chemical industry
-
-*2025-09-01 03:33:08* · [`dailyftlk`](https://www.ft.lk/columns/The-clock-is-ticking-for-Europe-s-chemical-industry/4-781024) · `en`
-
-On 1 August, the United States imposed a 15% tariff on most European chemical imports. It caught some off guard. However, for many in the industry, it was just another warning sign: Europe’s chemical sector is under serious pressure — and time is running out to turn things around.
-
-The challenges go far beyond trade. For years, Europe’s chemical industry has been weighed down by sky-high energy costs, complex regulations, and growing competition from Asia. The US tariffs didn’t start the crisis — they simply added to the long list of pressures driving Europe’s steady decline.
-
-To understand Europe’s current vulnerability, it’s important to look beyond short-term trade tensions and examine the deeper forces driving the region’s decline. A combination of high energy costs, slow regulatory processes, and rising global competition is steadily undermining Europe’s position in the global chemical market.
-
-...
-
-[Data](articles/b3884f88.json)
-
----
-
-### Educational reforms meaningless unless learning culture is inculcated
-
-*2025-09-01 03:23:49* · [`dailyftlk`](https://www.ft.lk/columns/Educational-reforms-meaningless-unless-learning-culture-is-inculcated/4-781022) · `en`
-
-Shortfalls in learning during school years eventually show up as weak skills in the workforce
-
-The overall objective of the present reform program has been very wide. It aims at laying the foundation to creating a citizen ready for the challenges of the 21st century and beyond and help the country to attain sustainable development, and peace. While the last goal is feasible to attain within the next two to three decades, producing a human capital unit for this as well as the next century is a tall order
-
-...
-
-[Data](articles/06f4b7e4.json)
 
 ---

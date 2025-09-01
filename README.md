@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 15:33:12**
+As of **2025-09-01 15:50:58**
 
 ## Newspaper Stats
 
-*Scraped **73,506** Articles*
+*Scraped **73,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,082
-adaderanalk | 9,359
+adalk | 7,084
+adaderanalk | 9,361
 tamilmirrorlk | 10,927
 virakesarilk | 12,037
-adaderanasinhalalk | 12,759
+adaderanasinhalalk | 12,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,506 articles have been extended.
+61,973 (84.3%) of 73,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
+
+*2025-09-01 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214036) · `si`
+
+මාසික මිල සංශෝධනය අනුව ලාෆ්ස් ගෑස් මිල සම්බන්ධව එම ආයතනය දැනුම් දීමක් සිදුකර තිබේ.
+
+ඒ අනුව සැප්තැම්බර් මාසයට අදාළව ලාෆ්ස් ගෑස් මිලේ කිසිදු වෙනසක් සිදුනොවන බව එහි අධ්‍යක්ෂ ආචාර්ය නිරෝෂන් ජේ.පීරිස් මහතා පවසයි.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 4,100ක් වන අතර කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 1,645කි.
+
+◼️
+
+[Data](articles/da2285b4.json)
+
+---
+
+### Seylan Cards collaborates with Cinnamon Hotels & Resorts to host ‘The Gathering of Giants’ for 2nd consecutive year
+
+*2025-09-01 15:30:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
+
+Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
+
+...
+
+[Data](articles/4515484b.json)
+
+---
 
 ### மயிலிட்டியில் ஜனாதிபதிக்கு திலகமிட்டு வரவேற்பு
 
@@ -48,6 +76,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### හැටන් පාසල් ළමුන් ප්‍රවාහනය වාහන කිහිපයක් ධාවනයෙන් ඉවතට
+
+*2025-09-01 15:14:04* · [`adalk`](https://www.ada.lk/breaking_news/හැටන්-පාසල්-ළමුන්-ප්‍රවාහනය-වාහන-කිහිපයක්-ධාවනයෙන්-ඉවතට/11-418198) · `si`
+
+හැටන් ප්‍රදේශයේ රජයෙ සහ ජාත්‍යන්තර පාසල් වලට පාසල් ළමුන් ප්‍රවාහනය කරන බස් රථ, වෑන්රථ, ත්‍රීරෝද රථ, නුවරඒලිය දිස්ත්‍රික් ප්‍රධාන මෝටර් රථ පරික්ෂක ජාලිය බණ්ඩාර මහතාගේ හදිසි පරික්ෂණයකට ලක් විය.
+
+හැටන් කොට්ටඨාශභාර පොලිස් අධිකාරි ප්‍රදීප් වීරසේකර මහතාගේ උපදෙස් පරිදි හැටන් පොලිසියේ රථවාහන අංශයේ නිළධාරින් විසින් මස්කෙළිය බගවන්තලාව ගිනිගත්හේන, තලවකැලේ, කොටගල යන ප්‍රදේශවල සිට හැටන් ප්‍රදේශයට පාසල් ළමුන් ප්‍රවාහනය කරන සිලුම වාහන හැටන් දුම්රිය ස්ථානය අසළට රැගෙන විත්, ඒහිදි ඒම වාහන පරික්ෂවට ලක් කෙරිණ.
+
+වාහන පරික්ෂා කිරීමට ප්‍රථම පොලිස් අධිකාරිවරයා සහ මෝටර් රථ පරික්ෂකවරයා විසින් පාසල් ළමුන් ප්‍රවාහනය සිදු කරන රියදුරන්ව සහ අයිතිකරුවන්ව දැනුව්ත කිරිමක්ද සිදු කරනු ලැබුවා.
+
+...
+
+[Data](articles/4e96eeba.json)
+
+---
+
 ### වනඅලි ප්‍රහාරයකින් පුද්ගල‍යෙකු මරුට
 
 *2025-09-01 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214035) · `si`
@@ -61,6 +105,54 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4af66acb.json)
+
+---
+
+### Indonesian politicians to have perks cut in bid to quell unrest
+
+*2025-09-01 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112065/indonesian-politicians-to-have-perks-cut-in-bid-to-quell-unrest) · `en`
+
+Indonesian political parties have agreed to reverse some state-funded perks their politicians receive in a bid to quell nationwide protests, the country’s president has said.
+
+Several cities in the Southeast Asian nation including the capital, Jakarta, have been gripped by anti-government demonstrations in the past week that have at times led to clashes between protesters and police.
+
+While the protests have been fuelled by a wide range of issues - including the death of a ride-sharing driver - one core complaint concerns a new monthly allowance for lawmakers.
+
+President Prabowo Subianto announced on Sunday that several perks would be reined in, including the size of some allowances.
+
+The Indonesian leader - who has already had to cancel a trip to China over the unrest - said some demonstrations had gone beyond what was considered peaceful and may amount to “treason and terrorism”.
+
+...
+
+[Data](articles/b5acc1df.json)
+
+---
+
+### Former Minister Udaya Gammanpila files petition to prevent arrest
+
+*2025-09-01 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112064/former-minister-udaya-gammanpila-files-petition-to-prevent-arrest-) · `en`
+
+Former Minister Udaya Gammanpila has filed a petition before the Court of Appeal seeking an order to prevent his arrest under the provisions of the International Covenant on Civil and Political Rights (ICCPR).
+
+The petition, submitted through his legal counsel, names the Secretary to the Ministry of Public Security, Ravi Seneviratne, the Inspector General of Police, and several others as respondents, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/4761506d.json)
+
+---
+
+### යුක්රේන යුද්ධය අවසන් කිරීමට ට්‍රම්ප් සමග අවබෝධතාවකට ආ බව පුටින් කියයි
+
+*2025-09-01 14:51:20* · [`adalk`](https://www.ada.lk/breaking_news/යුක්රේන-යුද්ධය-අවසන්-කිරීමට-ට්‍රම්ප්-සමග-අවබෝධතාවකට-ආ-බව-පුටින්-කියයි/11-418197) · `si`
+
+ඇලෙස්කාවේ පැවති සාකච්ඡාවේදී රුසියා-යුක්රේන යුද්ධය අවසන් කිරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමග අවබෝධතාවයකට පැමිණි බව රුසියානු ජනාධිපති ව්ලැද්මියර් පුටින් පැවසීය.
+
+චීනයේ පැවැත්වෙන සමුුළුවක් අතරතුරු අදහස් පළ කරමින් හෙතෙම අද (01දා) මෙම අදහස් පළ කර තිබේ.
+
+◼️
+
+[Data](articles/f28896c9.json)
 
 ---
 
@@ -1699,131 +1791,5 @@ One of the motorcyclists was injured and managed to flee the scene, while the ot
 ...
 
 [Data](articles/7ce3099d.json)
-
----
-
-### හිටපු ජනපති ලේකම් සමන් ඒකනායක අද යළිත් CID යට කැඳවයි
-
-*2025-09-01 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214017) · `si`
-
-හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා අද (01) යළි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා තිබේ.
-
-ඒ අනුව ඒ මහතාට අද පෙරවරු 9ට අපරාධ පරීක්ෂන දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස දැනුම් දී ඇත.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට මෙම කැඳවීම සිදුකර තිබේ.
-
-සිද්ධියට අදාළව මීට පෙර ද සමන් ඒකනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ප්‍රකාශ සටහන් කරගෙන තිබුණි.
-
-මේ අතර හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ ‍වොල්වර්හැම්ප්ටන් විශ්වවිද්‍යාලයේ පැවැති උපාධි ප්‍රදානෝත්සවය සඳහා සහභාගී වී ඇත්තේ නිල ආරාධනයක් අනුව බවත් එය යළිත් වරක් තහවුරු කර ඇතැයි හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය අධ්‍යක්ෂ ජනරාල් ධනුෂ්ක රාමනායක මහතා පවසයි.
-
-මෙම සිද්ධිය සම්බන්ධව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට පසුගිය 22 වැනිදා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කෙරුණු අතර පසුව අගෝස්තු 26 වැනිදා ඒ මහතා ඇප මත මුදා හැරිණි.
-
-◼️
-
-[Data](articles/1960fa4d.json)
-
----
-
-### රාජ්‍ය ආයතනවල ගොඩගැසී ඇති අනවශ්‍ය දෑ ඉවත් කිරීමට විශේෂ වැඩපිළිවෙලක්
-
-*2025-09-01 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214016) · `si`
-
-රාජ්‍ය ආයතනවල ගොඩගැසී ඇති අනවශ්‍ය දෑ ඉවත් කිරීම සදහා විශේෂ වැඩපිළිවෙලක් අද (01) සිට ක්‍රියාත්මක කිරීමට රජය පියවර ගෙන තිබේ.
-
-“සෙයිරි සතිය“ නමින් ප්‍රකාශයට පත් කර ඇති මෙම වැඩපිළිවෙල අද සිට දින 4ක් ක්‍රියාත්මක කිරීමට නියමිතය.
-
-රාජ්‍ය ආයතන තුළ සිටින නිලධාරීන් හට තම රාජකාරී කටයුතු නිසි පරිදි නිදහස්ව සිදු කිරීමට සුදුසු පිරිසිදු හා සෞඛ්‍ය ආරක්ෂිත වටපිටාවක් නිර්මාණය කිරීම අරමුණු කරගනිමින් මෙම වැඩපිළිවෙල ක්‍රියාත්මක කර ඇත.
-
-ඒ සදහා රාජ්‍ය පරිපාලන පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශ ලේකම්වරයා විසින් විශේෂ චක්‍රලේඛයක් නිකුත් කර ඇති අතර එය සියලු අමාත්‍යාංශ ලේකම්වරුන්, පළාත් ප්‍රධාන ලෙක්ම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන්, දිස්ත්‍රික් ලේකම්වරුන්, රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත මණ්ඩල ප්‍රධානීන් වෙත යොමුකර ඇති බව සඳහන් වේ.
-
-ක්ලීන් ශ්‍රී ලංකා ජාතික වැඩසටහනට සමගාමීව මෙය ක්‍රියාත්මක කිරිමට නියමිත අතර අවශ්‍ය දෑ සහ අනවශ්‍ය දෑ හඳුනාගැනීම හා අනවශ්‍ය දේ බැහැර කිරීම මෙහිදි සිදුකිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/08733140.json)
-
----
-
-### වෙන්නප්පුවේ වෙඩි තැබීමට  තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට
-
-*2025-09-01 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214015) · `si`
-
-වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීම සම්බන්ධයෙන් තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 26ත් 29ත් අතර පසුවන පුද්ගලයින් දෙදෙනෙකු බව පොලිසීය සඳහන් කළේය.
-
-ඔවුන් දෙදෙනා අද (01) මාරවිල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-මෙම වෙඩි තැබීම සම්බන්ධයෙන් ඊයේ දිනයේ දී ද රිවෝල්වර් වර්ගයේ ගිනි අවියක් සමඟ සැකකරුවෙකු වෙන්නප්පුව පොලිසීය විසින් අත්අඩංගුවට ගෙන තිබුණි.
-
-වෙන්නප්පුව පොලීසිය ආසන්නයේ පිහිටි වැව පාර ප්‍රදේශයේදී ඊයේ (31) පෙරවරු 10.30ට පමණ මෙම වෙඩි තැබීම සිදුව ඇත.
-
-මොටර් රථයකින් පැමිණි පිරිසක් විසින් යතුරුපැදියේ ගමන් ගත් පුද්ගලයෙකු අනතුරකට ලක් කර පසුව යතුරුපැදියේ පැමිණි දෙදෙනාට තියුණු ආයුධයකින් පහරදී වෙඩි තබා තිබුණි.
-
-සිද්ධියෙන් යතුරුපැදියේ පැමිණි එක් අයෙකු තුවාල ලබා පළාගොස් ඇති අතර අනෙක් පුද්ගලයා වෙඩි වැදීමෙන් ජීවිතක්ෂයට පත්විය.
-
-යතුරුපදියෙන් පැමිණි දෙදෙනාගෙන් මිය ගිය තැනැත්තා මහාධිකරණයේ පවතින නඩුවකට අදාළව වෙන්නප්පුව පොලීසියේ අත්සන් කිරීමට පැමිණ ආපසු යමින් සිටි අවස්ථාවේදී මෙම වෙඩි තැබීම සිදුව තිබුණි.
-
-...
-
-[Data](articles/06942543.json)
-
----
-
-### Sri Lanka cuts petrol to Rs299 a litre, diesel to Rs283
-
-*2025-09-01 06:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-petrol-to-rs299-a-litre-diesel-to-rs283-238886/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Petroleum Corporation has cut fuel prices by midnight August 31, under a pricing formula, reports said.
-
-Octane 92 petrol was cut by 06 rupees to 299 rupees from 305 rupees.
-
-Super diesel was cut by 12 rupees to 325 rupees to 313 rupees.
-
-◼️
-
-[Data](articles/e27a90a0.json)
-
----
-
-### செம்மணியில் நேற்று 12 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-09-01 06:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-12-எலும்புக்கூடுகள்-அடையாளம்/175-363811) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய  அகழ்வின் போது புதிதாக 12 மனித எலும்புக்கூடுகள்  அடையாளம் காணப்பட்டுள்ளன.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 39 ஆம் நாள் அகழ்வு நேற்று (31) இடம்பெற்றது.
-
-நேற்றைய அகழ்வின் போது 12 மனித எலும்புக்கூடுகள்  புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித எலும்புக்கூடுகளின் எண்ணிக்கை 209 ஆக அதிகரித்துள்ளது.
-
-அத்துடன், ஏற்கனவே அடையாளம் காணப்பட்ட 11 மனித எலும்புக்கூடுகள் நேற்று அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை 191 மனித எலும்புக்கூடுகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/bda71f7a.json)
-
----
-
-### ඇෆ්ගනිස්ථානයට ප්‍රබල භූ කම්පනයක් - පුද්ගලයින් 20ක් මරුට
-
-*2025-09-01 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214014) · `si`
-
-ඇෆ්ගනිස්ථානයේ ඇති වූ ප්‍රබල භූ කම්පන තත්ත්වයකින් මේ වන විට පුද්ගලයින් රැසක් ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-රික්ටර් මාපකයේ 6.0ක ප්‍රබලත්වයෙන් කිලෝමීටර් 8ක ගැඹුරකින් මෙම භූ කම්පන තත්ත්වය හටගෙන ඇත.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ හටගත් භූ කම්පන තත්ත්වයෙන් පසු ඇති වූ ආපදා හේතුවෙන් පුද්ගලයින් 20 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් පුද්ගලයින් 100කට අධික පිරිසක් තුවාල ලබා රෝහල් ගත කර ඇති බවය.
-
-එරට බලධාරීන් වාර්තා කර ඇත්තේ හටගත් භූ කම්පන තත්ත්වයෙන් මිය ගිය පිරිස තවදුරටත් ඉහළ යා හැකි බවය.
-
-භූ කම්පනයෙන් කාබුල් සිට පාකිස්තාන අගනුවර වන ඉස්ලාමාබාද් දක්වා ගොඩනැගිලි රැසක් සෙලවී ඇති බවද විදෙස් මාධ්‍ය වාර්තා කර ඇත‍.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ පළමු භූ කම්පන තත්ත්වය සිදුව පසු කම්පන තත්ත්ව 03ක් සිදුව ඇති අතර ඒවා පිළිවලින් රික්ටර් මාපක 4.5 සහ 5.2 දක්වා පරාසය පවතින බවය.
-
-භූ කම්පන තත්ත්වයෙන් දැඩි හානි සිදුව ඇත්තේ පාකිස්ථානය සමග දේශසීමා ආසන්නයේ ඇති කුනාර් පළාතේ නොර්ගල් දිස්ත්‍රික්කයේ වන බවද විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-...
-
-[Data](articles/64429bc2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 11:32:41**
+As of **2025-09-01 11:53:59**
 
 ## Newspaper Stats
 
-*Scraped **73,457** Articles*
+*Scraped **73,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,074
+adalk | 7,075
 adaderanalk | 9,347
-tamilmirrorlk | 10,912
+tamilmirrorlk | 10,915
 virakesarilk | 12,033
-adaderanasinhalalk | 12,750
+adaderanasinhalalk | 12,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,457 articles have been extended.
+61,973 (84.4%) of 73,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### நடிகையின் இடுப்பை கிள்ளிய   நடிகர்
+
+*2025-09-01 11:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகையின்-இடுப்பை-கிள்ளிய-நடிகர்/54-363835) · `ta`
+
+பிரபல நடிகரான பவன்சிங் சமீபத்தில் நடிகை அஞ்சலி ராகவுடன் பொது வெளியில் நடந்த படவிழாவில் பங்கேற்றார். அப்போது நடிகை அஞ்சலி பேசி கொண்டிருந்த போது திடீரென அவரது இடுப்பை பவன்சிங் தொட்டார்.
+
+இதனால் சிரித்தபடி அஞ்சலி திரும்பி பார்த்தார். மீண்டும் பவன்சிங் அஞ்சலி இடுப்பை தொட்டார். இதனால் உள்ளே சங்கடமாக உணர்ந்தாலும் அஞ்சலி வெளியே சிரித்துக் கொண்டே காணப்பட்டார். லக்னோவில் நடந்த 'சாயா சேவா கரே' பாடலுக்கான விளம்பர நிகழ்வில் இந்த சம்பவம் நடந்தது.
+
+பொது மேடையில் பவன்சிங் நடிகையின் இடுப்பை கிள்ளிய வீடியோ காட்சிகள் சமூக வலைதளங்களில் வைரலாகி அவருக்கு எதிராக கடும் விமர்சனங்களை உருவாக்கி உள்ளது.
+
+இந்நிலையில், அஞ்சலி இந்த சம்பவத்திற்கு பிறகு வித்தியாசமான முடிவை எடுத்திருக்கிறார். அவர் கூறுகையில், ''சிலர் என்னைக் குறை கூறுகிறார்கள். அதை ரசிக்கிறேன் என்கின்றனர். அனுமதியின்றி என்னை யாராவது தொட்டால் நான் மகிழ்ச்சியடைவேனா? அதை எப்படி ரசிப்பேன் என்று நினைக்கிறீர்கள்?.
+
+...
+
+[Data](articles/acb45ab9.json)
+
+---
+
+### விஜய்யின் முகத்தில் ஓங்கி குத்துவேன்: நடிகர் ரஞ்சித் ஆவேச பேச்சு
+
+*2025-09-01 11:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்யின்-முகத்தில்-ஓங்கி-குத்துவேன்-நடிகர்-ரஞ்சித்-ஆவேச-பேச்சு/54-363834) · `ta`
+
+இந்து முன்னணி சார்பில் கோவை துடியலூர் சந்திப்பில் விநாயகர் சதுர்த்தி ஊர்வலம் தொடக்க விழா நடைபெற்றது. இதில் பா.ஜ.கவை சேர்ந்த நடிகர் ரஞ்சித் கலந்து கொண்டு பேசினார். அப்போது அவர் மதுரை மாநாட்டில் பிரதமர் மோடி பற்றி விஜய் பேசியதற்கு ஆவேசமாக பதிலளித்தார். அவர் கூறுகையில்,
+
+''ஒரு வாக்காளனா, ஒரு குடிமகனா எனக்கு அப்பா யாரென்றால் அதுமோடிதான். அவர்தான் என்னை காப்பாற்றுகிறார். அமெரிக்காவே வியந்து பார்க்கும் ஒரே பிரதமர் மோடி, அவரை போய் கைநீட்டி சொடக்கு போட்டு பேச விஜய்க்கு அருகதை இல்லை. ஒங்கி குத்த வேண்டும்.
+
+முதல்வரை அங்கிள் என்றும், பிரதமரை மிஸ்டர் என்றும் குறிப்பிடுகிறார். இதுதான் அரசியல் நாகரீகமா. நீயே இப்படி இருந்தால், உன்னை நம்பி இருக்கும் இளைஞர்கள் என்ன ஆவார்கள். எனக்கு வர கோவத்திற்குக்கு ஒங்கி குத்த வேண்டும் என தோன்றுகிறது. அதனை நாம் ஓங்கி ஓட்டாக குத்துவோம்'' என்றார்.
+
+◼️
+
+[Data](articles/744f6a46.json)
+
+---
+
+### SCO සංවර්ධන බැංකුව ස්ථාපිත කිරීමට චීන ජනපතිගෙන් යෝජනාවක්
+
+*2025-09-01 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214027) · `si`
+
+ශැංහයි සහයෝගිතා සංවිධානයේ රාජ්‍ය නායක කවුන්සිලයේ 25 වන සමුළුව අද (01) චීන ජනපතිගේ ප්‍රධානත්වයෙන් ආරම්භ විය.
+
+මෙම සමුළුවට ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි සහ රුසියානු ජනපති ව්ලැදිමීර් පුටින් ඇතුළු රටවල් රැසක නායකයින් එක්ව සිටී.
+
+ශැංහයි සහයෝගිතා සංවිධානය ලොව විශාලතම කලාපීය සංවිධානය වන අතර මේ වනවිට රටවල් 26ක් ඊට ඇතුළත් වේ.
+
+එහි සමස්ත ආර්ථීක නිමැවුම ඇමරිකානු ඩොලර් ට්‍රිලියන 30කට ද ආසන්නය.
+
+ගෙවී ගිය වසර 24 තුළ, ශැංහයි සහයෝගිතා සංවිධානය සාර්ථක ජයග්‍රහණ රුසක් අත්කර ගෙන ඇති බව චීන ජනාධිපති ෂී ජින් පිං මහතා එහිදී ප්‍රධාන දේශනය සිදු කරමින් කියා සිටියේය.
+
+වෙනස් වන ලෝකය හමුවේ, සියළු සාමාජික රටවල් එම සංවිධානයේ අරමුණු අනුගමනය කිරීමේ වැදගත්කම ද ඔහු මෙහිදී පෙන්වා දුන්නේය.
+
+එමෙන්ම ශැංහයි සහයෝගිතා සංවිධාන සංවර්ධන බැංකුව කඩිනමින් ස්ථාපිත කරමින් ආර්ථික සංවර්ධනය සහතික කළ යුතු බව ද ඔහු සඳහන් කළේය.
+
+එහිදී ඔහු වැඩිදුරටත් අවධාරණය කර සිටියේ පොදු පදනමකින් අන්‍යෝන්‍ය ප්‍රතිලාභ සහ පොදු ජයග්‍රහණ, විවෘතභාවය සහ සහභාගිත්වය, සාධාරණත්වය සහ යුක්තිය, ප්‍රායෝගිකත්වය සහ කාර්යක්ෂමතාව යන කරුණු වෙත අනුගත විය යුතු බවය.
+
+◼️
+
+[Data](articles/8079e256.json)
+
+---
+
+### உடம்பில் பொட்டுத்துணி இல்லாமல் ஆடும் ஸ்ரீதேவியின் மகள்
+
+*2025-09-01 11:22:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/உடம்பில்-பொட்டுத்துணி-இல்லாமல்-ஆடும்-ஸ்ரீதேவியின்-மகள்/54-363833) · `ta`
+
+மறைந்த நடிகை ஸ்ரீதேவியின் மகளான ஜான்வி கபூர், பாலிவுட்டில் தனது திறமையால் புகழ் பெற்றவர். இவர் தற்போது ஒரு புதிய வெப் சீரிஸ் மூலம் ஹாலிவுட்டில் அறிமுகமாக உள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+இந்த வெப் சீரிஸில், முதன்முறையாக ஆடையின்றி சில காட்சிகளில் நடிக்க ஜான்வி சம்மதித்திருப்பதாகவும் கூறப்படுகிறது. இந்த செய்தி இணையத்தில் பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+பாலிவுட் நடிகைகள் பலர் ஹாலிவுட்டில் வாய்ப்பு தேடி செல்கின்றனர். இதில், நடிகை பிரியங்கா சோப்ரா ஒரு முன்னுதாரணம். அவர் தனது ஹாலிவுட் பயணத்தில், தொலைக்காட்சி தொடரான “குவாண்டிகோ” மற்றும் பிற திரைப்படங்களில் தைரியமான காட்சிகளில் நடித்து, உலகளவில் புகழ் பெற்றார்.
+
+இதேபோல், ஜான்வியும் ஹாலிவுட் வாய்ப்புக்காக இத்தகைய முடிவை எடுத்திருப்பதாக தகவல்கள் தெரிவிக்கின்றன. இந்த சம்பவம், பாலிவுட் நடிகைகள் ஹாலிவுட்டில் வெற்றி பெறுவதற்கு எந்த அளவுக்கு கவர்ச்சியான காட்சிகளில் நடிக்க தயாராக உள்ளனர் என்பதை வெளிப்படுத்துகிறது.
+
+...
+
+[Data](articles/0faf0e2c.json)
+
+---
 
 ### ஆப்கானிஸ்தான் நிலநடுக்கத்தில் 500 பேர் பலி
 
@@ -95,6 +173,24 @@ President Dissanayake’s ruling National People’s Power (NPP) in the run-up t
 ...
 
 [Data](articles/6f58e654.json)
+
+---
+
+### මවගෙන් වෙන් කෙරුණු වන අලි පැටවා උඩවලවට රැගෙන යයි
+
+*2025-09-01 10:58:48* · [`adalk`](https://www.ada.lk/opinion/මවගෙන්-වෙන්-කෙරුණු-වන-අලි-පැටවා-උඩවලවට-රැගෙන-යයි/2-418190) · `si`
+
+ඉදිරි පාදයේ අබාදයකට ලක්ව අවස්ථා ගණනාවකදී  කලාවැව ජාතික වන උද්‍යානයේදී ප්‍රතිකාර සිදුකරමින් සිටි වන අලි පැටවෙකු එම පැටවාගේ ආරක්ෂාව වෙනුවෙන් උඩවලව ඇත් අතුරු සෙවණට රැගෙන යාමට පණ්ඩුලගම පශු වෛද්‍ය ඒකකය පියවර ගත්තේය.
+
+පැය 6ක මෙහෙයුමකින් පසුව වන අලි රංචුව සමග සිටි මෙම වන අලි පැටවා සහ මව වනජීවී නිලධාරීන් විසින් වෙන්කර ගැනීමට දැඩි වෙහෙසක් ගැනීමට සිදු විය.එම අවස්ථා වල වන ජීවී නිලධාරීන් හට වන අලි පහරදිමටද සැරසුණු අවස්ථා දැක ගැනීමට හැකි විය.
+
+මුලිකව වන අලි පැටවාගේ මව නිර්වින්දනය  කොට පසුව පැටවාද නිර්වින්දනය  කොට පණ්ඩුලගම පශු වෛද්‍ය ඒකකයේ වෛද්‍ය චන්දන ජයසිංහ සහ උදේශිකා මධුවන්ති මහත්මියගේ අධීක්ෂණය යටතේ මෙම වන අලි පැටවා ආරක්ෂිතව එම භූමියෙන් පිටතට රැගෙන විත් මුලික ප්‍රතිකාර සිදුකොට උඩවලව ඇත් අතුරු සෙවණ වෙත රැගෙන යාමට පියවර ගැනිණ .
+
+මෙම වන අලි පැටවාගේ රෝගී තත්වයන් හා ආරක්ෂාව වෙනුවෙන් මවු ඇතින්නගෙන් වෙන් කිරීමට පියවර ගැනීමට සිදු වුන බව පණ්ඩුලගම වනජීවී ඒකකයේ  පශු වෛද්‍ය චන්දන ජයසිංහ මහතා පැවසිය
+
+◼️
+
+[Data](articles/754344fb.json)
 
 ---
 
@@ -1733,113 +1829,5 @@ Meanwhile, there will be no change in the prices of Petrol 95 Octane and Kerosen
 ...
 
 [Data](articles/257e563a.json)
-
----
-
-### US judge blocks deportations of unaccompanied migrant children to Guatemala
-
-*2025-08-31 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112039/us-judge-blocks-deportations-of-unaccompanied-migrant-children-to-guatemala) · `en`
-
-A federal judge on Sunday issued a restraining order blocking the Trump administration from deporting 10 unaccompanied migrant children to Guatemala after lawyers said the removals would violate U.S. laws.
-
-Washington, D.C.-based District Judge Sparkle Sooknanan ordered the administration to refrain from deporting the children for 14 days and called for a hearing at 3 p.m. The National Immigration Law Center, a pro-immigration advocacy group, brought the challenge on behalf of the children, who are ages 10-17.
-
-President Donald Trump’s administration struck an agreement with Guatemala that would allow the removal of unaccompanied children back to the country and planned to start deportations this weekend, one current and two former U.S. officials told Reuters. The plans were first reported by CNN on Friday.
-
-Trump, a Republican, kicked off a wide-ranging immigration crackdown after returning to the White House in January.
-
-...
-
-[Data](articles/10f0c627.json)
-
----
-
-### තරගාවලියේ ජය ශ්‍රී ලංකාවට
-
-*2025-08-31 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214006) · `si`
-
-සිම්බාබ්වේ කණ්ඩායම සමඟ හරාරේ ක්‍රීඩාංගණයේ අද (31) පැවති දෙවන එක්දින ක්‍රිකට් තරගයේ ජයත් හිමිකර ගැනීමට ශ්‍රී ලංකා කාණ්ඩායම සමත්විය.
-
-තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායමේ ආරාධනයෙන් ප්‍රථමයෙන් පන්දුවට පහරදීමට පිටියට පිවිසි සිම්බාබ්වේ කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේ කඩුලු 7ක් පමණක් බිඳ වැටී ලකුණු 277ක් රැස් කිරීමට සමත් විය.
-
-පන්දුවට පහර දීමේ දී සිම්බාබ්වේ කණ්ඩායම වෙනුවෙන් Ben Curran ලකුණු 79ක් සහ Sikandar Raza නොදැවී ලකුණු 59ක් රැස් කිරීමට සමත් විය.
-
-පන්දු යැවීමේ දී  ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් දුශ්මන්ත චමීර කඩුලු 3ක් සහ අසිත ප්‍රනාන්දු කඩුලු 2ක් බිඳ හෙලීමට සමත් විය.
-
-පිළිතුරු ඉනිම ක්‍රීඩා කිරීමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 49යි පන්දු 3කදී කඩුලු 5ක් දැවී ලකුණු 278ක් රැස්කරමින් තරගයේ ජය වාර්තා කළේය.
-
-පැතුම් නිස්සංක පන්දු 136කට ලකුණු 122ක් රැස් කළ අතර තරගයේ මෙන්ම තරගාවලියේ වීරයා සම්මානය ද හිමිකර ගත්තේය.
-
-ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් චරිත් අසලංක ලකුණු 71ක්, සදීර සමරවික්‍රම ලකුණු 31ක් සහ ජනිත් ලියනගේ නොදැවී පන්දු 16කට ලකුණු 19ක් රැස් කිරීමට සමත් විය.
-
-...
-
-[Data](articles/8f81c3b8.json)
-
----
-
-### Sri Lanka western province officials discuss dog population management
-
-*2025-08-31 20:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-western-province-officials-discuss-dog-population-management-238716/) · `en`
-
-ECONOMYNEXT – Local councils, health officials and animal welfare organisations have met to discuss a dog population management programme for Sri Lanka’s Western Province, its governor Hanif Yusoof said.
-
-“We brought together experts, local councils, health officials and animal welfare organisations to take the next step in building a humane, sustainable, and evidence-based dog population management programme for the Western Province.”
-
-The strategy is built on the globally endorsed One Welfare model, where animal welfare, human wellbeing, and environmental sustainability go hand in hand, Yusoof said on X.
-
-– Building a shared dashboard with MOH, local councils & NGOs to ensure better collaboration and flow of information.
-
-A public education programme on responsible pet ownership and bite prevention was also planned, he said.
-
-“Mass media and social media will play a key role in shaping how our communities understand and support this work.”
-
-...
-
-[Data](articles/c77720aa.json)
-
----
-
-### රනිල්ට නිල ඇරියුමක් කළ බවට වොල්වර්හැම්ප්ටන් සරසවියෙන් තහවුරු කිරීමක්
-
-*2025-08-31 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214005) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට එංගලන්තයේ වොල්වර්හැම්ප්ටන් විශ්ව විද්‍යාලයේ පැවති උපාධි ප්‍රදානොත්සවය සඳහා නිල ආරාධනයක් කළ බවට එම විශ්ව විද්‍යාලය යළිත් වරක් තහවුරු කර ඇතැයි හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය අධ්‍යක්ෂ ජනරාල් ලෙස කටයුතු කළ ධනුෂ්ක රාමනායක මහතා පවසයි.
-
-මේ අතර හිටපු ජනාධිපතිවරයා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා හෙට දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා තිබේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ සිදුකළ සංචාරයකට අදාළව ඉකුත් අගෝස්තු 22 වැනිදා ඒ මහතාව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කෙරුණු අතර පසුව අගෝස්තු 26 ඇප මත මුදාහැරිණි.
-
-ඒ වන විටත් රෝගී තත්ත්වය මත ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිටපු ජනාධිපතිවරයා ඉකුත් සිකුරාදා රෝහලෙන් පිටව ගියේය.
-
-මේ අතර හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සැප්තැම්බර් 06 වැනිදා පැවැත්වෙන එක්සත් ජාතික පක්ෂ සම්මේලනයේදී විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිත බව ඒ මහතාගේ මාධ්‍ය අංශය සඳහන් කළා.
-
-...
-
-[Data](articles/c909fe7d.json)
-
----
-
-### Ex-President Ranil to invite all opposition leaders to UNP’s convention
-
-*2025-08-31 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112038/ex-president-ranil-to-invite-all-opposition-leaders-to-unps-convention) · `en`
-
-The United National Party (UNP) has decided to invite all opposition political party leaders to its annual convention.
-
-A preparatory discussion for the convention, which is scheduled to be held on September 6, was held this morning (31).
-
-A proposal in this regard has been made and is scheduled to be submitted to the UNP’s Working Committee meeting on September 3.
-
-The party has also decided to lift the ban on former members whose memberships were suspended, considering them as having left the party.
-
-This proposal will also be presented at the upcoming Working Committee meeting.
-
-In the coming days, former President Ranil Wickremesinghe is expected to personally invite opposition party leaders to attend the convention.
-
-The UNP has also decided to hold the convention at a neutral location, rather than at Sirikotha, the party’s headquarters, so that opposition representatives can also participate.
-
-...
-
-[Data](articles/1634f696.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 19:50:08**
+As of **2025-09-01 20:07:50**
 
 ## Newspaper Stats
 
-*Scraped **73,570** Articles*
+*Scraped **73,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,091
-adaderanalk | 9,376
+adalk | 7,092
+adaderanalk | 9,378
 tamilmirrorlk | 10,941
-virakesarilk | 12,043
+virakesarilk | 12,046
 adaderanasinhalalk | 12,776
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,570 articles have been extended.
+61,973 (84.2%) of 73,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### கச்சதீவிக்கு ஜனாதிபதி விஜயம்
+
+*2025-09-01 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/223973) · `ta`
+
+யாழ்ப்பாணத்திற்கு 1ஆம் திகதி திங்கட்கிழமை காலை வந்தடைந்த ஜனாதிபதி அனுரா குமார திஸாநாயக்க, மாலை வேளையில் கச்சதீவுக்குப் பயணம் மேற்கொண்டார்.
+
+வடக்கு பிராந்தியத்தில் இரண்டு நாள் பயணமாக சென்றிருந்த ஜனாதிபதி, திங்கட்கிழமை (1) மாலை 5 மணியளவில் ஊர்காவற்றுறையிலிருந்து 4 படகுகளில் கச்சதீவுக்கு பயணமானார்.
+
+இந்த விஜயத்தின் போது ஜனாதிபதி அங்கு உள்ள பொது மக்களுடன் கலந்துரையாடி, அவர்களின் பிரச்சினைகளை கேட்டறிந்தார். அதேவேளை, மீனவர்கள் எதிர்கொள்ளும் சவால்கள் குறித்தும் ஜனாதிபதி விசாரித்து கேட்டறிந்துகொண்டார்.
+
+ஜனாதிபதி விஜயத்தின் போது, கச்சதீவின் இயற்கை அழகையும், மீனவர் சமூக வாழ்வையும் அவர் நேரடியாகக் கண்டறிந்தார். மேலும், கச்சதீவு தொடர்பான எதிர்கால அபிவிருத்தி திட்டங்கள் குறித்தும் அவர் ஆராய்ந்ததாகவும் தகவல்கள் வெளியாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6c68d0d6.json)
+
+---
 
 ### වායු නලයක කාන්දුවක් - 30ක් රෝහලට
 
@@ -41,6 +59,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/060e0f41.json)
+
+---
+
+### செம்மணி – சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 9 மனித எலும்புக்கூடுகள் கண்டுபிடிப்பு
+
+*2025-09-01 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/223972) · `ta`
+
+செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் திங்கட்கிழமை (1) மேலும் 9 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
+
+இதன் அடிப்படையில் இதுவரை 218 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 198 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 40வது நாளாக இன்றும் யாழ்ப்பாண நீதவான் நீதிமன்ற நீதிபதி ஏ.ஏ.ஆனந்தராஜாவின் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b374a255.json)
+
+---
+
+### விளையாட்டு அனைத்து தடைகளையும் வேறுபாடுகளையும் கடந்து மக்களை ஒன்றிணைக்கும் - ஜனாதிபதி
+
+*2025-09-01 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/223971) · `ta`
+
+கடந்த ஜனாதிபதித் தேர்தலிலும் பொதுத் தேர்தலிலும், ஆயிரம் அடிகள் முன்னோக்கி எடுத்து வைக்கும் நோக்கத்துடன், தேசிய மக்கள் சக்தியுடன் வடக்கு மக்கள் ஒரு அடியை முன்னோக்கி எடுத்து வைத்தனர் என்றும் அனைவரும்  வைத்த அந்த நம்பிக்கையைப் பாதுகாத்து, இலங்கை தேசம் கட்டியெழுப்பப்படும் வரை அந்தக் கைகளை விட்டுவிடப் போவதில்லை என்று ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார்.
+
+யாழ்ப்பாணம் மண்டைதீவில் நிர்மாணிக்கப்படும் யாழ் சர்வதேச கிரிக்கட் மைதானத்தின் நிர்மாணப்பணிகளை திங்கட்கிழமை (01) பிற்பகல் ஆரம்பித்து வைக்கும் நிகழ்வில் கலந்து கொண்ட போதே ஜனாதிபதி இதனைக் குறிப்பிட்டுள்ளார்.
+
+நீண்டகால திட்டத்தின் கீழ், மண்டைதீவை சர்வதேச அளவிலான வசதிகளுடன் கூடிய 'விளையாட்டு நகரமாக' மாற்றுவதற்கான வேலைத்திட்டமும் இங்கு முன்வைக்கப்பட்டது.
+
+நீச்சல் தடாகம், ஏனைய விளையாட்டுகளுடன் கூடிய இந்த விளையாட்டு நகரம் முழுமையான வசதிகளுடன் கூடிய உள்ளக விளையாட்டு வளாகம், நட்சத்திர  ஹோட்டல்கள் மற்றும் உணவகங்கள், சொகுசு அடுக்குமாடி குடியிருப்புகள், வணிக வளாகங்கள் மற்றும் பொழுதுபோக்கு மையங்களைக் கொண்டிருக்கும்.
+
+...
+
+[Data](articles/0add6025.json)
 
 ---
 
@@ -117,6 +169,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b1fbce67.json)
+
+---
+
+### Nearly 200,000 foreign tourist arrivals recorded in August
+
+*2025-09-01 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112081/nearly-200000-foreign-tourist-arrivals-recorded-in-august) · `en`
+
+A total of 198,235 tourists arrived in the country in August 2025, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+This is an increase of 20.4% in comparison to the numbers arrived in August 2024.
+
+According to the latest data released by the SLTDA, a total of 46,473 tourists arrived from India in August which accounts to 23.4%. Furthermore, 19,764 persons from the United Kingdom, 12,500 from Germany, 12,294 from China and 12,247 Italian nationals have also visited Sri Lanka in the month of August.
+
+Accordingly, the total number of tourist arrivals in the first eight months of 2025 stands at 1,566,523.
+
+Among them, 325,595 individuals are from India, 151,141 from the UK and 118,916 are from the UK, the SLTDA noted.
+
+◼️
+
+[Data](articles/e25e6968.json)
+
+---
+
+### Luxury passenger bus catches fire on Southern Expressway
+
+*2025-09-01 18:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112079/luxury-passenger-bus-catches-fire-on-southern-expressway) · `en`
+
+A passenger transport bus caught fire suddenly today (01) on the Southern Expressway, police stated.
+
+The bus, a luxury coach, was traveling from Galle to Kaduwela when the fire broke out.
+
+The incident occurred near the Kahathuduwa expressway exit, reportedly due to a mechanical fault in the vehicle.
+
+However, before the fire spread, the driver and conductor managed to evacuate all passengers safely from the bus.
+
+At the time of the fire, there were 41 passengers on board, according to reports.
+
+◼️
+
+[Data](articles/1b07321e.json)
 
 ---
 
@@ -702,6 +794,24 @@ President Anura Kumara Dissanayake also emphasized that the government is commit
 
 ---
 
+### අත්අඩංගුවට ගැනීම වළක්වන්නැයි ඉල්ලමින් ගම්මන්පිල අධිකරණයට යයි
+
+*2025-09-01 16:36:13* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගැනීම-වළක්වන්නැයි-ඉල්ලමින්-ගම්මන්පිල-අධිකරණයට-යයි/11-418204) · `si`
+
+පිවිතුරු හෙළ උරුමයේ නායක හිටපු අමාත‍්‍ය උදය ගම්මන්පිල මහතා විසින් තමන් අත්අඩංගුවට ගැනීම වලක්වන මෙන් ඉල්ලා අද දින අභියාචනාධිකරණයේ රිට් පෙත්සමක් ගොනු කළේය.
+
+2025 අගෝස්තු 5 දින මාධ්‍ය හමුවක් පවත්වමින් ගම්මන්පිල  මහතා විසින් හිටපු කොටි ත්‍රස්තවාදි නායකයෙකුගෙන් ලබා ගත් ගොතන ලද සාක්ෂි මත හිටපු නාවික හමුදාපති නිශාන්ත උළුගේතැන්න මහතාව අත්අඩංගුවට ගැනීම විවේචනය කරන ලදී .
+
+උදය ගම්මන්පිල මහතා ජනවර්ග අතර අසමගිය ඇති කරන හෙයින් සිවිල් සහ දේශපාලන අයිතිවාසිකම් පිළිබඳ ජාත්‍යන්තර සම්මුති පනතේ (අයිසීසීපීආර් පනතේ) 3(1) වගන්තිය සහ දණ්ඩ නීති සංග්‍රහයේ 120 වගන්තිය යටතේ වරදක් කර ඇති බවට විමර්ශනයක් ආරම්භ කර ඇති බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් 2025 අගෝස්තු 27 දින කොටුව මහෙස්ත්‍රාත් අධිකරණයට වාර්තා කර ඇත.
+
+මේ පිළිබඳව උදය ගම්මන්පිල මහතාගේ මාධ්‍ය ඒකකය නිකුත් කළ නිවේදනය පහත පරිදි වෙයි,
+
+...
+
+[Data](articles/db820025.json)
+
+---
+
 ### ஆசிரியர்களில் ஒருவர் நீரில் மூழ்கி காணாமல் போனார்
 
 *2025-09-01 16:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியர்களில்-ஒருவர்-நீரில்-மூழ்கி-காணாமல்-போனார்/76-363865) · `ta`
@@ -1010,9 +1120,13 @@ Under this initiative, it is planned to provide essential facilities such as wat
 
 The Supreme Court today (01) granted leave to proceed with a fundamental rights petition filed against former President Ranil Wickremesinghe, several former cabinet ministers, and other respondents.
 
-The petition alleges that during the previous government, phosphate stocks from the Eppawala deposit were released for export at prices significantly lower than the standard market rate to several companies allegedly close to those in power, thereby violating fundamental human rights.
+The petition alleges that during the tenure of the previous government, stocks of phosphate from the Eppawala deposit were released for export at prices significantly lower than the standard market rate to several companies allegedly linked to those in power, thereby violating fundamental human rights.
 
-◼️
+A total of 32 respondents including former President Ranil Wickremesinghe, former Cabinet Ministers, the Geological Survey and Mines Bureau (GSMB), the Director General of the GSMB and the Attorney General have been named in the petition.
+
+The petition was considered today before a three-judge bench of the Supreme Court comprising Justices Janak de Silva, Priyantha Fernando, and Sampath Abeykoon.
+
+...
 
 [Data](articles/306f6be8.json)
 
@@ -1224,15 +1338,13 @@ These suspects were brought to Sri Lanka on August 30 and a team of Indonesian p
 
 *2025-09-01 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112062/ishara-sewwandi-fled-the-country-shortly-after-ganemulla-sanjeewas-murder-cid-) · `en`
 
-The Criminal Investigation Department (CID) has uncovered that ‘Ishara Sewwandi’, the fugitive female who alleged to have aided and abetted the murder of notorious underworld figure and drug trafficker Ganemulla Sanjeewa inside the Hulftsdorp No. 05 Magistrate’s Court on February 19, 2025., has fled the country.
+The Criminal Investigation Department (CID) has uncovered that ‘Ishara Sewwandi’, the fugitive female who alleged to have aided and abetted the murder of notorious underworld figure and drug trafficker Ganemulla Sanjeewa inside the he Hulftsdorp No. 05 Magistrate’s Court on February 19, 2025., has fled the country.
 
 This revelation was made during interrogations of Kehelbaddara Padme and others, who were recently arrested in Jakarta, Indonesia, and brought back to Sri Lanka.
 
-The arrests were part of a joint operation conducted by Sri Lanka Police, Indonesian Police, and Interpol, targeting organized criminals and drug traffickers.
+The arrests were part of a joint operation conducted by Sri Lanka Police, Indonesian Police, and Interpol, targeting organized criminals and drug traffickers. The group, including Kehelbaddara Padme, Commando Salintha, and Backhoe Saman, is currently being questioned under a 72-hour detention order.
 
-The group, including Kehelbaddara Padme, Commando Salintha, and Backhoe Saman, is currently being questioned under a 72-hour detention order.
-
-◼️
+...
 
 [Data](articles/937afae4.json)
 
@@ -1633,117 +1745,5 @@ The Shanghai Cooperation Organisation (SCO) has set a model for a new type of in
 ...
 
 [Data](articles/ace578a8.json)
-
----
-
-### நடிகையின் இடுப்பை கிள்ளிய   நடிகர்
-
-*2025-09-01 11:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகையின்-இடுப்பை-கிள்ளிய-நடிகர்/54-363835) · `ta`
-
-பிரபல நடிகரான பவன்சிங் சமீபத்தில் நடிகை அஞ்சலி ராகவுடன் பொது வெளியில் நடந்த படவிழாவில் பங்கேற்றார். அப்போது நடிகை அஞ்சலி பேசி கொண்டிருந்த போது திடீரென அவரது இடுப்பை பவன்சிங் தொட்டார்.
-
-இதனால் சிரித்தபடி அஞ்சலி திரும்பி பார்த்தார். மீண்டும் பவன்சிங் அஞ்சலி இடுப்பை தொட்டார். இதனால் உள்ளே சங்கடமாக உணர்ந்தாலும் அஞ்சலி வெளியே சிரித்துக் கொண்டே காணப்பட்டார். லக்னோவில் நடந்த 'சாயா சேவா கரே' பாடலுக்கான விளம்பர நிகழ்வில் இந்த சம்பவம் நடந்தது.
-
-பொது மேடையில் பவன்சிங் நடிகையின் இடுப்பை கிள்ளிய வீடியோ காட்சிகள் சமூக வலைதளங்களில் வைரலாகி அவருக்கு எதிராக கடும் விமர்சனங்களை உருவாக்கி உள்ளது.
-
-இந்நிலையில், அஞ்சலி இந்த சம்பவத்திற்கு பிறகு வித்தியாசமான முடிவை எடுத்திருக்கிறார். அவர் கூறுகையில், ''சிலர் என்னைக் குறை கூறுகிறார்கள். அதை ரசிக்கிறேன் என்கின்றனர். அனுமதியின்றி என்னை யாராவது தொட்டால் நான் மகிழ்ச்சியடைவேனா? அதை எப்படி ரசிப்பேன் என்று நினைக்கிறீர்கள்?.
-
-...
-
-[Data](articles/acb45ab9.json)
-
----
-
-### விஜய்யின் முகத்தில் ஓங்கி குத்துவேன்: நடிகர் ரஞ்சித் ஆவேச பேச்சு
-
-*2025-09-01 11:32:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்யின்-முகத்தில்-ஓங்கி-குத்துவேன்-நடிகர்-ரஞ்சித்-ஆவேச-பேச்சு/54-363834) · `ta`
-
-இந்து முன்னணி சார்பில் கோவை துடியலூர் சந்திப்பில் விநாயகர் சதுர்த்தி ஊர்வலம் தொடக்க விழா நடைபெற்றது. இதில் பா.ஜ.கவை சேர்ந்த நடிகர் ரஞ்சித் கலந்து கொண்டு பேசினார். அப்போது அவர் மதுரை மாநாட்டில் பிரதமர் மோடி பற்றி விஜய் பேசியதற்கு ஆவேசமாக பதிலளித்தார். அவர் கூறுகையில்,
-
-''ஒரு வாக்காளனா, ஒரு குடிமகனா எனக்கு அப்பா யாரென்றால் அதுமோடிதான். அவர்தான் என்னை காப்பாற்றுகிறார். அமெரிக்காவே வியந்து பார்க்கும் ஒரே பிரதமர் மோடி, அவரை போய் கைநீட்டி சொடக்கு போட்டு பேச விஜய்க்கு அருகதை இல்லை. ஒங்கி குத்த வேண்டும்.
-
-முதல்வரை அங்கிள் என்றும், பிரதமரை மிஸ்டர் என்றும் குறிப்பிடுகிறார். இதுதான் அரசியல் நாகரீகமா. நீயே இப்படி இருந்தால், உன்னை நம்பி இருக்கும் இளைஞர்கள் என்ன ஆவார்கள். எனக்கு வர கோவத்திற்குக்கு ஒங்கி குத்த வேண்டும் என தோன்றுகிறது. அதனை நாம் ஓங்கி ஓட்டாக குத்துவோம்'' என்றார்.
-
-◼️
-
-[Data](articles/744f6a46.json)
-
----
-
-### SCO සංවර්ධන බැංකුව ස්ථාපිත කිරීමට චීන ජනපතිගෙන් යෝජනාවක්
-
-*2025-09-01 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214027) · `si`
-
-ශැංහයි සහයෝගිතා සංවිධානයේ රාජ්‍ය නායක කවුන්සිලයේ 25 වන සමුළුව අද (01) චීන ජනපතිගේ ප්‍රධානත්වයෙන් ආරම්භ විය.
-
-මෙම සමුළුවට ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි සහ රුසියානු ජනපති ව්ලැදිමීර් පුටින් ඇතුළු රටවල් රැසක නායකයින් එක්ව සිටී.
-
-ශැංහයි සහයෝගිතා සංවිධානය ලොව විශාලතම කලාපීය සංවිධානය වන අතර මේ වනවිට රටවල් 26ක් ඊට ඇතුළත් වේ.
-
-එහි සමස්ත ආර්ථීක නිමැවුම ඇමරිකානු ඩොලර් ට්‍රිලියන 30කට ද ආසන්නය.
-
-ගෙවී ගිය වසර 24 තුළ, ශැංහයි සහයෝගිතා සංවිධානය සාර්ථක ජයග්‍රහණ රුසක් අත්කර ගෙන ඇති බව චීන ජනාධිපති ෂී ජින් පිං මහතා එහිදී ප්‍රධාන දේශනය සිදු කරමින් කියා සිටියේය.
-
-වෙනස් වන ලෝකය හමුවේ, සියළු සාමාජික රටවල් එම සංවිධානයේ අරමුණු අනුගමනය කිරීමේ වැදගත්කම ද ඔහු මෙහිදී පෙන්වා දුන්නේය.
-
-එමෙන්ම ශැංහයි සහයෝගිතා සංවිධාන සංවර්ධන බැංකුව කඩිනමින් ස්ථාපිත කරමින් ආර්ථික සංවර්ධනය සහතික කළ යුතු බව ද ඔහු සඳහන් කළේය.
-
-එහිදී ඔහු වැඩිදුරටත් අවධාරණය කර සිටියේ පොදු පදනමකින් අන්‍යෝන්‍ය ප්‍රතිලාභ සහ පොදු ජයග්‍රහණ, විවෘතභාවය සහ සහභාගිත්වය, සාධාරණත්වය සහ යුක්තිය, ප්‍රායෝගිකත්වය සහ කාර්යක්ෂමතාව යන කරුණු වෙත අනුගත විය යුතු බවය.
-
-◼️
-
-[Data](articles/8079e256.json)
-
----
-
-### Committee to be named to provide proposals to improve standard of food offered in Parliament
-
-*2025-09-01 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112053/committee-to-be-named-to-provide-proposals-to-improve-standard-of-food-offered-in-parliament) · `en`
-
-A decision has been taken to appoint a committee to provide recommendations to enhance the safety of food and beverages in Parliament.
-
-The decision was taken by the House Committee which convened under the patronage of Speaker Dr. Jagath Wickramaratne.
-
-At the request of the Speaker, a team of Public Health Inspectors led by the Medical Officer of Health, Battaramulla, conducted inspections last April of the kitchens and other locations within the Parliamentary premises related to the preparation of food and beverages.
-
-Accordingly, the Public Health Inspectors submitted to the House Committee a detailed report inclusive of their observations, the Department of Communication of Parliament said.
-
-...
-
-[Data](articles/23d5374d.json)
-
----
-
-### ලසිත් මාලිංගගේ අත්දැකීම් අපේ ක්‍රීඩකයන්ට ලබා දීම ගැන ස්තූතිවන්ත වෙනවා
-
-*2025-09-01 11:26:02* · [`adalk`](https://www.ada.lk/sports/ලසිත්-මාලිංගගේ-අත්දැකීම්-අපේ-ක්‍රීඩකයන්ට-ලබා-දීම-ගැන-ස්තූතිවන්ත-වෙනවා/9-418193) · `si`
-
-ලසිත් මාලිංගගේ අත්දැකීම් ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම සමග බෙදා ගැනීම ගැන ඔහුට ස්තූතිවන්ත වෙන බව ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු සනත් ජයසූරිය පැවසීය.
-
-ඊයේ(31දා) සිම්බාබ්වේ කණ්ඩායමට එරෙහිව පැවති දෙවැනි තරගයෙන් පසු පැවති මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“පසුගිය අවුරුද්ද පුරාම ලසිත් මාලිංග අපිත් එක්ක වැඩ කළා. ඒකට මම හැමතිස්සේම ස්තූතිවන්ත වෙනවා. එයා හරි කැපවීමෙන් පන්දු යවන්නන් එක්ක කතා කරලා , දර්ශන අපේ ලංකාවේ ඉන්න පුහුණුකරුත් එක්ක කතා කරලා , මාත් එක්ක එකතුවෙලා, චරිත් එක්ක එකතුවෙලා ඒ වැඩසටහන අපි කරගෙන යන්නේ. ගොඩක් ස්තූතිවන්ත වෙන්න ඕනී ඒ තියෙන අත්දැකීම් ක්‍රීඩකයන්ගේ ලැබීම ගැන. වේග පන්දු යවන්නෝ ගොඩක් ආසාවෙන් ලසිත් එක්ක කරගෙන යනවා. ”
-
-◼️
-
-[Data](articles/a57886a6.json)
-
----
-
-### உடம்பில் பொட்டுத்துணி இல்லாமல் ஆடும் ஸ்ரீதேவியின் மகள்
-
-*2025-09-01 11:22:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/உடம்பில்-பொட்டுத்துணி-இல்லாமல்-ஆடும்-ஸ்ரீதேவியின்-மகள்/54-363833) · `ta`
-
-மறைந்த நடிகை ஸ்ரீதேவியின் மகளான ஜான்வி கபூர், பாலிவுட்டில் தனது திறமையால் புகழ் பெற்றவர். இவர் தற்போது ஒரு புதிய வெப் சீரிஸ் மூலம் ஹாலிவுட்டில் அறிமுகமாக உள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
-
-இந்த வெப் சீரிஸில், முதன்முறையாக ஆடையின்றி சில காட்சிகளில் நடிக்க ஜான்வி சம்மதித்திருப்பதாகவும் கூறப்படுகிறது. இந்த செய்தி இணையத்தில் பரபரப்பை ஏற்படுத்தியுள்ளது.
-
-பாலிவுட் நடிகைகள் பலர் ஹாலிவுட்டில் வாய்ப்பு தேடி செல்கின்றனர். இதில், நடிகை பிரியங்கா சோப்ரா ஒரு முன்னுதாரணம். அவர் தனது ஹாலிவுட் பயணத்தில், தொலைக்காட்சி தொடரான “குவாண்டிகோ” மற்றும் பிற திரைப்படங்களில் தைரியமான காட்சிகளில் நடித்து, உலகளவில் புகழ் பெற்றார்.
-
-இதேபோல், ஜான்வியும் ஹாலிவுட் வாய்ப்புக்காக இத்தகைய முடிவை எடுத்திருப்பதாக தகவல்கள் தெரிவிக்கின்றன. இந்த சம்பவம், பாலிவுட் நடிகைகள் ஹாலிவுட்டில் வெற்றி பெறுவதற்கு எந்த அளவுக்கு கவர்ச்சியான காட்சிகளில் நடிக்க தயாராக உள்ளனர் என்பதை வெளிப்படுத்துகிறது.
-
-...
-
-[Data](articles/0faf0e2c.json)
 
 ---

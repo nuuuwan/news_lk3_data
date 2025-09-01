@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 14:41:24**
+As of **2025-09-01 14:51:45**
 
 ## Newspaper Stats
 
-*Scraped **73,497** Articles*
+*Scraped **73,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,080
-adaderanalk | 9,357
-tamilmirrorlk | 10,925
+adaderanalk | 9,359
+tamilmirrorlk | 10,926
 virakesarilk | 12,037
-adaderanasinhalalk | 12,756
+adaderanasinhalalk | 12,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,497 articles have been extended.
+61,973 (84.3%) of 73,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ඇෆ්ගනිස්තානයේ භූ කම්පනයෙන් මිය ගිය ගණන තවත් ඉහළට
+
+*2025-09-01 14:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214033) · `si`
+
+ඇෆ්ගනිස්තානයේ නැගෙනහිර කලාපයේ හටගත් රික්ටර් මාපකයේ ඒකක 6ක ප්‍රබලත්වයෙන් යුතු භූ කම්පනයකින් මියගිය සංඛ්‍යාව 800 ඉක්මවන බව වාර්තා වෙයි.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ, තවත් පිරිසක් සුන්බුන් අතර සිරවී සිටින බවය.
+
+ඇෆ්ගනිස්තානයේ ජලාලාබාද් නගරයට කිලෝ මීටර් 27ක් දුරින් පිහිටි ස්ථානයක රික්ටර් මාපකයේ ඒකක 6ක ප්‍රබලත්වයෙන් යුතු භූකම්පනයක් හටගෙන තිබේ.
+
+පොලෝ මට්ටමෙන් කිලෝ මීටර් 8ක් ගැඹුරේ ඇති වූ මේ භූකම්පනයෙන් නන්ගහාර් සහ කුනාර් යන ප්‍රාන්තවලට දැඩි බලපෑම් එල්ල වී ඇති අතර නිවාස සහ ගොඩනැගිලි රැසකට හානි සිදුව තිබුණි.
+
+භූකම්පනයේ වැඩිම බලපෑමට ලක්වූ කුනාල් කලාපයේ සුන්බුන් අතර සිරවී සිටින සිය ගණන් පිරිස මුදාගැනීමට තලේබාන් පරිපාලනය දැඩි වෙහෙසක් ගනිමින් සිටී.
+
+බලධාරීන් පවසන්නේ, පවතින තත්ත්වය හමුවේ මරණ ගණන ඉහළ යාමේ අවස්ථාවක් පවතින බවය.
+
+අනතුරට මුහුණදුන් කුනාර් ප්‍රාන්තයේ ජනාවාසවලින් සියයට 90ක්ම කඳුකරයේ පිහිටා තිබීමත්, භූකම්පනයෙන් හටගත් නායයාම්වලින් නිවාස සහ මාර්ග පස්වලින් යටවී තිබීමත් හේතුවෙන් මුදාගැනීමේ මෙහෙයුම් වඩාත් සංකීර්ණ වී ඇති බව වාර්තා වවෙයි.
+
+...
+
+[Data](articles/634e3a15.json)
+
+---
+
+### நினைவுக்கல்லில், ஜனாதிபதியின் பெயர் இல்லை
+
+*2025-09-01 14:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நினைவுக்கல்லில்-ஜனாதிபதியின்-பெயர்-இல்லை/175-363850) · `ta`
+
+குடிவரவு- குடியல்வு திணைக்களத்தின் யாழ்ப்பாணம் பிராந்திய அலுவலகம், யாழ்ப்பாணம் மாவட்ட செயலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவால் திங்கட்கிழமை (01) திறந்து வைக்கப்பட்டது.
+
+நினைவுக்கல்லில், ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் பெயர் பொறிக்கப்படவில்லை. இலங்கை சனநாயக சோசலிச குடியரசின் பொதுமக்களது நிதியை பயன்படுத்தி நிர்மாணிக்கப்பட்டு திறந்து வைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/7655955b.json)
+
+---
+
+### Police launch probe into ‘fake news’ and doctored images of Public Security Minister
+
+*2025-09-01 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112063/police-launch-probe-into-fake-news-and-doctored-images-of-public-security-minister-) · `en`
+
+An investigation has been launched regarding the circulation of ‘fake news’ and doctored photographs on social media, which appear to falsely represent Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, the Police Headquarters stated.
+
+The incident follows a major joint operation conducted recently by Sri Lanka Police and the Indonesian Police, during which several members of organized crime gangs—who had been hiding overseas while continuing drug trafficking and criminal activities in Sri Lanka—were arrested in Indonesia.
+
+These suspects were brought to Sri Lanka on August 30 and a team of Indonesian police officers who actively contributed to the operation also arrived in the country.
+
+...
+
+[Data](articles/f77fa4b6.json)
+
+---
+
+### Ishara Sewwandi fled the country shortly after Ganemulla Sanjeewa’s murder: CID
+
+*2025-09-01 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112062/ishara-sewwandi-fled-the-country-shortly-after-ganemulla-sanjeewas-murder-cid-) · `en`
+
+The Criminal Investigation Department (CID) has uncovered that ‘Ishara Sewwandi’, the fugitive female who alleged to have aided and abetted the murder of notorious underworld figure and drug trafficker Ganemulla Sanjeewa inside the Hulftsdorp No. 05 Magistrate’s Court on February 19, 2025., has fled the country.
+
+This revelation was made during interrogations of Kehelbaddara Padme and others, who were recently arrested in Jakarta, Indonesia, and brought back to Sri Lanka.
+
+The arrests were part of a joint operation conducted by Sri Lanka Police, Indonesian Police, and Interpol, targeting organized criminals and drug traffickers.
+
+The group, including Kehelbaddara Padme, Commando Salintha, and Backhoe Saman, is currently being questioned under a 72-hour detention order.
+
+◼️
+
+[Data](articles/937afae4.json)
+
+---
 
 ### ඇමති ආනන්ද විජේපාල ගැන ව්‍යාජ පුවත් සංසරණය වීම සම්බන්ධව විමර්ශනයක්
 
@@ -1765,79 +1837,5 @@ Senior Additional Secretary to the President and President’s Fund Secretary Ro
 ...
 
 [Data](articles/60586f1d.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-01 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112041/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department states that several spells of showers will occur in Sabaragamuwa province and in Kandy, Nuwara-Eliya districts.
-
-A few showers may occur in Western and North-western provinces and Galle and Matara districts.
-
-Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Ampara, Batticaloa and Mullaitivu districts after 2.00 p.m.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds, the Met. Department said.
-
-The sun is going to be directly over the latitudes of Sri Lanka during 28th of August to 07th of September due to its apparent southward relative motion.
-
-...
-
-[Data](articles/7ba85ebf.json)
-
----
-
-### UN urges Sri Lanka to deliver truth, justice and reparations for disappeared persons
-
-*2025-09-01 06:14:11* · [`dailyftlk`](https://www.ft.lk/news/UN-urges-Sri-Lanka-to-deliver-truth-justice-and-reparations-for-disappeared-persons/56-781052) · `en`
-
-UN Resident Coordinator in Sri Lanka Marc-André Franche (left) with President Anura Kumara Disanayake
-
-UN Resident Coordinator in Sri Lanka Marc-André Franche issues statement to mark International Day of the Victims of Enforced Disappearances
-
-Says recent mass grave stark reminder of scale of past grave human rights violations
-
-UN Resident Coordinator in Sri Lanka Marc-André Franche on Saturday said that the country must confront enforced disappearances by uncovering the truth through independent investigations, empowering the Office on Missing Persons (OMP), protecting victims and families, and ensuring justice, reparations, and institutional trust to achieve reconciliation and lasting peace.
-
-...
-
-[Data](articles/0b29b9e0.json)
-
----
-
-### Govt. to import 2,000 double-cabs for rural State officials
-
-*2025-09-01 06:11:48* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-import-2-000-double-cabs-for-rural-State-officials/56-781051) · `en`
-
-Provincial Councils and Local Government Deputy Minister Ruwan Senarath yesterday said the Government intends to import 2,000 double-cab vehicles early next year to improve transport facilities for officials heading State institutions, especially in the hinterland.
-
-According to him, the move is aimed at enabling officers, particularly those attached to local authorities, to reach villages and communities more effectively in order to carry out development work.
-
-“We want to ensure that officers can travel to the grassroots and fulfil their field responsibilities. That is why arrangements have been made to bring in 2,000 cabs during the first quarter of next year,” Senarath said.
-
-He further noted that additional machinery and equipment would be distributed to strengthen local operations, with funding already allocated for the program.
-
-...
-
-[Data](articles/c7238219.json)
-
----
-
-### SITREK Group marks 48 years with awards and celebration
-
-*2025-09-01 06:03:00* · [`dailyftlk`](https://www.ft.lk/business/SITREK-Group-marks-48-years-with-awards-and-celebration/34-781050) · `en`
-
-The SITREK Group celebrated its 48th anniversary in grand style at the Grand Maitland, honouring decades of excellence and recognising key contributors through its Annual Awards Ceremony.
-
-The event, held under the patronage of Joint Group Managing Directors Jeevaka Wijesinghe and Minoli Wijesinghe, included ceremonial traditions, multimedia presentations, and a dynamic awards segment.
-
-Among the notable recognitions were: Long Service Awards; Security Officer and Officer In Charge of the Year – SITREK Security Solutions; Courier and Supervisor of the Year – SITREK Courier Services; Nursing Excellence Awards – SITREK Home Nursing and Swift Care; Driver, Customer Service and Lady Officer of the Year – SITREK Secure Logistics and Employee of the Year Awards – SITREK Secure Logistics and SITREK Technologies.
-
-◼️
-
-[Data](articles/f6c44496.json)
 
 ---

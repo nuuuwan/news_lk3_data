@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 19:35:10**
+As of **2025-09-01 19:50:08**
 
 ## Newspaper Stats
 
-*Scraped **73,569** Articles*
+*Scraped **73,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 7,091
 adaderanalk | 9,376
 tamilmirrorlk | 10,941
 virakesarilk | 12,043
-adaderanasinhalalk | 12,775
+adaderanasinhalalk | 12,776
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,569 articles have been extended.
+61,973 (84.2%) of 73,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### වායු නලයක කාන්දුවක් - 30ක් රෝහලට
+
+*2025-09-01 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214052) · `si`
+
+පුස්සැල්ලාව ඩෙල්ටා වත්තේ පිහිටි ජල පවිත්‍රගාරයේ වායු නලයක සිදුවු කාන්දුවක් හේතුවෙන් 30 දෙනෙකු රෝහල් ගත කර තිබේ.
+
+◼️
+
+[Data](articles/060e0f41.json)
+
+---
 
 ### யாழ்ப்பாணத்தில் சர்வதேச கிரிக்கெட் விளையாட்டரங்க நிர்மாணத்திற்கான அடிக்கலை ஜனாதிபதி நாட்டிவைத்தார்
 
@@ -1733,21 +1745,5 @@ Accordingly, the Public Health Inspectors submitted to the House Committee a det
 ...
 
 [Data](articles/0faf0e2c.json)
-
----
-
-### ඇෆ්ගනිස්ථානයට දැරුණු භූමිකම්පාවක්, සිය ගණනක් මරුට?
-
-*2025-09-01 11:19:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇෆ්ගනිස්ථානයට-දැරුණු-භූමිකම්පාවක්--සිය-ගණනක්-මරුට-/11-418192) · `si`
-
-ඇෆ්ගනිස්ථානයේ කඳුකර ප්‍ර දේශයක සිදුව ඇති රික්ටර් මාපාංක 6.2ක දරුණු භූමිකම්පාවක් හේතුවෙන් පුද්ගලයන් සිය ගණනක් ජීවිතක්ෂයට පත්ව ඇති බවට සැක පළකරයි. මේ වන විටත් මිය ගිය 20කට ආසන්න පිරිසකගේ සිරුරු සොයාගෙන තිබේ.
-
-කඳුකර ප්‍ර දේශයක මෙම භූමිකම්පාව සිදුව ඇති හෙයින් සහන කණ්ඩායම්වලට එම ස්ථානයට ළඟා වීමට බාධා සිදුව තිබේ.
-
-ඇෆ්ගනිස්ථානය මේ වන විට තලේබාන් පාලනය යටතේ පවතින අතර භූමිකම්පාවෙන් පීඩාවට පත් පිරිසට සහන සැලසීමට උපකාර කරන ලෙස ඔවුන් ජාත්‍යන්තරයෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/4f8f74ae.json)
 
 ---

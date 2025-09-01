@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 08:27:06**
+As of **2025-09-01 08:59:57**
 
 ## Newspaper Stats
 
-*Scraped **73,411** Articles*
+*Scraped **73,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,472
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,067
-adaderanalk | 9,339
-tamilmirrorlk | 10,897
+adalk | 7,068
+adaderanalk | 9,344
+tamilmirrorlk | 10,900
 virakesarilk | 12,029
 adaderanasinhalalk | 12,743
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 12,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,411 articles have been extended.
+61,973 (84.4%) of 73,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### இன்று முதல் அதிவேக நெடுஞ்சாலையில் புதிய சட்டம்
+
+*2025-09-01 08:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அதிவேக-நெடுஞ்சாலையில்-புதிய-சட்டம்/175-363816) · `ta`
+
+அதிவேக நெடுஞ்சாலைகளில் பயணிக்கும் அனைத்து வாகனங்களிலும் இருக்கைகளில் உள்ள அனைவரும் இன்று முதல் ஆசனப்பட்டிகளை அணிவது கட்டாயமாக்கப்பட்டுள்ளதாக போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சு இதனைத் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/df4441df.json)
+
+---
+
+### ஆப்கானிஸ்தானில் பாரிய நிலநடுக்கம் : 20 பேர் உயிரிழப்பு
+
+*2025-09-01 08:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-பாரிய-நிலநடுக்கம்-20-பேர்-உயிரிழப்பு/50-363815) · `ta`
+
+ஆப்கானிஸ்தானின், இந்துகுஷ் பகுதியில் நேற்று (31) இரவு 6.0  ரிக்டர் அளவுகோலில் நிலநடுக்கம் ஏற்பட்டுள்ளது.
+
+இந்த நிலநடுக்கம் கடல் மட்டத்தில் இருந்து 8 கி.மீ. ஆழத்தில் ஏற்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+நிலநடுக்கத்தின் தாக்கம் டெல்லியிலும், பாகிஸ்தானின் இஸ்லாமாபாத், லாகூரிலும் உணரப்பட்டதாக இந்திய செய்திகள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/dafec8eb.json)
+
+---
+
+### பல இடங்களில் மழை : நண்பகலில் சூரியன் உச்சம்
+
+*2025-09-01 08:06:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-நண்பகலில்-சூரியன்-உச்சம்/175-363814) · `ta`
+
+சப்ரகமுவ மாகாணத்திலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சிறிதளவான மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+சூரியனின் தொடர்பான தென்திசை நோக்கிய இயக்கத்தின் காரணமாக, கடந்த 28 ஆம் திகதியிலிருந்து எதிர்வரும் 07 ஆம் திகதி வரை இலங்கையின் அகலாங்குகளுக்கு நேராக உச்சம் கொடுக்கவுள்ளது.
+
+அதற்கிணங்க இன்று (01) நண்பகல் 12.10 அளவில் முதலைப்பாலை, பலகொல்லாகம, ராஜாங்கனை, எப்பாவல, மெதிரிகிரிய, பள்ளித்திடல் மற்றும் வாகரை ஆகிய பிரதேசங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கவுள்ளது.R
+
+◼️
+
+[Data](articles/d0e409a1.json)
+
+---
 
 ### மின் வேலியில் சிக்கி விவசாயி உயிரிழப்பு
 
@@ -66,6 +114,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 6.3 magnitude earthquake hits Afghanistan, at least 20 killed
+
+*2025-09-01 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112045/63-magnitude-earthquake-hits-afghanistan-at-least-20-killed) · `en`
+
+A powerful earthquake measuring 6.3 on the Richter scale struck Afghanistan late Sunday night, leaving at least 20 people dead, according to BBC reports.
+
+The National Center for Seismology (NCS) said the quake, recorded at 12:47 AM (IST), had its epicentre 160 km deep underground. Strong tremors were felt as far as Islamabad and Abbottabad in Pakistan.
+
+After the initial jolt, the region was rattled by multiple aftershocks—measuring 4.7, 4.3, and 5.0 magnitudes—at varying depths between 40 km and 140 km, intensifying fear among residents.
+
+Afghanistan lies on active fault lines between Indian and Eurasian plates
+
+Afghanistan is highly prone to earthquakes as it sits between the Indian and Eurasian tectonic plates. The Hindu Kush mountain range, running through the country, is one of the most seismically active regions in the world, where tremors are recorded almost every year.
+
+The fault line extends westward to Herat, making the country particularly vulnerable to destructive quakes.
+
+...
+
+[Data](articles/721bb7ac.json)
+
+---
+
+### වෙන්නප්පුවේ ඝාතකයන් පැය 24ක් යන්නත් කලින් අල්ලයි
+
+*2025-09-01 07:34:30* · [`adalk`](https://www.ada.lk/breaking_news/වෙන්නප්පුවේ-ඝාතකයන්-පැය-24ක්-යන්නත්-කලින්-අල්ලයි/11-418183) · `si`
+
+වෙන්නප්පුව පොලිස් වසමේ වැව පාර ප්‍ර දේශයේදී ඊයේ (31) මෝටර් රථයකින් පැමිණි පුද්ගලයන් තිදෙනෙක් විසින් යතුරුපැදියකින්
+
+ගමන් කරමින් සිටි පුද්ගලයන් දෙදෙනෙක් අනතුරට ලක් කර තියුණු ආයුධ වලින් පහරදී සිදුකළ වෙඩි තැබීමකින් එක් පුද්ගලයෙක්
+
+මෙම අපරාධය සිදු කර පළා යමින් සිටි එක් සැකකරුවෙක් අපරාධය සිදු වී සුළු මොහොතකින් වෙන්නප්පුව පොලිස් ස්ථානය මගින් අත්අඩංගුවට ගෙන සිදුකර කවැඩි දුර විමර්ශනයේදී එම පොලිස් ස්ථානයේම නිලධාරීන් කණ්ඩායම්ක සිදුකළ මෙහෙයෙමුවකදී මෙම අපරාධයට සම්බන්ධ අනෙක් සැකකරුවන් දෙදෙනාද අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුද් 26 හා 29 වයස්හි පසුවන වෙන්නප්පුව පදිංචිකරුවන් වෙයි.
+
+◼️
+
+[Data](articles/1de3783c.json)
+
+---
+
 ### ඩීසල් හා පෙට්‍රල් මිල පහළට
 
 *2025-09-01 07:24:40* · [`adalk`](https://www.ada.lk/breaking_news/ඩීසල්-හා-පෙට්‍රල්-මිල-පහළට/11-418182) · `si`
@@ -75,6 +163,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c33caebf.json)
+
+---
+
+### Govt to launch “Seiri Week” today to dispose of unnecessary items accumulated in state institutions
+
+*2025-09-01 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112044/govt-to-launch-seiri-week-today-to-dispose-of-unnecessary-items-accumulated-in-state-institutions) · `en`
+
+The government has taken steps to implement a special program starting today (September 1) to dispose of unnecessary items that have accumulated in all state institutions.
+
+The program announced as “Seiri Week,” will be carried out over four days, from today to September 4.
+
+It has been launched with the aim of creating a clean, healthy, and safe environment that enables government officers to perform their duties more effectively and comfortably.
+
+Accordingly, the Secretary to the Ministry of Public Administration, Provincial Councils and Local Government has issued a special circular which has been sent to all Secretaries of Ministries, Chief Secretaries of Provinces, Heads of Departments, District Secretaries, Heads of Public Corporations and Statutory Boards.
+
+This is to be implemented in conjunction with the ‘Clean Sri Lanka’ national initiative and will involve identifying necessary and unnecessary items and discarding of all unnecessary items.
+
+...
+
+[Data](articles/574e58e7.json)
 
 ---
 
@@ -91,6 +199,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ef8c6c1e.json)
+
+---
+
+### Two suspects arrested over Wennappuwa shooting incident
+
+*2025-09-01 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112043/two-suspects-arrested-over-wennappuwa-shooting-incident) · `en`
+
+Two more suspects have been arrested in connection with the shooting incident reported in Wennappuwa on Sunday (31), police said.
+
+The suspects, aged between 26 and 29, are scheduled to be produced before the Marawila Magistrate’s Court today (01).
+
+Meanwhile, another individual was arrested yesterday in connection with the same incident.
+
+According to police, a firearm and the car used to commit the crime have also been taken into custody.
+
+The shooting took place along Lake Road, adjacent to the Wennappuwa Police Station, at around 10.30 a.m. on Sunday.
+
+Police stated that a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
+
+One of the motorcyclists was injured and managed to flee the scene, while the other sustained gunshot injuries and succumbed on the spot.
+
+...
+
+[Data](articles/7ce3099d.json)
 
 ---
 
@@ -204,6 +336,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Hamas spokesman Abu Obeida killed in Gaza, Israel says
+
+*2025-09-01 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112042/hamas-spokesman-abu-obeida-killed-in-gaza-israel-says) · `en`
+
+Abu Obeida, the spokesman for Hamas’s armed wing, has been killed in an aerial attack in Gaza City, Israel has said.
+
+Israel’s Defence Minister Israel Katz congratulated the Israel Defense Forces (IDF) and Israel’s security agency, Shin Bet, for the “flawless execution” in a post on X.
+
+Hamas has not confirmed his death. The Palestinian armed group earlier said dozens of civilians were killed and injured in the Israeli air strikes on a residential building in the district.
+
+Local journalists reported that at least seven people had been killed and 20 injured in the strikes on the densely populated al-Rimal neighbourhood of Gaza City, with children among the casualties.
+
+Saturday’s attack comes amid ongoing aerial strikes on Gaza City ahead of a planned Israeli offensive.
+
+Katz warned on Sunday that many more of Obeida’s “criminal partners” would be targeted with “the intensification of the campaign in Gaza” - a reference to a recently approved Israeli plan to seize control of Gaza City.
+
+...
+
+[Data](articles/5b19e64c.json)
+
+---
+
 ### ஜனாதிபதி இன்று யாழ்ப்பாணத்துக்கு விஜயம்
 
 *2025-09-01 06:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-யாழ்ப்பாணத்துக்கு-விஜயம்/175-363810) · `ta`
@@ -277,6 +431,28 @@ Senior Additional Secretary to the President and President’s Fund Secretary Ro
 ...
 
 [Data](articles/60586f1d.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-09-01 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112041/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department states that several spells of showers will occur in Sabaragamuwa province and in Kandy, Nuwara-Eliya districts.
+
+A few showers may occur in Western and North-western provinces and Galle and Matara districts.
+
+Meanwhile, showers or thundershowers may occur at a few places in Uva province and in Ampara, Batticaloa and Mullaitivu districts after 2.00 p.m.
+
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds, the Met. Department said.
+
+The sun is going to be directly over the latitudes of Sri Lanka during 28th of August to 07th of September due to its apparent southward relative motion.
+
+...
+
+[Data](articles/7ba85ebf.json)
 
 ---
 
@@ -592,6 +768,10 @@ Parts 1 and 2 of this article highlighted two fundamental rights of taxpayers: t
 
 ECONOMYNEXT – Sri Lanka has spent 506.1 million dollars on personal vehicle imports up to July 2025, up from 34.8 million dollars last year, while another 162.2 million dollars were spent on commercial vehicles, official data showed.
 
+Total current dollar inflows to the country in the month of July alone were 2.6 billion US dollar.
+
+RELATED : Sri Lanka foreign exchange earnings $2.6bn in July, exceeds imports by $729mn
+
 Personal vehicles are classed as consumer goods, though they are usually bought with credit, which are then repaid in about 4 years.
 
 Credit allows a person or company to acquire good outside of their current earnings.
@@ -599,8 +779,6 @@ Credit allows a person or company to acquire good outside of their current earni
 Other true consumption goods are usually bought with ready cash or in some cases using past savings, which may drive up interest rates as banks try to replenish their rupee reserves.
 
 Total investment goods, which are strongly linked to credit, surged 22.5 percent to 2,217 million dollars up to July.
-
-In the crisis year of 2021, when macroeconomists cut rates and directed banks to lend for construction at rock bottom rates, building material imports hit 706 million dollars by July and 1.24 billion US dollars by December.
 
 ...
 
@@ -1703,163 +1881,5 @@ Before the dozens of boats carrying aid embarks from Spain, the activists called
 ◼️
 
 [Data](articles/3ddc89da.json)
-
----
-
-### Former Secretary to the President Saman Ekanayake summoned again by CID
-
-*2025-08-31 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112029/former-secretary-to-the-president-saman-ekanayake-summoned-again-by-cid) · `en`
-
-Former Secretary to the President Saman Ekanayake has been summoned once again to appear before the Criminal Investigation Department (CID).
-
-It is reported that he has been instructed to appear before the CID tomorrow (September 1) at 9:00 a.m.
-
-The summons has been issued in connection with an ongoing investigation into a visit to the United Kingdom undertaken by former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/bda01e8d.json)
-
----
-
-### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට ICCයෙන් දඩයක්
-
-*2025-08-31 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213991) · `si`
-
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට දඩයක් නියම කළ බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද (31) නිවේදනය කළේය.
-
-ඒ, ශ්‍රී ලංකාව සහ සිම්බාබ්වේ කණ්ඩායම අතර පැවති පළමු එක්දින තරගයේදී නියමිත කාලය තුළ පන්දුවාර සංඛ්‍යාව යවා නොතිබීම හේතුවෙනි.
-
-ඒ අනුව තරග ගාස්තුවෙන් සියයට පහක දඩයක් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මෙලෙස නියම කර තිබේ.
-
-ක්‍රීඩකයින් සහ ක්‍රීඩක සහායක පිරිස් සඳහා වන ICC චර්යාධර්ම සංග්‍රහයේ 2.22 වගන්තියට අනුව මෙම දඩයක් නියම කර ඇත.
-
-නායක චරිත් අසලංක වරදට වරද පිළිගෙන ඇති අතර යෝජිත දඬුවම පිළිගෙන ඇති බැවින් විධිමත් විභාගයක් සිදු නොවූ බව ICC නිවේදනයක් නිකුත් කරමින් කියා සිටියේය.
-
-◼️
-
-[Data](articles/16468af5.json)
-
----
-
-### වෙන්නප්පුවේ වෙඩි තැබිමකින් අයෙක් මරුට තවත් අයකුට තුවාල
-
-*2025-08-31 13:26:47* · [`adalk`](https://www.ada.lk/breaking_news/වෙන්නප්පුවේ-වෙඩි-තැබිමකින්-අයෙක්-මරුට-තවත්-අයකුට-තුවාල/11-418176) · `si`
-
-වෙන්නප්පුව වැව පාරේ 31 දින උදෑසන සිදුවු වෙඩි තැබිමකින් එක් අයකු එම ස්ථානයෙදීම මරණයට පත්ව තුවාල ලැබු තවත් අයකු රෝහල් ගත කර ඇති බව වෙන්නප්පුව පොලිසිය කියයි.
-
-වෙඩි ප්‍රහාරයට ලක්ව මරණයට පත්ව ඇත්තේ වෙන්නප්පුව උදාසිරිගම පදිංචි ධනුෂ්ක උදයශාන්ත නොහොත් කටා යන අන්වර්ථ නාමයෙන් හැදින්වෙන් අයකු බව කියයි.
-
-ඒ සමගම වෙඩි ප්‍රහාරයෙන් තුවාල ලබා මාරවිල මූලික රෝහලට ඇතුලත් කර ඇති අනෙක් තැනැත්තා ගයාන් ප්‍රනාන්දු නොහොත් මොන්ඩා නැමති ලුණුවිල කිරිමැටියාන පදිංචි කරුවෙකු බව කියයි.
-
-වෙඩි ප්‍රහාරයට ලක්ව ඇත්තේ ඉරු දින වෙන්නප්පුව පොලිසියට පැමින එහි පොත් අත්සන් කර ආපසු තම හිතවතේකු සමග යමින් සිටි අයකු බව කියයි.
-
-මෝටර් රථයකින් පැමිනි කණ්ඩායමක් මෙම වෙඩි තැබිම සිදුකර ඇති අතර වෙඩි තැබිමත් සමග වෙඩි ප්‍රහාරයට ලක්වු දෙදෙනා ගමන් ගත් යතුරු පැදිය මාර්ගය අසල කොන්ක්‍රිට් කානුවකට වැටි තිබු බව පොලිසිය කියයි.
-
-ඒ සමගම දරුණු වෙඩි ප්‍රහාරයට ලක්වු තැනැත්තා ද එම කොන්ක්‍රිට් කානුවට වැටි එහිම මරණයට පත්ව ඇති බව විමර්ශන කටයුතු වල නිරත වෙන්නප්පුව පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/043fb2ad.json)
-
----
-
-### හිටපු ජනාධිපති ලේකම් සමන් ඒකනායකට යළි CIDයෙන් කැඳවීමක්
-
-*2025-08-31 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213990) · `si`
-
-හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා යළි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා තිබේ.
-
-හෙට (01) පෙරවරු 9ට එම දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස සමන් ඒකනායක මහතාට දැනුම් දී ඇති බව වාර්තා වෙයි.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට මෙම කැඳවීම සිදුකර ඇති බව සඳහන්ය.
-
-සිද්ධියට අදාළව මීට පෙර ද සමන් ඒකනායක මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා ප්‍රකාශ සටහන් කරගෙන තිබුණි.
-
-◼️
-
-[Data](articles/8abf430c.json)
-
----
-
-### Celestial Spectacle Awaits Sri Lanka: Rare blood moon to appear for 82 minutes on September 7
-
-*2025-08-31 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112028/celestial-spectacle-awaits-sri-lanka-rare-blood-moon-to-appear-for-82-minutes-on-september-7) · `en`
-
-Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” next month, said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
-
-The spectacular celestial event is set to light up the skies on September 7, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
-
-Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
-
-...
-
-[Data](articles/992c673e.json)
-
----
-
-### ගොවීන්ට නොමිලයේ දීමට තිබූ රු. කෝටි ගණනක පොහොර කල් ඉකුත් වෙන්න ළඟයි
-
-*2025-08-31 13:09:27* · [`adalk`](https://www.ada.lk/breaking_news/ගොවීන්ට-නොමිලයේ-දීමට-තිබූ-රු--කෝටි-ගණනක-පොහොර-කල්-ඉකුත්-වෙන්න-ළඟයි/11-418174) · `si`
-
-පසුගිය රජය සමයේ 2023 වර්ෂයේ වී ගොවින්  වෙත ගොවිජන සේවා කාර්යාල හරහා නොමිලේ ලබාදීමට රුපියල් කෝටි ගණනක් වටිනා පොහොර මේ වන විට එම ගබඩා තුළ විනාශ වීමේ අවදානමක් පවතින බව ජාතික පොහොර ලේකම් කාර්යාලයේ නියෝජ්‍ය අධ්‍යක්ෂක අර් ඒ සි පි කේ රණසිංහ මහතා පවසයි.
-
-නියෝජ්‍ය අධ්‍යක්ෂකවරයා එසේ ප්‍රකාශ කරනු ලැබුවේ  මධ්‍යම පළාත් ආණ්ඩුකාර මහාචාර්ය එස් බි එස් අභයඅභයකෝන් මහතාගේ හා බුද්ධ ශාසන ආගමික කටයුතු හා සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යය ගම ගෙදර දිසානායක මහතාගේ සම සභාපතිත්වයෙන් යුතුව පසුගියදා රැස්වූ මාතලේ දිස්ත්‍රික් සංවර්ධන කමිටුව අමතමින්ය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ නියෝජ්‍ය අධ්‍යක්ෂක අර් ඒ සි පි කේ රණසිංහ මහතා, "වී ගොවීන් වෙත එම්ඕපි හා පිඑස්පි පොහොර නොමිලේ ලබා දීම සඳහා රජය මඟින් ලබා දුන් එම පොහොර ටොන්  70ක් පමණ ගබඩා    තුල පවතින අතර එයින් කොටසක් මීයන් හපා විනාස වීමේ අවධානමක්ද පවතිනවා ."
-
-මෙම පොහොර කිලෝ 50 ක මිටියක්  රුපියල්  8500 ක් වැනි මුදලක් වටිනා අතර මෙම පොහොර තොගය නොවැම්බර් මාසයේදී කල් ඉකුත් වීමට නියමිත බැවින් ගොවී වෙත හා රජයේ ගොවිපළවල් වෙතෙත ලබාදීම සුදුසු යැයි ඔහු විසින් සභාවට යෝජනා කළේය.
-
-...
-
-[Data](articles/6eaf46e0.json)
-
----
-
-### සියලු දරුවන්ට ප්‍රවේශ විය හැකි නව අධ්‍යාපන ක්‍රමයක් ඇති කිරීම රජයේ අරමුණයි - අගමැතිනි හරිනි
-
-*2025-08-31 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213989) · `si`
-
-සමානත්මභාවයෙන් හා ගුණාත්මකභාවයෙන් පිරි සියලු දරුවන්ට ප්‍රවේශ විය හැකි නව අධ්‍යාපන ක්‍රමයක් ගොඩ නැගීම රජයේ අරමුණ බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  පවසයි.
-
-යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් රදගුරු අධ්‍යාපන උපදේශක කමිටුව සමඟ පැවති සාකච්ඡාවකදී අග්‍රාමාත්‍යවරිය මෙම අදහස් පළ කළාය.
-
-ලංකා සභා කොළඹ දියෝකීසියයේ රදගුරු අධ්‍යාපන උපදේශක කමිටුව සහ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අතර පැවැති විශේෂ සාකච්ඡාවේදී ඇය මේ බව පැවසුවාය.
-
-යෝජිත නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් මෙහිදී සාකච්ඡාවට ගැණුන අතර උපදේශක කමිටුව, අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් සිය යෝජනා ද අග්‍රාමාත්‍යවරිය වෙත ඉදිරිපත් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/59821908.json)
-
----
-
-### கள்ளக்காதலிக்கு கண்களை  மூடிக்கொண்டு செலவழிப்பு
-
-*2025-08-31 12:53:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கள்ளக்காதலிக்கு-கண்களை-மூடிக்கொண்டு-செலவழிப்பு/76-363789) · `ta`
-
-நாவலப்பிட்டி அங்காடி வளாகத்தின் இரண்டாவது மாடியில் உள்ள தங்கக் கடை மற்றும் தங்க அடகு கடைக்குள் புகுந்து 3.5 மில்லியன் ரூபாய்க்கு மேல் மதிப்புள்ள தங்க ஆபரணங்கள் மற்றும் உபகரணங்களைத் திருடிய சந்தேக நபர் கைது செய்யப்பட்டதாக நாவலப்பிட்டி பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கஹடகஸ்திகிலிய பொலிஸ் பிரிவில் பதிவு செய்யப்பட்ட குற்றவாளிகள் பட்டியலில் உள்ளார்.
-
-நாவலப்பிட்டி பகுதியில் உள்ள ஒரு பிரபலமான பூக்கடையில் ஓட்டுநராகப் பணியாற்றிய சந்தேக நபர், போதைப்பொருள் மற்றும் பந்தயத்திற்கு அடிமையானவர் என்று கூறப்படுகிறது.
-
-நிகினி போயா தினத்தின் அதிகாலையில், சந்தேக நபர் சம்பந்தப்பட்ட தங்கக் கடைக்குள் நுழைந்து தங்க நகைகள், நவீன மொபைல் போன், மடிக்கணினி கணினி மற்றும் கிட்டத்தட்ட 3.5 மில்லியன் ரூபாய் மதிப்புள்ள மின்னணு பொருட்களைத் திருடினார்.
-
-...
-
-[Data](articles/7fe043e4.json)
-
----
-
-### දෙවන එක්දින තරගයේ කාසියේ වාසිය ශ්‍රී ලංකාවට
-
-*2025-08-31 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213988) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර දෙවන සහ අවසන් එක්දින තරගයේ කාසිවේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකාව සමත්ව තිබේ.
-
-◼️
-
-[Data](articles/3e98001d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 22:22:21**
+As of **2025-09-01 22:33:57**
 
 ## Newspaper Stats
 
-*Scraped **73,588** Articles*
+*Scraped **73,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,094
 adaderanalk | 9,380
 tamilmirrorlk | 10,942
 virakesarilk | 12,050
-adaderanasinhalalk | 12,778
+adaderanasinhalalk | 12,780
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,588 articles have been extended.
+61,973 (84.2%) of 73,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ඝාතන සැකකරුවෙක් අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය පතයි
+
+*2025-09-01 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214056) · `si`
+
+අවශ්‍ය කරන සැකකරුවෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසය මහජන සහාය පතයි.
+
+මෙම සැකකරු  2025.04.18 වන දින මතුගම පොලිස් වසමේ දොලහේන වත්ත ප්‍රදේශයේදී කාන්තාවකගේ ගෙල තියුණු ආයුධයකින් කපා ඝාතනය කිරීමේ අපරාධයට අවශ්‍ය කරන සැකකරුවෙක් බව පොලීසිය පවසයි.
+
+මෙම සැකකරු බ්‍රාහ්මණගේ දොන් සනත් රවීන්ද්‍ර නිලංත නැමැති මතුගම පොලිස් වසමේ නො. 78/1, ඉහළකන්ද, අගලවත්ත ප්‍රදේශයේ පදිංචි  41 හැවිරිදි පුද්ගලයෙකි.
+
+සැකකරු මේ වන විට ප්‍රදේශයෙන් පලාගොස් ඇති අතර ඔහු අත්අඩංගුවට ගැනීම සඳහා පොලිසිය මහජන සහාය පතයි.
+
+සැකකරු සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් සහකාර පොලිස් අධිකාරි මතුගම - 071 8591700,  මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක මතුගම - 071 8591701 යන දුරකතන අංක වෙත දැනුම්දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/ca37366b.json)
+
+---
 
 ### ஜனாதிபதி கச்சதீவிற்கு விஜயம்
 
@@ -47,6 +67,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6c68d0d6.json)
+
+---
+
+### බීමත් රෝගීයා හෙදියකට පහරදී රෝහලෙන් පලායයි
+
+*2025-09-01 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214055) · `si`
+
+පානදුර මූලික රෝහලෙන් ප්‍රතිකාර ලබාගැනීම සඳහා පැමිණි රෝගියෙකු කළ පහරදීමකින් හෙදියක රෝහල් ගත කර තිබේ.
+
+මෙසේ රෝහල් ගත කර ඇත්තේ මූලික ප්‍රතිකාර ඒකකයේ රාජකාරි කරන හෙදියකි.
+
+පහරදීම සිදුකළ රෝගියා ඇද වැටීමකින් තුවාල ලබා ප්‍රතිකාර ලබාගැනීම සඳහා පානදුර මූලික රෝහලට පැමිණ ඇති අතර, ඔහු බීමතින් සිට ඇති බවද රෝහල් ප්‍රකාශකයෙක් පැවසීය.
+
+ඔහු පරුෂ වචනයෙන් රෝහල් කාර්ය මණ්ඩලයට බැණ වැදී සිට ඇති අතර, පහර කෑමට ලක්වූ හෙදිය ඒ බව රෝහල් පොලීසියට දැනුම් දී නැවත මූලික ප්‍රතිකාර ඒකකයට පැමිණෙන අතරතුර රෝගියා ට්‍රොලියෙන් බැස හෙදියට පහර ඇති බව වාර්තා වෙයි.
+
+මෙසේ පහරදී පලා ගොස් ඇත්තේ මොරටුව, මෝදර ප්‍රදේශයේ පදිංචි පුද්ගලයකි.
+
+සිද්ධිය සම්බන්ධයෙන් පානදුර දකුණ මූලස්ථාන පොලීසියට පැමිණිලි කිරීමට නියමිත බවද වාර්තා වේ.
+
+◼️
+
+[Data](articles/90c7ebeb.json)
 
 ---
 
@@ -1715,39 +1757,5 @@ When the case was called, “Harak Kata” was produced in court under tight sec
 ◼️
 
 [Data](articles/4767266c.json)
-
----
-
-### Ex-President Ranil extends his gratitude to all factions who stood by him
-
-*2025-09-01 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112057/ex-president-ranil-extends-his-gratitude-to-all-factions-who-stood-by-him-) · `en`
-
-Former President Ranil Wickremesinghe has extended his gratitude to all factions who stood by him from the time of his arrest to his hospitalisation.
-
-Issuing a special statement to media today (01), he stated that he is thankful to everyone who supported him through social media and other means from the moment he was taken into custody.
-
-The former President further mentioned in his statement that he intends to meet with all those parties at a later stage.
-
-Former President Ranil Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, was discharged from the hospital on Friday (29).
-
-The 76-year-old was rushed to the intensive care unit of the National Hospital on August 23, just hours after being remanded in custody.
-
-Wickremesinghe, who was granted bail on August 2, was ordered to be released on three surety bails of Rs. 5 million each by Colombo Fort Magistrate Nilupuli Lankapura.
-
-...
-
-[Data](articles/2d218a6a.json)
-
----
-
-### செம்மணிக்கு நீதி விசாரணை : யாழில் ஜனாதிபதி
-
-*2025-09-01 12:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்கு-நீதி-விசாரணை-யாழில்-ஜனாதிபதி/175-363843) · `ta`
-
-செம்மணியில் தோண்டப்படும் மனித எச்சங்கள் தொடர்பாக நீதியான விசாரணைகள் முன்னெடுக்கப்படும் இதில் எவ்வித மாற்றமும் இல்லை என ஜனாதிபதி அனுர குமார திஸாநாயக்க  தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/2d0ffab9.json)
 
 ---

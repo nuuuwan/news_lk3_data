@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 00:33:57**
+As of **2025-09-02 00:49:04**
 
 ## Newspaper Stats
 
-*Scraped **73,606** Articles*
+*Scraped **73,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 753
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,199
+dailyftlk | 5,200
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,606 articles have been extended.
+61,973 (84.2%) of 73,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Reimagining Sri Lanka’s university system: Strategic blueprint for global competitiveness
+
+*2025-09-02 00:24:59* · [`dailyftlk`](https://www.ft.lk/columns/Reimagining-Sri-Lanka-s-university-system-Strategic-blueprint-for-global-competitiveness/4-781078) · `en`
+
+With global competition intensifying and domestic challenges mounting, the country’s university system must evolve into a dynamic, innovation-led, industry-integrated ecosystem
+
+In an era where both academic and professional landscapes are evolving rapidly, it is increasingly important to examine how education systems adapt to emerging societal and industry needs. This article brings together two professionals with shared academic roots but distinctly different career trajectories, offering a unique lens through which to view educational reform.
+
+Both authors graduated from the University of Moratuwa in 1987. Since then, their paths have diverged in ways that enrich this dialogue. One author has built a distinguished academic career and now serves as a professor of wireless communication at the University of Oulu in Finland. The other has pursued a career in multidisciplinary civil engineering and asset management, currently contributing to the Australian Local Government Sector.
+
+...
+
+[Data](articles/1fde0e35.json)
+
+---
 
 ### Where’s the papaverine? NMRA has flatlined on vital heart medicine
 
@@ -1743,29 +1759,5 @@ The petition, submitted through his legal counsel, names the Secretary to the Mi
 ◼️
 
 [Data](articles/a3d36b12.json)
-
----
-
-### ඇෆ්ගනිස්තානයේ භූ කම්පනයෙන් මිය ගිය ගණන තවත් ඉහළට
-
-*2025-09-01 14:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214033) · `si`
-
-ඇෆ්ගනිස්තානයේ නැගෙනහිර කලාපයේ හටගත් රික්ටර් මාපකයේ ඒකක 6ක ප්‍රබලත්වයෙන් යුතු භූ කම්පනයකින් මියගිය සංඛ්‍යාව 800 ඉක්මවන බව වාර්තා වෙයි.
-
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ, තවත් පිරිසක් සුන්බුන් අතර සිරවී සිටින බවය.
-
-ඇෆ්ගනිස්තානයේ ජලාලාබාද් නගරයට කිලෝ මීටර් 27ක් දුරින් පිහිටි ස්ථානයක රික්ටර් මාපකයේ ඒකක 6ක ප්‍රබලත්වයෙන් යුතු භූකම්පනයක් හටගෙන තිබේ.
-
-පොලෝ මට්ටමෙන් කිලෝ මීටර් 8ක් ගැඹුරේ ඇති වූ මේ භූකම්පනයෙන් නන්ගහාර් සහ කුනාර් යන ප්‍රාන්තවලට දැඩි බලපෑම් එල්ල වී ඇති අතර නිවාස සහ ගොඩනැගිලි රැසකට හානි සිදුව තිබුණි.
-
-භූකම්පනයේ වැඩිම බලපෑමට ලක්වූ කුනාල් කලාපයේ සුන්බුන් අතර සිරවී සිටින සිය ගණන් පිරිස මුදාගැනීමට තලේබාන් පරිපාලනය දැඩි වෙහෙසක් ගනිමින් සිටී.
-
-බලධාරීන් පවසන්නේ, පවතින තත්ත්වය හමුවේ මරණ ගණන ඉහළ යාමේ අවස්ථාවක් පවතින බවය.
-
-අනතුරට මුහුණදුන් කුනාර් ප්‍රාන්තයේ ජනාවාසවලින් සියයට 90ක්ම කඳුකරයේ පිහිටා තිබීමත්, භූකම්පනයෙන් හටගත් නායයාම්වලින් නිවාස සහ මාර්ග පස්වලින් යටවී තිබීමත් හේතුවෙන් මුදාගැනීමේ මෙහෙයුම් වඩාත් සංකීර්ණ වී ඇති බව වාර්තා වවෙයි.
-
-...
-
-[Data](articles/634e3a15.json)
 
 ---

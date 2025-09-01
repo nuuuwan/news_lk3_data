@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 06:55:12**
+As of **2025-09-01 07:40:23**
 
 ## Newspaper Stats
 
-*Scraped **73,396** Articles*
+*Scraped **73,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 752
 economynextcom | 4,472
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,195
+dailyftlk | 5,198
 adalk | 7,065
 adaderanalk | 9,339
-tamilmirrorlk | 10,894
+tamilmirrorlk | 10,896
 virakesarilk | 12,029
 adaderanasinhalalk | 12,736
 
@@ -26,11 +26,101 @@ adaderanasinhalalk | 12,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,396 articles have been extended.
+61,973 (84.4%) of 73,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### செம்மணியில் நேற்று 12 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-09-01 06:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-12-எலும்புக்கூடுகள்-அடையாளம்/175-363811) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய  அகழ்வின் போது புதிதாக 12 மனித எலும்புக்கூடுகள்  அடையாளம் காணப்பட்டுள்ளன.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 39 ஆம் நாள் அகழ்வு நேற்று (31) இடம்பெற்றது.
+
+நேற்றைய அகழ்வின் போது 12 மனித எலும்புக்கூடுகள்  புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித எலும்புக்கூடுகளின் எண்ணிக்கை 209 ஆக அதிகரித்துள்ளது.
+
+அத்துடன், ஏற்கனவே அடையாளம் காணப்பட்ட 11 மனித எலும்புக்கூடுகள் நேற்று அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை 191 மனித எலும்புக்கூடுகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/bda71f7a.json)
+
+---
+
+### ஜனாதிபதி இன்று யாழ்ப்பாணத்துக்கு விஜயம்
+
+*2025-09-01 06:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-யாழ்ப்பாணத்துக்கு-விஜயம்/175-363810) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க இன்று (01) யாழ்ப்பாணம் செல்கின்றார். அவர் இங்கு பல்வேறு அபிவிருத்திப் பணிகளைத் தொடக்கி வைக்கவுள்ளார்.
+
+ஜனாதிபதியின் நிகழ்ச்சி நிரலின்படி, இன்று காலை 8.30 மணிக்கு மயிலிட்டியில் மீன்பிடித் துறைமுக அபிவிருத்திப் பணிகளை ஆரம்பித்து வைப்பார்.
+
+தொடர்ந்து, காலை 9.30 மணிக்கு யாழ். மாவட்ட செயலகத்திள் கடவுச்சீட்டு பணிமனையை ஆரம்பித்து வைப்பார். அங்கிருந்து, யாழ். பொது நூலகத்துக்கும் அவர் செல்வார்.
+
+இதன் பின்னர், மதியம் 1.30 மணியளவில் மண்டைதீவில் அமையவுள்ள சர்வதேச கிரிக்கெட் மைதான நிர்மாணப் பணிகளைத் தொடக்கி வைப்பார். அத்துடன், வேறு சில நிகழ்வுகளிலும் சந்திப்புக்களிலும் ஜனாதிபதி ஈடுபடுவார்.
+
+இதைத் தொடர்ந்து நாளை (02) முல்லைத்தீவுக்குச் செல்லும் ஜனாதிபதி அநுரகுமார, வட்டுவாகல் பாலத்தின் புனரமைப்புப் பணியைத்  தொடக்கி வைப்பார். அத்துடன், தென்னை முக்கோண வலயப் பணிகளையும் அவர் ஆரம்பித்து வைப்பார். (a)
+
+◼️
+
+[Data](articles/3d968a09.json)
+
+---
+
+### Secretary to the President meets Chair of Transparency International
+
+*2025-09-01 06:17:47* · [`dailyftlk`](https://www.ft.lk/news/Secretary-to-the-President-meets-Chair-of-Transparency-International/56-781054) · `en`
+
+Transparency International Chair François Valérian commends Govt. for establishment of Internal Affairs Units to prevent corruption at public institutions
+
+Secretary to the President Dr. Nandika Sanath Kumanayake last week met with Transparency International Chair François Valérian, who is currently on a brief visit to Sri Lanka.
+
+During the discussion, Dr. Kumanayake highlighted the Government’s ongoing efforts to combat corruption in both the public and private sectors. He noted that several new initiatives had been launched, with significant progress already recorded in strengthening anti-corruption mechanisms.
+
+He further emphasised that plans were underway to raise public awareness on bribery and corruption, with the broader aim of eliminating corrupt practices, ensuring effective utilisation of public funds, and fostering a culture of integrity in the country.
+
+...
+
+[Data](articles/1ba15a36.json)
+
+---
+
+### President’s Fund recognises A-Level high-flyers in North Central Province
+
+*2025-09-01 06:15:50* · [`dailyftlk`](https://www.ft.lk/news/President-s-Fund-recognises-A-Level-high-flyers-in-North-Central-Province/56-781053) · `en`
+
+A ceremony to honour the top performers in the 2023/2024 G.C.E. Advanced Level (A-Level) examinations at the district level, sponsored by the President’s Fund, was held yesterday at the Anuradhapura Central College auditorium. The event was chaired by Speaker of Parliament Dr. Jagath Wickramaratne.
+
+During the ceremony, 241 students from the Anuradhapura and Polonnaruwa districts who secured positions 1 to 10 across all six subject streams in the 2023 and 2024 A-Level examinations were awarded certificates and an incentive payment of Rs. 100,000 each. The total expenditure for this initiative by the President’s Fund was Rs. 24.1 million, the President’s Media Division said.
+
+Senior Additional Secretary to the President and President’s Fund Secretary Roshan Gamage delivered the welcome address and outlined the objectives of the program.
+
+...
+
+[Data](articles/60586f1d.json)
+
+---
+
+### UN urges Sri Lanka to deliver truth, justice and reparations for disappeared persons
+
+*2025-09-01 06:14:11* · [`dailyftlk`](https://www.ft.lk/news/UN-urges-Sri-Lanka-to-deliver-truth-justice-and-reparations-for-disappeared-persons/56-781052) · `en`
+
+UN Resident Coordinator in Sri Lanka Marc-André Franche (left) with President Anura Kumara Disanayake
+
+UN Resident Coordinator in Sri Lanka Marc-André Franche issues statement to mark International Day of the Victims of Enforced Disappearances
+
+Says recent mass grave stark reminder of scale of past grave human rights violations
+
+UN Resident Coordinator in Sri Lanka Marc-André Franche on Saturday said that the country must confront enforced disappearances by uncovering the truth through independent investigations, empowering the Office on Missing Persons (OMP), protecting victims and families, and ensuring justice, reparations, and institutional trust to achieve reconciliation and lasting peace.
+
+...
+
+[Data](articles/0b29b9e0.json)
+
+---
 
 ### Govt. to import 2,000 double-cabs for rural State officials
 
@@ -1753,107 +1843,5 @@ ECONOMYNEXT – Sri Lanka’s Pick Met, a ride hailing company said it had tied 
 ◼️
 
 [Data](articles/2521c5dc.json)
-
----
-
-### இந்திய பிரதமர் மோடி - உக்ரேன் ஜனாதிபதி ஜெலன்ஸ்கி பேச்சுவார்த்தை
-
-*2025-08-31 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/223817) · `ta`
-
-இந்திய பிரதமர் நரேந்திர மோடி  மோடியிடன் உக்ரைன் அதிபர் ஜெலன்ஸ்கி பேச்சுவார்த்தை நடத்தியுள்ளார்.
-
-இந்திய பிரதமர் மோடி ஜப்பான், சீனாவுக்கு சுற்றுப்பயணம் மேற்கொண்டுள்ளார். கடந்த 29ம் திகதி ஜப்பான் சென்ற பிரதமர் மோடி அங்கு அந்நாட்டு பிரதமர் உள்பட முக்கிய தலைவர்களை சந்தித்தார்.
-
-இதையடுத்து, இந்தியா , ஜப்பான் இடையே பல்வேறு முக்கிய ஒப்பந்தங்கள் கையெழுத்தாகின. 2 நாட்கள் ஜப்பான் பயணத்தை முடித்துக்கொண்டு பிரதமர் மோடி நேற்று இரவு சீனா சென்றார்.
-
-அவர் சீனாவின் தியான்ஜின் நகரில் இன்றும், நாளையும் நடைபெறும் ஷாங்காய் ஒத்துழைப்பு மாநாட்டில் கலந்துகொள்கிறார். இந்த மாநாட்டின்போது சீன அதிபர் ஜி ஜின்பிங், ரஷ்ய ஜனாதிகதி புட்டின் உள்பட பல்வேறு நாடுகளின் தலைவர்களை இந்திய பிரதமர் மோடி சந்திக்கிறார். இந்த சந்திப்பின்போது பல்வேறு விவகாரங்கள் குறித்து ஆலோசனை நடைபெற உள்ளது.
-
-இந்நிலையில், இந்தி பிரதமர் மோடியிடன் உக்ரைன் அதிபர் ஜெலன்ஸ்கி பேச்சுவார்த்தை நடத்தியுள்ளார். சீனா சென்றுள்ள இந்திய பிரதமர் மோடியை தொலைபேசியில் தொடர்பு கொண்டு ஜெலன்ஸ்கி பேச்சுவார்த்தை நடத்தினார்.
-
-...
-
-[Data](articles/de30194e.json)
-
----
-
-### ஆணுறை அணியாமல்.. விடிய விடிய..
-
-*2025-08-31 11:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஆணுறை-அணியாமல்-விடிய-விடிய/54-363778) · `ta`
-
-சமீபத்தில் Metro Mail என்ற யூட்யூப் சேனலில் நடிகர் பயில்வான் ரங்கநாதன், மாதம்பட்டி ரங்கராஜ் என்பவரின் இரண்டாவது திருமணம் மற்றும் அதைச் சுற்றிய சர்ச்சைகள் குறித்து பேசியது பரபரப்பை ஏற்படுத்தியுள்ளது.
-
-ரங்கராஜின் முதல் மனைவி சுருதியை விவாகரத்து செய்யாமல், ஆடை வடிவமைப்பாளர் ஜாய் கிரிஸ்டலாவுடன் லிவிங் டு கெதர் வாழ்க்கை வாழ்ந்து, பின்னர் ஆறு மாத கர்ப்பிணியாக இருக்கும் ஜாயுடன் திருமணம் செய்து கொண்டதாக பயில்வான் குறிப்பிட்டார்.
-
-மாதம்பட்டி ரங்கராஜ், ஜாய் கிரிஸ்டலாவுடன் ஒரு கோயிலில் நடந்த திருமணம் சட்டப்படி செல்லுபடியாகாது என்று பயில்வான் தெரிவித்தார்.
-
-இந்து மத அறநிலையத் துறை விதிகளின்படி, திருமணத்திற்கு ஆதார் அட்டை, முறையான பதிவு, சான்றிதழ் உள்ளிட்டவை தேவைப்படுகின்றன. ஆனால், இந்த திருமணத்தில் இவை பின்பற்றப்படவில்லை என்று அவர் கூறினார்.
-
-முதல் மனைவி சுருதி: ரங்கராஜின் முதல் மனைவி சுருதி, திமுகவின் மகளிரணி நிர்வாகியாக உள்ளவர். அவருக்கு ரங்கராஜுடன் இரண்டு குழந்தைகள் உள்ளனர். சுருதி, தனது கணவர் இன்னும் தன்னை விவாகரத்து செய்யவில்லை என்றும், தனது குழந்தைகளுக்கு ரங்கராஜே தந்தை என்றும் கூறியுள்ளார்.
-
-...
-
-[Data](articles/3714104a.json)
-
----
-
-### අමෙරිකානු යුද නෞකාවක් වෙනිසියුලාව ආසන්නයේ ස්ථානගත කරයි
-
-*2025-08-31 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213985) · `si`
-
-දකුණු කැරිබියන් මුහුදේ අමෙරිකානු යුද නෞකාවක් ස්ථානගත කිරීමක් හේතුවෙන් වෙනිසියුලාව තුළ දේශපාලනිකව සහ ජාතික ආරක්ෂාව සම්බන්ධයෙන් මතභේදකාරී තත්ත්වයක් ඇතිවී තිබේ.
-
-ලතින් අමෙරිකානු කලාපය තුළ පවතින මත්ද්‍රව්‍ය ජාලය මැඩපැවැත්වීමට එම නෞකාව ස්ථානගත කළ බව අමෙරිකාව පවසයි.
-
-වෙනිසියුලාවට ඔබ්බෙන් වූ දකුණු කැරිබියන් මුහුදේ අමෙරිකානු යුද නෞකාවක් ස්ථානගත කෙරුණේ ලතින් අමෙරිකානු කලාපය තුළ පවතින මත්ද්‍රව්‍ය ජාලය මැඩපැවැත්වීමට බව පවසමින්ය.
-
-කෙසේවෙතත් අමෙරිකාවේ මෙම ක්‍රියාමාර්ගය වෙනිසියුලාව තුළ දේශපාලනිකව සහ ජාතික ආරක්ෂාව සම්බන්ධයෙන් මතභේදකාරී තත්ත්වයක් ඇති කර තිබේ.
-
-ඒ එම නෞකාව ස්ථානගත කිරීමේ ප්‍රධාන ඉලක්කය වන්නේ වත්මන් වෙනිසියුලානු රජය බවට සැක පල කරමින්ය.
-
-අමෙරිකාව පසුගිය අගෝස්තු මාසයේදී වෙනිසියුලානු ජනාධිපති නිකොලස් මදුරෝ අත්අඩංගුවට ගැනීමට තොරතුරක් දෙන අයෙකුට ලබා දෙන බවට මීට පෙර නිවේදනය කර තිබූ ත්‍යාග මුදල ඩොලර් මිලියන 50 දක්වා ඉහළ දැමුවේය.
-
-ඒ ඔහු මත්ද්‍රව්‍ය ජාවාරමට සහ අපරාධ කල්ලිවලට සම්බන්ධ බවට චෝදනා කරමින්ය.
-
-...
-
-[Data](articles/a40bbd50.json)
-
----
-
-### Man killed in shooting in Wennappuwa
-
-*2025-08-31 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112026/man-killed-in-shooting-in-wennappuwa) · `en`
-
-A shooting incident has been reported along the Lake road, adjacent to the Wennappuwa Police Station, at around 10:30 a.m., police stated.
-
-According to police, a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
-
-One of the motorcyclists was injured and managed to flee the scene, while the other sustained gunshot injuries and succumbed on the spot.
-
-The deceased had reportedly been returning from the Wennappuwa Police Station, as he was required to report to the station monthly in relation to an ongoing High Court case.
-
-Police state that the shooting was carried out using a revolver-type firearm.
-
-A court verdict regarding a case filed against the deceased individual is scheduled to be delivered on September 9, 2025, police stated.
-
-◼️
-
-[Data](articles/5c5d02ef.json)
-
----
-
-### හූති සටන්කරුවන්ගේ අගමැති ඊශ්‍රායෙල ප්‍රහාරයකින් මරුට
-
-*2025-08-31 11:00:53* · [`adalk`](https://www.ada.lk/international/හූති-සටන්කරුවන්ගේ-අගමැති-ඊශ්‍රායෙල-ප්‍රහාරයකින්-මරුට/3-418173) · `si`
-
-යේමනයේ හූති සටන්කරුවන්ගේ ස්වයං ප්‍රකාශිත අගමැති ලෙස සැලකෙන අහමඩ් ගලෙබ් නසාර් අල්-රහාවි මෙම සතිය මුලදී ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් මිය ගිය බව තහවුරු කර තිබේ.
-
-බ්‍රහස්පතින්දා ඊශ්‍රායල ආරක්ෂක හමුදා (IDF) යේමනයේ අගනුවර වන සානා ඉලක්ක කරගෙන එල්ල කළ ප්‍රහාවලින් හූති සටන්කරුවන්ගේ තවත් ජ්‍යෙෂ්ඨ නිලධාරීන් කිහිප දෙනෙකුම මිය ගොස් තිබේ.
-
-ඊශ්‍රායල ප්‍රහාරක ජෙට් යානා සානා ප්‍රදේශයේ රැස්වීමකට සිදු කළ පහරදීමකින් මෙම නායකයන් පිරිස ජීවිතක්ෂයට පත්ව තිබේ.
-
-◼️
-
-[Data](articles/4379ca29.json)
 
 ---

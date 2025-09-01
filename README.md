@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 15:50:58**
+As of **2025-09-01 16:08:27**
 
 ## Newspaper Stats
 
-*Scraped **73,511** Articles*
+*Scraped **73,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,084
 adaderanalk | 9,361
-tamilmirrorlk | 10,927
+tamilmirrorlk | 10,928
 virakesarilk | 12,037
-adaderanasinhalalk | 12,760
+adaderanasinhalalk | 12,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,511 articles have been extended.
+61,973 (84.3%) of 73,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### බොරැල්ලේ මාර්ගයක රථවාහන ගමනාගමනය සීමා කිරීමක්
+
+*2025-09-01 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214038) · `si`
+
+බොරැල්ල පොලිස් වසමේ දේවි බාලිකා වටරවුමේ සිට ඩී.එස්.සේනානායක හන්දිය දක්වා මාර්ගයේ කොළඹට ඇතුළු වීමේ මංතීරුවල අළුත්වැඩියා කටයුතු සඳහා අද (01) දින රාත්‍රී 07.00 සිට එම මංතීරුවල රථවාහන ගමනාගමනය සම්පූර්ණයෙන් සීමා කිරීමට නියමිතව ඇත.
+
+එම මංතීරු ඉරි තැලීමකට ලක්ව ගිලා බැසීම හේතුවෙන් මෙම ක්‍රියාමර්ග ගන්නා බව පොලිස් මාධ්‍ය කොට්ඨාසය දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/da098150.json)
+
+---
+
+### இந்திய மீனவர்கள் நால்வரின் விளக்கமறியல் நீடிப்பு
+
+*2025-09-01 15:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-நால்வரின்-விளக்கமறியல்-நீடிப்பு/175-363857) · `ta`
+
+எல்லை தாண்டி இலங்கையின் நெடுந்தீவு கடற்பரப்பிற்குள் உள்நுழைந்து மீன்பிடியில் ஈடுபட்ட மீனவர்கள் நால்வரின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+குறித்த மீனவர்களுக்கான விளக்கமறியல் ஏற்கனவே இரண்டு தடவைகள் நீடிக்கப்பட்ட நிலையில் ஊர்காவற்துறை நீதிமன்றத்தில் அவர்களுக்கு எதிரான வழக்கு, இன்று (01) மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/b1457ced.json)
+
+---
+
+### සැකකාරියක් අත්අඩංගුවට ගැනීමට මහජන සහාය පතයි
+
+*2025-09-01 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214037) · `si`
+
+අවශ්‍ය කරන සැකකාරියක් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය පතයි.
+
+පොලීසිය පවසන්නේ,  විදේශ රටක රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 30කට අධික මුදලක් වංචා කිරීම සම්බන්ධයෙන් කාන්තාවන් පස්දෙනෙකු විසින් රක්වාන පොලිස් ස්ථානයට සිදුකරන ලද පැමිණිලිවලට අනුව මෙම නිවේදනය නිකුත් කර ඇති බවය.
+
+මෙම සැකකාරිය මේ වන විට පදිංචි ලිපිනය හැර ගොස් සැඟව සිටින බවට තොරතුරු අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+සැකකාරියයගේ දළුගොඩ ආරච්චිලාගේ හර්ෂණි ප්‍රියන්තිකා වන අතර ඇය 40 හැවිරිදි කන්දගම, පොතුපිටිය පාර, රක්වාන ප්‍රදේශයේ පදිංචිකාරියකි.
+
+සැකකාරිය සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් පහත දුරකථන අංක වෙත දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/2e945a97.json)
+
+---
 
 ### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
 
@@ -1731,65 +1779,5 @@ The fault line extends westward to Herat, making the country particularly vulner
 ◼️
 
 [Data](articles/c33caebf.json)
-
----
-
-### Govt to launch “Seiri Week” today to dispose of unnecessary items accumulated in state institutions
-
-*2025-09-01 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112044/govt-to-launch-seiri-week-today-to-dispose-of-unnecessary-items-accumulated-in-state-institutions) · `en`
-
-The government has taken steps to implement a special program starting today (September 1) to dispose of unnecessary items that have accumulated in all state institutions.
-
-The program announced as “Seiri Week,” will be carried out over four days, from today to September 4.
-
-It has been launched with the aim of creating a clean, healthy, and safe environment that enables government officers to perform their duties more effectively and comfortably.
-
-Accordingly, the Secretary to the Ministry of Public Administration, Provincial Councils and Local Government has issued a special circular which has been sent to all Secretaries of Ministries, Chief Secretaries of Provinces, Heads of Departments, District Secretaries, Heads of Public Corporations and Statutory Boards.
-
-This is to be implemented in conjunction with the ‘Clean Sri Lanka’ national initiative and will involve identifying necessary and unnecessary items and discarding of all unnecessary items.
-
-...
-
-[Data](articles/574e58e7.json)
-
----
-
-### අධිවේගයේ බස් රථවල මගීන්ට ආසන පටි පැළඳීම අද සිට අනිවාර්යය වෙයි
-
-*2025-09-01 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214018) · `si`
-
-අධිවේගී මාර්ගයේ ගමන් කරනු ලබන සියලු වාහනවල මගීන්ට අද (01) සිට ආසන පටි පැළදීම අනිවාර්ය කර තිබේ.
-
-මාර්ග ආරක්ෂාව පිළිබද ජාතික සභාවේ සභාපති මංජුල කුලරත්න මහතා සදහන් කළේ අදාළ තීරණයට පටහැනිව කටයුතු කරන්නන්ට එරෙහිව නීතිමය පියවර ගැනීමට බලාපොරොත්තු වන බවය.
-
-කෙසේ වෙතත් ආසන පටි නොමැති ඇතැම් වාහන සඳහා ආසන පටි සවිකර ගැනීමට මාස තුනක සහන කාලයක් ලබාදෙන බවද මංජුල කුලරත්න මහතා වැඩිදුරටත් සදහන් කළේය.
-
-◼️
-
-[Data](articles/ef8c6c1e.json)
-
----
-
-### Two suspects arrested over Wennappuwa shooting incident
-
-*2025-09-01 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112043/two-suspects-arrested-over-wennappuwa-shooting-incident) · `en`
-
-Two more suspects have been arrested in connection with the shooting incident reported in Wennappuwa on Sunday (31), police said.
-
-The suspects, aged between 26 and 29, are scheduled to be produced before the Marawila Magistrate’s Court today (01).
-
-Meanwhile, another individual was arrested yesterday in connection with the same incident.
-
-According to police, a firearm and the car used to commit the crime have also been taken into custody.
-
-The shooting took place along Lake Road, adjacent to the Wennappuwa Police Station, at around 10.30 a.m. on Sunday.
-
-Police stated that a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
-
-One of the motorcyclists was injured and managed to flee the scene, while the other sustained gunshot injuries and succumbed on the spot.
-
-...
-
-[Data](articles/7ce3099d.json)
 
 ---

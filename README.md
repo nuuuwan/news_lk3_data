@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 13:08:10**
+As of **2025-09-01 13:19:52**
 
 ## Newspaper Stats
 
-*Scraped **73,475** Articles*
+*Scraped **73,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,078
-adaderanalk | 9,347
+adaderanalk | 9,354
 tamilmirrorlk | 10,922
-virakesarilk | 12,033
-adaderanasinhalalk | 12,754
+virakesarilk | 12,037
+adaderanasinhalalk | 12,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,475 articles have been extended.
+61,973 (84.3%) of 73,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ඉෂාරා සෙව්වන්දි රටින්  පලාගිය බවට අනාවරණයක්
+
+*2025-09-01 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214031) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායක ගණේමුල්ල සංජීව අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණයේ විත්ති කූඩුවක් තුළ ඝාතනය කිරීමට ආධාර අනුබල දුන්නේ යැයි නම කියැවුණු ඉෂාරා සෙව්වන්දි නම් තැනැත්තිය රටින් පලාගොස් සිටින බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කරුණු අනාවරණය වී තිබේ.
+
+ඒ පසුගියදා ඉන්දුනීසියාවේ ජකර්තා නුවරදී අත්අඩංගුවටගෙන පසුව මෙරටට රැගෙන ආ කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිසගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදිය.
+
+ශ්‍රී ලංකා පොලිසිය, ඉන්දුනීසියාවේ ජකර්තා නුවර පොලිසිය සහ ජාත්‍යන්තර පොලිසිය ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් පසුගියදා අත්අඩංගුවට ගැනුණු සංවිධානාත්මක අපරාධකරුවන් මෙන්ම, මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, බැකෝ සමන් ඇතුළු පිරිස මේ වනවිට පැය 72ක් රැඳවුම් නියෝග මත ප්‍රශ්න කරමින් සිටී.
+
+ඔවුන් අතරින් මන්දිනු පද්මසිරි පෙරේරා හෙවත් කෙහෙල්බද්දර පද්මේ, නිලංග සම්පත් සිල්වා හෙවත් පානදුර නිලංග සහ ශලින්ත මදුෂාන් පෙරේරා හෙවත් කමාන්ඩෝ සලින්ත යන අපරාධකරුවන් ප්‍රශ්න කිරීම් සඳහා මේ වනවිට රඳවා ඇත්තේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේය.
+
+...
+
+[Data](articles/92f9b9ff.json)
+
+---
+
+### ஆப்கானிஸ்தான் நிலநடுக்கத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 622 ஆக அதிகரிப்பு !
+
+*2025-09-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/223913) · `ta`
+
+கிழக்கு ஆப்கானிஸ்தானில் ஏற்பட்ட நிலநடுக்கத்தில் சிக்கி சுமார் 622 பேர் உயிரிழந்துள்ள நிலையில், ஆயிரத்து 500க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இந்நிலையில், மீட்பு பணிகள் தொடர்ந்தும் இடம்பெற்று வருவதாகவும் இடிபாடுகளில் இருந்து காயமடைந்தவர்களை உலங்கு வானூர்திகளின் உதவியுடன் பாதுகாப்பாக மீட்கும் நடவடிக்கைகள் இடம்பெற்றுவருவதாகவும் தெரிவிக்கப்படுகிறது.
+
+இந்த நிலநடுக்கத்தில் சுமார் ஆயிரத்து 500 க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக தாலிபான்களால் நடத்தப்படும் ஆப்கானிஸ்தான் உள்துறை அமைச்சு வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இதேவேளை, ஆந்த நாட்டு வைத்தியசாலைகளின் புள்ளிவிவரங்களின் படி 400 க்கும் மேற்பட்டோர் காயமடைந்துள்ளதாகவும் பலர் உயிரிழந்துள்ளதாகவும் அந்த நாட்டு அமைச்சக செய்தியாளர் வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இந்நிலையில், நிலநடுக்கத்தில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை மேலும் அதிகரிக்கக்கூடும் என அச்சம் வெளியிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/59735c54.json)
+
+---
+
+### தனக்கு ஆதரவளித்த அனைவருக்கும் நன்றி - ரணில்
+
+*2025-09-01 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/223910) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தான் அண்மையில் கைது செய்யப்பட்ட போது தனக்கு ஆதரவு அளித்த ஒன்லைன் ஊடக சேனல்கள் உட்பட அனைவருக்கும் நன்றி தெரிவித்து விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+
+“நான் கைது செய்யப்பட்ட நேரத்தில் எனக்கு ஆதரவளித்த ஒன்லைன் ஊடக சேனல்கள் உட்பட அனைவருக்கும் நன்றி கூறுகிறேன். வேறொரு நாளில் அனைவரையும் நேரில் சந்திப்பேன் என நம்புகிறேன்,” என விக்கிரமசிங்க தனது விசேட அறிக்கையில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/4767266c.json)
+
+---
 
 ### செம்மணிக்கு நீதி விசாரணை : யாழில் ஜனாதிபதி
 
@@ -77,6 +129,62 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/214bcb45.json)
+
+---
+
+### Child dies falling into irrigation well in Polpithigama
+
+*2025-09-01 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112056/child-dies-falling-into-irrigation-well-in-polpithigama) · `en`
+
+A six-year-old boy has died after falling into an irrigation well in Polpithigama, police stated.
+
+It is reported that the child passed away while being admitted to the Polpithigama Hospital for treatment.
+
+According to preliminary investigations, it has been revealed that the child had been playing alone when he fell into an unprotected well located behind his house.
+
+The body has been placed at the morgue of the Polpithigama Hospital.
+
+◼️
+
+[Data](articles/5ac3229c.json)
+
+---
+
+### China’s Xi, Russia’s Putin share vision for new global order at security forum
+
+*2025-09-01 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112055/chinas-xi-russias-putin-share-vision-for-new-global-order-at-security-forum) · `en`
+
+Chinese President Xi Jinping urged leaders at a regional summit to leverage their “mega-scale market” on Monday, while Russian President Vladimir Putin showed support for Xi’s ambition for a new global security and economic order that poses a challenge to the United States.
+
+The Shanghai Cooperation Organisation (SCO) has set a model for a new type of international relations, Xi said in opening remarks addressing more than 20 world leaders at a two-day summit held in northern China’s port city Tianjin.
+
+“We should advocate for equal and orderly multipolarisation of the world, inclusive economic globalisation and promote the construction of a more just and equitable global governance system,” he said.
+
+“We must take advantage of the mega-scale market... to improve the level of trade and investment facilitation,” said Xi, urging the bloc to boost cooperation in fields including energy, infrastructure, science and technology, and artificial intelligence.
+
+...
+
+[Data](articles/5040a520.json)
+
+---
+
+### ஜனாதிபதி இன்று யாழ்ப்பாணத்தில்
+
+*2025-09-01 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/223905) · `ta`
+
+யாழ்ப்பாணத்தில் இன்று திங்கட்கிழமை (01) ஜனாதிபதி அநுரகுமார திசாநாயக்க, பல புதிய அபிவிருத்தி வேலைத்திட்டங்களை ஆரம்பித்து வைக்கும் நிகழ்வுகளிலும் மற்றும் திறந்து வைக்கும் நிகழ்வுகளிலும் பங்கேற்கிறார்.
+
+யாழ்ப்பாணம் மயிலிட்டி மீன்பிடித் துறைமுகத்தை அபிவிருத்தி செய்யும் வேலைத் திட்டத்தின் மூன்றாம் கட்டம் இன்றைய தினம் முற்பகல் ஜனாதிபதி தலைமையில் ஆரம்பித்து வைக்கப்படுகிறது.
+
+இதன் கீழ், வடக்கு மாகாணத்தில் உள்ள மீனவ சமூகத்தினருக்கும், கிழக்கு மற்றும் தெற்கு மாகாணங்களிலிருந்து வரும் மீன்பிடி படகுகளுக்கும் நீர், மின்சாரம், எரிபொருள் ஆகிய அடிப்படை மற்றும் அத்தியாவசிய வசதிகள், குளிர்பதன வசதிகள்,வலை தயார்படுத்தல் மைய வசதிகள், ஏலவிற்பனைக் கூட வசதிகள் மற்றும் வானொலி தொடர்பு மைய வசதிகளையும்  வழங்க திட்டமிடப்பட்டுள்ளது.
+
+மீன்பிடித் துறைமுகப் பணிகள் ஆரம்பிக்கப்பட்டதன் பின்னர் அங்கு நடைபெறும் மக்கள் சந்திப்பிலும் ஜனாதிபதி கலந்து கொள்ளவுள்ளார்.
+
+இதேவேளை, குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தின் யாழ்ப்பாண பிராந்திய அலுவலகம் இன்றைய தினம்  ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் திறந்து வைக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/3b6504cc.json)
 
 ---
 
@@ -236,6 +344,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Committee to be named to provide proposals to improve standard of food offered in Parliament
+
+*2025-09-01 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112053/committee-to-be-named-to-provide-proposals-to-improve-standard-of-food-offered-in-parliament) · `en`
+
+A decision has been taken to appoint a committee to provide recommendations to enhance the safety of food and beverages in Parliament.
+
+The decision was taken by the House Committee which convened under the patronage of Speaker Dr. Jagath Wickramaratne.
+
+At the request of the Speaker, a team of Public Health Inspectors led by the Medical Officer of Health, Battaramulla, conducted inspections last April of the kitchens and other locations within the Parliamentary premises related to the preparation of food and beverages.
+
+Accordingly, the Public Health Inspectors submitted to the House Committee a detailed report inclusive of their observations, the Department of Communication of Parliament said.
+
+...
+
+[Data](articles/23d5374d.json)
+
+---
+
 ### ලසිත් මාලිංගගේ අත්දැකීම් අපේ ක්‍රීඩකයන්ට ලබා දීම ගැන ස්තූතිවන්ත වෙනවා
 
 *2025-09-01 11:26:02* · [`adalk`](https://www.ada.lk/sports/ලසිත්-මාලිංගගේ-අත්දැකීම්-අපේ-ක්‍රීඩකයන්ට-ලබා-දීම-ගැන-ස්තූතිවන්ත-වෙනවා/9-418193) · `si`
@@ -322,6 +448,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Two suspects arrested with ‘hashish’ worth Rs. 10million
+
+*2025-09-01 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112052/two-suspects-arrested-with-hashish-worth-rs-10million) · `en`
+
+Two individuals have been arrested with a large consignment of ‘hashish’ worth approximately Rs. 10 million, the Mount Lavinia Divisional Crime Detective Bureau said.
+
+Police have also seized 1.05 kilograms of hashish along with Rs. 10 million in cash, suspected to have been earned through drug trafficking, from the possession of the two suspects.
+
+Based on a tip-off received by the OIC of the Mount Lavinia Divisional Crime Detective Bureau, one suspect was arrested for smuggling hashish under the guise of operating an apparel factory.
+
+Preliminary investigations revealed that the operation was being conducted from a house rented for Rs. 30,000 per month in Ratmalana.
+
+During a search of the house, police arrested another suspect and discovered a one-kilogram packet of hashish concealed in a cupboard.
+
+◼️
+
+[Data](articles/7b8378b2.json)
+
+---
+
+### ஹமாஸ் ஆயுதப் பிரிவின் செய்தித் தொடர்பாளர் இஸ்ரேலின் வான் தாக்குதலில் உயிரிழப்பு !
+
+*2025-09-01 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/223900) · `ta`
+
+காசாவில் மேற்கொள்ளப்பட்ட வான்வழித் தாக்குதலில், ஹமாஸ் அமைப்பின் ஆயுதப் பிரிவின் செய்தித் தொடர்பாளர் அபு ஒபேய்தா கொல்லப்பட்டதாக இஸ்ரேல் அறிவித்துள்ளது.
+
+இஸ்ரேலின் பாதுகாப்புத் துறை அமைச்சர் இஸ்ரேல் காட்ஸ், "எந்தவித பிழையும் இன்றி கச்சிதமாகத் தாக்குதலை நடத்திய இஸ்ரேல் பாதுகாப்புப் படைக்கும் (IDF) மற்றும் ஷின் பெட் (Shin Bet) பாதுகாப்பு கட்டமைப்புக்கும் " வாழ்த்து தெரிவித்து எக்ஸ் (X) சமூக வலைத்தளத்தில் பதிவிட்டுள்ளார்.
+
+எனினும், ஹமாஸ் அமைப்பு அபு ஒபேய்தாவின் மரணத்தை இதுவரை உறுதிப்படுத்தவில்லை. காசா நகரின் அல்-ரிமால் பகுதியில் உள்ள ஒரு குடியிருப்பு கட்டிடத்தின் மீது இஸ்ரேல் நடத்திய வான்வழித் தாக்குதலில், பொதுமக்கள் பலர் கொல்லப்பட்டதாகவும் காயமடைந்ததாகவும் பாலஸ்தீன ஆயுதக் குழு முன்னர் தெரிவித்திருந்தது. இந்தத் தாக்குதலில் குழந்தைகள் உட்பட குறைந்தது ஏழு பேர் கொல்லப்பட்டதாகவும், 20 பேர் காயமடைந்ததாகவும் அந்நாட்டு செய்திகள் தெரிவித்துள்ளன.
+
+...
+
+[Data](articles/5647838c.json)
+
+---
+
 ### බස් ගාස්තුවල වෙනසක් නෑ
 
 *2025-09-01 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214026) · `si`
@@ -331,6 +493,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a6b26b0f.json)
+
+---
+
+### President Anura Kumara in Jaffna to inaugurate several development projects
+
+*2025-09-01 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112051/president-anura-kumara-in-jaffna-to-inaugurate-several-development-projects) · `en`
+
+President Anura Kumara Dissanayake is scheduled to participate today (01) in several events to inaugurate and commence work on new development projects in Jaffna.
+
+The third phase of the project to develop the Myliddy Fisheries Harbour in Jaffna will be inaugurated this morning (01) under the patronage of the President, the President’s Media Division said.
+
+Under this phase, essential facilities such as water, electricity, fuel, cold storage, net-mending centers, auction halls, and radio communication centers are planned to be provided for the fishing community in the Northern Province, as well as for fishing vessels arriving from the Eastern and Southern Provinces.
+
+Following the inauguration of the fisheries harbour project, the President is also scheduled to attend a public meeting at the same location.
+
+Meanwhile, the Jaffna Regional Office of the Department of Immigration and Emigration is also set to be officially opened today under the patronage of President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/b9eca2cd.json)
 
 ---
 
@@ -424,6 +606,24 @@ President Dissanayake’s ruling National People’s Power (NPP) in the run-up t
 
 ---
 
+### Death toll in Afghanistan earthquake rises to over 600
+
+*2025-09-01 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112050/death-toll-in-afghanistan-earthquake-rises-to-over-600) · `en`
+
+UPDATE: The death toll in the Afghanistan earthquake has increased to over 600 while more than 1500 have sustained injuries, according to Taliban officials.
+
+At least 250 people have been killed and over 500 have been injured in Afghanistan after a 6.0-magnitude earthquake hit the country, Taliban officials said Monday.At least 250 people have been killed and over 500 have been injured in Afghanistan after a 6.0-magnitude earthquake hit the country, Taliban officials said Monday.
+
+The earthquake struck 17 miles from the city of Jalalabad near the border with Pakistan around midnight local time (3:30 p.m. ET Sunday), according to the U.S. Geological Survey.
+
+Because the earthquake hit a remote mountainous area, “it will take time to get the exact information about human losses and damage to the infrastructure,” said Sharafat Zaman, a spokesperson for the Afghan Public Health Ministry.
+
+...
+
+[Data](articles/73a858c4.json)
+
+---
+
 ### ’’உன் அம்மா ஒரு பிசாசு’’ AI சொல்வதை கேட்டு.. தாயை கொன்ற நபர்
 
 *2025-09-01 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உன்-அம்மா-ஒரு-பிசாசு-AI-சொல்வதை-கேட்டு-தாயை-கொன்ற-நபர்/175-363828) · `ta`
@@ -437,6 +637,26 @@ President Dissanayake’s ruling National People’s Power (NPP) in the run-up t
 ...
 
 [Data](articles/47925f33.json)
+
+---
+
+### No bus fare revision despite reduction in fuel prices: NTC
+
+*2025-09-01 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112049/no-bus-fare-revision-despite-reduction-in-fuel-prices-ntc) · `en`
+
+The National Transport Commission (NTC) has confirmed that bus fares will not be revised, despite the reduction in fuel prices announced yesterday (31).
+
+The Ceylon Petroleum Corporation (Ceypetco) announced that the new fuel prices will take effect from midnight yesterday (31).
+
+According to the announcement, the price of Auto Diesel will be reduced by Rs. 6 to Rs. 283 per litre, while Super Diesel will be reduced by Rs. 12 to Rs. 313 per litre.
+
+Petrol 92 Octane will also see a reduction of Rs. 6, bringing the price to Rs. 299 per litre.
+
+Meanwhile, the prices of Petrol 95 Octane and Kerosene will remain unchanged.
+
+◼️
+
+[Data](articles/70e0f549.json)
 
 ---
 
@@ -1585,223 +1805,5 @@ The overall objective of the present reform program has been very wide. It aims 
 ...
 
 [Data](articles/06f4b7e4.json)
-
----
-
-### பாதாள உலக கோஷ்டியை விசாரிக்க 72 மணி நேர தடுப்புக்காவல் உத்தரவு
-
-*2025-09-01 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/223876) · `ta`
-
-ஒழுங்கமைக்கப்பட்ட பல்வேறு குற்றச்சாட்டுக்களுடன் தொடர்புடையதாக சந்தேகிக்கப்படும் கெஹல்பத்தரே பத்மே  உள்ளிட்ட ஐந்து பேர் பயங்கரவாத தடைச்சட்டத்தின் கீழ் 72 மணிநேர தடுப்புக்காவலில் வைக்கப்பட்டு விசாரணைக்குட்படுத்தப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் அறிவித்துள்ளது.
-
-இந்தோனேசியாவின் ஜகார்த்தாவில் கைது செய்யப்பட்டு இலங்கைக்கு அழைத்து வரப்பட்ட  ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளும் இரண்டு இடங்களில் தடுத்து வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வருவதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
-
-குற்றப் புலனாய்வுத் திணைக்களத்திலும் மேற்கு மாகாண வடக்கு குற்றப் பிரிவிலும் விசாரணைக்காக தடுத்து வைக்கப்பட்டுள்ளதாகவும்,பயங்கரவாத தடைச் சட்டத்தின் கீழ் 72 மணி நேர தடுப்பு காவல் உத்தரவின் கீழ் அவர்களிடம் விசாரணை நடத்தப்பட்டு வருவதாக பொலிஸ் தலைமையகம் குறிப்பிட்டுள்ளது.
-
-...
-
-[Data](articles/98159026.json)
-
----
-
-### ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு விழா கொழும்பில் நடைபெறவுள்ளது
-
-*2025-09-01 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/223882) · `ta`
-
-ஐக்கிய தேசியக் கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழா, எதிர்வரும் 6 ஆம் திகதி கொழும்பில் உள்ள இலங்கை கண்காட்சி மற்றும் மாநாட்டு மண்டபத்தில் நடத்துவதற்கு  தீர்மானிக்கப்பட்டுள்ளது. அத்துடன் நிகழ்வுக்கு அனைத்து அரசியல் கட்சிகளின் தலைவர்களுக்கும்  அழைப்பு விடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
-
-கட்சியின் ஆண்டு விழா தொடர்பில் ஞாயிற்றுக்கிழமை (31) இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
-
-குறிப்பாக அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிப்பது என்ற கருப்பொருளின் கீழ் அண்மைய நாட்களில் அரசாங்கத்துக்கு எதிராக அனைத்து அரசியல் கட்சிகளின் தலைவர்களும் அணிதிரண்டிருந்தனர். அவர்கள் அனைவருக்கும் கட்சியின் ஆண்டு விழாவில் கலந்துகொள்ள அழைப்பு விடுக்கவும் இதன்போது தீர்மானிக்கப்பட்டுள்ளது.
-
-ஆண்டு விழாவில் பல அரசியல் கட்சிகளைச்சேர்ந்த தலைவர்கள் கலந்துகொள்ள இருப்பதால், இந்தமுறை கட்சியின்  79ஆவது ஆண்டு விழாவை கட்சி தலைமையகமான சிறிகொத்தவில் நடத்தாமல் பொதுவான இடத்தில் நடத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/af470839.json)
-
----
-
-### ஜெனீவா விவகாரம் குறித்து புதனன்று இராஜதந்திரிகளை சந்திக்கும் வெளிவிவகார அமைச்சர்
-
-*2025-09-01 03:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/223881) · `ta`
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60ஆவது மீளாய்வுக் கூட்டத்தொடர் எதிர்வரும் 8ஆம் திகதி ஆரம்பமாகிறது. இக்கூட்டத் தொடரில் இலங்கை சார்பில் பங்கேற்கவுள்ள வெளிவிவகார அமைச்சர் விஜித ஹேரத் ஜெனீவா செல்ல முன்னர் உள்நாட்டு மனித உரிமை செயற்பாட்டாளர்கள், சிவில் சமூக அமைப்புக்கள் மற்றும் இராஜதந்திரிகளை சந்திக்கவுள்ளார். வரும் புதன் மற்றும் வியாழக்கிழமைகளில் இந்த சந்திப்புக்கள் இடம்பெறவுள்ளன.
-
-புதன்கிழமை பன்னாட்டு இராஜதந்திரிகளுடனான சந்திப்பில் இலங்கையில் மனித உரிமைகள் தொடர்பான முன்னெடுப்புக்களில் ஏற்பட்டுள்ள முன்னேற்றம் மற்றும் எதிர்கால திட்டமிடல்கள் தொடர்பில் அமைச்சர் விஜித ஹேரத் தெளிவுபடுத்தவுள்ளார். ஐ.நா. மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் ரூர்க்கினால் சமர்ப்பிக்கப்படவுள்ள இலங்கை குறித்த புதிய அறிக்கை குறித்தும் இதன் போது விசேட அவதானம் செலுத்தப்படவுள்ளது.
-
-...
-
-[Data](articles/d0086c59.json)
-
----
-
-### இலங்கையின் ஊழல் எதிர்ப்புத் திட்டத்திற்கு தொடர்ந்து ஆதரவளிப்போம் - பிரான்சுவா வெலரியன்
-
-*2025-09-01 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/223880) · `ta`
-
-இலஞ்சம் மற்றும் ஊழலைத் தடுக்க அரச நிறுவனங்களுக்குள் உள் விவகாரப் பிரிவுகளை நிறுவுவதையும்,  ஊழல் எதிர்ப்பு இலக்குகளை முன்னேற்றுவதில் அரசாங்கமும் சிவில் சமூகமும் இணைந்து செயல்படுவதன் முக்கியத்துவத்தை வலியுறுத்திய டிரான்ஸ்பேரன்சி இன்டர்நெஷனல் தலைவர் பிரான்சுவா வெலரியன் இலங்கையின் ஊழல் எதிர்ப்புத் திட்டத்திற்கு தொடர்ந்து ஆதரவளிக்க டிரான்ஸ்பேரன்சி இன்டர்நெஷனல் உறுதிபூண்டுள்ளது என்றும் உறுதியளித்துள்ளார்.
-
-நாட்டுக்கு விஜயம் மேற்கொண்டுள்ள டிரான்ஸ்பேரன்சி இன்டர்நெஷனல் தலைவர் பிரான்சுவா வெலரியன் மற்றும் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க ஆகியோருக்கு இடையிலான சந்திப்பு ஜனாதிபதி அலுவலகத்தில் சனிக்கிழமை (30) பிற்பகல் நடைபெற்றது.
-
-அரச மற்றும் தனியார் துறைகளில் ஊழலை எதிர்த்துப் போராடுவதற்கான அரசாங்கத்தின் தொடர்ச்சியான முயற்சிகளை பிரான்சுவா வெலரியனுக்கு விளக்கிய ஜனாதிபதியின் செயலாளர், ஊழல் எதிர்ப்பு இயந்திரத்தை வலுப்படுத்த அரசாங்கம் பல புதிய திட்டங்களைத் தொடங்கியுள்ளது என்றும் அவை ஏற்கனவே குறிப்பிடத்தக்க முன்னேற்றத்தைக் காட்டியுள்ளன என்றும் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/daea363a.json)
-
----
-
-### ‘மரியன்னைக்கு மகுடம்’ கவிதை நூல் சூரிச் ஆலயத்தில் வெளியீடு
-
-*2025-09-01 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/223879) · `ta`
-
-ஆனையூரான் ஜெராட் அவர்களினால் மரியன்னைக்கு மகுடம்  என்னும் அன்னை மரியாள் பற்றி கவிதைகள் அடங்கிய நூல் மன்னார் மறைமாவட்ட ஆயர் பேரருள்தந்தை அந்தோனிப்பிள்ளை ஞானப்பிரகாசம் அவர்களினால் 31ஆம் திகதி ஞாயிற்றுக்கிழமை சூரிச் herz jesu ஆலயத்தில் வெளியீடு செய்து வைக்கப்பட்டது.
-
-இன்று இவ் ஆலயத்தில் ஞாயிறு காலை  மன்னார் ஆயர் தலைமையில்  நடைபெற்ற திருப்பலியில்  திருப்பீடத்தில் மரியன்னைக்கு மகுடம்  நூல்  வைக்கப்பட்டு  திருப்பலியைத் தொடர்ந்து சுவிஸ் கத்தோலிக்க ஆன்மீக பணியகத்தின் இயக்குனர் ஆ. யூட்ஸ் முரளிதரன் அறிமுக உரையைத்தொடர்ந்து, நூல் ஆய்வுரையை எழுத்தாளர் செல்வம் அவர்கள்  சிறப்புற நிகழ்த்தினார்கள்.
-
-தொடர்ந்து மரியன்னைக்கு மகுடம் நூல் ஆயர் அவர்களினால் வெளியீடு   செய்யப்பட்டதுடன், ஆயர் அவர்கள்  நூல் பற்றி சிறப்புரை நிகழ்தினார் . அதனைத் தொடர்ந்து நூல் ஆசிரியர் ஆனையூரானின் ஜெராட் அவர்களின் நன்றி உரையுடன் நிகழ்வு நிறைவுபெற்றது
-
-நிகழ்வை தொடர்ந்து சூரிச் பணியகத்தின் மக்கள்  உட்பட பல கத்தோலிக்க மக்கள் அன்னையின் கவிதை நூல் பெற்றுக்கொண்டார்கள்.
-
-◼️
-
-[Data](articles/7d5b60eb.json)
-
----
-
-### Rule of law in taxation: Rights before revenue – Part 3
-
-*2025-09-01 02:56:14* · [`dailyftlk`](https://www.ft.lk/columns/Rule-of-law-in-taxation-Rights-before-revenue-Part-3/4-781016) · `en`
-
-Every taxpayer has the right to be treated with respect in all interactions with tax officials
-
-If taxpayer rights are to be meaningful, they must be recognised not as privileges granted at the mercy of officials, but as enforceable guarantees safeguarded by the law. This requires not only enlightened leadership at the top but also vigilance by civil society, tax professionals, and taxpayers themselves. Silence and indifference in the face of corruption and abuse only deepen the culture of impunity
-
-Parts 1 and 2 of this article highlighted two fundamental rights of taxpayers: the Right to Know the Legal Basis for Taxation, and the Right to Know the Reasons for an Amended or Additional Assessment.
-
-...
-
-[Data](articles/820ad2f7.json)
-
----
-
-### 2025-08-31 (Sunday)
-
-### Sri Lanka vehicle import bill $506mn to July 2025
-
-*2025-08-31 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-import-bill-506mn-to-july-2025-investment-goods-surge-to-2-2bn-238877/) · `en`
-
-ECONOMYNEXT – Sri Lanka has spent 506.1 million dollars on personal vehicle imports up to July 2025, up from 34.8 million dollars last year, while another 162.2 million dollars were spent on commercial vehicles, official data showed.
-
-Total current dollar inflows to the country in the month of July alone were 2.6 billion US dollar.
-
-RELATED : Sri Lanka foreign exchange earnings $2.6bn in July, exceeds imports by $729mn
-
-Personal vehicles are classed as consumer goods, though they are usually bought with credit, which are then repaid in about 4 years.
-
-Credit allows a person or company to acquire good outside of their current earnings.
-
-Other true consumption goods are usually bought with ready cash or in some cases using past savings, which may drive up interest rates as banks try to replenish their rupee reserves.
-
-Total investment goods, which are strongly linked to credit, surged 22.5 percent to 2,217 million dollars up to July.
-
-...
-
-[Data](articles/0151a0dd.json)
-
----
-
-### Sri Lanka vehicle import bill $506mn to July 2025
-
-*2025-08-31 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-import-bill-506mn-to-july-2025-238877/) · `en`
-
-ECONOMYNEXT – Sri Lanka has spent 506.1 million dollars on personal vehicle imports up to July 2025, up from 34.8 million dollars last year, while another 162.2 million dollars were spent on commercial vehicles, official data showed.
-
-Total current dollar inflows to the country in the month of July alone were 2.6 billion US dollar.
-
-RELATED : Sri Lanka foreign exchange earnings $2.6bn in July, exceeds imports by $729mn
-
-Personal vehicles are classed as consumer goods, though they are usually bought with credit, which are then repaid in about 4 years.
-
-Credit allows a person or company to acquire good outside of their current earnings.
-
-Other true consumption goods are usually bought with ready cash or in some cases using past savings, which may drive up interest rates as banks try to replenish their rupee reserves.
-
-Total investment goods, which are strongly linked to credit, surged 22.5 percent to 2,217 million dollars up to July.
-
-...
-
-[Data](articles/1464ca4d.json)
-
----
-
-### திறந்த அரங்கில் ஹைக்கூ அமர்வு
-
-*2025-08-31 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/223878) · `ta`
-
-புதிய அலை கலை வட்டத்தின் இளைஞர் அணி  மாதந்தோறும்  நடத்தும்  ஹைக்கூ  கவியரங்கம் ஞாயிற்றுக்கிழமை (31) கொழும்பு-13 புதுச்செட்டித்தெரு வில் அமைந்துள்ள எக்ஸலனஸ் சர்வதேச பாடசாலையில் வளாகத்தில் நடைபெற்றது.
-
-இக் கவியரங்கிற்கு புதிய அலை கலை வட்டத்தின் மகளிர் அணியின் செயலாளர் பிரியதர்ஷினி விக்கினேஸ்வரன்  தலைமையை ஏற்றார்.
-
-◼️
-
-[Data](articles/5f60d340.json)
-
----
-
-### Sri Lanka foreign reserves not growing, CB swaps on the rise: Kabir
-
-*2025-08-31 23:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-not-growing-cb-swaps-on-the-rise-kabir-238857/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange reserves have not grown for several months and have shown a worrying tendency to fall, opposition legislator Kabir Hashim has told parliament.
-
-“Sri Lanka’s foreign reserves have now fallen from the levels seen in October and November 2024,” Hashim said.
-
-“Our foreign reserves are not growing. It is a problem. President has said from time to time that we are saying things to frighten people. But this is the real situation.”
-
-Sri Lanka’s central bank has increased dollar swap transactions with banks, he said.
-
-In March 2025, gross official foreign reserves were 6,531 million dollars, but four months later in July 2025, reserves were down to 6,044 million dollars.
-
-Net reserves (after swaps) were down from 2,791 million dollars to 2,210 dollars, he said.
-
-The Central bank’s net foreign assets have also fallen in June, he said.
-
-“I am asking whether ‘Is this not a red light? I appreciate the work the central bank has done up to now.
-
-...
-
-[Data](articles/8c29066d.json)
-
----
-
-### Amana Takaful Insurance shines with four Gold wins at SLIBFI Awards 2025
-
-*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/amana-takaful-insurance-shines-with-four-gold-wins-at-slibfi-awards-2025/) · `en`
-
-Amana Takaful Insurance proudly marked a remarkable milestone at the 14th Sri Lanka Islamic Banking and Finance Industry (SLIBFI) Awards 2025 held at Shangri-La Hotel, Colombo.
-
-Organized annually by UTO EduConsult and adjudicated by KPMG, the prestigious event celebrates excellence within Sri Lanka’s Islamic finance sector, bringing together leading institutions and professionals dedicated to inclusive financial services.
-
-The company was honoured with the Gold Award for Takaful Entity of the Year, recognizing its overall performance and contribution to the Takaful sector. Amana Takaful also secured the Gold Award for Islamic Finance Entity of the Year, affirming its leadership and innovation in Islamic financial services across Sri Lanka.The Gold Award for Marketing Campaign of the Year was awarded to Amana Takaful for its Telemedicine campaign, launched earlier this year.
-
-Blood donation campaign supported by Nithyakalyani Jewellery collects blood from over 100 residents
-
-...
-
-[Data](articles/0a92d9e4.json)
-
----
-
-### Seylan Cards with Cinnamon Hotels & Resorts to host ‘The Gathering of Giants’
-
-*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
-
-Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
-
-...
-
-[Data](articles/4515484b.json)
 
 ---

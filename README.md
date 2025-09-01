@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 12:09:47**
+As of **2025-09-01 12:28:54**
 
 ## Newspaper Stats
 
-*Scraped **73,468** Articles*
+*Scraped **73,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 4,477
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,076
+adalk | 7,077
 adaderanalk | 9,347
-tamilmirrorlk | 10,920
+tamilmirrorlk | 10,921
 virakesarilk | 12,033
-adaderanasinhalalk | 12,751
+adaderanasinhalalk | 12,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,468 articles have been extended.
+61,973 (84.3%) of 73,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### රෝහලින් පිටව ගිය හිටපු ජනපති රනිල් පළමු ප්‍රකාශයක්
+
+*2025-09-01 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214029) · `si`
+
+අත්අඩංගුවට ගෙන බන්ධනාගාරගත කළ අවස්ථාවේ සිට රොහල්ගතවූ අවස්ථාව දක්වා තමා වෙනුවෙන් පෙනී සිටි සියලු පාර්ශ්ව වෙත හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ස්තූතිය පුද කර තිබේ.
+
+අද (01) මාධ්‍ය වෙත විශේෂ ප්‍රකාශයක් නිකුත් කරමින් ඒ මහතා පැවසුවේ අත්අඩංගුවට පත්වූ මොහොතේ සිට ඒ වෙනුවෙන් සමාජ මාධ්‍ය ඔස්සේ පෙනී සිටි සියලු පාර්ශව වෙත සිය ස්තූතිය පුදකර සිටින බවය.
+
+එමෙන්ම පසු අවස්ථාවකදී සියලු පාර්ශව හමුවීමට තමා අදහස් කරන බවද හිටපු ජනාධිපතිවරයා නිකුත් ප්‍රකාශයේ සඳහන්ව තිබේ.
+
+◼️
+
+[Data](articles/214bcb45.json)
+
+---
+
+### யாழில் சர்வதேச கிரிக்கெட் மைதானம்: ஜனாதிபதி ஆரம்பித்து வைப்பார்
+
+*2025-09-01 12:08:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-சர்வதேச-கிரிக்கெட்-மைதானம்-ஜனாதிபதி-ஆரம்பித்து-வைப்பார்/175-363841) · `ta`
+
+யாழ்ப்பாணம் புதிய சர்வதேச கிரிக்கெட் மைதானத்திற்கான  கட்டுமானப் பணிகளும் ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் தலைமையில் இன்று (01)  பிற்பகல் ஆரம்பித்து வைக்கப்படவுள்ளதோடு, அதன் பின்னர் அந்த இடத்தில் நடைபெறும் மக்கள் சந்திப்பிலும் ஜனாதிபதி கலந்து கொள்வார்.
+
+◼️
+
+[Data](articles/0f10c3b7.json)
+
+---
+
+### ඇෆ්ගනිස්ථානයේ භූ කම්පනයෙන් 600කට අධික පිරිසක් ජීවිතක්ෂයට
+
+*2025-09-01 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214028) · `si`
+
+ඇෆ්ගනිස්ථානයේ ඇති වූ ප්‍රබල භූ කම්පනයෙන් පුද්ගලයින් 600කට අධික පිරිසක් ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+රික්ටර් මාපකයේ 6.0ක ප්‍රබලත්වයෙන් කිලෝමීටර් 8ක ගැඹුරකින් මෙම භූ කම්පන තත්ත්වය හටගෙන තිබුණි.
+
+මෙම භූ කම්පනයෙන් කාබුල් සිට පාකිස්තාන අගනුවර වන ඉස්ලාමාබාද් දක්වා ගොඩනැගිලි රැසක් සෙලවී ඇති බවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+පළමු භූ කම්පන තත්ත්වය සිදුව පසු කම්පන තත්ත්ව 03ක් සිදුව ඇති අතර ඒවා පිළිවෙලින් රික්ටර් මාපක 4.5 සහ 5.2 දක්වා පරාසයක පැවතුණු බවද වාර්තා වේ.
+
+◼️
+
+[Data](articles/a37a45b4.json)
+
+---
 
 ### பேருந்து கட்டணங்களில் மாற்றம் இல்லை
 
@@ -67,6 +113,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6f4d249b.json)
+
+---
+
+### ලෝක බලවතුන් තිදෙනෙක් හදීසියේම හමුවක
+
+*2025-09-01 11:51:20* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බලවතුන්-තිදෙනෙක්-හදීසියේම-හමුවක/11-418194) · `si`
+
+රුසියානු ජනාධිපති ව්ලැදිමියර් පූටින්, චීන ජනාධිපති ෂී ජින්පින් සහ ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි හමුවක් පවත්වා තිබේ.
+
+ෂැංහයි සහයෝගිතා සංවිධානයේ සමුළුවට එක්වෙමින් මොවුන් සුහද කතාබහක නිරතව තිබේ.
+
+◼️
+
+[Data](articles/208817f9.json)
 
 ---
 
@@ -1739,81 +1799,5 @@ DMS led the migration process, leveraging its expertise in cloud readiness and c
 ...
 
 [Data](articles/81726af6.json)
-
----
-
-### Blood donation campaign supported by Nithyakalyani Jewellery collects blood from over 100 residents
-
-*2025-08-31 22:46:00* · [`islandlk`](http://island.lk/blood-donation-campaign-supported-by-nithyakalyani-jewellery-collects-blood-from-over-100-residents/) · `en`
-
-A recent blood donation drive, hosted and organized by Nithyakalyani Jewellery, successfully collected blood from over 100 donors.
-
-The event was held in collaboration with the Rotary Club of Colombo East and the Rotaract Club of CfPS Law School, with support from the National Blood Transfusion Centre, Wellawatta Police, and the Sri Lanka Army. All donors received a token of appreciation for their contribution.
-
-The CEO of Nithyakalyani Jewellery stated that this initiative is a key part of their ongoing social welfare efforts, which also include beach clean-ups, educational support, and community renovation projects. The company has pledged to continue the blood donation campaign in the future.
-
-Amana Takaful Insurance shines with four Gold wins at SLIBFI Awards 2025
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/d09f1680.json)
-
----
-
-### Hishan Singhawansa appointed CEO of Cinnamon Hotels & Resorts
-
-*2025-08-31 22:32:00* · [`islandlk`](http://island.lk/hishan-singhawansa-appointed-ceo-of-cinnamon-hotels-resorts/) · `en`
-
-In a move to strengthen its role in Sri Lanka’s tourism rebound, Cinnamon Hotels & Resorts has appointed Hishan Singhawansa as its new Chief Executive Officer. Singhawansa, a 17-year veteran of parent company John Keells Group, has a vision focused on scale, innovation, and consistency to position the country as a premier global destination.
-
-Key to this strategy is the landmark US$1.2 billion Cinnamon Life integrated resort in Colombo, South Asia’s largest such development, expected to create 20,000 jobs and establish the city as a regional MICE hub.
-
-Beyond infrastructure, the group is investing in talent through its Hospitality Academy, aiming to increase women’s participation to 24%, and promoting sustainability and experiential travel through initiatives like Cinnamon Nature Trails. Singhawansa emphasises that tourism should act as a catalyst for economic transformation and community empowerment.
-
-...
-
-[Data](articles/dbb06080.json)
-
----
-
-### எரிபொருள் விலைகள் தொடர்பில் வெளியான அறிவிப்பு
-
-*2025-08-31 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/223877) · `ta`
-
-இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தின் மாதாந்த எரிபொருள் விலை திருத்தத்தின்படி, இன்று (ஆகஸ்ட் 31) நள்ளிரவு முதல் எரிபொருள் விலை குறைக்கப்பட்டுள்ளது.
-
-அதன்படி, ஒட்டோ டீசல் ஒரு லீற்றரின் விலை 6 ரூபாவினால் குறைக்கப்பட்டுள்ளது. முன்னதாக 289 ரூபாவாக இருந்த ஒரு லீற்றர் ஒட்டோ டீசலின் புதிய விலை 283 ரூபாவாகும்.
-
-சுப்பர் டீசல் ஒரு லீற்றரின் விலை 12 ரூபாவினால் குறைக்கப்பட்டு, அதன் புதிய விலை 313 ரூபாவாக நிர்ணயிக்கப்பட்டுள்ளது. இதற்கு முன்னர் அதன் விலை 325 ரூபாவாக இருந்தது.
-
-ஒக்டேன் 92 ரக பெற்றோல் ஒரு லீற்றரின் விலை 6 ரூபாவினால் குறைக்கப்பட்டு, 305 ரூபாவிலிருந்து 299 ரூபாவாக அதன் புதிய விலை குறைக்கப்பட்டுள்ளது.
-
-எனினும், ஒக்டேன் 95 ரக பெற்றோல் மற்றும் மண்ணெண்ணெய் ஆகியவற்றின் விலைகளில் எவ்வித மாற்றமும் இல்லை. ஒக்டேன் 95 பெற்றோல் ஒரு லீற்றர் 341 ரூபாவிற்கும், மண்ணெண்ணெய் ஒரு லீற்றர் 185 ரூபாவிற்கும் தொடர்ந்து விற்பனை செய்யப்படும்.
-
-◼️
-
-[Data](articles/e791d79e.json)
-
----
-
-### எரிபொருள் விலையில் அதிரடி மாற்றம்
-
-*2025-08-31 22:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையில்-அதிரடி-மாற்றம்/175-363809) · `ta`
-
-பெற்றோலியக் கூட்டுத்தாபனத்தின் மாதாந்த எரிபொருள் விலை திருத்தத்தின் படி இன்று (31) நள்ளிரவு முதல்  எரிபொருளின் விலை குறைக்கப்பட்டுள்ளது.
-
-அதற்கமைய 289 ரூபாயாக இருந்த ஒட்டோ டீசல் லீற்றர் ஒன்றின் விலை 6 ரூபாயினால் குறைக்கப்பட்டுள்ளது.
-
-325 ரூபாயாக இருந்த சுப்பர் டீசல் லீற்றர் ஒன்றின் விலை 12 ரூபாயினால் குறைக்கப்பட்டுள்ளது.
-
-305 ரூபாயாக இருந்த ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 6 ரூபாயினால் குறைக்கப்பட்டுள்ளது.R
-
-◼️
-
-[Data](articles/66eb7922.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 00:49:04**
+As of **2025-09-02 01:06:26**
 
 ## Newspaper Stats
 
-*Scraped **73,607** Articles*
+*Scraped **73,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 753
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,200
+dailyftlk | 5,203
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
@@ -26,11 +26,57 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,607 articles have been extended.
+61,973 (84.2%) of 73,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Accountability is not petty: Response to Dr. Dayan Jayatilleka
+
+*2025-09-02 00:49:35* · [`dailyftlk`](https://www.ft.lk/columns/Accountability-is-not-petty-Response-to-Dr-Dayan-Jayatilleka/4-781081) · `en`
+
+Far from being petty, the sight of Ranil in custody communicates the principle that no one is above the law
+
+When former President Ranil Wickremesinghe emerged from hospital after securing bail, he did not walk out empty-handed. In his grasp was Boris Johnson’s flamboyantly titled memoir, Unleashed: The Political Memoir of the Century. The symbolism was hard to miss. Johnson, like Ranil, straddled the uneasy line between charm and scandal — a leader celebrated for wit and survival, yet dogged by questions of truth, ethics, and accountability. The book, bold and playful in style, promises candour while artfully skirting responsibility.
+
+That tableau — a former President accused of misusing Rs. 16.6 million of public funds for private travel, holding a memoir by another leader renowned for political indulgence — captures the very issue at stake.
+
+...
+
+[Data](articles/940d0559.json)
+
+---
+
+### Capitalism, socialism, and promise of social entrepreneurship
+
+*2025-09-02 00:40:42* · [`dailyftlk`](https://www.ft.lk/columns/Capitalism-socialism-and-promise-of-social-entrepreneurship/4-781080) · `en`
+
+Sri Lankans have long argued about systems. Some still believe in the old socialist dream, that if the State simply redistributes resources, all will be well. Others pin their hopes on capitalism, imagining that a market left unchecked will lift everyone. What we see, however, is that both extremes leave people disappointed.
+
+The socialist impulse is alive in our politics, even today. Many ordinary citizens speak of “taking from the rich and giving to the poor” as though that alone will resolve structural poverty. At the same time, capitalism in its rawest form, obsessed with profit and indifference to justice has only widened inequality. Between these two poles, Sri Lanka struggles to find a path that secures dignity, opportunity, and sustainability.
+
+...
+
+[Data](articles/998b5eb0.json)
+
+---
+
+### STEM, leadership, strategy and transformation
+
+*2025-09-02 00:36:40* · [`dailyftlk`](https://www.ft.lk/columns/STEM-leadership-strategy-and-transformation/4-781079) · `en`
+
+Companies with strong STEM leadership consistently outperform their peers in adapting to technological disruption and capturing market opportunities
+
+In the fields of operations, supply chain management, and business transformation, it is increasingly evident that technical expertise alone does not guarantee success in leading organisational change. Highly skilled professionals may falter when faced with the complexities of transformation, while operational leaders can struggle to effectively integrate emerging technologies. This disconnect between STEM proficiency and transformational leadership represents a significant challenge for modern organisations.
+
+The traditional leadership model—where technical competence equates to leadership authority—is no longer adequate. Today’s dynamic business environment demands a new approach that bridges the gap between scientific rigor and strategic vision, between operational excellence and human-centred leadership.
+
+...
+
+[Data](articles/5adacc4f.json)
+
+---
 
 ### Reimagining Sri Lanka’s university system: Strategic blueprint for global competitiveness
 
@@ -1709,55 +1755,5 @@ The petition, submitted through his legal counsel, names the Secretary to the Mi
 ◼️
 
 [Data](articles/4761506d.json)
-
----
-
-### යුක්රේන යුද්ධය අවසන් කිරීමට ට්‍රම්ප් සමග අවබෝධතාවකට ආ බව පුටින් කියයි
-
-*2025-09-01 14:51:20* · [`adalk`](https://www.ada.lk/breaking_news/යුක්රේන-යුද්ධය-අවසන්-කිරීමට-ට්‍රම්ප්-සමග-අවබෝධතාවකට-ආ-බව-පුටින්-කියයි/11-418197) · `si`
-
-ඇලෙස්කාවේ පැවති සාකච්ඡාවේදී රුසියා-යුක්රේන යුද්ධය අවසන් කිරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමග අවබෝධතාවයකට පැමිණි බව රුසියානු ජනාධිපති ව්ලැද්මියර් පුටින් පැවසීය.
-
-චීනයේ පැවැත්වෙන සමුුළුවක් අතරතුරු අදහස් පළ කරමින් හෙතෙම අද (01දා) මෙම අදහස් පළ කර තිබේ.
-
-◼️
-
-[Data](articles/f28896c9.json)
-
----
-
-### උතුරට ගිය ජනපතිගෙන් පොරොන්දු රැසක් - කච්චතිව් ගැනත් කියයි
-
-*2025-09-01 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214034) · `si`
-
-තවදුරටත් රට තුළ යුද අනතුරක් නොමැති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
-
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ යාපනය, මයිලිඩ්ඩි ධීවර වරාය සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ තුන්වන අදියර ආරම්භ කිරීමේ අවස්ථාවට අද (01) පෙරවරුවේ එක්වෙමිනි.
-
-මයිලිඩ්ඩි ධීවර වරාය සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ තුන්වන අදියර සංකේතාත්මකව ආරම්භ කිරීම මෙහිදී ජනාධිපතිවරයා අතින් සිදු කෙරිණි.
-
-මේ යටතේ උතුරු පළාතේ ධීවර ප්‍රජාවට මෙන්ම, නැගෙනහිර සහ දකුණු පළාත්වල සිට පැමිණෙන ධීවර බෝට්ටු සඳහාද ජලය, විදුලිය, ඉන්ධන ආදී අත්‍යවශ්‍ය පහසුකම්, ශීතාගාර පහසුකම්, දැල් සැකසීමේ මධ්‍යස්ථාන පහසුකම්, වෙන්දේසි ශාලා පහසුකම් සහ ගුවන් විදුලි පණිවිඩ හුවමාරු මධ්‍යස්ථාන පහසුකම්ද සලසා දීමට සැලසුම් කර තිබේ. මේ සඳහා රජය මේ වසරේ වෙන් කර ඇති මුදල රුපියල් මිලියන 298කි.
-
-රට තුළ බෙදී සිටිය ජනතාව එකතු කිරීමට උතුරේ ජනතාව පසුගිය මහ මැතිවරණයේ දී තීරණාත්මක සාධකයක් වූ බවත්, එම එකතුවීම අනාගතයේ තවදුරටත් ශක්තිමත් කළ යුතු බවත් පැවසු ජනාධිපතිවරයා දරුවන් කිසිදාක නොබෙදී සිටිය යුතු බව ද මෙහිදී අවධාරණය කළේය.
-
-...
-
-[Data](articles/47ffafb5.json)
-
----
-
-### ඩීසල් මිල අඩු වුණත් බස් ගාස්තු අඩු වෙන්නේ නෑ
-
-*2025-09-01 14:41:31* · [`adalk`](https://www.ada.lk/breaking_news/ඩීසල්-මිල-අඩු-වුණත්-බස්-ගාස්තු-අඩු-වෙන්නේ-නෑ/11-418196) · `si`
-
-ඩීසල් මිල ඊයේ(31දා) මධ්‍යම රාත්‍රියේ සිට අඩු කළද බස් ගාස්තු අඩු කළ නොහැකි බව ලංකා පෞද්ගලික බස් රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා පැවසීය.
-
-අද(01දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“ඊයේ මධ්‍යම රාත්‍රියේ සිට ඩීසල් මිල රු.06කින් අඩුවෙලා තිබෙනවා. මිල සූත්‍රය අනුව මාසිකව සිදු කරන සංශෝධනය අනුව තමයි අඩු කරලා තියෙන්නේ. ඒක සම්ප්‍රධායක ක්‍රමවේදයක්. ගිය මාසයේ ඒක වෙනස් වුණේ නෑ. කෙසේ වෙතත් මේ අඩුවෙලා තිබෙන තත්ත්වය මත රු.06ක් අඩුවෙලා තිබෙනවා. ඒක බස් ගාස්තුවට බලපාන්නේ නෑ. සාමාන්‍යයෙන් රුපියල් 25ක වගේ ඉන්ධන මිල අඩු වීමක් සිදු වුණොත් 04%කින් අඩු කරන්න පුළුවන්. ඒ නිසා මෙවර බස්ගාස්තු කිසිසේත්ම අඩු වෙන්නේ නෑ.”
-
-◼️
-
-[Data](articles/a3d36b12.json)
 
 ---

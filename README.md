@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 12:28:54**
+As of **2025-09-01 12:40:50**
 
 ## Newspaper Stats
 
-*Scraped **73,472** Articles*
+*Scraped **73,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,077
 adaderanalk | 9,347
-tamilmirrorlk | 10,921
+tamilmirrorlk | 10,922
 virakesarilk | 12,033
-adaderanasinhalalk | 12,753
+adaderanasinhalalk | 12,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,472 articles have been extended.
+61,973 (84.3%) of 73,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### செம்மணிக்கு நீதி விசாரணை : யாழில் ஜனாதிபதி
+
+*2025-09-01 12:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிக்கு-நீதி-விசாரணை-யாழில்-ஜனாதிபதி/175-363843) · `ta`
+
+செம்மணியில் தோண்டப்படும் மனித எச்சங்கள் தொடர்பாக நீதியான விசாரணைகள் முன்னெடுக்கப்படும் இதில் எவ்வித மாற்றமும் இல்லை என ஜனாதிபதி அனுர குமார திஸாநாயக்க  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2d0ffab9.json)
+
+---
+
+### හරක් කටාගේ නඩුවක සාක්ෂි විභාගය ඇරඹෙයි
+
+*2025-09-01 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214030) · `si`
+
+මීතොටමුල්ල ප්‍රදේශයේ නිවසකට කඩා වැදී ත්‍රිරෝද රථයක් හා රුපියල් 26,000 මුදලක් කොල්ලකෑමේ සිද්ධියක් සම්බන්ධයෙන් චෝදනා ලබා සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තාට එරෙහිව ගොනුකර තිබෙන නඩුවේ සාක්ෂි විභාගය අද (01) කොළඹ මහාධිකරණයේදී පැවැත්විණි.
+
+කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය ඉදිරියේ සාක්ෂි සටහන් කර ගැනීම සිදුවිය.
+
+එහිදී රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් සුදර්ශන ද සිල්වා මහතාගේ මෙහෙයවීම යටතේ පැමිණිල්ලේ සාක්ෂිකරුවන් දෙදෙනෙකුගේ සාක්ෂි සටහන් කර ගැනීම සිදුවිය.
+
+ඉන් අනතුරුව වැඩිදුර සාක්ෂි විභාගය ඔක්තෝබර් මස 29 වනදා දක්වා කල් තැබීමටද නියම කෙරිණි.
+
+මෙම නඩුව කැඳවූ අවස්ථාවේදී හරක් කටා දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබූ අතර අධිකරණ ශාලාව තුළට පුද්ගලයින් ඇතුළත් කර ගැනීමද දැඩි පරික්ෂාවකින් අනතුරුව සිදුවිය.
+
+◼️
+
+[Data](articles/bfcaff40.json)
+
+---
 
 ### රෝහලින් පිටව ගිය හිටපු ජනපති රනිල් පළමු ප්‍රකාශයක්
 
@@ -1771,33 +1803,5 @@ Today, in its specific product category, SCAN Jumbo Peanut is the category leade
 ...
 
 [Data](articles/4dbe3897.json)
-
----
-
-### Pro Realtors Academy holds inaugural certificate awarding ceremony
-
-*2025-08-31 22:47:00* · [`islandlk`](http://island.lk/pro-realtors-academy-holds-inaugural-certificate-awarding-ceremony/) · `en`
-
-Pro Realtors Academy, the first and only Real Estate education program in Sri Lanka by Transco Properties, celebrated the completion of its inaugural batch of students by conducting its certificate awarding ceremony recently.
-
-The event, held at the Regent Country Club Hotel in Malabe, was graced by the presence of the Chief Guest, Ruminda Randeniya – Director/CEO of Prime Group, alongside Asir Nawaz – Director/CEO of Transco Properties and Dineth Silva – Director/CEO of Transco Digital. During the event, students who had successfully completed the very first PRO Realtor course received their certificates.
-
-...
-
-[Data](articles/6ead2fd5.json)
-
----
-
-### Sanasa General Insurance goes live on Oracle Cloud
-
-*2025-08-31 22:46:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-goes-live-on-oracle-cloud/) · `en`
-
-Sanasa General Insurance Company (SGIC) has successfully completed a significant digital transformation by migrating its core insurance application and integration services to Oracle Cloud Infrastructure (OCI). This strategic initiative was executed with the support of DMS Software Technologies, a premier Oracle partner in Sri Lanka, and was celebrated at an event at SGIC’s Colombo headquarters.
-
-DMS led the migration process, leveraging its expertise in cloud readiness and change management to ensure a smooth transition with minimal operational disruption. This move is a key part of SGIC’s broader digital roadmap to enhance its competitiveness and responsiveness in the insurance sector.
-
-...
-
-[Data](articles/81726af6.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 17:54:32**
+As of **2025-09-01 18:10:45**
 
 ## Newspaper Stats
 
-*Scraped **73,533** Articles*
+*Scraped **73,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
 adalk | 7,089
-adaderanalk | 9,361
+adaderanalk | 9,372
 tamilmirrorlk | 10,934
-virakesarilk | 12,037
-adaderanasinhalalk | 12,769
+virakesarilk | 12,041
+adaderanasinhalalk | 12,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.3%) of 73,533 articles have been extended.
+61,973 (84.3%) of 73,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### Seylan Cards with Cinnamon Hotels & Resorts hosted ‘The Gathering of Giants’ for 2nd consecutive year
+
+*2025-09-01 17:49:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
+
+Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
+
+...
+
+[Data](articles/4515484b.json)
+
+---
+
+### வரி விதிப்பு இல்லையென்றால் நமது நாடு முற்றிலுமாக அழிந்துவிடும் - ட்ரம்ப்
+
+*2025-09-01 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/223962) · `ta`
+
+வெளிநாடுகளிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு விதிக்கப்பட்ட வரி விதிப்பு சட்டவிரோதமானது என அமெரிக்க மேல்முறையீட்டு நீதிமன்றம் தீர்ப்பளித்த நிலையில், அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் அதிருப்தி தெரிவித்துள்ளார்.
+
+அமெரிக்க ஜனாதிபதியாக டிரம்ப் மீண்டும் பொறுப்பேற்ற பின்னர், உலக நாடுகளிலிருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்குப் பரஸ்பர வரி விதிப்பு அறிவிப்பை வெளியிட்டார். இலங்கை, இந்தியா உள்ளிட்ட பல நாடுகளிலிருந்து அமெரிக்காவுக்குள் இறக்குமதி செய்யப்படும் பொருட்களுக்கு வரியை விதித்தார்.
+
+டிரம்ப்பின் இந்த வரி விதிப்புக்கு எதிராக அமெரிக்காவின் நியூயோர்க்க நகர வர்த்தக நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. வழக்கை விசாரித்த நீதிமன்றம், டிரம்பின் இந்த உத்தரவுகள் அதிகார வரம்பு மீறியவை என விமர்சித்து அவற்றை ரத்து செய்தது. இந்தத் தீர்ப்பை எதிர்த்து அமெரிக்க அரசு மேன்முறையீட்டு நீதிமன்றத்தில் மனு தாக்கல் செய்தது.
+
+இந்த மனுவை விசாரித்த மேன்முறையீட்டு நீதிமன்றம், டிரம்ப் விதித்த வரிகள் சட்டவிரோதமானவை என்றும், இத்தகைய வரிகளை விதிக்க அவருக்கு எந்த அதிகாரமும் இல்லை என்றும் தீர்ப்பளித்தது.
+
+...
+
+[Data](articles/e2a2f659.json)
+
+---
+
+### හික්කඩුවේ වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් අයෙක් අත්අඩංගුවට
+
+*2025-09-01 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214047) · `si`
+
+හික්කඩුව, මලවැන්න වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් එක් පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති එහිදි වෙඩිතැබීම සඳහා යොදා ගත් ගිනි අවිය ද පොලිස් භාරයට ගෙන තිබේ.
+
+කෙසේවෙතත් වෙඩි තැබීම සිදුකළ වෙඩික්කරු මේ වන තෙක් අත්අඩංගුවට නොමැති බව වාර්තා වෙයි.
+
+හික්කඩුව, මලවැන්න ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කළේය.
+
+පොලීසිය පැවසුවේ යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් වැගන් ආර් වර්ගයේ මෝටර් රථයකින් ගමන් කරමින් සිටී පුද්ගලයින් 05 දෙනෙකු ඉලක්ක කර ගනිමින් අද පස්වරුවේ මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+
+කෙසේවෙතත් ඉන් එක් පුද්ගලයෙකු පමණක් තුවාල ලබා බලපිටිය රෝහල වෙත ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/b10d7a84.json)
+
+---
+
+### உக்ரைனுடனான போர் நெருக்கடியைத் தீர்க்க சீனா, இந்தியா மேற்கொண்ட முயற்சிகளுக்கு புட்டின் பாராட்டு!
+
+*2025-09-01 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/223964) · `ta`
+
+உக்ரைனுடனான போர் நெருக்கடியைத் தீர்க்க சீனா மற்றும் இந்தியா மேற்கொண்ட முயற்சிகளுக்கு ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டின் பாராட்டு தெரிவித்தார்.
+
+ஷாங்காய் ஒத்துழைப்பு அமைப்பின் (SCO) இரண்டு நாள் உச்சி மாநாடு சீனாவின் தியான்ஜின் நகரில் நடைபெற்றது. இந்த மாநாட்டில் ரஷ்ய அதிபர் விளாடிமிர் புட்டின் உரையாற்றும் போதே, உக்ரைன் போர் நெருக்கடியைத் தீர்க்க சீனா மற்றும் இந்தியா மேற்கொண்ட முயற்சிகளுக்குப் பாராட்டு தெரிவித்தார்.
+
+மாநாட்டில் சீன ஜனாதிபதி சி ஜின்பிங், இந்தியப் பிரதமர் நரேந்திர மோடி, பாகிஸ்தான் பிரதமர் ஷெஹ்பாஸ் ஷெரீப், ஈரான் ஜனாதிபதி உட்பட 10 உறுப்பு நாடுகளின் தலைவர்கள் கலந்துகொண்டனர்.
+
+ரஷ்ய ஜனாதிபதி புட்டின் தனது உரையில், உக்ரைனில் அமைதி ஏற்பட அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்புடனான தனது சந்திப்பு முக்கியத்துவம் வாய்ந்தது என்றும், இந்தச் சந்திப்பின் விவரங்களை உலகத் தலைவர்களிடம் பகிர்ந்து கொள்ள இருப்பதாகவும் தெரிவித்தார். இந்தப் பேச்சுவார்த்தைகள் உக்ரைனில் அமைதிக்கு வழிவகுக்கும் என்றும் அவர் நம்பிக்கை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f3393e12.json)
+
+---
+
+### ලබන වසරේ දී රජය සමඟ සිදු කරන සියලු ගෙවීම් සහ ගනුදෙනු Online ක්‍රමයට - ජනපති
+
+*2025-09-01 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214046) · `si`
+
+ලබන වසර වන විට ජනතාව රජය සමඟ සිදු කරන සියලු ගෙවීම් සහ ගනුදෙනු කටයුතු මාර්ගගත ක්‍රම (Online) ඔස්සේ  සිදු කර ගැනීමට හැකි පහසුකම ලබා දීමට කටයුතු කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+වත්මන් රජයේ ප්‍රමුඛ වැඩසටහනක් වූ ඩිජිටල්කරණය මගින් මෙතෙක් කොළඹට සීමා වූ සියලු පරිපාලන කටයුතු ඈත පිටිසර ගම්මාන දක්වා විමධ්‍යගත කරමින් රජයෙන් ඉටු කර ගත යුතු කාර්ය ඉතා සමීපව ඉටු කර ගැනීමට ජනතාවට අවස්ථාව සලසා දෙන බවද ජනාධිපතිවරයා පවසයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ ආගමන හා විගමන දෙපාර්තමේන්තුවේ යාපනය ප්‍රාදේශීය කාර්යාලය විවෘත කිරීමේ අවස්ථාවට අද (01) එක් වෙමිනි.
+
+යාපනය දිස්ත්‍රික් ලේකම් කාර්යාල පරිශ්‍රය තුළ ස්ථාපිත කෙරුණු මෙම කාර්යාලය නවීන තාක්ෂණය ඇතුළු සියලු පහසුකම්වලින් සමන්විතය.
+
+...
+
+[Data](articles/63175b34.json)
+
+---
 
 ### யாழில் பிராந்திய அலுவலகம் திறப்பு
 
@@ -45,6 +131,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d93108c6.json)
+
+---
+
+### One person injured in shooting in Hikkaduwa
+
+*2025-09-01 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112076/one-person-injured-in-shooting-in-hikkaduwa-) · `en`
+
+An individual has sustained injuries in a shooting incident reported this afternoon (01) in Malawanna, Hikkaduwa, police stated.
+
+According to police, two individuals who arrived on a motorcycle carried out the shooting and fled the scene.
+
+◼️
+
+[Data](articles/f2a5dc6c.json)
+
+---
+
+### International media protest over journalist deaths in Gaza
+
+*2025-09-01 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112075/international-media-protest-over-journalist-deaths-in-gaza) · `en`
+
+More than 250 media outlets in over 70 countries staged a front page protest on Monday (Sep 1) highlighting the deaths of scores of journalists in Israel’s war against Hamas in Gaza, the Reporters Without Borders media freedom group said.
+
+“At the rate journalists are being killed in Gaza by the Israeli army, there will soon be no one left to keep you informed,” the group’s general director Thibaut Bruttin said in a statement.
+
+The protest was taken up on the website front pages of publications including Qatari broadcaster Al Jazeera, British news site The Independent, French newspapers La Croix and L’Humanite and Germany’s TAZ and Frankfurter Rundschau, according to Reporters Without Borders.
+
+Some 220 journalists have been killed during Israel’s Gaza campaign mounted in retaliation to Hamas’ Oct 7, 2023 attack, according to RWB data.
+
+...
+
+[Data](articles/922002b1.json)
+
+---
+
+### ADB approves US$ 106 mln funding to boost healthcare services in Sri Lanka
+
+*2025-09-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112074/adb-approves-us-106-mln-funding-to-boost-healthcare-services-in-sri-lanka) · `en`
+
+The Asian Development Bank (ADB) said today (01) that it has approved a US$ 106.9 million financing package to strengthen Sri Lanka’s secondary curative care services and improve disease prevention and governance.
+
+The package includes a US$ 100 million loan from the ADB and a US$ 6.9 million grant from the Pandemic Prevention, Preparedness, and Response Trust Fund.
+
+The ADB said the program will support hospital development, expand access to specialist treatment, and improve coordination between primary and secondary care.
+
+It will also enhance health system resilience by upgrading laboratories, strengthening disease surveillance, and establishing a center for disease control.
+
+◼️
+
+[Data](articles/6f3d7897.json)
 
 ---
 
@@ -112,6 +248,74 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இராணுவத்தின் பயன்பாட்டில் உள்ள காணிகள், வீதிகள் விடுவிக்கப்படும் - மயிட்டியில் ஜனாதிபதி தெரிவிப்பு
+
+*2025-09-01 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/223952) · `ta`
+
+யுத்தத்தின்போது இராணுவத்தின் பயன்பாட்டிற்காக கையகப்படுத்தப்பட்ட,  விடுவிக்கக்கூடிய அனைத்து காணிகளையும் வீதிகளையும்  மக்களின் பயன்பாட்டிற்காக விடுவிக்கப்படும் என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+மயிலிட்டித் துறைமுகத்தின் மூன்றாம் கட்ட அபிவிருத்திப் பணிகள் திங்கட்கிழமை  ஜனாதிபதியினால் ஆரம்பித்து வைக்கப்பட்டது. இந்த நிகழ்வில் உரையாற்றியபோது அவர் இதனை தெரிவித்தார்.
+
+பிரிக்கப்பட்டிருந்த எம்மை ஒன்றிணைக்க தேர்தல் தேவையாக இருந்தது எமக்கு முன்பாக வைக்கப்பட்டுள்ள எதிர்பார்க்கப்பட்ட இந்த ஒன்றிணைவை மேலும் வலுப்படுத்தவேண்டிய தேவையுள்ளது  எதிர்காலத்தில் எமது  பிள்ளைகள் பிரிந்திருக்க முடியாத நாட்டை உருவாக்கவேண்டும். வடக்கு கிழக்கு தெற்கு மேற்கு என்ற பேதமின்றி நாங்கள் அனைவரும் ஒன்றிணைந்து மக்களின் பிரச்சினைகளுக்கு தீர்வுகாண்பதற்கு முயற்சிகளை மேற்கொண்டுவருகின்றோம். அதில் விசேடமாக வடக்குமக்கள் எதிர்பார்க்கும் பொருளாதார நெருக்கடிக்கு நாம் கவனம் செலுத்தியுள்ளோம் விவசாயத்தை அடிப்படையாக கொண்ட மக்கள் இருக்கின்றார்கள் அதற்கான  நிலத்தை மக்களுக்கு வழங்கவேண்டிய தேவையுள்ளது.
+
+...
+
+[Data](articles/0a859453.json)
+
+---
+
+### X-Press Pearl Disaster: Sectoral Oversight Committee probes utilisation of compensation
+
+*2025-09-01 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112072/x-press-pearl-disaster-sectoral-oversight-committee-probes-utilisation-of-compensation) · `en`
+
+The Sectoral Oversight Committee on Environment, Agriculture, and Resource Sustainability has drawn attention to the utilisation of compensation received for the damage caused by the X-Press Pearl vessel, particularly regarding payments made to fishermen and coastal conservation efforts.
+
+Accordingly, the Committee recommended that a detailed report be submitted regarding the total amount of compensation received thus far, the amount paid as compensation to fishermen, the amount spent on coastal protection, and the remaining balance of the compensation fund, the Department of Communication of Parliament said.
+
+This matter was brought to attention during a meeting of the Sectoral Oversight Committee on Environment, Agriculture and Resource Sustainability held in Parliament under the chairmanship of Member of Parliament Hector Appuhamy.
+
+...
+
+[Data](articles/97ce9b77.json)
+
+---
+
+### President lays foundation stone for proposed international cricket stadium in Jaffna
+
+*2025-09-01 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112073/president-lays-foundation-stone-for-proposed-international-cricket-stadium-in-jaffna) · `en`
+
+President Anura Kumara Dissanayake has laid the foundation stone for the construction of the proposed new international cricket stadium in Jaffna.
+
+Following this, the President is also expected to participate in a public gathering scheduled to be held at the same location, according to a statement issued by the Presidential Media Division.
+
+President Dissanayake participated in several events today (01) in Jaffna, including the inauguration and opening of multiple new development projects in the region.
+
+◼️
+
+[Data](articles/c27c5a21.json)
+
+---
+
+### IGP extends gratitude to all who aided arrest of high-profile underworld figures
+
+*2025-09-01 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112071/igp-extends-gratitude-to-all-who-aided-arrest-of-high-profile-underworld-figures) · `en`
+
+The Inspector General of Police (IGP) Priyantha Weerasooriya has expressed his gratitude to all agencies that contributed to the successful operation, including INTERPOL, the Indonesian Police, and Indian authorities, for their assistance in combating organized crime and drug networks in Sri Lanka.
+
+The support extended by all factions was instrumental in the diplomatic and operational efforts to arrest and repatriate suspects hiding abroad, the Police Media Division stated.
+
+On 30 August 2025, five individuals involved in organised crime and drug trafficking in Sri Lanka, who had been hiding in foreign countries, were arrested in Indonesia and brought back to the island.
+
+Following detention orders, the suspects are currently under investigation by the Criminal Investigation Department (CID) and the Western Province North Crime Division.
+
+Sri Lanka Police continue to conduct operations to curb organized crime and drug trafficking across the country.
+
+...
+
+[Data](articles/fd1ec8b8.json)
+
+---
+
 ### லாப் ​​​​​​​கேஸ் விலை மாற்றம் இல்லை
 
 *2025-09-01 16:45:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாப்-கேஸ்-விலை-மாற்றம்-இல்லை/175-363866) · `ta`
@@ -149,6 +353,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/45af7829.json)
+
+---
+
+### Jaffna Immigration Department Office declared opened
+
+*2025-09-01 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112070/jaffna-immigration-department-office-declared-opened) · `en`
+
+The Jaffna Regional Office of the Department of Immigration and Emigration has been declared open by President Anura Kumara Dissanayake today (01).
+
+President Dissanayake stated the Regional Office of the Department of Immigration and Emigration is one of the long-standing needs of the people of Jaffna.
+
+Addressing the gathering, the President highlighted that digitalization has been made a top priority of the present government and by next year, people will be able to complete all payments and transactions with the government online.
+
+President Anura Kumara Dissanayake also emphasized that the government is committed to decentralizing administrative functions, which were once limited to Colombo, so that people residing in remote villages can access these essential services conveniently and closely.
+
+◼️
+
+[Data](articles/23a5dc1b.json)
 
 ---
 
@@ -204,6 +426,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Vehicular movement restricted between Devi Balika Roundabout and DS Senanayake Junction in Borella from 7pm
+
+*2025-09-01 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112069/vehicular-movement-restricted-between-devi-balika-roundabout-and-ds-senanayake-junction-in-borella-from-7pm) · `en`
+
+Vehicular movement will be restricted from 7:00 p.m. today (01), on a stretch of the entry road to Colombo from the Devi Balika Roundabout to the D.S. Senanayake Junction with the Borella Police Division.
+
+The Police Media Division attributed the road closure to the repair work to be conducted between the Devi Balika Roundabout to the D.S. Senanayake Junction.
+
+The road has been closed sporadically in the past few days due to the risk of cracks, subsidence, and the inflow of sewage onto the roadway.
+
+Police accordingly request motorists using the road to seek alternative routes. However, traffic exiting Colombo along the road will continue to operate as normal, it said.
+
+◼️
+
+[Data](articles/e16952d4.json)
+
+---
+
 ### හෙට ප්‍රදේශ කිහිපයක උණුසුම ඉහළට
 
 *2025-09-01 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214039) · `si`
@@ -222,6 +462,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### நிலநடுக்கத்தால் ஆப்கானிஸ்தானில் நிர்மூலமான பல கிராமங்கள் : உயிரிழப்பு 800 ஆக அதிகரிப்பு !
+
+*2025-09-01 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223942) · `ta`
+
+கிழக்கு ஆப்கானிஸ்தானில் ஏற்பட்ட நிலநடுக்கத்தினால் பல கிராமங்கள் அழிவடைந்துள்ளதுடன், உயிரிழந்தோரின் எண்ணிக்கை சுமார் 800 ஆக அதிகரித்துள்ளது.
+
+அதேநேரம் குறித்த அனர்த்தத்தில் சிக்குண்டு 2 ஆயிரத்து 800 க்கும் மேற்பட்டோர் காயமடைந்துள்ளனர்.
+
+மேலும், குறித்த அனர்த்தத்தில் சிக்கி காணாமல் போனவர்களை தேடும் பணிகள் முன்னெடுக்கப்பட்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அமெரிக்க புவியியல் ஆய்வு மையத்தின் தகவலின்படி, கிழக்கு ஆப்கானிஸ்தானில 6.0 மெக்னிடியூட் அளவிலான நிலநடுக்கம் பதிவானதை தொடர்ந்து, அதன் அண்டை நகரான நங்கஹார் (Nangarhar) மாகாணத்திலுள்ள ஜலலாபாத்( Jalalabad) நகருக்கு அருகே குனர் (Kunar) மாகாணத்திலுள்ள சில நகரங்களைத் தாக்கியது.
+
+நங்கஹார் மாகாணத்தில் உள்ள ஜலலாபாத் நகரிலிருந்து 27 கிலோமீற்றர் தொலைவில், குறித்த நிலநடுக்கம் மையம் கொண்டிருந்ததாக அமெரிக்க புவியியல் ஆய்வு நிலையம் தெரிவித்துள்ளது.
+
+இடிந்து விழுந்த கட்டிடங்களுக்குள்ளிருந்து காயமடைந்தவர்களை மீட்கும் நடவடிக்கைகளில் மீட்புப் பணியாளர்கள் ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e102e683.json)
+
+---
+
 ### இவ்விருவரையும் உங்களுக்குத் தெரியுமா?
 
 *2025-09-01 16:06:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்விருவரையும்-உங்களுக்குத்-தெரியுமா/175-363862) · `ta`
@@ -237,18 +499,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/57acc2eb.json)
-
----
-
-### Seylan Cards collaborates with Cinnamon Hotels & Resorts hosted ‘The Gathering of Giants’ for 2nd consecutive year
-
-*2025-09-01 15:56:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
-
-Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
-
-...
-
-[Data](articles/4515484b.json)
 
 ---
 
@@ -346,6 +596,20 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 
 ---
 
+### No Laugfs Gas price revision in September
+
+*2025-09-01 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112068/no-laugfs-gas-price-revision-in-september-) · `en`
+
+LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of September, 2025.
+
+This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
+
+◼️
+
+[Data](articles/765882e2.json)
+
+---
+
 ### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
 
 *2025-09-01 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214036) · `si`
@@ -373,6 +637,38 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 ◼️
 
 [Data](articles/ef662436.json)
+
+---
+
+### “There is no longer a threat of war in the country” - President Anura Kumara
+
+*2025-09-01 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112067/there-is-no-longer-a-threat-of-war-in-the-country-president-anura-kumara-) · `en`
+
+There is no longer a threat of war in the country, President Anura Kumara Dissanayake has stated while attending an event in Jaffna.
+
+President Dissanayake made this statement while attending the launch of the third phase of the Myliddy Fisheries Harbour Development Project in Jaffna this morning (01).
+
+The symbolic inauguration of the third phase of the Myliddy Fisheries Harbour Development Project took place by the President.
+
+Under this initiative, it is planned to provide essential facilities such as water, electricity, fuel, cold storage, net-mending centers, auction halls, and radio communication centers not only for the fishing communities in the Northern Province but also for fishing vessels arriving from the Eastern and Southern Provinces. The government has allocated Rs. 298 million for this purpose in this year’s budget.
+
+...
+
+[Data](articles/610f37b3.json)
+
+---
+
+### SC grants leave to proceed with FR against ex-President Ranil and others regarding Eppawala phosphate deposit
+
+*2025-09-01 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112066/sc-grants-leave-to-proceed-with-fr-against-ex-president-ranil-and-others-regarding-eppawala-phosphate-deposit) · `en`
+
+The Supreme Court today (01) granted leave to proceed with a fundamental rights petition filed against former President Ranil Wickremesinghe, several former cabinet ministers, and other respondents.
+
+The petition alleges that during the previous government, phosphate stocks from the Eppawala deposit were released for export at prices significantly lower than the standard market rate to several companies allegedly close to those in power, thereby violating fundamental human rights.
+
+◼️
+
+[Data](articles/306f6be8.json)
 
 ---
 
@@ -1465,307 +1761,5 @@ Meanwhile, the prices of Petrol 95 Octane and Kerosene will remain unchanged.
 ◼️
 
 [Data](articles/f6395513.json)
-
----
-
-### ජනපති අද යාපනයට
-
-*2025-09-01 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214023) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (01) යාපනයේ නව සංවර්ධන ව්‍යාපෘති කිහිපයක වැඩ ආරම්භ කිරීමේ සහ විවෘත කිරීමේ අවස්ථාවන්ට සහභාගි වීමට නියමිතය.
-
-යාපනය, මයිලිඩ්ඩි ධීවර වරාය සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ තුන් වන අදියර අද (01) පෙරවරුවේ ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් ආරම්භ කෙරේ.
-
-මේ යටතේ උතුරු පළාතේ ධීවර ප්‍රජාවට මෙන්ම, නැගෙනහිර සහ දකුණු පළාත්වල සිට පැමිණෙන ධීවර බෝට්ටු සඳහාද ජලය, විදුලිය, ඉන්ධන ආදී මූලික සහ අත්‍යාවශ්‍ය පහසුකම්, ශිතාගාර පහසුකම්, දැල් සැකසීමේ මධ්‍යස්ථාන පහසුකම්, වෙන්දේසි ශාලා පහසුකම් සහ ගුවන් විදුලි පණිවිඩ හුවමාරු මධ්‍යස්ථාන පහසුකම්ද සලසා දීමට සැලසුම් කර ඇත.
-
-ධීවර වරායේ වැඩ ආරම්භ කිරීමේ අවස්ථාවෙන් පසුව එම ස්ථානයේ පැවැත්වෙන ජන හමුවකටද ජනාධිපතිවරයා එක්වීමට නියමිතය.
-
-මේ අතර, ආගමන හා විගමන දෙපාර්තමේන්තුවේ යාපනය ප්‍රාදේශීය කාර්යාලය අද ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරෙනු ඇත.
-
-...
-
-[Data](articles/3c5a1c40.json)
-
----
-
-### පාර්ලිමේන්තුවේ ආහාරපාන සෞඛ්‍යාරක්ෂිත කිරීමේ යෝජනා ගන්න කමිටුවක්
-
-*2025-09-01 10:27:02* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-ආහාරපාන-සෞඛ්‍යාරක්ෂිත-කිරීමේ-යෝජනා-ගන්න-කමිටුවක්/11-418188) · `si`
-
-පාර්ලිමේන්තුවේ ආහාරපානවල සෞඛ්‍යාරක්ෂිත බව වැඩි කිරීමට අදාළව යෝජනා ඉදිරිපත් කිරීම සඳහා කමිටුවක් පත් කිරීමට  කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පැවති ගෘහ්‍ය කාරක සභාවේදී තීරණය කෙරිණි.
-
-කථානායකවරයාගේ ඉල්ලීම පරිදි බත්තරමුල්ල සෞඛ්‍ය වෛද්‍ය නිලධාරීවරයාගේ ප්‍රධානත්වයෙන් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් පාර්ලිමේන්තු පරිශ්‍රයේ ආහාරපාන පිළියෙල කිරීමට අදාළ  මුළුතැන්ගෙය ඇතුළු ස්ථාන පරීක්ෂා කිරීම පසුගිය අප්‍රේල් මාසයේදී සිදු කෙරිණි. ඒ අනුව ඊට අදාළ නිරීක්ෂණ ඇතුළත් වාර්තාව මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් ගෘහ්‍ය කාරක සභාවට සවිස්තරාත්මකව ඉදිරිපත් කිරීම මෙහිදී සිදුවිය.
-
-...
-
-[Data](articles/7b6d812a.json)
-
----
-
-### அறுகம் குடாவில் கைகலப்பு ; கைதான இரு இஸ்ரேலிய பிரஜைகள் பிணையில் விடுதலை
-
-*2025-09-01 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/223893) · `ta`
-
-அறுகம் குடா பகுதியில் ஹோட்டல் உரிமையாளர் மற்றும் அவரது மனைவியைத் தாக்கியதாகக் கூறி வெள்ளிக்கிழமை (29) பொத்துவில் பொலிஸாரால் கைது செய்யப்பட்ட இரண்டு இஸ்ரேலிய பிரஜைகள் பிணையில் விடுவிக்கப்பட்டனர்.
-
-தம்பதியினர் தங்கள் வாகனத்தில் பயணித்தபோது, 26 வயதுடைய இரண்டு வெளிநாட்டினர் வீதியை மறித்துள்ளனர். இதன்போது, இரு தரப்பினருக்கும் இடையில்  வாக்கு வாதம்  ஏற்பட்ட பின்னர் அது கைகலப்பாக மாறியுள்ளது.
-
-சந்தேக நபர்கள் சனிக்கிழமை பொத்துவில் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு, ரூ. ஒரு மில்லியன் ரூபா பெறுமதியான சரீரப் பிணையில் விடுவிக்கப்பட்டனர்.
-
-அவர்களின் கடவுச்சீட்டுக்களை நீதிமன்றத்தில் ஒப்படைக்கவும் நீதிபதி உத்தரவிட்டார், மேலும் வழக்கு புதன்கிழமை மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்படும்.
-
-இலங்கையில் பிரபலமான கடற்கரையான அறுகம் குடா, அண்மையில் சில இஸ்ரேலிய சுற்றுலாப் பயணிகளின் நடத்தை தொடர்பில் பல்வேறு விமர்சனங்களை எதிர்கொண்டது. இந்தப் பகுதி கடலலை சறுக்கல் செய்வதற்கும் உலகம் முழுவதிலுமிருந்து சுற்றுலாப்பயணிகளை ஈர்ப்பதற்கும் பெயர் பெற்ற இடமாகும்.
-
-◼️
-
-[Data](articles/15f74d42.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields up
-
-*2025-09-01 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-up-238906/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted flat at 302.00/10 to the US dollar in the spot market Monday, same as Friday’s close, while bond yields were quoted higher, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.15/25 percent.
-
-A bond maturing on 15.09.2027 was quoted at 8.60/70 percent.
-
-A bond maturing on 01.07.2028 was quoted at 8.95/9.00 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.45/55 percent.
-
-A bond maturing on 15.12.2032 was quoted flat at 10.30/40 percent.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.41 percent, or 86.80 points, at 21,084; the S&P SL20 was up 0.37 percent, or 22.19 points, at 6,098.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 402.5536 buying, and 413.8954 selling, and the euro was 347.1418 buying, 358.3470 selling. (Colombo/Sep1/2025)
-
-◼️
-
-[Data](articles/562972bc.json)
-
----
-
-### “இந்தியா பள்ளிக் குழந்தை அல்ல”
-
-*2025-09-01 10:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-பள்ளிக்-குழந்தை-அல்ல/50-363825) · `ta`
-
-‘‘இந்​தியா பள்​ளிக் குழந்தை அல்ல. பெரிய நாடு. அதற்கு அதிபர் ட்ரம்ப் விதித்த 50 சதவீத வரி விவேக​மான கொள்கை கிடை​யாது’’ என அமெரிக்க பத்​திரி​கை​யாளர் ரிக் சான்​சேஸ் விமர்​சனம் செய்​துள்​ளார்.
-
-உக்​ரைன் மீது தாக்​குதல் நடத்​தும் ரஷ்​யா​விடம் இந்​தியா தொடர்ந்து கச்சா எண்​ணெய் வாங்​கிய​தால், இந்​தி​யா​வில் இருந்து இறக்​குமதி செய்​யப்​படும் பொருட்​களுக்​கான வரியை அமெரிக்க ஜனாதிபதி  ட்ரம்ப் 50 சதவீத​மாக உயர்த்​தி​னார்.
-
-ஜனாதிபதி  ட்ரம்ப் அறி​வித்த வரி விதிப்பு சட்​ட​விரோத​மானது எனவும், இதை நீக்க வேண்​டும் என அமெரிக்க மேல் முறை​யீட்டு நீதி​மன்​றம் தீர்ப்​பளித்​துள்​ளது.
-
-இதுகுறித்து அமெரிக்க பத்​திரி​கை​யாளர் ரிக் சான்​சேஸ் அளித்த பேட்​டி​யில் கூறி​யிருப்​ப​தாவது: இந்​தி​யா​வை, பள்​ளிக் குழந்தை போல் அமெரிக்கா நடத்தக் கூடாது. இந்​தியா பெரிய நாடு.
-
-ஜனாதிபதி  ட்ரம்ப் எடுக்​கும் முடிவுகள் பெரும்​பாலும் அக்​கறையுடன் கூடிய மற்​றும் அறி​வியல் பூர்​வ​மான சிந்​தனை​யாக இருப்​ப​தில்​லை. இந்​தியா எடுக்​கும் முடிவு​களுக்கு மேற்​பார்வை தேவை என்​பது போல் அமெரிக்​கா​வின் அணுகு​முறை உள்​ளது.
-
-...
-
-[Data](articles/8912ffa4.json)
-
----
-
-### හිටපු ජනාධිපති ලේකම් සමන්ට අද සී.අයි.ඩී.යට ​නොපැමිණෙන ලෙස දන්වයි
-
-*2025-09-01 10:04:58* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-ලේකම්-සමන්ට-අද-සී-අයි-ඩී-යට-​නොපැමිණෙන-ලෙස-දන්වයි/11-418187) · `si`
-
-හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතාට අද(01දා) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට නොපැමිණෙන ලෙස එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එංගලන්තයේ සිදුකළ සංචාරයට අදාළව සිදුකරන විමර්ශනය සඳහා ප්‍රකාශයක් ලබාගැනීමට අද පෙරවරු 9ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙසට ඔහුට මීට පෙර දැනුම් දී තිබුණි.
-
-◼️
-
-[Data](articles/0f3c8254.json)
-
----
-
-### ஸ்பாவுக்குள் நுழைந்து 3 அழகிகள் வன்புணர்வு: கான்ஸ்டபில் கைது
-
-*2025-09-01 10:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பாவுக்குள்-நுழைந்து-3-அழகிகள்-வன்புணர்வு-கான்ஸ்டபில்-கைது/175-363824) · `ta`
-
-மசாஜ் நிலையத்திற்குள் அத்துமீறி நுழைந்து, அங்கு பணிபுரியும் மூன்று பெண்களை பாலியல் பலாத்காரம் செய்துவிட்டு தப்பிச் சென்ற இரண்டு  கான்ஸ்டபிள்களில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-பொரளையில் உள்ள மசாஜ் நிலையத்திற்குள் அத்துமீறி நுழைந்து அங்கிருந்து பெண் மேலாலர் மற்றும் நான்கு பெண்களை அச்சுறுத்தி, அதில் மூன்று பெண்களை பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளனர்.
-
-பொலிஸ் சிறப்பு பணியக தலைமையகத்தில் பணிபுரியும் கான்ஸ்டபிள் ஒருவரே கைது செய்யப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-கைது செய்யப்பட்டவர், அந்த மாடியில் இருந்து தப்பிச்செல்ல முற்பட்டபோது, மேல் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கைது செய்யப்பட்டதாக பொரளை பொலிஸார் தெரிவித்தனர்.
-
-அத்துடன் அவர் பொலிஸாரின் பாதுகாப்பின் கீழ் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வருவதாக பொலிஸார்தெரிவிக்கின்றனர்.
-
-மேலும் சம்பவத்தில் தப்பியோடிய நபர், காவல்துறை சேவையிலிருந்து பணிநீக்கம் செய்யப்பட்ட ஒரு கான்ஸ்டபிள் என விசாரணையில் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/509bb095.json)
-
----
-
-### ஸ்பாவுக்கு நுழைந்து 3 அழகிகள் வன்புணர்வு: கான்ஸ்டபில் கைது
-
-*2025-09-01 10:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பாவுக்கு-நுழைந்து-3-அழகிகள்-வன்புணர்வு-கான்ஸ்டபில்-கைது/175-363824) · `ta`
-
-மசாஜ் நிலையத்திற்குள் அத்துமீறி நுழைந்து, அங்கு பணிபுரியும் மூன்று பெண்களை பாலியல் பலாத்காரம் செய்துவிட்டு தப்பிச் சென்ற இரண்டு  கான்ஸ்டபிள்களில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-பொரளையில் உள்ள மசாஜ் நிலையத்திற்குள் அத்துமீறி நுழைந்து அங்கிருந்து பெண் மேலாலர் மற்றும் நான்கு பெண்களை அச்சுறுத்தி, அதில் மூன்று பெண்களை பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளனர்.
-
-பொலிஸ் சிறப்பு பணியக தலைமையகத்தில் பணிபுரியும் கான்ஸ்டபிள் ஒருவரே கைது செய்யப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-கைது செய்யப்பட்டவர், அந்த மாடியில் இருந்து தப்பிச்செல்ல முற்பட்டபோது, மேல் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கைது செய்யப்பட்டதாக பொரளை பொலிஸார் தெரிவித்தனர்.
-
-அத்துடன் அவர் பொலிஸாரின் பாதுகாப்பின் கீழ் கொழும்பு தேசிய மருத்துவமனையில் சிகிச்சை பெற்று வருவதாக பொலிஸார்தெரிவிக்கின்றனர்.
-
-மேலும் சம்பவத்தில் தப்பியோடிய நபர், காவல்துறை சேவையிலிருந்து பணிநீக்கம் செய்யப்பட்ட ஒரு கான்ஸ்டபிள் என விசாரணையில் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/f1f44ff3.json)
-
----
-
-### சீனா சென்ற இந்தியப் பிரதமர் மோடி சீன மற்றும் ரஷ்ய ஜனாதிபதிகளை சந்தித்தார் !
-
-*2025-09-01 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/223891) · `ta`
-
-சீனாவின் தியான்ஜின் நகரில் இடம்பெறும் ஷாங்காய் ஒத்துழைப்பு அமைப்பின் (SCO) உச்சி மாநாட்டில் பிரதமர் நரேந்திர மோடி கலந்து கொண்டார். இந்த மாநாட்டிற்கு முன்னர் சீன மற்றும் ரஷ்ய ஜனாதிபதிகளை சந்தித்த பிரதமர் மோடி பேச்சுவார்த்தை நடத்தினார்.
-
-அமெரிக்காவின் வரி விதிப்புக்கு மத்தியில், பிரதமர் மோடி சீன ஜனாதிபதி சீ ஜின்பிங் மற்றும்  ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டின் ஆகியோரை நேரில் சந்தித்துப் பேசியது உலக அரசியல் அரங்கில் முக்கியத்துவம் வாய்ந்ததாகப் பார்க்கப்படுகிறது. 3 நாடுகளின் தலைவர்களும் முத்தரப்பு உறவுகள் குறித்தும், உலகளாவிய ஒத்துழைப்பை மேம்படுத்துவது குறித்தும் விவாதித்ததாகத் சர்வதேச செய்திகள் தெரிவிக்கின்றன. இந்த மாநாட்டில் இந்திப் மோடி, ஏனைய நாடுகளின் தலைவர்களையும் சந்தித்து உரையாடியமை குறிப்பிடத்தக்கது.
-
-அங்கு நேபாளப் பிரதமர், மாலைதீவு ஜனாதிபதி,எகிப்தின் பிரதமர், பெலரூஸ் ஜனாதிபதி, தஜிகிஸ்தான் ஜனாதிபதி, கசகஸ்தான் ஜனாதிபதி, வியட்நாம் பிரதமர், துரக்மெனிஸ்தான் ஜனாதிபதி, ஆர்மேனியாவின் பிரதமர், உஸ்பெகிஸ்தானின் ஜனாதிபதி உள்ளிட்டவர்களுடன் சந்தித்து இராஜதந்திர உறவுகளை பலப்படுத்திக் கொண்டார்.
-
-...
-
-[Data](articles/5a6d0db5.json)
-
----
-
-### எதிரணியின் முக்கிய புள்ளி விரைவில் கைது
-
-*2025-09-01 09:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிரணியின்-முக்கிய-புள்ளி-விரைவில்-கைது/175-363822) · `ta`
-
-ஊழல் வழக்கு தொடர்பாக ஒரு சக்திவாய்ந்த எதிர்க்கட்சித் தலைவரும் விரைவில் கைது செய்யப்பட உள்ளதாக வட்டாரங்கள் தெரிவித்தன.
-
-அவர் அமைச்சராக இருந்தபோது, ​​சம்பந்தப்பட்ட அமைச்சகத்தின் ஊழியர்கள் குழுவை தனது தனிப்பட்ட நோக்கங்களுக்காகப் பயன்படுத்தியதாக அவர் மீது குற்றம் சாட்டப்பட்டுள்ளதாகவும், இந்த சம்பவம் தொடர்பாக ஏற்கனவே நிறைய ஆதாரங்கள் கிடைத்துள்ளதாகவும் அரசு வட்டாரங்கள் தெரிவிக்கின்றன.
-
-இந்த சம்பவம் தொடர்பாக ஊழியர்கள் குழுவிடமிருந்து ஏற்கனவே வாக்குமூலங்கள் பதிவு செய்யப்பட்டுள்ளதாக அறியப்படுகிறது.
-
-அவர் ஒரு அமைச்சகத்திற்கு பணம் செலவழித்ததாகவும் குற்றம் சாட்டப்பட்டுள்ளது. இதற்கிடையில், பல்வேறு ஊழல் வழக்குகளுக்காக இந்த ஆண்டு 10 அரசியல்வாதிகள் காவலில் வைக்கப்பட்டனர்.
-
-◼️
-
-[Data](articles/ccfef37c.json)
-
----
-
-### ஒரே வீட்டுக்குள் இரண்டு சடலங்கள் மீட்பு
-
-*2025-09-01 09:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒரே-வீட்டுக்குள்-இரண்டு-சடலங்கள்-மீட்பு/76-363820) · `ta`
-
-பசறை தஹா கனாவா பகுதியில் உள்ள ஒரு வீட்டிற்குள் இரண்டு இளைஞர்களின் இரண்டு உடல்கள் கண்டெடுக்கப்பட்டதாக பசறை பொலிஸார் தெரிவித்துள்ளனர்.
-
-பசறை தஹா கனாவா பகுதியில் உள்ள ஒரு வீட்டில் இரண்டு உடல்கள் இருப்பதாக அவசர ஆம்புலன்ஸ் சேவைக்கு கிடைத்த தகவலின் அடிப்படையில் நடத்தப்பட்ட விசாரணையின் போது இரண்டு உடல்களும் மீட்கப்பட்டுள்ளதாக பொலிஸார்.
-
-ஒரே வீட்டில் இரண்டு உடல்கள் கண்டெடுக்கப்பட்ட சம்பவம் குறித்து பொலிஸார் விரிவான விசாரணையை தொடங்கியுள்ளனர்.
-
-◼️
-
-[Data](articles/185c8bd4.json)
-
----
-
-### செம்மனி
-
-*2025-09-01 09:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/செம்மனி/62-363819) · `ta`
-
-◼️
-
-[Data](articles/50c06110.json)
-
----
-
-### இனிய பாரதியின் இரு சகாக்கள் அங்கும் இங்கும் கைது
-
-*2025-09-01 09:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிய-பாரதியின்-இரு-சகாக்கள்-அங்கும்-இங்கும்-கைது/175-363818) · `ta`
-
-இனிய பாரதியின் சகாவான கல்முனையைச் சோந்த டிலக்ஷன்  சனிக்கிழமை (30) கைது செய்யப்பட்டுள்ளதுடன் காரைதீவைச் சேர்ந்த இன்னொரு சகாவான வன்னியசிங்கம் பரமேஸ்வரன் வெளிநாட்டிற்கு தப்பிச் செல்ல முயன்ற நிலையில் கட்டுநாயக்க விமான நிலையத்தில் வைத்து  கடந்த இரு வாரங்களுக்கு முன்னர் கைது செய்யப்பட்டுள்ளார்.
-
-ரி.எம்.வி.பி கட்சியைச் சேர்ந்த இனியபாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினரும் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் ஒருங்கிணைப்பாளருமான கே. புஷ்பகுமார் மற்றும் அவரது சகாவான சசீந்திரன் தவசீலன் ஆகியோரை 2007-6-28 ம் திகதி திருக்கோவில் பிரதேச சபையின் முன்னாள் தவிசாளர் உதயகுமார் படுகொலை தொடர்பாக படுகொலை செய்யப்பட்ட பிரதேச சபை தவிசாளரின் மனைவி சிஐடியிடம் முறைப்பாடு செய்திருந்தார்
-
-இதையடுத்து சந்தேகத்தின் அடிப்படையில் கடந்த ஜூலை 6ம் திகதி திருக்கோவில் வைத்து இனிய பாரதியும் அவரது சகாவான மட்டு. சந்திவெளியைச் சேர்ந்த சசிதரன் தவசீலன் என்பவரை சந்திவெளியில் வைத்து சிஐடியினர் கைது செய்தனர்.
-
-...
-
-[Data](articles/09c6085d.json)
-
----
-
-### අධිවේගී මාර්ගවල ගමන් කරන සියලු වාහන සියලු මගීන්ට අද සිට ආසන පටි අනිවාර්යයි
-
-*2025-09-01 09:41:56* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගවල-ගමන්-කරන-සියලු-වාහන-සියලු-මගීන්ට-අද-සිට-ආසන-පටි-අනිවාර්යයි/11-418186) · `si`
-
-අධිවේගී මාර්ගගයන්ගේ ගමන් ගන්නා සියලු වාහනවල සියලු මගීන්ට අද (01) සිට ආසන පටි පැළදීම අනිවාර්ය කර තිබේ.
-
-කෙසේ වෙතත් ආසන පටි නොමැති ඇතැම් වාහන සඳහා ආසන පටි සවිකර ගැනීමට මාස තුනක සහන කාලයක්ද ලබා  දීමට නියමිතය.
-
-◼️
-
-[Data](articles/b7e6e05d.json)
-
----
-
-### அதிவேக நெடுஞ்சாலைகளில் பயணிக்கும்போது இன்று முதல் சீட் பெல்ட் அணிவது கட்டாயம்
-
-*2025-09-01 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/223889) · `ta`
-
-அதிவேக நெடுஞ்சாலையில் பயணிக்கும்போது  பயணிக்கும்போது அனைத்து பயணிகளும் இன்று முதல்   சீட் பெல்ட் அணிவது கட்டாயமாக்கப்பட்டுள்ளதாக தேசிய வீதி பாதுகாப்பு ஆணைக்குழு தெரிவித்துள்ளது.
-
-புதிய விதிமுறைகளை மீறுபவர்கள் மீது சட்ட நடவடிக்கை எடுக்கப்படும் என அதன் தலைவர் மஞ்சுள குலரத்ன தெரிவித்துள்ளார்.
-
-தற்போது சீட் பெல்ட் பொருத்தப்படாத வாகனங்களுக்கு மூன்று மாத கால அவகாசம் வழங்கப்படும் எனவும் அவர் மேலும் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/3d5a7930.json)
-
----
-
-### சிறுமிகள் பாலியல் துஷ்பிரயோகம்: இருவர் கர்ப்பம்; சிறுவர்கள் கைது
-
-*2025-09-01 09:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிகள்-பாலியல்-துஷ்பிரயோகம்-இருவர்-கர்ப்பம்-சிறுவர்கள்-கைது/175-363817) · `ta`
-
-மட்டக்களப்பு மாவட்டத்தில் இரு பொலிஸ் பிரிவிலுள்ள பிரதேசங்களில் ஒரு வாரத்தில் 3 சிறுமிகள் மீது பாலியல் துஷ்பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதுடன் 13¸17 வயதுகளுடைய இரு சிறுமிகள்  கர்ப்பம் தரித்துள்ளதாகவும் இரு சிறுவர்களை கைது செய்துள்ளதாகவும் அந்தந்த பொலிஸ் நிலைய பொலிஸார் தெரிவித்தனர்.
-
-மாவட்டத்திலுள்ள ஒரு பொலிஸ் பிரிவிலுள்ள பிரதேசம் ஒன்றில் சில தினங்களுக்கு முன்னர் வாந்தியெடுத்த 17 வயது சிறுமி ஒருவரை வைத்தியசாலையில் அனுமதித்த போது அவர் 3 மாத கர்ப்பிணியாக இருப்பதை வைத்தியர்கள் கண்டறிந்தனர்.
-
-இது தொடர்பாக பொலிஸார் விசாரணைகளை மேற்கொண்ட போது, குறித்த சிறுமியின் தாயார் தந்தை மீன்பிடி தொழிலுக்காக கடற்கரை பகுதியில் மீன் வாடியில் இருந்து வருவதாகவும் வீட்டில் குறித்த சிறுமியும் அவரது சகோதரரும்; தங்கியிருந்து வருவதாகவும்.
-
-...
-
-[Data](articles/e31fa608.json)
-
----
-
-### මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයින් තිදෙනෙකු මරුට
-
-*2025-09-01 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214022) · `si`
-
-මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්වූ බව පොලීසිය පවසයි.
-
-ඒ අනුව ඇඹිලිපිටිය පොලිස් වසමේ ඇඹිලිපිටිය මොරකැටිය මාර්ගයේ 09 ඇල ප්‍රදේශයේදී මොරකැටිය දෙස සිට ඇඹිලිපිටිය දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් රියදුරුට පාලනය කර ගත නොහැකිව ඉදිරියෙන් පැමිණි යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබේ.
-
-අනතුරින් බරපතළ තුවාල ලැබූ ත්‍රී රෝද රථ රියදුරු සහ ඔහුගේ බිරිඳ සහ යතුරුපැදිකරු මෙන්ම පසුපැදිකාරිය ප්‍රතිකාර සඳහා ඇඹිලිපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු ත්‍රී රෝද රථ රියදුරු මියගොස් ඇත.
-
-එමෙන්ම හික්කඩුව පොලිස් වසමේ ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ පන්නම්ගොඩ ප්‍රදේශයේදී හික්කඩුව දෙස සිට ගාල්ල දෙසට ධාවනය වූ ලොරි රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබේ.
-
-අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු හා පසුපැදිකරු ආරච්චිකට්ටුව රෝහලට ඇතුළත් කිරීමෙන් පසු යතුරුපදිකරු ජීවිතක්ෂයට පත්ව ඇත.
-
-තවද නොච්චියාගම පොලිස් වසමේ පුත්තලම ත්‍රිකුණාමලය මාර්ගයේ පනන්කානිය හන්දිය ප්‍රදේශයේදී පුත්තලම දෙස සිට අනුරාධපුර දෙසට ධාවනය වූ මෝටර් රථයක මාර්ගය හරහා ගමන් ගත් කාන්තාවක් ගැටී අනතුරක් සිදුව ඇත.
-
-...
-
-[Data](articles/10b4d0b5.json)
 
 ---

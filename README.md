@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 00:09:16**
+As of **2025-09-02 00:33:57**
 
 ## Newspaper Stats
 
-*Scraped **73,605** Articles*
+*Scraped **73,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 753
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,198
+dailyftlk | 5,199
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
@@ -26,9 +26,27 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,605 articles have been extended.
+61,973 (84.2%) of 73,606 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-02 (Tuesday)
+
+### Where’s the papaverine? NMRA has flatlined on vital heart medicine
+
+*2025-09-02 00:17:36* · [`dailyftlk`](https://www.ft.lk/columns/Where-s-the-papaverine-NMRA-has-flatlined-on-vital-heart-medicine/4-781077) · `en`
+
+Whatever the cost of papaverine, hospitals must have options of acquiring it from as many registered suppliers as possible
+
+In early April of 2025, this author in an article published in the Daily FT asked the National Medicines Regulatory Authority (NMRA) to quit playing games with our hearts (https://www.ft.lk/opinion/NMRA-should-quit-playing-games-with-our-hearts/14-775045), but it seems to be continuing to cause heartache.
+
+In 2024, the State Pharmaceutical Corporation (SPC) rejected several bids of the sole registered supplier for the drug papaverine – a critical vasodilator widely used in cardiothoracic surgery – purportedly owing to their ‘exorbitant’ prices. About a year or so later, hospitals began to run out of papaverine stocks. With another bid from the same supplier still pending approval, the National Medicines Regulatory Authority (NMRA) conceded that bottlenecks in their own registration processes prevented price competition.
+
+...
+
+[Data](articles/c082958c.json)
+
+---
 
 ### 2025-09-01 (Monday)
 
@@ -1749,19 +1767,5 @@ The petition, submitted through his legal counsel, names the Secretary to the Mi
 ...
 
 [Data](articles/634e3a15.json)
-
----
-
-### நினைவுக்கல்லில், ஜனாதிபதியின் பெயர் இல்லை
-
-*2025-09-01 14:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நினைவுக்கல்லில்-ஜனாதிபதியின்-பெயர்-இல்லை/175-363850) · `ta`
-
-குடிவரவு- குடியல்வு திணைக்களத்தின் யாழ்ப்பாணம் பிராந்திய அலுவலகம், யாழ்ப்பாணம் மாவட்ட செயலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவால் திங்கட்கிழமை (01) திறந்து வைக்கப்பட்டது.
-
-நினைவுக்கல்லில், ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் பெயர் பொறிக்கப்படவில்லை. இலங்கை சனநாயக சோசலிச குடியரசின் பொதுமக்களது நிதியை பயன்படுத்தி நிர்மாணிக்கப்பட்டு திறந்து வைக்கப்பட்டது.
-
-◼️
-
-[Data](articles/7655955b.json)
 
 ---

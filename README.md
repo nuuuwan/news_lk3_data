@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 02:19:06**
+As of **2025-09-02 02:32:33**
 
 ## Newspaper Stats
 
-*Scraped **73,618** Articles*
+*Scraped **73,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,209
+dailyftlk | 5,210
 adalk | 7,094
 adaderanalk | 9,381
-tamilmirrorlk | 10,946
+tamilmirrorlk | 10,947
 virakesarilk | 12,053
 adaderanasinhalalk | 12,781
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,618 articles have been extended.
+61,973 (84.2%) of 73,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### ’மஹிந்தவை சிறையில் அடைக்க வேண்டும்’
+
+*2025-09-02 02:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சிறையில்-அடைக்க-வேண்டும்/175-363882) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை 400 ஆண்டுகள் சிறையில் அடைக்க வேண்டும் என்று பீல்ட் மார்ஷல் சரத் பொன்சேகா தெரிவித்துள்ளார்.
+
+நிகழ்வொன்றில் உரையாற்றிய அவர், ராஜபக்சவின் 2010 ஆட்சிக் காலத்திலேயே கடுமையான ஊழல்கள் இடம்பெற்றதாக குறிப்பிட்டுள்ளார்
+
+முன்னாள் இராணுவத் தளபதி சரத் பொன்சேகா அடுத்தடுத்து வந்த இலங்கைத் தலைவர்களையும் விமர்சித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் நடவடிக்கைகளையும் சரத் பொன்சேகா விமர்சித்துள்ளார். அவருடைய கைது விடயத்தில் நடப்பு அரசாங்கம் மேற்கொண்ட முன்னுதாரணத்தை தாம் ஏற்றுக்கொள்வதாக பொன்சேகா கூறியுள்ளார்.
+
+அந்த முன்னுதாரணத்தின் அடிப்படையில், ராஜபக்ஷ போன்ற ஒருவருக்கு சுமார் 400 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட வேண்டும் என்று சரத் பொன்சேகா வலியுறுத்தியுள்ளார்.  (a)
+
+◼️
+
+[Data](articles/d2a5973d.json)
+
+---
+
+### LYNEAR: Redefining wealth management through independence and discipline
+
+*2025-09-02 01:58:32* · [`dailyftlk`](https://www.ft.lk/business/LYNEAR-Redefining-wealth-management-through-independence-and-discipline/34-781093) · `en`
+
+LYNEAR Wealth Management Co-Founder and Chief Executive Officer Sanjay Kulatunga
+
+In complex and often unpredictable capital markets, wealth preservation and capital accumulation demand rigour, discipline, and a principled approach anchored in long-term strategy, robust governance, and above all, independence.
+
+LYNEAR Wealth Management has exemplified these principles in one of the most volatile economic environments in post-independent Sri Lanka. Founded 13 years ago, LYNEAR has grown to manage over $ 250 million in client assets, serving high-net-worth individuals, ultra-high-net-worth families, and institutions. At the heart of this success is a distinctive commitment to independence; a strategic choice that has positioned LYNEAR as a trusted fiduciary, unencumbered by the structural conflicts of interest that pervade much of the traditional financial services landscape in Sri Lanka.
+
+...
+
+[Data](articles/4b139c93.json)
+
+---
 
 ### Eminent line-up to open SLEIS 2025 with focus on stability, growth
 
@@ -1703,37 +1739,5 @@ This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J
 ◼️
 
 [Data](articles/da2285b4.json)
-
----
-
-### මෙයා ගැන දන්නවනම් පොලීසියට කියන්න
-
-*2025-09-01 15:30:18* · [`adalk`](https://www.ada.lk/breaking_news/මෙයා-ගැන-දන්නවනම්-පොලීසියට-කියන්න/11-418200) · `si`
-
-රට රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 30කට අධික මුදලක් වංචා කිරීම සම්බන්ධයෙන් කාන්තාවන් පස්දෙනෙක් විසින් රක්වාන පොලිස් ස්ථානයට සිදුකරන ලද පැමිණිලිවලට අනුව රක්වාන පොලිස් ස්ථානය මගින් විමර්ශන ආරම්භ කර ඇත.
-
-මෙම සැකකාරිය මේ වන විට පදිංචි  ලිපිනය හැර ගොස් සැඟව සිටින බවට තොරතුරු අණාවරණය වි අඇති අතර සැකකාරිය අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහය ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/ef662436.json)
-
----
-
-### “There is no longer a threat of war in the country” - President Anura Kumara
-
-*2025-09-01 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112067/there-is-no-longer-a-threat-of-war-in-the-country-president-anura-kumara-) · `en`
-
-There is no longer a threat of war in the country, President Anura Kumara Dissanayake has stated while attending an event in Jaffna.
-
-President Dissanayake made this statement while attending the launch of the third phase of the Myliddy Fisheries Harbour Development Project in Jaffna this morning (01).
-
-The symbolic inauguration of the third phase of the Myliddy Fisheries Harbour Development Project took place by the President.
-
-Under this initiative, it is planned to provide essential facilities such as water, electricity, fuel, cold storage, net-mending centers, auction halls, and radio communication centers not only for the fishing communities in the Northern Province but also for fishing vessels arriving from the Eastern and Southern Provinces. The government has allocated Rs. 298 million for this purpose in this year’s budget.
-
-...
-
-[Data](articles/610f37b3.json)
 
 ---

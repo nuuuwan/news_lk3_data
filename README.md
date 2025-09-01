@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 02:07:53**
+As of **2025-09-02 02:19:06**
 
 ## Newspaper Stats
 
-*Scraped **73,617** Articles*
+*Scraped **73,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 5,209
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
-virakesarilk | 12,052
+virakesarilk | 12,053
 adaderanasinhalalk | 12,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,617 articles have been extended.
+61,973 (84.2%) of 73,618 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -201,6 +201,20 @@ In 2024, the State Pharmaceutical Corporation (SPC) rejected several bids of the
 ---
 
 ### 2025-09-01 (Monday)
+
+### வவுனியா, பட்டானிச்சூரில் விபத்து - மூவர் படுகாயம்
+
+*2025-09-01 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/223978) · `ta`
+
+வவுனியா பட்டானிச்சூரில் திங்கட்கிழமை (01) இடம்பெற்ற விபத்தில் இரு பெண்கள் உட்பட மூவர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வவுனியாவில் இருந்து பயணித்த இரு மோட்டார் சைக்கிள்களின் மீது பின்னே வந்த பட்டா ரக வாகனம் மோதியே குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/3dd553f1.json)
+
+---
 
 ### வெளிநாடுகளில் தொழில் செய்துவருபவர்களின் பிள்ளைகளுக்கு புலமைப்பரிசில்
 
@@ -1721,23 +1735,5 @@ Under this initiative, it is planned to provide essential facilities such as wat
 ...
 
 [Data](articles/610f37b3.json)
-
----
-
-### SC grants leave to proceed with FR against ex-President Ranil and others regarding Eppawala phosphate deposit
-
-*2025-09-01 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112066/sc-grants-leave-to-proceed-with-fr-against-ex-president-ranil-and-others-regarding-eppawala-phosphate-deposit) · `en`
-
-The Supreme Court today (01) granted leave to proceed with a fundamental rights petition filed against former President Ranil Wickremesinghe, several former cabinet ministers, and other respondents.
-
-The petition alleges that during the tenure of the previous government, stocks of phosphate from the Eppawala deposit were released for export at prices significantly lower than the standard market rate to several companies allegedly linked to those in power, thereby violating fundamental human rights.
-
-A total of 32 respondents including former President Ranil Wickremesinghe, former Cabinet Ministers, the Geological Survey and Mines Bureau (GSMB), the Director General of the GSMB and the Attorney General have been named in the petition.
-
-The petition was considered today before a three-judge bench of the Supreme Court comprising Justices Janak de Silva, Priyantha Fernando, and Sampath Abeykoon.
-
-...
-
-[Data](articles/306f6be8.json)
 
 ---

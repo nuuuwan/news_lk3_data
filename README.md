@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-01 09:32:27**
+As of **2025-09-01 09:56:38**
 
 ## Newspaper Stats
 
-*Scraped **73,423** Articles*
+*Scraped **73,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ economynextcom | 4,472
 islandlk | 4,523
 dailymirrorlk | 4,733
 dailyftlk | 5,198
-adalk | 7,068
+adalk | 7,069
 adaderanalk | 9,344
-tamilmirrorlk | 10,900
+tamilmirrorlk | 10,904
 virakesarilk | 12,030
-adaderanasinhalalk | 12,745
+adaderanasinhalalk | 12,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.4%) of 73,423 articles have been extended.
+61,973 (84.4%) of 73,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-01 (Monday)
+
+### ஒரே வீட்டுக்குள் இரண்டு சடலங்கள் மீட்பு
+
+*2025-09-01 09:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஒரே-வீட்டுக்குள்-இரண்டு-சடலங்கள்-மீட்பு/76-363820) · `ta`
+
+பசறை தஹா கனாவா பகுதியில் உள்ள ஒரு வீட்டிற்குள் இரண்டு இளைஞர்களின் இரண்டு உடல்கள் கண்டெடுக்கப்பட்டதாக பசறை பொலிஸார் தெரிவித்துள்ளனர்.
+
+பசறை தஹா கனாவா பகுதியில் உள்ள ஒரு வீட்டில் இரண்டு உடல்கள் இருப்பதாக அவசர ஆம்புலன்ஸ் சேவைக்கு கிடைத்த தகவலின் அடிப்படையில் நடத்தப்பட்ட விசாரணையின் போது இரண்டு உடல்களும் மீட்கப்பட்டுள்ளதாக பொலிஸார்.
+
+ஒரே வீட்டில் இரண்டு உடல்கள் கண்டெடுக்கப்பட்ட சம்பவம் குறித்து பொலிஸார் விரிவான விசாரணையை தொடங்கியுள்ளனர்.
+
+◼️
+
+[Data](articles/185c8bd4.json)
+
+---
+
+### செம்மனி
+
+*2025-09-01 09:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/செம்மனி/62-363819) · `ta`
+
+◼️
+
+[Data](articles/50c06110.json)
+
+---
+
+### இனிய பாரதியின் இரு சகாக்கள் அங்கும் இங்கும் கைது
+
+*2025-09-01 09:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிய-பாரதியின்-இரு-சகாக்கள்-அங்கும்-இங்கும்-கைது/175-363818) · `ta`
+
+இனிய பாரதியின் சகாவான கல்முனையைச் சோந்த டிலக்ஷன்  சனிக்கிழமை (30) கைது செய்யப்பட்டுள்ளதுடன் காரைதீவைச் சேர்ந்த இன்னொரு சகாவான வன்னியசிங்கம் பரமேஸ்வரன் வெளிநாட்டிற்கு தப்பிச் செல்ல முயன்ற நிலையில் கட்டுநாயக்க விமான நிலையத்தில் வைத்து  கடந்த இரு வாரங்களுக்கு முன்னர் கைது செய்யப்பட்டுள்ளார்.
+
+ரி.எம்.வி.பி கட்சியைச் சேர்ந்த இனியபாரதி என அழைக்கப்படும் கிழக்கு மாகாண சபை முன்னாள் உறுப்பினரும் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் ஒருங்கிணைப்பாளருமான கே. புஷ்பகுமார் மற்றும் அவரது சகாவான சசீந்திரன் தவசீலன் ஆகியோரை 2007-6-28 ம் திகதி திருக்கோவில் பிரதேச சபையின் முன்னாள் தவிசாளர் உதயகுமார் படுகொலை தொடர்பாக படுகொலை செய்யப்பட்ட பிரதேச சபை தவிசாளரின் மனைவி சிஐடியிடம் முறைப்பாடு செய்திருந்தார்
+
+இதையடுத்து சந்தேகத்தின் அடிப்படையில் கடந்த ஜூலை 6ம் திகதி திருக்கோவில் வைத்து இனிய பாரதியும் அவரது சகாவான மட்டு. சந்திவெளியைச் சேர்ந்த சசிதரன் தவசீலன் என்பவரை சந்திவெளியில் வைத்து சிஐடியினர் கைது செய்தனர்.
+
+...
+
+[Data](articles/09c6085d.json)
+
+---
+
+### சிறுமிகள் பாலியல் துஷ்பிரயோகம்: இருவர் கர்ப்பம்; சிறுவர்கள் கைது
+
+*2025-09-01 09:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிகள்-பாலியல்-துஷ்பிரயோகம்-இருவர்-கர்ப்பம்-சிறுவர்கள்-கைது/175-363817) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தில் இரு பொலிஸ் பிரிவிலுள்ள பிரதேசங்களில் ஒரு வாரத்தில் 3 சிறுமிகள் மீது பாலியல் துஷ்பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதுடன் 13¸17 வயதுகளுடைய இரு சிறுமிகள்  கர்ப்பம் தரித்துள்ளதாகவும் இரு சிறுவர்களை கைது செய்துள்ளதாகவும் அந்தந்த பொலிஸ் நிலைய பொலிஸார் தெரிவித்தனர்.
+
+மாவட்டத்திலுள்ள ஒரு பொலிஸ் பிரிவிலுள்ள பிரதேசம் ஒன்றில் சில தினங்களுக்கு முன்னர் வாந்தியெடுத்த 17 வயது சிறுமி ஒருவரை வைத்தியசாலையில் அனுமதித்த போது அவர் 3 மாத கர்ப்பிணியாக இருப்பதை வைத்தியர்கள் கண்டறிந்தனர்.
+
+இது தொடர்பாக பொலிஸார் விசாரணைகளை மேற்கொண்ட போது, குறித்த சிறுமியின் தாயார் தந்தை மீன்பிடி தொழிலுக்காக கடற்கரை பகுதியில் மீன் வாடியில் இருந்து வருவதாகவும் வீட்டில் குறித்த சிறுமியும் அவரது சகோதரரும்; தங்கியிருந்து வருவதாகவும்.
+
+...
+
+[Data](articles/e31fa608.json)
+
+---
+
+### මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයින් තිදෙනෙකු මරුට
+
+*2025-09-01 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214022) · `si`
+
+මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්වූ බව පොලීසිය පවසයි.
+
+ඒ අනුව ඇඹිලිපිටිය පොලිස් වසමේ ඇඹිලිපිටිය මොරකැටිය මාර්ගයේ 09 ඇල ප්‍රදේශයේදී මොරකැටිය දෙස සිට ඇඹිලිපිටිය දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් රියදුරුට පාලනය කර ගත නොහැකිව ඉදිරියෙන් පැමිණි යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ ත්‍රී රෝද රථ රියදුරු සහ ඔහුගේ බිරිඳ සහ යතුරුපැදිකරු මෙන්ම පසුපැදිකාරිය ප්‍රතිකාර සඳහා ඇඹිලිපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු ත්‍රී රෝද රථ රියදුරු මියගොස් ඇත.
+
+එමෙන්ම හික්කඩුව පොලිස් වසමේ ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ පන්නම්ගොඩ ප්‍රදේශයේදී හික්කඩුව දෙස සිට ගාල්ල දෙසට ධාවනය වූ ලොරි රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු හා පසුපැදිකරු ආරච්චිකට්ටුව රෝහලට ඇතුළත් කිරීමෙන් පසු යතුරුපදිකරු ජීවිතක්ෂයට පත්ව ඇත.
+
+තවද නොච්චියාගම පොලිස් වසමේ පුත්තලම ත්‍රිකුණාමලය මාර්ගයේ පනන්කානිය හන්දිය ප්‍රදේශයේදී පුත්තලම දෙස සිට අනුරාධපුර දෙසට ධාවනය වූ මෝටර් රථයක මාර්ගය හරහා ගමන් ගත් කාන්තාවක් ගැටී අනතුරක් සිදුව ඇත.
+
+...
+
+[Data](articles/10b4d0b5.json)
+
+---
 
 ### සමන් ඒකනායකට අද CIDයට නොපැමිණෙන ලෙස දන්වයි
 
@@ -149,6 +229,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/47cd2931.json)
+
+---
+
+### හමාස් සංවිධානයේ ප්‍රකාශක මරුට
+
+*2025-09-01 07:55:14* · [`adalk`](https://www.ada.lk/international/හමාස්-සංවිධානයේ-ප්‍රකාශක-මරුට/3-418184) · `si`
+
+හමාස් සන්නද්ධ අංශයේ ප්‍රකාශක අබු ඔබෙයිඩා ඊශ්‍රායෙලය විසින් ගාසා නගරයේ නිශ්චිත ඉලක්කයකට එල්ල  කළ ගුවන් ප්‍රහාරයකින්  මිය ගොස් ඇති බව ඊශ්‍රායලය පවසයි.
+
+කෙසේ වෙතත් හමාස් සංවිධානය මෙම මරණය තහවුරු කර නැත. දිස්ත්‍රික්කයේ නේවාසික ගොඩනැගිල්ලකට ඊශ්‍රායලය එල්ල කළ ගුවන් ප්‍රහාරවලින් සිවිල් වැසියන්  කිහිප දෙනෙක් මිය ගොස් ඇති බව  හමාස් සංවිධානය පවසයි.
+
+ගාසා නගරයේ ජනාකීර්ණ අල්-රිමාල් අසල්වැසි ප්‍රදේශයට එල්ල වූ ප්‍රහාරවලින් අවම වශයෙන් පුද්ගලයින්  හත් දෙනෙකු මිය ගොස් 20 දෙනෙකු තුවාල ලබා ඇති බවත්, තුවාල ලැබූවන් අතර ළමුන් සිටින බවත්  ප්‍රාදේශීය මාධ්‍යවේදීන් වාර්තා කරයි.
+
+◼️
+
+[Data](articles/429f4274.json)
 
 ---
 
@@ -1769,123 +1865,5 @@ In Tel Aviv, crowds of protesters demanded that the government pursue a ceasefir
 ...
 
 [Data](articles/c3e14435.json)
-
----
-
-### පින්නවල නිවුන් අලි පැටව් සිව්වැනි ‍ උපන්දිනය සමරයි
-
-*2025-08-31 15:01:04* · [`adalk`](https://www.ada.lk/picture_story/පින්නවල-නිවුන්-අලි-පැටව්-සිව්වැනි-‍ උපන්දිනය-සමරයි/10-418177) · `si`
-
-පින්නවල අලි අනාථාගාරයේ උපත ලැබූ නිවුන් අලි පැටවුන් දෙදෙනා සිය හතරවන උපන් දිනය අද (31) සමරනු ලැබීය.
-
-2021 වසරේ අගෝස්තු මස 31 දින පින්නවල අලි අනාථාගාරයේ  පණ්ඩුල අලියාට දාව  සුරංගි නැමති කෙනර විසින් මෙම නිවුන්  අලි පැටවුන්  බිහි කරන ලදි.
-
-මෙම අලි පැටවුන් දෙදෙනාම පිරිමි පැටවුන් වන අතර, ඔවුන්ට “දිසා” සහ “සජ්ජන” ලෙස නම් තබා තිබේ.
-
-මෙය ශ්‍රී ලාංකේය  ඉතිහාසයේ පළමු අර්ධ ගෘහස්ථ නිවුන් අලි උපත ලෙස ඉතිහාස ගතව ඇති අතර, වසර හතරක් වන මෙම අලි පැටවුන් දෙදෙනා මේ වනවිට ඉතාමත් නිරෝගී සෞඛ්‍ය සම්පන්න ලෙස කෙළිදෙළෙන් පසු වමින් සිටින බව පින්නවල අලි අනාථාගාරය සඳහන් කරයි.
-
-◼️
-
-[Data](articles/c659c9e5.json)
-
----
-
-### දිස්ත්‍රික්ක කිහිපයකට ගිගුරුම් සහිත වැසි
-
-*2025-08-31 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/213993) · `si`
-
-සබරගමුව පළාතේ මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකියි.
-
-එමෙන්ම මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු - මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් පැ.කි.මී. (40-50)ක පමණ තද සුළං ඇති විය හැකි බව වාර්තා වේ.
-
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහලින් පවතින බවද එම නිවේදනයේ දැක්වේ.
-
-ඒ අනුව හෙට දිනයේ (01) දහවල් 12:10ට මුදලෛපලයි, බලගොල්ලාගම, රාජාංගනය, එප්පාවල, මැදිරිගිරිය, පල්ලිත්තිඩාල්, වාකරේ ප්‍රදේශවලට හිරු මුදුන්ව පවතියි.
-
-◼️
-
-[Data](articles/ea2bcf8b.json)
-
----
-
-### ’இரத்த நிலவை’ இலங்கையர்கள் காணலாம்
-
-*2025-08-31 14:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்த-நிலவை-இலங்கையர்கள்-காணலாம்/175-363790) · `ta`
-
-வானியல் ஆர்வலர்கள் எதிர்பார்த்துக் காத்திருக்கும் அரிய நிகழ்வு, 'ஃப்ளட் மூன்'. 2025 செப்டம்பர் 7 அன்று நிகழும் மொத்த சந்திர கிரகணத்தால் நிலவு ஆழ்ந்த சிவப்பு நிறத்தில் காட்சியளிக்கும்.
-
-2025 செப்டம்பர் 7 மற்றும் 8ஆம் திகதிகளில், வானில் கண்கவர் நிகழ்வாக, நிலவு ஆழ்ந்த ரத்தச் சிவப்பு நிறத்தில் காட்சியளிக்க உள்ளது. இது, ஃப்ளட் மூன் என அழைக்கப்படும் முழுமையான சந்திர கிரகண நிகழ்வு.
-
-முழு சந்திர கிரகணம் நிகழும்போது, பூமி சரியாகச் சூரியனுக்கும் முழு நிலவுக்கும் இடையே வரும். இதனால், பூமியின் இருண்ட நிழல் (umbra) நிலவின் மீது முழுமையாகப் படர்ந்துவிடும். சூரிய கிரகணத்தைப் போல நிலவு முற்றிலும் இருண்டு போகாது. மாறாக, பூமியின் வளிமண்டலம் வழியாகச் சூரிய ஒளி வளைந்து செல்வதால், நிலவு சிவந்த நிறத்தில் ஒளிரும். இந்தச் சிவந்த நிறத்திற்குப் பின்னால் 'ரேலே சிதறல்' (Rayleigh scattering) என்ற அறிவியல் நிகழ்வு உள்ளது. சூரியன் உதயமாகும்போதும், அஸ்தமிக்கும்போதும் வானம் சிவப்பு மற்றும் ஆரஞ்சு நிறங்களில் தோன்றுவதற்கும் இதுவே காரணம்.
-
-...
-
-[Data](articles/e8b9b9e8.json)
-
----
-
-### Individual arrested over this morning’s Wennappuwa shooting
-
-*2025-08-31 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112032/individual-arrested-over-this-mornings-wennappuwa-shooting-) · `en`
-
-An individual has been arrested over a shooting incident reported in Wennappuwa earlier today (31), police stated.
-
-According to police, a firearm and the car used to commit the crime have also been taken into custody.
-
-The shooting incident was reported along the Lake road, adjacent to the Wennappuwa Police Station, at around 10:30 a.m. today.
-
-Police stated that a group of individuals arrived in a car and rammed the vehicle onto a motorcycle. The attackers then assaulted the motorcyclists with a sharp weapon and opened fire at them.
-
-One of the motorcyclists was injured and managed to flee the scene, while the other sustained gunshot injuries and succumbed on the spot.
-
-The deceased was returning from the Wennappuwa Police Station, as he was required to report to the station on a monthly basis in relation to an ongoing High Court case.
-
-Police stated that the shooting was carried out using a revolver-type firearm.
-
-...
-
-[Data](articles/194c37e5.json)
-
----
-
-### Greta Thunberg embarks on second flotilla to Gaza
-
-*2025-08-31 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112031/greta-thunberg-embarks-on-second-flotilla-to-gaza) · `en`
-
-Greta Thunberg has rejected accusations of antisemitism as she embarks on her second flotilla to Gaza.
-
-The 22-year-old and other activists are setting sail on the largest flotilla to Gaza on Sunday, despite having been detained by Israeli forces and deported when they approached on a British-flagged yacht in June.
-
-Israel later accused the group of activists of being antisemitic - an accusation Thunberg told Sky News’ Europe correspondent Siobhan Robbins she rejects.
-
-“It is not antisemitic to say that we should not be bombing people, that one should not be living in occupation, that everyone should have the right to live in freedom and dignity, no matter who you are,” she said.
-
-Before the dozens of boats carrying aid embarks from Spain, the activists called on governments to pressure Israel to allow their flotilla through the naval blockade.
-
-...
-
-[Data](articles/31d3dcee.json)
-
----
-
-### Greta Thunberg embarks on second flotilla to Gaza
-
-*2025-08-31 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112031/greta-thunberg-rejects-accusations-of-antisemitism-as-she-embarks-on-second-flotilla-to-gaza) · `en`
-
-Greta Thunberg has rejected accusations of antisemitism as she embarks on her second flotilla to Gaza.
-
-The 22-year-old and other activists are setting sail on the largest flotilla to Gaza on Sunday, despite having been detained by Israeli forces and deported when they approached on a British-flagged yacht in June.
-
-Israel later accused the group of activists of being antisemitic - an accusation Thunberg told Sky News’ Europe correspondent Siobhan Robbins she rejects.
-
-“It is not antisemitic to say that we should not be bombing people, that one should not be living in occupation, that everyone should have the right to live in freedom and dignity, no matter who you are,” she said.
-
-Before the dozens of boats carrying aid embarks from Spain, the activists called on governments to pressure Israel to allow their flotilla through the naval blockade.
-
-...
-
-[Data](articles/db8b7fcd.json)
 
 ---

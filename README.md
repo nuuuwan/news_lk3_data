@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 04:19:47**
+As of **2025-09-02 04:32:12**
 
 ## Newspaper Stats
 
-*Scraped **73,622** Articles*
+*Scraped **73,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,148 @@ colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,212
+dailyftlk | 5,218
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,947
-virakesarilk | 12,053
+virakesarilk | 12,055
 adaderanasinhalalk | 12,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,622 articles have been extended.
+61,973 (84.2%) of 73,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Ranil expresses gratitude following release from remand
+
+*2025-09-02 03:49:19* · [`dailyftlk`](https://www.ft.lk/news/Ranil-expresses-gratitude-following-release-from-remand/56-781130) · `en`
+
+Former President Ranil Wickremesinghe yesterday extended his gratitude to all those who supported him from the time of his arrest, marking his first public statement since being taken into custody.
+
+In a special video message released to the media, Wickremesinghe conveyed appreciation to the many individuals and groups who had expressed solidarity, both online and offline, during his arrest.
+
+“I am thankful to everyone who stood by me from the moment I was taken into custody. I intend to meet with all those who supported me soon. Thank you all again,” he said.
+
+The former President was arrested and remanded on 22 August in connection with allegations of misusing Rs. 166 million in public funds during a September 2023 visit to London, which coincided with a ceremony at a British university attended by his wife.
+
+...
+
+[Data](articles/3b910abf.json)
+
+---
+
+### Foreign Minister Herath welcomes Xi’s global initiatives at SCO Plus
+
+*2025-09-02 03:47:11* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Herath-welcomes-Xi-s-global-initiatives-at-SCO-Plus/56-781129) · `en`
+
+China and Russia push for new global order at Shanghai Cooperation Organisation meeting
+
+Foreign Minister Vijitha Herath yesterday expressed support for a series of initiatives proposed by Chinese President Xi Jinping at the Shanghai Cooperation Organisation (SCO) Plus meeting in Tianjin.
+
+In a post on ‘X,’ Herath stated that he had taken note positively of the Global Development, Security and Civilisation Initiatives, as well as the Global Governance Initiative. He said the proposals were grounded in the principles of sovereign equality, rule of law, multilateralism, people-centred development, and action-oriented cooperation.
+
+President Xi and Russian President Vladimir Putin used a security forum yesterday to set out their vision for reshaping the global order, Reuters reported.
+
+...
+
+[Data](articles/5fa1b856.json)
+
+---
+
+### Committee appointed to improve food safety in Parliament
+
+*2025-09-02 03:45:30* · [`dailyftlk`](https://www.ft.lk/news/Committee-appointed-to-improve-food-safety-in-Parliament/56-781128) · `en`
+
+The Parliament Secretariat yesterday said that the House Committee, chaired by Speaker Dr. Jagath Wickramaratne, has decided to appoint a special committee to present proposals to enhance the safety of food and beverages in Parliament.
+
+At the request of the Speaker, a team of Public Health Inspectors (PHIs), led by the Medical Officer of Health, Battaramulla, conducted inspections last April of the kitchens and other locations within the Parliamentary premises related to the preparation of food and beverages. Accordingly, the PHIs submitted to the House Committee a detailed report inclusive of their observations.
+
+...
+
+[Data](articles/f4902b97.json)
+
+---
+
+### Milinda Moragoda calls on Indian Finance Minister
+
+*2025-09-02 03:44:22* · [`dailyftlk`](https://www.ft.lk/news/Milinda-Moragoda-calls-on-Indian-Finance-Minister/56-781127) · `en`
+
+As part of his ongoing engagement with Indian leaders and policymakers, Pathfinder Foundation Founder Milinda Moragoda met with Indian Finance Minister Smt. Nirmala Sitharaman in New Delhi yesterday. The meeting focused on the turbulence and disruptions currently affecting the international economy and their implications for South Asia.
+
+During the discussion, Moragoda conveyed his appreciation of the leadership role being played by Prime Minister Narendra Modi and Finance Minister Sitharaman in stabilising the Indian economy amidst these global challenges, which also contributes positively to regional stability and growth.
+
+◼️
+
+[Data](articles/640cebd6.json)
+
+---
+
+### Govt. launches ‘Seiri Week’ to boost efficiency in public service
+
+*2025-09-02 03:43:08* · [`dailyftlk`](https://www.ft.lk/news/Govt-launches-Seiri-Week-to-boost-efficiency-in-public-service/56-781126) · `en`
+
+The Government yesterday announced the launch of a special program titled ‘Seiri Week’ under the national initiative ‘Clean Sri Lanka.’  Scheduled to take place from 1 to 4 September, the program will be implemented across all State institutions with the aim of improving efficiency, productivity, and workplace organisation in the public service.
+
+The core objective of the initiative is to foster a peaceful, safe, and well-organised environment for public officials, the President’s Media Division said. Seiri, one of the five internationally recognised productivity principles, emphasises identifying what is necessary while eliminating what is unnecessary. In line with this, the week-long program will focus on removing unused items from Government institutions and maximising the use of limited space.
+
+...
+
+[Data](articles/a4791f25.json)
+
+---
+
+### NMSJ commends Election Commission on party registration policy
+
+*2025-09-02 03:42:45* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-commends-Election-Commission-on-party-registration-policy/56-781125) · `en`
+
+The National Movement for Social Justice (NMSJ) in a statement yesterday welcomed the stance of the Election Commission against registering new political parties based on ethnicity or religion.
+
+In a statement, the Movement said that political parties seeking to govern Sri Lanka should act on national policies and goals, rather than narrow ethnic or religious agendas. It noted that Sri Lanka’s post-independence history shows how communal politics has often undermined national aspirations, and warned against passing such divisions on to future generations.
+
+The NMSJ urged all stakeholders to support the Commission in ensuring that parties reflect inclusive national interests, calling the decision an important step for the country’s long-term unity and stability.
+
+◼️
+
+[Data](articles/4aa19594.json)
+
+---
+
+### ஜனாதிபதியினால் திறந்துவைக்கும் திறப்புவிழா கற்களில் நிதி தொடர்பான வெளிப்படைத்தன்மை இல்லை - வலி கிழக்கு தவிசாளர் நிரோஷ்
+
+*2025-09-02 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/223980) · `ta`
+
+ஜனாதிபதியினால் யாழில் மேற்கொள்ளப்பட்ட அபிவிருத்தி நடவடிக்கைகளுக்கான திறப்புவிழா கற்களில் நல்லாட்சிக்கு அவசியமான வெளிப்படைத்தன்மையும் தகவல் அறிவதற்கான சுதந்திரமும் மீறப்பட்டுள்ளது. ஆகவே அக் கற்கலில் காணப்படும் தவறுகள் உரியவாறு மறுசீரமைக்கப்படுவது மக்களின் தகவல் அறிந்து கொள்வதற்கான உரிமையினை உறுதிப்படுத்தும் என்பதுடன் அரச நிதி செலவிடப்படுவதன் வெளிப்படைத் தன்மையினையும் அதிகாரிக்கும் என வலிகாமம் கிழக்கு பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஷ் தெரிவித்தார்.
+
+1ஆம் திகதி திங்கட்கிழமை யாழிக்கு விஜயம் செய்த ஜனாதிபதி கடவுச்சீட்டு அலுவலகம் மற்றும் விளையாட்டுத்திடல்இ துறைமுகம் என்பவற்றின் ஆரம்பப் பணிகளை மேற்கொண்டார். அவரினால் கடந்த ஆட்சியாளர்களைப் போல் ஆரம்ப நிகழ்வுகளுக்கு பெரும் பணம் செலவிடப்படாமைஇ எளிமையான முறையில் மேற்படி நிகழ்வுகள் மேற்கொள்ளப்பட்டமையை நாம் வரவேற்கின்றோம். எனினும் நல்லாட்சித்தத்துவம் மீறப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b04284a2.json)
+
+---
+
+### மெதுவான பந்துவீச்சு காரணமாக இலங்கை அணிக்கு அபராதம்
+
+*2025-09-02 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/223979) · `ta`
+
+சிம்பாப்வேக்கு எதிரான இரண்டாவது ஒருநாள் போட்டியில் மெதுவாக பந்து வீசியதற்காக இலங்கை அணிக்கு அபராதம் விதிக்கப்பட்டுள்ளது.
+
+இலங்கை அணிக்கு அவர்களின் போட்டி கட்டணத்தில் 5% அபராதம் விதிக்கப்பட்டுள்ளது. குறிப்பாக, ஐசிசி போட்டி நடுவர் ஜெஃப் குரோவ் ஒதுக்கப்பட்ட நேரத்தை விட ஒரு ஓவர் குறைவாக பந்து வீசியதற்காக அபராதம் விதித்துள்ளார்.
+
+இலங்கை கிரிக்கெட் அணித் தலைவர் சரித் அசலங்க, குற்றச்சாட்டை ஒப்புக்கொண்டதுடன், முன்மொழியப்பட்ட தண்டனையையும் ஏற்றுக்கொண்டார். இதனால் மேலதிக விசாரணை தேவையில்லை என சர்வதேச கிரிக்கெட் பேரவை (ICC) அறிவித்துள்ளது.
+
+இதற்கு முன்னர், சிம்பாப்வே அணிக்கு எதிரான முதலாவது ஒருநாள் போட்டியில் மெதுவாக பந்து வீசியதற்காக இலங்கை அணிக்கு போட்டிக் கட்டணத்தில் 5 சதவீத அபராதம் விதித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d9a0c9f6.json)
+
+---
 
 ### Central Industries appoints new Chairman, Non-Executive Directors
 
@@ -1587,157 +1713,5 @@ Police accordingly request motorists using the road to seek alternative routes. 
 ◼️
 
 [Data](articles/045c9973.json)
-
----
-
-### நிலநடுக்கத்தால் ஆப்கானிஸ்தானில் நிர்மூலமான பல கிராமங்கள் : உயிரிழப்பு 800 ஆக அதிகரிப்பு !
-
-*2025-09-01 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223942) · `ta`
-
-கிழக்கு ஆப்கானிஸ்தானில் ஏற்பட்ட நிலநடுக்கத்தினால் பல கிராமங்கள் அழிவடைந்துள்ளதுடன், உயிரிழந்தோரின் எண்ணிக்கை சுமார் 800 ஆக அதிகரித்துள்ளது.
-
-அதேநேரம் குறித்த அனர்த்தத்தில் சிக்குண்டு 2 ஆயிரத்து 800 க்கும் மேற்பட்டோர் காயமடைந்துள்ளனர்.
-
-மேலும், குறித்த அனர்த்தத்தில் சிக்கி காணாமல் போனவர்களை தேடும் பணிகள் முன்னெடுக்கப்பட்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
-
-அமெரிக்க புவியியல் ஆய்வு மையத்தின் தகவலின்படி, கிழக்கு ஆப்கானிஸ்தானில 6.0 மெக்னிடியூட் அளவிலான நிலநடுக்கம் பதிவானதை தொடர்ந்து, அதன் அண்டை நகரான நங்கஹார் (Nangarhar) மாகாணத்திலுள்ள ஜலலாபாத்( Jalalabad) நகருக்கு அருகே குனர் (Kunar) மாகாணத்திலுள்ள சில நகரங்களைத் தாக்கியது.
-
-நங்கஹார் மாகாணத்தில் உள்ள ஜலலாபாத் நகரிலிருந்து 27 கிலோமீற்றர் தொலைவில், குறித்த நிலநடுக்கம் மையம் கொண்டிருந்ததாக அமெரிக்க புவியியல் ஆய்வு நிலையம் தெரிவித்துள்ளது.
-
-இடிந்து விழுந்த கட்டிடங்களுக்குள்ளிருந்து காயமடைந்தவர்களை மீட்கும் நடவடிக்கைகளில் மீட்புப் பணியாளர்கள் ஈடுபட்டு வருகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/e102e683.json)
-
----
-
-### இவ்விருவரையும் உங்களுக்குத் தெரியுமா?
-
-*2025-09-01 16:06:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்விருவரையும்-உங்களுக்குத்-தெரியுமா/175-363862) · `ta`
-
-வெளிநாட்டில் வேலை வாங்கித் தருவதாகக் கூறி ஒரு பெண்ணிடம் ரூ. 3 மில்லியன் மோசடி செய்ததாகக் கூறப்படும் சந்தேக நபரான பெண்ணையும், கூர்மையான ஆயுதத்தால்  பெண்ணின் கழுத்தை அறுத்து கொலை செய்த சந்தேக நபரையும் கைது செய்ய பொலிஸ் தலைமையகம் பொதுமக்களின் உதவி கோருகிறது.
-
-சந்தேக நபர் தங்களிடம் ரூ. 3 மில்லியன் மோசடி செய்ததாக 5 பெண்கள் றக்வானை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டுக்கு அமைய றக்வானை பொலிஸார்  விசாரணைகளைத் தொடங்கியுள்ளது.
-
-அதன்படி, றக்வானை, பொதுப்பிட்டிய, கனடகம பகுதியைச் சேர்ந்த தலுகொட ஆராச்சிலகே ஹர்ஷனி பிரியந்திகா என்ற 40 வயதுடைய பெண்ணைப் பற்றிய தகவல் தெரிந்தவர்கள், றக்வானை பொலிஸ் நிலையத்தின் பொறுப்பதிகாரியை 071 859 1394 என்ற எண்ணில் தொடர்பு கொள்ளுமாறு பொலிஸ் தலைமையகம் கேட்டுக்கொள்கிறது.
-
-படத்தில் இருக்கும் ஆண், மத்துகம, டோலஹேனவத்தே பகுதியில் கூர்மையான ஆயுதத்தால் ஒரு பெண்ணின் கழுத்தை ஏப்ரல் 18 ஆம் திகதி அறுத்த குற்றத்திற்காக தேடப்படும் 41 வயதுடைய பிராமணகே டான் சனத் ரவீந்திர நிலந்த ஆவார் என்று பொலிஸார் தெரிவிக்கின்றனர்.
-
-...
-
-[Data](articles/57acc2eb.json)
-
----
-
-### කුරුණෑගල කතරගම ලංගම බස් රථය යළිත් අනතුරක
-
-*2025-09-01 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගල-කතරගම-ලංගම-බස්-රථය-යළිත්-අනතුරක/11-418202) · `si`
-
-කුරුණෑගල සිට (31) වෙනිදා රාත්‍රී 7.30 කතරගම දක්වා ධාවනය වූ කතරගම ඩිපෝවට අයත් අංක WPNC 0803 දරණ ලංගම බස් රථයක පිටුපස ලොරි රථයක් ගැටීමෙන් බස් රථයට බරපතළ හානි සිදුවී ඇත.
-
-මෙම බස් රථය 31 වෙනිදා රාත්‍රී 07.30 පමණ කුරුණෑගල බස් නැවතුම්පොළෙන් කතරගමට යාමට පිටත්වී තිබේ.
-
-සැප්තැම්බර් 01 අලුයම 05.00 පමණ බස් රථය ඇතිලිවැව සති පොළ අසලට ලඟාවී මාර්ගය අයිනේ නතර කර ඇත්තේ මගීන් කිහිප දෙනෙකුට බැසයාම සඳහාය.
-
-බස් රථයේ කොන්දොස්තර බස් රථයේ ඩිකියේ තිබූ බඩු පාර්සලයක් එය අයත් මගියෙකුට ලබාදීමට සූදානම් වන විට වැල්ලවාය දෙසින් වේගයෙන් පැමිණි ලොරි රථයක් එනවා දුටු ඔහු  එයින් බේරීම සඳහා දිව ගොස් ඇත.
-
-සහල් පටවා ගත් කන්ටේනර් සහිත ලොරි රථය එකවරම බස් රථයේ පිටුපස ගැටීමෙන් බස් රථයට බරපතළ හානි සිදුවී තිබේ.
-
-බස් රථයේ සිටි එක් මගියෙකුට සුළු සිරීම් තුවාල සිදුවී ඇත. බස් රථය සහ ලොරි රථය කුඩාඔය පොලිස් ස්ථානයට රැගෙන යාමෙන් පසුව මෝටර් රථ පරීක්ෂක වරයෙකු බස් රථය පරීක්ෂා කොට ඊට ලක්ෂ 13 පමණ අලාභ හානියක් සිදුවී ඇති බවට නිගමනය කර තිබේ.
-
-ඒ අනුව කල්මුණේ පදිංචි ලොරි රථයේ හිමිකරු අදාළ මුදල බස් රථය හිමි කතරගම ඩිපෝවට කුඩාඔය පොලිස් ස්ථානයේදීම ලබාදී ඇත.
-
-...
-
-[Data](articles/2f1c2319.json)
-
----
-
-### බොරැල්ලේ මාර්ගයක රථවාහන ගමනාගමනය සීමා කිරීමක්
-
-*2025-09-01 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214038) · `si`
-
-බොරැල්ල පොලිස් වසමේ දේවි බාලිකා වටරවුමේ සිට ඩී.එස්.සේනානායක හන්දිය දක්වා මාර්ගයේ කොළඹට ඇතුළු වීමේ මංතීරුවල අළුත්වැඩියා කටයුතු සඳහා අද (01) දින රාත්‍රී 07.00 සිට එම මංතීරුවල රථවාහන ගමනාගමනය සම්පූර්ණයෙන් සීමා කිරීමට නියමිතව ඇත.
-
-එම මංතීරු ඉරි තැලීමකට ලක්ව ගිලා බැසීම හේතුවෙන් මෙම ක්‍රියාමර්ග ගන්නා බව පොලිස් මාධ්‍ය කොට්ඨාසය දැනුම් දී තිබේ.
-
-◼️
-
-[Data](articles/da098150.json)
-
----
-
-### இந்திய மீனவர்கள் நால்வரின் விளக்கமறியல் நீடிப்பு
-
-*2025-09-01 15:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-நால்வரின்-விளக்கமறியல்-நீடிப்பு/175-363857) · `ta`
-
-எல்லை தாண்டி இலங்கையின் நெடுந்தீவு கடற்பரப்பிற்குள் உள்நுழைந்து மீன்பிடியில் ஈடுபட்ட மீனவர்கள் நால்வரின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
-
-குறித்த மீனவர்களுக்கான விளக்கமறியல் ஏற்கனவே இரண்டு தடவைகள் நீடிக்கப்பட்ட நிலையில் ஊர்காவற்துறை நீதிமன்றத்தில் அவர்களுக்கு எதிரான வழக்கு, இன்று (01) மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
-
-◼️
-
-[Data](articles/b1457ced.json)
-
----
-
-### මොරගහකන්දට යටවුණු ගම්මාන මතුවෙයි
-
-*2025-09-01 15:44:15* · [`adalk`](https://www.ada.lk/uncategorized/මොරගහකන්දට-යටවුණු-ගම්මාන-මතුවෙයි/1-418201) · `si`
-
-මහවැලි ව්‍යාපාරයේ අවසාන වාරි කර්මාන්තය බවට පත් වූයේ මොරගහකන්ද ජලාශ ව්‍යාපෘතියයි. මේ දිනවල පවතින වැසි රහිත කාලගුණික තත්ත්වය නිසාවෙන් මොරගහකන්ද ජලාශයේ ජලය සීඝ්‍රයෙන් පහත වැටෙමින් පවතී.
-
-ඒ අනුව මොරගහකන්ද ජලාශයට යටවුණු ගම්මාන රැසක් මේ වනවිට නැවතත් මතු වී ඇති අයුරු දැක ගැනීමට හැකි විය.
-
-මොරගහකන්ද  කළුගඟ ජලාශ සඳහා  ග්‍රාම සේවා වසම් හතක විශාල භූමියක් සම්පූර්ණයෙන්ම ජලයෙන් යටවී තිබිණි. මේ දිනවල පවතින ජලය අඩු වීම හේතුවෙන් හතේ කණුව,  කෝංගහවෙල ,කඹරව, මොරගොල්ල, ඇතුළු පැරණි ජනපද වල නටඹුන් මතුවී තිබේ.
-
-කෝංගහවෙල ප්‍රදේශයේ බුදුපිළිම සහ නිවාස ආදී බොහොමයක් සම්පූර්ණයෙන්ම ජලය බැස ගොස් දැකබලා ගැනීමට හැකි වී තිබේ . වසර කිහිපයකට පසුව ගම්බිම් ජනතාවට දැක බලා ගැනීමට හැකිවීම විශේෂත්වයකිිි
-
-ලංකා සිතියමෙන් සම්පූර්ණයෙන්  මැකී ගිය ගම්මාන මෙසේ නැවත වරක් දැකගැනීමට හැකිවීම ද මෙහි විශේෂත්වයකිි.
-
-ඡායාරූපවලින් දැක්වෙන්නේ මොරගහකන්ද ජලාශයට යට වුනු කෝංගහවෙල ප්‍රදේශයේ ගම්මානවල නටබුන් වෙයි
-
-◼️
-
-[Data](articles/bee6180c.json)
-
----
-
-### සැකකාරියක් අත්අඩංගුවට ගැනීමට මහජන සහාය පතයි
-
-*2025-09-01 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214037) · `si`
-
-අවශ්‍ය කරන සැකකාරියක් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය පතයි.
-
-පොලීසිය පවසන්නේ,  විදේශ රටක රැකියා ලබා දෙන බව පවසා රුපියල් ලක්ෂ 30කට අධික මුදලක් වංචා කිරීම සම්බන්ධයෙන් කාන්තාවන් පස්දෙනෙකු විසින් රක්වාන පොලිස් ස්ථානයට සිදුකරන ලද පැමිණිලිවලට අනුව මෙම නිවේදනය නිකුත් කර ඇති බවය.
-
-මෙම සැකකාරිය මේ වන විට පදිංචි ලිපිනය හැර ගොස් සැඟව සිටින බවට තොරතුරු අනාවරණය වී ඇති බව පොලීසිය පවසයි.
-
-සැකකාරියයගේ දළුගොඩ ආරච්චිලාගේ හර්ෂණි ප්‍රියන්තිකා වන අතර ඇය 40 හැවිරිදි කන්දගම, පොතුපිටිය පාර, රක්වාන ප්‍රදේශයේ පදිංචිකාරියකි.
-
-සැකකාරිය සම්බන්ධයෙන් යම් තොරතුරක් වෙතොත් පහත දුරකථන අංක වෙත දැනුම් දෙන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/2e945a97.json)
-
----
-
-### Sri Lanka tourist arrivals rise 20.4-pct in August
-
-*2025-09-01 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-rise-20-4-pct-in-august-238978/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals increased 20.4 percent from a year ago to 198,235 in August 2025, data from the island’s tourism promotion office showed.
-
-There were 46,473 visitors from India in July 2025, making up 23.4 percent of total arrivals, followed by the UK with 19,764 which made up 10 percent of arrivals.
-
-There were 12,500 visitors (6.3%) from Germany, 12,294 from China (6.2%), and 12,247 from Italy (6.2%).
-
-Visitors from other European countries included France 10,495 (5.3%) Spain 8,843 (4.5%) and the Netherlands 6,082 (3.1%) as the summer season progressed.
-
-◼️
-
-[Data](articles/a187a845.json)
 
 ---

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 01:32:50**
+As of **2025-09-02 01:50:09**
 
 ## Newspaper Stats
 
-*Scraped **73,612** Articles*
+*Scraped **73,614** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 621
 bbccomsinhala | 677
-colombotelegraphcom | 753
+colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,523
 dailymirrorlk | 4,733
-dailyftlk | 5,205
+dailyftlk | 5,206
 adalk | 7,094
 adaderanalk | 9,381
 tamilmirrorlk | 10,946
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,612 articles have been extended.
+61,973 (84.2%) of 73,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Brief history of Central Bank of Sri Lanka
+
+*2025-09-02 01:15:23* · [`dailyftlk`](https://www.ft.lk/columns/Brief-history-of-Central-Bank-of-Sri-Lanka/4-781085) · `en`
+
+On 28 August 1950, a very special type of bank was set up in Sri Lanka, with a simple ceremony. In the words of the first Governor of the Central Bank of Ceylon, John Exter, the simplicity of the ceremony was not intended to “belittle the importance of the occasion…” but to be celebrated a decade or two later, looking back at its achievements in raising the living standards of the people of the country. It signalled the country’s resolve to chart its own financial destiny, to stabilise its currency, and to foster growth through sound monetary policy. 75 years later, today..., we look back to explore its evolution and achievements, to assess if the high hopes and good intentions that prevailed in 1950 have borne fruit…
+
+...
+
+[Data](articles/7531b4eb.json)
+
+---
 
 ### Sri Lanka’s automobile market: Subliminal economic bubble?
 
@@ -431,6 +443,20 @@ The quake killed 812 people in the eastern provinces of Kunar and Nangarhar, adm
 ◼️
 
 [Data](articles/e11432e9.json)
+
+---
+
+### India’s Next Move: Strategy In Action
+
+*2025-09-01 20:01:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indias-next-move-strategy-in-action/) · `en`
+
+India, the world’s fastest-growing major economy, is navigating a crucial period of economic recalibration. With global trade tensions escalating, commodity prices fluctuating, and domestic structural transformations underway, the nation’s economic trajectory is tightly linked to the Reserve Bank of India’s (RBI) strategy. In 2025, the RBI’s priorities—price stability, financial resilience, and growth support—form the triad guiding India through this complex landscape.
+
+As the global economy grapples with slowing demand, trade conflicts, and financial volatility, India continues to stand out as a story of resilience. Retail inflation has fallen to historic lows, economic growth remains robust despite external headwinds, and monetary policy is carefully calibrated to support both stability and expansion.
+
+...
+
+[Data](articles/ded8e322.json)
 
 ---
 
@@ -1719,37 +1745,5 @@ Top contributors to the ASPI were Central Finance (up 6.75 rupees at 292.75), Di
 ...
 
 [Data](articles/12294676.json)
-
----
-
-### හැටන් පාසල් ළමුන් ප්‍රවාහනය වාහන කිහිපයක් ධාවනයෙන් ඉවතට
-
-*2025-09-01 15:14:04* · [`adalk`](https://www.ada.lk/breaking_news/හැටන්-පාසල්-ළමුන්-ප්‍රවාහනය-වාහන-කිහිපයක්-ධාවනයෙන්-ඉවතට/11-418198) · `si`
-
-හැටන් ප්‍රදේශයේ රජයෙ සහ ජාත්‍යන්තර පාසල් වලට පාසල් ළමුන් ප්‍රවාහනය කරන බස් රථ, වෑන්රථ, ත්‍රීරෝද රථ, නුවරඒලිය දිස්ත්‍රික් ප්‍රධාන මෝටර් රථ පරික්ෂක ජාලිය බණ්ඩාර මහතාගේ හදිසි පරික්ෂණයකට ලක් විය.
-
-හැටන් කොට්ටඨාශභාර පොලිස් අධිකාරි ප්‍රදීප් වීරසේකර මහතාගේ උපදෙස් පරිදි හැටන් පොලිසියේ රථවාහන අංශයේ නිළධාරින් විසින් මස්කෙළිය බගවන්තලාව ගිනිගත්හේන, තලවකැලේ, කොටගල යන ප්‍රදේශවල සිට හැටන් ප්‍රදේශයට පාසල් ළමුන් ප්‍රවාහනය කරන සිලුම වාහන හැටන් දුම්රිය ස්ථානය අසළට රැගෙන විත්, ඒහිදි ඒම වාහන පරික්ෂවට ලක් කෙරිණ.
-
-වාහන පරික්ෂා කිරීමට ප්‍රථම පොලිස් අධිකාරිවරයා සහ මෝටර් රථ පරික්ෂකවරයා විසින් පාසල් ළමුන් ප්‍රවාහනය සිදු කරන රියදුරන්ව සහ අයිතිකරුවන්ව දැනුව්ත කිරිමක්ද සිදු කරනු ලැබුවා.
-
-...
-
-[Data](articles/4e96eeba.json)
-
----
-
-### වනඅලි ප්‍රහාරයකින් පුද්ගල‍යෙකු මරුට
-
-*2025-09-01 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214035) · `si`
-
-අදාළ පුද්ගලයා ඉදල් සෑදීම සදහා අවශ්‍ය අමුද්‍රව්‍ය සොයාගැනීමට ගොස් සිටියදී වන අලි පහරකෑමට ලක්ව ඇති බව පොලිසිය සදහන් කළේය.
-
-මෙලෙස මියගොස් ඇත්තේ 67 හැවිරිදි වූ රුහුණුගම ප්‍රදේශයේ පදිංචිව සිටි අයෙකි.
-
-මෘත ශරීරය පොලොන්නරුව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර අරලගංවිල පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/4af66acb.json)
 
 ---

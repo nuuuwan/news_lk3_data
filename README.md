@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 16:08:17**
+As of **2025-09-02 16:22:04**
 
 ## Newspaper Stats
 
-*Scraped **73,736** Articles*
+*Scraped **73,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,111
-adaderanalk | 9,399
+adalk | 7,113
+adaderanalk | 9,403
 tamilmirrorlk | 10,972
 virakesarilk | 12,067
-adaderanasinhalalk | 12,802
+adaderanasinhalalk | 12,803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,736 articles have been extended.
+61,973 (84.0%) of 73,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### හිටපු ඇමති අනුර ප්‍රියදර්ශනට එරෙහි නඩුව ගැන පොලීසියෙන් අධිකරණයට දැනුම්දීමක්
+
+*2025-09-02 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214084) · `si`
+
+හිටපු ඛනිජතල් විෂය භාර අමාත්‍ය අනුර ප්‍රියදර්ශන යාපා ඔහුගේ බිරිඳ ඇතුළු විත්තිකරුවන් පිරිසකට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකර තිබෙන බව පොලීසිය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුන්නේය.
+
+2014 වසරේ දෙසැම්බර් මස ගංවතුර ආධාර සපයන බව සඳහන් කරමින් අනීතික ලෙස තෙල් නීතිගත සංස්ථාවට අයත් රුපියල් ලක්ෂ 61 කට අධික මුදලක් වැය කිරීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කිරීම ඇතුළු චෝදනා යටතේ මෙම නඩුව ගොනු කර ඇත.
+
+මෙම පැමිණිල්ල කොළඹ අතිරේක මහෙස්ත්‍රාත් ලියාන් වරුෂවිතාන මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට දැනුම් දුන්නේ මෙම විත්තිකරුවන්ට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අධි චෝදනා ගොනු කර ඇති බවය.
+
+ඒ අනුව නොතිසි ලද විට මහාධිකරණය හමුවේ පෙනී සිටින ලෙස විත්තිකරුවන්ට නියම කළ මහේස්ත්‍රාත්වරයා අනතුරුව නඩු කටයුතු අවසන් කිරීමට නියම කළේය.
+
+◼️
+
+[Data](articles/8d295fc5.json)
+
+---
+
+### අධි ආරක්ෂිත දුම්රියෙන් උතුරු කොරියා නායකයා චීනයට එයි
+
+*2025-09-02 16:02:39* · [`adalk`](https://www.ada.lk/breaking_news/අධි-ආරක්ෂිත-දුම්රියෙන්-උතුරු-කොරියා-නායකයා-චීනයට-එයි/11-418229) · `si`
+
+චීනයේ ජයග්‍රාහී දින පෙළපාලියට එක්වීම සඳහා උතුරු කොරියානු නායක කිම් ජොන් උන් චීන අගනුවර වන බීජිං
+
+බදාදා පැවැත්වෙන "ජයග්‍රාහී දින" පෙළපාළියේදී කිම් චීන ජනාධිපති ෂී ජින්පින්, රුසියාවේ ව්ලැඩිමීර් පුටින් සහ
+
+අනෙකුත් ලෝක නායකයින් සමඟ මෙම අවස්ථාවට එක්වෙනු ඇත. ධුරයට පත්වීමෙන් පසුව කිම්ගේ පළමු බහුපාර්ශ්විය ජාත්‍යන්තර හමුව බවට මෙය පත්වේ.
+
+කිම් අඟහරුවාදා චීනයට පැමිණියේ ඔහුගේ අධි ආරක්ෂිත සන්නද්ධ දුම්රියෙන් වන අතර, එහි නවීම ආහාර පාන වලින් සමන්විත අවන්හලක්ද ඇතුළත් බව කියනු ලැබේ.
+
+කිම් සඳුදා ප්යොංයැං නුවරින් පිටත්ව ගිය නමුත් දුම්රියේ දැඩි ආරක්ෂාව නිසා එය සෙමින් ගමන් කරයි.
+
+◼️
+
+[Data](articles/b4c3ef71.json)
+
+---
 
 ### හෙට උණුසුම් වන ප්‍රදේශ
 
@@ -77,6 +117,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/daa21a7e.json)
+
+---
+
+### එස්වැට් වෙනුවට වැට් ඔක්තෝබර් 01 දා සිට
+
+*2025-09-02 15:22:48* · [`adalk`](https://www.ada.lk/breaking_news/එස්වැට්-වෙනුවට-වැට්-ඔක්තෝබර්-01-දා-සිට/11-418226) · `si`
+
+සරළ කරන ලද එකතු කරන ලැබූ අගය මත අය කරන බදු ක්‍රමය (Simplified Value Added Tax System) වෙනුවට සම්ප්‍රදායික VAT ක්‍රමය මෙම වර්ෂයේ ඔක්තෝබර් මස 01 වන දින සිට ක්‍රියාත්මක කරන බවත් අන්තර්ජාතික අපනයනකරුවන් ඇතුලු ව්‍යාපාරිකයන් රැසක් රජයෙන් කරන ලද ඉල්ලීම මත නව තීරණය ක්‍රියාත්මක වන බවත් දේශීය ආදායම් බදු දෙපාර්තමේන්තුවේ අවදානම් කළමනාකරණ අංශයේ කොමසාරිස් දිසා බණ්ඩාර මහත්මිය පැවසුවාය.
+
+සරළ කරන ලද එකතු කරන ලද බදු ක්‍රමය සාම්ප්‍රදායික බදු ක්‍රමය වෙත පරිවර්තනය කිරීම සම්බන්ධයෙන් මහනුවර දිස්ත්‍රික්කයේ ව්‍යාපාරික ප්‍රජාව දැනුවත් කිරීම නිමිත්තෙන් මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදි අද (02) පැවති දැනුවත් කිරීමේ අවස්ථාවට එක්වෙමින් ඇය මෙම අදහස් පළ කළාය.
+
+සම්ප්‍රදායික ක්‍රමය තුළින් අන්තර් ජාතික වෙළඳාමේ නිරත අපනයනකරුවන්ට හිමි සහන කප්පාදු නොවන බව ද  ඒ අනුව මෙතෙක් වවුචරයක් මගින් බදු ගෙවන ලද ක්‍රමය වෙනුවට මුදලින් බදු ගෙවීම සිදුවන බව ද කොමසාරිස් දිසා බණ්ඩාර මහත්මිය තව දුරටත් සඳහන් කළාය.
+
+...
+
+[Data](articles/a38b3ec0.json)
 
 ---
 
@@ -180,6 +236,68 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Gold rushes to record high above US$3,500 on US rate cut expectations
+
+*2025-09-02 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112109/gold-rushes-to-record-high-above-us3500-on-us-rate-cut-expectations) · `en`
+
+Gold sailed past US$3,500 per ounce to a record high on Tuesday (Sep 2), as a weaker dollar and mounting expectations of a United States Federal Reserve interest rate cut in September boosted the precious metal’s appeal.
+
+Spot gold was up 0.3 per cent at US$3,487.55 per ounce as of 6.33am (2.33pm, Singapore time) after hitting a record high of US$3,508.50 earlier in the session. Bullion has gained 32 per cent so far this year.
+
+US gold futures for December delivery gained 1.2 per cent to US$3,557.80.
+
+“A corollary of the weaker economic backdrop and expectations of US rate cuts is boosting precious metals,” Capital.com financial market analyst Kyle Rodda said.
+
+“Another factor is the festering confidence crisis in dollar assets because of US President Donald Trump’s attack on Fed’s independence.”
+
+Trump has criticised the Fed and its chair, Jerome Powell, for months for not lowering rates, and recently took aim at Powell over a costly renovation of the central bank’s Washington headquarters.
+
+...
+
+[Data](articles/7c286510.json)
+
+---
+
+### North Korea’s Kim arrives in Beijing in armoured train
+
+*2025-09-02 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112108/north-koreas-kim-arrives-in-beijing-in-armoured-train) · `en`
+
+North Korean leader Kim Jong Un has arrived in the Chinese capital Beijing, where he will be attending a military parade, reports say.
+
+The “Victory Day” parade on Wednesday will see Kim rub shoulders with China’s President Xi Jinping, Russia’s Vladimir Putin and other world leaders - making it his first multilateral international meeting.
+
+Kim crossed into China on Tuesday onboard his armoured train, which is said to include a restaurant serving fine French wines and dishes like fresh lobster.
+
+Kim had left Pyongyang on Monday, but the train’s heavy protection means it travels slowly.
+
+Kim’s attendance marks the first time a North Korean leader has attended a Chinese military parade since 1959. He will be among 26 other heads of state - including leaders from Myanmar, Iran and Cuba - who will be there.
+
+His attendance is an upgrade from China’s last Victory Day parade in 2015, when Pyongyang sent one of its top officials, Choe Ryong-hae.
+
+...
+
+[Data](articles/427904de.json)
+
+---
+
+### First coconut seed production unit in North launched by President
+
+*2025-09-02 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112107/first-coconut-seed-production-unit-in-north-launched-by-president) · `en`
+
+The first coconut seed production unit in the Northern Province was inaugurated today (02) in Pallai under the patronage of President Anura Kumara Dissanayake, as part of the Northern Coconut Triangle Project.
+
+The initiative is being implemented as a collaborative programme between the Coconut Research Institute of Sri Lanka and the Chilaw Plantations Company, the President’s Media Division.
+
+The government has planned to promote Jaffna, Mullaitivu and Mannar as the Northern Coconut Triangle. Under this programme, 16,000 acres of coconut cultivation are expected to be established in the Northern Province by 2025, with expansion to 40,000 acres projected within the three years from 2025 to 2027, the PMD added.
+
+Marking the commencement of operations at the production unit, the President planted a seed coconut sapling.
+
+...
+
+[Data](articles/6468336c.json)
+
+---
+
 ### රණවිරුවන් පීඩාවට පත්කිරීමක් ගැන පොදුජන පෙරමුණෙන්  මහානාහිමිවරුන්ට ලිපියක්
 
 *2025-09-02 14:02:44* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවන්-පීඩාවට-පත්කිරීමක්-ගැන-පොදුජන-පෙරමුණෙන්--මහානාහිමිවරුන්ට-ලිපියක්/11-418225) · `si`
@@ -225,6 +343,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0f056697.json)
+
+---
+
+### Acting Director of Police Cultural Division SSP Sathish Gamage further remanded
+
+*2025-09-02 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112106/acting-director-of-police-cultural-division-ssp-sathish-gamage-further-remanded) · `en`
+
+The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 16, Ada Derana reporter said.
+
+The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after considering the facts presented by officers of the Bribery Commission and the defense counsel.
+
+SSP Sathish Gamage was arrested and produced before court by the Bribery Commission in connection with allegations of accepting bribes amounting to approximately Rs. 14 million from drug traffickers, organized criminals, and members of the public seeking services from police.
+
+The Bribery Commission previously informed court that these funds were discovered in three separate bank accounts.
+
+...
+
+[Data](articles/af91ab89.json)
 
 ---
 
@@ -1651,109 +1787,5 @@ President Xi and Russian President Vladimir Putin used a security forum yesterda
 ...
 
 [Data](articles/5fa1b856.json)
-
----
-
-### Committee appointed to improve food safety in Parliament
-
-*2025-09-02 03:45:30* · [`dailyftlk`](https://www.ft.lk/news/Committee-appointed-to-improve-food-safety-in-Parliament/56-781128) · `en`
-
-The Parliament Secretariat yesterday said that the House Committee, chaired by Speaker Dr. Jagath Wickramaratne, has decided to appoint a special committee to present proposals to enhance the safety of food and beverages in Parliament.
-
-At the request of the Speaker, a team of Public Health Inspectors (PHIs), led by the Medical Officer of Health, Battaramulla, conducted inspections last April of the kitchens and other locations within the Parliamentary premises related to the preparation of food and beverages. Accordingly, the PHIs submitted to the House Committee a detailed report inclusive of their observations.
-
-...
-
-[Data](articles/f4902b97.json)
-
----
-
-### Milinda Moragoda calls on Indian Finance Minister
-
-*2025-09-02 03:44:22* · [`dailyftlk`](https://www.ft.lk/news/Milinda-Moragoda-calls-on-Indian-Finance-Minister/56-781127) · `en`
-
-As part of his ongoing engagement with Indian leaders and policymakers, Pathfinder Foundation Founder Milinda Moragoda met with Indian Finance Minister Smt. Nirmala Sitharaman in New Delhi yesterday. The meeting focused on the turbulence and disruptions currently affecting the international economy and their implications for South Asia.
-
-During the discussion, Moragoda conveyed his appreciation of the leadership role being played by Prime Minister Narendra Modi and Finance Minister Sitharaman in stabilising the Indian economy amidst these global challenges, which also contributes positively to regional stability and growth.
-
-◼️
-
-[Data](articles/640cebd6.json)
-
----
-
-### Govt. launches ‘Seiri Week’ to boost efficiency in public service
-
-*2025-09-02 03:43:08* · [`dailyftlk`](https://www.ft.lk/news/Govt-launches-Seiri-Week-to-boost-efficiency-in-public-service/56-781126) · `en`
-
-The Government yesterday announced the launch of a special program titled ‘Seiri Week’ under the national initiative ‘Clean Sri Lanka.’  Scheduled to take place from 1 to 4 September, the program will be implemented across all State institutions with the aim of improving efficiency, productivity, and workplace organisation in the public service.
-
-The core objective of the initiative is to foster a peaceful, safe, and well-organised environment for public officials, the President’s Media Division said. Seiri, one of the five internationally recognised productivity principles, emphasises identifying what is necessary while eliminating what is unnecessary. In line with this, the week-long program will focus on removing unused items from Government institutions and maximising the use of limited space.
-
-...
-
-[Data](articles/a4791f25.json)
-
----
-
-### NMSJ commends Election Commission on party registration policy
-
-*2025-09-02 03:42:45* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-commends-Election-Commission-on-party-registration-policy/56-781125) · `en`
-
-The National Movement for Social Justice (NMSJ) in a statement yesterday welcomed the stance of the Election Commission against registering new political parties based on ethnicity or religion.
-
-In a statement, the Movement said that political parties seeking to govern Sri Lanka should act on national policies and goals, rather than narrow ethnic or religious agendas. It noted that Sri Lanka’s post-independence history shows how communal politics has often undermined national aspirations, and warned against passing such divisions on to future generations.
-
-The NMSJ urged all stakeholders to support the Commission in ensuring that parties reflect inclusive national interests, calling the decision an important step for the country’s long-term unity and stability.
-
-◼️
-
-[Data](articles/4aa19594.json)
-
----
-
-### ஜனாதிபதியினால் திறந்துவைக்கும் திறப்புவிழா கற்களில் நிதி தொடர்பான வெளிப்படைத்தன்மை இல்லை - வலி கிழக்கு தவிசாளர் நிரோஷ்
-
-*2025-09-02 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/223980) · `ta`
-
-ஜனாதிபதியினால் யாழில் மேற்கொள்ளப்பட்ட அபிவிருத்தி நடவடிக்கைகளுக்கான திறப்புவிழா கற்களில் நல்லாட்சிக்கு அவசியமான வெளிப்படைத்தன்மையும் தகவல் அறிவதற்கான சுதந்திரமும் மீறப்பட்டுள்ளது. ஆகவே அக் கற்கலில் காணப்படும் தவறுகள் உரியவாறு மறுசீரமைக்கப்படுவது மக்களின் தகவல் அறிந்து கொள்வதற்கான உரிமையினை உறுதிப்படுத்தும் என்பதுடன் அரச நிதி செலவிடப்படுவதன் வெளிப்படைத் தன்மையினையும் அதிகாரிக்கும் என வலிகாமம் கிழக்கு பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஷ் தெரிவித்தார்.
-
-1ஆம் திகதி திங்கட்கிழமை யாழிக்கு விஜயம் செய்த ஜனாதிபதி கடவுச்சீட்டு அலுவலகம் மற்றும் விளையாட்டுத்திடல்இ துறைமுகம் என்பவற்றின் ஆரம்பப் பணிகளை மேற்கொண்டார். அவரினால் கடந்த ஆட்சியாளர்களைப் போல் ஆரம்ப நிகழ்வுகளுக்கு பெரும் பணம் செலவிடப்படாமைஇ எளிமையான முறையில் மேற்படி நிகழ்வுகள் மேற்கொள்ளப்பட்டமையை நாம் வரவேற்கின்றோம். எனினும் நல்லாட்சித்தத்துவம் மீறப்பட்டுள்ளது.
-
-...
-
-[Data](articles/b04284a2.json)
-
----
-
-### மெதுவான பந்துவீச்சு காரணமாக இலங்கை அணிக்கு அபராதம்
-
-*2025-09-02 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/223979) · `ta`
-
-சிம்பாப்வேக்கு எதிரான இரண்டாவது ஒருநாள் போட்டியில் மெதுவாக பந்து வீசியதற்காக இலங்கை அணிக்கு அபராதம் விதிக்கப்பட்டுள்ளது.
-
-இலங்கை அணிக்கு அவர்களின் போட்டி கட்டணத்தில் 5% அபராதம் விதிக்கப்பட்டுள்ளது. குறிப்பாக, ஐசிசி போட்டி நடுவர் ஜெஃப் குரோவ் ஒதுக்கப்பட்ட நேரத்தை விட ஒரு ஓவர் குறைவாக பந்து வீசியதற்காக அபராதம் விதித்துள்ளார்.
-
-இலங்கை கிரிக்கெட் அணித் தலைவர் சரித் அசலங்க, குற்றச்சாட்டை ஒப்புக்கொண்டதுடன், முன்மொழியப்பட்ட தண்டனையையும் ஏற்றுக்கொண்டார். இதனால் மேலதிக விசாரணை தேவையில்லை என சர்வதேச கிரிக்கெட் பேரவை (ICC) அறிவித்துள்ளது.
-
-இதற்கு முன்னர், சிம்பாப்வே அணிக்கு எதிரான முதலாவது ஒருநாள் போட்டியில் மெதுவாக பந்து வீசியதற்காக இலங்கை அணிக்கு போட்டிக் கட்டணத்தில் 5 சதவீத அபராதம் விதித்திருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/d9a0c9f6.json)
-
----
-
-### Central Industries appoints new Chairman, Non-Executive Directors
-
-*2025-09-02 02:24:40* · [`dailyftlk`](https://www.ft.lk/business/Central-Industries-appoints-new-Chairman-Non-Executive-Directors/34-781105) · `en`
-
-Central Industries PLC yesterday announced the appointment of C.S. Hettiarachchi as the Non-Executive Chairman of the company, along with Thilini Wathsala Weerasinghe and Dushan Virantha as Non-Executive Directors.
-
-Hettiarachchi was appointed to the Board on 30 June 2018. He holds a Bachelor of Laws (LL.B) Degree from the University of Colombo and an MBA from the University of Sri Jayewardenepura (PIM). He is an Attorney-at-Law of the Supreme Court of Sri Lanka. He is a past Chairman of the Leasing Association of Sri Lanka (LASL) and served as a Director of Credit Information Bureau of Sri Lanka (CRIB). Other current appointments in listed companies: He served as the Director – Corporate Affairs of Central Finance Company PLC and is a Director of Tea Smallholder Factories PLC. Others: Director of Dehigama Hotels Company Ltd. and Finance House Consortium Ltd. He serves as a Director on five other companies within the Central Finance PLC Group.
-
-...
-
-[Data](articles/26782289.json)
 
 ---

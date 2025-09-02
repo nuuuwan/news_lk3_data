@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 20:33:58**
+As of **2025-09-02 20:50:26**
 
 ## Newspaper Stats
 
-*Scraped **73,762** Articles*
+*Scraped **73,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,484
 islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,116
+adalk | 7,117
 adaderanalk | 9,406
 tamilmirrorlk | 10,974
 virakesarilk | 12,067
-adaderanasinhalalk | 12,813
+adaderanasinhalalk | 12,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,762 articles have been extended.
+61,973 (84.0%) of 73,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### වලස් කටා යළිත් බස්නාහිර උතුර අපරාධ කොට්ඨාස වෙත භාරදෙයි
+
+*2025-09-02 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214094) · `si`
+
+බස්නාහිර උතුර අපරාධ කොට්ඨාසයෙන් පලායාමට තැත්කිරීමේදී තුවාල සිදුවූ කෙහෙලබද්දර පද්මේගේ සමීපතමෙයක් වන 'වලස් කට' නැමැත්තා, ප්‍රතිකාර අවසන් කර නැවත එම කොට්ඨාසයට රැගෙනවිත් තිබේ.
+
+එහිදී පොලීසිය කෙහෙල්බද්දර පද්මේ අත්අඩංගුවට පත්වීම සම්බන්ධයෙන් සැකකරුගෙන් විමසා ඇති බව සඳහන්ය.
+
+එහිදී ඔහු ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට මෙලෙස පවසා තිබේ.
+
+"සර් අපේ චණ්ඩියා සර් ඉස්සරහා ඇඹරුණාලුනේ, මට ඒ දර්ශනය බලන්න ආසයි සර්" යනුවෙනි.
+
+බස්නාහිර උතුර අපරාධ කොට්ඨාසය සැකකරු සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරමින් සිටී.
+
+◼️
+
+[Data](articles/5a9f2e45.json)
+
+---
 
 ### வெப்பநிலை ’’எச்சரிக்கை’’ மட்டத்தில் இருக்கும்
 
@@ -271,6 +291,20 @@ The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for 
 ◼️
 
 [Data](articles/9a1d3928.json)
+
+---
+
+### හෝමාගම නව පොලිස් කොට්ඨාසයක් කරයි
+
+*2025-09-02 16:42:19* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-නව-පොලිස්-කොට්ඨාසයක්-කරයි/11-418231) · `si`
+
+නව පොලිස් කොට්ඨාසයක් ලෙස ස්ථාපිත කරන ලද හෝමාගම නව පොලිස් කොට්ඨාසය විවෘත කිරීම හෙට
+
+මෙම අවස්ථාව සඳහා මහජන ආරක්ෂක නියෝජ්‍ය අමාත්‍ය සුනිල් වටගල මහතාගේ ප්‍රධානත්වයෙන් පොලිස්පති
+
+◼️
+
+[Data](articles/c274c637.json)
 
 ---
 
@@ -1749,47 +1783,5 @@ The Commission is also expected to monitor the clearance process through local-l
 ◼️
 
 [Data](articles/456a3989.json)
-
----
-
-### Token strike at Ratnapura Teaching Hospital over director’s conduct – GMOA
-
-*2025-09-02 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112090/token-strike-at-ratnapura-teaching-hospital-over-directors-conduct-gmoa) · `en`
-
-The Government Medical Officers’ Association (GMOA) has decided to stage a token strike today (02) at the Ratnapura Teaching Hospital, in protest against the conduct of the Director of the hospital.
-
-The GMOA stated that although the Ministry of Health had previously agreed to take necessary measures to resolve the issue, the relevant authorities have failed to implement those agreements.
-
-As a result, the GMOA has planned to carry out the strike from 8:00 a.m. today until 8:00 a.m. tomorrow (03) at the Ratnapura Teaching Hospital.
-
-Emergency and life-saving treatment services will continue as usual during the strike. However, all routine medical services are expected to be disrupted, according to the GMOA.
-
-Meanwhile, the Federation of University Teachers’ Associations (FUTA) has warned that it will also resort to trade union action in the future if authorities fail to address their concerns.
-
-...
-
-[Data](articles/3d94a388.json)
-
----
-
-### රත්නපුර ශික්ෂණ රෝහලේ වෛද්‍යවරු සංකේත වැඩවර්ජනයක
-
-*2025-09-02 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214064) · `si`
-
-රෝහල් අධ්‍යක්ෂවරයාගේ ක්‍රියාකලාපයට විරෝධය පළකරමින් අද (02) දිනයේ රත්නපුර ශික්ෂණ රෝහලේ සංකේත වැඩවර්ජනයක නිරත වීමට රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය තීරණය කර තිබේ.
-
-මෙම ගැටලුව සම්බන්ධයෙන් අවශ්‍ය පියවර ගන්නා බවට සෞඛ්‍ය අමාත්‍යංශය මීට පෙර එකඟතාව පළකර තිබුණ ද එම එකඟතාවයන් ක්‍රියාත්මක කිරීමට බලධාරීන් අපොහොසත් වී ඇති බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පෙන්වා දෙයි.
-
-එමනිසා අද උදෑසන 08 සිට හෙට උදෑසන 08 දක්වා රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය රත්නපුර ශික්ෂණ රෝහලේ වැඩවර්ජනයක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
-
-රෝහල තුළ හදිසි සහ ජීවිතාරක්ෂක ප්‍රතිකාර සේවා එලෙසම පවත්වාගෙන යනු ලබන අතර දෛනික ප්‍රතිකාර සේවාවවන් සියල්ල අඩාල වනු ඇති බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සඳහන් කළේය.
-
-මේ අතර සිය ගැටලු විසඳීම සඳහා බලධාරීන් පියවර නොගතහොත් ඉදිරියේ දී වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වන බව විශ්වවිද්‍යාල ආචාර්යවරුන්ගේ සමිති සම්මේලනය පවසයි.
-
-එහි ලේකම් ජ්‍යෙෂ්ඨ කථිකාචාර්ය චාරුදත්ත ඉලංගසිංහ  මහතා සඳහන් කළේ, සිය ගැටලු සම්බන්ධයෙන් සාකච්ඡා කිරීමට අවස්ථාවක් ලබාදෙන ලෙස ජනාධිපතිවරයාගෙන් ද ඉල්ලීමක් කරන බවය.
-
-◼️
-
-[Data](articles/c47c664a.json)
 
 ---

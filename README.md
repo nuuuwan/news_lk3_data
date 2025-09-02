@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 17:32:39**
+As of **2025-09-02 17:54:59**
 
 ## Newspaper Stats
 
-*Scraped **73,747** Articles*
+*Scraped **73,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,114
-adaderanalk | 9,403
+adaderanalk | 9,404
 tamilmirrorlk | 10,972
 virakesarilk | 12,067
-adaderanasinhalalk | 12,805
+adaderanasinhalalk | 12,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,747 articles have been extended.
+61,973 (84.0%) of 73,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### සැලසුම් සහගත වැඩපිළිවෙළක් ඔස්සේ රට සංවර්ධනය කරා ගෙන යන බව ජනපති කියයි
+
+*2025-09-02 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214088) · `si`
+
+ආර්ථික ශක්‍යතා හඳුනාගනිමින් සහ ආර්ථිකය ගමට ප්‍රසාරණය කරමින් ඉතා සැලසුම් සහගත වැඩපිළිවෙළක් ඔස්සේ  රට සංවර්ධනය කරා ගෙන යාම වත්මන් රජයේ අරමුණ බවත්, ග්‍රාමීය ජනතාව දුප්පත්භාවයෙන් මුදා ගැනීම වෙනුවෙන් තම පාලන කාලය තුළ කැප වී කටයුතු කරන බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ මුලතිව් දිස්ත්‍රික්කයේ වට්ටුවාකල් පාලමේ ඉදිකිරීම් ආරම්භ කිරීමේ අවස්ථාවට අද (02) පෙරවරුවේ එක් වෙමිනි.
+
+මෙම සැප්තැම්බර් මාසයේදී රට පුරා නව සංවර්ධන ව්‍යාපෘති රැසක් ආරම්භ කිරීමට සැලසුම් කර තිබෙන බව පැවසූ ජනාධිපතිවරයා සංවර්ධන ව්‍යාපෘති අවසන් කළ යුතු දිනට අවසන් නොකිරීමේ සහ ඇස්මේන්තු කළ මුදලට වඩා වැඩි මුදලක් වැය කිරීමේ පැරණි සම්ප්‍රදාය අවසන් කරමින් සියලු සංවර්ධන ව්‍යාපෘති නිසි කලට නිම කර, එහි ප්‍රතිලාභ ජනතාවට ලබා දීමට රජය කැප වී සිටින බවද සඳහන් කළේය.
+
+පරන්තන් - කරච්චි - මුලතිව් මාර්ගයේ නන්දිකඩාල් කලපුව ආශ්‍රිතව පිහිටා ඇති වට්ටුවාකල් පාලම මතින් දිනකට වාහන 3000කට වඩා ගමන් කරන අතර දීර්ඝ කාලයක් තිස්සේ පාලම අලුත්වැඩියා නොකිරීම හේතුවෙන් දැඩි අනාරක්ෂිත තත්ත්වයක් මතු ව තිබේ.
+
+...
+
+[Data](articles/7da48e49.json)
+
+---
+
+### පද්මේ ඇතුළු 5දෙනාට දින 90ක රැඳවුම් නියෝග
+
+*2025-09-02 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214087) · `si`
+
+ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන ආ ප්‍රබල අපරාධ කල්ලි සාමාජිකයින් 5 දෙනා දින 90ක රැඳවුම් නියෝග මත රඳවා තබාගෙන ප්‍රශ්න කිරීමට අවසර ලබාදී තිබේ.
+
+ත්‍රස්ත මර්දන පනත යටතේ මොවුන්ගෙන් මෙලෙස ප්‍රකාශ සටහන් කරගන්නා බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැවසීය.
+
+ජකර්තා හීදි අත්අඩංගුවට ගත් මෙම සැකකරුවන් 5දෙනා පසුගිය සෙනසුරාදා දිනයේදී මෙරටට රැගෙන එනු ලැබීය.
+
+මොවුන්ගෙන් තිදෙනෙකු මේ වනවිට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ පසුවන අතර තවත් දෙදෙනෙකු බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවෙයි.
+
+මන්දිනු පද්මසිරි පෙරේරා හෙවත් කෙහෙල්බද්දර පද්මේ, නිලංග සම්පත් සිල්වා හෙවත් පානදුර නිලංග සහ ශලින්ත මදුෂාන් පෙරේරා හෙවත් කමාන්ඩෝ සලින්ත යන අපරාධකරුවන් ප්‍රශ්න කිරීම් සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා තිබේ.
+
+එමෙන්ම ළහිරු මදුසංඛ හෙවත් තැඹිලි ළහිරු සහ එන්.එන්. ප්‍රසංග හෙවත් බැකෝ සමන් යන අපරාධකරුවන් බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවෙයි.
+
+◼️
+
+[Data](articles/1bf3ac34.json)
+
+---
+
+### Sri Lanka’s future depends on innovative and socially conscious youth - PM Harini
+
+*2025-09-02 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112110/sri-lankas-future-depends-on-innovative-and-socially-conscious-youth-pm-harini) · `en`
+
+Prime Minister of Sri Lanka, Dr. Harini Amarasuriya stated that focus is being placed on enhancing the quality of the agricultural sector by utilizing digital and innovative technologies.
+
+She made these remarks while addressing the International Symposium on Agriculture and Environment 2025 (ISAE) organized by the Faculty of Agriculture, University of Ruhuna, held on 2nd September 2025 at the Galle Face Hotel, Colombo, according to the Prime Minister’s Media Division.
+
+The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for Climate Action and Sustainability”, encourages multidisciplinary stakeholders in Sri Lanka to explore the opportunities and challenges in global agriculture, sustainability, and the application of emerging technologies.
+
+...
+
+[Data](articles/0c8a0b81.json)
+
+---
 
 ### ශ්‍රී ලංකාවට එරෙහි සිම්බාබ්වේ T20 සංචිතය නම් කෙරේ
 
@@ -289,6 +345,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/34463080.json)
+
+---
+
+### කිම් ජොන් උන් චීන වෙත පැමිණෙයි
+
+*2025-09-02 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214079) · `si`
+
+උතුරු කොරියානු නායක කිම් ජොන් උන් චීනයේ බීජිං අගනුවර වෙත පැමිණ තිබේ.
+
+චීනයේ පැවැත්වෙන "ජයග්‍රාහී දින" පෙළපාළියේ ආරාධිතයෙකු ලෙස උතුරු කොරියානු නායකවරයා මෙලෙස චීනයට පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
+
+එහිදී කිම් ජොන් උන් චීන ජනාධිපති ෂී ජින්පින්, රුසියාවේ ජනාධිපති ව්ලැද්මීර් පුටින් සහ අනෙකුත් ලෝක නායකයින් සමඟ සාකච්ඡා කිරීමට නියමිතව තිබේ.
+
+උතුරු කොරියානු නායකයාගේ පළමු බහුපාර්ශ්වික ජාත්‍යන්තර හමුව මෙය වන බව සඳහන්ය.
+
+වර්ෂ 1959න් පසු උතුරු කොරියානු නායකයෙකු චීන හමුදා පෙළපාළියකට සහභාගී වූ පළමු අවස්ථාව මෙය වන බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/999cee9d.json)
 
 ---
 
@@ -1713,83 +1789,5 @@ Notably, Sirimavo Bandaranaike, who was the world’s first female Prime Ministe
 ◼️
 
 [Data](articles/3fc60640.json)
-
----
-
-### Special commemorative ceremony and Traffic plan for 159th Police Day
-
-*2025-09-02 06:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112086/special-commemorative-ceremony-and-traffic-plan-for-159th-police-day) · `en`
-
-A special commemorative ceremony will be held tomorrow (03) at the Police Field Force Headquarters in celebration of the 159th Police Day.
-
-In preparation for the event, the Colombo Traffic Division has arranged a special traffic plan, according to Police Headquarters.
-
-As per this traffic plan, vehicle movement along Havelock Road — from Thummulla Junction to Thimbirigasyaya Junction, within the Bambalapitiya Police Division — will be regulated as follows:
-
-The bus stop located on the outbound route opposite of the Police Field Force Headquarters will be temporarily relocated to the bus stop at the Fonseka Road Junction on Havelock Road, from 2:30 p.m. to 7:00 p.m. tomorrow (03).
-
-Heavy vehicle movement (container trucks and tipper trucks) will be restricted along the Havelock Road between Thummulla Junction and Thimbirigasyaya Junction within the Bambalapitiya Police Division, from 2:00 p.m. to 7:00 p.m. tomorrow.
-
-◼️
-
-[Data](articles/a4e07e22.json)
-
----
-
-### செம்மணியில் நேற்று 9 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-09-02 05:49:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-9-எலும்புக்கூடுகள்-அடையாளம்/175-363884) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது 9 மனித எலும்புக்கூடுகள்  அடையாளம் காணப்பட்டுள்ளன.
-
-செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 40 ஆம் நாள் அகழ்வு நேற்று (01)  இடம்பெற்றது.
-
-நேற்றைய அகழ்வின் போது 9 எலும்புக்கூடுகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித என்புத் தொகுதிகளின் எண்ணிக்கை 218 ஆக அதிகரித்துள்ளது.
-
-மேலும் ஏற்கனவே அடையாளம் காணப்பட்ட 7 மனித எலும்புக்கூடுகள் நேற்று அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை மொத்தமாக 198 மனித எலும்புக்கூடுகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/c89c5d9b.json)
-
----
-
-### More than 1000 killed in landslide in western Sudan
-
-*2025-09-02 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112085/more-than-1000-killed-in-landslide-in-western-sudan) · `en`
-
-At least 1,000 have been killed in a landslide that destroyed a village in the Marra Mountains area of western Sudan, leaving only one survivor, The Sudan Liberation Movement/Army said on Monday.
-
-The landslide struck on August 31 after days of heavy rainfall, the group led by Abdelwahid Mohamed Nour said in a statement.
-
-The movement, which controls the area located in Darfur region, appealed to the United Nations and international aid agencies to help recover the bodies of victims, including men, women and children.
-
-The village “has now been completely levelled to the ground,” the movement added.
-
-Fleeing the raging war between the Sudanese army and the paramilitary Rapid Support Forces (RSF) in North Darfur state, residents sought shelter in the Marra Mountains area where food and medication are insufficient.
-
-...
-
-[Data](articles/affb060e.json)
-
----
-
-### Few showers expected in parts of the island today
-
-*2025-09-02 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112084/few-showers-expected-in-parts-of-the-island-today-) · `en`
-
-A few showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (02), according to the Department of Meteorology.
-
-Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
-
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the North-central and North-western provinces and in Hambantota district.
-
-The Met. Department added that the sun will be directly over the latitudes of Sri Lanka from August 28 to September 07 due to its southward relative motion.
-
-Accordingly, the sun will be directly overhead in Andigama, Balalla, Meegaswewa, Bambaragaswewa, Bakamuna, Aralaganwila, Chenkaladi and Eravur at around 12.10 p.m. today.
-
-◼️
-
-[Data](articles/faee7677.json)
 
 ---

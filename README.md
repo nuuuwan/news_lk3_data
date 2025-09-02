@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 10:50:38**
+As of **2025-09-02 11:07:58**
 
 ## Newspaper Stats
 
-*Scraped **73,679** Articles*
+*Scraped **73,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,101
-adaderanalk | 9,390
+adaderanalk | 9,392
 tamilmirrorlk | 10,955
 virakesarilk | 12,058
-adaderanasinhalalk | 12,790
+adaderanasinhalalk | 12,791
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,679 articles have been extended.
+61,973 (84.1%) of 73,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### කප්තුරු සවිය ජාතික වැඩසටහන ජනපති ප්‍රධානත්වයෙන් ඇරඹෙයි
+
+*2025-09-02 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214068) · `si`
+
+කප්තුරු සවිය ජාතික වැඩසටහන ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මේ වනවිට ආරම්භ වී තිබේ.
+
+එම වැඩසටහන මුලතිව්, පුදුකුඩිඉරුප්පු කන්ද සාමි කෝවිලේදී ආරම්භ වී ඇත.
+
+◼️
+
+[Data](articles/63fd0fe2.json)
+
+---
 
 ### மன்னார் வீரர்கள் இருவர், தேசிய உதைபந்தாட்ட   அணிக்கு தெரிவு
 
@@ -63,6 +77,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9cabc4fc.json)
+
+---
+
+### President to launch multiple development projects in North for second consecutive day
+
+*2025-09-02 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112095/president-to-launch-multiple-development-projects-in-north-for-second-consecutive-day) · `en`
+
+President Anura Kumara Dissanayake is scheduled to participate in a number of events and inaugurate several development projects in the Northern Province today (02), marking the second day of his official tour, according to the Presidential Media Division.
+
+Coinciding with World Coconut Day, the launching ceremony of the “රටම සරු කරයි නිරතුරු - කප්තුරු සවිය” initiative, aimed at revitalizing coconut cultivation in the Northern Coconut Triangle, will be held today in Puthukkudiyiruppu under the President’s patronage.
+
+This program is being launched with the target of cultivating 16,000 acres of coconut in the Northern Province by 2025, with plans to expand the area to 50,000 acres by 2027.
+
+...
+
+[Data](articles/bdd7fc0b.json)
 
 ---
 
@@ -99,6 +129,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bff8f04c.json)
+
+---
+
+### Proposed recruitment of 10,000 Sri Lankans to Thailand under review
+
+*2025-09-02 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112093/proposed-recruitment-of-10000-sri-lankans-to-thailand-under-review) · `en`
+
+Ambassador and Permanent Representative of Sri Lanka to Thailand Wijayanthi Edirisinghe has held discussions with the Director General of the Department of Employment of Thailand, Somchai Morakotsriwan to review progress on the proposed recruitment of 10,000 Sri Lankans to Thailand under a Government-to-Government (G-to-G) mechanism.
+
+The discussion followed the Ambassador’s earlier courtesy call on the Minister of Labour of Thailand and the subsequent decision of the Thai Cabinet to proceed with the recruitment of Sri Lankan nationals to meet Thailand’s labour market demands, the Embassy of Sri Lanka in Thailand said in a statement.
+
+Ambassador Edirisinghe shared the draft Memorandum of Understanding (MoU) submitted by the Sri Lankan side and requested that any proposed amendments be communicated for further consideration, noting that Cabinet approval would be required prior to its finalization, the statement stated.
+
+...
+
+[Data](articles/4b607d8c.json)
 
 ---
 
@@ -1701,61 +1747,5 @@ The “Political Pulse”column focuses  this week on a man who was perhaps the 
 ◼️
 
 [Data](articles/b1d8318c.json)
-
----
-
-### ஹிக்கடுவ துப்பாக்கிச்சூடு: மோட்டார் சைக்கிள் ஓட்டுநர் கைது
-
-*2025-09-01 18:11:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிக்கடுவ-துப்பாக்கிச்சூடு-மோட்டார்-சைக்கிள்-ஓட்டுநர்-கைது/175-363873) · `ta`
-
-மோட்டார் சைக்கிளில் வந்த இரண்டு அடையாளம் தெரியாத துப்பாக்கிதாரிகளால் துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
-
-துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டுவிட்டு தப்பி ஓடிய மோட்டார் சைக்கிள் ஓட்டுநர் கிட்டத்தட்ட ஒரு மணி நேரத்திற்குள் கைது செய்யப்பட்டதாக ஹிக்கடுவ பொலிஸ் தெரிவித்துள்ளது.
-
-துப்பாக்கிச் சூடு நடத்தியவர் தப்பி ஓடிவிட்டார், அவரைக் கைது செய்ய பொலிஸார் விசாரணைகளை மேற்கொண்டுள்ளனர்
-
-◼️
-
-[Data](articles/7a6215d4.json)
-
----
-
-### யாழில் ஜனாதிபதி தலைமையில் மின் நூலகத் திட்டம்
-
-*2025-09-01 18:04:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-ஜனாதிபதி-தலைமையில்-மின்-நூலகத்-திட்டம்/175-363872) · `ta`
-
-யாழ்ப்பாண நூலகத்தை மின் நூலகமாக (e-library) அபிவிருத்தி செய்யும் திட்டம் இன்று (01) காலை ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் தலைமையில் ஆரம்பிக்கப்பட்டது.
-
-அதன்படி, யாழ்ப்பாண பொது நூலகத்திற்காக jaffna.dlp.gov.lk என்ற இணையத்தளம் அறிமுகப்படுத்தப்பட்டது. இந்த திட்டம் யாழ்ப்பாண பொது நூலகத்தில் உள்ள புத்தகங்களை ஒன்லைன் ஊடாக வாசிக்க வாய்ப்பளிக்கும்.
-
-யாழ்ப்பாண மக்களின் பெருமையின் அடையாளமாக விளங்கும் யாழ்ப்பாண பொது நூலகம், ஆசியாவிலேயே மிகப்பெரிய புத்தகங்களின் தொகுப்பைக் கொண்ட நூலகமாகும். பாடசாலை மற்றும் பல்கலைக்கழக மாணவர்கள் மற்றும் உள்ளூர் மற்றும் வெளிநாட்டு ஆய்வாளர்கள் உட்பட ஏராளமான மக்களால் தினமும் பயன்படுத்தப்படுகிறது.
-
-யாழ்ப்பாண பொது நூலகத்திற்கு ஒருங்கிணைந்த நூலக முகாமைத்துவக் கட்டமைப்பு மற்றும் ஸ்மார்ட் அட்டை பிரவேச  வசதி மற்றும் விசேட தேவை உள்ளவர்களுக்கு உதவி தொழில்நுட்பத்துடன் கூடிய விசேட அலகும் இதன் போது அறிமுகப்படுத்தப்பட்டது.
-
-2025  வரவு செலவுத் திட்டத்தில்  இந்தத் திட்டத்திற்காக  100 மில்லியன் ரூபா ஒதுக்கப்பட்டது.
-
-...
-
-[Data](articles/8eaf2648.json)
-
----
-
-### Colombo Range DIG Uditha Liyanage further remanded
-
-*2025-09-01 18:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112078/colombo-range-dig-uditha-liyanage-further-remanded) · `en`
-
-The Deputy Inspector General (DIG) of the Colombo Range, Uditha Liyanage who was arrested by the Criminal Investigation Department (CID) in connection with allegations of aiding and abetting illegal treasure hunting, has been further remanded, Ada Derana reporter said.
-
-He was remanded by the Anuradhapura Magistrate”s Court until September 8.
-
-The CID arrested DIG Uditha Liyanage on August 25 in connection with the allegations of treasure hunting levelled against his wife, police said.
-
-The Anuradhapura Police recently arrested eight people, including a wife of a DIG, who were allegedly excavating a plot of land for treasure near a temple in Thibirikadawala, Srawasthipura.
-
-This was based on information received by the Anuradhapura Police on August 13 that a group was treasure hunting near the Ratrang Devalaya in Thibirikadawala, Srawasthipura, police said.
-
-...
-
-[Data](articles/fd3177fc.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 11:07:58**
+As of **2025-09-02 11:20:47**
 
 ## Newspaper Stats
 
-*Scraped **73,682** Articles*
+*Scraped **73,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,101
+adalk | 7,102
 adaderanalk | 9,392
 tamilmirrorlk | 10,955
 virakesarilk | 12,058
-adaderanasinhalalk | 12,791
+adaderanasinhalalk | 12,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,682 articles have been extended.
+61,973 (84.1%) of 73,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### රැප් ගායන ශිල්පියෙක් පුපුරණ ද්‍රව්‍ය සමග අත්අඩංගුවට
+
+*2025-09-02 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214069) · `si`
+
+මීට දින කිහිපයකට ඉහතදී ව්‍යාජ පිස්තෝලයක් සමඟ අත්අඩංගුවට ගත් ජනප්‍රිය රැප් ගායන ශිල්පී මාධව ප්‍රසාද් නොහොත් 'මදුවා' නැමැත්තා පුපුරණ ද්‍රව්‍යය තොගයක් සමඟ නැවතත් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/606762a6.json)
+
+---
 
 ### කප්තුරු සවිය ජාතික වැඩසටහන ජනපති ප්‍රධානත්වයෙන් ඇරඹෙයි
 
@@ -43,6 +55,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/63fd0fe2.json)
+
+---
+
+### ඕස්ට්‍රේලියානු සුපිරි වේග පන්දු යවන්නා හදීසියේ ගත් තීරණය මෙන්න
+
+*2025-09-02 10:26:54* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියානු-සුපිරි-වේග-පන්දු-යවන්නා-හදීසියේ-ගත්-තීරණය-මෙන්න/9-418216) · `si`
+
+ඔස්ට්‍රේලියාවේ වේග පන්දු යවන ක්‍රීඩක මිචෙල් ස්ටාක් විස්සයි20 තරගවලින් විශ්‍රාම යන බව නිවේදනය කර තිබේ. ලබන වසරේ අග භාගයේ සිට ඕස්ට්‍රේලියාවේ කාර්ය බහුල ටෙස්ට් තරග කාල සටහන හා 2027 එක්දින ලෝක කුසලානයට ප්‍රමුඛතාවය දීම සඳහා  ඔහු මෙම තීරණය ගෙන තිබේ.
+
+35 හැවිරිදි ස්ටාර්ක් 2012 දී සිය මංගල විස්සයි20 තරගයට ක්‍රීඩා කළ අතර මේ දක්වා විස්සයි20 තරග 65 ක් ක්‍රීඩා කර ඇති අතර 2021 එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවති විස්සයි20 ලෝක කුසලානය දිනාගත් ඕස්ට්‍රේලියානු කණ්ඩායමේ සාමාජිකයෙක්ද වෙයි.
+
+ඔහු අවසන් වරට 2024 දී කැරිබියන් හි පැවති විස්සයි ලෝක කුසලානයට ක්‍රීඩා කළ අතර තවත් මාස හයකින් ඉන්දියාවේ හා ශ්‍රී ලංකාවේ සත්කාරකත්වයෙන් පැවැත්වෙන විස්සයි20 ලෝක කුසලානයට පෙර ඔහු මෙම තීරණය ගැනීම කැපී පෙනෙයි.
+
+සිය තරග 65 තුළදී විස්සයි20 කඩුලු 79 දවාගෙන ඇති ස්ටාක් 2022 දී බටහිර ඉන්දීය කොදෙව්වන්ට එරෙහිව ලකුණු 20 කට කඩුලු 4 ක් දවා ගැනීම ඔහුගේ හොඳම පන්දු යැවීම වෙයි.
+
+...
+
+[Data](articles/bccc44c9.json)
 
 ---
 
@@ -1717,35 +1747,5 @@ At the time of the fire, there were 41 passengers on board, according to reports
 ...
 
 [Data](articles/e4a1226d.json)
-
----
-
-### Remembering  Legendary Trade Union Leader amd Trotskyite Firebrand   Comrade  Bala Tampoe .
-
-*2025-09-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=77697) · `en`
-
-(This article was written in May 2022 to commemorate the birth centenary of  Firebrand Trade Union Leader Bala Tampoe.It is re-posted without any changes here  to denote his 11th death anniversary on September 1st 2025)
-
-The “Political Pulse”column focuses  this week on a man who was perhaps the last of the great trade unionists. A legend in his lifetime who was at the helm of a vibrant trade union   continuously for a   period of sixty six years – an unsurpassed record! I am of course referring to comrade Bala Tampoe  who was the Ceylon Mercantile Union (CMU)  General Secretary from 1948 to 2014. Though called the CMU still, the amended name of the union is now The Ceylon Mercantile, Industrial and General Workers Union. The  trade union firebrand  is  no more with us having passed away in September   2014. Bala Tampoe’s  birth centenary  was on May 23rd.
-
-...
-
-[Data](articles/12d67573.json)
-
----
-
-### නිධන් හැරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් DIG රිමාන්ඩ්
-
-*2025-09-01 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214048) · `si`
-
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හෑරීම සම්බන්ධව සැකපිට අත්අඩංගුවට ගත් නියෝජ්‍ය පොලිස්පතිවරයා අද (01) දින හඳුනාගැනීමේ පැරැට්ටුවක් සඳහා අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපක් කළේය.
-
-එහිදී අදාළ නියෝජ්‍ය පොලිස්පතිවරයා බවට තහවුරු වූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
-
-ඒ අනුව එම නියෝජ්‍ය පොලිස්පතිවරයා එළැඹෙන 08 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
-
-◼️
-
-[Data](articles/b1d8318c.json)
 
 ---

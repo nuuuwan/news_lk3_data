@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 10:33:53**
+As of **2025-09-02 10:50:38**
 
 ## Newspaper Stats
 
-*Scraped **73,675** Articles*
+*Scraped **73,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,098
+adalk | 7,101
 adaderanalk | 9,390
-tamilmirrorlk | 10,954
+tamilmirrorlk | 10,955
 virakesarilk | 12,058
 adaderanasinhalalk | 12,790
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,675 articles have been extended.
+61,973 (84.1%) of 73,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### மன்னார் வீரர்கள் இருவர், தேசிய உதைபந்தாட்ட   அணிக்கு தெரிவு
+
+*2025-09-02 10:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மன்னார்-வீரர்கள்-இருவர்-தேசிய-உதைபந்தாட்ட-அணிக்கு-தெரிவு/44-363894) · `ta`
+
+இலங்கை 16 வயது கீழ் உதைபந்தாட்ட தேசிய அணியில் மாணவர்களை உள்வாங்குவதற்கு நடைபெற்ற தேர்வில் மன்/புனித சவேரியார் ஆண்கள் தேசிய பாடசாலையைச் சேர்ந்த இரு மாணவர்கள் தெரிவாகி மாவட்டத்திற்கு பெருமை சேர்த்துள்ளனர்.
+
+மன்/புனித சவேரியார் ஆண்கள் கல்லூரியைச் சேர்ந்த மாணவர்களான   N.கெஸ்ரோன் ,  K.ஜெனிஸ்ரன் ஆகியோர் குறித்த தெரிவில் கலந்து கொண்டு சிறப்பாக விளையாடி திறமையை வெளிப்படுத்தியதன் அடிப்படையில் தேசிய அணிக்கு தெரிவு செய்யப்பட்டுள்ளனர்
+
+குறித்த இரு மாணவர்களும் கலந்து கொள்ளும் முதலாவது சர்வதேச உதைபந்தாட்ட போட்டியானது சீனாவில் இம் மாதம் 20ம் திகதி தொடக்கம் 28ம் திகதி வரை நடைபெறவுள்ளது.
+
+இப் போட்டி “ U16 Tainyu Liufang Cup – 2025” ற்கான போட்டியாகும். இதற்கான மேலதிக பயிற்சிகள் இம் மாதம் 4 ஆம் திகதி முதல் கொழும்பில் நடைபெறவுள்ளது.
+
+இம்மாணவர்கள் மிகவும் வறுமைக்கோட்டின் கீழ் இருந்து தமது கல்வியை மேற்கொள்கின்றார்கள்  என்பதன் அடிப்படையில் குறித்த மாணவர்களுக்கு உதவி செய்ய விரும்புவோர் அதிபர் ஊடாக உங்கள் உதவிகளை வழங்கி அந்த மாணவர்களின் திறமைக்கான அங்கீகாரம் பெறுவதற்கு உதவுமாறு கேட்டுக்கொள்ளப்படுகின்றீர்கள்
+
+...
+
+[Data](articles/51d130cf.json)
+
+---
+
+### රත්නපුර රෝහලේ වෛද්‍යවරුන් සංකේත වැඩ වර්ජනයක් ආරම්භ කරයි
+
+*2025-09-02 10:16:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-රෝහලේ-වෛද්‍යවරුන්-සංකේත-වැඩ-වර්ජනයක්-ආරම්භ-කරයි/11-418215) · `si`
+
+රෝහල් අධ්‍යක්ෂවරයාගේ ක්‍රියාකලාපයට විරෝධය පළකරමින් රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය විසින් අද (02දා)  පෙරවරු 08 සිට රත්නපුර ශික්ෂණ රෝහලේ සංකේත වැඩවර්ජනයක්  ආරම්භ කර තිබේ.
+
+ජීවිත ආරක්ෂක සේවා පවත්වාගෙන යමින් මෙම සංකේත වැඩවර්ජනයේ නිරත වන බව එම සංගමය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9cabc4fc.json)
+
+---
 
 ### ජනපති අදත් උතුරේ සංවර්ධන ව්‍යාපෘති රැසක
 
@@ -102,6 +136,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ඉරිදා උදේ මාතර උපකාරක පංති තහනම්
+
+*2025-09-02 09:18:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉරිදා-උදේ-මාතර-උපකාරක-පංති-තහනම්/11-418214) · `si`
+
+දහම් පාසල් අධ්‍යාපනය වෙනුවෙන් ඉරිදා උදේ වරුවේ මාතර නගරයේ ටියුෂන් පන්ති පැවැත්වීම තහනම් කිරීමට අවශ්‍ය කටයුතු සිදු කරන බව ලමා හා කාන්තා කටයුතු ඇමතිනී සරෝජා සාවිත්‍රී පෝල්රාජ් මහත්මිය පැවසුවාය.
+
+මාතර ප්‍රාදේශීය සංවර්ධන කමිටු රැස්වීමේ දී පසුගියදා ඇය ඒ බව කීවාය.
+
+පලමු වසරේ සිට අ.පො.ස සාමාන්‍ය පෙළ දක්වා එසේ ටියුෂන් පන්ති පැවැත්වීම ඉරිදා උදේ වරුවේ තහනම් කරන බවද මාතර මහ නගර සභාව මගින් එම කටයුත්ත සිදු කරන බවද අමාත්‍යවරිය පැවසුවාය.
+
+අ.පො.ස උසස් පෙළ උපකාරක පන්ති ඉරිදා උදේ වරුවේ පැවැත්වීම තහනම් කිරීම ප්‍රායෝගික නොවන බව තම අදහස බවද ඒ පිළිබඳව තවදුරටත් සාකච්ඡා කරන බවද පෝල්රාජ් මහත්මිය  කීවාය.
+
+විශේෂයෙන්ම දහම් පාසල් අධ්‍යාපනයයෙන් බැහැර වීම තුල දරුවන් නොමගට යොමු වීමේ ප්‍රවනතාවයන් වැඩි වී ඇති බවද එම නිසා ඉරිදා උදේ වරුවේ දහම් අධ්‍යාපනයට දරුවන් යොමු කිරීම වැදගත් වන බවද එම රැස්වීමේ දී රජයේ නිලධාරීන් අදහස් දක්වමින් කියා සිටියේය.
+
+...
+
+[Data](articles/275c4ff6.json)
+
+---
+
 ### இந்தியாவில் போலி கடவுசீட்டு அல்லது விசா பயன்படுத்தினால் கடும் நடவடிக்கை ; புதிய சட்டம்  அமுல்
 
 *2025-09-02 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223984) · `ta`
@@ -115,6 +169,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/61565ce8.json)
+
+---
+
+### අගෝස්තු මාසයේදී සංචාරකයන් 198 235ක් ඇවිත්
+
+*2025-09-02 09:05:10* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-මාසයේදී-සංචාරකයන්-198-235ක්-ඇවිත්/11-418213) · `si`
+
+ආගෝස්තු මාසයේදී ශ්‍රී ලංකාවට සංචාරකයන් 198235ක් පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+2024 අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට පැමිණි තිබූ සංචාරකයන් සංඛ්‍යාව 164609කි.
+
+මේ වසරේ ජනවාරි මස පළමු වැනිදා සිට අගෝස්තු 31 දා තෙක් ‍ශ්‍රී ලංකාවට සංචාරකයන් 1 566 523ක් පැමිණ තිබේ.
+
+මේ වසරේ ශ්‍රී ලංකාවට සංචාරකයන් ලක්ෂ 25ක් ගෙන්වා ගැනීමට අපේක්ෂා කරන අතර ඒ් අනුව සැප්තැම්බර් සිට දෙසැම්බර් දක්වා වූ කාලසීමාවේදී ශ්‍රී ලංකාවට තවත් සංචාරකයන් 934000ක් පමණ ගෙන්වා ගත යුතු වෙයි.
+
+◼️
+
+[Data](articles/2dfbffce.json)
 
 ---
 
@@ -1685,65 +1757,5 @@ This was based on information received by the Anuradhapura Police on August 13 t
 ...
 
 [Data](articles/fd3177fc.json)
-
----
-
-### Sri Lanka born Ruwan Jayakody: Culinary Excellence and Entrepreneurial Vision from Toronto to the World
-
-*2025-09-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86375) · `en`
-
-There is something to be said about individuals who ensure that people get only the best, because it is what they deserve. Ruwan Jayakody is one such individual, as he stands in his Grand Cinnamon Banquet and Convention Centre, watching servers prepare for another sold-out event. The premiere venue represents just one facet of a major business built from flour, sugar, and driven ambition.
-
-Born in rural Ruwanwella, Sri Lanka, among generations of farmers, Jayakody has taken the path from cowboy to world-renowned celebrity chef, accumulating 42 years of hospitality expertise across four continents.
-
-...
-
-[Data](articles/948b5a31.json)
-
----
-
-### Sri Lankan  President Anura Kumara Dissanayake makes  a quick, unannounced visit to Katchatheevu, after vowing to safeguard “seas and islands” around the country and resist any “external pressure”.
-
-*2025-09-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86373) · `en`
-
-Sri Lanka’s President Anura Kumara Dissanayake — who was on Monday (September 1, 2025) in the northern Jaffna district to launch development projects — made a quick, unannounced visit to Katchatheevu, after vowing to safeguard “seas and islands” around the country and resist any “external pressure”.
-
-Jaffna media was caught by surprise as the President’s trip to the island, by a naval speed boat according to local news reports, was not mentioned in his official itinerary.
-
-The visit followed a ceremony to begin the expansion of the Myliddy Fisheries Harbour in Jaffna, a project aimed at boosting livelihoods of war-affected fishermen. Speaking at the event, Mr. Dissanayake said: “The government is committed to safeguarding the surrounding seas, islands, and landmass of the country for the benefit of the people and will not allow any external force to exert influence in this regard.”
-
-...
-
-[Data](articles/e4a49960.json)
-
----
-
-### யாழ். சர்வதேச கிரிக்கெட் மைதான நிர்மாணப் பணிகள் ஆரம்பம்
-
-*2025-09-01 17:56:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-சர்வதேச-கிரிக்கெட்-மைதான-நிர்மாணப்-பணிகள்-ஆரம்பம்/175-363871) · `ta`
-
-யாழ்ப்பாணம் மண்டைதீவில் நிர்மாணிக்கப்படும் யாழ் சர்வதேச கிரிக்கெட் மைதானத்தின் நிர்மாணப் பணிகள் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவால் இன்று (01)ஆரம்பித்து வைக்கப்பட்டது
-
-வடமாகாணத்தில் கிரிக்கெட்டின் மேம்பாட்டிற்கும், இளம் வீரர்களுக்கான புதிய வாய்ப்புகளை உருவாக்குவதற்கும் இந்த மைதானம் முக்கிய பங்காற்றும் என்று எதிர்பார்க்கப்படுகிறது. மேலும், இம்மைதானம் தேசிய மற்றும் சர்வதேச போட்டிகளை யாழ்ப்பாணத்தில் நடத்துவதற்கான வழிவகையை ஏற்படுத்தி, இலங்கையின் விளையாட்டுத் துறையில் புதிய கட்டத்தைத் தொடங்கவுள்ளது.
-
-இலங்கை கிரிக்கெட் சபை, இலங்கை அரசாங்கத்துடன் இணைந்து, நாடு முழுவதும் கிரிக்கெட்டின் வளர்ச்சிக்காகவும், அனைத்துப் பகுதிகளிலும் உள்ள திறமையான வீரர்களுக்குச் சர்வதேசத் தரத்திலான வசதிகளை அளிப்பதற்கும் தொடர்ந்து அர்ப்பணிப்புடன் செயற்பட்டு வருகின்றது.
-
-எதிர்வரும் 3 வருடங்களில் இங்கு சர்வதேச போட்டிகள் இடம்பெறும் என ஜனாதிபதியால் அறிவிக்கப்பட்டமை குறிப்பிடதக்கது
-
-...
-
-[Data](articles/32aa0cee.json)
-
----
-
-### Seylan Cards with Cinnamon Hotels & Resorts hosted ‘The Gathering of Giants’ for 2nd consecutive year
-
-*2025-09-01 17:49:00* · [`islandlk`](http://island.lk/seylan-cards-with-cinnamon-hotels-resorts-to-host-the-gathering-of-giants/) · `en`
-
-Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its nature-based tourism arm, Cinnamon Nature Trails, as the exclusive banking partner for the second consecutive year with ‘The Gathering of Giants’, an event celebrating the world’s largest congregation of Asian elephants.
-
-...
-
-[Data](articles/4515484b.json)
 
 ---

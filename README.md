@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 09:09:07**
+As of **2025-09-02 09:27:24**
 
 ## Newspaper Stats
 
-*Scraped **73,658** Articles*
+*Scraped **73,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,532
 dailymirrorlk | 4,733
-dailyftlk | 5,218
+dailyftlk | 5,219
 adalk | 7,097
 adaderanalk | 9,384
-tamilmirrorlk | 10,952
+tamilmirrorlk | 10,953
 virakesarilk | 12,055
 adaderanasinhalalk | 12,788
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,788
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,658 articles have been extended.
+61,973 (84.1%) of 73,660 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -594,6 +594,22 @@ Any Sri Lankan commuter with reasonable observation skills will notice the influ
 
 ---
 
+### Sri Lanka’s automobile market: Subliminal economic bubble?
+
+*2025-09-02 01:02:51* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-automobile-market-Subliminal-economic-bubble/4-781084) · `en`
+
+Banks and finance companies have been throwing money at individuals interested in purchasing new vehicles to profit from the interest rates that stem from loans
+
+From showrooms to sinking debt; is Sri Lanka repeating a global mistake?
+
+Any Sri Lankan commuter with reasonable observation skills will notice the influx of new vehicles in Colombo. The suffocating traffic is a simple indicator. This phenomenon was only bound to happen with the recent relaxation of import restrictions on vehicles. These restrictions were a recovery measure implemented by the Government for the economy to recover from Sri Lanka’s recent financial crisis. However, short lived was the excitement for the removal of such restrictions as the Government in January 2025, announced its exorbitantly high tax rates which were to be placed on imported vehicles. Taxes running as high as 300% slapped the common man into a reality which screamed that affording a new daily driver from their savings alone was impossible.
+
+...
+
+[Data](articles/c9e510b7.json)
+
+---
+
 ### How we are being misled by fiscal illusion in Sri Lanka
 
 *2025-09-02 00:54:12* · [`dailyftlk`](https://www.ft.lk/columns/How-we-are-being-misled-by-fiscal-illusion-in-Sri-Lanka/4-781082) · `en`
@@ -839,6 +855,20 @@ Earlier today, the programme to develop the Jaffna Library into an e-library was
 ...
 
 [Data](articles/e5c59aee.json)
+
+---
+
+### ரயிலுடன் மோதிய லொறி : சிறுமி உட்பட 3 பேர் காயம்
+
+*2025-09-01 22:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோதிய-லொறி-சிறுமி-உட்பட-3-பேர்-காயம்/175-363878) · `ta`
+
+கொழும்பு கோட்டையிலிருந்து யாழ்ப்பாணம் நோக்கிச் சென்ற ரயிலில், சிறிய ரக லொறி ஒன்று மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+வவுனியா தெற்கு பிரதேச செயலகத்திற்கு அருகிலுள்ள ரயில் கடவையில் இடம்பெற்ற இவ்விபத்தில் சிறுமி உட்பட 3 பேர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக வவுனியா பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/27ea6c2b.json)
 
 ---
 
@@ -1687,33 +1717,5 @@ It will also enhance health system resilience by upgrading laboratories, strengt
 ...
 
 [Data](articles/38f939dd.json)
-
----
-
-### හික්කඩුවේ වෙඩිතැබීමක්
-
-*2025-09-01 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214045) · `si`
-
-හික්කඩුව, මලවැන්න ප්‍රදේශයේදී අද (01) පස්වරුවේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා තිබේ.
-
-පොලීසිය පැවසුවේ, යතුරුපැදියකින් පැමිණි දෙදෙනෙකු මෙම වෙඩි තැබීම සිදුකර පලා ගොස් ඇති බවය.
-
-◼️
-
-[Data](articles/7f03891a.json)
-
----
-
-### තමන්ව අත්අඩංගුවට ගැනීම වළක්වාලන ලෙස ඉල්ලා ගම්මන්පිලගෙන් පෙත්සමක්
-
-*2025-09-01 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214044) · `si`
-
-එක්සත් ජාතීන්ගේ සිවිල් හා දේශපාලන අයිතිවාසිකම් පිළිබඳ සම්මුති පනත (ICCPR) යටතේ තමන්ව අත්අඩංගුවට ගැනීම වළක්වන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය උදය ගම්මන්පිල මහතා විසින් අභියාචනාධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබේ.
-
-සිය නීතිඥවරු මාර්ගයෙන් ඉදිරිපත් කර තිබෙන මෙම පෙත්සම වගඋත්තරකරුවන් ලෙස මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම් රවී සෙනෙවිරත්න, පොලිස්පතිවරයා ඇතුළු පිරිසක් නම් කර ඇත.
-
-◼️
-
-[Data](articles/8dda2860.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 12:50:41**
+As of **2025-09-02 13:07:45**
 
 ## Newspaper Stats
 
-*Scraped **73,703** Articles*
+*Scraped **73,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,106
-adaderanalk | 9,394
-tamilmirrorlk | 10,961
-virakesarilk | 12,061
+adaderanalk | 9,397
+tamilmirrorlk | 10,962
+virakesarilk | 12,062
 adaderanasinhalalk | 12,796
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,703 articles have been extended.
+61,973 (84.1%) of 73,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### ஓய்வுபெற்ற அரச உத்தியோகத்தர்கள் ஆர்ப்பாட்டம் !
+
+*2025-09-02 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/224009) · `ta`
+
+ஓய்வுபெற்ற அரச உத்தியோகத்தர்கள் முன்னெடுத்த ஆர்ப்பாட்டம் காரணமாக, ஜனாதிபதி செயலகத்திற்கு முன்னாலுள்ள, காலி வீதியில் வாகனப் போக்குவரத்து தடைப்பட்டுள்ளது.
+
+அதன்படி, காலி முகத்திடல் பகுதியில் இருந்து கொள்ளுப்பிட்டி நோக்கிய காலி வீதியில்  போக்குவரத்து தடை செய்யப்பட்டுள்ளது.
+
+அதேநேரம், ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ள ஓய்வுபெற்ற அரச உத்தியோகத்தர்கள் குழுவின் 6 பேர் தங்களது ஆர்ப்பாட்டத்திற்கான கோரிக்கை குறித்து சம்பந்தப்பட்ட அதிகாரிகளுடன் கலந்துரையாடுவதற்காக ஜனாதிபதி செயலகத்திற்குள் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/2a6a3121.json)
+
+---
+
+### கேட்டாலோ, வாங்கினாலோ உடன் ஒரு ​மெசேஜ்
+
+*2025-09-02 12:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேட்டாலோ-வாங்கினாலோ-உடன்-ஒரு-மெசேஜ்/175-363902) · `ta`
+
+லஞ்சம் மற்றும் ஊழல் சம்பவங்கள் தொடர்பில்  பொதுமக்கள் எளிதாகப் முறை்பபாடு செய்யும் வகையில், இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு, 077 777 1954 என்ற புதிய வாட்ஸ்அப் எண்ணை அறிமுகப்படுத்தியுள்ளது.
+
+முறைப்பாட்டு செயல்முறையை விரைவாகவும் வசதியாகவும் மாற்றுவதே இந்தப் புதிய முறையின் நோக்கமாகும் என்று இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0c67aa77.json)
+
+---
 
 ### திடீர் சுற்றிவளைப்பில் பல பொருட்களை அள்ளினர்
 
@@ -47,6 +77,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bd6b3210.json)
+
+---
+
+### “There is no room for racist politics in the country again” – President pledges to people of North
+
+*2025-09-02 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112102/there-is-no-room-for-racist-politics-in-the-country-again-president-pledges-to-people-of-north) · `en`
+
+President Anura Kumara Dissanayake has affirmed that no opportunity will be given for the resurgence of racist politics in the country.
+
+President Dissanayake made this statement while participating in the inauguration ceremony of the national program “කප්තුරු සවිය”.
+
+The President emphasized that racist politics have never served the general public and have merely been a tool used by politicians. He further stated that if such racist politics were to arise in any form or place, he firmly believes the people will reject it.
+
+The President also stated that the 30-year war was the greatest tragedy in the history of the country, and as a result, it led to division among the people. He pointed out that nationalism had become the main tool used to gain power in both the North and the South.
+
+...
+
+[Data](articles/f8b81141.json)
 
 ---
 
@@ -135,6 +183,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b29ec28f.json)
+
+---
+
+### Rapper ‘Maduwa’ arrested again with explosives
+
+*2025-09-02 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112100/rapper-maduwa-arrested-again-with-explosives) · `en`
+
+Popular rapper Madhawa Prasad, known by his stage name ‘Maduwa’, who was recently arrested with a fake pistol, has been taken into custody once again—this time for the possession of explosives.
+
+According to the Kahathuduwa Police, officers seized three sticks of gelignite, five detonators, and 3.5 kilograms of ammonium nitrate from the suspect, said police.
+
+The rapper was previously arrested on August 25 with a fake pistol and later released on bail after being produced before the Kesbewa Magistrate’s Court.
+
+Police state that the arrest was made following a tip-off received by Sub-Inspector Rajitha Gurusinghe, Officer-in-Charge of the Crimes Investigation Division of the Kahathuduwa Police. The tip indicated that the suspect had buried a cache of explosives behind a house in Galahena, Pitipana, where he resides.
+
+...
+
+[Data](articles/2ad4ea09.json)
+
+---
+
+### Donald Trump says India offered to remove tariffs on US goods
+
+*2025-09-02 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112099/donald-trump-says-india-offered-to-remove-tariffs-on-us-goods) · `en`
+
+US President Donald Trump says India has offered to cut its tariffs ‘to nothing’ even as he called the current trade stalemate with the country ‘a totally one sided disaster’.
+
+US tariffs of 50% on goods from India - which includes 25% penalty for Delhi’s refusal to stop buying oil from Russia - took effect last week.
+
+India has not responded to Trump’s latest comment but such war of words over Russian oil has caused Delhi-Washington ties to hit an all-time low.
+
+Trump’s comment coincides with Indian Prime Minister Narendra Modi attending the Shanghai Co-operation Organisation (SCO) summit in Tianjin where he met Chinese President Xi Jinping and Russian President Vladimir Putin.
+
+Washington says Delhi has been indirectly funding Russia’s war in Ukraine.
+
+‘India buys most of its oil and military products from Russia, very little from the US,’ Trump wrote, adding Delhi should have cut tariffs ‘years ago’.
+
+...
+
+[Data](articles/43b40fc0.json)
 
 ---
 
@@ -1647,103 +1735,5 @@ Earlier today, the programme to develop the Jaffna Library into an e-library was
 ◼️
 
 [Data](articles/ca37366b.json)
-
----
-
-### ஜனாதிபதி கச்சதீவிற்கு விஜயம்
-
-*2025-09-01 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/223973) · `ta`
-
-யாழ்ப்பாணத்திற்கு 1ஆம் திகதி திங்கட்கிழமை காலை வந்தடைந்த ஜனாதிபதி அனுரா குமார திஸாநாயக்க, மாலை வேளையில் கச்சதீவுக்குப் பயணம் மேற்கொண்டார்.
-
-வடக்கு பிராந்தியத்தில் இரண்டு நாள் பயணமாக சென்றிருந்த ஜனாதிபதி, திங்கட்கிழமை (1) மாலை 5 மணியளவில் ஊர்காவற்றுறையிலிருந்து 4 படகுகளில் கச்சதீவுக்கு பயணமானார்.
-
-இந்த விஜயத்தின் போது ஜனாதிபதி அங்கு உள்ள பொது மக்களுடன் கலந்துரையாடி, அவர்களின் பிரச்சினைகளை கேட்டறிந்தார். அதேவேளை, மீனவர்கள் எதிர்கொள்ளும் சவால்கள் குறித்தும் ஜனாதிபதி விசாரித்து கேட்டறிந்துகொண்டார்.
-
-ஜனாதிபதி விஜயத்தின் போது, கச்சதீவின் இயற்கை அழகையும், மீனவர் சமூக வாழ்வையும் அவர் நேரடியாகக் கண்டறிந்தார். மேலும், கச்சதீவு தொடர்பான எதிர்கால அபிவிருத்தி திட்டங்கள் குறித்தும் அவர் ஆராய்ந்ததாகவும் தகவல்கள் வெளியாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/6c68d0d6.json)
-
----
-
-### බීමත් රෝගීයා හෙදියකට පහරදී රෝහලෙන් පලායයි
-
-*2025-09-01 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214055) · `si`
-
-පානදුර මූලික රෝහලෙන් ප්‍රතිකාර ලබාගැනීම සඳහා පැමිණි රෝගියෙකු කළ පහරදීමකින් හෙදියක රෝහල් ගත කර තිබේ.
-
-මෙසේ රෝහල් ගත කර ඇත්තේ මූලික ප්‍රතිකාර ඒකකයේ රාජකාරි කරන හෙදියකි.
-
-පහරදීම සිදුකළ රෝගියා ඇද වැටීමකින් තුවාල ලබා ප්‍රතිකාර ලබාගැනීම සඳහා පානදුර මූලික රෝහලට පැමිණ ඇති අතර, ඔහු බීමතින් සිට ඇති බවද රෝහල් ප්‍රකාශකයෙක් පැවසීය.
-
-ඔහු පරුෂ වචනයෙන් රෝහල් කාර්ය මණ්ඩලයට බැණ වැදී සිට ඇති අතර, පහර කෑමට ලක්වූ හෙදිය ඒ බව රෝහල් පොලීසියට දැනුම් දී නැවත මූලික ප්‍රතිකාර ඒකකයට පැමිණෙන අතරතුර රෝගියා ට්‍රොලියෙන් බැස හෙදියට පහර ඇති බව වාර්තා වෙයි.
-
-මෙසේ පහරදී පලා ගොස් ඇත්තේ මොරටුව, මෝදර ප්‍රදේශයේ පදිංචි පුද්ගලයකි.
-
-සිද්ධිය සම්බන්ධයෙන් පානදුර දකුණ මූලස්ථාන පොලීසියට පැමිණිලි කිරීමට නියමිත බවද වාර්තා වේ.
-
-◼️
-
-[Data](articles/90c7ebeb.json)
-
----
-
-### Afghanistan earthquake kills 800, injures 2,800, Taliban asks world for help
-
-*2025-09-01 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112082/afghanistan-earthquake-kills-800-injures-2800-taliban-asks-world-for-help) · `en`
-
-One of Afghanistan’s worst earthquakes killed more than 800 people and injured at least 2,800, authorities said on Monday, as rescuers struggled to reach remote areas due to rough mountainous terrain and inclement weather.
-
-The disaster will further stretch the resources of the war-torn nation’s Taliban administration, already grappling with crises ranging from a sharp drop in foreign aid to deportations of hundreds of thousands of Afghans by neighbouring countries.
-
-Sharafat Zaman, spokesperson for the health ministry in Kabul, called for international aid to tackle the devastation wrought by the quake of magnitude 6 that struck around midnight local time, at a depth of 10 km (6 miles).
-
-“We need it because here lots of people lost their lives and houses,” he told Reuters.
-
-The quake killed 812 people in the eastern provinces of Kunar and Nangarhar, administration spokesman Zabihullah Mujahid said.
-
-...
-
-[Data](articles/592768fe.json)
-
----
-
-### ජනපති කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවක
-
-*2025-09-01 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214054) · `si`
-
-අද (01) යාපනයේ සංවර්ධන වැඩසටහන් කිහිපයක් ආරම්භ කිරීමේ සහ විවෘත කිරීමේ අවස්ථාවන්ට සහභාගී වු ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන් අනතුරුව යාපනය කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවකද නිරත විය.
-
-ධීවර, ජලජ සහ සාගර සම්පත් අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්, මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ යන මහත්වරුද මෙම අවස්ථාවට එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/62d089e9.json)
-
----
-
-### பசியால் கிணற்றில் விழுந்த யானை: பத்திரமாக மீட்டது வனத்துறை!
-
-*2025-09-01 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/223976) · `ta`
-
-இந்தியாவின், கேரள மாநிலம் எர்ணாகுளம் அடுத்த கொத்தமங்கலத்தில் கடந்த 30ம் தேதி, காட்டு யானை ஒன்று உணவு தேடி குடியிருப்பு பகுதிக்குள் நுழைந்தது.
-
-நள்ளிரவு நேரம் ஒருவரின் வீட்டு வளவுக்குள் சென்ற அந்த யானை, அங்கிருந்த கிணற்றில் தவறி விழுந்தது.
-
-இதையடுத்து யானை எழுப்பிய சத்தம் கேட்டு ஓடி வந்து பார்த்த அப்பகுதி மக்கள், இது குறித்து வனத்துறையினருக்கு தகவல் தெரிவித்தனர்.
-
-அங்கு சென்ற வனத்துறையினர் கிணற்றின் ஒரு பகுதியை இடித்து சாய்வுப்பாதை அமைத்தால்தான், யானையை மீட்க முடியும் என தெரிவித்தனர்.
-
-ஆனால், வீட்டின் உரிமையாளர் கிணற்றின் பக்கவாட்டு சுவரை இடிக்கக் கூடாது என எதிர்ப்பு தெரிவித்தார்.
-
-இதையடுத்து அவருடன் பேச்சுவார்த்தை நடத்திய வனத்துறையினரும், பொலிசாரும், யானையை மீட்கும் பணியில் ஈடுபட்டனர்.
-
-நீண்ட நேர போராட்டத்திற்குப் பின்னர், சாய்வு பாதை அமைத்து, சுமார் 15 வயது மதிக்கத்தக்க அந்த யானையை பத்திரமாக மீட்டனர்.
-
-◼️
-
-[Data](articles/ab727bb5.json)
 
 ---

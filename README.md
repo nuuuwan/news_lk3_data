@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 14:24:01**
+As of **2025-09-02 14:35:45**
 
 ## Newspaper Stats
 
-*Scraped **73,720** Articles*
+*Scraped **73,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,109
-adaderanalk | 9,397
+adaderanalk | 9,399
 tamilmirrorlk | 10,967
 virakesarilk | 12,062
 adaderanasinhalalk | 12,800
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,720 articles have been extended.
+61,973 (84.1%) of 73,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -153,6 +153,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/bb795dc0.json)
+
+---
+
+### Death toll from Afghanistan earthquake rises to 1,100
+
+*2025-09-02 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112104/death-toll-from-afghanistan-earthquake-rises-to-1100) · `en`
+
+At least 1,100 people have been killed and 3,500 others injured after a magnitude 6.0 earthquake struck eastern Afghanistan, according to Taliban officials.
+
+The earthquake struck at 11:47 p.m. on Saturday in Afghanistan’s Hindu Kush region, near the border with Pakistan, according to the U.S. Geological Survey (USGS). It was centered about 26 miles (42 kilometers) from Jalālābād at a depth of roughly 6 miles (10 kilometers).
+
+Abdul Jabbar Behir, head of the Afghan Media and Research Center, told Al Arabiya on Monday that the earthquake’s death toll had risen to 1,100, with 3,500 others injured. The provinces of Kunar, Nangarhar, Laghman, and Nuristan were among the worst affected, with reports of entire villages destroyed.
+
+Initial reports from Taliban officials on Sunday put the toll at nine dead and more than 20 injured in Nangarhar and Kunar provinces, but the figures have risen sharply as more information emerges from remote areas. Rescue operations remain ongoing.
+
+...
+
+[Data](articles/87479e65.json)
+
+---
+
+### Eight-hour traffic jams in Delhi suburb as rains wreak havoc
+
+*2025-09-02 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112103/eight-hour-traffic-jams-in-delhi-suburb-as-rains-wreak-havoc) · `en`
+
+Thousands of commuters in one of India’s wealthiest suburbs were stuck on roads for six to eight hours due to rain-triggered traffic gridlock on Monday.
+
+The incident has sparked outrage online, with many questioning how a place like Gurugram - known for its futuristic skyscrapers and sprawling corporate offices - could have such poor infrastructure.
+
+Disaster management authorities in the suburb, which is located on the outskirts of capital Delhi, have advised offices, schools and colleges to work from home on Tuesday as more rainfall is predicted.
+
+Torrential rains have wreaked havoc in several parts of India this year, killing hundreds of people in floods and landslides.
+
+Many people took to social media to express their frustration with Gurugram’s “nightmarish” traffic, which was more than 10km (6.2 miles) long on one road, according to local media.
+
+A viral video shows a never-ending row of cars clogging at least a dozen lanes of a key highway.
+
+...
+
+[Data](articles/ab5f3ec9.json)
 
 ---
 
@@ -1709,37 +1749,5 @@ Both authors graduated from the University of Moratuwa in 1987. Since then, thei
 ...
 
 [Data](articles/1fde0e35.json)
-
----
-
-### Where’s the papaverine? NMRA has flatlined on vital heart medicine
-
-*2025-09-02 00:17:36* · [`dailyftlk`](https://www.ft.lk/columns/Where-s-the-papaverine-NMRA-has-flatlined-on-vital-heart-medicine/4-781077) · `en`
-
-Whatever the cost of papaverine, hospitals must have options of acquiring it from as many registered suppliers as possible
-
-In early April of 2025, this author in an article published in the Daily FT asked the National Medicines Regulatory Authority (NMRA) to quit playing games with our hearts (https://www.ft.lk/opinion/NMRA-should-quit-playing-games-with-our-hearts/14-775045), but it seems to be continuing to cause heartache.
-
-In 2024, the State Pharmaceutical Corporation (SPC) rejected several bids of the sole registered supplier for the drug papaverine – a critical vasodilator widely used in cardiothoracic surgery – purportedly owing to their ‘exorbitant’ prices. About a year or so later, hospitals began to run out of papaverine stocks. With another bid from the same supplier still pending approval, the National Medicines Regulatory Authority (NMRA) conceded that bottlenecks in their own registration processes prevented price competition.
-
-...
-
-[Data](articles/c082958c.json)
-
----
-
-### 2025-09-01 (Monday)
-
-### வவுனியா, பட்டானிச்சூரில் விபத்து - மூவர் படுகாயம்
-
-*2025-09-01 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/223978) · `ta`
-
-வவுனியா பட்டானிச்சூரில் திங்கட்கிழமை (01) இடம்பெற்ற விபத்தில் இரு பெண்கள் உட்பட மூவர் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-வவுனியாவில் இருந்து பயணித்த இரு மோட்டார் சைக்கிள்களின் மீது பின்னே வந்த பட்டா ரக வாகனம் மோதியே குறித்த விபத்து இடம்பெற்றுள்ளது.
-
-◼️
-
-[Data](articles/3dd553f1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 21:33:09**
+As of **2025-09-02 21:50:50**
 
 ## Newspaper Stats
 
-*Scraped **73,766** Articles*
+*Scraped **73,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,43 @@ newsfirstlk | 363
 dbsjeyarajcom | 623
 bbccomsinhala | 677
 colombotelegraphcom | 754
-economynextcom | 4,484
+economynextcom | 4,495
 islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,118
-adaderanalk | 9,406
+adaderanalk | 9,408
 tamilmirrorlk | 10,974
-virakesarilk | 12,067
+virakesarilk | 12,068
 adaderanasinhalalk | 12,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,766 articles have been extended.
+61,973 (84.0%) of 73,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Erdogan slams US decision to revoke Palestinian visas ahead of UN meeting
+
+*2025-09-02 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112114/erdogan-slams-us-decision-to-revoke-palestinian-visas-ahead-of-un-meeting) · `en`
+
+Turkish President Tayyip Erdogan said the United States should urgently revise its decision to revoke the visas of Palestinian officials and bar them from attending a gathering of world leaders at the United Nations this month in New York.
+
+Washington said last week it would not allow Palestinian Authority President Mahmoud Abbas and others to travel to New York, where several U.S. allies are set to recognise Palestine as a state.
+
+The move “does not fit the United Nations’ raison d’etre,” Erdogan told reporters on a flight home from China, according to a readout from his office on Tuesday. “The decision needs to be urgently revised. The United Nations General Assembly exists for the issues of the world to be discussed and for solutions to be found.”
+
+“The Palestinian delegation not being at the General Assembly would only please Israel,” he added. “What is expected from the United States is to say ‘stop’ to Israel’s massacres, cruelty”.
+
+...
+
+[Data](articles/17a00b07.json)
+
+---
 
 ### රනිල්ගේ සෞඛ්‍ය තත්ත්වය මත එජාප සංවත්සර සැමරුම කල් දමයි
 
@@ -49,6 +67,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/988a8abc.json)
+
+---
+
+### 49ஆவது தேசிய விளையாட்டு விழா மெய்வல்லுநர் போட்டியில் அசத்திய வடக்கு, மலையக,  கிழக்கு வீர, வீராங்கனைகள்
+
+*2025-09-02 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224058) · `ta`
+
+விளையாட்டுத்துறை அமைச்சும், விளையாட்டுத்துறை அபிவிருத்தித் திணைக்களமும் இணைந்து ஏற்பாடு செய்த 49ஆவது தேசிய விளையாட்டு விழா காலி தடெல்ல மைதானத்தில் கடந்த வார இறுதியில் நிறைவடைந்தது.
+
+விளையாட்டு விழாவில் மிகவும் முக்கியமானதும் கடைசியுமான மெய்வல்லுநர் போட்டிகளில் வடக்கு, மலையக, கிழக்கு வீர, வீராங்கனைகள் பதக்கங்கள் வென்று அசத்தியிருந்தனர்.
+
+கோலூன்றிப் பாய்தலில் ஆண்கள் மற்றும் பெண்கள் ஆகிய இரண்டு பிரிவுகளில் வட மாகாணத்தைச் சேர்ந்த அருந்தவராசா புவிதரனும் நேசராசா டக்சிதாவும் தத்தமது சொந்த சாதனைகளை முறியடித்து புதிய போட்டி சாதனைகளை நிலைநாட்டி தங்கப் பதங்கங்களை சுவீகரித்து பலத்த பாராட்டுதல்களைப் பெற்றனர்.
+
+ஆண்களுக்கான கோலூன்றிப் பாய்தலில் புவிதரன் 5.12 மீற்றர் உயரத்தைத் தாவி புதிய போட்டி சாதனையைப் படைத்தார்.
+
+கடந்த வருடம் தன்னால் நிலைநாட்டப்பட்ட 5.11 மீற்றர் என்ற சாதனையை முறியடித்தே புவிதரன் இம் முறை புதிய சாதனையைப் படைத்தார்.
+
+பெண்களுக்கான கோலூன்றிப் பாய்தலில் டக்சிதா 3.52 மீற்றர் உயரம் தாவி, 2024இல் நிலைநாட்டப்பட்ட 3.51 மீற்றர் என்ற தனது சொந்த சாதனையை முறியடித்து புதிய சாதனையைப் படைத்தார்.
+
+...
+
+[Data](articles/12311cb9.json)
 
 ---
 
@@ -103,6 +143,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/49f06abe.json)
+
+---
+
+### ‘Harak Kata’ assassination plot foiled? Suspect nabbed with revolver
+
+*2025-09-02 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112113/harak-kata-assassination-plot-foiled-suspect-nabbed-with-revolver) · `en`
+
+A suspect who allegedly planned to shoot and kill notorious underworld figure Nadun Chinthaka alias ‘Karak Kata’ inside a court while disguised as a journalist, has been arrested by police.
+
+The suspect was arrested in Maharagama today (02) by officers of the Western Province North Range Crimes Division.
+
+Police have also taken into custody a revolver firearm, several bullets and a partially burnt video camera found in the possession of the suspect.
+
+It is suspected that the assassination had been ordered by organised criminal gang leader Manudinu Padmasiri Perera, alias ‘Kehelbaddara Padme’, and that the suspect had been planning to carry it out accordingly.
+
+◼️
+
+[Data](articles/9b61a323.json)
+
+---
+
+### Ahead of UN session, Sr Lanka FM requests IC to acknowledge, engage
+
+*2025-09-02 19:14:00* · [`economynextcom`](https://economynext.com/ahead-of-un-session-sr-lanka-fm-requests-ic-to-acknowledge-engage-239264/) · `en`
+
+ECONOMYNEXT – Sri Lanka Foreign Minister Vijitha Herath requested the international community to acknowledge the progress made by Sri Lanka’s new government and to engage in constructive dialogue, the Foreign Ministry said.
+
+The move comes a week ahead of the 80th United Nations General Assembly in which President Anura Kumara Dissanayake is expected to address this month.
+
+Minister Herath’s request came when he met Colombo-based diplomats on Tuesday (02) at the Ministry and briefed on the current developments in Sri Lanka.
+
+Sri Lanka is still facing criticism over its conduct in handling human rights during and after a 26-year war that ended in 2009 including war crimes and discrimination of minority.
+
+...
+
+[Data](articles/10e084fc.json)
 
 ---
 
@@ -202,6 +278,26 @@ As a political party and as a social movement shaped by the people, the SLPP is 
 
 ---
 
+### Foreign investors buy Sri Lanka rupee bonds after two weeks
+
+*2025-09-02 18:16:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-after-two-weeks-239259/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for the first time in two weeks in the week ended on August 28, the Central Bank data showed, in line with the global trend of foreign buying in bonds.
+
+Foreign investors bought a net 2,101 million rupee ($7 million) worth of government securities in the week ended on August 28.
+
+Global bond funds were popular for a 19th straight week as these funds saw a net $14.42 billion in inflows during the last week, Reuters reported.
+
+Foreign investors sold a net $5.44 million worth Sri Lankan rupee bonds in the two weeks ended on August 21 amid uncertainties over Trump’s reciprocal tariff.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
+
+...
+
+[Data](articles/643f9bb5.json)
+
+---
+
 ### මෙවර මානව හිමිකම් සැසියේදී PTA ගැන වැඩි අවධානයක්
 
 *2025-09-02 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214089) · `si`
@@ -296,6 +392,28 @@ The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for 
 
 ---
 
+### Public holding in The Kandy Hotels Co increases to 23-pct
+
+*2025-09-02 17:17:00* · [`economynextcom`](https://economynext.com/public-holding-in-the-kandy-hotels-co-increases-to-23-pct-239252/) · `en`
+
+ECONOMYNEXT – The public holding percentage of The Kandy Hotels Co (1938) PLC has increased from 15.98 in June to 23 percent, according to a stock exchange filing.
+
+The 7.02 percent increase was “due to non-public shareholders disposing of their shares in the market during the month of August,” the company said.
+
+Ambeon Holdings acquired a 6.09 percent stake of the ordinary voting shares of The Kandy Hotels Corporation (1938) PLC for 550.8 million rupees, on August 21.
+
+The Kandy Hotels Co (1938) PLC is a subsidiary of Ceylon Hotels Corporation PLC.
+
+The group owns EKHO Surf, EKHO Lake House, the Lake Hotel, and Suisse Hotel Kandy among other properties.
+
+The stock closed up 30 cents at 17.90 rupees. (Colombo/Sep2/2025)
+
+◼️
+
+[Data](articles/c6121416.json)
+
+---
+
 ### “සිහින ගමනාන්තයේ” පළමු දුම්රිය ස්ථානය නවීකරණය තල්පෙන් ඇරඹේ
 
 *2025-09-02 17:08:30* · [`adalk`](https://www.ada.lk/breaking_news/“සිහින-ගමනාන්තයේ”-පළමු-දුම්රිය-ස්ථානය-නවීකරණය-තල්පෙන්-ඇරඹේ/11-418232) · `si`
@@ -329,6 +447,28 @@ The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for 
 ◼️
 
 [Data](articles/9a1d3928.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields up
+
+*2025-09-02 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-239232/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.12/20 to the US dollar in the spot market Tuesday, weaker from 301.97/302.07 the previous day, while bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.20/28 percent, up from 8.15/26 percent.
+
+A bond maturing on 15.12.2028 closed at 9.00/9.08 percent, up from 8.98/9.10 percent.
+
+A bond maturing on 15.12.2029 closed at 9.52/66 percent, up from 9.55/65 percent.
+
+A bond maturing on 15.12.2032 closed at 10.35/40 percent, up from 10.30/40 percent.
+
+Rs 74,000 million Treasury bills are to be issued through an auction on Wednesday. (Colombo/Sep2/2025)
+
+◼️
+
+[Data](articles/b3325e4c.json)
 
 ---
 
@@ -377,6 +517,28 @@ The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for 
 ...
 
 [Data](articles/fab97be0.json)
+
+---
+
+### Sri Lanka stocks dip 0.34-pct, dragged down by banks
+
+*2025-09-02 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-0-34-pct-dragged-down-by-banks-239207/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed 0.34 percent lower due to profit taking, brokers said.
+
+“We are seeing a correction after the market went up by quite a lot,” a broker said.
+
+The ASPI dropped 71.78 points on Tuesday to close at 20,990.67; while the S&P SL20 index dipped 0.72 percent, or 43.75 points, to close at 6,027.61.
+
+Investor interest surrounding the bank and capital goods sectors was weaker on Tuesday.
+
+Weighing down the ASPI were; Ceylon Tobacco Company which ended 59.50 rupees lower at 1,609.50; Commercial Bank down 1.50 rupees at 193.25; National Development Bank down 2.50 rupees at 141.50; John Keells Holdings down 20 cents at 22.80 rupees; and DFCC Bank down 2.25 rupees at 159.
+
+Elsewhere, Indian equity markets “reversed gains on Tuesday, as an expiry-driven pullback in financials overpowered a broad-based rally, while investors looked forward to a key Goods and Services Tax (GST) Council meeting later this week,” Reuters said.
+
+...
+
+[Data](articles/5e3b6efa.json)
 
 ---
 
@@ -475,6 +637,26 @@ The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for 
 ◼️
 
 [Data](articles/99591ed9.json)
+
+---
+
+### Italy, Sri Lanka to create political consultations mechanism on minister’s visit
+
+*2025-09-02 15:39:00* · [`economynextcom`](https://economynext.com/italy-sri-lanka-to-create-political-consultations-mechanism-on-ministers-visit-239208/) · `en`
+
+ECONOMYNEXT – Italy’s Deputy Minister for Foreign Affairs and International Cooperation, Maria Tripodi, who is to visit Sri Lanka from September ​3–5, will sign an agreement on creating a ‘political consultations mechanism,’ the Ministry of Foreign Affairs said.
+
+“A memorandum of understanding on the establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.”
+
+Tripodi will co-chair the inaugural session of the Sri Lanka–Italy Political Consultations.
+
+Tripodi is scheduled to meet Sri Lanka’s prime minister Harini Amarasuriya and minister of foreign affairs Vijitha Herath.
+
+Diplomatic relations between the two countries were established in 1952. (Colombo/Sep2/2025)
+
+◼️
+
+[Data](articles/24c195ba.json)
 
 ---
 
@@ -685,6 +867,26 @@ His attendance is an upgrade from China’s last Victory Day parade in 2015, whe
 ...
 
 [Data](articles/427904de.json)
+
+---
+
+### Sri Lanka gets banana culture lab with FAO, China help
+
+*2025-09-02 14:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-banana-culture-lab-with-fao-china-help-239193/) · `en`
+
+ECONOMYNEXT – A state-of-the-art banana tissue culture planting material production laboratory has been set up in Sri Lanka’s North Central Province, with technical assistance from the Food and Agriculture Organization (FAO) under the South-South Cooperation (SSC) Programme with China.
+
+The lab is at the North Central Provincial Agriculture Department’s In-Service Training Institute in Maha Illuppallama.
+
+It will provide high-quality banana tissue cultured planting materials to farmers in the North Central, Northern, and North Western Provinces, the FAO said.
+
+“Until now, farmers in these regions have relied on supplies transported from the southern part of the country, which proved both costly and inefficient due to transport-related damage.”
+
+The facility will improve the availability of disease-free, high-yielding banana planting materials, enabling producers to increase productivity, quality, and profitability.
+
+...
+
+[Data](articles/f9f2bc44.json)
 
 ---
 
@@ -945,6 +1147,28 @@ A viral video shows a never-ending row of cars clogging at least a dozen lanes o
 ...
 
 [Data](articles/ab5f3ec9.json)
+
+---
+
+### Sri Lanka CEB offers VRS up to Rs5mn for excess workers
+
+*2025-09-02 12:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-offers-vrs-up-to-rs5mn-for-excess-workers-239186/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board is offering voluntary retirement package of up to 5 million rupees, to reduce excess workers, according to a gazette notice.
+
+Permanent workers who had served for 10 year or more will get the highest severance pay, of 2 months for every year served and 1.5 months compensation for the period forgone by early retirement.
+
+Employees with less than 10 years will get 0.5 months salary.
+
+The payments will be minimum 900,000 rupees and a maximum 5 million.
+
+Workers who are not in the permanent cadre will also be given compensation.
+
+The CEB had been stuffed with excess employees, from the electoraates of the minister in charge under various administrations, though qualified technical and engineering staff are in short supply.
+
+...
+
+[Data](articles/824ce270.json)
 
 ---
 
@@ -1458,6 +1682,28 @@ A Memorandum of Understanding on the Establishment of a Political Consultations 
 
 ---
 
+### Sri Lanka expands coconut farming in north
+
+*2025-09-02 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-expands-coconut-farming-in-north-238984/) · `en`
+
+ECONOMYNEXT – Sri Lanka hopes to bring 16,000 acres into coconut cultivation across Jaffna, Mullaitivu, and Mannar through the northern coconut triangle project, the president’s media division said.
+
+Initiated in 2023, the project is expected to expand to 50,000 acres by 2027 the PMD said.
+
+Coinciding with World Coconut Day, President Anura Dissanayake attended the ‘launch’ of the Kapthuru Saviya northern coconut triangle project this morning in Puthukudiyiruppu.
+
+The programme is expected to boost national output, lift productivity from 2.7 billion nuts in 2024 to 2.9 billion in 2025, and reach 4.2 billion by 2030, the Ceylon Chamber of Coconut Industries (CCCI) said.
+
+Coconut-based SMEs in the North and East will be developed, and yields increased by 10-15 percent annually, CCCI said, “to achieve Sri Lanka’s 2030 export target of USD 2.5 billion.”
+
+The Kapruka Saviya programme will also introduces modern market tools to future-proof the sector, CCCI said.
+
+...
+
+[Data](articles/db0a5d62.json)
+
+---
+
 ### ඕස්ට්‍රේලියානු සුපිරි වේග පන්දු යවන්නා හදීසියේ ගත් තීරණය මෙන්න
 
 *2025-09-02 10:26:54* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියානු-සුපිරි-වේග-පන්දු-යවන්නා-හදීසියේ-ගත්-තීරණය-මෙන්න/9-418216) · `si`
@@ -1493,6 +1739,30 @@ A Memorandum of Understanding on the Establishment of a Political Consultations 
 ...
 
 [Data](articles/51d130cf.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-09-02 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-239098/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.07/12 to the US dollar in the spot market Tuesday, weaker from 301.97/302.07 the previous day, while bond yields were broadly steady, dealers said.
+
+74,000 million rupees of Treasury bills are to be issued through an auction on Wednesday.
+
+A bond maturing on 15.12.2028 was quoted at 8.98/9.08 percent, down from 8.98/9.10 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.54/66 percent, down from 9.55/65 percent.
+
+A bond maturing on 15.05.2030 was quoted at 9.50/60 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.30/40 percent.
+
+The Colombo Stocks Exchange was trading in green; The ASPI was up 0.28 percent, or 58.98 points, at 21,121; the S&P SL20 was up 0.02 percent, or 1.38 points, at 6,072.
+
+...
+
+[Data](articles/96dbea17.json)
 
 ---
 
@@ -1569,231 +1839,5 @@ Alongside this initiative, the first model coconut garden in the North will be l
 ...
 
 [Data](articles/f4c9f351.json)
-
----
-
-### නිධන් හෑරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් DIG රිමාන්ඩ්
-
-*2025-09-02 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214066) · `si`
-
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හෑරීමේ සිද්ධියක් සම්බන්ධව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කළ නියෝජ්‍ය පොලිස්පතිවරයා අද (01) දින අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කර තිබේ.
-
-එහිදී ඔහුව හඳුනා ගැනීමේ පෙරට්ටුවට ඉදිරිපත් කර ඇති අතර එහිදී හඳුනා ගැනීමේ පෙරට්ටුවෙන් ඔහුව හඳුනාගෙන ඇත.
-
-ඒ අනුව නියෝජ්‍ය පොලිස්පතිවරයා එළැඹෙන 08 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය තීරණය කර තිබේ.
-
-◼️
-
-[Data](articles/bff8f04c.json)
-
----
-
-### Proposed recruitment of 10,000 Sri Lankans to Thailand under review
-
-*2025-09-02 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112093/proposed-recruitment-of-10000-sri-lankans-to-thailand-under-review) · `en`
-
-Ambassador and Permanent Representative of Sri Lanka to Thailand Wijayanthi Edirisinghe has held discussions with the Director General of the Department of Employment of Thailand, Somchai Morakotsriwan to review progress on the proposed recruitment of 10,000 Sri Lankans to Thailand under a Government-to-Government (G-to-G) mechanism.
-
-The discussion followed the Ambassador’s earlier courtesy call on the Minister of Labour of Thailand and the subsequent decision of the Thai Cabinet to proceed with the recruitment of Sri Lankan nationals to meet Thailand’s labour market demands, the Embassy of Sri Lanka in Thailand said in a statement.
-
-Ambassador Edirisinghe shared the draft Memorandum of Understanding (MoU) submitted by the Sri Lankan side and requested that any proposed amendments be communicated for further consideration, noting that Cabinet approval would be required prior to its finalization, the statement stated.
-
-...
-
-[Data](articles/4b607d8c.json)
-
----
-
-### பூண்டுலோயா விபத்தில் மாணவர்கள் உட்பட ஐவர் காயம்
-
-*2025-09-02 09:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பூண்டுலோயா-விபத்தில்-மாணவர்கள்-உட்பட-ஐவர்-காயம்/76-363889) · `ta`
-
-தலவாக்கலையில் இருந்து கண்டி நோக்கி பயணித்த தனியார் பேருந்து  மற்றும் முச்சக்கர வண்டியொன்று பூண்டுலோயா கய்ப்புக்கொலை பகுதியில் வைத்து செவ்வாய்க்கிழமை (02) விபத்துக்குள்ளாகியுள்ளது
-
-குறித்த  பேருந்து முச்சக்கர வண்டியை முந்திச் செல்ல முற்பட்ட போது விபத்து ஏற்பட்டுள்ளதுடன் விபத்தின் போது பேருந்தில் பயணித்த பாடசாலை மாணவர்கள் நால்வர் மற்றும் முச்சக்கர வண்டி சாரதிக்கு பலத்த காயங்கள் ஏற்பட்டுள்ளது.
-
-காயமடைந்த 5 பேரும் கொத்மலை வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் விபத்து தொடர்பான மேலதிக விசாரணைகளை பூண்டுலோயா பொலிஸார் மேற்கொண்டு வருகின்றனர்
-
-◼️
-
-[Data](articles/dffb101a.json)
-
----
-
-### 159வது பொலிஸ் தினத்தை முன்னிட்டு கொழும்பில் விசேட போக்குவரத்து திட்டம் நாளை
-
-*2025-09-02 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/223985) · `ta`
-
-159வது பொலிஸ் தினத்தை முன்னிட்டு நாளை புதன்கிழமை (3) பொலிஸ் மேலதிகப் படைத் தலைமையகத்தில் விசேட நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டுள்ளன.
-
-இதற்காக கொழும்பு போக்குவரத்துப் பிரிவினால் விசேட போக்குவரத்துத் ஒழுங்கு திட்டத்தை செயல்படுத்த ஏற்பாடு செய்யப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
-
-இதற்கமைய, பம்பலப்பிட்டி பொலிஸ் பிரிவில் உள்ள தும்முல்ல சந்திப்பிலிருந்து திம்பிரிகஸ்யாய சந்தி வரை ஹேவ்லாக் வீதியில் பயணிக்கவிருப்போர் பின்வரும் அறிவுறுத்தலை பின்பற்றுமாறு பொலிஸார் அறிவித்துள்ளனர்.
-
-பொலிஸ் மேலதிகப் படைத் தலைமையகத்திற்கு எதிரே உள்ள கொழும்பின் வெளியேறும் வீதியில் நிறுவப்பட்ட பஸ் நிறுத்தம் 03.09.2025 அன்று பிற்பகல் 02.30 மணி முதல் மாலை 07.00 மணி வரை ஹேவ்லாக் மார்க்கத்தில் உள்ள பொன்சேகா வீதியின் சந்தியில் அமைந்துள்ள பஸ் நிறுத்தத்திற்கு தற்காலிகமாக மாற்றப்படும்.
-
-...
-
-[Data](articles/417738db.json)
-
----
-
-### ඉරිදා උදේ මාතර උපකාරක පංති තහනම්
-
-*2025-09-02 09:18:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉරිදා-උදේ-මාතර-උපකාරක-පංති-තහනම්/11-418214) · `si`
-
-දහම් පාසල් අධ්‍යාපනය වෙනුවෙන් ඉරිදා උදේ වරුවේ මාතර නගරයේ ටියුෂන් පන්ති පැවැත්වීම තහනම් කිරීමට අවශ්‍ය කටයුතු සිදු කරන බව ලමා හා කාන්තා කටයුතු ඇමතිනී සරෝජා සාවිත්‍රී පෝල්රාජ් මහත්මිය පැවසුවාය.
-
-මාතර ප්‍රාදේශීය සංවර්ධන කමිටු රැස්වීමේ දී පසුගියදා ඇය ඒ බව කීවාය.
-
-පලමු වසරේ සිට අ.පො.ස සාමාන්‍ය පෙළ දක්වා එසේ ටියුෂන් පන්ති පැවැත්වීම ඉරිදා උදේ වරුවේ තහනම් කරන බවද මාතර මහ නගර සභාව මගින් එම කටයුත්ත සිදු කරන බවද අමාත්‍යවරිය පැවසුවාය.
-
-අ.පො.ස උසස් පෙළ උපකාරක පන්ති ඉරිදා උදේ වරුවේ පැවැත්වීම තහනම් කිරීම ප්‍රායෝගික නොවන බව තම අදහස බවද ඒ පිළිබඳව තවදුරටත් සාකච්ඡා කරන බවද පෝල්රාජ් මහත්මිය  කීවාය.
-
-විශේෂයෙන්ම දහම් පාසල් අධ්‍යාපනයයෙන් බැහැර වීම තුල දරුවන් නොමගට යොමු වීමේ ප්‍රවනතාවයන් වැඩි වී ඇති බවද එම නිසා ඉරිදා උදේ වරුවේ දහම් අධ්‍යාපනයට දරුවන් යොමු කිරීම වැදගත් වන බවද එම රැස්වීමේ දී රජයේ නිලධාරීන් අදහස් දක්වමින් කියා සිටියේය.
-
-...
-
-[Data](articles/275c4ff6.json)
-
----
-
-### இந்தியாவில் போலி கடவுசீட்டு அல்லது விசா பயன்படுத்தினால் கடும் நடவடிக்கை ; புதிய சட்டம்  அமுல்
-
-*2025-09-02 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223984) · `ta`
-
-இந்தியாவிற்குள் நுழைவதற்கும், வெளியேறுவதற்கும் வெளிநாட்டினர் சட்டம், 2025, போலியான கடவுசீட்டுகள், விசாக்களுக்கு கடுமையான தண்டனைகளை அமுல்படுத்தப்பட்டுள்ளது.
-
-இந்தியாவின் குடியேற்றச் சட்டங்களை ஒருங்கிணைத்து புதுப்பிக்கும் மற்றும் போலி கடவுசீட்டு அல்லது விசாக்களைப் பயன்படுத்துவதற்கு கடுமையான தண்டனைகளை விதிக்கும் புதிய குடியேற்றம் மற்றும் வெளிநாட்டினர் சட்டம், 2025, திங்கட்கிழமை அமுலுக்கு வந்தது.
-
-இந்த சட்டம் பாராளுமன்ற வரவு செலவு கூட்டத்தொடரின் போது நிறைவேற்றப்பட்டு, ஏப்ரல் மாதம் 4 ஆம் திகதி அன்று ஜனாதிபதி திரௌபதி முர்முவின் அனுமதியை பெற்றது.
-
-◼️
-
-[Data](articles/61565ce8.json)
-
----
-
-### අගෝස්තු මාසයේදී සංචාරකයන් 198 235ක් ඇවිත්
-
-*2025-09-02 09:05:10* · [`adalk`](https://www.ada.lk/breaking_news/අගෝස්තු-මාසයේදී-සංචාරකයන්-198-235ක්-ඇවිත්/11-418213) · `si`
-
-ආගෝස්තු මාසයේදී ශ්‍රී ලංකාවට සංචාරකයන් 198235ක් පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
-
-2024 අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට පැමිණි තිබූ සංචාරකයන් සංඛ්‍යාව 164609කි.
-
-මේ වසරේ ජනවාරි මස පළමු වැනිදා සිට අගෝස්තු 31 දා තෙක් ‍ශ්‍රී ලංකාවට සංචාරකයන් 1 566 523ක් පැමිණ තිබේ.
-
-මේ වසරේ ශ්‍රී ලංකාවට සංචාරකයන් ලක්ෂ 25ක් ගෙන්වා ගැනීමට අපේක්ෂා කරන අතර ඒ් අනුව සැප්තැම්බර් සිට දෙසැම්බර් දක්වා වූ කාලසීමාවේදී ශ්‍රී ලංකාවට තවත් සංචාරකයන් 934000ක් පමණ ගෙන්වා ගත යුතු වෙයි.
-
-◼️
-
-[Data](articles/2dfbffce.json)
-
----
-
-### 07 மாதங்களில் இலஞ்சம் பெற்ற குற்றச்சாட்டில் 17 பொலிஸ் அதிகாரிகள் உட்பட 49 பேர் கைது
-
-*2025-09-02 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223983) · `ta`
-
-இவ் வருடத்தின் முதல் ஏழு மாதங்களில் இலஞ்சம் பெற்ற குற்றச்சாட்டில் 49 நபர்கள் கைது செய்யப்பட்டுள்ளதாக இலஞ்சம், ஊழல் விசாரணை ஆணைக்குழு (CIABOC) தெரிவித்துள்ளது.
-
-இந்த காலகட்டத்தில் மொத்தம் 3,937 முறைப்பாடுகள் கிடைத்துள்ளதாக ஆணைக்குழு தெரிவித்துள்ளது. இந்த முறைப்பாடுகளின் அடிப்படையில், 72 சோதனைகள் நடத்தப்பட்டன, அவற்றில் 39 வெற்றிகரமாக மேற்கொள்ளப்பட்டன.
-
-நீதி அமைச்சு, சுகாதார அமைச்சு, குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம், இலங்கை போக்குவரத்து ஆணைக்குழு (SLTB) மற்றும் மாவட்ட செயலகங்கள் உள்ளிட்ட பல அரச நிறுவனங்களிலிருந்தும் சந்தேகநபர்கள் கைது செய்யப்பட்டதாக ஆணைக்குழு மேலும் குறிப்பிட்டது.
-
-மேலும், இந்தக் காலகட்டத்தில், இலஞ்சம் பெற்றதற்காக 27 நபர்களுக்கு நீதிமன்றங்களால் தண்டனை வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/13665320.json)
-
----
-
-### රිවි දනවි සූර්ය බල ව්‍යාපෘතියේ ඉදිකිරීම් 6දා ඇරඹේ
-
-*2025-09-02 08:50:46* · [`adalk`](https://www.ada.lk/breaking_news/රිවි-දනවි-සූර්ය-බල-ව්‍යාපෘතියේ-ඉදිකිරීම්-6දා-ඇරඹේ/11-418212) · `si`
-
-මොනරාගල දිස්ත්‍රික්කයේ සියඹලාණ්ඩුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ කොටියාගල ප්‍රදේශයේ ඉඳිකෙරෙන රිවි දනවි සූර්ය බල ව්‍යාපෘතියේ ඉඳි කිරීම් කටයුතු සඳහා මුල්ගල තැබීම සැප්තැම්බර් මස (06) වෙනි දින ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් සිදුකෙරේ.
-
-මෙම ව්‍යාපෘතිය පිළිබඳව අදහස් දැක්වූ ව්‍යාපෘති අධ්‍යක්ෂක චාමික පෙරේරා මහතා, "මෙම ව්‍යාපෘතිය යටතේ මෙගා වොට් සියයක විදුලි ධාරිතාවක් ජාතික විදුලි බල පද්ධතියට එක් වෙනවා.අක්කර 500 භූමි ප්‍රමාණයක මෙම ව්‍යාපෘතිය ස්ථාපිත කෙරෙනවා.ඒ සඳහා ඇමරිකානු ඩොලර් මිලියන 137 වැය කෙරෙනවා.ව්‍යාපෘතිය නිසා වායුගෝලයට විමෝචනය වන කාබන් ඩයොක්සයිඩ් ප්‍රමාණය වසරකට කිලෝග්‍රෑම් මිලියන 110 කින් අඩු වෙනවා.
-
-ව්‍යාපෘතිය මෙගාවොට් පැය දොළහක බැටරි ගබඩා පහසුකම්ද සහිතයි.එමඟින්  ජාතික විදුලි බල පද්ධතිය ස්ථායීතාව පවත්වාගෙන යාමට හැකි වෙනවා.ව්‍යාපෘති භූමිය වටා කිලෝමීටර් හතර හමාරක විදුලි වැටක් මේ වන විට ඉඳිකර තිබෙනවා.
-
-...
-
-[Data](articles/0e228f14.json)
-
----
-
-### Belgium to recognise Palestinian state at UN General Assembly
-
-*2025-09-02 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112092/belgium-to-recognise-palestinian-state-at-un-general-assembly) · `en`
-
-Belgium will recognise a Palestinian state at the U.N. General Assembly, Foreign Minister Maxime Prevot said on Tuesday, adding to international pressure on Israel after similar moves by Australia, Britain, Canada and France.
-
-Under mounting global criticism for its war in Gaza, Israel has been angered by the pledges to formally recognise a Palestinian state at a summit during this month’s U.N. event.
-
-Belgium will join the signatories of the New York Declaration, paving the way for a two-state solution, or a Palestinian state co-existing in peace alongside Israel, Prevot said in a post on X.
-
-The decision comes “in light of the humanitarian tragedy unfolding in Palestine, particularly in Gaza, and in response to the violence perpetrated by Israel in violation of international law,” Prevot added.
-
-...
-
-[Data](articles/80560f8c.json)
-
----
-
-### මිචෙල් ස්ටාර්ක් T20 තරගවලින් සමුගනී
-
-*2025-09-02 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214065) · `si`
-
-ඕස්ට්‍රේලියානු වේග පන්දු යවන ක්‍රීඩක මිචෙල් ස්ටාර්ක් විස්සයි20 තරගවලින් සමුගන්නා බව නිවේදනය කර තිබේ.
-
-එළැඹෙන වසරේ අග භාගයේ සිට පැවැත්වීමට නියමිත තරග රැසකින් සමන්විත ඕස්ට්‍රේලියාවේ ටෙස්ට් ක්‍රිකට් කාලසටහනට සහ 2027 එක්දින ලෝක කුසලානයට ප්‍රමුඛතාවය දීම සඳහා මෙලෙස විස්සයි20 තරගවලින් සමුගන්නා බව වැඩිදුරටත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/377a0da5.json)
-
----
-
-### மோடி - புடின் காரில் ஆலோசனை நடத்தினர்
-
-*2025-09-02 08:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மோடி-புடின்-காரில்-ஆலோசனை-நடத்தினர்/50-363888) · `ta`
-
-சீனாவில் நடைபெற்ற ஷாங்காய் ஒத்துழைப்பு அமைப்பின் உச்சி மாநாட்டில், பஹல்காம் தீவிரவாத தாக்குதலுக்கு கண்டனம் தெரிவித்து கூட்டறிக்கை வெளியிடப்பட்டது.
-
-மாநாட்டுக்கு பிறகு, ஒன்றாக புறப்பட்டு சென்ற ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினும், பிரதமர் மோடியும் காரிலேயே அமர்ந்து ஒரு மணி நேரம் தீவிர ஆலோசனை நடத்தினர்.
-
-ஷாங்காய் ஒத்துழைப்பு அமைப்பின் (எஸ்.சி.ஓ) உச்சி மாநாடு சீனாவின் தியான்ஜின் நகரில் நேற்று முன்தினம் தொடங்கியது. இதில் 20 இற்கும் மேற்பட்ட நாடுகளின் தலைவர்கள் பங்கேற்றனர். முதல் நாள் மாநாட்டின்போது சீன ஜனாதிபதி ஜி ஜின்பிங்கை பிரதமர் மோடி சந்தித்தார்.
-
-இந்நிலையில், மாநாட்டின் ஒரு பகுதியாக ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினை, பிரதமர் மோடி நேற்று சந்தித்தார். பின்னர், அவர்கள் கருத்து தெரிவிக்கையில்,
-
-இந்திய, ரஷ்ய உச்சி மாநாடு வரும் டிசம்பரில் டில்லியில் நடைபெற உள்ளது. இதில் ரஷ்ய ஜனாதிபதி புடின் பங்கேற்க உள்ளார். அவரது வருகையை எதிர்பார்த்து 140 கோடி இந்தியர்களும் ஆவலோடு காத்திருக்கின்றனர். புடினை ஒவ்வொரு முறை சந்திக்கும்போதும் மறக்க முடியாத அனுபவமாக அமைந்து விடுகிறது.
-
-...
-
-[Data](articles/b88e9a10.json)
-
----
-
-### Court backlog must be cleared by December 31 – Judicial Service Commission
-
-*2025-09-02 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112091/court-backlog-must-be-cleared-by-december-31-judicial-service-commission) · `en`
-
-The Judicial Service Commission (JSC) has directed that all pending case backlogs in courts must be cleared by December 31.
-
-This directive has reportedly been issued to all District Judges, Magistrates, and High Court Judges.
-
-In recent weeks, data regarding pending cases in courts was collected, and the Commission has now instructed the judges to begin expediting the clearance of these cases without delay.
-
-The Judicial Service Commission has emphasised that District Judges, Magistrates, High Court Judges, and Additional District Judges—who are administratively responsible for their respective courts—are directly accountable for clearing the pending caseload in their courts.
-
-The Commission is also expected to monitor the clearance process through local-level inspections, and has instructed all judges to submit monthly progress reports on the matter.
-
-...
-
-[Data](articles/b5f410d6.json)
 
 ---

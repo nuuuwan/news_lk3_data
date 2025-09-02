@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 20:08:13**
+As of **2025-09-02 20:33:58**
 
 ## Newspaper Stats
 
-*Scraped **73,759** Articles*
+*Scraped **73,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,116
-adaderanalk | 9,405
-tamilmirrorlk | 10,973
+adaderanalk | 9,406
+tamilmirrorlk | 10,974
 virakesarilk | 12,067
-adaderanasinhalalk | 12,812
+adaderanasinhalalk | 12,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,759 articles have been extended.
+61,973 (84.0%) of 73,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### வெப்பநிலை ’’எச்சரிக்கை’’ மட்டத்தில் இருக்கும்
+
+*2025-09-02 20:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-எச்சரிக்கை-மட்டத்தில்-இருக்கும்/175-363919) · `ta`
+
+வெப்பமான வானிலை தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்து அறிக்கை ஒன்றை வௌியிட்டுள்ளது.
+
+வடக்கு, வடமத்திய, கிழக்கு மாகாணங்கள் மற்றும் மொனராகலை, ஹம்பாந்தோட்டை மாவட்ட மக்கள் விழிப்புடன் இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+
+2025 செப்டம்பர் 2 ஆம் திகதி பிற்பகல் 3:00 மணிக்கு வெளியிடப்பட்ட இந்த எச்சரிக்கை, செப்டம்பர் 3 ஆம் திகதி வரை செல்லுபடியாகும் என திணைக்களம் தெரிவித்துள்ளது.
+
+இப்பகுதிகளின் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பநிலை "எச்சரிக்கை" மட்டத்தில் இருக்கக்கூடும் என திணைக்களம் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/94731321.json)
+
+---
+
+### දරුවකු අත්අඩංගුවට ගත්විට පැය 06ක් තුළදී මව්පියන් හමුවීමට ඉඩ දෙන්නැයි නියෝගයක්
+
+*2025-09-02 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214093) · `si`
+
+බාලවයස්කරුවෙකු අත්අඩංගුවට ගත්විට මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට පෙර පැය 06ක කාල සීමාවක් තුළ ඔහුගේ මවට, පියාට හෝ භාරකරුට ඔහු හමුවීමට ප්‍රවේශය ලබාදිය යුතු බවට දිවයිනේ සියලුම පොලිස් නිලධාරීන් වෙත නියෝගයක් නිකුත් කරන්නැයි ශ්‍රේෂ්ඨාධිකරණය විසින් පොලිස්පතිවරයාට නියෝග කර තිබේ.
+
+2022 වසරේ  රන් භාණ්ඩ සොරකමක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත්  බාල වයස්කාර පාසල් සිසුවෙකුට අමානුෂික ලෙස පහරදී ඔහුගේ දෑස් වලට නයි මිරිස් සාරය වක්කොට හිංසා සිදු කිරීම තුලින් හතරලියද්ද පොලිසියේ හිටපු ස්ථානාධිපතිවරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි තීන්දු කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ නියෝගයක මේ බව සඳහන් වෙයි.
+
+හතරලියද්ද ප්‍රදේශයේ පදිංචි 16 හැවිරිදි බාල වයස්කාර පාසල් සිසුවකු සහ ඔහුගේ භාරකාරිය වන හමින් සිත්ති නිහාරා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාග කිරීමෙන් අනතුරුව මේනකා විජේසුන්දර, සම්පත් අබේකෝන් යන විනිසුරුවරුන්ගේ එකඟතාවය  ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ජනක් ද සිල්වා මහතා මෙම තීන්දුව ප්‍රකාශයට පත් කළේය.
+
+...
+
+[Data](articles/49f06abe.json)
+
+---
 
 ### හරක් කටා ඝාතන සැලසුමක තොරතුරු එළියට
 
@@ -45,6 +79,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/63665519.json)
+
+---
+
+### SLPP writes to Asgiriya Chief Prelate regarding ‘harassment’ of war heroes
+
+*2025-09-02 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112112/slpp-writes-to-asgiriya-chief-prelate-regarding-harassment-of-war-heroes) · `en`
+
+A letter has been directed by the Sri Lanka Podujana Peramuna (SLPP) to the Chief Prelate of the Asgiriya Chapter of Siam Nikaya, the Most Venerable Warakagoda Sri Gnanarathana Thero, expressing concern over the ‘harassment’ of war heroes.
+
+The letter has been issued with the signature of Attorney-at-Law Sagara Kariyawasam, the General Secretary of the SLPP.
+
+The letter states that history has entrusted the SLPP with the responsibility of standing up for the war heroes who sacrificed their lives for the freedom of the motherland.
+
+It further emphasizes that this is a responsibility that the party cannot abandon.
+
+As a political party and as a social movement shaped by the people, the SLPP is committed to fulfilling this responsibility, and in doing so, the party seeks the blessings and support of the Maha Sangha, especially the Chief Prelates, along with the Buddhist clergy, the letter further stated.
+
+◼️
+
+[Data](articles/82df3a23.json)
 
 ---
 
@@ -1737,57 +1791,5 @@ Meanwhile, the Federation of University Teachers’ Associations (FUTA) has warn
 ◼️
 
 [Data](articles/c47c664a.json)
-
----
-
-### ගොඩගැසී ඇති නඩු භාණ්ඩ සම්බන්ධයෙන් දැනුම්දීමක්
-
-*2025-09-02 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214063) · `si`
-
-අධිකරණවල ගොඩගැසී පවතින නඩු භාණ්ඩ මේ වසරේ දෙසැම්බර් 31වන දිනට පෙර නිෂ්කාශනය කළයුතු බව අධිකරණ සේවා කොමිෂන් සභාව දැනුම් දී තිබේ.
-
-සියලුම දිසා විනිසුරුවරුන්, මහෙස්ත්‍රාත්වරුන් සහ මහාධිකරණ විනිසුරුවරුන් වෙත මෙම දැනුම් දීම සිදුකර ඇති බව වාර්තා වේ.
-
-අධිකරණවල ගොඩගැසී ඇති නඩු භාණ්ඩ සම්බන්ධයෙන් තොරතුරු රැස්කිරීම පසුගිය දිනවල සිදුවූ අතර ඒවා කඩිනමින් නිෂ්කාශනය කිරීමේ කටයුතු ආරම්භ කරන ලෙස අධිකරණ සේවා කොමිෂන් සභාව විනිසුරුවරුන්ට දැනුම් දී තිබේ.
-
-අධිකරණවල පරිපාලනමය වගකීම පැවරී ඇති දිසා විනිසුරුවරු මහෙස්ත්‍රාත්වරු, මහාධිකරණ විනිශ්චයකාරවරුන් සහ අධිකරණවල සේවය කරනු ලබන අතිරේක දිසා විනිසුරුවරුන්  මෙන්ම අතිරේක දිසා විනිසුරුවරුන් තමාගේ අධිකරණයේ පවතින නඩු භාණ්ඩ නිෂ්කාශනය කිරීමේ සෘජු වගකීමට යටත් වන බව එම කොමිෂන් සභාව පෙන්වා දෙයි.
-
-එම නිෂ්කාශනය කටයුතු පිළිබඳව අධිකරණ සේවා කොමිෂන් සභාව විසින් ස්ථානීය නිෂ්කාශනයක් මගින් සොයාබැලීමට නියමිත අතර මාසිකව ප්‍රගති වාර්තාවක් යොමුකරන ලෙස ද සියලු විනිසුරුවරුන් වෙත අවධාරණය කර ඇති බව සඳහන් වේ.
-
-...
-
-[Data](articles/93e4ca1d.json)
-
----
-
-### පොලිස් දින සැමරුම නිසා විශේෂ රථවාහන සැලැස්මක්
-
-*2025-09-02 07:32:00* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-දින-සැමරුම-නිසා-විශේෂ-රථවාහන-සැලැස්මක්/11-418211) · `si`
-
-159 වැනි පොලිස් දිනය වෙනුවෙන් පොලිස් ක්ෂේත්‍ර බලකා මූලස්ථානයේ විශේෂ සැමරුම් උත්සයක් හෙට දිනයේදි ‍
-
-පැවැත්වීමට නියමිතය.මීට සමගාමීව විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව කොළඹ රථවාහන කොට්ඨාසය කියයි.
-
-◼️
-
-[Data](articles/de2f1a4a.json)
-
----
-
-### New Immigration & Foreigners Act comes into effect in India, severe punishment for forging passport, visa
-
-*2025-09-02 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112089/new-immigration-foreigners-act-comes-into-effect-in-india-severe-punishment-for-forging-passport-visa) · `en`
-
-A new Act that regulates matters related to foreigners and immigration and has provisions for heavy punishment for carrying a forged passport or visa came into effect in India on Monday (01).
-
-The Immigration and Foreigners Act, 2025, was passed by the Indian parliament during the Budget session, and President Droupadi Murmu gave her assent on April 4, 2025.
-
-“In exercise of the powers conferred by sub-section (2) of section 1 of the Immigration and Foreigners Act, 2025 (13 of 2025), the central government hereby appoints the 01st day of September, 2025, as the date on which the provisions of the said Act shall come into force,” said a notification issued by Nitesh Kumar Vyas, additional secretary in the Ministry of Home Affairs.
-
-According to the law, anyone found to be using a forged passport or visa for entering into India or staying in or exiting from the country will be punishable with a jail term of up to seven years and a fine to the extent of one million Indian rupees.
-
-...
-
-[Data](articles/64824e39.json)
 
 ---

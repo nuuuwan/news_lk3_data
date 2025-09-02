@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 06:34:15**
+As of **2025-09-02 07:17:59**
 
 ## Newspaper Stats
 
-*Scraped **73,630** Articles*
+*Scraped **73,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 621
 bbccomsinhala | 677
 colombotelegraphcom | 754
 economynextcom | 4,483
-islandlk | 4,523
+islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,218
 adalk | 7,094
-adaderanalk | 9,381
-tamilmirrorlk | 10,947
+adaderanalk | 9,384
+tamilmirrorlk | 10,949
 virakesarilk | 12,055
 adaderanasinhalalk | 12,781
 
@@ -26,11 +26,101 @@ adaderanasinhalalk | 12,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.2%) of 73,630 articles have been extended.
+61,973 (84.2%) of 73,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Special commemorative ceremony and Traffic plan for 159th Police Day
+
+*2025-09-02 06:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112086/special-commemorative-ceremony-and-traffic-plan-for-159th-police-day) · `en`
+
+A special commemorative ceremony will be held tomorrow (03) at the Police Field Force Headquarters in celebration of the 159th Police Day.
+
+In preparation for the event, the Colombo Traffic Division has arranged a special traffic plan, according to Police Headquarters.
+
+As per this traffic plan, vehicle movement along Havelock Road — from Thummulla Junction to Thimbirigasyaya Junction, within the Bambalapitiya Police Division — will be regulated as follows:
+
+The bus stop located on the outbound route opposite of the Police Field Force Headquarters will be temporarily relocated to the bus stop at the Fonseka Road Junction on Havelock Road, from 2:30 p.m. to 7:00 p.m. tomorrow (03).
+
+Heavy vehicle movement (container trucks and tipper trucks) will be restricted along the Havelock Road between Thummulla Junction and Thimbirigasyaya Junction within the Bambalapitiya Police Division, from 2:00 p.m. to 7:00 p.m. tomorrow.
+
+◼️
+
+[Data](articles/a4e07e22.json)
+
+---
+
+### செம்மணியில் நேற்று 9 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-09-02 05:49:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-நேற்று-9-எலும்புக்கூடுகள்-அடையாளம்/175-363884) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது 9 மனித எலும்புக்கூடுகள்  அடையாளம் காணப்பட்டுள்ளன.
+
+செம்மணி - சித்துப்பாத்தி இந்து மயானத்தில் அடையாளம் காணப்பட்ட மனிதப் புதைகுழியில் இரண்டாம் கட்ட அகழ்வுப் பணிகளின் 40 ஆம் நாள் அகழ்வு நேற்று (01)  இடம்பெற்றது.
+
+நேற்றைய அகழ்வின் போது 9 எலும்புக்கூடுகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித என்புத் தொகுதிகளின் எண்ணிக்கை 218 ஆக அதிகரித்துள்ளது.
+
+மேலும் ஏற்கனவே அடையாளம் காணப்பட்ட 7 மனித எலும்புக்கூடுகள் நேற்று அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை மொத்தமாக 198 மனித எலும்புக்கூடுகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/c89c5d9b.json)
+
+---
+
+### More than 1000 killed in landslide in western Sudan
+
+*2025-09-02 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112085/more-than-1000-killed-in-landslide-in-western-sudan) · `en`
+
+More than 1000 people have been killed in a landslide that destroyed a village in the Marra Mountains area of western Sudan, leaving only one survivor.
+
+The landslide took place on August 31 following heavy rains, the Sudan Liberation Movement/Army reported.
+
+The group, led by Abdelwahid Nour, added that the deadly disaster underscored the urgent need for attention to communities in the affected area.
+
+The landslide comes as West Africa has experienced record flooding, displacing hundreds of thousands across the region.
+
+◼️
+
+[Data](articles/affb060e.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-09-02 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112084/few-showers-expected-in-parts-of-the-island-today-) · `en`
+
+A few showers may occur in the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Hambantota district.
+
+The sun is going to be directly over the latitudes of Sri Lanka during 28th of August to 07th of September due to its apparent southward relative motion. The nearest places of Sri Lanka over which the sun is overhead today (02) are Andigama, Balalla, Migaswewa, Bambaragaswewa, Bakamuna, Aralaganwila, Chenkalady, Eravur about 12.10 noon.
+
+◼️
+
+[Data](articles/faee7677.json)
+
+---
+
+### ’உக்ரைனுடனான மோதலை முடிவுக்கு கொண்டுவரவேண்டும்’
+
+*2025-09-02 04:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைனுடனான-மோதலை-முடிவுக்கு-கொண்டுவரவேண்டும்/50-363883) · `ta`
+
+உக்ரைன் உடனான மோதல் கூடிய விரைவில் முடிவுக்கு வரப்பட வேண்டும் எனவும் அமைதி நிலைநாட்டப்பட வேண்டும் எனவும் இது ஒட்டுமொத்த மனித நேயத்தின் அழைப்பு என்றும் ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினுடனான சந்திப்பின்போது பிரதமர் மோடி தெரிவித்துள்ளார்.
+
+சீனாவின் தியான்ஜினில் நடைபெற்ற ஷாங்காய் ஒத்துழைப்பு அமைப்பின் உச்சி மாநாட்டுக்கு இடையே பிரதமர் நரேந்திர மோடி, ரஷ்ய ஜனாதிபதி விளாடிமிர் புடினை நேற்று சந்தித்துப் பேசினார். இதற்காக இருதரப்பு பேச்சுவார்த்தை நடைபெறும் இடத்துக்கு இருவரும் ஒரே காரில் பயணித்தனர்.
+
+இந்த சந்திப்பின்போது, பொருளாதாரம், நிதி, எரிசக்தி உள்ளிட்ட துறைகளில் இருதரப்பு ஒத்துழைப்பை மேலும் வலுப்படுத்துவது குறித்து இரு தலைவர்களும் விவாதித்தனர். இத்துறைகளில் இருதரப்பு உறவுகளில் நீடித்த வளர்ச்சி நிகழ்வது குறித்து, அவர்கள் திருப்தி தெரிவித்தனர்.
+
+...
+
+[Data](articles/715e8c5f.json)
+
+---
 
 ### Ranil expresses gratitude following release from remand
 
@@ -408,6 +498,24 @@ In 2024, the State Pharmaceutical Corporation (SPC) rejected several bids of the
 
 ---
 
+### Sri Lankan scene … for Ne-Yo
+
+*2025-09-01 23:10:00* · [`islandlk`](http://island.lk/sri-lankan-scene-for-ne-yo/) · `en`
+
+Ne-Yo, the renowned American singer, songwriter, record producer, dancer, and actor, who rose to fame in the early 2000s with his debut album ‘In My Own Words,’ is scheduled to perform live in Colombo in December, this year.
+
+According to reports, the concert has already received the official endorsement of the Sri Lanka Tourism Promotion Bureau, recognising it as a flagship initiative in developing the country’s concert economy by attracting fans, and media, from all over South Asia.
+
+Ne-Yo, who is primarily associated with R&B, pop, hip hop and soul, has won three Grammy Awards .
+
+His hit singles include ‘So Sick’, ‘Sexy Love’, ‘Because of You’, ‘Closer’, Give Me Everything (feat. Nayer), and ‘Time of Our Lives’ (feat. Pitbull).
+
+...
+
+[Data](articles/f3d4f8f7.json)
+
+---
+
 ### வெளிநாடுகளில் தொழில் செய்துவருபவர்களின் பிள்ளைகளுக்கு புலமைப்பரிசில்
 
 *2025-09-01 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/223977) · `ta`
@@ -419,6 +527,22 @@ In 2024, the State Pharmaceutical Corporation (SPC) rejected several bids of the
 ...
 
 [Data](articles/e0c86ea3.json)
+
+---
+
+### CSE sets up yet another record as ASPI hits 21,000 index points
+
+*2025-09-01 23:03:00* · [`islandlk`](http://island.lk/cse-sets-up-yet-another-record-as-aspi-hits-21000-index-points/) · `en`
+
+The CSE set up another record yesterday when the All Share Price Index surpassed 21,000 Index points, market analysts said.
+
+The reason for the high-point in trading was the low interest regime coupled with conducive economic policies which enabled the market to grow, analysts explained.
+
+Amid those developments indices gave out mixed signals. The All Share Price Index went up by 52.3 points while the S and P SL20 declined by 4.07 points.
+
+...
+
+[Data](articles/dd8e4f01.json)
 
 ---
 
@@ -1591,127 +1715,5 @@ President Anura Kumara Dissanayake also emphasized that the government is commit
 ...
 
 [Data](articles/a1dbd11e.json)
-
----
-
-### நிலத்தை தோண்டும் போது எம்மவர்களின் எலும்புக்கூடுகள் கிடைக்கப்பெறும் ; செம்மணி மனிதப்புதைகுழி விவகாரம் சர்ச்சைக்குரியதாக உள்ளது - ஜனாதிபதி அநுரகுமார திஸாநாயக்க
-
-*2025-09-01 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/223947) · `ta`
-
-நிலத்தை தோண்டும் போது எம்மவர்களின் எலும்புக்கூடுகள் கிடைக்கப்பெறும்.செம்மணி மனிதப்புதைகுழி விவகாரம் சர்ச்சைக்குரியதாக உள்ளது. இவ்விடயம் தொடர்பில் முறையான விசாரணைகளை மேற்கொண்டுள்ளோம். மறைப்பதற்கு ஏதும் எம்மிடமில்லை.இனிவரும் காலங்களில் இலங்கையில் இவ்வாறான நிலை ஏற்படக்கூடாது.கொடூரமான அனுபவங்கள் மீண்டும் தோற்றம் பெறாத வகையில் அவை நினைவுகூரப்பட வேண்டும் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
-
-யாழ்ப்பாணம் மயிலிட்டி மீன்பிடித் துறைமுகத்தின் அபிவிருத்தி பணிகளை நேற்று திங்கட்கிழமை ஆரம்பித்து வைத்ததன் பின்னர் அங்கு உரையாற்றுகையில் ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
-
-எமது மீனவர்களை ஆக்கிரமிப்பாளர்களிடமிருந்து பாதுகாக்க வேண்டும்.இலங்கையின் பிரதான கேந்திரமையமாக கச்சத்தீவு காணப்படுகிறது. கச்சத்தீவு இன்று பிரதான பேசுபொருளாக காணப்படுகிறது.நாட்டின் ஆட்புல எல்லைகளை பாதுகாத்து அவற்றை எதிர்கால தலைமுறையினருக்கு வழங்குவது எமது பொறுப்பாகும்.அந்த பொறுப்பை நிறைவேற்றும் கடப்பாடு எமக்கு உண்டு.
-
-...
-
-[Data](articles/dda923cc.json)
-
----
-
-### ஆசிரியர்களில் ஒருவர் நீரில் மூழ்கி காணாமல் போனார்
-
-*2025-09-01 16:32:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியர்களில்-ஒருவர்-நீரில்-மூழ்கி-காணாமல்-போனார்/76-363865) · `ta`
-
-உடபுஸ்ஸல்லாவ பகுதியில் உள்ள ஒரு பாடசாலையைச் சேர்ந்த ஆசிரியர்கள் குழு, ஞாயிற்றுக்கிழமை (31) மதியம் சுற்றுலா சென்று போபுருதிய நீர்வீழ்ச்சியின் கீழ் நீரோடையில் நீந்திக் கொண்டிருந்த ஆசிரியர் ஒருவர் நீரில் மூழ்கி காணாமல் போயுள்ளதாக அம்பகஸ்டோவ பொலிஸார் தெரிவித்தனர்.
-
-போபுஸ்ஸல்லாவ டாலோஸ் கல்லூரியில் கணிதம் கற்பித்து வந்த கே. முகில்தரன் (32) என்ற ஆசிரியர் நீரில் மூழ்கி காணாமல் போனதாக பொலிஸார் தெரிவித்தனர். அவர் ஒரு குழந்தையின் தந்தை ஆவார்.
-
-பாடசாலையைச் சேர்ந்த எட்டு ஆசிரியர்கள் ​அடங்கி குழு ஒன்று   போபுருடிய நீர்வீழ்ச்சியைப் பார்வையிட ஞாயிற்றுக்கிழமை (31) சுற்றுலா சென்றிருந்தது. அவர்கள் போபுருதிய நீர்வீழ்ச்சியின் கீழ் நீரோடையில் நீந்தச் சென்றிருந்தபோது, ​​ஆசிரியர்களில் ஒருவர் நீரில் மூழ்கி காணாமல் போனதாக  பொலிஸார் தெரிவித்தனர்.
-
-நுவரெலியா பொலிஸின் உயிர்காக்கும் பிரிவு அதிகாரிகள், அம்பகஸ்டோவ காவல்துறையினர் மற்றும் உள்ளூர்வாசிகள் இணைந்து நீரில் மூழ்கிய ஆசிரியரைத் தேடும் பணியில் ஈடுபட்ட போதிலும், காணாமல் போன ஆசிரியரை  ஞாயிற்றுக்கிழமை (31) இரவு வரை கண்டுபிடிக்க முடியவில்லை என்று பொலிஸார்தெரிவித்தனர்.
-
-...
-
-[Data](articles/041e42db.json)
-
----
-
-### අපරාධකරුවෝ අත්අඩංගුවට ගන්න සහාය දුන් සැමට පොලිස්පතිගෙන් තුති
-
-*2025-09-01 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214040) · `si`
-
-විදෙස් ගතව සිටි සංවිධානාත්මක අපරාධකරුවන් පිරිසක් අත්අඩංගුවට ගැනීමට සහය ලබාදුන් ජාත්‍යන්තර පොලීසිය, ඉන්දුනීසියානු සහ ඉන්දියානු බලධාරීන් ඇතුළු මේ සඳහා දායකත්වය ලබා දුන් සැමට පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් විශේෂ ස්තුතියක් පුද කර සිටියි.
-
-නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය මේ බව දැනුම් දී තිබේ.
-
-විදෙස් රටවල සැඟව සිටිමින් මෙරට සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම් මෙහෙයවනු ලබන සංවිධානාත්මක අපරාධකරුවන් පස් දෙනෙකු ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන පසුගිය 30 වන දින දිවයිනට ගෙන ආවේය.
-
-ඉන් පසුව එම සැකකරුවන් රැඳවුම් නියෝග මත රඳවා තබා ගෙන මේ වන විට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හා බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය මඟින් වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-...
-
-[Data](articles/c2b404b8.json)
-
----
-
-### එක්ස්ප්‍රස් පර්ල් වන්දි ගෙවූ ආකාරය පිළිබඳ සාකච්ඡාවක්
-
-*2025-09-01 16:18:02* · [`adalk`](https://www.ada.lk/breaking_news/එක්ස්ප්‍රස්-පර්ල්-වන්දි-ගෙවූ-ආකාරය-පිළිබඳ-සාකච්ඡාවක්/11-418203) · `si`
-
-එක්ස්ප්‍රස් පර්ල්  (X – Press Pearl) නෞකාවෙන් සිදුවූ හානිය සම්බන්ධයෙන් ලැබුණු වන්දි මුදල් ධීවර වන්දි ගෙවීමට සහ වෙරළ සංරක්ෂණයට යෙදවීම සිදු වූ ආකාරය පිළිබඳ පරිසරය, කෘෂිකර්මය සහ සම්පත් තිරසාරත්වය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය යොමු විය.
-
-මේ අනුව මේ වන විට ලැබී ඇති වන්දි මුදල් ප්‍රමාණය සහ ඒවායින් ධීවරයන්ට වන්දි වශයෙන් ගෙවා ඇති මුදල් ප්‍රමාණය, වෙරල ආරක්ෂණය වෙනුවෙන් වියදම් කර ඇති මුදල් ප්‍රමාණය සහ මේ වන විට ඉතිරි වී ඇති මුදල් ප්‍රමාණය සම්බන්ධයෙන් සවිස්තර වාරතාවක් කාරක සභාවට ලබාදෙන ලෙසද මෙහිදී කාරක සභාව විසින් නිර්දේශ කරන ලදි.
-
-මේ පිළිබඳ අවධානය යොමු වූයේ පරිසරය, කෘෂිකර්මය සහ සම්පත් තිරසාරත්වය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී හෙක්ටර් අප්පුහාමි මහතාගේ සභාපතිත්වයෙන් පසුගියදා (21) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
-
-...
-
-[Data](articles/38197f30.json)
-
----
-
-### Vehicular movement restricted between Devi Balika Roundabout and DS Junction in Borella from 7pm
-
-*2025-09-01 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112069/vehicular-movement-restricted-between-devi-balika-roundabout-and-ds-junction-in-borella-from-7pm) · `en`
-
-Vehicular movement will be restricted from 7:00 p.m. today (01), on a stretch of the entry road to Colombo from the Devi Balika Roundabout to the D.S. Senanayake Junction with the Borella Police Division.
-
-The Police Media Division attributed the road closure to the repair work to be conducted between the Devi Balika Roundabout to the D.S. Senanayake Junction.
-
-The road has been closed sporadically in the past few days due to the risk of cracks, subsidence, and the inflow of sewage onto the roadway.
-
-Police accordingly request motorists using the road to seek alternative routes. However, traffic exiting Colombo along the road will continue to operate as normal, it said.
-
-◼️
-
-[Data](articles/5801337a.json)
-
----
-
-### Vehicular movement restricted between Devi Balika Roundabout and DS Senanayake Junction in Borella from 7pm
-
-*2025-09-01 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112069/vehicular-movement-restricted-between-devi-balika-roundabout-and-ds-senanayake-junction-in-borella-from-7pm) · `en`
-
-Vehicular movement will be restricted from 7:00 p.m. today (01), on a stretch of the entry road to Colombo from the Devi Balika Roundabout to the D.S. Senanayake Junction with the Borella Police Division.
-
-The Police Media Division attributed the road closure to the repair work to be conducted between the Devi Balika Roundabout to the D.S. Senanayake Junction.
-
-The road has been closed sporadically in the past few days due to the risk of cracks, subsidence, and the inflow of sewage onto the roadway.
-
-Police accordingly request motorists using the road to seek alternative routes. However, traffic exiting Colombo along the road will continue to operate as normal, it said.
-
-◼️
-
-[Data](articles/e16952d4.json)
-
----
-
-### හෙට ප්‍රදේශ කිහිපයක උණුසුම ඉහළට
-
-*2025-09-01 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214039) · `si`
-
-උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
-
-අද (01)  ප.ව. 03.30 ට නිකුත් කරන ලද එම නිවේදනය 02 දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත් සහ මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා විමසිලිමත්වන ලෙස එම නිවේදනයෙන් දැනුම් දී ඇත.
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවය.
-
-◼️
-
-[Data](articles/045c9973.json)
 
 ---

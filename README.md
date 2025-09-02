@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 15:19:57**
+As of **2025-09-02 15:34:02**
 
 ## Newspaper Stats
 
-*Scraped **73,725** Articles*
+*Scraped **73,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,110
 adaderanalk | 9,399
-tamilmirrorlk | 10,968
+tamilmirrorlk | 10,970
 virakesarilk | 12,062
 adaderanasinhalalk | 12,801
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 12,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,725 articles have been extended.
+61,973 (84.1%) of 73,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### மாத்தளையில்  துப்பாக்கிச் சூடு
+
+*2025-09-02 15:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாத்தளையில்-துப்பாக்கிச்-சூடு/76-363913) · `ta`
+
+மாத்தளை, கொஹோலன்வல, ஹுனுபிட்டிய, மடவலஉல்பத பகுதியில் உள்ள தென்னந்தோட்டத்தில் தேங்காய்களை திருட முயன்ற சந்தேக நபர், தோட்டத்தின் காவலாளியால் சுடப்பட்டதாகவும், சந்தேக நபர் இன்று (02) மாத்தளை மாவட்ட பொது மருத்துவமனையில் அனுமதிக்கப்பட்டதாகவும் மஹாவெல பொலிஸார் தெரிவித்தனர்.
+
+மாத்தளை, கொஹோலன்வல பகுதியில் உள்ள சுமார் 20 ஏக்கர் பரப்பளவு கொண்ட தென்னந்தோட்டத்திற்குள் அதே பகுதியில் வசிக்கும் இரண்டு நபர்கள் நுழைந்து இரண்டு சாக்குகளில் தேங்காய்களை சேகரித்துக்கொண்டிருந்தபோது, ​​தோட்டத்தின் காவலாளி அந்த நபர்கள் மீது துப்பாக்கிச் சூடு நடத்தியதில் ஒருவர் காயமடைந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்கான சந்தேக நபர், சுடப்பட்ட பின்னர் சுமார் ஐநூறு மீட்டர் தூரம் ஓடி, கொஹோலன்வல பிரதான சாலைக்கு அருகில் விழுந்து, உள்ளூர்வாசிகளால் மருத்துவமனைக்கு கொண்டு செல்லப்பட்டார்.
+
+சம்பவத்தில் சுடப்பட்ட நபர், பல சந்தர்ப்பங்களில் தென்னந்தோட்டத்திற்குள் நுழைந்து தேங்காய்களை திருடியதாக மஹாவெல பொலிஸில் முறைப்பாடுகள் செய்யப்பட்டுள்ளதாக மஹாவெல பொலிஸார் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/7e9150c6.json)
+
+---
+
+### மீண்டும் மீண்டும் அதுக்கு அழைத்த தோழி: அடுத்தது
+
+*2025-09-02 15:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-மீண்டும்-அதுக்கு-அழைத்த-தோழி-அடுத்தது/175-363911) · `ta`
+
+தோழி, மீண்டும் மீண்டும் ஓரினச்சேர்க்கைக்கு அழைத்தமையால் மனமுடைந்த ஒரு தோழி தன்னுயிரை மாய்த்துக்கொண்டுள்ள சம்பவம் இடம்பெற்றுள்ளது.
+
+கடலூர் மாவட்டம் பண்ருட்டி பகுதியை சேர்ந்தவர் 18 வயது மாணவி. இவர் ஒரு தனியார் கலைக்கல்லூரியில் 2-ம் ஆண்டு படித்து வந்தார். அதே கல்லூரியில் ரெட்டிச்சாவடி பகுதியை சேர்ந்த 20 வயது மாணவி ஒருவரும் 3-ம் ஆண்டு படித்து வருகிறார். தோழிகளான இருவரும் அவ்வப்போது ஓரினச்சேர்க்கையில் ஈடுபட்டுவந்ததாக கூறப்படுகிறது. இதுபற்றி அறிந்ததும் அண்ணன் கண்டித்ததால் 18 வயது மாணவி, தனது தோழியுடன் பேசுவதை நிறுத்தி விட்டார்.
+
+இதில் ஆத்திரமடைந்த 20 வயது மாணவி, ஓரினசேர்க்கைக்கு வர மறுத்த தனது தோழியை செல்போனில் தொடர்பு கொண்டு தன்னுடன் பேசாவிட்டால் நாம் இருவரும் உல்லாசமாக இருந்தபோது எடுத்த புகைப்படத்தை சமூக வலைத்தளங்களில் வெளியிடுவேன் என்று மிரட்டியதாக கூறப்படுகிறது. இதனால் மனமுடைந்த 18 வயது மாணவி தனது வீட்டில் தன்னுயிரை மாய்த்துக்கொண்டார்.
+
+...
+
+[Data](articles/e63a42a7.json)
+
+---
 
 ### සිහින ගමනාන්තය - පළමු දුම්රිය ස්ථානය නවීකරණය තල්පෙන් ඇරඹෙයි
 
@@ -1723,35 +1757,5 @@ Any Sri Lankan commuter with reasonable observation skills will notice the influ
 ...
 
 [Data](articles/c9e510b7.json)
-
----
-
-### How we are being misled by fiscal illusion in Sri Lanka
-
-*2025-09-02 00:54:12* · [`dailyftlk`](https://www.ft.lk/columns/How-we-are-being-misled-by-fiscal-illusion-in-Sri-Lanka/4-781082) · `en`
-
-Presently, Sri Lanka is on a recovery journey from the deepest economic downturn in its history. The unhealthy fiscal policies of successive Governments have already been recognised as one of the major causes of this poor performance. Fiscal policy encompasses various decisions related to the national budget. Therefore, it is crucial to closely monitor budgetary behaviour and related decisions to ensure the economy moves in the right direction.
-
-Fiscal illusion is a term originally introduced by the Italian economist Amilcare Puviani in 1903 and later developed and popularised by modern public choice economists1. It is often used to explain how governments and fiscal policymakers navigate budgets in ways that mislead voters, helping them gain and maintain popularity. Let’s take a closer look at the behaviour of Sri Lanka’s fiscal policy in the recent past to understand how this concept plays out in our own context.
-
-...
-
-[Data](articles/0ae0f874.json)
-
----
-
-### Accountability is not petty: Response to Dr. Dayan Jayatilleka
-
-*2025-09-02 00:49:35* · [`dailyftlk`](https://www.ft.lk/columns/Accountability-is-not-petty-Response-to-Dr-Dayan-Jayatilleka/4-781081) · `en`
-
-Far from being petty, the sight of Ranil in custody communicates the principle that no one is above the law
-
-When former President Ranil Wickremesinghe emerged from hospital after securing bail, he did not walk out empty-handed. In his grasp was Boris Johnson’s flamboyantly titled memoir, Unleashed: The Political Memoir of the Century. The symbolism was hard to miss. Johnson, like Ranil, straddled the uneasy line between charm and scandal — a leader celebrated for wit and survival, yet dogged by questions of truth, ethics, and accountability. The book, bold and playful in style, promises candour while artfully skirting responsibility.
-
-That tableau — a former President accused of misusing Rs. 16.6 million of public funds for private travel, holding a memoir by another leader renowned for political indulgence — captures the very issue at stake.
-
-...
-
-[Data](articles/940d0559.json)
 
 ---

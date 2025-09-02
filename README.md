@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 04:06:55**
+As of **2025-09-03 04:18:28**
 
 ## Newspaper Stats
 
-*Scraped **73,783** Articles*
+*Scraped **73,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 754
 economynextcom | 4,495
 islandlk | 4,533
 dailymirrorlk | 4,733
-dailyftlk | 5,219
+dailyftlk | 5,220
 adalk | 7,118
 adaderanalk | 9,409
 tamilmirrorlk | 10,974
@@ -26,9 +26,27 @@ adaderanasinhalalk | 12,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,783 articles have been extended.
+61,973 (84.0%) of 73,784 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-03 (Wednesday)
+
+### Sri Lanka moved to end elite impunity with arrest of former president
+
+*2025-09-03 04:03:39* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-moved-to-end-elite-impunity-with-arrest-of-former-president/4-781147) · `en`
+
+Sri Lanka’s former president and six-time prime minister, Ranil Wickremesinghe, was arrested on 22 August for allegedly misusing state resources while in office. He is accused of using public funds to attend his wife’s graduation ceremony in London after an official visit to the US in 2023. Wickremesinghe has since been granted bail on a 5m rupee (£12,300) bond.
+
+His arrest represents one of the most consequential moments in the Sri Lanka’s postcolonial history. It marks the first time a former head of state has ever been detained in Sri Lanka, shattering the longstanding assumption that those at the top of the country’s politics remain forever beyond the reach of the law.
+
+The assumption of elite impunity was built on decades of precedent. This reached its apex under the Rajapaksa family, who dominated Sri Lankan politics between 2005 and 2022, as corruption was woven into the very fabric of governance.
+
+...
+
+[Data](articles/9d6ca513.json)
+
+---
 
 ### 2025-09-02 (Tuesday)
 
@@ -1823,19 +1841,5 @@ The Colombo Stocks Exchange was trading in green; The ASPI was up 0.28 percent, 
 ...
 
 [Data](articles/96dbea17.json)
-
----
-
-### රත්නපුර රෝහලේ වෛද්‍යවරුන් සංකේත වැඩ වර්ජනයක් ආරම්භ කරයි
-
-*2025-09-02 10:16:22* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-රෝහලේ-වෛද්‍යවරුන්-සංකේත-වැඩ-වර්ජනයක්-ආරම්භ-කරයි/11-418215) · `si`
-
-රෝහල් අධ්‍යක්ෂවරයාගේ ක්‍රියාකලාපයට විරෝධය පළකරමින් රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය විසින් අද (02දා)  පෙරවරු 08 සිට රත්නපුර ශික්ෂණ රෝහලේ සංකේත වැඩවර්ජනයක්  ආරම්භ කර තිබේ.
-
-ජීවිත ආරක්ෂක සේවා පවත්වාගෙන යමින් මෙම සංකේත වැඩවර්ජනයේ නිරත වන බව එම සංගමය වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/9cabc4fc.json)
 
 ---

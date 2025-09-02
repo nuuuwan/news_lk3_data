@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 18:57:54**
+As of **2025-09-02 19:14:35**
 
 ## Newspaper Stats
 
-*Scraped **73,754** Articles*
+*Scraped **73,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,115
-adaderanalk | 9,404
+adaderanalk | 9,405
 tamilmirrorlk | 10,973
 virakesarilk | 12,067
-adaderanasinhalalk | 12,809
+adaderanasinhalalk | 12,810
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,754 articles have been extended.
+61,973 (84.0%) of 73,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### 2025 වසරේ කීර්තිමත් වනජීවී ඡායාරූප ශිල්පියා ලෙස ලක්ෂිත කරුණාරත්න සම්මාන ලබයි
+
+*2025-09-02 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214090) · `si`
+
+2025 වසරේ බ්‍රිතාන්‍යයේ කීර්තිමත් වනජීවී ඡායාරූප ශිල්පී සම්මාන උළෙලේදී සම්මානයට පාත්‍ර වීමට ශ්‍රී ලාංකික ඡායාරූප ශිල්පියෙකුට හැකි වී තිබේ.
+
+මෙලෙස සම්මානයට පාත්‍ර වී ඇත්තේ, ශ්‍රී ලාංකික ඡායාරූප ශිල්පී ලක්ෂිත කරුණාරත්නය.
+
+ලන්ඩන්/කොළඹ 2025 සැප්තැම්බර් - මහා බ්‍රිතාන්‍යයේ ලන්ඩන් ස්වභාවික ඉතිහාස කෞතුකාගාරය (Natural History Museum, London) විසින් සංවිධානය කරන ලද ලෝක ප්‍රකට, වනජීවී ඡායාරූප ශිල්පී සම්මාන (Wildlife Photographer of the Year – WPY) තරගාවලියේදී ලක්ෂිත කරුණාරත්න මෙලෙස  ශ්‍රී ලංකාවට කීර්තියක් ගෙන එන ලදි.
+
+වනජීවී ඡායාරූපකරණයේ ඔස්කාර් සම්මාන උළෙල‍ේ ලෙස හැඳින්වෙන මෙම තරගාවලියේදී ඔහු ලැබූ දෙවන සම්මානය මෙය වෙයි.
+
+වසර 61ක එහි ඉතිහාසයේ මෙම තරගාවලියේදී දෙවරක් සම්මාන ලැබූ පළමු ශ්‍රී ලාංකිකයාද ලක්ෂිත කරුණාරත්නය.
+
+1965 වසරේ ආරම්භ වූ WPY තරගාවලිය සඳහා මෙවර රටවල් 120කට අධික සංඛ්‍යාවකින් වාර්තාගත ඡායාරූප 60,636ක් ලැබී ඇති අතර, ඉන් ජයග්‍රාහී ඡායාරූප 100ක් පමණක් තෝරාගෙන ඇත.
+
+...
+
+[Data](articles/51e863b4.json)
+
+---
 
 ### ஐவருக்கும் 90 நாள் தடுப்புக்காவல்
 
@@ -67,6 +89,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/eb2732e4.json)
+
+---
+
+### 90-day detention orders obtained on 5 major underworld figures
+
+*2025-09-02 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112111/90-day-detention-orders-obtained-on-5-major-underworld-figures-) · `en`
+
+Police have obtained detention orders under the Prevention of Terrorism Act (PTA) to detain and interrogate five high-profile underworld figures, including ‘Kehelbaddara Padme’, ‘Commando Salintha’, and three others, for a period of 90 days.
+
+The suspects, who were arrested in Jakarta, were brought to the country last Saturday.
+
+Of the five suspects, three are currently held in Criminal Investigation Department (CID) custody, while the remaining two are in the custody of the Western North Crime Division.
+
+The two suspects held by the Western North Crime Division are:
+
+◼️
+
+[Data](articles/2e7cba4e.json)
 
 ---
 
@@ -1753,41 +1793,5 @@ Some of the EVs offered in Sri Lanka show that the same models are offered with 
 ...
 
 [Data](articles/59afe191.json)
-
----
-
-### ශ්‍රී ලංකා නිදහස් පක්ෂයේ 74 වන සංවත්සරය අද
-
-*2025-09-02 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214062) · `si`
-
-සිය සංවත්සර සැමරුම් උත්සවය පක්ෂ මූලස්ථානයේ දී අද පස්වරුවේ පැවැත්වීමට සැලසුම් කර ඇති බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම් දුමින්ද දිසානායක මහතා සඳහන් කළේය.
-
-"මෙවර අපි 74 වන සංවත්සරය සමරන්නේ, පක්ෂ මුලස්ථානයේ. ඒ සඳහා අපි ආසන සංවිධායකවරු, ඒ වගේම පක්ෂයේ ක්‍රියාකාරීන් සඳහා අපි ආරාධනා කරලා තියෙනවා. මං හිතන්නේ පහුගිය කාලයේ දේශපාලනය ගැන කතා කරොත් සියලුම දේශපාලන පක්ෂ දැන් නැවත ප්‍රතිසංවිධානය කරමින් යනවා. ශ්‍රී ලංකා නිදහස් පක්ෂයත් අපි සංවත්සරයත් සමගම ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රතිසංවිධාන කටයුතු අපි ආරම්භ කරනවා. ඒ වගේම අපි දිස්ත්‍රික් මට්ටමින් රැස්වීම් පැවැත්වීම, ආසන බලමණ්ඩල සංවත්සරයෙන් පසුව ආරම්භ කරන්න සුදානම් වෙනවා."
-
-◼️
-
-[Data](articles/1ffb8fc7.json)
-
----
-
-### 2025 වසරේ පළමු මාස 07 දී අල්ලස් ගත් 49ක් අත්අඩංගුවට
-
-*2025-09-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214061) · `si`
-
-මේ වසරේ පළමු මාස 07 තුළ අල්ලස් ලබා ගැනීමේ සිද්ධීන් සම්බන්ධයෙන් පුද්ගලයින් 49 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසයි.
-
-ඔවුන් පෙන්වා දෙන්නේ අදාළ කාලසීමාව තුළ අල්ලස් හෝ දූෂණ චෝදනා කොමිෂන් සභා වෙත පැමිණිලි 3,937ක් ලැබී ඇති අතර එම පැමිණිලිවලින් වැටලීම් 72ක් සිදුකර ඉන් 39ක් සාර්ථක කර ගැනීමට හැකිවී ඇති බවය.
-
-අත්අඩංගුවට ගත් පුද්ගලයින් අතරින් වැඩිම පිරිසක් අත්අඩංගුවට ගෙන ඇත්තේ පොලිස් දෙපාර්තමේන්තුවෙන් වන අතර පොලිස් නිළධාරීන් 17 දෙනෙකු එහිදී අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
-
-අධිකරණ අමාත්‍යංශය, සෞඛ්‍ය අමාත්‍යංශය, ආගමන විගමන දෙපාර්තමේන්තුව, ලංකා ගමනා ගමන මණ්ඩලය, ප්‍රාදේශීය ලේකම් කාර්යාල යන රාජ්‍ය ආයතනවලින් ද සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
-
-ඊට අමතරව මේ වසරේ පළමු මාස 7 තුළ සිදුකළ විමර්ශනවලදී පුද්ගලයින් 39දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-එම අත්අඩංගුවට ගත් පුද්ගලයින් අතර හිටපු අමාත්‍යවරුන්, අමාත්‍යංශ ලේකම්වරුන් ආයතන ප්‍රධානීන්, වෛද්‍යවරුන් ඇතුළු පුද්ගලයින් වන බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිශන් සභාව සඳහන් කළේය.
-
-...
-
-[Data](articles/86291268.json)
 
 ---

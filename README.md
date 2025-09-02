@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 14:09:21**
+As of **2025-09-02 14:24:01**
 
 ## Newspaper Stats
 
-*Scraped **73,719** Articles*
+*Scraped **73,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,108
+adalk | 7,109
 adaderanalk | 9,397
 tamilmirrorlk | 10,967
 virakesarilk | 12,062
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,719 articles have been extended.
+61,973 (84.1%) of 73,720 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -577,6 +577,24 @@ Meanwhile, according to Ada Derana reporter, six representatives from the group 
 ...
 
 [Data](articles/606762a6.json)
+
+---
+
+### ලස්සන ලයිට් දාපු බස් නිසා ඇතැම් සංචාරකයන් පීඩාවට
+
+*2025-09-02 10:52:44* · [`adalk`](https://www.ada.lk/breaking_news/ලස්සන-ලයිට්-දාපු-බස්-නිසා-ඇතැම්-සංචාරකයන්-පීඩාවට/11-418219) · `si`
+
+නුවරඑළියට සංචාරකයන් රැගෙන එන ඇතැම් බස් රථවල සවි කර ඇති අමතර එල්.ඊ.ඩී විදුලි ආලෝක සහ එම බස් රථවල සවි කර ඇති ඝෝෂාකාරි අධික ශබ්දය සහිත  බෆල් හේතුවෙන් රාත්‍රි කාලයේ නුවරඑලිය ග්‍රෙගරි වැව අසළ රථ ගාල්වල සංචාරය කරන දෙස් විදෙස් සංචාරකයන් පීඩාවට පත් වි ඇත.
+
+සංචාරකයන්ගේ ආකාර්ෂණය ලබා ගැනීම සදහා එම බස්රථ වල එල්.ඊ.ඩී විදුලි ආලෝක විශාල සංඛ්‍යාවක්  සවි කර අමතර ආලෝක රටා බස් රථය තුල ප්‍රදර්ශනය කරන අතර, එම බස් රථවල විදුලි උත්පාදක යන්ත්‍රයක් සහ ඩී.ජේ. සංගීතය ලබා දීමට අවශ්‍ය උපකරණද බස් රථ තුල සවි කර ඇත.
+
+එම බස් රථ ග්‍රෙගරි වැවේ රථ වාහන ගාල්වල රාත්‍රි කාලයේ ගාල් කර එම බස් රථවල පැමිණි සංචාරකයන්ට විනෝද වීම සදහා අවශ්‍ය පහසුකම් ලබා දී ඇත්තේ අනෙකුත් වාහන වල පැමිණෙන දෙස් විදෙස් සංචාරකයන්ට පීඩාවන අයුරින් බවයි නුවරඑලිය ප්‍රදේශවාසීන් කියා සිටින්නේ.
+
+මේ බස් රථ සදහා යම් සීමාවන් පැනවීමට වගවියයුතු නිළධාරින් කටයුතු කල යුතු බවද නුවරඑලිය ප්‍රදේශවාසීන් අදාළ බලධාරින්ගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/fa9add6d.json)
 
 ---
 
@@ -1723,23 +1741,5 @@ In 2024, the State Pharmaceutical Corporation (SPC) rejected several bids of the
 ◼️
 
 [Data](articles/3dd553f1.json)
-
----
-
-### Sri Lankan scene … for Ne-Yo
-
-*2025-09-01 23:10:00* · [`islandlk`](http://island.lk/sri-lankan-scene-for-ne-yo/) · `en`
-
-Ne-Yo, the renowned American singer, songwriter, record producer, dancer, and actor, who rose to fame in the early 2000s with his debut album ‘In My Own Words,’ is scheduled to perform live in Colombo in December, this year.
-
-According to reports, the concert has already received the official endorsement of the Sri Lanka Tourism Promotion Bureau, recognising it as a flagship initiative in developing the country’s concert economy by attracting fans, and media, from all over South Asia.
-
-Ne-Yo, who is primarily associated with R&B, pop, hip hop and soul, has won three Grammy Awards .
-
-His hit singles include ‘So Sick’, ‘Sexy Love’, ‘Because of You’, ‘Closer’, Give Me Everything (feat. Nayer), and ‘Time of Our Lives’ (feat. Pitbull).
-
-...
-
-[Data](articles/f3d4f8f7.json)
 
 ---

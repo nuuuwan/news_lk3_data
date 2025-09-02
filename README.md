@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 09:27:24**
+As of **2025-09-02 09:38:53**
 
 ## Newspaper Stats
 
-*Scraped **73,660** Articles*
+*Scraped **73,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 622
 bbccomsinhala | 677
 colombotelegraphcom | 754
-economynextcom | 4,483
+economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,788
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,660 articles have been extended.
+61,973 (84.1%) of 73,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -159,6 +159,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6ea54907.json)
+
+---
+
+### Sri Lanka electric vehicle crisis to go beyond BYD
+
+*2025-09-02 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-electric-vehicle-crisis-to-go-beyond-byd-239055/) · `en`
+
+ECONOMYNEXT – Multiple electric vehicle makers are offering lower output motors in Sri Lanka for models which are sold with higher outputs in Australia and Thailand, and authorities are likely to test them as well, a top official said.
+
+Sri Lanka customs originally detained around 1,000 BYD Atto 3, vehicles with a 100kW motor rating after a complaint that the vehicle is sold with 150kW motor in other markets. Later around another 1,000 including other models were detained.
+
+Electric vehicle makers may reduce power output of vehicles for price discrimination (charge a premium for higher performance), to match tax brackets or to extend their range.
+
+Motor output in EVs is in usually managed and controlled through software (firmware-limited) using electronic control modules (ECU/ECM).
+
+Some of the EVs offered in Sri Lanka show that the same models are offered with multiple power outputs in other markets based on dealer websites.
+
+...
+
+[Data](articles/59afe191.json)
 
 ---
 
@@ -1701,21 +1721,5 @@ It will also enhance health system resilience by upgrading laboratories, strengt
 ◼️
 
 [Data](articles/6f3d7897.json)
-
----
-
-### ஆப்கானிஸ்தான் பூகம்பம்: பலி 800 ஆக அதிகரிப்பு; 4500+ காயம்
-
-*2025-09-01 17:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தான்-பூகம்பம்-பலி-800-ஆக-அதிகரிப்பு-4500-காயம்/50-363867) · `ta`
-
-ஆப்கானிஸ்தானில் இன்று (செப்.1) ஏற்பட்ட பூகம்பத்தில் சிக்கி உயிரிழந்தோர் எண்ணிக்கை 800 ஆக அதிகரித்துள்ளது. 4,500-க்கும் மேற்பட்டோர் காயமடைந்தனர்.
-
-அமெரிக்க புவியியல் ஆய்வு மையம் வெளியிட்டுள்ள அறிக்கையில், “ஆப்கானிஸ்தானின் நான்கர்ஹர் மாகாணத்தில் ஜலாலாபாத் நகரம் உள்ளது. இது பாகிஸ்தான் எல்லையை ஒட்டி அமைந்துள்ளது. ஜலாலாபாத்தில் இருந்து 27 கிலோ மீட்டர் தூரத்தில் உள்ள கிராமத்தில் பூகம்பம் மையம் கொண்டிருந்தது. பூமிக்கு அடியில் 8 கிமீ ஆழத்தில் பூகம்பம் மையம் கொண்டிருந்தது. முதலில் 6.3 ரிக்டர் அளவிலும், பின்னர் 4.7 ரிக்டர் அளவிலும் இரண்டு நிலநடுக்கங்கள் ஏற்பட்டுள்ளன. தொடர்ந்து நில அதிர்வுகளும் ஏற்பட்டுள்ளன” எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-இந்த நிலநடுக்கம் குறித்து தலிபான் அரசின் செய்தித் தொடர்பாளர் ஜபிபுல்லா முஜாஹித் கூறுகையில், “குனார் மாகாணத்தில் மட்டும் 800 பேர் உயிரிழந்துள்ளனர். 2500 பேர் காயமடைந்துள்ளனர். நாங்கர்ஹர் பகுதியில் 12 பேர் உயிரிழந்தனர். 255 பேர் காயமடைந்தனர். எண்ணற்ற வீடுகள் தரைமட்டமாயின” என்றார்.
-
-...
-
-[Data](articles/38f939dd.json)
 
 ---

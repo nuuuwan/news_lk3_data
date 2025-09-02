@@ -1,36 +1,154 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 09:51:18**
+As of **2025-09-02 10:08:50**
 
 ## Newspaper Stats
 
-*Scraped **73,661** Articles*
+*Scraped **73,674** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 622
+dbsjeyarajcom | 623
 bbccomsinhala | 677
 colombotelegraphcom | 754
 economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,097
-adaderanalk | 9,384
-tamilmirrorlk | 10,953
-virakesarilk | 12,055
-adaderanasinhalalk | 12,788
+adalk | 7,098
+adaderanalk | 9,390
+tamilmirrorlk | 10,954
+virakesarilk | 12,058
+adaderanasinhalalk | 12,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,661 articles have been extended.
+61,973 (84.1%) of 73,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### නිධන් හෑරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් DIG රිමාන්ඩ්
+
+*2025-09-02 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214066) · `si`
+
+ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හෑරීමේ සිද්ධියක් සම්බන්ධව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කළ නියෝජ්‍ය පොලිස්පතිවරයා අද (01) දින අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කර තිබේ.
+
+එහිදී ඔහුව හඳුනා ගැනීමේ පෙරට්ටුවට ඉදිරිපත් කර ඇති අතර එහිදී හඳුනා ගැනීමේ පෙරට්ටුවෙන් ඔහුව හඳුනාගෙන ඇත.
+
+ඒ අනුව නියෝජ්‍ය පොලිස්පතිවරයා එළැඹෙන 08 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/bff8f04c.json)
+
+---
+
+### பூண்டுலோயா விபத்தில் மாணவர்கள் உட்பட ஐவர் காயம்
+
+*2025-09-02 09:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பூண்டுலோயா-விபத்தில்-மாணவர்கள்-உட்பட-ஐவர்-காயம்/76-363889) · `ta`
+
+தலவாக்கலையில் இருந்து கண்டி நோக்கி பயணித்த தனியார் பேருந்து  மற்றும் முச்சக்கர வண்டியொன்று பூண்டுலோயா கய்ப்புக்கொலை பகுதியில் வைத்து செவ்வாய்க்கிழமை (02) விபத்துக்குள்ளாகியுள்ளது
+
+குறித்த  பேருந்து முச்சக்கர வண்டியை முந்திச் செல்ல முற்பட்ட போது விபத்து ஏற்பட்டுள்ளதுடன் விபத்தின் போது பேருந்தில் பயணித்த பாடசாலை மாணவர்கள் நால்வர் மற்றும் முச்சக்கர வண்டி சாரதிக்கு பலத்த காயங்கள் ஏற்பட்டுள்ளது.
+
+காயமடைந்த 5 பேரும் கொத்மலை வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் விபத்து தொடர்பான மேலதிக விசாரணைகளை பூண்டுலோயா பொலிஸார் மேற்கொண்டு வருகின்றனர்
+
+◼️
+
+[Data](articles/dffb101a.json)
+
+---
+
+### 159வது பொலிஸ் தினத்தை முன்னிட்டு கொழும்பில் விசேட போக்குவரத்து திட்டம் நாளை
+
+*2025-09-02 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/223985) · `ta`
+
+159வது பொலிஸ் தினத்தை முன்னிட்டு நாளை புதன்கிழமை (3) பொலிஸ் மேலதிகப் படைத் தலைமையகத்தில் விசேட நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டுள்ளன.
+
+இதற்காக கொழும்பு போக்குவரத்துப் பிரிவினால் விசேட போக்குவரத்துத் ஒழுங்கு திட்டத்தை செயல்படுத்த ஏற்பாடு செய்யப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+இதற்கமைய, பம்பலப்பிட்டி பொலிஸ் பிரிவில் உள்ள தும்முல்ல சந்திப்பிலிருந்து திம்பிரிகஸ்யாய சந்தி வரை ஹேவ்லாக் வீதியில் பயணிக்கவிருப்போர் பின்வரும் அறிவுறுத்தலை பின்பற்றுமாறு பொலிஸார் அறிவித்துள்ளனர்.
+
+பொலிஸ் மேலதிகப் படைத் தலைமையகத்திற்கு எதிரே உள்ள கொழும்பின் வெளியேறும் வீதியில் நிறுவப்பட்ட பஸ் நிறுத்தம் 03.09.2025 அன்று பிற்பகல் 02.30 மணி முதல் மாலை 07.00 மணி வரை ஹேவ்லாக் மார்க்கத்தில் உள்ள பொன்சேகா வீதியின் சந்தியில் அமைந்துள்ள பஸ் நிறுத்தத்திற்கு தற்காலிகமாக மாற்றப்படும்.
+
+...
+
+[Data](articles/417738db.json)
+
+---
+
+### இந்தியாவில் போலி கடவுசீட்டு அல்லது விசா பயன்படுத்தினால் கடும் நடவடிக்கை ; புதிய சட்டம்  அமுல்
+
+*2025-09-02 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/223984) · `ta`
+
+இந்தியாவிற்குள் நுழைவதற்கும், வெளியேறுவதற்கும் வெளிநாட்டினர் சட்டம், 2025, போலியான கடவுசீட்டுகள், விசாக்களுக்கு கடுமையான தண்டனைகளை அமுல்படுத்தப்பட்டுள்ளது.
+
+இந்தியாவின் குடியேற்றச் சட்டங்களை ஒருங்கிணைத்து புதுப்பிக்கும் மற்றும் போலி கடவுசீட்டு அல்லது விசாக்களைப் பயன்படுத்துவதற்கு கடுமையான தண்டனைகளை விதிக்கும் புதிய குடியேற்றம் மற்றும் வெளிநாட்டினர் சட்டம், 2025, திங்கட்கிழமை அமுலுக்கு வந்தது.
+
+இந்த சட்டம் பாராளுமன்ற வரவு செலவு கூட்டத்தொடரின் போது நிறைவேற்றப்பட்டு, ஏப்ரல் மாதம் 4 ஆம் திகதி அன்று ஜனாதிபதி திரௌபதி முர்முவின் அனுமதியை பெற்றது.
+
+◼️
+
+[Data](articles/61565ce8.json)
+
+---
+
+### 07 மாதங்களில் இலஞ்சம் பெற்ற குற்றச்சாட்டில் 17 பொலிஸ் அதிகாரிகள் உட்பட 49 பேர் கைது
+
+*2025-09-02 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/223983) · `ta`
+
+இவ் வருடத்தின் முதல் ஏழு மாதங்களில் இலஞ்சம் பெற்ற குற்றச்சாட்டில் 49 நபர்கள் கைது செய்யப்பட்டுள்ளதாக இலஞ்சம், ஊழல் விசாரணை ஆணைக்குழு (CIABOC) தெரிவித்துள்ளது.
+
+இந்த காலகட்டத்தில் மொத்தம் 3,937 முறைப்பாடுகள் கிடைத்துள்ளதாக ஆணைக்குழு தெரிவித்துள்ளது. இந்த முறைப்பாடுகளின் அடிப்படையில், 72 சோதனைகள் நடத்தப்பட்டன, அவற்றில் 39 வெற்றிகரமாக மேற்கொள்ளப்பட்டன.
+
+நீதி அமைச்சு, சுகாதார அமைச்சு, குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம், இலங்கை போக்குவரத்து ஆணைக்குழு (SLTB) மற்றும் மாவட்ட செயலகங்கள் உள்ளிட்ட பல அரச நிறுவனங்களிலிருந்தும் சந்தேகநபர்கள் கைது செய்யப்பட்டதாக ஆணைக்குழு மேலும் குறிப்பிட்டது.
+
+மேலும், இந்தக் காலகட்டத்தில், இலஞ்சம் பெற்றதற்காக 27 நபர்களுக்கு நீதிமன்றங்களால் தண்டனை வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/13665320.json)
+
+---
+
+### රිවි දනවි සූර්ය බල ව්‍යාපෘතියේ ඉදිකිරීම් 6දා ඇරඹේ
+
+*2025-09-02 08:50:46* · [`adalk`](https://www.ada.lk/breaking_news/රිවි-දනවි-සූර්ය-බල-ව්‍යාපෘතියේ-ඉදිකිරීම්-6දා-ඇරඹේ/11-418212) · `si`
+
+මොනරාගල දිස්ත්‍රික්කයේ සියඹලාණ්ඩුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ කොටියාගල ප්‍රදේශයේ ඉඳිකෙරෙන රිවි දනවි සූර්ය බල ව්‍යාපෘතියේ ඉඳි කිරීම් කටයුතු සඳහා මුල්ගල තැබීම සැප්තැම්බර් මස (06) වෙනි දින ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් සිදුකෙරේ.
+
+මෙම ව්‍යාපෘතිය පිළිබඳව අදහස් දැක්වූ ව්‍යාපෘති අධ්‍යක්ෂක චාමික පෙරේරා මහතා, "මෙම ව්‍යාපෘතිය යටතේ මෙගා වොට් සියයක විදුලි ධාරිතාවක් ජාතික විදුලි බල පද්ධතියට එක් වෙනවා.අක්කර 500 භූමි ප්‍රමාණයක මෙම ව්‍යාපෘතිය ස්ථාපිත කෙරෙනවා.ඒ සඳහා ඇමරිකානු ඩොලර් මිලියන 137 වැය කෙරෙනවා.ව්‍යාපෘතිය නිසා වායුගෝලයට විමෝචනය වන කාබන් ඩයොක්සයිඩ් ප්‍රමාණය වසරකට කිලෝග්‍රෑම් මිලියන 110 කින් අඩු වෙනවා.
+
+ව්‍යාපෘතිය මෙගාවොට් පැය දොළහක බැටරි ගබඩා පහසුකම්ද සහිතයි.එමඟින්  ජාතික විදුලි බල පද්ධතිය ස්ථායීතාව පවත්වාගෙන යාමට හැකි වෙනවා.ව්‍යාපෘති භූමිය වටා කිලෝමීටර් හතර හමාරක විදුලි වැටක් මේ වන විට ඉඳිකර තිබෙනවා.
+
+...
+
+[Data](articles/0e228f14.json)
+
+---
+
+### Belgium to recognise Palestinian state at UN General Assembly
+
+*2025-09-02 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112092/belgium-to-recognise-palestinian-state-at-un-general-assembly) · `en`
+
+Belgium will recognise a Palestinian state at the U.N. General Assembly, Foreign Minister Maxime Prevot said on Tuesday, adding to international pressure on Israel after similar moves by Australia, Britain, Canada and France.
+
+Under mounting global criticism for its war in Gaza, Israel has been angered by the pledges to formally recognise a Palestinian state at a summit during this month’s U.N. event.
+
+Belgium will join the signatories of the New York Declaration, paving the way for a two-state solution, or a Palestinian state co-existing in peace alongside Israel, Prevot said in a post on X.
+
+The decision comes “in light of the humanitarian tragedy unfolding in Palestine, particularly in Gaza, and in response to the violence perpetrated by Israel in violation of international law,” Prevot added.
+
+...
+
+[Data](articles/80560f8c.json)
+
+---
 
 ### මිචෙල් ස්ටාර්ක් T20 තරගවලින් සමුගනී
 
@@ -66,6 +184,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Court backlog must be cleared by December 31 – Judicial Service Commission
+
+*2025-09-02 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112091/court-backlog-must-be-cleared-by-december-31-judicial-service-commission) · `en`
+
+The Judicial Service Commission (JSC) has directed that all pending case backlogs in courts must be cleared by December 31.
+
+This directive has reportedly been issued to all District Judges, Magistrates, and High Court Judges.
+
+In recent weeks, data regarding pending cases in courts was collected, and the Commission has now instructed the judges to begin expediting the clearance of these cases without delay.
+
+The Judicial Service Commission has emphasised that District Judges, Magistrates, High Court Judges, and Additional District Judges—who are administratively responsible for their respective courts—are directly accountable for clearing the pending caseload in their courts.
+
+The Commission is also expected to monitor the clearance process through local-level inspections, and has instructed all judges to submit monthly progress reports on the matter.
+
+...
+
+[Data](articles/b5f410d6.json)
+
+---
+
 ### சூடானில் ஏற்பட்ட மண்சரிவில் 1000 பேர் பலி
 
 *2025-09-02 08:15:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூடானில்-ஏற்பட்ட-மண்சரிவில்-1000-பேர்-பலி/175-363887) · `ta`
@@ -89,6 +227,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/456a3989.json)
+
+---
+
+### Token strike at Ratnapura Teaching Hospital over director’s conduct – GMOA
+
+*2025-09-02 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112090/token-strike-at-ratnapura-teaching-hospital-over-directors-conduct-gmoa) · `en`
+
+The Government Medical Officers’ Association (GMOA) has decided to stage a token strike today (02) at the Ratnapura Teaching Hospital, in protest against the conduct of the Director of the hospital.
+
+The GMOA stated that although the Ministry of Health had previously agreed to take necessary measures to resolve the issue, the relevant authorities have failed to implement those agreements.
+
+As a result, the GMOA has planned to carry out the strike from 8:00 a.m. today until 8:00 a.m. tomorrow (03) at the Ratnapura Teaching Hospital.
+
+Emergency and life-saving treatment services will continue as usual during the strike. However, all routine medical services are expected to be disrupted, according to the GMOA.
+
+Meanwhile, the Federation of University Teachers’ Associations (FUTA) has warned that it will also resort to trade union action in the future if authorities fail to address their concerns.
+
+...
+
+[Data](articles/3d94a388.json)
 
 ---
 
@@ -148,6 +306,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### New Immigration & Foreigners Act comes into effect in India, severe punishment for forging passport, visa
+
+*2025-09-02 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112089/new-immigration-foreigners-act-comes-into-effect-in-india-severe-punishment-for-forging-passport-visa) · `en`
+
+A new Act that regulates matters related to foreigners and immigration and has provisions for heavy punishment for carrying a forged passport or visa came into effect in India on Monday (01).
+
+The Immigration and Foreigners Act, 2025, was passed by the Indian parliament during the Budget session, and President Droupadi Murmu gave her assent on April 4, 2025.
+
+“In exercise of the powers conferred by sub-section (2) of section 1 of the Immigration and Foreigners Act, 2025 (13 of 2025), the central government hereby appoints the 01st day of September, 2025, as the date on which the provisions of the said Act shall come into force,” said a notification issued by Nitesh Kumar Vyas, additional secretary in the Ministry of Home Affairs.
+
+According to the law, anyone found to be using a forged passport or visa for entering into India or staying in or exiting from the country will be punishable with a jail term of up to seven years and a fine to the extent of one million Indian rupees.
+
+...
+
+[Data](articles/64824e39.json)
+
+---
+
 ### ජනපති කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවක
 
 *2025-09-02 07:25:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කච්චතිව්-දූපතේ-නිරීක්ෂණ-චාරිකාවක/11-418210) · `si`
@@ -159,6 +335,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6ea54907.json)
+
+---
+
+### 49 including 17 police officers arrested over bribery incidents in first seven months of 2025 – CIABOC
+
+*2025-09-02 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112088/49-including-17-police-officers-arrested-over-bribery-incidents-in-first-seven-months-of-2025-ciaboc) · `en`
+
+A total of 49 individuals have been arrested in connection with bribery-related incidents during the first seven months of this year, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+According to the Commission, it received a total of 3,937 complaints during this period. Based on these complaints, 72 raids were conducted, out of which 39 were successfully carried out.
+
+Among those arrested, the highest number came from Sri Lanka Police, with 17 police officers taken into custody.
+
+The Commission further noted that suspects were also arrested from several government institutions, including the Ministry of Justice, Ministry of Health, Department of Immigration and Emigration, Sri Lanka Transport Board (SLTB) and District Secretariats.
+
+Furthermore, it was reported that during this period, 27 individuals were convicted by courts for accepting bribes.
+
+◼️
+
+[Data](articles/2ad88751.json)
 
 ---
 
@@ -215,6 +411,28 @@ Some of the EVs offered in Sri Lanka show that the same models are offered with 
 ...
 
 [Data](articles/86291268.json)
+
+---
+
+### SLFP turns 74 today
+
+*2025-09-02 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112087/slfp-turns-74-today) · `en`
+
+Today marks the 74th anniversary of the Sri Lanka Freedom Party (SLFP).
+
+The 74th anniversary celebrations of the SLFP will take place at the part headquarters in Colombo this afternoon.
+
+The SLFP was formed on September 2, 1951 by former Prime Minister S.W.R.D. Bandaranaike.
+
+The SLFP, despite its recent electoral setback has played a key role in Sri Lanka’s political landscape over the years.
+
+The party has produced several Presidents and Prime Ministers of Sri Lanka.
+
+Notably, Sirimavo Bandaranaike, who was the world’s first female Prime Minister led the SLFP for 41 years.
+
+◼️
+
+[Data](articles/038bf115.json)
 
 ---
 
@@ -298,15 +516,17 @@ Heavy vehicle movement (container trucks and tipper trucks) will be restricted a
 
 *2025-09-02 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112085/more-than-1000-killed-in-landslide-in-western-sudan) · `en`
 
-More than 1000 people have been killed in a landslide that destroyed a village in the Marra Mountains area of western Sudan, leaving only one survivor.
+At least 1,000 have been killed in a landslide that destroyed a village in the Marra Mountains area of western Sudan, leaving only one survivor, The Sudan Liberation Movement/Army said on Monday.
 
-The landslide took place on August 31 following heavy rains, the Sudan Liberation Movement/Army reported.
+The landslide struck on August 31 after days of heavy rainfall, the group led by Abdelwahid Mohamed Nour said in a statement.
 
-The group, led by Abdelwahid Nour, added that the deadly disaster underscored the urgent need for attention to communities in the affected area.
+The movement, which controls the area located in Darfur region, appealed to the United Nations and international aid agencies to help recover the bodies of victims, including men, women and children.
 
-The landslide comes as West Africa has experienced record flooding, displacing hundreds of thousands across the region.
+The village “has now been completely levelled to the ground,” the movement added.
 
-◼️
+Fleeing the raging war between the Sudanese army and the paramilitary Rapid Support Forces (RSF) in North Darfur state, residents sought shelter in the Marra Mountains area where food and medication are insufficient.
+
+...
 
 [Data](articles/affb060e.json)
 
@@ -316,13 +536,15 @@ The landslide comes as West Africa has experienced record flooding, displacing h
 
 *2025-09-02 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112084/few-showers-expected-in-parts-of-the-island-today-) · `en`
 
-A few showers may occur in the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara-Eliya districts.
+A few showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (02), according to the Department of Meteorology.
 
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+Showers or thundershowers may occur at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
 
-Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Hambantota district.
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the North-central and North-western provinces and in Hambantota district.
 
-The sun is going to be directly over the latitudes of Sri Lanka during 28th of August to 07th of September due to its apparent southward relative motion. The nearest places of Sri Lanka over which the sun is overhead today (02) are Andigama, Balalla, Migaswewa, Bambaragaswewa, Bakamuna, Aralaganwila, Chenkalady, Eravur about 12.10 noon.
+The Met. Department added that the sun will be directly over the latitudes of Sri Lanka from August 28 to September 07 due to its southward relative motion.
+
+Accordingly, the sun will be directly overhead in Andigama, Balalla, Meegaswewa, Bambaragaswewa, Bakamuna, Aralaganwila, Chenkaladi and Eravur at around 12.10 p.m. today.
 
 ◼️
 
@@ -1360,6 +1582,20 @@ At the time of the fire, there were 41 passengers on board, according to reports
 
 ---
 
+### Remembering  Legendary Trade Union Leader amd Trotskyite Firebrand   Comrade  Bala Tampoe .
+
+*2025-09-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=77697) · `en`
+
+(This article was written in May 2022 to commemorate the birth centenary of  Firebrand Trade Union Leader Bala Tampoe.It is re-posted without any changes here  to denote his 11th death anniversary on September 1st 2025)
+
+The “Political Pulse”column focuses  this week on a man who was perhaps the last of the great trade unionists. A legend in his lifetime who was at the helm of a vibrant trade union   continuously for a   period of sixty six years – an unsurpassed record! I am of course referring to comrade Bala Tampoe  who was the Ceylon Mercantile Union (CMU)  General Secretary from 1948 to 2014. Though called the CMU still, the amended name of the union is now The Ceylon Mercantile, Industrial and General Workers Union. The  trade union firebrand  is  no more with us having passed away in September   2014. Bala Tampoe’s  birth centenary  was on May 23rd.
+
+...
+
+[Data](articles/12d67573.json)
+
+---
+
 ### නිධන් හැරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් DIG රිමාන්ඩ්
 
 *2025-09-01 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214048) · `si`
@@ -1432,6 +1668,20 @@ This was based on information received by the Anuradhapura Police on August 13 t
 
 ---
 
+### Sri Lanka born Ruwan Jayakody: Culinary Excellence and Entrepreneurial Vision from Toronto to the World
+
+*2025-09-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86375) · `en`
+
+There is something to be said about individuals who ensure that people get only the best, because it is what they deserve. Ruwan Jayakody is one such individual, as he stands in his Grand Cinnamon Banquet and Convention Centre, watching servers prepare for another sold-out event. The premiere venue represents just one facet of a major business built from flour, sugar, and driven ambition.
+
+Born in rural Ruwanwella, Sri Lanka, among generations of farmers, Jayakody has taken the path from cowboy to world-renowned celebrity chef, accumulating 42 years of hospitality expertise across four continents.
+
+...
+
+[Data](articles/948b5a31.json)
+
+---
+
 ### Sri Lankan  President Anura Kumara Dissanayake makes  a quick, unannounced visit to Katchatheevu, after vowing to safeguard “seas and islands” around the country and resist any “external pressure”.
 
 *2025-09-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86373) · `en`
@@ -1493,233 +1743,5 @@ Seylan Cards renewed its collaboration with Cinnamon Hotels & Resorts and its na
 ...
 
 [Data](articles/e2a2f659.json)
-
----
-
-### හික්කඩුවේ වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් අයෙක් අත්අඩංගුවට
-
-*2025-09-01 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214047) · `si`
-
-හික්කඩුව, මලවැන්න වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් එක් පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති එහිදි වෙඩිතැබීම සඳහා යොදා ගත් ගිනි අවිය ද පොලිස් භාරයට ගෙන තිබේ.
-
-කෙසේවෙතත් වෙඩි තැබීම සිදුකළ වෙඩික්කරු මේ වන තෙක් අත්අඩංගුවට නොමැති බව වාර්තා වෙයි.
-
-හික්කඩුව, මලවැන්න ප්‍රදේශයේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කළේය.
-
-පොලීසිය පැවසුවේ යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් වැගන් ආර් වර්ගයේ මෝටර් රථයකින් ගමන් කරමින් සිටී පුද්ගලයින් 05 දෙනෙකු ඉලක්ක කර ගනිමින් අද පස්වරුවේ මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
-
-කෙසේවෙතත් ඉන් එක් පුද්ගලයෙකු පමණක් තුවාල ලබා බලපිටිය රෝහල වෙත ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/b10d7a84.json)
-
----
-
-### Individual arrested over Hikkaduwa shooting
-
-*2025-09-01 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112077/individual-arrested-over-hikkaduwa-shooting) · `en`
-
-A suspect has been arrested in connection with the shooting incident that occurred in Malawenna, Hikkaduwa, police stated.
-
-A firearm used in the incident has also been taken into police custody.
-
-However, the gunman who carried out the shooting has not yet been apprehended, according to reports.
-
-The shooting resulted in one person being injured, who was then admitted to the hospital.
-
-According to police, two individuals who arrived on a motorcycle opened fire this afternoon (01) targeting five people who were traveling in a car.
-
-Out of the five targets, only one individual sustained injuries and has been admitted to the Balapitiya Base Hospital.
-
-◼️
-
-[Data](articles/21dd69e8.json)
-
----
-
-### உக்ரைனுடனான போர் நெருக்கடியைத் தீர்க்க சீனா, இந்தியா மேற்கொண்ட முயற்சிகளுக்கு புட்டின் பாராட்டு!
-
-*2025-09-01 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/223964) · `ta`
-
-உக்ரைனுடனான போர் நெருக்கடியைத் தீர்க்க சீனா மற்றும் இந்தியா மேற்கொண்ட முயற்சிகளுக்கு ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டின் பாராட்டு தெரிவித்தார்.
-
-ஷாங்காய் ஒத்துழைப்பு அமைப்பின் (SCO) இரண்டு நாள் உச்சி மாநாடு சீனாவின் தியான்ஜின் நகரில் நடைபெற்றது. இந்த மாநாட்டில் ரஷ்ய அதிபர் விளாடிமிர் புட்டின் உரையாற்றும் போதே, உக்ரைன் போர் நெருக்கடியைத் தீர்க்க சீனா மற்றும் இந்தியா மேற்கொண்ட முயற்சிகளுக்குப் பாராட்டு தெரிவித்தார்.
-
-மாநாட்டில் சீன ஜனாதிபதி சி ஜின்பிங், இந்தியப் பிரதமர் நரேந்திர மோடி, பாகிஸ்தான் பிரதமர் ஷெஹ்பாஸ் ஷெரீப், ஈரான் ஜனாதிபதி உட்பட 10 உறுப்பு நாடுகளின் தலைவர்கள் கலந்துகொண்டனர்.
-
-ரஷ்ய ஜனாதிபதி புட்டின் தனது உரையில், உக்ரைனில் அமைதி ஏற்பட அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்புடனான தனது சந்திப்பு முக்கியத்துவம் வாய்ந்தது என்றும், இந்தச் சந்திப்பின் விவரங்களை உலகத் தலைவர்களிடம் பகிர்ந்து கொள்ள இருப்பதாகவும் தெரிவித்தார். இந்தப் பேச்சுவார்த்தைகள் உக்ரைனில் அமைதிக்கு வழிவகுக்கும் என்றும் அவர் நம்பிக்கை தெரிவித்தார்.
-
-◼️
-
-[Data](articles/f3393e12.json)
-
----
-
-### பொரளை வீதி இன்று இரவு மூடப்படும்
-
-*2025-09-01 17:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரளை-வீதி-இன்று-இரவு-மூடப்படும்/175-363870) · `ta`
-
-பராமரிப்பு பணிகள் காரணமாக கொழும்பு நோக்கி செல்லும் பொரளை தேவி பாலிகா சுற்றுவட்டத்தில் இருந்து டி.எஸ். சேனாநாயக்க சந்தி வரையான வீதிகள்  திங்கட்கிழமை (01) இரவு  7:00 மணி முதல் மூடப்படும் என பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-பொரளையில் அண்மையில் வீதி தாழிறங்கியதால் அதன் பராமரிப்பு பணிகள் காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு மேலும் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/d7c67861.json)
-
----
-
-### ලබන වසරේ දී රජය සමඟ සිදු කරන සියලු ගෙවීම් සහ ගනුදෙනු Online ක්‍රමයට - ජනපති
-
-*2025-09-01 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214046) · `si`
-
-ලබන වසර වන විට ජනතාව රජය සමඟ සිදු කරන සියලු ගෙවීම් සහ ගනුදෙනු කටයුතු මාර්ගගත ක්‍රම (Online) ඔස්සේ  සිදු කර ගැනීමට හැකි පහසුකම ලබා දීමට කටයුතු කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-වත්මන් රජයේ ප්‍රමුඛ වැඩසටහනක් වූ ඩිජිටල්කරණය මගින් මෙතෙක් කොළඹට සීමා වූ සියලු පරිපාලන කටයුතු ඈත පිටිසර ගම්මාන දක්වා විමධ්‍යගත කරමින් රජයෙන් ඉටු කර ගත යුතු කාර්ය ඉතා සමීපව ඉටු කර ගැනීමට ජනතාවට අවස්ථාව සලසා දෙන බවද ජනාධිපතිවරයා පවසයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ ආගමන හා විගමන දෙපාර්තමේන්තුවේ යාපනය ප්‍රාදේශීය කාර්යාලය විවෘත කිරීමේ අවස්ථාවට අද (01) එක් වෙමිනි.
-
-යාපනය දිස්ත්‍රික් ලේකම් කාර්යාල පරිශ්‍රය තුළ ස්ථාපිත කෙරුණු මෙම කාර්යාලය නවීන තාක්ෂණය ඇතුළු සියලු පහසුකම්වලින් සමන්විතය.
-
-...
-
-[Data](articles/63175b34.json)
-
----
-
-### හික්කඩුවේ වෙඩි තැබීමක්
-
-*2025-09-01 17:27:52* · [`adalk`](https://www.ada.lk/breaking_news/හික්කඩුවේ-වෙඩි-තැබීමක්/11-418208) · `si`
-
-යතුරුපැදියකින් පැමිණි දෙදෙනෙකු  හික්කඩුව, මලවැන්න ප්‍රදේශයේදී අද (01) පස්වරුවේ සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා තිබේ.
-
-◼️
-
-[Data](articles/c27337d1.json)
-
----
-
-### யாழில் கடவுச்சீட்டு பிராந்திய அலுவலகம் திறப்பு
-
-*2025-09-01 17:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-கடவுச்சீட்டு-பிராந்திய-அலுவலகம்-திறப்பு/175-363869) · `ta`
-
-குடிவரவு குடியகல்வு திணைக்களத்தின் யாழ்ப்பாண பிராந்திய அலுவலகம் திங்கட்கிழமை (01) அன்று திறந்து வைக்கப்பட்டது.
-
-யாழ்ப்பாண மாவட்ட செயலக வளாகத்தில் அமைக்கப்பட்டுள்ள இவ் அலுவலகம் ஜனாதிபதி அனுரகுமார திசாநாயக்க அவர்களால் திறந்து வைக்கப்பட்டது.  இந்நிகழ்வில் பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் கௌரவ ஆனந்தவிஜேபால ,கடற்றொழில் நீரியல் கடல் வளங்கள் அமைச்சர் கௌரவ இராமலிங்கம் சந்திரசேகர் ,வடக்கு மாகாண ஆளுநர்கௌரவநாகலிங்கம் வேதநாயகன் ,பிரதியமைச்சர்களான சுனில்வட்டகல.   நாடாளுமன்ற உறுப்பினர்களான ம.ஜெகதீஸ்வரன், க.இளங்குமரன், எஸ்.ஸ்ரீபவானந்தராஜா,ஜெ.றஜீவன், மற்றும் சிவிகே சிவஞானம் அமைச்சின் செயலாளர்கள், பிரதமசெயலாளர் உள்ளிட்ட திணைக்களத் தலைவர்கள் கலந்து கொண்டனர்.
-
-குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகம்ஐ.சமிந்த பத்திராஜ ,யாழ்மாவட்டச் செயலாளர் மருதலிங்கம் பிரதீபன் , பிரதியமைச்சர்கள் ,யாழ்ப்பாணம் கிளிநொச்சி மாவட்ட நாடாளுமன்ற உறுப்பினர்கள் பொதுமக்கள் அரசஅதிகாரிகள் கலந்து கொண்டனர்.யாழ்மாவட்டச் செயலகத்தின் 60 ஆவதுஆண்டுபூர்த்தியை முன்னிட்டு முத்திரையும் தபால்தலையும் வெளியிடப்பட்டது
-
-◼️
-
-[Data](articles/86780ce4.json)
-
----
-
-### யாழில் பிராந்திய அலுவலகம் திறப்பு
-
-*2025-09-01 17:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-பிராந்திய-அலுவலகம்-திறப்பு/175-363869) · `ta`
-
-குடிவரவு குடியகல்வு திணைக்களத்தின் யாழ்ப்பாண பிராந்திய அலுவலகம் திங்கட்கிழமை (01) அன்று திறந்து வைக்கப்பட்டது.
-
-யாழ்ப்பாண மாவட்ட செயலக வளாகத்தில் அமைக்கப்பட்டுள்ள இவ் அலுவலகம் ஜனாதிபதி அனுரகுமார திசாநாயக்க அவர்களால் திறந்து வைக்கப்பட்டது.  இந்நிகழ்வில் பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் கௌரவ ஆனந்தவிஜேபால ,கடற்றொழில் நீரியல் கடல் வளங்கள் அமைச்சர் கௌரவ இராமலிங்கம் சந்திரசேகர் ,வடக்கு மாகாண ஆளுநர்கௌரவநாகலிங்கம் வேதநாயகன் ,பிரதியமைச்சர்களான சுனில்வட்டகல.   நாடாளுமன்ற உறுப்பினர்களான ம.ஜெகதீஸ்வரன், க.இளங்குமரன், எஸ்.ஸ்ரீபவானந்தராஜா,ஜெ.றஜீவன், மற்றும் சிவிகே சிவஞானம் அமைச்சின் செயலாளர்கள், பிரதமசெயலாளர் உள்ளிட்ட திணைக்களத் தலைவர்கள் கலந்து கொண்டனர்.
-
-குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகம்ஐ.சமிந்த பத்திராஜ ,யாழ்மாவட்டச் செயலாளர் மருதலிங்கம் பிரதீபன் , பிரதியமைச்சர்கள் ,யாழ்ப்பாணம் கிளிநொச்சி மாவட்ட நாடாளுமன்ற உறுப்பினர்கள் பொதுமக்கள் அரசஅதிகாரிகள் கலந்து கொண்டனர்.யாழ்மாவட்டச் செயலகத்தின் 60 ஆவதுஆண்டுபூர்த்தியை முன்னிட்டு முத்திரையும் தபால்தலையும் வெளியிடப்பட்டது
-
-◼️
-
-[Data](articles/d93108c6.json)
-
----
-
-### දීඝවාපි සෑයේ අඩි 72ක වැඩ අවසන්
-
-*2025-09-01 17:22:55* · [`adalk`](https://www.ada.lk/religion/දීඝවාපි-සෑයේ-අඩි-72ක-වැඩ-අවසන්/4-418207) · `si`
-
-බෞද්ධ ජනතාව විසින් වන්දනාමාන කරනු ලබන සොළොස්මස්ථාන අතුරින් වැදගත් ස්ථානයක් වු දීඝවාපිය චෛත්‍ය රාජයාණන් වහන්සේ දිවයිනේ නැගෙනහිර පළාතේ අම්පාර දිස්ත්‍රික්කයෙහි පිහිටා ඇත.
-
-ක්‍රි.ව 03 වන සියවසේදී පමණ ඉදි කර ඇති බවට සැලකෙන මෙම ස්ථුපය, සද්ධාතිස්ස රජු විසින් ඉදිකරවන ලද බවත්, එහි ධාතු ගර්භයේ බුදුරජාණන් වහන්සේගේ නිය ධාතුන් වහන්සේ තැන්පත් කර ඇති බවත් ඓතිහාසික මුලාශ්‍ර වල දැක්වෙන අතර, විවිධ සතුරු ආක්‍රමණ හමුවේ විනාශ වී තිබු මෙම ස්ථුපය පසුකාලීනව මහනුවර රාජධානි සමයේදී කිර්ති ශ්‍රී රාජසිංහ රජු විසින් පළමුවරට ප්‍රතිසංස්කරණය සිදු කොට ඇත. ඉන් අනතුරුව ද විවිධ හේතුන් මත විනාශ වී තිබු දීඝවාපිය ස්ථුපයේ නටබුන්, වර්ෂ 1916 දී කොහුකුඹුරේ ශ්‍රී රේවත ස්වාමින් වහන්සේ විසින් සොයා ගන්නා ලදි.
-
-...
-
-[Data](articles/1fce33ac.json)
-
----
-
-### කල්පිටියේ එළවළු මිල සීඝ්‍රයෙන් පහළට
-
-*2025-09-01 17:17:29* · [`adalk`](https://www.ada.lk/uncategorized/කල්පිටියේ-එළවළු-මිල-සීඝ්‍රයෙන්-පහළට/1-418206) · `si`
-
-අස්වැනු වැඩිවිමත් සමග කල්පිටිය අර්ධද්විපයෙ වගා කරනු ලබන සියලුම එළවළු නොසිතු ලෙස පහල වැටි ඇති බව වගා කරුවන් පවසයි.
-
-වගාකරුවන් පවසන්නේ මේ වන විට කල්පිටිය වගා බිම්වල වගා කරන එළවළු මිළ පහත වැටිමේන් තමන්ට ඇතැම් වගාවන් වල අස්වනු ‍නෙළීමට යන මුදලවත් නොලැබේන බවයි.
-
-◼️
-
-[Data](articles/a3490294.json)
-
----
-
-### One person injured in shooting in Hikkaduwa
-
-*2025-09-01 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112076/one-person-injured-in-shooting-in-hikkaduwa-) · `en`
-
-An individual has sustained injuries in a shooting incident reported this afternoon (01) in Malawanna, Hikkaduwa, police stated.
-
-According to police, two individuals who arrived on a motorcycle carried out the shooting and fled the scene.
-
-◼️
-
-[Data](articles/f2a5dc6c.json)
-
----
-
-### One person injured in shooting in Hikkaduwa
-
-*2025-09-01 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112076/one-person-injured-in-shooting-in-hikkaduwa) · `en`
-
-An individual has sustained injuries in a shooting incident reported this afternoon (01) in Malawenna, Hikkaduwa, police stated.
-
-According to police, two individuals who arrived on a motorcycle carried out the shooting and fled the scene.
-
-◼️
-
-[Data](articles/f6d19f35.json)
-
----
-
-### International media protest over journalist deaths in Gaza
-
-*2025-09-01 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112075/international-media-protest-over-journalist-deaths-in-gaza) · `en`
-
-More than 250 media outlets in over 70 countries staged a front page protest on Monday (Sep 1) highlighting the deaths of scores of journalists in Israel’s war against Hamas in Gaza, the Reporters Without Borders media freedom group said.
-
-“At the rate journalists are being killed in Gaza by the Israeli army, there will soon be no one left to keep you informed,” the group’s general director Thibaut Bruttin said in a statement.
-
-The protest was taken up on the website front pages of publications including Qatari broadcaster Al Jazeera, British news site The Independent, French newspapers La Croix and L’Humanite and Germany’s TAZ and Frankfurter Rundschau, according to Reporters Without Borders.
-
-Some 220 journalists have been killed during Israel’s Gaza campaign mounted in retaliation to Hamas’ Oct 7, 2023 attack, according to RWB data.
-
-...
-
-[Data](articles/922002b1.json)
-
----
-
-### ADB approves US$ 106 mln funding to boost healthcare services in Sri Lanka
-
-*2025-09-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112074/adb-approves-us-106-mln-funding-to-boost-healthcare-services-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) said today (01) that it has approved a US$ 106.9 million financing package to strengthen Sri Lanka’s secondary curative care services and improve disease prevention and governance.
-
-The package includes a US$ 100 million loan from the ADB and a US$ 6.9 million grant from the Pandemic Prevention, Preparedness, and Response Trust Fund.
-
-The ADB said the program will support hospital development, expand access to specialist treatment, and improve coordination between primary and secondary care.
-
-It will also enhance health system resilience by upgrading laboratories, strengthening disease surveillance, and establishing a center for disease control.
-
-◼️
-
-[Data](articles/6f3d7897.json)
 
 ---

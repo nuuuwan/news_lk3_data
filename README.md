@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 16:33:42**
+As of **2025-09-02 16:49:32**
 
 ## Newspaper Stats
 
-*Scraped **73,744** Articles*
+*Scraped **73,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,113
 adaderanalk | 9,403
 tamilmirrorlk | 10,972
 virakesarilk | 12,067
-adaderanasinhalalk | 12,803
+adaderanasinhalalk | 12,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,744 articles have been extended.
+61,973 (84.0%) of 73,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### කහවත්ත ඝාතනයේ සැකකාර වෙඩික්කරු හඳුනාගනී
+
+*2025-09-02 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214085) · `si`
+
+කහවත්ත පලන්සූරියගම හල්ලිද ප්‍රදේශයේ තරුණයෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි සැකකරුවන් දෙදෙනෙකු අද (02) පැල්මඩුල්ල මහේස්ත්‍රාත් අධිකරණයේ හඳුනාගැනීමේ පෙරට්ටුවකට ඉදිරිපත් කිරිමෙන් පසු සැකකරුවන් දෙදෙනාම සාක්ෂිකරුවන් විසින් හඳුනාගෙන තිබේ.
+
+මෙම ඝාතනයේ වෙඩික්කරු බව සැකපිට අත්අඩංගුවට ගත් පුද්ගලයා සහ සැකකරුවන් රැගෙන ගිය ජීප් රථයේ රියදුරු මෙලෙස හඳුනාගැනීමේ පෙරට්ටුවේදී සාක්ෂිකරුවන් විසින් හඳුනාගෙන ඇත.
+
+සැකකරුවන් දෙදෙනා සහ මෙම ඝාතනයට අදාළව රක්ෂිත බන්ධනාගාරගත කර සිටින අනෙක් සැකකරුවන් 8දෙනා සමග 10 දෙනාම ලබන 16 වනදා තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට ද මෙහිදී නියම කෙරුණි.
+
+ඝාතන සිද්ධියේ 9 වැනි සැකකරු වන වෙඩික්කරු බවට සැකකෙරෙන    කිරිබත්ගොඩ පදිංචි රමේෂ් චින්තක සහ 10 වන සැකකරු වන රත්නපුර දෑල පදිංචි රවිඳු යසස් යන සැකකරුවන්ව සාක්ෂිකරුවන් විසින් හඳුනාගෙන ඇත.
+
+කහවත්ත පලන්සූරියගම හල්ලිද ප්‍රදේශයේ පදිංචි සුරංජන නම් 22 හැවිරිදි තරුණයාව පසුගිය ජුනි මස 30 වනදා පොලීසියෙන් බව පවසමින් පිරිසක් විසින් පැහැරගෙන ගොස් කහවත්ත ඇන්දාන මාර්ගයේදී වෙඩිතබා ඝාතනය කර තිබුණි.
+
+...
+
+[Data](articles/daf43931.json)
+
+---
 
 ### හිටපු ඇමති අනුර ප්‍රියදර්ශනට එරෙහි නඩුව ගැන පොලීසියෙන් අධිකරණයට දැනුම්දීමක්
 
@@ -1769,23 +1789,5 @@ The former President was arrested and remanded on 22 August in connection with a
 ...
 
 [Data](articles/3b910abf.json)
-
----
-
-### Foreign Minister Herath welcomes Xi’s global initiatives at SCO Plus
-
-*2025-09-02 03:47:11* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Herath-welcomes-Xi-s-global-initiatives-at-SCO-Plus/56-781129) · `en`
-
-China and Russia push for new global order at Shanghai Cooperation Organisation meeting
-
-Foreign Minister Vijitha Herath yesterday expressed support for a series of initiatives proposed by Chinese President Xi Jinping at the Shanghai Cooperation Organisation (SCO) Plus meeting in Tianjin.
-
-In a post on ‘X,’ Herath stated that he had taken note positively of the Global Development, Security and Civilisation Initiatives, as well as the Global Governance Initiative. He said the proposals were grounded in the principles of sovereign equality, rule of law, multilateralism, people-centred development, and action-oriented cooperation.
-
-President Xi and Russian President Vladimir Putin used a security forum yesterday to set out their vision for reshaping the global order, Reuters reported.
-
-...
-
-[Data](articles/5fa1b856.json)
 
 ---

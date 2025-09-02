@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 14:35:45**
+As of **2025-09-02 14:51:31**
 
 ## Newspaper Stats
 
-*Scraped **73,722** Articles*
+*Scraped **73,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,109
+adalk | 7,110
 adaderanalk | 9,399
-tamilmirrorlk | 10,967
+tamilmirrorlk | 10,968
 virakesarilk | 12,062
 adaderanasinhalalk | 12,800
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,722 articles have been extended.
+61,973 (84.1%) of 73,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### රණවිරුවන් පීඩාවට පත්කිරීමක් ගැන පොදුජන පෙරමුණෙන්  මහානාහිමිවරුන්ට ලිපියක්
+
+*2025-09-02 14:02:44* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවන්-පීඩාවට-පත්කිරීමක්-ගැන-පොදුජන-පෙරමුණෙන්--මහානාහිමිවරුන්ට-ලිපියක්/11-418225) · `si`
+
+"රණවිරුවන් පීඩාවට පත්කිරීම පිළිබඳව වන සැලකර සිටීමයි" යන ශීර්ෂය යටතේ ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රි සිද්ධාර්ථ සුමංගලාභිධාන මහානායක ස්වාමීන් වහන්සේට සහ අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ධම්මසිද්ධි ශ්‍රි පඤ්ඤානන්ද ඤාණරතනාභිධාන මහානායක ස්වාමින්වහන්සේට ලිපියක් යොමු කර තිබේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් නීතිඥ සාගර කාරියවසම් මහතාගේ අත්සනින් යුතුව මෙම ලිපි නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/2ea61934.json)
+
+---
+
+### போலி வேலை மோசடி குறித்து எச்சரிக்கை
+
+*2025-09-02 13:52:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-வேலை-மோசடி-குறித்து-எச்சரிக்கை/175-363908) · `ta`
+
+குறைந்த வேலைக்கு அதிக சம்பளம் வழங்குவதாக உறுதியளிக்கும் போலி வேலை மோசடிகள் குறித்து பொதுமக்கள் எச்சரிக்கையாக இருக்க வேண்டும் என்று இலங்கை கணினி அவசர தயார்நிலை குழு (SLCERT) எச்சரித்துள்ளது.
+
+இருப்பினும், மோசடி செய்பவர்கள் ஆன்லைன் விளம்பரங்கள் மூலம் தனிநபர்களை குறிவைத்து, பெரும்பாலும் போலி வேலை வாய்ப்புகளுக்கு பதிவு கட்டணம் அல்லது வைப்புத்தொகையை கோருகின்றனர் என்றும் அக்குழு தெரிவித்துள்ளது..
+
+வேலை மோசடிகளை எவ்வாறு அடையாளம் கண்டு தவிர்ப்பது என்பது குறித்து மக்களுக்கு கல்வி கற்பிப்பதற்காக SLCERT ஒரு சமூக ஊடக பிரச்சாரத்தைத் தொடங்கியுள்ளது.
+
+◼️
+
+[Data](articles/cc7c86a9.json)
+
+---
 
 ### රණවිරුවන් පීඩාවට පත්කිරීම ගැන පොහොට්ටුවෙන් අස්ගිරි මහ නාහිමිට ලිපියක්
 
@@ -1717,37 +1747,5 @@ The socialist impulse is alive in our politics, even today. Many ordinary citize
 ...
 
 [Data](articles/998b5eb0.json)
-
----
-
-### STEM, leadership, strategy and transformation
-
-*2025-09-02 00:36:40* · [`dailyftlk`](https://www.ft.lk/columns/STEM-leadership-strategy-and-transformation/4-781079) · `en`
-
-Companies with strong STEM leadership consistently outperform their peers in adapting to technological disruption and capturing market opportunities
-
-In the fields of operations, supply chain management, and business transformation, it is increasingly evident that technical expertise alone does not guarantee success in leading organisational change. Highly skilled professionals may falter when faced with the complexities of transformation, while operational leaders can struggle to effectively integrate emerging technologies. This disconnect between STEM proficiency and transformational leadership represents a significant challenge for modern organisations.
-
-The traditional leadership model—where technical competence equates to leadership authority—is no longer adequate. Today’s dynamic business environment demands a new approach that bridges the gap between scientific rigor and strategic vision, between operational excellence and human-centred leadership.
-
-...
-
-[Data](articles/5adacc4f.json)
-
----
-
-### Reimagining Sri Lanka’s university system: Strategic blueprint for global competitiveness
-
-*2025-09-02 00:24:59* · [`dailyftlk`](https://www.ft.lk/columns/Reimagining-Sri-Lanka-s-university-system-Strategic-blueprint-for-global-competitiveness/4-781078) · `en`
-
-With global competition intensifying and domestic challenges mounting, the country’s university system must evolve into a dynamic, innovation-led, industry-integrated ecosystem
-
-In an era where both academic and professional landscapes are evolving rapidly, it is increasingly important to examine how education systems adapt to emerging societal and industry needs. This article brings together two professionals with shared academic roots but distinctly different career trajectories, offering a unique lens through which to view educational reform.
-
-Both authors graduated from the University of Moratuwa in 1987. Since then, their paths have diverged in ways that enrich this dialogue. One author has built a distinguished academic career and now serves as a professor of wireless communication at the University of Oulu in Finland. The other has pursued a career in multidisciplinary civil engineering and asset management, currently contributing to the Australian Local Government Sector.
-
-...
-
-[Data](articles/1fde0e35.json)
 
 ---

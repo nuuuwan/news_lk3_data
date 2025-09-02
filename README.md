@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 15:34:02**
+As of **2025-09-02 15:51:08**
 
 ## Newspaper Stats
 
-*Scraped **73,727** Articles*
+*Scraped **73,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,110
+adalk | 7,111
 adaderanalk | 9,399
-tamilmirrorlk | 10,970
+tamilmirrorlk | 10,971
 virakesarilk | 12,062
 adaderanasinhalalk | 12,801
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,727 articles have been extended.
+61,973 (84.1%) of 73,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### “கூலி” நடிகர் வெளிநாடு செல்ல தடை
+
+*2025-09-02 15:27:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கூலி-நடிகர்-வெளிநாடு-செல்ல-தடை/54-363915) · `ta`
+
+தமிழகம் மற்றும் கேரளாவில் பெரும் வசூல் ஈட்டிய படம் மஞ்சுமெல் பாய்ஸ். மலையாள படமான இந்த படம் நல்ல வரவேற்பை பெற்றதோடு வர்த்தக ரீதியாகவும் வெற்றி பெற்றது. இந்த நிலையில் படத்தின் தயாரிப்பாளர்கள் மீது நிதி மோசடி புகார் கூறப்பட்டது.அரூரைச் சேர்ந்த சிராஜ் என்பவர், படத்தின் பின்னணியில் உள்ள தயாரிப்பு நிறுவனம் தொடர்புடைய நபர்களால் தான் ஏமாற்றப்பட்டதாக தெரிவித்து இருந்தார். தான் ரூ.7 கோடி முதலீடு செய்ததாகவும், படம் வணிக ரீதியாக வெற்றி பெற்ற பிறகு தனக்கு வாக்களித்த படி, 40 சதவீத லாப பங்கு கிடைக்கவில்லை என்று அவர் எர்ணாகுளம் சார்பு கோர்ட்டில் மனுதாக்கல் செய்தார். பின்னர் பல்வேறு பிரிவுகளின் கீழ் அவர்கள் மீது வழக்குப்பதிவு செய்யப்பட்டது. தற்போது வழக்கில் இருந்து முன் ஜாமீன் பெற்றுள்ள 'மஞ்சுமெல் பாய்ஸ்' பட தயாரிப்பாளர்கள், வழக்கை தள்ளுபடி செய்யக்கோரி கேரள ஐகோர்ட்டில் மனுதாக்கல் செய்திருந்தனர்.
+
+...
+
+[Data](articles/daa21a7e.json)
+
+---
 
 ### மாத்தளையில்  துப்பாக்கிச் சூடு
 
@@ -753,6 +765,24 @@ A Memorandum of Understanding on the Establishment of a Political Consultations 
 ◼️
 
 [Data](articles/63fd0fe2.json)
+
+---
+
+### පොල් වත්තකට ඇතුළු වී පොල් සොරකම් කළ පුද්ගලයෙකුට වෙඩි
+
+*2025-09-02 10:37:16* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-වත්තකට-ඇතුළු-වී-පොල්-සොරකම්-කළ-පුද්ගලයෙකුට-වෙඩි/11-418218) · `si`
+
+මාතලේ කොහොළන්වල හුණුපිටිය මඩවලඋල්පත ප්‍රදේශයේ පොල් වත්තකට අනවසරෙන් ඇතුල් වී පොල් සොරකම් කිරීමට තැත් කළ පුද්ගලයකුට එම වත්තෙහි මුරකරු විසින් වෙඩි තැබීමෙන් අදාල සැකකරු තුවාල ලබා මාතලේ දිස්ත්‍රික් මහා රෝහල වෙත අද (02) දින ඇතුළත් කර ඇතැයි මහවෙල පොලිසිය පවසයි.
+
+මාතලේ කොහොළන්වල ප්‍රදේශයේ පිහිටි අක්කර 20 ක පමණ  පොල් වත්තක පොල් සොරකම් කිරීම සඳහා එම ප්‍රදේශයේම පදිංචි පුද්ගලයින් දෙදෙනෙකු අනවසරයෙන් එම වත්තට ඇතුල්වී ගෝනි දෙකකට  පොල් එකතු කරමින් සිටින අවස්ථාවේදී එම  වත්තේ මුරකරු විසින් එම පුද්ගලයින් දෙසට එල්ල කරන ලද වෙඩි පහරින් එක් අයකුට වෙඩි වැදී ඇතැයි පොලිසිය කියයි.
+
+වෙඩි වැදුණු අදාල සැකකාර පුද්ගලයා වෙඩි වැදීමෙන් පසු මීටර් පන්සීයක් පමණ දිව ගොස් කොහොලන්වල ප්‍රධාන මාර්ගය අසල වැටී සිටියදී ප්‍රදේශවාසීන් විසින් ඔහු රෝහල්ගත කිරීමට කටයුතු කර තිබේ.
+
+අදාළ සිද්ධියෙන් වෙඩි වැදුනු පුද්ගලයා මීට පෙරද අවස්ථා ගණනාවකදී එම පොල් වත්තට ඇතුළු වී පොල් සොරකම් කරනු ලබන බවට මහවෙල පොලිසිය වෙත පැමිණිලි කර  ඇති බව මහවෙල පවසයි.
+
+...
+
+[Data](articles/ff987767.json)
 
 ---
 
@@ -1725,37 +1755,5 @@ On 28 August 1950, a very special type of bank was set up in Sri Lanka, with a s
 ...
 
 [Data](articles/7531b4eb.json)
-
----
-
-### Sri Lanka’s automobile market: Subliminal economic bubble?
-
-*2025-09-02 01:02:51* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-automobile-market-Subliminal-economic-bubble/14-781084) · `en`
-
-Banks and finance companies have been throwing money at individuals interested in purchasing new vehicles to profit from the interest rates that stem from loans
-
-From showrooms to sinking debt; is Sri Lanka repeating a global mistake?
-
-Any Sri Lankan commuter with reasonable observation skills will notice the influx of new vehicles in Colombo. The suffocating traffic is a simple indicator. This phenomenon was only bound to happen with the recent relaxation of import restrictions on vehicles. These restrictions were a recovery measure implemented by the Government for the economy to recover from Sri Lanka’s recent financial crisis. However, short lived was the excitement for the removal of such restrictions as the Government in January 2025, announced its exorbitantly high tax rates which were to be placed on imported vehicles. Taxes running as high as 300% slapped the common man into a reality which screamed that affording a new daily driver from their savings alone was impossible.
-
-...
-
-[Data](articles/3d9ddc7f.json)
-
----
-
-### Sri Lanka’s automobile market: Subliminal economic bubble?
-
-*2025-09-02 01:02:51* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-automobile-market-Subliminal-economic-bubble/4-781084) · `en`
-
-Banks and finance companies have been throwing money at individuals interested in purchasing new vehicles to profit from the interest rates that stem from loans
-
-From showrooms to sinking debt; is Sri Lanka repeating a global mistake?
-
-Any Sri Lankan commuter with reasonable observation skills will notice the influx of new vehicles in Colombo. The suffocating traffic is a simple indicator. This phenomenon was only bound to happen with the recent relaxation of import restrictions on vehicles. These restrictions were a recovery measure implemented by the Government for the economy to recover from Sri Lanka’s recent financial crisis. However, short lived was the excitement for the removal of such restrictions as the Government in January 2025, announced its exorbitantly high tax rates which were to be placed on imported vehicles. Taxes running as high as 300% slapped the common man into a reality which screamed that affording a new daily driver from their savings alone was impossible.
-
-...
-
-[Data](articles/c9e510b7.json)
 
 ---

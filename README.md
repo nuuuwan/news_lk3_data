@@ -1,36 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 08:02:01**
+As of **2025-09-02 08:41:12**
 
 ## Newspaper Stats
 
-*Scraped **73,648** Articles*
+*Scraped **73,654** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 621
+dbsjeyarajcom | 622
 bbccomsinhala | 677
 colombotelegraphcom | 754
 economynextcom | 4,483
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,218
-adalk | 7,094
+adalk | 7,096
 adaderanalk | 9,384
-tamilmirrorlk | 10,949
+tamilmirrorlk | 10,950
 virakesarilk | 12,055
-adaderanasinhalalk | 12,785
+adaderanasinhalalk | 12,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,648 articles have been extended.
+61,973 (84.1%) of 73,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### ஜனாதிபதி இன்று முல்லைத்தீவு செல்கின்றார்
+
+*2025-09-02 07:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-முல்லைத்தீவு-செல்கின்றார்/175-363886) · `ta`
+
+◼️
+
+[Data](articles/456a3989.json)
+
+---
+
+### රත්නපුර ශික්ෂණ රෝහලේ වෛද්‍යවරු සංකේත වැඩවර්ජනයක
+
+*2025-09-02 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214064) · `si`
+
+රෝහල් අධ්‍යක්ෂවරයාගේ ක්‍රියාකලාපයට විරෝධය පළකරමින් අද (02) දිනයේ රත්නපුර ශික්ෂණ රෝහලේ සංකේත වැඩවර්ජනයක නිරත වීමට රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය තීරණය කර තිබේ.
+
+මෙම ගැටලුව සම්බන්ධයෙන් අවශ්‍ය පියවර ගන්නා බවට සෞඛ්‍ය අමාත්‍යංශය මීට පෙර එකඟතාව පළකර තිබුණ ද එම එකඟතාවයන් ක්‍රියාත්මක කිරීමට බලධාරීන් අපොහොසත් වී ඇති බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පෙන්වා දෙයි.
+
+එමනිසා අද උදෑසන 08 සිට හෙට උදෑසන 08 දක්වා රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය රත්නපුර ශික්ෂණ රෝහලේ වැඩවර්ජනයක් ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
+
+රෝහල තුළ හදිසි සහ ජීවිතාරක්ෂක ප්‍රතිකාර සේවා එලෙසම පවත්වාගෙන යනු ලබන අතර දෛනික ප්‍රතිකාර සේවාවවන් සියල්ල අඩාල වනු ඇති බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සඳහන් කළේය.
+
+මේ අතර සිය ගැටලු විසඳීම සඳහා බලධාරීන් පියවර නොගතහොත් ඉදිරියේ දී වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වන බව විශ්වවිද්‍යාල ආචාර්යවරුන්ගේ සමිති සම්මේලනය පවසයි.
+
+එහි ලේකම් ජ්‍යෙෂ්ඨ කථිකාචාර්ය චාරුදත්ත ඉලංගසිංහ  මහතා සඳහන් කළේ, සිය ගැටලු සම්බන්ධයෙන් සාකච්ඡා කිරීමට අවස්ථාවක් ලබාදෙන ලෙස ජනාධිපතිවරයාගෙන් ද ඉල්ලීමක් කරන බවය.
+
+◼️
+
+[Data](articles/c47c664a.json)
+
+---
+
+### ගොඩගැසී ඇති නඩු භාණ්ඩ සම්බන්ධයෙන් දැනුම්දීමක්
+
+*2025-09-02 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214063) · `si`
+
+අධිකරණවල ගොඩගැසී පවතින නඩු භාණ්ඩ මේ වසරේ දෙසැම්බර් 31වන දිනට පෙර නිෂ්කාශනය කළයුතු බව අධිකරණ සේවා කොමිෂන් සභාව දැනුම් දී තිබේ.
+
+සියලුම දිසා විනිසුරුවරුන්, මහෙස්ත්‍රාත්වරුන් සහ මහාධිකරණ විනිසුරුවරුන් වෙත මෙම දැනුම් දීම සිදුකර ඇති බව වාර්තා වේ.
+
+අධිකරණවල ගොඩගැසී ඇති නඩු භාණ්ඩ සම්බන්ධයෙන් තොරතුරු රැස්කිරීම පසුගිය දිනවල සිදුවූ අතර ඒවා කඩිනමින් නිෂ්කාශනය කිරීමේ කටයුතු ආරම්භ කරන ලෙස අධිකරණ සේවා කොමිෂන් සභාව විනිසුරුවරුන්ට දැනුම් දී තිබේ.
+
+අධිකරණවල පරිපාලනමය වගකීම පැවරී ඇති දිසා විනිසුරුවරු මහෙස්ත්‍රාත්වරු, මහාධිකරණ විනිශ්චයකාරවරුන් සහ අධිකරණවල සේවය කරනු ලබන අතිරේක දිසා විනිසුරුවරුන්  මෙන්ම අතිරේක දිසා විනිසුරුවරුන් තමාගේ අධිකරණයේ පවතින නඩු භාණ්ඩ නිෂ්කාශනය කිරීමේ සෘජු වගකීමට යටත් වන බව එම කොමිෂන් සභාව පෙන්වා දෙයි.
+
+එම නිෂ්කාශනය කටයුතු පිළිබඳව අධිකරණ සේවා කොමිෂන් සභාව විසින් ස්ථානීය නිෂ්කාශනයක් මගින් සොයාබැලීමට නියමිත අතර මාසිකව ප්‍රගති වාර්තාවක් යොමුකරන ලෙස ද සියලු විනිසුරුවරුන් වෙත අවධාරණය කර ඇති බව සඳහන් වේ.
+
+...
+
+[Data](articles/93e4ca1d.json)
+
+---
+
+### ජනපති කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවක
+
+*2025-09-02 07:25:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කච්චතිව්-දූපතේ-නිරීක්ෂණ-චාරිකාවක/11-418210) · `si`
+
+යාපනයේ සංවර්ධන වැඩසටහන් කිහිපයක් ආරම්භ කිරීමේ සහ විවෘත කිරීමේ අවස්ථාවන්ට සහභාගී වු ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන් අනතුරුව යාපනය කච්චතිව් දූපතේ නිරීක්ෂණ චාරිකාවකද නිරත විය.
+
+ධීවර, ජලජ සහ සාගර සම්පත් අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්, මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ යන මහත්වරුද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/6ea54907.json)
+
+---
 
 ### ශ්‍රී ලංකා නිදහස් පක්ෂයේ 74 වන සංවත්සරය අද
 
@@ -844,6 +910,20 @@ The quake killed 812 people in the eastern provinces of Kunar and Nangarhar, adm
 
 ---
 
+### Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
+
+*2025-09-01 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86356) · `en`
+
+History was made when 76 year old  Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department(CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over  Rupees 16.6 million.He was produced before the Colombo Fort Magistrate on 22 August 2025. Ranil was charged under  Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
+
+Six times prime minister Wickremesinghe who served as the eighth executive president of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts  in a Black Maria.  Ranil Wickremesinghe  thus became the first Sri Lankan ex-president and former Prime minister to be arrested and remanded  in the history of Sri Lanka.
+
+...
+
+[Data](articles/9ba9187c.json)
+
+---
+
 ### කොළඹට අනිද්දා විශේෂ රථවාහන සැලැස්මක්
 
 *2025-09-01 20:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214053) · `si`
@@ -1238,6 +1318,22 @@ This was based on information received by the Anuradhapura Police on August 13 t
 
 ---
 
+### Sri Lankan  President Anura Kumara Dissanayake makes  a quick, unannounced visit to Katchatheevu, after vowing to safeguard “seas and islands” around the country and resist any “external pressure”.
+
+*2025-09-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86373) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake — who was on Monday (September 1, 2025) in the northern Jaffna district to launch development projects — made a quick, unannounced visit to Katchatheevu, after vowing to safeguard “seas and islands” around the country and resist any “external pressure”.
+
+Jaffna media was caught by surprise as the President’s trip to the island, by a naval speed boat according to local news reports, was not mentioned in his official itinerary.
+
+The visit followed a ceremony to begin the expansion of the Myliddy Fisheries Harbour in Jaffna, a project aimed at boosting livelihoods of war-affected fishermen. Speaking at the event, Mr. Dissanayake said: “The government is committed to safeguarding the surrounding seas, islands, and landmass of the country for the benefit of the people and will not allow any external force to exert influence in this regard.”
+
+...
+
+[Data](articles/e4a49960.json)
+
+---
+
 ### யாழ். சர்வதேச கிரிக்கெட் மைதான நிர்மாணப் பணிகள் ஆரம்பம்
 
 *2025-09-01 17:56:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-சர்வதேச-கிரிக்கெட்-மைதான-நிர்மாணப்-பணிகள்-ஆரம்பம்/175-363871) · `ta`
@@ -1419,6 +1515,20 @@ Out of the five targets, only one individual sustained injuries and has been adm
 ◼️
 
 [Data](articles/d93108c6.json)
+
+---
+
+### දීඝවාපි සෑයේ අඩි 72ක වැඩ අවසන්
+
+*2025-09-01 17:22:55* · [`adalk`](https://www.ada.lk/religion/දීඝවාපි-සෑයේ-අඩි-72ක-වැඩ-අවසන්/4-418207) · `si`
+
+බෞද්ධ ජනතාව විසින් වන්දනාමාන කරනු ලබන සොළොස්මස්ථාන අතුරින් වැදගත් ස්ථානයක් වු දීඝවාපිය චෛත්‍ය රාජයාණන් වහන්සේ දිවයිනේ නැගෙනහිර පළාතේ අම්පාර දිස්ත්‍රික්කයෙහි පිහිටා ඇත.
+
+ක්‍රි.ව 03 වන සියවසේදී පමණ ඉදි කර ඇති බවට සැලකෙන මෙම ස්ථුපය, සද්ධාතිස්ස රජු විසින් ඉදිකරවන ලද බවත්, එහි ධාතු ගර්භයේ බුදුරජාණන් වහන්සේගේ නිය ධාතුන් වහන්සේ තැන්පත් කර ඇති බවත් ඓතිහාසික මුලාශ්‍ර වල දැක්වෙන අතර, විවිධ සතුරු ආක්‍රමණ හමුවේ විනාශ වී තිබු මෙම ස්ථුපය පසුකාලීනව මහනුවර රාජධානි සමයේදී කිර්ති ශ්‍රී රාජසිංහ රජු විසින් පළමුවරට ප්‍රතිසංස්කරණය සිදු කොට ඇත. ඉන් අනතුරුව ද විවිධ හේතුන් මත විනාශ වී තිබු දීඝවාපිය ස්ථුපයේ නටබුන්, වර්ෂ 1916 දී කොහුකුඹුරේ ශ්‍රී රේවත ස්වාමින් වහන්සේ විසින් සොයා ගන්නා ලදි.
+
+...
+
+[Data](articles/1fce33ac.json)
 
 ---
 
@@ -1611,113 +1721,5 @@ The government has allocated 298 million rupees for this in the current year. (C
 ◼️
 
 [Data](articles/852980cc.json)
-
----
-
-### X-Press Pearl Disaster: Sectoral Oversight Committee probes utilisation of compensation
-
-*2025-09-01 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112072/x-press-pearl-disaster-sectoral-oversight-committee-probes-utilisation-of-compensation) · `en`
-
-The Sectoral Oversight Committee on Environment, Agriculture, and Resource Sustainability has drawn attention to the utilisation of compensation received for the damage caused by the X-Press Pearl vessel, particularly regarding payments made to fishermen and coastal conservation efforts.
-
-Accordingly, the Committee recommended that a detailed report be submitted regarding the total amount of compensation received thus far, the amount paid as compensation to fishermen, the amount spent on coastal protection, and the remaining balance of the compensation fund, the Department of Communication of Parliament said.
-
-This matter was brought to attention during a meeting of the Sectoral Oversight Committee on Environment, Agriculture and Resource Sustainability held in Parliament under the chairmanship of Member of Parliament Hector Appuhamy.
-
-...
-
-[Data](articles/97ce9b77.json)
-
----
-
-### President lays foundation stone for proposed international cricket stadium in Jaffna
-
-*2025-09-01 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112073/president-lays-foundation-stone-for-proposed-international-cricket-stadium-in-jaffna) · `en`
-
-President Anura Kumara Dissanayake has laid the foundation stone for the construction of the proposed new international cricket stadium in Jaffna.
-
-Following this, the President is also expected to participate in a public gathering scheduled to be held at the same location, according to a statement issued by the Presidential Media Division.
-
-President Dissanayake participated in several events today (01) in Jaffna, including the inauguration and opening of multiple new development projects in the region.
-
-◼️
-
-[Data](articles/c27c5a21.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields edge up
-
-*2025-09-01 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-239023/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.97/302.07 to the US dollar in the spot market Monday, stronger from 302.00/10 the previous day, while bond yields were slightly up, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.15/26 percent, up from 8.15/25 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.30/40 percent. (Colombo/Sep1/2025)
-
-◼️
-
-[Data](articles/3c77ff48.json)
-
----
-
-### IGP extends gratitude to all who aided arrest of high-profile underworld figures
-
-*2025-09-01 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112071/igp-extends-gratitude-to-all-who-aided-arrest-of-high-profile-underworld-figures) · `en`
-
-The Inspector General of Police (IGP) Priyantha Weerasooriya has expressed his gratitude to all agencies that contributed to the successful operation, including INTERPOL, the Indonesian Police, and Indian authorities, for their assistance in combating organized crime and drug networks in Sri Lanka.
-
-The support extended by all factions was instrumental in the diplomatic and operational efforts to arrest and repatriate suspects hiding abroad, the Police Media Division stated.
-
-On 30 August 2025, five individuals involved in organised crime and drug trafficking in Sri Lanka, who had been hiding in foreign countries, were arrested in Indonesia and brought back to the island.
-
-Following detention orders, the suspects are currently under investigation by the Criminal Investigation Department (CID) and the Western Province North Crime Division.
-
-Sri Lanka Police continue to conduct operations to curb organized crime and drug trafficking across the country.
-
-...
-
-[Data](articles/fd1ec8b8.json)
-
----
-
-### லாப் ​​​​​​​கேஸ் விலை மாற்றம் இல்லை
-
-*2025-09-01 16:45:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாப்-கேஸ்-விலை-மாற்றம்-இல்லை/175-363866) · `ta`
-
-2025ஆம் ஆண்டின் செப்டெம்பர் மாதத்திற்கான லாப் எரிவாயு விலையில் எந்தவித திருத்தமும் மேற்கொள்ளப்பட மாட்டாது என லாப் எரிவாயு நிறுவனத்தின் பணிப்பாளர் நிரோஷன் ஜே.பீரிஸ் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/2e0a5578.json)
-
----
-
-### லாப் ​​​​​​​கேஸ் விலையில் மாற்றம் இல்லை
-
-*2025-09-01 16:45:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லாப்-கேஸ்-விலையில்-மாற்றம்-இல்லை/175-363866) · `ta`
-
-2025ஆம் ஆண்டின் செப்டெம்பர் மாதத்திற்கான லாப் சமையல் எரிவாயின் விலையில் எந்தவித திருத்தமும் மேற்கொள்ளப்பட மாட்டாது என “லாப்“ சமையல் எரிவாயு நிறுவனத்தின் பணிப்பாளர் நிரோஷன் ஜே.பீரிஸ் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/2f451c30.json)
-
----
-
-### ඉකුත් රජය සමයේ පොස්පේට් අඩු මිලට විකිණීමට එරෙහිව ගොනුකළ පෙත්සමක් විභාගයට අවසර
-
-*2025-09-01 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214042) · `si`
-
-ඉකුත් රජය සමයේ එප්පාවල පොස්පේට් නිධියෙන් ලබා ගන්නා පොස්පේට් තොග සම්මත මිල ගණන්වලට වඩා අඩු මිල ගණන්වලට තමන්ට හිතවත් සමාගම් කිහිපයකට අපනයනය කිරීම සඳහා නිකුත් කිරීම තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ ඇතුළු හිටපු අමාත්‍ය මණ්ඩල සාමාජිකයින් ඇතුළු වගඋත්තරකරුවන් පිරිසකට එරෙහිව ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (01) අවසර ලබා දුන්නේය.
-
-එහි වගඋත්තරකරුවන් ලෙස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සහ හිටපු අමාත්‍ය මණ්ඩල සාමාජිකයින්, භූ විද්‍යා හා පතල් කාර්යාංශය, එහි අධ්‍යක්ෂ ජෙනරාල්වරයා, නීතිපතිවරයා ඇතුළු තිස් දෙදෙනෙකු නම් කර තිබුණි.
-
-මෙම පෙත්සම අද ජනක් ද සිල්වා, ප්‍රියන්ත ප්‍රනාන්දු සහ සම්පත් අබේකෝන් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලුණි.
-
-...
-
-[Data](articles/45af7829.json)
 
 ---

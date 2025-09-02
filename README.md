@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 18:34:18**
+As of **2025-09-02 18:57:54**
 
 ## Newspaper Stats
 
-*Scraped **73,753** Articles*
+*Scraped **73,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,115
 adaderanalk | 9,404
-tamilmirrorlk | 10,972
+tamilmirrorlk | 10,973
 virakesarilk | 12,067
 adaderanasinhalalk | 12,809
 
@@ -26,17 +26,35 @@ adaderanasinhalalk | 12,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,753 articles have been extended.
+61,973 (84.0%) of 73,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
 
+### ஐவருக்கும் 90 நாள் தடுப்புக்காவல்
+
+*2025-09-02 18:17:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவருக்கும்-90-நாள்-தடுப்புக்காவல்/175-363918) · `ta`
+
+கெஹல்பத்தர பத்மே மற்றும் கமாண்டோ சாலிந்தா உள்ளிட்ட ஐந்து நபர்களை 90 நாட்கள் தடுத்து வைத்து விசாரிக்க காவல்துறையினர் தடுப்புக்காவல் உத்தரவுகளைப் பெற்றுள்ளனர்.
+
+பயங்கரவாதத் தடுப்புச் சட்டத்தின் (PTA) கீழ் அவர்கள் தடுத்து வைக்கப்படுவார்கள் என்று காவல்துறை தெரிவித்துள்ளது.
+
+கெஹல்பத்தர பத்மே, கமாண்டோ சாலிந்தா, பாணந்துறை நிலங்கா, பேக்கோ சமன் மற்றும் தெம்பிலி லஹிரு ஆகியோர் அடங்கிய குழு ஆகஸ்ட் 27 ஆம் திகதி இந்தோனேசியாவில் கைது செய்யப்பட்டு சனிக்கிழமை இரவு (30) இலங்கைக்கு அழைத்து வரப்பட்டதனர்.
+
+பத்மே, சாலிந்தா மற்றும் நிலங்கா ஆகியோர் மேலதிக விசாரணைகளுக்காக முதலில் குற்றப் புலனாய்வுத் துறையிடம் (CID) ஒப்படைக்கப்பட்டதாகவும், பேக்கோ சமன் மற்றும் தெம்பிலி லஹிரு ஆகியோர் விசாரணைக்காக மேற்கு மாகாண வடக்கு குற்றப் பிரிவின் காவலில் வைக்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/b52778fb.json)
+
+---
+
 ### මෙවර මානව හිමිකම් සැසියේදී PTA ගැන වැඩි අවධානයක්
 
 *2025-09-02 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214089) · `si`
 
-එක්සත් ජාතීන්ගේ මානව හිමිකම් මහා මණ්ඩලයේ 16 වන සැසිවාරය සඳහා ඉදිරිපත් කෙරෙන ශ්‍රී ලංකාව පිළිබඳ මහා කොමසාරිස්වරයාගේ වාර්තාව මගින් මෙරට ත්‍රස්තවාදය වැළැක්වීමේ පනත පිළිබඳ අදහස් හා නිර්දේශ දක්වා තිබේ.
+එක්සත් ජාතීන්ගේ මානව හිමිකම් මහා මණ්ඩලයේ 60 වන සැසිවාරය සඳහා ඉදිරිපත් කෙරෙන ශ්‍රී ලංකාව පිළිබඳ මහා කොමසාරිස්වරයාගේ වාර්තාව මගින් මෙරට ත්‍රස්තවාදය වැළැක්වීමේ පනත පිළිබඳ අදහස් හා නිර්දේශ දක්වා තිබේ.
 
 ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කිරීමට වත්මන් රජය ප්‍රතිඥා ලබාදුන්නද එම පනත උපයෝගී කරගනිමින් තවදුරටත් පුද්ගලයින් අත්අඩංගුවට ගැනීම සහ දීර්ඝ කාලීනව රඳවා තැබීමට කටයුතු කරන බව අදාළ වාර්තාවේ දැක්වෙයි.
 
@@ -1771,27 +1789,5 @@ Some of the EVs offered in Sri Lanka show that the same models are offered with 
 ...
 
 [Data](articles/86291268.json)
-
----
-
-### SLFP turns 74 today
-
-*2025-09-02 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112087/slfp-turns-74-today) · `en`
-
-Today marks the 74th anniversary of the Sri Lanka Freedom Party (SLFP).
-
-The 74th anniversary celebrations of the SLFP will take place at the part headquarters in Colombo this afternoon.
-
-The SLFP was formed on September 2, 1951 by former Prime Minister S.W.R.D. Bandaranaike.
-
-The SLFP, despite its recent electoral setback has played a key role in Sri Lanka’s political landscape over the years.
-
-The party has produced several Presidents and Prime Ministers of Sri Lanka.
-
-Notably, Sirimavo Bandaranaike, who was the world’s first female Prime Minister led the SLFP for 41 years.
-
-◼️
-
-[Data](articles/038bf115.json)
 
 ---

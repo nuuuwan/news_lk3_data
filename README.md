@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 19:14:35**
+As of **2025-09-02 19:34:03**
 
 ## Newspaper Stats
 
-*Scraped **73,756** Articles*
+*Scraped **73,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 7,115
 adaderanalk | 9,405
 tamilmirrorlk | 10,973
 virakesarilk | 12,067
-adaderanasinhalalk | 12,810
+adaderanasinhalalk | 12,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,756 articles have been extended.
+61,973 (84.0%) of 73,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### හරක් කටා ඝාතන සැලසුමක තොරතුරු එළියට
+
+*2025-09-02 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214092) · `si`
+
+අත්අඩංගුවේ පසුවන හරක් කටා අධිකරණ පරිශ්‍රයකදී ඝාතනය කිරීම සඳහා මාධ්‍යවේදියෙකු සේ වෙස්ගන්වා සූදානම් කර සිටි වෙඩික්කරුවෙකු බස්නාහිර උතුර අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+කෙහෙල්බද්දර පද්මේගේ වුවමනාව මත මෙම සැලසුම සඳහා සූදානම්ව තිබූ බව වෙයි.
+
+එහිදී සැකකරු සතුව තිබූ, පුලුස්සා දමන ලද විඩියෝ කැමරාවක් හා ගිනිඅවියක් ද සොයාගනු ලැබීය.
+
+◼️
+
+[Data](articles/63665519.json)
+
+---
+
+### ගණේමුල්ල සංජීව ඝාතනයට පිස්තෝලය සූදානම් කළ අයුරු දැක්වෙන වීඩියෝවක් එළියට
+
+*2025-09-02 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214091) · `si`
+
+ගණේමුල්ල සංජීව ඝාතනය සඳහා යොදාගත් බවට පැවසෙන ගිනිඅවිය ඊට පෙර දිනක සූදානම් කරන අයුරු දැක්වෙන වීඩියෝවක් අප වෙත ලැබුණි.
+
+අපරාධකරුවකු වන ගණේමුල්ල සංජීව පසුගිය පෙබරවාරි 19 වනදා අලුත්කඩේ අංක 5 අධිකරණය තුළදී වෙඩි තබා ඝාතනය කරනු ලැබීය‍.
+
+ඒ සඳහා යොදාගත් පිස්තෝලය රැගෙනවිත් තිබුණේ නීතීඥයන් භාවිත කරන පොතක් කපා සූක්ෂ්ම ලෙස ඒ තුළ බහාලමින්ය.‍
+
+පිස්තෝලය එම පොත තුළට දමා සූක්ෂ්ම ලෙස සකසන අයුුරු අදාළ වීඩියෝපටයේ දැක්වෙයි.
+
+ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළිවී ඇත්තේ, ගණේමුල්ල සංජීව ඝාතනයට දින කිහිපයකට පෙර යම් කිසිවෙක් මෙම රූගත කිරීම සිදුකොට කෙහෙල්බද්දර පද්මේ වෙත යවා ඇති බවය.
+
+◼️
+
+[Data](articles/a26753ce.json)
+
+---
 
 ### 2025 වසරේ කීර්තිමත් වනජීවී ඡායාරූප ශිල්පියා ලෙස ලක්ෂිත කරුණාරත්න සම්මාන ලබයි
 
@@ -1753,45 +1789,5 @@ According to the law, anyone found to be using a forged passport or visa for ent
 ◼️
 
 [Data](articles/6ea54907.json)
-
----
-
-### 49 including 17 police officers arrested over bribery incidents in first seven months of 2025 – CIABOC
-
-*2025-09-02 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112088/49-including-17-police-officers-arrested-over-bribery-incidents-in-first-seven-months-of-2025-ciaboc) · `en`
-
-A total of 49 individuals have been arrested in connection with bribery-related incidents during the first seven months of this year, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
-
-According to the Commission, it received a total of 3,937 complaints during this period. Based on these complaints, 72 raids were conducted, out of which 39 were successfully carried out.
-
-Among those arrested, the highest number came from Sri Lanka Police, with 17 police officers taken into custody.
-
-The Commission further noted that suspects were also arrested from several government institutions, including the Ministry of Justice, Ministry of Health, Department of Immigration and Emigration, Sri Lanka Transport Board (SLTB) and District Secretariats.
-
-Furthermore, it was reported that during this period, 27 individuals were convicted by courts for accepting bribes.
-
-◼️
-
-[Data](articles/2ad88751.json)
-
----
-
-### Sri Lanka electric vehicle crisis to go beyond BYD
-
-*2025-09-02 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-electric-vehicle-crisis-to-go-beyond-byd-239055/) · `en`
-
-ECONOMYNEXT – Multiple electric vehicle makers are offering lower output motors in Sri Lanka for models which are sold with higher outputs in Australia and Thailand, and authorities are likely to test them as well, a top official said.
-
-Sri Lanka customs originally detained around 1,000 BYD Atto 3, vehicles with a 100kW motor rating after a complaint that the vehicle is sold with 150kW motor in other markets. Later around another 1,000 including other models were detained.
-
-Electric vehicle makers may reduce power output of vehicles for price discrimination (charge a premium for higher performance), to match tax brackets or to extend their range.
-
-Motor output in EVs is in usually managed and controlled through software (firmware-limited) using electronic control modules (ECU/ECM).
-
-Some of the EVs offered in Sri Lanka show that the same models are offered with multiple power outputs in other markets based on dealer websites.
-
-...
-
-[Data](articles/59afe191.json)
 
 ---

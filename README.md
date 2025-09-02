@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 21:08:51**
+As of **2025-09-02 21:20:56**
 
 ## Newspaper Stats
 
-*Scraped **73,764** Articles*
+*Scraped **73,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,484
 islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,117
+adalk | 7,118
 adaderanalk | 9,406
 tamilmirrorlk | 10,974
 virakesarilk | 12,067
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,764 articles have been extended.
+61,973 (84.0%) of 73,765 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -273,6 +273,24 @@ The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for 
 ...
 
 [Data](articles/0c8a0b81.json)
+
+---
+
+### “සිහින ගමනාන්තයේ” පළමු දුම්රිය ස්ථානය නවීකරණය තල්පෙන් ඇරඹේ
+
+*2025-09-02 17:08:30* · [`adalk`](https://www.ada.lk/breaking_news/“සිහින-ගමනාන්තයේ”-පළමු-දුම්රිය-ස්ථානය-නවීකරණය-තල්පෙන්-ඇරඹේ/11-418232) · `si`
+
+“සිහින ගමනාන්තය” දුම්රිය ස්ථාන 100 ක් නවීකරණය කිරීමේ ජාතික වැඩසටහනෙහි පළමු අදියර ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතාගේ ප්‍රධානත්වයෙන් තල්පේ දුම්රිය ස්ථානයේදී අද (02) ආරම්භ කෙරිණි.
+
+ලෝකයට සාපේක්ෂව වර්තමානයට ගැලපෙන පරිදි ශ්‍රී ලංකාවේ දුම්රිය ස්ථාන නව අනන්‍යතාවකින් සන්නාමගත කිරීම සඳහා රජය, පෞද්ගලික අංශය සහ මහජනතාව ඒකාබද්ධ වූ වැඩසටහනක් ලෙස මෙය ක්‍රියාත්මක කෙරේ.
+
+ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය සහ ‘ක්ලීන් ශ්‍රී ලංකා’ වැඩසටහන එක්ව පෞද්ගලික අංශයේ අනුග්‍රහයෙන් දුම්රිය ස්ථාන 100ක් නවීකරණය කිරීමට මෙමඟින් අපේක්ෂිතය.
+
+දුම්රිය සේවය නවීකරණය යනු නිදාගෙන සිටින යෝධයකු ඇහැරවීම බව පෙන්වා දුන් ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා පොදු ප්‍රවාහනය ගුණාත්මක සේවයක් බවට පරිවර්ථනය කිරීමේ වගකීම වත්මන් රජය අත්නොහැර ඉදිරියට ගෙන යන බවද කියා සිටියේය.
+
+...
+
+[Data](articles/ffde0027.json)
 
 ---
 
@@ -1773,15 +1791,5 @@ The Commission is also expected to monitor the clearance process through local-l
 ◼️
 
 [Data](articles/e9e2648f.json)
-
----
-
-### ஜனாதிபதி இன்று முல்லைத்தீவு செல்கின்றார்
-
-*2025-09-02 07:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-முல்லைத்தீவு-செல்கின்றார்/175-363886) · `ta`
-
-◼️
-
-[Data](articles/456a3989.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 16:49:32**
+As of **2025-09-02 17:06:35**
 
 ## Newspaper Stats
 
-*Scraped **73,745** Articles*
+*Scraped **73,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,484
 islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,113
+adalk | 7,114
 adaderanalk | 9,403
 tamilmirrorlk | 10,972
 virakesarilk | 12,067
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,745 articles have been extended.
+61,973 (84.0%) of 73,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,11 +38,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 කහවත්ත පලන්සූරියගම හල්ලිද ප්‍රදේශයේ තරුණයෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි සැකකරුවන් දෙදෙනෙකු අද (02) පැල්මඩුල්ල මහේස්ත්‍රාත් අධිකරණයේ හඳුනාගැනීමේ පෙරට්ටුවකට ඉදිරිපත් කිරිමෙන් පසු සැකකරුවන් දෙදෙනාම සාක්ෂිකරුවන් විසින් හඳුනාගෙන තිබේ.
 
-මෙම ඝාතනයේ වෙඩික්කරු බව සැකපිට අත්අඩංගුවට ගත් පුද්ගලයා සහ සැකකරුවන් රැගෙන ගිය ජීප් රථයේ රියදුරු මෙලෙස හඳුනාගැනීමේ පෙරට්ටුවේදී සාක්ෂිකරුවන් විසින් හඳුනාගෙන ඇත.
+මෙම ඝාතනයේ වෙඩික්කරු බවට සැකපිට අත්අඩංගුවට ගත් පුද්ගලයා සහ සැකකරුවන් රැගෙන ගිය ජීප් රථයේ රියදුරු මෙලෙස හඳුනාගැනීමේ පෙරට්ටුවේදී සාක්ෂිකරුවන් විසින් හඳුනාගෙන ඇත.
 
 සැකකරුවන් දෙදෙනා සහ මෙම ඝාතනයට අදාළව රක්ෂිත බන්ධනාගාරගත කර සිටින අනෙක් සැකකරුවන් 8දෙනා සමග 10 දෙනාම ලබන 16 වනදා තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට ද මෙහිදී නියම කෙරුණි.
 
-ඝාතන සිද්ධියේ 9 වැනි සැකකරු වන වෙඩික්කරු බවට සැකකෙරෙන    කිරිබත්ගොඩ පදිංචි රමේෂ් චින්තක සහ 10 වන සැකකරු වන රත්නපුර දෑල පදිංචි රවිඳු යසස් යන සැකකරුවන්ව සාක්ෂිකරුවන් විසින් හඳුනාගෙන ඇත.
+ඝාතන සිද්ධියේ 9 වැනි සැකකරු වන වෙඩික්කරු බවට සැකකෙරෙන කිරිබත්ගොඩ පදිංචි රමේෂ් චින්තක සහ 10 වන සැකකරු වන රත්නපුර දෑල පදිංචි රවිඳු යසස් යන සැකකරුවන්ව සාක්ෂිකරුවන් විසින් හඳුනාගෙන ඇත.
 
 කහවත්ත පලන්සූරියගම හල්ලිද ප්‍රදේශයේ පදිංචි සුරංජන නම් 22 හැවිරිදි තරුණයාව පසුගිය ජුනි මස 30 වනදා පොලීසියෙන් බව පවසමින් පිරිසක් විසින් පැහැරගෙන ගොස් කහවත්ත ඇන්දාන මාර්ගයේදී වෙඩිතබා ඝාතනය කර තිබුණි.
 
@@ -125,6 +125,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/99591ed9.json)
+
+---
+
+### කණුවක ගැට ගසා සිටි මී ගවයෙකුගේ පසුපස ගාත් යුගල හා උදරය කපා මස් රැගෙන ගිහින්
+
+*2025-09-02 15:30:40* · [`adalk`](https://www.ada.lk/breaking_news/කණුවක-ගැට-ගසා-සිටි-මී-ගවයෙකුගේ-පසුපස-ගාත්-යුගල-හා-උදරය-කපා-මස්-රැගෙන-ගිහින්/11-418227) · `si`
+
+හම්බෙගමුව රොටවැවෙි වැව්පිටියේ  මී ගවයකු ගැටගසා සිටියදිම, ඊයේ (01) කිසියම් පුද්ගලයකු හෝ පිරිසක් පැමිණ මෙම මී ගවයාගේ පසුපස ගාත් යුගල සහ බඩ කොටස කපා ඝාතනය කර එම මස් රැගෙන ගොස් ඇතැයි හම්බේගමුව පොලිසිය පවසයි.
+
+පොලිසිය පවසන්නේ මෙම මී ගවයාගේ හිමිකරු හම්බෙිගමුව ජනපදය ප්‍රදේශයේ පදිංචිකරුවෙකු බවයි.
+
+හම්බේගමුව ජනපදයේ පදිංචි මෙම මී ගවයාගේ හිමිකරු සිද්ධිය වු දින පස්වරුවෙි රොට වැවෙි වැව් ඉස්මත්තට ගොස් ඔහුට අයත් මී ගවයින් වැවි පිටියේ ගැටගසා නැවත නිවෙස බලා පැමිණ තිබෙි. පසුව එදින රාත්‍රියේ පැමිනිලිකරුගේ පියා, මෙම මී ගවයින් පිලිබදව සොයා බැලිමට වැවි පිටියට ගොස් ඇති අතර, එහිදි එක් මී ගවයකුගේ අඩුවක් දැක ඒ පිලිබදව, තම පුතුට දන්වා තිබෙි.
+
+ඒ අනුව මෙම පැමිනිලිකරු වැව් පිටියට ගොස් සොදිසි කිරිමෙිදී ගවයා ගැටගසා සිටි ස්ථානයේ තිබි ගවයාගේ හිස තිබි සොයාගෙන ඇති අතර, මී ගවයා ගැටගසා සිටියදිම මී ගවයාගේ පසුපස ගාත් යුගල සහ බඩ කපා ඝාතනය කර  එම මස් කොටස් රැගෙන ගොස් ඇති අයුරු දැක ඒ පිලිබදව හම්බේගමුව පොලිසියට පැමිනිලිකර ඇත.
+
+...
+
+[Data](articles/c9e5194b.json)
 
 ---
 
@@ -1771,23 +1789,5 @@ Accordingly, the sun will be directly overhead in Andigama, Balalla, Meegaswewa,
 ...
 
 [Data](articles/715e8c5f.json)
-
----
-
-### Ranil expresses gratitude following release from remand
-
-*2025-09-02 03:49:19* · [`dailyftlk`](https://www.ft.lk/news/Ranil-expresses-gratitude-following-release-from-remand/56-781130) · `en`
-
-Former President Ranil Wickremesinghe yesterday extended his gratitude to all those who supported him from the time of his arrest, marking his first public statement since being taken into custody.
-
-In a special video message released to the media, Wickremesinghe conveyed appreciation to the many individuals and groups who had expressed solidarity, both online and offline, during his arrest.
-
-“I am thankful to everyone who stood by me from the moment I was taken into custody. I intend to meet with all those who supported me soon. Thank you all again,” he said.
-
-The former President was arrested and remanded on 22 August in connection with allegations of misusing Rs. 166 million in public funds during a September 2023 visit to London, which coincided with a ceremony at a British university attended by his wife.
-
-...
-
-[Data](articles/3b910abf.json)
 
 ---

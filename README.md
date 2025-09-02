@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 15:51:08**
+As of **2025-09-02 16:08:17**
 
 ## Newspaper Stats
 
-*Scraped **73,729** Articles*
+*Scraped **73,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,111
 adaderanalk | 9,399
-tamilmirrorlk | 10,971
-virakesarilk | 12,062
-adaderanasinhalalk | 12,801
+tamilmirrorlk | 10,972
+virakesarilk | 12,067
+adaderanasinhalalk | 12,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,729 articles have been extended.
+61,973 (84.0%) of 73,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### හෙට උණුසුම් වන ප්‍රදේශ
+
+*2025-09-02 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214081) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (02)  ප.ව. 03.00ට නිකුත් කරන ලද එම නිවේදනය 03 දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත් සහ මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා විමසිලිමත්වන ලෙස එම නිවේදනයෙන් දැනුම් දී ඇත.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවය.
+
+◼️
+
+[Data](articles/7a08cec7.json)
+
+---
+
+### சிரேஷ்ட பொலிஸ் அத்தியட்சகருக்கு விளக்கமறியல் நீடிப்பு
+
+*2025-09-02 15:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-பொலிஸ்-அத்தியட்சகருக்கு-விளக்கமறியல்-நீடிப்பு/175-363916) · `ta`
+
+இலஞ்சம் பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சதீஷ் கமகேவின் விளக்கமறியல் எதிர்வரும் 16ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+இதற்கான உத்தரவு கொழும்பு நீதவான் நீதிமன்ற பிரதான நீதவான் நீதவான் அசங்க எஸ். போதரகமவினால் இன்று (02) பிறப்பிக்கப்பட்டது.
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகள் மற்றும் பிரதிவாதிகள் தரப்பு சட்டத்தரணிகள் முன்வைத்த வாதங்களை பரிசீலித்த பின்னர், பிரதான நீதவான் இந்த உத்தரவை பிறப்பித்தார்.
+
+போதைப்பொருள் வர்த்தகர்கள், குற்றக்குழு உறுப்பினர்கள் மற்றும் பல்வேறு சேவைகளைப் பெற பொலிஸ் நிலையத்துக்கு வந்த பொதுமக்களிடமிருந்து ஒரு கோடியே 40 ரூபாவினை இலஞ்சமாக பெற்ற சம்பவம் தொடர்பாக சதீஷ் கமகே   கைதுசெய்யப்பட்டு, நீதிமன்ற உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/99591ed9.json)
+
+---
 
 ### “கூலி” நடிகர் வெளிநாடு செல்ல தடை
 
@@ -62,6 +98,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### தரம் 5 புலமைப்பரிசில் பரீட்சை பெறுபேறுகள் இந்த வாரம் வெளியாகும்
+
+*2025-09-02 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224027) · `ta`
+
+2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகள் இந்த வாரத்திற்குள் வெளியிடப்படவுள்ளதாக பரீட்சைகள் திணைக்கள ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி லியனகே தெரிவித்தார்.
+
+கடந்த ஆகஸ்ட் மாதம் 10 ஆம் திகதி நாடு முழுவதும் 2,787 நிலையங்களில் பரீட்சை நடத்தப்பட்டதாகவும், 307,951 பேர் பரீட்சைக்கு தோற்றியதாகவும் அவர் தெரிவித்தார். அவர்களில் 901 விசேட தேவையுடைய மாணவர்களும் அடங்குவர். அவர்களில் 12 பேர் பிரெய்லி ஸ்கிரிப்ட்களைப் பயன்படுத்தினார்கள்.
+
+பரீட்சை முடிவுகளை உடனடியாக வெளியிட தேவையான அனைத்து நடவடிக்கைகளையும் பரீட்சைகள் திணைக்களம் எடுக்கும் எனவும்,  தேவையான நடவடிக்கைகளைச் செயல்படுத்த அதிகாரிகளுக்கு போதுமான நேரம் வழங்கப்படும் எனவும் ஆணையாளர் நாயகம் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/43287135.json)
+
+---
+
 ### மீண்டும் மீண்டும் அதுக்கு அழைத்த தோழி: அடுத்தது
 
 *2025-09-02 15:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-மீண்டும்-அதுக்கு-அழைத்த-தோழி-அடுத்தது/175-363911) · `ta`
@@ -75,6 +127,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e63a42a7.json)
+
+---
+
+### முறைப்பாடுகளை தெரிவிக்க புதிய வட்ஸ்அப் இலக்கத்தை அறிமுகப்படுத்தியது இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு
+
+*2025-09-02 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224025) · `ta`
+
+இலஞ்சம் மற்றும் ஊழல் சம்பவங்களை பொதுமக்கள் எளிதாக முறைப்பாடு அளிக்கும் வகையில், இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு 077 777 1954 எனும் புதிய வட்ஸ்அப் இலக்கத்தை அறிமுகப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/3bac2fea.json)
 
 ---
 
@@ -95,6 +159,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e7ba84f1.json)
+
+---
+
+### எரிவாயு விலையில் எந்த மாற்றமும் இல்லை - லிட்ரோ நிறுவனம்
+
+*2025-09-02 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224023) · `ta`
+
+செப்டம்பர் மாதத்திற்கான உள்நாட்டு எரிவாயு விலையில் எந்த திருத்தமும் இடம்பெறாது என லிட்ரோ எரிவாயு நிறுவனம் இன்று செவ்வாய்க்கிழமை (02) அறிவித்துள்ளது.
+
+அதன்படி, 12.5 கிலோகிராம் உள்நாட்டு எரிவாயு சிலிண்டரின் விலை ரூ. 3,690 ஆகவும், 5 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை ரூ. 1,482 ஆகவும் விற்பனை செய்யப்படும்.
+
+2.3 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை ரூ. 694 ஆகவும் மாறாமல் உள்ளது என நிறுவனம் உறுதிப்படுத்தியது.
+
+நடைமுறையில் உள்ள எரிவாயு விலை நிர்ணய பொறிமுறையின் கீழ் நிறுவனத்தின் வழக்கமான மாதாந்திர விலை மதிப்பாய்வைத் தொடர்ந்து இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/34463080.json)
 
 ---
 
@@ -161,6 +243,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/055d0dce.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-09-02 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224015) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (02) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 305.8206 ஆகவும் கொள்வனவு விலை ரூபா 298.2426 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (02.09.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
+
+◼️
+
+[Data](articles/7a659c9f.json)
 
 ---
 
@@ -267,6 +363,22 @@ Initial reports from Taliban officials on Sunday put the toll at nine dead and m
 ...
 
 [Data](articles/87479e65.json)
+
+---
+
+### இந்தியாவுடனான வர்த்தகம் ஒருதலைபட்சமான பேரழிவு -  ட்ரம்ப்
+
+*2025-09-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224011) · `ta`
+
+இந்தியாவுடனான வர்த்தகம் ஒருதலைபட்சமான பேரழிவு என்று அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+
+நாம் (அமெரிக்கா) இந்தியாவுக்கு குறைந்த அளவில் ஏற்றுமதி செய்கிறோம் என்று சிலருக்கு தெரியும். ஆனால், இந்தியா நமக்கு (அமெரிக்கா) அதிக அளவில் ஏற்றுமதி செய்கின்றன. வேறோபோன்று கூறவேண்டுமென்றால், இந்தியா நமக்கு அதிக அளவில் பொருட்களை விற்பனை செய்கிறது. இந்தியாவின் மிகப்பெரிய வாடிக்கையாளர் நாம் தான் (அமெரிக்கா). ஆனால், அவர்களிடம் (இந்தியா) நாம் குறைவாகவே விற்பனை செய்கிறோம்.
+
+பல ஆண்டுகளாக இந்தியா - அமெரிக்கா வர்த்தக உறவு ஒருதலைபட்சமாகவே இருந்தது. காரணம் என்னவென்றால் அமெரிக்க இறக்குமதி பொருட்கள் மீது அதிக அளவு வரி விதிக்கும் நாடாக இந்தியா உள்ளது. இது ஒருதலைபட்சமான பேரழிவு. ரஷ்யாவிடமிருந்து ஆயுதங்கள், கச்சா எண்ணெய் ஆகியவற்றை இந்தியா வாங்குகிறது. ஆனால், குறைவான அளவிலேயே ஆயுதங்கள், கச்சா எண்ணெய் ஆகியவற்றை நம்மிடமிருந்து (அமெரிக்கா) இந்தியா வாங்குகிறது.
+
+...
+
+[Data](articles/9967e805.json)
 
 ---
 
@@ -1643,117 +1755,5 @@ Hettiarachchi was appointed to the Board on 30 June 2018. He holds a Bachelor of
 ...
 
 [Data](articles/26782289.json)
-
----
-
-### Imran Furkan joins Softlogic Holdings Board
-
-*2025-09-02 02:23:09* · [`dailyftlk`](https://www.ft.lk/business/Imran-Furkan-joins-Softlogic-Holdings-Board/34-781104) · `en`
-
-Softlogic Holdings PLC yesterday announced the appointment of trop professional Imran Furkan as Independent Non-Executive Director with effect from 29 August 2025.
-
-Furkan advises Boards and CEOs on strategy, market expansion as well as geopolitical, economic, climate and technology risk management, the company said in a statement.
-
-“Currently serving as CEO of Tresync, Australia; Imran is passionate about one thing – fostering collaboration. This is evidenced by his achievements in senior management and Board Directorship roles in industries such as finance, health, food, retail, regulatory and industry bodies, IT/GBS, education, commodities, media, and professional services in the Asia-Pacific region,” the company said.
-
-...
-
-[Data](articles/e1b6c628.json)
-
----
-
-### ’மஹிந்தவை சிறையில் அடைக்க வேண்டும்’
-
-*2025-09-02 02:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சிறையில்-அடைக்க-வேண்டும்/175-363882) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை 400 ஆண்டுகள் சிறையில் அடைக்க வேண்டும் என்று பீல்ட் மார்ஷல் சரத் பொன்சேகா தெரிவித்துள்ளார்.
-
-நிகழ்வொன்றில் உரையாற்றிய அவர், ராஜபக்சவின் 2010 ஆட்சிக் காலத்திலேயே கடுமையான ஊழல்கள் இடம்பெற்றதாக குறிப்பிட்டுள்ளார்
-
-முன்னாள் இராணுவத் தளபதி சரத் பொன்சேகா அடுத்தடுத்து வந்த இலங்கைத் தலைவர்களையும் விமர்சித்துள்ளார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் நடவடிக்கைகளையும் சரத் பொன்சேகா விமர்சித்துள்ளார். அவருடைய கைது விடயத்தில் நடப்பு அரசாங்கம் மேற்கொண்ட முன்னுதாரணத்தை தாம் ஏற்றுக்கொள்வதாக பொன்சேகா கூறியுள்ளார்.
-
-அந்த முன்னுதாரணத்தின் அடிப்படையில், ராஜபக்ஷ போன்ற ஒருவருக்கு சுமார் 400 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட வேண்டும் என்று சரத் பொன்சேகா வலியுறுத்தியுள்ளார்.  (a)
-
-◼️
-
-[Data](articles/d2a5973d.json)
-
----
-
-### LYNEAR: Redefining wealth management through independence and discipline
-
-*2025-09-02 01:58:32* · [`dailyftlk`](https://www.ft.lk/business/LYNEAR-Redefining-wealth-management-through-independence-and-discipline/34-781093) · `en`
-
-LYNEAR Wealth Management Co-Founder and Chief Executive Officer Sanjay Kulatunga
-
-In complex and often unpredictable capital markets, wealth preservation and capital accumulation demand rigour, discipline, and a principled approach anchored in long-term strategy, robust governance, and above all, independence.
-
-LYNEAR Wealth Management has exemplified these principles in one of the most volatile economic environments in post-independent Sri Lanka. Founded 13 years ago, LYNEAR has grown to manage over $ 250 million in client assets, serving high-net-worth individuals, ultra-high-net-worth families, and institutions. At the heart of this success is a distinctive commitment to independence; a strategic choice that has positioned LYNEAR as a trusted fiduciary, unencumbered by the structural conflicts of interest that pervade much of the traditional financial services landscape in Sri Lanka.
-
-...
-
-[Data](articles/4b139c93.json)
-
----
-
-### Eminent line-up to open SLEIS 2025 with focus on stability, growth
-
-*2025-09-02 01:55:40* · [`dailyftlk`](https://www.ft.lk/business/Eminent-line-up-to-open-SLEIS-2025-with-focus-on-stability-growth/34-781092) · `en`
-
-Opening session themed ‘Macroeconomic Dashboard – Stability Secured, Growth Unleashed’
-
-The Ceylon Chamber of Commerce yesterday said it would open the Sri Lanka Economic and Investment Summit 2025 (SLEIS 2025) on 2 December at the Shangri-La Colombo with an eminent line-up that sets the stage for two days of high-level dialogue.
-
-Conducted this year under the theme ‘Gateway to Growth – Asia’s Emerging Opportunity’ the day will begin with opening remarks by Ceylon Chamber Chairperson Krishan Balendra, followed by a keynote address from EDOTCO Group, Malaysia Chairman Kenneth Shen.
-
-In addition to his role as Chairman of the EDOTCO Group, Shen is also Chairman of Astro Holdings and a board member of Astro Malaysia Holdings, Malaysia’s largest content creator. With over three decades of investment experience across public and private equity, corporate finance, and capital markets, Shen brings a broad perspective on regional growth, investment flows, and strategic reform.
-
-...
-
-[Data](articles/b896e000.json)
-
----
-
-### Solutions Ground pioneers Sri Lanka’s first CSR outsourcing model
-
-*2025-09-02 01:47:56* · [`dailyftlk`](https://www.ft.lk/business/Solutions-Ground-pioneers-Sri-Lanka-s-first-CSR-outsourcing-model/34-781091) · `en`
-
-In a novel approach that redefines Sri Lankan businesses’ approach to strategic corporate social responsibility, Solutions Ground Ltd., has unveiled the country’s first full-service CSR outsourcing model.
-
-Headquartered in Sri Lanka and operating regionally, Solutions Ground is an international boutique consultancy working at the intersection of business, policy, and sustainability. Its latest offering introduces a fully outsourced approach to CSR, giving companies access to dedicated external expertise to design, implement, communicate, and evaluate purpose-driven programs.
-
-...
-
-[Data](articles/13eea274.json)
-
----
-
-### Sun Match Director Gowri Rajan honoured as Sri Lankan Iconic Woman 2025
-
-*2025-09-02 01:47:19* · [`dailyftlk`](https://www.ft.lk/business/Sun-Match-Director-Gowri-Rajan-honoured-as-Sri-Lankan-Iconic-Woman-2025/34-781090) · `en`
-
-Sri Lanka’s foremost respected media channel Broadcasting Corporation (SLBC), at its centenary celebration, honoured Sun Match Company Executive Director Gowri Rajan with the title of Sri Lankan Iconic Woman 2025 at BMICH. The Chief Guest was Minister of Labour Anil Jayantha Fernando.
-
-The award recognises Gowri’s outstanding leadership in making the four decades brand contemporary whilst also for the contribution to humanity as the first Female Rotary Governor of Sri Lanka.
-
-The colourful event took place at the BMICH amidst a gathering of business, Government, arts and civil society to celebrate Sri Lanka’s 100 top iconic women.
-
-...
-
-[Data](articles/dc53468d.json)
-
----
-
-### Brief history of Central Bank of Sri Lanka
-
-*2025-09-02 01:15:23* · [`dailyftlk`](https://www.ft.lk/columns/Brief-history-of-Central-Bank-of-Sri-Lanka/4-781085) · `en`
-
-On 28 August 1950, a very special type of bank was set up in Sri Lanka, with a simple ceremony. In the words of the first Governor of the Central Bank of Ceylon, John Exter, the simplicity of the ceremony was not intended to “belittle the importance of the occasion…” but to be celebrated a decade or two later, looking back at its achievements in raising the living standards of the people of the country. It signalled the country’s resolve to chart its own financial destiny, to stabilise its currency, and to foster growth through sound monetary policy. 75 years later, today..., we look back to explore its evolution and achievements, to assess if the high hopes and good intentions that prevailed in 1950 have borne fruit…
-
-...
-
-[Data](articles/7531b4eb.json)
 
 ---

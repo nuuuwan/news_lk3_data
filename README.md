@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 14:51:31**
+As of **2025-09-02 15:19:57**
 
 ## Newspaper Stats
 
-*Scraped **73,724** Articles*
+*Scraped **73,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,110
 adaderanalk | 9,399
 tamilmirrorlk | 10,968
 virakesarilk | 12,062
-adaderanasinhalalk | 12,800
+adaderanasinhalalk | 12,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,724 articles have been extended.
+61,973 (84.1%) of 73,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### සිහින ගමනාන්තය - පළමු දුම්රිය ස්ථානය නවීකරණය තල්පෙන් ඇරඹෙයි
+
+*2025-09-02 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214080) · `si`
+
+දුම්රිය ස්ථාන 100ක් නවීකරණය කිරීමේ ජාතික වැඩසටහනෙහි "සිහින ගමනාන්තය" පළමු අදියර ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතාගේ ප්‍රධානත්වයෙන් තල්පේ දුම්රිය ස්ථානයේදී  අද (02) ආරම්භ කෙරුණි.
+
+ලෝකයට සාපේක්ෂව වර්තමානයට ගැලපෙන පරිදි ශ්‍රී ලංකාවේ දුම්රිය ස්ථාන නව අනන්‍යතාවකින් සන්නාමගත කිරීම සඳහා රජය, පෞද්ගලික අංශය සහ මහජනතාව ඒකාබද්ධ වූ වැඩසටහනක් ලෙස මෙය ක්‍රියාත්මක කෙරෙයි.
+
+ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය සහ ‘ක්ලීන් ශ්‍රී ලංකා’ වැඩසටහන එක්ව පෞද්ගලික අංශයේ අනුග්‍රහයෙන් දුම්රිය ස්ථාන 100ක් නවීකරණය කිරීමට මෙමඟින් අපේක්ෂිතය.
+
+මෙහිදී ප්‍රවාහන සහ මහාමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා සඳහන් කළේ පොදු ප්‍රවාහනය ගුණාත්මක සේවයක් බවට පරිවර්ථනය කිරීමේ වගකීම වත්මන් රජය අත්නොහැර ඉදිරියට ගෙන යන බවය.
+
+පොදු ප්‍රවාහන දියුණු කිරිම මඟින් සංචාරක කර්මාන්තය දියුණු කිරිමට හැකියාව පවතින බවත් ඉදිරි වසර දෙක තුළ රට වැඩබිමක් කරමින් වේගවත් සංවර්ධනයනක් කරා ශ්‍රී ලංකාව ගෙන යන බවද නියෝජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e7ba84f1.json)
+
+---
 
 ### රණවිරුවන් පීඩාවට පත්කිරීමක් ගැන පොදුජන පෙරමුණෙන්  මහානාහිමිවරුන්ට ලිපියක්
 
@@ -1733,19 +1753,5 @@ That tableau — a former President accused of misusing Rs. 16.6 million of publ
 ...
 
 [Data](articles/940d0559.json)
-
----
-
-### Capitalism, socialism, and promise of social entrepreneurship
-
-*2025-09-02 00:40:42* · [`dailyftlk`](https://www.ft.lk/columns/Capitalism-socialism-and-promise-of-social-entrepreneurship/4-781080) · `en`
-
-Sri Lankans have long argued about systems. Some still believe in the old socialist dream, that if the State simply redistributes resources, all will be well. Others pin their hopes on capitalism, imagining that a market left unchecked will lift everyone. What we see, however, is that both extremes leave people disappointed.
-
-The socialist impulse is alive in our politics, even today. Many ordinary citizens speak of “taking from the rich and giving to the poor” as though that alone will resolve structural poverty. At the same time, capitalism in its rawest form, obsessed with profit and indifference to justice has only widened inequality. Between these two poles, Sri Lanka struggles to find a path that secures dignity, opportunity, and sustainability.
-
-...
-
-[Data](articles/998b5eb0.json)
 
 ---

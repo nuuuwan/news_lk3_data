@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 11:53:06**
+As of **2025-09-02 12:10:46**
 
 ## Newspaper Stats
 
-*Scraped **73,687** Articles*
+*Scraped **73,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ economynextcom | 4,484
 islandlk | 4,532
 dailymirrorlk | 4,733
 dailyftlk | 5,219
-adalk | 7,103
-adaderanalk | 9,392
+adalk | 7,104
+adaderanalk | 9,394
 tamilmirrorlk | 10,956
-virakesarilk | 12,058
-adaderanasinhalalk | 12,793
+virakesarilk | 12,060
+adaderanasinhalalk | 12,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,687 articles have been extended.
+61,973 (84.1%) of 73,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### ගිනිඅවි සහ බලපත්‍ර ගැන විශේෂ දැනුම්දීමක්
+
+*2025-09-02 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214072) · `si`
+
+ගිනිඅවි සහ බලපත්‍ර හිමි පුද්ගලයින්/ ආයතන 2026 වර්ෂය වෙනුවෙන් බලපත්‍ර අලුත් කිරීම සිදුකරන බව ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබේ.
+
+එය ඊයේ (01) දින සිට එනම් 2025.09.01 සිට 2025.12.31 දක්වා පමණක් සිදු කරනු ඇති බව සඳහන් වේ.
+
+පසුව සිදුකරන අලුත් කිරීම් සඳහා ප්‍රමාද ගාස්තු සහ නීතිමය ක්‍රියාමාර්ග ගැනීමට සිදුවන බව දැනුම් දී ඇත.
+
+ඒ සඳහා අදාළ තොරතුරු හා අයදුම්පත්‍ර ආරක්‍ෂක අමාත්‍යාංශයේ වෙබ් අඩවියෙන් www.defence.lk ලබාගත හැකිය.
+
+තුවක්කු ආඥාපනතේ 22 වන වගන්තියේ විධිවිධාන අනුව වලංගු බලපත්‍රයක් රහිතව ගිනිඅවියක් සන්තකයේ තබාගැනීම දඬුවම් ලැබිය හැකි වරදක් බව ද වැඩිදුරටත් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/ff88d998.json)
+
+---
+
+### ඇෆ්ගනිස්තාන භූ කම්පනයෙන් පීඩාවට පත් ජනතාවට රටවල් රැසකින් ආධාර
+
+*2025-09-02 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214071) · `si`
+
+ඇෆ්ගනිස්තානයේ ඇතිවූ ප්‍රබල භූකම්පන තත්ත්වයෙන් මේ වන විට මියගොස් ඇති පිරිස 800 සීමාව දක්වා ළඟා වී තිබේ.
+
+ඇෆ්ගනිස්තානයේ නැගෙනහිර ප්‍රදේශයේ ඊයේ (01) රික්ටර් මාපක 6.0 භූ කම්පන තත්ත්වයක් ඇති වූ අතර මේ හේතුවෙන් එරටට දැවැන්ත හානි සිදුවිය.
+
+මෙම භූකම්පන තත්ත්වයෙන් වැඩිම බලපෑමක් එල්ලවී ඇත්තේ එරට කඳුකර කූනාර් පළාතට වන අතර එහිදී මාර්ග අවහිර වීම හේතුවෙන් ගලවා ගැනීම් මෙහෙයුම් පවා සිදු කිරීම දැඩි දුශ්කර වී තිබුණි මේ හේතුවෙන් ගලවා ගැනීම් මෙහෙයුම් සිදුකළ හැකි වූයේ ගුවන් මගින් පමණක්ම විය.
+
+එරට බලධාරීන් සඳහන් කර ඇත්තේ භූ කම්පන තත්ත්වයෙන් පසු ගොඩනැගිලි කඩා වැටීම් හේතුවෙන් සුන්බුන් අතර තවදුරටත් සිර වී සිටින්නන් මුදා ගැනීම සඳහා මේ වන විටත් මෙහෙයුම් දියත් වෙමින් පවතින බවය.
+
+මේ හේතුවෙන් මියගිය පිරිස තවදුරටත් ඉහළ යා හැකි බවද එරට බලධාරීන් අනුමාන කරන අතර කුනාර් පළාතේ පිහිටි ගම්මානය ඇතිවූ භූකම්පනයෙන් සම්පූර්ණයෙන්ම විනාශ වී ඇතැයිද ඔවුන් සඳහන් කර තිබේ.
+
+කිලෝමීටර් 8ක් දක්වා ඇතිවූ මෙම භූ කම්පන තත්ත්වයෙන් කාබුල් සිට පාකිස්තාන අගනුවර වන ඉස්ලාමාබාද් දක්වා ගොඩනැගිලි සෙලවී ගොස් තිබුණි.
+
+...
+
+[Data](articles/1cf0de74.json)
+
+---
 
 ### “எஸ்.ஐ கூட உடலுறவு: 10 வருட காதலனுக்கு நேர்ந்த கொடூரம்
 
@@ -45,6 +87,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/535c65d7.json)
+
+---
+
+### Heavy traffic opposite Presidential Secretariat due to a protest
+
+*2025-09-02 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112098/heavy-traffic-opposite-presidential-secretariat-due-to-a-protest) · `en`
+
+Vehicular movement along the Galle road opposite the Presidential Secretariat has been obstructed owing to a protest staged by retired public servants, Ada Derana reporter said.
+
+Accordingly, the traffic flow along the lane of the Galle Road from the Galle Face Center Road towards Colpetty has been restricted.
+
+Meanwhile, according to Ada Derana reporter, six representatives from the group of protesting retired public servants have entered the Presidential Secretariat for a discussion with officials.
+
+◼️
+
+[Data](articles/1e390453.json)
+
+---
+
+### වසර 10කට පසුව ඉතාලි රජයේ ඉහළම නියෝජිතයෙක් ලංකාවට
+
+*2025-09-02 11:19:41* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කට-පසුව-ඉතාලි-රජයේ-ඉහළම-නියෝජිතයෙක්-ලංකාවට/11-418221) · `si`
+
+ඉතාලියේ විදේශ කටයුතු සහ ජාත්‍යන්තර සහයෝගීතාව පිළිබඳ නියෝජ්‍ය අමාත්‍ය මරියා ට්‍රිපොඩි, 2025 සැප්තැම්බර් 03 සිට 05 වැනි දින දක්වා ශ්‍රී ලංකාවේ නිල සංචාරයක නිරත වනු ඇත. මෙය දශකයකට ආසන්න කාලයකට පසු ඉතාලියේ සිට ශ්‍රී ලංකාව වෙත සිදු කෙරෙන ඉහළම මට්ටමේ සංචාරය වේ.
+
+ඇයගේ සංචාරය අතරතුරදී, නියෝජ්‍ය අමාත්‍ය ට්‍රිපෝඩි, විදේශ කටයුතු සහ විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර සමඟ එක්ව ශ්‍රී ලංකා-ඉතාලි දේශපාලන උපදේශන සමාරම්භක සැසියේ සම-සභාපතිත්වය දරනු ඇත. එසේම, දේශපාලන උපදේශන යාන්ත්‍රණයක් ස්ථාපිත කිරීම පිළිබඳ අවබෝධතා ගිවිසුමක් අත්සන් කිරීමටද මෙම සංචාරය අතරතුරදී නියමිත අතර, ඒ ඔස්සේ දෙරට අතර සංවාදය සඳහා ව්‍යුහගත රාමුවක් සපයනු ඇත. දෙරට අතර රාජ්‍යතාන්ත්‍රික සබඳතා 1952 වසරේදී ස්ථාපිත කරන ලදී.
+
+නියෝජ්‍ය අමාත්‍ය ට්‍රිපොඩි, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවීමට සහ විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් සමඟ සාකච්ඡා පැවැත්වීමටද නියමිතය.
+
+◼️
+
+[Data](articles/7c37f90f.json)
+
+---
+
+### இத்தாலியின் பிரதி வெளிவிவகார அமைச்சர் நாளை இலங்கை வருகிறார்
+
+*2025-09-02 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/223994) · `ta`
+
+இத்தாலியின் வெளிவிவகார மற்றும் சர்வதேச ஒத்துழைப்புக்கான பிரதி அமைச்சர் மரியா திரிபோடி நாளை புதன்கிழமை (03) இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொள்கிறார்.
+
+அவர் செப்டம்பர் மாதம் 5 ஆம் திகதி வரை நாட்டில் தங்கி இருப்பார் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சு அறிக்கை ஒன்றில் தெரிவித்துள்ளது.
+
+சுமார் ஒரு தசாப்த காலத்திற்கு பின்னர் இத்தாலியிலிருந்து இலங்கைக்கு மேற்கொள்ளப்படும் மிக உயர்ந்த மட்ட விஜயமாக  இந்த விஜயம் முக்கியத்துவம் வாய்ந்தது என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+இந்த விஜயத்தின் போது, இலங்கை - இத்தாலி அரசியல் ஆலோசனைகளின் ஆரம்ப அமர்விற்கு வெளிவிவகார மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திரவுடன் இணைந்து இத்தாலிய பிரதி அமைச்சர் திரிபோடி தலைமை தாங்குவார்.
+
+இந்த விஜயத்தின் போது அரசியல் ஆலோசனை பொறிமுறையை நிறுவுவது குறித்த புரிந்துணர்வு ஒப்பந்தம் கையெழுத்திடப்பட உள்ளது, இது இரு நாடுகளுக்கும் இடையிலான கலந்துரையாடலுக்கான கட்டமைக்கப்பட்ட கட்டமைப்பை வழங்குகிறது.
+
+...
+
+[Data](articles/3f64940c.json)
 
 ---
 
@@ -79,6 +173,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/606762a6.json)
+
+---
+
+### Italy’s Deputy Foreign Minister to arrive in Sri Lanka tomorrow
+
+*2025-09-02 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112096/italys-deputy-foreign-minister-to-arrive-in-sri-lanka-tomorrow) · `en`
+
+Maria Tripodi, Deputy Minister for Foreign Affairs of Italy and International Cooperation, will undertake an official visit to Sri Lanka tomorrow (03).
+
+She will remain in Sri Lanka until September 5, the Ministry of Foreign Affairs, Foreign Employment and Tourism said in a statement.
+
+This visit is significant as it marks the highest-level incoming visit from Italy to Sri Lanka in almost a decade, the Foreign Ministry stated.
+
+During her visit, Deputy Minister Tripodi will co-chair, along with Arun Hemachandra, the Deputy Minister of Foreign Affairs and Foreign Employment, the inaugural session of the Sri Lanka–Italy Political Consultations.
+
+A Memorandum of Understanding on the Establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.
+
+...
+
+[Data](articles/55c13ca4.json)
 
 ---
 
@@ -164,15 +278,41 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை 400 ஆண்டுகள் சிறையில் அடைக்க வேண்டும் - சரத் பொன்சேகா
+
+*2025-09-02 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/223992) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை 400 ஆண்டுகள் சிறையில் அடைக்க வேண்டும் என பீல்ட் மார்ஷல் சரத் பொன்சேகா குற்றம் சாட்டியுள்ளார்.
+
+2010ஆம் ஆண்டு மஹிந்த ராஜபக்சவின் ஆட்சிக் காலத்தில் நடைபெற்ற ஊழல்களை எடுத்துக்காட்டி, அவர் குற்றம் சாட்டியதாக தெரிவிக்கப்படுகிறது.
+
+இதன்போது, தேசிய வளர்ச்சிக்கான தொலைநோக்கு பார்வை, இலங்கை தலைவர்களுக்கு இல்லை என இதன்போது அவர் குறிப்பிட்டுள்ளார்.
+
+சிங்கப்பூரின் லீ குவான் யூ, மலேசியாவின் மகாதீர் முகமட் மற்றும் ருவாண்டாவின் ஜெனரல் ஜுவெனல் ஹப்யரிமனா போன்ற சர்வதேச பிரமுகர்களுடன் இலங்கை முன்னாள் தலைவர்களை ஒப்பிட்டு வேறுபடுத்தி இதன்போது அவர் உரையாற்றியுள்ளார்.
+
+தனிநபர்களின் பெயர்களைக் குறிப்பிடாமல் கடந்த கால சம்பவத்தைக் குறிப்பிட்டு தமது கருத்துக்களை சரத் பொன்சேகா கூறியுள்ளார்.
+
+2010 ஆம் ஆண்டு மஹிந்த ராஜபக்சவின் ஆட்சிகால பகுதியில் சீனாவிற்கு  மேற்கொண்ட அரச பயணத்தையும் இதன்போது அவர் நினைவுப்படுத்தினார்.
+
+அந்த பயணத்தின் போது 65 பேர் ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானத்தில் உத்தியோகபூர்வமாக அழைத்துச் செல்லப்பட்டதாகக் கூறப்படுகிறது.
+
+...
+
+[Data](articles/746f6a69.json)
+
+---
+
 ### President to launch multiple development projects in North for second consecutive day
 
 *2025-09-02 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112095/president-to-launch-multiple-development-projects-in-north-for-second-consecutive-day) · `en`
 
-President Anura Kumara Dissanayake is scheduled to participate in a number of events and inaugurate several development projects in the Northern Province today (02), marking the second day of his official tour, according to the Presidential Media Division.
+President Anura Kumara Dissanayake is scheduled to inaugurate and participate in several development programmes in the Northern Province today (02), marking the second consecutive day of such initiatives, according to the Presidential Media Division.
 
-Coinciding with World Coconut Day, the launching ceremony of the “රටම සරු කරයි නිරතුරු - කප්තුරු සවිය” initiative, aimed at revitalizing coconut cultivation in the Northern Coconut Triangle, will be held today in Puthukkudiyiruppu under the President’s patronage.
+Coinciding with the World Coconut Day, President Dissanayake will preside over the launch of the “Ratama Saru Karai Nirathuru – Kapthuru Saviya” Northern Coconut Triangle project this morning in Puthukkudiyiruppu.
 
-This program is being launched with the target of cultivating 16,000 acres of coconut in the Northern Province by 2025, with plans to expand the area to 50,000 acres by 2027.
+The programme, which begins with the objective of cultivating 16,000 acres of coconut in the Northern Province by 2025, is expected to expand to 50,000 acres by 2027.
+
+Alongside this initiative, the first model coconut garden in the North will be launched in Palai under the patronage of the President. The President will also inaugurate a coconut-based products exhibition organized by the Coconut Development Authority, held near Puthukkudiyiruppu Central College.
 
 ...
 
@@ -1615,135 +1755,5 @@ As the global economy grapples with slowing demand, trade conflicts, and financi
 ...
 
 [Data](articles/0add6025.json)
-
----
-
-### யாழ்ப்பாணத்தில் சர்வதேச கிரிக்கெட் விளையாட்டரங்க நிர்மாணத்திற்கான அடிக்கலை ஜனாதிபதி நாட்டிவைத்தார்
-
-*2025-09-01 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/223970) · `ta`
-
-இயல்பாகவே திறமைகளைக்  கொண்ட அனைத்து கிரிக்கெட் வீர, வீராங்கனைகளுக்கும் தேசிய அணியில் பங்கேற்க சமமான வாய்ப்புகள் வழங்குவதை நோக்கமாகக் கொண்ட ஸ்ரீலங்கா கிரிக்கெட்டின் தேசிய அபிவிருத்திப் பாதை திட்டத்தின் கீழ் யாழ்ப்பாணம் மண்டைதீவில் சர்வதேச தரம்வாய்ந்த கிரிக்கெட் விளையாட்டரங்கம் ஒன்று நிர்மாணிக்கப்படவுள்ளது.
-
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தின் தலைவர் ஷம்மி சில்வா தலைமையிலான நிறைவேற்றுக் குழுவினரின் அழைப்பின் பேரில் விளையாட்டுத்துறை அமைச்சர் சுனில் குமார கமகேயின் பங்கேற்புடன் ஜனாதிபதி அனுர குமார திசாநாயக்க தலைமையில் இந்த விளையாட்டரங்கிற்கான அடிக்கல் நாட்டு விழா திங்கட்கிழமை (01) பிற்பகல் 1.30 மணியளவில் நடைபெற்றது.
-
-அடிக்கல் நாட்டப்பட்ட சர்வதேச கிரிக்கெட் விளையாட்டரங்கிற்கான நிர்மாணப் பணிகள் நிறைவடையும் வரை, அதற்கான முழு செலவையும் ஸ்ரீலங்கா கிரிக்கெட் நிறுவனம் ஏற்றுக்கொள்ளும்.
-
-...
-
-[Data](articles/fd73e508.json)
-
----
-
-### மாநாட்டுக்குப் பின் புதினுடன் ஒரே காரில் சென்ற பிரதமர் மோடி
-
-*2025-09-01 19:11:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநாட்டுக்குப்-பின்-புதினுடன்-ஒரே-காரில்-சென்ற-பிரதமர்-மோடி/175-363876) · `ta`
-
-ஷங்காய் ஒத்துழைப்பு அமைப்பு உச்சி மாநாட்டில் கலந்து கொண்ட பிரதமர் மோடி, மாநாட்டுக்குப் பின்னர் ரஷ்ய அதிபர் புதினுடன் ஒரே காரில் சென்ற நிகழ்வு கவனம் பெற்றுள்ளது.
-
-ஷாங்காய் ஒத்துழைப்பு அமைப்பு (எஸ்சிஓ) கடந்த 2001-ம் ஆண்டில் தொடங்கப்பட்டது. இந்த அமைப்பில் சீனா, ரஷ்யா, கஜகஸ்தான், கிர்கிஸ்தான், தஜிகிஸ்தான், உஸ்பெகிஸ்தான், இந்தியா, பாகிஸ்தான், ஈரான், பெலாரஸ் ஆகிய நாடுகள் உறுப்பினர்களாக உள்ளன. இந்த அமைப்பின் 2 நாள் உச்சி மாநாடு சீனாவின் தியாஞின் நகரில் நடந்தது. இந்த மாநாட்டைத் தொடர்ந்து ரஷ்யா - இந்தியா இடையேயான இருதரப்பு பேச்சுவார்த்தை நடைபெறுகிறது.
-
-இந்நிலையில் இருதரப்பு பேச்சுவார்த்தை நடைபெறும் இடத்துக்கு இருவரும் ஒன்றாக காரில் சென்றனர். அது தொடர்பான புகைப்படத்தை தனது எக்ஸ் பக்கத்தில் பகிர்ந்த மோடி, “இந்திய - ரஷ்ய இருதரப்பு ஆலோசனைக்காக நானும், புதினும் ஒரே காரில் பயணிக்கிறோம். அவருடனான ஆலோசனைகள் எப்போதுமே ஆழமான புரிதலைக் கொண்டவை.” எனக் குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/aab7fec6.json)
-
----
-
-### நடிகர் விஜய்க்கு ஜனாதிபதி பதிலடி
-
-*2025-09-01 19:07:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-விஜய்க்கு-ஜனாதிபதி-பதிலடி/175-363875) · `ta`
-
-இலங்கையின் இறையாண்மை எந்த வகையான வெளிப்புற அழுத்தத்தாலும் சமரசம் செய்யப்பட மாட்டாது என ஜனாதிபதி அனுரகுமார திசாநாயக்க வலியுறுத்தியுள்ளார்,
-
-கச்சதீவுக்கு இன்று மாலை விஜயம் செய்வதற்கு முன்னதாக யாழ்ப்பாணம் - மயிலிட்டியில் உரையைாற்றியபோதே அவர் இதனை குறிப்பிட்டார்.
-
-இலங்கையின் பிராந்திய ஒருமைப்பாட்டைப் பாதுகாப்பதில் அரசாங்கத்தின் அசைக்க முடியாத உறுதிப்பாட்டை ஜனாதிபதி உறுதியாக மீண்டும் வலியுறுத்தியதுடன், நாட்டின் கடற்றொழில் சமூகங்களுக்கு கச்சத்தீவின் மூலோபாய மற்றும் உணர்வுபூர்வமான முக்கியத்துவத்தை சுட்டிக்காட்டினார்.
-
-"கச்சத்தீவு நமது மீன்பிடி சமூகத்திற்கு மிகுந்த முக்கியத்துவம் வாய்ந்தது. தீவு தொடர்பில் பெரிய பொது விவாதம் எழுந்துள்ளது, இன்று அங்கு கடற்றொழிலாளர்களை சந்திக்க விரும்புகிறேன்.
-
-இலங்கையின் பொறுப்பு அதன் நிலப்பரப்பைத் தாண்டி கடல் எல்லைகள் மற்றும் வான்வெளியை உள்ளடக்கியது.
-
-நமது தீவுகள், நமது கடல் நமது வானம் அல்லது நமது நிலம், அவை நமது மக்களுக்குச் சொந்தமானவை. எதிர்கால சந்ததியினருக்காக அவற்றைப் பாதுகாக்க நாம் கடமைப்பட்டுள்ளோம்
-
-...
-
-[Data](articles/3f60b85a.json)
-
----
-
-### අගෝස්තුවේ සංචාරකයින් 198,235ක් මෙරටට ඇවිත්
-
-*2025-09-01 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214051) · `si`
-
-අගෝස්තු මාසය තුළ දී මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව 198,235ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරි පවසයි.
-
-මෙය පසුගිය වසරේ අගෝස්තු මාසයේදී පැමිණි සංඛ්‍යාවට සාපේක්ෂව 20.4%ක වැඩිවීමකි.
-
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය විසින් නිකුත් කරන ලද නවතම දත්තවලට අනුව, අගෝස්තු මාසයේදී ඉන්දියාවෙන් සංචාරකයින් 46,473ක් පැමිණ ඇති අතර එය 23.4% කි.
-
-තවද, එක්සත් රාජධානියෙන් 19,764ක්, ජර්මන් 12,500ක්, චීනයෙන් 12,294ක් සහ ප්‍රංශ ජාතිකයින් 10,495ක් ද අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට පැමිණ ඇත.
-
-ඒ අනුව, 2025 වසරේ ජනවාරි 01 වනදා සිට අගෝස්තු 31 දක්වා සංචාරක පැමිණීම් සංඛ්‍යාව 1,566,523කි.
-
-ඒ අතරින් සංචාරකයින් 325,595ක් ඉන්දියාවෙන්, 118,916ක් රුසියාවෙන් සහ 151,141ක් එක්සත් රාජධානියෙන් පැමිණි බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/b1fbce67.json)
-
----
-
-### Nearly 200,000 foreign tourist arrivals recorded in August
-
-*2025-09-01 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112081/nearly-200000-foreign-tourist-arrivals-recorded-in-august) · `en`
-
-A total of 198,235 tourists arrived in the country in August 2025, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
-
-This is an increase of 20.4% in comparison to the numbers arrived in August 2024.
-
-According to the latest data released by the SLTDA, a total of 46,473 tourists arrived from India in August which accounts to 23.4%. Furthermore, 19,764 persons from the United Kingdom, 12,500 from Germany, 12,294 from China and 12,247 Italian nationals have also visited Sri Lanka in the month of August.
-
-Accordingly, the total number of tourist arrivals in the first eight months of 2025 stands at 1,566,523.
-
-Among them, 325,595 individuals are from India, 151,141 from the UK and 118,916 are from the UK, the SLTDA noted.
-
-◼️
-
-[Data](articles/e25e6968.json)
-
----
-
-### 30 hospitalised following gas leak at Pussellawa Delta Estate Water Purification Plant
-
-*2025-09-01 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112080/30-hospitalised-following-gas-leak-at-pussellawa-delta-estate-water-purification-plant) · `en`
-
-A gas leak from an air duct at the water purification plant located within the Delta Estate, Pussellawa, has resulted in 30 individuals being hospitalized, police stated.
-
-The affected individuals have been admitted to the Gampola and Pussellawa hospitals.
-
-◼️
-
-[Data](articles/63ad4cbf.json)
-
----
-
-### Luxury passenger bus catches fire on Southern Expressway
-
-*2025-09-01 18:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112079/luxury-passenger-bus-catches-fire-on-southern-expressway) · `en`
-
-A passenger transport bus caught fire suddenly today (01) on the Southern Expressway, police stated.
-
-The bus, a luxury coach, was traveling from Galle to Kaduwela when the fire broke out.
-
-The incident occurred near the Kahathuduwa expressway exit, reportedly due to a mechanical fault in the vehicle.
-
-However, before the fire spread, the driver and conductor managed to evacuate all passengers safely from the bus.
-
-At the time of the fire, there were 41 passengers on board, according to reports.
-
-◼️
-
-[Data](articles/1b07321e.json)
 
 ---

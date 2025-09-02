@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 23:07:15**
+As of **2025-09-02 23:18:55**
 
 ## Newspaper Stats
 
-*Scraped **73,781** Articles*
+*Scraped **73,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,533
 dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,118
-adaderanalk | 9,408
+adaderanalk | 9,409
 tamilmirrorlk | 10,974
 virakesarilk | 12,068
 adaderanasinhalalk | 12,816
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,781 articles have been extended.
+61,973 (84.0%) of 73,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### Sri Lanka’s Foreign Minister briefs diplomatic community ahead of UNHRC session
+
+*2025-09-02 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112115/sri-lankas-foreign-minister-briefs-diplomatic-community-ahead-of-unhrc-session) · `en`
+
+Foreign Minister Vijitha Herath briefed the Colombo-based Diplomatic Corps today (September 02) at the Ministry on the latest developments in Sri Lanka.
+
+During the briefing, he requested the international community to acknowledge the progress made by Sri Lanka and to engage in constructive dialogue, the Ministry of Foreign Affairs of Sri Lanka said in a statement.
+
+Senior officials from the Ministry of Justice & National Integration, the Attorney General’s Department, the Office on Missing Persons (OMP), the Office for Reparations (OR), the Office for National Unity and Reconciliation (ONUR), and the Office for Overseas Sri Lankans were also present.
+
+◼️
+
+[Data](articles/d97c368a.json)
+
+---
 
 ### වීසා නොලැබීමෙන් ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන්ගේ ආසියානු කරාතේ සිහිනය බොඳවෙයි
 
@@ -1825,23 +1841,5 @@ The Colombo Stocks Exchange was trading in green; The ASPI was up 0.28 percent, 
 ...
 
 [Data](articles/746f6a69.json)
-
----
-
-### President to launch multiple development projects in North for second consecutive day
-
-*2025-09-02 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112095/president-to-launch-multiple-development-projects-in-north-for-second-consecutive-day) · `en`
-
-President Anura Kumara Dissanayake is scheduled to inaugurate and participate in several development programmes in the Northern Province today (02), marking the second consecutive day of such initiatives, according to the Presidential Media Division.
-
-Coinciding with the World Coconut Day, President Dissanayake will preside over the launch of the “Ratama Saru Karai Nirathuru – Kapthuru Saviya” Northern Coconut Triangle project this morning in Puthukkudiyiruppu.
-
-The programme, which begins with the objective of cultivating 16,000 acres of coconut in the Northern Province by 2025, is expected to expand to 50,000 acres by 2027.
-
-Alongside this initiative, the first model coconut garden in the North will be launched in Palai under the patronage of the President. The President will also inaugurate a coconut-based products exhibition organized by the Coconut Development Authority, held near Puthukkudiyiruppu Central College.
-
-...
-
-[Data](articles/bdd7fc0b.json)
 
 ---

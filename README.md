@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-02 13:19:09**
+As of **2025-09-02 13:32:39**
 
 ## Newspaper Stats
 
-*Scraped **73,710** Articles*
+*Scraped **73,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,219
 adalk | 7,107
 adaderanalk | 9,397
-tamilmirrorlk | 10,962
+tamilmirrorlk | 10,963
 virakesarilk | 12,062
 adaderanasinhalalk | 12,797
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.1%) of 73,710 articles have been extended.
+61,973 (84.1%) of 73,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-02 (Tuesday)
+
+### “அழைத்தால் செல்வேன்”
+
+*2025-09-02 13:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழைத்தால்-செல்வேன்/175-363903) · `ta`
+
+ஐக்கிய தேசியக் கட்சி மாநாட்டிற்கு அழைப்பிதழ் கொடுக்கப்பட்டால், கட்சியினருடன் கலந்துரையாடி பின்னர் அங்கு செல்வேன் என்று ஹம்பாந்தோட்டை மாவட்ட பாராளுமன்ற உறுப்பினரும், ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளருமான நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சியின் மாநாடு கொழும்பு கண்காட்சி மற்றும் மாநாட்டு மண்டபத்தில், எதிர்வரும் 6 ஆம் திகதி நடைபெற உள்ளது.
+
+◼️
+
+[Data](articles/bb795dc0.json)
+
+---
 
 ### ஓய்வுபெற்ற அரச உத்தியோகத்தர்கள் ஆர்ப்பாட்டம் !
 
@@ -1727,19 +1741,5 @@ Earlier today, the programme to develop the Jaffna Library into an e-library was
 ...
 
 [Data](articles/e5c59aee.json)
-
----
-
-### ரயிலுடன் மோதிய லொறி : சிறுமி உட்பட 3 பேர் காயம்
-
-*2025-09-01 22:20:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோதிய-லொறி-சிறுமி-உட்பட-3-பேர்-காயம்/175-363878) · `ta`
-
-கொழும்பு கோட்டையிலிருந்து யாழ்ப்பாணம் நோக்கிச் சென்ற ரயிலில், சிறிய ரக லொறி ஒன்று மோதி விபத்துக்குள்ளாகியுள்ளது.
-
-வவுனியா தெற்கு பிரதேச செயலகத்திற்கு அருகிலுள்ள ரயில் கடவையில் இடம்பெற்ற இவ்விபத்தில் சிறுமி உட்பட 3 பேர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக வவுனியா பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/27ea6c2b.json)
 
 ---

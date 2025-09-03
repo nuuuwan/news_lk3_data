@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 01:18:17**
+As of **2025-09-04 01:32:51**
 
 ## Newspaper Stats
 
-*Scraped **74,008** Articles*
+*Scraped **74,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,152
 adaderanalk | 9,441
-tamilmirrorlk | 11,011
+tamilmirrorlk | 11,014
 virakesarilk | 12,103
 adaderanasinhalalk | 12,858
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,008 articles have been extended.
+61,973 (83.7%) of 74,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### யாழ்ப்பாண நீதிபதிகளில் மூவருக்கு மேல்நீதிமன்ற நீதிபதிகளாக நியமனம்
+
+*2025-09-04 01:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-நீதிபதிகளில்-மூவருக்கு-மேல்நீதிமன்ற-நீதிபதிகளாக-நியமனம்/175-364001) · `ta`
+
+நீதிபதிகளான A.A. ஆனந்தராஜா  , அந்தோனிப்பிள்ளை யூட்சன்  மற்றும் கஜநிதிபாலன்  ஆகியோர் மேல் நீதின்ற ( High Court) நீதிபதிகளாக  ஜனாதிபதி  அனுரகுமார திசநாயக்கா அவர்களால் நியமிக்கப்பட்ட உள்ளனர் என.
+
+◼️
+
+[Data](articles/1cfcb73c.json)
+
+---
+
+### புலமைப்பரிசில் பரீட்சை பெறுபேறுகள் வெளியாகின
+
+*2025-09-04 01:14:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-பெறுபேறுகள்-வெளியாகின/175-364000) · `ta`
+
+◼️
+
+[Data](articles/62d8b30a.json)
+
+---
+
+### புலமைப்பரிசில் வெட்டுபுள்ளிகள்!
+
+*2025-09-04 01:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-வெட்டுபுள்ளிகள்/175-363999) · `ta`
+
+◼️
+
+[Data](articles/baad7752.json)
+
+---
 
 ### ශිෂ්‍යත්ව ප්‍රතිඵල මත කඩඉම් ලකුණු
 
@@ -1769,53 +1801,5 @@ During the session, discussions focused on preparing plans to promote the touris
 ◼️
 
 [Data](articles/fa69727c.json)
-
----
-
-### හිටපු මන්ත්‍රී ගම්මන්පිල අත්අඩංගුවට ගැනීමේ සූදානමක් ? ඔහු සැගවී නොමැති බවටත් ප්‍රකාශයක්
-
-*2025-09-03 12:41:11* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මන්ත්‍රී-ගම්මන්පිල-අත්අඩංගුවට-ගැනීමේ-සූදානමක්---ඔහු-සැගවී-නොමැති-බවටත්-ප්‍රකාශයක්/11-418255) · `si`
-
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා අත්අඩංගුවට ගැනීමේ සූදානමක් ගැන එම පක්ෂයේ මධ්‍යමකාරක සභිකයින් විසින් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාව දැනුම්වත් කිරීමට අද(03දා) කටයුතු කළේය.
-
-ඉන් අනතුරුව පිවිතුරු හෙළ උරුමයේ මධ්‍යම කාරක සභික තිළිණ පීරිස් මහතා මාධ්‍ය වෙත මෙලෙස අදහස් දක්වා සිටියේය.
-
-“මේ වෙද්දිත් උදය ගම්මන්පිල මහතාව අයි.සී.සී.පී.ආර් පනත යට​තේ අත්අඩංගුවට ගැනීමේ යම් සූදානමක් තියෙනවා. ආණ්ඩුවේ යම් අඩුපාඩු පෙන්වා දෙන චරිත නිශ්ශබ්ද කිරීමට  මේ ආණ්ඩුව ගෙනයන ක්‍රියාමාර්ගය පිළිබඳ අපි අපේ විරෝධය පළ කරනවා. අපි ඒ සම්බන්ධවත්, අයි.සී.සී.පී.ආර් පනත යට​තේ සිදුවන ක්‍රියාවලිය පිළිබඳවත් විපක්ෂනායකතුමාව දැනුවත් කළා. විපක්ෂනායතුමා ඒ සම්බන්ධයෙන් ඉතා හොඳ ප්‍රතිචාරයක් දැක්වූවා. ”
-
-පිළිතුර - හැංගිලා නැහැ. ඇත්තටම එතුමාගේ උසස් අධ්‍යාපන කටයුතු සඳහා තමයි එතුමා විදේශගත වෙලා ඉන්නේ. ඒ අතරතුර තමයි අපි දැනුවත් වෙන්නේ මෙවැනි කටයුත්තක් සිදුවෙනවා කියලා. ඒ සම්බන්ධව මේ වෙද්දි අපි අධිකරණය දැනුවත් කරලා අපි පෙත්සමක් ඉදිරිපත් කරලා තියෙනවා. ලබන සතියේ එතුමා අනිවාර්යෙන් ලංකාවට එනවා. සැප්තැම්බර් 10 වැනිදා වගේ දවසක.
-
-◼️
-
-[Data](articles/8871941c.json)
-
----
-
-### உங்களுக்கு முன்னுக்கும் எனக்கு பின்னுக்கும் ‘புஷ்’
-
-*2025-09-03 12:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/உங்களுக்கு-முன்னுக்கும்-எனக்கு-பின்னுக்கும்-புஷ்/62-363955) · `ta`
-
-ஐக்கிய மக்கள் சக்தி மற்றும் ஐக்கிய தேசியக் கட்சி என பெயரிடப்பட்ட மிதிவண்டிகளை நகர்த்துவதற்கு தீவிரமாக சிரமப்படும் இரண்டு அரசியல்வாதிகளை சித்தரிக்கிறது. அதில் ஒருவர் ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச, மற்றையவர் ஐக்கிய தேசியக் கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க ஆவார்.
-
-முன்னோக்கி மிதிவண்டியை நகர்த்துவதற்கு பதிலாக, இரண்டு நபர்களும் போராட்டத்தில் சிக்கிக் கொள்கிறார்கள் - அவர்களின் முகங்கள் முயற்சியால் சுழன்றன, அவர்களின் உடல்கள் பதற்றமடைந்தன, ஆனாலும் அவர்களின் பைக்குகள் இருந்த இடத்திலேயே சிக்கிக் கொண்டன.
-
-◼️
-
-[Data](articles/d54e5152.json)
-
----
-
-### Ex- IGP Pujith Jayasundara released in case filed over alleged assault of lift operator
-
-*2025-09-03 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112133/ex-igp-pujith-jayasundara-released-in-case-filed-over-alleged-assault-of-lift-operator) · `en`
-
-The Colombo Fort Magistrate’s Court today (03) ordered the release of former Inspector General of Police (IGP) Pujith Jayasundara from the case filed over the alleged assault of a lift operator at the Police Headquarters.
-
-The former IGP was accused of assaulting a lift operator at the Police headquarters in 2017.
-
-Former IGP Pujith Jayasundara was arrested by the Criminal Investigations Department (CID) over the incident.
-
-◼️
-
-[Data](articles/a10550ce.json)
 
 ---

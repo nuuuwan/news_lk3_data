@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 06:08:00**
+As of **2025-09-03 06:33:38**
 
 ## Newspaper Stats
 
-*Scraped **73,785** Articles*
+*Scraped **73,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,284 @@ dbsjeyarajcom | 623
 bbccomsinhala | 677
 colombotelegraphcom | 754
 economynextcom | 4,495
-islandlk | 4,533
+islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,221
+dailyftlk | 5,235
 adalk | 7,118
 adaderanalk | 9,409
-tamilmirrorlk | 10,974
+tamilmirrorlk | 10,975
 virakesarilk | 12,069
-adaderanasinhalalk | 12,816
+adaderanasinhalalk | 12,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,785 articles have been extended.
+61,973 (84.0%) of 73,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### Discussion to reform domestic apparel tariff
+
+*2025-09-03 06:04:14* · [`dailyftlk`](https://www.ft.lk/business/Discussion-to-reform-domestic-apparel-tariff/34-781164) · `en`
+
+The Ceylon United Business Alliance (CUBA) recently initiated a fruitful discussion with Deputy Minister Cathuranga Abeysinghe regarding reforms on apparel-related tariffs, with particular focus on the adjustment of the Apparel Cess, VAT, and Cess on fabrics.
+
+During the discussion, the Minister highlighted the importance of presenting clear facts and figures on the following areas: Sustainability of the industry – ensuring the long-term competitiveness and growth of the domestic apparel sector; tariff comparison with neighbouring countries – analysing how Sri Lanka’s tariff structure measures against regional competitors, and impact on the economy – assessing the direct and indirect effects of tariff adjustments on employment, exports, and investment.
+
+This engagement marks an important step in addressing key challenges faced by the apparel industry and identifying reforms that would strengthen its contribution to the national economy.
+
+...
+
+[Data](articles/533ea8d8.json)
+
+---
+
+### Cargills strengthens rural Sri Lanka through educational scholarships and community development projects
+
+*2025-09-03 06:03:11* · [`dailyftlk`](https://www.ft.lk/business/Cargills-strengthens-rural-Sri-Lanka-through-educational-scholarships-and-community-development-projects/34-781163) · `en`
+
+Cargills (Ceylon) PLC recently presented educational scholarships to students from farming communities at a ceremony held on 29 August, an initiative that part of the Cargills Sarubima program. The event was attended by Agriculture, Livestock, Land, and Irrigation Minister
+
+K.D. Lal Kantha, as the Chief Guest, along with Secretary to the Ministry D.P. Wickramasinghe, members of the media, distinguished invitees from international development organisations, and Directors and senior management of Cargills.
+
+...
+
+[Data](articles/e3d0fe90.json)
+
+---
+
+### අද කාලගුණය - අද හිරු මුදුන්වන ප්‍රදේශ මෙන්න
+
+*2025-09-03 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214098) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (03) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු-මැද සහ වයඹ පළාත්වලත් සහ හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක් තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මේ අතර දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ දැක්වෙයි.
+
+අද දහවල් 12:09ට මාරවිල, දම්පැලැස්ස, මාවතගම, උකුවෙල සහ කල්මුණේ ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
+
+◼️
+
+[Data](articles/1354622d.json)
+
+---
+
+### Israel and the undermining of pluralist Sri Lanka
+
+*2025-09-03 05:56:39* · [`dailyftlk`](https://www.ft.lk/columns/Israel-and-the-undermining-of-pluralist-Sri-Lanka/4-781162) · `en`
+
+Israel seems intent on keeping Sri Lanka as a plaint provider of manual labour and a willing recipient of unruly tourists (including possible war criminals)
+
+“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
+
+Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
+
+...
+
+[Data](articles/4251b549.json)
+
+---
+
+### Family, inheritance and identity: Can UNP and SJB reconcile?
+
+*2025-09-03 05:50:43* · [`dailyftlk`](https://www.ft.lk/columns/Family-inheritance-and-identity-Can-UNP-and-SJB-reconcile/4-781161) · `en`
+
+The upcoming United National Party (UNP) annual convention this Saturday (6 September 2025) will be unlike any other in its long history. It will be the first major event organised by an Opposition party since Ranil Wickremesinghe’s arrest and release, and the UNP is expected to use the heightened public and media attention to its advantage.
+
+Wickremesinghe’s planned “special announcement” alone would give the convention weight, but this year’s meeting is significant for more than optics and symbolism. For the first time in years, circumstances appear to have created the space for dialogue between the UNP and the Samagi Jana Balawegaya (SJB). The fact that Wickremesinghe has invited former presidents Mahinda Rajapaksa and Maithripala Sirisena further underlines the attempt to shape this gathering not only as a party event, but as a forum for broader Opposition realignment – and potential alliance building.
+
+...
+
+[Data](articles/c048faa8.json)
+
+---
+
+### Journey from war-torn Sri Lanka to Berlin
+
+*2025-09-03 05:44:46* · [`dailyftlk`](https://www.ft.lk/opinion/Journey-from-war-torn-Sri-Lanka-to-Berlin/14-781160) · `en`
+
+I was born in Pavatkulam Unit Two, a small Muslim village in Vavuniya, in the north of Sri Lanka. Life there was simple and rooted in the rhythms of land and water. Our homes stood between a great village tank and vast paddy fields that fed us. Most families were farmers, some fishermen, and together we formed a close-knit community of about 400 Muslim households.
+
+My father, the GS village headman, was a man of respect and responsibility. I was the sixth of his children. My earliest memories are of running through the fields barefoot, helping at harvest, praying at the mosque, and returning home to the smell of wood-fired meals. Childhood was untroubled—or so it seemed. None of us imagined how quickly innocence could shatter.
+
+...
+
+[Data](articles/1d16498d.json)
+
+---
+
+### Entitlement mentality of national leaders must give way to empathy, sensitivity and morality
+
+*2025-09-03 05:38:57* · [`dailyftlk`](https://www.ft.lk/columns/Entitlement-mentality-of-national-leaders-must-give-way-to-empathy-sensitivity-and-morality/4-781159) · `en`
+
+The ‘RW incident’ highlights the urgent and critical need for Sri Lanka’s leaders to align their actions with the economic reality of the country and the lived experience of its citizens
+
+The hullabaloo over whether Ranil Wickremesinghe (RW) misused public funds when he extended his official trip to Cuba and the United States of America to attend a convocation ceremony at the University of Wolverhampton where his wife received an honorary degree has consumed significant amounts of media space and has attracted various comments, observations and views in support of, and against, RW. What is obvious from the comments and the views expressed is that, just like beauty is in the eyes of the beholder, our view of right and wrong is based more on our like or dislike of the individual under scrutiny than an objective interpretation of the facts and the principles.
+
+...
+
+[Data](articles/64ccf5c8.json)
+
+---
+
+### How to react to remanding of politicians
+
+*2025-09-03 05:30:59* · [`dailyftlk`](https://www.ft.lk/columns/How-to-react-to-remanding-of-politicians/4-781157) · `en`
+
+Social media is an indicator of “public opinion.” The quotation marks are there to indicate the imperfection of the indicator, privileging the most shrill and polarising voices. But it’s an indicator nevertheless, one that cannot be ignored.
+
+I could see that I was not winning popularity contests by pointing to the procedural flaws in the arrest of President Wickremesinghe. But the reactions reached a new level when I reposted a statement that former parliamentarian Nimal Lanza had been remanded for an alleged assault in 2006. Now the mobs were beginning to form. Fake expressions of disappointment about how I had fallen from my pedestal began to appear.
+
+...
+
+[Data](articles/00e7a123.json)
+
+---
+
+### செம்மணியில் மேலும் 04 எலும்புக்கூடுகள் அடையாளம்
+
+*2025-09-03 05:28:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-மேலும்-04-எலும்புக்கூடுகள்-அடையாளம்/175-363932) · `ta`
+
+யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது 04 எலும்புக்கூடுகள்  அடையாளம் காணப்பட்டுள்ளன.
+
+மேலும் செம்மணிப் புதைகுழியில் கட்டம் கட்டமாக இடம்பெற்ற ஆய்வுகள் 50 நாள்களை எட்டியுள்ளன.
+
+நேற்றைய அகழ்வின் போது 04 மனித எலும்புக்கூட்டு  தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித எலும்புக்கூட்டு  தொகுதிகளின் எண்ணிக்கை 222ஆக அதிகரித்துள்ளது.
+
+மேலும் ஏற்கனவே அடையாளம் காணப்பட்ட 8 மனித எலும்புக்கூட்டு  குதிகள் நேற்று அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை 206 மனித எலும்புக்கூட்டு தொகுதிகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/b2af3ed2.json)
+
+---
+
+### Foreign Minister engages diplomatic community on Sri Lanka’s progress
+
+*2025-09-03 05:25:28* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-engages-diplomatic-community-on-Sri-Lanka-s-progress/56-781156) · `en`
+
+Foreign Minister Vijitha Herath yesterday briefed Colombo-based members of the Diplomatic Corps at the Ministry of Foreign Affairs on current developments in Sri Lanka, calling for recognition of the progress achieved and urging partners to engage in constructive dialogue.
+
+The session, attended by senior officials from the Justice and National Integration Ministry, the Attorney General’s Department, the Office on Missing Persons (OMP), the Office for Reparations (OR), the Office for National Unity and Reconciliation (ONUR), and the Office for Overseas Sri Lankans, highlighted key reforms and ongoing national initiatives.
+
+Minister Herath stressed the Government’s commitment to addressing long-standing issues, while deepening engagement with the international community to build trust and cooperation.
+
+A short video of the meeting has also been shared with the diplomatic missions for reference.
+
+◼️
+
+[Data](articles/2a2e5e4f.json)
+
+---
+
+### Suspect posing as journalist arrested in alleged plot to assassinate ‘Harak Kata’
+
+*2025-09-03 05:22:49* · [`dailyftlk`](https://www.ft.lk/news/Suspect-posing-as-journalist-arrested-in-alleged-plot-to-assassinate-Harak-Kata/56-781154) · `en`
+
+Police yesterday arrested a suspect linked to underworld figure “Bako Saman” in Maharagama, over an alleged plot to assassinate Nadun Chinthaka, alias “Harak Kata.”
+
+According to the Western Province North Crimes Division, the suspect, an employee of a State institution had planned the attack under the instructions of underworld figure “Kehelbaddara Padme”.
+
+Investigators said the man had intended to disguise himself as a journalist to infiltrate a Court premises, where Harak Kata is being held in custody.
+
+At the time of arrest, Police recovered a revolver and a destroyed video camera, believed to have been intended as part of the disguise.
+
+Further investigations are underway to determine the extent of the plot and the involvement of other parties.
+
+◼️
+
+[Data](articles/342ada12.json)
+
+---
+
+### President visits Katchatheevu Island
+
+*2025-09-03 05:22:21* · [`dailyftlk`](https://www.ft.lk/news/President-visits-Katchatheevu-Island/56-781153) · `en`
+
+President Anura Kumara Disanayake capped off a busy visit to Jaffna on Monday with an inspection tour of Katchatheevu in a bid to affirm Sri Lanka’s sovereign claim over the island. Across the Palk Straits, Tamil Nadu politicians are ratcheting up the rhetoric opposing Sri Lanka’s claim. Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Public Security and Parliamentary Affairs Minister Ananda Wijepala, and Sri Lanka Navy Northern Naval Area Commander Rear Admiral Buddhika Liyanagamage joined the President.
+
+◼️
+
+[Data](articles/5be7d799.json)
+
+---
+
+### Italy’s Deputy FM in Sri Lanka tomorrow
+
+*2025-09-03 05:21:02* · [`dailyftlk`](https://www.ft.lk/news/Italy-s-Deputy-FM-in-Sri-Lanka-tomorrow/56-781152) · `en`
+
+The Foreign Ministry yesterday said Italy’s Deputy Foreign Minister Maria Tripodi will be in Sri Lanka from tomorrow for a three-day official visit.
+
+According to the ministry, this will be the highest-level Italian visit to Colombo in nearly 10 years.
+
+During her stay, Tripodi and Deputy Foreign Minister Arun Hemachandra will jointly chair the first round of Sri Lanka–Italy Political Consultations. The two Governments are expected to sign a Memorandum of Understanding (MoU) to formalise a mechanism for regular political dialogue.
+
+Tripodi is also scheduled to meet Prime Minister Harini Amarasuriya and hold talks with Foreign Minister Vijitha Herath.
+
+◼️
+
+[Data](articles/6f325172.json)
+
+---
+
+### Fort Railway Station to get ADB-fund Rs. 1.3 b upgrade
+
+*2025-09-03 05:17:44* · [`dailyftlk`](https://www.ft.lk/news/Fort-Railway-Station-to-get-ADB-fund-Rs-1-3-b-upgrade/56-781151) · `en`
+
+The Transport, Highways, Ports and Civil Aviation Ministry yesterday said that the Colombo Fort Railway Station will undergo a Rs. 1.3 billion renovation financed by the Asian Development Bank (ADB).
+
+According to the Ministry, tenders have already been invited, and the project is scheduled for completion within 15 months.
+
+The redevelopment will convert the Fort Railway Station into a modern transport hub with upgraded facilities, with work expected to begin before the end of this year.
+
+◼️
+
+[Data](articles/1dac74a0.json)
+
+---
+
+### Litro Gas keeps prices steady for Sept.
+
+*2025-09-03 05:16:42* · [`dailyftlk`](https://www.ft.lk/news/Litro-Gas-keeps-prices-steady-for-Sept/56-781150) · `en`
+
+Litro Gas Lanka Ltd. yesterday announced that domestic gas prices will remain unchanged for September.
+
+The company said a 12.5 kg cylinder will continue to be sold at Rs. 3,690, while the prices of 5 kg and 2.3 kg cylinders would remain unchanged at Rs. 1,482 and Rs. 694, respectively.
+
+Litro said the decision was made following its regular monthly review under the existing pricing formula.
+
+◼️
+
+[Data](articles/5f8f1b6c.json)
+
+---
+
+### UNP postpones anniversary celebration citing Ranil’s health
+
+*2025-09-03 05:16:16* · [`dailyftlk`](https://www.ft.lk/news/UNP-postpones-anniversary-celebration-citing-Ranil-s-health/56-781149) · `en`
+
+The United National Party (UNP) has postponed its 79th anniversary celebration, which was scheduled for Saturday (6), citing the health condition of former President Ranil Wickremesinghe.
+
+UNP General Secretary Thalatha Athukorale said the decision was taken by the party’s management committee, which met in Colombo yesterday.
+
+She said the event will be rescheduled for later this month.
+
+Athukorale added that the decision was made following medical advice given to Wickremesinghe and on the request of party committee members.
+
+◼️
+
+[Data](articles/375742f2.json)
+
+---
 
 ### SLPP seeks Maha Sangha’s support over harassment of war heroes
 
@@ -67,6 +327,52 @@ The assumption of elite impunity was built on decades of precedent. This reached
 ---
 
 ### 2025-09-02 (Tuesday)
+
+### Profit-takings stymie stock market’s positive proclivities
+
+*2025-09-02 22:15:00* · [`islandlk`](http://island.lk/profit-takings-stymie-stock-markets-positive-proclivities/) · `en`
+
+CSE trading on the floor kicked off on a positive note yesterday but subsequently technical profit- takings moved the market downwards.
+
+Amid those developments both indices declined. The All Share Price Index went down by 55.99 points, while the S and P SL20 declined by 29.1 points. Turnover stood at Rs 7.5 billion with12 crossings.
+
+Some of those crossings were reported in Alumax, where 71.2 million shares crossed to the tune of Rs 1.2 billion; its shares traded at Rs 18, E.B Creasy 2.8 million shares crossed to the tune of Rs 182 million and its shares sold at Rs 65, Aitken Spence 41000 shares crossed to the tune of Rs 96.1 million; its shares traded at Rs 150, Sunshine Holdings three million shares crossed for Rs 91.5 million; its shares sold at Rs 30.5, Haylays Leisure 1.5 million shares crossed for Rs 58.1 million; its shares traded at Rs 38.
+
+...
+
+[Data](articles/230cd22f.json)
+
+---
+
+### Omega Line Toastmasters installs new leadership at “Ignite the Legacy” ceremony
+
+*2025-09-02 22:15:00* · [`islandlk`](http://island.lk/omega-line-toastmasters-installs-new-leadership-at-ignite-the-legacy-ceremony/) · `en`
+
+The Omega Line Toastmasters Club ushered in a new era recently with the installation of its 2025/26 Executive Committee at a ceremony held at the Jetwing Blue in Negombo. The event, themed “Ignite the Legacy,” celebrated the club’s rich history of success while laying the foundation for future growth.
+
+TM Felix Fernando, the club’s Charter President and CEO/Managing Director of Omega Line Ltd, who continues to be the guide of the club members’ journey to success, Chief Guest Dr. Riyad Ismail, and Guest of Honor DTM Niroshan Nadarajah – District Director of District 82 together with many district, division, and area officers of the Toastmasters club graced the occassion.
+
+...
+
+[Data](articles/5a5c4420.json)
+
+---
+
+### CEAT kicks off the next big move in Off Highway mobility
+
+*2025-09-02 22:14:00* · [`islandlk`](http://island.lk/ceat-kicks-off-the-next-big-move-in-off-highway-mobility/) · `en`
+
+CEAT Limited has made a substantial advancement in its Off-Highway Tyres (OHT) growth strategy by officially acquiring Michelin Group’s
+
+Midigama plant and Casting Product plant in Kotugoda. This transaction also grants CEAT global ownership of the CAMSO brand, which will be permanently assigned across categories after a three-year licensing period.
+
+CEAT’s acquisition of CAMSO brand marks a major milestone in its journey to becoming a leading global player in the high-margin OHT segment. Over the past decade, CEAT has built a strong agricultural portfolio, and with CAMSO’s expertise in compact construction equipment tracks and tyres, the combined strengths open doors to over 40 global OEMs and premium international OHT distributors. Michelin will exit from activities related to compact line bias tyres and construction tracks.
+
+...
+
+[Data](articles/d9bec9eb.json)
+
+---
 
 ### Sri Lanka’s Foreign Minister briefs diplomatic community ahead of UNHRC session
 
@@ -655,6 +961,24 @@ Elsewhere, Indian equity markets “reversed gains on Tuesday, as an expiry-driv
 ◼️
 
 [Data](articles/b4c3ef71.json)
+
+---
+
+### “Dream Destination” Programme Begins in Talpe
+
+*2025-09-02 15:56:00* · [`islandlk`](http://island.lk/dream-destination-programme-begins-in-talpe/) · `en`
+
+The first phase of the national programme “Dream Destination”, which aims to renovate 100 railway stations across the country, was launched today (02) at the Talpe Railway Station under the patronage of Deputy Minister of Transport and Highways Prasanna Gunasena.
+
+This initiative, implemented as a joint effort of the government, private sector and the public, seeks to rebrand Sri Lanka’s railway stations with a modern identity that aligns with international standards.
+
+The Ministry of Transport, Highways, Ports and Civil Aviation, together with the Clean Sri Lanka programme and private sector contributions, will oversee the modernization of 100 railway stations under this project.
+
+Deputy Minister Prasanna Gunasena emphasized that revitalizing the railway service is like awakening a “sleeping giant,” highlighting the government’s commitment to transforming public transport into a high-quality service.
+
+...
+
+[Data](articles/bcdd3a22.json)
 
 ---
 
@@ -1483,357 +1807,5 @@ Washington says Delhi has been indirectly funding Russia’s war in Ukraine.
 ...
 
 [Data](articles/43b40fc0.json)
-
----
-
-### ගිනිඅවි සහ බලපත්‍ර ගැන විශේෂ දැනුම්දීමක්
-
-*2025-09-02 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214072) · `si`
-
-ගිනිඅවි සහ බලපත්‍ර හිමි පුද්ගලයින්/ ආයතන 2026 වර්ෂය වෙනුවෙන් බලපත්‍ර අලුත් කිරීම සිදුකරන බව ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබේ.
-
-එය ඊයේ (01) දින සිට එනම් 2025.09.01 සිට 2025.12.31 දක්වා පමණක් සිදු කරනු ඇති බව සඳහන් වේ.
-
-පසුව සිදුකරන අලුත් කිරීම් සඳහා ප්‍රමාද ගාස්තු සහ නීතිමය ක්‍රියාමාර්ග ගැනීමට සිදුවන බව දැනුම් දී ඇත.
-
-ඒ සඳහා අදාළ තොරතුරු හා අයදුම්පත්‍ර ආරක්‍ෂක අමාත්‍යාංශයේ වෙබ් අඩවියෙන් www.defence.lk ලබාගත හැකිය.
-
-තුවක්කු ආඥාපනතේ 22 වන වගන්තියේ විධිවිධාන අනුව වලංගු බලපත්‍රයක් රහිතව ගිනිඅවියක් සන්තකයේ තබාගැනීම දඬුවම් ලැබිය හැකි වරදක් බව ද වැඩිදුරටත් දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/ff88d998.json)
-
----
-
-### ජනාධිපති ලේකම් කාර්යාලය ඉදිරිපිට විරෝධතාවක්
-
-*2025-09-02 11:38:43* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ලේකම්-කාර්යාලය-ඉදිරිපිට-විරෝධතාවක්/11-418223) · `si`
-
-ජනාධිපති ලේකම් කාර්යාලය ඉදිරිපිට විශ්‍රාමික රාජ්‍ය නිලධාරීන්ගේ විරෝධතාවයක් ආරම්භ කර ති​බේ.
-
-මේ හේතුවෙන් ලේකම් කාර්යාලය ඉදිරිපිට මාර්ල​යේ එක් මංතීරුවක අවහිර විය.
-
-මේ අතර, මීට සුළු මෙහොතකට පෙර සාකච්ඡාවක් සඳහා ජනාධිපති ලේකම් කාර්යාලයෙන් ආරාධනයක් ලැබී ඇති අතර, ඒ අනුව විරෝධතාවයේ නිරත පිරිසෙන්  කිහිපදෙනෙකු ජනාධිපති ලේකම් කාර්යාලය ගොස් තිබේ.
-
-◼️
-
-[Data](articles/ba8271e4.json)
-
----
-
-### அரசாங்க வைத்திய அதிகாரிகள் சங்கம் வேலைநிறுத்தம்
-
-*2025-09-02 11:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-வைத்திய-அதிகாரிகள்-சங்கம்-வேலைநிறுத்தம்/175-363896) · `ta`
-
-இரத்தினபுரி போதனா வைத்தியசாலையில் அரசாங்க வைத்திய அதிகாரிகள் சங்கம் (GMOA) இன்று அடையாள வேலைநிறுத்தத்தை தொடங்கியது.
-
-வைத்தியசாலை பணிப்பாளரின் நடவடிக்கைகளுக்கு எதிர்ப்பு தெரிவித்து இந்த வேலைநிறுத்தம் நடத்தப்படுகிறது. இந்த பிரச்சினையில் நடவடிக்கை எடுப்பதாக சுகாதார அமைச்சகம் முன்னர் ஒப்புக்கொண்டதாகவும், ஆனால் இதுவரை எந்த நடவடிக்கையும் எடுக்கப்படவில்லை என்றும் GMOA தெரிவித்துள்ளது.
-
-இன்று காலை 8:00 மணிக்கு தொடங்கிய இந்த வேலைநிறுத்தம் நாளை காலை 8:00 மணி வரை தொடரும்.
-
-வேலைநிறுத்தத்தின் போது அவசர மற்றும் உயிர்காக்கும் சேவைகள் வழங்கப்படும் என்று GMOA தெரிவித்துள்ளது. இருப்பினும், மருத்துவமனையில் வழக்கமான சிகிச்சை சேவைகள் அனைத்தும் பாதிக்கப்படும்.
-
-◼️
-
-[Data](articles/b4446c6c.json)
-
----
-
-### මේ වසරේ අල්ලස් නිසා අත්අඩංගුවට පත්වූ වැඩිම පිරිස පොලීසියේ
-
-*2025-09-02 11:37:42* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-අල්ලස්-නිසා-අත්අඩංගුවට-පත්වූ-වැඩිම-පිරිස-පොලීසියේ/11-418222) · `si`
-
-මේ වසරේ පළමු මාස 07 තුළ අල්ලස් ලබා ගැනීමේ සිද්ධීන් සම්බන්ධයෙන් පුද්ගලයින් 49 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසයි.
-
-අත්අඩංගුවට ගත් පුද්ගලයින් අතරින් වැඩිම පිරිසක් අත්අඩංගුවට ගෙන ඇත්තේ පොලිස් දෙපාර්තමේන්තුවෙන් වන අතර පොලිස් නිළධාරීන් 17 දෙනෙකු එහිදී අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
-
-ඊට අමතරව ගතවූ කාලය තුළ පුද්ගලයින් 27 දෙනෙකු අල්ලස් ලබාගැනීමේ සිද්ධීන් සම්බන්ධයෙන් අධිකරණ මගින් වරදකරුවන් කර ඇති බව ද සඳහන් වේ.
-
-◼️
-
-[Data](articles/6a7152ea.json)
-
----
-
-### ඇෆ්ගනිස්තාන භූ කම්පනයෙන් පීඩාවට පත් ජනතාවට රටවල් රැසකින් ආධාර
-
-*2025-09-02 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214071) · `si`
-
-ඇෆ්ගනිස්තානයේ ඇතිවූ ප්‍රබල භූකම්පන තත්ත්වයෙන් මේ වන විට මියගොස් ඇති පිරිස 800 සීමාව දක්වා ළඟා වී තිබේ.
-
-ඇෆ්ගනිස්තානයේ නැගෙනහිර ප්‍රදේශයේ ඊයේ (01) රික්ටර් මාපක 6.0 භූ කම්පන තත්ත්වයක් ඇති වූ අතර මේ හේතුවෙන් එරටට දැවැන්ත හානි සිදුවිය.
-
-මෙම භූකම්පන තත්ත්වයෙන් වැඩිම බලපෑමක් එල්ලවී ඇත්තේ එරට කඳුකර කූනාර් පළාතට වන අතර එහිදී මාර්ග අවහිර වීම හේතුවෙන් ගලවා ගැනීම් මෙහෙයුම් පවා සිදු කිරීම දැඩි දුශ්කර වී තිබුණි මේ හේතුවෙන් ගලවා ගැනීම් මෙහෙයුම් සිදුකළ හැකි වූයේ ගුවන් මගින් පමණක්ම විය.
-
-එරට බලධාරීන් සඳහන් කර ඇත්තේ භූ කම්පන තත්ත්වයෙන් පසු ගොඩනැගිලි කඩා වැටීම් හේතුවෙන් සුන්බුන් අතර තවදුරටත් සිර වී සිටින්නන් මුදා ගැනීම සඳහා මේ වන විටත් මෙහෙයුම් දියත් වෙමින් පවතින බවය.
-
-මේ හේතුවෙන් මියගිය පිරිස තවදුරටත් ඉහළ යා හැකි බවද එරට බලධාරීන් අනුමාන කරන අතර කුනාර් පළාතේ පිහිටි ගම්මානය ඇතිවූ භූකම්පනයෙන් සම්පූර්ණයෙන්ම විනාශ වී ඇතැයිද ඔවුන් සඳහන් කර තිබේ.
-
-කිලෝමීටර් 8ක් දක්වා ඇතිවූ මෙම භූ කම්පන තත්ත්වයෙන් කාබුල් සිට පාකිස්තාන අගනුවර වන ඉස්ලාමාබාද් දක්වා ගොඩනැගිලි සෙලවී ගොස් තිබුණි.
-
-...
-
-[Data](articles/1cf0de74.json)
-
----
-
-### “எஸ்.ஐ கூட உடலுறவு: 10 வருட காதலனுக்கு நேர்ந்த கொடூரம்
-
-*2025-09-02 11:34:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஐ-கூட-உடலுறவு-10-வருட-காதலனுக்கு-நேர்ந்த-கொடூரம்/175-363895) · `ta`
-
-பொலிஸ்காரன் பொண்டாட்டியா..? இல்ல, டிரைவர் பொண்டாட்டியா..? எது நல்லா இருக்கு..? என்ற யோசனையில் பொலிஸ்காரன் பொண்டாட்டி தான் நல்லா இருக்கிறது என முடிவு எடுத்து பத்து வருட காதலை குழி தோண்டி புதைத்து விட்டு தன்னுடைய காதலனை வார்த்தைகளால் புண்படுத்தி அந்த காதலனை தவறான முடிவு எடுக்க வைத்து தற்போது அந்த காதலனின் குடும்பத்தை நிர்கதியாக நிற்க வைத்து இருக்கிறாள் சங்கீதா என்ற ஒரு கொடூர அரக்கி
-
-10 ஆண்டுகளாக காதலித்துக் கொண்டிருந்த காதலனை கழட்டி விட்டுவிட்டு வசதிக்காகவும், அரசு அதிகாரி.. அதுவும் காவல் துறை அதிகாரியின் மனைவி என்ற பெயருக்காகவும் தன்னுடைய காதலை குழி தோண்டி புதைத்து.. காதலனை மிரட்டி.. மன்னிப்பே இல்லாத கொடுமையான பாவத்தை செய்திருக்கிறாள் சங்கீதா என்ற இளம் பெண். என்ன விஷயம் என்று விரிவாக பார்க்கலாம்.
-
-மயிலாடுதுறை மாவட்டம், தலைஞாயிறு கிராமத்தைச் சேர்ந்த சரத்குமார் (29) என்ற இளைஞர், குவைத்தில் டிரைவராக பணிபுரிந்து வந்தவர், கடந்த ஆகஸ்ட் 29 அன்று தான் தங்கியிருந்த அறையில் தூக்கிட்டு உயிரை மாய்த்துக் கொண்டார்.
-
-...
-
-[Data](articles/535c65d7.json)
-
----
-
-### Heavy traffic opposite Presidential Secretariat due to a protest
-
-*2025-09-02 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112098/heavy-traffic-opposite-presidential-secretariat-due-to-a-protest) · `en`
-
-Vehicular movement along the Galle road opposite the Presidential Secretariat has been obstructed owing to a protest staged by retired public servants, Ada Derana reporter said.
-
-Accordingly, the traffic flow along the lane of the Galle Road from the Galle Face Center Road towards Colpetty has been restricted.
-
-Meanwhile, according to Ada Derana reporter, six representatives from the group of protesting retired public servants have entered the Presidential Secretariat for a discussion with officials.
-
-◼️
-
-[Data](articles/1e390453.json)
-
----
-
-### වසර 10කට පසුව ඉතාලි රජයේ ඉහළම නියෝජිතයෙක් ලංකාවට
-
-*2025-09-02 11:19:41* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කට-පසුව-ඉතාලි-රජයේ-ඉහළම-නියෝජිතයෙක්-ලංකාවට/11-418221) · `si`
-
-ඉතාලියේ විදේශ කටයුතු සහ ජාත්‍යන්තර සහයෝගීතාව පිළිබඳ නියෝජ්‍ය අමාත්‍ය මරියා ට්‍රිපොඩි, 2025 සැප්තැම්බර් 03 සිට 05 වැනි දින දක්වා ශ්‍රී ලංකාවේ නිල සංචාරයක නිරත වනු ඇත. මෙය දශකයකට ආසන්න කාලයකට පසු ඉතාලියේ සිට ශ්‍රී ලංකාව වෙත සිදු කෙරෙන ඉහළම මට්ටමේ සංචාරය වේ.
-
-ඇයගේ සංචාරය අතරතුරදී, නියෝජ්‍ය අමාත්‍ය ට්‍රිපෝඩි, විදේශ කටයුතු සහ විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර සමඟ එක්ව ශ්‍රී ලංකා-ඉතාලි දේශපාලන උපදේශන සමාරම්භක සැසියේ සම-සභාපතිත්වය දරනු ඇත. එසේම, දේශපාලන උපදේශන යාන්ත්‍රණයක් ස්ථාපිත කිරීම පිළිබඳ අවබෝධතා ගිවිසුමක් අත්සන් කිරීමටද මෙම සංචාරය අතරතුරදී නියමිත අතර, ඒ ඔස්සේ දෙරට අතර සංවාදය සඳහා ව්‍යුහගත රාමුවක් සපයනු ඇත. දෙරට අතර රාජ්‍යතාන්ත්‍රික සබඳතා 1952 වසරේදී ස්ථාපිත කරන ලදී.
-
-නියෝජ්‍ය අමාත්‍ය ට්‍රිපොඩි, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවීමට සහ විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් සමඟ සාකච්ඡා පැවැත්වීමටද නියමිතය.
-
-◼️
-
-[Data](articles/7c37f90f.json)
-
----
-
-### இத்தாலியின் பிரதி வெளிவிவகார அமைச்சர் நாளை இலங்கை வருகிறார்
-
-*2025-09-02 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/223994) · `ta`
-
-இத்தாலியின் வெளிவிவகார மற்றும் சர்வதேச ஒத்துழைப்புக்கான பிரதி அமைச்சர் மரியா திரிபோடி நாளை புதன்கிழமை (03) இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொள்கிறார்.
-
-அவர் செப்டம்பர் மாதம் 5 ஆம் திகதி வரை நாட்டில் தங்கி இருப்பார் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சு அறிக்கை ஒன்றில் தெரிவித்துள்ளது.
-
-சுமார் ஒரு தசாப்த காலத்திற்கு பின்னர் இத்தாலியிலிருந்து இலங்கைக்கு மேற்கொள்ளப்படும் மிக உயர்ந்த மட்ட விஜயமாக  இந்த விஜயம் முக்கியத்துவம் வாய்ந்தது என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
-
-இந்த விஜயத்தின் போது, இலங்கை - இத்தாலி அரசியல் ஆலோசனைகளின் ஆரம்ப அமர்விற்கு வெளிவிவகார மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திரவுடன் இணைந்து இத்தாலிய பிரதி அமைச்சர் திரிபோடி தலைமை தாங்குவார்.
-
-இந்த விஜயத்தின் போது அரசியல் ஆலோசனை பொறிமுறையை நிறுவுவது குறித்த புரிந்துணர்வு ஒப்பந்தம் கையெழுத்திடப்பட உள்ளது, இது இரு நாடுகளுக்கும் இடையிலான கலந்துரையாடலுக்கான கட்டமைக்கப்பட்ட கட்டமைப்பை வழங்குகிறது.
-
-...
-
-[Data](articles/3f64940c.json)
-
----
-
-### සැප්තැම්බර් ලාෆ් ගෑස් මිල ස්ථාවරයි
-
-*2025-09-02 11:09:16* · [`adalk`](https://www.ada.lk/breaking_news/සැප්තැම්බර්-ලාෆ්-ගෑස්-මිල-ස්ථාවරයි/11-418220) · `si`
-
-මෙම මාසයේදී ලාෆ් ගෑස් මිල වෙනස් නොවන බව එම සමාගම පවසයි. ඒ අනුව කිලෝ ග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක මිල රු 4100ක් හා කිලෝ ග්‍රෑම් 05 ගෑස් සිලින්ඩරයක මිල රු 1645ක් ලෙස ස්ථාවර මිලක පවතිනු ඇත.
-
-◼️
-
-[Data](articles/135ecf1d.json)
-
----
-
-### විරෝධතාවයක් හේතුවෙන් ජනාධිපති ලේකම් කාර්යාලය අසල මංතීරුවක් අවහිරයි
-
-*2025-09-02 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214070) · `si`
-
-11.25 am - අද දෙරණ වාර්තාකරු පැවසුවේ මීට සුළු මෙහොතකට පෙර සාකච්ඡාවක් සඳහා විරෝධතාවයේ නියැලුනු පිරිසෙන් 6 දෙනෙකු ජනාධිපති ලේකම් කාර්යාලය ඇතුලට ගිය බවය.
-
-විශ්‍රාමික රාජ්‍ය නිලධාරීන්ගේ විරෝධතාවයක් හේතුවෙන් ජනාධිපති ලේකම් කාර්යාලය අසල එක් මංතීරුවක් අවහිර වී ඇතැයි 'අද දෙරණ' වාර්තාකරු පැවසීය.
-
-එලෙස අවහිර වී ඇත්තේ, ගෝල්ෆේස් සිට කොල්ලුපිටිය දෙසට වූ මංතීරුවයි.
-
-◼️
-
-[Data](articles/980980ed.json)
-
----
-
-### රැප් ගායන ශිල්පියෙක් පුපුරණ ද්‍රව්‍ය සමග අත්අඩංගුවට
-
-*2025-09-02 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214069) · `si`
-
-මීට දින කිහිපයකට ඉහතදී ව්‍යාජ පිස්තෝලයක් සමඟ අත්අඩංගුවට ගත් ජනප්‍රිය රැප් ගායන ශිල්පී මාධව ප්‍රසාද් නොහොත් 'මදුවා' නැමැත්තා පුපුරණ ද්‍රව්‍යය තොගයක් සමඟ නැවතත් අත්අඩංගුවට ගෙන තිබේ.
-
-එම සැකකරු සමග ජෙලග්නයිට් කූරු 3ක්, ඩෙටනේටර් 5ක් හා ඇමෝනියා නයිට්‍රේට් කිලෝ 3යි ග්‍රෑම් 500ක් පොලිස් භාරගත් බව කහතුඩුව පොලීසිය පවසයි.
-
-මෙම සැකකාර රැප් ගායකයා ඉකුත් අගෝස්තු මස 25 වෙනි දින ව්‍යාජ පිස්තෝලයක් සමග පොලිස් අත්අඩංගුවට පත්ව කැස්බෑව අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ඇපමත මුදාහැර තිබිණි.
-
-සැකකාර රැප් ගායකයා පදිංචි පිටිපන, ගලහේන ප්‍රදේශයේ නිවසක් පිටුපස පුපුරණ ද්‍රව්‍ය තොගයක් වළදමා ඇති බවට කහතුඩුව පොලීසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති උපපොලිස් පරීක්ෂක රජිත ගුරුසිංහ මහතාට ලද රහසිගත තොරතුරක් අනුව සැකකරු අත්අඩංගුවට ගෙන සිදුකළ ප්‍රශ්න කිරීමේදී මෙම පුපුරණ ද්‍රව්‍ය තොගය සොයාගැනීමට හැකිවූ බව පොලීසිය කියයි.
-
-...
-
-[Data](articles/606762a6.json)
-
----
-
-### ලස්සන ලයිට් දාපු බස් නිසා ඇතැම් සංචාරකයන් පීඩාවට
-
-*2025-09-02 10:52:44* · [`adalk`](https://www.ada.lk/breaking_news/ලස්සන-ලයිට්-දාපු-බස්-නිසා-ඇතැම්-සංචාරකයන්-පීඩාවට/11-418219) · `si`
-
-නුවරඑළියට සංචාරකයන් රැගෙන එන ඇතැම් බස් රථවල සවි කර ඇති අමතර එල්.ඊ.ඩී විදුලි ආලෝක සහ එම බස් රථවල සවි කර ඇති ඝෝෂාකාරි අධික ශබ්දය සහිත  බෆල් හේතුවෙන් රාත්‍රි කාලයේ නුවරඑලිය ග්‍රෙගරි වැව අසළ රථ ගාල්වල සංචාරය කරන දෙස් විදෙස් සංචාරකයන් පීඩාවට පත් වි ඇත.
-
-සංචාරකයන්ගේ ආකාර්ෂණය ලබා ගැනීම සදහා එම බස්රථ වල එල්.ඊ.ඩී විදුලි ආලෝක විශාල සංඛ්‍යාවක්  සවි කර අමතර ආලෝක රටා බස් රථය තුල ප්‍රදර්ශනය කරන අතර, එම බස් රථවල විදුලි උත්පාදක යන්ත්‍රයක් සහ ඩී.ජේ. සංගීතය ලබා දීමට අවශ්‍ය උපකරණද බස් රථ තුල සවි කර ඇත.
-
-එම බස් රථ ග්‍රෙගරි වැවේ රථ වාහන ගාල්වල රාත්‍රි කාලයේ ගාල් කර එම බස් රථවල පැමිණි සංචාරකයන්ට විනෝද වීම සදහා අවශ්‍ය පහසුකම් ලබා දී ඇත්තේ අනෙකුත් වාහන වල පැමිණෙන දෙස් විදෙස් සංචාරකයන්ට පීඩාවන අයුරින් බවයි නුවරඑලිය ප්‍රදේශවාසීන් කියා සිටින්නේ.
-
-මේ බස් රථ සදහා යම් සීමාවන් පැනවීමට වගවියයුතු නිළධාරින් කටයුතු කල යුතු බවද නුවරඑලිය ප්‍රදේශවාසීන් අදාළ බලධාරින්ගෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/fa9add6d.json)
-
----
-
-### Italy’s Deputy Foreign Minister to arrive in Sri Lanka tomorrow
-
-*2025-09-02 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112096/italys-deputy-foreign-minister-to-arrive-in-sri-lanka-tomorrow) · `en`
-
-Maria Tripodi, Deputy Minister for Foreign Affairs of Italy and International Cooperation, will undertake an official visit to Sri Lanka tomorrow (03).
-
-She will remain in Sri Lanka until September 5, the Ministry of Foreign Affairs, Foreign Employment and Tourism said in a statement.
-
-This visit is significant as it marks the highest-level incoming visit from Italy to Sri Lanka in almost a decade, the Foreign Ministry stated.
-
-During her visit, Deputy Minister Tripodi will co-chair, along with Arun Hemachandra, the Deputy Minister of Foreign Affairs and Foreign Employment, the inaugural session of the Sri Lanka–Italy Political Consultations.
-
-A Memorandum of Understanding on the Establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.
-
-...
-
-[Data](articles/55c13ca4.json)
-
----
-
-### කප්තුරු සවිය ජාතික වැඩසටහන ජනපති ප්‍රධානත්වයෙන් ඇරඹෙයි
-
-*2025-09-02 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214068) · `si`
-
-කප්තුරු සවිය ජාතික වැඩසටහන ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මේ වනවිට ආරම්භ වී තිබේ.
-
-එම වැඩසටහන මුලතිව්, පුදුකුඩිඉරුප්පු කන්ද සාමි කෝවිලේදී ආරම්භ වී ඇත.
-
-◼️
-
-[Data](articles/63fd0fe2.json)
-
----
-
-### පොල් වත්තකට ඇතුළු වී පොල් සොරකම් කළ පුද්ගලයෙකුට වෙඩි
-
-*2025-09-02 10:37:16* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-වත්තකට-ඇතුළු-වී-පොල්-සොරකම්-කළ-පුද්ගලයෙකුට-වෙඩි/11-418218) · `si`
-
-මාතලේ කොහොළන්වල හුණුපිටිය මඩවලඋල්පත ප්‍රදේශයේ පොල් වත්තකට අනවසරෙන් ඇතුල් වී පොල් සොරකම් කිරීමට තැත් කළ පුද්ගලයකුට එම වත්තෙහි මුරකරු විසින් වෙඩි තැබීමෙන් අදාල සැකකරු තුවාල ලබා මාතලේ දිස්ත්‍රික් මහා රෝහල වෙත අද (02) දින ඇතුළත් කර ඇතැයි මහවෙල පොලිසිය පවසයි.
-
-මාතලේ කොහොළන්වල ප්‍රදේශයේ පිහිටි අක්කර 20 ක පමණ  පොල් වත්තක පොල් සොරකම් කිරීම සඳහා එම ප්‍රදේශයේම පදිංචි පුද්ගලයින් දෙදෙනෙකු අනවසරයෙන් එම වත්තට ඇතුල්වී ගෝනි දෙකකට  පොල් එකතු කරමින් සිටින අවස්ථාවේදී එම  වත්තේ මුරකරු විසින් එම පුද්ගලයින් දෙසට එල්ල කරන ලද වෙඩි පහරින් එක් අයකුට වෙඩි වැදී ඇතැයි පොලිසිය කියයි.
-
-වෙඩි වැදුණු අදාල සැකකාර පුද්ගලයා වෙඩි වැදීමෙන් පසු මීටර් පන්සීයක් පමණ දිව ගොස් කොහොලන්වල ප්‍රධාන මාර්ගය අසල වැටී සිටියදී ප්‍රදේශවාසීන් විසින් ඔහු රෝහල්ගත කිරීමට කටයුතු කර තිබේ.
-
-අදාළ සිද්ධියෙන් වෙඩි වැදුනු පුද්ගලයා මීට පෙරද අවස්ථා ගණනාවකදී එම පොල් වත්තට ඇතුළු වී පොල් සොරකම් කරනු ලබන බවට මහවෙල පොලිසිය වෙත පැමිණිලි කර  ඇති බව මහවෙල පවසයි.
-
-...
-
-[Data](articles/ff987767.json)
-
----
-
-### පුද්ගලයන් 1,000ක් සමග සුඩානයේ ගමක් සම්පූර්ණයෙන් පස් වලින් යට වෙයි
-
-*2025-09-02 10:35:47* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයන්-1-000ක්-සමග-සුඩානයේ-ගමක්-සම්පූර්ණයෙන්-පස්-වලින්-යට-වෙයි/11-418217) · `si`
-
-බටහිර සුඩානයේ මාරා කඳුකරයේ සිදු වූ නාය යාමකින් පුද්ගලයන් 1,000ක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-එම ප්‍රදේශය පාලන කරනු ලබන කැරලිකාර කණ්ඩායම විසින් නිවේදනයක් නිකුත් කරමින් මේ බව  සඳහන් කර ඇත.
-
-පසුගිය ඉරිදා පැවති වර්ෂාවත් සමග මෙම නාය යාම සිදුව ඇති අතර, එහිදී සම්පූර්ණ ගමක් නාය යාමෙන් යටවී තිබේ.
-
-◼️
-
-[Data](articles/daa8a5e3.json)
-
----
-
-### Sri Lanka expands coconut farming in north
-
-*2025-09-02 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-expands-coconut-farming-in-north-238984/) · `en`
-
-ECONOMYNEXT – Sri Lanka hopes to bring 16,000 acres into coconut cultivation across Jaffna, Mullaitivu, and Mannar through the northern coconut triangle project, the president’s media division said.
-
-Initiated in 2023, the project is expected to expand to 50,000 acres by 2027 the PMD said.
-
-Coinciding with World Coconut Day, President Anura Dissanayake attended the ‘launch’ of the Kapthuru Saviya northern coconut triangle project this morning in Puthukudiyiruppu.
-
-The programme is expected to boost national output, lift productivity from 2.7 billion nuts in 2024 to 2.9 billion in 2025, and reach 4.2 billion by 2030, the Ceylon Chamber of Coconut Industries (CCCI) said.
-
-Coconut-based SMEs in the North and East will be developed, and yields increased by 10-15 percent annually, CCCI said, “to achieve Sri Lanka’s 2030 export target of USD 2.5 billion.”
-
-The Kapruka Saviya programme will also introduces modern market tools to future-proof the sector, CCCI said.
-
-...
-
-[Data](articles/db0a5d62.json)
-
----
-
-### ඕස්ට්‍රේලියානු සුපිරි වේග පන්දු යවන්නා හදීසියේ ගත් තීරණය මෙන්න
-
-*2025-09-02 10:26:54* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියානු-සුපිරි-වේග-පන්දු-යවන්නා-හදීසියේ-ගත්-තීරණය-මෙන්න/9-418216) · `si`
-
-ඔස්ට්‍රේලියාවේ වේග පන්දු යවන ක්‍රීඩක මිචෙල් ස්ටාක් විස්සයි20 තරගවලින් විශ්‍රාම යන බව නිවේදනය කර තිබේ. ලබන වසරේ අග භාගයේ සිට ඕස්ට්‍රේලියාවේ කාර්ය බහුල ටෙස්ට් තරග කාල සටහන හා 2027 එක්දින ලෝක කුසලානයට ප්‍රමුඛතාවය දීම සඳහා  ඔහු මෙම තීරණය ගෙන තිබේ.
-
-35 හැවිරිදි ස්ටාර්ක් 2012 දී සිය මංගල විස්සයි20 තරගයට ක්‍රීඩා කළ අතර මේ දක්වා විස්සයි20 තරග 65 ක් ක්‍රීඩා කර ඇති අතර 2021 එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවති විස්සයි20 ලෝක කුසලානය දිනාගත් ඕස්ට්‍රේලියානු කණ්ඩායමේ සාමාජිකයෙක්ද වෙයි.
-
-ඔහු අවසන් වරට 2024 දී කැරිබියන් හි පැවති විස්සයි ලෝක කුසලානයට ක්‍රීඩා කළ අතර තවත් මාස හයකින් ඉන්දියාවේ හා ශ්‍රී ලංකාවේ සත්කාරකත්වයෙන් පැවැත්වෙන විස්සයි20 ලෝක කුසලානයට පෙර ඔහු මෙම තීරණය ගැනීම කැපී පෙනෙයි.
-
-සිය තරග 65 තුළදී විස්සයි20 කඩුලු 79 දවාගෙන ඇති ස්ටාක් 2022 දී බටහිර ඉන්දීය කොදෙව්වන්ට එරෙහිව ලකුණු 20 කට කඩුලු 4 ක් දවා ගැනීම ඔහුගේ හොඳම පන්දු යැවීම වෙයි.
-
-...
-
-[Data](articles/bccc44c9.json)
-
----
-
-### மன்னார் வீரர்கள் இருவர், தேசிய உதைபந்தாட்ட   அணிக்கு தெரிவு
-
-*2025-09-02 10:24:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மன்னார்-வீரர்கள்-இருவர்-தேசிய-உதைபந்தாட்ட-அணிக்கு-தெரிவு/44-363894) · `ta`
-
-இலங்கை 16 வயது கீழ் உதைபந்தாட்ட தேசிய அணியில் மாணவர்களை உள்வாங்குவதற்கு நடைபெற்ற தேர்வில் மன்/புனித சவேரியார் ஆண்கள் தேசிய பாடசாலையைச் சேர்ந்த இரு மாணவர்கள் தெரிவாகி மாவட்டத்திற்கு பெருமை சேர்த்துள்ளனர்.
-
-மன்/புனித சவேரியார் ஆண்கள் கல்லூரியைச் சேர்ந்த மாணவர்களான   N.கெஸ்ரோன் ,  K.ஜெனிஸ்ரன் ஆகியோர் குறித்த தெரிவில் கலந்து கொண்டு சிறப்பாக விளையாடி திறமையை வெளிப்படுத்தியதன் அடிப்படையில் தேசிய அணிக்கு தெரிவு செய்யப்பட்டுள்ளனர்
-
-குறித்த இரு மாணவர்களும் கலந்து கொள்ளும் முதலாவது சர்வதேச உதைபந்தாட்ட போட்டியானது சீனாவில் இம் மாதம் 20ம் திகதி தொடக்கம் 28ம் திகதி வரை நடைபெறவுள்ளது.
-
-இப் போட்டி “ U16 Tainyu Liufang Cup – 2025” ற்கான போட்டியாகும். இதற்கான மேலதிக பயிற்சிகள் இம் மாதம் 4 ஆம் திகதி முதல் கொழும்பில் நடைபெறவுள்ளது.
-
-இம்மாணவர்கள் மிகவும் வறுமைக்கோட்டின் கீழ் இருந்து தமது கல்வியை மேற்கொள்கின்றார்கள்  என்பதன் அடிப்படையில் குறித்த மாணவர்களுக்கு உதவி செய்ய விரும்புவோர் அதிபர் ஊடாக உங்கள் உதவிகளை வழங்கி அந்த மாணவர்களின் திறமைக்கான அங்கீகாரம் பெறுவதற்கு உதவுமாறு கேட்டுக்கொள்ளப்படுகின்றீர்கள்
-
-...
-
-[Data](articles/51d130cf.json)
 
 ---

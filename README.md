@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 12:50:39**
+As of **2025-09-03 13:08:04**
 
 ## Newspaper Stats
 
-*Scraped **73,894** Articles*
+*Scraped **73,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,134
+adalk | 7,136
 adaderanalk | 9,422
 tamilmirrorlk | 10,993
 virakesarilk | 12,077
-adaderanasinhalalk | 12,833
+adaderanasinhalalk | 12,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,894 articles have been extended.
+61,973 (83.9%) of 73,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### හෙරොයින් කිලෝ 2ක් සමග සැකකරුවෙක් මාට්ටු
+
+*2025-09-03 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214116) · `si`
+
+හෙරොයින් කිලෝ 2යි ග්‍රෑම් 755ක් සමග සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/fa69727c.json)
+
+---
+
+### හිටපු මන්ත්‍රී ගම්මන්පිල අත්අඩංගුවට ගැනීමේ සූදානමක් ? ඔහු සැගවී නොමැති බවටත් ප්‍රකාශයක්
+
+*2025-09-03 12:41:11* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මන්ත්‍රී-ගම්මන්පිල-අත්අඩංගුවට-ගැනීමේ-සූදානමක්---ඔහු-සැගවී-නොමැති-බවටත්-ප්‍රකාශයක්/11-418255) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා අත්අඩංගුවට ගැනීමේ සූදානමක් ගැන එම පක්ෂයේ මධ්‍යමකාරක සභිකයින් විසින් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාව දැනුම්වත් කිරීමට අද(03දා) කටයුතු කළේය.
+
+ඉන් අනතුරුව පිවිතුරු හෙළ උරුමයේ මධ්‍යම කාරක සභික තිළිණ පීරිස් මහතා මාධ්‍ය වෙත මෙලෙස අදහස් දක්වා සිටියේය.
+
+“මේ වෙද්දිත් උදය ගම්මන්පිල මහතාව අයි.සී.සී.පී.ආර් පනත යට​තේ අත්අඩංගුවට ගැනීමේ යම් සූදානමක් තියෙනවා. ආණ්ඩුවේ යම් අඩුපාඩු පෙන්වා දෙන චරිත නිශ්ශබ්ද කිරීමට  මේ ආණ්ඩුව ගෙනයන ක්‍රියාමාර්ගය පිළිබඳ අපි අපේ විරෝධය පළ කරනවා. අපි ඒ සම්බන්ධවත්, අයි.සී.සී.පී.ආර් පනත යට​තේ සිදුවන ක්‍රියාවලිය පිළිබඳවත් විපක්ෂනායකතුමාව දැනුවත් කළා. විපක්ෂනායතුමා ඒ සම්බන්ධයෙන් ඉතා හොඳ ප්‍රතිචාරයක් දැක්වූවා. ”
+
+පිළිතුර - හැංගිලා නැහැ. ඇත්තටම එතුමාගේ උසස් අධ්‍යාපන කටයුතු සඳහා තමයි එතුමා විදේශගත වෙලා ඉන්නේ. ඒ අතරතුර තමයි අපි දැනුවත් වෙන්නේ මෙවැනි කටයුත්තක් සිදුවෙනවා කියලා. ඒ සම්බන්ධව මේ වෙද්දි අපි අධිකරණය දැනුවත් කරලා අපි පෙත්සමක් ඉදිරිපත් කරලා තියෙනවා. ලබන සතියේ එතුමා අනිවාර්යෙන් ලංකාවට එනවා. සැප්තැම්බර් 10 වැනිදා වගේ දවසක.
+
+◼️
+
+[Data](articles/8871941c.json)
+
+---
 
 ### உங்களுக்கு முன்னுக்கும் எனக்கு பின்னுக்கும் ‘புஷ்’
 
@@ -68,7 +98,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනය කිරීමේ අරමුණින් කාර්යසාධක බළකායක් ස්ථාපිත කරේ
+### සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට කාර්යසාධක බළකායක්
 
 *2025-09-03 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214115) · `si`
 
@@ -85,6 +115,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b5d7e4ce.json)
+
+---
+
+### හිටපු පොලිස්පති පූජිත් නිදහස් කරමින් අධිකරණයෙන් නියෝගයක්
+
+*2025-09-03 12:12:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පොලිස්පති-පූජිත්-නිදහස්-කරමින්-අධිකරණයෙන්-නියෝගයක්/11-418254) · `si`
+
+පොලිස් මුලස්ථානයේ විදුලි සෝපාන ක්‍රියාකරුවෙකුට විදුලි සෝපානය අසලදී සාපරාධි බලහත්කාරකම් හා සාපරාධි බියගැන්වීම් සිදුකිරීමේ චෝදනාවලින් හිටපු පොලිස්පති පූජිත් ජයසුන්දර මහතා නිදහස් කිරීමට  අධිකරණය අද (03දා) නියෝග කර තිබේ.
+
+අදාළ නඩුව අද කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ අද කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/31a1a000.json)
 
 ---
 
@@ -174,7 +218,7 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 
 சற்று நேரத்திற்கு முன்பு மாளிகாவத்தையில் நடந்த துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்தார்.
 
-மாளிகாவத்தையில் உள்ள ஒரு உதிரி பாகக் கடையில் மோட்டார் சைக்கிளில் வந்த இரண்டு பேர் ஒருவர் மீது துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+மோட்டார் சைக்கிளில் வந்த இரண்டு பேர்,  மாளிகாவத்தையில் உள்ள ஒரு உதிரி பாகக் கடையில் இருந்தவர் மீது துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
 
 ◼️
 
@@ -393,6 +437,8 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 ### கச்சதீவு...
 
 *2025-09-03 10:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கச்சதீவு/62-363946) · `ta`
+
+கச்சதீவை மீட்குமாறு நடிகர் விஜய், இந்திய பிரதமர் மோடியிடம் பகிரங்க கோரிக்கை விடுத்திருந்த நிலையில், கச்சதீவுக்குச் சென்ற ஜனாதிபதி அனுரகுமா திசாநாயக்க, அதிரடியான அறிவிப்பை விடுத்திருந்தார்.
 
 ◼️
 
@@ -1717,53 +1763,5 @@ Reaffirming the SLPP’s stance, Kariyawasam wrote that as both a political part
 ...
 
 [Data](articles/695b0ca6.json)
-
----
-
-### Sri Lanka moved to end elite impunity with arrest of former president
-
-*2025-09-03 04:03:39* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-moved-to-end-elite-impunity-with-arrest-of-former-president/4-781147) · `en`
-
-Sri Lanka’s former president and six-time prime minister, Ranil Wickremesinghe, was arrested on 22 August for allegedly misusing state resources while in office. He is accused of using public funds to attend his wife’s graduation ceremony in London after an official visit to the US in 2023. Wickremesinghe has since been granted bail on a 5m rupee (£12,300) bond.
-
-His arrest represents one of the most consequential moments in the Sri Lanka’s postcolonial history. It marks the first time a former head of state has ever been detained in Sri Lanka, shattering the longstanding assumption that those at the top of the country’s politics remain forever beyond the reach of the law.
-
-The assumption of elite impunity was built on decades of precedent. This reached its apex under the Rajapaksa family, who dominated Sri Lankan politics between 2005 and 2022, as corruption was woven into the very fabric of governance.
-
-...
-
-[Data](articles/9d6ca513.json)
-
----
-
-### 2025-09-02 (Tuesday)
-
-### Profit-takings stymie stock market’s positive proclivities
-
-*2025-09-02 22:15:00* · [`islandlk`](http://island.lk/profit-takings-stymie-stock-markets-positive-proclivities/) · `en`
-
-CSE trading on the floor kicked off on a positive note yesterday but subsequently technical profit- takings moved the market downwards.
-
-Amid those developments both indices declined. The All Share Price Index went down by 55.99 points, while the S and P SL20 declined by 29.1 points. Turnover stood at Rs 7.5 billion with12 crossings.
-
-Some of those crossings were reported in Alumax, where 71.2 million shares crossed to the tune of Rs 1.2 billion; its shares traded at Rs 18, E.B Creasy 2.8 million shares crossed to the tune of Rs 182 million and its shares sold at Rs 65, Aitken Spence 41000 shares crossed to the tune of Rs 96.1 million; its shares traded at Rs 150, Sunshine Holdings three million shares crossed for Rs 91.5 million; its shares sold at Rs 30.5, Haylays Leisure 1.5 million shares crossed for Rs 58.1 million; its shares traded at Rs 38.
-
-...
-
-[Data](articles/230cd22f.json)
-
----
-
-### Omega Line Toastmasters installs new leadership at “Ignite the Legacy” ceremony
-
-*2025-09-02 22:15:00* · [`islandlk`](http://island.lk/omega-line-toastmasters-installs-new-leadership-at-ignite-the-legacy-ceremony/) · `en`
-
-The Omega Line Toastmasters Club ushered in a new era recently with the installation of its 2025/26 Executive Committee at a ceremony held at the Jetwing Blue in Negombo. The event, themed “Ignite the Legacy,” celebrated the club’s rich history of success while laying the foundation for future growth.
-
-TM Felix Fernando, the club’s Charter President and CEO/Managing Director of Omega Line Ltd, who continues to be the guide of the club members’ journey to success, Chief Guest Dr. Riyad Ismail, and Guest of Honor DTM Niroshan Nadarajah – District Director of District 82 together with many district, division, and area officers of the Toastmasters club graced the occassion.
-
-...
-
-[Data](articles/5a5c4420.json)
 
 ---

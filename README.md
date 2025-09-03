@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 16:20:48**
+As of **2025-09-03 16:32:53**
 
 ## Newspaper Stats
 
-*Scraped **73,936** Articles*
+*Scraped **73,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ dailyftlk | 5,246
 adalk | 7,144
 adaderanalk | 9,431
 tamilmirrorlk | 10,999
-virakesarilk | 12,088
-adaderanasinhalalk | 12,839
+virakesarilk | 12,089
+adaderanasinhalalk | 12,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,936 articles have been extended.
+61,973 (83.8%) of 73,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### හරක් කටා ඝාතන සැලසුමේ තවත් අයෙක් අත්අඩංගුවට
+
+*2025-09-03 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214124) · `si`
+
+මාධ්‍යවේදියෙකු ලෙස පෙනී සිටින වෙඩික්කරුවකු යොදවා කොළඹ මහාධිකරණ සංකීර්ණයේදී නදුන් චින්තක නොහොත් 'හරක් කටා' ඝාතනය කිරීමට සැලසුම් කිරීම සම්බන්ධයෙන් තවත් අයෙක් බස්නාහිර උතුර අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අදාළ ඝාතන සැලසුමේ මාධ්‍යවේදියාගේ කැමරාව තුළ මි.මී. 3.8  වර්ගයේ ගිනි අවිය බහා සූක්ෂම ලෙස සැකසූ පෑස්සුම්කරුය.
+
+අදාළ සැකකරු උඩුගම්පොල, දොඹවල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 47ක පුද්ගලයෙකු වන අතර, ඔහු සිය නිවසේදී අත්අඩංගුවට පත්ව ඇත.
+
+මෙම හරක් කටා ඝාතනය කිරීමට සැලසුම්  සම්බන්ධයෙන් ඊයේ (2) පහත්බිම් ගොඩකිරීම් මණ්ඩලයේ රියදුරෙකු බස්නාහිර උතුර අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගනු ලැබීය.
+
+ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී හෙළි වී ඇත්තේ, කෙහෙල්බද්දර පද්මේගේ වුවමනාව මත බැකෝ සමන් තමාට එම කැමරාව හා ගිනිඅවිය ලබාදුන් බවය.
+
+කෙසේ වෙතත් ඔවුන් අත්අඩංගුවට පත්වීමෙන් පසුව තමන් ඒවා ගිනිතබා විනාශ කළ බව පවසා තිබේ.
+
+◼️
+
+[Data](articles/899e1241.json)
+
+---
+
+### ஆப்கானிஸ்தானுக்கு 21 தொன் நிவாரணப் பொருட்களை அனுப்பியது இந்தியா
+
+*2025-09-03 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224119) · `ta`
+
+ஆப்கானிஸ்தானின் கிழக்கு பகுதியில் அமைந்துள்ள மாகாணம் குனார் பாகிஸ்தான் எல்லையில் உள்ள இந்த மாகாணத்தில் தொடர்ந்து பல நிலநடுக்கங்கள் ஏற்பட்டன. அவற்றில் சக்திவாய்ந்த நிலநடுக்கம் ரிச்டர் அளவுகோலில் 6 புள்ளிகளாக பதிவானது. இது நங்கர்ஹார் மாகாணம் நுலாலாபாத்தை மையமாக கொண்டு உருவானது. அண்டை நாடுகளான பாகிஸ்தான், இந்தியாவிலும் இதன் தாக்கம் உணரப்பட்டது.
+
+இதற்கிடையே மலை பிரதேசமான குனார் மாகாணத்தின் பல கிராமங்களில் உள்ள வீடுகள் மண்ணால் கட்டப்பட்டு இருந்தன. நிலநடுக்கம் ஏற்பட்டபோது 8 ஆயிரத்துக்கும் மேற்பட்ட வீடுகள் இடிந்து தரைமட்டமாகின. நள்ளிரவு நேரம் என்பதால் வீடுகளில் தூங்கிக் கொண்டிருந்த மக்கள் உயிருடன் புதையுண்டனர். இதுவரை கிடைத்த தகவலின்படி நிலநடுக்கத்தால் பலியானோர் எண்ணிக்கை 1400 ஐ கடந்தது.
+
+3 ஆயிரத்துக்கும் மேற்பட்டோர் படுகாயம் அடைந்து இருப்பதால் உயிரிழப்பு எண்ணிக்கை மேலும் அதிகரிக்கும் அபாயம் ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/bca1acd4.json)
+
+---
 
 ### வேகக் கட்டுப்பாட்டை இழந்து கால்வாய்க்குள் பாய்ந்த முச்சக்கர வண்டி ; சாரதி வைத்தியசாலையில் அனுமதி!
 
@@ -1735,37 +1773,5 @@ President Dissanayake noted that a series of new development projects are set to
 ...
 
 [Data](articles/5959d35e.json)
-
----
-
-### Sri Lanka rupee depreciates in July amid $244mn current account surplus
-
-*2025-09-03 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-in-july-amid-244mn-current-account-surplus-239280/) · `en`
-
-ECONOMYNEXT – Sri Lanka has recorded an external current account surplus of 244.6 million US dollars in July 2025, up from 187.7 million dollars, official data showed, while the rupee depreciated from 299.9 to 302.2 to the US dollar in the same month.
-
-From end December 2024 to when the external current account was in deficit (money was printed in the last quarter to target the single policy rate, but subsequently reversed), the rupee has depreciated from 292.58 to 302.21 to the US dollar.
-
-The depreciation will push up the cost of living, allowing macro-economists to reach their inflation target, even if money is not printed by the central bank.
-
-However, at the moment US monetary policy is better than before it was in March 2022 and global commodity prices are stable to falling, though Fed rate cuts are expected soon.
-
-...
-
-[Data](articles/7ec3d799.json)
-
----
-
-### මධ්‍යම අධිවේගයේ මාරක අනතුරක්
-
-*2025-09-03 07:40:12* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-මාරක-අනතුරක්/11-418235) · `si`
-
-මධ්‍යම අධිවේගී මාර්ගයේ අද (03) අලුයම ලොරි රථයක් සහ බව්සර් රථයක් එකිනෙක ගැටීමෙන් සිදුවූ රිය අනතුරකින් පුද්ගලයෙක් මියගොස් තවත් පුද්ගලයෙක් බරපතළ තුවාල රෝහල් ගත තිබේ.
-
-අනතුරින් මියගොස් ඇත්තේ, ලොරි රථයේ ගමන්කළ රිය සහායකයා බව වාර්තා වෙයි. තවත් පුද්ගලයෙක් ලොරි රථයට යටවී සිටින අතර එම පුද්ගලයාව බේරාගැනීමට කටයුතු කරමින් සිටියි.
-
-◼️
-
-[Data](articles/b0addbeb.json)
 
 ---

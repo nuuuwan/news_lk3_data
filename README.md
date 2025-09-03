@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 18:34:28**
+As of **2025-09-03 18:55:52**
 
 ## Newspaper Stats
 
-*Scraped **73,965** Articles*
+*Scraped **73,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,149
 adaderanalk | 9,435
 tamilmirrorlk | 11,006
 virakesarilk | 12,093
-adaderanasinhalalk | 12,847
+adaderanasinhalalk | 12,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,965 articles have been extended.
+61,973 (83.8%) of 73,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### සූදු ක්‍රීඩා නියාමන අධිකාරිය පනත් කෙටුම්පතට කථානායකගේ සහතිකය
+
+*2025-09-03 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214133) · `si`
+
+කථානායක ජගත් වික්‍රමරත්න මහතා අද (03) සූදු ක්‍රීඩා නියාමන අධිකාරිය කෙටුම්පත සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව ප්‍රකාරව සිය සහතිකය සටහන් කර තිබේ.
+
+පසුගිය 19 වනදා පාර්ලිමේන්තුවේ දෙවනවර කියවීමේ විවාදයෙන් අනතුරුව සංශෝධන සහිතව මෙම පනත් කෙටුම්පත සම්මත විය.
+
+මේ අනුව මෙම පනත් කෙටුම්පත 2025 අංක 17 දරන සූදු ක්‍රීඩා නියාමන අධිකාරිය පනත ලෙස බලාත්මක වනු ඇත.
+
+මෙම පනත සූදු ක්‍රීඩා නියාමන අධිකාරිය පිහිටුවීම සඳහා විධිවිධාන සැලැස්වීම පිණිස ද; (44 වන අධිකාාරය වූ) තුරඟ තරග මත ඔට්ටු ඇල්ලීමේ ආඥාපනත, (46 වන අධිකාරය වූ) සූදු ආඥාපනත සහ 2010 අංක 17 දරන කැසිනෝ ව්‍යාපාර (නියාමනය කිරීමේ) පනත ඉවත් කිරීම පිණිස ද; ඊට සම්බන්ධ හෝ ආනුෂංගික කාරණා සඳහා විධිවිධාන සැලැස්වීම පිණිස ද වූ පනතකි.
+
+ශ්‍රී ලංකාවේ සූදු ක්‍රීඩා කර්මාන්තය නියාමනය කිරීම සඳහා, සූදු මෙහෙයුම් සඳහා තනි නියාමන ආයතනයක් ලෙස සූදූ ක්‍රීඩා නියාමන අධිකාරිය පිහිටුවීමට මෙම පනත මගින් ප්‍රතිපාදන සලසා ඇත.
+
+...
+
+[Data](articles/2be8106e.json)
+
+---
 
 ### புலமைப்பரிசில் பரீட்சை பெறுபேறுகள் இரவு வௌிவரும்
 
@@ -1741,23 +1761,5 @@ Standing beside Xi on Tian’anmen Rostrum were Russian President Vladimir Putin
 ...
 
 [Data](articles/9fc53c8d.json)
-
----
-
-### Ex-Minister Rajitha Senaratne at Bribery Commission
-
-*2025-09-03 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112128/ex-minister-rajitha-senaratne-at-bribery-commission) · `en`
-
-Former Minister Rajitha Senaratne, who is currently in remand custody, was presented before the Bribery Commission today (03).
-
-Rajitha Senaratne was taken into custody on August 29 after appearing in court following an arrest warrant that had been issued against him.
-
-Following his court appearance, he was placed in remand custody until September 9.
-
-At the time, Colombo Chief Magistrate Asanka S. Bodaragama ordered prison authorities to present Senaratne before the Bribery Commission at 9:00 a.m. today to record a statement.
-
-◼️
-
-[Data](articles/b2c21128.json)
 
 ---

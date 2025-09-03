@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 05:06:54**
+As of **2025-09-04 05:18:09**
 
 ## Newspaper Stats
 
-*Scraped **74,023** Articles*
+*Scraped **74,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 755
 economynextcom | 4,503
 islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,252
+dailyftlk | 5,254
 adalk | 7,152
 adaderanalk | 9,441
 tamilmirrorlk | 11,014
@@ -26,11 +26,39 @@ adaderanasinhalalk | 12,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,023 articles have been extended.
+61,973 (83.7%) of 74,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### PBSS Group Chairman  Dr. Madura Gamanayake wins  Gold at Sri Lankan Entrepreneur of the Year Awards 2025
+
+*2025-09-04 05:05:13* · [`dailyftlk`](https://www.ft.lk/business/PBSS-Group-Chairman-Dr-Madura-Gamanayake-wins-Gold-at-Sri-Lankan-Entrepreneur-of-the-Year-Awards-2025/34-781238) · `en`
+
+Bags National and Provincial Gold Award in Large Business Category
+
+Perfect Business Solution Services (PBSS Group) Founder and Group Managing Director Dr. Madura Gamanayake, was honoured with both the National and Provincial Gold Awards in the Large Business Category at the Sri Lankan Entrepreneur of the Year Awards 2025, held at Cinnamon Life – City of Dreams recently.
+
+Celebrating its 25th milestone year, widely regarded as one of the nation’s most prestigious recognitions of entrepreneurial excellence, the awards highlight leaders who have built resilient businesses and contributed meaningfully to Sri Lanka’s economic growth.
+
+...
+
+[Data](articles/cc59a0aa.json)
+
+---
+
+### Report on ongoing investigation into mass grave site in Chemmani, Jaffna
+
+*2025-09-04 05:02:42* · [`dailyftlk`](https://www.ft.lk/news/Report-on-ongoing-investigation-into-mass-grave-site-in-Chemmani-Jaffna/56-781237) · `en`
+
+The Human Rights Commission of Sri Lanka (HRCSL) conducted a fact-finding mission on the ongoing investigation into the mass grave site in Chemmani, Jaffna on 3 and 4 August. The purpose of the mission was to observe the current investigation process, to engage relevant institutional actors, independent observers, and representatives of family members of disappeared persons, and to identify challenges encountered by institutional actors and family members of disappeared persons.
+
+...
+
+[Data](articles/86d13a92.json)
+
+---
 
 ### சுயாதீனமாகச் சட்டம் அமுல்படுத்த மக்களுடன் இணைந்து செயற்படுங்கள் - பொலிஸ்மா அதிபர் அறிவுரை
 
@@ -1765,43 +1793,5 @@ He is a leader in API management, having built and scaled global partner network
 ◼️
 
 [Data](articles/26b250c7.json)
-
----
-
-### පැතුම්, ජනිත්, අසිත , මධුසංක එක්දින ශ්‍රේණිගත කිරීම්හී ඉදිරියට
-
-*2025-09-03 14:17:14* · [`adalk`](https://www.ada.lk/sports/පැතුම්--ජනිත්--අසිත---මධුසංක-එක්දින-ශ්‍රේණිගත-කිරීම්හී-ඉදිරියට/9-418256) · `si`
-
-ජාත්‍යන්තර එක්දින ක්‍රිකට් ​ශ්‍රේණිගත කිරීම් අනුව පිතිකරුවන් අතර 13 වැනි ස්ථානය දක්වා ස්ථාන 07කින් ඉදිරියට පැමිණීමට ශ්‍රී ලංකාවේ පැතුම් නිස්සංක සමත්ව තිබේ.
-
-මෙම ශ්‍රේණිගත කිරීම් අනුව ශ්‍රී ලංකා එක්දින ක්‍රිකට් නායක චරිත් අසලංක තවදුරටත් 06 වැනි ස්ථානයේ පසුවන්නේය.
-
-​මේ අතර මෙම ශ්‍රේ‍ණිගත කිරීම් හී 29 වැනි ස්ථානය දක්වා ස්ථාන 13කින් ඉදිරියට පැමිණීමට ජනිත් ලියනගේ සමත්ව තිබේ.
-
-මේ අතර එක්දින පන්දු යවන්නන් අතර 31 වැනි ස්ථානය දක්වා ස්ථාන 06කින් ඉදිරියට පැමිණීමට අසිත ප්‍රනාන්දු සමත්ව තිබේ.
-
-මීට​ අමතරව ඩිල්ෂාන් මධුසංක 52 වැනි ස්ථානය දක්වා ස්ථාන 08කින් ඉදිරියට පැමිණීමටද සමත්ව ති​​​බේ.
-
-◼️
-
-[Data](articles/77231c12.json)
-
----
-
-### காலி துப்பாக்கிச் சூடு: தலவாக்கலை இளைஞன் கைது
-
-*2025-09-03 14:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காலி-துப்பாக்கிச்-சூடு-தலவாக்கலை-இளைஞன்-கைது/76-363957) · `ta`
-
-காலி மீட்டியாகொட பகுதியில் திங்கட்கிழமை (01) ஒருவரை சுட்டுக் கொலை செய்ய முயற்சித்தமை தொடர்பில், தலவாக்கலையில் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-தலவாக்கலை - லிந்துலை பகுதியை சேர்ந்த 31 வயது இளைஞன் ஒருவரே கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-குற்றச் செயலுக்கு உதவி புரிந்த குற்றச்சாட்டில் கைது செய்யப்பட்ட குறித்த இளைஞன் அக்கரபத்தனை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
-
-எனினும், தாக்குதலுக்குப் பயன்படுத்தியதாக சந்தேகிக்கப்படும் T-56 ரக துப்பாக்கியுடன் ஒருவரை அன்றைய தினமே சந்தேகத்தின் பேரில் பொலிஸார் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/6d214e7d.json)
 
 ---

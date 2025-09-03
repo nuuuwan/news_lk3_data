@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 08:26:40**
+As of **2025-09-03 08:48:21**
 
 ## Newspaper Stats
 
-*Scraped **73,830** Articles*
+*Scraped **73,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailymirrorlk | 4,733
 dailyftlk | 5,245
 adalk | 7,121
 adaderanalk | 9,409
-tamilmirrorlk | 10,978
+tamilmirrorlk | 10,979
 virakesarilk | 12,069
-adaderanasinhalalk | 12,820
+adaderanasinhalalk | 12,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,830 articles have been extended.
+61,973 (83.9%) of 73,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### ඉතාලියේ විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරිය අද දිවයිනට
+
+*2025-09-03 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214104) · `si`
+
+‍ඉතාලියේ විදේශ කටයුතු සහ ජාත්‍යන්තර සහයෝගීතාව පිළිබඳ නියෝජ්‍ය අමාත්‍ය මරියා ට්‍රිපොඩ් මහත්මිය අද (03) දිවයිනට පැමිණීමට නියමිතව තිබේ.
+
+ශ්‍රී ලංකා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සඳහන් කළේ, ලබන 5වනදා දක්වා ඇය මෙරට රැඳී සිටින බවය.
+
+මෙම සංචාරය අතරතුරදී ඉතාලි විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරිය දේශපාලන උපදේශන යාන්ත්‍රණයක් ස්ථාපිත කිරීම පිළිබඳ අවබෝධතා ගිවිසුමකට අත්සන් කිරීමට නියමිතය.
+
+එමෙන්ම නියෝජ්‍ය අමාත්‍ය ට්‍රිපොඩි මහත්මිය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය සහ විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සමග සාකච්ඡා පැවැත්වීමටද නියමිතව තිබේ.
+
+දශකයකට ආසන්න කාලයකට පසු ඉතාලියේ සිට ශ්‍රී ලංකාව වෙත සිදුකෙරෙන ඉහළම මට්ටමේ සංචාරය මෙය බව සඳහන්ය.
+
+◼️
+
+[Data](articles/666d9624.json)
+
+---
+
+### දෙදෙනෙකුට මරු කැඳවූ මධ්‍යම අධිවේගයේ අනතුර
+
+*2025-09-03 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214103) · `si`
+
+මධ්‍යම අධිවේගී මාර්ගයේ මීරිගම පිවිසුම ආසන්නයේ සිදුවූ රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්වුණි.
+
+අනතුර සිදුවූයේ ලොරි රථයක් සහ ඉන්ධන ප්‍රවාහනය කරමින් තිබූ බවුසරයක් එකිනෙක ගැටීමෙනි.
+
+මධ්‍යම අධිවේගී මාර්ගයේ මීරිගම පිවිසුම ආසන්න 41 වැනි කිලෝමීටර් කණුවේදී මෙම අනතුර සිදුව තිබුණේ ඊයේ රාත්‍රී 11ට පමණ බව පොලීසිය පැවසීය.
+
+අප වාර්තාකරු පැවසුවේ, බරපතළ තුවාල ලබා සිටි බවුසරයේ සහායකයා රෝහල්ගත කිරීම සඳහා රැගෙන යන අතරතුර ජීවිතක්ෂයට පත්ව ඇති බවයි.
+
+තුවාල ලබා සිටි බවුසරයේ රියැදුරා වතුපිටිවල මූලික රෝහලට ඇතුළත් කර තිබේ.
+
+අනතුර හේතුවෙන් ලොරි රථය අධිවේගී මාර්ගයෙන් ඉවතට පෙරළී අති අතර, පසුව බවුසරයද ලොරිය මතට පෙරළී තිබුණු බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/75144c6c.json)
+
+---
+
+### கோலாகலமாக இடம்பெற்ற சீனாவின் வெற்றி விழா
+
+*2025-09-03 08:33:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கோலாகலமாக-இடம்பெற்ற-சீனாவின்-வெற்றி-விழா/50-363936) · `ta`
+
+இரண்டாம் உலகப் போரில் ஜப்பான் முறையாகச் சரணடைந்ததன் 80 ஆவது ஆண்டு நிறைவையும், மோதலின் முடிவையும் குறிக்கும் அணிவகுப்பு சீனாவின் பீஜிங்கில் இடம்பெற்றது.
+
+இந்த 80 ஆவது ஆண்டு நினைவுக் கூட்டம் பீஜிங்கின் தியென்மன் சதுக்கத்தில் கோலாகலமாக இன்று (03) காலை நடைபெற்றது.
+
+◼️
+
+[Data](articles/9b451e88.json)
+
+---
 
 ### වෙඩිතැබීමේ සිද්ධි දෙකකට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනක් අත්අඩංගුවට
 
@@ -630,22 +686,6 @@ The assumption of elite impunity was built on decades of precedent. This reached
 
 ### 2025-09-02 (Tuesday)
 
-### 
-
-*2025-09-02 22:50:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86382) · `en`
-
-‘The Ugly Israeli: Are Israel’s tourists the worst in the world’ writes  Israeli web-paper Y-Net : Will the Law Take its Course Regarding the  Unprovoked  Attack  on  a Sinhala Hotelier and Companion  in Arugam Bay  by Two Israeli Tourists?
-
-“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
-
-Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
-
-...
-
-[Data](articles/a71d6d35.json)
-
----
-
 ### Profit-takings stymie stock market’s positive proclivities
 
 *2025-09-02 22:15:00* · [`islandlk`](http://island.lk/profit-takings-stymie-stock-markets-positive-proclivities/) · `en`
@@ -789,6 +829,20 @@ The move “does not fit the United Nations’ raison d’etre,” Erdogan told 
 ...
 
 [Data](articles/12311cb9.json)
+
+---
+
+### Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
+
+*2025-09-02 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86356) · `en`
+
+History was made when 76 year old  Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department(CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over  Rupees 16.6 million.He was produced before the Colombo Fort Magistrate on 22 August 2025. Ranil was charged under  Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
+
+Six times prime minister Wickremesinghe who served as the eighth executive president of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts  in a Black Maria.  Ranil Wickremesinghe  thus became the first Sri Lankan ex-president and former Prime minister to be arrested and remanded  in the history of Sri Lanka.
+
+...
+
+[Data](articles/9ba9187c.json)
 
 ---
 
@@ -1015,6 +1069,20 @@ Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two we
 ...
 
 [Data](articles/eb2732e4.json)
+
+---
+
+### Buddhist Extremist Monks and Organizations  Cultivating Links with Israel want to Turn Sri Lanka into a Buddhist State like how Israel is a 100% Jewish State while Israel wants Sri Lanka to Provide Cheap Manual Labour and a Welcoming Recipient of Israeli Tourists
+
+*2025-09-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86382) · `en`
+
+“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
+
+Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
+
+...
+
+[Data](articles/a71d6d35.json)
 
 ---
 
@@ -1747,73 +1815,5 @@ The Bribery Commission previously informed court that these funds were discovere
 ◼️
 
 [Data](articles/055d0dce.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-09-02 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224015) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (02) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 305.8206 ஆகவும் கொள்வனவு விலை ரூபா 298.2426 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (02.09.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
-
-◼️
-
-[Data](articles/7a659c9f.json)
-
----
-
-### ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතීෂ් ගමගේ තවදුරටත් රිමාන්ඩ්
-
-*2025-09-02 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214077) · `si`
-
-අල්ලස් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන මේ වන විට රක්ෂිත බන්ධනාගාර ගත කර සිටින ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතීස් ගමගේ මහතා තවදුරටත් ලබන 16 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-ඒ ඊට අදාළ පැමිණිල්ල අද (02) කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා ඉදිරියේ කැඳවනු ලැබීමෙන් අනතුරුවය.
-
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන්, සංවිධානාත්මක අපරාධකරුවන් සහ පොලිසිය වෙත සේවය ලබා ගැනීමට පැමිණෙන මහජනතාවගෙන් අල්ලස් වශයෙන් රුපියල් එක්කෝටි හතළිස් ලක්ෂයකට ආසන්න මුදලක් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් මෙම සැකකාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
-
-එහිදී එම මුදල් බැංකු ගිණුම් තුනක තිබී හමුවූ බවද අල්ලස් කොමිසම මීට පෙර අධිකරණය හමුවේ සඳහන් කර තිබුණි.
-
-ඊට අමතරව සැකකරු විසින් අල්ලස් ලෙස ලබා ගත් එක්කෝටි දාසය ලක්ෂයකට අධික මුදලක් තවත් පුද්ගලික බැංකු ගිණුමක තිබී සොයා ගත් බවත්  එම බැංකු ගිණුම මීට පෙර විමර්ශනය කළ බැංකු ගිණුම් තුනට අමතරව මුදල් බැර කර තිබෙන නව ගිණුමක් බවත් එම නිලධාරියා අධිකරණය හමුවේ පැවසීය.
-
-...
-
-[Data](articles/35141a78.json)
-
----
-
-### வடக்கின் விதை தேங்காய் உற்பத்தி அலகு  திறந்து வைப்பு
-
-*2025-09-02 13:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கின்-விதை-தேங்காய்-உற்பத்தி-அலகு-திறந்து-வைப்பு/175-363905) · `ta`
-
-வடக்கு தெங்கு முக்கோண திட்டத்தின் கீழ், வடக்கின் முதல் விதைத் தேங்காய் உற்பத்தி அலகு பளை நகரில் ஜனாதிபதி அநுர குமார திசாநாயக்கவின் தலைமையில் செவ்வாய்க்கிழமை (02) காலை திறந்து வைக்கப்பட்டது.
-
-இந்த திட்டம் இலங்கை  தெங்கு ஆராய்ச்சி நிறுவனம் மற்றும் சிலாபம் பெருந்தோட்ட நிறுவனம் ஆகியவற்றுக்கு இடையேயான கூட்டுத் திட்டமாக செயல்படுத்தப்படுகிறது.
-
-யாழ்ப்பாணம், முல்லைத்தீவு மற்றும் மன்னார் ஆகிய பகுதிகளை வடக்கு தெங்கு முக்கோணமாக அபிவிருத்தி செய்வதற்கு அரசாங்கம் திட்டமிட்டுள்ளது. இதன் கீழ், 2025 ஆம் ஆண்டுக்குள் வட மாகாணத்தில் 16,000 ஏக்கர் தேங்காய் பயிரிட எதிர்பார்க்கப்படுகிறது. 2025 முதல் 2027 வரையிலான 03 ஆண்டுகளில் இது 40,000 ஏக்கராக அதிகரிக்க திட்டமிடப்பட்டுள்ளது.ஜனாதிபதி விதை தேங்காய் மரக்கன்றையும் நட்டு, உற்பத்தி அலகைத் திறந்து வைத்தார்.
-
-...
-
-[Data](articles/db87cb54.json)
-
----
-
-### லிட்ரோ அதிரடி அறிவிப்பு
-
-*2025-09-02 13:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-அதிரடி-அறிவிப்பு/175-363904) · `ta`
-
-செப்டம்பர் மாதத்திற்கான உள்நாட்டு எரிவாயு விலையில் எந்த திருத்தமும் இருக்காது என்று லிட்ரோ கேஸ் லங்கா லிமிடெட், செவ்வாய்க்கிழமை ​(02)  அறிவித்துள்ளது.
-
-அதன்படி, 12.5 கிலோகிராம் உள்நாட்டு எரிவாயு சிலிண்டரின் விலை ரூ. 3,690 ஆகவும், 5 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை ரூ. 1,482 ஆகவும் இருக்கும்.
-
-2.3 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை ரூ. 694 ஆகவும் மாறாமல் உள்ளது என்று நிறுவனம் உறுதிப்படுத்தியது.
-
-நடைமுறையில் உள்ள எரிவாயு விலை நிர்ணய பொறிமுறையின் கீழ் நிறுவனத்தின் வழக்கமான மாதாந்திர விலை மதிப்பாய்வைத் தொடர்ந்து இந்த முடிவு எடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/7676e1a2.json)
 
 ---

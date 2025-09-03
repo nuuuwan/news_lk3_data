@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 15:19:09**
+As of **2025-09-03 15:32:37**
 
 ## Newspaper Stats
 
-*Scraped **73,922** Articles*
+*Scraped **73,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,142
-adaderanalk | 9,429
-tamilmirrorlk | 10,997
-virakesarilk | 12,082
+adaderanalk | 9,430
+tamilmirrorlk | 10,998
+virakesarilk | 12,086
 adaderanasinhalalk | 12,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,922 articles have been extended.
+61,973 (83.8%) of 73,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### “நான் கர்ப்பமாகி  ஒரு குழந்தையை சுமக்க விரும்பல”
+
+*2025-09-03 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-கர்ப்பமாகி-ஒரு-குழந்தையை-சுமக்க-விரும்பல/175-363964) · `ta`
+
+பாலிவுட்டின் பிரபல நடிகைகளில் ஒருவராக விளங்கும் சன்னி லியோன், 2012-ஆம் ஆண்டு வெளிவந்த ஜிஸம் 2 திரைப்படத்தின் மூலம் ஹிந்தி திரையுலகில் அறிமுகமானார்.
+
+அதன் பின்னர் பல ஹிந்தி படங்களில் நடித்து ரசிகர்களை கவர்ந்தார். தமிழிலும் நடிகர் ஜெய் நடித்த வடகறி படத்தில் ஒரு பாடலுக்கு ஆட்டம் போட்டு புகழ் பெற்றார். சன்னி லியோன், 2011-ஆம் ஆண்டு நடிகர் டேனியல் வெபருடன் திருமணம் செய்து கொண்டார்.
+
+அதன்பின் 2017-ஆம் ஆண்டு நிஷா என்ற இரண்டு வயது பெண் குழந்தையை தத்தெடுத்தனர். பின்னர் 2018-ஆம் ஆண்டு வாடகைத் தாய் மூலம் நோவா மற்றும் ஆசர் என்ற இரட்டைக் குழந்தைகளுக்கு பெற்றோராகினர்.
+
+இதனால் குடும்ப வாழ்க்கையில் மகிழ்ச்சியுடன் வாழ்ந்து வரும் சன்னி லியோன், குழந்தைகளை வளர்ப்பதில் தனக்கு கிடைத்த அனுபவங்களை பல நேர்காணல்களில் பகிர்ந்து வருகிறார்.
+
+...
+
+[Data](articles/e6fd959f.json)
+
+---
+
+### இந்தியாவின் பஞ்சாப் மாநிலத்தில் வெள்ளப்பெருக்கு ; 30 பேர் உயிரிழப்பு
+
+*2025-09-03 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/224095) · `ta`
+
+இந்தியாவின் பஞ்சாப் மாநிலத்தில் ஏற்பட்ட வெள்ளப்பெருக்கினால் அசுமார் 30 பேர் உயிரிழந்துள்ளனர். இதேவேளை, குறித்த வெள்ளப்பெருக்கினால் 1,400 கிராமங்கள் நீரில் மூழ்கியுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+ஆறுகள் மற்றும் நீர்த்தேக்கங்கள் எச்சரிக்கை மட்டத்தை எட்டியதை அடுத்து, குறித்த மாநிலத்தின் 23 மாவட்டங்கள் வெள்ளத்தால் பாதிக்கப்பட்டுள்ளதாக அந்த நாட்டு அதிகாரிகள் அறிவித்துள்ளனர்.
+
+தாழ்வான பகுதிகள் மற்றும் வெள்ளத்தால் பாதிக்கப்பட்ட பகுதிகளில் இருந்து சுமார் 20 ஆயிரம் பேர் வெளியேற்றப்பட்டுள்ளனர்.
+
+அதேநேரம், பாதிக்கப்பட்ட குடும்பங்களுக்கு தங்குமிடம் மற்றும் அத்தியாவசிய வசதிகளை வழங்க நூற்றுக்கணக்கான நிவாரண முகாம்கள் அமைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+1988 ஆம் ஆண்டுக்குப் பின்னர் மாநிலம் கண்ட மிக மோசமான வெள்ளப்பெருக்கு  இது என பஞ்சாப் முதல்வர் பகவந்த் மான், குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6ef88506.json)
+
+---
+
+### யாழ். கொடிகாமத்தில் விபத்து ; ஒருவர் உயிரிழப்பு
+
+*2025-09-03 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224104) · `ta`
+
+யாழ்ப்பாணத்தில் இருந்து கொழும்பு நோக்கி இன்றைய தினம் புதன்கிழமை பயணித்த புகையிரதத்துடன் கொடிகாம பகுதியில் மோதி உயிரழந்துள்ளார்.
+
+தண்டவாளத்தை கடக்க முற்பட்ட வேளையே விபத்து இடம்பெற்றதாக ஆரம்ப கட்ட விசாரணையில் தெரியவந்துள்ள நிலையில், பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/cf009787.json)
+
+---
 
 ### 3 வருட காதல்: தங்கையையே மிரட்டி வன்புணர்ந்த அண்ணன்
 
@@ -47,6 +99,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/5eb77f95.json)
+
+---
+
+### 2022 ஆம் ஆண்டு மே 9 காலிமுகத்திடல் தாக்குதல் நடத்திய சந்தேக நபர்கள் தொடர்பில் சட்டமா அதிபரின் ஆலோசனையை நாடும் குற்றப்புலனாய்வு திணைக்களம்
+
+*2025-09-03 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224093) · `ta`
+
+2022ஆம் ஆண்டு மே மாதம் 9 ஆம்  திகதி அன்று காலி முகத்திடல் போராட்டக்காரர்கள் மீதான தாக்குதல் தொடர்பாக, விசாரணைகளை மேற்கொண்டு வரும் குற்றப்புலனாய்வு திணைக்களம், சந்தேகநபர்களுக்கு எதிரான, எதிர்கால சட்ட நடவடிக்கைகள் குறித்து சட்டமா அதிபரின் ஆலோசனையை நாடியுள்ளது.
+
+இந்த வழக்கில், முன்னாள் பாராளுமன்ற உறுப்பினர்களான ஜோன்ஸ்டன் பெர்னாண்டோ, மிலான் ஜயதிலக்க, முன்னாள் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் மற்றும் பலர் உட்பட 37 பேர் சந்தேக நபர்களாக பெயரிடப்பட்டுள்ளனர்.
+
+இது தொடர்பான வழக்கு நீதவான் பவித்ரா சஞ்சீவனி பத்திரண முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, சம்பவம் தொடர்பான ஆரம்ப கட்ட விசாரணைகளை முடித்துவிட்டதாகவும், விசாரணையின் சுருக்கங்கள் சட்டமா அதிபரின் ஆலோசனைக்காக அனுப்பப்பட்டுள்ளதாகவும் குற்றப்புலனாய்வு திணைக்களம் நீதிமன்றத்தில் தெரிவித்தது.
+
+இருப்பினும், சட்டமா அதிபரின் ஆலோசனை இன்னும் கிடைக்கவில்லை என குற்றப்புலனாய்வு திணைக்களம் மன்றுக்கு அறிவித்தது.
+
+அதன்படி, சம்பவம் தொடர்பான விசாரணையை விரைவுபடுத்துமாறு சட்டமா அதிபருக்கு உத்தரவிட்டு நீதவான் அறிவிப்பை வெளியிட்டார்.
+
+...
+
+[Data](articles/da60e075.json)
+
+---
+
+### எச்.ஐ.வி நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2025-09-03 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224097) · `ta`
+
+நாட்டில் முந்தைய ஆண்டுகளுடன் ஒப்பீடும் போது எச்.ஐ.வி தொற்று தொடர்ந்து அதிகரித்து வருவதாக அண்மைய புள்ளிவிபர தரவுகள் தெரிவிக்கின்றன.
+
+2025 ஆம் ஆண்டின் முதல் காலாண்டில் மட்டும் (ஜனவரி முதல் மார்ச் வரை) மொத்தம் 230 நோயாளர்கள் பதிவாகியுள்ளன.
+
+2009 ஆம் ஆண்டுக்குப் பின்னர்  காலாண்டு ஒன்றில்  அதிகளவான நோயாளர்கள் பதிவான முதல் காலாண்டு இதுவாகும்.
+
+2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான நோயாளர்களில், 30 ஆண்களும் இரண்டு பெண்களும் 15 முதல் 24 வயதுக்குட்பட்டவர்கள், மீதமுள்ள நோயாளர்கள் 25 வயதுக்கு மேற்பட்டவர்கள்.
+
+2025 ஆம் ஆண்டில் பதிவான எச்.ஐ.வி நோயாளர்களின் ஆண் மற்றும் பெண் விகிதம் 6.6:1 ஆக உள்ளது.
+
+மேலும், 2025 ஆம் ஆண்டில் இதுவரை எச்.ஐ.வி/எய்ட்ஸ் நோயினால் 10 பேர் உயிரிழந்துள்ளனர்.
+
+2024 ஆம் ஆண்டில், மொத்தம் 47 நபர்கள் எச்.ஐ.வி/எய்ட்ஸால் பாதிக்கப்பட்டுள்ளனர். அதேவேளையில் நாட்டில் கடந்த ஆண்டில் மட்டும் 10 இலட்சத்துக்கும் அதிகமான எச்.ஐ.வி பரிசோதனைகள் நடத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/cb40d75a.json)
 
 ---
 
@@ -149,6 +245,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cb8822f8.json)
+
+---
+
+### Customs agrees to release 506 BYD electric vehicles
+
+*2025-09-03 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112137/customs-agrees-to-release-506-byd-electric-vehicles-) · `en`
+
+Sri Lanka Customs today (03) gave an undertaking to the Court of Appeal that it will release a total of 506 detained BYD electric vehicles, subject to the submission of additional bank guarantees.
+
+The undertaking was given when a petition filed by the John Keells Holdings PLC, the importer of the electrical vehicles, was taken up before the Court of Appeal, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/a8be6080.json)
 
 ---
 
@@ -1675,101 +1785,5 @@ The bus stop located on the outbound route opposite of the Police Field Force He
 ...
 
 [Data](articles/5f0c99ff.json)
-
----
-
-### Hayleys Fentons shines with eight wins at National Business Excellence Awards 2025
-
-*2025-09-03 06:20:55* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-shines-with-eight-wins-at-National-Business-Excellence-Awards-2025/34-781174) · `en`
-
-Hayleys Fentons’ team celebrates victory with eight esteemed awards and three years of Gold in the Infrastructure and Utilities sector
-
-Hayleys Fentons Ltd., swept eight awards at the prestigious National Business Excellence Awards (NBEA) 2025, including the coveted Gold Award in the Infrastructure and Utilities sector for the third consecutive year.
-
-Subsidiaries of Hayleys Fentons Ltd., secured notable wins, showcasing the depth and agility of its expanding footprint across diverse solutions.
-
-This recognition affirms Hayleys Fentons Ltd.’s role as an industry leader, committed to reshaping Sri Lanka’s built environment through innovation and sustainability. These honours validate the company’s ability to consistently scale excellence in ways that meaningfully contribute to national progress.
-
-Annually organised by the National Chamber of Commerce of Sri Lanka, the NBEA is widely regarded as one of the most credible benchmarks of corporate excellence in the country.
-
-...
-
-[Data](articles/e4bae280.json)
-
----
-
-### SEC defers Dockyard trading suspension until 11 December
-
-*2025-09-03 06:18:59* · [`dailyftlk`](https://www.ft.lk/business/SEC-defers-Dockyard-trading-suspension-until-11-December/34-781173) · `en`
-
-The Securities and Exchange Commission yesterday deferred the trading suspension of Colombo Dockyard PLC shares, the company said in a stock exchange filing.
-
-The suspension was due to take effect on 10 September 2025 after the securities of the company were twice transferred to the Colombo Stock Exchange Watch List: first in 10 June 2024, and a year later on 16 June 2025 due to the emphasis of matter on going concern contained in the Independent Auditor’s Reports for the financial years ended 31 December 2023 and 31 December 2024 respectively, the stock exchange filing said.
-
-The SEC has deferred the trading suspension until 11 December 2025.
-
-◼️
-
-[Data](articles/36883a2d.json)
-
----
-
-### Kandy Hotels Co. public float up 7%
-
-*2025-09-03 06:18:25* · [`dailyftlk`](https://www.ft.lk/business/Kandy-Hotels-Co-public-float-up-7/34-781172) · `en`
-
-Kandy Hotels Co. (1938) PLC in a Colombo Stock Exchange filing said yesterday that its public float had increased by 7.02% last month.
-
-The company said that the public holdings of its shares stood at 15.98% as of end June 2025, and increased to 23% as of 1 September 2025, due to non-public shareholders disposing of their shares in the market during the month of August 2025.
-
-◼️
-
-[Data](articles/1a6e73ca.json)
-
----
-
-### SEC defers trading suspension of Millennium Housing Developers
-
-*2025-09-03 06:18:02* · [`dailyftlk`](https://www.ft.lk/business/SEC-defers-trading-suspension-of-Millennium-Housing-Developers/34-781171) · `en`
-
-The Securities and Exchange Commission (SEC) has granted deferment of the securities trading suspension of Millennium Housing Developers PLC (MHDL) until further notice, a Colombo stock market filing said yesterday.
-
-“Further to the notice published on 21 August 2025 regarding the trading suspension of MHDL, please note that, since the company has requested a deferment from the SEC in terms of Rule 7.5(d)(ii) A.12 of the CSE Listing Rules, the trading of the said security will not be suspended until further notice,” the filing said.
-
-The trading suspension, now deferred, was to take effect yesterday due to the matter of going concern in the Independent Auditor’s Report in the company’s audited statements for the year ended 31 March 2023.
-
-◼️
-
-[Data](articles/4e958b9d.json)
-
----
-
-### Andre Fernando recognised for leadership in strengthening regional business ties
-
-*2025-09-03 06:17:38* · [`dailyftlk`](https://www.ft.lk/business/Andre-Fernando-recognised-for-leadership-in-strengthening-regional-business-ties/34-781170) · `en`
-
-The Global Federation of Sri Lankan Business Councils (GFSLBC) held its inaugural Annual General Meeting recently at the Shangri-La Hotel, Colombo, under the theme “Uniting Global Sri Lankan Businesses – Moving Forward”. The two-day summit brought together entrepreneurs from 15 countries, including the United States, the United Kingdom, Japan, Australia, Canada, and India, to focus on expanding global trade relations, attracting investments, and channelling the expertise of Sri Lankan entrepreneurs worldwide into the national economy.
-
-The National Chamber of Commerce of Sri Lanka (NCCSL), Sri Lanka–Bangladesh Business Cooperation Council President and MAC Holdings Ltd., Managing Director Andre Fernando was recognised for his outstanding leadership and contributions towards strengthening regional business cooperation. The honour was conferred by President Anura Kumara Disanayake during the federation’s inaugural session.
-
-...
-
-[Data](articles/102e3002.json)
-
----
-
-### Hayleys Aventura expands with new Avery Weigh-Tronix Sales & Service branch in Kurunegala
-
-*2025-09-03 06:16:08* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Aventura-expands-with-new-Avery-Weigh-Tronix-Sales-Service-branch-in-Kurunegala/34-781169) · `en`
-
-Hayleys Aventura Managing Director Wasaba Jayasekara together with Mayor of Kurunegala, Ananda Sahabandu and Deputy Mayor of Kurunegala Azardeen Mohedeen inaugurated the New Weighing Solutions Centre in Kurunegala
-
-Hayleys Aventura, the industrial solutions arm of the Hayleys Group, announced the opening of its new Avery Weigh-Tronix Sales & Service branch in Kurunegala, strengthening its islandwide presence and making world-class weighing solutions more accessible to businesses and individuals in the region.
-
-Located at the heart of a fast-growing hub for logistics, agriculture, retail, and manufacturing, the branch serves as a complete destination for weighing needs. Customers can access a full portfolio ranging from heavy-duty weighbridges and industrial scales to precision instruments and personal scales, backed by trusted after-sales service and certified calibration support.
-
-...
-
-[Data](articles/79abb67e.json)
 
 ---

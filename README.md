@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 14:50:27**
+As of **2025-09-03 15:08:17**
 
 ## Newspaper Stats
 
-*Scraped **73,917** Articles*
+*Scraped **73,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,139
+adalk | 7,142
 adaderanalk | 9,429
-tamilmirrorlk | 10,995
+tamilmirrorlk | 10,996
 virakesarilk | 12,082
 adaderanasinhalalk | 12,837
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 12,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,917 articles have been extended.
+61,973 (83.8%) of 73,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### மகளுடன் சீன வந்த கிம் ஜாங் உன்
+
+*2025-09-03 14:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மகளுடன்-சீன-வந்த-கிம்-ஜாங்-உன்/50-363960) · `ta`
+
+சீன மக்கள் விடுதலை இராணுவத்தின் வெற்றியின் 80 ஆவது ஆண்டு நிறைவு விழா தலைநகர் பெய்ஜிங்கில், புதன்கிழமை (03) நடைபெற்றது.
+
+இதில் பங்கேற்பதற்காக வடகொரிய ஜனாதிபதி கிம் ஜாங் உன், குண்டு துளைக்காத சிறப்பு ரயில் மூலம் சீனா வந்தடைந்தார்.
+
+அவருடன் அவரது மகளும் ரயிலில் சீனா வந்துள்ளமை சர்வதேச பரப்பில் பேசு பொருளாக மாறியுள்ளது. தனது வாரிசை வடகொரிய ஜனாதிபதி அரசியலுக்கு தயார் படுத்துவருகின்றார் எனக் கூறப்படுகின்றது.
+
+◼️
+
+[Data](articles/358c635f.json)
+
+---
+
+### BYD වාහන ගැන අද අධිකරණය දුන් තීන්දුව මෙන්න
+
+*2025-09-03 14:23:18* · [`adalk`](https://www.ada.lk/breaking_news/BYD-වාහන-ගැන-අද-අධිකරණය-දුන්-තීන්දුව-මෙන්න/11-418257) · `si`
+
+ශ්‍රී ලංකා රේගුව මඟින් රඳවා ගෙන සිටින BYD විද්‍යුත් වාහන 506ක් අමතර බැංකු ඇපකරයක් ඉදිරිපත් කිරීමෙන් අනතුරුව මුදාහැරීමට ශ්‍රී ලංකා රේගුව අද (03දා) අභියාචනාධිකරණය හමුවේ එකඟ විය.
+
+අදාළ නඩුව අද කැඳවූ අවස්ථාවේදී මෙම වාහන මුදා හැරීමට එකඟ වී තිබේ.
+
+◼️
+
+[Data](articles/2152d8ec.json)
+
+---
 
 ### மே 9 போராட்டம்;சட்டமா அதிபரிடம் CID ஆலோசனை
 
@@ -49,6 +79,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/26b250c7.json)
+
+---
+
+### පැතුම්, ජනිත්, අසිත , මධුසංක එක්දින ශ්‍රේණිගත කිරීම්හී ඉදිරියට
+
+*2025-09-03 14:17:14* · [`adalk`](https://www.ada.lk/sports/පැතුම්--ජනිත්--අසිත---මධුසංක-එක්දින-ශ්‍රේණිගත-කිරීම්හී-ඉදිරියට/9-418256) · `si`
+
+ජාත්‍යන්තර එක්දින ක්‍රිකට් ​ශ්‍රේණිගත කිරීම් අනුව පිතිකරුවන් අතර 13 වැනි ස්ථානය දක්වා ස්ථාන 07කින් ඉදිරියට පැමිණීමට ශ්‍රී ලංකාවේ පැතුම් නිස්සංක සමත්ව තිබේ.
+
+මෙම ශ්‍රේණිගත කිරීම් අනුව ශ්‍රී ලංකා එක්දින ක්‍රිකට් නායක චරිත් අසලංක තවදුරටත් 06 වැනි ස්ථානයේ පසුවන්නේය.
+
+​මේ අතර මෙම ශ්‍රේ‍ණිගත කිරීම් හී 29 වැනි ස්ථානය දක්වා ස්ථාන 13කින් ඉදිරියට පැමිණීමට ජනිත් ලියනගේ සමත්ව තිබේ.
+
+මේ අතර එක්දින පන්දු යවන්නන් අතර 31 වැනි ස්ථානය දක්වා ස්ථාන 06කින් ඉදිරියට පැමිණීමට අසිත ප්‍රනාන්දු සමත්ව තිබේ.
+
+මීට​ අමතරව ඩිල්ෂාන් මධුසංක 52 වැනි ස්ථානය දක්වා ස්ථාන 08කින් ඉදිරියට පැමිණීමටද සමත්ව ති​​​බේ.
+
+◼️
+
+[Data](articles/77231c12.json)
 
 ---
 
@@ -621,6 +671,20 @@ According to police, two individuals who arrived on a motorcycle carried out the
 ◼️
 
 [Data](articles/e3fea119.json)
+
+---
+
+### පොල් පැළය‌ට රක්ෂණයක්
+
+*2025-09-03 11:19:11* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-පැළය‌ට-රක්ෂණයක්/11-418247) · `si`
+
+පොල් පැළ වෙනුවෙන් රක්ෂණාවරණයක් ක්‍රියාත්මක කිර‍ීමට කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය තීරණය
+
+කර තිබේ. මෙම රක්ෂණ කාලය දින 15 සිට වසරක් දකවා වෙයි. රක්ෂණ වාර මුදල පැළ 01ක් ඳසහා රු. 67.50ක් වන අතර රක්ෂණ ආවරණය පළ 1ක් ඳසහා රු. 550ක් වෙයි.
+
+◼️
+
+[Data](articles/418106c1.json)
 
 ---
 
@@ -1707,69 +1771,5 @@ investment in Sri Lanka over the next three years, securing 1,483 jobs and stren
 ...
 
 [Data](articles/2d6d36b6.json)
-
----
-
-### Vidyani Hettigoda recognised at Sri Lankan Top 100 Iconic Women 2025 awards
-
-*2025-09-03 06:12:21* · [`dailyftlk`](https://www.ft.lk/business/Vidyani-Hettigoda-recognised-at-Sri-Lankan-Top-100-Iconic-Women-2025-awards/34-781167) · `en`
-
-Vidyani Hettigoda receives her award from Labour Minister Dr. Anil Jayantha Fernando at the SLBC Centenary Awards ceremony
-
-Hettigoda Group of Companies Director Vidyani Hettigoda was recognised as one of the Sri Lankan Top 100 Iconic Women 2025 at the SLBC Centenary Awards, held on 29 August 2025 at BMICH.
-
-With over three decades of experience, she has been instrumental in transforming the family-owned business into a global well-being brand. Under her leadership, Siddhalepa has expanded its reach to over 40 countries, offering a wide range of Ayurvedic products and services.
-
-...
-
-[Data](articles/206e4705.json)
-
----
-
-### Celebrating women entrepreneurs – “Invest in Her” Award Ceremony
-
-*2025-09-03 06:08:40* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-women-entrepreneurs-Invest-in-Her-Award-Ceremony/34-781166) · `en`
-
-The Women’s International Foundation (WIF), in collaboration with Aviraté, hosted the “Invest in Her” Award Ceremony, celebrating the resilience, innovation, and potential of Sri Lanka’s MSME women entrepreneurs.
-
-Over the past three months, proceeds from every Aviraté sale were dedicated to empowering women entrepreneurs with digital tools and market access opportunities. This unique collaboration highlights a shared vision: to create inclusive economic opportunities and strengthen women’s leadership in business.
-
-At the ‘Invest in Her’ Award Ceremony, held on 29 August at the Timex Garments Auditorium, members of both WIF and Aviraté joined award recipients and their families to celebrate and honour seven extraordinary women entrepreneurs from the WIF network.
-
-...
-
-[Data](articles/240e8972.json)
-
----
-
-### Ramp Up 2025 by Women’s Chamber of Industry and Commerce on 9 Sept. at Hilton Colombo
-
-*2025-09-03 06:06:27* · [`dailyftlk`](https://www.ft.lk/business/Ramp-Up-2025-by-Women-s-Chamber-of-Industry-and-Commerce-on-9-Sept-at-Hilton-Colombo/34-781165) · `en`
-
-A glamorous celebration of women-led fashion brands taking the world stage
-
-The Women’s Chamber of Industry and Commerce (WCIC) will present Ramp Up 2025, a one-of-a-kind fashion showcase that blends bold creativity, entrepreneurial spirit, and the unstoppable energy of women-led fashion brands on 9 September at the Hilton Colombo.
-
-This latest edition spotlights Sri Lanka’s most promising designers alongside inspiring women from diverse professional backgrounds, including professionals, entrepreneurs, corporate leaders, and more, who will take to the runway as models. This dynamic combination celebrates creativity, confidence, and female empowerment while providing a powerful platform for local designers to gain exposure, grow networks and build Export-Ready Brands which will help them to reach new markets. It also offers sponsors and attendees a unique opportunity to engage with purpose-driven corporate and professional personalities.
-
-...
-
-[Data](articles/7868cdbc.json)
-
----
-
-### Discussion to reform domestic apparel tariff
-
-*2025-09-03 06:04:14* · [`dailyftlk`](https://www.ft.lk/business/Discussion-to-reform-domestic-apparel-tariff/34-781164) · `en`
-
-The Ceylon United Business Alliance (CUBA) recently initiated a fruitful discussion with Deputy Minister Cathuranga Abeysinghe regarding reforms on apparel-related tariffs, with particular focus on the adjustment of the Apparel Cess, VAT, and Cess on fabrics.
-
-During the discussion, the Minister highlighted the importance of presenting clear facts and figures on the following areas: Sustainability of the industry – ensuring the long-term competitiveness and growth of the domestic apparel sector; tariff comparison with neighbouring countries – analysing how Sri Lanka’s tariff structure measures against regional competitors, and impact on the economy – assessing the direct and indirect effects of tariff adjustments on employment, exports, and investment.
-
-This engagement marks an important step in addressing key challenges faced by the apparel industry and identifying reforms that would strengthen its contribution to the national economy.
-
-...
-
-[Data](articles/533ea8d8.json)
 
 ---

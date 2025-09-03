@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 09:10:12**
+As of **2025-09-03 09:23:30**
 
 ## Newspaper Stats
 
-*Scraped **73,833** Articles*
+*Scraped **73,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,245
 adalk | 7,121
-adaderanalk | 9,409
+adaderanalk | 9,418
 tamilmirrorlk | 10,979
 virakesarilk | 12,069
-adaderanasinhalalk | 12,822
+adaderanasinhalalk | 12,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,833 articles have been extended.
+61,973 (83.9%) of 73,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### මාරක අනතුරු වැලක් - ජීවිත 06ක් අහිමිවෙයි
+
+*2025-09-03 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214106) · `si`
+
+ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු 06කින් අවුරුදු 08 කුඩා දැරියක් ඇතුළු පුද්ගලයින් 06 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (02) එම අනතුරු සිදුව තිබුණේ පොල්ගහවෙල, රත්නපුර, කටුනායක, එරාවුර්, කුලියාපිටිය සහ හලාවත පොලිස් වසම්වලින්ය.
+
+කුලියාපිටිය - හෙටිටිපොළ මාර්ගයේ, ගොමුගමුව මංසන්දිය ආසන්නයේදී හෙට්ටිපොළ දෙස සිට පැමිණි ලොරි රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදි දෙකක ගැටී තිබුණි.
+
+එහිදී බරපතළ තත්ත්වයේ පසුවූ තුවාලකරුවන් තිදෙනෙකු කොළඹ ජාතික රෝහලට සහ කුරුණැගල ශික්ෂණ රෝහලට මාරුකෙරුණි.
+
+මේ අතර පොල්ගහවෙල - කෑගල්ල මාර්ගයේ පොල්ගහවෙල දෙසට ධාවනය වූ යතුරුපැදියක පසුපස එම දිශාවටම ගමන් කල පුද්ගලික බස් රථයක් ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් යතුරුපැදියේ පසුපැදිකාරියව සිටි දැරියක් තුවාල ලබා කුරුණෑගල රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, ඉඹුල්ගස්දෙනිය ප්‍රදේශයේ පදිංචිව සිටි 08 හැවිරිදි දැරියකි.
+
+මේ අතර රත්නපුර - පානදුර මාර්ගයේ රත්නපුර දෙසට ධාවනය වූ මෝටර් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට පැන බෝක්කුවක ගැටී අනතුරක් සිදුව ඇත.
+
+...
+
+[Data](articles/8039ed20.json)
+
+---
 
 ### ඉතාලියේ විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරිය අද දිවයිනට
 
@@ -114,6 +140,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Donald Trump rejects that China posing challenge to US on world stage
+
+*2025-09-03 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112124/donald-trump-rejects-that-china-posing-challenge-to-us-on-world-stage) · `en`
+
+Donald Trump has rejected suggestions that the warming of relations between China, Russia and their allies poses a challenge to the US on the global stage.
+
+The US president told reporters in the Oval Office that he had “a good relationship” with President Xi Jinping and that China “needs us more than we need them”.
+
+It comes as Xi prepares to host world leaders at a “Victory Day” parade in Beijing on Wednesday - a showcase of China’s military might.
+
+Xi will be joined by North Korea’s Kim Jong Un and Russia’s Vladimir Putin, viewed by some observers as a message to the Western nations that have shunned them.
+
+China has sought to position itself as a possible counterweight to the US since Trump’s tariffs rocked the global economic and political order.
+
+Trump has pitched his tariffs as essential to protecting American interests and industry. It appears that any diplomatic cost is something he is willing to pay.
+
+...
+
+[Data](articles/95d60979.json)
+
+---
+
 ### இன்று வெப்ப நிலை குறித்து எச்சரிக்கை
 
 *2025-09-03 08:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வெப்ப-நிலை-குறித்து-எச்சரிக்கை/175-363935) · `ta`
@@ -134,6 +182,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### President pledges to launch series of new development projects this month
+
+*2025-09-03 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112123/president-pledges-to-launch-series-of-new-development-projects-this-month) · `en`
+
+President Anura Kumara Dissanayake says the incumbent government’s objective is to drive national development through a structured plan that recognises economic strengths and brings economic growth to rural areas.
+
+The President further affirmed his administration’s commitment to lifting rural communities out of poverty during his address at the inauguration of the Vadduvakal Bridge construction project in the Mullaitivu District yesterday (02).
+
+President Dissanayake noted that a series of new development projects are set to begin across the country this September. He emphasized that the government will put an end to the long-standing practice of delaying projects beyond their deadlines and spending beyond allocated budgets. Instead, all projects will be completed within the scheduled timeframe to ensure their benefits reach the people without delay.
+
+...
+
+[Data](articles/5959d35e.json)
+
+---
+
 ### මධ්‍යම අධිවේගයේ මාරක අනතුරක්
 
 *2025-09-03 07:40:12* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-මාරක-අනතුරක්/11-418235) · `si`
@@ -145,6 +209,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b0addbeb.json)
+
+---
+
+### Death toll in Central Expressway accident increases two
+
+*2025-09-03 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112122/death-toll-in-central-expressway-accident-increases-two) · `en`
+
+Another person who sustained injuries in the accident reported along the Central Expressway has succumbed, police stated.
+
+According to police, the accident occurred at around 11:00 p.m. yesterday (02) due to a collision between a lorry and a fuel tanker.
+
+◼️
+
+[Data](articles/1fe5e7a3.json)
 
 ---
 
@@ -212,6 +290,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### At least 25 killed in Pakistan attacks, including 14 at political rally
+
+*2025-09-03 06:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112121/at-least-25-killed-in-pakistan-attacks-including-14-at-political-rally) · `en`
+
+At least 25 people were killed in three attacks in Pakistan on Tuesday, officials said, including 14 who died after a suicide bomber targeted a political rally in the southwestern province of Balochistan.
+
+Dozens of people were wounded in that explosion, which took place in the parking lot of a stadium in the provincial capital, Quetta, where hundreds of members of the Balochistan National Party (BNP) had gathered, two provincial officials said, speaking on condition of anonymity.
+
+At least seven of the wounded were in critical condition, the officials said.
+
+Another attack in Balochistan, near the border with Iran, claimed five lives on Tuesday, while six soldiers were killed after a suicide attack on their base in Khyber Pakhtunkhwa province.
+
+Balochistan is Pakistan’s largest and most resource-rich province, but also its poorest, and regularly ranks among the lowest on human development indicator scorecards.
+
+...
+
+[Data](articles/01fb705d.json)
+
+---
+
+### One dead, another injured in Central Expressway accident
+
+*2025-09-03 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112120/one-dead-another-injured-in-central-expressway-accident) · `en`
+
+An individual has died while another person has been seriously injured and hospitalised following a road accident along the Central Expressway last night (02), police stated.
+
+According to police, the accident took place at around 11:00 p.m. yesterday (02) when a lorry and a bowser collided head-on.
+
+The deceased is reported to be the assistant who was traveling in the lorry.
+
+However, when contacted by Ada Derana, police stated that a person is still trapped under the lorry and efforts are underway to rescue the individual.
+
+◼️
+
+[Data](articles/467128a5.json)
+
+---
+
 ### ஐ.தே.க. ஆண்டு விழா ஒத்திவைப்பு
 
 *2025-09-03 06:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-ஆண்டு-விழா-ஒத்திவைப்பு/175-363933) · `ta`
@@ -225,6 +341,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/08da9010.json)
+
+---
+
+### 159th Anniversary of Sri Lanka Police falls today
+
+*2025-09-03 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112119/159th-anniversary-of-sri-lanka-police-falls-today) · `en`
+
+The 159th Anniversary of the Sri Lanka Police will be celebrated today (03).
+
+The first Police office was established on September 3, 1866, with G.W.R. Campbell being appointed as the first Police officer.
+
+This day is recognised as the foundation day of the Sri Lanka Police.
+
+A special commemorative ceremony will be held today at the Police Field Force Headquarters in celebration of the 159th Police Day.
+
+In preparation for the event, the Colombo Traffic Division has arranged a special traffic plan, according to Police Headquarters.
+
+As per this traffic plan, vehicle movement along Havelock Road — from Thummulla Junction to Thimbirigasyaya Junction, within the Bambalapitiya Police Division — will be regulated as follows:
+
+The bus stop located on the outbound route opposite of the Police Field Force Headquarters will be temporarily relocated to the bus stop at the Fonseka Road Junction on Havelock Road, from 2:30 p.m. to 7:00 p.m.
+
+...
+
+[Data](articles/5f0c99ff.json)
 
 ---
 
@@ -486,6 +626,28 @@ My father, the GS village headman, was a man of respect and responsibility. I wa
 
 ---
 
+### Asian Karate dream of Sri Lankan athletes shattered due to visa issues
+
+*2025-09-03 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112118/asian-karate-dream-of-sri-lankan-athletes-shattered-due-to-visa-issues) · `en`
+
+Sri Lankan karate athletes who were scheduled to depart the island yesterday (02) to participate in the 23rd Asian Karate Championship in China were unable to travel due to not receiving their visas.
+
+By the time of the flight’s departure, visas had still not been issued, causing significant distress for the group at Katunayake International Airport.
+
+The championship is to be held in China from September 5th to 7th, and 29 Sri Lankan athletes had qualified to take part.
+
+It has been reported that each participant was charged Rs. 580,000 by the Sri Lanka Karate-Do Federation to cover expenses such as air tickets, visas, and other logistics.
+
+Despite assurances from federation officials that visas would be granted by this morning, athletes were still advised to report to the airport.
+
+However, the flight to China departed at 2:00 p.m. yesterday without them, as the federation failed to secure the necessary visas in time — shattering the athletes’ hopes.
+
+◼️
+
+[Data](articles/9bbc6f20.json)
+
+---
+
 ### Entitlement mentality of national leaders must give way to empathy, sensitivity and morality
 
 *2025-09-03 05:38:57* · [`dailyftlk`](https://www.ft.lk/columns/Entitlement-mentality-of-national-leaders-must-give-way-to-empathy-sensitivity-and-morality/4-781159) · `en`
@@ -497,6 +659,38 @@ The hullabaloo over whether Ranil Wickremesinghe (RW) misused public funds when 
 ...
 
 [Data](articles/64ccf5c8.json)
+
+---
+
+### China to hold massive parade to mark WWII victory
+
+*2025-09-03 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112117/china-to-hold-massive-parade-to-mark-wwii-victory) · `en`
+
+China will hold a massive military parade in central Beijing on Wednesday to mark the 80th anniversary of its victory in World War II, pledging its commitment to peaceful development in a world still fraught with turbulence and uncertainties.
+
+In Tian’anmen Square stand towering structures shaped like the Great Wall -- a symbol of the Chinese nation’s courage and solidarity in resisting foreign aggression -- crowned with giant numerals “1945” and “2025.”
+
+Tens of thousands of people are expected to attend the event.
+
+President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, is expected to address the rally and review the parade.
+
+This will mark the second time since 2015 that China has held a military parade to commemorate the hard-won victory in the Chinese People’s War of Resistance against Japanese Aggression and the World Anti-Fascist War.
+
+...
+
+[Data](articles/4af53abe.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-09-03 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112116/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+A few showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (03), according to the Department of Meteorology.
+
+◼️
+
+[Data](articles/25660d74.json)
 
 ---
 
@@ -1629,191 +1823,5 @@ Diplomatic relations between the two countries were established in 1952. (Colomb
 ◼️
 
 [Data](articles/34463080.json)
-
----
-
-### කිම් ජොන් උන් චීන වෙත පැමිණෙයි
-
-*2025-09-02 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214079) · `si`
-
-උතුරු කොරියානු නායක කිම් ජොන් උන් චීනයේ බීජිං අගනුවර වෙත පැමිණ තිබේ.
-
-චීනයේ පැවැත්වෙන "ජයග්‍රාහී දින" පෙළපාළියේ ආරාධිතයෙකු ලෙස උතුරු කොරියානු නායකවරයා මෙලෙස චීනයට පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
-
-එහිදී කිම් ජොන් උන් චීන ජනාධිපති ෂී ජින්පින්, රුසියාවේ ජනාධිපති ව්ලැද්මීර් පුටින් සහ අනෙකුත් ලෝක නායකයින් සමඟ සාකච්ඡා කිරීමට නියමිතව තිබේ.
-
-උතුරු කොරියානු නායකයාගේ පළමු බහුපාර්ශ්වික ජාත්‍යන්තර හමුව මෙය වන බව සඳහන්ය.
-
-වර්ෂ 1959න් පසු උතුරු කොරියානු නායකයෙකු චීන හමුදා පෙළපාළියකට සහභාගී වූ පළමු අවස්ථාව මෙය වන බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/999cee9d.json)
-
----
-
-### Gold rushes to record high above US$3,500 on US rate cut expectations
-
-*2025-09-02 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112109/gold-rushes-to-record-high-above-us3500-on-us-rate-cut-expectations) · `en`
-
-Gold sailed past US$3,500 per ounce to a record high on Tuesday (Sep 2), as a weaker dollar and mounting expectations of a United States Federal Reserve interest rate cut in September boosted the precious metal’s appeal.
-
-Spot gold was up 0.3 per cent at US$3,487.55 per ounce as of 6.33am (2.33pm, Singapore time) after hitting a record high of US$3,508.50 earlier in the session. Bullion has gained 32 per cent so far this year.
-
-US gold futures for December delivery gained 1.2 per cent to US$3,557.80.
-
-“A corollary of the weaker economic backdrop and expectations of US rate cuts is boosting precious metals,” Capital.com financial market analyst Kyle Rodda said.
-
-“Another factor is the festering confidence crisis in dollar assets because of US President Donald Trump’s attack on Fed’s independence.”
-
-Trump has criticised the Fed and its chair, Jerome Powell, for months for not lowering rates, and recently took aim at Powell over a costly renovation of the central bank’s Washington headquarters.
-
-...
-
-[Data](articles/7c286510.json)
-
----
-
-### North Korea’s Kim arrives in Beijing in armoured train
-
-*2025-09-02 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112108/north-koreas-kim-arrives-in-beijing-in-armoured-train) · `en`
-
-North Korean leader Kim Jong Un has arrived in the Chinese capital Beijing, where he will be attending a military parade, reports say.
-
-The “Victory Day” parade on Wednesday will see Kim rub shoulders with China’s President Xi Jinping, Russia’s Vladimir Putin and other world leaders - making it his first multilateral international meeting.
-
-Kim crossed into China on Tuesday onboard his armoured train, which is said to include a restaurant serving fine French wines and dishes like fresh lobster.
-
-Kim had left Pyongyang on Monday, but the train’s heavy protection means it travels slowly.
-
-Kim’s attendance marks the first time a North Korean leader has attended a Chinese military parade since 1959. He will be among 26 other heads of state - including leaders from Myanmar, Iran and Cuba - who will be there.
-
-His attendance is an upgrade from China’s last Victory Day parade in 2015, when Pyongyang sent one of its top officials, Choe Ryong-hae.
-
-...
-
-[Data](articles/427904de.json)
-
----
-
-### Sri Lanka gets banana culture lab with FAO, China help
-
-*2025-09-02 14:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-banana-culture-lab-with-fao-china-help-239193/) · `en`
-
-ECONOMYNEXT – A state-of-the-art banana tissue culture planting material production laboratory has been set up in Sri Lanka’s North Central Province, with technical assistance from the Food and Agriculture Organization (FAO) under the South-South Cooperation (SSC) Programme with China.
-
-The lab is at the North Central Provincial Agriculture Department’s In-Service Training Institute in Maha Illuppallama.
-
-It will provide high-quality banana tissue cultured planting materials to farmers in the North Central, Northern, and North Western Provinces, the FAO said.
-
-“Until now, farmers in these regions have relied on supplies transported from the southern part of the country, which proved both costly and inefficient due to transport-related damage.”
-
-The facility will improve the availability of disease-free, high-yielding banana planting materials, enabling producers to increase productivity, quality, and profitability.
-
-...
-
-[Data](articles/f9f2bc44.json)
-
----
-
-### First coconut seed production unit in North launched by President
-
-*2025-09-02 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112107/first-coconut-seed-production-unit-in-north-launched-by-president) · `en`
-
-The first coconut seed production unit in the Northern Province was inaugurated today (02) in Pallai under the patronage of President Anura Kumara Dissanayake, as part of the Northern Coconut Triangle Project.
-
-The initiative is being implemented as a collaborative programme between the Coconut Research Institute of Sri Lanka and the Chilaw Plantations Company, the President’s Media Division.
-
-The government has planned to promote Jaffna, Mullaitivu and Mannar as the Northern Coconut Triangle. Under this programme, 16,000 acres of coconut cultivation are expected to be established in the Northern Province by 2025, with expansion to 40,000 acres projected within the three years from 2025 to 2027, the PMD added.
-
-Marking the commencement of operations at the production unit, the President planted a seed coconut sapling.
-
-...
-
-[Data](articles/6468336c.json)
-
----
-
-### රණවිරුවන් පීඩාවට පත්කිරීමක් ගැන පොදුජන පෙරමුණෙන්  මහානාහිමිවරුන්ට ලිපියක්
-
-*2025-09-02 14:02:44* · [`adalk`](https://www.ada.lk/breaking_news/රණවිරුවන්-පීඩාවට-පත්කිරීමක්-ගැන-පොදුජන-පෙරමුණෙන්--මහානාහිමිවරුන්ට-ලිපියක්/11-418225) · `si`
-
-"රණවිරුවන් පීඩාවට පත්කිරීම පිළිබඳව වන සැලකර සිටීමයි" යන ශීර්ෂය යටතේ ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රි සිද්ධාර්ථ සුමංගලාභිධාන මහානායක ස්වාමීන් වහන්සේට සහ අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ධම්මසිද්ධි ශ්‍රි පඤ්ඤානන්ද ඤාණරතනාභිධාන මහානායක ස්වාමින්වහන්සේට ලිපියක් යොමු කර තිබේ.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් නීතිඥ සාගර කාරියවසම් මහතාගේ අත්සනින් යුතුව මෙම ලිපි නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/2ea61934.json)
-
----
-
-### போலி வேலை மோசடி குறித்து எச்சரிக்கை
-
-*2025-09-02 13:52:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-வேலை-மோசடி-குறித்து-எச்சரிக்கை/175-363908) · `ta`
-
-குறைந்த வேலைக்கு அதிக சம்பளம் வழங்குவதாக உறுதியளிக்கும் போலி வேலை மோசடிகள் குறித்து பொதுமக்கள் எச்சரிக்கையாக இருக்க வேண்டும் என்று இலங்கை கணினி அவசர தயார்நிலை குழு (SLCERT) எச்சரித்துள்ளது.
-
-இருப்பினும், மோசடி செய்பவர்கள் ஆன்லைன் விளம்பரங்கள் மூலம் தனிநபர்களை குறிவைத்து, பெரும்பாலும் போலி வேலை வாய்ப்புகளுக்கு பதிவு கட்டணம் அல்லது வைப்புத்தொகையை கோருகின்றனர் என்றும் அக்குழு தெரிவித்துள்ளது..
-
-வேலை மோசடிகளை எவ்வாறு அடையாளம் கண்டு தவிர்ப்பது என்பது குறித்து மக்களுக்கு கல்வி கற்பிப்பதற்காக SLCERT ஒரு சமூக ஊடக பிரச்சாரத்தைத் தொடங்கியுள்ளது.
-
-◼️
-
-[Data](articles/cc7c86a9.json)
-
----
-
-### රණවිරුවන් පීඩාවට පත්කිරීම ගැන පොහොට්ටුවෙන් අස්ගිරි මහ නාහිමිට ලිපියක්
-
-*2025-09-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214078) · `si`
-
-"රණවිරුවන් පීඩාවට පත්කිරීම පිළිබඳව වන සැලකර සිටීමයි" යන මැයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණ විසින් අස්ගිරි පාර්ශවයේ මහා නායක පූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නාහිමියන් වෙත ලිපියක් යොමුකර තිබේ.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ, මහලේකම්, නීතිඥ සාගර කාරියවසම් මහතාගේ අත්සනින් යුතුව මෙම ලිපිය නිකුත් කර ඇත.
-
-මෘතෘභූමියේ නිදහස වෙනුවෙන් දිවි හිමියෙන් කැපවුණු රණවිරුවන් වෙනුවෙන් පෙනී සිටීමේ වගකීම ඉතිහාසය විසින් තම පක්ෂය වෙත පවරා ඇති බව ද එම ලිපියේ සඳහන්ය.
-
-දේශපාලන ව්‍යාපාරයක් ලෙසත් පොදු මහජනතාවගේ සැදුම්ලත් සමාජ ව්‍යාපාරයක් ලෙසත් එකී වගකීම ඉටුකිරීමට තම පක්ෂය බැදී සිටින අතර, ඒ සඳහා උත්තරීතර මහානායක ස්වාමීන් වහන්සේ ප්‍රමුඛ ගෞරවනීය මහා සංඝරත්නයේ ආශිර්වාදාත්මක සහයෝගය පාද නමස්කාර පූර්වකව අයැද සිටින බව අදාළ ලිපියේ වැඩිදුරටත් දැක්වේ.
-
-◼️
-
-[Data](articles/0f056697.json)
-
----
-
-### Acting Director of Police Cultural Division SSP Sathish Gamage further remanded
-
-*2025-09-02 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112106/acting-director-of-police-cultural-division-ssp-sathish-gamage-further-remanded) · `en`
-
-The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 16, Ada Derana reporter said.
-
-The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after considering the facts presented by officers of the Bribery Commission and the defense counsel.
-
-SSP Sathish Gamage was arrested and produced before court by the Bribery Commission in connection with allegations of accepting bribes amounting to approximately Rs. 14 million from drug traffickers, organized criminals, and members of the public seeking services from police.
-
-The Bribery Commission previously informed court that these funds were discovered in three separate bank accounts.
-
-...
-
-[Data](articles/af91ab89.json)
-
----
-
-### ஞாயிற்றுகளில் ‘காலை’ தடை
-
-*2025-09-02 13:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞாயிற்றுகளில்-காலை-தடை/175-363907) · `ta`
-
-ஞாயிற்றுக்கிழமை காலை நேரத்தில் அறநெறிப் பாடசாலை கல்விக்காக, பிரத்தியேக வகுப்புகளை மாத்தறை நகரில் தடை செய்வதற்குத் தேவையான நடவடிக்கைகள் எடுக்கப்படும் என்று குழந்தைகள் மற்றும் மகளிர் விவகார அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் தெரிவித்தார்,
-
-முதலாம் ஆண்டு முதல் க.பொ.த. சாதாரண தரம் வரையிலான வகுப்புகளுக்கான பிரத்தியேக வகுப்புகள், ஞாயிற்றுக்கிழமை காலை நேரத்தில் தடை செய்யப்படும் இந்த நடவடிக்கையை செயல்படுத்துமாறு  மாத்தறை நகரசபைக்கு அமைச்சர் பணித்தார்.
-
-க.பொ.த. உயர்தரத்துக்கு மேலதிக வகுப்புகளை ஞாயிற்றுக்கிழமைகளில் காலை நேரத்தில் தடை செய்வது நடைமுறைக்கு ஏற்றதல்ல என்றும், இது குறித்து மேலும் விவாதங்கள் நடத்தப்படும் என்றும் அமைச்சர் கூறினார்.
-
-குறிப்பாக அறநெறிப் பாடசாலை கல்வி இல்லாததால், குழந்தைகள் வழிதவறிச் செல்லும் போக்கு அதிகரித்துள்ளது என்றும், எனவே ஞாயிற்றுக்கிழமை காலை நேரத்தில் அறநெறிப் பாடசாலைக்கு குழந்தைகளை அனுப்புவது முக்கியம் என்றும் அரச அதிகாரிகள் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/055d0dce.json)
 
 ---

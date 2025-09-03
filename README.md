@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 20:08:06**
+As of **2025-09-03 20:21:33**
 
 ## Newspaper Stats
 
-*Scraped **73,976** Articles*
+*Scraped **73,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,151
-adaderanalk | 9,436
-tamilmirrorlk | 11,009
+adaderanalk | 9,437
+tamilmirrorlk | 11,010
 virakesarilk | 12,096
-adaderanasinhalalk | 12,849
+adaderanasinhalalk | 12,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,976 articles have been extended.
+61,973 (83.8%) of 73,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### இதுவரை 17 பேர் நாட்டுக்கு அழைத்துவரப்பட்டனர்
+
+*2025-09-03 20:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-17-பேர்-நாட்டுக்கு-அழைத்துவரப்பட்டனர்/175-363984) · `ta`
+
+இந்தோனேசியாவில் சமீபத்தில் கைது செய்யப்பட்ட 5 பாதாள உலக நபர்கள் உட்பட 17  ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் இந்த ஆண்டில் இதுவரை இலங்கைக்கு அழைத்து வரப்பட்டுள்ளதாக பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய தெரிவித்தார்.
+
+இலங்கை பொலிஸ் துறையின் 159ஆவது ஆண்டு விழாவில் கலந்துகொண்டு உரையாற்றிய போது அவர் இதனைக் குறிப்பிட்டார்.
+
+இந்த ஆண்டு இதுவரையான காலப்பகுதியில் ரி 56 துப்பாக்கிகள் மற்றும் கைத்துப்பாக்கிகள் உட்பட 1,612 சட்டவிரோத ஆயுதங்களை பொலிஸார் கைப்பற்றியுள்ளதாக பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய கூறினார். R
+
+◼️
+
+[Data](articles/0823a08e.json)
+
+---
 
 ### செம்மணியில் இன்றும் பல எலும்புக்கூடுகள் மீட்பு
 
@@ -59,6 +75,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/17363b9b.json)
+
+---
+
+### මාළිගාවත්තේ වෙඩිතැබීමේ යටගියාවක් එළියට
+
+*2025-09-03 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214135) · `si`
+
+මාළිගාවත්ත ප්‍රදේශයේදී අද (3) දහවල් සිදුවූ වෙඩිතැබීම අපරාධකරුවකු වන කංජිපානි ඉම්රාන්ගෙන් පළිගැනීම සඳහා සිදුකරන ලද්දක් බවට සැකකරන බව පොලීසිය පවසයි.
+
+අද පෙරුවරු 11.20ට පමණ මාළිගාවත්ත පොලීසියට මීටර 100ක පමණ දුරින් පිහිටි ත්‍රිරෝද රථ අමතර කොටස් වෙළෙඳසැලකදී වෙඩිතැබීමක් සිදුව තිබුණි.
+
+වෙඩික්කරු ටී-56 ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකළ අතර, ඔහුගේ ඉලක්කය වූ වෙළෙඳසැලේ අයකැමිවරයා පරිගණකයක තිරයකට මුවාවී වෙඩි ප්‍රහාරයෙන් බේරී ඇත.
+
+කෙසේ වෙතත් රෝහල් ආරංචිමාර්ග සඳහන් කළේ, වෙඩි ප්‍රහාරයෙන් අදාළ වෙළෙඳසැලේ අයකැමිවරයාගේ අතකට තුවාල සිදුව ඇති බවත්, ඔහුගේ තත්ත්වය බරපතළ නොවන බවත්ය.
+
+පොලීසිය සැකපලකරන්නේ අදාළ වෙළෙඳසැලේ හිමිකරු කංජිපානි ඉම්රාන් නම් අපරාධකරුගේ යහළුවෙක් බවයි.
+
+ඒ අනුව කංජිපානි ඉම්රාන්ගෙන් පළිගැනීමේ අරමුණින් මෙම වෙඩිප්‍රහාරය එල්ල කරන්නට ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/0392df46.json)
 
 ---
 
@@ -123,6 +161,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/11d0203d.json)
+
+---
+
+### President AKD appoints 18 new High Court Judges
+
+*2025-09-03 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112144/president-akd-appoints-18-new-high-court-judges) · `en`
+
+President Anura Kumara Dissanayake has appointed 18 new Judges of the High Court.
+
+The newly appointed High Court Judges include 17 Special Class Judicial Officers and a Senior State Attorney serving in the Attorney General’s Department.
+
+Accordingly, they received their letters of appointment from the President at the Presidential Secretariat in Colombo today (3).
+
+07. Mr. D.M.D.C. Bandara (Senior Assistant Secretary, Judicial Service Commission)
+
+◼️
+
+[Data](articles/e3169e70.json)
 
 ---
 
@@ -1721,43 +1777,5 @@ According to police, two individuals who arrived on a motorcycle carried out the
 ...
 
 [Data](articles/86d68a55.json)
-
----
-
-### රුහුණු විද්‍යා පීඨයේ සීසීටීවී කැමරා 24න් 15ක් අක්‍ර‍ීයයි
-
-*2025-09-03 10:49:58* · [`adalk`](https://www.ada.lk/breaking_news/රුහුණු-විද්‍යා-පීඨයේ-සීසීටීවී-කැමරා-24න්-15ක්-අක්‍ර‍ීයයි/11-418244) · `si`
-
-අක්මිමන කුරුදුවත්තේ පිහිටි රුහුණ ජාතික අධ්‍යාපන විද්‍යාපිඨය තුල ස්ථාපිත කොට ඇති  සි.සි.ටි.වි කැමරා පද්ධතියෙහි කැමරා 24න් 15ක්  අක්‍රියව පවතින බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
-
-එමෙන්ම විද්‍යා පිඨය සදහා ලැබි තිබු අත්ට්‍රැක්ටරය  වසර 10ක පමණ කාලය සිට  කිසිදු ප්‍ර යෝජනයකට නොගෙන  නිෂ්කාර්යව පවතින බවද  විගණනය මගින් අනාවරණය කොට ඇත. මේ පිළිබද රුහුණ ජාතික අධ්‍යාපන  විද්‍යා පිඨයේ  පිඨාධිපති ආචාර්ය, එස්.එන්.කේ. නානායක්කාර මහත්මියගෙන් අප කළ විමසුමකදි මෙසේ කිවාය.
-
-"විද්‍යා පිඨය ආරම්භ කරණ විට තමයි මෙම  සි.සි.ටි.වි කැමරා පද්ධතිය  සවිකරලා තියෙන්නේ. ගොඩක් පරණ කැමරා තමයි තියෙන්නේ .මේ වනවිට කැමරා 11ක් පමණ ක්‍රියාකාරි තත්ත්වයේ තියෙනවා.  ඉතිරි  කැමරා අලුත්වැඩියා කිරිමට කටයුතු කරණවා. මේගැන  පරික්ෂාකිරිම සදහා   ඉංජිනේරුවරයකු ද පැමිණිමට නියමිතව තියෙනවා.ගෘහස්ථ ක්‍රිඩාගාරය පාවිච්චිකරණවා.ගෘහස්ත ක්‍රිඩංගනය තැන් තැන්වලින් තෙමුනා.
-
-...
-
-[Data](articles/2754ff77.json)
-
----
-
-### கச்சதீவு...
-
-*2025-09-03 10:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கச்சதீவு/62-363946) · `ta`
-
-கச்சதீவை மீட்குமாறு நடிகர் விஜய், இந்திய பிரதமர் மோடியிடம் பகிரங்க கோரிக்கை விடுத்திருந்த நிலையில், கச்சதீவுக்குச் சென்ற ஜனாதிபதி அனுரகுமா திசாநாயக்க, அதிரடியான அறிவிப்பை விடுத்திருந்தார்.
-
-◼️
-
-[Data](articles/824f09b8.json)
-
----
-
-### கச்சதீவு...
-
-*2025-09-03 10:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கச்சத்தீவு/62-363946) · `ta`
-
-◼️
-
-[Data](articles/f7719cb7.json)
 
 ---

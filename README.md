@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 16:08:26**
+As of **2025-09-03 16:20:48**
 
 ## Newspaper Stats
 
-*Scraped **73,933** Articles*
+*Scraped **73,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,144
-adaderanalk | 9,430
+adaderanalk | 9,431
 tamilmirrorlk | 10,999
-virakesarilk | 12,086
+virakesarilk | 12,088
 adaderanasinhalalk | 12,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,933 articles have been extended.
+61,973 (83.8%) of 73,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### வேகக் கட்டுப்பாட்டை இழந்து கால்வாய்க்குள் பாய்ந்த முச்சக்கர வண்டி ; சாரதி வைத்தியசாலையில் அனுமதி!
+
+*2025-09-03 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224112) · `ta`
+
+அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட வீரமுனை நூலகத்திற்கு அருகாமையில் வேகக் கட்டுப்பாட்டை இழந்த முச்சக்கர வண்டி ஒன்று கால்வாய்க்குள் பாய்ந்து விபத்துக்குள்ளான சம்பவமொன்று இன்று  புதன்கிழமை (03) இடம்பெற்றுள்ளது.
+
+சம்மாந்துறை மஜீட்புரம் பகுதியைச் சேர்ந்த 26 வயதுடைய முச்சக்கர வண்டி சாரதியே இவ்வாறு விபத்தில் காயமடைந்த நிலையில் சம்மாந்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/1b3f5f2a.json)
+
+---
+
+### 80 ஆயிரம் புறாக்களை பறக்கவிட்டு சீன மக்கள் விடுதலை இராணுவத்தின் 80 ஆவது ஆண்டு வெற்றி விழா கொண்டாட்டம்
+
+*2025-09-03 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/224109) · `ta`
+
+80 ஆயிரம் புறாக்களை பறக்கவிட்டு, சீன மக்கள் விடுதலை இராணுவத்தின் 80 ஆவது ஆண்டு வெற்றி விழா, சீனாவின் தலைநகர் பெய்ஜிங்கில் பிரமாண்டமாக நடைபெற்றது. இந்நிலையில், இதன் நேரடி ஒளிபரப்பு கொழும்பில் உள்ள சீன தூதரகத்தின் ஏற்பாட்டில் சீனத் தூதுவரின் தலைமையில் இன்று புதன்கிழமை (3) காலை சினமன் லைப் ஹோட்டலில் இடம்பெற்றது.
+
+சீனாவில் இடம்பெற்ற வெற்றிக் கொண்டாட்டம் சீன ஜனாதிபதி சீ ஜின்பிங் தலைமையில் இடம்பெற்றது. இந் நிகழ்வில் ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டின், வடகொரிய ஜனாதிபதி கிம் ஜாங்-உன் மற்றும் ஈரான், கியூபா உள்ளிட்ட 26 நாடுகளின் தலைவர்கள் பங்கேற்றனர்.
+
+இரண்டாம் உலகப் போரில் ஜப்பானிய ஆக்கிரமிப்புக்கு எதிராக சீனா பெற்ற வெற்றியின் 80 ஆவது ஆண்டு நிறைவைக் குறிக்கும் வகையில் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டது.
+
+சீனாவின் முக்கிய இராணுவ அணிவகுப்பில் பங்கேற்பதற்காக வடகொரிய தலைவர் கிம் ஜாங்-உன் செவ்வாய்க்கிழமை (செப்டம்பர் 2) குண்டு துளைக்காத ரயில் மூலம் பெய்ஜிங் சென்றடைந்தார்.
+
+...
+
+[Data](articles/dc74f2b8.json)
+
+---
 
 ### ’’வெவ்வேறு விலையில் மருந்துகளை விற்க முடியாது’’
 
@@ -109,6 +141,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e6fd959f.json)
+
+---
+
+### Deputy Foreign Minister of Italy arrives in Sri Lanka
+
+*2025-09-03 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112139/deputy-foreign-minister-of-italy-arrives-in-sri-lanka) · `en`
+
+The Deputy Minister for Foreign Affairs of Italy, Maria Tripodi, has arrived in Sri Lanka today (03) on an official visit.
+
+The Deputy Minister will remain in Sri Lanka until September 5, the Ministry of Foreign Affairs, Foreign Employment and Tourism said in a statement.
+
+This visit is significant as it marks the highest-level incoming visit from Italy to Sri Lanka in almost a decade, the Foreign Ministry stated.
+
+During her visit, Deputy Minister Tripodi will co-chair, along with Arun Hemachandra, the Deputy Minister of Foreign Affairs and Foreign Employment, the inaugural session of the Sri Lanka–Italy Political Consultations.
+
+A Memorandum of Understanding on the Establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.
+
+...
+
+[Data](articles/8c9a7e7c.json)
 
 ---
 
@@ -1715,65 +1767,5 @@ However, at the moment US monetary policy is better than before it was in March 
 ◼️
 
 [Data](articles/b0addbeb.json)
-
----
-
-### Death toll in Central Expressway accident increases two
-
-*2025-09-03 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112122/death-toll-in-central-expressway-accident-increases-two) · `en`
-
-Two individuals have died while another person has sustained injuries in an accident involving a lorry carrying flour and a fuel tanker along the Central Expressway in Madurupitiya, last night.
-
-Police stated both vehicles veered off the expressway and crashed into a nearby paddy field.
-
-The collision occurred between a bowser traveling from Trincomalee and a lorry carrying wheat flour, also coming from Trincomalee. The vehicles had then veered off the expressway and fallen into a paddy field after breaking through the roadside barrier.
-
-Area residents and police intervened to transport the injured to the hospital.
-
-The assistant of the bowser died upon admission to the Mirigama Hospital, while the driver of the bowser was initially admitted to the same hospital and transferred to the Wathupitiwala Base Hospital for further treatment.
-
-The accident occurred around 11:15 p.m. the night before last.
-
-...
-
-[Data](articles/1fe5e7a3.json)
-
----
-
-### நீதிமன்ற வளாகத்தில் ஹரக் கட்டாவை கொலை செய்ய திட்டம்
-
-*2025-09-03 07:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்ற-வளாகத்தில்-ஹரக்-கட்டாவை-கொலை-செய்ய-திட்டம்/175-363934) · `ta`
-
-பிரபல ஒழுங்கமைக்கப்பட்ட குற்றவாளியான ஹரக் கட்டாவை நீதிமன்ற வளாகத்தில் வைத்து கொலை செய்ய முன்னெடுக்கப்பட்ட திட்டம் பொலிஸாரால் முறியடிக்கப்பட்டுள்ளது.
-
-இதற்காக பத்திரிகையாளர் போல் மாறுவேடமிட்டிருந்த துப்பாக்கிதாரி ஒருவர் நேற்று (02) மஹரகமவில் வைத்து மேற்கு மாகாண வடக்கு குற்றப் பிரிவால் கைது செய்யப்பட்டார்.
-
-இந்தக் கொலைத் திட்டம் கெஹெல்பத்தர பத்மேவின் வேண்டுகோளின் பேரில் திட்டமிடப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-சந்தேக நபரிடமிருந்து எரிந்த நிலையில் ஒரு வீடியோ கெமரா மற்றும் துப்பாக்கி ஒன்று கைப்பற்றப்பட்டன. R
-
-◼️
-
-[Data](articles/68b599e0.json)
-
----
-
-### මධ්‍යම අධිවේගයේ මාරක අනතුරක් - පුද්ගලයෙක් මරුට
-
-*2025-09-03 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214101) · `si`
-
-මධ්‍යම අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරින් මේ වනවිට පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බව "අද දෙරණ" වාර්තාකරු පවසයි.
-
-මධ්‍යම අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් පුද්ගලයෙක් මියගොස් තවත් පුද්ගලයෙක් බරපතළ තුවාල රෝහල් ගත තිබේ.
-
-ඊයේ (02) රාත්‍රී 11.00ට පමණ ලොරි රථයක් සහ බව්සර් රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
-
-අනතුරින් මියගොස් ඇත්තේ, ලොරි රථයේ ගමන්කළ රිය සහායකයා බව වාර්තා වෙයි.
-
-කෙසේ වෙතත් අප කළ විමසීමකදී පොලීසිය පැවසුවේ, මේ වනවිටත් පුද්ගලයෙක් ලොරි රථයට යටවී සිටින අතර එම පුද්ගලයාව බේරාගැනීමට කටයුතු කරමින් සිටින බවය.
-
-◼️
-
-[Data](articles/ae08d346.json)
 
 ---

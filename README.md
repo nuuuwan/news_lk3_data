@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 15:08:17**
+As of **2025-09-03 15:19:09**
 
 ## Newspaper Stats
 
-*Scraped **73,921** Articles*
+*Scraped **73,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,142
 adaderanalk | 9,429
-tamilmirrorlk | 10,996
+tamilmirrorlk | 10,997
 virakesarilk | 12,082
 adaderanasinhalalk | 12,837
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,921 articles have been extended.
+61,973 (83.8%) of 73,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### 3 வருட காதல்: தங்கையையே மிரட்டி வன்புணர்ந்த அண்ணன்
+
+*2025-09-03 15:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வருட-காதல்-தங்கையையே-மிரட்டி-வன்புணர்ந்த-அண்ணன்/175-363962) · `ta`
+
+குஜராத் மாநிலத்தின் பவநகர் மாவட்டத்தில், தலஜா நகரத்திற்கு அருகிலுள்ள ஒரு கிராமத்தில், 22 வயது இளம்பெண் ஒருவர், தனது பெற்றோர் மற்றும் , 29 வயதான  சகோதரருடனும் இணைந்து வாழ்ந்து வந்தார்.
+
+இந்தச் சூழலில், கடந்த ஜூலை 13-ம் திகதி, அவரது சகோதரர், தன் மனைவி பெற்றோர் வீட்டுக்கு சென்றிருந்த சமயத்தில், இளம்பெண்ணை கத்தி முனையில் மிரட்டி பாலியல் வன்கொடுமை செய்ததாக, பொலிஸில் புகார் பதிவு செய்யப்பட்டுள்ளது.
+
+இதனையடுத்து, ஆகஸ்ட் 22-ம் திகதி, மீண்டும் ஒருமுறை அத்துமீறல் நிகழ்ந்துள்ளது. மேலும், இளம் பெண்ணின் வலது தொடையில் பீடியை வைத்து சூடும் வைத்ததாக கூறப்படுகிறது. இச்சம்பவத்தினால் மனவேதனையடைந்த அவர், பின்னர்  போலீசிடம் முறையிட்டார்.
+
+பாதிக்கப்பட்ட இளம்பெண், கடந்த மூன்று ஆண்டுகளாக ஊரில் வசிக்கும் இளைஞரொருவருடன் காதல் தொடர்பில் இருந்ததாகவும், இந்தத் தகவல் அவரது சகோதரருக்கு முன்கூட்டியே தெரிந்திருந்ததாகவும் விசாரணையில் தெரியவந்துள்ளது. அந்த தகவலை பயன்படுத்திக் கொண்டு, சகோதரர், தனது சகோதரியை காதலை கைவிடுமாறு கத்தி முனையில் மிரட்டி  பலாத்காரத்தில் ஈடுபட்டதாக போலீசார் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/5eb77f95.json)
+
+---
 
 ### மகளுடன் சீன வந்த கிம் ஜாங் உன்
 
@@ -1753,23 +1771,5 @@ Located at the heart of a fast-growing hub for logistics, agriculture, retail, a
 ...
 
 [Data](articles/79abb67e.json)
-
----
-
-### CEAT kicks off next big move in off highway mobility
-
-*2025-09-03 06:13:45* · [`dailyftlk`](https://www.ft.lk/business/CEAT-kicks-off-next-big-move-in-off-highway-mobility/34-781168) · `en`
-
-From left: CEAT Kelani Holdings CEO and MD Ravi Dadlani, High Commission of India, Colombo First Secretary – Economic and Commercial Devika Lal, CEAT, India MD and CEO Arnab Banerjee, High Commissioner of India to Sri Lanka Santosh Jha and CEAT Specialty CEO Amit Tolani
-
-CEAT acquires Michelin Group’s CAMSO Construction Compact Line Business, including Sri Lanka’s Midigama plant and Casting Product plant in Kotugoda, integrating the CAMSO brand into its OHT strategy
-
-With CAMSO’s equity in EU and North America, CEAT gains access to 40+ global OEMs and premium distributors, accelerating its vision to be a global leader in Off-Highway mobility
-
-investment in Sri Lanka over the next three years, securing 1,483 jobs and strengthening the nation’s role as a global OHT hub
-
-...
-
-[Data](articles/2d6d36b6.json)
 
 ---

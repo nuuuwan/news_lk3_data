@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 05:18:10**
+As of **2025-09-03 05:32:38**
 
 ## Newspaper Stats
 
-*Scraped **73,784** Articles*
+*Scraped **73,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 754
 economynextcom | 4,495
 islandlk | 4,533
 dailymirrorlk | 4,733
-dailyftlk | 5,220
+dailyftlk | 5,221
 adalk | 7,118
 adaderanalk | 9,409
 tamilmirrorlk | 10,974
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,784 articles have been extended.
+61,973 (84.0%) of 73,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### SLPP seeks Maha Sangha’s support over harassment of war heroes
+
+*2025-09-03 05:14:21* · [`dailyftlk`](https://www.ft.lk/news/SLPP-seeks-Maha-Sangha-s-support-over-harassment-of-war-heroes/56-781148) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has written to the Chief Prelate of the Asgiriya Chapter of the Siam Nikaya, the Most Ven. Warakagoda Sri Gnanarathana Thero, raising concerns about what it describes as the “harassment” of war heroes.
+
+The letter, signed by SLPP General Secretary Sagara Kariyawasam, stresses that the party considers it a historic responsibility to defend those who fought to protect the freedom of the country.
+
+“History has entrusted the SLPP with the responsibility of standing up for the war heroes who sacrificed their lives for the freedom of the motherland. This is a responsibility that the party cannot abandon,” the letter states.
+
+Reaffirming the SLPP’s stance, Kariyawasam wrote that as both a political party and a social movement shaped by the will of the people, the SLPP remains committed to safeguarding the dignity of war heroes.
+
+...
+
+[Data](articles/695b0ca6.json)
+
+---
 
 ### Sri Lanka moved to end elite impunity with arrest of former president
 
@@ -1817,29 +1835,5 @@ The Kapruka Saviya programme will also introduces modern market tools to future-
 ...
 
 [Data](articles/51d130cf.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-02 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-239098/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.07/12 to the US dollar in the spot market Tuesday, weaker from 301.97/302.07 the previous day, while bond yields were broadly steady, dealers said.
-
-74,000 million rupees of Treasury bills are to be issued through an auction on Wednesday.
-
-A bond maturing on 15.12.2028 was quoted at 8.98/9.08 percent, down from 8.98/9.10 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.54/66 percent, down from 9.55/65 percent.
-
-A bond maturing on 15.05.2030 was quoted at 9.50/60 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.30/40 percent.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.28 percent, or 58.98 points, at 21,121; the S&P SL20 was up 0.02 percent, or 1.38 points, at 6,072.
-
-...
-
-[Data](articles/96dbea17.json)
 
 ---

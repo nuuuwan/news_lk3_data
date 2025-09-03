@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 14:09:27**
+As of **2025-09-03 14:23:14**
 
 ## Newspaper Stats
 
-*Scraped **73,911** Articles*
+*Scraped **73,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,138
+adalk | 7,139
 adaderanalk | 9,429
 tamilmirrorlk | 10,993
 virakesarilk | 12,080
-adaderanasinhalalk | 12,836
+adaderanasinhalalk | 12,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,911 articles have been extended.
+61,973 (83.8%) of 73,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### BYD වාහන 506ක් මුදා හැරීමට රේගුව අධිකරණය හමුවේ එකඟවෙයි
+
+*2025-09-03 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214119) · `si`
+
+ශ්‍රී ලංකා රේගුව මඟින් රඳවා ගෙන සිටින BYD විද්‍යුත් වාහන 506ක් අමතර බැංකු ඇපකරයක් ඉදිරිපත් කිරීමෙන් අනතුරුව මුදාහැරීමට ශ්‍රී ලංකා රේගුව අද (03) අභියාචනාධිකරණය හමුවේ එකඟ විය.
+
+අදාළ වාහන ආනයනය කළ ජොන් කිල්ස් ඔටෝ ප්‍රයිවට් ලිමිටඩ් සමාගම විසින් ගොනුකර තිබෙන පෙත්සමක් අද කැඳවූ අවස්ථාවේදී මෙම එකඟතාවය පළ කෙරුණි.
+
+◼️
+
+[Data](articles/a630cb48.json)
+
+---
 
 ### මාළිගාවත්තේ වෙඩිතැබීමේ CCTV දර්ශන
 
@@ -674,6 +688,22 @@ According to police, two individuals who arrived on a motorcycle carried out the
 
 ---
 
+### කරාතේ දෝ සංගමය කරාතේ ක්‍රීඩකයන්ව කටුනායකදී අතරමං කරවයි
+
+*2025-09-03 10:44:41* · [`adalk`](https://www.ada.lk/sports/කරාතේ-දෝ-සංගමය-කරාතේ-ක්‍රීඩකයන්ව-කටුනායකදී-අතරමං-කරවයි/9-418243) · `si`
+
+චීනයේ 23 වන ආසියානූ කැඩෙට් , කනිෂ්ඨ සහ වයස අවුරුදු 21 න් පහළ ශූරතා තරගාවලියට ( 23 rd Asian , Cadet , Junior @ U21 Karate Championship ) ශ්‍රී ලංකාවේ කරාටේ දෝ සම්මේලනය නියෝජනය කරමින් සහභාගී වීමට යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටි තරගකරුවන් 31 දෙනෙකුට වීසා නොතිබීම 09/03 දින සවස ආපසු හිස් අතින් සිය ගම්බිම් බලා යාමට සිදු විය .
+
+මෙම තරගාවලිය ආසියානූ කළාපයේ රටවල ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සහභාගීත්වයෙන් එළඹෙන 09/05 දින සිට 09/07 දින දක්වා චීනයේ ෂාඕගුආන් ( China - Shaoguan ) හීදී පැවැත්වීමට නියමිතය .
+
+ශ්‍රී ලංකා කරාටේ දෝ සම්මේලනය විසින් ශ්‍රී ලංකාව පුරා , එම සම්මේලනයට අදාල අනුබද්ධිත ශාඛා වලින් තෝරා ගත් 31 දෙනෙකු මාස එකහමාරක කාළයක් පුහුණු කිරීමෙන් අනතුරුව මෙම තරගාවලිය සදහා චීනය බලා පිටත්ව යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/7724aa91.json)
+
+---
+
 ### Fire breaks out in Buttala Yudaganawa mountain reserve
 
 *2025-09-03 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112130/fire-breaks-out-in-buttala-yudaganawa-mountain-reserve) · `en`
@@ -1310,7 +1340,7 @@ President Dissanayake noted that a series of new development projects are set to
 
 *2025-09-03 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-in-july-amid-244mn-current-account-surplus-239280/) · `en`
 
-ECONOMYNEXT – Sri Lanka has recorded an external current account surplus of 188 million US dollars in July 2025, up from 187.7 million dollars, official data showed, while the rupee depreciated from 299.9 to 302.2 to the US dollar in the same month.
+ECONOMYNEXT – Sri Lanka has recorded an external current account surplus of 244.6 million US dollars in July 2025, up from 187.7 million dollars, official data showed, while the rupee depreciated from 299.9 to 302.2 to the US dollar in the same month.
 
 From end December 2024 to when the external current account was in deficit (money was printed in the last quarter to target the single policy rate, but subsequently reversed), the rupee has depreciated from 292.58 to 302.21 to the US dollar.
 
@@ -1743,41 +1773,5 @@ Wickremesinghe’s planned “special announcement” alone would give the conve
 ...
 
 [Data](articles/c048faa8.json)
-
----
-
-### Journey from war-torn Sri Lanka to Berlin
-
-*2025-09-03 05:44:46* · [`dailyftlk`](https://www.ft.lk/opinion/Journey-from-war-torn-Sri-Lanka-to-Berlin/14-781160) · `en`
-
-I was born in Pavatkulam Unit Two, a small Muslim village in Vavuniya, in the north of Sri Lanka. Life there was simple and rooted in the rhythms of land and water. Our homes stood between a great village tank and vast paddy fields that fed us. Most families were farmers, some fishermen, and together we formed a close-knit community of about 400 Muslim households.
-
-My father, the GS village headman, was a man of respect and responsibility. I was the sixth of his children. My earliest memories are of running through the fields barefoot, helping at harvest, praying at the mosque, and returning home to the smell of wood-fired meals. Childhood was untroubled—or so it seemed. None of us imagined how quickly innocence could shatter.
-
-...
-
-[Data](articles/1d16498d.json)
-
----
-
-### Asian Karate dream of Sri Lankan athletes shattered due to visa issues
-
-*2025-09-03 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112118/asian-karate-dream-of-sri-lankan-athletes-shattered-due-to-visa-issues) · `en`
-
-Sri Lankan karate athletes who were scheduled to depart the island yesterday (02) to participate in the 23rd Asian Karate Championship in China were unable to travel due to not receiving their visas.
-
-By the time of the flight’s departure, visas had still not been issued, causing significant distress for the group at Katunayake International Airport.
-
-The championship is to be held in China from September 5th to 7th, and 29 Sri Lankan athletes had qualified to take part.
-
-It has been reported that each participant was charged Rs. 580,000 by the Sri Lanka Karate-Do Federation to cover expenses such as air tickets, visas, and other logistics.
-
-Despite assurances from federation officials that visas would be granted by this morning, athletes were still advised to report to the airport.
-
-However, the flight to China departed at 2:00 p.m. yesterday without them, as the federation failed to secure the necessary visas in time — shattering the athletes’ hopes.
-
-◼️
-
-[Data](articles/9bbc6f20.json)
 
 ---

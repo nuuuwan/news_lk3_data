@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 11:52:47**
+As of **2025-09-03 12:09:31**
 
 ## Newspaper Stats
 
-*Scraped **73,869** Articles*
+*Scraped **73,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,128
-adaderanalk | 9,418
-tamilmirrorlk | 10,990
-virakesarilk | 12,069
+adalk | 7,129
+adaderanalk | 9,422
+tamilmirrorlk | 10,991
+virakesarilk | 12,077
 adaderanasinhalalk | 12,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,869 articles have been extended.
+61,973 (83.9%) of 73,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### மாளிகாவத்தையில் துப்பாக்கிச் சூடு
+
+*2025-09-03 11:45:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தையில்-துப்பாக்கிச்-சூடு/175-363951) · `ta`
+
+சற்று நேரத்திற்கு முன்பு மாளிகாவத்தையில் நடந்த துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்தார்.
+
+மாளிகாவத்தையில் உள்ள ஒரு உதிரி பாகக் கடையில் மோட்டார் சைக்கிளில் வந்த இரண்டு பேர் ஒருவர் மீது துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/36615adb.json)
+
+---
+
+### கொழும்பு டாக்யார்ட் வர்த்தக இடைநிறுத்தம் டிசம்பர் வரை ஒத்திவைப்பு
+
+*2025-09-03 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224072) · `ta`
+
+இலங்கைப் பத்திரங்கள் மற்றும் பரிவர்த்தனை ஆணைக்குழு செப்டம்பர் மாதம் 10 ஆம் திகதி அன்று நடைபெறவிருந்த அதன் பங்குகளின் வர்த்தகத்தை நிறுத்தி வைப்பதை ஒத்திவைத்துள்ளதாக கொழும்பு டாக்யார்ட் பிஎல்சி செவ்வாய்க்கிழமை தெரிவித்துள்ளது.
+
+இலங்கைப் பத்திரங்கள் மற்றும் பரிவர்த்தனை ஆணைக்குழு வர்த்தக இடைநிறுத்தத்தை டிசம்பர் மாதம் 11 ஆம் திகதி வரை நீடித்துள்ளது.
+
+நிறுவனத்தின் சுயாதீன தணிக்கையாளர்கள் 2023 ஆம் ஆண்டு டிசம்பர் மாதம் 31 ஆம் திகதி மற்றும் 2024 ஆம் ஆண்டு டிசம்பர் மாதம்  31 ஆம் திகதி ஆகிய திகதிகளில் முடிவடைந்த நிதியாண்டுகளுக்கான அறிக்கைகளில், நடப்பு கவலைகள் குறித்து முக்கியத்துவம் அளித்ததை அடுத்து, நிறுவனத்தின் பத்திரங்கள் 2024 ஆம் ஆண்டு ஜூன் மாதம் 10 ஆம் திகதி அன்றும் மீண்டும் 2025 ஆம் ஆண்டு ஜூன் மாதம்  16 ஆம் திகதி  அன்றும் கொழும்பு பங்குச் சந்தையின் (CSE) கண்காணிப்புப் பட்டியலுக்கு மாற்றப்பட்டன.
+
+◼️
+
+[Data](articles/f5385273.json)
+
+---
 
 ### පුහුල්ගල කඳු රක්ෂිතය ගිනි ගනී අක්කර දහයකට වඩා විනාශයි
 
@@ -47,6 +77,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7e8da846.json)
+
+---
+
+### බිරිඳ නිධන් හාරපු තැන ඩීඅයිජී සැමියාත් ඉඳලා, පෙරෙට්ටුවේද‍ි  හඳුනා  ගනී
+
+*2025-09-03 11:30:34* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-නිධන්-හාරපු-තැන-ඩීඅයිජී-සැමියාත්-ඉඳලා--පෙරෙට්ටුවේද‍ි--හඳුනා--ගනී/11-418248) · `si`
+
+අනුරාධපුර ශ්‍රවස්තිපුර තිඹිරිකඩවල  ප්‍රදේශයේ ගල් තලාවක් සහිත ඉඩමක් මත පිහිටි දේවාලයක් ඇතුලත  අනවසරයෙන් කැනීම් කර නිදන් වස්තූන් ලබා ගැනීමට තැත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර  පොලීසිය මගින්  අත්අඩංගුවට ගෙන රිමාන්ඩ්  බන්ධනාගාර ගත කර සිටින කොළඔ දිශාව බාර හිටපු නියෝජ්‍ය පොලිස්ති උදිත් ලියනගේ සහ ඔහුගේ බිරිය සහ කට්ටඩියෙකු ඇතුළු  සැකකරුවන් නව  දෙනා ඇප මත මුදා හරින ලෙස නීතිඥයින් කල ඉල්ලීමක්  අනුරාධපුර ප්‍රධාන මහේස්ත්‍රාත්  නාලක සංජීව ජයසූරිය මහත යළි ප්‍රතික්ෂේප කළේය. ඒ අනුව සියළු සැකකරුවන් සැප්තැම්බර් මස 8 දින දක්වා තවදුරටත් රිමාන්ඩ්  බන්ධනාගාර ගත කරන ලෙසටද ප්‍රධාන මහේස්ත්‍රාත්වරයා නියේග කළේය.
+
+මෙම නවඩුව යළි කැඳවූ අවස්ථාවේ සැකකාර නියෝජ්‍ය පොලිස්පති උදිත් ලියනගේ පමණක් හඳුනා ගැනි‍මේ පෙරෙට්ටුවකට ඉදිරිපත්   කරනු ලැබීය. එහිදි නිදන් හෑරීමේ සිද්ධියේ  වැටලීම් කටයුතු සඳහා සහභාගි වූ  අනුරාධපුර පොලිසියේ අපරාධ විමර්ශන අංශයේ  පොලිස් නිලධාරීන් තිදෙනෙකු විසින් සැකකාර නියෝජ්‍ය පොලිස්පති උදිත් ලියනගේ නිදන් හෑරූ  ස්ථානයේ සිටි බවට පෙරෙට්ටුවේදී පහසුවෙන් හඳුනා ගැනීමට සමත් විය.
+
+...
+
+[Data](articles/1f2941d3.json)
+
+---
+
+### சீனாவில் பிரமாண்ட இராணுவ அணிவகுப்பு
+
+*2025-09-03 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224075) · `ta`
+
+சீனாவில் இரண்டாம் உலகப்போர் வெற்றி மற்றும் ஜப்பான் சரணடைந்ததன் 80-ஆண்டு நிறைவையொட்டி பிரம்மாண்ட இராணுவ அணிவகுப்பு நடைபெற்றது.
+
+பீஜிங் நகரில் உள்ள தியானன்மென் சதுக்கத்தில் நடைபெற்ற இராணுவ அணிவகுப்பை சீன ஜனாதிபதி ஜின்பிங்குடன், ரஷ்ய ஜனாதிபதி புட்டின், வட கொரிய ஜனாதிபதி கிம் ஜாங் உன் உட்பட பலநாட்டு தலைவர்கள் பார்வையிட்டனர்.
+
+இந்த அணிவகுப்பில் அதிநவீன போர் விமானங்கள், கண்டம் விட்டு கண்டம் பாயும் அணுஆயுத ஏவுகணைகள், புதிய நீர்மூழ்கி ட்ரோன்கள் உட்பட சீனாவின் இராணுவ வலிமையை உலகிற்கு பறைசாற்றும் ஆயுதங்களும் இராணுவ தளவாடங்களும் இடம்பெற்றிருந்தன.
+
+◼️
+
+[Data](articles/8934f6cb.json)
 
 ---
 
@@ -123,6 +183,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8427fdff.json)
+
+---
+
+### ராஜித சேனாரத்ன இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழுவில் முன்னிலை!
+
+*2025-09-03 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224074) · `ta`
+
+தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் ராஜித சேனாரத்ன இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழுவில் இன்று புதன்கிழமை )03) காலை முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+
+ஊழல் தொடர்பான விசாரணை தொடர்பில் வாக்குமூலம் வழங்குவதற்காக  ராஜித சேனாரத்ன இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழுவில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+
+இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் மேற்கொள்ளப்பட்டு வரும் விசாரணைகள் தொடர்பில் பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட முன்னாள் அமைச்சர் ராஜித சேனாரத்ன கொழும்பு நீதவான் நீதிமன்றில் ஆகஸ்ட் 29 ஆம் திகதி காலை ஆஜர்ப்படுத்தப்பட்டதையடுத்து எதிர்வரும் செப்டெம்பர் மாதம் 09 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்க்து.
+
+◼️
+
+[Data](articles/2f2bdefb.json)
 
 ---
 
@@ -266,6 +342,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### China holds massive parade to mark 80th anniversary of WWII victory
+
+*2025-09-03 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112129/china-holds-massive-parade-to-mark-80th-anniversary-of-wwii-victory) · `en`
+
+China held a massive military parade in central Beijing on Wednesday to mark the 80th anniversary of its victory in World War II, pledging the country’s commitment to peaceful development in a world still fraught with turbulence and uncertainties.
+
+Towering structures shaped like the Great Wall stood in Tian’anmen Square, symbolizing the Chinese nation’s courage and solidarity in resisting foreign aggression.
+
+President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, oversaw the parade and reviewed the troops.
+
+Standing beside Xi on Tian’anmen Rostrum were Russian President Vladimir Putin and Kim Jong Un, the top leader of the Democratic People’s Republic of Korea, along with more than 20 other foreign leaders.
+
+...
+
+[Data](articles/9fc53c8d.json)
+
+---
+
+### Ex-Minister Rajitha Senaratne at Bribery Commission
+
+*2025-09-03 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112128/ex-minister-rajitha-senaratne-at-bribery-commission) · `en`
+
+Former Minister Rajitha Senaratne, who is currently in remand custody, was presented before the Bribery Commission today (03).
+
+Rajitha Senaratne was taken into custody on August 29 after appearing in court following an arrest warrant that had been issued against him.
+
+Following his court appearance, he was placed in remand custody until September 9.
+
+At the time, Colombo Chief Magistrate Asanka S. Bodaragama ordered prison authorities to present Senaratne before the Bribery Commission at 9:00 a.m. today to record a statement.
+
+◼️
+
+[Data](articles/b2c21128.json)
+
+---
+
 ### රාජිතව අල්ලස් කොමිසමට රැගෙන එයි
 
 *2025-09-03 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214108) · `si`
@@ -298,6 +410,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 2025 ஆம் ஆண்டுக்கான கௌரமிக்க வனவிலங்கு புகைப்படக் கலைஞர் விருதை வென்றார் லக்ஷித கருணாரத்ன
+
+*2025-09-03 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/224066) · `ta`
+
+லண்டனில் உள்ள இயற்கை வரலாற்று அருங்காட்சியகத்தால் ஏற்பாடு செய்யப்பட்ட உலகப் புகழ்பெற்ற ஆண்டின் வனவிலங்கு புகைப்படக் கலைஞர் (WPY) போட்டியில் வனவிலங்கு புகைப்படக் கலைஞர் லக்ஷித கருணாரத்ன மீண்டும் ஒருமுறை விருது பெற்றதன் மூலம் இலங்கைக்கு பெருமை சேர்த்துள்ளார்.
+
+'வனவிலங்கு புகைப்படக் கலைஞருக்கான ஆஸ்கார் விருதுகள்' என்று அடிக்கடி விவரிக்கப்படும் போட்டியில் அவருக்கு வழங்கப்பட்ட இரண்டாவது அங்கீகாரம் இதுவாகும், இதன் மூலம் போட்டியின் 61 ஆண்டுகால வரலாற்றில் பல முறை விருதுகளைப் பெற்ற முதல் இலங்கையர் என்ற பெருமையைப் பெற்றார்.
+
+1965 ஆம் ஆண்டு ஆரம்பிக்கப்பட்ட  வனவிலங்கு புகைப்படக் கலைஞர் விருதுக்கான போட்டியில்,  இந்த ஆண்டு 120 க்கும் மேற்பட்ட நாடுகளிலிருந்து சாதனை படைக்கும் 60,636 உள்ளீடுகளைப் பெற்றது, அதில் 100 படங்கள் மட்டுமே வெற்றியாளர்களாகத் தெரிவுசெய்யப்பட்டன.
+
+'நச்சு குறிப்பு' என்ற தலைப்பில் லக்ஷிதாவின் விருது பெற்ற படம், இலங்கையின் அம்பாறை மாவட்டத்தில் படப்பிடிப்பு இடம்பெற்றுள்ளது.
+
+...
+
+[Data](articles/840fae44.json)
+
+---
+
 ### லொறி கவிழ்ந்து விபத்து ; ஓட்டுநர் பலி
 
 *2025-09-03 09:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-கவிழ்ந்து-விபத்து-ஓட்டுநர்-பலி/175-363939) · `ta`
@@ -311,6 +441,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/23f5cc23.json)
+
+---
+
+### பாகிஸ்தானில் மூன்று வெவ்வேறு இடங்களில் குண்டு தாக்குதல் ; 22 பேர் உயிரிழப்பு
+
+*2025-09-03 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224064) · `ta`
+
+பாகிஸ்தானில் செவ்வாய்க்கிழமை (நேற்று) வெவ்வேறு இடங்களில் நடத்தப்பட்ட மூன்று தாக்குதல்களில் குறைந்தது சுமார் 22 பேர் கொல்லப்பட்டதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இதில், தென்மேற்கு மாகாணமான பலுசிஸ்தானில் ஒரு அரசியல் பேரணியை குறிவைத்து தற்கொலை குண்டுதாரி நடத்திய தாக்குதலில் 11 பேர் உயிரிழந்துள்ளனர்.
+
+ஈரான் எல்லைக்கு அருகிலுள்ள பலுசிஸ்தானில் செவ்வாய்க்கிழமை நடந்த மற்றொரு தாக்குதலில் 5 பேர் கொல்லப்பட்டனர்.
+
+அதேநேரம், கைபர் பக்துன்க்வா மாகாணத்தில் உள்ள அவர்களின் தளத்தின் மீது நடந்த தற்கொலைத் தாக்குதலுக்குப் பின்னர் ஆறு பேர் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/bb5e81af.json)
 
 ---
 
@@ -348,6 +496,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Two suspects arrested in connection with shootings in two areas
+
+*2025-09-03 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112127/two-suspects-arrested-in-connection-with-shootings-in-two-areas) · `en`
+
+Two individuals have been apprehended in connection with shooting incidents that occurred in two separate areas, police stated.
+
+The individuals arrested are suspected to be connected to shooting incidents that took place in Meetiyagoda and Bandaragama.
+
+A suspect was arrested for aiding and abetting a shooting that resulted in the murder of an individual on Malawenna Road in Meetiyagoda on September 01.
+
+The suspect was taken into custody last evening by a team of officers from the Special Task Force (STF) of the Talawakelle camp.
+
+Meanwhile, another suspect was arrested yesterday (02) for aiding and abetting a shooting that occurred on August 21 near the Bolgoda Bridge in Bandaragama, which resulted in the death of a person.
+
+This suspect was arrested in Hirana, Panadura, by a team of officers from the Kalutara Crimes Division.
+
+◼️
+
+[Data](articles/d6c35fca.json)
+
+---
+
 ### පොහොට්ටුව හා නිදහස් පක්ෂය එක්විය යුතුයි
 
 *2025-09-03 09:06:03* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-හා-නිදහස්-පක්ෂය-එක්විය-යුතුයි/11-418239) · `si`
@@ -361,6 +531,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9d8fa6b6.json)
+
+---
+
+### வெப்பமான காலநிலை தொடரும் - வளிமண்டலவியல் திணைக்களம்
+
+*2025-09-03 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224063) · `ta`
+
+நாட்டில் தற்போது நிலவும் வெப்பமான வானிலை தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்து அறிக்கை ஒன்றை வௌியிட்டுள்ளது. நேற்று   பிற்பகல் 2 மணிக்கு வெளியிடப்பட்ட இந்த எச்சரிக்கை, இன்று புதன்கிழமை (03) வரை செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+அந்த வகையில்,வடக்கு, வடமத்திய, கிழக்கு மாகாணங்கள் மற்றும் மொனராகலை, ஹம்பாந்தோட்டை மாவட்ட மக்கள் அவதானத்துடன் செயற்பாடுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+
+இப்பகுதிகளின் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பநிலை எச்சரிக்கை மட்டத்தில் இருக்கக்கூடும் என வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இதனால், வெளிப்புறங்களில் வேலை செய்பவர்கள் இலகுவான  ஆடைகளை அணியுமாறும், நிழலான பகுதிகளில் ஓய்வெடுத்தல் மற்றும் போதியளவு நீரை அருந்துமாறும் அறிவுறுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d3a272f8.json)
 
 ---
 
@@ -410,6 +598,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஐக்கிய தேசிய கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழாவை ஒத்திவைக்க தீர்மானம்
+
+*2025-09-03 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224062) · `ta`
+
+ஆறாம் திகதி இடம்பெற இருந்த ஐக்கிய தேசிய கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழாவை ஒத்தி வைப்பதற்கு கட்சியின் முகாமைத்துவ குழு தீர்மானித்துள்ளது.
+
+நேற்று கொழும்பில் கூடிய கட்சியின் முகாமைத்துவ குழு, கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி ரனில் விக்ரமசிங்கவின் உடல் ஆரோக்கியத்தை கருத்தில் கொண்டு இந்த தீர்மானத்தை எடுத்துள்ளதாக கட்சியின் பொதுச் செயலாளர் தலதா அதுகோரல தெரிவித்தார்.
+
+ஒத்திவைக்கப்பட்டுள்ள ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை இந்த மாதத்தில் பிரிதொரு தினத்தில் நடத்துவதற்கு நடவடிக்கை எடுக்கப்படும் எனவும் அவர் தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வழங்கப்பட்டுள்ள மருத்துவ ஆலோசனை மற்றும் முகாமைத்துவ குழு உறுப்பினர்களின் வேண்டுகோளுக்கமைய இந்த தீர்மானத்திற்கு வந்துள்ளதாகவும் பொதுச்செயலாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/81d5f710.json)
+
+---
+
+### Deputy Foreign Minister of Italy to arrive in Sri Lanka today
+
+*2025-09-03 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112125/deputy-foreign-minister-of-italy-to-arrive-in-sri-lanka-today) · `en`
+
+The Deputy Minister for Foreign Affairs of Italy, Maria Tripodi, is scheduled to arrive in the island on an official visit today (03).
+
+The Deputy Minister will remain in Sri Lanka until September 5, the Ministry of Foreign Affairs, Foreign Employment and Tourism said in a statement.
+
+This visit is significant as it marks the highest-level incoming visit from Italy to Sri Lanka in almost a decade, the Foreign Ministry stated.
+
+During her visit, Deputy Minister Tripodi will co-chair, along with Arun Hemachandra, the Deputy Minister of Foreign Affairs and Foreign Employment, the inaugural session of the Sri Lanka–Italy Political Consultations.
+
+A Memorandum of Understanding on the Establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.
+
+...
+
+[Data](articles/0ab31154.json)
+
+---
+
 ### ඉතාලියේ විදේශ කටයුතු නියෝජ්‍ය අමාත්‍යවරිය අද දිවයිනට
 
 *2025-09-03 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214104) · `si`
@@ -427,6 +653,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/666d9624.json)
+
+---
+
+### மத்திய அதிவேக வீதியில் விபத்து ; இருவர் உயிரிழப்பு
+
+*2025-09-03 08:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224060) · `ta`
+
+மத்திய அதிவேக வீதியில் நேற்று செவ்வாய்க்கிழமை (02) இரவு இடம் பெற்ற விபத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை இரண்டாக அதிகரித்துள்ளது.
+
+லொறி ஒன்று எரிபொருள் கொள்கலனுடன் மோதியதில் இந்த விபத்து இடம்பெற்றதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e1b936dd.json)
 
 ---
 
@@ -632,11 +872,19 @@ However, at the moment US monetary policy is better than before it was in March 
 
 *2025-09-03 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112122/death-toll-in-central-expressway-accident-increases-two) · `en`
 
-Another person who sustained injuries in the accident reported along the Central Expressway has succumbed, police stated.
+Two individuals have died while another person has sustained injuries in an accident involving a lorry carrying flour and a fuel tanker along the Central Expressway in Madurupitiya, last night.
 
-According to police, the accident occurred at around 11:00 p.m. yesterday (02) due to a collision between a lorry and a fuel tanker.
+Police stated both vehicles veered off the expressway and crashed into a nearby paddy field.
 
-◼️
+The collision occurred between a bowser traveling from Trincomalee and a lorry carrying wheat flour, also coming from Trincomalee. The vehicles had then veered off the expressway and fallen into a paddy field after breaking through the roadside barrier.
+
+Area residents and police intervened to transport the injured to the hospital.
+
+The assistant of the bowser died upon admission to the Mirigama Hospital, while the driver of the bowser was initially admitted to the same hospital and transferred to the Wathupitiwala Base Hospital for further treatment.
+
+The accident occurred around 11:15 p.m. the night before last.
+
+...
 
 [Data](articles/1fe5e7a3.json)
 
@@ -770,11 +1018,11 @@ The first Police office was established on September 3, 1866, with G.W.R. Campbe
 
 This day is recognised as the foundation day of the Sri Lanka Police.
 
-A special commemorative ceremony will be held today at the Police Field Force Headquarters in celebration of the 159th Police Day.
+Meanwhile, a special commemorative ceremony will be held today at the Police Field Force Headquarters in celebration of the 159th Police Day.
 
-In preparation for the event, the Colombo Traffic Division has arranged a special traffic plan, according to Police Headquarters.
+In preparation for the event, the Colombo Traffic Division has also announced a special traffic plan, according to Police Headquarters.
 
-As per this traffic plan, vehicle movement along Havelock Road — from Thummulla Junction to Thimbirigasyaya Junction, within the Bambalapitiya Police Division — will be regulated as follows:
+As per the traffic plan, vehicle movement along Havelock Road — from Thummulla Junction to Thimbirigasyaya Junction, within the Bambalapitiya Police Division — will be regulated as follows:
 
 The bus stop located on the outbound route opposite of the Police Field Force Headquarters will be temporarily relocated to the bus stop at the Fonseka Road Junction on Havelock Road, from 2:30 p.m. to 7:00 p.m.
 
@@ -1082,13 +1330,13 @@ The hullabaloo over whether Ranil Wickremesinghe (RW) misused public funds when 
 
 *2025-09-03 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112117/china-to-hold-massive-parade-to-mark-wwii-victory) · `en`
 
-China will hold a massive military parade in central Beijing on Wednesday to mark the 80th anniversary of its victory in World War II, pledging its commitment to peaceful development in a world still fraught with turbulence and uncertainties.
+China will hold a massive military parade in central Beijing today (03) to mark the 80th anniversary of its victory in World War II, pledging its commitment to peaceful development in a world still fraught with turbulence and uncertainties.
 
 In Tian’anmen Square stand towering structures shaped like the Great Wall -- a symbol of the Chinese nation’s courage and solidarity in resisting foreign aggression -- crowned with giant numerals “1945” and “2025.”
 
 Tens of thousands of people are expected to attend the event.
 
-President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, is expected to address the rally and review the parade.
+Chinese President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, is expected to address the rally and review the parade.
 
 This will mark the second time since 2015 that China has held a military parade to commemorate the hard-won victory in the Chinese People’s War of Resistance against Japanese Aggression and the World Anti-Fascist War.
 
@@ -1103,6 +1351,14 @@ This will mark the second time since 2015 that China has held a military parade 
 *2025-09-03 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112116/few-showers-expected-in-parts-of-the-island-today) · `en`
 
 A few showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (03), according to the Department of Meteorology.
+
+Showers or thundershowers may occur at a few places in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
+
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the North-central and North-western provinces and in Hambantota district.
+
+The Met. Department added that the sun will be directly over the latitudes of Sri Lanka from August 28 to September 07 due to its southward relative motion.
+
+Accordingly, the sun will be directly overhead in Marawila, Dampelessa, Mawathagama, Ukuwela and Kalmunai at around 12.09 p.m. today.
 
 ◼️
 
@@ -1523,265 +1779,5 @@ Six times prime minister Wickremesinghe who served as the eighth executive presi
 ...
 
 [Data](articles/49f06abe.json)
-
----
-
-### ‘Harak Kata’ assassination plot foiled? Suspect nabbed with revolver
-
-*2025-09-02 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112113/harak-kata-assassination-plot-foiled-suspect-nabbed-with-revolver) · `en`
-
-A suspect who allegedly planned to shoot and kill notorious underworld figure Nadun Chinthaka alias ‘Karak Kata’ inside a court while disguised as a journalist, has been arrested by police.
-
-The suspect was arrested in Maharagama today (02) by officers of the Western Province North Range Crimes Division.
-
-Police have also taken into custody a revolver firearm, several bullets and a partially burnt video camera found in the possession of the suspect.
-
-It is suspected that the assassination had been ordered by organised criminal gang leader Manudinu Padmasiri Perera, alias ‘Kehelbaddara Padme’, and that the suspect had been planning to carry it out accordingly.
-
-◼️
-
-[Data](articles/9b61a323.json)
-
----
-
-### Ahead of UN session, Sr Lanka FM requests IC to acknowledge, engage
-
-*2025-09-02 19:14:00* · [`economynextcom`](https://economynext.com/ahead-of-un-session-sr-lanka-fm-requests-ic-to-acknowledge-engage-239264/) · `en`
-
-ECONOMYNEXT – Sri Lanka Foreign Minister Vijitha Herath requested the international community to acknowledge the progress made by Sri Lanka’s new government and to engage in constructive dialogue, the Foreign Ministry said.
-
-The move comes a week ahead of the 80th United Nations General Assembly in which President Anura Kumara Dissanayake is expected to address this month.
-
-Minister Herath’s request came when he met Colombo-based diplomats on Tuesday (02) at the Ministry and briefed on the current developments in Sri Lanka.
-
-Sri Lanka is still facing criticism over its conduct in handling human rights during and after a 26-year war that ended in 2009 including war crimes and discrimination of minority.
-
-...
-
-[Data](articles/10e084fc.json)
-
----
-
-### හරක් කටා ඝාතන සැලසුමක තොරතුරු එළියට
-
-*2025-09-02 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214092) · `si`
-
-අත්අඩංගුවේ පසුවන හරක් කටා අධිකරණ පරිශ්‍රයකදී ඝාතනය කිරීම සඳහා මාධ්‍යවේදියෙකු සේ වෙස්ගන්වා සූදානම් කර සිටි වෙඩික්කරුවෙකු බස්නාහිර උතුර අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-කෙහෙල්බද්දර පද්මේගේ වුවමනාව මත මෙම සැලසුම සඳහා සූදානම්ව තිබූ බව වාර්තා වෙයි.
-
-එහිදී සැකකරු සතුව තිබූ, පුලුස්සා දමන ලද විඩියෝ කැමරාවක් හා ගිනිඅවියක් ද සොයාගනු ලැබීය.
-
-◼️
-
-[Data](articles/63665519.json)
-
----
-
-### SLPP writes to Asgiriya Chief Prelate regarding ‘harassment’ of war heroes
-
-*2025-09-02 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112112/slpp-writes-to-asgiriya-chief-prelate-regarding-harassment-of-war-heroes) · `en`
-
-A letter has been directed by the Sri Lanka Podujana Peramuna (SLPP) to the Chief Prelate of the Asgiriya Chapter of Siam Nikaya, the Most Venerable Warakagoda Sri Gnanarathana Thero, expressing concern over the ‘harassment’ of war heroes.
-
-The letter has been issued with the signature of Attorney-at-Law Sagara Kariyawasam, the General Secretary of the SLPP.
-
-The letter states that history has entrusted the SLPP with the responsibility of standing up for the war heroes who sacrificed their lives for the freedom of the motherland.
-
-It further emphasizes that this is a responsibility that the party cannot abandon.
-
-As a political party and as a social movement shaped by the people, the SLPP is committed to fulfilling this responsibility, and in doing so, the party seeks the blessings and support of the Maha Sangha, especially the Chief Prelates, along with the Buddhist clergy, the letter further stated.
-
-◼️
-
-[Data](articles/82df3a23.json)
-
----
-
-### ගණේමුල්ල සංජීව ඝාතනයට පිස්තෝලය සූදානම් කළ අයුරු දැක්වෙන වීඩියෝවක් එළියට
-
-*2025-09-02 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214091) · `si`
-
-ගණේමුල්ල සංජීව ඝාතනය සඳහා යොදාගත් බවට පැවසෙන ගිනිඅවිය ඊට පෙර දිනක සූදානම් කරන අයුරු දැක්වෙන වීඩියෝවක් අප වෙත ලැබුණි.
-
-අපරාධකරුවකු වන ගණේමුල්ල සංජීව පසුගිය පෙබරවාරි 19 වනදා අලුත්කඩේ අංක 5 අධිකරණය තුළදී වෙඩි තබා ඝාතනය කරනු ලැබීය‍.
-
-ඒ සඳහා යොදාගත් පිස්තෝලය රැගෙනවිත් තිබුණේ නීතීඥයන් භාවිත කරන පොතක් කපා සූක්ෂ්ම ලෙස ඒ තුළ බහාලමින්ය.‍
-
-පිස්තෝලය එම පොත තුළට දමා සූක්ෂ්ම ලෙස සකසන අයුුරු අදාළ වීඩියෝපටයේ දැක්වෙයි.
-
-ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී හෙළිවී ඇත්තේ, ගණේමුල්ල සංජීව ඝාතනයට දින කිහිපයකට පෙර යම් කිසිවෙක් මෙම රූගත කිරීම සිදුකොට කෙහෙල්බද්දර පද්මේ වෙත යවා ඇති බවය.
-
-◼️
-
-[Data](articles/a26753ce.json)
-
----
-
-### 2025 වසරේ කීර්තිමත් වනජීවී ඡායාරූප ශිල්පියා ලෙස ලක්ෂිත කරුණාරත්න සම්මාන ලබයි
-
-*2025-09-02 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214090) · `si`
-
-2025 වසරේ බ්‍රිතාන්‍යයේ කීර්තිමත් වනජීවී ඡායාරූප ශිල්පී සම්මාන උළෙලේදී සම්මානයට පාත්‍ර වීමට ශ්‍රී ලාංකික ඡායාරූප ශිල්පියෙකුට හැකි වී තිබේ.
-
-මෙලෙස සම්මානයට පාත්‍ර වී ඇත්තේ, ශ්‍රී ලාංකික ඡායාරූප ශිල්පී ලක්ෂිත කරුණාරත්නය.
-
-ලන්ඩන්/කොළඹ 2025 සැප්තැම්බර් - මහා බ්‍රිතාන්‍යයේ ලන්ඩන් ස්වභාවික ඉතිහාස කෞතුකාගාරය (Natural History Museum, London) විසින් සංවිධානය කරන ලද ලෝක ප්‍රකට, වනජීවී ඡායාරූප ශිල්පී සම්මාන (Wildlife Photographer of the Year – WPY) තරගාවලියේදී ලක්ෂිත කරුණාරත්න මෙලෙස  ශ්‍රී ලංකාවට කීර්තියක් ගෙන එන ලදි.
-
-වනජීවී ඡායාරූපකරණයේ ඔස්කාර් සම්මාන උළෙල‍ේ ලෙස හැඳින්වෙන මෙම තරගාවලියේදී ඔහු ලැබූ දෙවන සම්මානය මෙය වෙයි.
-
-වසර 61ක එහි ඉතිහාසයේ මෙම තරගාවලියේදී දෙවරක් සම්මාන ලැබූ පළමු ශ්‍රී ලාංකිකයාද ලක්ෂිත කරුණාරත්නය.
-
-1965 වසරේ ආරම්භ වූ WPY තරගාවලිය සඳහා මෙවර රටවල් 120කට අධික සංඛ්‍යාවකින් වාර්තාගත ඡායාරූප 60,636ක් ලැබී ඇති අතර, ඉන් ජයග්‍රාහී ඡායාරූප 100ක් පමණක් තෝරාගෙන ඇත.
-
-...
-
-[Data](articles/51e863b4.json)
-
----
-
-### ஐவருக்கும் 90 நாள் தடுப்புக்காவல்
-
-*2025-09-02 18:17:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவருக்கும்-90-நாள்-தடுப்புக்காவல்/175-363918) · `ta`
-
-கெஹல்பத்தர பத்மே மற்றும் கமாண்டோ சாலிந்தா உள்ளிட்ட ஐந்து நபர்களை 90 நாட்கள் தடுத்து வைத்து விசாரிக்க காவல்துறையினர் தடுப்புக்காவல் உத்தரவுகளைப் பெற்றுள்ளனர்.
-
-பயங்கரவாதத் தடுப்புச் சட்டத்தின் (PTA) கீழ் அவர்கள் தடுத்து வைக்கப்படுவார்கள் என்று காவல்துறை தெரிவித்துள்ளது.
-
-கெஹல்பத்தர பத்மே, கமாண்டோ சாலிந்தா, பாணந்துறை நிலங்கா, பேக்கோ சமன் மற்றும் தெம்பிலி லஹிரு ஆகியோர் அடங்கிய குழு ஆகஸ்ட் 27 ஆம் திகதி இந்தோனேசியாவில் கைது செய்யப்பட்டு சனிக்கிழமை இரவு (30) இலங்கைக்கு அழைத்து வரப்பட்டதனர்.
-
-பத்மே, சாலிந்தா மற்றும் நிலங்கா ஆகியோர் மேலதிக விசாரணைகளுக்காக முதலில் குற்றப் புலனாய்வுத் துறையிடம் (CID) ஒப்படைக்கப்பட்டதாகவும், பேக்கோ சமன் மற்றும் தெம்பிலி லஹிரு ஆகியோர் விசாரணைக்காக மேற்கு மாகாண வடக்கு குற்றப் பிரிவின் காவலில் வைக்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்
-
-◼️
-
-[Data](articles/b52778fb.json)
-
----
-
-### Foreign investors buy Sri Lanka rupee bonds after two weeks
-
-*2025-09-02 18:16:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-after-two-weeks-239259/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for the first time in two weeks in the week ended on August 28, the Central Bank data showed, in line with the global trend of foreign buying in bonds.
-
-Foreign investors bought a net 2,101 million rupee ($7 million) worth of government securities in the week ended on August 28.
-
-Global bond funds were popular for a 19th straight week as these funds saw a net $14.42 billion in inflows during the last week, Reuters reported.
-
-Foreign investors sold a net $5.44 million worth Sri Lankan rupee bonds in the two weeks ended on August 21 amid uncertainties over Trump’s reciprocal tariff.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
-
-...
-
-[Data](articles/643f9bb5.json)
-
----
-
-### මෙවර මානව හිමිකම් සැසියේදී PTA ගැන වැඩි අවධානයක්
-
-*2025-09-02 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214089) · `si`
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් මහා මණ්ඩලයේ 60 වන සැසිවාරය සඳහා ගොනු කර තිබෙන ශ්‍රී ලංකාව පිළිබඳ මහා කොමසාරිස්වරයාගේ වාර්තාව මගින් මෙරට ත්‍රස්තවාදය වැළැක්වීමේ පනත පිළිබඳ අදහස් හා නිර්දේශ දක්වා තිබේ.
-
-ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කිරීමට වත්මන් රජය ප්‍රතිඥා ලබාදුන්නද එම පනත උපයෝගී කරගනිමින් තවදුරටත් පුද්ගලයින් අත්අඩංගුවට ගැනීම සහ දීර්ඝ කාලීනව රඳවා තැබීමට කටයුතු කරන බව අදාළ වාර්තාවේ දැක්වෙයි.
-
-ත්‍රස්තවාදය වැළැක්වීමේ පනත යොදා ගැනීම තවදුරටත් අත්හිටුවීම, එය අහෝසි කිරීම හෝ ඒ වෙනුවට ජාත්‍යන්තර මානව හිමිකම් නීතියට අනුකූලව නව නීති කෙටුම්පතක් හඳුන්වාදීම වේගවත් කළයුතු බව මානව හිමිකම් මහා කොමසාරිස්වරයා නිර්දේශ කර තිබේ.
-
-එමෙන්ම ත්‍රසතවාදය වැළැක්වීමේ පනත යටතේ දීර්ඝ කාලීනව රඳවාගෙන සිටින සියලුම සැකකරුවන් නිදහස් කරන ලෙසද මානව හිමිකම් මහා කොමසාරිස්වරයා නිර්දේශ කර ඇත.
-
-මෙරට තුළ අදහස් ප්‍රකාශ කිරීමේ නිදහස සාමකාමී එක්රැස්වීම හා භාෂණයට පවතින නිදහස අනිසි අන්දමින් සීමාකරන නීති සහ යෝජිත නීති අහෝසි කිරීමට හෝ සංශෝධනය කිරීමට කටයුතු කරන ලෙස මානව හිමිකම් මහ කොමසාරිස්වරයා නිර්දේශ කර තිබේ.
-
-...
-
-[Data](articles/eb2732e4.json)
-
----
-
-### Buddhist Extremist Monks and Organizations  Cultivating Links with Israel want to Turn Sri Lanka into a Buddhist State like how Israel is a 100% Jewish State while Israel wants Sri Lanka to Provide Cheap Manual Labour and a Welcoming Recipient of Israeli Tourists
-
-*2025-09-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86382) · `en`
-
-“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
-
-Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
-
-...
-
-[Data](articles/a71d6d35.json)
-
----
-
-### 90-day detention orders obtained on 5 major underworld figures
-
-*2025-09-02 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112111/90-day-detention-orders-obtained-on-5-major-underworld-figures-) · `en`
-
-Police have obtained detention orders under the Prevention of Terrorism Act (PTA) to detain and interrogate five high-profile underworld figures, including ‘Kehelbaddara Padme’, ‘Commando Salintha’, and three others, for a period of 90 days.
-
-The suspects, who were arrested in Jakarta, were brought to the country last Saturday.
-
-Of the five suspects, three are currently held in Criminal Investigation Department (CID) custody, while the remaining two are in the custody of the Western North Crime Division.
-
-The two suspects held by the Western North Crime Division are:
-
-◼️
-
-[Data](articles/2e7cba4e.json)
-
----
-
-### සැලසුම් සහගත වැඩපිළිවෙළක් ඔස්සේ රට සංවර්ධනය කරා ගෙන යන බව ජනපති කියයි
-
-*2025-09-02 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214088) · `si`
-
-ආර්ථික ශක්‍යතා හඳුනාගනිමින් සහ ආර්ථිකය ගමට ප්‍රසාරණය කරමින් ඉතා සැලසුම් සහගත වැඩපිළිවෙළක් ඔස්සේ  රට සංවර්ධනය කරා ගෙන යාම වත්මන් රජයේ අරමුණ බවත්, ග්‍රාමීය ජනතාව දුප්පත්භාවයෙන් මුදා ගැනීම වෙනුවෙන් තම පාලන කාලය තුළ කැප වී කටයුතු කරන බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ මුලතිව් දිස්ත්‍රික්කයේ වට්ටුවාකල් පාලමේ ඉදිකිරීම් ආරම්භ කිරීමේ අවස්ථාවට අද (02) පෙරවරුවේ එක් වෙමිනි.
-
-මෙම සැප්තැම්බර් මාසයේදී රට පුරා නව සංවර්ධන ව්‍යාපෘති රැසක් ආරම්භ කිරීමට සැලසුම් කර තිබෙන බව පැවසූ ජනාධිපතිවරයා සංවර්ධන ව්‍යාපෘති අවසන් කළ යුතු දිනට අවසන් නොකිරීමේ සහ ඇස්මේන්තු කළ මුදලට වඩා වැඩි මුදලක් වැය කිරීමේ පැරණි සම්ප්‍රදාය අවසන් කරමින් සියලු සංවර්ධන ව්‍යාපෘති නිසි කලට නිම කර, එහි ප්‍රතිලාභ ජනතාවට ලබා දීමට රජය කැප වී සිටින බවද සඳහන් කළේය.
-
-පරන්තන් - කරච්චි - මුලතිව් මාර්ගයේ නන්දිකඩාල් කලපුව ආශ්‍රිතව පිහිටා ඇති වට්ටුවාකල් පාලම මතින් දිනකට වාහන 3000කට වඩා ගමන් කරන අතර දීර්ඝ කාලයක් තිස්සේ පාලම අලුත්වැඩියා නොකිරීම හේතුවෙන් දැඩි අනාරක්ෂිත තත්ත්වයක් මතු ව තිබේ.
-
-...
-
-[Data](articles/7da48e49.json)
-
----
-
-### පද්මේ ඇතුළු 5දෙනාට දින 90ක රැඳවුම් නියෝග
-
-*2025-09-02 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214087) · `si`
-
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන ආ ප්‍රබල අපරාධ කල්ලි සාමාජිකයින් 5 දෙනා දින 90ක රැඳවුම් නියෝග මත රඳවා තබාගෙන ප්‍රශ්න කිරීමට අවසර ලබාදී තිබේ.
-
-ත්‍රස්ත මර්දන පනත යටතේ මොවුන්ගෙන් මෙලෙස ප්‍රකාශ සටහන් කරගන්නා බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැවසීය.
-
-ජකර්තා හීදි අත්අඩංගුවට ගත් මෙම සැකකරුවන් 5දෙනා පසුගිය සෙනසුරාදා දිනයේදී මෙරටට රැගෙන එනු ලැබීය.
-
-මොවුන්ගෙන් තිදෙනෙකු මේ වනවිට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ පසුවන අතර තවත් දෙදෙනෙකු බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවෙයි.
-
-මන්දිනු පද්මසිරි පෙරේරා හෙවත් කෙහෙල්බද්දර පද්මේ, නිලංග සම්පත් සිල්වා හෙවත් පානදුර නිලංග සහ ශලින්ත මදුෂාන් පෙරේරා හෙවත් කමාන්ඩෝ සලින්ත යන අපරාධකරුවන් ප්‍රශ්න කිරීම් සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා තිබේ.
-
-එමෙන්ම ළහිරු මදුසංඛ හෙවත් තැඹිලි ළහිරු සහ එන්.එන්. ප්‍රසංග හෙවත් බැකෝ සමන් යන අපරාධකරුවන් බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවෙයි.
-
-◼️
-
-[Data](articles/1bf3ac34.json)
-
----
-
-### Sri Lanka’s future depends on innovative and socially conscious youth - PM Harini
-
-*2025-09-02 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112110/sri-lankas-future-depends-on-innovative-and-socially-conscious-youth-pm-harini) · `en`
-
-Prime Minister of Sri Lanka, Dr. Harini Amarasuriya stated that focus is being placed on enhancing the quality of the agricultural sector by utilizing digital and innovative technologies.
-
-She made these remarks while addressing the International Symposium on Agriculture and Environment 2025 (ISAE) organized by the Faculty of Agriculture, University of Ruhuna, held on 2nd September 2025 at the Galle Face Hotel, Colombo, according to the Prime Minister’s Media Division.
-
-The theme of ISAE 2025, “Driving Innovations in Agricultural Technologies for Climate Action and Sustainability”, encourages multidisciplinary stakeholders in Sri Lanka to explore the opportunities and challenges in global agriculture, sustainability, and the application of emerging technologies.
-
-...
-
-[Data](articles/0c8a0b81.json)
 
 ---

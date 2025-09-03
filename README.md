@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 14:23:14**
+As of **2025-09-03 14:34:39**
 
 ## Newspaper Stats
 
-*Scraped **73,913** Articles*
+*Scraped **73,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,139
 adaderanalk | 9,429
-tamilmirrorlk | 10,993
+tamilmirrorlk | 10,995
 virakesarilk | 12,080
 adaderanasinhalalk | 12,837
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 12,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,913 articles have been extended.
+61,973 (83.8%) of 73,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### மே 9 போராட்டம்;சட்டமா அதிபரிடம் CID ஆலோசனை
+
+*2025-09-03 14:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-9-போராட்டம்-சட்டமா-அதிபரிடம்-CID-ஆலோசனை/175-363959) · `ta`
+
+மே 9, 2022 அன்று காலி முகத்திடல் போராட்டக்காரர்கள் மீது நடத்தப்பட்ட தாக்குதல் தொடர்பாக விசாரணைகளை மேற்கொண்டு வரும் சிஐடி, சந்தேக நபர்களுக்கு எதிரான எதிர்கால சட்ட நடவடிக்கை குறித்து சட்டமா அதிபரின் ஆலோசனையை நாடியுள்ளது.
+
+இந்த வழக்கில், முன்னாள் பாராளுமன்ற உறுப்பினர்களான ஜோன்ஸ்டன் பெர்னாண்டோ மற்றும் மிலன் ஜெயதிலக்க மற்றும் முன்னாள் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் மற்றும் பலர் உட்பட 37 சந்தேக நபர்கள் சந்தேக நபர்களாக பெயரிடப்பட்டனர்.
+
+இந்த வழக்கு நீதவான் பவித்ரா சஞ்சீவனி பத்திரண முன்னிலையில் விசாரணைக்கு வந்தபோது, ​​சம்பவம் தொடர்பான முதற்கட்ட விசாரணைகளை முடித்துவிட்டதாகவும், விசாரணையின் சுருக்கங்கள் சட்டமா அதிபரின் ஆலோசனைக்காக அனுப்பப்பட்டுள்ளதாகவும் குற்றப் புலனாய்வுத் திணைக்களத்தினர் நீதிமன்றத்தில் தெரிவித்தனர்.
+
+அதன்படி, சம்பவம் தொடர்பான விசாரணையை விரைவுபடுத்துமாறு சட்டமா அதிபருக்கு உத்தரவிட்டு நீதவான் அறிவிப்பை வெளியிட்டார்.
+
+அடுத்த நீதவான் விசாரணை அடுத்த ஆண்டு ஜனவரி 21 ஆம் திகதிக்கு ஒத்திவைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/26b250c7.json)
+
+---
+
+### காலி துப்பாக்கிச் சூடு: தலவாக்கலை இளைஞன் கைது
+
+*2025-09-03 14:16:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காலி-துப்பாக்கிச்-சூடு-தலவாக்கலை-இளைஞன்-கைது/76-363957) · `ta`
+
+காலி மீட்டியாகொட பகுதியில் திங்கட்கிழமை (01) ஒருவரை சுட்டுக் கொலை செய்ய முயற்சித்தமை தொடர்பில், தலவாக்கலையில் இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+தலவாக்கலை - லிந்துலை பகுதியை சேர்ந்த 31 வயது இளைஞன் ஒருவரே கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+குற்றச் செயலுக்கு உதவி புரிந்த குற்றச்சாட்டில் கைது செய்யப்பட்ட குறித்த இளைஞன் அக்கரபத்தனை பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+
+எனினும், தாக்குதலுக்குப் பயன்படுத்தியதாக சந்தேகிக்கப்படும் T-56 ரக துப்பாக்கியுடன் ஒருவரை அன்றைய தினமே சந்தேகத்தின் பேரில் பொலிஸார் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6d214e7d.json)
+
+---
 
 ### BYD වාහන 506ක් මුදා හැරීමට රේගුව අධිකරණය හමුවේ එකඟවෙයි
 
@@ -1743,35 +1781,5 @@ K.D. Lal Kantha, as the Chief Guest, along with Secretary to the Ministry D.P. W
 ◼️
 
 [Data](articles/1354622d.json)
-
----
-
-### Israel and the undermining of pluralist Sri Lanka
-
-*2025-09-03 05:56:39* · [`dailyftlk`](https://www.ft.lk/columns/Israel-and-the-undermining-of-pluralist-Sri-Lanka/4-781162) · `en`
-
-Israel seems intent on keeping Sri Lanka as a plaint provider of manual labour and a willing recipient of unruly tourists (including possible war criminals)
-
-“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
-
-Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
-
-...
-
-[Data](articles/4251b549.json)
-
----
-
-### Family, inheritance and identity: Can UNP and SJB reconcile?
-
-*2025-09-03 05:50:43* · [`dailyftlk`](https://www.ft.lk/columns/Family-inheritance-and-identity-Can-UNP-and-SJB-reconcile/4-781161) · `en`
-
-The upcoming United National Party (UNP) annual convention this Saturday (6 September 2025) will be unlike any other in its long history. It will be the first major event organised by an Opposition party since Ranil Wickremesinghe’s arrest and release, and the UNP is expected to use the heightened public and media attention to its advantage.
-
-Wickremesinghe’s planned “special announcement” alone would give the convention weight, but this year’s meeting is significant for more than optics and symbolism. For the first time in years, circumstances appear to have created the space for dialogue between the UNP and the Samagi Jana Balawegaya (SJB). The fact that Wickremesinghe has invited former presidents Mahinda Rajapaksa and Maithripala Sirisena further underlines the attempt to shape this gathering not only as a party event, but as a forum for broader Opposition realignment – and potential alliance building.
-
-...
-
-[Data](articles/c048faa8.json)
 
 ---

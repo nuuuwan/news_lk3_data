@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 08:48:21**
+As of **2025-09-03 09:10:12**
 
 ## Newspaper Stats
 
@@ -88,7 +88,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### වෙඩිතැබීමේ සිද්ධි දෙකකට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනක් අත්අඩංගුවට
+### වෙඩිතැබීමේ සිද්ධි දෙකකට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
 
 *2025-09-03 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214102) · `si`
 

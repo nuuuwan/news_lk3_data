@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 14:34:39**
+As of **2025-09-03 14:50:27**
 
 ## Newspaper Stats
 
-*Scraped **73,915** Articles*
+*Scraped **73,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailyftlk | 5,246
 adalk | 7,139
 adaderanalk | 9,429
 tamilmirrorlk | 10,995
-virakesarilk | 12,080
+virakesarilk | 12,082
 adaderanasinhalalk | 12,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,915 articles have been extended.
+61,973 (83.8%) of 73,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஒன்றிணைந்து பணியாற்றும் நாம் இந்தோ-பசிபிக் பங்காளர்களாவோம் - அமெரிக்கத் தூதர் ஜூலி சங்
+
+*2025-09-03 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/224094) · `ta`
+
+கடல்சார் மரபுரிமையென்பது தொடர்புகள் பற்றிய ஒரு கதையாகும். அமெரிக்காவிற்கும் இலங்கைக்குமிடையில் காணப்படும் இன்றைய பங்காண்மையானது அந்த மரபினைத் தொடர்கிறது. எமது நாடுகளின் எதிர்காலத்தைப் பாதுகாப்பதற்காகவும் ஒன்றிணைந்து பணியாற்றும் நாம் இந்தோ-பசிபிக் பங்காளர்களாவோம் என அமெரிக்கத் தூதர் ஜூலி சங் தெரிவித்தார்.
+
+மத்திய கலாச்சார நிதியத்தின் கடல்சார் தொல்பொருள் பிரிவுடன் இணைந்து (MAU), அமெரிக்கத் தூதுவர் ஜூலி சங் மற்றும் புத்தசாசன, மத மற்றும் கலாச்சார அலுவல்கள் அமைச்சர் கலாநிதி ஹினிதும சுனில் செனவி ஆகியோர் கொடவாய கப்பற் சிதைவு தொடர்பான கண்காட்சியினை கொழும்பிலுள்ள பண்டாரநாயக்க மாநாட்டு மண்டபத்தில்(  BMICH ) ஆரம்பித்து  வைத்தனர்.
+
+...
+
+[Data](articles/cb8822f8.json)
+
+---
+
 ### BYD වාහන 506ක් මුදා හැරීමට රේගුව අධිකරණය හමුවේ එකඟවෙයි
 
 *2025-09-03 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214119) · `si`
@@ -81,6 +95,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a630cb48.json)
+
+---
+
+### இன்றைய தங்க விலை நிலைவரம் !
+
+*2025-09-03 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224091) · `ta`
+
+இன்று புதன்கிழமை (03) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
+
+◼️
+
+[Data](articles/cfc8032a.json)
 
 ---
 
@@ -1745,41 +1771,5 @@ This engagement marks an important step in addressing key challenges faced by th
 ...
 
 [Data](articles/533ea8d8.json)
-
----
-
-### Cargills strengthens rural Sri Lanka through educational scholarships and community development projects
-
-*2025-09-03 06:03:11* · [`dailyftlk`](https://www.ft.lk/business/Cargills-strengthens-rural-Sri-Lanka-through-educational-scholarships-and-community-development-projects/34-781163) · `en`
-
-Cargills (Ceylon) PLC recently presented educational scholarships to students from farming communities at a ceremony held on 29 August, an initiative that part of the Cargills Sarubima program. The event was attended by Agriculture, Livestock, Land, and Irrigation Minister
-
-K.D. Lal Kantha, as the Chief Guest, along with Secretary to the Ministry D.P. Wickramasinghe, members of the media, distinguished invitees from international development organisations, and Directors and senior management of Cargills.
-
-...
-
-[Data](articles/e3d0fe90.json)
-
----
-
-### අද කාලගුණය - හිරු මුදුන්වන ප්‍රදේශ මෙන්න
-
-*2025-09-03 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214098) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (03) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු-මැද සහ වයඹ පළාත්වලත් සහ හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක් තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-මේ අතර දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ දැක්වෙයි.
-
-අද දහවල් 12:09ට මාරවිල, දම්පැලැස්ස, මාවතගම, උකුවෙල සහ කල්මුණේ ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
-
-◼️
-
-[Data](articles/1354622d.json)
 
 ---

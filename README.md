@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 03:49:37**
+As of **2025-09-04 04:32:44**
 
 ## Newspaper Stats
 
-*Scraped **74,015** Articles*
+*Scraped **74,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,150 @@ colombotelegraphcom | 755
 economynextcom | 4,503
 islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,248
+dailyftlk | 5,252
 adalk | 7,152
 adaderanalk | 9,441
 tamilmirrorlk | 11,014
-virakesarilk | 12,105
+virakesarilk | 12,109
 adaderanasinhalalk | 12,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,015 articles have been extended.
+61,973 (83.7%) of 74,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### சுயாதீனமாகச் சட்டம் அமுல்படுத்த மக்களுடன் இணைந்து செயற்படுங்கள் - பொலிஸ்மா அதிபர் அறிவுரை
+
+*2025-09-04 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224150) · `ta`
+
+பொலிஸ் சேவைக்கு இழுக்கை ஏற்படுத்தும் வகையில் பொலிஸ் உத்தியோகத்தர்கள் செயற்படுவார்களாயின் அவர்கள் தம்மை திருத்திக்கொள்ள வேண்டும். அரசியல் தலையீடுகள் மற்றும் ஏனைய அழுத்தங்களில்லாமல் சுயாதீனமாக சட்டத்தின் பிரகாரம் செயற்படுவதற்கான சூழலை அரசாங்கம் ஏற்படுத்திக்கொடுத்துள்ளது. பொதுமக்களின் ஒத்துழைப்பில்லாமல் பொலிஸ் சேவையை வெற்றிப்பெற செய்ய முடியாது. ஆகவே மக்களுடன் இணக்கமாக செயற்படுங்கள் என பொலிஸ்மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய பொலிஸாருக்கு அறிவுறுத்தினார்.
+
+159 ஆவது தேசிய பொலிஸ் தினத்தை முன்னிட்டு  கொழும்பு பொலிஸ் மைதானத்தில் புதன்கிழமை (3) நடைபெற்ற விசேட நிகழ்வில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சின் ஊடான ஒன்றிணைந்த பல சிறந்த தீர்மானங்கள் எடுக்கப்பட்டுள்ளன.நாட்டின் சட்டம் மற்றும் ஒழுங்கை நிலைநாட்டல் மற்றும் தேசிய பாதுகாப்பை உறுதிப்படுத்தல் உள்ளிட்ட பிரதான பொறுப்புக்கள் இலங்கை பொலிஸ் திணைக்களத்துக்கு பொறுப்பாக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/609c44ea.json)
+
+---
+
+### இலங்கை தொடர்பான உயர்ஸ்தானிகரின் இறுதி அறிக்கை வெளியீடு
+
+*2025-09-04 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224149) · `ta`
+
+உண்மை மற்றும் நீதியை நிலைநாட்டுவதற்கும், நிலையான சமாதானத்துக்கான அடித்தளத்தை இடுவதற்குமான வரலாற்று ரீதியான வாய்ப்பும், சகல சமூகங்களையும் சேர்ந்த மக்களின் ஆணையும் புதிய அரசாங்கத்துக்கு இருப்பதாக ஐக்கிய நாடுகள் மனித உரிமைகள் உயர்ஸ்தானிகர் அலுவலகத்தின் இறுதி அறிக்கையில் சுட்டிக்காட்டப்பட்டிருக்கும் அதேவேளை, சர்வதேச குற்றவியல் நீதிமன்றத்தின் ரோம் பிரகடனத்துக்கு இணங்குவதன் ஊடாக நிலைமாறுகால நீதிக்கு ஏதுவான சூழலை அரசாங்கம் உருவாக்கவேண்டும் என வலியுறுத்தப்பட்டுள்ளது.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் எதிர்வரும் திங்கட்கிழமை ஆரம்பமாகவிருக்கும் நிலையில், இலங்கையின் மனித உரிமைகள் நிலைவரம் பற்றிய ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் அலுவலகத்தின் முற்கூட்டிய வரைவு அறிக்கை கடந்த மாத நடுப்பகுதியில் வெளியிடப்பட்டது. அவ்வறிக்கைக்கு இலங்கை அரசாங்கம் பதில் வழங்கியதன் பின்னரா இறுதி அறிக்கை உயர்ஸ்தானிகர் அலுவலகத்தினால் தற்போது வெளியிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c3a5e9a7.json)
+
+---
+
+### Companies (Amendment) Act No. 12 of 2025: Legal reforms and comparative insights
+
+*2025-09-04 03:53:27* · [`dailyftlk`](https://www.ft.lk/columns/Companies-Amendment-Act-No-12-of-2025-Legal-reforms-and-comparative-insights/4-781222) · `en`
+
+The enactment of the Companies (Amendment) Act No. 12 of 2025 marks a significant development in Sri Lanka’s corporate legal framework. Certified on 4 August 2025, this amendment to the Companies Act No. 07 of 2007 introduces a series of legal reforms aimed at enhancing corporate transparency, governance, and compliance with international standards.
+
+This article outlines the key functional changes introduced by the amendment, assesses their implications for companies operating in Sri Lanka, and provides a comparative overview with Australia’s Corporations Act 2001, a benchmark from a developed jurisdiction.
+
+Companies (excluding those limited by guarantee) may now be incorporated with a single shareholder. This shareholder may be a natural person, a corporate entity, or the Secretary to the Treasury.
+
+The issuance of bearer shares and share warrants to bearer is now prohibited. Existing bearer instruments must be converted to registered shares within 60 days.
+
+...
+
+[Data](articles/5cbfd07f.json)
+
+---
+
+### யக்கல காரியாலயம் பலவந்தமாக கைப்பற்றல் கண்டனம் – விமல் வீரவன்ச
+
+*2025-09-04 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224148) · `ta`
+
+முன்னிலை சோசலிசக் கட்சியின் யக்கல காரியாலயத்தை மக்கள் விடுதலை முன்னணியினர் பலவந்தமாக கைப்பற்றியுள்ளமை வன்மையாக கண்டிக்கத்தக்கது என தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச அறிக்கை வெளியிட்டுள்ளார்.
+
+அரச நிர்வாக கட்டமைப்பில் உள்ள மக்கள் விடுதலை முன்னணியினர் இவ்வாறான செயற்பாட்டை முன்மாதிரியாகக் கொண்டு சட்டத்தை கையில் எடுத்தால் அரசியலமைப்புடனான சர்வாதிகார நிலைமை தோற்றம் பெறும் என்பதை சகல அரசியல் தரப்பினரும் கவனத்திற் கொள்ள வேண்டும் எனவும் வலியுறுத்தியுள்ளார்.
+
+மக்கள்  விடுதலை முன்னணியின் பிரதி அமைச்சர்,பாராளுமன்ற உறுப்பினர்கள் இருவர் உட்பட மேலும் 40 பேர் ,முன்னிலை சோசலிசக் கட்சியின் யக்கல பகுதியில் உள்ள கட்சி காரியாலயத்துக்குள் பலவந்தமான முறையில் நுழைந்து,காரியாலயத்தை பலவந்தமான முறையில் கைப்பற்றியுள்ளமை வன்மையாக கண்டிக்கத்தக்கது.
+
+...
+
+[Data](articles/6c339419.json)
+
+---
+
+### Sri Lanka’s SVAT abolition: Exporters call for urgent e-invoicing solution ahead of 1 Oct.
+
+*2025-09-04 03:50:24* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-SVAT-abolition-Exporters-call-for-urgent-e-invoicing-solution-ahead-of-1-Oct/14-781221) · `en`
+
+Exporters argue that electronic invoicing offers the most credible solution
+
+Sri Lanka’s export community is bracing for a major policy shift as the Government prepares to abolish the Suspended Value Added Tax (SVAT) system by 1 October 2025. The move is part of a broader transition from a risk-free VAT framework to a risk-based VAT system, with a pilot phase of electronic invoicing (e-invoicing) scheduled to begin soon.
+
+While exporters recognise the Government’s determination to proceed with reforms, they warn that without an effective e-invoicing system in place before the cut-off date, the industry risks a repeat of the chronic VAT refund delays that have long undermined competitiveness.
+
+For Sri Lanka’s largest exporters—particularly apparel manufacturers and tea exporters the lack of timely VAT refunds has been a recurring obstacle. Refund claims are often held up due to administrative delays, procedural ambiguity, and a lack of confidence among revenue officials.
+
+...
+
+[Data](articles/886d5746.json)
+
+---
+
+### Every product tells a story: Why Life Cycle thinking could shape a greener Sri Lanka
+
+*2025-09-04 03:46:29* · [`dailyftlk`](https://www.ft.lk/opinion/Every-product-tells-a-story-Why-Life-Cycle-thinking-could-shape-a-greener-Sri-Lanka/14-781220) · `en`
+
+Ever wondered how much water it takes to produce a cotton shirt? Or what happens to your mobile phone after you throw it away? As conversations around climate change and sustainability intensify, more people from exporters to everyday consumers are beginning to look at the bigger picture. And in that picture, a tool called Life Cycle Assessment (LCA) is taking centre stage.
+
+LCA is not new. Globally, it’s been used for decades to understand the environmental cost of products and services, not just during use, but throughout their entire journey: from raw material extraction to manufacturing, transportation, consumption, and final disposal. In other words, from cradle to grave.
+
+Now, Sri Lanka is starting to explore how this concept, once confined to technical reports and research labs, can be applied in industries, classrooms, boardrooms, and even public conversations.
+
+...
+
+[Data](articles/5215179a.json)
+
+---
+
+### யக்கல கட்சிக்காரியாலய தாக்குதல்: நீதிமன்றம் செல்லுவோம் என முன்னிலை சோசலிசக் கட்சி
+
+*2025-09-04 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224147) · `ta`
+
+கம்பஹா யக்கல பிரதேசத்தில் அமைந்துள்ள அரசியல் கட்சி காரியாலயம் மக்கள் விடுதலை முன்னணிக்கு சொந்தமானதென முடிந்தால் நீதிமன்ற தீர்ப்பை காட்டட்டும்.  அவ்வாறு எந்த தீர்ப்பும் இல்லை. எமது கட்சிக்காரியாலயத்தின் மீது மேற்கொள்ளப்பட்ட தாக்குதலுக்கு எதிராக நாங்கள் நீதிமன்றம் செல்வோம் என முன்னிலை சோசலிச கட்சியின் பிரசாரச் செயலாளர் துமிந்த நாகமுவ தெரிவித்தார்.
+
+முன்னிலை சோசலிச கட்சி வியாழக்கிழமை (03) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/67bd0bdc.json)
+
+---
+
+### Trilateralism: Ranil-Sajith-Namal should reinforce the Centre, not ‘unite the Right’
+
+*2025-09-04 03:28:34* · [`dailyftlk`](https://www.ft.lk/columns/Trilateralism-Ranil-Sajith-Namal-should-reinforce-the-Centre-not-unite-the-Right/4-781218) · `en`
+
+Sri Lanka is headed towards a debt repayment cyclone against the backdrop of the global storm of tariff-driven economic turbulence, geopolitical rivalry and regional wars. Instead of sailing the ship of state sagaciously, President Anura Dissanayake and his Government are rocking the boat.
+
+Five destabilising developments can be listed, all running parallel, happening simultaneously, and interactive.
+
+I. S-G Dileepa Pieris ignored the exit ramp of ‘exceptional circumstances’ and doubled-down on his insistence that bail should be denied and the suspect remanded until the end of the trial, even after Ranil’s medical reports had been submitted to the magistrate. This revealed the confrontational bloody-mindedness of the authorities.
+
+...
+
+[Data](articles/deee99a7.json)
+
+---
 
 ### Clarifying the nature of official trips and ethical considerations: Response to Dr. Jayalath Adikarige
 
@@ -1675,129 +1803,5 @@ He is a leader in API management, having built and scaled global partner network
 ◼️
 
 [Data](articles/6d214e7d.json)
-
----
-
-### ஒன்றிணைந்து பணியாற்றும் நாம் இந்தோ-பசிபிக் பங்காளர்களாவோம் - அமெரிக்கத் தூதர் ஜூலி சங்
-
-*2025-09-03 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/224094) · `ta`
-
-கடல்சார் மரபுரிமையென்பது தொடர்புகள் பற்றிய ஒரு கதையாகும். அமெரிக்காவிற்கும் இலங்கைக்குமிடையில் காணப்படும் இன்றைய பங்காண்மையானது அந்த மரபினைத் தொடர்கிறது. எமது நாடுகளின் எதிர்காலத்தைப் பாதுகாப்பதற்காகவும் ஒன்றிணைந்து பணியாற்றும் நாம் இந்தோ-பசிபிக் பங்காளர்களாவோம் என அமெரிக்கத் தூதர் ஜூலி சங் தெரிவித்தார்.
-
-மத்திய கலாச்சார நிதியத்தின் கடல்சார் தொல்பொருள் பிரிவுடன் இணைந்து (MAU), அமெரிக்கத் தூதுவர் ஜூலி சங் மற்றும் புத்தசாசன, மத மற்றும் கலாச்சார அலுவல்கள் அமைச்சர் கலாநிதி ஹினிதும சுனில் செனவி ஆகியோர் கொடவாய கப்பற் சிதைவு தொடர்பான கண்காட்சியினை கொழும்பிலுள்ள பண்டாரநாயக்க மாநாட்டு மண்டபத்தில்(  BMICH ) ஆரம்பித்து  வைத்தனர்.
-
-...
-
-[Data](articles/cb8822f8.json)
-
----
-
-### Customs agrees to release 506 BYD electric vehicles
-
-*2025-09-03 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112137/customs-agrees-to-release-506-byd-electric-vehicles-) · `en`
-
-Sri Lanka Customs today (03) gave an undertaking to the Court of Appeal that it will release a total of 506 detained BYD electric vehicles, subject to the submission of additional bank guarantees.
-
-The undertaking was given when a petition filed by the John Keells Holdings PLC, the importer of the electrical vehicles, was taken up before the Court of Appeal, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/a8be6080.json)
-
----
-
-### BYD වාහන 506ක් මුදා හැරීමට රේගුව අධිකරණය හමුවේ එකඟවෙයි
-
-*2025-09-03 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214119) · `si`
-
-ශ්‍රී ලංකා රේගුව මඟින් රඳවා ගෙන සිටින BYD විද්‍යුත් වාහන 506ක් අමතර බැංකු ඇපකරයක් ඉදිරිපත් කිරීමෙන් අනතුරුව මුදාහැරීමට ශ්‍රී ලංකා රේගුව අද (03) අභියාචනාධිකරණය හමුවේ එකඟ විය.
-
-අදාළ වාහන ආනයනය කළ ජොන් කිල්ස් ඔටෝ ප්‍රයිවට් ලිමිටඩ් සමාගම විසින් ගොනුකර තිබෙන පෙත්සමක් අද කැඳවූ අවස්ථාවේදී මෙම එකඟතාවය පළ කෙරුණි.
-
-◼️
-
-[Data](articles/a630cb48.json)
-
----
-
-### இன்றைய தங்க விலை நிலைவரம் !
-
-*2025-09-03 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224091) · `ta`
-
-இன்று புதன்கிழமை (03) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/cfc8032a.json)
-
----
-
-### මාළිගාවත්තේ වෙඩිතැබීමේ CCTV දර්ශන
-
-*2025-09-03 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214118) · `si`
-
-මාළිගාවත්ත, ජුම්මා හංදිය ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ CCTV දර්ශන පෙළක් මේ වනවිට මාධ්‍යයට නිකුත් වී තිබේ.
-
-අද (03) උදෑසන ටී 56 වර්ගයේ ගිනිඅවියක් යොදාගනිමින් මෙම වෙඩි තැබීම සිදුකර තිබූ අතර ඉන් එක් අයෙකු තුවාල කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
-
-යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෝටර් රථ අමතර කොටස් අලෙවි සැලක සිටි පුද්ගලයෙකු ඉලක්ක කරගනිමින් වෙඩි තැබීම සිදුකර තිබේ.
-
-එහිදි පුද්ගලයෙකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබෙනවා.
-
-මෙම වෙඩි තැබීමත් සමග වසරේ ගත වු කාලය තුළ වෙඩි තැබීමේ සිද්ධීන් 93ක් සිදුව ඇති අතර ඉන් පුද්ගලයින් 49 දෙනෙකු මියගොස් 54 දෙනෙකු තුවාල ලබා තිබේ.
-
-◼️
-
-[Data](articles/57d4cf3b.json)
-
----
-
-### පන්ජාබ් ප්‍රාන්තය යට කළ ගංවතුර - 30කට අධික පිරිසක් මරුට
-
-*2025-09-03 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214117) · `si`
-
-උතුරු ඉන්දියාවේ පන්ජාබ් ප්‍රාන්තයේ පවතින අධික වර්ෂාව සහ ගංවතුර හේතුවෙන් පුද්ගලයින් 30 දෙනෙකු මිය ගොස් 354,000කට වැඩි පිරිසක් පීඩාවට පත්ව තිබේ.
-
-එරට ගංගා සහ ජලාශ අවදානම් මට්ටමට පැමිණ සියලුම දිස්ත්‍රික්ක ගංවතුරෙන් පීඩාවට පත්ව ඇති බව විදෙස් මාධ්‍ය පවසයි.
-
-මේ සම්බන්ධ ඉන්දීය කාලගුණ දෙපාර්තමේන්තුව වාර්තා කර ඇත්තේ මෝසම් ධාරා සහ කැලඹීම් වැනි කාලගුණ පද්ධති අතර සිදුවන අන්තර්ක්‍රියා හේතුවෙන් ගංවතුර තත්ත්වයන් ඇති වන බවය.
-
-ගංවතුරෙන් පීඩාවට පත් ප්‍රදේශවල විශාල පිරිසක් ඉවත් කර ඇති අතර, පීඩාවට පත් ජනතාව සඳහා නවාතැන් සහ අත්‍යවශ්‍ය පහසුකම් සැපයීම සඳහා සහන කඳවුරු විශාල සංඛ්‍යාවක් ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-පන්ජාබ් මහ ඇමති භගවන්ත් මාන් මාධ්‍යට ප්‍රකාශ කර ඇත්තේ 1988 වර්ෂයේ සිට මෙතෙක් ප්‍රාන්තයට බලපෑ දරුණුතම ගංවතුර තත්ත්වය මෙය බවය.
-
-ඉන්දීය රජය සඳහන් කරන්නේ ජලයෙන් යටවී කෘෂිකාර්මික ඉඩම් හෙක්ටයාර 148,000ක පමණ විශාල බෝග හානියක් සිදුවී ඇති බවය.
-
-...
-
-[Data](articles/29bf7109.json)
-
----
-
-### Man arrested with 2.7kg of heroin in Walasmulla
-
-*2025-09-03 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112136/man-arrested-with-27kg-of-heroin-in-walasmulla) · `en`
-
-An individual has been arrested with 2 kilograms and 755 grams of heroin in Walasmulla, police stated.
-
-Police stated that the suspect was apprehended near Morakanda within the Walasmulla police area by a team of officers from the Mannar Division Criminal Investigation Unit.
-
-◼️
-
-[Data](articles/0a57a857.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-09-03 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224086) · `ta`
-
-இன்று புதன்கிழமை (03) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 305.9669 ஆகவும் கொள்வனவு விலை ரூபா 298.4404 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (03.09.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
-
-◼️
-
-[Data](articles/a115206e.json)
 
 ---

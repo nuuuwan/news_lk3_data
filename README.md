@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 13:08:04**
+As of **2025-09-03 13:18:46**
 
 ## Newspaper Stats
 
-*Scraped **73,897** Articles*
+*Scraped **73,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,136
-adaderanalk | 9,422
+adaderanalk | 9,425
 tamilmirrorlk | 10,993
 virakesarilk | 12,077
 adaderanasinhalalk | 12,834
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,897 articles have been extended.
+61,973 (83.9%) of 73,900 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -37,6 +37,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-09-03 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214116) · `si`
 
 හෙරොයින් කිලෝ 2යි ග්‍රෑම් 755ක් සමග සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, වලස්මුල්ල පොලිස් වසමේ දී මන්නාරම කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් මොරකන්ද ගොඩවැව අසලදී මෙම සැකකරුව අත්අඩංගුවට ගත් බවය.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 33ක් වූ වලස්මුල්ල ප්‍රදේශයේ පදිංචිකරවෙක් බවය.
 
 ◼️
 
@@ -242,6 +246,26 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 
 ---
 
+### UK looks to ban sale of high-caffeine energy drinks to under-16s
+
+*2025-09-03 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112132/uk-looks-to-ban-sale-of-high-caffeine-energy-drinks-to-under-16s) · `en`
+
+The UK government has proposed banning the sale of high-caffeine energy drinks to youths under 16 years of age in shops, restaurants, cafes and vending machines, as well as via online retailers.
+
+According to a press release issued by the government on Tuesday (Sep 2), the UK will consult on banning the products for the age group “due to negative impacts on children’s physical and mental health”.
+
+The proposal will make it illegal to sell high-caffeine energy drinks containing more than 150mg of caffeine per litre to anyone under 16.
+
+Examples of high-caffeine energy drink brands include Monster, Red Bull, Prime and C4. A 500ml can of Monster contains about 160mg of caffeine, while Red Bull, which typically comes in a 250ml can, has 80mg.
+
+Lower-caffeine soft drinks, tea and coffee are excluded from the ban.
+
+...
+
+[Data](articles/a651da08.json)
+
+---
+
 ### මාළිගාවත්තේ වෙඩිතැබීමක්
 
 *2025-09-03 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214112) · `si`
@@ -273,6 +297,24 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 ◼️
 
 [Data](articles/7e8da846.json)
+
+---
+
+### Individual injured in shooting reported in Maligawatte
+
+*2025-09-03 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112131/individual-injured-in-shooting-reported-in-maligawatte-) · `en`
+
+A shooting has been reported along the Jummah Masjid Road in Maligawatte this morning (03), police stated.
+
+The shooting was carried out targeting a young man who was at a business premises.
+
+The youth, who was injured in the shooting, has been admitted to the Colombo National Hospital for treatment.
+
+According to police, two individuals who arrived on a motorcycle carried out the shooting using a T56 firearm.
+
+◼️
+
+[Data](articles/e2001001.json)
 
 ---
 
@@ -453,6 +495,26 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 ◼️
 
 [Data](articles/f7719cb7.json)
+
+---
+
+### Fire breaks out in Buttala Yudaganawa mountain reserve
+
+*2025-09-03 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112130/fire-breaks-out-in-buttala-yudaganawa-mountain-reserve) · `en`
+
+A fire has broken out in the Yudaganawa-Puhulagala mountain reserve, in Buttala.
+
+According to Ada Derana correspondent, the fire that started last afternoon (020 had spread throughout the reserve by night.
+
+As a result, it is reported that more than ten acres of the forest reserve have been destroyed.
+
+Due to the intense dry weather conditions and strong winds affecting the area, the fire spread rapidly across the reserve.
+
+However, by early this morning (02), area residents had managed to bring the fire under control.
+
+◼️
+
+[Data](articles/4e74c859.json)
 
 ---
 
@@ -1711,57 +1773,5 @@ The redevelopment will convert the Fort Railway Station into a modern transport 
 ◼️
 
 [Data](articles/1dac74a0.json)
-
----
-
-### Litro Gas keeps prices steady for Sept.
-
-*2025-09-03 05:16:42* · [`dailyftlk`](https://www.ft.lk/news/Litro-Gas-keeps-prices-steady-for-Sept/56-781150) · `en`
-
-Litro Gas Lanka Ltd. yesterday announced that domestic gas prices will remain unchanged for September.
-
-The company said a 12.5 kg cylinder will continue to be sold at Rs. 3,690, while the prices of 5 kg and 2.3 kg cylinders would remain unchanged at Rs. 1,482 and Rs. 694, respectively.
-
-Litro said the decision was made following its regular monthly review under the existing pricing formula.
-
-◼️
-
-[Data](articles/5f8f1b6c.json)
-
----
-
-### UNP postpones anniversary celebration citing Ranil’s health
-
-*2025-09-03 05:16:16* · [`dailyftlk`](https://www.ft.lk/news/UNP-postpones-anniversary-celebration-citing-Ranil-s-health/56-781149) · `en`
-
-The United National Party (UNP) has postponed its 79th anniversary celebration, which was scheduled for Saturday (6), citing the health condition of former President Ranil Wickremesinghe.
-
-UNP General Secretary Thalatha Athukorale said the decision was taken by the party’s management committee, which met in Colombo yesterday.
-
-She said the event will be rescheduled for later this month.
-
-Athukorale added that the decision was made following medical advice given to Wickremesinghe and on the request of party committee members.
-
-◼️
-
-[Data](articles/375742f2.json)
-
----
-
-### SLPP seeks Maha Sangha’s support over harassment of war heroes
-
-*2025-09-03 05:14:21* · [`dailyftlk`](https://www.ft.lk/news/SLPP-seeks-Maha-Sangha-s-support-over-harassment-of-war-heroes/56-781148) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) has written to the Chief Prelate of the Asgiriya Chapter of the Siam Nikaya, the Most Ven. Warakagoda Sri Gnanarathana Thero, raising concerns about what it describes as the “harassment” of war heroes.
-
-The letter, signed by SLPP General Secretary Sagara Kariyawasam, stresses that the party considers it a historic responsibility to defend those who fought to protect the freedom of the country.
-
-“History has entrusted the SLPP with the responsibility of standing up for the war heroes who sacrificed their lives for the freedom of the motherland. This is a responsibility that the party cannot abandon,” the letter states.
-
-Reaffirming the SLPP’s stance, Kariyawasam wrote that as both a political party and a social movement shaped by the will of the people, the SLPP remains committed to safeguarding the dignity of war heroes.
-
-...
-
-[Data](articles/695b0ca6.json)
 
 ---

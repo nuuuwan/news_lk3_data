@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 13:32:47**
+As of **2025-09-03 13:52:07**
 
 ## Newspaper Stats
 
-*Scraped **73,904** Articles*
+*Scraped **73,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,137
+adalk | 7,138
 adaderanalk | 9,425
 tamilmirrorlk | 10,993
 virakesarilk | 12,080
-adaderanasinhalalk | 12,834
+adaderanasinhalalk | 12,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,904 articles have been extended.
+61,973 (83.9%) of 73,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### පන්ජාබ් ප්‍රාන්තය යට කළ ගංවතුර - 30කට අධික පිරිසක් මරුට
+
+*2025-09-03 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214117) · `si`
+
+උතුරු ඉන්දියාවේ පන්ජාබ් ප්‍රාන්තයේ පවතින අධික වර්ෂාව සහ ගංවතුර හේතුවෙන් පුද්ගලයින් 30 දෙනෙකු මිය ගොස් 354,000කට වැඩි පිරිසක් පීඩාවට පත්ව තිබේ.
+
+එරට ගංගා සහ ජලාශ අවදානම් මට්ටමට පැමිණ සියලුම දිස්ත්‍රික්ක ගංවතුරෙන් පීඩාවට පත්ව ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+මේ සම්බන්ධ ඉන්දීය කාලගුණ දෙපාර්තමේන්තුව වාර්තා කර ඇත්තේ මෝසම් ධාරා සහ කැලඹීම් වැනි කාලගුණ පද්ධති අතර සිදුවන අන්තර්ක්‍රියා හේතුවෙන් ගංවතුර තත්ත්වයන් ඇති වන බවය.
+
+ගංවතුරෙන් පීඩාවට පත් ප්‍රදේශවල විශාල පිරිසක් ඉවත් කර ඇති අතර, පීඩාවට පත් ජනතාව සඳහා නවාතැන් සහ අත්‍යවශ්‍ය පහසුකම් සැපයීම සඳහා සහන කඳවුරු විශාල සංඛ්‍යාවක් ආරම්භ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පන්ජාබ් මහ ඇමති භගවන්ත් මාන් මාධ්‍යට ප්‍රකාශ කර ඇත්තේ 1988 වර්ෂයේ සිට මෙතෙක් ප්‍රාන්තයට බලපෑ දරුණුතම ගංවතුර තත්ත්වය මෙය බවය.
+
+ඉන්දීය රජය සඳහන් කරන්නේ ජලයෙන් යටවී කෘෂිකාර්මික ඉඩම් හෙක්ටයාර 148,000ක පමණ විශාල බෝග හානියක් සිදුවී ඇති බවය.
+
+...
+
+[Data](articles/29bf7109.json)
+
+---
 
 ### இன்றைய நாணய மாற்று விகிதம்
 
@@ -329,6 +351,22 @@ Lower-caffeine soft drinks, tea and coffee are excluded from the ban.
 ◼️
 
 [Data](articles/1767a225.json)
+
+---
+
+### මහනුවර හා පේරාදෙණිය අතර දුම්රිය ගමන් සීමා කරයි
+
+*2025-09-03 11:34:53* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-හා-පේරාදෙණිය-අතර-දුම්රිය-ගමන්-සීමා-කරයි/11-418249) · `si`
+
+පේරාදෙණිය- මහනුවර දුම්රිය ස්ථාන අතර ගැටඹේ දුම්රිය හරස් මාර්ගයේ සිදු කරනු ලබන නඩත්තු කටයුතු හේතුවෙන් සැප්තැම්බර් මස 05, 06 සහ 07 යන දිනවලදී එම දුම්රිය ස්ථානයන් අතර දුම්රිය ධාවනය සීමා කිරීමට නියමිතව ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම දිනවලදී අංක 1024 දරණ ටිකිරි මැණිකේ දුම්රිය සහ අංක 1015 දරණ උඩරට මැණිකේ යන දුම්රියන් දෙක පමණක් පේරාදෙණිය සිට මහනුවර අතර ධාවනය නොවන බවත්, එම දුම්රියන් දෙක හරහා ගමන් පහසුකම් සලසා ගැනීමට මහනුවර දුම්රිය ස්ථානය වෙත පැමිණෙන දුම්රිය මගීන්ට බස් රථ මගින් පේරාදෙණිය දක්වා ප්‍රවාහන පහසුකම් සැලසීමට පියවර ගෙන  ඇති බවද එම දෙපාර්තමේන්තුව කියයි.
+
+බදුල්ලේ සිට පැමිණෙන අංක 1016 දරණ උඩරට මැණිකේ දුම්රිය ඉහත දිනවල පේරාදෙණියට පැය 12.58ට පැමිණ විනාඩි 32ක කාලයක් පේරාදෙණිය දුම්රිය ස්ථානයේ නවත්වා තබා පැය 13.30ට පේරාදෙණිය දුම්රිය ස්ථානයෙන් මහනුවර දක්වා ධාවනය කර නැවත මහනුවර සිට කොළඹ කොටුව දක්වා ධාවනය කිරීමට සැලසුම් කොට ඇති බවද දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/4ecf1e9e.json)
 
 ---
 
@@ -1739,39 +1777,5 @@ I could see that I was not winning popularity contests by pointing to the proced
 ◼️
 
 [Data](articles/b2af3ed2.json)
-
----
-
-### Foreign Minister engages diplomatic community on Sri Lanka’s progress
-
-*2025-09-03 05:25:28* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-engages-diplomatic-community-on-Sri-Lanka-s-progress/56-781156) · `en`
-
-Foreign Minister Vijitha Herath yesterday briefed Colombo-based members of the Diplomatic Corps at the Ministry of Foreign Affairs on current developments in Sri Lanka, calling for recognition of the progress achieved and urging partners to engage in constructive dialogue.
-
-The session, attended by senior officials from the Justice and National Integration Ministry, the Attorney General’s Department, the Office on Missing Persons (OMP), the Office for Reparations (OR), the Office for National Unity and Reconciliation (ONUR), and the Office for Overseas Sri Lankans, highlighted key reforms and ongoing national initiatives.
-
-Minister Herath stressed the Government’s commitment to addressing long-standing issues, while deepening engagement with the international community to build trust and cooperation.
-
-A short video of the meeting has also been shared with the diplomatic missions for reference.
-
-◼️
-
-[Data](articles/2a2e5e4f.json)
-
----
-
-### Court approves 90-day detention order to probe underworld figures under PTA
-
-*2025-09-03 05:24:13* · [`dailyftlk`](https://www.ft.lk/news/Court-approves-90-day-detention-order-to-probe-underworld-figures-under-PTA/56-781155) · `en`
-
-The Court has granted permission to the Criminal Investigation Department (CID) to detain five alleged underworld figures for 90 days under the Prevention of Terrorism Act (PTA).
-
-The suspects identified as Backhoe Saman, Thembili Lahiru, Kehelbaddara Padme, Commando Salinda, and Panadura Nilanga were among a group arrested in Indonesia in a joint operation by Jakarta Police and Sri Lanka’s CID.
-
-They were brought back to Sri Lanka last Saturday and are currently being interrogated over their alleged involvement in organised crime. Of the five suspects, three are currently held in CID custody, while the remaining two are in the custody of the Western North Crime Division.
-
-◼️
-
-[Data](articles/bb7e4ef0.json)
 
 ---

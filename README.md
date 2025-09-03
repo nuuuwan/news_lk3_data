@@ -1,44 +1,124 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 07:56:25**
+As of **2025-09-03 08:26:40**
 
 ## Newspaper Stats
 
-*Scraped **73,823** Articles*
+*Scraped **73,830** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 623
+dbsjeyarajcom | 624
 bbccomsinhala | 677
 colombotelegraphcom | 754
 economynextcom | 4,495
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,245
-adalk | 7,118
+adalk | 7,121
 adaderanalk | 9,409
-tamilmirrorlk | 10,976
+tamilmirrorlk | 10,978
 virakesarilk | 12,069
-adaderanasinhalalk | 12,819
+adaderanasinhalalk | 12,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,823 articles have been extended.
+61,973 (83.9%) of 73,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
 
+### වෙඩිතැබීමේ සිද්ධි දෙකකට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනක් අත්අඩංගුවට
+
+*2025-09-03 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214102) · `si`
+
+ප්‍රදේශ දෙකක සිදුකළ වෙඩිතැබීමේ සිද්ධිවලට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මීටියාගොඩ සහ බණ්ඩාරගම පොලිස් වසම්වලදී සිදුකළ වෙඩි තැබීමේ සිද්ධිවලට අදාළ සැකකරුවන්ය.
+
+පෙරේදා (01) මීටියාගොඩ පොලිස් වසමේ මලවැන්න පාර ප්‍රදේශයේදී පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල දුන් අයෙක් අත්අඩංගුවට ගෙන ඇත.
+
+ඊයේ (02) සවස් කාලයේ තලවකැලේ පොලිස් වසමේදී මෙම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ පොලිස් විශේෂ කාර්ය බළකා තලවකැලේ කඳවුරේ නිලධාරින් කණ්ඩායමක් විසින්ය.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 31 ක් වන ළිඳුල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මේ අතර අගෝස්තු 21 වන දින බණ්ඩාරගම පොලිස් වසමේ බොල්ගොඩ පාලම ආසන්නයේදී පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිට ආධාර අනුබල දුන් ඊයේ (02) අත්අඩංගුවට ගෙන තිබුණි.
+
+මෙම සැකකරු පානදුර දකුණ පොලිස් වසමේ හිරණ ප්‍රදේශයේදී කළුතර අපරාධ කොට්ඨාසයේ නිලධාරින් කණ්ඩායමක් විසින් අත්අඩංගුවට ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 23ක් වන හිරණ, පානදුර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/c4ff1e6a.json)
+
+---
+
+### இன்று வெப்ப நிலை குறித்து எச்சரிக்கை
+
+*2025-09-03 08:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வெப்ப-நிலை-குறித்து-எச்சரிக்கை/175-363935) · `ta`
+
+நாட்டில் தற்போது நிலவும் வெப்பமான வானிலை தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+அதன்படி, இன்று நண்பகல்  12.09 அளவில் மாரவில, தம்பெலஸ்ஸ, மாவத்தகம, உக்குவெல மற்றும் கல்முனை ஆகிய பிரதேசங்களுக்கு மேலாக சூரியன் உச்சம் கொடுக்கவுள்ளதாக வளிமண்டலவியல் திணைக்களம் வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலும், வடக்கு, வடமத்திய, கிழக்கு மாகாணங்கள் மற்றும் மொனராகலை, அம்பாந்தோட்டை மாவட்ட மக்கள் விழிப்புடன் இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+
+இப்பகுதிகளின் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பநிலை எச்சரிக்கை மட்டத்தில் இருக்கக்கூடும்.
+
+இதனால், வெளிப்புறங்களில் வேலை செய்பவர்கள் இலேசான ஆடைகளை அணியுமாறும், நிழலான பகுதிகளில் ஓய்வெடுத்தல் மற்றும் போதியளவு நீரை அருந்துமாறும் அறிவுறுத்தப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/2609e4ab.json)
+
+---
+
+### මධ්‍යම අධිවේගයේ මාරක අනතුරක්
+
+*2025-09-03 07:40:12* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-මාරක-අනතුරක්/11-418235) · `si`
+
+මධ්‍යම අධිවේගී මාර්ගයේ අද (03) අලුයම ලොරි රථයක් සහ බව්සර් රථයක් එකිනෙක ගැටීමෙන් සිදුවූ රිය අනතුරකින් පුද්ගලයෙක් මියගොස් තවත් පුද්ගලයෙක් බරපතළ තුවාල රෝහල් ගත තිබේ.
+
+අනතුරින් මියගොස් ඇත්තේ, ලොරි රථයේ ගමන්කළ රිය සහායකයා බව වාර්තා වෙයි. තවත් පුද්ගලයෙක් ලොරි රථයට යටවී සිටින අතර එම පුද්ගලයාව බේරාගැනීමට කටයුතු කරමින් සිටියි.
+
+◼️
+
+[Data](articles/b0addbeb.json)
+
+---
+
+### நீதிமன்ற வளாகத்தில் ஹரக் கட்டாவை கொலை செய்ய திட்டம்
+
+*2025-09-03 07:31:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்ற-வளாகத்தில்-ஹரக்-கட்டாவை-கொலை-செய்ய-திட்டம்/175-363934) · `ta`
+
+பிரபல ஒழுங்கமைக்கப்பட்ட குற்றவாளியான ஹரக் கட்டாவை நீதிமன்ற வளாகத்தில் வைத்து கொலை செய்ய முன்னெடுக்கப்பட்ட திட்டம் பொலிஸாரால் முறியடிக்கப்பட்டுள்ளது.
+
+இதற்காக பத்திரிகையாளர் போல் மாறுவேடமிட்டிருந்த துப்பாக்கிதாரி ஒருவர் நேற்று (02) மஹரகமவில் வைத்து மேற்கு மாகாண வடக்கு குற்றப் பிரிவால் கைது செய்யப்பட்டார்.
+
+இந்தக் கொலைத் திட்டம் கெஹெல்பத்தர பத்மேவின் வேண்டுகோளின் பேரில் திட்டமிடப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபரிடமிருந்து எரிந்த நிலையில் ஒரு வீடியோ கெமரா மற்றும் துப்பாக்கி ஒன்று கைப்பற்றப்பட்டன. R
+
+◼️
+
+[Data](articles/68b599e0.json)
+
+---
+
 ### මධ්‍යම අධිවේගයේ මාරක අනතුරක් - පුද්ගලයෙක් මරුට
 
 *2025-09-03 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214101) · `si`
 
+මධ්‍යම අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරින් මේ වනවිට පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බව "අද දෙරණ" වාර්තාකරු පවසයි.
+
 මධ්‍යම අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් පුද්ගලයෙක් මියගොස් තවත් පුද්ගලයෙක් බරපතළ තුවාල රෝහල් ගත තිබේ.
 
-අද (03) අලුයම ලොරි රථයක් සහ බව්සර් රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+ඊයේ (02) රාත්‍රී 11.00ට පමණ ලොරි රථයක් සහ බව්සර් රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
 
 අනතුරින් මියගොස් ඇත්තේ, ලොරි රථයේ ගමන්කළ රිය සහායකයා බව වාර්තා වෙයි.
 
@@ -66,7 +146,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මිනිත්තු 70ක කාලයක් පැවැත්වෙන මෙම සැමරුම් උත්සවයේදී චීනයේ අතිනවීන යුද උපකරණ, ගුවන්යානා ආදිය ප්‍රදර්නය කිරීමට නියමිතය.
 
-◼️
+ජපන් ආක්‍රමණයට එරෙහි චීන මහජන යුද්ධයේ සහ ලෝක ෆැසිස්‍ට්වාදී විරෝධී යුද ජයග්‍රහණයේ 80 වන සංවත්සරයෙහි ප්‍රධාන තේමාව වන්නේ, ‘පැහැබර අනාගතයක් උදෙසා ඉතිහාසය මතක තබා ගනිමින් දිවි පිදූවන් සිහි කර සාමය අගය  කරමු’යන්නය.
+
+මෙම උත්සවයට ජපන් ආක්‍රමණයට එරෙහි චීන මහජන යුද්ධයට දායක වූ ජාත්‍යන්තර මිතුරන්ට හා ඔවුන්ගේ පවුලේ සාමාජිකයන්ට ද විශේෂ ආරාධනාවන් සිදුකර තිබීම විශේෂත්වයකි.
+
+...
 
 [Data](articles/25a75ec0.json)
 
@@ -546,6 +630,22 @@ The assumption of elite impunity was built on decades of precedent. This reached
 
 ### 2025-09-02 (Tuesday)
 
+### 
+
+*2025-09-02 22:50:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86382) · `en`
+
+‘The Ugly Israeli: Are Israel’s tourists the worst in the world’ writes  Israeli web-paper Y-Net : Will the Law Take its Course Regarding the  Unprovoked  Attack  on  a Sinhala Hotelier and Companion  in Arugam Bay  by Two Israeli Tourists?
+
+“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
+
+Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
+
+...
+
+[Data](articles/a71d6d35.json)
+
+---
+
 ### Profit-takings stymie stock market’s positive proclivities
 
 *2025-09-02 22:15:00* · [`islandlk`](http://island.lk/profit-takings-stymie-stock-markets-positive-proclivities/) · `en`
@@ -1011,6 +1111,26 @@ The stock closed up 30 cents at 17.90 rupees. (Colombo/Sep2/2025)
 ◼️
 
 [Data](articles/c6121416.json)
+
+---
+
+### උතුරට බීජ පොල් නිෂ්පාදන ඒකකයක්
+
+*2025-09-02 17:11:52* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-බීජ-පොල්-නිෂ්පාදන-ඒකකයක්/11-418233) · `si`
+
+උතුරු පොල් ත්‍රිකෝණය ව්‍යාපෘතිය යටතේ, උතුරේ පළමු බීජ පොල් නිෂ්පාදන ඒකකය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (02) පෙරවරුවේ පලෙයි නගරයේදී ආරම්භ කෙරිණි.
+
+ශ්‍රී ලංකා පොල් පර්යේෂණ ආයතනය සහ හලාවත වැවිලි සමාගම අතර සහයෝගීතා වැඩසටහනක් ලෙස මෙම ව්‍යාපෘතිය ක්‍රියාත්මක ය.
+
+යාපනය, මුලතිව් සහ මන්නාරම, උතුරු පොල් ත්‍රිකෝණය ලෙස ප්‍රවර්ධන කිරීමට රජය සැලසුම් කර තිබේ. මේ යටතේ 2025 වර්ෂයේ උතුරු පළාතේ අක්කර 16,000ක පොල් වගා කිරීම අපේක්ෂා කෙරෙන අතර, 2025 සිට 2027 වර්ෂය දක්වා වන වසර 03 ඇතුළත එය අක්කර 40,000ක් දක්වා ඉහළ නැංවීමට නියමිතය.
+
+නිෂ්පාදන ඒකකයේ කටයුතු ආරම්භ කරමින් බීජ පොල් පැළයක් රෝපණය කිරීමද ජනාධිපතිවරයා අතින් සිදු කෙරිණි.
+
+වැවිලි සහ ප්‍රජා යටිතල පහසුකම් අමාත්‍ය සමන්ත විද්‍යාරත්න, ධීවර, ජලජ සහ සාගර සම්පත් අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්, පාර්ලිමේන්තු මන්ත්‍රී කේ. ඉලන්කුමරන්, උතුරු පළාත් ආණ්ඩුකාර නාගලිංගම් වේතනායහන් යන මහත්වරුද, පොල් පර්යේෂණ ආයතනයේ සහ හලාවත වැවිලි සමාගමේ නිලධාරිහුද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+...
+
+[Data](articles/af115acf.json)
 
 ---
 
@@ -1695,117 +1815,5 @@ The Bribery Commission previously informed court that these funds were discovere
 ◼️
 
 [Data](articles/7676e1a2.json)
-
----
-
-### උතුරේ පළමු බීජ පොල් නිෂ්පාදන ඒකකය ආරම්භ කෙරේ
-
-*2025-09-02 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214076) · `si`
-
-උතුරු පොල් ත්‍රිකෝණය ව්‍යාපෘතිය යටතේ, උතුරේ පළමු බීජ පොල් නිෂ්පාදන ඒකකය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (02) පෙරවරුවේ පලෙයි නගරයේදී ආරම්භ කෙරිණි.
-
-ශ්‍රී ලංකා පොල් පර්යේෂණ ආයතනය සහ හලාවත වැවිලි සමාගම අතර සහයෝගීතා වැඩසටහනක් ලෙස මෙම ව්‍යාපෘතිය ක්‍රියාත්මක ය.
-
-යාපනය, මුලතිව් සහ මන්නාරම, උතුරු පොල් ත්‍රිකෝණය ලෙස ප්‍රවර්ධන කිරීමට රජය සැලසුම් කර තිබේ. මේ යටතේ 2025 වර්ෂයේ උතුරු පළාතේ අක්කර 16,000ක පොල් වගා කිරීම අපේක්ෂා කෙරෙන අතර, 2025 සිට 2027 වර්ෂය දක්වා වන වසර 03 ඇතුළත එය අක්කර 40,000ක් දක්වා ඉහළ නැංවීමට නියමිතය.
-
-නිෂ්පාදන ඒකකයේ කටයුතු ආරම්භ කරමින් බීජ පොල් පැළයක් රෝපණය කිරීමද ජනාධිපතිවරයා අතින් සිදු කෙරිණි.
-
-වැවිලි සහ ප්‍රජා යටිතල පහසුකම් අමාත්‍ය සමන්ත විද්‍යාරත්න, ධීවර, ජලජ සහ සාගර සම්පත් අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්, පාර්ලිමේන්තු මන්ත්‍රී කේ. ඉලන්කුමරන්, උතුරු පළාත් ආණ්ඩුකාර නාගලිංගම් වේතනායහන් යන මහත්වරුද, පොල් පර්යේෂණ ආයතනයේ සහ හලාවත වැවිලි සමාගමේ නිලධාරිහුද මෙම අවස්ථාවට එක්ව සිටියහ.
-
-...
-
-[Data](articles/6e0019de.json)
-
----
-
-### “அழைத்தால் செல்வேன்”
-
-*2025-09-02 13:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழைத்தால்-செல்வேன்/175-363903) · `ta`
-
-ஐக்கிய தேசியக் கட்சி மாநாட்டிற்கு அழைப்பிதழ் கொடுக்கப்பட்டால், கட்சியினருடன் கலந்துரையாடி பின்னர் அங்கு செல்வேன் என்று ஹம்பாந்தோட்டை மாவட்ட பாராளுமன்ற உறுப்பினரும், ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளருமான நாமல் ராஜபக்ஷ தெரிவித்தார்.
-
-ஐக்கிய தேசியக் கட்சியின் மாநாடு கொழும்பு கண்காட்சி மற்றும் மாநாட்டு மண்டபத்தில், எதிர்வரும் 6 ஆம் திகதி நடைபெற உள்ளது.
-
-◼️
-
-[Data](articles/bb795dc0.json)
-
----
-
-### Death toll from Afghanistan earthquake rises to 1,100
-
-*2025-09-02 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112104/death-toll-from-afghanistan-earthquake-rises-to-1100) · `en`
-
-At least 1,100 people have been killed and 3,500 others injured after a magnitude 6.0 earthquake struck eastern Afghanistan, according to Taliban officials.
-
-The earthquake struck at 11:47 p.m. on Saturday in Afghanistan’s Hindu Kush region, near the border with Pakistan, according to the U.S. Geological Survey (USGS). It was centered about 26 miles (42 kilometers) from Jalālābād at a depth of roughly 6 miles (10 kilometers).
-
-Abdul Jabbar Behir, head of the Afghan Media and Research Center, told Al Arabiya on Monday that the earthquake’s death toll had risen to 1,100, with 3,500 others injured. The provinces of Kunar, Nangarhar, Laghman, and Nuristan were among the worst affected, with reports of entire villages destroyed.
-
-Initial reports from Taliban officials on Sunday put the toll at nine dead and more than 20 injured in Nangarhar and Kunar provinces, but the figures have risen sharply as more information emerges from remote areas. Rescue operations remain ongoing.
-
-...
-
-[Data](articles/87479e65.json)
-
----
-
-### இந்தியாவுடனான வர்த்தகம் ஒருதலைபட்சமான பேரழிவு -  ட்ரம்ப்
-
-*2025-09-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224011) · `ta`
-
-இந்தியாவுடனான வர்த்தகம் ஒருதலைபட்சமான பேரழிவு என்று அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
-
-நாம் (அமெரிக்கா) இந்தியாவுக்கு குறைந்த அளவில் ஏற்றுமதி செய்கிறோம் என்று சிலருக்கு தெரியும். ஆனால், இந்தியா நமக்கு (அமெரிக்கா) அதிக அளவில் ஏற்றுமதி செய்கின்றன. வேறோபோன்று கூறவேண்டுமென்றால், இந்தியா நமக்கு அதிக அளவில் பொருட்களை விற்பனை செய்கிறது. இந்தியாவின் மிகப்பெரிய வாடிக்கையாளர் நாம் தான் (அமெரிக்கா). ஆனால், அவர்களிடம் (இந்தியா) நாம் குறைவாகவே விற்பனை செய்கிறோம்.
-
-பல ஆண்டுகளாக இந்தியா - அமெரிக்கா வர்த்தக உறவு ஒருதலைபட்சமாகவே இருந்தது. காரணம் என்னவென்றால் அமெரிக்க இறக்குமதி பொருட்கள் மீது அதிக அளவு வரி விதிக்கும் நாடாக இந்தியா உள்ளது. இது ஒருதலைபட்சமான பேரழிவு. ரஷ்யாவிடமிருந்து ஆயுதங்கள், கச்சா எண்ணெய் ஆகியவற்றை இந்தியா வாங்குகிறது. ஆனால், குறைவான அளவிலேயே ஆயுதங்கள், கச்சா எண்ணெய் ஆகியவற்றை நம்மிடமிருந்து (அமெரிக்கா) இந்தியா வாங்குகிறது.
-
-...
-
-[Data](articles/9967e805.json)
-
----
-
-### Eight-hour traffic jams in Delhi suburb as rains wreak havoc
-
-*2025-09-02 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112103/eight-hour-traffic-jams-in-delhi-suburb-as-rains-wreak-havoc) · `en`
-
-Thousands of commuters in one of India’s wealthiest suburbs were stuck on roads for six to eight hours due to rain-triggered traffic gridlock on Monday.
-
-The incident has sparked outrage online, with many questioning how a place like Gurugram - known for its futuristic skyscrapers and sprawling corporate offices - could have such poor infrastructure.
-
-Disaster management authorities in the suburb, which is located on the outskirts of capital Delhi, have advised offices, schools and colleges to work from home on Tuesday as more rainfall is predicted.
-
-Torrential rains have wreaked havoc in several parts of India this year, killing hundreds of people in floods and landslides.
-
-Many people took to social media to express their frustration with Gurugram’s “nightmarish” traffic, which was more than 10km (6.2 miles) long on one road, according to local media.
-
-A viral video shows a never-ending row of cars clogging at least a dozen lanes of a key highway.
-
-...
-
-[Data](articles/ab5f3ec9.json)
-
----
-
-### Sri Lanka CEB offers VRS up to Rs5mn for excess workers
-
-*2025-09-02 12:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-offers-vrs-up-to-rs5mn-for-excess-workers-239186/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board is offering voluntary retirement package of up to 5 million rupees, to reduce excess workers, according to a gazette notice.
-
-Permanent workers who had served for 10 year or more will get the highest severance pay, of 2 months for every year served and 1.5 months compensation for the period forgone by early retirement.
-
-Employees with less than 10 years will get 0.5 months salary.
-
-The payments will be minimum 900,000 rupees and a maximum 5 million.
-
-Workers who are not in the permanent cadre will also be given compensation.
-
-The CEB had been stuffed with excess employees, from the electoraates of the minister in charge under various administrations, though qualified technical and engineering staff are in short supply.
-
-...
-
-[Data](articles/824ce270.json)
 
 ---

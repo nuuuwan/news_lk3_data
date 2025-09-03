@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 23:19:12**
+As of **2025-09-03 23:32:46**
 
 ## Newspaper Stats
 
-*Scraped **74,003** Articles*
+*Scraped **74,005** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 624
 bbccomsinhala | 677
-colombotelegraphcom | 754
+colombotelegraphcom | 755
 economynextcom | 4,503
 islandlk | 4,542
 dailymirrorlk | 4,733
@@ -19,14 +19,14 @@ dailyftlk | 5,246
 adalk | 7,152
 adaderanalk | 9,440
 tamilmirrorlk | 11,011
-virakesarilk | 12,102
+virakesarilk | 12,103
 adaderanasinhalalk | 12,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,003 articles have been extended.
+61,973 (83.7%) of 74,005 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/462c9135.json)
+
+---
+
+### வாய்க்காலில் விழுந்த  முச்சக்கர வண்டி – சாரதி வைத்தியசாலையில் அனுமதி
+
+*2025-09-03 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224144) · `ta`
+
+இச்சம்பவம் புதன்கிழமை (03) புதன்கிழமை  அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட வீரமுனை நூலகத்திற்கு அருகாமையில்  இடம்பெற்றுள்ளது.
+
+இவ்விபத்தில்  26 வயதுடைய சம்மாந்துறை மஜீட்புரம் பகுதியைச் சேர்ந்த முச்சக்கர வண்டி சாரதி காயமடைந்த நிலையில் சம்மாந்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6d5e5ba0.json)
+
+---
+
+### சமீரவின் கட்டுப்பாடான பந்துவீச்சு, நிஸ்ஸன்க, கமிந்துவின் துடுப்பாட்டங்கள்  இலங்கைக்கு வெற்றி ஈட்டிக்கொடுத்தன
+
+*2025-09-03 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224139) · `ta`
+
+ஸிம்பாப்வேக்கு எதிராக ஹராரே விளையாட்டுக் கழக மைதானத்தில் இன்று புதன்கிழமை (03) நடைபெற்ற முதலாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 4 விக்கெட்களால் இலங்கை வெற்றிபெற்றது.
+
+சர்வதேச ரி20 கிரிக்கெட் வரலாற்றில் ஸிம்பாப்வே மண்ணில் விளையாடிய முதல் சந்தர்ப்பத்திலேயே இலங்கை வெற்றியை சம்பாத்தித்துக்கொண்டது.
+
+துஷ்மன்தவின் கட்டுப்பாடான பந்துவீச்சு, பெத்தும் நிஸ்ஸன்க குவித்த அரைச் சதம், கமிந்து மெண்டிஸின் அதிரடி துடுப்பாட்டம் என்பன இலங்கையை வெற்றிபெறச் செய்தன.
+
+ஸிம்பாப்வேயினால் நிர்ணயிக்கப்பட்ட 176 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 19.1 ஓவர்களில் 4 விக்கெட்களை இழந்து 176 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+பெத்தும் நிஸ்ஸன்க, குசல் மெண்டிஸ் ஆகிய இருவரும் 61 பந்துகளில் 96 ஓட்டங்களைப் பகிர்ந்து சிறப்பான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+தொடர்ந்து குசல் பெரேரா (4), அணித் தலைவர் சரித் அசலன்க (1), 4ஆம் இலக்கத்தில் பரீட்சிக்கப்பட்ட நுவனிது பெர்னாண்டோ (7), தசுன் ஷானக்க (6) ஆகியோர் சீரான இடைவெளியில் ஆட்டம் இழந்தனர். (142 - 6 விக்.)
+
+...
+
+[Data](articles/d3adbb31.json)
 
 ---
 
@@ -219,20 +255,6 @@ The Russian leader said that in his view Ukraine needed to cancel martial law, h
 ◼️
 
 [Data](articles/8c9955cc.json)
-
----
-
-### ஸிம்பாப்வேக்கு எதிரான முதல் ரி20 போட்டியில் இலங்கைக்கு 4 விக்கெட் வெற்றி
-
-*2025-09-03 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224139) · `ta`
-
-ஸிம்பாப்வேக்கு எதிரான புதன்கிழமை (3) முதல் ரி20 போட்டியில் இலங்கை அணி 4 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
-
-ஹராரே கிரிக்கெட் மைதானத்தில் ஸிம்பாப்வே நிர்ணயித்த 176 ஓட்டங்கள் என்ற இலக்கை துரத்திய இலங்கை அணியின் துடுப்பாட்ட வீரர்கள் போட்டியின் 19.1வது ஓவரில் 6 விக்கெட்டுகள் வித்தியாசத்தில் இலக்கை எட்டி 4 விக்கெட்டுக்களால் வெற்றி பெற்றனர்.
-
-◼️
-
-[Data](articles/d3adbb31.json)
 
 ---
 
@@ -575,6 +597,18 @@ The IGP also stated that the arrest of five prominent members of a criminal gang
 ...
 
 [Data](articles/d9fb15af.json)
+
+---
+
+### Ranil’s Arrest Triggers Politics Of Accountability
+
+*2025-09-03 17:40:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-arrest-triggers-politics-of-accountability/) · `en`
+
+The after effects of years of lawless politics and lack of accountability among the political class and government servants are coming home to roost Sri Lanka after the National Peoples Power (NPP) government led by President Anura Kumara Dissanayake (AKD) arrested former President Ranil Wickremesinghe on criminal charges for alleged misuse of public funds on August 22. The arrest of Wickremesinghe had triggered a rare display of unity among leading opposition political parties who came together to address a press conference on August 24, with a slogan “Let’s Defeat the Constitutional Dictatorship.” Many political leaders who had been opposing the former president addressed the media conference. These included National Freedom Front leader Wimal Weerawansa, former President Maithripala Sirisena and Sri Lanka Muslim Congress Leader Rauff Hakeem.
+
+...
+
+[Data](articles/df994058.json)
 
 ---
 
@@ -1803,35 +1837,5 @@ Education is the best way to escape poverty, Secretary to the Ministry of Social
 ...
 
 [Data](articles/ce79ec7c.json)
-
----
-
-### හිටපු පොලිස්පති පූජිත් නිදහස් කරමින් අධිකරණයෙන් නියෝගයක්
-
-*2025-09-03 12:12:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පොලිස්පති-පූජිත්-නිදහස්-කරමින්-අධිකරණයෙන්-නියෝගයක්/11-418254) · `si`
-
-පොලිස් මුලස්ථානයේ විදුලි සෝපාන ක්‍රියාකරුවෙකුට විදුලි සෝපානය අසලදී සාපරාධි බලහත්කාරකම් හා සාපරාධි බියගැන්වීම් සිදුකිරීමේ චෝදනාවලින් හිටපු පොලිස්පති පූජිත් ජයසුන්දර මහතා නිදහස් කිරීමට  අධිකරණය අද (03දා) නියෝග කර තිබේ.
-
-අදාළ නඩුව අද කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ අද කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබා දී ඇත.
-
-◼️
-
-[Data](articles/31a1a000.json)
-
----
-
-### சிக்காகோவில் தொழிலாளர் தின வார இறுதியில் இடம்பெற்ற பல துப்பாக்கிச் சூட்டு சம்பவங்களில் 08 பேர் உயிரிழப்பு ; 50 பேர் காயம்
-
-*2025-09-03 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/224082) · `ta`
-
-சிக்காகோவில் தொழிலாளர் தின வார இறுதியில்  இடம்பெற்ற பல துப்பாக்கிச் சூட்டு சம்பவங்களில் எட்டு பேர் உயிரிழந்துள்ளதோடு, 50 பேர் காயமடைந்தனர் என பொலிஸார் தெரிவித்தனர்.
-
-வெள்ளிக்கிழமை இரவுக்கும் திங்கள் இரவுக்கும் இடையில், நாட்டின் மூன்றாவது பெரிய நகரமான சிக்காகோவில் நடந்த 37 தனித்தனி துப்பாக்கிச் சூட்டு சம்பவங்களில் மொத்தம் 58 பேர் பாதிக்கப்பட்டுள்ளதாக பொலிஸாரின் முதற்கட்ட தகவல்கள் தெரிவிக்கின்றன.
-
-கடந்த ஆண்டு தொழிலாளர் தின வார இறுதியில், ஏழு பேர் கொல்லப்பட்டனர், அவர்களில் ஆறு பேர் துப்பாக்கிச் சூட்டில் கொல்லப்பட்டனர். மேலும் விடுமுறை வார இறுதியில் நடந்த துப்பாக்கிச் சூட்டில் 20 க்கும் மேற்பட்டோர் காயமடைந்தனர் என பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/16918946.json)
 
 ---

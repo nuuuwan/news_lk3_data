@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 13:52:07**
+As of **2025-09-03 14:09:27**
 
 ## Newspaper Stats
 
-*Scraped **73,906** Articles*
+*Scraped **73,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,138
-adaderanalk | 9,425
+adaderanalk | 9,429
 tamilmirrorlk | 10,993
 virakesarilk | 12,080
-adaderanasinhalalk | 12,835
+adaderanasinhalalk | 12,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,906 articles have been extended.
+61,973 (83.8%) of 73,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### මාළිගාවත්තේ වෙඩිතැබීමේ CCTV දර්ශන
+
+*2025-09-03 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214118) · `si`
+
+මාළිගාවත්ත, ජුම්මා හංදිය ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ CCTV දර්ශන පෙළක් මේ වනවිට මාධ්‍යයට නිකුත් වී තිබේ.
+
+අද (03) උදෑසන ටී 56 වර්ගයේ ගිනිඅවියක් යොදාගනිමින් මෙම වෙඩි තැබීම සිදුකර තිබූ අතර ඉන් එක් අයෙකු තුවාල කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
+
+යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෝටර් රථ අමතර කොටස් අලෙවි සැලක සිටි පුද්ගලයෙකු ඉලක්ක කරගනිමින් වෙඩි තැබීම සිදුකර තිබේ.
+
+එහිදි පුද්ගලයෙකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබෙනවා.
+
+මෙම වෙඩි තැබීමත් සමග වසරේ ගත වු කාලය තුළ වෙඩි තැබීමේ සිද්ධීන් 93ක් සිදුව ඇති අතර ඉන් පුද්ගලයින් 49 දෙනෙකු මියගොස් 54 දෙනෙකු තුවාල ලබා තිබේ.
+
+◼️
+
+[Data](articles/57d4cf3b.json)
+
+---
 
 ### පන්ජාබ් ප්‍රාන්තය යට කළ ගංවතුර - 30කට අධික පිරිසක් මරුට
 
@@ -54,6 +74,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Man arrested with 2.7kg of heroin in Walasmulla
+
+*2025-09-03 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112136/man-arrested-with-27kg-of-heroin-in-walasmulla) · `en`
+
+An individual has been arrested with 2 kilograms and 755 grams of heroin in Walasmulla, police stated.
+
+Police stated that the suspect was apprehended near Morakanda within the Walasmulla police area by a team of officers from the Mannar Division Criminal Investigation Unit.
+
+◼️
+
+[Data](articles/0a57a857.json)
+
+---
+
 ### இன்றைய நாணய மாற்று விகிதம்
 
 *2025-09-03 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224086) · `ta`
@@ -65,6 +99,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a115206e.json)
+
+---
+
+### New quake shakes devastated Afghan region as death toll exceeds 1,400
+
+*2025-09-03 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112135/new-quake-shakes-devastated-afghan-region-as-death-toll-exceeds-1400) · `en`
+
+An earthquake of magnitude 5.5 shook southeastern Afghanistan on Tuesday, sparking fears of further damage and destruction almost two days after a large quake in the same region killed more than 1,400 people and injured thousands more.
+
+Tuesday’s quake occurred at a relatively shallow depth of 10 km (6 miles), the same level as the one that struck at midnight on Sunday with a magnitude of 6. That was one of Afghanistan’s worst quakes in years, flattening houses in remote villages.
+
+The aftershock caused panic and halted rescue efforts as it sent rocks sliding down mountains, cutting off roads further and making it dangerous to dig through rubble, said Safiullah Noorzai, who works with Aseel, a humanitarian tech platform with networks around Afghanistan.
+
+Noorzai, whose organisation has sent teams to the mountainous region, said more people had been injured, likely pushing the death toll higher.
+
+The difficult terrain has badly hindered rescue workers’ relief efforts in the isolated villages.
+
+...
+
+[Data](articles/8c5d5dc7.json)
+
+---
+
+### Inaugural session of Tourism Promotion Task Force held
+
+*2025-09-03 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112134/inaugural-session-of-tourism-promotion-task-force-held) · `en`
+
+The inaugural session of the Tourism Promotion Task Force was held at the Presidential Secretariat yesterday (02), the President’s Media Division said.
+
+During the session, Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath stated that the attention of the government was drawn towards establishing a Task Force dedicated to promoting the tourism sector with two main objectives in mind.
+
+The Minister said, “The decision was made with two main objectives of revitalizing the tourism industry and generating direct income growth for the national economy. This task force will be empowered to make decisions related to the promotion of the tourism sector.”
+
+During the session, discussions focused on preparing plans to promote the tourism sector, ensuring government institutions operate within a unified framework to implement necessary decisions, as well as addressing the challenges faced by both tourists and industry entrepreneurs, the PMD added.
+
+...
+
+[Data](articles/c36d6e66.json)
 
 ---
 
@@ -133,6 +205,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d54e5152.json)
+
+---
+
+### Ex- IGP Pujith Jayasundara released in case filed over alleged assault of lift operator
+
+*2025-09-03 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112133/ex-igp-pujith-jayasundara-released-in-case-filed-over-alleged-assault-of-lift-operator) · `en`
+
+The Colombo Fort Magistrate’s Court today (03) ordered the release of former Inspector General of Police (IGP) Pujith Jayasundara from the case filed over the alleged assault of a lift operator at the Police Headquarters.
+
+The former IGP was accused of assaulting a lift operator at the Police headquarters in 2017.
+
+Former IGP Pujith Jayasundara was arrested by the Criminal Investigations Department (CID) over the incident.
+
+◼️
+
+[Data](articles/a10550ce.json)
 
 ---
 
@@ -292,9 +380,9 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 
 *2025-09-03 11:45:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாளிகாவத்தையில்-துப்பாக்கிச்-சூடு/175-363951) · `ta`
 
-சற்று நேரத்திற்கு முன்பு மாளிகாவத்தையில் நடந்த துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒருவர் காயமடைந்தார்.
+மாளிகாவத்தை ஜும்மா மஸ்ஜித் வீதியில் வாகன உதிரிபாகங்களை விற்பனை செய்து கொண்டிருந்த இளைஞர்  மீது மோட்டார் சைக்கிளில் வந்த   இருவர் துப்பாக்கிச் சூடு நடத்திய சம்பவம் புதன்கிழமை (03) காலை இடம்பெற்றது.
 
-மோட்டார் சைக்கிளில் வந்த இரண்டு பேர்,  மாளிகாவத்தையில் உள்ள ஒரு உதிரி பாகக் கடையில் இருந்தவர் மீது துப்பாக்கிச் சூடு நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+துப்பாக்கிச் சூட்டில் காயமடைந்தவர்  கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
 
 ◼️
 
@@ -1691,91 +1779,5 @@ However, the flight to China departed at 2:00 p.m. yesterday without them, as th
 ◼️
 
 [Data](articles/9bbc6f20.json)
-
----
-
-### Entitlement mentality of national leaders must give way to empathy, sensitivity and morality
-
-*2025-09-03 05:38:57* · [`dailyftlk`](https://www.ft.lk/columns/Entitlement-mentality-of-national-leaders-must-give-way-to-empathy-sensitivity-and-morality/4-781159) · `en`
-
-The ‘RW incident’ highlights the urgent and critical need for Sri Lanka’s leaders to align their actions with the economic reality of the country and the lived experience of its citizens
-
-The hullabaloo over whether Ranil Wickremesinghe (RW) misused public funds when he extended his official trip to Cuba and the United States of America to attend a convocation ceremony at the University of Wolverhampton where his wife received an honorary degree has consumed significant amounts of media space and has attracted various comments, observations and views in support of, and against, RW. What is obvious from the comments and the views expressed is that, just like beauty is in the eyes of the beholder, our view of right and wrong is based more on our like or dislike of the individual under scrutiny than an objective interpretation of the facts and the principles.
-
-...
-
-[Data](articles/64ccf5c8.json)
-
----
-
-### China to hold massive parade to mark WWII victory
-
-*2025-09-03 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112117/china-to-hold-massive-parade-to-mark-wwii-victory) · `en`
-
-China will hold a massive military parade in central Beijing today (03) to mark the 80th anniversary of its victory in World War II, pledging its commitment to peaceful development in a world still fraught with turbulence and uncertainties.
-
-In Tian’anmen Square stand towering structures shaped like the Great Wall -- a symbol of the Chinese nation’s courage and solidarity in resisting foreign aggression -- crowned with giant numerals “1945” and “2025.”
-
-Tens of thousands of people are expected to attend the event.
-
-Chinese President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, is expected to address the rally and review the parade.
-
-This will mark the second time since 2015 that China has held a military parade to commemorate the hard-won victory in the Chinese People’s War of Resistance against Japanese Aggression and the World Anti-Fascist War.
-
-...
-
-[Data](articles/4af53abe.json)
-
----
-
-### Few showers expected in parts of the island today
-
-*2025-09-03 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112116/few-showers-expected-in-parts-of-the-island-today) · `en`
-
-A few showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (03), according to the Department of Meteorology.
-
-Showers or thundershowers may occur at a few places in the Ampara and Batticaloa districts after 2.00 p.m., the Met. Department added.
-
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the North-central and North-western provinces and in Hambantota district.
-
-The Met. Department added that the sun will be directly over the latitudes of Sri Lanka from August 28 to September 07 due to its southward relative motion.
-
-Accordingly, the sun will be directly overhead in Marawila, Dampelessa, Mawathagama, Ukuwela and Kalmunai at around 12.09 p.m. today.
-
-◼️
-
-[Data](articles/25660d74.json)
-
----
-
-### How to react to remanding of politicians
-
-*2025-09-03 05:30:59* · [`dailyftlk`](https://www.ft.lk/columns/How-to-react-to-remanding-of-politicians/4-781157) · `en`
-
-Social media is an indicator of “public opinion.” The quotation marks are there to indicate the imperfection of the indicator, privileging the most shrill and polarising voices. But it’s an indicator nevertheless, one that cannot be ignored.
-
-I could see that I was not winning popularity contests by pointing to the procedural flaws in the arrest of President Wickremesinghe. But the reactions reached a new level when I reposted a statement that former parliamentarian Nimal Lanza had been remanded for an alleged assault in 2006. Now the mobs were beginning to form. Fake expressions of disappointment about how I had fallen from my pedestal began to appear.
-
-...
-
-[Data](articles/00e7a123.json)
-
----
-
-### செம்மணியில் மேலும் 04 எலும்புக்கூடுகள் அடையாளம்
-
-*2025-09-03 05:28:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-மேலும்-04-எலும்புக்கூடுகள்-அடையாளம்/175-363932) · `ta`
-
-யாழ்ப்பாணம், செம்மணி மனிதப் புதைகுழியில் நேற்றைய அகழ்வின் போது 04 எலும்புக்கூடுகள்  அடையாளம் காணப்பட்டுள்ளன.
-
-மேலும் செம்மணிப் புதைகுழியில் கட்டம் கட்டமாக இடம்பெற்ற ஆய்வுகள் 50 நாள்களை எட்டியுள்ளன.
-
-நேற்றைய அகழ்வின் போது 04 மனித எலும்புக்கூட்டு  தொகுதிகள் புதிதாக அடையாளம் காணப்பட்டுள்ளன. இதன் மூலம் செம்மணி மனிதப் புதைகுழியில் இதுவரை அடையாளம் காணப்பட்டுள்ள மனித எலும்புக்கூட்டு  தொகுதிகளின் எண்ணிக்கை 222ஆக அதிகரித்துள்ளது.
-
-மேலும் ஏற்கனவே அடையாளம் காணப்பட்ட 8 மனித எலும்புக்கூட்டு  குதிகள் நேற்று அகழ்ந்து எடுக்கப்பட்டுள்ளன. இதன் மூலம் செம்மணி புதைகுழியில் இருந்து இதுவரை 206 மனித எலும்புக்கூட்டு தொகுதிகள் அகழ்ந்து எடுக்கப்பட்டுள்ளன. (a)
-
-◼️
-
-[Data](articles/b2af3ed2.json)
 
 ---

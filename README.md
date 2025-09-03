@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 03:06:46**
+As of **2025-09-04 03:32:57**
 
 ## Newspaper Stats
 
-*Scraped **74,012** Articles*
+*Scraped **74,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 755
 economynextcom | 4,503
 islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,246
+dailyftlk | 5,248
 adalk | 7,152
 adaderanalk | 9,441
 tamilmirrorlk | 11,014
-virakesarilk | 12,104
+virakesarilk | 12,105
 adaderanasinhalalk | 12,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,012 articles have been extended.
+61,973 (83.7%) of 74,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### Clarifying the nature of official trips and ethical considerations: Response to Dr. Jayalath Adikarige
+
+*2025-09-04 03:03:07* · [`dailyftlk`](https://www.ft.lk/columns/Clarifying-the-nature-of-official-trips-and-ethical-considerations-Response-to-Dr-Jayalath-Adikarige/4-781216) · `en`
+
+When a writer, or thought-leaders, attempt to defend this Government’s actions, it is imperative to consider all facts objectively. The President’s 2023 UK trip was official in its entirety and aligned fully with international diplomatic protocols. Ethical scrutiny should focus on substantive matters, especially those involving visits and meetings that deviate from standard diplomatic practices
+
+Following is a response to Dr. Jayalath Bandara Adikarige’s article in the Daily FT, titled “Accountability is not petty” (https://www.ft.lk/columns/Accountability-is-not-petty-Response-to-Dr-Dayan-Jayatilleka/4-781081)
+
+The recent article published which attempted to address the allegations surrounding former President Ranil Wickremesinghe’s 2023 trip to the United Kingdom warrants a clear and factual clarification. The entire journey, including the visit to the UK, must be understood within the context of official international duties and protocol.
+
+...
+
+[Data](articles/b17ccac4.json)
+
+---
+
+### Parent’s perspective on British primary education
+
+*2025-09-04 02:56:13* · [`dailyftlk`](https://www.ft.lk/columns/Parent-s-perspective-on-British-primary-education/4-781214) · `en`
+
+Understanding child psychology is critical in primary schools because young children are at crucial developmental stages. A good grasp of child psychology helps teachers guide behaviour positively, identify needs, and support healthy growth so children feel valued and motivated
+
+Primary education is the bedrock for later learning and development. During early childhood, children acquire foundational skills in reading, writing and numeracy that support their ability to learn independently. Primary schools provide the first structured environment for socialisation, teamwork, communication, problem-solving and emotional regulation. They shape cognitive abilities, nurture curiosity and develop positive attitudes to learning. This holistic start equips young minds with confidence and provides tools to meet the emerging challenges.
+
+...
+
+[Data](articles/739101eb.json)
+
+---
+
+### இளையோர் ஒருநாள் தொடரை இலங்கை சமப்படுத்தியது; பந்துவீச்சில் ஹாட்லி வீரர் ஆகாஷ் அபாரம்
+
+*2025-09-04 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/224146) · `ta`
+
+மேற்கிந்தியத் தீவுகளில் நடைபெற்றுவரும் 19 வயதுக்குட்பட்ட இலங்கை அணிக்கும் மேற்கிந்தியத் தீவுகள் அணிக்கும் இடையிலான இளையோர் ஒருநாள் கிரிக்கெட் தொடர் சம அளவில் மோதிக்கொள்ளப்பட்ட வண்ணம் உள்ளது.
+
+கூல்ரிஜ் விளையாட்டரங்கில் நடைபெற்ற முதலாவது போட்டியில் விக்னேஸ்வரன் ஆகாஷின் அபார பந்துவீச்சுக்கு மத்தியில் 12 ஓட்டங்களால் தோல்வி அடைந்த இலங்கை, இரண்டாவது போட்டியில் ஒரு விக்கெட்டினால் வெற்றிபெற்றது.
+
+இதற்கு அமைய 7 போட்டிகளைக் கொண்ட இளையோர் ஒருநாள் கிரிக்கெட் தொடர் 1 - 1 என சமப்படுத்தப்பட்டுள்ளது.
+
+முதலாவது போட்டியில் ஒரு ஓட்டமற்ற ஓவர் உட்பட 10 ஓவர்களில் 33 ஓட்டங்களுக்கு 4 விக்கெட்களைக் கைப்பற்றிய விக்னேஸ்வரன் ஆகாஷ் இரண்டாவது போட்டியில் ஒரு ஓட்டமற்ற ஓவர் அடங்கலாக 30 ஓட்டங்களுக்கு 3 விக்கெட்களை வீழ்த்தி தொடர்ச்சியாக ஆற்றலை வெளிப்படுத்தியுள்ளார்.
+
+இரண்டாவது போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட மேற்கிந்தியத் தீவுகள் அணி 47.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 201 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/c4183039.json)
+
+---
 
 ### ஏஎவ்சி 23 வயதின்கீழ் ஆசிய கிண்ண தகுதிகாண் சுற்றில் கிர்கிஸ் குடியரசிடம் வீழ்ந்தது இலங்கை
 
@@ -1749,63 +1799,5 @@ Police stated that the suspect was apprehended near Morakanda within the Walasmu
 ◼️
 
 [Data](articles/a115206e.json)
-
----
-
-### New quake shakes devastated Afghan region as death toll exceeds 1,400
-
-*2025-09-03 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112135/new-quake-shakes-devastated-afghan-region-as-death-toll-exceeds-1400) · `en`
-
-An earthquake of magnitude 5.5 shook southeastern Afghanistan on Tuesday, sparking fears of further damage and destruction almost two days after a large quake in the same region killed more than 1,400 people and injured thousands more.
-
-Tuesday’s quake occurred at a relatively shallow depth of 10 km (6 miles), the same level as the one that struck at midnight on Sunday with a magnitude of 6. That was one of Afghanistan’s worst quakes in years, flattening houses in remote villages.
-
-The aftershock caused panic and halted rescue efforts as it sent rocks sliding down mountains, cutting off roads further and making it dangerous to dig through rubble, said Safiullah Noorzai, who works with Aseel, a humanitarian tech platform with networks around Afghanistan.
-
-Noorzai, whose organisation has sent teams to the mountainous region, said more people had been injured, likely pushing the death toll higher.
-
-The difficult terrain has badly hindered rescue workers’ relief efforts in the isolated villages.
-
-...
-
-[Data](articles/8c5d5dc7.json)
-
----
-
-### Inaugural session of Tourism Promotion Task Force held
-
-*2025-09-03 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112134/inaugural-session-of-tourism-promotion-task-force-held) · `en`
-
-The inaugural session of the Tourism Promotion Task Force was held at the Presidential Secretariat yesterday (02), the President’s Media Division said.
-
-During the session, Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath stated that the attention of the government was drawn towards establishing a Task Force dedicated to promoting the tourism sector with two main objectives in mind.
-
-The Minister said, “The decision was made with two main objectives of revitalizing the tourism industry and generating direct income growth for the national economy. This task force will be empowered to make decisions related to the promotion of the tourism sector.”
-
-During the session, discussions focused on preparing plans to promote the tourism sector, ensuring government institutions operate within a unified framework to implement necessary decisions, as well as addressing the challenges faced by both tourists and industry entrepreneurs, the PMD added.
-
-...
-
-[Data](articles/c36d6e66.json)
-
----
-
-### மின்தூக்கி பராமரிப்பாளரை தாக்கிய வழக்கிலிருந்து முன்னாள் பொலிஸ்மா அதிபர் பூஜித் ஜயசுந்தர விடுதலை!
-
-*2025-09-03 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224084) · `ta`
-
-2017ஆம் ஆண்டு பொலிஸ் தலைமையகத்தில் மின்தூக்கி பராமரிப்பாளர் ஒருவரை அச்சுறுத்தி தாக்கிய வழக்கிலிருந்து முன்னாள் பொலிஸ்மா அதிபர் பூஜித் ஜயசுந்தரவை விடுதலை செய்து கோட்டை நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-இந்த வழக்கு இன்று புதன்கிழமை (03) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது கோட்டை நீதவான் இந்த உத்தரவை பிறப்பித்துள்ளார்.
-
-2019ஆம் ஆண்டு ஜூன் மாதம் 2 ஆம் திகதியன்று மின்தூக்கி பராமரிப்பாளர் ஒருவரை அச்சுறுத்தி தாக்கிய சம்பவம் தொடர்பாக அப்போதைய பிரதி பொலிஸ்மா அதிபருக்கு முறைப்பாடு கிடைத்துள்ளது.
-
-2017 ஆம் ஆண்டு ஏப்ரல் மாதம் 11 ஆம் திகதியன்று அப்போதைய பொலிஸ்மா அதிபர் பூஜித் ஜயசுந்தர தன்னை மோசமான வார்த்தைகளில் திட்டியதாகவும் தமது காலரைப் பிடித்து மின்தூக்கிக்குள் தாக்க முயன்றதாகவும் முறைப்பாட்டில் குறிப்பிடப்பட்டுள்ளது.
-
-தேசிய கீதம் பாடப்படும்போதும் தியான நிகழ்ச்சிகள் நடைபெறும்போதும் மின்தூக்கி பிறப்பாக்கியை இயக்க வேண்டாம் என ஜயசுந்தர அறிவுறுத்தியதன் பின்னணியில் இந்த சம்பவம் நடந்ததாகக் கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/3e7897d2.json)
 
 ---

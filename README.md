@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 00:49:28**
+As of **2025-09-04 01:06:05**
 
 ## Newspaper Stats
 
-*Scraped **74,007** Articles*
+*Scraped **74,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,152
-adaderanalk | 9,440
+adaderanalk | 9,441
 tamilmirrorlk | 11,011
 virakesarilk | 12,103
 adaderanasinhalalk | 12,858
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,007 articles have been extended.
+61,973 (83.7%) of 74,008 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8b84227c.json)
+
+---
+
+### Grade 5 Scholarship Exam results released
+
+*2025-09-04 00:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112148/grade-5-scholarship-exam-results-released) · `en`
+
+The results of the 2025 Grade 5 Scholarship Examination have been released online, the Commissioner General of Examinations announced.
+
+Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
+
+The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
+
+According to the Commissioner General of Examinations a total of 901 students with special needs sat for the exam this year, including 12 candidates who used Braille scripts.
+
+◼️
+
+[Data](articles/72908284.json)
 
 ---
 
@@ -1799,27 +1817,5 @@ Former IGP Pujith Jayasundara was arrested by the Criminal Investigations Depart
 ◼️
 
 [Data](articles/a10550ce.json)
-
----
-
-### இலங்கையில் HIV தாண்டவம்
-
-*2025-09-03 12:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-HIV-தாண்டவம்/175-363954) · `ta`
-
-இலங்கையில் HIV தொற்று தொடர்ந்து அதிகரித்து வருவதாகவும், 2025 ஆம் ஆண்டு புள்ளிவிவரங்ளை  கடந்த ஆண்டுகளுடன் ஒப்பிடும்போது வியத்தகு அதிகரிப்பைக் காட்டுவதாக  தகவல்கள் தெரிவிக்கின்றன.
-
-தேசிய பாலியல் நோய்/எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டத்தின்படி,2025  ( National STD/AIDS Control Programme - NSACP 2025) ஆம் ஆண்டின் முதல் காலாண்டில் மட்டும் (ஜனவரி முதல் மார்ச் வரை) மொத்தம் 230 பேர் பாதிக்கப்பட்டுள்ளனர்.
-
-2009 ஆம் ஆண்டுக்குப் பிறகு ஒரு காலாண்டில் பதிவான அதிகபட்ச சம்பவங்கள் 2025 ஆம் முதல் காலாண்டில் பதிவாகியுள்ளன.
-
-2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான சம்பவங்களில், 30 ஆண்களும் இரண்டு பெண்களும்  அடங்குகின்றனர் இவர்கள் 15–24 வயதுக்குட்பட்டவர்கள், ஏனைய சம்பவங்கள் 25 வயதுக்கு மேற்பட்டவர்கள்.
-
-2025 ஆம் ஆண்டில் பதிவான HIV தொற்றுகளின் ஆண்-பெண் விகிதம் 6.6:1 ஆக காணப்படுகின்றது.
-
-மேலும், 2025 ஆம் ஆண்டில் இதுவரை எச்.ஐ.வி/எய்ட்ஸ் (HIV/AIDS) தொடர்பான 10 இறப்புகள் பதிவாகியுள்ளன
-
-...
-
-[Data](articles/77e9ceff.json)
 
 ---

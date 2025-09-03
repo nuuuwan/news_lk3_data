@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 17:33:06**
+As of **2025-09-03 17:55:04**
 
 ## Newspaper Stats
 
-*Scraped **73,953** Articles*
+*Scraped **73,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,147
-adaderanalk | 9,431
+adalk | 7,148
+adaderanalk | 9,435
 tamilmirrorlk | 11,004
-virakesarilk | 12,092
+virakesarilk | 12,093
 adaderanasinhalalk | 12,844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,953 articles have been extended.
+61,973 (83.8%) of 73,959 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ad44f001.json)
+
+---
+
+### குவைத் எயார்வேஸின் கொழும்பு வணிக விமான சேவை மீண்டும் ஆரம்பம்!
+
+*2025-09-03 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224108) · `ta`
+
+குவைத் எயார்வேஸின் கொழும்பு வணிக விமான சேவை எதிர்வரும் ஒக்டோபர் மாதம் 26ஆம் திகதி முதல் மீண்டும் ஆரம்பிக்கப்படவுள்ளது.
+
+இந்த விமான சேவை ஞாயிறு, புதன், வியாழன் மற்றும் வெள்ளிக்கிழமைகளில் நான்கு விமானங்களை இயக்கவுள்ளது.
+
+கொழும்பு நகரத்தை முக்கிய சுற்றுலா தலமாக கொண்டு இந்த வணிக விமான சேவை ஆரம்பிக்கப்படவுள்ளதாக குவைத் எயார்வேஸ் விமான நிறுவனம்  தெரிவித்துள்ளது.
+
+வாடிக்கையாளர் தேவையைப் பூர்த்தி செய்தல் மற்றும் பரந்த அளவிலான உலகளாவிய பயண விருப்பங்களை வழங்குதல் ஆகிய நொக்கங்களை அடிப்படையாக கொண்டு இந்த விமான சேவையை மீண்டும் ஆரம்பிக்கப்படவுள்ளது.
+
+இந்த தீர்மானம் குவைத் எயார்வேஸ் விமான நிறுவனத்தின் உறுதிப்பாட்டை பிரதிபலிக்கிறது என்றும் குறித்த நிறுவனம் தெரிவித்துள்ளது.
+
+குவைத் எயார்வேஸ், பயணிகளின் பல்வேறு தேவைகளைப் பூர்த்தி செய்யும் இடங்களை அறிமுகப்படுத்துவதன் மூலமும், அவர்களுக்கு கூடுதல் தேர்வுகள் மற்றும் மேம்பட்ட இணைப்பை வழங்குவதன் மூலமும் அதன் வலையமைப்பை விரிவுபடுத்துவதற்கான தனது ஆர்வத்தை மீண்டும் உறுதிப்படுத்தியது.
+
+...
+
+[Data](articles/84c7643d.json)
 
 ---
 
@@ -272,6 +294,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Customs seizes narcotics worth Rs. 312 million sent via courier parcels
+
+*2025-09-03 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112142/customs-seizes-narcotics-worth-rs-312-million-sent-via-courier-parcels) · `en`
+
+A large consignment of narcotics valued at Rs. 312 million was seized this afternoon (3) by officers of the Sri Lanka Customs’ Narcotics Control Division after being detected in courier parcels received through airmail at a private bonded warehouse in Seeduwa, Katunayake.
+
+The consignment included 23,642 ecstasy/methamphetamine tablets, 1.445 kilograms of cocaine, 993 grams of ‘Mandy,’ a synthetic chemical drug also known as MDMA, and 98 grams of Crystal Methamphetamine, also known as ‘Ice’.
+
+The drugs had been concealed inside seven courier parcels sent from countries including Germany, the Czech Republic, Zambia, the United States, Canada, and the Netherlands, while they had been sent to fictitious addresses in Colombo, Panadura, Wattala, Rajagiriya, and Moratuwa.
+
+As no one came forward to claim the parcels in question, Customs officers carried out inquiries into the listed addresses and confirmed that all were fake, said Ada Derana reporter.
+
+...
+
+[Data](articles/e4b3c1ac.json)
+
+---
+
 ### 80 ஆயிரம் புறாக்களை பறக்கவிட்டு சீன மக்கள் விடுதலை இராணுவத்தின் 80 ஆவது ஆண்டு வெற்றி விழா கொண்டாட்டம்
 
 *2025-09-03 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/224109) · `ta`
@@ -326,6 +366,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Former Minister Rajitha leaves Bribery Commission
+
+*2025-09-03 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112141/former-minister-rajitha-leaves-bribery-commission) · `en`
+
+Former Minister Rajitha Senaratne, who is currently in remand custody, has left the Bribery Commission a short while ago after recording a statement for nearly five hours.
+
+Rajitha Senaratne was taken into custody on August 29 after appearing in court following an arrest warrant that had been issued against him.
+
+Following his court appearance, he was placed in remand custody until September 9.
+
+At the time, Colombo Chief Magistrate Asanka S. Bodaragama ordered prison authorities to present Senaratne before the Bribery Commission at 9:00 a.m. today to record a statement.
+
+◼️
+
+[Data](articles/fb96cede.json)
+
+---
+
 ### ’’வெவ்வேறு விலையில் மருந்துகளை விற்க முடியாது’’
 
 *2025-09-03 15:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெவ்வேறு-விலையில்-மருந்துகளை-விற்க-முடியாது/175-363966) · `ta`
@@ -339,6 +397,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/46570fff.json)
+
+---
+
+### Speaker endorses certificate on Gambling Regulatory Authority Bill
+
+*2025-09-03 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112140/speaker-endorses-certificate-on-gambling-regulatory-authority-bill) · `en`
+
+The Speaker of Parliament Dr. Jagath Wickramaratne today (03) endorsed the certification on the Gambling Regulatory Authority Bill in accordance with Article 79 of the Constitution.
+
+The Bill was passed with amendments following the Second Reading debate in Parliament on August 19, 2025.
+
+Accordingly, the Bill will come into force as the Gambling Regulatory Authority Act, No. 17 of 2025.
+
+This Act is to provide for the establishment of the Gambling Regulatory Authority; for the repeal of the Betting on Horse-Racing Ordinance (Chapter 44), Gaming Ordinance (Chapter 46) and the Casino Business (Regulation) Act, No. 17 of 2010; and to provide for matters connected therewith or incidental thereto.
+
+This Act provides for the establishment of the Gaming Regulatory Authority as a single regulatory body for gaming operations, to regulate the gaming industry in Sri Lanka.
+
+...
+
+[Data](articles/b462ca56.json)
 
 ---
 
@@ -357,6 +435,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/441c16b6.json)
+
+---
+
+### වසර පහකට පසු දැදුරු ඔය සිදී යයි
+
+*2025-09-03 15:27:22* · [`adalk`](https://www.ada.lk/opinion/වසර-පහකට-පසු-දැදුරු-ඔය-සිදී-යයි/2-418259) · `si`
+
+මාසයකට ආසන්න කාලයක් පුරා පවතින වියළි කාළගුණ තත්වයත් සමග මේ දිනවල දැදුරු ඔයේ ජල මට්ටම සම්පුර්ණයෙන් පහතට වැටි සිදිගොස් ඇති අයුරු මෙලෙස ඡායාරුපයට දිස්විනි.
+
+මෙලෙස දැදුරු ඔයෙ ජල මට්ටම අගෝස්තු මාසයෙදී සිදි ගියේ වසර පහකට පසුව බව වාරි මාර්ග නිළධාරීහු පවසයි.
+
+පසුගිය වසර වල නොකඩවා වැසි ඇද වැටිමත් සමග වයඹ පළාතේ ප්‍රදේශ රැසක් ජල ගැලිම් වලට පවා ලක්ව තිබු අතර මේ ආකාරයට දැදුරු ඔය ජලය සිදි යාම අගොස්තු මාසයෙ සිට නිරන්තයෙන් පවතින වියළි කාලගුණ තත්වයට ලක්ව සිදි යාම සිදුවුවත් ගෙවි ගිය වසර පහකට ආසන්න කාලයක් නොකඩවා වැසි ලැබිම සිදුවිමත් සමග දැදුරු ඔයේ ජල මට්ටමේ අඩු විමක් දක්නට නොලැබුන බව ජනතාව කියයි.
+
+කෙසේ නමුත් මෙලෙ ජල මට්ටම අඩුවිමත් සමග දැදුරු ඔයෙන් විවිධ ගොවිතැන් කටයුතු සදහා ජලය පොම්ප කරමින් ලබා ගත් පිරිස් දැඩි අසිරුතාවයකට ලක්ව ඇති බවද කියයි.
+
+◼️
+
+[Data](articles/e8028431.json)
 
 ---
 
@@ -1651,105 +1747,5 @@ At the time, Colombo Chief Magistrate Asanka S. Bodaragama ordered prison author
 ◼️
 
 [Data](articles/413c7a2d.json)
-
----
-
-### பிரேத அறையில் இருந்த  குழந்தையின் சடலம் மாயம்
-
-*2025-09-03 09:17:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரேத-அறையில்-இருந்த-குழந்தையின்-சடலம்-மாயம்/175-363937) · `ta`
-
-கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டிருந்த ஒரு குழந்தையின் சடலம் காணாமல் போயுள்ளதாக மருதானை பொலிஸார் தெரிவிக்கின்றனர்.
-
-தெமட்டகொட பொலிஸ் பிரிவுக்குட்பட்ட  மாளிகாவத்தை ரயில்வே முற்றத்தில் நிறுத்தப்பட்டிருந்த ரயிலின் கழிப்பறையில் இருந்து ஆகஸ்ட் 1 ஆம் திகதி குறித்த குழந்தையின் சடலம் மீட்கப்பட்டுள்ளது.
-
-இது ​தொடர்பாக விசாரணைகளை மேற்கொண்ட பொலிஸார், நீதவானின் உத்தரவின் பேரில், குழந்தையின் சடலத்தை  கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைத்துள்ளனர்.
-
-இந்நிலையில் தெமட்டகொட பொலிஸார், கடந்த மாதம் 29 மற்றும் 31 ஆம் திகதிகளில் குறித்த சடலத்தை பிரேத பரிசோதனை நடத்துவதற்காக கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறைக்கு சென்று விசாரித்த போது சடலம் கண்டுபிடிக்க முடியாமல் போயுள்ளது.
-
-◼️
-
-[Data](articles/07640061.json)
-
----
-
-### Two suspects arrested in connection with shootings in two areas
-
-*2025-09-03 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112127/two-suspects-arrested-in-connection-with-shootings-in-two-areas) · `en`
-
-Two individuals have been apprehended in connection with shooting incidents that occurred in two separate areas, police stated.
-
-The individuals arrested are suspected to be connected to shooting incidents that took place in Meetiyagoda and Bandaragama.
-
-A suspect was arrested for aiding and abetting a shooting that resulted in the murder of an individual on Malawenna Road in Meetiyagoda on September 01.
-
-The suspect was taken into custody last evening by a team of officers from the Special Task Force (STF) of the Talawakelle camp.
-
-Meanwhile, another suspect was arrested yesterday (02) for aiding and abetting a shooting that occurred on August 21 near the Bolgoda Bridge in Bandaragama, which resulted in the death of a person.
-
-This suspect was arrested in Hirana, Panadura, by a team of officers from the Kalutara Crimes Division.
-
-◼️
-
-[Data](articles/d6c35fca.json)
-
----
-
-### පොහොට්ටුව හා නිදහස් පක්ෂය එක්විය යුතුයි
-
-*2025-09-03 09:06:03* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-හා-නිදහස්-පක්ෂය-එක්විය-යුතුයි/11-418239) · `si`
-
-ජනතා විමුක්ති පෙරමුණද ඇතුළුව සෑම දේශපාලන පක්ෂයකටම දේශපාලන පොරපිටියේ බල්ටි ගැසීමට හැකිව තිබෙන්නේ රණවිරුවන් විසින් යුද්ධය අවසන් කොට නිදහස ලබා දුන් නිසා බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතාට කච්චතිව් දූපතට යාමට යාමට හැකිවූයේ එම නිදහස නිසාා බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා පවසයි.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායකවරයා ඒ බව අවධාරණය කර සිටියේ ඊයේ (02) මහනුවරට පැමිණ මල්වතු අස්ගිරි මහා නා හිමිවරුන් හා එහි අනු නාහිමිවරුන් බැහැ දැකීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි.
-
-එහිදී රාජපක්ෂ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ හිටපු නාවික හමුදාපතිවරයා අත්අඩංගුවට ගැනීම ඔස්සේ වත්මන් රජය රණවිරු දඩයමක් ආරම්භ කර තිබෙන බවත් ඉදිරියේදී ත්‍රිවිධ හමුදාවට හා පොලිසියට විශාල බලපෑමක් එල්ල විය හැකි බවද අවධාරණය කළේය.
-
-...
-
-[Data](articles/9d8fa6b6.json)
-
----
-
-### வெப்பமான காலநிலை தொடரும் - வளிமண்டலவியல் திணைக்களம்
-
-*2025-09-03 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224063) · `ta`
-
-நாட்டில் தற்போது நிலவும் வெப்பமான வானிலை தொடர்பில் வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்து அறிக்கை ஒன்றை வௌியிட்டுள்ளது. நேற்று   பிற்பகல் 2 மணிக்கு வெளியிடப்பட்ட இந்த எச்சரிக்கை, இன்று புதன்கிழமை (03) வரை செல்லுபடியாகும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
-
-அந்த வகையில்,வடக்கு, வடமத்திய, கிழக்கு மாகாணங்கள் மற்றும் மொனராகலை, ஹம்பாந்தோட்டை மாவட்ட மக்கள் அவதானத்துடன் செயற்பாடுமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
-
-இப்பகுதிகளின் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பநிலை எச்சரிக்கை மட்டத்தில் இருக்கக்கூடும் என வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது.
-
-இதனால், வெளிப்புறங்களில் வேலை செய்பவர்கள் இலகுவான  ஆடைகளை அணியுமாறும், நிழலான பகுதிகளில் ஓய்வெடுத்தல் மற்றும் போதியளவு நீரை அருந்துமாறும் அறிவுறுத்தப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/d3a272f8.json)
-
----
-
-### මාරක අනතුරු වැලක් - ජීවිත 06ක් අහිමිවෙයි
-
-*2025-09-03 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214106) · `si`
-
-ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු 06කින් අවුරුදු 08 කුඩා දැරියක් ඇතුළු පුද්ගලයින් 06 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඊයේ (02) එම අනතුරු සිදුව තිබුණේ පොල්ගහවෙල, රත්නපුර, කටුනායක, එරාවුර්, කුලියාපිටිය සහ හලාවත පොලිස් වසම්වලින්ය.
-
-කුලියාපිටිය - හෙටිටිපොළ මාර්ගයේ, ගොමුගමුව මංසන්දිය ආසන්නයේදී හෙට්ටිපොළ දෙස සිට පැමිණි ලොරි රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදි දෙකක ගැටී තිබුණි.
-
-එහිදී බරපතළ තත්ත්වයේ පසුවූ තුවාලකරුවන් තිදෙනෙකු කොළඹ ජාතික රෝහලට සහ කුරුණැගල ශික්ෂණ රෝහලට මාරුකෙරුණි.
-
-මේ අතර පොල්ගහවෙල - කෑගල්ල මාර්ගයේ පොල්ගහවෙල දෙසට ධාවනය වූ යතුරුපැදියක පසුපස එම දිශාවටම ගමන් කල පුද්ගලික බස් රථයක් ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් යතුරුපැදියේ පසුපැදිකාරියව සිටි දැරියක් තුවාල ලබා කුරුණෑගල රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
-
-එලෙස මියගොස් ඇත්තේ, ඉඹුල්ගස්දෙනිය ප්‍රදේශයේ පදිංචිව සිටි 08 හැවිරිදි දැරියකි.
-
-මේ අතර රත්නපුර - පානදුර මාර්ගයේ රත්නපුර දෙසට ධාවනය වූ මෝටර් රථයක් රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට පැන බෝක්කුවක ගැටී අනතුරක් සිදුව ඇත.
-
-...
-
-[Data](articles/8039ed20.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 18:55:52**
+As of **2025-09-03 19:12:00**
 
 ## Newspaper Stats
 
-*Scraped **73,966** Articles*
+*Scraped **73,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,149
-adaderanalk | 9,435
-tamilmirrorlk | 11,006
-virakesarilk | 12,093
+adaderanalk | 9,436
+tamilmirrorlk | 11,007
+virakesarilk | 12,094
 adaderanasinhalalk | 12,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,966 articles have been extended.
+61,973 (83.8%) of 73,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### ஜனாதிபதி 18 புதிய மேல் நீதிமன்ற நீதிபதிகளை நியமித்தார்
+
+*2025-09-03 18:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-18-புதிய-மேல்-நீதிமன்ற-நீதிபதிகளை-நியமித்தார்/175-363980) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க, குறித்த நியமனக் கடிதங்களை இன்று (03) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் புதிய மேல் நீதிமன்ற நீதிபதிகளுக்கு வழங்கினார்.
+
+விசேட தர நீதித்துறை அதிகாரிகள் 17 பேரும் மற்றும் சட்டமா அதிபர் திணைக்களத்தில் பணியாற்றும் சிரேஷ்ட அரசதரப்பு சட்டத்தரணி ஒருவரும் இவ்வாறு மேல் நீதிமன்ற நீதிபதிகளாக நியமிக்கப்பட்டுள்ளனர்.
+
+இலங்கை ஜனநாயக சோசலிசக் குடியரசின் அரசியலமைப்பின் 111 ஆவது அரசியலமைப்பின் (2) ஆவது உப பிரிவின்படி ஜனாதிபதியினால் இந்த நியமனங்கள் வழங்கப்பட்டன.
+
+இவ்வாறு புதிய மேல் நீதிமன்ற நீதிபதிகளாக நியமிக்கப்பட்ட நீதிபதிகளின் பட்டியல் கீழே கொடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ddcc8e16.json)
+
+---
+
+### புலமைப்பரிசில் பரீட்சையின் பெறுபேறு இன்று இரவு வௌியீடு!
+
+*2025-09-03 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224135) · `ta`
+
+2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகள் வரும் புதன்கிழமை (3) இரவு வெளியிடப்படும் என்று பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+இந்த பரீட்சை கடந்த ஆகஸ்ட் மாதம் 10 ஆம் திகதி நாடு முழுவதும் ஒரே நேரத்தில் நடைபெற்றது.
+
+◼️
+
+[Data](articles/11d0203d.json)
+
+---
 
 ### සූදු ක්‍රීඩා නියාමන අධිකාරිය පනත් කෙටුම්පතට කථානායකගේ සහතිකය
 
@@ -93,6 +125,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/26ae98cb.json)
+
+---
+
+### Over 1,600 illegal firearms taken into custody so far this year - IGP
+
+*2025-09-03 17:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112143/over-1600-illegal-firearms-taken-into-custody-so-far-this-year-igp) · `en`
+
+Sri Lanka’s Inspector General of Police (IGP) Priyantha Weerasuriya says that 1,612 illegal firearms have been taken into custody so far this year.
+
+Addressing the 159th Police Day commemoration event in Colombo, he also revealed that 17 criminals involved in organised crime have been brought back to the island from overseas recently.
+
+He added that organised criminals, transnational organised criminals and other criminals are currently being arrested continuously and that 17 individuals who were involved in crimes in this country while operating from foreign countries have been arrested and brought back to the island in the recent period.
+
+The IGP also stated that the arrest of five prominent members of a criminal gang hiding in Jakarta, the capital of Indonesia, in collaboration with Interpol, was a great achievement for the Sri Lankan Police Department.
+
+...
+
+[Data](articles/d9fb15af.json)
 
 ---
 
@@ -1711,55 +1761,5 @@ However, by early this morning (02), area residents had managed to bring the fir
 ◼️
 
 [Data](articles/6fc3529c.json)
-
----
-
-### விபத்துக்குள்ளாகி 14 நாட்களுக்கு பிறகு வைத்தியர் மரணம்
-
-*2025-09-03 10:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபத்துக்குள்ளாகி-14-நாட்களுக்கு-பிறகு-வைத்தியர்-மரணம்/76-363942) · `ta`
-
-இரத்தினபுரி போதனா வைத்தியசாலையில்  பணிபுரியும் பெண் வைத்தியர் ஒருவர், தனியார்  பேருந்தொன்றில் இருந்து விழுந்து பலத்த  காயங்களுக்குள்ளாகி தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த நிலையில் 14 நாட்களுக்கு பிறகு திங்கட்கிழமை (01) அன்று உயிரிழந்துள்ளார்.
-
-உயிரிழந்தவர் இரத்தினபுரி, மொரகஹாயட்ட, லென் கெட்டிய வீதியைச் சேர்ந்த   32 வயதுடைய  பி. மதரா மதுபாஷினி  என்ற ஒரு குழந்தையின் தாயார் என தெரியவந்துள்ளது.
-
-குறித்த வைத்தியர் கடந்த மாதம் 19 ஆம் திகதி அன்று, தனது வேலையை முடித்துவிட்டு தனியார் பேருந்தில் வீடு திரும்பிக்கொண்டிருந்த போது, ​​மட்டக்களப்பு -  கொழும்பு பிரதான வீதியில் உள்ள பெல்மடுல்ல பொலிஸ் நிலையத்திற்கு அருகில் வைத்து  பேருந்தில் இருந்து விழுந்துள்ளார்.
-
-முச்சக்கர வண்டியொன்று திடீரென வீதியை கடக்க  முயன்ற போது பேருந்து ஓட்டுநர் பிரேக் போட்ட நிலையில் போது  வைத்தியர் பேருந்தின்  கதவு அருகில் இருந்து வெளியே தூக்கி வீசப்பட்டுள்ளதாக தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/77ae0cfb.json)
-
----
-
-### බන්ධනාගාරයේ සිට හිටපු ඇමති රාජිත අල්ලස් කොමිසමට රැගෙන එයි
-
-*2025-09-03 10:04:49* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරයේ-සිට-හිටපු-ඇමති-රාජිත-අල්ලස්-කොමිසමට-රැගෙන-එයි/11-418240) · `si`
-
-අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාව අල්ලස් කොමිසම හමුවට ඉදිරිපත් කර තිබේ.
-
-අත්අඩංගුවට ගැනීමට වරෙන්තු නිකුත් කර තිබූ පසුබිමක පසුගියදා නීතිඥයන් මාර්ගයෙන් ඔහු අධිකරණයට ඉදිරිපත් වූ අතර, පසුව ඔහුව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
-
-◼️
-
-[Data](articles/d7501010.json)
-
----
-
-### China holds massive parade to mark 80th anniversary of WWII victory
-
-*2025-09-03 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112129/china-holds-massive-parade-to-mark-80th-anniversary-of-wwii-victory) · `en`
-
-China held a massive military parade in central Beijing on Wednesday to mark the 80th anniversary of its victory in World War II, pledging the country’s commitment to peaceful development in a world still fraught with turbulence and uncertainties.
-
-Towering structures shaped like the Great Wall stood in Tian’anmen Square, symbolizing the Chinese nation’s courage and solidarity in resisting foreign aggression.
-
-President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, oversaw the parade and reviewed the troops.
-
-Standing beside Xi on Tian’anmen Rostrum were Russian President Vladimir Putin and Kim Jong Un, the top leader of the Democratic People’s Republic of Korea, along with more than 20 other foreign leaders.
-
-...
-
-[Data](articles/9fc53c8d.json)
 
 ---

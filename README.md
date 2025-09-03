@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 12:34:24**
+As of **2025-09-03 12:50:39**
 
 ## Newspaper Stats
 
-*Scraped **73,893** Articles*
+*Scraped **73,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,134
 adaderanalk | 9,422
-tamilmirrorlk | 10,992
+tamilmirrorlk | 10,993
 virakesarilk | 12,077
 adaderanasinhalalk | 12,833
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,833
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,893 articles have been extended.
+61,973 (83.9%) of 73,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### உங்களுக்கு முன்னுக்கும் எனக்கு பின்னுக்கும் ‘புஷ்’
+
+*2025-09-03 12:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/உங்களுக்கு-முன்னுக்கும்-எனக்கு-பின்னுக்கும்-புஷ்/62-363955) · `ta`
+
+ஐக்கிய மக்கள் சக்தி மற்றும் ஐக்கிய தேசியக் கட்சி என பெயரிடப்பட்ட மிதிவண்டிகளை நகர்த்துவதற்கு தீவிரமாக சிரமப்படும் இரண்டு அரசியல்வாதிகளை சித்தரிக்கிறது. அதில் ஒருவர் ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச, மற்றையவர் ஐக்கிய தேசியக் கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க ஆவார்.
+
+முன்னோக்கி மிதிவண்டியை நகர்த்துவதற்கு பதிலாக, இரண்டு நபர்களும் போராட்டத்தில் சிக்கிக் கொள்கிறார்கள் - அவர்களின் முகங்கள் முயற்சியால் சுழன்றன, அவர்களின் உடல்கள் பதற்றமடைந்தன, ஆனாலும் அவர்களின் பைக்குகள் இருந்த இடத்திலேயே சிக்கிக் கொண்டன.
+
+◼️
+
+[Data](articles/d54e5152.json)
+
+---
 
 ### இலங்கையில் HIV தாண்டவம்
 
@@ -40,13 +54,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 தேசிய பாலியல் நோய்/எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டத்தின்படி,2025  ( National STD/AIDS Control Programme - NSACP 2025) ஆம் ஆண்டின் முதல் காலாண்டில் மட்டும் (ஜனவரி முதல் மார்ச் வரை) மொத்தம் 230 வழக்குகள் பதிவாகியுள்ளன.
 
-2009 ஆம் ஆண்டுக்குப் பிறகு ஒரு காலாண்டில் பதிவான அதிகபட்ச வழக்குகள் 2025 ஆம் முதல் காலாண்டில் பதிவாகியுள்ளன.
+2009 ஆம் ஆண்டுக்குப் பிறகு ஒரு காலாண்டில் பதிவான அதிகபட்ச சம்பவங்கள் 2025 ஆம் முதல் காலாண்டில் பதிவாகியுள்ளன.
 
-2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான வழக்குகளில், 30 ஆண்களும் இரண்டு பெண்களும் 15–24 வயதுக்குட்பட்டவர்கள், ஏனைய வழக்குகள் 25 வயதுக்கு மேற்பட்டவர்கள்.
+2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான சம்பவங்களில், 30 ஆண்களும் இரண்டு பெண்களும் 15–24 வயதுக்குட்பட்டவர்கள், ஏனைய சம்பவங்கள் 25 வயதுக்கு மேற்பட்டவர்கள்.
 
-2025 ஆம் ஆண்டில் பதிவான HIV தொற்றுகளின் ஆண்-பெண் விகிதம் 6.6:1 ஆக கானப்படுகின்றது.
+2025 ஆம் ஆண்டில் பதிவான HIV தொற்றுகளின் ஆண்-பெண் விகிதம் 6.6:1 ஆக காணப்படுகின்றது.
 
-மேலும், 2025 ஆம் ஆண்டில் இதுவரை எச்.ஐ.வி/எய்ட்ஸ் தொடர்பான 10 இறப்புகள் பதிவாகியுள்ளன
+மேலும், 2025 ஆம் ஆண்டில் இதுவரை எச்.ஐ.வி/எய்ட்ஸ் (HIV/AIDS) தொடர்பான 10 இறப்புகள் பதிவாகியுள்ளன
 
 ...
 
@@ -79,6 +93,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-09-03 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214114) · `si`
 
 පොලිස් මුලස්ථානයේ විදුලි සෝපාන ක්‍රියාකරුවෙකුට විදුලි සෝපානය අසලදී සාපරාධි බලහත්කාරකම් හා සාපරාධි බියගැන්වීම් සිදුකිරීමේ චෝදනාවලින් හිටපු පොලිස්පති පූජිත් ජයසුන්දර මහතා නිදහස් කිරීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (03) නියම කළේය.
+
+ඉකුත් 2017 වසරේ අප්‍රෙල් මස 11 වැනිදා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සෝපාන අංක එක ක්‍රියාකරුව සිටි රාගම පදිංචි ඒ.එච්. සමරකෝන් බණ්ඩා නිලධාරියාට පහරදීමට තැත් කරමින් පරුෂ වචනයෙන් බැණ තර්ජනය කළ බවට හිටපු පොලිස්පති පූජිත ජයසුන්දර මහතාට එරෙහිව අදාළ නිලධාරියා මෙම පැමිණිල්ල සිදුකර තිබුණි.
+
+එම චෝදනාවලට අදාළ තීන්දුව ප්‍රකාශ කරමින් කොටුව මහෙස්ත්‍රාත් අධිකරණය ප්‍රකාශ කළේ, හිටපු පොලිස්පතිවරයා චේතනාන්විතව පහරදීමක් සිදුකර නොමැති බවට නිගමනය කරන බවය.
 
 ◼️
 
@@ -1747,21 +1765,5 @@ TM Felix Fernando, the club’s Charter President and CEO/Managing Director of O
 ...
 
 [Data](articles/5a5c4420.json)
-
----
-
-### CEAT kicks off the next big move in Off Highway mobility
-
-*2025-09-02 22:14:00* · [`islandlk`](http://island.lk/ceat-kicks-off-the-next-big-move-in-off-highway-mobility/) · `en`
-
-CEAT Limited has made a substantial advancement in its Off-Highway Tyres (OHT) growth strategy by officially acquiring Michelin Group’s
-
-Midigama plant and Casting Product plant in Kotugoda. This transaction also grants CEAT global ownership of the CAMSO brand, which will be permanently assigned across categories after a three-year licensing period.
-
-CEAT’s acquisition of CAMSO brand marks a major milestone in its journey to becoming a leading global player in the high-margin OHT segment. Over the past decade, CEAT has built a strong agricultural portfolio, and with CAMSO’s expertise in compact construction equipment tracks and tyres, the combined strengths open doors to over 40 global OEMs and premium international OHT distributors. Michelin will exit from activities related to compact line bias tyres and construction tracks.
-
-...
-
-[Data](articles/d9bec9eb.json)
 
 ---

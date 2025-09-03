@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 15:32:37**
+As of **2025-09-03 15:50:08**
 
 ## Newspaper Stats
 
-*Scraped **73,928** Articles*
+*Scraped **73,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,142
+adalk | 7,144
 adaderanalk | 9,430
-tamilmirrorlk | 10,998
+tamilmirrorlk | 10,999
 virakesarilk | 12,086
-adaderanasinhalalk | 12,837
+adaderanasinhalalk | 12,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,928 articles have been extended.
+61,973 (83.8%) of 73,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### ’’வெவ்வேறு விலையில் மருந்துகளை விற்க முடியாது’’
+
+*2025-09-03 15:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெவ்வேறு-விலையில்-மருந்துகளை-விற்க-முடியாது/175-363966) · `ta`
+
+இந்த மாதம் முதல் புதிய மருந்து விலை நிர்ணய சூத்திரம் அமல்படுத்தப்படும் என்று சுகாதார பிரதி அமைச்சர் டாக்டர் ஹன்சக விஜேமுனி தெரிவித்தார்.
+
+புதிய விலை நிர்ணய சூத்திரம் அறிமுகப்படுத்தப்பட்ட பிறகு, யாரும் வெவ்வேறு விலையில் மருந்துகளை விற்க முடியாது என்றும் அவர் கூறினார்.
+
+அத்துடன், நாட்டின் பல்வேறு பகுதிகளில் வெவ்வேறு விலையில் மருந்துகளை விற்பனை செய்வது மக்களுக்கு ஒரு பெரிய பிரச்சினையாக உள்ளது என்றும் பிரதி அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/46570fff.json)
+
+---
+
+### ප්‍රකාශයක් ලබාදෙන්න ආ රාජිත යළි බන්ධනාගාරයට
+
+*2025-09-03 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214122) · `si`
+
+අද (03) පෙරවරුවේ ප්‍රකාශයක් ලබා දීමට අල්ලස් කොමිසම හමුවට පැමිණි , අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාව පැය 5කට පමන පසුව මීට සුළු මොහොතකට පෙර එම ස්ථානයෙන් නැවතත් බන්ධනාගාරයට පිටව ගොස් තිබේ.
+
+◼️
+
+[Data](articles/441c16b6.json)
+
+---
+
+### බිරිඳ පණපිටින් පුළුස්සා දැමූ ඉන්දීය සැමියෙකුට මරණ දඬුවම
+
+*2025-09-03 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214121) · `si`
+
+තම බිරිඳගේ සමේ පැහැය නිසා ඇය පණපිටින් පුළුස්සා දැමීම සම්බන්ධයෙන් ඉන්දියානු ජාතිකයෙකුට එරට අධිකරණයක් විසින් මරණ දඬුවම නියම කර තිබේ.
+
+උතුරු උදයිපූර් නගරයේ දිස්ත්‍රික් විනිසුරු රාහුල් චෞද්‍රි විසින් මෙම මරණ දඬුවම ලබාදී ඇත.
+
+සිය තීන්දුව පැහැදිලි කරමින් ඔහු පවසා ඇත්තේ, මෙම ඝාතනය 'දුර්ලභතම දුර්ලභ' කාණ්ඩයට අයත් බවත් එය ' එය මනුෂ්‍යත්වයට එරෙහි අපරාධයක් බවත්ය.
+
+මියගිය කාන්තාවගේ සැමියාවන කිෂාන්දාස්ගේ අවස්ථා කිහිපයකදීම තමන්ව විවිධ වූ හිංසා පීඩාවන්ට ලක්කළ බව මෙම ඝාතනයට පෙර ඇය පවසා තිබේ.
+
+ඒ සම්බන්ධයෙන් ඇය පොලීසියට, වෛද්‍යවරුන්ට පවසා ඇති අතර අධිකරණයේද පිහිට පතා ඇත.
+
+එහිදී ඇය පවසා ඇත්තේ තම සැමියා තමන්ට පැහැපත් සමක් නොමැතිවීම හේතුවෙන් නිරන්තරයෙන් වධහිංසාවන්ට ලක්කළ බවය.
+
+2016 වසරේ විවාහ වූ දා සිට තම සැමියා ඇයට 'කාලි' යනුවෙන් පවසමින් තම සමේ වර්ණයට ලැජ්ජා කළ බවද ඇය ජීවත්ව සිටියදී පවසා ඇත.
+
+අධිකරණ වාර්තාවට අනුව ලක්ෂ්මි මියගිය දින රාත්‍රියේ ඇගේ සැමියා කිෂාන්දාස් දුඹුරු පැහැති දියරයක් සහිත ප්ලාස්ටික් බෝතලයක් ඇයට ගෙනවිත් දී ඇත.
+
+එය සම පැහැපත් කරන ඖෂධයක් බව පවසා එය ඇගේ ශරීරයේ ආලේප කිරීමට උත්සාහ දරා තිබේ.
+
+...
+
+[Data](articles/75a8412c.json)
+
+---
 
 ### “நான் கர்ப்பமாகி  ஒரு குழந்தையை சுமக்க விரும்பல”
 
@@ -922,6 +978,22 @@ According to police, two individuals who arrived on a motorcycle carried out the
 
 ---
 
+### රුහුණු විද්‍යා පීඨයේ සීසීටීවී කැමරා 24න් 15ක් අක්‍ර‍ීයයි
+
+*2025-09-03 10:49:58* · [`adalk`](https://www.ada.lk/breaking_news/රුහුණු-විද්‍යා-පීඨයේ-සීසීටීවී-කැමරා-24න්-15ක්-අක්‍ර‍ීයයි/11-418244) · `si`
+
+අක්මිමන කුරුදුවත්තේ පිහිටි රුහුණ ජාතික අධ්‍යාපන විද්‍යාපිඨය තුල ස්ථාපිත කොට ඇති  සි.සි.ටි.වි කැමරා පද්ධතියෙහි කැමරා 24න් 15ක්  අක්‍රියව පවතින බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+
+එමෙන්ම විද්‍යා පිඨය සදහා ලැබි තිබු අත්ට්‍රැක්ටරය  වසර 10ක පමණ කාලය සිට  කිසිදු ප්‍ර යෝජනයකට නොගෙන  නිෂ්කාර්යව පවතින බවද  විගණනය මගින් අනාවරණය කොට ඇත. මේ පිළිබද රුහුණ ජාතික අධ්‍යාපන  විද්‍යා පිඨයේ  පිඨාධිපති ආචාර්ය, එස්.එන්.කේ. නානායක්කාර මහත්මියගෙන් අප කළ විමසුමකදි මෙසේ කිවාය.
+
+"විද්‍යා පිඨය ආරම්භ කරණ විට තමයි මෙම  සි.සි.ටි.වි කැමරා පද්ධතිය  සවිකරලා තියෙන්නේ. ගොඩක් පරණ කැමරා තමයි තියෙන්නේ .මේ වනවිට කැමරා 11ක් පමණ ක්‍රියාකාරි තත්ත්වයේ තියෙනවා.  ඉතිරි  කැමරා අලුත්වැඩියා කිරිමට කටයුතු කරණවා. මේගැන  පරික්ෂාකිරිම සදහා   ඉංජිනේරුවරයකු ද පැමිණිමට නියමිතව තියෙනවා.ගෘහස්ථ ක්‍රිඩාගාරය පාවිච්චිකරණවා.ගෘහස්ත ක්‍රිඩංගනය තැන් තැන්වලින් තෙමුනා.
+
+...
+
+[Data](articles/2754ff77.json)
+
+---
+
 ### கச்சதீவு...
 
 *2025-09-03 10:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கச்சதீவு/62-363946) · `ta`
@@ -957,6 +1029,22 @@ According to police, two individuals who arrived on a motorcycle carried out the
 ...
 
 [Data](articles/7724aa91.json)
+
+---
+
+### කරාතේ දෝ සංගමය කරාතේ ක්‍රීඩකයන්ව කටුනායකදී අතරමං කරවයි
+
+*2025-09-03 10:44:41* · [`adalk`](https://www.ada.lk/uncategorized/කරාතේ-දෝ-සංගමය-කරාතේ-ක්‍රීඩකයන්ව-කටුනායකදී-අතරමං-කරවයි/1-418243) · `si`
+
+චීනයේ 23 වන ආසියානූ කැඩෙට් , කනිෂ්ඨ සහ වයස අවුරුදු 21 න් පහළ ශූරතා තරගාවලියට ( 23 rd Asian , Cadet , Junior @ U21 Karate Championship ) ශ්‍රී ලංකාවේ කරාටේ දෝ සම්මේලනය නියෝජනය කරමින් සහභාගී වීමට යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටි තරගකරුවන් 31 දෙනෙකුට වීසා නොතිබීම 09/03 දින සවස ආපසු හිස් අතින් සිය ගම්බිම් බලා යාමට සිදු විය .
+
+මෙම තරගාවලිය ආසියානූ කළාපයේ රටවල ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සහභාගීත්වයෙන් එළඹෙන 09/05 දින සිට 09/07 දින දක්වා චීනයේ ෂාඕගුආන් ( China - Shaoguan ) හීදී පැවැත්වීමට නියමිතය .
+
+ශ්‍රී ලංකා කරාටේ දෝ සම්මේලනය විසින් ශ්‍රී ලංකාව පුරා , එම සම්මේලනයට අදාල අනුබද්ධිත ශාඛා වලින් තෝරා ගත් 31 දෙනෙකු මාස එකහමාරක කාළයක් පුහුණු කිරීමෙන් අනතුරුව මෙම තරගාවලිය සදහා චීනය බලා පිටත්ව යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+...
+
+[Data](articles/d407faa8.json)
 
 ---
 
@@ -1681,109 +1769,5 @@ The accident occurred around 11:15 p.m. the night before last.
 ◼️
 
 [Data](articles/ae08d346.json)
-
----
-
-### චීන විජයග්‍රාහී සැමරුම ඇරඹෙයි
-
-*2025-09-03 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214100) · `si`
-
-චීන මහජන යුද ජයග්‍රහණයේ 80 වැනි සැමරුම මේ වනවිට බීජිං අගනුවරදී ආරම්භ වී තිබේ.
-
-උතුරු කොරියානු නායක කිම් ජොන් අන් චීනයේ ප්‍රධානතම හමුදා සැමරුමට සහභාගී වීම සඳහා ඊයේ (02) බීජිං වෙත පැමිණ තිබුණි.
-
-උතුරු කොරියානු නායකයා සමඟ ඔහුගේ දියණියද චීනය වෙත දුම්රියෙන් පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ලෝක පැසිට්වාදයට හා ජපාන ආක්‍රමණයට එරෙහි චීන යුද ජයග්‍රහණයේ 80 වන සැමරුමට සහභාගී වීම සඳහා රාජ්‍ය නායකයින් මෙලෙස පැමිණ තිබුණි.
-
-මීට අමතරව ඉරාන සහ කියුබානු නායකයින් ඇතුළු රාජ්‍ය නායකයින් 26 දෙනෙක් මෙම සැමරුමට සහභාගී වීමට නියමිතව තිබුණි.
-
-මිනිත්තු 70ක කාලයක් පැවැත්වෙන මෙම සැමරුම් උත්සවයේදී චීනයේ අතිනවීන යුද උපකරණ, ගුවන්යානා ආදිය ප්‍රදර්ශනය කිරීමට නියමිතය.
-
-ජපන් ආක්‍රමණයට එරෙහි චීන මහජන යුද්ධයේ සහ ලෝක ෆැසිස්‍ට්වාදී විරෝධී යුද ජයග්‍රහණයේ 80 වන සංවත්සරයෙහි ප්‍රධාන තේමාව වන්නේ, ‘පැහැබර අනාගතයක් උදෙසා ඉතිහාසය මතක තබා ගනිමින් දිවි පිදූවන් සිහි කර සාමය අගය  කරමු’යන්නය.
-
-මෙම උත්සවයට ජපන් ආක්‍රමණයට එරෙහි චීන මහජන යුද්ධයට දායක වූ ජාත්‍යන්තර මිතුරන්ට හා ඔවුන්ගේ පවුලේ සාමාජිකයන්ට ද විශේෂ ආරාධනාවන් සිදුකර තිබීම විශේෂත්වයකි.
-
-...
-
-[Data](articles/25a75ec0.json)
-
----
-
-### At least 25 killed in Pakistan attacks, including 14 at political rally
-
-*2025-09-03 06:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112121/at-least-25-killed-in-pakistan-attacks-including-14-at-political-rally) · `en`
-
-At least 25 people were killed in three attacks in Pakistan on Tuesday, officials said, including 14 who died after a suicide bomber targeted a political rally in the southwestern province of Balochistan.
-
-Dozens of people were wounded in that explosion, which took place in the parking lot of a stadium in the provincial capital, Quetta, where hundreds of members of the Balochistan National Party (BNP) had gathered, two provincial officials said, speaking on condition of anonymity.
-
-At least seven of the wounded were in critical condition, the officials said.
-
-Another attack in Balochistan, near the border with Iran, claimed five lives on Tuesday, while six soldiers were killed after a suicide attack on their base in Khyber Pakhtunkhwa province.
-
-Balochistan is Pakistan’s largest and most resource-rich province, but also its poorest, and regularly ranks among the lowest on human development indicator scorecards.
-
-...
-
-[Data](articles/01fb705d.json)
-
----
-
-### One dead, another injured in Central Expressway accident
-
-*2025-09-03 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112120/one-dead-another-injured-in-central-expressway-accident) · `en`
-
-An individual has died while another person has been seriously injured and hospitalised following a road accident along the Central Expressway last night (02), police stated.
-
-According to police, the accident took place at around 11:00 p.m. yesterday (02) when a lorry and a bowser collided head-on.
-
-The deceased is reported to be the assistant who was traveling in the lorry.
-
-However, when contacted by Ada Derana, police stated that a person is still trapped under the lorry and efforts are underway to rescue the individual.
-
-◼️
-
-[Data](articles/467128a5.json)
-
----
-
-### ஐ.தே.க. ஆண்டு விழா ஒத்திவைப்பு
-
-*2025-09-03 06:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-ஆண்டு-விழா-ஒத்திவைப்பு/175-363933) · `ta`
-
-ஐக்கிய தேசியக் கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழா, காலவரையின்றி ஒத்திவைக்கப்பட்டுள்ளது.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் உடல்நிலையைக் கருத்தில் கொண்டு, இந்த நிகழ்வை ஒத்திவைக்க ஐக்கிய தேசியக் கட்சியின் நிர்வாகக் குழு தீர்மானித்துள்ளது.
-
-கொழும்பில் நேற்று செவ்வாய்க்கிழமை கூடிய கட்சியின் நிர்வாகக் குழுவால் இந்த முடிவு எடுக்கப்பட்டுள்ளது என்று ஐக்கிய தேசியக் கட்சியின் பொதுச்செயலாளர் தலதா அத்துகோரல தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/08da9010.json)
-
----
-
-### 159th Anniversary of Sri Lanka Police falls today
-
-*2025-09-03 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112119/159th-anniversary-of-sri-lanka-police-falls-today) · `en`
-
-The 159th Anniversary of the Sri Lanka Police will be celebrated today (03).
-
-The first Police office was established on September 3, 1866, with G.W.R. Campbell being appointed as the first Police officer.
-
-This day is recognised as the foundation day of the Sri Lanka Police.
-
-Meanwhile, a special commemorative ceremony will be held today at the Police Field Force Headquarters in celebration of the 159th Police Day.
-
-In preparation for the event, the Colombo Traffic Division has also announced a special traffic plan, according to Police Headquarters.
-
-As per the traffic plan, vehicle movement along Havelock Road — from Thummulla Junction to Thimbirigasyaya Junction, within the Bambalapitiya Police Division — will be regulated as follows:
-
-The bus stop located on the outbound route opposite of the Police Field Force Headquarters will be temporarily relocated to the bus stop at the Fonseka Road Junction on Havelock Road, from 2:30 p.m. to 7:00 p.m.
-
-...
-
-[Data](articles/5f0c99ff.json)
 
 ---

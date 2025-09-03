@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 21:32:56**
+As of **2025-09-03 21:51:29**
 
 ## Newspaper Stats
 
-*Scraped **73,990** Articles*
+*Scraped **73,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 624
 bbccomsinhala | 677
 colombotelegraphcom | 754
-economynextcom | 4,496
+economynextcom | 4,503
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,990 articles have been extended.
+61,973 (83.8%) of 73,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -528,6 +528,28 @@ The IGP also stated that the arrest of five prominent members of a criminal gang
 
 ---
 
+### Sri Lanka Customs to release 506 disputed BYD EVs with bank guarantee
+
+*2025-09-03 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-to-release-506-disputed-byd-evs-with-bank-guarantee-239356/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Customs has undertaken to release 506 Chinese-made Electric Vehicles (EVs) which had been detained over false motor capacity declaration, sources said.
+
+Sri Lanka’s authorized distributor of BYD vehicles John Keells CG Auto (Pvt) Ltd (JKCG) has sought a court decision to get thousands of detained BYD vehicles released in a dispute over motor capacity.
+
+Under the court order customs will release 506 BYD vehicles under a bank guarantee.
+
+The court case on the next set of vehicles detained by the Customs will be taken up next week.
+
+The Customs detained about 2,000 more Chinese-made BYD electric vehicles arriving on the island over the declaration of motor capacity which is used to calculate taxes.
+
+It released about 1,000 vehicles last month before the latest batch.
+
+...
+
+[Data](articles/f62ba548.json)
+
+---
+
 ### උණුසුම් කාලගුණය ගැන නිවේදනයක්
 
 *2025-09-03 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214128) · `si`
@@ -543,6 +565,24 @@ The IGP also stated that the arrest of five prominent members of a criminal gang
 ◼️
 
 [Data](articles/ad44f001.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields up on shorter tenors
+
+*2025-09-03 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-up-on-shorter-tenors-239421/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.08/13 to the US dollar in the spot market Wednesday, stronger from 302.12/20 the previous day, while bond yields were up on the shorter tenors, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.20/30 percent, up from 8.20/28 percent.
+
+A bond maturing on 15.12.2029 closed at 9.52/54 percent, down from 9.52/56 percent.
+
+A bond maturing on 15.12.2032 closed at 10.35/45 percent, up from 10.35/40 percent. (Colombo/Sep3/2025)
+
+◼️
+
+[Data](articles/593be875.json)
 
 ---
 
@@ -992,6 +1032,28 @@ This Act provides for the establishment of the Gaming Regulatory Authority as a 
 
 ---
 
+### Sri Lanka stocks close down, consumer sectors drive turnover
+
+*2025-09-03 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-consumer-sectors-drive-turnover-239351/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed a marginal 0.07 percent down ending a volatile day, brokers said.
+
+The ASPI fell 14.94 points on Wednesday to close at 20,975.73; while the S&P SL20 index dipped 0.32 percent, or 19.31 points, to close at 6,008.30.
+
+Turnover was 6.4 billion rupees while the share volumes was 260,870,714.
+
+Dankotuwa Porcelain contributed 1.19 billion rupees to the turnover. The share closed down 5.60 rupees at 21.40.
+
+Most hotel stocks closed up, amid Sri Lanka Tourism Development Authority (SLTDA)’s positive tourist numbers for August.
+
+Weighing down the ASPI were; Richard Peiris which ended 1.10 rupees lower at 26.50; HNB down 2.25 rupees at 395.00; NDB down 1.25 rupees at 140.25; Commercial Bank down 75 cents at 192.50 rupees; and John Keells Holdings down 0.10 rupees at 22.70.
+
+...
+
+[Data](articles/eac41f14.json)
+
+---
+
 ### වසර පහකට පසු දැදුරු ඔය සිදී යයි
 
 *2025-09-03 15:27:22* · [`adalk`](https://www.ada.lk/opinion/වසර-පහකට-පසු-දැදුරු-ඔය-සිදී-යයි/2-418259) · `si`
@@ -1144,6 +1206,26 @@ A Memorandum of Understanding on the Establishment of a Political Consultations 
 
 ---
 
+### Sri Lanka sells less than offered treasury bills, yields flat
+
+*2025-09-03 15:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-yields-flat-239367/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 49.65 billion rupees of Treasury bills, of an offered 74 billion, with yields flat across maturities, data from the state debt office showed.
+
+The 3-month yield was unchanged at 7.58 percent, with 14 billion rupees of bills offered and 4.54 billion sold.
+
+The 6-month yield was unchanged at 7.89 percent, with 38 billion rupees offered and 38.13 billion sold.
+
+The 12-month yield was unchanged at 8.03 percent with 30 billion rupees offered and 6.97 billion rupees bills sold.
+
+The 3 month and 12 month bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/790db285.json)
+
+---
+
 ### 2022 ஆம் ஆண்டு மே 9 காலிமுகத்திடல் தாக்குதல் நடத்திய சந்தேக நபர்கள் தொடர்பில் சட்டமா அதிபரின் ஆலோசனையை நாடும் குற்றப்புலனாய்வு திணைக்களம்
 
 *2025-09-03 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224093) · `ta`
@@ -1161,6 +1243,28 @@ A Memorandum of Understanding on the Establishment of a Political Consultations 
 ...
 
 [Data](articles/da60e075.json)
+
+---
+
+### Kristian Györkös appointed senior VP, Global Head of Channel at WSO2
+
+*2025-09-03 14:54:00* · [`economynextcom`](https://economynext.com/kristian-gyorkos-appointed-senior-vp-global-head-of-channel-at-wso2-239352/) · `en`
+
+ECONOMYNEXT – Kristian Györkös has been appointed Senior Vice President & Global Head of Channel at WSO2, the company said in a statement.
+
+“I’m excited to join WSO2 at such a pivotal time in its growth journey,” said Kristian Györkös.
+
+“I look forward to scaling our global partner organization and enabling our ecosystem to deliver transformative solutions for customers worldwide.”
+
+Kristian brings executive experience from Solo.io, DataStax, Trifacta, Flosum, Dell, and Microsoft, where he drove growth strategies across cloud, data, and enterprise software.
+
+He is a leader in API management, having built and scaled global partner networks at Kong Inc. and Apigee (Google).
+
+“His global experience will be instrumental in scaling our partner programs and delivering increased value to customers through an expanded network of trusted solution providers,” said Devaka Randeniya, chief revenue officer at WSO2.
+
+...
+
+[Data](articles/46e4b612.json)
 
 ---
 
@@ -1564,6 +1668,28 @@ Former IGP Pujith Jayasundara was arrested by the Criminal Investigations Depart
 
 ---
 
+### Sri Lanka state hotel school starts franchise program with 35 institutes
+
+*2025-09-03 12:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-hotel-school-starts-franchise-program-with-35-institutes-239343/) · `en`
+
+ECONOMYNEXT – Sri Lanka Institute of Tourism and Hotel Management is starting a franchise program with 35 participating training schools to develop tourist sector staff targeting families on income support, officials said.
+
+Sri Lanka is expecting 3.0 million tourists in 2025 and has a medium-term target of 5 million, SLITM Chairman Dheera Hettiarachchi said.
+
+The tourism industry will need 800,000 staff when it expands to 5 million arrivals and now has around 421,000 workers in formal hotels, he said.
+
+The ‘Hotel Operations Multitasker Program’ is designed as an NVQ Level 3 qualification approved by the Tertiary and Vocational Training Authority.
+
+The hotel school is teaming up with the Department of Samurdhi Development to identify and train members of families receiving income support. The program will help move people out of the program, officials said.
+
+Education is the best way to escape poverty, Secretary to the Ministry of Social Security Sampath Manthrinayake said.
+
+...
+
+[Data](articles/ce79ec7c.json)
+
+---
+
 ### හිටපු පොලිස්පති පූජිත් නිදහස් කරමින් අධිකරණයෙන් නියෝගයක්
 
 *2025-09-03 12:12:02* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පොලිස්පති-පූජිත්-නිදහස්-කරමින්-අධිකරණයෙන්-නියෝගයක්/11-418254) · `si`
@@ -1685,109 +1811,5 @@ HIP හි අති නවීන පහසුකම් නිරීක්ෂණ
 ◼️
 
 [Data](articles/36615adb.json)
-
----
-
-### கொழும்பு டாக்யார்ட் வர்த்தக இடைநிறுத்தம் டிசம்பர் வரை ஒத்திவைப்பு
-
-*2025-09-03 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224072) · `ta`
-
-இலங்கைப் பத்திரங்கள் மற்றும் பரிவர்த்தனை ஆணைக்குழு செப்டம்பர் மாதம் 10 ஆம் திகதி அன்று நடைபெறவிருந்த அதன் பங்குகளின் வர்த்தகத்தை நிறுத்தி வைப்பதை ஒத்திவைத்துள்ளதாக கொழும்பு டாக்யார்ட் பிஎல்சி செவ்வாய்க்கிழமை தெரிவித்துள்ளது.
-
-இலங்கைப் பத்திரங்கள் மற்றும் பரிவர்த்தனை ஆணைக்குழு வர்த்தக இடைநிறுத்தத்தை டிசம்பர் மாதம் 11 ஆம் திகதி வரை நீடித்துள்ளது.
-
-நிறுவனத்தின் சுயாதீன தணிக்கையாளர்கள் 2023 ஆம் ஆண்டு டிசம்பர் மாதம் 31 ஆம் திகதி மற்றும் 2024 ஆம் ஆண்டு டிசம்பர் மாதம்  31 ஆம் திகதி ஆகிய திகதிகளில் முடிவடைந்த நிதியாண்டுகளுக்கான அறிக்கைகளில், நடப்பு கவலைகள் குறித்து முக்கியத்துவம் அளித்ததை அடுத்து, நிறுவனத்தின் பத்திரங்கள் 2024 ஆம் ஆண்டு ஜூன் மாதம் 10 ஆம் திகதி அன்றும் மீண்டும் 2025 ஆம் ஆண்டு ஜூன் மாதம்  16 ஆம் திகதி  அன்றும் கொழும்பு பங்குச் சந்தையின் (CSE) கண்காணிப்புப் பட்டியலுக்கு மாற்றப்பட்டன.
-
-◼️
-
-[Data](articles/f5385273.json)
-
----
-
-### UK looks to ban sale of high-caffeine energy drinks to under-16s
-
-*2025-09-03 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112132/uk-looks-to-ban-sale-of-high-caffeine-energy-drinks-to-under-16s) · `en`
-
-The UK government has proposed banning the sale of high-caffeine energy drinks to youths under 16 years of age in shops, restaurants, cafes and vending machines, as well as via online retailers.
-
-According to a press release issued by the government on Tuesday (Sep 2), the UK will consult on banning the products for the age group “due to negative impacts on children’s physical and mental health”.
-
-The proposal will make it illegal to sell high-caffeine energy drinks containing more than 150mg of caffeine per litre to anyone under 16.
-
-Examples of high-caffeine energy drink brands include Monster, Red Bull, Prime and C4. A 500ml can of Monster contains about 160mg of caffeine, while Red Bull, which typically comes in a 250ml can, has 80mg.
-
-Lower-caffeine soft drinks, tea and coffee are excluded from the ban.
-
-...
-
-[Data](articles/a651da08.json)
-
----
-
-### මාළිගාවත්තේ වෙඩිතැබීමක්
-
-*2025-09-03 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214112) · `si`
-
-ව්‍යාපාරික ස්ථානයක රැඳීසිටි තරුණයෙකු ඉලක්ක කරගනිමින් මෙම වෙඩිතැබීම සිදුකර ඇත.
-
-වෙඩිවැදීමෙන් තුවාල ලැබූ එම තරුණයා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
-
-යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු T56 ගිනිඅවියක් භාවිත කරමින් මෙම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/1767a225.json)
-
----
-
-### මහනුවර හා පේරාදෙණිය අතර දුම්රිය ගමන් සීමා කරයි
-
-*2025-09-03 11:34:53* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-හා-පේරාදෙණිය-අතර-දුම්රිය-ගමන්-සීමා-කරයි/11-418249) · `si`
-
-පේරාදෙණිය- මහනුවර දුම්රිය ස්ථාන අතර ගැටඹේ දුම්රිය හරස් මාර්ගයේ සිදු කරනු ලබන නඩත්තු කටයුතු හේතුවෙන් සැප්තැම්බර් මස 05, 06 සහ 07 යන දිනවලදී එම දුම්රිය ස්ථානයන් අතර දුම්රිය ධාවනය සීමා කිරීමට නියමිතව ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-එම දිනවලදී අංක 1024 දරණ ටිකිරි මැණිකේ දුම්රිය සහ අංක 1015 දරණ උඩරට මැණිකේ යන දුම්රියන් දෙක පමණක් පේරාදෙණිය සිට මහනුවර අතර ධාවනය නොවන බවත්, එම දුම්රියන් දෙක හරහා ගමන් පහසුකම් සලසා ගැනීමට මහනුවර දුම්රිය ස්ථානය වෙත පැමිණෙන දුම්රිය මගීන්ට බස් රථ මගින් පේරාදෙණිය දක්වා ප්‍රවාහන පහසුකම් සැලසීමට පියවර ගෙන  ඇති බවද එම දෙපාර්තමේන්තුව කියයි.
-
-බදුල්ලේ සිට පැමිණෙන අංක 1016 දරණ උඩරට මැණිකේ දුම්රිය ඉහත දිනවල පේරාදෙණියට පැය 12.58ට පැමිණ විනාඩි 32ක කාලයක් පේරාදෙණිය දුම්රිය ස්ථානයේ නවත්වා තබා පැය 13.30ට පේරාදෙණිය දුම්රිය ස්ථානයෙන් මහනුවර දක්වා ධාවනය කර නැවත මහනුවර සිට කොළඹ කොටුව දක්වා ධාවනය කිරීමට සැලසුම් කොට ඇති බවද දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-◼️
-
-[Data](articles/4ecf1e9e.json)
-
----
-
-### පුහුල්ගල කඳු රක්ෂිතය ගිනි ගනී අක්කර දහයකට වඩා විනාශයි
-
-*2025-09-03 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214111) · `si`
-
-බුත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් යුදගනාව පුහුල්ගල කඳු රක්ෂිතයේ ගින්නක් හටගෙන තිබේ.
-
-ඊයේ (2) පස්වරුවේ ඇතිවූ ගින්න රාත්‍රි කාලය දක්වා රක්ෂිතය පුරා පැතිර ගොස් ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
-
-ඒ හේතුවෙන් රක්ෂිතයේ අක්කර දහයකට වඩා ගිනිගෙන විනාශ වී ඇති බව සඳහන් වේ.
-
-ප්‍රදේශයට බලපා ඇති දැඩි වියළි කාලගුණය සහ සුළං තත්ත්වය හේතුවෙන් ගින්න වේගයෙන් රක්ෂිතය පුරා පැතිර ඇති අතර, ප්‍රදේශවාසින් එක්ව අද (03) අලුයම වනවිට ගින්න පාලනය කර තිබේ.
-
-◼️
-
-[Data](articles/7e8da846.json)
-
----
-
-### Individual injured in shooting reported in Maligawatte
-
-*2025-09-03 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112131/individual-injured-in-shooting-reported-in-maligawatte-) · `en`
-
-A shooting has been reported along the Jummah Masjid Road in Maligawatte this morning (03), police stated.
-
-The shooting was carried out targeting a young man who was at a business premises.
-
-The youth, who was injured in the shooting, has been admitted to the Colombo National Hospital for treatment.
-
-According to police, two individuals who arrived on a motorcycle carried out the shooting using a T56 firearm.
-
-◼️
-
-[Data](articles/e2001001.json)
 
 ---

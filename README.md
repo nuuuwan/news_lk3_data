@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 09:33:21**
+As of **2025-09-03 09:51:08**
 
 ## Newspaper Stats
 
-*Scraped **73,845** Articles*
+*Scraped **73,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 624
 bbccomsinhala | 677
 colombotelegraphcom | 754
-economynextcom | 4,495
+economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,245
-adalk | 7,121
+adalk | 7,122
 adaderanalk | 9,418
-tamilmirrorlk | 10,981
+tamilmirrorlk | 10,982
 virakesarilk | 12,069
 adaderanasinhalalk | 12,823
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 12,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,845 articles have been extended.
+61,973 (83.9%) of 73,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### லொறி கவிழ்ந்து விபத்து ; ஓட்டுநர் பலி
+
+*2025-09-03 09:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-கவிழ்ந்து-விபத்து-ஓட்டுநர்-பலி/175-363939) · `ta`
+
+தங்காலை - ஹம்பாந்தோட்டை பிரதான வீதியில், மணல் ஏற்றிச் சென்ற லொறி ஒன்று ரன்ன நகருக்கு அருகில், வீதியை விட்டு விலகி கவிழ்ந்து விபத்துக்குள்ளானதில் லொறியின் ஓட்டுநர் உயிரிழந்ததாக ஹூங்கம பொலிஸார் தெரிவிக்கின்றனர்.
+
+லொறியை நீண்ட நேரம் செலுத்திய நிலையில் ஓட்டுநருக்கு ஏற்பட்ட தூக்க கலக்கத்தால் இவ் விபத்து ஏற்பட்டிருக்கலாம் என பொலிஸார்   சந்தேகிக்கின்றனர்.
+
+விபத்தில் உயிரிழந்தவர் அக்குறுகொட, சுல்தானா கொட பகுதியைச் சேர்ந்த 43 வயதுடைய மஹகமகே இந்திக  என அடையாளம் காணப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/23f5cc23.json)
+
+---
 
 ### அதிவேக நெடுஞ்சாலை கோர விபத்து : இருவர் பலி
 
@@ -216,6 +232,22 @@ Trump has pitched his tariffs as essential to protecting American interests and 
 
 ---
 
+### සැලසුම් සහගතව රට සංවර්ධනය කරා ගෙන යනවා
+
+*2025-09-03 07:58:31* · [`adalk`](https://www.ada.lk/picture_story/සැලසුම්-සහගතව-රට-සංවර්ධනය-කරා-ගෙන-යනවා/10-418236) · `si`
+
+ආර්ථික ශක්‍යතා හඳුනාගනිමින් සහ ආර්ථිකය ගමට ප්‍රසාරණය කරමින් ඉතා සැලසුම් සහගත වැඩපිළිවෙළක් ඔස්සේ  රට සංවර්ධනය කරා ගෙන යාම වත්මන් රජයේ අරමුණ බවත්, ග්‍රාමීය ජනතාව දුප්පත්භාවයෙන් මුදා ගැනීම වෙනුවෙන් තම පාලන කාලය තුළ කැප වී කටයුතු කරන බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ මුලතිව් දිස්ත්‍රික්කයේ වට්ටුවාකල් පාලමේ ඉදිකිරීම් ආරම්භ කිරීමේ අවස්ථාවට අද (02) පෙරවරුවේ එක් වෙමිනි.
+
+මෙම සැප්තැම්බර් මාසයේදී රට පුරා නව සංවර්ධන ව්‍යාපෘති රැසක් ආරම්භ කිරීමට සැලසුම් කර තිබෙන බව පැවසූ ජනාධිපතිවරයා සංවර්ධන ව්‍යාපෘති අවසන් කළ යුතු දිනට අවසන් නොකිරීමේ සහ ඇස්මේන්තු කළ මුදලට වඩා වැඩි මුදලක් වැය කිරීමේ පැරණි සම්ප්‍රදාය අවසන් කරමින් සියලු සංවර්ධන ව්‍යාපෘති නිසි කලට නිම කර, එහි ප්‍රතිලාභ ජනතාවට ලබා දීමට රජය කැප වී සිටින බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/eb200549.json)
+
+---
+
 ### President pledges to launch series of new development projects this month
 
 *2025-09-03 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112123/president-pledges-to-launch-series-of-new-development-projects-this-month) · `en`
@@ -229,6 +261,24 @@ President Dissanayake noted that a series of new development projects are set to
 ...
 
 [Data](articles/5959d35e.json)
+
+---
+
+### Sri Lanka rupee depreciates in July amid $244mn current account surplus
+
+*2025-09-03 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-in-july-amid-244mn-current-account-surplus-239280/) · `en`
+
+ECONOMYNEXT – Sri Lanka has recorded an external current account surplus of 188 million US dollars in July 2025, up from 187.7 million dollars, official data showed, while the rupee depreciated from 299.9 to 302.2 to the US dollar in the same month.
+
+From end December 2024 to when the external current account was in deficit (money was printed in the last quarter to target the single policy rate, but subsequently reversed), the rupee has depreciated from 292.58 to 302.21 to the US dollar.
+
+The depreciation will push up the cost of living, allowing macro-economists to reach their inflation target, even if money is not printed by the central bank.
+
+However, at the moment US monetary policy is better than before it was in March 2022 and global commodity prices are stable to falling, though Fed rate cuts are expected soon.
+
+...
+
+[Data](articles/7ec3d799.json)
 
 ---
 
@@ -1775,49 +1825,5 @@ Diplomatic relations between the two countries were established in 1952. (Colomb
 ...
 
 [Data](articles/7e9150c6.json)
-
----
-
-### தரம் 5 புலமைப்பரிசில் பரீட்சை பெறுபேறுகள் இந்த வாரம் வெளியாகும்
-
-*2025-09-02 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224027) · `ta`
-
-2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகள் இந்த வாரத்திற்குள் வெளியிடப்படவுள்ளதாக பரீட்சைகள் திணைக்கள ஆணையாளர் நாயகம் ஏ.கே.எஸ். இந்திகா குமாரி லியனகே தெரிவித்தார்.
-
-கடந்த ஆகஸ்ட் மாதம் 10 ஆம் திகதி நாடு முழுவதும் 2,787 நிலையங்களில் பரீட்சை நடத்தப்பட்டதாகவும், 307,951 பேர் பரீட்சைக்கு தோற்றியதாகவும் அவர் தெரிவித்தார். அவர்களில் 901 விசேட தேவையுடைய மாணவர்களும் அடங்குவர். அவர்களில் 12 பேர் பிரெய்லி ஸ்கிரிப்ட்களைப் பயன்படுத்தினார்கள்.
-
-பரீட்சை முடிவுகளை உடனடியாக வெளியிட தேவையான அனைத்து நடவடிக்கைகளையும் பரீட்சைகள் திணைக்களம் எடுக்கும் எனவும்,  தேவையான நடவடிக்கைகளைச் செயல்படுத்த அதிகாரிகளுக்கு போதுமான நேரம் வழங்கப்படும் எனவும் ஆணையாளர் நாயகம் உறுதியளித்தார்.
-
-◼️
-
-[Data](articles/43287135.json)
-
----
-
-### மீண்டும் மீண்டும் அதுக்கு அழைத்த தோழி: அடுத்தது
-
-*2025-09-02 15:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-மீண்டும்-அதுக்கு-அழைத்த-தோழி-அடுத்தது/175-363911) · `ta`
-
-தோழி, மீண்டும் மீண்டும் ஓரினச்சேர்க்கைக்கு அழைத்தமையால் மனமுடைந்த ஒரு தோழி தன்னுயிரை மாய்த்துக்கொண்டுள்ள சம்பவம் இடம்பெற்றுள்ளது.
-
-கடலூர் மாவட்டம் பண்ருட்டி பகுதியை சேர்ந்தவர் 18 வயது மாணவி. இவர் ஒரு தனியார் கலைக்கல்லூரியில் 2-ம் ஆண்டு படித்து வந்தார். அதே கல்லூரியில் ரெட்டிச்சாவடி பகுதியை சேர்ந்த 20 வயது மாணவி ஒருவரும் 3-ம் ஆண்டு படித்து வருகிறார். தோழிகளான இருவரும் அவ்வப்போது ஓரினச்சேர்க்கையில் ஈடுபட்டுவந்ததாக கூறப்படுகிறது. இதுபற்றி அறிந்ததும் அண்ணன் கண்டித்ததால் 18 வயது மாணவி, தனது தோழியுடன் பேசுவதை நிறுத்தி விட்டார்.
-
-இதில் ஆத்திரமடைந்த 20 வயது மாணவி, ஓரினசேர்க்கைக்கு வர மறுத்த தனது தோழியை செல்போனில் தொடர்பு கொண்டு தன்னுடன் பேசாவிட்டால் நாம் இருவரும் உல்லாசமாக இருந்தபோது எடுத்த புகைப்படத்தை சமூக வலைத்தளங்களில் வெளியிடுவேன் என்று மிரட்டியதாக கூறப்படுகிறது. இதனால் மனமுடைந்த 18 வயது மாணவி தனது வீட்டில் தன்னுயிரை மாய்த்துக்கொண்டார்.
-
-...
-
-[Data](articles/e63a42a7.json)
-
----
-
-### முறைப்பாடுகளை தெரிவிக்க புதிய வட்ஸ்அப் இலக்கத்தை அறிமுகப்படுத்தியது இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு
-
-*2025-09-02 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224025) · `ta`
-
-இலஞ்சம் மற்றும் ஊழல் சம்பவங்களை பொதுமக்கள் எளிதாக முறைப்பாடு அளிக்கும் வகையில், இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு 077 777 1954 எனும் புதிய வட்ஸ்அப் இலக்கத்தை அறிமுகப்படுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/3bac2fea.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 21:10:28**
+As of **2025-09-03 21:20:06**
 
 ## Newspaper Stats
 
-*Scraped **73,989** Articles*
+*Scraped **73,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,152
-adaderanalk | 9,437
+adaderanalk | 9,438
 tamilmirrorlk | 11,011
 virakesarilk | 12,102
 adaderanasinhalalk | 12,852
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.8%) of 73,989 articles have been extended.
+61,973 (83.8%) of 73,990 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,7 +152,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ හේතුවෙන් තරගයේ ප්‍රතිඵලයක් ලබාගැනීම අවසන් පන්දුවාරය දක්වාම ඇඳී ගියේය.
 
-කෙසේ වෙතත් පරාජය භාරගැනීමට අකමැති වූ  කමිඳු මෙන්ඩිස් ප්‍රහාරාත්මක ඉනිමක් දියත්කළ තරගයේ ජය ප්‍රතිවාදීන්ගෙන් උදුරාගත්තේය.
+කෙසේ වෙතත් පරාජය භාරගැනීමට අකමැති වූ කමිඳු මෙන්ඩිස් ප්‍රහාරාත්මක ඉනිමක් දියත්කර තරගයේ ජය ප්‍රතිවාදීන්ගෙන් උදුරාගත්තේය.
 
 පන්දු 16කට පමණක් මුහුණදුන් කමිඳු ශ්‍රී ලංකා ඉනිමට අත්‍යවශ්‍ය ලකුණු 41ක් එක් කළේය.
 
@@ -211,6 +211,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0823a08e.json)
+
+---
+
+### Grade 5 Scholarship Exam results to be released tonight
+
+*2025-09-03 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112145/grade-5-scholarship-exam-results-to-be-released-tonight) · `en`
+
+The results of the 2025 Grade 05 Scholarship Examination are scheduled to be released tonight (3), according to the Department of Examinations.
+
+A total of 307,951 applicants sat for the exam this year at 2,787 examination centres.
+
+◼️
+
+[Data](articles/82dbec75.json)
 
 ---
 
@@ -1775,19 +1789,5 @@ According to police, two individuals who arrived on a motorcycle carried out the
 ◼️
 
 [Data](articles/e2001001.json)
-
----
-
-### බිරිඳ නිධන් හාරපු තැන ඩීඅයිජී සැමියාත් ඉඳලා, පෙරෙට්ටුවේද‍ි  හඳුනා  ගනී
-
-*2025-09-03 11:30:34* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-නිධන්-හාරපු-තැන-ඩීඅයිජී-සැමියාත්-ඉඳලා--පෙරෙට්ටුවේද‍ි--හඳුනා--ගනී/11-418248) · `si`
-
-අනුරාධපුර ශ්‍රවස්තිපුර තිඹිරිකඩවල  ප්‍රදේශයේ ගල් තලාවක් සහිත ඉඩමක් මත පිහිටි දේවාලයක් ඇතුලත  අනවසරයෙන් කැනීම් කර නිදන් වස්තූන් ලබා ගැනීමට තැත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර  පොලීසිය මගින්  අත්අඩංගුවට ගෙන රිමාන්ඩ්  බන්ධනාගාර ගත කර සිටින කොළඔ දිශාව බාර හිටපු නියෝජ්‍ය පොලිස්ති උදිත් ලියනගේ සහ ඔහුගේ බිරිය සහ කට්ටඩියෙකු ඇතුළු  සැකකරුවන් නව  දෙනා ඇප මත මුදා හරින ලෙස නීතිඥයින් කල ඉල්ලීමක්  අනුරාධපුර ප්‍රධාන මහේස්ත්‍රාත්  නාලක සංජීව ජයසූරිය මහත යළි ප්‍රතික්ෂේප කළේය. ඒ අනුව සියළු සැකකරුවන් සැප්තැම්බර් මස 8 දින දක්වා තවදුරටත් රිමාන්ඩ්  බන්ධනාගාර ගත කරන ලෙසටද ප්‍රධාන මහේස්ත්‍රාත්වරයා නියේග කළේය.
-
-මෙම නවඩුව යළි කැඳවූ අවස්ථාවේ සැකකාර නියෝජ්‍ය පොලිස්පති උදිත් ලියනගේ පමණක් හඳුනා ගැනි‍මේ පෙරෙට්ටුවකට ඉදිරිපත්   කරනු ලැබීය. එහිදි නිදන් හෑරීමේ සිද්ධියේ  වැටලීම් කටයුතු සඳහා සහභාගි වූ  අනුරාධපුර පොලිසියේ අපරාධ විමර්ශන අංශයේ  පොලිස් නිලධාරීන් තිදෙනෙකු විසින් සැකකාර නියෝජ්‍ය පොලිස්පති උදිත් ලියනගේ නිදන් හෑරූ  ස්ථානයේ සිටි බවට පෙරෙට්ටුවේදී පහසුවෙන් හඳුනා ගැනීමට සමත් විය.
-
-...
-
-[Data](articles/1f2941d3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 00:34:10**
+As of **2025-09-04 00:49:28**
 
 ## Newspaper Stats
 
-*Scraped **74,005** Articles*
+*Scraped **74,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,41 @@ adalk | 7,152
 adaderanalk | 9,440
 tamilmirrorlk | 11,011
 virakesarilk | 12,103
-adaderanasinhalalk | 12,856
+adaderanasinhalalk | 12,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,005 articles have been extended.
+61,973 (83.7%) of 74,007 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-04 (Thursday)
+
+### ශිෂ්‍යත්ව ප්‍රතිඵල මත කඩඉම් ලකුණු
+
+*2025-09-04 00:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214143) · `si`
+
+5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල මත එක් එක් දිස්ත්‍රිත්ක සඳහා වන කඩඉම් ලකුණු සීමාවන් විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත්කර ඇත.
+
+◼️
+
+[Data](articles/8b84227c.json)
+
+---
+
+### 2025 ශිෂ්‍යත්ව ප්‍රතිඵල නිකුත් කෙරේ
+
+*2025-09-04 00:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214142) · `si`
+
+ඒ අනුව විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවි වන www.doenets.lk සහ http://www.results.exams.gov.lk/ යන වෙබ් අඩවිවලට පිවිසීමෙන් ප්‍රතිඵල ලබාගත හැකිය.
+
+◼️
+
+[Data](articles/98b4b6cc.json)
+
+---
 
 ### 2025-09-03 (Wednesday)
 
@@ -1795,47 +1821,5 @@ Former IGP Pujith Jayasundara was arrested by the Criminal Investigations Depart
 ...
 
 [Data](articles/77e9ceff.json)
-
----
-
-### සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට කාර්යසාධක බළකායක්
-
-*2025-09-03 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214115) · `si`
-
-සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනය කිරීමේ අරමුණින් කාර්යසාධක බළකායක් ස්ථාපිත කිරීමට රජයේ අවධානය යොමු කර ඇත.
-
-සංචාරක කර්මාන්තය නඟාසිටුවීමත්, මෙරට ආර්ථිකයට ඍජු ආදායම් වර්ධනයක් අත්පත් කර ගැනීමත් අරමුණු කර ගනිමින් මෙම කාර්යසාධක බලකාය පිහිටුවීමට තීරණය කළ බවත්, මෙම බලකාය මගින් සංචාරක ක්ෂේත්‍රයේ ප්‍රවර්ධනයට අදාළ තීන්දුතීරණ ගැනීමට හැකි බවත් විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සඳහන් කළේය.
-
-සංචාරක ප්‍රවර්ධන කාර්යසාධක බලකායේ පළමු සැසිය ජනාධිපති කාර්යාලයේදී ඊයේ (02) ආරම්භ වූ අවස්ථාවේදී අමාත්‍යවරයා මේ බව සඳහන් කළේය.
-
-සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනය කිරීමට අවශ්‍ය සැලසුම් සකස් කිරීම, ඒ සඳහා අවශ්‍ය තීන්දු ගැනීමට රාජ්‍ය ආයතන ඒකාබද්ධ රාමුවක් යටතේ ක්‍රියාත්මක කිරීම, සංචාරකයන් මුහුණ දෙන ගැටලු, සංචාරක ක්ෂේත්‍රයේ ව්‍යවසායකයින් මුහුණ පා ඇති ගැටලු සම්බන්යෙන් මෙහිදී සාකච්ඡා විය.
-
-ඉදිරියේදී මෙරටට පැමිණෙන සංචාරක ඍතුව සාර්ථක කර ගැනීම සඳහා ගත හැකි ක්‍රියාමාර්ග සම්බන්යෙන් සියලුම රාජ්‍ය ආයතන සහ පෞද්ගලික කර්මාන්තකරුවන් සමඟ ඉදිරි සැලසුම් සකස් කිරීමේ අවශ්‍යතාවද මෙහිදී අවධානයට ලක්විය.
-
-...
-
-[Data](articles/b5d7e4ce.json)
-
----
-
-### Sri Lanka state hotel school starts franchise program with 35 institutes
-
-*2025-09-03 12:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-hotel-school-starts-franchise-program-with-35-institutes-239343/) · `en`
-
-ECONOMYNEXT – Sri Lanka Institute of Tourism and Hotel Management is starting a franchise program with 35 participating training schools to develop tourist sector staff targeting families on income support, officials said.
-
-Sri Lanka is expecting 3.0 million tourists in 2025 and has a medium-term target of 5 million, SLITM Chairman Dheera Hettiarachchi said.
-
-The tourism industry will need 800,000 staff when it expands to 5 million arrivals and now has around 421,000 workers in formal hotels, he said.
-
-The ‘Hotel Operations Multitasker Program’ is designed as an NVQ Level 3 qualification approved by the Tertiary and Vocational Training Authority.
-
-The hotel school is teaming up with the Department of Samurdhi Development to identify and train members of families receiving income support. The program will help move people out of the program, officials said.
-
-Education is the best way to escape poverty, Secretary to the Ministry of Social Security Sampath Manthrinayake said.
-
-...
-
-[Data](articles/ce79ec7c.json)
 
 ---

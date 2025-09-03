@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 10:21:40**
+As of **2025-09-03 10:33:15**
 
 ## Newspaper Stats
 
-*Scraped **73,852** Articles*
+*Scraped **73,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 754
 economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,245
+dailyftlk | 5,246
 adalk | 7,123
 adaderanalk | 9,418
-tamilmirrorlk | 10,982
+tamilmirrorlk | 10,983
 virakesarilk | 12,069
 adaderanasinhalalk | 12,826
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,826
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,852 articles have been extended.
+61,973 (83.9%) of 73,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### விபத்துக்குள்ளாகி 14 நாட்களுக்கு பிறகு வைத்தியர் மரணம்
+
+*2025-09-03 10:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபத்துக்குள்ளாகி-14-நாட்களுக்கு-பிறகு-வைத்தியர்-மரணம்/76-363942) · `ta`
+
+இரத்தினபுரி போதனா வைத்தியசாலையில்  பணிபுரியும் பெண் வைத்தியர் ஒருவர், தனியார்  பேருந்தொன்றில் இருந்து விழுந்து பலத்த  காயங்களுக்குள்ளாகி தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த நிலையில் 14 நாட்களுக்கு பிறகு திங்கட்கிழமை (01) அன்று உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர் இரத்தினபுரி, மொரகஹாயட்ட, லென் கெட்டிய வீதியைச் சேர்ந்த   32 வயதுடைய  பி. மதரா மதுபாஷினி  என்ற ஒரு குழந்தையின் தாயார் என தெரியவந்துள்ளது.
+
+குறித்த வைத்தியர் கடந்த மாதம் 19 ஆம் திகதி அன்று, தனது வேலையை முடித்துவிட்டு தனியார் பேருந்தில் வீடு திரும்பிக்கொண்டிருந்த போது, ​​மட்டக்களப்பு -  கொழும்பு பிரதான வீதியில் உள்ள பெல்மடுல்ல பொலிஸ் நிலையத்திற்கு அருகில் வைத்து  பேருந்தில் இருந்து விழுந்துள்ளார்.
+
+முச்சக்கர வண்டியொன்று திடீரென வீதியை கடக்க  முயன்ற போது பேருந்து ஓட்டுநர் பிரேக் போட்ட நிலையில் போது  வைத்தியர் பேருந்தின்  கதவு அருகில் இருந்து வெளியே தூக்கி வீசப்பட்டுள்ளதாக தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/77ae0cfb.json)
+
+---
 
 ### රාජිතව අල්ලස් කොමිසමට රැගෙන එයි
 
@@ -887,6 +905,22 @@ A short video of the meeting has also been shared with the diplomatic missions f
 ◼️
 
 [Data](articles/2a2e5e4f.json)
+
+---
+
+### Court approves 90-day detention order to probe underworld figures under PTA
+
+*2025-09-03 05:24:13* · [`dailyftlk`](https://www.ft.lk/news/Court-approves-90-day-detention-order-to-probe-underworld-figures-under-PTA/56-781155) · `en`
+
+The Court has granted permission to the Criminal Investigation Department (CID) to detain five alleged underworld figures for 90 days under the Prevention of Terrorism Act (PTA).
+
+The suspects identified as Backhoe Saman, Thembili Lahiru, Kehelbaddara Padme, Commando Salinda, and Panadura Nilanga were among a group arrested in Indonesia in a joint operation by Jakarta Police and Sri Lanka’s CID.
+
+They were brought back to Sri Lanka last Saturday and are currently being interrogated over their alleged involvement in organised crime. Of the five suspects, three are currently held in CID custody, while the remaining two are in the custody of the Western North Crime Division.
+
+◼️
+
+[Data](articles/bb7e4ef0.json)
 
 ---
 
@@ -1785,43 +1819,5 @@ Deputy Minister Prasanna Gunasena emphasized that revitalizing the railway servi
 ◼️
 
 [Data](articles/7a08cec7.json)
-
----
-
-### சிரேஷ்ட பொலிஸ் அத்தியட்சகருக்கு விளக்கமறியல் நீடிப்பு
-
-*2025-09-02 15:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-பொலிஸ்-அத்தியட்சகருக்கு-விளக்கமறியல்-நீடிப்பு/175-363916) · `ta`
-
-இலஞ்சம் பெற்ற குற்றச்சாட்டில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சதீஷ் கமகேவின் விளக்கமறியல் எதிர்வரும் 16ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
-
-இதற்கான உத்தரவு கொழும்பு நீதவான் நீதிமன்ற பிரதான நீதவான் நீதவான் அசங்க எஸ். போதரகமவினால் இன்று (02) பிறப்பிக்கப்பட்டது.
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகள் மற்றும் பிரதிவாதிகள் தரப்பு சட்டத்தரணிகள் முன்வைத்த வாதங்களை பரிசீலித்த பின்னர், பிரதான நீதவான் இந்த உத்தரவை பிறப்பித்தார்.
-
-போதைப்பொருள் வர்த்தகர்கள், குற்றக்குழு உறுப்பினர்கள் மற்றும் பல்வேறு சேவைகளைப் பெற பொலிஸ் நிலையத்துக்கு வந்த பொதுமக்களிடமிருந்து ஒரு கோடியே 40 ரூபாவினை இலஞ்சமாக பெற்ற சம்பவம் தொடர்பாக சதீஷ் கமகே   கைதுசெய்யப்பட்டு, நீதிமன்ற உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/99591ed9.json)
-
----
-
-### Italy, Sri Lanka to create political consultations mechanism on minister’s visit
-
-*2025-09-02 15:39:00* · [`economynextcom`](https://economynext.com/italy-sri-lanka-to-create-political-consultations-mechanism-on-ministers-visit-239208/) · `en`
-
-ECONOMYNEXT – Italy’s Deputy Minister for Foreign Affairs and International Cooperation, Maria Tripodi, who is to visit Sri Lanka from September ​3–5, will sign an agreement on creating a ‘political consultations mechanism,’ the Ministry of Foreign Affairs said.
-
-“A memorandum of understanding on the establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.”
-
-Tripodi will co-chair the inaugural session of the Sri Lanka–Italy Political Consultations.
-
-Tripodi is scheduled to meet Sri Lanka’s prime minister Harini Amarasuriya and minister of foreign affairs Vijitha Herath.
-
-Diplomatic relations between the two countries were established in 1952. (Colombo/Sep2/2025)
-
-◼️
-
-[Data](articles/24c195ba.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 22:34:12**
+As of **2025-09-03 22:50:00**
 
 ## Newspaper Stats
 
-*Scraped **73,999** Articles*
+*Scraped **74,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
 adalk | 7,152
-adaderanalk | 9,438
+adaderanalk | 9,440
 tamilmirrorlk | 11,011
 virakesarilk | 12,102
-adaderanasinhalalk | 12,854
+adaderanasinhalalk | 12,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 73,999 articles have been extended.
+61,973 (83.7%) of 74,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### ලංවිම සියලු වෘත්තිය සමිති හෙට අකුරට වැඩ
+
+*2025-09-03 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214140) · `si`
+
+ලංකා විදුලිබල මණ්ඩලයේ සියලුම වෘත්තිය සමිති හෙට (04) අකුරට වැඩ කිරීමේ වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කිරීමට තීරණය කර ඇත.
+
+ඒ, ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීම සහ සේවක ඉල්ලීම් කිහිපයක් මුල්කරගනිමිනි.
+
+ඒ ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමේ ක්‍රියාවලිය, අනීතික අයුරින් සේවකයින් දැඩි අපහසුතාවයට පත්කරමින් සිදුකිරීම, හිඟ දිරි දීමනා සහ උසස්වීම් ඇතුළු ඉල්ලීම් 16ක් මුල්කරගනිමින්.
+
+◼️
+
+[Data](articles/462c9135.json)
+
+---
+
+### Negligent police officers must resign or be removed – President
+
+*2025-09-03 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112147/negligent-police-officers-must-resign-or-be-removed-president) · `en`
+
+President Anura Kumara Dissanayake emphasized that no crime should be concealed by the passage of time and that time will never be an obstacle in bringing criminals to justice.
+
+He assured that the incumbent government is determined to punish crimes without any discrimination, regardless of when or where they were committed.
+
+The President made these remarks while addressing the 159th Police Day celebrations held this afternoon (03) at the Thimbirigasyaya Police Stadium, under the theme “Let’s Protect the Law – Let’s Value Peace.”
+
+Highlighting the grave responsibility of the Police Department in curbing the drug menace and crimes committed using illegal weapons—both of which pose major social challenges today—the President affirmed that the government will safeguard police officers who perform their duties diligently.
+
+He further urged officers to carry out their responsibilities fearlessly.
+
+...
+
+[Data](articles/6f42a776.json)
+
+---
 
 ### පද්මේගේ මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් නුවරඑළියේ
 
@@ -47,6 +83,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/10e7f435.json)
+
+---
+
+### Putin says he is ready to meet Zelenskiy if he comes to Moscow
+
+*2025-09-03 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112146/putin-says-he-is-ready-to-meet-zelenskiy-if-he-comes-to-moscow) · `en`
+
+Russian President Vladimir Putin said on Wednesday that he was ready to hold talks with Volodymyr Zelenskiy if the Ukrainian president came to Moscow, but said it remained to be seen whether such a meeting was worthwhile.
+
+Zelenskiy has been pressing to meet Putin to discuss the terms of a possible deal and U.S. President Donald Trump - who has been trying to broker a peace settlement - has said he wants the two leaders to meet.
+
+Speaking in China at the end of a visit there, Putin said he had always been open to meeting Zelenskiy but reiterated the Kremlin’s oft-repeated stance that such a meeting had to be well prepared in advance and lead to tangible results.
+
+“As for a meeting with Zelenskiy I have never ruled out the possibility of such a meeting. But is there any point? Let’s see,” said Putin.
+
+The Russian leader said that in his view Ukraine needed to cancel martial law, hold elections, and hold a referendum about territorial questions if progress was to be made.
+
+...
+
+[Data](articles/48e80fe4.json)
 
 ---
 
@@ -1773,53 +1829,5 @@ Education is the best way to escape poverty, Secretary to the Ministry of Social
 ◼️
 
 [Data](articles/158b3a97.json)
-
----
-
-### මාළිගාවත්තේ වෙඩිතැබීමක්
-
-*2025-09-03 12:02:50* · [`adalk`](https://www.ada.lk/breaking_news/මාළිගාවත්තේ-වෙඩිතැබීමක්/11-418252) · `si`
-
-ව්‍යාපාරික ස්ථානයක රැඳීසිටි තරුණයෙකු ඉලක්ක කරගනිමින් මෙම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වේ.
-
-වෙඩිවැදීමෙන් තුවාල ලැබූ එම පුද්ගලා ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/b2396e26.json)
-
----
-
-### නවසීලන්ත මහ කොමසාරිස්  හම්බන්තොට වරායේ සංචාරයක
-
-*2025-09-03 12:01:37* · [`adalk`](https://www.ada.lk/business/නවසීලන්ත-මහ-කොමසාරිස්--හම්බන්තොට-වරායේ-සංචාරයක/7-418251) · `si`
-
-ශ්‍රී ලංකාවේ නවසීලන්ත මහ කොමසාරිස් ඩේවිඩ් ග්‍රෙගරි පයින් මහතා, 2025 අගෝස්තු 11 වැනි දින හම්බන්තොට ජාත්‍යන්තර වරායේ (HIP) සංචාරයක නිරත විය. වරාය පිළිබඳව සෘජු දැනුමක් මෙන්ම එහි වර්ධනය වෙමින් පවතින ජාත්‍යන්තර වැදගත්කම පිළිබඳ අවබෝධයක් ලබා ගැනීම සඳහා මෙම සංචාරය සිදු කරන ලදී. ඔහු සමඟ මහ කොමසාරිස් කාර්යාලයේ ප්‍රතිපත්ති උපදේශක රසිකා සුමුදු ජයසිංහ මහත්මිය ද එක්ව සිටියේය.
-
-HIP හි අති නවීන පහසුකම් නිරීක්ෂණය කළ දූත පිරිසට, වරායේ බහාලුම් සහ තොග භාණ්ඩ හැසිරවීම්, RORO සේවා, බලශක්ති සැපයුම් සහ ඒකාබද්ධ කාර්මික සහාය වැනි බහුකාර්ය මෙහෙයුම් පිළිබඳව දැනුමක් ලබා දෙන ලදී. මෙම සංචාරය තුළින් ජාත්‍යන්තර සහයෝගීතාව පිළිබඳ අර්ථවත් සංවාදයකට දොරටු විවෘත කළ අතර කලාපීය සහ ගෝලීය හවුල්කරුවන් සඳහා ලොජිස්ටික්ස් සහ සමුද්‍රීය කේන්ද්‍රස්ථානයක් ලෙස HIP හි ස්ථාපිතය වඩාත් ශක්තිමත් කරනු ඇත.
-
-...
-
-[Data](articles/a343fb51.json)
-
----
-
-### ගූගල් සමාගමට අධිකරණ නියෝගයක්
-
-*2025-09-03 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214113) · `si`
-
-ගූගල් සමාගමට එහි ක්‍රෝම් වෙබ් බ්‍රව්සරය විකිණීමට සිදු නොවන නමුත් තරගකරුවන් සමඟ තොරතුරු බෙදා ගත යුතු බව එක්සත් ජනපද ෆෙඩරල් විනිසුරුවරයෙකු නියෝග කර තිබේ.
-
-මාර්ගගත සෙවුමේ ගූගල් ආධිපත්‍යය සම්බන්ධයෙන් වසර ගණනාවක් පුරා පැවති අධිකරණ නඩු විභායකින් පසුව, දිස්ත්‍රික් විනිසුරු අමිත් මේතා විසින් තීරණය කරන ලදි.
-
-මෙම නඩුව කේන්ද්‍රගත වූයේ ඇන්ඩ්‍රොයිඩ් සහ ක්‍රෝම් වැනි තමන්ගේම නිෂ්පාදන පරාසයක මෙන්ම ඇපල් වැනි සමාගම් විසින් නිෂ්පාදනය කරන ලද අනෙකුත් නිෂ්පාදනවල පෙරනිමි සෙවුම් යන්ත්‍රය ලෙස ගූගල්ගේ ස්ථානය වටා ය.
-
-එක්සත් ජනපද අධිකරණ දෙපාර්තමේන්තුව ගූගල් ක්‍රෝම් විකුණන ලෙස ඉල්ලා තිබුණි.
-
-ඊයේ ලබාදුන් නඩු තීන්දුවේ තීරණයෙන් අදහස් වන්නේ තාක්ෂණික දැවැන්තයාට එය තබා ගත හැකි නමුත් එයට සුවිශේෂී කොන්ත්‍රාත්තු තිබීම තහනම් වන අතර ප්‍රතිවාදීන් සමග සෙවුම් දත්ත බෙදා ගත යුතු බවය.
-
-◼️
-
-[Data](articles/aa635fa6.json)
 
 ---

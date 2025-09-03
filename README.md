@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 06:33:38**
+As of **2025-09-03 07:17:36**
 
 ## Newspaper Stats
 
-*Scraped **73,810** Articles*
+*Scraped **73,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 754
 economynextcom | 4,495
 islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,235
+dailyftlk | 5,245
 adalk | 7,118
 adaderanalk | 9,409
 tamilmirrorlk | 10,975
@@ -26,11 +26,173 @@ adaderanasinhalalk | 12,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (84.0%) of 73,810 articles have been extended.
+61,973 (84.0%) of 73,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### Hayleys Fentons shines with eight wins at National Business Excellence Awards 2025
+
+*2025-09-03 06:20:55* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-shines-with-eight-wins-at-National-Business-Excellence-Awards-2025/34-781174) · `en`
+
+Hayleys Fentons’ team celebrates victory with eight esteemed awards and three years of Gold in the Infrastructure and Utilities sector
+
+Hayleys Fentons Ltd., swept eight awards at the prestigious National Business Excellence Awards (NBEA) 2025, including the coveted Gold Award in the Infrastructure and Utilities sector for the third consecutive year.
+
+Subsidiaries of Hayleys Fentons Ltd., secured notable wins, showcasing the depth and agility of its expanding footprint across diverse solutions.
+
+This recognition affirms Hayleys Fentons Ltd.’s role as an industry leader, committed to reshaping Sri Lanka’s built environment through innovation and sustainability. These honours validate the company’s ability to consistently scale excellence in ways that meaningfully contribute to national progress.
+
+Annually organised by the National Chamber of Commerce of Sri Lanka, the NBEA is widely regarded as one of the most credible benchmarks of corporate excellence in the country.
+
+...
+
+[Data](articles/e4bae280.json)
+
+---
+
+### SEC defers Dockyard trading suspension until 11 December
+
+*2025-09-03 06:18:59* · [`dailyftlk`](https://www.ft.lk/business/SEC-defers-Dockyard-trading-suspension-until-11-December/34-781173) · `en`
+
+The Securities and Exchange Commission yesterday deferred the trading suspension of Colombo Dockyard PLC shares, the company said in a stock exchange filing.
+
+The suspension was due to take effect on 10 September 2025 after the securities of the company were twice transferred to the Colombo Stock Exchange Watch List: first in 10 June 2024, and a year later on 16 June 2025 due to the emphasis of matter on going concern contained in the Independent Auditor’s Reports for the financial years ended 31 December 2023 and 31 December 2024 respectively, the stock exchange filing said.
+
+The SEC has deferred the trading suspension until 11 December 2025.
+
+◼️
+
+[Data](articles/36883a2d.json)
+
+---
+
+### Kandy Hotels Co. public float up 7%
+
+*2025-09-03 06:18:25* · [`dailyftlk`](https://www.ft.lk/business/Kandy-Hotels-Co-public-float-up-7/34-781172) · `en`
+
+Kandy Hotels Co. (1938) PLC in a Colombo Stock Exchange filing said yesterday that its public float had increased by 7.02% last month.
+
+The company said that the public holdings of its shares stood at 15.98% as of end June 2025, and increased to 23% as of 1 September 2025, due to non-public shareholders disposing of their shares in the market during the month of August 2025.
+
+◼️
+
+[Data](articles/1a6e73ca.json)
+
+---
+
+### SEC defers trading suspension of Millennium Housing Developers
+
+*2025-09-03 06:18:02* · [`dailyftlk`](https://www.ft.lk/business/SEC-defers-trading-suspension-of-Millennium-Housing-Developers/34-781171) · `en`
+
+The Securities and Exchange Commission (SEC) has granted deferment of the securities trading suspension of Millennium Housing Developers PLC (MHDL) until further notice, a Colombo stock market filing said yesterday.
+
+“Further to the notice published on 21 August 2025 regarding the trading suspension of MHDL, please note that, since the company has requested a deferment from the SEC in terms of Rule 7.5(d)(ii) A.12 of the CSE Listing Rules, the trading of the said security will not be suspended until further notice,” the filing said.
+
+The trading suspension, now deferred, was to take effect yesterday due to the matter of going concern in the Independent Auditor’s Report in the company’s audited statements for the year ended 31 March 2023.
+
+◼️
+
+[Data](articles/4e958b9d.json)
+
+---
+
+### Andre Fernando recognised for leadership in strengthening regional business ties
+
+*2025-09-03 06:17:38* · [`dailyftlk`](https://www.ft.lk/business/Andre-Fernando-recognised-for-leadership-in-strengthening-regional-business-ties/34-781170) · `en`
+
+The Global Federation of Sri Lankan Business Councils (GFSLBC) held its inaugural Annual General Meeting recently at the Shangri-La Hotel, Colombo, under the theme “Uniting Global Sri Lankan Businesses – Moving Forward”. The two-day summit brought together entrepreneurs from 15 countries, including the United States, the United Kingdom, Japan, Australia, Canada, and India, to focus on expanding global trade relations, attracting investments, and channelling the expertise of Sri Lankan entrepreneurs worldwide into the national economy.
+
+The National Chamber of Commerce of Sri Lanka (NCCSL), Sri Lanka–Bangladesh Business Cooperation Council President and MAC Holdings Ltd., Managing Director Andre Fernando was recognised for his outstanding leadership and contributions towards strengthening regional business cooperation. The honour was conferred by President Anura Kumara Disanayake during the federation’s inaugural session.
+
+...
+
+[Data](articles/102e3002.json)
+
+---
+
+### Hayleys Aventura expands with new Avery Weigh-Tronix Sales & Service branch in Kurunegala
+
+*2025-09-03 06:16:08* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Aventura-expands-with-new-Avery-Weigh-Tronix-Sales-Service-branch-in-Kurunegala/34-781169) · `en`
+
+Hayleys Aventura Managing Director Wasaba Jayasekara together with Mayor of Kurunegala, Ananda Sahabandu and Deputy Mayor of Kurunegala Azardeen Mohedeen inaugurated the New Weighing Solutions Centre in Kurunegala
+
+Hayleys Aventura, the industrial solutions arm of the Hayleys Group, announced the opening of its new Avery Weigh-Tronix Sales & Service branch in Kurunegala, strengthening its islandwide presence and making world-class weighing solutions more accessible to businesses and individuals in the region.
+
+Located at the heart of a fast-growing hub for logistics, agriculture, retail, and manufacturing, the branch serves as a complete destination for weighing needs. Customers can access a full portfolio ranging from heavy-duty weighbridges and industrial scales to precision instruments and personal scales, backed by trusted after-sales service and certified calibration support.
+
+...
+
+[Data](articles/79abb67e.json)
+
+---
+
+### CEAT kicks off next big move in off highway mobility
+
+*2025-09-03 06:13:45* · [`dailyftlk`](https://www.ft.lk/business/CEAT-kicks-off-next-big-move-in-off-highway-mobility/34-781168) · `en`
+
+From left: CEAT Kelani Holdings CEO and MD Ravi Dadlani, High Commission of India, Colombo First Secretary – Economic and Commercial Devika Lal, CEAT, India MD and CEO Arnab Banerjee, High Commissioner of India to Sri Lanka Santosh Jha and CEAT Specialty CEO Amit Tolani
+
+CEAT acquires Michelin Group’s CAMSO Construction Compact Line Business, including Sri Lanka’s Midigama plant and Casting Product plant in Kotugoda, integrating the CAMSO brand into its OHT strategy
+
+With CAMSO’s equity in EU and North America, CEAT gains access to 40+ global OEMs and premium distributors, accelerating its vision to be a global leader in Off-Highway mobility
+
+investment in Sri Lanka over the next three years, securing 1,483 jobs and strengthening the nation’s role as a global OHT hub
+
+...
+
+[Data](articles/2d6d36b6.json)
+
+---
+
+### Vidyani Hettigoda recognised at Sri Lankan Top 100 Iconic Women 2025 awards
+
+*2025-09-03 06:12:21* · [`dailyftlk`](https://www.ft.lk/business/Vidyani-Hettigoda-recognised-at-Sri-Lankan-Top-100-Iconic-Women-2025-awards/34-781167) · `en`
+
+Vidyani Hettigoda receives her award from Labour Minister Dr. Anil Jayantha Fernando at the SLBC Centenary Awards ceremony
+
+Hettigoda Group of Companies Director Vidyani Hettigoda was recognised as one of the Sri Lankan Top 100 Iconic Women 2025 at the SLBC Centenary Awards, held on 29 August 2025 at BMICH.
+
+With over three decades of experience, she has been instrumental in transforming the family-owned business into a global well-being brand. Under her leadership, Siddhalepa has expanded its reach to over 40 countries, offering a wide range of Ayurvedic products and services.
+
+...
+
+[Data](articles/206e4705.json)
+
+---
+
+### Celebrating women entrepreneurs – “Invest in Her” Award Ceremony
+
+*2025-09-03 06:08:40* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-women-entrepreneurs-Invest-in-Her-Award-Ceremony/34-781166) · `en`
+
+The Women’s International Foundation (WIF), in collaboration with Aviraté, hosted the “Invest in Her” Award Ceremony, celebrating the resilience, innovation, and potential of Sri Lanka’s MSME women entrepreneurs.
+
+Over the past three months, proceeds from every Aviraté sale were dedicated to empowering women entrepreneurs with digital tools and market access opportunities. This unique collaboration highlights a shared vision: to create inclusive economic opportunities and strengthen women’s leadership in business.
+
+At the ‘Invest in Her’ Award Ceremony, held on 29 August at the Timex Garments Auditorium, members of both WIF and Aviraté joined award recipients and their families to celebrate and honour seven extraordinary women entrepreneurs from the WIF network.
+
+...
+
+[Data](articles/240e8972.json)
+
+---
+
+### Ramp Up 2025 by Women’s Chamber of Industry and Commerce on 9 Sept. at Hilton Colombo
+
+*2025-09-03 06:06:27* · [`dailyftlk`](https://www.ft.lk/business/Ramp-Up-2025-by-Women-s-Chamber-of-Industry-and-Commerce-on-9-Sept-at-Hilton-Colombo/34-781165) · `en`
+
+A glamorous celebration of women-led fashion brands taking the world stage
+
+The Women’s Chamber of Industry and Commerce (WCIC) will present Ramp Up 2025, a one-of-a-kind fashion showcase that blends bold creativity, entrepreneurial spirit, and the unstoppable energy of women-led fashion brands on 9 September at the Hilton Colombo.
+
+This latest edition spotlights Sri Lanka’s most promising designers alongside inspiring women from diverse professional backgrounds, including professionals, entrepreneurs, corporate leaders, and more, who will take to the runway as models. This dynamic combination celebrates creativity, confidence, and female empowerment while providing a powerful platform for local designers to gain exposure, grow networks and build Export-Ready Brands which will help them to reach new markets. It also offers sponsors and attendees a unique opportunity to engage with purpose-driven corporate and professional personalities.
+
+...
+
+[Data](articles/7868cdbc.json)
+
+---
 
 ### Discussion to reform domestic apparel tariff
 
@@ -62,7 +224,7 @@ K.D. Lal Kantha, as the Chief Guest, along with Secretary to the Ministry D.P. W
 
 ---
 
-### අද කාලගුණය - අද හිරු මුදුන්වන ප්‍රදේශ මෙන්න
+### අද කාලගුණය - හිරු මුදුන්වන ප්‍රදේශ මෙන්න
 
 *2025-09-03 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214098) · `si`
 
@@ -1643,169 +1805,5 @@ The CEB had been stuffed with excess employees, from the electoraates of the min
 ◼️
 
 [Data](articles/073718b5.json)
-
----
-
-### திடீர் சுற்றிவளைப்பில் பல பொருட்களை அள்ளினர்
-
-*2025-09-02 12:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-சுற்றிவளைப்பில்-பல-பொருட்களை-அள்ளினர்/175-363901) · `ta`
-
-புறக்கோட்டையில் நடத்தப்பட்ட தொடர் சோதனைகளின் போது அங்கீகரிக்கப்படாத அழகுசாதனப் பொருட்கள் மற்றும் முறையற்ற லேபிளிடப்பட்ட உணவுப் பொருட்களை நுகர்வோர் விவகார அதிகார சபை கைப்பற்றியது.
-
-பல விற்பனை நிலையங்களில் அங்கீகரிக்கப்படாத வெண்மையாக்கும் கிரீம்கள் மற்றும் பதிவு செய்யப்படாத அழகுசாதனப் பொருட்கள் சோதனைகளில் கண்டுபிடிக்கப்பட்டன, இது நுகர்வோருக்கு கடுமையான உடல்நல அபாயங்களை ஏற்படுத்தக்கூடியது என சுற்றவளைப்பில் ஈடுபட்டிருந்த நுகர்வோர் விவகார அதிகார சபையின் அதிகாரிகள் தெரிவித்தனர்.
-
-சரியான லேபிளிங், காலாவதி திகதிகள் அல்லது மூலப்பொருள் விவரங்கள் இல்லாத இறக்குமதி செய்யப்பட்ட சாக்லேட்டுகளின் பாரியளவிலான இருப்புகளைக் கண்டறியவும் இந்த தி​டீர் சோதனை வழிவகுத்தன  இது   நுகர்வோர் பாதுகாப்பு சட்டங்களை மீறுவதாகும் என்றும் தெரிவித்தனர்.
-
-நுகர்வோரைப் பாதுகாக்கவும், பாதுகாப்பான, உண்மையான மற்றும் சட்டப்பூர்வமாக இறக்குமதி செய்யப்பட்ட பொருட்கள் மட்டுமே சந்தையில் கிடைப்பதை உறுதி செய்யவும் நாடு தழுவிய ரீதியில் திடீர் சுற்றவளைப்புகள் ​தொடரும் என்று நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/bd6b3210.json)
-
----
-
-### “There is no room for racist politics in the country again” – President pledges to people of North
-
-*2025-09-02 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112102/there-is-no-room-for-racist-politics-in-the-country-again-president-pledges-to-people-of-north) · `en`
-
-President Anura Kumara Dissanayake has affirmed that no opportunity will be given for the resurgence of racist politics in the country.
-
-President Dissanayake made this statement while participating in the inauguration ceremony of the national program “කප්තුරු සවිය”.
-
-The President emphasized that racist politics have never served the general public and have merely been a tool used by politicians. He further stated that if such racist politics were to arise in any form or place, he firmly believes the people will reject it.
-
-The President also stated that the 30-year war was the greatest tragedy in the history of the country, and as a result, it led to division among the people. He pointed out that nationalism had become the main tool used to gain power in both the North and the South.
-
-...
-
-[Data](articles/f8b81141.json)
-
----
-
-### ”நான் வேண்டாம் என்றேன்”: “அவர்கள் வேண்டும் என்றனர்”
-
-*2025-09-02 12:05:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-வேண்டாம்-என்றேன்-அவர்கள்-வேண்டும்-என்றனர்/175-363900) · `ta`
-
-ஒரு DJ விருந்தில் தனது காதலனுடன் நடனமாடியபோது, ​​31 வயது ஸ்பானிஷ் பெண்ணை பாலியல் ரீதியாக துஷ்பிரயோகம் செய்து தாக்கியதாக கூறப்படும்   சுற்றுலா வழிகாட்டிகள் மூவர் கைது செய்யப்பட்டு தடுப்புக் காவலில் வைக்கப்பட்டுள்ளனர்.
-
-இந்த சம்பவம் கற்பிட்டி  குடாவ பகுதியில் ஆகஸ்ட் 30 ஆம் திகதி நடந்ததாக பொலிஸார் தெரிவித்தனர். கற்பிட்டியின் கண்டகுளிய பகுதிக்கு தனது காதலனுடன் வந்த பெண், அருகிலுள்ள ஹோட்டலில் நடந்த DJ நிகழ்வில் கலந்து கொண்டுள்ளார்.
-
-வெளிநாட்டினர் மற்றும் உள்ளூர் இளைஞர்கள் அந்த DJ விருந்தில் இருந்துள்ளனர். அனைவரும் இசை மற்றும் நடனத்தை ரசித்துக்கொண்டிருந்ததாகவும் அந்தப் பெண் தனது புகாரில் தெரிவித்துள்ளார். இருப்பினும், ஒரு குழு ஆண்கள் தன்னை அணுகி, தகாத முறையில் தன்னைத் தொட்டதாகவும், பின்னர் தான் எதிர்த்தபோது தன்னைத் தாக்கியதாகவும் அவர் கூறினார்.
-
-அவர்கள் தாக்கியதில் அந்த பெண்ணின் இடது கண்ணுக்கு மேல் காயம் ஏற்பட்டுள்ளது. அவர், புத்தளத்தில் உள்ள ஒரு தனியார் மருத்துவமனையில் சிகிச்சை பெற்றுள்ளார்.
-
-...
-
-[Data](articles/b67e5f06.json)
-
----
-
-### යළි ජාතිවාදී දේශපාලනයට රට තුළ ඉඩක් නෑ - උතුරේ වැසියන්ට ජනපතිගෙන් පොරොන්දුවක්
-
-*2025-09-02 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214074) · `si`
-
-යළි ජාතිවාදී දේශපාලනයකට රට තුළ කිසිදු අවස්ථාවක ඉඩක් නොතබන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
-
-පුදුකුඩුඉරිප්පු නගරයේදී පැවැත් වූ ලෝක පොල් දින සැමරුමට සමගාමීව “රටම සරු කරයි නිරතුරු - කප්තුරු සවිය” උතුරේ පොල් ත්‍රිකෝණය දියත් කිරීමේ සමාරම්භක අවස්ථාවට එක්වෙමින් ජනපති අනුර කුමාර දිසානායක මහතා මේ බව කියා සිටියේය.
-
-ජාතිවාදී දේශපාලනය කිසිවිටෙකත් පොදු ජනතාවට සේවයක් සපයා නොමැති බවත්, එය හුදෙක් දේශපාලනඥයින්ගේ මෙවලමක් පමණක් වන බව ද අවධාරණය කර සිටි ජනාධිපතිවරයා, කොතැනක හෝ කුමන ආකාරයකින් එවැනි ජාතිවාදී දේශපාලනයක් පැනනඟින්නේ නම් ජනතාව එය ප්‍රතික්ෂේප කරනු ඇතැයි තමා විශ්වාස කරන බවද මෙහිදී වැඩිදුරටත් පැවසීය.
-
-එමෙන්ම 30 වසරක යුද්ධය මෙරට ඉතිහාසයේ සිදුවු විශාලතම ඛේදවාචකය වන බවත්, එහි ප්‍රතිඵලයක් ලෙස ජනතාව ඈත් වූ බවත් පැවසු ජනාධිපතිවරයා, උතුරේ සහ දකුණේ බලය ලබාගන්නා ප්‍රධානතම මෙවලම බවට ජාතිවාදය පත්වූ බව ද කියා සිටියේය.
-
-...
-
-[Data](articles/3590d3bf.json)
-
----
-
-### இன்றைய தங்க விலை நிலைவரம் !
-
-*2025-09-02 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/223998) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (02) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/1d89e1da.json)
-
----
-
-### දකුණේ වෙඩි තැබීම් සාමාන්‍ය දෙයක් ලෙසත් උතුරේ වෙඩි තැබීම් යුද්ධයක් ලෙසත් අර්ථකතනය කරනවා
-
-*2025-09-02 11:57:38* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-වෙඩි-තැබීම්-සාමාන්‍ය-දෙයක්-ලෙසත්-උතුරේ-වෙඩි-තැබීම්-යුද්ධයක්-ලෙසත්-අර්ථකතනය-කරනවා/11-418224) · `si`
-
-දකුණේ වෙඩි තැබීම් සාමාන්‍ය දෙයක් ලෙසත් උතුරේ වෙඩි තැබීම් යුද්ධයක් ලෙසත් අර්ථකතනය කිරීමේ දකුණේ දේශපාලනයක් ක්‍රියාත්මක වන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-‘කප්තුරු සවිය’ ජාතික වැඩසටහනට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“අපි දන්නවා දකුණේ දේශපාලනයක් ක්‍රියාත්මක වෙමින් තිබෙනවා. නිරන්තර උතුර ගැන කල්පනා කරන්නේ යුද්ධයක් පිළිබඳ අනියත බියක් නිරන්තරයෙන් ගොඩ නගමින්. කොළඹ නගරයේ ආයුධ අහු වෙනවා. වෙඩි තබා ගැනීම් ඉඳහිට සිදුවෙනවා. ඒත් ඒක සාමාන්‍ය තත්ත්වයක් ලෙස අර්ථකතනය කරනවා. උතුරේ ​ එහෙම එකක් සිදු වූවොත් එය යුද්ධයක පෙර නිමිත්තක් කියලා අර්ථකතව කරන්න පටන් අරන්. ”
-
-◼️
-
-[Data](articles/ed74b968.json)
-
----
-
-### நீங்களும் வாங்க விளையாடுவோம்
-
-*2025-09-02 11:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நீங்களும்-வாங்க-விளையாடுவோம்/62-363899) · `ta`
-
-யாழ்ப்பாணத்துக்கு செப்டெம்பர் 01ஆம் திகதி விஜயம் செய்த ஜனாதிபதி அனுரகுமார திசாநாயக்க, யாழ்ப்பாணம் மண்டைத்தீவில் சர்வதேச கிரிக்கெட் மைதானத்துக்கு அடிக்கல் நாட்டினார்.
-
-◼️
-
-[Data](articles/d02fb695.json)
-
----
-
-### செம்மணியை மறைத்து விளையாடும் அனுர
-
-*2025-09-02 11:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/செம்மணியை-மறைத்து-விளையாடும்-அனுர/62-363898) · `ta`
-
-செம்மணி மனித புதைகுழியில் குவியல் குவியலாக பல எலும்புக்கூடுகள் மீட்கப்படும் நிலையில், எமது சகோதர பத்திரிக்கையான டெயிலி மிரரில் கீறப்பட்டுள்ள சிந்தனை சித்திரம்,
-
-◼️
-
-[Data](articles/b29ec28f.json)
-
----
-
-### Rapper ‘Maduwa’ arrested again with explosives
-
-*2025-09-02 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112100/rapper-maduwa-arrested-again-with-explosives) · `en`
-
-Popular rapper Madhawa Prasad, known by his stage name ‘Maduwa’, who was recently arrested with a fake pistol, has been taken into custody once again—this time for the possession of explosives.
-
-According to the Kahathuduwa Police, officers seized three sticks of gelignite, five detonators, and 3.5 kilograms of ammonium nitrate from the suspect, said police.
-
-The rapper was previously arrested on August 25 with a fake pistol and later released on bail after being produced before the Kesbewa Magistrate’s Court.
-
-Police state that the arrest was made following a tip-off received by Sub-Inspector Rajitha Gurusinghe, Officer-in-Charge of the Crimes Investigation Division of the Kahathuduwa Police. The tip indicated that the suspect had buried a cache of explosives behind a house in Galahena, Pitipana, where he resides.
-
-...
-
-[Data](articles/2ad4ea09.json)
-
----
-
-### Donald Trump says India offered to remove tariffs on US goods
-
-*2025-09-02 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112099/donald-trump-says-india-offered-to-remove-tariffs-on-us-goods) · `en`
-
-US President Donald Trump says India has offered to cut its tariffs ‘to nothing’ even as he called the current trade stalemate with the country ‘a totally one sided disaster’.
-
-US tariffs of 50% on goods from India - which includes 25% penalty for Delhi’s refusal to stop buying oil from Russia - took effect last week.
-
-India has not responded to Trump’s latest comment but such war of words over Russian oil has caused Delhi-Washington ties to hit an all-time low.
-
-Trump’s comment coincides with Indian Prime Minister Narendra Modi attending the Shanghai Co-operation Organisation (SCO) summit in Tianjin where he met Chinese President Xi Jinping and Russian President Vladimir Putin.
-
-Washington says Delhi has been indirectly funding Russia’s war in Ukraine.
-
-‘India buys most of its oil and military products from Russia, very little from the US,’ Trump wrote, adding Delhi should have cut tariffs ‘years ago’.
-
-...
-
-[Data](articles/43b40fc0.json)
 
 ---

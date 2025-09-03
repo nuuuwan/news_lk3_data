@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 13:18:46**
+As of **2025-09-03 13:32:47**
 
 ## Newspaper Stats
 
-*Scraped **73,900** Articles*
+*Scraped **73,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,136
+adalk | 7,137
 adaderanalk | 9,425
 tamilmirrorlk | 10,993
-virakesarilk | 12,077
+virakesarilk | 12,080
 adaderanasinhalalk | 12,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,900 articles have been extended.
+61,973 (83.9%) of 73,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-09-03 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224086) · `ta`
+
+இன்று புதன்கிழமை (03) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 305.9669 ஆகவும் கொள்வனவு விலை ரூபா 298.4404 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (03.09.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
+
+◼️
+
+[Data](articles/a115206e.json)
+
+---
+
+### மின்தூக்கி பராமரிப்பாளரை தாக்கிய வழக்கிலிருந்து முன்னாள் பொலிஸ்மா அதிபர் பூஜித் ஜயசுந்தர விடுதலை!
+
+*2025-09-03 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224084) · `ta`
+
+2017ஆம் ஆண்டு பொலிஸ் தலைமையகத்தில் மின்தூக்கி பராமரிப்பாளர் ஒருவரை அச்சுறுத்தி தாக்கிய வழக்கிலிருந்து முன்னாள் பொலிஸ்மா அதிபர் பூஜித் ஜயசுந்தரவை விடுதலை செய்து கோட்டை நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த வழக்கு இன்று புதன்கிழமை (03) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது கோட்டை நீதவான் இந்த உத்தரவை பிறப்பித்துள்ளார்.
+
+2019ஆம் ஆண்டு ஜூன் மாதம் 2 ஆம் திகதியன்று மின்தூக்கி பராமரிப்பாளர் ஒருவரை அச்சுறுத்தி தாக்கிய சம்பவம் தொடர்பாக அப்போதைய பிரதி பொலிஸ்மா அதிபருக்கு முறைப்பாடு கிடைத்துள்ளது.
+
+2017 ஆம் ஆண்டு ஏப்ரல் மாதம் 11 ஆம் திகதியன்று அப்போதைய பொலிஸ்மா அதிபர் பூஜித் ஜயசுந்தர தன்னை மோசமான வார்த்தைகளில் திட்டியதாகவும் தமது காலரைப் பிடித்து மின்தூக்கிக்குள் தாக்க முயன்றதாகவும் முறைப்பாட்டில் குறிப்பிடப்பட்டுள்ளது.
+
+தேசிய கீதம் பாடப்படும்போதும் தியான நிகழ்ச்சிகள் நடைபெறும்போதும் மின்தூக்கி பிறப்பாக்கியை இயக்க வேண்டாம் என ஜயசுந்தர அறிவுறுத்தியதன் பின்னணியில் இந்த சம்பவம் நடந்ததாகக் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/3e7897d2.json)
+
+---
 
 ### හෙරොයින් කිලෝ 2ක් සමග සැකකරුවෙක් මාට්ටු
 
@@ -38,7 +72,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 හෙරොයින් කිලෝ 2යි ග්‍රෑම් 755ක් සමග සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
 
-පොලීසිය පැවසුවේ, වලස්මුල්ල පොලිස් වසමේ දී මන්නාරම කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් මොරකන්ද ගොඩවැව අසලදී මෙම සැකකරුව අත්අඩංගුවට ගත් බවය.
+පොලීසිය පැවසුවේ, වලස්මුල්ල පොලිස් වසමේ දී කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් මොරකන්ද ගොඩවැව අසලදී මෙම සැකකරුව අත්අඩංගුවට ගත් බවය.
 
 අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 33ක් වූ වලස්මුල්ල ප්‍රදේශයේ පදිංචිකරවෙක් බවය.
 
@@ -86,11 +120,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 இலங்கையில் HIV தொற்று தொடர்ந்து அதிகரித்து வருவதாகவும், 2025 ஆம் ஆண்டு புள்ளிவிவரங்ளை  கடந்த ஆண்டுகளுடன் ஒப்பிடும்போது வியத்தகு அதிகரிப்பைக் காட்டுவதாக  தகவல்கள் தெரிவிக்கின்றன.
 
-தேசிய பாலியல் நோய்/எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டத்தின்படி,2025  ( National STD/AIDS Control Programme - NSACP 2025) ஆம் ஆண்டின் முதல் காலாண்டில் மட்டும் (ஜனவரி முதல் மார்ச் வரை) மொத்தம் 230 வழக்குகள் பதிவாகியுள்ளன.
+தேசிய பாலியல் நோய்/எய்ட்ஸ் கட்டுப்பாட்டுத் திட்டத்தின்படி,2025  ( National STD/AIDS Control Programme - NSACP 2025) ஆம் ஆண்டின் முதல் காலாண்டில் மட்டும் (ஜனவரி முதல் மார்ச் வரை) மொத்தம் 230 பேர் பாதிக்கப்பட்டுள்ளனர்.
 
 2009 ஆம் ஆண்டுக்குப் பிறகு ஒரு காலாண்டில் பதிவான அதிகபட்ச சம்பவங்கள் 2025 ஆம் முதல் காலாண்டில் பதிவாகியுள்ளன.
 
-2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான சம்பவங்களில், 30 ஆண்களும் இரண்டு பெண்களும் 15–24 வயதுக்குட்பட்டவர்கள், ஏனைய சம்பவங்கள் 25 வயதுக்கு மேற்பட்டவர்கள்.
+2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான சம்பவங்களில், 30 ஆண்களும் இரண்டு பெண்களும்  அடங்குகின்றனர் இவர்கள் 15–24 வயதுக்குட்பட்டவர்கள், ஏனைய சம்பவங்கள் 25 வயதுக்கு மேற்பட்டவர்கள்.
 
 2025 ஆம் ஆண்டில் பதிவான HIV தொற்றுகளின் ஆண்-பெண் விகிதம் 6.6:1 ஆக காணப்படுகின்றது.
 
@@ -133,6 +167,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/31a1a000.json)
+
+---
+
+### சிக்காகோவில் தொழிலாளர் தின வார இறுதியில் இடம்பெற்ற பல துப்பாக்கிச் சூட்டு சம்பவங்களில் 08 பேர் உயிரிழப்பு ; 50 பேர் காயம்
+
+*2025-09-03 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/224082) · `ta`
+
+சிக்காகோவில் தொழிலாளர் தின வார இறுதியில்  இடம்பெற்ற பல துப்பாக்கிச் சூட்டு சம்பவங்களில் எட்டு பேர் உயிரிழந்துள்ளதோடு, 50 பேர் காயமடைந்தனர் என பொலிஸார் தெரிவித்தனர்.
+
+வெள்ளிக்கிழமை இரவுக்கும் திங்கள் இரவுக்கும் இடையில், நாட்டின் மூன்றாவது பெரிய நகரமான சிக்காகோவில் நடந்த 37 தனித்தனி துப்பாக்கிச் சூட்டு சம்பவங்களில் மொத்தம் 58 பேர் பாதிக்கப்பட்டுள்ளதாக பொலிஸாரின் முதற்கட்ட தகவல்கள் தெரிவிக்கின்றன.
+
+கடந்த ஆண்டு தொழிலாளர் தின வார இறுதியில், ஏழு பேர் கொல்லப்பட்டனர், அவர்களில் ஆறு பேர் துப்பாக்கிச் சூட்டில் கொல்லப்பட்டனர். மேலும் விடுமுறை வார இறுதியில் நடந்த துப்பாக்கிச் சூட்டில் 20 க்கும் மேற்பட்டோர் காயமடைந்தனர் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/16918946.json)
 
 ---
 
@@ -551,6 +601,22 @@ However, by early this morning (02), area residents had managed to bring the fir
 ...
 
 [Data](articles/8e0ee1a8.json)
+
+---
+
+### රජයේ ප්‍රගතිය ගැන ඇමති හේරත් විදෙස් තානාපතිවරුන්ට පැහැදිලි කරයි
+
+*2025-09-03 10:27:49* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ප්‍රගතිය-ගැන-ඇමති-හේරත්-විදෙස්-තානාපතිවරුන්ට-පැහැදිලි-කරයි/11-418242) · `si`
+
+කොළඹ සිටින විදෙස් තානාපතිවරුන් හා මහ කොමසාරිස්වරුන් හා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා අතර ඊයේ (02දා) සාකච්ඡාවක් පවත්වා තිබේ.
+
+මෙම සාකච්ඡාවේදී, අමාත්‍ය හේරත් මහතා මාස 11 කට පෙර බලයට පත්වීමෙන් පසු වත්මන්  රජය ලබා ඇති ප්‍රගතිය පැහැදිලි කළ අතර, සියලුම ශ්‍රී ලාංකිකයන්ගේ අයිතිවාසිකම් සහ යහපැවැත්ම ආරක්ෂා කිරීම සහ ප්‍රවර්ධනය කිරීම සඳහා දියත් කරන ලද ප්‍රධාන පරිවර්තනීය මුලපිරීම් කිහිපයක් පිළිබඳව ඔවුන් දැනුවත් කළේය. මෙම අරමුණ සාක්ෂාත් කර ගැනීම සඳහා රජයේ ස්ථිර සහ අව්‍යාජ කැපවීම ඔහු නැවත තහවුරු කළේය.
+
+අතුරුදහන් වූ පුද්ගලයින් පිළිබඳ කාර්යාලය (OMP), වන්දි ගෙවීමේ කාර්යාලය (OR) සහ ජාතික සමගිය සහ සංහිඳියාව සඳහා වූ කාර්යාලය (ONUR) ඇතුළු දේශීය සංහිඳියා යාන්ත්‍රණයන් ශක්තිමත් කිරීම සඳහා රජය ගෙන ඇති පියවර ද අමාත්‍යවරයා අවධාරණය කළේය. ඊට අමතරව, රජයේ දූෂණ විරෝධී ව්‍යාපාරය, ක්ලීන් ශ්‍රී ලංකා වැඩසටහන සහ නව ත්‍රස්ත විරෝධී නීති සම්පාදනය සහ මාර්ගගත ආරක්ෂණ පනතට යෝජිත සංශෝධන කෙටුම්පත් කිරීමේදී ලබා ඇති ප්‍රගතිය පිළිබඳව ද අමාත්‍යවරයා දැනුවත් කළේය.
+
+...
+
+[Data](articles/6bc34b58.json)
 
 ---
 
@@ -1707,71 +1773,5 @@ They were brought back to Sri Lanka last Saturday and are currently being interr
 ◼️
 
 [Data](articles/bb7e4ef0.json)
-
----
-
-### Suspect posing as journalist arrested in alleged plot to assassinate ‘Harak Kata’
-
-*2025-09-03 05:22:49* · [`dailyftlk`](https://www.ft.lk/news/Suspect-posing-as-journalist-arrested-in-alleged-plot-to-assassinate-Harak-Kata/56-781154) · `en`
-
-Police yesterday arrested a suspect linked to underworld figure “Bako Saman” in Maharagama, over an alleged plot to assassinate Nadun Chinthaka, alias “Harak Kata.”
-
-According to the Western Province North Crimes Division, the suspect, an employee of a State institution had planned the attack under the instructions of underworld figure “Kehelbaddara Padme”.
-
-Investigators said the man had intended to disguise himself as a journalist to infiltrate a Court premises, where Harak Kata is being held in custody.
-
-At the time of arrest, Police recovered a revolver and a destroyed video camera, believed to have been intended as part of the disguise.
-
-Further investigations are underway to determine the extent of the plot and the involvement of other parties.
-
-◼️
-
-[Data](articles/342ada12.json)
-
----
-
-### President visits Katchatheevu Island
-
-*2025-09-03 05:22:21* · [`dailyftlk`](https://www.ft.lk/news/President-visits-Katchatheevu-Island/56-781153) · `en`
-
-President Anura Kumara Disanayake capped off a busy visit to Jaffna on Monday with an inspection tour of Katchatheevu in a bid to affirm Sri Lanka’s sovereign claim over the island. Across the Palk Straits, Tamil Nadu politicians are ratcheting up the rhetoric opposing Sri Lanka’s claim. Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Public Security and Parliamentary Affairs Minister Ananda Wijepala, and Sri Lanka Navy Northern Naval Area Commander Rear Admiral Buddhika Liyanagamage joined the President.
-
-◼️
-
-[Data](articles/5be7d799.json)
-
----
-
-### Italy’s Deputy FM in Sri Lanka tomorrow
-
-*2025-09-03 05:21:02* · [`dailyftlk`](https://www.ft.lk/news/Italy-s-Deputy-FM-in-Sri-Lanka-tomorrow/56-781152) · `en`
-
-The Foreign Ministry yesterday said Italy’s Deputy Foreign Minister Maria Tripodi will be in Sri Lanka from tomorrow for a three-day official visit.
-
-According to the ministry, this will be the highest-level Italian visit to Colombo in nearly 10 years.
-
-During her stay, Tripodi and Deputy Foreign Minister Arun Hemachandra will jointly chair the first round of Sri Lanka–Italy Political Consultations. The two Governments are expected to sign a Memorandum of Understanding (MoU) to formalise a mechanism for regular political dialogue.
-
-Tripodi is also scheduled to meet Prime Minister Harini Amarasuriya and hold talks with Foreign Minister Vijitha Herath.
-
-◼️
-
-[Data](articles/6f325172.json)
-
----
-
-### Fort Railway Station to get ADB-fund Rs. 1.3 b upgrade
-
-*2025-09-03 05:17:44* · [`dailyftlk`](https://www.ft.lk/news/Fort-Railway-Station-to-get-ADB-fund-Rs-1-3-b-upgrade/56-781151) · `en`
-
-The Transport, Highways, Ports and Civil Aviation Ministry yesterday said that the Colombo Fort Railway Station will undergo a Rs. 1.3 billion renovation financed by the Asian Development Bank (ADB).
-
-According to the Ministry, tenders have already been invited, and the project is scheduled for completion within 15 months.
-
-The redevelopment will convert the Fort Railway Station into a modern transport hub with upgraded facilities, with work expected to begin before the end of this year.
-
-◼️
-
-[Data](articles/1dac74a0.json)
 
 ---

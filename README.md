@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-03 11:07:47**
+As of **2025-09-03 11:19:32**
 
 ## Newspaper Stats
 
-*Scraped **73,859** Articles*
+*Scraped **73,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 4,496
 islandlk | 4,542
 dailymirrorlk | 4,733
 dailyftlk | 5,246
-adalk | 7,125
+adalk | 7,126
 adaderanalk | 9,418
-tamilmirrorlk | 10,986
+tamilmirrorlk | 10,987
 virakesarilk | 12,069
-adaderanasinhalalk | 12,826
+adaderanasinhalalk | 12,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.9%) of 73,859 articles have been extended.
+61,973 (83.9%) of 73,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-03 (Wednesday)
+
+### ෂී ජිංපින් එක්සත් ජනපදයට එරෙහි කුමන්ත්‍රණයක බව ට්‍රම්ප් කියයි
+
+*2025-09-03 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214109) · `si`
+
+චීනයේ 80 වන විජයග්‍රාහී සැමරුමට සහභාගී වූ චීන ජනපති, ෂී ජිංපින් එක්සත් ජනපදයට එරෙහිව කුමන්ත්‍රණයක් සිදුකරන බවට අමෙරිකානු ජනපති ඩොනල්ඩ් ට්‍රම්ප් චෝදනා කර තිබේ.
+
+එම විජයග්‍රාහී සැමරුම පැවැත්වෙන අතරතුර ට්‍රම්ප් සිය සමාජ මාධ්‍ය ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+
+"ජනාධිපති ෂී ජිංපින්ට සහ චීනයේ ජනතාවට ශ්‍රේෂ්ඨ හා කල් පවතින සැමරුම් දිනයක් වේවා. ඔබ අමෙරිකා එක්සත් ජනපදයට එරෙහිව කුමන්ත්‍රණය කරන බැවින් කරුණාකර ව්ලැඩිමීර් පුටින්ට සහ කිම් ජොන් උන්ට මගේ උණුසුම් සුබ පැතුම් පිරිනමන්න."
+
+දෙවන ලෝක යුද්ධයේදී ජපානය චීනයට යටත් වීමේ 80 වන සංවත්සරය සනිටුහන් කළ හමුදා පෙළපාළිය අද (03) චීනයේ දී පැවැත්වුණි.
+
+චීන ජනාධිපති ෂී ජිංපින්, උතුරු කොරියානු නායක කිම් ජොන් උන් සහ රුසියානු ජනාධිපති ව්ලැඩිමීර් පුටින් මෙම යුද සැමරුමට සහාභාගී වී සිටීම විදෙස් මාධ්‍යයන්ගේ අවධානයට භාජනය වුණි.
+
+◼️
+
+[Data](articles/83a63941.json)
+
+---
+
+### கச்சதீவு...
+
+*2025-09-03 10:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கச்சதீவு/62-363946) · `ta`
+
+◼️
+
+[Data](articles/824f09b8.json)
+
+---
 
 ### கச்சதீவு...
 
@@ -75,6 +105,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8e0ee1a8.json)
+
+---
+
+### ශ්‍රී ලංකා - සිම්බාබ්වේ පළමු T20 තරගය අද
+
+*2025-09-03 10:20:21* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---සිම්බාබ්වේ-පළමු-T20-තරගය-අද/9-418241) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර පළමු විස්සයි 20 ක්‍රිකට් තරගය අද(03දා) පැවැත්වීමට නියමිතව තිබේ.
+
+මෙම තරගය මෙරට වේලාවෙන් අද පස්වරු 5ට ආරම්භ කිරීමට කටයුතු යොදා ඇත.
+
+දෙරට අතර පැවති එක්දින තරගාවලිය තරග දෙකට බිංදුවක් ලෙස ජයග්‍රහණය කිරීමට ශ්‍රී ලංකාව සමත් විය.
+
+◼️
+
+[Data](articles/6fc3529c.json)
 
 ---
 
@@ -1741,61 +1787,5 @@ Rs 74,000 million Treasury bills are to be issued through an auction on Wednesda
 ...
 
 [Data](articles/daf43931.json)
-
----
-
-### විදුලිය ප්‍රතිව්‍යුහගතකරණය ගැන ඇමති හා වෘත්තීය සමිති අතර සාකච්ඡාවක්
-
-*2025-09-02 16:26:19* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-ප්‍රතිව්‍යුහගතකරණය-ගැන-ඇමති-හා-වෘත්තීය-සමිති-අතර-සාකච්ඡාවක්/11-418230) · `si`
-
-විදුලිබල ප්‍රතිව්‍යුහගතකරණ වැඩපිලිවෙලේ ක්‍රියාත්මක නවතම තත්වයත්, විශේෂයෙන්ම සේවක පාර්ශවය ඉදිරිපත් කරන විවේචන ඇතුළු කරුණු පිළිබඳ සාකච්ඡාවක් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා සහ විදුලිබල මණ්ඩල වෘත්තීය සමිති නියෝජිතයින් අතර අද (02) පෙරවරුවේ පැවැත්විණි.
-
-මෙහිදී අදහස් දැක්වූ අමාත්‍යවරයා, ප්‍රතිව්‍යුහගතකරණ වැඩපිළිවෙල පුරා හැකි සෑම අවස්ථාවකදීම විදුලිබල මණ්ඩල සේවකයින්ගේ අදහස්, උදහස් හා දුක්ගැනවිලිවලට ඇහුම්කන් දෙමින්, මතුවූ කරුණුවලට අවධානය යොමු කරමින් ක්‍රියා කළ බවද, ඉදිරියටද මේ තත්වය පවත්වාගෙන යෑම තම අපේක්ෂාව බවත්, ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/fab97be0.json)
-
----
-
-### Sri Lanka stocks dip 0.34-pct, dragged down by banks
-
-*2025-09-02 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-0-34-pct-dragged-down-by-banks-239207/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed 0.34 percent lower due to profit taking, brokers said.
-
-“We are seeing a correction after the market went up by quite a lot,” a broker said.
-
-The ASPI dropped 71.78 points on Tuesday to close at 20,990.67; while the S&P SL20 index dipped 0.72 percent, or 43.75 points, to close at 6,027.61.
-
-Investor interest surrounding the bank and capital goods sectors was weaker on Tuesday.
-
-Weighing down the ASPI were; Ceylon Tobacco Company which ended 59.50 rupees lower at 1,609.50; Commercial Bank down 1.50 rupees at 193.25; National Development Bank down 2.50 rupees at 141.50; John Keells Holdings down 20 cents at 22.80 rupees; and DFCC Bank down 2.25 rupees at 159.
-
-Elsewhere, Indian equity markets “reversed gains on Tuesday, as an expiry-driven pullback in financials overpowered a broad-based rally, while investors looked forward to a key Goods and Services Tax (GST) Council meeting later this week,” Reuters said.
-
-...
-
-[Data](articles/5e3b6efa.json)
-
----
-
-### හිටපු ඇමති අනුර ප්‍රියදර්ශනට එරෙහි නඩුව ගැන පොලීසියෙන් අධිකරණයට දැනුම්දීමක්
-
-*2025-09-02 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214084) · `si`
-
-හිටපු ඛනිජතල් විෂය භාර අමාත්‍ය අනුර ප්‍රියදර්ශන යාපා ඔහුගේ බිරිඳ ඇතුළු විත්තිකරුවන් පිරිසකට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකර තිබෙන බව පොලීසිය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුන්නේය.
-
-2014 වසරේ දෙසැම්බර් මස ගංවතුර ආධාර සපයන බව සඳහන් කරමින් අනීතික ලෙස තෙල් නීතිගත සංස්ථාවට අයත් රුපියල් ලක්ෂ 61 කට අධික මුදලක් වැය කිරීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කිරීම ඇතුළු චෝදනා යටතේ මෙම නඩුව ගොනු කර ඇත.
-
-මෙම පැමිණිල්ල කොළඹ අතිරේක මහෙස්ත්‍රාත් ලියාන් වරුෂවිතාන මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට දැනුම් දුන්නේ මෙම විත්තිකරුවන්ට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අධි චෝදනා ගොනු කර ඇති බවය.
-
-ඒ අනුව නොතිසි ලද විට මහාධිකරණය හමුවේ පෙනී සිටින ලෙස විත්තිකරුවන්ට නියම කළ මහේස්ත්‍රාත්වරයා අනතුරුව නඩු කටයුතු අවසන් කිරීමට නියම කළේය.
-
-◼️
-
-[Data](articles/8d295fc5.json)
 
 ---

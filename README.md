@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 14:09:46**
+As of **2025-09-04 14:23:08**
 
 ## Newspaper Stats
 
-*Scraped **74,133** Articles*
+*Scraped **74,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 4,507
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,163
+adalk | 7,164
 adaderanalk | 9,463
-tamilmirrorlk | 11,035
+tamilmirrorlk | 11,037
 virakesarilk | 12,121
-adaderanasinhalalk | 12,878
+adaderanasinhalalk | 12,879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,133 articles have been extended.
+61,973 (83.6%) of 74,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ’கேபிள் கார்’  தடம் புரண்டதில்  15 பேர் பலி
+
+*2025-09-04 14:04:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கேபிள்-கார்-தடம்-புரண்டதில்-15-பேர்-பலி/50-364036) · `ta`
+
+ஐரோப்பிய நாடான போர்த்துக்கல்லின் தலைநகர் லிஸ்பனில் குளோரியா புனிகுலர் கேபிள் கார் தடம் புரண்டு விபத்துக்குள்ளானதில் 15 பேர் உயிரிழந்துள்ளதாகவும் 18 பேர் காயமடைந்துள்ளனர் என்றும்  அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+மேலும் இந்த விபத்தில் 5 பேர் நிலைமை மிகவும் ஆபத்தான நிலையில் மருத்துவமனையில் சிகிச்சை பெற்று வருகின்றனர். இதனால் பலி எண்ணிக்கை அதிகரிக்கும் என அஞ்சப்படுகிறது.
+
+மேடான தண்டவாளப் பகுதியில் கீழ்நோக்கிச் சென்றுகொண்டிருந்தபோது, கேபிள் கார் கட்டடம் ஒன்றின் மீது மோதியததாகச் சம்பவத்தை நேரில் கண்ட ஒருவர் தெரிவித்துள்ளார். அந்த கேபிள் காரில் சுமார் 40 பேர் பயணம் செய்ய முடியும் என்று கூறப்படுகிறது.
+
+கேபிள் கார் செலுத்தும் கம்பி (cable) வலுவிழந்து போனதால் விபத்து நிகழ்ந்ததாக லிஸ்பன் தீயணைப்பாளர்கள் கூறியுள்ளனர்.
+
+விபத்தில் உயிரிழந்தவர்களில் காரில் இருந்தவர்கள், அருகிலிருந்த பாதசாரிகள் ஆகியோர் அடங்குவர் என்றும் நியூயோர்க் டைம்ஸ் குறிப்பிட்டுள்ளது.
+
+1885ஆம் ஆண்டு திறக்கப்பட்ட சம்பந்தப்பட்ட ‘ஃபனிக்கியூலர்’ கேபிள் கார், லிஸ்பனின் மத்தியப் பகுதியையும் பைரோ அல்டோ (Bairro Alto) பகுதியையும் இணைக்கிறது.
+
+...
+
+[Data](articles/169bf1cd.json)
+
+---
+
+### ඩිජිටල් සේවා බද්ද  පැනවීම කල් යයි
+
+*2025-09-04 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214166) · `si`
+
+2025 අංක 4 දරන එකතු කළ අගය මත බදු (සංශෝධන) පනත මඟින් 2025‑10‑01 දින සිට බලපැවැත්වෙන පරිදි නිර්වාසික තැනැත්තෙකු (Non‑resident) විසින් ඩිජිටල් සේවා සැපයීම එකතු කළ අගය මත බද්දට යටත් කර තිබේ.
+
+කෙසේ වුවද, ඩිජිටල් සේවාවන් සඳහා එකතු කළ අගය මත බද්ද අය කිරීමේ දී එයට අනුකූල වීම සඳහා සූදානම් වීමට අමතර කාලයක් ලබා දෙන ලෙස ප්‍රායෝගික හේතූන් කිහිපයක් දක්වමින් නිර්වාසික ඩිජිටල් සේවා සපයන්නන් විසින් ඉල්ලා ඇත.
+
+ඒ අනුව, 2025‑10‑01 දින වෙනුවට අදාළ බද්ද බලාත්මක කිරීමේ දිනය 2026‑04‑01 ලෙස සංශෝධනය කිරීමටත්, ඒ සඳහා අදාළ සංශෝධිත විධිවිධාන දැනටමත් කෙටුම්පත් කෙරෙමින් පවතින එකතු කළ අගය මත බදු පනත සංශෝධනය කිරීම සඳහා වන කෙටුම්පතට ඇතුළත් කිරීමටත් මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍ය වශයෙන් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව සඳහා අමාත්‍ය මණ්ඩලයේ ප්‍රතිපත්තිමය අනුමැතිය ලබා දෙන ලදී.
+
+◼️
+
+[Data](articles/ff0b7ef1.json)
+
+---
+
+### காரில் பிரதமர் மோடியுடன் பேசியது என்ன? : புட்டின்
+
+*2025-09-04 13:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காரில்-பிரதமர்-மோடியுடன்-பேசியது-என்ன-புட்டின்/50-364035) · `ta`
+
+சீனாவில் நடந்த எஸ்​சிஓ மாநாட்டிலிருந்து காரில் சென்றபோது பிரதமர் மோடியுடன் பேசியது குறித்து ரஷ்ய ஜனாதிபதி புட்டின் பகிர்ந்துள்ளார்.
+
+சீனா​வின் தியான்​ஜின் நகரில் ஷாங்​காய் ஒத்​துழைப்பு அமைப்​பின் (எஸ்​சிஓ) 2 நாள் உச்சி மாநாடு செப். 31 மற்றும் ஆக.1 இரண்டு நாட்கள் நடைபெற்றது.
+
+இதில் பிரதமர் மோடி, ரஷ்ய ஜனாதிபதி புட்டின், சீன ஜனாதிபதி ஜி ஜின்பின் கலந்து கொண்ட்னர். இந்த மாநாடு நிறைவடைந்த நிலை​யில், இந்​தியா - ரஷ்யா இடையே இருதரப்பு பேச்​சு​வார்த்தை நடத்து​வதற்​காக பிரதமர் மோடி​யும் புதினும் ஒரே காரில் பயணித்து கூட்​டம் நடை​பெறும் அரங்​குக்கு சென்​றனர். இது சமூக வலைதளங்களில் பேசுபொருளானது. காருக்குள் இருவரும் என்ன பேசினார்கள் என்ற விவாதம் நடைபெற்று வந்தது.
+
+காரணம் பிரதமர் மோடிக்காக 15 நிமிடங்கள் காத்திருந்து ரஷ்ய ஜனாதிபதி புட்டின் தனது காரில் அழைத்துச் சென்றார். கூட்டம் நடைபெறும் இடத்தை அடைவதற்கான பயணம் 15 நிமிடங்கள் மட்டுமே. ஆனால் அவர்கள் தங்கள் உரையாடலைத் தொடர காரில் கூடுதலாக 45 நிமிடங்கள் செலவிட்டனர்.
+
+...
+
+[Data](articles/4dfeca8c.json)
+
+---
 
 ### நாடகமாடியவருக்கு விளக்கமறியல்
 
@@ -81,6 +137,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0d62c741.json)
+
+---
+
+### විදුලිබල වෘත්තීය සමිති අද මධ්‍යම රාත්‍රියේ සිට වෘත්තීය සමිති ක්‍රියාමාර්ගයක් අරඹයි
+
+*2025-09-04 13:21:20* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-වෘත්තීය-සමිති-අද-මධ්‍යම-රාත්‍රියේ-සිට-වෘත්තීය-සමිති-ක්‍රියාමාර්ගයක්-අරඹයි/11-418277) · `si`
+
+විදුලිබල මණ්ඩලයේ වෘත්තීය සමිති අද (04දා) මධ්‍යම රාත්‍රීයේ සිට අකුරට වැඩ කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයකට එළැඹීමට තීරණය කර තිබේ.
+
+ඒ සම්බන්ධයෙන් ලංකා විදුලිබල මණ්ඩලයේ නිදහස් සේවක සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් ප්‍රියන්ත මහතා වැඩිදුරටත් මෙලෙස අදහස් දක්වා සිටියේය.
+
+“දැනට ආණ්ඩු පක්ෂය නියෝජනය කරන වෘත්තීය සමිතිය හැරෙන්න අනිත් සියලුම වෘත්තීය සමිති අද මධ්‍යම රාත්‍රී 12 සිට ලංකා විදුලිබල මණ්ඩලයේ විදුලි ඉංජිනේරුවරු , විදුලි අධිකාරීවරු, කාර්මික ශ්‍රේණියේ සියලුම දෙනා එක්ක අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයකට එළැඹෙනවා. යෝජනා 21ක ලියවිල්ලක් ඊයේ දවසේදී අමාත්‍යාංශයට භාර දුන්නා. මේකට පැහැදිලි ප්‍රතිචාරයක් අමාත්‍යාංශය පැත්තෙන් ලැබෙන්නේ නැත්නම් 16 සිට 21 වැනිදා වෙනකන්  මේ අකුරට වැඩ කිරීමේ ක්‍රියාමාර්ගයේ දෙවැනි අධියරට අපි යනවා. ඒක මීට වඩා පොඩ්ඩක් දරුණු වෙනවා. 21 වැනිදායින් පස්සෙත් අපිට මේකට උත්තරයක් නැත්නම් පැහැදිලිවම මේ රටේ විදුලි පාරිභෝගිකයන් අපහසුතාවයට පත්වෙන කාරණයකට අපිට කණගාටුවෙන් වුණත් යන්න වෙනවා. ”
+
+◼️
+
+[Data](articles/ee8ff1eb.json)
 
 ---
 
@@ -1757,73 +1829,5 @@ The Human Rights Commission of Sri Lanka (HRCSL) conducted a fact-finding missio
 ...
 
 [Data](articles/c3a5e9a7.json)
-
----
-
-### Companies (Amendment) Act No. 12 of 2025: Legal reforms and comparative insights
-
-*2025-09-04 03:53:27* · [`dailyftlk`](https://www.ft.lk/columns/Companies-Amendment-Act-No-12-of-2025-Legal-reforms-and-comparative-insights/4-781222) · `en`
-
-The enactment of the Companies (Amendment) Act No. 12 of 2025 marks a significant development in Sri Lanka’s corporate legal framework. Certified on 4 August 2025, this amendment to the Companies Act No. 07 of 2007 introduces a series of legal reforms aimed at enhancing corporate transparency, governance, and compliance with international standards.
-
-This article outlines the key functional changes introduced by the amendment, assesses their implications for companies operating in Sri Lanka, and provides a comparative overview with Australia’s Corporations Act 2001, a benchmark from a developed jurisdiction.
-
-Companies (excluding those limited by guarantee) may now be incorporated with a single shareholder. This shareholder may be a natural person, a corporate entity, or the Secretary to the Treasury.
-
-The issuance of bearer shares and share warrants to bearer is now prohibited. Existing bearer instruments must be converted to registered shares within 60 days.
-
-...
-
-[Data](articles/5cbfd07f.json)
-
----
-
-### யக்கல காரியாலயம் பலவந்தமாக கைப்பற்றல் கண்டனம் – விமல் வீரவன்ச
-
-*2025-09-04 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224148) · `ta`
-
-முன்னிலை சோசலிசக் கட்சியின் யக்கல காரியாலயத்தை மக்கள் விடுதலை முன்னணியினர் பலவந்தமாக கைப்பற்றியுள்ளமை வன்மையாக கண்டிக்கத்தக்கது என தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச அறிக்கை வெளியிட்டுள்ளார்.
-
-அரச நிர்வாக கட்டமைப்பில் உள்ள மக்கள் விடுதலை முன்னணியினர் இவ்வாறான செயற்பாட்டை முன்மாதிரியாகக் கொண்டு சட்டத்தை கையில் எடுத்தால் அரசியலமைப்புடனான சர்வாதிகார நிலைமை தோற்றம் பெறும் என்பதை சகல அரசியல் தரப்பினரும் கவனத்திற் கொள்ள வேண்டும் எனவும் வலியுறுத்தியுள்ளார்.
-
-மக்கள்  விடுதலை முன்னணியின் பிரதி அமைச்சர்,பாராளுமன்ற உறுப்பினர்கள் இருவர் உட்பட மேலும் 40 பேர் ,முன்னிலை சோசலிசக் கட்சியின் யக்கல பகுதியில் உள்ள கட்சி காரியாலயத்துக்குள் பலவந்தமான முறையில் நுழைந்து,காரியாலயத்தை பலவந்தமான முறையில் கைப்பற்றியுள்ளமை வன்மையாக கண்டிக்கத்தக்கது.
-
-...
-
-[Data](articles/6c339419.json)
-
----
-
-### Sri Lanka’s SVAT abolition: Exporters call for urgent e-invoicing solution ahead of 1 Oct.
-
-*2025-09-04 03:50:24* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-SVAT-abolition-Exporters-call-for-urgent-e-invoicing-solution-ahead-of-1-Oct/14-781221) · `en`
-
-Exporters argue that electronic invoicing offers the most credible solution
-
-Sri Lanka’s export community is bracing for a major policy shift as the Government prepares to abolish the Suspended Value Added Tax (SVAT) system by 1 October 2025. The move is part of a broader transition from a risk-free VAT framework to a risk-based VAT system, with a pilot phase of electronic invoicing (e-invoicing) scheduled to begin soon.
-
-While exporters recognise the Government’s determination to proceed with reforms, they warn that without an effective e-invoicing system in place before the cut-off date, the industry risks a repeat of the chronic VAT refund delays that have long undermined competitiveness.
-
-For Sri Lanka’s largest exporters—particularly apparel manufacturers and tea exporters the lack of timely VAT refunds has been a recurring obstacle. Refund claims are often held up due to administrative delays, procedural ambiguity, and a lack of confidence among revenue officials.
-
-...
-
-[Data](articles/886d5746.json)
-
----
-
-### Every product tells a story: Why Life Cycle thinking could shape a greener Sri Lanka
-
-*2025-09-04 03:46:29* · [`dailyftlk`](https://www.ft.lk/opinion/Every-product-tells-a-story-Why-Life-Cycle-thinking-could-shape-a-greener-Sri-Lanka/14-781220) · `en`
-
-Ever wondered how much water it takes to produce a cotton shirt? Or what happens to your mobile phone after you throw it away? As conversations around climate change and sustainability intensify, more people from exporters to everyday consumers are beginning to look at the bigger picture. And in that picture, a tool called Life Cycle Assessment (LCA) is taking centre stage.
-
-LCA is not new. Globally, it’s been used for decades to understand the environmental cost of products and services, not just during use, but throughout their entire journey: from raw material extraction to manufacturing, transportation, consumption, and final disposal. In other words, from cradle to grave.
-
-Now, Sri Lanka is starting to explore how this concept, once confined to technical reports and research labs, can be applied in industries, classrooms, boardrooms, and even public conversations.
-
-...
-
-[Data](articles/5215179a.json)
 
 ---

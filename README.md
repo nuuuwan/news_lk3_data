@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 17:32:46**
+As of **2025-09-04 17:54:29**
 
 ## Newspaper Stats
 
-*Scraped **74,177** Articles*
+*Scraped **74,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,169
 adaderanalk | 9,472
 tamilmirrorlk | 11,041
 virakesarilk | 12,123
-adaderanasinhalalk | 12,889
+adaderanasinhalalk | 12,890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,177 articles have been extended.
+61,973 (83.5%) of 74,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### නයිජීරියාවේ බෝට්ටුවක් පෙරළී 60ක් මරුට
+
+*2025-09-04 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214177) · `si`
+
+උතුරුදිග නයිජීරියාවේ ගංගාවක මගී ප්‍රවාහන යාත්‍රාවක් පෙරළී යාමෙන් අනතුරක් සිදුව තිබේ.
+
+එරට වාර්තා සඳහන් කළේ අනතුරින් පුද්ගලයින් 60 දෙනෙකු මියගොස් ඇති බවය.
+
+ගංගාවේ ගිලී තිබූ ගසක කොටසක ගැටී අනතුර සිදුව තිබූ අතර ඒ වන විටත් යාත්‍රාවේ ධාරිතාව ඉක්මවා සියයකට වැඩි මගීන් පිරිසක් එහි යාත්‍රා කරමින් සිට තිබුණි.
+
+අනතුරින් මියගිය පිරිස අතර ළමුන්ද සිටින බව එරට වාර්තා සඳහන් කළේය.
+
+එහිදී ගංගාවේ ගිලෙමින් සිටි කිහිප දෙනෙකු බේරා ගැනීමට බලධාරීන්ට හැකිව ඇති අතර අනතුරින් අතුරුදන් පිරිස් සොයා මෙහෙයුම් ක්‍රියාත්මකයි.
+
+◼️
+
+[Data](articles/00b6eb0f.json)
+
+---
 
 ### වාර්තා අලුත්කළ හරාරේ ක්‍රීඩාංගණය
 
@@ -1825,25 +1845,5 @@ Accordingly, the results can be viewed on the department’s official website: w
 ◼️
 
 [Data](articles/8f1442c2.json)
-
----
-
-### UAE warns Israel that annexing West Bank would cross ‘red line’
-
-*2025-09-04 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112162/uae-warns-israel-that-annexing-west-bank-would-cross-red-line) · `en`
-
-The United Arab Emirates has warned Israel that annexing the occupied West Bank would cross a “red line” and undermine the spirit of the Abraham Accords that normalised relations between the two countries.
-
-A senior Emirati official, Lana Nusseibeh, said such a move would be the death knell of the two-state solution to the Israeli-Palestinian conflict.
-
-The Palestinian Authority’s foreign ministry said it welcomed the UAE’s position.
-
-The Israeli government has not commented. But Nusseibeh’s remarks came after far-right Finance Minister Bezalel Smotrich unveiled a proposal for the annexation of approximately four-fifths of the West Bank.
-
-Israel has built about 160 settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem - land Palestinians want, along with Gaza, for a hoped-for future state - during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them.
-
-...
-
-[Data](articles/0855665d.json)
 
 ---

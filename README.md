@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 16:32:56**
+As of **2025-09-04 16:49:53**
 
 ## Newspaper Stats
 
-*Scraped **74,157** Articles*
+*Scraped **74,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,507
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,166
-adaderanalk | 9,470
+adalk | 7,168
+adaderanalk | 9,472
 tamilmirrorlk | 11,041
 virakesarilk | 12,123
 adaderanasinhalalk | 12,884
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,884
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,157 articles have been extended.
+61,973 (83.6%) of 74,161 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7eb3f951.json)
+
+---
+
+### Russian woman arrested for operating business while on tourist visa
+
+*2025-09-04 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112181/russian-woman-arrested-for-operating-business-while-on-tourist-visa) · `en`
+
+A 29-year-old Russian woman has been arrested by the Unawatuna Tourist Police Unit for allegedly engaging in business activities while residing in Sri Lanka on a tourist visa.
+
+According to preliminary investigations, the woman had been operating a hotel and a restaurant in the Unawatuna area as a night club, in violation of visa rules.
+
+Following her arrest, the Russian woman has been handed over to the Habaraduwa Police Station for further investigations, police said.
+
+The arrested foreign national is scheduled to be produced before the Galle Magistrate’s Court tomorrow (5).
+
+◼️
+
+[Data](articles/668a98bf.json)
 
 ---
 
@@ -99,6 +117,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3cc08f98.json)
+
+---
+
+### ධාවනයට නුසුදුසු ලොරියක් පොලිස් භාරයට
+
+*2025-09-04 15:51:30* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනයට-නුසුදුසු-ලොරියක්-පොලිස්-භාරයට/11-418281) · `si`
+
+ධාවනයට නොසුදුසු තත්වයේ පවතින ලොරි රථයක් ධාවනය කරමින් සිටියදී ගිනිගත්හේන පොලිසියේ රථවාහන අංශයේ නිළධාරින් පිරිසක් විසින් (04) දින පොලිස් භාරයට ගෙන රියදුරු ඇප මත මුදාහැර ඇත.
+
+කිතුල්ගල සිට බගවන්තලාව ප්‍රදේශයට දර ප්‍රවාහනය සදහා යොදා ගෙන තිබූ එම ලොරි රථය (04) දින බගවන්තලාව ප්‍රදේශයේ තේවතු යායකට දර ප්‍රවානය කර ආපසු කිතුල්ගල දක්වා ලොරි රථය ධාවනය කරවන අවස්ථාවේ ගිනිගත්හේන පොලිසියේ රථවාහන අංශයේ සැරයන් ධර්මතිලක (55617) විසින් ලොරි රථය නතර කර පරික්ෂා කර බලා ලොරි රථය පොලිස් භාරයට ගෙන ඇත.
+
+පොලිස් භාරයට ගැනුනු ලොරි රථය නුවරඑලිය දිස්ත්‍රික් මොටර් රථ පරික්ෂකවරයාට ඉදිරිපත් කර වාර්ථාවක් ලබා ගෙන ලොරි රථය හැටන් මහේස්ත්‍රාත් අධිකරණය වෙත කරුණු වාර්ථා කරන බවයි ගිනිගත්හේන පොලිසියේ රථවාහන අංශයේ නිළධාරින් කියා සිටියේ.
+
+◼️
+
+[Data](articles/893d3f97.json)
 
 ---
 
@@ -185,6 +219,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/937ea795.json)
+
+---
+
+### ඉන්දීය දඟපන්දු යවන්නෙක් පිටියට සමුදෙයි
+
+*2025-09-04 14:47:21* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-දඟපන්දු-යවන්නෙක්-පිටියට-සමුදෙයි/9-418280) · `si`
+
+ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායමේ හිටපු දඟපන්දු යවන ක්‍රීඩක අමිත් මිශ්‍රා සිය වෘත්තීය ක්‍රිකට් දිවියට සමුදෙන බව ප්‍රකාශ කර ඇත. 42 හැවිරිදි මිශ්‍රා ටෙස්ට් තරග 22 ක්. එක්දින තරග 36 ක් හා විස්සයි20 තරග 10 ක් ඉන්දියාව නියෝජනය කරමින් ජාත්‍යන්තර කඩුළු 156 ක් දවා ගැනීමට සමත්වී ඇත.
+
+2017  වසරේදී අවසන් වරට ඉන්දීය කණ්ඩායම නියෝජනය කළත්  මිශ්‍රා 2024 වසර දක්වාම අයි.පී.එල්. තරගාවලිය නියෝජනය කලේය. ඔහු 2008 වසරේදී ජාත්‍යන්තර පිටියට පැමිණෙමින් එම වසරේදීම අයි.පී.එල්. වරම්ද හිමිකර ගත් මිශ්‍රා අයි.පී.එල් තරග 162 කදී කඩුළු 174 ක් දවා ගැනිමට සමත්වුයේ එහි වැඩිම කඩුළු ලාබීන් අතර  8 වැනි ස්ථානයේ පසුවෙමිනි.
+
+◼️
+
+[Data](articles/8f9136bd.json)
 
 ---
 
@@ -1610,6 +1658,28 @@ There were also 125 complaints regarding child trafficking, and 82 complaints re
 
 ---
 
+### 44 complaints related to teenage pregnancies lodged in first seven months of 2025
+
+*2025-09-04 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112158/44-complaints-related-to-teenage-pregnancies-lodged-in-first-seven-months-of-2025) · `en`
+
+The National Child Protection Authority (NCPA) states that 44 complaints related to teenage pregnancies have been received during the first seven months of this year.
+
+The Authority pointed out that these complaints were received during the period from January 1 to July 31 of this year.
+
+During this period, the NCPA received a total of 5,461 complaints related to children, out of which 4,501 fall under the National Child Protection Authority Act, while 960 complaints are not covered by the Act.
+
+During the first seven months of this year, the NCPA received 141 complaints related to serious sexual abuse of children, 330 complaints of sexual harassment, and 32 complaints of rape.
+
+The highest number of complaints during this period were related to child cruelty, totaling 1,126, the NCPA stated.
+
+There were also 125 complaints regarding child trafficking, and 82 complaints related to child labor.
+
+...
+
+[Data](articles/e01e3199.json)
+
+---
+
 ### මේ වසරේ පළමු මාස 07 තුළ ළමා ගැබ් ගැනීම් 44ක්
 
 *2025-09-04 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214148) · `si`
@@ -1763,85 +1833,5 @@ The suspect also disclosed that approximately 2,000 kilograms of chemical substa
 ◼️
 
 [Data](articles/59a65f4d.json)
-
----
-
-### ’அமைதி அல்லது போர் இரண்டில் ஒன்று’
-
-*2025-09-04 07:02:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமைதி-அல்லது-போர்-இரண்டில்-ஒன்று/50-364002) · `ta`
-
-அமைதி அல்லது போர் இரண்டில் ஒன்றை தேர்வு செய்ய வேண்டிய நிலையில் தற்போது உலகம் இருக்கின்றது என இரண்டாம் உலகப் போரில் வெற்றி பெற்றதன் 80 ஆம் ஆண்டு வெற்றி விழா இராணுவ அணிவகுப்புப் பேரணியில் சீன ஜனாதிபதி ஜி ஜின்பிங் தெரிவித்துள்ளார்.
-
-இரண்டாம் உலகப் போரின்போது ஜப்பானுக்கு எதிரான போரில் சீனா வெற்றி பெற்றதன் 80 ஆம் ஆண்டு வெற்றி விழா தலைநகர் பீஜிங்கில் உள்ள தியானன்மென் சதுக்கத்தில் நேற்று கொண்டாடப்பட்டது. மிகப் பிரம்மாண்டமான முறையில் நடத்தப்பட்ட இந்த வெற்றி விழாவில், ஜனாதிபதி ஜி ஜின்பிங்கின் அழைப்பை ஏற்று ரஷ்ய ஜனாதிபதி விளாடிமிர் புடின், வட கொரிய தலைவர் கிம் ஜோங் உன், இந்தோனேஷிய ஜனாதிபதி பிரபோவோ சுபியாண்டோ உள்பட பலர் கலந்து கொண்டனர்.
-
-...
-
-[Data](articles/8a56535b.json)
-
----
-
-### Sri Lanka renewable power share reaches 73-pct in June
-
-*2025-09-04 07:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-renewable-power-share-reaches-73-pct-in-june-239467/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s renewable power generation hit 73 percent in June 2025, up from 62 percent last year, helped by sharply higher hydro power generation by the Ceylon Electricity Board and solar and other private renewable, official data shows.
-
-In June 2026 CEB’s hydro generation grew 33.8 percent to 626 GigaWatt hours, making up 33.8 percent of energy, overtaking coal.
-
-Private renewable power made up solar, wind and mini hydro grew 28.7 percent to 413 GWh.
-
-CEB’s own wind plant generated 52GWh of power in June, down from 62GWh in May.
-
-Total renewable energy generated topped 1,091 GWh, out of a total of 1,495GWh or 73 percent.
-
-CEB’s coal plant generated 359GWh of energy, down 23-pct from last year. Fuel oil was down 36 percent to 24 GWh.
-
-The CEB has a target of generating 70 percent renewable energy by 2030.
-
-Though the South West monsoon may give extra renewable power including through wind, Sri Lanka’s solar power including rooftop has grown steadily.
-
-...
-
-[Data](articles/e8a9dc9b.json)
-
----
-
-### දුම්රිය අංගනයෙන් හමු වූ බිළිඳු මළසිරුර ජාතික රෝහලේ දී අතුරුදන්
-
-*2025-09-04 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214146) · `si`
-
-දෙමටගොඩ මාලිගාවත්ත දුම්රිය අංගනයේ දුම්රියක වැසිකිලියක් තුළ තිබී සොයාගත් බිළිඳු මළසිරුර කොළඹ ජාතික රෝහලේ මෘත ශරීරාගාරයෙන් අතුරුදන් වී ඇති බව පොලීසිය පවසයි.
-
-පසුගිය අගෝස්තු පළමු දින අදාළ බිළිඳු මළ සිරුර සොයාගත් අතර පසුව එය කොළඹ ජාතික රෝහලේ මෘත ශරීරාගාරය වෙත භර දී තිබුණි.
-
-ජාතික රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර තිබු එම මළ සිරුර සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමට යාමේදී එම මළ සිරුර නොතිබූ බව දෙමටගොඩ පොලීසිය පවසයි.
-
-මේ සම්බන්ධයෙන් දෙමටගොඩ පොලීසිය කළ දැනුම්දීමකට අනුව විමර්ශනයක් ආරම්භ කළ බව මරදාන පොලීසිය සඳහන් කළේය.
-
-අද දිනයේ දී මේ සම්බන්ධයෙන් මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත කරුණු වාර්තා කරන බව ද මරදාන පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/fd4053de.json)
-
----
-
-### At least 15 killed in crash on Lisbon’s historic cable car railway
-
-*2025-09-04 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112154/at-least-15-killed-in-crash-on-lisbons-historic-cable-car-railway) · `en`
-
-At least 15 people died and 18 were injured on Wednesday (Sep 3) when Lisbon’s Gloria funicular railway car derailed and crashed, an emergency medical service spokesperson told reporters.
-
-The cable car railway is popular with tourists and is one of the city’s symbols. Authorities did not identify the victims or disclose their nationalities, but said some foreign nationals were among the dead. Five people were gravely injured, the spokesperson said.
-
-“It’s a tragic day for our city ... Lisbon is in mourning, it is a tragic, tragic incident,” Carlos Moedas, mayor of the Portuguese capital, told reporters.
-
-Portugal’s government declared a day of national mourning on Thursday.
-
-Footage from the site showed the destroyed yellow tram-like funicular, which carries people up and down a steep hillside in the Portuguese capital. Emergency workers were pulling people out of the wreckage.
-
-...
-
-[Data](articles/5c4a578e.json)
 
 ---

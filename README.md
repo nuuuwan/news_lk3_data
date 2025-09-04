@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 12:25:43**
+As of **2025-09-04 12:36:31**
 
 ## Newspaper Stats
 
-*Scraped **74,116** Articles*
+*Scraped **74,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adalk | 7,161
 adaderanalk | 9,460
 tamilmirrorlk | 11,030
 virakesarilk | 12,118
-adaderanasinhalalk | 12,874
+adaderanasinhalalk | 12,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,116 articles have been extended.
+61,973 (83.6%) of 74,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### වියත්පුර නිවාස ලබාදීමේ දී පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට ලබාදුන් සහන ඉවතට
+
+*2025-09-04 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214162) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන් විසින් 'වියත්පුර' නිවාස ව්‍යාපෘතියෙන් නිවාස මිලදී ගැනීමේ දී ලබාදී ඇති සහන ඉවත් කිරීමට කැබිනට් මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/26e16f91.json)
+
+---
+
+### ලිස්බන් දුම්රිය පීලි පැනීමෙන් 15කට දිවි අහිමිවෙයි
+
+*2025-09-04 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214161) · `si`
+
+ලිස්බන් අගනුවර ප්‍රධාන සංචාරක ආකර්ෂණයක් වන වසර 140ක් පැරණි ග්ලෝරියා ෆර්නිකුලර් දුම්රිය පීලි පැනීමෙන් පුද්ගලයින් 15 දෙනෙකු මිය ගොස් ඇත.
+
+තවත් 18 දෙනෙකු රෝහල් ගත කර ඇති අතර, ඉන් පස් දෙනෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය පවසයි.
+
+ඊයේ සවස 4.5ට පමණ සිදු වී ඇති මෙම අනතුරින් ජාතිකත්වය තහවුරු කළ නොහැකි මියගිය අය අතර විදේශිකයන් ද සිටි බව බලධාරීන් පැවසීය.
+
+පෘතුගාල රජය ඊයේ ජාතික ශෝක දිනයක් ලෙසට ද ප්‍රකාශයට පත් කර තිබුණි.
+
+◼️
+
+[Data](articles/ae05c3ae.json)
+
+---
 
 ### ஜி ஜின்பிங்- புட்டின் பேசிக்கொண்ட சுவாரஸ்யம்
 
@@ -212,7 +242,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112169/cabinet-approves-proposal-to-close-33-soes-under-two-stages) · `en`
 
-The Cabinet of Ministers has granted approval to the proposal for the liquidation and closure of 33 state-owned enterprises under two stages.
+The Cabinet of Ministers has approved a proposal presented by President Anura Kumara Dissanayake, in his capacity as the Minister of Finance, Economic Stabilization, and National Policy, to formally close down 33 non-operational State-Owned Enterprises (SOEs) as part of Phase 2 of the government’s state-sector reform program.
+
+The closures will be carried out systematically after the establishment of a Special Liquidation Unit under the Ministry of Finance.
+
+The decision has been taken with the objective of eliminating wastage, improving fiscal discipline, and redirecting resources toward more productive sectors.
+
+This decision aligns with the government’s broader strategy to streamline the public sector, reduce state expenditure, and enhance the efficiency and accountability of public enterprises, said the Cabinet Spokesman Dr. Nalinda Jayatissa.
+
+According to the Cabinet Minister following institutions will be closed under the first stage.
 
 ◼️
 
@@ -326,7 +364,13 @@ Accordingly, the bench stated that it will be dismissed without taking it into c
 
 The Cabinet of Ministers has granted approval to the proposal to issue a new circular regarding the admission of students from Grade 2 to Grade 11, excluding Grades 5 and 6, in government schools.
 
-◼️
+The decision has been taken considering the need to implement the proposed new education reforms and to maintain the number of students per classroom within the approved limits.
+
+Therefore, it has been recognized that an appropriate mechanism should be introduced to allow student admissions to intermediate grades—excluding Grades 5 and 6—while safeguarding every child’s right to education in the country, Cabinet Spokesman Dr. Nalinda Jayatissa stated.
+
+Taking these factors into consideration, plans are in place to issue a new circular that provides guidelines for allowing students who genuinely need to transfer from one school to another for various reasons to apply for admission, giving priority to such students, the Cabinet Spokesman added.
+
+...
 
 [Data](articles/26f825ae.json)
 
@@ -1761,37 +1805,5 @@ Mix equal parts of potato and cucumber juice, and add a teaspoon of aloe vera ge
 ...
 
 [Data](articles/7fcca847.json)
-
----
-
-### HNB General Insurance Certified™ as a Great Place To Work® in Sri Lanka
-
-*2025-09-03 23:24:00* · [`islandlk`](http://island.lk/hnb-general-insurance-certified-as-a-great-place-to-work-in-sri-lanka/) · `en`
-
-HNB General Insurance (HNBGI), one of Sri Lanka’s most dynamic and customer-focused general insurers, has been officially Great Place To Work® Certified™. This recognition is based entirely on employee’s anonymous feedback and marks a significant milestone in the company’s journey of building a workplace culture rooted in trust, belonging, and shared purpose.
-
-According to Great Place To Work®, “A great workplace is one in which employees – no matter who they are or what they do – experience a consistently positive environment characterized by trust in leadership, pride in their work, and meaningful relationships with colleagues.”
-
-A large majority of HNBGI employees affirmed these values, highlighting the company’s strong emphasis on inclusion, collaboration, career growth, and well-being. Employees described HNBGI as a place where people are not just valued but celebrated – both professionally and personally.
-
-...
-
-[Data](articles/5094d644.json)
-
----
-
-### Sadaharitha Plantations marks 23 years of leadership, innovation, and sustainable growth
-
-*2025-09-03 23:23:00* · [`islandlk`](http://island.lk/sadaharitha-plantations-marks-23-years-of-leadership-innovation-and-sustainable-growth/) · `en`
-
-Sri Lanka’s No.1 commercial forestry investment company and a global leader in agarwood production, Sadaharitha Plantations Limited proudly celebrates its 23rd anniversary this year, a milestone that reflects more than two decades of pioneering vision, innovation, and unwavering commitment to sustainable green investments.
-
-Adding to the significance of this celebration, Sadaharitha has achieved a historic industry first, surpassing an asset base of USD 1.05 billion — making it the only commercial forestry management company in Sri Lanka to reach this remarkable milestone.
-
-Established in 2002 to transform Sri Lanka’s green investment landscape, Sadaharitha has grown into a LKR 214 billion net asset value conglomerate, consistently delivering strong returns to over 50,000 investors. Over the past 23 years, the company has planted more than one million trees and disbursed LKR 1.7 billion in harvest returns, cementing its reputation as a trusted and results-driven investment partner.
-
-...
-
-[Data](articles/215d9a3b.json)
 
 ---

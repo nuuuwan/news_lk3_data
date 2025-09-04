@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 21:08:18**
+As of **2025-09-04 21:20:36**
 
 ## Newspaper Stats
 
-*Scraped **74,208** Articles*
+*Scraped **74,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,516
 islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,175
-adaderanalk | 9,475
+adalk | 7,176
+adaderanalk | 9,476
 tamilmirrorlk | 11,048
 virakesarilk | 12,131
-adaderanasinhalalk | 12,896
+adaderanasinhalalk | 12,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,208 articles have been extended.
+61,973 (83.5%) of 74,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### විදෙස් සංචිතයේ සුළු වැඩිවීමක්
+
+*2025-09-04 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214184) · `si`
+
+2025 අගෝස්තු මාසයේ දී ශ්‍රී ලංකා මහ බැංකුව සතු නිල සංචිත වත්කම් ප්‍රමාණය එක්සත් ජනපද ඩොලර් බිලියන 6.166ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මෙය 2025 ජූලි මාසය අවසානයේ දී සටහන්ව තිබූ ඩොලර් බිලියන 6.147ක සංචිත වත්කම් ප්‍රමාණය හා සැසඳීමේ දී 0.3% වර්ධනයකි.
+
+◼️
+
+[Data](articles/2332477f.json)
+
+---
 
 ### பிணை கோரி சஷீந்திர ராஜபக்ச மனு
 
@@ -47,6 +61,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2bd4e36a.json)
+
+---
+
+### Nine-hour water cut in Colombo and suburbs
+
+*2025-09-04 20:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112187/nine-hour-water-cut-in-colombo-and-suburbs) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour water cut, scheduled from 10:30 a.m. to 7:30 p.m. on Saturday (06), affecting several areas including Colombo.
+
+According to the NWSDB, the water cut will affect all areas from Colombo 01 to Colombo 15.
+
+In addition, the water cut will also affect the following areas:
+
+Battaramulla, Pelawatta, Hokandara, Koswatte, Thalawathugoda, Kotte, Rajagiriya, Mirihana, Madiwela, Nugegoda, Nawala, Kolonnawa, IDH, Kotikawatte, Angoda, Wellampitiya, Orugodawatte, Mulleriyawa, Maharagama, Boralesgamuwa, Dehiwala, Ratmalana, and Moratuwa.
+
+◼️
+
+[Data](articles/b855233b.json)
 
 ---
 
@@ -747,6 +779,24 @@ The arrests were made following a complaint lodged by a female student who had a
 ◼️
 
 [Data](articles/7eb3f951.json)
+
+---
+
+### අතුරුදහන් වු අයට ගෞරවණිය අවසානයක් දිය යුතුයි
+
+*2025-09-04 16:08:19* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදහන්-වු-අයට-ගෞරවණිය-අවසානයක්-දිය-යුතුයි/11-418283) · `si`
+
+අපේ රජය පරීක්ෂණ සිදු කරන්නේ ජනතාව වෙනුවෙන් මිස ජාත්‍යන්තර ප්‍රජාව සතුටු කරන්න  නොවෙයි.
+
+කුරුක්කලමඩම්  සිද්ධිය සම්බන්ධයෙන් පැමිණිලි ඇතිනම් ඉදිරිපත් කරන ලෙස අපි ජනතාවගෙන් ඉල්ලා සිටිනවා.
+
+මඩකලපුව, කලවංචිකුඩ්, කුරුක්කුලමඩම්හි සමුහ මිණි වළක් ඇති බවට පැමිණිලි ලැබී ඇති ස්ථාන අවට ප්‍රදේශය නිරීක්ෂනය  කරමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය,  නීතිඥ, හර්ෂණ නානායක්කාර මහතා පවසයි.
+
+අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මඩකලපුව, කලවංචිකුඩ්, කුරුක්කුලමඩම්හි සමුහ මිණි වළක් ඇති බවට පැමිණිලි ලැබී ඇති ස්ථාන අවට ප්‍රදේශය නිරීක්ෂනය කිරීමෙන් අනතුරුව අද ( 04) පෙරවරුවේ මාධ්‍ය වෙත  අදහස් පළ කරමින් අමාත්‍යතුමා මෙසේ සදහන් කළේය.
+
+...
+
+[Data](articles/1022a0a8.json)
 
 ---
 
@@ -1725,61 +1775,5 @@ Some of the firms mentioned were set up during successive Rajapaksa regimes, but
 ...
 
 [Data](articles/cd53425d.json)
-
----
-
-### பாடசாலைகளில் மாணவர்களை உள்வாங்கும் சுற்றறிக்கை இரத்து
-
-*2025-09-04 11:13:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-மாணவர்களை-உள்வாங்கும்-சுற்றறிக்கை-இரத்து/175-364018) · `ta`
-
-இதுவரை வெளியிடப்பட்டுள்ள ஆலோசனைச் சுற்றறிக்கைகளை இரத்துச்செய்து, புதிய சுற்றறிக்கையை வெளியிடுவதற்கு கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சராக பிரதமர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-பாடசாலைகளில் 5 மற்றும் 6 ஆம் தரங்கள் தவிர்ந்த 2 ஆம் தரம் தொடக்கம் 11 ஆம் தரம் வரை மாணவர்களை உள்வாங்கல் தொடர்பில் புதிய சுற்றறிக்கை வெளியிடப்படவுள்ளது.
-
-உத்தேசிக்கப்பட்டுள்ள கல்வி மறுசீரமைப்பை அமுல்படுத்துவதற்காக வகுப்பறையொன்றிலுள்ள மாணவர்களின் எண்ணிக்கையை அங்கீகரிக்கப்பட்டுள்ள எல்லைக்குள் மாத்திரம் பேண வேண்டியது அவசியமாகும்.
-
-அதனால்,நாட்டிலுள்ள அனைத்துப் பிள்ளைகளுக்கும் கல்விக்கான உரிமையை உறுதிப்படுத்தி, பாடசாலைகளில் 5 மற்றும் 6 ஆம் தரங்கள் தவிர்ந்த இடைநிலைத் தரங்களுக்கு மாணவர்களை உள்வாங்குவதற்கு வாய்ப்புக்களை வழங்குவதற்காக சரியான முறையை அறிமுகப்படுத்துவது பொருத்தமானதென அடையாளங் காணப்பட்டுள்ளது.
-
-...
-
-[Data](articles/0736e6f7.json)
-
----
-
-### Cabinet approves proposal to close 33 SOEs under two stages
-
-*2025-09-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112169/cabinet-approves-proposal-to-close-33-soes-under-two-stages) · `en`
-
-The Cabinet of Ministers has approved a proposal presented by President Anura Kumara Dissanayake, in his capacity as the Minister of Finance, Economic Stabilization, and National Policy, to formally close down 33 non-operational State-Owned Enterprises (SOEs) as part of Phase 2 of the government’s state-sector reform program.
-
-The closures will be carried out systematically after the establishment of a Special Liquidation Unit under the Ministry of Finance.
-
-The decision has been taken with the objective of eliminating wastage, improving fiscal discipline, and redirecting resources toward more productive sectors.
-
-This decision aligns with the government’s broader strategy to streamline the public sector, reduce state expenditure, and enhance the efficiency and accountability of public enterprises, said the Cabinet Spokesman Dr. Nalinda Jayatissa.
-
-According to the Cabinet Minister following institutions will be closed under the first stage.
-
-◼️
-
-[Data](articles/ce6f8f9a.json)
-
----
-
-### Court dismisses Midigama Ruwan’s petition to remove STF from Boossa Prison
-
-*2025-09-04 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112168/court-dismisses-midigama-ruwans-petition-to-remove-stf-from-boossa-prison) · `en`
-
-The Court of Appeal has dismissed a petition filed by J.A. Ruwan Kumara alias Midigama Ruwan, a notorious underworld leader, through his attorney, seeking an order to remove the officers of the Police Special Task Force (STF) from activities such as internal inspections of the Boossa High-Security Prison.
-
-The Court of Appeal issued this decision after considering the submissions made by Additional Solicitor General Shanil Kularatne, appearing for the Attorney General, that the relevant petition could not be maintained, said Ada Derana reporter.
-
-In announcing the decision, the Court of Appeal bench comprising President of the Court of Appeal Justice Rohantha Abeysuriya and Priyantha Fernando stated that the petitioner has failed to present adequate evidence to establish the cause of action stated in the petition.
-
-Accordingly, the bench stated that it will be dismissed without taking it into consideration.
-
-...
-
-[Data](articles/674d40a5.json)
 
 ---

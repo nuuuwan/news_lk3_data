@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 10:32:57**
+As of **2025-09-04 10:50:40**
 
 ## Newspaper Stats
 
-*Scraped **74,084** Articles*
+*Scraped **74,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,28 +17,82 @@ islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,157
-adaderanalk | 9,454
-tamilmirrorlk | 11,019
+adaderanalk | 9,457
+tamilmirrorlk | 11,020
 virakesarilk | 12,116
-adaderanasinhalalk | 12,867
+adaderanasinhalalk | 12,868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,084 articles have been extended.
+61,973 (83.6%) of 74,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
 
+### சுகாதாரம்,பாதுகாப்பு துறைகளுக்கிடையிலான வலுப்படுத்துதல்
+
+*2025-09-04 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரம்-பாதுகாப்பு-துறைகளுக்கிடையிலான-வலுப்படுத்துதல்/175-364013) · `ta`
+
+சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் (டாக்டர்) நளிந்த ஜயதிஸ்ஸ, பாதுகாப்பு பிரதி அமைச்சர் மேஜர் ஜெனரல் அருண ஜயசேகர (ஓய்வு) மற்றும் பாதுகாப்பு செயலாளரும் ஜெனரல் சேர் ஜோன் கொத்தலாவல பாதுகாப்பு பல்கலைக்கழக (KDU) முகாமைத்துவ சபையின் தலைவருமான எயார் வைஸ் மார்ஷல் சம்பத் துயகொந்தா (ஓய்வு) ஆகியோர் புதன்க்கிழமை (03) அன்று வேரஹெரயிலுள்ள ஜெனரல் சேர் ஜோன் கொத்தலாவல பாதுகாப்பு பல்கலைக்கழக (UH-KDU)பல்கலைக்கழக மருத்துவமனைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டனர்.
+
+ஜெனரல் சேர் ஜோன் கொத்தலாவல பாதுகாப்பு பல்கலைக்கழகத்தின் உபவேந்தர் ரியர் அட்மிரல் தம்மிக குமார பிரமுகர்களை வரவேற்றதுடன், இந்த போதனா வைத்தியசலையில் காணப்படும் நவீன வசதிகள் அதன் மூலன் முன்னெடுக்கப்படும் செயற்பாடுகள் தொடர்பில்  விளக்கம் அளித்தார்.
+
+வைத்தியசாலையின் வளாகத்திற்குள் நேரில் விஜயம் செய்து நிலைமைகளை பார்வையிட்ட அமைச்சர் மற்றும் அதிகாரிகள் தலைமையிலான குழுவினர் இந்த வைத்தியசாலையில் உள்ள வளங்கள் மற்றும் உபகரணங்களை மேலும் சிறந்த முறையில் எதிர்காலத்தில் பயன்படுத்துவது தொடர்பில் விசேட கலந்துரையாடலில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/ab7178a7.json)
+
+---
+
+### බූස්සෙන් STF ඉවත් කරන්නැයි ඉල්ලූ මිදිගම රුවන්ගේ පෙත්සම නිෂ්ප්‍රභ කෙරේ
+
+*2025-09-04 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214154) · `si`
+
+බූස්ස අධිආරක්ෂිත බන්ධනාගාරයේ අභ්‍යන්තර පරීක්ෂා කිරීම් වැනි කටයුතුවලින් පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ප්‍රබල පාතාල කල්ලි නායකයෙකු බව කියන ජේ.ඒ. රුවන් කුමාර හෙවත් මිදිගම රුවන් නැමැත්තා සිය නීතිඥවරු මාර්ගයෙන් ඉදිරිපත් කළ පෙත්සමක් නිෂ්ප්‍රභ කිරීමට අභියාචනාධිකරණය නියම කළේය.
+
+අදාළ පෙත්සම පවත්වාගෙන යාමට නොහැකි බවට නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් ශනිල් කුලරත්න මහතා විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම තීන්දුව නිකුත් කළේය.
+
+තීන්දුව ප්‍රකාශයට පත් කරමින් අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල සඳහන් කළේ, මෙම පෙත්සමේ සඳහන් නඩු නිමිත්ත තහවුරු කිරීමට ප්‍රමාණවත් කරුණු ඉදිරිපත් කිරිමට පෙත්සම්කරු අසමත් වී ඇති බවය.
+
+ඒ අනුව එය විභාගයට නොගෙන නිෂ්ප්‍රභ කරන බවත් විනිසුරු මඩුල්ල සඳහන් කළහ.
+
+...
+
+[Data](articles/9f1c2c47.json)
+
+---
+
+### Shanudi Amaya of Ambalangoda Sri Devananda secures highest marks in scholarship exam
+
+*2025-09-04 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112166/shanudi-amaya-of-ambalangoda-sri-devananda-secures-highest-marks-in-scholarship-exam) · `en`
+
+According to the results of the 2025 Grade 5 Scholarship Examination, Shanudi Amaya Ashwini, a student of the Sri Devananda College of Ambalangoda, has secured first place in the island.
+
+◼️
+
+[Data](articles/18c9f94e.json)
+
+---
+
 ### ශිෂ්‍යත්වයේ වැඩිම ලකුණු අම්බලන්ගොඩ ශනුදි අමායා හිමි කරගනී
 
 *2025-09-04 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214153) · `si`
 
-මෙවර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵලවලට අනුව දිවයිනේ ප්‍රථම ස්ථානය හිමිකර ගැනීමට අම්බලන්ගොඩ ශ්‍රී දේවානන්ද විද්‍යාලයේ ශනුදි අමායා අශ්විනි ශිෂ්‍යාව සමත්වී තිබේ.
+මෙවර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵලවලට අනුව දිවයිනේ ප්‍රථම ස්ථානය හිමිකර ගැනීමට අම්බලන්ගොඩ ශ්‍රී දේවානන්ද විද්‍යාලයේ ශනුදි අමායා අශ්විනි ශිෂ්‍යාව සමත්වී තිබේ.
 
-◼️
+මෙවර 2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාග ප්‍රතිඵලවලට අනුව දිස්ත්‍රික් මට්ටමින් කඩඉම් ලකුණු සීමාවන් ද විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව කොළඹ, ගම්පහ, කළුතර, මහනුවර, මාතලේ, ගාල්ල, මාතර, කුරුණෑගල, කෑගල්ල දිස්ත්‍රික් සදහා කඩඉම් ලකුණු සීමාව, සිංහල මාධ්‍ය 140ක් වන අතර දෙමළ මාධ්‍ය කඩඉම් ලකුණු සීමාව ලකුණු 134ක් වේ.
+
+රත්නපුර දිස්ත්‍රික්කයේ සිංහල මාධ්‍ය කඩඉම් ලකුණු සීමාව 136ක් වන අතර දෙමළ මාධ්‍ය ලකුණු සීමාව 132ක් බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+හම්බන්තොට දිස්ත්‍රික්කයේ සිංහල මාධ්‍ය කඩඉම් ලකුණු සීමාව 135ක් වන අතර දෙමළ මාධ්‍ය ලකුණු සීමාව 132ක් වේ.
+
+...
 
 [Data](articles/6046d942.json)
 
@@ -92,6 +146,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Wild elephant injured in train collision in Habarana
+
+*2025-09-04 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112165/wild-elephant-injured-in-train-collision-in-habarana) · `en`
+
+A wild elephant was hit by the night mail train traveling from Trincomalee to Colombo last night (03) in Puwakpitiya, Habarana.
+
+According to a wildlife officer, the elephant involved in the collision is estimated to be around 20 years old.
+
+The elephant’s front right leg was broken due to the impact and was found lying near the railway track, according to Ada Derana correspondent who visited the scene.
+
+Residents of the area stated that the railway line at that location offers a clear view for a long distance, and they allege that the driver’s negligence may have caused the accident.
+
+Wildlife officers stated that treatment for the injured leg will be initiated today (04) by the veterinary unit in Pandulagama.
+
+It is suspected that the elephant was trying to cross the railway line from the Hurulu Forest Reserve in Habarana to the Puwakpitiya village when the accident occurred.
+
+Wildlife officers from Ritigala and Kekirawa are conducting investigations regarding the incident.
+
+◼️
+
+[Data](articles/d76ba5f3.json)
+
+---
+
 ### හබරණදී දුම්රිය ගැටී වනඅලියෙකු තුවාල ලබයි
 
 *2025-09-04 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214152) · `si`
@@ -131,6 +209,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4818ff36.json)
+
+---
+
+### No approval for road construction through Sinharaja Forest – Environment Minister
+
+*2025-09-04 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112164/no-approval-for-road-construction-through-sinharaja-forest-environment-minister) · `en`
+
+No approval will be granted for any road construction within the Sinharaja Forest Reserve, Minister of Environment Dr. Dammika Patabendi.
+
+Minister Patabendi emphasised that in line with the government’s environmental protection policy, no such action will be taken that could harm the ecosystem.
+
+The Minister made these remarks in response to a question from a journalist regarding a proposed road project from Illuma Kanda to Sooriyakanda, which has recently sparked public concern.
+
+He clarified that the road proposal had only been submitted to a Regional Development Committee, and a group of officials had visited the area for inspection. This, he said, has led to the current discussion and public debate on the matter.
+
+◼️
+
+[Data](articles/fc596dbe.json)
 
 ---
 
@@ -1697,89 +1793,5 @@ A total of 307,951 applicants sat for the exam this year at 2,787 examination ce
 ◼️
 
 [Data](articles/ddcc8e16.json)
-
----
-
-### புலமைப்பரிசில் பரீட்சையின் பெறுபேறு இன்று இரவு வௌியீடு!
-
-*2025-09-03 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224135) · `ta`
-
-2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகள் வரும் புதன்கிழமை (3) இரவு வெளியிடப்படும் என்று பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
-
-இந்த பரீட்சை கடந்த ஆகஸ்ட் மாதம் 10 ஆம் திகதி நாடு முழுவதும் ஒரே நேரத்தில் நடைபெற்றது.
-
-◼️
-
-[Data](articles/11d0203d.json)
-
----
-
-### President AKD appoints 18 new High Court Judges
-
-*2025-09-03 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112144/president-akd-appoints-18-new-high-court-judges) · `en`
-
-President Anura Kumara Dissanayake has appointed 18 new Judges of the High Court.
-
-The newly appointed High Court Judges include 17 Special Class Judicial Officers and a Senior State Attorney serving in the Attorney General’s Department.
-
-Accordingly, they received their letters of appointment from the President at the Presidential Secretariat in Colombo today (3).
-
-07. Mr. D.M.D.C. Bandara (Senior Assistant Secretary, Judicial Service Commission)
-
-◼️
-
-[Data](articles/e3169e70.json)
-
----
-
-### ශ්‍රී ලංකාවට 176ක ඉලක්කයක්
-
-*2025-09-03 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214134) · `si`
-
-ශ්‍රී ලංකාවට එරෙහි තරග 3කින් යුත් විස්සයි20 ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් අද (3) පැවති පළමු තරගයේ පළමුව පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී ලකුණු 175ක් රැස්කිරීමට සමත් විය.
-
-හරාරා ක්‍රීඩාංගණයේ පැවති මෙම තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දු යැවීමට තීරණය කළේය.
-
-පන්දු 57කින් ගොඩනැගුණු ඔහුගේ ඉනිමට හතරේ පහර 12ක් ඇතුළත් විය.
-
-ශ්‍රී ලංකාව වෙනුවෙන් දුෂ්මන්ත චමීර ලකුණු 30කට කඩුලු 3ක් දවාගනිමින් විශිෂ්ට පන්දු යැවීමක නිරත විය.
-
-◼️
-
-[Data](articles/15236736.json)
-
----
-
-### සූදු ක්‍රීඩා නියාමන අධිකාරිය පනත් කෙටුම්පතට කථානායකගේ සහතිකය
-
-*2025-09-03 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214133) · `si`
-
-කථානායක ජගත් වික්‍රමරත්න මහතා අද (03) සූදු ක්‍රීඩා නියාමන අධිකාරිය කෙටුම්පත සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව ප්‍රකාරව සිය සහතිකය සටහන් කර තිබේ.
-
-පසුගිය 19 වනදා පාර්ලිමේන්තුවේ දෙවනවර කියවීමේ විවාදයෙන් අනතුරුව සංශෝධන සහිතව මෙම පනත් කෙටුම්පත සම්මත විය.
-
-මේ අනුව මෙම පනත් කෙටුම්පත 2025 අංක 17 දරන සූදු ක්‍රීඩා නියාමන අධිකාරිය පනත ලෙස බලාත්මක වනු ඇත.
-
-මෙම පනත සූදු ක්‍රීඩා නියාමන අධිකාරිය පිහිටුවීම සඳහා විධිවිධාන සැලැස්වීම පිණිස ද; (44 වන අධිකාාරය වූ) තුරඟ තරග මත ඔට්ටු ඇල්ලීමේ ආඥාපනත, (46 වන අධිකාරය වූ) සූදු ආඥාපනත සහ 2010 අංක 17 දරන කැසිනෝ ව්‍යාපාර (නියාමනය කිරීමේ) පනත ඉවත් කිරීම පිණිස ද; ඊට සම්බන්ධ හෝ ආනුෂංගික කාරණා සඳහා විධිවිධාන සැලැස්වීම පිණිස ද වූ පනතකි.
-
-ශ්‍රී ලංකාවේ සූදු ක්‍රීඩා කර්මාන්තය නියාමනය කිරීම සඳහා, සූදු මෙහෙයුම් සඳහා තනි නියාමන ආයතනයක් ලෙස සූදූ ක්‍රීඩා නියාමන අධිකාරිය පිහිටුවීමට මෙම පනත මගින් ප්‍රතිපාදන සලසා ඇත.
-
-...
-
-[Data](articles/2be8106e.json)
-
----
-
-### Buddhist Extremist Monks and Organizations  Cultivating Links with Israel want to Turn Sri Lanka into a Buddhist State like how Israel is a 100% Jewish State while Israel wants Sri Lanka to Provide Cheap Manual Labour and a Welcoming Recipient of Israeli Tourists
-
-*2025-09-03 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86382) · `en`
-
-“Let’s learn from Israel how to create a Sinhala-Buddhist state” – National Organiser, Sinhala Ravaya (https://www.youtube.com/watch?v=yb3x0M7AgKw)
-
-Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-Atte Gnanasara or an Akmeemana Dayaratane. He deserves to. To him belongs the distinction of turning the International Covenant for Civil and Political Rights (ICCPR) from a law aimed at safeguarding individual rights to an instrument of persecution.
-
-...
-
-[Data](articles/a71d6d35.json)
 
 ---

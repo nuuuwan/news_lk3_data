@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 12:36:31**
+As of **2025-09-04 12:50:13**
 
 ## Newspaper Stats
 
-*Scraped **74,118** Articles*
+*Scraped **74,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,161
-adaderanalk | 9,460
-tamilmirrorlk | 11,030
+adaderanalk | 9,461
+tamilmirrorlk | 11,031
 virakesarilk | 12,118
 adaderanasinhalalk | 12,876
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,118 articles have been extended.
+61,973 (83.6%) of 74,120 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,13 +38,41 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පාර්ලිමේන්තු මන්ත්‍රීවරුන් විසින් 'වියත්පුර' නිවාස ව්‍යාපෘතියෙන් නිවාස මිලදී ගැනීමේ දී ලබාදී ඇති සහන ඉවත් කිරීමට කැබිනට් මණ්ඩල අනුමැතිය හිමිව තිබේ.
 
-◼️
+පසුගිය 2022 මැයි මස 9 වන දින රට තුළ ඇති වූ කලබලකාරී තත්ත්වය මත නිවාස අහිමි වූ එවක පාර්ලිමේන්තු මන්ත්‍රීවරුන් සඳහා නාගරික සංවර්ධන අධිකාරිය මඟින් ඉදිකරන ලද මෙම වියත්පුර නිවාස සංකීර්ණයෙන් නිවාස ඒකක 101ක් කුලී පදනම මත එක් වසරක කාලයක් සඳහා ලබාදීමට 2022 ජූලි 4 වන දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී අනුමැතිය ලබාදී තිබුණි.
+
+ඉන් අනතුරුව එම නිවාස සහනදායි ක්‍රමවේදයක් යටතේ මිලදී ගැනීමට ඔවුන්ට අවස්ථාව ලබාදෙන ලෙස අදාළ පාර්ලිමේන්තු මන්ත්‍රීවරුන් විසින්ම ඉල්ලීමක් ඉදිරිපත් කර තිබුණි.
+
+...
 
 [Data](articles/26e16f91.json)
 
 ---
 
-### ලිස්බන් දුම්රිය පීලි පැනීමෙන් 15කට දිවි අහිමිවෙයි
+### சிறுமி துஷ்பிரயோகம்: கான்ஸ்டபிள் கைது
+
+*2025-09-04 12:15:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-கான்ஸ்டபிள்-கைது/175-364027) · `ta`
+
+ஒரு கிராமத்தில் வசிக்கும் 9 வயது மற்றும் 6 மாத வயதுடைய மைனர் சிறுமியை பாலியல் வன்கொடுமை செய்ததற்காக  ஒரு பொலிஸ் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளார்.
+
+புத்தல காவல் பிரிவின் எகொடவத்த ஒக்கம்பிட்டிய வீதியைச் சேர்ந்த சிறுமியே இவ்வாறு வன்புணர்வுக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட நபர் மட்டக்களப்பு தலைமையக பொலிஸில் இணைக்கப்பட்ட ஒரு பொலிஸ் கான்ஸ்டபிள் ஆவார்.
+
+பாடசாலை குழந்தைகள் மீதான பாலியல் துன்புறுத்தல் குறித்த விழிப்புணர்வு நிகழ்ச்சி திட்டம் சிறுமி கல்வி பயிலும் பாடசாலையில் நடத்தப்பட்டது.
+
+அதன்பின்னர் அந்த சிறுமி தனது தாயாரிடம் தனக்கு நேர்ந்ததை தெரிவித்தார். இது தொடர்பில் தாயார், புத்தல பொலிஸ் நிலையத்தில் முறைப்பாடு செய்தார்.
+
+2024 நவம்பர் மாதம் ஒரு நாள் பாடசாலை முடிந்ததும், பிரத்தியேக வகுப்புக்குச் சென்ற சிறுமி, தனது நண்பியின் வீட்டுக்குச் சென்றிருந்தார்.
+
+சந்தேகத்திற்குரிய பொலிஸ் கான்ஸ்டபிள், அவ்வழியிலேயே தானும் செல்வதாக கூறி,  வீட்டில் விட்டு செல்வதாக, அச்சிறுமியை மோட்டார் சைக்கிளில் அழைத்துச் சென்று ஓர் அறையில் வைத்து  பாலியல் பலாத்காரம் செய்துள்ளார்.
+
+...
+
+[Data](articles/4ea13cd8.json)
+
+---
+
+### ලිස්බන් අගනුවර දුම්රියක් පීලි පැනීමෙන් 15කට දිවි අහිමිවෙයි
 
 *2025-09-04 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214161) · `si`
 
@@ -77,6 +105,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ec0db9a0.json)
+
+---
+
+### Jeep modified to resemble an official Police vehicle seized in Kandy
+
+*2025-09-04 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112170/jeep-modified-to-resemble-an-official-police-vehicle-seized-in-kandy) · `en`
+
+A jeep, modified to resemble an official vehicle used by senior police officers, has been taken into custody by the Kandy Headquarters Police.
+
+According to information received by the Kandy Headquarters Police, the vehicle was seized last afternoon (03), and at the time of the seizure, two individuals were inside. Police also reported that two ‘walkie-talkie’ communication devices, similar to those used by police officers, were found in the vehicle.
+
+Except for the front windshield, all other windows of the jeep were fully tinted. Police said the vehicle had been frequently seen operating on roads in Kandy.
+
+It has been reported that on certain occasions, police officers engaged in traffic and road duties had saluted the vehicle, assuming a senior police officer was inside.
+
+The Kandy Headquarters Police are investigating whether the jeep is an assembled vehicle. It has also been reported that a report will be requested from the Department of Motor Traffic in connection with this.
+
+...
+
+[Data](articles/fda23345.json)
 
 ---
 
@@ -292,7 +340,7 @@ Accordingly, the bench stated that it will be dismissed without taking it into c
 
 ---
 
-### தமிழ்மொழி மூலம் யாழ். மாணவன் முதலிடம்.
+### தமிழ்மொழி மூலம் யாழ். மாணவன் முதலிடம்
 
 *2025-09-04 11:00:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்மொழி-மூலம்-யாழ்-மாணவன்-முதலிடம்/175-364016) · `ta`
 
@@ -1759,51 +1807,5 @@ According to the Commissioner General of Examinations a total of 901 students wi
 ◼️
 
 [Data](articles/72908284.json)
-
----
-
-### 2025 ශිෂ්‍යත්ව ප්‍රතිඵල නිකුත් කෙරේ
-
-*2025-09-04 00:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214142) · `si`
-
-පසුගිය අගොස්තු මස 10 වන දින මෙවර ශිෂ්‍යත්ව විභාගය පැවති අතර ඒ සදහා අයදුම්කරුවන් 308,026ක් ඉල්ලුම් කර තිබුණි.
-
-එම අයදුම්කරුවන් අතරින් 303,670 දෙනෙකු මෙවර ශිෂ්‍යත්ව විභාගය සඳහා පෙනී සිටි අතර ඉන් සිසුන් 51,969 දෙනෙකු කඩඉම් ලකුණු සංඛ්‍යාව ඉක්මවා ඇති බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවි වන www.doenets.lk හෝ www.results.exams.gov.lk වෙත පිවිස ලබාගත හැකි වේ.
-
-විභාග අයදුම්කරුවන්ගේ නිවැරදි විභාග අංකය ඇතුළත් කිරීමෙන් ප්‍රතිඵල ලබාගත හැකි අතර අදාළ විභාග ප්‍රතිඵල සටහන බාගත කර මුද්‍රිත පිටපතක් ලබාගැනීමට ද පහසුකම් සලසා ඇති බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-විදුහල්පතිවරුන් වෙත ලබා දී ඇති පරිශීලක නාම සහ මුරපද භාවිත කර අද (04)දිනයේ සිට අදාළ පාසලේ විභාග ප්‍රතිඵල ලේඛන බාගත කරගැනීමට හැකි අතර අපේක්ෂකයින්ගේ කේවල සහතික පත්, අභියාචනා සලකා බැලීමෙන් පසු පාසල් වෙත තැපැල් මඟින් යොමුකිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/98b4b6cc.json)
-
----
-
-### 2025-09-03 (Wednesday)
-
-### Potato magic…
-
-*2025-09-03 23:36:00* · [`islandlk`](http://island.lk/potato-magic/) · `en`
-
-I had a lot of interesting messages coming my way regarding last week’s Potato Face Treatment and so I thought I will go ahead with potatoes this week, as well.
-
-Mix 01 tablespoon of potato juice with 01 teaspoon of honey and a few drops of almond oil. Apply this mixture as a face pack and leave it on for about 15 minutes. Rinse with warm water.
-
-Mix 01 tablespoon of potato juice with a few drops of lemon juice. Apply this pack to your face (avoiding the eye area) and let it remain for 15 minutes. Rinse off with cool water.
-
-(This pack helps in skin lightening and reducing dark spots.)
-
-Mix 01 tablespoon of potato juice and a teaspoon of olive oil and apply the mixture to your face and leave it for 20 minutes. Rinse with warm water.
-
-(This pack benefits dry and ageing skin, providing deep moisturisation and reducing fine lines.)
-
-Mix equal parts of potato and cucumber juice, and add a teaspoon of aloe vera gel. Apply the pack on your face and let it be remain for 20 minutes. Rinse with cool water.
-
-...
-
-[Data](articles/7fcca847.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 15:50:35**
+As of **2025-09-04 16:08:12**
 
 ## Newspaper Stats
 
-*Scraped **74,146** Articles*
+*Scraped **74,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 4,507
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,165
-adaderanalk | 9,467
-tamilmirrorlk | 11,038
-virakesarilk | 12,121
-adaderanasinhalalk | 12,882
+adalk | 7,166
+adaderanalk | 9,470
+tamilmirrorlk | 11,039
+virakesarilk | 12,122
+adaderanasinhalalk | 12,883
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,146 articles have been extended.
+61,973 (83.6%) of 74,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### “காணாமல் போனோருக்கு 2027 இறுதிக்குள் சிறப்புத் திட்டம்”
+
+*2025-09-04 15:49:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போனோருக்கு-2027-இறுதிக்குள்-சிறப்புத்-திட்டம்/175-364038) · `ta`
+
+காணாமல்போன ஆட்கள் தொடர்பான முறைப்பாடுகள் பற்றிய விசாரணைகளை நடாத்துதல் மற்றும் இன்னலுற்றவர்களுக்கு நீதியை நிலைநாட்டுவதற்காக 2027ஆம் ஆண்டு இறுதிக்குள் விசாரணை மற்றும் குறித்த கடமைகளை நிறைவேற்றுவதற்கான விசேட கருத்திட்டத்தை நடைமுறைப்படுத்துவதற்கும் அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
+
+நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+2016 ஆம் ஆண்டின் 14 ஆம் இலக்க, காணாமல் போன ஆட்கள் பற்றிய அலுவலகம் (தாபித்தலும், நிருவகித்தலும், பணிகளை நிறைவேற்றுதலும்) சட்டத்தின் ஏற்பாடுகளின் கீழ் காணாமல் போன ஆட்கள் பற்றிய அலுவலகம் தாபிக்கப்ப்பட்டுள்ளது.
+
+காணாமல் போன மற்றும் காணக்கிடைக்காமை ஆட்கள் தொடர்பான விசாரணைகளை மேற்கொண்டு அவர்களுடைய உறவுகளுக்கு அறிக்கைகளை வழங்குதல் இவ் அலுவலகத்தால் மேற்கொள்ளப்பட்டு வருகின்றது.
+
+இதுவரை குறித்த அலுவலகத்துக்கு கிடைக்கப்பெற்றுள்ள 16,966 முறைப்பாடுகளில் விசாரணைகளுக்காக மேலும் 10,517 முறைப்பாடுகள் காணப்படுகின்றன.
+
+...
+
+[Data](articles/895d8d00.json)
+
+---
+
+### இலங்கைத் தமிழர்கள் சட்டப்பூர்வமாக இந்தியாவில் தங்கலாம் ; இந்திய மத்திய அரசு
+
+*2025-09-04 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224203) · `ta`
+
+போர் மற்றும் பொருளாதார நெருக்கடி காரணமாக இலங்கையை விட்டு வெளியேறிய இலங்கைத் தமிழர்கள் தமிழ்நாட்டில் பல்வேறு முகாம்களில் தங்க வைக்கப்பட்டுள்ளனர்.
+
+அவர்கள், இந்தியாவில் தாங்கள் சுதந்திரமாக வாழ வழிவகை செய்ய வேண்டும் என அரசுக்கு கோரிக்கை விடுத்து வந்தனர்.
+
+இந்நிலையில், 2015 ஜன.9ம் தேதிக்கு முன்பு உரிய ஆவணங்கள் இன்றி இந்தியாவுக்குள் நுழைந்து, அரசிடம் அகதிகளாக பதிவு செய்த இலங்கைத் தமிழர்கள், சட்டப் பூர்வமாக தங்குவதற்கு மத்திய அரசு அனுமதி வழங்கியுள்ளது.
+
+சமீபத்தில் அமல்படுத்தப்பட்ட குடிவரவு மற்றும் வெளிநாட்டினர் சட்டத்தின் கீழ் உள்ள தண்டனை விதிகளில் இருந்தும் இலங்கைத் தமிழர்களுக்கு மத்திய அரசு விலக்கு அளித்துள்ளது. இதன் மூலம், இலங்கைத் தமிழர்கள் இனி சட்டவிரோத குடியேறிகள் அல்ல.
+
+◼️
+
+[Data](articles/bc9abd4a.json)
+
+---
+
+### රවී සෙනෙවිරත්නට එරෙහි නඩුවක් අත්හිටුවීමේ නියෝගයක්
+
+*2025-09-04 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214170) · `si`
+
+මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්, විශ්‍රාමික ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති රවි සෙනෙවිරත්න මහතාට එරෙහිව ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණයේ පැවැත්වෙන නඩු විභාගයක් තාවකාලිකව අත්හිටුවමින් අභියාචනාධිකරණය විසින් අද (4) අතුරුතහනම් නියෝගයක් නිකුත් කළේය.
+
+2023 වසරේ දී බීමත්ව රිය පදවා රිය අනතුරක් වළක්වා ගැනීමට කටයුතු නොකිරීම ඇතුළු චෝදනා යටතේ රවි සෙනෙවිරත්න මහතාට එරෙහිව මෙම නඩු විභාගය පැවැත්වේ.
+
+ඒ අනුව ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය හමුවේ තමන්ට එරෙහිව පවතින නඩුකරය වෙනත් අධිකරණයකට මාරු කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා රවි සෙනෙවිරත්න මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් සලකාබැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත්කර ඇත.
+
+මායාදුන්නේ කොරයා සහ මහේන් ගොපල්ලව යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ අදාළ පෙත්සම සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය ලබාදෙනු ලැබීය.
+
+◼️
+
+[Data](articles/7f7c5022.json)
+
+---
 
 ### ලංකාවට ඇවිත් ව්‍යාපාර කළ රුසියානු තරුණියක් අත්අඩංගුවට
 
@@ -59,6 +115,70 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/937ea795.json)
+
+---
+
+### Wife of ‘Backhoe Saman’ remanded until September 18
+
+*2025-09-04 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112180/wife-of-backhoe-saman-remanded-until-september-18) · `en`
+
+The wife of underworld figure ‘Backhoe Saman’, Shadhika Lakshani, who is currently in custody, has been remanded until September 18 by the Colombo Magistrate’s Court.
+
+The Criminal Investigation Department (CID) produced the suspect before Colombo Chief Magistrate Asanka S. Bodaragama, who issued the remand order following the court proceedings, said Ada Derana reporter.
+
+A case has been filed against her under the Prevention of Money Laundering Act.
+
+◼️
+
+[Data](articles/c6aae2ec.json)
+
+---
+
+### Appeals Court issues interim order suspending trial against retired SDIG Ravi Seneviratne
+
+*2025-09-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112179/appeals-court-issues-interim-order-suspending-trial-against-retired-sdig-ravi-seneviratne) · `en`
+
+The Court of Appeal today (04) issued an interim injunction suspending the ongoing trial at the Mount Lavinia Magistrate’s Court against Retired Senior Deputy Inspector General (SDIG) Ravi Seneviratne, who is currently serving as the Secretary to the Ministry of Public Security.
+
+The case has been filed on charges related to driving under the influence and failing to prevent a road accident in 2023, Ada Derana reporter said.
+
+The interim order was issued after considering a petition filed by Seneviratne, requesting that the case against him at the Mount Lavinia Magistrate’s Court be transferred to another court.
+
+The petition was taken up a bench of the Court of Appeal comprising Justices Mayadunne Corea and Mahen Weeraman.
+
+◼️
+
+[Data](articles/e46a77c4.json)
+
+---
+
+### Cabinet nod to remove concessions granted to MPs to purchase houses from “Viyathpura”
+
+*2025-09-04 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112178/cabinet-nod-to-remove-concessions-granted-to-mps-to-purchase-houses-from-viyathpura-) · `en`
+
+The Cabinet of Ministers has approved the proposal to abolish the concessionary payment scheme granted for Members of Parliament to purchase houses from the “Viyathpura” housing complex.
+
+Approval was granted by the Cabinet in July 2022 to provide 101 housing units from the “Viyathpura” housing complex on a rental basis for the period of one year, which was built by the Urban Development Authority for MPs who lost their houses due to the unrest that prevailed in the country on May 09, 2022.
+
+Subsequently, MPs sought to purchase the houses under a concessionary payment method.
+
+...
+
+[Data](articles/ca09fb8e.json)
+
+---
+
+### තුසිත හල්ලොලුව යළි රිමාන්ඩ්
+
+*2025-09-04 14:31:21* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුව-යළි-රිමාන්ඩ්/11-418279) · `si`
+
+රක්ෂිත බන්ධනාගාර ගතකර සිටින තුසිත හල්ලොලුව මහතා ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහේස්ත්‍රාත්වරයා අද(04දා) නියෝග කර තිබේ.
+
+අදාළ නඩුව අද කැඳවූ අවස්ථාවෙසී ඔහු විසින් ඇප ඉල්ලා සිටි අතර, එය ප්‍රතික්ෂේප කරමින් මෙම නියෝගය ලබා දීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/835b3030.json)
 
 ---
 
@@ -1723,121 +1843,5 @@ She made these remarks while addressing the two-day program on “Financing What
 ...
 
 [Data](articles/4a350f8e.json)
-
----
-
-### US economy on brink of recession, warns Moody’s chief economist
-
-*2025-09-04 05:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112152/us-economy-on-brink-of-recession-warns-moodys-chief-economist) · `en`
-
-The state-level data in the US shows that the country is “on the edge of recession”, said Mark Zandi, chief economist at credit rating agency Moody’s.
-
-According to Zandi, who was among the first economists to predict the 2008 financial crisis, the states that make up nearly a third of the US gross domestic product (GDP) are currently either in recession or at high risk of entering one.
-
-“Based on my assessment of various data, states making up nearly a third of US GDP are either in or at high risk of recession, another third are just holding steady, and the remaining third are growing,” he wrote on social media platform X.
-
-Further, in an interview with Newsweek, Zandi said: “For the average American, that risk shows up in two ways. It means higher prices at the store, and it means job disruption across industries tied to food, goods, and transportation.”
-
-...
-
-[Data](articles/8517eeca.json)
-
----
-
-### CEB workers to launch ‘work-to-rule’ trade union today
-
-*2025-09-04 05:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112151/ceb-workers-to-launch-work-to-rule-trade-union-today) · `en`
-
-All trade unions of the Ceylon Electricity Board (CEB) have decided to launch a work-to-rule trade union action today (04).
-
-The decision has been taken to oppose the decision to restructure the Ceylon Electricity Board and several employee demands.
-
-According to a spokesperson, the trade union action is being launched based on 16 demands, including the restructuring process of the CEB being carried out in an illegal manner that severely inconveniences employees, as well as issues such as lack of incentives and promotions.
-
-◼️
-
-[Data](articles/aee0911b.json)
-
----
-
-### ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල නිකුත් කරයි
-
-*2025-09-04 05:45:03* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඵල-නිකුත්-කරයි/11-418267) · `si`
-
-2025 ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල අද  (4) අලුයම නිකුත් කරනු ලැබීය. ඒ අනුව විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවි වන www.doenets.lk සහ http://www.results.exams.gov.lk/ යන වෙබ් අඩවිවලට පිවිසීමෙන් ප්‍රතිඵල ලබාගත හැකිය.
-
-◼️
-
-[Data](articles/ad2212f3.json)
-
----
-
-### Showers, strong winds expected in various parts of the country today
-
-*2025-09-04 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112150/showers-strong-winds-expected-in-various-parts-of-the-country-today) · `en`
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (04), the Department of Meteorology said.
-
-Showers or thundershowers may occur at a few places in the Ampara, Batticaloa and Monaragala districts after 2.00 p.m.
-
-Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Hambantota district.
-
-◼️
-
-[Data](articles/6e316b9a.json)
-
----
-
-### Sajith warns Govt. against using ICCPR to silence dissent
-
-*2025-09-04 05:16:43* · [`dailyftlk`](https://www.ft.lk/news/Sajith-warns-Govt-against-using-ICCPR-to-silence-dissent/56-781243) · `en`
-
-Samagi Jana Balawegaya (SJB) and Opposition Leader Sajith Premadasa yesterday urged the Government not to misuse the International Covenant on Civil and Political Rights (ICCPR) as a tool to silence political opponents.
-
-Premadasa said the treaty is designed to protect individual rights and uphold democratic values. He referred to the “Rabat Plan of Action,” adopted under the ICCPR to provide guidance on preventing incitement to hatred without undermining free expression.
-
-...
-
-[Data](articles/20d58ede.json)
-
----
-
-### President appoints 18 new High Court Judges
-
-*2025-09-04 05:14:07* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-18-new-High-Court-Judges/56-781242) · `en`
-
-President Anura Kumara Disanayake has appointed 18 new High Court Judges.
-
-The letters of appointment were formally handed over yesterday at the Presidential Secretariat by President Disanayake.
-
-Among those appointed are 17 Special Class Judicial Officers and a Senior State Counsel serving in the Attorney General’s Department.
-
-These appointments were made by the President in accordance with Article 111(2) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
-
-Secretary to the President Dr. Nandika Sanath Kumanayake was also present on this occasion.
-
-◼️
-
-[Data](articles/0eaa651f.json)
-
----
-
-### Customs seizes Rs. 312 m worth of narcotics in Colombo
-
-*2025-09-04 05:10:46* · [`dailyftlk`](https://www.ft.lk/news/Customs-seizes-Rs-312-m-worth-of-narcotics-in-Colombo/56-781241) · `en`
-
-Sri Lanka Customs’ Narcotics Control Unit (NCU) yesterday uncovered a massive narcotics haul during routine enforcement operations at Colombo Cargo Express, reinforcing the agency’s vigilance in curbing drug smuggling into the country.
-
-The detection was made when officers opened seven suspicious parcels that had been detained since January 2025 following intelligence reports.
-
-Upon inspection, officials discovered 23,642 MDMA (Ecstasy) pills valued at Rs. 236.4 million, 98 grams of Methamphetamine (ICE) worth over Rs. 2.45 million, 993 grams of ‘Mandy’ valued at Rs. 14.9 million, 1,445 grams of Cocaine worth Rs. 57.8 million, and 25 Kush oil vapes valued at Rs. 250,000.
-
-In total, the street value of the seized narcotics amounts to an estimated Rs. 311.8 million.
-
-Customs officials noted that the detection underscores the Unit’s proactive approach and intelligence-driven operations in preventing narcotics from entering the country.
-
-...
-
-[Data](articles/6611a5ae.json)
 
 ---

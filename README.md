@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 11:32:30**
+As of **2025-09-04 11:52:55**
 
 ## Newspaper Stats
 
-*Scraped **74,101** Articles*
+*Scraped **74,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,505
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,159
-adaderanalk | 9,457
+adalk | 7,160
+adaderanalk | 9,460
 tamilmirrorlk | 11,023
 virakesarilk | 12,118
-adaderanasinhalalk | 12,873
+adaderanasinhalalk | 12,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,101 articles have been extended.
+61,973 (83.6%) of 74,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ව්‍යාජ අංක තහඩු දමා සැප රියක් පැදවූ වෛද්‍යවරිය අත්අඩංගුවට
+
+*2025-09-04 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214160) · `si`
+
+ව්‍යාජ අංක තහඩු සහිත සුඛෝපභෝගි මෝටර් රථයක් ධාවනය කරමින් සිටි වෛද්‍යවරියක් මහනුවර පොලීසියේ කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් හදිසි ඇමැතුම් අංශයට ලද දුරකථන ඇමතුමකට අනුව මහනුවර වාරියපොළ සුමංගල මාවතේ දී සිදුකළ හදිසි සෝදිසි කිරීමක දී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+සැකකාරියගේ සැමියා ද වෛද්‍යවරයෙකු වන අතර මෙම මෝටර් රථයේ හිමිකාරත්වය ඔහු යටතේ පවතින නමුත් එහි තිබූ අංක තහඩු  ඔහුගේ සහෝදරයෙකුට අයත් මෝටර් රථයක අංක තහඩු බව පොලිස් පරීක්ෂණ වලදී හෙළි වී ඇති බව සඳහන් වේ.
+
+සැකකාර වෛද්‍යවරිය මහනුවර පේරාදෙණියේ පිහිටි ප්‍රධාන රෝහලක සේවය කරන අතර සිද්ධිය සම්බන්ධයෙන් මහනුවර කොට්ඨාස අපරාධ විමර්ශන අංශය මගින්  පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/aa42f420.json)
+
+---
 
 ### ක්‍රියාකාරී මට්ටමේ නොමැති රාජ්‍ය ආයතන වසා දැමීමට අනුමැතිය
 
@@ -38,9 +56,59 @@ Extensions include translations and NER (Named Entity Recognition).
 
 දැනට ක්‍රියාකාරී මට්ටමේ නොමැති රාජ්‍ය ව්‍යවසායයන් 33ක් අදියර 02ක් යටතේ විධිමත් ලෙස වසා දැමීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
 
-◼️
+මහජන සේවා සැපයීම සහ උපායමාර්ගික ආර්ථික ක්‍රියාකාරකම් ප්‍රවර්ධනය කිරීම වැනි අරමුණු සාක්ෂාත් කර ගැනීම සඳහා කලකට පෙර පිහිටුවන ලද ඇතැම් රාජ්‍ය ව්‍යවසායයන් ඒවා පිහිටු වීමේ අරමුණු වර්තමානය සමඟ නොගැළපීම සහ වෙළෙඳපොළ අවශ්‍යතා සමග නොගැළපීම යන හේතූන් මත තවදුරටත් පවත්වාගෙන යාම ප්‍රායෝගික නොවීම සහ ඌන මූල්‍ය කාර්යසාධනය ආදී හේතු නිසා අක්‍රිය තත්ත්වයට පත්ව තිබේ.
+
+ජාතික ආර්ථිකයට හෝ රාජ්‍ය සේවා සැපයීමට අර්ථවත් දායකත්වයක් ලබා නොදෙන ව්‍යවස්ථාපිත ආයතන, රාජ්‍ය සංස්ථා හා රජය සතු සමාගම් වැනි විවිධ කාණ්ඩයන්ට අයත් රාජ්‍ය ව්‍යවසායයන් රජයට වැය බරක් වන පරිදි තවදුරටත් පවත්වාගෙන යාම වෙනුවට, එම ආයතන ඈවර කර වසා දැමීම යෝග්‍ය බවට හඳුනාගනු ලැබ ඇත.
+
+...
 
 [Data](articles/cd53425d.json)
+
+---
+
+### Cabinet approves proposal to close 33 SOEs under two stages
+
+*2025-09-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112169/cabinet-approves-proposal-to-close-33-soes-under-two-stages) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal for the liquidation and closure of 33 state-owned enterprises under two stages.
+
+◼️
+
+[Data](articles/ce6f8f9a.json)
+
+---
+
+### Court dismisses Midigama Ruwan’s petition to remove STF from Boossa Prison
+
+*2025-09-04 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112168/court-dismisses-midigama-ruwans-petition-to-remove-stf-from-boossa-prison) · `en`
+
+The Court of Appeal has dismissed a petition filed by J.A. Ruwan Kumara alias Midigama Ruwan, a notorious underworld leader, through his attorney, seeking an order to remove the officers of the Police Special Task Force (STF) from activities such as internal inspections of the Boossa High-Security Prison.
+
+The Court of Appeal issued this decision after considering the submissions made by Additional Solicitor General Shanil Kularatne, appearing for the Attorney General, that the relevant petition could not be maintained, said Ada Derana reporter.
+
+In announcing the decision, the Court of Appeal bench comprising President of the Court of Appeal Justice Rohantha Abeysuriya and Priyantha Fernando stated that the petitioner has failed to present adequate evidence to establish the cause of action stated in the petition.
+
+Accordingly, the bench stated that it will be dismissed without taking it into consideration.
+
+...
+
+[Data](articles/674d40a5.json)
+
+---
+
+### අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමට නව චක්‍රලේඛයක්
+
+*2025-09-04 11:04:57* · [`adalk`](https://www.ada.lk/breaking_news/අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමට-නව-චක්‍රලේඛයක්/11-418273) · `si`
+
+පාසල්වල 5 සහ 6 ශ්‍රේණි හැර 2 ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා සිසුන් ඇතුළත් කිරීම සඳහා නව චක්‍රලේඛයක් නිකුත් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිවූ බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+දැන් පැවැත්වෙන කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+ඒ අනුව, අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේ උපදේශක කාරක සභාව විසින් පත් කරන ලද අනුකාරක සභාව විසින් ඉදිරිපත් කරන ලද නිර්දේශ ද සැලකිල්ලට ගනිමින්, පාසල්වල 5 සහ 6 වන ශ්‍රේණි හැර 2 ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා සිසුන් ඇතුළත් කිරීමට අදාළ ව මේ දක්වා නිකුත් කර ඇති චක්‍රලේඛ උපදෙස් අවලංගු වේ.
+
+◼️
+
+[Data](articles/79f1aa5b.json)
 
 ---
 
@@ -107,6 +175,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c5b48a98.json)
+
+---
+
+### Cabinet approves new circular for state school admissions
+
+*2025-09-04 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112167/cabinet-approves-new-circular-for-state-school-admissions) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to issue a new circular regarding the admission of students from Grade 2 to Grade 11, excluding Grades 5 and 6, in government schools.
+
+◼️
+
+[Data](articles/26f825ae.json)
 
 ---
 
@@ -1711,93 +1791,5 @@ The Russian leader said that in his view Ukraine needed to cancel martial law, h
 ...
 
 [Data](articles/135e6b81.json)
-
----
-
-### Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?
-
-*2025-09-03 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86356) · `en`
-
-History was made when 76 year old  Ranil Sriyan Wickremesinghe was arrested by the Sri Lankan Police Criminal Investigation Department(CID) on charges of alleged corruption and misappropriation of public funds amounting to a little over  Rupees 16.6 million.He was produced before the Colombo Fort Magistrate on 22 August 2025. Ranil was charged under  Section 5(1) of the Public Property Act and Sections 386 and 388 of the Penal Code.
-
-Six times prime minister Wickremesinghe who served as the eighth executive president of Sri Lanka from 2022 to 2024 was remanded for four days until 26 August by the magistrate Nilupuli Lankapura. A manacled Ranil was taken away from court precincts  in a Black Maria.  Ranil Wickremesinghe  thus became the first Sri Lankan ex-president and former Prime minister to be arrested and remanded  in the history of Sri Lanka.
-
-...
-
-[Data](articles/9ba9187c.json)
-
----
-
-### அரசியலமைப்பு சார் உரிமைகளைப் பறிக்க அரசாங்கம் முயற்சி; ஜனநாயகத்துக்கான வழக்கறிஞர்களின் ஒருமைப்பாட்டு குழு
-
-*2025-09-03 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224143) · `ta`
-
-அரசியலமைப்பின் ஊடாக எமக்கு வழங்கப்பட்டுள்ள அரசியல் உரிமைகளை அரசாங்கம் பலவந்தமாக மீளப் பெற முற்படுகிறது. இவ்வாறான நிலைமையைத் தடுப்பதற்கு ஜனநாயகத்துக்கான வழக்கறிஞர்களின் ஒருமைப்பாட்டு குழு சட்ட ரீதியான நடவடிக்கைகளை முன்னெடுக்கவுள்ளதாக முன்னாள் பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடி தெரிவித்தார்.
-
-கொழும்பில் புதன்கிழமை (3) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-அரசியலமைப்பின் ஊடாக எமக்கு வழங்கப்பட்டுள்ள அரசியல் உரிமைகளை அரசாங்கம் பலவந்தமாக மீளப் பெறுகின்றதா என்ற சந்தேகம் எழுகிறது. எனவே இவ்வாறான நிலைமையைத் தடுப்பதற்கு ஜனநாயகத்துக்கான வழக்கறிஞர்களின் ஒருமைப்பாட்டு குழு சட்ட ரீதியான நடவடிக்கைகளை முன்னெடுக்கவுள்ளது. கட்சி வேறுபாடின்றி மக்களின் உரிமைகளுக்காக நாம் குரல் கொடுப்போம். முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டார்.
-
-...
-
-[Data](articles/2cdf828b.json)
-
----
-
-### காங்கேசன்துறை துறைமுக புனரமைப்பு தொடர்பான கலந்துரையாடல் யாழில் நடைபெற்றது
-
-*2025-09-03 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224142) · `ta`
-
-காங்கேசன்துறை துறைமுகத்தின் புனரமைப்பு மற்றும் அபிவிருத்தி தொடர்பான கலந்துரையாடல் யாழ்ப்பாண மாவட்ட அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன் தலைமையில் புதன்கிழமை (03) பி.ப 01.30 மணிக்கு அரசாங்க அதிபர் அலுவலகத்தில் நடைபெற்றது.
-
-இக் கலந்துரையாடலில் இந்திய இலங்கை கடற்போக்குவரத்திற்கு மேலதிகமாக இந்தியாவிலிருந்து கப்பல் மூலம் பொருட்களைகொண்டுவருதல் மற்றும் இங்கியிருந்து என்ன பொருட்களை கொண்டு செல்லலாம் எனவும் அதன் மூலம் ஏற்படும் தொழில் வாய்ப்பு மற்றும் சாதக பாதகங்கள் ஆராயப்பட்டதுடன், காங்கேசன்துறை துறைமுகத்தின் அபிவிருத்தி தேவைகளுக்கான காணித் தேவைப்பாடு தொடர்பாகவும், இவ் துறைமுக அபிவிருத்தியை ஏற்படுத்துவதனூடாக எவ்வாறான சிறப்பான சேவைகளை பெற்றுக்கொள்ளமுடியும் அல்லது அதனால் ஏற்படும் பாதக விளைவுகள் தொடர்பாகவும் கலந்துரையாடப்பட்டது.
-
-...
-
-[Data](articles/b38a7cd2.json)
-
----
-
-### ஹரக் கட்டாவை கொலை செய்ய ’கெமரா துப்பாக்கி’
-
-*2025-09-03 20:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்-கட்டாவை-கொலை-செய்ய-கெமரா-துப்பாக்கி/175-363985) · `ta`
-
-ஹரக் கட்டாவை குறிவைத்து முன்னெடுக்கப்பட இருந்த கொலை திட்டத்திற்கு உதவிய குற்றச்சாட்டில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-குறித்த கொலையை செய்ய கெமராவுக்குள் மிகவும் சூட்சுமமான முறையில் துப்பாக்கியை வைத்து கவனமாக தயாரித்த ஒருவரை பொலிஸார் கைது செய்துள்ளனர்.
-
-கம்பஹாவில் உள்ள உடுகம்பொல, தொம்பவலவைச் சேர்ந்த 47 வயதான வெல்டர், அவரது வீட்டில் கைது செய்யப்பட்டார்.
-
-கெமராவுக்குள் 3.8 மிமீ துப்பாக்கியை திறமையாக பொருத்தியதற்கு அவர் பொறுப்பேற்றதாக பொலிஸார் தெரிவித்தனர்.
-
-சமீபத்தில் இந்தோனேசியாவின் ஜகார்த்தாவில் கைது செய்யப்பட்ட ஒருசரிடம் நடத்தப்பட்ட விரிவான விசாரணையின் போது இந்த தகவல் தெரியவந்தது.
-
-ஊடகவியலாளர் போல் நடித்து ஹரக் கட்டாவை நீதிமன்ற வளாகத்தில் வைத்து படுகொலை செய்ய திட்டமீட்டியமை இதன்மூலம் தெரியவந்திருந்தமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/8ca5ef1a.json)
-
----
-
-### சப்ரகமுவாக மாகாண பாடசாலைகள் விளையாட்டு விழா: இரத்தினபுரி  கலைமகள் மாணவி நிரோஷா 5000 மீற்றரில் புதிய சாதனை
-
-*2025-09-03 20:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/224141) · `ta`
-
-ருவன்வெல்லை பொது விளையாட்டரங்கில் நடைபெற்றுவரும் 32ஆவது தேசிய பாடசாலைகள் விளையாட்டு விழாவுடன் தொடர்புடைய சப்ரகமுவ மாகாண பாடசாலைகள் விளையாட்டு விழாவில் இரத்தினபுரி கலைமகள் தமிழ் வித்தயாலய மாணவி ஒருவர் 5000 மீற்றர் ஓட்டத்தில் போட்டி சாதனை நிகழ்த்தி வரலாறு படைத்துள்ளார்.
-
-பெண்களுக்கான 5000 மீற்றர் ஓட்டப் போட்டியை 20 நிமிடங்கள், 04.16 செக்கன்களில் நிறைவுசெய்த சசிகுமார் நிரோஷா புதிய போட்டி சாதனையை நிலைநாட்டினார்.
-
-இவர் கடந்த மாதம் நடைபெற்ற தேசிய விளையாட்டு விழாவுடன் தொடர்புடைய சப்ரகமுவ மாகாண போட்டிகளில் 3ஆம் இடத்தைப் பெற்றிருந்தார்.
-
-சப்ரகமுவ மாகாண பாடசாலைகளுக்கு இடையிலான மெய்வல்லுநர் போட்டிகளில் சாதனை படைத்தது பெரு மகிழ்ச்சியைத் தருவதாக நிரோஷா தெரிவித்தார்.
-
-இன்னும் சில வாரங்களில் நடைபெறவுள்ள தேசிய பாடசாலைகள் விளையாட்டு விழாவிலும் பதக்கம் ஒன்றை வென்றெடுக்க உறுதிபூண்டுள்ளதாக நிரோஷா தெரிவித்தார்.
-
-அத்துடன் தனது பாடசாலை அதிபர், பயிற்றுநர் ஆகியோருக்கு நன்றி கூறுவதாகவும் அவர் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/8c9955cc.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 05:18:09**
+As of **2025-09-04 05:32:24**
 
 ## Newspaper Stats
 
-*Scraped **74,025** Articles*
+*Scraped **74,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 755
 economynextcom | 4,503
 islandlk | 4,542
 dailymirrorlk | 4,733
-dailyftlk | 5,254
+dailyftlk | 5,259
 adalk | 7,152
 adaderanalk | 9,441
 tamilmirrorlk | 11,014
@@ -26,11 +26,105 @@ adaderanasinhalalk | 12,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,025 articles have been extended.
+61,973 (83.7%) of 74,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### Sajith warns Govt. against using ICCPR to silence dissent
+
+*2025-09-04 05:16:43* · [`dailyftlk`](https://www.ft.lk/news/Sajith-warns-Govt-against-using-ICCPR-to-silence-dissent/56-781243) · `en`
+
+Samagi Jana Balawegaya (SJB) and Opposition Leader Sajith Premadasa yesterday urged the Government not to misuse the International Covenant on Civil and Political Rights (ICCPR) as a tool to silence political opponents.
+
+Premadasa said the treaty is designed to protect individual rights and uphold democratic values. He referred to the “Rabat Plan of Action,” adopted under the ICCPR to provide guidance on preventing incitement to hatred without undermining free expression.
+
+...
+
+[Data](articles/20d58ede.json)
+
+---
+
+### President appoints 18 new High Court Judges
+
+*2025-09-04 05:14:07* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-18-new-High-Court-Judges/56-781242) · `en`
+
+President Anura Kumara Disanayake has appointed 18 new High Court Judges.
+
+The letters of appointment were formally handed over yesterday at the Presidential Secretariat by President Disanayake.
+
+Among those appointed are 17 Special Class Judicial Officers and a Senior State Counsel serving in the Attorney General’s Department.
+
+These appointments were made by the President in accordance with Article 111(2) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
+
+Secretary to the President Dr. Nandika Sanath Kumanayake was also present on this occasion.
+
+◼️
+
+[Data](articles/0eaa651f.json)
+
+---
+
+### Customs seizes Rs. 312 m worth of narcotics in Colombo
+
+*2025-09-04 05:10:46* · [`dailyftlk`](https://www.ft.lk/news/Customs-seizes-Rs-312-m-worth-of-narcotics-in-Colombo/56-781241) · `en`
+
+Sri Lanka Customs’ Narcotics Control Unit (NCU) yesterday uncovered a massive narcotics haul during routine enforcement operations at Colombo Cargo Express, reinforcing the agency’s vigilance in curbing drug smuggling into the country.
+
+The detection was made when officers opened seven suspicious parcels that had been detained since January 2025 following intelligence reports.
+
+Upon inspection, officials discovered 23,642 MDMA (Ecstasy) pills valued at Rs. 236.4 million, 98 grams of Methamphetamine (ICE) worth over Rs. 2.45 million, 993 grams of ‘Mandy’ valued at Rs. 14.9 million, 1,445 grams of Cocaine worth Rs. 57.8 million, and 25 Kush oil vapes valued at Rs. 250,000.
+
+In total, the street value of the seized narcotics amounts to an estimated Rs. 311.8 million.
+
+Customs officials noted that the detection underscores the Unit’s proactive approach and intelligence-driven operations in preventing narcotics from entering the country.
+
+...
+
+[Data](articles/6611a5ae.json)
+
+---
+
+### Ex-Police Chief Pujith discharged from assault case
+
+*2025-09-04 05:09:37* · [`dailyftlk`](https://www.ft.lk/news/Ex-Police-Chief-Pujith-discharged-from-assault-case/56-781240) · `en`
+
+Operator allegedly assaulted for working elevator during national anthem and meditation program in 2017
+
+Former Inspector General of Police (IGP) Pujith Jayasundara was yesterday discharged from a case relating to an alleged assault on an elevator operator at Police Headquarters in 2017.
+
+The Fort Magistrate’s Court released him when the matter was taken up for hearing.
+
+The complaint was first made on 2 June 2019, to the then Acting IGP.
+
+The lift operator alleged that on 11 April 2017, Jayasundara verbally abused him, grabbed him by the collar, and attempted to assault him inside an elevator.
+
+According to the complaint, the incident occurred after Jayasundara had directed that the elevator should not be operated during the national anthem and meditation program held at Police Headquarters at the time.
+
+◼️
+
+[Data](articles/4b2353d0.json)
+
+---
+
+### Japan funds infectious waste incinerators for 15 State hospitals
+
+*2025-09-04 05:07:37* · [`dailyftlk`](https://www.ft.lk/news/Japan-funds-infectious-waste-incinerators-for-15-State-hospitals/56-781239) · `en`
+
+The Health Ministry yesterday said it plans to install advanced infectious waste incinerators in 15 Government hospitals under the Infectious Waste Management Improvement Project, funded by the Japan International Cooperation Agency (JICA).
+
+The initiative, backed by a 503 million yen ($ 1 million) grant from the JICA, is intended to improve medical waste management and promote safer disposal methods.
+
+According to the Ministry, incinerators are already operational at Trincomalee District General Hospital, Ratnapura and Kurunegala Teaching Hospitals, the district hospitals in Embilipitiya, Avissawella, Hambantota, Mannar, and Kilinochchi, base hospitals in Rikillagaskada, Mahiyanganaya, Puttalam, Meerigama, Medirigiriya, and Welikanda, as well as the divisional hospital in Nakulugamuwa.
+
+The Trincomalee District General Hospital now houses one of the largest units, with a capacity of 162 kg of infectious waste per hour.
+
+...
+
+[Data](articles/e0743cff.json)
+
+---
 
 ### PBSS Group Chairman  Dr. Madura Gamanayake wins  Gold at Sri Lankan Entrepreneur of the Year Awards 2025
 
@@ -1697,101 +1791,5 @@ The 3 month and 12 month bills are available on tap at the weighted average yiel
 ...
 
 [Data](articles/da60e075.json)
-
----
-
-### Kristian Györkös appointed senior VP, Global Head of Channel at WSO2
-
-*2025-09-03 14:54:00* · [`economynextcom`](https://economynext.com/kristian-gyorkos-appointed-senior-vp-global-head-of-channel-at-wso2-239352/) · `en`
-
-ECONOMYNEXT – Kristian Györkös has been appointed Senior Vice President & Global Head of Channel at WSO2, the company said in a statement.
-
-“I’m excited to join WSO2 at such a pivotal time in its growth journey,” said Kristian Györkös.
-
-“I look forward to scaling our global partner organization and enabling our ecosystem to deliver transformative solutions for customers worldwide.”
-
-Kristian brings executive experience from Solo.io, DataStax, Trifacta, Flosum, Dell, and Microsoft, where he drove growth strategies across cloud, data, and enterprise software.
-
-He is a leader in API management, having built and scaled global partner networks at Kong Inc. and Apigee (Google).
-
-“His global experience will be instrumental in scaling our partner programs and delivering increased value to customers through an expanded network of trusted solution providers,” said Devaka Randeniya, chief revenue officer at WSO2.
-
-...
-
-[Data](articles/46e4b612.json)
-
----
-
-### எச்.ஐ.வி நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு
-
-*2025-09-03 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224097) · `ta`
-
-நாட்டில் முந்தைய ஆண்டுகளுடன் ஒப்பீடும் போது எச்.ஐ.வி தொற்று தொடர்ந்து அதிகரித்து வருவதாக அண்மைய புள்ளிவிபர தரவுகள் தெரிவிக்கின்றன.
-
-2025 ஆம் ஆண்டின் முதல் காலாண்டில் மட்டும் (ஜனவரி முதல் மார்ச் வரை) மொத்தம் 230 நோயாளர்கள் பதிவாகியுள்ளன.
-
-2009 ஆம் ஆண்டுக்குப் பின்னர்  காலாண்டு ஒன்றில்  அதிகளவான நோயாளர்கள் பதிவான முதல் காலாண்டு இதுவாகும்.
-
-2025 ஆம் ஆண்டின் முதல் காலாண்டில் பதிவான நோயாளர்களில், 30 ஆண்களும் இரண்டு பெண்களும் 15 முதல் 24 வயதுக்குட்பட்டவர்கள், மீதமுள்ள நோயாளர்கள் 25 வயதுக்கு மேற்பட்டவர்கள்.
-
-2025 ஆம் ஆண்டில் பதிவான எச்.ஐ.வி நோயாளர்களின் ஆண் மற்றும் பெண் விகிதம் 6.6:1 ஆக உள்ளது.
-
-மேலும், 2025 ஆம் ஆண்டில் இதுவரை எச்.ஐ.வி/எய்ட்ஸ் நோயினால் 10 பேர் உயிரிழந்துள்ளனர்.
-
-2024 ஆம் ஆண்டில், மொத்தம் 47 நபர்கள் எச்.ஐ.வி/எய்ட்ஸால் பாதிக்கப்பட்டுள்ளனர். அதேவேளையில் நாட்டில் கடந்த ஆண்டில் மட்டும் 10 இலட்சத்துக்கும் அதிகமான எச்.ஐ.வி பரிசோதனைகள் நடத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/cb40d75a.json)
-
----
-
-### மகளுடன் சீன வந்த கிம் ஜாங் உன்
-
-*2025-09-03 14:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மகளுடன்-சீன-வந்த-கிம்-ஜாங்-உன்/50-363960) · `ta`
-
-சீன மக்கள் விடுதலை இராணுவத்தின் வெற்றியின் 80 ஆவது ஆண்டு நிறைவு விழா தலைநகர் பெய்ஜிங்கில், புதன்கிழமை (03) நடைபெற்றது.
-
-இதில் பங்கேற்பதற்காக வடகொரிய ஜனாதிபதி கிம் ஜாங் உன், குண்டு துளைக்காத சிறப்பு ரயில் மூலம் சீனா வந்தடைந்தார்.
-
-அவருடன் அவரது மகளும் ரயிலில் சீனா வந்துள்ளமை சர்வதேச பரப்பில் பேசு பொருளாக மாறியுள்ளது. தனது வாரிசை வடகொரிய ஜனாதிபதி அரசியலுக்கு தயார் படுத்துவருகின்றார் எனக் கூறப்படுகின்றது.
-
-◼️
-
-[Data](articles/358c635f.json)
-
----
-
-### BYD වාහන ගැන අද අධිකරණය දුන් තීන්දුව මෙන්න
-
-*2025-09-03 14:23:18* · [`adalk`](https://www.ada.lk/breaking_news/BYD-වාහන-ගැන-අද-අධිකරණය-දුන්-තීන්දුව-මෙන්න/11-418257) · `si`
-
-ශ්‍රී ලංකා රේගුව මඟින් රඳවා ගෙන සිටින BYD විද්‍යුත් වාහන 506ක් අමතර බැංකු ඇපකරයක් ඉදිරිපත් කිරීමෙන් අනතුරුව මුදාහැරීමට ශ්‍රී ලංකා රේගුව අද (03දා) අභියාචනාධිකරණය හමුවේ එකඟ විය.
-
-අදාළ නඩුව අද කැඳවූ අවස්ථාවේදී මෙම වාහන මුදා හැරීමට එකඟ වී තිබේ.
-
-◼️
-
-[Data](articles/2152d8ec.json)
-
----
-
-### மே 9 போராட்டம்;சட்டமா அதிபரிடம் CID ஆலோசனை
-
-*2025-09-03 14:19:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-9-போராட்டம்-சட்டமா-அதிபரிடம்-CID-ஆலோசனை/175-363959) · `ta`
-
-மே 9, 2022 அன்று காலி முகத்திடல் போராட்டக்காரர்கள் மீது நடத்தப்பட்ட தாக்குதல் தொடர்பாக விசாரணைகளை மேற்கொண்டு வரும் சிஐடி, சந்தேக நபர்களுக்கு எதிரான எதிர்கால சட்ட நடவடிக்கை குறித்து சட்டமா அதிபரின் ஆலோசனையை நாடியுள்ளது.
-
-இந்த வழக்கில், முன்னாள் பாராளுமன்ற உறுப்பினர்களான ஜோன்ஸ்டன் பெர்னாண்டோ மற்றும் மிலன் ஜெயதிலக்க மற்றும் முன்னாள் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் மற்றும் பலர் உட்பட 37 சந்தேக நபர்கள் சந்தேக நபர்களாக பெயரிடப்பட்டனர்.
-
-இந்த வழக்கு நீதவான் பவித்ரா சஞ்சீவனி பத்திரண முன்னிலையில் விசாரணைக்கு வந்தபோது, ​​சம்பவம் தொடர்பான முதற்கட்ட விசாரணைகளை முடித்துவிட்டதாகவும், விசாரணையின் சுருக்கங்கள் சட்டமா அதிபரின் ஆலோசனைக்காக அனுப்பப்பட்டுள்ளதாகவும் குற்றப் புலனாய்வுத் திணைக்களத்தினர் நீதிமன்றத்தில் தெரிவித்தனர்.
-
-அதன்படி, சம்பவம் தொடர்பான விசாரணையை விரைவுபடுத்துமாறு சட்டமா அதிபருக்கு உத்தரவிட்டு நீதவான் அறிவிப்பை வெளியிட்டார்.
-
-அடுத்த நீதவான் விசாரணை அடுத்த ஆண்டு ஜனவரி 21 ஆம் திகதிக்கு ஒத்திவைக்கப்பட்டது.
-
-◼️
-
-[Data](articles/26b250c7.json)
 
 ---

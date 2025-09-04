@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 00:24:04**
+As of **2025-09-05 00:34:47**
 
 ## Newspaper Stats
 
-*Scraped **74,227** Articles*
+*Scraped **74,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,18 +17,34 @@ islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,177
-adaderanalk | 9,478
+adaderanalk | 9,479
 tamilmirrorlk | 11,050
-virakesarilk | 12,137
+virakesarilk | 12,139
 adaderanasinhalalk | 12,902
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,227 articles have been extended.
+61,973 (83.5%) of 74,230 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-05 (Friday)
+
+### பொருளாதாரப்பிரச்சினைகளுக்கான தீர்வின் ஊடாக நிலையான அமைதி, நல்லிணக்கத்தைக் கட்டியெழுப்புவோம் - வெளிநாட்டு இராஜதந்திரிகளிடம் வெளிவிவகார அமைச்சர் உறுதி
+
+*2025-09-05 00:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/224241) · `ta`
+
+வட, கிழக்கு மாகாணங்களில் வாழும் தமிழ்மக்களுக்குப் பல்வேறு பிரச்சினைகள் காணப்படுவதாகவும், அவற்றுக்குரிய தீர்வைப் பெற்றுக்கொடுப்பதிலும், பொருளாதாரப்பிரச்சினைகளுக்கான தீர்வுகளின் ஊடாக நிலையான அமைதி மற்றும் நல்லிணக்கத்தைக் கட்டியெழுப்புவதிலும் தாம் உறுதியாக இருப்பதாகவும் வெளிநாட்டு இராஜதந்திரிகளுடனான சந்திப்பில் வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித்த ஹேரத் உறுதியளித்துள்ளார்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் எதிர்வரும் திங்கட்கிழமை ஆரம்பமாகவுள்ளது. இந்நிலையில் கடந்த செவ்வாய்க்கிழமை (2) கொழும்பில் அமைந்துள்ள வெளிவிவகார அமைச்சில் சர்வதேச நாடுகளின் இராஜதந்திரிகளைச் சந்தித்த அமைச்சர் விஜித்த ஹேரத் மனித உரிமைகள்சார் விடயங்களில் அரசாங்கத்தினால் முன்னெடுக்கப்பட்டுள்ள சமகால நகர்வுகள் குறித்தும், அவற்றில் அடையப்பட்டுள்ள முன்னேற்றங்கள் குறித்தும் விளக்கமளித்தார்.
+
+...
+
+[Data](articles/62febc0a.json)
+
+---
 
 ### 2025-09-04 (Thursday)
 
@@ -73,6 +89,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/86795012.json)
+
+---
+
+### ரயிலில் மோதி பெண் மரணம்
+
+*2025-09-04 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224239) · `ta`
+
+காலி - பெலியத்த ரயில் பாதையில் மினுவாங்கொட பிங்கே பகுதியில் ரயிலில் மோதி பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த பெண்ணின் அடையாளம் இன்னும் உறுதிப்படுத்தப்படவில்லை, மேலும் 3ஆம் திகதி புதன்கிழமை யக்கலமுல்ல பகுதியில் உள்ள ஒரு மருந்தகத்தில் இருந்து எடுக்கப்பட்ட மருந்து பாட்டில் சம்பவ இடத்தில் ஒரு கைப்பையில் இருந்து கண்டெடுக்கப்பட்டது.
+
+சடலம் காலி தேசிய மருத்துவமனையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது, மேலும் சம்பவம் குறித்து காலி பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/d4e728b9.json)
 
 ---
 
@@ -145,6 +177,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b2417997.json)
+
+---
+
+### 2 dead, 12 injured as bus topples down precipice on Ella-Weelawaya road
+
+*2025-09-04 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112189/2-dead-12-injured-as-bus-topples-down-precipice-on-ella-weelawaya-road) · `en`
+
+UPDATE: At least two persons are reported dead while another 12 individuals have been injured and hospitalised after a bus toppled down a precipice near the 24th Km Post on the Ella-Weelawaya main road.
+
+The injured have been admitted to the Badulla Teaching Hospital, sources told Ada Derana.
+
+A bus has reportedly toppled down a precipice near the 24th Kilometer Post on the Ella-Weelawaya main road.
+
+A bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, has toppled down a precipice for a distance of around 500 meters this evening (4), Ada Derana reporter said.
+
+The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were onboard the bus at the time of the accident.
+
+Rescue operations are currently underway at the scene of the incident while several passengers have already been rushed to hospital, he said.
+
+◼️
+
+[Data](articles/468c029b.json)
 
 ---
 
@@ -1693,69 +1747,5 @@ Further investigations into the incident are being conducted by the Kandy Divisi
 ...
 
 [Data](articles/26e16f91.json)
-
----
-
-### Sri Lanka delays online services VAT till April 2026
-
-*2025-09-04 12:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-delays-online-services-vat-till-april-2026-239502/) · `en`
-
-ECONOMYNEXT – Sri Lanka has delayed a digital services tax till April 2026, from the original October 01, to iron out practical difficulties, Cabinet spokesman Nalinda Jayatissa said.
-
-The VAT on digital services was part of an expansion of the tax based under an International Monetary Fund program.
-
-There have been concerns that the services like Paypal, and Stripe which are financial facilitators, like credit carss, have also been listed for 18 percent VAT.
-
-Stripe is a service that collects funds from credit cards and bank accounts, for other service providers.
-
-RELATED : Sri Lanka to charge VAT on Paypal, Stripe, amid existing IMF MCPs
-
-Paypal is a also a payment system that is connected to credit cards and bank accounts. If they are charged VAT on top of the underlying services, Sri Lankan customers may end up paying 36 percent VAT. (Colombo/Sept04/2025)
-
-◼️
-
-[Data](articles/44acf07c.json)
-
----
-
-### சிறுமி துஷ்பிரயோகம்: கான்ஸ்டபிள் கைது
-
-*2025-09-04 12:15:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-கான்ஸ்டபிள்-கைது/175-364027) · `ta`
-
-ஒரு கிராமத்தில் வசிக்கும் 9 வயது மற்றும் 6 மாத வயதுடைய மைனர் சிறுமியை பாலியல் வன்கொடுமை செய்ததற்காக  ஒரு பொலிஸ் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளார்.
-
-புத்தல காவல் பிரிவின் எகொடவத்த ஒக்கம்பிட்டிய வீதியைச் சேர்ந்த சிறுமியே இவ்வாறு வன்புணர்வுக்கு உட்படுத்தப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட நபர் மட்டக்களப்பு தலைமையக பொலிஸில் இணைக்கப்பட்ட ஒரு பொலிஸ் கான்ஸ்டபிள் ஆவார்.
-
-பாடசாலை குழந்தைகள் மீதான பாலியல் துன்புறுத்தல் குறித்த விழிப்புணர்வு நிகழ்ச்சி திட்டம் சிறுமி கல்வி பயிலும் பாடசாலையில் நடத்தப்பட்டது.
-
-அதன்பின்னர் அந்த சிறுமி தனது தாயாரிடம் தனக்கு நேர்ந்ததை தெரிவித்தார். இது தொடர்பில் தாயார், புத்தல பொலிஸ் நிலையத்தில் முறைப்பாடு செய்தார்.
-
-2024 நவம்பர் மாதம் ஒரு நாள் பாடசாலை முடிந்ததும், பிரத்தியேக வகுப்புக்குச் சென்ற சிறுமி, தனது நண்பியின் வீட்டுக்குச் சென்றிருந்தார்.
-
-சந்தேகத்திற்குரிய பொலிஸ் கான்ஸ்டபிள், அவ்வழியிலேயே தானும் செல்வதாக கூறி,  வீட்டில் விட்டு செல்வதாக, அச்சிறுமியை மோட்டார் சைக்கிளில் அழைத்துச் சென்று ஓர் அறையில் வைத்து  பாலியல் பலாத்காரம் செய்துள்ளார்.
-
-...
-
-[Data](articles/4ea13cd8.json)
-
----
-
-### ලිස්බන් අගනුවර දුම්රියක් පීලි පැනීමෙන් 15කට දිවි අහිමිවෙයි
-
-*2025-09-04 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214161) · `si`
-
-ලිස්බන් අගනුවර ප්‍රධාන සංචාරක ආකර්ෂණයක් වන වසර 140ක් පැරණි ග්ලෝරියා ෆර්නිකුලර් දුම්රිය පීලි පැනීමෙන් පුද්ගලයින් 15 දෙනෙකු මිය ගොස් ඇත.
-
-තවත් 18 දෙනෙකු රෝහල් ගත කර ඇති අතර, ඉන් පස් දෙනෙකුගේ තත්ත්වය බරපතළ බව විදෙස් මාධ්‍ය පවසයි.
-
-ඊයේ සවස 4.5ට පමණ සිදු වී ඇති මෙම අනතුරින් ජාතිකත්වය තහවුරු කළ නොහැකි මියගිය අය අතර විදේශිකයන් ද සිටි බව බලධාරීන් පැවසීය.
-
-පෘතුගාල රජය ඊයේ ජාතික ශෝක දිනයක් ලෙසට ද ප්‍රකාශයට පත් කර තිබුණි.
-
-◼️
-
-[Data](articles/ae05c3ae.json)
 
 ---

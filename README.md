@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 04:19:17**
+As of **2025-09-05 04:32:50**
 
 ## Newspaper Stats
 
-*Scraped **74,239** Articles*
+*Scraped **74,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 755
 economynextcom | 4,516
 islandlk | 4,555
 dailymirrorlk | 4,733
-dailyftlk | 5,259
+dailyftlk | 5,260
 adalk | 7,177
 adaderanalk | 9,481
 tamilmirrorlk | 11,051
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,239 articles have been extended.
+61,973 (83.5%) of 74,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### CoPF approves additional funding for Kandy water supply project
+
+*2025-09-05 04:18:30* · [`dailyftlk`](https://www.ft.lk/news/CoPF-approves-additional-funding-for-Kandy-water-supply-project/56-781272) · `en`
+
+The Parliament Secretariat yesterday said the Committee on Public Finance (CoPF) approved a proposed supplementary estimate to settle unpaid bills and complete the remaining work of the China EXIM Bank-financed Kandy North Pathadumbara Integrated Water Supply Project.
+
+The supplementary estimate was presented by the Urban Development, Construction and Housing Ministry.
+
+The statement did not disclose the value of the supplementary estimates nor the status of the project.
+
+According to the National Water Supply and Drainage Board, the Rs. 58 billon project with local funding amounting to Rs. 7.3 billion, commenced in August 2019 and was due for completion by August 2022, with an extension granted to March 2025. The project included upgrading 27 service reservoirs, building 18 new pump houses, and laying 570 km distribution and 83 km transmission lines.
+
+...
+
+[Data](articles/00f4b291.json)
+
+---
 
 ### அரசாங்கத்தின் தன்னிச்சையான நடவடிக்கைகளை எதிர்த்து ஒன்றிணையுமாறு அழைப்பு – துமிந்த நாகமுவ
 
@@ -1755,21 +1773,5 @@ The new rates will come into effect on 22 September, which is around the time In
 ...
 
 [Data](articles/3643fb40.json)
-
----
-
-### Case against ex-Ministers Mahindananda and Nalin Fernando adjourned to October 10
-
-*2025-09-04 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112173/case-against-ex-ministers-mahindananda-and-nalin-fernando-adjourned-to-october-10) · `en`
-
-The case filed by the Attorney General under the Public Property Act against former ministers Mahindananda Aluthgamage and Nalin Fernando and the former Secretary of the Ministry of Sports, retired Major General Nanda Mallawaarachchi has been scheduled for further hearing on October 10 at the Colombo High Court.
-
-The case was called today (04) before Colombo High Court judge Manjula Tilakaratne, Ada Derana reporter said.
-
-During the proceedings, former ministers Mahindananda Aluthgamage and Nalin Fernando, who are currently serving prison sentences, were produced before court by prison officials. However, Nanda Mallawaarachchi, the third accused, did not appear in court due to illness. His attorney submitted a medical report explaining his absence.
-
-...
-
-[Data](articles/d1b59408.json)
 
 ---

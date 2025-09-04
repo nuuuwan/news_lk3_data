@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 04:32:50**
+As of **2025-09-05 04:49:54**
 
 ## Newspaper Stats
 
-*Scraped **74,240** Articles*
+*Scraped **74,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 755
 economynextcom | 4,516
 islandlk | 4,555
 dailymirrorlk | 4,733
-dailyftlk | 5,260
+dailyftlk | 5,271
 adalk | 7,177
 adaderanalk | 9,481
 tamilmirrorlk | 11,051
@@ -26,11 +26,171 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,240 articles have been extended.
+61,973 (83.5%) of 74,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### Japan-funded Habarana-Veyangoda Transmission Line Project completed
+
+*2025-09-05 04:33:13* · [`dailyftlk`](https://www.ft.lk/news/Japan-funded-Habarana-Veyangoda-Transmission-Line-Project-completed/56-781283) · `en`
+
+Japanese Ambassador Akio Isomata on Wednesday attended the opening ceremony of the Habarana-Veyangoda Transmission Line Project at New Habarana grid substation, together with Energy Minister Kumara Jayakody, Ceylon Electricity Board (CEB) General Manager Wasantha Edussuriya, and JICA Sri Lanka Office Chief Representative Kenji Kuronuma.
+
+This yen loan project funded by the Government of Japan worth approximately $ 65 million aims to contribute to Sri Lanka’s economic development by strengthening transmission capacity, enhancing the reliability of the power supply and reducing transmission loss through the construction of low-loss transmission lines and substations between Habarana and Veyangoda.
+
+This project is a significant milestone as it is the first yen-loan project which has been completed and handed over to Sri Lanka since the disbursement of 11 suspended yen-loan projects was resumed in July last year, after the interval of three years due to the economic crisis in Sri Lanka.
+
+...
+
+[Data](articles/97a5adb5.json)
+
+---
+
+### SL’s High Commissioner  to Pakistan presents credentials
+
+*2025-09-05 04:31:02* · [`dailyftlk`](https://www.ft.lk/news/SL-s-High-Commissioner-to-Pakistan-presents-credentials/56-781282) · `en`
+
+High Commissioner of Sri Lanka to Pakistan, Rear Admiral Fred Senavirathne (Retd.) presented his Letters of Credence to the President of the Islamic Republic of Pakistan, Asif Ali Zardari on 22 August, at Aiwan – e-Sadr (Presidency), Islamabad.
+
+During the proceeding of the ceremony, the High Commissioner was escorted by the protocol of the MoFA from the High Commission premises to the Presidency. The credentials ceremony featured a Guard of Honour by a smartly turned-out contingent of the Armed Forces which was followed by the presentation of credentials and a courtesy call on the President of Pakistan.
+
+...
+
+[Data](articles/7bbdfe40.json)
+
+---
+
+### Royal College Old Boys’ East Coast Foundation welcomes newly appointed Sri Lankan Permanent Representative to UN
+
+*2025-09-05 04:30:08* · [`dailyftlk`](https://www.ft.lk/news/Royal-College-Old-Boys-East-Coast-Foundation-welcomes-newly-appointed-Sri-Lankan-Permanent-Representative-to-UN/56-781281) · `en`
+
+The Royal College Old Boys’ East Coast Foundation welcomed the newly appointed Permanent Representative of Sri Lanka to the United Nations, H.E. Jayantha Jayasuriya, PC, at a special gathering held in New York, United States.
+
+...
+
+[Data](articles/f6d98ed7.json)
+
+---
+
+### NCE delegation  to South strengthens regional export linkages
+
+*2025-09-05 04:28:04* · [`dailyftlk`](https://www.ft.lk/business/NCE-delegation-to-South-strengthens-regional-export-linkages/34-781280) · `en`
+
+The National Chamber of Exporters of Sri Lanka (NCE), in collaboration with the Southern Agriculture Entrepreneurs Development Centre, successfully organised a special delegation to the Southern Province to strengthen partnerships between exporters and regional producers.
+
+The event attracted over 75 suppliers, producers, and aspiring exporters from the region. They were joined by 25 NCE member companies, who engaged directly with them to explore opportunities for sourcing, partnerships, and long-term collaborations.
+
+The purpose of these regional programs is to directly engage with producers, identify gaps in their processes, and work towards upskilling and upgrading them to meet international standards. To this end, delegates from leading certifying bodies — who are also NCE members — took part in the delegation. They expressed strong interest in supporting regional producers to obtain globally recognised certifications, thereby improving their competitiveness in international markets.
+
+...
+
+[Data](articles/f35fe83d.json)
+
+---
+
+### Pagariya JBN Power Conclave showcases global business leadership in Colombo
+
+*2025-09-05 04:25:25* · [`dailyftlk`](https://www.ft.lk/business/Pagariya-JBN-Power-Conclave-showcases-global-business-leadership-in-Colombo/34-781279) · `en`
+
+The Pagariya JBN Power Conclave, an exclusive international summit for JITO’s Chief Patrons (CPs) and leading Jain business leaders, was held from 15 to 17 August at the ITC Ratnadipa in Colombo.
+
+Hosted by JBN Apex and JITO Chennai Plus Chapter, the 2.5-day conclave brought together over 600 influential entrepreneurs, investors, and thought leaders from India and across the globe. The gathering was designed to enable high-level networking, sectoral collaboration, and new business opportunities, while also offering a platform for knowledge-sharing through keynote addresses, fireside conversations, and curated business dialogues.
+
+...
+
+[Data](articles/7d34af1f.json)
+
+---
+
+### Women in Tech Sri Lanka announces new team, renews strategic partnership with Mark & Comm
+
+*2025-09-05 04:24:14* · [`dailyftlk`](https://www.ft.lk/business/Women-in-Tech-Sri-Lanka-announces-new-team-renews-strategic-partnership-with-Mark-Comm/34-781278) · `en`
+
+Clockwise from top left: Women in Tech Sri Lanka Chapter Ambassador Sanali Kaushalya, Events Manager Tharangani Dissanayake, Partnerships Executive Priyanka Chandrakanthan, Mark & Comm MD Thanzyl Thajudeen, Partnerships Manager Shanika Madushani, and Marketing Manager Dinusha Geethanjali
+
+Women in Tech, a global non-profit organisation promoting inclusion, diversity, and equity in STEAM with a mission to empower 5 million women by 2030, has announced its new team, and also renewed its partnership with Colombo-based PR agency Mark & Comm Ltd., extending its role as strategic communications partner for the Sri Lanka Chapter for a further two years.
+
+...
+
+[Data](articles/a9ae95e1.json)
+
+---
+
+### Dubai Real Estate Roadshow comes to Colombo: Exclusive 1-to-1 consultations for Sri Lankan investors
+
+*2025-09-05 04:23:10* · [`dailyftlk`](https://www.ft.lk/business/Dubai-Real-Estate-Roadshow-comes-to-Colombo-Exclusive-1-to-1-consultations-for-Sri-Lankan-investors/34-781277) · `en`
+
+...
+
+[Data](articles/45dc9964.json)
+
+---
+
+### Prime Lands Residencies celebrates digital innovation as ‘The Grand’ website wins Gold at BestWeb.LK
+
+*2025-09-05 04:22:47* · [`dailyftlk`](https://www.ft.lk/business/Prime-Lands-Residencies-celebrates-digital-innovation-as-The-Grand-website-wins-Gold-at-BestWeb-LK/34-781276) · `en`
+
+Prime Lands Residencies PLC has once again been recognised for digital excellence, earning a Gold Award at the prestigious 15th BestWeb.lk Awards for the second consecutive year. The company triumphed in the Best Corporate Website category for The Grand Ward Place website (https://thegrand.lk/), a platform reflecting the commitment to deliver a dynamic, intuitive, and forward-thinking online presence shaping Sri Lanka’s real estate sector.
+
+The recognition highlights Prime Lands Residencies’ ability to provide customers with seamless access to property options, essential information, and brand engagement opportunities. Winning at BestWeb.lk further reinforces the company’s strategic digital investments and strengthens its position as the standard-bearer for real estate brands online.
+
+...
+
+[Data](articles/157bbccb.json)
+
+---
+
+### Sri Lanka and Italy successfully conclude inaugural political consultations
+
+*2025-09-05 04:20:45* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Italy-successfully-conclude-inaugural-political-consultations/56-781275) · `en`
+
+The first round of political consultations between Sri Lanka and Italy, co-chaired by Foreign Affairs and Foreign Employment Deputy Minister Arun Hemachandra and Italian Foreign Affairs and International Cooperation Deputy Minister Maria Tripodi, successfully concluded yesterday at the Foreign Affairs, Foreign Employment and Tourism Ministry in Colombo.
+
+The Memorandum of Understanding (MoU) on the Establishment of a Political Consultations Mechanism was signed by the two Deputy Ministers before commencing the consultations, providing a formal, structured framework for dialogue between the two countries.
+
+The Italian Deputy Minister also called on and had productive discussions with Prime Minister Dr. Harini Amarasuriya and Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath.
+
+...
+
+[Data](articles/16e08414.json)
+
+---
+
+### Special project to expedite missing persons investigations by 2027
+
+*2025-09-05 04:19:51* · [`dailyftlk`](https://www.ft.lk/news/Special-project-to-expedite-missing-persons-investigations-by-2027/56-781274) · `en`
+
+The Cabinet of Ministers at their meeting on Wednesday approved fast-tracking investigations into complaints of missing and disappeared persons through a special project to be completed by the end of 2027.
+
+The initiative will be carried out under the provisions of the Office on Missing Persons (Establishment, Administration, and Functioning), Act No. 14 of 2016, which established the Office on Missing Persons (OMP) as a dedicated mechanism to investigate and report on cases of disappearance.
+
+Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said it was approved to appoint 25 subcommittees comprising 75 qualified individuals, including retired judges, senior administrative officers, and lawyers.
+
+“These subcommittees will assist in completing investigations and issuing reports to families of the missing, with the goal of providing long-delayed justice to affected communities,” he added.
+
+...
+
+[Data](articles/976e6eb1.json)
+
+---
+
+### Shasheendra Rajapaksa files High Court bail petition
+
+*2025-09-05 04:19:26* · [`dailyftlk`](https://www.ft.lk/news/Shasheendra-Rajapaksa-files-High-Court-bail-petition/56-781273) · `en`
+
+Former Minister Shasheendra Rajapaksa, who is in remand custody on charges under the Public Property Act, yesterday filed a bail application before the Colombo High Court after being denied bail at the Magistrate’s Court.
+
+High Court Judge Lanka Jayaratne fixed the matter for 2 October to consider submissions on the request. Rajapaksa was taken into custody by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on 6 August over allegations that compensation amounting to Rs. 8.85 million was secured by pressuring officials of the Damage Assessment Office. The payment is related to the property of the Mahaweli Authority at Sevanagala that was destroyed during the recent public protests.
+
+The Colombo Chief Magistrate initially ordered his remand, and a bail application before the Magistrate’s Court was rejected on 12 August. Rajapaksa has now sought revision before the High Court, asking that the Magistrate’s order be set aside and that he be granted bail.
+
+◼️
+
+[Data](articles/79844de4.json)
+
+---
 
 ### CoPF approves additional funding for Kandy water supply project
 
@@ -1575,203 +1735,5 @@ Subsequently, MPs sought to purchase the houses under a concessionary payment me
 ◼️
 
 [Data](articles/835b3030.json)
-
----
-
-### තුසිත හල්ලොලුව යළිත් රිමාන්ඩ්
-
-*2025-09-04 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214167) · `si`
-
-රක්ෂිත බන්ධනාගාර ගතකර සිටින තුසිත හල්ලොලුව මහතාගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (04) නියම කළේය.
-
-ඒ අනුව සැකකරු ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහේස්ත්‍රාත්වරයා නියෝග කර තිබේ.
-
-ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මොහු තමා ගමන්ගත් වාහනයට ඉකුත්දා නාරාහේන්පිට ප්‍රදේශයේදී වෙඩි තබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් මෙලෙස සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර ඇත.
-
-◼️
-
-[Data](articles/88cdd6bd.json)
-
----
-
-### VAT on digital services by non-residents deferred to April 2026
-
-*2025-09-04 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112177/vat-on-digital-services-by-non-residents-deferred-to-april-2026) · `en`
-
-The implementation of the decision to introduce an 18% Value Added Tax (VAT) on digital services provided by non-resident companies to local consumers, effective October 2025 has been deferred to next year.
-
-Under the Value Added Tax (Amendment) Act No. 4 of 2025, effective from October 1, 2025, digital services provided by non-residents are subject to VAT.
-
-However, citing several practical reasons, non-resident digital service providers have requested additional time to comply with VAT requirements on such services, said the Cabinet Spokesman Dr. Nalinda Jayatissa.
-
-Accordingly, it has been proposed to postpone the effective date for imposing VAT on digital services by non-residents from October 1, 2025, to April 1, 2026.
-
-The Cabinet Spokesman said the draft amendments are currently being prepared to incorporate this change into the Value Added Tax Act.
-
-...
-
-[Data](articles/44c087b2.json)
-
----
-
-### Former NLB Director Thusitha Halloluwa further remanded
-
-*2025-09-04 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112176/former-nlb-director-thusitha-halloluwa-further-remanded) · `en`
-
-The Colombo Magistrate’s Court today (04) rejected the bail request of Thusitha Halloluwa, the former Director of the National Lotteries Board, who is currently in remand custody in connection with the recent shooting incident involving his vehicle in Narahenpita.
-
-Accordingly, the Colombo Additional Magistrate ordered that Thusitha Halloluwa be remanded until September 18.
-
-Thusitha Halloluwa who was evading court was arrested in Colpetty on August 19.
-
-He was arrested in relation to a shooting incident involving the vehicle of Halloluwa in Narahenpita.
-
-◼️
-
-[Data](articles/578baec6.json)
-
----
-
-### ’கேபிள் கார்’  தடம் புரண்டதில்  15 பேர் பலி
-
-*2025-09-04 14:04:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கேபிள்-கார்-தடம்-புரண்டதில்-15-பேர்-பலி/50-364036) · `ta`
-
-ஐரோப்பிய நாடான போர்த்துக்கல்லின் தலைநகர் லிஸ்பனில் குளோரியா புனிகுலர் கேபிள் கார் தடம் புரண்டு விபத்துக்குள்ளானதில் 15 பேர் உயிரிழந்துள்ளதாகவும் 18 பேர் காயமடைந்துள்ளனர் என்றும்  அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-மேலும் இந்த விபத்தில் 5 பேர் நிலைமை மிகவும் ஆபத்தான நிலையில் மருத்துவமனையில் சிகிச்சை பெற்று வருகின்றனர். இதனால் பலி எண்ணிக்கை அதிகரிக்கும் என அஞ்சப்படுகிறது.
-
-மேடான தண்டவாளப் பகுதியில் கீழ்நோக்கிச் சென்றுகொண்டிருந்தபோது, கேபிள் கார் கட்டடம் ஒன்றின் மீது மோதியததாகச் சம்பவத்தை நேரில் கண்ட ஒருவர் தெரிவித்துள்ளார். அந்த கேபிள் காரில் சுமார் 40 பேர் பயணம் செய்ய முடியும் என்று கூறப்படுகிறது.
-
-கேபிள் கார் செலுத்தும் கம்பி (cable) வலுவிழந்து போனதால் விபத்து நிகழ்ந்ததாக லிஸ்பன் தீயணைப்பாளர்கள் கூறியுள்ளனர்.
-
-விபத்தில் உயிரிழந்தவர்களில் காரில் இருந்தவர்கள், அருகிலிருந்த பாதசாரிகள் ஆகியோர் அடங்குவர் என்றும் நியூயோர்க் டைம்ஸ் குறிப்பிட்டுள்ளது.
-
-1885ஆம் ஆண்டு திறக்கப்பட்ட சம்பந்தப்பட்ட ‘ஃபனிக்கியூலர்’ கேபிள் கார், லிஸ்பனின் மத்தியப் பகுதியையும் பைரோ அல்டோ (Bairro Alto) பகுதியையும் இணைக்கிறது.
-
-...
-
-[Data](articles/169bf1cd.json)
-
----
-
-### ඩිජිටල් සේවා බද්ද  පැනවීම කල් යයි
-
-*2025-09-04 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214166) · `si`
-
-2025 අංක 4 දරන එකතු කළ අගය මත බදු (සංශෝධන) පනත මඟින් 2025‑10‑01 දින සිට බලපැවැත්වෙන පරිදි නිර්වාසික තැනැත්තෙකු (Non‑resident) විසින් ඩිජිටල් සේවා සැපයීම එකතු කළ අගය මත බද්දට යටත් කර තිබේ.
-
-කෙසේ වුවද, ඩිජිටල් සේවාවන් සඳහා එකතු කළ අගය මත බද්ද අය කිරීමේ දී එයට අනුකූල වීම සඳහා සූදානම් වීමට අමතර කාලයක් ලබා දෙන ලෙස ප්‍රායෝගික හේතූන් කිහිපයක් දක්වමින් නිර්වාසික ඩිජිටල් සේවා සපයන්නන් විසින් ඉල්ලා ඇත.
-
-ඒ අනුව, 2025‑10‑01 දින වෙනුවට අදාළ බද්ද බලාත්මක කිරීමේ දිනය 2026‑04‑01 ලෙස සංශෝධනය කිරීමටත්, ඒ සඳහා අදාළ සංශෝධිත විධිවිධාන දැනටමත් කෙටුම්පත් කෙරෙමින් පවතින එකතු කළ අගය මත බදු පනත සංශෝධනය කිරීම සඳහා වන කෙටුම්පතට ඇතුළත් කිරීමටත් මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍ය වශයෙන් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව සඳහා අමාත්‍ය මණ්ඩලයේ ප්‍රතිපත්තිමය අනුමැතිය ලබා දෙන ලදී.
-
-◼️
-
-[Data](articles/ff0b7ef1.json)
-
----
-
-### රත්නපුර රෝහලේ වෛද්‍ය වර්ජනය අත්හිටුවයි
-
-*2025-09-04 13:58:27* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-රෝහලේ-වෛද්‍ය-වර්ජනය-අත්හිටුවයි/11-418278) · `si`
-
-රත්නපුර ශික්ෂණ රෝහලේ ක්‍රියාත්මක කර තිබූ වෛද්‍යවරුන්ගේ සංඛේත වැඩ වර්ජනය අත්හිටුවා තිබේ.
-
-රත්නපුර ශික්ෂණ රෝහලේ අධ්‍යක්ෂවරයා එම ධූරයෙන් ඉවත් කර සෞඛ්‍ය අමාත්‍යාංශයට අනුයුක්ත කරමින් සෞඛ්‍ය අමාත්‍යංශ ලේකම්වරයා විසින් ලිපියක් නිකුත් කරනු ලැබීමෙන් අනතුරුව රත්නපුර ශික්ෂණ රෝහලේ  දින 03ක් පැවති වෛද්‍ය වැඩ වර්ජනය අද (04දා) දහවල් 12 සිට මෙලෙස අත්හිටුවීමට තීරණය කළ බව රජයේ වෛද්‍ය නිළධාරීන්ගේ සංගමය පැවසීය.
-
-◼️
-
-[Data](articles/7504f490.json)
-
----
-
-### காரில் பிரதமர் மோடியுடன் பேசியது என்ன? : புட்டின்
-
-*2025-09-04 13:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காரில்-பிரதமர்-மோடியுடன்-பேசியது-என்ன-புட்டின்/50-364035) · `ta`
-
-சீனாவில் நடந்த எஸ்​சிஓ மாநாட்டிலிருந்து காரில் சென்றபோது பிரதமர் மோடியுடன் பேசியது குறித்து ரஷ்ய ஜனாதிபதி புட்டின் பகிர்ந்துள்ளார்.
-
-சீனா​வின் தியான்​ஜின் நகரில் ஷாங்​காய் ஒத்​துழைப்பு அமைப்​பின் (எஸ்​சிஓ) 2 நாள் உச்சி மாநாடு செப். 31 மற்றும் ஆக.1 இரண்டு நாட்கள் நடைபெற்றது.
-
-இதில் பிரதமர் மோடி, ரஷ்ய ஜனாதிபதி புட்டின், சீன ஜனாதிபதி ஜி ஜின்பின் கலந்து கொண்ட்னர். இந்த மாநாடு நிறைவடைந்த நிலை​யில், இந்​தியா - ரஷ்யா இடையே இருதரப்பு பேச்​சு​வார்த்தை நடத்து​வதற்​காக பிரதமர் மோடி​யும் புதினும் ஒரே காரில் பயணித்து கூட்​டம் நடை​பெறும் அரங்​குக்கு சென்​றனர். இது சமூக வலைதளங்களில் பேசுபொருளானது. காருக்குள் இருவரும் என்ன பேசினார்கள் என்ற விவாதம் நடைபெற்று வந்தது.
-
-காரணம் பிரதமர் மோடிக்காக 15 நிமிடங்கள் காத்திருந்து ரஷ்ய ஜனாதிபதி புட்டின் தனது காரில் அழைத்துச் சென்றார். கூட்டம் நடைபெறும் இடத்தை அடைவதற்கான பயணம் 15 நிமிடங்கள் மட்டுமே. ஆனால் அவர்கள் தங்கள் உரையாடலைத் தொடர காரில் கூடுதலாக 45 நிமிடங்கள் செலவிட்டனர்.
-
-...
-
-[Data](articles/4dfeca8c.json)
-
----
-
-### Sri Lanka to look for investors to set up Customs point at Kerawalapitiya
-
-*2025-09-04 13:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-look-for-investors-to-set-up-customs-point-at-kerawalapitiya-239529/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking for private investors to set up a Customs inspection center at Kerawalapitiya as a public-private partnership, minister Nalinda Jayatissa said.
-
-A land belonging to the Sri Lanka Land Development Corporation has been transferred to the Sri Lanka Customs for this purpose, he told reporters.
-
-A committee appointed to determine the methodology for the establishment of the center has submitted its recommendations for selecting a viable business model.
-
-“Based on its recommendation, the Cabinet approved the proposal to call for expressions of interest and requests for proposals to select a suitable private partner to implement the proposed Kerawalapitiya Customs Verification Center project under a hybrid public-private partnership model,” Jayatissa said. (Colombo/Sep4/2025)
-
-◼️
-
-[Data](articles/4306d2cb.json)
-
----
-
-### India makes ACs, tea, school supplies cheaper to mitigate shock of US tariffs
-
-*2025-09-04 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112175/india-makes-acs-tea-school-supplies-cheaper-to-mitigate-shock-of-us-tariffs) · `en`
-
-India has cut taxes on hundreds of goods to boost consumption and mitigate the potential impact of steep US tariffs.
-
-Finance Minister Nirmala Sitharaman said on Wednesday that the Goods and Services Tax (GST) panel had simplified the consumption tax into two slabs - 5% and 18% - doing away with an earlier four-slab structure. There will be a separate 40% tax on sin goods like cigarettes.
-
-Goods set to become cheaper include food items, school supplies and insurance while imported liquor and premium cars would become costlier.
-
-Stock markets rallied on the announcement. But analysts say the slashed taxes could lead to revenue losses of up to $6bn for the government.
-
-The new rates will come into effect on 22 September, which is around the time India’s festive season is set to begin. It’s a time when sales of electronic goods such as ACs, TVs and other household appliances shoot up in the country and cheaper prices are expected to boost them further.
-
-...
-
-[Data](articles/c00f59f3.json)
-
----
-
-### நாடகமாடியவருக்கு விளக்கமறியல்
-
-*2025-09-04 13:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடகமாடியவருக்கு-விளக்கமறியல்/175-364034) · `ta`
-
-தனது சொந்த வாகனத்தை குறிவைத்து தாக்குதல் மற்றும் துப்பாக்கிச் சூடு சம்பவம் தொடர்பாக கைது செய்யப்பட்ட தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளர் துசித ஹல்லோலுவவின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
-
-செப்டெம்பர் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதவான் லஹிரு சில்வா, வியாழக்கிழமை (04)  உத்தரவிட்டார்.
-
-ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளுடன் இணைந்து ஹல்லோலுவ இந்த நாடகத்தை திட்டமிட்டுள்ளார் என  அதிகாரிகள் குற்றம் சாட்டுகின்றனர்.
-
-சந்தேக நபர் விசாரணையைத் தடுக்கலாம் மற்றும் சாட்சிகளுக்கு அச்சுறுத்தலை ஏற்படுத்தக்கூடும் என்ற கவலையை காரணம் காட்டி, அவரது ஜாமீன் மனுவை நீதவான் நிராகரித்து, அவரை காவலில் வைத்திருக்க உத்தரவிட்டார்.
-
-◼️
-
-[Data](articles/9cad2779.json)
-
----
-
-### பொலிஸ் ஜீப்பை ஒத்த ஜீப் பறிமுதல்
-
-*2025-09-04 13:43:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸ்-ஜீப்பை-ஒத்த-ஜீப்-பறிமுதல்/76-364033) · `ta`
-
-உயர் பொலிஸ் அதிகாரிகள் பயன்படுத்தும் ஜீப்பைப் போல வடிவமைக்கப்பட்ட ஒரு ஜீப்பை, கண்டி தலைமையக பொலிஸ் போக்குவரத்துப் பிரிவு சந்தேகத்தின் பேரில் பறிமுதல் செய்துள்ளது.
-
-பறிமுதல் செய்யப்பட்ட நேரத்தில், ஜீப்பில் இரண்டு பேர் இருந்தனர், பொலிஸ் அதிகாரிகள் பயன்படுத்துவதைப் போன்ற இரண்டு பயண தொலைபேசிகளுடன் அவர்கள் கைது செய்யப்பட்டனர்.
-
-டொயோட்டா லேண்ட் குரூசர் என்ற அந்த ஜீப், ஒரு   அரசியல் கட்சியின் தலைவருக்கு சொந்தமானது என்பது பொலிஸாரின் ஆரம்ப விசாரணையில் தெரியவந்தது. இது அடர் நீல வண்ணம் பூசப்பட்டிருந்தாலும், அதன் பதிவு செய்யப்பட்ட நிறம் பச்சை நிறத்தில் இருப்பதாக மோட்டார் வாகன பதிவு ஆணையகம் தெரிவித்துள்ளது.
-
-முன்பக்க ஜன்னலைத் தவிர, இந்த ஜீப்பின் அனைத்து பக்கவாட்டு ஜன்னல்களும் பயணிகளுக்கு வெளியே தெரியாத வகையில் நிறம் பூசப்பட்டுள்ளன. நகரத்தில் ஒரு உயர் பொலிஸ் அதிகாரி ஜீப்பை ஓட்டுகிறார் என்று நினைத்து சில பொலிஸ் அதிகாரிகள் ஏமாற்றப்பட்டுள்ளனர் என்பதும் பொலிஸ்  விசாரணையின் போது தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/3643fb40.json)
 
 ---

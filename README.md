@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 18:33:14**
+As of **2025-09-04 18:55:22**
 
 ## Newspaper Stats
 
-*Scraped **74,186** Articles*
+*Scraped **74,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,516
 islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,170
+adalk | 7,171
 adaderanalk | 9,473
 tamilmirrorlk | 11,044
 virakesarilk | 12,123
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,893
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,186 articles have been extended.
+61,973 (83.5%) of 74,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -271,6 +271,26 @@ The arrests were made following a complaint lodged by a female student who had a
 ◼️
 
 [Data](articles/9794334f.json)
+
+---
+
+### දුම්රිය මාර්ගයට පෙරලුණ මෝටර්  රථය නිසා දුම්රිය ධාවනයට බාධා
+
+*2025-09-04 16:40:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-මාර්ගයට-පෙරලුණ-මෝටර්--රථය-නිසා-දුම්රිය-ධාවනයට-බාධා/11-418286) · `si`
+
+බදුල්ල කොළඹ ප්‍රධාන මාර්ගයේ බණ්ඩාරවෙල කොළතැන්න දුම්රිය හරස් මාර්ගය අසල දී අද (4) පස්වරුවේ මෝටර් රථයක් මාර්ගයෙන් ඉවතට පැන බදුල්ල කොළඹ දුම්රිය මාර්ගයට පෙරලීයාමෙන් එක් අයෙක් තුවාල ලබා බණ්ඩාරවෙල රෝහලට ඇතුලත් කල බව බණ්ඩාරවෙල පොලිසිය පවසයි .
+
+මෝටර් රථය දුම්රිය මාර්ගයට පෙරලීයාමෙන් දුම්රිය ධාවනයටද බාධා සිදුව ඇතයි පොලිසිය කීය .
+
+බණ්ඩාරවෙල සිට හපුතලේ දෙසට ධාවනය වෙමින් තිබූ මෝටර් රථයක් රියදුරු ට නින්ද යාම නිසාවෙන් බණ්ඩාරවෙල කොළතැන්න දුම්රිය හරස් මාර්ගය අසල දී එක් වරම මාර්ගයෙන් ඉවතට පැන උඩරට දුම්රිය මාර්ගයට  පෙරලීගොස් ඇති බවත් පොලිසිය පැවසිය ..
+
+මෝටර් රථය  දුම්රිය මාර්ගයයට පෙරලීයාමට මොහොතකට පෙර කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වන අංක 1005 දරන පොඩිමැණිකේ දුම්රිය එම ස්ථානය පසුකිරිමත් සමග මෝටර් රථය දුම්රිය මාර්ගයට පෙරලීයාම නිසාවෙන් සිදුවීමට ගිය විශාල අනතුරක් අනූනවයෙන් වැලකී ගිය බව පොලිසිය සදහන් කළේය.
+
+බණ්ඩාරවෙල ඔත්තකඩේ ප්‍රදේශයේ පුද්ගලයකු මෙසේ තුවාල ලබා ඇති අතර මෝටර් රථය විනාශ වී ගොස් තිබේ. බණ්ඩාරවෙල පොලිසිය වැඩ්දුර පරීක්ෂණ පවත්වති .
+
+◼️
+
+[Data](articles/f640edaf.json)
 
 ---
 
@@ -1791,29 +1811,5 @@ He served as the CEO of SLASSCOM and the Sri Lanka Press Institute.
 ◼️
 
 [Data](articles/faec7a5a.json)
-
----
-
-### Wild elephant injured in train collision in Habarana
-
-*2025-09-04 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112165/wild-elephant-injured-in-train-collision-in-habarana) · `en`
-
-A wild elephant was hit by the night mail train traveling from Trincomalee to Colombo last night (03) in Puwakpitiya, Habarana.
-
-According to a wildlife officer, the elephant involved in the collision is estimated to be around 20 years old.
-
-The elephant’s front right leg was broken due to the impact and was found lying near the railway track, according to Ada Derana correspondent who visited the scene.
-
-Residents of the area stated that the railway line at that location offers a clear view for a long distance, and they allege that the driver’s negligence may have caused the accident.
-
-Wildlife officers stated that treatment for the injured leg will be initiated today (04) by the veterinary unit in Pandulagama.
-
-It is suspected that the elephant was trying to cross the railway line from the Hurulu Forest Reserve in Habarana to the Puwakpitiya village when the accident occurred.
-
-Wildlife officers from Ritigala and Kekirawa are conducting investigations regarding the incident.
-
-◼️
-
-[Data](articles/d76ba5f3.json)
 
 ---

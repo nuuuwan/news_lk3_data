@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 10:21:06**
+As of **2025-09-04 10:32:57**
 
 ## Newspaper Stats
 
-*Scraped **74,082** Articles*
+*Scraped **74,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 4,505
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,156
+adalk | 7,157
 adaderanalk | 9,454
 tamilmirrorlk | 11,019
 virakesarilk | 12,116
-adaderanasinhalalk | 12,866
+adaderanasinhalalk | 12,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,082 articles have been extended.
+61,973 (83.7%) of 74,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ශිෂ්‍යත්වයේ වැඩිම ලකුණු අම්බලන්ගොඩ ශනුදි අමායා හිමි කරගනී
+
+*2025-09-04 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214153) · `si`
+
+මෙවර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵලවලට අනුව දිවයිනේ ප්‍රථම ස්ථානය හිමිකර ගැනීමට අම්බලන්ගොඩ ශ්‍රී දේවානන්ද විද්‍යාලයේ ශනුදි අමායා අශ්විනි ශිෂ්‍යාව සමත්වී තිබේ.
+
+◼️
+
+[Data](articles/6046d942.json)
+
+---
 
 ### இலங்கையின் பொருளாதார வளர்ச்சிக்கு வெளிநாட்டு முதலீடுகளை ஈர்ப்பது முக்கியமானது - ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்ட ஆரம்ப நிகழ்வில் ஜப்பானிய தூதுவர்
 
@@ -323,6 +335,22 @@ There were also 125 complaints regarding child trafficking, and 82 complaints re
 ...
 
 [Data](articles/a2341300.json)
+
+---
+
+### රු. කෝටි 20ක කේරළ ගංජා අල්ලයි
+
+*2025-09-04 07:49:23* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-20ක-කේරළ-ගංජා-අල්ලයි/11-418270) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව, පොලීසිය  හා එක්ව, මන්නාරම නරුවිලික්කුලම් වෙරළ ප්‍රදේශයේ, මන්නාරම විශේෂ පොලීස් ඒකකය හා එක්ව 2025 සැප්තැම්බර් මස 02 වැනි දින සහ 03දා සිදුකල විශේෂ සෝදිසි මෙහෙයුමකදී, රුපියල් මිලියන 203කට අධික දළ වීථි වටිනාකමකින් යුත් කේරළ කංසා කිලෝ ග්‍රෑම් නවසිය හයකට (906) අධික තොගයක් නීතියේ රැහැනට හසුකරදීමට කටයුතු  කෙරිණි.
+
+ඒ අනුව, උතුරු මැද නාවික විධානයේ ශ්‍රී ලංකා නාවික නෞකා පුස්සදේව ආයතනය, මන්නාරම පොලිස් විශේෂ ඒකකය හා එක්ව,  නරුවිලික්කුලම් වෙරළ ප්‍රදේශයේ සිදුකල මෙම විශේෂ සෝදිසි මෙහෙයුමේදී, එම වෙරළ ප්‍රදේශයේ තිබූ සැකකටයුතු පාර්සල් තුන්සිය අනූඅටක් (398) නිරීක්‍ෂණය කර පරීක්‍ෂාවට ලක්කෙරිණි. එහිදී, එම පාර්සල් තුල සූක්‍ෂම ලෙස අසුරා තිබු කේරළ කංසා කිලෝ ග්‍රෑම් නවසිය හයකට (906) අධික තොගයක් මෙලෙස අත්අඩංගුවට  ගැනීමට කටයුතු කෙරිණි.
+
+නාවික හමුදා මෙහෙයුම් හමුවේ ජාවාරම්කරුවන් විසින් අතහැර දමා යන්නට ඇතැයි සැකකෙරෙන,  මෙම මෙහෙයුම මඟින් අත්අඩංගුවට  ගත් කේරළ කංසා තොගයේ දළ වීථි වටිනාකම රුපියල් මිලියන දෙසිය තුනකට (203) අධික වෙතැයි විශ්වාස කෙරේ.
+
+...
+
+[Data](articles/bd3665a9.json)
 
 ---
 
@@ -1753,33 +1781,5 @@ Angunugalle Sri Jinananda thero is yet to achieve the notoriety of a Galagoda-At
 ...
 
 [Data](articles/a71d6d35.json)
-
----
-
-### President honours MAC Holdings chairman Andre Fernando
-
-*2025-09-03 18:18:00* · [`islandlk`](http://island.lk/president-honours-mac-holdings-chairman-andre-fernando/) · `en`
-
-Andre Fernando, president of the Sri Lanka- Bangladesh Business Cooperation Council of the National Chamber of Commerce of Sri Lanka (NCCSL) and Managing Director of MAC Holdings (Pvt) Ltd, was recently recognized for his outstanding leadership and contributions towards strengthening regional business cooperation.
-
-The honour was conferred on him by the chief guest on the occasion, President Anura Kumara Dissanayake during the Federation’s inaugural session.
-
-The Global Federation of Sri Lankan Business Councils (GFSLBC) held its inaugural Annual General Meeting recently at the Shangri-La Hotel, Colombo, under the theme “Uniting Global Sri Lankan Businesses – Moving Forward.” The two-day summit brought together entrepreneurs from 15 countries, including the United States, the United Kingdom, Japan, Australia, Canada, and India, to focus on expanding global trade relations, attracting investments, and channeling the expertise of Sri Lankan entrepreneurs worldwide into the national economy.
-
-...
-
-[Data](articles/b91940fe.json)
-
----
-
-### புலமைப்பரிசில் பரீட்சை பெறுபேறுகள் இரவு வௌிவரும்
-
-*2025-09-03 18:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-பெறுபேறுகள்-இரவு-வௌிவரும்/175-363979) · `ta`
-
-தரம் 05 புலமைப்பரிசில் பரீட்சை பெறுபேறுகள் இன்றிரவு(03) வௌியிடப்படும். - பரீட்சை திணைக்களம்
-
-◼️
-
-[Data](articles/2d52b394.json)
 
 ---

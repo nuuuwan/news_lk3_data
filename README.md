@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 01:18:27**
+As of **2025-09-05 01:32:51**
 
 ## Newspaper Stats
 
-*Scraped **74,231** Articles*
+*Scraped **74,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,177
 adaderanalk | 9,479
-tamilmirrorlk | 11,050
+tamilmirrorlk | 11,051
 virakesarilk | 12,139
 adaderanasinhalalk | 12,903
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,231 articles have been extended.
+61,973 (83.5%) of 74,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### எல்ல, வெல்லவாய பஸ் விபத்து: 10 பேர் பலி
+
+*2025-09-05 01:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-பஸ்-விபத்து-10-பேர்-பலி/175-364052) · `ta`
+
+எல்லவிற்கு சுற்றுலாவிற்காக சென்ற தங்காலை நகரசபை ஊழியர்கள் குழுவொன்று இந்த விபத்தில் சிக்கியுள்ளனர்.
+
+சுற்றுலாவிற்கு சென்று மீண்டும் தங்காலைக்குத் திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து நிகழ்ந்துள்ளது.(a)
+
+◼️
+
+[Data](articles/93563a0f.json)
+
+---
 
 ### මියගිය ගණන 10ක් දක්වා ඉහළට
 
@@ -1739,25 +1753,5 @@ The strike has been called off following the issuance of a letter by the Secreta
 ...
 
 [Data](articles/26f6661f.json)
-
----
-
-### Female doctor arrested in Kandy for driving luxury vehicle with fake number plates
-
-*2025-09-04 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112171/female-doctor-arrested-in-kandy-for-driving-luxury-vehicle-with-fake-number-plates) · `en`
-
-A female doctor has been arrested by the Crimes Investigation Division of the Kandy Police on suspicion of driving a luxury vehicle with forged number plates.
-
-The arrest was made during a search operation carried out on the Sumangala Mawatha in Wariyapola, Kandy, following a tip-off received by the police emergency response unit.
-
-According to police investigations, while the vehicle is registered under the name of the suspect’s husband—who is also a doctor—the number plates displayed on the vehicle belonged to a car registered under his brother’s name.
-
-The arrested doctor is currently attached to a main hospital in Kandy.
-
-Further investigations into the incident are being conducted by the Kandy Division Crimes Investigation Unit.
-
-◼️
-
-[Data](articles/79ec0647.json)
 
 ---

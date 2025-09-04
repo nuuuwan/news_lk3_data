@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 17:54:29**
+As of **2025-09-04 18:10:54**
 
 ## Newspaper Stats
 
-*Scraped **74,178** Articles*
+*Scraped **74,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,169
-adaderanalk | 9,472
-tamilmirrorlk | 11,041
+adaderanalk | 9,473
+tamilmirrorlk | 11,044
 virakesarilk | 12,123
-adaderanasinhalalk | 12,890
+adaderanasinhalalk | 12,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,178 articles have been extended.
+61,973 (83.5%) of 74,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### மனிதப் புதைகுழிகளை பார்வையிட்டார் நீதி அமைச்சர்
+
+*2025-09-04 17:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனிதப்-புதைகுழிகளை-பார்வையிட்டார்-நீதி-அமைச்சர்/175-364045) · `ta`
+
+கல்முனை, களுவாஞ்சிகுடி மற்றும் குருக்கள் மடம் ஆகிய பகுதிகளைச் சுற்றியுள்ள பகுதிகளில் நீதி மற்றும் தேசிய ஒருங்கிணைப்பு அமைச்சர் ஹர்ஷண நாணயக்கார ஆய்வு சுற்றுப்பயணம் மேற்கொண்டார். அங்கு மனித புதைகுழிகள் இருப்பதாகக் கூறப்படும் இடங்களில் முறைப்பாடுகள் பதிவாகியுள்ளன.
+
+நீதி அமைச்சின் கூற்றுப்படி, விஜயத்தின் போது, முறைப்பாடுகளை சமர்ப்பித்த குடியிருப்பாளர்களை அமைச்சர் நாணயக்கார சந்தித்தார்.
+
+கூட்டுப் புதைகுழி குற்றச்சாட்டுகள் தொடர்பான விசாரணைகள் நியாயமாகவும் வெளிப்படையாகவும் நடத்தப்படும் என்று அமைச்சர் உறுதியளித்தார்.
+
+இந்த விஜயத்தின் போது மட்டக்களப்பில் உள்ள காணாமல் போனோர் அலுவலக அதிகாரிகள், மூத்த பொலிஸ் அதிகாரிகளும் உடனிருந்தனர்.
+
+◼️
+
+[Data](articles/cbae1e03.json)
+
+---
+
+### ”அவர் வீடு வீடாக சென்றாலும் அவருக்கு வாய்ப்பில்லை”
+
+*2025-09-04 17:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்-வீடு-வீடாக-சென்றாலும்-அவருக்கு-வாய்ப்பில்லை/175-364044) · `ta`
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ கிராமம் கிராமமாகவோ அல்லது வீடு வீடாகவோ பிரச்சாரம் செய்தாலும் தேர்தல் வெற்றிக்கு வாய்ப்பில்லை என்று அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
+
+ஊடகங்களுக்கு உரையாற்றிய அமைச்சர் சமரசிங்க, கடந்த கால அரசாங்கங்களை விமர்சித்தார், "அவர்கள் கிராமம் கிராமமாக ஆட்சி செய்து, நாட்டை திவாலாக்கி, ஒரு LC ஐ திறக்க முடியாத அளவுக்கு ஏழையாக்கி, கடன்களை செலுத்த முடியாத ஒரு தேசமாக மாற்றி வந்தனர். அதைப் பார்த்த மக்கள் எங்களுக்கு மூன்றில் இரண்டு பங்கு பெரும்பான்மையை வழங்கினர்.
+
+"எனவே, அவர்கள் கிராமம் கிராமமாகவோ அல்லது வீடு வீடாகவோ சென்றாலும், நாமலுக்கு எந்த வாய்ப்பும் இல்லை," என்று அவர் கூறினார்.
+
+உணவுப் பொருட்களின் விலைகளின் நிலைத்தன்மை குறித்தும் அவர் கருத்துத் தெரிவிக்கையில், "கடந்த பத்து மாதங்களாக அரிசியின் விலை அப்படியே உள்ளது, உருளைக்கிழங்கு மற்றும் வெங்காயத்தின் விலைகளும் நிலையாக உள்ளன. இன்று காலை நாங்கள் வவுனியா பொருளாதார மையத்தைத் திறந்து வைத்தோம்.
+
+...
+
+[Data](articles/ba2cdd09.json)
+
+---
+
+### පද්මේගේ මත්ද්‍රව්‍ය නිෂ්පාදනාගාරය ගැන තවත් අනාවරණයක්
+
+*2025-09-04 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214178) · `si`
+
+කෙහෙල්බද්දර පද්මේ විසින් මෙරට තුළ පවත්වාගෙන ගිය බව කියන අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයයේ සේවය කිරීම සඳහා පාකිස්තානු ජාතිකයින් දෙදෙනෙකු සිට ඇති බවට තොරතුරු අනාවරණය වී ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකරන විමර්ශනයකදී කෙහෙල්බද්දර පද්මේ විසින් නුවරඑළිය ප්‍රදේශයේ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් තොරතුරු අනාවරණය විය.
+
+අද (04) පෙරවරුවේ කුරුඳුවත්ත නව පොලිස් ස්ථාන ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල අදාළ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරය සම්බන්ධයෙන් වැඩිදුරටත් කරුණු අනාවරණය කළේය.
+
+...
+
+[Data](articles/31b9dc7c.json)
+
+---
+
+### ரயில் முந்தியதால் தண்டவாளத்தில் விழுந்த கார் தப்பியது
+
+*2025-09-04 17:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-முந்தியதால்-தண்டவாளத்தில்-விழுந்த-கார்-தப்பியது/76-364043) · `ta`
+
+பதுளை-கொழும்பு பிரதான வீதியில் பண்டாரவளை-கொலதென்ன ரயில் கடவைக்கு அருகில் இன்று (4) மதியம் மோட்டார் வாகனம் ஒன்று வீதியை விட்டு விலகி பதுளை-கொழும்பு ரயில் தண்டவாளத்தில் கவிழ்ந்ததாக பண்டாரவளை பொலிஸார் தெரிவித்தனர்.
+
+மோட்டார் வாகனம் ரயில் பாதையில் சாய்ந்து ரயில் போக்குவரத்திற்கு இடையூறு விளைவித்ததாக பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரவளையில் இருந்து ஹப்புத்தளை நோக்கி பயணித்த மோட்டார் வாகனம் ஓட்டுநர் தூங்கியதால் சாலையை விட்டு விலகி ரயில் தண்டவாளத்தில் கவிழ்ந்தது.
+
+கொழும்பு கோட்டையிலிருந்து பதுளை நோக்கி பயணித்த ரயில், மோட்டார் வாகனம் ரயில் தண்டவாளத்தில் கவிழ்வதற்கு சில நிமிடங்களுக்கு முன்பு அந்த இடத்தை கடந்து சென்றதால் பெரும் விபத்து தவிர்க்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/fb04ff3f.json)
+
+---
 
 ### නයිජීරියාවේ බෝට්ටුවක් පෙරළී 60ක් මරුට
 
@@ -145,6 +215,22 @@ Further to the T-bill auction held on Wednesday (3), no further subscription was
 ◼️
 
 [Data](articles/7b6281af.json)
+
+---
+
+### 16 Eastern University students arrested over ragging incident
+
+*2025-09-04 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112183/16-eastern-university-students-arrested-over-ragging-incident-) · `en`
+
+A total of sixteen students, including six females students, have been arrested in connection with an alleged ragging incident at the Eastern University.
+
+The arrested students were later produced before the Eravur Magistrate’s Court and were subsequently granted bail, police said.
+
+The arrests were made following a complaint lodged by a female student who had allegedly been subjected to the ragging incident.
+
+◼️
+
+[Data](articles/9794334f.json)
 
 ---
 
@@ -1741,109 +1827,5 @@ The Colombo Stocks Exchange opened in green; The ASPI was up 0.18 percent, or 37
 ◼️
 
 [Data](articles/4818ff36.json)
-
----
-
-### No approval for road construction through Sinharaja Forest – Environment Minister
-
-*2025-09-04 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112164/no-approval-for-road-construction-through-sinharaja-forest-environment-minister) · `en`
-
-No approval will be granted for any road construction within the Sinharaja Forest Reserve, Minister of Environment Dr. Dammika Patabendi.
-
-Minister Patabendi emphasised that in line with the government’s environmental protection policy, no such action will be taken that could harm the ecosystem.
-
-The Minister made these remarks in response to a question from a journalist regarding a proposed road project from Illuma Kanda to Sooriyakanda, which has recently sparked public concern.
-
-He clarified that the road proposal had only been submitted to a Regional Development Committee, and a group of officials had visited the area for inspection. This, he said, has led to the current discussion and public debate on the matter.
-
-◼️
-
-[Data](articles/fc596dbe.json)
-
----
-
-### ශිෂ්‍යත්වයේ වැඩිම ලකුණු ගාල්ල දිස්ත්‍රික්කයෙන්  - ලකුණු 198ක්
-
-*2025-09-04 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214151) · `si`
-
-මෙවර 2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාග ප්‍රතිඵලවලට අනුව සිංහල මාධ්‍යයෙන් වැඩිම ලකුණු ලබාගත් දරුවා ගාල්ල දිස්ත්‍රික්කයෙන් වාර්තා වෙයි.
-
-මේ අතර දෙමළ මාධ්‍යයෙන් වැඩිම ලකුණු ලෙස ලකුණු 194ක් ලබාගත් දරුවෙකු යාපනය දිස්ත්‍රික්කයෙන් වාර්තා වී තිබේ.
-
-විභාග කොමසාරිස් ජනරාල් ඒ. කේ. එස්. ඉන්දිකා කුමාරි මහත්මිය ඒ බව සඳහන් කළාය.
-
-පසුගිය වසරට සාපේක්ෂව එය 1.06% වැඩිවීමක් බව විභාග කොමසාරිස් ජනරාල් ඒ. කේ. එස්. ඉන්දිකා කුමාරි මහත්මිය පැවසුවාය.
-
-පළාත් මට්ටමින් ලකුණු 70ක් හෝ ඊට ඉහළින් ලකුණු ලබාගෙන වැඩිම සාධනයක් පෙන්නුම් කර ඇත්තේ සබරගමුව පළාතෙනි.
-
-පළාත් මට්ටමින් කඩඉම් ලකුණු සාධනය සලකා බැලීමේදී සබරගමුව පළාතෙන් වැඩිම සාධන මට්ටමක් පෙන්නුම් කර ඇත.
-
-දෙවනියට ඌව පළාතත් තෙවනියට දකුණු පළාතත් වැඩිම සාධනයක් හිමිකරගත් පළාත් ලෙස වාර්තා වී තිබේ.
-
-දිස්ත්‍රික් මට්ටමින් ලකුණු 70 හෝ ඊට වඩා වැඩි ප්‍රමාණයක් ලකුණු ලබාගත් දරුවන් වැඩි ප්‍රමාණයක් කුරුණෑගල දිස්ත්‍රික්කයෙන් වාර්තා වී තිබේ.
-
-එහි දෙවන සහ තෙවන ස්ථාන හම්බන්තොට සහ කෑගල්ල යන දිස්ත්‍රික්කවලට හිමිවී ඇත.
-
-◼️
-
-[Data](articles/4d86c04b.json)
-
----
-
-### Grade 5 scholarship exam: Top performers revealed
-
-*2025-09-04 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112163/grade-5-scholarship-exam-top-performers-revealed) · `en`
-
-According to the results of the 2025 Grade 5 Scholarship Examination, the highest-scoring student in the Sinhala medium is Shanudi Amaya of Sri Devananda College, Ambalangoda from the Galle district, with 198 marks, the Commissioner General of Examinations, A.K.S. Indika Kumari stated.
-
-Meanwhile, A. Lakshayan of Jaffna Hindu Primary School from the Jaffna district obtained the highest score in Tamil medium with 194  marks.
-
-This was announced by the Commissioner General of Examinations, A.K.S. Indika Kumari, during a special media briefing this morning (04).
-
-According to the Commissioner General of Examinations, a total of 51,969 students (17.11%) pass the cut-off marks of 140 for the Sinhala medium and 134 for the Tamil medium.
-
-The results of the 2025 Grade 5 Scholarship Examination were released online, last night (03).
-
-Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
-
-...
-
-[Data](articles/d17b269c.json)
-
----
-
-### சிறுமி மாயம் ; வெள்ளை நிற வேன் மீது சந்தேகம்
-
-*2025-09-04 08:52:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-மாயம்-வெள்ளை-நிற-வேன்-மீது-சந்தேகம்/76-364009) · `ta`
-
-தாய் தந்தையர் தோட்ட பணிக்கு சென்ற வேளை 16 வயது வயதுடைய சிறுமி காணாமல் போயுள்ள சம்பவம் மஸ்கெலியா பொலிஸ் பிரிவுக்குட்பட்ட சாமிமலை பகுதியில் வியாழக்கிழமை (04) காலை இடம்பெற்றுள்ளது.
-
-இது தொடர்பாக காணாமல் போன சிறுமியின் தந்தை பொலிஸ் நிலையத்தில் தெரிவிக்கையில், தனது 16 வயதுடைய மகள்   சாமிமலை பெயலோன் தோட்ட பாகினி பிரிவில் தனது மாமி வீட்டில் இரவு தங்கி இருந்த நிலையில்  தானும் தன் மனைவியும் தோட்ட பணிக்கு சென்றிருந்த வேளை  இச் சம்பவம் இடம்பெற்றுள்ளது என தெரிவித்துள்ளார்.
-
-மகள் பெயர்லோன் தமிழ் வித்தியாலயத்தில் தரம் எட்டு வரை கல்வி பயின்றுள்ளதுடன் அதன் பின்னர் நோய் ஏற்பட்ட காரணத்தால் இடை நடுவில் படிப்பை நிறுத்தியுள்ளார். மகள் இரவு நேரத்தில் தனது மாமியார் வீட்டில் தங்குவதாகவும் வழக்கம் போல் தங்கள் இருவரும் பணி முடித்து வந்து பார்த்த போது மகள் இல்லை  எனவும் தெரிவித்துள்ளார்.
-
-அத்துடன் வியாழக்கிழமை (04) இன்று காலை சந்தேகத்திற்கு இடமான வேன் ஒன்றை அப் பகுதியில் கண்டதாகவும் அதில் இருந்த இளைஞர்கள் மீது சந்தேகம் ஏற்பட்டுள்ளது எனவும் கூறியுள்ளார்.
-
-...
-
-[Data](articles/9dbeadd4.json)
-
----
-
-### සිංහරාජය හරහා මාර්ග ඉදිකිරීමට ඉඩනොදෙන බවට පරිසර ඇමතිගෙන් සහතිකයක්
-
-*2025-09-04 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214150) · `si`
-
-සිංහරාජ වනාන්තරය තුළ මාර්ග ඉදිකිරීමට ඉඩ ලබානොදෙන බව පරිසර අමාත්‍ය වෛද්‍ය ධම්මික පටබැඳි මහතා පවසයි.
-
-ඔහු පෙන්වාදෙන්නේ පරිසරය සුරැකීමේ රජයේ ප්‍රතිපත්තිය යටතේ එවැනි කිසිදු ක්‍රියාමාර්ගයක් ගැනීමට රජය කටයුතු නොකරන බවය.
-
-සිංහරාජ ඉලුම කන්දේ සිට සූරියකන්ද දක්වා මාර්ගය පිළිසකර කිරීමට ඉදිරිපත් කර ඇති යෝජනාවක් සම්බන්ධයෙන් මාධ්‍යවේදියෙකු යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මෙම අදහස් පල කළේය.
-
-එහිදී අමාත්‍යවරයා ස﻿ඳහන් කර සිටියේ, මාර්ගය ඉදිකිරීම සම්බන්ධයෙන් යෝජනාවක් ප්‍රාදේශීය සංවර්ධන කමිටුවකට ඉදිරිපත් වී ඇති අතර, ඒ අනුව එම ප්‍රදේශය නිරීක්ෂණය කිරීමට නිලධාරීන් පිරිසක් ගොස් ඇති බැවින් ඒ පිළිබඳව කතා බහක් නිර්මාණය වී ඇති බවය.
-
-◼️
-
-[Data](articles/8f1442c2.json)
 
 ---

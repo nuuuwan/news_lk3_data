@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 09:24:08**
+As of **2025-09-04 09:33:51**
 
 ## Newspaper Stats
 
-*Scraped **74,070** Articles*
+*Scraped **74,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,503
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,155
+adalk | 7,156
 adaderanalk | 9,450
 tamilmirrorlk | 11,018
 virakesarilk | 12,113
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,865
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,070 articles have been extended.
+61,973 (83.7%) of 74,071 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a2341300.json)
+
+---
+
+### මන්න ෂාන් හා ගෝලයෙක් අල්ලයි
+
+*2025-09-04 07:46:13* · [`adalk`](https://www.ada.lk/breaking_news/මන්න-ෂාන්-හා-ගෝලයෙක්-අල්ලයි/11-418269) · `si`
+
+පාතාල ක්‍රියාකාරකම් සඳහා තියුණු ආයුධ සහ ව්‍යාජ ලෙස සකස්කල යතුරුපැදී ආදායම් බලපත්‍ර සහ රක්ෂණ සහතික කාඩ් පත් සමග පුද්ගලයින් දෙදෙනෙකු කළුතර කොට්ඨාස විෂ මත්ද්‍රව්‍ය වැටලීම් ඒකකය මගින් අත්අඩංගුවට ගත්බව එම ඒකකය සදහන් කරයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර මිහිකත වත්ත ප්‍රදේශයේ පදිංචි මන්නා ශාන් සහ ඔහුගේ ගෝලයකු බව පොලිසිය කීය.
+
+"මන්න ෂාන්" නමැති සැකකරු කළුතර මිහිකතවත්ත ප්‍රදේශයේදී  හෙරොයින් ග්‍රෑම් හයක් සමඟ අත්අඩංගුවට ගෙන ඇති අතර,ඔහුගෙන් කළ ප්‍රශ්න කිරීම් වලදී අනෙක් සැකකරු  කළුතර ගැමුණු මාවත ප්‍රදේශයේදී  හෙරොයින් ග්‍රෑම් පහක් සමඟ අත්අඩංගුවට ගෙන , නිවස පරීක්ෂා කිරීමේදී නිවසේ කාමරය තුළ සඟවා තිබූ තියුණු ආයුධ හතරක් සොයා ගැනීමට පොලිසිය සමත්ව තිබේ. තවදුරටත් සිදුකල සෝදිසි කිරීම් වලදී කුඩා ප්‍රමාණයේ බෑගයක සඟවා තිබූ යතුරු පැදි සඳහා නිකුත් කර ඇති ආදායම් බලපත්‍ර 7 ක් සහ  රක්ෂණ කාඩ් 7 ක්ද පොලිසිය විසින් සොයාගෙන ඇත.
+
+...
+
+[Data](articles/7d48da34.json)
 
 ---
 
@@ -1723,23 +1739,5 @@ It released about 1,000 vehicles last month before the latest batch.
 ◼️
 
 [Data](articles/ad44f001.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields up on shorter tenors
-
-*2025-09-03 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-up-on-shorter-tenors-239421/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.08/13 to the US dollar in the spot market Wednesday, stronger from 302.12/20 the previous day, while bond yields were up on the shorter tenors, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.20/30 percent, up from 8.20/28 percent.
-
-A bond maturing on 15.12.2029 closed at 9.52/54 percent, down from 9.52/56 percent.
-
-A bond maturing on 15.12.2032 closed at 10.35/45 percent, up from 10.35/40 percent. (Colombo/Sep3/2025)
-
-◼️
-
-[Data](articles/593be875.json)
 
 ---

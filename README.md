@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 04:49:54**
+As of **2025-09-05 05:18:17**
 
 ## Newspaper Stats
 
-*Scraped **74,251** Articles*
+*Scraped **74,253** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
-colombotelegraphcom | 755
+colombotelegraphcom | 756
 economynextcom | 4,516
 islandlk | 4,555
 dailymirrorlk | 4,733
-dailyftlk | 5,271
+dailyftlk | 5,272
 adalk | 7,177
 adaderanalk | 9,481
 tamilmirrorlk | 11,051
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,251 articles have been extended.
+61,973 (83.5%) of 74,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### China holds massive parade to mark 80th anniversary of WWII victory
+
+*2025-09-05 04:35:13* · [`dailyftlk`](https://www.ft.lk/news/China-holds-massive-parade-to-mark-80th-anniversary-of-WWII-victory/56-781284) · `en`
+
+Chinese President, Communist Party of China Central Committee General Secretary and Central Military Commission Chairman Xi Jinping delivers an important speech during a grand gathering to commemorate the 80th anniversary of the victory in the Chinese People’s War of Resistance against Japanese Aggression and the World Anti-Fascist War in Beijing, capital of China on 3 September (Xinhua/Yan Yan)
+
+China held a massive military parade in central Beijing on Wednesday to mark the 80th anniversary of its victory in World War II, pledging the country’s commitment to peaceful development in a world still fraught with turbulence and uncertainties.
+
+Towering structures shaped like the Great Wall stood in Tian’anmen Square, symbolising the Chinese nation’s courage and solidarity in resisting foreign aggression.
+
+Chinese President, Communist Party of China Central Committee General Secretary and Central Military Commission Chairman Xi Jinping, oversaw the parade and reviewed the troops.
+
+...
+
+[Data](articles/f8f5c6a7.json)
+
+---
 
 ### Japan-funded Habarana-Veyangoda Transmission Line Project completed
 
@@ -427,6 +445,22 @@ The group was returning back to Tangalle from Ella when they had met with the ac
 ◼️
 
 [Data](articles/86795012.json)
+
+---
+
+### Bishop Kenneth Fernando Is No More: Lessons From His Life
+
+*2025-09-04 23:03:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/bishop-kenneth-fernando-is-no-more-lessons-from-his-life/) · `en`
+
+The Bishop has passed on to meet his maker. There will be a requiem mass at the Cathedral at 2.30 pm Monday 08.09.2025. May he Rest in Peace.
+
+From Prince of Wales College, he was a highly educated priest whose Oxford training gave him the ability to read the Gospel in Greek at services. In 1970 he was allegedly encouraging the JVP. The IGP warned Bishop Harold de Soysa of Kenneth’s imminent arrest unless he was removed. So he came to Colombo as Diocesan Secretary. His vast contacts there laid the ground for his election as Bishop.
+
+At the requiem mass all kinds of good words will be said of him, with nary a word of his weaknesses that perhaps are unnecessary as, as it is written (Romans 3:23), “For all have sinned and come short of the glory of God;” and (Isaiah 64.6) “We are all infected and impure with sin. When we display our righteous deeds, they are nothing but filthy rags.”
+
+...
+
+[Data](articles/73cce8dd.json)
 
 ---
 
@@ -1705,35 +1739,5 @@ The petition was taken up a bench of the Court of Appeal comprising Justices May
 ◼️
 
 [Data](articles/e46a77c4.json)
-
----
-
-### Cabinet nod to remove concessions granted to MPs to purchase houses from “Viyathpura”
-
-*2025-09-04 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112178/cabinet-nod-to-remove-concessions-granted-to-mps-to-purchase-houses-from-viyathpura-) · `en`
-
-The Cabinet of Ministers has approved the proposal to abolish the concessionary payment scheme granted for Members of Parliament to purchase houses from the “Viyathpura” housing complex.
-
-Approval was granted by the Cabinet in July 2022 to provide 101 housing units from the “Viyathpura” housing complex on a rental basis for the period of one year, which was built by the Urban Development Authority for MPs who lost their houses due to the unrest that prevailed in the country on May 09, 2022.
-
-Subsequently, MPs sought to purchase the houses under a concessionary payment method.
-
-...
-
-[Data](articles/ca09fb8e.json)
-
----
-
-### තුසිත හල්ලොලුව යළි රිමාන්ඩ්
-
-*2025-09-04 14:31:21* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුව-යළි-රිමාන්ඩ්/11-418279) · `si`
-
-රක්ෂිත බන්ධනාගාර ගතකර සිටින තුසිත හල්ලොලුව මහතා ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහේස්ත්‍රාත්වරයා අද(04දා) නියෝග කර තිබේ.
-
-අදාළ නඩුව අද කැඳවූ අවස්ථාවෙසී ඔහු විසින් ඇප ඉල්ලා සිටි අතර, එය ප්‍රතික්ෂේප කරමින් මෙම නියෝගය ලබා දීමට කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/835b3030.json)
 
 ---

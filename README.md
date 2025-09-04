@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 14:50:43**
+As of **2025-09-04 15:08:21**
 
 ## Newspaper Stats
 
-*Scraped **74,139** Articles*
+*Scraped **74,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 4,507
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,164
-adaderanalk | 9,463
+adalk | 7,165
+adaderanalk | 9,467
 tamilmirrorlk | 11,038
 virakesarilk | 12,121
-adaderanasinhalalk | 12,880
+adaderanasinhalalk | 12,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,139 articles have been extended.
+61,973 (83.6%) of 74,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### බැකෝ සමන්ගේ බිරිඳ රිමාන්ඩ්
+
+*2025-09-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214168) · `si`
+
+මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ අධිකරණයට ඉදිරිපත් කළ මේ වන විට අත්අඩංගුවේ පසුවන බැකෝ සමන් නැමැත්තාගේ බිරිඳ වන ෂාධිකා ලක්‍ෂානි නමැත්තිය ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම සැකකාරිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවට අද (04) ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/937ea795.json)
+
+---
 
 ### තුසිත හල්ලොලුව යළිත් රිමාන්ඩ්
 
@@ -45,6 +59,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/88cdd6bd.json)
+
+---
+
+### VAT on digital services by non-residents deferred to April 2026
+
+*2025-09-04 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112177/vat-on-digital-services-by-non-residents-deferred-to-april-2026) · `en`
+
+The implementation of the decision to introduce an 18% Value Added Tax (VAT) on digital services provided by non-resident companies to local consumers, effective October 2025 has been deferred to next year.
+
+Under the Value Added Tax (Amendment) Act No. 4 of 2025, effective from October 1, 2025, digital services provided by non-residents are subject to VAT.
+
+However, citing several practical reasons, non-resident digital service providers have requested additional time to comply with VAT requirements on such services, said the Cabinet Spokesman Dr. Nalinda Jayatissa.
+
+Accordingly, it has been proposed to postpone the effective date for imposing VAT on digital services by non-residents from October 1, 2025, to April 1, 2026.
+
+The Cabinet Spokesman said the draft amendments are currently being prepared to incorporate this change into the Value Added Tax Act.
+
+...
+
+[Data](articles/44c087b2.json)
+
+---
+
+### Former NLB Director Thusitha Halloluwa further remanded
+
+*2025-09-04 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112176/former-nlb-director-thusitha-halloluwa-further-remanded) · `en`
+
+Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been further remanded until September 18 by the Colombo Magistrate’s Court, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/578baec6.json)
 
 ---
 
@@ -86,6 +132,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### රත්නපුර රෝහලේ වෛද්‍ය වර්ජනය අත්හිටුවයි
+
+*2025-09-04 13:58:27* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-රෝහලේ-වෛද්‍ය-වර්ජනය-අත්හිටුවයි/11-418278) · `si`
+
+රත්නපුර ශික්ෂණ රෝහලේ ක්‍රියාත්මක කර තිබූ වෛද්‍යවරුන්ගේ සංඛේත වැඩ වර්ජනය අත්හිටුවා තිබේ.
+
+රත්නපුර ශික්ෂණ රෝහලේ අධ්‍යක්ෂවරයා එම ධූරයෙන් ඉවත් කර සෞඛ්‍ය අමාත්‍යාංශයට අනුයුක්ත කරමින් සෞඛ්‍ය අමාත්‍යංශ ලේකම්වරයා විසින් ලිපියක් නිකුත් කරනු ලැබීමෙන් අනතුරුව රත්නපුර ශික්ෂණ රෝහලේ  දින 03ක් පැවති වෛද්‍ය වැඩ වර්ජනය අද (04දා) දහවල් 12 සිට මෙලෙස අත්හිටුවීමට තීරණය කළ බව රජයේ වෛද්‍ය නිළධාරීන්ගේ සංගමය පැවසීය.
+
+◼️
+
+[Data](articles/7504f490.json)
+
+---
+
 ### காரில் பிரதமர் மோடியுடன் பேசியது என்ன? : புட்டின்
 
 *2025-09-04 13:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காரில்-பிரதமர்-மோடியுடன்-பேசியது-என்ன-புட்டின்/50-364035) · `ta`
@@ -101,6 +161,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4dfeca8c.json)
+
+---
+
+### India makes ACs, tea, school supplies cheaper to mitigate shock of US tariffs
+
+*2025-09-04 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112175/india-makes-acs-tea-school-supplies-cheaper-to-mitigate-shock-of-us-tariffs) · `en`
+
+India has cut taxes on hundreds of goods to boost consumption and mitigate the potential impact of steep US tariffs.
+
+Finance Minister Nirmala Sitharaman said on Wednesday that the Goods and Services Tax (GST) panel had simplified the consumption tax into two slabs - 5% and 18% - doing away with an earlier four-slab structure. There will be a separate 40% tax on sin goods like cigarettes.
+
+Goods set to become cheaper include food items, school supplies and insurance while imported liquor and premium cars would become costlier.
+
+Stock markets rallied on the announcement. But analysts say the slashed taxes could lead to revenue losses of up to $6bn for the government.
+
+The new rates will come into effect on 22 September, which is around the time India’s festive season is set to begin. It’s a time when sales of electronic goods such as ACs, TVs and other household appliances shoot up in the country and cheaper prices are expected to boost them further.
+
+...
+
+[Data](articles/c00f59f3.json)
 
 ---
 
@@ -137,6 +217,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3643fb40.json)
+
+---
+
+### Case against ex-Ministers Mahindananda and Nalin Fernando adjourned to October 10
+
+*2025-09-04 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112173/case-against-ex-ministers-mahindananda-and-nalin-fernando-adjourned-to-october-10) · `en`
+
+The case filed by the Attorney General under the Public Property Act against former ministers Mahindananda Aluthgamage and Nalin Fernando and the former Secretary of the Ministry of Sports, retired Major General Nanda Mallawaarachchi has been scheduled for further hearing on October 10 at the Colombo High Court.
+
+The case was called today (04) before Colombo High Court judge Manjula Tilakaratne, Ada Derana reporter said.
+
+During the proceedings, former ministers Mahindananda Aluthgamage and Nalin Fernando, who are currently serving prison sentences, were produced before court by prison officials. However, Nanda Mallawaarachchi, the third accused, did not appear in court due to illness. His attorney submitted a medical report explaining his absence.
+
+...
+
+[Data](articles/d1b59408.json)
 
 ---
 
@@ -1743,93 +1839,5 @@ According to the complaint, the incident occurred after Jayasundara had directed
 ◼️
 
 [Data](articles/4b2353d0.json)
-
----
-
-### Japan funds infectious waste incinerators for 15 State hospitals
-
-*2025-09-04 05:07:37* · [`dailyftlk`](https://www.ft.lk/news/Japan-funds-infectious-waste-incinerators-for-15-State-hospitals/56-781239) · `en`
-
-The Health Ministry yesterday said it plans to install advanced infectious waste incinerators in 15 Government hospitals under the Infectious Waste Management Improvement Project, funded by the Japan International Cooperation Agency (JICA).
-
-The initiative, backed by a 503 million yen ($ 1 million) grant from the JICA, is intended to improve medical waste management and promote safer disposal methods.
-
-According to the Ministry, incinerators are already operational at Trincomalee District General Hospital, Ratnapura and Kurunegala Teaching Hospitals, the district hospitals in Embilipitiya, Avissawella, Hambantota, Mannar, and Kilinochchi, base hospitals in Rikillagaskada, Mahiyanganaya, Puttalam, Meerigama, Medirigiriya, and Welikanda, as well as the divisional hospital in Nakulugamuwa.
-
-The Trincomalee District General Hospital now houses one of the largest units, with a capacity of 162 kg of infectious waste per hour.
-
-...
-
-[Data](articles/e0743cff.json)
-
----
-
-### PBSS Group Chairman  Dr. Madura Gamanayake wins  Gold at Sri Lankan Entrepreneur of the Year Awards 2025
-
-*2025-09-04 05:05:13* · [`dailyftlk`](https://www.ft.lk/business/PBSS-Group-Chairman-Dr-Madura-Gamanayake-wins-Gold-at-Sri-Lankan-Entrepreneur-of-the-Year-Awards-2025/34-781238) · `en`
-
-Bags National and Provincial Gold Award in Large Business Category
-
-Perfect Business Solution Services (PBSS Group) Founder and Group Managing Director Dr. Madura Gamanayake, was honoured with both the National and Provincial Gold Awards in the Large Business Category at the Sri Lankan Entrepreneur of the Year Awards 2025, held at Cinnamon Life – City of Dreams recently.
-
-Celebrating its 25th milestone year, widely regarded as one of the nation’s most prestigious recognitions of entrepreneurial excellence, the awards highlight leaders who have built resilient businesses and contributed meaningfully to Sri Lanka’s economic growth.
-
-...
-
-[Data](articles/cc59a0aa.json)
-
----
-
-### Report on ongoing investigation into mass grave site in Chemmani, Jaffna
-
-*2025-09-04 05:02:42* · [`dailyftlk`](https://www.ft.lk/news/Report-on-ongoing-investigation-into-mass-grave-site-in-Chemmani-Jaffna/56-781237) · `en`
-
-The Human Rights Commission of Sri Lanka (HRCSL) conducted a fact-finding mission on the ongoing investigation into the mass grave site in Chemmani, Jaffna on 3 and 4 August. The purpose of the mission was to observe the current investigation process, to engage relevant institutional actors, independent observers, and representatives of family members of disappeared persons, and to identify challenges encountered by institutional actors and family members of disappeared persons.
-
-...
-
-[Data](articles/86d13a92.json)
-
----
-
-### தரம் 5 புலமைப்பரிசில் பரீட்சை: மாவட்ட வாரியாக வெட்டுப்புள்ளிகள் வெளியீடு
-
-*2025-09-04 04:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224152) · `ta`
-
-தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகளின் அடிப்படையில் ஒவ்வொரு மாவட்டத்திற்கும் வெட்டுப்புள்ளிகளை பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/89e60bb1.json)
-
----
-
-### அடுத்த ஆண்டு ஆரம்பத்தில் செயற்றிட்டங்கள் மதிப்பீடு செய்யப்பட வேண்டும்  – வட மாகாண ஆளுநர்
-
-*2025-09-04 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/224151) · `ta`
-
-இந்த ஆண்டு முன்னெடுக்கப்பட்ட செயற்றிட்டங்கள் ஊடாக கிடைக்கப்பெற்ற பெறுபேறுகள் தொடர்பிலும், மக்களின் வாழ்க்கைத் தரத்தில் ஏற்பட்டுள்ள மாற்றங்கள் தொடர்பாகவும் அடுத்த ஆண்டு ஆரம்பத்தில் மதிப்பீடு மேற்கொள்ளப்பட வேண்டும் என வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் அவர்கள் குறிப்பிட்டார்.
-
-வடக்கு மாகாண விவசாய மற்றும் கமநல சேவைகள், கால்நடை அபிவிருத்தி, நீர்ப்பாசன, மீன்பிடி, நீர் விநியோக மற்றும் சுற்றாடல் அமைச்சின் கீழ் இந்த ஆண்டு நடைமுறைப்படுத்தப்படும் திட்டங்களின் நிதி மற்றும் பௌதீக முன்னேற்றம் தொடர்பில் ஆராயும் மாதாந்தக் கலந்துரையாடல் வடக்கு மாகாண கௌரவ ஆளுநர் நா.வேதநாயகன் அவர்கள் தலைமையில் ஆளுநர் செயலகத்தில் புதன்கிழமை (03) நடைபெற்றது.
-
-...
-
-[Data](articles/f8d04235.json)
-
----
-
-### சுயாதீனமாகச் சட்டம் அமுல்படுத்த மக்களுடன் இணைந்து செயற்படுங்கள் - பொலிஸ்மா அதிபர் அறிவுரை
-
-*2025-09-04 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224150) · `ta`
-
-பொலிஸ் சேவைக்கு இழுக்கை ஏற்படுத்தும் வகையில் பொலிஸ் உத்தியோகத்தர்கள் செயற்படுவார்களாயின் அவர்கள் தம்மை திருத்திக்கொள்ள வேண்டும். அரசியல் தலையீடுகள் மற்றும் ஏனைய அழுத்தங்களில்லாமல் சுயாதீனமாக சட்டத்தின் பிரகாரம் செயற்படுவதற்கான சூழலை அரசாங்கம் ஏற்படுத்திக்கொடுத்துள்ளது. பொதுமக்களின் ஒத்துழைப்பில்லாமல் பொலிஸ் சேவையை வெற்றிப்பெற செய்ய முடியாது. ஆகவே மக்களுடன் இணக்கமாக செயற்படுங்கள் என பொலிஸ்மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய பொலிஸாருக்கு அறிவுறுத்தினார்.
-
-159 ஆவது தேசிய பொலிஸ் தினத்தை முன்னிட்டு  கொழும்பு பொலிஸ் மைதானத்தில் புதன்கிழமை (3) நடைபெற்ற விசேட நிகழ்வில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சின் ஊடான ஒன்றிணைந்த பல சிறந்த தீர்மானங்கள் எடுக்கப்பட்டுள்ளன.நாட்டின் சட்டம் மற்றும் ஒழுங்கை நிலைநாட்டல் மற்றும் தேசிய பாதுகாப்பை உறுதிப்படுத்தல் உள்ளிட்ட பிரதான பொறுப்புக்கள் இலங்கை பொலிஸ் திணைக்களத்துக்கு பொறுப்பாக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/609c44ea.json)
 
 ---

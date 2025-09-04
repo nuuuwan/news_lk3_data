@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 05:32:24**
+As of **2025-09-04 06:08:19**
 
 ## Newspaper Stats
 
-*Scraped **74,030** Articles*
+*Scraped **74,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 624
 bbccomsinhala | 677
 colombotelegraphcom | 755
 economynextcom | 4,503
-islandlk | 4,542
+islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,152
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,030 articles have been extended.
+61,973 (83.7%) of 74,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -429,6 +429,94 @@ According to the Commissioner General of Examinations a total of 901 students wi
 ---
 
 ### 2025-09-03 (Wednesday)
+
+### Potato magic…
+
+*2025-09-03 23:36:00* · [`islandlk`](http://island.lk/potato-magic/) · `en`
+
+I had a lot of interesting messages coming my way regarding last week’s Potato Face Treatment and so I thought I will go ahead with potatoes this week, as well.
+
+Mix 01 tablespoon of potato juice with 01 teaspoon of honey and a few drops of almond oil. Apply this mixture as a face pack and leave it on for about 15 minutes. Rinse with warm water.
+
+Mix 01 tablespoon of potato juice with a few drops of lemon juice. Apply this pack to your face (avoiding the eye area) and let it remain for 15 minutes. Rinse off with cool water.
+
+(This pack helps in skin lightening and reducing dark spots.)
+
+Mix 01 tablespoon of potato juice and a teaspoon of olive oil and apply the mixture to your face and leave it for 20 minutes. Rinse with warm water.
+
+(This pack benefits dry and ageing skin, providing deep moisturisation and reducing fine lines.)
+
+Mix equal parts of potato and cucumber juice, and add a teaspoon of aloe vera gel. Apply the pack on your face and let it be remain for 20 minutes. Rinse with cool water.
+
+...
+
+[Data](articles/7fcca847.json)
+
+---
+
+### HNB General Insurance Certified™ as a Great Place To Work® in Sri Lanka
+
+*2025-09-03 23:24:00* · [`islandlk`](http://island.lk/hnb-general-insurance-certified-as-a-great-place-to-work-in-sri-lanka/) · `en`
+
+HNB General Insurance (HNBGI), one of Sri Lanka’s most dynamic and customer-focused general insurers, has been officially Great Place To Work® Certified™. This recognition is based entirely on employee’s anonymous feedback and marks a significant milestone in the company’s journey of building a workplace culture rooted in trust, belonging, and shared purpose.
+
+According to Great Place To Work®, “A great workplace is one in which employees – no matter who they are or what they do – experience a consistently positive environment characterized by trust in leadership, pride in their work, and meaningful relationships with colleagues.”
+
+A large majority of HNBGI employees affirmed these values, highlighting the company’s strong emphasis on inclusion, collaboration, career growth, and well-being. Employees described HNBGI as a place where people are not just valued but celebrated – both professionally and personally.
+
+...
+
+[Data](articles/5094d644.json)
+
+---
+
+### Sadaharitha Plantations marks 23 years of leadership, innovation, and sustainable growth
+
+*2025-09-03 23:23:00* · [`islandlk`](http://island.lk/sadaharitha-plantations-marks-23-years-of-leadership-innovation-and-sustainable-growth/) · `en`
+
+Sri Lanka’s No.1 commercial forestry investment company and a global leader in agarwood production, Sadaharitha Plantations Limited proudly celebrates its 23rd anniversary this year, a milestone that reflects more than two decades of pioneering vision, innovation, and unwavering commitment to sustainable green investments.
+
+Adding to the significance of this celebration, Sadaharitha has achieved a historic industry first, surpassing an asset base of USD 1.05 billion — making it the only commercial forestry management company in Sri Lanka to reach this remarkable milestone.
+
+Established in 2002 to transform Sri Lanka’s green investment landscape, Sadaharitha has grown into a LKR 214 billion net asset value conglomerate, consistently delivering strong returns to over 50,000 investors. Over the past 23 years, the company has planted more than one million trees and disbursed LKR 1.7 billion in harvest returns, cementing its reputation as a trusted and results-driven investment partner.
+
+...
+
+[Data](articles/215d9a3b.json)
+
+---
+
+### Domino’s Sri Lanka becomes the first in South Asia to win Golden Franny Award
+
+*2025-09-03 23:23:00* · [`islandlk`](http://island.lk/dominos-sri-lanka-becomes-the-first-in-south-asia-to-win-golden-franny-award/) · `en`
+
+Domino’s Sri Lanka has been awarded the prestigious Golden Franny Award for Overall Performance, making Sri Lanka the first market in South Asia to receive this global recognition from Domino’s International.
+
+The Golden Franny Award is presented annually to franchisees who demonstrate outstanding leadership and exceptional performance across growth, operational standards, customer satisfaction and community contribution.
+
+Speaking on this achievement, Vijaya Bhaskar, Country Head of Domino’s Sri Lanka, said: “We are deeply honored to bring home the Golden Franny to Sri Lanka for the very first time. This recognition is a testament to the dedication and hard work of our entire team, who consistently strive to serve our customers with excellence. It reflects the trust and love Sri Lankan consumers have placed in Domino’s, and motivates us to continue raising the bar.”
+
+Sadaharitha Plantations marks 23 years of leadership, innovation, and sustainable growth
+
+...
+
+[Data](articles/f033df84.json)
+
+---
+
+### E. B. Creasy in notable share transaction; CSE bounces back
+
+*2025-09-03 23:21:00* · [`islandlk`](http://island.lk/e-b-creasy-in-notable-share-transaction-cse-bounces-back/) · `en`
+
+E.B. Creasy & Co. said yesterday in a CSE filing that its public holding had increased to 26.43 percent following share sales by Colombo Fort Land & Building, market analysts said. According to the filing, Colombo Fort Land disposed of 5 million shares on August 6 and a further 1.5 million shares on August 27.
+
+As a result, the company’s public float rose from 23.86 percent reported in its June 30 interim financial statements to 26.43 percent as at August 29, the record date. The increase improves liquidity in the stock and moves the company further above the minimum public float threshold required under CSE listing rules.
+
+...
+
+[Data](articles/29c8b3fe.json)
+
+---
 
 ### නීතිඥවරයෙකු අත්අඩංගුවට ගැනීම වළක්වාලමින් නියෝගයක්
 
@@ -933,6 +1021,22 @@ Accordingly, they received their letters of appointment from the President at th
 ...
 
 [Data](articles/2be8106e.json)
+
+---
+
+### President honours MAC Holdings chairman Andre Fernando
+
+*2025-09-03 18:18:00* · [`islandlk`](http://island.lk/president-honours-mac-holdings-chairman-andre-fernando/) · `en`
+
+Andre Fernando, president of the Sri Lanka- Bangladesh Business Cooperation Council of the National Chamber of Commerce of Sri Lanka (NCCSL) and Managing Director of MAC Holdings (Pvt) Ltd, was recently recognized for his outstanding leadership and contributions towards strengthening regional business cooperation.
+
+The honour was conferred on him by the chief guest on the occasion, President Anura Kumara Dissanayake during the Federation’s inaugural session.
+
+The Global Federation of Sri Lankan Business Councils (GFSLBC) held its inaugural Annual General Meeting recently at the Shangri-La Hotel, Colombo, under the theme “Uniting Global Sri Lankan Businesses – Moving Forward.” The two-day summit brought together entrepreneurs from 15 countries, including the United States, the United Kingdom, Japan, Australia, Canada, and India, to focus on expanding global trade relations, attracting investments, and channeling the expertise of Sri Lankan entrepreneurs worldwide into the national economy.
+
+...
+
+[Data](articles/b91940fe.json)
 
 ---
 
@@ -1679,117 +1783,5 @@ Weighing down the ASPI were; Richard Peiris which ended 1.10 rupees lower at 26.
 ...
 
 [Data](articles/d153da97.json)
-
----
-
-### Deputy Foreign Minister of Italy arrives in Sri Lanka
-
-*2025-09-03 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112139/deputy-foreign-minister-of-italy-arrives-in-sri-lanka) · `en`
-
-The Deputy Minister for Foreign Affairs of Italy, Maria Tripodi, has arrived in Sri Lanka today (03) on an official visit.
-
-The Deputy Minister will remain in Sri Lanka until September 5, the Ministry of Foreign Affairs, Foreign Employment and Tourism said in a statement.
-
-This visit is significant as it marks the highest-level incoming visit from Italy to Sri Lanka in almost a decade, the Foreign Ministry stated.
-
-During her visit, Deputy Minister Tripodi will co-chair, along with Arun Hemachandra, the Deputy Minister of Foreign Affairs and Foreign Employment, the inaugural session of the Sri Lanka–Italy Political Consultations.
-
-A Memorandum of Understanding on the Establishment of a Political Consultations Mechanism is due to be signed during the visit, providing a structured framework for dialogue between the two countries.
-
-...
-
-[Data](articles/8c9a7e7c.json)
-
----
-
-### இந்தியாவின் பஞ்சாப் மாநிலத்தில் வெள்ளப்பெருக்கு ; 30 பேர் உயிரிழப்பு
-
-*2025-09-03 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/224095) · `ta`
-
-இந்தியாவின் பஞ்சாப் மாநிலத்தில் ஏற்பட்ட வெள்ளப்பெருக்கினால் அசுமார் 30 பேர் உயிரிழந்துள்ளனர். இதேவேளை, குறித்த வெள்ளப்பெருக்கினால் 1,400 கிராமங்கள் நீரில் மூழ்கியுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-ஆறுகள் மற்றும் நீர்த்தேக்கங்கள் எச்சரிக்கை மட்டத்தை எட்டியதை அடுத்து, குறித்த மாநிலத்தின் 23 மாவட்டங்கள் வெள்ளத்தால் பாதிக்கப்பட்டுள்ளதாக அந்த நாட்டு அதிகாரிகள் அறிவித்துள்ளனர்.
-
-தாழ்வான பகுதிகள் மற்றும் வெள்ளத்தால் பாதிக்கப்பட்ட பகுதிகளில் இருந்து சுமார் 20 ஆயிரம் பேர் வெளியேற்றப்பட்டுள்ளனர்.
-
-அதேநேரம், பாதிக்கப்பட்ட குடும்பங்களுக்கு தங்குமிடம் மற்றும் அத்தியாவசிய வசதிகளை வழங்க நூற்றுக்கணக்கான நிவாரண முகாம்கள் அமைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-1988 ஆம் ஆண்டுக்குப் பின்னர் மாநிலம் கண்ட மிக மோசமான வெள்ளப்பெருக்கு  இது என பஞ்சாப் முதல்வர் பகவந்த் மான், குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/6ef88506.json)
-
----
-
-### யாழ். கொடிகாமத்தில் விபத்து ; ஒருவர் உயிரிழப்பு
-
-*2025-09-03 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224104) · `ta`
-
-யாழ்ப்பாணத்தில் இருந்து கொழும்பு நோக்கி இன்றைய தினம் புதன்கிழமை பயணித்த புகையிரதத்துடன் கொடிகாம பகுதியில் மோதி உயிரழந்துள்ளார்.
-
-தண்டவாளத்தை கடக்க முற்பட்ட வேளையே விபத்து இடம்பெற்றதாக ஆரம்ப கட்ட விசாரணையில் தெரியவந்துள்ள நிலையில், பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/cf009787.json)
-
----
-
-### 3 வருட காதல்: தங்கையையே மிரட்டி வன்புணர்ந்த அண்ணன்
-
-*2025-09-03 15:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வருட-காதல்-தங்கையையே-மிரட்டி-வன்புணர்ந்த-அண்ணன்/175-363962) · `ta`
-
-குஜராத் மாநிலத்தின் பவநகர் மாவட்டத்தில், தலஜா நகரத்திற்கு அருகிலுள்ள ஒரு கிராமத்தில், 22 வயது இளம்பெண் ஒருவர், தனது பெற்றோர் மற்றும் , 29 வயதான  சகோதரருடனும் இணைந்து வாழ்ந்து வந்தார்.
-
-இந்தச் சூழலில், கடந்த ஜூலை 13-ம் திகதி, அவரது சகோதரர், தன் மனைவி பெற்றோர் வீட்டுக்கு சென்றிருந்த சமயத்தில், இளம்பெண்ணை கத்தி முனையில் மிரட்டி பாலியல் வன்கொடுமை செய்ததாக, பொலிஸில் புகார் பதிவு செய்யப்பட்டுள்ளது.
-
-இதனையடுத்து, ஆகஸ்ட் 22-ம் திகதி, மீண்டும் ஒருமுறை அத்துமீறல் நிகழ்ந்துள்ளது. மேலும், இளம் பெண்ணின் வலது தொடையில் பீடியை வைத்து சூடும் வைத்ததாக கூறப்படுகிறது. இச்சம்பவத்தினால் மனவேதனையடைந்த அவர், பின்னர்  போலீசிடம் முறையிட்டார்.
-
-பாதிக்கப்பட்ட இளம்பெண், கடந்த மூன்று ஆண்டுகளாக ஊரில் வசிக்கும் இளைஞரொருவருடன் காதல் தொடர்பில் இருந்ததாகவும், இந்தத் தகவல் அவரது சகோதரருக்கு முன்கூட்டியே தெரிந்திருந்ததாகவும் விசாரணையில் தெரியவந்துள்ளது. அந்த தகவலை பயன்படுத்திக் கொண்டு, சகோதரர், தனது சகோதரியை காதலை கைவிடுமாறு கத்தி முனையில் மிரட்டி  பலாத்காரத்தில் ஈடுபட்டதாக போலீசார் தெரிவித்துள்ளனர்.
-
-...
-
-[Data](articles/5eb77f95.json)
-
----
-
-### Sri Lanka sells less than offered treasury bills, yields flat
-
-*2025-09-03 15:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-yields-flat-239367/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 49.65 billion rupees of Treasury bills, of an offered 74 billion, with yields flat across maturities, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.58 percent, with 14 billion rupees of bills offered and 4.54 billion sold.
-
-The 6-month yield was unchanged at 7.89 percent, with 38 billion rupees offered and 38.13 billion sold.
-
-The 12-month yield was unchanged at 8.03 percent with 30 billion rupees offered and 6.97 billion rupees bills sold.
-
-The 3 month and 12 month bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/790db285.json)
-
----
-
-### 2022 ஆம் ஆண்டு மே 9 காலிமுகத்திடல் தாக்குதல் நடத்திய சந்தேக நபர்கள் தொடர்பில் சட்டமா அதிபரின் ஆலோசனையை நாடும் குற்றப்புலனாய்வு திணைக்களம்
-
-*2025-09-03 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224093) · `ta`
-
-2022ஆம் ஆண்டு மே மாதம் 9 ஆம்  திகதி அன்று காலி முகத்திடல் போராட்டக்காரர்கள் மீதான தாக்குதல் தொடர்பாக, விசாரணைகளை மேற்கொண்டு வரும் குற்றப்புலனாய்வு திணைக்களம், சந்தேகநபர்களுக்கு எதிரான, எதிர்கால சட்ட நடவடிக்கைகள் குறித்து சட்டமா அதிபரின் ஆலோசனையை நாடியுள்ளது.
-
-இந்த வழக்கில், முன்னாள் பாராளுமன்ற உறுப்பினர்களான ஜோன்ஸ்டன் பெர்னாண்டோ, மிலான் ஜயதிலக்க, முன்னாள் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் மற்றும் பலர் உட்பட 37 பேர் சந்தேக நபர்களாக பெயரிடப்பட்டுள்ளனர்.
-
-இது தொடர்பான வழக்கு நீதவான் பவித்ரா சஞ்சீவனி பத்திரண முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, சம்பவம் தொடர்பான ஆரம்ப கட்ட விசாரணைகளை முடித்துவிட்டதாகவும், விசாரணையின் சுருக்கங்கள் சட்டமா அதிபரின் ஆலோசனைக்காக அனுப்பப்பட்டுள்ளதாகவும் குற்றப்புலனாய்வு திணைக்களம் நீதிமன்றத்தில் தெரிவித்தது.
-
-இருப்பினும், சட்டமா அதிபரின் ஆலோசனை இன்னும் கிடைக்கவில்லை என குற்றப்புலனாய்வு திணைக்களம் மன்றுக்கு அறிவித்தது.
-
-அதன்படி, சம்பவம் தொடர்பான விசாரணையை விரைவுபடுத்துமாறு சட்டமா அதிபருக்கு உத்தரவிட்டு நீதவான் அறிவிப்பை வெளியிட்டார்.
-
-...
-
-[Data](articles/da60e075.json)
 
 ---

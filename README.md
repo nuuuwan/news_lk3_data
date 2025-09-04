@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 02:19:51**
+As of **2025-09-05 02:32:43**
 
 ## Newspaper Stats
 
-*Scraped **74,232** Articles*
+*Scraped **74,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,177
-adaderanalk | 9,479
+adaderanalk | 9,481
 tamilmirrorlk | 11,051
 virakesarilk | 12,139
 adaderanasinhalalk | 12,903
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,232 articles have been extended.
+61,973 (83.5%) of 74,234 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/93563a0f.json)
+
+---
+
+### Death toll climbs to 10 in Ella bus crash
+
+*2025-09-05 01:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112190/death-toll-climbs-to-10-in-ella-bus-crash) · `en`
+
+The death toll from the bus crash near the 24th Km Post on the Ella-Wellawaya main road last night (4) has reportedly increased to 10 with over 15 others injured and hospitalized.
+
+Over 15 patients have been admitted to the Badulla Teaching Hospital while several of them are said to be in critical condition.
+
+Rescue operations are still ongoing at the site of the crash with the involvement of security forces and police personnel. However, it is reported that low-visibility has hindered rescue operations.
+
+A bus had toppled down a precipice near the 24th Kilometer Post on the Ella-Wellawaya main road late last night.
+
+The bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, had toppled down a distance of around 500 meters before coming to a standstill.
+
+The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were reportedly onboard the bus at the time of the accident.
+
+...
+
+[Data](articles/04520dfe.json)
 
 ---
 
@@ -241,6 +263,28 @@ Rescue operations are currently underway at the scene of the incident while seve
 ◼️
 
 [Data](articles/468c029b.json)
+
+---
+
+### 2 dead, 12 injured as bus topples down precipice on Ella-Wellawaya road
+
+*2025-09-04 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112189/2-dead-12-injured-as-bus-topples-down-precipice-on-ella-wellawaya-road) · `en`
+
+UPDATE: At least two persons are reported dead while another 12 individuals have been injured and hospitalised after a bus toppled down a precipice near the 24th Km Post on the Ella-Wellawaya main road.
+
+The injured have been admitted to the Badulla Teaching Hospital, sources told Ada Derana.
+
+A bus has reportedly toppled down a precipice near the 24th Kilometer Post on the Ella-Wellawaya main road.
+
+A bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, has toppled down a precipice for a distance of around 500 meters this evening (4), Ada Derana reporter said.
+
+The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were onboard the bus at the time of the accident.
+
+Rescue operations are currently underway at the scene of the incident while several passengers have already been rushed to hospital, he said.
+
+◼️
+
+[Data](articles/5a812420.json)
 
 ---
 
@@ -1717,41 +1761,5 @@ The strike has been called off following the issuance of a letter by the Secreta
 ◼️
 
 [Data](articles/e7a0065d.json)
-
----
-
-### මහින්දානන්දට නලින්ට එරෙහි නඩුව කල් යයි
-
-*2025-09-04 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214163) · `si`
-
-පොදු දේපොළ පනත යටතේ වරදක් සිදුකළ බවට චෝදනා කරමින් මේ වනවිට සිරදඬුවම් නියමවී සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත්ගමගේ, නලින් ප්‍රනාන්දු සහ ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි යන අයට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර ඇති නඩුව ඔක්තෝබර් 10 වනදා යළි කැඳවන ලෙස කොළඹ මහාධිකරණ අද (04) දින නියම කළේය.
-
-අදාළ නඩුව අද කොළඹ ප්‍රධාන මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා හමුවේ කැඳවනු ලැබීය.
-
-එම අවස්ථාවේදී සිරදඬුවම් නියමවී බන්ධනාගාර ගතවී සිටින හිටපු අමාත්‍යවරුන් වූ මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු  බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කර තිබුණි.
-
-මෙම නඩුවේ තුන්වන විත්තිකරු වශයෙන් නම්කර සිටින ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි මහතා විවෘත අධිකරණය හමුවේ පෙනී නොසිටි අතර ඔහු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයේ කරුණු දක්වමින් විත්තිකරු අසනීපයෙන් පසුවන බව සඳහන් කරමින් වෛද්‍ය වාර්තාවක් ඉදිරිපත් කළේය.
-
-...
-
-[Data](articles/2ce57dfc.json)
-
----
-
-### “அதை பிடிச்சு இழுத்து உடலுறவு தொந்தரவு”
-
-*2025-09-04 12:47:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதை-பிடிச்சு-இழுத்து-உடலுறவு-தொந்தரவு/175-364030) · `ta`
-
-ஒரு பெண், தனது கணவர் மற்றும் அவரது குடும்பத்தினரால் தனக்கும் தனது குடும்பத்தினருக்கும் உடல் மற்றும் மனரீதியான துன்புறுத்தல்கள் இழைக்கப்பட்டதாகவும், உரிய பாதுகாப்பு வழங்கப்பட வேண்டுமெனவும் கோவை காவல் நிலையத்தில் புகார் அளித்துள்ளார்.
-
-2018ஆம் ஆண்டு சிவகங்கை மாவட்டம், சிங்கம்நறி பகுதியைச் சேர்ந்த சர்குணனை திருமணம் செய்த இந்தப் பெண், தனது கணவர், மாமனார் நீலமேகம், மாமியார் உமாராணி மற்றும் அவர்களது உறவினர்களால் தொடர்ந்து துன்புறுத்தப்பட்டதாகக் கூறுகிறார்.
-
-திருமணத்திற்குப் பின் கோவையில் குடியேறிய இவர், 2020இல் தனது தந்தை இறந்ததாகவும், அதற்கு கணவரின் குடும்பத்தினரால் ஏற்பட்ட மன உளைச்சல் காரணமாக இருக்கலாம் எனவும் தெரிவித்தார்.
-
-மேலும், 2020இல் தனக்கு பிறந்த பெண் குழந்தையை (தற்போது 5 வயது) வளர்த்து வருவதாகவும், கணவர் தரப்பில் இருந்து விவாகரத்து கோரி அறிவிப்பு அனுப்பப்பட்டதாகவும் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/26f6661f.json)
 
 ---

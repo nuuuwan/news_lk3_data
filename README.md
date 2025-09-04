@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 16:49:53**
+As of **2025-09-04 17:06:19**
 
 ## Newspaper Stats
 
-*Scraped **74,161** Articles*
+*Scraped **74,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,58 @@ dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 755
 economynextcom | 4,507
-islandlk | 4,554
+islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,168
 adaderanalk | 9,472
 tamilmirrorlk | 11,041
 virakesarilk | 12,123
-adaderanasinhalalk | 12,884
+adaderanasinhalalk | 12,886
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,161 articles have been extended.
+61,973 (83.6%) of 74,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### නැගෙනහිර යුරෝපයේ ගූගල් සේවාවන් බිඳ වැටේ
+
+*2025-09-04 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214173) · `si`
+
+ඒ අනුව ගූගල් ආයතනය මගින් සපයන යූ ටියුබ් ඇතුළු සේවාවන් රැසක් මෙලෙස බිද වැටීමට ලක්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා සදහන් කළේය.
+
+තුර්කිය, ග්‍රීසිය සහ ජර්මනිය ඇතුළු රටවල් රැසකට මෙම බිඳ වැටීම වාර්තා වී ඇති බව සදහන් වේ.
+
+කෙසේවෙතත් මේ වන විට බිඳ වැටීමට ලක්ව තිබූ ගූගල් සේවාවන් යථා තත්වයට පත් කර ඇති බවද විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/42546282.json)
+
+---
+
+### නවකවධ සිද්ධියකට නැගෙනහිර සරසවි සිසුන් 16ක් අත්අඩංගුවට
+
+*2025-09-04 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214172) · `si`
+
+නැගෙනහිර විශ්වවිද්‍යාලයේ සිදුවූ බව කියන නවකවධ සිද්ධියක් සම්බන්ධයෙන් සිසුන් 16ක් අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ සිද්ධියට මුහුණ දුන් සිසුවියක සිදුකළ පැමිණිල්ලකට අදාළව එරාවුර් පොලීසිය මෙම සිසුන් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී සිසුන් 9 දෙනෙකු සහ සිසුවියන් 6 දෙනෙකු අත්අඩංගුවට ගෙන තිබූ බව සඳහන් ය.
+
+පසුව එම සිසුන් එරාවුර් මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු ඇප මත මුදාහැරීමට නියම කර ඇත.
+
+◼️
+
+[Data](articles/306122b3.json)
+
+---
 
 ### பேக்கோ சமனின் மனைவிக்கு விளக்கமறியல்
 
@@ -1801,37 +1835,5 @@ He further stated that the individual in question had only provided professional
 ◼️
 
 [Data](articles/5908806e.json)
-
----
-
-### ஒன்றன் மேல் ஒன்றாக கிடந்த எலும்புக்கூடுகள்
-
-*2025-09-04 07:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றன்-மேல்-ஒன்றாக-கிடந்த-எலும்புக்கூடுகள்/175-364003) · `ta`
-
-யாழ்ப்பாணம் - செம்மணி மனிதப் புதைகுழியில் ஒன்றன் மேல் ஒன்றாக கிடந்த எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளன.
-
-செம்மணி மனித புதைகுழியில் இரண்டு பெரிய எலும்புக்கூட்டுத் தொகுகளின் முழங்கால் பகுதிக்கு குறுக்காக ஒப்பிட்டளவில் சிறிய எலும்புக்கூட்டு தொகுதியும் மற்றுமொரு என்புக்கூட்டின் மண்டையோடு ஒரு எலும்புக் கூட்டின் தோள்பட்டையுடன் தொடுகையுற்றவாறும் அடையாளம் காணப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/f09d4b61.json)
-
----
-
-### CID uncovers ICE production facility of ‘Kehelbaddara Padme’ in Nuwara Eliya
-
-*2025-09-04 07:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112155/cid-uncovers-ice-production-facility-of-kehelbaddara-padme-in-nuwara-eliya) · `en`
-
-The Criminal Investigation Department (CID) has uncovered that notorious organised criminal Mandinu Padmasiri alias Kehelbaddara Padme had been operating an illegal ice (methamphetamine) drug production facility in Nuwara Eliya.
-
-This revelation emerged during interrogations conducted while the suspect, Kehelbaddara Padme, remains in CID custody.
-
-According to information obtained through further questioning, the suspect had invested over Rs. 4 million in the operation and had rented a house in Nuwara Eliya to carry it out.
-
-The suspect also disclosed that approximately 2,000 kilograms of chemical substances required for the drug production had been imported into the country.
-
-◼️
-
-[Data](articles/59a65f4d.json)
 
 ---

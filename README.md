@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 12:09:53**
+As of **2025-09-04 12:25:43**
 
 ## Newspaper Stats
 
-*Scraped **74,115** Articles*
+*Scraped **74,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,161
 adaderanalk | 9,460
-tamilmirrorlk | 11,029
+tamilmirrorlk | 11,030
 virakesarilk | 12,118
 adaderanasinhalalk | 12,874
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,115 articles have been extended.
+61,973 (83.6%) of 74,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ஜி ஜின்பிங்- புட்டின் பேசிக்கொண்ட சுவாரஸ்யம்
+
+*2025-09-04 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜி-ஜின்பிங்-புட்டின்-பேசிக்கொண்ட-சுவாரஸ்யம்/50-364026) · `ta`
+
+பீஜிங்கில் நடந்த இராணுவ அணிவகுப்பின் போது, சீன ஜனாதிபதி ஜி ஜின்பிங்கும் ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினும், ஆயுளை நீடிப்பது குறித்து பேசிக்கொண்ட சுவாரஸ்ய வீடியோ வெளியாகி உள்ளது.
+
+இரண்டாம் உலகப் போர், 1939 செப்டெம்பர் 1இல் ஆரம்பித்து, 1945 செப்டெம்பர்  2இல் ஜப்பான் சரணடைந்ததுடன் முடிவுக்கு வந்தது. இதையடுத்து, செப்டெம்பர்  3ஆம் திகதியை வெற்றி தினம் என்ற பெயரில் சீனா ஆண்டுதோறும் கொண்டாடி வருகிறது.
+
+இந்நிலையில், 80ஆவது வெற்றி தினத்தையொட்டி, நம் அண்டை நாடான சீனாவின் பீஜிங்கில் பெரிய அளவிலான இராணுவ அணிவகுப்புன் நேற்று புதன்கிழமை (03) னெறு நடந்தது. இதுபோன்ற பிரமாண்ட பேரணி, 10 ஆண்டுக்கு முன் நடத்தப்பட்டது.
+
+ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டிடின், சீன ஜனாதிபதி ஜி ஜின்பிங்குடன் தோளோடு தோள் சேர்ந்து நடந்து சென்றபோது, உறுப்பு மாற்று அறுவை சிகிச்சை மற்றும் மனிதர்கள் 150 ஆண்டுகள் வரை வாழக்கூடிய சாத்தியக்கூறுகள் குறித்து அவர்கள் விவாதித்து இருப்பது ஹாட் மைக்கில் (Hot mic) பதிவாகியுள்ளது.
+
+...
+
+[Data](articles/ec0db9a0.json)
+
+---
 
 ### போலி தகடுடன் காரை செலுத்திய பெண் வைத்தியர் கைது
 
@@ -1775,23 +1793,5 @@ Established in 2002 to transform Sri Lanka’s green investment landscape, Sadah
 ...
 
 [Data](articles/215d9a3b.json)
-
----
-
-### Domino’s Sri Lanka becomes the first in South Asia to win Golden Franny Award
-
-*2025-09-03 23:23:00* · [`islandlk`](http://island.lk/dominos-sri-lanka-becomes-the-first-in-south-asia-to-win-golden-franny-award/) · `en`
-
-Domino’s Sri Lanka has been awarded the prestigious Golden Franny Award for Overall Performance, making Sri Lanka the first market in South Asia to receive this global recognition from Domino’s International.
-
-The Golden Franny Award is presented annually to franchisees who demonstrate outstanding leadership and exceptional performance across growth, operational standards, customer satisfaction and community contribution.
-
-Speaking on this achievement, Vijaya Bhaskar, Country Head of Domino’s Sri Lanka, said: “We are deeply honored to bring home the Golden Franny to Sri Lanka for the very first time. This recognition is a testament to the dedication and hard work of our entire team, who consistently strive to serve our customers with excellence. It reflects the trust and love Sri Lankan consumers have placed in Domino’s, and motivates us to continue raising the bar.”
-
-Sadaharitha Plantations marks 23 years of leadership, innovation, and sustainable growth
-
-...
-
-[Data](articles/f033df84.json)
 
 ---

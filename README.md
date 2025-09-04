@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 06:33:47**
+As of **2025-09-04 07:17:49**
 
 ## Newspaper Stats
 
-*Scraped **74,043** Articles*
+*Scraped **74,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,153
-adaderanalk | 9,441
+adaderanalk | 9,444
 tamilmirrorlk | 11,014
-virakesarilk | 12,109
-adaderanasinhalalk | 12,858
+virakesarilk | 12,113
+adaderanasinhalalk | 12,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,043 articles have been extended.
+61,973 (83.7%) of 74,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### අදත් හවසට තැන තැන වැසි
+
+*2025-09-04 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214144) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, අම්පාර, මඩකලපුව සහ මොනරාගල දිස්ත්‍රික්කවල ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+
+අද දිනයේ (04) දහවල් 12:09ට රාගම, කිරිඳිවැල, රුවන්වැල්ල, නාවලපිටිය සහ ලුණුගල ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
+
+◼️
+
+[Data](articles/4fc4cc36.json)
+
+---
+
+### பொலிஸ் பொறுப்பதிகாரியென பஸ்ஸில் பணம் கொடுக்காது பயணித்தவர் கைது
+
+*2025-09-04 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224153) · `ta`
+
+கொழும்பில் இருந்து மாரகம பிரதேசத்துக்கு தனியார் பஸ்வண்டியில் பொலிஸ் பொறுப்பதிகாரி என பணம் கொடுக்காமல் பிரயாணித்து, பணிநீக்கம் செய்யப்பட்ட முன்னாள் பொலிஸ் பரிசோதகரான போலி பொலிஸ் அதிகாரி ஒருவரை புதன்கிழமை (03) மாரகம பொலிசார் கைது செய்துள்ளதாக பொலிஸ் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+கொழும்பில் இருந்து மாரகம பிரதேசத்துக்கு பிரயாணித்த தனியார் பஸ்வண்டியில் பிரயாணித்த ஒருவரிடம் நடத்துன்ர் ரிக்கட் பிரயாணிப்பதற்காக கட்டணத்தை கேட்டபோது அவர் தான் மாரகம பொலிஜ் நிலைய பொறுப்பதிகாரி கட்டணம் தரமுடியாது என தெரிவித்து பிரயாணத்தை தொடர்ந்துள்ளார்.
+
+இந்த நிலையில் பஸ்வண்டி மாரகமவைச் சென்று நிறுத்தப்பட்டதும் அவர் அதில் இருந்து இறங்கிய போது அவரை பஸ்வண்டி நடத்துனர் பின் தொடர்ந்தபோது அவர் பொலிஸ் நிலையத்துக்குள் உள்நுழைவதை கண்டு அங்கு சென்ற போது பொலிஸ் நிலையத்தின் உண்மையான வேறு ஒரு  பொறுப்பதிகாரி ஒருவர் சீருடையில் இருப்பதை கண்டு நடத்துனர் திகைப்படைந்துள்ளார்.
+
+...
+
+[Data](articles/3a5cc4dd.json)
+
+---
+
+### செம்மணி நீதி கோரிய கையொழுத்து போராட்டம் கிழக்கில் இன்று ஆரம்பம் ; ஆதரவு வழங்குமாறு தமிழ் தேசிய கட்சிகள் அழைப்பு
+
+*2025-09-04 06:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224154) · `ta`
+
+கிழக்கில் செம்மணி உட்பட  இலங்கையின் வடக்கு கிழக்கு மண்ணில் உள்ள மனித புதைகுழிகளுக்கானதும் நடைபெற்ற இனபடு கொலைக்குமான சர்வதேச நீதி கோரிய கையொழுத்து போராட்டம் வியாழக்கிழமை (04) மட்டக்களப்பு காந்திபூங்காவில் ஆரம்பித்து வைக்கப்படவுள்ளது இதில் மக்கள் ஆதரவு வழங்குமாறு தமிழ் தேசிய கட்சிகள் மற்றும் பொது அமைப்புக்கள் அழைப்பு விடுத்துள்ளது.
+
+மட்டக்களப்பு இந்து இளைஞர் மன்ற மண்டபத்தில் புதன்கிழமை (3) மாலை இடம்பெற்ற ஊடக மாநாட்டில் நாடாளுமன்ற உறுப்பினர் களான செல்வம் அடைக்கலநாதன், ஞா.சிறிநேசன், முன்னாள் நாடாளுமன்ற உறுப்பினர்களான சுரேஸ்பிரேமச்சந்திரன்  மு.சந்திர குமார், கோ.கருணாகரம், கிழக்கு மாகாணசபை உறுப்பினர் இரா.துரைரெட்ணம் ஆகியோர் கலந்து கொண்டு அழைப்பினை விடுத்தனர்.
+
+இந்த கையொழுத்து போராட்டம் கடந்த மாதம் 29 ம் திகதி யாழ்ப்பாணத்தில் ஆரம்பிக்கப்பட்டு இடம்பெற்று வருகின்றது இதற்கமைய கிழக்கில் வியாழக்கிழமை (04) மட்டக்களப்பில் காந்திபூங்காவில் ஆரம்பித்து வைக்கப்படும் அதனை தொடர்ந்து அம்பாறை மாவட்டத்தில் கல்முனை நகர் ஆர்.கே.எம் வித்தியாலயத்துக்கு அருகில் ஆரம்பித்து வைக்கப்படும்
+
+...
+
+[Data](articles/4a350f8e.json)
+
+---
+
+### US economy on brink of recession, warns Moody’s chief economist
+
+*2025-09-04 05:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112152/us-economy-on-brink-of-recession-warns-moodys-chief-economist) · `en`
+
+The state-level data in the US shows that the country is “on the edge of recession”, said Mark Zandi, chief economist at credit rating agency Moody’s.
+
+According to Zandi, who was among the first economists to predict the 2008 financial crisis, the states that make up nearly a third of the US gross domestic product (GDP) are currently either in recession or at high risk of entering one.
+
+“Based on my assessment of various data, states making up nearly a third of US GDP are either in or at high risk of recession, another third are just holding steady, and the remaining third are growing,” he wrote on social media platform X.
+
+Further, in an interview with Newsweek, Zandi said: “For the average American, that risk shows up in two ways. It means higher prices at the store, and it means job disruption across industries tied to food, goods, and transportation.”
+
+...
+
+[Data](articles/8517eeca.json)
+
+---
+
+### Showers, strong winds expected in various parts of the country today
+
+*2025-09-04 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112150/showers-strong-winds-expected-in-various-parts-of-the-country-today) · `en`
+
+A few showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts today (04), the Department of Meteorology said.
+
+Showers or thundershowers may occur at a few places in the Ampara, Batticaloa and Monaragala districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Hambantota district.
+
+◼️
+
+[Data](articles/6e316b9a.json)
+
+---
 
 ### Sajith warns Govt. against using ICCPR to silence dissent
 
@@ -151,6 +239,32 @@ The Human Rights Commission of Sri Lanka (HRCSL) conducted a fact-finding missio
 ...
 
 [Data](articles/86d13a92.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை: மாவட்ட வாரியாக வெட்டுப்புள்ளிகள் வெளியீடு
+
+*2025-09-04 04:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224152) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையின் பெறுபேறுகளின் அடிப்படையில் ஒவ்வொரு மாவட்டத்திற்கும் வெட்டுப்புள்ளிகளை பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/89e60bb1.json)
+
+---
+
+### அடுத்த ஆண்டு ஆரம்பத்தில் செயற்றிட்டங்கள் மதிப்பீடு செய்யப்பட வேண்டும்  – வட மாகாண ஆளுநர்
+
+*2025-09-04 04:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/224151) · `ta`
+
+இந்த ஆண்டு முன்னெடுக்கப்பட்ட செயற்றிட்டங்கள் ஊடாக கிடைக்கப்பெற்ற பெறுபேறுகள் தொடர்பிலும், மக்களின் வாழ்க்கைத் தரத்தில் ஏற்பட்டுள்ள மாற்றங்கள் தொடர்பாகவும் அடுத்த ஆண்டு ஆரம்பத்தில் மதிப்பீடு மேற்கொள்ளப்பட வேண்டும் என வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் அவர்கள் குறிப்பிட்டார்.
+
+வடக்கு மாகாண விவசாய மற்றும் கமநல சேவைகள், கால்நடை அபிவிருத்தி, நீர்ப்பாசன, மீன்பிடி, நீர் விநியோக மற்றும் சுற்றாடல் அமைச்சின் கீழ் இந்த ஆண்டு நடைமுறைப்படுத்தப்படும் திட்டங்களின் நிதி மற்றும் பௌதீக முன்னேற்றம் தொடர்பில் ஆராயும் மாதாந்தக் கலந்துரையாடல் வடக்கு மாகாண கௌரவ ஆளுநர் நா.வேதநாயகன் அவர்கள் தலைமையில் ஆளுநர் செயலகத்தில் புதன்கிழமை (03) நடைபெற்றது.
+
+...
+
+[Data](articles/f8d04235.json)
 
 ---
 
@@ -351,6 +465,18 @@ Primary education is the bedrock for later learning and development. During earl
 ◼️
 
 [Data](articles/83f0b0ea.json)
+
+---
+
+### Grade 5 Scholarship Exam cut-off marks released
+
+*2025-09-04 01:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112149/grade-5-scholarship-exam-cut-off-marks-released) · `en`
+
+The district-level cut-off marks of the Grade 5 Scholarship Examination 2025 have been released by the Department of Examination.
+
+◼️
+
+[Data](articles/aba53e48.json)
 
 ---
 
@@ -1625,163 +1751,5 @@ As no one came forward to claim the parcels in question, Customs officers carrie
 ◼️
 
 [Data](articles/1b3f5f2a.json)
-
----
-
-### Former Minister Rajitha leaves Bribery Commission
-
-*2025-09-03 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112141/former-minister-rajitha-leaves-bribery-commission) · `en`
-
-Former Minister Rajitha Senaratne, who is currently in remand custody, has left the Bribery Commission a short while ago after recording a statement for nearly five hours.
-
-Rajitha Senaratne was taken into custody on August 29 after appearing in court following an arrest warrant that had been issued against him.
-
-Following his court appearance, he was placed in remand custody until September 9.
-
-At the time, Colombo Chief Magistrate Asanka S. Bodaragama ordered prison authorities to present Senaratne before the Bribery Commission at 9:00 a.m. today to record a statement.
-
-◼️
-
-[Data](articles/fb96cede.json)
-
----
-
-### ’’வெவ்வேறு விலையில் மருந்துகளை விற்க முடியாது’’
-
-*2025-09-03 15:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெவ்வேறு-விலையில்-மருந்துகளை-விற்க-முடியாது/175-363966) · `ta`
-
-இந்த மாதம் முதல் புதிய மருந்து விலை நிர்ணய சூத்திரம் அமல்படுத்தப்படும் என்று சுகாதார பிரதி அமைச்சர் டாக்டர் ஹன்சக விஜேமுனி தெரிவித்தார்.
-
-புதிய விலை நிர்ணய சூத்திரம் அறிமுகப்படுத்தப்பட்ட பிறகு, யாரும் வெவ்வேறு விலையில் மருந்துகளை விற்க முடியாது என்றும் அவர் கூறினார்.
-
-அத்துடன், நாட்டின் பல்வேறு பகுதிகளில் வெவ்வேறு விலையில் மருந்துகளை விற்பனை செய்வது மக்களுக்கு ஒரு பெரிய பிரச்சினையாக உள்ளது என்றும் பிரதி அமைச்சர் கூறினார்.
-
-◼️
-
-[Data](articles/46570fff.json)
-
----
-
-### Speaker endorses certificate on Gambling Regulatory Authority Bill
-
-*2025-09-03 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112140/speaker-endorses-certificate-on-gambling-regulatory-authority-bill) · `en`
-
-The Speaker of Parliament Dr. Jagath Wickramaratne today (03) endorsed the certification on the Gambling Regulatory Authority Bill in accordance with Article 79 of the Constitution.
-
-The Bill was passed with amendments following the Second Reading debate in Parliament on August 19, 2025.
-
-Accordingly, the Bill will come into force as the Gambling Regulatory Authority Act, No. 17 of 2025.
-
-This Act is to provide for the establishment of the Gambling Regulatory Authority; for the repeal of the Betting on Horse-Racing Ordinance (Chapter 44), Gaming Ordinance (Chapter 46) and the Casino Business (Regulation) Act, No. 17 of 2010; and to provide for matters connected therewith or incidental thereto.
-
-This Act provides for the establishment of the Gaming Regulatory Authority as a single regulatory body for gaming operations, to regulate the gaming industry in Sri Lanka.
-
-...
-
-[Data](articles/b462ca56.json)
-
----
-
-### ප්‍රකාශයක් ලබාදෙන්න ආ රාජිත යළි බන්ධනාගාරයට
-
-*2025-09-03 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214122) · `si`
-
-අද (03) පෙරවරුවේ ප්‍රකාශයක් ලබා දීමට අල්ලස් කොමිසම හමුවට පැමිණි හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා පැය 5කට පමන පසුව නැවතත් බන්ධනාගාරයට රැගෙන ගොස් තිබේ.
-
-අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා පසුගිය අගෝස්තු මස 29 වන දා අධිකරණයට ඉදිරිපත් වීමෙන් අනතුරුව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර තිබුණි.
-
-එහිදී කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක. එස්. බෝදරගම මහතා බන්ධනාගාර නිලධාරීන්ට නියම කර තිබුණේ අද (03) උදෑසන 9ට ප්‍රකාශයක් සටහන් කරගැනීම සඳහා අල්ලස් කොමිසම හමුවට ඉදිරිපත් කරන ලෙසය.
-
-ඒ අනුව අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතාව අදාළ ප්‍රකාශය ලබාදීමෙන් පසුව මීට සුළු මොහොතකට පෙර එම ස්ථානයෙන් නැවතත් බන්ධනාගාරයට රැගෙන ගොස් තිබේ.
-
-◼️
-
-[Data](articles/441c16b6.json)
-
----
-
-### Sri Lanka stocks close down, consumer sectors drive turnover
-
-*2025-09-03 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-consumer-sectors-drive-turnover-239351/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed a marginal 0.07 percent down ending a volatile day, brokers said.
-
-The ASPI fell 14.94 points on Wednesday to close at 20,975.73; while the S&P SL20 index dipped 0.32 percent, or 19.31 points, to close at 6,008.30.
-
-Turnover was 6.4 billion rupees while the share volumes was 260,870,714.
-
-Dankotuwa Porcelain contributed 1.19 billion rupees to the turnover. The share closed down 5.60 rupees at 21.40.
-
-Most hotel stocks closed up, amid Sri Lanka Tourism Development Authority (SLTDA)’s positive tourist numbers for August.
-
-Weighing down the ASPI were; Richard Peiris which ended 1.10 rupees lower at 26.50; HNB down 2.25 rupees at 395.00; NDB down 1.25 rupees at 140.25; Commercial Bank down 75 cents at 192.50 rupees; and John Keells Holdings down 0.10 rupees at 22.70.
-
-...
-
-[Data](articles/eac41f14.json)
-
----
-
-### වසර පහකට පසු දැදුරු ඔය සිදී යයි
-
-*2025-09-03 15:27:22* · [`adalk`](https://www.ada.lk/opinion/වසර-පහකට-පසු-දැදුරු-ඔය-සිදී-යයි/2-418259) · `si`
-
-මාසයකට ආසන්න කාලයක් පුරා පවතින වියළි කාළගුණ තත්වයත් සමග මේ දිනවල දැදුරු ඔයේ ජල මට්ටම සම්පුර්ණයෙන් පහතට වැටි සිදිගොස් ඇති අයුරු මෙලෙස ඡායාරුපයට දිස්විනි.
-
-මෙලෙස දැදුරු ඔයෙ ජල මට්ටම අගෝස්තු මාසයෙදී සිදි ගියේ වසර පහකට පසුව බව වාරි මාර්ග නිළධාරීහු පවසයි.
-
-පසුගිය වසර වල නොකඩවා වැසි ඇද වැටිමත් සමග වයඹ පළාතේ ප්‍රදේශ රැසක් ජල ගැලිම් වලට පවා ලක්ව තිබු අතර මේ ආකාරයට දැදුරු ඔය ජලය සිදි යාම අගොස්තු මාසයෙ සිට නිරන්තයෙන් පවතින වියළි කාලගුණ තත්වයට ලක්ව සිදි යාම සිදුවුවත් ගෙවි ගිය වසර පහකට ආසන්න කාලයක් නොකඩවා වැසි ලැබිම සිදුවිමත් සමග දැදුරු ඔයේ ජල මට්ටමේ අඩු විමක් දක්නට නොලැබුන බව ජනතාව කියයි.
-
-කෙසේ නමුත් මෙලෙ ජල මට්ටම අඩුවිමත් සමග දැදුරු ඔයෙන් විවිධ ගොවිතැන් කටයුතු සදහා ජලය පොම්ප කරමින් ලබා ගත් පිරිස් දැඩි අසිරුතාවයකට ලක්ව ඇති බවද කියයි.
-
-◼️
-
-[Data](articles/e8028431.json)
-
----
-
-### බිරිඳ පණපිටින් පුළුස්සා දැමූ ඉන්දීය සැමියෙකුට මරණ දඬුවම
-
-*2025-09-03 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214121) · `si`
-
-තම බිරිඳගේ සමේ පැහැය නිසා ඇය පණපිටින් පුළුස්සා දැමීම සම්බන්ධයෙන් ඉන්දියානු ජාතිකයෙකුට එරට අධිකරණයක් විසින් මරණ දඬුවම නියම කර තිබේ.
-
-උතුරු උදයිපූර් නගරයේ දිස්ත්‍රික් විනිසුරු රාහුල් චෞද්‍රි විසින් මෙම මරණ දඬුවම ලබාදී ඇත.
-
-සිය තීන්දුව පැහැදිලි කරමින් ඔහු පවසා ඇත්තේ, මෙම ඝාතනය 'දුර්ලභතම දුර්ලභ' කාණ්ඩයට අයත් බවත් එය ' එය මනුෂ්‍යත්වයට එරෙහි අපරාධයක් බවත්ය.
-
-මියගිය කාන්තාවගේ සැමියාවන කිෂාන්දාස්ගේ අවස්ථා කිහිපයකදීම තමන්ව විවිධ වූ හිංසා පීඩාවන්ට ලක්කළ බව මෙම ඝාතනයට පෙර ඇය පවසා තිබේ.
-
-ඒ සම්බන්ධයෙන් ඇය පොලීසියට, වෛද්‍යවරුන්ට පවසා ඇති අතර අධිකරණයේද පිහිට පතා ඇත.
-
-එහිදී ඇය පවසා ඇත්තේ තම සැමියා තමන්ට පැහැපත් සමක් නොමැතිවීම හේතුවෙන් නිරන්තරයෙන් වධහිංසාවන්ට ලක්කළ බවය.
-
-2016 වසරේ විවාහ වූ දා සිට තම සැමියා ඇයට 'කාලි' යනුවෙන් පවසමින් තම සමේ වර්ණයට ලැජ්ජා කළ බවද ඇය ජීවත්ව සිටියදී පවසා ඇත.
-
-අධිකරණ වාර්තාවට අනුව ලක්ෂ්මි මියගිය දින රාත්‍රියේ ඇගේ සැමියා කිෂාන්දාස් දුඹුරු පැහැති දියරයක් සහිත ප්ලාස්ටික් බෝතලයක් ඇයට ගෙනවිත් දී ඇත.
-
-එය සම පැහැපත් කරන ඖෂධයක් බව පවසා එය ඇගේ ශරීරයේ ආලේප කිරීමට උත්සාහ දරා තිබේ.
-
-...
-
-[Data](articles/75a8412c.json)
-
----
-
-### “நான் கர்ப்பமாகி  ஒரு குழந்தையை சுமக்க விரும்பல”
-
-*2025-09-03 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-கர்ப்பமாகி-ஒரு-குழந்தையை-சுமக்க-விரும்பல/175-363964) · `ta`
-
-பாலிவுட்டின் பிரபல நடிகைகளில் ஒருவராக விளங்கும் சன்னி லியோன், 2012-ஆம் ஆண்டு வெளிவந்த ஜிஸம் 2 திரைப்படத்தின் மூலம் ஹிந்தி திரையுலகில் அறிமுகமானார்.
-
-அதன் பின்னர் பல ஹிந்தி படங்களில் நடித்து ரசிகர்களை கவர்ந்தார். தமிழிலும் நடிகர் ஜெய் நடித்த வடகறி படத்தில் ஒரு பாடலுக்கு ஆட்டம் போட்டு புகழ் பெற்றார். சன்னி லியோன், 2011-ஆம் ஆண்டு நடிகர் டேனியல் வெபருடன் திருமணம் செய்து கொண்டார்.
-
-அதன்பின் 2017-ஆம் ஆண்டு நிஷா என்ற இரண்டு வயது பெண் குழந்தையை தத்தெடுத்தனர். பின்னர் 2018-ஆம் ஆண்டு வாடகைத் தாய் மூலம் நோவா மற்றும் ஆசர் என்ற இரட்டைக் குழந்தைகளுக்கு பெற்றோராகினர்.
-
-இதனால் குடும்ப வாழ்க்கையில் மகிழ்ச்சியுடன் வாழ்ந்து வரும் சன்னி லியோன், குழந்தைகளை வளர்ப்பதில் தனக்கு கிடைத்த அனுபவங்களை பல நேர்காணல்களில் பகிர்ந்து வருகிறார்.
-
-...
-
-[Data](articles/e6fd959f.json)
 
 ---

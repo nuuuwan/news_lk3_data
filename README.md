@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 09:33:51**
+As of **2025-09-04 09:50:52**
 
 ## Newspaper Stats
 
-*Scraped **74,071** Articles*
+*Scraped **74,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,33 +12,59 @@ newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 755
-economynextcom | 4,503
+economynextcom | 4,505
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,156
 adaderanalk | 9,450
 tamilmirrorlk | 11,018
-virakesarilk | 12,113
+virakesarilk | 12,114
 adaderanasinhalalk | 12,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,071 articles have been extended.
+61,973 (83.7%) of 74,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
 
+### போர்த்துக்கல் - லிஸ்பனில் ரயில் கேபிள் கார் பாதையில் விபத்து ; 15 பேர் பலி!
+
+*2025-09-04 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224158) · `ta`
+
+போர்த்துக்கல்லின் தலைநகரான லிஸ்பனில் உள்ள 140 ஆண்டுகள் பழமையான குளோரியா ஃபுனிகுலர் எனும் ரயில் கேபிள் கார் தடம் புரண்டு விபத்துக்குள்ளானதில் 15 பேர் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+விபத்தில் பாதிக்கப்பட்ட மேலும் 18 பேர் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. அவர்களில் ஐந்து பேர் ஆபத்தான நிலையில் உள்ளதாக அந்த நாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+விபத்தில் உயிரிழந்தவர்களில் வெளிநாட்டவரும் அடங்குவதாக தெரிவிக்கப்படுகிறது. இருப்பினும் அவர்கள் எந்த நாட்டைச் சேர்ந்தவர்கள் என்பதை உறுதிப்படுத்த முடியவில்லை என அந்த நாட்டு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இன்று நடைபெறும் அமைச்சரவைக் கூட்டத்தில் நகர முதல்வரை வரவேற்கும் போர்த்துக்கல் அரசாங்கம், தேசிய துக்க தினமொன்றை அறிவித்துள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/4818ff36.json)
+
+---
+
 ### ශිෂ්‍යත්වයේ වැඩිම ලකුණු ගාල්ල දිස්ත්‍රික්කයෙන්  - ලකුණු 198ක්
 
 *2025-09-04 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214151) · `si`
 
-මෙවර 2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාග ප්‍රතිඵලවලට අනුව සිංහල මාධ්‍යයෙන් වැඩිම ලකුණු ලබාගත් දරුවෙකු ගාල්ල දිස්ත්‍රික්කයෙන් වාර්තා වෙයි.
+මෙවර 2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාග ප්‍රතිඵලවලට අනුව සිංහල මාධ්‍යයෙන් වැඩිම ලකුණු ලබාගත් දරුවා ගාල්ල දිස්ත්‍රික්කයෙන් වාර්තා වෙයි.
 
 මේ අතර දෙමළ මාධ්‍යයෙන් වැඩිම ලකුණු ලෙස ලකුණු 194ක් ලබාගත් දරුවෙකු යාපනය දිස්ත්‍රික්කයෙන් වාර්තා වී තිබේ.
+
+විභාග කොමසාරිස් ජනරාල් ඒ. කේ. එස්. ඉන්දිකා කුමාරි මහත්මිය ඒ බව සඳහන් කළාය.
+
+පළාත් මට්ටමින් ලකුණු 70ක් හෝ ඊට ඉහළින් ලකුණු ලබාගෙන වැඩිම සාධනයක් පෙන්නුම් කර ඇත්තේ සබරගමුව පළාතෙනි.
+
+පළාත් මට්ටමින් කඩඉම් ලකුණු සාධනය සලකා බැලීමේදී සබරගමුව පළාතෙන් වැඩිම සාධන මට්ටමක් පෙන්නුම් කර ඇත.
+
+දෙවනියට ඌව පළාතත් තෙවනියට දකුණු පළාතත් වැඩිම සාධනයක් හිමිකරගත් පළාත් ලෙස වාර්තා වී තිබේ.
 
 ◼️
 
@@ -96,7 +122,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### පිළිකා නිසා වසරකට ළමුන් 200කට දිවි අහිවි වෙයි
+### පිළිකා නිසා වසරකට ළමුන් 200කට දිවි අහිමි වෙයි
 
 *2025-09-04 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214149) · `si`
 
@@ -265,6 +291,32 @@ The suspect also disclosed that approximately 2,000 kilograms of chemical substa
 ...
 
 [Data](articles/8a56535b.json)
+
+---
+
+### Sri Lanka renewable power share reaches 73-pct in June
+
+*2025-09-04 07:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-renewable-power-share-reaches-73-pct-in-june-239467/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s renewable power generation hit 73 percent in June 2025, up from 62 percent last year, helped by sharply higher hydro power generation by the Ceylon Electricity Board and solar and other private renewable, official data shows.
+
+In June 2026 CEB’s hydro generation grew 33.8 percent to 626 GigaWatt hours, making up 33.8 percent of energy, overtaking coal.
+
+Private renewable power made up solar, wind and mini hydro grew 28.7 percent to 413 GWh.
+
+CEB’s own wind plant generated 52GWh of power in June, down from 62GWh in May.
+
+Total renewable energy generated topped 1,091 GWh, out of a total of 1,495GWh or 73 percent.
+
+CEB’s coal plant generated 359GWh of energy, down 23-pct from last year. Fuel oil was down 36 percent to 24 GWh.
+
+The CEB has a target of generating 70 percent renewable energy by 2030.
+
+Though the South West monsoon may give extra renewable power including through wind, Sri Lanka’s solar power including rooftop has grown steadily.
+
+...
+
+[Data](articles/e8a9dc9b.json)
 
 ---
 
@@ -785,6 +837,22 @@ Primary education is the bedrock for later learning and development. During earl
 ◼️
 
 [Data](articles/83f0b0ea.json)
+
+---
+
+### Sri Lanka detaining only BYDs imported by agent, not third parties, JKCG tells court
+
+*2025-09-04 01:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-detaining-only-byds-imported-by-agent-not-third-parties-jkcg-tells-court-239454/) · `en`
+
+ECONOMYNEXT – Sri Lanka is detaining BYD cars imported by the agent, and not third parties and other EV brands are also allowed to enter the country without tests, a statement after the latest court hearing said.
+
+Sri Lanka authorities are planning to test EVs after the dispute over motor power, where the same model are sold with different power output by manufacturers.
+
+“Counsel for JKCG also drew the attention of Court to the fact that; Sri Lanka Customs is,  selectively, and in a discriminatory manner, detaining only BYD vehicles imported by JKCG, whilst it is permitting the clearance of other brands of electric vehicles imported by other entities, including BYD vehicles imported by others,” the BYD agent in Sri Lanka said in a statement after the latest court hearing.
+
+...
+
+[Data](articles/83fda36b.json)
 
 ---
 
@@ -1544,11 +1612,9 @@ The Global Federation of Sri Lankan Business Councils (GFSLBC) held its inaugura
 
 ---
 
-### 
+### முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் சர்ச்சைக்குரிய கைது, குற்றச்சாட்டு, விளக்கமறியல், பிணையில் விடுதலை
 
 *2025-09-03 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86391) · `en`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் சர்ச்சைக்குரிய கைது, குற்றச்சாட்டு, விளக்கமறியல், பிணையில் விடுதலை
 
 முன்னாள் இலங்கை ஜனாதிபதி ரணில் விக்கிரமசிங்க 2025 ஆகஸ்ட் 22 ஆம் திகதி வெள்ளிக்கிழமை இலங்கை பொலிஸின்  குற்றவியல் புலனாய்வு திணைக்களத்தினால் (சி.ஐ.டி.)  கைது செய்யப்பட்டார். அதை அடுத்து அவர் கொழும்பு கோட்டை மாஜிஸ்திரேட் முன்னிலையில் ஆஜர் செய்யப்பட்டதை தொடர்ந்து 2025 ஆகஸ்ட் 26  ஆம் திகதி வரை விளக்கமறியில் வைக்கப்பட்டார்.  கடந்த காலத்தில் ஆறு தடவைகள் பிரதமராக பதவி வகித்த 76 வயதான விக்கிரமசிங்க இலங்கையின் வரலாற்றில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட முதலாவது முன்னாள் ஜனாதிபதியாவார்.
 
@@ -1683,61 +1749,5 @@ The after effects of years of lawless politics and lack of accountability among 
 ...
 
 [Data](articles/be173878.json)
-
----
-
-### “ICCPR யை பயன்படுத்தி  பழிவாங்காதீர்”
-
-*2025-09-03 17:13:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ICCPR-யை-பயன்படுத்தி-பழிவாங்காதீர்/150-363976) · `ta`
-
-அனைத்துலக குடிசார் மற்றும் அரசியல் உரிமைகள்   (ICCPR)  சாசனத்தைப் பயன்படுத்திக் கொண்டு அரசியல் பழிவாங்கும் நடவடிக்கைகளை மேற்கொள்ள வேண்டாம் என்றும், இந்த சாசனத்தைத் தவறாகப் பயன்படுத்த வேண்டாம் என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளார்.
-
-உதய கம்மன்பில தலைமை வகிக்கும் பிவித்துரு ஹெல உறுமய கட்சியின் உறுப்பினர்களுடன் எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் புதன்கிழமை (03) நடைபெற்ற சந்திப்பில் கலந்து கொண்டு கருத்துத் தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்துள்ளார்.
-
-அனைத்துலக குடியியல் மற்றும் அரசியல் உரிமைகள் உடன்படிக்கை பிரசித்தமாக ICCPR சட்டமென அழைக்கப்படுகின்றன. மனித உரிமைகளைப் பாதுகாப்பதற்கும், சமூகத்தில் அமைதி, ஒற்றுமை, சகோதரத்துவம் மற்றும் நல்லிணக்கத்தை மேம்படுத்தவும், குடிமைச் சமூக குழுக்கள் மத்தியில் சகோதரத்துவத்துடன் வாழும் நாகரிகமான மற்றும் அமைதியான சமூகத்தை உருவாக்கும் முகமாகவே இந்த சாசனம் உருவாக்கப்பட்டது. இது தான் இதன் பிரதான நோக்கமாகும்.
-
-...
-
-[Data](articles/9e935a3d.json)
-
----
-
-### Sri Lanka Customs to release 506 disputed BYD EVs with bank guarantee
-
-*2025-09-03 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-to-release-506-disputed-byd-evs-with-bank-guarantee-239356/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Customs has undertaken to release 506 Chinese-made Electric Vehicles (EVs) which had been detained over false motor capacity declaration, sources said.
-
-Sri Lanka’s authorized distributor of BYD vehicles John Keells CG Auto (Pvt) Ltd (JKCG) has sought a court decision to get thousands of detained BYD vehicles released in a dispute over motor capacity.
-
-Under the court order customs will release 506 BYD vehicles under a bank guarantee.
-
-The court case on the next set of vehicles detained by the Customs will be taken up next week.
-
-The Customs detained about 2,000 more Chinese-made BYD electric vehicles arriving on the island over the declaration of motor capacity which is used to calculate taxes.
-
-It released about 1,000 vehicles last month before the latest batch.
-
-...
-
-[Data](articles/f62ba548.json)
-
----
-
-### උණුසුම් කාලගුණය ගැන නිවේදනයක්
-
-*2025-09-03 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214128) · `si`
-
-උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
-
-අද (03)  ප.ව. 03.30ට නිකුත් කරන ලද එම නිවේදනය 04 දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත් සහ මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්ක සඳහා විමසිලිමත්වන ලෙස එම නිවේදනයෙන් දැනුම් දී ඇත.
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවය.
-
-◼️
-
-[Data](articles/ad44f001.json)
 
 ---

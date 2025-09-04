@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 15:32:43**
+As of **2025-09-04 15:50:35**
 
 ## Newspaper Stats
 
-*Scraped **74,145** Articles*
+*Scraped **74,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,165
 adaderanalk | 9,467
 tamilmirrorlk | 11,038
 virakesarilk | 12,121
-adaderanasinhalalk | 12,881
+adaderanasinhalalk | 12,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,145 articles have been extended.
+61,973 (83.6%) of 74,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ලංකාවට ඇවිත් ව්‍යාපාර කළ රුසියානු තරුණියක් අත්අඩංගුවට
+
+*2025-09-04 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214169) · `si`
+
+සංචාරක වීසා මත මෙරටට පැමිණ ව්‍යාපාර කටයුතු සිදුකළ රුසියානු ජාතික කාන්තාවක් උණවටුන සංචාරක පොලිස් ඒකකයවිසින් අත්අඩංගුවට ගෙන ඇත.
+
+29 හැවිරිදි වියේ පසුවන ඇය සංචාරක වීසා උල්ලංඝනය කර උණවටුන ප්‍රදේශයේ සමාජ ශාලාවක් ආකාරයෙන් හෝටලයක් හා ආපනශාලාවක් පවත්වාගෙන ගොස් ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+අත්අඩංගුවට ගත් රුසියානු කාන්තාව හබරාදූව පොලිස් ස්ථානයට භාරදී ඇති අතර, හෙට (5) ගාල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/dc8893e3.json)
+
+---
 
 ### බැකෝ සමන්ගේ බිරිඳ රිමාන්ඩ්
 
@@ -1823,27 +1839,5 @@ Customs officials noted that the detection underscores the Unit’s proactive ap
 ...
 
 [Data](articles/6611a5ae.json)
-
----
-
-### Ex-Police Chief Pujith discharged from assault case
-
-*2025-09-04 05:09:37* · [`dailyftlk`](https://www.ft.lk/news/Ex-Police-Chief-Pujith-discharged-from-assault-case/56-781240) · `en`
-
-Operator allegedly assaulted for working elevator during national anthem and meditation program in 2017
-
-Former Inspector General of Police (IGP) Pujith Jayasundara was yesterday discharged from a case relating to an alleged assault on an elevator operator at Police Headquarters in 2017.
-
-The Fort Magistrate’s Court released him when the matter was taken up for hearing.
-
-The complaint was first made on 2 June 2019, to the then Acting IGP.
-
-The lift operator alleged that on 11 April 2017, Jayasundara verbally abused him, grabbed him by the collar, and attempted to assault him inside an elevator.
-
-According to the complaint, the incident occurred after Jayasundara had directed that the elevator should not be operated during the national anthem and meditation program held at Police Headquarters at the time.
-
-◼️
-
-[Data](articles/4b2353d0.json)
 
 ---

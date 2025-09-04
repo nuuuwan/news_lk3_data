@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 17:18:17**
+As of **2025-09-04 17:32:46**
 
 ## Newspaper Stats
 
-*Scraped **74,166** Articles*
+*Scraped **74,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 755
-economynextcom | 4,507
+economynextcom | 4,516
 islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,168
+adalk | 7,169
 adaderanalk | 9,472
 tamilmirrorlk | 11,041
 virakesarilk | 12,123
-adaderanasinhalalk | 12,888
+adaderanasinhalalk | 12,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,166 articles have been extended.
+61,973 (83.5%) of 74,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### වාර්තා අලුත්කළ හරාරේ ක්‍රීඩාංගණය
+
+*2025-09-04 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214176) · `si`
+
+ශ්‍රී ලංකාව හා සිම්බාබ්වේ අතර ඊයේ (3) හරාරේ ක්‍රීඩාංගණයේ පැවති තරගය එම ක්‍රීඩාංගණයේ පැවති 289වන ජාත්‍යන්තර ක්‍රිකට් තරගය ලෙස වාර්තා අතරට එක්විය.
+
+ඒ අනුව ලොව එක් ක්‍රීඩාංගණයක වැඩිම ජාත්‍යන්තර ක්‍රිකට් තරග පැවැත් වූ ක්‍රීඩාංගණ අතර තෙවන ස්ථානය දක්වා හරාරේ  ක්‍රීඩාංගණය ඉහළට පැමිණියේය.
+
+එහිදී එම ක්‍රීඩාංගණය පසුකරනු ලැබුවේ ඔස්ට්‍රේලියාවේ මෙල්බන් ක්‍රීඩාංගණය තරග 288කට සත්කාරකත්වය ලබා දී තිබූ කඩඉමයි.
+
+මෙම වාර්තාවේ පෙරමුණ එක්සත් අරාබියේ සාජා ක්‍රීඩාංගණයට (තරග 309) හිමිව ඇති අතර, දෙවන ස්ථානය ඔස්ට්‍රේලියාවේ සිඩ්නි ක්‍රීඩාගණයට (තරග 293) හිමිව ඇත.
+
+◼️
+
+[Data](articles/47cd32e2.json)
+
+---
+
+### Sri Lanka to establish diplomatic ties with Antigua and Barbuda
+
+*2025-09-04 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-diplomatic-ties-with-antigua-and-barbuda-239545/) · `en`
+
+ECONOMYNEXT – Sri Lanka will establish formal diplomatic relations with Antigua and Barbuda, a Caribbean country, minister Nalinda Jayatissa said.
+
+The cabinet approved the proposal to establish of diplomatic relations between Sri Lanka and Antigua and Barbuda, “with a view to achieving mutual benefits for both countries,” Jayatissa told reporters.
+
+Sri Lanka has established formal diplomatic relations with 13 countries in the Latin American and Caribbean region and has visa free access to some of them. (Colombo/Sep4/2025)
+
+◼️
+
+[Data](articles/7b12338c.json)
+
+---
 
 ### ගංජා පානය කර මගී බස් රථයක් ධාවනය කළ රියදුරෙක් අත්අඩංගුවට
 
@@ -69,6 +103,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1e121be5.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-09-04 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-239561/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.97/302.02 to the US dollar in the spot market Thursday, stronger from 302.08/13 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed at 8.64/74 percent, down from 8.65/75 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/55 percent, from 9.52/54 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.35/45 percent.
+
+Further to the T-bill auction held on Wednesday (3), no further subscription was made for the Treasury bills offered on tap, the central bank said. (Colombo/Sep4/2025)
+
+◼️
+
+[Data](articles/7b6281af.json)
 
 ---
 
@@ -117,6 +173,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/21a2679c.json)
+
+---
+
+### ශිෂ්‍යත්ව දෙවැනියා ඕපනායක විද්‍යාකර ප්‍රාථමිකයේ තරුෂි කවිත්මා
+
+*2025-09-04 16:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-දෙවැනියා-ඕපනායක-විද්‍යාකර-ප්‍රාථමිකයේ-තරුෂි-කවිත්මා/11-418284) · `si`
+
+2025 ශිෂ්‍යත්ව ප්‍රතිඵල අනුව ලකුණු 197 ක් ලබා ලබාගනිමින් ලංකාවෙන්ම සිංහල මාධ්‍ය දෙවැනි ස්ථානය ලබා  ගැනිමට රත්නපුර දිස්ත්‍රික්කයේ ඕපනායක විද්‍යාකර ප්‍රාථමික විද්‍යාලයේ කේ.වී.තරුෂි ඉමත්මා සිසුවිය සමත්ව ඇත.
+
+මෙම විද්‍යාලයේ පලමු වසරේ සිටම අධ්‍යාපනය ලැබූ තරුෂි ඉමත්මා දස්කම් රැසක් ලඟාකරගත් සිසුවියක බවත්,වර්තමානයේ ශිෂ්‍ය නායිකාවියක බවත් පංතිභාර ගුරුතුමා වන සුනිල් විමලචන්ද්‍ර මහතා ප්‍රකාශ කලේය.
+
+මෙම සිසුවිය ඕපනායක හත්තැල්ල වසමේ හෙළඋඩගමේ පදිංච් ශ්‍රි ලංකා පොලිසියේ සේවය කරන කේ.වී ධම්මික පුෂ්ප කුමාර මහතාගේ සහ එච්.එම්.  මල්කාන්ති මහත්මියගේ වැඩිමහල් දියණියයි.
+
+තරුෂි ඉමත්මා  අදහස් දක්වමින් කියා සිටියේ අපේක්ෂාව "ඉන්ජිනේරුවරියක් වෙලා මා උපන් මව්බිමට සේවය කිරීමයි. මේ  ජයග්‍රහනයේ ගෞරවය මෙම ඉස්කෝලෙ විදුහල්පතිතුමාට නියෝජ්‍ය විදුහල්පතිනියට සහ පළමු වසරේ සිට මට උගන්නපු ගුරු මව්පියන් හැමදෙනාටමත් හිමිවෙන්න අවශ්‍යයි.
+
+මා මේ කාලය තුළ සෑම විෂයක් ගැනම උන්න්දු උනාචිත්‍ර සමස්ත ලංකා ජයග්‍රහණ හිමිකරගෙන තිබෙනව. ඒ වගේම ක්‍රීඩා කරනව. අත් අකුරු තරඟ වලට ඉදිරිපත් වෙලා  ජයග්‍රහණ හිමිකරගෙන තිබෙනවා."
+
+◼️
+
+[Data](articles/80eec0ab.json)
 
 ---
 
@@ -194,6 +270,22 @@ The arrested foreign national is scheduled to be produced before the Galle Magis
 
 ---
 
+### Sri Lanka Census and Statistics Dept gets new head
+
+*2025-09-04 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-census-and-statistics-dept-gets-new-head-239543/) · `en`
+
+ECONOMYNEXT – K M D S D Karunarathna will be appointed Director General of Sri Lanka’s Department of Census and Statistics, minister Nalinda Jayatissa said.
+
+She replaces D D G A Seneviratne, who is scheduled to retire from the public service on September 5 upon reaching the age of 60 years.
+
+The Cabinet of Ministers approved the proposal to appoint the senior most Additional Director General of the Department of Census and Statistics as its head, Jayatissa told reporters. (Colombo/Sep4/2025)
+
+◼️
+
+[Data](articles/273f5e0f.json)
+
+---
+
 ### ධාවනයට නුසුදුසු ලොරියක් පොලිස් භාරයට
 
 *2025-09-04 15:51:30* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනයට-නුසුදුසු-ලොරියක්-පොලිස්-භාරයට/11-418281) · `si`
@@ -263,6 +355,24 @@ The arrested foreign national is scheduled to be produced before the Galle Magis
 ◼️
 
 [Data](articles/7f7c5022.json)
+
+---
+
+### Sri Lanka stocks close up driven by capital goods
+
+*2025-09-04 15:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-capital-goods-239539/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’ All Share Price Index closed up on Thursday provisional data on its site showed.
+
+The ASPI was up 0.08 percent, or 16.25 points, at 20,991; while the S&P SL20 was up 0.01 percent, or 0.59 points, at 6,005.
+
+Most of the came from capital goods stocks (1 billion rupees), followed by consumer services (895 million rupees) and real estate (790 million rupees).
+
+Top contributors to the ASPI were R I L Property (up 2.50 rupees at 32.20), Ceylon Tobacco (up 16.50 rupees at 1,663.00), Prime Lands Residencies (up 2.40 rupees at 29.70), Richard Pieris and Co (up 50 cents at 27 rupees), and John Keells Holdings (up 10 cents at 22.80 rupees). (Colombo/Sep4/2025)
+
+◼️
+
+[Data](articles/88271932.json)
 
 ---
 
@@ -498,6 +608,24 @@ He was arrested in relation to a shooting incident involving the vehicle of Hall
 
 ---
 
+### Sri Lanka to look for investors to set up Customs point at Kerawalapitiya
+
+*2025-09-04 13:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-look-for-investors-to-set-up-customs-point-at-kerawalapitiya-239529/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking for private investors to set up a Customs inspection center at Kerawalapitiya as a public-private partnership, minister Nalinda Jayatissa said.
+
+A land belonging to the Sri Lanka Land Development Corporation has been transferred to the Sri Lanka Customs for this purpose, he told reporters.
+
+A committee appointed to determine the methodology for the establishment of the center has submitted its recommendations for selecting a viable business model.
+
+“Based on its recommendation, the Cabinet approved the proposal to call for expressions of interest and requests for proposals to select a suitable private partner to implement the proposed Kerawalapitiya Customs Verification Center project under a hybrid public-private partnership model,” Jayatissa said. (Colombo/Sep4/2025)
+
+◼️
+
+[Data](articles/4306d2cb.json)
+
+---
+
 ### India makes ACs, tea, school supplies cheaper to mitigate shock of US tariffs
 
 *2025-09-04 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112175/india-makes-acs-tea-school-supplies-cheaper-to-mitigate-shock-of-us-tariffs) · `en`
@@ -716,6 +844,28 @@ Further investigations into the incident are being conducted by the Kandy Divisi
 
 ---
 
+### Sri Lanka delays online services VAT till April 2026
+
+*2025-09-04 12:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-delays-online-services-vat-till-april-2026-239502/) · `en`
+
+ECONOMYNEXT – Sri Lanka has delayed a digital services tax till April 2026, from the original October 01, to iron out practical difficulties, Cabinet spokesman Nalinda Jayatissa said.
+
+The VAT on digital services was part of an expansion of the tax based under an International Monetary Fund program.
+
+There have been concerns that the services like Paypal, and Stripe which are financial facilitators, like credit carss, have also been listed for 18 percent VAT.
+
+Stripe is a service that collects funds from credit cards and bank accounts, for other service providers.
+
+RELATED : Sri Lanka to charge VAT on Paypal, Stripe, amid existing IMF MCPs
+
+Paypal is a also a payment system that is connected to credit cards and bank accounts. If they are charged VAT on top of the underlying services, Sri Lankan customers may end up paying 36 percent VAT. (Colombo/Sept04/2025)
+
+◼️
+
+[Data](articles/44acf07c.json)
+
+---
+
 ### சிறுமி துஷ்பிரயோகம்: கான்ஸ்டபிள் கைது
 
 *2025-09-04 12:15:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-கான்ஸ்டபிள்-கைது/175-364027) · `ta`
@@ -758,6 +908,26 @@ Further investigations into the incident are being conducted by the Kandy Divisi
 
 ---
 
+### 29 Sri Lanka MPs to lose discount on houses
+
+*2025-09-04 12:10:00* · [`economynextcom`](https://economynext.com/29-sri-lanka-mps-to-lose-discount-on-houses-239486/) · `en`
+
+ECONOMYNEXT – A concessional scheme where houses constructed by Sri Lanka’s Urban Development Authority were sold to members of parliament whose homes were destroyed during public unrest in 2022, has been abolished with immediate effect, minister Nalinda Jayatissa said.
+
+“Due to this concessional scheme, the Urban Development Authority has had to suffer a loss of about Rs. 92.126 million and has not been able to cover the costs incurred,” Jayatissa told reporters.
+
+The 101 housing units in the Viathpura Housing Complex were rented to MPs whose houses were set on fire by mobs during the unrest that broke out on May 9, 2022. Several people were killed, including one MP.
+
+The then cabinet approved a proposal to rent the houses to the MPs for a year.
+
+Later, the MPs asked that they be allowed to buy the properties.
+
+...
+
+[Data](articles/b7d7c17e.json)
+
+---
+
 ### ஜி ஜின்பிங்- புட்டின் பேசிக்கொண்ட சுவாரஸ்யம்
 
 *2025-09-04 11:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜி-ஜின்பிங்-புட்டின்-பேசிக்கொண்ட-சுவாரஸ்யம்/50-364026) · `ta`
@@ -793,6 +963,24 @@ The Kandy Headquarters Police are investigating whether the jeep is an assembled
 ...
 
 [Data](articles/fda23345.json)
+
+---
+
+### Sri Lanka to liquidate 33 inactive SOEs
+
+*2025-09-04 11:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-liquidate-33-inactive-soes-239488/) · `en`
+
+ECONOMYNEXT – Sri Lanka will liquidate 33 state enterprises which were no longer active and had been set up for purposes which longer existed, Cabinet spokesman Nalinda Jayatissa said.
+
+Among the firms include Mihin Lanka, a budget airline, Lanka Cement Company, Lanka Logistics, Hambantota Port Management Company, Expressway Transport Company, he said.
+
+The state companies were mostly inactive with no staff he said.
+
+Some of the firms mentioned were set up during successive Rajapaksa regimes, but Lanka Cement is an old company. (Colombo/Sept04/2025)
+
+◼️
+
+[Data](articles/19a7af13.json)
 
 ---
 
@@ -1414,6 +1602,26 @@ The new, large capacity and long-distance transmission, which help Sri Lanka red
 
 ---
 
+### Imran Furkan appointed director of Sri Lanka’s Softlogic Holdings
+
+*2025-09-04 10:00:00* · [`economynextcom`](https://economynext.com/imran-furkan-appointed-director-of-sri-lankas-softlogic-holdings-239520/) · `en`
+
+ECONOMYNEXT – Imran Furkan has been appointed to the board of Sri Lanka’s Softlogic Holdings Plc as independent non-executive director, the company said in a stock exchange filing.
+
+“Imran advises boards and CEOs on strategy, market expansion as well as geo political, economic, climate and technology risk management,” the company said.
+
+He has held senior management and board directorship roles in industries such as finance, health, food, retail, regulatory and industry bodies, IT/GBS, education, commodities, media, and professional services in the Asia-Pacific region.
+
+He is an independent non-executive director of Odel, Asiri Health, Maharaja Foods and Asiri Surgical Hospital; board of management member of the Lakshman Kadiragamar Institute and an executive committee member of The Interfaith Network (IFN), City of Greater Dandenong, Australia.
+
+He served as the CEO of SLASSCOM and the Sri Lanka Press Institute.
+
+...
+
+[Data](articles/de1e1761.json)
+
+---
+
 ### பரமசிவன் கழுத்தில் இருந்து பாம்பு கேட்டது
 
 *2025-09-04 09:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பரமசிவன்-கழுத்தில்-இருந்து-பாம்பு-கேட்டது/62-364012) · `ta`
@@ -1637,209 +1845,5 @@ Israel has built about 160 settlements housing 700,000 Jews since it occupied th
 ...
 
 [Data](articles/0855665d.json)
-
----
-
-### 200 children with cancer die annually in Sri Lanka: NCCP
-
-*2025-09-04 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112160/200-children-with-cancer-die-annually-in-sri-lanka-nccp) · `en`
-
-Approximately 200 children with cancer die annually in Sri Lanka, according to Dr. Suraj Perera, a Consultant Community Physician attached to the National Cancer Control Programme (NCCP).
-
-He emphasized that this situation can be mitigated through proper medical treatment.
-
-Dr. Suraj Perera shared these views while participating in a media briefing held by the Health Promotion Bureau.
-
-“In 2022, out of all cancer patients identified, 904 were children diagnosed with cancer. When we look at data over the past 15 years, it clearly shows that there hasn’t been a significant increase in childhood cancer cases. The numbers have typically remained within the 600 to 800 range. Now, around 900 cases of childhood cancer are being reported annually.
-
-According to the Department of the Registrar General, around 200 children died of cancer in 2019, and although the data from 2020 was also collected, it has now been officially reported that on average, about 200 children with cancer die each year.
-
-...
-
-[Data](articles/ed95cc65.json)
-
----
-
-### இன்று கடும் மழை
-
-*2025-09-04 08:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கடும்-மழை/175-364005) · `ta`
-
-இதேவேளை, மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, கண்டி, நுவரெலியா மாவட்டங்களிலும் இலேசான மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-அம்பாறை, மட்டக்களப்பு, மொனராகலை மாவட்டங்களில் சில இடங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது. (a)
-
-◼️
-
-[Data](articles/f23855f5.json)
-
----
-
-### පිළිකා නිසා වසරකට ළමුන් 200කට දිවි අහිමි වෙයි
-
-*2025-09-04 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214149) · `si`
-
-වසරකට ළමා පිළිකා රෝගීන් 200 දෙනෙකු පමණ මරණයට පත් වන බව ජාතික පිළිකා මර්දන වැඩසටහනේ ප්‍රජා වෛද්‍ය විශේෂඥ සුරාජ් පෙරේරා මහතා පවසයි.
-
-ඔහු පෙන්වා දෙන්නේ නිසි වෛද්‍ය ප්‍රතිකාර ලබාගැනීම තුළින් මෙම තත්ත්වය අවම කරගත හැකි බවය.
-
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය සුරාජ් පෙරේරා මහතා මෙම අදහස් පල කළේය.
-
-"2022 දී පිළිකා රෝගීන් හඳුනා ගනිද්දී එයින් 904ක් තමයි ළමා පිළිකා රෝගීන් හඳුනා ගත්තේ. පසුගිය 15 පුරාම දත්ත බලද්දි පැහැදිලිව පෙන්නුම් කරනවා විශාල වර්ධනයක් පෙන්නුම් කරන්නේ නෑ ළමා පිළිකා. සාමාන්‍යයෙන් 600,700,800 ප්‍රමාණය ඇතුළත තමා තිබුණේ. දැන් 900ක් දක්වා වාර්තා වෙනවා වර්ෂයකට ළමා පිළිකා. ළමා පිළිකා නිසා රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව වාර්තා කරනවා 2019 දී 200ක් පමණ 2020 ගත්තත් දැන් ප්‍රකාශයට පත් කරලා තියෙනවා සාමාන්‍යයෙන් වසරකට ළමා පිළිකා රෝගීන් 200ක් පමණ මරණයට පත් වෙනවා. මේ අතර පවතිනවා සුවකර ගැනීමේ හැකියාව තිබිලා ප්‍රමාද වී වාර්තා වූ රෝගීන්. මේ මරණ තවත් අඩුකර ගන්න පුළුවන්. ඒ වගේම සංකූලතා අඩුකර ගන්න පුළුවන් කල් ඇතුව වෛද්‍ය ප්‍රතිකාර ලබා ගන්න පැමිණියොත්."
-
-◼️
-
-[Data](articles/6e398379.json)
-
----
-
-### ව්‍යාජ අංක තහඩු සහිත මෝටර් රථයක් සමග වෛද්‍යවරියක් අල්ලයි
-
-*2025-09-04 07:53:57* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-අංක-තහඩු-සහිත-මෝටර්-රථයක්-සමග-වෛද්‍යවරියක්-අල්ලයි/11-418271) · `si`
-
-ව්‍යාජ අංක තහඩු සවිකොට සුඛෝපභෝගී මෝටර් රථයක් පදවමින් සිටි වෛද්‍යවරියක මහනුවර පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-මහනුවර වාරියපොළ ශ්‍රී සුමංගල මාවතේ පදිංචි 48 හැවිරිදි එම වෛද්‍යවරිය මහනුවර නගරයේ එම මෝටර් රථය පදවමින් සිටියදී පොලිසිය මෝටර් රථයේ ලියාපදිංචි සහතික ඉල්ලා සිටි අවස්ථාවේදී ඒ කිසිවක් එහි නොමැති බව අනාවරණය වී තිබේ.
-
-එහිදී සිදු කළ පොලිස් ප්‍රශ්න කිරීම්වලදී වෛද්‍යවරිය පවසා ඇත්තේ එම මෝටර් රථය තම ස්වාමිපුරුෂයාට අයත් එකක් බවයි.
-
-පසුව අනාවරණය වී ඇත්තේ වෙනත් මෝටර් රථයක අංක තහඩු එම සුඛෝපභෝගී මෝටර් රථයට සවිකොට එය ධාවනය කොට ඇති බවයි. මහනුවර මුලස්ථාන පොලිසියේ රථවාන අංශය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/17d103d3.json)
-
----
-
-### 44 complaints related to teenage pregnancies lodged in first seven of 2025
-
-*2025-09-04 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112158/44-complaints-related-to-teenage-pregnancies-lodged-in-first-seven-of-2025) · `en`
-
-The National Child Protection Authority (NCPA) states that 44 complaints related to teenage pregnancies have been received during the first seven months of this year.
-
-The Authority pointed out that these complaints were received during the period from January 1 to July 31 of this year.
-
-During this period, the NCPA received a total of 5,461 complaints related to children, out of which 4,501 fall under the National Child Protection Authority Act, while 960 complaints are not covered by the Act.
-
-During the first seven months of this year, the NCPA received 141 complaints related to serious sexual abuse of children, 330 complaints of sexual harassment, and 32 complaints of rape.
-
-The highest number of complaints during this period were related to child cruelty, totaling 1,126, the NCPA stated.
-
-There were also 125 complaints regarding child trafficking, and 82 complaints related to child labor.
-
-...
-
-[Data](articles/4b9de765.json)
-
----
-
-### 44 complaints related to teenage pregnancies lodged in first seven months of 2025
-
-*2025-09-04 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112158/44-complaints-related-to-teenage-pregnancies-lodged-in-first-seven-months-of-2025) · `en`
-
-The National Child Protection Authority (NCPA) states that 44 complaints related to teenage pregnancies have been received during the first seven months of this year.
-
-The Authority pointed out that these complaints were received during the period from January 1 to July 31 of this year.
-
-During this period, the NCPA received a total of 5,461 complaints related to children, out of which 4,501 fall under the National Child Protection Authority Act, while 960 complaints are not covered by the Act.
-
-During the first seven months of this year, the NCPA received 141 complaints related to serious sexual abuse of children, 330 complaints of sexual harassment, and 32 complaints of rape.
-
-The highest number of complaints during this period were related to child cruelty, totaling 1,126, the NCPA stated.
-
-There were also 125 complaints regarding child trafficking, and 82 complaints related to child labor.
-
-...
-
-[Data](articles/e01e3199.json)
-
----
-
-### මේ වසරේ පළමු මාස 07 තුළ ළමා ගැබ් ගැනීම් 44ක්
-
-*2025-09-04 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214148) · `si`
-
-මේ වසරේ ගත වූ පළමු මාස 07 තුළ යොවුන් වියේ ගැබ් ගැනීමේ සිදුවීම් සම්බන්ධ පැමිණිලි 44ක් ලැබී ඇති බව ජාතික ළමා ආරක්ෂක අධිකාරිය පවසයි.
-
-එම අධිකාරිය පෙන්වා දෙන්නේ, මේ වසරේ ජනවාරි පළමු වන දින සිට ජුලි මස 31 වන දින දක්වා කාලය තුළ මෙම පැමිණිලි ලැබී ඇති බවය.
-
-එම කාලය තුළ ජාතික ළමා ආරක්ෂණ අධිකාරියට ළමුන් සම්බන්ධ පැමිනිලි 5,461ක් ලැබී ඇති අතර ජාතික ළමා ආරක්ෂණ අධිකාරී පනතට අදාළ පැමිණිලි 4,501ක් සහ පනතට අදාළ නොවන පැමිණිලි 960ක් ඒ අතර වන බව සඳහන්ය.
-
-මේ වසරේ පළමු මාස 7 තුළ ළමුන් බරපතළ ලිංගික අපයෝජනය කිරීම සම්බන්ධයෙන් පැමිණිලි 141ක් ලැබී ඇති අතර ලිංගික අතවර කිරීම සම්බන්ධ පැමිණිලි 330ක් සහ ස්ත්‍රී දූෂණ සම්බන්ධ පැමිණිලි 32ක් ලැබී ඇති බව ජාතික ළමා ආරක්ෂක අධිකාරිය සඳහන් කළේය.
-
-අදාළ කාලය තුළ ජාතික ළමා ආරක්ෂක අධිකාරියට ලැබුණු පැමිණිලි අතරින් වැඩිම පැමිණිලි සංඛ්‍යාවක් ලැබී ඇත්තේ ළමුන් කෘරත්වයට පත් කිරීම සම්බන්ධයෙන් පැමිණිලි වන අතර එම සංඛ්‍යාව 1,126ක් වේ.
-
-ළමුන් සිගමනේ යෙදීම සම්බන්ධයෙන් පැමිණිලි 125ක් ලැබී ඇති අතර ළමා ශ්‍රමිකත්වය සම්බන්ධයෙන් පැමිණිලි 82ක් ලැබී තිබේ.
-
-...
-
-[Data](articles/a2341300.json)
-
----
-
-### රු. කෝටි 20ක කේරළ ගංජා අල්ලයි
-
-*2025-09-04 07:49:23* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-20ක-කේරළ-ගංජා-අල්ලයි/11-418270) · `si`
-
-ශ්‍රී ලංකා නාවික හමුදාව, පොලීසිය  හා එක්ව, මන්නාරම නරුවිලික්කුලම් වෙරළ ප්‍රදේශයේ, මන්නාරම විශේෂ පොලීස් ඒකකය හා එක්ව 2025 සැප්තැම්බර් මස 02 වැනි දින සහ 03දා සිදුකල විශේෂ සෝදිසි මෙහෙයුමකදී, රුපියල් මිලියන 203කට අධික දළ වීථි වටිනාකමකින් යුත් කේරළ කංසා කිලෝ ග්‍රෑම් නවසිය හයකට (906) අධික තොගයක් නීතියේ රැහැනට හසුකරදීමට කටයුතු  කෙරිණි.
-
-ඒ අනුව, උතුරු මැද නාවික විධානයේ ශ්‍රී ලංකා නාවික නෞකා පුස්සදේව ආයතනය, මන්නාරම පොලිස් විශේෂ ඒකකය හා එක්ව,  නරුවිලික්කුලම් වෙරළ ප්‍රදේශයේ සිදුකල මෙම විශේෂ සෝදිසි මෙහෙයුමේදී, එම වෙරළ ප්‍රදේශයේ තිබූ සැකකටයුතු පාර්සල් තුන්සිය අනූඅටක් (398) නිරීක්‍ෂණය කර පරීක්‍ෂාවට ලක්කෙරිණි. එහිදී, එම පාර්සල් තුල සූක්‍ෂම ලෙස අසුරා තිබු කේරළ කංසා කිලෝ ග්‍රෑම් නවසිය හයකට (906) අධික තොගයක් මෙලෙස අත්අඩංගුවට  ගැනීමට කටයුතු කෙරිණි.
-
-නාවික හමුදා මෙහෙයුම් හමුවේ ජාවාරම්කරුවන් විසින් අතහැර දමා යන්නට ඇතැයි සැකකෙරෙන,  මෙම මෙහෙයුම මඟින් අත්අඩංගුවට  ගත් කේරළ කංසා තොගයේ දළ වීථි වටිනාකම රුපියල් මිලියන දෙසිය තුනකට (203) අධික වෙතැයි විශ්වාස කෙරේ.
-
-...
-
-[Data](articles/bd3665a9.json)
-
----
-
-### මන්න ෂාන් හා ගෝලයෙක් අල්ලයි
-
-*2025-09-04 07:46:13* · [`adalk`](https://www.ada.lk/breaking_news/මන්න-ෂාන්-හා-ගෝලයෙක්-අල්ලයි/11-418269) · `si`
-
-පාතාල ක්‍රියාකාරකම් සඳහා තියුණු ආයුධ සහ ව්‍යාජ ලෙස සකස්කල යතුරුපැදී ආදායම් බලපත්‍ර සහ රක්ෂණ සහතික කාඩ් පත් සමග පුද්ගලයින් දෙදෙනෙකු කළුතර කොට්ඨාස විෂ මත්ද්‍රව්‍ය වැටලීම් ඒකකය මගින් අත්අඩංගුවට ගත්බව එම ඒකකය සදහන් කරයි .
-
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර මිහිකත වත්ත ප්‍රදේශයේ පදිංචි මන්නා ශාන් සහ ඔහුගේ ගෝලයකු බව පොලිසිය කීය.
-
-"මන්න ෂාන්" නමැති සැකකරු කළුතර මිහිකතවත්ත ප්‍රදේශයේදී  හෙරොයින් ග්‍රෑම් හයක් සමඟ අත්අඩංගුවට ගෙන ඇති අතර,ඔහුගෙන් කළ ප්‍රශ්න කිරීම් වලදී අනෙක් සැකකරු  කළුතර ගැමුණු මාවත ප්‍රදේශයේදී  හෙරොයින් ග්‍රෑම් පහක් සමඟ අත්අඩංගුවට ගෙන , නිවස පරීක්ෂා කිරීමේදී නිවසේ කාමරය තුළ සඟවා තිබූ තියුණු ආයුධ හතරක් සොයා ගැනීමට පොලිසිය සමත්ව තිබේ. තවදුරටත් සිදුකල සෝදිසි කිරීම් වලදී කුඩා ප්‍රමාණයේ බෑගයක සඟවා තිබූ යතුරු පැදි සඳහා නිකුත් කර ඇති ආදායම් බලපත්‍ර 7 ක් සහ  රක්ෂණ කාඩ් 7 ක්ද පොලිසිය විසින් සොයාගෙන ඇත.
-
-...
-
-[Data](articles/7d48da34.json)
-
----
-
-### ශිෂ්‍යත්වයේ දිස්ත්‍රික් කඩයිම් ලකුණු මෙන්න
-
-*2025-09-04 07:26:09* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයේ-දිස්ත්‍රික්-කඩයිම්-ලකුණු-මෙන්න/11-418268) · `si`
-
-2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාග ප්‍රතිඵලවලට අනුව දිස්ත්‍රික් මට්ටමින් කඩඉම් ලකුණු සීමාවන් ද විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත් කර තිබේ.
-
-ඒ අනුව කොළඹ, ගම්පහ, කළුතර, මහනුවර, මාතලේ, ගාල්ල, මාතර, කුරුණෑගල, කෑගල්ල දිස්ත්‍රික් සදහා කඩඉම් ලකුණු සීමාව, සිංහල මාධ්‍ය 140ක් වන අතර දෙමළ මාධ්‍ය කඩඉම් ලකුණු සීමාව ලකුණු 134ක් වේ.
-
-සිසුන් 303,670 දෙනෙකු මෙවර ශිෂ්‍යත්ව විභාගය සඳහා පෙනී සිටි අතර ඉන් සිසුන් 51,969 දෙනෙකු කඩඉම් ලකුණු සංඛ්‍යාව ඉක්මවා ඇති බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/69aa47a4.json)
-
----
-
-### Israel rejects Hamas’ ceasefire offer, vows to press on with Gaza City offensive
-
-*2025-09-04 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112157/israel-rejects-hamas-ceasefire-offer-vows-to-press-on-with-gaza-city-offensive) · `en`
-
-Israel on Wednesday rejected Hamas’ proposal for reaching a comprehensive ceasefire deal in Gaza to end the war, saying its army will continue to prepare for a major attack on Gaza City.
-
-In a press statement released on Wednesday, Hamas reiterated its willingness to reach a “comprehensive deal” under which Israeli hostages in Gaza would be released in exchange for an agreed number of Palestinian prisoners held in Israel.
-
-According to Hamas, the deal would also include a permanent ceasefire, the withdrawal of Israeli forces from Gaza, the reopening of border crossings to allow the delivery of humanitarian aid and essential supplies, and the start of reconstruction efforts.
-
-Hamas also voiced support for the establishment of an independent national administration composed of technocrats to take immediate responsibility for managing Gaza’s civil affairs.
-
-In response, Israeli Prime Minister Benjamin Netanyahu dismissed the statement as “a spin.”
-
-...
-
-[Data](articles/8bb616a1.json)
 
 ---

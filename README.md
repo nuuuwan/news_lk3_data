@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 00:09:20**
+As of **2025-09-05 00:24:04**
 
 ## Newspaper Stats
 
-*Scraped **74,226** Articles*
+*Scraped **74,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 7,177
 adaderanalk | 9,478
 tamilmirrorlk | 11,050
 virakesarilk | 12,137
-adaderanasinhalalk | 12,901
+adaderanasinhalalk | 12,902
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,226 articles have been extended.
+61,973 (83.5%) of 74,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### බස් අනතුරේ නිරීක්ෂණ කටයුතු සඳහා බීච් ක්‍රාෆ්ට් යානයක්
+
+*2025-09-04 23:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214189) · `si`
+
+ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී අද (4) රාත්‍රියේ අනතුරේ නිරීක්ෂණ කටයුතු සඳහා ගුවන් හමුදාවට අයත් බීච් ක්‍රාෆ්ට් වර්ගයේ යානයක් යොදාවා තිබේ.
+
+◼️
+
+[Data](articles/9ab8687e.json)
+
+---
 
 ### ඇල්ලේ බස් අනතුරින් දෙදෙනෙක් මරුට
 
@@ -1745,25 +1757,5 @@ Paypal is a also a payment system that is connected to credit cards and bank acc
 ◼️
 
 [Data](articles/ae05c3ae.json)
-
----
-
-### 29 Sri Lanka MPs to lose discount on houses
-
-*2025-09-04 12:10:00* · [`economynextcom`](https://economynext.com/29-sri-lanka-mps-to-lose-discount-on-houses-239486/) · `en`
-
-ECONOMYNEXT – A concessional scheme where houses constructed by Sri Lanka’s Urban Development Authority were sold to members of parliament whose homes were destroyed during public unrest in 2022, has been abolished with immediate effect, minister Nalinda Jayatissa said.
-
-“Due to this concessional scheme, the Urban Development Authority has had to suffer a loss of about Rs. 92.126 million and has not been able to cover the costs incurred,” Jayatissa told reporters.
-
-The 101 housing units in the Viathpura Housing Complex were rented to MPs whose houses were set on fire by mobs during the unrest that broke out on May 9, 2022. Several people were killed, including one MP.
-
-The then cabinet approved a proposal to rent the houses to the MPs for a year.
-
-Later, the MPs asked that they be allowed to buy the properties.
-
-...
-
-[Data](articles/b7d7c17e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 13:32:33**
+As of **2025-09-04 13:51:46**
 
 ## Newspaper Stats
 
-*Scraped **74,124** Articles*
+*Scraped **74,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,162
-adaderanalk | 9,461
-tamilmirrorlk | 11,032
-virakesarilk | 12,118
+adaderanalk | 9,463
+tamilmirrorlk | 11,033
+virakesarilk | 12,121
 adaderanasinhalalk | 12,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,124 articles have been extended.
+61,973 (83.6%) of 74,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### குகேஷ்  இழப்பார்: அப்துசட்டோரோவ் அதிரடி
+
+*2025-09-04 13:28:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/குகேஷ்-இழப்பார்-அப்துசட்டோரோவ்-அதிரடி/44-364031) · `ta`
+
+இந்தியாவை சேர்ந்த நடப்பு உலக செஸ் சாம்பியனான குகேஷ் குறித்து உஸ்பெகிஸ்தான் கிராண்ட் மாஸ்டர் அப்துசட்டோரோவ் சர்ச்சைக்குரிய வகையில் கருத்து தெரிவித்துள்ளார். குகேஷ் விரைவில் சாம்பியன் பட்டத்தை இழப்பார் என்று அவர் கூறியுள்ளார்.
+
+சர்வதேச சதுரங்க கூட்டமைப்பு சார்பில், 'கிராண்ட் ஸ்விஸ்' செஸ் தொடரானது உஸ்பெகிஸ்தானில் இன்று (04) தொடங்குகிறது. இந்த தொடரில் உலகச் சாம்பியனான இந்தியாவின் டி.குகேஷ், ஆர். பிரக்ஞானந்தா உள்ளிட்டோர் பங்கேற்கவுள்ளனர். மொத்தம் 11 சுற்றுகள் கொண்ட இந்த தொடரில் வெற்றி பெறும் வீரர், வீராங்கனைகள், அடுத்த ஆண்டு நடைபெற இருக்கும் கேண்டிடேட்ஸ் தொடருக்கு தகுதி பெறுவதற்கான வாய்ப்பை பெறுவர்.
+
+இதில் குகேஷ் ஏற்கெனவே உலக சாம்பியன் பட்டத்தை வென்றுள்ள நிலையில், அவர் நேரடியாக உலக சாம்பியன்ஷிப் தொடருக்கு தகுதி பெற்றுள்ளார். இதனால் அவர் இத்தொடரில் தனது திறமையை வெளிப்படுத்தும் நோக்கில் மட்டுமே பங்கேற்றுள்ளார்.
+
+...
+
+[Data](articles/0d62c741.json)
+
+---
+
+### GMOA strike at Ratnapura Teaching Hospital called off
+
+*2025-09-04 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112172/gmoa-strike-at-ratnapura-teaching-hospital-called-off) · `en`
+
+The strike launched by doctors at the Ratnapura Teaching Hospital, which lasted for three days, has been called off as of noon today (04).
+
+The strike has been called off following the issuance of a letter by the Secretary to the Ministry of Health, removing the Director of the Ratnapura Teaching Hospital from his position and reassigning him to the Ministry of Health, the GMOA stated.
+
+◼️
+
+[Data](articles/e801b956.json)
+
+---
 
 ### රත්නපුර රෝහලේ වැඩ වර්ජනය අත්හිටුවයි
 
@@ -79,6 +109,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/26f6661f.json)
+
+---
+
+### Female doctor arrested in Kandy for driving luxury vehicle with fake number plates
+
+*2025-09-04 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112171/female-doctor-arrested-in-kandy-for-driving-luxury-vehicle-with-fake-number-plates) · `en`
+
+A female doctor has been arrested by the Crimes Investigation Division of the Kandy Police on suspicion of driving a luxury vehicle with forged number plates.
+
+The arrest was made during a search operation carried out on the Sumangala Mawatha in Wariyapola, Kandy, following a tip-off received by the police emergency response unit.
+
+According to police investigations, while the vehicle is registered under the name of the suspect’s husband—who is also a doctor—the number plates displayed on the vehicle belonged to a car registered under his brother’s name.
+
+The arrested doctor is currently attached to a main hospital in Kandy.
+
+Further investigations into the incident are being conducted by the Kandy Division Crimes Investigation Unit.
+
+◼️
+
+[Data](articles/79ec0647.json)
 
 ---
 
@@ -178,6 +228,20 @@ The Kandy Headquarters Police are investigating whether the jeep is an assembled
 
 ---
 
+### மறக்கடிக்கப்பட்ட குற்றங்கள் மற்றும் படுகொலைகள் தொடர்பான விசாரணைகள் உயிர்ப்பிக்கப்படும் - ஜனாதிபதி
+
+*2025-09-04 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224176) · `ta`
+
+நாட்டில் பாரிய சர்ச்சையை ஏற்படுத்திய குற்றங்கள் மற்றும் படுகொலைகள் காலவோட்டத்தில் மறக்கடிக்கப்பட்டுள்ளதால் தப்பித்து விட்டோம் என்று குற்றவாளிகள் நினைக்கிறார்கள். அவ்வாறு மறக்கடிக்கப்பட்ட குற்றங்கள் மற்றும் படுகொலைகள் தொடர்பான விசாரணைகள் உயிர்ப்பிக்கப்படும். குற்றவாளிகளுக்கு நிச்சயம் தண்டனை கிடைக்கும். மறக்கடிக்கப்பட்ட குற்றங்கள் மற்றும் படுகொலைகளின் பின்னணியில் அரசியல் தலையீடு மற்றும் அரசியல் சக்தி இருந்தது அனைவரும் அறிந்ததே. இந்நிலை எமது அரசாங்கத்தில் ஒருபோதும் ஏற்படாது. உங்களின் கடமைகளை தாய்நாட்டுக்காகவும், பொதுமக்களின் பாதுகாப்புக்காகவும் செயற்படுத்துங்கள். அதற்கு தைரியமாக செயற்படுங்கள் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க பொலிஸ் உத்தியோகத்தர்களுக்கு அறிவுறுத்தினார்.
+
+போதைப்பொருள் வியாபாரத்துக்கு எதிராக செயற்பட வேண்டிய பொலிஸார் அதற்கு உடந்தையாக செயற்படுவார்களாயின் அதுவே பாரிய அழிவாக அமையும். போதைப்பொருள் வியாபாரத்துடன் தொடர்புடைய ஒருசில பொலிஸ் உத்தியோகத்தர்கள் தமது பழைய பழக்கத்தை கைவிட வேண்டும். பழக்கத்தை கைவிடாவிடின் பொலிஸ் சேவையை கைவிட தயாராக வேண்டும் எனவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+...
+
+[Data](articles/4b8a9cea.json)
+
+---
+
 ### ලෝක නායකයන් සහභාගී වූ ෂැංහයි සමුළුවට ජනපති අනුර නොගිය හේතුව මෙන්න
 
 *2025-09-04 11:43:19* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-නායකයන්-සහභාගී-වූ-ෂැංහයි-සමුළුවට-ජනපති-අනුර-නොගිය-හේතුව-මෙන්න/11-418275) · `si`
@@ -198,6 +262,24 @@ The Kandy Headquarters Police are investigating whether the jeep is an assembled
 
 ---
 
+### 2025 - ஐந்தாம்தர புலமைப்பரிசில் பரீட்சையில் 51 ஆயிரத்துக்கும் மேற்பட்ட மாணவர்கள் தேர்ச்சி பெற்றுள்ளனர்!
+
+*2025-09-04 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224170) · `ta`
+
+2025 ஆம் ஆண்டுக்கான ஐந்தாம்தர புலமைப்பரிசில் பரீட்சையில் 51 ஆயிரத்து 969 பேர் தேர்ச்சி பெற்றுள்ளதாக இலங்கை பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
+
+சிங்கள மொழி மூலத்திற்கான வெட்டுப் புள்ளிகள் 140 எனவும், தமிழ் மொழிக்கான வெட்டுப் புள்ளிகள் 134 எனவும் இலங்கை பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+
+புலமைப்பரிசில்  பரீட்சையில் சிங்கள மொழி மூலமாக அதிகபட்ச மதிப்பெண்ணாக 198, காலி மாவட்டத்தில் இருந்து பதிவாகியுள்ளது.
+
+அதேநேரம், தமிழ் மொழி மூலம், அதிகபட்ச மதிப்பெண் 194 யாழ்ப்பாணத்தில் இருந்து பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/54b239d9.json)
+
+---
+
 ### போலி தகடுடன் காரை செலுத்திய பெண் வைத்தியர் கைது
 
 *2025-09-04 11:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போலி-தகடுடன்-காரை-செலுத்திய-பெண்-வைத்தியர்-கைது/76-364025) · `ta`
@@ -213,6 +295,22 @@ The Kandy Headquarters Police are investigating whether the jeep is an assembled
 ◼️
 
 [Data](articles/33a059bf.json)
+
+---
+
+### நைஜீரியாவில் படகு கவிழ்ந்து விபத்துக்குள்ளானதில் 60 பேர் பலி!
+
+*2025-09-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224172) · `ta`
+
+நைஜீரியாவின் வடமத்திய நைஜர் மாநிலத்தில் பயணிகளை ஏற்றிச் சென்ற படகு கவிழ்ந்ததில் சுமார் 60 பேர் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+செவ்வாய்க்கிழமை காலை மலாலே மாவட்டத்தில் உள்ள துங்கன் சுலேவிலிருந்து துக்கா நகருக்கு இரங்கல் தெரிவிக்கும் நோக்கில் புறப்பட்ட படகு, போர்கு உள்ளூர் அரசாங்கப் பகுதியில் உள்ள கௌசாவா சமூகத்திற்கு அருகே நீரில் மூழ்கிய மரத்தின் அடிப்பகுதியில் மோதி விபத்துக்குள்ளானது.
+
+மேலும் குறித்த விபத்தில், பத்து பேர் ஆபத்தான நிலையில் உள்ளதுடன், பலர் இன்னும் தேடப்பட்டு வருவதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/6de1a5aa.json)
 
 ---
 
@@ -652,9 +750,21 @@ Taking these factors into consideration, plans are in place to issue a new circu
 
 *2025-09-04 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112166/shanudi-amaya-of-ambalangoda-sri-devananda-secures-highest-marks-in-scholarship-exam) · `en`
 
-According to the results of the 2025 Grade 5 Scholarship Examination, Shanudi Amaya Ashwini, a student of the Sri Devananda College of Ambalangoda, has secured first place in the island.
+Shanudi Amaya of Ambalangoda Devananda secures highest marks in scholarship exam
 
-◼️
+According to the results of the 2025 Grade 5 Scholarship Examination, Shanudi Amaya Ashwini, a student of the Sri Devananda College in Ambalangoda, has secured first place in the island.
+
+Meanwhile, Anandhasothi Lakshan, a student of the Jaffna Hindu Primary School, obtained the highest marks in the Tamil medium.
+
+Meanwhile, the district-level cut-off marks of the Grade 5 Scholarship Examination 2025 were released by the Department of Examination.
+
+The results of the 2025 Grade 5 Scholarship Examination were released online, last night (03).
+
+Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
+
+The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
+
+...
 
 [Data](articles/18c9f94e.json)
 
@@ -888,21 +998,19 @@ He clarified that the road proposal had only been submitted to a Regional Develo
 
 *2025-09-04 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112163/grade-5-scholarship-exam-top-performers-revealed) · `en`
 
-According to the results of the 2025 Grade 5 Scholarship Examination, the highest-scoring student in the Sinhala medium is from the Galle District, the Commissioner General of Examinations, A.K.S. Indika Kumari stated.
+According to the results of the 2025 Grade 5 Scholarship Examination, the highest-scoring student in the Sinhala medium is Shanudi Amaya of Sri Devananda College, Ambalangoda from the Galle district, with 198 marks, the Commissioner General of Examinations, A.K.S. Indika Kumari stated.
 
-Meanwhile, in the Tamil medium, the highest score of 194 was obtained by a student from the Jaffna District.
+Meanwhile, A. Lakshayan of Jaffna Hindu Primary School from the Jaffna district obtained the highest score in Tamil medium with 194  marks.
 
 This was announced by the Commissioner General of Examinations, A.K.S. Indika Kumari, during a special media briefing this morning (04).
+
+According to the Commissioner General of Examinations, a total of 51,969 students (17.11%) pass the cut-off marks of 140 for the Sinhala medium and 134 for the Tamil medium.
 
 The results of the 2025 Grade 5 Scholarship Examination were released online, last night (03).
 
 Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
 
-The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
-
-According to the Commissioner General of Examinations a total of 901 students with special needs sat for the exam this year, including 12 candidates who used Braille scripts.
-
-◼️
+...
 
 [Data](articles/d17b269c.json)
 
@@ -1713,109 +1821,5 @@ The recent article published which attempted to address the allegations surround
 ...
 
 [Data](articles/b17ccac4.json)
-
----
-
-### Parent’s perspective on British primary education
-
-*2025-09-04 02:56:13* · [`dailyftlk`](https://www.ft.lk/columns/Parent-s-perspective-on-British-primary-education/4-781214) · `en`
-
-Understanding child psychology is critical in primary schools because young children are at crucial developmental stages. A good grasp of child psychology helps teachers guide behaviour positively, identify needs, and support healthy growth so children feel valued and motivated
-
-Primary education is the bedrock for later learning and development. During early childhood, children acquire foundational skills in reading, writing and numeracy that support their ability to learn independently. Primary schools provide the first structured environment for socialisation, teamwork, communication, problem-solving and emotional regulation. They shape cognitive abilities, nurture curiosity and develop positive attitudes to learning. This holistic start equips young minds with confidence and provides tools to meet the emerging challenges.
-
-...
-
-[Data](articles/739101eb.json)
-
----
-
-### இளையோர் ஒருநாள் தொடரை இலங்கை சமப்படுத்தியது; பந்துவீச்சில் ஹாட்லி வீரர் ஆகாஷ் அபாரம்
-
-*2025-09-04 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/224146) · `ta`
-
-மேற்கிந்தியத் தீவுகளில் நடைபெற்றுவரும் 19 வயதுக்குட்பட்ட இலங்கை அணிக்கும் மேற்கிந்தியத் தீவுகள் அணிக்கும் இடையிலான இளையோர் ஒருநாள் கிரிக்கெட் தொடர் சம அளவில் மோதிக்கொள்ளப்பட்ட வண்ணம் உள்ளது.
-
-கூல்ரிஜ் விளையாட்டரங்கில் நடைபெற்ற முதலாவது போட்டியில் விக்னேஸ்வரன் ஆகாஷின் அபார பந்துவீச்சுக்கு மத்தியில் 12 ஓட்டங்களால் தோல்வி அடைந்த இலங்கை, இரண்டாவது போட்டியில் ஒரு விக்கெட்டினால் வெற்றிபெற்றது.
-
-இதற்கு அமைய 7 போட்டிகளைக் கொண்ட இளையோர் ஒருநாள் கிரிக்கெட் தொடர் 1 - 1 என சமப்படுத்தப்பட்டுள்ளது.
-
-முதலாவது போட்டியில் ஒரு ஓட்டமற்ற ஓவர் உட்பட 10 ஓவர்களில் 33 ஓட்டங்களுக்கு 4 விக்கெட்களைக் கைப்பற்றிய விக்னேஸ்வரன் ஆகாஷ் இரண்டாவது போட்டியில் ஒரு ஓட்டமற்ற ஓவர் அடங்கலாக 30 ஓட்டங்களுக்கு 3 விக்கெட்களை வீழ்த்தி தொடர்ச்சியாக ஆற்றலை வெளிப்படுத்தியுள்ளார்.
-
-இரண்டாவது போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட மேற்கிந்தியத் தீவுகள் அணி 47.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 201 ஓட்டங்களைப் பெற்றது.
-
-...
-
-[Data](articles/c4183039.json)
-
----
-
-### ஏஎவ்சி 23 வயதின்கீழ் ஆசிய கிண்ண தகுதிகாண் சுற்றில் கிர்கிஸ் குடியரசிடம் வீழ்ந்தது இலங்கை
-
-*2025-09-04 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224145) · `ta`
-
-கிர்கிஸ் குடியரசின் பிஷ்கெக் விளையாட்டரங்கில் நடைபெற்ற ஏஎவ்சி 23 வயதுக்குட்பட்ட ஆசிய கிண்ண ஈ குழுவுக்கான தகுதிகாண் சுற்றில் கிர்கிஸ் குடியரசிடம் 0 - 4 என்ற கோல்கள் வித்தியாசத்தில்  இலங்கை  தோல்வி அடைந்தது.
-
-தோல்வி அடைந்து விடக்கூடாது என்ற ஒரே குறிக்கோளுடன் பின்களத்தை பலப்படுத்தி விளையாடிய இலங்கை, 35 நிமிடங்களின் பின்னர் தடுமாற்றத்தை எதிர்கொண்டது.
-
-இதனை சாதகமாக்கிக்கொண்ட கிர்கிஸ் குடியரசு அணி போட்டியின் 38ஆவது நிமிடத்தில் உமர்அலி ரக்மொனாலிவின் மூலம் முதலாவது கோலைப் புகுத்தியது.
-
-இடைவேளைக்கு 5 நிமிடங்கள் இருந்தபோது துர்திமுரோடோவ் கோல் போட இடைவேளையின்போது 2 - 0 என்ற கோல்கள் வித்தியாசத்தில் கிர்கிஸ் குடியரசு முன்னிலை வகித்தது.
-
-ஏழு வருடங்களுக்கு முன்னர் சம்பியன் பட்டத்தை சூடிய அப்போதைய கிர்கிஸ்தான், இப்போது கிர்கிஸ் குடியரசு என்ற பெயரில் அற்புதமாக விளையாடி வெற்றியை ஈட்டிக்கொண்டது.
-
-தொடர்ந்து 70ஆவது நிமிடத்தில் கிர்கிஸ் குடியரசின் 4ஆவது கோலை சர்தோர்பெக் பக்ரோமோவ் போட்டார்.
-
-◼️
-
-[Data](articles/83f0b0ea.json)
-
----
-
-### Sri Lanka detaining only BYDs imported by agent, not third parties, JKCG tells court
-
-*2025-09-04 01:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-detaining-only-byds-imported-by-agent-not-third-parties-jkcg-tells-court-239454/) · `en`
-
-ECONOMYNEXT – Sri Lanka is detaining BYD cars imported by the agent, and not third parties and other EV brands are also allowed to enter the country without tests, a statement after the latest court hearing said.
-
-Sri Lanka authorities are planning to test EVs after the dispute over motor power, where the same model are sold with different power output by manufacturers.
-
-“Counsel for JKCG also drew the attention of Court to the fact that; Sri Lanka Customs is,  selectively, and in a discriminatory manner, detaining only BYD vehicles imported by JKCG, whilst it is permitting the clearance of other brands of electric vehicles imported by other entities, including BYD vehicles imported by others,” the BYD agent in Sri Lanka said in a statement after the latest court hearing.
-
-...
-
-[Data](articles/83fda36b.json)
-
----
-
-### Grade 5 Scholarship Exam cut-off marks released
-
-*2025-09-04 01:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112149/grade-5-scholarship-exam-cut-off-marks-released) · `en`
-
-The district-level cut-off marks of the Grade 5 Scholarship Examination 2025 have been released by the Department of Examination.
-
-The results of the 2025 Grade 5 Scholarship Examination were released online, last night (03).
-
-Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
-
-The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
-
-According to the Commissioner General of Examinations a total of 901 students with special needs sat for the exam this year, including 12 candidates who used Braille scripts.
-
-◼️
-
-[Data](articles/aba53e48.json)
-
----
-
-### யாழ்ப்பாண நீதிபதிகளில் மூவருக்கு மேல்நீதிமன்ற நீதிபதிகளாக நியமனம்
-
-*2025-09-04 01:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-நீதிபதிகளில்-மூவருக்கு-மேல்நீதிமன்ற-நீதிபதிகளாக-நியமனம்/175-364001) · `ta`
-
-நீதிபதிகளான A.A. ஆனந்தராஜா  , அந்தோனிப்பிள்ளை யூட்சன்  மற்றும் கஜநிதிபாலன்  ஆகியோர் மேல் நீதின்ற ( High Court) நீதிபதிகளாக  ஜனாதிபதி  அனுரகுமார திசநாயக்கா அவர்களால் நியமிக்கப்பட்ட உள்ளனர் என.
-
-◼️
-
-[Data](articles/1cfcb73c.json)
 
 ---

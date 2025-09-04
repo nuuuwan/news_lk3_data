@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 21:20:36**
+As of **2025-09-04 21:42:26**
 
 ## Newspaper Stats
 
-*Scraped **74,211** Articles*
+*Scraped **74,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,176
-adaderanalk | 9,476
+adaderanalk | 9,477
 tamilmirrorlk | 11,048
-virakesarilk | 12,131
+virakesarilk | 12,132
 adaderanasinhalalk | 12,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,211 articles have been extended.
+61,973 (83.5%) of 74,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### Sri Lanka and Italy sign MoU on political consultations mechanism
+
+*2025-09-04 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112188/sri-lanka-and-italy-sign-mou-on-political-consultations-mechanism) · `en`
+
+The first round of Political Consultations between Sri Lanka and Italy, co-chaired by Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra and Italy’s Deputy Minister for Foreign Affairs and International Cooperation Maria Tripodi, successfully concluded today (04) at the Ministry of Foreign Affairs, Foreign Employment and Tourism in Colombo.
+
+The Memorandum of Understanding on the Establishment of a Political Consultations Mechanism was signed by the two Deputy Ministers before commencing the Consultations, providing a formal, structured framework for dialogue between the two countries, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
+
+The Italian Deputy Minister also called on and had productive discussions with Prime Minister Dr. Harini Amarasuriya and Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath.
+
+...
+
+[Data](articles/0b3de0d9.json)
+
+---
 
 ### විදෙස් සංචිතයේ සුළු වැඩිවීමක්
 
@@ -43,6 +59,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2332477f.json)
+
+---
+
+### வேன் ஒன்றுடன் இ.போ.ச. பஸ் மோதி விபத்து : நால்வர் காயம்
+
+*2025-09-04 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224234) · `ta`
+
+கொழும்பு வெள்ளவத்தை பகுதியில் இருந்து யாழ்பாணம் நோக்கி சென்றுகொண்டிருந்த வேன் ஒன்று இ.போ.ச.பஸ்வண்டியொன்றில் மோதி விபத்துக்குள்ளானதில் காயமடைந்த நான்கு பேரை சிகிச்சைக்காக வேண்டி அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதித்துள்ளதாக அநுராதபுரம் பரசன்கஸ்வெவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+பரசன்கஸ்வெவ பொலிஸ் பிரிவின் அநுராதபுரம் ரம்பாவ மதவாச்சி வீதியின் பரசன்கஸ்வெவ சந்திக்கு அருகில் 04 ஆம் திகதி வியாழக்கிழமை காலை 8.20 மணியளவில் இச்சம்பவம் இடம்பெற்றுள்ளதாக விசாரணைகளை மேற்கொண்டுவரும் பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்தவர்கள் வெள்ளவத்தை பகுதியை வசிப்பிடமாக கொண்டவர்கள் என்பது ஆரம்பகட்ட பொலிஸ் விசாரணைகளில் இருந்து தெரிய வந்துள்ளது. சம்பவம் பற்றி மேலும் தெரியவருவதாவது. கொழும்பிலிருந்து யாழ் நோக்கி சென்றுகொண்டிருந்த வேன் பரசன்கஸ்வெவ சந்திக்கு அருகிலுள்ள பஸ்தரிப்பில் நிறுத்தியிருந்த பஸ் வண்டியின் பின்புறத்தில் மோதியதில் இவ்விபத்து இடம்பெற்றுள்ளமை மேலும் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/c6bc4310.json)
 
 ---
 
@@ -1735,45 +1767,5 @@ Some of the firms mentioned were set up during successive Rajapaksa regimes, but
 ◼️
 
 [Data](articles/632cf261.json)
-
----
-
-### புற்றுநோயால் ஆண்டுதோறும்  200 சிறுவர்கள்  மரணம்
-
-*2025-09-04 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புற்றுநோயால்-ஆண்டுதோறும்-200-சிறுவர்கள்-மரணம்/175-364019) · `ta`
-
-புற்றுநோய் காரணமாக  ஆண்டு தோறும் சுமார் 200க்கும் மேற்பட்ட சிறுவர்கள் உயிரிழப்பதாக தேசிய புற்றுநோய் கட்டுப்பாட்டு திட்டத்தின் சமூக வைத்திய நிபுணர் டொக்டர் சூரஜ் பெரேரா தெரிவித்துள்ளார்.
-
-அத்துடன், முறையான மருத்துவ சிகிச்சையைப் பெறுவதன் மூலம் இந்த நிலைமையைக் குறைக்க முடியும் என்றும் வைத்திய நிபுணர் டொக்டர் சூரஜ் குறிப்பிட்டுள்ளார்.
-
-சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டபோதே அவர் இதனை தெரிவித்துள்ளார்.
-
-கடந்த 15 ஆண்டுகளுக்கான தரவுகளைப் பார்க்கும்போது, சிறுவர்கள் புற்றுநோய்களில் குறிப்பிடத்தக்க அதிகரிப்பு இல்லை என்பது தெளிவாகக் காட்டுகிறது.
-
-சராசரியாக, இது 600,700,800 வரம்பிற்குள் இருந்தது. இப்போது, ஆண்டுக்கு 900 வரை குழந்தை புற்றுநோயாளர்கள் பதிவாகின்றன.
-
-2019இல் சிறுவர்கள் புற்றுநோய் காரணமாக சுமார் 200 வழக்குகள் பதிவாகியுள்ளதாக பதிவாளர் ஜெனரல் துறை தெரிவித்துள்ளது.
-
-ஆனால் 2020இல், சராசரியாக, ஆண்டுக்கு சுமார் 200 சிறுவர்கள் புற்றுநோய் நோயாளிகள் இறக்கின்றனர் என்று இப்போது அறிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/fb2802de.json)
-
----
-
-### ක්‍රියාකාරී මට්ටමේ නොමැති රාජ්‍ය ආයතන වසා දැමීමට අනුමැතිය
-
-*2025-09-04 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214159) · `si`
-
-දැනට ක්‍රියාකාරී මට්ටමේ නොමැති රාජ්‍ය ව්‍යවසායයන් 33ක් අදියර 02ක් යටතේ විධිමත් ලෙස වසා දැමීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
-
-මහජන සේවා සැපයීම සහ උපායමාර්ගික ආර්ථික ක්‍රියාකාරකම් ප්‍රවර්ධනය කිරීම වැනි අරමුණු සාක්ෂාත් කර ගැනීම සඳහා කලකට පෙර පිහිටුවන ලද ඇතැම් රාජ්‍ය ව්‍යවසායයන් ඒවා පිහිටු වීමේ අරමුණු වර්තමානය සමඟ නොගැළපීම සහ වෙළෙඳපොළ අවශ්‍යතා සමග නොගැළපීම යන හේතූන් මත තවදුරටත් පවත්වාගෙන යාම ප්‍රායෝගික නොවීම සහ ඌන මූල්‍ය කාර්යසාධනය ආදී හේතු නිසා අක්‍රිය තත්ත්වයට පත්ව තිබේ.
-
-ජාතික ආර්ථිකයට හෝ රාජ්‍ය සේවා සැපයීමට අර්ථවත් දායකත්වයක් ලබා නොදෙන ව්‍යවස්ථාපිත ආයතන, රාජ්‍ය සංස්ථා හා රජය සතු සමාගම් වැනි විවිධ කාණ්ඩයන්ට අයත් රාජ්‍ය ව්‍යවසායයන් රජයට වැය බරක් වන පරිදි තවදුරටත් පවත්වාගෙන යාම වෙනුවට, එම ආයතන ඈවර කර වසා දැමීම යෝග්‍ය බවට හඳුනාගනු ලැබ ඇත.
-
-...
-
-[Data](articles/cd53425d.json)
 
 ---

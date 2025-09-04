@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 22:09:28**
+As of **2025-09-04 22:24:12**
 
 ## Newspaper Stats
 
-*Scraped **74,215** Articles*
+*Scraped **74,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,177
 adaderanalk | 9,477
 tamilmirrorlk | 11,048
 virakesarilk | 12,132
-adaderanasinhalalk | 12,898
+adaderanasinhalalk | 12,899
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,215 articles have been extended.
+61,973 (83.5%) of 74,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ඇල්ලේ දී බස් රථයක් ප්‍රපාතයකට පෙරළෙයි
+
+*2025-09-04 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214186) · `si`
+
+ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී අද (4) රාත්‍රියේ අනතුරක් සිදුව තිබේ.
+
+බස් රථය කිලෝමීටර 24 කනුව ආසන්නයෙන් මෙලෙස පෙරළී ඇති අතර, එය මීටර 500ක් පමණ පහළට ගොස් ඇති බව සඳහන්.
+
+විනෝද චාරිකාවක් සඳහා තංගල්ලේ සිට ඇල්ල බලා පැමිණි පිරිසක් යළි තංගල්ල බලා යමින් සිටියදී මෙම අනතුර සිදුව තිබේ.
+
+◼️
+
+[Data](articles/e95e327a.json)
+
+---
 
 ### බැකෝ සමන්ගේ බිරිඳ  අධිකරණයේ දී  දරුවා ගැන කළ දැනුම්දීම
 
@@ -1755,19 +1771,5 @@ Some of the firms mentioned were set up during successive Rajapaksa regimes, but
 ◼️
 
 [Data](articles/b37460fe.json)
-
----
-
-### புலமைப்பரிசில் பரீட்சையில் 51,969 மாணவர்கள் சித்தி
-
-*2025-09-04 11:24:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சையில்-51-969-மாணவர்கள்-சித்தி/175-364022) · `ta`
-
-2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையில் 51,969 மாணவர்கள், அதாவது மொத்த பரீட்சார்த்திகளில் 17.11% பேர் தேர்ச்சி பெற்றுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-சிங்கள மொழி மூலமான பரீட்சையில் அதிகபட்ச மதிப்பெண் 198 காலியிலிருந்தும், தமிழ் மொழி மூலமான பரிட்சையில் அதிகபட்ச மதிப்பெண் 194 யாழ்ப்பாணத்திலிருந்தும் பெறப்பட்டதாக திணைக்களம் உறுதிப்படுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/b76b9d20.json)
 
 ---

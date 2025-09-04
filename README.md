@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 07:56:57**
+As of **2025-09-04 08:27:16**
 
 ## Newspaper Stats
 
-*Scraped **74,055** Articles*
+*Scraped **74,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ economynextcom | 4,503
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,153
-adaderanalk | 9,444
-tamilmirrorlk | 11,016
+adalk | 7,154
+adaderanalk | 9,450
+tamilmirrorlk | 11,017
 virakesarilk | 12,113
-adaderanasinhalalk | 12,861
+adaderanasinhalalk | 12,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,055 articles have been extended.
+61,973 (83.7%) of 74,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### இன்று கடும் மழை
+
+*2025-09-04 08:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கடும்-மழை/175-364005) · `ta`
+
+இதேவேளை, மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை, கண்டி, நுவரெலியா மாவட்டங்களிலும் இலேசான மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அம்பாறை, மட்டக்களப்பு, மொனராகலை மாவட்டங்களில் சில இடங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/f23855f5.json)
+
+---
+
+### පිළිකා නිසා වසරකට ළමුන් 200කට දිවි අහිවි වෙයි
+
+*2025-09-04 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214149) · `si`
+
+වසරකට ළමා පිළිකා රෝගීන් 200 දෙනෙකු පමණ මරණයට පත් වන බව ජාතික පිළිකා මර්දන වැඩසටහනේ ප්‍රජා වෛද්‍ය විශේෂඥ සුරාජ් පෙරේරා මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ නිසි වෛද්‍ය ප්‍රතිකාර ලබාගැනීම තුළින් මෙම තත්ත්වය අවම කරගත හැකි බවය.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය සුරාජ් පෙරේරා මහතා මෙම අදහස් පල කළේය.
+
+"2022 දී පිළිකා රෝගීන් හඳුනා ගනිද්දී එයින් 904ක් තමයි ළමා පිළිකා රෝගීන් හඳුනා ගත්තේ. පසුගිය 15 පුරාම දත්ත බලද්දි පැහැදිලිව පෙන්නුම් කරනවා විශාල වර්ධනයක් පෙන්නුම් කරන්නේ නෑ ළමා පිළිකා. සාමාන්‍යයෙන් 600,700,800 ප්‍රමාණය ඇතුළත තමා තිබුණේ. දැන් 900ක් දක්වා වාර්තා වෙනවා වර්ෂයකට ළමා පිළිකා. ළමා පිළිකා නිසා රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව වාර්තා කරනවා 2019 දී 200ක් පමණ 2020 ගත්තත් දැන් ප්‍රකාශයට පත් කරලා තියෙනවා සාමාන්‍යයෙන් වසරකට ළමා පිළිකා රෝගීන් 200ක් පමණ මරණයට පත් වෙනවා. මේ අතර පවතිනවා සුවකර ගැනීමේ හැකියාව තිබිලා ප්‍රමාද වී වාර්තා වූ රෝගීන්. මේ මරණ තවත් අඩුකර ගන්න පුළුවන්. ඒ වගේම සංකූලතා අඩුකර ගන්න පුළුවන් කල් ඇතුව වෛද්‍ය ප්‍රතිකාර ලබා ගන්න පැමිණියොත්."
+
+◼️
+
+[Data](articles/6e398379.json)
+
+---
+
+### මේ වසරේ පළමු මාස 07 තුළ ළමා ගැබ් ගැනීම් 44ක්
+
+*2025-09-04 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214148) · `si`
+
+මේ වසරේ ගත වූ පළමු මාස 07 තුළ යොවුන් වියේ ගැබ් ගැනීමේ සිදුවීම් සම්බන්ධ පැමිණිලි 44ක් ලැබී ඇති බව ජාතික ළමා ආරක්ෂක අධිකාරිය පවසයි.
+
+එම අධිකාරිය පෙන්වා දෙන්නේ, මේ වසරේ ජනවාරි පළමු වන දින සිට ජුලි මස 31 වන දින දක්වා කාලය තුළ මෙම පැමිණිලි ලැබී ඇති බවය.
+
+එම කාලය තුළ ජාතික ළමා ආරක්ෂණ අධිකාරියට ළමුන් සම්බන්ධ පැමිනිලි 5,461ක් ලැබී ඇති අතර ජාතික ළමා ආරක්ෂණ අධිකාරී පනතට අදාළ පැමිණිලි 4,501ක් සහ පනතට අදාළ නොවන පැමිණිලි 960ක් ඒ අතර වන බව සඳහන්ය.
+
+මේ වසරේ පළමු මාස 7 තුළ ළමුන් බරපතළ ලිංගික අපයෝජනය කිරීම සම්බන්ධයෙන් පැමිණිලි 141ක් ලැබී ඇති අතර ලිංගික අතවර කිරීම සම්බන්ධ පැමිණිලි 330ක් සහ ස්ත්‍රී දූෂණ සම්බන්ධ පැමිණිලි 32ක් ලැබී ඇති බව ජාතික ළමා ආරක්ෂක අධිකාරිය සඳහන් කළේය.
+
+අදාළ කාලය තුළ ජාතික ළමා ආරක්ෂක අධිකාරියට ලැබුණු පැමිණිලි අතරින් වැඩිම පැමිණිලි සංඛ්‍යාවක් ලැබී ඇත්තේ ළමුන් කෘරත්වයට පත් කිරීම සම්බන්ධයෙන් පැමිණිලි වන අතර එම සංඛ්‍යාව 1,126ක් වේ.
+
+ළමුන් සිගමනේ යෙදීම සම්බන්ධයෙන් පැමිණිලි 125ක් ලැබී ඇති අතර ළමා ශ්‍රමිකත්වය සම්බන්ධයෙන් පැමිණිලි 82ක් ලැබී තිබේ.
+
+...
+
+[Data](articles/a2341300.json)
+
+---
+
+### Israel rejects Hamas’ ceasefire offer, vows to press on with Gaza City offensive
+
+*2025-09-04 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112157/israel-rejects-hamas-ceasefire-offer-vows-to-press-on-with-gaza-city-offensive) · `en`
+
+Israel on Wednesday rejected Hamas’ proposal for reaching a comprehensive ceasefire deal in Gaza to end the war, saying its army will continue to prepare for a major attack on Gaza City.
+
+In a press statement released on Wednesday, Hamas reiterated its willingness to reach a “comprehensive deal” under which Israeli hostages in Gaza would be released in exchange for an agreed number of Palestinian prisoners held in Israel.
+
+According to Hamas, the deal would also include a permanent ceasefire, the withdrawal of Israeli forces from Gaza, the reopening of border crossings to allow the delivery of humanitarian aid and essential supplies, and the start of reconstruction efforts.
+
+Hamas also voiced support for the establishment of an independent national administration composed of technocrats to take immediate responsibility for managing Gaza’s civil affairs.
+
+In response, Israeli Prime Minister Benjamin Netanyahu dismissed the statement as “a spin.”
+
+...
+
+[Data](articles/8bb616a1.json)
+
+---
+
+### Court issues order preventing arrest of attorney appeared for Thusitha Halloluwa
+
+*2025-09-04 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112156/court-issues-order-preventing-arrest-of-attorney-appeared-for-thusitha-halloluwa) · `en`
+
+The Court of Appeal has issued an interim restraining order preventing the Colombo Crimes Division from arresting an attorney-at-law in connection with the ongoing investigation into the shooting incident involving former Director of the National Lotteries Board, Thusitha Halloluwa.
+
+This order was issued by a bench comprising President of the Court of Appeal Justice Rohantha Abeysooriya and Justice Priyantha Fernando, following the consideration of a petition submitted to the court.
+
+President’s Counsel Saliya Pieris, appearing on behalf of the petitioner, argued before the court that there was insufficient evidence to justify the arrest of his client.
+
+He further stated that the individual in question had only provided professional legal services to Thusitha Halloluwa in his capacity as an attorney-at-law, and had no involvement whatsoever in any criminal activity.
+
+...
+
+[Data](articles/2b2accfc.json)
+
+---
 
 ### විදුලි සේවකයින් අද සිට අකුරට වැඩ
 
@@ -59,6 +151,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f09d4b61.json)
+
+---
+
+### CID uncovers ICE production facility of ‘Kehelbaddara Padme’ in Nuwara Eliya
+
+*2025-09-04 07:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112155/cid-uncovers-ice-production-facility-of-kehelbaddara-padme-in-nuwara-eliya) · `en`
+
+The Criminal Investigation Department (CID) has uncovered that notorious organised criminal Mandinu Padmasiri alias Kehelbaddara Padme had been operating an illegal ice (methamphetamine) drug production facility in Nuwara Eliya.
+
+This revelation emerged during interrogations conducted while the suspect, Kehelbaddara Padme, remains in CID custody.
+
+According to information obtained through further questioning, the suspect had invested over Rs. 4 million in the operation and had rented a house in Nuwara Eliya to carry it out.
+
+The suspect also disclosed that approximately 2,000 kilograms of chemical substances required for the drug production had been imported into the country.
+
+◼️
+
+[Data](articles/59a65f4d.json)
 
 ---
 
@@ -93,6 +203,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/fd4053de.json)
+
+---
+
+### At least 15 killed in crash on Lisbon’s historic cable car railway
+
+*2025-09-04 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112154/at-least-15-killed-in-crash-on-lisbons-historic-cable-car-railway) · `en`
+
+At least 15 people died and 18 were injured on Wednesday (Sep 3) when Lisbon’s Gloria funicular railway car derailed and crashed, an emergency medical service spokesperson told reporters.
+
+The cable car railway is popular with tourists and is one of the city’s symbols. Authorities did not identify the victims or disclose their nationalities, but said some foreign nationals were among the dead. Five people were gravely injured, the spokesperson said.
+
+“It’s a tragic day for our city ... Lisbon is in mourning, it is a tragic, tragic incident,” Carlos Moedas, mayor of the Portuguese capital, told reporters.
+
+Portugal’s government declared a day of national mourning on Thursday.
+
+Footage from the site showed the destroyed yellow tram-like funicular, which carries people up and down a steep hillside in the Portuguese capital. Emergency workers were pulling people out of the wreckage.
+
+...
+
+[Data](articles/5c4a578e.json)
+
+---
+
+### PM Harini emphasised the importance of child-focused public financing
+
+*2025-09-04 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112153/pm-harini-emphasised-the-importance-of-child-focused-public-financing) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has emphasised the critical importance of child-focused public financing, noting that “Government budgets are among the most powerful instruments for realizing the rights and well-being of children as enshrined in the Convention on the Rights of the Child."
+
+The Prime Minister noted that it is the responsibility of the government to ensure that public finance serves as a catalyst for advancing the rights of every child and securing their future.
+
+She made these remarks while addressing the two-day program on “Financing What Matters: Strengthening Public Financial Management for Inclusive Social Outcomes for Children and Families”, a Regional Knowledge Exchange held on 3rd and 4th September at NH Collection in Colombo under the EU-UNICEF Public Finance Facility.
+
+...
+
+[Data](articles/f6aaee7a.json)
 
 ---
 
@@ -165,6 +311,34 @@ Further, in an interview with Newsweek, Zandi said: “For the average American,
 ...
 
 [Data](articles/8517eeca.json)
+
+---
+
+### CEB workers to launch ‘work-to-rule’ trade union today
+
+*2025-09-04 05:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112151/ceb-workers-to-launch-work-to-rule-trade-union-today) · `en`
+
+All trade unions of the Ceylon Electricity Board (CEB) have decided to launch a work-to-rule trade union action today (04).
+
+The decision has been taken to oppose the decision to restructure the Ceylon Electricity Board and several employee demands.
+
+According to a spokesperson, the trade union action is being launched based on 16 demands, including the restructuring process of the CEB being carried out in an illegal manner that severely inconveniences employees, as well as issues such as lack of incentives and promotions.
+
+◼️
+
+[Data](articles/aee0911b.json)
+
+---
+
+### ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල නිකුත් කරයි
+
+*2025-09-04 05:45:03* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඵල-නිකුත්-කරයි/11-418267) · `si`
+
+2025 ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල අද  (4) අලුයම නිකුත් කරනු ලැබීය. ඒ අනුව විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවි වන www.doenets.lk සහ http://www.results.exams.gov.lk/ යන වෙබ් අඩවිවලට පිවිසීමෙන් ප්‍රතිඵල ලබාගත හැකිය.
+
+◼️
+
+[Data](articles/ad2212f3.json)
 
 ---
 
@@ -1575,191 +1749,5 @@ A bond maturing on 15.12.2032 closed at 10.35/45 percent, up from 10.35/40 perce
 ◼️
 
 [Data](articles/1c69ced8.json)
-
----
-
-### 31 கோடி ரூபாய் பெறுமதியான போதைப்பொருள் சிக்கியது
-
-*2025-09-03 16:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-கோடி-ரூபாய்-பெறுமதியான-போதைப்பொருள்-சிக்கியது/175-363971) · `ta`
-
-கட்டுநாயக்காவின் சீதுவையில் அமைந்துள்ள தனியார்  அஞ்சல் மூலம் கூரியர் பொதிகளில் இருந்து ரூ. 312 மில்லியன் மதிப்புள்ள போதைப்பொருள் சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவின் அதிகாரிகளால் புதன்கிழமை (03) கைப்பற்றப்பட்டுள்ளது.
-
-அந்த போதைப்பொருள்களில் 23,642 எக்ஸ்டசி அல்லது மெத்தம்பேட்டமைன் மாத்திரைகள், 01.445 கிலோகிராம் கொக்கெயின், 993 கிராம் மெத்தம்பேட்டமைன் மற்றும் 098 கிராம் ஐஸ் ஆகியவை அடங்கும்.
-
-இவை ஜேர்மனி, செக் குடியரசு, சாம்பியா, அமெரிக்கா, கனடா மற்றும் நெதர்லாந்து ஆகிய நாடுகளில் இருந்து  இருந்து 07 கூரியர் பொதிகளின் ஊடாக கொழும்பு, பாணந்துறை, வத்தளை, ராஜகிரிய மற்றும் மொரட்டுவ ஆகிய பகுதியில் உள்ள போலி முகவரிகளுக்கு அனுப்பப்பட்டன.
-
-இந்தப் ​பொதிகளை பெற யாரும் வராததால், சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவின் அதிகாரிகள் இந்த முகவரிகளை ஆய்வு செய்துள்ளனர், அவை அனைத்தும் போலி முகவரிகள் என்பது உறுதிப்படுத்தப்பட்டுள்ளது.
-
-இந்த போதைப்பொருள் மேலதிக விசாரணைக்காக கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள் பணியக அதிகாரிகளிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/cb453891.json)
-
----
-
-### කේරළ ගංජා කිලෝ ගණනක් මන්නාරම මුහුදු තීරයෙන් හමුවෙයි
-
-*2025-09-03 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214127) · `si`
-
-පොලිස් දිනයට සමගාමීව සිදුකළ වැටලීමකදී කේරළ ගංජා කිලෝ ග්‍රෑම් 900කට අධික ප්‍රමාණයක් සොයාගෙන තිබේ.
-
-මන්නාරම ප්‍රදේශයේ පොලීසිය සහ නාවික හමුදාව විසින් සිදුකළ වැටලීමකදී මෙම කේරළ ගංජා තොගය සොයාගෙන ඇත.
-
-අදාළ කේරළ ගංජා තොගය මන්නාරම මුහුදු තීරයෙන් ධීවර යාත්‍රාවත් උපයෝගි කරගනිමින් මෙරටට රැගෙන ඒමට උත්සහා කිරීමේ දී සොයාගෙන ඇති අතර වැටලීම සිදුකරන අවස්ථාවේදී යාත්‍රාෙව් සිටි පුද්ගලයින් පලාගොස් ඇති බව වාර්තා වේ.
-
-වන්නි දිසාව භාර නියෝජ්‍ය පොලිස්පති ශ්‍යාමන්න විජේසේකර මහතාගේ මෙහෙයවීම යටතේ වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/01a2174e.json)
-
----
-
-### කාසියේ වාසිය ශ්‍රී ලංකාවට - නුවනිදුට සහ දුෂාන්ට T20 වරම්
-
-*2025-09-03 16:38:05* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට---නුවනිදුට-සහ-දුෂාන්ට-T20-වරම්/9-418263) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර පළමු විස්සයි 20 තරගය අද(03දා) පැවැත්වේ.
-
-තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
-
-මෙම තරගයේදී නුවනිදු ප්‍රනාන්දු සහ දුෂාන් හේමන්ත සිය මංගල තරග ක්‍රීඩා කිරීමට නියමිතයි.
-
-◼️
-
-[Data](articles/7ceaba34.json)
-
----
-
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
-
-*2025-09-03 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214126) · `si`
-
-ශ්‍රී ලංකා - සිම්බාබ්වේ තරග 3කින් යුත් විස්සයි20 ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් අද (3) පැවැත්වෙන පළමු තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දු යැවීමට තීරණය කළේය.
-
-මෙම තරගයේ දී ශ්‍රී ලංකා කණ්ඩායමට දුශාන් හේමන්ත කැඳවා ඇති අතර, ඔහු විස්සයි20 තරගයක් ක්‍රීඩාකරන පළමු අවස්ථාව මෙය වේ.
-
-මීට පෙර ඔහු එක්දින ජාත්‍යන්තර තරග 5කට පමණක් ක්‍රීඩාකර තිබුණි.
-
-මේ අතර මෙය සිම්බාබ්වේ දී ශ්‍රී ලංකාව ක්‍රීඩාකරන පළමු විස්සයි20 ක්‍රිකට් තරගය වේ.
-
-2008 වසරේ සිට දෙරට අතර මේ දක්වා විස්සයි20 තරග 6ක් පැවැත්වී ඇති අතර, ඉන් තරග 5ක් ශ්‍රී ලංකාව ජයගෙන තිබේ.
-
-◼️
-
-[Data](articles/823b563d.json)
-
----
-
-### ගුවන් තැපෑලෙන් ආ පාර්සල්වල රු. කෝටි 31ක මත්ද්‍රව්‍ය
-
-*2025-09-03 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214125) · `si`
-
-සීදූව ප්‍රදේශයේ පිහිටි පෞද්ගලික ගුදමක් වෙත ගුවන් තැපෑලෙන් ලැබී තිබූ සැකසහිත පාර්සලයක් පරීක්ෂා කිරීමේදී රුපියල් 31 කෝටි 20 ලක්ෂයක් (312,000,000) වටිනා මත්ද්‍රව්‍ය තොගයක් සොයාගෙන තිබේ.
-
-ඒ, අද (03) පස්වරුවේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් සිදුකළ මෙහෙයුමකදී ය.
-
-මෙම මත්ද්‍රව්‍ය තොගය අතර මත්පෙති 23,642ක්, කොකේන් කිලෝ 01යි ග්‍රෑම් 445ක්, මැන්ඩී මත්ද්‍රව්‍ය ග්‍රෑම් 993ක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 98ක් සොයාගෙන තිබේ.
-
-මේවා කුරියර් පාර්සල් 07ක් ලෙස සකස් කර ජර්මනිය, චෙක් ජනරජය, සැම්බියාව, අමෙරිකාව, කැනඩාව සහ නෙදර්ලන්තය යන රටවල සිට කොළඹ, පානදුර, වත්තල, රාජගිරිය සහ මොරටුව යන ප්‍රදේශවල පිහිටි ව්‍යාජ ලිපිනයන් වෙත එවා තිබුණි.
-
-අදාළ පාර්සල් භාර ගැනීමට කිසිවෙකුත් නොපැමිණීම හේතුවෙන් සිදුකළ විමර්ශනයේදී අදාළ ලිපිනයන් සියල්ල ව්‍යාජ බවට අනාවරණය වී ඇති බවද වාර්තා වෙයි.
-
-මෙම මත්ද්‍රව්‍ය තොගය පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සඳහා කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් වෙත භාරදීමට පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/f5b5711b.json)
-
----
-
-### 21ஆம் திகதி ஐக்கிய தேசிய கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழா
-
-*2025-09-03 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224124) · `ta`
-
-ஐக்கிய தேசிய கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழா எதிர்வரும் 6ஆம் திகதி இடம்பெற  இருந்த நிலையில்  அது ஒத்திவைக்கப்பட்டு, தற்போது எதிர்வரும் 21ஆம் திகதி நடத்துவதற்கு கட்சியின் முகாமைத்துவ குழு தீர்மானித்துள்ளது.
-
-செவ்வாய்க்கிழமை (02) கொழும்பில் கூடிய கட்சியின் முகாமைத்துவ குழு, கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உடல் ஆரோக்கியத்தை கருத்தில் கொண்டு இந்த தீர்மானத்தை எடுத்துள்ளதாக கட்சியின் பொதுச் செயலாளர் தலதா அதுகோரல தெரிவித்தார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு வழங்கப்பட்டுள்ள மருத்துவ ஆலோசனை மற்றும் முகாமைத்துவ குழு உறுப்பினர்களின் வேண்டுகோளுக்கமைய இந்த தீர்மானத்திற்கு வந்ததாகவும் பொதுச்செயலாளர் தெரிவித்தார்.
-
-அதன் பிரகாரம் ஒத்திவைக்கப்பட்டுள்ள ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை  எதிர்வரும் 21ஆம் திகதி ஞாயிற்றுக்கிழமை காலை 9.30 மணிக்கு லேக்ஹவுஸ் நிறுவனத்துக்கு அருகில் அமைந்துள்ள இலங்கை கண்காட்சி மற்றும் மாநாட்டு மத்திய நிலையத்தில் நடத்துவதற்கு  தீர்மானிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/24d799f2.json)
-
----
-
-### பெண்களை பாலியல் பொருளாக காண்பிக்கின்றர்: ’பேட் கேர்ள்’ இயக்குநர்
-
-*2025-09-03 16:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பெண்களை-பாலியல்-பொருளாக-காண்பிக்கின்றர்-பேட்-கேர்ள்-இயக்குநர்/54-363969) · `ta`
-
-பல படங்களில் பெண்களை பாலியல் பொருளாக தான் காண்பிக்கிறார்கள் என்று 'பேட் கேர்ள்' இயக்குநர் வர்ஷா தெரிவித்துள்ளார்.
-
-வெற்றிமாறன் தயாரிப்பில் உருவாகியுள்ள படம் 'பேட் கேர்ள்'. செப்டம்பர் 5-ம் திகதி வெளியாகவுள்ள இப்படத்தினை வர்ஷா இயக்கியுள்ளார். இப்படத்தின் டீஸருக்கு இணையத்தில் பெரும் எதிர்ப்பு உருவானது. அனைத்து பிரச்சினைகளையும் கடந்துஇ தற்போது வெளியாகவுள்ளது.
-
-'பேட் கேர்ள்' குறித்து வர்ஷாஇ 'இந்தப் படம் பல நாடுகளில் திரைப்பட விழாக்களில் திரையிடப்பட்டது. 13 நாடுகளின் விழாக்களுக்கு பங்கேற்று வந்திருக்கிறேன். 'பேட் கேர்ள்' படக் குழுவினர் அனைவருக்கும் நன்றி முக்கியமாக இந்த வாய்ப்பு கொடுத்த வெற்றிமாறன் சாருக்கு மிக்க நன்றி. வெளிநாடுகளில் திரையிடப்பட்டபோது அனைவரும் அங்கு கொண்டாடினார்கள். அதே நேரத்தில் இங்கு குப்பை படம் என்று கூறினார்கள். பல நாடுகளில் எழுந்து நின்று கைதட்டி மரியாதை கொடுத்தார்கள். பல நாடுகளில் சுற்றி இப்படம் பிறந்த வீட்டிற்கு வந்திருக்கிறது.
-
-...
-
-[Data](articles/32cacbc1.json)
-
----
-
-### හිස් කබල් 4ක් සමග අස්ථි කොටස් ගරාජයකින් හමුවෙයි
-
-*2025-09-03 16:24:19* · [`adalk`](https://www.ada.lk/breaking_news/හිස්-කබල්-4ක්-සමග-අස්ථි-කොටස්-ගරාජයකින්-හමුවෙයි/11-418262) · `si`
-
-කිසියම් අපරාධයකට සම්බන්ධ බවට සැක කරන මිනිස් හිස්කබල් 4 ක් සමග අස්ථි කොටස් කිහිපයක් අද (3දා) වේයන්ගොඩ පොලිස් වසමේ නයිවල 4 වැනි පටුමගේ  පාලු  නිවසකට යාබදව ඇති ගරාජයක්  පිටුපස මල්ලක දමා තිබී සොයා ගත් බව වේයන්ගොඩ ‍පොලිසිය කියයි.
-
-මෙම ඉඩම වෛද්‍යවරයෙකුට අයත් එකක් බවත් වෛද්‍යවරයා වසර පහකට පමණ පෙර මෙම නිවස සහ ඉඩම මිලදීගෙන ඇති අතර වෛද්‍යවරයා ඔහුට අයත් වෙනත් නිවසක පදිංචිව සිටින බව හෙලිවී ඇත.
-
-මෙම ඉඩමෙහි නිවස, ගරාජයට අමතරව තවත් කුඩා ගොඩනැගිල්ලක් පිහිටා තිබෙන අතර එම කුඩා ගොඩනැගිල්ලේ කුලී පදනම මත  ග්‍රාම නිලධාරීවරයා විසින්  කාර්යාලය පවත්වාගෙන යනු ලබයි.
-
-ග්‍රාම නිලධාරීවරයා කාර්යාලයට පැමිණි අවස්ථාවේ ගරාජය පිටුපස මෙම අස්ථි කොටස් සහිත උරය දැක මේ පිළිබඳව  පොලිසිය දැනුවත් කර ඇත. මෙම උරය තුළ මිනිස් හිස් කබල්  සහ අස්ථි කොටස් කිහිපයක් දක්නට ඇති බව.  පොලිසිය පවසයි. අස්ථි කොටස් යම් පුද්ගලයෙකු හෝ කණ්ඩායමක් විසින් මෙම ස්ථානයට ගෙනවිත් දමා ඇති බවට පොලිසිය සැක කරයි.
-
-මෙම  අස්ථි කොටස් තරමක් පැරණි ඒවා බව දක්නට ලැබෙන බවද පොලිසිය සදහන් කළ අතර අපරාධ ස්ථාන පරීක්‍ෂණ නිලධාරීන් (soco) කැදවා නිරීක්ෂණ ලබා ගනු ලැබීය.
-
-...
-
-[Data](articles/2bd8262e.json)
-
----
-
-### Customs seizes narcotics worth Rs. 312 million sent via courier parcels
-
-*2025-09-03 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112142/customs-seizes-narcotics-worth-rs-312-million-sent-via-courier-parcels) · `en`
-
-A large consignment of narcotics valued at Rs. 312 million was seized this afternoon (3) by officers of the Sri Lanka Customs’ Narcotics Control Division after being detected in courier parcels received through airmail at a private bonded warehouse in Seeduwa, Katunayake.
-
-The consignment included 23,642 ecstasy/methamphetamine tablets, 1.445 kilograms of cocaine, 993 grams of ‘Mandy,’ a synthetic chemical drug also known as MDMA, and 98 grams of Crystal Methamphetamine, also known as ‘Ice’.
-
-The drugs had been concealed inside seven courier parcels sent from countries including Germany, the Czech Republic, Zambia, the United States, Canada, and the Netherlands, while they had been sent to fictitious addresses in Colombo, Panadura, Wattala, Rajagiriya, and Moratuwa.
-
-As no one came forward to claim the parcels in question, Customs officers carried out inquiries into the listed addresses and confirmed that all were fake, said Ada Derana reporter.
-
-...
-
-[Data](articles/e4b3c1ac.json)
-
----
-
-### 80 ஆயிரம் புறாக்களை பறக்கவிட்டு சீன மக்கள் விடுதலை இராணுவத்தின் 80 ஆவது ஆண்டு வெற்றி விழா கொண்டாட்டம்
-
-*2025-09-03 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/224109) · `ta`
-
-80 ஆயிரம் புறாக்களை பறக்கவிட்டு, சீன மக்கள் விடுதலை இராணுவத்தின் 80 ஆவது ஆண்டு வெற்றி விழா, சீனாவின் தலைநகர் பெய்ஜிங்கில் பிரமாண்டமாக நடைபெற்றது. இந்நிலையில், இதன் நேரடி ஒளிபரப்பு கொழும்பில் உள்ள சீன தூதரகத்தின் ஏற்பாட்டில் சீனத் தூதுவரின் தலைமையில் இன்று புதன்கிழமை (3) காலை சினமன் லைப் ஹோட்டலில் இடம்பெற்றது.
-
-சீனாவில் இடம்பெற்ற வெற்றிக் கொண்டாட்டம் சீன ஜனாதிபதி சீ ஜின்பிங் தலைமையில் இடம்பெற்றது. இந் நிகழ்வில் ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டின், வடகொரிய ஜனாதிபதி கிம் ஜாங்-உன் மற்றும் ஈரான், கியூபா உள்ளிட்ட 26 நாடுகளின் தலைவர்கள் பங்கேற்றனர்.
-
-இரண்டாம் உலகப் போரில் ஜப்பானிய ஆக்கிரமிப்புக்கு எதிராக சீனா பெற்ற வெற்றியின் 80 ஆவது ஆண்டு நிறைவைக் குறிக்கும் வகையில் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டது.
-
-சீனாவின் முக்கிய இராணுவ அணிவகுப்பில் பங்கேற்பதற்காக வடகொரிய தலைவர் கிம் ஜாங்-உன் செவ்வாய்க்கிழமை (செப்டம்பர் 2) குண்டு துளைக்காத ரயில் மூலம் பெய்ஜிங் சென்றடைந்தார்.
-
-...
-
-[Data](articles/dc74f2b8.json)
 
 ---

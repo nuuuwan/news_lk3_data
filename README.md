@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 13:51:46**
+As of **2025-09-04 14:09:46**
 
 ## Newspaper Stats
 
-*Scraped **74,130** Articles*
+*Scraped **74,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,507
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,162
+adalk | 7,163
 adaderanalk | 9,463
-tamilmirrorlk | 11,033
+tamilmirrorlk | 11,035
 virakesarilk | 12,121
 adaderanasinhalalk | 12,878
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 12,878
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,130 articles have been extended.
+61,973 (83.6%) of 74,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### நாடகமாடியவருக்கு விளக்கமறியல்
+
+*2025-09-04 13:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடகமாடியவருக்கு-விளக்கமறியல்/175-364034) · `ta`
+
+தனது சொந்த வாகனத்தை குறிவைத்து தாக்குதல் மற்றும் துப்பாக்கிச் சூடு சம்பவம் தொடர்பாக கைது செய்யப்பட்ட தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளர் துசித ஹல்லோலுவவின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+செப்டெம்பர் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதவான் லஹிரு சில்வா, வியாழக்கிழமை (04)  உத்தரவிட்டார்.
+
+ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளுடன் இணைந்து ஹல்லோலுவ இந்த நாடகத்தை திட்டமிட்டுள்ளார் என  அதிகாரிகள் குற்றம் சாட்டுகின்றனர்.
+
+சந்தேக நபர் விசாரணையைத் தடுக்கலாம் மற்றும் சாட்சிகளுக்கு அச்சுறுத்தலை ஏற்படுத்தக்கூடும் என்ற கவலையை காரணம் காட்டி, அவரது ஜாமீன் மனுவை நீதவான் நிராகரித்து, அவரை காவலில் வைத்திருக்க உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/9cad2779.json)
+
+---
+
+### பொலிஸ் ஜீப்பை ஒத்த ஜீப் பறிமுதல்
+
+*2025-09-04 13:43:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸ்-ஜீப்பை-ஒத்த-ஜீப்-பறிமுதல்/76-364033) · `ta`
+
+உயர் பொலிஸ் அதிகாரிகள் பயன்படுத்தும் ஜீப்பைப் போல வடிவமைக்கப்பட்ட ஒரு ஜீப்பை, கண்டி தலைமையக பொலிஸ் போக்குவரத்துப் பிரிவு சந்தேகத்தின் பேரில் பறிமுதல் செய்துள்ளது.
+
+பறிமுதல் செய்யப்பட்ட நேரத்தில், ஜீப்பில் இரண்டு பேர் இருந்தனர், பொலிஸ் அதிகாரிகள் பயன்படுத்துவதைப் போன்ற இரண்டு பயண தொலைபேசிகளுடன் அவர்கள் கைது செய்யப்பட்டனர்.
+
+டொயோட்டா லேண்ட் குரூசர் என்ற அந்த ஜீப், ஒரு   அரசியல் கட்சியின் தலைவருக்கு சொந்தமானது என்பது பொலிஸாரின் ஆரம்ப விசாரணையில் தெரியவந்தது. இது அடர் நீல வண்ணம் பூசப்பட்டிருந்தாலும், அதன் பதிவு செய்யப்பட்ட நிறம் பச்சை நிறத்தில் இருப்பதாக மோட்டார் வாகன பதிவு ஆணையகம் தெரிவித்துள்ளது.
+
+முன்பக்க ஜன்னலைத் தவிர, இந்த ஜீப்பின் அனைத்து பக்கவாட்டு ஜன்னல்களும் பயணிகளுக்கு வெளியே தெரியாத வகையில் நிறம் பூசப்பட்டுள்ளன. நகரத்தில் ஒரு உயர் பொலிஸ் அதிகாரி ஜீப்பை ஓட்டுகிறார் என்று நினைத்து சில பொலிஸ் அதிகாரிகள் ஏமாற்றப்பட்டுள்ளனர் என்பதும் பொலிஸ்  விசாரணையின் போது தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/3643fb40.json)
+
+---
 
 ### குகேஷ்  இழப்பார்: அப்துசட்டோரோவ் அதிரடி
 
@@ -73,6 +109,20 @@ The strike has been called off following the issuance of a letter by the Secreta
 ◼️
 
 [Data](articles/0e80a3f8.json)
+
+---
+
+### මහින්දානන්දට - නලීන්ට එරෙහි නඩුවක් කල් යයි
+
+*2025-09-04 13:04:50* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්දට---නලීන්ට-එරෙහි-නඩුවක්-කල්-යයි/11-418276) · `si`
+
+සිරදඬුවම් නියමවී සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත්ගමගේ, නලින් ප්‍රනාන්දු සහ ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් විශ්‍රාමික යුද හමුදා මේජර් ජෙනරාල් නන්ද මල්ලවාරච්චි යන අයට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර ඇති නඩුව ඔක්තෝබර් 10 වනදා යළි කැඳවීමට තීරණය කර තිබේ.
+
+අදාළ නඩුව අද (04දා) කොළඹ ප්‍රධාන මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා හමුවේ කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය කෙරිණි.
+
+◼️
+
+[Data](articles/e7a0065d.json)
 
 ---
 
@@ -1775,51 +1825,5 @@ Now, Sri Lanka is starting to explore how this concept, once confined to technic
 ...
 
 [Data](articles/5215179a.json)
-
----
-
-### யக்கல கட்சிக்காரியாலய தாக்குதல்: நீதிமன்றம் செல்லுவோம் என முன்னிலை சோசலிசக் கட்சி
-
-*2025-09-04 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224147) · `ta`
-
-கம்பஹா யக்கல பிரதேசத்தில் அமைந்துள்ள அரசியல் கட்சி காரியாலயம் மக்கள் விடுதலை முன்னணிக்கு சொந்தமானதென முடிந்தால் நீதிமன்ற தீர்ப்பை காட்டட்டும்.  அவ்வாறு எந்த தீர்ப்பும் இல்லை. எமது கட்சிக்காரியாலயத்தின் மீது மேற்கொள்ளப்பட்ட தாக்குதலுக்கு எதிராக நாங்கள் நீதிமன்றம் செல்வோம் என முன்னிலை சோசலிச கட்சியின் பிரசாரச் செயலாளர் துமிந்த நாகமுவ தெரிவித்தார்.
-
-முன்னிலை சோசலிச கட்சி வியாழக்கிழமை (03) கொழும்பில் நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/67bd0bdc.json)
-
----
-
-### Trilateralism: Ranil-Sajith-Namal should reinforce the Centre, not ‘unite the Right’
-
-*2025-09-04 03:28:34* · [`dailyftlk`](https://www.ft.lk/columns/Trilateralism-Ranil-Sajith-Namal-should-reinforce-the-Centre-not-unite-the-Right/4-781218) · `en`
-
-Sri Lanka is headed towards a debt repayment cyclone against the backdrop of the global storm of tariff-driven economic turbulence, geopolitical rivalry and regional wars. Instead of sailing the ship of state sagaciously, President Anura Dissanayake and his Government are rocking the boat.
-
-Five destabilising developments can be listed, all running parallel, happening simultaneously, and interactive.
-
-I. S-G Dileepa Pieris ignored the exit ramp of ‘exceptional circumstances’ and doubled-down on his insistence that bail should be denied and the suspect remanded until the end of the trial, even after Ranil’s medical reports had been submitted to the magistrate. This revealed the confrontational bloody-mindedness of the authorities.
-
-...
-
-[Data](articles/deee99a7.json)
-
----
-
-### Clarifying the nature of official trips and ethical considerations: Response to Dr. Jayalath Adikarige
-
-*2025-09-04 03:03:07* · [`dailyftlk`](https://www.ft.lk/columns/Clarifying-the-nature-of-official-trips-and-ethical-considerations-Response-to-Dr-Jayalath-Adikarige/4-781216) · `en`
-
-When a writer, or thought-leaders, attempt to defend this Government’s actions, it is imperative to consider all facts objectively. The President’s 2023 UK trip was official in its entirety and aligned fully with international diplomatic protocols. Ethical scrutiny should focus on substantive matters, especially those involving visits and meetings that deviate from standard diplomatic practices
-
-Following is a response to Dr. Jayalath Bandara Adikarige’s article in the Daily FT, titled “Accountability is not petty” (https://www.ft.lk/columns/Accountability-is-not-petty-Response-to-Dr-Dayan-Jayatilleka/4-781081)
-
-The recent article published which attempted to address the allegations surrounding former President Ranil Wickremesinghe’s 2023 trip to the United Kingdom warrants a clear and factual clarification. The entire journey, including the visit to the UK, must be understood within the context of official international duties and protocol.
-
-...
-
-[Data](articles/b17ccac4.json)
 
 ---

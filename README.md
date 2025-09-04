@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 18:55:22**
+As of **2025-09-04 19:11:54**
 
 ## Newspaper Stats
 
-*Scraped **74,187** Articles*
+*Scraped **74,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ islandlk | 4,555
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,171
-adaderanalk | 9,473
+adaderanalk | 9,474
 tamilmirrorlk | 11,044
-virakesarilk | 12,123
-adaderanasinhalalk | 12,893
+virakesarilk | 12,127
+adaderanasinhalalk | 12,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,187 articles have been extended.
+61,973 (83.5%) of 74,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ராஜாங்கனையில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு பெண் கொலை
+
+*2025-09-04 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224229) · `ta`
+
+மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் ஒரு பெண்ணை கூரிய ஆயுதத்தால் தாக்கி கொலை செய்துள்ளனர்.
+
+குறித்த பெண் மூன்று மாதங்களுக்கு முன்பு தனது கணவரிடமிருந்து பிரிந்து அவரது வீட்டில் வசித்து வந்ததாக தெரிவிக்கப்படுகிறது.
+
+3ஆம் திகதி புதன்கிழமை இரவு தனது வீட்டின் முன் தொலைபேசி அழைப்பை எடுத்துக்கொண்டிருந்தபோது, இரண்டு பேர் அவரை கூர்மையான ஆயுதத்தால் தாக்கியுள்ளனர்.
+
+◼️
+
+[Data](articles/91f5470b.json)
+
+---
+
+### களுவாஞ்சிகுடி - குருக்கள்மடம் மனித புதைகுழிகள் குறித்து முறைப்பாடளியுங்கள்; நீதியமைச்சர் பொதுமக்களிடம் வலியுறுத்தல்
+
+*2025-09-04 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224228) · `ta`
+
+ஐக்கிய நாடுகள் சபையையோ அல்லது சர்வதேச சமூகத்தையோ திருப்திப்படுத்துவதற்காக காணாமல் போனோர் தொடர்பிலும்,மனித புதைகுழிகள் தொடர்பிலும் விசாரணைகளை மேற்கொள்ளவில்லை. தேசிய நல்லிணக்கத்தை உறுதிப்படுத்த வேண்டுமாயின் கடந்த கால சம்வங்களுக்கு நீதியை பெற்றுக்கொடுக்க வேண்டும். செம்மணி மனித புதைகுழி சர்வதே தரத்துடன் முறையாக ஆராயப்படுகிறது முழுமையான ஒத்துழைப்பை தொடர்ந்து வழங்குவோம் என நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
+
+காணாமலாக்கப்பட்டோருக்கு எமது அரசாங்கத்தில் நீதி கிடைக்காவிடின், எந்த அரசாங்கத்தில் நீதி கிடைக்கும்? களுவாஞ்சிகுடி மற்றும் குருக்கள்மடம் மனித புதைகுழிகள் தொடர்பில் முறைப்பாடளிக்குமாறு பொதுக்களிடம் கேட்டுக்கொள்கிறேன். வழங்கப்படும் தகவல்கள் பாதுகாக்கப்படுவதுடன் தகவல் வழங்குபவரின் பாதுகாப்பு உறுதிப்படுத்தப்படும் எனவும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/e7bec6ea.json)
+
+---
+
+### තියුණු ආයුධකින් පහර දී කාන්තාවක් ඝාතනය කෙරේ
+
+*2025-09-04 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214181) · `si`
+
+යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙක් විසින් කාන්තාවකට තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 49ක් වන රජාංගනය ප්‍රදේශයේ පදිංචි දෙදරු මවකි.
+
+අදාළ කාන්තාව මීට මාස තුනකට පෙර සිය ස්වාමිපුරුෂයා සමඟ ඇති වූ ආරවුලක් හේතුවෙන් ඔහුගෙන් වෙන්ව තම මහගෙදරට පැමිණ ජීවත්ව සිට ඇති බව වාර්තා වේ.
+
+ඇය ඊයේ රාත්‍රියේ දී නිවස ඉදිරිපසට වී දුරකථන ඇමතුමක් ලබා ගනිමින් සිටිය දී යතුරු පැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙක් විසින් මෙසේ ඇයට තියුණු ආයුධයකින් පහර දී ඇත.
+
+පහර කෑමට ලක්වූ කාන්තාව එම අවස්ථාවේදීම රාජාංගනය යාය 05 මූලික රෝහලට ඇතුළත් කර ඇති අතර රෝහලට රැගෙන යන විටත් ඇය මියගොස් සිට බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/854c1eaf.json)
+
+---
+
+### சஜித்துக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவிடமிருந்து எவ்வித அறிவிப்பும் இல்லை - ஹர்ஷண ராஜகருணா
+
+*2025-09-04 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224227) · `ta`
+
+ஐ.தே.க. தலைமையகமான சிறிகொத்தா அலுவலகம் மீள் நிர்மாணிக்கப்பட்டமை தொடர்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு அழைப்பு விடுத்துள்ளதாக ஊடகங்களில் செய்திகள் வெளியாகியுள்ளன. ஆனால் இது தொடர்பில் எதிர்க்கட்சி தலைவருக்கு எவ்வித உத்தியோகபூர்வ அறிவித்தலும் வெளியிடப்படவில்லை என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷண ராஜகருணா தெரிவித்தார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில் வியாழக்கிழமை (4) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+கடந்த காலங்களில் ஐ.தே.க. தலைமையகமான சிறிகொத்தா அலுவலகம் மீள் நிர்மாணிக்கப்பட்டமை தொடர்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு அழைப்பு விடுத்துள்ளதாக ஊடகங்களில் செய்திகள் வெளியாகியுள்ளன. இது தொடர்பில் நான் அவரிடம் வினவினேன். எனினும் தனக்கு எவ்வித அறிவித்தலும் வழங்கப்படவில்லை என எதிர்க்கட்சி தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/ee1697d2.json)
+
+---
+
+### மண்டைதீவு புதைகுழிக் கிணற்றை அகழ வலியுறுத்தி ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் முறைப்பாடு!
+
+*2025-09-04 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/224226) · `ta`
+
+மண்டைதீவு படுகொலை சம்பவத்துடன் தொடர்புடைய உடலங்கள் புதைக்கப்பட்டதாக கூறப்படும் கிணதுகளை அகழ்ந்து, குறித்த சம்பவம் தொடர்பில் நீதியான விசாரணை  முன்னெடுக்கப்பட்டு உண்மைகள் வெளிக் கொணரப்படுவதுடன் பாதிக்கப்பட்ட உறவுகளுக்கு நீதியும் பரிகாரமும் வழங்கப்பட வேண்டும் என்று கோரி ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் முறைப்பாடு ஒன்று வியாழக்கிழமை (04.09.2025) பதிவு செய்யப்பட்டுள்ளது.
+
+குறித்த சம்பவத்தில் தனது மகனை பறிகொடுத்த 81 வயதுடைய ஸ்ரிபன் மரில்டா என்பவர் வேலணை பிரதேச சபையின் உறுப்பினரான சுவாமிநாதன் பிரகலாதன் ஆகியோரால் வேலணை பிரதேச சபையின் ஈழ மக்கள் ஜன நாயகக் கட்சியின் உறுப்பினரான திருமதி அனுசியா ஜெயகாந்த், அகில இலங்கை தமிழ் கங்கிரஸ் கட்சியின் உறுப்பினர்களான கருணாகரன் நாவலன் மற்றும் திருனாவுக்கரசு சிவகுமாரன்,  ஐக்கிய தேசியக் கட்சியின் உறுப்பினரான செந்தமிழ்ச்செல்வன் திருக்கேதீஸ்வரன், தமிழரசுக் கட்சியின் உறுப்பினரான மங்களேஸ்வரன் கார்த்தீபன் ஆகியோரது பிரசன்னத்துடன் இருவேறு முறைப்பாடுகள் இன்று ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் (04.09.2025) பதிவு செய்துள்ளனர்.
+
+...
+
+[Data](articles/17a5ac46.json)
+
+---
+
+### Death toll from Afghan earthquake jumps to 2,205 as aid agencies plead for funds
+
+*2025-09-04 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112184/death-toll-from-afghan-earthquake-jumps-to-2205-as-aid-agencies-plead-for-funds) · `en`
+
+Hundreds of bodies have been recovered from houses destroyed by a major earthquake in Afghanistan last week, pushing the death toll to over 2,200, a Taliban government spokesman said Thursday.
+
+A 6.0 magnitude quake struck several provinces of the mountainous and remote east on Sunday night, levelling villages and trapping people under rubble. The majority of casualties have been in Kunar, where many live in steep river valleys separated by high mountains.
+
+Taliban spokesman Hamdullah Fitrat, who provided the updated casualty figure of 2,205, said rescue and search efforts were continuing. “Tents have been set up for people, and the delivery of first aid and emergency supplies is ongoing.”
+
+The rough terrain is hindering relief efforts. Taliban authorities have deployed helicopters and airdropped army commandos to help survivors. Aid workers have reported walking for hours to reach villages cut off by landslides and rockfall.
+
+...
+
+[Data](articles/f184a3e6.json)
+
+---
 
 ### චීන ජනාධිපති හා රුසියානු ජනාධිපති අතර ඇති වූ ආන්දෝලනාත්මක රහස් කතාවක් එළියට
 
@@ -1705,111 +1803,5 @@ The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres 
 ...
 
 [Data](articles/18c9f94e.json)
-
----
-
-### Sri Lanka completes first Japan funded project after debt restructure
-
-*2025-09-04 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-completes-first-japan-funded-project-after-debt-restructure-239483/) · `en`
-
-ECONOMYNEXT – Sri Lanka has completed the construction of a key transmission line funded by Japan which was delayed due the island’s debt default.
-
-Habarana-Veyangoda Transmission like funded with a yen loan of around 65 million Us dollars, was opened at a ceremony attended by Japan’s Ambassador Akio Isomata.
-
-“This project is a significant milestone as it is the first yen-loan project which has been completed and handed over to Sri Lanka since the disbursement of eleven suspended yen-loan projects was resumed in July last year, after the interval of three years…,” the Japanese embassy said in a statement.
-
-The new, large capacity and long-distance transmission, which help Sri Lanka reduce CO2 emissions by cutting down on transmission loss, Ambassador Isomata said.
-
-...
-
-[Data](articles/ae058a40.json)
-
----
-
-### ශිෂ්‍යත්වයේ වැඩිම ලකුණු අම්බලන්ගොඩ ශනුදි අමායා හිමි කරගනී
-
-*2025-09-04 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214153) · `si`
-
-මෙවර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵලවලට අනුව දිවයිනේ ප්‍රථම ස්ථානය හිමිකර ගැනීමට අම්බලන්ගොඩ ශ්‍රී දේවානන්ද විද්‍යාලයේ ශනුදි අමායා අශ්විනි ශිෂ්‍යාව සමත්වී තිබේ.
-
-මෙවර 2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාග ප්‍රතිඵලවලට අනුව දිස්ත්‍රික් මට්ටමින් කඩඉම් ලකුණු සීමාවන් ද විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත් කර තිබේ.
-
-ඒ අනුව කොළඹ, ගම්පහ, කළුතර, මහනුවර, මාතලේ, ගාල්ල, මාතර, කුරුණෑගල, කෑගල්ල දිස්ත්‍රික් සදහා කඩඉම් ලකුණු සීමාව, සිංහල මාධ්‍ය 140ක් වන අතර දෙමළ මාධ්‍ය කඩඉම් ලකුණු සීමාව ලකුණු 134ක් වේ.
-
-රත්නපුර දිස්ත්‍රික්කයේ සිංහල මාධ්‍ය කඩඉම් ලකුණු සීමාව 136ක් වන අතර දෙමළ මාධ්‍ය ලකුණු සීමාව 132ක් බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-හම්බන්තොට දිස්ත්‍රික්කයේ සිංහල මාධ්‍ය කඩඉම් ලකුණු සීමාව 135ක් වන අතර දෙමළ මාධ්‍ය ලකුණු සීමාව 132ක් වේ.
-
-...
-
-[Data](articles/6046d942.json)
-
----
-
-### இலங்கையின் பொருளாதார வளர்ச்சிக்கு வெளிநாட்டு முதலீடுகளை ஈர்ப்பது முக்கியமானது - ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்ட ஆரம்ப நிகழ்வில் ஜப்பானிய தூதுவர்
-
-*2025-09-04 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/224161) · `ta`
-
-இலங்கையின் பொருளாதார வளர்ச்சிக்கு வெளிநாட்டு முதலீடுகளை ஈர்ப்பது மிகவும் முக்கியமானது எனவும் ஊழலை ஒழிப்பது, உள்கட்டமைப்பை மேம்படுத்துவது, வணிகச் சூழலை மேம்படுத்துவது மற்றும் தெளிவான தொழில்துறை மேம்பாட்டுக் கொள்கைகளை உருவாக்குவது ஆகியவை முதலீடுகளை ஈர்ப்பதற்கு அவசியமானவை என்றும் ஜப்பானிய தூதுவர் அகியோ இசொமாட்டா தெரிவித்தார்.
-
-ஜப்பான் அரசின் 65 மில்லியன் அமெரிக்க டொலர் நிதியுதவியில் ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்டம் புதன்கிழமை (செப்டம்பர் 3) ஆரம்பித்து வைக்கப்பட்ட நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே ஜப்பானி தூதுவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-ஜப்பானிய தூதுவர் அகியோ இசொமாட்டா, எரிசக்தி அமைச்சர் குமார ஜயக்கொடி, இலங்கை மின்சார சபையின் பொது முகாமையாளர் வசந்த எதிரிசூரிய, மற்றும் ஜைக்கா நிறுவனத்தின் இலங்கைக்கான தலைமைப் பிரதிநிதி கென்ஜி குரோனுமா ஆகியோர் ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்டத்தின்  ஆரம்ப நிகழ்வில் விழாவில் கலந்துகொண்டார்.
-
-...
-
-[Data](articles/19af9ba2.json)
-
----
-
-### நாட்டில் ஆண்டுதோறும் 200 சிறுவர்கள் புற்றுநோயால் உயிரிழக்கின்றனர் - தேசிய புற்றுநோய் கட்டுப்பாட்டு திட்டம்
-
-*2025-09-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224160) · `ta`
-
-நாட்டில் ஆண்டுதோறும் 200 சிறுவர்கள் புற்றுநோயால் உயிரிழக்கின்றனர்  என தேசிய புற்றுநோய் கட்டுப்பாட்டு திட்டத்தின் சமூக விசேட வைத்திய நிபுணர் சுராஜ் பெரேரா தெரிவித்துள்ளார்.
-
-முறையான மருத்துவ சிகிச்சை மூலம் இந்த  நிலைமையைக் குறைக்க முடியும் எனவும் அவர் சுட்டிக்காட்டியுள்ளார்.
-
-சுகாதார மேம்பாட்டுப் பணியகம் நடத்திய ஊடக சந்திப்பில் பங்கேற்ற வைத்தியர் சுராஜ் பெரேரா இந்தக் கருத்துக்களைப் பகிர்ந்து கொண்டார்.
-
-"2022 ஆம் ஆண்டில், அடையாளம் காணப்பட்ட புற்றுநோய் நோயாளிகளில், 904 பேர் சிறுவர்கள் ஆவர்.
-
-கடந்த 15 ஆண்டுகளுக்கான தரவுகளைப் பார்க்கும்போது சிறுவர் பருவ புற்றுநோய் நோயாளிகளின் எண்ணிக்கை அதிகரித்து காணப்படவில்லை என்பது தெளிவாகக் காட்டுகிறது.  இந்த எண்ணிக்கை பொதுவாக 600 முதல் 800 வரம்பிற்குள் இருந்தது. தற்போது, ஆண்டுதோறும் சுமார் 900 சிறுவர் பருவ புற்றுநோயாளர்கள் பதிவாகின்றன.
-
-தலைமை பதிவாளர் திணைக்களத்தின் கூற்றுகளின் படி, 2019 ஆம் ஆண்டில் சுமார் 200 சிறுவர்கள் புற்றுநோயால் உயிரிழந்துள்ளனர்.
-
-...
-
-[Data](articles/236acc6a.json)
-
----
-
-### Imran Furkan appointed director of Sri Lanka’s Softlogic Holdings
-
-*2025-09-04 10:00:00* · [`economynextcom`](https://economynext.com/imran-furkan-appointed-director-of-sri-lankas-softlogic-holdings-239520/) · `en`
-
-ECONOMYNEXT – Imran Furkan has been appointed to the board of Sri Lanka’s Softlogic Holdings Plc as independent non-executive director, the company said in a stock exchange filing.
-
-“Imran advises boards and CEOs on strategy, market expansion as well as geo political, economic, climate and technology risk management,” the company said.
-
-He has held senior management and board directorship roles in industries such as finance, health, food, retail, regulatory and industry bodies, IT/GBS, education, commodities, media, and professional services in the Asia-Pacific region.
-
-He is an independent non-executive director of Odel, Asiri Health, Maharaja Foods and Asiri Surgical Hospital; board of management member of the Lakshman Kadiragamar Institute and an executive committee member of The Interfaith Network (IFN), City of Greater Dandenong, Australia.
-
-He served as the CEO of SLASSCOM and the Sri Lanka Press Institute.
-
-...
-
-[Data](articles/de1e1761.json)
-
----
-
-### பரமசிவன் கழுத்தில் இருந்து பாம்பு கேட்டது
-
-*2025-09-04 09:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பரமசிவன்-கழுத்தில்-இருந்து-பாம்பு-கேட்டது/62-364012) · `ta`
-
-◼️
-
-[Data](articles/faec7a5a.json)
 
 ---

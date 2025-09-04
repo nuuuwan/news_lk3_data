@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 11:52:55**
+As of **2025-09-04 12:09:53**
 
 ## Newspaper Stats
 
-*Scraped **74,106** Articles*
+*Scraped **74,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 755
-economynextcom | 4,505
+economynextcom | 4,507
 islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
-adalk | 7,160
+adalk | 7,161
 adaderanalk | 9,460
-tamilmirrorlk | 11,023
+tamilmirrorlk | 11,029
 virakesarilk | 12,118
 adaderanasinhalalk | 12,874
 
@@ -26,13 +26,31 @@ adaderanasinhalalk | 12,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,106 articles have been extended.
+61,973 (83.6%) of 74,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
 
-### ව්‍යාජ අංක තහඩු දමා සැප රියක් පැදවූ වෛද්‍යවරිය අත්අඩංගුවට
+### போலி தகடுடன் காரை செலுத்திய பெண் வைத்தியர் கைது
+
+*2025-09-04 11:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போலி-தகடுடன்-காரை-செலுத்திய-பெண்-வைத்தியர்-கைது/76-364025) · `ta`
+
+போலி எண் தகடுகளுடன் சொகுசு காரை ஓட்டி வந்த பெண் மருத்துவரை கண்டி பிரிவு குற்றப் புலனாய்வுப் பிரிவு கைது செய்தது.
+
+கண்டி வாரியபொல ஸ்ரீ சுமங்கல மாவத்தையைச் சேர்ந்த 48 வயது பெண் மருத்துவர், அந்த கார் தனது கணவருடையது என்றும், அவரும் ஒரு மருத்துவர் என்றும் பொலிஸாரிடம் தெரிவித்தார். பொலிஸார் அதை ஆய்வு செய்தபோது, ​​அந்த டாக்டரிடம் கார் தொடர்பான எந்த ஆவணங்களும் இல்லை.
+
+பெண் மருத்துவர், தனது கணவரின் சகோதரரின் கார் எண் தகடுகளுடன் காரை ஓட்டி வந்ததாக விசாரணையில் தெரியவந்தது.
+
+கைது செய்யப்பட்ட பெண் மருத்துவரின் கணவருக்கு வாக்குமூலம் பதிவு செய்ய அழைக்கப்பட்டுள்ளார், மேலும் பெண் மருத்துவர் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளார்.
+
+◼️
+
+[Data](articles/33a059bf.json)
+
+---
+
+### ව්‍යාජ අංක තහඩු සහිත සැප රියක් පැදවූ වෛද්‍යවරිය අත්අඩංගුවට
 
 *2025-09-04 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214160) · `si`
 
@@ -50,6 +68,94 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பகிடி வதை: 6 மாணவிகள் உட்பட 15 பேர் கைது
+
+*2025-09-04 11:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடி-வதை-6-மாணவிகள்-உட்பட-15-பேர்-கைது/175-364024) · `ta`
+
+கிழக்குப் பல்கலைக்கழக தொழில்நுட்ப பீடத்தில் பயிலும் மாணவிகள் குழுவை பகிடிவதை வன்கொடுமை செய்ததாகக் கூறப்படும் குற்றச்சாட்டில் 6 மாணவிகள் மற்றும் 9 ஆண் மாணவர்களை குற்றப் புலனாய்வுத் துறை (CID) கைது செய்துள்ளது.
+
+அதே பல்கலைக்கழகத்தில் படிக்கும் 24 முதல் 26 வயதுக்குட்பட்ட சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+2021 மற்றும் 2022 ஆம் ஆண்டுகளில் பயிலும் மாணவிகள் குழுவை சந்தேக நபர்கள் பகிடிவதை வன்கொடுமை செய்ததாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+குற்றப் புலனாய்வுத் துறையினருக்கு கிடைத்த முறைப்பாடுகளின் அடிப்படையில்,   நடத்தப்பட்ட விசாரணைகளைத் தொடர்ந்து, சந்தேக நபர்கள் புதன்கிழமை (03) கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/b37460fe.json)
+
+---
+
+### புலமைப்பரிசில் பரீட்சையில் 51,969 மாணவர்கள் சித்தி
+
+*2025-09-04 11:24:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சையில்-51-969-மாணவர்கள்-சித்தி/175-364022) · `ta`
+
+2025 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையில் 51,969 மாணவர்கள், அதாவது மொத்த பரீட்சார்த்திகளில் 17.11% பேர் தேர்ச்சி பெற்றுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+சிங்கள மொழி மூலமான பரீட்சையில் அதிகபட்ச மதிப்பெண் 198 காலியிலிருந்தும், தமிழ் மொழி மூலமான பரிட்சையில் அதிகபட்ச மதிப்பெண் 194 யாழ்ப்பாணத்திலிருந்தும் பெறப்பட்டதாக திணைக்களம் உறுதிப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/b76b9d20.json)
+
+---
+
+### மஹிந்தவின் வீட்டுக்கு ஆப்பு
+
+*2025-09-04 11:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வீட்டுக்கு-ஆப்பு/175-364021) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தற்போது வசித்து வரும் கொழும்பு விஜேராம வீதியில் உள்ள உத்தியோகபூர்வ இல்லத்தை குற்றப் புலனாய்வுத் துறையிடம் (C.I.D.) ஒப்படைப்பது குறித்து அரசாங்கம் பரிசீலித்து வருவதாகக் கூறப்படுகிறது.
+
+சமீபத்தில் உயர்மட்ட அரசாங்க அதிகாரிகள் குழுவுடன் நடைபெற்ற கலந்துரையாடலில் இந்த விடயம் விவாதிக்கப்பட்டதாக வட்டாரங்கள் தெரிவித்தன.
+
+முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்குவதற்கான புதிய சட்டமூலம் சமீபத்தில் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டது, மேலும் எதிர்காலத்தில் இந்த சட்டமூலத்தை நிறைவேற்ற அரசாங்கம் நம்புகிறது.
+
+இந்த சட்டமூலம் நிறைவேற்றப்பட்டவுடன், முன்னாள் ஜனாதிபதிகளின் ஓய்வூதியத்தைத் தவிர, உத்தியோகபூர்வ இல்லங்கள் உட்பட மற்ற அனைத்து வசதிகளும் ரத்து செய்யப்படும்.
+
+முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்குவதற்கான புதிய சட்டமூலம் மீதான உயர் நீதிமன்றத்தின் வியாக்கியானம் இரண்டொரு நாட்களில் சபாநாயகரிடம் ஒப்படைக்கப்பட உள்ளது.
+
+...
+
+[Data](articles/9a4471ea.json)
+
+---
+
+### ශිෂ්‍යත්වයේ වැඩිම ලකුණු අම්බලන්ගොඩ ශනුදි අමායා හිමි කරගනියි
+
+*2025-09-04 11:18:18* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයේ-වැඩිම-ලකුණු-අම්බලන්ගොඩ-ශනුදි-අමායා-හිමි-කරගනියි/11-418274) · `si`
+
+මෙවර ශිෂයත්ව විභාගයෙන් ලංකාවේ පළමු ස්ථානය දිනා ගැනීමට අම්බලන්ගොඩ ශ්‍රී දේවානන්ද විද්‍යලයේ  එම්.ඩබ්ලිව්.ශනුදි අමායා ශිෂයාව සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/632cf261.json)
+
+---
+
+### புற்றுநோயால் ஆண்டுதோறும்  200 சிறுவர்கள்  மரணம்
+
+*2025-09-04 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புற்றுநோயால்-ஆண்டுதோறும்-200-சிறுவர்கள்-மரணம்/175-364019) · `ta`
+
+புற்றுநோய் காரணமாக  ஆண்டு தோறும் சுமார் 200க்கும் மேற்பட்ட சிறுவர்கள் உயிரிழப்பதாக தேசிய புற்றுநோய் கட்டுப்பாட்டு திட்டத்தின் சமூக வைத்திய நிபுணர் டொக்டர் சூரஜ் பெரேரா தெரிவித்துள்ளார்.
+
+அத்துடன், முறையான மருத்துவ சிகிச்சையைப் பெறுவதன் மூலம் இந்த நிலைமையைக் குறைக்க முடியும் என்றும் வைத்திய நிபுணர் டொக்டர் சூரஜ் குறிப்பிட்டுள்ளார்.
+
+சுகாதார மேம்பாட்டு பணியகத்தில் நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டபோதே அவர் இதனை தெரிவித்துள்ளார்.
+
+கடந்த 15 ஆண்டுகளுக்கான தரவுகளைப் பார்க்கும்போது, சிறுவர்கள் புற்றுநோய்களில் குறிப்பிடத்தக்க அதிகரிப்பு இல்லை என்பது தெளிவாகக் காட்டுகிறது.
+
+சராசரியாக, இது 600,700,800 வரம்பிற்குள் இருந்தது. இப்போது, ஆண்டுக்கு 900 வரை குழந்தை புற்றுநோயாளர்கள் பதிவாகின்றன.
+
+2019இல் சிறுவர்கள் புற்றுநோய் காரணமாக சுமார் 200 வழக்குகள் பதிவாகியுள்ளதாக பதிவாளர் ஜெனரல் துறை தெரிவித்துள்ளது.
+
+ஆனால் 2020இல், சராசரியாக, ஆண்டுக்கு சுமார் 200 சிறுவர்கள் புற்றுநோய் நோயாளிகள் இறக்கின்றனர் என்று இப்போது அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fb2802de.json)
+
+---
+
 ### ක්‍රියාකාරී මට්ටමේ නොමැති රාජ්‍ය ආයතන වසා දැමීමට අනුමැතිය
 
 *2025-09-04 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214159) · `si`
@@ -63,6 +169,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cd53425d.json)
+
+---
+
+### பாடசாலைகளில் மாணவர்களை உள்வாங்கும் சுற்றறிக்கை இரத்து
+
+*2025-09-04 11:13:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-மாணவர்களை-உள்வாங்கும்-சுற்றறிக்கை-இரத்து/175-364018) · `ta`
+
+இதுவரை வெளியிடப்பட்டுள்ள ஆலோசனைச் சுற்றறிக்கைகளை இரத்துச்செய்து, புதிய சுற்றறிக்கையை வெளியிடுவதற்கு கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சராக பிரதமர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+பாடசாலைகளில் 5 மற்றும் 6 ஆம் தரங்கள் தவிர்ந்த 2 ஆம் தரம் தொடக்கம் 11 ஆம் தரம் வரை மாணவர்களை உள்வாங்கல் தொடர்பில் புதிய சுற்றறிக்கை வெளியிடப்படவுள்ளது.
+
+உத்தேசிக்கப்பட்டுள்ள கல்வி மறுசீரமைப்பை அமுல்படுத்துவதற்காக வகுப்பறையொன்றிலுள்ள மாணவர்களின் எண்ணிக்கையை அங்கீகரிக்கப்பட்டுள்ள எல்லைக்குள் மாத்திரம் பேண வேண்டியது அவசியமாகும்.
+
+அதனால்,நாட்டிலுள்ள அனைத்துப் பிள்ளைகளுக்கும் கல்விக்கான உரிமையை உறுதிப்படுத்தி, பாடசாலைகளில் 5 மற்றும் 6 ஆம் தரங்கள் தவிர்ந்த இடைநிலைத் தரங்களுக்கு மாணவர்களை உள்வாங்குவதற்கு வாய்ப்புக்களை வழங்குவதற்காக சரியான முறையை அறிமுகப்படுத்துவது பொருத்தமானதென அடையாளங் காணப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0736e6f7.json)
 
 ---
 
@@ -254,7 +378,7 @@ The Cabinet of Ministers has granted approval to the proposal to issue a new cir
 
 මහනුවර මූලස්ථාන පොලීසියට ලද තොරතුරකට අනුව ඊයේ (03) පස්වරුවේ දී මෙම ජීප් රථය පොලිස් භාරයට ගත් අවස්ථාවේ එහි පුද්ගලයන් දෙදෙනෙක් සිට ඇති අතර පොලීසිය භාවිතා කරන ආකාරයේ  walkie talkie කථන යන්ත්‍ර දෙකක් ද එහි තිබූ බව පොලීසිය පවසයි.
 
-මෙම ජිප් රථයේ ඉදිරිපස වීදුරුව හැර අනෙකුත්  වීදුරු සියල්ල සම්පූර්ණයෙන් අඳුරු කොට ඇති අතර නිරන්තර මහනුවර ප්‍රදේශයේ මාර්ගවල ධාවනය කෙරෙන බව පෙලීසිය පවසයි.
+මෙම ජිප් රථයේ ඉදිරිපස වීදුරුව හැර අනෙකුත්  වීදුරු සියල්ල සම්පූර්ණයෙන් අඳුරු කොට ඇති අතර නිරන්තර මහනුවර ප්‍රදේශයේ මාර්ගවල ධාවනය කෙරෙන බව පොලීසිය පවසයි.
 
 යම් අවස්ථාවලදී රථ වාහන හා මාර්ග රාජකාරිවල නිරත පොලිස් නිලධාරීන් මෙම වාහනයේ උසස් පොලිස් නිලධාරියෙකු ගමන් ගන්නේ යැයි සිතා වාහනයට ආචාර කර ඇති බව සඳහන් වේ.
 
@@ -356,6 +480,24 @@ According to the results of the 2025 Grade 5 Scholarship Examination, Shanudi Am
 
 ---
 
+### Sri Lanka completes first Japan funded project after debt restructure
+
+*2025-09-04 10:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-completes-first-japan-funded-project-after-debt-restructure-239483/) · `en`
+
+ECONOMYNEXT – Sri Lanka has completed the construction of a key transmission line funded by Japan which was delayed due the island’s debt default.
+
+Habarana-Veyangoda Transmission like funded with a yen loan of around 65 million Us dollars, was opened at a ceremony attended by Japan’s Ambassador Akio Isomata.
+
+“This project is a significant milestone as it is the first yen-loan project which has been completed and handed over to Sri Lanka since the disbursement of eleven suspended yen-loan projects was resumed in July last year, after the interval of three years…,” the Japanese embassy said in a statement.
+
+The new, large capacity and long-distance transmission, which help Sri Lanka reduce CO2 emissions by cutting down on transmission loss, Ambassador Isomata said.
+
+...
+
+[Data](articles/ae058a40.json)
+
+---
+
 ### ශිෂ්‍යත්වයේ වැඩිම ලකුණු අම්බලන්ගොඩ ශනුදි අමායා හිමි කරගනී
 
 *2025-09-04 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214153) · `si`
@@ -445,6 +587,32 @@ Wildlife officers from Ritigala and Kekirawa are conducting investigations regar
 ◼️
 
 [Data](articles/d76ba5f3.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields down
+
+*2025-09-04 09:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-down-239475/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.00/05 to the US dollar in the spot market Thursday, stronger from 302.08/13 the previous day, while bond yields were down dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
+
+A bond maturing on 01.05.2027 was quoted at 8.55/63 percent.
+
+A bond maturing on 15.12.2028 was quoted at 9.00/10 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.50/54 percent, down from 9.52/54 percent.
+
+A bond maturing on 15.12.2032 was quoted flat at 10.35/45 percent.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 400.0337 buying, and 411.3755 selling, and the euro was 345.7901 buying, 356.9953 selling.
+
+The Colombo Stocks Exchange opened in green; The ASPI was up 0.18 percent, or 37.67 points, at 21,013; the S&P SL20 was up 0.08 percent, or 4.74 points, at 6,009. (Colombo/Sep4/2025)
+
+◼️
+
+[Data](articles/72ed761e.json)
 
 ---
 
@@ -1625,171 +1793,5 @@ Sadaharitha Plantations marks 23 years of leadership, innovation, and sustainabl
 ...
 
 [Data](articles/f033df84.json)
-
----
-
-### E. B. Creasy in notable share transaction; CSE bounces back
-
-*2025-09-03 23:21:00* · [`islandlk`](http://island.lk/e-b-creasy-in-notable-share-transaction-cse-bounces-back/) · `en`
-
-E.B. Creasy & Co. said yesterday in a CSE filing that its public holding had increased to 26.43 percent following share sales by Colombo Fort Land & Building, market analysts said. According to the filing, Colombo Fort Land disposed of 5 million shares on August 6 and a further 1.5 million shares on August 27.
-
-As a result, the company’s public float rose from 23.86 percent reported in its June 30 interim financial statements to 26.43 percent as at August 29, the record date. The increase improves liquidity in the stock and moves the company further above the minimum public float threshold required under CSE listing rules.
-
-...
-
-[Data](articles/29c8b3fe.json)
-
----
-
-### නීතිඥවරයෙකු අත්අඩංගුවට ගැනීම වළක්වාලමින් නියෝගයක්
-
-*2025-09-03 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214141) · `si`
-
-ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂ තුසිත හල්ලොලුවගේ වාහනයට වෙඩිතැබීම සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව නීතිඥවරයෙකු සැකපිට අත්අඩංගුවට ගැනීම වළක්වාලමින් අභියාචනාධිකරණය විසින් කොළඹ අපරාධ කොට්ඨාශයට අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
-
-ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන අයගෙන් සමන්විත විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කර ඇත.
-
-පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සාලිය පිරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් සිය සේවාදායකයා අත්අඩංගුවට ගැනීමට තරම් ප්‍රමාණවත් සාක්ෂි ඉදිරිපත් වී නොමැති බව සඳහන් කළේය.
-
-ඔහු විසින් සිදුකර තිබෙන්නේ තුසිත හල්ලොලුව නමැත්තාට නීතිඥවරයෙකු වශයෙන් වෘත්තීය සේවාව සැපයීම පමණක් බවත්, ඔහු කිසිදු අපරාධ ක්‍රියාවකට සම්බන්ධ නොමැති බවත් සාලිය පිරිස් මහතා කරුණු පෙන්වා දී ඇත.
-
-ඒ අනුව ඉදිරිපත් වූ කරුණු සලකා බැලූ අභියාචනාධිකරණ විනිසුරු මඩුල්ල මෙම අතුරු තහනම් නියෝගය දින 14ක කාලයකට බල පැවැත්වෙන පරිදි නිකුත් කළේය.
-
-◼️
-
-[Data](articles/6dcd640f.json)
-
----
-
-### ලංවිම සියලු වෘත්තිය සමිති හෙට අකුරට වැඩ
-
-*2025-09-03 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214140) · `si`
-
-ලංකා විදුලිබල මණ්ඩලයේ සියලුම වෘත්තිය සමිති හෙට (04) අකුරට වැඩ කිරීමේ වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කිරීමට තීරණය කර ඇත.
-
-ඒ, ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීම සහ සේවක ඉල්ලීම් කිහිපයක් මුල්කරගනිමිනි.
-
-ඒ ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමේ ක්‍රියාවලිය, අනීතික අයුරින් සේවකයින් දැඩි අපහසුතාවයට පත්කරමින් සිදුකිරීම, හිඟ දිරි දීමනා සහ උසස්වීම් ඇතුළු ඉල්ලීම් 16ක් මුල්කරගනිමින්.
-
-◼️
-
-[Data](articles/462c9135.json)
-
----
-
-### வாய்க்காலில் விழுந்த  முச்சக்கர வண்டி – சாரதி வைத்தியசாலையில் அனுமதி
-
-*2025-09-03 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224144) · `ta`
-
-இச்சம்பவம் புதன்கிழமை (03) புதன்கிழமை  அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட வீரமுனை நூலகத்திற்கு அருகாமையில்  இடம்பெற்றுள்ளது.
-
-இவ்விபத்தில்  26 வயதுடைய சம்மாந்துறை மஜீட்புரம் பகுதியைச் சேர்ந்த முச்சக்கர வண்டி சாரதி காயமடைந்த நிலையில் சம்மாந்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/6d5e5ba0.json)
-
----
-
-### சமீரவின் கட்டுப்பாடான பந்துவீச்சு, நிஸ்ஸன்க, கமிந்துவின் துடுப்பாட்டங்கள்  இலங்கைக்கு வெற்றி ஈட்டிக்கொடுத்தன
-
-*2025-09-03 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224139) · `ta`
-
-ஸிம்பாப்வேக்கு எதிராக ஹராரே விளையாட்டுக் கழக மைதானத்தில் இன்று புதன்கிழமை (03) நடைபெற்ற முதலாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 4 விக்கெட்களால் இலங்கை வெற்றிபெற்றது.
-
-சர்வதேச ரி20 கிரிக்கெட் வரலாற்றில் ஸிம்பாப்வே மண்ணில் விளையாடிய முதல் சந்தர்ப்பத்திலேயே இலங்கை வெற்றியை சம்பாத்தித்துக்கொண்டது.
-
-துஷ்மன்தவின் கட்டுப்பாடான பந்துவீச்சு, பெத்தும் நிஸ்ஸன்க குவித்த அரைச் சதம், கமிந்து மெண்டிஸின் அதிரடி துடுப்பாட்டம் என்பன இலங்கையை வெற்றிபெறச் செய்தன.
-
-ஸிம்பாப்வேயினால் நிர்ணயிக்கப்பட்ட 176 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 19.1 ஓவர்களில் 4 விக்கெட்களை இழந்து 176 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
-
-பெத்தும் நிஸ்ஸன்க, குசல் மெண்டிஸ் ஆகிய இருவரும் 61 பந்துகளில் 96 ஓட்டங்களைப் பகிர்ந்து சிறப்பான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
-
-தொடர்ந்து குசல் பெரேரா (4), அணித் தலைவர் சரித் அசலன்க (1), 4ஆம் இலக்கத்தில் பரீட்சிக்கப்பட்ட நுவனிது பெர்னாண்டோ (7), தசுன் ஷானக்க (6) ஆகியோர் சீரான இடைவெளியில் ஆட்டம் இழந்தனர். (142 - 6 விக்.)
-
-...
-
-[Data](articles/d3adbb31.json)
-
----
-
-### Negligent police officers must resign or be removed – President
-
-*2025-09-03 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112147/negligent-police-officers-must-resign-or-be-removed-president) · `en`
-
-President Anura Kumara Dissanayake emphasized that no crime should be concealed by the passage of time and that time will never be an obstacle in bringing criminals to justice.
-
-He assured that the incumbent government is determined to punish crimes without any discrimination, regardless of when or where they were committed.
-
-The President made these remarks while addressing the 159th Police Day celebrations held this afternoon (03) at the Thimbirigasyaya Police Stadium, under the theme “Let’s Protect the Law – Let’s Value Peace.”
-
-Highlighting the grave responsibility of the Police Department in curbing the drug menace and crimes committed using illegal weapons—both of which pose major social challenges today—the President affirmed that the government will safeguard police officers who perform their duties diligently.
-
-He further urged officers to carry out their responsibilities fearlessly.
-
-...
-
-[Data](articles/6f42a776.json)
-
----
-
-### පද්මේගේ මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් නුවරඑළියේ
-
-*2025-09-03 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214139) · `si`
-
-කෙහෙල්බද්දර පද්මේ විසින් මෙරට තුළ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයක් නුවරඑළිය ප්‍රදේශයේ පවත්වාගෙන ගිය බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කරුණු අනාවරණ කරගෙන තිබේ.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවාගෙන සිටින කෙහෙල්බද්දර පද්මේගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම්වලදී මේ බව හෙළ වී ඇත.
-
-සැකකරු විසින් ඒ සඳහා රුපියල් ලක්ෂ 40කට අධික මුදලක් යොදවා ඇති බවත්, ඊට නුවරඑළිය ප්‍රදේශයේ නිවසක් කුලියට ලබාගෙ ඇති බවත් වැඩිදුර ප්‍රශ්නකිරීම් වලදී පවසා තිබේ.
-
-තවද ඒ සඳහා අවශ්‍ය කරනු ලබන රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 2,000ක් පමණ මෙරටට ගෙන්වා ඇති බවත් සැකකරු පවසා ඇත.
-
-◼️
-
-[Data](articles/10e7f435.json)
-
----
-
-### Putin says he is ready to meet Zelenskiy if he comes to Moscow
-
-*2025-09-03 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112146/putin-says-he-is-ready-to-meet-zelenskiy-if-he-comes-to-moscow) · `en`
-
-Russian President Vladimir Putin said on Wednesday that he was ready to hold talks with Volodymyr Zelenskiy if the Ukrainian president came to Moscow, but said it remained to be seen whether such a meeting was worthwhile.
-
-Zelenskiy has been pressing to meet Putin to discuss the terms of a possible deal and U.S. President Donald Trump - who has been trying to broker a peace settlement - has said he wants the two leaders to meet.
-
-Speaking in China at the end of a visit there, Putin said he had always been open to meeting Zelenskiy but reiterated the Kremlin’s oft-repeated stance that such a meeting had to be well prepared in advance and lead to tangible results.
-
-“As for a meeting with Zelenskiy I have never ruled out the possibility of such a meeting. But is there any point? Let’s see,” said Putin.
-
-The Russian leader said that in his view Ukraine needed to cancel martial law, hold elections, and hold a referendum about territorial questions if progress was to be made.
-
-...
-
-[Data](articles/48e80fe4.json)
-
----
-
-### රත්නපුර - පානදුර ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීමක්
-
-*2025-09-03 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214138) · `si`
-
-රත්නපුර, සබරගමුව මහ සමන් දේවාලයේ වාර්ෂික ඇසල පෙරහර වෙනුවෙන් රත්නපුර පානදුර ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීමට සිදුවන බව පොලීය දැනුම් දී තිබේ.
-
-ඒ අනුව, 2025.09.03 වන අද දින සිට 2025.09.08 වන දින දක්වා රත්නපුර - පානදුර ප්‍රධාන මාර්ගයේ පහත පරිදි වීථි සංචාරය කිරීමට නියමිතව ඇත.
-
-එම දිනයන්හී දී සවස 0600 සිට පසු දින අළුයම 0200 දක්වා පෙරහර වීථී සංචාරය කිරීමට සැලසුම් කර ඇත.
-
-එබැවින් එම පෙරහර ගමන් ගන්නා කාලය තුල රත්නපුර පානදුර ප්‍රධාන මාර්ගයේ මොරගහයට හන්දියේ සිට කහංගම දක්වා ගමනාගමනය සීමා කරන අතර එම කාලය තුල මාර්ගය භාවිතා කරන මහජනතාව සහ රියදුරන් පහත විකල්ප මාර්ගයන් භාවිතා කරන ලෙස පොලීසිය ඉල්ලා සිටී.
-
-* රත්නපුර දෙස සිට සමන් දේවාලය හරහා පානදුර දෙසට ගමන් කරන රථ වාහන නව නගරයේ සිට කැටලියන්පල්ල හරහා කපුගම්පිටිය දක්වා ගමන් කර දකුණට හැරී පානදුර දෙසට ගමන් කල හැක.
-
-* රත්නපුර දෙස සිට සමන් දේවාලය හරහා පානදුර දෙසට ගමන් කරන රථ වාහන කුරුවිට සිට කොස්ගල හරහා කහංගම දක්වා ගමන් කර කහංගම හන්දියෙන් දකුණට හැරී පානදුර දෙසට ගමන් කල හැක.
-
-...
-
-[Data](articles/135e6b81.json)
 
 ---

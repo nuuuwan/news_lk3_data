@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 10:08:42**
+As of **2025-09-04 10:21:06**
 
 ## Newspaper Stats
 
-*Scraped **74,075** Articles*
+*Scraped **74,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ islandlk | 4,554
 dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,156
-adaderanalk | 9,450
-tamilmirrorlk | 11,018
-virakesarilk | 12,114
+adaderanalk | 9,454
+tamilmirrorlk | 11,019
+virakesarilk | 12,116
 adaderanasinhalalk | 12,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.7%) of 74,075 articles have been extended.
+61,973 (83.7%) of 74,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### இலங்கையின் பொருளாதார வளர்ச்சிக்கு வெளிநாட்டு முதலீடுகளை ஈர்ப்பது முக்கியமானது - ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்ட ஆரம்ப நிகழ்வில் ஜப்பானிய தூதுவர்
+
+*2025-09-04 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/224161) · `ta`
+
+இலங்கையின் பொருளாதார வளர்ச்சிக்கு வெளிநாட்டு முதலீடுகளை ஈர்ப்பது மிகவும் முக்கியமானது எனவும் ஊழலை ஒழிப்பது, உள்கட்டமைப்பை மேம்படுத்துவது, வணிகச் சூழலை மேம்படுத்துவது மற்றும் தெளிவான தொழில்துறை மேம்பாட்டுக் கொள்கைகளை உருவாக்குவது ஆகியவை முதலீடுகளை ஈர்ப்பதற்கு அவசியமானவை என்றும் ஜப்பானிய தூதுவர் அகியோ இசொமாட்டா தெரிவித்தார்.
+
+ஜப்பான் அரசின் 65 மில்லியன் அமெரிக்க டொலர் நிதியுதவியில் ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்டம் புதன்கிழமை (செப்டம்பர் 3) ஆரம்பித்து வைக்கப்பட்ட நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே ஜப்பானி தூதுவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜப்பானிய தூதுவர் அகியோ இசொமாட்டா, எரிசக்தி அமைச்சர் குமார ஜயக்கொடி, இலங்கை மின்சார சபையின் பொது முகாமையாளர் வசந்த எதிரிசூரிய, மற்றும் ஜைக்கா நிறுவனத்தின் இலங்கைக்கான தலைமைப் பிரதிநிதி கென்ஜி குரோனுமா ஆகியோர் ஹபரணை - வேயாங்கொட மின் பரிமாற்றத் திட்டத்தின்  ஆரம்ப நிகழ்வில் விழாவில் கலந்துகொண்டார்.
+
+...
+
+[Data](articles/19af9ba2.json)
+
+---
+
+### நாட்டில் ஆண்டுதோறும் 200 சிறுவர்கள் புற்றுநோயால் உயிரிழக்கின்றனர் - தேசிய புற்றுநோய் கட்டுப்பாட்டு திட்டம்
+
+*2025-09-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224160) · `ta`
+
+நாட்டில் ஆண்டுதோறும் 200 சிறுவர்கள் புற்றுநோயால் உயிரிழக்கின்றனர்  என தேசிய புற்றுநோய் கட்டுப்பாட்டு திட்டத்தின் சமூக விசேட வைத்திய நிபுணர் சுராஜ் பெரேரா தெரிவித்துள்ளார்.
+
+முறையான மருத்துவ சிகிச்சை மூலம் இந்த  நிலைமையைக் குறைக்க முடியும் எனவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+
+சுகாதார மேம்பாட்டுப் பணியகம் நடத்திய ஊடக சந்திப்பில் பங்கேற்ற வைத்தியர் சுராஜ் பெரேரா இந்தக் கருத்துக்களைப் பகிர்ந்து கொண்டார்.
+
+"2022 ஆம் ஆண்டில், அடையாளம் காணப்பட்ட புற்றுநோய் நோயாளிகளில், 904 பேர் சிறுவர்கள் ஆவர்.
+
+கடந்த 15 ஆண்டுகளுக்கான தரவுகளைப் பார்க்கும்போது சிறுவர் பருவ புற்றுநோய் நோயாளிகளின் எண்ணிக்கை அதிகரித்து காணப்படவில்லை என்பது தெளிவாகக் காட்டுகிறது.  இந்த எண்ணிக்கை பொதுவாக 600 முதல் 800 வரம்பிற்குள் இருந்தது. தற்போது, ஆண்டுதோறும் சுமார் 900 சிறுவர் பருவ புற்றுநோயாளர்கள் பதிவாகின்றன.
+
+தலைமை பதிவாளர் திணைக்களத்தின் கூற்றுகளின் படி, 2019 ஆம் ஆண்டில் சுமார் 200 சிறுவர்கள் புற்றுநோயால் உயிரிழந்துள்ளனர்.
+
+...
+
+[Data](articles/236acc6a.json)
+
+---
+
+### பரமசிவன் கழுத்தில் இருந்து பாம்பு கேட்டது
+
+*2025-09-04 09:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பரமசிவன்-கழுத்தில்-இருந்து-பாம்பு-கேட்டது/62-364012) · `ta`
+
+◼️
+
+[Data](articles/faec7a5a.json)
+
+---
 
 ### හබරණදී දුම්රිය ගැටී වනඅලියෙකු තුවාල ලබයි
 
@@ -56,9 +104,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### போர்த்துக்கல் - லிஸ்பனில் ரயில் கேபிள் கார் பாதையில் விபத்து ; 15 பேர் பலி!
+### போர்த்துக்கல் - லிஸ்பனில் ரயில் கேபிள் கார் விபத்து ; 15 பேர் பலி!
 
-*2025-09-04 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224158) · `ta`
+*2025-09-04 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/224158) · `ta`
 
 போர்த்துக்கல்லின் தலைநகரான லிஸ்பனில் உள்ள 140 ஆண்டுகள் பழமையான குளோரியா ஃபுனிகுலர் எனும் ரயில் கேபிள் கார் தடம் புரண்டு விபத்துக்குள்ளானதில் 15 பேர் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
 
@@ -102,6 +150,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Grade 5 scholarship exam: Top performers revealed
+
+*2025-09-04 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112163/grade-5-scholarship-exam-top-performers-revealed) · `en`
+
+According to the results of the 2025 Grade 5 Scholarship Examination, the highest-scoring student in the Sinhala medium is from the Galle District, the Commissioner General of Examinations, A.K.S. Indika Kumari stated.
+
+Meanwhile, in the Tamil medium, the highest score of 194 was obtained by a student from the Jaffna District.
+
+This was announced by the Commissioner General of Examinations, A.K.S. Indika Kumari, during a special media briefing this morning (04).
+
+The results of the 2025 Grade 5 Scholarship Examination were released online, last night (03).
+
+Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
+
+The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
+
+According to the Commissioner General of Examinations a total of 901 students with special needs sat for the exam this year, including 12 candidates who used Braille scripts.
+
+◼️
+
+[Data](articles/d17b269c.json)
+
+---
+
 ### சிறுமி மாயம் ; வெள்ளை நிற வேன் மீது சந்தேகம்
 
 *2025-09-04 08:52:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-மாயம்-வெள்ளை-நிற-வேன்-மீது-சந்தேகம்/76-364009) · `ta`
@@ -138,6 +210,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### UAE warns Israel that annexing West Bank would cross ‘red line’
+
+*2025-09-04 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112162/uae-warns-israel-that-annexing-west-bank-would-cross-red-line) · `en`
+
+The United Arab Emirates has warned Israel that annexing the occupied West Bank would cross a “red line” and undermine the spirit of the Abraham Accords that normalised relations between the two countries.
+
+A senior Emirati official, Lana Nusseibeh, said such a move would be the death knell of the two-state solution to the Israeli-Palestinian conflict.
+
+The Palestinian Authority’s foreign ministry said it welcomed the UAE’s position.
+
+The Israeli government has not commented. But Nusseibeh’s remarks came after far-right Finance Minister Bezalel Smotrich unveiled a proposal for the annexation of approximately four-fifths of the West Bank.
+
+Israel has built about 160 settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem - land Palestinians want, along with Gaza, for a hoped-for future state - during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them.
+
+...
+
+[Data](articles/0855665d.json)
+
+---
+
+### 200 children with cancer die annually in Sri Lanka: NCCP
+
+*2025-09-04 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112160/200-children-with-cancer-die-annually-in-sri-lanka-nccp) · `en`
+
+Approximately 200 children with cancer die annually in Sri Lanka, according to Dr. Suraj Perera, a Consultant Community Physician attached to the National Cancer Control Programme (NCCP).
+
+He emphasized that this situation can be mitigated through proper medical treatment.
+
+Dr. Suraj Perera shared these views while participating in a media briefing held by the Health Promotion Bureau.
+
+“In 2022, out of all cancer patients identified, 904 were children diagnosed with cancer. When we look at data over the past 15 years, it clearly shows that there hasn’t been a significant increase in childhood cancer cases. The numbers have typically remained within the 600 to 800 range. Now, around 900 cases of childhood cancer are being reported annually.
+
+According to the Department of the Registrar General, around 200 children died of cancer in 2019, and although the data from 2020 was also collected, it has now been officially reported that on average, about 200 children with cancer die each year.
+
+...
+
+[Data](articles/ed95cc65.json)
+
+---
+
 ### இன்று கடும் மழை
 
 *2025-09-04 08:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கடும்-மழை/175-364005) · `ta`
@@ -167,6 +279,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6e398379.json)
+
+---
+
+### 44 complaints related to teenage pregnancies lodged in first seven of 2025
+
+*2025-09-04 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112158/44-complaints-related-to-teenage-pregnancies-lodged-in-first-seven-of-2025) · `en`
+
+The National Child Protection Authority (NCPA) states that 44 complaints related to teenage pregnancies have been received during the first seven months of this year.
+
+The Authority pointed out that these complaints were received during the period from January 1 to July 31 of this year.
+
+During this period, the NCPA received a total of 5,461 complaints related to children, out of which 4,501 fall under the National Child Protection Authority Act, while 960 complaints are not covered by the Act.
+
+During the first seven months of this year, the NCPA received 141 complaints related to serious sexual abuse of children, 330 complaints of sexual harassment, and 32 complaints of rape.
+
+The highest number of complaints during this period were related to child cruelty, totaling 1,126, the NCPA stated.
+
+There were also 125 complaints regarding child trafficking, and 82 complaints related to child labor.
+
+...
+
+[Data](articles/4b9de765.json)
 
 ---
 
@@ -891,6 +1025,14 @@ Sri Lanka authorities are planning to test EVs after the dispute over motor powe
 *2025-09-04 01:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112149/grade-5-scholarship-exam-cut-off-marks-released) · `en`
 
 The district-level cut-off marks of the Grade 5 Scholarship Examination 2025 have been released by the Department of Examination.
+
+The results of the 2025 Grade 5 Scholarship Examination were released online, last night (03).
+
+Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
+
+The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
+
+According to the Commissioner General of Examinations a total of 901 students with special needs sat for the exam this year, including 12 candidates who used Braille scripts.
 
 ◼️
 
@@ -1639,115 +1781,5 @@ The Global Federation of Sri Lankan Business Councils (GFSLBC) held its inaugura
 ◼️
 
 [Data](articles/2d52b394.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் சர்ச்சைக்குரிய கைது, குற்றச்சாட்டு, விளக்கமறியல், பிணையில் விடுதலை
-
-*2025-09-03 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86391) · `en`
-
-முன்னாள் இலங்கை ஜனாதிபதி ரணில் விக்கிரமசிங்க 2025 ஆகஸ்ட் 22 ஆம் திகதி வெள்ளிக்கிழமை இலங்கை பொலிஸின்  குற்றவியல் புலனாய்வு திணைக்களத்தினால் (சி.ஐ.டி.)  கைது செய்யப்பட்டார். அதை அடுத்து அவர் கொழும்பு கோட்டை மாஜிஸ்திரேட் முன்னிலையில் ஆஜர் செய்யப்பட்டதை தொடர்ந்து 2025 ஆகஸ்ட் 26  ஆம் திகதி வரை விளக்கமறியில் வைக்கப்பட்டார்.  கடந்த காலத்தில் ஆறு தடவைகள் பிரதமராக பதவி வகித்த 76 வயதான விக்கிரமசிங்க இலங்கையின் வரலாற்றில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட முதலாவது முன்னாள் ஜனாதிபதியாவார்.
-
-...
-
-[Data](articles/948df39b.json)
-
----
-
-### இத்தாலியின் பிரதி அமைச்சர் வந்தடைந்தார்
-
-*2025-09-03 17:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இத்தாலியின்-பிரதி-அமைச்சர்-வந்தடைந்தார்/175-363978) · `ta`
-
-இத்தாலியின் வெளிவிவகார மற்றும் சர்வதேச ஒத்துழைப்புக்கான பிரதி அமைச்சர் மரியா த்ரிபோடி (Maria Tripodi), மூன்று நாள் விஜயத்தை மேற்கொண்டு‌ புதன்கிழமை (03) நாட்டை வந்தடைந்தார்
-
-சுமார் ஒரு தசாப்தத்திற்கு பின்னர் இத்தாலியில் இருந்து இலங்கைக்கு மேற்கொள்ளப்படும் அதி உயர்மட்ட விஜயமாக இவரது விஜயம் கருதப்படுகின்றது.
-
-, இலங்கை-இத்தாலி அரசியல் ஆலோசனைகளின் தொடக்க அமர்வில், வௌிவிவகாரம் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திரவுடன் இணை தலைமை வகிக்கவுள்ளார்
-
-◼️
-
-[Data](articles/f4373d35.json)
-
----
-
-### ශිෂ්‍යත්ව ප්‍රතිඵල අද රාත්‍රියේ දී
-
-*2025-09-03 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214132) · `si`
-
-මෙවර 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල අද (3) රාත්‍රියේ දී නිකුත්කිරීමට බලාපොරොත්තුව වන බව විභාග දෙපාර්තමේන්තුව පැවසීය.
-
-2025 පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාගය පසුගිය අගෝස්තු මස 10වනදා පැවැත්විණි.
-
-ඒ සඳහා දිවයින පුරා විභාග මධ්‍යස්ථාන 2,787කදී අයදුම්කරුවන් 307,951 දෙනෙකු විභාගයට මුහුණ දුන්හ.
-
-◼️
-
-[Data](articles/26ae98cb.json)
-
----
-
-### Over 1,600 illegal firearms taken into custody so far this year - IGP
-
-*2025-09-03 17:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112143/over-1600-illegal-firearms-taken-into-custody-so-far-this-year-igp) · `en`
-
-Sri Lanka’s Inspector General of Police (IGP) Priyantha Weerasuriya says that 1,612 illegal firearms have been taken into custody so far this year.
-
-Addressing the 159th Police Day commemoration event in Colombo, he also revealed that 17 criminals involved in organised crime have been brought back to the island from overseas recently.
-
-He added that organised criminals, transnational organised criminals and other criminals are currently being arrested continuously and that 17 individuals who were involved in crimes in this country while operating from foreign countries have been arrested and brought back to the island in the recent period.
-
-The IGP also stated that the arrest of five prominent members of a criminal gang hiding in Jakarta, the capital of Indonesia, in collaboration with Interpol, was a great achievement for the Sri Lankan Police Department.
-
-...
-
-[Data](articles/d9fb15af.json)
-
----
-
-### Ranil’s Arrest Triggers Politics Of Accountability
-
-*2025-09-03 17:40:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-arrest-triggers-politics-of-accountability/) · `en`
-
-The after effects of years of lawless politics and lack of accountability among the political class and government servants are coming home to roost Sri Lanka after the National Peoples Power (NPP) government led by President Anura Kumara Dissanayake (AKD) arrested former President Ranil Wickremesinghe on criminal charges for alleged misuse of public funds on August 22. The arrest of Wickremesinghe had triggered a rare display of unity among leading opposition political parties who came together to address a press conference on August 24, with a slogan “Let’s Defeat the Constitutional Dictatorship.” Many political leaders who had been opposing the former president addressed the media conference. These included National Freedom Front leader Wimal Weerawansa, former President Maithripala Sirisena and Sri Lanka Muslim Congress Leader Rauff Hakeem.
-
-...
-
-[Data](articles/df994058.json)
-
----
-
-### පොලීසියේ 30000ක නිලධාරී හිඟයක් - පුරප්පාඩු පිරවීමට ගත් ක්‍රියාමාර්ග පොලිස්පති කියයි
-
-*2025-09-03 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214131) · `si`
-
-නීතිය සුරැකිමු - සාමය අගයමු යන්න තේමාව කරගනිමින් 159 වන පොලිස් දින සැමරුම් උත්සවය මේ වනවිට බම්බලපිටිය පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථාන ක්‍රීඩා පිටියේදී පැවැත්වෙයි.
-
-සැමරුම් උත්සවයේ ප්‍රධාන ආරාධිත අමුත්තා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්වී සිටින අතර අමාත්‍යවරුන්, නියෝජ්‍ය අමාත්‍යවරුන්, අමාත්‍යාංශ ලේකම්වරුන් ඇතුළු සම්භාවනීය අමුත්තන් රැසක් මෙම අවස්ථාවටට එක්වී සිටී.
-
-උත්සව සභාව වෙත පැමිණි ජනාධිපතිවරයා පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් පිළිගත් අතර පසුව ජනාධිපතිවරයා වෙත විශේෂ පොලිස් උත්තමාචාරයක් ද පිරිනැමුණි.
-
-ඉන් අනතුරුව උත්සව සභාවේ කටයුතු ආරම්භ කෙරුණු අතර එහිදී අදහස් දැක්වූ පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා මේ දක්වා පොලිස් දෙපාර්තමේන්තුව ලබා ඇති ප්‍රගතිය පිළිබඳ අදහස් පළ කළේය.
-
-මේ වනවිට සංවිධානාත්මක අපරාධකරුවන්, සංක්‍රාන්ත්‍රික අපරාධකරුවන් ඇතුළු අපරාධකරුවන් අත්අඩංගුවට ගැනීම සිදුකරමින් පවතින අතර පසුගිය කාලසීමාව තුළ විදෙස් රටවල සිට මෙරට අපරාධ මෙහෙයවූ 17 දෙනෙකු අත්අඩංගුවට ගෙන දිවයිනට රැගෙනවිත් ඇති බවද සඳහන් කළේය.
-
-...
-
-[Data](articles/f7a97fed.json)
-
----
-
-### අවුරුදු 14ක අපයෝජනය කළ සුළු පියා වසර 15ක් හිරේට
-
-*2025-09-03 17:33:59* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14ක-අපයෝජනය-කළ-සුළු-පියා-වසර-15ක්-හිරේට/11-418266) · `si`
-
-බිරිඳගේ මුල් විවාහයේ වයස අවුරුදු 14ක දැරියක් ස්ත‍්‍රී  අපයෝජනය කල සැකකාර සුලූපියාට එම වරදට වරදකරු කරමින් වසර 15ක බරපතල වැඩ සහිත සිර දඬුවමක් නියම කළ කුලියාපිටිය පළාත්බද මහාධිකරණ විණිසුරු මනෝජ් තල්ගොඩපිටිය මහතා වින්ධිත දැරියට රුපියල් ලක්‍ෂ දෙකක වන්ධි මුදලක් ගෙවීමටද නියම කළේය.
-
-එසේම සිර දඩුවමට අමතරව රුපියල් පන්දහසක දඩමුදලක්ද නියම කළ විනිසුරුවරයා වන්ධිය නොගෙවන්නේනම් අමතර වසරක ලිහිල් වැඩ සහිත සිරද`ඩුවමක් හා දඩය නොගෙවන්නේනම් ඊටද මසක ලිහිල් සිරද`ඩුවමක් එහිදී වැඩිදුරටත් නියමකර තිබිණ.
-
-කුලියාපිටිය වීරඹුව ප‍්‍රදේශයේ පදිංචිකරුවෙකු වූ වීරසිංහ ගමගේ සම්පත් නන්දකුමාර නොහොත් සාගර නැමැත්තෙකු එසේ වරදකරු කරමින් ඉකුත් 29 දා එසේ ද`ඩුවම් නියමකර තිබිණ.
-
-...
-
-[Data](articles/6c08fd22.json)
 
 ---

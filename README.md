@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 17:06:19**
+As of **2025-09-04 17:18:17**
 
 ## Newspaper Stats
 
-*Scraped **74,164** Articles*
+*Scraped **74,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 7,168
 adaderanalk | 9,472
 tamilmirrorlk | 11,041
 virakesarilk | 12,123
-adaderanasinhalalk | 12,886
+adaderanasinhalalk | 12,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,164 articles have been extended.
+61,973 (83.6%) of 74,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### ගංජා පානය කර මගී බස් රථයක් ධාවනය කළ රියදුරෙක් අත්අඩංගුවට
+
+*2025-09-04 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214175) · `si`
+
+බේරුවල පොලීසියේ රථවාහන අංශයේ නිලධාරීන් විසින් අද (04) බේරුවල නගරයේ බස්රථ රියදුරන් සඳහා දැනුවත් කිරීමේ මෙහෙයුමක් දියත් කර තිබුණි.
+
+එහිදී අලුත්ගම - කළුතර පෞද්ගලික බස් රථ රියදුරකු සම්බන්ධයෙන් ඇතිවූ සැකයක් මත එම රියදුරු පොලිස් භාරයට ගෙන පරීක්ෂා කර ඇත.
+
+අදාළ රියදුරා කළුතර ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහු ගංජා පානය කර ඇති බවට තහවුරු වී තිබේ.
+
+ඒ අනුව පොලිසීය සැකකාර  41 හැවිරිදි රියදුරාව අත්අඩංගුවට ගැනීමට කටයුතු කර ඇත.
+
+වෛද්‍ය වාර්තා අනුව තවදුරටත් තහවුරු වී ඇත්තේ ඔහු කාලයක් තිස්සේ ගංජා පානයට ඇබ්බැහි වූ පුද්ගලයෙකු බවය.
+
+සැකකරු කළුතර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර බේරුවල පොලීසිය යටතේ ඉදිරි විමර්ශන ක්‍රියාත්මක කරයි.
+
+◼️
+
+[Data](articles/5127bf7b.json)
+
+---
+
+### කොළඹ ප්‍රදේශ කිහිපයකට පැය 09ක ජල කප්පාදුවක්
+
+*2025-09-04 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214174) · `si`
+
+කොළඹ ප්‍රදේශ කිහිපයකට අනිද්දා (06) පැය 09ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව පෙ.ව 10.30 සිට ප.ව 07.30 දක්වා කාලය තුළ මෙලෙස ජල සැපයුම අත්හිටුවන බව වාර්තා වේ.
+
+කොළඹ 01 සිට 15 දක්වා ප්‍රදේශවල මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
+
+එමෙන්ම බත්තරමුල්ල, පැලවත්ත, හෝකන්දර, කොස්වත්ත. තලවතුගොඩ, කෝට්ටේ. රාජගිරිය, මිරිහාන. මාදිවෙල, නුගේ ගොඩ. නාවල, කොළොන්නාව, IDH, කොටිකාවත්ත, අංගොඩ, වැල්ලම්පිටිය, ඔරුගොඩවත්ත, මුල්ලේරියාව, මහරගම. බොරලැස්ගමුව, දෙහිවල, රත්මලාන, මොරටුව යන ප්‍රදේශ කිහිපයකට ද ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1e121be5.json)
+
+---
 
 ### නැගෙනහිර යුරෝපයේ ගූගල් සේවාවන් බිඳ වැටේ
 
@@ -1801,39 +1841,5 @@ In response, Israeli Prime Minister Benjamin Netanyahu dismissed the statement a
 ...
 
 [Data](articles/8bb616a1.json)
-
----
-
-### Court issues order preventing arrest of attorney appeared for Thusitha Halloluwa
-
-*2025-09-04 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112156/court-issues-order-preventing-arrest-of-attorney-appeared-for-thusitha-halloluwa) · `en`
-
-The Court of Appeal has issued an interim restraining order preventing the Colombo Crimes Division from arresting an attorney-at-law in connection with the ongoing investigation into the shooting incident involving former Director of the National Lotteries Board, Thusitha Halloluwa.
-
-This order was issued by a bench comprising President of the Court of Appeal Justice Rohantha Abeysooriya and Justice Priyantha Fernando, following the consideration of a petition submitted to the court.
-
-President’s Counsel Saliya Pieris, appearing on behalf of the petitioner, argued before the court that there was insufficient evidence to justify the arrest of his client.
-
-He further stated that the individual in question had only provided professional legal services to Thusitha Halloluwa in his capacity as an attorney-at-law, and had no involvement whatsoever in any criminal activity.
-
-...
-
-[Data](articles/2b2accfc.json)
-
----
-
-### විදුලි සේවකයින් අද සිට අකුරට වැඩ
-
-*2025-09-04 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214147) · `si`
-
-අත්තනෝමතික ලෙස ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙලට විරෝධය පල කරමින් අද (04) මධ්‍යම රාත්‍රී සිට දිවයින පුරා අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය නිරත වන බව විදුලි සේවක වෘත්තීය සංගම් පවසයි.
-
-ලංකා විදුලිබල මණ්ඩලයේ කාර්මික ශිල්පීන්ගේ සංගමයේ සභාපති කෝසල අබේසිංහ මහතා පැවසුවේ, මෙම වෘත්තීය සමිති ක්‍රියාමාර්ගය අදියර කිහිපයක් යටතේ ක්‍රියාත්මක කරන බවය.
-
-සිය ගැටලුවලට විසඳුම් ලබාදීමට බලධාරීන් පියවර නොගතහොත් ඉදිරියේ දී මෙම වෘත්තීය ක්‍රියාමාර්ගය තවදුරටත් තිව්‍ර කරන බව ද කෝසල අබේසිංහ මහතා පැවසුවේය.
-
-◼️
-
-[Data](articles/5908806e.json)
 
 ---

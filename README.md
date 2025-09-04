@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 23:20:13**
+As of **2025-09-04 23:32:54**
 
 ## Newspaper Stats
 
-*Scraped **74,224** Articles*
+*Scraped **74,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,177
 adaderanalk | 9,478
-tamilmirrorlk | 11,049
+tamilmirrorlk | 11,050
 virakesarilk | 12,137
 adaderanasinhalalk | 12,900
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,224 articles have been extended.
+61,973 (83.5%) of 74,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### எல்ல - வெல்லவாய வீதியில் கோர விபத்து ; இருவர் மரணம்
+
+*2025-09-04 23:07:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-வீதியில்-கோர-விபத்து-இருவர்-மரணம்/175-364051) · `ta`
+
+எல்ல - வெல்லவாய வீதியில் இன்று இரவு (4) பேருந்து ஒன்று பள்ளத்தில் பாய்ந்து விபத்துக்குள்ளானதில் இருவர் மரணமடைந்த நிலையில் சுமார் 7 பேர் படுக்காயமடைந்துள்ளனர்.
+
+24வது கிலோமீட்டர் தூணுக்கு அருகில் பேருந்து கவிழ்ந்து சுமார் 200 மீட்டர் பள்ளத்திற்கு சென்றுள்ளதாக கூறப்படுகிறது.
+
+எல்லவிற்கு சுற்றுலாவிற்காக சென்ற தங்காலை நகரசபை ஊழியர்கள் குழுவொன்று இந்த விபத்தில் சிக்கியுள்ளனர்..
+
+சுற்றுலாவிற்கு சென்று மீண்டும் தங்காலைக்குத் திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து நிகழ்ந்துள்ளது.R
+
+◼️
+
+[Data](articles/86795012.json)
+
+---
 
 ### எல்ல - வெல்லவாய பிரதான வீதியில் விபத்து : 20 க்கும் மேற்பட்டோர் காயம்
 
@@ -1751,25 +1769,5 @@ Later, the MPs asked that they be allowed to buy the properties.
 ...
 
 [Data](articles/ec0db9a0.json)
-
----
-
-### Jeep modified to resemble an official Police vehicle seized in Kandy
-
-*2025-09-04 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112170/jeep-modified-to-resemble-an-official-police-vehicle-seized-in-kandy) · `en`
-
-A jeep, modified to resemble an official vehicle used by senior police officers, has been taken into custody by the Kandy Headquarters Police.
-
-According to information received by the Kandy Headquarters Police, the vehicle was seized last afternoon (03), and at the time of the seizure, two individuals were inside. Police also reported that two ‘walkie-talkie’ communication devices, similar to those used by police officers, were found in the vehicle.
-
-Except for the front windshield, all other windows of the jeep were fully tinted. Police said the vehicle had been frequently seen operating on roads in Kandy.
-
-It has been reported that on certain occasions, police officers engaged in traffic and road duties had saluted the vehicle, assuming a senior police officer was inside.
-
-The Kandy Headquarters Police are investigating whether the jeep is an assembled vehicle. It has also been reported that a report will be requested from the Department of Motor Traffic in connection with this.
-
-...
-
-[Data](articles/fda23345.json)
 
 ---

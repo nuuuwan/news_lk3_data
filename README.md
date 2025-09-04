@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 15:08:21**
+As of **2025-09-04 15:32:43**
 
 ## Newspaper Stats
 
@@ -38,7 +38,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ අධිකරණයට ඉදිරිපත් කළ මේ වන විට අත්අඩංගුවේ පසුවන බැකෝ සමන් නැමැත්තාගේ බිරිඳ වන ෂාධිකා ලක්‍ෂානි නමැත්තිය ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම සැකකාරිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවට අද (04) ඉදිරිපත් කළේය.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම සැකකාරිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවට අද (04) ඉදිරිපත් කර තිබේ.
 
 ◼️
 
@@ -54,7 +54,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව සැකකරු ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහේස්ත්‍රාත්වරයා නියෝග කර තිබේ.
 
-ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මහතා ගමන්ගත් වාහනයට ඉකුත්දා නාරාහේන්පිට ප්‍රදේශයේදී වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් ඔහුව සැකපිට අත්අඩංගුවට ගෙන මෙලෙස රක්ෂිත බන්ධනාගාරගත කර ඇත.
+ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මොහු තමා ගමන්ගත් වාහනයට ඉකුත්දා නාරාහේන්පිට ප්‍රදේශයේදී වෙඩි තබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් මෙලෙස සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර ඇත.
 
 ◼️
 
@@ -86,7 +86,13 @@ The Cabinet Spokesman said the draft amendments are currently being prepared to 
 
 *2025-09-04 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112176/former-nlb-director-thusitha-halloluwa-further-remanded) · `en`
 
-Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa, has been further remanded until September 18 by the Colombo Magistrate’s Court, said Ada Derana reporter.
+The Colombo Magistrate’s Court today (04) rejected the bail request of Thusitha Halloluwa, the former Director of the National Lotteries Board, who is currently in remand custody in connection with the recent shooting incident involving his vehicle in Narahenpita.
+
+Accordingly, the Colombo Additional Magistrate ordered that Thusitha Halloluwa be remanded until September 18.
+
+Thusitha Halloluwa who was evading court was arrested in Colpetty on August 19.
+
+He was arrested in relation to a shooting incident involving the vehicle of Halloluwa in Narahenpita.
 
 ◼️
 

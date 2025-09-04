@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-04 12:50:13**
+As of **2025-09-04 13:07:36**
 
 ## Newspaper Stats
 
-*Scraped **74,120** Articles*
+*Scraped **74,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,259
 adalk | 7,161
 adaderanalk | 9,461
-tamilmirrorlk | 11,031
+tamilmirrorlk | 11,032
 virakesarilk | 12,118
 adaderanasinhalalk | 12,876
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 12,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.6%) of 74,120 articles have been extended.
+61,973 (83.6%) of 74,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-04 (Thursday)
+
+### “அதை பிடிச்சு இழுத்து உடலுறவு தொந்தரவு”
+
+*2025-09-04 12:47:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதை-பிடிச்சு-இழுத்து-உடலுறவு-தொந்தரவு/175-364030) · `ta`
+
+ஒரு பெண், தனது கணவர் மற்றும் அவரது குடும்பத்தினரால் தனக்கும் தனது குடும்பத்தினருக்கும் உடல் மற்றும் மனரீதியான துன்புறுத்தல்கள் இழைக்கப்பட்டதாகவும், உரிய பாதுகாப்பு வழங்கப்பட வேண்டுமெனவும் கோவை காவல் நிலையத்தில் புகார் அளித்துள்ளார்.
+
+2018ஆம் ஆண்டு சிவகங்கை மாவட்டம், சிங்கம்நறி பகுதியைச் சேர்ந்த சர்குணனை திருமணம் செய்த இந்தப் பெண், தனது கணவர், மாமனார் நீலமேகம், மாமியார் உமாராணி மற்றும் அவர்களது உறவினர்களால் தொடர்ந்து துன்புறுத்தப்பட்டதாகக் கூறுகிறார்.
+
+திருமணத்திற்குப் பின் கோவையில் குடியேறிய இவர், 2020இல் தனது தந்தை இறந்ததாகவும், அதற்கு கணவரின் குடும்பத்தினரால் ஏற்பட்ட மன உளைச்சல் காரணமாக இருக்கலாம் எனவும் தெரிவித்தார்.
+
+மேலும், 2020இல் தனக்கு பிறந்த பெண் குழந்தையை (தற்போது 5 வயது) வளர்த்து வருவதாகவும், கணவர் தரப்பில் இருந்து விவாகரத்து கோரி அறிவிப்பு அனுப்பப்பட்டதாகவும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/26f6661f.json)
+
+---
 
 ### වියත්පුර නිවාස ලබාදීමේ දී පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට ලබාදුන් සහන ඉවතට
 
@@ -1789,23 +1807,5 @@ According to the Commissioner General of Examinations a total of 901 students wi
 ...
 
 [Data](articles/8b84227c.json)
-
----
-
-### Grade 5 Scholarship Exam results released
-
-*2025-09-04 00:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112148/grade-5-scholarship-exam-results-released) · `en`
-
-The results of the 2025 Grade 5 Scholarship Examination have been released online, the Commissioner General of Examinations announced.
-
-Accordingly, the results can be viewed on the department’s official website: www.doenets.lk.
-
-The 2025 Grade 5 Scholarship Examination was held on August 10 at 2,787 centres across the island. A total of 307,951 candidates sat for the exam.
-
-According to the Commissioner General of Examinations a total of 901 students with special needs sat for the exam this year, including 12 candidates who used Braille scripts.
-
-◼️
-
-[Data](articles/72908284.json)
 
 ---

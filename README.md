@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 15:50:23**
+As of **2025-09-05 16:21:17**
 
 ## Newspaper Stats
 
-*Scraped **74,332** Articles*
+*Scraped **74,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ economynextcom | 4,520
 islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,187
-adaderanalk | 9,495
-tamilmirrorlk | 11,062
-virakesarilk | 12,155
-adaderanasinhalalk | 12,917
+adalk | 7,188
+adaderanalk | 9,497
+tamilmirrorlk | 11,063
+virakesarilk | 12,157
+adaderanasinhalalk | 12,918
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,332 articles have been extended.
+61,973 (83.4%) of 74,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### எல்ல பஸ் விபத்து குறித்து மஹிந்த கவலை
+
+*2025-09-05 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224294) · `ta`
+
+எல்ல - வெல்லவாய வீதியில் இடம்பெற்ற பஸ் விபத்து குறித்து முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தனது கவலையை தெரிவித்துள்ளார்.
+
+"துயரத்தில் இருக்கும் குடும்பத்தினருக்கும் அன்புக்குரியவர்களுக்கும் எனது ஆழ்ந்த இரங்கலைத் தெரிவித்துக் கொள்கிறேன், காயமடைந்த அனைவரும் விரைவில் குணமடைய வாழ்த்துகிறேன். இந்த கடினமான தருணத்தில் நாட்டின் எண்ணங்களும் பிரார்த்தனைகளும் உங்களுடன் இருக்கும்," என அவர் தனது  எக்ஸ் தளத்தில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/bf0f2872.json)
+
+---
+
+### ත්‍රීරෝද රථයක් අඩි පනහක පමණ ප්‍රපාතයකට පෙරළෙයි
+
+*2025-09-05 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214209) · `si`
+
+ගම්පොළ සිට හැටන් දක්වා ධාවනය වූ ත්‍රීරෝද රථයක් වටවල ප්‍රදේශයේදී අඩි පනහක් පමණ ප්‍රපාතයකට පෙරළීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේදී එම ත්‍රීරෝද රථය තුළ එකම පවුලේ මව පියා සහ අවුරුදු හතරක් සහ අවුරුදු දෙකක් වයසැති දරුවන් දෙදෙනෙක් ගමන් කර ඇත.
+
+අනතුරින් මව සහ කුඩා දරුවන් දෙදෙනා තුවාල ලබා වටවල ප්‍රාදේශීය රෝහලට ඇතුලත් කර තිබේ.
+
+වංගු සහිත මාර්ගයක් හේතුවෙන් ත්‍රීරෝද රථය පාලනයෙන් ගිලිහීයාම අනතුරට හේතු වී ඇති බව මූලික පරීක්ෂණවලදී අනාවරණය වී ඇති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/c32f5b30.json)
+
+---
+
+### தாய்லாந்து பிரதமராக அனுடின் சார்ன்விரகுல் தெரிவு !
+
+*2025-09-05 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224290) · `ta`
+
+தாய்லாந்து பாராளுமன்ற தேர்தலில் அனுடின் சார்ன்விரகுலை பிரதமராகத்  தெரிவு செய்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+தாய்லாந்தின் மிகவும் சக்திவாய்ந்த அரசியல் வம்சத்தைச் சேர்ந்த பேடோங்டர்ன் ஷினவத்ரா, கம்போடியாவுடனான எல்லைப் பிரச்சினையைக் கையாண்டதில் நெறிமுறை மீறல்களுக்காக கடந்த வாரம் அரசியலமைப்பு நீதிமன்றத்தால் பதவி நீக்கம் செய்யப்பட்டார்.
+
+இதனைத் தொடர்ந்து,  குறித்த பதவிக்கான தேர்தல் நடத்த திட்டமிடப்பட்டு இன்றையதினம் வாக்கெடுப்பு நடைபெற்றது.
+
+வாக்கெடுப்பின் மூலம் தாய்லாந்து நாடாளுமன்றம் பழமைவாத எதிர்க்கட்சியான பூம்ஜைதாய் கட்சியின் தலைவர் அனுடின் சார்ன்விரகுலை நாட்டின் பிரதமராகத் தெரிவு செய்துள்ளது.
+
+◼️
+
+[Data](articles/43fbc6ec.json)
+
+---
+
+### ரொஷான் மஹாநாம ராஜினாமா
+
+*2025-09-05 15:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-மஹாநாம-ராஜினாமா/175-364067) · `ta`
+
+இலங்கை கிரிக்கெட் அணியின் முன்னாள் வீரர் ரொஷான் மஹாநாம, தேசிய விளையாட்டு சபை உறுப்பினர் பதவியில் இருந்து விலகியுள்ளார்.
+
+◼️
+
+[Data](articles/f924743a.json)
+
+---
 
 ### ජෝ බයිඩන්ට සැත්කමක්
 
@@ -90,6 +152,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### තැපෑලට පණ දෙන්න රජය සූදානම්ලු
+
+*2025-09-05 15:03:20* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑලට-පණ-දෙන්න-රජය-සූදානම්ලු/11-418302) · `si`
+
+තැපැල් දෙපාර්තමේන්තුවේ සියලු අඩුපාඩු කඩිනමින් සකසා ජනතාවට වේගවත් පහසු විශ්වාසදායී  තැපැල් සේවාවක් රට තුළ ක්‍රියාත්මක කිරීම සඳහා රජය පියවර ගනිමින් සිටින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍යා  නලින් ද ජයතිස්ස මහතා04 දින ගලේවෙල දී පැවසීය.
+
+වසර පනහකටත් අධික පැරණී ගලේවෙල නගරයේ පැවතී තැපැල් කාර්යාලයේ අබලන් ගොඩනැගිලි ඉවත්කොට පසුගිය අයවැයෙන් වෙන් කෙරුණු රුපියල් මිලියන 14 පමණ මුදලක් වැය කරමින්  මේ  රජයේ පළමු තැපැල් කාර්යාලයට මුල්වල තැබීමේ උත්සවයට එක් වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+ගලේවෙල නගර මධ්‍යයේ  ගොඩනැඟිල්ල සඳහා මුල් ගල තැබීම ප්‍රදේශයේ දේශපාලන අධිකාරිය රාජ්‍ය නිලධාරීන්ගේ  ප්‍රධානත්වයෙන් සුභ මොහොතින් අමාත්‍ය නලින්ද ජයසිස්ස මහතාගේ  සුරතින් සිදු කෙරිණි
+
+...
+
+[Data](articles/1f2c763f.json)
+
+---
+
 ### Cigarette smuggling occurs across Sri Lanka, IPS study finds
 
 *2025-09-05 15:00:00* · [`economynextcom`](https://economynext.com/cigarette-smuggling-occurs-across-sri-lanka-ips-study-finds-239554/) · `en`
@@ -139,6 +217,42 @@ Despite high excise taxes aimed at curbing tobacco use, smuggling continues to u
 ◼️
 
 [Data](articles/d645474d.json)
+
+---
+
+### Thailand’s Anutin Charnvirakul elected PM by parliament
+
+*2025-09-05 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112206/thailands-anutin-charnvirakul-elected-pm-by-parliament) · `en`
+
+Thailand’s Anutin Charnvirakul was elected prime minister on Friday after breezing through a parliamentary vote, trouncing the candidate of the Shinawatra family’s once-dominant ruling party to end a week of chaos and political deadlock.
+
+With the decisive backing of the opposition, Anutin easily passed the threshold of more than half of the lower house votes required to become premier, capping off days of drama and a scramble for power during which he outmanoeuvred the most successful political party in Thailand’s history.
+
+Shrewd dealmaker Anutin has been a mainstay in Thai politics throughout years of turmoil, positioning his Bhumjaithai party strategically between warring elites embroiled in an intractable power struggle and guaranteeing its place in a succession of coalition governments.
+
+Anutin did not speak to the house before the vote, during which he passed the threshold to become premier with a huge lead.
+
+...
+
+[Data](articles/ae8fa237.json)
+
+---
+
+### Cause of Ella bus accident? – Survivor reveals driver’s warning of brake fault
+
+*2025-09-05 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112205/cause-of-ella-bus-accident-survivor-reveals-drivers-warning-of-brake-fault) · `en`
+
+Police stated that initial investigations into the Ella bus accident revealed that the crash occurred due to the bus traveling at excessive speed and the driver losing control.
+
+However, a survivor of the tragedy told the media that the bus driver had complained of a brake fault shortly before the accident.
+
+“At a bend near the waterfall, he said there were no brakes. I was sitting on the bonnet and talking. When the driver said that, the conductor laughed. Someone seated next to him also laughed, saying ‘don’t lie.’ At the next bend, he repeated that there were no brakes. Then we realized the brakes had failed. A vehicle came along at that moment, and the bus went downhill after hitting it. At that time, I thought it was over,” the survivor recounted.
+
+“I woke up to the sound of a small child crying after the bus plunged. I tried to get up with the child and climb out. Then I screamed, and people came,” he added.
+
+...
+
+[Data](articles/99090aba.json)
 
 ---
 
@@ -1609,137 +1723,5 @@ The group was returning back to Tangalle from Ella when they had met with the ac
 ◼️
 
 [Data](articles/e32d6033.json)
-
----
-
-### எல்ல - வெல்லவாய வீதியில் கோர விபத்து ; இருவர் மரணம்
-
-*2025-09-04 23:07:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-வீதியில்-கோர-விபத்து-இருவர்-மரணம்/175-364051) · `ta`
-
-எல்ல - வெல்லவாய வீதியில் இன்று இரவு (4) பேருந்து ஒன்று பள்ளத்தில் பாய்ந்து விபத்துக்குள்ளானதில் இருவர் மரணமடைந்த நிலையில் சுமார் 7 பேர் படுக்காயமடைந்துள்ளனர்.
-
-24வது கிலோமீட்டர் தூணுக்கு அருகில் பேருந்து கவிழ்ந்து சுமார் 200 மீட்டர் பள்ளத்திற்கு சென்றுள்ளதாக கூறப்படுகிறது.
-
-எல்லவிற்கு சுற்றுலாவிற்காக சென்ற தங்காலை நகரசபை ஊழியர்கள் குழுவொன்று இந்த விபத்தில் சிக்கியுள்ளனர்..
-
-சுற்றுலாவிற்கு சென்று மீண்டும் தங்காலைக்குத் திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து நிகழ்ந்துள்ளது.R
-
-◼️
-
-[Data](articles/86795012.json)
-
----
-
-### Bishop Kenneth Fernando Is No More: Lessons From His Life
-
-*2025-09-04 23:03:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/bishop-kenneth-fernando-is-no-more-lessons-from-his-life/) · `en`
-
-The Bishop has passed on to meet his maker. There will be a requiem mass at the Cathedral at 2.30 pm Monday 08.09.2025. May he Rest in Peace.
-
-From Prince of Wales College, he was a highly educated priest whose Oxford training gave him the ability to read the Gospel in Greek at services. In 1970 he was allegedly encouraging the JVP. The IGP warned Bishop Harold de Soysa of Kenneth’s imminent arrest unless he was removed. So he came to Colombo as Diocesan Secretary. His vast contacts there laid the ground for his election as Bishop.
-
-At the requiem mass all kinds of good words will be said of him, with nary a word of his weaknesses that perhaps are unnecessary as, as it is written (Romans 3:23), “For all have sinned and come short of the glory of God;” and (Isaiah 64.6) “We are all infected and impure with sin. When we display our righteous deeds, they are nothing but filthy rags.”
-
-...
-
-[Data](articles/73cce8dd.json)
-
----
-
-### ரயிலில் மோதி பெண் மரணம்
-
-*2025-09-04 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224239) · `ta`
-
-காலி - பெலியத்த ரயில் பாதையில் மினுவாங்கொட பிங்கே பகுதியில் ரயிலில் மோதி பெண் ஒருவர் உயிரிழந்துள்ளார்.
-
-குறித்த பெண்ணின் அடையாளம் இன்னும் உறுதிப்படுத்தப்படவில்லை, மேலும் 3ஆம் திகதி புதன்கிழமை யக்கலமுல்ல பகுதியில் உள்ள ஒரு மருந்தகத்தில் இருந்து எடுக்கப்பட்ட மருந்து பாட்டில் சம்பவ இடத்தில் ஒரு கைப்பையில் இருந்து கண்டெடுக்கப்பட்டது.
-
-சடலம் காலி தேசிய மருத்துவமனையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது, மேலும் சம்பவம் குறித்து காலி பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/d4e728b9.json)
-
----
-
-### දුම්රියේ ගැටීමෙන්  කාන්තාවක් ජීවිතක්ෂයට
-
-*2025-09-04 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214187) · `si`
-
-ගාල්ල - බෙලිඅත්ත අතර දුම්රිය මාර්ගයේ මිනුවන්ගොඩ බිංගේ ප්‍රදේශයේදී කාන්තාවක් දුම්රියේ ගැටීමෙන් ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 75ක් පමණ වන කාන්තාවක් බව පොලීසිය පැවසුවේය.
-
-අදාළ කාන්තාවගේ අනන්‍යතාවය මෙතෙක් තහවුරු කරගෙන නොමැති අතර එම ස්ථානයේ තිබූ අත් බෑගයක තිබී ඊයේ දින‍යේ යක්කලමුල්ල ප්‍රදේශයේ දී ෆාමසියකින් බෙහෙත් ගත් තුණ්ඩුවක් සොයා ගෙන ඇත.
-
-මෘත දේහය ගාල්ල ජාතික රෝහලේ මෘත ශරීරාගාරය වෙත රැගෙන ගොස් ඇති අතර සිද්ධිය සම්බන්ධයෙන් ගාල්ල පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/384390fb.json)
-
----
-
-### தாய்லாந்தின் தற்காலிக பிரதமர் நாடாளுமன்றத்தை கலைக்க நடவடிக்கை!
-
-*2025-09-04 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/224184) · `ta`
-
-தாய்லாந்தின் தற்காலிக பிரதமர் நாடாளுமன்றத்தை கலைக்க நடவடிக்கை எடுத்து வருவதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
-
-பிரதமர் பேடோங்டார்ன் ஷினவத்ராவை, தாய்லாந்து நீதிமன்றம், பதவியில் இருந்து நீக்கியதன் பின்னர் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-இதனைத்தொடர்ந்து, நாட்டை வழிநடத்த, தாய்லாந்தின் தற்காலிக பிரதமர் பும்தம் வெச்சாயாசாய் நாடாளுமன்றத்தை கலைக்க மனு தாக்கல் செய்துள்ளார்.
-
-ஆளும் கட்சியால் புதன்கிழமை (நேற்று) சமர்ப்பிக்கப்பட்ட சபை கலைப்பு ஆணை, அரச அனுமதிக்காக காத்திருப்பதாக கட்சியின் பொதுச் செயலாளர் சொராவோங் தியென்தோங் தெரிவித்துள்ளார்.
-
-தாய்லாந்து நாடாளுமன்றத்தில், ஒரு பிரதான எதிர்க்கட்சியான, மக்கள் கட்சி, பியூ தாய் போட்டியாளரான பூம்ஜைதாய் கட்சியை அடுத்த அரசாங்கத்தை அமைக்க ஆதரிப்பதாக கூறியுள்ளது.
-
-இதனைத் தொடர்ந்து, நாடாளுமன்றத்தை கலைப்பதற்கான நடவடிக்கை விரைவாக எடுக்கப்பட்டுள்ளதாக சர்வதேச நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/a34a422b.json)
-
----
-
-### கஞ்சா பயன்படுத்திய பேருந்து சாரதி கைது
-
-*2025-09-04 22:19:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயன்படுத்திய-பேருந்து-சாரதி-கைது/175-364050) · `ta`
-
-அளுத்கம - களுத்துறை தனியார் பேருந்தை செலுத்திய சாரதி ஒருவர் கஞ்சா பயன்படுத்தியிருந்த நிலையில் அவர் கைது செய்யப்பட்டுள்ளார்.
-
-பேருவளை நகரத்தில் பேருந்து சாரதிகளுக்கான விழிப்புணர்வு பிரச்சாரத்தை பேருவளை பொலிஸ் நிலையத்தின் போக்குவரத்துப் பிரிவு இன்று (04) முன்னெடுத்திருந்த போது குறித்த நபர் மீது ஏற்பட்ட சந்தேகத்தின் பேரில், அவர் பொலிஸாரால் பொறுப்பேற்கப்பட்டு பரிசோதிக்கப்பட்டார்.
-
-களுத்துறை போதனா வைத்தியசாலையின் சட்ட வைத்திய அதிகாரியிடம் சாரதியை ஆஜர்படுத்திய போது, அவர் கஞ்சா பயன்படுத்தியிருந்தமை உறுதி செய்யப்பட்டது.
-
-அதன்படி, 41 வயதான சந்தேகநபரான சாரதியை கைது செய்ய பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
-
-சந்தேகநபர் களுத்துறை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளதுடன், பேருவளை பொலிஸாரின் கீழ் மேலதிக விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன. R
-
-◼️
-
-[Data](articles/b2417997.json)
-
----
-
-### 2 dead, 12 injured as bus topples down precipice on Ella-Weelawaya road
-
-*2025-09-04 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112189/2-dead-12-injured-as-bus-topples-down-precipice-on-ella-weelawaya-road) · `en`
-
-UPDATE: At least two persons are reported dead while another 12 individuals have been injured and hospitalised after a bus toppled down a precipice near the 24th Km Post on the Ella-Weelawaya main road.
-
-The injured have been admitted to the Badulla Teaching Hospital, sources told Ada Derana.
-
-A bus has reportedly toppled down a precipice near the 24th Kilometer Post on the Ella-Weelawaya main road.
-
-A bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, has toppled down a precipice for a distance of around 500 meters this evening (4), Ada Derana reporter said.
-
-The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were onboard the bus at the time of the accident.
-
-Rescue operations are currently underway at the scene of the incident while several passengers have already been rushed to hospital, he said.
-
-◼️
-
-[Data](articles/468c029b.json)
 
 ---

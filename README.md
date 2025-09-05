@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 11:32:47**
+As of **2025-09-05 11:52:54**
 
 ## Newspaper Stats
 
-*Scraped **74,303** Articles*
+*Scraped **74,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,184
-adaderanalk | 9,490
+adaderanalk | 9,492
 tamilmirrorlk | 11,059
 virakesarilk | 12,149
-adaderanasinhalalk | 12,908
+adaderanasinhalalk | 12,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,303 articles have been extended.
+61,973 (83.4%) of 74,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### සීගිරියේ අතුරුදහන් මත්ද්‍රව්‍ය සමග කොටුවෙයි
+
+*2025-09-05 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214200) · `si`
+
+රුපියල් ලක්ෂ 30කට අධික වටිනාකමකින් යුත් අයිස් සහ කුෂ් මත්ද්‍රව්‍ය සමග 'සීගිරියේ අතුරුදහන්' නමින් පෙනී සිටි මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+සීගිරිය පොලීසියට අනියුක්තම සේවය කරන උපපොලිස් පරීක්ෂකවරියක් සහ පොලිස් කොස්තාපල්වරියක් ඇතුළු පිරිසක් විසින් ඊයේ (04) පස්වරුවේ සිදුකළ හදිසි මෙහෙයුමකදී මෙම සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+සීගිරිය රන්ගිරිගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන ඔහු සන්තකයේ තිබී කුෂ් ග්‍රෑම් 100යි මිලිග්‍රෑම් 280ක්, අයිස් ග්‍රෑම් 50යි මිලිග්‍රෑම් 11ක්, රුපියල් 23,000කට ආසන්න මුදලක් සහ ජංගම දුරකථන 2ක් සොයාගෙන ඇත.
+
+සැකකරු මීට පෙර ද ගංජා සමග අත්අඩංගුවට පත්ව නිදහස් වූ පුද්ගලයෙකු බව වැඩිදුර සඳහන්.
+
+◼️
+
+[Data](articles/c15452ec.json)
+
+---
+
+### Nine-hour water cut in Colombo and suburbs cancelled
+
+*2025-09-05 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112200/nine-hour-water-cut-in-colombo-and-suburbs-cancelled) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) has announced that the nine-hour water cut, originally scheduled from 10:30 a.m. to 7:30 p.m. tomorrow (06), affecting several areas including Colombo, has been cancelled.
+
+Earlier, the NWSDB had stated that the water cut would affect all areas from Colombo 01 to Colombo 15.
+
+In addition, the water cut was expected to impact the following areas: Battaramulla, Pelawatta, Hokandara, Koswatte, Thalawathugoda, Kotte, Rajagiriya, Mirihana, Madiwela, Nugegoda, Nawala, Kolonnawa, IDH, Kotikawatte, Angoda, Wellampitiya, Orugodawatte, Mulleriyawa, Maharagama, Boralesgamuwa, Dehiwala, Ratmalana, and Moratuwa.
+
+◼️
+
+[Data](articles/9f251ff6.json)
+
+---
+
+### Indian national arrested with Kush worth Rs. 105 mln at BIA
+
+*2025-09-05 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112199/indian-national-arrested-with-kush-worth-rs-105-mln-at-bia) · `en`
+
+An Indian national passenger attempting to smuggle a consignment of “Kush” cannabis, valued at Rs. 105 million, through the “Green Channel” (undeclared) at the Bandaranaike International Airport (BIA) has been arrested by a group of airport customs officials this morning (05).
+
+The arrested suspect is a 43-year-old Indian national working as a salesman at a shoe store in New Delhi, India, Ada Derana reporter said.
+
+According to authorities, he has purchased this consignment of "Kush" from Bangkok, Thailand, arrived in New Delhi, India, and from there arrived at the BIA  on Air India AI 277 at 07.45 am today.
+
+The suspect has been taken into custody while he was carrying 19 packets of the "Kush" cannabis weighing 10.750 kilograms in his luggage, said Ada Derana reporter.
+
+This raid is the first arrest made by Customs officers using the newly installed scanning machine at the "Green Channel" of the Customs Arrival Terminal at Katunayake Airport.
+
+...
+
+[Data](articles/6d048ece.json)
+
+---
 
 ### බස් අනතුරේ සහන කටයුතු සඳහා හෙලිකොප්ටර යානා 2ක්
 
@@ -1661,57 +1715,5 @@ Sri Lanka’s official reserve assets have increased marginally by 0.3% to USD 6
 ◼️
 
 [Data](articles/6287fc7d.json)
-
----
-
-### ඉතාලි විලාසිතා නිර්මාණකරුවෙකු වන ජෝර්ජියෝ අර්මානි ජීවිතක්ෂයට
-
-*2025-09-04 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214182) · `si`
-
-ලෝක ප්‍රකට ඉතාලි විලාසිතා නිර්මාණකරුවෙකු වන ජෝර්ජියෝ අර්මානි මිය ගොස් තිබේ.
-
-මිය යන විට ඔහු 91 හැවිරිදි වියේ පසු වූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ජෝර්ජියෝ අර්මානි, ආර්මානි සමූහ ව්‍යාපාරයේ නිර්මාතෘවරයා වන අතර ෆෝබ්ස් සඟරාවට අනුව ඔහු ලොව ඉහළම බිලියනපතියන් 200 දෙනා අතරට ද ඇතුළත් ය.
-
-1981 දී ඔහු ආරම්භ කළ එම සමාගම වසරකට යුරෝ බිලියන 2.3 ක් (ඩොලර් බිලියන 2.7ක්) පමණ ආදායමක් උපයන ව්‍යාපාරයක් දක්වා වර්ධනය වී ඇත.
-
-මිය යන විට ඔහු ඩොලර් බිලියන 10කට වඩා වටිනා වත්කම් ගොඩනඟා තිබූ අතර, එයට ඇඳුම් පැළඳුම් සහ උපාංග, ගෘහ භාණ්ඩ, සුවඳ විලවුන්, ආලේපන, පොත් ආදිය ඇතුළත් වන බවද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-◼️
-
-[Data](articles/43eff794.json)
-
----
-
-### கொழும்பு மக்களுக்கு முக்கிய செய்தி
-
-*2025-09-04 19:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மக்களுக்கு-முக்கிய-செய்தி/175-364046) · `ta`
-
-கொழும்பு 01 முதல் 15 வரையிலான பகுதிகளில் 9 மணி நேரம் நீர் விநியோகம் துண்டிக்கப்படவுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
-
-அதன்படி, நாளை மறுதினம் (06) காலை 10.30 மணி முதல் மாலை 7.30 மணி வரை நீர் விநியோகம் துண்டிக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
-
-அத்துடன் பத்தரமுல்லை, பெலவத்த, ஹோகந்தர, கொஸ்வத்த. தலவத்துகொட, கோட்டே, ராஜகிரிய, மிரிஹான. மாதிவெல, நுகேகொட, நாவல, கொலன்னாவ, IDH, கொட்டிகாவத்த, அங்கொட, வெல்லம்பிட்டிய, ஒருகொடவத்த, முல்லேரியா, மஹரகம, பொரலஸ்கமுவ, தெஹிவளை, இரத்மலானை, மொரட்டுவை உள்ளிட்ட பல பகுதிகளிலும் நீர் விநியோகம் துண்டிக்கப்படவுள்ளதாகவும் தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/27f59a66.json)
-
----
-
-### ராஜாங்கனையில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு பெண் கொலை
-
-*2025-09-04 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224229) · `ta`
-
-மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் ஒரு பெண்ணை கூரிய ஆயுதத்தால் தாக்கி கொலை செய்துள்ளனர்.
-
-குறித்த பெண் மூன்று மாதங்களுக்கு முன்பு தனது கணவரிடமிருந்து பிரிந்து அவரது வீட்டில் வசித்து வந்ததாக தெரிவிக்கப்படுகிறது.
-
-3ஆம் திகதி புதன்கிழமை இரவு தனது வீட்டின் முன் தொலைபேசி அழைப்பை எடுத்துக்கொண்டிருந்தபோது, இரண்டு பேர் அவரை கூர்மையான ஆயுதத்தால் தாக்கியுள்ளனர்.
-
-◼️
-
-[Data](articles/91f5470b.json)
 
 ---

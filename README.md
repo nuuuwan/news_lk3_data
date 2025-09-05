@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 19:11:09**
+As of **2025-09-05 19:23:40**
 
 ## Newspaper Stats
 
-*Scraped **74,353** Articles*
+*Scraped **74,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,520
 islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,188
+adalk | 7,189
 adaderanalk | 9,499
 tamilmirrorlk | 11,067
 virakesarilk | 12,159
-adaderanasinhalalk | 12,924
+adaderanasinhalalk | 12,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,353 articles have been extended.
+61,973 (83.3%) of 74,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### ඇල්ල බස් අනතුරින් තුවාල ලැබූවන්ගේ නවතම තත්ත්වය
+
+*2025-09-05 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214216) · `si`
+
+ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ සිදු වූ බිහිසුණු අනතුර හේතුවෙන් තුවාල ලබා රෝහල් ගත කළ අයගේ තත්ත්වය මේ වන විට යහපත් අතට හැරෙමින් පවතින බවත් කිසිඳු අයෙකුට ජීවිත අවදානමක් නොමැති බවත් බදුල්ල ශික්ෂණ රෝහලේ වෛද්‍ය පාලිත රාජපක්ෂ මහතා පවසයි.
+
+අනතුරට පත්වූවන්ගේ ජීවිත බේරා ගැනීමට කැප වූ සියලු දෙනාට තමන් සිදු කළ කැපකිරීම හේතුවෙන් ජිවීත බේරා ගැනීමට හැකි වූ බව සිතා සතුටු විය හැකි බව එහිදී මාධ්‍ය වෙත අදහස් දක්වමින් වෛද්‍යවරයා වැඩිදුරටහ් සඳහන් කර සිටියේය.
+
+එමෙන්ම හමුදාවෙන් සහ ඇල්ල ප්‍රදේශවාසීන් විසින් ලබා දුන් සහයෝහය පිළිබඳව ද එහිදී ඔහු සිය කෘතඥතාවය පළ කර සිටියේය.
+
+''සියලුම රෝගීන්ගේ ජීවිත අවදානම මේ වනවිට පහව ගිහින් තියෙන්නේ. මම කිව්වා වගේම හදිසි ශල්‍යකර්ම සියල්ල නිම කරලා දැන් රෝගීන් ඒගොල්ලොන්ගේ අදාළ වාට්ටුවල ඉන්නවා. කුඩා ළමයින්ගේ තත්වය යහපත්. ඒගොල්ලන්ට ජීවිත අවදානමක් නැහැ. ICUවල ඉන්නවා ලෙඩ්ඩු දෙන්නෙක්. ඒ දෙන්නටත් ලොකු ජීවිත අවධානමක් තියෙන දෙන්නෙක් නෙමෙයි. පවතින වාතාවරණය යහපත්. හැමෝම මහන්සි වුණා. හැමෝටම සතුටු වෙන්න පුළුවන් තමන් හින්දා ජීවිත මෙච්චර ප්‍රමාණයක් බේරුණා කියන එක''
+
+...
+
+[Data](articles/120a120b.json)
+
+---
 
 ### උණුසුම් කාලගුණය ගැන නිවේදනයක්
 
@@ -273,6 +291,24 @@ According to the preliminary investigations, it has been revealed that the accid
 ◼️
 
 [Data](articles/7731f1ea.json)
+
+---
+
+### ට්‍රැක් මෝටර් රථයේ එංජිම පීලි පැනීමෙන් උඩරට දුම්රිය ධාවනයට බාධා
+
+*2025-09-05 16:09:53* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රැක්-මෝටර්-රථයේ-එංජිම-පීලි-පැනීමෙන්-උඩරට-දුම්රිය-ධාවනයට-බාධා/11-418303) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ දුම්රිය පීලි අලුත්වැඩියා කිරිම සදහා දුම්රිය පීලි රැගෙන ගිය දොඹකරය සහිත ට්‍රැක් මෝටර් රථයේ එන්ජිම අවස්ථා දෙකකදී පීලි පැනීම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනා ගමන කටයුතු පැය 4කට පසු යලි යථා ත්තවයට පත් විය.
+
+එම දුම්රියේ එන්ජිම පළමුව (05) දින හැටන් සහ රොසැල්ල දුම්රිය ස්ථාන දෙක අතර 105 ½ සැතපුම් කණුව අසළ පීලි පැනීමෙන් පසු එම එන්ජිම පීලි ගත කර හැටන් දක්වා ධාවනය කරවන අවස්ථායේ යලිත් එම දුම්රියේ එන්ජිම හැටන් දුම්රිය ස්ථානය අසළදී පීලි පැනීමට ලක් විය.
+
+පසුව එම එන්ජිමද යලිත් පීලි ගත කිරිමෙන් පසු (05) දින පස්වරු 2:00ට උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතු යලි යථා තත්වයට පත් විය.
+
+දොඹකරය සහිත ට්‍රැක් මෝටර් රථ එන්ජිම පීලි පැනීම හේතුවෙන් ඔඩිසි, උඩරට මැණිකේ සහ පොඩි මැණිකේ දුම්රියන් වල ගමන් ගත් මගීන් දැඩි ලෙස පීඩාවට පත් වී සිටියහ.
+
+◼️
+
+[Data](articles/ff6387cc.json)
 
 ---
 
@@ -1697,39 +1733,5 @@ The recognition highlights Prime Lands Residencies’ ability to provide custome
 ...
 
 [Data](articles/157bbccb.json)
-
----
-
-### Sri Lanka and Italy successfully conclude inaugural political consultations
-
-*2025-09-05 04:20:45* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Italy-successfully-conclude-inaugural-political-consultations/56-781275) · `en`
-
-The first round of political consultations between Sri Lanka and Italy, co-chaired by Foreign Affairs and Foreign Employment Deputy Minister Arun Hemachandra and Italian Foreign Affairs and International Cooperation Deputy Minister Maria Tripodi, successfully concluded yesterday at the Foreign Affairs, Foreign Employment and Tourism Ministry in Colombo.
-
-The Memorandum of Understanding (MoU) on the Establishment of a Political Consultations Mechanism was signed by the two Deputy Ministers before commencing the consultations, providing a formal, structured framework for dialogue between the two countries.
-
-The Italian Deputy Minister also called on and had productive discussions with Prime Minister Dr. Harini Amarasuriya and Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath.
-
-...
-
-[Data](articles/16e08414.json)
-
----
-
-### Special project to expedite missing persons investigations by 2027
-
-*2025-09-05 04:19:51* · [`dailyftlk`](https://www.ft.lk/news/Special-project-to-expedite-missing-persons-investigations-by-2027/56-781274) · `en`
-
-The Cabinet of Ministers at their meeting on Wednesday approved fast-tracking investigations into complaints of missing and disappeared persons through a special project to be completed by the end of 2027.
-
-The initiative will be carried out under the provisions of the Office on Missing Persons (Establishment, Administration, and Functioning), Act No. 14 of 2016, which established the Office on Missing Persons (OMP) as a dedicated mechanism to investigate and report on cases of disappearance.
-
-Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said it was approved to appoint 25 subcommittees comprising 75 qualified individuals, including retired judges, senior administrative officers, and lawyers.
-
-“These subcommittees will assist in completing investigations and issuing reports to families of the missing, with the goal of providing long-delayed justice to affected communities,” he added.
-
-...
-
-[Data](articles/976e6eb1.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 09:24:43**
+As of **2025-09-05 09:35:20**
 
 ## Newspaper Stats
 
-*Scraped **74,287** Articles*
+*Scraped **74,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,517
 islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,180
+adalk | 7,181
 adaderanalk | 9,487
 tamilmirrorlk | 11,058
 virakesarilk | 12,144
-adaderanasinhalalk | 12,905
+adaderanasinhalalk | 12,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,287 articles have been extended.
+61,973 (83.4%) of 74,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### බිහිසුණු අනතුර සිදුවූ අඩි 500ක ප්‍රපාතයේ සිට  'අද දෙරණ' ගෙනආ සුවිශේෂී දර්ශන
+
+*2025-09-05 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214197) · `si`
+
+ඇල්ල වැල්ලවාය මාර්ගයේ 24 කිලෝමීටර් කණුව අසලදී ඊයේ (04) රාත්‍රියේ සිදුවූ බස් රථ අනතුරින් තංගල්ල නගර සභාවේ ලේකම් ටී.ඩබ්ලිව්.කේ. රූපසේන මහතා ඇතුළු එම නගර සභාවේ සේවකයින් 12 දෙනෙකු මිය ගොස් තිබේ.
+
+බදුල්ල ශික්ෂණ රෝහල සඳහන් කළේ මිය ගිය සෙසු පිරිස අතර කුඩා දරුවන් දෙදෙනෙකු සහ බස් රථයේ රියදුරුද සිටින බවය.
+
+තංගල්ල නගර සභාවේ සේවකයින් සහ ඔවුන්ගේ පවුල්වල සාමාජිකයින් විනෝද චාරිකාවක් සඳහා පැමිණි බස් රථයක් මෙලෙස අනතුරට ලක්වී තිබුණි.
+
+අනතුර සිදුවූ ස්ථානයේ රැඳීසිටින අද දෙරණ වාර්තාකරු විදර්ශන ප්‍රනාන්දු අඩි 500ක් පමණ ප්‍රපාතයේ බස්රථය රැඳී තිබෙන ස්ථානයට ළඟාවීමට සමත්විය.
+
+◼️
+
+[Data](articles/596e76ad.json)
+
+---
 
 ### இன்று  சிறிதளவு மழை பெய்யக்கூடும்
 
@@ -77,6 +95,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c5e0005b.json)
+
+---
+
+### උදයගේ පක්ෂයේ අය රනිල් හමුවෙයි
+
+*2025-09-05 08:08:35* · [`adalk`](https://www.ada.lk/breaking_news/උදයගේ-පක්ෂයේ-අය-රනිල්-හමුවෙයි/11-418295) · `si`
+
+හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා සහ පිවිතුරු හෙළ උරුමය මධ්‍යම කාරක සභිකයන් පිරිසක් අතර හමුවක් ඊයේ ෙපස්වරුවේ  කොළඹ පිහිටි හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතාගේ නිවසේ හමුව තිබේ.
+
+පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා ICCPR පනත අවභාවිතා කරමින් අසාධාරණ ලෙස අත්අඩංගුවට ගැනීමට මාලිමා ආණ්ඩුව දරණ උත්සාහය සම්බන්ධයෙන් හිටපු ජනපතිවරයාව මෙහිදී දැනුවත් කළ බව එම පක්ෂය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/113ca027.json)
 
 ---
 
@@ -1681,37 +1713,5 @@ The rough terrain is hindering relief efforts. Taliban authorities have deployed
 ◼️
 
 [Data](articles/47cd32e2.json)
-
----
-
-### Sri Lanka to establish diplomatic ties with Antigua and Barbuda
-
-*2025-09-04 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-diplomatic-ties-with-antigua-and-barbuda-239545/) · `en`
-
-ECONOMYNEXT – Sri Lanka will establish formal diplomatic relations with Antigua and Barbuda, a Caribbean country, minister Nalinda Jayatissa said.
-
-The cabinet approved the proposal to establish of diplomatic relations between Sri Lanka and Antigua and Barbuda, “with a view to achieving mutual benefits for both countries,” Jayatissa told reporters.
-
-Sri Lanka has established formal diplomatic relations with 13 countries in the Latin American and Caribbean region and has visa free access to some of them. (Colombo/Sep4/2025)
-
-◼️
-
-[Data](articles/7b12338c.json)
-
----
-
-### අඩු මිලට විදුලිය දෙන්න මණ්ඩලය ප්‍රතිව්‍යුහ ගත කළ යුතුයි
-
-*2025-09-04 17:12:32* · [`adalk`](https://www.ada.lk/breaking_news/අඩු-මිලට-විදුලිය-දෙන්න-මණ්ඩලය-ප්‍රතිව්‍යුහ-ගත-කළ-යුතුයි/11-418290) · `si`
-
-විදුලිබල මණ්ඩල ප්‍රතිව්‍යුහගත කිරීමෙීදී සියයට සිීයක් රජය සතු සමාගම් හඳන්වා දී ඇති බවත්, විදුලිබල මණ්ඩලය ඉදිරි පියවරක් තබන අවස්ථාවක වෘත්තීය සමිතිවල සහාය ලබා දෙන්නැයි කැබ්නට් ප්‍රකාශක , සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අමාත්‍යවරයා මේ බව පැවසුවේ , අද (04) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී විදුලිබල මණ්ඩලයේ වර්ජනය සම්බන්ධයෙන් මාධ්‍යවේදියෙකු නැගූ පැනයට පිළිතුරු දෙමිනි.
-
-විදුලි බල මණ්ඩලය ලාභ ලබන ආයතනයක් බවට පත් කිරීමට සහ ජනතාවට අඩු මිලට අඛණ්ඩව විදුලිය ලබාදීමට නම් විදුලිබල මණ්ඩය ප්‍රතිව්‍යුහගත කළ යුතු බවද අමාත්‍යවරයා පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/d7538459.json)
 
 ---

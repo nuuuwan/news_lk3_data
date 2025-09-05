@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 15:50:23**
+As of **2025-09-05 16:08:33**
 
 ## Newspaper Stats
 
-*Scraped **74,332** Articles*
+*Scraped **74,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,187
-adaderanalk | 9,495
-tamilmirrorlk | 11,062
+adaderanalk | 9,497
+tamilmirrorlk | 11,063
 virakesarilk | 12,155
 adaderanasinhalalk | 12,917
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 12,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,332 articles have been extended.
+61,973 (83.4%) of 74,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### ரொஷான் மஹாநாம ராஜினாமா
+
+*2025-09-05 15:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொஷான்-மஹாநாம-ராஜினாமா/175-364067) · `ta`
+
+இலங்கை கிரிக்கெட் அணியின் முன்னாள் வீரர் ரொஷான் மஹாநாம, தேசிய விளையாட்டு சபை உறுப்பினர் பதவியில் இருந்து விலகியுள்ளார்.
+
+◼️
+
+[Data](articles/f924743a.json)
+
+---
 
 ### ජෝ බයිඩන්ට සැත්කමක්
 
@@ -139,6 +151,42 @@ Despite high excise taxes aimed at curbing tobacco use, smuggling continues to u
 ◼️
 
 [Data](articles/d645474d.json)
+
+---
+
+### Thailand’s Anutin Charnvirakul elected PM by parliament
+
+*2025-09-05 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112206/thailands-anutin-charnvirakul-elected-pm-by-parliament) · `en`
+
+Thailand’s Anutin Charnvirakul was elected prime minister on Friday after breezing through a parliamentary vote, trouncing the candidate of the Shinawatra family’s once-dominant ruling party to end a week of chaos and political deadlock.
+
+With the decisive backing of the opposition, Anutin easily passed the threshold of more than half of the lower house votes required to become premier, capping off days of drama and a scramble for power during which he outmanoeuvred the most successful political party in Thailand’s history.
+
+Shrewd dealmaker Anutin has been a mainstay in Thai politics throughout years of turmoil, positioning his Bhumjaithai party strategically between warring elites embroiled in an intractable power struggle and guaranteeing its place in a succession of coalition governments.
+
+Anutin did not speak to the house before the vote, during which he passed the threshold to become premier with a huge lead.
+
+...
+
+[Data](articles/ae8fa237.json)
+
+---
+
+### Cause of Ella bus accident? – Survivor reveals driver’s warning of brake fault
+
+*2025-09-05 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112205/cause-of-ella-bus-accident-survivor-reveals-drivers-warning-of-brake-fault) · `en`
+
+Police stated that initial investigations into the Ella bus accident revealed that the crash occurred due to the bus traveling at excessive speed and the driver losing control.
+
+However, a survivor of the tragedy told the media that the bus driver had complained of a brake fault shortly before the accident.
+
+“At a bend near the waterfall, he said there were no brakes. I was sitting on the bonnet and talking. When the driver said that, the conductor laughed. Someone seated next to him also laughed, saying ‘don’t lie.’ At the next bend, he repeated that there were no brakes. Then we realized the brakes had failed. A vehicle came along at that moment, and the bus went downhill after hitting it. At that time, I thought it was over,” the survivor recounted.
+
+“I woke up to the sound of a small child crying after the bus plunged. I tried to get up with the child and climb out. Then I screamed, and people came,” he added.
+
+...
+
+[Data](articles/99090aba.json)
 
 ---
 
@@ -1677,69 +1725,5 @@ At the requiem mass all kinds of good words will be said of him, with nary a wor
 ◼️
 
 [Data](articles/384390fb.json)
-
----
-
-### தாய்லாந்தின் தற்காலிக பிரதமர் நாடாளுமன்றத்தை கலைக்க நடவடிக்கை!
-
-*2025-09-04 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/224184) · `ta`
-
-தாய்லாந்தின் தற்காலிக பிரதமர் நாடாளுமன்றத்தை கலைக்க நடவடிக்கை எடுத்து வருவதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
-
-பிரதமர் பேடோங்டார்ன் ஷினவத்ராவை, தாய்லாந்து நீதிமன்றம், பதவியில் இருந்து நீக்கியதன் பின்னர் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-இதனைத்தொடர்ந்து, நாட்டை வழிநடத்த, தாய்லாந்தின் தற்காலிக பிரதமர் பும்தம் வெச்சாயாசாய் நாடாளுமன்றத்தை கலைக்க மனு தாக்கல் செய்துள்ளார்.
-
-ஆளும் கட்சியால் புதன்கிழமை (நேற்று) சமர்ப்பிக்கப்பட்ட சபை கலைப்பு ஆணை, அரச அனுமதிக்காக காத்திருப்பதாக கட்சியின் பொதுச் செயலாளர் சொராவோங் தியென்தோங் தெரிவித்துள்ளார்.
-
-தாய்லாந்து நாடாளுமன்றத்தில், ஒரு பிரதான எதிர்க்கட்சியான, மக்கள் கட்சி, பியூ தாய் போட்டியாளரான பூம்ஜைதாய் கட்சியை அடுத்த அரசாங்கத்தை அமைக்க ஆதரிப்பதாக கூறியுள்ளது.
-
-இதனைத் தொடர்ந்து, நாடாளுமன்றத்தை கலைப்பதற்கான நடவடிக்கை விரைவாக எடுக்கப்பட்டுள்ளதாக சர்வதேச நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/a34a422b.json)
-
----
-
-### கஞ்சா பயன்படுத்திய பேருந்து சாரதி கைது
-
-*2025-09-04 22:19:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-பயன்படுத்திய-பேருந்து-சாரதி-கைது/175-364050) · `ta`
-
-அளுத்கம - களுத்துறை தனியார் பேருந்தை செலுத்திய சாரதி ஒருவர் கஞ்சா பயன்படுத்தியிருந்த நிலையில் அவர் கைது செய்யப்பட்டுள்ளார்.
-
-பேருவளை நகரத்தில் பேருந்து சாரதிகளுக்கான விழிப்புணர்வு பிரச்சாரத்தை பேருவளை பொலிஸ் நிலையத்தின் போக்குவரத்துப் பிரிவு இன்று (04) முன்னெடுத்திருந்த போது குறித்த நபர் மீது ஏற்பட்ட சந்தேகத்தின் பேரில், அவர் பொலிஸாரால் பொறுப்பேற்கப்பட்டு பரிசோதிக்கப்பட்டார்.
-
-களுத்துறை போதனா வைத்தியசாலையின் சட்ட வைத்திய அதிகாரியிடம் சாரதியை ஆஜர்படுத்திய போது, அவர் கஞ்சா பயன்படுத்தியிருந்தமை உறுதி செய்யப்பட்டது.
-
-அதன்படி, 41 வயதான சந்தேகநபரான சாரதியை கைது செய்ய பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
-
-சந்தேகநபர் களுத்துறை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளதுடன், பேருவளை பொலிஸாரின் கீழ் மேலதிக விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன. R
-
-◼️
-
-[Data](articles/b2417997.json)
-
----
-
-### 2 dead, 12 injured as bus topples down precipice on Ella-Weelawaya road
-
-*2025-09-04 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112189/2-dead-12-injured-as-bus-topples-down-precipice-on-ella-weelawaya-road) · `en`
-
-UPDATE: At least two persons are reported dead while another 12 individuals have been injured and hospitalised after a bus toppled down a precipice near the 24th Km Post on the Ella-Weelawaya main road.
-
-The injured have been admitted to the Badulla Teaching Hospital, sources told Ada Derana.
-
-A bus has reportedly toppled down a precipice near the 24th Kilometer Post on the Ella-Weelawaya main road.
-
-A bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, has toppled down a precipice for a distance of around 500 meters this evening (4), Ada Derana reporter said.
-
-The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were onboard the bus at the time of the accident.
-
-Rescue operations are currently underway at the scene of the incident while several passengers have already been rushed to hospital, he said.
-
-◼️
-
-[Data](articles/468c029b.json)
 
 ---

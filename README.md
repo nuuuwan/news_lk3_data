@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 20:07:51**
+As of **2025-09-05 20:21:00**
 
 ## Newspaper Stats
 
-*Scraped **74,357** Articles*
+*Scraped **74,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,190
 adaderanalk | 9,499
 tamilmirrorlk | 11,068
 virakesarilk | 12,159
-adaderanasinhalalk | 12,925
+adaderanasinhalalk | 12,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,357 articles have been extended.
+61,973 (83.3%) of 74,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### ජාතික මීලාද් - උන් - නබි  සැමරුම ජනපති ප්‍රධානත්වයෙන්
+
+*2025-09-05 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214217) · `si`
+
+ජාතික මීලාද් - උන් - නබි සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (05) පස්වරුවේ අම්බලන්තොට, මැලේ කොලනි ගම්මානයේ, මස්ජිදුල් අරූසියා ජුම්මා මස්ජිද් පරිශ්‍රයේදී පැවැත්විණි.
+
+බුද්ධශාසන ආගමික සහ සංස්කෘතික කටයුතු අමාත්‍යාංශය සහ මුස්ලිම් ආගමික හා සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව විසින් ඉස්ලාම් ආගමික නායක මුහම්මද් නබිතුමාගේ ජන්ම දිනය නිමිති කොට ගෙන මෙම ජාතික උත්සවය සංවිධාන කර තිබු අතර ප්‍රදේශයේ මහා සංඝරත්නය ඇතුළු සියලු ආගම්වලට අයත් ජනතාවගේ  සහයෝගය සහ දායකත්වය ඊට හිමි වීම විශේෂත්වයකි.
+
+2025 ජාතික මීලාද් - උන් - නබි සැමරුම වෙනුවෙන් නිකුත් කළ සමරු මුද්දරය මෙහිදී ජනාධිපතිවරයා වෙත පිළිගැන්වුණු අතර  හම්බන්තොට දිස්ත්‍රික්කයේ මුස්ලිම් ප්‍රජාවගේ සංස්කෘතික හා ඓතිහාසික වටිනාකම සම්බන්ධයෙන් සම්පාදනය කෙරණු “හම්බන්තොට දිස්ත්‍රික්කයේ මුස්ලිම් ප්‍රජාවගේ ඉතිහාසය සහ වර්ධනය” ග්‍රන්ථයද පිළිගැන්විණි.
+
+...
+
+[Data](articles/a6a1091d.json)
+
+---
 
 ### செம்மணியில் இன்றும் புதிதாக எலும்புக்கூடுகள் கண்டுபிடிப்பு
 
@@ -1727,19 +1743,5 @@ Hosted by JBN Apex and JITO Chennai Plus Chapter, the 2.5-day conclave brought t
 ...
 
 [Data](articles/7d34af1f.json)
-
----
-
-### Women in Tech Sri Lanka announces new team, renews strategic partnership with Mark & Comm
-
-*2025-09-05 04:24:14* · [`dailyftlk`](https://www.ft.lk/business/Women-in-Tech-Sri-Lanka-announces-new-team-renews-strategic-partnership-with-Mark-Comm/34-781278) · `en`
-
-Clockwise from top left: Women in Tech Sri Lanka Chapter Ambassador Sanali Kaushalya, Events Manager Tharangani Dissanayake, Partnerships Executive Priyanka Chandrakanthan, Mark & Comm MD Thanzyl Thajudeen, Partnerships Manager Shanika Madushani, and Marketing Manager Dinusha Geethanjali
-
-Women in Tech, a global non-profit organisation promoting inclusion, diversity, and equity in STEAM with a mission to empower 5 million women by 2030, has announced its new team, and also renewed its partnership with Colombo-based PR agency Mark & Comm Ltd., extending its role as strategic communications partner for the Sri Lanka Chapter for a further two years.
-
-...
-
-[Data](articles/a9ae95e1.json)
 
 ---

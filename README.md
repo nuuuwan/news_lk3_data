@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 14:50:25**
+As of **2025-09-05 15:08:20**
 
 ## Newspaper Stats
 
-*Scraped **74,318** Articles*
+*Scraped **74,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 7,186
 adaderanalk | 9,492
 tamilmirrorlk | 11,061
 virakesarilk | 12,151
-adaderanasinhalalk | 12,913
+adaderanasinhalalk | 12,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,318 articles have been extended.
+61,973 (83.4%) of 74,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### තායිලන්තයේ නව අගමැති අනුටින් චාන්විරකුල්
+
+*2025-09-05 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214205) · `si`
+
+එරට පාර්ලිමේන්තුවේ පැවති ඡන්ද විමසීමකින් අනතුරුව ඔහු මෙම ධුරයට පත්ව ඇත.
+
+තායිලන්ත හිටපු අග්‍රාමාත්‍ය පේටොංටාර්න් ෂිනවත්‍රා  පාර්ලිමේන්තුව විසින් බලයෙන් පහකළ අතර, එම පුරප්පාඩුව වෙනුවෙන් මෙම ඡන්ද විමසීම පැවැත්විණි.
+
+◼️
+
+[Data](articles/d645474d.json)
+
+---
 
 ### අයිස් මත්ද්‍රව්‍ය හදන්න ගන්නා අමුද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් මිද්දෙණියෙන් සොයාගනී
 
@@ -1699,21 +1713,5 @@ The memorable occasion began with a spirited cricket match between current medic
 ...
 
 [Data](articles/e7ae7516.json)
-
----
-
-### Sri Lanka and Italy sign MoU on political consultations mechanism
-
-*2025-09-04 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112188/sri-lanka-and-italy-sign-mou-on-political-consultations-mechanism) · `en`
-
-The first round of Political Consultations between Sri Lanka and Italy, co-chaired by Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra and Italy’s Deputy Minister for Foreign Affairs and International Cooperation Maria Tripodi, successfully concluded today (04) at the Ministry of Foreign Affairs, Foreign Employment and Tourism in Colombo.
-
-The Memorandum of Understanding on the Establishment of a Political Consultations Mechanism was signed by the two Deputy Ministers before commencing the Consultations, providing a formal, structured framework for dialogue between the two countries, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-The Italian Deputy Minister also called on and had productive discussions with Prime Minister Dr. Harini Amarasuriya and Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath.
-
-...
-
-[Data](articles/0b3de0d9.json)
 
 ---

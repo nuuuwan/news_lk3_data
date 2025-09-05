@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 14:34:44**
+As of **2025-09-05 14:50:25**
 
 ## Newspaper Stats
 
-*Scraped **74,317** Articles*
+*Scraped **74,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,186
 adaderanalk | 9,492
 tamilmirrorlk | 11,061
 virakesarilk | 12,151
-adaderanasinhalalk | 12,912
+adaderanasinhalalk | 12,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,317 articles have been extended.
+61,973 (83.4%) of 74,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### අයිස් මත්ද්‍රව්‍ය හදන්න ගන්නා අමුද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් මිද්දෙණියෙන් සොයාගනී
+
+*2025-09-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214204) · `si`
+
+අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදාගන්නා බවට පැවසෙන අමුද්‍රව්‍ය කිලෝග්‍රෑම් 50,000කට ආසන්න තොගයක් මිද්දෙණිය ප්‍රදේශයේ නිවසක සඟවා තිබියදී බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය මගින් සොයාගෙන තිබේ.
+
+ඒ අත්අඩංගුවේ පසුවන කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධ කල්ලියෙන් සිදුකරන ලද ප්‍රශ්න කිරීම්වලදීය.
+
+බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල සහ ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාගේ අධීක්ෂණයෙන් මේ වනවිටත් එම ස්ථානයේ විමර්ශන ක්‍රියාත්මක කර ඇත.
+
+◼️
+
+[Data](articles/c61ff33e.json)
+
+---
 
 ### ප්‍රජාශක්ති ඇතුළු රජයේ සංවර්ධන වැඩසටහන්වල ප්‍රගතිය සමාලෝචනයට
 
@@ -51,6 +67,8 @@ Extensions include translations and NER (Named Entity Recognition).
 *2025-09-05 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214202) · `si`
 
 ශ්‍රී ලංකා හිටපු ක්‍රිකට් ක්‍රීඩක රොෂාන් මහානාම පෞද්ගලික හේතුවක් මත ජාතික ක්‍රීඩා කවුන්සිලයේ සාමාජිකත්වයෙන් ඉල්ලා අස්වී ඇත.
+
+ක්‍රීඩා අමාත්‍යවරයාට උපදෙස් ලබාදීම ජාතික ක්‍රීඩා කවුන්සිලයෙන් සිදුකෙරෙන ප්‍රධානම කාර්යභාරයක් වේ.
 
 ◼️
 
@@ -1697,19 +1715,5 @@ The Italian Deputy Minister also called on and had productive discussions with P
 ...
 
 [Data](articles/0b3de0d9.json)
-
----
-
-### විදෙස් සංචිතයේ සුළු වැඩිවීමක්
-
-*2025-09-04 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214184) · `si`
-
-2025 අගෝස්තු මාසයේ දී ශ්‍රී ලංකා මහ බැංකුව සතු නිල සංචිත වත්කම් ප්‍රමාණය එක්සත් ජනපද ඩොලර් බිලියන 6.166ක් දක්වා ඉහළ ගොස් තිබේ.
-
-මෙය 2025 ජූලි මාසය අවසානයේ දී සටහන්ව තිබූ ඩොලර් බිලියන 6.147ක සංචිත වත්කම් ප්‍රමාණය හා සැසඳීමේ දී 0.3% වර්ධනයකි.
-
-◼️
-
-[Data](articles/2332477f.json)
 
 ---

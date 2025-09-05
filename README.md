@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 16:49:41**
+As of **2025-09-05 17:18:42**
 
 ## Newspaper Stats
 
-*Scraped **74,340** Articles*
+*Scraped **74,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,116 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,188
-adaderanalk | 9,497
-tamilmirrorlk | 11,063
-virakesarilk | 12,157
-adaderanasinhalalk | 12,919
+adaderanalk | 9,498
+tamilmirrorlk | 11,064
+virakesarilk | 12,159
+adaderanasinhalalk | 12,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,340 articles have been extended.
+61,973 (83.4%) of 74,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
 
-### ඇල්ලේ බස් අනතුරින් ජීවිතක්ෂයට පත් වූවන්ට ලක්ෂ 10 බැගින් වන්දි
+### எல்ல - வெல்லவாய பஸ் விபத்தில் உயிரிழந்தவர்களுக்கு  இழப்பீடு வழங்க  ஜனாதிபதி நிதியம் தீர்மானம்.!
+
+*2025-09-05 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224311) · `ta`
+
+எல்ல - வெல்லவாய பகுதியில் நேற்று வியாழக்கிழமை (04) இரவு இடம்பெற்ற பஸ் விபத்தில் உயிரிழந்தவர்களுக்கு தலா 10 இலட்சம் ரூபாய் இழப்பீடு வழங்க ஜனாதிபதி நிதியம் தீர்மானித்துள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/ba3deab5.json)
+
+---
+
+### எல்ல விபத்து: உயிரிழந்தவர்களுக்கு நிதி உதவி
+
+*2025-09-05 16:50:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-விபத்து-உயிரிழந்தவர்களுக்கு-நிதி-உதவி/175-364068) · `ta`
+
+எல்ல-வெல்லவாய பிரதான வீதியில் நேற்று (04) இரவு இடம்பெற்ற பேருந்து விபத்தில் உயிரிழந்தவர்களுக்காக தலா 10 இலட்சம் ரூபாய்  வழங்க ஜனாதிபதி நிதியம் தீர்மானித்துள்ளது
+
+◼️
+
+[Data](articles/f1feadde.json)
+
+---
+
+### பிரபல ரெப் பாடகர் 'மதுவா'வுக்கு வெடிபொருட்களை வழங்கிய வழக்கு ; மற்றுமொரு ரெப் பாடகர் கைது!
+
+*2025-09-05 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224308) · `ta`
+
+பிரபல ரெப்பாடகர் மாதவ பிரசாத், 'மதுவா' என்பவருக்கு வெடிபொருட்களை வழங்கிய வழக்கில், கஹதுடுவ பொலிஸார் மற்றுமொரு பிரபல ரெப் பாடகரை கைது செய்துள்ளனர்.
+
+சந்தேக நபர் ஒரு சட்டத்தiணி மூலம் சரணடைந்த பின்னர், கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+செவ்வாய்க்கிழமை நடந்த ஒரு பொலிஸ் சோதனையின் போது மாதவ பிரசாத் வெடிபொருட்களுடன் அண்மையில் கைது செய்யப்பட்டார்.
+
+போலி துப்பாக்கி வைத்திருந்ததற்காக, பிரபல ரெப் பாடகர் 'மதுவா' முன்னர் கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6d70f3de.json)
+
+---
+
+### රොස් ටේලර් සිය මවගේ රටෙන් යළිත් පිටියට
+
+*2025-09-05 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214211) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගත් නවසීලන්ත හිටපු ක්‍රිකට් නායක රොස් ටේලර් සැමෝවා ජාතික කණ්ඩායම නියෝජනය කරමින් යළිත් ක්‍රිකට් පිටියට අවතීර්ණවීමට තීරණය කර තිබේ.
+
+ඒ ඔහුගේ මව ලෝට්ගේ උපන් රටවන සැමෝවා ජාතික කණ්ඩායම නියෝජනය කරමින්ය.
+
+එළැඹෙන 2026 T20 ලෝක කුසලානයට සුදුසුකම් ලැබීමේ 'ආසියා-නැගෙනහිර ආසියා-පැසිෆික්' සුදුසුකම් ලැබීමේ තරගාවලියට ක්‍රීඩාකරන සැමෝවා සංචිතය අද (5) නම්කළ අතර, ක්‍රීඩකයන් 15 දෙනෙකුගෙන් යුත් එම සංචිතයේ රොස් ටේලර්ගේ නමද ඇතුළත්ව තිබුණි.
+
+මෙම සුදුසුකම් ලැබීමේ තරගාවලිය ඕමානයේ දී පැවැත්වීමට නියමිත අතර, එය සැමෝවා කණ්ඩායමට ලෝක කුසලාන වරම් හිමිකරගැනීමට ඇති අවසාන පියවර ද වේ.
+
+නවසීලන්ත පියෙකු හා සැමෝවා මවකදාව උපන් හෙයින් රොස් ටේලර්ට සැමෝවා සම්භවයක් තිබේ.
+
+රොස් ටේලර්ගේ සම්පූර්ණ නමවන 'ලුටෙරු රොස් පූටෝවා ලෝට් ටේලර්' ලෙසින් හැඳින්වෙන්නේ ද මෙම සම්මිශ්‍රණය හේතුවෙන්ය.
+
+නවසීලන්ත ක්‍රිකට් පුරාවෘත්තයක් බදු ඔහු අදටත් නවසීලන්ත දෙවන වැඩිම ටෙස්ට් ලකුණු (7,683), වැඩිම එක්දින ලකුණු (8607) මෙන්ම 5වන වැඩිම විස්සයි20 ලකුණු (1909) ලාබියාය.
+
+...
+
+[Data](articles/34abe89c.json)
+
+---
+
+### ඇල්ල බස් අනතුරින් ජීවිතක්ෂයට පත් වූවන්ට ලක්ෂ 10 බැගින් වන්දි
 
 *2025-09-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214210) · `si`
 
 ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ  ඊයේ (04) රාත්‍රියේ සිදු වූ බස් රථ අනතුරෙන් ජීවිතක්ෂයට පත්වූ පිරිස් වෙනුවෙන් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර තිබේ.
 
-ඒ අනුව එක් අයෙකු වෙනුවෙන් රුපියල් ලක්ෂ 10 බැගින් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර ඇතැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
+ඒ අනුව ජීවිතක්ෂයට පත්වූ එක් අයෙකු වෙනුවෙන් රුපියල් ලක්ෂ 10 බැගින් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර ඇතැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
 
 ◼️
 
 [Data](articles/9a58693d.json)
+
+---
+
+### Three-wheeler plunges down precipice in Watawala: Woman and 2 children injured
+
+*2025-09-05 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112207/three-wheeler-plunges-down-precipice-in-watawala-woman-and-2-children-injured) · `en`
+
+A three-wheeler travelling from Gampola to Hatton has veered off the road and plunged down a 50-foot precipice in the Watawala area injuring three persons including two children.
+
+At the time of the accident, a father, mother and their two children, aged four and two, were travelling in the three-wheeler, police said.
+
+The mother and the two children sustained injuries in the accident and have been admitted to the Watawala Divisional Hospital.
+
+According to the preliminary investigations, it has been revealed that the accident occurred when the driver lost control of the three-wheeler due to the winding road and excessive speeds, the police said.
+
+◼️
+
+[Data](articles/7731f1ea.json)
 
 ---
 
@@ -1633,91 +1717,5 @@ According to the National Water Supply and Drainage Board, the Rs. 58 billon pro
 ◼️
 
 [Data](articles/93563a0f.json)
-
----
-
-### Death toll climbs to 10 in Ella bus crash
-
-*2025-09-05 01:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112190/death-toll-climbs-to-10-in-ella-bus-crash) · `en`
-
-The death toll from the bus crash near the 24th Km Post on the Ella-Wellawaya main road last night (4) has reportedly increased to 10 with over 15 others injured and hospitalized.
-
-Over 15 patients have been admitted to the Badulla Teaching Hospital while several of them are said to be in critical condition.
-
-Rescue operations are still ongoing at the site of the crash with the involvement of security forces and police personnel. However, it is reported that low-visibility has hindered rescue operations.
-
-A bus had toppled down a precipice near the 24th Kilometer Post on the Ella-Wellawaya main road late last night.
-
-The bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, had toppled down a distance of around 500 meters before coming to a standstill.
-
-The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were reportedly onboard the bus at the time of the accident.
-
-...
-
-[Data](articles/04520dfe.json)
-
----
-
-### මියගිය ගණන 10ක් දක්වා ඉහළට
-
-*2025-09-05 00:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214191) · `si`
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී ඊයේ (4) රාත්‍රියේ සිදු වූ  අනතුරින් මියගිය සංඛ්‍යාව  මේ වනවිට 10ක් දක්වා ඉහළ ගොස් ඇති බව වාර්තා වේ.
-
-තුවාල ලැබූ 15කට වැඩි පිරිසක් මේ වනවිටත් බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කර ඇති අතර, තුවාල ලැබූ පිරිස් මුදාගැනීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මකය.
-
-◼️
-
-[Data](articles/4af3c8be.json)
-
----
-
-### பொருளாதாரப் பிரச்சினைகளுக்கான தீர்வின் ஊடாக நிலையான அமைதி, நல்லிணக்கத்தைக் கட்டியெழுப்புவோம் - வெளிநாட்டு இராஜதந்திரிகளிடம் வெளிவிவகார அமைச்சர் உறுதி
-
-*2025-09-05 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224241) · `ta`
-
-வட, கிழக்கு மாகாணங்களில் வாழும் தமிழ்மக்களுக்குப் பல்வேறு பிரச்சினைகள் காணப்படுவதாகவும், அவற்றுக்குரிய தீர்வைப் பெற்றுக்கொடுப்பதிலும், பொருளாதாரப்பிரச்சினைகளுக்கான தீர்வுகளின் ஊடாக நிலையான அமைதி மற்றும் நல்லிணக்கத்தைக் கட்டியெழுப்புவதிலும் தாம் உறுதியாக இருப்பதாகவும் வெளிநாட்டு இராஜதந்திரிகளுடனான சந்திப்பில் வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித்த ஹேரத் உறுதியளித்துள்ளார்.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் எதிர்வரும் திங்கட்கிழமை ஆரம்பமாகவுள்ளது. இந்நிலையில் கடந்த செவ்வாய்க்கிழமை (2) கொழும்பில் அமைந்துள்ள வெளிவிவகார அமைச்சில் சர்வதேச நாடுகளின் இராஜதந்திரிகளைச் சந்தித்த அமைச்சர் விஜித்த ஹேரத் மனித உரிமைகள்சார் விடயங்களில் அரசாங்கத்தினால் முன்னெடுக்கப்பட்டுள்ள சமகால நகர்வுகள் குறித்தும், அவற்றில் அடையப்பட்டுள்ள முன்னேற்றங்கள் குறித்தும் விளக்கமளித்தார்.
-
-...
-
-[Data](articles/62febc0a.json)
-
----
-
-### எல்ல - வெல்லவாய பிரதான வீதியில் விபத்து : 20 க்கும் மேற்பட்டோர் காயம்
-
-*2025-09-05 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224238) · `ta`
-
-எல்ல - வெல்லவாய பிரதான வீதியின் 15 ஆவது மைல்கல்லுக்கு அருகில், பஸ் ஒன்று பள்ளத்தில் கவிழ்ந்து விபத்துக்குள்ளானதில் 20க்கும் மேற்பட்டோர் காயமடைந்துள்ளனர்.
-
-சுமார் 300-400 அடி பள்ளத்தில் குறித்த பஸ் கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது. இந்த பஸ்ஸில் தங்காலை நகர சபையின் ஊழியர்கள் பயணித்ததாக கூறப்படுகின்றது.  விபத்தின்போது பஸ்ஸில் சுமார் 30-க்கும் மேற்பட்டோர் இருந்துள்ளனர்.
-
-சம்பவம் நடந்த இடத்தில் இராணுவம் மற்றும் உள்ளூர் மக்கள் இணைந்து மீட்புப் பணிகளில் தீவிரமாக ஈடுபட்டு வருகின்றனர். இதுவரை 06 பேர் மீட்கப்பட்டுள்ளனர். விபத்தில் காயமடைந்தவர்களை வைத்தியசாலைகளுக்கு கொண்டு செல்ல, பதுளை, தியத்தலாவ, வெல்லவாய மற்றும் பண்டாரவளை ஆகிய வைத்தியசாலைகள் தயார் நிலையில் வைக்கப்பட்டுள்ளன.
-
-இந்த விபத்து காரணமாக பண்டாரவளை மற்றும் எல்ல பொலிசார் தீவிர மீட்பு நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர். விபத்து நடந்த பகுதியில் வாகனங்கள் செல்ல முடியாத அளவிற்கு கடுமையான போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளது. இதனால், பொதுமக்கள் யாரும் விபத்து நடந்த இடத்திற்கு பார்வையிட வர வேண்டாம் என பொலிசார் அறிவுறுத்தியுள்ளனர்
-
-◼️
-
-[Data](articles/68e82b4d.json)
-
----
-
-### 2025-09-04 (Thursday)
-
-### බස් අනතුරේ නිරීක්ෂණ කටයුතු සඳහා බීච් ක්‍රාෆ්ට් යානයක්
-
-*2025-09-04 23:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214189) · `si`
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී අද (4) රාත්‍රියේ අනතුරේ නිරීක්ෂණ කටයුතු සඳහා ගුවන් හමුදාවට අයත් බීච් ක්‍රාෆ්ට් වර්ගයේ යානයක් යොදාවා තිබේ.
-
-රාත්‍රී කාලයේ මෙම අනතුර සිදු වූ හෙයින් මුදාගැනීමේ කටයුතු දැඩි ලෙස වෙහෙසකර වී තිබේ.
-
-මේ වනවිට මුදාගැනීමේ කටයුතු සඳහා ත්‍රිවිද හමුදා සාමාජිකයන් රැසක් අනතුර සිදු වූ ස්ථානය වෙත පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/9ab8687e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 03:32:31**
+As of **2025-09-06 03:49:45**
 
 ## Newspaper Stats
 
-*Scraped **74,372** Articles*
+*Scraped **74,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,18 +17,52 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,190
-adaderanalk | 9,503
+adaderanalk | 9,504
 tamilmirrorlk | 11,068
-virakesarilk | 12,163
+virakesarilk | 12,164
 adaderanasinhalalk | 12,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,372 articles have been extended.
+61,973 (83.3%) of 74,374 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-06 (Saturday)
+
+### கிராண்ட்பாஸ் பகுதியில் துப்பாக்கிச் சூடு – ஒருவர் பலி
+
+*2025-09-06 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224334) · `ta`
+
+கிராண்ட்பாஸ் மாவத்த பகுதியில் சற்றுமுன் நடந்த துப்பாக்கிச் சூடு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/85daac56.json)
+
+---
+
+### Youth killed in Grandpass shooting
+
+*2025-09-06 02:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112213/youth-killed-in-grandpass-shooting-) · `en`
+
+One person has been killed following a shooting incident near the Mahawatta clock tower in the Grandpass police division last night (5).
+
+Police said that two unidentified gunmen who arrived on a motorcycle had opened fire at the victim, a 26-year-old resident of Kelaniya, before fleeing the scene of the crime.
+
+The target of the assailants later succumbed to injuries after being admitted to the Colombo National Hospital.
+
+Police suspect that a revolver type firearm was used in the shooting while the motive behind the killing is yet to be ascertained.
+
+Grandpass Police is conducting further investigations to apprehend the suspects.
+
+◼️
+
+[Data](articles/8d705efe.json)
+
+---
 
 ### 2025-09-05 (Friday)
 
@@ -389,20 +423,6 @@ Starmer has now suffered the most ministerial resignations, outside government r
 ...
 
 [Data](articles/2d95ae8a.json)
-
----
-
-### 
-
-*2025-09-05 17:43:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86397) · `en`
-
-‘அபிநய சரஸ்வதி’ என்று மெச்சப்பட்ட கன்னடத்துப் பைங்கிளியாக கொஞ்சும் மொழியில்  இனிமையாக பேசிய  சரோஜாதேவி தென்னிந்திய நடிகைகளில் திரையில் கவர்ந்திழுக்கும் “கஜ காமினி” யின் நடையைக் காண்பித்தவர்
-
-தமிழ் திரைப்படங்களை பார்த்து வளர்ந்த இந்த கட்டுரையாளரைப் போன்ற தமிழ்ச்சினிமா ரசிகர்களுக்கு தென்னிந்தியாவின் பழம்பெரும் நடிகை பி.சரோஜாதேவியின் மரணம் பெரும் கவலையைத் தந்தது. 2025 ஜூலை 14 ஆம் காலையில்  திகதி தனது தினசரி 30 நிமிட பூஜை வழிபாட்டைச் செய்து முடித்துவிட்டு சோபாவில் இருந்து தொலைக்காட்சி பார்த்துக் கொண்டிருந்த வேளையில்  திடீரென்று ஒரு முனகலுடன் மயங்கி விழுந்த அவரை வைத்தியசாலைக்கு கொண்டு சென்றபோது அவர் மரணமடைந்து விட்டதாக அங்கு  அறிவிக்கப்பட்டது. அவருக்கு 87 வயது.
-
-...
-
-[Data](articles/54b274e5.json)
 
 ---
 
@@ -1749,27 +1769,5 @@ Calling on citizens to commemorate Milad-un-Nabi by following the Prophet’s te
 ◼️
 
 [Data](articles/37ad4f99.json)
-
----
-
-### Few showers expected in parts of the island today
-
-*2025-09-05 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112192/few-showers-expected-in-parts-of-the-island-today) · `en`
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, Nuwara Eliya, and Jaffna districts, according to the Department of Meteorology.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara, Batticaloa, and Mullaitivu districts after 2:00 p.m.
-
-Mainly fair weather will prevail elsewhere across the island, the Meteorological Department added.
-
-Meanwhile, fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills, in the North-central and North-western provinces, and in Hambantota district.
-
-The sun is expected to be directly over the latitudes of Sri Lanka from 28 August to 7 September due to its apparent southward relative motion, the department added.
-
-The nearest places in Sri Lanka over which the sun is overhead today (5) are Nalluruwa, Balangoda, Rathmalawinna, Buduruwagala, and Panama at around 12:09 noon.
-
-◼️
-
-[Data](articles/82a0c938.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 08:30:23**
+As of **2025-09-05 09:00:55**
 
 ## Newspaper Stats
 
-*Scraped **74,280** Articles*
+*Scraped **74,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,180
-adaderanalk | 9,483
+adaderanalk | 9,487
 tamilmirrorlk | 11,055
 virakesarilk | 12,144
 adaderanasinhalalk | 12,905
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,280 articles have been extended.
+61,973 (83.4%) of 74,284 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Jeep driver arrested following tragic bus accident in Ella
+
+*2025-09-05 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112196/jeep-driver-arrested-following-tragic-bus-accident-in-ella-) · `en`
+
+The driver of the jeep involved in the collision with a bus in Ella has been arrested, police confirmed.
+
+The accident occurred last evening (04) at around 9:00 p.m., when a bus travelling towards Wellawaya collided with an oncoming jeep and the road’s iron fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging into a 1,000-foot precipice.
+
+The bus was carrying a total of 30 passengers, including its driver, police said.
+
+Six men, including the bus driver, and nine women died in the accident. Among the injured, six men, five women, three boys, and two girls have been admitted to Badulla Hospital for treatment.
+
+In addition, two individuals who assisted in rescuing the passengers were also admitted to the hospital with injuries.
+
+Preliminary investigations indicate that the group had been returning from a trip in the Tangalle area at the time of the accident, police said.
+
+The bodies have been placed at the morgues of Diyatalawa, Badulla, and Bandarawela hospitals.
+
+◼️
+
+[Data](articles/cd9f948c.json)
+
+---
+
 ### ඇල්ලේ මාරක අනතුර සම්බන්ධයෙන් ජීප් රියදුරා අත්අඩංගුවට
 
 *2025-09-05 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214196) · `si`
@@ -56,11 +80,51 @@ Extensions include translations and NER (Named Entity Recognition).
 
 අනතුර සම්බන්ධයෙන් අදාළ ජීප් රථයේ රියදුරු මෙලෙස අත්අඩංගුවට ගෙන ඇත.
 
-ඊයේ රාත්‍රි 9ට පමන සිදුවූ අනතුරින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තවත් පුද්ගලයින් 18 දෙනෙකු තුවාල ලබා රෝහල් ගතකරනු ලැබුවා.
+ඊයේ (04) රාත්‍රි 9ට පමණ සිදුවූ අනතුරින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තවත් පුද්ගලයින් 18 දෙනෙකු තුවාල ලබා රෝහල්ගත කරනු ලැබීය.
+
+තවද බස් රථයේ පිරිස මුදාගැනීම සඳහා සහාය වූ පුද්ගලයින් දෙදෙනෙකුද තුවාල ලබා ප්‍රතිකාර සඳහා බදුල්ල රෝහලට ඇතුළත් කර ඇත.
 
 ◼️
 
 [Data](articles/0219da63.json)
+
+---
+
+### Trump to rebrand Pentagon as Department of War
+
+*2025-09-05 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112195/trump-to-rebrand-pentagon-as-department-of-war) · `en`
+
+US President Donald Trump is directing that the Department of Defense be known as the Department of War.
+
+He will sign an executive order on Friday for the defence department to use the new name as a secondary title and for Defence Secretary Pete Hegseth to be known as Secretary of War.
+
+The Pentagon - which oversees the US armed services - is the successor to the War Department, which was first established as a cabinet-level agency in 1789 and existed until 1947.
+
+The responsibility of creating executive departments rests with the US Congress, meaning that an amendment would be required to legally change the department’s name.
+
+The BBC has seen the text of the executive order, which says: “The name ‘Department of War’ conveys a stronger message of readiness and resolve compared to ‘Department of Defense,’ which emphasizes only defensive capabilities.”
+
+...
+
+[Data](articles/43901efb.json)
+
+---
+
+### Prime Minister Harini calls for unity and compassion on Milad-un-Nabi
+
+*2025-09-05 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112194/prime-minister-harini-calls-for-unity-and-compassion-on-milad-un-nabi) · `en`
+
+Prime Minister of Sri Lanka, Dr. Harini Amarasuriya has extended her greetings on the occasion of the birth anniversary of Prophet Muhammad, widely observed by Muslim communities around the world as Milad-un-Nabi.
+
+In her message, the Prime Minister emphasized that “the teachings of Prophet Muhammad are not confined merely to a religious framework but stand as a universal set of humanitarian principles dedicated to the well-being of all humankind.”
+
+She highlighted the Prophet’s guidance on social justice, equality, compassion towards the oppressed, and the accountability of rulers as principles that are “more relevant to contemporary society than ever before.”
+
+Dr. Amarasuriya described the Prophet’s message as “a revolutionary proclamation against the unjust, tribal, and corrupt social order that prevailed at the time,” adding that it embodied “a noble vision of a society where all individuals could live with dignity, free from exploitation by one another.”
+
+...
+
+[Data](articles/758bc93d.json)
 
 ---
 
@@ -87,6 +151,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0d1e6fd2.json)
+
+---
+
+### President calls for brotherhood, peace, and compassion on Milad-un-Nabi
+
+*2025-09-05 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112193/president-calls-for-brotherhood-peace-and-compassion-on-milad-un-nabi) · `en`
+
+President of Sri Lanka, Anura Kumara Dissanayake has extended his greetings on the occasion of the birth anniversary of Prophet Muhammad, observed by Muslim communities around the world as Milad-un-Nabi.
+
+In his message, the President highlighted the life and teachings of the Holy Prophet Muhammad, describing him as “a religious leader who dedicated his life to creating a moral society and accomplished a significant mission in that regard. He was also the pioneer in establishing a just and ethical system.”
+
+He added that despite numerous challenges, Prophet Muhammad’s patience and forbearance allowed him to transform a fractured society into a community guided by the principles of brotherhood, peace, and compassion, the President’s Media Division (PMD) said.
+
+Calling on citizens to commemorate Milad-un-Nabi by following the Prophet’s teachings, the President said:
+
+...
+
+[Data](articles/8a7cf144.json)
 
 ---
 
@@ -1635,83 +1717,5 @@ Sri Lanka has established formal diplomatic relations with 13 countries in the L
 ...
 
 [Data](articles/4ccdc451.json)
-
----
-
-### ගංජා පානය කර මගී බස් රථයක් ධාවනය කළ රියදුරෙක් අත්අඩංගුවට
-
-*2025-09-04 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214175) · `si`
-
-බේරුවල පොලීසියේ රථවාහන අංශයේ නිලධාරීන් විසින් අද (04) බේරුවල නගරයේ බස්රථ රියදුරන් සඳහා දැනුවත් කිරීමේ මෙහෙයුමක් දියත් කර තිබුණි.
-
-එහිදී අලුත්ගම - කළුතර පෞද්ගලික බස් රථ රියදුරකු සම්බන්ධයෙන් ඇතිවූ සැකයක් මත එම රියදුරු පොලිස් භාරයට ගෙන පරීක්ෂා කර ඇත.
-
-අදාළ රියදුරා කළුතර ශික්ෂණ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහු ගංජා පානය කර ඇති බවට තහවුරු වී තිබේ.
-
-ඒ අනුව පොලිසීය සැකකාර  41 හැවිරිදි රියදුරාව අත්අඩංගුවට ගැනීමට කටයුතු කර ඇත.
-
-වෛද්‍ය වාර්තා අනුව තවදුරටත් තහවුරු වී ඇත්තේ ඔහු කාලයක් තිස්සේ ගංජා පානයට ඇබ්බැහි වූ පුද්ගලයෙකු බවය.
-
-සැකකරු කළුතර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර බේරුවල පොලීසිය යටතේ ඉදිරි විමර්ශන ක්‍රියාත්මක කරයි.
-
-◼️
-
-[Data](articles/5127bf7b.json)
-
----
-
-### කොළඹ ප්‍රදේශ කිහිපයකට පැය 09ක ජල කප්පාදුවක්
-
-*2025-09-04 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214174) · `si`
-
-කොළඹ ප්‍රදේශ කිහිපයකට අනිද්දා (06) පැය 09ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
-
-ඒ අනුව පෙ.ව 10.30 සිට ප.ව 07.30 දක්වා කාලය තුළ මෙලෙස ජල සැපයුම අත්හිටුවන බව වාර්තා වේ.
-
-කොළඹ 01 සිට 15 දක්වා ප්‍රදේශවල මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
-
-එමෙන්ම බත්තරමුල්ල, පැලවත්ත, හෝකන්දර, කොස්වත්ත. තලවතුගොඩ, කෝට්ටේ. රාජගිරිය, මිරිහාන. මාදිවෙල, නුගේ ගොඩ. නාවල, කොළොන්නාව, IDH, කොටිකාවත්ත, අංගොඩ, වැල්ලම්පිටිය, ඔරුගොඩවත්ත, මුල්ලේරියාව, මහරගම. බොරලැස්ගමුව, දෙහිවල, රත්මලාන, මොරටුව යන ප්‍රදේශ කිහිපයකට ද ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/1e121be5.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-04 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-239561/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.97/302.02 to the US dollar in the spot market Thursday, stronger from 302.08/13 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed at 8.64/74 percent, down from 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/55 percent, from 9.52/54 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.35/45 percent.
-
-Further to the T-bill auction held on Wednesday (3), no further subscription was made for the Treasury bills offered on tap, the central bank said. (Colombo/Sep4/2025)
-
-◼️
-
-[Data](articles/7b6281af.json)
-
----
-
-### 16 Eastern University students arrested over ragging incident
-
-*2025-09-04 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112183/16-eastern-university-students-arrested-over-ragging-incident-) · `en`
-
-A total of sixteen students, including six females students, have been arrested in connection with an alleged ragging incident at the Eastern University.
-
-The arrested students were later produced before the Eravur Magistrate’s Court and were subsequently granted bail, police said.
-
-The arrests were made following a complaint lodged by a female student who had allegedly been subjected to the ragging incident.
-
-◼️
-
-[Data](articles/9794334f.json)
 
 ---

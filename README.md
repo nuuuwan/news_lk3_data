@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 22:24:59**
+As of **2025-09-05 22:33:43**
 
 ## Newspaper Stats
 
-*Scraped **74,365** Articles*
+*Scraped **74,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,190
-adaderanalk | 9,500
+adaderanalk | 9,502
 tamilmirrorlk | 11,068
-virakesarilk | 12,162
-adaderanasinhalalk | 12,929
+virakesarilk | 12,163
+adaderanasinhalalk | 12,930
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,365 articles have been extended.
+61,973 (83.3%) of 74,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### යෝජිත ජිනීවා මානව හිමිකම් වාර්තාවට ශ්‍රී ලංකාවෙන් පිළිතුරු
+
+*2025-09-05 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214221) · `si`
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් මණ්ඩලයේ 60 වැනි සැසිවාරයට ඉදිරිපත් කිරීම සඳහා ගොනුකර ඇති මානව හිමිකම් මහ කොමසාරිස්වරයාගේ ශ්‍රී ලංකාව පිළිබඳ වාර්තාවට ජිනීවා නුවර ශ්‍රී ලංකා නිත්‍ය නියෝජිත කාර්යාලය පිළිතුරු ලබාදී තිබේ.
+
+එමඟින් ශ්‍රී ලංකා දූත මණ්ඩලය පෙන්වාදී ඇත්තේ අදාළ වාර්තාව ඉදිරිපත් කිරීමට පදනම් වූ මානව හිමිකම් මණ්ඩලය සම්මත කළ 57/1 දරන යෝජනාව ශ්‍රී ලංකාව විසින් පිළිනොගත් එකක් බවය.
+
+එමෙන්ම ඒ යටතේ ක්‍රියාත්මක වන ශ්‍රී ලංකා වගවීම් ව්‍යාපෘතියට ශ්‍රී ලංකාව අඛණ්ඩව විරුද්ධත්වය පළකරන බවද එමගින් සනාථ කර තිබේ.
+
+විශේෂයෙන් දේශීය සංහිඳියා ක්‍රියාවලියට එවැනි බාහිර ව්‍යාපෘතීන් අගතිදායක වන බවද ශ්‍රී ලංකාව මෙමගින් පෙන්වා දී ඇත.
+
+ශ්‍රී ලංකාව මානව හිමිකම් මහකොමසාරිස් කාර්යාලය සහ එහි නිත්‍ය මානව හිමිකම් යාන්ත්‍රණයක් සමග සමීප සම්බන්ධතාවක් පවත්වාගෙන යන බවද ශ්‍රී ලංකාව සඳහන් කර තිබේ.
+
+මේ හේතුවෙන් මානව හිමිකම් මහ කොමසාරිස්වරයාගේ ශ්‍රී ලංකාව පිළිබඳ අවසන් වාර්තාව නිවැරදි සහ සමබර ආකාරයෙන් ඉදිරිපත් කරන ලෙසද ශ්‍රී ලංකා දුත මණ්ඩලය ඉල්ලා ඇත.
+
+...
+
+[Data](articles/626e7ffa.json)
+
+---
+
+### எல்ல பஸ் விபத்தில் காயமடைந்தவர்களின் உயிருக்கு ஆபத்து இல்லை - வைத்தியர் பாலித ராஜபக்ஷ
+
+*2025-09-05 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/224333) · `ta`
+
+எல்ல – வெல்லவாய பிரதான வீதியில் வியாழக்கிழமை (04) இரவு இடம்பெற்ற பஸ் விபத்தில் காயமடைந்தவர்களின் நிலைமை தற்போது தற்போது சீராகி வருவதாகவும் அவர்களில் யாருக்கும் உயிருக்கு ஆபத்து இல்லை என்றும் பதுளை போதனா வைத்தியசாலையின் வைத்தியர் பாலித ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+அனைத்து நோயாளிகளின் உயிருக்கு இருந்த ஆபத்து நீங்கியுள்ளது எனவும் அவசர அறுவை சிகிச்சைகள் வெற்றிகரமாக முடிக்கப்பட்டுள்ளன. நோயாளிகள் தற்போது சிகிச்சை பெற்று வருகின்றனர். குறிப்பாக குழந்தைகள் நலமாக உள்ளனர், தீவிர சிகிச்சைப் பிரிவில் (ICU) உள்ள இரு நோயாளிகளுக்கும் பெரிய ஆபத்து இல்லை என்றும் அவர் கூறினார்.
+
+மேலும், விபத்தில் சிக்கியவர்களின் உயிரைக் காப்பாற்ற வைத்தியர்கள், இராணுவம் மற்றும் எல்ல பிரதேச மக்களால் வழங்கப்பட்ட ஒத்துழைப்புக்கு நன்றி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/52111a69.json)
+
+---
 
 ### පෙන්ටගනයේ නම වෙනස් කිරීමට  ට්‍රම්ප් තීරණය කරයි
 
@@ -45,6 +83,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/94116688.json)
+
+---
+
+### Duchess of Kent, oldest member of British royal family, dies aged 92
+
+*2025-09-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112211/duchess-of-kent-oldest-member-of-british-royal-familydiesaged92) · `en`
+
+The Duchess of Kent has died at the age of 92, Buckingham Palace has announced with “deep sorrow”.
+
+She “passed away peacefully last night at Kensington Palace, surrounded by her family”, a statement said on Friday, with flags on royal residences, including Buckingham Palace, now lowered to half mast.
+
+The Prince and Princess of Wales said the duchess would be a “much missed member of the family” who had “worked tirelessly to help others and supported many causes, including through her love of music”.
+
+The duchess, Katharine, was the oldest member of the Royal Family, married to Prince Edward, the Duke of Kent, a first cousin of the late Queen Elizabeth II.
+
+She will be remembered as a familiar figure at the Wimbledon tennis championships, where she handed over trophies - and consoled those who had lost, famously including a tearful Jana Novotna in 1993.
+
+...
+
+[Data](articles/0b5b612e.json)
+
+---
+
+### ‘Prajashakthi’ and other development programmes reviewed at district level
+
+*2025-09-05 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112210/prajashakthi-and-other-development-programmes-reviewed-at-district-level) · `en`
+
+A district-level progress review meeting on key government development programmes, including the national Prajashakthi initiative aimed at empowering communities and ensuring equitable economic distribution, was held yesterday (04) at the Presidential Secretariat.
+
+The meeting was chaired by the Secretary to the President Dr Nandika Sanath Kumanayake, with the participation of District Secretaries, the President’ Media Division (PMD) said.
+
+According to the statement, extensive discussions were held at the meeting, regarding the manner in which the Prajashakthi programme is being implemented at district level and its future plans.
+
+It was emphasised that rather than making Prajashakthi another poverty-alleviation initiative, the programme must be advanced in alignment with the national drive to build a prosperous country, integrating the entire state machinery towards this goal.
+
+...
+
+[Data](articles/6619cf03.json)
 
 ---
 
@@ -1709,63 +1785,5 @@ The Holy Prophet Muhammad, the last Prophet of Islam, was a religious leader who
 ...
 
 [Data](articles/48e4040b.json)
-
----
-
-### Human-elephant conflict, the worst animal cruelty
-
-*2025-09-05 05:45:26* · [`dailyftlk`](https://www.ft.lk/columns/Human-elephant-conflict-the-worst-animal-cruelty/4-781304) · `en`
-
-Governments failed to bring effective solutions to human-elephant conflict because they did not try to treat the root cause
-
-Sri Lanka records the highest number of elephant deaths in the world. The year 2023 marked one of the worst in recent memory, with 488 elephants killed and 182 human deaths reported due to the conflict. By mid-2024, another 388 elephants had already perished (Dr. Vipula Wanigasekera). According to Wildlife Director General Ranjan Marasinghe, a total of 245 elephants had died this year due to various causes. Among them, 38 were electrocuted, while 13 were fatally struck by trains. The annual toll may exceed 500 lives of elephants by year-end.
-
-Despite shocking revelations by the media of the alarming figures of elephant deaths and animal cruelty no Government had taken serious steps to address the human-elephant conflict. Between 2015 and 2024, over 3,484 elephants have died due to this conflict, along with 1,195 human lives lost (VOA News, 2024).
-
-...
-
-[Data](articles/a582be21.json)
-
----
-
-### Why Prince William’s support could be a turning point for Sri Lanka’s elephants
-
-*2025-09-05 05:42:13* · [`dailyftlk`](https://www.ft.lk/columns/Why-Prince-William-s-support-could-be-a-turning-point-for-Sri-Lanka-s-elephants/4-781303) · `en`
-
-Sri Lanka, famed for its biodiversity and cultural heritage, faces an unprecedented challenge: safeguarding its most iconic species — the Asian elephant. With over 6,000 wild elephants, the island harbours the largest population outside India, yet their survival is under severe threat. Every year, more than 400 elephants and 150 humans die due to escalating human–elephant conflict (HEC), driven by habitat loss, deforestation, and unplanned development. Conservationists warn that without decisive, coordinated action, Sri Lanka could lose half its elephant population within three decades.
-
-In this pressing context, Opposition leader Sajith Premadasa has made a timely appeal to His Royal Highness Prince William, Prince of Wales, seeking his patronage and partnership in launching a National Elephant Conservation and Coexistence Initiative (NECCI).
-
-...
-
-[Data](articles/098044ad.json)
-
----
-
-### Timely visit of President to Katchatheevu
-
-*2025-09-05 05:37:43* · [`dailyftlk`](https://www.ft.lk/columns/Timely-visit-of-President-to-Katchatheevu/4-781302) · `en`
-
-President Disanayake’s unscheduled visit to Katchatheevu carried both symbolism and strategy
-
-On 1 September 2025, Sri Lanka’s President Anura Kumara Disanayake made an unannounced visit to Katchatheevu Island, a move that quickly reverberated across Colombo, Chennai, and New Delhi. While Katchatheevu has long been a settled matter in terms of international law, the island has re-emerged as a political flashpoint in India, particularly in Tamil Nadu, due to renewed demands for its “retrieval.” Against this backdrop, President Disanayake’s presence on the island carried symbolic weight, signalling Sri Lanka’s determination to reaffirm sovereignty while responding to growing external pressures.
-
-...
-
-[Data](articles/91d54b99.json)
-
----
-
-### Is JVP-led NPP Govt. weaponising the law to target Wickremesinghe?
-
-*2025-09-05 05:32:46* · [`dailyftlk`](https://www.ft.lk/columns/Is-JVP-led-NPP-Govt-weaponising-the-law-to-target-Wickremesinghe/4-781301) · `en`
-
-The plot to humiliate and penalise ex-President Wickremesinghe also seems to have gone awry, at least for the present
-
-United National Party (UNP) leader Ranil Wickremesinghe has been in politics for more than five decades. Wickremesinghe who has served as Member of Parliament, Deputy Minister, Cabinet Minister, leader of the Opposition, Prime Minister and President has often been described as a “spent force” in politics. The resilient Ranil has always proved his detractors wrong by bouncing back into the ring spiritedly. Recent events seem to indicate that the irrepressible Ranil Wickremesinghe may yet again demonstrate that he is a person who cannot be written off easily.
-
-...
-
-[Data](articles/2dc85ca4.json)
 
 ---

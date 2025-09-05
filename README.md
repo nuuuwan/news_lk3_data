@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 10:21:52**
+As of **2025-09-05 10:33:15**
 
 ## Newspaper Stats
 
@@ -46,13 +46,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ඇල්ල බස් අනතුර - කාන්තාවක් තවමත් අතුරුදන්
+### ඇල්ල බස් අනතුර- මියගිය පිරිස අතර තංගල්ල නගර සභාවේ ලේකම් ඇතුළු සේවකයින් 12ක්
 
 *2025-09-05 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214198) · `si`
 
-ඇල්ල වැල්ලවාය මාර්ගයේ 24 කිලෝමීටර කණුව අසලදී සිදුවූ බිහිසුණු බස් අනතුරින් එම බස්රථයේ ගමන් ගත් කාන්තාවක් අතුරුදන්වී තිබේ.
-
-තංගල්ල නගර සභාවේ ලේකම් ටී.ඩබ්ලිව්.කේ. රූපසේන මහතා ඇතුළු එම නගර සභාවේ සේවකයින් 12 දෙනෙකු ද අනතුරින් මිය ගොස් ඇත.
+ඇල්ල වැල්ලවාය මාර්ගයේ සිදුවූ අනතුරින් තංගල්ල නගර සභාවේ ලේකම් ටී.ඩබ්ලිව්.කේ. රූපසේන මහතා ඇතුළු එම නගර සභාවේ සේවකයින් 12 දෙනෙකු ද මිය ගොස් ඇත.
 
 මෙම අනතුරින් 15 දෙනෙකු මියගිය අතර පොලීසිය සඳහන් කර ඇත්තේ අනතුරින් මිය ගිය සෙසු පිරිස අතර කුඩා දරුවන් දෙදෙනෙකු සහ බස් රථයේ රියදුරු ද සිටින බවය.
 
@@ -240,11 +238,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Jeep driver arrested following tragic bus accident in Ella
+### SUV driver arrested following tragic bus accident in Ella
 
 *2025-09-05 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112196/jeep-driver-arrested-following-tragic-bus-accident-in-ella-) · `en`
 
-The driver of the jeep involved in the collision with a bus in Ella has been arrested, police confirmed.
+The driver of the SUV vehicle involved in the collision with a bus in Ella has been arrested, police confirmed.
 
 The accident occurred last evening (04) at around 9:00 p.m., when a bus travelling towards Wellawaya collided with an oncoming jeep and the road’s iron fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging into a 1,000-foot precipice.
 
@@ -254,7 +252,7 @@ Six men, including the bus driver, and nine women died in the accident. Among th
 
 In addition, two individuals who assisted in rescuing the passengers were also admitted to the hospital with injuries.
 
-Preliminary investigations indicate that the group had been returning from a trip in the Tangalle area at the time of the accident, police said.
+Preliminary investigations indicate that the group had been returning from a trip in the Ella area at the time of the accident, police said.
 
 The bodies have been placed at the morgues of Diyatalawa, Badulla, and Bandarawela hospitals.
 
@@ -370,9 +368,9 @@ Calling on citizens to commemorate Milad-un-Nabi by following the Prophet’s te
 
 *2025-09-05 06:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லையில்-பஸ்-1000-அடி-பள்ளத்தில்-கவிழ்ந்தது-ஜீப்-சாரதி-கைது/175-364055) · `ta`
 
-, எல்ல காவல் பிரிவு, எல்ல வெல்லவாய சாலையின் 23வது மற்றும் 24வது கி.மீ தூண்களுக்கு இடையிலான பகுதியில், வெல்லவாய நோக்கிச் சென்ற பேருந்து, எதிரே வந்த ஜீப் ம சாலையின் பாதுகாப்பு இரும்பு வேலியில் மோதி 1000 அடி பள்ளத்தில்  04.09.2025 அன்று இரவு 9 மணியளவில் கவிழ்ந்தது.
+எல்லையில் பஸ்ஸூடன் ஜீப்பும் 1000 அடி பள்ளத்தில் புரண்டுள்ளது , எல்ல காவல் பிரிவு, எல்ல வெல்லவாய சாலையின் 23வது மற்றும் 24வது கி.மீ தூண்களுக்கு இடையிலான பகுதியில், வெல்லவாய நோக்கிச் சென்ற பேருந்து, எதிரே வந்த ஜீப் ம சாலையின் பாதுகாப்பு இரும்பு வேலியில் மோதி 1000 அடி பள்ளத்தில் 04.09.2025 அன்று இரவு 9 மணியளவில் கவிழ்ந்தது.
 
-பேருந்தின் ஓட்டுநர் உட்பட 06 ஆண்கள் மற்றும் 09 பெண்கள் விபத்தில் உயிரிழந்தனர்.
+விபத்தில் சிக்கிய பேருந்தின் ஓட்டுநருடன் 30 பயணிகள் இருந்தனர், பேருந்தின் ஓட்டுநர் உட்பட 06 ஆண்கள் மற்றும் 09 பெண்கள் விபத்தில் உயிரிழந்தனர்.
 
 காயமடைந்த ஆண்கள், 06 பெண்கள், 05 சிறுவர்கள் மற்றும் 02 சிறுமிகள் சிகிச்சைக்காக பதுளை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
@@ -380,9 +378,7 @@ Calling on citizens to commemorate Milad-un-Nabi by following the Prophet’s te
 
 இதுவரை நடத்தப்பட்ட விசாரணையில், தங்காலை பகுதியில் சுற்றுலா சென்று திரும்பிக் கொண்டிருந்தபோது இந்த விபத்து நிகழ்ந்ததாக தெரியவந்துள்ளது.
 
-உடல்கள் தியத்தலாவை, பதுளை மற்றும் பண்டாரவளை மருத்துவமனைகளின் பிணவறைகளில் வைக்கப்பட்டுள்ளன. விபத்துடன் தொடர்புடைய ஜீப்பின் ஓட்டுநர் கைது செய்யப்பட்டுள்ளார். மேலதிக விசாரணைகளை எல்ல பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
+...
 
 [Data](articles/820c14ba.json)
 

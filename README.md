@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 16:33:19**
+As of **2025-09-05 16:49:41**
 
 ## Newspaper Stats
 
-*Scraped **74,339** Articles*
+*Scraped **74,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 7,188
 adaderanalk | 9,497
 tamilmirrorlk | 11,063
 virakesarilk | 12,157
-adaderanasinhalalk | 12,918
+adaderanasinhalalk | 12,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,339 articles have been extended.
+61,973 (83.4%) of 74,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### ඇල්ලේ බස් අනතුරින් ජීවිතක්ෂයට පත් වූවන්ට ලක්ෂ 10 බැගින් වන්දි
+
+*2025-09-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214210) · `si`
+
+ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ  ඊයේ (04) රාත්‍රියේ සිදු වූ බස් රථ අනතුරෙන් ජීවිතක්ෂයට පත්වූ පිරිස් වෙනුවෙන් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර තිබේ.
+
+ඒ අනුව එක් අයෙකු වෙනුවෙන් රුපියල් ලක්ෂ 10 බැගින් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර ඇතැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+◼️
+
+[Data](articles/9a58693d.json)
+
+---
 
 ### எல்ல பஸ் விபத்து குறித்து மஹிந்த கவலை
 
@@ -1705,23 +1719,5 @@ The group was returning back to Tangalle from Ella when they had met with the ac
 ◼️
 
 [Data](articles/9ab8687e.json)
-
----
-
-### ඇල්ලේ බස් අනතුරින් දෙදෙනෙක් මරුට
-
-*2025-09-04 23:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214188) · `si`
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී අද (4) රාත්‍රියේ අනතුරින් මේ වනවිට දෙදෙනෙකු මියගොස් තවත් 12ක් තුවාල ලබා ඇති බව වාර්තා වේ.
-
-කෙසේ වෙතත් අප වාර්තාකරුවන් පැවසූවේ තුවාලකරුවන් සංඛ්‍යාව තවත් ඉහළ යා හැකි බවය.
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ කිලෝමීටර 24 කනුව ආසන්නයෙන් බස්රථය මෙලෙස ප්‍රපාතයට පෙරළී ඇති අතර, එය මීටර 200ක් පමණ පහළට ගොස් ඇති බව සඳහන්.
-
-ඇල්ලේ විනෝද චාරිකාවක් පැමිණි තංගල්ල නගර සභාවේ කාර්යය මණ්ඩලයේ පිරිසක් මෙම අනතුරට මුහුණ පා ඇත.
-
-◼️
-
-[Data](articles/e32d6033.json)
 
 ---

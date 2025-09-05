@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 22:33:43**
+As of **2025-09-05 22:52:35**
 
 ## Newspaper Stats
 
-*Scraped **74,369** Articles*
+*Scraped **74,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,190
 adaderanalk | 9,502
 tamilmirrorlk | 11,068
 virakesarilk | 12,163
-adaderanasinhalalk | 12,930
+adaderanasinhalalk | 12,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,369 articles have been extended.
+61,973 (83.3%) of 74,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### බ්‍රිතාන්‍යයේ කෙන්ට් ආදිපාදවරිය  අභාවප්‍රාප්ත වෙයි
+
+*2025-09-05 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214222) · `si`
+
+මිය යන විට ඇය 92 හැවිරිදි වියේ පසු වූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අභාවප්‍රාප්ත දෙවන එලිසබෙත් රැජිනගේ පළමු ඥාති සහෝදරයා වන එඩ්වඩ් කුමරු සමඟ විවාහ වූ කෙන්ට් ආදිපාදවරිය රාජකීය පවුලේ වයස්ගතම සාමාජිකාවද වනවා.
+
+කෙසේ වෙතත් බකිංහැම් මාලිගය විසින් අද (05) නිවේදනයක් නිකුත් කරමින් ඇයගේ වියෝව නිල වශයෙන් නිවේදනය කර තිබුණි.
+
+◼️
+
+[Data](articles/25365fae.json)
+
+---
 
 ### යෝජිත ජිනීවා මානව හිමිකම් වාර්තාවට ශ්‍රී ලංකාවෙන් පිළිතුරු
 
@@ -1767,23 +1783,5 @@ The group had been returning to Tangalle from Ella at the time of the accident. 
 ◼️
 
 [Data](articles/fe493e43.json)
-
----
-
-### Prophet Muhammad’s teachings committed to abolishing social divides: Sri Lanka president
-
-*2025-09-05 06:00:00* · [`economynextcom`](https://economynext.com/prophet-muhammads-teachings-committed-to-abolishing-social-divides-sri-lanka-president-239567/) · `en`
-
-ECONOMYNEXT – Prophet Muhammad’s teachings were based on the principle of equality that no person is superior or inferior to another on the basis of race, caste, or colour, Sri Lanka President Anura Kumara Dissanayake has said.
-
-“His commitment to abolishing social divides and instilling equality in the hearts of humanity stands as a timeless guide as we work today to create a lawful, ethical and virtuous society amidst contemporary social challenges,” Dissanayake said in his message to mark Milad-un-Nabi.
-
-Today is the day we honour the birth anniversary of Prophet Muhammad, a momentous occasion that is respectfully celebrated by Muslim brethren around the world as Milad-un-Nabi.
-
-The Holy Prophet Muhammad, the last Prophet of Islam, was a religious leader who dedicated his life to creating a moral society and accomplished a significant mission in that regard. He was also the pioneer in establishing a just and ethical system.
-
-...
-
-[Data](articles/48e4040b.json)
 
 ---

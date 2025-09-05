@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 20:33:18**
+As of **2025-09-05 20:50:39**
 
 ## Newspaper Stats
 
-*Scraped **74,358** Articles*
+*Scraped **74,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,190
-adaderanalk | 9,499
+adaderanalk | 9,500
 tamilmirrorlk | 11,068
 virakesarilk | 12,159
-adaderanasinhalalk | 12,926
+adaderanasinhalalk | 12,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,358 articles have been extended.
+61,973 (83.3%) of 74,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### පද්මේ ගෙන්වූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදන රසායනික ද්‍රව්‍ය ගැන තවත් තොරතුරු එළියට
+
+*2025-09-05 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214218) · `si`
+
+අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට භාවිත කරන රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් පමණ මිද්දෙණිය, තලාව ප්‍රදේශයේ නිවසක වළදමා තිබියදී බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය විසින් අද (05) සොයාගනු ලැබීය.
+
+එම කොට්ඨාසය භාරයේ රඳවා සිටින බැකෝ සමන් නමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඒවා සොයාගත් අතර කෙහෙල්බද්දර පද්මේ නමැත්තා විසින් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට අදාළ රසායනික ද්‍රව්‍ය මෙරටට ගෙන්වූ බවද ඔහු පවසා තිබේ.
+
+පොලිසිය පැවසුවේ, ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පළාත් පාලන මන්ත්‍රීවරයෙක් හා ඔහුගේ සහෝදරයා අදාළ රසායනික ද්‍රව්‍ය සඟවා තබාගෙන සිට ඇති බවය.
+
+කෙහෙල්බද්දර පද්මේ අයිස් නිෂ්පාදනය කිරීම සඳහා නුවරඑළිය ප්‍රදේශයේ නිවසක් කුලියට ගෙන පාකිස්තානුවන් දෙදෙනෙකුද මෙරටට ගෙන්ව සිට ඇති බව පසුගියදා පොලිසිය අනාවරණ කරගෙන තිබුණි.
+
+ඒ අනුව බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවන බැකෝ සමන් නැමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඒ පිළිබඳව තහවුරු කරගැනීමට පොලිසියට හැකි විය.
+
+එහි ප්‍රතිඵලයක් ලෙස පසුගියදා බැකෝ සමන් හා තැඹිලි ලහිරු මිද්දෙණිය ප්‍රදේශයට රැගෙන ගොස් පොලිසිය විමර්ශන සිදුකරනු ලැබීය.
+
+...
+
+[Data](articles/677bd006.json)
+
+---
 
 ### ජාතික මීලාද් - උන් - නබි  සැමරුම ජනපති ප්‍රධානත්වයෙන්
 
@@ -127,6 +149,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3af547be.json)
+
+---
+
+### UK deputy PM Angela Rayner resigns over tax error
+
+*2025-09-05 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112209/uk-deputy-pm-angela-rayner-resigns-over-tax-error) · `en`
+
+British Deputy Prime Minister Angela Rayner resigned on Friday after saying she deeply regretted her mistake of underpaying property tax on a new home, in a damaging blow for her boss, Prime Minister Keir Starmer.
+
+After Britain’s independent adviser ruled that she had breached the ministerial code by failing to pay the correct tax, there was little Starmer could do to protect his deputy, saying he was “very sad to be losing you from the government”, describing her as a “trusted colleague and a true friend”.
+
+Rayner, 45, is the eighth, and the most senior, ministerial departure from Starmer’s team, and the most damaging yet after the British leader offered her his full support when she was first accused of deliberately trying to avoid paying the correct tax rate.
+
+Starmer has now suffered the most ministerial resignations, outside government reshuffles, of any prime minister at the beginning of their tenure in almost 50 years - more even than Boris Johnson in his chaotic period in office.
+
+...
+
+[Data](articles/ff959f0a.json)
 
 ---
 
@@ -1713,35 +1753,5 @@ The Royal College Old Boys’ East Coast Foundation welcomed the newly appointed
 ...
 
 [Data](articles/f6d98ed7.json)
-
----
-
-### NCE delegation  to South strengthens regional export linkages
-
-*2025-09-05 04:28:04* · [`dailyftlk`](https://www.ft.lk/business/NCE-delegation-to-South-strengthens-regional-export-linkages/34-781280) · `en`
-
-The National Chamber of Exporters of Sri Lanka (NCE), in collaboration with the Southern Agriculture Entrepreneurs Development Centre, successfully organised a special delegation to the Southern Province to strengthen partnerships between exporters and regional producers.
-
-The event attracted over 75 suppliers, producers, and aspiring exporters from the region. They were joined by 25 NCE member companies, who engaged directly with them to explore opportunities for sourcing, partnerships, and long-term collaborations.
-
-The purpose of these regional programs is to directly engage with producers, identify gaps in their processes, and work towards upskilling and upgrading them to meet international standards. To this end, delegates from leading certifying bodies — who are also NCE members — took part in the delegation. They expressed strong interest in supporting regional producers to obtain globally recognised certifications, thereby improving their competitiveness in international markets.
-
-...
-
-[Data](articles/f35fe83d.json)
-
----
-
-### Pagariya JBN Power Conclave showcases global business leadership in Colombo
-
-*2025-09-05 04:25:25* · [`dailyftlk`](https://www.ft.lk/business/Pagariya-JBN-Power-Conclave-showcases-global-business-leadership-in-Colombo/34-781279) · `en`
-
-The Pagariya JBN Power Conclave, an exclusive international summit for JITO’s Chief Patrons (CPs) and leading Jain business leaders, was held from 15 to 17 August at the ITC Ratnadipa in Colombo.
-
-Hosted by JBN Apex and JITO Chennai Plus Chapter, the 2.5-day conclave brought together over 600 influential entrepreneurs, investors, and thought leaders from India and across the globe. The gathering was designed to enable high-level networking, sectoral collaboration, and new business opportunities, while also offering a platform for knowledge-sharing through keynote addresses, fireside conversations, and curated business dialogues.
-
-...
-
-[Data](articles/7d34af1f.json)
 
 ---

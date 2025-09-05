@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 07:17:46**
+As of **2025-09-05 07:58:37**
 
 ## Newspaper Stats
 
-*Scraped **74,272** Articles*
+*Scraped **74,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,177
-adaderanalk | 9,481
-tamilmirrorlk | 11,053
+adaderanalk | 9,483
+tamilmirrorlk | 11,055
 virakesarilk | 12,144
 adaderanasinhalalk | 12,904
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,904
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,272 articles have been extended.
+61,973 (83.4%) of 74,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### எல்லயில் பஸ் 1000 அடி பள்ளத்தில் விழுந்த இடம்
+
+*2025-09-05 07:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லயில்-பஸ்-1000-அடி-பள்ளத்தில்-விழுந்த-இடம்/175-364056) · `ta`
+
+◼️
+
+[Data](articles/0d1e6fd2.json)
+
+---
+
+### எல்லையில் பஸ் 1000 அடி பள்ளத்தில் கவிழ்ந்தது; ஜீப் சாரதி கைது
+
+*2025-09-05 06:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லையில்-பஸ்-1000-அடி-பள்ளத்தில்-கவிழ்ந்தது-ஜீப்-சாரதி-கைது/175-364055) · `ta`
+
+, எல்ல காவல் பிரிவு, எல்ல வெல்லவாய சாலையின் 23வது மற்றும் 24வது கி.மீ தூண்களுக்கு இடையிலான பகுதியில், வெல்லவாய நோக்கிச் சென்ற பேருந்து, எதிரே வந்த ஜீப் ம சாலையின் பாதுகாப்பு இரும்பு வேலியில் மோதி 1000 அடி பள்ளத்தில்  04.09.2025 அன்று இரவு 9 மணியளவில் கவிழ்ந்தது.
+
+பேருந்தின் ஓட்டுநர் உட்பட 06 ஆண்கள் மற்றும் 09 பெண்கள் விபத்தில் உயிரிழந்தனர்.
+
+காயமடைந்த ஆண்கள், 06 பெண்கள், 05 சிறுவர்கள் மற்றும் 02 சிறுமிகள் சிகிச்சைக்காக பதுளை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மேலும், பேருந்து பயணிகளை மீட்க உதவிய இரண்டு பேரும் காயமடைந்த பின்னர் சிகிச்சைக்காக பதுளை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இதுவரை நடத்தப்பட்ட விசாரணையில், தங்காலை பகுதியில் சுற்றுலா சென்று திரும்பிக் கொண்டிருந்தபோது இந்த விபத்து நிகழ்ந்ததாக தெரியவந்துள்ளது.
+
+உடல்கள் தியத்தலாவை, பதுளை மற்றும் பண்டாரவளை மருத்துவமனைகளின் பிணவறைகளில் வைக்கப்பட்டுள்ளன. விபத்துடன் தொடர்புடைய ஜீப்பின் ஓட்டுநர் கைது செய்யப்பட்டுள்ளார். மேலதிக விசாரணைகளை எல்ல பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/820c14ba.json)
+
+---
 
 ### செம்மணியில் நேற்று 4 எலும்புக்கூடுகள் அடையாளம்
 
@@ -59,6 +91,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/37ad4f99.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-09-05 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112192/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+A few showers may occur in the Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, Nuwara Eliya, and Jaffna districts, according to the Department of Meteorology.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara, Batticaloa, and Mullaitivu districts after 2:00 p.m.
+
+Mainly fair weather will prevail elsewhere across the island, the Meteorological Department added.
+
+Meanwhile, fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills, in the North-central and North-western provinces, and in Hambantota district.
+
+The sun is expected to be directly over the latitudes of Sri Lanka from 28 August to 7 September due to its apparent southward relative motion, the department added.
+
+The nearest places in Sri Lanka over which the sun is overhead today (5) are Nalluruwa, Balangoda, Rathmalawinna, Buduruwagala, and Panama at around 12:09 noon.
+
+◼️
+
+[Data](articles/82a0c938.json)
+
+---
+
+### Ella Bus Accident: Death toll rises to 15, several injured
+
+*2025-09-05 06:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112191/ella-bus-accident-death-toll-rises-to-15-several-injured) · `en`
+
+The death toll from the bus crash near the 24th Km Post on the Ella-Wellawaya main road last night (4) has reportedly increased to 15.
+
+At least fifteen individuals, including nine females, were reported dead, while 18 others — 11 males and seven females, including children — sustained injuries when a bus toppled down a precipice near the 24th km post on the Ella–Wellawaya main road last night, police confirmed.
+
+More than 15 patients have been admitted to the Badulla Teaching Hospital, with several said to be in critical condition.
+
+The accident occurred when the bus, carrying a group of employees from the Tangalle Municipal Council who had been on an excursion, veered off the road and toppled down a slope of approximately 500 metres before coming to a halt.
+
+The group had been returning to Tangalle from Ella at the time of the accident. Police said around 30 people were on board the bus when the incident took place.
+
+◼️
+
+[Data](articles/4d9c134a.json)
 
 ---
 
@@ -1645,75 +1719,5 @@ The arrests were made following a complaint lodged by a female student who had a
 ◼️
 
 [Data](articles/306122b3.json)
-
----
-
-### பேக்கோ சமனின் மனைவிக்கு விளக்கமறியல்
-
-*2025-09-04 16:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்/175-364041) · `ta`
-
-தற்போது தடுத்து வைக்கப்பட்டுள்ள 'பேக்கோ சமன்' என்பவரின் மனைவி ஷாதிகா லக்ஷனியை செப்டம்பர் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்க உத்தரவிடப்பட்டது.
-
-பணமோசடி தடுப்பு சட்டத்தின் கீழ் கொழும்பு பிரதான நீதவான் அசங்கா எஸ். போதரகம முன்னிலையில் அவர் ஆஜர்படுத்தப்பட்டபோது இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
-
-◼️
-
-[Data](articles/21a2679c.json)
-
----
-
-### ශිෂ්‍යත්ව දෙවැනියා ඕපනායක විද්‍යාකර ප්‍රාථමිකයේ තරුෂි කවිත්මා
-
-*2025-09-04 16:17:34* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-දෙවැනියා-ඕපනායක-විද්‍යාකර-ප්‍රාථමිකයේ-තරුෂි-කවිත්මා/11-418284) · `si`
-
-2025 ශිෂ්‍යත්ව ප්‍රතිඵල අනුව ලකුණු 197 ක් ලබා ලබාගනිමින් ලංකාවෙන්ම සිංහල මාධ්‍ය දෙවැනි ස්ථානය ලබා  ගැනිමට රත්නපුර දිස්ත්‍රික්කයේ ඕපනායක විද්‍යාකර ප්‍රාථමික විද්‍යාලයේ කේ.වී.තරුෂි ඉමත්මා සිසුවිය සමත්ව ඇත.
-
-මෙම විද්‍යාලයේ පලමු වසරේ සිටම අධ්‍යාපනය ලැබූ තරුෂි ඉමත්මා දස්කම් රැසක් ලඟාකරගත් සිසුවියක බවත්,වර්තමානයේ ශිෂ්‍ය නායිකාවියක බවත් පංතිභාර ගුරුතුමා වන සුනිල් විමලචන්ද්‍ර මහතා ප්‍රකාශ කලේය.
-
-මෙම සිසුවිය ඕපනායක හත්තැල්ල වසමේ හෙළඋඩගමේ පදිංච් ශ්‍රි ලංකා පොලිසියේ සේවය කරන කේ.වී ධම්මික පුෂ්ප කුමාර මහතාගේ සහ එච්.එම්.  මල්කාන්ති මහත්මියගේ වැඩිමහල් දියණියයි.
-
-තරුෂි ඉමත්මා  අදහස් දක්වමින් කියා සිටියේ අපේක්ෂාව "ඉන්ජිනේරුවරියක් වෙලා මා උපන් මව්බිමට සේවය කිරීමයි. මේ  ජයග්‍රහනයේ ගෞරවය මෙම ඉස්කෝලෙ විදුහල්පතිතුමාට නියෝජ්‍ය විදුහල්පතිනියට සහ පළමු වසරේ සිට මට උගන්නපු ගුරු මව්පියන් හැමදෙනාටමත් හිමිවෙන්න අවශ්‍යයි.
-
-මා මේ කාලය තුළ සෑම විෂයක් ගැනම උන්න්දු උනාචිත්‍ර සමස්ත ලංකා ජයග්‍රහණ හිමිකරගෙන තිබෙනව. ඒ වගේම ක්‍රීඩා කරනව. අත් අකුරු තරඟ වලට ඉදිරිපත් වෙලා  ජයග්‍රහණ හිමිකරගෙන තිබෙනවා."
-
-◼️
-
-[Data](articles/80eec0ab.json)
-
----
-
-### සංගීත ප්‍රසංගවල ආරක්ෂාවට අයකරන ගාස්තු ඉහළ දැමීම ගැන මැසිවිලි
-
-*2025-09-04 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214171) · `si`
-
-සංගීත ප්‍රසංගවල ආරක්ෂාව සඳහා අයකරන ගාස්තු ඉහළ දැමීම හේතුවෙන් තමන් දැඩි දුෂ්කරතාවයට පත්වී ඇති බව ශ්‍රී ලංකා ප්‍රාසාංගික කලාකරුවන්ගේ සංගමය පවසයි.
-
-එහි සභාපති චන්දන ප්‍රසාද් ජයලත් පෙන්වා දෙන්නේ, මේ සම්බන්ධයෙන් බලධාරීන් සමඟ අවස්ථා කිහිපයකදී සාකච්ඡා කළද මෙතෙක් ඒ සඳහා විසදුම් ලැබී නොමැති බවය.
-
-"අද වෙනකොට ශ්‍රී ලංකා ප්‍රාසාංගික කලාව වැටිලා තියෙන්නේ. මේක ගොඩගන්න මම හිතන්නෑ කිසිම රජයකින් අවස්ථානුකූලව කාටවත් මේකෙ යැපෙන අයට අවස්ථාව දෙනවා කියලා. ඇත්තටම අපිට තියෙන පළවෙනිම ප්‍රශ්නෙ තමයි පොලිස් නිලධාරීන්ට ගෙවන මුදල. ඇත්තටම ඉස්සර තිබ්බෙ 950ක්. අද වෙනකොට එ්ක PC කෙනෙකුට 4,950ක්, SI කෙනෙකුට  5500ක්, ඒ නිල වැඩිවෙන වැඩිවෙන ගාණට අරන් තියෙනවා.
-
-අද සංගීත සංදර්ශනයක් කරගෙන යන අවස්ථාවකට සාමාන්‍යයෙන් 150,000කට වැඩි මුදලක් අපි පොලීසියට ගෙවන්න ඕනේ. ඇත්තටම මට තියෙන ප්‍රශ්නෙ අපි මේ ගෙවන සල්ලි පොලිස් නිලධාරීන්ට යනවද ?"
-
-◼️
-
-[Data](articles/7eb3f951.json)
-
----
-
-### අතුරුදහන් වු අයට ගෞරවණිය අවසානයක් දිය යුතුයි
-
-*2025-09-04 16:08:19* · [`adalk`](https://www.ada.lk/breaking_news/අතුරුදහන්-වු-අයට-ගෞරවණිය-අවසානයක්-දිය-යුතුයි/11-418283) · `si`
-
-අපේ රජය පරීක්ෂණ සිදු කරන්නේ ජනතාව වෙනුවෙන් මිස ජාත්‍යන්තර ප්‍රජාව සතුටු කරන්න  නොවෙයි.
-
-කුරුක්කලමඩම්  සිද්ධිය සම්බන්ධයෙන් පැමිණිලි ඇතිනම් ඉදිරිපත් කරන ලෙස අපි ජනතාවගෙන් ඉල්ලා සිටිනවා.
-
-මඩකලපුව, කලවංචිකුඩ්, කුරුක්කුලමඩම්හි සමුහ මිණි වළක් ඇති බවට පැමිණිලි ලැබී ඇති ස්ථාන අවට ප්‍රදේශය නිරීක්ෂනය  කරමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය,  නීතිඥ, හර්ෂණ නානායක්කාර මහතා පවසයි.
-
-අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මඩකලපුව, කලවංචිකුඩ්, කුරුක්කුලමඩම්හි සමුහ මිණි වළක් ඇති බවට පැමිණිලි ලැබී ඇති ස්ථාන අවට ප්‍රදේශය නිරීක්ෂනය කිරීමෙන් අනතුරුව අද ( 04) පෙරවරුවේ මාධ්‍ය වෙත  අදහස් පළ කරමින් අමාත්‍යතුමා මෙසේ සදහන් කළේය.
-
-...
-
-[Data](articles/1022a0a8.json)
 
 ---

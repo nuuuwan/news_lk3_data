@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 23:52:36**
+As of **2025-09-06 00:09:26**
 
 ## Newspaper Stats
 
-*Scraped **74,370** Articles*
+*Scraped **74,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,190
-adaderanalk | 9,502
+adaderanalk | 9,503
 tamilmirrorlk | 11,068
 virakesarilk | 12,163
 adaderanasinhalalk | 12,931
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,370 articles have been extended.
+61,973 (83.3%) of 74,371 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/626e7ffa.json)
+
+---
+
+### India will continue to buy Russian oil despite US tariffs, finance minister says
+
+*2025-09-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112212/india-will-continue-to-buy-russian-oil-despite-us-tariffs-finance-minister-says) · `en`
+
+India will continue to buy Russian oil as it proves economical, its finance minister said on Friday, despite the Trump administration’s decision to impose heavy import tariffs on Indian goods due, in part, to its energy purchases from Moscow.
+
+As Europe and the U.S. have shunned Russian oil over Moscow’s 2022 invasion of Ukraine, India has taken advantage of discounts on Russian output to become the largest buyer of Russian seaborne crude.
+
+New Delhi has said its purchases of Russian oil have kept the markets in balance.
+
+U.S. President Donald Trump, who is seeking to broker an end to the Ukraine conflict, has said India’s oil imports are helping fund Moscow’s war effort and imposed a 50% tariff on imports from India last month.
+
+Finance Minister Nirmala Sitharaman, speaking on local news channel CNN-News18, said India, the world’s third-biggest oil importer and consumer, had no plans to eschew Russian supplies.
+
+...
+
+[Data](articles/5a69412d.json)
 
 ---
 
@@ -1757,31 +1777,5 @@ The group had been returning to Tangalle from Ella at the time of the accident. 
 ◼️
 
 [Data](articles/4d9c134a.json)
-
----
-
-### ඇල්ලේ මාරක බස් අනතුරෙන් මියගිය ගණන 15ක් දක්වා ඉහළට
-
-*2025-09-05 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214194) · `si`
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ 24වන සැතපුම් කණුව ආසන්නයේ සිදුවූ රිය අනතුරෙන් මේ වනවිට මියගිය පුද්ගලයින් ගණන 15ක් දක්වා ඉහළ ගොස් තිබේ.
-
-මියගිය පුද්ගලයින් අතර කාන්තාවන් 9 දෙනෙකු සහ පිරිමි පුද්ගලයින් 6 දෙනෙකු සිටින බව පොලීසිය පැවසීය.
-
-පිරිමි පුද්ගලයින් 11 දෙනෙකු සහ කාන්තාවන් 7 දෙනෙකු තුවාල ලබා රෝහල්ගත කර ඇති අතර එම පිරිසට ළමුන් 5 දෙනෙකුද අයත් ය.
-
-විනෝද චාරිකාවක් ගොස් යළි පැමිණෙමින් සිටි පිරිසක් රැගත් බස් රථයක් මීටර් 200ක පමණ ප්‍රපාතයකට පෙරළී මෙම අනතුර සිදුවී ඇති බව පොලීසිය පැවසීය.
-
-මෙලෙස අනතුරට ලක්වී ඇත්තේ තංගල්ල නගර සභාවේ සේවකයින් පිරිසක් රැගත් බස් රථයකි.
-
-පුද්ගලයින් මුදාගැනීම සඳහා පොලීසිය, යුද හමුදාව, ගුවන් හමුදාව,ගිනි නිවීමේ සේවා දෙපාර්තමේන්තුව සහ ප්‍රදේශවාසින් එක්විය.
-
-අනතුර සිදුවන අවස්ථාවේ පුද්ගලයින් 30කට වැඩි පිරිසක් බස් රථය තුළ සිට ඇති බව සඳහන් ය.
-
-කෙසේවෙතත් බස් රථය අනතුරට පත් ස්ථානයේ පැවැති දැඩි බැවුම් සහිත තත්ත්වය හේතුවෙන් පිරිස මුදා ගැනීමට දැඩි පරිශ්‍රමයක් දැරීමට සිදුවූ බව පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/fe493e43.json)
 
 ---

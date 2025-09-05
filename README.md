@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 12:10:05**
+As of **2025-09-05 12:25:30**
 
 ## Newspaper Stats
 
-*Scraped **74,306** Articles*
+*Scraped **74,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,97 @@ newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 756
-economynextcom | 4,517
+economynextcom | 4,519
 islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,184
 adaderanalk | 9,492
-tamilmirrorlk | 11,059
-virakesarilk | 12,149
+tamilmirrorlk | 11,060
+virakesarilk | 12,150
 adaderanasinhalalk | 12,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,306 articles have been extended.
+61,973 (83.4%) of 74,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### எல்ல விபத்து: வான்வழி காட்சி
+
+*2025-09-05 12:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-விபத்து-வான்வழி-காட்சி/175-364062) · `ta`
+
+எல்ல-வெல்லவாய பிரதான சாலையில்  நடந்த நேற்று இரவு துயரமான பேருந்து விபத்தின் வான்வழி காட்சி, இதில் ஓட்டுநர் மற்றும் ஒன்பது பெண்கள் உட்பட குறைந்தது 15 பேர் உயிரிழந்தனர்.
+
+தங்காலையைச் சேர்ந்த சுமார் 30 நகராட்சி ஊழியர்களை ஏற்றிச் சென்ற பேருந்து, எல்லாவில் ஒரு சுற்றுலா சென்று திரும்பியது, ஒரு ஜீப் மீது மோதி, சாலையோர பாதுகாப்பு வேலியில் மோதி, வெல்லவாய நோக்கிச் சென்று கொண்டிருந்தபோது கிட்டத்தட்ட 1,000 அடி பள்ளத்தில் விழுந்ததில், 23வது மற்றும் 24வது கிலோமீட்டர் மைல்களுக்கு இடையில் இந்த சம்பவம் நிகழ்ந்தது
+
+◼️
+
+[Data](articles/e25f423f.json)
+
+---
+
+### காட்டுத்தீ வளி மாசடைவை அதிகரிக்கிறது ; ஐ.நா. வானிலை அமைப்பு
+
+*2025-09-05 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224272) · `ta`
+
+கடந்த ஆண்டு வளி மாசுபாட்டுக்கு காலநிலை மாற்றத்தால் அடிக்கடி ஏற்படும் காட்டுத்தீ சம்பவங்கள் காரணமாக அமைந்துள்ளதாக உலக வானிலை அமைப்பு (WMO) வெள்ளிக்கிழமை அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+சுற்றுப்புற வளி மாசுபாடு ஆண்டுக்கு 4.5 மில்லியன் அகால மரணங்களை ஏற்படுத்துவதாக உலக சுகாதார நிறுவனம் தெரிவித்துள்ளது.
+
+கடும் காட்டுத் தீ ஏற்படும்  அமேசன் காடுகள், கனடா, சைபீரியா மற்றும் மத்திய ஆபிரிக்கா போன்ற இடங்கள்  வளி மாசுபாடு ஏற்படும் இடங்களாக 2024 ஆம் ஆண்டிற்கான உலக வானிலை அமைப்பு அறிக்கை சுட்டிக்காட்டியுள்ளது.
+
+புதைபடிவ எரிபொருள் உமிழ்வுகளால் ஏற்படும் புவி வெப்பமடைதல் வானிலை முறைகளை மாற்றுவதால், காட்டுத்தீ உலகம் முழுவதும் அடிக்கடி மற்றும் பரவலாகி வருகிறது. நிலக்கரி, எண்ணெய், எரிவாயு மற்றும் மரம் எரிப்பதாலும், போக்குவரத்து மற்றும் விவசாயத்தாலும் உருவாகும் காற்றில் பரவும் துகள்களுடன் இதுவும் இணைகிறது.
+
+...
+
+[Data](articles/b58bd973.json)
+
+---
+
+### Sri Lanka’s HNB Securities assigned first-time ‘A(lka)’ rating by Fitch
+
+*2025-09-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-securities-assigned-first-time-alka-rating-by-fitch-239549/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has awarded Sri Lanka-based HNB Securities Limited its inaugural National Long-Term Rating of ‘A(lka)’, accompanied by a Stable Outlook.
+
+The rating reflects the Fitch Ratings’ expectation of extraordinary support from parent, Hatton National Bank.
+
+“This assessment is underpinned by HNBS’s synergistic role as the primary dealing arm of HNB, including for its affiliates and wealth management clients,”  Fitch said.
+
+The rating also factors in HNB Securities’ positive contribution to the parent’s profitability, and HNB’s oversight of it through board representation and periodic reporting.
+
+Fitch Ratings has assigned Sri Lanka-based HNB Securities Limited (HNBS) a first-time National Long-Term Rating of ‘A(lka)’ with a Stable Outlook.
+
+...
+
+[Data](articles/c8d65ee6.json)
+
+---
+
+### ஆப்கானிஸ்தானில் மீண்டும்  நிலநடுக்கம் : உயிரிழப்புக்களின் எண்ணிக்கை அதிகரிப்பு!
+
+*2025-09-05 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224250) · `ta`
+
+ஆப்கானிஸ்தானின் தொலைதூர தென்கிழக்கு பகுதியில் வியாழக்கிழமை(நேற்று) இரவு 5.6 மெக்னிடியூட் அளவிலான நிலநடுக்கம் பதிவானதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+இதனால் நங்கர்ஹார் மற்றும் குனார் மாகாணங்களில் உள்ள மக்கள் அச்சத்தில் இருப்பதுடன், அந்த பகுதியிலிருந்து வெளியேறி வருகின்றனர்.
+
+வியாழக்கிழமை இரவு ஏற்பட்ட நிலநடுக்கத்தில் ஏற்பட்ட உயிரிழப்புகள் குறித்து அதிகாரப்பூர்வ தகவல்கள் கிடைக்கவில்லை.
+
+இருப்பினும், காயமடைந்த சுமார் 17 பேர் குனார் மாகாண வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டதாக சர்வதேச ஊடகமொன்று செய்தி வெளியிட்டுள்ளது.
+
+அதேநேரம், கடந்த ஞாயிற்றுக்கிழமை ஏற்பட்ட நிலநடுக்கத்தில் 2,205 பேர் உயிரிழந்ததுடன், 3,640 பேர் காயமடைந்துள்ளதாக அந்த நாட்டு ஊடக அறிக்கைகள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/661ac764.json)
+
+---
 
 ### සීගිරියේ අතුරුදහන් මත්ද්‍රව්‍ය සමග කොටුවෙයි
 
@@ -187,26 +259,6 @@ This raid is the first arrest made by Customs officers using the newly installed
 ◼️
 
 [Data](articles/e3f52e4c.json)
-
----
-
-### ஆப்கானிஸ்தானில் மீண்டும்  நிலநடுக்கம் : உயிரிழப்புக்களின் எண்ணிக்கை அதிகரிப்பு!
-
-*2025-09-05 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/224250) · `ta`
-
-ஆப்கானிஸ்தானின் தொலைதூர தென்கிழக்கு பகுதியில் வியாழக்கிழமை(நேற்று) இரவு 5.6 மெக்னிடியூட் அளவிலான நிலநடுக்கம் பதிவானதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
-
-இதனால் நங்கர்ஹார் மற்றும் குனார் மாகாணங்களில் உள்ள மக்கள் அச்சத்தில் இருப்பதுடன், அந்த பகுதியிலிருந்து வெளியேறி வருகின்றனர்.
-
-வியாழக்கிழமை இரவு ஏற்பட்ட நிலநடுக்கத்தில் ஏற்பட்ட உயிரிழப்புகள் குறித்து அதிகாரப்பூர்வ தகவல்கள் கிடைக்கவில்லை.
-
-இருப்பினும், காயமடைந்த சுமார் 17 பேர் குனார் மாகாண வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டதாக சர்வதேச ஊடகமொன்று செய்தி வெளியிட்டுள்ளது.
-
-அதேநேரம், கடந்த ஞாயிற்றுக்கிழமை ஏற்பட்ட நிலநடுக்கத்தில் 1,368 பேர் உயிரிழந்ததுடன், 2,180 பேர் காயமடைந்துள்ளதாக அந்த நாட்டு ஊடக அறிக்கைகள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/661ac764.json)
 
 ---
 
@@ -373,6 +425,26 @@ Preliminary investigations indicate that the group had been returning from a tri
 ◼️
 
 [Data](articles/c5e0005b.json)
+
+---
+
+### Sri Lanka foreign reserves US$6,166mn in August
+
+*2025-09-05 08:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-us6166mn-in-august-239575/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross foreign reserves grew to 6,166 million dollars in August 2025, rising 19 million US dollars, official data showed, amid concerns over the pace of reserve collections and rate cuts.
+
+Sri Lanka’s gross official reserves is down 306 million dollars from October 2024, when the central bank began running inflationary policy operating an abundant reserve regime (single policy rate), injecting vast amounts of liquidity to target a short-term rate.
+
+As a result, by December the agency barely collect 12 million dollars from markets.
+
+The central bank in the first quarter withdrew some of the liquidity, as credit slowed and it was able to buy dollars, but concerns have been raised about the lack of active deflationary policy to collect more reserves.
+
+The central bank gets interest on its bond portfolio, which is a legacy of securities acquisitions it did from 2019-2022 to keep rates down and trigger the worst external crisis in its history and an external default.
+
+...
+
+[Data](articles/c26a53b4.json)
 
 ---
 
@@ -1651,69 +1723,5 @@ Battaramulla, Pelawatta, Hokandara, Koswatte, Thalawathugoda, Kotte, Rajagiriya,
 ◼️
 
 [Data](articles/026e04d2.json)
-
----
-
-### பிலியந்தலை மத்திய கல்லூரி மாணவர் பாராளுமன்ற ஆரம்ப அமர்வு ஜனாதிபதி செயலகத்தில் நடைபெற்றது
-
-*2025-09-04 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224230) · `ta`
-
-பிலியந்தலை மத்திய கல்லூரி மாணவர் பாராளுமன்ற  ஆரம்ப அமர்வு வியாழக்கிழமை (04) ஜனாதிபதி அலுவலகத்தின் பழைய பாராளுமன்ற சபா பீடத்தில் நடைபெற்றது.
-
-ஜனாதிபதி அலுவலகம், கல்வி அமைச்சு மற்றும் இலங்கை பாராளுமன்ற தொடர்பாடல் பிரிவு ஆகியவற்றால் பாடசாலை மாணவர்களுக்காக செயல்படுத்தப்படும் திட்டத் தொடருடன் இணைந்ததாக இந்த வாய்ப்பு வழங்கப்பட்டது.
-
-மேற்படி திட்டத்துடன் இணைந்து, பிலியந்தலை மத்திய கல்லூரி மாணவர் பாராளுமன்ற உறுப்பினர்களுக்கு பாராளுமன்ற பாரம்பரியத்தின் வரலாறு மற்றும் பாராளுமன்றத்தின் வகிபாகம், அத்துடன்  கிளீன்  ஸ்ரீலங்கா திட்டத்தின்  எண்ணக்கரு ரீதியான பெறுமதி மற்றும் அதன் நடைமுறை முக்கியத்துவம் பற்றிய புரிதலைப் பெற வாய்ப்பு கிடைத்தது.
-
-பிலியந்தலை மத்திய கல்லூரி மாணவர் பாராளுமன்றத்திற்கு கிளீன்  ஸ்ரீலங்கா  திட்டத்திற்குப் பொறுப்பான அமைச்சர் ஒருவர் நியமிக்கப்பட்டமை விசேட அம்சமாகும். இந்த நிகழ்வில் மாணவர் பாராளுமன்ற அமைச்சரவை மற்றும் உறுப்பினர்களுக்கும் சான்றிதழ்கள் வழங்கப்பட்டன.
-
-...
-
-[Data](articles/c1850bcb.json)
-
----
-
-### பார்வை இழந்த மாணவி புலமைப்பரிசில் பரீட்சையில் சித்தி
-
-*2025-09-04 19:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பார்வை-இழந்த-மாணவி-புலமைப்பரிசில்-பரீட்சையில்-சித்தி/73-364048) · `ta`
-
-இன்று வெளியான ஐந்தாம் ஆண்டு புலமை பரிசில் பரீட்சையில் மட்டக்களப்பு கல்வி வலையத்தில் பரீட்சைக்கு தோற்றிய பார்வை இழந்த மாணவியொருவர் சித்தியடைந்துள்ளார்.
-
-மட்டக்களப்பு கல்லடி விவேகானந்தா மகளிர் கல்லூரியில் ஐந்தாம் ஆண்டில் கல்வி பயிலும் ரவிச்சந்திரன் ஜெனிபர் என்கின்ற மாணவியே இவ்வாறு பரீட்சையில் சித்தியடைந்துள்ளார்.
-
-மட்டக்களப்பு தரிசனம் விழிப்புலனற்றோர் பாடசாலையில் கல்வி கற்று வரும் இவர் 88 புள்ளிகளை பெற்று சித்தியடைந்துள்ளதாக விவேகானந்தா மகளிர் கல்லூரி பிரதி அதிபர் தம்பிராசா சிவக்குமார் தெரிவித்தார்.
-
-மட்டக்களப்பு மாவட்டத்தின் சராசரி மாணவர்களுக்கான வெற்றி புள்ளி 132 ஆக இருந்தபோதிலும் விஷேட தேவையுடைய மாணவர்களுக்கான வெற்றி புள்ளி எண்பதாகும். குறித்த மாணவி 88 புள்ளிகளை பெற்று சித்தியடைந்துள்ளமை குறிப்பிடத்தக்கது
-
-இது தொடர்பாக விவேகானந்தா மகளிர் கல்லூரி பிரதி அதிபர் தம்பி ராசா சிவக்குமார், தரிசனம் விழிப்பலனள்றோர் பாடசாலை தலைவர் எஸ். இருதய ராஜன்(இவரும் பார்வையற்றவர்) மாணவி ரவிச்சந்திரன் ஜெனிபர் மற்றும் தரிசனம் விழிப்புலற்றோர் பாடசாலை அதிபர் ஆகியோர் கருத்து வெளியிட்டனர்.
-
-◼️
-
-[Data](articles/025a5e38.json)
-
----
-
-### Sri Lanka’s official reserves increase marginally in August
-
-*2025-09-04 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112185/sri-lankas-official-reserves-increase-marginally-in-august) · `en`
-
-Sri Lanka’s official reserve assets have increased marginally by 0.3% to USD 6.166 billion in August 2025, compared to USD 6.147 billion in July 2025, according to the Central Bank of Sri Lanka (CBSL).
-
-◼️
-
-[Data](articles/3cff5a0b.json)
-
----
-
-### இலங்கையின் உத்தியோகபூர்வ கையிருப்பு அதிகரிப்பு
-
-*2025-09-04 19:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-உத்தியோகபூர்வ-கையிருப்பு-அதிகரிப்பு/175-364047) · `ta`
-
-இலங்கையின் உத்தியோகபூர்வ கையிருப்பு சொத்துக்கள் 2025 ஜூலையில் 6.147 பில்லியனிலிருந்து 0.3% அதிகரித்துள்ளது.
-
-இதன்படி 2025 ஓகஸ்டில் 6.166 பில்லியன் அமெரிக்க டொலராக அதிகரித்துள்ளதாக மத்திய வங்கியின் தரவுகள் தெரிவிக்கின்றன. R
-
-◼️
-
-[Data](articles/6287fc7d.json)
 
 ---

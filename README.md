@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 11:07:51**
+As of **2025-09-05 11:19:48**
 
 ## Newspaper Stats
 
-*Scraped **74,298** Articles*
+*Scraped **74,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,184
-adaderanalk | 9,487
+adaderanalk | 9,490
 tamilmirrorlk | 11,059
-virakesarilk | 12,148
-adaderanasinhalalk | 12,907
+virakesarilk | 12,149
+adaderanasinhalalk | 12,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,298 articles have been extended.
+61,973 (83.4%) of 74,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### බස් අනතුරේ සහන කටයුතු සඳහා හෙලිකොප්ටර යානා 2ක්
+
+*2025-09-05 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214199) · `si`
+
+ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී ඊයේ (4) රාත්‍රියේ සිදු වූ අනතුර හේතුවෙන් අවශ්‍ය සහන කටයුතු සඳහා ගුවන් හමුදාවට අයත්  MI-17 වර්ගයේ හෙලිකොප්ටරයක් දියතලාව ගුවන් හමුදා කඳවු‌‌රේ ස්ථානගත කර ඇති බව ගුවන් හමුදා මාධ්‍ය අංශය සඳහන් කළේය.
+
+ඊට අමතරව වෛද්‍ය කාර්ය මණ්ඩලයක් සමග Bell-412 වර්ගයේ හෙලිකොප්ටරයක් ද වීරවිල ගුවන් හමුදා කඳවුරේ ස්ථාන ගතකර තිබේ.
+
+අනතුරින් බරපතළ තුවාල වූ පුද්ගලයින් කොළඹට ගුවනින් රැගෙන ඒමට හෝ අවශ්‍ය ඕනෑම ගලවාගැනීමේ මෙහෙයුමකට සහාය වීම සඳහා මෙම යානා සූදානම් කර ඇත.
+
+මෙම අනතුර සිදු වූ අවස්ථාවේ සිටම ශ්‍රී ලංකා ගුවන් හමුදාව විසින් රෙජිමේන්තු විශේෂ බලකායේ මුදවා ගැනීමේ කණ්ඩායමක්ද යොමුකිරීමට කටයුතු කළේය.
+
+තවද නිරීක්ෂණ කටයුතු සඳහා ගුවන් හමුදාවට අයත් බීච් ක්‍රාෆ්ට් වර්ගයේ යානයක් ද ඊයේ යොදවනු ලැබීය.
+
+රාත්‍රී කාලයේ මෙම අනතුර සිදු වූ හෙයින් මුදාගැනීමේ කටයුතු දැඩි ලෙස වෙහෙසකර වූ අතර, එහි පහසුව සඳහා එලෙස එම යානය යොදවනු ලැබීය.
+
+◼️
+
+[Data](articles/3cb8e684.json)
+
+---
+
+### எல்ல பஸ் விபத்து ; மீட்பு பணியில் ஈடுப்பட்ட இராணுவ வீரர்கள் இருவருக்கு காயம்
+
+*2025-09-05 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224258) · `ta`
+
+எல்ல - வெல்லவாய பிரதான வீதியில் நேற்று வியாழக்கிழமை (04) இரவு பள்ளத்தில் கவிழ்ந்து விபத்துக்குள்ளான பஸ்ஸில் பயணித்த பயணிகளை மீட்க முயன்ற இராணுவ வீரர்கள் இருவர் காயமடைந்துள்ளனர்.
+
+இராணுவ வீரர்கள் கயிறுகளைப் பயன்படுத்தி பள்ளத்தாக்கில் இறங்க முயன்றபோது காயமடைந்ததாக எல்ல பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்த இராணுவ வீரர்களில் ஒருவர் விபத்து நடந்தபோது எல்ல, கரடகொல்லவில் உள்ள தனது வீட்டில் விடுமுறையில் இருந்துள்ளார்.
+
+இந்நிலையில்,  அவர் சம்பவ இடத்திற்கு விரைந்து சென்று தியத்தலாவ இராணுவ முகாம் வீரர்களுடன் மீட்புப் பணியில் ஈடுபட்ட போது வழுக்கி விழுந்துள்ளார். இதன்போது, கீழே இறங்க முயன்ற மற்றொரு அதிகாரியும் விழுந்து காயமடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/ead8cbea.json)
+
+---
 
 ### අල්ල අනතුරින් තංගල්ල න.ස. ලේකම් ඇතුළු කාර්ය මණ්ඩලයේ 12ක් මරුට
 
@@ -116,6 +156,28 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Ella bus crash: 12 Tangalle UC employees including Secretary among victims
+
+*2025-09-05 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112198/ella-bus-crash-12-tangalle-uc-employees-including-secretary-among-victims-) · `en`
+
+Fifteen individuals, including the Tangalle Urban Council Secretary, 12 council employees, two children, and the bus driver, have been reported dead following a tragic bus accident on the Ella–Wellawaya main road last night, Deputy Minister of Local Government Ruwan Senarath confirmed.
+
+According to the Badulla Teaching Hospital, the two children and the bus driver were among the deceased.
+
+The bus, which was carrying Tangalle Urban Council employees and their families who were returning from a trip, veered off the road and came to rest around 500 feet below a cliff.
+
+Ada Derana reporter at the scene has managed to reach the crash site.
+
+The bus was carrying a total of 30 passengers, including its driver, police said.
+
+Preliminary investigations indicate that the group had been returning from a trip in the Ella area at the time of the accident, police said.
+
+◼️
+
+[Data](articles/49b0782c.json)
+
+---
+
 ### உலக புகழ்பெற்ற ஆடை வடிவமைப்பாளர் அர்மானி காலமானார்
 
 *2025-09-05 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224253) · `ta`
@@ -127,6 +189,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1b54a859.json)
+
+---
+
+### SLAF helicopters on standby to assist victims of Ella bus accident
+
+*2025-09-05 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112197/slaf-helicopters-on-standby-to-assist-victims-of-ella-bus-accident) · `en`
+
+The Sri Lanka Air Force (SLAF) has deployed an MI-17 helicopter at SLAF CTS Diyatalawa and a Bell 412 helicopter at SLAF Station Weerawila which have been placed on standby to provide assistance in response to the bus accident that occurred last night (04) on the Ella–Wellawaya road.
+
+These air assets remain ready to airlift patients to Colombo or to support any required rescue operations, the SLAF confirmed.
+
+The accident occurred last night (4) on the Ella- Wellawaya road, when a bus travelling towards Wellawaya collided with an oncoming SUV and the road’s metal fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging down a 1,000-foot precipice.
+
+The bus was carrying a total of 30 passengers, including its driver, police said.
+
+Preliminary investigations indicate that the group had been returning from a trip to Ella back to the Tangalle area at the time of the accident, police said.
+
+◼️
+
+[Data](articles/1f17fbdc.json)
 
 ---
 
@@ -265,6 +347,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8863428b.json)
+
+---
+
+### SUV driver arrested following tragic bus accident in Ella
+
+*2025-09-05 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112196/suv-driver-arrested-following-tragic-bus-accident-in-ella-) · `en`
+
+The driver of the SUV vehicle involved in the collision with a bus in Ella has been arrested, police confirmed.
+
+The accident occurred last evening (04) at around 9:00 p.m., when a bus travelling towards Wellawaya collided with an oncoming jeep and the road’s iron fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging into a 1,000-foot precipice.
+
+The bus was carrying a total of 30 passengers, including its driver, police said.
+
+Six men, including the bus driver, and nine women died in the accident. Among the injured, six men, five women, three boys, and two girls have been admitted to Badulla Hospital for treatment.
+
+In addition, two individuals who assisted in rescuing the passengers were also admitted to the hospital with injuries.
+
+Preliminary investigations indicate that the group had been returning from a trip in the Ella area at the time of the accident, police said.
+
+The bodies have been placed at the morgues of Diyatalawa, Badulla, and Bandarawela hospitals.
+
+◼️
+
+[Data](articles/4b4917c0.json)
 
 ---
 
@@ -1607,87 +1713,5 @@ Sri Lanka’s official reserve assets have increased marginally by 0.3% to USD 6
 ◼️
 
 [Data](articles/91f5470b.json)
-
----
-
-### களுவாஞ்சிகுடி - குருக்கள்மடம் மனித புதைகுழிகள் குறித்து முறைப்பாடளியுங்கள்; நீதியமைச்சர் பொதுமக்களிடம் வலியுறுத்தல்
-
-*2025-09-04 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224228) · `ta`
-
-ஐக்கிய நாடுகள் சபையையோ அல்லது சர்வதேச சமூகத்தையோ திருப்திப்படுத்துவதற்காக காணாமல் போனோர் தொடர்பிலும்,மனித புதைகுழிகள் தொடர்பிலும் விசாரணைகளை மேற்கொள்ளவில்லை. தேசிய நல்லிணக்கத்தை உறுதிப்படுத்த வேண்டுமாயின் கடந்த கால சம்வங்களுக்கு நீதியை பெற்றுக்கொடுக்க வேண்டும். செம்மணி மனித புதைகுழி சர்வதே தரத்துடன் முறையாக ஆராயப்படுகிறது முழுமையான ஒத்துழைப்பை தொடர்ந்து வழங்குவோம் என நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
-
-காணாமலாக்கப்பட்டோருக்கு எமது அரசாங்கத்தில் நீதி கிடைக்காவிடின், எந்த அரசாங்கத்தில் நீதி கிடைக்கும்? களுவாஞ்சிகுடி மற்றும் குருக்கள்மடம் மனித புதைகுழிகள் தொடர்பில் முறைப்பாடளிக்குமாறு பொதுக்களிடம் கேட்டுக்கொள்கிறேன். வழங்கப்படும் தகவல்கள் பாதுகாக்கப்படுவதுடன் தகவல் வழங்குபவரின் பாதுகாப்பு உறுதிப்படுத்தப்படும் எனவும் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/e7bec6ea.json)
-
----
-
-### තියුණු ආයුධකින් පහර දී කාන්තාවක් ඝාතනය කෙරේ
-
-*2025-09-04 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214181) · `si`
-
-යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙක් විසින් කාන්තාවකට තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
-
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 49ක් වන රජාංගනය ප්‍රදේශයේ පදිංචි දෙදරු මවකි.
-
-අදාළ කාන්තාව මීට මාස තුනකට පෙර සිය ස්වාමිපුරුෂයා සමඟ ඇති වූ ආරවුලක් හේතුවෙන් ඔහුගෙන් වෙන්ව තම මහගෙදරට පැමිණ ජීවත්ව සිට ඇති බව වාර්තා වේ.
-
-ඇය ඊයේ රාත්‍රියේ දී නිවස ඉදිරිපසට වී දුරකථන ඇමතුමක් ලබා ගනිමින් සිටිය දී යතුරු පැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙක් විසින් මෙසේ ඇයට තියුණු ආයුධයකින් පහර දී ඇත.
-
-පහර කෑමට ලක්වූ කාන්තාව එම අවස්ථාවේදීම රාජාංගනය යාය 05 මූලික රෝහලට ඇතුළත් කර ඇති අතර රෝහලට රැගෙන යන විටත් ඇය මියගොස් සිටි බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/854c1eaf.json)
-
----
-
-### சஜித்துக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவிடமிருந்து எவ்வித அறிவிப்பும் இல்லை - ஹர்ஷண ராஜகருணா
-
-*2025-09-04 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224227) · `ta`
-
-ஐ.தே.க. தலைமையகமான சிறிகொத்தா அலுவலகம் மீள் நிர்மாணிக்கப்பட்டமை தொடர்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு அழைப்பு விடுத்துள்ளதாக ஊடகங்களில் செய்திகள் வெளியாகியுள்ளன. ஆனால் இது தொடர்பில் எதிர்க்கட்சி தலைவருக்கு எவ்வித உத்தியோகபூர்வ அறிவித்தலும் வெளியிடப்படவில்லை என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷண ராஜகருணா தெரிவித்தார்.
-
-கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில் வியாழக்கிழமை (4) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-கடந்த காலங்களில் ஐ.தே.க. தலைமையகமான சிறிகொத்தா அலுவலகம் மீள் நிர்மாணிக்கப்பட்டமை தொடர்பில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாசவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு அழைப்பு விடுத்துள்ளதாக ஊடகங்களில் செய்திகள் வெளியாகியுள்ளன. இது தொடர்பில் நான் அவரிடம் வினவினேன். எனினும் தனக்கு எவ்வித அறிவித்தலும் வழங்கப்படவில்லை என எதிர்க்கட்சி தலைவர் தெரிவித்தார்.
-
-...
-
-[Data](articles/ee1697d2.json)
-
----
-
-### மண்டைதீவு புதைகுழிக் கிணற்றை அகழ வலியுறுத்தி ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் முறைப்பாடு!
-
-*2025-09-04 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/224226) · `ta`
-
-மண்டைதீவு படுகொலை சம்பவத்துடன் தொடர்புடைய உடலங்கள் புதைக்கப்பட்டதாக கூறப்படும் கிணதுகளை அகழ்ந்து, குறித்த சம்பவம் தொடர்பில் நீதியான விசாரணை  முன்னெடுக்கப்பட்டு உண்மைகள் வெளிக் கொணரப்படுவதுடன் பாதிக்கப்பட்ட உறவுகளுக்கு நீதியும் பரிகாரமும் வழங்கப்பட வேண்டும் என்று கோரி ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் முறைப்பாடு ஒன்று வியாழக்கிழமை (04.09.2025) பதிவு செய்யப்பட்டுள்ளது.
-
-குறித்த சம்பவத்தில் தனது மகனை பறிகொடுத்த 81 வயதுடைய ஸ்ரிபன் மரில்டா என்பவர் வேலணை பிரதேச சபையின் உறுப்பினரான சுவாமிநாதன் பிரகலாதன் ஆகியோரால் வேலணை பிரதேச சபையின் ஈழ மக்கள் ஜன நாயகக் கட்சியின் உறுப்பினரான திருமதி அனுசியா ஜெயகாந்த், அகில இலங்கை தமிழ் கங்கிரஸ் கட்சியின் உறுப்பினர்களான கருணாகரன் நாவலன் மற்றும் திருனாவுக்கரசு சிவகுமாரன்,  ஐக்கிய தேசியக் கட்சியின் உறுப்பினரான செந்தமிழ்ச்செல்வன் திருக்கேதீஸ்வரன், தமிழரசுக் கட்சியின் உறுப்பினரான மங்களேஸ்வரன் கார்த்தீபன் ஆகியோரது பிரசன்னத்துடன் இருவேறு முறைப்பாடுகள் இன்று ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் (04.09.2025) பதிவு செய்துள்ளனர்.
-
-...
-
-[Data](articles/17a5ac46.json)
-
----
-
-### Death toll from Afghan earthquake jumps to 2,205 as aid agencies plead for funds
-
-*2025-09-04 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112184/death-toll-from-afghan-earthquake-jumps-to-2205-as-aid-agencies-plead-for-funds) · `en`
-
-Hundreds of bodies have been recovered from houses destroyed by a major earthquake in Afghanistan last week, pushing the death toll to over 2,200, a Taliban government spokesman said Thursday.
-
-A 6.0 magnitude quake struck several provinces of the mountainous and remote east on Sunday night, levelling villages and trapping people under rubble. The majority of casualties have been in Kunar, where many live in steep river valleys separated by high mountains.
-
-Taliban spokesman Hamdullah Fitrat, who provided the updated casualty figure of 2,205, said rescue and search efforts were continuing. “Tents have been set up for people, and the delivery of first aid and emergency supplies is ongoing.”
-
-The rough terrain is hindering relief efforts. Taliban authorities have deployed helicopters and airdropped army commandos to help survivors. Aid workers have reported walking for hours to reach villages cut off by landslides and rockfall.
-
-...
-
-[Data](articles/f184a3e6.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 18:10:53**
+As of **2025-09-05 18:32:52**
 
 ## Newspaper Stats
 
-*Scraped **74,349** Articles*
+*Scraped **74,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,188
-adaderanalk | 9,498
-tamilmirrorlk | 11,066
+adaderanalk | 9,499
+tamilmirrorlk | 11,067
 virakesarilk | 12,159
-adaderanasinhalalk | 12,922
+adaderanasinhalalk | 12,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,349 articles have been extended.
+61,973 (83.4%) of 74,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### விக்டோரியாவில் மூழ்கி கண்டி மாணவன் பலி
+
+*2025-09-05 18:13:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விக்டோரியாவில்-மூழ்கி-கண்டி-மாணவன்-பலி/76-364071) · `ta`
+
+கண்டியில் உள்ள ஒரு முன்னணி ஆண்கள் பாடசாலையின் மூன்று மாணவர்கள் விக்டோரியா நீர்த்தேக்கத்தில் குளிக்கச் சென்றபோது அதில் ஒருவர் நீரில் மூழ்கி உயிரிழந்ததாக தெல்தெனிய காவல்துறை தெரிவித்துள்ளது.
+
+மீட்கப்பட்ட இரண்டு மாணவர்களும் தெல்தெனிய மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாக காவல்துறை செய்தித் தொடர்பாளர் தெரிவித்தார்.
+
+சம்பவத்தில் உயிரிழந்தவர் 12 ஆம் வகுப்பு படிக்கும்  மாணவன் என்று தெல்தெனிய காவல்துறை தலைமையக அதிகாரி இது குறித்து கேட்டபோது மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3af547be.json)
+
+---
+
+### ඇල්ල බස් අනතුරින් විපතට පත් තංගල්ලේ මිනිසුන් වෙනුවෙන් හිටපු ජනපති මහින්ද තැබූ සටහන
+
+*2025-09-05 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214214) · `si`
+
+ඇල්ල බස් රථ අනතුරින් විපතට පත් සියලු පාර්ශව වෙත තමන්ගේ ශෝකය ප්‍රකාශ කරන බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+සිය මුහුණුපොතේ සටහනක් තබමින් හිටපු ජනාධිපතිවරයා සඳහන් කර ඇත්තේ ඊයේ (04) රාත්‍රියේ සිදුවූ අනතුර පිළිබඳව අසා තමන් දැඩි කම්පාවට සහ ශෝකයට පත්වූ බවය.
+
+එමෙන්ම තමන්ගේ ගම් ප්‍රදේශය වන තංගල්ල ප්‍රදේශයේ නගර සභාවේ ලේකම්වරයා ඇතුළු තවත් පිරිසක් මෙම අනතුරින් ජීවිතක්ෂයට පත්වීම සමස්ත රටේම පුරවැසියන් මෙන්ම තංගල්ල ප්‍රදේශයේම සියල්ලන්ටම දැඩි කණගාටුදායක කරුණක් බවත් හිටපු ජනපතිවරයා සඳහන් කර තිබේ.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා නිකුත් කළ සම්පූර්ණ නිවේදනය පහතින්,
+
+ඊයේ රාත්‍රියේ (04) ඇල්ල-වැල්ලවාය මාර්ගයේ සිදුව ඇති බස්රථ අනතුර පිළිබඳව අසා බෙහෙවින් කම්පාවට සහ ශෝකයට පත් වූයෙමි.
+
+තංගල්ල ප්‍රදේශයේ සිට විනෝද චාරිකාවක් සඳහා පැමිණ, නැවත යමින් සිටිය දී රාවණා ඇල්ල ප්‍රදේශයේ සිදුව ඇති මෙම අනතුර හේතුවෙන් තංගල්ල නගර සභාවේ ලේකම් වන ටී. ඩබ්ලිව්. කේ. රූපසේන මහතා ඇතුළු තවත් පිරිසකගේ ජීවිත රැසක් අහිමි ව ඇති බවත්, තවත් බහුතරයක් තුවාල ලබා ඇති බවත් වාර්තා වේ.
+
+...
+
+[Data](articles/2d95ae8a.json)
+
+---
 
 ### ළිදක් පිරිසිදු කිරීමට ගිය පුද්ගලයෙකු සිහිසුන්ව ඇඳ වැටීමෙන් මරුට
 
@@ -143,6 +181,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6d70f3de.json)
+
+---
+
+### President’s Fund to provide Rs. 1 mln compensation for victims of Ella bus crash
+
+*2025-09-05 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112208/presidents-fund-to-provide-rs-1-mln-compensation-for-victims-ofellabuscrash) · `en`
+
+The President’s Fund has decided to grant compensation of Rs. 1 million each to the families of those who lost their lives in the bus accident that occurred last night (04) on the Ella–Wellawaya main road, the President’s Media Division (PMD) said.
+
+A bus, which was carrying a group of Tangalle Urban Council employees and their families returning from a trip, veered off the road near the 24th kilometer post on the Ella–Wellawaya main road at around 9:00 p.m. last night (04).
+
+It first collided with an oncoming SUV vehicle and then the road’s metal barrier before plunging around 1,000 feet down a precipice.
+
+A total of 15 individuals — including Tangalle Urban Council Secretary T.W.K. Rupasena, 12 council employees, two children, and the bus driver — were killed in the accident.
+
+18 others including several children were injured and are currently receiving treatment at the Badulla Teaching Hospital.
+
+◼️
+
+[Data](articles/816d0b4e.json)
 
 ---
 
@@ -1673,55 +1731,5 @@ The Colombo Chief Magistrate initially ordered his remand, and a bail applicatio
 ◼️
 
 [Data](articles/79844de4.json)
-
----
-
-### CoPF approves additional funding for Kandy water supply project
-
-*2025-09-05 04:18:30* · [`dailyftlk`](https://www.ft.lk/news/CoPF-approves-additional-funding-for-Kandy-water-supply-project/56-781272) · `en`
-
-The Parliament Secretariat yesterday said the Committee on Public Finance (CoPF) approved a proposed supplementary estimate to settle unpaid bills and complete the remaining work of the China EXIM Bank-financed Kandy North Pathadumbara Integrated Water Supply Project.
-
-The supplementary estimate was presented by the Urban Development, Construction and Housing Ministry.
-
-The statement did not disclose the value of the supplementary estimates nor the status of the project.
-
-According to the National Water Supply and Drainage Board, the Rs. 58 billon project with local funding amounting to Rs. 7.3 billion, commenced in August 2019 and was due for completion by August 2022, with an extension granted to March 2025. The project included upgrading 27 service reservoirs, building 18 new pump houses, and laying 570 km distribution and 83 km transmission lines.
-
-...
-
-[Data](articles/00f4b291.json)
-
----
-
-### அரசாங்கத்தின் தன்னிச்சையான நடவடிக்கைகளை எதிர்த்து ஒன்றிணையுமாறு அழைப்பு – துமிந்த நாகமுவ
-
-*2025-09-05 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224246) · `ta`
-
-எமது கட்சி காரியாலயத்தை பலவந்தமாக அபகரித்துள்ளதன் மூலம் அரசாங்கம் தனியாருக்கு உரித்தான உடமை ஒன்றுக்குள் பலவந்தமாக நுழைந்து அந்த உடமைகளை பலவந்தமாக கைப்பற்றும் நடவடிக்கை ஒன்றையே செய்திருக்கிறது. அரசாங்கத்தின் இவ்வாறான தன்னிச்சையான நடவடிக்கைகளுக்கு எதிராக ஒன்றிணையுமாறு அனைவரையும் அழைக்கிறோம் என முன்னிலை சோசலி கட்சியின் பிரசாரச் செயலாளர் துமிந்த நாகமுவ தெரிவித்தார்.
-
-முன்னிலை சோசலிச கட்சியின் கம்பஹா மாவட்ட பிரதான கட்சி காரியாலயத்தின் மீது செவ்வாய்க்கிழமை மேற்கொள்ளப்பட்ட தாக்குதல் தொடர்பில் வியாழக்கிழமை (4) பொலிஸ்மா அதிபருக்கு முறைப்பாடு செய்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/04ab2f55.json)
-
----
-
-### ஐஸ் போதைப்பொருள் உற்பத்தி நிலையம் நடத்த பாக்கிஸ்தானியர்கள் அழைக்கப்பட்டுள்ளது; விசாரணைகளில் தெரியவந்துள்ளது - அமைச்சர் ஆனந்த விஜேபால
-
-*2025-09-05 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224245) · `ta`
-
-இந்நாட்டில் ஐஸ் உற்பத்தி போதைப்பொருள் உற்பத்தி நிலையத்தை நடத்துவதற்காக இரண்டு பாக்கிஸ்தானியர்கள் நாட்டுக்கு அழைக்கப்பட்டிருந்ததாக விசாரணைகளில் தெரியவந்துள்ளது என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்துள்ளார்.
-
-கறுவாத்தோட்டம் புதிய பொலிஸ் நிலைய கட்டிடத்தை வியாழக்கிழமை (4) திறந்து வைத்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-இந்த நாட்டில் மிக நீண்டகாலமாக குற்றச் செயல்களுடனான கலாச்சாரம் காணப்பட்டது.அந்த கலாச்சாரத்தால் தோற்றம் பெற்ற செயற்பாட்டாளர்களையே அண்மையில் கைது செய்தோம்.நாட்டில் ஐஸ் போதைப்பொருள் உற்பத்தி நிலையத்தை நடத்திச் செல்வதற்காக இரண்டு பாக்கிஸ்தானியர்கள் நாட்டுக்கு வரவழைக்கப்பட்டிருந்ததாக விசாரணைகளின் போது வெளிவந்துள்ளது.
-
-தடுப்புக் காவலில் வைக்கப்பட்டுள்ளவர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் அவர்களுக்கும், அரசியல்வாதிகளுக்கும் இடையிலான தொடர்பு வெளிப்படுத்தப்பட்டுள்ளது.விசாரணைகளில் வெளிப்படுத்தப்பட்ட விடயங்கள் மேலும் தீவிரமாக ஆராயப்பட்டு அதற்குரிய நடவடிக்கைகள் சட்டத்தின் ஊடாக எடுக்கப்படும்.
-
-...
-
-[Data](articles/2708bb27.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 21:51:05**
+As of **2025-09-05 22:09:12**
 
 ## Newspaper Stats
 
-*Scraped **74,364** Articles*
+*Scraped **74,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,190
 adaderanalk | 9,500
 tamilmirrorlk | 11,068
 virakesarilk | 12,162
-adaderanasinhalalk | 12,928
+adaderanasinhalalk | 12,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,364 articles have been extended.
+61,973 (83.3%) of 74,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### පෙන්ටගනයේ නම වෙනස් කිරීමට  ට්‍රම්ප් තීරණය කරයි
+
+*2025-09-05 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214220) · `si`
+
+අමෙරිකානු ආරක්ෂක දෙපාර්තමේන්තුව හෙවත් පෙන්ටගනය නැවතත් අමෙරිකානු යුද දෙපාර්තමේන්තුව ලෙස නම් කිරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් තීරණය කර තිබේ.
+
+ඒ අනුව එරට ආරක්ෂක ලේකම් තනතුර ද යුද ලේකම් ලෙස වෙනස් වනු ඇති.
+
+කෙසේ වෙතත් එම නම වෙනස් කිරීමට එරට කොංග්‍රස් මණ්ඩලයේ අනුමැතිය අවශ්‍ය බැවින් අදාළ අනුමැතිය ලැබෙන තුරු එම දෙපාර්තමේන්තුවේ නම වෙනස් කිරීම ක්‍රියාත්මක කිරීමට ජනාධිපතිවරයාට හැකියාව නොලැබෙන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/94116688.json)
+
+---
 
 ### බ්‍රිතාන්‍ය නියෝජ්‍ය අගමැතිනී ඇන්ජෙලා රේනර් ඉල්ලා අස්වෙයි
 
@@ -1751,19 +1767,5 @@ United National Party (UNP) leader Ranil Wickremesinghe has been in politics for
 ...
 
 [Data](articles/2dc85ca4.json)
-
----
-
-### Profile of a deeply divisive defence  mechanism in our democracy today
-
-*2025-09-05 05:27:45* · [`dailyftlk`](https://www.ft.lk/columns/Profile-of-a-deeply-divisive-defence-mechanism-in-our-democracy-today/4-781300) · `en`
-
-The hoi polloi have waged psychological warfare online – hat in hand, a PDA in the other – ever since the shock arrest
-
-The curious case of an ex chief executive’s indictment has brought on a battery of psychiatric symptoms among denizens of the Demotic Social-media Republic of Sri Lanka. ‘Demotic’ in the sense of the common people and ‘Social-media’ is self-explanatory. The hoi polloi have waged psychological warfare online – hat in hand, a PDA in the other – ever since the shock arrest.
-
-...
-
-[Data](articles/9dfd817f.json)
 
 ---

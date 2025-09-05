@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 20:50:39**
+As of **2025-09-05 21:08:43**
 
 ## Newspaper Stats
 
-*Scraped **74,360** Articles*
+*Scraped **74,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ dailyftlk | 5,277
 adalk | 7,190
 adaderanalk | 9,500
 tamilmirrorlk | 11,068
-virakesarilk | 12,159
-adaderanasinhalalk | 12,927
+virakesarilk | 12,162
+adaderanasinhalalk | 12,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,360 articles have been extended.
+61,973 (83.3%) of 74,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### බ්‍රිතාන්‍ය නියෝජ්‍ය අගමැතිනී ඇන්ජෙලා රේනර් ඉල්ලා අස්වෙයි
+
+*2025-09-05 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214219) · `si`
+
+බ්‍රිතාන්‍යයේ නියෝජ්‍ය අගමැතිවරිය ලෙස කටයුතු කළ ඇන්ජෙලා රේනර් සිය තනතුරින් ඉල්ලා අස්වී තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ නැගෙනහිර සසෙක්ස් හී මිලදී ගත් මහල් නිවාසයකට ප්‍රමාණවත් මුද්දර ගාස්තු ගෙවීමට අපොහොසත් වීම හේතුවෙන් ඇන්ජෙලා සිය නියෝජ්‍ය අග්‍රාමාත්‍ය ධුරයෙන් සහ නිවාස ලේකම් ධුරයෙන් ඉල්ලා අස්වී ඇති බවය.
+
+ඇය සිය තනතුරින් ඉල්ලා අස්වීමෙන් පසු තමන් දැරූ කම්කරු පක්ෂයේ නියෝජ්‍ය නායකත්ව ධුරයෙන් ඉල්ලා අස්වී ඇතැයිද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+පිටු දෙකක් පුරාවට සිය ඉල්ලා අස්වීමේ ලිපිය සටහන් කරමින් ඇය පවසා ඇත්තේ මෙහි සම්පූර්ණ වගකීම ඇය විසින් භාර ගන්නා බවත් මෙම කාරණය සම්බන්ධව ඇගේ පවුලේ සාමාජිකයින් කෙරෙහි ඇති අවධානයේ බලපෑම හේතුවෙන් තමන් සිය ධුරයෙන් ඉල්ලා අස්වන බවය.
+
+ඇගේ ඉල්ලා අස්වීමෙන් පසු බ්‍රිතාන්‍ය අග්‍රාමාත්‍ය කියර් ස්ටාර්මර් විසින් සිය කැබිනට් මණ්ඩලය සංශෝධනය කර ඇති අතර ඒ අනුව නව නියෝජ්‍ය අග්‍රාමාත්‍යවරයා ලෙස ඩෙවිඩ් ලැමි පත් කිරීමට අග්‍රාමාත්‍යවරයා විසින් පියවර ගෙන තිබේ.
+
+එමෙන්ම ඔහුව නියෝජ්‍ය අගමැති ධුරයට අමතරව අධිකරණ ලේකම් ලෙසද පත්කර ඇත.
+
+...
+
+[Data](articles/71db7e17.json)
+
+---
 
 ### පද්මේ ගෙන්වූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදන රසායනික ද්‍රව්‍ය ගැන තවත් තොරතුරු එළියට
 
@@ -42,7 +64,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පොලිසිය පැවසුවේ, ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පළාත් පාලන මන්ත්‍රීවරයෙක් හා ඔහුගේ සහෝදරයා අදාළ රසායනික ද්‍රව්‍ය සඟවා තබාගෙන සිට ඇති බවය.
 
-කෙහෙල්බද්දර පද්මේ අයිස් නිෂ්පාදනය කිරීම සඳහා නුවරඑළිය ප්‍රදේශයේ නිවසක් කුලියට ගෙන පාකිස්තානුවන් දෙදෙනෙකුද මෙරටට ගෙන්ව සිට ඇති බව පසුගියදා පොලිසිය අනාවරණ කරගෙන තිබුණි.
+කෙහෙල්බද්දර පද්මේ අයිස් නිෂ්පාදනය කිරීම සඳහා නුවරඑළිය ප්‍රදේශයේ නිවසක් කුලියට ගෙන පාකිස්තානුවන් දෙදෙනෙකුද මෙරටට ගෙන්වා ඇති බව පසුගියදා පොලිසිය අනාවරණය කරගෙන තිබුණි.
 
 ඒ අනුව බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවන බැකෝ සමන් නැමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඒ පිළිබඳව තහවුරු කරගැනීමට පොලිසියට හැකි විය.
 
@@ -67,6 +89,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/a6a1091d.json)
+
+---
+
+### செம்மணி மனித புதைகுழி :  சப்பாணி நிலையில் மனித எழும்பு கூட்டு மீட்பு
+
+*2025-09-05 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224332) · `ta`
+
+செம்மணி மனித புதைகுழி அகழ்வு பணிகளின் போது வியாழக்கிழமை (4) குவியலாக எட்டு மனித என்பு தொகுதிகள் அடையாளம் காணப்பட்ட நிலையில், அவற்றை சுத்தம் செய்யும் பணிகள் முன்னெடுக்கப்பட்டன.
+
+அதன் போது, வெள்ளிக்கிழமை அவற்றுள் ஒரு மனித என்பு கூட்டு தொகுதி கால்கள் மடிக்கப்பட்டு இருந்த (சப்பாணி) நிலையில் அடையாளம் காணப்பட்டுள்ளது.
+
+நேற்றைய தினம் 227 இலக்கமிடப்பட்டிருந்த என்பு கூட்டு தொகுதியே இருந்த நிலையில் காணப்படுகிறது.
+
+செம்மணியில் இதுவரையில், கட்டம் கட்டமாக 53 நாட்கள் முன்னெடுக்கப்பட்ட அகழ்வு பணிகளின் போது, 240 எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ள நிலையில் , அவற்றுள் 235 எலும்பு கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9f83d10a.json)
 
 ---
 
@@ -102,6 +142,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### செம்மணி – சித்துபாத்தி மனிதப் புதைகுழியில் மேலும் 5 எலும்புக்கூடுகள் கண்டுபிடிப்பு
+
+*2025-09-05 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224331) · `ta`
+
+செம்மணி - சித்துபாத்தி மனிதப் புதைகுழியில் வெள்ளிக்கிழமை (5) மேலும் 5 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளது.
+
+இதன் அடிப்படையில் இதுவரை 240 மனித எலும்புக்கூடுகள் அடையாளம் காணப்பட்டுள்ளதுடன் இதில் 235 மனித எலும்புக்கூடுகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் - செம்மணி - அரியாலை சித்துபாத்தி இந்து மயான மனிதப் புதைகுழியின் இரண்டாம் கட்ட அகழ்வு பணிகள் 44வது நாளாக இன்று யாழ்ப்பாண மாவட்ட மேலதிக நீதவான் செல்வநாயகம் லெனின்குமார் முன்னிலையில் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/079ea0f0.json)
+
+---
+
 ### ඇල්ල බස් අනතුරින් තුවාල ලැබූවන්ගේ නවතම තත්ත්වය
 
 *2025-09-05 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214216) · `si`
@@ -117,6 +173,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/120a120b.json)
+
+---
+
+### மின்சாரசபை தொடர்பில் தன்னிச்சையாக தீர்மானங்களை எடுக்கும் அரசாங்கம் - அஜித் பி பெரேரா
+
+*2025-09-05 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224330) · `ta`
+
+இலங்கை மின்சாரசபை ஏனைய அரச நிறுவனங்களை விட அதிக இலாபமீட்டும் நிறுவனமாகும். ஆனால் அரசாங்கம் அதன் பணியாளர்கள் பாதிக்கப்படும் வகையில் தீர்மானங்களை எடுத்துள்ளது. இவ்வாறு தன்னிச்சையாக தீர்மானங்களை எடுக்காது மின்சாரசபை உத்தியோகத்தர்களுடன் கலந்துரையாடி அதற்கமைய தீர்மானங்கள் எடுக்கப்பட வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+கொழும்பில் வெள்ளிக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+மின்சாரசபையை மறுசீரமைப்பதை யாரும் எதிர்க்கவில்லை. எவ்வாறிருப்பினும் அதற்கான முறையான சட்டத்தை நடைமுறைப்படுத்துவதில் இந்த அரசாங்கம் தோல்வியடைந்துள்ளது. மாறாக 23 000 மின்சாரத்துறை ஊழியர்களும் பாதிக்கப்படும் வகையிலான தீர்மானங்களையே அரசாங்கம் எடுத்துள்ளது. லெகோ நிறுவனம் நாட்டின் ஏனைய நிறுவனங்களுடன் ஒப்பிடுகையில் சிறந்த இலாபமீட்டும் அரச நிறுவனமாகும்.
+
+...
+
+[Data](articles/24708d02.json)
 
 ---
 
@@ -1693,65 +1765,5 @@ The curious case of an ex chief executive’s indictment has brought on a batter
 ...
 
 [Data](articles/9dfd817f.json)
-
----
-
-### China holds massive parade to mark 80th anniversary of WWII victory
-
-*2025-09-05 04:35:13* · [`dailyftlk`](https://www.ft.lk/news/China-holds-massive-parade-to-mark-80th-anniversary-of-WWII-victory/56-781284) · `en`
-
-Chinese President, Communist Party of China Central Committee General Secretary and Central Military Commission Chairman Xi Jinping delivers an important speech during a grand gathering to commemorate the 80th anniversary of the victory in the Chinese People’s War of Resistance against Japanese Aggression and the World Anti-Fascist War in Beijing, capital of China on 3 September (Xinhua/Yan Yan)
-
-China held a massive military parade in central Beijing on Wednesday to mark the 80th anniversary of its victory in World War II, pledging the country’s commitment to peaceful development in a world still fraught with turbulence and uncertainties.
-
-Towering structures shaped like the Great Wall stood in Tian’anmen Square, symbolising the Chinese nation’s courage and solidarity in resisting foreign aggression.
-
-Chinese President, Communist Party of China Central Committee General Secretary and Central Military Commission Chairman Xi Jinping, oversaw the parade and reviewed the troops.
-
-...
-
-[Data](articles/f8f5c6a7.json)
-
----
-
-### Japan-funded Habarana-Veyangoda Transmission Line Project completed
-
-*2025-09-05 04:33:13* · [`dailyftlk`](https://www.ft.lk/news/Japan-funded-Habarana-Veyangoda-Transmission-Line-Project-completed/56-781283) · `en`
-
-Japanese Ambassador Akio Isomata on Wednesday attended the opening ceremony of the Habarana-Veyangoda Transmission Line Project at New Habarana grid substation, together with Energy Minister Kumara Jayakody, Ceylon Electricity Board (CEB) General Manager Wasantha Edussuriya, and JICA Sri Lanka Office Chief Representative Kenji Kuronuma.
-
-This yen loan project funded by the Government of Japan worth approximately $ 65 million aims to contribute to Sri Lanka’s economic development by strengthening transmission capacity, enhancing the reliability of the power supply and reducing transmission loss through the construction of low-loss transmission lines and substations between Habarana and Veyangoda.
-
-This project is a significant milestone as it is the first yen-loan project which has been completed and handed over to Sri Lanka since the disbursement of 11 suspended yen-loan projects was resumed in July last year, after the interval of three years due to the economic crisis in Sri Lanka.
-
-...
-
-[Data](articles/97a5adb5.json)
-
----
-
-### SL’s High Commissioner  to Pakistan presents credentials
-
-*2025-09-05 04:31:02* · [`dailyftlk`](https://www.ft.lk/news/SL-s-High-Commissioner-to-Pakistan-presents-credentials/56-781282) · `en`
-
-High Commissioner of Sri Lanka to Pakistan, Rear Admiral Fred Senavirathne (Retd.) presented his Letters of Credence to the President of the Islamic Republic of Pakistan, Asif Ali Zardari on 22 August, at Aiwan – e-Sadr (Presidency), Islamabad.
-
-During the proceeding of the ceremony, the High Commissioner was escorted by the protocol of the MoFA from the High Commission premises to the Presidency. The credentials ceremony featured a Guard of Honour by a smartly turned-out contingent of the Armed Forces which was followed by the presentation of credentials and a courtesy call on the President of Pakistan.
-
-...
-
-[Data](articles/7bbdfe40.json)
-
----
-
-### Royal College Old Boys’ East Coast Foundation welcomes newly appointed Sri Lankan Permanent Representative to UN
-
-*2025-09-05 04:30:08* · [`dailyftlk`](https://www.ft.lk/news/Royal-College-Old-Boys-East-Coast-Foundation-welcomes-newly-appointed-Sri-Lankan-Permanent-Representative-to-UN/56-781281) · `en`
-
-The Royal College Old Boys’ East Coast Foundation welcomed the newly appointed Permanent Representative of Sri Lanka to the United Nations, H.E. Jayantha Jayasuriya, PC, at a special gathering held in New York, United States.
-
-...
-
-[Data](articles/f6d98ed7.json)
 
 ---

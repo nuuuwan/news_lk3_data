@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 03:07:21**
+As of **2025-09-06 03:32:31**
 
 ## Newspaper Stats
 
-*Scraped **74,371** Articles*
+*Scraped **74,372** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 625
+dbsjeyarajcom | 626
 bbccomsinhala | 677
 colombotelegraphcom | 756
 economynextcom | 4,520
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,371 articles have been extended.
+61,973 (83.3%) of 74,372 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -389,6 +389,20 @@ Starmer has now suffered the most ministerial resignations, outside government r
 ...
 
 [Data](articles/2d95ae8a.json)
+
+---
+
+### 
+
+*2025-09-05 17:43:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86397) · `en`
+
+‘அபிநய சரஸ்வதி’ என்று மெச்சப்பட்ட கன்னடத்துப் பைங்கிளியாக கொஞ்சும் மொழியில்  இனிமையாக பேசிய  சரோஜாதேவி தென்னிந்திய நடிகைகளில் திரையில் கவர்ந்திழுக்கும் “கஜ காமினி” யின் நடையைக் காண்பித்தவர்
+
+தமிழ் திரைப்படங்களை பார்த்து வளர்ந்த இந்த கட்டுரையாளரைப் போன்ற தமிழ்ச்சினிமா ரசிகர்களுக்கு தென்னிந்தியாவின் பழம்பெரும் நடிகை பி.சரோஜாதேவியின் மரணம் பெரும் கவலையைத் தந்தது. 2025 ஜூலை 14 ஆம் காலையில்  திகதி தனது தினசரி 30 நிமிட பூஜை வழிபாட்டைச் செய்து முடித்துவிட்டு சோபாவில் இருந்து தொலைக்காட்சி பார்த்துக் கொண்டிருந்த வேளையில்  திடீரென்று ஒரு முனகலுடன் மயங்கி விழுந்த அவரை வைத்தியசாலைக்கு கொண்டு சென்றபோது அவர் மரணமடைந்து விட்டதாக அங்கு  அறிவிக்கப்பட்டது. அவருக்கு 87 வயது.
+
+...
+
+[Data](articles/54b274e5.json)
 
 ---
 
@@ -1757,25 +1771,5 @@ The nearest places in Sri Lanka over which the sun is overhead today (5) are Nal
 ◼️
 
 [Data](articles/82a0c938.json)
-
----
-
-### Ella Bus Accident: Death toll rises to 15, several injured
-
-*2025-09-05 06:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112191/ella-bus-accident-death-toll-rises-to-15-several-injured) · `en`
-
-The death toll from the bus crash near the 24th Km Post on the Ella-Wellawaya main road last night (4) has reportedly increased to 15.
-
-At least fifteen individuals, including nine females, were reported dead, while 18 others — 11 males and seven females, including children — sustained injuries when a bus toppled down a precipice near the 24th km post on the Ella–Wellawaya main road last night, police confirmed.
-
-More than 15 patients have been admitted to the Badulla Teaching Hospital, with several said to be in critical condition.
-
-The accident occurred when the bus, carrying a group of employees from the Tangalle Municipal Council who had been on an excursion, veered off the road and toppled down a slope of approximately 500 metres before coming to a halt.
-
-The group had been returning to Tangalle from Ella at the time of the accident. Police said around 30 people were on board the bus when the incident took place.
-
-◼️
-
-[Data](articles/4d9c134a.json)
 
 ---

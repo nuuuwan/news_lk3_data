@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 18:32:52**
+As of **2025-09-05 18:55:39**
 
 ## Newspaper Stats
 
-*Scraped **74,352** Articles*
+*Scraped **74,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,188
 adaderanalk | 9,499
 tamilmirrorlk | 11,067
 virakesarilk | 12,159
-adaderanasinhalalk | 12,923
+adaderanasinhalalk | 12,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,352 articles have been extended.
+61,973 (83.3%) of 74,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### උණුසුම් කාලගුණය ගැන නිවේදනයක්
+
+*2025-09-05 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214215) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (05)  ප.ව. 04.00ට නිකුත් කරන ලද එම නිවේදනය 06 දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කළ යුතු” මට්ටමක පැවතිය හැකි බවද එහි සඳහන් වේ.
+
+◼️
+
+[Data](articles/be07f6b4.json)
+
+---
 
 ### விக்டோரியாவில் மூழ்கி கண்டி மாணவன் பலி
 
@@ -70,11 +86,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ළිදක් පිරිසිදු කිරීමට ගිය පුද්ගලයෙකු සිහිසුන්ව ඇඳ වැටීමෙන් මරුට
+### ළිඳක් පිරිසිදු කිරීමට ගිය පුද්ගලයෙකු සිහිසුන්ව ඇද වැටීමෙන් මරුට
 
 *2025-09-05 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214213) · `si`
 
-කල්තොට ගල්ටැම්යාය ප්‍රදේශයේ දීර්ඝ කාලයක් වසා තිබූ ළිදකට බැසීමට ගිය පුද්ගලයෙකු සිහිසුන්ව ඇදවැටීමෙන් මියගොස් තිබේ.
+කල්තොට ගල්ටැම්යාය ප්‍රදේශයේ දීර්ඝ කාලයක් වසා තිබූ ළිඳකට බැසීමට ගිය පුද්ගලයෙකු සිහිසුන්ව ඇදවැටීමෙන් මියගොස් තිබේ.
 
 මිතුරන් දෙදෙනෙකු සමග ප්‍රදේශයේ නිවසක ළිදක් පිරිසිදු කිරීමට ගිය අවස්ථාවේ අදාළ පුද්ගලයා මෙලෙස අනතුරට ලක්ව ඇති බව පොලිසිය පැවසුවේය.
 
@@ -1715,21 +1731,5 @@ Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spo
 ...
 
 [Data](articles/976e6eb1.json)
-
----
-
-### Shasheendra Rajapaksa files High Court bail petition
-
-*2025-09-05 04:19:26* · [`dailyftlk`](https://www.ft.lk/news/Shasheendra-Rajapaksa-files-High-Court-bail-petition/56-781273) · `en`
-
-Former Minister Shasheendra Rajapaksa, who is in remand custody on charges under the Public Property Act, yesterday filed a bail application before the Colombo High Court after being denied bail at the Magistrate’s Court.
-
-High Court Judge Lanka Jayaratne fixed the matter for 2 October to consider submissions on the request. Rajapaksa was taken into custody by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on 6 August over allegations that compensation amounting to Rs. 8.85 million was secured by pressuring officials of the Damage Assessment Office. The payment is related to the property of the Mahaweli Authority at Sevanagala that was destroyed during the recent public protests.
-
-The Colombo Chief Magistrate initially ordered his remand, and a bail application before the Magistrate’s Court was rejected on 12 August. Rajapaksa has now sought revision before the High Court, asking that the Magistrate’s order be set aside and that he be granted bail.
-
-◼️
-
-[Data](articles/79844de4.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 05:33:03**
+As of **2025-09-05 06:09:27**
 
 ## Newspaper Stats
 
-*Scraped **74,255** Articles*
+*Scraped **74,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 756
 economynextcom | 4,516
 islandlk | 4,557
 dailymirrorlk | 4,733
-dailyftlk | 5,272
+dailyftlk | 5,275
 adalk | 7,177
 adaderanalk | 9,481
 tamilmirrorlk | 11,051
@@ -26,11 +26,53 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,255 articles have been extended.
+61,973 (83.5%) of 74,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### Timely visit of President to Katchatheevu
+
+*2025-09-05 05:37:43* · [`dailyftlk`](https://www.ft.lk/columns/Timely-visit-of-President-to-Katchatheevu/4-781302) · `en`
+
+President Disanayake’s unscheduled visit to Katchatheevu carried both symbolism and strategy
+
+On 1 September 2025, Sri Lanka’s President Anura Kumara Disanayake made an unannounced visit to Katchatheevu Island, a move that quickly reverberated across Colombo, Chennai, and New Delhi. While Katchatheevu has long been a settled matter in terms of international law, the island has re-emerged as a political flashpoint in India, particularly in Tamil Nadu, due to renewed demands for its “retrieval.” Against this backdrop, President Disanayake’s presence on the island carried symbolic weight, signalling Sri Lanka’s determination to reaffirm sovereignty while responding to growing external pressures.
+
+...
+
+[Data](articles/91d54b99.json)
+
+---
+
+### Is JVP-led NPP Govt. weaponising the law to target Wickremesinghe?
+
+*2025-09-05 05:32:46* · [`dailyftlk`](https://www.ft.lk/columns/Is-JVP-led-NPP-Govt-weaponising-the-law-to-target-Wickremesinghe/4-781301) · `en`
+
+The plot to humiliate and penalise ex-President Wickremesinghe also seems to have gone awry, at least for the present
+
+United National Party (UNP) leader Ranil Wickremesinghe has been in politics for more than five decades. Wickremesinghe who has served as Member of Parliament, Deputy Minister, Cabinet Minister, leader of the Opposition, Prime Minister and President has often been described as a “spent force” in politics. The resilient Ranil has always proved his detractors wrong by bouncing back into the ring spiritedly. Recent events seem to indicate that the irrepressible Ranil Wickremesinghe may yet again demonstrate that he is a person who cannot be written off easily.
+
+...
+
+[Data](articles/2dc85ca4.json)
+
+---
+
+### Profile of a deeply divisive defence  mechanism in our democracy today
+
+*2025-09-05 05:27:45* · [`dailyftlk`](https://www.ft.lk/columns/Profile-of-a-deeply-divisive-defence-mechanism-in-our-democracy-today/4-781300) · `en`
+
+The hoi polloi have waged psychological warfare online – hat in hand, a PDA in the other – ever since the shock arrest
+
+The curious case of an ex chief executive’s indictment has brought on a battery of psychiatric symptoms among denizens of the Demotic Social-media Republic of Sri Lanka. ‘Demotic’ in the sense of the common people and ‘Social-media’ is self-explanatory. The hoi polloi have waged psychological warfare online – hat in hand, a PDA in the other – ever since the shock arrest.
+
+...
+
+[Data](articles/9dfd817f.json)
+
+---
 
 ### China holds massive parade to mark 80th anniversary of WWII victory
 
@@ -1691,53 +1733,5 @@ Top contributors to the ASPI were R I L Property (up 2.50 rupees at 32.20), Ceyl
 ◼️
 
 [Data](articles/937ea795.json)
-
----
-
-### ඉන්දීය දඟපන්දු යවන්නෙක් පිටියට සමුදෙයි
-
-*2025-09-04 14:47:21* · [`adalk`](https://www.ada.lk/sports/ඉන්දීය-දඟපන්දු-යවන්නෙක්-පිටියට-සමුදෙයි/9-418280) · `si`
-
-ඉන්දීය ජාතික ක්‍රිකට් කණ්ඩායමේ හිටපු දඟපන්දු යවන ක්‍රීඩක අමිත් මිශ්‍රා සිය වෘත්තීය ක්‍රිකට් දිවියට සමුදෙන බව ප්‍රකාශ කර ඇත. 42 හැවිරිදි මිශ්‍රා ටෙස්ට් තරග 22 ක්. එක්දින තරග 36 ක් හා විස්සයි20 තරග 10 ක් ඉන්දියාව නියෝජනය කරමින් ජාත්‍යන්තර කඩුළු 156 ක් දවා ගැනීමට සමත්වී ඇත.
-
-2017  වසරේදී අවසන් වරට ඉන්දීය කණ්ඩායම නියෝජනය කළත්  මිශ්‍රා 2024 වසර දක්වාම අයි.පී.එල්. තරගාවලිය නියෝජනය කලේය. ඔහු 2008 වසරේදී ජාත්‍යන්තර පිටියට පැමිණෙමින් එම වසරේදීම අයි.පී.එල්. වරම්ද හිමිකර ගත් මිශ්‍රා අයි.පී.එල් තරග 162 කදී කඩුළු 174 ක් දවා ගැනිමට සමත්වුයේ එහි වැඩිම කඩුළු ලාබීන් අතර  8 වැනි ස්ථානයේ පසුවෙමිනි.
-
-◼️
-
-[Data](articles/8f9136bd.json)
-
----
-
-### Wife of ‘Backhoe Saman’ remanded until September 18
-
-*2025-09-04 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112180/wife-of-backhoe-saman-remanded-until-september-18) · `en`
-
-The wife of underworld figure ‘Backhoe Saman’, Shadhika Lakshani, who is currently in custody, has been remanded until September 18 by the Colombo Magistrate’s Court.
-
-The Criminal Investigation Department (CID) produced the suspect before Colombo Chief Magistrate Asanka S. Bodaragama, who issued the remand order following the court proceedings, said Ada Derana reporter.
-
-A case has been filed against her under the Prevention of Money Laundering Act.
-
-◼️
-
-[Data](articles/c6aae2ec.json)
-
----
-
-### Appeals Court issues interim order suspending trial against retired SDIG Ravi Seneviratne
-
-*2025-09-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112179/appeals-court-issues-interim-order-suspending-trial-against-retired-sdig-ravi-seneviratne) · `en`
-
-The Court of Appeal today (04) issued an interim injunction suspending the ongoing trial at the Mount Lavinia Magistrate’s Court against Retired Senior Deputy Inspector General (SDIG) Ravi Seneviratne, who is currently serving as the Secretary to the Ministry of Public Security.
-
-The case has been filed on charges related to driving under the influence and failing to prevent a road accident in 2023, Ada Derana reporter said.
-
-The interim order was issued after considering a petition filed by Seneviratne, requesting that the case against him at the Mount Lavinia Magistrate’s Court be transferred to another court.
-
-The petition was taken up a bench of the Court of Appeal comprising Justices Mayadunne Corea and Mahen Weeraman.
-
-◼️
-
-[Data](articles/e46a77c4.json)
 
 ---

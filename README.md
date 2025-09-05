@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 15:08:20**
+As of **2025-09-05 15:19:31**
 
 ## Newspaper Stats
 
-*Scraped **74,319** Articles*
+*Scraped **74,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,85 @@ newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 756
-economynextcom | 4,519
+economynextcom | 4,520
 islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,186
+adalk | 7,187
 adaderanalk | 9,492
 tamilmirrorlk | 11,061
 virakesarilk | 12,151
-adaderanasinhalalk | 12,914
+adaderanasinhalalk | 12,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,319 articles have been extended.
+61,973 (83.4%) of 74,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### වසර 27කින් කළ නොහැකි වූ දස්කමක් කළ දකුණු අප්‍රිකාව
+
+*2025-09-05 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214207) · `si`
+
+සත්කාරක එංගලන්ත කණ්ඩායමට එරෙහි දෙවන එක්දින ක්‍රිකට් තරගයෙන් ද ලකුණු 5ක ජයක් ලැබීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+
+මෙම ජයත් සමග තරග 2-0ක් ලෙස දකුණු අප්‍රිකාව තරගාවලියේ පෙරමුණ ගත් අතර, ඒ සමග ඔවුන් තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලියේ ජය තහවුරු කරගත්තේය.
+
+ඓතිහාසික ලෝඩ්ස් ක්‍රීඩාංගණයේ ඊයේ (4) පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් දකුණු අප්‍රිකාව පන්දුවාර 50 තුළදී කඩුලු 8ක් දැවී ලකුණු 330ක් රැස් කළේය.
+
+ඒ අනුව ලකුණු 331ක ඉලක්කයක් හඹාගිය එංගලන්තයට පන්දුවාර 50 තුළදී රැස්කළ හැකිවුණේ කඩුලු 9ක් දැවී ලකුණු 325ක් පමණි.
+
+මෙය වසර 27කට පසු එංගලන්තයට එරෙහිව දකුණු අප්‍රිකාව එරටදී එක්දින තරගාවලියක් ජයගත් පළමු අවස්ථාව ලෙස වාර්තා අතරට එක්විය.
+
+ඔවුන් අවසන්වරට එංගලන්තයේ දී එක්දින තරගාවලියක් ජයගෙන තිබුණේ 1998 වසරේදීය.
+
+◼️
+
+[Data](articles/4f207b88.json)
+
+---
+
+### Cigarette smuggling occurs across Sri Lanka, IPS study finds
+
+*2025-09-05 15:00:00* · [`economynextcom`](https://economynext.com/cigarette-smuggling-occurs-across-sri-lanka-ips-study-finds-239554/) · `en`
+
+ECONOMYNEXT – Cigarette smuggling occurs across the country, and a better understanding of this is needed to develop policies to curb it, increase government revenue, and minimise adverse health impacts, a study by the Institute of Policy Studies of Sri Lanka (IPS) has found.
+
+Sri Lanka’s smuggling is a result of incentives given by high tobacco taxes. High import duties have also promoted corruption in the trade of other goods including foods in Sri Lanka analysts have pointed out.
+
+Maldives has also seen a spike in smuggling after import duties were raised on cigarettes, showing the corrosive effect of trade restrictions on society.
+
+RELATED : Maldives sees Sri Lanka-scale cigarette smuggling after import duty hike
+
+Despite high excise taxes aimed at curbing tobacco use, smuggling continues to undermine public health efforts and government revenue from tobacco sales, IPS said.
+
+...
+
+[Data](articles/9f40fc9b.json)
+
+---
+
+### කෝටි ගාණක කුෂ් සමඟ ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
+
+*2025-09-05 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214206) · `si`
+
+රුපියල් කෝටි දහයකට අධික වටිනාකමකින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට ගැනීමට කටුනායක ගුවන් තොටුපළ රේගු නිලධාරීන් සමත්වී ඇත.
+
+අදාළ සැකකරු අද (05) උදෑසන 7.45ට පමණ එයාර් ඉන්දියා ගුවන් සමාගමට අයත් AI - 277 ගුවන් යානයෙන් මෙරටට පැමිණ තිබේ.
+
+භාරයට ගත් කිලෝග්‍රෑම් 10.75ක් පමණ වන මෙම කුෂ් තොග‍යේ මුළු වටිනාකම රුපියල් දස කෝටි පනස් ලක්ෂයක් වන බව රේගු බලධාරීන් සඳහන් කළේය.
+
+ගුවන් තොටුපොළ රේගු පරිශ්‍රය තුළ මෑතකදී සවි කරන ලද අති නවීන ස්කෑන් යන්ත්‍රයක් භාවිතයෙන් මෙම කුශ් තොගය සොයා ගැනීමට හැකි වී තිබේ.
+
+◼️
+
+[Data](articles/dc009322.json)
+
+---
 
 ### තායිලන්තයේ නව අගමැති අනුටින් චාන්විරකුල්
 
@@ -105,6 +165,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/20e8f14e.json)
+
+---
+
+### ඇල්ල අනතුරට පත් බස් රියේ තිරිංග නොමැති වෙලා දිවි බේරාගත් කාන්තාවක් අත්දැකීම කියයි
+
+*2025-09-05 13:17:27* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රියේ-තිරිංග-නොමැති-වෙලා-දිවි-බේරාගත්-කාන්තාවක්-අත්දැකීම-කියයි/11-418300) · `si`
+
+"ඇල්ල පල්ලමේ බස්‍ රථය  ධාවනය වෙමින් තිබියදී බසයේ සහයක එක්වරම බස්‍ එක බ්‍රේක් ඩවුන් වෙලා ඔක්කොම අය හයියෙන් අල්ලාගෙන පහත් වෙන්න කියා බසයේ සිටි සියලු දෙනාට හයියෙන් කෑගසා  කිව්වා . ඒ සමගම  බස්‍ රථය දඩාං, දඩාං ගා විශාල ශබ්දයක් නගමින් එක්වරම පාර අයිනේ තිබු ආරක්ශිත  යකඩ වැටක දෙපාරක් ගැටී රාවනාඇල්ල ප්‍රපාතයට පෙරලී ගියා.ඒ  සමග ප්‍රපාතයෙ පහලට පෙරලීගිය බසයෙ ජනේලයක් ගැලවී ගොස් මා බසයෙන් එළියට විසිවී  ප්‍රපාතයෙ පදුරක් උඩට වැටුනා. ඒ අසලම පොඩ් බබෙක්, සදානා   , නිලූකා මිස්  වැටී කෙදිරිගාමින් උදවු ඉල්ලමින් කෑගැසුවා "
+
+...
+
+[Data](articles/840f1675.json)
 
 ---
 
@@ -1653,65 +1725,5 @@ Business professional Dr Rohantha Athukorala with a 23 years British Multination
 ...
 
 [Data](articles/4bae8732.json)
-
----
-
-### Maj Gen (Dr) Chrisantha Fernando (Retd) appointed chairman of Lanka Hospitals
-
-*2025-09-04 21:16:00* · [`islandlk`](http://island.lk/maj-gen-dr-chrisantha-fernando-retd-appointed-chairman-of-lanka-hospitals/) · `en`
-
-Lanka Hospitals is proud to announce the appointment of Maj Gen (Dr) P. A. Chrisantha Fernando (Retd), a highly accomplished Consultant Anaesthetist and decorated former officer of the Sri Lanka Army Medical Corps, as the new Chairman of Lanka Hospitals Group.
-
-Dr. Fernando brings with him over 34 years of distinguished medical service, including 20 years at leading private hospitals in Sri Lanka, and an illustrious career in the Sri Lanka Army Medical Corps, where he rose to the rank of Major General. His leadership journey included serving as Director General of Army Health Services, Colonel Commandant of the Army Medical Corps, Director Army Medical Services, and Director of the Army Hospital, Colombo.
-
-...
-
-[Data](articles/520a37c7.json)
-
----
-
-### Siyapatha Finance initiates financial literacy programmes covering all provinces
-
-*2025-09-04 21:14:00* · [`islandlk`](http://island.lk/siyapatha-finance-initiates-financial-literacy-programmes-covering-all-provinces/) · `en`
-
-In celebration of a 20-year-long journey of changing lives through comprehensive financial solutions and awareness, Siyapatha Finance PLC successfully concluded its nationwide financial literacy programme with a goal of connecting with and promoting responsible financial behavior among existing as well as prospective customers.
-
-Witnessing the participation of enthusiastic, aspiring invitees in 13 regions across the Island Nation, from entrepreneurs, small and medium-scale enterprises (SMEs), and influential community members to local authority figures and interested parties, these interactive programmes tapped into an array of topics that set an essential basis for managing lifelong financial aspects in life.
-
-The initiative, comprising 13 structured financial literacy programmes, was meticulously organized by Siyapatha Finance Senior Regional Managers and Regional Managers with the support of branch officers to address current challenges and trends.
-
-...
-
-[Data](articles/c0d9c19c.json)
-
----
-
-### WindForce launches Employee Share Option Scheme
-
-*2025-09-04 21:13:00* · [`islandlk`](http://island.lk/windforce-launches-employee-share-option-scheme/) · `en`
-
-WindForce PLC proudly announced the launch of its Employee Share Option Scheme (ESOS), following shareholder approval at the Extraordinary General Meeting held on 21 August 2025.
-
-The introduction of ESOS marks a significant step in recognizing and rewarding the contribution of employees, while also reinforcing the Company’s commitment to creating a culture of ownership, motivation, and shared success. By giving employees, the opportunity to become shareholders, WindForce aims to strengthen the alignment of employee aspirations with the long-term vision of the Company.
-
-Under this initiative, WindForce PLC will issue up to 40,523,068 ordinary voting shares (equivalent to 3% of the pre-ESOS issued shares) over a period of five years. The first tranche, comprising 1%,13,507,689 shares, has already been granted to eligible employees.
-
-...
-
-[Data](articles/bbc67aa5.json)
-
----
-
-### Belarusian Students’ Annual Get-Together 2025 celebrates community, achievement and future doctors
-
-*2025-09-04 21:12:00* · [`islandlk`](http://island.lk/belarusian-students-annual-get-together-2025-celebrates-community-achievement-and-future-doctors/) · `en`
-
-The Annual Belarusian Get-Together 2025 successfully concluded with over 200 participants celebrating community, academic excellence, and the future of medicine. The event was organized by ISC Education, renowned for its dedication to international education, in collaboration with the Belarusian Graduates’ Association in Sri Lanka for the fourth consecutive year uniting students, graduates and their families
-
-The memorable occasion began with a spirited cricket match between current medical students and graduates, strengthening bonds between and connecting generations of the Belarusian State Medical University (BSMU) alumni. The day culminated in an evening ceremony to honour tradition, achievement, and the medical profession’s values.
-
-...
-
-[Data](articles/e7ae7516.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 06:09:27**
+As of **2025-09-05 06:34:12**
 
 ## Newspaper Stats
 
-*Scraped **74,258** Articles*
+*Scraped **74,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 625
 bbccomsinhala | 677
 colombotelegraphcom | 756
-economynextcom | 4,516
-islandlk | 4,557
+economynextcom | 4,517
+islandlk | 4,565
 dailymirrorlk | 4,733
-dailyftlk | 5,275
+dailyftlk | 5,277
 adalk | 7,177
 adaderanalk | 9,481
 tamilmirrorlk | 11,051
@@ -26,11 +26,59 @@ adaderanasinhalalk | 12,903
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.5%) of 74,258 articles have been extended.
+61,973 (83.4%) of 74,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### Prophet Muhammad’s teachings committed to abolishing social divides: Sri Lanka president
+
+*2025-09-05 06:00:00* · [`economynextcom`](https://economynext.com/prophet-muhammads-teachings-committed-to-abolishing-social-divides-sri-lanka-president-239567/) · `en`
+
+ECONOMYNEXT – Prophet Muhammad’s teachings were based on the principle of equality that no person is superior or inferior to another on the basis of race, caste, or colour, Sri Lanka President Anura Kumara Dissanayake has said.
+
+“His commitment to abolishing social divides and instilling equality in the hearts of humanity stands as a timeless guide as we work today to create a lawful, ethical and virtuous society amidst contemporary social challenges,” Dissanayake said in his message to mark Milad-un-Nabi.
+
+Today is the day we honour the birth anniversary of Prophet Muhammad, a momentous occasion that is respectfully celebrated by Muslim brethren around the world as Milad-un-Nabi.
+
+The Holy Prophet Muhammad, the last Prophet of Islam, was a religious leader who dedicated his life to creating a moral society and accomplished a significant mission in that regard. He was also the pioneer in establishing a just and ethical system.
+
+...
+
+[Data](articles/48e4040b.json)
+
+---
+
+### Human-elephant conflict, the worst animal cruelty
+
+*2025-09-05 05:45:26* · [`dailyftlk`](https://www.ft.lk/columns/Human-elephant-conflict-the-worst-animal-cruelty/4-781304) · `en`
+
+Governments failed to bring effective solutions to human-elephant conflict because they did not try to treat the root cause
+
+Sri Lanka records the highest number of elephant deaths in the world. The year 2023 marked one of the worst in recent memory, with 488 elephants killed and 182 human deaths reported due to the conflict. By mid-2024, another 388 elephants had already perished (Dr. Vipula Wanigasekera). According to Wildlife Director General Ranjan Marasinghe, a total of 245 elephants had died this year due to various causes. Among them, 38 were electrocuted, while 13 were fatally struck by trains. The annual toll may exceed 500 lives of elephants by year-end.
+
+Despite shocking revelations by the media of the alarming figures of elephant deaths and animal cruelty no Government had taken serious steps to address the human-elephant conflict. Between 2015 and 2024, over 3,484 elephants have died due to this conflict, along with 1,195 human lives lost (VOA News, 2024).
+
+...
+
+[Data](articles/a582be21.json)
+
+---
+
+### Why Prince William’s support could be a turning point for Sri Lanka’s elephants
+
+*2025-09-05 05:42:13* · [`dailyftlk`](https://www.ft.lk/columns/Why-Prince-William-s-support-could-be-a-turning-point-for-Sri-Lanka-s-elephants/4-781303) · `en`
+
+Sri Lanka, famed for its biodiversity and cultural heritage, faces an unprecedented challenge: safeguarding its most iconic species — the Asian elephant. With over 6,000 wild elephants, the island harbours the largest population outside India, yet their survival is under severe threat. Every year, more than 400 elephants and 150 humans die due to escalating human–elephant conflict (HEC), driven by habitat loss, deforestation, and unplanned development. Conservationists warn that without decisive, coordinated action, Sri Lanka could lose half its elephant population within three decades.
+
+In this pressing context, Opposition leader Sajith Premadasa has made a timely appeal to His Royal Highness Prince William, Prince of Wales, seeking his patronage and partnership in launching a National Elephant Conservation and Coexistence Initiative (NECCI).
+
+...
+
+[Data](articles/098044ad.json)
+
+---
 
 ### Timely visit of President to Katchatheevu
 
@@ -723,6 +771,94 @@ Rescue operations are currently underway at the scene of the incident while seve
 ◼️
 
 [Data](articles/6a943896.json)
+
+---
+
+### Cinnamon Hotels & Resorts appoints hotelier Kamal Munasinghe as Chief Operating Officer
+
+*2025-09-04 21:18:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-appoints-hotelier-kamal-munasinghe-as-chief-operating-officer/) · `en`
+
+Cinnamon Hotels & Resorts has appointed Kamal Munasinghe as its new Chief Operating Officer (COO), to lead operations across the brand’s 17 resorts and hotels in Sri Lanka and the Maldives.
+
+With nearly 30 years of experience across Asia and Europe, Kamal brings with him a vision that looks beyond traditional hospitality. His focus is on transforming Cinnamon Hotels & Resorts into a brand defined by precision in operations, authenticity in service, and innovation in guest journeys.
+
+Having held senior leadership roles with global names prior to his leadership at Cinnamon Grand Colombo and the wider Colombo portfolio, he has consistently demonstrated the ability to blend efficiency with excellence, while keeping guests at the centre of the experience.
+
+...
+
+[Data](articles/6b0409a8.json)
+
+---
+
+### Dr Rohantha Athukorala appointed to Lotus Hydro Power Board
+
+*2025-09-04 21:17:00* · [`islandlk`](http://island.lk/dr-rohantha-athukorala-appointed-to-lotus-hydro-power-board/) · `en`
+
+Business professional Dr Rohantha Athukorala with a 23 years British Multinational experience of UNILEVER, ReckittBenckiser and United Nations( UNOPS) has been appointed to the Board of Lotus Hydro Power PLC – a leading renewable energy in Sri Lanka. Headquartered in Colombo, Sri Lanka, the company is a prominent corporation specializing in the development and operation of renewable energy sources. The company currently oversees the operation of four active power plants strategically located in the Rathnapura, Kandy, and Nuwara Eliya regions. The company is a proponent for supplying green energy while safeguarding the environment. I am excited to serve an organization that has so far generated over 65,000 tons of Carbon Credits and 15.4 Gwh of Green Energy in Sri Lanka said Athukorala.
+
+...
+
+[Data](articles/4bae8732.json)
+
+---
+
+### Maj Gen (Dr) Chrisantha Fernando (Retd) appointed chairman of Lanka Hospitals
+
+*2025-09-04 21:16:00* · [`islandlk`](http://island.lk/maj-gen-dr-chrisantha-fernando-retd-appointed-chairman-of-lanka-hospitals/) · `en`
+
+Lanka Hospitals is proud to announce the appointment of Maj Gen (Dr) P. A. Chrisantha Fernando (Retd), a highly accomplished Consultant Anaesthetist and decorated former officer of the Sri Lanka Army Medical Corps, as the new Chairman of Lanka Hospitals Group.
+
+Dr. Fernando brings with him over 34 years of distinguished medical service, including 20 years at leading private hospitals in Sri Lanka, and an illustrious career in the Sri Lanka Army Medical Corps, where he rose to the rank of Major General. His leadership journey included serving as Director General of Army Health Services, Colonel Commandant of the Army Medical Corps, Director Army Medical Services, and Director of the Army Hospital, Colombo.
+
+...
+
+[Data](articles/520a37c7.json)
+
+---
+
+### Siyapatha Finance initiates financial literacy programmes covering all provinces
+
+*2025-09-04 21:14:00* · [`islandlk`](http://island.lk/siyapatha-finance-initiates-financial-literacy-programmes-covering-all-provinces/) · `en`
+
+In celebration of a 20-year-long journey of changing lives through comprehensive financial solutions and awareness, Siyapatha Finance PLC successfully concluded its nationwide financial literacy programme with a goal of connecting with and promoting responsible financial behavior among existing as well as prospective customers.
+
+Witnessing the participation of enthusiastic, aspiring invitees in 13 regions across the Island Nation, from entrepreneurs, small and medium-scale enterprises (SMEs), and influential community members to local authority figures and interested parties, these interactive programmes tapped into an array of topics that set an essential basis for managing lifelong financial aspects in life.
+
+The initiative, comprising 13 structured financial literacy programmes, was meticulously organized by Siyapatha Finance Senior Regional Managers and Regional Managers with the support of branch officers to address current challenges and trends.
+
+...
+
+[Data](articles/c0d9c19c.json)
+
+---
+
+### WindForce launches Employee Share Option Scheme
+
+*2025-09-04 21:13:00* · [`islandlk`](http://island.lk/windforce-launches-employee-share-option-scheme/) · `en`
+
+WindForce PLC proudly announced the launch of its Employee Share Option Scheme (ESOS), following shareholder approval at the Extraordinary General Meeting held on 21 August 2025.
+
+The introduction of ESOS marks a significant step in recognizing and rewarding the contribution of employees, while also reinforcing the Company’s commitment to creating a culture of ownership, motivation, and shared success. By giving employees, the opportunity to become shareholders, WindForce aims to strengthen the alignment of employee aspirations with the long-term vision of the Company.
+
+Under this initiative, WindForce PLC will issue up to 40,523,068 ordinary voting shares (equivalent to 3% of the pre-ESOS issued shares) over a period of five years. The first tranche, comprising 1%,13,507,689 shares, has already been granted to eligible employees.
+
+...
+
+[Data](articles/bbc67aa5.json)
+
+---
+
+### Belarusian Students’ Annual Get-Together 2025 celebrates community, achievement and future doctors
+
+*2025-09-04 21:12:00* · [`islandlk`](http://island.lk/belarusian-students-annual-get-together-2025-celebrates-community-achievement-and-future-doctors/) · `en`
+
+The Annual Belarusian Get-Together 2025 successfully concluded with over 200 participants celebrating community, academic excellence, and the future of medicine. The event was organized by ISC Education, renowned for its dedication to international education, in collaboration with the Belarusian Graduates’ Association in Sri Lanka for the fourth consecutive year uniting students, graduates and their families
+
+The memorable occasion began with a spirited cricket match between current medical students and graduates, strengthening bonds between and connecting generations of the Belarusian State Medical University (BSMU) alumni. The day culminated in an evening ceremony to honour tradition, achievement, and the medical profession’s values.
+
+...
+
+[Data](articles/e7ae7516.json)
 
 ---
 
@@ -1579,159 +1715,5 @@ The arrested foreign national is scheduled to be produced before the Galle Magis
 ◼️
 
 [Data](articles/3cc08f98.json)
-
----
-
-### නුවරඑළියේ සංචාරක හෝටල් හා නවාතැන් වෙන්කරගෙන අවසන්
-
-*2025-09-04 15:55:02* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියේ-සංචාරක-හෝටල්-හා-නවාතැන්-වෙන්කරගෙන-අවසන්/11-418282) · `si`
-
-සති අන්ත දීර්ඝ නිවාඩුවත් සමග නුවරඑලියේ සංචාරක හොටල්, නවාතැන් පහසුකම් ලබා දෙන බංගලා සහ නිවාස දේශීය සංචාරකයන් විශාල පිරිසක් මේ වන විට මාර්ගගත ක්‍රමය ඔස්සේ වෙන් කරගෙන ඇති බව නුවරඑලිය සංචාරක හෝටල් හිමියන්ගේ සංගමයේ නිළධාරියෙකු පැවසීය.
-
-සති අන්ත දීර්ඝ නිවාඩුවත් සමග නුවරඑලියේ නාදගම සංගීත වැඩසටහන සදතැන්න, නුවරඑලිය තුරග තරග පිටිය, නගරසභා ක්‍රීඩාංගණය සහ අඹේවෙළ යන ස්ථාන වල පැවැත්වීමට කටයුතු කර ඇති බවයි එම නිළධාරියා කියා සිටියේ.
-
-ඇතැම් සංචාරක පහසුකම් ලබා දෙන ස්ථානවල කාමරවල මිල ගණන්ද ඉහළ දමා ඇති බව නුවරඑලිය ප්‍රදේශවාසීන් කියා සිටියේ.
-
-සති අන්ත දීර්ඝ නිවාඩුවට නුවරඑලියට පැමිණෙන දේශීය සංචාරකයන්ගේ ආරක්ෂාවට නුවරඑලිය පොලිස් කොට්ඨාශවලින් අමතර පොලිස් නිළධාරින් 100කට ආසන්න පිරිසක් නුවරඑලිය මූලස්ථාන පොලිසිය වෙත කැදවා ඇති බවත්, ඊට අමතරව දිවා රාත්‍රි දෙකේ රථවාහන රාජකාරි සදහා යතුරුපැදි කිහිපයක්ද යොදවන බවයි නුවරඑලිය මූලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා කියා සිටියේ.
-
-◼️
-
-[Data](articles/5278f0fb.json)
-
----
-
-### Sri Lanka Census and Statistics Dept gets new head
-
-*2025-09-04 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-census-and-statistics-dept-gets-new-head-239543/) · `en`
-
-ECONOMYNEXT – K M D S D Karunarathna will be appointed Director General of Sri Lanka’s Department of Census and Statistics, minister Nalinda Jayatissa said.
-
-She replaces D D G A Seneviratne, who is scheduled to retire from the public service on September 5 upon reaching the age of 60 years.
-
-The Cabinet of Ministers approved the proposal to appoint the senior most Additional Director General of the Department of Census and Statistics as its head, Jayatissa told reporters. (Colombo/Sep4/2025)
-
-◼️
-
-[Data](articles/273f5e0f.json)
-
----
-
-### ධාවනයට නුසුදුසු ලොරියක් පොලිස් භාරයට
-
-*2025-09-04 15:51:30* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනයට-නුසුදුසු-ලොරියක්-පොලිස්-භාරයට/11-418281) · `si`
-
-ධාවනයට නොසුදුසු තත්වයේ පවතින ලොරි රථයක් ධාවනය කරමින් සිටියදී ගිනිගත්හේන පොලිසියේ රථවාහන අංශයේ නිළධාරින් පිරිසක් විසින් (04) දින පොලිස් භාරයට ගෙන රියදුරු ඇප මත මුදාහැර ඇත.
-
-කිතුල්ගල සිට බගවන්තලාව ප්‍රදේශයට දර ප්‍රවාහනය සදහා යොදා ගෙන තිබූ එම ලොරි රථය (04) දින බගවන්තලාව ප්‍රදේශයේ තේවතු යායකට දර ප්‍රවානය කර ආපසු කිතුල්ගල දක්වා ලොරි රථය ධාවනය කරවන අවස්ථාවේ ගිනිගත්හේන පොලිසියේ රථවාහන අංශයේ සැරයන් ධර්මතිලක (55617) විසින් ලොරි රථය නතර කර පරික්ෂා කර බලා ලොරි රථය පොලිස් භාරයට ගෙන ඇත.
-
-පොලිස් භාරයට ගැනුනු ලොරි රථය නුවරඑලිය දිස්ත්‍රික් මොටර් රථ පරික්ෂකවරයාට ඉදිරිපත් කර වාර්ථාවක් ලබා ගෙන ලොරි රථය හැටන් මහේස්ත්‍රාත් අධිකරණය වෙත කරුණු වාර්ථා කරන බවයි ගිනිගත්හේන පොලිසියේ රථවාහන අංශයේ නිළධාරින් කියා සිටියේ.
-
-◼️
-
-[Data](articles/893d3f97.json)
-
----
-
-### “காணாமல் போனோருக்கு 2027 இறுதிக்குள் சிறப்புத் திட்டம்”
-
-*2025-09-04 15:49:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போனோருக்கு-2027-இறுதிக்குள்-சிறப்புத்-திட்டம்/175-364038) · `ta`
-
-காணாமல்போன ஆட்கள் தொடர்பான முறைப்பாடுகள் பற்றிய விசாரணைகளை நடாத்துதல் மற்றும் இன்னலுற்றவர்களுக்கு நீதியை நிலைநாட்டுவதற்காக 2027ஆம் ஆண்டு இறுதிக்குள் விசாரணை மற்றும் குறித்த கடமைகளை நிறைவேற்றுவதற்கான விசேட கருத்திட்டத்தை நடைமுறைப்படுத்துவதற்கும் அமைச்சரவை அங்கிகாரம் வழங்கியுள்ளது.
-
-நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-2016 ஆம் ஆண்டின் 14 ஆம் இலக்க, காணாமல் போன ஆட்கள் பற்றிய அலுவலகம் (தாபித்தலும், நிருவகித்தலும், பணிகளை நிறைவேற்றுதலும்) சட்டத்தின் ஏற்பாடுகளின் கீழ் காணாமல் போன ஆட்கள் பற்றிய அலுவலகம் தாபிக்கப்ப்பட்டுள்ளது.
-
-காணாமல் போன மற்றும் காணக்கிடைக்காமை ஆட்கள் தொடர்பான விசாரணைகளை மேற்கொண்டு அவர்களுடைய உறவுகளுக்கு அறிக்கைகளை வழங்குதல் இவ் அலுவலகத்தால் மேற்கொள்ளப்பட்டு வருகின்றது.
-
-இதுவரை குறித்த அலுவலகத்துக்கு கிடைக்கப்பெற்றுள்ள 16,966 முறைப்பாடுகளில் விசாரணைகளுக்காக மேலும் 10,517 முறைப்பாடுகள் காணப்படுகின்றன.
-
-...
-
-[Data](articles/895d8d00.json)
-
----
-
-### இலங்கைத் தமிழர்கள் சட்டப்பூர்வமாக இந்தியாவில் தங்கலாம் ; இந்திய மத்திய அரசு
-
-*2025-09-04 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224203) · `ta`
-
-போர் மற்றும் பொருளாதார நெருக்கடி காரணமாக இலங்கையை விட்டு வெளியேறிய இலங்கைத் தமிழர்கள் தமிழ்நாட்டில் பல்வேறு முகாம்களில் தங்க வைக்கப்பட்டுள்ளனர்.
-
-அவர்கள், இந்தியாவில் தாங்கள் சுதந்திரமாக வாழ வழிவகை செய்ய வேண்டும் என அரசுக்கு கோரிக்கை விடுத்து வந்தனர்.
-
-இந்நிலையில், 2015 ஜன.9ம் தேதிக்கு முன்பு உரிய ஆவணங்கள் இன்றி இந்தியாவுக்குள் நுழைந்து, அரசிடம் அகதிகளாக பதிவு செய்த இலங்கைத் தமிழர்கள், சட்டப் பூர்வமாக தங்குவதற்கு மத்திய அரசு அனுமதி வழங்கியுள்ளது.
-
-சமீபத்தில் அமல்படுத்தப்பட்ட குடிவரவு மற்றும் வெளிநாட்டினர் சட்டத்தின் கீழ் உள்ள தண்டனை விதிகளில் இருந்தும் இலங்கைத் தமிழர்களுக்கு மத்திய அரசு விலக்கு அளித்துள்ளது. இதன் மூலம், இலங்கைத் தமிழர்கள் இனி சட்டவிரோத குடியேறிகள் அல்ல.
-
-◼️
-
-[Data](articles/bc9abd4a.json)
-
----
-
-### රවී සෙනෙවිරත්නට එරෙහි නඩුවක් අත්හිටුවීමේ නියෝගයක්
-
-*2025-09-04 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214170) · `si`
-
-මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්, විශ්‍රාමික ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති රවි සෙනෙවිරත්න මහතාට එරෙහිව ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණයේ පැවැත්වෙන නඩු විභාගයක් තාවකාලිකව අත්හිටුවමින් අභියාචනාධිකරණය විසින් අද (4) අතුරුතහනම් නියෝගයක් නිකුත් කළේය.
-
-2023 වසරේ දී බීමත්ව රිය පදවා රිය අනතුරක් වළක්වා ගැනීමට කටයුතු නොකිරීම ඇතුළු චෝදනා යටතේ රවි සෙනෙවිරත්න මහතාට එරෙහිව මෙම නඩු විභාගය පැවැත්වේ.
-
-ඒ අනුව ගල්කිස්ස මහෙස්ත්‍රාත් අධිකරණය හමුවේ තමන්ට එරෙහිව පවතින නඩුකරය වෙනත් අධිකරණයකට මාරු කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා රවි සෙනෙවිරත්න මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් සලකාබැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත්කර ඇත.
-
-මායාදුන්නේ කොරයා සහ මහේන් ගොපල්ලව යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ අදාළ පෙත්සම සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය ලබාදෙනු ලැබීය.
-
-◼️
-
-[Data](articles/7f7c5022.json)
-
----
-
-### Sri Lanka stocks close up driven by capital goods
-
-*2025-09-04 15:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-capital-goods-239539/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’ All Share Price Index closed up on Thursday provisional data on its site showed.
-
-The ASPI was up 0.08 percent, or 16.25 points, at 20,991; while the S&P SL20 was up 0.01 percent, or 0.59 points, at 6,005.
-
-Most of the came from capital goods stocks (1 billion rupees), followed by consumer services (895 million rupees) and real estate (790 million rupees).
-
-Top contributors to the ASPI were R I L Property (up 2.50 rupees at 32.20), Ceylon Tobacco (up 16.50 rupees at 1,663.00), Prime Lands Residencies (up 2.40 rupees at 29.70), Richard Pieris and Co (up 50 cents at 27 rupees), and John Keells Holdings (up 10 cents at 22.80 rupees). (Colombo/Sep4/2025)
-
-◼️
-
-[Data](articles/88271932.json)
-
----
-
-### ලංකාවට ඇවිත් ව්‍යාපාර කළ රුසියානු තරුණියක් අත්අඩංගුවට
-
-*2025-09-04 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214169) · `si`
-
-සංචාරක වීසා මත මෙරටට පැමිණ ව්‍යාපාර කටයුතු සිදුකළ රුසියානු ජාතික කාන්තාවක් උණවටුන සංචාරක පොලිස් ඒකකයවිසින් අත්අඩංගුවට ගෙන ඇත.
-
-29 හැවිරිදි වියේ පසුවන ඇය සංචාරක වීසා උල්ලංඝනය කර උණවටුන ප්‍රදේශයේ සමාජ ශාලාවක් ආකාරයෙන් හෝටලයක් හා ආපනශාලාවක් පවත්වාගෙන ගොස් ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
-
-අත්අඩංගුවට ගත් රුසියානු කාන්තාව හබරාදූව පොලිස් ස්ථානයට භාරදී ඇති අතර, හෙට (5) ගාල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/dc8893e3.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳ රිමාන්ඩ්
-
-*2025-09-04 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214168) · `si`
-
-මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ අධිකරණයට ඉදිරිපත් කළ මේ වන විට අත්අඩංගුවේ පසුවන බැකෝ සමන් නැමැත්තාගේ බිරිඳ වන ෂාධිකා ලක්‍ෂානි නමැත්තිය ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මෙම සැකකාරිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවට අද (04) ඉදිරිපත් කර තිබේ.
-
-◼️
-
-[Data](articles/937ea795.json)
 
 ---

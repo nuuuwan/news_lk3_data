@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 04:49:57**
+As of **2025-09-06 05:06:53**
 
 ## Newspaper Stats
 
-*Scraped **74,377** Articles*
+*Scraped **74,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 5,277
 adalk | 7,190
 adaderanalk | 9,504
 tamilmirrorlk | 11,068
-virakesarilk | 12,167
+virakesarilk | 12,169
 adaderanasinhalalk | 12,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,377 articles have been extended.
+61,973 (83.3%) of 74,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### பிரிட்டனின் கென்ட் டச்சஸ் லேடி கேத்தரின் காலமானார்
+
+*2025-09-06 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224339) · `ta`
+
+கென்ட் டச்சஸ் லேடி கேத்தரின் காலமானார். அவர் இறக்கும் போது அவருக்கு 92 வயது என்று  பக்கிங்ஹாம் அரண்மனை அறிவித்துள்ளது.
+
+மறைந்த இரண்டாம் எலிசபெத் மகாராணியின் முதல் உறவினரான இளவரசர் எட்வர்டை மணந்த கென்ட் டச்சஸ், அரச குடும்பத்தின் மூத்த உறுப்பினரும் ஆவார்.
+
+◼️
+
+[Data](articles/f42b9d3a.json)
+
+---
+
+### நள்ளிரவு முதல் ரைஸ், கொத்து உள்ளிட்ட உணவுகளின் விலைகள் குறைப்பு
+
+*2025-09-06 04:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224338) · `ta`
+
+நள்ளிரவு முதல் ரைஸ், கொத்து, பிரியாணி, முட்டை ரொட்டி உள்ளிட்ட முக்கிய உணவுகளின் விலை ரூ.25ஆல் குறைக்கப்படுவதாக அகில இலங்கை சிற்றுண்டிச்சாலைகள் மற்றும் உணவக உரிமையாளர்கள் சங்கத் தலைவர் ஹர்ஷன ருக்ஸான் அறிவித்துள்ளார்.
+
+மேலும், அனைத்து வகையான சிற்றுண்டி உணவுகளின் விலைகளும் ரூ.10ஆல் குறைக்கப்படும் எனவும் அவர் குறிப்பிட்டார்.
+
+இது தொடர்பாக கருத்து வெளியிட்ட ஹர்ஷன ருக்ஸான், இந்த விலைக் குறைப்பு வாடிக்கையாளர்களுக்கு நியாயமான முறையில் வழங்கப்பட வேண்டும் என்று உணவக உரிமையாளர்களை கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/4a8da3e1.json)
+
+---
 
 ### கிழக்கு மாகாணசபை தேர்தலை நடாத்துவதா? முறைமையை  நீக்குவதா? அரசு கூறவேண்டும் கபே அமைப்பின் நிறைவேற்று பணிப்பாளர் மனாஸ் மக்கீன் வலிறுத்தல்
 
@@ -1737,33 +1767,5 @@ Dr. Amarasuriya described the Prophet’s message as “a revolutionary proclama
 ◼️
 
 [Data](articles/2947740b.json)
-
----
-
-### எல்லயில் பஸ் 1000 அடி பள்ளத்தில் விழுந்த இடம்
-
-*2025-09-05 07:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லயில்-பஸ்-1000-அடி-பள்ளத்தில்-விழுந்த-இடம்/175-364056) · `ta`
-
-◼️
-
-[Data](articles/0d1e6fd2.json)
-
----
-
-### President calls for brotherhood, peace, and compassion on Milad-un-Nabi
-
-*2025-09-05 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112193/president-calls-for-brotherhood-peace-and-compassion-on-milad-un-nabi) · `en`
-
-President of Sri Lanka, Anura Kumara Dissanayake has extended his greetings on the occasion of the birth anniversary of Prophet Muhammad, observed by Muslim communities around the world as Milad-un-Nabi.
-
-In his message, the President highlighted the life and teachings of the Holy Prophet Muhammad, describing him as “a religious leader who dedicated his life to creating a moral society and accomplished a significant mission in that regard. He was also the pioneer in establishing a just and ethical system.”
-
-He added that despite numerous challenges, Prophet Muhammad’s patience and forbearance allowed him to transform a fractured society into a community guided by the principles of brotherhood, peace, and compassion, the President’s Media Division (PMD) said.
-
-Calling on citizens to commemorate Milad-un-Nabi by following the Prophet’s teachings, the President said:
-
-...
-
-[Data](articles/8a7cf144.json)
 
 ---

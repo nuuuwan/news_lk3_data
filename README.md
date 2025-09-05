@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 15:19:31**
+As of **2025-09-05 15:32:20**
 
 ## Newspaper Stats
 
-*Scraped **74,323** Articles*
+*Scraped **74,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,187
-adaderanalk | 9,492
-tamilmirrorlk | 11,061
-virakesarilk | 12,151
-adaderanasinhalalk | 12,916
+adaderanalk | 9,495
+tamilmirrorlk | 11,062
+virakesarilk | 12,155
+adaderanasinhalalk | 12,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.4%) of 74,323 articles have been extended.
+61,973 (83.4%) of 74,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### ජෝ බයිඩන්ට සැත්කමක්
+
+*2025-09-05 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214208) · `si`
+
+සමෙහි පිළිකා රෝගී තත්ත්වයකින් පීඩා විදින අමරිකානු හිටපු ජනාධිපති ජෝ බයිඩන් හට සැත්කමක් සිදු කර ඇත.
+
+82 හැවිරිදි හිටපු ජනාධිපතිවරයා, දීර්ඝ කාලයක සිට පිළිකා රෝගී තත්ත්වයකින් පීඩා විදිමින් සිටින අතර පසුගියදා ඔහු ශල්‍යකර්මයකට ලක්ව ඇති බවට හිටපු ජනාධිපතිවරයාගේ ප්‍රකාශකයකු උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+2023 වසරේදී ද හිටපු ජනාධිපති ජෝ බයිඩන් හට සැත්කමක් සිදු කර තිබූ බව සදහන් වේ.
+
+බයිඩන්ගේ වැඩිමහල් පුත්‍රයා ද 2015 වසරේදී පිළිකාවකට ගොදුරු වී මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/00d2d2d1.json)
+
+---
+
+### வெள்ளை வானில் கடத்தப்பட்ட சிறுமி மீட்பு
+
+*2025-09-05 15:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெள்ளை-வானில்-கடத்தப்பட்ட-சிறுமி-மீட்பு/76-364066) · `ta`
+
+சாமி மலை பெயலோன் தோட்ட பாகினி பிரிவில் கடந்த 3 ஆம் திகதி வான் ஒன்றில் கடத்தப்பட்ட 15 வருடம் 8 மாதம் வயதுடைய சிறுமி பேருவளையில் மீட்கப்பட்டுள்ளார்.
+
+நேற்று முன்தினம் 3ஆம் திகதி காலை 8 மணிக்கு தாய் தந்தையர் தோட்ட பணிக்கு சென்ற வேளையில், பெயலோன் தமிழ் வித்தியாலயத்தில் தரம் 8 இல் கல்வி பயின்று இடை நடுவில் வெளியேறிய சாமி மலை பெயலோன் தோட்ட பாகினி பிரிவில் உள்ள மாணவி வெள்ளை நிற வேன் ஒன்றில் கடத்திச் செல்லப்பட்டதாக சிறுமியின் தந்தை முறைப்பாடளித்திருந்தார்.
+
+இதைத் தொடர்ந்து மஸ்கெலியா பொலிஸாரின் தேடுதலுக்கு அமைய நேற்று பேருவளை பகுதியில் உள்ள 26 வயது உடைய இளைஞர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு மஸ்கெலியா பொலிஸ் நிலையத்திற்கு  அழைத்து வரப்பட்டார்.
+
+இன்று 5 ம் திகதி விசாரணையின் பின்னர் ஹட்டன் நீதி மன்ற பதில் நீதிவான் முன்னிலையில் ஆஜர் படுத்த உள்ளதாகவும், மீட்கப்பட்ட மாணவி டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி புஷ்பகுமார தெரிவித்தார். R
+
+◼️
+
+[Data](articles/594dc003.json)
+
+---
 
 ### වසර 27කින් කළ නොහැකි වූ දස්කමක් කළ දකුණු අප්‍රිකාව
 
@@ -106,6 +142,48 @@ Despite high excise taxes aimed at curbing tobacco use, smuggling continues to u
 
 ---
 
+### 250 நீர்த்தேக்கங்களில் மீன் வளங்களைப் பாதுகாக்க நடவடிக்கை முன்னெடுப்பு
+
+*2025-09-05 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224281) · `ta`
+
+மீன்வளங்களின் இழப்பைத் தடுக்கவும், உள்நாட்டு மீன் உற்பத்தியை அதிகரிக்கவும், 2 ஆண்டுகளில் 250 நிரந்தர நன்னீர் நீர்த்தேக்கங்களில் தடுப்பு வலைகளை நிறுவும் திட்டத்திற்கு அராசாங்கம் அனுமதி அளித்துள்ளதாக, அரசாங்க தகவல் திணைக்களம் அறிக்கையொன்றினூடாக தெரிவித்துள்ளது.
+
+பல்வேறு காரணங்களுக்காக நீர் திறக்கப்படும்போது, வருடந்தோறும் நன்நீர்த்தேக்கம் ஒன்றிலிருந்து 20 ஆயிரம் முதல் 40 ஆயிரம் கிலோகிராம் வரையிலான மீன்கள் அடித்துச் செல்லப்படுவதாக குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+குறிப்பாக இனப்பெருக்க திறன் கொண்ட முதிர்ந்த மீன்களின் இழப்பு, எதிர்கால மீன்வளத்தை கடுமையாகக் குறைத்துள்ளது.
+
+மேலும் கிராமப்புறங்களில் உள்ள மக்களுக்கு சத்தான உணவை வழங்குவதில் நன்னீர் மற்றும் மீன்வளர்ப்பு விவசாயம் முக்கிய பங்கு வகிக்கிறது எனவும் அந்த அறிக்கையில் கூறப்பட்டுள்ளது.
+
+உத்தியோகபூர்வ தரவுகளின்படி, இலங்கையில் 95 வகையான நன்னீர் மீன்கள் காணப்படுவதாக தெரிவிக்கப்படுகிறது. அவற்றில் 52 இனங்கள் நாட்டிற்கு சொந்தமானவை என குறிப்பிடப்படுகிறது.
+
+◼️
+
+[Data](articles/cdf4eacf.json)
+
+---
+
+### பந்துவீச்சில் ஆகாஷ் தொடர்ச்சியாக பிரகாசிப்பு, இளையோர் கிரிக்கெட்டில் மேற்கிந்தியத் தீவுகளை வீழ்த்தியது இலங்கை
+
+*2025-09-05 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224283) · `ta`
+
+மேற்கிந்தியத் தீவுகளில் நடைபெற்றுவரும் 19 வயதுக்குட்பட்ட இளையோர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் விக்னேஸ்வரன் ஆகாஷ் தொடர்ச்சியாக பந்துவீச்சில் பிரகாசிக்க, மேற்கிந்தியத் தீவுகளுடனான 3ஆவது போட்டியில் 8 விக்கெட்களால் இலங்கை அபார வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் 7 போட்டிகளைக் கொண்ட இளையோர் சர்வதேச ஒருநாள் கிரிக்கெட் தொடரில் 2 - 1 என்ற ஆட்டங்கள் வித்தியாசத்தில் இலங்கை முன்னிலை அடைந்துள்ளது.
+
+இந்தத் தொடரின் முதல் 2 போட்டிகளில் தலா 3 விக்கெட்களைக் கைப்பற்றிய ஆகாஷ், இந்தப் போட்டியில் 19 ஓட்டங்களுக்கு 4 விக்கெட்களைக் கைப்பற்றி இலங்கையின் வெற்றிக்கு வழிவகுத்தார்.
+
+அவருக்கு பக்கபலமாக பந்துவீசிய சாமிக்க சமுதித்த 33 ஓட்டங்களுக்கு 4 விக்கெட்களைக் கைப்பற்றினார்.
+
+அன்டிகுவா கூலிஜ் விளையாட்டரங்கில் வியாழக்கிழமை (04) நடைபெற்ற இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட மேற்கிந்தியத் தீவுகள் 39.2 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 138 ஓட்டங்களை மாத்திரம் பெற்றது.
+
+இயர்சின்ஹோ ஃபொன்டெய்ன் 51 ஓட்டங்களையும் ஜொஷுவா டோர்ன் 29 ஓட்டங்களையும் டைரிக் ப்றயன் 24 ஓட்டங்களையும் பெற்றனர்.
+
+...
+
+[Data](articles/417b0b92.json)
+
+---
+
 ### අයිස් මත්ද්‍රව්‍ය හදන්න ගන්නා අමුද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් මිද්දෙණියෙන් සොයාගනී
 
 *2025-09-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214204) · `si`
@@ -133,6 +211,76 @@ Despite high excise taxes aimed at curbing tobacco use, smuggling continues to u
 ...
 
 [Data](articles/ab67dc86.json)
+
+---
+
+### ஜோ பைடனுக்கு தோல் புற்றுநோய் அறுவை சிகிச்சை
+
+*2025-09-05 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224279) · `ta`
+
+முன்னாள் அமெரிக்க ஜனாதிபதி ஜோ பைடன் அண்மையில் தோல் புற்றுநோய்க்கான மோஸ் அறுவை சிகிச்சை செய்து கொண்டதாக அவரது ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+மோஸ் அறுவை சிகிச்சை என்பது தோல் புற்றுநோய்க்கு சிகிச்சையளிக்கப் பயன்படுத்தப்படும் ஒரு சிறப்பு அறுவை சிகிச்சை நுட்பமாகும். இது மிகவும் துல்லியமானது, புற்றுநோய் செல்களை மட்டுமே அகற்றி, சுற்றியுள்ள ஆரோக்கியமான திசுக்களைப் பாதுகாக்கிறது.
+
+82 வயதான அவரது தலையின் வலது பக்கத்தில் அண்மைய நாட்களில்  காயம் ஒன்றுடன் காணப்பட்டார்.
+
+2023 ஆம் ஆண்டில், வழக்கமான பரிசோதனையின் போது பைடனின் மார்பில் இருந்து புற்றுநோய் தோல் புண் அகற்றப்பட்டது.
+
+மே மாதத்தில், அவருக்கு எலும்புகளுக்கு பரவியுள்ள ஒரு தீவிரமான புரோஸ்டேட் புற்றுநோய் இருப்பது கண்டறியப்பட்டது.
+
+"புற்றுநோய் நம் அனைவரையும் தொடுகிறது," என பைடன் அப்போது சமூக ஊடகங்களில் பதிவிட்டிருந்தார். "உங்களில் பலரைப் போலவே, ஜில்லும் நானும் உடைந்த இடங்களில் நாங்கள் வலிமையானவர்கள் என்பதை அறிந்திருக்கிறோம்."
+
+பைடன் ஜனாதிபதியாக வருவதற்கு முன்பு, கடந்த காலத்தில் மெலனோமா அல்லாத பல தோல் புற்றுநோய்களையும் அகற்றினார்.
+
+...
+
+[Data](articles/9e0d8cb8.json)
+
+---
+
+### Thai lawmakers to vote for a new prime minister as candidates promise an early election
+
+*2025-09-05 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112204/thai-lawmakers-to-vote-for-a-new-prime-minister-as-candidates-promise-an-early-election) · `en`
+
+Thai lawmakers met to select a new prime minister Friday as major parties made competing promises to soon dissolve Parliament and call an election as a way to resolve the country’s political crisis.
+
+Only five candidates, nominated during the last general election in 2023, are eligible under Thailand’s constitutional rules. Anutin Charnvirakul, leader of the Bhumjaithai Party, seemed the most likely candidate to secure the job.
+
+The Constitutional Court last week dismissed Paetongtarn Shinawatra as prime minister for breaching ethics laws in a phone call with Cambodia’s Senate President Hun Sen about tensions over competing claims along their border.
+
+The dispute erupted into a deadly five-day armed conflict in July.
+
+Anutin and Pheu Thai Party candidate Chaikasem Nitisiri were officially nominated for the vote. They would need at least 247 votes to win the House majority.
+
+...
+
+[Data](articles/eb462cdc.json)
+
+---
+
+### கொழும்பில் நாளை அமுல்படுத்தப்படவிருந்த நீர் விநியோகத்தடை இரத்து!
+
+*2025-09-05 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224275) · `ta`
+
+நாளை சனிக்கிழமை (06) காலை 10.30 மணி முதல் மாலை 7.30 மணி வரை கொழும்பு உள்ளிட்ட பல பகுதிகளில் 9 மணி நேர நீர் விநியோகத்தடை அமுல்படுத்த திட்டமிடப்பட்டிருந்தது.
+
+ஆனால் குறித்த நீர் விநியோகத்தடை இரத்து செய்யப்பட்டுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகால் அமைப்பு சபை அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6c496191.json)
+
+---
+
+### Roshan Mahanama resigns from National Sports Council
+
+*2025-09-05 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112203/roshan-mahanama-resigns-from-national-sports-council) · `en`
+
+Former Sri Lanka cricketer Roshan Mahanama has stepped down from his role as a member of the National Sports Council (NSC), with immediate effect, citing personal reasons.
+
+◼️
+
+[Data](articles/0f83b337.json)
 
 ---
 
@@ -213,6 +361,24 @@ Despite high excise taxes aimed at curbing tobacco use, smuggling continues to u
 ◼️
 
 [Data](articles/b239cf52.json)
+
+---
+
+### Sri Lanka to protect fish resources in 250 reservoirs
+
+*2025-09-05 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112202/sri-lanka-to-protect-fish-resources-in-250-reservoirs) · `en`
+
+The Sri Lankan government has approved a proposal to install barrier nets in 250 permanent freshwater reservoirs in two years to prevent the loss of fish stock and increase inland fish production, a statement by the Department of Government Information said on Thursday.
+
+The statement noted that between 20,000 and 40,000 kg of fish are washed out of a single freshwater reservoir annually when the water is released for various reasons.
+
+The loss of mature fish, particularly those with reproductive capacity, has severely depleted future fish stocks, the statement said, adding that freshwater and aquaculture farming play a major role in providing nutritious food for people in rural areas.
+
+According to official data, Sri Lanka has 95 species of freshwater fish and 52 of them are endemic to the country.
+
+◼️
+
+[Data](articles/adbba58c.json)
 
 ---
 
@@ -1575,155 +1741,5 @@ Rescue operations are currently underway at the scene of the incident while seve
 ◼️
 
 [Data](articles/468c029b.json)
-
----
-
-### 2 dead, 12 injured as bus topples down precipice on Ella-Wellawaya road
-
-*2025-09-04 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112189/2-dead-12-injured-as-bus-topples-down-precipice-on-ella-wellawaya-road) · `en`
-
-UPDATE: At least two persons are reported dead while another 12 individuals have been injured and hospitalised after a bus toppled down a precipice near the 24th Km Post on the Ella-Wellawaya main road.
-
-The injured have been admitted to the Badulla Teaching Hospital, sources told Ada Derana.
-
-A bus has reportedly toppled down a precipice near the 24th Kilometer Post on the Ella-Wellawaya main road.
-
-A bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, has toppled down a precipice for a distance of around 500 meters this evening (4), Ada Derana reporter said.
-
-The group was returning back to Tangalle from Ella when they had met with the accident. Around 30 persons were onboard the bus at the time of the accident.
-
-Rescue operations are currently underway at the scene of the incident while several passengers have already been rushed to hospital, he said.
-
-◼️
-
-[Data](articles/5a812420.json)
-
----
-
-### Bus topples down precipice on Ella-Weelawaya road
-
-*2025-09-04 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112189/bus-topples-down-precipice-on-ella-weelawaya-road) · `en`
-
-A bus has reportedly toppled down a precipice near the 24th Kilometer Post on the Ella-Weelawaya main road.
-
-A bus transporting a group of employees of the Tangalle Municipal Council, who were on an excursion tour, has toppled down a precipice for a distance of around 500 meters this evening (4), Ada Derana reporter said.
-
-The group was returning back to Tangalle from Ella when they had met with the accident.
-
-Rescue operations are currently underway at the scene of the incident while several passengers have already been rushed to hospital, he said.
-
-◼️
-
-[Data](articles/5d863941.json)
-
----
-
-### பேஸ்புக், எக்ஸ், யூடியூப் உள்ளிட்ட பல சமூக ஊடகத்தளங்களுக்கு நேபாளத்தில் தடை!
-
-*2025-09-04 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224237) · `ta`
-
-நேபாள அரசாங்கம், ஃபேஸ்புக், எக்ஸ் (X) மற்றும் யூடியூப் உள்ளிட்ட பல சமூக ஊடகத் தளங்களை அந்நாட்டில் தடை செய்ய உத்தரவிட்டுள்ளது.
-
-அரசின் பதிவு விதிமுறைகளுக்கு இணங்காததே இந்த நடவடிக்கைக்குக் காரணம் என அந்நாட்டு அரசு தெரிவித்துள்ளது.
-
-இணையத்தில் பரவும் வெறுப்புப் பேச்சு, வதந்திகள் மற்றும் இணையக் குற்றங்களைக் கட்டுப்படுத்தும் முயற்சியாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நேபாள அரசு கூறியுள்ளது.
-
-தகவல் தொடர்பு மற்றும் தகவல் தொழில்நுட்ப அமைச்சகத்தின் செய்தித் தொடர்பாளர் கஜேந்திர குமார் தாக்கூர் இதுகுறித்து கூறுகையில்,
-
-"பதிவு செய்யப்படாத சமூக ஊடகத் தளங்கள் இன்று முதல் முடக்கப்படும்" என்று தெரிவித்தார்.
-
-அமைச்சில் சமூக ஊடகத்தளங்கள் தங்களைப் பதிவு செய்து, உள்ளூர் தொடர்பு  குறைகளைத் தீர்க்கும் அதிகாரி, மற்றும் சுய-ஒழுங்குமுறைக்கு பொறுப்பான ஒரு நபரை நியமிக்க வேண்டும் என்று புதன்கிழமை வரை அவகாசம் வழங்கப்பட்டிருந்தது.
-
-...
-
-[Data](articles/1252dcb9.json)
-
----
-
-### நாட்டிலுள்ள உண்மையான பிரச்சினைகள் குறித்து மக்களுக்கு விழிப்புணர்வை ஏற்படுத்த வேண்டும் - சஜித் பிரேமதாச
-
-*2025-09-04 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224236) · `ta`
-
-நாட்டிலுள்ள உண்மையான பிரச்சினைகள் குறித்து மக்களுக்கு விழிப்புணர்வை ஏற்படுத்த வேண்டும். உலக வங்கியும், சர்வதேச நாணய நிதியமும் கணித்துள்ளதன் பிரகாரம், இக்காலப் பிரிவுகளில் நமது நாட்டின் பொருளாதார வளர்ச்சி விகிதம் குறைந்த மட்டத்திலயே அமையும் என வெளிக்கொணரப்பட்டுள்ளது. எனவே, அனைவரும் கைகோர்த்து பொருளாதாரத்தை கட்டியெழுப்ப வேண்டும் என எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச வலியுறுத்தினார்.
-
-வேரஹெர ஸ்ரீ சித்தார்த்தராம புராண ராஜமஹா விஹாரையில் புதிதாக நிர்மாணிக்கப்பட்ட தூபி மனை, கணினி மையத்துடன் கூடிய மூன்று மாடி அறநெறி கட்டிடத்திற்கான அடிக்கல் நாட்டும் விழாவில் நேற்று வியாழக்கிழமை கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார். அங்கு தொடர்ந்தும் உரையாற்றிய அவர்,
-
-...
-
-[Data](articles/588414b0.json)
-
----
-
-### ඇල්ලේ දී බස් රථයක් ප්‍රපාතයකට පෙරළෙයි
-
-*2025-09-04 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214186) · `si`
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී අද (4) රාත්‍රියේ අනතුරක් සිදුව තිබේ.
-
-බස්රථය කිලෝමීටර 24 කනුව ආසන්නයෙන් මෙලෙස ප්‍රපාතයට පෙරළී ඇති අතර, එය මීටර 200ක් පමණ පහළට ගොස් ඇති බව සඳහන්.
-
-ඇල්ලේ විනෝද චාරිකාවක් පැමිණි තංගල්ල නගර සභාවේ කාර්යය මණ්ඩලයේ පිරිසක් මෙම අනතුරට මුහුණ පා ඇත.
-
-◼️
-
-[Data](articles/e95e327a.json)
-
----
-
-### முறிகண்டியில் முச்சக்கரவண்டி மற்றும் பேருந்து தரிப்பிடத்தை அபகரிக்க முயற்சித்த தனிநபரால் பதற்றம்; ரவிகரன் எம்.பியின் தலையீட்டால் பிரச்சினைக்கு சுமூக தீர்வு
-
-*2025-09-04 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/224235) · `ta`
-
-முல்லைத்தீவு - ஒட்டுசுட்டான் பிரதேசசெயலர் பிரிவிற்குட்பட்ட முறிகண்டி பிள்ளையார் ஆலயத்திற்கு அருகில் அப்பகுதி முச்சக்கரவண்டி உரிமையாளர்களும், பேருந்து உயிமையாளர்களும் தமது முச்சக்கரவண்டிகள் மற்றும் பேருந்துகளை தரித்துவைப்பதற்கு நீண்டகாலமாகப் பயன்படுத்திவந்த தரிப்பிடப் பகுதியை, தனிநபர் ஒருவர் வேலியிட்டு அத்துமீறி அபகரிக்கும் முயற்சி மேற்கொண்டதால் அப்பகுதியில் வியாழக்கிழமை (04) பதற்றம் ஏற்பட்டது.
-
-இந்நிலையில் இதுதொடர்பில் வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் அவர்களுக்கு அப்பகுதி பேருந்து உரிமையாளர்கள், முச்சக்கரவண்டி உரிமையாளர்கள் சங்கம் மற்றும் வர்த்தகசங்கம் ஆகிய தரப்பினர் முறையிட்டிருந்ததையடுத்து நாடாளுமன்ற உறுப்பினர் நிலமைகளை நேரில் சென்று ஆராய்ந்தார். அதற்கமைய நாடாளுமன்ற உறுப்பினர் ரவிகரன் தலையீட்டையடுத்து குறித்த பிரச்சினைக்கு சுமூக தீர்வு எட்டப்பட்டுள்ளது.
-
-...
-
-[Data](articles/9987dbf8.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳ  අධිකරණයේ දී  දරුවා ගැන කළ දැනුම්දීම
-
-*2025-09-04 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214185) · `si`
-
-මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ අධිකරණයට ඉදිරිපත් කළ මේ වන විට අත්අඩංගුවේ පසුවන බැකෝ සමන් නැමැත්තාගේ බිරිඳ වන ෂාධිකා ලක්‍ෂානි නමැත්තිය ලබන 18 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-ඒ මෙම සැකකාරිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවට අද (04) ඉදිරිපත් කිරීමෙන් අනතුරුව ය.
-
-ඇය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සිට සිය තෙහැවිරිදි දැරිය අධිකරණයට රැගෙන ආ අතර අධිකරණය කළ විමසීමකදී සැකකාරිය සඳහන් කළේ තම දරුවා රැක බලාගැනීම සඳහා සිය දෙමව්පියන්ට භාර දෙන බවය.
-
-◼️
-
-[Data](articles/6a943896.json)
-
----
-
-### Cinnamon Hotels & Resorts appoints hotelier Kamal Munasinghe as Chief Operating Officer
-
-*2025-09-04 21:18:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-appoints-hotelier-kamal-munasinghe-as-chief-operating-officer/) · `en`
-
-Cinnamon Hotels & Resorts has appointed Kamal Munasinghe as its new Chief Operating Officer (COO), to lead operations across the brand’s 17 resorts and hotels in Sri Lanka and the Maldives.
-
-With nearly 30 years of experience across Asia and Europe, Kamal brings with him a vision that looks beyond traditional hospitality. His focus is on transforming Cinnamon Hotels & Resorts into a brand defined by precision in operations, authenticity in service, and innovation in guest journeys.
-
-Having held senior leadership roles with global names prior to his leadership at Cinnamon Grand Colombo and the wider Colombo portfolio, he has consistently demonstrated the ability to blend efficiency with excellence, while keeping guests at the centre of the experience.
-
-...
-
-[Data](articles/6b0409a8.json)
-
----
-
-### Dr Rohantha Athukorala appointed to Lotus Hydro Power Board
-
-*2025-09-04 21:17:00* · [`islandlk`](http://island.lk/dr-rohantha-athukorala-appointed-to-lotus-hydro-power-board/) · `en`
-
-Business professional Dr Rohantha Athukorala with a 23 years British Multinational experience of UNILEVER, ReckittBenckiser and United Nations( UNOPS) has been appointed to the Board of Lotus Hydro Power PLC – a leading renewable energy in Sri Lanka. Headquartered in Colombo, Sri Lanka, the company is a prominent corporation specializing in the development and operation of renewable energy sources. The company currently oversees the operation of four active power plants strategically located in the Rathnapura, Kandy, and Nuwara Eliya regions. The company is a proponent for supplying green energy while safeguarding the environment. I am excited to serve an organization that has so far generated over 65,000 tons of Carbon Credits and 15.4 Gwh of Green Energy in Sri Lanka said Athukorala.
-
-...
-
-[Data](articles/4bae8732.json)
 
 ---

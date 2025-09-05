@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-05 19:32:49**
+As of **2025-09-05 19:50:22**
 
 ## Newspaper Stats
 
-*Scraped **74,355** Articles*
+*Scraped **74,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,520
 islandlk | 4,565
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,189
+adalk | 7,190
 adaderanalk | 9,499
-tamilmirrorlk | 11,067
+tamilmirrorlk | 11,068
 virakesarilk | 12,159
 adaderanasinhalalk | 12,925
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 12,925
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,355 articles have been extended.
+61,973 (83.3%) of 74,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-05 (Friday)
+
+### செம்மணியில் இன்றும் புதிதாக எலும்புக்கூடுகள் கண்டுபிடிப்பு
+
+*2025-09-05 19:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணியில்-இன்றும்-புதிதாக-எலும்புக்கூடுகள்-கண்டுபிடிப்பு/175-364072) · `ta`
+
+செம்மணி மனித புதைகுழியில் இன்று (05) 11 எலும்புக்கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ள நிலையில் மேலும் 05 எலும்புக்கூடுகள் புதிதாக அடையாளம் காணப்பட்டுள்ளது.
+
+செம்மணி மனித புதைகுழியின் இரண்டாம் கட்டத்தின் மூன்றாம் பகுதி அகழ்வு பணிகள் கடந்த 25 ஆம் திகதி ஆரம்பிக்கப்பட்ட நிலையில் இன்று 12 ஆவது நாளாகவும் முன்னெடுக்கப்பட்டது.
+
+கட்டம் கட்டமாக இதுவரையில், 53 நாட்கள் முன்னெடுக்கப்பட்ட அகழ்வு பணிகளின் போது, இன்றைய தினம் அகழ்ந்து எடுக்கப்பட்ட 17 எலும்புக்கூட்டு தொகுதியுடன் இதுவரையில் 235 எலும்பு கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளது.
+
+அதேவேளை இரண்டாம் கட்ட அகழ்வுப்பணிகளுக்காக நீதிமன்றம் அனுமதித்த 45 நாட்கள் நாளை (05) நிறைவுறவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/69ddfcf0.json)
+
+---
+
+### ඇල්ල බස් රථ අනතුරේ සියලුම තොරතුරු
+
+*2025-09-05 19:20:23* · [`adalk`](https://www.ada.lk/opinion/ඇල්ල-බස්-රථ-අනතුරේ-සියලුම-තොරතුරු/2-418305) · `si`
+
+ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ රාවණා ඇල්ල 15 කනුව ප්‍රදේශයේ දී විනෝද  චාරිකාවක් යමින් සිටි තංගල්ල නගර සභාවේ  සේවක පිරිසක් රැගත් පෞද්ගලික බස්‍ රථයක් ඊයේ (4) රාත්‍රි රාවණා ඇල්ල රක්ශිතයේ අඩි දහසක පමණ ප්‍රපාතයකට පෙරලීයාමෙන් බස්‍ රථයේ රියැදුරු ඇතුලු 15 ක් මියගොස් 18 ක් තුවාල ලබා බදුල්ල ශික්ශන රෝහලට ඇතුලත් කල බව ඇල්ල පොලිසිය පවසයි .
+
+ඊට අමතරව මෙම අනතුරින් තුවාල ලැබූ තුවාලකරුවන් බේරාගැනීමට කබවල ආධාරයෙන් ප්‍රපාතයට බැසීමට යාමේදී යුධ හමුදා නිළධාරින් දෙදෙනකු ඇද වැටී තුවාල ලබා බදුල්ල ශික්ශන රෝහලේ ප්‍රතිකාර ලබන බවත් , බස්‍ රථයේ ගමන් ගත්  තවත් පහලොස් දෙනෙකු දැනට නේවාසිකව රෝහලේ ප්‍රතිකාර ලබමින් පසුවන බවත් පොලිසිය සදහන් කලේය .
+
+...
+
+[Data](articles/8007d6e4.json)
+
+---
 
 ### ඇල්ල බස් අනතුරින් තුවාල ලැබූවන්ගේ නවතම තත්ත්වය
 
@@ -1709,29 +1741,5 @@ Women in Tech, a global non-profit organisation promoting inclusion, diversity, 
 ...
 
 [Data](articles/a9ae95e1.json)
-
----
-
-### Dubai Real Estate Roadshow comes to Colombo: Exclusive 1-to-1 consultations for Sri Lankan investors
-
-*2025-09-05 04:23:10* · [`dailyftlk`](https://www.ft.lk/business/Dubai-Real-Estate-Roadshow-comes-to-Colombo-Exclusive-1-to-1-consultations-for-Sri-Lankan-investors/34-781277) · `en`
-
-...
-
-[Data](articles/45dc9964.json)
-
----
-
-### Prime Lands Residencies celebrates digital innovation as ‘The Grand’ website wins Gold at BestWeb.LK
-
-*2025-09-05 04:22:47* · [`dailyftlk`](https://www.ft.lk/business/Prime-Lands-Residencies-celebrates-digital-innovation-as-The-Grand-website-wins-Gold-at-BestWeb-LK/34-781276) · `en`
-
-Prime Lands Residencies PLC has once again been recognised for digital excellence, earning a Gold Award at the prestigious 15th BestWeb.lk Awards for the second consecutive year. The company triumphed in the Best Corporate Website category for The Grand Ward Place website (https://thegrand.lk/), a platform reflecting the commitment to deliver a dynamic, intuitive, and forward-thinking online presence shaping Sri Lanka’s real estate sector.
-
-The recognition highlights Prime Lands Residencies’ ability to provide customers with seamless access to property options, essential information, and brand engagement opportunities. Winning at BestWeb.lk further reinforces the company’s strategic digital investments and strengthens its position as the standard-bearer for real estate brands online.
-
-...
-
-[Data](articles/157bbccb.json)
 
 ---

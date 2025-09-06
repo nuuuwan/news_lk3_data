@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 12:49:30**
+As of **2025-09-06 13:06:15**
 
 ## Newspaper Stats
 
-*Scraped **74,419** Articles*
+*Scraped **74,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,194
-adaderanalk | 9,511
+adaderanalk | 9,514
 tamilmirrorlk | 11,073
-virakesarilk | 12,174
+virakesarilk | 12,175
 adaderanasinhalalk | 12,942
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,419 articles have been extended.
+61,973 (83.3%) of 74,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### காசாவின் கான் யூனிஸில் மனிதாபிமான மண்டலத்தை நிறுவ தீர்மானம்!
+
+*2025-09-06 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224359) · `ta`
+
+காசாவின் கான் யூனிஸின் அல் - மவாசி பகுதியில் ஒரு மனிதாபிமான மண்டலத்தை நிறுவுவதற்கு தீர்மானித்துள்ளதாக இஸ்ரேலிய இராணுவம் சனிக்கிழமை (இன்று) அதிகாலை தெரிவித்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+கள வைத்தியசாலைகள், நீர் குழாய்கள், உப்புநீக்கும் வசதிகள் மற்றும் உணவுப் பொருட்கள் போன்ற உட்கட்டமைப்புகள் இந்தப் பகுதியில் இருக்கும் என்றும் இராணுவம் தெரிவித்துள்ளது.
+
+காசா குடியிருப்பாளர்கள் அந்தப் பகுதிக்கு வெளியேறுமாறு இராணுவத்தின் செய்தியாசிரியர் அழைப்பு விடுத்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/5447b85a.json)
+
+---
+
+### Four female cops promoted to DIG for the first time in Sri Lanka
+
+*2025-09-06 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112224/four-female-cops-promoted-to-dig-for-the-first-time-in-sri-lanka) · `en`
+
+For the first time in the history of the Sri Lanka Police, four female officers have been promoted to the rank of Deputy Inspector General of Police (DIG) at the same time.
+
+The promotions were approved by the National Police Commission (NPC) and subsequently confirmed by Inspector General of Police (IGP) Priyantha Weerasuriya, and are effective from January 01 this year.
+
+Accordingly, Darshika Kumari, Padmini Weerasuriya, Renuka Jayasundara, and Nishani Seneviratne are scheduled to assume duties as DIGs.
+
+Three of the newly appointed DIGs entered the Sri Lanka Police Service in 1997 as trainee Sub-Inspectors.
+
+• Darshika Kumari currently serves as the Commanding Officer of the Police Field Force Headquarters and is recognized as the first female officer to hold that position.
+
+• Padmini Weerasuriya is presently the Acting DIG in charge of the Kalutara District, becoming the first female officer in Sri Lanka Police history to oversee a district.
+
+...
+
+[Data](articles/f50ce1f3.json)
+
+---
 
 ### சஷீந்திர ராஜபக்ஷவுக்கு உயர் இரத்த அழுத்தம்
 
@@ -43,6 +81,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5c8fb464.json)
+
+---
+
+### Over 40,000 MT of paddy purchased under govt program – PMB
+
+*2025-09-06 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112223/over-40000-mt-of-paddy-purchased-under-govt-program-pmb) · `en`
+
+The Paddy Marketing Board (PMB) announced that more than 40,000 metric tons of paddy have been purchased under the government’s paddy procurement program.
+
+PMB Chairman Manjula Pinnalanda stated that the highest volume of paddy was procured from the Ampara district, where 85% of the harvesting has already been completed.
+
+He further noted that procurement activities are also ongoing in the Anuradhapura and Polonnaruwa districts.
+
+The government allocated Rs. 60 billion for the first phase of the paddy purchase program, out of which Rs. 55 billion has already been paid to farmers, the Chairman confirmed.
+
+◼️
+
+[Data](articles/1a4b7c8d.json)
 
 ---
 
@@ -67,6 +123,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3a2d559b.json)
+
+---
+
+### Bus involved in Ella accident deregistered in 2023 – Dy Minister
+
+*2025-09-06 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112222/bus-involved-in-ella-accident-deregistered-in-2023-dy-minister) · `en`
+
+The bus involved in the tragic accident on the Ella–Wellawaya road had been deregistered by the National Transport Commission (NTC) in 2023, Deputy Minister of Transport Dr. Prasanna Gunasena revealed.
+
+He further noted that there are currently no legal provisions to regulate buses used exclusively for private trips.
+
+Deputy Minister Gunasena added that the Road Development Authority (RDA) has already taken all possible measures to minimize accidents along the Ella–Wellawaya road.
+
+Meanwhile, a team from the Department of Motor Traffic has been dispatched to inspect the bus involved in the accident.
+
+In addition, officials from the National Transport Medical Institute (NTMI) and the Ministry of Transport’s Road Safety Program are scheduled to visit Ella today (06) to conduct further inspections, the Deputy Minister confirmed.
+
+...
+
+[Data](articles/698a24ed.json)
 
 ---
 
@@ -1743,65 +1819,5 @@ However, a survivor of the tragedy told the media that the bus driver had compla
 ...
 
 [Data](articles/9e0d8cb8.json)
-
----
-
-### Thai lawmakers to vote for a new prime minister as candidates promise an early election
-
-*2025-09-05 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112204/thai-lawmakers-to-vote-for-a-new-prime-minister-as-candidates-promise-an-early-election) · `en`
-
-Thai lawmakers met to select a new prime minister Friday as major parties made competing promises to soon dissolve Parliament and call an election as a way to resolve the country’s political crisis.
-
-Only five candidates, nominated during the last general election in 2023, are eligible under Thailand’s constitutional rules. Anutin Charnvirakul, leader of the Bhumjaithai Party, seemed the most likely candidate to secure the job.
-
-The Constitutional Court last week dismissed Paetongtarn Shinawatra as prime minister for breaching ethics laws in a phone call with Cambodia’s Senate President Hun Sen about tensions over competing claims along their border.
-
-The dispute erupted into a deadly five-day armed conflict in July.
-
-Anutin and Pheu Thai Party candidate Chaikasem Nitisiri were officially nominated for the vote. They would need at least 247 votes to win the House majority.
-
-...
-
-[Data](articles/eb462cdc.json)
-
----
-
-### கொழும்பில் நாளை அமுல்படுத்தப்படவிருந்த நீர் விநியோகத்தடை இரத்து!
-
-*2025-09-05 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224275) · `ta`
-
-நாளை சனிக்கிழமை (06) காலை 10.30 மணி முதல் மாலை 7.30 மணி வரை கொழும்பு உள்ளிட்ட பல பகுதிகளில் 9 மணி நேர நீர் விநியோகத்தடை அமுல்படுத்த திட்டமிடப்பட்டிருந்தது.
-
-ஆனால் குறித்த நீர் விநியோகத்தடை இரத்து செய்யப்பட்டுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகால் அமைப்பு சபை அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/6c496191.json)
-
----
-
-### Roshan Mahanama resigns from National Sports Council
-
-*2025-09-05 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112203/roshan-mahanama-resigns-from-national-sports-council) · `en`
-
-Former Sri Lanka cricketer Roshan Mahanama has stepped down from his role as a member of the National Sports Council (NSC), with immediate effect, citing personal reasons.
-
-◼️
-
-[Data](articles/0f83b337.json)
-
----
-
-### ජාතික ක්‍රීඩා කවුන්සිල සාමාජිකත්වයෙන් මහානාම ඉල්ලා අස්වෙයි
-
-*2025-09-05 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214202) · `si`
-
-ශ්‍රී ලංකා හිටපු ක්‍රිකට් ක්‍රීඩක රොෂාන් මහානාම පෞද්ගලික හේතුවක් මත ජාතික ක්‍රීඩා කවුන්සිලයේ සාමාජිකත්වයෙන් ඉල්ලා අස්වී ඇත.
-
-ක්‍රීඩා අමාත්‍යවරයාට උපදෙස් ලබාදීම ජාතික ක්‍රීඩා කවුන්සිලයෙන් සිදුකෙරෙන ප්‍රධානම කාර්යභාරයක් වේ.
-
-◼️
-
-[Data](articles/6fe6bf4e.json)
 
 ---

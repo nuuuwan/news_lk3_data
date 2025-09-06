@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 15:06:56**
+As of **2025-09-06 15:18:12**
 
 ## Newspaper Stats
 
-*Scraped **74,430** Articles*
+*Scraped **74,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,63 @@ newsfirstlk | 363
 dbsjeyarajcom | 626
 bbccomsinhala | 677
 colombotelegraphcom | 756
-economynextcom | 4,520
+economynextcom | 4,522
 islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,196
 adaderanalk | 9,514
-tamilmirrorlk | 11,074
+tamilmirrorlk | 11,075
 virakesarilk | 12,177
-adaderanasinhalalk | 12,944
+adaderanasinhalalk | 12,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,430 articles have been extended.
+61,973 (83.3%) of 74,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### உயிரிழந்தவர்களுக்கு பிரதமர் ஹரிணி நேரில் அஞ்சலி
+
+*2025-09-06 15:04:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்தவர்களுக்கு-பிரதமர்-ஹரிணி-நேரில்-அஞ்சலி/175-364093) · `ta`
+
+எல்ல - வெல்லவாய பேருந்து விபத்தில் உயிரிழந்தவர்களின் சடலங்கள் இறுதி அஞ்சலிக்காக தங்காலை நகர சபையில் வைக்கப்பட்டுள்ளன.
+
+இந்த நிலையில் தங்காலை நகர சபைக்கு, பிரதமர் ஹரிணி அமரசூரியசென்று இறந்தவர்களுக்கு இறுதி அஞ்சலி செலுத்த சென்றுள்ளார். R
+
+◼️
+
+[Data](articles/cc6baee3.json)
+
+---
+
+### ගාසා නගරයේ දරුණු ව්‍යසනයක් අතළඟ
+
+*2025-09-06 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214239) · `si`
+
+ගාසා නගරය අත්පත් කරගැනීම තීව්‍ර කරමින් එහි පදිංචිකරුවන්ට එම ස්ථානවලින් ඉවත්වන ලෙස ඊශ්‍රායල හමුදාව දැනුම්දී තිබේ.
+
+ගාසා නගරය ආශ්‍රිතව සිදුකිරීමට සැළසුම් කර ඇති භූමි ප්‍රහාරය හේතුවෙන් මෙම දැනුම්දීම සිදුකර ඇත.
+
+ඒ අනුව එහි පදිංචිකරුවන්ට ගාසා තීරයේ දකුණු ප්‍රදේශයේ ස්ථාපිත කර ඇති මානුෂීය කළාපය වෙත යොමුවන ලෙස ඊශ්‍රායල හමුදාව දැනුම් දී ඇත.
+
+කෙසේ වෙතත් මේ වන විටත් ගාසා නගරයේ  පදිංචිකරුවන් විශාල පිරිසක් එම මානුෂීය කලාපය වෙත යොමුවෙමින් සිටින බව සදහන්.
+
+මෙම කලාපයේ ක්ෂේත්‍ර රෝහල්, ජලනල මාර්ග මෙන්ම ආහාර, කූඩාරම්, ඖෂධ සහ වෛද්‍ය සැපයුම් අඛණ්ඩව ලැබෙන අතර, එක්සත් ජාතීන්ගේ සංවිධානය සහ අනෙකුත් ජාත්‍යන්තර සංවිධාන සමග සම්බන්ධීකරණය කටයුතු සිදුකරන බව ඊශ්‍රායල හමුදාව දැනුම්දී තිබේ.
+
+ගාසා නගරය ආශ්‍රිතව පුද්ගලයින් මිලියනයකට අධික පිරිසක් රැදී සිටින අතර, එම ප්‍රදේශය හමාස් සංවිධානයේ ඉතිරිව ඇති අවසන් බලකොටුව ලෙස සැලකෙයි.
+
+කෙසේ වෙතත් ඊශ්‍රායලයේ මෙම භූමි ප්‍රහාරය ඉක්මන් වුවහොත් දරුණු ව්‍යසනයක් සිදු විය හැකි බවට එක්සත් ජාතීන්ගේ සංවිධානය අනතුරු අගවා තිබේ.
+
+...
+
+[Data](articles/40ac75c5.json)
+
+---
 
 ### පියල් මනම්පේරි අත්අඩංගුවට - සම්පත් මනම්පේරිගේ පොහොට්ටු සාමාජිකත්වය තහනම් කරයි
 
@@ -563,6 +601,26 @@ Police suspect that the shooting may have been linked to a financial dispute.
 ◼️
 
 [Data](articles/4a37f250.json)
+
+---
+
+### Sri Lanka private credit continues blistering expansion in July with Rs201bn
+
+*2025-09-06 08:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-continues-blistering-expansion-in-july-with-rs201bn-239589/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s credit to private borrowers expanded by 201.5 billion rupees in July, after a record 221 billion growth in June, official data show, amid broadly deflationary policy that gave confidence with stable costs, but there have been some inflationary swaps recently.
+
+In the seven months to July, Sri Lanka’s banks now disbursed 901.6 billion rupees in credit, compared to 341 billion rupees last year.
+
+In the 12-months to July 2025, private credit has expanded by 1,485 billion rupees, compared to 493 billion rupees last year, taking the annual growth to 19.6 percent.
+
+SOE credit also fell in July. It is not clear whether this is due to improved finances of Ceylon Electricity Board.
+
+Sri Lanka’s private credit started to expand in the latter part of 2023, after a currency crisis and default triggered by rate cuts and the single policy rate (mid-corridor targeting), which destroyed purchasing power and pushed rates to high levels in the previous year.
+
+...
+
+[Data](articles/6526bd41.json)
 
 ---
 
@@ -1785,55 +1843,5 @@ According to the preliminary investigations, it has been revealed that the accid
 ...
 
 [Data](articles/1f2c763f.json)
-
----
-
-### Sri Lanka Railways to build three-car light trains for rural towns
-
-*2025-09-05 15:00:00* · [`economynextcom`](https://economynext.com/cigarette-smuggling-occurs-across-sri-lanka-ips-study-finds-239554/) · `en`
-
-ECONOMYNEXT – Sri Lanka Railways plans to build small trains with three cars to operate on rural tracks where passenger demand is insufficient to run larger trains, Minister Nalinda Jayatissa said.
-
-The cabinet of minister had given the nod to assemble the railcars locally which will be powered by a diesel engine in each compartment, and controlled by an electronic system.
-
-The small trains would be able to carry around 200 to 240 passengers.
-
-There were already some rail buses (a single compartment bus with wheels capable to running on rail tracks) but there were practical difficulties in running them with existing timetables (Colombo/Sept06/2025)
-
-◼️
-
-[Data](articles/9f40fc9b.json)
-
----
-
-### කෝටි ගාණක කුෂ් සමඟ ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
-
-*2025-09-05 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214206) · `si`
-
-රුපියල් කෝටි දහයකට අධික වටිනාකමකින් යුත් කුෂ් මත්ද්‍රව්‍ය තොගයක් සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට ගැනීමට කටුනායක ගුවන් තොටුපළ රේගු නිලධාරීන් සමත්වී ඇත.
-
-අදාළ සැකකරු අද (05) උදෑසන 7.45ට පමණ එයාර් ඉන්දියා ගුවන් සමාගමට අයත් AI - 277 ගුවන් යානයෙන් මෙරටට පැමිණ තිබේ.
-
-භාරයට ගත් කිලෝග්‍රෑම් 10.75ක් පමණ වන මෙම කුෂ් තොග‍යේ මුළු වටිනාකම රුපියල් දස කෝටි පනස් ලක්ෂයක් වන බව රේගු බලධාරීන් සඳහන් කළේය.
-
-ගුවන් තොටුපොළ රේගු පරිශ්‍රය තුළ මෑතකදී සවි කරන ලද අති නවීන ස්කෑන් යන්ත්‍රයක් භාවිතයෙන් මෙම කුශ් තොගය සොයා ගැනීමට හැකි වී තිබේ.
-
-◼️
-
-[Data](articles/dc009322.json)
-
----
-
-### තායිලන්තයේ නව අගමැති අනුටින් චාන්විරකුල්
-
-*2025-09-05 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214205) · `si`
-
-එරට පාර්ලිමේන්තුවේ පැවති ඡන්ද විමසීමකින් අනතුරුව ඔහු මෙම ධුරයට පත්ව ඇත.
-
-තායිලන්ත හිටපු අග්‍රාමාත්‍ය පේටොංටාර්න් ෂිනවත්‍රා  පාර්ලිමේන්තුව විසින් බලයෙන් පහකළ අතර, එම පුරප්පාඩුව වෙනුවෙන් මෙම ඡන්ද විමසීම පැවැත්විණි.
-
-◼️
-
-[Data](articles/d645474d.json)
 
 ---

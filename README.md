@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 14:32:51**
+As of **2025-09-06 14:49:49**
 
 ## Newspaper Stats
 
-*Scraped **74,429** Articles*
+*Scraped **74,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 7,196
 adaderanalk | 9,514
 tamilmirrorlk | 11,074
 virakesarilk | 12,177
-adaderanasinhalalk | 12,943
+adaderanasinhalalk | 12,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,429 articles have been extended.
+61,973 (83.3%) of 74,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### පියල් මනම්පේරි අත්අඩංගුවට - සම්පත් මනම්පේරිගේ පොහොට්ටු සාමාජිකත්වය තහනම් කරයි
+
+*2025-09-06 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214236) · `si`
+
+අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට භාවිත කරන රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක පමණ ප්‍රමාණයක් මිද්දෙණිය, තලාව ප්‍රදේශයේ නිවසක වළදමා තිබියදී සොයාගැනීමේ සිද්ධිය සම්බන්ධයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු ප්‍රාදේශීය සභා සභිකයෙකු වන පියල් මනම්පේරි අත්අඩංගුවට ගෙන තිබේ.
+
+බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය විසින් ඊයේ (05) සිදුකළ මෙහෙයුමකදී මෙම රසායනික ද්‍රව්‍ය සොයාගනු ලැබීය.
+
+මේ අතර පියල් මනම්පේරි නමැත්තාගේ සහෝදරයෙකු වන සම්පත් මනම්පේරි නමැත්තාගේ පක්ෂ සාමාජිකත්වය තහනම් කිරීමට වහාම ක්‍රියාත්මක වනපරිදි පියවර ගෙන ඇති බවද ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි.
+
+"අප පක්ෂයේ සාමාජිකයකුව සිටි අඟුණකොළපැලැස්ස තලාව පදිංචිව සිටි සම්පත් මනම්පේරි යන පුද්ගලයාට එරෙහිව මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදාගන්නා අමුද්‍රව්‍ය තබා ගැනීමක් සම්බන්ධයෙන් චෝදනාවක් ඉදිරිපත් වී ඇත. අප පක්ෂය කිසිවිටෙකත් මෙවැනි චෝදනාවන්ට පත්වන්නන්ට කිසිදු ලිහිල් ප්‍රතිපත්තියක් අනුගමනය නොකරන අතර ඒ අනුව වහාම ක්‍රියාත්මක වනපරිදි ඔහුගේ පක්ෂ සාමාජිකත්වය තහනම් කරන ලදී."
+
+...
+
+[Data](articles/33d60d1f.json)
+
+---
 
 ### සුදු අරලිය හොටලයේ වැට ඉවත් කරගන්න කැමතියි
 
@@ -1817,23 +1835,5 @@ There were already some rail buses (a single compartment bus with wheels capable
 ◼️
 
 [Data](articles/d645474d.json)
-
----
-
-### Thailand’s Anutin Charnvirakul elected PM by parliament
-
-*2025-09-05 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112206/thailands-anutin-charnvirakul-elected-pm-by-parliament) · `en`
-
-Thailand’s Anutin Charnvirakul was elected prime minister on Friday after breezing through a parliamentary vote, trouncing the candidate of the Shinawatra family’s once-dominant ruling party to end a week of chaos and political deadlock.
-
-With the decisive backing of the opposition, Anutin easily passed the threshold of more than half of the lower house votes required to become premier, capping off days of drama and a scramble for power during which he outmanoeuvred the most successful political party in Thailand’s history.
-
-Shrewd dealmaker Anutin has been a mainstay in Thai politics throughout years of turmoil, positioning his Bhumjaithai party strategically between warring elites embroiled in an intractable power struggle and guaranteeing its place in a succession of coalition governments.
-
-Anutin did not speak to the house before the vote, during which he passed the threshold to become premier with a huge lead.
-
-...
-
-[Data](articles/ae8fa237.json)
 
 ---

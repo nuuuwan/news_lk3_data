@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 16:49:22**
+As of **2025-09-06 17:04:34**
 
 ## Newspaper Stats
 
-*Scraped **74,444** Articles*
+*Scraped **74,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ economynextcom | 4,522
 islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,196
+adalk | 7,197
 adaderanalk | 9,517
 tamilmirrorlk | 11,076
 virakesarilk | 12,180
-adaderanasinhalalk | 12,948
+adaderanasinhalalk | 12,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.2%) of 74,444 articles have been extended.
+61,973 (83.2%) of 74,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### කාසියේ වාසිය සිම්බාබ්වේට
+
+*2025-09-06 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214244) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක සිම්බාබ්වේ කණ්ඩායම අතර තරග තුනකින් සමන්විත තරගාවලියේ දෙවන විස්සයි20 ක්‍රිකට් තරගය අද (06) පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනූ සිම්බාබ්වේ නායකයා පළමුව පන්දු යැවීමට තීරණය කළේය.
+
+අද අතරගය සඳහා කුසල් ජනිත් වෙනුවට කමිල් මිෂාර කැඳවා ඇති බව වාර්තා වෙයි.
+
+මෙම සිම්බාබ්වේ තරග සංචාරය එළැඹෙන ආසියානු කුසලාන තරගාවලිය සඳහා හොඳ පෙර සූදානමක් බව ශ්‍රී ලංකා මැදපෙල පිතිකරු කමිදු මෙන්ඩිස් පවසයි.
+
+දෙරට අතර පැවති පළමු විස්සයි20 තරගය කඩුලු 4 කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණි.
+
+◼️
+
+[Data](articles/306c98f0.json)
+
+---
 
 ### ප්‍රශ්නගත බහාලුම් 323 සහ මිද්දෙණියෙන් හමුවූ බහාලුම් අතර සම්බන්ධයක් නෑ - පොලීසිය
 
@@ -47,6 +67,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/19bcdcc0.json)
+
+---
+
+### පද්මේ ගෙන්වූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදන රසායනික ද්‍රව්‍ය ගැන පොලිසියෙන් හෙළිදරව්වක්
+
+*2025-09-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214243) · `si`
+
+මිද්දෙණිය, තලාව ප්‍රදේශයේ නිවසක වළදමා තිබියදී සොයා ගත් කන්ටේනර් දෙකෙන් ලබා ගත් සාම්පල 20න්  5කම අයිස් හෙවත් මෙත් සාන්ද්‍රණයන් ඇතුළත් බවට අනාවරණය වූ බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්. යූ වුට්ලර් මහතා පවසයි.
+
+ඔහු මේ බව සඳහන් කළේ පොලිස් මාධ්‍ය කොට්ඨාශ ශ්‍රවණාගාරයේ දී අද (06) පැවති විශේෂ ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එමෙන්ම අදාළ ඉඩමේ එක් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔහු ඉදිරි විමර්ශන සඳහා බස්නාහිර පළාත් උතුර අපරාධ විමර්ශන කොට්ඨාශ ඒකකයට භාර දී ඇති බවද මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+අයිස් මත්ද්‍රව්‍ය විදේශයන්ගෙන් ගෙන්වන මත්ද්‍රව්‍යයක් වන බවත් එය ශ්‍රී ලංකාව තුළ නිශ්පාදනයට ගත් ප්‍රබල උත්සහයක් පොලීසිය විසින් ව්‍යර්ථ කළ බවත් එහිදී ඔහු වැඩිදුරටත් පැවසීය.
+
+මෙම අන්තර්ගතයන් පිළිබඳව ඉදිරියේ දී මහජනතාව දැනුවත් කිරීමට කටයුතු කරන බවද මාධ්‍ය ප්‍රකාශකවරයා පැවසුවේය.
+
+එමෙන්ම එහිදී ඔහු සඳහන් කර සිටියේ මෙම සියලු සාර්ථක වැටලීම් පිටුපස මහජනතාව සිටින බවත් එසේ සහයෝගය දක්වන්නන්ට සිය කෘතඥතාව පළ කරන බවත් ය.
+
+◼️
+
+[Data](articles/550b1fbe.json)
 
 ---
 
@@ -215,6 +257,20 @@ Police investigations revealed that both Piyal Manamperi and his brother were al
 ...
 
 [Data](articles/51ee0056.json)
+
+---
+
+### මීගමුවේ හා පානදුරෙත් වෙඩි තැබිම්
+
+*2025-09-06 13:59:02* · [`adalk`](https://www.ada.lk/breaking_news/මීගමුවේ-හා-පානදුරෙත්-වෙඩි-තැබිම්/11-418312) · `si`
+
+මීගමුව, කුට්ටුදූව ප්‍රදේශයේ නිවසකට අද අලුයම වෙඩි තැබීමක් සිදුව තිබේ. යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇති අතර වෙඩි තැබීමෙන් කිසිවෙකුට හානියක් සිදුව නොමැත.
+
+මේ අතර පානදුර, අලුබෝමුල්ල සඳගලවත්ත ප්‍රදේශයේ වෙළෙඳසැලකටද අද පෙරවරුවේ වෙඩිතැබීමක් සිදුව තිබේ. නාදුනන පුද්ගලයන් දෙදෙනෙකු මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇත.
+
+◼️
+
+[Data](articles/0f640ef9.json)
 
 ---
 
@@ -1799,63 +1855,5 @@ Starmer has now suffered the most ministerial resignations, outside government r
 ◼️
 
 [Data](articles/6d70f3de.json)
-
----
-
-### President’s Fund to provide Rs. 1 mln compensation for victims of Ella bus crash
-
-*2025-09-05 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112208/presidents-fund-to-provide-rs-1-mln-compensation-for-victims-ofellabuscrash) · `en`
-
-The President’s Fund has decided to grant compensation of Rs. 1 million each to the families of those who lost their lives in the bus accident that occurred last night (04) on the Ella–Wellawaya main road, the President’s Media Division (PMD) said.
-
-A bus, which was carrying a group of Tangalle Urban Council employees and their families returning from a trip, veered off the road near the 24th kilometer post on the Ella–Wellawaya main road at around 9:00 p.m. last night (04).
-
-It first collided with an oncoming SUV vehicle and then the road’s metal barrier before plunging around 1,000 feet down a precipice.
-
-A total of 15 individuals — including Tangalle Urban Council Secretary T.W.K. Rupasena, 12 council employees, two children, and the bus driver — were killed in the accident.
-
-18 others including several children were injured and are currently receiving treatment at the Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/816d0b4e.json)
-
----
-
-### රොස් ටේලර් සිය මවගේ රටෙන් යළිත් පිටියට
-
-*2025-09-05 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214211) · `si`
-
-ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගත් නවසීලන්ත හිටපු ක්‍රිකට් නායක රොස් ටේලර් සැමෝවා ජාතික කණ්ඩායම නියෝජනය කරමින් යළිත් ක්‍රිකට් පිටියට අවතීර්ණවීමට තීරණය කර තිබේ.
-
-ඒ ඔහුගේ මව ලෝට්ගේ උපන් රටවන සැමෝවා ජාතික කණ්ඩායම නියෝජනය කරමින්ය.
-
-එළැඹෙන 2026 T20 ලෝක කුසලානයට සුදුසුකම් ලැබීමේ 'ආසියා-නැගෙනහිර ආසියා-පැසිෆික්' සුදුසුකම් ලැබීමේ තරගාවලියට ක්‍රීඩාකරන සැමෝවා සංචිතය අද (5) නම්කළ අතර, ක්‍රීඩකයන් 15 දෙනෙකුගෙන් යුත් එම සංචිතයේ රොස් ටේලර්ගේ නමද ඇතුළත්ව තිබුණි.
-
-මෙම සුදුසුකම් ලැබීමේ තරගාවලිය ඕමානයේ දී පැවැත්වීමට නියමිත අතර, එය සැමෝවා කණ්ඩායමට ලෝක කුසලාන වරම් හිමිකරගැනීමට ඇති අවසාන පියවර ද වේ.
-
-නවසීලන්ත පියෙකු හා සැමෝවා මවකදාව උපන් හෙයින් රොස් ටේලර්ට සැමෝවා සම්භවයක් තිබේ.
-
-රොස් ටේලර්ගේ සම්පූර්ණ නමවන 'ලුටෙරු රොස් පූටෝවා ලෝට් ටේලර්' ලෙසින් හැඳින්වෙන්නේ ද මෙම සම්මිශ්‍රණය හේතුවෙන්ය.
-
-නවසීලන්ත ක්‍රිකට් පුරාවෘත්තයක් බදු ඔහු අදටත් නවසීලන්ත දෙවන වැඩිම ටෙස්ට් ලකුණු (7,683), වැඩිම එක්දින ලකුණු (8607) මෙන්ම 5වන වැඩිම විස්සයි20 ලකුණු (1909) ලාබියාය.
-
-...
-
-[Data](articles/34abe89c.json)
-
----
-
-### ඇල්ල බස් අනතුරින් ජීවිතක්ෂයට පත් වූවන්ට ලක්ෂ 10 බැගින් වන්දි
-
-*2025-09-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214210) · `si`
-
-ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ  ඊයේ (04) රාත්‍රියේ සිදු වූ බස් රථ අනතුරෙන් ජීවිතක්ෂයට පත්වූ පිරිස් වෙනුවෙන් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර තිබේ.
-
-ඒ අනුව ජීවිතක්ෂයට පත්වූ එක් අයෙකු වෙනුවෙන් රුපියල් ලක්ෂ 10 බැගින් වන්දි ලබා දීමට ජනාධිපති අරමුදල තීරණය කර ඇතැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
-
-◼️
-
-[Data](articles/9a58693d.json)
 
 ---

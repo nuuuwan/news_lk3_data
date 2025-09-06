@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 16:33:00**
+As of **2025-09-06 16:49:22**
 
 ## Newspaper Stats
 
-*Scraped **74,443** Articles*
+*Scraped **74,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 7,196
 adaderanalk | 9,517
 tamilmirrorlk | 11,076
 virakesarilk | 12,180
-adaderanasinhalalk | 12,947
+adaderanasinhalalk | 12,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.2%) of 74,443 articles have been extended.
+61,973 (83.2%) of 74,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### ප්‍රශ්නගත බහාලුම් 323 සහ මිද්දෙණියෙන් හමුවූ බහාලුම් අතර සම්බන්ධයක් නෑ - පොලීසිය
+
+*2025-09-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214242) · `si`
+
+ප්‍රශ්නගත ආනයනික බහාලුම් 323ක් සහ සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු වන කෙහෙල්බද්දර පද්මේ  විසින් ගෙනවන ලද මිද්දෙණියෙන් හමුවූ අයිස් මත්ද්‍රව්‍ය සිද්ධියට සම්බන්ධ බහාලුම් දෙක අතර කිසිදු සම්බන්ධ නොමැති බව පොලීසිය පවසයි.
+
+අද (06) පැවැති විශේෂ මාධ්‍ය හමුවේදී මාධ්‍යවේදීයෙකු විසින් යොමුකරන ලද ප්‍රශ්නයකට පිළිතුරු දෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී, එෆ්. යූ. වුඩ්ලර් මහතා ඒ බව සඳහන් කළේය.
+
+ඔහු සඳහන් කළේ අදාළ බහාලුම් දෙකේ සඳහන් කර අංක සහ ප්‍රශ්නගත වරායෙන් නිදහස් කළ කන්ටේනර් 323ට අදාළ අංක අතර කිසිදු සමානකමක් නොමැති බවය.
+
+"2025 වසරේ  බහාලුම් 323ක් නිදහස් කිරීම ගැන යම් මතයක් සමාජයේ ගියා. නමුත් මේ  බහාලුම් දෙක ඊට සම්බන්ධ නැහැ.  මොකද ඒ  බහාලුම්වල අංක සමග අපි පරික්ෂා කරලා බැලුවා. මොකද හේතුව ඒ  බහාලුම් 323 සම්බන්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විශේෂ පරික්ෂණයක් පැවත් වනු ලැබුවා ඒ ඒ අනුගත වුණු අංකවලට පරිභාහිර වෙනත්  බහාලුම් දෙකක්. ඒ නිසා ඒ  බහාලුම් 323ට මේ  බහාලුම් දෙක කිසිදු සබඳතාවක් නැහැ."
+
+◼️
+
+[Data](articles/19bcdcc0.json)
+
+---
 
 ### රට සංවර්ධනය කිරීමට චීන රජයේ  සම්පූර්ණ සහයෝගය ලබා දෙන බව  තානාපති කියයි
 
@@ -1839,23 +1857,5 @@ A total of 15 individuals — including Tangalle Urban Council Secretary T.W.K. 
 ◼️
 
 [Data](articles/9a58693d.json)
-
----
-
-### Three-wheeler plunges down precipice in Watawala: Woman and 2 children injured
-
-*2025-09-05 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112207/three-wheeler-plunges-down-precipice-in-watawala-woman-and-2-children-injured) · `en`
-
-A three-wheeler travelling from Gampola to Hatton has veered off the road and plunged down a 50-foot precipice in the Watawala area injuring three persons including two children.
-
-At the time of the accident, a father, mother and their two children, aged four and two, were travelling in the three-wheeler, police said.
-
-The mother and the two children sustained injuries in the accident and have been admitted to the Watawala Divisional Hospital.
-
-According to the preliminary investigations, it has been revealed that the accident occurred when the driver lost control of the three-wheeler due to the winding road and excessive speeds, the police said.
-
-◼️
-
-[Data](articles/7731f1ea.json)
 
 ---

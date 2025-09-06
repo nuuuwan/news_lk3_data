@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 07:56:31**
+As of **2025-09-06 08:26:19**
 
 ## Newspaper Stats
 
-*Scraped **74,391** Articles*
+*Scraped **74,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ economynextcom | 4,520
 islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,190
-adaderanalk | 9,504
-tamilmirrorlk | 11,068
+adalk | 7,191
+adaderanalk | 9,506
+tamilmirrorlk | 11,070
 virakesarilk | 12,170
-adaderanasinhalalk | 12,934
+adaderanasinhalalk | 12,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,391 articles have been extended.
+61,973 (83.3%) of 74,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### ශ්‍රී ලංකා - සිම්බාබ්වේ දෙවන T20 තරගය අද
+
+*2025-09-06 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214227) · `si`
+
+ශ්‍රී ලංකාව හා සිම්බාබ්වේ කණ්ඩායම් අතර දෙවන විස්සයි20 ක්‍රිකට් තරගය හරාරේ ක්‍රීඩාංගණයේ දී අද (6) පැවැත්වේ.
+
+දෙරට අතර පළමු විස්සයි20 තරගය ශ්‍රී ලංකාව ජයගත් අතර, ඔවුන් මේ වනවිට තරග 1-0ක් ලෙසින් තරගාවලියේ පෙරමුණගෙන සිටියි.
+
+ඒ අනුව ශ්‍රී ලංකාවට අද තරගය ජයගැනීමට හැකිවුවහොත් තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලියේ ජය තහවුරු කරගැනීමට හැකිවනු ඇත.
+
+මෙය සිම්බාබ්වේ දේශයේ ශ්‍රී ලංකාව ක්‍රීඩාකරන පළමු ද්විපාර්ශ්වීය විස්සයි20 ක්‍රිකට් තරගාවලිය වේ.
+
+◼️
+
+[Data](articles/42ef40d4.json)
+
+---
+
+### அமர்ந்த நிலையில் என்புக்கூடு மீட்பு
+
+*2025-09-06 07:50:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமர்ந்த-நிலையில்-என்புக்கூடு-மீட்பு/175-364088) · `ta`
+
+யாழ். செம்மணி மனிதப் புதைகுழியில் கால்கள் மடிக்கப்பட்டு அமர்ந்த நிலையில் என்புக்கூட்டுத் தொகுதி ஒன்று மீட்கப்பட்டுள்ளது.
+
+செம்மணி மனிதப் புதைகுழியில் அகழ்வுப் பணிகளின் போது நேற்றுமுன்தினம் வியாழக்கிழமை குவியலாக எட்டு மனித என்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டிருந்தன. அவற்றைச் சுத்தம் செய்யும் பணிகள் நேற்று (05) முன்னெடுக்கப்பட்டன.
+
+இதன்போது, அவற்றுள் 227 என்று இலக்கமிடப்பட்ட என்புக் கூட்டுத் தொகுதி கால்கள் மடிக்கப்பட்டு அமர்ந்த நிலையில் மீட்கப்பட்டது.
+
+இது தொடர்பில் தெளிவான விளக்கத்தைப் பெற யாழ். பல்கலைக்கழக இந்து நாகரிகத் துறை மூத்த விரிவுரையாளர் ரமணராஜா புதைகுழிப் பகுதிக்கு அழைக்கப்பட்டு, அது தொடர்பான அவரது அவதானிப்புகள், விளக்கங்கள் கோரப்பட்டன.
+
+அவர் தனது அவதானிப்பின்படி, குறித்த மனித என்புத் தொகுதி இந்து முறைப்படி முறையாக அடக்கம் செய்யப்பட்டமைக்கான சான்றுகள் காணப்படவில்லை எனவும், என்புக்கூட்டின் கைகள் காணப்படும் நிலைமை உள்ளிட்ட காரணிகளால் அது முறையாக அடக்கம் செய்யப்பட்ட என்புக்கூடு இல்லை எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/a9522e53.json)
+
+---
+
+### கொழும்பில் இரு இடங்களில் துப்பாக்கிச் சூடு : ஒருவர் மரணம்
+
+*2025-09-06 07:47:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இரு-இடங்களில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-364087) · `ta`
+
+கொழும்பில் இரு இடங்களில் இடம்பெற்ற துப்பாக்கிச்சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்ததுடன், மற்றுமொரு நபர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+அந்த வகையில், கொழும்பு, கிரேண்ட்பாஸ் பகுதியில் நேற்று இரவு (05) நடந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+
+மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றதாக பொலிஸார் தெரிவித்தனர்.
+
+துப்பாக்கிச் சூட்டுக்கான காரணம் இன்னும் தெரியவரவில்லை. ரிவோல்வர் வகை துப்பாக்கி பயன்படுத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+இதற்கிடையில், மருதானை பொலிஸ் பிரிவுக்குட்பட்ட பஞ்சிகாவத்தை வீதியில் அமைந்துள்ள தனியார் வங்கிக்கு முன்பாக இன்று (06) அதிகாலை நடந்த மற்றொரு துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளார்.
+
+மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றதாக பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்த நபர் தற்போது கொழும்பு தேசிய வைத்தியசாலையின் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வருகிறார். R
+
+◼️
+
+[Data](articles/111df574.json)
+
+---
 
 ### ජීවිත 15ක් බිලි ගත් ඇල්ලේ පෙරළුණු බස් රථය ගැන අලුත් අනාවරණයක්
 
@@ -69,6 +131,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f80a962b.json)
+
+---
+
+### One person injured in shooting in Panchikawatte
+
+*2025-09-06 06:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112215/one-person-injured-in-shooting-in-panchikawatte) · `en`
+
+A person has been injured in a shooting incident that occurred in front of a private bank on Panchikawatte Road in Maradana.
+
+Police stated that two unidentified individuals arrived on a motorcycle, carried out the shooting, and fled the area.
+
+The injured individual is currently receiving treatment in the Intensive Care Unit (ICU) of the Colombo National Hospital, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/6e3f5880.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-09-06 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112214/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+The Meteorology Department states that a few showers may occur in Western, Sabaragamuwa, and Northern Provinces, as well as in Galle, Matara, Kandy, and Nuwara Eliya Districts.
+
+Showers or thundershowers may occur at a few places in Uva, Eastern, and North Central Provinces after 2.00 p.m.
+
+Mainly fair weather will prevail elsewhere in the island, the Department said.
+
+The sun will be directly overhead Sri Lanka from the 28th of August to the 7th of September due to its apparent southward relative motion.
+
+The nearest places in Sri Lanka over which the sun is directly overhead today (6th) are Ahungalla, Elpitiya, Amugoda, Thawalama, Deniyaya, Urubokka, Embilipitiya, Suriyawewa, Beralihela, and Galkaduwa at about 12.08 noon.
+
+◼️
+
+[Data](articles/610e5a4e.json)
 
 ---
 
@@ -599,6 +697,22 @@ Sri Lanka’s insurance industry today stands at a decisive and promising crossr
 ...
 
 [Data](articles/120a120b.json)
+
+---
+
+### එකම පවුලේ හතරක් ගමන් ගත් ත්‍රිරෝද රථයක් ප්‍රපාතයට පෙරළී දෙදෙනෙකුට තුවාල
+
+*2025-09-05 19:03:00* · [`adalk`](https://www.ada.lk/breaking_news/එකම-පවුලේ-හතරක්-ගමන්-ගත්-ත්‍රිරෝද-රථයක්-ප්‍රපාතයට-පෙරළී-දෙදෙනෙකුට-තුවාල/11-418304) · `si`
+
+ගම්පොළ සිට හැටන් දක්වා ධාවනය වූ එකම පවුලේ සාමාජිකයින් හතර දෙනෙක් ගමන් ගත්  ත්‍රීරෝද රථයක් ඊයේ රාත්‍රී  11.00 ට පමණ වටවල ප්‍රදේශයේදී අඩි පනහක් පමණ ප්‍රපාතයකට පෙරළි අනතුරක් සිදුවී තිබෙනවා.
+
+අනතුර සිදුවන අවස්ථාවේදී  ත්‍රී රෝද රථය තුළ  එකම පවුලේ  මව පියා සහ අවුරුදු හතරක් සහ අවුරුදු දෙකක් වයස දරුවන් දෙදෙනෙක් ගමන් කර ඇති අතර අනතුරෙන්  මව සහ කුඩා දරුවන් දෙදෙනා සුළු තුවාල ලබා  වටවල ප්‍රාදේශීය රෝහලට ඇතුලත් කර තිබෙනවා .
+
+වංගු සහිත මාර්ගයක් හේතුවෙන් ත්‍රී රෝද රථය පාලනය කර ගැනීමට නොහැකිව ත්‍රී රෝද රථය පෙරළී ගිය බව රියදුරු පවසනවා.
+
+◼️
+
+[Data](articles/7cdb2d55.json)
 
 ---
 
@@ -1655,103 +1769,5 @@ Preliminary investigations indicate that the group had been returning from a tri
 ◼️
 
 [Data](articles/1b54a859.json)
-
----
-
-### SLAF helicopters on standby to assist victims of Ella bus accident
-
-*2025-09-05 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112197/slaf-helicopters-on-standby-to-assist-victims-of-ella-bus-accident) · `en`
-
-The Sri Lanka Air Force (SLAF) has deployed an MI-17 helicopter at SLAF CTS Diyatalawa and a Bell 412 helicopter at SLAF Station Weerawila which have been placed on standby to provide assistance in response to the bus accident that occurred last night (04) on the Ella–Wellawaya road.
-
-These air assets remain ready to airlift patients to Colombo or to support any required rescue operations, the SLAF confirmed.
-
-The accident occurred last night (4) on the Ella- Wellawaya road, when a bus travelling towards Wellawaya collided with an oncoming SUV and the road’s metal fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging down a 1,000-foot precipice.
-
-The bus was carrying a total of 30 passengers, including its driver, police said.
-
-Preliminary investigations indicate that the group had been returning from a trip to Ella back to the Tangalle area at the time of the accident, police said.
-
-◼️
-
-[Data](articles/1f17fbdc.json)
-
----
-
-### எல்ல விபத்து; மீட்பு பணிகளில் ஹெலிகள்
-
-*2025-09-05 09:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-விபத்து-மீட்பு-பணிகளில்-ஹெலிகள்/175-364061) · `ta`
-
-எல்ல-வெல்லவாய சாலையில் ஏற்பட்ட பேருந்து விபத்துக்கு சிக்கியவர்களுக்கு தேவையான உதவிகளை வழங்குவதற்காகவும், இலங்கை விமானப்படை தியத்தலாவ விமானப்படை தளத்தில் ஒரு ரெஜிமென்ட் சிறப்புப் படை மீட்புக் குழுவுடன் ஒரு MI-17 ஹெலிகாப்டரையும், வீரவில விமானப்படை தளத்தில் மருத்துவ பணியாளர்களுடன் ஒரு பெல் 412 ஹெலிகாப்டரையும் நிறுத்தியுள்ளது.
-
-◼️
-
-[Data](articles/43a7690f.json)
-
----
-
-### பென்டகனை போர்த் திணைக்களமாக மாற்றுவதற்கு தீர்மானம்  - ட்ரம்ப்
-
-*2025-09-05 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224251) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப், பாதுகாப்புத் திணைக்களமான பென்டகனின் பெயரை போர் திணைக்களம் என மாற்ற தீர்மானித்துள்ளார்.
-
-மேலும், அந்நாட்டின் பாதுகாப்பு செயலாளர் பதவியை போர் செயலாளராக மாற்றும் நிறைவேற்று ஆணையில் அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் கையெழுத்திட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன
-
-அமெரிக்க ஆயுதப்படைகளை மேற்பார்வையிடும் பென்டகன், போர்த் திணைக்களத்தின் வாரிசு ஆகும், இது முதன்முதலில் 1789 இல் அமைச்சரவை அளவிலான நிறுவனமாக நிறுவப்பட்டு 1947 வரை நீடித்தது.
-
-நிர்வாகத் திணைக்களத்தை உருவாக்கும் பொறுப்பு அமெரிக்க காங்கிரஸிடம் உள்ளது. அதாவது திணைக்களத்தின் பெயரை உத்தியோகபூர்வமாக மாற்ற ஒரு திருத்தம் தேவைப்படும்.
-
-◼️
-
-[Data](articles/9adfd085.json)
-
----
-
-### බිහිසුණු අනතුර සිදුවූ අඩි 500ක ප්‍රපාතයේ සිට  'අද දෙරණ' ගෙනආ සුවිශේෂී දර්ශන
-
-*2025-09-05 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214197) · `si`
-
-ඇල්ල වැල්ලවාය මාර්ගයේ 24 කිලෝමීටර් කණුව අසලදී ඊයේ (04) රාත්‍රියේ සිදුවූ බස් රථ අනතුරින් තංගල්ල නගර සභාවේ ලේකම් ටී.ඩබ්ලිව්.කේ. රූපසේන මහතා ඇතුළු එම නගර සභාවේ සේවකයින් 12 දෙනෙකු මිය ගොස් තිබේ.
-
-මෙම අනතුරෙන් පුද්ගලයින් 15 දෙනෙකු ජීවිතක්ෂයට පත්වූ අතර බදුල්ල ශික්ෂණ රෝහල සඳහන් කළේ මිය ගිය සෙසු පිරිස අතර කුඩා දරුවන් දෙදෙනෙකු සහ බස් රථයේ රියදුරුද සිටින බවය.
-
-තංගල්ල නගර සභාවේ සේවකයින් සහ ඔවුන්ගේ පවුල්වල සාමාජිකයින් විනෝද චාරිකාවක් සඳහා පැමිණි බස් රථයක් මෙලෙස අනතුරට ලක්වී තිබුණි.
-
-අනතුර සිදුවූ ස්ථානයේ රැඳීසිටින අද දෙරණ වාර්තාකරු විදර්ශන ප්‍රනාන්දු අඩි 500ක් පමණ ප්‍රපාතයේ බස්රථය රැඳී තිබෙන ස්ථානයට ළඟාවීමට සමත්විය.
-
-◼️
-
-[Data](articles/596e76ad.json)
-
----
-
-### இன்று  சிறிதளவு மழை பெய்யக்கூடும்
-
-*2025-09-05 09:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-சிறிதளவு-மழை-பெய்யக்கூடும்/175-364060) · `ta`
-
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி, மாத்தறை, கண்டி, நுவரெலியா மற்றும் யாழ்ப்பாண மாவட்டங்களிலும் சிறிதளவு மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-ஊவா மாகாணத்திலும், அம்பாறை, மட்டக்களப்பு மற்றும் முல்லைத்தீவு மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பிறகு சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
-
-அதேநேரம் மத்திய மலைநாட்டின் மேற்கு சரிவுகள், வடமத்திய மற்றும் வடமேல் மாகாணங்கள் மற்றும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மணிக்கு சுமார் 30-40 கி.மீ வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும். R
-
-◼️
-
-[Data](articles/0c330349.json)
-
----
-
-### පොලීසියට අලුත් විමර්ශන කාර්යාංශයක්
-
-*2025-09-05 08:47:21* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියට-අලුත්-විමර්ශන-කාර්යාංශයක්/11-418296) · `si`
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට වාර්තා වන ජාතික ආරක්ෂවට සෘජුවම බලපාන විශේෂිත විමර්ශන ප්‍රමාදයකින්
-
-තොරව විමර්ශනය කිරීමට මෙන්ම දිවයිනේ විවිධ ප්‍ර දේශවලින් වාර්තා වන ආන්දෝලනාත්මක සිදුවීම් හා සංවිධානාත්මක අපරාධ විමර්ශනය ‍කිරීම වෙනුවෙන් පොලිස් මධ්‍යම අපරාධ විමර්ශන කාර්යාංශය (CCIB) නමින් නව ඒකකයක් ආරම්භ කර තිබේ. නාරාහේන්පිට පැරණි කම්කරු කාර්යාල ගොඩනැගිල්ලේදී මෙම නව ඒ්කකය ඊයේ (04දා) විවෘත කරනු ලැබීය.
-
-◼️
-
-[Data](articles/055991fa.json)
 
 ---

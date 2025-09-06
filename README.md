@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 12:33:23**
+As of **2025-09-06 12:49:30**
 
 ## Newspaper Stats
 
-*Scraped **74,418** Articles*
+*Scraped **74,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,194
 adaderanalk | 9,511
-tamilmirrorlk | 11,072
+tamilmirrorlk | 11,073
 virakesarilk | 12,174
 adaderanasinhalalk | 12,942
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 12,942
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,418 articles have been extended.
+61,973 (83.3%) of 74,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### சஷீந்திர ராஜபக்ஷவுக்கு உயர் இரத்த அழுத்தம்
+
+*2025-09-06 12:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-உயர்-இரத்த-அழுத்தம்/175-364091) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ, உயர் இரத்த அழுத்தம் உள்ளிட்ட உடல்நலக் காரணங்களால் சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+நேற்று (05) பிற்பகல், வைத்திய ஆலோசனையின் பேரில் அவரை சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்க நடவடிக்கை எடுக்கப்பட்டதாக சிறைச்சாலை ஊடகப் பேச்சாளர் ஜகத் வீரசிங்க தெரிவித்தார். R
+
+◼️
+
+[Data](articles/5c8fb464.json)
+
+---
 
 ### මෙරට පොලිස් ඉතිහාසයේ ප්‍රථමවරට කාන්තා DIG සිව්දෙනෙක් පත් කෙරේ
 
@@ -1550,21 +1564,19 @@ According to the preliminary investigations, it has been revealed that the accid
 
 ---
 
-### Cigarette smuggling occurs across Sri Lanka, IPS study finds
+### Sri Lanka Railways to build three-car light trains for rural towns
 
 *2025-09-05 15:00:00* · [`economynextcom`](https://economynext.com/cigarette-smuggling-occurs-across-sri-lanka-ips-study-finds-239554/) · `en`
 
-ECONOMYNEXT – Cigarette smuggling occurs across the country, and a better understanding of this is needed to develop policies to curb it, increase government revenue, and minimise adverse health impacts, a study by the Institute of Policy Studies of Sri Lanka (IPS) has found.
+ECONOMYNEXT – Sri Lanka Railways plans to build small trains with three cars to operate on rural tracks where passenger demand is insufficient to run larger trains, Minister Nalinda Jayatissa said.
 
-Sri Lanka’s smuggling is a result of incentives given by high tobacco taxes. High import duties have also promoted corruption in the trade of other goods including foods in Sri Lanka analysts have pointed out.
+The cabinet of minister had given the nod to assemble the railcars locally which will be powered by a diesel engine in each compartment, and controlled by an electronic system.
 
-Maldives has also seen a spike in smuggling after import duties were raised on cigarettes, showing the corrosive effect of trade restrictions on society.
+The small trains would be able to carry around 200 to 240 passengers.
 
-RELATED : Maldives sees Sri Lanka-scale cigarette smuggling after import duty hike
+There were already some rail buses (a single compartment bus with wheels capable to running on rail tracks) but there were practical difficulties in running them with existing timetables (Colombo/Sept06/2025)
 
-Despite high excise taxes aimed at curbing tobacco use, smuggling continues to undermine public health efforts and government revenue from tobacco sales, IPS said.
-
-...
+◼️
 
 [Data](articles/9f40fc9b.json)
 
@@ -1791,23 +1803,5 @@ Former Sri Lanka cricketer Roshan Mahanama has stepped down from his role as a m
 ◼️
 
 [Data](articles/6fe6bf4e.json)
-
----
-
-### රු. ලක්ෂ 35ක දුම්වැටි කටුනායකදී අල්ලයි
-
-*2025-09-05 13:21:35* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-35ක-දුම්වැටි-කටුනායකදී-අල්ලයි/11-418301) · `si`
-
-රුපියල් තිස් පන් ලක්ෂ හතලිස් දහසක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති '' හරිත මාවත '' ( Green Channel ) ඔස්සේ පිට කර ගෙන යාමට තැත් කළ ශ්‍රී ලාංකික ගුවන් මගියෙකු 09/05 දින අලුයම ගුවන් තොටුපොළ රේගු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
-
-මොහු කොළඹ ප්‍රදේශයේ පදිංචි , නිතර නිතර ගුවන් ගමන් වල නිරත වන 45 හැවිරිදි ව්‍යාපාරිකයෙකි .ඔහු 09/05 දින අලුයම 05.30 ට ඩුබායි සිට ෆිට්ස් එයාර් ගුවන් සේවයේ 8.ඩී.- 822 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-ඔහු විසින් රැගෙන ආ ගමන් මලු තුළ විදේශීය නිෂ්පාදිත  " මැන්චෙස්ටර් " වර්ගයේ දුම්වැටි 23,600 ක් අඩංගු දුම්වැටි කාටූන් 118 ක් සගවා ගෙන සිටියදී රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
-
-කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් මොහු අත් අඩංගුවේ තබා ගෙන මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
-
-◼️
-
-[Data](articles/20e8f14e.json)
 
 ---

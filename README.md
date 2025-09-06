@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 10:32:44**
+As of **2025-09-06 10:49:52**
 
 ## Newspaper Stats
 
-*Scraped **74,404** Articles*
+*Scraped **74,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,193
-adaderanalk | 9,506
+adaderanalk | 9,510
 tamilmirrorlk | 11,072
-virakesarilk | 12,170
-adaderanasinhalalk | 12,938
+virakesarilk | 12,171
+adaderanasinhalalk | 12,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,404 articles have been extended.
+61,973 (83.3%) of 74,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### Another shooting incident reported in Pandaura
+
+*2025-09-06 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112219/another-shooting-incident-reported-in-pandaura) · `en`
+
+Another shooting incident has been reported this morning (06) in the Alubomulla area of Panadura.
+
+According to police, two individuals on a motorcycle opened fire and fled the area.
+
+◼️
+
+[Data](articles/8cbd2443.json)
+
+---
+
+### පානදුර අලුබෝමුල්ලේ වෙඩිතැබීමක්
+
+*2025-09-06 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214231) · `si`
+
+පානදුර, අලුබෝමුල්ල සඳගලවත්ත ප්‍රදේශයේ වෙළෙඳසැලකට අද (6) පෙරවරුවේ වෙඩිතැබීමක් සිදුව තිබේ.
+
+නාදුනන පුද්ගලයන් දෙදෙනෙකු විසින් මිලිමීටර 9 වර්ගයේ පිත්තෝල ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇත.
+
+කෙසේ වෙතත් වෙඩිතැබීම සිදුවන අවස්ථාවේ කාන්තාවක් එහි සිට ඇති අතර, වෙඩි ප්‍රහාරයක වෙළෙඳසැලේ තිබූ ශීතකරණයකට වැදී ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් අලුබෝමුල්ල පොලීසියට අමතරව පානදුර කොට්ඨාසය භාර ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිශාන් ද සිල්වා මහතාගේ අධීක්ෂණය යටතේ වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/1b482004.json)
+
+---
 
 ### எல்ல பகுதியில் விபத்துக்குள்ளான பேருந்து குறித்து அதிர்ச்சி தகவல்
 
@@ -47,6 +79,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9fe3dddf.json)
+
+---
+
+### CEB workers’ work-to-rule campaign enters second day
+
+*2025-09-06 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112218/ceb-workers-work-to-rule-campaign-enters-second-day) · `en`
+
+The ‘work-to-rule’ trade union action launched by employees of the Ceylon Electricity Board (CEB)’ in protest against the proposed division of the institution into four entities’ continued for the second consecutive day today (6).
+
+Chairman of the CEB Technicians’ Union, Kosala Abeysinghe, stated that none of the employees have consented to the voluntary compensation scheme introduced under the restructuring process.
+
+“The work-to-rule trade union action will remain in effect until midnight on the 15th as part of its first phase. This action was initiated in response to the government’s irresponsible approach towards restructuring the CEB. We also held discussions with the Minister yesterday, but they failed to produce a satisfactory outcome,” he said.
+
+◼️
+
+[Data](articles/a7841d0d.json)
+
+---
+
+### Shooting reported in Negombo; No injuries
+
+*2025-09-06 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112217/shooting-reported-in-negombo-no-injuries) · `en`
+
+Two individuals on a motorcycle have opened fire at a residence in the Kuttuduwa area of Negombo at around 1:38 a.m. today (6) and fled the area.
+
+No injuries were reported in the incident, said Ada Derana reporter.
+
+Police suspect that the shooting may have been linked to a financial dispute.
+
+◼️
+
+[Data](articles/ef68fefb.json)
+
+---
+
+### மின்சார சபை ஊழியர்களின் வேலைநிறுத்தப் போராட்டம் இன்று இரண்டாவது நாளாகவும் தொடர்கிறது!
+
+*2025-09-06 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224342) · `ta`
+
+இலங்கை மின்சார சபையை நான்கு பகுதிகளாகப் பிரிப்பதற்கு எதிராக, இலங்கை மின்சார சபை ஊழியர்கள் ஆரம்பித்த வேலைநிறுத்தப் போராட்டம் இன்று (6) இரண்டாவது நாளாகவும் தொடர்வதாக தெரிவிக்கப்படுகிறது.
+
+எந்தவொரு ஊழியரும் தன்னார்வ இழப்பீட்டுத் திட்டத்திற்கு அனுமதிக்கவில்லை என இலங்கை மின்சார சபையின் தொழில்நுட்ப பிரிவின் தொழிலாளர்கள் சங்கத்தின் தலைவர் கோசல அபேசிங்க தெரிவித்தார்.
+
+அதற்கமைய, ,அந்த வேலைநிறுத்தப் போராட்டம் எதிர்வரும் 15 ஆம் திகதி நள்ளிரவு வரை, முதற்கட்டமாக அமுலில் இருக்கும்.
+
+மின்சார சபை மறுசீரமைப்பில் தற்போதைய அரசாங்கத்தின் பொறுப்பற்ற பணிக் கொள்கை காரணமாக, வேலைநிறுத்தப் போராட்டம் ஆரம்பிக்கப்பட்டது.
+
+நேற்று அமைச்சருடனும் இது குறித்து விவாதித்தேன். அங்கு எனக்கு சாதகமான பதில் கிடைக்கவில்லை," எனவும் இலங்கை மின்சார சபையின் தொழில்நுட்பத் தொழிலாளர்கள் சங்கத்தின் தலைவர் கோசல அபேசிங்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a3672fdb.json)
 
 ---
 
@@ -139,6 +223,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6ea5382c.json)
+
+---
+
+### Trump signs order rebranding Pentagon as the ‘Department of War’
+
+*2025-09-06 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112216/trump-signs-order-rebranding-pentagon-as-the-department-of-war) · `en`
+
+President Trump has signed an executive order rebranding the US Department of Defense as the Department of War.
+
+He called the original name “woke” and said the new title sent “a message of victory” and “a message of strength”.
+
+It can only be used as a secondary title unless Congress approves the change - but the department’s website has already switched to war.gov - as have its social media accounts.
+
+The door of Pete Hegsesth’s office has also been adorned with a fresh “Secretary of War” sign.
+
+Mr Hegseth said the move wasn’t “politically correct” but that it showed “we’re going to go on offence”.
+
+“We’re going to raise up warriors, not just defenders,” he added.
+
+President Trump signed the executive order in the White House’s Oval Office on Friday.
+
+“We won the First World War. We won the Second World War. We won everything before that and in between,” he said.
+
+“And then we decided to go woke and we changed the name to Department of Defense. So we’re going Department of War.”
+
+...
+
+[Data](articles/979498e7.json)
 
 ---
 
@@ -1673,115 +1785,5 @@ Fitch Ratings has assigned Sri Lanka-based HNB Securities Limited (HNBS) a first
 ...
 
 [Data](articles/c8d65ee6.json)
-
----
-
-### ஆப்கானிஸ்தானில் மீண்டும்  நிலநடுக்கம் : உயிரிழப்புக்களின் எண்ணிக்கை அதிகரிப்பு!
-
-*2025-09-05 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224250) · `ta`
-
-ஆப்கானிஸ்தானின் தொலைதூர தென்கிழக்கு பகுதியில் வியாழக்கிழமை(நேற்று) இரவு 5.6 மெக்னிடியூட் அளவிலான நிலநடுக்கம் பதிவானதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
-
-இதனால் நங்கர்ஹார் மற்றும் குனார் மாகாணங்களில் உள்ள மக்கள் அச்சத்தில் இருப்பதுடன், அந்த பகுதியிலிருந்து வெளியேறி வருகின்றனர்.
-
-வியாழக்கிழமை இரவு ஏற்பட்ட நிலநடுக்கத்தில் ஏற்பட்ட உயிரிழப்புகள் குறித்து அதிகாரப்பூர்வ தகவல்கள் கிடைக்கவில்லை.
-
-இருப்பினும், காயமடைந்த சுமார் 17 பேர் குனார் மாகாண வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டதாக சர்வதேச ஊடகமொன்று செய்தி வெளியிட்டுள்ளது.
-
-அதேநேரம், கடந்த ஞாயிற்றுக்கிழமை ஏற்பட்ட நிலநடுக்கத்தில் 2,205 பேர் உயிரிழந்ததுடன், 3,640 பேர் காயமடைந்துள்ளதாக அந்த நாட்டு ஊடக அறிக்கைகள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/661ac764.json)
-
----
-
-### සීගිරියේ අතුරුදහන් මත්ද්‍රව්‍ය සමග කොටුවෙයි
-
-*2025-09-05 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214200) · `si`
-
-රුපියල් ලක්ෂ 30කට අධික වටිනාකමකින් යුත් අයිස් සහ කුෂ් මත්ද්‍රව්‍ය සමග 'සීගිරියේ අතුරුදහන්' නමින් පෙනී සිටි මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු අත්අඩංගුවට ගෙන ඇත.
-
-සීගිරිය පොලීසියට අනියුක්තව සේවය කරන උපපොලිස් පරීක්ෂකවරියක් සහ පොලිස් කොස්තාපල්වරියක් ඇතුළු පිරිසක් විසින් ඊයේ (04) පස්වරුවේ සිදුකළ හදිසි මෙහෙයුමකදී මෙම සැකකරු අත්අඩංගුවට ගෙන තිබේ.
-
-සීගිරිය රන්ගිරිගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන ඔහු සන්තකයේ තිබී කුෂ් ග්‍රෑම් 100යි මිලිග්‍රෑම් 280ක්, අයිස් ග්‍රෑම් 50යි මිලිග්‍රෑම් 11ක්, රුපියල් 23,000කට ආසන්න මුදලක් සහ ජංගම දුරකථන 2ක් සොයාගෙන ඇත.
-
-සැකකරු මීට පෙර ද ගංජා සමග අත්අඩංගුවට පත්ව නිදහස් වූ පුද්ගලයෙකු බව වැඩිදුර සඳහන්.
-
-◼️
-
-[Data](articles/c15452ec.json)
-
----
-
-### Nine-hour water cut in Colombo and suburbs cancelled
-
-*2025-09-05 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112200/nine-hour-water-cut-in-colombo-and-suburbs-cancelled) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) has announced that the nine-hour water cut, originally scheduled from 10:30 a.m. to 7:30 p.m. tomorrow (06), affecting several areas including Colombo, has been cancelled.
-
-Earlier, the NWSDB had stated that the water cut would affect all areas from Colombo 01 to Colombo 15.
-
-In addition, the water cut was expected to impact the following areas: Battaramulla, Pelawatta, Hokandara, Koswatte, Thalawathugoda, Kotte, Rajagiriya, Mirihana, Madiwela, Nugegoda, Nawala, Kolonnawa, IDH, Kotikawatte, Angoda, Wellampitiya, Orugodawatte, Mulleriyawa, Maharagama, Boralesgamuwa, Dehiwala, Ratmalana, and Moratuwa.
-
-◼️
-
-[Data](articles/9f251ff6.json)
-
----
-
-### Indian national arrested with Kush worth Rs. 105 mln at BIA
-
-*2025-09-05 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112199/indian-national-arrested-with-kush-worth-rs-105-mln-at-bia) · `en`
-
-An Indian national passenger attempting to smuggle a consignment of “Kush” cannabis, valued at Rs. 105 million, through the “Green Channel” (undeclared) at the Bandaranaike International Airport (BIA) has been arrested by a group of airport customs officials this morning (05).
-
-The arrested suspect is a 43-year-old Indian national working as a salesman at a shoe store in New Delhi, India, Ada Derana reporter said.
-
-According to authorities, he has purchased this consignment of "Kush" from Bangkok, Thailand, arrived in New Delhi, India, and from there arrived at the BIA  on Air India AI 277 at 07.45 am today.
-
-The suspect has been taken into custody while he was carrying 19 packets of the "Kush" cannabis weighing 10.750 kilograms in his luggage, said Ada Derana reporter.
-
-This raid is the first arrest made by Customs officers using the newly installed scanning machine at the "Green Channel" of the Customs Arrival Terminal at Katunayake Airport.
-
-...
-
-[Data](articles/6d048ece.json)
-
----
-
-### බස් අනතුරේ සහන කටයුතු සඳහා හෙලිකොප්ටර යානා 2ක්
-
-*2025-09-05 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214199) · `si`
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළී ඊයේ (4) රාත්‍රියේ සිදු වූ අනතුර හේතුවෙන් අවශ්‍ය සහන කටයුතු සඳහා ගුවන් හමුදාවට අයත්  MI-17 වර්ගයේ හෙලිකොප්ටරයක් දියතලාව ගුවන් හමුදා කඳවුරේ ස්ථානගත කර ඇති බව ගුවන් හමුදා මාධ්‍ය අංශය සඳහන් කළේය.
-
-ඊට අමතරව වෛද්‍ය කාර්ය මණ්ඩලයක් සමග Bell-412 වර්ගයේ හෙලිකොප්ටරයක් ද වීරවිල ගුවන් හමුදා කඳවුරේ ස්ථාන ගතකර තිබේ.
-
-අනතුරින් බරපතළ තුවාල වූ පුද්ගලයින් කොළඹට ගුවනින් රැගෙන ඒමට හෝ අවශ්‍ය ඕනෑම ගලවාගැනීමේ මෙහෙයුමකට සහාය වීම සඳහා මෙම යානා සූදානම් කර ඇත.
-
-මෙම අනතුර සිදු වූ අවස්ථාවේ සිටම ශ්‍රී ලංකා ගුවන් හමුදාව විසින් රෙජිමේන්තු විශේෂ බලකායේ මුදවා ගැනීමේ කණ්ඩායමක්ද යොමුකිරීමට කටයුතු කළේය.
-
-තවද නිරීක්ෂණ කටයුතු සඳහා ගුවන් හමුදාවට අයත් බීච් ක්‍රාෆ්ට් වර්ගයේ යානයක් ද ඊයේ යොදවනු ලැබීය.
-
-රාත්‍රී කාලයේ මෙම අනතුර සිදු වූ හෙයින් මුදාගැනීමේ කටයුතු දැඩි ලෙස වෙහෙසකර වූ අතර, එහි පහසුව සඳහා එලෙස එම යානය යොදවනු ලැබීය.
-
-◼️
-
-[Data](articles/3cb8e684.json)
-
----
-
-### තුවාලකරුවන් බේරා ගැනීමට ගොස් තුවාල ලබා ඇත්තේ යුධ හමුදා සාමාජිකයන් දෙදෙනෙක්
-
-*2025-09-05 10:35:34* · [`adalk`](https://www.ada.lk/breaking_news/තුවාලකරුවන්-බේරා-ගැනීමට-ගොස්-තුවාල-ලබා-ඇත්තේ-යුධ-හමුදා-සාමාජිකයන්-දෙදෙනෙක්/11-418299) · `si`
-
-තංගල්ල නගර සභාවේ සේවක පිරිසක් ගමන් ගත් විනෝද චාරිකා පෞද්ගලික බස් රථයක් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 15 කනුව ප්‍රදේශයේ දී ඊයේ 4 රාත්‍රි ප්‍රපාතයකට පෙරලීයාමෙන් තුවාල ලැබූ තුවාලකරුවන් බේරා ගැනිමට කබවල ආධාරයෙන් ප්‍රපාතයට බැසීමට ගිය යුධ හමුදා නිළධාරින් දෙදෙනකු ලිස්සා ඇද වැටී තුවාල ලබා බදුල්ල ශික්ශන රෝහලට ඇතුලත් කල බව ඇල්ල පොලිසිය පවසයි .
-
-මින් එක් යුධ හමුදා නිළධාරියකු නිවාඩු ලබා ඇල්ල කරදගොල්ල ප්‍රදේශයේ  නිවසට පැමිණ සිටියදි මෙම අනතුර සැලවී අනතුර සිදු වූ ස්ථානයට පැමින දියතලාව යුධ හමුදා කදවුරේ නිළධාරින් සමග එක්වී තුවාලකරුවන් බේරා ගැනිමට  කබවල ආධාරයෙන් ප්‍රපාතයට බැසීමට යාමේදී මෙසේ මොහු  සමග තවත් යුධ හමුදා නිළධාරියකු මෙසේ ඇද වැටී තුවාල ලබා ඇති බවත් පොලිසිය සදහන් කලේය .
-
-◼️
-
-[Data](articles/996a284f.json)
 
 ---

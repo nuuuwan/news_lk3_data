@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 05:32:39**
+As of **2025-09-06 06:08:00**
 
 ## Newspaper Stats
 
-*Scraped **74,379** Articles*
+*Scraped **74,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 626
 bbccomsinhala | 677
 colombotelegraphcom | 756
 economynextcom | 4,520
-islandlk | 4,565
+islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,190
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,379 articles have been extended.
+61,973 (83.3%) of 74,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -232,6 +232,62 @@ Finance Minister Nirmala Sitharaman, speaking on local news channel CNN-News18, 
 
 ---
 
+### New IPS publication: ‘Tobacco Smuggling in Sri Lanka – A Scoping Study’
+
+*2025-09-05 21:45:00* · [`islandlk`](http://island.lk/new-ips-publication-tobacco-smuggling-in-sri-lanka-a-scoping-study/) · `en`
+
+A new study by the Institute of Policy Studies of Sri Lanka (IPS) has revealed that cigarette smuggling occurs in various forms across the country, and a better understanding of these channels is necessary to develop policies that will curb smuggling, increase government revenue, and minimise the adverse health impacts.
+
+Despite high excise taxes aimed at curbing tobacco use, smuggling continues to undermine public health efforts and government revenue from tobacco sales. The IPS study, titled “Tobacco Smuggling in Sri Lanka – A Scoping Study,” highlights how illegal trade allows cigarettes to be sold at lower prices, making them more accessible—especially to youth and low-income groups.
+
+...
+
+[Data](articles/c9c99d50.json)
+
+---
+
+### Despite lending uptick and fiscal gains, markets remain uneasy
+
+*2025-09-05 21:44:00* · [`islandlk`](http://island.lk/despite-lending-uptick-and-fiscal-gains-markets-remain-uneasy/) · `en`
+
+Sri Lanka’s economic landscape for the week ending September 4, 2025, presented a mixed picture with encouraging fiscal gains and credit growth while equity markets softened and the rupee continued to face pressure.
+
+On the brighter side, government revenue and grants rose to Rs. 2,734.9 billion in the first seven months of the year, up from Rs. 2,161.8 billion in the same period of 2024. The budget deficit narrowed sharply to Rs. 556.1 billion from Rs. 872.6 billion last year, reflecting stronger fiscal consolidation efforts. At the same time, private sector credit expanded by Rs. 201.5 billion in July alone, registering a healthy year-on-year growth of 19.6 per cent, pointing to renewed business and consumer confidence.
+
+Liquidity conditions also remained stable, with a market surplus of Rs. 144.37 billion by September 4, while workers’ remittances continued to provide vital support to the external sector, bringing in US$ 680.8 million in August, higher than US$ 577.5 million a year ago.
+
+...
+
+[Data](articles/75a42104.json)
+
+---
+
+### A Sweet Milestone: The first harvest of Browns Hotels & Resorts’ bee honey farming initiative
+
+*2025-09-05 21:43:00* · [`islandlk`](http://island.lk/a-sweet-milestone-the-first-harvest-of-browns-hotels-resorts-bee-honey-farming-initiative/) · `en`
+
+In the heart of Sri Lanka’s Cultural Triangle, Browns Hotels & Resorts has marked a milestone as meaningful as it is sweet: the very first harvest of its Sustainable Bee Honey Farming Initiative, a unique collaboration across three of its properties: Hotel Sigiriya, Occidental Paradise Dambulla and Ayugiri Ayurveda Wellness Resort. What began with a few buzzing bee boxes has now grown into thriving colonies, yielding their first golden honey after eight months of care and dedication.
+
+...
+
+[Data](articles/309dddf9.json)
+
+---
+
+### SriLankan Airlines marks 46 years with travel treats for passengers
+
+*2025-09-05 21:42:00* · [`islandlk`](http://island.lk/srilankan-airlines-marks-46-years-with-travel-treats-for-passengers/) · `en`
+
+SriLankan Airlines completed another journey around the sun on 1 September 2025, celebrating its 46th Anniversary by giving its valued customers more reasons to explore the world with special anniversary offers. A pioneer in the region, SriLankan Airlines has long been a true ambassador for Sri Lankan hospitality on the global stage. Local in spirit, global in operations and renowned for its award-winning service, the airline looks ahead to many more years of seamlessly connecting people, cultures and trade.
+
+Spreading the cheer, customers can enjoy 20% off Business Class and 15% off Economy Class return fares to all online destinations when booked via the SriLankan Airlines website between 1 – 5 September ’25. Members of the airline’s loyalty programme, FlySmiLes, who book within the first two weeks of September will also earn 46% bonus miles, symbolising 46 years in the skies.
+
+...
+
+[Data](articles/f19e8ade.json)
+
+---
+
 ### Duchess of Kent, oldest member of British royal family, dies aged 92
 
 *2025-09-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112211/duchess-of-kent-oldest-member-of-british-royal-familydiesaged92) · `en`
@@ -289,6 +345,52 @@ It was emphasised that rather than making Prajashakthi another poverty-alleviati
 ...
 
 [Data](articles/71db7e17.json)
+
+---
+
+### Intrepid Travel’s Sri Lanka GM Poornaka Delpachitra recognized as a 2025 PATA Face of the Future awardee for sustainability initiatives
+
+*2025-09-05 20:41:00* · [`islandlk`](http://island.lk/intrepid-travels-sri-lanka-gm-poornaka-delpachitra-recognized-as-a-2025-pata-face-of-the-future-awardee-for-sustainability-initiatives/) · `en`
+
+Intrepid Travel is proud to celebrate the recognition of Poornaka Delpachitra, Country General Manager of Intrepid Travel Sri Lanka, as a 2025 PATA Face of the Future awardee.
+
+Presented by the Pacific Asia Travel Association (PATA), the Face of the Future award is the Association’s highest honor for young tourism professionals making an outstanding contribution to the industry. Poornaka is one of four emerging leaders across Asia Pacific recognized this year, and the winner for Sustainability Initiatives.
+
+“It’s a great honor and deeply humbling to be recognized by PATA. I’m proud to be leading a team that truly believes in creating positive change through the joy of travel and I’m excited to keep building that future in Sri Lanka and beyond,” he said.
+
+Poornaka leads one of Intrepid’s largest global operations, overseeing both Destination Management Company and its shared services Centre in Sri Lanka.
+
+...
+
+[Data](articles/e57d9722.json)
+
+---
+
+### Pearl Bay becomes popular venue for corporate outings and team-building events
+
+*2025-09-05 20:40:00* · [`islandlk`](http://island.lk/pearl-bay-becomes-popular-venue-for-corporate-outings-and-team-building-events/) · `en`
+
+The family-friendly theme park is now highly sought-after by larger groups for its multiple activity zones, wide-range of facilities, and international safety and quality standards
+
+Gribson Hapukotuwa – Executive Director- Chief Executive Officer – David Pieris Leisure (Pvt) Ltd
+
+Pearl Bay, Sri Lanka’s first leisure park built according to European Standards among other exciting attractions, is seeing a steady increase in team-building events as well as corporate family outings, demonstrating the location’s growing appeal to larger groups and exclusive reservations. With multiple activity-led recreational and family-friendly zones spread across 23 acres, Pearl Bay is steadily earning the reputation as a venue that leverages fun and excitement to create engaging, impactful and memorable experiences for both families and corporate teams.
+
+...
+
+[Data](articles/5c91103d.json)
+
+---
+
+### Shaping the future of Sri Lanka’s insurance industry
+
+*2025-09-05 20:38:00* · [`islandlk`](http://island.lk/shaping-the-future-of-sri-lankas-insurance-industry/) · `en`
+
+Sri Lanka’s insurance industry today stands at a decisive and promising crossroads. We are a country with a commendably high general literacy rate, a strong foundation on which to build. While our financial literacy, particularly in the area of insurance, has room to grow, this also presents us with an exciting opportunity. By addressing this gap, we can identify new avenues for industry growth and strengthen national resilience. As the Insurance Association of Sri Lanka (IASL), we see this moment as an opportunity to drive impactful change. Our vision, as a collective, is to expand penetration, embrace technology and build lasting trust through greater financial awareness.
+
+...
+
+[Data](articles/3f11e957.json)
 
 ---
 
@@ -1631,141 +1733,5 @@ The central bank gets interest on its bond portfolio, which is a legacy of secur
 ◼️
 
 [Data](articles/113ca027.json)
-
----
-
-### ඇල්ල බස් රථයේ සිරව සිටි අය බේරා ගැනීමට ගිය දෙදෙනෙක් තුවාල ලබයි
-
-*2025-09-05 08:03:42* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-බස්-රථයේ-සිරව-සිටි-අය-බේරා-ගැනීමට-ගිය-දෙදෙනෙක්-තුවාල-ලබයි/11-418294) · `si`
-
-ඇල්ලේදී ප්‍රපාතයකට පෙරළී අනතුරට පත්වූ බස් රථයේ සිරවී සිටි මගීන් ‍බේරා ගැනීම සඳහා සහාය දුන් පුද්ගලයන් දෙදෙනෙක්ද තුවාල ලබා ඇති බව පොලීසිය පවසයි. එසේ තුවාල ලැබූ වන් බදුල්ල රෝහලට ඇතුළත් කර තිබේ.
-
-ඔවුන් දෙදෙනාත් සමග බස් රථයේ ගමන් කළ පිරිමි පුද්ගලයන් 6ක්, කාන්තාවන් 05, පිරිමි ළමුන් 03ක් හා ගැහැණු දරුවන් 03ක්ද තුවාල ලබා බදුල්ල රෝහලට ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/8863428b.json)
-
----
-
-### SUV driver arrested following tragic bus accident in Ella
-
-*2025-09-05 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112196/suv-driver-arrested-following-tragic-bus-accident-in-ella-) · `en`
-
-The driver of the SUV vehicle involved in the collision with a bus in Ella has been arrested, police confirmed.
-
-The accident occurred last evening (04) at around 9:00 p.m., when a bus travelling towards Wellawaya collided with an oncoming jeep and the road’s iron fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging into a 1,000-foot precipice.
-
-The bus was carrying a total of 30 passengers, including its driver, police said.
-
-Six men, including the bus driver, and nine women died in the accident. Among the injured, six men, five women, three boys, and two girls have been admitted to Badulla Hospital for treatment.
-
-In addition, two individuals who assisted in rescuing the passengers were also admitted to the hospital with injuries.
-
-Preliminary investigations indicate that the group had been returning from a trip in the Ella area at the time of the accident, police said.
-
-The bodies have been placed at the morgues of Diyatalawa, Badulla, and Bandarawela hospitals.
-
-◼️
-
-[Data](articles/4b4917c0.json)
-
----
-
-### SUV driver arrested following tragic bus accident in Ella
-
-*2025-09-05 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112196/jeep-driver-arrested-following-tragic-bus-accident-in-ella-) · `en`
-
-The driver of the SUV vehicle involved in the collision with a bus in Ella has been arrested, police confirmed.
-
-The accident occurred last evening (04) at around 9:00 p.m., when a bus travelling towards Wellawaya collided with an oncoming jeep and the road’s iron fence between the 23rd and 24th Km Post in the Ella Police Division, before plunging into a 1,000-foot precipice.
-
-The bus was carrying a total of 30 passengers, including its driver, police said.
-
-Six men, including the bus driver, and nine women died in the accident. Among the injured, six men, five women, three boys, and two girls have been admitted to Badulla Hospital for treatment.
-
-In addition, two individuals who assisted in rescuing the passengers were also admitted to the hospital with injuries.
-
-Preliminary investigations indicate that the group had been returning from a trip in the Ella area at the time of the accident, police said.
-
-The bodies have been placed at the morgues of Diyatalawa, Badulla, and Bandarawela hospitals.
-
-◼️
-
-[Data](articles/cd9f948c.json)
-
----
-
-### ඇල්ලේ මාරක අනතුර සම්බන්ධයෙන් ජීප් රියදුරා අත්අඩංගුවට
-
-*2025-09-05 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214196) · `si`
-
-පුද්ගලයින් 15 දෙනෙකුට මරු කැඳවූ ඇල්ල - වැල්ලවාය මාර්ගයේ සිදුවූ බස්  අනතුර සම්බන්ධයෙන් පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-අනතුර සම්බන්ධයෙන් පොලීසිය පැවසුවේ බස් රථය ඇල්ල දෙස සිට වැල්ලවාය දෙසට ධාවනය කරමින් සිට ඇති අතර ඉදිරියෙන් පැමිණි ජීප් රථයක ගැටී ප්‍රපාතයට පෙරළී ඇති බවය.
-
-අනතුර සම්බන්ධයෙන් අදාළ ජීප් රථයේ රියදුරු මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-ඊයේ (04) රාත්‍රි 9ට පමණ සිදුවූ අනතුරින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තවත් පුද්ගලයින් 18 දෙනෙකු තුවාල ලබා රෝහල්ගත කරනු ලැබීය.
-
-තවද බස් රථයේ පිරිස මුදාගැනීම සඳහා සහාය වූ පුද්ගලයින් දෙදෙනෙකුද තුවාල ලබා ප්‍රතිකාර සඳහා බදුල්ල රෝහලට ඇතුළත් කර ඇත.
-
-◼️
-
-[Data](articles/0219da63.json)
-
----
-
-### Trump to rebrand Pentagon as Department of War
-
-*2025-09-05 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112195/trump-to-rebrand-pentagon-as-department-of-war) · `en`
-
-US President Donald Trump is directing that the Department of Defense be known as the Department of War.
-
-He will sign an executive order on Friday for the defence department to use the new name as a secondary title and for Defence Secretary Pete Hegseth to be known as Secretary of War.
-
-The Pentagon - which oversees the US armed services - is the successor to the War Department, which was first established as a cabinet-level agency in 1789 and existed until 1947.
-
-The responsibility of creating executive departments rests with the US Congress, meaning that an amendment would be required to legally change the department’s name.
-
-The BBC has seen the text of the executive order, which says: “The name ‘Department of War’ conveys a stronger message of readiness and resolve compared to ‘Department of Defense,’ which emphasizes only defensive capabilities.”
-
-...
-
-[Data](articles/43901efb.json)
-
----
-
-### Prime Minister Harini calls for unity and compassion on Milad-un-Nabi
-
-*2025-09-05 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112194/prime-minister-harini-calls-for-unity-and-compassion-on-milad-un-nabi) · `en`
-
-Prime Minister of Sri Lanka, Dr. Harini Amarasuriya has extended her greetings on the occasion of the birth anniversary of Prophet Muhammad, widely observed by Muslim communities around the world as Milad-un-Nabi.
-
-In her message, the Prime Minister emphasized that “the teachings of Prophet Muhammad are not confined merely to a religious framework but stand as a universal set of humanitarian principles dedicated to the well-being of all humankind.”
-
-She highlighted the Prophet’s guidance on social justice, equality, compassion towards the oppressed, and the accountability of rulers as principles that are “more relevant to contemporary society than ever before.”
-
-Dr. Amarasuriya described the Prophet’s message as “a revolutionary proclamation against the unjust, tribal, and corrupt social order that prevailed at the time,” adding that it embodied “a noble vision of a society where all individuals could live with dignity, free from exploitation by one another.”
-
-...
-
-[Data](articles/758bc93d.json)
-
----
-
-### ඇල්ලේ බස් අනතුරින් මිය ගණන 15ක්
-
-*2025-09-05 07:24:37* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-බස්-අනතුරින්-මිය-ගණන-15ක්/11-418292) · `si`
-
-විනෝද චාරිකාවක් ගිය පුද්ගලික බස් රථයක් (04) වෙනිදා රාත්‍රී 09.20 පමණ ඇල්ල වැල්ලවාය මාර්ගයේ රාවණා ඇල්ල මවුන්ට් 07 හෝටලය අසළින් ප්‍රපාතයකට පෙරළීමෙන් මිය ගිය පුද්ගලයන්ගේ සංඛ්‍යාව 15ක් බව පොලීසිය කියයි. රියදුරු ඇතුළු පිරිමි පුද්ගලන් 6ක් හා කාන්තාවන් 9ක් මෙසේ ජීවිතක්ෂයට පත්ව තිබේ.
-
-පොලීසිය,යුද හමුදාව සහ පොලිස් විශේෂ කාර්ය බළකාය ප්‍රදේශවාසීන් සමඟ එක්ව අනතුරට පත්වූ බස් රථයෙන් විසිවී තුවාල ලබා සිටින මගීන් බේරාගෙන තිබේ..
-
-මෙම රථය තංගල්ල ප්‍රදේශයේ සිට විනෝද චාරිකාවකට පැමිණ ආපසු යමින් සිටියදී මෙම අනතුරට මුහුණ දී තිබේ.
-
-◼️
-
-[Data](articles/2947740b.json)
 
 ---

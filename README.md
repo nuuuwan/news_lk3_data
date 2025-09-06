@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 10:49:52**
+As of **2025-09-06 11:07:31**
 
 ## Newspaper Stats
 
-*Scraped **74,410** Articles*
+*Scraped **74,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,520
 islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,193
+adalk | 7,194
 adaderanalk | 9,510
 tamilmirrorlk | 11,072
 virakesarilk | 12,171
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,410 articles have been extended.
+61,973 (83.3%) of 74,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,11 +52,11 @@ According to police, two individuals on a motorcycle opened fire and fled the ar
 
 පානදුර, අලුබෝමුල්ල සඳගලවත්ත ප්‍රදේශයේ වෙළෙඳසැලකට අද (6) පෙරවරුවේ වෙඩිතැබීමක් සිදුව තිබේ.
 
-නාදුනන පුද්ගලයන් දෙදෙනෙකු විසින් මිලිමීටර 9 වර්ගයේ පිත්තෝල ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇත.
+නාදුනන පුද්ගලයන් දෙදෙනෙකු පැමිණ මිලිමීටර 9 වර්ගයේ පිත්තෝල වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇත.
 
-කෙසේ වෙතත් වෙඩිතැබීම සිදුවන අවස්ථාවේ කාන්තාවක් එහි සිට ඇති අතර, වෙඩි ප්‍රහාරයක වෙළෙඳසැලේ තිබූ ශීතකරණයකට වැදී ඇත.
+ඇය වෙඩි ප්‍රහාරයෙන් බේරී පලායාමේ දී වෙළෙඳසැලේ තිබූ ශීතකරණයකට වෙඩි වැදී තිබේ.
 
-සිද්ධිය සම්බන්ධයෙන් අලුබෝමුල්ල පොලීසියට අමතරව පානදුර කොට්ඨාසය භාර ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිශාන් ද සිල්වා මහතාගේ අධීක්ෂණය යටතේ වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+ඊට අමතරව පානදුර කොට්ඨාසය භාර ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිශාන් ද සිල්වා මහතාගේ අධීක්ෂණය යටතේ ද වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
 
 ◼️
 
@@ -95,6 +95,26 @@ Chairman of the CEB Technicians’ Union, Kosala Abeysinghe, stated that none of
 ◼️
 
 [Data](articles/a7841d0d.json)
+
+---
+
+### බවුසරයක් හා ත්‍රී රෝද රථයක් ගැටී දරුවෙකුට තුවාල
+
+*2025-09-06 10:02:48* · [`adalk`](https://www.ada.lk/breaking_news/බවුසරයක්-හා-ත්‍රී-රෝද-රථයක්-ගැටී-දරුවෙකුට-තුවාල/11-418308) · `si`
+
+ඉන්ධන ප්‍රවාහනය කල බවුසර් රථයක ත්‍රී රෝද රථයක් ගැටෙයි. ත්‍රී රෝද රථයේ ගමන් ගත් කුඩා දරුවෙකු බරපතල ලෙස තුවාල ලබයි.
+
+කොළොන්නාවේ සිට කොටගල ඛණිජ තෙල් නීතිගත සංස්ථාවේ තෙල් ගබඩා සංකීර්ණය වෙත ඉන්ධන ප්‍රවාහනය කරන ලද බවුසර් රථයක ත්‍රී රෝද රථයක් ගැටීමෙන් ත්‍රී රෝද රථයේ ගමන් ගත් කුඩා දරුවෙකු තුවාල ලබා වටවල ප්‍රා දේශීය රෝහල වෙත ඇතුළත් කල බව හැටන් පොලිසිය පැවසීය.
+
+හැටන් කොළඹ ප්‍රධෘන මාර්ගයේ ශැනන් වත්ත ප්‍රදේශයේදී (05) දින පස්වරු 5:00ට පමණ මෙම අනතුර සිදු වී ඇත.
+
+බවුසර් රථයට ඉදිරියෙන් තුවාල ලැබූ දරුවාගේ මව විසින් ෂැනන් වත්තේ සිට හැටන් දක්වා ත්‍රී රෝද රථය ධාවනය කරවන අවස්ථාවේ එම දිසාවටම ධාවනය වු බවුසර් රථය ත්‍රී රෝද රථය ඉස්සර කර යෑමට උත්සහ කිරිමේදි බවුසර් රථයේ පසුපස ටැංකියේ යකඩ කොටසක් ත්‍රී රෝද රථයේ ගැටී ත්‍රී රෝද රථය අනතුරට පත් වී ඇත.
+
+අනතුරින් ත්‍රී රෝද රථයට දැඩි අලාභ හානි සිදු වී ඇති බවත්, එම බවුසර් රථයේ ඉන්ධන ගොඩ බෑමෙන් පසු බවුසර් රථයේ රියදුරුව හැටන් මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරිම සදහා සැක පිට අත්අඩංගුවට ගත් බවයි හැටන් පොලිසියේ රථවාහන අංශයේ නිළධාරින් කියා සිටියේ.
+
+◼️
+
+[Data](articles/fd57804b.json)
 
 ---
 
@@ -1765,25 +1785,5 @@ According to official data, Sri Lanka has 95 species of freshwater fish and 52 o
 ...
 
 [Data](articles/b58bd973.json)
-
----
-
-### Sri Lanka’s HNB Securities assigned first-time ‘A(lka)’ rating by Fitch
-
-*2025-09-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-hnb-securities-assigned-first-time-alka-rating-by-fitch-239549/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has awarded Sri Lanka-based HNB Securities Limited its inaugural National Long-Term Rating of ‘A(lka)’, accompanied by a Stable Outlook.
-
-The rating reflects the Fitch Ratings’ expectation of extraordinary support from parent, Hatton National Bank.
-
-“This assessment is underpinned by HNBS’s synergistic role as the primary dealing arm of HNB, including for its affiliates and wealth management clients,”  Fitch said.
-
-The rating also factors in HNB Securities’ positive contribution to the parent’s profitability, and HNB’s oversight of it through board representation and periodic reporting.
-
-Fitch Ratings has assigned Sri Lanka-based HNB Securities Limited (HNBS) a first-time National Long-Term Rating of ‘A(lka)’ with a Stable Outlook.
-
-...
-
-[Data](articles/c8d65ee6.json)
 
 ---

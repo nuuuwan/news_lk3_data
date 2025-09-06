@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 15:18:12**
+As of **2025-09-06 15:32:58**
 
 ## Newspaper Stats
 
-*Scraped **74,434** Articles*
+*Scraped **74,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,196
-adaderanalk | 9,514
+adaderanalk | 9,516
 tamilmirrorlk | 11,075
-virakesarilk | 12,177
-adaderanasinhalalk | 12,945
+virakesarilk | 12,178
+adaderanasinhalalk | 12,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,434 articles have been extended.
+61,973 (83.3%) of 74,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### ක්ෂේත්‍ර රාජකාරිවල නිරත සෞඛ්‍ය සේවකයින්ට උපරිම පහසුකම්
+
+*2025-09-06 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214240) · `si`
+
+ක්ෂේත්‍ර රාජකාරීවල නිරත වන සෞඛ්‍ය සේවකයින් හට උපරිම පහසුකම් ලබාදීමට කටයුතු කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+සෞඛ්‍ය සේවාව ආයතනවලට සීමා නොවී ක්ෂේත්‍රයට ගෙන ඒමට කටයුතු කරන අතර එහිදී ක්ෂේත්‍රෙය් රාජකාරී නිසි පරිදි ඉටු නොවුනහොත් සෞඛ්‍ය සේවාවේ කුමන සංවර්ධනයක් කළ ද ඉන් ප්‍රයෝජනයක් අත් නොවන බව සෞඛ්‍ය අමාත්‍යවරයා පෙන්වා දෙයි.
+
+පවුල් සෞඛ්‍යෙස්වාව තුළ පැන නැගී ඇති ගැටලු සම්බන්ධයෙන් සමස්ත  ලංකා පවුල් සෞඛ්‍ය ස්වා නිලධාරිණියන්ගේ සංගමයේ සාමාජිකාවන් සමග පැවැති සාකච්ඡාවකදී අමාත්‍යවරයා මේ බව සඳහන් කර තිබේ.
+
+මෙහිදී පවුල් සෞඛ්‍ය සේවා නිලධාරිණියන්ගේ වෘත්තීය ගැටලු කිහිපයක් ද ඔවුන් විසින් ඉදිරිපත් කර ඇති අතර ඒ පිළිබඳ අවධානය යොමු කරමින් සාධනීව විසදුම් ලබා දීමට පියවර ගන්නා බව නලින්ද ජයතිස්ස අමාත්‍යවරයා ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/0a00c07d.json)
+
+---
 
 ### உயிரிழந்தவர்களுக்கு பிரதமர் ஹரிணி நேரில் அஞ்சலி
 
@@ -56,7 +74,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව එහි පදිංචිකරුවන්ට ගාසා තීරයේ දකුණු ප්‍රදේශයේ ස්ථාපිත කර ඇති මානුෂීය කළාපය වෙත යොමුවන ලෙස ඊශ්‍රායල හමුදාව දැනුම් දී ඇත.
 
-කෙසේ වෙතත් මේ වන විටත් ගාසා නගරයේ  පදිංචිකරුවන් විශාල පිරිසක් එම මානුෂීය කලාපය වෙත යොමුවෙමින් සිටින බව සදහන්.
+කෙසේ වෙතත් මේ වන විටත් ගාසා නගරයේ පදිංචිකරුවන් විශාල පිරිසක් එම මානුෂීය කලාපය වෙත යොමුවෙමින් සිටින බව සදහන්.
 
 මෙම කලාපයේ ක්ෂේත්‍ර රෝහල්, ජලනල මාර්ග මෙන්ම ආහාර, කූඩාරම්, ඖෂධ සහ වෛද්‍ය සැපයුම් අඛණ්ඩව ලැබෙන අතර, එක්සත් ජාතීන්ගේ සංවිධානය සහ අනෙකුත් ජාත්‍යන්තර සංවිධාන සමග සම්බන්ධීකරණය කටයුතු සිදුකරන බව ඊශ්‍රායල හමුදාව දැනුම්දී තිබේ.
 
@@ -85,6 +103,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/33d60d1f.json)
+
+---
+
+### Chemicals for Padme’s meth lab: Former SLPP PS member arrested
+
+*2025-09-06 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112227/chemicals-for-padmes-meth-lab-former-slpp-ps-member-arrested-) · `en`
+
+Former Sri Lanka Podujana Peramuna (SLPP) Angunukolapelessa Pradeshiya Sabha member Piyal Manamperi has been arrested in connection with the recent recovery of chemicals allegedly used to manufacture ‘Ice’ (crystal methamphetamine) at Middeniya, police said.
+
+The authorities discovered around 50,000 kilograms of chemicals used in the production of ‘Ice’ buried at a residence in the Thalawa area of Middeniya. The discovery was made during an operation conducted by the Western North Crime Division yesterday (05).
+
+Police investigations revealed that both Piyal Manamperi and his brother were allegedly involved in concealing the chemicals and that they are close associates of notorious organized criminal ‘Kehelbaddara Padme’, who was recently arrested with several other gang members in Jakarta, Indonesia.
+
+...
+
+[Data](articles/51ee0056.json)
+
+---
+
+### Four shooting incidents within 12 hours as 2025’s tally rises to 96
+
+*2025-09-06 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112226/four-shooting-incidents-within-12-hours-as-2025s-tally-rises-to-96) · `en`
+
+Within the past 12 hours, four separate shooting incidents have been reported from different parts of the island, leaving one person dead and another injured, police confirmed.
+
+Accordingly, the total number of shootings reported so far this year has risen to 96, which have resulted in 50 fatalities and injuries to 53 other persons.
+
+The first of the four shooting incidents occurred in Grandpass at around 11:45 p.m. yesterday (05), resulting in the death of a 26-year-old youth, Heshan Salinda Pushpakumara. Police said the victim had been called to the location where he was shot. Investigations have revealed that he had no previous criminal record.
+
+...
+
+[Data](articles/6a4aea0f.json)
 
 ---
 
@@ -193,6 +243,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5447b85a.json)
+
+---
+
+### அரசாங்கத்தின் நெல் கொள்முதல் திட்டத்தின் கீழ் 40 ஆயிரம் மெட்ரிக் தொன்னுக்கும் அதிகமான நெல் கொள்முதல்!
+
+*2025-09-06 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224355) · `ta`
+
+அரசாங்கத்தின் நெல் கொள்முதல் திட்டத்தின் கீழ் 40 ஆயிரம் மெட்ரிக் தொன்னுக்கும் அதிகமான நெல் கொள்முதல் செய்யப்பட்டுள்ளதாக நெல் சந்தைப்படுத்தல் சபை அறிவித்துள்ளது.
+
+அம்பாறை மாவட்டத்தில் இருந்து அதிகளவான நெல் கொள்முதல் செய்யப்பட்டுள்ளதாக நெல் சந்தைப்படுத்தல் சபைத் தலைவர் மஞ்சுள பின்னலந்த தெரிவித்துள்ளார்.
+
+அனுராதபுரம் மற்றும் பொலன்னறுவை மாவட்டங்களிலும் கொள்முதல் நடவடிக்கைகள் தொடர்ந்து நடைபெற்று வருவதாகவும் அவர் மேலும் குறிப்பிட்டுள்ளார்.
+
+அதில் 55 பில்லியன் ரூபாய் ஏற்கனவே விவசாயிகளுக்கு செலுத்தியுள்ளதாகவும்  நெல் சந்தைப்படுத்தல் சபைத் தலைவர் உறுதிப்படுத்தினார்.
+
+◼️
+
+[Data](articles/617efc7a.json)
 
 ---
 
@@ -1769,79 +1837,5 @@ According to the preliminary investigations, it has been revealed that the accid
 ◼️
 
 [Data](articles/f924743a.json)
-
----
-
-### ජෝ බයිඩන්ට සැත්කමක්
-
-*2025-09-05 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214208) · `si`
-
-සමෙහි පිළිකා රෝගී තත්ත්වයකින් පීඩා විදින අමෙරිකානු හිටපු ජනාධිපති ජෝ බයිඩන් හට සැත්කමක් සිදු කර ඇත.
-
-82 හැවිරිදි හිටපු ජනාධිපතිවරයා, දීර්ඝ කාලයක සිට පිළිකා රෝගී තත්ත්වයකින් පීඩා විදිමින් සිට ඇති අතර පසුගියදා ඔහු ශල්‍යකර්මයකට ලක්ව ඇති බවට හිටපු ජනාධිපතිවරයාගේ ප්‍රකාශකයෙකු උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
-
-2023 වසරේදී ද හිටපු ජනාධිපති ජෝ බයිඩන් හට සැත්කමක් සිදු කර තිබූ බව සඳහන් වේ.
-
-බයිඩන්ගේ වැඩිමහල් පුත්‍රයා ද 2015 වසරේදී පිළිකාවකට ගොදුරු වී මිය ගොස් තිබුණි.
-
-◼️
-
-[Data](articles/00d2d2d1.json)
-
----
-
-### வெள்ளை வானில் கடத்தப்பட்ட சிறுமி மீட்பு
-
-*2025-09-05 15:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெள்ளை-வானில்-கடத்தப்பட்ட-சிறுமி-மீட்பு/76-364066) · `ta`
-
-சாமி மலை பெயலோன் தோட்ட பாகினி பிரிவில் கடந்த 3 ஆம் திகதி வான் ஒன்றில் கடத்தப்பட்ட 15 வருடம் 8 மாதம் வயதுடைய சிறுமி பேருவளையில் மீட்கப்பட்டுள்ளார்.
-
-நேற்று முன்தினம் 3ஆம் திகதி காலை 8 மணிக்கு தாய் தந்தையர் தோட்ட பணிக்கு சென்ற வேளையில், பெயலோன் தமிழ் வித்தியாலயத்தில் தரம் 8 இல் கல்வி பயின்று இடை நடுவில் வெளியேறிய சாமி மலை பெயலோன் தோட்ட பாகினி பிரிவில் உள்ள மாணவி வெள்ளை நிற வேன் ஒன்றில் கடத்திச் செல்லப்பட்டதாக சிறுமியின் தந்தை முறைப்பாடளித்திருந்தார்.
-
-இதைத் தொடர்ந்து மஸ்கெலியா பொலிஸாரின் தேடுதலுக்கு அமைய நேற்று பேருவளை பகுதியில் உள்ள 26 வயது உடைய இளைஞர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு மஸ்கெலியா பொலிஸ் நிலையத்திற்கு  அழைத்து வரப்பட்டார்.
-
-இன்று 5 ம் திகதி விசாரணையின் பின்னர் ஹட்டன் நீதி மன்ற பதில் நீதிவான் முன்னிலையில் ஆஜர் படுத்த உள்ளதாகவும், மீட்கப்பட்ட மாணவி டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக மஸ்கெலியா பொலிஸ் நிலைய பொறுப்பதிகாரி புஷ்பகுமார தெரிவித்தார். R
-
-◼️
-
-[Data](articles/594dc003.json)
-
----
-
-### වසර 27කින් කළ නොහැකි වූ දස්කමක් කළ දකුණු අප්‍රිකාව
-
-*2025-09-05 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214207) · `si`
-
-සත්කාරක එංගලන්ත කණ්ඩායමට එරෙහි දෙවන එක්දින ක්‍රිකට් තරගයෙන් ද ලකුණු 5ක ජයක් ලැබීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
-
-මෙම ජයත් සමග තරග 2-0ක් ලෙස දකුණු අප්‍රිකාව තරගාවලියේ පෙරමුණ ගත් අතර, ඒ සමග ඔවුන් තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලියේ ජය තහවුරු කරගත්තේය.
-
-ඓතිහාසික ලෝඩ්ස් ක්‍රීඩාංගණයේ ඊයේ (4) පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් දකුණු අප්‍රිකාව පන්දුවාර 50 තුළදී කඩුලු 8ක් දැවී ලකුණු 330ක් රැස් කළේය.
-
-ඒ අනුව ලකුණු 331ක ඉලක්කයක් හඹාගිය එංගලන්තයට පන්දුවාර 50 තුළදී රැස්කළ හැකිවුණේ කඩුලු 9ක් දැවී ලකුණු 325ක් පමණි.
-
-මෙය වසර 27කට පසු එංගලන්තයට එරෙහිව දකුණු අප්‍රිකාව එරටදී එක්දින තරගාවලියක් ජයගත් පළමු අවස්ථාව ලෙස වාර්තා අතරට එක්විය.
-
-ඔවුන් අවසන්වරට එංගලන්තයේ දී එක්දින තරගාවලියක් ජයගෙන තිබුණේ 1998 වසරේදීය.
-
-◼️
-
-[Data](articles/4f207b88.json)
-
----
-
-### තැපෑලට පණ දෙන්න රජය සූදානම්ලු
-
-*2025-09-05 15:03:20* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑලට-පණ-දෙන්න-රජය-සූදානම්ලු/11-418302) · `si`
-
-තැපැල් දෙපාර්තමේන්තුවේ සියලු අඩුපාඩු කඩිනමින් සකසා ජනතාවට වේගවත් පහසු විශ්වාසදායී  තැපැල් සේවාවක් රට තුළ ක්‍රියාත්මක කිරීම සඳහා රජය පියවර ගනිමින් සිටින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍යා  නලින් ද ජයතිස්ස මහතා04 දින ගලේවෙල දී පැවසීය.
-
-වසර පනහකටත් අධික පැරණී ගලේවෙල නගරයේ පැවතී තැපැල් කාර්යාලයේ අබලන් ගොඩනැගිලි ඉවත්කොට පසුගිය අයවැයෙන් වෙන් කෙරුණු රුපියල් මිලියන 14 පමණ මුදලක් වැය කරමින්  මේ  රජයේ පළමු තැපැල් කාර්යාලයට මුල්වල තැබීමේ උත්සවයට එක් වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
-
-ගලේවෙල නගර මධ්‍යයේ  ගොඩනැඟිල්ල සඳහා මුල් ගල තැබීම ප්‍රදේශයේ දේශපාලන අධිකාරිය රාජ්‍ය නිලධාරීන්ගේ  ප්‍රධානත්වයෙන් සුභ මොහොතින් අමාත්‍ය නලින්ද ජයසිස්ස මහතාගේ  සුරතින් සිදු කෙරිණි
-
-...
-
-[Data](articles/1f2c763f.json)
 
 ---

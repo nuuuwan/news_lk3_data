@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 19:08:27**
+As of **2025-09-06 19:18:15**
 
 ## Newspaper Stats
 
-*Scraped **74,458** Articles*
+*Scraped **74,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,200
-adaderanalk | 9,517
+adaderanalk | 9,518
 tamilmirrorlk | 11,077
-virakesarilk | 12,180
+virakesarilk | 12,181
 adaderanasinhalalk | 12,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.2%) of 74,458 articles have been extended.
+61,973 (83.2%) of 74,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,6 +152,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Putin says foreign troops deployed to Ukraine would be legitimate targets
+
+*2025-09-06 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112229/putin-says-foreign-troops-deployed-to-ukraine-would-be-legitimate-targets) · `en`
+
+Russian President Vladimir Putin said Friday that any foreign troops deployed to Ukraine, particularly while its invasion was still ongoing, would be considered “legitimate targets” by Moscow’s forces.
+
+Putin’s comments came hours after European leaders repledged their commitment to a potential peacekeeping force, a prospect that Moscow has repeatedly described as “unacceptable.”
+
+“If any troops appear there, especially now while fighting is ongoing, we assume that they will be legitimate targets,” he said during a panel at the Eastern Economic Forum in the far eastern Russian city of Vladivostok.
+
+Putin also dismissed the idea of peacekeeping forces in Ukraine after a final peace deal, saying “no one should doubt” that Moscow would comply with a treaty to halt its 3½-year full-scale invasion of its neighbor.
+
+He said that security guarantees would be needed for both Russia and Ukraine.
+
+...
+
+[Data](articles/65d9717d.json)
+
+---
+
 ### ඇල්ලේදී අනතුරට පත් බස් රථයේ සුන් බුන් උඩට ගනියි
 
 *2025-09-06 17:09:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේදී-අනතුරට-පත්-බස්-රථයේ-සුන්-බුන්-උඩට-ගනියි/11-418314) · `si`
@@ -203,6 +223,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/e3471b20.json)
+
+---
+
+### சுது அரலிய ஹோட்டலின் அங்கீகரிக்கப்படாத பகுதியை அகற்றுவதாக டட்லி சிறிசேன உறுதியளிப்பு!
+
+*2025-09-06 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/224383) · `ta`
+
+மேலும், அந்தப் பகுதியை தனிப்பட்ட முறையில் அகற்றுவதன் மூலம் சட்டத்திற்கு இணங்குவதாகவும், ஹோட்டல் செயல்பாடுகள் மற்றும் முன்பதிவுகள் மே மாதம் வரை தொடரும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+ஜூலை மாத ஆரம்பத்தில், விவசாயம், கால்நடைகள், நிலங்கள் மற்றும் நீர்ப்பாசன அமைச்சர் கே.டி. லால்காந்த, நீர்ப்பாசன தொட்டி முன்பதிவுகளில் உள்ள அங்கீகரிக்கப்படாத கட்டமைப்புகளை அகற்றுவதற்கான, அரசாங்கத்தின் திட்டத்திலிருந்து ஹோட்டல் விலக்கப்பட்டதாகக் கூறப்படும் கூற்றுகளை நிராகரித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0c46a90c.json)
 
 ---
 
@@ -1845,37 +1879,5 @@ Sri Lanka’s insurance industry today stands at a decisive and promising crossr
 ...
 
 [Data](articles/120a120b.json)
-
----
-
-### එකම පවුලේ හතරක් ගමන් ගත් ත්‍රිරෝද රථයක් ප්‍රපාතයට පෙරළී දෙදෙනෙකුට තුවාල
-
-*2025-09-05 19:03:00* · [`adalk`](https://www.ada.lk/breaking_news/එකම-පවුලේ-හතරක්-ගමන්-ගත්-ත්‍රිරෝද-රථයක්-ප්‍රපාතයට-පෙරළී-දෙදෙනෙකුට-තුවාල/11-418304) · `si`
-
-ගම්පොළ සිට හැටන් දක්වා ධාවනය වූ එකම පවුලේ සාමාජිකයින් හතර දෙනෙක් ගමන් ගත්  ත්‍රීරෝද රථයක් ඊයේ රාත්‍රී  11.00 ට පමණ වටවල ප්‍රදේශයේදී අඩි පනහක් පමණ ප්‍රපාතයකට පෙරළි අනතුරක් සිදුවී තිබෙනවා.
-
-අනතුර සිදුවන අවස්ථාවේදී  ත්‍රී රෝද රථය තුළ  එකම පවුලේ  මව පියා සහ අවුරුදු හතරක් සහ අවුරුදු දෙකක් වයස දරුවන් දෙදෙනෙක් ගමන් කර ඇති අතර අනතුරෙන්  මව සහ කුඩා දරුවන් දෙදෙනා සුළු තුවාල ලබා  වටවල ප්‍රාදේශීය රෝහලට ඇතුලත් කර තිබෙනවා .
-
-වංගු සහිත මාර්ගයක් හේතුවෙන් ත්‍රී රෝද රථය පාලනය කර ගැනීමට නොහැකිව ත්‍රී රෝද රථය පෙරළී ගිය බව රියදුරු පවසනවා.
-
-◼️
-
-[Data](articles/7cdb2d55.json)
-
----
-
-### மின்சாரசபை தொடர்பில் தன்னிச்சையாக தீர்மானங்களை எடுக்கும் அரசாங்கம் - அஜித் பி பெரேரா
-
-*2025-09-05 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224330) · `ta`
-
-இலங்கை மின்சாரசபை ஏனைய அரச நிறுவனங்களை விட அதிக இலாபமீட்டும் நிறுவனமாகும். ஆனால் அரசாங்கம் அதன் பணியாளர்கள் பாதிக்கப்படும் வகையில் தீர்மானங்களை எடுத்துள்ளது. இவ்வாறு தன்னிச்சையாக தீர்மானங்களை எடுக்காது மின்சாரசபை உத்தியோகத்தர்களுடன் கலந்துரையாடி அதற்கமைய தீர்மானங்கள் எடுக்கப்பட வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
-
-கொழும்பில் வெள்ளிக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-மின்சாரசபையை மறுசீரமைப்பதை யாரும் எதிர்க்கவில்லை. எவ்வாறிருப்பினும் அதற்கான முறையான சட்டத்தை நடைமுறைப்படுத்துவதில் இந்த அரசாங்கம் தோல்வியடைந்துள்ளது. மாறாக 23 000 மின்சாரத்துறை ஊழியர்களும் பாதிக்கப்படும் வகையிலான தீர்மானங்களையே அரசாங்கம் எடுத்துள்ளது. லெகோ நிறுவனம் நாட்டின் ஏனைய நிறுவனங்களுடன் ஒப்பிடுகையில் சிறந்த இலாபமீட்டும் அரச நிறுவனமாகும்.
-
-...
-
-[Data](articles/24708d02.json)
 
 ---

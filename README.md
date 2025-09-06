@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 20:06:44**
+As of **2025-09-06 20:18:26**
 
 ## Newspaper Stats
 
-*Scraped **74,464** Articles*
+*Scraped **74,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,200
-adaderanalk | 9,518
+adaderanalk | 9,519
 tamilmirrorlk | 11,079
 virakesarilk | 12,181
 adaderanasinhalalk | 12,959
@@ -26,21 +26,21 @@ adaderanasinhalalk | 12,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.2%) of 74,464 articles have been extended.
+61,973 (83.2%) of 74,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
 
-### දෙවන විස්සයි20 තරගයෙන් බංග්ලාදේශයට ජය
+### දෙවන විස්සයි20 තරගයෙන් සිම්බාබ්වේ පිලට පහසු ජයක්
 
 *2025-09-06 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214253) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක සිම්බාබ්වේ කණ්ඩායම අතර තරග තුනකින් සමන්විත තරගාවලියේ දෙවන විස්සයි20 ක්‍රිකට් තරගයේ ජය බංග්ලාදේශ කණ්ඩායම විසින් අද (06) හිමිකර ගනු ලැබීය.
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක සිම්බාබ්වේ කණ්ඩායම අතර තරග තුනකින් සමන්විත තරගාවලියේ දෙවන විස්සයි20 ක්‍රිකට් තරගයේ ජය සිම්බාබ්වේ කණ්ඩායම විසින් අද (06) හිමිකර ගනු ලැබීය.
 
 එහිදී පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම සියලු දෙනා දැවී රැස්කර ගත හැකි වූයේ ලකුණු 80ක් පමණි.
 
-පිලිතුරු ලෙස ක්‍රීඩා කළ බංග්ලාදේශ කණ්ඩායම කඩුළු පහක් පමණක් දැවී ලකුණු 85ක් රැස් කරගනිමින් අද තරගයේ ජයග්‍රහණය හිමිකරගනු ලැබීය.
+පිලිතුරු ලෙස ක්‍රීඩා කළ සිම්බාබ්වේ කණ්ඩායම කඩුළු පහක් පමණක් දැවී ලකුණු 85ක් රැස් කරගනිමින් අද තරගයේ ජයග්‍රහණය හිමිකරගනු ලැබීය.
 
 ◼️
 
@@ -95,6 +95,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/eadec0fd.json)
+
+---
+
+### ‘Rividanavi’ Solar Power Park: Construction begins of Sri Lanka’s largest renewable energy project
+
+*2025-09-06 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112230/rividanavi-solar-power-park-construction-begins-of-sri-lankas-largest-renewable-energy-project) · `en`
+
+As a key step towards achieving the target of fulfilling 70% of the country’s electricity demand from renewable energy by 2030, construction work on the Siyambalanduwa “Rividanavi” Solar Power Park, Sri Lanka’s largest renewable energy project, commenced this morning (06) under the patronage of President Anura Kumara Dissanayake.
+
+This massive project, which will add 100 MW of capacity to the national electricity grid, involves an investment of USD 140 million, according to the President’s Media Division (PMD).
+
+The project, being built on a land area of approximately 500 acres in the Kotiyagala Grama Niladhari Division of the Siyambalanduwa Divisional Secretariat in the Monaragala District, is the first project for which the Sustainable Energy Authority has provided the project site, access roads and all relevant approvals to the investor.
+
+...
+
+[Data](articles/fe1ab91e.json)
 
 ---
 
@@ -1861,23 +1877,5 @@ Sri Lanka’s insurance industry today stands at a decisive and promising crossr
 ...
 
 [Data](articles/a6a1091d.json)
-
----
-
-### செம்மணி மனித புதைகுழி :  சப்பாணி நிலையில் மனித எழும்பு கூட்டு மீட்பு
-
-*2025-09-05 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224332) · `ta`
-
-செம்மணி மனித புதைகுழி அகழ்வு பணிகளின் போது வியாழக்கிழமை (4) குவியலாக எட்டு மனித என்பு தொகுதிகள் அடையாளம் காணப்பட்ட நிலையில், அவற்றை சுத்தம் செய்யும் பணிகள் முன்னெடுக்கப்பட்டன.
-
-அதன் போது, வெள்ளிக்கிழமை அவற்றுள் ஒரு மனித என்பு கூட்டு தொகுதி கால்கள் மடிக்கப்பட்டு இருந்த (சப்பாணி) நிலையில் அடையாளம் காணப்பட்டுள்ளது.
-
-நேற்றைய தினம் 227 இலக்கமிடப்பட்டிருந்த என்பு கூட்டு தொகுதியே இருந்த நிலையில் காணப்படுகிறது.
-
-செம்மணியில் இதுவரையில், கட்டம் கட்டமாக 53 நாட்கள் முன்னெடுக்கப்பட்ட அகழ்வு பணிகளின் போது, 240 எலும்புக்கூட்டு தொகுதிகள் அடையாளம் காணப்பட்டுள்ள நிலையில் , அவற்றுள் 235 எலும்பு கூட்டு தொகுதிகள் முற்றாக அகழ்ந்து எடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/9f83d10a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 14:20:16**
+As of **2025-09-06 14:32:51**
 
 ## Newspaper Stats
 
-*Scraped **74,427** Articles*
+*Scraped **74,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,520
 islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,194
+adalk | 7,196
 adaderanalk | 9,514
 tamilmirrorlk | 11,074
 virakesarilk | 12,177
@@ -26,11 +26,33 @@ adaderanasinhalalk | 12,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,427 articles have been extended.
+61,973 (83.3%) of 74,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### සුදු අරලිය හොටලයේ වැට ඉවත් කරගන්න කැමතියි
+
+*2025-09-06 13:50:15* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අරලිය-හොටලයේ-වැට-ඉවත්-කරගන්න-කැමතියි/11-418311) · `si`
+
+පොරොන්නරුව පරාක්‍රම සමුද්‍රය වැව්තාවුල්ලේ පිහිටි සුප්‍රකට සුදු අරලිය හෝටලයේ ඉඩම් කොටසක් නීතියට අනුකූල නොවන බවත් එය ඉවත් කර ගැනීමට තමන් සූදානම් බවත් එම හෝටලයේ හිමිකරු සුප්‍රකට ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතා පවසයි.
+
+වැඩසටහකදී ඔහු සඳහන් කළේ හෝටලයේ වැට ගැලවීමට තමන් කැමති බවත් සෑම කෙනෙක්ම නීතියට යටත් විය යුතු බවයි.
+
+" අපට දේශපාලන ලේබල් එකක් තියෙනවා අපේ ඇගේ. ඒක කොච්චර බලවත්ද කියනවානම් මට පාරක යන්න නෑ. මට තැනක ගිහිල්ලා නිදහසේ කථා කරන්න නෑ. කණ්ඩායමක් වශයෙන් අපි එකට එක්ව කටයුතු කළ යුතුමයි.
+
+රජයත් එක්ක අපි සුහදව වැඩ කළ යුතුමයි. මේක කිව්වම සමහරු කියයි මට මගේ සුදු අරලිය හෝටලයේ වැට ගලවන්න වෙන  හින්දනේ කියලා. නීතියට අපි කවුරුත් යටත් විය යුතුමයි. නීත්‍යානුකූල නොවන ඉඩම් කෑල්ලක් තිබෙනවා. ඔව් ඒ්ක ඇත්ත. ඒ් වැට ගලවගන්න කැමතියි. දැන් හරිනේ.
+
+මම ගලවගන්නම් හැබැයි ලබන මැයි මාසයේ වෙනකම් අවුරුද්දකට විතර වෙනකම් වෙඩින් බුකිංස් වගයක් තියෙනවා. මම ඕක බොහොම ටික කාලයකින් කඩනවා. නියමිත විදිහට හදනවා. ඒකනේ ඕන.
+
+ආණ්ඩුව මේ යන වැඩපිළිවෙළ කොච්චර සාර්ථකද කියන එක මගේ යුතුකම. මේ ආණ්ඩුවට කඩේ යනවා නෙමෙයි.
+
+...
+
+[Data](articles/a519c89b.json)
+
+---
 
 ### யாழ். பல்கலை வேந்தராகப் பேராசிரியர் ராஜரட்ணம் குமாரவடிவேல் நியமனம்
 
@@ -309,6 +331,24 @@ In addition, officials from the National Transport Medical Institute (NTMI) and 
 ◼️
 
 [Data](articles/975fc92b.json)
+
+---
+
+### අයිස් සෑදීමට ගෙනා පද්මෙගේ රසායනික ද්‍රව්‍ය අද රස පරීක්ෂණයට
+
+*2025-09-06 10:37:00* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සෑදීමට-ගෙනා-පද්මෙගේ-රසායනික-ද්‍රව්‍ය-අද-රස-පරීක්ෂණයට/11-418310) · `si`
+
+මිද්දෙණිය, තලාව ප්‍රදේශයේ ඉඩමක වළදමා තිබියදී සොයාගත්, අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට භාවිත කරන රසායනික ද්‍රව්‍ය තොගය අද (06) දිනයේ රස පරීක්ෂකවරයා නිරීක්ෂණය කිරීමට නියමිතයි.
+
+රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් පමණ මෙහිදී සොයාගැනුණු අතර, බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසයේ රඳවා සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජික බැකෝ සමන් නැමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වල දී සඟවා තිබූ මෙම රසායනික ද්‍රව්‍ය ඊයේ (05) සොයා ගැනුණි.
+
+සංවිධානාත්මක අපරාධ කල්ලි නායක කෙහෙල්බද්දර පද්මේ නැමැත්තා විසින් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට අදාළ රසායනික ද්‍රව්‍ය මෙරටට ගෙන්වූ බව බැකෝ සමන් හෙළිකර ඇති බව පොලිස් විමර්ශන නිලධාරීන් කියයි.
+
+මේ අතර මෙම රසායනික ද්‍රව්‍ය තොගය ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පළාත් පාලන මන්ත්‍රීවරයෙක් හා ඔහුගේ සහෝදරයා විසින් තබාගෙන සිට ඇති බවයි අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/f99029df.json)
 
 ---
 
@@ -1795,43 +1835,5 @@ Anutin did not speak to the house before the vote, during which he passed the th
 ...
 
 [Data](articles/ae8fa237.json)
-
----
-
-### Cause of Ella bus accident? – Survivor reveals driver’s warning of brake fault
-
-*2025-09-05 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112205/cause-of-ella-bus-accident-survivor-reveals-drivers-warning-of-brake-fault) · `en`
-
-Police stated that initial investigations into the Ella bus accident revealed that the crash occurred due to the bus traveling at excessive speed and the driver losing control.
-
-However, a survivor of the tragedy told the media that the bus driver had complained of a brake fault shortly before the accident.
-
-“At a bend near the waterfall, he said there were no brakes. I was sitting on the bonnet and talking. When the driver said that, the conductor laughed. Someone seated next to him also laughed, saying ‘don’t lie.’ At the next bend, he repeated that there were no brakes. Then we realized the brakes had failed. A vehicle came along at that moment, and the bus went downhill after hitting it. At that time, I thought it was over,” the survivor recounted.
-
-“I woke up to the sound of a small child crying after the bus plunged. I tried to get up with the child and climb out. Then I screamed, and people came,” he added.
-
-...
-
-[Data](articles/99090aba.json)
-
----
-
-### 250 நீர்த்தேக்கங்களில் மீன் வளங்களைப் பாதுகாக்க நடவடிக்கை முன்னெடுப்பு
-
-*2025-09-05 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224281) · `ta`
-
-மீன்வளங்களின் இழப்பைத் தடுக்கவும், உள்நாட்டு மீன் உற்பத்தியை அதிகரிக்கவும், 2 ஆண்டுகளில் 250 நிரந்தர நன்னீர் நீர்த்தேக்கங்களில் தடுப்பு வலைகளை நிறுவும் திட்டத்திற்கு அராசாங்கம் அனுமதி அளித்துள்ளதாக, அரசாங்க தகவல் திணைக்களம் அறிக்கையொன்றினூடாக தெரிவித்துள்ளது.
-
-பல்வேறு காரணங்களுக்காக நீர் திறக்கப்படும்போது, வருடந்தோறும் நன்நீர்த்தேக்கம் ஒன்றிலிருந்து 20 ஆயிரம் முதல் 40 ஆயிரம் கிலோகிராம் வரையிலான மீன்கள் அடித்துச் செல்லப்படுவதாக குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
-
-குறிப்பாக இனப்பெருக்க திறன் கொண்ட முதிர்ந்த மீன்களின் இழப்பு, எதிர்கால மீன்வளத்தை கடுமையாகக் குறைத்துள்ளது.
-
-மேலும் கிராமப்புறங்களில் உள்ள மக்களுக்கு சத்தான உணவை வழங்குவதில் நன்னீர் மற்றும் மீன்வளர்ப்பு விவசாயம் முக்கிய பங்கு வகிக்கிறது எனவும் அந்த அறிக்கையில் கூறப்பட்டுள்ளது.
-
-உத்தியோகபூர்வ தரவுகளின்படி, இலங்கையில் 95 வகையான நன்னீர் மீன்கள் காணப்படுவதாக தெரிவிக்கப்படுகிறது. அவற்றில் 52 இனங்கள் நாட்டிற்கு சொந்தமானவை என குறிப்பிடப்படுகிறது.
-
-◼️
-
-[Data](articles/cdf4eacf.json)
 
 ---

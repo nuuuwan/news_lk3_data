@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 11:51:51**
+As of **2025-09-06 12:09:16**
 
 ## Newspaper Stats
 
-*Scraped **74,413** Articles*
+*Scraped **74,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 4,573
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,194
-adaderanalk | 9,510
+adaderanalk | 9,511
 tamilmirrorlk | 11,072
-virakesarilk | 12,171
-adaderanasinhalalk | 12,941
+virakesarilk | 12,174
+adaderanasinhalalk | 12,942
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.3%) of 74,413 articles have been extended.
+61,973 (83.3%) of 74,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-06 (Saturday)
+
+### මෙරට පොලිස් ඉතිහාසයේ ප්‍රථමවරට කාන්තා DIG සිව්දෙනෙක් පත් කෙරේ
+
+*2025-09-06 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214234) · `si`
+
+මෙරට පොලිස් ඉතිහාසයේ ප්‍රථමවරට කාන්තා නියෝජ්‍ය පොලිස්පතිවරියන් 4 දෙනෙකු පත්කර තිබේ.
+
+ජාතික පොලිස් කොමිෂන් සභාව විසින් අනුමත කර ලබාදුන් ලැයිස්තුවට අදාළව පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් ඊට අදාළ අනුමැතිය ලබාදී ඇත.
+
+ඒ අනුව දර්ශිකා කුමාරි, පද්මිණී වීරසූරිය, රේණුකා ජයසුන්දර සහ නිශානි සෙනෙවිරත්න නව කාන්තා නියෝජ්‍ය පොලිස්පතිවරියන් ලෙස වැඩ භාරගැනීමට නියමිතය.
+
+ආධුනික උප පොලිස් පරීක්ෂකවරියන් ලෙස මින් තිදෙනෙකු 1997 වසරේදී ශ්‍රී ලංකා පොලිස් සේවයට එක්වී තිබේ.
+
+ඒ අනුව අදාළ උසස්වීම් මෙම වසරේ ජනවාරි මස 01 වනදා සිට බලපැවැත්වෙන පරිදි ක්‍රියාත්මක කෙරෙන බවද සඳහන් ය.
+
+මෙම පොලිස් නිලධාරිනියන් 4 දෙනාගෙන් දර්ශිකා කුමාරි පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ අණ දෙන නිලධාරිනිය ලෙස මේ වනවිටත් කටයුතු කරනු ලබන අතර ඇය එම මූලස්ථානයේ පළමු කාන්තා අනදෙණ නිලධාරිනියද වෙයි.
+
+මේ වනවිට කළුතර දිසාව භාර වැඩබලන නියෝජ්‍ය පොලිස්පතිනිය ලෙස පද්මිණී වීරසූරිය කටයුතු කරන අතර ඇය පොලිස් ඉතිහාසයේ දිස්ත්‍රික්කයක් භාරව කටයුතු කළ පළමු නිලධාරිනිය ද වෙයි.
+
+...
+
+[Data](articles/3a2d559b.json)
+
+---
+
+### சஷீந்திர ராஜபக்ஷ சிறைச்சாலை வைத்தியசாலையில் அனுமதி!
+
+*2025-09-06 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224353) · `ta`
+
+தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+22 ஆம் ஆண்டில் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட போராட்டங்களின் போது தீக்கிரையாக்கப்பட்ட செவனகல - கிரிப்பன் வேவ பகுதியில் உள்ள அரசாங்க நிலத்திற்கு மற்றொரு நபர் மூலம் இழப்பீடு பெற்ற சம்பவம் தொடர்பில் முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ நுகேகொடை பகுதியில் உள்ள அவரது வீட்டில் வைத்து இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் ஆகஸ்ட் 06 ஆம் திகதி காலை கைதுசெய்யப்பட்டார்.
+
+கைதுசெய்யப்பட்ட சஷீந்திர ராஜபக்ஷ கொழும்பு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+இந்நிலையில், விளக்கமறியலில் வைக்கப்பட்டுள்ள சஷீந்திர ராஜபக்ஷ உடல்நலக்குறைவு காரணமாக சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/28ae9861.json)
+
+---
+
+### வெனிசுலாவில் உள்ள போதைப்பொருள் விற்பனையாளர்கள் மீது அமெரிக்கா தாக்குதல்!
+
+*2025-09-06 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224351) · `ta`
+
+வெனிசுலாவில் உள்ள போதைப்பொருள் விற்பனையாளர்கள் மீது தாக்குதல் நடத்த அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் திட்டமிட்டு வருவதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இதற்காக F-35 போர் விமானங்கள் ஏற்பாடு செய்யப்பட்டுள்ளதாக அறிக்கைகள் தெரிவிப்பதாக சர்வதேச ஊடகமொன்று தெரிவித்துள்ளது.
+
+வெனிசுலாவின் ஜனாதிபதி நிக்கோலஸ் மதுரோவுக்கு அழுத்தம் கொடுக்க வடிவமைக்கப்பட்ட போதைப்பொருள் விற்பனையாளர்களுக்கு எதிரானவே இந்த தாக்குதல்கள் நடத்தப்படுவதாக குறிப்பிடப்படுகிறது.
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் புவேர்ட்டோ ரிக்கோவில் F-35 ஸ்டெல்த் போர் விமானங்களை நிறுத்த உத்தரவிட்டதாக அந்நாட்டு ஊடகங்கள் தெரிவித்தன.
+
+"போதைப்பொருள் பயங்கரவாத" அமைப்புகளாக வொஷிங்டனால் நியமிக்கப்பட்ட லத்தீன் அமெரிக்க போதைப்பொருள் விற்பனையாளர்களுக்கு எதிரான நடவடிக்கைகளின் ஒரு பகுதியாக, மேம்பட்ட போர் விமானங்களில் 10 போர் விமானங்கள் புவேர்ட்டோ ரிக்கோவில் உள்ள ஒரு விமானநிலையத்திற்கு அனுப்பப்படுவதாக அமெரிக்க வட்டாரங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/846cb6d7.json)
+
+---
 
 ### වී මෙට්‍රික්ටොන් 40,000කට වැඩි ප්‍රමාණයක් රජය මිලදී ගනී
 
@@ -70,13 +132,51 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Shasheendra Rajapaksa admitted to Prison Hospital
+
+*2025-09-06 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112220/shasheendra-rajapaksa-admitted-to-prison-hospital) · `en`
+
+Former State Minister Shasheendra Rajapaksa, who is currently in remand custody, has been admitted to the Prison Hospital, the Prisons Department confirmed.
+
+On August 29, the Colombo Magistrate’s Court further remanded Rajapaksa until September 12. The court also rejected a bail application filed on his behalf. Colombo Chief Magistrate Asanka S. Bodaragama ordered that the former state minister remain in remand custody until the specified date.
+
+Rajapaksa was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on August 06 at his residence in Nugegoda.
+
+He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
+
+...
+
+[Data](articles/aa4b944a.json)
+
+---
+
+### எல்ல பஸ் விபத்தில் உயிரிழந்த தங்காலை நகர சபை ஊழியர்களின் பூதவுடல்கள் தங்காலை நகர சபையில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளன!
+
+*2025-09-06 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224347) · `ta`
+
+எல்ல - வெல்லவாய பிரதான வீதியில் ஏற்பட்ட பஸ் விபத்தில் உயிரிழந்த தங்காலை நகர சபை ஊழியர்களின் பூதவுடல்கள் தங்காலை நகர சபைக்கு கொண்டு வரப்பட்டு அஞ்சலிக்காக வைக்கப்பட்டுள்ளன.
+
+உயிரிழந்த 10 தங்காலை நகர சபை ஊழியர்களின் பூதவுடல்கள் நகர சபைக்கு கொண்டு வரப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+தங்காலை பகுதியில் இருந்து சுற்றுலா பயணமாக வந்த ஒரு குழுவினரை ஏற்றிச் சென்ற பேருந்து நேற்று முன்தினம் (04) எல்ல பொலிஸ் பிரிவிற்குட்பட்ட எல்ல - வெல்லவாய பிரதான வீதியில் விழுந்து விபத்துக்குள்ளானதில் 15 பேர் உயிரிழந்தனர்.
+
+விபத்தில் காயமடைந்த 18 பேர் பதுளை போதனா வைத்தியசாலை, பண்டாரவளை மற்றும் தியத்தலாவை வைத்தியசாலைகளில் அனுமதிக்கப்பட்டு, சிகிச்சை பெற்று வருகின்றமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/087e584b.json)
+
+---
+
 ### Another shooting incident reported in Pandaura
 
 *2025-09-06 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112219/another-shooting-incident-reported-in-pandaura) · `en`
 
 Another shooting incident has been reported this morning (06) in the Alubomulla area of Panadura.
 
-According to police, two individuals on a motorcycle opened fire and fled the area.
+According to police, two unidentified individuals on a motorcycle opened fire at a shop in the Sandagalawatta area of Alubomulla using a 9mm pistol and fled the area.
+
+However, a woman was inside the shop at the time, but the bullet struck a refrigerator, narrowly missing her, said police.
 
 ◼️
 
@@ -1709,87 +1809,5 @@ Former Sri Lanka cricketer Roshan Mahanama has stepped down from his role as a m
 ◼️
 
 [Data](articles/20e8f14e.json)
-
----
-
-### ඇල්ල අනතුරට පත් බස් රියේ තිරිංග නොමැති වෙලා දිවි බේරාගත් කාන්තාවක් අත්දැකීම කියයි
-
-*2025-09-05 13:17:27* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රියේ-තිරිංග-නොමැති-වෙලා-දිවි-බේරාගත්-කාන්තාවක්-අත්දැකීම-කියයි/11-418300) · `si`
-
-"ඇල්ල පල්ලමේ බස්‍ රථය  ධාවනය වෙමින් තිබියදී බසයේ සහයක එක්වරම බස්‍ එක බ්‍රේක් ඩවුන් වෙලා ඔක්කොම අය හයියෙන් අල්ලාගෙන පහත් වෙන්න කියා බසයේ සිටි සියලු දෙනාට හයියෙන් කෑගසා  කිව්වා . ඒ සමගම  බස්‍ රථය දඩාං, දඩාං ගා විශාල ශබ්දයක් නගමින් එක්වරම පාර අයිනේ තිබු ආරක්ශිත  යකඩ වැටක දෙපාරක් ගැටී රාවනාඇල්ල ප්‍රපාතයට පෙරලී ගියා.ඒ  සමග ප්‍රපාතයෙ පහලට පෙරලීගිය බසයෙ ජනේලයක් ගැලවී ගොස් මා බසයෙන් එළියට විසිවී  ප්‍රපාතයෙ පදුරක් උඩට වැටුනා. ඒ අසලම පොඩ් බබෙක්, සදානා   , නිලූකා මිස්  වැටී කෙදිරිගාමින් උදවු ඉල්ලමින් කෑගැසුවා "
-
-...
-
-[Data](articles/840f1675.json)
-
----
-
-### ඇල්ල බස් අනතුරට හේතුව ? -  තුවාල ලැබූ අයෙකුගෙන් හෙළිදරව්වක්
-
-*2025-09-05 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214201) · `si`
-
-ඇල්ල පොලිස් වසමේ ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ තංගල්ල ප්‍රදේශයේ සිට විනෝද චාරිකාවක් පැමිණි පිරිසක් රැගත් බස් රථයක් එම මාර්ගයේ 24 වන කිලෝමීටර් කණුව ආසන්නයේ ප්‍රපාතයකට පෙරළී සිදුවූ අනතුරකින් මේ වනවිට මියගොස් ඇති සංඛ්‍යාව 15 දෙනෙකු බව පොලීසිය පවසයි.
-
-ඇල්ල වැල්ලවාය මාර්ගයේ 23 සහ 24 කිලෝමීටර් කණුව අසල ප්‍රදේශයේදී ඊයේ (04) රාත්‍රී 9ට පමණ අනතුර සිදුවී ඇත.
-
-අදාළ බස් රථය ඉදිරියෙන් පැමිණි සුඛෝපභෝගී මෝටර් රථයකද ගැටී මාර්ගයේ ආරක්ෂිත යකඩ වැටේද ගැටී අඩි 1000ක පමණ ප්‍රපාතයකට පෙරළී තිබේ.
-
-කෙසේවෙතත් අනතුරින් පසුව ඉතා යුහුසුළුව ක්‍රියාත්මක වූ ප්‍රදේශවාසීන්, ආරක්ෂක අංශ මෙන්ම මුදාගැනීමේ කණ්ඩායම් තුවාලකරුවන් රෝහල්ගත කිරීමට පියවර ගෙන තිබුණි.
-
-මේ වනවිට පිරිමි පුද්ගලයින් 6ක්, කාන්තාවන් 5ක්, පිරිමි දරුවන් 3ක් සහ දැරියන් දෙදෙනෙකු ඇතුළු 18 දෙනෙකු බදුල්ල ශික්ෂණ රෝහල, බණ්ඩාරවෙල සහ දියතලාව යන රෝහල්වල ප්‍රතිකාර ලබමින් පසුවෙයි.
-
-මියගිය අය අතර පිරිමි පුද්ගලයින් 6ක් සහ කාන්තාවන් 9ක් සිටින බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
-
-...
-
-[Data](articles/4670e631.json)
-
----
-
-### ’’பிரேக் பிடிக்குது இல்லை என்றார் சாரதி:  பொய் சொல்கிறார் என்றனர்’’
-
-*2025-09-05 12:44:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரேக்-பிடிக்குது-இல்லை-என்றார்-சாரதி-பொய்-சொல்கிறார்-என்றனர்/175-364063) · `ta`
-
-பேருந்து வளைவில் செல்லும் போது சாரதி  பிரேக் பிடிக்குது இல்லை என்றார் நடத்துனரும் மற்றவர்களும் சிரித்தபடி பொய் சொல்கிறார என்றார்கள். அடுத்த வளைவில் செல்லும் போது தான் பொய் சொல்லவில்லை. உண்மையை சொல்கிறேன் என்றார்.
-
-திடீரென்று பேருந்தை நிறுத்த தொடங்கிய போது எனக்கு உண்மையில் பிரச்சினை இருப்பது தெரிந்தது. நான் இன்ஜின்பகுதி மேல் இருந்தேன் நான் அப்போதே முடிந்துவிட்டேன்    என நினைத்தேன். நான் சுயநினைவு பெற்று கண்களைத் திறந்தபோது நான் உயிருடன் இருக்கிறேன்   என  எல்ல – வெல்லவாய பேருந்து   விபத்தில் காயமடைந்த ஒருவர் வைத்தியசாலையில்  கருத்து தெரிவித்துள்ளார்
-
-◼️
-
-[Data](articles/b239cf52.json)
-
----
-
-### Sri Lanka to protect fish resources in 250 reservoirs
-
-*2025-09-05 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112202/sri-lanka-to-protect-fish-resources-in-250-reservoirs) · `en`
-
-The Sri Lankan government has approved a proposal to install barrier nets in 250 permanent freshwater reservoirs in two years to prevent the loss of fish stock and increase inland fish production, a statement by the Department of Government Information said on Thursday.
-
-The statement noted that between 20,000 and 40,000 kg of fish are washed out of a single freshwater reservoir annually when the water is released for various reasons.
-
-The loss of mature fish, particularly those with reproductive capacity, has severely depleted future fish stocks, the statement said, adding that freshwater and aquaculture farming play a major role in providing nutritious food for people in rural areas.
-
-According to official data, Sri Lanka has 95 species of freshwater fish and 52 of them are endemic to the country.
-
-◼️
-
-[Data](articles/adbba58c.json)
-
----
-
-### 48 ஆயிரத்து 925 கஞ்சா செடிகளுடன் 29 பேர் கைது!
-
-*2025-09-05 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224273) · `ta`
-
-பொலிஸ் மா அதிபரின் அறிவுறுத்தலின் பேரில் நாடளாவிய ரீதியில் கடந்த 5 நாட்களில் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பில் 48 ஆயிரத்து 925 கஞ்சா செடிகளுடன் 29 சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
-
-அதேநேரம், கடந்த 5 நாட்களில் ஏனைய போதைப்பொருட்களுடன் 3 ஆயிரத்து 27 பேர் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-அவர்களில், 2 ஆயிரத்து 998 பேர் ஹெரோயின், ஐஸ், ஹாஷ், கஞ்சா, போதைப்பொருள் மற்றும் சட்டவிரோத சிகரெட்டுகளை வைத்திருந்ததாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/1a7a96ea.json)
 
 ---

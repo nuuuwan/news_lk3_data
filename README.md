@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 19:06:04**
+As of **2025-09-07 18:55:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,548 (83.8%) of 74,597 articles have been extended.
+62,534 (83.8%) of 74,597 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,15 +44,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ඒ අනුව ශ්‍රී ලංකාවට ජයග්‍රාහණය සඳහා ලකුණු 192ක ඉලක්කයක් හිමිවිය.
 
-හරාරා ක්‍රීඩාංගණයේ පැවති මෙම තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දු යැවීමට තීරණය කළේය.
-
-සිම්බාබ්වේ කණ්ඩායම වෙනුවෙන් Tadiwanashe Marumani ලකුණු 51ක් රැස් කළ අතර නායක Sikandar Raza ලකුණු 28ක් රැස් කිරීමට සමත් විය.
-
-Sean Williams ලකුණු 23ක් ලබා සිටියදී දැවී ගිය අතර Brian Bennett ලකුණු 13කට දැවී ගියේය.
-
-පන්දු යැවීමේ දී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් දුෂාන් හේමන්ත කඩුලු 3ක් දවා ගැනීමට සමත් වූ අතර දුෂ්මන්ත චමීර කඩුලු 2ක් දවා ගත්තේය.
-
-...
+◼️
 
 [Data](articles/12120caa.json)
 

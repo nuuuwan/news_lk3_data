@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 14:54:31**
+As of **2025-09-07 17:05:36**
 
 ## Newspaper Stats
 
-*Scraped **74,562** Articles*
+*Scraped **74,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,453 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 757
-economynextcom | 4,523
+economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,210
-adaderanalk | 9,538
-tamilmirrorlk | 11,099
-virakesarilk | 12,187
-adaderanasinhalalk | 12,983
+adalk | 7,213
+adaderanalk | 9,541
+tamilmirrorlk | 11,107
+virakesarilk | 12,192
+adaderanasinhalalk | 12,987
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,276 (83.5%) of 74,562 articles have been extended.
+62,443 (83.7%) of 74,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### තීරණාත්මක සටනේ කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2025-09-07 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214283) · `si`
+
+ශ්‍රී ලංකාව හා සිම්බාබ්වේ අතර අද (7) පැවැත්වෙන තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා නායක චරිත් අසලංක සමත් විය.
+
+මෙතෙක් පැවති තරග දෙක එක් තරගය බැගින් කණ්ඩායම් දෙක ජයගෙන ඇති බැවින් මෙම තරගයෙන් ජයගන්නා කණ්ඩායමට ශූරතාව දිනාගැනීමට හැකිවේ.
+
+ඒ අනුව කුසල් ජනිත් හා මතීෂ පතිරණ කැඳවා ඇති අතර, නුවනිඳු ප්‍රනාන්දු හා මහීෂ් තීක්ෂණ ඒ හේතුවෙන් විවේක ගන්වා ඇත.
+
+◼️
+
+[Data](articles/013a08e3.json)
+
+---
+
+### புற்றுநோய்த் தடுப்பூசி கண்டுபிடிப்பு
+
+*2025-09-07 16:30:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புற்றுநோய்த்-தடுப்பூசி-கண்டுபிடிப்பு/50-364151) · `ta`
+
+ரஷ்ய என்டோரோமிக்ஸ் புற்றுநோய் தடுப்பூசி இப்போது மருத்துவ பயன்பாட்டிற்கு தயாராக உள்ளது என்று ரஷ்ய கூட்டாட்சி மருத்துவ மற்றும் உயிரியல் நிறுவனம் (FMBA) அறிவித்துள்ளது.
+
+FMBD தலைவர் வெரோனிகா ஸ்க்வோர்ட்சோவா கூறுகையில், mRNA அடிப்படையிலான தடுப்பூசி முன் மருத்துவ பரிசோதனைகளை வெற்றிகரமாக நிறைவேற்றியுள்ளது, இது அதன் பாதுகாப்பு மற்றும் உயர் செயல்திறனை நிரூபிக்கிறது.
+
+இந்த தடுப்பூசி கட்டிகளைச் சுருக்குவதிலும் அவற்றின் வளர்ச்சியைக் குறைப்பதிலும் குறிப்பிடத்தக்க பெறுபேறுகளைக் காட்டியது, மேலும் மீண்டும் மீண்டும் பயன்படுத்துவதற்குப் பாதுகாப்பானதாகவும் கண்டறியப்பட்டுள்ளது.
+
+இந்த தடுப்பூசி ஒவ்வொரு நோயாளிக்கும் ஏற்றவாறு தனிப்பயனாக்கப்படும், அவர்களின் தனிப்பட்ட ஆர்.என்.ஏ-வுக்கு ஏற்ப வடிவமைக்கப்பட்டுள்ளது என்று ஸ்க்வோர்ட்சோவா கூறினார்.
+
+தடுப்பூசியின் முதல் வடிவம் பெருங்குடல் புற்றுநோய்க்கு சிகிச்சையளிக்கப் பயன்படுத்தப்படும் என்றும், மற்றொரு பதிப்பு மூளை புற்றுநோய் - கிளியோபிளாஸ்டோமா - மற்றும் குறிப்பிட்ட வகை மெலனோமா, தோல் புற்றுநோய் - உருவாக்கத்தில் உள்ளது என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/f735182d.json)
+
+---
+
+### ”அரசாங்கத்தின் பொய் பிரச்சாரங்களைப் பொறுக்க முடியாது”
+
+*2025-09-07 16:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-பொய்-பிரச்சாரங்களைப்-பொறுக்க-முடியாது/175-364149) · `ta`
+
+தற்போதைய அரசாங்கத்தால் மேற்கொள்ளப்படும் தொடர்ச்சியான அவதூறு பிரச்சாரங்களை பொறுத்துக்கொள்ள மாட்டோம் என்றும், எதிர்காலத்தில் இதுபோன்ற நடைமுறைகள் தொடர அனுமதிக்க மாட்டோம் என்றும் ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) தெரிவித்துள்ளது.
+
+கட்சி தலைமையகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் பேசிய SLPP தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ, "தங்கக் குதிரைகள்", துபாய் மரியட் ஹோட்டல், உகாண்டாவில் உள்ள நிதி மற்றும் ரொக்கெட்டுகள் தொடர்பான கடந்த கால குற்றச்சாட்டுகளை மேற்கோள் காட்டி, ராஜபக்ச குடும்பத்தினர் மீது மீண்டும் மீண்டும் சுமத்தப்பட்ட பொய்யான குற்றச்சாட்டுகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என்றார். சமீபத்திய கொள்கலன் சர்ச்சை தொடர்பாக இப்போது ஒரு புதிய அவதூறு பிரச்சாரம் உருவாகியுள்ளது என்றும் கூறினார்.
+
+ஜனவரி மாதம் கொழும்பு துறைமுகத்திலிருந்து 323 கொள்கலன்கள் ஆய்வு இல்லாமல் விடுவிக்கப்பட்டது குறித்து அரசாங்கத்திடம் கேள்வி எழுப்பிய ராஜபக்ச, நாட்டிற்குள் என்னென்ன பொருட்கள் கொண்டு வரப்பட்டன என்பதை அதிகாரிகள் வெளியிட வேண்டும் என்றும் கோரினார்.
+
+...
+
+[Data](articles/3b6f0064.json)
+
+---
+
+### Japan resigns
+
+*2025-09-07 16:19:33* · [`adalk`](https://www.ada.lk/international/ජපාන-අගමැති-ඉල්ලා-අස්වෙයි/3-418328) · `si`
+
+Japanese Prime Minister Shi ඩරියා liziba announced the resignation of the liberal democratic part of the Japan's ruling party.
+
+Living costs, rice policy reforms, and the major colleagues of the world, and the main colleagues of the country, Japan, pulls into new political uncertainty.
+
+Since last year, Isibea to power and in July, in July, he was in the midst of vocabulary anger, including the historical defeat, including a historic defeat in Japan
+
+The LDP Leading Alliance lost the majority in elections in elections.
+
+He had more demands to resign from the righting opponents within the post-war period.
+
+His party is to vote on holding a first leadership election on Monday
+
+Among it will be a virtual no-confidence motion against Isiba.
+
+Eshiba ended the details of a trade agreement with the United States last week, and Under it, Japan promised $ 550 billion for low duties in his car division.
+
+◼️
+
+[Data](articles/74c6bc4d.json)
+
+[Extended Data](ext_articles/74c6bc4d.ext.json)
+
+---
+
+### Japanese Prime Minister Shikheru Ishiba
+
+*2025-09-07 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224456) · `ta`
+
+International media reports that Japanese Prime Minister Shikheru Ishiba has announced his resignation.
+
+He announced that he would resign in the July election in order to prevent the division of the Liberal Democratic Party.
+
+Shigeru Ishiba, 68, took over as prime minister of Japan in October last year. He is also in charge of the leader of the LDP party. In July, he suffered a setback at the top of the Japanese parliament.
+
+His LDB party and its alliance have not received a majority. Earlier, in the Japanese election held last year, his LTTE alliance did not get a majority in the Lok Sabha.
+
+Over the past few months, the members of his party have urged Prime Minister Shikheru Ishiba to resign.
+
+At a meeting in July and August, he was commented on him. However, he refused to resign, pointing out the US tax on Japan and the situation faced by the country.
+
+...
+
+[Data](articles/53db1c83.json)
+
+[Extended Data](ext_articles/53db1c83.ext.json)
+
+---
+
+### Prohibition of lorries carrying mineral items during school hours
+
+*2025-09-07 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/224458) · `ta`
+
+Lorries transporting minerals during school hours are forbidden to go on the streets.
+
+It is reported that the Geological Survey and the Mining Bureau have been suspended for transporting minerals during school time for road safety reasons.
+
+Director General Deepani Weerakoon said that the decision was taken following a recent accident in the recent accident in Tipper and the school van.
+
+Accordingly, the vehicles carrying minerals should be parked in the roadside areas from 6:30 am to 7:45 am and 11:30 am to 2:30 pm.
+
+Awareness announcements have been issued through Divisional Secretariats across the country since September 4.
+
+◼️
+
+[Data](articles/a6f07b4a.json)
+
+[Extended Data](ext_articles/a6f07b4a.ext.json)
+
+---
+
+### Actor Prakash Raj arrived
+
+*2025-09-07 16:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-பிரகாஷ்-ராஜ்-வந்தடைந்தார்/175-364146) · `ta`
+
+Kollywood artist Prakash Raj arrived at the Katunayake airport on Sunday (07) to attend an alternative concert called "Song of Resilience" in partnership with the "Neeilini" Global Conference.
+
+◼️
+
+[Data](articles/71ccb6d7.json)
+
+[Extended Data](ext_articles/71ccb6d7.ext.json)
+
+---
+
+### A pronouncement of strong lightning
+
+*2025-09-07 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214282) · `si`
+
+The Department of Meteorology has issued an announcement in a strong lightning and heavy rains.
+
+The announcement issued at 03:00 pm today (07) will be valid from 03:00 pm today.
+
+At the evening of the Northern, North Central and Eastern provinces, in the evening or the Eastern provinces, there is an increase in lightning.
+
+There may be temporary localized strong winds during thundershowers.
+
+The Meteorology Department requests people to take necessary steps to minimize the damages caused by lightning.
+
+◼️
+
+[Data](articles/25e09a00.json)
+
+[Extended Data](ext_articles/25e09a00.ext.json)
+
+---
+
+### Detention of Piyal Manamparigory and interrogated
+
+*2025-09-07 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214281) · `si`
+
+Chemicals used in Middeniya, Middeniya, in the Talawa house in Middeniya, has been granted permission today (07).
+
+He has detained seven days at the time of his presented to the Walasmulla Magistrate's Court this morning.
+
+◼️
+
+[Data](articles/f35e76ea.json)
+
+[Extended Data](ext_articles/f35e76ea.ext.json)
+
+---
+
+### Social media fraud using banking information - police warning
+
+*2025-09-07 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224449) · `ta`
+
+Police have issued a warning to those who use banking information through social media.
+
+Police said that a fraud that falsely claims to give gifts on behalf of the bank is currently spreading on social media.
+
+The news is a part of a fraud designed to deceive the public, police said.
+
+This fraud is said to be designed to steal personal information and damage the software on the mobile phone.
+
+Nirosh Ananda, Chief Information Security Officer of the Sri Lanka Computer Emergency Response Committee (SLCERT), said that their organization has received a number of complaints regarding the issue.
+
+He also said that those who carry out bank activities with mobile phones should be aware of such fraudulent news.
+
+◼️
+
+[Data](articles/eafe9e5e.json)
+
+[Extended Data](ext_articles/eafe9e5e.ext.json)
+
+---
+
+### Two killed in Russian drone attack in Given, Ukraine's capital
+
+*2025-09-07 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/224423) · `ta`
+
+Two people have been killed and 11 injured in the drone attack on the Ukrainian capital Give, according to international media.
+
+Givin's military executive chairman said that the child was one of the victims and the child's body was recovered from the wreckage.
+
+Russia has also carried out attacks on Girivi Rih, a hometown of Ukrainian President Volodimir Jelensky.
+
+Meanwhile, air strike warnings to all parts of the country have been implemented all night.
+
+The new attack has taken place as Russian President Vladimir Putin is tightening his warning to the West not to help Ukraine.
+
+◼️
+
+[Data](articles/246f9b08.json)
+
+[Extended Data](ext_articles/246f9b08.ext.json)
+
+---
+
+### US Open Women's Championship in Belarusa
+
+*2025-09-07 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214280) · `si`
+
+2025 The World's Number Tennis in Belarusi was won by the American Tennis Championship at the Tennis Championship of the Tennis Championship (US Open).
+
+In the final of the end of the end of the end of this morning, she was defeated in the United States.
+
+When the match is played, she was 8-3 runs in the face of the world, she was defeated 6-3 and 7-6 (3) marks.
+
+This is the second to win the women's singles championship at the 27th-year-old Tennis Tournament.
+
+And this is the 4th Grands Slum Champion.
+
+She has won the Australian Open Tennis Championship in 2023 and 2024 years ago.
+
+◼️
+
+[Data](articles/5d1b9560.json)
+
+[Extended Data](ext_articles/5d1b9560.ext.json)
+
+---
+
+### Israel's Defense Minister who posted video on X site
+
+*2025-09-07 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224417) · `ta`
+
+International media reports that the Israeli military has destroyed the tallest building in Gaza as the attack on the city of Gaza has intensified.
+
+Israeli Defense Minister Israel Gadz has posted a video of the building collapsing titled "We continue."
+
+In Gaza, Israeli security forces, which are expanding the operations, have said Hamas use the Suzi tower.
+
+◼️
+
+[Data](articles/de62dfb5.json)
+
+[Extended Data](ext_articles/de62dfb5.ext.json)
+
+---
+
+### There is no uterus for underworld to be born in the country
+
+*2025-09-07 15:20:52* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයක්-ආය-රටතුල-බිහි-වෙන්න-ගර්භාෂයක්-නෑ/11-418327) · `si`
+
+"There is no uterus for underworld return to birth. Because now that is the corrupt plot. " Plantations and Community Development Minister Samantha Vidyaratne says
+
+The minister said that (07), he said that after attending a ceremony in Hatton, making a special statement.
+
+"The lamp will say, but you say gascy gaszi. The underworld has come into corrupt politics. Not in the past few days. The underworld was the same with politics. And when the crisis comes, each other is to be attacked. The underworld was not only in Sri Lanka and it was out. Now is over to find azmal nearer. Now clean one by one. I think this is clear to the people of the country that there is no pardon. Therefore, it is impossible to smuggle the underworld.
+
+...
+
+[Data](articles/913deefb.json)
+
+[Extended Data](ext_articles/913deefb.ext.json)
+
+---
+
+### Horror experience of a soldier who was injured in the rescue operation
+
+*2025-09-07 14:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பு-பணியில்-காயமடைந்த-இராணுவ-வீரரின்-திகில்-அனுபவம்/175-364143) · `ta`
+
+You know that two soldiers who were involved in a horrific bus accident on Thursday night (04) night on Ella-Wellawaya Road were injured and two were injured.
+
+One of them, Madushan Bandara, a second special Task Force, who lives in Ella Karadakolla, is being treated at the Badulla Teaching Hospital when he was involved in a rock when he was involved in the rescue operation.. He described the incident as follows:
+
+“I was on vacation. My uncle was on a ritual house. When I was with my friends, we got a call that an accident happened. Then my friends told us to go. I and the other two friends went home, taking the bike and torch, and the trio crossed about eight kilometers away.
+
+We went as fast as we could. When we went there, the group was overflowing. It is difficult to go down to the bottom of the accident.  Get down and we told you to put down the rope. Then they sent the rope from top to bottom.
+
+...
+
+[Data](articles/2c253072.json)
+
+[Extended Data](ext_articles/2c253072.ext.json)
+
+---
+
+### The story of a soldier who was injured in the rescue operation
+
+*2025-09-07 14:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பு-பணியில்-காயமடைந்த-இராணுவ-வீரரின்-கதை/175-364143) · `ta`
+
+You know that two soldiers who were involved in a horrific bus accident on Thursday night (04) night on Ella-Wellawaya Road were injured and two were injured.
+
+One of them, Madushan Bandara, a second special Task Force, who lives in Ella Karadakolla, is being treated at the Badulla Teaching Hospital when he was involved in a rock when he was involved in the rescue operation.. He described the incident as follows:
+
+“I was on vacation. My uncle was on a ritual house. When I was with my friends, we got a call that an accident happened. Then my friends told us to go. I and the other two friends went home, taking the bike and torch, and the trio crossed about eight kilometers away.
+
+We went as fast as we could. When we went there, the group was overflowing. It is difficult to go down to the bottom of the accident.  Get down and we told you to put down the rope. Then they sent the rope from top to bottom.
+
+...
+
+[Data](articles/77e054cb.json)
+
+[Extended Data](ext_articles/77e054cb.ext.json)
+
+---
+
+### 29th anniversary
+
+*2025-09-07 14:51:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-ஆம்-ஆண்டு-நினைவேந்தல்/175-364142) · `ta`
+
+The 29th anniversary event of Krishna Kumaraswamy, who was assassinated after being sexually abused by the army in Chemmani, took place on Sunday (07).
+
+The event was held at 9.30 am in the Semmani alley.
+
+Chandrakanthan Mayuran and relatives of the murdered Krishna Kumaraswamy at this commemoration event
+
+In addition, the book "Vasalee Krusanthi" was published
+
+Tamilnadu Party MP Sivagnanam Sreedharan, former MPs Selvarajah Gajendran, MK Sivajilingam, Valikamam East Pradeshiya Sabha Chairman Thiagarajah Niros, representatives of public organizations and public organizations were also present.
+
+◼️
+
+[Data](articles/144c8cf6.json)
+
+[Extended Data](ext_articles/144c8cf6.ext.json)
+
+---
+
+### The train collided with a train on the railway
+
+*2025-09-07 14:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-நித்திரையில்-இருந்தவர்-ரயில்-மோதி-பலி/175-364141) · `ta`
+
+A man who was sleeping in the Jeevapuram railway track of the Jeevapuram police division in the Batticaloa police division was killed and the death of a head of a traveler from Colombo to Batticaloa was killed and the death of a head was cut off at 10.00 pm on Saturday (06).
+
+The deceased is Varadaraja Krishnakanthan, the father of two children aged 28, from Jeevanagar, Sandivalai.
+
+The man was killed when a train crashed into a sleeping train at 10.00 pm on Saturday (06) at 10.00 pm.
+
+Initial inquiries by the police revealed that the train driver had been recovered after recovering the body at the Eravur railway station.
+
+The body was subsequently handed over to the Valasalai Base Hospital for autopsy, police said.
+
+◼️
+
+[Data](articles/870aca4f.json)
+
+[Extended Data](ext_articles/870aca4f.ext.json)
+
+---
+
+### Spouse
+
+*2025-09-07 14:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனை-கோடரியால்-கொத்திக்-கொன்ற-மனைவி/175-364139) · `ta`
+
+A wife in a house has been hacked to death by an ax and surrendered to the police with her three children, according to the Kebatikollawa Police Station.
+
+The mother of three children from Kurulugama in the Kebathikollawa Police Division surrenders to the police station. The deceased is Upali Herath (46), the father of three children from Ukuwa and Ukuwa.
+
+Police said that when he was arguing with his wife, the wife was trying to attack his wife with a sword and her husband died on the spot when she was hit by an ax.
+
+◼️
+
+[Data](articles/b542e03c.json)
+
+[Extended Data](ext_articles/b542e03c.ext.json)
+
+---
+
+### Pope Leo XIV declares Carlo Acutis as first millennial saint
+
+*2025-09-07 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112254/pope-leo-xiv-declares-carlo-acutis-as-first-millennial-saint) · `en`
+
+Pope Leo XIV declared a 15-year-old computer whiz the Catholic Church’s first millennial saint Sunday, giving the next generation of Catholics a relatable role model who used technology to spread the faith and earn the nickname “God’s influencer.”
+
+Leo canonized Carlo Acutis, who died in 2006, during an open-air Mass in St. Peter’s Square that was attended by tens of thousands of people, many of them millennials and couples with young children. During the ceremony, Leo also canonized another popular Italian figure who died young, Pier Giorgio Frassati.
+
+The Vatican said 36 cardinals, 270 bishops 212 priests had signed up to celebrate the Mass along with Leo in a sign of the saints’ enormous appeal to the hierarchy and ordinary faithful alike.
+
+Leo, history’s first American pope, made an unscripted appearance to the crowd before the Mass began, welcoming “so many young people who have come for this Holy Mass.”
+
+...
+
+[Data](articles/d7576d86.json)
+
+[Extended Data](ext_articles/d7576d86.ext.json)
+
+---
+
+### Police issue warning for social media scam exploiting bank info
+
+*2025-09-07 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112253/police-issue-warning-for-social-media-scam-exploiting-bank-info) · `en`
+
+A fraudulent message is currently circulating on social media, falsely claiming to offer prizes on behalf of a bank, according to police.
+
+Police further stated that the message is part of a dangerous scam designed to deceive the public.
+
+It has been reported that the scam is designed to steal personal information and even tamper with the software on mobile phones.
+
+Nirosh Ananda, the Chief Information Security Officer of the Sri Lanka Computer Emergency Response Team (SLCERT), said the organization has received numerous complaints regarding this issue.
+
+He also warned that individuals who conduct banking activities via mobile phones should be especially cautious of such fraudulent messages.
+
+◼️
+
+[Data](articles/58b2ab6c.json)
+
+[Extended Data](ext_articles/58b2ab6c.ext.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -93,6 +521,32 @@ However, 500 people were arrested during a similar protest in the last August.
 [Data](articles/92ba77cd.json)
 
 [Extended Data](ext_articles/92ba77cd.ext.json)
+
+---
+
+### Blood sample of bus driver involved in Thursday’s accident sent to Government Analyst
+
+*2025-09-07 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112252/blood-sample-of-bus-driver-involved-in-thursdays-accident-sent-to-government-analyst) · `en`
+
+A decision has been taken to send the blood sample of the bus driver involved in Thursday’s Ella–Wellawaya road accident to the Government Analyst’s Department for testing.
+
+Police stated that the sample is being submitted today to determine whether the driver had consumed alcohol at the time the accident occurred.
+
+The accident occurred on Thursday night (04) near the 24th milepost on the Ella–Wellawaya road, when a bus veered off the road and plunged into a precipice, resulting in the deaths of 15 individuals and injuries to 17 others.
+
+Investigations are now underway to determine whether he had consumed any intoxicating substances prior to the crash.
+
+Of those who died, 12 were employees of the Tangalle Municipal Council.
+
+Their bodies have been handed over to their families, and funeral arrangements are expected to take place today, according to reports.
+
+Meanwhile, 11 of the injured are still receiving treatment at the Badulla Teaching Hospital, said Dr. Palitha Rajapaksha.
+
+◼️
+
+[Data](articles/0bd22315.json)
+
+[Extended Data](ext_articles/0bd22315.ext.json)
 
 ---
 
@@ -273,6 +727,28 @@ Of the injured, 13 of the injured were receiving treatment at the Jaffna Teachin
 [Data](articles/d1443e18.json)
 
 [Extended Data](ext_articles/d1443e18.ext.json)
+
+---
+
+### New recruitment will be increased to 100,000
+
+*2025-09-07 12:22:23* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයට-අලුතෙන්-බඳවා-ගැනීම-ලක්ෂයක්-දක්වා-ඉහළ-යාවි/11-418326) · `si`
+
+President Anura Kumara Dissanayake emphasized that the benefits of the district should prevent the delay in the district level development projects.
+
+The President also said that the benefits of the project as well as the benefits of the properties that the development projects commenced in the recent past were to expand their project period and prolonged their project period.
+
+President Anura Kumara Dissanayake made this statement addressing the District Coordinating Committee meeting held at the Moneragala District Secretariat yesterday.
+
+Meanwhile, the development projects implemented by the Ministries, Departments and Institutions implemented in the Moneragala district will review the progress of the development projects and review the development projects implemented by various Ministries, Departments and Institutions.
+
+The President also pointed out that the President is ready to allocate the money of the Treasury at any time.
+
+...
+
+[Data](articles/5152379d.json)
+
+[Extended Data](ext_articles/5152379d.ext.json)
 
 ---
 
@@ -713,6 +1189,30 @@ Horana Police are conducting further investigations in order to apprehend the su
 [Data](articles/6eb53f3b.json)
 
 [Extended Data](ext_articles/6eb53f3b.ext.json)
+
+---
+
+### Sri Lanka loses regional deconsolidation hub status for online platforms?
+
+*2025-09-07 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-loses-regional-deconsolidation-hub-status-for-online-platforms-239632/) · `en`
+
+ECONOMYNEXT – Sri Lanka is no longer the de-consolidation hub for online platforms in South Asia after clamping down on the trade by Customs authorities, an opposition legislator with knowledge on logistics has revealed.
+
+Sri Lanka Customs has recently started duty on individual items imported through online platforms ending a bulk clearing system by weight practiced earlier.
+
+A customs officials told a hearing of the Committee on Public Finance that online retailers had now adapted to the system, and they were no longer sending shipments daily to reduce shipping costs.
+
+“Even though you say that, Sri Lanka is a good consolidation centre,” Opposition legislator Ravi Karunayake, who has knowledge of logistics told the committee.
+
+“There was a system where the consol came to Sri Lanka and it was de-consolidated and sent to India. Even though it is said that there is no longer problem in clearing the shipment.
+
+“But if there is vision for a logistics operation, it has completely stopped.”
+
+...
+
+[Data](articles/8913c2c1.json)
+
+[Extended Data](ext_articles/8913c2c1.ext.json)
 
 ---
 
@@ -1569,479 +2069,5 @@ By cultivating within ourselves the qualities of moral shame and fear of wrongdo
 [Data](articles/5abb00ce.json)
 
 [Extended Data](ext_articles/5abb00ce.ext.json)
-
----
-
-### POWER POLITICS
-
-*2025-09-06 23:54:00* · [`islandlk`](http://island.lk/power-politics-2/) · `en`
-
-It is said that Kotelawala made an application to the Central Bank for the transfer of a large sum of money to Britain for the purchase of property. NU mentioned that the application was made during the first premiership of Dudley Senanayake, “as financial protection from unsettling forces which he [Kotelawala] felt would overtake the country” (N.U. Jayawardena, c.1985, p.62). According to the Central Bank and Exchange Control regulations at that time, the transfer of such a large sum was not permissible, and would have violated existing regulations. As such, NU recommended the refusal of Kotelawala’s application to the Finance Minister J.R. Jayewardene and Prime Minister Dudley Senanayake. This action would have serious repercussions in the future. NU’s daughter describes this episode:
-
-...
-
-[Data](articles/2676c3fd.json)
-
-[Extended Data](ext_articles/2676c3fd.ext.json)
-
----
-
-### Arundhati Roy’s international splash with her 2025 non-fiction book
-
-*2025-09-06 23:50:00* · [`islandlk`](http://island.lk/arundhati-roys-international-splash-with-her-2025-non-fiction-book/) · `en`
-
-She writes autobiographically on her life with her mother and brother and titles her book Mother Mary Comes To Me, mother Mary being her own mother – Mary Roy, a Malayali Jacobite Syrian Christian who was educator and women’s rights activist known for winning a Supreme Court lawsuit in 1986 awarding equal rights to women to inherit family property. The book is published by Hamish Hamilton. I was sent a Guardian article which was an edited extract from the book.
-
-It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees were full of scars and cuts – a sign of my wild, imperfect, fatherless life.’ The book appears to be starkly telling, cruelties and all, with a mother who was ill with asthma and on steroids and very very short tempered, who vented her wrath on her two small children. It seems to be brutally honest and thus the sympathy the reader feels will be for the two children; the mother too.
-
-...
-
-[Data](articles/d91db4f3.json)
-
-[Extended Data](ext_articles/d91db4f3.ext.json)
-
----
-
-### எல்ல விபத்து: சாரதி போதைப்பொருள் பயன்படுத்தியிருந்தாரா?
-
-*2025-09-06 23:23:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-விபத்து-சாரதி-போதைப்பொருள்-பயன்படுத்தியிருந்தாரா/175-364110) · `ta`
-
-எல்ல வனப்பகுதியில் விழுந்து விபத்துக்குள்ளான பேருந்தின் சாரதியினுடைய இரத்த மாதிரிகள் நாளை (7) மேலதிக பரிசோதனைக்காக அரச இரசாயன பகுப்பாய்வாளருக்கு அனுப்பப்படும் என எல்ல பொலிஸார் தெரிவித்தனர்.
-
-தங்காலை நகரசபையின் ஊழியர்கள் குழுவொன்று நுவரெலியாவுக்கு சுற்றுலா சென்று மீண்டும் தங்காலைக்கு தங்களது குடும்ப உறுப்பினர்களுடன் திரும்பிக் கொண்டிருந்த பேருந்து 4 ஆம் திகதி இரவு எல்ல-வெல்லவாய பிரதான வீதியில் 15 ஆவது மைல்கல் பகுதியில் சொகுசு வாகனமொன்றுடன் மோதி பின்னர் வீதியின் அருகே இருந்த தடுப்புச் சுவரில் மோதி ராவண எல்ல பள்ளத்தாக்கில் வீழ்ந்து விபத்துக்குள்ளானது.
-
-சுற்றுலாப் பேருந்தின் சாரதியான தங்காலை, ஹெனகடுவவைச் சேர்ந்த சிரத் திமந்த (25) என்ற இளைஞரும் இந்த விபத்தில் உயிரிழந்தார்.
-
-குறித்த பேருந்தை செலுத்தும் போது அதன் சாரதி போதைப்பொருள் அல்லது மதுபானம் பயன்படுத்தியிருந்தாரா என்பதை அறிய, அவரது இரத்த மாதிரிகள் மேலதிக பரிசோதனைக்காக அரச இரசாயன பகுப்பாய்வாளருக்கு சமர்ப்பிக்கப்படும் என்று எல்ல பொலிஸ் நிலைய அதிகாரி ஒருவர் தெரிவித்தார். R
-
-◼️
-
-[Data](articles/a229871f.json)
-
-[Extended Data](ext_articles/a229871f.ext.json)
-
----
-
-### වෙනිසියුලාවට ට්‍රම්ප්ගෙන් අනතුරු ඇඟවීම්
-
-*2025-09-06 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214258) · `si`
-
-වෙනිසියුලානු ජෙට් යානා අමෙරිකානු නාවික නැව්වලට ඉහළින් පියාසර කර අනතුරක් සිදු වුවහොත් එම යානාවලට වෙඩි තබා බිම හෙළන බවට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අනතුරු අඟවා තිබේ.
-
-දින දෙකක් තුළ දෙවන වරටත් දකුණු අමෙරිකාවට ඔබ්බෙන් වූ අමෙරිකානු නෞකාවක් අසල වෙනිසියුලානු හමුදා ගුවන් යානා පියාසර කිරීමෙන් පසුව ජනාධිපතිවරයා මෙම අනතුරු ඇඟවීම සිදු කර ඇත.
-
-වෙනිසියුලාවෙන් "මත්ද්‍රව්‍ය ගලා එන" බවත්, එක්සත් ජනපදයේ ත්‍රස්තවාදී සංවිධානයක් ලෙස තහනම් කර ඇති කල්ලියක් වන ට්‍රෙන් ඩි අරගුවා හි සාමාජිකයින් එහි ජීවත් වන බවත් එහිදී ට්‍රම්ප් පවසා තිබේ.
-
-මත්ද්‍රව්‍ය ගලායාම වැළැක්වීම සඳහා අතිරේක නාවික යාත්‍රා සහ මැරීන් භටයින් මෙන්ම නාවිකයන් යෙදවීමට එක්සත් ජනපද හමුදාව පියවර ගෙන ඇති අතර දකුණු කැරිබියන් කලාපය තුළ සිය හමුදා ශක්තිය වර්ධනය කිරීමටත් පියවර ගෙන ඇත.
-
-මේ අතර ට්‍රම්ප්ගේ පළමු ධුර කාලය තුළ, එක්සත් ජනපදය ඉහළ පෙළේ වෙනිසියුලානු නිලධාරීන්ට මත්ද්‍රව්‍ය, ත්‍රස්තවාදය, දූෂණය සහ මත්ද්‍රව්‍ය ජාවාරම ඇතුළු විවිධ වැරදි සම්බන්ධයෙන් චෝදනා එල්ල කර තිබුණි.
-
-◼️
-
-[Data](articles/01c248c8.json)
-
-[Extended Data](ext_articles/01c248c8.ext.json)
-
----
-
-### Thondaman’s role in aborting Premadasa impeachment and Speaker Mohamed’s perfidy
-
-*2025-09-06 22:19:00* · [`islandlk`](http://island.lk/thondamans-role-in-aborting-premadasa-impeachment-and-speaker-mohameds-perfidy/) · `en`
-
-As planned the Speaker addressed a letter to the President stating that he had accepted a motion of impeachment presented to him by more than half the number of MPs and therefore section 38 of the constitution was now brought into play. This letter was brought by the President to the Cabinet which proceeded unanimously to declare their confidence in Premadasa. At this meeting Lalith and Premachandra who were Cabinet ministers at that time had also voted in favour of a confidence vote in the President though by this time they had affixed their signatures to the motion referred to by the Speaker.
-
-...
-
-[Data](articles/1a2aed44.json)
-
-[Extended Data](ext_articles/1a2aed44.ext.json)
-
----
-
-### China’s Xi Jinping hosts a Summit of leaders of half the world, with a spectacular display of military force
-
-*2025-09-06 22:04:00* · [`islandlk`](http://island.lk/chinas-xi-jinping-hosts-a-summit-of-leaders-of-half-the-world-with-a-spectacular-display-of-military-force/) · `en`
-
-On September 1, The International Association of Genocide Scholars (IAGS) based in The Hague, Netherlands, passed a resolution that “legal criteria have been met to establish Israel is committing genocide in Gaza”.
-
-Israel’s conduct also meets the legal definition as laid out in the 1948 United Nations convention on genocide, which was adopted following the mass murder of Jews by Nazi Germany. The convention defines genocide as “crimes committed with intent to destroy, in whole or part, a national, ethnic, racial or religious group”.
-
-The IAGS recognize that while the October 7, 2023 Hamas attack on Israel, in which about 1,200 people were killed and 251 others taken hostage, was itself a war crime, “Israel’s response has not only been directed towards Hamas but has targeted Gaza’s entire (Palestinian) population”.
-
-...
-
-[Data](articles/1211b76b.json)
-
-[Extended Data](ext_articles/1211b76b.ext.json)
-
----
-
-### Grenades and ammunition recovered near site of ‘Ice’ manufacturing chemicals
-
-*2025-09-06 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112233/grenades-and-ammunition-recovered-near-site-of-ice-manufacturing-chemicals) · `en`
-
-Officers of the Western North Crime Division, in collaboration with the Special Task Force (STF), recovered a cache of ammunition and grenades today (06) from the property in Thalawa, Middeniya in Hambantota District, where chemicals allegedly used in the production of ‘Ice’ (crystal methamphetamine) had previously been discovered.
-
-According to police, the recovery was made from a newly dug ditch near a cassava plantation in the said property.
-
-The items seized include five foreign-manufactured hand grenades, 17 rounds of T-56 ammunition, and three bullets used for 12-bore firearms, said police.
-
-◼️
-
-[Data](articles/7aa351fb.json)
-
-[Extended Data](ext_articles/7aa351fb.ext.json)
-
----
-
-### ආරම්භ කෙරෙන සියලු සංවර්ධන ව්‍යාපෘති නියමිත දිනට අවසන් කළ යුතුයි - ජනපති
-
-*2025-09-06 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214257) · `si`
-
-දිස්ත්‍රික් මට්ටමින් ක්‍රියාත්මක සංවර්ධන ව්‍යාපෘති ප්‍රමාද වීම වළක්වා ගනිමින් එහි ප්‍රතිලාභ නියමිත කාලය තුළ ජනතාවට ලබා දීම අදාළ දිස්ත්‍රික්කයේ රාජ්‍ය නිලධාරින්ගේ වගකීම බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
-
-ජනාධිපතිවරයා මේ බව පැවසුවේ අද (06) පස්වරුවේ මොනරාගල දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවති මොනරාගල දිස්ත්‍රික් විශේෂ සම්බන්ධීකරණ කමිටු රැස්වීම අමතමිනි.
-
-එහිදී අදහස් දක්වමින් ජනාධිපතිවරයා පැවසුවේ යම් සංවර්ධන ව්‍යාපෘතියක් ආරම්භ කළ විට එය අවසන් කරන දිනය දක්වා ඉලක්කගත සැලැස්මක් ඔවුන් සතුව තිබිය යුතු බවත්ය.
-
-පසුගිය කාලයේ ආරම්භ කළ සංවර්ධන ව්‍යාපෘති නියමිත කාලයට අවසන් නොකිරීම සහ ඒවායේ ව්‍යාපෘති කාලය දීර්ඝ කරමින්, ඇස්තමේන්තුගත වියදම ඉහළ නැංවීම හේතුවෙන් එම ව්‍යාපෘතින්හි ප්‍රතිලාභ මෙන්ම ආයෝජනය කරන මුදලේ ප්‍රතිලාභද රටට අහිමි වු බව අවධාරණය කළ ජනාධිපතිවරයා මේ වසරේ සිට ආරම්භ කෙරෙන සියලු සංවර්ධන ව්‍යාපෘති නියමිත දිනට අවසන් කිරීමට කටයුතු කළ යුතු බවද ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/59302920.json)
-
-[Extended Data](ext_articles/59302920.ext.json)
-
----
-
-### Is the  JVP-led NPP Govt Weaponising the Law to Target Former President Ranil Wickremesinghe?Over his UK trip ?
-
-*2025-09-06 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86405) · `en`
-
-United National Party (UNP) leader Ranil Wickremesinghe has been in politics for more than five decades. Wickremesinghe who has served as Member of Parliament, Deputy Minister, Cabinet Minister, leader of the Opposition, Prime Minister and President has often been described as a “spent force” in politics. The resilient Ranil has always proved his detractors wrong by bouncing back into the ring spiritedly. Recent events seem to indicate that the irrepressible Ranil Wickremesinghe may yet again demonstrate that he is a person who cannot be written off easily.
-
-...
-
-[Data](articles/54a90439.json)
-
-[Extended Data](ext_articles/54a90439.ext.json)
-
----
-
-### An error in a crash
-
-*2025-09-06 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214256) · `si`
-
-Police Media Spokesperson ASP. U. Mr. Woatler says.
-
-The bus, the bus, was in the precipice last night.
-
-The stock Ella was taken to the police station on the bus and was taken to the police station and the National Transport Authority officials were also checked.
-
-The Transport Authority officials tested the place where the accident.
-
-The bus will be sent to the Government Analyst on the 8th.
-
-The bus accidents that killed 15 people have not been revealed yet.
-
-However, the conductor of the bus and a traveling person said that the driver of the sudden was disabled.
-
-Meanwhile, Deputy Minister of Transport and Highways Dr. Prasanna Gunasena says that the bus was the bus accident to the 2023 National Transport Commission on the Wellawaya road.
-
-He says that the country is not yet laws in the country to regulate buses used only for picnics.
-
-◼️
-
-[Data](articles/df6b11e6.json)
-
-[Extended Data](ext_articles/df6b11e6.ext.json)
-
----
-
-### Meeting hand grenades and bullets found in the land where the ice raw materials found in Midigade
-
-*2025-09-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214255) · `si`
-
-The Western Crimes Division (SLAF) and STF personnel have been recovered today (06).
-
-The officers were found three Barras with a five-fire bullets used in a newly-cut drain near the manioc entrance near the land.
-
-◼️
-
-[Data](articles/8ec5a34d.json)
-
-[Extended Data](ext_articles/8ec5a34d.ext.json)
-
----
-
-### Police seize over 20 kg of Kush cannabis at BIA
-
-*2025-09-06 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112232/police-seize-over-20-kg-of-kush-cannabis-at-bia) · `en`
-
-Officers of the Police Narcotics Bureau (PNB) have seized 20.9 kilograms of Kush cannabis, with an estimated street value of Rs. 200 million, at the Bandaranaike International Airport (BIA) in Katunayake.
-
-Police have also arrested the suspected smuggler, who had arrived from Thailand, in the Grandpass area.
-
-◼️
-
-[Data](articles/75ce49c4.json)
-
-[Extended Data](ext_articles/75ce49c4.ext.json)
-
----
-
-### Sri Lanka defeated Sri Lanka in second T20
-
-*2025-09-06 19:56:59* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-විස්සයි20-තරගයෙන්-ලංකාවට-දරුණු-පරාජයක්/9-418317) · `si`
-
-The Host Simbabwe was able to report a firm win in five wickets in the second T20 match with the Sri Lankan team.
-
-Sri Lanka scored only 80 runs in 17.4 overs that won the toss and elected to the coin.
-
-Kamil Misshari scored 20 runs in 20 balls with the highest batsman for Sri Lanka.
-
-Zimbabwe won 84 runs for the loss of five wickets in 14.2 overs.
-
-◼️
-
-[Data](articles/f2edd420.json)
-
-[Extended Data](ext_articles/f2edd420.ext.json)
-
----
-
-### Zimbabwe beat Zimbabwe in the second T20
-
-*2025-09-06 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214253) · `si`
-
-Zimbabwe won the second T20 match between the Sri Lanka Tourism and Host Zimbabwe today (06).
-
-Batting first Sri Lankan team was bowled out for 80 runs.
-
-The Zimbabwe Girl played for 85 wickets for the loss of eight wickets.
-
-◼️
-
-[Data](articles/6d7ba0cf.json)
-
-[Extended Data](ext_articles/6d7ba0cf.ext.json)
-
----
-
-### Man arrested with drugs worth Rs. 200 million
-
-*2025-09-06 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214252) · `si`
-
-A large number of crores worth Rs.
-
-The bag was located at 9.45 am on 28/28 am from Bangkok, US SriL Langan Airlines' UL to the Katunayake airport.
-
-The owner of the bag is a 53 year old resident of Orugodawatta area and has been arrested by the Police Narcotics Bureau.
-
-It is reported that 'Kush' has been adjudged 20 kg of Kushro drugs and 900 packs.
-
-The arrested suspect is to be produced before the Negombo Magistrate's Court.
-
-◼️
-
-[Data](articles/21149adc.json)
-
-[Extended Data](ext_articles/21149adc.ext.json)
-
----
-
-### Motorcyclist involved in Panchikawatta shooting arrested
-
-*2025-09-06 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112231/motorcyclist-involved-in-panchikawatta-shooting-arrested-) · `en`
-
-Police have arrested the motorcyclist allegedly involved in the shooting incident that took place in the Panchikawatta area of Maradana, Colombo this morning (6).
-
-Police said that offices attached to Modara Police were able to arrest the motorcyclist within a few minutes of the shooting.
-
-The suspect who was arrested is a 21-year-old resident of Bodhiraja Mawatha in Maligawatta and is a close associate of an organized criminal known as ‘Keselwatte Kavi’, police said.
-
-Following the release of a police alert regarding the shooting, two Police Sergeants of the Modara police station, who were on night motorcycle duty, had managed to surround the fleeing motorcyclist with the assistance of another police officer.
-
-The suspect had then fled to the Kimbula Ela Watta area in Madampitiya after his motorcycle had toppled on the road.
-
-The three police officers have then launched a search operation in the area and the suspect, who had been hiding there, had managed to escape in a three-wheeler.
-
-...
-
-[Data](articles/cc172ac9.json)
-
-[Extended Data](ext_articles/cc172ac9.ext.json)
-
----
-
-### Excavation work is completed today
-
-*2025-09-06 19:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-இரண்டாம்-கட்ட-அகழ்வுப்-பணிகள்-இன்றுடன்-நிறைவு/175-364097) · `ta`
-
-The 45th day of the second phase of the Siddhappathi human burial ground is over.
-
-Accordingly, so far, 240 from the Semmani Siddhappathi human burial ground has emerged.
-
-Attorney -at -law VS Niranjan, who appeared on behalf of the victims, said 239 of them were completely excavated.
-
-Meanwhile, if the Semmani Siddhappathi human burial case and the Krishanthi murder case are merged together, he has said that he should apply to the Court of Appeal.. Remble
-
-◼️
-
-[Data](articles/069eb992.json)
-
-[Extended Data](ext_articles/069eb992.ext.json)
-
----
-
-### The man who did not leave the hotel was found dead
-
-*2025-09-06 19:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விடுதியை-விட்டு-வெளியே-வராதவர்-உயிரிழந்து-கிடந்தார்/76-364096) · `ta`
-
-Hatton - The body of a person has been recovered from the tourist room in Kotagala, Kotagala.
-
-The body of a 60 -year -old man who was traveling from Colombo to Kotagala has been recovered, police said.
-
-He went to the tourist with his friend and had been drinking with a friend yesterday (5).
-
-However, if the person does not leave the hotel today, a hostel employee has informed the police of Dimbulla.
-
-When the police arrived at the hostel and checked, the man confirmed his death in the room.
-
-◼️
-
-[Data](articles/eadec0fd.json)
-
-[Extended Data](ext_articles/eadec0fd.ext.json)
-
----
-
-### ‘Rividanavi’ Solar Power Park: Construction begins of Sri Lanka’s largest renewable energy project
-
-*2025-09-06 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112230/rividanavi-solar-power-park-construction-begins-of-sri-lankas-largest-renewable-energy-project) · `en`
-
-As a key step towards achieving the target of fulfilling 70% of the country’s electricity demand from renewable energy by 2030, construction work on the Siyambalanduwa “Rividanavi” Solar Power Park, Sri Lanka’s largest renewable energy project, commenced this morning (06) under the patronage of President Anura Kumara Dissanayake.
-
-This massive project, which will add 100 MW of capacity to the national electricity grid, involves an investment of USD 140 million, according to the President’s Media Division (PMD).
-
-The project, being built on a land area of approximately 500 acres in the Kotiyagala Grama Niladhari Division of the Siyambalanduwa Divisional Secretariat in the Monaragala District, is the first project for which the Sustainable Energy Authority has provided the project site, access roads and all relevant approvals to the investor.
-
-...
-
-[Data](articles/fe1ab91e.json)
-
-[Extended Data](ext_articles/fe1ab91e.ext.json)
-
----
-
-### Sri Lanka President flags off US$140mn, 100MW solar power plant
-
-*2025-09-06 18:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-flags-off-us140mn-100mw-solar-power-plant-239627/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake has flagged off the construction of a 100MW solar farm which will be built at a cost of 140 million US dollars, his office said in a statement.
-
-The plant is expected to generate about 219GigaWatt hours of energy each year indicating about 25 percent plant factor.
-
-The project, is built on 500 acres of land in the Kotiyagala Grama Niladhari Division of the Siyambalanduwa Divisional Secretariat in the Monaragala District.
-
-The Presidential secretariat worked closely to with multiple agencies to get 12 approvals during the past 6 to 9 months, chairman of Sri Lanka Sustainable Energy Authority, Wijendra Bandara, was quoted as saying at a ceremony on September 06.
-
-He was prepared to work with the government and propose a streamlined procedure under one roof, to accelerate such approvals for investors in the future.
-
-The plant was approved by in 2023 by the last administration during an economic crisis, when material costs were higher.
-
-...
-
-[Data](articles/b4f24345.json)
-
-[Extended Data](ext_articles/b4f24345.ext.json)
-
----
-
-### The bus driver's blood sends the blood of the driver to the Government Analyst
-
-*2025-09-06 18:46:30* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේ-බස්-රියදුරුගේ-රුධිරය-රජයේ-රස-පරීක්ෂකට-යවයි/11-418316) · `si`
-
-The driver's blood samples of the Falls were killed in a thousand feet of precipice in the Ella 15 in Poan Division.
-
-The Tangalle Municipal Council workers were traveling on a picnic jeep on the 15th of the Wellawaya area in the Wellawaya area, the accident had occurred when the picnic jeep was traveling on the 15 minute jeep on the 15th area of ​​the Wellawaya.
-
-The youth driver, a resident of Henekala, Tangalle, has also died of the Carmanlla Dimantha (25), a resident of Henekaduwa.
-
-The driver was conducting further investigations to investigate the rise to investigate and investigate the driver of the driver at the time of the private bus.
-
-◼️
-
-[Data](articles/cfbf8f1b.json)
-
-[Extended Data](ext_articles/cfbf8f1b.ext.json)
-
----
-
-### Maradana shooting motorcyclist arrested
-
-*2025-09-06 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214251) · `si`
-
-Motorcyclists have been arrested by the police in the Pananawa area in Pananawa today.
-
-Police said that Modara police were arrested for the arrest of the motorcyclist within a few minutes after the shooting.
-
-The suspect is a 21 year old resident of Bodhiraja Mawatha, Maligawatta, police said.
-
-With the release of police messages on the shooting, two Modara police sergeants were raided the motorcyclist fled while gathering another police officer.
-
-The suspect had fled the Kimbulala area, along with the motorcyclist's motorcyclist.
-
-The three police officers have launched a search operation in the area and hiding in a three-wheeler and climbed in a three-wheeler.
-
-Accordingly, the three-wheeler parked the three-wheeler with the assistance of a mobile travel jeep officer in the Madampitiya police sergeant.
-
-It has been said that the tragedy was involved in the motorcyclist in Kesana estate, which was an organized criminal in the Kesanasotuwa area after being interrogated by the arrested suspect.
-
-◼️
-
-[Data](articles/58394b87.json)
-
-[Extended Data](ext_articles/58394b87.ext.json)
-
----
-
-### Former buds arrested for hiding Padma's ice chemicals
-
-*2025-09-06 18:35:47* · [`adalk`](https://www.ada.lk/breaking_news/පද්මෙගේ-අයිස්-රසායනික-ද්‍රව්‍ය-සඟවාගෙන-සිට-හිටපු-පොහොට්ටු-මන්ත්‍රී-අල්ලයි/11-418315) · `si`
-
-A former Pradeshiya Sabha member of the Sri Lanka General Manager, a native criminal criminal leader, has been arrested in the Sri Lanka General Manager, the sale of chemists in the Talawa house in Middeniya.
-
-In the Western Criminal Investigation Division, the information conducted by Bau Saman, who is detained in the Trust, reports information on the chemicals.
-
-The brother of the former MP is also involved in the incident and Resources Manamamparei has also been suspended by the party's membership of the Sri Lanka Civil Appointment
-
-◼️
-
-[Data](articles/81d6679c.json)
-
-[Extended Data](ext_articles/81d6679c.ext.json)
-
----
-
-### Ditomic 79th Bradby shield to Royal College
-
-*2025-09-06 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214250) · `si`
-
-Royal College, Colombo won the 79th Bradby Shield defeating the Kalutara Tournament in Kandy.
-
-The second phase of this annual rugby battle was held today (06) at the Royal College Sports Complex, Colombo.
-
-Royal was lost 8-3 runs in the face of the royalty school.
-
-However, Royal was able to defeat the Trini Vidyalaya as 15-5 in the first phase of the Triple College stadium.
-
-Accordingly, according to the number of points in two stages, Royal College score 13 runs in Colombo.
-
-◼️
-
-[Data](articles/8495ec81.json)
-
-[Extended Data](ext_articles/8495ec81.ext.json)
 
 ---

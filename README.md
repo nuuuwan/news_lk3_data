@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 12:53:57**
+As of **2025-09-07 13:20:15**
 
 ## Newspaper Stats
 
-*Scraped **74,550** Articles*
+*Scraped **74,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 7,209
 adaderanalk | 9,536
 tamilmirrorlk | 11,097
 virakesarilk | 12,186
-adaderanasinhalalk | 12,977
+adaderanasinhalalk | 12,978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,154 (83.4%) of 74,550 articles have been extended.
+62,169 (83.4%) of 74,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### The auto-shared traffic is tightly to the traffic fixed
+
+*2025-09-07 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214274) · `si`
+
+Deputy Minister of Transport, Dr. Prasanna Gunasena says that the law will operate the law from tomorrow.
+
+The Deputy Minister pointed out that a note of Facebook account is focused on the noisy diverse ringing, and exchanges with different lamps.
+
+On Thursday night, the footprint of a safe iron route was to collapse near a luxury jeep 24 of the Ella-Wellawaya road.
+
+The victim was a bus and a bus with a picnic, including a group of Tangalle Urban Council workers and their relatives.
+
+15 people lost their lives and 17 others in the bus was injured.
+
+There were also injured in the saving crash.
+
+Of the injured, 13 of the injured were receiving treatment at the Jaffna Teaching Hospital.
+
+◼️
+
+[Data](articles/d1443e18.json)
+
+[Extended Data](ext_articles/d1443e18.ext.json)
+
+---
 
 ### Five dictated five boat in Pakistan
 
@@ -290,19 +316,21 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 ---
 
-### වාහන ආයනයනට මුල් මාස 6දී ඩොලර් මිලියන 475ක් වැය වෙලා
+### Import of vehicles cost US $ 475 million in first 6 months
 
 *2025-09-07 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආයනයනට-මුල්-මාස-6දී-ඩොලර්-මිලියන-475ක්-වැය-වෙලා/11-418324) · `si`
 
-වාහන ආනයනය කිරිම  සදහා මෙම වර්ෂයේ මුල්මාස හය තුලදි  ඇමරිකානු ඩොලර් මිලියන  475ක මුදලක් වැයවි ඇති බැව් ශ්‍රිලංකා මහබැංකුව විසින් නිකුත්කොට ඇති වාර්තාවක සදහන් වේ.
+According to a report issued by the Central Bank Sri Lanka's US $ 475 million in the first six of the year.
 
-ඒ අනුව පුද්ගලික රථවාහන, වාණිජ්‍ය කටයුතු සදහා යෙදාගනු ලබන වාහන, ඇතුළු  වාහන ආනයනය කිරිම සදහා මෙම මුදල වැයවි ඇත. මෙම වර්ෂයේ ජනවාරි මාසයේ දි  වාහන ආනයන මත පනවා තිබු සිමාවන් ලිහිල් කිරිමත් සමග  මෙම වර්ෂයේ මුල් භාගයේ දි වාහන  ආනයනය කිරිම කැපිපෙනෙන ලෙස වැඩිවිමක් දක්නට ලැබුණු බවද මහබැංකු වාර්තාවේ සදහන් වේ. වාහන සදහා ඉල්ලුම ඉහළයාමේ තත්ත්වයක් දක්නට ඇති අතර   වාහන සදහා ඇති අධික ඉල්ලුම  ක්‍රමයෙන් අඩුවනු ඇති බවද මහබැංකුව පෙන්වා දෙයි.
+Accordingly, the importation of vehicles including private vehicles, commerce vehicles, including vehicles, has spent. The Central Bank report also stated that the importation of the laws on imports of vehicle imports this year. The Central Bank points out that the demand for vehicles has been increased and the demand for vehicles will be gradually reduced.
 
-වාහන ආනයන සිමාවන් ලිහිල්කිරිම සහ ආනයන ඉහළයාම මධ්‍ය යේ  2025 වර්ෂයේ ජුලි මස 22 වැනිදින දක්වා කාලය තුල  ශ්‍රිලංකා රුපියල ඇමරිකානු ඩොලරයට සාපේක්ෂව සියයට 3.1 සුළු අවප්‍රමාණයක්  සිදුවි ඇති බවද මහබැංකු වාර්තාවේ සදහන් වේ.
+The Central Bank report also states that the rupee has caused 3.1 percent to the US dollar in July 2025 am on July 22, 2005.
 
 ◼️
 
 [Data](articles/ea92a3c0.json)
+
+[Extended Data](ext_articles/ea92a3c0.ext.json)
 
 ---
 
@@ -2009,27 +2037,5 @@ Due to the exclusive sign of the country's sustainable development and the Susta
 [Data](articles/75af366b.json)
 
 [Extended Data](ext_articles/75af366b.ext.json)
-
----
-
-### The remains of the deceased have been transported by the Ella's crash
-
-*2025-09-06 16:39:01* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරින්-මිය-ගිය-අයගේ-දේහ-බදුල්ල-මුස්ලිම්වරුන්ගේ-දායකත්වයෙන්-ප්‍රවාහනය-කරයි/11-418313) · `si`
-
-The Tangalle Municipal Council workers were transported to Tangalle yesterday (5) at the 15-year-old buses of the Falls in the 15th in the 15th area of ​​the Ella.
-
-The suspects were on the 4th night when the picnic were traveling from Nuwara Eliya to Tangalle along the Wellawaya main road.
-
-The picnic bus was killed in a nearby Luxury jeep in the Falls in the French area and followed the Ravana Ella trials.
-
-The Badulla District of the Badulla district, the Badulla district of the Badulla district, the Badulla District of the Badulla district, the Badulla District of the Badulla District to help the helpless people to help them and provide relief to the poor people.
-
-Emergency inspector is the purpose of providing public services to all nations and religion without any racial science.. He also said that Faisal was the assistance of the Janasa Society, Organizer, Diyatalawa and Welinigahala, Bakinigahawela, Badulla, Bandarawela, Bandarawela, Diyatalawa and Bakinigahawela.
-
-◼️
-
-[Data](articles/d9f75803.json)
-
-[Extended Data](ext_articles/d9f75803.ext.json)
 
 ---

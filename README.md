@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 01:55:14**
+As of **2025-09-08 02:05:50**
 
 ## Newspaper Stats
 
-*Scraped **74,621** Articles*
+*Scraped **74,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 759
 economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
-dailyftlk | 5,278
+dailyftlk | 5,282
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
@@ -26,11 +26,53 @@ adaderanasinhalalk | 12,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,958 (84.4%) of 74,621 articles have been extended.
+62,958 (84.4%) of 74,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### Cases on modern marketing: Exploring the essentials
+
+*2025-09-08 01:50:36* · [`dailyftlk`](https://www.ft.lk/columns/Cases-on-modern-marketing-Exploring-the-essentials/4-781318) · `en`
+
+I was delighted to be there when the book titled “Essentials of Modern Marketing” was launched recently. The key role played by Denzil Indrajith Perera, one of my MBA “learning partners”, in this regard, was indeed commendable. As a “non-marketer”, I enjoyed reading it and as a case-writer I saw the richness in it. Today’s column is an exploration of such essentials.
+
+The “‘Essentials of Modern Marketing (EOMM)” is a flagship marketing series by the “Knight of Marketing”, Prof. Philip Kotler. The Sri Lankan edition of it was officially launched in cooperation with Kotler Impact Inc. and Deyo Consultancy and Advisory, recently. As one solid step in Kotler’s series of country specific editions, 22 Sri Lankan cases have been included in this valued volume. According to Denzil who represents Kotler Impact in Sri Lanka and Maldives, this is a sure showcasing of 22 local brands in the global arena with needed recognition.
+
+...
+
+[Data](articles/3bd461ed.json)
+
+---
+
+### Taxes for life: Shaping our collective future through education
+
+*2025-09-08 01:41:55* · [`dailyftlk`](https://www.ft.lk/columns/Taxes-for-life-Shaping-our-collective-future-through-education/4-781317) · `en`
+
+The solution is clear, simple, and revolutionary: integrate age-appropriate tax education into our school curricula
+
+magine they would still ring so true centuries later. At first glance, the line may seem like a clever remark. But it holds a deeper truth: taxes much like death are a universal part of life. Inevitable, often misunderstood, and sometimes dreaded, taxes quietly power the engines of society. They fund the roads we drive on, the hospitals we depend on, the schools that shape our future, and the safety nets that protect the most vulnerable.
+
+...
+
+[Data](articles/945e2511.json)
+
+---
+
+### Digital influencers and new age of marketing  in Sri Lanka: Paradigm shift in brand engagement
+
+*2025-09-08 01:35:56* · [`dailyftlk`](https://www.ft.lk/columns/Digital-influencers-and-new-age-of-marketing-in-Sri-Lanka-Paradigm-shift-in-brand-engagement/4-781316) · `en`
+
+What makes digital influencers particularly effective is their ability to forge genuine connections with their followers
+
+In the dynamic world of marketing, a quiet revolution has been reshaping the way brands communicate with their audiences. Traditional advertising strategies, once dominated by celebrity endorsements and glossy print campaigns, are now being challenged by a new and highly influential force: digital influencers. These individuals, often ordinary people with an extraordinary online presence, have become the new voices of brands. They shape consumer perceptions and drive purchasing decisions in subtle yet powerful ways.
+
+...
+
+[Data](articles/8e06dbce.json)
+
+---
 
 ### Spare a thought for the coloniser
 
@@ -45,6 +87,24 @@ I wonder: what inhuman power compels one to walk, or crawl, or locomote in any w
 ...
 
 [Data](articles/ea9d55a1.json)
+
+---
+
+### Dayan Jayatilleka: The strategist Sri Lanka discarded
+
+*2025-09-08 01:27:12* · [`dailyftlk`](https://www.ft.lk/columns/Dayan-Jayatilleka-The-strategist-Sri-Lanka-discarded/4-781314) · `en`
+
+Dayan Jayatilleka today remains one of Sri Lanka’s sharpest political minds
+
+Sri Lanka’s only victory at Geneva was delivered by Dayan Jayatilleka. Six weeks later, he was removed under foreign pressure. Since then, Sri Lanka has never won again. The West tried to choke Sri Lanka with false accusations of war crimes. Dayan stopped them. He showed that sovereignty could be defended with clarity, courage, and coalition. And then he was betrayed
+
+He gave Sri Lanka its only victory at Geneva. Six weeks later he was thrown aside. A nation that trashes its finest minds does not deserve victory — and that is why we keep losing.
+
+For decades, Sri Lanka has stumbled through Geneva, battered by hostile resolutions and accusations of war crimes. The UN Human Rights Council became a courtroom, and Sri Lanka its permanent defendant.
+
+...
+
+[Data](articles/c5f3c563.json)
 
 ---
 
@@ -2047,83 +2107,5 @@ On Sunday, the state’s main water rescue organisation, Surf Life Saving NSW, d
 [Data](articles/6e71de30.json)
 
 [Extended Data](ext_articles/6e71de30.ext.json)
-
----
-
-### பச்சிளம் குழந்தையை தூக்கிச் சென்ற குரங்குகள்
-
-*2025-09-07 08:48:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சிளம்-குழந்தையை-தூக்கிச்-சென்ற-குரங்குகள்/175-364119) · `ta`
-
-ஒரு குடிசைவீட்டில் குரங்குகள் புகுந்து இரண்டு மாத ஆண் குழந்தையை தூக்கிச் சென்று, நீர் நிரம்பியப் பீப்பாயில் போட்டுள்ளன. இந்த சம்பவம், உத்தர பிரதேச மாநிலம் சீதாபூரை அடுத்த சூரஜ்பூர் கிராமத்தில் இடம்பெற்றுள்ளது.
-
-குரங்குகளின் சத்தம் கேட்டு குடிசைக்கு ஓடிச்சென்ற பெற் றோர் அங்கு குழந்தையைக் காணாததால் சுற்றியுள்ள பகுதி முழுவதும் தேடி உள்ளனர். இறுதியில் அக்குழந்தை தண்ணீர் நிரப்பப்பட்ட பீப்பாயில் மூழ்கிய நிலையில் இருப்பது தெரியவந்தது.
-
-உடனடியாக குழந்தையை அரு கிலுள்ள சீதாபூர் அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். பரிசோதித்த மருத்துவர்கள், குழந்தை மூச்சுத் திணறி இறந்து விட்டதாக கூறியுள்ளனர். இதைக் கேட்ட பெற்றோர் அதிர்ச்சி அடைந்தனர். இது அக்குடும்பத்தினரை மிகவும் சோகத்தில் ஆழ்த்தியுள் ளது. குறிப்பாக ஒரு வருடத்துக்கு முன்பு மணமான தம்பதியருக்கு பிறந்த முதல் குழந்தை இது.
-
-...
-
-[Data](articles/6f842db8.json)
-
-[Extended Data](ext_articles/6f842db8.ext.json)
-
----
-
-### ஆட்டோவை விட்டு விட்டு ஆட்டுடன் தப்பி ஓட்டம்
-
-*2025-09-07 08:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டோவை-விட்டு-விட்டு-ஆட்டுடன்-தப்பி-ஓட்டம்/175-364118) · `ta`
-
-வீதியோரத்தில் மேய்ந்து கொண்டிருந்த ஆட்டை திருடி, வாடகைக்கு வாங்கியிருந்த ஆட்டோவில் ஏற்றிக்கொண்டு சென்ற திருடன், ஆட்டோவை நடுவீதியில் விட்டுவிட்டு, ஆட்டுடன் தப்பி ஓடிய சம்பவம் மட்டக்களப்பில் இடம்பெற்றுள்ளது. ஆட்டோ உரிமையாளர் கைது செய்யப்பட்டுள்ளார்.
-
-மட்டக்களப்பு நகர் பகுதியில் கண்ணகை அம்மன் ஆலய வீதியோரத்தில் நின்றிருந்த ஆடு ஒன்றை லாவகமாக பிடித்து, ஆட்டோவில்  கொண்டு சென்று திருடன், காத்தான்குடி பள்ளிவாசலுக்கு அருகில் வீதியில் ஆட்டோவை விட்டு விட்டு ஆட்டுடன் தப்பியோடிவிட்டார்.
-
-காத்தான்குடியை சேர்ந்த ஆட்டோ உரிமையாளர் ஒருவர் தனது ஆட்டோவை நாள் வாடகையாக ஆயிரம் ரூபாவுக்கு அந்த பகுதியைச் சேர்ந்த ஒருவருக்கு   வழங்கியுள்ளார்.
-
-இந்த நிலையில் ஆட்டோவை வாடகைக்கு எடுத்துச் சென்ற நபர் சம்பவ தினமான வெள்ளிக்கிழமை   நகரிலுள்ள கண்ணகை அம்மன் ஆலய பகுதியில் ஆட்டோவில் சென்று அங்கு வீதியில் மேய்ந்து கொண்டிருந்த ஆடுகளில் ஒரு ஆட்டை பிடித்து ஆட்டோவில் கொண்டு கடத்தி சென்றுள்ளார்.
-
-...
-
-[Data](articles/b57f16d7.json)
-
-[Extended Data](ext_articles/b57f16d7.ext.json)
-
----
-
-### Sri Lanka’s remittance inflow exceeds US$ 5 billion in 2025
-
-*2025-09-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112243/sri-lankas-remittance-inflow-exceeds-us-5-billion-in-2025) · `en`
-
-Sri Lanka has received USD 680.8 million in workers’ remittances in August 2025, according to the latest figures released by the Central Bank of Sri Lanka (CBSL).
-
-Accordingly, the total remittances from January to August 2025 reached USD 5.116 billion, up 19.3% from the same period last year (US$ 4.28 billion).
-
-Meanwhile, official figures show that earnings from tourism surpassed USD 2 billion during the first eight months of this year.
-
-Accordingly, the total tourism earnings in the first eight months of 2025 is recorded as USD 2.03 billion, which is an increase of 7.8% compared to the tourism earnings of USD 1.88 billion recorded in the first eight months of 2024.
-
-◼️
-
-[Data](articles/df74c7b4.json)
-
-[Extended Data](ext_articles/df74c7b4.ext.json)
-
----
-
-### ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ වාර්ෂික ඇසළ මහා පෙරහැර මංගල්‍යයට ජනපති එක් වෙයි
-
-*2025-09-07 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214264) · `si`
-
-ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ සහ ශ්‍රී සුමන සමන් මහා දේවාලයේ 2025 ඇසළ මහා පෙරහර මංගල්‍යයේ සිව්වන රන්දෝලි පෙරහර ඊයේ රාත්‍රී විථී සංචාරය කළේය.
-
-මහියංගන පුද බිම වෙත ගිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ආගමික වතාවත්වල නිරත විය.
-
-අනතුරුව ජනාධිපතිවරයා අස්ගිරි විහාර පාර්ශ්වයේ ජ්‍යෙෂ්ඨ කාරක සංඝ සභික, මහියංගනය රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ශ්‍රී ධම්මරක්ඛිත නායක හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබාගත් අතර උන්වහන්සේගේ  සුවදුක් විමසමින් කෙටි පිළිසඳරකද නිරත විය.
-
-අනතුරුව ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ සහ ශ්‍රී සුමන සමන් මහා දේවාලයේ 2025 ඇසළ මහා පෙරහැර මංගල්‍යයේ සිව්වන  රන්දෝලි පෙරහැරේ සමාරම්භය සනිටුහන් කරමින් මංගල හස්ති රාජයා මත සධාතුක කරඬුව තැන්පත් කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රදේශවාසී ජනතාව සමඟ පෙරහැර නැරඹීමටද එක් විය.
-
-...
-
-[Data](articles/e3477aca.json)
-
-[Extended Data](ext_articles/e3477aca.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 00:36:41**
+As of **2025-09-08 00:08:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,882 (84.3%) of 74,618 articles have been extended.
+62,862 (84.2%) of 74,618 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,24 +79,6 @@ However, the South African team was able to win the 3-match tournament match 2-1
 [Data](articles/bd3e83cb.json)
 
 [Extended Data](ext_articles/bd3e83cb.ext.json)
-
----
-
-### Ranil Wijewardena is good for the country if Ranil goes to Parliament
-
-*2025-09-07 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
-
-If Ranil Wickremesinghe is in Parliament in the current state of the country it is good for the country. However, he has not taken any decision on his visit to Parliament, ”said Ruwan Wijewardena, Deputy Chairman of the United National Corporation.
-
-He said in a commenting on the media on Sunday (7) at the United National Party headquarters, Sirikotha, on Sunday (7).
-
-If former President Ranil Wickremesinghe is in Parliament in the current situation in the country, I think the country is good for the country. However, there is no relevance regarding it yet. If he is going to Parliament, he will look at the right time. However, there is no discussion in this regard.
-
-...
-
-[Data](articles/6720d150.json)
-
-[Extended Data](ext_articles/6720d150.ext.json)
 
 ---
 
@@ -309,6 +291,24 @@ Opening batsmen (33) and Kusal Mendis (30) contributed to Sri Lankan innings.
 [Data](articles/5da5babf.json)
 
 [Extended Data](ext_articles/5da5babf.ext.json)
+
+---
+
+### Ranil Wijewardena is good for the country if Ranil goes to Parliament
+
+*2025-09-07 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
+
+If Ranil Wickremesinghe is in Parliament in the current state of the country it is good for the country. However, he has not taken any decision on his visit to Parliament, ”said Ruwan Wijewardena, Deputy Chairman of the United National Corporation.
+
+He said in a commenting on the media on Sunday (7) at the United National Party headquarters, Sirikotha, on Sunday (7).
+
+If former President Ranil Wickremesinghe is in Parliament in the current situation in the country, I think the country is good for the country. However, there is no relevance regarding it yet. If he is going to Parliament, he will look at the right time. However, there is no discussion in this regard.
+
+...
+
+[Data](articles/6720d150.json)
+
+[Extended Data](ext_articles/6720d150.ext.json)
 
 ---
 

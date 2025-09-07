@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 19:54:02**
+As of **2025-09-07 18:55:36**
 
 ## Newspaper Stats
 
-*Scraped **74,599** Articles*
+*Scraped **74,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,216
+adalk | 7,215
 adaderanalk | 9,544
-tamilmirrorlk | 11,108
+tamilmirrorlk | 11,107
 virakesarilk | 12,192
 adaderanasinhalalk | 12,991
 
@@ -26,81 +26,27 @@ adaderanasinhalalk | 12,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,588 (83.9%) of 74,599 articles have been extended.
+62,534 (83.8%) of 74,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### ராஜினாமா செய்கிறார் ஜப்பான் பிரதமர்
-
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
-
-ஜப்பான் பிரதமர் ஷிகெரு இஷிபா ராஜினாமா செய்ய முடிவு; ஆளும் கட்சியில் பிளவு ஏற்படாமல் தடுக்கும் நோக்கத்துடன் இந்த முடிவு எடுத்திருப்பதாக, தகவல் வெளியாகியுள்ளது.
-
-ஜப்பான் நாட்டின் பிரதமராக இருப்பவர் ஷிகெரு இஷிபா. இவர், லிபரல் டெமாக்ரடிக் கட்சியின் சார்பில் பதவி வகிக்கிறார்.இந்தாண்டு ஜூலை மாதம் நடந்த பார்லியின் மேலவை தேர்தலில் இந்த கட்சிக்கு தோல்வி கிடைத்தது.
-
-இதனால் ஆளும் கட்சி, பெரும்பான்மையை இழந்து விட்டது.இதற்கு பொறுப்பேற்று பிரதமர் ராஜினாமா செய்ய வேண்டும் என்று கட்சி நிர்வாகிகள் சிலர் குரல் எழுப்பத் தொடங்கியுள்ளனர்.
-
-கடந்த ஒரு மாதமாக இவ்வாறு கூறப்படும் கருத்துக்களை பிரதமர் புறக்கணித்து வந்தார். ஆனால், நாளுக்கு நாள் அவரது ராஜினாமாவை கோரும் குரல்கள் வலுத்து வருகின்றன.குறிப்பாக, அவரது கட்சியில் இருக்கும் வலதுசாரிகள், இந்த கோரிக்கையை வலியுறுத்தி வருகின்றனர்.
-
-...
-
-[Data](articles/2dbc18b6.json)
-
----
-
-### Sri Lanka a target of 192 runs
+### ශ්‍රී ලංකාවට ලකුණු 192ක ඉලක්කයක්
 
 *2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
 
-Zimbabwe scored 191 runs for the loss of 19 wickets in the first 20 overs.
+ශ්‍රී ලංකාව හා සිම්බාබ්වේ අතර අද (07) පැවැත්වෙන තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයේ දී පළමුව පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 191ක් රැස්කිරීමට සමත් විය.
 
-This was the highest scorers of Zimbabwe's highest marks in the Twenty20 match against Sri Lanka.
+මෙය ශ්‍රී ලංකාවට එරෙහිව විස්සයි20 තරගයකදී සිම්බාබ්වේ කණ්ඩායම රැස් කළ ඉහළම ලකුණු සංඛ්‍යාව ලෙස වාර්තා අතරට එක්විය.
 
-Earlier, they had scored 178 runs for the loss of 6 wickets.
+මීට පෙර ඔවුන් රැස් කර තිබූ ඉහළම ලකුණු සංඛ්‍යාව වූයේ කඩුලු 6ක් දැවී ලකුණු 178ක් රැස් කර තිබීමයි.
 
-Accordingly, Sri Lanka won a target of 192 runs.
-
-Sri Lanka captain Charith won the toss and win the coin of the match at the Harrara Stadium.
-
-Tadiwanashe Marumani scored 51 runs on behalf of Zimbabwe. Sikandar raza scored 28 runs.
-
-Sean Williams bowled out 23 runs while Brian Bennett scored 13 runs.
-
-Dushan Hemantha took 3 wickets for Sri Lanka in bowling. Damadantha Chameera took 2 wickets.
-
-The winner can win the championship in this competition, as the two teams have won the two matches every two matches.
-
-Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has rested to the rest of the time.
+ඒ අනුව ශ්‍රී ලංකාවට ජයග්‍රාහණය සඳහා ලකුණු 192ක ඉලක්කයක් හිමිවිය.
 
 ◼️
 
 [Data](articles/12120caa.json)
-
-[Extended Data](ext_articles/12120caa.ext.json)
-
----
-
-### Namal is worried about Padme
-
-*2025-09-07 17:53:15* · [`adalk`](https://www.ada.lk/breaking_news/පද්මේ-ගේන-කොට-නාමල්-කලබල-වෙලා/11-418331) · `si`
-
-Health and Mass Media Media Dr. Nalinda Jayatissa said that the underworld and powdery racket in the country will be revealed in the future.
-
-He was speaking to the media after attending the province of the people at the Matale General Hospital.
-
-"The people of the Knowledge of the Knowledge of the Black Money is also arrested by the Governments of the Governor.
-
-So when the accused was accused of the accused of 2015-20 days, they began to prove the allegations to prove the allegations, but they believed that they would not hurt. Attempts to rush Namal Rajapaksas to abolish the party membership of the MP at the time of alleged.
-
-Going to witnesses. The politicians will reveal. Namal Rajapaksas worked up at the airports, including in Kehelchma. There is a doubt that the thief is the fence. Sri Lanka's politician is looking for the top. They will be revealed in terms of research
-
-◼️
-
-[Data](articles/7c6199ef.json)
-
-[Extended Data](ext_articles/7c6199ef.ext.json)
 
 ---
 
@@ -2133,5 +2079,37 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 [Data](articles/d1e4fcda.json)
 
 [Extended Data](ext_articles/d1e4fcda.ext.json)
+
+---
+
+### மித்தெனியவில் கைக்குண்டுகள், தோட்டாக்கள் மீட்பு
+
+*2025-09-07 02:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தெனியவில்-கைக்குண்டுகள்-தோட்டாக்கள்-மீட்பு/175-364111) · `ta`
+
+மித்தெனிய - தலாவ பகுதியில் ஐஸ் ரக போதைப்பொருளை தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனப் பொருள்கள் கண்டுபிடிக்கப்பட்ட இடத்தில், வெளிநாட்டில் தயாரிக்கப்பட்ட ஐந்து கைக்குண்டுகளும், ரீ 56 ரகத்தைச் சேர்ந்த 18 தோட்டாக்களும் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+முன்னதாக, ஒழுங்கமைக்கப்பட்ட குற்றக்குழு உறுப்பினரான கெஹெல்பத்தர பத்மேவினால் வழங்கப்பட்ட தகவலுக்கமைய, அந்தப் பகுதியில் மேற்கொள்ளப்பட்ட அகழ்வில், 42 ஆயிரம் கிலோகிராம் நிறையுடைய ஐஸ் ரக போதைப்பொருள் உற்பத்திக்கு பயன்படும் மூலப்பொருள் மற்றும் இரசாயனம் அடங்கிய கலவை மீட்கப்பட்டிருந்தது. (a)
+
+◼️
+
+[Data](articles/9526ead3.json)
+
+[Extended Data](ext_articles/9526ead3.ext.json)
+
+---
+
+### A Passage North
+
+*2025-09-07 01:05:00* · [`islandlk`](http://island.lk/a-passage-north/) · `en`
+
+Soon after I read Brotherless Night, I found another book about the conflict, which was also a sort of pendent to the Booker Prize winning Seven Moons of Maali Almeida, and had indeed been shortlisted for the book the year before Shehan Karunatilleka won it.
+
+Unlike those two, which were a retelling of history, this was an introspective novel that explores something of the suffering caused by the war – though it did have set pieces within that were in fact retellings of actual episodes during the war.
+
+...
+
+[Data](articles/1434131e.json)
+
+[Extended Data](ext_articles/1434131e.ext.json)
 
 ---

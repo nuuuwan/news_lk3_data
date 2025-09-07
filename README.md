@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 12:53:57**
+As of **2025-09-07 12:10:21**
 
 ## Newspaper Stats
 
-*Scraped **74,550** Articles*
+*Scraped **74,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,127 +16,39 @@ economynextcom | 4,523
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,209
+adalk | 7,208
 adaderanalk | 9,536
-tamilmirrorlk | 11,097
+tamilmirrorlk | 11,095
 virakesarilk | 12,186
-adaderanasinhalalk | 12,977
+adaderanasinhalalk | 12,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,154 (83.4%) of 74,550 articles have been extended.
+62,111 (83.3%) of 74,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### Five dictated five boat in Pakistan
-
-*2025-09-07 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214273) · `si`
-
-Five people were killed in a boat caused by a boat from the South Punjab, Pakistan.
-
-Foreign media reports that a boat that was removed from Pakistan's flood victims had fallen.
-
-The boat rollified the boat and several people who were traveling there were security forces.
-
-The floods in Pakistan have affected more than 4,100 million in the country and more than 2 million have been removed from their homes.
-
-◼️
-
-[Data](articles/d68bf41d.json)
-
-[Extended Data](ext_articles/d68bf41d.ext.json)
-
----
-
-### Russia attacked Ukrainian government building
-
-*2025-09-07 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214272) · `si`
-
-According to foreign media reports, Russia has been damaged by a major building at Ukraine's massive attack on Ukraine.
-
-Foreign media has said that Russia has used missiles and drones to the attack and that they have targeted the buildings in the center of Kiev.
-
-Also, Russia has also attacked several major factories residential buildings in the city and several buildings have been partially damaged due to the attacks.
-
-Three people in Ukraine have been killed and 13 more were injured as a result of attacks.
-
-Meanwhile, Russia has also attacked Russia, the hometown of Broolor Celenceky's hometown in foreign media reports.
-
-According to the Ukrainian Air Force, Russia had launched 805 drones and 13 missiles in one night.
-
-They have also stated that the Ukrainian Air Force has been shot dead by the drowning.
-
-The foreign media reports that the attack was carried out by Russian President Vladmir Putin against the sending of peacekeeping troops to Ukraine after consent to the ceasefire.
-
-...
-
-[Data](articles/0dc6740a.json)
-
-[Extended Data](ext_articles/0dc6740a.ext.json)
-
----
-
-### Putin's proposal denies Celenceki
+### පුටින්ගේ යෝජනාව සෙලෙන්ස්කි ප්‍රතික්ෂේප කරයි
 
 *2025-09-07 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214271) · `si`
 
-Ukrainian President Wowhotmier Selenceky has rejected the proposal to be held with the Ukrainian President in Moscow.
+යුක්‍රේන ජනාධිපතිවරයා සමඟ හමුවක් මොස්කව් හීදී සිදු කිරීමට රුසියානු ජනාධිපති වැලැද්මීර් පුටින් ඉදිරිපත් කළ යෝජනාව යුක්‍රේන ජනාධිපති වොලොද්මියර් සෙලෙන්ස්කි ප්‍රතික්ෂේප කර තිබේ.
 
-In an interview with an American media institution, the President has said that Ukraine has stated that Ukraine is unable to go to the capital of the terrorist in Ukraine.
+අමෙරිකානු මාධ්‍ය ආයතනයක් සමඟ පැවති සම්මුඛ සාකච්ඡාවකදී යුක්‍රේන ජනාධිපතිවරයා ප්‍රකාශ කර ඇත්තේ යුක්‍රේනය දෛනිකව ප්‍රහාරවලට ලක්වන තත්ත්වයක් තුළ එම ත්‍රස්තවාදීයාගේ අගනුවරට යාමට තමාට හැකියාවක් නොමැති බවය.
 
-However, Celenceky has stated that the Russian President is able to attend the Ukraine capital.
+කෙසේවෙතත් අවශ්‍ය නම් රුසියානු ජනාධිපතිවරයාට සාකච්ඡා සදහා යු‍ක්‍රේන අගනුවරට පැමිණීමේ හැකියාව පවතින බව සෙලෙන්ස්කි ප්‍රකාශ කර ඇත.
 
-US President Donald Trump has tried to make a meeting with Ukraine and Russian presidents to end the Ukrainian war.
+යුක්‍රේන යුද්ධය අවසන් කිරීම සදහා යුක්‍රේන හා රුසියානු ජනාධිපතිවරුන් අතර හමුවක් පැවැත්වීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් උත්සහ ගනු ලැබුව ද මේ වන තෙක් එය සාර්ථක කර ගැනීමට හැකියාව ලැබී නොමැත.
 
-The Ukrainian President Vladminir Putin had stated that he was ready to meet the Russian capital Moscow in the Russian capital Moscow.
+පසුගියදා ඒ සම්බන්ධයෙන් ප්‍රකාශයක් සිදුකරමින් රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින් සදහන් කර තිබුණේ යුක්‍රේන ජනාධිපතිවරයා රුසියානු අගනුවර වන මොස්කව් හීදි හමුවීමට තමන් සූදානම් බවය.
 
 ◼️
 
 [Data](articles/ecf0c3b3.json)
-
-[Extended Data](ext_articles/ecf0c3b3.ext.json)
-
----
-
-### First Action tomorrow
-
-*2025-09-07 11:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-அதிரடி/175-364133) · `ta`
-
-Deputy Transport Minister Prasanna Gunasena has announced that the Sri Lankan police will begin a nationwide drastic operation from September 8 against the changes in the legalization and unsafe driving procedures.
-
-Under the new enforcement measures, the authorities will conduct tests across the island to ensure that the Motor Transportation Act and the relevant regulations are complied with.
-
-Crimes include operating vehicles, unauthorized color changes, installing multi -colored decorative lamps, using noise pipes that increase the noise pipes, and showing images or ads in vehicles.
-
-◼️
-
-[Data](articles/c90a97c3.json)
-
-[Extended Data](ext_articles/c90a97c3.ext.json)
-
----
-
-### Foreign Minister of Geneva
-
-*2025-09-07 11:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெனீவா-புறப்பட்டார்-வெளியுறவு-அமைச்சர்/175-364132) · `ta`
-
-Foreign Minister Vijitha Herath will leave Geneva this morning to attend the 60th session of the United Nations Human Rights Council, which begins tomorrow (8).
-
-During the session, Minister Herath will present a special report on behalf of the Sri Lankan government.
-
-He is expected to hold bilateral discussions with many senior diplomats in Geneva. One year after the NPP government came to power, the UN to present the new government's initiatives, progress and future plans on human rights protection. A special meeting is scheduled for Human Rights Commissioner Volcker Turuk.
-
-During the session, the Director General of the UN and Human Rights Division of the Foreign Ministry will be with Minister Hera during the session.
-
-◼️
-
-[Data](articles/02f65b54.json)
-
-[Extended Data](ext_articles/02f65b54.ext.json)
 
 ---
 
@@ -157,8 +69,6 @@ Earlier Klitschko had said an elderly woman died in a bomb shelter in the leafy 
 ...
 
 [Data](articles/85fde33d.json)
-
-[Extended Data](ext_articles/85fde33d.ext.json)
 
 ---
 
@@ -260,8 +170,6 @@ A special meeting is set to take place between UN High Commissioner for Human Ri
 
 [Data](articles/c849e5d9.json)
 
-[Extended Data](ext_articles/c849e5d9.ext.json)
-
 ---
 
 ### ජිනීවා මානව හිමිකම් සමුළුවට සහභාගීවීමට ඇමති විජිත දිවයිනෙන් පිටත්ව යයි
@@ -290,22 +198,6 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 ---
 
-### වාහන ආයනයනට මුල් මාස 6දී ඩොලර් මිලියන 475ක් වැය වෙලා
-
-*2025-09-07 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආයනයනට-මුල්-මාස-6දී-ඩොලර්-මිලියන-475ක්-වැය-වෙලා/11-418324) · `si`
-
-වාහන ආනයනය කිරිම  සදහා මෙම වර්ෂයේ මුල්මාස හය තුලදි  ඇමරිකානු ඩොලර් මිලියන  475ක මුදලක් වැයවි ඇති බැව් ශ්‍රිලංකා මහබැංකුව විසින් නිකුත්කොට ඇති වාර්තාවක සදහන් වේ.
-
-ඒ අනුව පුද්ගලික රථවාහන, වාණිජ්‍ය කටයුතු සදහා යෙදාගනු ලබන වාහන, ඇතුළු  වාහන ආනයනය කිරිම සදහා මෙම මුදල වැයවි ඇත. මෙම වර්ෂයේ ජනවාරි මාසයේ දි  වාහන ආනයන මත පනවා තිබු සිමාවන් ලිහිල් කිරිමත් සමග  මෙම වර්ෂයේ මුල් භාගයේ දි වාහන  ආනයනය කිරිම කැපිපෙනෙන ලෙස වැඩිවිමක් දක්නට ලැබුණු බවද මහබැංකු වාර්තාවේ සදහන් වේ. වාහන සදහා ඉල්ලුම ඉහළයාමේ තත්ත්වයක් දක්නට ඇති අතර   වාහන සදහා ඇති අධික ඉල්ලුම  ක්‍රමයෙන් අඩුවනු ඇති බවද මහබැංකුව පෙන්වා දෙයි.
-
-වාහන ආනයන සිමාවන් ලිහිල්කිරිම සහ ආනයන ඉහළයාම මධ්‍ය යේ  2025 වර්ෂයේ ජුලි මස 22 වැනිදින දක්වා කාලය තුල  ශ්‍රිලංකා රුපියල ඇමරිකානු ඩොලරයට සාපේක්ෂව සියයට 3.1 සුළු අවප්‍රමාණයක්  සිදුවි ඇති බවද මහබැංකු වාර්තාවේ සදහන් වේ.
-
-◼️
-
-[Data](articles/ea92a3c0.json)
-
----
-
 ### Another stock of chemicals suspected to be used for ‘Ice’ drug production found in Tangalle
 
 *2025-09-07 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112247/another-stock-of-chemicals-suspected-to-be-used-for-ice-drug-production-found-in-tangalle) · `en`
@@ -327,8 +219,6 @@ The seized stock of chemicals is scheduled to be taken to the Tangalle Police fo
 ◼️
 
 [Data](articles/4f517f24.json)
-
-[Extended Data](ext_articles/4f517f24.ext.json)
 
 ---
 
@@ -446,8 +336,6 @@ Horana Police are conducting further investigations in order to apprehend the su
 
 [Data](articles/6eb53f3b.json)
 
-[Extended Data](ext_articles/6eb53f3b.ext.json)
-
 ---
 
 ### AI யால் அடுத்த 5 வருடத்தில் 99 சதவீதம் பேர் வேலையை இழப்பர்: எச்சரிக்கும் நிபுணர்
@@ -523,8 +411,6 @@ On Sunday, the state’s main water rescue organisation, Surf Life Saving NSW, d
 ...
 
 [Data](articles/a49cf5f4.json)
-
-[Extended Data](ext_articles/a49cf5f4.ext.json)
 
 ---
 
@@ -2031,5 +1917,111 @@ Emergency inspector is the purpose of providing public services to all nations a
 [Data](articles/d9f75803.json)
 
 [Extended Data](ext_articles/d9f75803.ext.json)
+
+---
+
+### Zimbabwe to the coin
+
+*2025-09-06 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214244) · `si`
+
+The second T20 match between the Sri Lanka Tourism and Host Zimbabwe will be held today (6th).
+
+The Zimbabwe captain won the toss and won the toss.
+
+It is reported that Makil widespread has been called in place of Kusal Janith.
+
+Kamambala Mendis says that the Sri Lanka Cup Tournament is a good preparation for the Asia Cup tournament.
+
+Sri Lanka were able to win the first Twenty20 match between the two countries by 4 wickets.
+
+◼️
+
+[Data](articles/306c98f0.json)
+
+[Extended Data](ext_articles/306c98f0.ext.json)
+
+---
+
+### Important containers 323 released from Customs, there is no link between 323 and containers found in Mapden - Police
+
+*2025-09-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214242) · `si`
+
+Police say that 323 imported containers released from Customs and the Ice Drugs, who were released by a group of organized criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminadu.
+
+Police Media Spokesman, Assistant Superintendent of Police (F). U. Mr. Woodler said that.
+
+He noted that the number of matters pertaining to 323 applications were not equal to 323 imported containers.
+
+"Some opinion on the release of 323 containers of 2025 went in society. But these two containers are not involved. Because we checked with numbers in the containers. Because the Criminal Investigation Department for 323 Containers was two other containers of such adapted numbers. Therefore, 323 containers have no contact. "
+
+◼️
+
+[Data](articles/19bcdcc0.json)
+
+[Extended Data](ext_articles/19bcdcc0.ext.json)
+
+---
+
+### Police reveal to the Ice drug manufacturing chemicals imported from Padma
+
+*2025-09-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214243) · `si`
+
+Police Media Spokesperson Assistant Superintendentus, police spokesman Assistant Superintendenti. Says U Woatler.
+
+He was speaking at a special press conference held at the Police Media Division auditorium today (06).
+
+The suspect has been arrested by one suspect in the respective land and handed over to the Western Province North Criminal Investigation Division.
+
+He added that the ice drug imported from abroad and has made a strong attempt to produce it in Sri Lanka.
+
+The media spokesman said that the public will inform the public about these contents.
+
+He also said that the public is behind all these successful raids and that they are expressing their gratitude to those who support them.
+
+◼️
+
+[Data](articles/550b1fbe.json)
+
+[Extended Data](ext_articles/550b1fbe.ext.json)
+
+---
+
+### Ambassador says Chinese government will be fully supported to develop the country
+
+*2025-09-06 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214241) · `si`
+
+Chinese Ambassador in Sri Lanka, Sri Lanka's Government has extended the full support of the Government of President Anura Kumara Dissanayake.
+
+The Ambassador said this to the provision of livelihood families in the district to uplift low income families in the Polonnaruwa District.
+
+Steps were taken to provide Rs.
+
+Deputy Minister of Health and Mass Media, Hon. Wijemani, Deputy Minister of Housing. Sarath and Members of Parliament Sunil Ratnasiri, Padmasiri Bandara, Polonnaruwa Bandara, Polonnaruwa District Secretary Sujantha Kumara, Polonnaruwa District Secretary Sujantha Kumara, Polonnaruwa District Secretary Sujanatissanayake Kumara and Polonnaruwa District Secretary Sujantha Ekanasiri.
+
+◼️
+
+[Data](articles/fa36e1c4.json)
+
+[Extended Data](ext_articles/fa36e1c4.ext.json)
+
+---
+
+### Israeli army urges Gaza to leave
+
+*2025-09-06 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224375) · `ta`
+
+The Israeli military has urged the civilians in Gaza to go south of Khan Younis before the intense attack against Hamas.
+
+It states that Israel is providing field hospitals, water supply, salty units and food to the displaced families.
+
+Israeli Prime Minister Benjamin Netanyahu has directed the forces to move deep into the city of Israel, the central base of Hamas.
+
+It is reported that military officials are now controlling parts of the Gaza area and parts of the city.
+
+◼️
+
+[Data](articles/5004cf85.json)
+
+[Extended Data](ext_articles/5004cf85.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 19:54:02**
+As of **2025-09-07 20:36:53**
 
 ## Newspaper Stats
 
-*Scraped **74,599** Articles*
+*Scraped **74,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,108 @@ dailyftlk | 5,277
 adalk | 7,216
 adaderanalk | 9,544
 tamilmirrorlk | 11,108
-virakesarilk | 12,192
-adaderanasinhalalk | 12,991
+virakesarilk | 12,196
+adaderanasinhalalk | 12,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,588 (83.9%) of 74,599 articles have been extended.
+62,626 (83.9%) of 74,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### ராஜினாமா செய்கிறார் ஜப்பான் பிரதமர்
+### වැරදි නිවැරදි කරගත් ශ්‍රී ලංකාවට සුපිරි ජයක්
 
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
+*2025-09-07 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214289) · `si`
 
-ஜப்பான் பிரதமர் ஷிகெரு இஷிபா ராஜினாமா செய்ய முடிவு; ஆளும் கட்சியில் பிளவு ஏற்படாமல் தடுக்கும் நோக்கத்துடன் இந்த முடிவு எடுத்திருப்பதாக, தகவல் வெளியாகியுள்ளது.
+සත්කාරක සිම්බාබ්වේ කණ්ඩායමට එරෙහි තෙවන විස්සයි20 ක්‍රිකට් තරගයෙන් කඩුලු 08ක විශිෂ්ට ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම අද (7) සමත් විය.
 
-ஜப்பான் நாட்டின் பிரதமராக இருப்பவர் ஷிகெரு இஷிபா. இவர், லிபரல் டெமாக்ரடிக் கட்சியின் சார்பில் பதவி வகிக்கிறார்.இந்தாண்டு ஜூலை மாதம் நடந்த பார்லியின் மேலவை தேர்தலில் இந்த கட்சிக்கு தோல்வி கிடைத்தது.
+ඒ අනුව තරග 3කින් යුත් තරගාවලිය තරග 2-1ක් ලෙස අවසන් කර තරගාවලියේ ශූරතාව දිනාගැනීමට ශ්‍රී ලංකාවට හැකිවිය.
 
-இதனால் ஆளும் கட்சி, பெரும்பான்மையை இழந்து விட்டது.இதற்கு பொறுப்பேற்று பிரதமர் ராஜினாமா செய்ய வேண்டும் என்று கட்சி நிர்வாகிகள் சிலர் குரல் எழுப்பத் தொடங்கியுள்ளனர்.
+විස්සයි20 තරගයකදී සිම්බාබ්වේ කණ්ඩායමෙන් හිමි වූ දැවැන්තම ඉලක්කය වූ ලකුණු 192, කඩුලු 2ක් පමණක් දැවී තිබියදී තරගයේ 17.2වන පන්දුවාරයේ දී පසුකර යෑමට ශ්‍රී ලංකාවට සමත් විය.
 
-கடந்த ஒரு மாதமாக இவ்வாறு கூறப்படும் கருத்துக்களை பிரதமர் புறக்கணித்து வந்தார். ஆனால், நாளுக்கு நாள் அவரது ராஜினாமாவை கோரும் குரல்கள் வலுத்து வருகின்றன.குறிப்பாக, அவரது கட்சியில் இருக்கும் வலதுசாரிகள், இந்த கோரிக்கையை வலியுறுத்தி வருகின்றனர்.
+එහිදී අගනා ඉනිමක් ක්‍රීඩාකළ යොවුන් ක්‍රීඩක කමිල් මිශාර නොදැවී ලකුණු 73ක් රැස්කිරීමට සමත් විය. එම ඉනිමට හයේ පහර 2ක් හා හතරේ පහර 6ක් ඇතුළත් විය.
+
+ආරම්භක පිතිකරු යුගලය වූ පැතුම් නිස්සංක (33) හා කුසල් මෙන්ඩිස්ද (30) ශ්‍රී ලංකා ඉනිම දිනවීමට දායක වූහ.
+
+◼️
+
+[Data](articles/5da5babf.json)
+
+---
+
+### ரணில் பாராளுமன்றம் சென்றால் நாட்டுக்கு நல்லது – ருவன் விஜேவர்த்தன
+
+*2025-09-07 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
+
+நாட்டின் தற்போதைய நிலையில் ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் இருந்தால் அது நாட்டுக்கு நல்லது. என்றாலும்  அவர் பாராளுமன்றம் செல்வது தொடர்பில் இதுவரை எந்த தீர்மானமும் எடுக்கவில்லை என ஐக்கிய தேசிய கடட்சியின் பிரதித் தலைவர் ருவன் விஜேவர்த்தன தெரிவித்தார்.
+
+பெளர்ணமி தினத்தை முன்னிட்டு ஞாயிற்றுக்கிழமை (7) ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் இடம்பெற்ற தானசாலை நிகழ்வை ஆரம்பித்து வைத்து, அங்கு ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இ்வ்வாறு தெரிவித்தார்.
+
+நாட்டின் தற்போதைய நிலைமையில் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் இருந்தால் நாட்டுக்கு நல்லது என்றே நான் நினைக்கிறேன். என்றாலும் அதுதொடர்பான எந்த தயார் நிலையும் இதுவரை மேற்கொள்ளவில்லை. அவர் பாராளுமன்றத்துக்கு செல்வதாக இருந்தால், சரியான நேரம் காலம் பார்த்து செல்வார். என்றாலும் இதுதொடர்பில் எந்த கலந்துரையாடலும் தற்போதையக்கு இடம்பெறவில்லை.
 
 ...
 
+[Data](articles/6720d150.json)
+
+---
+
+### மட்டக்களப்பு முதலியார் சின்ன லெப்பை வீதி வடிகானில் கழிவுநீர் தேங்கி துர்நாற்றம்; மக்கள் கடும் விசனம்
+
+*2025-09-07 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224476) · `ta`
+
+மட்டக்களப்பு நகரில் உள்ள  முதலியார் சின்னலெப்பை வீதியில் உள்ள வடிகானில் கழிவு நீர் வழிந்தோட முடியாது தேங்கி வழிந்து வீதியில்  தேங்கி நிற்பதுடன் கடுமையான துர்நாற்றம் வீசி வருவதால் அந்த வீதி ஊடாக பயணிக்கும் பாடசாலை மாணவர்கள் பொதுமக்கள் அபிரயாணிக்க முடியாமல் சௌகரியங்களை எதிர்நோக்கி வருவதாக  கடும் விசனம் தெரிவிக்கின்றனர்.
+
+குறித்த வடிகானில் கழிவு பொருட்கள் நிறைந்து  காணப்படுவதுடன் அதனூடாக வழிந்து ஓடும் கழிவு  நீர் வழிந்தோட முடியாமல் தேங்கி நிற்பதுடன் கழிவு நீர் வடிகானை விட்டு வெளியேறி வீதியில் தேங்கி நிற்கிறது.
+
+அதே நேரத்தில் குறித்த வடிகான்களில் பிளாஸ்டிக் பொருட்கள் குவிந்து காணப்படுவதுடன் மரங்கள் வளர்ந்து வருகிறதுடன் தேங்கி நிற்கும் கழிவுநீரால்  துர்நாற்றம் வீசி வருவதால் அந்த வீதியில் உள்ள  குடியிருப்பவர்கள் பொது மக்கள்கள் மற்றும் பாடசாலைக்கு செல்லும் மாணவர்கள் அந்த வீதி ஊடாக பிரயாணிக்க முடியாமல் பல்வேறு அசௌகரியங்களை எதிர்நோக்கி வருகின்றதாக மக்கள் கடும் விசனம் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/d47e2af6.json)
+
+---
+
+### திருகோணமலையில் பட்டாசு வெடித்து ஒருவர் உயிரிழப்பு
+
+*2025-09-07 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224475) · `ta`
+
+திருகோணமலை தம்பலகாமம் பகுதியில் உள்ள ஆலயமொன்றில் சனிக்கிழமை (06) இரவு நடைபெற்ற வருடாந்திர திருவிழாவின் போது பட்டாசு வெடித்து ஒருவர் உயிரிழந்தார்.
+
+அங்கு நடைபெற்ற தேர் பவனியின் போது வானவேடிக்கை நிகழ்ச்சி ஏற்பாடு செய்யப்பட்டிருந்தது. அதில், வெடிக்காமல் இருந்த ஒரு பட்டாசை அருகில் இருந்த ஒருவர் காலால் உதைத்துள்ளார். அது மற்றொருவரைத் தாக்கி வெடித்ததில், அவர் தீவிரமாக காயமடைந்தார்.
+
+உயிரிழந்தவர் அதே பகுதியைச் சேர்ந்த 45 வயதுடைய மூன்று பிள்ளைகளின் தந்தை என அடையாளம் காணப்பட்டுள்ளார்.
+
+இவரின் சடலம் தொடர்பான பிரேத பரிசோதனை கந்தளாய் சட்ட வைத்திய அதிகாரியால் மேற்கொள்ளப்பட்டுள்ளது. சம்பவம் தொடர்பாக தம்பலகாமம் பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/d78a4bf1.json)
+
+---
+
+### Japanese Prime Minister resigns
+
+*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
+
+Japanese Prime Minister Shikheru Ishiba decision to resign The decision has been made with the aim of preventing splitting in the ruling party.
+
+Shigeru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
+
+Some of the party executives have begun to voice their voice that the Prime Minister should resign.
+
+The Prime Minister has ignored the comments that have been said for the past one month. But the voices of his resignation day by day are strengthening.
+
+In such a situation, the Liberal Democratic Party is due to decide whether to hold an election in advance of the party leadership.. In order to avoid it, it is reported that he has come forward to resign automatically
+
+◼️
+
 [Data](articles/2dbc18b6.json)
+
+[Extended Data](ext_articles/2dbc18b6.ext.json)
 
 ---
 
@@ -79,6 +153,22 @@ Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has res
 [Data](articles/12120caa.json)
 
 [Extended Data](ext_articles/12120caa.ext.json)
+
+---
+
+### கைதுகளில் பெரும்பாலானவை அரசியல் கண்காட்சி – வஜிர அபேவர்த்தன
+
+*2025-09-07 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224473) · `ta`
+
+இலங்கையில் இடம்பெறும் கைதுகளில் பெரும்பான்மையானவை அரசியல் கண்காட்சிக்காகவே மேற்கொள்ளப்படுகின்றன. அதனாலே நூறு பேர் கைது செய்யப்பட்டால் அதில் 98 பேர் விடுவிக்கப்படுகின்றனர். இந்த கலாசாரத்தை அரசியலமைப்பு திருத்தம் ஊடாக மேற்கொள்ளப்பட வேண்டும் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+
+காலியில் அமைந்துள்ள ஐக்கிய தேசிய கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை (7) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+யாராவது ஒரு நபர் கைதுசெய்யப்பட்டால் அது தண்டனையாக  கருதப்படுவதில்லை என அரசியலமைப்பில் தெரிவிக்கப்படுகிறது. ஆனால்  இலங்கையில் யாராவது கைதுசெய்யப்பட்டால், தண்டனையாக அவருக்கு கை விலங்கிடப்பட்டு, அரசியல் கண்காட்சி இடம்பெறுவதை காணக்கூடியதாக இருக்கிறது.
+
+...
+
+[Data](articles/345c1e42.json)
 
 ---
 
@@ -2033,105 +2123,5 @@ Known as a Blood Moon, this will be the last total lunar eclipse of the year and
 [Data](articles/495b67b1.json)
 
 [Extended Data](ext_articles/495b67b1.ext.json)
-
----
-
-### UK police arrest about 425 at protest for banned Palestine Action
-
-*2025-09-07 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112236/uk-police-arrest-about-425-at-protest-for-banned-palestine-action) · `en`
-
-British police arrested around 425 people on Saturday (Sep 6) at a demonstration backing Palestine Action, the pro-Palestinian group banned by the government as a terrorist organisation.
-
-Britain outlawed Palestine Action in July after some of its members broke into a Royal Air Force base and damaged military planes. The group has also targeted defence firms with links to Israel, accusing the government of complicity in alleged Israeli war crimes in Gaza.
-
-Hundreds of demonstrators gathered near parliament in London to oppose the ban, holding signs that read: “I oppose genocide. I support Palestine Action.”
-
-Police said those detained were arrested for offences including assaulting officers and supporting a proscribed organisation. “Officers ... have been subjected to an exceptional level of abuse including punches, kicks, spitting and objects being thrown, in addition to verbal abuse,” London’s Metropolitan Police wrote on X.
-
-...
-
-[Data](articles/0eb18e6e.json)
-
-[Extended Data](ext_articles/0eb18e6e.ext.json)
-
----
-
-### Binara Poya falls today
-
-*2025-09-07 05:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112235/binara-poya-falls-today) · `en`
-
-The Binara Full Moon Poya Day is considered a significant one in the history of Buddhism, marking several important events, including the establishment of the Bhikkhuni order.
-
-According to Buddhist history, it was on this Poya day that 500 women, including Maha Prajapati Gotami, were ordained and entered the monastic order, thereby granting ordination to women.
-
-Meanwhile, religious programs have been organized across temples and monasteries throughout the island today, focusing on both material (Amisa) and spiritual (Patipatti) offerings in observance of Binara Full Moon Poya Day.
-
-◼️
-
-[Data](articles/70a30324.json)
-
-[Extended Data](ext_articles/70a30324.ext.json)
-
----
-
-### Showery condition to enhance due to atmospheric disturbance
-
-*2025-09-07 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112234/showery-condition-to-enhance-due-to-atmospheric-disturbance) · `en`
-
-Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Eastern and Uva provinces during the next few days, the Department of Meteorology said.
-
-Meanwhile, showers or thundershowers can be expected in several places in the Northern, North-Central, Eastern and Uva provinces after 2.00 p.m. today (07), the Met. Department added.
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts as well.
-
-Meanwhile, the sun will be directly over the latitudes of Sri Lanka today due to its apparent southward relative motion.
-
-The nearest places of Sri Lanka over which the sun will be overhead today are Mirissa, Kamburugamuwa, Matara, Dondra, Gandara and Talalla at around 12.08 p.m.
-
-◼️
-
-[Data](articles/1c2af7d4.json)
-
-[Extended Data](ext_articles/1c2af7d4.ext.json)
-
----
-
-### ’அபிவிருத்திக்கு எந்த நேரத்திலும் நிதியொதுக்க தயார்’
-
-*2025-09-07 03:07:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்திக்கு-எந்த-நேரத்திலும்-நிதியொதுக்க-தயார்/175-364113) · `ta`
-
-மக்களுக்கு அவசியமான அபிவிருத்தித் திட்டங்களுக்கு எந்த நேரத்திலும் நிதி ஒதுக்கத் தயாராக இருப்பதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க அறிவித்துள்ளார்.
-
-மொனராகலை மாவட்ட செயலகத்தில் நேற்று (06) நடைபெற்ற மொனராகலை மாவட்ட விசேட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இதனைத் தெரிவித்துள்ளார்.
-
-ஒரு அபிவிருத்தித் திட்டம் ஆரம்பிக்கப்படும்போது, அது நிறைவடையும் வரை இலக்கு மயப்பட்ட திட்டத்தை அரச அதிகாரிகள் வைத்திருக்க வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தியுள்ளார்.
-
-இந்த ஆண்டு முதல் ஆரம்பிக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் உரிய நேரத்தில் நிறைவு செய்ய வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க சுட்டிக்காட்டியுள்ளார். (a)
-
-◼️
-
-[Data](articles/dfa05938.json)
-
-[Extended Data](ext_articles/dfa05938.ext.json)
-
----
-
-### ’ரிவிதனவி’ சூரிய மின்சக்தி பூங்கா நிர்மாணப் பணி ஆரம்பம்
-
-*2025-09-07 02:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிவிதனவி-சூரிய-மின்சக்தி-பூங்கா-நிர்மாணப்-பணி-ஆரம்பம்/175-364112) · `ta`
-
-இலங்கையின் மிகப்பெரிய புதுப்பிக்கத்தக்க எரிசக்தி முயற்சியான சியம்பலாண்டுவ 'ரிவிதனவி' சூரிய மின்சக்தி பூங்காவின் நிர்மாணப் பணிகள் நேற்று ஜனாதிபதி அநுர குமார திசாநாயக்கவின் தலைமையில் தொடங்கி வைக்கப்பட்டன.
-
-மொனராகலை மாவட்டத்தில் சியம்பலாண்டுவ, கொட்டியாகல பகுதியில் 500 ஏக்கர் காணியில் முன்னெடுக்கப்படவுள்ள 140 மில்லியன் அமெரிக்க டொலர் முதலீட்டிலான இந்த திட்டம், தேசிய மின்கட்டமைப்பில் 100 மெகாவோட் மின்சாரத்தைச் சேர்ப்பதுடன், ஆண்டுதோறும் 219 கிகாவோட் மின்சாரத்தை உற்பத்தி செய்யும்.
-
-இந்த திட்டத்தின் ஊடாக டீசல் இறக்குமதியைக் குறைப்பதன் மூலமும், ஒவ்வொரு ஆண்டும் 150,000 மெட்ரிக் தொன் கார்பன் வெளியேற்றத்தைக் குறைப்பதன் மூலமும் 21 பில்லியன் ரூபா அந்நியச் செலாவணியைச் சேமிக்க முடியும் என எதிர்பார்க்கப்படுகிறது.
-
-2030 ஆம் ஆண்டுக்குள் புதுப்பிக்கத்தக்க எரிசக்தியிலிருந்து 70 வீத மின்சாரத்தைப் பெறுவதற்கான இலங்கையின் இலக்கை நோக்கிய ஒரு முக்கிய படியாக இந்த முயற்சி பார்க்கப்படுகிறது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/d1e4fcda.json)
-
-[Extended Data](ext_articles/d1e4fcda.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 14:54:31**
+As of **2025-09-07 15:20:14**
 
 ## Newspaper Stats
 
-*Scraped **74,562** Articles*
+*Scraped **74,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,210
 adaderanalk | 9,538
-tamilmirrorlk | 11,099
+tamilmirrorlk | 11,103
 virakesarilk | 12,187
 adaderanasinhalalk | 12,983
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 12,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,276 (83.5%) of 74,562 articles have been extended.
+62,287 (83.5%) of 74,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### மீட்பு பணியில் காயமடைந்த இராணுவ  வீரரின் கதை
+
+*2025-09-07 14:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பு-பணியில்-காயமடைந்த-இராணுவ-வீரரின்-கதை/175-364143) · `ta`
+
+எல்ல-வெல்லவாய வீதியில் வியாழக்கிழமை (04) இரவு இடம்பெற்ற   கொடூரமான பேருந்து விபத்தில் சிக்கியவர்களை மீட்கும்பணியில் ஈடுபட்டிருந்த இராணுவ வீரர்கள் இருவர் மீது கற்பாறைகள் விழுந்தமையால் அவ்விருவரும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளமை உங்களுக்குத்தெரியும்.
+
+அதில் ஒருவர்தான்,  எல்ல கரடகொல்லவில் வசிக்கும் இராணுவத்தின் இரண்டாவது சிறப்பு அதிரடிப்படையைச் சேர்ந்த மதுஷன் பண்டார, அவர் மீட்பு பணியில் ஈடுபட்டிருந்தபோது, ஒரு பாறை விழுந்ததில்  , அவர் காயமடைந்து பதுளை போதனா மருத்துவமனையில் சிகிச்சை பெற்று வருகிறார். அவர் இந்த சம்பவத்தை பின்வருமாறு விவரித்தார்:
+
+“நான் விடுமுறையில் இருந்தேன், என் மாமா ஒரு வைபவ வீட்டிற்குச் சென்றிருந்தார். நான் என் நண்பர்களுடன் இருந்தபோது, ஒரு விபத்து நடந்ததாக எங்களுக்கு அழைப்பு வந்தது. பின்னர் என் நண்பர்கள் எங்களைப் போகச் சொன்னார்கள். நானும் மற்ற இரண்டு நண்பர்களும் வீட்டிற்குச் சென்று, பைக் மற்றும் டார்ச்சை எடுத்துக்கொண்டு, நாங்கள் மூவரும் சுமார் எட்டு கிலோமீட்டர் தூரம் கடந்து அங்கு சென்றோம்.
+
+...
+
+[Data](articles/77e054cb.json)
+
+---
+
+### 29 ஆம் ஆண்டு நினைவேந்தல்
+
+*2025-09-07 14:51:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-ஆம்-ஆண்டு-நினைவேந்தல்/175-364142) · `ta`
+
+செம்மணியில் இராணுவத்தால் பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்ட பின் படுகொலை செய்யப்பட்ட கிருசாந்தி குமாரசாமியின் 29 ஆம் ஆண்டு நினைவேந்தல் நிகழ்வு ஞாயிற்றுக்கிழமை (07) அன்று இடம்பெற்றது.
+
+வடக்கு, கிழக்கு நினைவேந்தல் குழுவின் ஏற்ப்பாட்டின் இந்த நிகழ்வு செம்மணி சந்துப் பகுதியில் காலை 9.30 மணிக்கு நடந்தது.
+
+படுகொலை செய்யப்பட்ட கிருசாந்தி குமாரசாமியின் மைத்துனன் சந்திரகாந்தன் மயூரன் மற்றும் உறவினர்கள் இந்த நினைவேந்தல் நிகழ்வில்
+
+அத்தோடு "வாசலிலே கிருசாந்தி" எனும் செம்மொழி தொடர்பான கவிதை நூலும் வெளியிட்டு வைக்கப்பட்டது
+
+மேலும் இந்த நினைவேந்தலில் தமிழரசு கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன், முன்னாள் பாராளுமன்ற உறுப்பினர்களான செல்வராஜா கஜேந்திரன், எம்.கே.சிவாஜிலிங்கம்,  வலிகாமம் கிழக்கு பிரதேச சபை தவிசாளர் தியாகராஜா நிரோஸ், பொது அமைப்புக்களின் பிரதிநிதிகள், பொது மக்கள் என பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/144c8cf6.json)
+
+---
+
+### The train collided with a train on the railway
+
+*2025-09-07 14:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-நித்திரையில்-இருந்தவர்-ரயில்-மோதி-பலி/175-364141) · `ta`
+
+A man who was sleeping in the Jeevapuram railway track of the Jeevapuram police division in the Batticaloa police division was killed and the death of a head of a traveler from Colombo to Batticaloa was killed and the death of a head was cut off at 10.00 pm on Saturday (06).
+
+The deceased is Varadaraja Krishnakanthan, the father of two children aged 28, from Jeevanagar, Sandivalai.
+
+The man was killed when a train crashed into a sleeping train at 10.00 pm on Saturday (06) at 10.00 pm.
+
+Initial inquiries by the police revealed that the train driver had been recovered after recovering the body at the Eravur railway station.
+
+The body was subsequently handed over to the Valasalai Base Hospital for autopsy, police said.
+
+◼️
+
+[Data](articles/870aca4f.json)
+
+[Extended Data](ext_articles/870aca4f.ext.json)
+
+---
+
+### Spouse
+
+*2025-09-07 14:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனை-கோடரியால்-கொத்திக்-கொன்ற-மனைவி/175-364139) · `ta`
+
+A wife in a house has been hacked to death by an ax and surrendered to the police with her three children, according to the Kebatikollawa Police Station.
+
+The mother of three children from Kurulugama in the Kebathikollawa Police Division surrenders to the police station. The deceased is Upali Herath (46), the father of three children from Ukuwa and Ukuwa.
+
+Police said that when he was arguing with his wife, the wife was trying to attack his wife with a sword and her husband died on the spot when she was hit by an ax.
+
+◼️
+
+[Data](articles/b542e03c.json)
+
+[Extended Data](ext_articles/b542e03c.ext.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -1955,93 +2031,5 @@ The plant was approved by in 2023 by the last administration during an economic 
 [Data](articles/b4f24345.json)
 
 [Extended Data](ext_articles/b4f24345.ext.json)
-
----
-
-### The bus driver's blood sends the blood of the driver to the Government Analyst
-
-*2025-09-06 18:46:30* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේ-බස්-රියදුරුගේ-රුධිරය-රජයේ-රස-පරීක්ෂකට-යවයි/11-418316) · `si`
-
-The driver's blood samples of the Falls were killed in a thousand feet of precipice in the Ella 15 in Poan Division.
-
-The Tangalle Municipal Council workers were traveling on a picnic jeep on the 15th of the Wellawaya area in the Wellawaya area, the accident had occurred when the picnic jeep was traveling on the 15 minute jeep on the 15th area of ​​the Wellawaya.
-
-The youth driver, a resident of Henekala, Tangalle, has also died of the Carmanlla Dimantha (25), a resident of Henekaduwa.
-
-The driver was conducting further investigations to investigate the rise to investigate and investigate the driver of the driver at the time of the private bus.
-
-◼️
-
-[Data](articles/cfbf8f1b.json)
-
-[Extended Data](ext_articles/cfbf8f1b.ext.json)
-
----
-
-### Maradana shooting motorcyclist arrested
-
-*2025-09-06 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214251) · `si`
-
-Motorcyclists have been arrested by the police in the Pananawa area in Pananawa today.
-
-Police said that Modara police were arrested for the arrest of the motorcyclist within a few minutes after the shooting.
-
-The suspect is a 21 year old resident of Bodhiraja Mawatha, Maligawatta, police said.
-
-With the release of police messages on the shooting, two Modara police sergeants were raided the motorcyclist fled while gathering another police officer.
-
-The suspect had fled the Kimbulala area, along with the motorcyclist's motorcyclist.
-
-The three police officers have launched a search operation in the area and hiding in a three-wheeler and climbed in a three-wheeler.
-
-Accordingly, the three-wheeler parked the three-wheeler with the assistance of a mobile travel jeep officer in the Madampitiya police sergeant.
-
-It has been said that the tragedy was involved in the motorcyclist in Kesana estate, which was an organized criminal in the Kesanasotuwa area after being interrogated by the arrested suspect.
-
-◼️
-
-[Data](articles/58394b87.json)
-
-[Extended Data](ext_articles/58394b87.ext.json)
-
----
-
-### Former buds arrested for hiding Padma's ice chemicals
-
-*2025-09-06 18:35:47* · [`adalk`](https://www.ada.lk/breaking_news/පද්මෙගේ-අයිස්-රසායනික-ද්‍රව්‍ය-සඟවාගෙන-සිට-හිටපු-පොහොට්ටු-මන්ත්‍රී-අල්ලයි/11-418315) · `si`
-
-A former Pradeshiya Sabha member of the Sri Lanka General Manager, a native criminal criminal leader, has been arrested in the Sri Lanka General Manager, the sale of chemists in the Talawa house in Middeniya.
-
-In the Western Criminal Investigation Division, the information conducted by Bau Saman, who is detained in the Trust, reports information on the chemicals.
-
-The brother of the former MP is also involved in the incident and Resources Manamamparei has also been suspended by the party's membership of the Sri Lanka Civil Appointment
-
-◼️
-
-[Data](articles/81d6679c.json)
-
-[Extended Data](ext_articles/81d6679c.ext.json)
-
----
-
-### Ditomic 79th Bradby shield to Royal College
-
-*2025-09-06 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214250) · `si`
-
-Royal College, Colombo won the 79th Bradby Shield defeating the Kalutara Tournament in Kandy.
-
-The second phase of this annual rugby battle was held today (06) at the Royal College Sports Complex, Colombo.
-
-Royal was lost 8-3 runs in the face of the royalty school.
-
-However, Royal was able to defeat the Trini Vidyalaya as 15-5 in the first phase of the Triple College stadium.
-
-Accordingly, according to the number of points in two stages, Royal College score 13 runs in Colombo.
-
-◼️
-
-[Data](articles/8495ec81.json)
-
-[Extended Data](ext_articles/8495ec81.ext.json)
 
 ---

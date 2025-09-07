@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 03:54:29**
+As of **2025-09-08 04:53:43**
 
 ## Newspaper Stats
 
-*Scraped **74,638** Articles*
+*Scraped **74,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 759
 economynextcom | 4,525
 islandlk | 4,588
 dailymirrorlk | 4,733
-dailyftlk | 5,294
+dailyftlk | 5,295
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
-virakesarilk | 12,203
+virakesarilk | 12,208
 adaderanasinhalalk | 12,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,026 (84.4%) of 74,638 articles have been extended.
+63,098 (84.5%) of 74,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### No rule of law unless rule of men defeated
+
+*2025-09-08 03:51:12* · [`dailyftlk`](https://www.ft.lk/columns/No-rule-of-law-unless-rule-of-men-defeated/4-781350) · `en`
+
+This is a serious matter for the Government of Anura Kumara Disanayake which has declared an open war with fighting corruption
+
+Chairing the late H.L. de Silva Memorial Events in 2012, the ex-Foreign Secretary H.M.G.S. Palihakkara openly questioned whether it is the rule of men or the rule of law which would usher prosperity to a nation.1 He answered his own question and opined that what was prevailing in Sri Lanka was not the rule of law but ‘a rule’ of men. For Sri Lanka to prosper, he said that the latter should be defeated. What he presented 13 years ago is valid for Sri Lanka even today.
+
+...
+
+[Data](articles/06d71885.json)
+
+[Extended Data](ext_articles/06d71885.ext.json)
+
+---
+
+### Literacy - The seed of mental light
+
+*2025-09-08 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
+
+◼️
+
+[Data](articles/c8ecc66e.json)
+
+[Extended Data](ext_articles/c8ecc66e.ext.json)
+
+---
+
+### Attack with his brother who came out of jail
+
+*2025-09-08 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224487) · `ta`
+
+The two have been arrested by the police after a man who was arrested and imprisoned with a sword was released on bail yesterday.
+
+The incident took place today in the Vaddukoddai police division.. The attack is reportedly due to a long -standing land dispute.
+
+The man who was injured in a sharp weapon has been taken to the Vaddukoddai Divisional Hospital and has been transferred to the Jaffna Teaching Hospital.
+
+Vaddukoddai police have arrested the two men and are carrying out investigations.
+
+◼️
+
+[Data](articles/218ad0ec.json)
+
+[Extended Data](ext_articles/218ad0ec.ext.json)
+
+---
+
+### Chemmani Human Massacre: New Information will reveal - Somatna Rajapaksa's wife
+
+*2025-09-08 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224486) · `ta`
+
+The main culprit in the Krishanthi Kumaraswamy assassination case of Krishanthi Kumaraswamy's assassination in the murder of Krishanthi Kumaraswamy, who stated that she would take steps to make such a consultation with her husband, Somaratna Rajapaksa to reveal what has not yet been revealed to all the media, the international community and the judiciary. Anurakumara has sent a letter again to Dissanayake.
+
+Lans Corporal Somaratne Rajapaksa, who was named as the main culprit in the murder of the school student Krishanthi Kumaraswamy, was sentenced to death, including the President's SCVIVrama 107.20225, the President of the President, SCVIVIMA, on the issue of the murder and the issue of the Semmani Human Rights issue. Sent to Anuragumara Dissanayake. Their copies were sent to Prime Minister Harini Amarasuriya and Justice Minister Harshana Nanayakkara.
+
+...
+
+[Data](articles/1a77fba8.json)
+
+[Extended Data](ext_articles/1a77fba8.ext.json)
+
+---
 
 ### Govt. breaks ground on $ 140 m Rividanavi solar power project
 
@@ -94,6 +158,26 @@ According to CBSL data, Sri Lanka’s short-term drain in foreign currency asset
 
 ---
 
+### Opening of National People's Power Public Library in Jaffna
+
+*2025-09-08 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224485) · `ta`
+
+The Jaffna office of the National People's Power was opened on Sunday (7) by the General Secretary of the People's Liberation Front, Rilvin Silva.
+
+The Library was opened at 5 pm on Sunday (7) at the National People's Power Public Relations Office at Palali Road, Kandarmadam.
+
+Fisheries and Maritime Minister Ramalingam Chandrasekhar, Members of Parliament Karunanathan Ilangumaran and Rajivan Jayachandramurthy were also present at the event.
+
+Meanwhile, a report on the murder case of the journalist Mayilvankanam Nimalarajan has been handed over to the General Secretary of the Janatha Vimukthi Peramuna (JVP) by the Jaffna Media Association.
+
+◼️
+
+[Data](articles/5302b262.json)
+
+[Extended Data](ext_articles/5302b262.ext.json)
+
+---
+
 ### Sri Lanka shines at Commonwealth Business Excellence Awards 2025
 
 *2025-09-08 02:53:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-shines-at-Commonwealth-Business-Excellence-Awards-2025/34-781337) · `en`
@@ -125,6 +209,32 @@ Prior to joining Hayleys PLC, Karr held several senior positions at Cinnamon Hot
 [Data](articles/b52bbfc9.json)
 
 [Extended Data](ext_articles/b52bbfc9.ext.json)
+
+---
+
+### A few politicians mixed with the arrest of the underworld groups - Vasantha Samarasinghe
+
+*2025-09-08 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224484) · `ta`
+
+A few politicians have been disturbed after the arrest of the underworld groups.
+
+He was speaking to the media after attending an event in Colombo on Sunday (7).
+
+All the opposition parties are currently united when they take action through the law for corrupt. The people of the country must understand that all members of the opposition parties are friends.
+
+The country was a bankruptment of corruption. So how to refer to it as politics when it takes action against corrupt people.
+
+Some politicians have been disturbed after the arrest of the underworld groups.
+
+The people of the country will quickly know that the drug is associated with the drug business and the politicians. The underworld groups and drug traders have been protected in the state sponsorship of last governments.
+
+The president's dreams have now been alarmed by the arrests of the underworld groups.
+
+◼️
+
+[Data](articles/0fdc8e7b.json)
+
+[Extended Data](ext_articles/0fdc8e7b.ext.json)
 
 ---
 
@@ -1973,131 +2083,5 @@ Accordingly, the vehicles carrying mineral transport activities should be proper
 [Data](articles/f19796ae.json)
 
 [Extended Data](ext_articles/f19796ae.ext.json)
-
----
-
-### Tangalle land found in Tangalle land to produce ice
-
-*2025-09-07 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214269) · `si`
-
-A large number of items suspected to produce ice drug production in the Netolpitiya area in Tangalle this morning (07).
-
-According to information received from the residents of the area, the Tangalle Police Station officials had a special raid on a land adjacent to Weliwitna crossway.
-
-Police officers were conducting a large haul of white chemicals on the land, and the police officers have been suspected to produce the ice drug manufacture.
-
-It is reported that these chemicals are very similar to chemicals used in the Talawa land area in Talawa yesterday.
-
-The chemicals have been brought to this place about 4 months ago, police said.
-
-Chemical Consignment is to be taken to the Tangalle Police this afternoon for further investigations.
-
-◼️
-
-[Data](articles/35ef1a49.json)
-
-[Extended Data](ext_articles/35ef1a49.ext.json)
-
----
-
-### Two drivers arrested
-
-*2025-09-07 11:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-சாரதிகள்-அதிரடியாக-கைது/76-364129) · `ta`
-
-Hatton Police Transport Officers arrested two drivers of two private buses who were in dangerously fast in the same direction from Kandy to Hatton.
-
-The two buses started their journey from the Kandy bus stand, and when the first bus faced the Ginigathena area, a man who was on a motorbike behind two buses and two buses drove the buses to the Hatton bus station and lodged a mobile phone.
-
-Immediately, the Superintendent of Police, who was acting immediately, informed the Ahattan Police Transport Unit to arrest the two drivers who drove the two buses, and the two drivers were arrested on suspicion.
-
-◼️
-
-[Data](articles/a5d84f72.json)
-
-[Extended Data](ext_articles/a5d84f72.ext.json)
-
----
-
-### Dispute killed
-
-*2025-09-07 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214268) · `si`
-
-The deceased is a 66 year old resident of the Horanawatta, aged.
-
-Preliminary investigations have revealed that the resident of the resident had been assassinated by a resident of the house due to a resident of the house.
-
-Horana Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/29e860b0.json)
-
-[Extended Data](ext_articles/29e860b0.ext.json)
-
----
-
-### Foreign Minister Vijitha Herath departs for Geneva to attend UNHRC session
-
-*2025-09-07 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112248/foreign-minister-vijitha-herath-departs-for-geneva-to-attend-unhrc-session) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, departed for Geneva, Switzerland, this morning (07) at around 6:45 a.m.
-
-Minister Vijitha Herath will be attending the 60th session of the UN Human Rights Council, which is scheduled to commence in Geneva on September 8 and will continue until October 8.
-
-The Foreign Minister is expected to deliver a special statement on behalf of the Sri Lankan government during the session.
-
-During his visit, Minister Herath is also scheduled to hold bilateral discussions with several high-ranking diplomats in Geneva.
-
-A special meeting is set to take place between UN High Commissioner for Human Rights, Volker Türk, and Minister Herath.
-
-...
-
-[Data](articles/c849e5d9.json)
-
-[Extended Data](ext_articles/c849e5d9.ext.json)
-
----
-
-### ජිනීවා මානව හිමිකම් සමුළුවට සහභාගීවීමට ඇමති විජිත දිවයිනෙන් පිටත්ව යයි
-
-*2025-09-07 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214267) · `si`
-
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා අද (07) පෙරවරු 06.45ට පමණ ජිනීවා බලා පිටත්ව ගොස් තිබේ.
-
-ඒ හෙට (08) ආරම්භ වන එක්සත් ජාතීන්ගේ මානව හිමිකම් සමුළුවේ 06 වන සැසියට සහභාගි වීම සඳහා ය.
-
-එහිදී අමාත්‍ය විජිත හේරත් ශ්‍රී ලංකා රජය වෙනුවෙන් විශේෂ ප්‍රකාශයක් සිදුකිරීමටත්  නියමිතය.
-
-මෙම සංචාරය අතරතුර අමාත්‍ය විජිත හේරත් මහතා ඉහළ පෙළේ රාජතාන්ත්‍රිකයන් කිහිප දෙනෙක් සමඟ ජිනීවා නුවර දී ද්විපාර්ශික සාකච්ඡා පැවැත්වීමට නියමිත ව ඇත.
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් Volker Turk හා අමාත්‍ය විජිත හේරත් අතර විශේෂ හමුවක් ද මෙහිදී පැවැත්වීමට නියමිතව ඇත.
-
-Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය කිරීමෙන් අනතුරුව සහ ජාතික ජන බලවේග රජය බලයට පත්වී වසරකින් පසුව පැවැත්වෙන මෙම සමුළුවේ දී මානව හිමිකම් ආරක්ෂා කිරීම සම්බන්ධයෙන් නව රජය ගෙන ඇති ක්‍රියාමාර්ග, ප්‍රගතිය සහ ඉදිරි සැලසුම් ඉදිරිපත් කිරීමට හැකි වේ.
-
-මෙවර මානව හිමිකම් සැසියට අමාත්‍ය විජිත හේරත්ට අමතරව විදේශ කටයුතු අමාත්‍යාංශයේ එක්සත් ජාතීන්ගේ සංවිධානය සහ මානව හිමිකම් පිළිබඳව අධ්‍යක්ෂ ජනරාල් දයානි මෙන්ඩිස් මහත්මිය ද සහභාගි වේ.
-
-◼️
-
-[Data](articles/739183d1.json)
-
-[Extended Data](ext_articles/739183d1.ext.json)
-
----
-
-### Import of vehicles cost US $ 475 million in first 6 months
-
-*2025-09-07 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආයනයනට-මුල්-මාස-6දී-ඩොලර්-මිලියන-475ක්-වැය-වෙලා/11-418324) · `si`
-
-According to a report issued by the Central Bank Sri Lanka's US $ 475 million in the first six of the year.
-
-Accordingly, the importation of vehicles including private vehicles, commerce vehicles, including vehicles, has spent. The Central Bank report also stated that the importation of the laws on imports of vehicle imports this year. The Central Bank points out that the demand for vehicles has been increased and the demand for vehicles will be gradually reduced.
-
-The Central Bank report also states that the rupee has caused 3.1 percent to the US dollar in July 2025 am on July 22, 2005.
-
-◼️
-
-[Data](articles/ea92a3c0.json)
-
-[Extended Data](ext_articles/ea92a3c0.ext.json)
 
 ---

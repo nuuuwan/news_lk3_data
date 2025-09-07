@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 10:54:59**
+As of **2025-09-07 11:20:09**
 
 ## Newspaper Stats
 
-*Scraped **74,533** Articles*
+*Scraped **74,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ economynextcom | 4,523
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,206
+adalk | 7,207
 adaderanalk | 9,531
 tamilmirrorlk | 11,093
 virakesarilk | 12,186
-adaderanasinhalalk | 12,972
+adaderanasinhalalk | 12,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.1%) of 74,533 articles have been extended.
+62,054 (83.3%) of 74,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### පුද්ගලයෙකුට මරු කැඳවූ ආරවුල
+
+*2025-09-07 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214268) · `si`
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 66ක් වන කැබැල්ලවත්ත, හොරණ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අදාළ පුද්ගලයා අසල්වැසි නිවසක මත්පැන් පානය කරමින් සිටියදී ඇති වූ ආරවුලක් දුරදිග යාම හේතුවෙන් එම නිවසේ පදිංචි පුද්ගලයා විසින් ආයුධයකින් පහර දී ඔහුව ඝාතනය කර ඇති බව මූලික පරීක්ෂණවලදී අනාවරණය වී ඇත.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා හොරණ පොලිසිය විසින් වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/29e860b0.json)
+
+---
 
 ### ජිනීවා මානව හිමිකම් සමුළුවට සහභාගීවීමට ඇමති විජිත දිවයිනෙන් පිටත්ව යයි
 
@@ -54,6 +70,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/739183d1.json)
 
+[Extended Data](ext_articles/739183d1.ext.json)
+
 ---
 
 ### சிக்குமா?
@@ -63,6 +81,28 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ◼️
 
 [Data](articles/e1d32d3e.json)
+
+[Extended Data](ext_articles/e1d32d3e.ext.json)
+
+---
+
+### Sri Lanka's largest renewable energy project launches construction
+
+*2025-09-07 10:03:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුනර්ජනනීය-බලශක්ති-ව්‍යාපෘතියේ-ඉදි-කිරීම්-අරඹයි/11-418322) · `si`
+
+By 2030, 70% of the National Electricity Renewable Power Project in Sri Lanka, the Siyambalanduwa, the Sri Lanka's Solar Power Park, was launched by President Anura Kumara Dissanayake yesterday (06).
+
+The cost incurred on this massive project, which is added to the national power system in the country, is US $ 140 million.
+
+The project will be constructed in a 500 acres of land in the Kotiyagala Grama Niladhari Division of the Kotiyagala Grama Niladhari, the Siyambalanduwa Divisional Secretariat area in the Moneragala District.
+
+The annual value of the country is 15,000 and 16,000 Glass, which is 15,000 and 16,000 gigavowatte 219 gain annually. As a result, the annual exchange of diesel will be able to save 21 billion rupees annually to the country. Accordingly, 41 million rupees will be left to the country approximately Rs. 41 million.
+
+...
+
+[Data](articles/08bf3bb3.json)
+
+[Extended Data](ext_articles/08bf3bb3.ext.json)
 
 ---
 
@@ -86,6 +126,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/226629f9.json)
 
+[Extended Data](ext_articles/226629f9.ext.json)
+
 ---
 
 ### වසරේ මුල් මාස අට තුළ විදේශ ප්‍රේෂණ ඩොලර් බිලියන 5 ඉක්මවයි
@@ -104,6 +146,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/1d970d50.json)
 
+[Extended Data](ext_articles/1d970d50.ext.json)
+
 ---
 
 ### AI யால் அடுத்த 5 வருடத்தில் 99 சதவீதம் பேர் வேலையை இழப்பர்: எச்சரிக்கும் நிபுணர்
@@ -117,6 +161,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ...
 
 [Data](articles/6df8f3ad.json)
+
+[Extended Data](ext_articles/6df8f3ad.ext.json)
 
 ---
 
@@ -140,6 +186,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/2835739a.json)
 
+[Extended Data](ext_articles/2835739a.ext.json)
+
 ---
 
 ### டிரம்ப் பேச்சில் திடீர் மாற்றம்: ஒரே வார்த்தையில் மோடி பதில்
@@ -155,6 +203,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ...
 
 [Data](articles/2b8a5f83.json)
+
+[Extended Data](ext_articles/2b8a5f83.ext.json)
 
 ---
 
@@ -176,6 +226,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/6e71de30.json)
 
+[Extended Data](ext_articles/6e71de30.ext.json)
+
 ---
 
 ### பச்சிளம் குழந்தையை தூக்கிச் சென்ற குரங்குகள்
@@ -191,6 +243,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ...
 
 [Data](articles/6f842db8.json)
+
+[Extended Data](ext_articles/6f842db8.ext.json)
 
 ---
 
@@ -210,6 +264,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/b57f16d7.json)
 
+[Extended Data](ext_articles/b57f16d7.ext.json)
+
 ---
 
 ### Sri Lanka’s remittance inflow exceeds US$ 5 billion in 2025
@@ -228,6 +284,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/df74c7b4.json)
 
+[Extended Data](ext_articles/df74c7b4.ext.json)
+
 ---
 
 ### ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ වාර්ෂික ඇසළ මහා පෙරහැර මංගල්‍යයට ජනපති එක් වෙයි
@@ -245,6 +303,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ...
 
 [Data](articles/e3477aca.json)
+
+[Extended Data](ext_articles/e3477aca.ext.json)
 
 ---
 
@@ -268,6 +328,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/eaf1f019.json)
 
+[Extended Data](ext_articles/eaf1f019.ext.json)
+
 ---
 
 ### பஸ் விபத்து: உயிரிழந்தவர்களின் இறுதிக் கிரியைகள் இன்று
@@ -279,6 +341,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ◼️
 
 [Data](articles/58deae44.json)
+
+[Extended Data](ext_articles/58deae44.ext.json)
 
 ---
 
@@ -298,6 +362,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/2360e74a.json)
 
+[Extended Data](ext_articles/2360e74a.ext.json)
+
 ---
 
 ### රසායනික ද්‍රව්‍ය හමුවූ පොහොට්ටු හිටපු මන්ත්‍රීගේ නිවසින් අත්බෝම්බ හා පතොරොම් සොයාගනියි
@@ -315,6 +381,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ◼️
 
 [Data](articles/840eaa41.json)
+
+[Extended Data](ext_articles/840eaa41.ext.json)
 
 ---
 
@@ -336,6 +404,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/a70ea04f.json)
 
+[Extended Data](ext_articles/a70ea04f.ext.json)
+
 ---
 
 ### බෝම්බය පත්තු නොවුන  නිසා දරුවන් තිදෙනෙකුගේ දිවි ගැලවෙයි
@@ -351,6 +421,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ...
 
 [Data](articles/68a9e040.json)
+
+[Extended Data](ext_articles/68a9e040.ext.json)
 
 ---
 
@@ -374,6 +446,8 @@ Special attention was also given to the issues faced by the farming community in
 
 [Data](articles/c506b50c.json)
 
+[Extended Data](ext_articles/c506b50c.ext.json)
+
 ---
 
 ### වැලිමඩ බීජ අර්තාපල් නිෂ්පාදන මධ්‍යස්ථානය විවෘත කෙරේ
@@ -393,6 +467,8 @@ Special attention was also given to the issues faced by the farming community in
 ◼️
 
 [Data](articles/5541359d.json)
+
+[Extended Data](ext_articles/5541359d.ext.json)
 
 ---
 
@@ -422,6 +498,8 @@ Special attention was also given to the issues faced by the farming community in
 
 [Data](articles/b46c9f32.json)
 
+[Extended Data](ext_articles/b46c9f32.ext.json)
+
 ---
 
 ### 88 postal operators suspend services to US over tariffs: UN
@@ -441,6 +519,8 @@ The UPU said data exchanged between postal operators via its systems showed that
 ...
 
 [Data](articles/69509888.json)
+
+[Extended Data](ext_articles/69509888.ext.json)
 
 ---
 
@@ -464,6 +544,8 @@ The UPU said data exchanged between postal operators via its systems showed that
 
 [Data](articles/ba70f069.json)
 
+[Extended Data](ext_articles/ba70f069.ext.json)
+
 ---
 
 ### පාසල් පැවැත්වෙන දිනවල වේලාවන් දෙකකදී ඛනිජ ප්‍රවාහන කටයුතු අත්හිටුවයි
@@ -481,6 +563,8 @@ The UPU said data exchanged between postal operators via its systems showed that
 ◼️
 
 [Data](articles/5e57f0de.json)
+
+[Extended Data](ext_articles/5e57f0de.ext.json)
 
 ---
 
@@ -504,6 +588,8 @@ The cyclist and a passenger on the bicycle sustained injuries and were admitted 
 
 [Data](articles/910a95fc.json)
 
+[Extended Data](ext_articles/910a95fc.ext.json)
+
 ---
 
 ### Mineral transportation suspended during two time slots on school days: GSMB
@@ -521,6 +607,8 @@ She further said since September 4, instructions have been issued throughout the
 ◼️
 
 [Data](articles/fadefffd.json)
+
+[Extended Data](ext_articles/fadefffd.ext.json)
 
 ---
 
@@ -544,6 +632,8 @@ She further said since September 4, instructions have been issued throughout the
 
 [Data](articles/324e6314.json)
 
+[Extended Data](ext_articles/324e6314.ext.json)
+
 ---
 
 ### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
@@ -559,6 +649,8 @@ Known as a Blood Moon, this will be the last total lunar eclipse of the year and
 ...
 
 [Data](articles/87b189e8.json)
+
+[Extended Data](ext_articles/87b189e8.ext.json)
 
 ---
 
@@ -580,6 +672,8 @@ Known as a Blood Moon, this will be the last total lunar eclipse of the year and
 
 [Data](articles/495b67b1.json)
 
+[Extended Data](ext_articles/495b67b1.ext.json)
+
 ---
 
 ### UK police arrest about 425 at protest for banned Palestine Action
@@ -598,6 +692,8 @@ Police said those detained were arrested for offences including assaulting offic
 
 [Data](articles/0eb18e6e.json)
 
+[Extended Data](ext_articles/0eb18e6e.ext.json)
+
 ---
 
 ### Binara Poya falls today
@@ -613,6 +709,8 @@ Meanwhile, religious programs have been organized across temples and monasteries
 ◼️
 
 [Data](articles/70a30324.json)
+
+[Extended Data](ext_articles/70a30324.ext.json)
 
 ---
 
@@ -634,6 +732,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 
 [Data](articles/1c2af7d4.json)
 
+[Extended Data](ext_articles/1c2af7d4.ext.json)
+
 ---
 
 ### ’அபிவிருத்திக்கு எந்த நேரத்திலும் நிதியொதுக்க தயார்’
@@ -651,6 +751,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 ◼️
 
 [Data](articles/dfa05938.json)
+
+[Extended Data](ext_articles/dfa05938.ext.json)
 
 ---
 
@@ -670,6 +772,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 
 [Data](articles/d1e4fcda.json)
 
+[Extended Data](ext_articles/d1e4fcda.ext.json)
+
 ---
 
 ### மித்தெனியவில் கைக்குண்டுகள், தோட்டாக்கள் மீட்பு
@@ -684,6 +788,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 
 [Data](articles/9526ead3.json)
 
+[Extended Data](ext_articles/9526ead3.ext.json)
+
 ---
 
 ### A Passage North
@@ -697,6 +803,8 @@ Unlike those two, which were a retelling of history, this was an introspective n
 ...
 
 [Data](articles/1434131e.json)
+
+[Extended Data](ext_articles/1434131e.ext.json)
 
 ---
 
@@ -714,6 +822,8 @@ Total assets reached Rs 266.38 billion as at 30th June, reflecting an increase o
 
 [Data](articles/4aa1b795.json)
 
+[Extended Data](ext_articles/4aa1b795.ext.json)
+
 ---
 
 ### Weerasinghe Peiris launches new Punchi Punchi Tharu CDs (Volumes 2 & 3)
@@ -725,6 +835,8 @@ Music Director, Weerasinghe Peiris unveiled the much-anticipated Punchi Punchi T
 ...
 
 [Data](articles/7fef3a23.json)
+
+[Extended Data](ext_articles/7fef3a23.ext.json)
 
 ---
 
@@ -742,6 +854,8 @@ Through LoungeKey, cardholders can enjoy world-class lounge facilities at major 
 
 [Data](articles/8b5bf916.json)
 
+[Extended Data](ext_articles/8b5bf916.ext.json)
+
 ---
 
 ### Dubai Real Estate Roadshow comes to Colombo: Exclusive 1-to-1 consultations for Sri Lankan investors
@@ -751,6 +865,8 @@ Through LoungeKey, cardholders can enjoy world-class lounge facilities at major 
 ...
 
 [Data](articles/f6cc4c83.json)
+
+[Extended Data](ext_articles/f6cc4c83.ext.json)
 
 ---
 
@@ -763,6 +879,8 @@ Celebrating their 25th anniversary with tours, cultural experiences, and a gala 
 ...
 
 [Data](articles/d8eaeffd.json)
+
+[Extended Data](ext_articles/d8eaeffd.ext.json)
 
 ---
 
@@ -778,6 +896,8 @@ Customers buying vehicles from Sathosa Motors will gain access to tailored finan
 
 [Data](articles/27d87f3d.json)
 
+[Extended Data](ext_articles/27d87f3d.ext.json)
+
 ---
 
 ### Sun Siyam marks 35 years with brand transformation and new experiences
@@ -791,6 +911,8 @@ The resorts are now organised into three collections: Luxury, led by Sun Siyam I
 ...
 
 [Data](articles/3c02ba37.json)
+
+[Extended Data](ext_articles/3c02ba37.ext.json)
 
 ---
 
@@ -808,6 +930,8 @@ The resorts are now organised into three collections: Luxury, led by Sun Siyam I
 
 [Data](articles/fc6d0525.json)
 
+[Extended Data](ext_articles/fc6d0525.ext.json)
+
 ---
 
 ### மட்டக்களப்பு புல்லுமலை தண்ணீர் தொழிற்சாலைக்கு எதிர்ப்பு! அனுமதி வழங்கினால் மக்கள் போராட்டம் வெடிக்கும்!
@@ -824,6 +948,8 @@ The resorts are now organised into three collections: Luxury, led by Sun Siyam I
 
 [Data](articles/0a8c5413.json)
 
+[Extended Data](ext_articles/0a8c5413.ext.json)
+
 ---
 
 ### The guardians of the world
@@ -835,6 +961,8 @@ By cultivating within ourselves the qualities of moral shame and fear of wrongdo
 ...
 
 [Data](articles/5008f708.json)
+
+[Extended Data](ext_articles/5008f708.ext.json)
 
 ---
 
@@ -854,6 +982,8 @@ By cultivating within ourselves the qualities of moral shame and fear of wrongdo
 
 [Data](articles/5abb00ce.json)
 
+[Extended Data](ext_articles/5abb00ce.ext.json)
+
 ---
 
 ### POWER POLITICS
@@ -865,6 +995,8 @@ It is said that Kotelawala made an application to the Central Bank for the trans
 ...
 
 [Data](articles/2676c3fd.json)
+
+[Extended Data](ext_articles/2676c3fd.ext.json)
 
 ---
 
@@ -879,6 +1011,8 @@ It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees 
 ...
 
 [Data](articles/d91db4f3.json)
+
+[Extended Data](ext_articles/d91db4f3.ext.json)
 
 ---
 
@@ -897,6 +1031,8 @@ It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees 
 ◼️
 
 [Data](articles/a229871f.json)
+
+[Extended Data](ext_articles/a229871f.ext.json)
 
 ---
 
@@ -918,6 +1054,8 @@ It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees 
 
 [Data](articles/01c248c8.json)
 
+[Extended Data](ext_articles/01c248c8.ext.json)
+
 ---
 
 ### Thondaman’s role in aborting Premadasa impeachment and Speaker Mohamed’s perfidy
@@ -929,6 +1067,8 @@ As planned the Speaker addressed a letter to the President stating that he had a
 ...
 
 [Data](articles/1a2aed44.json)
+
+[Extended Data](ext_articles/1a2aed44.ext.json)
 
 ---
 
@@ -946,6 +1086,8 @@ The IAGS recognize that while the October 7, 2023 Hamas attack on Israel, in whi
 
 [Data](articles/1211b76b.json)
 
+[Extended Data](ext_articles/1211b76b.ext.json)
+
 ---
 
 ### Grenades and ammunition recovered near site of ‘Ice’ manufacturing chemicals
@@ -961,6 +1103,8 @@ The items seized include five foreign-manufactured hand grenades, 17 rounds of T
 ◼️
 
 [Data](articles/7aa351fb.json)
+
+[Extended Data](ext_articles/7aa351fb.ext.json)
 
 ---
 
@@ -980,6 +1124,8 @@ The items seized include five foreign-manufactured hand grenades, 17 rounds of T
 
 [Data](articles/59302920.json)
 
+[Extended Data](ext_articles/59302920.ext.json)
+
 ---
 
 ### Is the  JVP-led NPP Govt Weaponising the Law to Target Former President Ranil Wickremesinghe?Over his UK trip ?
@@ -992,45 +1138,53 @@ United National Party (UNP) leader Ranil Wickremesinghe has been in politics for
 
 [Data](articles/54a90439.json)
 
+[Extended Data](ext_articles/54a90439.ext.json)
+
 ---
 
-### අනතුරට ලක්වූ බසයේ දෝෂයක්
+### An error in a crash
 
 *2025-09-06 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214256) · `si`
 
-ඇල්ල වැල්ලවාය ප්‍රදේශයේ අනතුරට ලක්වූ බස් රථයේ යාන්ත්‍රික දෝශයක් තිබූ බවට අනාවරණය වී ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුට්ලර් මහතා පවසයි.
+Police Media Spokesperson ASP. U. Mr. Woatler says.
 
-අනතුරට පත් අදාළ බස් රථය දැඩි පරිශ්‍රමයක් දරා ඊයේ රාත්‍රියේ දී ප්‍රපාතයෙන් ගොඩ ගැනුණි.
+The bus, the bus, was in the precipice last night.
 
-සම්පූර්ණයෙන් විනාශ වී ගොස් තිබූ බස් රථයේ කොටස් ඇල්ල පොලිස් ස්ථානය වෙත රැගෙන ගිය අතර ජාතික ප්‍රවාහන අධිකාරියේ නිලධාරින් ද බස් රථයේ සුන්බුන් පරීක්ෂාවට ලක් කළේය.
+The stock Ella was taken to the police station on the bus and was taken to the police station and the National Transport Authority officials were also checked.
 
-එමෙන්ම අනතුර සිදුවූ ස්ථානයත් ප්‍රවාහන අධිකාරියේ නිලධාරින් අද පරීක්ෂාවට ලක් කළේය.
+The Transport Authority officials tested the place where the accident.
 
-බස් රථයේ සුන්බුන් ලබන 08 වැනිදා රජයේ රස පරීක්ෂකවරයා වෙත යොමු කිරීමට නියමිතය.
+The bus will be sent to the Government Analyst on the 8th.
 
-15 දෙනකුට මරු කැඳවූ මෙම බස් රථ අනතුට හේතුව මෙතෙක් නිශ්චිතව අනාවරණ වී නොමැත.
+The bus accidents that killed 15 people have not been revealed yet.
 
-කෙසේ වෙතත් එම බස් රථයේ කොන්දොස්තරවරයා සහ එහි ගමන් පුද්ගලයෙකු පැවසුවේ, හිටි හැටියේ තිරිංග අක්‍රීය වූ බවට රියැදුරුවරයා කෑ ගසා පැවසූ බවය.
+However, the conductor of the bus and a traveling person said that the driver of the sudden was disabled.
 
-මේ අතර ඇල්ල වැල්ලවාය මාර්ගයේ අනතුරට ලක්වූ බස් රථය 2023 ජාතික ගමනාගමන කොමිෂන් සභාවේ ලියාපදිංචියෙන් ඉවත් වූ බස් රථයක් බව ප්‍රවාහන හා මහාමාර්ග නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
+Meanwhile, Deputy Minister of Transport and Highways Dr. Prasanna Gunasena says that the bus was the bus accident to the 2023 National Transport Commission on the Wellawaya road.
 
-...
+He says that the country is not yet laws in the country to regulate buses used only for picnics.
+
+◼️
 
 [Data](articles/df6b11e6.json)
 
+[Extended Data](ext_articles/df6b11e6.ext.json)
+
 ---
 
-### මිද්දෙණියේ අයිස් අමුද්‍රව්‍ය හමුවූ ඉඩමේ තිබී අත් බෝම්බ සහ උණ්ඩ කිහිපයක් හමුවෙයි
+### Meeting hand grenades and bullets found in the land where the ice raw materials found in Midigade
 
 *2025-09-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214255) · `si`
 
-හම්බන්තොට මිද්දෙණිය තලාව ප්‍රදේශයේදී සොයාගත් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීම සඳහා යොදාගන්නා රසායන ද්‍රව්‍ය තිබූ භූමිය තුළ තිබියදි ගිනි අවි සඳහා භාවිත කරන උණ්ඩ සහ අත්බෝම්බ කිහිපයක් බස්නාහිර උතුර අපරාධ කොට්ඨාශයේ නිලධාරීන් හා විශේෂ කාර්ය බළකා නිලධාරීන් අද (06) සොයා ගෙන තිබේ.
+The Western Crimes Division (SLAF) and STF personnel have been recovered today (06).
 
-එහිදී එම භූමියේ මඤ්ඤොක්කා වගාවක් ආසන්නයේ තිබූ අලුත කැපූ කාණුවක තිබී විදේශ රටක නිෂ්පාදිත අත් බෝම්බ පහක් T 56 ගිනි අවිස සඳහා යොදා ගන්නා උණ්ඩ 17ක් බෝරා 12 ගිනි අවි උණ්ඩ තුනක් එම නිලධාරීන් විසින් සොයා ගනු ලැබීය.
+The officers were found three Barras with a five-fire bullets used in a newly-cut drain near the manioc entrance near the land.
 
 ◼️
 
 [Data](articles/8ec5a34d.json)
+
+[Extended Data](ext_articles/8ec5a34d.ext.json)
 
 ---
 
@@ -1046,59 +1200,67 @@ Police have also arrested the suspected smuggler, who had arrived from Thailand,
 
 [Data](articles/75ce49c4.json)
 
+[Extended Data](ext_articles/75ce49c4.ext.json)
+
 ---
 
-### දෙවැනි විස්සයි20 තරගයෙන් ලංකාවට දරුණු පරාජයක්
+### Sri Lanka defeated Sri Lanka in second T20
 
 *2025-09-06 19:56:59* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-විස්සයි20-තරගයෙන්-ලංකාවට-දරුණු-පරාජයක්/9-418317) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමගින් පැවැති දෙවැනි විස්සයි 20 තරගයෙන් කඩුලු පහක පහසු ජයක් වාර්තා කිරිමට සත්කාරක සිම්බාබ්වේ කණ්ඩායම සමත්විය.
+The Host Simbabwe was able to report a firm win in five wickets in the second T20 match with the Sri Lankan team.
 
-කාසියේ වාසිය දිනාගත් සිම්බාබ්වේ කණ්ඩායමේ ඇරයුමෙන් මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 17.4කදී සියලු දෙනා දැවී රැස්කර ගත හැකිවූයේ ලකුණු 80ක් පමණි.
+Sri Lanka scored only 80 runs in 17.4 overs that won the toss and elected to the coin.
 
-ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් වැඩිම ලකුණු රැස්කළ පිතිකරුවා වූ කමිල් මිෂාර පන්දු 20කදී ලකුණු 20ක් රැස් කළේය.
+Kamil Misshari scored 20 runs in 20 balls with the highest batsman for Sri Lanka.
 
-ලකුණු 81ක ජයග්‍රාහී ඉලක්කයක් හඹා යාමට පිටියට පිවිසි සිම්බාබ්වේ කණ්ඩායම පන්දුවාර 14.2කදී කඩුලු පහක් දැවී ලකුණු 84ක් රැස්කරමින් තරගය ජයග්‍රහණය කළේය.
+Zimbabwe won 84 runs for the loss of five wickets in 14.2 overs.
 
 ◼️
 
 [Data](articles/f2edd420.json)
 
+[Extended Data](ext_articles/f2edd420.ext.json)
+
 ---
 
-### දෙවන විස්සයි20 තරගයෙන් සිම්බාබ්වේ පිලට පහසු ජයක්
+### Zimbabwe beat Zimbabwe in the second T20
 
 *2025-09-06 19:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214253) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක සිම්බාබ්වේ කණ්ඩායම අතර තරග තුනකින් සමන්විත තරගාවලියේ දෙවන විස්සයි20 ක්‍රිකට් තරගයේ ජය සිම්බාබ්වේ කණ්ඩායම විසින් අද (06) හිමිකර ගනු ලැබීය.
+Zimbabwe won the second T20 match between the Sri Lanka Tourism and Host Zimbabwe today (06).
 
-එහිදී පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම සියලු දෙනා දැවී රැස්කර ගත හැකි වූයේ ලකුණු 80ක් පමණි.
+Batting first Sri Lankan team was bowled out for 80 runs.
 
-පිලිතුරු ලෙස ක්‍රීඩා කළ සිම්බාබ්වේ කණ්ඩායම කඩුළු පහක් පමණක් දැවී ලකුණු 85ක් රැස් කරගනිමින් අද තරගයේ ජයග්‍රහණය හිමිකරගනු ලැබීය.
+The Zimbabwe Girl played for 85 wickets for the loss of eight wickets.
 
 ◼️
 
 [Data](articles/6d7ba0cf.json)
 
+[Extended Data](ext_articles/6d7ba0cf.ext.json)
+
 ---
 
-### රුපියල් මිලියන 200ක් වටිනා මත්ද්‍රව්‍ය සමග පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested with drugs worth Rs. 200 million
 
 *2025-09-06 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214252) · `si`
 
-රුපියල් විසි කෝටි අනූ ලක්ෂයක් වටිනා කුෂ් මත්ද්‍රව්‍ය තොගයක්, කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ ගමන් මලු පථයක් අසළ අතහැර දැමූ ගමන් මල්ලක තිබී සොයා ගෙන තිබේ.
+A large number of crores worth Rs.
 
-අදාළ ගමන් මල්ල ඉකුත් 06/28 දින උදෑසන 09.45ට තායිලන්තයේ බැංකොක් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 403 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණ තිබුණි.
+The bag was located at 9.45 am on 28/28 am from Bangkok, US SriL Langan Airlines' UL to the Katunayake airport.
 
-මෙම ගමන් මල්ලේ හිමිකරු ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි 53 හැවිරිදි පුද්ගලයෙකු වන අතර ඔහු අද (06) කොළඹ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ රැදී සිටියදී පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන ඇත.
+The owner of the bag is a 53 year old resident of Orugodawatta area and has been arrested by the Police Narcotics Bureau.
 
-මෙම ගමන් මල්ල තුළ '' කුෂ්" මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 20යි ග්‍රෑම් 900ක් ඇසුරුම් 19ක් ලෙස සකස් කර සගවා ගෙන තිබූ බවද වාර්තා වේ.
+It is reported that 'Kush' has been adjudged 20 kg of Kushro drugs and 900 packs.
 
-අත්අඩංගුවට ගත් සැකකරුවා මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The arrested suspect is to be produced before the Negombo Magistrate's Court.
 
 ◼️
 
 [Data](articles/21149adc.json)
+
+[Extended Data](ext_articles/21149adc.ext.json)
 
 ---
 
@@ -1122,43 +1284,49 @@ The three police officers have then launched a search operation in the area and 
 
 [Data](articles/cc172ac9.json)
 
+[Extended Data](ext_articles/cc172ac9.ext.json)
+
 ---
 
-### செம்மணி இரண்டாம் கட்ட அகழ்வுப் பணிகள் இன்றுடன் நிறைவு
+### Excavation work is completed today
 
 *2025-09-06 19:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணி-இரண்டாம்-கட்ட-அகழ்வுப்-பணிகள்-இன்றுடன்-நிறைவு/175-364097) · `ta`
 
-செம்மணி - சித்துப்பாத்தி மனித புதைகுழியின் இரண்டாம் கட்டத்தின் 45 ஆவது நாள் அகழ்வு இன்றுடன் நிறைவடைந்துள்ளது.
+The 45th day of the second phase of the Siddhappathi human burial ground is over.
 
-அதன்படி, இதுவரையில் செம்மணி சித்துப்பாத்தி மனித புதைகுழியில் இருந்து 240 என்புக்கூடுகள் வெளிப்பட்டுள்ளன.
+Accordingly, so far, 240 from the Semmani Siddhappathi human burial ground has emerged.
 
-அவற்றில் 239 என்புக்கூட்டுத் தொகுதிகள் முழுமையாக அகழ்ந்தெடுக்கப்பட்டுள்ளதாக பாதிக்கப்பட்டோர் சார்பில் முன்னிலையான சட்டத்தரணி வி.எஸ் நிரஞ்சன் தெரிவித்தார்.
+Attorney -at -law VS Niranjan, who appeared on behalf of the victims, said 239 of them were completely excavated.
 
-இதேவேளை, செம்மணி சித்துப்பாத்தி மனித புதைகுழி வழக்கையும் கிருஷாந்தி கொலை வழக்கையும் ஒன்றாக இணைப்பதாக இருந்தால் மேன்முறையீட்டு நீதிமன்றத்திற்கு விண்ணப்பிக்க வேண்டும் என அவர் கூறியுள்ளார். R
+Meanwhile, if the Semmani Siddhappathi human burial case and the Krishanthi murder case are merged together, he has said that he should apply to the Court of Appeal.. Remble
 
 ◼️
 
 [Data](articles/069eb992.json)
 
+[Extended Data](ext_articles/069eb992.ext.json)
+
 ---
 
-### விடுதியை விட்டு வெளியே வராதவர் உயிரிழந்து கிடந்தார்
+### The man who did not leave the hotel was found dead
 
 *2025-09-06 19:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விடுதியை-விட்டு-வெளியே-வராதவர்-உயிரிழந்து-கிடந்தார்/76-364096) · `ta`
 
-ஹட்டன் - கொட்டகலை, கொமர்ஷல் பகுதியில் உள்ள சுற்றுலா விடுதியின் அறையில் இருந்து நபர் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளது.
+Hatton - The body of a person has been recovered from the tourist room in Kotagala, Kotagala.
 
-கொழும்பில் இருந்து கொட்டகலைக்கு சுற்றுலா சென்ற 60 வயதுடைய ஒருவரின் சடலமே மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The body of a 60 -year -old man who was traveling from Colombo to Kotagala has been recovered, police said.
 
-தமது நண்பருடன் குறித்த சுற்றுலா விடுதிக்கு சென்ற அவர், நண்பருடன் நேற்று (5) மது அருந்திவிட்டு விடுதியில் கிழே விழுந்து கிடந்துள்ளார்.
+He went to the tourist with his friend and had been drinking with a friend yesterday (5).
 
-எனினும், குறித்த நபர் இன்று விடுதியை விட்டு வெளியில் வராமையினால், விடுதி ஊழியர் ஒருவர் இது குறித்து திம்புள்ள பத்தனை பொலிஸாருக்கு அறிவித்துள்ளார்.
+However, if the person does not leave the hotel today, a hostel employee has informed the police of Dimbulla.
 
-இதனை அடுத்து பொலிஸார் அந்த விடுதிக்கு வந்து சோதனையிட்ட போது, குறித்த நபர் அறைக்குள் உயிரிழந்தமையை உறுதி செய்துள்ளனர்.
+When the police arrived at the hostel and checked, the man confirmed his death in the room.
 
 ◼️
 
 [Data](articles/eadec0fd.json)
+
+[Extended Data](ext_articles/eadec0fd.ext.json)
 
 ---
 
@@ -1175,6 +1343,8 @@ The project, being built on a land area of approximately 500 acres in the Kotiya
 ...
 
 [Data](articles/fe1ab91e.json)
+
+[Extended Data](ext_articles/fe1ab91e.ext.json)
 
 ---
 
@@ -1198,141 +1368,163 @@ The plant was approved by in 2023 by the last administration during an economic 
 
 [Data](articles/b4f24345.json)
 
+[Extended Data](ext_articles/b4f24345.ext.json)
+
 ---
 
-### ඇල්ල අනතුරේ බස් රියදුරුගේ රුධිරය රජයේ රස පරීක්ෂකට යවයි
+### The bus driver's blood sends the blood of the driver to the Government Analyst
 
 *2025-09-06 18:46:30* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේ-බස්-රියදුරුගේ-රුධිරය-රජයේ-රස-පරීක්ෂකට-යවයි/11-418316) · `si`
 
-ඇල්ල 15කනුව ප්‍රදේශයේදී  15කට මරු කැදවමින් 18 කට තුවාල සිදුකර රාවණා ඇල්ල රක්ෂිතයේ අඩි දහසක පමන ප්‍රපාතයකට පෙරලීගිය විනෝද චාරිකා බස්‍ රථය පැදවූ රියදුරුගේ රුධිර සාම්පල හෙට (7) වැඩ්දුර පරීක්ෂණ කටයුතු සදහා රජයේ රස පරීක්ෂකවරයා වෙත යොමු කරන බව ඇල්ල පොලිසිය පවසයි .
+The driver's blood samples of the Falls were killed in a thousand feet of precipice in the Ella 15 in Poan Division.
 
-තංගල්ල නගර සභාවේ සේවකයන් පිරිසක් සිය පවුලේ සාමාජිකයන් සමග නුවරඑළිය විනෝද චාරිකාවක ගොස් ආපසු තංගල්ල බලා ගමන් කරමින් සිටියදි ඉකුත් 4 වනදින රාත්‍රි ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 15 කනුව ප්‍රදේශයේ දී මෙම විනෝද චාරිකා පෞද්ගලික බස් රථය මාර්ගයේ ධාවනය වෙමින් තිබූ සුඛෝපභෝගී ජීප් රථයකද ගැටී පසුව මාර්ගය අසල තිබු ආරක්ශිත යකඩ වැටේ ගැටී රාවණා ඇල්ල ප්‍රපාතයට පෙරලීයාමෙන් මෙම අනතුර සිදුව තිබින .
+The Tangalle Municipal Council workers were traveling on a picnic jeep on the 15th of the Wellawaya area in the Wellawaya area, the accident had occurred when the picnic jeep was traveling on the 15 minute jeep on the 15th area of ​​the Wellawaya.
 
-අනතුරින් එම විනෝද චාරිකා බස්‍ රථයේ රියැදුරු තංගල්ල  හේනකඩුව පදිංචි තෝමරා හැන්නැදිගේ චිරාත් දිමන්ත(25) නැමති තරුණ  රියැදුරුද මියගියේය .
+The youth driver, a resident of Henekala, Tangalle, has also died of the Carmanlla Dimantha (25), a resident of Henekaduwa.
 
-...
+The driver was conducting further investigations to investigate the rise to investigate and investigate the driver of the driver at the time of the private bus.
+
+◼️
 
 [Data](articles/cfbf8f1b.json)
 
+[Extended Data](ext_articles/cfbf8f1b.ext.json)
+
 ---
 
-### මරදාන වෙඩිතැබීමේ යතුරුපැදිකරු අත්අඩංගුවට
+### Maradana shooting motorcyclist arrested
 
 *2025-09-06 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214251) · `si`
 
-කොළඹ මරදාන පංචිකාවත්ත ප්‍රදේශයේදී අද අලුයම සිදුකළ වෙඩි තැබීමට සම්බන්ධ යතුරුපැදිකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Motorcyclists have been arrested by the police in the Pananawa area in Pananawa today.
 
-පොලීසිය පැවසුවේ වෙඩි තැබීමෙන් පසු විනාඩි කිහිපයක් ඇතුළත අදාළ යතුරුපැදිකරු අත්අඩංගුවට ගැනීමට මෝදර පොලීසිය සමත් වූ බවය.
+Police said that Modara police were arrested for the arrest of the motorcyclist within a few minutes after the shooting.
 
-අත්අඩංගුවට ගත් සැකකරු මාලිගාවත්ත බෝධිරාජා මාවත ප්‍රදේශයේ පදිංචි 21 හැවිරිදි අයෙකු වන අතර ඔහු කෙසෙල්වත්ත කවී නම් සංවිධානාත්මක අපරාධකරුගේ සමීපතමයෙකු බවද පොලීසිය පවසයි.
+The suspect is a 21 year old resident of Bodhiraja Mawatha, Maligawatta, police said.
 
-වෙඩි තැබීම සම්බන්ධයෙන් පොලිස් පණිවිඩ නිකුත් වීමත් සමග මෝදර පොලීසියේ පොලිස් සැරයන්වරුන් දෙදෙනෙකු විසින් රාත්‍රි යතුරුපැදි රාජකාරියේ නිරතව සිටියදී තවත් පොලිස් නිලධාරියෙකු එක් කරගනිමින් පලා යමින් සිටි යතුරුපැදිකරු වටකර තිබේ.
+With the release of police messages on the shooting, two Modara police sergeants were raided the motorcyclist fled while gathering another police officer.
 
-එහිදී අදාළ යතුරුපැදිකරුගේ යතුරුපැදිය මාර්ගයේ පෙරලීමත් සමග සැකකරු විසින් කිඹුලා ඇල වත්ත ප්‍රදේශයට පළා ගොස් තිබුණි.
+The suspect had fled the Kimbulala area, along with the motorcyclist's motorcyclist.
 
-එහිදී අදාළ පොලිස් නිලධාරීන් තිදෙනා එම ප්‍රදේශයේ සෝදිසි මෙහෙයුමක් ආරම්භ කර ඇති අතර එහිදී සැඟව සිටි සැකකරු ඉන් මිදී මාර්ගයට පැමිණ ත්‍රිරෝද රථයක නැගී පළා ගොස් තිබේ.
+The three police officers have launched a search operation in the area and hiding in a three-wheeler and climbed in a three-wheeler.
 
-...
+Accordingly, the three-wheeler parked the three-wheeler with the assistance of a mobile travel jeep officer in the Madampitiya police sergeant.
+
+It has been said that the tragedy was involved in the motorcyclist in Kesana estate, which was an organized criminal in the Kesanasotuwa area after being interrogated by the arrested suspect.
+
+◼️
 
 [Data](articles/58394b87.json)
 
+[Extended Data](ext_articles/58394b87.ext.json)
+
 ---
 
-### පද්මෙගේ අයිස් රසායනික ද්‍රව්‍ය සඟවාගෙන සිට හිටපු පොහොට්ටු මන්ත්‍රී අල්ලයි
+### Former buds arrested for hiding Padma's ice chemicals
 
 *2025-09-06 18:35:47* · [`adalk`](https://www.ada.lk/breaking_news/පද්මෙගේ-අයිස්-රසායනික-ද්‍රව්‍ය-සඟවාගෙන-සිට-හිටපු-පොහොට්ටු-මන්ත්‍රී-අල්ලයි/11-418315) · `si`
 
-සංවිධානාත්මක අපරාධකල්ලි නායකයෙක් මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන කෙහෙල්බද්දර පද්මේ විසින් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය සඳහා ශ්‍රී ලංකාවට ගෙන ආ රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක පමණ ප්‍රමාණයක් මිද්දෙණිය, තලාව ප්‍රදේශයේ නිවසක වළදමා තිබියදී සොයාගැනීමේ සිද්ධිය සම්බන්ධයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයෙක් වන පියල් මනම්පේරි අත්අඩංගුවට ගෙන තිබේ.
+A former Pradeshiya Sabha member of the Sri Lanka General Manager, a native criminal criminal leader, has been arrested in the Sri Lanka General Manager, the sale of chemists in the Talawa house in Middeniya.
 
-බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය භාරයේ රඳවා සිටින බැකෝ සමන් නමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී මෙම රසායනික ද්‍රව්‍ය පිළිබඳ තොරතුරු වාර්ත විය.
+In the Western Criminal Investigation Division, the information conducted by Bau Saman, who is detained in the Trust, reports information on the chemicals.
 
-අත්අඩංගුවට පත් හිටපු මන්ත්‍රීවරයාගේ සහෝදරයාද මෙම සිදුවීමට සම්බන්ධ බවට සැකකෙරෙන අතර සම්පත් මනම්පේරි නම් එම පුද්ගලයාගේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පක්ෂ සාමාජිකත්වයද අත්හිටුවිමට කටයුතු කර තිබ‍ෙ
+The brother of the former MP is also involved in the incident and Resources Manamamparei has also been suspended by the party's membership of the Sri Lanka Civil Appointment
 
 ◼️
 
 [Data](articles/81d6679c.json)
 
+[Extended Data](ext_articles/81d6679c.ext.json)
+
 ---
 
-### අභිමානවත් 79 වන බ්‍රැඩ්බි පළිහ රාජකීය විද්‍යාලයට
+### Ditomic 79th Bradby shield to Royal College
 
 *2025-09-06 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214250) · `si`
 
-මහනුවර ත්‍රිත්ව විද්‍යාලය පරාජය කරමින් 79 වන බ්‍රැඩ්බි පළිහ දිනා ගැනීමට කොළඹ රාජකීය විද්‍යාලය සමත් විය.
+Royal College, Colombo won the 79th Bradby Shield defeating the Kalutara Tournament in Kandy.
 
-අදියර දෙකකින් සමත්විත මෙම වාර්ෂික රග්බි සටනේ දෙවන අදියර අද (06) කොළඹ රාජකීය විදුහල් ක්‍රීඩා සංකීර්ණයේ දී පැවැත්විණි.
+The second phase of this annual rugby battle was held today (06) at the Royal College Sports Complex, Colombo.
 
-එහිදී රාජකීයන් ත්‍රිත්ව විද්‍යාලය හමුවේ ලකුණු 8-3ක් ලෙස පරාජයට පත්විය.
+Royal was lost 8-3 runs in the face of the royalty school.
 
-කෙසේ වෙතත් ත්‍රිත්ව විදුහල් ක්‍රීඩාංගනයේ දී පැවති පළමු අදියරේ දී ලකුණු 15-5ක් ලෙස ත්‍රිත්ව විද්‍යාලය පරාජයට පත් කිරීමට රාජකීයන් සමත් විය.
+However, Royal was able to defeat the Trini Vidyalaya as 15-5 in the first phase of the Triple College stadium.
 
-ඒ අනුව අදියර දෙකෙහිම ලකුණු සංඛ්‍යාව අනුව කොළඹ රාජකීය විද්‍යාල ලකුණු 18ට 13ක් ලෙස ජය වාර්තා කිරීමට සමත් විය.
+Accordingly, according to the number of points in two stages, Royal College score 13 runs in Colombo.
 
 ◼️
 
 [Data](articles/8495ec81.json)
 
+[Extended Data](ext_articles/8495ec81.ext.json)
+
 ---
 
-### සිම්බාබ්වේ පිල හමුවේ ශ්‍රී ලංකාව ලකුණු 80කට දැවීයයි
+### Sri Lanka wins Sri Lanka for 80 runs
 
 *2025-09-06 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214249) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක සිම්බාබ්වේ කණ්ඩායම අතර දෙවන විස්සයි20 ක්‍රිකට් තරගය මේ වනවිට පැවැත්වෙයි.
+The second T20 match between the Tourism Sri Lanka and the Host Zimbabwe is currently underway.
 
-හරාරේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනූ සිම්බාබ්වේ නායක සිකන්දර් රාසා පළමුව පන්දුව රැකීමට තීරණය කළේය.
+Zimbabwe captain Sikandar Rasa, won the toss and elected to the Varaya International Cricket Stadium, decided to defend the ball.
 
-ඒ අනුව පළමුවට පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලකුණු 80ක් රැස් කළේය.
+Accordingly, the Sri Lankan team scored 80 runs for the loss of all wickets.
 
 ◼️
 
 [Data](articles/ee5ee80e.json)
 
+[Extended Data](ext_articles/ee5ee80e.ext.json)
+
 ---
 
-### පිලිස්සුණු මළ සිරුරක් කුරුදු ඉඩමකින් හමුවෙයි
+### Dead body found in a cinnamon land
 
 *2025-09-06 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214248) · `si`
 
-පනාමුර පොලිස් වසමේ වැලිආර ප්‍රදේශයේ පුද්ගලයෙකු පිලිස්සී මිය ගොස් ඇත.
+A person was killed in Weliara, Panamura Police Division.
 
-මේ පිළිබඳව අද (28) උදෑසන 6.45ට පමණ මියගිය පුද්ගලයාගේ පුතා විසින් පනාමුර පොලීසිය පැමිණිල්ලක් සිදුකර තිබේ.
+The Son of the deceased has lodged a complaint by the son of the deceased at around 6.45 am.
 
-පුතා විසින් පොලීසියට පවසා ඇත්තේ, පියා තම නිවසේ සිට මිටර් 200ක් පමණ දුරින් පිහිටි ඉඩම වෙත මාස්කන්නයේ වගා කටයුතු සඳහා කැලය ගිනිතැබිමට ඊයේ (05) සවස 4.00ට පමණ නිවසින් පිටත්ව ගිය බවය.
+The son has told the police that the father left the house at around 4.00 pm yesterday (05).
 
-එලෙස නිවසෙන් පිටව ගිය පියා යළි නොපැමිණීම හේතුවෙන් මිතුරෙකු සමග ගොස් ඒ පිළිබඳ සොයා බැලූ බව පැමිණිලිකරු විසින් පොලීසිය වෙත පවසා තිබේ.
+The complainant told the police that the father who left his father had come to return with a friend.
 
-එලෙස සොයා බැලීම සඳහා යන අවස්ථාවේදී අසල පිහිට කුරුදු ඉඩමේ පිලිස්සුනු සිරුරක් පැමිණිලිකාර පුතා සහ ඔහුගේ මිතුරා විසින් දැක ඇත.
+The complainant son and his friend have seen a body that burned into a cilant land near the near future.
 
-එහිදී පැමිණිලිකාර පුතා විසින් මෙම පිලිස්සුණු සිරුර තම පියා බවට හඳුනාගෙන තිබේ.
+The body has been identified as his father.
 
-මරණකරු විසින් කැලයට ගිනිතබන අවස්ථාවේදී අසල්වාසියකුගේ කුරුදු වගාවට ගින්න පැතිරීම වැළැක්වීමට ගොස් ගින්නට හසුවී ඇති බවට පොලීසිය සැක පලකරයි.
+Police suspect that the deceased has been burnt to prevent the spread of fire to the cinnamon cultivation of a neighbor at the cinnamon cultivation.
 
 ◼️
 
 [Data](articles/c8f42446.json)
 
+[Extended Data](ext_articles/c8f42446.ext.json)
+
 ---
 
-### හෝටල් කාමරයක් තුළ මළසිරුරක්
+### A bodies in a hotel room
 
 *2025-09-06 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214247) · `si`
 
-හැටන් කොටගල ප්‍රදේශයේ සංචාරයක් සඳහා පැමිණි පුද්ගලයෙකු ඔහු නවාතැන් ගෙන සිටි හෝටල් කාමරය තුළ මිය ගොස් ඇති බව දිඹුල පතන පොලිසිය පවසයි.
+The Dimbula Patana Police states that a person who had come to a visit to Kotagala area has died in the hotel room he had stayed in the Kotagala area.
 
-මෙසේ මිය ගොස් ඇත්තේ කොළඹ ප්‍රදේශයේ සිට කොටගල ප්‍රදේශයට සංචාරයක් සඳහා පැමිණි වයස අවුරුදු 60ක් පමණ වන අයෙකි.
+The deceased has been identified as 60 years old to visit the Kotagagala area.
 
-අදාළ පුද්ගලයා මිතුරෙකු සමග මෙම සංචාරක හෝටලයට පැමිණ ඇති අතර ඔහු සමඟ මත්පැන් පානය කිරීමෙන් අනතුරුව හෝටලය තුළ බිම ඇද වැටී තිබේ.
+The man had come to this tourist hotel with a friend and after drinking alcohol, the hotel had fallen into the ground.
 
-පසුව ඔහු නැගිට යළිත් කාමරය වෙත ගොස් ඇති අතර උදෑසන අවදි නොවීම හේතුවෙන් හෝටලයේ සේවකයෙකු විසින් පොලිසිය වෙත පැමිණිල්ලක් සිදු කර ඇත.
+He had gone up and went back to the room and lodged a complaint with the police as he did not wake up in the morning.
 
-පොලීසිය පැමිණ පරික්ෂා කිරිමේදි අනාවරණය වී ඇත්තේ එම පුද්ගලයා හෝටලය තුළදීම මිය ගොස් ඇති බවය.
+It was revealed that the man had died in the hotel at the hotel.
 
-මියගිය පුද්ගලයාගේ සිරුර සම්බන්ධයෙන් මහේස්ත්‍රාත් ස්ථාන පරික්ෂණය අද (06) පස්වරුවේ පවත්වා ඇති අතර සිරුර දික්ඔය මූලික රෝහලේ අධිකරණ වෙද්‍යවරයා වෙත යොමු කරන ලෙස මහේස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+The magistrate's position on the body of the deceased has been conducted by the magistrate's position today (06) and the Magistrate has ordered the court inspection of the body.
 
 ◼️
 
 [Data](articles/22d3ca53.json)
+
+[Extended Data](ext_articles/22d3ca53.ext.json)
 
 ---
 
@@ -1354,95 +1546,109 @@ He said that security guarantees would be needed for both Russia and Ukraine.
 
 [Data](articles/65d9717d.json)
 
+[Extended Data](ext_articles/65d9717d.ext.json)
+
 ---
 
-### ඇල්ලේදී අනතුරට පත් බස් රථයේ සුන් බුන් උඩට ගනියි
+### The wreckage of the bus in the falls in the falls
 
 *2025-09-06 17:09:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේදී-අනතුරට-පත්-බස්-රථයේ-සුන්-බුන්-උඩට-ගනියි/11-418314) · `si`
 
-ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 15 කනුව ප්‍රදේශයේ දී 15 කට මරු කැදවා 18 කට තුවාල සිදුකරමින් අඩි දහසක පමන රාවණා ඇල්ල ප්‍රපාතයකට පෙරලීගිය ගිය විනෝද චාරිකා බස්‍ රථයේ සුන්බුන් කොටස් ගොඩ දොබකර දෙකක ආධාරයෙන් පැය දහයක පමන  මෙහෙයුමකින් පසුව  අද (6) ප්‍රපාතයෙන් ගොඩට ගත් බව ඇල්ල පොලිසිය පවසයි .
+The Ella Police say that about two-hour operation was taken into the premises of the Ella in Wellawaya main road.
 
-තංගල්ල නගර සභාවේ සේවක පිරිසක් සිය පවුල් වල සාමාජිකයන් සමග නුවරඑළිය ප්‍රදේශයේ විනෝද චාරිකාවක ගොස් ආපසු ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගය ඔස්සේ තංගල්ල බලා ගමන් කරමින් සිටියදි ඉකුත් 4 වනදින රාත්‍රි මෙසේ මෙම විනෝද චාරිකා පෞද්ගලික බස් රථය ඇල්ල රාවණා ඇල්ල 15 කනුව ප්‍රදේශයේ දී ඉදිරියෙන් පැමිණි සුඛෝපභෝගී ජීප් රථයකද ගැටී මාර්ගය අසල සවිකර තිබු ආරක්ශිත යකඩ වැටේ ගැටී රාවණා ඇල්ල ප්‍රපාතයට පෙරලීයාමෙන් මෙම අනතුර සිදුවිය.
+The Tangalle Urban Council employees were traveling with the members of their families and was on the road to Tangalle on the 4th night's luxury jeep.
 
-ප්‍රපාතයට පෙරලී ගිය බස්‍ රථය එකම සුන්බුන් ගොඩක් බවට පත්ව අඩි දහසක පමන ප්‍රපාතයෙ තැනින් තැන විසිරී ගොස් තිබු
+The bus that was the bus to the precipice was scattered in the precipice of the same debris, about 1,000 feet in the precipice of the precipice
 
-...
+Ella Advisory Superintendent Ruwan Fernando said that the wreckage of the picnic bus was brought to a lorry with a lorry of the picnic bus.
+
+◼️
 
 [Data](articles/dc944b95.json)
 
+[Extended Data](ext_articles/dc944b95.ext.json)
+
 ---
 
-### අකුරැස්ස - දෙනියාය මාර්ගයේ ගමනාගමනය සීමා කිරීමක් ගැන දැනුම්දීමක්
+### Notice on traffic restricted on the road in Akuressa
 
 *2025-09-06 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214246) · `si`
 
-අකුරැස්ස - දෙනියාය ප්‍රධාන මාර්ගයේ රථවාහන ගමනාගමනය සීමා කිරීමක් සම්බන්ධයෙන් පොලීසිවෙන් නිවේනදයක් නිකුත් කර තිබේ.
+Police have issued a new addition to a restriction on traffic on the Akuressa main road.
 
-කොස්මෝදර පොලිස් වසමේ ගැටබරු මහා විහාරයේ ඇසල පෙරහැර වෙනුවෙන් මෙලෙස රථවාහන ගමනාගමනය සීමා කර ඇත.
+Traffic is restricted for the Perahera of the Kosmodara Police Division.
 
-ගැටබරු මහා විහාරයේ ඇසල පෙරහැර අද (06) සිට හෙට (07) දින දක්වා අකුරැස්ස - දෙනියාය ප්‍රධාන මාර්ගයේ පහත පරිදි වීථි සංචාරය කිරීමට නියමිතව ඇති බව පොලීසිය පවසයි.
+The Esala Perahera of the Tharma Maha Viharaya will continue to travel the following streets from the Akuressa - Deniyaya main road from today (06).
 
-ඒ අනුව, අද (06) දින සහ හෙට (07) දින දක්වා සෑම දිනකම රාත්‍රී 0800 සිට මධ්‍යම රාත්‍රී 1200 දක්වා පෙරහැර වීථි සංචාරය කිරීමට සැලසුම් කර ඇත.
+Accordingly, it is planned to visit the streets from 800 pm to 1200 midnight every day from 800 pm today (06) and tomorrow.
 
-එබැවින් එම පෙරහැර ගමන් ගන්නා කාලය තුළ අකුරැස්ස දෙනියාය ප්‍රධාන මාර්ගය භාවිතා කරන මහජනතාව සහ රියදුරන් පහත විකල්ප මාර්ග භාවිතා කරන ලෙස පොලිසිය ඉල්ලා සිටී.
+Therefore, the public and drivers who use the Akuressa Deniyaya main road during the procession will be used to use the following alternative routes.
 
-අකුරැස්ස දෙස සිට දෙනියාය දෙසට ගමන් කිරීමේදී ගල්දොල හන්දියෙන් හරවා බෙන්ගමුව මාර්ගය හරහා කොස්මෝදර දෙසට ගමන්කළ හැක.
+From Akuressa to Deniyaya, the Galdola Junction can lead to Kosmudara through the Bengamuwa road.
 
-දෙනියාය දෙස සිට අකුරැස්ස දෙසට ගමන් කිරීමේදී දියදාව ටී.ආර්.අයි. හන්දියෙන් හරවා කොරව මාර්ගයෙන් කොස්මෝදර මාර්ගයට පැමිණිය හැක.
+Diyagada TRI of moving from Deniyaya to Akuressa. The Komodara road can come to the junction.
 
 ◼️
 
 [Data](articles/0578959b.json)
 
+[Extended Data](ext_articles/0578959b.ext.json)
+
 ---
 
-### தேடப்பட்டு வந்த பியல் மனம்பேரி கைது
+### Arrest
 
 *2025-09-06 17:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேடப்பட்டு-வந்த-பியல்-மனம்பேரி-கைது/150-364095) · `ta`
 
-பொலிஸாரால் தேடப்பட்டு வந்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பிரதேச சபை உறுப்பினர் பியல் மனம்பேரி கைது செய்யப்பட்டுள்ளார்.
+Former Sri Lanka PA's former Pradeshiya Sabha member Piel Manamberi has been arrested.
 
-மித்தெனிய, தலாவ பகுதியில் உள்ள வீடொன்றில் நேற்று புதைக்கப்பட்டிருந்த நிலையில் ஐஸ் ரக போதைப்பொருளை தயாரிக்கப் பயன்படுத்தப்படும் சுமார் 50,000 கிலோகிராம் இரசாயனங்கள் கண்டுபிடிக்கப்பட்ட சம்பவம் தொடர்பில் இவர் தேடப்பட்டு வந்தமை குறிப்பிடத்தக்கது. R
+He was searching for an incident where about 50,000 kilograms of chemicals were found to be used to produce ice drugs as he was buried in a house in Mitteniya yesterday.. Remble
 
 ◼️
 
 [Data](articles/ca9b5f26.json)
 
+[Extended Data](ext_articles/ca9b5f26.ext.json)
+
 ---
 
-### தேடப்பட்டு வந்த பியல் மனம்பேரி கைது
+### Arrest
 
 *2025-09-06 17:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பியல்-மனம்பேரி-கைது/175-364095) · `ta`
 
-பொலிஸாரால் தேடப்பட்டு வந்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பிரதேச சபை உறுப்பினர் பியல் மனம்பேரி கைது செய்யப்பட்டுள்ளார்.
+Former Sri Lanka PA's former Pradeshiya Sabha member Piel Manamberi has been arrested.
 
-மித்தெனிய, தலாவ பகுதியில் உள்ள வீடொன்றில் நேற்று புதைக்கப்பட்டிருந்த நிலையில் ஐஸ் ரக போதைப்பொருளை தயாரிக்கப் பயன்படுத்தப்படும் சுமார் 50,000 கிலோகிராம் இரசாயனங்கள் கண்டுபிடிக்கப்பட்ட சம்பவம் தொடர்பில் இவர் தேடப்பட்டு வந்தமை குறிப்பிடத்தக்கது. R
+He was searching for an incident where about 50,000 kilograms of chemicals were found to be used to produce ice drugs as he was buried in a house in Mitteniya yesterday.. Remble
 
 ◼️
 
 [Data](articles/e3471b20.json)
 
+[Extended Data](ext_articles/e3471b20.ext.json)
+
 ---
 
-### சிறிய ரயில்களை உருவாக்க இலங்கை ரயில்வே திணைக்களம் திட்டம்!
+### Sri Lanka Railway Department project to build small trains
 
 *2025-09-06 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224388) · `ta`
 
-கிராமப்புற பாதைகளில் இயக்க மூன்று பெட்டிகள் கொண்ட சிறிய ரயில்களை உருவாக்க இலங்கை ரயில்வே திணைக்களம் திட்டமிட்டுள்ளதாக அமைச்சர் நளிந்த ஜெயதிஸ்ஸ தெரிவித்துள்ளார்.
+Minister Nalinda Jayadissa said that the Sri Lankan Railway Department is planning to build three compartments with three compartments to operate on rural routes.
 
-குறித்த ரயிலில், ஒவ்வொரு பெட்டியும் டீசல் எஞ்சின் மூலம் இயக்கப்படும் என தெரிவிக்கப்படுகிறது.
+It is reported that each box will be operated by a diesel engine on the train.
 
-அதேநேரம், மின்னணு அமைப்பால் கட்டுப்படுத்தப்படும் ரயில் பெட்டிகளை இணைக்க அமைச்சரவை அனுமதி அளித்துள்ளது.
+At the same time, the Cabinet has given permission to connect the train compartments controlled by the electronic system.
 
-சிறிய ரயில்களில் சுமார் 200 முதல் 240 பயணிகளை ஏற்றிச் செல்ல முடியும்.
+About 200 to 240 passengers can be transported on small trains.
 
-ஏற்கனவே சில ரயில் பேருந்துகள் (ரயில் பாதைகளில் ஓடக்கூடிய சக்கரங்களைக் கொண்ட ஒரு பெட்டி பேருந்து) இருந்தன.
+Already there were some rail buses (a box of wheels that could run on the railway line).
 
-ஆனால் தற்போதுள்ள கால அட்டவணைகளுடன் அவற்றை இயக்குவதில் நடைமுறை சிக்கல்கள் காணப்படுவதாக தெரிவிக்கப்படுகிறது.
+But it is reported that there are practical problems in running them with existing schedules.
 
 ◼️
 
 [Data](articles/1ec0af06.json)
+
+[Extended Data](ext_articles/1ec0af06.ext.json)
 
 ---
 
@@ -1763,41 +1969,5 @@ The first of the four shooting incidents occurred in Grandpass at around 11:45 p
 ...
 
 [Data](articles/6a4aea0f.json)
-
----
-
-### සුදු අරලිය හොටලයේ වැට ඉවත් කරගන්න කැමතියි
-
-*2025-09-06 13:50:15* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අරලිය-හොටලයේ-වැට-ඉවත්-කරගන්න-කැමතියි/11-418311) · `si`
-
-පොරොන්නරුව පරාක්‍රම සමුද්‍රය වැව්තාවුල්ලේ පිහිටි සුප්‍රකට සුදු අරලිය හෝටලයේ ඉඩම් කොටසක් නීතියට අනුකූල නොවන බවත් එය ඉවත් කර ගැනීමට තමන් සූදානම් බවත් එම හෝටලයේ හිමිකරු සුප්‍රකට ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතා පවසයි.
-
-වැඩසටහකදී ඔහු සඳහන් කළේ හෝටලයේ වැට ගැලවීමට තමන් කැමති බවත් සෑම කෙනෙක්ම නීතියට යටත් විය යුතු බවයි.
-
-" අපට දේශපාලන ලේබල් එකක් තියෙනවා අපේ ඇගේ. ඒක කොච්චර බලවත්ද කියනවානම් මට පාරක යන්න නෑ. මට තැනක ගිහිල්ලා නිදහසේ කථා කරන්න නෑ. කණ්ඩායමක් වශයෙන් අපි එකට එක්ව කටයුතු කළ යුතුමයි.
-
-රජයත් එක්ක අපි සුහදව වැඩ කළ යුතුමයි. මේක කිව්වම සමහරු කියයි මට මගේ සුදු අරලිය හෝටලයේ වැට ගලවන්න වෙන  හින්දනේ කියලා. නීතියට අපි කවුරුත් යටත් විය යුතුමයි. නීත්‍යානුකූල නොවන ඉඩම් කෑල්ලක් තිබෙනවා. ඔව් ඒ්ක ඇත්ත. ඒ් වැට ගලවගන්න කැමතියි. දැන් හරිනේ.
-
-මම ගලවගන්නම් හැබැයි ලබන මැයි මාසයේ වෙනකම් අවුරුද්දකට විතර වෙනකම් වෙඩින් බුකිංස් වගයක් තියෙනවා. මම ඕක බොහොම ටික කාලයකින් කඩනවා. නියමිත විදිහට හදනවා. ඒකනේ ඕන.
-
-ආණ්ඩුව මේ යන වැඩපිළිවෙළ කොච්චර සාර්ථකද කියන එක මගේ යුතුකම. මේ ආණ්ඩුවට කඩේ යනවා නෙමෙයි.
-
-...
-
-[Data](articles/a519c89b.json)
-
----
-
-### Ranil comes to grips with need to trim public service and take a peace oriented path to development
-
-*2025-09-06 13:40:00* · [`islandlk`](http://island.lk/ranil-comes-to-grips-with-need-to-trim-public-service-and-take-a-peace-oriented-path-to-development/) · `en`
-
-The radical overhaul and reform of the public service was also one of the priorities in Ranil’s plan of action for the economy and good governance. Its main problem was that it had grown too large -almost one third larger than it needed to be – and was in need of redefining its role in the face of the private sector coming into various areas of production, distribution and exchange. The public service was sluggish, impervious largely to people’s needs, badly politicized and, as many alleged, often corrupt.
-
-Ranil had me appointed at the beginning of 2002 as chairman of the Administrative Reforms Committee (ARC) with a challenging set of problems to be sorted out. When we in the ARC began closely examining its structure and the manner in which it functioned, we found that Sri Lanka could probably do with a public service of three-fourths of its present size. A third mainly consisting of clerical and support level staff could well be hived out and put into more productive occupations.
-
-...
-
-[Data](articles/572682bb.json)
 
 ---

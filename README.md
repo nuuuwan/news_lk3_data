@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 16:06:43**
+As of **2025-09-07 14:54:31**
 
 ## Newspaper Stats
 
-*Scraped **74,569** Articles*
+*Scraped **74,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 757
-economynextcom | 4,524
+economynextcom | 4,523
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,211
+adalk | 7,210
 adaderanalk | 9,538
-tamilmirrorlk | 11,104
+tamilmirrorlk | 11,099
 virakesarilk | 12,187
 adaderanasinhalalk | 12,983
 
@@ -26,113 +26,11 @@ adaderanasinhalalk | 12,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,348 (83.6%) of 74,569 articles have been extended.
+62,276 (83.5%) of 74,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
-
-### Horror experience of a soldier who was injured in the rescue operation
-
-*2025-09-07 14:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பு-பணியில்-காயமடைந்த-இராணுவ-வீரரின்-திகில்-அனுபவம்/175-364143) · `ta`
-
-You know that two soldiers who were involved in a horrific bus accident on Thursday night (04) night on Ella-Wellawaya Road were injured and two were injured.
-
-One of them, Madushan Bandara, a second special Task Force, who lives in Ella Karadakolla, is being treated at the Badulla Teaching Hospital when he was involved in a rock when he was involved in the rescue operation.. He described the incident as follows:
-
-“I was on vacation. My uncle was on a ritual house. When I was with my friends, we got a call that an accident happened. Then my friends told us to go. I and the other two friends went home, taking the bike and torch, and the trio crossed about eight kilometers away.
-
-We went as fast as we could. When we went there, the group was overflowing. It is difficult to go down to the bottom of the accident.  Get down and we told you to put down the rope. Then they sent the rope from top to bottom.
-
-...
-
-[Data](articles/2c253072.json)
-
-[Extended Data](ext_articles/2c253072.ext.json)
-
----
-
-### The story of a soldier who was injured in the rescue operation
-
-*2025-09-07 14:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீட்பு-பணியில்-காயமடைந்த-இராணுவ-வீரரின்-கதை/175-364143) · `ta`
-
-You know that two soldiers who were involved in a horrific bus accident on Thursday night (04) night on Ella-Wellawaya Road were injured and two were injured.
-
-One of them, Madushan Bandara, a second special Task Force, who lives in Ella Karadakolla, is being treated at the Badulla Teaching Hospital when he was involved in a rock when he was involved in the rescue operation.. He described the incident as follows:
-
-“I was on vacation. My uncle was on a ritual house. When I was with my friends, we got a call that an accident happened. Then my friends told us to go. I and the other two friends went home, taking the bike and torch, and the trio crossed about eight kilometers away.
-
-We went as fast as we could. When we went there, the group was overflowing. It is difficult to go down to the bottom of the accident.  Get down and we told you to put down the rope. Then they sent the rope from top to bottom.
-
-...
-
-[Data](articles/77e054cb.json)
-
-[Extended Data](ext_articles/77e054cb.ext.json)
-
----
-
-### 29th anniversary
-
-*2025-09-07 14:51:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-ஆம்-ஆண்டு-நினைவேந்தல்/175-364142) · `ta`
-
-The 29th anniversary event of Krishna Kumaraswamy, who was assassinated after being sexually abused by the army in Chemmani, took place on Sunday (07).
-
-The event was held at 9.30 am in the Semmani alley.
-
-Chandrakanthan Mayuran and relatives of the murdered Krishna Kumaraswamy at this commemoration event
-
-In addition, the book "Vasalee Krusanthi" was published
-
-Tamilnadu Party MP Sivagnanam Sreedharan, former MPs Selvarajah Gajendran, MK Sivajilingam, Valikamam East Pradeshiya Sabha Chairman Thiagarajah Niros, representatives of public organizations and public organizations were also present.
-
-◼️
-
-[Data](articles/144c8cf6.json)
-
-[Extended Data](ext_articles/144c8cf6.ext.json)
-
----
-
-### The train collided with a train on the railway
-
-*2025-09-07 14:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-நித்திரையில்-இருந்தவர்-ரயில்-மோதி-பலி/175-364141) · `ta`
-
-A man who was sleeping in the Jeevapuram railway track of the Jeevapuram police division in the Batticaloa police division was killed and the death of a head of a traveler from Colombo to Batticaloa was killed and the death of a head was cut off at 10.00 pm on Saturday (06).
-
-The deceased is Varadaraja Krishnakanthan, the father of two children aged 28, from Jeevanagar, Sandivalai.
-
-The man was killed when a train crashed into a sleeping train at 10.00 pm on Saturday (06) at 10.00 pm.
-
-Initial inquiries by the police revealed that the train driver had been recovered after recovering the body at the Eravur railway station.
-
-The body was subsequently handed over to the Valasalai Base Hospital for autopsy, police said.
-
-◼️
-
-[Data](articles/870aca4f.json)
-
-[Extended Data](ext_articles/870aca4f.ext.json)
-
----
-
-### Spouse
-
-*2025-09-07 14:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனை-கோடரியால்-கொத்திக்-கொன்ற-மனைவி/175-364139) · `ta`
-
-A wife in a house has been hacked to death by an ax and surrendered to the police with her three children, according to the Kebatikollawa Police Station.
-
-The mother of three children from Kurulugama in the Kebathikollawa Police Division surrenders to the police station. The deceased is Upali Herath (46), the father of three children from Ukuwa and Ukuwa.
-
-Police said that when he was arguing with his wife, the wife was trying to attack his wife with a sword and her husband died on the spot when she was hit by an ax.
-
-◼️
-
-[Data](articles/b542e03c.json)
-
-[Extended Data](ext_articles/b542e03c.ext.json)
-
----
 
 ### Heavy rains in several areas
 
@@ -375,28 +273,6 @@ Of the injured, 13 of the injured were receiving treatment at the Jaffna Teachin
 [Data](articles/d1443e18.json)
 
 [Extended Data](ext_articles/d1443e18.ext.json)
-
----
-
-### New recruitment will be increased to 100,000
-
-*2025-09-07 12:22:23* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයට-අලුතෙන්-බඳවා-ගැනීම-ලක්ෂයක්-දක්වා-ඉහළ-යාවි/11-418326) · `si`
-
-President Anura Kumara Dissanayake emphasized that the benefits of the district should prevent the delay in the district level development projects.
-
-The President also said that the benefits of the project as well as the benefits of the properties that the development projects commenced in the recent past were to expand their project period and prolonged their project period.
-
-President Anura Kumara Dissanayake made this statement addressing the District Coordinating Committee meeting held at the Moneragala District Secretariat yesterday.
-
-Meanwhile, the development projects implemented by the Ministries, Departments and Institutions implemented in the Moneragala district will review the progress of the development projects and review the development projects implemented by various Ministries, Departments and Institutions.
-
-The President also pointed out that the President is ready to allocate the money of the Treasury at any time.
-
-...
-
-[Data](articles/5152379d.json)
-
-[Extended Data](ext_articles/5152379d.ext.json)
 
 ---
 
@@ -837,30 +713,6 @@ Horana Police are conducting further investigations in order to apprehend the su
 [Data](articles/6eb53f3b.json)
 
 [Extended Data](ext_articles/6eb53f3b.ext.json)
-
----
-
-### Sri Lanka loses regional deconsolidation hub status for online platforms?
-
-*2025-09-07 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-loses-regional-deconsolidation-hub-status-for-online-platforms-239632/) · `en`
-
-ECONOMYNEXT – Sri Lanka is no longer the de-consolidation hub for online platforms in South Asia after clamping down on the trade by Customs authorities, an opposition legislator with knowledge on logistics has revealed.
-
-Sri Lanka Customs has recently started duty on individual items imported through online platforms ending a bulk clearing system by weight practiced earlier.
-
-A customs officials told a hearing of the Committee on Public Finance that online retailers had now adapted to the system, and they were no longer sending shipments daily to reduce shipping costs.
-
-“Even though you say that, Sri Lanka is a good consolidation centre,” Opposition legislator Ravi Karunayake, who has knowledge of logistics told the committee.
-
-“There was a system where the consol came to Sri Lanka and it was de-consolidated and sent to India. Even though it is said that there is no longer problem in clearing the shipment.
-
-“But if there is vision for a logistics operation, it has completely stopped.”
-
-...
-
-[Data](articles/8913c2c1.json)
-
-[Extended Data](ext_articles/8913c2c1.ext.json)
 
 ---
 
@@ -2039,5 +1891,157 @@ Meanwhile, if the Semmani Siddhappathi human burial case and the Krishanthi murd
 [Data](articles/069eb992.json)
 
 [Extended Data](ext_articles/069eb992.ext.json)
+
+---
+
+### The man who did not leave the hotel was found dead
+
+*2025-09-06 19:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விடுதியை-விட்டு-வெளியே-வராதவர்-உயிரிழந்து-கிடந்தார்/76-364096) · `ta`
+
+Hatton - The body of a person has been recovered from the tourist room in Kotagala, Kotagala.
+
+The body of a 60 -year -old man who was traveling from Colombo to Kotagala has been recovered, police said.
+
+He went to the tourist with his friend and had been drinking with a friend yesterday (5).
+
+However, if the person does not leave the hotel today, a hostel employee has informed the police of Dimbulla.
+
+When the police arrived at the hostel and checked, the man confirmed his death in the room.
+
+◼️
+
+[Data](articles/eadec0fd.json)
+
+[Extended Data](ext_articles/eadec0fd.ext.json)
+
+---
+
+### ‘Rividanavi’ Solar Power Park: Construction begins of Sri Lanka’s largest renewable energy project
+
+*2025-09-06 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112230/rividanavi-solar-power-park-construction-begins-of-sri-lankas-largest-renewable-energy-project) · `en`
+
+As a key step towards achieving the target of fulfilling 70% of the country’s electricity demand from renewable energy by 2030, construction work on the Siyambalanduwa “Rividanavi” Solar Power Park, Sri Lanka’s largest renewable energy project, commenced this morning (06) under the patronage of President Anura Kumara Dissanayake.
+
+This massive project, which will add 100 MW of capacity to the national electricity grid, involves an investment of USD 140 million, according to the President’s Media Division (PMD).
+
+The project, being built on a land area of approximately 500 acres in the Kotiyagala Grama Niladhari Division of the Siyambalanduwa Divisional Secretariat in the Monaragala District, is the first project for which the Sustainable Energy Authority has provided the project site, access roads and all relevant approvals to the investor.
+
+...
+
+[Data](articles/fe1ab91e.json)
+
+[Extended Data](ext_articles/fe1ab91e.ext.json)
+
+---
+
+### Sri Lanka President flags off US$140mn, 100MW solar power plant
+
+*2025-09-06 18:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-flags-off-us140mn-100mw-solar-power-plant-239627/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake has flagged off the construction of a 100MW solar farm which will be built at a cost of 140 million US dollars, his office said in a statement.
+
+The plant is expected to generate about 219GigaWatt hours of energy each year indicating about 25 percent plant factor.
+
+The project, is built on 500 acres of land in the Kotiyagala Grama Niladhari Division of the Siyambalanduwa Divisional Secretariat in the Monaragala District.
+
+The Presidential secretariat worked closely to with multiple agencies to get 12 approvals during the past 6 to 9 months, chairman of Sri Lanka Sustainable Energy Authority, Wijendra Bandara, was quoted as saying at a ceremony on September 06.
+
+He was prepared to work with the government and propose a streamlined procedure under one roof, to accelerate such approvals for investors in the future.
+
+The plant was approved by in 2023 by the last administration during an economic crisis, when material costs were higher.
+
+...
+
+[Data](articles/b4f24345.json)
+
+[Extended Data](ext_articles/b4f24345.ext.json)
+
+---
+
+### The bus driver's blood sends the blood of the driver to the Government Analyst
+
+*2025-09-06 18:46:30* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේ-බස්-රියදුරුගේ-රුධිරය-රජයේ-රස-පරීක්ෂකට-යවයි/11-418316) · `si`
+
+The driver's blood samples of the Falls were killed in a thousand feet of precipice in the Ella 15 in Poan Division.
+
+The Tangalle Municipal Council workers were traveling on a picnic jeep on the 15th of the Wellawaya area in the Wellawaya area, the accident had occurred when the picnic jeep was traveling on the 15 minute jeep on the 15th area of ​​the Wellawaya.
+
+The youth driver, a resident of Henekala, Tangalle, has also died of the Carmanlla Dimantha (25), a resident of Henekaduwa.
+
+The driver was conducting further investigations to investigate the rise to investigate and investigate the driver of the driver at the time of the private bus.
+
+◼️
+
+[Data](articles/cfbf8f1b.json)
+
+[Extended Data](ext_articles/cfbf8f1b.ext.json)
+
+---
+
+### Maradana shooting motorcyclist arrested
+
+*2025-09-06 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214251) · `si`
+
+Motorcyclists have been arrested by the police in the Pananawa area in Pananawa today.
+
+Police said that Modara police were arrested for the arrest of the motorcyclist within a few minutes after the shooting.
+
+The suspect is a 21 year old resident of Bodhiraja Mawatha, Maligawatta, police said.
+
+With the release of police messages on the shooting, two Modara police sergeants were raided the motorcyclist fled while gathering another police officer.
+
+The suspect had fled the Kimbulala area, along with the motorcyclist's motorcyclist.
+
+The three police officers have launched a search operation in the area and hiding in a three-wheeler and climbed in a three-wheeler.
+
+Accordingly, the three-wheeler parked the three-wheeler with the assistance of a mobile travel jeep officer in the Madampitiya police sergeant.
+
+It has been said that the tragedy was involved in the motorcyclist in Kesana estate, which was an organized criminal in the Kesanasotuwa area after being interrogated by the arrested suspect.
+
+◼️
+
+[Data](articles/58394b87.json)
+
+[Extended Data](ext_articles/58394b87.ext.json)
+
+---
+
+### Former buds arrested for hiding Padma's ice chemicals
+
+*2025-09-06 18:35:47* · [`adalk`](https://www.ada.lk/breaking_news/පද්මෙගේ-අයිස්-රසායනික-ද්‍රව්‍ය-සඟවාගෙන-සිට-හිටපු-පොහොට්ටු-මන්ත්‍රී-අල්ලයි/11-418315) · `si`
+
+A former Pradeshiya Sabha member of the Sri Lanka General Manager, a native criminal criminal leader, has been arrested in the Sri Lanka General Manager, the sale of chemists in the Talawa house in Middeniya.
+
+In the Western Criminal Investigation Division, the information conducted by Bau Saman, who is detained in the Trust, reports information on the chemicals.
+
+The brother of the former MP is also involved in the incident and Resources Manamamparei has also been suspended by the party's membership of the Sri Lanka Civil Appointment
+
+◼️
+
+[Data](articles/81d6679c.json)
+
+[Extended Data](ext_articles/81d6679c.ext.json)
+
+---
+
+### Ditomic 79th Bradby shield to Royal College
+
+*2025-09-06 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214250) · `si`
+
+Royal College, Colombo won the 79th Bradby Shield defeating the Kalutara Tournament in Kandy.
+
+The second phase of this annual rugby battle was held today (06) at the Royal College Sports Complex, Colombo.
+
+Royal was lost 8-3 runs in the face of the royalty school.
+
+However, Royal was able to defeat the Trini Vidyalaya as 15-5 in the first phase of the Triple College stadium.
+
+Accordingly, according to the number of points in two stages, Royal College score 13 runs in Colombo.
+
+◼️
+
+[Data](articles/8495ec81.json)
+
+[Extended Data](ext_articles/8495ec81.ext.json)
 
 ---

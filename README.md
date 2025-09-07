@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 15:05:23**
+As of **2025-09-07 14:54:31**
 
 ## Newspaper Stats
 
-*Scraped **74,564** Articles*
+*Scraped **74,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,210
 adaderanalk | 9,538
-tamilmirrorlk | 11,101
+tamilmirrorlk | 11,099
 virakesarilk | 12,187
 adaderanasinhalalk | 12,983
 
@@ -26,47 +26,11 @@ adaderanasinhalalk | 12,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,276 (83.5%) of 74,564 articles have been extended.
+62,276 (83.5%) of 74,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
-
-### தண்டவாளத்தில் நித்திரையில் இருந்தவர் ரயில் மோதி பலி
-
-*2025-09-07 14:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-நித்திரையில்-இருந்தவர்-ரயில்-மோதி-பலி/175-364141) · `ta`
-
-மட்டக்களப்பு சந்திவெளி பொலிஸ் பிரிவிலுள்ள ஜீவபுரம் ரயில் தண்டவாளத்தில் தலையைவைத்து  நித்திரையில் இருந்த ஆண் ஒருவரை கொழும்பில் இருந்து மட்டக்களப்பு நோக்கி பிரயாணித்த கடுகதி புகையிரதம மோதியதில் தலை துண்டிக்கப்பட்டு உயிரிழந்த சம்பவம் சனிக்கிழமை (06) அன்று இரவு 10.00 மணிக்கு இடம்பெற்றுள்ளதாக சந்திவெளி  பொலிஸார் தெரிவித்தனர்.
-
-சந்திவெளி ஜீவநகரைச் சேர்ந்த 28 வயதுடைய இரு பிள்ளைகளின் தந்தையான வரதராஜா கிருஷ்ணகாந்தன்  என்பவரே  இவ்வாறு உயிரிழந்துள்ளார்.
-
-குறித்த நபர் சம்பவதினமான சனிக்கிழமை (06) அன்று இரவு 10.00 மணிக்கு மது போதையில்  தண்டவாளத்தில் தலையினை வைத்து  நித்திரையல் இருந்துள்ள நிலையல் கடுகதி ரயில் மோதியதில் தலை துண்டிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார் .
-
-இதனையடுத்து சடலத்தை மீட்டு ஏறாவூர் புகையிரத நிலையத்தில் ஓப்படைத்துவிட்டு ரயில் சாரதி பிரயாணத்தை மேற்கோண்டுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-இதனையடுத்து சடலத்தை பிரேத பரிசோதனைக்காக வாழைச்சேளை ஆதார வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/870aca4f.json)
-
----
-
-### கணவனை கோடரியால் கொத்திக் கொன்ற மனைவி
-
-*2025-09-07 14:37:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனை-கோடரியால்-கொத்திக்-கொன்ற-மனைவி/175-364139) · `ta`
-
-ஒரு வீட்டில் மனைவி ஒருவர் தனது கணவரை கோடரியால் வெட்டி கொலை செய்துவிட்டு, தனது மூன்று குழந்தைகளுடன் பொலிஸில்  சரணடைந்ததாக கெபத்திக்கொல்லாவ பொலிஸ் நிலையகம் தெரிவித்துள்ளது.
-
-கெபத்திக்கொல்லாவ பொலிஸ் பிரிவில் உள்ள குருலுகமவைச் சேர்ந்த மூன்று குழந்தைகளின் தாய் (வயது 36 ) பொலிஸ் நிலையத்தில்  சரணடைந்துள்ளார். உயிரிழந்தவர் கெபத்திக்கொல்லாவ வ, குருலுகம, உக்குவவைச் சேர்ந்த மூன்று குழந்தைகளின் தந்தையான உபாலி ஹேரத் (46) என்பவர் ஆவார்.
-
-தனது மனைவியுடன் வாக்குவாதத்தில் ஈடுபட்டபோது, ​​மனைவியை வாளால் தாக்க முயன்றதாகவும், கோடரியால் கணவனின் தலையில் தாக்கியதில், கணவர் சம்பவ இடத்திலேயே உயிரிழந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/b542e03c.json)
-
----
 
 ### Heavy rains in several areas
 
@@ -2039,5 +2003,45 @@ It has been said that the tragedy was involved in the motorcyclist in Kesana est
 [Data](articles/58394b87.json)
 
 [Extended Data](ext_articles/58394b87.ext.json)
+
+---
+
+### Former buds arrested for hiding Padma's ice chemicals
+
+*2025-09-06 18:35:47* · [`adalk`](https://www.ada.lk/breaking_news/පද්මෙගේ-අයිස්-රසායනික-ද්‍රව්‍ය-සඟවාගෙන-සිට-හිටපු-පොහොට්ටු-මන්ත්‍රී-අල්ලයි/11-418315) · `si`
+
+A former Pradeshiya Sabha member of the Sri Lanka General Manager, a native criminal criminal leader, has been arrested in the Sri Lanka General Manager, the sale of chemists in the Talawa house in Middeniya.
+
+In the Western Criminal Investigation Division, the information conducted by Bau Saman, who is detained in the Trust, reports information on the chemicals.
+
+The brother of the former MP is also involved in the incident and Resources Manamamparei has also been suspended by the party's membership of the Sri Lanka Civil Appointment
+
+◼️
+
+[Data](articles/81d6679c.json)
+
+[Extended Data](ext_articles/81d6679c.ext.json)
+
+---
+
+### Ditomic 79th Bradby shield to Royal College
+
+*2025-09-06 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214250) · `si`
+
+Royal College, Colombo won the 79th Bradby Shield defeating the Kalutara Tournament in Kandy.
+
+The second phase of this annual rugby battle was held today (06) at the Royal College Sports Complex, Colombo.
+
+Royal was lost 8-3 runs in the face of the royalty school.
+
+However, Royal was able to defeat the Trini Vidyalaya as 15-5 in the first phase of the Triple College stadium.
+
+Accordingly, according to the number of points in two stages, Royal College score 13 runs in Colombo.
+
+◼️
+
+[Data](articles/8495ec81.json)
+
+[Extended Data](ext_articles/8495ec81.ext.json)
 
 ---

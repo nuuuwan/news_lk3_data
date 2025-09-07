@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 05:05:31**
+As of **2025-09-08 03:54:29**
 
 ## Newspaper Stats
 
-*Scraped **74,648** Articles*
+*Scraped **74,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,154 +15,22 @@ colombotelegraphcom | 759
 economynextcom | 4,525
 islandlk | 4,588
 dailymirrorlk | 4,733
-dailyftlk | 5,299
+dailyftlk | 5,294
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
-virakesarilk | 12,208
+virakesarilk | 12,203
 adaderanasinhalalk | 12,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,123 (84.6%) of 74,648 articles have been extended.
+63,026 (84.4%) of 74,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### Foreign Minister heads  to Geneva for UNHRC session
-
-*2025-09-08 04:49:31* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-heads-to-Geneva-for-UNHRC-session/56-781367) · `en`
-
-Foreign Minister Vijitha Herath yesterday morning departed for Geneva to attend the 60th session of the United Nations Human Rights Council (UNHRC), scheduled to open today, the Foreign Ministry said.
-
-Herath is due to make a special address on behalf of the Sri Lankan Government during the session. He is also expected to meet senior diplomats, including UN High Commissioner for Human Rights Volker Türk, to outline the Government’s recent measures and future plans on human rights protection.
-
-The Minister is accompanied by Foreign Ministry UN and Human Rights Division Director General Dayani Mendis.
-
-◼️
-
-[Data](articles/58cbdbff.json)
-
----
-
-### ‘Kala Wewa Back to the Elephants’ project a success
-
-*2025-09-08 04:47:33* · [`dailyftlk`](https://www.ft.lk/news/Kala-Wewa-Back-to-the-Elephants-project-a-success/56-781366) · `en`
-
-The President’s Media Division (PMD) yesterday said that in parallel with the ‘Clean Sri Lanka’ initiative, the ‘Kala Wewa Back to the Elephants’ project was successfully carried out over three days in the floodplains surrounding the Kala Wewa National Park.
-
-Due to the spread of invasive plant species, including Japan Jabara, across several tank beds in the North Central Province, the tender grass that usually grows in these areas and serves as vital food for elephants, has been destroyed. These grass varieties are rich in protein and highly favoured by wild elephants. It is estimated that around 400 elephants inhabit the vicinity of Kala Wewa, the PMD said in a statement.
-
-A lack of adequate food has driven elephants into nearby villages, intensifying human-elephant conflicts. In recent months, several people have died as a result of elephant attacks. The area is also heavily cultivated with paddy, as well as soya, maize, fruits, and vegetables.
-
-...
-
-[Data](articles/9db1ddb1.json)
-
----
-
-### Crackdown on illegal vehicle modifications from today
-
-*2025-09-08 04:45:37* · [`dailyftlk`](https://www.ft.lk/news/Crackdown-on-illegal-vehicle-modifications-from-today/56-781364) · `en`
-
-The Government will begin enforcing laws against vehicles with unauthorised and hazardous modifications from today, Deputy Transport Minister Dr. Prasanna Gunasena announced yesterday.
-
-In a statement on his official Facebook page, Dr. Gunasena said the focus will be on vehicles with prohibited features, such as excessively loud sound systems and multi-coloured flashing lights.
-
-The decision follows a fatal accident on Thursday night (4) along the Ella-Wellawaya road, where a luxury jeep collided with a bus, causing it to veer off the road and fall nearly 1,000 feet, killing 15 people and injuring 18 others.
-
-◼️
-
-[Data](articles/3c6f96da.json)
-
----
-
-### Japan’s PM Shigeru Ishiba resigns after election drubbing
-
-*2025-09-08 04:43:52* · [`dailyftlk`](https://www.ft.lk/news/Japan-s-PM-Shigeru-Ishiba-resigns-after-election-drubbing/56-781363) · `en`
-
-Japan’s Prime Minister Shigeru Ishiba yesterday announced he was stepping down after less than a year in the role, following two major election losses, the BBC reported.
-
-The move comes a day before his Liberal Democratic Party (LDP) was expected to vote on whether to hold an internal leadership vote that could have forced him out.
-
-The LDP has governed Japan for most of the past seven decades, but under Ishiba, it lost its majority in the lower house for the first time in 15 years and then lost its majority in the upper house in July.
-
-Japan, the world’s fourth largest economy and a key US ally, now faces a period of political uncertainty as tensions rise with China and regional insecurity mounts.
-
-“Now that a conclusion has been reached in the negotiations concerning the US tariff measures, I believe this is precisely the appropriate time,” Ishiba said, referring to a deal signed last week to ease tariffs imposed by US President Donald Trump on Japanese cars and other exports.
-
-...
-
-[Data](articles/7c5bd031.json)
-
----
-
-### No rule of law unless rule of men defeated
-
-*2025-09-08 03:51:12* · [`dailyftlk`](https://www.ft.lk/columns/No-rule-of-law-unless-rule-of-men-defeated/4-781350) · `en`
-
-This is a serious matter for the Government of Anura Kumara Disanayake which has declared an open war with fighting corruption
-
-Chairing the late H.L. de Silva Memorial Events in 2012, the ex-Foreign Secretary H.M.G.S. Palihakkara openly questioned whether it is the rule of men or the rule of law which would usher prosperity to a nation.1 He answered his own question and opined that what was prevailing in Sri Lanka was not the rule of law but ‘a rule’ of men. For Sri Lanka to prosper, he said that the latter should be defeated. What he presented 13 years ago is valid for Sri Lanka even today.
-
-...
-
-[Data](articles/06d71885.json)
-
-[Extended Data](ext_articles/06d71885.ext.json)
-
----
-
-### Literacy - The seed of mental light
-
-*2025-09-08 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
-
-◼️
-
-[Data](articles/c8ecc66e.json)
-
-[Extended Data](ext_articles/c8ecc66e.ext.json)
-
----
-
-### Attack with his brother who came out of jail
-
-*2025-09-08 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224487) · `ta`
-
-The two have been arrested by the police after a man who was arrested and imprisoned with a sword was released on bail yesterday.
-
-The incident took place today in the Vaddukoddai police division.. The attack is reportedly due to a long -standing land dispute.
-
-The man who was injured in a sharp weapon has been taken to the Vaddukoddai Divisional Hospital and has been transferred to the Jaffna Teaching Hospital.
-
-Vaddukoddai police have arrested the two men and are carrying out investigations.
-
-◼️
-
-[Data](articles/218ad0ec.json)
-
-[Extended Data](ext_articles/218ad0ec.ext.json)
-
----
-
-### Chemmani Human Massacre: New Information will reveal - Somatna Rajapaksa's wife
-
-*2025-09-08 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224486) · `ta`
-
-The main culprit in the Krishanthi Kumaraswamy assassination case of Krishanthi Kumaraswamy's assassination in the murder of Krishanthi Kumaraswamy, who stated that she would take steps to make such a consultation with her husband, Somaratna Rajapaksa to reveal what has not yet been revealed to all the media, the international community and the judiciary. Anurakumara has sent a letter again to Dissanayake.
-
-Lans Corporal Somaratne Rajapaksa, who was named as the main culprit in the murder of the school student Krishanthi Kumaraswamy, was sentenced to death, including the President's SCVIVrama 107.20225, the President of the President, SCVIVIMA, on the issue of the murder and the issue of the Semmani Human Rights issue. Sent to Anuragumara Dissanayake. Their copies were sent to Prime Minister Harini Amarasuriya and Justice Minister Harshana Nanayakkara.
-
-...
-
-[Data](articles/1a77fba8.json)
-
-[Extended Data](ext_articles/1a77fba8.ext.json)
-
----
 
 ### Govt. breaks ground on $ 140 m Rividanavi solar power project
 
@@ -226,26 +94,6 @@ According to CBSL data, Sri Lanka’s short-term drain in foreign currency asset
 
 ---
 
-### Opening of National People's Power Public Library in Jaffna
-
-*2025-09-08 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224485) · `ta`
-
-The Jaffna office of the National People's Power was opened on Sunday (7) by the General Secretary of the People's Liberation Front, Rilvin Silva.
-
-The Library was opened at 5 pm on Sunday (7) at the National People's Power Public Relations Office at Palali Road, Kandarmadam.
-
-Fisheries and Maritime Minister Ramalingam Chandrasekhar, Members of Parliament Karunanathan Ilangumaran and Rajivan Jayachandramurthy were also present at the event.
-
-Meanwhile, a report on the murder case of the journalist Mayilvankanam Nimalarajan has been handed over to the General Secretary of the Janatha Vimukthi Peramuna (JVP) by the Jaffna Media Association.
-
-◼️
-
-[Data](articles/5302b262.json)
-
-[Extended Data](ext_articles/5302b262.ext.json)
-
----
-
 ### Sri Lanka shines at Commonwealth Business Excellence Awards 2025
 
 *2025-09-08 02:53:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-shines-at-Commonwealth-Business-Excellence-Awards-2025/34-781337) · `en`
@@ -277,32 +125,6 @@ Prior to joining Hayleys PLC, Karr held several senior positions at Cinnamon Hot
 [Data](articles/b52bbfc9.json)
 
 [Extended Data](ext_articles/b52bbfc9.ext.json)
-
----
-
-### A few politicians mixed with the arrest of the underworld groups - Vasantha Samarasinghe
-
-*2025-09-08 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224484) · `ta`
-
-A few politicians have been disturbed after the arrest of the underworld groups.
-
-He was speaking to the media after attending an event in Colombo on Sunday (7).
-
-All the opposition parties are currently united when they take action through the law for corrupt. The people of the country must understand that all members of the opposition parties are friends.
-
-The country was a bankruptment of corruption. So how to refer to it as politics when it takes action against corrupt people.
-
-Some politicians have been disturbed after the arrest of the underworld groups.
-
-The people of the country will quickly know that the drug is associated with the drug business and the politicians. The underworld groups and drug traders have been protected in the state sponsorship of last governments.
-
-The president's dreams have now been alarmed by the arrests of the underworld groups.
-
-◼️
-
-[Data](articles/0fdc8e7b.json)
-
-[Extended Data](ext_articles/0fdc8e7b.ext.json)
 
 ---
 
@@ -2073,5 +1895,209 @@ Crimes include operating vehicles, unauthorized color changes, installing multi 
 [Data](articles/f0dce010.json)
 
 [Extended Data](ext_articles/f0dce010.ext.json)
+
+---
+
+### The Arrest Of Ranil Wickremesinghe, Democracy & The Rule Of Law
+
+*2025-09-07 11:51:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-arrest-of-ranil-wickremesinghe-democracy-the-rule-of-law/) · `en`
+
+Democracy is often hailed as a system of government where the rule of law prevails over the rule of individuals. One of its most defining features is the principle that no one is above the law – not even the highest executive authority.
+
+In recent decades, several democratic countries  have demonstrated this commitment by arresting or prosecuting former heads of state for crimes ranging from corruption to abuse of power. These cases, while politically charged, underscore the resilience of democratic institutions and the importance of legal accountability.
+
+...
+
+[Data](articles/40909e27.json)
+
+[Extended Data](ext_articles/40909e27.ext.json)
+
+---
+
+### Foreign Minister of Geneva
+
+*2025-09-07 11:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெனீவா-புறப்பட்டார்-வெளியுறவு-அமைச்சர்/175-364132) · `ta`
+
+Foreign Minister Vijitha Herath will leave Geneva this morning to attend the 60th session of the United Nations Human Rights Council, which begins tomorrow (8).
+
+During the session, Minister Herath will present a special report on behalf of the Sri Lankan government.
+
+He is expected to hold bilateral discussions with many senior diplomats in Geneva. One year after the NPP government came to power, the UN to present the new government's initiatives, progress and future plans on human rights protection. A special meeting is scheduled for Human Rights Commissioner Volcker Turuk.
+
+During the session, the Director General of the UN and Human Rights Division of the Foreign Ministry will be with Minister Hera during the session.
+
+◼️
+
+[Data](articles/02f65b54.json)
+
+[Extended Data](ext_articles/02f65b54.ext.json)
+
+---
+
+### Infant among three killed in Russian attack that sets ablaze seat of Ukraine government
+
+*2025-09-07 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112249/infant-among-three-killed-in-russian-attack-that-sets-ablaze-seat-of-ukraine-government) · `en`
+
+An infant was among three people who died in Russia’s overnight attacks on Kyiv that injured 18 and set on fire scores of buildings in the capital, including the seat of the government, Ukrainian officials said on Sunday.
+
+Kyiv’s Mayor Vitali Klitschko said a fire broke out at the government building in the city centre after the attack, which began with drones raining down, followed by missile strikes.
+
+Reuters witnesses saw thick smoke rising from the building in the city’s Pecherskyi district.
+
+The drone attacks killed the infant and a young woman, Klitschko said on the Telegram messaging app, while a pregnant woman was among the five injured admitted to hospital.
+
+Earlier Klitschko had said an elderly woman died in a bomb shelter in the leafy Darnytskyi district to the east of the Dnipro River, the site of the other two deaths.
+
+...
+
+[Data](articles/85fde33d.json)
+
+[Extended Data](ext_articles/85fde33d.ext.json)
+
+---
+
+### Inhibitoring mineral traffic during school hours
+
+*2025-09-07 11:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-நேரங்களில்-கனிமப்-போக்குவரத்துக்கு-தடை/175-364131) · `ta`
+
+The Director General of the Geological Survey and Mining Bureau, Deepani Weerakoon, has announced that it has decided to ban mineral transport activities during school days.
+
+Mineral Transportation should be suspended from 6.30 am to 7.45 am and 11.30 am to 2.30 pm.
+
+The decision was taken after a discussion with a lorry carrying a sand carrying a van in school traffic.
+
+Accordingly, the vehicles carrying mineral transport activities should be properly packed on the streets.
+
+◼️
+
+[Data](articles/f19796ae.json)
+
+[Extended Data](ext_articles/f19796ae.ext.json)
+
+---
+
+### Tangalle land found in Tangalle land to produce ice
+
+*2025-09-07 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214269) · `si`
+
+A large number of items suspected to produce ice drug production in the Netolpitiya area in Tangalle this morning (07).
+
+According to information received from the residents of the area, the Tangalle Police Station officials had a special raid on a land adjacent to Weliwitna crossway.
+
+Police officers were conducting a large haul of white chemicals on the land, and the police officers have been suspected to produce the ice drug manufacture.
+
+It is reported that these chemicals are very similar to chemicals used in the Talawa land area in Talawa yesterday.
+
+The chemicals have been brought to this place about 4 months ago, police said.
+
+Chemical Consignment is to be taken to the Tangalle Police this afternoon for further investigations.
+
+◼️
+
+[Data](articles/35ef1a49.json)
+
+[Extended Data](ext_articles/35ef1a49.ext.json)
+
+---
+
+### Two drivers arrested
+
+*2025-09-07 11:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-சாரதிகள்-அதிரடியாக-கைது/76-364129) · `ta`
+
+Hatton Police Transport Officers arrested two drivers of two private buses who were in dangerously fast in the same direction from Kandy to Hatton.
+
+The two buses started their journey from the Kandy bus stand, and when the first bus faced the Ginigathena area, a man who was on a motorbike behind two buses and two buses drove the buses to the Hatton bus station and lodged a mobile phone.
+
+Immediately, the Superintendent of Police, who was acting immediately, informed the Ahattan Police Transport Unit to arrest the two drivers who drove the two buses, and the two drivers were arrested on suspicion.
+
+◼️
+
+[Data](articles/a5d84f72.json)
+
+[Extended Data](ext_articles/a5d84f72.ext.json)
+
+---
+
+### Dispute killed
+
+*2025-09-07 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214268) · `si`
+
+The deceased is a 66 year old resident of the Horanawatta, aged.
+
+Preliminary investigations have revealed that the resident of the resident had been assassinated by a resident of the house due to a resident of the house.
+
+Horana Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/29e860b0.json)
+
+[Extended Data](ext_articles/29e860b0.ext.json)
+
+---
+
+### Foreign Minister Vijitha Herath departs for Geneva to attend UNHRC session
+
+*2025-09-07 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112248/foreign-minister-vijitha-herath-departs-for-geneva-to-attend-unhrc-session) · `en`
+
+Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, departed for Geneva, Switzerland, this morning (07) at around 6:45 a.m.
+
+Minister Vijitha Herath will be attending the 60th session of the UN Human Rights Council, which is scheduled to commence in Geneva on September 8 and will continue until October 8.
+
+The Foreign Minister is expected to deliver a special statement on behalf of the Sri Lankan government during the session.
+
+During his visit, Minister Herath is also scheduled to hold bilateral discussions with several high-ranking diplomats in Geneva.
+
+A special meeting is set to take place between UN High Commissioner for Human Rights, Volker Türk, and Minister Herath.
+
+...
+
+[Data](articles/c849e5d9.json)
+
+[Extended Data](ext_articles/c849e5d9.ext.json)
+
+---
+
+### ජිනීවා මානව හිමිකම් සමුළුවට සහභාගීවීමට ඇමති විජිත දිවයිනෙන් පිටත්ව යයි
+
+*2025-09-07 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214267) · `si`
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා අද (07) පෙරවරු 06.45ට පමණ ජිනීවා බලා පිටත්ව ගොස් තිබේ.
+
+ඒ හෙට (08) ආරම්භ වන එක්සත් ජාතීන්ගේ මානව හිමිකම් සමුළුවේ 06 වන සැසියට සහභාගි වීම සඳහා ය.
+
+එහිදී අමාත්‍ය විජිත හේරත් ශ්‍රී ලංකා රජය වෙනුවෙන් විශේෂ ප්‍රකාශයක් සිදුකිරීමටත්  නියමිතය.
+
+මෙම සංචාරය අතරතුර අමාත්‍ය විජිත හේරත් මහතා ඉහළ පෙළේ රාජතාන්ත්‍රිකයන් කිහිප දෙනෙක් සමඟ ජිනීවා නුවර දී ද්විපාර්ශික සාකච්ඡා පැවැත්වීමට නියමිත ව ඇත.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් Volker Turk හා අමාත්‍ය විජිත හේරත් අතර විශේෂ හමුවක් ද මෙහිදී පැවැත්වීමට නියමිතව ඇත.
+
+Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය කිරීමෙන් අනතුරුව සහ ජාතික ජන බලවේග රජය බලයට පත්වී වසරකින් පසුව පැවැත්වෙන මෙම සමුළුවේ දී මානව හිමිකම් ආරක්ෂා කිරීම සම්බන්ධයෙන් නව රජය ගෙන ඇති ක්‍රියාමාර්ග, ප්‍රගතිය සහ ඉදිරි සැලසුම් ඉදිරිපත් කිරීමට හැකි වේ.
+
+මෙවර මානව හිමිකම් සැසියට අමාත්‍ය විජිත හේරත්ට අමතරව විදේශ කටයුතු අමාත්‍යාංශයේ එක්සත් ජාතීන්ගේ සංවිධානය සහ මානව හිමිකම් පිළිබඳව අධ්‍යක්ෂ ජනරාල් දයානි මෙන්ඩිස් මහත්මිය ද සහභාගි වේ.
+
+◼️
+
+[Data](articles/739183d1.json)
+
+[Extended Data](ext_articles/739183d1.ext.json)
+
+---
+
+### Import of vehicles cost US $ 475 million in first 6 months
+
+*2025-09-07 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආයනයනට-මුල්-මාස-6දී-ඩොලර්-මිලියන-475ක්-වැය-වෙලා/11-418324) · `si`
+
+According to a report issued by the Central Bank Sri Lanka's US $ 475 million in the first six of the year.
+
+Accordingly, the importation of vehicles including private vehicles, commerce vehicles, including vehicles, has spent. The Central Bank report also stated that the importation of the laws on imports of vehicle imports this year. The Central Bank points out that the demand for vehicles has been increased and the demand for vehicles will be gradually reduced.
+
+The Central Bank report also states that the rupee has caused 3.1 percent to the US dollar in July 2025 am on July 22, 2005.
+
+◼️
+
+[Data](articles/ea92a3c0.json)
+
+[Extended Data](ext_articles/ea92a3c0.ext.json)
 
 ---

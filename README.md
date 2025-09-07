@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 12:10:21**
+As of **2025-09-07 12:20:42**
 
 ## Newspaper Stats
 
-*Scraped **74,545** Articles*
+*Scraped **74,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,208
 adaderanalk | 9,536
-tamilmirrorlk | 11,095
+tamilmirrorlk | 11,097
 virakesarilk | 12,186
-adaderanasinhalalk | 12,975
+adaderanasinhalalk | 12,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,111 (83.3%) of 74,545 articles have been extended.
+62,111 (83.3%) of 74,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### පාකිස්තානයේ බෝට්ටුවක් පෙරළී පස් දෙනෙකු මරුට
+
+*2025-09-07 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214273) · `si`
+
+පාකිස්තානයේ දකුණු පන්ජාබ් ප්‍රාන්තයේ බෝට්ටුවක් පෙරලීයාමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් පස් දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ පාකිස්තානයේ ගංවතුරින් පීඩාවට පත්වී සිටින පිරිස් ඉවත් කරමින් සිටි බෝට්ටුවක් මෙලෙස පෙරළී ගොස් ඇති බවය.
+
+බෝට්ටුව පෙරළුණු ද එහි ගමන් ගත් පුද්ගලයින් කිහිප දෙනෙකු බේරා ගැනීමට එරට ආරක්ෂක අංශ කටයුතු කර ඇත.
+
+පාකිස්තානයේ බලපා ඇති ගංවතුර තත්ත්වය එරට ගම්මාන 4,100කට වැඩි සංඛ්‍යාවකට බලපෑම් එල්ල කර ඇති අතර තවත් මිලියන 2කට අධික පිරිසක් සිය නිවාසවලින් ඉවත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/d68bf41d.json)
+
+---
+
+### යුක්‍රේන රජයේ ගොඩනැගිල්ලකට රුසියාවෙන් ප්‍රහාරයක්
+
+*2025-09-07 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214272) · `si`
+
+රුසියාව විසින් යුක්‍රේනයට එල්ල කරන ලද දැවැන්ත ප්‍රහාරයකින් යුක්‍රෙන රජයේ ප්‍රධාන ගොඩනැගිල්ලකට හානි සිදුව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් මාධ්‍ය සඳහන් කර ඇත්තේ රුසියාව විසින් මෙම ප්‍රහාරය සඳහා මිසයිල සහ ඩ්‍රෝන යානා යොදාගෙන ඇති බවත් එමගින් ඔවුන් කියෙව් නගර මධ්‍යයේ ඇති ගොඩනැගිලි ඉලක්ක කර ඇති බවත්ය.
+
+එමෙන්ම නගරයේ ඇති බහු මහල් නේවාසික ගොඩනැගිලි කිහිපයකටම රුසියාව විසින් ප්‍රහාර එල්ල කර ඇති අතර එම ප්‍රහාර හේතුවෙන් එම ගොඩනැගිලි කිහිපයක්ම අර්ධ වශයෙන් හානියට පත්ව ඇතැයිද විදෙස් මාධ්‍ය වාර්තා හී සඳහන් වේ.
+
+ප්‍රහාර හේතුවෙන් මේ වන විට යුක්‍රේනයේ පුද්ගලයින් තිදෙනෙකු මියගොස් තවත් පුද්ගලයින් 13 දෙනෙකු තුවාල ලබා ඇතැයිද සඳහන් වේ.
+
+මේ අතර විදෙස් මාධ්‍ය වාර්තා හී සඳහන්ව ඇත්තේ යුක්‍රේන ජනාධිපති වොලොඩිමියර් සෙලෙන්ස්කිගේ උපන් ගම වන ක්‍රිව් රිහ් වෙතද රුසියාව ප්‍රහාර එල්ල කර ඇති බවය.
+
+යුක්‍රේන ගුවන් හමුදාව ප්‍රහාර සම්බන්ධව අදහස් දක්වමින් පවසා ඇත්තේ රුසියාව විසින් එක් රැයක් තුළ ඩ්‍රෝන යානා 805ක් සහ මිසයිල 13ක් එල්ල කළ බවය.
+
+...
+
+[Data](articles/0dc6740a.json)
+
+---
 
 ### පුටින්ගේ යෝජනාව සෙලෙන්ස්කි ප්‍රතික්ෂේප කරයි
 
@@ -49,6 +89,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ecf0c3b3.json)
+
+---
+
+### நாளை முதல் அதிரடி
+
+*2025-09-07 11:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-அதிரடி/175-364133) · `ta`
+
+சட்டத்திற்குப் புறம்பாக வாகனங்களில் செய்யப்படும் மாற்றங்கள் மற்றும் பாதுகாப்பற்ற ஓட்டுநர் நடைமுறைகளுக்கு எதிராக இலங்கை பொலிஸ் செப்டம்பர் 8 முதல் நாடு தழுவிய கடும் நடவடிக்கையைத் தொடங்கும் என்று பிரதிப் போக்குவரத்து அமைச்சர் பிரசன்ன குணசேன அறிவித்தார்.
+
+புதிய அமலாக்க நடவடிக்கையின் கீழ், மோட்டார் போக்குவரத்து சட்டம் மற்றும் தொடர்புடைய விதிமுறைகளுக்கு இணங்குவதை உறுதி செய்வதற்காக அதிகாரிகள் தீவு முழுவதும் சோதனைகளை மேற்கொள்வார்கள்.
+
+வீதிக்கு தகுதியற்ற நிலையில் வாகனங்களை இயக்குதல், அங்கீகரிக்கப்படாத வண்ண மாற்றங்கள், பல வண்ண அலங்கார விளக்குகளை நிறுவுதல், சத்தத்தை அதிகரிக்கும் வெளியேற்ற குழாய்களைப் பயன்படுத்துதல் மற்றும் வாகனங்களில் படங்கள் அல்லது விளம்பரங்களைக் காண்பித்தல் ஆகியவை குற்றங்களில் அடங்கும்.
+
+◼️
+
+[Data](articles/c90a97c3.json)
+
+---
+
+### ஜெனீவா புறப்பட்டார் வெளியுறவு அமைச்சர்
+
+*2025-09-07 11:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெனீவா-புறப்பட்டார்-வெளியுறவு-அமைச்சர்/175-364132) · `ta`
+
+நாளை (8) தொடங்கும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில் பங்கேற்பதற்காக வெளியுறவு அமைச்சர் விஜித ஹேரத் இன்று (7) காலை ஜெனீவாவுக்குப் புறப்பட்டதாக அமைச்சகம் அறிவித்துள்ளது.
+
+இந்த அமர்வின் போது, ​​இலங்கை அரசாங்கத்தின் சார்பாக அமைச்சர் ஹேரத் ஒரு சிறப்பு அறிக்கையை வழங்க உள்ளார்.
+
+ஜெனீவாவில் பல மூத்த இராஜதந்திரிகளுடன் அவர் இருதரப்பு கலந்துரையாடல்களையும் நடத்துவார் என்று எதிர்பார்க்கப்படுகிறது. NPP அரசாங்கம் ஆட்சிக்கு வந்து ஒரு வருடம் ஆனதைத் தொடர்ந்து, மனித உரிமைகள் பாதுகாப்பு குறித்த புதிய அரசாங்கத்தின் முன்முயற்சிகள், முன்னேற்றம் மற்றும் எதிர்காலத் திட்டங்களை முன்வைக்க ஐ.நா. மனித உரிமைகள் ஆணையர் வோல்கர் டர்க்குடன் ஒரு சிறப்பு சந்திப்பு திட்டமிடப்பட்டுள்ளது.
+
+இந்த அமர்வின் போது அமைச்சர் ஹேரத்துடன் வெளியுறவு அமைச்சகத்தின் ஐ.நா மற்றும் மனித உரிமைகள் பிரிவின் பணிப்பாளர் நாயகம் டியானி மெண்டிஸ் உடன் இருப்பார்.
+
+◼️
+
+[Data](articles/02f65b54.json)
 
 ---
 
@@ -1939,89 +2013,5 @@ Sri Lanka were able to win the first Twenty20 match between the two countries by
 [Data](articles/306c98f0.json)
 
 [Extended Data](ext_articles/306c98f0.ext.json)
-
----
-
-### Important containers 323 released from Customs, there is no link between 323 and containers found in Mapden - Police
-
-*2025-09-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214242) · `si`
-
-Police say that 323 imported containers released from Customs and the Ice Drugs, who were released by a group of organized criminal criminal criminal criminal criminal criminal criminal criminal criminal criminal criminadu.
-
-Police Media Spokesman, Assistant Superintendent of Police (F). U. Mr. Woodler said that.
-
-He noted that the number of matters pertaining to 323 applications were not equal to 323 imported containers.
-
-"Some opinion on the release of 323 containers of 2025 went in society. But these two containers are not involved. Because we checked with numbers in the containers. Because the Criminal Investigation Department for 323 Containers was two other containers of such adapted numbers. Therefore, 323 containers have no contact. "
-
-◼️
-
-[Data](articles/19bcdcc0.json)
-
-[Extended Data](ext_articles/19bcdcc0.ext.json)
-
----
-
-### Police reveal to the Ice drug manufacturing chemicals imported from Padma
-
-*2025-09-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214243) · `si`
-
-Police Media Spokesperson Assistant Superintendentus, police spokesman Assistant Superintendenti. Says U Woatler.
-
-He was speaking at a special press conference held at the Police Media Division auditorium today (06).
-
-The suspect has been arrested by one suspect in the respective land and handed over to the Western Province North Criminal Investigation Division.
-
-He added that the ice drug imported from abroad and has made a strong attempt to produce it in Sri Lanka.
-
-The media spokesman said that the public will inform the public about these contents.
-
-He also said that the public is behind all these successful raids and that they are expressing their gratitude to those who support them.
-
-◼️
-
-[Data](articles/550b1fbe.json)
-
-[Extended Data](ext_articles/550b1fbe.ext.json)
-
----
-
-### Ambassador says Chinese government will be fully supported to develop the country
-
-*2025-09-06 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214241) · `si`
-
-Chinese Ambassador in Sri Lanka, Sri Lanka's Government has extended the full support of the Government of President Anura Kumara Dissanayake.
-
-The Ambassador said this to the provision of livelihood families in the district to uplift low income families in the Polonnaruwa District.
-
-Steps were taken to provide Rs.
-
-Deputy Minister of Health and Mass Media, Hon. Wijemani, Deputy Minister of Housing. Sarath and Members of Parliament Sunil Ratnasiri, Padmasiri Bandara, Polonnaruwa Bandara, Polonnaruwa District Secretary Sujantha Kumara, Polonnaruwa District Secretary Sujantha Kumara, Polonnaruwa District Secretary Sujanatissanayake Kumara and Polonnaruwa District Secretary Sujantha Ekanasiri.
-
-◼️
-
-[Data](articles/fa36e1c4.json)
-
-[Extended Data](ext_articles/fa36e1c4.ext.json)
-
----
-
-### Israeli army urges Gaza to leave
-
-*2025-09-06 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224375) · `ta`
-
-The Israeli military has urged the civilians in Gaza to go south of Khan Younis before the intense attack against Hamas.
-
-It states that Israel is providing field hospitals, water supply, salty units and food to the displaced families.
-
-Israeli Prime Minister Benjamin Netanyahu has directed the forces to move deep into the city of Israel, the central base of Hamas.
-
-It is reported that military officials are now controlling parts of the Gaza area and parts of the city.
-
-◼️
-
-[Data](articles/5004cf85.json)
-
-[Extended Data](ext_articles/5004cf85.ext.json)
 
 ---

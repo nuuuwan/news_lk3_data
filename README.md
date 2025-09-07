@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 19:54:02**
+As of **2025-09-07 20:20:06**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ adaderanasinhalalk | 12,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,588 (83.9%) of 74,599 articles have been extended.
+62,602 (83.9%) of 74,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### ராஜினாமா செய்கிறார் ஜப்பான் பிரதமர்
+### Japanese Prime Minister resigns
 
 *2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
 
-ஜப்பான் பிரதமர் ஷிகெரு இஷிபா ராஜினாமா செய்ய முடிவு; ஆளும் கட்சியில் பிளவு ஏற்படாமல் தடுக்கும் நோக்கத்துடன் இந்த முடிவு எடுத்திருப்பதாக, தகவல் வெளியாகியுள்ளது.
+Japanese Prime Minister Shikheru Ishiba decision to resign The decision has been made with the aim of preventing splitting in the ruling party.
 
-ஜப்பான் நாட்டின் பிரதமராக இருப்பவர் ஷிகெரு இஷிபா. இவர், லிபரல் டெமாக்ரடிக் கட்சியின் சார்பில் பதவி வகிக்கிறார்.இந்தாண்டு ஜூலை மாதம் நடந்த பார்லியின் மேலவை தேர்தலில் இந்த கட்சிக்கு தோல்வி கிடைத்தது.
+Shigeru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
 
-இதனால் ஆளும் கட்சி, பெரும்பான்மையை இழந்து விட்டது.இதற்கு பொறுப்பேற்று பிரதமர் ராஜினாமா செய்ய வேண்டும் என்று கட்சி நிர்வாகிகள் சிலர் குரல் எழுப்பத் தொடங்கியுள்ளனர்.
+Some of the party executives have begun to voice their voice that the Prime Minister should resign.
 
-கடந்த ஒரு மாதமாக இவ்வாறு கூறப்படும் கருத்துக்களை பிரதமர் புறக்கணித்து வந்தார். ஆனால், நாளுக்கு நாள் அவரது ராஜினாமாவை கோரும் குரல்கள் வலுத்து வருகின்றன.குறிப்பாக, அவரது கட்சியில் இருக்கும் வலதுசாரிகள், இந்த கோரிக்கையை வலியுறுத்தி வருகின்றனர்.
+The Prime Minister has ignored the comments that have been said for the past one month. But the voices of his resignation day by day are strengthening.
 
-...
+In such a situation, the Liberal Democratic Party is due to decide whether to hold an election in advance of the party leadership.. In order to avoid it, it is reported that he has come forward to resign automatically
+
+◼️
 
 [Data](articles/2dbc18b6.json)
+
+[Extended Data](ext_articles/2dbc18b6.ext.json)
 
 ---
 

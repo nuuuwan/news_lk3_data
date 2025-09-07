@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 01:55:14**
+As of **2025-09-08 03:37:03**
 
 ## Newspaper Stats
 
-*Scraped **74,621** Articles*
+*Scraped **74,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 759
-economynextcom | 4,524
+economynextcom | 4,525
 islandlk | 4,588
 dailymirrorlk | 4,733
-dailyftlk | 5,278
+dailyftlk | 5,294
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
@@ -26,11 +26,277 @@ adaderanasinhalalk | 12,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,958 (84.4%) of 74,621 articles have been extended.
+63,018 (84.4%) of 74,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### Govt. breaks ground on $ 140 m Rividanavi solar power project
+
+*2025-09-08 03:03:41* · [`dailyftlk`](https://www.ft.lk/business/Govt-breaks-ground-on-140-m-Rividanavi-solar-power-project/34-781340) · `en`
+
+Project to generate 100 MW, add 219 GWh annually to national grid, saving Rs. 21 b forex to power green future
+
+Includes 12 MWh battery storage and new 132 kV transmission line for grid stability
+
+First project for which Sustainable Energy Authority provided project site, access roads and all relevant approvals to investor
+
+Expects to reduce annual carbon dioxide emissions by 150,000 tons
+
+Aims to complete project by Q1 2027, implemented by Rivi Danavi—Lakdhanavi and WindForce
+
+The Government began construction of the country’s largest renewable energy project—the ‘Rividanavi’ Solar Power Park on Saturday (6), under the patronage of President Anura Kumara Disanayake.
+
+Spanning 500 acres in Kotiyagala, Monaragala District, the $ 140 million project is set to add 100 MW of clean energy to the national grid, as a key step towards achieving the target of fulfilling 70% of the country’s electricity demand from renewable energy by 2030.
+
+...
+
+[Data](articles/f1bdb602.json)
+
+---
+
+### JW.ORG’s Colombo International Convention generates $ 7.6 m revenue, welcomes 3,500 delegates
+
+*2025-09-08 03:02:28* · [`dailyftlk`](https://www.ft.lk/business/JW-ORG-s-Colombo-International-Convention-generates-7-6-m-revenue-welcomes-3-500-delegates/34-781339) · `en`
+
+The Jehovah’s Witnesses (JW.ORG) yesterday said that its three-day International Convention of Jehovah’s Witnesses, held from 5-7 September at the Sugathadasa Indoor and Outdoor Stadium, concluded successfully, bringing together more than 3,500 international delegates from 10 countries and over 14,000 total participants, including local members.
+
+JW.ORG said in a statement: “The convention delivered a significant boost to Sri Lanka’s tourism and hospitality sector. Based on visitor turnout and extended travel itineraries, organisers estimate the event generated $ 7.6 million in direct tourism revenue. This impact follows the precedent of a similar JW.ORG gathering in 2018 that contributed $ 6.9 million to the local economy.”
+
+...
+
+[Data](articles/a887eda7.json)
+
+---
+
+### Official reserve assets inch up in August to $ 6.17 b
+
+*2025-09-08 03:01:12* · [`dailyftlk`](https://www.ft.lk/business/Official-reserve-assets-inch-up-in-August-to-6-17-b/34-781338) · `en`
+
+Official reserve assets rose marginally to $ 6.17 billion as at end-August 2025, up from $ 6.15 billion as at end-July, the latest data from the Central Bank of Sri Lanka (CBSL) showed.
+
+Reserve assets have been inching upwards since falling to $ 6.08 billion in June from a peak of $ 6.5 billion in March 2025.
+
+In August, foreign currency reserves amounted to $ 6.1 billion, up from $ 6.06 billion in July, and $ 6.02 billion in June. Gold assets amounted to $ 52 million as at end-August, up from $ 50 million the previous month, with $ 4 million held in reserves with the International Monetary Fund (IMF) unchanged.
+
+According to CBSL data, Sri Lanka’s short-term drain in foreign currency assets is $ 2 billion, comprising $ 1.2 billion in principle payments and $ 875 million in interest on loans and maturing securities and deposits within a year.
+
+...
+
+[Data](articles/771d8b41.json)
+
+---
+
+### Sri Lanka shines at Commonwealth Business Excellence Awards 2025
+
+*2025-09-08 02:53:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-shines-at-Commonwealth-Business-Excellence-Awards-2025/34-781337) · `en`
+
+Sri Lankan Acting High Commissioner in Malaysia Mohamed Rizvi (left) handing over the trophy to a representative of Talawakelle Tea Estates. Others (from left): Maldivian Embassy in Malaysia Third Secretary Mariyam Farzana, Organising Committee Co-Chair Samrat Dutta, and Organising Committee Chair Asha Jayamanne. Category wins include; Sustainable Tech Award in ICT and IT Sector, Outstanding Contribution In Emissions Reduction Award, Best CSR in Environmental Impact Award, Women Leadership Excellence in Breaking the Bias Award, Best Workplace Culture Award in the HR Sector
+
+Sri Lankan Acting High Commissioner in Malaysia Mohamed Rizvi (left) handing over the trophy to Charnika Imbulana Munasinghe, who won the ‘Outstanding Women Leadership in Print Media’ award. Others (from left): Maldivian Embassy in Malaysia Third Secretary Mariyam Farzana, Organising Committee Co-Chair Samrat Dutta, and Organising Committee Chair Asha Jayamanne
+
+...
+
+[Data](articles/ca413859.json)
+
+---
+
+### Rohan Karr appointed to The Fortress Resorts Board
+
+*2025-09-08 02:52:39* · [`dailyftlk`](https://www.ft.lk/business/Rohan-Karr-appointed-to-The-Fortress-Resorts-Board/34-781336) · `en`
+
+Leisure industry veteran Rohan Karr has been appointed as a Non-Executive Director on the Board of The Fortress Resorts PLC.
+
+Karr joined Hayleys PLC in 2019 as an Executive Director of the Board of Hayleys PLC and as the Managing Director of Hayleys Leisure PLC, which includes The Kingsbury and Amaya Resorts & Spas. He also serves as a Director on the Boards of Summer Seasons Ltd., and Greener Water Ltd., both under the Vallibel Group.
+
+Prior to joining Hayleys PLC, Karr held several senior positions at Cinnamon Hotels & Resorts, the leisure sector of John Keells Holdings, including Chief Executive Officer, Executive Vice President, Sector Head, and General Manager, overseeing the Group’s city hotels and resort chain for over 16 years. Notably, he led the launch of the ‘Cinnamon’ brand in 2005 in his capacity as Head of Brand Development.
+
+...
+
+[Data](articles/b52bbfc9.json)
+
+---
+
+### Prof. Ananda Jayawardane joins Prime Lands Residencies Board
+
+*2025-09-08 02:50:52* · [`dailyftlk`](https://www.ft.lk/business/Prof-Ananda-Jayawardane-joins-Prime-Lands-Residencies-Board/34-781335) · `en`
+
+Former Commercial Bank Chairman Prof. Ananda Jayawardane was yesterday appointed to the Board of Prime Lands Residencies PLC as a Non-Executive Director.
+
+Prof. Jayawardane has held senior roles in the public and private sectors across construction, banking, finance, manufacturing, insurance, IT, education, and science and technology.
+
+He served nine years on Commercial Bank of Ceylon PLC’s Board before retiring in April 2024. He is currently Senior Professor in Civil Engineering at the University of Moratuwa, a Non-Executive Director of HNB Assurance PLC and Mother Lanka Foundation, and serves on committees of the Central Bank and CA Sri Lanka.
+
+...
+
+[Data](articles/ec54728d.json)
+
+[Extended Data](ext_articles/ec54728d.ext.json)
+
+---
+
+### CPA Australia celebrates member achievements at Sri Lanka  Recognition Ceremony
+
+*2025-09-08 02:45:36* · [`dailyftlk`](https://www.ft.lk/business/CPA-Australia-celebrates-member-achievements-at-Sri-Lanka-Recognition-Ceremony/34-781334) · `en`
+
+CPA Australia recently hosted its annual Member Recognition Ceremony at the Shangri-La Hotel, Colombo, bringing together finance professionals, business leaders, and policymakers to celebrate the achievements of its Sri Lankan members.
+
+The event was graced by Chief Guest Treasury and Finance, Planning and Economic Development Ministry Secretary Dr. Harshana Suriyapperuma, alongside CPA Australia Chief Executive Officer Chris Freeland AM, senior representatives, and members of the profession.
+
+In his welcome address, Freeland highlighted CPA Australia’s global scale, with more than 175,000 members across 100 countries. He noted that Sri Lanka’s community of nearly 600 members continues to make significant contributions to the nation’s finance sector, business leadership, and economic development.
+
+...
+
+[Data](articles/65dc3da3.json)
+
+[Extended Data](ext_articles/65dc3da3.ext.json)
+
+---
+
+### Institute of Chartered Corporate Secretaries of Sri Lanka hosts Coffee Evening on governance regulations
+
+*2025-09-08 02:45:04* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Chartered-Corporate-Secretaries-of-Sri-Lanka-hosts-Coffee-Evening-on-governance-regulations/34-781333) · `en`
+
+From left: SEC Assistant Manager Shanika Gunasinghe, CSE Chief Regulatory Officer Nilupa Perera and People’s Leasing & Finance Director S. Sudarshan
+
+The Institute of Chartered Corporate Secretaries of Sri Lanka (ICCSSL) successfully hosted an insightful Coffee Evening on 30 July at the Granbell Hotel, Colombo 3. The event brought together Chartered Corporate Secretaries practicing as company secretaries to discuss critical issues surrounding the new governance regulations imposed on listed companies by the Colombo Stock Exchange (CSE).
+
+The evening featured a distinguished panel comprising Colombo Stock Exchange Chief Regulatory Officer Nilupa Perera, and Securities and Exchange Commission of Sri Lanka Assistant Manager – Compliance Shanika Gunasinghe. The discussion was expertly moderated by Governance Consultants Ltd. Chairman, People’s Leasing & Finance PLC Director and Sampath Bank PLC former Group Company Secretary S. Sudarshan.
+
+...
+
+[Data](articles/79da70b2.json)
+
+[Extended Data](ext_articles/79da70b2.ext.json)
+
+---
+
+### NelFarms wins two prestigious awards at Sri Lanka Clean Energy Week 2025
+
+*2025-09-08 02:43:22* · [`dailyftlk`](https://www.ft.lk/business/NelFarms-wins-two-prestigious-awards-at-Sri-Lanka-Clean-Energy-Week-2025/34-781332) · `en`
+
+From left: Sri Lanka Sustainable Energy Authority Chairman Prof. Wijendra J. Bandara, Noorani Estates Chief Financial Officer Asitha Jayamaha, and Public Utilities Commission of Sri Lanka Deputy Chairman/Commissioner Eng. Piyal Hennayake
+
+NelFarms, a pioneer in integrating renewable energy into Sri Lanka’s poultry sector, has won two top awards at the recently concluded third edition of Sri Lanka Clean Energy Week 2025.
+
+The company was honoured with: Best Solar Project Deal of the Year in the Project Showcase category and Company of the Year: Excellence in Corporate Adaptation in the Sustainability Leadership category.
+
+The event, organised by firstVIEW and powered by SolarQuarter South Asia, brought together industry leaders, innovators, and policymakers to recognise outstanding contributions to the clean energy transition.
+
+...
+
+[Data](articles/d64cad73.json)
+
+[Extended Data](ext_articles/d64cad73.ext.json)
+
+---
+
+### Nigerian business magnate explores investment opportunities in Sri Lanka
+
+*2025-09-08 02:39:18* · [`dailyftlk`](https://www.ft.lk/business/Nigerian-business-magnate-explores-investment-opportunities-in-Sri-Lanka/34-781331) · `en`
+
+From left: Hospitality and Hotel Management Consultant Brian Winston Joseph, Colombo Dockyard Chairman Lalith Ganlath, Cross River State, Nigeria former Governor Benedict Ayade, Ariya Food – Tradlanka Agricultural Enterprises Managing Director Prasad Vithanage, Tulip Hotels and Restaurants Managing Director Chandra Mohotti and Honorary Consul General of Sri Lanka in Nigeria, Govindasamy Vijeyachelvan
+
+Lawyer and Cross River State, Nigeria former Governor Benedict Ayade, was in Sri Lanka last week to explore investment opportunities in several verticals.
+
+He visited the Colombo Dockyard PLC (CDL) and Tradlanka Agricultural Enterprises Ltd. (Ariya Food), as well as several hospitality schools, to explore the possibility of forming joint ventures.
+
+Ayade said that he is seeking to formulate an agreement with Colombo Dockyard to have ship repairing facilities at several ports in Nigeria. “We are looking at a joint venture with CDL.”
+
+...
+
+[Data](articles/cc1db3f4.json)
+
+[Extended Data](ext_articles/cc1db3f4.ext.json)
+
+---
+
+### EY Sri Lanka sets out guidelines  for SVAT phaseout
+
+*2025-09-08 02:37:40* · [`dailyftlk`](https://www.ft.lk/business/EY-Sri-Lanka-sets-out-guidelines-for-SVAT-phaseout/34-781330) · `en`
+
+With the Government abolishing Simplified Value Added Tax (SVAT) from 1 October 2025, EY Sri Lanka has issued guidelines on how businesses can manage the transition and comply with strict timelines.
+
+The firm has outlined the forms, deadlines, and reporting requirements that Registered Identified Suppliers (RIS) and Registered Identified Purchasers (RIP) must follow to complete the transition.
+
+Sri Lankan businesses face a significant change in their tax compliance obligations with the withdrawal of the SVAT system from 1 October. The end of the SVAT will remove the upfront VAT suspension mechanism that exporters and other registered parties relied on to manage cash flow.
+
+All supplies and purchases after 30 September will be subject to the standard VAT system, requiring companies to manage refunds through the regular process. EY Sri Lanka has issued detailed guidance for RISs and RIPs, stressing that strict adherence to deadlines is needed to avoid compliance risks.
+
+...
+
+[Data](articles/309669ae.json)
+
+[Extended Data](ext_articles/309669ae.ext.json)
+
+---
+
+### Is India a ‘tariff king’? Not really
+
+*2025-09-08 01:58:22* · [`dailyftlk`](https://www.ft.lk/columns/Is-India-a-tariff-king-Not-really/4-781320) · `en`
+
+Indian PM Narendra Modi (left) and US President Donald Trump
+
+It goes without saying that the tariff war initiated by the US is in violation of its commitments under the WTO agreements. But then, the WTO itself has been moribund for a while. It is also worth noting that tariffs cannot be the same for all countries. It is a truism that low-income developing countries will have higher tariffs (for reasons mentioned above) compared to G7 countries
+
+There is a widespread but fallacious perception that India’s tariffs are inordinately high. There are subjective factors when it comes to a country like liveability, public courtesy, or even how foreigners are welcomed. But tariffs are quantifiable and there should really be no place for subjectivity. So, let us consider the facts in the case.
+
+...
+
+[Data](articles/a73af8c2.json)
+
+[Extended Data](ext_articles/a73af8c2.ext.json)
+
+---
+
+### Cases on modern marketing: Exploring the essentials
+
+*2025-09-08 01:50:36* · [`dailyftlk`](https://www.ft.lk/columns/Cases-on-modern-marketing-Exploring-the-essentials/4-781318) · `en`
+
+I was delighted to be there when the book titled “Essentials of Modern Marketing” was launched recently. The key role played by Denzil Indrajith Perera, one of my MBA “learning partners”, in this regard, was indeed commendable. As a “non-marketer”, I enjoyed reading it and as a case-writer I saw the richness in it. Today’s column is an exploration of such essentials.
+
+The “‘Essentials of Modern Marketing (EOMM)” is a flagship marketing series by the “Knight of Marketing”, Prof. Philip Kotler. The Sri Lankan edition of it was officially launched in cooperation with Kotler Impact Inc. and Deyo Consultancy and Advisory, recently. As one solid step in Kotler’s series of country specific editions, 22 Sri Lankan cases have been included in this valued volume. According to Denzil who represents Kotler Impact in Sri Lanka and Maldives, this is a sure showcasing of 22 local brands in the global arena with needed recognition.
+
+...
+
+[Data](articles/3bd461ed.json)
+
+[Extended Data](ext_articles/3bd461ed.ext.json)
+
+---
+
+### Taxes for life: Shaping our collective future through education
+
+*2025-09-08 01:41:55* · [`dailyftlk`](https://www.ft.lk/columns/Taxes-for-life-Shaping-our-collective-future-through-education/4-781317) · `en`
+
+The solution is clear, simple, and revolutionary: integrate age-appropriate tax education into our school curricula
+
+magine they would still ring so true centuries later. At first glance, the line may seem like a clever remark. But it holds a deeper truth: taxes much like death are a universal part of life. Inevitable, often misunderstood, and sometimes dreaded, taxes quietly power the engines of society. They fund the roads we drive on, the hospitals we depend on, the schools that shape our future, and the safety nets that protect the most vulnerable.
+
+...
+
+[Data](articles/945e2511.json)
+
+[Extended Data](ext_articles/945e2511.ext.json)
+
+---
+
+### Digital influencers and new age of marketing  in Sri Lanka: Paradigm shift in brand engagement
+
+*2025-09-08 01:35:56* · [`dailyftlk`](https://www.ft.lk/columns/Digital-influencers-and-new-age-of-marketing-in-Sri-Lanka-Paradigm-shift-in-brand-engagement/4-781316) · `en`
+
+What makes digital influencers particularly effective is their ability to forge genuine connections with their followers
+
+In the dynamic world of marketing, a quiet revolution has been reshaping the way brands communicate with their audiences. Traditional advertising strategies, once dominated by celebrity endorsements and glossy print campaigns, are now being challenged by a new and highly influential force: digital influencers. These individuals, often ordinary people with an extraordinary online presence, have become the new voices of brands. They shape consumer perceptions and drive purchasing decisions in subtle yet powerful ways.
+
+...
+
+[Data](articles/8e06dbce.json)
+
+[Extended Data](ext_articles/8e06dbce.ext.json)
+
+---
 
 ### Spare a thought for the coloniser
 
@@ -45,6 +311,28 @@ I wonder: what inhuman power compels one to walk, or crawl, or locomote in any w
 ...
 
 [Data](articles/ea9d55a1.json)
+
+[Extended Data](ext_articles/ea9d55a1.ext.json)
+
+---
+
+### Dayan Jayatilleka: The strategist Sri Lanka discarded
+
+*2025-09-08 01:27:12* · [`dailyftlk`](https://www.ft.lk/columns/Dayan-Jayatilleka-The-strategist-Sri-Lanka-discarded/4-781314) · `en`
+
+Dayan Jayatilleka today remains one of Sri Lanka’s sharpest political minds
+
+Sri Lanka’s only victory at Geneva was delivered by Dayan Jayatilleka. Six weeks later, he was removed under foreign pressure. Since then, Sri Lanka has never won again. The West tried to choke Sri Lanka with false accusations of war crimes. Dayan stopped them. He showed that sovereignty could be defended with clarity, courage, and coalition. And then he was betrayed
+
+He gave Sri Lanka its only victory at Geneva. Six weeks later he was thrown aside. A nation that trashes its finest minds does not deserve victory — and that is why we keep losing.
+
+For decades, Sri Lanka has stumbled through Geneva, battered by hostile resolutions and accusations of war crimes. The UN Human Rights Council became a courtroom, and Sri Lanka its permanent defendant.
+
+...
+
+[Data](articles/c5f3c563.json)
+
+[Extended Data](ext_articles/c5f3c563.ext.json)
 
 ---
 
@@ -383,6 +671,26 @@ Meanwhile, investigations were found in a drawgam and ammunition, which was hidd
 [Data](articles/65422890.json)
 
 [Extended Data](ext_articles/65422890.ext.json)
+
+---
+
+### Sri Lanka to install barrier nets in 250 reservoirs to boost fish stocks
+
+*2025-09-07 19:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-barrier-nets-in-250-reservoirs-to-boost-fish-stocks-239647/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to install barrier nets in 250 reservoirs to protect fish stocks and boost harvests, Cabinet spokesman Nalinda Jayatissa said.
+
+An estimated 20,000 to 40,000 kilograms are washed way annually from each reservoir when water is released for agriculture, reducing fish harvest for human consumption.
+
+The loss of mature fish in of reproductive age also leads to depletion of fish stocks.
+
+The cabinet of ministers had approved a plan by the National Aquaculture Development Authority of Sri Lanka to install barrier nets in 250 freshwater tanks, which will lead to better harvest and protein availability in rural areas.
+
+Sri Lanka has high taxes on imported foods, especially in dairy and maize to promote ‘self-sufficiency’ leading to extraordinarily high dairy goods prices and also meat. (Colombo/Aug07/2025)
+
+◼️
+
+[Data](articles/22177a8c.json)
 
 ---
 
@@ -1779,351 +2087,5 @@ The Central Bank report also states that the rupee has caused 3.1 percent to the
 [Data](articles/ea92a3c0.json)
 
 [Extended Data](ext_articles/ea92a3c0.ext.json)
-
----
-
-### Another stock of chemicals suspected to be used for ‘Ice’ drug production found in Tangalle
-
-*2025-09-07 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112247/another-stock-of-chemicals-suspected-to-be-used-for-ice-drug-production-found-in-tangalle) · `en`
-
-Another stock of chemicals suspected to be used in the production of crystal methamphetamine (ICE) has been discovered this morning (07) on a property in Netolpitiya, Tangalle.
-
-Based on information received from area residents, officers from the Tangalle Police conducted a special raid this morning on a property located adjacent to the Welivenna cross road in Netolpitiya.
-
-During the raid, a quantity of white chemical substances was found on the property.
-
-Police officers stated that these substances are suspected to be chemicals used in the production of the drug known as ‘ICE’.
-
-It has been reported that these chemicals are very similar to those found yesterday during a raid on a property in Thalawa, Middeniya, which were also believed to be used for ‘ICE’ production.
-
-Police stated that the chemicals may have been brought and left at the location approximately four months ago.
-
-The seized stock of chemicals is scheduled to be taken to the Tangalle Police for further investigation.
-
-◼️
-
-[Data](articles/4f517f24.json)
-
-[Extended Data](ext_articles/4f517f24.ext.json)
-
----
-
-### Drivers arrested for operating dangerous buses
-
-*2025-09-07 10:11:58* · [`adalk`](https://www.ada.lk/breaking_news/තරගයට-අනතුරුදායක-ලෙස-බස්-රථ-දෙකක්-ධාවනය-කල-රියදුරන්-අත්අඩංගුවට/11-418323) · `si`
-
-Two bus drivers who operated two private buses to Hatton yesterday (06) have been arrested by the Hatton Police Officers' Traffic Officers.
-
-The buses have commenced on two occasions on two occasions when the bus drivers were traveling in the Kandy-Police bus station.
-
-The two drivers have been arrested on suspicion to arrest the two drivers who were immediately implemented by the Superintendents of the two buses.
-
-The Hatton Police (Colombo-Lankapuvath) stated that legal action will be taken by the Hatton Magistrate Court under the allegation of the arrested suspects.
-
-◼️
-
-[Data](articles/e01b3370.json)
-
-[Extended Data](ext_articles/e01b3370.ext.json)
-
----
-
-### சிக்குமா?
-
-*2025-09-07 10:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சிக்குமா/62-364124) · `ta`
-
-◼️
-
-[Data](articles/e1d32d3e.json)
-
-[Extended Data](ext_articles/e1d32d3e.ext.json)
-
----
-
-### Sri Lanka's largest renewable energy project launches construction
-
-*2025-09-07 10:03:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුනර්ජනනීය-බලශක්ති-ව්‍යාපෘතියේ-ඉදි-කිරීම්-අරඹයි/11-418322) · `si`
-
-By 2030, 70% of the National Electricity Renewable Power Project in Sri Lanka, the Siyambalanduwa, the Sri Lanka's Solar Power Park, was launched by President Anura Kumara Dissanayake yesterday (06).
-
-The cost incurred on this massive project, which is added to the national power system in the country, is US $ 140 million.
-
-The project will be constructed in a 500 acres of land in the Kotiyagala Grama Niladhari Division of the Kotiyagala Grama Niladhari, the Siyambalanduwa Divisional Secretariat area in the Moneragala District.
-
-The annual value of the country is 15,000 and 16,000 Glass, which is 15,000 and 16,000 gigavowatte 219 gain annually. As a result, the annual exchange of diesel will be able to save 21 billion rupees annually to the country. Accordingly, 41 million rupees will be left to the country approximately Rs. 41 million.
-
-...
-
-[Data](articles/08bf3bb3.json)
-
-[Extended Data](ext_articles/08bf3bb3.ext.json)
-
----
-
-### வீதி விபத்துகளில் ஒரு இளைஞன் உட்பட நான்கு பேர் பலி!
-
-*2025-09-07 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224411) · `ta`
-
-நாட்டின் பல பகுதிகளில் இடம்பெற்ற வீதி விபத்துகளில் ஒரு இளைஞன் உட்பட நான்கு பேர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-நேற்று சனிக்கிழமை (06) மரதன்கடவல, வெல்லாவெளி, கடவத்தை மற்றும் புதுக்குடியிருப்பு ஆகிய பொலிஸ் பிரிவுகளில்  இந்த விபத்துகள் இடம்பெற்றுள்ளன.
-
-மரதன்கடவல பொலிஸ் பிரிவின் A11 வீதியில் உள்ள தவலன்ஹல்மில்லாவ சந்தியில் ஒரே திசையில் பயணித்த பாதசாரி மீது மோட்டார் வாகனம் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
-
-சைக்கிள் செலுத்துனர் மற்றும் சைக்கிளில் சென்ற மற்றொரு நபரும் காயமடைந்த நிலையில் சைக்கிள் செலுத்துனர் மரதன்கடவல  வைத்தியசாலையில்  அனுமதிக்கப்பட்டபோது சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-இந்நிலையில், வெல்லாவெளி - சிவலகட வீதியில் சிவலகட நோக்கிச் சென்ற மோட்டார் சைக்கிள், ஓட்டுநர் கட்டுப்பாட்டை இழந்ததால் வீதியோரத்தில் நடந்து சென்ற இரண்டு பாதசாரிகள் மீது மோதியதில் விபத்து ஏற்பட்டுள்ளது.
-
-விபத்தில் இரண்டு பாதசாரிகளும் மோட்டார் சைக்கிள் ஓட்டுநரும் காயமடைந்து கல்முனை வைத்தியசாலையில் அனுமதிக்கப்பட்டபோது, பாதசாரியொருவர்  சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-...
-
-[Data](articles/226629f9.json)
-
-[Extended Data](ext_articles/226629f9.ext.json)
-
----
-
-### වසරේ මුල් මාස අට තුළ විදේශ ප්‍රේෂණ ඩොලර් බිලියන 5 ඉක්මවයි
-
-*2025-09-07 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214266) · `si`
-
-ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කරන ලද නවතම සංඛ්‍යාලේඛනවලට අනුව, 2025 අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට අමෙරිකානු ඩොලර් මිලියන 680.8ක විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ ලැබී ඇත.
-
-2025 ජනවාරි සිට අගෝස්තු දක්වා මුළු විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ අමෙරිකානු ඩොලර් බිලියන 5.116ක් වූ අතර එය පසුගිය වසරේ එම කාලයට වඩා 19.3%ක වැඩි වීමක් බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
-
-මේ අතර, ශ්‍රී ලංකා මහ බැංකුවේ නිල සංඛ්‍යා ලේඛනවලින් පෙනී යන්නේ මෙම වසරේ මුල් මාස අට තුළ සංචාරක ඉපැයීම් ඇමරිකානු ඩොලර් බිලියන 2 ඉක්මවා ඇති බවය.
-
-ඒ අනුව, 2025 මුල් මාස අට තුළ මුළු සංචාරක ඉපැයීම් අමෙරිකානු ඩොලර් බිලියන 2.03ක් ලෙස වාර්තා වන අතර එය 2024 මුල් මාස අට තුළ වාර්තා වූ ඇමරිකානු ඩොලර් බිලියන 1.88ක සංචාරක ඉපැයීම් හා සසඳන විට 7.8%ක වැඩිවීමකි.
-
-◼️
-
-[Data](articles/1d970d50.json)
-
-[Extended Data](ext_articles/1d970d50.ext.json)
-
----
-
-### Man hacked to death in Horana
-
-*2025-09-07 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112245/man-hacked-to-death-in-horana) · `en`
-
-A man has been assaulted and murdered in Kebellegoda, Horana, police stated.
-
-According to preliminary investigations, the incident occurred following an argument that escalated while the victim was consuming alcohol at a neighboring house.
-
-It is reported that the resident of that house assaulted the victim with a weapon, resulting in his death.
-
-The deceased has been identified as a 66-year-old resident of Horana.
-
-Horana Police are conducting further investigations in order to apprehend the suspect.
-
-◼️
-
-[Data](articles/6eb53f3b.json)
-
-[Extended Data](ext_articles/6eb53f3b.ext.json)
-
----
-
-### Sri Lanka loses regional deconsolidation hub status for online platforms?
-
-*2025-09-07 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-loses-regional-deconsolidation-hub-status-for-online-platforms-239632/) · `en`
-
-ECONOMYNEXT – Sri Lanka is no longer the de-consolidation hub for online platforms in South Asia after clamping down on the trade by Customs authorities, an opposition legislator with knowledge on logistics has revealed.
-
-Sri Lanka Customs has recently started duty on individual items imported through online platforms ending a bulk clearing system by weight practiced earlier.
-
-A customs officials told a hearing of the Committee on Public Finance that online retailers had now adapted to the system, and they were no longer sending shipments daily to reduce shipping costs.
-
-“Even though you say that, Sri Lanka is a good consolidation centre,” Opposition legislator Ravi Karunayake, who has knowledge of logistics told the committee.
-
-“There was a system where the consol came to Sri Lanka and it was de-consolidated and sent to India. Even though it is said that there is no longer problem in clearing the shipment.
-
-“But if there is vision for a logistics operation, it has completely stopped.”
-
-...
-
-[Data](articles/8913c2c1.json)
-
-[Extended Data](ext_articles/8913c2c1.ext.json)
-
----
-
-### AI யால் அடுத்த 5 வருடத்தில் 99 சதவீதம் பேர் வேலையை இழப்பர்: எச்சரிக்கும் நிபுணர்
-
-*2025-09-07 09:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/AI-யால்-அடுத்த-5-வருடத்தில்-99-சதவீதம்-பேர்-வேலையை-இழப்பர்-எச்சரிக்கும்-நிபுணர்/57-364123) · `ta`
-
-செயற்கை நுண்ணறிவு (AI) வந்தது முதல் உலகளாவிய தகவல் தொழில்நுட்ப துறையில் பெரும் மாற்றங்கள் நடக்கத் தொடங்கியுள்ளன. தொழில்களை தானியங்கியாக்கும் இந்த தொழில்நுட்பம், பல முன்னணி நிறுவனங்களில் வேலை இடங்களைக் குறைக்கும் நிலைக்கு வந்திருக்கிறது. இதன் தீவிர விளைவுகள் குறித்து தற்போது அமெரிக்காவின் லூயிஸ்வில் பல்கலைக்கழக கணினி அறிவியல் பேராசிரியர் ரோமன் யம்போல்ஸ்கி முக்கிய எச்சரிக்கையை வெளியிட்டுள்ளார்.
-
-“2030 ஆம் ஆண்டுக்குள் உலகளவில் 90% தொழிலாளர்கள் வேலை இழக்கும் நிலை உருவாகும்” என்று அவர் சுட்டிக்காட்டியுள்ளார். அதுமட்டுமல்லாது, அந்த வேலை இழப்புக்கு மாற்றாக “ஆப்ஷன் பி” எதுவும் இல்லையென்று தன்னம்பிக்கையுடன் கூறியிருக்கிறார். “ஏஐ, மென்பொருள் டெவலப்பர்கள் மற்றும் ப்ராம்ப்ட் இன்ஜினியர்களையும் வேலை இழக்கும் நிலைக்குத் தள்ளும்” என்றும் அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/6df8f3ad.json)
-
-[Extended Data](ext_articles/6df8f3ad.ext.json)
-
----
-
-### ගාසා යුද්ධය අවසන් කරන ලෙසට ට්‍රම්ප්ගෙන් ඉල්ලා ඊශ්‍රායල ජාතිකයින්ගෙන් විරෝධතාවක්
-
-*2025-09-07 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214265) · `si`
-
-ගාසා තීරයේ යුද්ධය අවසන් කිරීම සඳහා මැදිහත් වන ලෙසත් ඒ සඳහා බල කරන ලෙසත් මෙන්ම ප්‍රාණ ඇපකරුවන් නිදහස් කර ගැනීම සඳහා කටයුතු කිරීමට මැදිහත් වන ලෙස අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගෙන් ඉල්ලමින් ඊශ්‍රායලයේ ටෙල් අවිව්හී දැවැන්ත විරෝධතාවක් පැවැති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-එරට හමුදා මූලස්ථානයෙන් පිටත පොදු චතුරශ්‍රයක විරෝධතාකරුවන් රැස්ව සිටිමින් ඊශ්‍රායල ධජ ඔසවමින් මෙන්ම ප්‍රාණ ඇපකරුවන්ගේ ඡායාරූප සහති පුවරු අතතිව ඔවුන් මෙම විරෝධතාවට එක්ව තිබුණි.
-
-ගාසා නගරයට එල්ල කරන ලද ප්‍රහාරයෙන් තම ආදරණීයන්ට අනතුරක් සිදුවිය හැකි බවට ප්‍රාණ ඇපකරුවන්ගේ පවුල් සහ ඔවුන්ගේ ආධාරකරුවන් බියට පත්වී තිබේ.
-
-ඒ අනුව දෙපාර්ශ්වයම නැවත සිය රටට ගෙන ඒමට හැකි පුළුල් ගිවිසුමකට එළැඹීමට එක්සත් ජනපදයට ජනාධිපතිවරයාට බලපෑම් කිරීම සඳහා ඔවුන් මෙම විරෝධතාව සංවිධානය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-විදෙස් මාධ්‍ය වාර්තා හී සඳහන්ව ඇත්තේ ගාසා තීරයේ ප්‍රාණ ඇපකරුවන් 48 දෙනෙකු රඳවා සිටින බවය.
-
-කෙසේ නමුත් ඊශ්‍රායල බලධාරීන් විශ්වාස කර ඇත්තේ ප්‍රාණ ඇපකරුවන් 20 දෙනෙකු පමණක් තවමත් ජීවතුන් අතර සිටින බවත්ය.
-
-...
-
-[Data](articles/2835739a.json)
-
-[Extended Data](ext_articles/2835739a.ext.json)
-
----
-
-### டிரம்ப் பேச்சில் திடீர் மாற்றம்: ஒரே வார்த்தையில் மோடி பதில்
-
-*2025-09-07 09:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்-பேச்சில்-திடீர்-மாற்றம்-ஒரே-வார்த்தையில்-மோடி-பதில்/50-364122) · `ta`
-
-இந்தியா - அமெரிக்கா இடையே வர்த்தகரீதியாக மோதல் போக்கு நிலவி வரும் நிலையில், பிரதமர் நரேந்திர மோடியை டொனால்டு டிரம்ப் திடீரென 'நண்பன்' என அழைத்து அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளார்.
-
-உலக அளவில் நெருங்கிய கூட்டாளிகளாக இருந்து வந்த அமெரிக்காவும், இந்தியாவும் கடந்த சில மாதங்களாக எதிரெதிர் துருவங்களாக மாறின. தனது எச்சரிக்கையையும் மீறி, ரஷ்யாவிடம் இருந்து கச்சா எண்ணெய்யை இந்தியா வாங்குவதை அமெரிக்காவால் ஏற்றுக் கொள்ள முடியவில்லை. மேலும், ரஷ்யாவுடன் இந்தியா நெருங்கி செல்வதையும் அந்நாடு விரும்பவில்லை.
-
-இதனால் இந்தியா மீது தொடர்ந்து அதிருப்தியில் இருந்து வந்த அமெரிக்க ஜனாதிபதி டொனால்டு டிரம்ப், அண்மையில் இந்தியாவின் ஏற்றுமதி பொருட்கள் மீது 50 சதவீத வரியை விதித்து மிகப் பெரிய அதிர்ச்சியை கொடுத்தார். இந்த அதிகபட்ச வரி விதிப்பால் இந்தியாவின் தொழில்துறை ஆட்டம் காண தொடங்கியது.
-
-...
-
-[Data](articles/2b8a5f83.json)
-
-[Extended Data](ext_articles/2b8a5f83.ext.json)
-
----
-
-### Popular Sydney beach deploys drones, helicopter after fatal shark attack
-
-*2025-09-07 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112244/popular-sydney-beach-deploys-drones-helicopter-after-fatal-shark-attack) · `en`
-
-Australian authorities on Sunday (Sep 7) deployed drones and a helicopter to monitor the waters around a popular Sydney beach after a surfer was killed by a great white shark on Saturday, officials said.
-
-Two beaches in Australia’s most populous city remained closed on Sunday after the attack on Saturday morning that took place about 100m from shore while the man was surfing with friends at Long Reef Beach, in the north of the New South Wales state capital.
-
-The experienced surfer was pulled from the water by other surfers, but had lost too much blood and died at the scene, police said. It was the first shark-attack death in Sydney since a swimmer was killed off a beach in February 2022, which was the city’s first since 1963.
-
-On Sunday, the state’s main water rescue organisation, Surf Life Saving NSW, deployed drones and a helicopter to surveil the area for the shark, New South Wales Department of Primary Industries and Regional Development (DPIRD) said.
-
-...
-
-[Data](articles/a49cf5f4.json)
-
-[Extended Data](ext_articles/a49cf5f4.ext.json)
-
----
-
-### “அது இல்லாமல் உடலுறவு”
-
-*2025-09-07 08:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அது-இல்லாமல்-உடலுறவு/54-364120) · `ta`
-
-தமிழ் திரையுலகில் 1980-களில் முன்னணி கதாநாயகியாக வலம் வந்த நடிகை அம்பிகா, சமூக வலைத்தளத்தில் பாலியல் குற்றங்கள் குறித்து வெளியிட்ட கருத்துக்கு சென்னை காவல் துறை நன்றி தெரிவித்துள்ளது.
-
-புனித தோமையார் காவல் நிலையத்தில் 17 வயது சிறுமிக்கு பாலியல் தொல்லை கொடுத்தவர் போக்சோ சட்டத்தின் கீழ் கைது செய்யப்பட்டதாக சென்னை காவல் துறை தனது சமூக வலைத்தளப் பக்கத்தில் பதிவிட்டிருந்தது.
-
-இதற்கு பதிலளிக்கும் விதமாக நடிகை அம்பிகா தனது சமூக வலைத்தளப் பக்கத்தில், "அனுமதியின்றி உடலுறவு கொள்ள முயலும் பாலியல் குற்றங்கள், அது உடல் ரீதியாக இருந்தாலும் சரி, மன ரீதியாக இருந்தாலும் சரி, குற்றவாளிகள் எந்த வயசாக இருந்தாலும் உடனடியாக தண்டிக்கப்பட வேண்டும்.
-
-சிறாராக இருந்தாலும் சரி, 100 வயது உடையவராக இருந்தாலும் சரி, குற்றம் குற்றமே," என்று கருத்து தெரிவித்திருந்தார்.
-
-தமிழ், தெலுங்கு, கன்னடம், மலையாளம் உள்ளிட்ட தென்னிந்திய மொழிகளில் 200-க்கும் மேற்பட்ட படங்களில் நடித்து, தற்போது குணசித்திர வேடங்களில் கவனம் செலுத்தி வரும் அம்பிகாவின் இந்தக் கருத்து, பாலியல் குற்றங்களுக்கு எதிரான கடுமையான நிலைப்பாட்டை வெளிப்படுத்தியுள்ளது.
-
-...
-
-[Data](articles/6e71de30.json)
-
-[Extended Data](ext_articles/6e71de30.ext.json)
-
----
-
-### பச்சிளம் குழந்தையை தூக்கிச் சென்ற குரங்குகள்
-
-*2025-09-07 08:48:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சிளம்-குழந்தையை-தூக்கிச்-சென்ற-குரங்குகள்/175-364119) · `ta`
-
-ஒரு குடிசைவீட்டில் குரங்குகள் புகுந்து இரண்டு மாத ஆண் குழந்தையை தூக்கிச் சென்று, நீர் நிரம்பியப் பீப்பாயில் போட்டுள்ளன. இந்த சம்பவம், உத்தர பிரதேச மாநிலம் சீதாபூரை அடுத்த சூரஜ்பூர் கிராமத்தில் இடம்பெற்றுள்ளது.
-
-குரங்குகளின் சத்தம் கேட்டு குடிசைக்கு ஓடிச்சென்ற பெற் றோர் அங்கு குழந்தையைக் காணாததால் சுற்றியுள்ள பகுதி முழுவதும் தேடி உள்ளனர். இறுதியில் அக்குழந்தை தண்ணீர் நிரப்பப்பட்ட பீப்பாயில் மூழ்கிய நிலையில் இருப்பது தெரியவந்தது.
-
-உடனடியாக குழந்தையை அரு கிலுள்ள சீதாபூர் அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். பரிசோதித்த மருத்துவர்கள், குழந்தை மூச்சுத் திணறி இறந்து விட்டதாக கூறியுள்ளனர். இதைக் கேட்ட பெற்றோர் அதிர்ச்சி அடைந்தனர். இது அக்குடும்பத்தினரை மிகவும் சோகத்தில் ஆழ்த்தியுள் ளது. குறிப்பாக ஒரு வருடத்துக்கு முன்பு மணமான தம்பதியருக்கு பிறந்த முதல் குழந்தை இது.
-
-...
-
-[Data](articles/6f842db8.json)
-
-[Extended Data](ext_articles/6f842db8.ext.json)
-
----
-
-### ஆட்டோவை விட்டு விட்டு ஆட்டுடன் தப்பி ஓட்டம்
-
-*2025-09-07 08:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டோவை-விட்டு-விட்டு-ஆட்டுடன்-தப்பி-ஓட்டம்/175-364118) · `ta`
-
-வீதியோரத்தில் மேய்ந்து கொண்டிருந்த ஆட்டை திருடி, வாடகைக்கு வாங்கியிருந்த ஆட்டோவில் ஏற்றிக்கொண்டு சென்ற திருடன், ஆட்டோவை நடுவீதியில் விட்டுவிட்டு, ஆட்டுடன் தப்பி ஓடிய சம்பவம் மட்டக்களப்பில் இடம்பெற்றுள்ளது. ஆட்டோ உரிமையாளர் கைது செய்யப்பட்டுள்ளார்.
-
-மட்டக்களப்பு நகர் பகுதியில் கண்ணகை அம்மன் ஆலய வீதியோரத்தில் நின்றிருந்த ஆடு ஒன்றை லாவகமாக பிடித்து, ஆட்டோவில்  கொண்டு சென்று திருடன், காத்தான்குடி பள்ளிவாசலுக்கு அருகில் வீதியில் ஆட்டோவை விட்டு விட்டு ஆட்டுடன் தப்பியோடிவிட்டார்.
-
-காத்தான்குடியை சேர்ந்த ஆட்டோ உரிமையாளர் ஒருவர் தனது ஆட்டோவை நாள் வாடகையாக ஆயிரம் ரூபாவுக்கு அந்த பகுதியைச் சேர்ந்த ஒருவருக்கு   வழங்கியுள்ளார்.
-
-இந்த நிலையில் ஆட்டோவை வாடகைக்கு எடுத்துச் சென்ற நபர் சம்பவ தினமான வெள்ளிக்கிழமை   நகரிலுள்ள கண்ணகை அம்மன் ஆலய பகுதியில் ஆட்டோவில் சென்று அங்கு வீதியில் மேய்ந்து கொண்டிருந்த ஆடுகளில் ஒரு ஆட்டை பிடித்து ஆட்டோவில் கொண்டு கடத்தி சென்றுள்ளார்.
-
-...
-
-[Data](articles/b57f16d7.json)
-
-[Extended Data](ext_articles/b57f16d7.ext.json)
-
----
-
-### Sri Lanka’s remittance inflow exceeds US$ 5 billion in 2025
-
-*2025-09-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112243/sri-lankas-remittance-inflow-exceeds-us-5-billion-in-2025) · `en`
-
-Sri Lanka has received USD 680.8 million in workers’ remittances in August 2025, according to the latest figures released by the Central Bank of Sri Lanka (CBSL).
-
-Accordingly, the total remittances from January to August 2025 reached USD 5.116 billion, up 19.3% from the same period last year (US$ 4.28 billion).
-
-Meanwhile, official figures show that earnings from tourism surpassed USD 2 billion during the first eight months of this year.
-
-Accordingly, the total tourism earnings in the first eight months of 2025 is recorded as USD 2.03 billion, which is an increase of 7.8% compared to the tourism earnings of USD 1.88 billion recorded in the first eight months of 2024.
-
-◼️
-
-[Data](articles/df74c7b4.json)
-
-[Extended Data](ext_articles/df74c7b4.ext.json)
-
----
-
-### ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ වාර්ෂික ඇසළ මහා පෙරහැර මංගල්‍යයට ජනපති එක් වෙයි
-
-*2025-09-07 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214264) · `si`
-
-ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ සහ ශ්‍රී සුමන සමන් මහා දේවාලයේ 2025 ඇසළ මහා පෙරහර මංගල්‍යයේ සිව්වන රන්දෝලි පෙරහර ඊයේ රාත්‍රී විථී සංචාරය කළේය.
-
-මහියංගන පුද බිම වෙත ගිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ආගමික වතාවත්වල නිරත විය.
-
-අනතුරුව ජනාධිපතිවරයා අස්ගිරි විහාර පාර්ශ්වයේ ජ්‍යෙෂ්ඨ කාරක සංඝ සභික, මහියංගනය රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ශ්‍රී ධම්මරක්ඛිත නායක හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබාගත් අතර උන්වහන්සේගේ  සුවදුක් විමසමින් කෙටි පිළිසඳරකද නිරත විය.
-
-අනතුරුව ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ සහ ශ්‍රී සුමන සමන් මහා දේවාලයේ 2025 ඇසළ මහා පෙරහැර මංගල්‍යයේ සිව්වන  රන්දෝලි පෙරහැරේ සමාරම්භය සනිටුහන් කරමින් මංගල හස්ති රාජයා මත සධාතුක කරඬුව තැන්පත් කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රදේශවාසී ජනතාව සමඟ පෙරහැර නැරඹීමටද එක් විය.
-
-...
-
-[Data](articles/e3477aca.json)
-
-[Extended Data](ext_articles/e3477aca.ext.json)
 
 ---

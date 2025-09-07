@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 22:08:14**
+As of **2025-09-07 22:36:49**
 
 ## Newspaper Stats
 
-*Scraped **74,611** Articles*
+*Scraped **74,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,136 @@ islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,218
-adaderanalk | 9,545
+adaderanalk | 9,546
 tamilmirrorlk | 11,108
-virakesarilk | 12,199
-adaderanasinhalalk | 12,993
+virakesarilk | 12,201
+adaderanasinhalalk | 12,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,753 (84.1%) of 74,611 articles have been extended.
+62,769 (84.1%) of 74,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### 900 arrested with the protest in London
+
+*2025-09-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214291) · `si`
+
+Nearly 900 people have been arrested in the protest in London, supporting Palestine.
+
+The protest was organized a Palestinian Action Troo.
+
+However, the organization is prohibited by organizing protests, and these arrests have been made.
+
+The organization has been named as a bird organization in the Brindha who had been conducted to the Army.
+
+As a result, the Sri Lankan government has informed the people of the country to participate in protests organized by the organization.
+
+However, in the face of protests, the organization had organized an objection to 500 people.
+
+◼️
+
+[Data](articles/98cbb302.json)
+
+[Extended Data](ext_articles/98cbb302.ext.json)
+
+---
+
+### International Report released in the murder of Mayilvankanam Nimalarajan
+
+*2025-09-07 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224481) · `ta`
+
+A report on the investigation of the murder case of journalist Mayilvankanam Nimalarajan was published by the International Truth and Justice Plan.
+
+The report was released at a function held at the Jaffna Media Center on Sunday (7).
+
+The flame was lit for the image of Nimalarajan and was honored with a flower garland.
+
+The first copy of the report was handed over to the relatives of the Jaffna Media Corporation, Kumaraswamy Selvakumar and the relatives of the report were handed over to others who participated in the report.
+
+The event was attended by journalists, media department and civil society representatives.
+
+◼️
+
+[Data](articles/03a65865.json)
+
+[Extended Data](ext_articles/03a65865.ext.json)
+
+---
+
+### Strong lightning warning to many parts of the country!
+
+*2025-09-07 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224463) · `ta`
+
+Accordingly, the Department of Meteorology has predicted thunderstorms in many parts of the Northern, North Central and Eastern Provinces.
+
+It has also been reported that the thunderstorms may be temporarily blowing.
+
+Therefore, the public has been asked to take adequate precautions to reduce the damage caused by lightning.
+
+The Department of Meteorology has called for the public to avoid walking in open areas such as paddy fields, tea gardens and open water bodies during thunderstorms.
+
+The public is also advised not to use phones and electrical equipment during thunderstorms.
+
+At the same time, the public has been asked to contact the Disaster Management Officers for emergency assistance.
+
+◼️
+
+[Data](articles/861b0490.json)
+
+[Extended Data](ext_articles/861b0490.ext.json)
+
+---
+
+### The third and final twenty -two match Sri Lanka wins
+
+*2025-09-07 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
+
+Sri Lanka won the third and final 20th match between Sri Lanka and Zimbabwe by 8 wickets.
+
+Accordingly, the 3-match series ended 2-1 and won the competition title.
+
+The Sri Lankan team won the tournament in the tournament first and decided to field first.
+
+Zimbabwe, who batted first, scored 191 runs for the loss of 8 wickets in 20 overs.
+
+Sri Lanka won the match by losing 2 wickets in the 17.2nd over by Zimbabwe's 192 -run target in the R20 match.
+
+Kamil Mishara scored 73 runs unbeaten. Kusal Janith scored 46 runs.
+
+Nissanka (33) and Kusal Mendis (30), the opening batting pair, also contributed to Sri Lanka's innings.
+
+◼️
+
+[Data](articles/ef0cf823.json)
+
+[Extended Data](ext_articles/ef0cf823.ext.json)
+
+---
+
+### Sri Lanka thrash Zimbabwe to clinch T20 series 2-1
+
+*2025-09-07 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112259/sri-lanka-thrash-zimbabwe-to-clinch-t20-series-2-1) · `en`
+
+Sri Lanka’s Kamil Mishara hit an unbeaten 73 as the tourists beat Zimbabwe by eight wickets on Sunday to win the third Twenty20 international and take the series 2-1.
+
+An unbeaten 117-run partnership with Kusal Perera saw Sri Lanka win with 14 balls to spare at the Harare Sports Club as they chased down a formidable target. Perera was 46 not out.
+
+Zimbabwe, who beat Sri Lanka by five wickets to level the series on Saturday, were put in to bat and made 191-8 with Tadiwanashe Marumani top-scoring with 51.
+
+Sri Lanka also won two One-Day Internationals against Zimbabwe earlier this year.
+
+◼️
+
+[Data](articles/7c363658.json)
+
+[Extended Data](ext_articles/7c363658.ext.json)
+
+---
 
 ### 'We will give Kala Vewa back to the elephants' plan three days successfully initiated
 
@@ -86,32 +202,6 @@ The ceremony began with the art show, traditional art show and, with special gue
 
 ---
 
-### The third and final twenty -two match Sri Lanka wins
-
-*2025-09-07 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
-
-Sri Lanka won the third and final 20th match between Sri Lanka and Zimbabwe by 8 wickets.
-
-Accordingly, the 3-match series ended 2-1 and won the competition title.
-
-The Sri Lankan team won the tournament in the tournament first and decided to field first.
-
-Zimbabwe, who batted first, scored 191 runs for the loss of 8 wickets in 20 overs.
-
-Sri Lanka won the match by losing 2 wickets in the 17.2nd over by Zimbabwe's 192 -run target in the R20 match.
-
-Kamil Mishara scored 73 runs unbeaten. Kusal Janith scored 46 runs.
-
-Nissanka (33) and Kusal Mendis (30), the opening batting pair, also contributed to Sri Lanka's innings.
-
-◼️
-
-[Data](articles/ef0cf823.json)
-
-[Extended Data](ext_articles/ef0cf823.ext.json)
-
----
-
 ### Supervision to be corrected
 
 *2025-09-07 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214289) · `si`
@@ -152,21 +242,25 @@ If former President Ranil Wickremesinghe is in Parliament in the current situati
 
 ---
 
-### ඉඩමට රසායනික ද්‍රව්‍ය දැමීමට හේතුව පියල් මනම්පේරි පොලීසියට කියයි
+### Piyal Manampari tells police due to landing chemicals
 
 *2025-09-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214288) · `si`
 
-මිද්දෙනිය, තලාව ප්‍රදේශයේ ඉඩමක තිබූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදාගන්නා රසායනික ද්‍රව්‍ය තොගය සම්බන්ධයෙන් සිදුකරන විමර්ශන අනුව සැකපිට අත්අඩංගුවට ගත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ අඟුණකොළපැලැස්ස හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී පියල් මනම්පේරි නමැත්තා පවසා ඇත්තේ අදාළ ඉඩම ගිලාබහින බවත් එක වළක්වා ගැනීම සඳහා මෙම ද්‍රව්‍ය ගෙනත් දැමූ බවත්ය.
+Former Pradeshiya Sabha member Palhakaraka, Angunakolapelessa, who is conducting the consignment of the ice drug manufacture of the ice drug manufacture in the Talane drug manufacture of the ice drug manufacture, said the land was hit and these substances were taken to prevent the land.
 
-''මගේ සහෝදරයා මෙතැන ගරාජ් එකක් හදන්න හිටියේ. මෙතන ගොඩක් වතුර පිරෙනවා. ඒ හින්දා ගිලාබහින එක වළක්වන්න තමයි අපි මේවා දැම්මේ'' ලෙසය.
+"My brother was building a garage here. There is a lot of water here. So we put these things to prevent the victim. "
 
-සැකකරු වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත අද ඉදිරිපත් කිරීමෙන් අනතුරුව දින 7ක් රඳවාතබාගෙන ප්‍රශ්න කිරීමට අධිකරණය අවසර ලබාදී තිබේ.
+The court has granted permission to hold seven days after the suspect was produced before the Walasmulla Magistrate's Court today.
 
-බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල හා එහි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා ඇතුළු නිලධාරීන් කණ්ඩායමක් මෙහි විමර්ශන කටයුතු සිදුකරන අතර පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන ආ බැකෝ සමන් නමැත්තා ලබාදුන් ප්‍රකාශ මත පදනම්ව මෙම විමර්ශන කටයුතු ආරම්භ කර ඇත.
+Investigations have commenced as a group of other officers including Assistant Superintendent of Police of the Western Criminal Division in the Western Criminal Division.
+
+Meanwhile, investigations were found in a drawgam and ammunition, which was hidden in the drain near the field of a manioc crop at the time of the land yesterday afternoon.
 
 ...
 
 [Data](articles/65422890.json)
+
+[Extended Data](ext_articles/65422890.ext.json)
 
 ---
 
@@ -2027,103 +2121,5 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 [Data](articles/68a9e040.json)
 
 [Extended Data](ext_articles/68a9e040.ext.json)
-
----
-
-### Special attention will be given in Budget to modernise the public service: President
-
-*2025-09-07 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112242/special-attention-will-be-given-in-budget-to-modernise-the-public-service-president) · `en`
-
-President Anura Kumara Dissanayake says special attention will be given in the upcoming Budget to modernising the public service and strengthening local government institutions.
-
-President Dissanayake made this assertion while attending the Monaragala District Special Coordination Committee meeting held at the Monaragala District Secretariat.
-
-During the meeting, the President reviewed the progress of projects being implemented in the district for the year 2025, the President’s Media Division stated.
-
-President Anura Kumara Dissanayake also emphasized that rural development projects must be accelerated to ensure that Treasury funds effectively reach the villages.
-
-The President noted that in order to prevent delays in these projects, officials should have a targeted plan in place up to the completion date.
-
-Special attention was also given to the issues faced by the farming community in the district.
-
-...
-
-[Data](articles/c506b50c.json)
-
-[Extended Data](ext_articles/c506b50c.ext.json)
-
----
-
-### වැලිමඩ බීජ අර්තාපල් නිෂ්පාදන මධ්‍යස්ථානය විවෘත කෙරේ
-
-*2025-09-07 07:50:04* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-බීජ-අර්තාපල්-නිෂ්පාදන-මධ්‍යස්ථානය-විවෘත-කෙරේ/11-418318) · `si`
-
-දකුණු කොරියාවේ සේමාවුල් පදනමේ අනුග්‍රහය ඇතිව ඌව පළාත් කෘෂිකර්ම අමාත්‍යංශය මඟින් වැලිමඩ ප්‍රදේශයේ ඉඳිකරන ලද බීජ අර්තාපල් නිෂ්පාදන මධ්‍යස්ථානය විවෘත කෙරිණි.
-
-මෙමඟින් තත්වයෙන් උසස් බීජ අර්තාපල් අඩු පිරිවැයක් යටතේ නිෂ්පාදනය කර ගොවීන්ට බෙදාදීමට නියමිතය.
-
-මෙම ව්‍යාපෘතියට බොරලන්ද සත්ව ගොවිපොළේ අක්කර පහක පමණ භූමියක් යොදාගෙන ඇති අතර හරිතාගාරයන් තුළ බීජ නිෂ්පාදනය කිරීම සිදුකෙරේ.
-
-වාර්ෂිකව බීජ ටොන් පහක් පමණ නිෂ්පාදනය කිරීම මෙහිදී සිදුකෙරේ.වසර පහක පමණ කාලයකින් පසු දිවයින පුරා සිටින ගොවීන්ට බීජ  අර්තාපල් ලබාදීමට සැලසුම් කර ඇත.
-
-මෙම අවස්ථාවට ඌව පළාත් ආණ්ඩුකාරවර නීතීඥ ජේ.එම් කපිල ජයසේකර,ප්‍රජා යටිතල පහසුකම් ඇමති සමන්ත විද්‍යාරත්න,දකුණු කොරියාවේ සේමාවුල් පදනමේ ශ්‍රී ලංකා අධ්‍යක්ෂක,පළාත් සභාවේ අමාත්‍යාංශ ලේකම්වරුන් වන උපාලි ජයසේකර (ක්‍රීඩා) නිමේෂා ප්‍රියංගි වනසිංහ (කෘෂිකර්ම ) යන මහත්ම මහත්මීහු සහභාගී වූහ.
-
-◼️
-
-[Data](articles/5541359d.json)
-
-[Extended Data](ext_articles/5541359d.ext.json)
-
----
-
-### මාරක අනතුරු කිහිපයක් - සිව්දෙනෙක් මරුට
-
-*2025-09-07 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214263) · `si`
-
-ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු 04කින් තරුණයෙකු ඇතුළු පුද්ගලයින් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඊයේ (06) මෙම අනතුරු සිදුව තිබුණේ මරදන්කඩවල, වෙල්ලාවලි, කඩවත සහ පුදුකුඩිඉරිප්පු පොලිස් වසම්වලදීය.
-
-මරදන්කඩවල පොලිස් වසමේ ඒ 11 මාර්ගයේ තවලන්හල්මිල්ලෑව හන්දියේදී මෝටර් රථයක් එම දිශාවටම පා පැදියක පසුපස ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් පාපැදිකරු හා එහි ගමන් ගත් තවත් පුද්ගලයෙකු තුවාල ලබා මරදන්කඩවල රෝහලට ඇතුළත් කිරීමේදී පාපැදිකරු මියගොස් තිබේ.3
-
-එලෙස මියගොස් ඇත්තේ, මරදන්කඩවල ප්‍රදේශයේ පදිංචිව සිටි 37 හැවිරිදි පුද්ගලයෙකි.
-
-මේ අතර වෙල්ලාවලි - චවලකඩේ මාර්ගයේ චවලකඩේ දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ අයිනේ ගමන්කල පදිකයන් දෙදෙනෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් පදිකයින් දෙදෙනා සහ යතුරුපැදිකරු තුවාල ලබා කල්මුණ රෝහලට ඇතුළත් කිරීමෙන් පසු එක් පදිකයකු මියගොස් තිබේ.
-
-එලෙස මියගොස් ඇත්තේ, පාන්ඩිරුප්පු  ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
-
-මේ අතර දළුපිටිය - රාගම මාර්ගයේ රාගම දෙසට ධාවනය වූ මෝටර් රථයක රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ අයිනේ ගමන්කළ පදිකයකුගේ ගැටී අනතුරක් සිදුව ඇත.
-
-...
-
-[Data](articles/b46c9f32.json)
-
-[Extended Data](ext_articles/b46c9f32.ext.json)
-
----
-
-### 88 postal operators suspend services to US over tariffs: UN
-
-*2025-09-07 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112241/88-postal-operators-suspend-services-to-us-over-tariffs-un) · `en`
-
-Postal traffic to the United States plunged more than 80 per cent following Washington’s imposition of new tariffs, with 88 operators worldwide fully or partially suspending services, the Universal Postal Union said on Saturday (Sep 6).
-
-The UPU, the United Nations’ postal cooperation agency, is working on “the rapid development of a new technical solution that will help get mail moving to the United States again”, its director general Masahiko Metoki said in a statement.
-
-US President Donald Trump’s administration announced in late July that it was abolishing a tax exemption on small packages entering the United States from Aug 29.
-
-The move sparked a flurry of announcements from postal services, including in Australia, Britain, France, Germany, India, Italy and Japan, that most US-bound packages would no longer be accepted.
-
-The UPU said data exchanged between postal operators via its systems showed that traffic to the United States was down 81 per cent on Aug 29, compared to a week earlier.
-
-...
-
-[Data](articles/69509888.json)
-
-[Extended Data](ext_articles/69509888.ext.json)
 
 ---

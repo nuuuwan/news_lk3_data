@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 03:54:29**
+As of **2025-09-08 04:20:13**
 
 ## Newspaper Stats
 
-*Scraped **74,638** Articles*
+*Scraped **74,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ dailyftlk | 5,294
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
-virakesarilk | 12,203
+virakesarilk | 12,208
 adaderanasinhalalk | 12,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,026 (84.4%) of 74,638 articles have been extended.
+63,049 (84.5%) of 74,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### எழுத்தறிவு – மன ஒளியின் விதை
+
+*2025-09-08 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
+
+◼️
+
+[Data](articles/c8ecc66e.json)
+
+---
+
+### சிறையில் இருந்து வெளியே வந்தவர் சகோதரனுடன் இணைந்து தாக்குதல் - இருவரும் பொலிசாரால் கைது!
+
+*2025-09-08 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224487) · `ta`
+
+வாளுடன் கைது செய்யப்பட்டு சிறை வைக்கப்பட்டிருந்த நபர் ஒருவர் நேற்று முன்தினம் பிணையில் விடுவிக்கப்பட்டிருந்த நிலையில் சகோதரனுடன் இணைந்து மீண்டும் ஒரு வன்முறை சம்பவத்தில் ஈடுபட்ட நிலையில் இருவரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+வட்டுக்கோட்டை பொலிஸ் பிரிவிற்குட்பட்ட முதலிகோவில் பகுதியில் இந்த சம்பவம் இன்றையதினம் இடம்பெற்றுள்ளது. நீண்ட காலமாக இருந்துவந்த காணி தகராறு காரணமாகவே இந்த தாக்குதல் சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கூரிய ஆயுதத்தால் தாக்குதலுக்கு உள்ளாகி படுகாயமடைந்த நபர் வட்டுக்கோட்டை பிரதேச வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+தாக்குதல் நடத்திய இருவரையும் வட்டுக்கோட்டை பொலிசார் கைது செய்து விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/218ad0ec.json)
+
+---
+
+### செம்மணி மனிதப்படுகொலை : புதிய தகவல்கள் வெளிப்படுத்துவேன் - சோமரத்ன ராஜபக்ஷவின் மனைவி
+
+*2025-09-08 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224486) · `ta`
+
+செம்மணி மனிதப்படுகொலை தொடர்பில் இதுவரையில் வெளிப்படுத்தாத விடயங்களை சகல ஊடகங்களுக்கும், சர்வதேச சமூகத்துக்கும், நீதித்துறைக்கும் வெளிப்படுத்துமாறு தனது கணவரான சோமரத்ன ராஜபக்ஷ வழங்கிய ஆலோசனைக்கு அமைவாக அவ்வெளிப்படுத்தல்களைச் செய்வதற்கு நடவடிக்கை எடுக்கவிருப்பதாகக் குறிப்பிட்டு கிருஷாந்தி குமாரசுவாமி படுகொலை வழக்கில் பிரதான குற்றவாளியாக நீதிமன்றத்தினால் தீர்ப்பளிக்கப்பட்ட லான்ஸ் கோப்ரல் சோமரத்ன ராஜபக்ஷவின் மனைவி எஸ்.சி.விஜேவிக்ரம ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு மீண்டும் ஒரு கடிதத்தை அனுப்பிவைத்துள்ளார்.
+
+...
+
+[Data](articles/1a77fba8.json)
+
+---
 
 ### Govt. breaks ground on $ 140 m Rividanavi solar power project
 
@@ -94,6 +134,24 @@ According to CBSL data, Sri Lanka’s short-term drain in foreign currency asset
 
 ---
 
+### யாழ்ப்பாணத்தில் தேசிய மக்கள் சக்தி பொதுஜன நூலகம் திறப்பு
+
+*2025-09-08 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224485) · `ta`
+
+தேசிய மக்கள் சக்தியின் யாழ்ப்பாண அலுவலகத்தில் பொதுஜன நூலகம் மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர் ரில்வின் சில்வாவினால் ஞாயிற்றுக்கிழமை  (7) திறந்து வைக்கப்பட்டது.
+
+பலாலி வீதி, கந்தர்மடத்தில் உள்ள தேசிய மக்கள் சக்தி பொதுமக்கள் தொடர்பு காரியாலயத்தில் ஞாயிற்றுக்கிழமை (7) மாலை 5 மணியளவில் குறித்த நூலகம் திறந்து வைக்கப்பட்டது.
+
+குறித்த நிகழ்வில் கடற்றொழில் மற்றும் கடல்வளங்கள் துறை அமைச்சர் இராமலிங்கம் சந்திரசேகர், பாராளுமன்ற உறுப்பினர்களான கருணைநாதன் இளங்குமரன், றஜீவன் ஜெயச்சந்திரமூர்த்தி உள்ளிட்ட அக்கட்சியின் உள்ளூராட்சி சபை உறுப்பினர்கள், ஆதரவாளர்கள், பொதுமக்கள் என பலரும் கலந்துகொண்டனர்.
+
+இதேவேளை ஊடகவியலாளர் மயில்வாகனம் நிமலராஜன் கொலை வழக்கின் விசாரணை தொடர்பான அறிக்கை யாழ் ஊடக அமையத்தினரால் மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர் ரில்வின் சில்வாவிடம் கையளிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/5302b262.json)
+
+---
+
 ### Sri Lanka shines at Commonwealth Business Excellence Awards 2025
 
 *2025-09-08 02:53:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-shines-at-Commonwealth-Business-Excellence-Awards-2025/34-781337) · `en`
@@ -125,6 +183,24 @@ Prior to joining Hayleys PLC, Karr held several senior positions at Cinnamon Hot
 [Data](articles/b52bbfc9.json)
 
 [Extended Data](ext_articles/b52bbfc9.ext.json)
+
+---
+
+### பாதாளக் குழுக்களின் முன்னிலை தரப்பினரின் கைதால் ஒரு சில அரசியல்வாதிகள் கலக்கம் - வசந்த சமரசிங்க
+
+*2025-09-08 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224484) · `ta`
+
+பாதாள குழுக்களின் முன்னிலை தரப்பினரை கைது செய்தவுடன் ஒருசில அரசியல்வாதிகள் கலக்கமடைந்துள்ளார்கள்.போதைப்பொருள் வியாபாரத்துக்கும்,அரசியல்வாதிகளுக்கும் இடையில் தொடர்புள்ளது என்பதை நாட்டு மக்கள் வெகுவிரைவில் உறுதியாக அறிந்துக்கொள்வார்கள் என வர்த்தகத்துறை மற்றும் உணவு பாதுகாப்பு அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
+
+கொழும்பில் ஞாயிற்றுக்கிழமை (7) நடைபெற்ற நிகழ்வில் கலந்துக்கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஊழல்வாதிகளுக்கு சட்டத்தின் ஊடாக நடவடிக்கை எடுக்கும் போது எதிர்க்கட்சிகள் அனைத்தும் தற்போது ஒன்றிணைந்துள்ளன. எதிர்க்கட்சிகளின் உறுப்பினர்கள் அனைவரும் நண்பர்கள் என்பதை நாட்டு மக்கள் இதனூடாக விளங்கிக் கொள்ள வேண்டும்.இவர்கள் ஆட்சியில் இருந்தால் அவர்களின் நண்பர்களான ஊழல்வாதிகள் அனைவரும் பாதுகாக்கப்படுவார்கள்.
+
+ஊழல் மோசடியினால் தான் இந்த நாடு வங்குரோத்து நிலையடைந்தது. ஆகவே ஊழல்வாதிகளுக்கு எதிராக நடவடிக்கை எடுக்கும் போது அதனை அரசியல்பழிவாங்கள் என்று எவ்வாறு குறிப்பிடுவது.
+
+...
+
+[Data](articles/0fdc8e7b.json)
 
 ---
 
@@ -1997,107 +2073,5 @@ Chemical Consignment is to be taken to the Tangalle Police this afternoon for fu
 [Data](articles/35ef1a49.json)
 
 [Extended Data](ext_articles/35ef1a49.ext.json)
-
----
-
-### Two drivers arrested
-
-*2025-09-07 11:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-சாரதிகள்-அதிரடியாக-கைது/76-364129) · `ta`
-
-Hatton Police Transport Officers arrested two drivers of two private buses who were in dangerously fast in the same direction from Kandy to Hatton.
-
-The two buses started their journey from the Kandy bus stand, and when the first bus faced the Ginigathena area, a man who was on a motorbike behind two buses and two buses drove the buses to the Hatton bus station and lodged a mobile phone.
-
-Immediately, the Superintendent of Police, who was acting immediately, informed the Ahattan Police Transport Unit to arrest the two drivers who drove the two buses, and the two drivers were arrested on suspicion.
-
-◼️
-
-[Data](articles/a5d84f72.json)
-
-[Extended Data](ext_articles/a5d84f72.ext.json)
-
----
-
-### Dispute killed
-
-*2025-09-07 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214268) · `si`
-
-The deceased is a 66 year old resident of the Horanawatta, aged.
-
-Preliminary investigations have revealed that the resident of the resident had been assassinated by a resident of the house due to a resident of the house.
-
-Horana Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/29e860b0.json)
-
-[Extended Data](ext_articles/29e860b0.ext.json)
-
----
-
-### Foreign Minister Vijitha Herath departs for Geneva to attend UNHRC session
-
-*2025-09-07 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112248/foreign-minister-vijitha-herath-departs-for-geneva-to-attend-unhrc-session) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, departed for Geneva, Switzerland, this morning (07) at around 6:45 a.m.
-
-Minister Vijitha Herath will be attending the 60th session of the UN Human Rights Council, which is scheduled to commence in Geneva on September 8 and will continue until October 8.
-
-The Foreign Minister is expected to deliver a special statement on behalf of the Sri Lankan government during the session.
-
-During his visit, Minister Herath is also scheduled to hold bilateral discussions with several high-ranking diplomats in Geneva.
-
-A special meeting is set to take place between UN High Commissioner for Human Rights, Volker Türk, and Minister Herath.
-
-...
-
-[Data](articles/c849e5d9.json)
-
-[Extended Data](ext_articles/c849e5d9.ext.json)
-
----
-
-### ජිනීවා මානව හිමිකම් සමුළුවට සහභාගීවීමට ඇමති විජිත දිවයිනෙන් පිටත්ව යයි
-
-*2025-09-07 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214267) · `si`
-
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා අද (07) පෙරවරු 06.45ට පමණ ජිනීවා බලා පිටත්ව ගොස් තිබේ.
-
-ඒ හෙට (08) ආරම්භ වන එක්සත් ජාතීන්ගේ මානව හිමිකම් සමුළුවේ 06 වන සැසියට සහභාගි වීම සඳහා ය.
-
-එහිදී අමාත්‍ය විජිත හේරත් ශ්‍රී ලංකා රජය වෙනුවෙන් විශේෂ ප්‍රකාශයක් සිදුකිරීමටත්  නියමිතය.
-
-මෙම සංචාරය අතරතුර අමාත්‍ය විජිත හේරත් මහතා ඉහළ පෙළේ රාජතාන්ත්‍රිකයන් කිහිප දෙනෙක් සමඟ ජිනීවා නුවර දී ද්විපාර්ශික සාකච්ඡා පැවැත්වීමට නියමිත ව ඇත.
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් Volker Turk හා අමාත්‍ය විජිත හේරත් අතර විශේෂ හමුවක් ද මෙහිදී පැවැත්වීමට නියමිතව ඇත.
-
-Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය කිරීමෙන් අනතුරුව සහ ජාතික ජන බලවේග රජය බලයට පත්වී වසරකින් පසුව පැවැත්වෙන මෙම සමුළුවේ දී මානව හිමිකම් ආරක්ෂා කිරීම සම්බන්ධයෙන් නව රජය ගෙන ඇති ක්‍රියාමාර්ග, ප්‍රගතිය සහ ඉදිරි සැලසුම් ඉදිරිපත් කිරීමට හැකි වේ.
-
-මෙවර මානව හිමිකම් සැසියට අමාත්‍ය විජිත හේරත්ට අමතරව විදේශ කටයුතු අමාත්‍යාංශයේ එක්සත් ජාතීන්ගේ සංවිධානය සහ මානව හිමිකම් පිළිබඳව අධ්‍යක්ෂ ජනරාල් දයානි මෙන්ඩිස් මහත්මිය ද සහභාගි වේ.
-
-◼️
-
-[Data](articles/739183d1.json)
-
-[Extended Data](ext_articles/739183d1.ext.json)
-
----
-
-### Import of vehicles cost US $ 475 million in first 6 months
-
-*2025-09-07 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආයනයනට-මුල්-මාස-6දී-ඩොලර්-මිලියන-475ක්-වැය-වෙලා/11-418324) · `si`
-
-According to a report issued by the Central Bank Sri Lanka's US $ 475 million in the first six of the year.
-
-Accordingly, the importation of vehicles including private vehicles, commerce vehicles, including vehicles, has spent. The Central Bank report also stated that the importation of the laws on imports of vehicle imports this year. The Central Bank points out that the demand for vehicles has been increased and the demand for vehicles will be gradually reduced.
-
-The Central Bank report also states that the rupee has caused 3.1 percent to the US dollar in July 2025 am on July 22, 2005.
-
-◼️
-
-[Data](articles/ea92a3c0.json)
-
-[Extended Data](ext_articles/ea92a3c0.ext.json)
 
 ---

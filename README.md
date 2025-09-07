@@ -1,36 +1,1070 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-06 20:18:26**
+As of **2025-09-07 10:54:59**
 
 ## Newspaper Stats
 
-*Scraped **74,465** Articles*
+*Scraped **74,533** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 626
+dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 756
-economynextcom | 4,522
-islandlk | 4,573
+colombotelegraphcom | 757
+economynextcom | 4,523
+islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,200
-adaderanalk | 9,519
-tamilmirrorlk | 11,079
-virakesarilk | 12,181
-adaderanasinhalalk | 12,959
+adalk | 7,206
+adaderanalk | 9,531
+tamilmirrorlk | 11,093
+virakesarilk | 12,186
+adaderanasinhalalk | 12,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.2%) of 74,465 articles have been extended.
+61,973 (83.1%) of 74,533 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-07 (Sunday)
+
+### ජිනීවා මානව හිමිකම් සමුළුවට සහභාගීවීමට ඇමති විජිත දිවයිනෙන් පිටත්ව යයි
+
+*2025-09-07 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214267) · `si`
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා අද (07) පෙරවරු 06.45ට පමණ ජිනීවා බලා පිටත්ව ගොස් තිබේ.
+
+ඒ හෙට (08) ආරම්භ වන එක්සත් ජාතීන්ගේ මානව හිමිකම් සමුළුවේ 06 වන සැසියට සහභාගි වීම සඳහා ය.
+
+එහිදී අමාත්‍ය විජිත හේරත් ශ්‍රී ලංකා රජය වෙනුවෙන් විශේෂ ප්‍රකාශයක් සිදුකිරීමටත්  නියමිතය.
+
+මෙම සංචාරය අතරතුර අමාත්‍ය විජිත හේරත් මහතා ඉහළ පෙළේ රාජතාන්ත්‍රිකයන් කිහිප දෙනෙක් සමඟ ජිනීවා නුවර දී ද්විපාර්ශික සාකච්ඡා පැවැත්වීමට නියමිත ව ඇත.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් Volker Turk හා අමාත්‍ය විජිත හේරත් අතර විශේෂ හමුවක් ද මෙහිදී පැවැත්වීමට නියමිතව ඇත.
+
+Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය කිරීමෙන් අනතුරුව සහ ජාතික ජන බලවේග රජය බලයට පත්වී වසරකින් පසුව පැවැත්වෙන මෙම සමුළුවේ දී මානව හිමිකම් ආරක්ෂා කිරීම සම්බන්ධයෙන් නව රජය ගෙන ඇති ක්‍රියාමාර්ග, ප්‍රගතිය සහ ඉදිරි සැලසුම් ඉදිරිපත් කිරීමට හැකි වේ.
+
+මෙවර මානව හිමිකම් සැසියට අමාත්‍ය විජිත හේරත්ට අමතරව විදේශ කටයුතු අමාත්‍යාංශයේ එක්සත් ජාතීන්ගේ සංවිධානය සහ මානව හිමිකම් පිළිබඳව අධ්‍යක්ෂ ජනරාල් දයානි මෙන්ඩිස් මහත්මිය ද සහභාගි වේ.
+
+◼️
+
+[Data](articles/739183d1.json)
+
+---
+
+### சிக்குமா?
+
+*2025-09-07 10:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சிக்குமா/62-364124) · `ta`
+
+◼️
+
+[Data](articles/e1d32d3e.json)
+
+---
+
+### வீதி விபத்துகளில் ஒரு இளைஞன் உட்பட நான்கு பேர் பலி!
+
+*2025-09-07 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224411) · `ta`
+
+நாட்டின் பல பகுதிகளில் இடம்பெற்ற வீதி விபத்துகளில் ஒரு இளைஞன் உட்பட நான்கு பேர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+நேற்று சனிக்கிழமை (06) மரதன்கடவல, வெல்லாவெளி, கடவத்தை மற்றும் புதுக்குடியிருப்பு ஆகிய பொலிஸ் பிரிவுகளில்  இந்த விபத்துகள் இடம்பெற்றுள்ளன.
+
+மரதன்கடவல பொலிஸ் பிரிவின் A11 வீதியில் உள்ள தவலன்ஹல்மில்லாவ சந்தியில் ஒரே திசையில் பயணித்த பாதசாரி மீது மோட்டார் வாகனம் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+சைக்கிள் செலுத்துனர் மற்றும் சைக்கிளில் சென்ற மற்றொரு நபரும் காயமடைந்த நிலையில் சைக்கிள் செலுத்துனர் மரதன்கடவல  வைத்தியசாலையில்  அனுமதிக்கப்பட்டபோது சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இந்நிலையில், வெல்லாவெளி - சிவலகட வீதியில் சிவலகட நோக்கிச் சென்ற மோட்டார் சைக்கிள், ஓட்டுநர் கட்டுப்பாட்டை இழந்ததால் வீதியோரத்தில் நடந்து சென்ற இரண்டு பாதசாரிகள் மீது மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் இரண்டு பாதசாரிகளும் மோட்டார் சைக்கிள் ஓட்டுநரும் காயமடைந்து கல்முனை வைத்தியசாலையில் அனுமதிக்கப்பட்டபோது, பாதசாரியொருவர்  சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/226629f9.json)
+
+---
+
+### වසරේ මුල් මාස අට තුළ විදේශ ප්‍රේෂණ ඩොලර් බිලියන 5 ඉක්මවයි
+
+*2025-09-07 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214266) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කරන ලද නවතම සංඛ්‍යාලේඛනවලට අනුව, 2025 අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට අමෙරිකානු ඩොලර් මිලියන 680.8ක විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ ලැබී ඇත.
+
+2025 ජනවාරි සිට අගෝස්තු දක්වා මුළු විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ අමෙරිකානු ඩොලර් බිලියන 5.116ක් වූ අතර එය පසුගිය වසරේ එම කාලයට වඩා 19.3%ක වැඩි වීමක් බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+මේ අතර, ශ්‍රී ලංකා මහ බැංකුවේ නිල සංඛ්‍යා ලේඛනවලින් පෙනී යන්නේ මෙම වසරේ මුල් මාස අට තුළ සංචාරක ඉපැයීම් ඇමරිකානු ඩොලර් බිලියන 2 ඉක්මවා ඇති බවය.
+
+ඒ අනුව, 2025 මුල් මාස අට තුළ මුළු සංචාරක ඉපැයීම් අමෙරිකානු ඩොලර් බිලියන 2.03ක් ලෙස වාර්තා වන අතර එය 2024 මුල් මාස අට තුළ වාර්තා වූ ඇමරිකානු ඩොලර් බිලියන 1.88ක සංචාරක ඉපැයීම් හා සසඳන විට 7.8%ක වැඩිවීමකි.
+
+◼️
+
+[Data](articles/1d970d50.json)
+
+---
+
+### AI யால் அடுத்த 5 வருடத்தில் 99 சதவீதம் பேர் வேலையை இழப்பர்: எச்சரிக்கும் நிபுணர்
+
+*2025-09-07 09:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/AI-யால்-அடுத்த-5-வருடத்தில்-99-சதவீதம்-பேர்-வேலையை-இழப்பர்-எச்சரிக்கும்-நிபுணர்/57-364123) · `ta`
+
+செயற்கை நுண்ணறிவு (AI) வந்தது முதல் உலகளாவிய தகவல் தொழில்நுட்ப துறையில் பெரும் மாற்றங்கள் நடக்கத் தொடங்கியுள்ளன. தொழில்களை தானியங்கியாக்கும் இந்த தொழில்நுட்பம், பல முன்னணி நிறுவனங்களில் வேலை இடங்களைக் குறைக்கும் நிலைக்கு வந்திருக்கிறது. இதன் தீவிர விளைவுகள் குறித்து தற்போது அமெரிக்காவின் லூயிஸ்வில் பல்கலைக்கழக கணினி அறிவியல் பேராசிரியர் ரோமன் யம்போல்ஸ்கி முக்கிய எச்சரிக்கையை வெளியிட்டுள்ளார்.
+
+“2030 ஆம் ஆண்டுக்குள் உலகளவில் 90% தொழிலாளர்கள் வேலை இழக்கும் நிலை உருவாகும்” என்று அவர் சுட்டிக்காட்டியுள்ளார். அதுமட்டுமல்லாது, அந்த வேலை இழப்புக்கு மாற்றாக “ஆப்ஷன் பி” எதுவும் இல்லையென்று தன்னம்பிக்கையுடன் கூறியிருக்கிறார். “ஏஐ, மென்பொருள் டெவலப்பர்கள் மற்றும் ப்ராம்ப்ட் இன்ஜினியர்களையும் வேலை இழக்கும் நிலைக்குத் தள்ளும்” என்றும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/6df8f3ad.json)
+
+---
+
+### ගාසා යුද්ධය අවසන් කරන ලෙසට ට්‍රම්ප්ගෙන් ඉල්ලා ඊශ්‍රායල ජාතිකයින්ගෙන් විරෝධතාවක්
+
+*2025-09-07 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214265) · `si`
+
+ගාසා තීරයේ යුද්ධය අවසන් කිරීම සඳහා මැදිහත් වන ලෙසත් ඒ සඳහා බල කරන ලෙසත් මෙන්ම ප්‍රාණ ඇපකරුවන් නිදහස් කර ගැනීම සඳහා කටයුතු කිරීමට මැදිහත් වන ලෙස අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගෙන් ඉල්ලමින් ඊශ්‍රායලයේ ටෙල් අවිව්හී දැවැන්ත විරෝධතාවක් පැවැති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එරට හමුදා මූලස්ථානයෙන් පිටත පොදු චතුරශ්‍රයක විරෝධතාකරුවන් රැස්ව සිටිමින් ඊශ්‍රායල ධජ ඔසවමින් මෙන්ම ප්‍රාණ ඇපකරුවන්ගේ ඡායාරූප සහති පුවරු අතතිව ඔවුන් මෙම විරෝධතාවට එක්ව තිබුණි.
+
+ගාසා නගරයට එල්ල කරන ලද ප්‍රහාරයෙන් තම ආදරණීයන්ට අනතුරක් සිදුවිය හැකි බවට ප්‍රාණ ඇපකරුවන්ගේ පවුල් සහ ඔවුන්ගේ ආධාරකරුවන් බියට පත්වී තිබේ.
+
+ඒ අනුව දෙපාර්ශ්වයම නැවත සිය රටට ගෙන ඒමට හැකි පුළුල් ගිවිසුමකට එළැඹීමට එක්සත් ජනපදයට ජනාධිපතිවරයාට බලපෑම් කිරීම සඳහා ඔවුන් මෙම විරෝධතාව සංවිධානය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා හී සඳහන්ව ඇත්තේ ගාසා තීරයේ ප්‍රාණ ඇපකරුවන් 48 දෙනෙකු රඳවා සිටින බවය.
+
+කෙසේ නමුත් ඊශ්‍රායල බලධාරීන් විශ්වාස කර ඇත්තේ ප්‍රාණ ඇපකරුවන් 20 දෙනෙකු පමණක් තවමත් ජීවතුන් අතර සිටින බවත්ය.
+
+...
+
+[Data](articles/2835739a.json)
+
+---
+
+### டிரம்ப் பேச்சில் திடீர் மாற்றம்: ஒரே வார்த்தையில் மோடி பதில்
+
+*2025-09-07 09:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்-பேச்சில்-திடீர்-மாற்றம்-ஒரே-வார்த்தையில்-மோடி-பதில்/50-364122) · `ta`
+
+இந்தியா - அமெரிக்கா இடையே வர்த்தகரீதியாக மோதல் போக்கு நிலவி வரும் நிலையில், பிரதமர் நரேந்திர மோடியை டொனால்டு டிரம்ப் திடீரென 'நண்பன்' என அழைத்து அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளார்.
+
+உலக அளவில் நெருங்கிய கூட்டாளிகளாக இருந்து வந்த அமெரிக்காவும், இந்தியாவும் கடந்த சில மாதங்களாக எதிரெதிர் துருவங்களாக மாறின. தனது எச்சரிக்கையையும் மீறி, ரஷ்யாவிடம் இருந்து கச்சா எண்ணெய்யை இந்தியா வாங்குவதை அமெரிக்காவால் ஏற்றுக் கொள்ள முடியவில்லை. மேலும், ரஷ்யாவுடன் இந்தியா நெருங்கி செல்வதையும் அந்நாடு விரும்பவில்லை.
+
+இதனால் இந்தியா மீது தொடர்ந்து அதிருப்தியில் இருந்து வந்த அமெரிக்க ஜனாதிபதி டொனால்டு டிரம்ப், அண்மையில் இந்தியாவின் ஏற்றுமதி பொருட்கள் மீது 50 சதவீத வரியை விதித்து மிகப் பெரிய அதிர்ச்சியை கொடுத்தார். இந்த அதிகபட்ச வரி விதிப்பால் இந்தியாவின் தொழில்துறை ஆட்டம் காண தொடங்கியது.
+
+...
+
+[Data](articles/2b8a5f83.json)
+
+---
+
+### “அது இல்லாமல் உடலுறவு”
+
+*2025-09-07 08:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அது-இல்லாமல்-உடலுறவு/54-364120) · `ta`
+
+தமிழ் திரையுலகில் 1980-களில் முன்னணி கதாநாயகியாக வலம் வந்த நடிகை அம்பிகா, சமூக வலைத்தளத்தில் பாலியல் குற்றங்கள் குறித்து வெளியிட்ட கருத்துக்கு சென்னை காவல் துறை நன்றி தெரிவித்துள்ளது.
+
+புனித தோமையார் காவல் நிலையத்தில் 17 வயது சிறுமிக்கு பாலியல் தொல்லை கொடுத்தவர் போக்சோ சட்டத்தின் கீழ் கைது செய்யப்பட்டதாக சென்னை காவல் துறை தனது சமூக வலைத்தளப் பக்கத்தில் பதிவிட்டிருந்தது.
+
+இதற்கு பதிலளிக்கும் விதமாக நடிகை அம்பிகா தனது சமூக வலைத்தளப் பக்கத்தில், "அனுமதியின்றி உடலுறவு கொள்ள முயலும் பாலியல் குற்றங்கள், அது உடல் ரீதியாக இருந்தாலும் சரி, மன ரீதியாக இருந்தாலும் சரி, குற்றவாளிகள் எந்த வயசாக இருந்தாலும் உடனடியாக தண்டிக்கப்பட வேண்டும்.
+
+சிறாராக இருந்தாலும் சரி, 100 வயது உடையவராக இருந்தாலும் சரி, குற்றம் குற்றமே," என்று கருத்து தெரிவித்திருந்தார்.
+
+தமிழ், தெலுங்கு, கன்னடம், மலையாளம் உள்ளிட்ட தென்னிந்திய மொழிகளில் 200-க்கும் மேற்பட்ட படங்களில் நடித்து, தற்போது குணசித்திர வேடங்களில் கவனம் செலுத்தி வரும் அம்பிகாவின் இந்தக் கருத்து, பாலியல் குற்றங்களுக்கு எதிரான கடுமையான நிலைப்பாட்டை வெளிப்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/6e71de30.json)
+
+---
+
+### பச்சிளம் குழந்தையை தூக்கிச் சென்ற குரங்குகள்
+
+*2025-09-07 08:48:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சிளம்-குழந்தையை-தூக்கிச்-சென்ற-குரங்குகள்/175-364119) · `ta`
+
+ஒரு குடிசைவீட்டில் குரங்குகள் புகுந்து இரண்டு மாத ஆண் குழந்தையை தூக்கிச் சென்று, நீர் நிரம்பியப் பீப்பாயில் போட்டுள்ளன. இந்த சம்பவம், உத்தர பிரதேச மாநிலம் சீதாபூரை அடுத்த சூரஜ்பூர் கிராமத்தில் இடம்பெற்றுள்ளது.
+
+குரங்குகளின் சத்தம் கேட்டு குடிசைக்கு ஓடிச்சென்ற பெற் றோர் அங்கு குழந்தையைக் காணாததால் சுற்றியுள்ள பகுதி முழுவதும் தேடி உள்ளனர். இறுதியில் அக்குழந்தை தண்ணீர் நிரப்பப்பட்ட பீப்பாயில் மூழ்கிய நிலையில் இருப்பது தெரியவந்தது.
+
+உடனடியாக குழந்தையை அரு கிலுள்ள சீதாபூர் அரசு மருத்துவமனைக்கு கொண்டு சென்றனர். பரிசோதித்த மருத்துவர்கள், குழந்தை மூச்சுத் திணறி இறந்து விட்டதாக கூறியுள்ளனர். இதைக் கேட்ட பெற்றோர் அதிர்ச்சி அடைந்தனர். இது அக்குடும்பத்தினரை மிகவும் சோகத்தில் ஆழ்த்தியுள் ளது. குறிப்பாக ஒரு வருடத்துக்கு முன்பு மணமான தம்பதியருக்கு பிறந்த முதல் குழந்தை இது.
+
+...
+
+[Data](articles/6f842db8.json)
+
+---
+
+### ஆட்டோவை விட்டு விட்டு ஆட்டுடன் தப்பி ஓட்டம்
+
+*2025-09-07 08:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டோவை-விட்டு-விட்டு-ஆட்டுடன்-தப்பி-ஓட்டம்/175-364118) · `ta`
+
+வீதியோரத்தில் மேய்ந்து கொண்டிருந்த ஆட்டை திருடி, வாடகைக்கு வாங்கியிருந்த ஆட்டோவில் ஏற்றிக்கொண்டு சென்ற திருடன், ஆட்டோவை நடுவீதியில் விட்டுவிட்டு, ஆட்டுடன் தப்பி ஓடிய சம்பவம் மட்டக்களப்பில் இடம்பெற்றுள்ளது. ஆட்டோ உரிமையாளர் கைது செய்யப்பட்டுள்ளார்.
+
+மட்டக்களப்பு நகர் பகுதியில் கண்ணகை அம்மன் ஆலய வீதியோரத்தில் நின்றிருந்த ஆடு ஒன்றை லாவகமாக பிடித்து, ஆட்டோவில்  கொண்டு சென்று திருடன், காத்தான்குடி பள்ளிவாசலுக்கு அருகில் வீதியில் ஆட்டோவை விட்டு விட்டு ஆட்டுடன் தப்பியோடிவிட்டார்.
+
+காத்தான்குடியை சேர்ந்த ஆட்டோ உரிமையாளர் ஒருவர் தனது ஆட்டோவை நாள் வாடகையாக ஆயிரம் ரூபாவுக்கு அந்த பகுதியைச் சேர்ந்த ஒருவருக்கு   வழங்கியுள்ளார்.
+
+இந்த நிலையில் ஆட்டோவை வாடகைக்கு எடுத்துச் சென்ற நபர் சம்பவ தினமான வெள்ளிக்கிழமை   நகரிலுள்ள கண்ணகை அம்மன் ஆலய பகுதியில் ஆட்டோவில் சென்று அங்கு வீதியில் மேய்ந்து கொண்டிருந்த ஆடுகளில் ஒரு ஆட்டை பிடித்து ஆட்டோவில் கொண்டு கடத்தி சென்றுள்ளார்.
+
+...
+
+[Data](articles/b57f16d7.json)
+
+---
+
+### Sri Lanka’s remittance inflow exceeds US$ 5 billion in 2025
+
+*2025-09-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112243/sri-lankas-remittance-inflow-exceeds-us-5-billion-in-2025) · `en`
+
+Sri Lanka has received USD 680.8 million in workers’ remittances in August 2025, according to the latest figures released by the Central Bank of Sri Lanka (CBSL).
+
+Accordingly, the total remittances from January to August 2025 reached USD 5.116 billion, up 19.3% from the same period last year (US$ 4.28 billion).
+
+Meanwhile, official figures show that earnings from tourism surpassed USD 2 billion during the first eight months of this year.
+
+Accordingly, the total tourism earnings in the first eight months of 2025 is recorded as USD 2.03 billion, which is an increase of 7.8% compared to the tourism earnings of USD 1.88 billion recorded in the first eight months of 2024.
+
+◼️
+
+[Data](articles/df74c7b4.json)
+
+---
+
+### ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ වාර්ෂික ඇසළ මහා පෙරහැර මංගල්‍යයට ජනපති එක් වෙයි
+
+*2025-09-07 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214264) · `si`
+
+ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ සහ ශ්‍රී සුමන සමන් මහා දේවාලයේ 2025 ඇසළ මහා පෙරහර මංගල්‍යයේ සිව්වන රන්දෝලි පෙරහර ඊයේ රාත්‍රී විථී සංචාරය කළේය.
+
+මහියංගන පුද බිම වෙත ගිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ආගමික වතාවත්වල නිරත විය.
+
+අනතුරුව ජනාධිපතිවරයා අස්ගිරි විහාර පාර්ශ්වයේ ජ්‍යෙෂ්ඨ කාරක සංඝ සභික, මහියංගනය රජමහා විහාරාධිපති පූජ්‍ය උරුලෑවත්තේ ශ්‍රී ධම්මරක්ඛිත නායක හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබාගත් අතර උන්වහන්සේගේ  සුවදුක් විමසමින් කෙටි පිළිසඳරකද නිරත විය.
+
+අනතුරුව ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ සහ ශ්‍රී සුමන සමන් මහා දේවාලයේ 2025 ඇසළ මහා පෙරහැර මංගල්‍යයේ සිව්වන  රන්දෝලි පෙරහැරේ සමාරම්භය සනිටුහන් කරමින් මංගල හස්ති රාජයා මත සධාතුක කරඬුව තැන්පත් කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රදේශවාසී ජනතාව සමඟ පෙරහැර නැරඹීමටද එක් විය.
+
+...
+
+[Data](articles/e3477aca.json)
+
+---
+
+### பாலியல் துஷ்பிரயோகம்: சகோதரர்கள் இருவருக்கு   7 வருட கடூழிய சிறை
+
+*2025-09-07 08:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-துஷ்பிரயோகம்-சகோதரர்கள்-இருவருக்கு-7-வருட-கடூழிய-சிறை/175-364117) · `ta`
+
+மன்னாரில்  16 வயதுக்கு   குறைந்த சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் ஒரே குடும்பத்தை சேர்ந்த சகோதரர்கள் இருவருக்கு 7 வருட கடூழிய சிறை தண்டனை விதித்து மன்னார் மேல் நீதிமன்ற நீதிபதி வியாழக்கிழமை(4)  தீர்ப்பளித்தார்.
+
+குற்றத்தின் பாரதூர தன்மை, பாதிக்கப்பட சிறுமியின் நிலை, மேலும்  இவ்வாறான குற்றங்கள்  இடம் பெறாமல் இருக்க வேண்டும் என்ற அடிப்படையில் சட்ட ஏற்பாடுகளுக்கு அமைவாக இந்த தண்டனை விதிக்கப்பட்டுள்ளது.
+
+7 வருட கடூழிய சிறைத் தண்டனைக்கு மேலதிகமாக தண்டப்பணமும், பாதிக்கப்பட்ட சிறுமிக்கு 5 லட்சம் ரூபாய்  நஷ்ட ஈட்டு தொகையும் வழங்க தீர்ப்பளிக்கப்பட்டது.
+
+இதில் குறித்த சிறுமியை  பாலியல் துஷ்பிரயோகம் செய்ய உதவி ஒத்தாசை புரிந்தமைக்காக இரண்டாம் எதிரிக்கு அதே தண்டனை அதாவது 7 ஆண்டு கடூழிய சிறை தண்டனை விதிக்கப்பட்டது குறிப்பிடத்தக்கது.
+
+சட்டமா அதிபர் சார்பில் அரச சட்டவாதி ஆறுமுகம் தனுஷன் மற்றும் சிவஸ்கந்தஶ்ரீ ஆகியோர் வழக்கை நெறிப்படுத்தி இருந்தனர்.
+
+வழக்கு தொடு நர் தரப்பில் வழக்கு நியாயமான சந்தேகத்திற்கு அப்பால் நிரூபிக்கப்பட்டதால்   குற்றவாளிகளுக்கு கடூழிய சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/eaf1f019.json)
+
+---
+
+### பஸ் விபத்து: உயிரிழந்தவர்களின் இறுதிக் கிரியைகள் இன்று
+
+*2025-09-07 08:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்து-உயிரிழந்தவர்களின்-இறுதிக்-கிரியைகள்-இன்று/175-364116) · `ta`
+
+எல்ல - வெல்லவாய பஸ் விபத்தில் உயிரிழந்த அனைவரதும் இறுதிக் கிரியைகள் இன்று முன்னெடுக்கப்படவுள்ளன.
+
+◼️
+
+[Data](articles/58deae44.json)
+
+---
+
+### විදේශයන්හිදී ආපදාවන්ට ලක් වන ලාංකික ශ්‍රමික දරුවන්ට ජනපති අරමුදලෙන් ආධාර
+
+*2025-09-07 08:26:53* · [`adalk`](https://www.ada.lk/breaking_news/විදේශයන්හිදී-ආපදාවන්ට-ලක්-වන-ලාංකික-ශ්‍රමික-දරුවන්ට-ජනපති-අරමුදලෙන්-ආධාර/11-418321) · `si`
+
+"කිසිවෙක් අධ්‍යාපනයෙන් මඟ නොහැරීම" යන සංකල්පය පෙරදැරි කර ගනිමින් ආපදාවලට මුහුණ දෙන විදෙස්ගත ශ්‍රමිකයින්ගේ මෙරට සිටින දරුවන්ගේ අධ්‍යාපනය දිරිගැන්වීම සඳහා ජනාධිපති අරමුදලෙන් මූල්‍යාධාර ලබා දීමේ වැඩපිළිවෙළක් ආරම්භ කිරීමට සැලසුම් කර තිබේ.
+
+ජනාධිපති අරමුදල, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සහ විදේශ සේවා නියුක්ති කාර්යාංශය ඒකාබද්ධව මෙම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට නියමිතය.
+
+විදේශගත සහ විදේශගත වීමට බලාපොරොත්තුවෙන් සිටින ශ්‍රී ලාංකිකයන් උදෙසා ජනාධිපති අරමුදලේ සේවා ව්‍යාප්ත කිරීම පිළිබඳ සාකච්ඡාවක් විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම්, ජනාධිපති අරමුදලේ ලේකම් රෝෂන් ගමගේ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන්
+
+විදේශ රටවලදී මිය යන, ආපදාවලට ලක් වන, සිරගත වන හෝ අතුරුදහන් වන ශ්‍රී ලාංකික ශ්‍රමිකයන්ගේ මෙරට සිටින දරුවන්ගේ පාසල් අධ්‍යාපනය මෙන්ම, විශ්වවිද්‍යාල අධ්‍යාපනය සුරක්ෂිත කිරීම මෙම වැඩපිළිවෙළ මගින් අපේක්ෂා කෙරේ.
+
+...
+
+[Data](articles/2360e74a.json)
+
+---
+
+### රසායනික ද්‍රව්‍ය හමුවූ පොහොට්ටු හිටපු මන්ත්‍රීගේ නිවසින් අත්බෝම්බ හා පතොරොම් සොයාගනියි
+
+*2025-09-07 08:15:11* · [`adalk`](https://www.ada.lk/breaking_news/රසායනික-ද්‍රව්‍ය-හමුවූ-පොහොට්ටු-හිටපු-මන්ත්‍රීගේ-නිවසින්-අත්බෝම්බ-හා-පතොරොම්-සොයාගනියි/11-418320) · `si`
+
+සංවිචධානාත්මක අපරාධකල්ලි නායකයෙක් හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වෙන කෙහෙල්බද්දර පද්මේ විසින්
+
+අයිස් මත්ද්‍රව්‍ය නිශ්පාදනයට ගෙනවිත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු ප්‍රා දේශීය මන්ත්‍රීවරයෙකුගේ නිවසේ
+
+වළ දමා තිබියදී සොයාගත් රසායනික ද්‍රව්‍ය සම්බන්ධයෙන් කරනු ලැබූ පරීක්ෂණවලට අදාළව අත්බෝම්බ හා ජීව පතොරම්තොගයක්ද සොයාගෙන තිබේ.
+
+ඒ අනුව එම ඉඩමේ තිබී ජීව අත්බෝම්බ 5ක්, ටී 56 ජීව උණ්ඩ 17ක් හා බෝර 12 වර්ගයේ ජීව උණ්ඩ 02ක් හා හිස් පතොරම් කොපුවක්ද සොයාගෙන තිබේ. මෙම ඉඩමේ හිමිකරුවන වන පියල් මනම්පේරි මේ වන විට පොලීසිය විසින්
+
+◼️
+
+[Data](articles/840eaa41.json)
+
+---
+
+### இன்றுசந்திர கிரகணம் :  நிகழவுள்ள அதிசயத்தை பாருங்கள்
+
+*2025-09-07 08:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்றுசந்திர-கிரகணம்-நிகழவுள்ள-அதிசயத்தை-பாருங்கள்/50-364115) · `ta`
+
+2022ஆம் ஆண்டுக்குப் பிறகு நிகழும் மிக நீண்ட முழுச் சந்திர கிரகணம் (Lunar Eclipse 2025) இன்றிரவு நிகழ்கிறது.
+
+இந்தப் பிரபஞ்சம் பல வானியல் அதிசயங்களைக் கொண்டதாகும். இங்கு நிகழும் பல விஷயங்கள் நம்மை வியப்பின் உச்சத்திற்கே போய்விடும். இப்படிக் கூட நடக்குமா என நாம் யோசிக்கும் பல வினோத நிகழ்வுகள் கூட நடக்கும்.
+
+அப்படித் தான் இன்றைய தினம் மிக நீண்ட முழுச் சந்திர கிரகணம் நிகழ்கிறது. கடந்த 2022க்கு பிறகு மிக நீண்ட ஒரு சந்திர கிரகணமாக இது இருக்கும்.
+
+இதுபோல அடுத்த முழு சந்திர கிரகணத்தைப் பார்க்க, நாம் 2028 டிசம்பர் 31 வரை காத்திருக்க வேண்டும் என்கிறார் புனேவில் உள்ள தேசிய வானொலி வானியற்பியல் மையத்தின் (National Centre for Radio Astrophysics) இணைப் பேராசிரியருமான திவ்யா ஓபரோய்.
+
+கிரகணங்கள் அரிதானவை என்றும், ஒவ்வொரு பௌர்ணமி அல்லது அமாவாசையிலும் நிகழாது என்றும் ஓபரோய் விளக்கினார். சந்திரன் பூமியைச் சுற்றிவரும் பாதை, சூரியனைப் பூமி சுற்றி வரும் பாதையிலிருந்து சுமார் 5 டிகிரி சாய்ந்துள்ளது என்பதே இதற்குக் காரணமாகும்.
+
+...
+
+[Data](articles/a70ea04f.json)
+
+---
+
+### බෝම්බය පත්තු නොවුන  නිසා දරුවන් තිදෙනෙකුගේ දිවි ගැලවෙයි
+
+*2025-09-07 07:58:40* · [`adalk`](https://www.ada.lk/breaking_news/බෝම්බය-පත්තු-නොවුන--නිසා-දරුවන්-තිදෙනෙකුගේ-දිවි-ගැලවෙයි/11-418319) · `si`
+
+වැවට විසිකර තිබූ අත් බෝම්බයක් කුඩා දරුවන් තිදෙනෙකු අහුලා ගනිමින් එහි කෑලි ඉවත්කර කුමක්ද යන්න පරික්ෂාකරමින් සිටියදී තම සීයා එය දැක දරුවන්ගේ දිවි ගලවාගත් පුවතක් මැදවච්චිය පොලිස් වසමේ අඟුනොචිචය, පළුකඳවැව ගම්මනයෙන් වාර්තා විය.
+
+මෙලෙස අනතුරට පත් නොවී දිවිගලවාගෙන ඇත්තේ පළුකඳවැව ගම්මානයේ පදිංචි, අනුරාධපුර මාධ්‍ය මහා  විදුහලේ 06 ශ්‍රේණියේ ඉගෙනුම ලබන 11 හැවිරිදි සශේන් අභිසේත් රත්නායක, සිය බාල සොහොයුරා වූ ශෙනෝත් අභිලාස් රත්නායක නැමැති වයස අවුරුදු දෙකා හමාරක කුඩා දරුවා සහ අනුරාධපුර නිවන්තක චේතිය විදුහලේ අධ්‍යාපනය ලබන 16 හැවිරිදි 12 වැනි ශ්‍රෙණියේ ඉගෙණුම ලබන දැහැමි ජනන්දනා රූපසිංහ නැමැති දරුවන් තිදෙනාය.
+
+පසුගියදා(05) සවස මැදවච්චිය ප්‍රාදේශිය ලේකම්බල ප්‍රදේශයේ තුලාන අංක 70 අඟුනොචිචයේ  පිහිටි පළුකඳවැව ගම්මානයේ වැවට යාබඳව ඇති වෙල් යාය කිසියම් පිරිසක් විසින් ගිණි තාබා ඇත. එම ගිණි ගැනීම හේතුවෙන් පිඹුරෙකු පිළිස්සි සිටුණු දැක ගම්වාසීන් එය බැලීමට වැවට ආසන්නව පිහිටි වෙල් යායට ගොස් ඇත.
+
+...
+
+[Data](articles/68a9e040.json)
+
+---
+
+### Special attention will be given in Budget to modernise the public service: President
+
+*2025-09-07 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112242/special-attention-will-be-given-in-budget-to-modernise-the-public-service-president) · `en`
+
+President Anura Kumara Dissanayake says special attention will be given in the upcoming Budget to modernising the public service and strengthening local government institutions.
+
+President Dissanayake made this assertion while attending the Monaragala District Special Coordination Committee meeting held at the Monaragala District Secretariat.
+
+During the meeting, the President reviewed the progress of projects being implemented in the district for the year 2025, the President’s Media Division stated.
+
+President Anura Kumara Dissanayake also emphasized that rural development projects must be accelerated to ensure that Treasury funds effectively reach the villages.
+
+The President noted that in order to prevent delays in these projects, officials should have a targeted plan in place up to the completion date.
+
+Special attention was also given to the issues faced by the farming community in the district.
+
+...
+
+[Data](articles/c506b50c.json)
+
+---
+
+### වැලිමඩ බීජ අර්තාපල් නිෂ්පාදන මධ්‍යස්ථානය විවෘත කෙරේ
+
+*2025-09-07 07:50:04* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-බීජ-අර්තාපල්-නිෂ්පාදන-මධ්‍යස්ථානය-විවෘත-කෙරේ/11-418318) · `si`
+
+දකුණු කොරියාවේ සේමාවුල් පදනමේ අනුග්‍රහය ඇතිව ඌව පළාත් කෘෂිකර්ම අමාත්‍යංශය මඟින් වැලිමඩ ප්‍රදේශයේ ඉඳිකරන ලද බීජ අර්තාපල් නිෂ්පාදන මධ්‍යස්ථානය විවෘත කෙරිණි.
+
+මෙමඟින් තත්වයෙන් උසස් බීජ අර්තාපල් අඩු පිරිවැයක් යටතේ නිෂ්පාදනය කර ගොවීන්ට බෙදාදීමට නියමිතය.
+
+මෙම ව්‍යාපෘතියට බොරලන්ද සත්ව ගොවිපොළේ අක්කර පහක පමණ භූමියක් යොදාගෙන ඇති අතර හරිතාගාරයන් තුළ බීජ නිෂ්පාදනය කිරීම සිදුකෙරේ.
+
+වාර්ෂිකව බීජ ටොන් පහක් පමණ නිෂ්පාදනය කිරීම මෙහිදී සිදුකෙරේ.වසර පහක පමණ කාලයකින් පසු දිවයින පුරා සිටින ගොවීන්ට බීජ  අර්තාපල් ලබාදීමට සැලසුම් කර ඇත.
+
+මෙම අවස්ථාවට ඌව පළාත් ආණ්ඩුකාරවර නීතීඥ ජේ.එම් කපිල ජයසේකර,ප්‍රජා යටිතල පහසුකම් ඇමති සමන්ත විද්‍යාරත්න,දකුණු කොරියාවේ සේමාවුල් පදනමේ ශ්‍රී ලංකා අධ්‍යක්ෂක,පළාත් සභාවේ අමාත්‍යාංශ ලේකම්වරුන් වන උපාලි ජයසේකර (ක්‍රීඩා) නිමේෂා ප්‍රියංගි වනසිංහ (කෘෂිකර්ම ) යන මහත්ම මහත්මීහු සහභාගී වූහ.
+
+◼️
+
+[Data](articles/5541359d.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක් - සිව්දෙනෙක් මරුට
+
+*2025-09-07 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214263) · `si`
+
+ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු 04කින් තරුණයෙකු ඇතුළු පුද්ගලයින් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (06) මෙම අනතුරු සිදුව තිබුණේ මරදන්කඩවල, වෙල්ලාවලි, කඩවත සහ පුදුකුඩිඉරිප්පු පොලිස් වසම්වලදීය.
+
+මරදන්කඩවල පොලිස් වසමේ ඒ 11 මාර්ගයේ තවලන්හල්මිල්ලෑව හන්දියේදී මෝටර් රථයක් එම දිශාවටම පා පැදියක පසුපස ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් පාපැදිකරු හා එහි ගමන් ගත් තවත් පුද්ගලයෙකු තුවාල ලබා මරදන්කඩවල රෝහලට ඇතුළත් කිරීමේදී පාපැදිකරු මියගොස් තිබේ.3
+
+එලෙස මියගොස් ඇත්තේ, මරදන්කඩවල ප්‍රදේශයේ පදිංචිව සිටි 37 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර වෙල්ලාවලි - චවලකඩේ මාර්ගයේ චවලකඩේ දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ අයිනේ ගමන්කල පදිකයන් දෙදෙනෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් පදිකයින් දෙදෙනා සහ යතුරුපැදිකරු තුවාල ලබා කල්මුණ රෝහලට ඇතුළත් කිරීමෙන් පසු එක් පදිකයකු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, පාන්ඩිරුප්පු  ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර දළුපිටිය - රාගම මාර්ගයේ රාගම දෙසට ධාවනය වූ මෝටර් රථයක රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ අයිනේ ගමන්කළ පදිකයකුගේ ගැටී අනතුරක් සිදුව ඇත.
+
+...
+
+[Data](articles/b46c9f32.json)
+
+---
+
+### 88 postal operators suspend services to US over tariffs: UN
+
+*2025-09-07 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112241/88-postal-operators-suspend-services-to-us-over-tariffs-un) · `en`
+
+Postal traffic to the United States plunged more than 80 per cent following Washington’s imposition of new tariffs, with 88 operators worldwide fully or partially suspending services, the Universal Postal Union said on Saturday (Sep 6).
+
+The UPU, the United Nations’ postal cooperation agency, is working on “the rapid development of a new technical solution that will help get mail moving to the United States again”, its director general Masahiko Metoki said in a statement.
+
+US President Donald Trump’s administration announced in late July that it was abolishing a tax exemption on small packages entering the United States from Aug 29.
+
+The move sparked a flurry of announcements from postal services, including in Australia, Britain, France, Germany, India, Italy and Japan, that most US-bound packages would no longer be accepted.
+
+The UPU said data exchanged between postal operators via its systems showed that traffic to the United States was down 81 per cent on Aug 29, compared to a week earlier.
+
+...
+
+[Data](articles/69509888.json)
+
+---
+
+### අද පූර්ණ චන්ද්‍රග්‍රහණයක්
+
+*2025-09-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214262) · `si`
+
+ශ්‍රී ලංකාවට මෙන්ම ලොව බොහෝ රටවලට දිස්වන පූර්ණ චන්ද්‍රග්‍රහණයක් අද (07) සිදුවන බව‍ කොළඹ විශ්වවිද්‍යාලයේ තාරකා විද්‍යා සහ අභාවකාශ විද්‍යා ඒකකයේ අධ්‍යක්‍ෂ මහාචාර්ය චන්දන ජයරත්න මහතා පවසයි.
+
+අද රාත්‍රී 8.58 සිට හෙට (08) අලුයම 2.25 දක්වා පැය 5යි මිනිත්තු 27ක පමණ කාලයක් මෙම චන්ද්‍රග්‍රහණය නිරීක්ෂණය කිරීමේ දුර්ලභ අවස්ථාව හිමිවන බව ඔහු වැඩිදුරටත් පැවසුවේය.
+
+පුර්ණ චන්ද්‍රග්‍රහණය සම්පූර්ණයෙන් දිස්වීම අද රාත්‍රී 11.01  සිට හෙට අලුයම 12.22ක් දක්වා කාලය තුළ සිදුවන බවද සඳහන් වේ.
+
+එමෙන්ම මෙම චන්ද්‍රග්‍රහණය පූර්ණ වශයෙන් හෝ අර්ධ ග්‍රහණයක් වශයෙන් සියයට 85ක් පමණ ලෝක ජනතාවට දිස්වනු ඇත.
+
+2028 දක්වා මෙවැනි පූර්ණ චන්ද්‍රග්‍රහණයක් දැකීමට ශ්‍රී ලාංකිකයින්ට අවස්ථාව නොලැබෙන බව ද මහාචාර්යවරයා සඳහන් කළේය.
+
+ඔහු වැඩිදුරටත් පැවසුවේ මෙම විශේෂ දුර්ලභ සිද්ධිය භාවිතා කරමින් රාත්‍රී අහස නිරීක්ෂණ කඳවුරු පාසැල් මට්ටමින් පැවැත්වීම යෝග්‍ය බවය.
+
+◼️
+
+[Data](articles/ba70f069.json)
+
+---
+
+### පාසල් පැවැත්වෙන දිනවල වේලාවන් දෙකකදී ඛනිජ ප්‍රවාහන කටයුතු අත්හිටුවයි
+
+*2025-09-07 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214261) · `si`
+
+පාසල් පැවැත්වෙන දිනවල උදෑසන 6.30 සිට 7.45 දක්වා සහ උදෑසන 11.30 සිට පස්වරු 2.30 දක්වා කාලය තුළ ඛනිජ ප්‍රවාහන කටයුතු සිදුකිරීම අත්හිටුවීමට පියවර ගත් බව භූ විද්‍යා සමීක්ෂණ සහ පතල් කාර්යංශය පවසයි.
+
+එහි අධ්‍යක්ෂ ජනරාල් දීපානී වීරකෝන් මහත්මිය පැවසුවේ මීට සති කිහිපයකට පෙර වැලි ටිපර් රථයක පාසල් වෑන් රථයක් ගැටී සිදුවූ අනතුරින් පසු පැවති සාකච්ඡාවලින් අනතුරුව මෙම තීරණය ගත් බවය.
+
+ඒ අනුව එම කාලසීමාවන් තුළ ඛනිජ ප්‍රවාහන කටයුතු සිදුකරනු ලබන වාහන මාර්ගයේ ඉඩඇති ස්ථානවල නවතා තැබිය යුතු බවද දීපානී වීරකෝන් මහත්මිය පැවසුවාය.
+
+ඇය පැවසුවේ පසුගිය 04 වැනි දින සිට දිවයින පුරා ප්‍රාදේශීය ලේකම් කොට්ඨාස හරහා මෙම දැනුවත් කිරීම් සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/5e57f0de.json)
+
+---
+
+### Four dead in separate road accidents
+
+*2025-09-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112239/four-dead-in-separate-road-accidents) · `en`
+
+A total of four individuals, including a 22-year-old, have died in four separate road accidents reported yesterday (06) across various areas in the country.
+
+Accidents were reported in Kadawatha, Maradankadawala, Vellaveli, and Puthukkudiyiruppu, police stated.
+
+In one of the accidents, Police said the driver of a car heading towards Ragama along Dalupitiya –Ragama road lost control of the vehicle and hit a pedestrian walking on the roadside.
+
+The injured pedestrian was taken to Ragama Teaching Hospital but was pronounced dead upon admission.
+
+In another accident occurred at the Thawalanhalmillewa Junction on the A11 road in Maradankadawala, a car rammed into a bicycle from behind.
+
+The cyclist and a passenger on the bicycle sustained injuries and were admitted to Maradankadawala Hospital, where the cyclist was later pronounced dead.
+
+...
+
+[Data](articles/910a95fc.json)
+
+---
+
+### Mineral transportation suspended during two time slots on school days: GSMB
+
+*2025-09-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112238/mineral-transportation-suspended-during-two-time-slots-on-school-days-gsmb) · `en`
+
+Steps have been taken to suspend mineral transportation activities during school days from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 p.m. by the Geological Survey and Mines Bureau (GSMB).
+
+Director General of the Bureau Dipani Weerakoon said that the decision was taken following discussions held after an accident that occurred a few weeks ago, where a school van collided with a sand tipper truck.
+
+Accordingly, Weerakoon stated that vehicles engaged in mineral transportation during these time periods must be parked in appropriate areas off the main roads.
+
+She further said since September 4, instructions have been issued throughout the country via Divisional Secretariats.
+
+◼️
+
+[Data](articles/fadefffd.json)
+
+---
+
+### බිනර පුර පසළොස්වක පොහෝ දිනය අදයි
+
+*2025-09-07 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214260) · `si`
+
+භික්ෂුණී ශාසනය ආරම්භ කිරීම ඇතුළු ශාසන ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සනිටුහන් කළ වැදගත් පොහොය දිනයක් ලෙස මෙම පොහොය දිනය සැලකේ.
+
+කාන්තාවන්ට පැවිද්ද ලබාදෙමින් මහා ප්‍රජාපති ගෝතමී දේවිය ඇතුළු කාන්තාවන් 500 දෙනෙකු සසුනට එක්වීම මෙම පොහෝ දිනයේ සිදුවූ බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+
+තපස්සු, භල්ලුක වෙළෙඳ දෙබෑයන්, බුදුන් වහන්සේගේ කේශ ධාතු තැන්පත් කරන ලද ගිරිහඬු සෑය ඉදිකිරීමත්, බුදුන් වහන්සේගේ ලාලාට ධාතු තැන්පත් කර සේරුවාවිල මහා සෑය ඉදිකිරීමත් මෙම පොහොය දිනයේදී සිදුකර ඇති බවත් වාර්තා වේ.
+
+එමෙන්ම භික්ෂු භික්ෂුණී උපාසක උපාසිකා යන සිව්වනක් පිරිස ආරම්භ වන්නේ ද අද වැනි පෝය දිනයක වන අතර වස් සමයේ අතරමැදි පොහොය ලෙස ද මෙම බිනර පොහොය සැලකේ.
+
+අෂ්ට ගරු ධර්ම බුදුන්වහන්සේගෙන් විමසා ආනන්ද හිමියන් විසින් එය මහා ප්‍රජාපතිගෝතමී දේවියට පහදා දීමෙන් පසුව ගරුධර්ම ආරක්ෂා කරන බවට ප්‍රතිඥා ලබාදුන්නේද අදවන් දිනකයි.
+
+මේ අතර බිනර පුරපසළොස්වක පොහොය වෙනුවෙන් දිවයින පුරා පිහිටි වෙහෙර විහාරස්ථානවල දී අද දිනයේ ආමිස හා ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් ආගමික වැඩසටහන් සංවිධාන කර තිබේ.
+
+...
+
+[Data](articles/324e6314.json)
+
+---
+
+### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
+
+*2025-09-07 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112237/rare-total-lunar-eclipse-blood-moon-to-be-visible-from-sri-lanka-tonight) · `en`
+
+Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” later today (07), said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
+
+The spectacular celestial event is set to light up the skies tonight, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
+
+Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
+
+...
+
+[Data](articles/87b189e8.json)
+
+---
+
+### ඉදිරි දින කිහිපයේ කාලගුණයේ වෙනසක්
+
+*2025-09-07 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214259) · `si`
+
+ඉදිරි දින කිහිපයේදී  උතුරු, උතුරුමැද, නැගෙනහිර සහ ඌව පළාත්වල  සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පනසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරුමැද, නැගෙනහිර සහ ඌව පළාත්වල ප.ව. 2.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර, සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
+
+අද (07) දහවල් 12:08 ට මිරිස්ස, කඹුරුගමුව, මාතර, දෙවුන්දර, ගන්දර, සහ තලල්ල ප්‍රදේශවලට හිරු මුදුන්ව පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/495b67b1.json)
+
+---
+
+### UK police arrest about 425 at protest for banned Palestine Action
+
+*2025-09-07 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112236/uk-police-arrest-about-425-at-protest-for-banned-palestine-action) · `en`
+
+British police arrested around 425 people on Saturday (Sep 6) at a demonstration backing Palestine Action, the pro-Palestinian group banned by the government as a terrorist organisation.
+
+Britain outlawed Palestine Action in July after some of its members broke into a Royal Air Force base and damaged military planes. The group has also targeted defence firms with links to Israel, accusing the government of complicity in alleged Israeli war crimes in Gaza.
+
+Hundreds of demonstrators gathered near parliament in London to oppose the ban, holding signs that read: “I oppose genocide. I support Palestine Action.”
+
+Police said those detained were arrested for offences including assaulting officers and supporting a proscribed organisation. “Officers ... have been subjected to an exceptional level of abuse including punches, kicks, spitting and objects being thrown, in addition to verbal abuse,” London’s Metropolitan Police wrote on X.
+
+...
+
+[Data](articles/0eb18e6e.json)
+
+---
+
+### Binara Poya falls today
+
+*2025-09-07 05:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112235/binara-poya-falls-today) · `en`
+
+The Binara Full Moon Poya Day is considered a significant one in the history of Buddhism, marking several important events, including the establishment of the Bhikkhuni order.
+
+According to Buddhist history, it was on this Poya day that 500 women, including Maha Prajapati Gotami, were ordained and entered the monastic order, thereby granting ordination to women.
+
+Meanwhile, religious programs have been organized across temples and monasteries throughout the island today, focusing on both material (Amisa) and spiritual (Patipatti) offerings in observance of Binara Full Moon Poya Day.
+
+◼️
+
+[Data](articles/70a30324.json)
+
+---
+
+### Showery condition to enhance due to atmospheric disturbance
+
+*2025-09-07 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112234/showery-condition-to-enhance-due-to-atmospheric-disturbance) · `en`
+
+Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Eastern and Uva provinces during the next few days, the Department of Meteorology said.
+
+Meanwhile, showers or thundershowers can be expected in several places in the Northern, North-Central, Eastern and Uva provinces after 2.00 p.m. today (07), the Met. Department added.
+
+A few showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts as well.
+
+Meanwhile, the sun will be directly over the latitudes of Sri Lanka today due to its apparent southward relative motion.
+
+The nearest places of Sri Lanka over which the sun will be overhead today are Mirissa, Kamburugamuwa, Matara, Dondra, Gandara and Talalla at around 12.08 p.m.
+
+◼️
+
+[Data](articles/1c2af7d4.json)
+
+---
+
+### ’அபிவிருத்திக்கு எந்த நேரத்திலும் நிதியொதுக்க தயார்’
+
+*2025-09-07 03:07:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்திக்கு-எந்த-நேரத்திலும்-நிதியொதுக்க-தயார்/175-364113) · `ta`
+
+மக்களுக்கு அவசியமான அபிவிருத்தித் திட்டங்களுக்கு எந்த நேரத்திலும் நிதி ஒதுக்கத் தயாராக இருப்பதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க அறிவித்துள்ளார்.
+
+மொனராகலை மாவட்ட செயலகத்தில் நேற்று (06) நடைபெற்ற மொனராகலை மாவட்ட விசேட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இதனைத் தெரிவித்துள்ளார்.
+
+ஒரு அபிவிருத்தித் திட்டம் ஆரம்பிக்கப்படும்போது, அது நிறைவடையும் வரை இலக்கு மயப்பட்ட திட்டத்தை அரச அதிகாரிகள் வைத்திருக்க வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தியுள்ளார்.
+
+இந்த ஆண்டு முதல் ஆரம்பிக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் உரிய நேரத்தில் நிறைவு செய்ய வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க சுட்டிக்காட்டியுள்ளார். (a)
+
+◼️
+
+[Data](articles/dfa05938.json)
+
+---
+
+### ’ரிவிதனவி’ சூரிய மின்சக்தி பூங்கா நிர்மாணப் பணி ஆரம்பம்
+
+*2025-09-07 02:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிவிதனவி-சூரிய-மின்சக்தி-பூங்கா-நிர்மாணப்-பணி-ஆரம்பம்/175-364112) · `ta`
+
+இலங்கையின் மிகப்பெரிய புதுப்பிக்கத்தக்க எரிசக்தி முயற்சியான சியம்பலாண்டுவ 'ரிவிதனவி' சூரிய மின்சக்தி பூங்காவின் நிர்மாணப் பணிகள் நேற்று ஜனாதிபதி அநுர குமார திசாநாயக்கவின் தலைமையில் தொடங்கி வைக்கப்பட்டன.
+
+மொனராகலை மாவட்டத்தில் சியம்பலாண்டுவ, கொட்டியாகல பகுதியில் 500 ஏக்கர் காணியில் முன்னெடுக்கப்படவுள்ள 140 மில்லியன் அமெரிக்க டொலர் முதலீட்டிலான இந்த திட்டம், தேசிய மின்கட்டமைப்பில் 100 மெகாவோட் மின்சாரத்தைச் சேர்ப்பதுடன், ஆண்டுதோறும் 219 கிகாவோட் மின்சாரத்தை உற்பத்தி செய்யும்.
+
+இந்த திட்டத்தின் ஊடாக டீசல் இறக்குமதியைக் குறைப்பதன் மூலமும், ஒவ்வொரு ஆண்டும் 150,000 மெட்ரிக் தொன் கார்பன் வெளியேற்றத்தைக் குறைப்பதன் மூலமும் 21 பில்லியன் ரூபா அந்நியச் செலாவணியைச் சேமிக்க முடியும் என எதிர்பார்க்கப்படுகிறது.
+
+2030 ஆம் ஆண்டுக்குள் புதுப்பிக்கத்தக்க எரிசக்தியிலிருந்து 70 வீத மின்சாரத்தைப் பெறுவதற்கான இலங்கையின் இலக்கை நோக்கிய ஒரு முக்கிய படியாக இந்த முயற்சி பார்க்கப்படுகிறது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/d1e4fcda.json)
+
+---
+
+### மித்தெனியவில் கைக்குண்டுகள், தோட்டாக்கள் மீட்பு
+
+*2025-09-07 02:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தெனியவில்-கைக்குண்டுகள்-தோட்டாக்கள்-மீட்பு/175-364111) · `ta`
+
+மித்தெனிய - தலாவ பகுதியில் ஐஸ் ரக போதைப்பொருளை தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனப் பொருள்கள் கண்டுபிடிக்கப்பட்ட இடத்தில், வெளிநாட்டில் தயாரிக்கப்பட்ட ஐந்து கைக்குண்டுகளும், ரீ 56 ரகத்தைச் சேர்ந்த 18 தோட்டாக்களும் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+முன்னதாக, ஒழுங்கமைக்கப்பட்ட குற்றக்குழு உறுப்பினரான கெஹெல்பத்தர பத்மேவினால் வழங்கப்பட்ட தகவலுக்கமைய, அந்தப் பகுதியில் மேற்கொள்ளப்பட்ட அகழ்வில், 42 ஆயிரம் கிலோகிராம் நிறையுடைய ஐஸ் ரக போதைப்பொருள் உற்பத்திக்கு பயன்படும் மூலப்பொருள் மற்றும் இரசாயனம் அடங்கிய கலவை மீட்கப்பட்டிருந்தது. (a)
+
+◼️
+
+[Data](articles/9526ead3.json)
+
+---
+
+### A Passage North
+
+*2025-09-07 01:05:00* · [`islandlk`](http://island.lk/a-passage-north/) · `en`
+
+Soon after I read Brotherless Night, I found another book about the conflict, which was also a sort of pendent to the Booker Prize winning Seven Moons of Maali Almeida, and had indeed been shortlisted for the book the year before Shehan Karunatilleka won it.
+
+Unlike those two, which were a retelling of history, this was an introspective novel that explores something of the suffering caused by the war – though it did have set pieces within that were in fact retellings of actual episodes during the war.
+
+...
+
+[Data](articles/1434131e.json)
+
+---
+
+### Ceylinco Life posts premium income of Rs. 22.45 bn. in 1H 2025
+
+*2025-09-07 00:52:00* · [`islandlk`](http://island.lk/ceylinco-life-posts-premium-income-of-rs-22-45-bn-in-1h-2025-2/) · `en`
+
+Ceylinco Life has reported gross written premium of Rs. 22.45 billion and total income of Rs. 36.49 billion for the first half of 2025.
+
+Premium income for the six months ending 30th June 2025 was up 12.5 per cent over the corresponding period of last year, while investment and other income for the period totaled Rs 14.04 billion, resulting in consolidated income growing by 7.3 per cent, according to the company’s financial statements.
+
+Total assets reached Rs 266.38 billion as at 30th June, reflecting an increase of 5.9 per cent or Rs. 14.94 billion over six months, at an average of Rs. 2.5 billion a month. The company’s investments portfolio grew by 6.77 per cent over the period to Rs. 237.5 billion, while the Life Fund increased by 7.6 per cent to Rs. 194.7 billion, a growth of Rs. 13.8 billion since end 2024.
+
+...
+
+[Data](articles/4aa1b795.json)
+
+---
+
+### Weerasinghe Peiris launches new Punchi Punchi Tharu CDs (Volumes 2 & 3)
+
+*2025-09-07 00:51:00* · [`islandlk`](http://island.lk/weerasinghe-peiris-launches-new-punchi-punchi-tharu-cds-volumes-2-3/) · `en`
+
+Music Director, Weerasinghe Peiris unveiled the much-anticipated Punchi Punchi Tharu CD albums, Volumes 2 & 3, at Mother’s Care Preschool in Maharagama on July 17, 2025. The albums feature 31 original children songs, composed and written entirely by Mr. Weerasinghe Peiris, with melodies and arrangements crafted to engage and educate young listeners. The new collections include tracks such as Ha Petaw, Siribara Sri Lanka, Pera Pasala, Ran Goyame, and Amme in Volume 2, while Volume 3 introduces Chuti Kurullane, Thoppi Welendai Wanduru Penchai, Samanalayo, Muwa Petiyek, and Sellam Karana Teddy, among others. Additionally, the albums feature a song in English and Hindi, broadening their appeal.
+
+...
+
+[Data](articles/7fef3a23.json)
+
+---
+
+### ComBank achieves a world first with LoungeKey access for UnionPay Asia Prestige Cards
+
+*2025-09-07 00:51:00* · [`islandlk`](http://island.lk/combank-achieves-a-world-first-with-loungekey-access-for-unionpay-asia-prestige-cards/) · `en`
+
+The Commercial Bank of Ceylon PLC has become the first bank in the world to extend LoungeKey airport lounge access under the UnionPay Asia Prestige programme, following a partnership between the Bank and LoungeKey that will benefit holders of the Bank’s UnionPay Asia Prestige Diamond and Asia Prestige Platinum Credit Cards.
+
+This groundbreaking feature grants ComBank UnionPay Asia Prestige cardholders access to a network of over 1,500 airport lounges across more than 140 countries, simply by presenting their card, without the need for a separate lounge membership or mobile application.
+
+Through LoungeKey, cardholders can enjoy world-class lounge facilities at major international airports, including complimentary gourmet dining and beverages, private seating areas, high-speed Wi-Fi and workstations, and shower and wellness amenities at selected lounges.
+
+...
+
+[Data](articles/8b5bf916.json)
+
+---
+
+### Dubai Real Estate Roadshow comes to Colombo: Exclusive 1-to-1 consultations for Sri Lankan investors
+
+*2025-09-07 00:49:00* · [`islandlk`](http://island.lk/dubai-real-estate-roadshow-comes-to-colombo-exclusive-1-to-1-consultations-for-sri-lankan-investors/) · `en`
+
+...
+
+[Data](articles/f6cc4c83.json)
+
+---
+
+### Empire Teas unveils plans to launch new venture in Spain
+
+*2025-09-07 00:47:00* · [`islandlk`](http://island.lk/empire-teas-unveils-plans-to-launch-new-venture-in-spain/) · `en`
+
+Celebrating their 25th anniversary with tours, cultural experiences, and a gala dinner, Empire Teas Pvt. Ltd. welcomed its international partners to Sri Lanka and announced plans to launch a new venture in Spain. During the celebrations, the Chairman of Empire Spain Jaime shared plans to offer Spanish consumers a range of premium teas through a fresh collaboration with Empire. In China, Laury spoke proudly of bringing high-quality Ceylon and African teas to discerning buyers, while the company’s subsidiary, Empire Kenya, continues to strengthen its presence in East Africa. The anniversary programme brought together guests from key markets across Europe, Asia, and Africa – many of them long – standing partners in the company’s journey. Founder and Managing Director Lushantha de Silva said that the company’s passion for tea shapes every blend, whether under the Hyson, Thurson, Tea Avenue, or Akina labels. “This journey belongs to our partners as much as it belongs to us.” he said.
+
+...
+
+[Data](articles/d8eaeffd.json)
+
+---
+
+### Sampath Bank and Sathosa Motors partner to deliver lower interest rates and special discounts
+
+*2025-09-07 00:31:00* · [`islandlk`](http://island.lk/sampath-bank-and-sathosa-motors-partner-to-deliver-lower-interest-rates-and-special-discounts/) · `en`
+
+Sampath Bank PLC and Sathosa Motors PLC have partnered to offer exclusive benefits to vehicle buyers. The Memorandum of Understanding (MoU) was signed recently at the Bank’s Head Office, marking progress in expanding affordable transport options in Sri Lanka.
+
+Customers buying vehicles from Sathosa Motors will gain access to tailored financial solutions from Sampath Bank, subject to standard regulations. These include a 0.5% interest rate reduction on vehicle lease, interest-free loans for insurance premiums if settled within two months, and credit cards issued without a joining fee. Insurance payments via these cards can be repaid over 12 months at 0% interest for increased convenience.
+
+...
+
+[Data](articles/27d87f3d.json)
+
+---
+
+### Sun Siyam marks 35 years with brand transformation and new experiences
+
+*2025-09-07 00:28:00* · [`islandlk`](http://island.lk/sun-siyam-marks-35-years-with-brand-transformation-and-new-experiences/) · `en`
+
+Sun Siyam Group has unveiled a major brand transformation to mark 35 years of Maldivian hospitality, introducing a unified identity under The House of Siyam and a bold new brand statement, The Home of the Maldivian Spirit. The revamp spans six resorts, including the group’s Sri Lankan retreat, and is designed to elevate guest experiences while reinforcing cultural authenticity.
+
+The resorts are now organised into three collections: Luxury, led by Sun Siyam Iru Fushi; Lifestyle, featuring Sun Siyam Olhuveli and Siyam World; and Privé, encompassing Sun Siyam Iru Veli, Sun Siyam Vilu Reef, and Sun Siyam Pasikudah in Sri Lanka. Each collection offers tailored experiences, from premium island indulgence to intimate barefoot hideaways and vibrant family adventures.
+
+...
+
+[Data](articles/3c02ba37.json)
+
+---
+
+### மித்தெனியவில் கைக்குண்டுகள் மற்றும் வெடிப்பொருட்கள் மீட்பு
+
+*2025-09-07 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224402) · `ta`
+
+ஹம்பாந்தோட்டை மாவட்டத்தின் மித்தெனிய தலாவ பகுதியில், ஐஸ் வகை போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்ட இரசாயனங்கள் கண்டுபிடிக்கப்பட்ட இடத்தில் இருந்து கைக்குண்டுகள் மற்றும் பல்வேறு வெடிப்பொருட்கள் மீட்கப்பட்டுள்ளன.
+
+மேல் மாகாண வடக்கு குற்றப் புலனாய்வு பிரிவு அதிகாரிகளும், விசேட அதிரடிப் படையினரும் இணைந்து, சனிக்கிழமை (06) இந்த மீட்புப் பணிகளை மேற்கொண்டனர்.
+
+இதன்போது, வெளிநாட்டில் தயாரிக்கப்பட்ட 5 கைக்குண்டுகள், T-56 துப்பாக்கிக்கான 17 தோட்டாக்கள், மேலும் பிற துப்பாக்கிகளுக்குப் பயன்படுத்தப்படும் 3 தோட்டாக்கள் ஆகியவை, அப்பகுதியில் உள்ள மரவள்ளிக்கிழங்கு தோட்டத்தருகில் புதிதாக வெட்டப்பட்ட கானிலிருந்து மீட்கப்பட்டன.
+
+◼️
+
+[Data](articles/fc6d0525.json)
+
+---
+
+### மட்டக்களப்பு புல்லுமலை தண்ணீர் தொழிற்சாலைக்கு எதிர்ப்பு! அனுமதி வழங்கினால் மக்கள் போராட்டம் வெடிக்கும்!
+
+*2025-09-07 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224401) · `ta`
+
+மட்டக்களப்பு புல்லுமலை பகுதியில் நிலத்தடி நீரை உறிஞ்சி விற்கும் தண்ணீர் தொழிற்சாலைக்கு அனுமதி வழங்கினால் அனுர அரசுக்கு எதிராக மக்கள் போராட்டம் வெடிக்கும் என தமிழரசுக் கட்சியின் ஏறாவூர் பற்று உப தவிசாளர் உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+
+அங்கு கருத்து தெரிவித்த சிரேஸ்ட ஊடகவியலாளரும் ஏறாவூர் பற்று பிரதேச சபை உறுப்பினருமான செ.நிலாந்தன், ஏறாவூர் பற்று பிரதேச சபை உபதவிசாளர் சர்வானந்தன் உட்பட உறுப்பினர்கள் இதன்போது கருத்து தெரிவித்தனர்.
+
+குடிநீரை என்பது ஒரு விற்பனை பொருள் அல்ல அது இறைவனால் மனிதர்களின், உயிரினங்களின் தாகத்தை போக்குவதற்காக படைக்கப்பட்ட இயற்கை வளம் அதனை உறிஞ்சி விற்பனை செய்வதற்கு அனுமதி வழங்குவதை தேசிய மக்கள் சக்தி அரசாங்கம் நிறுத்த வேண்டும்.
+
+...
+
+[Data](articles/0a8c5413.json)
+
+---
+
+### The guardians of the world
+
+*2025-09-07 00:00:00* · [`islandlk`](http://island.lk/the-guardians-of-the-world/) · `en`
+
+By cultivating within ourselves the qualities of moral shame and fear of wrongdoing we not only accelerate our own progress along the path to deliverance, but also contribute our share towards the protection of the world. Given the intricate interconnections that hold between all living forms, to make the sense of shame and fear of wrong the guardians of our own minds is to make ourselves guardians of the world. As the roots of morality, these two qualities sustain the entire efficacy of the Buddha’s liberating path; as the safeguards of personal decency, they at the same time preserve the dignity of the human race.
+
+...
+
+[Data](articles/5008f708.json)
+
+---
+
 ### 2025-09-06 (Saturday)
+
+### முல்லைத்தீவில் வாகன விபத்தில் ஒருவர் பலி
+
+*2025-09-06 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224400) · `ta`
+
+முல்லைத்தீவு – புதுக்குடியிருப்பு பொலிஸ் பிரிவுக்குட்பட்ட உடையார்கட்டு பகுதியில் சனிக்கிழமை (06) இரவு இடம்பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்தார்.
+
+யாழ்ப்பாணத்திலிருந்து புதுக்குடியிருப்பு நோக்கிச் சென்ற மோட்டார் சைக்கிள், எதிர்திசையில் வந்த மற்றொரு மோட்டார் சைக்கிளுடன் மோதியதில் இந்த விபத்து ஏற்பட்டது.
+
+சம்பவத்தில் ஒரு மோட்டார் சைக்கிளை செலுத்தியவர் இடத்திலேயே உயிரிழந்தார். மேலும், இன்னொருவர் காயமடைந்து தர்மபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்டு, பின்னர் மேலதிக சிகிச்சைக்காக கிளிநொச்சி வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+◼️
+
+[Data](articles/5abb00ce.json)
+
+---
+
+### POWER POLITICS
+
+*2025-09-06 23:54:00* · [`islandlk`](http://island.lk/power-politics-2/) · `en`
+
+It is said that Kotelawala made an application to the Central Bank for the transfer of a large sum of money to Britain for the purchase of property. NU mentioned that the application was made during the first premiership of Dudley Senanayake, “as financial protection from unsettling forces which he [Kotelawala] felt would overtake the country” (N.U. Jayawardena, c.1985, p.62). According to the Central Bank and Exchange Control regulations at that time, the transfer of such a large sum was not permissible, and would have violated existing regulations. As such, NU recommended the refusal of Kotelawala’s application to the Finance Minister J.R. Jayewardene and Prime Minister Dudley Senanayake. This action would have serious repercussions in the future. NU’s daughter describes this episode:
+
+...
+
+[Data](articles/2676c3fd.json)
+
+---
+
+### Arundhati Roy’s international splash with her 2025 non-fiction book
+
+*2025-09-06 23:50:00* · [`islandlk`](http://island.lk/arundhati-roys-international-splash-with-her-2025-non-fiction-book/) · `en`
+
+She writes autobiographically on her life with her mother and brother and titles her book Mother Mary Comes To Me, mother Mary being her own mother – Mary Roy, a Malayali Jacobite Syrian Christian who was educator and women’s rights activist known for winning a Supreme Court lawsuit in 1986 awarding equal rights to women to inherit family property. The book is published by Hamish Hamilton. I was sent a Guardian article which was an edited extract from the book.
+
+It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees were full of scars and cuts – a sign of my wild, imperfect, fatherless life.’ The book appears to be starkly telling, cruelties and all, with a mother who was ill with asthma and on steroids and very very short tempered, who vented her wrath on her two small children. It seems to be brutally honest and thus the sympathy the reader feels will be for the two children; the mother too.
+
+...
+
+[Data](articles/d91db4f3.json)
+
+---
+
+### எல்ல விபத்து: சாரதி போதைப்பொருள் பயன்படுத்தியிருந்தாரா?
+
+*2025-09-06 23:23:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-விபத்து-சாரதி-போதைப்பொருள்-பயன்படுத்தியிருந்தாரா/175-364110) · `ta`
+
+எல்ல வனப்பகுதியில் விழுந்து விபத்துக்குள்ளான பேருந்தின் சாரதியினுடைய இரத்த மாதிரிகள் நாளை (7) மேலதிக பரிசோதனைக்காக அரச இரசாயன பகுப்பாய்வாளருக்கு அனுப்பப்படும் என எல்ல பொலிஸார் தெரிவித்தனர்.
+
+தங்காலை நகரசபையின் ஊழியர்கள் குழுவொன்று நுவரெலியாவுக்கு சுற்றுலா சென்று மீண்டும் தங்காலைக்கு தங்களது குடும்ப உறுப்பினர்களுடன் திரும்பிக் கொண்டிருந்த பேருந்து 4 ஆம் திகதி இரவு எல்ல-வெல்லவாய பிரதான வீதியில் 15 ஆவது மைல்கல் பகுதியில் சொகுசு வாகனமொன்றுடன் மோதி பின்னர் வீதியின் அருகே இருந்த தடுப்புச் சுவரில் மோதி ராவண எல்ல பள்ளத்தாக்கில் வீழ்ந்து விபத்துக்குள்ளானது.
+
+சுற்றுலாப் பேருந்தின் சாரதியான தங்காலை, ஹெனகடுவவைச் சேர்ந்த சிரத் திமந்த (25) என்ற இளைஞரும் இந்த விபத்தில் உயிரிழந்தார்.
+
+குறித்த பேருந்தை செலுத்தும் போது அதன் சாரதி போதைப்பொருள் அல்லது மதுபானம் பயன்படுத்தியிருந்தாரா என்பதை அறிய, அவரது இரத்த மாதிரிகள் மேலதிக பரிசோதனைக்காக அரச இரசாயன பகுப்பாய்வாளருக்கு சமர்ப்பிக்கப்படும் என்று எல்ல பொலிஸ் நிலைய அதிகாரி ஒருவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/a229871f.json)
+
+---
+
+### වෙනිසියුලාවට ට්‍රම්ප්ගෙන් අනතුරු ඇඟවීම්
+
+*2025-09-06 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214258) · `si`
+
+වෙනිසියුලානු ජෙට් යානා අමෙරිකානු නාවික නැව්වලට ඉහළින් පියාසර කර අනතුරක් සිදු වුවහොත් එම යානාවලට වෙඩි තබා බිම හෙළන බවට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අනතුරු අඟවා තිබේ.
+
+දින දෙකක් තුළ දෙවන වරටත් දකුණු අමෙරිකාවට ඔබ්බෙන් වූ අමෙරිකානු නෞකාවක් අසල වෙනිසියුලානු හමුදා ගුවන් යානා පියාසර කිරීමෙන් පසුව ජනාධිපතිවරයා මෙම අනතුරු ඇඟවීම සිදු කර ඇත.
+
+වෙනිසියුලාවෙන් "මත්ද්‍රව්‍ය ගලා එන" බවත්, එක්සත් ජනපදයේ ත්‍රස්තවාදී සංවිධානයක් ලෙස තහනම් කර ඇති කල්ලියක් වන ට්‍රෙන් ඩි අරගුවා හි සාමාජිකයින් එහි ජීවත් වන බවත් එහිදී ට්‍රම්ප් පවසා තිබේ.
+
+මත්ද්‍රව්‍ය ගලායාම වැළැක්වීම සඳහා අතිරේක නාවික යාත්‍රා සහ මැරීන් භටයින් මෙන්ම නාවිකයන් යෙදවීමට එක්සත් ජනපද හමුදාව පියවර ගෙන ඇති අතර දකුණු කැරිබියන් කලාපය තුළ සිය හමුදා ශක්තිය වර්ධනය කිරීමටත් පියවර ගෙන ඇත.
+
+මේ අතර ට්‍රම්ප්ගේ පළමු ධුර කාලය තුළ, එක්සත් ජනපදය ඉහළ පෙළේ වෙනිසියුලානු නිලධාරීන්ට මත්ද්‍රව්‍ය, ත්‍රස්තවාදය, දූෂණය සහ මත්ද්‍රව්‍ය ජාවාරම ඇතුළු විවිධ වැරදි සම්බන්ධයෙන් චෝදනා එල්ල කර තිබුණි.
+
+◼️
+
+[Data](articles/01c248c8.json)
+
+---
+
+### Thondaman’s role in aborting Premadasa impeachment and Speaker Mohamed’s perfidy
+
+*2025-09-06 22:19:00* · [`islandlk`](http://island.lk/thondamans-role-in-aborting-premadasa-impeachment-and-speaker-mohameds-perfidy/) · `en`
+
+As planned the Speaker addressed a letter to the President stating that he had accepted a motion of impeachment presented to him by more than half the number of MPs and therefore section 38 of the constitution was now brought into play. This letter was brought by the President to the Cabinet which proceeded unanimously to declare their confidence in Premadasa. At this meeting Lalith and Premachandra who were Cabinet ministers at that time had also voted in favour of a confidence vote in the President though by this time they had affixed their signatures to the motion referred to by the Speaker.
+
+...
+
+[Data](articles/1a2aed44.json)
+
+---
+
+### China’s Xi Jinping hosts a Summit of leaders of half the world, with a spectacular display of military force
+
+*2025-09-06 22:04:00* · [`islandlk`](http://island.lk/chinas-xi-jinping-hosts-a-summit-of-leaders-of-half-the-world-with-a-spectacular-display-of-military-force/) · `en`
+
+On September 1, The International Association of Genocide Scholars (IAGS) based in The Hague, Netherlands, passed a resolution that “legal criteria have been met to establish Israel is committing genocide in Gaza”.
+
+Israel’s conduct also meets the legal definition as laid out in the 1948 United Nations convention on genocide, which was adopted following the mass murder of Jews by Nazi Germany. The convention defines genocide as “crimes committed with intent to destroy, in whole or part, a national, ethnic, racial or religious group”.
+
+The IAGS recognize that while the October 7, 2023 Hamas attack on Israel, in which about 1,200 people were killed and 251 others taken hostage, was itself a war crime, “Israel’s response has not only been directed towards Hamas but has targeted Gaza’s entire (Palestinian) population”.
+
+...
+
+[Data](articles/1211b76b.json)
+
+---
+
+### Grenades and ammunition recovered near site of ‘Ice’ manufacturing chemicals
+
+*2025-09-06 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112233/grenades-and-ammunition-recovered-near-site-of-ice-manufacturing-chemicals) · `en`
+
+Officers of the Western North Crime Division, in collaboration with the Special Task Force (STF), recovered a cache of ammunition and grenades today (06) from the property in Thalawa, Middeniya in Hambantota District, where chemicals allegedly used in the production of ‘Ice’ (crystal methamphetamine) had previously been discovered.
+
+According to police, the recovery was made from a newly dug ditch near a cassava plantation in the said property.
+
+The items seized include five foreign-manufactured hand grenades, 17 rounds of T-56 ammunition, and three bullets used for 12-bore firearms, said police.
+
+◼️
+
+[Data](articles/7aa351fb.json)
+
+---
+
+### ආරම්භ කෙරෙන සියලු සංවර්ධන ව්‍යාපෘති නියමිත දිනට අවසන් කළ යුතුයි - ජනපති
+
+*2025-09-06 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214257) · `si`
+
+දිස්ත්‍රික් මට්ටමින් ක්‍රියාත්මක සංවර්ධන ව්‍යාපෘති ප්‍රමාද වීම වළක්වා ගනිමින් එහි ප්‍රතිලාභ නියමිත කාලය තුළ ජනතාවට ලබා දීම අදාළ දිස්ත්‍රික්කයේ රාජ්‍ය නිලධාරින්ගේ වගකීම බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව පැවසුවේ අද (06) පස්වරුවේ මොනරාගල දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවති මොනරාගල දිස්ත්‍රික් විශේෂ සම්බන්ධීකරණ කමිටු රැස්වීම අමතමිනි.
+
+එහිදී අදහස් දක්වමින් ජනාධිපතිවරයා පැවසුවේ යම් සංවර්ධන ව්‍යාපෘතියක් ආරම්භ කළ විට එය අවසන් කරන දිනය දක්වා ඉලක්කගත සැලැස්මක් ඔවුන් සතුව තිබිය යුතු බවත්ය.
+
+පසුගිය කාලයේ ආරම්භ කළ සංවර්ධන ව්‍යාපෘති නියමිත කාලයට අවසන් නොකිරීම සහ ඒවායේ ව්‍යාපෘති කාලය දීර්ඝ කරමින්, ඇස්තමේන්තුගත වියදම ඉහළ නැංවීම හේතුවෙන් එම ව්‍යාපෘතින්හි ප්‍රතිලාභ මෙන්ම ආයෝජනය කරන මුදලේ ප්‍රතිලාභද රටට අහිමි වු බව අවධාරණය කළ ජනාධිපතිවරයා මේ වසරේ සිට ආරම්භ කෙරෙන සියලු සංවර්ධන ව්‍යාපෘති නියමිත දිනට අවසන් කිරීමට කටයුතු කළ යුතු බවද ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/59302920.json)
+
+---
+
+### Is the  JVP-led NPP Govt Weaponising the Law to Target Former President Ranil Wickremesinghe?Over his UK trip ?
+
+*2025-09-06 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86405) · `en`
+
+United National Party (UNP) leader Ranil Wickremesinghe has been in politics for more than five decades. Wickremesinghe who has served as Member of Parliament, Deputy Minister, Cabinet Minister, leader of the Opposition, Prime Minister and President has often been described as a “spent force” in politics. The resilient Ranil has always proved his detractors wrong by bouncing back into the ring spiritedly. Recent events seem to indicate that the irrepressible Ranil Wickremesinghe may yet again demonstrate that he is a person who cannot be written off easily.
+
+...
+
+[Data](articles/54a90439.json)
+
+---
+
+### අනතුරට ලක්වූ බසයේ දෝෂයක්
+
+*2025-09-06 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214256) · `si`
+
+ඇල්ල වැල්ලවාය ප්‍රදේශයේ අනතුරට ලක්වූ බස් රථයේ යාන්ත්‍රික දෝශයක් තිබූ බවට අනාවරණය වී ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුට්ලර් මහතා පවසයි.
+
+අනතුරට පත් අදාළ බස් රථය දැඩි පරිශ්‍රමයක් දරා ඊයේ රාත්‍රියේ දී ප්‍රපාතයෙන් ගොඩ ගැනුණි.
+
+සම්පූර්ණයෙන් විනාශ වී ගොස් තිබූ බස් රථයේ කොටස් ඇල්ල පොලිස් ස්ථානය වෙත රැගෙන ගිය අතර ජාතික ප්‍රවාහන අධිකාරියේ නිලධාරින් ද බස් රථයේ සුන්බුන් පරීක්ෂාවට ලක් කළේය.
+
+එමෙන්ම අනතුර සිදුවූ ස්ථානයත් ප්‍රවාහන අධිකාරියේ නිලධාරින් අද පරීක්ෂාවට ලක් කළේය.
+
+බස් රථයේ සුන්බුන් ලබන 08 වැනිදා රජයේ රස පරීක්ෂකවරයා වෙත යොමු කිරීමට නියමිතය.
+
+15 දෙනකුට මරු කැඳවූ මෙම බස් රථ අනතුට හේතුව මෙතෙක් නිශ්චිතව අනාවරණ වී නොමැත.
+
+කෙසේ වෙතත් එම බස් රථයේ කොන්දොස්තරවරයා සහ එහි ගමන් පුද්ගලයෙකු පැවසුවේ, හිටි හැටියේ තිරිංග අක්‍රීය වූ බවට රියැදුරුවරයා කෑ ගසා පැවසූ බවය.
+
+මේ අතර ඇල්ල වැල්ලවාය මාර්ගයේ අනතුරට ලක්වූ බස් රථය 2023 ජාතික ගමනාගමන කොමිෂන් සභාවේ ලියාපදිංචියෙන් ඉවත් වූ බස් රථයක් බව ප්‍රවාහන හා මහාමාර්ග නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
+
+...
+
+[Data](articles/df6b11e6.json)
+
+---
+
+### මිද්දෙණියේ අයිස් අමුද්‍රව්‍ය හමුවූ ඉඩමේ තිබී අත් බෝම්බ සහ උණ්ඩ කිහිපයක් හමුවෙයි
+
+*2025-09-06 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214255) · `si`
+
+හම්බන්තොට මිද්දෙණිය තලාව ප්‍රදේශයේදී සොයාගත් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීම සඳහා යොදාගන්නා රසායන ද්‍රව්‍ය තිබූ භූමිය තුළ තිබියදි ගිනි අවි සඳහා භාවිත කරන උණ්ඩ සහ අත්බෝම්බ කිහිපයක් බස්නාහිර උතුර අපරාධ කොට්ඨාශයේ නිලධාරීන් හා විශේෂ කාර්ය බළකා නිලධාරීන් අද (06) සොයා ගෙන තිබේ.
+
+එහිදී එම භූමියේ මඤ්ඤොක්කා වගාවක් ආසන්නයේ තිබූ අලුත කැපූ කාණුවක තිබී විදේශ රටක නිෂ්පාදිත අත් බෝම්බ පහක් T 56 ගිනි අවිස සඳහා යොදා ගන්නා උණ්ඩ 17ක් බෝරා 12 ගිනි අවි උණ්ඩ තුනක් එම නිලධාරීන් විසින් සොයා ගනු ලැබීය.
+
+◼️
+
+[Data](articles/8ec5a34d.json)
+
+---
+
+### Police seize over 20 kg of Kush cannabis at BIA
+
+*2025-09-06 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112232/police-seize-over-20-kg-of-kush-cannabis-at-bia) · `en`
+
+Officers of the Police Narcotics Bureau (PNB) have seized 20.9 kilograms of Kush cannabis, with an estimated street value of Rs. 200 million, at the Bandaranaike International Airport (BIA) in Katunayake.
+
+Police have also arrested the suspected smuggler, who had arrived from Thailand, in the Grandpass area.
+
+◼️
+
+[Data](articles/75ce49c4.json)
+
+---
+
+### දෙවැනි විස්සයි20 තරගයෙන් ලංකාවට දරුණු පරාජයක්
+
+*2025-09-06 19:56:59* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-විස්සයි20-තරගයෙන්-ලංකාවට-දරුණු-පරාජයක්/9-418317) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමගින් පැවැති දෙවැනි විස්සයි 20 තරගයෙන් කඩුලු පහක පහසු ජයක් වාර්තා කිරිමට සත්කාරක සිම්බාබ්වේ කණ්ඩායම සමත්විය.
+
+කාසියේ වාසිය දිනාගත් සිම්බාබ්වේ කණ්ඩායමේ ඇරයුමෙන් මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 17.4කදී සියලු දෙනා දැවී රැස්කර ගත හැකිවූයේ ලකුණු 80ක් පමණි.
+
+ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් වැඩිම ලකුණු රැස්කළ පිතිකරුවා වූ කමිල් මිෂාර පන්දු 20කදී ලකුණු 20ක් රැස් කළේය.
+
+ලකුණු 81ක ජයග්‍රාහී ඉලක්කයක් හඹා යාමට පිටියට පිවිසි සිම්බාබ්වේ කණ්ඩායම පන්දුවාර 14.2කදී කඩුලු පහක් දැවී ලකුණු 84ක් රැස්කරමින් තරගය ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/f2edd420.json)
+
+---
 
 ### දෙවන විස්සයි20 තරගයෙන් සිම්බාබ්වේ පිලට පහසු ජයක්
 
@@ -52,11 +1086,41 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-06 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214252) · `si`
 
-රුපියල් මිලියන 200ක් වටිනා කුෂ් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 20.9ක් සමග සැකකරුවෙකු බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේදී පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+රුපියල් විසි කෝටි අනූ ලක්ෂයක් වටිනා කුෂ් මත්ද්‍රව්‍ය තොගයක්, කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ ගමන් මලු පථයක් අසළ අතහැර දැමූ ගමන් මල්ලක තිබී සොයා ගෙන තිබේ.
+
+අදාළ ගමන් මල්ල ඉකුත් 06/28 දින උදෑසන 09.45ට තායිලන්තයේ බැංකොක් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 403 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණ තිබුණි.
+
+මෙම ගමන් මල්ලේ හිමිකරු ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි 53 හැවිරිදි පුද්ගලයෙකු වන අතර ඔහු අද (06) කොළඹ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ රැදී සිටියදී පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙම ගමන් මල්ල තුළ '' කුෂ්" මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 20යි ග්‍රෑම් 900ක් ඇසුරුම් 19ක් ලෙස සකස් කර සගවා ගෙන තිබූ බවද වාර්තා වේ.
+
+අත්අඩංගුවට ගත් සැකකරුවා මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
 
 ◼️
 
 [Data](articles/21149adc.json)
+
+---
+
+### Motorcyclist involved in Panchikawatta shooting arrested
+
+*2025-09-06 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112231/motorcyclist-involved-in-panchikawatta-shooting-arrested-) · `en`
+
+Police have arrested the motorcyclist allegedly involved in the shooting incident that took place in the Panchikawatta area of Maradana, Colombo this morning (6).
+
+Police said that offices attached to Modara Police were able to arrest the motorcyclist within a few minutes of the shooting.
+
+The suspect who was arrested is a 21-year-old resident of Bodhiraja Mawatha in Maligawatta and is a close associate of an organized criminal known as ‘Keselwatte Kavi’, police said.
+
+Following the release of a police alert regarding the shooting, two Police Sergeants of the Modara police station, who were on night motorcycle duty, had managed to surround the fleeing motorcyclist with the assistance of another police officer.
+
+The suspect had then fled to the Kimbula Ela Watta area in Madampitiya after his motorcycle had toppled on the road.
+
+The three police officers have then launched a search operation in the area and the suspect, who had been hiding there, had managed to escape in a three-wheeler.
+
+...
+
+[Data](articles/cc172ac9.json)
 
 ---
 
@@ -114,7 +1178,45 @@ The project, being built on a land area of approximately 500 acres in the Kotiya
 
 ---
 
-### මාළිගාවත්ත වෙඩිතැබීමේ යතුරුපැදිකරු අත්අඩංගුවට
+### Sri Lanka President flags off US$140mn, 100MW solar power plant
+
+*2025-09-06 18:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-flags-off-us140mn-100mw-solar-power-plant-239627/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake has flagged off the construction of a 100MW solar farm which will be built at a cost of 140 million US dollars, his office said in a statement.
+
+The plant is expected to generate about 219GigaWatt hours of energy each year indicating about 25 percent plant factor.
+
+The project, is built on 500 acres of land in the Kotiyagala Grama Niladhari Division of the Siyambalanduwa Divisional Secretariat in the Monaragala District.
+
+The Presidential secretariat worked closely to with multiple agencies to get 12 approvals during the past 6 to 9 months, chairman of Sri Lanka Sustainable Energy Authority, Wijendra Bandara, was quoted as saying at a ceremony on September 06.
+
+He was prepared to work with the government and propose a streamlined procedure under one roof, to accelerate such approvals for investors in the future.
+
+The plant was approved by in 2023 by the last administration during an economic crisis, when material costs were higher.
+
+...
+
+[Data](articles/b4f24345.json)
+
+---
+
+### ඇල්ල අනතුරේ බස් රියදුරුගේ රුධිරය රජයේ රස පරීක්ෂකට යවයි
+
+*2025-09-06 18:46:30* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේ-බස්-රියදුරුගේ-රුධිරය-රජයේ-රස-පරීක්ෂකට-යවයි/11-418316) · `si`
+
+ඇල්ල 15කනුව ප්‍රදේශයේදී  15කට මරු කැදවමින් 18 කට තුවාල සිදුකර රාවණා ඇල්ල රක්ෂිතයේ අඩි දහසක පමන ප්‍රපාතයකට පෙරලීගිය විනෝද චාරිකා බස්‍ රථය පැදවූ රියදුරුගේ රුධිර සාම්පල හෙට (7) වැඩ්දුර පරීක්ෂණ කටයුතු සදහා රජයේ රස පරීක්ෂකවරයා වෙත යොමු කරන බව ඇල්ල පොලිසිය පවසයි .
+
+තංගල්ල නගර සභාවේ සේවකයන් පිරිසක් සිය පවුලේ සාමාජිකයන් සමග නුවරඑළිය විනෝද චාරිකාවක ගොස් ආපසු තංගල්ල බලා ගමන් කරමින් සිටියදි ඉකුත් 4 වනදින රාත්‍රි ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 15 කනුව ප්‍රදේශයේ දී මෙම විනෝද චාරිකා පෞද්ගලික බස් රථය මාර්ගයේ ධාවනය වෙමින් තිබූ සුඛෝපභෝගී ජීප් රථයකද ගැටී පසුව මාර්ගය අසල තිබු ආරක්ශිත යකඩ වැටේ ගැටී රාවණා ඇල්ල ප්‍රපාතයට පෙරලීයාමෙන් මෙම අනතුර සිදුව තිබින .
+
+අනතුරින් එම විනෝද චාරිකා බස්‍ රථයේ රියැදුරු තංගල්ල  හේනකඩුව පදිංචි තෝමරා හැන්නැදිගේ චිරාත් දිමන්ත(25) නැමති තරුණ  රියැදුරුද මියගියේය .
+
+...
+
+[Data](articles/cfbf8f1b.json)
+
+---
+
+### මරදාන වෙඩිතැබීමේ යතුරුපැදිකරු අත්අඩංගුවට
 
 *2025-09-06 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214251) · `si`
 
@@ -296,6 +1398,20 @@ He said that security guarantees would be needed for both Russia and Ukraine.
 
 ### தேடப்பட்டு வந்த பியல் மனம்பேரி கைது
 
+*2025-09-06 17:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேடப்பட்டு-வந்த-பியல்-மனம்பேரி-கைது/150-364095) · `ta`
+
+பொலிஸாரால் தேடப்பட்டு வந்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பிரதேச சபை உறுப்பினர் பியல் மனம்பேரி கைது செய்யப்பட்டுள்ளார்.
+
+மித்தெனிய, தலாவ பகுதியில் உள்ள வீடொன்றில் நேற்று புதைக்கப்பட்டிருந்த நிலையில் ஐஸ் ரக போதைப்பொருளை தயாரிக்கப் பயன்படுத்தப்படும் சுமார் 50,000 கிலோகிராம் இரசாயனங்கள் கண்டுபிடிக்கப்பட்ட சம்பவம் தொடர்பில் இவர் தேடப்பட்டு வந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/ca9b5f26.json)
+
+---
+
+### தேடப்பட்டு வந்த பியல் மனம்பேரி கைது
+
 *2025-09-06 17:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பியல்-மனம்பேரி-கைது/175-364095) · `ta`
 
 பொலிஸாரால் தேடப்பட்டு வந்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பிரதேச சபை உறுப்பினர் பியல் மனம்பேரி கைது செய்யப்பட்டுள்ளார்.
@@ -305,6 +1421,28 @@ He said that security guarantees would be needed for both Russia and Ukraine.
 ◼️
 
 [Data](articles/e3471b20.json)
+
+---
+
+### சிறிய ரயில்களை உருவாக்க இலங்கை ரயில்வே திணைக்களம் திட்டம்!
+
+*2025-09-06 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224388) · `ta`
+
+கிராமப்புற பாதைகளில் இயக்க மூன்று பெட்டிகள் கொண்ட சிறிய ரயில்களை உருவாக்க இலங்கை ரயில்வே திணைக்களம் திட்டமிட்டுள்ளதாக அமைச்சர் நளிந்த ஜெயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+குறித்த ரயிலில், ஒவ்வொரு பெட்டியும் டீசல் எஞ்சின் மூலம் இயக்கப்படும் என தெரிவிக்கப்படுகிறது.
+
+அதேநேரம், மின்னணு அமைப்பால் கட்டுப்படுத்தப்படும் ரயில் பெட்டிகளை இணைக்க அமைச்சரவை அனுமதி அளித்துள்ளது.
+
+சிறிய ரயில்களில் சுமார் 200 முதல் 240 பயணிகளை ஏற்றிச் செல்ல முடியும்.
+
+ஏற்கனவே சில ரயில் பேருந்துகள் (ரயில் பாதைகளில் ஓடக்கூடிய சக்கரங்களைக் கொண்ட ஒரு பெட்டி பேருந்து) இருந்தன.
+
+ஆனால் தற்போதுள்ள கால அட்டவணைகளுடன் அவற்றை இயக்குவதில் நடைமுறை சிக்கல்கள் காணப்படுவதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/1ec0af06.json)
 
 ---
 
@@ -449,6 +1587,20 @@ He said that security guarantees would be needed for both Russia and Ukraine.
 ◼️
 
 [Data](articles/5004cf85.json)
+
+---
+
+### President AKD’s Vision For North With Seeds, Seas & Stadiums
+
+*2025-09-06 15:27:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-akds-vision-for-north-with-seeds-seas-stadiums/) · `en`
+
+“True unity is not written in speeches or constitutions; it is grown in fields, earned at sea, and celebrated in the roar of a stadium where every voice, regardless of race or religion, cheers as one nation.” ~ Anura Kumara Dissanayake.
+
+When President Anura Kumara Dissanayake addressed the people of Jaffna on Mandaitivu Island this September, he reminded them that during the last elections, the Northern Province had taken not just a single step with the National People’s Power (NPP), but had joined a journey of a thousand steps. His words carried both symbolic significance and political purpose: the North, long pushed aside by war, poverty, and neglect, would be placed squarely at the heart of Sri Lanka’s national development plan.
+
+...
+
+[Data](articles/0f2a3a95.json)
 
 ---
 
@@ -636,1246 +1788,16 @@ The first of the four shooting incidents occurred in Grandpass at around 11:45 p
 
 ---
 
-### யாழ். பல்கலை வேந்தராகப் பேராசிரியர் ராஜரட்ணம் குமாரவடிவேல் நியமனம்
+### Ranil comes to grips with need to trim public service and take a peace oriented path to development
 
-*2025-09-06 13:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலை-வேந்தராகப்-பேராசிரியர்-ராஜரட்ணம்-குமாரவடிவேல்-நியமனம்/175-364092) · `ta`
+*2025-09-06 13:40:00* · [`islandlk`](http://island.lk/ranil-comes-to-grips-with-need-to-trim-public-service-and-take-a-peace-oriented-path-to-development/) · `en`
 
-யாழ். பல்கலைக்கழக வேந்தராகப் பேராசிரியர் ராஜரட்ணம் குமாரவடிவேலை ஜனாதிபதி அநுரகுமார திஸாநாயக்க நியமித்துள்ளார்.
+The radical overhaul and reform of the public service was also one of the priorities in Ranil’s plan of action for the economy and good governance. Its main problem was that it had grown too large -almost one third larger than it needed to be – and was in need of redefining its role in the face of the private sector coming into various areas of production, distribution and exchange. The public service was sluggish, impervious largely to people’s needs, badly politicized and, as many alleged, often corrupt.
 
-இதற்கான எழுத்து மூலமான கடிதம், ஓகஸ்ட் 27ஆம் திகதியிடப்பட்டு ஜனாதிபதியின் செயலாளர் குமநாயக்கவினால் வழங்கப்பட்டுள்ளது.
-
-பேராதனைப் பல்கலைக்கழகத்தில் 1966-1970 ஆம் ஆண்டு பயின்ற குமாரவடிவேல் பௌதீகத் துறையில் முதல் தர சிறப்புப் பட்டம் பெற்றவர்.
-
-பிரிஸ்டல் பல்கலைக்கழகத்தில் 1975 இல் கலாநிதிப் பட்டம் பெற்ற அவர் 1976 முதல் யாழ் பல்கலைக்கழகத்தில் பணியாற்றியவர்.
-
-2006 - 2007 ஆம் ஆண்டுகளில், மிக நெருக்கடியான காலகட்டத்தில், யாழ். பல்கலைக்கழக பதில் துணைவேந்தராகப் பொறுப்போடு சிறப்புப் பணியாற்றியவர் அவர் என்பது குறிப்பிடத்தக்கது.
-
-2015 முதல் 2020 வரை அவர் பல்கலைக்கழக மானியங்கள் ஆணைக்குழு உறுப்பினராகவும் அவர் பணி புரிந்தவர்.
-
-பல்கலைக்கழக முன்னாள் சட்ட விரிவுரையாளர் சட்டத்தரணி கு.குருபரனின் தந்தை இவர் என்பதும் குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/e4052bbc.json)
-
----
-
-### காசா மீது இஸ்ரேல் நடத்திய தாக்குதல்களில் 50க்கும் மேற்பட்டோர் உயிரிழப்பு!
-
-*2025-09-06 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224365) · `ta`
-
-காசா நகரத்தின் மீதான இஸ்ரேலின் தாக்குதல்களின் போது நேற்று வெள்ளிக்கிழமை (05) ஏழு குழந்தைகள் உட்பட 50க்கும் மேற்பட்ட பாலஸ்தீனியர்கள் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-வடக்கு நகர்ப்புற மையத்தின் மீதான இஸ்ரேலின் தாக்குதல் சனிக்கிழமை(இன்று) அதிகாலை வரை தொடர்ந்தது.
-
-கசா நகரத்தில் அதிகளவான மக்கள் தொகை கொண்ட பகுதியில் ஒரு உயரமான கோபுரத்தை இராணுவம் அழித்ததால், காசாவில் "நரகத்தின் வாயில்கள்" திறக்கப்படுவதாக இஸ்ரேலின் பாதுகாப்பு அமைச்சர் தெரிவித்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/20305c4c.json)
-
----
-
-### புதிதாகப் பதிவு செய்யப்பட்ட ஒரு இலட்சத்திற்கும் மேற்பட்ட வாகனங்களுக்கு இலக்கத் தகடுகள் இல்லை!
-
-*2025-09-06 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224363) · `ta`
-
-மோட்டார் போக்குவரத்துத் திணைக்களத்தால் புதிதாகப் பதிவு செய்யப்பட்ட ஒரு இலட்சத்திற்கும் மேற்பட்ட வாகனங்களுக்கு இலக்கத் தகடுகள் இல்லையென மோட்டார் போக்குவரத்துத் திணைக்களம் தெரிவித்துள்ளது.
-
-ஆறு மாதங்களாக வாகன இலக்க தகடு அச்சிடுதல் நிறுத்தப்பட்டுள்ளதால், பதிவு செய்யப்பட்ட வாகனங்களில் ஒரு இலட்சத்திற்கும் மேற்பட்ட வாகனங்கள் இலக்க தகடுகளைப் பெறவில்லை என மோட்டார் போக்குவரத்துத் திணைக்களம் தெரிவித்துள்ளது.
-
-அதன்படி, 1 இலட்சத்து 27 ஆயிரத்து 745 மோட்டார் சைக்கிள்கள் பதிவு செய்யப்பட்டுள்ளன.
-
-அதேபோல், 26 ஆயிரத்து894 கார்கள், 5 ஆயிரத்து 809 முச்சக்கர வண்டிகள், ஆயிரத்து 868 இரட்டை பயன்பாட்டு வாகனங்கள் மற்றும் 2 ஆயிரத்து 122 நில வாகனங்கள் பல்வேறு பிரிவுகளின் கீழ் பதிவு செய்யப்பட்டுள்ளன.
-
-மேலும், குறித்த காலகட்டத்தில் 25 ஆயிரத்து 526 மின்சார வாகனங்கள் பதிவு செய்யப்பட்டுள்ளன.
-
-அவற்றில் 3 ஆயிரத்து 222 மின்சார கார்கள், 5 வேன்கள், 155 முச்சக்கர வாகனங்கள் மற்றும் 22 ஆயிரத்து 133 மோட்டார் சைக்கிள்கள் இருப்பதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+Ranil had me appointed at the beginning of 2002 as chairman of the Administrative Reforms Committee (ARC) with a challenging set of problems to be sorted out. When we in the ARC began closely examining its structure and the manner in which it functioned, we found that Sri Lanka could probably do with a public service of three-fourths of its present size. A third mainly consisting of clerical and support level staff could well be hived out and put into more productive occupations.
 
 ...
 
-[Data](articles/fac70eed.json)
-
----
-
-### 2025 වසරේ මේ දක්වා වෙඩිතැබීම් 96ක් - මරණ 50යි තුවාල 53යි
-
-*2025-09-06 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214235) · `si`
-
-ගෙවුණු පැය 12ක කාලය තුළ දිවයිනේ ප්‍රදේශ කිහිපයක සිදු වූ වෙඩිතැබීම් 4කින් එක් පුද්ගලයෙකු මියගොස් තවත් අයෙක් තුවාල ලබා තිබේ.
-
-ඒ අනුව 2025 වසරේ මේ දක්වා කාලය තුළ සිදුවූ සමස්ත වෙඩිතැබීම් ගණන 96 දක්වා ඉහළ ගියේය.
-
-ඉන් පුද්ගලයන් 50ක් ඝාතනය වී ඇති අතර, 53න් දෙනෙකු තුවාල ලබා ඇත.
-
-ගත වූ පැය 12ක කාලයේ පළමු වෙඩිතැබීම ඊයේ (5) රාත්‍රී 11.45ට පමණ ග්‍රැන්ඩ්පාස් හිදී සිදු වූ අතර, එහිදී එක් පුද්ගලයෙකු ජීවිතක්ෂයට පත් විය.
-
-එලෙස ඝතනය වූයේ හේෂාන් සලින්ද පුෂ්පකුමාර නම් 27 හැවිරිදි අදාළ තරුණයෙක්ය.
-
-පොලීසිය සඳහන් කර සිටියේ, වෙඩි ප්‍රහාරය එල්ල වූ ස්ථානයට අදාළ පුද්ගලයා දුරකථන ඇමතුමක් ලබාදීගෙන්වා වෙඩිතැබීම සිදුකර ඇති බවය.
-
-ඉන් අනනතුරුව අලුයම 1.40ට පමණ මරදාන, පංචිකාවත්ත ප්‍රදේශයේදී වෙඩිතැබීමක් වාර්තා විය.
-
-එයද යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු විසින් සිදුකර ඇති බව පොලීසිය සඳහන් කළේය.
-
-ඔහු මේ වනවිට කොළඹ ජාතික රෝහලේ හදිසි අනතුරු ඒකකයේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටී.
-
-එලෙස තුවාල ලැබූ පුද්ගලයා සෙන්දිල් මෝහන් නම් 44 හැවිරිදි පංචිකාවත්ත ප්‍රදේශයේ පදිංචිකරුවෙක්ය.
-
-...
-
-[Data](articles/0e76ff77.json)
-
----
-
-### காசாவின் கான் யூனிஸில் மனிதாபிமான மண்டலத்தை நிறுவ தீர்மானம்!
-
-*2025-09-06 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224359) · `ta`
-
-காசாவின் கான் யூனிஸின் அல் - மவாசி பகுதியில் ஒரு மனிதாபிமான மண்டலத்தை நிறுவுவதற்கு தீர்மானித்துள்ளதாக இஸ்ரேலிய இராணுவம் சனிக்கிழமை (இன்று) அதிகாலை தெரிவித்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-கள வைத்தியசாலைகள், நீர் குழாய்கள், உப்புநீக்கும் வசதிகள் மற்றும் உணவுப் பொருட்கள் போன்ற உட்கட்டமைப்புகள் இந்தப் பகுதியில் இருக்கும் என்றும் இராணுவம் தெரிவித்துள்ளது.
-
-காசா குடியிருப்பாளர்கள் அந்தப் பகுதிக்கு வெளியேறுமாறு இராணுவத்தின் செய்தியாசிரியர் அழைப்பு விடுத்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/5447b85a.json)
-
----
-
-### அரசாங்கத்தின் நெல் கொள்முதல் திட்டத்தின் கீழ் 40 ஆயிரம் மெட்ரிக் தொன்னுக்கும் அதிகமான நெல் கொள்முதல்!
-
-*2025-09-06 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224355) · `ta`
-
-அரசாங்கத்தின் நெல் கொள்முதல் திட்டத்தின் கீழ் 40 ஆயிரம் மெட்ரிக் தொன்னுக்கும் அதிகமான நெல் கொள்முதல் செய்யப்பட்டுள்ளதாக நெல் சந்தைப்படுத்தல் சபை அறிவித்துள்ளது.
-
-அம்பாறை மாவட்டத்தில் இருந்து அதிகளவான நெல் கொள்முதல் செய்யப்பட்டுள்ளதாக நெல் சந்தைப்படுத்தல் சபைத் தலைவர் மஞ்சுள பின்னலந்த தெரிவித்துள்ளார்.
-
-அனுராதபுரம் மற்றும் பொலன்னறுவை மாவட்டங்களிலும் கொள்முதல் நடவடிக்கைகள் தொடர்ந்து நடைபெற்று வருவதாகவும் அவர் மேலும் குறிப்பிட்டுள்ளார்.
-
-அதில் 55 பில்லியன் ரூபாய் ஏற்கனவே விவசாயிகளுக்கு செலுத்தியுள்ளதாகவும்  நெல் சந்தைப்படுத்தல் சபைத் தலைவர் உறுதிப்படுத்தினார்.
-
-◼️
-
-[Data](articles/617efc7a.json)
-
----
-
-### Four female cops promoted to DIG for the first time in Sri Lanka
-
-*2025-09-06 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112224/four-female-cops-promoted-to-dig-for-the-first-time-in-sri-lanka) · `en`
-
-For the first time in the history of the Sri Lanka Police, four female officers have been promoted to the rank of Deputy Inspector General of Police (DIG) at the same time.
-
-The promotions were approved by the National Police Commission (NPC) and subsequently confirmed by Inspector General of Police (IGP) Priyantha Weerasuriya, and are effective from January 01 this year.
-
-Accordingly, Darshika Kumari, Padmini Weerasuriya, Renuka Jayasundara, and Nishani Seneviratne are scheduled to assume duties as DIGs.
-
-Three of the newly appointed DIGs entered the Sri Lanka Police Service in 1997 as trainee Sub-Inspectors.
-
-• Darshika Kumari currently serves as the Commanding Officer of the Police Field Force Headquarters and is recognized as the first female officer to hold that position.
-
-• Padmini Weerasuriya is presently the Acting DIG in charge of the Kalutara District, becoming the first female officer in Sri Lanka Police history to oversee a district.
-
-...
-
-[Data](articles/f50ce1f3.json)
-
----
-
-### சஷீந்திர ராஜபக்ஷவுக்கு உயர் இரத்த அழுத்தம்
-
-*2025-09-06 12:11:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-உயர்-இரத்த-அழுத்தம்/175-364091) · `ta`
-
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ, உயர் இரத்த அழுத்தம் உள்ளிட்ட உடல்நலக் காரணங்களால் சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-நேற்று (05) பிற்பகல், வைத்திய ஆலோசனையின் பேரில் அவரை சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்க நடவடிக்கை எடுக்கப்பட்டதாக சிறைச்சாலை ஊடகப் பேச்சாளர் ஜகத் வீரசிங்க தெரிவித்தார். R
-
-◼️
-
-[Data](articles/5c8fb464.json)
-
----
-
-### Over 40,000 MT of paddy purchased under govt program – PMB
-
-*2025-09-06 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112223/over-40000-mt-of-paddy-purchased-under-govt-program-pmb) · `en`
-
-The Paddy Marketing Board (PMB) announced that more than 40,000 metric tons of paddy have been purchased under the government’s paddy procurement program.
-
-PMB Chairman Manjula Pinnalanda stated that the highest volume of paddy was procured from the Ampara district, where 85% of the harvesting has already been completed.
-
-He further noted that procurement activities are also ongoing in the Anuradhapura and Polonnaruwa districts.
-
-The government allocated Rs. 60 billion for the first phase of the paddy purchase program, out of which Rs. 55 billion has already been paid to farmers, the Chairman confirmed.
-
-◼️
-
-[Data](articles/1a4b7c8d.json)
-
----
-
-### මෙරට පොලිස් ඉතිහාසයේ ප්‍රථමවරට කාන්තා DIG සිව්දෙනෙක් පත් කෙරේ
-
-*2025-09-06 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214234) · `si`
-
-මෙරට පොලිස් ඉතිහාසයේ ප්‍රථමවරට කාන්තා නියෝජ්‍ය පොලිස්පතිවරියන් 4 දෙනෙකු පත්කර තිබේ.
-
-ජාතික පොලිස් කොමිෂන් සභාව විසින් අනුමත කර ලබාදුන් ලැයිස්තුවට අදාළව පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා විසින් ඊට අදාළ අනුමැතිය ලබාදී ඇත.
-
-ඒ අනුව දර්ශිකා කුමාරි, පද්මිණී වීරසූරිය, රේණුකා ජයසුන්දර සහ නිශානි සෙනෙවිරත්න නව කාන්තා නියෝජ්‍ය පොලිස්පතිවරියන් ලෙස වැඩ භාරගැනීමට නියමිතය.
-
-ආධුනික උප පොලිස් පරීක්ෂකවරියන් ලෙස මින් තිදෙනෙකු 1997 වසරේදී ශ්‍රී ලංකා පොලිස් සේවයට එක්වී තිබේ.
-
-ඒ අනුව අදාළ උසස්වීම් මෙම වසරේ ජනවාරි මස 01 වනදා සිට බලපැවැත්වෙන පරිදි ක්‍රියාත්මක කෙරෙන බවද සඳහන් ය.
-
-මෙම පොලිස් නිලධාරිනියන් 4 දෙනාගෙන් දර්ශිකා කුමාරි පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ අණ දෙන නිලධාරිනිය ලෙස මේ වනවිටත් කටයුතු කරනු ලබන අතර ඇය එම මූලස්ථානයේ පළමු කාන්තා අනදෙණ නිලධාරිනියද වෙයි.
-
-මේ වනවිට කළුතර දිසාව භාර වැඩබලන නියෝජ්‍ය පොලිස්පතිනිය ලෙස පද්මිණී වීරසූරිය කටයුතු කරන අතර ඇය පොලිස් ඉතිහාසයේ දිස්ත්‍රික්කයක් භාරව කටයුතු කළ පළමු නිලධාරිනිය ද වෙයි.
-
-...
-
-[Data](articles/3a2d559b.json)
-
----
-
-### Bus involved in Ella accident deregistered in 2023 – Dy Minister
-
-*2025-09-06 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112222/bus-involved-in-ella-accident-deregistered-in-2023-dy-minister) · `en`
-
-The bus involved in the tragic accident on the Ella–Wellawaya road had been deregistered by the National Transport Commission (NTC) in 2023, Deputy Minister of Transport Dr. Prasanna Gunasena revealed.
-
-He further noted that there are currently no legal provisions to regulate buses used exclusively for private trips.
-
-Deputy Minister Gunasena added that the Road Development Authority (RDA) has already taken all possible measures to minimize accidents along the Ella–Wellawaya road.
-
-Meanwhile, a team from the Department of Motor Traffic has been dispatched to inspect the bus involved in the accident.
-
-In addition, officials from the National Transport Medical Institute (NTMI) and the Ministry of Transport’s Road Safety Program are scheduled to visit Ella today (06) to conduct further inspections, the Deputy Minister confirmed.
-
-...
-
-[Data](articles/698a24ed.json)
-
----
-
-### சஷீந்திர ராஜபக்ஷ சிறைச்சாலை வைத்தியசாலையில் அனுமதி!
-
-*2025-09-06 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224353) · `ta`
-
-தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-22 ஆம் ஆண்டில் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட போராட்டங்களின் போது தீக்கிரையாக்கப்பட்ட செவனகல - கிரிப்பன் வேவ பகுதியில் உள்ள அரசாங்க நிலத்திற்கு மற்றொரு நபர் மூலம் இழப்பீடு பெற்ற சம்பவம் தொடர்பில் முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ நுகேகொடை பகுதியில் உள்ள அவரது வீட்டில் வைத்து இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் ஆகஸ்ட் 06 ஆம் திகதி காலை கைதுசெய்யப்பட்டார்.
-
-கைதுசெய்யப்பட்ட சஷீந்திர ராஜபக்ஷ கொழும்பு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-இந்நிலையில், விளக்கமறியலில் வைக்கப்பட்டுள்ள சஷீந்திர ராஜபக்ஷ உடல்நலக்குறைவு காரணமாக சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/28ae9861.json)
-
----
-
-### “கெஹெல்பத்தர பத்மே”வின் ஐஸ் போதைப்பொருளை உற்பத்தி செய்ய பயன்படுத்தப்படும் இரசாயனங்கள் கண்டுபிடிக்கப்பட்டமை தொடர்பில் வெளியான தகவல்!
-
-*2025-09-06 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224344) · `ta`
-
-மித்தெனியவில் உள்ள தனிநபர் காணியொன்றில் பொலிஸாரினால் நடத்தப்பட்ட சோதனையின் போது, ஐஸ் உற்பத்தியில் பயன்படுத்தப்படும், இரசாயனங்கள் கண்டுபிடிக்கப்பட்டதில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பிரதேச சபை உறுப்பினர் ஒருவரும் அவரது சகோதரரும் தொடர்புபட்டுள்ளதாக பொலிஸார் சந்தேகிக்கின்றனர்.
-
-இந்த இரசாயனங்கள், பாதாள உலகக் குழுவைச் சேர்ந்த “கெஹெல்பத்தர பத்மே” என்பவரால் இறக்குமதி செய்யப்பட்டதாக காவல்துறையினர் தெரிவித்துள்ளனர்.
-
-மேலும், “கெஹெல்பத்தர பத்மே” நுவரெலியாவில் ஒரு வீட்டை வாடகைக்கு எடுத்து இரண்டு பாகிஸ்தானியர்களின் உதவியுடன் ஐஸ் போதைப்பொருளை தயாரித்துள்ளதாக தெரியவந்துள்ளது.
-
-"பெக்கோ சமன்" என்று அழைக்கப்படும் சந்தேக நபரொருவரின் விசாரணையில் இருந்து பெறப்பட்ட தகவல்களைத் தொடர்ந்து, குறித்த  சோதனை நடவடிக்கைகள், மேல் மாகாண வடக்கு குற்றப்பிரிவினரால் மேற்கொள்ளப்பட்டது.
-
-அங்குணுகொலபெலஸ்ஸவைச் சேர்ந்த ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பிரதேச சபை உறுப்பினர் ஒருவரும் அவரது சகோதரரும் இந்த இரசாயனங்களை மறைத்ததற்கு உதவி செய்துள்ளதாக பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
-
-...
-
-[Data](articles/e6c0c93c.json)
-
----
-
-### வெனிசுலாவில் உள்ள போதைப்பொருள் விற்பனையாளர்கள் மீது அமெரிக்கா தாக்குதல்!
-
-*2025-09-06 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224351) · `ta`
-
-வெனிசுலாவில் உள்ள போதைப்பொருள் விற்பனையாளர்கள் மீது தாக்குதல் நடத்த அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் திட்டமிட்டு வருவதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-இதற்காக F-35 போர் விமானங்கள் ஏற்பாடு செய்யப்பட்டுள்ளதாக அறிக்கைகள் தெரிவிப்பதாக சர்வதேச ஊடகமொன்று தெரிவித்துள்ளது.
-
-வெனிசுலாவின் ஜனாதிபதி நிக்கோலஸ் மதுரோவுக்கு அழுத்தம் கொடுக்க வடிவமைக்கப்பட்ட போதைப்பொருள் விற்பனையாளர்களுக்கு எதிரானவே இந்த தாக்குதல்கள் நடத்தப்படுவதாக குறிப்பிடப்படுகிறது.
-
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் புவேர்ட்டோ ரிக்கோவில் F-35 ஸ்டெல்த் போர் விமானங்களை நிறுத்த உத்தரவிட்டதாக அந்நாட்டு ஊடகங்கள் தெரிவித்தன.
-
-"போதைப்பொருள் பயங்கரவாத" அமைப்புகளாக வொஷிங்டனால் நியமிக்கப்பட்ட லத்தீன் அமெரிக்க போதைப்பொருள் விற்பனையாளர்களுக்கு எதிரான நடவடிக்கைகளின் ஒரு பகுதியாக, மேம்பட்ட போர் விமானங்களில் 10 போர் விமானங்கள் புவேர்ட்டோ ரிக்கோவில் உள்ள ஒரு விமானநிலையத்திற்கு அனுப்பப்படுவதாக அமெரிக்க வட்டாரங்கள் தெரிவித்துள்ளன.
-
-◼️
-
-[Data](articles/846cb6d7.json)
-
----
-
-### වී මෙට්‍රික්ටොන් 40,000කට වැඩි ප්‍රමාණයක් රජය මිලදී ගනී
-
-*2025-09-06 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214233) · `si`
-
-රජයේ වී මිලදී ගැනීමේ වැඩපිළිවල යටතේ මේ වනවිට වී මෙට්‍රික්ටොන් 40,000කට අධික ප්‍රමාණයක් මිලදී ගෙන ඇති බව වී අලෙවි මණ්ඩලය පවසයි.
-
-එහි සභාපති මංජුල පින්නලන්ද මහතා සඳහන් කළේ වැඩිම වී ප්‍රමාණයක් අම්පාර දිස්ත්‍රික්කයෙන් මිලදී ගෙන ඇති බවය.
-
-අම්පාර දිස්ත්‍රිකයේ සියයට 85ක් මේ වනවිට අස්වනු නෙලා අවසන් වී ඇති අතර අනුරාධපුරය සහ පොළොන්නරුව දිස්ත්‍රික්කවල වී මිලදි ගැනීම ද තවදුරටත් සිදුවන බව ඔහු කියා සිටියේය.
-
-වී මිලදී ගැනීම සඳහා පළමු අදියර යටතේ රජය මඟින් රුපියල් මිලියන 60,000ක මුදලක් වෙන් කර ඇති අතර ඉන් රුපියල් මිලියන 55,000ක මුදලක් ගොවීන් වෙන ගෙවා අවසන් බව වී අලෙවි මණ්ඩලයේ සභාපති මංජුල පින්නලන්ද මහතා වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/e913388b.json)
-
----
-
-### ශෂීන්ද්‍ර රාජපක්ෂ බන්ධනාගාර රෝහලට
-
-*2025-09-06 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214232) · `si`
-
-රක්ෂිත බන්ධනාගාර ගතව සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා බන්ධනාගාර රෝහලට ඇතුළත් කර තිබේ.
-
-බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ජගත් වීරසිංහ මහතා පැවසුවේ වෛද්‍ය නිර්දේශය මත ඊයේ (5) පස්වරුවේ ඔහු බන්ධනාගාර රෝහලට ඇතුළත් කිරීමට පියවර ගත් බවය.
-
-ඒ මහතා අධිරුධිර පීඩනය ඇතුළු රෝගී තත්ත්වයන් හේතුවෙන් මෙලෙස බන්ධනාගාර රෝහලට ඇතුළත් කෙරුණු බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් පැවසීය.
-
-අරගලකරුවන් විසින් මහවැලි ඉඩමක ඉදිකර තිබූ සිය දේශපාලන කාර්යාලය ගිනි තබා විනාශ කිරීම හේතුවෙන් නීතියට පටහැනි ලෙස රුපියල් 88 ලක්ෂ 50,000ක මුදලක් වන්දි වශයෙන් ලබා ගැනීම තුළින් 'දූෂණය' නමැති වරද සිදුකළ බවට චෝදනා කරමින් ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසම මගින් පසුගියදා අත්අඩංගුවට ගනු ලැබීය.
-
-දූෂණ විරෝධී පනත යටතේ අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළ ශෂීන්ද්‍ර රාජපක්ෂ මහතාට එරෙහි නඩුව පසුගිය 29 වැනිදා යළි කැඳවූ අතර, එහිදී ඔහු මේ මස 12 වැනිදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
-
-◼️
-
-[Data](articles/975fc92b.json)
-
----
-
-### අයිස් සෑදීමට ගෙනා පද්මෙගේ රසායනික ද්‍රව්‍ය අද රස පරීක්ෂණයට
-
-*2025-09-06 10:37:00* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සෑදීමට-ගෙනා-පද්මෙගේ-රසායනික-ද්‍රව්‍ය-අද-රස-පරීක්ෂණයට/11-418310) · `si`
-
-මිද්දෙණිය, තලාව ප්‍රදේශයේ ඉඩමක වළදමා තිබියදී සොයාගත්, අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට භාවිත කරන රසායනික ද්‍රව්‍ය තොගය අද (06) දිනයේ රස පරීක්ෂකවරයා නිරීක්ෂණය කිරීමට නියමිතයි.
-
-රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් පමණ මෙහිදී සොයාගැනුණු අතර, බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසයේ රඳවා සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජික බැකෝ සමන් නැමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වල දී සඟවා තිබූ මෙම රසායනික ද්‍රව්‍ය ඊයේ (05) සොයා ගැනුණි.
-
-සංවිධානාත්මක අපරාධ කල්ලි නායක කෙහෙල්බද්දර පද්මේ නැමැත්තා විසින් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට අදාළ රසායනික ද්‍රව්‍ය මෙරටට ගෙන්වූ බව බැකෝ සමන් හෙළිකර ඇති බව පොලිස් විමර්ශන නිලධාරීන් කියයි.
-
-මේ අතර මෙම රසායනික ද්‍රව්‍ය තොගය ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පළාත් පාලන මන්ත්‍රීවරයෙක් හා ඔහුගේ සහෝදරයා විසින් තබාගෙන සිට ඇති බවයි අනාවරණය වී ඇත.
-
-...
-
-[Data](articles/f99029df.json)
-
----
-
-### Shasheendra Rajapaksa admitted to Prison Hospital
-
-*2025-09-06 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112220/shasheendra-rajapaksa-admitted-to-prison-hospital) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who is currently in remand custody, has been admitted to the Prison Hospital, the Prisons Department confirmed.
-
-On August 29, the Colombo Magistrate’s Court further remanded Rajapaksa until September 12. The court also rejected a bail application filed on his behalf. Colombo Chief Magistrate Asanka S. Bodaragama ordered that the former state minister remain in remand custody until the specified date.
-
-Rajapaksa was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on August 06 at his residence in Nugegoda.
-
-He was taken into custody in connection with an incident where compensation was allegedly obtained through another individual for a damaged building on a plot of government land in the Sevanagala-Kiriibban Wewa area which was set on fire during the 2022 island-wide protests.
-
-...
-
-[Data](articles/aa4b944a.json)
-
----
-
-### எல்ல பஸ் விபத்தில் உயிரிழந்த தங்காலை நகர சபை ஊழியர்களின் பூதவுடல்கள் தங்காலை நகர சபையில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளன!
-
-*2025-09-06 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224347) · `ta`
-
-எல்ல - வெல்லவாய பிரதான வீதியில் ஏற்பட்ட பஸ் விபத்தில் உயிரிழந்த தங்காலை நகர சபை ஊழியர்களின் பூதவுடல்கள் தங்காலை நகர சபைக்கு கொண்டு வரப்பட்டு அஞ்சலிக்காக வைக்கப்பட்டுள்ளன.
-
-உயிரிழந்த 10 தங்காலை நகர சபை ஊழியர்களின் பூதவுடல்கள் நகர சபைக்கு கொண்டு வரப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-தங்காலை பகுதியில் இருந்து சுற்றுலா பயணமாக வந்த ஒரு குழுவினரை ஏற்றிச் சென்ற பேருந்து நேற்று முன்தினம் (04) எல்ல பொலிஸ் பிரிவிற்குட்பட்ட எல்ல - வெல்லவாய பிரதான வீதியில் விழுந்து விபத்துக்குள்ளானதில் 15 பேர் உயிரிழந்தனர்.
-
-விபத்தில் காயமடைந்த 18 பேர் பதுளை போதனா வைத்தியசாலை, பண்டாரவளை மற்றும் தியத்தலாவை வைத்தியசாலைகளில் அனுமதிக்கப்பட்டு, சிகிச்சை பெற்று வருகின்றமையும் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/087e584b.json)
-
----
-
-### Another shooting incident reported in Pandaura
-
-*2025-09-06 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112219/another-shooting-incident-reported-in-pandaura) · `en`
-
-Another shooting incident has been reported this morning (06) in the Alubomulla area of Panadura.
-
-According to police, two unidentified individuals on a motorcycle opened fire at a shop in the Sandagalawatta area of Alubomulla using a 9mm pistol and fled the area.
-
-However, a woman was inside the shop at the time, but the bullet struck a refrigerator, narrowly missing her, said police.
-
-◼️
-
-[Data](articles/8cbd2443.json)
-
----
-
-### පානදුර අලුබෝමුල්ලේ වෙඩිතැබීමක්
-
-*2025-09-06 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214231) · `si`
-
-පානදුර, අලුබෝමුල්ල සඳගලවත්ත ප්‍රදේශයේ වෙළෙඳසැලකට අද (6) පෙරවරුවේ වෙඩිතැබීමක් සිදුව තිබේ.
-
-නාදුනන පුද්ගලයන් දෙදෙනෙකු පැමිණ මිලිමීටර 9 වර්ගයේ පිත්තෝල වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇත.
-
-ඇය වෙඩි ප්‍රහාරයෙන් බේරී පලායාමේ දී වෙළෙඳසැලේ තිබූ ශීතකරණයකට වෙඩි වැදී තිබේ.
-
-ඊට අමතරව පානදුර කොට්ඨාසය භාර ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිශාන් ද සිල්වා මහතාගේ අධීක්ෂණය යටතේ ද වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/1b482004.json)
-
----
-
-### எல்ல பகுதியில் விபத்துக்குள்ளான பேருந்து குறித்து அதிர்ச்சி தகவல்
-
-*2025-09-06 10:09:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-பகுதியில்-விபத்துக்குள்ளான-பேருந்து-குறித்து-அதிர்ச்சி-தகவல்/175-364090) · `ta`
-
-எல்ல - வெல்லவாய பிரதான வீதியில் விபத்துக்குள்ளான பேருந்து, 2023 ஆம் ஆண்டு தேசிய போக்குவரத்து ஆணைக்குழுவால் பதிவு ரத்து செய்யப்பட்டிருந்ததாக போக்குவரத்து பிரதி அமைச்சர் வைத்தியர் பிரசன்ன குணசேன தெரிவித்தார்.
-
-குறித்த வீதியில் விபத்துகளைக் குறைப்பதற்கு வீதி அபிவிருத்தி அதிகார சபை சாத்தியமான அனைத்து நடவடிக்கைகளையும் மேற்கொண்டுள்ளதாகவும் பிரதி அமைச்சர் தெரிவித்தார்.
-
-இதற்கிடையில், மோட்டார் போக்குவரத்து திணைக்களத்தின் குழு ஒன்று விபத்தில் சிக்கிய பேருந்தை ஆய்வு செய்ய அந்த இடத்திற்கு விஜயம் செய்துள்ளது.
-
-மேலும், தேசிய போக்குவரத்து வைத்திய நிறுவனத்தின் (NTMI) மற்றும் போக்குவரத்து அமைச்சின் வீதி பாதுகாப்புத் திட்டத்துடன் இணைந்த அதிகாரிகள் குழு, இன்று (06) எல்ல பகுதிக்குச் சென்று விபத்தில் சிக்கிய பேருந்தை ஆய்வு செய்யவுள்ளதாக வைத்தியர் பிரசன்ன குணசேன தெரிவித்தார்.
-
-...
-
-[Data](articles/9fe3dddf.json)
-
----
-
-### CEB workers’ work-to-rule campaign enters second day
-
-*2025-09-06 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112218/ceb-workers-work-to-rule-campaign-enters-second-day) · `en`
-
-The ‘work-to-rule’ trade union action launched by employees of the Ceylon Electricity Board (CEB)’ in protest against the proposed division of the institution into four entities’ continued for the second consecutive day today (6).
-
-Chairman of the CEB Technicians’ Union, Kosala Abeysinghe, stated that none of the employees have consented to the voluntary compensation scheme introduced under the restructuring process.
-
-“The work-to-rule trade union action will remain in effect until midnight on the 15th as part of its first phase. This action was initiated in response to the government’s irresponsible approach towards restructuring the CEB. We also held discussions with the Minister yesterday, but they failed to produce a satisfactory outcome,” he said.
-
-◼️
-
-[Data](articles/a7841d0d.json)
-
----
-
-### බවුසරයක් හා ත්‍රී රෝද රථයක් ගැටී දරුවෙකුට තුවාල
-
-*2025-09-06 10:02:48* · [`adalk`](https://www.ada.lk/breaking_news/බවුසරයක්-හා-ත්‍රී-රෝද-රථයක්-ගැටී-දරුවෙකුට-තුවාල/11-418308) · `si`
-
-ඉන්ධන ප්‍රවාහනය කල බවුසර් රථයක ත්‍රී රෝද රථයක් ගැටෙයි. ත්‍රී රෝද රථයේ ගමන් ගත් කුඩා දරුවෙකු බරපතල ලෙස තුවාල ලබයි.
-
-කොළොන්නාවේ සිට කොටගල ඛණිජ තෙල් නීතිගත සංස්ථාවේ තෙල් ගබඩා සංකීර්ණය වෙත ඉන්ධන ප්‍රවාහනය කරන ලද බවුසර් රථයක ත්‍රී රෝද රථයක් ගැටීමෙන් ත්‍රී රෝද රථයේ ගමන් ගත් කුඩා දරුවෙකු තුවාල ලබා වටවල ප්‍රා දේශීය රෝහල වෙත ඇතුළත් කල බව හැටන් පොලිසිය පැවසීය.
-
-හැටන් කොළඹ ප්‍රධෘන මාර්ගයේ ශැනන් වත්ත ප්‍රදේශයේදී (05) දින පස්වරු 5:00ට පමණ මෙම අනතුර සිදු වී ඇත.
-
-බවුසර් රථයට ඉදිරියෙන් තුවාල ලැබූ දරුවාගේ මව විසින් ෂැනන් වත්තේ සිට හැටන් දක්වා ත්‍රී රෝද රථය ධාවනය කරවන අවස්ථාවේ එම දිසාවටම ධාවනය වු බවුසර් රථය ත්‍රී රෝද රථය ඉස්සර කර යෑමට උත්සහ කිරිමේදි බවුසර් රථයේ පසුපස ටැංකියේ යකඩ කොටසක් ත්‍රී රෝද රථයේ ගැටී ත්‍රී රෝද රථය අනතුරට පත් වී ඇත.
-
-අනතුරින් ත්‍රී රෝද රථයට දැඩි අලාභ හානි සිදු වී ඇති බවත්, එම බවුසර් රථයේ ඉන්ධන ගොඩ බෑමෙන් පසු බවුසර් රථයේ රියදුරුව හැටන් මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරිම සදහා සැක පිට අත්අඩංගුවට ගත් බවයි හැටන් පොලිසියේ රථවාහන අංශයේ නිළධාරින් කියා සිටියේ.
-
-◼️
-
-[Data](articles/fd57804b.json)
-
----
-
-### Shooting reported in Negombo; No injuries
-
-*2025-09-06 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112217/shooting-reported-in-negombo-no-injuries) · `en`
-
-Two individuals on a motorcycle have opened fire at a residence in the Kuttuduwa area of Negombo at around 1:38 a.m. today (6) and fled the area.
-
-No injuries were reported in the incident, said Ada Derana reporter.
-
-Police suspect that the shooting may have been linked to a financial dispute.
-
-◼️
-
-[Data](articles/ef68fefb.json)
-
----
-
-### மின்சார சபை ஊழியர்களின் வேலைநிறுத்தப் போராட்டம் இன்று இரண்டாவது நாளாகவும் தொடர்கிறது!
-
-*2025-09-06 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224342) · `ta`
-
-இலங்கை மின்சார சபையை நான்கு பகுதிகளாகப் பிரிப்பதற்கு எதிராக, இலங்கை மின்சார சபை ஊழியர்கள் ஆரம்பித்த வேலைநிறுத்தப் போராட்டம் இன்று (6) இரண்டாவது நாளாகவும் தொடர்வதாக தெரிவிக்கப்படுகிறது.
-
-எந்தவொரு ஊழியரும் தன்னார்வ இழப்பீட்டுத் திட்டத்திற்கு அனுமதிக்கவில்லை என இலங்கை மின்சார சபையின் தொழில்நுட்ப பிரிவின் தொழிலாளர்கள் சங்கத்தின் தலைவர் கோசல அபேசிங்க தெரிவித்தார்.
-
-அதற்கமைய, ,அந்த வேலைநிறுத்தப் போராட்டம் எதிர்வரும் 15 ஆம் திகதி நள்ளிரவு வரை, முதற்கட்டமாக அமுலில் இருக்கும்.
-
-மின்சார சபை மறுசீரமைப்பில் தற்போதைய அரசாங்கத்தின் பொறுப்பற்ற பணிக் கொள்கை காரணமாக, வேலைநிறுத்தப் போராட்டம் ஆரம்பிக்கப்பட்டது.
-
-நேற்று அமைச்சருடனும் இது குறித்து விவாதித்தேன். அங்கு எனக்கு சாதகமான பதில் கிடைக்கவில்லை," எனவும் இலங்கை மின்சார சபையின் தொழில்நுட்பத் தொழிலாளர்கள் சங்கத்தின் தலைவர் கோசல அபேசிங்க தெரிவித்தார்.
-
-◼️
-
-[Data](articles/a3672fdb.json)
-
----
-
-### ඇල්ලේ බස් අනතුරෙන් මියගිය අයගේ දේහයන් තංගල්ල නගර ශාලාවට
-
-*2025-09-06 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214230) · `si`
-
-ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ සිදුවූ බස් අනතුරින් මියගිය තංගල්ල නගර සභාවේ සේවකයන්ගේ මෘතදේහ මේ වනවිට තංගල්ල නගර ශාලාව වෙත රැගෙනවිත් එහි තැන්පත් කර තිබේ.
-
-අද දෙරණ වාර්තාකරු සඳහන් කළේ මේ වනවිට මියගිය පුද්ගලයින් 10 දෙනෙකුගේ දේහයන් නගර ශාලාවට රැගෙනවිත් ඇති බවය.
-
-තංගල්ල ප්‍රදේශයේ සිට විනෝද චාරිකාවක් පැමිණි පිරිසක් රැගත් බස් රථය ඇල්ල පොලිස් වසමේ ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ 24 වන කිලෝමීටර් කණුව ආසන්නයේදී පෙරේදා (04) ප්‍රපාතයකට පෙරළී සිදුවූ මෙම අනතුරෙන් 15 දෙනෙකුට දිවි අහිමි විය.
-
-මෙම අනතුරින් තංගල්ල නගර සභාවේ ලේකම් ටී.ඩබ්ලිව්. කේ. රූපසේන මහතා ඇතුළු එම නගර සභාවේ සේවකයින් 12 දෙනෙකු ද මියගොස් තිබුණි.
-
-අනතුරින් තුවාල ලැබූ 18 දෙනෙකු බදුල්ල ශික්ෂණ රෝහල, බණ්ඩාරවෙල සහ දියතලාව යන රෝහල්වලට ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/7db2b186.json)
-
----
-
-### මීගමුවේ වෙඩිතැබීමක්
-
-*2025-09-06 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214229) · `si`
-
-යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් අද (6) අලුයම 1.38ට පමණ මීගමුව, කුට්ටුදූව ප්‍රදේශයේ නිවසකට වෙඩිතබා පලාගොස් තිබේ.
-
-කෙසේ වෙතත් මෙම වෙඩිතැබීමෙන් කිසිවෙක්ට හෝ තුවාල සිදුව නොමැති බව සඳහන්.
-
-මුදල් ආරවුලක් මත මෙම වෙඩිතැබීම සිදුකර ඇති බවට පොලීසිය සැකපළ කරයි.
-
-◼️
-
-[Data](articles/4a37f250.json)
-
----
-
-### Sri Lanka private credit continues blistering expansion in July with Rs201bn
-
-*2025-09-06 08:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-continues-blistering-expansion-in-july-with-rs201bn-239589/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s credit to private borrowers expanded by 201.5 billion rupees in July, after a record 221 billion growth in June, official data show, amid broadly deflationary policy that gave confidence with stable costs, but there have been some inflationary swaps recently.
-
-In the seven months to July, Sri Lanka’s banks now disbursed 901.6 billion rupees in credit, compared to 341 billion rupees last year.
-
-In the 12-months to July 2025, private credit has expanded by 1,485 billion rupees, compared to 493 billion rupees last year, taking the annual growth to 19.6 percent.
-
-SOE credit also fell in July. It is not clear whether this is due to improved finances of Ceylon Electricity Board.
-
-Sri Lanka’s private credit started to expand in the latter part of 2023, after a currency crisis and default triggered by rate cuts and the single policy rate (mid-corridor targeting), which destroyed purchasing power and pushed rates to high levels in the previous year.
-
-...
-
-[Data](articles/6526bd41.json)
-
----
-
-### විදුලිබල මණ්ඩලයේ වෘත්තීය ක්‍රියාමාර්ගය අද දෙවන දිනටත්
-
-*2025-09-06 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214228) · `si`
-
-ලංකා විදුලිබල මණ්ඩලය කොටස් හතරකට වෙන් කිරීමට එරෙහිව විදුලි බලමණ්ඩලයේ සේවකයින් ආරම්භ කළ අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය අද (6) දෙවන දිනටත් ක්‍රියාත්මක වේ.
-
-එම මණ්ඩලයේ කාර්මික ශිල්පීන්ගේ සංගමයේ සභාපති කෝසල අබේසිංහ මහතා පවසා සිටියේ, ස්වේච්ඡා වන්දි යෝජනා ක්‍රමයක් සඳහා ද කිසිඳු සේවකයෙකු එකඟ වී නොමැති බවය.
-
-"අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය ලබන 15වනදා මධ්‍යම රාත්‍රිය දක්වා පළමු අදියර යටතේ ක්‍රියාත්මකයි.
-
-විදුලිබල මණ්ඩලය ප්‍රතිව්‍යුහගත කරණයේ දී වත්මන් ආණ්ඩුව වගකීම් විරහිතව වැඩකිරීමේ ක්‍රියාමාර්ගය නිසා වෘත්තීය ක්‍රියාමාර්ගයට එළැඹුනේ.
-
-පසුගියදා ඇමතිවරයා එක්කත් සාකච්ඡාකළා. එහිදී සාර්ථක ප්‍රතිචාරයක් ලැබුණේ නෑ" යනුවෙන් පැවසීය.
-
-◼️
-
-[Data](articles/e860a9b4.json)
-
----
-
-### எல்ல விபத்து : தனது தங்காலை மக்களுக்கு மஹிந்த இரங்கல்
-
-*2025-09-06 08:14:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-விபத்து-தனது-தங்காலை-மக்களுக்கு-மஹிந்த-இரங்கல்/175-364089) · `ta`
-
-எல்ல-வெல்லவாய பிரதான வீதியில் நடந்த பேருந்து விபத்தில் உயிரிழந்தவர்கள் மற்றும் பாதிக்கப்பட்டவர்களுக்கு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தனது ஆழ்ந்த இரங்கலைத் தெரிவித்துள்ளார்.
-
-“விபத்தில் தங்காலை நகர சபையின் செயலாளர் டி.டபிள்யூ.கே. ரூபசேன உட்பட 15 பேர் உயிரிழந்ததுடன், 16 பேர் காயமடைந்து பதுளை போதனா வைத்தியசாலையில் சிகிச்சை பெறுவதாகவும் அவர் தெரிவித்தார்.
-
-இந்த துயர சம்பவம், குறிப்பாக தனது சொந்த ஊரான தங்காலை மக்களுக்கு மிகுந்த துக்கத்தை ஏற்படுத்தியுள்ளது.
-
-2025 செப்டம்பர் 4 இரவு எல்ல-வெல்லவாய வீதியில் நடந்த பேருந்து விபத்து குறித்து அறிந்து நான் மிகவும் அதிர்ச்சியும் வருத்தமும் அடைந்தேன். தங்காலையில் இருந்து சுற்றுலாவுக்குச் சென்று திரும்பியவர்களில், தங்காலை நகர சபையின் செயலாளர் டி.டபிள்யூ.கே. ரூபசேன உள்ளிட்ட பலர் உயிரிழந்ததுடன், பலர் காயமடைந்துள்ளனர்.
-
-...
-
-[Data](articles/1f2bf11d.json)
-
----
-
-### ඌවේ කුකුළු අභිජනන මධ්‍යස්ථානය විවෘත කෙරේ
-
-*2025-09-06 08:10:30* · [`adalk`](https://www.ada.lk/breaking_news/ඌවේ-කුකුළු-අභිජනන-මධ්‍යස්ථානය-විවෘත-කෙරේ/11-418307) · `si`
-
-ඌව ජනතාවගේ ආහාර සුරක්ෂිතතාවය සහ ප්‍රෝටීන් අවශ්‍යතාව සපුරාලීමේ අරමුණෙන් ගෘහස්ථ ගම් කුකුළ් පාලනය ව්‍යාප්ත කිරීම සඳහා බොරලන්ද රජයේ පශු සම්පත් ගොවි පොළේ ඉඳිකරන ලද කුකුළු අභිජනන මධ්‍යස්ථානය සහ බිත්තර රක්වනාගාරය විවෘත කිරීම (04) වෙනිදා සිදුකෙරිණි.
-
-ඒ සඳහා වැය කර ඇති මුදල රුපියල් මිලියන 200 කි. මෙම මධ්‍යස්ථානයෙන් වාර්ෂිකව කුකුළ් පැටවුන් ලක්ෂ දෙකක් බිහිකර ඌව පළාතේ ගොවියන්ට බෙදාදීමට නියමිතය.
-
-ඉදිරියේදී නිෂ්පාදන වැඩිදියුණු කර දිවයින පුරා ගොවීන්ට කුකුළ් පැටවුන් ලබාදීමටද සැලසුම් කර ඇත.
-
-මධ්‍යස්ථානය විවෘතකිරීමේ අවස්ථාවට සේමාවුල් පදනමේ ශ්‍රී ලංකා අධ්‍යක්ෂක,ඌව පළාත් ආණ්ඩුකාරවර නීතීඥ ජේ.එම් කපිල ජයසේකර,වැවිලි සහ ප්‍රජා යටිතල පහසුකම් ඇමති සමන්ත විද්‍යාරත්න,ඌව පළාත් කෘෂිකර්ම අමාත්‍යංශයේ ලේකම් නිමේෂා ප්‍රියංගි වනසිංහ,ඌව පළාත් ක්‍රීඩා අමාත්‍යංශයේ ලේකම් උපාලි ජයසේකර යන මහත්ම මහත්මීන් ඇතුළු සත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවේ උසස් නිලධාරීහු සහභාගී වූහ.
-
-◼️
-
-[Data](articles/6ea5382c.json)
-
----
-
-### Trump signs order rebranding Pentagon as the ‘Department of War’
-
-*2025-09-06 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112216/trump-signs-order-rebranding-pentagon-as-the-department-of-war) · `en`
-
-President Trump has signed an executive order rebranding the US Department of Defense as the Department of War.
-
-He called the original name “woke” and said the new title sent “a message of victory” and “a message of strength”.
-
-It can only be used as a secondary title unless Congress approves the change - but the department’s website has already switched to war.gov - as have its social media accounts.
-
-The door of Pete Hegsesth’s office has also been adorned with a fresh “Secretary of War” sign.
-
-Mr Hegseth said the move wasn’t “politically correct” but that it showed “we’re going to go on offence”.
-
-“We’re going to raise up warriors, not just defenders,” he added.
-
-President Trump signed the executive order in the White House’s Oval Office on Friday.
-
-“We won the First World War. We won the Second World War. We won everything before that and in between,” he said.
-
-“And then we decided to go woke and we changed the name to Department of Defense. So we’re going Department of War.”
-
-...
-
-[Data](articles/979498e7.json)
-
----
-
-### ශ්‍රී ලංකා - සිම්බාබ්වේ දෙවන T20 තරගය අද
-
-*2025-09-06 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214227) · `si`
-
-ශ්‍රී ලංකාව හා සිම්බාබ්වේ කණ්ඩායම් අතර දෙවන විස්සයි20 ක්‍රිකට් තරගය හරාරේ ක්‍රීඩාංගණයේ දී අද (6) පැවැත්වේ.
-
-දෙරට අතර පළමු විස්සයි20 තරගය ශ්‍රී ලංකාව ජයගත් අතර, ඔවුන් මේ වනවිට තරග 1-0ක් ලෙසින් තරගාවලියේ පෙරමුණගෙන සිටියි.
-
-ඒ අනුව ශ්‍රී ලංකාවට අද තරගය ජයගැනීමට හැකිවුවහොත් තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලියේ ජය තහවුරු කරගැනීමට හැකිවනු ඇත.
-
-මෙය සිම්බාබ්වේ දේශයේ ශ්‍රී ලංකාව ක්‍රීඩාකරන පළමු ද්විපාර්ශ්වීය විස්සයි20 ක්‍රිකට් තරගාවලිය වේ.
-
-◼️
-
-[Data](articles/42ef40d4.json)
-
----
-
-### அமர்ந்த நிலையில் என்புக்கூடு மீட்பு
-
-*2025-09-06 07:50:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமர்ந்த-நிலையில்-என்புக்கூடு-மீட்பு/175-364088) · `ta`
-
-யாழ். செம்மணி மனிதப் புதைகுழியில் கால்கள் மடிக்கப்பட்டு அமர்ந்த நிலையில் என்புக்கூட்டுத் தொகுதி ஒன்று மீட்கப்பட்டுள்ளது.
-
-செம்மணி மனிதப் புதைகுழியில் அகழ்வுப் பணிகளின் போது நேற்றுமுன்தினம் வியாழக்கிழமை குவியலாக எட்டு மனித என்புக்கூட்டுத் தொகுதிகள் அடையாளம் காணப்பட்டிருந்தன. அவற்றைச் சுத்தம் செய்யும் பணிகள் நேற்று (05) முன்னெடுக்கப்பட்டன.
-
-இதன்போது, அவற்றுள் 227 என்று இலக்கமிடப்பட்ட என்புக் கூட்டுத் தொகுதி கால்கள் மடிக்கப்பட்டு அமர்ந்த நிலையில் மீட்கப்பட்டது.
-
-இது தொடர்பில் தெளிவான விளக்கத்தைப் பெற யாழ். பல்கலைக்கழக இந்து நாகரிகத் துறை மூத்த விரிவுரையாளர் ரமணராஜா புதைகுழிப் பகுதிக்கு அழைக்கப்பட்டு, அது தொடர்பான அவரது அவதானிப்புகள், விளக்கங்கள் கோரப்பட்டன.
-
-அவர் தனது அவதானிப்பின்படி, குறித்த மனித என்புத் தொகுதி இந்து முறைப்படி முறையாக அடக்கம் செய்யப்பட்டமைக்கான சான்றுகள் காணப்படவில்லை எனவும், என்புக்கூட்டின் கைகள் காணப்படும் நிலைமை உள்ளிட்ட காரணிகளால் அது முறையாக அடக்கம் செய்யப்பட்ட என்புக்கூடு இல்லை எனவும் தெரிவித்தார்.
-
-...
-
-[Data](articles/a9522e53.json)
-
----
-
-### கொழும்பில் இரு இடங்களில் துப்பாக்கிச் சூடு : ஒருவர் மரணம்
-
-*2025-09-06 07:47:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இரு-இடங்களில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-364087) · `ta`
-
-கொழும்பில் இரு இடங்களில் இடம்பெற்ற துப்பாக்கிச்சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்ததுடன், மற்றுமொரு நபர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-அந்த வகையில், கொழும்பு, கிரேண்ட்பாஸ் பகுதியில் நேற்று இரவு (05) நடந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளார்.
-
-மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றதாக பொலிஸார் தெரிவித்தனர்.
-
-துப்பாக்கிச் சூட்டுக்கான காரணம் இன்னும் தெரியவரவில்லை. ரிவோல்வர் வகை துப்பாக்கி பயன்படுத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
-
-இதற்கிடையில், மருதானை பொலிஸ் பிரிவுக்குட்பட்ட பஞ்சிகாவத்தை வீதியில் அமைந்துள்ள தனியார் வங்கிக்கு முன்பாக இன்று (06) அதிகாலை நடந்த மற்றொரு துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளார்.
-
-மோட்டார் சைக்கிளில் வந்த அடையாளம் தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றதாக பொலிஸார் தெரிவித்தனர்.
-
-காயமடைந்த நபர் தற்போது கொழும்பு தேசிய வைத்தியசாலையின் தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வருகிறார். R
-
-◼️
-
-[Data](articles/111df574.json)
-
----
-
-### ග්‍රෑන්ඩ්පාස් හා පංචිකාවත්තේ වෙඩි තැබීම්
-
-*2025-09-06 07:29:31* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෑන්ඩ්පාස්-හා-පංචිකාවත්තේ-වෙඩි-තැබීම්/11-418306) · `si`
-
-ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මහවත්ත ඔරලෝසු කණුව අසළදී යතුරු පැදයකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙක්සි දුකළ වෙඩි තැබීමකින් පුද්ගලයෙක් මිය ගොස් තිබේ. ඊයේ රාත්‍රී මෙම වෙඩි තැබීම සිදුකර තිබේ.
-
-වෙඩි වැදී තුවාල ලැබූ පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ. මරණකරු අවුරුදු 26ක් වන කැළණිය පදංචිකරුවෙකි.
-
-වෙිඩ තැබීමෙන් අනතුරුව සැකකරුවන් පළාගොස් ඇති අතර වෙඩි තැබීමට හේතුව මෙතෙක් අණාවරණය නොවන බව පොලීසිය කියයි. මෙම වෙඩි තැබීම සඳහා රිවෝල්වර අවියක් යොදා ගන්නට ඇතැයි පොලීසිය සැක කරයි.
-
-මේ අතර අද අලුයම මරදාන පොලිස් වසමෙ පංචිකාවත්ත ප්‍ර දේශයේදී යතුරු පැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙක්සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙක් තුවා ලබා තිබේ.
-
-වෙඩි වැදී තුවාල ලැබූ පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ. තුවාලකරු අවුරුදු 44ක් වන
-
-වෙිඩ තැබීමෙන් අනතුරුව සැකකරුවන් පළාගොස් ඇති අතර වෙඩි තැබීමට හේතුව මෙතෙක් අණාවරණය නොවන බව පොලෟීසිය කියයි.
-
-◼️
-
-[Data](articles/0d160e9d.json)
-
----
-
-### ජීවිත 15ක් බිලි ගත් ඇල්ලේ පෙරළුණු බස් රථය ගැන අලුත් අනාවරණයක්
-
-*2025-09-06 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214226) · `si`
-
-ඇල්ල වැල්ලවාය මාර්ගයේ අනතුරට ලක්වූ බස් රථය 2023 වසරේ ජාතික ගමනාගමන කොමිෂන් සභාවේ ලියාපදිංචියෙන් ඉවත් වූ බස් රථයක් බව ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
-
-ඔහු පවසන්නේ විනෝද චාරිකා සඳහා පමණක් භාවිත කෙරෙන බස්රථ නියාමනය කිරීම සඳහා නීති සම්පාදනය කර නොමැති බවය.
-
-අදාළ මාර්ගයේ අනතුරු අවම කරගැනීම සඳහා ගත හැකි සියලුම පියවර මාර්ග සංවර්ධන අධිකාරිය මගින් ගෙන තිබෙන බවද වෛද්‍ය ප්‍රසන්න ගුණසේන නියෝජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
-
-මේ අතර අනතුරට පත් බස් රථය පරීක්ෂා කිරීම සඳහා මෝටර් රථ ප්‍රවාහන කොමසාරිස් දෙපාර්තමේන්තුවේ කණ්ඩායමක් එම ප්‍රදේශයට ගොස් තිබුණි.
-
-ඊට අමතරව ප්‍රවාහන වෛද්‍ය සභාවේ සහ මාර්ග අරක්ෂාව පිළිබඳව වැඩසටහනට අනුයුක්ත ප්‍රවාහන අමාත්‍යාංශ නිලධාරීන් කණ්ඩායමක්ද අද (06) දිනයේ අනතුරට පත් බස්රථය පරීක්ෂා කිරීම සඳහා ඇල්ල ප්‍රදේශයට යන බව වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා කියා සිටියේය.
-
-ඇල්ල පොලිස් වසමේ ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ තංගල්ල ප්‍රදේශයේ සිට විනෝද චාරිකාවක් පැමිණි පිරිසක් රැගත් බස් රථය එම මාර්ගයේ 24 වන කිලෝමීටර් කණුව ආසන්නයේ ප්‍රපාතයකට පෙරළී සිදුවූ අනතුරෙන් 15 දෙනෙකුට දිවි අහිමි විය.
-
-◼️
-
-[Data](articles/ae85ed61.json)
-
----
-
-### கொழும்பில் இரு துப்பாக்கிச் சூடு சம்பவங்கள்
-
-*2025-09-06 06:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224341) · `ta`
-
-கொழும்பில் நேற்றிரவு (05) மற்றும் இன்று அதிகாலை (06) இரண்டு தனித்தனியான துப்பாக்கிச் சூடு சம்பவங்கள் இடம்பெற்றுள்ளன.
-
-நேற்று இரவு 11.45 மணியளவில், கிராண்ட்பாஸ் மஹாவத்த மணிக்கூட்டுக் கோபுரத்திற்கு அருகில் மோட்டார் சைக்கிளில் வந்த இரண்டு அடையாளம் தெரியாத நபர்கள், ரிவோல்வர் துப்பாக்கியால் ஒருவரை சுட்டுவிட்டு தப்பிச் சென்றனர். இந்த சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளார்.
-
-இன்று அதிகாலை 1.40 மணியளவில், மருதானை பொலிஸ் பிரிவுக்குட்பட்ட பஞ்சிகாவத்த வீதியில் அமைந்துள்ள வங்கியொன்றுக்கு முன்பாக, இரண்டு ஆயுததாரிகள் ஒருவரை சுட்டுவிட்டு தப்பிச் சென்றதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-இந்த சம்பவத்தில் காயமடைந்த நபர், தற்போது கொழும்பு தேசிய வைத்தியசாலையின் விபத்து மற்றும் அவசர சிகிச்சைப் பிரிவின் தீவிர சிகிச்சைப் பிரிவில் (ICU) சிகிச்சை பெற்று வருகிறார்.
-
-◼️
-
-[Data](articles/f80a962b.json)
-
----
-
-### One person injured in shooting in Panchikawatte
-
-*2025-09-06 06:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112215/one-person-injured-in-shooting-in-panchikawatte) · `en`
-
-A person has been injured in a shooting incident that occurred in front of a private bank on Panchikawatte Road in Maradana.
-
-Police stated that two unidentified individuals arrived on a motorcycle, carried out the shooting, and fled the area.
-
-The injured individual is currently receiving treatment in the Intensive Care Unit (ICU) of the Colombo National Hospital, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/6e3f5880.json)
-
----
-
-### Few showers expected in parts of the island today
-
-*2025-09-06 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112214/few-showers-expected-in-parts-of-the-island-today) · `en`
-
-The Meteorology Department states that a few showers may occur in Western, Sabaragamuwa, and Northern Provinces, as well as in Galle, Matara, Kandy, and Nuwara Eliya Districts.
-
-Showers or thundershowers may occur at a few places in Uva, Eastern, and North Central Provinces after 2.00 p.m.
-
-Mainly fair weather will prevail elsewhere in the island, the Department said.
-
-The sun will be directly overhead Sri Lanka from the 28th of August to the 7th of September due to its apparent southward relative motion.
-
-The nearest places in Sri Lanka over which the sun is directly overhead today (6th) are Ahungalla, Elpitiya, Amugoda, Thawalama, Deniyaya, Urubokka, Embilipitiya, Suriyawewa, Beralihela, and Galkaduwa at about 12.08 noon.
-
-◼️
-
-[Data](articles/610e5a4e.json)
-
----
-
-### අද කාලගුණය
-
-*2025-09-06 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214224) · `si`
-
-බස්නාහිර, සබරගමුව සහ උතුරු පළාත්වලත් ගාල්ල, මාතර, මහනුවර, සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (06) දිනයේ වැසි ස්වල්පයක් ඇති විය හැකිය.
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම කාලගුණ අනාවැකිය නිකුත් කරමින් ඒ බව සඳහන් කරයි.
-
-ඌව, නැගෙනහිර සහ උතුරු මැද පළාත්වල සවස 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
-
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
-
-අද දින දහවල් 12:08 ට අහුන්ගල්ල, ඇල්පිටිය, අමුගොඩ, තවලම, දෙනියාය, ඌරුබොක්ක, ඇඹිලිපිටිය, සූරියවැව, බෙරලිහෙල සහ ගල්කඩුව ප්‍රදේශවලට හිරු මුදුන්ව පවතී.
-
-◼️
-
-[Data](articles/cc869ee8.json)
-
----
-
-### ග්‍රෑන්ඩ්පාස් සහ පංචිකාවත්තේ වෙඩිතැබීම් 02ක්
-
-*2025-09-06 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214223) · `si`
-
-කොළඹ ග්‍රෑන්ඩ්පාස් ප්‍රදේශයේ ඊයේ (5) රාත්‍රී 11.45ට පමණ සිදුවූ වෙඩිතැබීමකින් තරුණයෙක් මියගොස් තිබේ.
-
-පොලීසිය සඳහන් කර සිටියේ මහවත්ත ඔරලෝසු කණුව අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇති බවය.
-
-වෙඩිවැදීමෙන් තුවාල ලැබූ පුද්ගලයා කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් තිබේ.
-
-වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, වෙඩිතැබීම සඳහා රිවෝලවර් වර්ගයේ ගිනිඅවියක් භාවිත කර ඇති බවට පොලීසිය සැකපල කරයි.
-
-මේ අතර මරදාන ප්‍රදේශයේ පංචිකාවත්ත මාර්ගයේ පිහිටි පෞද්ගලික බැංකුවක් ඉදිරිපිට අද (6) අලුයම 1.40ට පමණ තවත් වෙඩිතැබීමක් සිදුව තිබේ.
-
-පොලීසිය පැවසුවේ යතුරුපැදියකින් පැමිණි නාදුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇති බවය.
-
-තුවාල ලැබූ පුද්ගලයා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන බව සඳහන්.
-
-◼️
-
-[Data](articles/7ae4279d.json)
-
----
-
-### பிரிட்டனின் கென்ட் டச்சஸ் லேடி கேத்தரின் காலமானார்
-
-*2025-09-06 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224339) · `ta`
-
-கென்ட் டச்சஸ் லேடி கேத்தரின் காலமானார். அவர் இறக்கும் போது அவருக்கு 92 வயது என்று  பக்கிங்ஹாம் அரண்மனை அறிவித்துள்ளது.
-
-மறைந்த இரண்டாம் எலிசபெத் மகாராணியின் முதல் உறவினரான இளவரசர் எட்வர்டை மணந்த கென்ட் டச்சஸ், அரச குடும்பத்தின் மூத்த உறுப்பினரும் ஆவார்.
-
-◼️
-
-[Data](articles/f42b9d3a.json)
-
----
-
-### நள்ளிரவு முதல் ரைஸ், கொத்து உள்ளிட்ட உணவுகளின் விலைகள் குறைப்பு
-
-*2025-09-06 04:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224338) · `ta`
-
-நள்ளிரவு முதல் ரைஸ், கொத்து, பிரியாணி, முட்டை ரொட்டி உள்ளிட்ட முக்கிய உணவுகளின் விலை ரூ.25ஆல் குறைக்கப்படுவதாக அகில இலங்கை சிற்றுண்டிச்சாலைகள் மற்றும் உணவக உரிமையாளர்கள் சங்கத் தலைவர் ஹர்ஷன ருக்ஸான் அறிவித்துள்ளார்.
-
-மேலும், அனைத்து வகையான சிற்றுண்டி உணவுகளின் விலைகளும் ரூ.10ஆல் குறைக்கப்படும் எனவும் அவர் குறிப்பிட்டார்.
-
-இது தொடர்பாக கருத்து வெளியிட்ட ஹர்ஷன ருக்ஸான், இந்த விலைக் குறைப்பு வாடிக்கையாளர்களுக்கு நியாயமான முறையில் வழங்கப்பட வேண்டும் என்று உணவக உரிமையாளர்களை கேட்டுக்கொண்டார்.
-
-◼️
-
-[Data](articles/4a8da3e1.json)
-
----
-
-### கிழக்கு மாகாணசபை தேர்தலை நடாத்துவதா? முறைமையை  நீக்குவதா? அரசு கூறவேண்டும் கபே அமைப்பின் நிறைவேற்று பணிப்பாளர் மனாஸ் மக்கீன் வலிறுத்தல்
-
-*2025-09-06 03:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224337) · `ta`
-
-கிழக்கு மாகாணசபை தேர்தல் கடந்த 5 வருடங்களுக்கு மேலாக பிற்போடப்பட்டு வருகின்றது எனவே; ஜனநாயத்தை மதிப்பதாக ஆட்சிக்கு வந்த ஆட்சியாளர்கள்; என்றால் மாகாணசபை தேர்தல் நடாத்த அவசரமாக நடவடிக்கை எடுக்க சட்ட ஏற்பாடுகளை முன்னெடுக்க வேண்டும்  அல்லது இந்த முறைமை  பொருத்தம் இல்லை இதை நீக்குவது என மக்களுக்கு அரசு கூறவேண்டும் என கபே அமைப்பின் நிறைவேற்று பணிப்பாளர் மனாஸ் மக்கீன் வலிறுத்தியுள்ளார்.
-
-மட்டக்களப்பு காத்தான்குடியில் உள்ள சுதந்திரமானதும் நீதியானதும் மக்கள் இயக்கமான கபே அமைப்பின் காரியாலயத்தில்  வெள்ளிக்கிழமை (5) மாவட்ட இணைப்பாளர் தேசியமானிய ஏ.சி.எம். மீராஸாஹிப்  தலைமையில் இடம்பெற்ற ஊடக மாநாட்டில் அவர் இவ்வாறு தெரிவித்தார்.
-
-சுதந்திரமானதும் நீதியானதும் மக்கள் இயக்கம் 2008 தொடக்கம் இதுவரையான காலப்பகுதியில் இலங்கையில் நடாத்தப்பட்ட ஒவ்வொரு தேர்தலிலும் தேர்தல் கண்காணிப்பில் ஈடுபட்டு வந்துள்ளது. அதேபோல தேர்தல் அல்லாத காலத்தில் வாக்காளர்களுக்கு தேவையான அறிவுறுத்தல் நிகழ்சிகளை நடாத்தி வருகின் றோம்.
-
-...
-
-[Data](articles/4a8c7e63.json)
-
----
-
-### செம்மணியில் சுண்டுக்குளி மாணவி கிருசாந்தி குமாரசுவாமி நினைவேந்தல்
-
-*2025-09-06 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224336) · `ta`
-
-1996 ஆம் ஆண்டு சந்திரிகா அரசாங்கத்தின் ஆட்சிக்காலத்தில், சிறீலங்கா இராணுவத்தினரால் கைது செய்யப்பட்டு வல்லுறவுக்கும் பின்னர் படுகொலைக்கும் உட்படுத்தப்பட்ட சுண்டுக்குளி மகளீர் உயர்தரப் பாடசாலை மாணவி கிருசாந்தி குமாரசுவாமி அவர்களின் 29ஆம் ஆண்டு நினைவேந்தல் நிகழ்வு வரும் 07.09.2025 ஞாயிற்றுக்கிழமை காலை 9.00 மணிக்கு செம்மணி வளைவில் நடைபெற உள்ளது.
-
-◼️
-
-[Data](articles/cf4d8933.json)
-
----
-
-### வவுனியாவில் சப்பறத் திருவிழாவுக்கு பட்டாசுடன் வந்த வாகனம் தீயில் எரிந்து நாசம்
-
-*2025-09-06 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224335) · `ta`
-
-வவுனியாவில் சப்பறத் திருவிழாவுக்கு பட்டாசுடன் வந்த வாகனம் தீயில் எரிந்து நாசமாகியுள்ளதாக வவுனியா பொலிசார் தெரிவித்தனர்.
-
-வவுனியா, வெளிக்குளம் பிள்ளையார்  ஆலயத்தின் சப்பறத் திருவிழா வெள்ளிக்கிழமை (05) இரவு இடம்பெற இருந்த நிலையில், சப்பற திருவிழாவின் போது வெடி கொளுத்துவதற்காக கொண்டு வரப்பட்ட பட்டாசுகளை இறக்கிக் கொண்டிருந்த பட்டா ரக வாகனம் திடீரென தீப்பிடித்து எரிந்துள்ளது.
-
-சம்பவம் தொடர்பில் வவுனியா மாநகரசபை தீயணைப்பு பிரிவினருக்கு அறிவித்ததை அடுத்து தீயணைப்பு பிரிவினரும் ஆலயத்தில் நின்ற மக்களும் இணைந்து தீயை கட்டுக்குள் கொண்டு வந்தனர்.
-
-எனினும், பட்டா ரக வாகனத்தின் பின்பகுதி முழுமையாக தீயில் எரிந்து நாசமாகியுள்ளது. இது தொடர்பாக வவுனியா பொலிசார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/d3b3a1dc.json)
-
----
-
-### கிராண்ட்பாஸ் பகுதியில் துப்பாக்கிச் சூடு – ஒருவர் பலி
-
-*2025-09-06 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224334) · `ta`
-
-கிராண்ட்பாஸ் மாவத்த பகுதியில் சற்றுமுன் நடந்த துப்பாக்கிச் சூடு சம்பவத்தில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/85daac56.json)
-
----
-
-### Youth killed in Grandpass shooting
-
-*2025-09-06 02:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112213/youth-killed-in-grandpass-shooting-) · `en`
-
-One person has been killed following a shooting incident near the Mahawatta clock tower in the Grandpass police division last night (5).
-
-Police said that two unidentified gunmen who arrived on a motorcycle had opened fire at the victim, a 26-year-old resident of Kelaniya, before fleeing the scene of the crime.
-
-The target of the assailants later succumbed to injuries after being admitted to the Colombo National Hospital.
-
-Police suspect that a revolver type firearm was used in the shooting while the motive behind the killing is yet to be ascertained.
-
-Grandpass Police is conducting further investigations to apprehend the suspects.
-
-◼️
-
-[Data](articles/8d705efe.json)
-
----
-
-### 2025-09-05 (Friday)
-
-### බ්‍රිතාන්‍යයේ කෙන්ට් ආදිපාදවරිය  අභාවප්‍රාප්ත වෙයි
-
-*2025-09-05 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214222) · `si`
-
-මිය යන විට ඇය 92 හැවිරිදි වියේ පසු වූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-අභාවප්‍රාප්ත දෙවන එලිසබෙත් රැජිනගේ පළමු ඥාති සහෝදරයා වන එඩ්වඩ් කුමරු සමඟ විවාහ වූ කෙන්ට් ආදිපාදවරිය රාජකීය පවුලේ වයස්ගතම සාමාජිකාවද වනවා.
-
-කෙසේ වෙතත් බකිංහැම් මාලිගය විසින් අද (05) නිවේදනයක් නිකුත් කරමින් ඇයගේ වියෝව නිල වශයෙන් නිවේදනය කර තිබුණි.
-
-◼️
-
-[Data](articles/25365fae.json)
-
----
-
-### යෝජිත ජිනීවා මානව හිමිකම් වාර්තාවට ශ්‍රී ලංකාවෙන් පිළිතුරු
-
-*2025-09-05 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214221) · `si`
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් මණ්ඩලයේ 60 වැනි සැසිවාරයට ඉදිරිපත් කිරීම සඳහා ගොනුකර ඇති මානව හිමිකම් මහ කොමසාරිස්වරයාගේ ශ්‍රී ලංකාව පිළිබඳ වාර්තාවට ජිනීවා නුවර ශ්‍රී ලංකා නිත්‍ය නියෝජිත කාර්යාලය පිළිතුරු ලබාදී තිබේ.
-
-එමඟින් ශ්‍රී ලංකා දූත මණ්ඩලය පෙන්වාදී ඇත්තේ අදාළ වාර්තාව ඉදිරිපත් කිරීමට පදනම් වූ මානව හිමිකම් මණ්ඩලය සම්මත කළ 57/1 දරන යෝජනාව ශ්‍රී ලංකාව විසින් පිළිනොගත් එකක් බවය.
-
-එමෙන්ම ඒ යටතේ ක්‍රියාත්මක වන ශ්‍රී ලංකා වගවීම් ව්‍යාපෘතියට ශ්‍රී ලංකාව අඛණ්ඩව විරුද්ධත්වය පළකරන බවද එමගින් සනාථ කර තිබේ.
-
-විශේෂයෙන් දේශීය සංහිඳියා ක්‍රියාවලියට එවැනි බාහිර ව්‍යාපෘතීන් අගතිදායක වන බවද ශ්‍රී ලංකාව මෙමගින් පෙන්වා දී ඇත.
-
-ශ්‍රී ලංකාව මානව හිමිකම් මහකොමසාරිස් කාර්යාලය සහ එහි නිත්‍ය මානව හිමිකම් යාන්ත්‍රණයක් සමග සමීප සම්බන්ධතාවක් පවත්වාගෙන යන බවද ශ්‍රී ලංකාව සඳහන් කර තිබේ.
-
-මේ හේතුවෙන් මානව හිමිකම් මහ කොමසාරිස්වරයාගේ ශ්‍රී ලංකාව පිළිබඳ අවසන් වාර්තාව නිවැරදි සහ සමබර ආකාරයෙන් ඉදිරිපත් කරන ලෙසද ශ්‍රී ලංකා දුත මණ්ඩලය ඉල්ලා ඇත.
-
-...
-
-[Data](articles/626e7ffa.json)
-
----
-
-### India will continue to buy Russian oil despite US tariffs, finance minister says
-
-*2025-09-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112212/india-will-continue-to-buy-russian-oil-despite-us-tariffs-finance-minister-says) · `en`
-
-India will continue to buy Russian oil as it proves economical, its finance minister said on Friday, despite the Trump administration’s decision to impose heavy import tariffs on Indian goods due, in part, to its energy purchases from Moscow.
-
-As Europe and the U.S. have shunned Russian oil over Moscow’s 2022 invasion of Ukraine, India has taken advantage of discounts on Russian output to become the largest buyer of Russian seaborne crude.
-
-New Delhi has said its purchases of Russian oil have kept the markets in balance.
-
-U.S. President Donald Trump, who is seeking to broker an end to the Ukraine conflict, has said India’s oil imports are helping fund Moscow’s war effort and imposed a 50% tariff on imports from India last month.
-
-Finance Minister Nirmala Sitharaman, speaking on local news channel CNN-News18, said India, the world’s third-biggest oil importer and consumer, had no plans to eschew Russian supplies.
-
-...
-
-[Data](articles/5a69412d.json)
-
----
-
-### எல்ல பஸ் விபத்தில் காயமடைந்தவர்களின் உயிருக்கு ஆபத்து இல்லை - வைத்தியர் பாலித ராஜபக்ஷ
-
-*2025-09-05 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/224333) · `ta`
-
-எல்ல – வெல்லவாய பிரதான வீதியில் வியாழக்கிழமை (04) இரவு இடம்பெற்ற பஸ் விபத்தில் காயமடைந்தவர்களின் நிலைமை தற்போது தற்போது சீராகி வருவதாகவும் அவர்களில் யாருக்கும் உயிருக்கு ஆபத்து இல்லை என்றும் பதுளை போதனா வைத்தியசாலையின் வைத்தியர் பாலித ராஜபக்ஷ தெரிவித்துள்ளார்.
-
-அனைத்து நோயாளிகளின் உயிருக்கு இருந்த ஆபத்து நீங்கியுள்ளது எனவும் அவசர அறுவை சிகிச்சைகள் வெற்றிகரமாக முடிக்கப்பட்டுள்ளன. நோயாளிகள் தற்போது சிகிச்சை பெற்று வருகின்றனர். குறிப்பாக குழந்தைகள் நலமாக உள்ளனர், தீவிர சிகிச்சைப் பிரிவில் (ICU) உள்ள இரு நோயாளிகளுக்கும் பெரிய ஆபத்து இல்லை என்றும் அவர் கூறினார்.
-
-மேலும், விபத்தில் சிக்கியவர்களின் உயிரைக் காப்பாற்ற வைத்தியர்கள், இராணுவம் மற்றும் எல்ல பிரதேச மக்களால் வழங்கப்பட்ட ஒத்துழைப்புக்கு நன்றி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/52111a69.json)
-
----
-
-### පෙන්ටගනයේ නම වෙනස් කිරීමට  ට්‍රම්ප් තීරණය කරයි
-
-*2025-09-05 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214220) · `si`
-
-අමෙරිකානු ආරක්ෂක දෙපාර්තමේන්තුව හෙවත් පෙන්ටගනය නැවතත් අමෙරිකානු යුද දෙපාර්තමේන්තුව ලෙස නම් කිරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් තීරණය කර තිබේ.
-
-ඒ අනුව එරට ආරක්ෂක ලේකම් තනතුර ද යුද ලේකම් ලෙස වෙනස් වනු ඇති.
-
-කෙසේ වෙතත් එම නම වෙනස් කිරීමට එරට කොංග්‍රස් මණ්ඩලයේ අනුමැතිය අවශ්‍ය බැවින් අදාළ අනුමැතිය ලැබෙන තුරු එම දෙපාර්තමේන්තුවේ නම වෙනස් කිරීම ක්‍රියාත්මක කිරීමට ජනාධිපතිවරයාට හැකියාව නොලැබෙන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-◼️
-
-[Data](articles/94116688.json)
-
----
-
-### New IPS publication: ‘Tobacco Smuggling in Sri Lanka – A Scoping Study’
-
-*2025-09-05 21:45:00* · [`islandlk`](http://island.lk/new-ips-publication-tobacco-smuggling-in-sri-lanka-a-scoping-study/) · `en`
-
-A new study by the Institute of Policy Studies of Sri Lanka (IPS) has revealed that cigarette smuggling occurs in various forms across the country, and a better understanding of these channels is necessary to develop policies that will curb smuggling, increase government revenue, and minimise the adverse health impacts.
-
-Despite high excise taxes aimed at curbing tobacco use, smuggling continues to undermine public health efforts and government revenue from tobacco sales. The IPS study, titled “Tobacco Smuggling in Sri Lanka – A Scoping Study,” highlights how illegal trade allows cigarettes to be sold at lower prices, making them more accessible—especially to youth and low-income groups.
-
-...
-
-[Data](articles/c9c99d50.json)
-
----
-
-### Despite lending uptick and fiscal gains, markets remain uneasy
-
-*2025-09-05 21:44:00* · [`islandlk`](http://island.lk/despite-lending-uptick-and-fiscal-gains-markets-remain-uneasy/) · `en`
-
-Sri Lanka’s economic landscape for the week ending September 4, 2025, presented a mixed picture with encouraging fiscal gains and credit growth while equity markets softened and the rupee continued to face pressure.
-
-On the brighter side, government revenue and grants rose to Rs. 2,734.9 billion in the first seven months of the year, up from Rs. 2,161.8 billion in the same period of 2024. The budget deficit narrowed sharply to Rs. 556.1 billion from Rs. 872.6 billion last year, reflecting stronger fiscal consolidation efforts. At the same time, private sector credit expanded by Rs. 201.5 billion in July alone, registering a healthy year-on-year growth of 19.6 per cent, pointing to renewed business and consumer confidence.
-
-Liquidity conditions also remained stable, with a market surplus of Rs. 144.37 billion by September 4, while workers’ remittances continued to provide vital support to the external sector, bringing in US$ 680.8 million in August, higher than US$ 577.5 million a year ago.
-
-...
-
-[Data](articles/75a42104.json)
-
----
-
-### A Sweet Milestone: The first harvest of Browns Hotels & Resorts’ bee honey farming initiative
-
-*2025-09-05 21:43:00* · [`islandlk`](http://island.lk/a-sweet-milestone-the-first-harvest-of-browns-hotels-resorts-bee-honey-farming-initiative/) · `en`
-
-In the heart of Sri Lanka’s Cultural Triangle, Browns Hotels & Resorts has marked a milestone as meaningful as it is sweet: the very first harvest of its Sustainable Bee Honey Farming Initiative, a unique collaboration across three of its properties: Hotel Sigiriya, Occidental Paradise Dambulla and Ayugiri Ayurveda Wellness Resort. What began with a few buzzing bee boxes has now grown into thriving colonies, yielding their first golden honey after eight months of care and dedication.
-
-...
-
-[Data](articles/309dddf9.json)
-
----
-
-### SriLankan Airlines marks 46 years with travel treats for passengers
-
-*2025-09-05 21:42:00* · [`islandlk`](http://island.lk/srilankan-airlines-marks-46-years-with-travel-treats-for-passengers/) · `en`
-
-SriLankan Airlines completed another journey around the sun on 1 September 2025, celebrating its 46th Anniversary by giving its valued customers more reasons to explore the world with special anniversary offers. A pioneer in the region, SriLankan Airlines has long been a true ambassador for Sri Lankan hospitality on the global stage. Local in spirit, global in operations and renowned for its award-winning service, the airline looks ahead to many more years of seamlessly connecting people, cultures and trade.
-
-Spreading the cheer, customers can enjoy 20% off Business Class and 15% off Economy Class return fares to all online destinations when booked via the SriLankan Airlines website between 1 – 5 September ’25. Members of the airline’s loyalty programme, FlySmiLes, who book within the first two weeks of September will also earn 46% bonus miles, symbolising 46 years in the skies.
-
-...
-
-[Data](articles/f19e8ade.json)
-
----
-
-### Duchess of Kent, oldest member of British royal family, dies aged 92
-
-*2025-09-05 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112211/duchess-of-kent-oldest-member-of-british-royal-familydiesaged92) · `en`
-
-The Duchess of Kent has died at the age of 92, Buckingham Palace has announced with “deep sorrow”.
-
-She “passed away peacefully last night at Kensington Palace, surrounded by her family”, a statement said on Friday, with flags on royal residences, including Buckingham Palace, now lowered to half mast.
-
-The Prince and Princess of Wales said the duchess would be a “much missed member of the family” who had “worked tirelessly to help others and supported many causes, including through her love of music”.
-
-The duchess, Katharine, was the oldest member of the Royal Family, married to Prince Edward, the Duke of Kent, a first cousin of the late Queen Elizabeth II.
-
-She will be remembered as a familiar figure at the Wimbledon tennis championships, where she handed over trophies - and consoled those who had lost, famously including a tearful Jana Novotna in 1993.
-
-...
-
-[Data](articles/0b5b612e.json)
-
----
-
-### ‘Prajashakthi’ and other development programmes reviewed at district level
-
-*2025-09-05 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112210/prajashakthi-and-other-development-programmes-reviewed-at-district-level) · `en`
-
-A district-level progress review meeting on key government development programmes, including the national Prajashakthi initiative aimed at empowering communities and ensuring equitable economic distribution, was held yesterday (04) at the Presidential Secretariat.
-
-The meeting was chaired by the Secretary to the President Dr Nandika Sanath Kumanayake, with the participation of District Secretaries, the President’ Media Division (PMD) said.
-
-According to the statement, extensive discussions were held at the meeting, regarding the manner in which the Prajashakthi programme is being implemented at district level and its future plans.
-
-It was emphasised that rather than making Prajashakthi another poverty-alleviation initiative, the programme must be advanced in alignment with the national drive to build a prosperous country, integrating the entire state machinery towards this goal.
-
-...
-
-[Data](articles/6619cf03.json)
-
----
-
-### බ්‍රිතාන්‍ය නියෝජ්‍ය අගමැතිනී ඇන්ජෙලා රේනර් ඉල්ලා අස්වෙයි
-
-*2025-09-05 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214219) · `si`
-
-බ්‍රිතාන්‍යයේ නියෝජ්‍ය අගමැතිවරිය ලෙස කටයුතු කළ ඇන්ජෙලා රේනර් සිය තනතුරින් ඉල්ලා අස්වී තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ නැගෙනහිර සසෙක්ස් හී මිලදී ගත් මහල් නිවාසයකට ප්‍රමාණවත් මුද්දර ගාස්තු ගෙවීමට අපොහොසත් වීම හේතුවෙන් ඇන්ජෙලා සිය නියෝජ්‍ය අග්‍රාමාත්‍ය ධුරයෙන් සහ නිවාස ලේකම් ධුරයෙන් ඉල්ලා අස්වී ඇති බවය.
-
-ඇය සිය තනතුරින් ඉල්ලා අස්වීමෙන් පසු තමන් දැරූ කම්කරු පක්ෂයේ නියෝජ්‍ය නායකත්ව ධුරයෙන් ඉල්ලා අස්වී ඇතැයිද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-පිටු දෙකක් පුරාවට සිය ඉල්ලා අස්වීමේ ලිපිය සටහන් කරමින් ඇය පවසා ඇත්තේ මෙහි සම්පූර්ණ වගකීම ඇය විසින් භාර ගන්නා බවත් මෙම කාරණය සම්බන්ධව ඇගේ පවුලේ සාමාජිකයින් කෙරෙහි ඇති අවධානයේ බලපෑම හේතුවෙන් තමන් සිය ධුරයෙන් ඉල්ලා අස්වන බවය.
-
-ඇගේ ඉල්ලා අස්වීමෙන් පසු බ්‍රිතාන්‍ය අග්‍රාමාත්‍ය කියර් ස්ටාර්මර් විසින් සිය කැබිනට් මණ්ඩලය සංශෝධනය කර ඇති අතර ඒ අනුව නව නියෝජ්‍ය අග්‍රාමාත්‍යවරයා ලෙස ඩෙවිඩ් ලැමි පත් කිරීමට අග්‍රාමාත්‍යවරයා විසින් පියවර ගෙන තිබේ.
-
-එමෙන්ම ඔහුව නියෝජ්‍ය අගමැති ධුරයට අමතරව අධිකරණ ලේකම් ලෙසද පත්කර ඇත.
-
-...
-
-[Data](articles/71db7e17.json)
-
----
-
-### Intrepid Travel’s Sri Lanka GM Poornaka Delpachitra recognized as a 2025 PATA Face of the Future awardee for sustainability initiatives
-
-*2025-09-05 20:41:00* · [`islandlk`](http://island.lk/intrepid-travels-sri-lanka-gm-poornaka-delpachitra-recognized-as-a-2025-pata-face-of-the-future-awardee-for-sustainability-initiatives/) · `en`
-
-Intrepid Travel is proud to celebrate the recognition of Poornaka Delpachitra, Country General Manager of Intrepid Travel Sri Lanka, as a 2025 PATA Face of the Future awardee.
-
-Presented by the Pacific Asia Travel Association (PATA), the Face of the Future award is the Association’s highest honor for young tourism professionals making an outstanding contribution to the industry. Poornaka is one of four emerging leaders across Asia Pacific recognized this year, and the winner for Sustainability Initiatives.
-
-“It’s a great honor and deeply humbling to be recognized by PATA. I’m proud to be leading a team that truly believes in creating positive change through the joy of travel and I’m excited to keep building that future in Sri Lanka and beyond,” he said.
-
-Poornaka leads one of Intrepid’s largest global operations, overseeing both Destination Management Company and its shared services Centre in Sri Lanka.
-
-...
-
-[Data](articles/e57d9722.json)
-
----
-
-### Pearl Bay becomes popular venue for corporate outings and team-building events
-
-*2025-09-05 20:40:00* · [`islandlk`](http://island.lk/pearl-bay-becomes-popular-venue-for-corporate-outings-and-team-building-events/) · `en`
-
-The family-friendly theme park is now highly sought-after by larger groups for its multiple activity zones, wide-range of facilities, and international safety and quality standards
-
-Gribson Hapukotuwa – Executive Director- Chief Executive Officer – David Pieris Leisure (Pvt) Ltd
-
-Pearl Bay, Sri Lanka’s first leisure park built according to European Standards among other exciting attractions, is seeing a steady increase in team-building events as well as corporate family outings, demonstrating the location’s growing appeal to larger groups and exclusive reservations. With multiple activity-led recreational and family-friendly zones spread across 23 acres, Pearl Bay is steadily earning the reputation as a venue that leverages fun and excitement to create engaging, impactful and memorable experiences for both families and corporate teams.
-
-...
-
-[Data](articles/5c91103d.json)
-
----
-
-### Shaping the future of Sri Lanka’s insurance industry
-
-*2025-09-05 20:38:00* · [`islandlk`](http://island.lk/shaping-the-future-of-sri-lankas-insurance-industry/) · `en`
-
-Sri Lanka’s insurance industry today stands at a decisive and promising crossroads. We are a country with a commendably high general literacy rate, a strong foundation on which to build. While our financial literacy, particularly in the area of insurance, has room to grow, this also presents us with an exciting opportunity. By addressing this gap, we can identify new avenues for industry growth and strengthen national resilience. As the Insurance Association of Sri Lanka (IASL), we see this moment as an opportunity to drive impactful change. Our vision, as a collective, is to expand penetration, embrace technology and build lasting trust through greater financial awareness.
-
-...
-
-[Data](articles/3f11e957.json)
-
----
-
-### පද්මේ ගෙන්වූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදන රසායනික ද්‍රව්‍ය ගැන තවත් තොරතුරු එළියට
-
-*2025-09-05 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214218) · `si`
-
-අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට භාවිත කරන රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් පමණ මිද්දෙණිය, තලාව ප්‍රදේශයේ නිවසක වළදමා තිබියදී බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය විසින් අද (05) සොයාගනු ලැබීය.
-
-එම කොට්ඨාසය භාරයේ රඳවා සිටින බැකෝ සමන් නමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඒවා සොයාගත් අතර කෙහෙල්බද්දර පද්මේ නමැත්තා විසින් අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට අදාළ රසායනික ද්‍රව්‍ය මෙරටට ගෙන්වූ බවද ඔහු පවසා තිබේ.
-
-පොලිසිය පැවසුවේ, ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පළාත් පාලන මන්ත්‍රීවරයෙක් හා ඔහුගේ සහෝදරයා අදාළ රසායනික ද්‍රව්‍ය සඟවා තබාගෙන සිට ඇති බවය.
-
-කෙහෙල්බද්දර පද්මේ අයිස් නිෂ්පාදනය කිරීම සඳහා නුවරඑළිය ප්‍රදේශයේ නිවසක් කුලියට ගෙන පාකිස්තානුවන් දෙදෙනෙකුද මෙරටට ගෙන්වා ඇති බව පසුගියදා පොලිසිය අනාවරණය කරගෙන තිබුණි.
-
-ඒ අනුව බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ පසුවන බැකෝ සමන් නැමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඒ පිළිබඳව තහවුරු කරගැනීමට පොලිසියට හැකි විය.
-
-එහි ප්‍රතිඵලයක් ලෙස පසුගියදා බැකෝ සමන් හා තැඹිලි ලහිරු මිද්දෙණිය ප්‍රදේශයට රැගෙන ගොස් පොලිසිය විමර්ශන සිදුකරනු ලැබීය.
-
-...
-
-[Data](articles/677bd006.json)
-
----
-
-### ජාතික මීලාද් - උන් - නබි  සැමරුම ජනපති ප්‍රධානත්වයෙන්
-
-*2025-09-05 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214217) · `si`
-
-ජාතික මීලාද් - උන් - නබි සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (05) පස්වරුවේ අම්බලන්තොට, මැලේ කොලනි ගම්මානයේ, මස්ජිදුල් අරූසියා ජුම්මා මස්ජිද් පරිශ්‍රයේදී පැවැත්විණි.
-
-බුද්ධශාසන ආගමික සහ සංස්කෘතික කටයුතු අමාත්‍යාංශය සහ මුස්ලිම් ආගමික හා සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව විසින් ඉස්ලාම් ආගමික නායක මුහම්මද් නබිතුමාගේ ජන්ම දිනය නිමිති කොට ගෙන මෙම ජාතික උත්සවය සංවිධාන කර තිබු අතර ප්‍රදේශයේ මහා සංඝරත්නය ඇතුළු සියලු ආගම්වලට අයත් ජනතාවගේ  සහයෝගය සහ දායකත්වය ඊට හිමි වීම විශේෂත්වයකි.
-
-2025 ජාතික මීලාද් - උන් - නබි සැමරුම වෙනුවෙන් නිකුත් කළ සමරු මුද්දරය මෙහිදී ජනාධිපතිවරයා වෙත පිළිගැන්වුණු අතර  හම්බන්තොට දිස්ත්‍රික්කයේ මුස්ලිම් ප්‍රජාවගේ සංස්කෘතික හා ඓතිහාසික වටිනාකම සම්බන්ධයෙන් සම්පාදනය කෙරණු “හම්බන්තොට දිස්ත්‍රික්කයේ මුස්ලිම් ප්‍රජාවගේ ඉතිහාසය සහ වර්ධනය” ග්‍රන්ථයද පිළිගැන්විණි.
-
-...
-
-[Data](articles/a6a1091d.json)
+[Data](articles/572682bb.json)
 
 ---

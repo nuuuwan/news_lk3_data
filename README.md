@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 14:07:31**
+As of **2025-09-07 12:53:57**
 
 ## Newspaper Stats
 
-*Scraped **74,556** Articles*
+*Scraped **74,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,129 +16,21 @@ economynextcom | 4,523
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,210
+adalk | 7,209
 adaderanalk | 9,536
 tamilmirrorlk | 11,097
 virakesarilk | 12,186
-adaderanasinhalalk | 12,982
+adaderanasinhalalk | 12,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,252 (83.5%) of 74,556 articles have been extended.
+62,154 (83.4%) of 74,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
-
-### ලන්ඩන්හි විරෝධතාවයක් අතරතුර 300ක් අත්අඩංගුවට
-
-*2025-09-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214278) · `si`
-
-පලස්තීනයට සහාය දක්වමින් ලන්ඩන් නුවර ඊයේ පැවැති විරෝධතාවයක් අතරතුර පුද්ගලයින් 300ක් අත්අඩංගුවට ගැනීමට එරට පොලිසිය කටයුතු කර තිබේ.
-
-එම විරෝධතාවය සඳහා 1, 500ක පමණ පිරිසක් එක්ව සිටි බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-පැලස්ටයින් ඇක්ෂන් ගෘෘප් නම් බ්‍රිතාන්‍ය තුළ තහනම් සංවිධානයක් මෙම විරෝධතාවය සංවිධාන කර ඇති බව වාර්තා වේ.
-
-කෙසේ වෙතත් පසුගිය අගෝස්තු මාසයේ ද එවැනිම විරෝධතාවයක් අතරතුර 500ක පමණ පිරිසක් අත්අඩංගුවට ගැනිමට එරට පොලිසිය කටයුතු කළේය.
-
-◼️
-
-[Data](articles/92ba77cd.json)
-
----
-
-### ධුරයෙන් ඉල්ලා අස්වීමට ජපාන අගමැතිගෙන් තීරණයක්
-
-*2025-09-07 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214277) · `si`
-
-ජපාන අගමැති ෂිගේරු ඉෂිබා ඉල්ලා අස්වීමට තීරණය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-ඔහු අද (07) එම තීරණ ගෙන ඇත්තේ,ලොව සිව්වන විශාලතම ආර්ථිකය නව දේශපාලන අවිනිශ්චිතතාවයකට ඇද දමමින්ය.
-
-තම පාලක පක්ෂය තුළ භේදයක් ඇතිවීම වළක්වා ගැනීම සඳහා ඔහු මෙම තීරණය ගෙන ඇති බව වාර්තා වෙයි.
-
-ජපාන අගමැති ඉෂිබා එරට වේලාවෙන් සවස 6 ට මාධ්‍ය හමුවක් පවත්වන බව සඳහන්ය.
-
-ජූලි මාසයේ පැවති මැතිවරණයකදී තම ලිබරල් ප්‍රජාතන්ත්‍රවාදී පක්ෂය ප්‍රමුඛ සන්ධානය ලැබූ ඓතිහාසික පරාජයක් හේතුවෙන් ඉල්ලා අස්වීමට සැලසුම් කර ඇති බවට පළ වූ වාර්තා ඉෂිබා ප්‍රතික්ෂේප කිරීමෙන් සති කිහිපයකට පසු අද මෙම  නිවේදනය නිකුත් වී තිබේ.
-
-මෙම පරාජයන් නිසා ඉෂිබාගේ සන්ධානයට තම ප්‍රතිපත්තිමය අරමුණු ක්‍රියාත්මක කිරීම වඩාත් අපහසු වී ඇත.
-
-◼️
-
-[Data](articles/e362be8c.json)
-
----
-
-### ඇල්ලේදී අනතුරට ලක්වූ බස් රථයේ රියදුරුගේ රුධිර සාම්පල රස පරීක්ෂක දෙපාර්තමේන්තුවට
-
-*2025-09-07 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214276) · `si`
-
-ඇල්ල වැල්වාය මාර්ගයේ අනතුරට ලක්වූ බස් රථ රියදුරුගේ රුධිර සාම්පල පරීක්ෂාව සදහා රස පරීක්ෂක දෙපාර්තමේන්තුව වෙත යොමු කිරීමට තීරණය කර තිබේ.
-
-අනතුර සිදුවන අවස්ථාවේ එම රියදුරු මත්පැන් පානය කර සිටියේ ද යන්න පිළිබඳව අනාවරණය කර ගැනීම සඳහා රුධිර සාම්පල අද දිනයේ රස පරීක්ෂක දෙපාර්තමේන්තුව වෙත යොමු කිරීමට පියවර ගන්නා බව පොලිසිය සදහන් කළේය.
-
-පසුගිය බ්‍රහස්පතින්දා දින රාත්‍රීයේ ඇල්ල වැල්ලවාය මාර්ගයේ 24 වන කණුව ආසන්නයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළීමෙන් සිදුවු අනතුරින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තවත් 17 දෙනෙකු තුවාල ලැබීය.
-
-අනතුරින් බස් රථයේ රියදුරු ද මියගිය අතර ඔහු අනතුර සිදුවන අවස්ථාවේ යම් මත්ද්‍රව්‍යයක් පානය කර සිට ඇත්ද යන්න පිළිබඳව සොයා බැලීම සඳහා මෙසේ රුධිර පරීක්ෂාවක් සිදු කිරීමට තීරණය කර ඇති බව වාර්තා වේ.
-
-අදාළ අනතුරින් මියගිය පුද්ගලයින්ගෙන් 12 දෙනෙකු තංගල්ල නගර සභාවේ සේවකයින් වන අතර ඔවුන්ගේ දේහයන් මේවන විට සිය නිවෙස් වෙත භාර දී ඇති බවත් අවසන් කටයුතු අද දිනයේ සිදුකිරීමට නියමිත බවත් වාර්තා වේ.
-
-...
-
-[Data](articles/ff4e6a10.json)
-
----
-
-### Police warn about the message that gives rewards gifts
-
-*2025-09-07 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214275) · `si`
-
-Police say that a fraudulent message is being exchanged through social media, saying that banks will be rewarded by banks.
-
-The police further point out that the message is a fraudulent and very dangerous scam.
-
-It has been revealed that it is stealing personal information as well as the software on mobile phones.
-
-The main Information Security Officer, Norrosh Ananda said that the computer emergency response forum has also received several complaints.
-
-He added that the banking banks should pay more attention to such false messages.
-
-◼️
-
-[Data](articles/4a6ecf94.json)
-
-[Extended Data](ext_articles/4a6ecf94.ext.json)
-
----
-
-### The auto-shared traffic is tightly to the traffic fixed
-
-*2025-09-07 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214274) · `si`
-
-Deputy Minister of Transport, Dr. Prasanna Gunasena says that the law will operate the law from tomorrow.
-
-The Deputy Minister pointed out that a note of Facebook account is focused on the noisy diverse ringing, and exchanges with different lamps.
-
-On Thursday night, the footprint of a safe iron route was to collapse near a luxury jeep 24 of the Ella-Wellawaya road.
-
-The victim was a bus and a bus with a picnic, including a group of Tangalle Urban Council workers and their relatives.
-
-15 people lost their lives and 17 others in the bus was injured.
-
-There were also injured in the saving crash.
-
-Of the injured, 13 of the injured were receiving treatment at the Jaffna Teaching Hospital.
-
-◼️
-
-[Data](articles/d1443e18.json)
-
-[Extended Data](ext_articles/d1443e18.ext.json)
-
----
 
 ### Five dictated five boat in Pakistan
 
@@ -157,26 +49,6 @@ The floods in Pakistan have affected more than 4,100 million in the country and 
 [Data](articles/d68bf41d.json)
 
 [Extended Data](ext_articles/d68bf41d.ext.json)
-
----
-
-### 38 bottles of alcohol layer of downtimes to be sold to Poya Day
-
-*2025-09-07 12:08:00* · [`adalk`](https://www.ada.lk/breaking_news/පොහොය-දින-අලෙවි-කිරීමට-වළදමා-තිබූ-මත්පැන්-බෝතල්-38ක්-ගොඩ-ගනියි/11-418325) · `si`
-
-A suspect was arrested by the officers of the Hatton Police Division (06) with 38-approved dried fishing bottles of the Hatton Police Division (06) at the Hatton Police Station.
-
-Hatton Abosley estate OIC of the Hatton Divisional Police Inspector General of Police (OIC of the Hatton Division has arrested the suspects and arrested bottles of alcohol.
-
-The suspect was arrested by the Office of the Hatton Division, which was purchased in his garden, that the suspect had been closed down to the sale of licenses.
-
-A Hatton Police said that the suspect is presented to Hatton Magistrate's Office.
-
-◼️
-
-[Data](articles/8fb5280f.json)
-
-[Extended Data](ext_articles/8fb5280f.ext.json)
 
 ---
 
@@ -418,21 +290,19 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 ---
 
-### Import of vehicles cost US $ 475 million in first 6 months
+### වාහන ආයනයනට මුල් මාස 6දී ඩොලර් මිලියන 475ක් වැය වෙලා
 
 *2025-09-07 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආයනයනට-මුල්-මාස-6දී-ඩොලර්-මිලියන-475ක්-වැය-වෙලා/11-418324) · `si`
 
-According to a report issued by the Central Bank Sri Lanka's US $ 475 million in the first six of the year.
+වාහන ආනයනය කිරිම  සදහා මෙම වර්ෂයේ මුල්මාස හය තුලදි  ඇමරිකානු ඩොලර් මිලියන  475ක මුදලක් වැයවි ඇති බැව් ශ්‍රිලංකා මහබැංකුව විසින් නිකුත්කොට ඇති වාර්තාවක සදහන් වේ.
 
-Accordingly, the importation of vehicles including private vehicles, commerce vehicles, including vehicles, has spent. The Central Bank report also stated that the importation of the laws on imports of vehicle imports this year. The Central Bank points out that the demand for vehicles has been increased and the demand for vehicles will be gradually reduced.
+ඒ අනුව පුද්ගලික රථවාහන, වාණිජ්‍ය කටයුතු සදහා යෙදාගනු ලබන වාහන, ඇතුළු  වාහන ආනයනය කිරිම සදහා මෙම මුදල වැයවි ඇත. මෙම වර්ෂයේ ජනවාරි මාසයේ දි  වාහන ආනයන මත පනවා තිබු සිමාවන් ලිහිල් කිරිමත් සමග  මෙම වර්ෂයේ මුල් භාගයේ දි වාහන  ආනයනය කිරිම කැපිපෙනෙන ලෙස වැඩිවිමක් දක්නට ලැබුණු බවද මහබැංකු වාර්තාවේ සදහන් වේ. වාහන සදහා ඉල්ලුම ඉහළයාමේ තත්ත්වයක් දක්නට ඇති අතර   වාහන සදහා ඇති අධික ඉල්ලුම  ක්‍රමයෙන් අඩුවනු ඇති බවද මහබැංකුව පෙන්වා දෙයි.
 
-The Central Bank report also states that the rupee has caused 3.1 percent to the US dollar in July 2025 am on July 22, 2005.
+වාහන ආනයන සිමාවන් ලිහිල්කිරිම සහ ආනයන ඉහළයාම මධ්‍ය යේ  2025 වර්ෂයේ ජුලි මස 22 වැනිදින දක්වා කාලය තුල  ශ්‍රිලංකා රුපියල ඇමරිකානු ඩොලරයට සාපේක්ෂව සියයට 3.1 සුළු අවප්‍රමාණයක්  සිදුවි ඇති බවද මහබැංකු වාර්තාවේ සදහන් වේ.
 
 ◼️
 
 [Data](articles/ea92a3c0.json)
-
-[Extended Data](ext_articles/ea92a3c0.ext.json)
 
 ---
 
@@ -2043,5 +1913,123 @@ Diyagada TRI of moving from Deniyaya to Akuressa. The Komodara road can come to 
 [Data](articles/0578959b.json)
 
 [Extended Data](ext_articles/0578959b.ext.json)
+
+---
+
+### Arrest
+
+*2025-09-06 17:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேடப்பட்டு-வந்த-பியல்-மனம்பேரி-கைது/150-364095) · `ta`
+
+Former Sri Lanka PA's former Pradeshiya Sabha member Piel Manamberi has been arrested.
+
+He was searching for an incident where about 50,000 kilograms of chemicals were found to be used to produce ice drugs as he was buried in a house in Mitteniya yesterday.. Remble
+
+◼️
+
+[Data](articles/ca9b5f26.json)
+
+[Extended Data](ext_articles/ca9b5f26.ext.json)
+
+---
+
+### Arrest
+
+*2025-09-06 17:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-பியல்-மனம்பேரி-கைது/175-364095) · `ta`
+
+Former Sri Lanka PA's former Pradeshiya Sabha member Piel Manamberi has been arrested.
+
+He was searching for an incident where about 50,000 kilograms of chemicals were found to be used to produce ice drugs as he was buried in a house in Mitteniya yesterday.. Remble
+
+◼️
+
+[Data](articles/e3471b20.json)
+
+[Extended Data](ext_articles/e3471b20.ext.json)
+
+---
+
+### Sri Lanka Railway Department project to build small trains
+
+*2025-09-06 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224388) · `ta`
+
+Minister Nalinda Jayadissa said that the Sri Lankan Railway Department is planning to build three compartments with three compartments to operate on rural routes.
+
+It is reported that each box will be operated by a diesel engine on the train.
+
+At the same time, the Cabinet has given permission to connect the train compartments controlled by the electronic system.
+
+About 200 to 240 passengers can be transported on small trains.
+
+Already there were some rail buses (a box of wheels that could run on the railway line).
+
+But it is reported that there are practical problems in running them with existing schedules.
+
+◼️
+
+[Data](articles/1ec0af06.json)
+
+[Extended Data](ext_articles/1ec0af06.ext.json)
+
+---
+
+### Dudley Sirisena promises to remove the unauthorized part of the Sudhu Araliya Hotel!
+
+*2025-09-06 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/224383) · `ta`
+
+He also stated that the area is compliant with the law by personally removing the area and the hotel operations and bookings will continue until May.
+
+In early July, the Minister of Agriculture, Livestock, Lands and Irrigation. Significantly, the claims that the hotel was excluded from the government's plan to eliminate unauthorized structures in the Lalgantha and irrigation tank bookings.
+
+◼️
+
+[Data](articles/0c46a90c.json)
+
+[Extended Data](ext_articles/0c46a90c.ext.json)
+
+---
+
+### Siyalallava Ravindavatinna Solar Power Park begins
+
+*2025-09-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214245) · `si`
+
+By 2030, 70% of the National Electricity Renewable Power Project in Sri Lanka, the Siyambalanduwa, a major movement of renewable energy, was launched by President Anura Kumara Dissanayake.
+
+The cost incurred on this massive project, which is added to the national power system in the country, is US $ 140 million.
+
+The project will be constructed in a 500 acres of land in the Kotiyagala Grama Niladhari Division of the Kotiyagala Grama Niladhari, the Siyambalanduwa Divisional Secretariat area in the Moneragala District.
+
+The annual electricity consumption in the country is 15,000 and 16,000 Glass annually with 219 gain annually.
+
+As a result, the annual exchange of diesel will be able to save 21 billion rupees annually to the country. Accordingly, 41 million rupees will be left to the country approximately Rs. 41 million.
+
+Due to the exclusive sign of the country's sustainable development and the Sustainable Energy Sector, an atmosphere, is expected to reduce about 150,000 metric tons per year.
+
+...
+
+[Data](articles/75af366b.json)
+
+[Extended Data](ext_articles/75af366b.ext.json)
+
+---
+
+### The remains of the deceased have been transported by the Ella's crash
+
+*2025-09-06 16:39:01* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරින්-මිය-ගිය-අයගේ-දේහ-බදුල්ල-මුස්ලිම්වරුන්ගේ-දායකත්වයෙන්-ප්‍රවාහනය-කරයි/11-418313) · `si`
+
+The Tangalle Municipal Council workers were transported to Tangalle yesterday (5) at the 15-year-old buses of the Falls in the 15th in the 15th area of ​​the Ella.
+
+The suspects were on the 4th night when the picnic were traveling from Nuwara Eliya to Tangalle along the Wellawaya main road.
+
+The picnic bus was killed in a nearby Luxury jeep in the Falls in the French area and followed the Ravana Ella trials.
+
+The Badulla District of the Badulla district, the Badulla district of the Badulla district, the Badulla District of the Badulla district, the Badulla District of the Badulla District to help the helpless people to help them and provide relief to the poor people.
+
+Emergency inspector is the purpose of providing public services to all nations and religion without any racial science.. He also said that Faisal was the assistance of the Janasa Society, Organizer, Diyatalawa and Welinigahala, Bakinigahawela, Badulla, Bandarawela, Bandarawela, Diyatalawa and Bakinigahawela.
+
+◼️
+
+[Data](articles/d9f75803.json)
+
+[Extended Data](ext_articles/d9f75803.ext.json)
 
 ---

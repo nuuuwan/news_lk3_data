@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 23:38:22**
+As of **2025-09-07 22:53:21**
 
 ## Newspaper Stats
 
-*Scraped **74,618** Articles*
+*Scraped **74,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,88 +17,38 @@ islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,218
-adaderanalk | 9,547
+adaderanalk | 9,546
 tamilmirrorlk | 11,108
 virakesarilk | 12,201
-adaderanasinhalalk | 12,996
+adaderanasinhalalk | 12,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,814 (84.2%) of 74,618 articles have been extended.
+62,773 (84.1%) of 74,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### Main colleagation of organized crime leader
-
-*2025-09-07 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214293) · `si`
-
-Two T-56 rifle, a T-56 rifle, and a motorcycle have been arrested with the organized crime leader of the "Panadura Nilate" leader.
-
-The officials in Kalutara crimes have been arrested, a nickname called "Embilipitiya Suranga" and a resident of Horana.
-
-The first suspect, Embilipitiya Suranga has been arrested with five motorcycle and ice narcotics in the Arukgoda area in Panadura.
-
-Police said the suspect had been in a rented house in Abegoda.
-
-The motorcycle was revealed that the motorcycle was identified as a motorcycle used for shooting in Panadura, Malamulla and Madatupitiya area.
-
-In addition, the suspect is a person who is accused of shootings and shootings for the shootings and murder of the suspect.
-
-It is revealed that firearmarust used in connection with the shootings of the suspect was hidden in a house in Batuwita, Horana.
-
-T-56 riffle, a T-56 riffle, and 30 small phones for telephone communication have been found in the shootings, which were hidden in a cupboard.
-
-◼️
-
-[Data](articles/5e63a9ec.json)
-
-[Extended Data](ext_articles/5e63a9ec.ext.json)
-
----
-
-### England beat England
+### එංගලන්තයට වාර්තාගත ජයක්
 
 *2025-09-07 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214292) · `si`
 
-England team won the third one day cricket match against the tourist South African team.
+සංචාරක දකුණු අප්‍රිකානු කණ්ඩායමට එරෙහි තෙවන එක්දින ක්‍රිකට් තරගයෙන් ලකුණු 342ක වාර්තාගත ජයක් ලැබීමට එංගලන්ත කණ්ඩායම සමත් විය.
 
-This was among the one-day winner of the ODI brigade with a larger scorer.
+මෙය ජාත්‍යන්තර එක්දින තරග බිමේ කණ්ඩායමක් වැඩිම ලකුණු පරතරයක් සහිත ලැබූ එක්දින ජය ලෙස වාර්තා අතරට එක්විය.
 
-Earlier, the unpleasant record was written in the name of Sri Lanka. There they received a majority of 317 runs in India.
+මීට පෙර එම අමිහිරි වාර්තාව ශ්‍රී ලංකාව නමින් ලියවී තිබුණි. එහිදී ඔවුන් ඉන්දියාව හමුවේ ලකුණු 317ක පරජයක් ලබා තිබුණි.
 
-South Africa gave only 72 runs for the loss of all wickets in the England team in South Events.
+එංගලන්තයේ සවුත්හැම්ටන්හිදී පැවති මෙම තරගයේ එංගලන්ත කණ්ඩායමෙන් හිමි වූ ලකුණු 415ක දැවැන්ත ඉලක්කයට පිළිතුරු ලෙස දකුණු අප්‍රිකාව රැස්කළේ සියලු දෙනා දැවී ලකුණු 72ක් පමණි.
 
-However, the South African team was able to win the 3-match tournament match 2-1.
+කෙසේ නමුත් තරග 3කින් යුත් තරගාවලිය තරග 2-1ක් ලෙස ජයගැනීමට සමත් වූයේ සංචාරක දකුණු අප්‍රිකානු කණ්ඩායමයි.
 
 ◼️
 
 [Data](articles/bd3e83cb.json)
-
-[Extended Data](ext_articles/bd3e83cb.ext.json)
-
----
-
-### Excavation at Chemmani mass grave paused over funding – report
-
-*2025-09-07 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112260/excavation-at-chemmani-mass-grave-paused-over-funding-report) · `en`
-
-Excavation at the Chemmani mass grave in Sri Lanka’s northern province has been suspended after 45 days due to insufficient funding from the Justice Ministry, according to lawyers involved.
-
-The site, discovered during routine development in February, has yielded 240 skeletal remains so far, with operations halting at noon on Saturday, Fresh allocations are expected within two weeks to resume the judicially supervised work, which began on May 15 following a court order.
-
-Findings include 14 piles of bones and poignant items such as infant feeding bottles, a doll, toys, children’s bags, and shoes, raising concerns about civilian victims.
-
-The judicial medical officer has requested an eight-week extension from the Jaffna magistrate, with an expenditure estimate for two additional months to be submitted at the September 18 hearing.
-
-...
-
-[Data](articles/b2bff851.json)
-
-[Extended Data](ext_articles/b2bff851.ext.json)
 
 ---
 
@@ -2131,5 +2081,47 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 [Data](articles/2360e74a.json)
 
 [Extended Data](ext_articles/2360e74a.ext.json)
+
+---
+
+### රසායනික ද්‍රව්‍ය හමුවූ පොහොට්ටු හිටපු මන්ත්‍රීගේ නිවසින් අත්බෝම්බ හා පතොරොම් සොයාගනියි
+
+*2025-09-07 08:15:11* · [`adalk`](https://www.ada.lk/breaking_news/රසායනික-ද්‍රව්‍ය-හමුවූ-පොහොට්ටු-හිටපු-මන්ත්‍රීගේ-නිවසින්-අත්බෝම්බ-හා-පතොරොම්-සොයාගනියි/11-418320) · `si`
+
+සංවිචධානාත්මක අපරාධකල්ලි නායකයෙක් හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වෙන කෙහෙල්බද්දර පද්මේ විසින්
+
+අයිස් මත්ද්‍රව්‍ය නිශ්පාදනයට ගෙනවිත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු ප්‍රා දේශීය මන්ත්‍රීවරයෙකුගේ නිවසේ
+
+වළ දමා තිබියදී සොයාගත් රසායනික ද්‍රව්‍ය සම්බන්ධයෙන් කරනු ලැබූ පරීක්ෂණවලට අදාළව අත්බෝම්බ හා ජීව පතොරම්තොගයක්ද සොයාගෙන තිබේ.
+
+ඒ අනුව එම ඉඩමේ තිබී ජීව අත්බෝම්බ 5ක්, ටී 56 ජීව උණ්ඩ 17ක් හා බෝර 12 වර්ගයේ ජීව උණ්ඩ 02ක් හා හිස් පතොරම් කොපුවක්ද සොයාගෙන තිබේ. මෙම ඉඩමේ හිමිකරුවන වන පියල් මනම්පේරි මේ වන විට පොලීසිය විසින්
+
+◼️
+
+[Data](articles/840eaa41.json)
+
+[Extended Data](ext_articles/840eaa41.ext.json)
+
+---
+
+### இன்றுசந்திர கிரகணம் :  நிகழவுள்ள அதிசயத்தை பாருங்கள்
+
+*2025-09-07 08:10:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இன்றுசந்திர-கிரகணம்-நிகழவுள்ள-அதிசயத்தை-பாருங்கள்/50-364115) · `ta`
+
+2022ஆம் ஆண்டுக்குப் பிறகு நிகழும் மிக நீண்ட முழுச் சந்திர கிரகணம் (Lunar Eclipse 2025) இன்றிரவு நிகழ்கிறது.
+
+இந்தப் பிரபஞ்சம் பல வானியல் அதிசயங்களைக் கொண்டதாகும். இங்கு நிகழும் பல விஷயங்கள் நம்மை வியப்பின் உச்சத்திற்கே போய்விடும். இப்படிக் கூட நடக்குமா என நாம் யோசிக்கும் பல வினோத நிகழ்வுகள் கூட நடக்கும்.
+
+அப்படித் தான் இன்றைய தினம் மிக நீண்ட முழுச் சந்திர கிரகணம் நிகழ்கிறது. கடந்த 2022க்கு பிறகு மிக நீண்ட ஒரு சந்திர கிரகணமாக இது இருக்கும்.
+
+இதுபோல அடுத்த முழு சந்திர கிரகணத்தைப் பார்க்க, நாம் 2028 டிசம்பர் 31 வரை காத்திருக்க வேண்டும் என்கிறார் புனேவில் உள்ள தேசிய வானொலி வானியற்பியல் மையத்தின் (National Centre for Radio Astrophysics) இணைப் பேராசிரியருமான திவ்யா ஓபரோய்.
+
+கிரகணங்கள் அரிதானவை என்றும், ஒவ்வொரு பௌர்ணமி அல்லது அமாவாசையிலும் நிகழாது என்றும் ஓபரோய் விளக்கினார். சந்திரன் பூமியைச் சுற்றிவரும் பாதை, சூரியனைப் பூமி சுற்றி வரும் பாதையிலிருந்து சுமார் 5 டிகிரி சாய்ந்துள்ளது என்பதே இதற்குக் காரணமாகும்.
+
+...
+
+[Data](articles/a70ea04f.json)
+
+[Extended Data](ext_articles/a70ea04f.ext.json)
 
 ---

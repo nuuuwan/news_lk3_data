@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 22:08:14**
+As of **2025-09-07 20:54:31**
 
 ## Newspaper Stats
 
-*Scraped **74,611** Articles*
+*Scraped **74,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,101 +16,21 @@ economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,218
+adalk | 7,216
 adaderanalk | 9,545
 tamilmirrorlk | 11,108
-virakesarilk | 12,199
-adaderanasinhalalk | 12,993
+virakesarilk | 12,196
+adaderanasinhalalk | 12,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,753 (84.1%) of 74,611 articles have been extended.
+62,649 (84.0%) of 74,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
-
-### 'We will give Kala Vewa back to the elephants' plan three days successfully initiated
-
-*2025-09-07 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224480) · `ta`
-
-The 'Kala Vewa' will be reinstated to the elephants, organized by the 'Clean Sri Lanka' project, which has been successfully implemented in the flood areas of the Kala Wawa National Forest Park for the past three days.
-
-Wild elephants have lost their pastures as they spread occupied plants in most ponds in the North Central Province. Wild elephants prefer the young grasses that are high in protein. It is estimated that about four hundred wild elephants live in the Kala Veva region. Wild elephants enter the villages because of inadequate food for these wild elephants. This has increased human-elephant conflicts in the area. In the past few months, many have died of wild elephants attacks. Paddy training is widely carried out in the area and soy, corn, fruits and vegetables are cultivated.
-
-...
-
-[Data](articles/8bc6652b.json)
-
-[Extended Data](ext_articles/8bc6652b.ext.json)
-
----
-
-### Diyawadana Nilame struggles in the Temple
-
-*2025-09-07 20:46:48* · [`adalk`](https://www.ada.lk/breaking_news/දළඳ-මාළිගාවේ-දියවඩන-නිලමේ-සටන-උණුසුම්-වෙයි/11-418333) · `si`
-
-The second ten years of the Sri Dalada Maligawa Pradeep Nilame, Sri Diyawadana Nilame, has ended the official selection of a new Diyawadana Nilame.
-
-The Chief Incumbivattu in the Polonnaruwa, Kandy, Badulla, Badulla, Kegalle, Kegalle, Kegalle, Kegalle, Kandy, Kandy, Anuradhapura, Anuradhapura, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kandy.
-
-If the Divisional Secretary of the relevant area is a woman or a unclean, he or she is said to be voted according to almost 100 this year.. It is said that only 76 Divisional Secretaries are entitled to vote.
-
-The current Diyawadana Nilame, Diyawadana Nilame, Pradeepa Nilame, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Basnayake Nilame, Basnayake Nilame on Udindu Devalaya. WS. Malwatte Asgiri Maha Nayros have already been buried that Bandaranaike is present.
-
-...
-
-[Data](articles/5ccb2f28.json)
-
-[Extended Data](ext_articles/5ccb2f28.ext.json)
-
----
-
-### Discussions are essential for peace and reconciliation
-
-*2025-09-07 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224479) · `ta`
-
-International Human Rights Development Voice (IVHRD) Chairman Raghu Indrakumar said that discussions are essential to improve peace and harmony through unity and discussion, to achieve global human rights and peace.
-
-International Human Rights Development Voice (IVHRD) has successfully held the World Human Rights Conference at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo. Ambassadors, legal experts, social leaders and human rights activists from all over the world attended the conference.
-
-The ceremony began with the art show, traditional art show and, with special guests. Indonesian Deputy Ambassador to Sri Lanka, top officials of the Chinese Republic, President Sarath Wijesinghe, Prince Amitab. Aradhya, Sri Lanka Pintech Chairman Rajkumar Kanagasingham, Reliance Innovation founder Hiran Wijesinghe, Dr. Rasita Buddhika and many others were present as special guests.. A special feature is that representatives from India participated.
-
-...
-
-[Data](articles/83adedfa.json)
-
-[Extended Data](ext_articles/83adedfa.ext.json)
-
----
-
-### The third and final twenty -two match Sri Lanka wins
-
-*2025-09-07 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
-
-Sri Lanka won the third and final 20th match between Sri Lanka and Zimbabwe by 8 wickets.
-
-Accordingly, the 3-match series ended 2-1 and won the competition title.
-
-The Sri Lankan team won the tournament in the tournament first and decided to field first.
-
-Zimbabwe, who batted first, scored 191 runs for the loss of 8 wickets in 20 overs.
-
-Sri Lanka won the match by losing 2 wickets in the 17.2nd over by Zimbabwe's 192 -run target in the R20 match.
-
-Kamil Mishara scored 73 runs unbeaten. Kusal Janith scored 46 runs.
-
-Nissanka (33) and Kusal Mendis (30), the opening batting pair, also contributed to Sri Lanka's innings.
-
-◼️
-
-[Data](articles/ef0cf823.json)
-
-[Extended Data](ext_articles/ef0cf823.ext.json)
-
----
 
 ### Supervision to be corrected
 
@@ -149,24 +69,6 @@ If former President Ranil Wickremesinghe is in Parliament in the current situati
 [Data](articles/6720d150.json)
 
 [Extended Data](ext_articles/6720d150.ext.json)
-
----
-
-### ඉඩමට රසායනික ද්‍රව්‍ය දැමීමට හේතුව පියල් මනම්පේරි පොලීසියට කියයි
-
-*2025-09-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214288) · `si`
-
-මිද්දෙනිය, තලාව ප්‍රදේශයේ ඉඩමක තිබූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදාගන්නා රසායනික ද්‍රව්‍ය තොගය සම්බන්ධයෙන් සිදුකරන විමර්ශන අනුව සැකපිට අත්අඩංගුවට ගත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ අඟුණකොළපැලැස්ස හිටපු ප්‍රාදේශීය සභා මන්ත්‍රී පියල් මනම්පේරි නමැත්තා පවසා ඇත්තේ අදාළ ඉඩම ගිලාබහින බවත් එක වළක්වා ගැනීම සඳහා මෙම ද්‍රව්‍ය ගෙනත් දැමූ බවත්ය.
-
-''මගේ සහෝදරයා මෙතැන ගරාජ් එකක් හදන්න හිටියේ. මෙතන ගොඩක් වතුර පිරෙනවා. ඒ හින්දා ගිලාබහින එක වළක්වන්න තමයි අපි මේවා දැම්මේ'' ලෙසය.
-
-සැකකරු වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත අද ඉදිරිපත් කිරීමෙන් අනතුරුව දින 7ක් රඳවාතබාගෙන ප්‍රශ්න කිරීමට අධිකරණය අවසර ලබාදී තිබේ.
-
-බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාර සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල හා එහි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා ඇතුළු නිලධාරීන් කණ්ඩායමක් මෙහි විමර්ශන කටයුතු සිදුකරන අතර පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන ආ බැකෝ සමන් නමැත්තා ලබාදුන් ප්‍රකාශ මත පදනම්ව මෙම විමර්ශන කටයුතු ආරම්භ කර ඇත.
-
-...
-
-[Data](articles/65422890.json)
 
 ---
 
@@ -209,8 +111,6 @@ A post-mortem examination has been conducted by the Kantale Judicial Medical Off
 ◼️
 
 [Data](articles/941503ea.json)
-
-[Extended Data](ext_articles/941503ea.ext.json)
 
 ---
 
@@ -305,24 +205,6 @@ But this move is more change in the world countries. This Article in India, Japa
 [Data](articles/345c1e42.json)
 
 [Extended Data](ext_articles/345c1e42.ext.json)
-
----
-
-### The next few days will be a good atmosphere
-
-*2025-09-07 17:59:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවෙන්න-හොඳ-වායුගෝලයක්/11-418332) · `si`
-
-The Meteorological Department says that at the next few days, the presence of a positive atmospheric conditions in the North, North-Central and Uva provinces.
-
-The next three-hour moon and forest moon and forecasts of the Moon and Forests say the Northern, North-Central, Central, Sabaragamuwa and Uva provinces, Kurunegala and Hambantota districts. Showers or thundershowers will occur at several places about 1.00.
-
-In some exhausted mm. Heavy showers more than 75 can also occur at the Western and Sabaragamuwa Provinces and in the Western and Sabaragamuwa and Matara districts.
-
-◼️
-
-[Data](articles/bf6ccf1c.json)
-
-[Extended Data](ext_articles/bf6ccf1c.ext.json)
 
 ---
 
@@ -2125,5 +2007,135 @@ The UPU said data exchanged between postal operators via its systems showed that
 [Data](articles/69509888.json)
 
 [Extended Data](ext_articles/69509888.ext.json)
+
+---
+
+### අද පූර්ණ චන්ද්‍රග්‍රහණයක්
+
+*2025-09-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214262) · `si`
+
+ශ්‍රී ලංකාවට මෙන්ම ලොව බොහෝ රටවලට දිස්වන පූර්ණ චන්ද්‍රග්‍රහණයක් අද (07) සිදුවන බව‍ කොළඹ විශ්වවිද්‍යාලයේ තාරකා විද්‍යා සහ අභාවකාශ විද්‍යා ඒකකයේ අධ්‍යක්‍ෂ මහාචාර්ය චන්දන ජයරත්න මහතා පවසයි.
+
+අද රාත්‍රී 8.58 සිට හෙට (08) අලුයම 2.25 දක්වා පැය 5යි මිනිත්තු 27ක පමණ කාලයක් මෙම චන්ද්‍රග්‍රහණය නිරීක්ෂණය කිරීමේ දුර්ලභ අවස්ථාව හිමිවන බව ඔහු වැඩිදුරටත් පැවසුවේය.
+
+පුර්ණ චන්ද්‍රග්‍රහණය සම්පූර්ණයෙන් දිස්වීම අද රාත්‍රී 11.01  සිට හෙට අලුයම 12.22ක් දක්වා කාලය තුළ සිදුවන බවද සඳහන් වේ.
+
+එමෙන්ම මෙම චන්ද්‍රග්‍රහණය පූර්ණ වශයෙන් හෝ අර්ධ ග්‍රහණයක් වශයෙන් සියයට 85ක් පමණ ලෝක ජනතාවට දිස්වනු ඇත.
+
+2028 දක්වා මෙවැනි පූර්ණ චන්ද්‍රග්‍රහණයක් දැකීමට ශ්‍රී ලාංකිකයින්ට අවස්ථාව නොලැබෙන බව ද මහාචාර්යවරයා සඳහන් කළේය.
+
+ඔහු වැඩිදුරටත් පැවසුවේ මෙම විශේෂ දුර්ලභ සිද්ධිය භාවිතා කරමින් රාත්‍රී අහස නිරීක්ෂණ කඳවුරු පාසැල් මට්ටමින් පැවැත්වීම යෝග්‍ය බවය.
+
+◼️
+
+[Data](articles/ba70f069.json)
+
+[Extended Data](ext_articles/ba70f069.ext.json)
+
+---
+
+### පාසල් පැවැත්වෙන දිනවල වේලාවන් දෙකකදී ඛනිජ ප්‍රවාහන කටයුතු අත්හිටුවයි
+
+*2025-09-07 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214261) · `si`
+
+පාසල් පැවැත්වෙන දිනවල උදෑසන 6.30 සිට 7.45 දක්වා සහ උදෑසන 11.30 සිට පස්වරු 2.30 දක්වා කාලය තුළ ඛනිජ ප්‍රවාහන කටයුතු සිදුකිරීම අත්හිටුවීමට පියවර ගත් බව භූ විද්‍යා සමීක්ෂණ සහ පතල් කාර්යංශය පවසයි.
+
+එහි අධ්‍යක්ෂ ජනරාල් දීපානී වීරකෝන් මහත්මිය පැවසුවේ මීට සති කිහිපයකට පෙර වැලි ටිපර් රථයක පාසල් වෑන් රථයක් ගැටී සිදුවූ අනතුරින් පසු පැවති සාකච්ඡාවලින් අනතුරුව මෙම තීරණය ගත් බවය.
+
+ඒ අනුව එම කාලසීමාවන් තුළ ඛනිජ ප්‍රවාහන කටයුතු සිදුකරනු ලබන වාහන මාර්ගයේ ඉඩඇති ස්ථානවල නවතා තැබිය යුතු බවද දීපානී වීරකෝන් මහත්මිය පැවසුවාය.
+
+ඇය පැවසුවේ පසුගිය 04 වැනි දින සිට දිවයින පුරා ප්‍රාදේශීය ලේකම් කොට්ඨාස හරහා මෙම දැනුවත් කිරීම් සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/5e57f0de.json)
+
+[Extended Data](ext_articles/5e57f0de.ext.json)
+
+---
+
+### Four dead in separate road accidents
+
+*2025-09-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112239/four-dead-in-separate-road-accidents) · `en`
+
+A total of four individuals, including a 22-year-old, have died in four separate road accidents reported yesterday (06) across various areas in the country.
+
+Accidents were reported in Kadawatha, Maradankadawala, Vellaveli, and Puthukkudiyiruppu, police stated.
+
+In one of the accidents, Police said the driver of a car heading towards Ragama along Dalupitiya –Ragama road lost control of the vehicle and hit a pedestrian walking on the roadside.
+
+The injured pedestrian was taken to Ragama Teaching Hospital but was pronounced dead upon admission.
+
+In another accident occurred at the Thawalanhalmillewa Junction on the A11 road in Maradankadawala, a car rammed into a bicycle from behind.
+
+The cyclist and a passenger on the bicycle sustained injuries and were admitted to Maradankadawala Hospital, where the cyclist was later pronounced dead.
+
+...
+
+[Data](articles/910a95fc.json)
+
+[Extended Data](ext_articles/910a95fc.ext.json)
+
+---
+
+### Mineral transportation suspended during two time slots on school days: GSMB
+
+*2025-09-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112238/mineral-transportation-suspended-during-two-time-slots-on-school-days-gsmb) · `en`
+
+Steps have been taken to suspend mineral transportation activities during school days from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 p.m. by the Geological Survey and Mines Bureau (GSMB).
+
+Director General of the Bureau Dipani Weerakoon said that the decision was taken following discussions held after an accident that occurred a few weeks ago, where a school van collided with a sand tipper truck.
+
+Accordingly, Weerakoon stated that vehicles engaged in mineral transportation during these time periods must be parked in appropriate areas off the main roads.
+
+She further said since September 4, instructions have been issued throughout the country via Divisional Secretariats.
+
+◼️
+
+[Data](articles/fadefffd.json)
+
+[Extended Data](ext_articles/fadefffd.ext.json)
+
+---
+
+### බිනර පුර පසළොස්වක පොහෝ දිනය අදයි
+
+*2025-09-07 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214260) · `si`
+
+භික්ෂුණී ශාසනය ආරම්භ කිරීම ඇතුළු ශාසන ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සනිටුහන් කළ වැදගත් පොහොය දිනයක් ලෙස මෙම පොහොය දිනය සැලකේ.
+
+කාන්තාවන්ට පැවිද්ද ලබාදෙමින් මහා ප්‍රජාපති ගෝතමී දේවිය ඇතුළු කාන්තාවන් 500 දෙනෙකු සසුනට එක්වීම මෙම පොහෝ දිනයේ සිදුවූ බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+
+තපස්සු, භල්ලුක වෙළෙඳ දෙබෑයන්, බුදුන් වහන්සේගේ කේශ ධාතු තැන්පත් කරන ලද ගිරිහඬු සෑය ඉදිකිරීමත්, බුදුන් වහන්සේගේ ලාලාට ධාතු තැන්පත් කර සේරුවාවිල මහා සෑය ඉදිකිරීමත් මෙම පොහොය දිනයේදී සිදුකර ඇති බවත් වාර්තා වේ.
+
+එමෙන්ම භික්ෂු භික්ෂුණී උපාසක උපාසිකා යන සිව්වනක් පිරිස ආරම්භ වන්නේ ද අද වැනි පෝය දිනයක වන අතර වස් සමයේ අතරමැදි පොහොය ලෙස ද මෙම බිනර පොහොය සැලකේ.
+
+අෂ්ට ගරු ධර්ම බුදුන්වහන්සේගෙන් විමසා ආනන්ද හිමියන් විසින් එය මහා ප්‍රජාපතිගෝතමී දේවියට පහදා දීමෙන් පසුව ගරුධර්ම ආරක්ෂා කරන බවට ප්‍රතිඥා ලබාදුන්නේද අදවන් දිනකයි.
+
+මේ අතර බිනර පුරපසළොස්වක පොහොය වෙනුවෙන් දිවයින පුරා පිහිටි වෙහෙර විහාරස්ථානවල දී අද දිනයේ ආමිස හා ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් ආගමික වැඩසටහන් සංවිධාන කර තිබේ.
+
+...
+
+[Data](articles/324e6314.json)
+
+[Extended Data](ext_articles/324e6314.ext.json)
+
+---
+
+### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
+
+*2025-09-07 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112237/rare-total-lunar-eclipse-blood-moon-to-be-visible-from-sri-lanka-tonight) · `en`
+
+Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” later today (07), said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
+
+The spectacular celestial event is set to light up the skies tonight, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
+
+Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
+
+...
+
+[Data](articles/87b189e8.json)
+
+[Extended Data](ext_articles/87b189e8.ext.json)
 
 ---

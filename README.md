@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 20:54:31**
+As of **2025-09-07 21:20:10**
 
 ## Newspaper Stats
 
-*Scraped **74,605** Articles*
+*Scraped **74,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,216
+adalk | 7,217
 adaderanalk | 9,545
 tamilmirrorlk | 11,108
-virakesarilk | 12,196
+virakesarilk | 12,199
 adaderanasinhalalk | 12,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,649 (84.0%) of 74,605 articles have been extended.
+62,681 (84.0%) of 74,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### 'We will give Kala Vewa back to the elephants' plan three days successfully initiated
+
+*2025-09-07 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224480) · `ta`
+
+The 'Kala Vewa' will be reinstated to the elephants, organized by the 'Clean Sri Lanka' project, which has been successfully implemented in the flood areas of the Kala Wawa National Forest Park for the past three days.
+
+Wild elephants have lost their pastures as they spread occupied plants in most ponds in the North Central Province. Wild elephants prefer the young grasses that are high in protein. It is estimated that about four hundred wild elephants live in the Kala Veva region. Wild elephants enter the villages because of inadequate food for these wild elephants. This has increased human-elephant conflicts in the area. In the past few months, many have died of wild elephants attacks. Paddy training is widely carried out in the area and soy, corn, fruits and vegetables are cultivated.
+
+...
+
+[Data](articles/8bc6652b.json)
+
+[Extended Data](ext_articles/8bc6652b.ext.json)
+
+---
+
+### Discussions are essential for peace and reconciliation
+
+*2025-09-07 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224479) · `ta`
+
+International Human Rights Development Voice (IVHRD) Chairman Raghu Indrakumar said that discussions are essential to improve peace and harmony through unity and discussion, to achieve global human rights and peace.
+
+International Human Rights Development Voice (IVHRD) has successfully held the World Human Rights Conference at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo. Ambassadors, legal experts, social leaders and human rights activists from all over the world attended the conference.
+
+The ceremony began with the art show, traditional art show and, with special guests. Indonesian Deputy Ambassador to Sri Lanka, top officials of the Chinese Republic, President Sarath Wijesinghe, Prince Amitab. Aradhya, Sri Lanka Pintech Chairman Rajkumar Kanagasingham, Reliance Innovation founder Hiran Wijesinghe, Dr. Rasita Buddhika and many others were present as special guests.. A special feature is that representatives from India participated.
+
+...
+
+[Data](articles/83adedfa.json)
+
+[Extended Data](ext_articles/83adedfa.ext.json)
+
+---
+
+### The third and final twenty -two match Sri Lanka wins
+
+*2025-09-07 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
+
+Sri Lanka won the third and final 20th match between Sri Lanka and Zimbabwe by 8 wickets.
+
+Accordingly, the 3-match series ended 2-1 and won the competition title.
+
+The Sri Lankan team won the tournament in the tournament first and decided to field first.
+
+Zimbabwe, who batted first, scored 191 runs for the loss of 8 wickets in 20 overs.
+
+Sri Lanka won the match by losing 2 wickets in the 17.2nd over by Zimbabwe's 192 -run target in the R20 match.
+
+Kamil Mishara scored 73 runs unbeaten. Kusal Janith scored 46 runs.
+
+Nissanka (33) and Kusal Mendis (30), the opening batting pair, also contributed to Sri Lanka's innings.
+
+◼️
+
+[Data](articles/ef0cf823.json)
+
+[Extended Data](ext_articles/ef0cf823.ext.json)
+
+---
 
 ### Supervision to be corrected
 
@@ -111,6 +171,8 @@ A post-mortem examination has been conducted by the Kantale Judicial Medical Off
 ◼️
 
 [Data](articles/941503ea.json)
+
+[Extended Data](ext_articles/941503ea.ext.json)
 
 ---
 
@@ -205,6 +267,24 @@ But this move is more change in the world countries. This Article in India, Japa
 [Data](articles/345c1e42.json)
 
 [Extended Data](ext_articles/345c1e42.ext.json)
+
+---
+
+### The next few days will be a good atmosphere
+
+*2025-09-07 17:59:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවෙන්න-හොඳ-වායුගෝලයක්/11-418332) · `si`
+
+The Meteorological Department says that at the next few days, the presence of a positive atmospheric conditions in the North, North-Central and Uva provinces.
+
+The next three-hour moon and forest moon and forecasts of the Moon and Forests say the Northern, North-Central, Central, Sabaragamuwa and Uva provinces, Kurunegala and Hambantota districts. Showers or thundershowers will occur at several places about 1.00.
+
+In some exhausted mm. Heavy showers more than 75 can also occur at the Western and Sabaragamuwa Provinces and in the Western and Sabaragamuwa and Matara districts.
+
+◼️
+
+[Data](articles/bf6ccf1c.json)
+
+[Extended Data](ext_articles/bf6ccf1c.ext.json)
 
 ---
 
@@ -2051,91 +2131,5 @@ The UPU said data exchanged between postal operators via its systems showed that
 [Data](articles/5e57f0de.json)
 
 [Extended Data](ext_articles/5e57f0de.ext.json)
-
----
-
-### Four dead in separate road accidents
-
-*2025-09-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112239/four-dead-in-separate-road-accidents) · `en`
-
-A total of four individuals, including a 22-year-old, have died in four separate road accidents reported yesterday (06) across various areas in the country.
-
-Accidents were reported in Kadawatha, Maradankadawala, Vellaveli, and Puthukkudiyiruppu, police stated.
-
-In one of the accidents, Police said the driver of a car heading towards Ragama along Dalupitiya –Ragama road lost control of the vehicle and hit a pedestrian walking on the roadside.
-
-The injured pedestrian was taken to Ragama Teaching Hospital but was pronounced dead upon admission.
-
-In another accident occurred at the Thawalanhalmillewa Junction on the A11 road in Maradankadawala, a car rammed into a bicycle from behind.
-
-The cyclist and a passenger on the bicycle sustained injuries and were admitted to Maradankadawala Hospital, where the cyclist was later pronounced dead.
-
-...
-
-[Data](articles/910a95fc.json)
-
-[Extended Data](ext_articles/910a95fc.ext.json)
-
----
-
-### Mineral transportation suspended during two time slots on school days: GSMB
-
-*2025-09-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112238/mineral-transportation-suspended-during-two-time-slots-on-school-days-gsmb) · `en`
-
-Steps have been taken to suspend mineral transportation activities during school days from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 p.m. by the Geological Survey and Mines Bureau (GSMB).
-
-Director General of the Bureau Dipani Weerakoon said that the decision was taken following discussions held after an accident that occurred a few weeks ago, where a school van collided with a sand tipper truck.
-
-Accordingly, Weerakoon stated that vehicles engaged in mineral transportation during these time periods must be parked in appropriate areas off the main roads.
-
-She further said since September 4, instructions have been issued throughout the country via Divisional Secretariats.
-
-◼️
-
-[Data](articles/fadefffd.json)
-
-[Extended Data](ext_articles/fadefffd.ext.json)
-
----
-
-### බිනර පුර පසළොස්වක පොහෝ දිනය අදයි
-
-*2025-09-07 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214260) · `si`
-
-භික්ෂුණී ශාසනය ආරම්භ කිරීම ඇතුළු ශාසන ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සනිටුහන් කළ වැදගත් පොහොය දිනයක් ලෙස මෙම පොහොය දිනය සැලකේ.
-
-කාන්තාවන්ට පැවිද්ද ලබාදෙමින් මහා ප්‍රජාපති ගෝතමී දේවිය ඇතුළු කාන්තාවන් 500 දෙනෙකු සසුනට එක්වීම මෙම පොහෝ දිනයේ සිදුවූ බව ශාසන ඉතිහාසයේ සඳහන් වේ.
-
-තපස්සු, භල්ලුක වෙළෙඳ දෙබෑයන්, බුදුන් වහන්සේගේ කේශ ධාතු තැන්පත් කරන ලද ගිරිහඬු සෑය ඉදිකිරීමත්, බුදුන් වහන්සේගේ ලාලාට ධාතු තැන්පත් කර සේරුවාවිල මහා සෑය ඉදිකිරීමත් මෙම පොහොය දිනයේදී සිදුකර ඇති බවත් වාර්තා වේ.
-
-එමෙන්ම භික්ෂු භික්ෂුණී උපාසක උපාසිකා යන සිව්වනක් පිරිස ආරම්භ වන්නේ ද අද වැනි පෝය දිනයක වන අතර වස් සමයේ අතරමැදි පොහොය ලෙස ද මෙම බිනර පොහොය සැලකේ.
-
-අෂ්ට ගරු ධර්ම බුදුන්වහන්සේගෙන් විමසා ආනන්ද හිමියන් විසින් එය මහා ප්‍රජාපතිගෝතමී දේවියට පහදා දීමෙන් පසුව ගරුධර්ම ආරක්ෂා කරන බවට ප්‍රතිඥා ලබාදුන්නේද අදවන් දිනකයි.
-
-මේ අතර බිනර පුරපසළොස්වක පොහොය වෙනුවෙන් දිවයින පුරා පිහිටි වෙහෙර විහාරස්ථානවල දී අද දිනයේ ආමිස හා ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් ආගමික වැඩසටහන් සංවිධාන කර තිබේ.
-
-...
-
-[Data](articles/324e6314.json)
-
-[Extended Data](ext_articles/324e6314.ext.json)
-
----
-
-### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
-
-*2025-09-07 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112237/rare-total-lunar-eclipse-blood-moon-to-be-visible-from-sri-lanka-tonight) · `en`
-
-Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” later today (07), said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
-
-The spectacular celestial event is set to light up the skies tonight, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
-
-Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
-
-...
-
-[Data](articles/87b189e8.json)
-
-[Extended Data](ext_articles/87b189e8.ext.json)
 
 ---

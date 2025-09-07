@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 10:44:31**
+As of **2025-09-07 11:06:04**
 
 ## Newspaper Stats
 
-*Scraped **74,533** Articles*
+*Scraped **74,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,523
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,206
+adalk | 7,207
 adaderanalk | 9,531
 tamilmirrorlk | 11,093
 virakesarilk | 12,186
@@ -26,7 +26,7 @@ adaderanasinhalalk | 12,972
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,973 (83.1%) of 74,533 articles have been extended.
+62,029 (83.2%) of 74,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/739183d1.json)
 
+[Extended Data](ext_articles/739183d1.ext.json)
+
 ---
 
 ### சிக்குமா?
@@ -63,6 +65,24 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ◼️
 
 [Data](articles/e1d32d3e.json)
+
+[Extended Data](ext_articles/e1d32d3e.ext.json)
+
+---
+
+### ලංකාවේ විශාලම පුනර්ජනනීය බලශක්ති ව්‍යාපෘතියේ ඉදි කිරීම් අරඹයි
+
+*2025-09-07 10:03:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුනර්ජනනීය-බලශක්ති-ව්‍යාපෘතියේ-ඉදි-කිරීම්-අරඹයි/11-418322) · `si`
+
+වසර 2030 වන විට මෙරට ජාතික විදුලිබල අවශ්‍යතාවෙන් 70%ක් පුනර්ජනනීය බලශක්තියෙන් සපුරා ගැනීමේ ඉලක්ක සාක්ෂාත් කර ගැනීමේ ප්‍රධාන පියවරක් ලෙස මෙරට ඉදි කෙරෙන විශාලතම  පුනර්ජනනීය බලශක්ති ව්‍යාපෘතිය වන සියඹලාණ්ඩුව “රිවිදනවි” සූර්ය බලශක්ති උද්‍යානයේ ඉදිකිරීම් කටයුතු ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (06) පෙරවරුවේ ආරම්භ කෙරිණි.
+
+මෙගාවොට් 100ක ධාරිතාවක් ජාතික විදුලි බල පද්ධතියට එක් කෙරෙන මෙම දැවැන්ත ව්‍යාපෘතිය සඳහා ආයෝජනය කෙරෙන මුදල ඇමරිකානු ඩොලර් මිලියන 140කි.
+
+මොණරාගල දිස්ත්‍රික්කයේ සියඹලාණ්ඩුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ, කොටියාගල ග්‍රාම නිලධාරී බල ප්‍රදේශයේ අක්කර 500 ක පමණ විශාල භූමි ප්‍රදේශයක ඉදි කිරීම කෙරෙන මෙම ව්‍යාපෘතිය සුනිත්‍ය බලශක්ති අධිකාරිය මඟින් ව්‍යාපෘති භූමිය, ප්‍රවේශ මාර්ගය සහ ආදාළ සියලු අනුමැතීන් සහිතව ව්‍යාපෘති ආයෝජක වෙත ලබාදුන් පළමු ව්‍යාපෘතිය වේ.
+
+...
+
+[Data](articles/08bf3bb3.json)
 
 ---
 
@@ -86,6 +106,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/226629f9.json)
 
+[Extended Data](ext_articles/226629f9.ext.json)
+
 ---
 
 ### වසරේ මුල් මාස අට තුළ විදේශ ප්‍රේෂණ ඩොලර් බිලියන 5 ඉක්මවයි
@@ -104,6 +126,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/1d970d50.json)
 
+[Extended Data](ext_articles/1d970d50.ext.json)
+
 ---
 
 ### AI யால் அடுத்த 5 வருடத்தில் 99 சதவீதம் பேர் வேலையை இழப்பர்: எச்சரிக்கும் நிபுணர்
@@ -117,6 +141,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ...
 
 [Data](articles/6df8f3ad.json)
+
+[Extended Data](ext_articles/6df8f3ad.ext.json)
 
 ---
 
@@ -140,6 +166,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/2835739a.json)
 
+[Extended Data](ext_articles/2835739a.ext.json)
+
 ---
 
 ### டிரம்ப் பேச்சில் திடீர் மாற்றம்: ஒரே வார்த்தையில் மோடி பதில்
@@ -155,6 +183,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ...
 
 [Data](articles/2b8a5f83.json)
+
+[Extended Data](ext_articles/2b8a5f83.ext.json)
 
 ---
 
@@ -176,6 +206,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/6e71de30.json)
 
+[Extended Data](ext_articles/6e71de30.ext.json)
+
 ---
 
 ### பச்சிளம் குழந்தையை தூக்கிச் சென்ற குரங்குகள்
@@ -191,6 +223,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 ...
 
 [Data](articles/6f842db8.json)
+
+[Extended Data](ext_articles/6f842db8.ext.json)
 
 ---
 
@@ -210,6 +244,8 @@ Volker Turk මහතා ශ්‍රී ලංකාවේ සංචාරය �
 
 [Data](articles/b57f16d7.json)
 
+[Extended Data](ext_articles/b57f16d7.ext.json)
+
 ---
 
 ### Sri Lanka’s remittance inflow exceeds US$ 5 billion in 2025
@@ -228,6 +264,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/df74c7b4.json)
 
+[Extended Data](ext_articles/df74c7b4.ext.json)
+
 ---
 
 ### ඓතිහාසික මහියංගන රජමහා විහාරස්ථානයේ වාර්ෂික ඇසළ මහා පෙරහැර මංගල්‍යයට ජනපති එක් වෙයි
@@ -245,6 +283,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ...
 
 [Data](articles/e3477aca.json)
+
+[Extended Data](ext_articles/e3477aca.ext.json)
 
 ---
 
@@ -268,6 +308,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/eaf1f019.json)
 
+[Extended Data](ext_articles/eaf1f019.ext.json)
+
 ---
 
 ### பஸ் விபத்து: உயிரிழந்தவர்களின் இறுதிக் கிரியைகள் இன்று
@@ -279,6 +321,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ◼️
 
 [Data](articles/58deae44.json)
+
+[Extended Data](ext_articles/58deae44.ext.json)
 
 ---
 
@@ -298,6 +342,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/2360e74a.json)
 
+[Extended Data](ext_articles/2360e74a.ext.json)
+
 ---
 
 ### රසායනික ද්‍රව්‍ය හමුවූ පොහොට්ටු හිටපු මන්ත්‍රීගේ නිවසින් අත්බෝම්බ හා පතොරොම් සොයාගනියි
@@ -315,6 +361,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ◼️
 
 [Data](articles/840eaa41.json)
+
+[Extended Data](ext_articles/840eaa41.ext.json)
 
 ---
 
@@ -336,6 +384,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 
 [Data](articles/a70ea04f.json)
 
+[Extended Data](ext_articles/a70ea04f.ext.json)
+
 ---
 
 ### බෝම්බය පත්තු නොවුන  නිසා දරුවන් තිදෙනෙකුගේ දිවි ගැලවෙයි
@@ -351,6 +401,8 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 ...
 
 [Data](articles/68a9e040.json)
+
+[Extended Data](ext_articles/68a9e040.ext.json)
 
 ---
 
@@ -374,6 +426,8 @@ Special attention was also given to the issues faced by the farming community in
 
 [Data](articles/c506b50c.json)
 
+[Extended Data](ext_articles/c506b50c.ext.json)
+
 ---
 
 ### වැලිමඩ බීජ අර්තාපල් නිෂ්පාදන මධ්‍යස්ථානය විවෘත කෙරේ
@@ -393,6 +447,8 @@ Special attention was also given to the issues faced by the farming community in
 ◼️
 
 [Data](articles/5541359d.json)
+
+[Extended Data](ext_articles/5541359d.ext.json)
 
 ---
 
@@ -422,6 +478,8 @@ Special attention was also given to the issues faced by the farming community in
 
 [Data](articles/b46c9f32.json)
 
+[Extended Data](ext_articles/b46c9f32.ext.json)
+
 ---
 
 ### 88 postal operators suspend services to US over tariffs: UN
@@ -441,6 +499,8 @@ The UPU said data exchanged between postal operators via its systems showed that
 ...
 
 [Data](articles/69509888.json)
+
+[Extended Data](ext_articles/69509888.ext.json)
 
 ---
 
@@ -464,6 +524,8 @@ The UPU said data exchanged between postal operators via its systems showed that
 
 [Data](articles/ba70f069.json)
 
+[Extended Data](ext_articles/ba70f069.ext.json)
+
 ---
 
 ### පාසල් පැවැත්වෙන දිනවල වේලාවන් දෙකකදී ඛනිජ ප්‍රවාහන කටයුතු අත්හිටුවයි
@@ -481,6 +543,8 @@ The UPU said data exchanged between postal operators via its systems showed that
 ◼️
 
 [Data](articles/5e57f0de.json)
+
+[Extended Data](ext_articles/5e57f0de.ext.json)
 
 ---
 
@@ -504,6 +568,8 @@ The cyclist and a passenger on the bicycle sustained injuries and were admitted 
 
 [Data](articles/910a95fc.json)
 
+[Extended Data](ext_articles/910a95fc.ext.json)
+
 ---
 
 ### Mineral transportation suspended during two time slots on school days: GSMB
@@ -521,6 +587,8 @@ She further said since September 4, instructions have been issued throughout the
 ◼️
 
 [Data](articles/fadefffd.json)
+
+[Extended Data](ext_articles/fadefffd.ext.json)
 
 ---
 
@@ -544,6 +612,8 @@ She further said since September 4, instructions have been issued throughout the
 
 [Data](articles/324e6314.json)
 
+[Extended Data](ext_articles/324e6314.ext.json)
+
 ---
 
 ### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
@@ -559,6 +629,8 @@ Known as a Blood Moon, this will be the last total lunar eclipse of the year and
 ...
 
 [Data](articles/87b189e8.json)
+
+[Extended Data](ext_articles/87b189e8.ext.json)
 
 ---
 
@@ -580,6 +652,8 @@ Known as a Blood Moon, this will be the last total lunar eclipse of the year and
 
 [Data](articles/495b67b1.json)
 
+[Extended Data](ext_articles/495b67b1.ext.json)
+
 ---
 
 ### UK police arrest about 425 at protest for banned Palestine Action
@@ -598,6 +672,8 @@ Police said those detained were arrested for offences including assaulting offic
 
 [Data](articles/0eb18e6e.json)
 
+[Extended Data](ext_articles/0eb18e6e.ext.json)
+
 ---
 
 ### Binara Poya falls today
@@ -613,6 +689,8 @@ Meanwhile, religious programs have been organized across temples and monasteries
 ◼️
 
 [Data](articles/70a30324.json)
+
+[Extended Data](ext_articles/70a30324.ext.json)
 
 ---
 
@@ -634,6 +712,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 
 [Data](articles/1c2af7d4.json)
 
+[Extended Data](ext_articles/1c2af7d4.ext.json)
+
 ---
 
 ### ’அபிவிருத்திக்கு எந்த நேரத்திலும் நிதியொதுக்க தயார்’
@@ -651,6 +731,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 ◼️
 
 [Data](articles/dfa05938.json)
+
+[Extended Data](ext_articles/dfa05938.ext.json)
 
 ---
 
@@ -670,6 +752,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 
 [Data](articles/d1e4fcda.json)
 
+[Extended Data](ext_articles/d1e4fcda.ext.json)
+
 ---
 
 ### மித்தெனியவில் கைக்குண்டுகள், தோட்டாக்கள் மீட்பு
@@ -684,6 +768,8 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 
 [Data](articles/9526ead3.json)
 
+[Extended Data](ext_articles/9526ead3.ext.json)
+
 ---
 
 ### A Passage North
@@ -697,6 +783,8 @@ Unlike those two, which were a retelling of history, this was an introspective n
 ...
 
 [Data](articles/1434131e.json)
+
+[Extended Data](ext_articles/1434131e.ext.json)
 
 ---
 
@@ -714,6 +802,8 @@ Total assets reached Rs 266.38 billion as at 30th June, reflecting an increase o
 
 [Data](articles/4aa1b795.json)
 
+[Extended Data](ext_articles/4aa1b795.ext.json)
+
 ---
 
 ### Weerasinghe Peiris launches new Punchi Punchi Tharu CDs (Volumes 2 & 3)
@@ -725,6 +815,8 @@ Music Director, Weerasinghe Peiris unveiled the much-anticipated Punchi Punchi T
 ...
 
 [Data](articles/7fef3a23.json)
+
+[Extended Data](ext_articles/7fef3a23.ext.json)
 
 ---
 
@@ -742,6 +834,8 @@ Through LoungeKey, cardholders can enjoy world-class lounge facilities at major 
 
 [Data](articles/8b5bf916.json)
 
+[Extended Data](ext_articles/8b5bf916.ext.json)
+
 ---
 
 ### Dubai Real Estate Roadshow comes to Colombo: Exclusive 1-to-1 consultations for Sri Lankan investors
@@ -751,6 +845,8 @@ Through LoungeKey, cardholders can enjoy world-class lounge facilities at major 
 ...
 
 [Data](articles/f6cc4c83.json)
+
+[Extended Data](ext_articles/f6cc4c83.ext.json)
 
 ---
 
@@ -763,6 +859,8 @@ Celebrating their 25th anniversary with tours, cultural experiences, and a gala 
 ...
 
 [Data](articles/d8eaeffd.json)
+
+[Extended Data](ext_articles/d8eaeffd.ext.json)
 
 ---
 
@@ -778,6 +876,8 @@ Customers buying vehicles from Sathosa Motors will gain access to tailored finan
 
 [Data](articles/27d87f3d.json)
 
+[Extended Data](ext_articles/27d87f3d.ext.json)
+
 ---
 
 ### Sun Siyam marks 35 years with brand transformation and new experiences
@@ -791,6 +891,8 @@ The resorts are now organised into three collections: Luxury, led by Sun Siyam I
 ...
 
 [Data](articles/3c02ba37.json)
+
+[Extended Data](ext_articles/3c02ba37.ext.json)
 
 ---
 
@@ -808,6 +910,8 @@ The resorts are now organised into three collections: Luxury, led by Sun Siyam I
 
 [Data](articles/fc6d0525.json)
 
+[Extended Data](ext_articles/fc6d0525.ext.json)
+
 ---
 
 ### மட்டக்களப்பு புல்லுமலை தண்ணீர் தொழிற்சாலைக்கு எதிர்ப்பு! அனுமதி வழங்கினால் மக்கள் போராட்டம் வெடிக்கும்!
@@ -824,6 +928,8 @@ The resorts are now organised into three collections: Luxury, led by Sun Siyam I
 
 [Data](articles/0a8c5413.json)
 
+[Extended Data](ext_articles/0a8c5413.ext.json)
+
 ---
 
 ### The guardians of the world
@@ -835,6 +941,8 @@ By cultivating within ourselves the qualities of moral shame and fear of wrongdo
 ...
 
 [Data](articles/5008f708.json)
+
+[Extended Data](ext_articles/5008f708.ext.json)
 
 ---
 
@@ -854,6 +962,8 @@ By cultivating within ourselves the qualities of moral shame and fear of wrongdo
 
 [Data](articles/5abb00ce.json)
 
+[Extended Data](ext_articles/5abb00ce.ext.json)
+
 ---
 
 ### POWER POLITICS
@@ -865,6 +975,8 @@ It is said that Kotelawala made an application to the Central Bank for the trans
 ...
 
 [Data](articles/2676c3fd.json)
+
+[Extended Data](ext_articles/2676c3fd.ext.json)
 
 ---
 
@@ -879,6 +991,8 @@ It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees 
 ...
 
 [Data](articles/d91db4f3.json)
+
+[Extended Data](ext_articles/d91db4f3.ext.json)
 
 ---
 
@@ -897,6 +1011,8 @@ It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees 
 ◼️
 
 [Data](articles/a229871f.json)
+
+[Extended Data](ext_articles/a229871f.ext.json)
 
 ---
 
@@ -918,6 +1034,8 @@ It carries the long title: Arundhati Roy on her fugitive childhood: ‘My knees 
 
 [Data](articles/01c248c8.json)
 
+[Extended Data](ext_articles/01c248c8.ext.json)
+
 ---
 
 ### Thondaman’s role in aborting Premadasa impeachment and Speaker Mohamed’s perfidy
@@ -929,6 +1047,8 @@ As planned the Speaker addressed a letter to the President stating that he had a
 ...
 
 [Data](articles/1a2aed44.json)
+
+[Extended Data](ext_articles/1a2aed44.ext.json)
 
 ---
 
@@ -946,6 +1066,8 @@ The IAGS recognize that while the October 7, 2023 Hamas attack on Israel, in whi
 
 [Data](articles/1211b76b.json)
 
+[Extended Data](ext_articles/1211b76b.ext.json)
+
 ---
 
 ### Grenades and ammunition recovered near site of ‘Ice’ manufacturing chemicals
@@ -961,6 +1083,8 @@ The items seized include five foreign-manufactured hand grenades, 17 rounds of T
 ◼️
 
 [Data](articles/7aa351fb.json)
+
+[Extended Data](ext_articles/7aa351fb.ext.json)
 
 ---
 
@@ -980,6 +1104,8 @@ The items seized include five foreign-manufactured hand grenades, 17 rounds of T
 
 [Data](articles/59302920.json)
 
+[Extended Data](ext_articles/59302920.ext.json)
+
 ---
 
 ### Is the  JVP-led NPP Govt Weaponising the Law to Target Former President Ranil Wickremesinghe?Over his UK trip ?
@@ -991,6 +1117,8 @@ United National Party (UNP) leader Ranil Wickremesinghe has been in politics for
 ...
 
 [Data](articles/54a90439.json)
+
+[Extended Data](ext_articles/54a90439.ext.json)
 
 ---
 
@@ -1785,19 +1913,5 @@ The first of the four shooting incidents occurred in Grandpass at around 11:45 p
 ...
 
 [Data](articles/a519c89b.json)
-
----
-
-### Ranil comes to grips with need to trim public service and take a peace oriented path to development
-
-*2025-09-06 13:40:00* · [`islandlk`](http://island.lk/ranil-comes-to-grips-with-need-to-trim-public-service-and-take-a-peace-oriented-path-to-development/) · `en`
-
-The radical overhaul and reform of the public service was also one of the priorities in Ranil’s plan of action for the economy and good governance. Its main problem was that it had grown too large -almost one third larger than it needed to be – and was in need of redefining its role in the face of the private sector coming into various areas of production, distribution and exchange. The public service was sluggish, impervious largely to people’s needs, badly politicized and, as many alleged, often corrupt.
-
-Ranil had me appointed at the beginning of 2002 as chairman of the Administrative Reforms Committee (ARC) with a challenging set of problems to be sorted out. When we in the ARC began closely examining its structure and the manner in which it functioned, we found that Sri Lanka could probably do with a public service of three-fourths of its present size. A third mainly consisting of clerical and support level staff could well be hived out and put into more productive occupations.
-
-...
-
-[Data](articles/572682bb.json)
 
 ---

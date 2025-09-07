@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 19:54:02**
+As of **2025-09-07 21:05:37**
 
 ## Newspaper Stats
 
-*Scraped **74,599** Articles*
+*Scraped **74,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,197 @@ economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,216
-adaderanalk | 9,544
+adalk | 7,217
+adaderanalk | 9,545
 tamilmirrorlk | 11,108
-virakesarilk | 12,192
-adaderanasinhalalk | 12,991
+virakesarilk | 12,199
+adaderanasinhalalk | 12,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,588 (83.9%) of 74,599 articles have been extended.
+62,677 (84.0%) of 74,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### ராஜினாமா செய்கிறார் ஜப்பான் பிரதமர்
+### 'கலா வெவாவை மீண்டும்  யானைகளிடம் கொடுப்போம்' திட்டம் மூன்று நாட்கள் வெற்றிகரமாக முன்னெடுப்பு
 
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
+*2025-09-07 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224480) · `ta`
 
-ஜப்பான் பிரதமர் ஷிகெரு இஷிபா ராஜினாமா செய்ய முடிவு; ஆளும் கட்சியில் பிளவு ஏற்படாமல் தடுக்கும் நோக்கத்துடன் இந்த முடிவு எடுத்திருப்பதாக, தகவல் வெளியாகியுள்ளது.
+'கிளீன் ஶ்ரீலங்கா' திட்டத்துடன் இணைந்ததாக ஏற்பாடு செய்யப்பட்ட 'கலா வெவாவை மீண்டும் யானைகளிடம் கொடுப்போம்'  திட்டம், கடந்த மூன்று நாட்களாக கலா வெவா தேசிய  வனப்பூங்காவின் வெள்ளப்பெருக்கு பகுதிகளில் வெற்றிகரமாக செயல்படுத்தப்பட்டது.
 
-ஜப்பான் நாட்டின் பிரதமராக இருப்பவர் ஷிகெரு இஷிபா. இவர், லிபரல் டெமாக்ரடிக் கட்சியின் சார்பில் பதவி வகிக்கிறார்.இந்தாண்டு ஜூலை மாதம் நடந்த பார்லியின் மேலவை தேர்தலில் இந்த கட்சிக்கு தோல்வி கிடைத்தது.
-
-இதனால் ஆளும் கட்சி, பெரும்பான்மையை இழந்து விட்டது.இதற்கு பொறுப்பேற்று பிரதமர் ராஜினாமா செய்ய வேண்டும் என்று கட்சி நிர்வாகிகள் சிலர் குரல் எழுப்பத் தொடங்கியுள்ளனர்.
-
-கடந்த ஒரு மாதமாக இவ்வாறு கூறப்படும் கருத்துக்களை பிரதமர் புறக்கணித்து வந்தார். ஆனால், நாளுக்கு நாள் அவரது ராஜினாமாவை கோரும் குரல்கள் வலுத்து வருகின்றன.குறிப்பாக, அவரது கட்சியில் இருக்கும் வலதுசாரிகள், இந்த கோரிக்கையை வலியுறுத்தி வருகின்றனர்.
+வட மத்திய மாகாணத்தில் உள்ள  பெரும்பாலான குளங்களில் ஆக்கிரமிப்பு தாவரங்கள் பரவுவதால், காட்டு யானைகள் தங்கள் மேய்ச்சல் நிலங்களை இழந்துள்ளன. காட்டு யானைகள் புரதம் அதிகம் உள்ள இளம்பச்சை புற்களை  மிகவும் விரும்புகின்றன. கலா வெவா பகுதியில் பொதுவாக சுமார் நானூறு காட்டு யானைகள் வாழ்வதாக மதிப்பிடப்பட்டுள்ளது. இந்த காட்டு யானைகளுக்கு போதுமான உணவு இல்லாததால், காட்டு யானைகள் கிராமங்களுக்குள் நுழைகின்றன. இதனால் இப்பகுதியில் மனித-யானை மோதல்கள் அதிகரித்துள்ளன. கடந்த சில மாதங்களில், காட்டு யானைகளின் தாக்குதல்களால் பலர் இறந்துள்ளனர். இப்பகுதியில் நெற் பயிற்செய்கை பரவலாக  மேற்கொள்ளப்படுவதோடு  சோயா , சோளம், பழங்கள் மற்றும் காய்கறிகளும் பயிரிடப்படுகின்றன.
 
 ...
 
+[Data](articles/8bc6652b.json)
+
+---
+
+### சமாதானம் மற்றும் நல்லிணக்கம் அடைந்து கொள்ள கலந்துரையாடல்கள் அத்தியாவசியம்
+
+*2025-09-07 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224479) · `ta`
+
+ஒற்றுமை மற்றும் கலந்துரையாடல்  மூலம் சமாதானம் மற்றும் நல்லிணக்கம் ஆகியவற்றை மேம்படுத்துவதற்கும, உலகளாவிய மனித உரிமைகள் மற்றும் சமாதானத்தை அடைவதற்கு கலந்துரையாடல்கள் மிகவும் அவசியம் என சர்வதேச மனித உரிமை அபிவிருத்திக்கான குரல் (IVHRD) தலைவர் ரகு இந்திரகுமார் கூறினார்.
+
+சர்வதேச மனித உரிமை அபிவிருத்திக்கான குரல் (IVHRD) அமைப்பு, கொழும்பு, பண்டாரநாயக்க  ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் (BMICH) உலக மனித உரிமை தொடர்பான மாநாட்டை வெற்றிகரமாக நடத்தியது. இம்மாநாட்டில் தூதுவர்கள், சட்ட நிபுணர்கள், சமூகத் தலைவர்கள் மற்றும் உலகம் முழுவதிலிருந்தும் வருகை தந்த மனித உரிமை ஆர்வலர்கள் எ பலரும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/83adedfa.json)
+
+---
+
+### மூன்றாவதும் இறுதியுமான இருபதுக்கு 20 போட்டி இலங்கை அணி அபார வெற்றி
+
+*2025-09-07 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
+
+சுற்றுலா இலங்கை அணிக்கும் சிம்பாப்வே அணிக்கும் இடையிலான மூன்றாவதும் இறுதியுமான இருபதுக்கு 20 போட்டியில் இலங்கை அணி 8 விக்கெட் வித்தியாசத்தில் அபார வெற்றியை பெற்றது.
+
+அதன்படி, 3 போட்டிகள் கொண்ட தொடரை 2-1 என முடித்து, போட்டி பட்டத்தை வென்றது.
+
+போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில் களத்தடுப்பில் ஈடுபட தீர்மானித்தது.
+
+இதன்படி முதலில் துடுப்பெடுத்தாடிய சிம்பாப்வே அணி 20 ஓவர்கள் நிறைவில் 08 விக்கெட்டுக்களை இழந்து 191 ஓட்டங்களை பெற்றுள்ளது.
+
+ரி20 போட்டியில் ஜிம்பாப்வே நிர்ணயித்த 192 ஓட்டங்கள் என்ற அதிகபட்ச இலக்கை, போட்டியின் 17.2வது ஓவரில் 2 விக்கெட்டுகள் மட்டுமே இழந்து இலங்கை அணி துரத்தி அபார வெற்றியை பெற்றது
+
+மதிப்புமிக்க இன்னிங்ஸை விளையாடிய இளம் வீரர் கமில் மிஷாரா ஆட்டமிழக்காமல் 73 ஓட்டங்களை எடுத்தார். குசல் ஜனித் ஆட்டமிழக்காமல் 46 ஓட்டங்கள் எடுத்தார்.
+
+தொடக்க பேட்டிங் ஜோடியான பதும் நிஸ்ஸங்க (33) மற்றும் குசல் மெண்டிஸ் (30) ஆகியோரும் இலங்கையின் இன்னிங்ஸ் வெற்றிக்கு பங்களித்தனர்.
+
+◼️
+
+[Data](articles/ef0cf823.json)
+
+---
+
+### Supervision to be corrected
+
+*2025-09-07 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214289) · `si`
+
+Sri Lanka won eight wickets in the third T20 cricket match against the host Zimbabwe.
+
+Accordingly, Sri Lanka was able to win the 3-match tournament match 2-1.
+
+Sri Lanka was able to cross the 17.2 overs of the match, despite the largest goal of Zimbabwe.
+
+Kamil mixau scored unbeaten on 73 runs. The innings included two sixes and six fours.
+
+Opening batsmen (33) and Kusal Mendis (30) contributed to Sri Lankan innings.
+
+◼️
+
+[Data](articles/5da5babf.json)
+
+[Extended Data](ext_articles/5da5babf.ext.json)
+
+---
+
+### Ranil Wijewardena is good for the country if Ranil goes to Parliament
+
+*2025-09-07 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
+
+If Ranil Wickremesinghe is in Parliament in the current state of the country it is good for the country. However, he has not taken any decision on his visit to Parliament, ”said Ruwan Wijewardena, Deputy Chairman of the United National Corporation.
+
+He said in a commenting on the media on Sunday (7) at the United National Party headquarters, Sirikotha, on Sunday (7).
+
+If former President Ranil Wickremesinghe is in Parliament in the current situation in the country, I think the country is good for the country. However, there is no relevance regarding it yet. If he is going to Parliament, he will look at the right time. However, there is no discussion in this regard.
+
+...
+
+[Data](articles/6720d150.json)
+
+[Extended Data](ext_articles/6720d150.ext.json)
+
+---
+
+### Sewage stagnation in Batticaloa Sarcasm
+
+*2025-09-07 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224476) · `ta`
+
+School students traveling along the road are facing the convenience of the public, due to the stagnant stagnation and the stagnation of the stagnation in the drain on the Mudaliar Chinnalepu road in Batticaloa.
+
+The drainage is full of waste and the wastewater that flows through it is unable to move and the waste water is out of the drain.
+
+At the same time, people are facing various inconveniences in the drains and the residents of the road are unable to travel through the road and the residents of the road are unable to travel through the road as the stagnant sewage is being slammed by the stagnant sewage.
+
+Even though it has been brought to the notice of the concerned authorities, no action has been taken so will the concerned authorities take action? Do not stink? Do you clean the drains? People question.
+
+◼️
+
+[Data](articles/d47e2af6.json)
+
+[Extended Data](ext_articles/d47e2af6.ext.json)
+
+---
+
+### 45-year-old dies after fireworks explosion in Thambalagamuwa
+
+*2025-09-07 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112258/45-year-old-dies-after-fireworks-explosion-in-thambalagamuwa) · `en`
+
+A person has died following critical injuries sustained from a firecracker explosion during an annual festival at a Kovil in the Thambalagamuwa area in Trincomalee District last night (06).
+
+While a fireworks display was underway as part of the kovil’s festival procession, one firecracker had failed to detonate.
+
+As a result, a person nearby had kicked the firecracker, which had accidentally rolled towards the victim, where it then exploded.
+
+The victim, who suffered serious injuries from the incident, has succumbed to his injuries after being admitted to Thambalagamuwa Hospital.
+
+The deceased, a 45-year-old father of three, was a resident of the same area.
+
+A post-mortem examination has been conducted by the Kantale Judicial Medical Officer (JMO), and the Thambalagamuwa Police are conducting further investigation into the incident.
+
+◼️
+
+[Data](articles/941503ea.json)
+
+[Extended Data](ext_articles/941503ea.ext.json)
+
+---
+
+### Fireworks exploded in Trincomalee
+
+*2025-09-07 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224475) · `ta`
+
+One person died after a fireworks exploded during the annual festival held on Saturday night (06) at a temple in Thambalakamam, Trincomalee.
+
+The fireworks show was organized during the chariot Bhavani held there. In it, a neighbor of a fireworks that had not exploded kicked. When it struck another man, he was seriously injured.
+
+The deceased has been identified as the father of three children aged 45 in the same area.
+
+The autopsy on his body has been carried out by the Medical Officer. Thambalakamam police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/d78a4bf1.json)
+
+[Extended Data](ext_articles/d78a4bf1.ext.json)
+
+---
+
+### Japanese Prime Minister resigns
+
+*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
+
+Japanese Prime Minister Shikheru Ishiba decision to resign The decision has been made with the aim of preventing splitting in the ruling party.
+
+Shigeru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
+
+Some of the party executives have begun to voice their voice that the Prime Minister should resign.
+
+The Prime Minister has ignored the comments that have been said for the past one month. But the voices of his resignation day by day are strengthening.
+
+In such a situation, the Liberal Democratic Party is due to decide whether to hold an election in advance of the party leadership.. In order to avoid it, it is reported that he has come forward to resign automatically
+
+◼️
+
 [Data](articles/2dbc18b6.json)
+
+[Extended Data](ext_articles/2dbc18b6.ext.json)
 
 ---
 
@@ -79,6 +239,42 @@ Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has res
 [Data](articles/12120caa.json)
 
 [Extended Data](ext_articles/12120caa.ext.json)
+
+---
+
+### Most of the arrests are political exhibition - Vajira Abeywardena
+
+*2025-09-07 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224473) · `ta`
+
+Most of the arrests in Sri Lanka are carried out for political exhibitions. That is why a hundred people are arrested in which 98 are released. United National Party (UNP) Chairman Vajira Abeywardena said that this culture should be carried out through the constitutional amendment.
+
+He was speaking at a press conference held at the United National Party office in Galle on Sunday (7).
+
+The Constitution states that if a person is arrested, it is not considered punishment. But if someone is arrested in Sri Lanka, he can be punished and can be seen as a political exhibition.
+
+But this move is more change in the world countries. This Article in India, Japan and the US Constitution. Investigators are being held in Japan. If 100 people are investigated, 98 are guilty. But if 100 people are investigated in Sri Lanka, 98 people are innocent.
+
+...
+
+[Data](articles/345c1e42.json)
+
+[Extended Data](ext_articles/345c1e42.ext.json)
+
+---
+
+### ඉදිරි දින කිහිපයේදී වැසි ඇතිවෙන්න හොඳ වායුගෝලයක්
+
+*2025-09-07 17:59:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවෙන්න-හොඳ-වායුගෝලයක්/11-418332) · `si`
+
+ඉදිරි දින කිහිපයේදී උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සදහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඉදිරි පැය 36 සඳ හා වන කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසන්නේ උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම, සබරගමුව හා  ඌව පළාත්වලත් කුරුණෑගල හා හම්බන්තොට දිස්ත්‍රික්කවලත් පස්වරු ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවයි.
+
+ඇතැම් සරථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/bf6ccf1c.json)
 
 ---
 
@@ -1925,213 +2121,5 @@ The UPU said data exchanged between postal operators via its systems showed that
 [Data](articles/5e57f0de.json)
 
 [Extended Data](ext_articles/5e57f0de.ext.json)
-
----
-
-### Four dead in separate road accidents
-
-*2025-09-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112239/four-dead-in-separate-road-accidents) · `en`
-
-A total of four individuals, including a 22-year-old, have died in four separate road accidents reported yesterday (06) across various areas in the country.
-
-Accidents were reported in Kadawatha, Maradankadawala, Vellaveli, and Puthukkudiyiruppu, police stated.
-
-In one of the accidents, Police said the driver of a car heading towards Ragama along Dalupitiya –Ragama road lost control of the vehicle and hit a pedestrian walking on the roadside.
-
-The injured pedestrian was taken to Ragama Teaching Hospital but was pronounced dead upon admission.
-
-In another accident occurred at the Thawalanhalmillewa Junction on the A11 road in Maradankadawala, a car rammed into a bicycle from behind.
-
-The cyclist and a passenger on the bicycle sustained injuries and were admitted to Maradankadawala Hospital, where the cyclist was later pronounced dead.
-
-...
-
-[Data](articles/910a95fc.json)
-
-[Extended Data](ext_articles/910a95fc.ext.json)
-
----
-
-### Mineral transportation suspended during two time slots on school days: GSMB
-
-*2025-09-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112238/mineral-transportation-suspended-during-two-time-slots-on-school-days-gsmb) · `en`
-
-Steps have been taken to suspend mineral transportation activities during school days from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 p.m. by the Geological Survey and Mines Bureau (GSMB).
-
-Director General of the Bureau Dipani Weerakoon said that the decision was taken following discussions held after an accident that occurred a few weeks ago, where a school van collided with a sand tipper truck.
-
-Accordingly, Weerakoon stated that vehicles engaged in mineral transportation during these time periods must be parked in appropriate areas off the main roads.
-
-She further said since September 4, instructions have been issued throughout the country via Divisional Secretariats.
-
-◼️
-
-[Data](articles/fadefffd.json)
-
-[Extended Data](ext_articles/fadefffd.ext.json)
-
----
-
-### බිනර පුර පසළොස්වක පොහෝ දිනය අදයි
-
-*2025-09-07 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214260) · `si`
-
-භික්ෂුණී ශාසනය ආරම්භ කිරීම ඇතුළු ශාසන ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සනිටුහන් කළ වැදගත් පොහොය දිනයක් ලෙස මෙම පොහොය දිනය සැලකේ.
-
-කාන්තාවන්ට පැවිද්ද ලබාදෙමින් මහා ප්‍රජාපති ගෝතමී දේවිය ඇතුළු කාන්තාවන් 500 දෙනෙකු සසුනට එක්වීම මෙම පොහෝ දිනයේ සිදුවූ බව ශාසන ඉතිහාසයේ සඳහන් වේ.
-
-තපස්සු, භල්ලුක වෙළෙඳ දෙබෑයන්, බුදුන් වහන්සේගේ කේශ ධාතු තැන්පත් කරන ලද ගිරිහඬු සෑය ඉදිකිරීමත්, බුදුන් වහන්සේගේ ලාලාට ධාතු තැන්පත් කර සේරුවාවිල මහා සෑය ඉදිකිරීමත් මෙම පොහොය දිනයේදී සිදුකර ඇති බවත් වාර්තා වේ.
-
-එමෙන්ම භික්ෂු භික්ෂුණී උපාසක උපාසිකා යන සිව්වනක් පිරිස ආරම්භ වන්නේ ද අද වැනි පෝය දිනයක වන අතර වස් සමයේ අතරමැදි පොහොය ලෙස ද මෙම බිනර පොහොය සැලකේ.
-
-අෂ්ට ගරු ධර්ම බුදුන්වහන්සේගෙන් විමසා ආනන්ද හිමියන් විසින් එය මහා ප්‍රජාපතිගෝතමී දේවියට පහදා දීමෙන් පසුව ගරුධර්ම ආරක්ෂා කරන බවට ප්‍රතිඥා ලබාදුන්නේද අදවන් දිනකයි.
-
-මේ අතර බිනර පුරපසළොස්වක පොහොය වෙනුවෙන් දිවයින පුරා පිහිටි වෙහෙර විහාරස්ථානවල දී අද දිනයේ ආමිස හා ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් ආගමික වැඩසටහන් සංවිධාන කර තිබේ.
-
-...
-
-[Data](articles/324e6314.json)
-
-[Extended Data](ext_articles/324e6314.ext.json)
-
----
-
-### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
-
-*2025-09-07 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112237/rare-total-lunar-eclipse-blood-moon-to-be-visible-from-sri-lanka-tonight) · `en`
-
-Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” later today (07), said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
-
-The spectacular celestial event is set to light up the skies tonight, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
-
-Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
-
-...
-
-[Data](articles/87b189e8.json)
-
-[Extended Data](ext_articles/87b189e8.ext.json)
-
----
-
-### ඉදිරි දින කිහිපයේ කාලගුණයේ වෙනසක්
-
-*2025-09-07 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214259) · `si`
-
-ඉදිරි දින කිහිපයේදී  උතුරු, උතුරුමැද, නැගෙනහිර සහ ඌව පළාත්වල  සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පනසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරුමැද, නැගෙනහිර සහ ඌව පළාත්වල ප.ව. 2.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර, සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-දෘශ්‍ය ලෙස සූර්යයා දකුණට ගමන් කිරීමේදී, අගෝස්තු මස 28 වන දින සිට සැප්තැම්බර් මස 07 දක්වා ශ්‍රී ලංකාව ආසන්න අක්ෂාංශවලට සෘජුවම ඉහළින් පවතී.
-
-අද (07) දහවල් 12:08 ට මිරිස්ස, කඹුරුගමුව, මාතර, දෙවුන්දර, ගන්දර, සහ තලල්ල ප්‍රදේශවලට හිරු මුදුන්ව පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
-
-◼️
-
-[Data](articles/495b67b1.json)
-
-[Extended Data](ext_articles/495b67b1.ext.json)
-
----
-
-### UK police arrest about 425 at protest for banned Palestine Action
-
-*2025-09-07 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112236/uk-police-arrest-about-425-at-protest-for-banned-palestine-action) · `en`
-
-British police arrested around 425 people on Saturday (Sep 6) at a demonstration backing Palestine Action, the pro-Palestinian group banned by the government as a terrorist organisation.
-
-Britain outlawed Palestine Action in July after some of its members broke into a Royal Air Force base and damaged military planes. The group has also targeted defence firms with links to Israel, accusing the government of complicity in alleged Israeli war crimes in Gaza.
-
-Hundreds of demonstrators gathered near parliament in London to oppose the ban, holding signs that read: “I oppose genocide. I support Palestine Action.”
-
-Police said those detained were arrested for offences including assaulting officers and supporting a proscribed organisation. “Officers ... have been subjected to an exceptional level of abuse including punches, kicks, spitting and objects being thrown, in addition to verbal abuse,” London’s Metropolitan Police wrote on X.
-
-...
-
-[Data](articles/0eb18e6e.json)
-
-[Extended Data](ext_articles/0eb18e6e.ext.json)
-
----
-
-### Binara Poya falls today
-
-*2025-09-07 05:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112235/binara-poya-falls-today) · `en`
-
-The Binara Full Moon Poya Day is considered a significant one in the history of Buddhism, marking several important events, including the establishment of the Bhikkhuni order.
-
-According to Buddhist history, it was on this Poya day that 500 women, including Maha Prajapati Gotami, were ordained and entered the monastic order, thereby granting ordination to women.
-
-Meanwhile, religious programs have been organized across temples and monasteries throughout the island today, focusing on both material (Amisa) and spiritual (Patipatti) offerings in observance of Binara Full Moon Poya Day.
-
-◼️
-
-[Data](articles/70a30324.json)
-
-[Extended Data](ext_articles/70a30324.ext.json)
-
----
-
-### Showery condition to enhance due to atmospheric disturbance
-
-*2025-09-07 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112234/showery-condition-to-enhance-due-to-atmospheric-disturbance) · `en`
-
-Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Eastern and Uva provinces during the next few days, the Department of Meteorology said.
-
-Meanwhile, showers or thundershowers can be expected in several places in the Northern, North-Central, Eastern and Uva provinces after 2.00 p.m. today (07), the Met. Department added.
-
-A few showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy, and Nuwara-Eliya districts as well.
-
-Meanwhile, the sun will be directly over the latitudes of Sri Lanka today due to its apparent southward relative motion.
-
-The nearest places of Sri Lanka over which the sun will be overhead today are Mirissa, Kamburugamuwa, Matara, Dondra, Gandara and Talalla at around 12.08 p.m.
-
-◼️
-
-[Data](articles/1c2af7d4.json)
-
-[Extended Data](ext_articles/1c2af7d4.ext.json)
-
----
-
-### ’அபிவிருத்திக்கு எந்த நேரத்திலும் நிதியொதுக்க தயார்’
-
-*2025-09-07 03:07:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்திக்கு-எந்த-நேரத்திலும்-நிதியொதுக்க-தயார்/175-364113) · `ta`
-
-மக்களுக்கு அவசியமான அபிவிருத்தித் திட்டங்களுக்கு எந்த நேரத்திலும் நிதி ஒதுக்கத் தயாராக இருப்பதாக ஜனாதிபதி அநுரகுமார திஸாநாயக்க அறிவித்துள்ளார்.
-
-மொனராகலை மாவட்ட செயலகத்தில் நேற்று (06) நடைபெற்ற மொனராகலை மாவட்ட விசேட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி இதனைத் தெரிவித்துள்ளார்.
-
-ஒரு அபிவிருத்தித் திட்டம் ஆரம்பிக்கப்படும்போது, அது நிறைவடையும் வரை இலக்கு மயப்பட்ட திட்டத்தை அரச அதிகாரிகள் வைத்திருக்க வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தியுள்ளார்.
-
-இந்த ஆண்டு முதல் ஆரம்பிக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் உரிய நேரத்தில் நிறைவு செய்ய வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க சுட்டிக்காட்டியுள்ளார். (a)
-
-◼️
-
-[Data](articles/dfa05938.json)
-
-[Extended Data](ext_articles/dfa05938.ext.json)
-
----
-
-### ’ரிவிதனவி’ சூரிய மின்சக்தி பூங்கா நிர்மாணப் பணி ஆரம்பம்
-
-*2025-09-07 02:51:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிவிதனவி-சூரிய-மின்சக்தி-பூங்கா-நிர்மாணப்-பணி-ஆரம்பம்/175-364112) · `ta`
-
-இலங்கையின் மிகப்பெரிய புதுப்பிக்கத்தக்க எரிசக்தி முயற்சியான சியம்பலாண்டுவ 'ரிவிதனவி' சூரிய மின்சக்தி பூங்காவின் நிர்மாணப் பணிகள் நேற்று ஜனாதிபதி அநுர குமார திசாநாயக்கவின் தலைமையில் தொடங்கி வைக்கப்பட்டன.
-
-மொனராகலை மாவட்டத்தில் சியம்பலாண்டுவ, கொட்டியாகல பகுதியில் 500 ஏக்கர் காணியில் முன்னெடுக்கப்படவுள்ள 140 மில்லியன் அமெரிக்க டொலர் முதலீட்டிலான இந்த திட்டம், தேசிய மின்கட்டமைப்பில் 100 மெகாவோட் மின்சாரத்தைச் சேர்ப்பதுடன், ஆண்டுதோறும் 219 கிகாவோட் மின்சாரத்தை உற்பத்தி செய்யும்.
-
-இந்த திட்டத்தின் ஊடாக டீசல் இறக்குமதியைக் குறைப்பதன் மூலமும், ஒவ்வொரு ஆண்டும் 150,000 மெட்ரிக் தொன் கார்பன் வெளியேற்றத்தைக் குறைப்பதன் மூலமும் 21 பில்லியன் ரூபா அந்நியச் செலாவணியைச் சேமிக்க முடியும் என எதிர்பார்க்கப்படுகிறது.
-
-2030 ஆம் ஆண்டுக்குள் புதுப்பிக்கத்தக்க எரிசக்தியிலிருந்து 70 வீத மின்சாரத்தைப் பெறுவதற்கான இலங்கையின் இலக்கை நோக்கிய ஒரு முக்கிய படியாக இந்த முயற்சி பார்க்கப்படுகிறது என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/d1e4fcda.json)
-
-[Extended Data](ext_articles/d1e4fcda.ext.json)
 
 ---

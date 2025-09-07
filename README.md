@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 21:05:37**
+As of **2025-09-07 20:54:31**
 
 ## Newspaper Stats
 
-*Scraped **74,609** Articles*
+*Scraped **74,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,21 @@ economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,217
+adalk | 7,216
 adaderanalk | 9,545
 tamilmirrorlk | 11,108
-virakesarilk | 12,199
+virakesarilk | 12,196
 adaderanasinhalalk | 12,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,677 (84.0%) of 74,609 articles have been extended.
+62,649 (84.0%) of 74,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
-
-### 'கலா வெவாவை மீண்டும்  யானைகளிடம் கொடுப்போம்' திட்டம் மூன்று நாட்கள் வெற்றிகரமாக முன்னெடுப்பு
-
-*2025-09-07 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224480) · `ta`
-
-'கிளீன் ஶ்ரீலங்கா' திட்டத்துடன் இணைந்ததாக ஏற்பாடு செய்யப்பட்ட 'கலா வெவாவை மீண்டும் யானைகளிடம் கொடுப்போம்'  திட்டம், கடந்த மூன்று நாட்களாக கலா வெவா தேசிய  வனப்பூங்காவின் வெள்ளப்பெருக்கு பகுதிகளில் வெற்றிகரமாக செயல்படுத்தப்பட்டது.
-
-வட மத்திய மாகாணத்தில் உள்ள  பெரும்பாலான குளங்களில் ஆக்கிரமிப்பு தாவரங்கள் பரவுவதால், காட்டு யானைகள் தங்கள் மேய்ச்சல் நிலங்களை இழந்துள்ளன. காட்டு யானைகள் புரதம் அதிகம் உள்ள இளம்பச்சை புற்களை  மிகவும் விரும்புகின்றன. கலா வெவா பகுதியில் பொதுவாக சுமார் நானூறு காட்டு யானைகள் வாழ்வதாக மதிப்பிடப்பட்டுள்ளது. இந்த காட்டு யானைகளுக்கு போதுமான உணவு இல்லாததால், காட்டு யானைகள் கிராமங்களுக்குள் நுழைகின்றன. இதனால் இப்பகுதியில் மனித-யானை மோதல்கள் அதிகரித்துள்ளன. கடந்த சில மாதங்களில், காட்டு யானைகளின் தாக்குதல்களால் பலர் இறந்துள்ளனர். இப்பகுதியில் நெற் பயிற்செய்கை பரவலாக  மேற்கொள்ளப்படுவதோடு  சோயா , சோளம், பழங்கள் மற்றும் காய்கறிகளும் பயிரிடப்படுகின்றன.
-
-...
-
-[Data](articles/8bc6652b.json)
-
----
-
-### சமாதானம் மற்றும் நல்லிணக்கம் அடைந்து கொள்ள கலந்துரையாடல்கள் அத்தியாவசியம்
-
-*2025-09-07 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224479) · `ta`
-
-ஒற்றுமை மற்றும் கலந்துரையாடல்  மூலம் சமாதானம் மற்றும் நல்லிணக்கம் ஆகியவற்றை மேம்படுத்துவதற்கும, உலகளாவிய மனித உரிமைகள் மற்றும் சமாதானத்தை அடைவதற்கு கலந்துரையாடல்கள் மிகவும் அவசியம் என சர்வதேச மனித உரிமை அபிவிருத்திக்கான குரல் (IVHRD) தலைவர் ரகு இந்திரகுமார் கூறினார்.
-
-சர்வதேச மனித உரிமை அபிவிருத்திக்கான குரல் (IVHRD) அமைப்பு, கொழும்பு, பண்டாரநாயக்க  ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் (BMICH) உலக மனித உரிமை தொடர்பான மாநாட்டை வெற்றிகரமாக நடத்தியது. இம்மாநாட்டில் தூதுவர்கள், சட்ட நிபுணர்கள், சமூகத் தலைவர்கள் மற்றும் உலகம் முழுவதிலிருந்தும் வருகை தந்த மனித உரிமை ஆர்வலர்கள் எ பலரும் கலந்து கொண்டனர்.
-
-...
-
-[Data](articles/83adedfa.json)
-
----
-
-### மூன்றாவதும் இறுதியுமான இருபதுக்கு 20 போட்டி இலங்கை அணி அபார வெற்றி
-
-*2025-09-07 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
-
-சுற்றுலா இலங்கை அணிக்கும் சிம்பாப்வே அணிக்கும் இடையிலான மூன்றாவதும் இறுதியுமான இருபதுக்கு 20 போட்டியில் இலங்கை அணி 8 விக்கெட் வித்தியாசத்தில் அபார வெற்றியை பெற்றது.
-
-அதன்படி, 3 போட்டிகள் கொண்ட தொடரை 2-1 என முடித்து, போட்டி பட்டத்தை வென்றது.
-
-போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில் களத்தடுப்பில் ஈடுபட தீர்மானித்தது.
-
-இதன்படி முதலில் துடுப்பெடுத்தாடிய சிம்பாப்வே அணி 20 ஓவர்கள் நிறைவில் 08 விக்கெட்டுக்களை இழந்து 191 ஓட்டங்களை பெற்றுள்ளது.
-
-ரி20 போட்டியில் ஜிம்பாப்வே நிர்ணயித்த 192 ஓட்டங்கள் என்ற அதிகபட்ச இலக்கை, போட்டியின் 17.2வது ஓவரில் 2 விக்கெட்டுகள் மட்டுமே இழந்து இலங்கை அணி துரத்தி அபார வெற்றியை பெற்றது
-
-மதிப்புமிக்க இன்னிங்ஸை விளையாடிய இளம் வீரர் கமில் மிஷாரா ஆட்டமிழக்காமல் 73 ஓட்டங்களை எடுத்தார். குசல் ஜனித் ஆட்டமிழக்காமல் 46 ஓட்டங்கள் எடுத்தார்.
-
-தொடக்க பேட்டிங் ஜோடியான பதும் நிஸ்ஸங்க (33) மற்றும் குசல் மெண்டிஸ் (30) ஆகியோரும் இலங்கையின் இன்னிங்ஸ் வெற்றிக்கு பங்களித்தனர்.
-
-◼️
-
-[Data](articles/ef0cf823.json)
-
----
 
 ### Supervision to be corrected
 
@@ -163,8 +111,6 @@ A post-mortem examination has been conducted by the Kantale Judicial Medical Off
 ◼️
 
 [Data](articles/941503ea.json)
-
-[Extended Data](ext_articles/941503ea.ext.json)
 
 ---
 
@@ -259,22 +205,6 @@ But this move is more change in the world countries. This Article in India, Japa
 [Data](articles/345c1e42.json)
 
 [Extended Data](ext_articles/345c1e42.ext.json)
-
----
-
-### ඉදිරි දින කිහිපයේදී වැසි ඇතිවෙන්න හොඳ වායුගෝලයක්
-
-*2025-09-07 17:59:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවෙන්න-හොඳ-වායුගෝලයක්/11-418332) · `si`
-
-ඉදිරි දින කිහිපයේදී උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සදහා හිතකර වායුගෝලීය තත්ත්වයන් ඇතිවෙමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඉදිරි පැය 36 සඳ හා වන කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව පවසන්නේ උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම, සබරගමුව හා  ඌව පළාත්වලත් කුරුණෑගල හා හම්බන්තොට දිස්ත්‍රික්කවලත් පස්වරු ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවයි.
-
-ඇතැම් සරථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවත් බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
-
-◼️
-
-[Data](articles/bf6ccf1c.json)
 
 ---
 
@@ -2121,5 +2051,91 @@ The UPU said data exchanged between postal operators via its systems showed that
 [Data](articles/5e57f0de.json)
 
 [Extended Data](ext_articles/5e57f0de.ext.json)
+
+---
+
+### Four dead in separate road accidents
+
+*2025-09-07 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112239/four-dead-in-separate-road-accidents) · `en`
+
+A total of four individuals, including a 22-year-old, have died in four separate road accidents reported yesterday (06) across various areas in the country.
+
+Accidents were reported in Kadawatha, Maradankadawala, Vellaveli, and Puthukkudiyiruppu, police stated.
+
+In one of the accidents, Police said the driver of a car heading towards Ragama along Dalupitiya –Ragama road lost control of the vehicle and hit a pedestrian walking on the roadside.
+
+The injured pedestrian was taken to Ragama Teaching Hospital but was pronounced dead upon admission.
+
+In another accident occurred at the Thawalanhalmillewa Junction on the A11 road in Maradankadawala, a car rammed into a bicycle from behind.
+
+The cyclist and a passenger on the bicycle sustained injuries and were admitted to Maradankadawala Hospital, where the cyclist was later pronounced dead.
+
+...
+
+[Data](articles/910a95fc.json)
+
+[Extended Data](ext_articles/910a95fc.ext.json)
+
+---
+
+### Mineral transportation suspended during two time slots on school days: GSMB
+
+*2025-09-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112238/mineral-transportation-suspended-during-two-time-slots-on-school-days-gsmb) · `en`
+
+Steps have been taken to suspend mineral transportation activities during school days from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 p.m. by the Geological Survey and Mines Bureau (GSMB).
+
+Director General of the Bureau Dipani Weerakoon said that the decision was taken following discussions held after an accident that occurred a few weeks ago, where a school van collided with a sand tipper truck.
+
+Accordingly, Weerakoon stated that vehicles engaged in mineral transportation during these time periods must be parked in appropriate areas off the main roads.
+
+She further said since September 4, instructions have been issued throughout the country via Divisional Secretariats.
+
+◼️
+
+[Data](articles/fadefffd.json)
+
+[Extended Data](ext_articles/fadefffd.ext.json)
+
+---
+
+### බිනර පුර පසළොස්වක පොහෝ දිනය අදයි
+
+*2025-09-07 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214260) · `si`
+
+භික්ෂුණී ශාසනය ආරම්භ කිරීම ඇතුළු ශාසන ඉතිහාසයේ වැදගත් සිදුවීම් රැසක් සනිටුහන් කළ වැදගත් පොහොය දිනයක් ලෙස මෙම පොහොය දිනය සැලකේ.
+
+කාන්තාවන්ට පැවිද්ද ලබාදෙමින් මහා ප්‍රජාපති ගෝතමී දේවිය ඇතුළු කාන්තාවන් 500 දෙනෙකු සසුනට එක්වීම මෙම පොහෝ දිනයේ සිදුවූ බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+
+තපස්සු, භල්ලුක වෙළෙඳ දෙබෑයන්, බුදුන් වහන්සේගේ කේශ ධාතු තැන්පත් කරන ලද ගිරිහඬු සෑය ඉදිකිරීමත්, බුදුන් වහන්සේගේ ලාලාට ධාතු තැන්පත් කර සේරුවාවිල මහා සෑය ඉදිකිරීමත් මෙම පොහොය දිනයේදී සිදුකර ඇති බවත් වාර්තා වේ.
+
+එමෙන්ම භික්ෂු භික්ෂුණී උපාසක උපාසිකා යන සිව්වනක් පිරිස ආරම්භ වන්නේ ද අද වැනි පෝය දිනයක වන අතර වස් සමයේ අතරමැදි පොහොය ලෙස ද මෙම බිනර පොහොය සැලකේ.
+
+අෂ්ට ගරු ධර්ම බුදුන්වහන්සේගෙන් විමසා ආනන්ද හිමියන් විසින් එය මහා ප්‍රජාපතිගෝතමී දේවියට පහදා දීමෙන් පසුව ගරුධර්ම ආරක්ෂා කරන බවට ප්‍රතිඥා ලබාදුන්නේද අදවන් දිනකයි.
+
+මේ අතර බිනර පුරපසළොස්වක පොහොය වෙනුවෙන් දිවයින පුරා පිහිටි වෙහෙර විහාරස්ථානවල දී අද දිනයේ ආමිස හා ප්‍රතිපත්ති පූජාවන්ට මුල්තැන දෙමින් ආගමික වැඩසටහන් සංවිධාන කර තිබේ.
+
+...
+
+[Data](articles/324e6314.json)
+
+[Extended Data](ext_articles/324e6314.ext.json)
+
+---
+
+### Rare total lunar eclipse ‘blood moon’ to be visible from Sri Lanka tonight
+
+*2025-09-07 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112237/rare-total-lunar-eclipse-blood-moon-to-be-visible-from-sri-lanka-tonight) · `en`
+
+Sri Lankans will have a rare opportunity to witness the phenomenon known as “blood moon” later today (07), said Prof. Chandana Jayaratne, the Head of the Department of Physics and Director, Astronomy and Space Science Unit of the University of Colombo and the Chairman of the Arthur C Clarke Institute for Modern Technologies.
+
+The spectacular celestial event is set to light up the skies tonight, as the Moon undergoes a total lunar eclipse, turning an eerie, deep red for 82 minutes.
+
+Known as a Blood Moon, this will be the last total lunar eclipse of the year and is expected to be visible to nearly 85% of the global population. Unlike many eclipses confined to specific regions, this phenomenon will be observable across much of Asia, Australia, Europe, and Africa, with Sri Lanka offering some of the clearest views.
+
+...
+
+[Data](articles/87b189e8.json)
+
+[Extended Data](ext_articles/87b189e8.ext.json)
 
 ---

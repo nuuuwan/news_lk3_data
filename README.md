@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 14:19:49**
+As of **2025-09-07 14:07:31**
 
 ## Newspaper Stats
 
-*Scraped **74,561** Articles*
+*Scraped **74,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,158 +17,78 @@ islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
 adalk | 7,210
-adaderanalk | 9,538
-tamilmirrorlk | 11,099
-virakesarilk | 12,187
+adaderanalk | 9,536
+tamilmirrorlk | 11,097
+virakesarilk | 12,186
 adaderanasinhalalk | 12,982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,261 (83.5%) of 74,561 articles have been extended.
+62,252 (83.5%) of 74,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### ரணில் எம்.பி ஆவாரா?: ருவன் அதிரடி பதில்
-
-*2025-09-07 14:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-எம்-பி-ஆவாரா-ருவன்-அதிரடி-பதில்/175-364138) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்த நேரத்தில் பாராளுமன்றத்தில் இருந்தால் அது நாட்டிற்கு நல்லது என்று தான் நம்புவதாக ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜேவர்தன, ஞாயிற்றுக்கிழமை (07) தெரிவித்தார்.
-
-"ஆனால் அத்தகைய ஏற்பாடுகள் எதுவும் இல்லை. அவர் பாராளுமன்றத்திற்குச் செல்வதாயின், சரியான நேரம் வரும்போது செல்வார். ஆனால் தற்போது அது தொடர்பில் எவ்விதமான கலந்துரையாடல்களும் இல்லை” என்றார்.
-
-பிட்டகோட்டே, சிறிகொத்தாவில் உள்ள ஐக்கிய தேசியக் கட்சியின் தலைமையகத்தில் ஞாயிற்றுக்கிழமை (07)  நடைபெற்ற அன்னதானத்தைத் திறந்து வைத்து ஊடகவியலாளர்கள் கேட்ட கேள்விகளுக்கு பதிலளிக்கும் போது ஐக்கிய தேசியக் பிரதித் தலைவர் ருவான் விஜேவர்தன இவ்வாறு கூறினார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க பாராளுமன்றத்திற்கு வருவது குறித்து நிறைய பேச்சுக்கள் எழுந்துள்ளன, மேலும் அவரை பாராமன்றத்திற்கு அனுப்ப ஏதேனும் கலந்துரையாடல்கள் முன்னெடுக்கப்படுகின்றனவா என ஊடகவியலாளர்கள் கேள்வியெழுப்பினர்
-
-...
-
-[Data](articles/5089adb1.json)
-
----
-
-### 300 arrested during protest in London
+### ලන්ඩන්හි විරෝධතාවයක් අතරතුර 300ක් අත්අඩංගුවට
 
 *2025-09-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214278) · `si`
 
-Assistant to Palestine, 300 people have been arrested during a protest held in London yesterday.
+පලස්තීනයට සහාය දක්වමින් ලන්ඩන් නුවර ඊයේ පැවැති විරෝධතාවයක් අතරතුර පුද්ගලයින් 300ක් අත්අඩංගුවට ගැනීමට එරට පොලිසිය කටයුතු කර තිබේ.
 
-Foreign media reports that around 500 people were present at the protest.
+එම විරෝධතාවය සඳහා 1, 500ක පමණ පිරිසක් එක්ව සිටි බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
-It is reported that the protest has been organized in the British Agent Organization in Britain.
+පැලස්ටයින් ඇක්ෂන් ගෘෘප් නම් බ්‍රිතාන්‍ය තුළ තහනම් සංවිධානයක් මෙම විරෝධතාවය සංවිධාන කර ඇති බව වාර්තා වේ.
 
-However, 500 people were arrested during a similar protest in the last August.
+කෙසේ වෙතත් පසුගිය අගෝස්තු මාසයේ ද එවැනිම විරෝධතාවයක් අතරතුර 500ක පමණ පිරිසක් අත්අඩංගුවට ගැනිමට එරට පොලිසිය කටයුතු කළේය.
 
 ◼️
 
 [Data](articles/92ba77cd.json)
 
-[Extended Data](ext_articles/92ba77cd.ext.json)
-
 ---
 
-### Japanese PM's decision to resign from office
+### ධුරයෙන් ඉල්ලා අස්වීමට ජපාන අගමැතිගෙන් තීරණයක්
 
 *2025-09-07 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214277) · `si`
 
-Foreign media reports that Japanese Prime Minister Shiba has decided to resign.
+ජපාන අගමැති ෂිගේරු ඉෂිබා ඉල්ලා අස්වීමට තීරණය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
 
-He has taken these decisions today (07), making the world's fourth largest economy into new political uncertainty.
+ඔහු අද (07) එම තීරණ ගෙන ඇත්තේ,ලොව සිව්වන විශාලතම ආර්ථිකය නව දේශපාලන අවිනිශ්චිතතාවයකට ඇද දමමින්ය.
 
-It is reported that he has taken this decision to prevent a difference in their ruling party.
+තම පාලක පක්ෂය තුළ භේදයක් ඇතිවීම වළක්වා ගැනීම සඳහා ඔහු මෙම තීරණය ගෙන ඇති බව වාර්තා වෙයි.
 
-The Prime Minister of Japan holds a media briefing at 6 pm.
+ජපාන අගමැති ඉෂිබා එරට වේලාවෙන් සවස 6 ට මාධ්‍ය හමුවක් පවත්වන බව සඳහන්ය.
 
-The announcement has been released today after the rejection of the liberal democratic party in July.
+ජූලි මාසයේ පැවති මැතිවරණයකදී තම ලිබරල් ප්‍රජාතන්ත්‍රවාදී පක්ෂය ප්‍රමුඛ සන්ධානය ලැබූ ඓතිහාසික පරාජයක් හේතුවෙන් ඉල්ලා අස්වීමට සැලසුම් කර ඇති බවට පළ වූ වාර්තා ඉෂිබා ප්‍රතික්ෂේප කිරීමෙන් සති කිහිපයකට පසු අද මෙම  නිවේදනය නිකුත් වී තිබේ.
 
-This is the most difficult to implement their policy objectives to the UPFA because of these defeats.
+මෙම පරාජයන් නිසා ඉෂිබාගේ සන්ධානයට තම ප්‍රතිපත්තිමය අරමුණු ක්‍රියාත්මක කිරීම වඩාත් අපහසු වී ඇත.
 
 ◼️
 
 [Data](articles/e362be8c.json)
 
-[Extended Data](ext_articles/e362be8c.ext.json)
-
 ---
 
-### உக்ரேன் மீது 800 ட்ரோன்களை ஏவிய ரஷ்யா
-
-*2025-09-07 13:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரேன்-மீது-800-ட்ரோன்களை-ஏவிய-ரஷ்யா/50-364136) · `ta`
-
-உக்ரேன் - ரஷ்யா மோதல் தொடங்கியதில் இருந்தே இதுதான் மிகப் பெரிய ட்ரோன் தாக்குதல் என்று கூறப்படுகிறது. இத்தாக்குதலில் உக்ரேன் அரசு தலைமை அலுவலக கட்டிடத்தின் மேல்தள பகுதியில் தீப்பிடித்து, புகை எழுந்தது. இதை சர்வதேச ஊடகவியலாளர்கள் உறுதி செய்துள்ளனர். 800 ட்ரோன்களை ஏவி தாக்குதல் நடத்தியுள்ளது ரஷ்யா. இந்த தாக்குதல் ஞாயிற்றுக்கிழமை (செப்.7) நடந்துள்ளது.
-
-இதுநாள் வரையில் கீவ் நகரில் அரசு கட்டிடங்கள் மீதான தாக்குதலை ரஷ்யா தவிர்த்து வந்தது என்பது குறிப்பிடத்தக்கது.
-
-ஞாயிற்றுக்கிழமை (07) அன்று ரஷ்யாவின் ட்ரோன் மற்றும் ஏவுகணை தாக்குதலில் கீவ் நகரில் ஒரு வயது குழந்தை உட்பட இரண்டு பேர் உயிரிழந்ததாக தகவல் கிடைத்துள்ளது. இந்த தாக்குதலில் கர்ப்பிணி உட்பட 11 பேர் காயமடைந்துள்ளதாக உக்ரேன் அதிகாரிகள் உறுதி செய்துள்ளனர். இதை கீவ் நகரின் நிர்வாக தலைவரும் உறுதி செய்துள்ளார். ரஷ்யாவின் தாக்குதலில் அடுக்குமாடி குடியிருப்பு ஒன்று சேதமடைந்துள்ளது. அதில் உள்ள மக்கள் வெளியேற முடியாமல் தவித்து வருவதாக தகவல் கிடைத்துள்ளது.
-
-...
-
-[Data](articles/24548af8.json)
-
----
-
-### Bus driver's blood samples of the bus accident
+### ඇල්ලේදී අනතුරට ලක්වූ බස් රථයේ රියදුරුගේ රුධිර සාම්පල රස පරීක්ෂක දෙපාර්තමේන්තුවට
 
 *2025-09-07 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214276) · `si`
 
-The driver of the bus driver has been sent to the Analyst's department for the vehicle driver to check the bus driver.
+ඇල්ල වැල්වාය මාර්ගයේ අනතුරට ලක්වූ බස් රථ රියදුරුගේ රුධිර සාම්පල පරීක්ෂාව සදහා රස පරීක්ෂක දෙපාර්තමේන්තුව වෙත යොමු කිරීමට තීරණය කර තිබේ.
 
-The police said that steps will be taken to send the blood samples to the Analyst's Department today to disclose whether the driver had drunk at the time of the accident.
+අනතුර සිදුවන අවස්ථාවේ එම රියදුරු මත්පැන් පානය කර සිටියේ ද යන්න පිළිබඳව අනාවරණය කර ගැනීම සඳහා රුධිර සාම්පල අද දිනයේ රස පරීක්ෂක දෙපාර්තමේන්තුව වෙත යොමු කිරීමට පියවර ගන්නා බව පොලිසිය සදහන් කළේය.
 
-Fifteen persons were killed and 17 others were wounded in the accident near the 24th post of Ella at the Wellawaya Road last Thursday night.
+පසුගිය බ්‍රහස්පතින්දා දින රාත්‍රීයේ ඇල්ල වැල්ලවාය මාර්ගයේ 24 වන කණුව ආසන්නයේ දී බස් රථයක් ප්‍රපාතයකට පෙරළීමෙන් සිදුවු අනතුරින් පුද්ගලයින් 15 දෙනෙකු මියගොස් තවත් 17 දෙනෙකු තුවාල ලැබීය.
 
-The driver of the bus was also killed and he had decided to conduct a blood test to look into the accident.
+අනතුරින් බස් රථයේ රියදුරු ද මියගිය අතර ඔහු අනතුර සිදුවන අවස්ථාවේ යම් මත්ද්‍රව්‍යයක් පානය කර සිට ඇත්ද යන්න පිළිබඳව සොයා බැලීම සඳහා මෙසේ රුධිර පරීක්ෂාවක් සිදු කිරීමට තීරණය කර ඇති බව වාර්තා වේ.
 
-Thangalla Municipal Council employees of Tangalle Urban Council have been submitted to their homes and the funerals are to be handed over to their homes.
-
-Meanwhile, 11 persons who were injured in the accident are also receiving treatment at the Badulla General Hospital.
-
-◼️
-
-[Data](articles/ff4e6a10.json)
-
-[Extended Data](ext_articles/ff4e6a10.ext.json)
-
----
-
-### ஐஸ் போதைப்பொருள் உற்பத்திக்கு பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரசாயனப் பொருள் தங்காலையில் கண்டுபிடிப்பு
-
-*2025-09-07 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224440) · `ta`
-
-தங்காலையில் உள்ள நெடோல்பிட்டியவில் உள்ள தனியார் காணியொன்றில் ஞாயிற்றுக்கிழமை (07) காலை ஐஸ் உற்பத்தியில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரசாயனப் பொருள் கண்டுபிடிக்கப்பட்டுள்ளது.
-
-பிரதேசவாசிகளிடமிருந்து கிடைத்த தகவலுக்கமைய, தங்காலையில் உள்ள வெலிவெண்ணா குறுக்கு வீதியை அண்மித்துள்ள காணியொன்றில் பொலிஸ் அதிகாரிகள் இன்று காலை விசேட சோதனை மேற்கொண்டனர்.
-
-இந்த பொருட்கள் நேற்று மித்தேனியாவின் தலாவவில் உள்ள காணியொன்றில் நடத்தப்பட்ட சோதனையின் போது கண்டுபிடிக்கப்பட்ட இரசாயனப் பொருள்களுடன் ஒத்திருப்பதாகவும், அவை ஐஸ் உற்பத்திக்கு பயன்படுத்தப்பட்டதாக நம்பப்படுவதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-குறித்த இரசாயனப் பொருள்கள் சுமார் நான்கு மாதங்களுக்கு முன்பு கொண்டு வரப்பட்டு அந்த இடத்தில் விடப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
-
-◼️
-
-[Data](articles/6d1b8c94.json)
-
----
-
-### Japan Prime Minister Shigeru Ishiba decides to step down
-
-*2025-09-07 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112251/japan-prime-minister-shigeru-ishiba-decides-to-step-down) · `en`
-
-Japanese Prime Minister Shigeru Ishiba has decided to resign to avoid a split within the ruling Liberal Democratic Party (LDP), the broadcaster NHK is reporting.
-
-The announcement on Sunday comes weeks after Ishiba denied reports he planned to step down over a historic defeat his LDP-led coalition suffered in a July election, saying he wanted to make sure the tariff deal struck with the United States was appropriately implemented.
-
-Since assuming his role last October, Ishiba has seen electoral losses wipe out his party’s majority in both houses of parliament, with a bruising electoral defeat in October leaving it with a minority in the more powerful lower house.
-
-The defeats have made it more difficult for Ishiba’s coalition to implement its policy objectives.
-
-Amid the country’s growing political instability, the prime minister has faced calls to resign from mostly right-wing opponents within his party, who urged him to take responsibility for the results of July’s vote.
+අදාළ අනතුරින් මියගිය පුද්ගලයින්ගෙන් 12 දෙනෙකු තංගල්ල නගර සභාවේ සේවකයින් වන අතර ඔවුන්ගේ දේහයන් මේවන විට සිය නිවෙස් වෙත භාර දී ඇති බවත් අවසන් කටයුතු අද දිනයේ සිදුකිරීමට නියමිත බවත් වාර්තා වේ.
 
 ...
 
-[Data](articles/a7612ffb.json)
+[Data](articles/ff4e6a10.json)
 
 ---
 
@@ -191,26 +111,6 @@ He added that the banking banks should pay more attention to such false messages
 [Data](articles/4a6ecf94.json)
 
 [Extended Data](ext_articles/4a6ecf94.ext.json)
-
----
-
-### Strict action against drivers of vehicles with unauthorised modifications from tomorrow
-
-*2025-09-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112250/strict-action-against-drivers-of-vehicles-with-unauthorised-modifications-from-tomorrow) · `en`
-
-The strict enforcement of the law will begin tomorrow against drivers of vehicles operating with dangerous and unauthorised modifications, Deputy Minister of Transport Dr. Prasanna Gunasena has stated.
-
-In a statement posted on his official Facebook account, the Deputy Minister emphasised that special attention will be directed towards vehicles equipped with excessively loud sound systems, and multi-colored, flashing lights, which are installed in violation of transport regulations.
-
-This announcement follows a tragic accident that occurred on Thursday night (04) near the 24th milepost on the Ella–Wellawaya road, where a luxury jeep rear-ended a bus, causing it to break through a metal safety barrier and plunge approximately 1,000 feet down a precipice.
-
-The bus was carrying 32 individuals, including employees of the Tangalle Municipal Council and their relatives, on a leisure trip.
-
-As a result of the crash, 15 people lost their lives, and 17 others sustained injuries.
-
-...
-
-[Data](articles/13ed71be.json)
 
 ---
 
@@ -2025,5 +1925,123 @@ Accordingly, the Sri Lankan team scored 80 runs for the loss of all wickets.
 [Data](articles/ee5ee80e.json)
 
 [Extended Data](ext_articles/ee5ee80e.ext.json)
+
+---
+
+### Dead body found in a cinnamon land
+
+*2025-09-06 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214248) · `si`
+
+A person was killed in Weliara, Panamura Police Division.
+
+The Son of the deceased has lodged a complaint by the son of the deceased at around 6.45 am.
+
+The son has told the police that the father left the house at around 4.00 pm yesterday (05).
+
+The complainant told the police that the father who left his father had come to return with a friend.
+
+The complainant son and his friend have seen a body that burned into a cilant land near the near future.
+
+The body has been identified as his father.
+
+Police suspect that the deceased has been burnt to prevent the spread of fire to the cinnamon cultivation of a neighbor at the cinnamon cultivation.
+
+◼️
+
+[Data](articles/c8f42446.json)
+
+[Extended Data](ext_articles/c8f42446.ext.json)
+
+---
+
+### A bodies in a hotel room
+
+*2025-09-06 18:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214247) · `si`
+
+The Dimbula Patana Police states that a person who had come to a visit to Kotagala area has died in the hotel room he had stayed in the Kotagala area.
+
+The deceased has been identified as 60 years old to visit the Kotagagala area.
+
+The man had come to this tourist hotel with a friend and after drinking alcohol, the hotel had fallen into the ground.
+
+He had gone up and went back to the room and lodged a complaint with the police as he did not wake up in the morning.
+
+It was revealed that the man had died in the hotel at the hotel.
+
+The magistrate's position on the body of the deceased has been conducted by the magistrate's position today (06) and the Magistrate has ordered the court inspection of the body.
+
+◼️
+
+[Data](articles/22d3ca53.json)
+
+[Extended Data](ext_articles/22d3ca53.ext.json)
+
+---
+
+### Putin says foreign troops deployed to Ukraine would be legitimate targets
+
+*2025-09-06 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112229/putin-says-foreign-troops-deployed-to-ukraine-would-be-legitimate-targets) · `en`
+
+Russian President Vladimir Putin said Friday that any foreign troops deployed to Ukraine, particularly while its invasion was still ongoing, would be considered “legitimate targets” by Moscow’s forces.
+
+Putin’s comments came hours after European leaders repledged their commitment to a potential peacekeeping force, a prospect that Moscow has repeatedly described as “unacceptable.”
+
+“If any troops appear there, especially now while fighting is ongoing, we assume that they will be legitimate targets,” he said during a panel at the Eastern Economic Forum in the far eastern Russian city of Vladivostok.
+
+Putin also dismissed the idea of peacekeeping forces in Ukraine after a final peace deal, saying “no one should doubt” that Moscow would comply with a treaty to halt its 3½-year full-scale invasion of its neighbor.
+
+He said that security guarantees would be needed for both Russia and Ukraine.
+
+...
+
+[Data](articles/65d9717d.json)
+
+[Extended Data](ext_articles/65d9717d.ext.json)
+
+---
+
+### The wreckage of the bus in the falls in the falls
+
+*2025-09-06 17:09:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේදී-අනතුරට-පත්-බස්-රථයේ-සුන්-බුන්-උඩට-ගනියි/11-418314) · `si`
+
+The Ella Police say that about two-hour operation was taken into the premises of the Ella in Wellawaya main road.
+
+The Tangalle Urban Council employees were traveling with the members of their families and was on the road to Tangalle on the 4th night's luxury jeep.
+
+The bus that was the bus to the precipice was scattered in the precipice of the same debris, about 1,000 feet in the precipice of the precipice
+
+Ella Advisory Superintendent Ruwan Fernando said that the wreckage of the picnic bus was brought to a lorry with a lorry of the picnic bus.
+
+◼️
+
+[Data](articles/dc944b95.json)
+
+[Extended Data](ext_articles/dc944b95.ext.json)
+
+---
+
+### Notice on traffic restricted on the road in Akuressa
+
+*2025-09-06 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214246) · `si`
+
+Police have issued a new addition to a restriction on traffic on the Akuressa main road.
+
+Traffic is restricted for the Perahera of the Kosmodara Police Division.
+
+The Esala Perahera of the Tharma Maha Viharaya will continue to travel the following streets from the Akuressa - Deniyaya main road from today (06).
+
+Accordingly, it is planned to visit the streets from 800 pm to 1200 midnight every day from 800 pm today (06) and tomorrow.
+
+Therefore, the public and drivers who use the Akuressa Deniyaya main road during the procession will be used to use the following alternative routes.
+
+From Akuressa to Deniyaya, the Galdola Junction can lead to Kosmudara through the Bengamuwa road.
+
+Diyagada TRI of moving from Deniyaya to Akuressa. The Komodara road can come to the junction.
+
+◼️
+
+[Data](articles/0578959b.json)
+
+[Extended Data](ext_articles/0578959b.ext.json)
 
 ---

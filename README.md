@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 18:55:36**
+As of **2025-09-07 19:20:02**
 
 ## Newspaper Stats
 
-*Scraped **74,597** Articles*
+*Scraped **74,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
 dailyftlk | 5,277
-adalk | 7,215
+adalk | 7,216
 adaderanalk | 9,544
 tamilmirrorlk | 11,107
 virakesarilk | 12,192
@@ -26,27 +26,57 @@ adaderanasinhalalk | 12,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,534 (83.8%) of 74,597 articles have been extended.
+62,565 (83.9%) of 74,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
 
-### ශ්‍රී ලංකාවට ලකුණු 192ක ඉලක්කයක්
+### Sri Lanka a target of 192 runs
 
 *2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
 
-ශ්‍රී ලංකාව හා සිම්බාබ්වේ අතර අද (07) පැවැත්වෙන තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයේ දී පළමුව පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 191ක් රැස්කිරීමට සමත් විය.
+Zimbabwe scored 191 runs for the loss of 19 wickets in the first 20 overs.
 
-මෙය ශ්‍රී ලංකාවට එරෙහිව විස්සයි20 තරගයකදී සිම්බාබ්වේ කණ්ඩායම රැස් කළ ඉහළම ලකුණු සංඛ්‍යාව ලෙස වාර්තා අතරට එක්විය.
+This was the highest scorers of Zimbabwe's highest marks in the Twenty20 match against Sri Lanka.
 
-මීට පෙර ඔවුන් රැස් කර තිබූ ඉහළම ලකුණු සංඛ්‍යාව වූයේ කඩුලු 6ක් දැවී ලකුණු 178ක් රැස් කර තිබීමයි.
+Earlier, they had scored 178 runs for the loss of 6 wickets.
 
-ඒ අනුව ශ්‍රී ලංකාවට ජයග්‍රාහණය සඳහා ලකුණු 192ක ඉලක්කයක් හිමිවිය.
+Accordingly, Sri Lanka won a target of 192 runs.
+
+Sri Lanka captain Charith won the toss and win the coin of the match at the Harrara Stadium.
+
+Tadiwanashe Marumani scored 51 runs on behalf of Zimbabwe. Sikandar raza scored 28 runs.
+
+Sean Williams bowled out 23 runs while Brian Bennett scored 13 runs.
+
+Dushan Hemantha took 3 wickets for Sri Lanka in bowling. Damadantha Chameera took 2 wickets.
+
+The winner can win the championship in this competition, as the two teams have won the two matches every two matches.
+
+Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has rested to the rest of the time.
 
 ◼️
 
 [Data](articles/12120caa.json)
+
+[Extended Data](ext_articles/12120caa.ext.json)
+
+---
+
+### පද්මේ ගේන කොට නාමල් කලබල වෙලා
+
+*2025-09-07 17:53:15* · [`adalk`](https://www.ada.lk/breaking_news/පද්මේ-ගේන-කොට-නාමල්-කලබල-වෙලා/11-418331) · `si`
+
+මෙරට තුළ පාතාලය, කළු සල්ලි හා කුඩු ජාවාරම ඕපපාතිකව සිදු නොවන බවත් ඒවා දේශපාලනය සමග ඇති  සම්බන්ධතා මගින් සිදු වන බවත්  ඉදිරියේදි මේවාට  සම්බන්ධ  ඉහළ පෙළේ දේශපාලනඥයින් හෙළිදරව්වේවි යැයි  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අද (07) මාතලේ දි පැවසිය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කළේ මාතලේ මහ රෝහලේ නව ඉදිකිරිම් කිහිපයක් ජන අයිතියට පත් කිරිමේ උත්සවයට සහභාගි විමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමිනි.
+
+“කුඩු පාතාලය කළු සල්ලි පොදුවේ දේශපාලනයට සම්බන්ධ බවට ජනතාව දන්නවා.බලයේ සිටිය පොදු පෙරමුණූ ආණ්ඩු වගේම සජිත් අනිල් යු ඇන්පි ආණ්ඩුවල හිටපු දේශපාලනඥයෝ අත්අඩංගුවට පත් වුණේ නැහැ.නිතිය ක්‍රියාත්මක වුණේ නැහැ.හේතුව තමයි ආණ්ඩු මාරු වුණාට එකම අත්තේ වහලා ඉන්න කුරුල්ලෝයි.ඥාති සම්බන්ධකම් ව්‍යාපාර සම්බන්ධකම් තියන අය තමයි ඒ අය.දේශපාලන සම්බන්ධකම් තියන අය.මේ දවස් වල ඔවුන්ගේ එකතු විම මේ දවස් වල දැක ගන්න පුලුවන්.
+
+...
+
+[Data](articles/7c6199ef.json)
 
 ---
 
@@ -2095,21 +2125,5 @@ The nearest places of Sri Lanka over which the sun will be overhead today are Mi
 [Data](articles/9526ead3.json)
 
 [Extended Data](ext_articles/9526ead3.ext.json)
-
----
-
-### A Passage North
-
-*2025-09-07 01:05:00* · [`islandlk`](http://island.lk/a-passage-north/) · `en`
-
-Soon after I read Brotherless Night, I found another book about the conflict, which was also a sort of pendent to the Booker Prize winning Seven Moons of Maali Almeida, and had indeed been shortlisted for the book the year before Shehan Karunatilleka won it.
-
-Unlike those two, which were a retelling of history, this was an introspective novel that explores something of the suffering caused by the war – though it did have set pieces within that were in fact retellings of actual episodes during the war.
-
-...
-
-[Data](articles/1434131e.json)
-
-[Extended Data](ext_articles/1434131e.ext.json)
 
 ---

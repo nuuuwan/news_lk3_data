@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-07 18:39:30**
+As of **2025-09-07 18:55:36**
 
 ## Newspaper Stats
 
-*Scraped **74,596** Articles*
+*Scraped **74,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 7,215
 adaderanalk | 9,544
 tamilmirrorlk | 11,107
 virakesarilk | 12,192
-adaderanasinhalalk | 12,990
+adaderanasinhalalk | 12,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,529 (83.8%) of 74,596 articles have been extended.
+62,534 (83.8%) of 74,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-07 (Sunday)
+
+### ශ්‍රී ලංකාවට ලකුණු 192ක ඉලක්කයක්
+
+*2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
+
+ශ්‍රී ලංකාව හා සිම්බාබ්වේ අතර අද (07) පැවැත්වෙන තෙවන හා අවසන් විස්සයි20 ක්‍රිකට් තරගයේ දී පළමුව පන්දුවට පහරදුන් සිම්බාබ්වේ කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 191ක් රැස්කිරීමට සමත් විය.
+
+මෙය ශ්‍රී ලංකාවට එරෙහිව විස්සයි20 තරගයකදී සිම්බාබ්වේ කණ්ඩායම රැස් කළ ඉහළම ලකුණු සංඛ්‍යාව ලෙස වාර්තා අතරට එක්විය.
+
+මීට පෙර ඔවුන් රැස් කර තිබූ ඉහළම ලකුණු සංඛ්‍යාව වූයේ කඩුලු 6ක් දැවී ලකුණු 178ක් රැස් කර තිබීමයි.
+
+ඒ අනුව ශ්‍රී ලංකාවට ජයග්‍රාහණය සඳහා ලකුණු 192ක ඉලක්කයක් හිමිවිය.
+
+◼️
+
+[Data](articles/12120caa.json)
+
+---
 
 ### Two arrested for steal
 
@@ -83,6 +101,8 @@ He instructed his Liberal Democratic Party - which has ruled Japan for almost al
 ...
 
 [Data](articles/cea29988.json)
+
+[Extended Data](ext_articles/cea29988.ext.json)
 
 ---
 
@@ -147,6 +167,8 @@ The authorities discovered around 50,000 kilograms of chemicals used in the prod
 ...
 
 [Data](articles/b6815564.json)
+
+[Extended Data](ext_articles/b6815564.ext.json)
 
 ---
 
@@ -375,6 +397,8 @@ Meanwhile, for emergency assistance the public should contact the local disaster
 ◼️
 
 [Data](articles/28052a2b.json)
+
+[Extended Data](ext_articles/28052a2b.ext.json)
 
 ---
 
@@ -2087,23 +2111,5 @@ Unlike those two, which were a retelling of history, this was an introspective n
 [Data](articles/1434131e.json)
 
 [Extended Data](ext_articles/1434131e.ext.json)
-
----
-
-### Ceylinco Life posts premium income of Rs. 22.45 bn. in 1H 2025
-
-*2025-09-07 00:52:00* · [`islandlk`](http://island.lk/ceylinco-life-posts-premium-income-of-rs-22-45-bn-in-1h-2025-2/) · `en`
-
-Ceylinco Life has reported gross written premium of Rs. 22.45 billion and total income of Rs. 36.49 billion for the first half of 2025.
-
-Premium income for the six months ending 30th June 2025 was up 12.5 per cent over the corresponding period of last year, while investment and other income for the period totaled Rs 14.04 billion, resulting in consolidated income growing by 7.3 per cent, according to the company’s financial statements.
-
-Total assets reached Rs 266.38 billion as at 30th June, reflecting an increase of 5.9 per cent or Rs. 14.94 billion over six months, at an average of Rs. 2.5 billion a month. The company’s investments portfolio grew by 6.77 per cent over the period to Rs. 237.5 billion, while the Life Fund increased by 7.6 per cent to Rs. 194.7 billion, a growth of Rs. 13.8 billion since end 2024.
-
-...
-
-[Data](articles/4aa1b795.json)
-
-[Extended Data](ext_articles/4aa1b795.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 00:08:59**
+As of **2025-09-08 01:55:14**
 
 ## Newspaper Stats
 
-*Scraped **74,618** Articles*
+*Scraped **74,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,20 +15,72 @@ colombotelegraphcom | 759
 economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
-dailyftlk | 5,277
+dailyftlk | 5,278
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
-virakesarilk | 12,201
+virakesarilk | 12,203
 adaderanasinhalalk | 12,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-62,862 (84.2%) of 74,618 articles have been extended.
+62,958 (84.4%) of 74,621 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-08 (Monday)
+
+### Spare a thought for the coloniser
+
+*2025-09-08 01:31:42* · [`dailyftlk`](https://www.ft.lk/columns/Spare-a-thought-for-the-coloniser/4-781315) · `en`
+
+Ahmed Abu Amsha and the children’s music group Gaza Birds Singing – Reuters
+
+I wonder: what inhuman power compels one to walk, or crawl, or locomote in any way whatsoever, towards gunfire so that another life may not end while they live? Surely, this must be the animalistic behaviour Barrack is referring to, through which the bravery of “the region” still shines forth
+
+“Do you think this is fun for us,” asked Tom Barrack, the US special envoy for Syria, addressing a group of Lebanese journalists after a meeting with President Joseph Aoun in Beirut on 26 August. Speaking what appears to be the only language he knows—that of finance—and referring to his deputy Morgan Ortagus, he further added, “Do you think this is economically beneficial for Morgan and I to be here putting up with this insanity?”
+
+...
+
+[Data](articles/ea9d55a1.json)
+
+---
+
+### Is justice for war violations?
+
+*2025-09-08 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224483) · `ta`
+
+The fact that the facts of the atrocities committed by the fellow man against humanity in Sri Lanka have been revealed and waiting for justice to be established, and the land and long -awaitedness of the atrocities have begun to dissolve today without the pain of waiting.. The human wreath, which is now being said to be landlord, has begun to shake the conscience of the world. It has been silenced by those who have long denied that there are no ethnic or war crimes in Sri Lanka.
+
+The story of the famous sheep land begins with the assassination of Krishanthi Kumaraswamy. Krishanthi Kumaraswamy, who wrote the GCE Advanced Level Examination at the Chundukkuli Ladies' College, Jaffna on September 7, 1996, and his mother Rajamma Kumaraswamy, the younger brother Kumaraswamy Pranavan and the neighbor Chidambaram Kripamoorthy were killed by the army.
+
+...
+
+[Data](articles/56068f65.json)
+
+[Extended Data](ext_articles/56068f65.ext.json)
+
+---
+
+### The Upcountry Development Authority should be strengthened - PP Sivapragasam
+
+*2025-09-08 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224482) · `ta`
+
+A massive controversy over the new Villages Development Authority for the Upcountry Development Authority or Plantation Regions. There are reports that arrangements are being made to dilute the Development Authority and bring it up as part of the Plantation Community Infrastructure Ministry.
+
+Against this backdrop, Dr. PP Sivapragasam, a member of the National People's Power and Deputy Secretary of the Plantation Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Secretary, states that the Hill Development Authority should be taken as the Authority.
+
+In the document submitted to the President on this issue, Dr. Sivapragasam is a authority of the Development Authority legally established by the Parliamentary Act of 2018.
+
+...
+
+[Data](articles/53b8d8c3.json)
+
+[Extended Data](ext_articles/53b8d8c3.ext.json)
+
+---
 
 ### 2025-09-07 (Sunday)
 
@@ -79,6 +131,24 @@ However, the South African team was able to win the 3-match tournament match 2-1
 [Data](articles/bd3e83cb.json)
 
 [Extended Data](ext_articles/bd3e83cb.ext.json)
+
+---
+
+### Ranil Wijewardena is good for the country if Ranil goes to Parliament
+
+*2025-09-07 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
+
+If Ranil Wickremesinghe is in Parliament in the current state of the country it is good for the country. However, he has not taken any decision on his visit to Parliament, ”said Ruwan Wijewardena, Deputy Chairman of the United National Corporation.
+
+He said in a commenting on the media on Sunday (7) at the United National Party headquarters, Sirikotha, on Sunday (7).
+
+If former President Ranil Wickremesinghe is in Parliament in the current situation in the country, I think the country is good for the country. However, there is no relevance regarding it yet. If he is going to Parliament, he will look at the right time. However, there is no discussion in this regard.
+
+...
+
+[Data](articles/6720d150.json)
+
+[Extended Data](ext_articles/6720d150.ext.json)
 
 ---
 
@@ -291,24 +361,6 @@ Opening batsmen (33) and Kusal Mendis (30) contributed to Sri Lankan innings.
 [Data](articles/5da5babf.json)
 
 [Extended Data](ext_articles/5da5babf.ext.json)
-
----
-
-### Ranil Wijewardena is good for the country if Ranil goes to Parliament
-
-*2025-09-07 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
-
-If Ranil Wickremesinghe is in Parliament in the current state of the country it is good for the country. However, he has not taken any decision on his visit to Parliament, ”said Ruwan Wijewardena, Deputy Chairman of the United National Corporation.
-
-He said in a commenting on the media on Sunday (7) at the United National Party headquarters, Sirikotha, on Sunday (7).
-
-If former President Ranil Wickremesinghe is in Parliament in the current situation in the country, I think the country is good for the country. However, there is no relevance regarding it yet. If he is going to Parliament, he will look at the right time. However, there is no discussion in this regard.
-
-...
-
-[Data](articles/6720d150.json)
-
-[Extended Data](ext_articles/6720d150.ext.json)
 
 ---
 
@@ -2073,63 +2125,5 @@ Accordingly, the total tourism earnings in the first eight months of 2025 is rec
 [Data](articles/e3477aca.json)
 
 [Extended Data](ext_articles/e3477aca.ext.json)
-
----
-
-### பாலியல் துஷ்பிரயோகம்: சகோதரர்கள் இருவருக்கு   7 வருட கடூழிய சிறை
-
-*2025-09-07 08:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-துஷ்பிரயோகம்-சகோதரர்கள்-இருவருக்கு-7-வருட-கடூழிய-சிறை/175-364117) · `ta`
-
-மன்னாரில்  16 வயதுக்கு   குறைந்த சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் ஒரே குடும்பத்தை சேர்ந்த சகோதரர்கள் இருவருக்கு 7 வருட கடூழிய சிறை தண்டனை விதித்து மன்னார் மேல் நீதிமன்ற நீதிபதி வியாழக்கிழமை(4)  தீர்ப்பளித்தார்.
-
-குற்றத்தின் பாரதூர தன்மை, பாதிக்கப்பட சிறுமியின் நிலை, மேலும்  இவ்வாறான குற்றங்கள்  இடம் பெறாமல் இருக்க வேண்டும் என்ற அடிப்படையில் சட்ட ஏற்பாடுகளுக்கு அமைவாக இந்த தண்டனை விதிக்கப்பட்டுள்ளது.
-
-7 வருட கடூழிய சிறைத் தண்டனைக்கு மேலதிகமாக தண்டப்பணமும், பாதிக்கப்பட்ட சிறுமிக்கு 5 லட்சம் ரூபாய்  நஷ்ட ஈட்டு தொகையும் வழங்க தீர்ப்பளிக்கப்பட்டது.
-
-இதில் குறித்த சிறுமியை  பாலியல் துஷ்பிரயோகம் செய்ய உதவி ஒத்தாசை புரிந்தமைக்காக இரண்டாம் எதிரிக்கு அதே தண்டனை அதாவது 7 ஆண்டு கடூழிய சிறை தண்டனை விதிக்கப்பட்டது குறிப்பிடத்தக்கது.
-
-சட்டமா அதிபர் சார்பில் அரச சட்டவாதி ஆறுமுகம் தனுஷன் மற்றும் சிவஸ்கந்தஶ்ரீ ஆகியோர் வழக்கை நெறிப்படுத்தி இருந்தனர்.
-
-வழக்கு தொடு நர் தரப்பில் வழக்கு நியாயமான சந்தேகத்திற்கு அப்பால் நிரூபிக்கப்பட்டதால்   குற்றவாளிகளுக்கு கடூழிய சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/eaf1f019.json)
-
-[Extended Data](ext_articles/eaf1f019.ext.json)
-
----
-
-### பஸ் விபத்து: உயிரிழந்தவர்களின் இறுதிக் கிரியைகள் இன்று
-
-*2025-09-07 08:26:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்து-உயிரிழந்தவர்களின்-இறுதிக்-கிரியைகள்-இன்று/175-364116) · `ta`
-
-எல்ல - வெல்லவாய பஸ் விபத்தில் உயிரிழந்த அனைவரதும் இறுதிக் கிரியைகள் இன்று முன்னெடுக்கப்படவுள்ளன.
-
-◼️
-
-[Data](articles/58deae44.json)
-
-[Extended Data](ext_articles/58deae44.ext.json)
-
----
-
-### විදේශයන්හිදී ආපදාවන්ට ලක් වන ලාංකික ශ්‍රමික දරුවන්ට ජනපති අරමුදලෙන් ආධාර
-
-*2025-09-07 08:26:53* · [`adalk`](https://www.ada.lk/breaking_news/විදේශයන්හිදී-ආපදාවන්ට-ලක්-වන-ලාංකික-ශ්‍රමික-දරුවන්ට-ජනපති-අරමුදලෙන්-ආධාර/11-418321) · `si`
-
-"කිසිවෙක් අධ්‍යාපනයෙන් මඟ නොහැරීම" යන සංකල්පය පෙරදැරි කර ගනිමින් ආපදාවලට මුහුණ දෙන විදෙස්ගත ශ්‍රමිකයින්ගේ මෙරට සිටින දරුවන්ගේ අධ්‍යාපනය දිරිගැන්වීම සඳහා ජනාධිපති අරමුදලෙන් මූල්‍යාධාර ලබා දීමේ වැඩපිළිවෙළක් ආරම්භ කිරීමට සැලසුම් කර තිබේ.
-
-ජනාධිපති අරමුදල, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සහ විදේශ සේවා නියුක්ති කාර්යාංශය ඒකාබද්ධව මෙම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට නියමිතය.
-
-විදේශගත සහ විදේශගත වීමට බලාපොරොත්තුවෙන් සිටින ශ්‍රී ලාංකිකයන් උදෙසා ජනාධිපති අරමුදලේ සේවා ව්‍යාප්ත කිරීම පිළිබඳ සාකච්ඡාවක් විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම්, ජනාධිපති අරමුදලේ ලේකම් රෝෂන් ගමගේ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන්
-
-විදේශ රටවලදී මිය යන, ආපදාවලට ලක් වන, සිරගත වන හෝ අතුරුදහන් වන ශ්‍රී ලාංකික ශ්‍රමිකයන්ගේ මෙරට සිටින දරුවන්ගේ පාසල් අධ්‍යාපනය මෙන්ම, විශ්වවිද්‍යාල අධ්‍යාපනය සුරක්ෂිත කිරීම මෙම වැඩපිළිවෙළ මගින් අපේක්ෂා කෙරේ.
-
-...
-
-[Data](articles/2360e74a.json)
-
-[Extended Data](ext_articles/2360e74a.ext.json)
 
 ---

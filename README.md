@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 03:37:03**
+As of **2025-09-08 03:20:14**
 
 ## Newspaper Stats
 
-*Scraped **74,638** Articles*
+*Scraped **74,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 759
-economynextcom | 4,525
+economynextcom | 4,524
 islandlk | 4,588
 dailymirrorlk | 4,733
-dailyftlk | 5,294
+dailyftlk | 5,289
 adalk | 7,218
 adaderanalk | 9,547
 tamilmirrorlk | 11,108
@@ -26,97 +26,11 @@ adaderanasinhalalk | 12,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,018 (84.4%) of 74,638 articles have been extended.
+63,002 (84.4%) of 74,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### Govt. breaks ground on $ 140 m Rividanavi solar power project
-
-*2025-09-08 03:03:41* · [`dailyftlk`](https://www.ft.lk/business/Govt-breaks-ground-on-140-m-Rividanavi-solar-power-project/34-781340) · `en`
-
-Project to generate 100 MW, add 219 GWh annually to national grid, saving Rs. 21 b forex to power green future
-
-Includes 12 MWh battery storage and new 132 kV transmission line for grid stability
-
-First project for which Sustainable Energy Authority provided project site, access roads and all relevant approvals to investor
-
-Expects to reduce annual carbon dioxide emissions by 150,000 tons
-
-Aims to complete project by Q1 2027, implemented by Rivi Danavi—Lakdhanavi and WindForce
-
-The Government began construction of the country’s largest renewable energy project—the ‘Rividanavi’ Solar Power Park on Saturday (6), under the patronage of President Anura Kumara Disanayake.
-
-Spanning 500 acres in Kotiyagala, Monaragala District, the $ 140 million project is set to add 100 MW of clean energy to the national grid, as a key step towards achieving the target of fulfilling 70% of the country’s electricity demand from renewable energy by 2030.
-
-...
-
-[Data](articles/f1bdb602.json)
-
----
-
-### JW.ORG’s Colombo International Convention generates $ 7.6 m revenue, welcomes 3,500 delegates
-
-*2025-09-08 03:02:28* · [`dailyftlk`](https://www.ft.lk/business/JW-ORG-s-Colombo-International-Convention-generates-7-6-m-revenue-welcomes-3-500-delegates/34-781339) · `en`
-
-The Jehovah’s Witnesses (JW.ORG) yesterday said that its three-day International Convention of Jehovah’s Witnesses, held from 5-7 September at the Sugathadasa Indoor and Outdoor Stadium, concluded successfully, bringing together more than 3,500 international delegates from 10 countries and over 14,000 total participants, including local members.
-
-JW.ORG said in a statement: “The convention delivered a significant boost to Sri Lanka’s tourism and hospitality sector. Based on visitor turnout and extended travel itineraries, organisers estimate the event generated $ 7.6 million in direct tourism revenue. This impact follows the precedent of a similar JW.ORG gathering in 2018 that contributed $ 6.9 million to the local economy.”
-
-...
-
-[Data](articles/a887eda7.json)
-
----
-
-### Official reserve assets inch up in August to $ 6.17 b
-
-*2025-09-08 03:01:12* · [`dailyftlk`](https://www.ft.lk/business/Official-reserve-assets-inch-up-in-August-to-6-17-b/34-781338) · `en`
-
-Official reserve assets rose marginally to $ 6.17 billion as at end-August 2025, up from $ 6.15 billion as at end-July, the latest data from the Central Bank of Sri Lanka (CBSL) showed.
-
-Reserve assets have been inching upwards since falling to $ 6.08 billion in June from a peak of $ 6.5 billion in March 2025.
-
-In August, foreign currency reserves amounted to $ 6.1 billion, up from $ 6.06 billion in July, and $ 6.02 billion in June. Gold assets amounted to $ 52 million as at end-August, up from $ 50 million the previous month, with $ 4 million held in reserves with the International Monetary Fund (IMF) unchanged.
-
-According to CBSL data, Sri Lanka’s short-term drain in foreign currency assets is $ 2 billion, comprising $ 1.2 billion in principle payments and $ 875 million in interest on loans and maturing securities and deposits within a year.
-
-...
-
-[Data](articles/771d8b41.json)
-
----
-
-### Sri Lanka shines at Commonwealth Business Excellence Awards 2025
-
-*2025-09-08 02:53:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-shines-at-Commonwealth-Business-Excellence-Awards-2025/34-781337) · `en`
-
-Sri Lankan Acting High Commissioner in Malaysia Mohamed Rizvi (left) handing over the trophy to a representative of Talawakelle Tea Estates. Others (from left): Maldivian Embassy in Malaysia Third Secretary Mariyam Farzana, Organising Committee Co-Chair Samrat Dutta, and Organising Committee Chair Asha Jayamanne. Category wins include; Sustainable Tech Award in ICT and IT Sector, Outstanding Contribution In Emissions Reduction Award, Best CSR in Environmental Impact Award, Women Leadership Excellence in Breaking the Bias Award, Best Workplace Culture Award in the HR Sector
-
-Sri Lankan Acting High Commissioner in Malaysia Mohamed Rizvi (left) handing over the trophy to Charnika Imbulana Munasinghe, who won the ‘Outstanding Women Leadership in Print Media’ award. Others (from left): Maldivian Embassy in Malaysia Third Secretary Mariyam Farzana, Organising Committee Co-Chair Samrat Dutta, and Organising Committee Chair Asha Jayamanne
-
-...
-
-[Data](articles/ca413859.json)
-
----
-
-### Rohan Karr appointed to The Fortress Resorts Board
-
-*2025-09-08 02:52:39* · [`dailyftlk`](https://www.ft.lk/business/Rohan-Karr-appointed-to-The-Fortress-Resorts-Board/34-781336) · `en`
-
-Leisure industry veteran Rohan Karr has been appointed as a Non-Executive Director on the Board of The Fortress Resorts PLC.
-
-Karr joined Hayleys PLC in 2019 as an Executive Director of the Board of Hayleys PLC and as the Managing Director of Hayleys Leisure PLC, which includes The Kingsbury and Amaya Resorts & Spas. He also serves as a Director on the Boards of Summer Seasons Ltd., and Greener Water Ltd., both under the Vallibel Group.
-
-Prior to joining Hayleys PLC, Karr held several senior positions at Cinnamon Hotels & Resorts, the leisure sector of John Keells Holdings, including Chief Executive Officer, Executive Vice President, Sector Head, and General Manager, overseeing the Group’s city hotels and resort chain for over 16 years. Notably, he led the launch of the ‘Cinnamon’ brand in 2005 in his capacity as Head of Brand Development.
-
-...
-
-[Data](articles/b52bbfc9.json)
-
----
 
 ### Prof. Ananda Jayawardane joins Prime Lands Residencies Board
 
@@ -671,26 +585,6 @@ Meanwhile, investigations were found in a drawgam and ammunition, which was hidd
 [Data](articles/65422890.json)
 
 [Extended Data](ext_articles/65422890.ext.json)
-
----
-
-### Sri Lanka to install barrier nets in 250 reservoirs to boost fish stocks
-
-*2025-09-07 19:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-barrier-nets-in-250-reservoirs-to-boost-fish-stocks-239647/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to install barrier nets in 250 reservoirs to protect fish stocks and boost harvests, Cabinet spokesman Nalinda Jayatissa said.
-
-An estimated 20,000 to 40,000 kilograms are washed way annually from each reservoir when water is released for agriculture, reducing fish harvest for human consumption.
-
-The loss of mature fish in of reproductive age also leads to depletion of fish stocks.
-
-The cabinet of ministers had approved a plan by the National Aquaculture Development Authority of Sri Lanka to install barrier nets in 250 freshwater tanks, which will lead to better harvest and protein availability in rural areas.
-
-Sri Lanka has high taxes on imported foods, especially in dairy and maize to promote ‘self-sufficiency’ leading to extraordinarily high dairy goods prices and also meat. (Colombo/Aug07/2025)
-
-◼️
-
-[Data](articles/22177a8c.json)
 
 ---
 
@@ -2087,5 +1981,127 @@ The Central Bank report also states that the rupee has caused 3.1 percent to the
 [Data](articles/ea92a3c0.json)
 
 [Extended Data](ext_articles/ea92a3c0.ext.json)
+
+---
+
+### Another stock of chemicals suspected to be used for ‘Ice’ drug production found in Tangalle
+
+*2025-09-07 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112247/another-stock-of-chemicals-suspected-to-be-used-for-ice-drug-production-found-in-tangalle) · `en`
+
+Another stock of chemicals suspected to be used in the production of crystal methamphetamine (ICE) has been discovered this morning (07) on a property in Netolpitiya, Tangalle.
+
+Based on information received from area residents, officers from the Tangalle Police conducted a special raid this morning on a property located adjacent to the Welivenna cross road in Netolpitiya.
+
+During the raid, a quantity of white chemical substances was found on the property.
+
+Police officers stated that these substances are suspected to be chemicals used in the production of the drug known as ‘ICE’.
+
+It has been reported that these chemicals are very similar to those found yesterday during a raid on a property in Thalawa, Middeniya, which were also believed to be used for ‘ICE’ production.
+
+Police stated that the chemicals may have been brought and left at the location approximately four months ago.
+
+The seized stock of chemicals is scheduled to be taken to the Tangalle Police for further investigation.
+
+◼️
+
+[Data](articles/4f517f24.json)
+
+[Extended Data](ext_articles/4f517f24.ext.json)
+
+---
+
+### Drivers arrested for operating dangerous buses
+
+*2025-09-07 10:11:58* · [`adalk`](https://www.ada.lk/breaking_news/තරගයට-අනතුරුදායක-ලෙස-බස්-රථ-දෙකක්-ධාවනය-කල-රියදුරන්-අත්අඩංගුවට/11-418323) · `si`
+
+Two bus drivers who operated two private buses to Hatton yesterday (06) have been arrested by the Hatton Police Officers' Traffic Officers.
+
+The buses have commenced on two occasions on two occasions when the bus drivers were traveling in the Kandy-Police bus station.
+
+The two drivers have been arrested on suspicion to arrest the two drivers who were immediately implemented by the Superintendents of the two buses.
+
+The Hatton Police (Colombo-Lankapuvath) stated that legal action will be taken by the Hatton Magistrate Court under the allegation of the arrested suspects.
+
+◼️
+
+[Data](articles/e01b3370.json)
+
+[Extended Data](ext_articles/e01b3370.ext.json)
+
+---
+
+### சிக்குமா?
+
+*2025-09-07 10:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சிக்குமா/62-364124) · `ta`
+
+◼️
+
+[Data](articles/e1d32d3e.json)
+
+[Extended Data](ext_articles/e1d32d3e.ext.json)
+
+---
+
+### Sri Lanka's largest renewable energy project launches construction
+
+*2025-09-07 10:03:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුනර්ජනනීය-බලශක්ති-ව්‍යාපෘතියේ-ඉදි-කිරීම්-අරඹයි/11-418322) · `si`
+
+By 2030, 70% of the National Electricity Renewable Power Project in Sri Lanka, the Siyambalanduwa, the Sri Lanka's Solar Power Park, was launched by President Anura Kumara Dissanayake yesterday (06).
+
+The cost incurred on this massive project, which is added to the national power system in the country, is US $ 140 million.
+
+The project will be constructed in a 500 acres of land in the Kotiyagala Grama Niladhari Division of the Kotiyagala Grama Niladhari, the Siyambalanduwa Divisional Secretariat area in the Moneragala District.
+
+The annual value of the country is 15,000 and 16,000 Glass, which is 15,000 and 16,000 gigavowatte 219 gain annually. As a result, the annual exchange of diesel will be able to save 21 billion rupees annually to the country. Accordingly, 41 million rupees will be left to the country approximately Rs. 41 million.
+
+...
+
+[Data](articles/08bf3bb3.json)
+
+[Extended Data](ext_articles/08bf3bb3.ext.json)
+
+---
+
+### வீதி விபத்துகளில் ஒரு இளைஞன் உட்பட நான்கு பேர் பலி!
+
+*2025-09-07 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224411) · `ta`
+
+நாட்டின் பல பகுதிகளில் இடம்பெற்ற வீதி விபத்துகளில் ஒரு இளைஞன் உட்பட நான்கு பேர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+நேற்று சனிக்கிழமை (06) மரதன்கடவல, வெல்லாவெளி, கடவத்தை மற்றும் புதுக்குடியிருப்பு ஆகிய பொலிஸ் பிரிவுகளில்  இந்த விபத்துகள் இடம்பெற்றுள்ளன.
+
+மரதன்கடவல பொலிஸ் பிரிவின் A11 வீதியில் உள்ள தவலன்ஹல்மில்லாவ சந்தியில் ஒரே திசையில் பயணித்த பாதசாரி மீது மோட்டார் வாகனம் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+சைக்கிள் செலுத்துனர் மற்றும் சைக்கிளில் சென்ற மற்றொரு நபரும் காயமடைந்த நிலையில் சைக்கிள் செலுத்துனர் மரதன்கடவல  வைத்தியசாலையில்  அனுமதிக்கப்பட்டபோது சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இந்நிலையில், வெல்லாவெளி - சிவலகட வீதியில் சிவலகட நோக்கிச் சென்ற மோட்டார் சைக்கிள், ஓட்டுநர் கட்டுப்பாட்டை இழந்ததால் வீதியோரத்தில் நடந்து சென்ற இரண்டு பாதசாரிகள் மீது மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் இரண்டு பாதசாரிகளும் மோட்டார் சைக்கிள் ஓட்டுநரும் காயமடைந்து கல்முனை வைத்தியசாலையில் அனுமதிக்கப்பட்டபோது, பாதசாரியொருவர்  சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/226629f9.json)
+
+[Extended Data](ext_articles/226629f9.ext.json)
+
+---
+
+### වසරේ මුල් මාස අට තුළ විදේශ ප්‍රේෂණ ඩොලර් බිලියන 5 ඉක්මවයි
+
+*2025-09-07 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214266) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කරන ලද නවතම සංඛ්‍යාලේඛනවලට අනුව, 2025 අගෝස්තු මාසයේදී ශ්‍රී ලංකාවට අමෙරිකානු ඩොලර් මිලියන 680.8ක විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ ලැබී ඇත.
+
+2025 ජනවාරි සිට අගෝස්තු දක්වා මුළු විදේශ සේවා නියුක්තිකයන්ගේ ප්‍රේෂණ අමෙරිකානු ඩොලර් බිලියන 5.116ක් වූ අතර එය පසුගිය වසරේ එම කාලයට වඩා 19.3%ක වැඩි වීමක් බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+මේ අතර, ශ්‍රී ලංකා මහ බැංකුවේ නිල සංඛ්‍යා ලේඛනවලින් පෙනී යන්නේ මෙම වසරේ මුල් මාස අට තුළ සංචාරක ඉපැයීම් ඇමරිකානු ඩොලර් බිලියන 2 ඉක්මවා ඇති බවය.
+
+ඒ අනුව, 2025 මුල් මාස අට තුළ මුළු සංචාරක ඉපැයීම් අමෙරිකානු ඩොලර් බිලියන 2.03ක් ලෙස වාර්තා වන අතර එය 2024 මුල් මාස අට තුළ වාර්තා වූ ඇමරිකානු ඩොලර් බිලියන 1.88ක සංචාරක ඉපැයීම් හා සසඳන විට 7.8%ක වැඩිවීමකි.
+
+◼️
+
+[Data](articles/1d970d50.json)
+
+[Extended Data](ext_articles/1d970d50.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 11:41:08**
+As of **2025-09-08 11:07:35**
 
 ## Newspaper Stats
 
-*Scraped **74,705** Articles*
+*Scraped **74,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,133 +16,37 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,227
+adalk | 7,223
 adaderanalk | 9,554
-tamilmirrorlk | 11,123
-virakesarilk | 12,209
+tamilmirrorlk | 11,119
+virakesarilk | 12,208
 adaderanasinhalalk | 13,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,338 (84.8%) of 74,705 articles have been extended.
+63,313 (84.8%) of 74,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### சிறுமியை வன்புணர்ந்த பெரிய காதலன் கைது
-
-*2025-09-08 11:18:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர்ந்த-பெரிய-காதலன்-கைது/175-364195) · `ta`
-
-15 வயதும் 4 மாதங்களேயான சிறுமியை பாலியல் வன்புணர்வுக்கு உட்படுத்திய குற்றச்சாட்டில் படல்கும்பர அலுபொத்த பிரதேசத்தைச் சேர்ந்த 27 வயதான இளைஞன் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
-
-அந்த சிறுமி, தாய் மற்றும் தந்தையுடன் கோபித்துக் கொண்டு ஆகஸ்ட் 26 ஆம் திகதியன்று களனி பிரதேசத்தில் உள்ள தன்னுடைய அக்காவின் வீட்டுக்குச் சென்றுள்ளார். தன்னுடைய இளைய மகளை காணவில்லை என தந்தை பொலிஸில் முறைப்பாடு செய்துள்ளார். அந்த முறைப்பாடு தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார், சிறுமியை அழைத்து வந்து வைத்திய பரிசோதனைக்கு உட்படுத்தி உள்ளனர்.
-
-அச்சிறுமியிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் பிரகாரம், தான் அலுப்பொத்த பிரதேசத்தில் இளைஞனுடன் காதல் வயப்பட்டிருந்தேன்.
-
-அவருடன் பிப்ரவரி 28ஆம் திகதி பெரியப்பாவின் வீட்டுக்குச் சென்றிருந்தேன். அங்கு பெரியப்பாவின் மகள் மட்டுமே இருந்தாள். சிறுதி நேரத்தில் காதலன் அந்த வீட்டுக்கு வந்தார்.
-
-அதன்பின்னர், பெரியப்பாவின் மகளின் அறையில், காதலனுடன் கணவன் மனைவியாக இருந்தேன் என்று அச்சிறுமி, பொலிஸாரிடம் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/0c2e3ca0.json)
-
----
-
-### சூதாட்ட நிலையம் சுற்றிவளைப்பு; 15 பேர் கைது
-
-*2025-09-08 11:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூதாட்ட-நிலையம்-சுற்றிவளைப்பு-15-பேர்-கைது/175-364193) · `ta`
-
-லுனாவ பகுதியில் சூதாட்ட நிலையமொன்றை நடத்தியதாகக் கூறப்படும் 11 பெண்களும் நான்கு ஆண்களும் கைது செய்யப்பட்டதாக அங்குலான பொலிஸார் தெரிவித்தனர்.
-
-அந்தப் பகுதி மக்களுக்கு இடையூறு விளைவிக்கும் வகையில் சூதாட்ட மையம் நடத்தப்பட்டு வருவதாக கிடைத்த தகவலின் அடிப்படையில் இந்த சோதனை மேற்கொள்ளப்பட்டது.
-
-சந்தேக நபர்களில் சிலர் சூதாட்ட மையத்தை தங்கள் தொழிலாக நடத்தி வந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-காலை முதல் இரவு வரை செயல்படும் இந்த சூதாட்ட மையத்தில் வட்டிக்கு பணம் வழங்கும் குழுக்கள் இருந்ததாகவும், சூதாட்ட மையம் அந்தப் பகுதி மக்களுக்கு மிகவும் இடையூறாக இருந்ததாக பொலிஸார் கூறினர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் மொரட்டுவையில் உள்ள லுனாவ மற்றும் அகுலான பகுதிகளில் வசிப்பவர்கள் என்று பொலிஸார் குறிப்பிட்டனர்.
-
-◼️
-
-[Data](articles/b19d9058.json)
-
----
-
-### Steps to resume construction work on Central Highway
-
-*2025-09-08 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224504) · `ta`
-
-Arrangements are being made to resume the construction work of the Central Highway, which has long been suspended.
-
-The project is expected to be resumed in September or October, as Chinese funding has been resumed to construct the long -term late central highway from Kadawatha to Meerigama.
-
-Speaking at the 171st Annual General Meeting of the Plantation Owners Association, the President's Senior Economic Advisor Duminda Haaa Sri Lanka released the statement.
-
-He said that Sri Lanka has been able to get the necessary financial assistance from China for the construction of the 37 -kilometer road.
-
-Officials estimate that the project will be completed within two and a half years once the construction is completely resumed, based on the remaining construction.
-
-◼️
-
-[Data](articles/644c8e11.json)
-
-[Extended Data](ext_articles/644c8e11.ext.json)
-
----
-
-### දේශබන්දු පොලිස්පති ලෙස පත් කිරීමට එරෙහි පෙත්සම් විභාගයට දින නියම වෙයි
-
-*2025-09-08 10:58:24* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-පොලිස්පති-ලෙස-පත්-කිරීමට-එරෙහි-පෙත්සම්-විභාගයට-දින-නියම-වෙයි/11-418344) · `si`
-
-දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා වශයෙන් පත්කිරීමට හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලැබූ තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් පෙබරවාරි මස 12 වන දා විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කර තිබේ.
-
-මෙම පෙත්සම් අද (08දා) අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, මහින්ද සමයවර්ධන සහ අර්ජුන ඔබේසේකර යන ත්‍රිපුද්ගල විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබිණි.
-
-◼️
-
-[Data](articles/08ad1220.json)
-
----
-
-### Petitions against Tennakoon appointed as IGP
+### දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා ලෙස පත් කිරීමට එරෙහි පෙත්සම් විභාගයට දින නියම වෙයි
 
 *2025-09-08 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214307) · `si`
 
-Former President Ranil Wickremesinghe to appoint Deshabandu Tennakoon to be the IGP, the Supreme Court was appointed to the examination on February 12.
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීමට හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලැබූ තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් පෙබරවාරි මස 12 වනදා විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කළේය.
 
-The petitions were called before the Chief Justice Survey, Mahinda Sarasena and Arjuna Obeysekera and Arjuna Obeysekere.
+මෙම පෙත්සම් අද (08) අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, මහින්ද සමයවර්ධන සහ අර්ජුන ඔබේසේකර යන මහත්වරුගේ සමන්විත ත්‍රී පුද්ගල විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
 
-The panel of judges was ordered that the petitions are being heard on February 12.
+එහිදී විනිසුරු මඩුල්ල නියෝග කළේ අදාළ පෙත්සම් පෙබරවාරි මස 12 වනදා විභාගයට ගන්නා බවය.
 
-The Cardinal Great Malcolm Ranjith has presented nine petitions including MP, including the Young Journalists Association.
+කාදිනල් අතිඋතුම් මැල්කම් රංජිත් හිමිපාණන්, තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය ඇතුළු පාර්ශ්ව විසින් පෙත්සම් 09ක් ඉදිරිපත් කර තිබුණි.
 
 ◼️
 
 [Data](articles/1ef30b65.json)
-
-[Extended Data](ext_articles/1ef30b65.ext.json)
-
----
-
-### No Legbees in fried chicken: 10 thousand fines for famous hotel
-
-*2025-09-08 10:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரித்த-கோழியில்-லெக்பீஸ்-இல்லை-பிரபல-ஹோட்டலுக்கு-10-ஆயிரம்-அபராதம்/175-364189) · `ta`
-
-Consumer Court suits the Consumer Court for allegedly missing 'Legbees' in full fried chicken. The Consumer Court has ruled that the hotel management in this case should be given a compensation of Rs.
-
-Let us look at this incident in the cinema style. Coimbatore GKS. Christopher Edison, a native of Avenue, ordered a full -fledged chicken at a famous biryani shop.
-
-A movie starring actor Vadivelu goes to eat chicken at the hotel. Chicken 65 would have ordered. There will be five chicken pieces. The one who came to Vadivelu, where the chicken is 5, the remaining 60 chicken. Such an incident has become a serious incident. For the person who ordered full chicken, not available leg peas. He is on the hotel in the Consumer Court.. Let's see what happened.
-
-...
-
-[Data](articles/62e8c46a.json)
-
-[Extended Data](ext_articles/62e8c46a.ext.json)
 
 ---
 
@@ -186,20 +90,6 @@ However, they had to stay in the refugee camp. Also, they were regarded as illeg
 
 ---
 
-### එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 60 වන සැසි වාරය අදින් ඇරඹෙයි
-
-*2025-09-08 10:19:30* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතීන්ගේ-මානව-හිමිකම්-කවුන්සිලයේ-60-වන-සැසි-වාරය-අදින්-ඇරඹෙයි/11-418342) · `si`
-
-එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 60 වන සැසි වාරය අද (08දා) ආරම්භ වේ.
-
-සැසිවාරය අද සිට ලබන ඔක්තෝබර් 08 වැනිදා දක්වා පැවැත්වීම නියමිතව තිබේ.
-
-◼️
-
-[Data](articles/1abbf72f.json)
-
----
-
 ### Two fatal accidents
 
 *2025-09-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214305) · `si`
@@ -217,22 +107,6 @@ The deceased is a 43 year old elephant resident of Polpithigama.
 [Data](articles/9416cfad.json)
 
 [Extended Data](ext_articles/9416cfad.ext.json)
-
----
-
-### පරිපූරක ඇස්තමේන්තු දෙකකට මුදල් කාරක සභාවේ අනුමතිය
-
-*2025-09-08 10:14:03* · [`adalk`](https://www.ada.lk/breaking_news/පරිපූරක-ඇස්තමේන්තු-දෙකකට-මුදල්-කාරක-සභාවේ-අනුමතිය/11-418341) · `si`
-
-ඉදිරියේදී පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත පරිපූරක ඇස්තමේන්තු දෙකක් සහ යෝජනා සම්මතයක්  පාර්ලිමේන්තු මන්ත්‍රී (ආචාර්ය) හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් පසුගියදා (02) රැස්වූ රජයේ මුදල් පිළිබඳ කාරක සභාව විසින් සළකා බැලීමෙන් අනතුරුව අදාළ අනුමතිය ලබා දීම සිදුවිය.
-
-ඒ අනුව, ගැබිනි මව්වරුන්ට පෝෂණ ආහාර පැකේජයක් ලබා දීමට අදාළව කාන්තා හා ළමා කටයුතු අමාත්‍යාංශයේ පරිපූරක ඇස්තමේන්තුව මෙහිදී සලකා බලන ලදී. සහන මිලකට අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ලබා දීම පිණිස අයවැය යෝජනා යටතේ වෙන් කරන ලද ප්‍රතිපාදන භාවිතා කිරීම පිළිබඳව මෙහිදී අවධානය යොමු විය.
-
-තවද, මහනුවර උතුරු පාතදුම්බර ඒකාබද්ධ ජල සැපයුම් ව්‍යාපෘතිය සඳහා චීන EXIM බැංකුව විසින් නොගෙවූ බිල්පත් පියවීම සඳහා සහ ව්‍යාපෘතියේ ඉතිරි වැඩ නිම කිරීමට අදාළව නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස අමාත්‍යාංශය විසින් ඉදිරිපත් කරන ලද පරිපූරක ඇස්තමේන්තුව ද සාකච්ඡාවට ලක් කළ අතර, එම ඇස්තමේන්තු දෙකටම කාරක සභාවේ අනුමැතිය හිමිවිය.
-
-...
-
-[Data](articles/7f0f593d.json)
 
 ---
 
@@ -263,24 +137,6 @@ Thirukumar Kandasamy is a Sri Lankan Tamil who migrated to New York with a lot o
 [Data](articles/0de4a313.json)
 
 [Extended Data](ext_articles/0de4a313.ext.json)
-
----
-
-### New York's Dosa Man: Sri Lankan Tamil in the United States
-
-*2025-09-08 10:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/நியூயோர்க்கின்-தோசை-மனிதன்-அமெரிக்காவில்-அசத்தும்-இலங்கை-தமிழர்/97-364185) · `ta`
-
-The people of New York City are now beginning to eat hot, cheese with pulses and other vegetables, beyond the love of Hot-Tal and Donuts in the Northeast America. This is because Thirukumar Kandasamy, known as the famous Dosa man of New York City.
-
-Thirukumar Kandaswamy is the man with a mustache, pushing his trolley on the streets of Washington Square Park at 9 am. When he begins to fly from the oven of the carriage, people will gather to taste the dosa. His regular customers are the most from the United States to cross the Indians.
-
-Thirukumar Kandasamy is a Sri Lankan Tamil who migrated to New York with a lot of dreams at the beginning of the 21st century. Today, New York Streetcar has become a symbol of dosa shops. In his Insta videos, he will love the name of Thirukumar Kandasamy and invite everyone to be Mr.
-
-...
-
-[Data](articles/e3c96dac.json)
-
-[Extended Data](ext_articles/e3c96dac.ext.json)
 
 ---
 
@@ -344,8 +200,6 @@ Further investigations into the incident are being conducted by the Grandpass Po
 
 [Data](articles/e1f54e79.json)
 
-[Extended Data](ext_articles/e1f54e79.ext.json)
-
 ---
 
 ### Suspect arrested with a woman
@@ -388,8 +242,6 @@ Further investigations into the incident are being conducted by the Ganemulla Po
 
 [Data](articles/57701a8f.json)
 
-[Extended Data](ext_articles/57701a8f.ext.json)
-
 ---
 
 ### Sri Lanka’s Foreign Minister to deliver statement at 60th UNHRC session today
@@ -411,8 +263,6 @@ He further revealed that a draft resolution concerning Sri Lanka had been submit
 ...
 
 [Data](articles/26831918.json)
-
-[Extended Data](ext_articles/26831918.ext.json)
 
 ---
 
@@ -451,26 +301,6 @@ The US President states that the warning is his final warning and will not take 
 [Data](articles/1ffdd491.json)
 
 [Extended Data](ext_articles/1ffdd491.ext.json)
-
----
-
-### මැක්ස්ගේ ඉවෙන් අත්හැර දැමූ ගමන් මල්ලක තිබූ රු. කෝටි 20ක් වටිනා කුෂ් මත්ද්‍රව්‍ය සොයා ගනියි
-
-*2025-09-08 08:55:49* · [`adalk`](https://www.ada.lk/breaking_news/මැක්ස්ගේ-ඉවෙන්-අත්හැර-දැමූ-ගමන්-මල්ලක-තිබූ-රු--කෝටි-20ක්-වටිනා-කුෂ්-මත්ද්‍රව්‍ය-සොයා-ගනියි/11-418340) · `si`
-
-රුපියල් විසි කෝටි අනූ ලක්ෂයක් වටිනා " කුෂ්" මත්ද්‍රව්‍ය තොගයක් , කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ ගමන් මලු පථයක් අසළ අත්හැර දැමූ ගමන් මල්ලක් තුළ තිබී , පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයට අනුයුක්තව සේවය කරන '' මැක්ස් " (Max ) නැමති නිල සුනඛයා විසින් සොයා ගැනීමෙන් පසු 09/06 දින සවස , එම ගමන් මල්ල රැගෙන ආ ගුවන් මගියා ද පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් විසින්  අත් අඩංගුවට ගෙන තිබේ .
-
-මෙම මත්ද්‍රව්‍යය තොගය සමග වූ ගමන් මල්ල ඉකුත් 06/28 දින උදෑසන 09.45 ට තායිලන්තයේ බැංකොක් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 403 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණ තිබුණි .
-
-එහිදී එම ගමන් මල්ලේ හිමිකරු කිසියම් හේතුවක් නිසා බියට පත් වී සිය ගමන් මල්ල අතහැර කටුනායක ගුවන් තොටුපොළෙන් පළා ගොස් තිබේ .
-
-මෙවැනි අත හැර දමා ඇති ගමන් මලු එක් සුවිශේෂී ගබඩාවක ගොඩ ගසා තබා තිබෙන අතර , එහි ඉඩකඩ ප්‍රමාණවත් නොවීම නිසා , එහි තිබූ ගමන් මලු කීපයක් , එම ගබඩාව මෙන්ම ගමන් මලු පථය අසළ ගොඩ ගසා තිබී ඇත .
-
-එම අවස්ථාවේදී එම ගමන් මලු පථය අසළ රාජකාරියේ නිරත වී සිටි , පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිල සුනඛ
-
-...
-
-[Data](articles/9487f967.json)
 
 ---
 
@@ -880,18 +710,6 @@ Foreign Minister Vijitha Herath will explain the actions taken by the Government
 
 ---
 
-### Literacy - The seed of mental light
-
-*2025-09-08 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
-
-◼️
-
-[Data](articles/c8ecc66e.json)
-
-[Extended Data](ext_articles/c8ecc66e.ext.json)
-
----
-
 ### Foreign Minister heads  to Geneva for UNHRC session
 
 *2025-09-08 04:49:31* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-heads-to-Geneva-for-UNHRC-session/56-781367) · `en`
@@ -1003,6 +821,18 @@ Chairing the late H.L. de Silva Memorial Events in 2012, the ex-Foreign Secretar
 [Data](articles/06d71885.json)
 
 [Extended Data](ext_articles/06d71885.ext.json)
+
+---
+
+### Literacy - The seed of mental light
+
+*2025-09-08 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
+
+◼️
+
+[Data](articles/c8ecc66e.json)
+
+[Extended Data](ext_articles/c8ecc66e.ext.json)
 
 ---
 
@@ -2009,5 +1839,175 @@ The staple of a Mercedes-Benz vehicle is safety, and this bus features various a
 [Data](articles/fcf3c43d.json)
 
 [Extended Data](ext_articles/fcf3c43d.ext.json)
+
+---
+
+### SANASA Life Insurance’s innovation recognised at NBEA 2025
+
+*2025-09-07 18:20:00* · [`islandlk`](http://island.lk/sanasa-life-insurances-innovation-recognised-at-nbea-2025/) · `en`
+
+The commitment towards enhanced innovation and excellence was recently recognized with an exceptional accolade at the National Business Excellence Awards (NBEA) 2025, where SANASA Life Insurance was named the winner for ‘Large Category, Excellence in Business & Financial Results’ by the National Chamber of Commerce of Sri Lanka. This award reinforces and signifies the organization’s continued dedication to its clients, and employees.
+
+...
+
+[Data](articles/261a16a7.json)
+
+[Extended Data](ext_articles/261a16a7.ext.json)
+
+---
+
+### Fcode Labs makes a strategic investment in Linkify
+
+*2025-09-07 18:20:00* · [`islandlk`](http://island.lk/fcode-labs-makes-a-strategic-investment-in-linkify/) · `en`
+
+Fcode Labs, a digital product engineering firm, has made a strategic investment in Linkify, a Sri Lankan startup that leverages artificial intelligence to help professionals build their personal brands on LinkedIn.
+
+Linkify’s platform is designed for busy founders and consultants, offering an AI-powered tool that simplifies content creation, engagement, and outreach to transform cold leads into warm connections.
+
+This collaboration highlights the support for Sri Lanka’s innovation ecosystem through both financial and technical assistance. Fcode Labs is providing more than just capital; it’s also offering crucial product engineering support, go-to-market expertise, and marketing assistance to help Linkify scale its platform and reach a global audience.
+
+...
+
+[Data](articles/322120f7.json)
+
+[Extended Data](ext_articles/322120f7.ext.json)
+
+---
+
+### Sun Siyam marks 35 years with culture-led brand transformation
+
+*2025-09-07 18:20:00* · [`islandlk`](http://island.lk/sun-siyam-marks-35-years-with-culture-led-brand-transformation/) · `en`
+
+Sun Siyam unveils a milestone transformation as it celebrates 35 years of Maldivian hospitality. More than a visual refresh, the brand (re)volution introduces a bold new brand statement anchored in The Home of the Maldivian Spirit, reinforcing the group’s position as one of the Maldives’ most culturally authentic resort operators. The transformation elevates guest journeys with new Signature Experiences introduced across all six resorts and strengthens direct relationships with customers through Siyam Rewards.
+
+A single identity now unites the group’s five Maldivian resorts and its Sri Lankan retreat under The House of Siyam. To help guests and partners navigate the portfolio, each property is now grouped under three distinct collections: Luxury, Privé, and Lifestyle.
+
+...
+
+[Data](articles/592a8f94.json)
+
+[Extended Data](ext_articles/592a8f94.ext.json)
+
+---
+
+### The next few days will be a good atmosphere
+
+*2025-09-07 17:59:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවෙන්න-හොඳ-වායුගෝලයක්/11-418332) · `si`
+
+The Meteorological Department says that at the next few days, the presence of a positive atmospheric conditions in the North, North-Central and Uva provinces.
+
+The next three-hour moon and forest moon and forecasts of the Moon and Forests say the Northern, North-Central, Central, Sabaragamuwa and Uva provinces, Kurunegala and Hambantota districts. Showers or thundershowers will occur at several places about 1.00.
+
+In some exhausted mm. Heavy showers more than 75 can also occur at the Western and Sabaragamuwa Provinces and in the Western and Sabaragamuwa and Matara districts.
+
+◼️
+
+[Data](articles/bf6ccf1c.json)
+
+[Extended Data](ext_articles/bf6ccf1c.ext.json)
+
+---
+
+### Namal is worried about Padme
+
+*2025-09-07 17:53:15* · [`adalk`](https://www.ada.lk/breaking_news/පද්මේ-ගේන-කොට-නාමල්-කලබල-වෙලා/11-418331) · `si`
+
+Health and Mass Media Media Dr. Nalinda Jayatissa said that the underworld and powdery racket in the country will be revealed in the future.
+
+He was speaking to the media after attending the province of the people at the Matale General Hospital.
+
+"The people of the Knowledge of the Knowledge of the Black Money is also arrested by the Governments of the Governor.
+
+So when the accused was accused of the accused of 2015-20 days, they began to prove the allegations to prove the allegations, but they believed that they would not hurt. Attempts to rush Namal Rajapaksas to abolish the party membership of the MP at the time of alleged.
+
+Going to witnesses. The politicians will reveal. Namal Rajapaksas worked up at the airports, including in Kehelchma. There is a doubt that the thief is the fence. Sri Lanka's politician is looking for the top. They will be revealed in terms of research
+
+◼️
+
+[Data](articles/7c6199ef.json)
+
+[Extended Data](ext_articles/7c6199ef.ext.json)
+
+---
+
+### Two arrested for steal
+
+*2025-09-07 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214286) · `si`
+
+Two persons have been arrested in Beruwala area on theft of the houses and possessing stolen goods.
+
+The two suspects have been arrested on a complaint lodged with the Beruwala Police regarding a stock of gem stoves for nearly Rs.
+
+The suspect arrested for stealing property is a 41 year old resident of Hettimulla.
+
+The suspect had been a resident of Beruwala for sale by the suspect, and the man was arrested along with 106 gem stones in the possession of the sunbodry.
+
+◼️
+
+[Data](articles/e546262b.json)
+
+[Extended Data](ext_articles/e546262b.ext.json)
+
+---
+
+### Japanese Prime Minister Shiba's Isziba resigns
+
+*2025-09-07 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214285) · `si`
+
+The 68-year-old Ishuba has confirmed his resignation at 6 pm today (7) at 6 pm.
+
+The Prime Minister said he is taking responsibility for electoral losses.
+
+◼️
+
+[Data](articles/85e1491e.json)
+
+[Extended Data](ext_articles/85e1491e.ext.json)
+
+---
+
+### Japan PM Ishiba resigns after bruising election losses
+
+*2025-09-07 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112257/japan-pm-ishiba-resigns-after-bruising-election-losses) · `en`
+
+Japanese Prime Minister Shigeru Ishiba resigned on Sunday, ushering in a potentially lengthy period of policy uncertainty at a shaky moment for the world’s fourth-largest economy.
+
+Having just ironed out final details of a trade deal with the United States to lower President Donald Trump’s punishing tariffs, Ishiba, 68, told a press conference he must take responsibility for a series of bruising election losses.
+
+Since coming to power less than a year ago, the unlikely premier has overseen his ruling coalition lose its majorities in elections for both houses of parliament amid voter anger over rising living costs.
+
+He instructed his Liberal Democratic Party - which has ruled Japan for almost all of the post-war period - to hold an emergency leadership race, adding he would continue his duties until his successor was elected.
+
+...
+
+[Data](articles/cea29988.json)
+
+[Extended Data](ext_articles/cea29988.ext.json)
+
+---
+
+### Malvuddudu fired and killed
+
+*2025-09-07 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214284) · `si`
+
+A person was killed and a person was killed in an annual ceremony held at a Kovil in Thambagalagamuwa in Trincomalee last night.
+
+The festival was held in the procession of the event, and one flower has not been lit.
+
+As a result, a nearby man was on the foot of the flower.
+
+It has been thrown into the body of this dead person, and it has exploded.
+
+He was admitted to the Thambalagamuwa Hospital.
+
+The victim was a 45 year old resident of the area.
+
+The post mortem was carried out by the Kantale Forensic Officer.
+
+◼️
+
+[Data](articles/bdfb66f7.json)
+
+[Extended Data](ext_articles/bdfb66f7.ext.json)
 
 ---

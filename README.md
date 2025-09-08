@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 21:07:38**
+As of **2025-09-08 21:20:18**
 
 ## Newspaper Stats
 
-*Scraped **74,813** Articles*
+*Scraped **74,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,243
-adaderanalk | 9,580
-tamilmirrorlk | 11,146
-virakesarilk | 12,217
+adaderanalk | 9,581
+tamilmirrorlk | 11,147
+virakesarilk | 12,221
 adaderanasinhalalk | 13,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,842 (85.3%) of 74,813 articles have been extended.
+63,842 (85.3%) of 74,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### ரயில் தடம்புரண்டது : சேவைகள் பாதிப்பு
+
+*2025-09-08 21:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-சேவைகள்-பாதிப்பு/175-364235) · `ta`
+
+கொழும்பிலிருந்து அவிசாவளை நோக்கிச் சென்ற ரயில், புவக்பிட்டிய – அவிசாவளை இடையிலான பகுதியில் இன்று (8) மாலை தடம்புரண்டது.
+
+இந்த சம்பவத்தால் களனிவௌி ரயில் பாதையில் ரயில்கள் தற்போது கொஸ்கம வரை மட்டுமே இயக்கப்படுகின்றன என்று ரயில்வே திணைக்களம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/06cb7634.json)
+
+---
+
+### களனிவௌி ரயில் பாதையில் போக்குவரத்து தடை
+
+*2025-09-08 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/224573) · `ta`
+
+கொழும்பிலிருந்து அவிசாவளை நோக்கிச் சென்ற ரயில் ஒன்று, புவக்பிட்டிய – அவிசாவளை இடையிலான பகுதியில் திங்கட்கிழமை (8) மாலை தடம் புரண்டது.
+
+இந்த சம்பவத்தால் களனிவௌி ரயில் பாதையில் ரயில்கள் தற்போது கொஸ்கம வரை மட்டுமே இயக்கப்படுகின்றன என்று ரயில்வே திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1fc37093.json)
+
+---
+
+### Derailment disrupts train services on Kelani Valley line
+
+*2025-09-08 20:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112298/derailment-disrupts-train-services-on-kelani-valley-line) · `en`
+
+The Department of Railways stated that a train travelling from Colombo to Avissawella has derailed between Puwakpitiya and Avissawella railway stations this evening (8).
+
+Consequently, train services on the Kelani Valley Line have been restricted to Kosgama only, the department announced.
+
+◼️
+
+[Data](articles/5b64bf07.json)
+
+---
 
 ### Railway delegation on Kelaniweli road
 
@@ -63,6 +105,58 @@ Speaking at a media briefing held today (08), DIG Indika Hapugoda said that.
 [Data](articles/e7cf63ca.json)
 
 [Extended Data](ext_articles/e7cf63ca.ext.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை – மீள்பரிசீலனை விண்ணப்பங்கள்
+
+*2025-09-08 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224572) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையின் விடைத்தாள்களை மீள்பரிசீலனை செய்யும் விண்ணப்பங்கள் 2025 செப்டம்பர் 09ஆம் திகதி முதல் 22ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் என்று பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார்.
+
+பரீட்சைக்கு தோற்றிய மாணவர் பயிலும் பாடசாலையின் அதிபர் மூலமாகவே விண்ணப்பம் சமர்ப்பிக்க வேண்டும். அதற்காக, பாடசாலைக்கு வழங்கப்பட்ட பயனர் பெயர் மற்றும் கடவுச்சொல்லைப் பயன்படுத்தி https://onlineexams.gov.lk/eic/index.php/clogin/ என்ற இணையதளத்தில் SCHOOL LOGIN மூலம் உள்நுழைந்து விண்ணப்பிக்கலாம் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/904fd15c.json)
+
+---
+
+### உள்நாட்டுப் பொறிமுறை மூலம் நல்லிணக்கம் மற்றும் பொறுப்புக்கூறலை அடைய முடியும் : ஐ.நா. மனித உரிமைகள் பேரவையில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத்
+
+*2025-09-08 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224569) · `ta`
+
+இலங்கையின் இறையாண்மைக்கு முக்கியத்துவம் அளிப்பதையும், சர்வதேச தலையீடுகளை நிராகரிப்பதாகவும்  உள்நாட்டுப் பொறிமுறைகள் மூலம் நல்லிணக்கம் மற்றும் பொறுப்புக்கூறலை அடைய முடியும் என இலங்கை நம்புவதாக வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
+
+வெளித் தலையீடுகள் அதன் உள்நாட்டு நீதி மற்றும் நல்லிணக்க முயற்சிகளுக்குத் தடையாக இருக்கும் என்றும் இலங்கை மக்கள் ஒரு நியாயமான, சமமான மற்றும் வளமான சமுதாயத்தை உருவாக்க விரும்புகிறார்கள் என்றும், வெளிப்புற நடவடிக்கைகள் பிரிவினையை மட்டுமே ஏற்படுத்தும் என்றும் மேலும் தெரிவித்தார்.
+
+60 ஆவது ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக் கூட்டத்தொடரில், ஐ.நா. மனித உரிமைகள் ஆணையாளரின் இலங்கை குறித்த அறிக்கை தொடர்பாக இலங்கை அரசு சார்பில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் உரையாற்றிய போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+இலங்கை அரசாங்கம் கடந்த 11 மாதங்களில் அடைந்துள்ள முன்னேற்றங்கள், எதிர்காலத் திட்டங்கள் மற்றும் மனித உரிமைகள், நல்லிணக்கம் மற்றும் ஊழல் ஒழிப்புக்கான உறுதிப்பாடுகள் குறித்து இந்த உரையில் விரிவாக விளக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/9ed783a2.json)
+
+---
+
+### பிரதம நீதியரசரின் வாகன அணிவகுப்பை படம் பிடித்த நபர் விளக்கமறியலில்
+
+*2025-09-08 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224571) · `ta`
+
+பிரதம நீதியரசரின் வாகன அணிவகுப்பை கைப்பேசியில் வீடியோ எடுத்ததாகக் கூறப்படும் நபர், எதிர்வரும் 10ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட வேண்டும் என்று கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சந்தேக நபரை கறுவாத் தோட்டம் பொலிஸார் கைது செய்து, 8ஆம் திகதி திங்கட்கிழமை கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம முன்னிலையில் ஆஜர்படுத்தினர்.
+
+விசாரணை தொடர்ந்து நடைபெற்று வருவதாக பொலிஸார் நீதிமன்றத்தில் தெரிவித்ததுடன், சந்தேக நபரின் கைப்பேசியை அரச இரசாயன பகுப்பாய்வாளரிடம் அனுப்பி, அதுகுறித்த அறிக்கையைப் பெற அனுமதி கோரினர்.
+
+சந்தேக நபரின் சார்பில் ஆஜரான சட்டத்தரணி, அவரது வாடிக்கையாளர் வாகன அணிவகுப்பை வீடியோ எடுத்ததற்காக மன்னிப்பு கேட்டுள்ளதாகவும், எனவே அவரை பிணையில் விடுதலை செய்ய வேண்டும் எனவும் கோரினார்.
+
+ஆனால் சமர்ப்பணங்களை பரிசீலித்த நீதவான், சந்தேக நபரை 10ஆம் திகதி வரை விளக்கமறியலில் வைக்க உத்தரவிட்டதோடு, கைப்பேசியை அரச இரசாயன பகுப்பாய்வாளரிடம் அனுப்பி அறிக்கை பெறவும் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/4648bc4a.json)
 
 ---
 
@@ -506,7 +600,13 @@ External Affairs Minister Vijitha Herath, representing the Sri Lankan government
 
 *2025-09-08 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112290/appeals-for-re-scrutiny-of-2025-scholarship-exam-results-accepted-from-tomorrow) · `en`
 
-The process for submitting appeals for the re-scrutiny of the 2024 Grade 5 Scholarship Examination results will begin tomorrow (09).
+The process for submitting appeals for the re-scrutiny of the 2025 Grade 5 Scholarship Examination results will begin tomorrow (09).
+
+According to a communique issued by the Commissioner General of Examinations, Indika Kumari Liyanage, applications can be submitted online for the re-scrutiny of answer scripts from tomorrow to September 22, 2025.
+
+In order to submit applications, the principal of the candidate’s school must log in to the SCHOOL LOGIN section of the official website of the Department by using the username and password provided to the school.
+
+The Commissioner General emphasizes that only school principals can submit appeals on behalf of candidates.
 
 ◼️
 
@@ -814,17 +914,13 @@ The Minister pointed out that the main purpose of the Ministry of Health at the 
 
 *2025-09-08 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112287/un-rights-chief-presents-report-on-sri-lanka-at-human-rights-council) · `en`
 
-United Nations High Commissioner for Human Rights Volker Türk has presented the report of the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council.
+United Nations High Commissioner for Human Rights Volker Türk today (08) presented the much-anticipated report on Sri Lanka by the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council in Genève.
 
-Through the report, Human Rights Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
+Through the report, High Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
 
-Other recommendations include the release of military-held land in the north and east, repeal of the Prevention of Terrorism Act (PTA), and the release of long-term PTA detainees.
+While presenting the report, the UN rights chief called for international engagement, including through the UN Human Rights Council and emphasized that it remains essential and can be supportive of accountability and long-term reconciliation and sustainable peace.
 
-The report also recommended the comprehensive security sector reform and broader constitutional, legal and institutional changes to meet international human rights obligations.
-
-The report follows the High Commissioner’s recent visit to Sri Lanka, where he met officials, civil society, political parties and religious leaders.
-
-◼️
+...
 
 [Data](articles/479993a1.json)
 
@@ -1971,133 +2067,5 @@ Myland Developments stock was trading 3.50 rupees up at 17.50. (Colombo/Sep8/225
 [Data](articles/d5ff30bd.json)
 
 [Extended Data](ext_articles/d5ff30bd.ext.json)
-
----
-
-### Will Prime Minister Harini be sacked? Dilvin's opinion
-
-*2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/175-364196) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
-
-Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
-
-"Earlier, they said that Harini Amarasuriya would lose his ministerial post
-
-They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
-
-◼️
-
-[Data](articles/307f2920.json)
-
-[Extended Data](ext_articles/307f2920.ext.json)
-
----
-
-### Will Prime Minister Harini be sacked? Dilvin's opinion
-
-*2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/150-364196) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
-
-Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
-
-"Earlier, they said that Harini Amarasuriya would lose his ministerial post
-
-They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
-
-◼️
-
-[Data](articles/3ccf3fb1.json)
-
-[Extended Data](ext_articles/3ccf3fb1.ext.json)
-
----
-
-### UNHRC Resolution: Will India, South Africa and Japan back Sri Lanka?
-
-*2025-09-08 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112270/unhrc-resolution-will-india-south-africa-and-japan-back-sri-lanka) · `en`
-
-The 60th session of the United Nations Human Rights Council (UNHRC) will be extremely decisive for Sri Lanka, former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Prathiba Mahanamahewa stated.
-
-The 60th session of the UNHRC is scheduled to commence today (08) and the interactive dialogue on the report of the Office of the High Commissioner for Human Rights is scheduled to take place this afternoon.
-
-Prathiba Mahanamahewa said that during this session, a resolution against Sri Lanka is likely to be proposed, and that it is a continuation of a series of similar resolutions that have been brought forward since 2010.
-
-He noted that by continuously presenting such resolutions, allegations are being made that Sri Lanka is a country that systematically violates human rights, particularly in relation to alleged violations of the human rights of people in the Northern Province.
-
-...
-
-[Data](articles/b43a99c4.json)
-
-[Extended Data](ext_articles/b43a99c4.ext.json)
-
----
-
-### Two train tracks from Badulla to Colombo
-
-*2025-09-08 11:19:29* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-කොළඹ-එන්න-ආපු-දුම්රිය-දෙකක්-පීලි-පනියි/11-418345) · `si`
-
-Railway Passengers were severely embarrassed by the Naval Menike train from Badulla to Colombo Fort this morning.
-
-Udarata Menike Railway train was suddenly staged by the Emi Railway Archin Bridge at the Badulla Fort at 6.50 am from the Badulla Fort at 6.50 am.
-
-The Railways was later rescued from the Railway Engine from the Badulla Railways after the railway machinery and stopped the railway engine.
-
-Meanwhile, the Colombo Fort from Badulla to 1.45 pm from Badulla Fort and the Colombo Fort from Badulla to Colombo Fort, the railway station was raised from Haliela to Badulla.
-
-The Railway Department said that the Railway Railway Railway Station was submerged from Colombo Fort from Fort to Badulla.
-
-◼️
-
-[Data](articles/ab89bb35.json)
-
-[Extended Data](ext_articles/ab89bb35.ext.json)
-
----
-
-### Carlos alreas wins the sixth Grand Slam Championship
-
-*2025-09-08 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214308) · `si`
-
-Aklis, Spain, has won the US Open Tennis Championship this year.
-
-In the final, Janik cinener of Italy defeated 1 to 1 rounds.
-
-The first round of the match was won by Alkaraz as 2 to 2 runs.
-
-However, Carlos Alkraz won 1 to six crucial third and four tournaments.
-
-Accordingly, the victory was reportedly as the 6th Grand Slam championship.
-
-◼️
-
-[Data](articles/5acbf362.json)
-
-[Extended Data](ext_articles/5acbf362.ext.json)
-
----
-
-### Green boyfriend arrested
-
-*2025-09-08 11:18:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர்ந்த-பெரிய-காதலன்-கைது/175-364195) · `ta`
-
-A 27 -year -old youth from Badalkumbara has been arrested by police for allegedly raping a girl who is 15 and 4 months old.
-
-The girl, angry with her mother and father, visited her sister's house in Kelaniya on August 26. The father lodged a complaint with the police that his youngest daughter was missing. The police, who have investigated the complaint, have brought the girl to the medical examination.
-
-According to the inquiries carried out by the Athumi, I fell in love with a young man in the area.
-
-I went to Periyappa's house on February 28 with him. There was only the daughter of Periyappa. The boyfriend came to the house in a short time.
-
-Subsequently, in the room of Periyappa's daughter, she told the police that she was a husband and wife with her boyfriend.
-
-He told the police that he had left the house because he could not bear the incident.
-
-...
-
-[Data](articles/0c2e3ca0.json)
-
-[Extended Data](ext_articles/0c2e3ca0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 12:14:45**
+As of **2025-09-08 12:55:47**
 
 ## Newspaper Stats
 
-*Scraped **74,709** Articles*
+*Scraped **74,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,117 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,227
-adaderanalk | 9,554
-tamilmirrorlk | 11,124
-virakesarilk | 12,209
+adalk | 7,228
+adaderanalk | 9,557
+tamilmirrorlk | 11,126
+virakesarilk | 12,210
 adaderanasinhalalk | 13,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,383 (84.8%) of 74,709 articles have been extended.
+63,433 (84.9%) of 74,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### වැල්ලවායේ දී දරුණු අනතුරක්
+### Fines for famous actress
+
+*2025-09-08 12:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அரை-முழம்-மல்லிகையால்-பிரபல-நடிகைக்கு-அபராதம்/54-364201) · `ta`
+
+Australian Airport Administration Rs.. 1.25 lakh fines have been taken.
+
+Actress Navya Nair from Malayalam film industry has also acted in more than 5 films in Tamil language. He went to the Onam festival in Victoria, Australia and he was about 15 cm.. He has carried the size of the jasmine flower.
+
+Officers who raided actress Navya's possessions at the Melbourne International Airport have found a fine of Rs 1.25 lakh at the airport after she found a jasmine flower.
+
+Speaking at a function in Victoria, he said that his father had bought him a jasmine flower and had one half of it from Kochi to Singapore and kept the remaining half in his handbag.
+
+There are the most severe biosecurity laws in Australia. According to them, it is not generally allowed to carry any new plant products in the plane. Flowers or plants from abroad considers that there may be insects that are not in Australia, germs or weed seeds.
+
+...
+
+[Data](articles/28b46955.json)
+
+[Extended Data](ext_articles/28b46955.ext.json)
+
+---
+
+### Two arrested with 83 passports
+
+*2025-09-08 12:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/83-கடவுச்சீட்டுகளுடன்-இருவர்-கைது/175-364199) · `ta`
+
+Two suspects have been arrested for illegal 83 passports belonging to other persons.
+
+Police said the suspects were arrested following a raid conducted yesterday in the Horakolla area, Ganemulla.
+
+Following the raid, two suspects were arrested, 51 -year -old male and 62 -year -old woman from Ganemulla.
+
+◼️
+
+[Data](articles/d130d883.json)
+
+[Extended Data](ext_articles/d130d883.ext.json)
+
+---
+
+### A severe accident in Wellawaya
 
 *2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
 
-වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගයේ යාලබෝව ලංගම ඩීපෝව ඉදිරිපිට ප්‍රදේශයේ දී ලොරි රථයක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් අද (08) අනතුරක් සිදුව තිබේ.
+A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
 
-අනතුරින් මෝටර් රථයේ ගමන්ගත් දෙදෙනෙකු තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
+Two traders were injured and admitted to the Wellawaya Base Hospital.
 
-මෙම අනතුරින් ලොරි රථය මාර්ගය හරහා පෙරළී ගොස් ඇති අතර ඒ හේතුවෙන් මාර්ගයේ ගමනාගමන කටයුතුවලට ද බාධා එල්ල වී ඇති බව පොලීසිය පැවසුවේය.
+The lorry has flipled through the road, and the road has also been interrupted due to the road.
 
 ◼️
 
 [Data](articles/b2cc3b64.json)
 
+[Extended Data](ext_articles/b2cc3b64.ext.json)
+
 ---
 
-### සජබ ඇතුළු විපක්ෂයේ බලවේග සමග එකට වැඩ කිරීමට එජාපයේ තීරණයක්
+### தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமித்ததற்கு எதிரான மனு மீதான விசாரணை ஒத்திவைப்பு!
+
+*2025-09-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224507) · `ta`
+
+தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமித்ததற்கு எதிரான மனு மீதான விசாரணையை ஒத்திவைத்து உயர் நீதிமன்றம் இன்று திங்கட்கிழமை (08) உத்தரவிட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமிப்பதற்கான தீர்மானம் அரசியலமைப்பிற்கு முரணானது என தீர்ப்பளிக்கக் கோரி மனு தாக்கல் செய்யப்பட்டது.
+
+இந்த மனுக்கள் பிரீத்தி பத்மன் சூரசேன, மஹிந்த சமயவர்தன மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் முன்னிலையில் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+அதன்படி இந்த மனு மீதான விசாரணை 2026ஆம் ஆண்டு பெப்ரவரி மாதம் 12 ஆம் திகதி வரை ஒத்திவைத்து நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/49980d4d.json)
+
+---
+
+### UNP decides to work with the forces of the opposition
 
 *2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
 
-මූලික සාකච්ඡාවලදී එකඟතාවයට පැමිණි ආකාරයට සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් දේශපාලන පක්ෂ සමග අඛණ්ඩව ඉදිරියටත් කටයුතු කරගෙන යාමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
+The UNP has decided to continue with the reconciliation and other political parties in the preliminary discussions.
 
-ඒ සඳහා සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ පක්ෂ සමග කටයුතු කිරීම සඳහා කමිටුවක් හෝ ඒ හා සමාන යාන්ත්‍රණයක් මගින් ක්‍රියා කිරීමටද එක්සත් ජාතික පක්ෂය මෙහිදී අදහස් කර ඇත.
+The United National Party (UNP) has also intended to act through a committee or similar mechanism to deal with the opposition parties, including the unity force.
 
-සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් පක්ෂ සමඟ පොදු කාරණාවලදී කටයුතු කරන ආකාරය සම්බන්ධයෙන් පසුගිය කාලය මුළුල්ලේම එක්සත් ජාතික පක්ෂය විරුද්ධ පක්ෂ සමග සාකච්ඡා කරනු ලැබිය.
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and other matters with the opposition parties.
 
-එම සාකච්ඡාවලදී එකඟත්වයට පැමිණි කරුණු අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කිරීමට එක්සත් ජාතික පක්ෂය තීරණය කළ බව එම පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා පැවසීය.
+The Chairman of the UNP Vajira Abeywardena said the UNP has decided to continue in the discussions with agreements.
 
-මේ අනුව සමගි ජන බලවේගය සමඟ විවෘතව වැඩ කිරීමට තීරණය කර තිබෙන බවද ඔහු සඳහන් කළේය.
+He also said that he has decided to work open with the conviction force.
 
 ◼️
 
 [Data](articles/61017216.json)
+
+[Extended Data](ext_articles/61017216.ext.json)
 
 ---
 
@@ -85,6 +147,46 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 [Data](articles/307f2920.json)
 
 [Extended Data](ext_articles/307f2920.ext.json)
+
+---
+
+### UNHRC Resolution: Will India, South Africa and Japan back Sri Lanka?
+
+*2025-09-08 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112270/unhrc-resolution-will-india-south-africa-and-japan-back-sri-lanka) · `en`
+
+The 60th session of the United Nations Human Rights Council (UNHRC) will be extremely decisive for Sri Lanka, former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Prathibha Mahanamahewa stated.
+
+The 60th session of the UNHRC is scheduled to commence today (08) and the interactive dialogue on the report of the Office of the High Commissioner for Human Rights is scheduled to take place this afternoon.
+
+Prathibha Mahanamahewa said that during this session, a resolution against Sri Lanka is likely to be proposed, and that it is a continuation of a series of similar resolutions that have been brought forward since 2010.
+
+He noted that by continuously presenting such resolutions, allegations are being made that Sri Lanka is a country that systematically violates human rights, particularly in relation to alleged violations of the human rights of people in the Northern Province.
+
+...
+
+[Data](articles/b43a99c4.json)
+
+---
+
+### Two train tracks from Badulla to Colombo
+
+*2025-09-08 11:19:29* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-කොළඹ-එන්න-ආපු-දුම්රිය-දෙකක්-පීලි-පනියි/11-418345) · `si`
+
+Railway Passengers were severely embarrassed by the Naval Menike train from Badulla to Colombo Fort this morning.
+
+Udarata Menike Railway train was suddenly staged by the Emi Railway Archin Bridge at the Badulla Fort at 6.50 am from the Badulla Fort at 6.50 am.
+
+The Railways was later rescued from the Railway Engine from the Badulla Railways after the railway machinery and stopped the railway engine.
+
+Meanwhile, the Colombo Fort from Badulla to 1.45 pm from Badulla Fort and the Colombo Fort from Badulla to Colombo Fort, the railway station was raised from Haliela to Badulla.
+
+The Railway Department said that the Railway Railway Railway Station was submerged from Colombo Fort from Fort to Badulla.
+
+◼️
+
+[Data](articles/ab89bb35.json)
+
+[Extended Data](ext_articles/ab89bb35.ext.json)
 
 ---
 
@@ -156,6 +258,26 @@ Police said the suspects were residing in Luna and Akula areas in Moratuwa.
 
 ---
 
+### “Let’s Return Kala Wewa to the Elephants” project conducted
+
+*2025-09-08 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112269/lets-return-kala-wewa-to-the-elephants-project-conducted-) · `en`
+
+The project titled ‘Let’s Return Kala Wewa to the Elephants’, as part of the ‘Clean Sri Lanka’ initiative, has been carried out in the floodplain areas of the Kala Wewa National Park.
+
+According to the Presidential Media Division, the project was implemented over a three-day period.
+
+It has been reported that due to the widespread growth of invasive plant species, including Common water hyacinth (commonly known as Jaan Jabara), across many tank beds in the North Central Province, the natural grasslands vital for wild elephants have been lost.
+
+In response, invasive plants—particularly Japan Jabara—were removed from the tank beds of Kala Wewa and several lakes in the Anuradhapura district.
+
+The PMD added that more than 20 acres of land previously overrun with invasive plant species were completely cleared as part of this project.
+
+◼️
+
+[Data](articles/75659d38.json)
+
+---
+
 ### Steps to resume construction work on Central Highway
 
 *2025-09-08 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224504) · `ta`
@@ -191,6 +313,22 @@ The petitions were called before the Chief Justice of the Chief Justice Journal 
 [Data](articles/08ad1220.json)
 
 [Extended Data](ext_articles/08ad1220.ext.json)
+
+---
+
+### Petitions challenging ex-President Ranil’s move to appoint Deshabandhu Tennakoon as IGP to be heard next year
+
+*2025-09-08 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112268/petitions-challenging-ex-president-ranils-move-to-appoint-deshabandhu-tennakoon-as-igp-to-be-heard-next-year) · `en`
+
+The Supreme Court has scheduled February 12, 2026 for the hearing of petitions challenging the constitutionality of former President Ranil Wickremesinghe’s decision to appoint Deshabandhu Tennakoon as Inspector General of Police (IGP).
+
+The petitions were taken up today before a three-judge bench comprising Chief Justice Preethi Padman Surasena, Justice Mahinda Samayawardhena, and Justice Arjuna Obeysekara, which directed that the petitions be heard on February 12.
+
+A total of nine petitions have been filed, including by His Eminence Cardinal Malcolm Ranjith, the Young Journalists Association, and other parties, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/7d5139d0.json)
 
 ---
 
@@ -1875,169 +2013,5 @@ Meanwhile, investigations were found in a drawgam and ammunition, which was hidd
 [Data](articles/65422890.json)
 
 [Extended Data](ext_articles/65422890.ext.json)
-
----
-
-### Sri Lanka to install barrier nets in 250 reservoirs to boost fish stocks
-
-*2025-09-07 19:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-barrier-nets-in-250-reservoirs-to-boost-fish-stocks-239647/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to install barrier nets in 250 reservoirs to protect fish stocks and boost harvests, Cabinet spokesman Nalinda Jayatissa said.
-
-An estimated 20,000 to 40,000 kilograms are washed way annually from each reservoir when water is released for agriculture, reducing fish harvest for human consumption.
-
-The loss of mature fish in of reproductive age also leads to depletion of fish stocks.
-
-The cabinet of ministers had approved a plan by the National Aquaculture Development Authority of Sri Lanka to install barrier nets in 250 freshwater tanks, which will lead to better harvest and protein availability in rural areas.
-
-Sri Lanka has high taxes on imported foods, especially in dairy and maize to promote ‘self-sufficiency’ leading to extraordinarily high dairy goods prices and also meat. (Colombo/Aug07/2025)
-
-◼️
-
-[Data](articles/22177a8c.json)
-
-[Extended Data](ext_articles/22177a8c.ext.json)
-
----
-
-### Sewage stagnation in Batticaloa Sarcasm
-
-*2025-09-07 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/224476) · `ta`
-
-School students traveling along the road are facing the convenience of the public, due to the stagnant stagnation and the stagnation of the stagnation in the drain on the Mudaliar Chinnalepu road in Batticaloa.
-
-The drainage is full of waste and the wastewater that flows through it is unable to move and the waste water is out of the drain.
-
-At the same time, people are facing various inconveniences in the drains and the residents of the road are unable to travel through the road and the residents of the road are unable to travel through the road as the stagnant sewage is being slammed by the stagnant sewage.
-
-Even though it has been brought to the notice of the concerned authorities, no action has been taken so will the concerned authorities take action? Do not stink? Do you clean the drains? People question.
-
-◼️
-
-[Data](articles/d47e2af6.json)
-
-[Extended Data](ext_articles/d47e2af6.ext.json)
-
----
-
-### 45-year-old dies after fireworks explosion in Thambalagamuwa
-
-*2025-09-07 19:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112258/45-year-old-dies-after-fireworks-explosion-in-thambalagamuwa) · `en`
-
-A person has died following critical injuries sustained from a firecracker explosion during an annual festival at a Kovil in the Thambalagamuwa area in Trincomalee District last night (06).
-
-While a fireworks display was underway as part of the kovil’s festival procession, one firecracker had failed to detonate.
-
-As a result, a person nearby had kicked the firecracker, which had accidentally rolled towards the victim, where it then exploded.
-
-The victim, who suffered serious injuries from the incident, has succumbed to his injuries after being admitted to Thambalagamuwa Hospital.
-
-The deceased, a 45-year-old father of three, was a resident of the same area.
-
-A post-mortem examination has been conducted by the Kantale Judicial Medical Officer (JMO), and the Thambalagamuwa Police are conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/941503ea.json)
-
-[Extended Data](ext_articles/941503ea.ext.json)
-
----
-
-### Fireworks exploded in Trincomalee
-
-*2025-09-07 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224475) · `ta`
-
-One person died after a fireworks exploded during the annual festival held on Saturday night (06) at a temple in Thambalakamam, Trincomalee.
-
-The fireworks show was organized during the chariot Bhavani held there. In it, a neighbor of a fireworks that had not exploded kicked. When it struck another man, he was seriously injured.
-
-The deceased has been identified as the father of three children aged 45 in the same area.
-
-The autopsy on his body has been carried out by the Medical Officer. Thambalakamam police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/d78a4bf1.json)
-
-[Extended Data](ext_articles/d78a4bf1.ext.json)
-
----
-
-### Japanese Prime Minister resigns
-
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
-
-Japanese Prime Minister Shikheru Ishiba decision to resign The decision has been made with the aim of preventing splitting in the ruling party.
-
-Shigeru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
-
-Some of the party executives have begun to voice their voice that the Prime Minister should resign.
-
-The Prime Minister has ignored the comments that have been said for the past one month. But the voices of his resignation day by day are strengthening.
-
-In such a situation, the Liberal Democratic Party is due to decide whether to hold an election in advance of the party leadership.. In order to avoid it, it is reported that he has come forward to resign automatically
-
-◼️
-
-[Data](articles/2dbc18b6.json)
-
-[Extended Data](ext_articles/2dbc18b6.ext.json)
-
----
-
-### Japanese Prime Minister resigns
-
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
-
-Japanese Prime Minister Shikheru Ishiba decided to resign The decision has been made with the aim of preventing a split in the ruling party.
-
-Shikheru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
-
-Some party executives have begun to voice their voice that the ruling party has lost a majority.. The Prime Minister has ignored the comments that have been said for the past one month.
-
-But the voices of his resignation day by day are strengthening.
-
-In such a situation, the Liberal Democratic Party is to decide on whether to hold an election in advance for the party leadership.
-
-In order to avoid it, it is reported that he has come forward to resign automatically
-
-◼️
-
-[Data](articles/855eff8b.json)
-
-[Extended Data](ext_articles/855eff8b.ext.json)
-
----
-
-### Sri Lanka a target of 192 runs
-
-*2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
-
-Zimbabwe scored 191 runs for the loss of 19 wickets in the first 20 overs.
-
-This was the highest scorers of Zimbabwe's highest marks in the Twenty20 match against Sri Lanka.
-
-Earlier, they had scored 178 runs for the loss of 6 wickets.
-
-Accordingly, Sri Lanka won a target of 192 runs.
-
-Sri Lanka captain Charith won the toss and win the coin of the match at the Harrara Stadium.
-
-Tadiwanashe Marumani scored 51 runs on behalf of Zimbabwe. Sikandar raza scored 28 runs.
-
-Sean Williams bowled out 23 runs while Brian Bennett scored 13 runs.
-
-Dushan Hemantha took 3 wickets for Sri Lanka in bowling. Damadantha Chameera took 2 wickets.
-
-The winner can win the championship in this competition, as the two teams have won the two matches every two matches.
-
-Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has rested to the rest of the time.
-
-◼️
-
-[Data](articles/12120caa.json)
-
-[Extended Data](ext_articles/12120caa.ext.json)
 
 ---

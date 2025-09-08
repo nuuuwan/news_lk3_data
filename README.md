@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 10:20:38**
+As of **2025-09-08 10:10:06**
 
 ## Newspaper Stats
 
-*Scraped **74,688** Articles*
+*Scraped **74,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,223
 adaderanalk | 9,551
-tamilmirrorlk | 11,117
+tamilmirrorlk | 11,113
 virakesarilk | 12,208
 adaderanasinhalalk | 13,006
 
@@ -26,65 +26,11 @@ adaderanasinhalalk | 13,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,277 (84.7%) of 74,688 articles have been extended.
+63,277 (84.7%) of 74,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### நியூயோர்க்கின் தோசை மனிதன்: அமெரிக்க தெருக்களில் அசத்தும் இலங்கை தமிழர்
-
-*2025-09-08 10:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/நியூயோர்க்கின்-தோசை-மனிதன்-அமெரிக்க-தெருக்களில்-அசத்தும்-இலங்கை-தமிழர்/97-364185) · `ta`
-
-வடகிழக்கு அமெரிக்காவின் ஹாட்-டாக் மற்றும் டோனட்ஸ் மீதான அன்பைத் தாண்டி, நியூயோர்க் நகர மக்கள் இப்போது பருப்பு மற்றும் பிற காய்கறிகளுடன் கூடிய சூடான, சீஸ் தோசைகளை விரும்பி சாப்பிட தொடங்கி இருக்கின்றனர். அதற்கு காரணம் நியூயோர்க் நகரின் புகழ்பெற்ற தோசை மனிதர் என்று அழைக்கப்படும் திருக்குமார் கந்தசாமிதான்.
-
-காலை 9 மணியளவில், வாஷிங்டன் ஸ்கொயர் பார்க் தெருக்களில் தனது தள்ளுவண்டியைத் தள்ளிக்கொண்டு நரைத்த மீசை கொண்ட மனிதர் தான் திருக்குமார் கந்தசாமி. இவர் தள்ளு வண்டிக் கடையின் அடுப்பிலிருந்து ஆவி பறக்கத் தொடங்கினாலே, மக்கள் தோசையை சுவைக்க கூடிவிடுவார்கள். இந்தியர்களை கடந்து அதிகளவில் அமெரிக்காவைச் சேர்ந்தவர்களே இவரின் ரெகுலர் கஸ்டமர்கள்.
-
-21ஆம் நூற்றாண்டின் தொடக்கத்தில் ஏராளமான கனவுகளுடன் நியூயோர்க்கிற்கு குடிபெயர்ந்த இலங்கைத் தமிழர் தான் திருக்குமார் கந்தசாமி. இன்று நியூயோர்க் தெருவோர தோசை கடைகளின் அடையாளமாக மாறி இருக்கிறார். திருக்குமார் கந்தசாமி என்ற பெயரை சுருக்கி அனைவரும் திரு என்று அன்புடன் அழைப்பதை அவரின் இன்ஸ்டா வீடியோக்களில் பார்க்க முடியும்.
-
-...
-
-[Data](articles/0de4a313.json)
-
----
-
-### சரியான நேரம், காலம் பார்த்து ரணில் அதை அறிவிப்பார்
-
-*2025-09-08 10:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரியான-நேரம்-காலம்-பார்த்து-ரணில்-அதை-அறிவிப்பார்/175-364184) · `ta`
-
-ரணில் விக்ரமசிங்க பாராளுமன்றம் செல்வது தொடர்பில் இதுவரை எந்த தீர்மானமும் எடுக்கவில்லை என ஐக்கிய தேசிய கட்சியின் பிரதித் தலைவர் ருவன் விஜேவர்தன தெரிவித்துள்ளார்.
-
-நாட்டின் தற்போதைய நிலையில், முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் அங்கம் வகிப்பாரானால், அது நாட்டுக்கு நல்லது என்றும் ருவன் விஜேவர்தன தெரிவித்துள்ளார்.
-
-ரணில் விக்ரமசிங்க பாராளுமன்றத்துக்கு செல்வதாக இருந்தால், சரியான நேரம், காலம் பார்த்து அறிவிப்பார்.
-
-ஆனால், இதுதொடர்பில் எந்த கலந்துரையாடலும் தற்போதுவரை இடம்பெறவில்லை எனவும் ஐக்கிய தேசிய கட்சியின் பிரதித் தலைவர் ருவன் விஜேவர்தன தெரிவித்துள்ளார்.  R
-
-◼️
-
-[Data](articles/ec4e54df.json)
-
----
-
-### இன்று முதல் கடுமையாகும் சட்டம்
-
-*2025-09-08 10:05:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-கடுமையாகும்-சட்டம்/175-364182) · `ta`
-
-போக்குவரத்து சட்டம் இன்று (08) முதல் கடுமையாக அமுல்படுத்தப்படும் என போக்குவரத்து அமைச்சு அறிவித்துள்ளது.
-
-இதற்காக வாகனங்களை சோதனை செய்ய நாடு முழுவதும் பொலிஸ் அதிகாரிகள் பணியில் ஈடுபடுத்தப்படுவார்கள் என போக்குவரத்து பிரதியமைச்சர் பிரசன்ன குணசேன சுட்டிக்காட்டியுள்ளார்.
-
-போக்குவரத்திற்கு தகுதியற்ற வாகனங்கள் மற்றும் வண்ணங்கள் மாற்றப்பட்ட வாகனங்கள், வெவ்வேறு வண்ணங்களில் கூடுதல் விளக்குகளுடன் இயங்கும் வாகனங்கள், வாகனங்களின் முன், பின் மற்றும் இரு பகுதிகளின் சித்திர வடிவமை
-
-ப்புகள் மற்றும் விளம்பரங்கள் பிரசுரித்தல் மற்றும் சட்டவிரோத மேலதிக உதிரி பாகங்கள் தொடர்பிலும் சோதனை செய்ய திட்டமிடப்பட்டுள்ளது.
-
-அதிக சத்தம் எழுப்பும் ஒலிப்பான் மற்றும் அதிக சத்தம் எழுப்பும் சைலன்சர்கள் கொண்ட வாகனங்கள் தொடர்பாக இன்று முதல் சட்டத்தை கடுமையாக அமுல்படுத்த பொலிஸாருக்கு அறிவுறுத்தப்பட்டுள்ளதாக போக்குவரத்து பிரதியமைச்சர் பிரசன்ன குணசேன தெரிவித்தார். R
-
-◼️
-
-[Data](articles/ca2c2ab1.json)
-
----
 
 ### කාන්තාවක් ඝාතනයකට ආධාර අනුබල දුන් අයෙකු අත්අඩංගුවට
 
@@ -1546,26 +1492,6 @@ In such a situation, the Liberal Democratic Party is due to decide whether to ho
 
 ---
 
-### இராஜினாமா செய்கிறார் ஜப்பான் பிரதமர்
-
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
-
-ஜப்பான் பிரதமர் ஷிகெரு இஷிபா இராஜினாமா செய்ய முடிவு; ஆளும் கட்சியில் பிளவு ஏற்படாமல் தடுக்கும் நோக்கத்துடன் இந்த முடிவு எடுத்திருப்பதாக, தகவல் வெளியாகியுள்ளது.
-
-ஜப்பான் நாட்டின் பிரதமராக இருப்பவர் ஷிகெரு இஷிபா. இவர், லிபரல் டெமாக்ரடிக் கட்சியின் சார்பில் பதவி வகிக்கிறார்.இந்தாண்டு ஜூலை மாதம் நடந்த பார்லியின் மேலவை தேர்தலில் இந்த கட்சிக்கு தோல்வி கிடைத்தது.
-
-இதனால் ஆளும் கட்சி, பெரும்பான்மையை இழந்து விட்டது.இதற்கு பொறுப்பேற்று பிரதமர் ராஜினாமா செய்ய வேண்டும் என்று கட்சி நிர்வாகிகள் சிலர் குரல் எழுப்பத் தொடங்கியுள்ளனர். கடந்த ஒரு மாதமாக இவ்வாறு கூறப்படும் கருத்துக்களை பிரதமர் புறக்கணித்து வந்தார்.
-
-ஆனால், நாளுக்கு நாள் அவரது ராஜினாமாவை கோரும் குரல்கள் வலுத்து வருகின்றன.குறிப்பாக, அவரது கட்சியில் இருக்கும் வலதுசாரிகள், இந்த கோரிக்கையை வலியுறுத்தி வருகின்றனர்.
-
-இத்தகைய சூழ்நிலையில், கட்சி தலைமைப்பதவிக்கு முன்கூட்டியே தேர்தல் நடத்தலாமா என்பது பற்றி நாளை லிபரல் டெமாக்ரடிக் கட்சி முடிவு செய்ய உள்ளது.அதை கட்சியின் நிர்வாகிகள் அங்கீகரிக்கும் பட்சத்தில், ஷிகெரு இஷிபா பதவி விலக வேண்டியிருக்கும்.
-
-...
-
-[Data](articles/855eff8b.json)
-
----
-
 ### Sri Lanka a target of 192 runs
 
 *2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
@@ -2009,5 +1935,79 @@ At a meeting in July and August, he was commented on him. However, he refused to
 [Data](articles/53db1c83.json)
 
 [Extended Data](ext_articles/53db1c83.ext.json)
+
+---
+
+### Prohibition of lorries carrying mineral items during school hours
+
+*2025-09-07 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/224458) · `ta`
+
+Lorries transporting minerals during school hours are forbidden to go on the streets.
+
+It is reported that the Geological Survey and the Mining Bureau have been suspended for transporting minerals during school time for road safety reasons.
+
+Director General Deepani Weerakoon said that the decision was taken following a recent accident in the recent accident in Tipper and the school van.
+
+Accordingly, the vehicles carrying minerals should be parked in the roadside areas from 6:30 am to 7:45 am and 11:30 am to 2:30 pm.
+
+Awareness announcements have been issued through Divisional Secretariats across the country since September 4.
+
+◼️
+
+[Data](articles/a6f07b4a.json)
+
+[Extended Data](ext_articles/a6f07b4a.ext.json)
+
+---
+
+### Actor Prakash Raj arrived
+
+*2025-09-07 16:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-பிரகாஷ்-ராஜ்-வந்தடைந்தார்/175-364146) · `ta`
+
+Kollywood artist Prakash Raj arrived at the Katunayake airport on Sunday (07) to attend an alternative concert called "Song of Resilience" in partnership with the "Neeilini" Global Conference.
+
+◼️
+
+[Data](articles/71ccb6d7.json)
+
+[Extended Data](ext_articles/71ccb6d7.ext.json)
+
+---
+
+### A pronouncement of strong lightning
+
+*2025-09-07 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214282) · `si`
+
+The Department of Meteorology has issued an announcement in a strong lightning and heavy rains.
+
+The announcement issued at 03:00 pm today (07) will be valid from 03:00 pm today.
+
+At the evening of the Northern, North Central and Eastern provinces, in the evening or the Eastern provinces, there is an increase in lightning.
+
+There may be temporary localized strong winds during thundershowers.
+
+The Meteorology Department requests people to take necessary steps to minimize the damages caused by lightning.
+
+◼️
+
+[Data](articles/25e09a00.json)
+
+[Extended Data](ext_articles/25e09a00.ext.json)
+
+---
+
+### Detention of Piyal Manamparigory and interrogated
+
+*2025-09-07 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214281) · `si`
+
+Chemicals used in Middeniya, Middeniya, in the Talawa house in Middeniya, has been granted permission today (07).
+
+He has detained seven days at the time of his presented to the Walasmulla Magistrate's Court this morning.
+
+◼️
+
+[Data](articles/f35e76ea.json)
+
+[Extended Data](ext_articles/f35e76ea.ext.json)
 
 ---

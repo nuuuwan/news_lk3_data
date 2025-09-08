@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 15:38:43**
+As of **2025-09-08 14:12:10**
 
 ## Newspaper Stats
 
-*Scraped **74,757** Articles*
+*Scraped **74,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,317 +12,41 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 759
-economynextcom | 4,532
+economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,234
-adaderanalk | 9,565
-tamilmirrorlk | 11,135
-virakesarilk | 12,214
-adaderanasinhalalk | 13,019
+adalk | 7,232
+adaderanalk | 9,558
+tamilmirrorlk | 11,131
+virakesarilk | 12,212
+adaderanasinhalalk | 13,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,560 (85.0%) of 74,757 articles have been extended.
+63,492 (85.0%) of 74,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### ஆங் சான் சூ கியின் உடல்நிலை கவலைக்கிடம்: மகன் தகவல்
-
-*2025-09-08 15:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூ-கியின்-உடல்நிலை-கவலைக்கிடம்-மகன்-தகவல்/50-364214) · `ta`
-
-இராணுவக் காவலில் உள்ள மியான்மர் முன்னாள் ஆட்சியாளர் ஆங் சான் சூ கியின் உடல்நிலை கவலைக்கிடமாக உள்ளதாக அவரது மகன் கிம் அரிஸ் தெரிவித்துள்ளார்.
-
-மியான்மரில் ஜனநாயக முறைப்படி தேர்ந்தெடுக்கப்பட்ட ஆட்சியாளரான ஆங் சான் சூ கி, அந்நாட்டின் இராணுவ ஆட்சியாளர்களால் கடந்த 2021 முதல் சிறை வைக்கப்பட்டுள்ளார். ஊழல் மற்றும் தேர்தல் மோசடி குற்றச்சாட்டுக்கள் அவர் மீது சுமத்தப்பட்டுள்ளன. இதற்காக, அந்நாட்டு நீதிமன்றம் அவருக்கு 27 ஆண்டுகள் சிறைத் தண்டனை விதித்துள்ளது.
-
-இந்நிலையில், தனது தாய் சூ கி, இருதய பாதிப்பால் அவதிப்பட்டு வருவதாகவும் அவரது உடல்நிலை கவலைக்கிடமாக உள்ளதாகவும் அவரது மகன் கிம் அரிஸ் தெரிவித்துள்ளார். லண்டனில் உள்ள கிம் அரிஸ் தொலைபேசியில் தெரிவித்ததாக ராய்ட்டர்ஸ் செய்தி நிறுவனம் வெளியிட்டுள்ள செய்தியில், “எனது அம்மாவுக்கு 80 வயதாகிறது. ஒரு மாதத்துக்கு முன்பு, ஒரு இருதய நோய் நிபுணரைப் பார்க்க அவர் கோரி உள்ளார். அவரது கோரிக்கை ஏற்கப்பட்டதா என்பது குறித்து தகவல் இல்லை.
-
-...
-
-[Data](articles/ac50b0ce.json)
-
----
-
-### In the skull, father -in -law:
-
-*2025-09-08 14:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்டையில்-போட்டார்-மாமனார்-ம-ண்டையை-போட்டார்-மருமகன்/175-364209) · `ta`
-
-Police said that the death of a son -in -law on the spot, which was attacked by Uncle Dub and Dub Bena in the skull of Polel, on Sunday night (07) in the Talgahawatta area, which belongs to the Karandeniya Police Division in Galle.
-
-A 24 -year -old nephew from Moragoda has died. The father -in -law surrendered to the police.
-
-The nephew has been drinking with his friends in his house. As the wine party is over, the son -in -law has asked his father -in -law to bring the friends who had been drowned to their homes.
-
-However, the father -in -law refused to give his three -wheeler. The furious son -in -law has tried to attack his wife by smashing the door of the house.
-
-IFrame's father -in -law attacked his son -in -law to prevent her son -in -law. The injured son -in -law died on the spot.
-
-Karandeniya police are conducting further investigations, saying that the 58 -year -old father -in -law has surrendered to the police station.
-
-◼️
-
-[Data](articles/2672c9bc.json)
-
-[Extended Data](ext_articles/2672c9bc.ext.json)
-
----
-
-### Disciplinary inquiry underway against Dr. Palitha Rajapaksha over comments on medicine shortage
-
-*2025-09-08 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112280/disciplinary-inquiry-underway-against-dr-palitha-rajapaksha-over-comments-on-medicine-shortage) · `en`
-
-Dr. Palitha Rajapaksha from Badulla Teaching Hospital has been summoned before the Public Service Commission for a disciplinary inquiry.
-
-This is in connection with a statement he made regarding the recent shortage of medicines.
-
-When Ada Derana inquired from Dr. Palitha Rajapaksha, he stated that he is currently at the Public Service Commission following a summons issued through the Ministry of Health.
-
-Dr. Palitha Rajapaksha was commended for discharging his duties with utmost dedication during a horrific bus accident on the Ella–Wellawaya main road, last week. Dr. Palitha Rajapaksha acted with great dedication to save the lives of the victims, disregarding his own safety.
-
-◼️
-
-[Data](articles/843833b7.json)
-
-[Extended Data](ext_articles/843833b7.ext.json)
-
----
-
-### LTTE terrorists killed in clashes - 5 terrorists killed in clashes
-
-*2025-09-08 14:30:16* · [`adalk`](https://www.ada.lk/breaking_news/ජෙරුසලම-නගරයේදී-ත්‍රස්ත-ප්‍රහාරයක්---05-දෙනෙකු-මරුට/11-418352) · `si`
-
-Five persons have been killed in a shooting near a Rhothi bus stand in the northern boundary of the city of Jerusalem.
-
-Foreign media reports that nine others have been hospitalized in the shooting.
-
-Two LTTE terrorists were shot from Palestine.
-
-◼️
-
-[Data](articles/92f6a39b.json)
-
-[Extended Data](ext_articles/92f6a39b.ext.json)
-
----
-
-### Mushroom killer's life sentenced to life
-
-*2025-09-08 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214318) · `si`
-
-The Australian woman has been sentenced to three life sentences to the Australian woman, who was convicted of killing three guests and to blame three guests in the world.
-
-It is said that the impaisons are specified in 33 years.
-
-The life sentence was sentenced to 50 years old, a 50-year-old woman named Eroin Patterson.
-
-The victimized by Erin Patterson, who was found guilty, has been invited to their home for lunch.
-
-But her separated husband that day had not come and had come to his parents, aunt, and uncle.
-
-After the eating, the four of these four were injured due to illness, and after a few days, Don and Gail Pattersen died after suffering from a multi-age sickness, and his aunt had died.
-
-Meanwhile, Simon's Uncle Simon's uncle has been destroyed due to treatment.
-
-Investigations have revealed that the world's poisonous mushrooms were mixed with the food of these four.
-
-The police also investigated the meal provided by Erin, where she had the world's poisonous mushrooms.
-
-...
-
-[Data](articles/da2258f2.json)
-
-[Extended Data](ext_articles/da2258f2.ext.json)
-
----
-
-### Orders to be placed in detention until the end of the beef trial
-
-*2025-09-08 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214317) · `si`
-
-The Attorney General has informed the Colombo High Court today that the Criminal Investigation Department (CID) is a powerful drug detention officer, who has been withdrawn by the Defense Secretary under the Prevention of the Terrorism Act.
-
-Senior State Counsel Sajith Bandara has notices this case before Colombo High Court Judge Sujeewa Nissanka.
-
-The State Attorney was informed when the case was taken up with the recent past, he was remanded after the detention order issued by the Defense Secretary against the defendant.
-
-However, the Defense Secretary had decided to hold the hearing of the suspect in detail the security of the suspect in detail today.
-
-Attorney-at-Law Jaliya Samarasinghe appearing on behalf of that notification, Mr. Jaliya Samarasinghe appearing on behalf of that notice.
-
-The lawyer pointed to the court that his client was in custody for nearly two years, he was notified to retain detention orders until the case would be taken back.
-
-...
-
-[Data](articles/166f4bc0.json)
-
-[Extended Data](ext_articles/166f4bc0.ext.json)
-
----
-
-### Sri Lanka Economic and Investment Summit to focus on tourism
-
-*2025-09-08 14:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-and-investment-summit-to-focus-on-tourism-239712/) · `en`
-
-ECONOMYNEXT – Day One of the Sri Lanka Economic and Investment Summit 2025 is set to focus on how the island nation can unlock greater potential in tourism, the Ceylon Chamber of Commerce said.
-
-The session will address why Sri Lanka has struggled to unlock its full tourism potential.
-
-The discussion will focus on the need for a coordinated national effort to position Sri Lanka as a top-tier destination.
-
-Speakers will draw lessons from peer economies and examine how Sri Lanka can build a globally competitive tourism brand.
-
-The panel will feature European Union ambassador Carmen Moreno, and keynote speaker Natalie Kidd – Managing Director, Intrepid Travel – Asia.
-
-Kidd also serves on the Board of the Global Sustainable Tourism Council.
-
-...
-
-[Data](articles/474c4504.json)
-
----
-
-### I have been stealing for years: Stealing: The joy of stealing: the head of the panchayat
-
-*2025-09-08 14:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆண்டுகளாக-திருடுகிறேன்-திருடும்-போது-கிடைக்கும்-மகிழ்ச்சிக்கு-அளவில்லை-ஊராட்சி-தலைவி/175-364208) · `ta`
-
-"I have been engaged in theft for 15 years, despite money, fame and facilities," the head of the Dravida Munnetra Kazhagam, who was arrested in the Chain, has confessed.
-
-Varalakshmi, a native of Chennai, (age 50). When she returned to Chennai on a government bus from Kanchipuram, a woman stole her 5 shaving jewelery.
-
-The Coimbatore police investigated and arrested Bharathi (51 years old) from the DMK, the leader of the Nariyampattu panchayat in Tirupathur district.
-
-I, Ambur, Vaniyambadi, Tirupathur, Velur, Krishnagiri, in many places, running buses, I have stolen the attention of women.
-
-Talking with kids like good girl and engaged in jewelry. For the past 15 years, I have been involved in the theft business. I have built a commercial complex in my hometown, in the money that has sold the stolen jewelry.
-
-...
-
-[Data](articles/ca299123.json)
-
-[Extended Data](ext_articles/ca299123.ext.json)
-
----
-
-### “Harak Kata” to remain in custody under PTA until trial ends – AG Informs court
-
-*2025-09-08 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112279/harak-kata-to-remain-in-custody-under-pta-until-trial-ends-ag-informs-court) · `en`
-
-Nadun Chinthaka Wickramaratne, also known as “Harak Kata”, a prominent underworld figure allegedly linked to large-scale drug trafficking, is to remain in custody under the Prevention of Terrorism Act (PTA) until the conclusion of legal proceedings, as per a detention order issued by the Secretary to the Ministry of Defence, the Attorney General informed the Colombo High Court today (08).
-
-This submission was presented by Senior State Counsel Sajith Bandara, appearing on behalf of the Attorney General, during today’s hearing before High Court Judge Sujeewa Nissanka, Ada Derana reporter said.
-
-During a previous hearing, the State Counsel informed court that after the expiry of the initial detention order, the suspect would be produced in remand custody.
-
-However, due to security concerns, the Secretary of the Ministry of Defence has decided to extend his detention under the PTA.
-
-◼️
-
-[Data](articles/58deb281.json)
-
-[Extended Data](ext_articles/58deb281.ext.json)
-
----
-
-### CEB workers threaten to intensify trade union action if demands are not met
-
-*2025-09-08 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112278/ceb-workers-threaten-to-intensify-trade-union-action-if-demands-are-not-met) · `en`
-
-The Sri Lanka Nidahas Sewaka Sangamaya of the Ceylon Electricity Board (CEB) claims that the government has not yet paid any attention to the ongoing work-to-rule campaign initiated by CEB workers.
-
-The trade union action was launched recently in protest against the proposed restructure of the CEB into four separate entities. According to reports, the first phase of the trade union action is expected to continue until September 15.
-
-However, if the government fails to provide a satisfactory response, the union has stated that they are prepared to escalate the action into a full-scale strike.
-
-This was stated by Prabath Priyantha, the General Secretary of the CEB Nidahas Sewaka Sangamaya.
-
-◼️
-
-[Data](articles/ea59eca2.json)
-
-[Extended Data](ext_articles/ea59eca2.ext.json)
-
----
-
-### Funds for the education of children of migrant workers
-
-*2025-09-08 13:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்ந்த-தொழிலாளர்களின்-குழந்தைகளின்-கல்விக்கு-நிதி/175-364207) · `ta`
-
-The Presidential Fund is planning to implement a scholarship program to protect the education of the children of Sri Lankans affected by various disasters, including dies abroad, disabled and abroad.
-
-The President's Fund, the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism and the Foreign Employment Bureau is to implement the project, according to the implementation of "no one in education".
-
-Discussion on expanding the services of the President was held recently under the patronage of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and the President's Senior Additional Secretary and Secretary of the President's Fund Roshan Kamage.. The project was announced.
-
-The purpose of this program is to ensure the school education and university education of the children of Sri Lankan workers who face disasters abroad.. The relevant guidelines are to be released in the coming days in the coming days.
-
-...
-
-[Data](articles/51eef924.json)
-
-[Extended Data](ext_articles/51eef924.ext.json)
-
----
-
-### Disciplinary inquiry into Medical Palitha Rajapaksa
-
-*2025-09-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214316) · `si`
-
-Medical Palitha Rajapaksa, Badulla Teaching Hospital, has been called to the Public Service Commission for a disciplinary inquiry.
-
-Upon inquiry by Dr. Palitha Rajapaksa, he said that he had come to the Public Service Commission.
-
-Dr. Palitha Rajapaksa was committed to saving the lives of the victims, despite his risk of life at the Ella-Wellawaya main road.
-
-◼️
-
-[Data](articles/6c815337.json)
-
-[Extended Data](ext_articles/6c815337.ext.json)
-
----
-
-### Ice in Bogawantalawa: Two arrested
+### பொகவந்தலாவையில் ஐஸ்: இருவர் கைது
 
 *2025-09-08 13:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொகவந்தலாவையில்-ஐஸ்-இருவர்-கைது/76-364205) · `ta`
 
-Two persons from Bogawantalawa have been arrested by Norwood police with ice drugs.
+பொகவந்தலாவ பகுதியை சேர்ந்த இருவர் ஐஸ் போதைப் பொருளுடன் நோர்வூட் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
 
-Thus, 170 milligrams of ice from those arrested is a drug.
+இவ்வாறு கைது செய்யப்பட்டவர்களிடம் இருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கை பற்ற பட்டுள்ளது.
 
-Norwood police said that two suspects were arrested in the three -wheeler during a raid on the road ban on information provided by the State Intelligence Unit.
+அரச புலனாய்வு பிரிவினர் வழங்கிய  தகவலுக்கு அமைய  வீதி தடைகளை அமைத்து மேற்கொண்ட சோதனையின் போது முச்சக்கர வண்டியில் சென்ற சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டதாக நோர்வூட் பொலிஸார் தெரிவித்துள்ளனர் இவ்வாறு கைது செய்யப்பட்டவர்களிடமிருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
 
-The two are from the Bogawantalawa Siripura and Peppelton areas, said the Norwood Police Station.
+இவ்விருவரும் பொகவந்தலாவ சிரிபுர,செப்பல்டன் பகுதிகளைச் சேர்ந்தவர்கள் என   நோர்வூட் பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
 
 ◼️
 
 [Data](articles/4ee533d4.json)
-
-[Extended Data](ext_articles/4ee533d4.ext.json)
-
----
-
-### Bail for Nimal Lansa!
-
-*2025-09-08 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224519) · `ta`
-
-The Negombo High Court today (08) ordered the release of former State Minister Nimal Lansa on bail.
-
-The order was issued when Nimal Lansa, who was interrogated, was produced before the Negombo High Court today.
-
-Accordingly, the Negombo High Court has ordered Nimal Lansa to be released on two bodies worth Rs 2 lakh.
-
-Nimal Lansa has been released on bail after she surrendered on August 29 at Negombo, Negombo, on charges of attacking and use of weapons at a demonstration in 2006.
-
-◼️
-
-[Data](articles/a21f4721.json)
-
-[Extended Data](ext_articles/a21f4721.ext.json)
 
 ---
 
@@ -342,63 +66,17 @@ Foreign media reports that at least two gunmen had been shot by two gunmen.
 
 ---
 
-### Sri Lanka’s Foreign Minister to address Human Rights Council
-
-*2025-09-08 13:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-foreign-minister-to-address-human-rights-council-239708/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Foreign Affairs Vijitha Herath will address the 60th Session of the Human Rights Council, following the presentation of the report of the UN High Commissioner for Human Rights on the human rights situation in Sri Lanka.
-
-His statement will be in line with Sri Lanka’s “continued constructive engagement with the Council”, the ministry said in a statement.
-
-This will be followed by an interactive dialogue, during which Member and Observer States will make interventions.
-
-Herath will also hold bilateral meetings with countries and with the UN High Commissioner for Human Rights.
-
-The HRC is scheduled to be held from September 8 to October 8 in Geneva. (Colombo/Sep8/2025)
-
-◼️
-
-[Data](articles/6b035ab4.json)
-
----
-
 ### රක්ෂිත බන්ධනාගාරගත කර සිටි නිමල් ලන්සාට අද ලැබුණු නියෝගය මෙන්න
 
 *2025-09-08 13:23:17* · [`adalk`](https://www.ada.lk/breaking_news/රක්ෂිත-බන්ධනාගාරගත-කර-සිටි-නිමල්-ලන්සාට-අද-ලැබුණු-නියෝගය-මෙන්න/11-418351) · `si`
 
-Former State Minister Nimal Lansa, who was arrested and remanded, has been released on bail.
+අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා  මහතා ඇප මත නිදහස්  කිරීමට මීගමුව මහාධිකරණය නියෝග කර තිබේ.
 
-He was arrested recently regarding several charges including an assault in 2006.
+2006 වසරේ පහරදීමක් ඇතුළු චෝදනා කිහිපයක් සම්බන්ධයෙන් ඔහුව පසුගියදා අත්අඩංගුවට ගනු ලැබිණි.
 
 ◼️
 
 [Data](articles/ceeb5929.json)
-
-[Extended Data](ext_articles/ceeb5929.ext.json)
-
----
-
-### Woman killed three people in Australia - 33 years of unpaid life sentence!
-
-*2025-09-08 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224495) · `ta`
-
-International media reports that Australian woman Erin Patterson has been sentenced to 33 years without bail.
-
-In 2023, he was accused of killing three relatives and attempting to kill another.
-
-Subsequently, during lunch, he was convicted that Erin Patterson was guilty of his accused that he had exchanged beef with toxic mushrooms mixed with toxic mushrooms.
-
-It is reported that the 50 -year -old Erin's inquiries have not been emotional in any way, and Erin, who closed his eyes in court, opened his eyes only when he read the crime's punishment when the judge declared the verdict.
-
-Erin's former father -in -law Dan Patterson, mother -in -law Kail Patterson and Gayle's sister Heather Wilkinson died after being treated at the hospital after eating the meal on July 29, 2023.
-
-It is reported that hedhar Wilkinson's husband, Ian Wilkinson's hospital, has been treated at the hospital and survived the survival of the other person who eaten toxic food.
-
-◼️
-
-[Data](articles/addff430.json)
-
-[Extended Data](ext_articles/addff430.ext.json)
 
 ---
 
@@ -413,22 +91,6 @@ It is noteworthy that he was recently arrested and interrogated by the Cochina P
 [Data](articles/6bcac88f.json)
 
 [Extended Data](ext_articles/6bcac88f.ext.json)
-
----
-
-### Suspected terror attack at entrance to Jerusalem, some 15 injured by gunfire
-
-*2025-09-08 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112277/suspected-terror-attack-at-entrance-to-jerusalem-some-15-injured-by-gunfire) · `en`
-
-Medics are treating some 15 victims who were injured by gunfire in a suspected terror attack at the Ramot Junction entrance to Jerusalem, says the Magen David Adom ambulance service.
-
-According to preliminary reports, at least two gunmen carried out the shooting.
-
-◼️
-
-[Data](articles/655d3afe.json)
-
-[Extended Data](ext_articles/655d3afe.ext.json)
 
 ---
 
@@ -447,24 +109,6 @@ Accordingly, the 6th High Court of Negombo has released on bail.
 [Data](articles/6e5d5d7e.json)
 
 [Extended Data](ext_articles/6e5d5d7e.ext.json)
-
----
-
-### Former MP Nimal Lanza arrested over assault incident granted bail
-
-*2025-09-08 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112276/former-mp-nimal-lanza-arrested-over-assault-incident-granted-bail) · `en`
-
-Former Member of Parliament Nimal Lanza, who was arrested by the Kochchikade Police over an assault incident and subsequently remanded by court, has been granted bail, Ada Derana reporter said.
-
-Former MP Nimal Lanza was arrested on August 29 after surrendering to the Kochchikade Police.
-
-The Attorney General filed charges against the former MP in connection with an assault and trespassing incident that occurred during a protest in 2006.
-
-◼️
-
-[Data](articles/5cdac5b3.json)
-
-[Extended Data](ext_articles/5cdac5b3.ext.json)
 
 ---
 
@@ -532,26 +176,6 @@ The owner revealed that the deceased had been constantly inhumanized by his wife
 
 ---
 
-### President’s Fund to award scholarships for children of Sri Lankans affected abroad
-
-*2025-09-08 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112275/presidents-fund-to-award-scholarships-for-children-of-sri-lankans-affected-abroad) · `en`
-
-The President’s Fund has announced plans to implement a scholarship program to safeguard the education of children residing in Sri Lanka whose parents working abroad have died, become disabled, or gone missing due to various circumstances.
-
-Driven by the principle of “Leaving No One Behind in Education”, the initiative will be jointly implemented by the Presidential Fund, the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism, and the Foreign Employment Bureau.
-
-The decision was revealed during a recent meeting at the Presidential Secretariat, chaired by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, Senior Additional Secretary to the President, and Secretary to the Presidential Fund, Roshan Gamage, where the expansion of the Fund’s services was discussed.
-
-The primary objective of the program is to ensure the uninterrupted and secure education of children in Sri Lanka whose parents working overseas are affected by unforeseen tragedies.
-
-...
-
-[Data](articles/6b68b613.json)
-
-[Extended Data](ext_articles/6b68b613.ext.json)
-
----
-
 ### Baby magic is swept away from the beach of Kaluppitti!
 
 *2025-09-08 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224512) · `ta`
@@ -596,28 +220,6 @@ Accordingly, he has decided to work openly with the conviction force. "
 
 ---
 
-### Yen slides after Japan PM Ishiba resigns, dollar wobbles
-
-*2025-09-08 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112273/yen-slides-after-japan-pm-ishiba-resigns-dollar-wobbles) · `en`
-
-The yen fell sharply on Monday following the resignation of Japanese Prime Minister Shigeru Ishiba, while the dollar remained on shaky footing after Friday’s weak U.S. jobs report cemented expectations of a Federal Reserve rate cut this month.
-
-The focus for markets will also be on French Prime Minister Francois Bayrou’s confidence vote, which he is expected to lose, plunging the euro zone’s second-largest economy deeper into political crisis.
-
-Japan’s Ishiba on Sunday announced his resignation, ushering in a potentially lengthy period of policy uncertainty at a shaky moment for the world’s fourth-largest economy.
-
-The yen slumped in response in Asia trade, and was last down 0.5% against the dollar at 148.16, having pared some losses over the course of the session.
-
-The Japanese currency similarly slid to its lowest in more than a year against the euro and sterling at 173.91 and 200.33, respectively.
-
-...
-
-[Data](articles/7abfc17c.json)
-
-[Extended Data](ext_articles/7abfc17c.ext.json)
-
----
-
 ### The main point of the hill country is stuck today?
 
 *2025-09-08 12:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-முக்கிய-புள்ளி-இன்று-சிக்குவார்/76-364202) · `ta`
@@ -653,24 +255,6 @@ There are the most severe biosecurity laws in Australia. According to them, it i
 [Data](articles/28b46955.json)
 
 [Extended Data](ext_articles/28b46955.ext.json)
-
----
-
-### Sri Lanka’s Laugfs Gas deputy chairman resigns
-
-*2025-09-08 12:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-laugfs-gas-deputy-chairman-resigns-239701/) · `en`
-
-ECONOMYNEXT – Laugfs Gas director U K Thilak De Silva has resigned after selling his 39.58 percent stake in the parent company, Laugfs Holdings Limited.
-
-De Silva had transferred the entirety of his ordinary shares, 1,708,798, to Vallibel Three (Private) Limited, owned by Dhammika Perera.
-
-Upon transferring the entirety of shares he held in the parent company of Laugfs Gas, De Silva tendered his resignation from the board of directors of the company effective from September 9, according to a stock exchange filing.
-
-Laufgs is a diversified group made up of 23 businesses ranging from LPG and power to supermarkets, rubber manufacturing, emissions testing and pharmaceuticals. (Colombo/Sep8/2025)
-
-◼️
-
-[Data](articles/87eed4ab.json)
 
 ---
 
@@ -711,32 +295,6 @@ Following the raid, two suspects were arrested, 51 -year -old male and 62 -year 
 [Data](articles/d130d883.json)
 
 [Extended Data](ext_articles/d130d883.ext.json)
-
----
-
-### Namal confirmed the President in 2029
-
-*2025-09-08 12:14:59* · [`adalk`](https://www.ada.lk/breaking_news/2029දී-නාමල්-ජනපති-බව-තහවුරුයි/11-418347) · `si`
-
-Former Parliamentarian Tissa Kuttiarachchi, the Sri Lanka General Man, said that instead of the leading government of the JVP to control the country, said the Sri Lanka General Tissa Kuttiarachchi.
-
-The Govt.
-
-He was speaking at a meeting with activists of the Sri Lanka Civil Appointment in Anuradhapura yesterday (7).
-
-He said that the government is responsible for eliminating the safety of underworld and poisoning, ensuring the safety and development of the country.
-
-The present government is being carried out by politicians and the rule of law should be made to the politicians, he added.
-
-He said that although all except the Sri Lanka Front of the Sri Lanka Cran's Front will be restored to the victory of Namal Rajapaksa, no matter what obstacles in the political mechanism, he will protect the security and political profit of everyone who left for the party.
-
-Tissa Kuttiarachchi added that when political parties join the collection, but is ready to join policy and is ready to join the policy.
-
-◼️
-
-[Data](articles/2733f8ad.json)
-
-[Extended Data](ext_articles/2733f8ad.ext.json)
 
 ---
 
@@ -846,28 +404,6 @@ He also said that he has decided to work open with the conviction force.
 
 ---
 
-### Sri Lanka’s Ambeon Capital buys majority stake in Myland Developments
-
-*2025-09-08 11:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-buys-majority-stake-in-myland-developments-239690/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ambeon Capital has bought 18.5 million ordinary shares of Myland Developments, upping its stake to 51.03 percent.
-
-18,500,000 shares were bought at 8.50 a piece, Ambeon Capital said in a stock exchange announcement.
-
-Together with 3 other investors – ATX Partners, Arcasia Investment and Trading, and Sujeewa Mudalige – acting in concert with Ambeon Capital, the company will acquire 81.73 percent of the total issued shares of Myland Developments:
-
-Arcasia Investment and Trading (Private) Limited – 5,058,000 – 13.95%
-
-Ambeon and the Concert Parties, will make a mandatory offer to the remaining shareholders of Myland Developments, the company said.
-
-Myland Developments stock was trading 3.50 rupees up at 17.50. (Colombo/Sep8/225)
-
-◼️
-
-[Data](articles/d5ff30bd.json)
-
----
-
 ### Will Prime Minister Harini be sacked? Dilvin's opinion
 
 *2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/175-364196) · `ta`
@@ -888,23 +424,21 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 
 ---
 
-### Will Prime Minister Harini be sacked? Dilvin's opinion
+### பிரதமர் ஹரிணி பதவி நீக்கப்படுவாரா? டில்வின் கருத்து
 
 *2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/150-364196) · `ta`
 
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
+பிரதமர் ஹரிணி அமரசூரிய தனது பதவியில் இருந்து நீக்கப்படுவார் என்ற ஊகங்களை மக்கள் விடுதலை முன்னணியின் (ஜே.வி.பி) பொதுச் செயலாளர் டில்வின் சில்வா நிராகரித்தார்.
 
-Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
+பொதுக் கூட்டத்தில் பேசிய சில்வா, எதிர்க்கட்சி நீண்ட காலமாக ஆதாரமற்ற கூற்றுகளைப் பரப்பி வருவதாகவும், ஆனால் அவை எதுவும் நிறைவேறவில்லை என்றும் கூறினார்.
 
-"Earlier, they said that Harini Amarasuriya would lose his ministerial post
+"முன்னதாக, ஹரிணி அமரசூரிய தனது அமைச்சர் பதவியை இழப்பார் என்று அவர்கள் கூறினர்
 
-They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
+இப்போது அவர் பிரதமர் பதவியிலிருந்து நீக்கப்படுவார் என்று கூறுகின்றனர். இவை அவர்களின் கனவுகளே தவிர வேறு ஒன்றும“ஷ் இல்லை," என்று அவர் கூறினார்.
 
 ◼️
 
 [Data](articles/3ccf3fb1.json)
-
-[Extended Data](ext_articles/3ccf3fb1.ext.json)
 
 ---
 
@@ -1190,26 +724,6 @@ The session will be held today until October 08.
 
 ---
 
-### Japan helps Sri Lanka hospitals manage waste, with equipment and 5S
-
-*2025-09-08 10:18:00* · [`economynextcom`](https://economynext.com/japan-helps-sri-lanka-hospitals-manage-waste-with-equipment-and-5s-239681/) · `en`
-
-ECONOMYNEXT – Japan is providing equipment to manage infectious waste at 15 hospitals across Sri Lanka, along with training, including on 5S and Kaizen concepts, the Japanese embassy in Colombo said.
-
-Under this project, medical waste incinerators with temperature control and exhaust gas treatment systems are being provided to 15 hospitals across all 9 provinces of Sri Lanka.
-
-Together with technical training on proper waste management and equipment operation, the project aims to strengthen infection prevention and control capacity nationwide.
-
-The equipment was provided under a project for which the exchange of notes was signed in April 2023 with a grant assistance of JPY 503 million from Japan, the embassy said in a statement.
-
-Japanese ambassador Akio Isomata attended the handover ceremony at Trincomalee General Hospital, with Minister of Health Nalinda Jayathissa, and Chief Representative of Sri Lanka Office Kenji Kuronuma.
-
-...
-
-[Data](articles/2ea3a073.json)
-
----
-
 ### Two fatal accidents
 
 *2025-09-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214305) · `si`
@@ -1257,8 +771,6 @@ The Proposal to the Investment Promotion and Mutual Protection Aception was also
 ◼️
 
 [Data](articles/349e899f.json)
-
-[Extended Data](ext_articles/349e899f.ext.json)
 
 ---
 
@@ -1371,32 +883,6 @@ Further investigations into the incident are being conducted by the Grandpass Po
 [Data](articles/e1f54e79.json)
 
 [Extended Data](ext_articles/e1f54e79.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-08 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-239669/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.01/04 to the US dollar in the spot market Monday, weaker from 301.97/302.02 on Thursday, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.12.2028 was quoted at 9.00/10 percent, up from 8.98/9.08 percent.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.50/55 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.35/40 percent, down from 10.35/45 percent.
-
-A bond maturing on 01.11.2033 was quoted at 10.70/75 percent.
-
-The telegraphic transfer rates for the American dollar was 298.4000 buying, 305.4000 selling; the British pound was 401.9504 buying, and 413.2922 selling, and the euro was 347.4021 buying, 358.6073 selling.
-
-The Colombo Stocks Exchange opened in green; The ASPI was up 0.52 percent, or 109.34 points, at 21,101; the S&P SL20 was up 0.16 percent, or 9.72 points, at 6,014.
-
-...
-
-[Data](articles/55967d6f.json)
 
 ---
 
@@ -1922,26 +1408,6 @@ Many of the pages of some pages have been deceased have already been exchanged.
 
 ---
 
-### Dhammika Perera buys in to Sri Lanka’s Laugfs group
-
-*2025-09-08 06:04:00* · [`economynextcom`](https://economynext.com/dhammika-perera-buys-in-to-sri-lankas-laugfs-group-239653/) · `en`
-
-ECONOMYNEXT – Businessman Dhammika Perera is buying into Sri Lanka’s diversified Laugfs group taking a 39 percent stake of its holding company, as a founder director and Deputy Chairman Thilak de Silva exited, officials said.
-
-Laufgs has interests in liquefied petroleum gas, shipping renewable power, fuel distribution, retail, manufacturing among others.
-
-“We need huge muscle power to rescue the company,” de Silva told EconomyNext. “Someone had to exit to pave the way for an investor. It was a difficult decision. But I am happy the brand will survive.”
-
-Laugfs Gas, which has the flagship LPG business posted gross profits of 888 million for the June quarter, but had finance costs of 733 million rupees, triggering loss for the quarter. It had 12 billion rupees of long-term loans and 19 billion in short term borrowings.
-
-De Silva declined to reveal a transaction price saying it was under discussions, but market estimates range from around 5 to 7 billion rupees.
-
-...
-
-[Data](articles/b26b1806.json)
-
----
-
 ### The Geneva Meeting Series begins today
 
 *2025-09-08 05:44:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெனிவா-கூட்டத்-தொடர்-இன்று-ஆரம்பம்/175-364171) · `ta`
@@ -2047,5 +1513,473 @@ The decision follows a fatal accident on Thursday night (4) along the Ella-Wella
 [Data](articles/3c6f96da.json)
 
 [Extended Data](ext_articles/3c6f96da.ext.json)
+
+---
+
+### Japan’s PM Shigeru Ishiba resigns after election drubbing
+
+*2025-09-08 04:43:52* · [`dailyftlk`](https://www.ft.lk/news/Japan-s-PM-Shigeru-Ishiba-resigns-after-election-drubbing/56-781363) · `en`
+
+Japan’s Prime Minister Shigeru Ishiba yesterday announced he was stepping down after less than a year in the role, following two major election losses, the BBC reported.
+
+The move comes a day before his Liberal Democratic Party (LDP) was expected to vote on whether to hold an internal leadership vote that could have forced him out.
+
+The LDP has governed Japan for most of the past seven decades, but under Ishiba, it lost its majority in the lower house for the first time in 15 years and then lost its majority in the upper house in July.
+
+Japan, the world’s fourth largest economy and a key US ally, now faces a period of political uncertainty as tensions rise with China and regional insecurity mounts.
+
+“Now that a conclusion has been reached in the negotiations concerning the US tariff measures, I believe this is precisely the appropriate time,” Ishiba said, referring to a deal signed last week to ease tariffs imposed by US President Donald Trump on Japanese cars and other exports.
+
+...
+
+[Data](articles/7c5bd031.json)
+
+[Extended Data](ext_articles/7c5bd031.ext.json)
+
+---
+
+### No rule of law unless rule of men defeated
+
+*2025-09-08 03:51:12* · [`dailyftlk`](https://www.ft.lk/columns/No-rule-of-law-unless-rule-of-men-defeated/4-781350) · `en`
+
+This is a serious matter for the Government of Anura Kumara Disanayake which has declared an open war with fighting corruption
+
+Chairing the late H.L. de Silva Memorial Events in 2012, the ex-Foreign Secretary H.M.G.S. Palihakkara openly questioned whether it is the rule of men or the rule of law which would usher prosperity to a nation.1 He answered his own question and opined that what was prevailing in Sri Lanka was not the rule of law but ‘a rule’ of men. For Sri Lanka to prosper, he said that the latter should be defeated. What he presented 13 years ago is valid for Sri Lanka even today.
+
+...
+
+[Data](articles/06d71885.json)
+
+[Extended Data](ext_articles/06d71885.ext.json)
+
+---
+
+### Attack with his brother who came out of jail
+
+*2025-09-08 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224487) · `ta`
+
+The two have been arrested by the police after a man who was arrested and imprisoned with a sword was released on bail yesterday.
+
+The incident took place today in the Vaddukoddai police division.. The attack is reportedly due to a long -standing land dispute.
+
+The man who was injured in a sharp weapon has been taken to the Vaddukoddai Divisional Hospital and has been transferred to the Jaffna Teaching Hospital.
+
+Vaddukoddai police have arrested the two men and are carrying out investigations.
+
+◼️
+
+[Data](articles/218ad0ec.json)
+
+[Extended Data](ext_articles/218ad0ec.ext.json)
+
+---
+
+### Chemmani Human Massacre: New Information will reveal - Somatna Rajapaksa's wife
+
+*2025-09-08 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224486) · `ta`
+
+The main culprit in the Krishanthi Kumaraswamy assassination case of Krishanthi Kumaraswamy's assassination in the murder of Krishanthi Kumaraswamy, who stated that she would take steps to make such a consultation with her husband, Somaratna Rajapaksa to reveal what has not yet been revealed to all the media, the international community and the judiciary. Anurakumara has sent a letter again to Dissanayake.
+
+Lans Corporal Somaratne Rajapaksa, who was named as the main culprit in the murder of the school student Krishanthi Kumaraswamy, was sentenced to death, including the President's SCVIVrama 107.20225, the President of the President, SCVIVIMA, on the issue of the murder and the issue of the Semmani Human Rights issue. Sent to Anuragumara Dissanayake. Their copies were sent to Prime Minister Harini Amarasuriya and Justice Minister Harshana Nanayakkara.
+
+...
+
+[Data](articles/1a77fba8.json)
+
+[Extended Data](ext_articles/1a77fba8.ext.json)
+
+---
+
+### Govt. breaks ground on $ 140 m Rividanavi solar power project
+
+*2025-09-08 03:03:41* · [`dailyftlk`](https://www.ft.lk/business/Govt-breaks-ground-on-140-m-Rividanavi-solar-power-project/34-781340) · `en`
+
+Project to generate 100 MW, add 219 GWh annually to national grid, saving Rs. 21 b forex to power green future
+
+Includes 12 MWh battery storage and new 132 kV transmission line for grid stability
+
+First project for which Sustainable Energy Authority provided project site, access roads and all relevant approvals to investor
+
+Expects to reduce annual carbon dioxide emissions by 150,000 tons
+
+Aims to complete project by Q1 2027, implemented by Rivi Danavi—Lakdhanavi and WindForce
+
+The Government began construction of the country’s largest renewable energy project—the ‘Rividanavi’ Solar Power Park on Saturday (6), under the patronage of President Anura Kumara Disanayake.
+
+Spanning 500 acres in Kotiyagala, Monaragala District, the $ 140 million project is set to add 100 MW of clean energy to the national grid, as a key step towards achieving the target of fulfilling 70% of the country’s electricity demand from renewable energy by 2030.
+
+...
+
+[Data](articles/f1bdb602.json)
+
+[Extended Data](ext_articles/f1bdb602.ext.json)
+
+---
+
+### JW.ORG’s Colombo International Convention generates $ 7.6 m revenue, welcomes 3,500 delegates
+
+*2025-09-08 03:02:28* · [`dailyftlk`](https://www.ft.lk/business/JW-ORG-s-Colombo-International-Convention-generates-7-6-m-revenue-welcomes-3-500-delegates/34-781339) · `en`
+
+The Jehovah’s Witnesses (JW.ORG) yesterday said that its three-day International Convention of Jehovah’s Witnesses, held from 5-7 September at the Sugathadasa Indoor and Outdoor Stadium, concluded successfully, bringing together more than 3,500 international delegates from 10 countries and over 14,000 total participants, including local members.
+
+JW.ORG said in a statement: “The convention delivered a significant boost to Sri Lanka’s tourism and hospitality sector. Based on visitor turnout and extended travel itineraries, organisers estimate the event generated $ 7.6 million in direct tourism revenue. This impact follows the precedent of a similar JW.ORG gathering in 2018 that contributed $ 6.9 million to the local economy.”
+
+...
+
+[Data](articles/a887eda7.json)
+
+[Extended Data](ext_articles/a887eda7.ext.json)
+
+---
+
+### Official reserve assets inch up in August to $ 6.17 b
+
+*2025-09-08 03:01:12* · [`dailyftlk`](https://www.ft.lk/business/Official-reserve-assets-inch-up-in-August-to-6-17-b/34-781338) · `en`
+
+Official reserve assets rose marginally to $ 6.17 billion as at end-August 2025, up from $ 6.15 billion as at end-July, the latest data from the Central Bank of Sri Lanka (CBSL) showed.
+
+Reserve assets have been inching upwards since falling to $ 6.08 billion in June from a peak of $ 6.5 billion in March 2025.
+
+In August, foreign currency reserves amounted to $ 6.1 billion, up from $ 6.06 billion in July, and $ 6.02 billion in June. Gold assets amounted to $ 52 million as at end-August, up from $ 50 million the previous month, with $ 4 million held in reserves with the International Monetary Fund (IMF) unchanged.
+
+According to CBSL data, Sri Lanka’s short-term drain in foreign currency assets is $ 2 billion, comprising $ 1.2 billion in principle payments and $ 875 million in interest on loans and maturing securities and deposits within a year.
+
+...
+
+[Data](articles/771d8b41.json)
+
+[Extended Data](ext_articles/771d8b41.ext.json)
+
+---
+
+### Opening of National People's Power Public Library in Jaffna
+
+*2025-09-08 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224485) · `ta`
+
+The Jaffna office of the National People's Power was opened on Sunday (7) by the General Secretary of the People's Liberation Front, Rilvin Silva.
+
+The Library was opened at 5 pm on Sunday (7) at the National People's Power Public Relations Office at Palali Road, Kandarmadam.
+
+Fisheries and Maritime Minister Ramalingam Chandrasekhar, Members of Parliament Karunanathan Ilangumaran and Rajivan Jayachandramurthy were also present at the event.
+
+Meanwhile, a report on the murder case of the journalist Mayilvankanam Nimalarajan has been handed over to the General Secretary of the Janatha Vimukthi Peramuna (JVP) by the Jaffna Media Association.
+
+◼️
+
+[Data](articles/5302b262.json)
+
+[Extended Data](ext_articles/5302b262.ext.json)
+
+---
+
+### Sri Lanka shines at Commonwealth Business Excellence Awards 2025
+
+*2025-09-08 02:53:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-shines-at-Commonwealth-Business-Excellence-Awards-2025/34-781337) · `en`
+
+Sri Lankan Acting High Commissioner in Malaysia Mohamed Rizvi (left) handing over the trophy to a representative of Talawakelle Tea Estates. Others (from left): Maldivian Embassy in Malaysia Third Secretary Mariyam Farzana, Organising Committee Co-Chair Samrat Dutta, and Organising Committee Chair Asha Jayamanne. Category wins include; Sustainable Tech Award in ICT and IT Sector, Outstanding Contribution In Emissions Reduction Award, Best CSR in Environmental Impact Award, Women Leadership Excellence in Breaking the Bias Award, Best Workplace Culture Award in the HR Sector
+
+Sri Lankan Acting High Commissioner in Malaysia Mohamed Rizvi (left) handing over the trophy to Charnika Imbulana Munasinghe, who won the ‘Outstanding Women Leadership in Print Media’ award. Others (from left): Maldivian Embassy in Malaysia Third Secretary Mariyam Farzana, Organising Committee Co-Chair Samrat Dutta, and Organising Committee Chair Asha Jayamanne
+
+...
+
+[Data](articles/ca413859.json)
+
+[Extended Data](ext_articles/ca413859.ext.json)
+
+---
+
+### Rohan Karr appointed to The Fortress Resorts Board
+
+*2025-09-08 02:52:39* · [`dailyftlk`](https://www.ft.lk/business/Rohan-Karr-appointed-to-The-Fortress-Resorts-Board/34-781336) · `en`
+
+Leisure industry veteran Rohan Karr has been appointed as a Non-Executive Director on the Board of The Fortress Resorts PLC.
+
+Karr joined Hayleys PLC in 2019 as an Executive Director of the Board of Hayleys PLC and as the Managing Director of Hayleys Leisure PLC, which includes The Kingsbury and Amaya Resorts & Spas. He also serves as a Director on the Boards of Summer Seasons Ltd., and Greener Water Ltd., both under the Vallibel Group.
+
+Prior to joining Hayleys PLC, Karr held several senior positions at Cinnamon Hotels & Resorts, the leisure sector of John Keells Holdings, including Chief Executive Officer, Executive Vice President, Sector Head, and General Manager, overseeing the Group’s city hotels and resort chain for over 16 years. Notably, he led the launch of the ‘Cinnamon’ brand in 2005 in his capacity as Head of Brand Development.
+
+...
+
+[Data](articles/b52bbfc9.json)
+
+[Extended Data](ext_articles/b52bbfc9.ext.json)
+
+---
+
+### A few politicians mixed with the arrest of the underworld groups - Vasantha Samarasinghe
+
+*2025-09-08 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224484) · `ta`
+
+A few politicians have been disturbed after the arrest of the underworld groups.
+
+He was speaking to the media after attending an event in Colombo on Sunday (7).
+
+All the opposition parties are currently united when they take action through the law for corrupt. The people of the country must understand that all members of the opposition parties are friends.
+
+The country was a bankruptment of corruption. So how to refer to it as politics when it takes action against corrupt people.
+
+Some politicians have been disturbed after the arrest of the underworld groups.
+
+The people of the country will quickly know that the drug is associated with the drug business and the politicians. The underworld groups and drug traders have been protected in the state sponsorship of last governments.
+
+The president's dreams have now been alarmed by the arrests of the underworld groups.
+
+◼️
+
+[Data](articles/0fdc8e7b.json)
+
+[Extended Data](ext_articles/0fdc8e7b.ext.json)
+
+---
+
+### Prof. Ananda Jayawardane joins Prime Lands Residencies Board
+
+*2025-09-08 02:50:52* · [`dailyftlk`](https://www.ft.lk/business/Prof-Ananda-Jayawardane-joins-Prime-Lands-Residencies-Board/34-781335) · `en`
+
+Former Commercial Bank Chairman Prof. Ananda Jayawardane was yesterday appointed to the Board of Prime Lands Residencies PLC as a Non-Executive Director.
+
+Prof. Jayawardane has held senior roles in the public and private sectors across construction, banking, finance, manufacturing, insurance, IT, education, and science and technology.
+
+He served nine years on Commercial Bank of Ceylon PLC’s Board before retiring in April 2024. He is currently Senior Professor in Civil Engineering at the University of Moratuwa, a Non-Executive Director of HNB Assurance PLC and Mother Lanka Foundation, and serves on committees of the Central Bank and CA Sri Lanka.
+
+...
+
+[Data](articles/ec54728d.json)
+
+[Extended Data](ext_articles/ec54728d.ext.json)
+
+---
+
+### CPA Australia celebrates member achievements at Sri Lanka  Recognition Ceremony
+
+*2025-09-08 02:45:36* · [`dailyftlk`](https://www.ft.lk/business/CPA-Australia-celebrates-member-achievements-at-Sri-Lanka-Recognition-Ceremony/34-781334) · `en`
+
+CPA Australia recently hosted its annual Member Recognition Ceremony at the Shangri-La Hotel, Colombo, bringing together finance professionals, business leaders, and policymakers to celebrate the achievements of its Sri Lankan members.
+
+The event was graced by Chief Guest Treasury and Finance, Planning and Economic Development Ministry Secretary Dr. Harshana Suriyapperuma, alongside CPA Australia Chief Executive Officer Chris Freeland AM, senior representatives, and members of the profession.
+
+In his welcome address, Freeland highlighted CPA Australia’s global scale, with more than 175,000 members across 100 countries. He noted that Sri Lanka’s community of nearly 600 members continues to make significant contributions to the nation’s finance sector, business leadership, and economic development.
+
+...
+
+[Data](articles/65dc3da3.json)
+
+[Extended Data](ext_articles/65dc3da3.ext.json)
+
+---
+
+### Institute of Chartered Corporate Secretaries of Sri Lanka hosts Coffee Evening on governance regulations
+
+*2025-09-08 02:45:04* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Chartered-Corporate-Secretaries-of-Sri-Lanka-hosts-Coffee-Evening-on-governance-regulations/34-781333) · `en`
+
+From left: SEC Assistant Manager Shanika Gunasinghe, CSE Chief Regulatory Officer Nilupa Perera and People’s Leasing & Finance Director S. Sudarshan
+
+The Institute of Chartered Corporate Secretaries of Sri Lanka (ICCSSL) successfully hosted an insightful Coffee Evening on 30 July at the Granbell Hotel, Colombo 3. The event brought together Chartered Corporate Secretaries practicing as company secretaries to discuss critical issues surrounding the new governance regulations imposed on listed companies by the Colombo Stock Exchange (CSE).
+
+The evening featured a distinguished panel comprising Colombo Stock Exchange Chief Regulatory Officer Nilupa Perera, and Securities and Exchange Commission of Sri Lanka Assistant Manager – Compliance Shanika Gunasinghe. The discussion was expertly moderated by Governance Consultants Ltd. Chairman, People’s Leasing & Finance PLC Director and Sampath Bank PLC former Group Company Secretary S. Sudarshan.
+
+...
+
+[Data](articles/79da70b2.json)
+
+[Extended Data](ext_articles/79da70b2.ext.json)
+
+---
+
+### NelFarms wins two prestigious awards at Sri Lanka Clean Energy Week 2025
+
+*2025-09-08 02:43:22* · [`dailyftlk`](https://www.ft.lk/business/NelFarms-wins-two-prestigious-awards-at-Sri-Lanka-Clean-Energy-Week-2025/34-781332) · `en`
+
+From left: Sri Lanka Sustainable Energy Authority Chairman Prof. Wijendra J. Bandara, Noorani Estates Chief Financial Officer Asitha Jayamaha, and Public Utilities Commission of Sri Lanka Deputy Chairman/Commissioner Eng. Piyal Hennayake
+
+NelFarms, a pioneer in integrating renewable energy into Sri Lanka’s poultry sector, has won two top awards at the recently concluded third edition of Sri Lanka Clean Energy Week 2025.
+
+The company was honoured with: Best Solar Project Deal of the Year in the Project Showcase category and Company of the Year: Excellence in Corporate Adaptation in the Sustainability Leadership category.
+
+The event, organised by firstVIEW and powered by SolarQuarter South Asia, brought together industry leaders, innovators, and policymakers to recognise outstanding contributions to the clean energy transition.
+
+...
+
+[Data](articles/d64cad73.json)
+
+[Extended Data](ext_articles/d64cad73.ext.json)
+
+---
+
+### Nigerian business magnate explores investment opportunities in Sri Lanka
+
+*2025-09-08 02:39:18* · [`dailyftlk`](https://www.ft.lk/business/Nigerian-business-magnate-explores-investment-opportunities-in-Sri-Lanka/34-781331) · `en`
+
+From left: Hospitality and Hotel Management Consultant Brian Winston Joseph, Colombo Dockyard Chairman Lalith Ganlath, Cross River State, Nigeria former Governor Benedict Ayade, Ariya Food – Tradlanka Agricultural Enterprises Managing Director Prasad Vithanage, Tulip Hotels and Restaurants Managing Director Chandra Mohotti and Honorary Consul General of Sri Lanka in Nigeria, Govindasamy Vijeyachelvan
+
+Lawyer and Cross River State, Nigeria former Governor Benedict Ayade, was in Sri Lanka last week to explore investment opportunities in several verticals.
+
+He visited the Colombo Dockyard PLC (CDL) and Tradlanka Agricultural Enterprises Ltd. (Ariya Food), as well as several hospitality schools, to explore the possibility of forming joint ventures.
+
+Ayade said that he is seeking to formulate an agreement with Colombo Dockyard to have ship repairing facilities at several ports in Nigeria. “We are looking at a joint venture with CDL.”
+
+...
+
+[Data](articles/cc1db3f4.json)
+
+[Extended Data](ext_articles/cc1db3f4.ext.json)
+
+---
+
+### EY Sri Lanka sets out guidelines  for SVAT phaseout
+
+*2025-09-08 02:37:40* · [`dailyftlk`](https://www.ft.lk/business/EY-Sri-Lanka-sets-out-guidelines-for-SVAT-phaseout/34-781330) · `en`
+
+With the Government abolishing Simplified Value Added Tax (SVAT) from 1 October 2025, EY Sri Lanka has issued guidelines on how businesses can manage the transition and comply with strict timelines.
+
+The firm has outlined the forms, deadlines, and reporting requirements that Registered Identified Suppliers (RIS) and Registered Identified Purchasers (RIP) must follow to complete the transition.
+
+Sri Lankan businesses face a significant change in their tax compliance obligations with the withdrawal of the SVAT system from 1 October. The end of the SVAT will remove the upfront VAT suspension mechanism that exporters and other registered parties relied on to manage cash flow.
+
+All supplies and purchases after 30 September will be subject to the standard VAT system, requiring companies to manage refunds through the regular process. EY Sri Lanka has issued detailed guidance for RISs and RIPs, stressing that strict adherence to deadlines is needed to avoid compliance risks.
+
+...
+
+[Data](articles/309669ae.json)
+
+[Extended Data](ext_articles/309669ae.ext.json)
+
+---
+
+### Is India a ‘tariff king’? Not really
+
+*2025-09-08 01:58:22* · [`dailyftlk`](https://www.ft.lk/columns/Is-India-a-tariff-king-Not-really/4-781320) · `en`
+
+Indian PM Narendra Modi (left) and US President Donald Trump
+
+It goes without saying that the tariff war initiated by the US is in violation of its commitments under the WTO agreements. But then, the WTO itself has been moribund for a while. It is also worth noting that tariffs cannot be the same for all countries. It is a truism that low-income developing countries will have higher tariffs (for reasons mentioned above) compared to G7 countries
+
+There is a widespread but fallacious perception that India’s tariffs are inordinately high. There are subjective factors when it comes to a country like liveability, public courtesy, or even how foreigners are welcomed. But tariffs are quantifiable and there should really be no place for subjectivity. So, let us consider the facts in the case.
+
+...
+
+[Data](articles/a73af8c2.json)
+
+[Extended Data](ext_articles/a73af8c2.ext.json)
+
+---
+
+### Cases on modern marketing: Exploring the essentials
+
+*2025-09-08 01:50:36* · [`dailyftlk`](https://www.ft.lk/columns/Cases-on-modern-marketing-Exploring-the-essentials/4-781318) · `en`
+
+I was delighted to be there when the book titled “Essentials of Modern Marketing” was launched recently. The key role played by Denzil Indrajith Perera, one of my MBA “learning partners”, in this regard, was indeed commendable. As a “non-marketer”, I enjoyed reading it and as a case-writer I saw the richness in it. Today’s column is an exploration of such essentials.
+
+The “‘Essentials of Modern Marketing (EOMM)” is a flagship marketing series by the “Knight of Marketing”, Prof. Philip Kotler. The Sri Lankan edition of it was officially launched in cooperation with Kotler Impact Inc. and Deyo Consultancy and Advisory, recently. As one solid step in Kotler’s series of country specific editions, 22 Sri Lankan cases have been included in this valued volume. According to Denzil who represents Kotler Impact in Sri Lanka and Maldives, this is a sure showcasing of 22 local brands in the global arena with needed recognition.
+
+...
+
+[Data](articles/3bd461ed.json)
+
+[Extended Data](ext_articles/3bd461ed.ext.json)
+
+---
+
+### Taxes for life: Shaping our collective future through education
+
+*2025-09-08 01:41:55* · [`dailyftlk`](https://www.ft.lk/columns/Taxes-for-life-Shaping-our-collective-future-through-education/4-781317) · `en`
+
+The solution is clear, simple, and revolutionary: integrate age-appropriate tax education into our school curricula
+
+magine they would still ring so true centuries later. At first glance, the line may seem like a clever remark. But it holds a deeper truth: taxes much like death are a universal part of life. Inevitable, often misunderstood, and sometimes dreaded, taxes quietly power the engines of society. They fund the roads we drive on, the hospitals we depend on, the schools that shape our future, and the safety nets that protect the most vulnerable.
+
+...
+
+[Data](articles/945e2511.json)
+
+[Extended Data](ext_articles/945e2511.ext.json)
+
+---
+
+### Digital influencers and new age of marketing  in Sri Lanka: Paradigm shift in brand engagement
+
+*2025-09-08 01:35:56* · [`dailyftlk`](https://www.ft.lk/columns/Digital-influencers-and-new-age-of-marketing-in-Sri-Lanka-Paradigm-shift-in-brand-engagement/4-781316) · `en`
+
+What makes digital influencers particularly effective is their ability to forge genuine connections with their followers
+
+In the dynamic world of marketing, a quiet revolution has been reshaping the way brands communicate with their audiences. Traditional advertising strategies, once dominated by celebrity endorsements and glossy print campaigns, are now being challenged by a new and highly influential force: digital influencers. These individuals, often ordinary people with an extraordinary online presence, have become the new voices of brands. They shape consumer perceptions and drive purchasing decisions in subtle yet powerful ways.
+
+...
+
+[Data](articles/8e06dbce.json)
+
+[Extended Data](ext_articles/8e06dbce.ext.json)
+
+---
+
+### Spare a thought for the coloniser
+
+*2025-09-08 01:31:42* · [`dailyftlk`](https://www.ft.lk/columns/Spare-a-thought-for-the-coloniser/4-781315) · `en`
+
+Ahmed Abu Amsha and the children’s music group Gaza Birds Singing – Reuters
+
+I wonder: what inhuman power compels one to walk, or crawl, or locomote in any way whatsoever, towards gunfire so that another life may not end while they live? Surely, this must be the animalistic behaviour Barrack is referring to, through which the bravery of “the region” still shines forth
+
+“Do you think this is fun for us,” asked Tom Barrack, the US special envoy for Syria, addressing a group of Lebanese journalists after a meeting with President Joseph Aoun in Beirut on 26 August. Speaking what appears to be the only language he knows—that of finance—and referring to his deputy Morgan Ortagus, he further added, “Do you think this is economically beneficial for Morgan and I to be here putting up with this insanity?”
+
+...
+
+[Data](articles/ea9d55a1.json)
+
+[Extended Data](ext_articles/ea9d55a1.ext.json)
+
+---
+
+### Dayan Jayatilleka: The strategist Sri Lanka discarded
+
+*2025-09-08 01:27:12* · [`dailyftlk`](https://www.ft.lk/columns/Dayan-Jayatilleka-The-strategist-Sri-Lanka-discarded/4-781314) · `en`
+
+Dayan Jayatilleka today remains one of Sri Lanka’s sharpest political minds
+
+Sri Lanka’s only victory at Geneva was delivered by Dayan Jayatilleka. Six weeks later, he was removed under foreign pressure. Since then, Sri Lanka has never won again. The West tried to choke Sri Lanka with false accusations of war crimes. Dayan stopped them. He showed that sovereignty could be defended with clarity, courage, and coalition. And then he was betrayed
+
+He gave Sri Lanka its only victory at Geneva. Six weeks later he was thrown aside. A nation that trashes its finest minds does not deserve victory — and that is why we keep losing.
+
+For decades, Sri Lanka has stumbled through Geneva, battered by hostile resolutions and accusations of war crimes. The UN Human Rights Council became a courtroom, and Sri Lanka its permanent defendant.
+
+...
+
+[Data](articles/c5f3c563.json)
+
+[Extended Data](ext_articles/c5f3c563.ext.json)
+
+---
+
+### Is justice for war violations?
+
+*2025-09-08 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224483) · `ta`
+
+The fact that the facts of the atrocities committed by the fellow man against humanity in Sri Lanka have been revealed and waiting for justice to be established, and the land and long -awaitedness of the atrocities have begun to dissolve today without the pain of waiting.. The human wreath, which is now being said to be landlord, has begun to shake the conscience of the world. It has been silenced by those who have long denied that there are no ethnic or war crimes in Sri Lanka.
+
+The story of the famous sheep land begins with the assassination of Krishanthi Kumaraswamy. Krishanthi Kumaraswamy, who wrote the GCE Advanced Level Examination at the Chundukkuli Ladies' College, Jaffna on September 7, 1996, and his mother Rajamma Kumaraswamy, the younger brother Kumaraswamy Pranavan and the neighbor Chidambaram Kripamoorthy were killed by the army.
+
+...
+
+[Data](articles/56068f65.json)
+
+[Extended Data](ext_articles/56068f65.ext.json)
+
+---
+
+### The Upcountry Development Authority should be strengthened - PP Sivapragasam
+
+*2025-09-08 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224482) · `ta`
+
+A massive controversy over the new Villages Development Authority for the Upcountry Development Authority or Plantation Regions. There are reports that arrangements are being made to dilute the Development Authority and bring it up as part of the Plantation Community Infrastructure Ministry.
+
+Against this backdrop, Dr. PP Sivapragasam, a member of the National People's Power and Deputy Secretary of the Plantation Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Secretary, states that the Hill Development Authority should be taken as the Authority.
+
+In the document submitted to the President on this issue, Dr. Sivapragasam is a authority of the Development Authority legally established by the Parliamentary Act of 2018.
+
+...
+
+[Data](articles/53b8d8c3.json)
+
+[Extended Data](ext_articles/53b8d8c3.ext.json)
 
 ---

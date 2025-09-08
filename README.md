@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 20:09:41**
+As of **2025-09-08 20:21:31**
 
 ## Newspaper Stats
 
-*Scraped **74,809** Articles*
+*Scraped **74,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,241
 adaderanalk | 9,580
 tamilmirrorlk | 11,146
 virakesarilk | 12,217
-adaderanasinhalalk | 13,032
+adaderanasinhalalk | 13,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,809 (85.3%) of 74,809 articles have been extended.
+63,809 (85.3%) of 74,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### මේ වසරේ ගතවූ කාලය තුළ මාරක අනතුරු 1,757ක් - මරණ 1,870ක්
+
+*2025-09-08 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214335) · `si`
+
+මෙම වසරේ ජනවාරි පළමු වනදා සිට සැප්තැම්බර් 04 වනදා දක්වා කාලය තුළ සිදුවු මාරක රිය අනතුරු 1,757කින් පුද්ගලයින් 1,870 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+
+අද (08) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් රථ වාහන දිසාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා ඒ බව සඳහන් කළේය.
+
+"දිනකට 07 දෙනෙක් 08 දෙනෙක් පමණ ජීවිතක්ෂයට පත්වෙනවා විශේෂයෙන්ම මේ මාරක රිය අනතුරුවලින්. දැන් 2025 වසරේ ජනවාරි 01 වනදා සිට සැප්තැම්බර් 04 වනදා දක්වා මාරක රිය අනතුරු 1,757කින් 1,870 දෙනෙක් ජීවිතක්ෂයට පත්වෙලා තියෙනවා. ඒ නිසා මාර්ගය භාවිතාකරන රියදුරු මහතුන්, පැදිකරුවන්, පදිකයින් සහ මගීන් කියන සියලුමදෙනාම මාර්ග නීතිවලට අවනත වෙලා මාර්ග සංඥාවලට අවනතවෙලා ස්වයං පාලනයකින් කටයුතු කළ යුතුයි."
+
+◼️
+
+[Data](articles/e7cf63ca.json)
+
+---
 
 ### Police equipment used for official duties found on land in Middeniya
 
@@ -2093,21 +2109,5 @@ Officials estimate that the project will be completed within two and a half year
 [Data](articles/644c8e11.json)
 
 [Extended Data](ext_articles/644c8e11.ext.json)
-
----
-
-### Petitions against the appointment of Deshabandu as IGP
-
-*2025-09-08 10:58:24* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-පොලිස්පති-ලෙස-පත්-කිරීමට-එරෙහි-පෙත්සම්-විභාගයට-දින-නියම-වෙයි/11-418344) · `si`
-
-The Supreme Court has set the petitions to be heard on February 12 to the appointment of former President Ranil Wickremesinghe to appoint Deshabandu Tennakoon as IGP.
-
-The petitions were called before the Chief Justice of the Chief Justice Journal Surasena, Mahinda Samayawardena and Arjuna Oyawardees.
-
-◼️
-
-[Data](articles/08ad1220.json)
-
-[Extended Data](ext_articles/08ad1220.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 21:07:38**
+As of **2025-09-08 21:37:18**
 
 ## Newspaper Stats
 
-*Scraped **74,813** Articles*
+*Scraped **74,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,243
-adaderanalk | 9,580
-tamilmirrorlk | 11,146
-virakesarilk | 12,217
+adaderanalk | 9,581
+tamilmirrorlk | 11,147
+virakesarilk | 12,221
 adaderanasinhalalk | 13,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,842 (85.3%) of 74,813 articles have been extended.
+63,860 (85.4%) of 74,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### ரயில் தடம்புரண்டது : சேவைகள் பாதிப்பு
+
+*2025-09-08 21:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-சேவைகள்-பாதிப்பு/175-364235) · `ta`
+
+கொழும்பிலிருந்து அவிசாவளை நோக்கிச் சென்ற ரயில், புவக்பிட்டிய – அவிசாவளை இடையிலான பகுதியில் இன்று (8) மாலை தடம்புரண்டது.
+
+இந்த சம்பவத்தால் களனிவௌி ரயில் பாதையில் ரயில்கள் தற்போது கொஸ்கம வரை மட்டுமே இயக்கப்படுகின்றன என்று ரயில்வே திணைக்களம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/06cb7634.json)
+
+---
+
+### களனிவௌி ரயில் பாதையில் போக்குவரத்து தடை
+
+*2025-09-08 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/224573) · `ta`
+
+கொழும்பிலிருந்து அவிசாவளை நோக்கிச் சென்ற ரயில் ஒன்று, புவக்பிட்டிய – அவிசாவளை இடையிலான பகுதியில் திங்கட்கிழமை (8) மாலை தடம் புரண்டது.
+
+இந்த சம்பவத்தால் களனிவௌி ரயில் பாதையில் ரயில்கள் தற்போது கொஸ்கம வரை மட்டுமே இயக்கப்படுகின்றன என்று ரயில்வே திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1fc37093.json)
+
+---
+
+### Derailment disrupts train services on Kelani Valley line
+
+*2025-09-08 20:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112298/derailment-disrupts-train-services-on-kelani-valley-line) · `en`
+
+The Department of Railways stated that a train travelling from Colombo to Avissawella has derailed between Puwakpitiya and Avissawella railway stations this evening (8).
+
+Consequently, train services on the Kelani Valley Line have been restricted to Kosgama only, the department announced.
+
+◼️
+
+[Data](articles/5b64bf07.json)
+
+---
 
 ### Railway delegation on Kelaniweli road
 
@@ -63,6 +105,58 @@ Speaking at a media briefing held today (08), DIG Indika Hapugoda said that.
 [Data](articles/e7cf63ca.json)
 
 [Extended Data](ext_articles/e7cf63ca.ext.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை – மீள்பரிசீலனை விண்ணப்பங்கள்
+
+*2025-09-08 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224572) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையின் விடைத்தாள்களை மீள்பரிசீலனை செய்யும் விண்ணப்பங்கள் 2025 செப்டம்பர் 09ஆம் திகதி முதல் 22ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் என்று பரீட்சைகள் ஆணையாளர் நாயகம் அறிவித்துள்ளார்.
+
+பரீட்சைக்கு தோற்றிய மாணவர் பயிலும் பாடசாலையின் அதிபர் மூலமாகவே விண்ணப்பம் சமர்ப்பிக்க வேண்டும். அதற்காக, பாடசாலைக்கு வழங்கப்பட்ட பயனர் பெயர் மற்றும் கடவுச்சொல்லைப் பயன்படுத்தி https://onlineexams.gov.lk/eic/index.php/clogin/ என்ற இணையதளத்தில் SCHOOL LOGIN மூலம் உள்நுழைந்து விண்ணப்பிக்கலாம் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/904fd15c.json)
+
+---
+
+### உள்நாட்டுப் பொறிமுறை மூலம் நல்லிணக்கம் மற்றும் பொறுப்புக்கூறலை அடைய முடியும் : ஐ.நா. மனித உரிமைகள் பேரவையில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத்
+
+*2025-09-08 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224569) · `ta`
+
+இலங்கையின் இறையாண்மைக்கு முக்கியத்துவம் அளிப்பதையும், சர்வதேச தலையீடுகளை நிராகரிப்பதாகவும்  உள்நாட்டுப் பொறிமுறைகள் மூலம் நல்லிணக்கம் மற்றும் பொறுப்புக்கூறலை அடைய முடியும் என இலங்கை நம்புவதாக வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
+
+வெளித் தலையீடுகள் அதன் உள்நாட்டு நீதி மற்றும் நல்லிணக்க முயற்சிகளுக்குத் தடையாக இருக்கும் என்றும் இலங்கை மக்கள் ஒரு நியாயமான, சமமான மற்றும் வளமான சமுதாயத்தை உருவாக்க விரும்புகிறார்கள் என்றும், வெளிப்புற நடவடிக்கைகள் பிரிவினையை மட்டுமே ஏற்படுத்தும் என்றும் மேலும் தெரிவித்தார்.
+
+60 ஆவது ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக் கூட்டத்தொடரில், ஐ.நா. மனித உரிமைகள் ஆணையாளரின் இலங்கை குறித்த அறிக்கை தொடர்பாக இலங்கை அரசு சார்பில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் உரையாற்றிய போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+இலங்கை அரசாங்கம் கடந்த 11 மாதங்களில் அடைந்துள்ள முன்னேற்றங்கள், எதிர்காலத் திட்டங்கள் மற்றும் மனித உரிமைகள், நல்லிணக்கம் மற்றும் ஊழல் ஒழிப்புக்கான உறுதிப்பாடுகள் குறித்து இந்த உரையில் விரிவாக விளக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/9ed783a2.json)
+
+---
+
+### பிரதம நீதியரசரின் வாகன அணிவகுப்பை படம் பிடித்த நபர் விளக்கமறியலில்
+
+*2025-09-08 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224571) · `ta`
+
+பிரதம நீதியரசரின் வாகன அணிவகுப்பை கைப்பேசியில் வீடியோ எடுத்ததாகக் கூறப்படும் நபர், எதிர்வரும் 10ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட வேண்டும் என்று கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சந்தேக நபரை கறுவாத் தோட்டம் பொலிஸார் கைது செய்து, 8ஆம் திகதி திங்கட்கிழமை கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம முன்னிலையில் ஆஜர்படுத்தினர்.
+
+விசாரணை தொடர்ந்து நடைபெற்று வருவதாக பொலிஸார் நீதிமன்றத்தில் தெரிவித்ததுடன், சந்தேக நபரின் கைப்பேசியை அரச இரசாயன பகுப்பாய்வாளரிடம் அனுப்பி, அதுகுறித்த அறிக்கையைப் பெற அனுமதி கோரினர்.
+
+சந்தேக நபரின் சார்பில் ஆஜரான சட்டத்தரணி, அவரது வாடிக்கையாளர் வாகன அணிவகுப்பை வீடியோ எடுத்ததற்காக மன்னிப்பு கேட்டுள்ளதாகவும், எனவே அவரை பிணையில் விடுதலை செய்ய வேண்டும் எனவும் கோரினார்.
+
+ஆனால் சமர்ப்பணங்களை பரிசீலித்த நீதவான், சந்தேக நபரை 10ஆம் திகதி வரை விளக்கமறியலில் வைக்க உத்தரவிட்டதோடு, கைப்பேசியை அரச இரசாயன பகுப்பாய்வாளரிடம் அனுப்பி அறிக்கை பெறவும் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/4648bc4a.json)
 
 ---
 
@@ -576,33 +670,41 @@ The earthquake in the 2.8 Ricker was the second time the earthquake hit the eart
 
 ---
 
-### සාම්පූර්හි නව ග්‍රිඩ් උපපොළක් ඉදිකරයි
+### New Grid of Sampur builds a substation
 
 *2025-09-08 17:10:09* · [`adalk`](https://www.ada.lk/breaking_news/සාම්පූර්හි-නව-ග්‍රිඩ්-උපපොළක්-ඉදිකරයි/11-418360) · `si`
 
-විශේෂයෙන්ම පුනර්ජනනීය බලශක්ති විභවතාව ඉතා ඉහළින් ඇති දිවයිනේ නැගෙනහිරි ප්‍රදේශවල බලශක්ති සම්ප්‍රේෂණ පද්ධතිය වර්ධනය කර ශක්තිමත් කිරීම තුලින් ජාතික විදුලිබල පද්ධතියේ විශ්වාසනීයත්වය හා ස්ථායිතාව වර්ධනය කිරීම පිණිස නව ග්‍රිඩ් උපපොළක් සාම්පූර් ප්‍රදේශයේ ඉදිකිරීමට බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා අතින් මුල්ගල තැබිණි.
+Energy Minister Kumara Jayakody laid the construction of a new Grid substation in Sampur to promote the reliability of the national grid, especially in the renewable energy potential to enhance the reliability of the national grid in the island.
 
-නැගෙනහිර පළාතේ නිෂ්පාදනය වන පුනර්ජනනීය බලශක්තිය ජාතික විදුලි පද්ධතියට සම්බන්ධ කරගැනීමේ කේන්ද්‍රස්ථානයක් ලෙසද නැගෙනහිර පළාත පුරා විදුලිබල සැපයුම ඉහල නැංවීමට මෙන්ම පළාතේ කර්මාන්ත හා නිවාස සදහා අවශ්‍යය විදුලිබලය අඛණ්ඩව හා විශ්වාසනීය ලෙස ලබාදීම සහතික කිරීමටත් මෙම ග්‍රිඩ් උපපොළ පිහිටුවීම ඉතා වැදගත් වන අතර ඊළග පියවරේදී ඉදිවන 220kV සාම්පූර් හා කප්පල්තුරෛ සම්ප්‍රේෂණ මාර්ගයක් මෙන්ම කප්පල්තුරෛ සිට හබරණ දක්වා ඉදිවන කිලෝමීටර් 77ක සම්ප්‍රේෂණ මාර්ගයකින්ද සමන්විත වේ.
+The grid substation is important to ensure that the renewable energy produced in the Eastern Province to coordinate electrical supply and the electricity supply of electricity and the electricity supply of electricity and the province. The 77 transmission route is also included.
 
-...
+Speaking further the government's goal of the Minister to develop all parts of the country and the use of electricity supply to the development of electricity and the ability to renewable energy production, the maximum use of the same ability to achieve development goals. The people advised the people of the area to provide the opportunity to the people of the area and to look into the problems of the people to provide the necessary training workers.
+
+◼️
 
 [Data](articles/796f852c.json)
 
+[Extended Data](ext_articles/796f852c.ext.json)
+
 ---
 
-### රේස් පැද්ද බස් දෙකේ ගමන්වාර තාවකාලිකව අත්හිටුවයි
+### Two race teased suspended
 
 *2025-09-08 17:06:56* · [`adalk`](https://www.ada.lk/breaking_news/රේස්-පැද්ද-බස්-දෙකේ-ගමන්වාර-තාවකාලිකව-අත්හිටුවයි/11-418359) · `si`
 
-මහනුවර සිට හැටන් දක්වා (06) දින රාත්‍රියේ අධික වේගයෙන් අන්තරාදායක ලෙස එකම දිසාවට පෞද්ගලික බස් රථ දෙකේ ගමන් වාර විමර්ෂණයකට යටත්ව ගමන් වාර (08) දින සිට අත්හිටුවීමට මධ්‍යම පළාත් මාර්ගස්ථ ප්‍රවාහන අධිකාරියේ සභාපති සී. ප්‍රියංකර මහතා පියවර ගෙන ඇත.
+From Kandy to Hatton (06) at the same district, the Central Province Road Transport Authority Chairman C Presidential suspended. Priyankara has taken steps.
 
-බස් රථ දෙක මාර්ග නීති උල්ලංගණය කරමින් ධාවනය කරන අයුරු මාධ්‍ය මගින් හෙලිදරවු කිරිමෙන් පසු ඒ පිලිබදව අවධානය යොමු කල මධ්‍යම පළාත් මාර්ගස්ථ ප්‍රවාහන අධිකාරියේ සභාපතිවරයා එම බස් රථ දෙකේ ගමන් වාර විමර්ෂණය අවසන් වනතෙක් තාවකාලිකව නතර කිරිමට පියවර ගෙන ඇත.
+The Chairman of the Central Province Road Transport Authority has temporarily halted the journey of the two buses on the two buses on the two buses.
 
-බස් රථ දෙකම මහනුවර බස් නැවතුම්පොලේ සිට අවස්ථා දෙකකදී ගමන් ආරම්භ කර ඇති අතර, ප්‍රථමයෙන් ධාවනය වූ බස් රථය ගිනිගත්හේන ප්‍රදේශයේදි හමු වීමත් සමග  එම බස් රථ දෙකේ රියදුරන් හැටන් බස් නැවතුම්පොල දක්වා අධික වේගයෙන් අන්තරාදායක ලෙස බස් රථ ධාවනය කරවන අයුරු බස් රථ දෙකේ පසුපස යතුරු පැදියක පසුපස ගමන් ගත් පුද්ගලයෙකු විසින් ජංගම දුරකථනයෙන් පටිගත කර හැටන් කොට්ඨාශභාර පොලිස් අධිකාරි ප්‍රදීප් වීරසේකර මහතා වෙත පැමිණිල්ලක් වශයෙන් ඉදිරිපත් කර තිබුණි.
+Both buses have begun on two occasions on two occasions when the bus drivers were traveling in the Ginigathena area.
 
-...
+The two drivers were immediately informed of the two drivers who were immediately informed of the two drivers from the Hatton Police.
+
+◼️
 
 [Data](articles/98ec082c.json)
+
+[Extended Data](ext_articles/98ec082c.ext.json)
 
 ---
 
@@ -1971,133 +2073,5 @@ Myland Developments stock was trading 3.50 rupees up at 17.50. (Colombo/Sep8/225
 [Data](articles/d5ff30bd.json)
 
 [Extended Data](ext_articles/d5ff30bd.ext.json)
-
----
-
-### Will Prime Minister Harini be sacked? Dilvin's opinion
-
-*2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/175-364196) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
-
-Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
-
-"Earlier, they said that Harini Amarasuriya would lose his ministerial post
-
-They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
-
-◼️
-
-[Data](articles/307f2920.json)
-
-[Extended Data](ext_articles/307f2920.ext.json)
-
----
-
-### Will Prime Minister Harini be sacked? Dilvin's opinion
-
-*2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/150-364196) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
-
-Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
-
-"Earlier, they said that Harini Amarasuriya would lose his ministerial post
-
-They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
-
-◼️
-
-[Data](articles/3ccf3fb1.json)
-
-[Extended Data](ext_articles/3ccf3fb1.ext.json)
-
----
-
-### UNHRC Resolution: Will India, South Africa and Japan back Sri Lanka?
-
-*2025-09-08 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112270/unhrc-resolution-will-india-south-africa-and-japan-back-sri-lanka) · `en`
-
-The 60th session of the United Nations Human Rights Council (UNHRC) will be extremely decisive for Sri Lanka, former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Prathiba Mahanamahewa stated.
-
-The 60th session of the UNHRC is scheduled to commence today (08) and the interactive dialogue on the report of the Office of the High Commissioner for Human Rights is scheduled to take place this afternoon.
-
-Prathiba Mahanamahewa said that during this session, a resolution against Sri Lanka is likely to be proposed, and that it is a continuation of a series of similar resolutions that have been brought forward since 2010.
-
-He noted that by continuously presenting such resolutions, allegations are being made that Sri Lanka is a country that systematically violates human rights, particularly in relation to alleged violations of the human rights of people in the Northern Province.
-
-...
-
-[Data](articles/b43a99c4.json)
-
-[Extended Data](ext_articles/b43a99c4.ext.json)
-
----
-
-### Two train tracks from Badulla to Colombo
-
-*2025-09-08 11:19:29* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-කොළඹ-එන්න-ආපු-දුම්රිය-දෙකක්-පීලි-පනියි/11-418345) · `si`
-
-Railway Passengers were severely embarrassed by the Naval Menike train from Badulla to Colombo Fort this morning.
-
-Udarata Menike Railway train was suddenly staged by the Emi Railway Archin Bridge at the Badulla Fort at 6.50 am from the Badulla Fort at 6.50 am.
-
-The Railways was later rescued from the Railway Engine from the Badulla Railways after the railway machinery and stopped the railway engine.
-
-Meanwhile, the Colombo Fort from Badulla to 1.45 pm from Badulla Fort and the Colombo Fort from Badulla to Colombo Fort, the railway station was raised from Haliela to Badulla.
-
-The Railway Department said that the Railway Railway Railway Station was submerged from Colombo Fort from Fort to Badulla.
-
-◼️
-
-[Data](articles/ab89bb35.json)
-
-[Extended Data](ext_articles/ab89bb35.ext.json)
-
----
-
-### Carlos alreas wins the sixth Grand Slam Championship
-
-*2025-09-08 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214308) · `si`
-
-Aklis, Spain, has won the US Open Tennis Championship this year.
-
-In the final, Janik cinener of Italy defeated 1 to 1 rounds.
-
-The first round of the match was won by Alkaraz as 2 to 2 runs.
-
-However, Carlos Alkraz won 1 to six crucial third and four tournaments.
-
-Accordingly, the victory was reportedly as the 6th Grand Slam championship.
-
-◼️
-
-[Data](articles/5acbf362.json)
-
-[Extended Data](ext_articles/5acbf362.ext.json)
-
----
-
-### Green boyfriend arrested
-
-*2025-09-08 11:18:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர்ந்த-பெரிய-காதலன்-கைது/175-364195) · `ta`
-
-A 27 -year -old youth from Badalkumbara has been arrested by police for allegedly raping a girl who is 15 and 4 months old.
-
-The girl, angry with her mother and father, visited her sister's house in Kelaniya on August 26. The father lodged a complaint with the police that his youngest daughter was missing. The police, who have investigated the complaint, have brought the girl to the medical examination.
-
-According to the inquiries carried out by the Athumi, I fell in love with a young man in the area.
-
-I went to Periyappa's house on February 28 with him. There was only the daughter of Periyappa. The boyfriend came to the house in a short time.
-
-Subsequently, in the room of Periyappa's daughter, she told the police that she was a husband and wife with her boyfriend.
-
-He told the police that he had left the house because he could not bear the incident.
-
-...
-
-[Data](articles/0c2e3ca0.json)
-
-[Extended Data](ext_articles/0c2e3ca0.ext.json)
 
 ---

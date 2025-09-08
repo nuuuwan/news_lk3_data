@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 23:20:15**
+As of **2025-09-08 23:07:33**
 
 ## Newspaper Stats
 
-*Scraped **74,823** Articles*
+*Scraped **74,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,244
 adaderanalk | 9,581
-tamilmirrorlk | 11,148
+tamilmirrorlk | 11,147
 virakesarilk | 12,221
 adaderanasinhalalk | 13,036
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,005 (85.5%) of 74,823 articles have been extended.
+63,979 (85.5%) of 74,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### பிரெஞ்சு அரசாங்கம் கவிழ்ந்தது
-
-*2025-09-08 22:55:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரெஞ்சு-அரசாங்கம்-கவிழ்ந்தது/50-364237) · `ta`
-
-தனது அரசாங்கம் மீது தான் கோரிய நம்பிக்கை வாக்கெடுப்பில் பிரெஞ்சுப் பிரதமர் பொஸ்வா பைரூ தோல்வியடைந்துள்ளார்.
-
-பிரதமர் பைரூவை பதவியிலிருந்து வெளியேற்றவும், அவரது சிறுபான்மை அரசாங்கத்தை கவிழ்க்கவும் பிரெஞ்சு தேசிய சட்டசபையானது 364 -194 என்ற வகையில் வாக்களித்திருந்தது. இன்னொரு 25 பாராளுமன்ற உறுப்பினர்கள் வாக்கெடுப்பில் கலந்துகொள்ளவில்லை.
-
-இந்நிலையில் நாளை காலை தனது இராஜினாமாவை பிரதமர் பைரூ, ஜனாதிபதி இமானுவேல் மக்ரோனிடம் கையளிக்கவுள்ளார்.
-
-◼️
-
-[Data](articles/994eba6a.json)
-
----
 
 ### Police explain to a false news circulating on social media
 
@@ -2079,5 +2063,23 @@ Accordingly, he further noted that the UNP has decided to work transparently and
 [Data](articles/fc063959.json)
 
 [Extended Data](ext_articles/fc063959.ext.json)
+
+---
+
+### A severe accident in Wellawaya
+
+*2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
+
+A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
+
+Two traders were injured and admitted to the Wellawaya Base Hospital.
+
+The lorry has flipled through the road, and the road has also been interrupted due to the road.
+
+◼️
+
+[Data](articles/b2cc3b64.json)
+
+[Extended Data](ext_articles/b2cc3b64.ext.json)
 
 ---

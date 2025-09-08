@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 00:22:43**
+As of **2025-09-09 01:05:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,033 (85.6%) of 74,832 articles have been extended.
+64,046 (85.6%) of 74,832 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,6 +60,8 @@ More than 15 years have passed since Sri Lanka’s armed conflict ended in May 2
 
 [Data](articles/763e0018.json)
 
+[Extended Data](ext_articles/763e0018.ext.json)
+
 ---
 
 ### Ranil and Aragalaya effect
@@ -73,6 +75,8 @@ RW is feeling the Aragalaya effect and let the judiciary handle the matter witho
 ...
 
 [Data](articles/811efb9b.json)
+
+[Extended Data](ext_articles/811efb9b.ext.json)
 
 ---
 
@@ -105,6 +109,8 @@ The election of President Anura Kumara Disanayake in September 2024, and the lan
 ...
 
 [Data](articles/2103700a.json)
+
+[Extended Data](ext_articles/2103700a.ext.json)
 
 ---
 

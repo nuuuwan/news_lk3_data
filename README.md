@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 22:22:01**
+As of **2025-09-08 22:11:21**
 
 ## Newspaper Stats
 
-*Scraped **74,821** Articles*
+*Scraped **74,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,244
+adalk | 7,243
 adaderanalk | 9,581
 tamilmirrorlk | 11,147
 virakesarilk | 12,221
@@ -26,27 +26,25 @@ adaderanasinhalalk | 13,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,931 (85.4%) of 74,821 articles have been extended.
+63,906 (85.4%) of 74,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### Dig and wife and nine remanded again on trending incident
+### නිධන් හැරීමේ සිද්ධිය සම්බන්ධයෙන් DIG සහ බිරිඳ ඇතුළු නවදෙනා යළි රිමාන්ඩ්
 
 *2025-09-08 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214337) · `si`
 
-The DIG and her wife, including his wife and his wife, were remanded for the abuse of a treasure hunting incident.
+නිධන් හෑරීමේ සිද්ධියක් සම්බන්ධයෙන් ආධාර අනුබල දීමේ චෝදනාවකට රක්ෂිත බන්ධනාගර ගතකර සිටි නියෝජ්‍ය පොලිස්පතිවරයා සහ ඔහුගේ බිරිඳ ඇතුළු නවදෙනා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
 
-Additional Magistrate Nalaka Sanjeewa Jayasuriya has ordered that they were produced before the Anuradhapura Magistrate's Court today.
+අද (08) ඔවුන් අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව සැප්තැම්බර් 22 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස අතිරේක මහෙස්ත්‍රාත් නාලක සංජීව ජයසූරිය මහතා විසින් නියෝගය කර ඇත.
 
-The DIG and her wife, including the DIG and his wife, have been accused of treasure hunting of land at the temple near the temple in Vankupura.
+ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හාරමින් සිටි බව කියන සිද්ධියක් සම්බන්ධයෙන් නියෝජ්‍ය පොලිස්පතිවරයා සහ ඔහුගේ බිරිඳ ඇතුළු නවදෙනාට එරෙහිව චෝදනා එල්ලවී ඇත.
 
 ◼️
 
 [Data](articles/91e84783.json)
-
-[Extended Data](ext_articles/91e84783.ext.json)
 
 ---
 
@@ -685,26 +683,6 @@ Vajira Abeywardena added that the party has decided to work openly and collectiv
 [Data](articles/85862e02.json)
 
 [Extended Data](ext_articles/85862e02.ext.json)
-
----
-
-### දළඳා මාළිගාවේ වැඩ බලන නිලමේ ලෙස නිලංග දෑලම පත්කරයි
-
-*2025-09-08 17:14:24* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-මාළිගාවේ-වැඩ-බලන-නිලමේ-ලෙස-නිලංග-දෑලම-පත්කරයි/11-418361) · `si`
-
-මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතාගේ දෙවැනි ධූර කාලය ඊයේ (07) දින මධ්‍යම රාත්‍රියෙන් අවසන් වූවායින් පසු ඉදිරි මාස තුනක කාලයේ වැඩ බැලීම සඳහා හිටපු දියවඩන නිලමේ වරයාම පත් කොට තිබේ.
-
-මල්වතු අස්ගිරි මහා නා හිමිවරුන්ගේ නිර්දේශ මත බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් වරයා විසින් එම පත්කිරීම සිදුකොට තිබේ.
-
-නව දියවඩන නිලමේවරයකු පත්කර ගැනීම සඳහා වූ ඡන්දය දෙසැම්බර් මස 07 වන දිනට පෙර නැවැත්විය යුතුව ඇති අතර එය බොහෝ විට නොවැම්බර් මාසය අවසානයේදී බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් වරයාගේ අධීක්ෂණය මත පැවැත්වෙනු ඇති බව සඳහන්ය.
-
-මෙම නිලවරණය සඳහා හිටපු දියවඩන නිලමේ නිලංග දෑල මහතාද ඉදිරිපත් වන බව දැනුම් දී ඇති අතර නම් ඒකෙන් ඔහු මෙවර නිලවරණයෙන් ද  කළහොත් ඉතිහාසයේ වැඩිම කාලයක් දියවඩන නිලමේ තනතුර දැරූ පුද්ගලයා ලෙස ඉතිහාසගත වනු ඇති.
-
-මෙවර නිලවරණය සඳහා නාථ දේවාලයේ බස්නායක නිලමේ තැන්පත් ඒ.ඩබ්ලිව්.එස්. බණ්ඩාරනායක මහතා ද කතරගම දේවාලයේ බස්නායක නිලමේ දුමින්ද බණ්ඩාර උඩුරාවන මහතාද ඉදිරිපත් වන බවට සම්ප්‍රදානුකූලව මල්වතු අසිරි මහනාහිමි වරුන්ට දැහැත් දී තිබේ.
-
-◼️
-
-[Data](articles/2e415b10.json)
 
 ---
 
@@ -2079,5 +2057,27 @@ Accordingly, the hearing of the petition was adjourned until February 12, 2026.
 [Data](articles/49980d4d.json)
 
 [Extended Data](ext_articles/49980d4d.ext.json)
+
+---
+
+### UNP decides to work with the forces of the opposition
+
+*2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
+
+The UNP has decided to continue with the reconciliation and other political parties in the preliminary discussions.
+
+The United National Party (UNP) has also intended to act through a committee or similar mechanism to deal with the opposition parties, including the unity force.
+
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and other matters with the opposition parties.
+
+The Chairman of the UNP Vajira Abeywardena said the UNP has decided to continue in the discussions with agreements.
+
+He also said that he has decided to work open with the conviction force.
+
+◼️
+
+[Data](articles/61017216.json)
+
+[Extended Data](ext_articles/61017216.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 00:22:43**
+As of **2025-09-09 00:12:25**
 
 ## Newspaper Stats
 
-*Scraped **74,832** Articles*
+*Scraped **74,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 762
 economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
-dailyftlk | 5,304
+dailyftlk | 5,300
 adalk | 7,244
 adaderanalk | 9,583
 tamilmirrorlk | 11,148
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,033 (85.6%) of 74,832 articles have been extended.
+64,033 (85.6%) of 74,828 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,34 +48,6 @@ Accordingly, 364 MPs have been given 364 MPs against the Bhire and 194 members i
 
 ---
 
-### Double standards in Geneva: Sri Lanka’s journey and Core Group’s contradictions
-
-*2025-09-08 23:01:32* · [`dailyftlk`](https://www.ft.lk/columns/Double-standards-in-Geneva-Sri-Lanka-s-journey-and-Core-Group-s-contradictions/4-781383) · `en`
-
-Selectivity weakens not only resolutions on Sri Lanka but the credibility of the entire multilateral system
-
-More than 15 years have passed since Sri Lanka’s armed conflict ended in May 2009. The years since have been difficult, but also marked by important progress. Successive Governments have pursued policies of reconciliation and accountability. The Lessons Learnt and Reconciliation Commission (LLRC), appointed in 2010, produced a comprehensive report in 2011 with recommendations on governance, reconciliation, and human rights. In 2016, Parliament established the Office on Missing Persons (OMP) to trace thousands unaccounted for during the war, and in 2018 the Office for Reparations was created to address the needs of victims and their families.
-
-...
-
-[Data](articles/763e0018.json)
-
----
-
-### Ranil and Aragalaya effect
-
-*2025-09-08 22:55:46* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-and-Aragalaya-effect/4-781382) · `en`
-
-RW is feeling the Aragalaya effect and let the judiciary handle the matter without any outside interference. No one is above the law
-
-“Araciyal pizhaiththorku aram koottakum” (Cilappathikaram) (Justice, the messenger of death to those who misgovern)
-
-...
-
-[Data](articles/811efb9b.json)
-
----
-
 ### The French government toppled
 
 *2025-09-08 22:55:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரெஞ்சு-அரசாங்கம்-கவிழ்ந்தது/50-364237) · `ta`
@@ -91,20 +63,6 @@ Prime Minister Pyroo will hand over his resignation tomorrow morning to Presiden
 [Data](articles/994eba6a.json)
 
 [Extended Data](ext_articles/994eba6a.ext.json)
-
----
-
-### Sri Lanka’s National People’s Power faces legacy of civil war
-
-*2025-09-08 22:42:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-National-People-s-Power-faces-legacy-of-civil-war/4-781381) · `en`
-
-President Anura Kumara Disanayake and his National People’s Power Government are struggling to build a more stable, inclusive political culture in Sri Lanka. A mix of bold action and political skill will be needed. Support from the UN Human Rights Council can help.
-
-The election of President Anura Kumara Disanayake in September 2024, and the landslide parliamentary victory of his National People’s Power (NPP) alliance two months later, have ignited hope throughout Sri Lanka. Elected on a mandate to eliminate the widely reported large-scale corruption, nepotism and abuse of power that contributed to the country’s economic collapse in 2022, the NPP appealed to voters in large part because it lacked experience in office and was distant from the elite-dominated parties that had ruled Sri Lanka since independence in 1948. Among their more soaring goals, Disanayake and the NPP pledged to fight impunity and establish a “new political culture”.
-
-...
-
-[Data](articles/2103700a.json)
 
 ---
 
@@ -127,22 +85,6 @@ The trials involved 48 volunteers and were conducted by Russia’s National Medi
 [Data](articles/2ae02176.json)
 
 [Extended Data](ext_articles/2ae02176.ext.json)
-
----
-
-### Ex-President’s arrest in Sri Lanka: Some should not be more equal than others
-
-*2025-09-08 22:20:35* · [`dailyftlk`](https://www.ft.lk/columns/Ex-President-s-arrest-in-Sri-Lanka-Some-should-not-be-more-equal-than-others/4-781380) · `en`
-
-There cannot be any doubt except in the minds of those who considered themselves as members of the “some are more equal than others” collective, that a cultural change is needed to ensure every citizen adheres to the law of the land irrespective of their status
-
-“Some are more equal than others” is a paradoxical phrase from George Orwell’s allegorical novel Animal Farm that highlights societal hypocrisy, where the concept of equality is proclaimed but a privileged few receive preferential treatment
-
-Theatrics in Sri Lankan politics has reached a crescendo with the arrest, remanding and bail out of Ranil Wickremesinghe, former President, Prime Minister, Leader of the Opposition and Member of Parliament since 1977.
-
-...
-
-[Data](articles/4e0916a4.json)
 
 ---
 
@@ -2045,5 +1987,85 @@ Accordingly, he has decided to work openly with the conviction force. "
 [Data](articles/bfa8ef54.json)
 
 [Extended Data](ext_articles/bfa8ef54.ext.json)
+
+---
+
+### Yen slides after Japan PM Ishiba resigns, dollar wobbles
+
+*2025-09-08 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112273/yen-slides-after-japan-pm-ishiba-resigns-dollar-wobbles) · `en`
+
+The yen fell sharply on Monday following the resignation of Japanese Prime Minister Shigeru Ishiba, while the dollar remained on shaky footing after Friday’s weak U.S. jobs report cemented expectations of a Federal Reserve rate cut this month.
+
+The focus for markets will also be on French Prime Minister Francois Bayrou’s confidence vote, which he is expected to lose, plunging the euro zone’s second-largest economy deeper into political crisis.
+
+Japan’s Ishiba on Sunday announced his resignation, ushering in a potentially lengthy period of policy uncertainty at a shaky moment for the world’s fourth-largest economy.
+
+The yen slumped in response in Asia trade, and was last down 0.5% against the dollar at 148.16, having pared some losses over the course of the session.
+
+The Japanese currency similarly slid to its lowest in more than a year against the euro and sterling at 173.91 and 200.33, respectively.
+
+...
+
+[Data](articles/7abfc17c.json)
+
+[Extended Data](ext_articles/7abfc17c.ext.json)
+
+---
+
+### The main point of the hill country is stuck today?
+
+*2025-09-08 12:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-முக்கிய-புள்ளி-இன்று-சிக்குவார்/76-364202) · `ta`
+
+One of the main union and the political party in the hill country has appeared in the Commission to Investigate Correction of Bribery or Corruption today (08).
+
+According to the Commission, he has been invited to make a confession on the improper building permit by him in the past.
+
+◼️
+
+[Data](articles/ca39d1f4.json)
+
+[Extended Data](ext_articles/ca39d1f4.ext.json)
+
+---
+
+### Fines for famous actress
+
+*2025-09-08 12:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அரை-முழம்-மல்லிகையால்-பிரபல-நடிகைக்கு-அபராதம்/54-364201) · `ta`
+
+Australian Airport Administration Rs.. 1.25 lakh fines have been taken.
+
+Actress Navya Nair from Malayalam film industry has also acted in more than 5 films in Tamil language. He went to the Onam festival in Victoria, Australia and he was about 15 cm.. He has carried the size of the jasmine flower.
+
+Officers who raided actress Navya's possessions at the Melbourne International Airport have found a fine of Rs 1.25 lakh at the airport after she found a jasmine flower.
+
+Speaking at a function in Victoria, he said that his father had bought him a jasmine flower and had one half of it from Kochi to Singapore and kept the remaining half in his handbag.
+
+There are the most severe biosecurity laws in Australia. According to them, it is not generally allowed to carry any new plant products in the plane. Flowers or plants from abroad considers that there may be insects that are not in Australia, germs or weed seeds.
+
+...
+
+[Data](articles/28b46955.json)
+
+[Extended Data](ext_articles/28b46955.ext.json)
+
+---
+
+### Sri Lanka’s Laugfs Gas deputy chairman resigns
+
+*2025-09-08 12:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-laugfs-gas-deputy-chairman-resigns-239701/) · `en`
+
+ECONOMYNEXT – Laugfs Gas and Laugfs Power director U K Thilak De Silva has resigned after selling his 39.58 percent stake in the parent company, Laugfs Holdings Limited.
+
+De Silva had transferred the entirety of his ordinary shares, 1,708,798, to Vallibel Three (Private) Limited, owned by Dhammika Perera.
+
+Upon transferring the entirety of shares he held in the parent company of Laugfs Gas, De Silva tendered his resignation from the boards of Laugfs Gas and Laugfs Power effective from September 9, according to stock exchange filings.
+
+Laufgs is a diversified group made up of 23 businesses ranging from LPG and power to supermarkets, rubber manufacturing, emissions testing and pharmaceuticals. (Colombo/Sep8/2025)
+
+◼️
+
+[Data](articles/87eed4ab.json)
+
+[Extended Data](ext_articles/87eed4ab.ext.json)
 
 ---

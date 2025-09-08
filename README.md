@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 22:11:21**
+As of **2025-09-08 23:20:15**
 
 ## Newspaper Stats
 
-*Scraped **74,820** Articles*
+*Scraped **74,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,73 @@ economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,243
+adalk | 7,244
 adaderanalk | 9,581
-tamilmirrorlk | 11,147
+tamilmirrorlk | 11,148
 virakesarilk | 12,221
-adaderanasinhalalk | 13,035
+adaderanasinhalalk | 13,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,906 (85.4%) of 74,820 articles have been extended.
+64,005 (85.5%) of 74,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### නිධන් හැරීමේ සිද්ධිය සම්බන්ධයෙන් DIG සහ බිරිඳ ඇතුළු නවදෙනා යළි රිමාන්ඩ්
+### பிரெஞ்சு அரசாங்கம் கவிழ்ந்தது
+
+*2025-09-08 22:55:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரெஞ்சு-அரசாங்கம்-கவிழ்ந்தது/50-364237) · `ta`
+
+தனது அரசாங்கம் மீது தான் கோரிய நம்பிக்கை வாக்கெடுப்பில் பிரெஞ்சுப் பிரதமர் பொஸ்வா பைரூ தோல்வியடைந்துள்ளார்.
+
+பிரதமர் பைரூவை பதவியிலிருந்து வெளியேற்றவும், அவரது சிறுபான்மை அரசாங்கத்தை கவிழ்க்கவும் பிரெஞ்சு தேசிய சட்டசபையானது 364 -194 என்ற வகையில் வாக்களித்திருந்தது. இன்னொரு 25 பாராளுமன்ற உறுப்பினர்கள் வாக்கெடுப்பில் கலந்துகொள்ளவில்லை.
+
+இந்நிலையில் நாளை காலை தனது இராஜினாமாவை பிரதமர் பைரூ, ஜனாதிபதி இமானுவேல் மக்ரோனிடம் கையளிக்கவுள்ளார்.
+
+◼️
+
+[Data](articles/994eba6a.json)
+
+---
+
+### Police explain to a false news circulating on social media
+
+*2025-09-08 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214338) · `si`
+
+The police have issued a press release regarding a pseudo-circulating circulating on social media.
+
+Five members of organized crime and drug dealers have been arrested by the Sri Lanka Police on 30.08.2015 with the assistance of the Sri Lankan police in Indonesia on 30.08.2015.
+
+According to the suspects, the suspects were found in two containers to be produced in both containers in the country.
+
+The Western Province, the Director of the Western Criminal Division of the Western Criminal Division of the Western Criminal Division of the Western Criminal Division of the Western Criminal Division of the Western Criminal Division of the Western Criminal Division, the Western Criminal Division is currently undergoing a photograph of the Western Criminal Division of the Western Criminal Division.
+
+...
+
+[Data](articles/38ff32e1.json)
+
+[Extended Data](ext_articles/38ff32e1.ext.json)
+
+---
+
+### Dig and wife and nine remanded again on trending incident
 
 *2025-09-08 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214337) · `si`
 
-නිධන් හෑරීමේ සිද්ධියක් සම්බන්ධයෙන් ආධාර අනුබල දීමේ චෝදනාවකට රක්ෂිත බන්ධනාගර ගතකර සිටි නියෝජ්‍ය පොලිස්පතිවරයා සහ ඔහුගේ බිරිඳ ඇතුළු නවදෙනා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+The DIG and her wife, including his wife and his wife, were remanded for the abuse of a treasure hunting incident.
 
-අද (08) ඔවුන් අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව සැප්තැම්බර් 22 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස අතිරේක මහෙස්ත්‍රාත් නාලක සංජීව ජයසූරිය මහතා විසින් නියෝගය කර ඇත.
+Additional Magistrate Nalaka Sanjeewa Jayasuriya has ordered that they were produced before the Anuradhapura Magistrate's Court today.
 
-ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හාරමින් සිටි බව කියන සිද්ධියක් සම්බන්ධයෙන් නියෝජ්‍ය පොලිස්පතිවරයා සහ ඔහුගේ බිරිඳ ඇතුළු නවදෙනාට එරෙහිව චෝදනා එල්ලවී ඇත.
+The DIG and her wife, including the DIG and his wife, have been accused of treasure hunting of land at the temple near the temple in Vankupura.
 
 ◼️
 
 [Data](articles/91e84783.json)
+
+[Extended Data](ext_articles/91e84783.ext.json)
 
 ---
 
@@ -683,6 +721,28 @@ Vajira Abeywardena added that the party has decided to work openly and collectiv
 [Data](articles/85862e02.json)
 
 [Extended Data](ext_articles/85862e02.ext.json)
+
+---
+
+### Nilanga demos as Acting Nilame on the Dalada Maligawa
+
+*2025-09-08 17:14:24* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-මාළිගාවේ-වැඩ-බලන-නිලමේ-ලෙස-නිලංග-දෑලම-පත්කරයි/11-418361) · `si`
+
+After the end of the historic Sri Dalada Maligawa Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage, Kandy has been appointed to work in the next three months.
+
+The Commissioner General of Buddhist Affairs has been appointed on the recommendations of the Malwathu Asgiriya Textians.
+
+The vote to appoint a new Diyawadana Nilame must be stopped before December 07, and it will probably be held on the supervision of the Commissioner General of Buddhist Affairs at the end of November.
+
+If the former Diyawadana Nilame Nilanga Dela was also informed of this election, he would be his own historic time as the manager of the Diyawadana Nilame in history.
+
+Basnayake Nilame of the Nathawawala Deposit for the election. The Malwatte Asiri Greek has been tradition that Mr. Bandaranaike is also present at the Duminda Bandara of the Kataragama Devalaya.
+
+◼️
+
+[Data](articles/2e415b10.json)
+
+[Extended Data](ext_articles/2e415b10.ext.json)
 
 ---
 
@@ -2019,65 +2079,5 @@ Accordingly, he further noted that the UNP has decided to work transparently and
 [Data](articles/fc063959.json)
 
 [Extended Data](ext_articles/fc063959.ext.json)
-
----
-
-### A severe accident in Wellawaya
-
-*2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
-
-A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
-
-Two traders were injured and admitted to the Wellawaya Base Hospital.
-
-The lorry has flipled through the road, and the road has also been interrupted due to the road.
-
-◼️
-
-[Data](articles/b2cc3b64.json)
-
-[Extended Data](ext_articles/b2cc3b64.ext.json)
-
----
-
-### Petitions against the appointment of patriot Thenkoni as the Inspector General of Police
-
-*2025-09-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224507) · `ta`
-
-The High Court today (08) ordered the postponement of the hearing of the petition against the appointment of the National Inspector General of Police.
-
-Former President Ranil Wickremesinghe has filed a petition seeking a decision to appoint Patriot and South Kon as the Inspector General of Police.
-
-The order was issued when the petitions were taken up for hearing today in the presence of a panel of judges - Preity Padman Surasena, Mahinda Samaratha and Arjuna Obeeskera.
-
-Accordingly, the hearing of the petition was adjourned until February 12, 2026.
-
-◼️
-
-[Data](articles/49980d4d.json)
-
-[Extended Data](ext_articles/49980d4d.ext.json)
-
----
-
-### UNP decides to work with the forces of the opposition
-
-*2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
-
-The UNP has decided to continue with the reconciliation and other political parties in the preliminary discussions.
-
-The United National Party (UNP) has also intended to act through a committee or similar mechanism to deal with the opposition parties, including the unity force.
-
-The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and other matters with the opposition parties.
-
-The Chairman of the UNP Vajira Abeywardena said the UNP has decided to continue in the discussions with agreements.
-
-He also said that he has decided to work open with the conviction force.
-
-◼️
-
-[Data](articles/61017216.json)
-
-[Extended Data](ext_articles/61017216.ext.json)
 
 ---

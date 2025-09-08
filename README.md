@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 03:05:53**
+As of **2025-09-09 02:54:53**
 
 ## Newspaper Stats
 
-*Scraped **74,840** Articles*
+*Scraped **74,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,64 +19,18 @@ dailyftlk | 5,306
 adalk | 7,244
 adaderanalk | 9,583
 tamilmirrorlk | 11,148
-virakesarilk | 12,227
+virakesarilk | 12,224
 adaderanasinhalalk | 13,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,162 (85.7%) of 74,840 articles have been extended.
+64,162 (85.7%) of 74,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### மனிதப்புதைகுழி அகழ்வு சர்வதேச நியமங்களுக்கு ஏற்றவாறு அமையவேண்டும் - பேரவையில் உறுப்புநாடுகள் வலியுறுத்தல்
-
-*2025-09-09 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224579) · `ta`
-
-இலங்கையில் முன்னெடுக்கப்பட்டுவரும் மனிதப்புதைகுழி அகழ்வு நடவடிக்கைகள் சர்வதேச நியமங்களுக்கு ஏற்றவாறு அமையவேண்டும் எனவும், தனிநபர்களை இலக்குவைப்பதற்குப் பயன்படுத்தப்படும் பயங்கரவாதத்தடைச்சட்டம் நீக்கப்படவேண்டும் எனவும் பிரிட்டன், நியூஸிலாந்து, சுவிட்ஸர்லாந்து, அவுஸ்திரேலியா உள்ளிட்ட பேரவையின் உறுப்புநாடுகள் வலியுறுத்தியுள்ளன.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் நேற்று திங்கட்கிழமை ஜெனீவாவில் ஆரம்பமானது. நேற்றைய தொடக்க அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை தொடர்பான அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அறிக்கை மீதான விவாதம் நடைபெற்றது.
-
-...
-
-[Data](articles/5555739b.json)
-
----
-
-### ஐ.நா மனித உரிமைகள் பேரவை பக்கச்சார்பின்றி செயற்படவேண்டும் - இலங்கைக்கு ஆதரவாக பாகிஸ்தான், லாவோஸ், எரித்ரியா
-
-*2025-09-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224578) · `ta`
-
-ஐ.நா மனித உரிமைகள் பேரவையானது பக்கச்சார்பின்றி நியாயத்துவத்தின் அடிப்படையில் செயற்படவேண்டும் என பேரவையில் வலியுறுத்திய பாகிஸ்தான், லாவோஸ், எரித்ரியா உள்ளிட்ட நாடுகளின் பிரதிநிதிகள், இலங்கையின் உள்ளக செயன்முறைகளைத் தாம் ஆதரிப்பதாகவும் அறிவித்துள்ளனர்.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் திங்கட்கிழமை (8) ஜெனீவாவில் ஆரம்பமானது. தொடக்க அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை தொடர்பான அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அறிக்கை மீதான விவாதம் நடைபெற்றது.
-
-அங்கு கருத்து வெளியிட்ட லாவோஸ், பாகிஸ்தான், எரித்ரியா உள்ளிட்ட நாடுகளின் பிரதிநிதிகள் இலங்கைக்கு ஆதரவாகக் கருத்துரைத்தனர்.
-
-குறிப்பாக கடந்த கூட்டத்தொடரில் 57ஃ1 தீர்மானத்தை இலங்கை நிராகரித்திருந்த போதிலும், ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கை நாட்டுக்கு விஜயம் மேற்கொள்ளுமாறு அழைப்பு விடுக்கப்பட்டமை தொடர்பில் அவர்கள் பாராட்டு வெளியிட்டனர்.
-
-...
-
-[Data](articles/ad402284.json)
-
----
-
-### மருந்து கொள்முதலில் உள்ள செயன்முறை சிக்கலால் மருந்து பொருட்களுக்கு தட்டுபாடு
-
-*2025-09-09 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224577) · `ta`
-
-ஒரு குறிப்பிட்ட வைத்தியசாலையில் மருந்து மற்றும் மருத்துவ உபகரணங்களுக்கு பற்றாக்குறை ஏற்படுமாயின் அதுஇ நிதி பற்றாக்குறையால் ஏற்பட்ட தட்டுபாடு அல்ல மாறாக அவற்றை கொள்முதல் செய்வதில் ஏற்பட்டும் செயன்முறை சிக்கல் காரணமாகவே மருந்துகளுக்கும் மருத்துவ உபகரங்களுக்கும் தட்டுபாடு ஏற்படுகிறது  என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-பல் அறுவைசிகிச்சை வைத்தியர்களுக்கான வரையருக்கப்பட்ட வழிமுறைபயிற்சிக்காக சுகாதார அமைச்சால் 86 பேர் புதிதாக இணைத்துக் கொள்ளப்பட்டுள்ளனர். மேற்படி பல் மருத்துவ பட்டதாரிகளை வரையருக்கப்பட்ட வழிமுறைபயிற்சிக்கு ஆட்சேர்ப்பு செய்வதற்கான நியமனக் கடிதங்கள் திங்கட்கிழமை (8) கொழும்பில் உள்ள ஹெக்டர் கொப்பேகடுவ விவசாய ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனத்தில் சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் வழங்கி வைக்கப்பட்டது.
-
-...
-
-[Data](articles/7a6f313d.json)
-
----
 
 ### Roadmap for Sri Lanka’s regenerative future
 
@@ -2023,5 +1977,63 @@ According to preliminary reports, at least two gunmen carried out the shooting.
 [Data](articles/655d3afe.json)
 
 [Extended Data](ext_articles/655d3afe.ext.json)
+
+---
+
+### Nimal Lansa released on bail
+
+*2025-09-08 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214314) · `si`
+
+Former MP Nimal released on bail.
+
+He was arrested recently after the 2006 incident, he was arrested and remanded.
+
+Accordingly, the 6th High Court of Negombo has released on bail.
+
+◼️
+
+[Data](articles/6e5d5d7e.json)
+
+[Extended Data](ext_articles/6e5d5d7e.ext.json)
+
+---
+
+### Former MP Nimal Lanza arrested over assault incident granted bail
+
+*2025-09-08 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112276/former-mp-nimal-lanza-arrested-over-assault-incident-granted-bail) · `en`
+
+Former Member of Parliament Nimal Lanza, who was arrested by the Kochchikade Police over an assault incident and subsequently remanded by court, has been granted bail, Ada Derana reporter said.
+
+Former MP Nimal Lanza was arrested on August 29 after surrendering to the Kochchikade Police.
+
+The Attorney General filed charges against the former MP in connection with an assault and trespassing incident that occurred during a protest in 2006.
+
+◼️
+
+[Data](articles/5cdac5b3.json)
+
+[Extended Data](ext_articles/5cdac5b3.ext.json)
+
+---
+
+### Father shot dead in the forest for 4 years with 3 children
+
+*2025-09-08 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224492) · `ta`
+
+A father, Tom Phillips, who has been hiding with his three children for the past four years in New Zealand, has been shot dead by police.
+
+In a dispute with a wife relating to the care of children, Philips, Piaopio, who had been hiding with his children in the New Zealand forest since December 2021, has been shot dead by police in connection with the theft.
+
+Philips fired several times on a police officer who went to the scene, and the officer suffered serious injuries. Following this, Philips died in a police shooting.
+
+Police said he had a child with Philips and had no injuries to the child. It is also reported that the two children were safely rescued after intensifying the search for the other two children.
+
+Police said they were in contact with the family of the Phillips and would be assisted.
+
+...
+
+[Data](articles/88d1c2ab.json)
+
+[Extended Data](ext_articles/88d1c2ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 12:55:47**
+As of **2025-09-08 14:23:31**
 
 ## Newspaper Stats
 
-*Scraped **74,716** Articles*
+*Scraped **74,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,257 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,228
-adaderanalk | 9,557
-tamilmirrorlk | 11,126
-virakesarilk | 12,210
-adaderanasinhalalk | 13,012
+adalk | 7,232
+adaderanalk | 9,558
+tamilmirrorlk | 11,132
+virakesarilk | 12,212
+adaderanasinhalalk | 13,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,433 (84.9%) of 74,716 articles have been extended.
+63,492 (85.0%) of 74,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### ’’புலம்பெயர்ந்த தொழிலாளர்களின் குழந்தைகளின் கல்விக்கு நிதி’’
+
+*2025-09-08 13:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்ந்த-தொழிலாளர்களின்-குழந்தைகளின்-கல்விக்கு-நிதி/175-364207) · `ta`
+
+வெளிநாட்டில் இறக்கும், ஊனமுற்ற மற்றும் வெளிநாடுகளில் காணாமல் போதல் உள்ளிட்ட பல்வேறு அனர்த்தங்களினால் பாதிக்கப்படும் இலங்கையர்களின் பிள்ளைகளின் கல்வியைப் பாதுகாப்பதற்காக புலமைப்பரிசில் திட்டமொன்றைச் செயல்படுத்த ஜனாதிபதி நிதியம் திட்டமிட்டுள்ளது.
+
+"கல்வியில் யாரையும் கைவிடக் கூடாது" என்ற எண்ணக் கருவின் பிரகாரம் ஜனாதிபதி நிதியம்,வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பணியகம் என்பன இணைந்து   இந்தத் திட்டத்தை செயல்படுத்த உள்ளது.
+
+ஜனாதிபதி நிதியத்தின் சேவைகளை விரிவுபடுத்துவது குறித்த கலந்துரையாடல் வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் மற்றும் ஜனாதிபதியின் சிரேஸ்ட மேலதிகச் செயலாளர் மற்றும் ஜனாதிபதி நிதியத்தின் செயலாளர் ரோஷன் கமகே ஆகியோரின் தலைமையில்  அண்மையில் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது. இதன் போதே இந்த திட்டம் தொடர்பில் அறிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/51eef924.json)
+
+---
+
+### වෛද්‍ය පාලිත රාජපක්ෂට විනය පරීක්ෂණයක්
+
+*2025-09-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214316) · `si`
+
+බදුල්ල ශික්ෂණ රෝහලේ වෛද්‍ය පාලිත රාජපක්ෂ මහතාව විනය පරීක්ෂණයක් සඳහා රාජ්‍ය සේවා කොමිෂන් සභාව වෙත කැඳවා තිබේ.
+
+වෛද්‍ය පාලිත රාජපක්ෂ මහතාගෙන් අප කළ විමසීමකදී ඒ මහතා සඳහන් කළේ සෞඛ්‍ය අමාත්‍යාංශයේ කැඳවීමකට අනුව ඒ මහතා මේ වන විට රාජ්‍ය සේවා කොමිෂන් සභාව වෙත පැමිණ ඇති බවය.
+
+පසුගියදා ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ සිදු වූ බිහිසුණු අනතුර සිදුවූ අවස්ථාවේදී සිය ජීවිත අවධානමද නොතකා වෛද්‍ය පාලිත රාජපක්ෂ මහතා අනතුරට පත්වූවන්ගේ ජීවිත බේරා ගැනීමට කැපවීමෙන් කටයුතු කළේය.
+
+◼️
+
+[Data](articles/6c815337.json)
+
+---
+
+### பொகவந்தலாவையில் ஐஸ்: இருவர் கைது
+
+*2025-09-08 13:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொகவந்தலாவையில்-ஐஸ்-இருவர்-கைது/76-364205) · `ta`
+
+பொகவந்தலாவ பகுதியை சேர்ந்த இருவர் ஐஸ் போதைப் பொருளுடன் நோர்வூட் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்டவர்களிடம் இருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கை பற்ற பட்டுள்ளது.
+
+அரச புலனாய்வு பிரிவினர் வழங்கிய  தகவலுக்கு அமைய  வீதி தடைகளை அமைத்து மேற்கொண்ட சோதனையின் போது முச்சக்கர வண்டியில் சென்ற சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டதாக நோர்வூட் பொலிஸார் தெரிவித்துள்ளனர் இவ்வாறு கைது செய்யப்பட்டவர்களிடமிருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+இவ்விருவரும் பொகவந்தலாவ சிரிபுர,செப்பல்டன் பகுதிகளைச் சேர்ந்தவர்கள் என   நோர்வூட் பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4ee533d4.json)
+
+---
+
+### 15 injured in the place where Jerusalem
+
+*2025-09-08 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214315) · `si`
+
+Foreign media reports that 15 people were injured in a shooting at Rott Junction in Jerusalem, Israeli.
+
+Foreign media reports that at least two gunmen had been shot by two gunmen.
+
+◼️
+
+[Data](articles/38bfa445.json)
+
+[Extended Data](ext_articles/38bfa445.ext.json)
+
+---
+
+### රක්ෂිත බන්ධනාගාරගත කර සිටි නිමල් ලන්සාට අද ලැබුණු නියෝගය මෙන්න
+
+*2025-09-08 13:23:17* · [`adalk`](https://www.ada.lk/breaking_news/රක්ෂිත-බන්ධනාගාරගත-කර-සිටි-නිමල්-ලන්සාට-අද-ලැබුණු-නියෝගය-මෙන්න/11-418351) · `si`
+
+අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා  මහතා ඇප මත නිදහස්  කිරීමට මීගමුව මහාධිකරණය නියෝග කර තිබේ.
+
+2006 වසරේ පහරදීමක් ඇතුළු චෝදනා කිහිපයක් සම්බන්ධයෙන් ඔහුව පසුගියදා අත්අඩංගුවට ගනු ලැබිණි.
+
+◼️
+
+[Data](articles/ceeb5929.json)
+
+---
+
+### Bail for Nimal Lansa
+
+*2025-09-08 13:21:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிமல்-லான்சாவுக்கு-பிணை/175-364204) · `ta`
+
+It is noteworthy that he was recently arrested and interrogated by the Cochina Police in connection with the attack on the house of a city councilor during the 2006 provincial council election.. Remble
+
+◼️
+
+[Data](articles/6bcac88f.json)
+
+[Extended Data](ext_articles/6bcac88f.ext.json)
+
+---
+
+### Nimal Lansa released on bail
+
+*2025-09-08 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214314) · `si`
+
+Former MP Nimal released on bail.
+
+He was arrested recently after the 2006 incident, he was arrested and remanded.
+
+Accordingly, the 6th High Court of Negombo has released on bail.
+
+◼️
+
+[Data](articles/6e5d5d7e.json)
+
+[Extended Data](ext_articles/6e5d5d7e.ext.json)
+
+---
+
+### Father shot dead in the forest for 4 years with 3 children
+
+*2025-09-08 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224492) · `ta`
+
+A father, Tom Phillips, who has been hiding with his three children for the past four years in New Zealand, has been shot dead by police.
+
+In a dispute with a wife relating to the care of children, Philips, Piaopio, who had been hiding with his children in the New Zealand forest since December 2021, has been shot dead by police in connection with the theft.
+
+Philips fired several times on a police officer who went to the scene, and the officer suffered serious injuries. Following this, Philips died in a police shooting.
+
+Police said he had a child with Philips and had no injuries to the child. It is also reported that the two children were safely rescued after intensifying the search for the other two children.
+
+Police said they were in contact with the family of the Phillips and would be assisted.
+
+...
+
+[Data](articles/88d1c2ab.json)
+
+[Extended Data](ext_articles/88d1c2ab.ext.json)
+
+---
+
+### Electricity unions warns
+
+*2025-09-08 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214313) · `si`
+
+The Government of Ceylon Electricity Board (CEB) says that the government has not paid any attention regarding the professional procedure of the Cultural Staff employees.
+
+The first phase of the trade union action, which was established against four sections of the Ceylon Electricity, is to be implemented on the 15th of this month.
+
+However, the Ceylon Electricity Board (Ceylon Electricity) of the Ceylon Electricity Board (CEB) Prabith Priyantha said that they would create a positive response from the government.
+
+◼️
+
+[Data](articles/2a287628.json)
+
+[Extended Data](ext_articles/2a287628.ext.json)
+
+---
+
+### Wife remanded for killing husband who murdered husband's torture
+
+*2025-09-08 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214312) · `si`
+
+The mother of Kabithigollewa Acting Magistrate Niluka Priyadarshani was ordered to be remanded until the 18th he was assaulted by her husband.
+
+The reserves have been remanded, a resident of Kurudagama, Cabichigallawa.
+
+The Magistrate also ordered the jurisdiction at the Anuradhapura Teaching Hospital to conduct the post mortem examination on the body of her husband who was allegedly killed.
+
+The magistrate also ordered her three children who were in the suspect to their grandfather.
+
+The suspect's wife at the Kebithigollewa Headquarters Police Inspector General of Police said that the victim and suspect had been revealed in the preceding conflict and quarrel.
+
+The owner revealed that the deceased had been constantly inhumanized by his wife, the suspect, and that the victim was inhumane was inhuman and was trying to be inhrum.
+
+...
+
+[Data](articles/7d7e98d2.json)
+
+[Extended Data](ext_articles/7d7e98d2.ext.json)
+
+---
+
+### Baby magic is swept away from the beach of Kaluppitti!
+
+*2025-09-08 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224512) · `ta`
+
+The Kaluppitti police are investigating the information that the child was swept away from the beach on Sunday (7) afternoon.
+
+At the same time, police have reported that the woman may have thrown the baby in the sea and suspected that the girl may have jumped into the sea with the baby.
+
+Also, at around 3.30 pm yesterday, some said that the woman was shouting at the beach and that her child had been dragged into the sea wave.
+
+The navy and the police are in the process of searching for a missing child.
+
+It is reported that the woman from Welimada is receiving treatment at the Colombo National Hospital.
+
+◼️
+
+[Data](articles/0c4b02ed.json)
+
+[Extended Data](ext_articles/0c4b02ed.ext.json)
+
+---
+
+### UNP decides to deal with opposition parties including education
+
+*2025-09-08 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ඇතුළු-විපක්ෂයේ-පක්ෂ-සමඟ-කටයුතු-කිරීමට-එජාපයෙන්-තීරණයක්/11-418350) · `si`
+
+The UNP is announced that the UNP is intended to act with a committee or similar mechanism to deal with the opposition parties, including the opposition power.
+
+"The United National Party also intends to act through a committee or similar mechanism to deal with the opposition parties, including reconciliation force.
+
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and the opposition parties.
+
+UNP Chairman, Vajira Abeywardena said that the UNP has decided to continue the contents of the incident.
+
+Accordingly, he has decided to work openly with the conviction force. "
+
+◼️
+
+[Data](articles/bfa8ef54.json)
+
+[Extended Data](ext_articles/bfa8ef54.ext.json)
+
+---
+
+### The main point of the hill country is stuck today?
+
+*2025-09-08 12:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-முக்கிய-புள்ளி-இன்று-சிக்குவார்/76-364202) · `ta`
+
+One of the main union and the political party in the hill country has appeared in the Commission to Investigate Correction of Bribery or Corruption today (08).
+
+According to the Commission, he has been invited to make a confession on the improper building permit by him in the past.
+
+◼️
+
+[Data](articles/ca39d1f4.json)
+
+[Extended Data](ext_articles/ca39d1f4.ext.json)
+
+---
 
 ### Fines for famous actress
 
@@ -54,6 +290,28 @@ There are the most severe biosecurity laws in Australia. According to them, it i
 
 ---
 
+### UNP decides openly working with education
+
+*2025-09-08 12:21:59* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-සමග-විවෘතව-එකට-වැඩ-කිරිමට-එජාපය-තීරණය-කරයි/11-418349) · `si`
+
+The UNP has decided to decide continuously with the conique and other political parties in the preliminary discussions.
+
+The United National Party also means to act through the opposition parties, including the opposition parties.
+
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and the opposition parties.
+
+UNP Chairman, Vajira Abeywardena said that the UNP has decided to continue the contents of the incident.
+
+Accordingly, he has decided to work openly with the conviction force.
+
+◼️
+
+[Data](articles/a4bc7910.json)
+
+[Extended Data](ext_articles/a4bc7910.ext.json)
+
+---
+
 ### Two arrested with 83 passports
 
 *2025-09-08 12:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/83-கடவுச்சீட்டுகளுடன்-இருவர்-கைது/175-364199) · `ta`
@@ -69,6 +327,52 @@ Following the raid, two suspects were arrested, 51 -year -old male and 62 -year 
 [Data](articles/d130d883.json)
 
 [Extended Data](ext_articles/d130d883.ext.json)
+
+---
+
+### Parents were not sent to irrigation. Threatest to Minister Principal
+
+*2025-09-08 12:12:24* · [`adalk`](https://www.ada.lk/breaking_news/වාරි-මහිමයට-දෙමාපියන්-යොමු-නොකළේ-යැයි-මාලිමාවේ-මන්ත්‍රී-හා-නි--ඇමති-විදුහල්පතිට-තර්ජනය-කරලා/11-418346) · `si`
+
+A Member of Parliament and Deputy Minister has been threatened to the Principal of the Association of Atnarijulu, alleging that the parents had not participated in the "Irrigation" ceremony.
+
+The Principal said that the Principal refuses to connect the appointment of a Member of Parliament under the 'Irrigation' Program of the Attaviratugolwa tank on the 4th of the 'Irrigation Program'.
+
+The school belongs to the Kebithigollewa region in the North Central Province. According to the Principal of the Divisional Secretary, the Principal has been informed to the Zonal Director.
+
+Priyantha Fernando said that the Principal's Private WhatsApp number is also threatened by a Deputy Minister to the Principal.
+
+The Ceylon Teachers Union Priyantha Fernando has revealed the Secretary to the Ministry of Education and the Ministry of Education in this regard.
+
+Miyophone Restaurant has been provided by the Principal for this event
+
+◼️
+
+[Data](articles/a3a62b17.json)
+
+[Extended Data](ext_articles/a3a62b17.ext.json)
+
+---
+
+### UNP agrees to work with SJB constructively in future
+
+*2025-09-08 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112272/unp-agrees-to-work-with-sjb-constructively-in-future) · `en`
+
+The United National Party (UNP) has decided to continue engaging cooperatively with the Samagi Jana Balawegaya (SJB) and other opposition political parties, in accordance with the consensus reached during initial discussions.
+
+Accordingly, the UNP has also proposed the establishment of a committee or a similar mechanism to facilitate coordination with the SJB and other opposition parties.
+
+In recent times, the UNP has engaged in discussions with opposition parties regarding ways to collaborate on matters of common interest.
+
+UNP Chairman Former Minister Wajira Abeywardana stated that the party has resolved to consistently implement the points of agreement reached through those discussions.
+
+Accordingly, he further noted that the UNP has decided to work transparently and constructively with the SJB going forward.
+
+◼️
+
+[Data](articles/fc063959.json)
+
+[Extended Data](ext_articles/fc063959.ext.json)
 
 ---
 
@@ -90,21 +394,23 @@ The lorry has flipled through the road, and the road has also been interrupted d
 
 ---
 
-### தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமித்ததற்கு எதிரான மனு மீதான விசாரணை ஒத்திவைப்பு!
+### Petitions against the appointment of patriot Thenkoni as the Inspector General of Police
 
 *2025-09-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224507) · `ta`
 
-தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமித்ததற்கு எதிரான மனு மீதான விசாரணையை ஒத்திவைத்து உயர் நீதிமன்றம் இன்று திங்கட்கிழமை (08) உத்தரவிட்டுள்ளது.
+The High Court today (08) ordered the postponement of the hearing of the petition against the appointment of the National Inspector General of Police.
 
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமிப்பதற்கான தீர்மானம் அரசியலமைப்பிற்கு முரணானது என தீர்ப்பளிக்கக் கோரி மனு தாக்கல் செய்யப்பட்டது.
+Former President Ranil Wickremesinghe has filed a petition seeking a decision to appoint Patriot and South Kon as the Inspector General of Police.
 
-இந்த மனுக்கள் பிரீத்தி பத்மன் சூரசேன, மஹிந்த சமயவர்தன மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் முன்னிலையில் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The order was issued when the petitions were taken up for hearing today in the presence of a panel of judges - Preity Padman Surasena, Mahinda Samaratha and Arjuna Obeeskera.
 
-அதன்படி இந்த மனு மீதான விசாரணை 2026ஆம் ஆண்டு பெப்ரவரி மாதம் 12 ஆம் திகதி வரை ஒத்திவைத்து நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Accordingly, the hearing of the petition was adjourned until February 12, 2026.
 
 ◼️
 
 [Data](articles/49980d4d.json)
+
+[Extended Data](ext_articles/49980d4d.ext.json)
 
 ---
 
@@ -150,6 +456,24 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 
 ---
 
+### பிரதமர் ஹரிணி பதவி நீக்கப்படுவாரா? டில்வின் கருத்து
+
+*2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/150-364196) · `ta`
+
+பிரதமர் ஹரிணி அமரசூரிய தனது பதவியில் இருந்து நீக்கப்படுவார் என்ற ஊகங்களை மக்கள் விடுதலை முன்னணியின் (ஜே.வி.பி) பொதுச் செயலாளர் டில்வின் சில்வா நிராகரித்தார்.
+
+பொதுக் கூட்டத்தில் பேசிய சில்வா, எதிர்க்கட்சி நீண்ட காலமாக ஆதாரமற்ற கூற்றுகளைப் பரப்பி வருவதாகவும், ஆனால் அவை எதுவும் நிறைவேறவில்லை என்றும் கூறினார்.
+
+"முன்னதாக, ஹரிணி அமரசூரிய தனது அமைச்சர் பதவியை இழப்பார் என்று அவர்கள் கூறினர்
+
+இப்போது அவர் பிரதமர் பதவியிலிருந்து நீக்கப்படுவார் என்று கூறுகின்றனர். இவை அவர்களின் கனவுகளே தவிர வேறு ஒன்றும“ஷ் இல்லை," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/3ccf3fb1.json)
+
+---
+
 ### UNHRC Resolution: Will India, South Africa and Japan back Sri Lanka?
 
 *2025-09-08 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112270/unhrc-resolution-will-india-south-africa-and-japan-back-sri-lanka) · `en`
@@ -165,6 +489,8 @@ He noted that by continuously presenting such resolutions, allegations are being
 ...
 
 [Data](articles/b43a99c4.json)
+
+[Extended Data](ext_articles/b43a99c4.ext.json)
 
 ---
 
@@ -276,6 +602,8 @@ The PMD added that more than 20 acres of land previously overrun with invasive p
 
 [Data](articles/75659d38.json)
 
+[Extended Data](ext_articles/75659d38.ext.json)
+
 ---
 
 ### Steps to resume construction work on Central Highway
@@ -329,6 +657,8 @@ A total of nine petitions have been filed, including by His Eminence Cardinal Ma
 ◼️
 
 [Data](articles/7d5139d0.json)
+
+[Extended Data](ext_articles/7d5139d0.ext.json)
 
 ---
 
@@ -463,6 +793,16 @@ The Proposal to the Investment Promotion and Mutual Protection Aception was also
 [Data](articles/7f0f593d.json)
 
 [Extended Data](ext_articles/7f0f593d.ext.json)
+
+---
+
+### கனவு கானும் வாழ்க்கை யாவும்
+
+*2025-09-08 10:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கனவு-கானும்-வாழ்க்கை-யாவும்/62-364186) · `ta`
+
+◼️
+
+[Data](articles/349e899f.json)
 
 ---
 
@@ -1639,379 +1979,5 @@ For decades, Sri Lanka has stumbled through Geneva, battered by hostile resoluti
 [Data](articles/c5f3c563.json)
 
 [Extended Data](ext_articles/c5f3c563.ext.json)
-
----
-
-### Is justice for war violations?
-
-*2025-09-08 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224483) · `ta`
-
-The fact that the facts of the atrocities committed by the fellow man against humanity in Sri Lanka have been revealed and waiting for justice to be established, and the land and long -awaitedness of the atrocities have begun to dissolve today without the pain of waiting.. The human wreath, which is now being said to be landlord, has begun to shake the conscience of the world. It has been silenced by those who have long denied that there are no ethnic or war crimes in Sri Lanka.
-
-The story of the famous sheep land begins with the assassination of Krishanthi Kumaraswamy. Krishanthi Kumaraswamy, who wrote the GCE Advanced Level Examination at the Chundukkuli Ladies' College, Jaffna on September 7, 1996, and his mother Rajamma Kumaraswamy, the younger brother Kumaraswamy Pranavan and the neighbor Chidambaram Kripamoorthy were killed by the army.
-
-...
-
-[Data](articles/56068f65.json)
-
-[Extended Data](ext_articles/56068f65.ext.json)
-
----
-
-### The Upcountry Development Authority should be strengthened - PP Sivapragasam
-
-*2025-09-08 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224482) · `ta`
-
-A massive controversy over the new Villages Development Authority for the Upcountry Development Authority or Plantation Regions. There are reports that arrangements are being made to dilute the Development Authority and bring it up as part of the Plantation Community Infrastructure Ministry.
-
-Against this backdrop, Dr. PP Sivapragasam, a member of the National People's Power and Deputy Secretary of the Plantation Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Secretary, states that the Hill Development Authority should be taken as the Authority.
-
-In the document submitted to the President on this issue, Dr. Sivapragasam is a authority of the Development Authority legally established by the Parliamentary Act of 2018.
-
-...
-
-[Data](articles/53b8d8c3.json)
-
-[Extended Data](ext_articles/53b8d8c3.ext.json)
-
----
-
-### 2025-09-07 (Sunday)
-
-### Main colleagation of organized crime leader
-
-*2025-09-07 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214293) · `si`
-
-Two T-56 rifle, a T-56 rifle, and a motorcycle have been arrested with the organized crime leader of the "Panadura Nilate" leader.
-
-The officials in Kalutara crimes have been arrested, a nickname called "Embilipitiya Suranga" and a resident of Horana.
-
-The first suspect, Embilipitiya Suranga has been arrested with five motorcycle and ice narcotics in the Arukgoda area in Panadura.
-
-Police said the suspect had been in a rented house in Abegoda.
-
-The motorcycle was revealed that the motorcycle was identified as a motorcycle used for shooting in Panadura, Malamulla and Madatupitiya area.
-
-In addition, the suspect is a person who is accused of shootings and shootings for the shootings and murder of the suspect.
-
-It is revealed that firearmarust used in connection with the shootings of the suspect was hidden in a house in Batuwita, Horana.
-
-T-56 riffle, a T-56 riffle, and 30 small phones for telephone communication have been found in the shootings, which were hidden in a cupboard.
-
-◼️
-
-[Data](articles/5e63a9ec.json)
-
-[Extended Data](ext_articles/5e63a9ec.ext.json)
-
----
-
-### Kapruka’s platform pivot powers 94% operating profit surge
-
-*2025-09-07 22:35:00* · [`islandlk`](http://island.lk/kaprukas-platform-pivot-powers-94-operating-profit-surge/) · `en`
-
-Kapruka Holdings PLC is reaping the rewards of a strategic shift from traditional e-commerce to a capital-light platform model. The company reported a striking 94% year-on-year improvement in operating performance for its latest quarter, driven by the accelerating momentum of its Kapruka Partner Central initiative.
-
-This platform transformation is moving Kapruka beyond an inventory-led retailer to an ecosystem orchestrator. By onboarding major Sri Lankan brands onto a shared infrastructure of tools, logistics, and service agreements, Kapruka has expanded its product selection without the proportional working-capital demands. This strategy enhanced unit economics, contributing to a 14% rise in revenue to LKR 448.52 million and a 30% jump in gross profit.
-
-...
-
-[Data](articles/4616406a.json)
-
-[Extended Data](ext_articles/4616406a.ext.json)
-
----
-
-### England beat England
-
-*2025-09-07 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214292) · `si`
-
-England team won the third one day cricket match against the tourist South African team.
-
-This was among the one-day winner of the ODI brigade with a larger scorer.
-
-Earlier, the unpleasant record was written in the name of Sri Lanka. There they received a majority of 317 runs in India.
-
-South Africa gave only 72 runs for the loss of all wickets in the England team in South Events.
-
-However, the South African team was able to win the 3-match tournament match 2-1.
-
-◼️
-
-[Data](articles/bd3e83cb.json)
-
-[Extended Data](ext_articles/bd3e83cb.ext.json)
-
----
-
-### Ranil Wijewardena is good for the country if Ranil goes to Parliament
-
-*2025-09-07 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224477) · `ta`
-
-If Ranil Wickremesinghe is in Parliament in the current state of the country it is good for the country. However, he has not taken any decision on his visit to Parliament, ”said Ruwan Wijewardena, Deputy Chairman of the United National Corporation.
-
-He said in a commenting on the media on Sunday (7) at the United National Party headquarters, Sirikotha, on Sunday (7).
-
-If former President Ranil Wickremesinghe is in Parliament in the current situation in the country, I think the country is good for the country. However, there is no relevance regarding it yet. If he is going to Parliament, he will look at the right time. However, there is no discussion in this regard.
-
-...
-
-[Data](articles/6720d150.json)
-
-[Extended Data](ext_articles/6720d150.ext.json)
-
----
-
-### Excavation at Chemmani mass grave paused over funding – report
-
-*2025-09-07 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112260/excavation-at-chemmani-mass-grave-paused-over-funding-report) · `en`
-
-Excavation at the Chemmani mass grave in Sri Lanka’s northern province has been suspended after 45 days due to insufficient funding from the Justice Ministry, according to lawyers involved.
-
-The site, discovered during routine development in February, has yielded 240 skeletal remains so far, with operations halting at noon on Saturday, Fresh allocations are expected within two weeks to resume the judicially supervised work, which began on May 15 following a court order.
-
-Findings include 14 piles of bones and poignant items such as infant feeding bottles, a doll, toys, children’s bags, and shoes, raising concerns about civilian victims.
-
-The judicial medical officer has requested an eight-week extension from the Jaffna magistrate, with an expenditure estimate for two additional months to be submitted at the September 18 hearing.
-
-...
-
-[Data](articles/b2bff851.json)
-
-[Extended Data](ext_articles/b2bff851.ext.json)
-
----
-
-### 900 arrested with the protest in London
-
-*2025-09-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214291) · `si`
-
-Nearly 900 people have been arrested in the protest in London, supporting Palestine.
-
-The protest was organized a Palestinian Action Troo.
-
-However, the organization is prohibited by organizing protests, and these arrests have been made.
-
-The organization has been named as a bird organization in the Brindha who had been conducted to the Army.
-
-As a result, the Sri Lankan government has informed the people of the country to participate in protests organized by the organization.
-
-However, in the face of protests, the organization had organized an objection to 500 people.
-
-◼️
-
-[Data](articles/98cbb302.json)
-
-[Extended Data](ext_articles/98cbb302.ext.json)
-
----
-
-### International Report released in the murder of Mayilvankanam Nimalarajan
-
-*2025-09-07 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224481) · `ta`
-
-A report on the investigation of the murder case of journalist Mayilvankanam Nimalarajan was published by the International Truth and Justice Plan.
-
-The report was released at a function held at the Jaffna Media Center on Sunday (7).
-
-The flame was lit for the image of Nimalarajan and was honored with a flower garland.
-
-The first copy of the report was handed over to the relatives of the Jaffna Media Corporation, Kumaraswamy Selvakumar and the relatives of the report were handed over to others who participated in the report.
-
-The event was attended by journalists, media department and civil society representatives.
-
-◼️
-
-[Data](articles/03a65865.json)
-
-[Extended Data](ext_articles/03a65865.ext.json)
-
----
-
-### Strong lightning warning to many parts of the country!
-
-*2025-09-07 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224463) · `ta`
-
-Accordingly, the Department of Meteorology has predicted thunderstorms in many parts of the Northern, North Central and Eastern Provinces.
-
-It has also been reported that the thunderstorms may be temporarily blowing.
-
-Therefore, the public has been asked to take adequate precautions to reduce the damage caused by lightning.
-
-The Department of Meteorology has called for the public to avoid walking in open areas such as paddy fields, tea gardens and open water bodies during thunderstorms.
-
-The public is also advised not to use phones and electrical equipment during thunderstorms.
-
-At the same time, the public has been asked to contact the Disaster Management Officers for emergency assistance.
-
-◼️
-
-[Data](articles/861b0490.json)
-
-[Extended Data](ext_articles/861b0490.ext.json)
-
----
-
-### The third and final twenty -two match Sri Lanka wins
-
-*2025-09-07 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224478) · `ta`
-
-Sri Lanka won the third and final 20th match between Sri Lanka and Zimbabwe by 8 wickets.
-
-Accordingly, the 3-match series ended 2-1 and won the competition title.
-
-The Sri Lankan team won the tournament in the tournament first and decided to field first.
-
-Zimbabwe, who batted first, scored 191 runs for the loss of 8 wickets in 20 overs.
-
-Sri Lanka won the match by losing 2 wickets in the 17.2nd over by Zimbabwe's 192 -run target in the R20 match.
-
-Kamil Mishara scored 73 runs unbeaten. Kusal Janith scored 46 runs.
-
-Nissanka (33) and Kusal Mendis (30), the opening batting pair, also contributed to Sri Lanka's innings.
-
-◼️
-
-[Data](articles/ef0cf823.json)
-
-[Extended Data](ext_articles/ef0cf823.ext.json)
-
----
-
-### Kusal Misshara and Kusal Perera win Sri Lanka
-
-*2025-09-07 21:15:25* · [`adalk`](https://www.ada.lk/sports/කමිල්-මිෂාර-හා-කුසල්-පෙරේරා-ලංකාව-දිනවති/9-418334) · `si`
-
-Sri Lanka won the target of 192 wickets in 17.4 wickets in 17.4 overs.
-
-In the same way, the Sri Lankan innings recorded the 76 runs in 7.1 overs
-
-Sri Lanka won 117 runs for the third wicket of Kusal Perera, which was carried forward beforewards
-
-Kamil Misshara won the hero of the match. Sri Lanka won the Tests T20 championship with this match. Little was adjudged the man of the tournament.
-
-◼️
-
-[Data](articles/1cc4a69e.json)
-
-[Extended Data](ext_articles/1cc4a69e.ext.json)
-
----
-
-### Sri Lanka thrash Zimbabwe to clinch T20 series 2-1
-
-*2025-09-07 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112259/sri-lanka-thrash-zimbabwe-to-clinch-t20-series-2-1) · `en`
-
-Sri Lanka’s Kamil Mishara hit an unbeaten 73 as the tourists beat Zimbabwe by eight wickets on Sunday to win the third Twenty20 international and take the series 2-1.
-
-An unbeaten 117-run partnership with Kusal Perera saw Sri Lanka win with 14 balls to spare at the Harare Sports Club as they chased down a formidable target. Perera was 46 not out.
-
-Zimbabwe, who beat Sri Lanka by five wickets to level the series on Saturday, were put in to bat and made 191-8 with Tadiwanashe Marumani top-scoring with 51.
-
-Sri Lanka also won two One-Day Internationals against Zimbabwe earlier this year.
-
-◼️
-
-[Data](articles/7c363658.json)
-
-[Extended Data](ext_articles/7c363658.ext.json)
-
----
-
-### 'We will give Kala Vewa back to the elephants' plan three days successfully initiated
-
-*2025-09-07 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224480) · `ta`
-
-The 'Kala Vewa' will be reinstated to the elephants, organized by the 'Clean Sri Lanka' project, which has been successfully implemented in the flood areas of the Kala Wawa National Forest Park for the past three days.
-
-Wild elephants have lost their pastures as they spread occupied plants in most ponds in the North Central Province. Wild elephants prefer the young grasses that are high in protein. It is estimated that about four hundred wild elephants live in the Kala Veva region. Wild elephants enter the villages because of inadequate food for these wild elephants. This has increased human-elephant conflicts in the area. In the past few months, many have died of wild elephants attacks. Paddy training is widely carried out in the area and soy, corn, fruits and vegetables are cultivated.
-
-...
-
-[Data](articles/8bc6652b.json)
-
-[Extended Data](ext_articles/8bc6652b.ext.json)
-
----
-
-### Diyawadana Nilame struggles in the Temple
-
-*2025-09-07 20:46:48* · [`adalk`](https://www.ada.lk/breaking_news/දළඳ-මාළිගාවේ-දියවඩන-නිලමේ-සටන-උණුසුම්-වෙයි/11-418333) · `si`
-
-The second ten years of the Sri Dalada Maligawa Pradeep Nilame, Sri Diyawadana Nilame, has ended the official selection of a new Diyawadana Nilame.
-
-The Chief Incumbivattu in the Polonnaruwa, Kandy, Badulla, Badulla, Kegalle, Kegalle, Kegalle, Kegalle, Kandy, Kandy, Anuradhapura, Anuradhapura, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kandy.
-
-If the Divisional Secretary of the relevant area is a woman or a unclean, he or she is said to be voted according to almost 100 this year.. It is said that only 76 Divisional Secretaries are entitled to vote.
-
-The current Diyawadana Nilame, Diyawadana Nilame, Pradeepa Nilame, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Basnayake Nilame, Basnayake Nilame on Udindu Devalaya. WS. Malwatte Asgiri Maha Nayros have already been buried that Bandaranaike is present.
-
-...
-
-[Data](articles/5ccb2f28.json)
-
-[Extended Data](ext_articles/5ccb2f28.ext.json)
-
----
-
-### Discussions are essential for peace and reconciliation
-
-*2025-09-07 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224479) · `ta`
-
-International Human Rights Development Voice (IVHRD) Chairman Raghu Indrakumar said that discussions are essential to improve peace and harmony through unity and discussion, to achieve global human rights and peace.
-
-International Human Rights Development Voice (IVHRD) has successfully held the World Human Rights Conference at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo. Ambassadors, legal experts, social leaders and human rights activists from all over the world attended the conference.
-
-The ceremony began with the art show, traditional art show and, with special guests. Indonesian Deputy Ambassador to Sri Lanka, top officials of the Chinese Republic, President Sarath Wijesinghe, Prince Amitab. Aradhya, Sri Lanka Pintech Chairman Rajkumar Kanagasingham, Reliance Innovation founder Hiran Wijesinghe, Dr. Rasita Buddhika and many others were present as special guests.. A special feature is that representatives from India participated.
-
-...
-
-[Data](articles/83adedfa.json)
-
-[Extended Data](ext_articles/83adedfa.ext.json)
-
----
-
-### Supervision to be corrected
-
-*2025-09-07 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214289) · `si`
-
-Sri Lanka won eight wickets in the third T20 cricket match against the host Zimbabwe.
-
-Accordingly, Sri Lanka was able to win the 3-match tournament match 2-1.
-
-Sri Lanka was able to cross the 17.2 overs of the match, despite the largest goal of Zimbabwe.
-
-Kamil mixau scored unbeaten on 73 runs. The innings included two sixes and six fours.
-
-Opening batsmen (33) and Kusal Mendis (30) contributed to Sri Lankan innings.
-
-◼️
-
-[Data](articles/5da5babf.json)
-
-[Extended Data](ext_articles/5da5babf.ext.json)
-
----
-
-### Piyal Manampari tells police due to landing chemicals
-
-*2025-09-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214288) · `si`
-
-Former Pradeshiya Sabha member Palhakaraka, Angunakolapelessa, who is conducting the consignment of the ice drug manufacture of the ice drug manufacture in the Talane drug manufacture of the ice drug manufacture, said the land was hit and these substances were taken to prevent the land.
-
-"My brother was building a garage here. There is a lot of water here. So we put these things to prevent the victim. "
-
-The court has granted permission to hold seven days after the suspect was produced before the Walasmulla Magistrate's Court today.
-
-Investigations have commenced as a group of other officers including Assistant Superintendent of Police of the Western Criminal Division in the Western Criminal Division.
-
-Meanwhile, investigations were found in a drawgam and ammunition, which was hidden in the drain near the field of a manioc crop at the time of the land yesterday afternoon.
-
-...
-
-[Data](articles/65422890.json)
-
-[Extended Data](ext_articles/65422890.ext.json)
 
 ---

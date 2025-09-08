@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 10:10:06**
+As of **2025-09-08 10:55:32**
 
 ## Newspaper Stats
 
-*Scraped **74,684** Articles*
+*Scraped **74,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,167 @@ dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,223
 adaderanalk | 9,551
-tamilmirrorlk | 11,113
+tamilmirrorlk | 11,119
 virakesarilk | 12,208
-adaderanasinhalalk | 13,006
+adaderanasinhalalk | 13,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,277 (84.7%) of 74,684 articles have been extended.
+63,300 (84.7%) of 74,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### කාන්තාවක් ඝාතනයකට ආධාර අනුබල දුන් අයෙකු අත්අඩංගුවට
+### ජීනීවා මානව හිමිකම් සමුළුවේ දී ශ්‍රී ලංකාව කළ යුතු දේ
+
+*2025-09-08 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214306) · `si`
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 60 වන සැසි වාරය ශ්‍රි ලංකාවට ඉතාමත් වැදගත් එකක් වනු ඇති බව ශ්‍රි ලංකා මානව හිමිකම් හිටපු කොමසාරිස්වරයෙකු වන නීතීඥ ප්‍රතිභා මහානාම හේවා මහතා පැවසුවේය.
+
+මෙම සැසිවාරයේ දී ලංකාවට එරෙහිව ඔවුන් යෝජනාවක් ගෙන ඒමට සූදානම් වන බවත් එය 2010 සිටම එක දිගට අලුත් වෙවී එන යෝජනාවක් වන බවත් එහිදී ඔහු සඳහන් කර සිටියේය.
+
+මෙම යෝජනා දිගින් දිගටම ගෙන ඒම හරහා ශ්‍රී ලංකාව මානව හිමිකම් නිතැතින්ම උල්ලංඝනය කරන රටක් වන අතර දිගින් දිගටම උතුරේ ජනතාවගේ මානව හිමිකම් කඩ කර ඇති බවට එහිදී ඔවුන් චෝදනා කර ඇති බව ද ප්‍රතිභා මහානාම හේවා මහතා පැහැදිලි කළේය.
+
+ඔහි වැඩිදුරටත් අවධාරණය කර සිටියේ ඉන්දියාව, දකුණු අප්‍රකාව සහ ජපානය යන රටවල් අප විසින් දිනා ගතහොත් මෙම යෝජනාවට ඉදිරියට ගෙන යා නොහැකි බවය.
+
+මෙම සැසිවාරයේ දී මෙරටට එරෙහිව ඉදිරිපත් වී ඇති යෝජනාව සම්බන්ධයෙන් වන කෙටුම්පතක් මසකට පමණ පෙර විදේශ කටයුතු අමාත්‍යංශය වෙත භාර දී ඇති බව ද එහිදී ඔහු වැඩිදුරටත් සදහන් කළේය.
+
+...
+
+[Data](articles/17308513.json)
+
+---
+
+### இந்தியாவில் இலங்கை தமிழர்கள் நீண்ட கால விசா கோரி விண்ணப்பிக்க முடியாதாம்
+
+*2025-09-08 10:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-இலங்கை-தமிழர்கள்-நீண்ட-கால-விசா-கோரி-விண்ணப்பிக்க-முடியாதாம்/175-364188) · `ta`
+
+இலங்கையில் உள்நாட்டுப் போர் நடந்தபோது பலர் அங்கிருந்து தமிழகத்தில் தஞ்சம் புகுந்தனர். அவர்கள் மீது எந்தவொரு சட்ட நடவடிக்கையும் எடுக்கப்படாது என்று மத்திய அரசு கடந்த வாரம் தான் அறிவித்திருந்தது. இருப்பினும், இலங்கைத் தமிழ் அகதிகள் இந்தியாவில் நீண்ட கால விசா கோரி விண்ணப்பிக்க முடியாதாம். இது தொடர்பாகச் சில முக்கிய தகவல் வெளியாகியுள்ளது.
+
+இலங்கையில் உள்நாட்டுப் போர் பல ஆண்டுகள் உச்சத்தில் இருந்தது. அந்தக் காலகட்டத்தில் இலங்கையில் இருந்து பல ஆயிரம் தமிழர்கள் தமிழ்நாட்டிற்கு வருகை தந்தார்கள். போர்ச் சூழல் காரணமாக வேறு வழியில்லாமல் அவர்கள் தங்கள் சொந்த நாட்டை விட்டு வெளியேறி சட்டவிரோதமாகத் தமிழகம் வந்தடைந்தனர்.
+
+இருப்பினும், அவர்கள் அகதிகள் முகாமிலேயே தங்க வேண்டி இருந்தது. மேலும், அவர்கள் சட்டவிரோதமாக நாட்டில் நுழைந்தவர்கள் என்பதால் சட்டவிரோதக் குடியேறிகளாகவே கருதப்பட்டனர். ஆனால், இலங்கைத் தமிழர்களுக்குக் குடியுரிமை அளிக்க வேண்டும் என்றும் அவர்களைச் சட்டப்பூர்வ இந்தியக் குடிமக்களாகக் கருத வேண்டும் என்றும் தமிழகத்தில் பல்வேறு தரப்பினரும் கோரிக்கை விடுத்து வந்தனர்.
+
+...
+
+[Data](articles/78721922.json)
+
+---
+
+### Two fatal accidents
+
+*2025-09-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214305) · `si`
+
+Two persons were killed in two fatal accidents throughout the country, police said.
+
+Accordingly, a motorcycle collided with a culvert in the paskuwa area in Kumbulagama road yesterday morning.
+
+The motorcyclist was killed and the incident has begun investigations on a message to the Polpithigama police.
+
+The deceased is a 43 year old elephant resident of Polpithigama.
+
+◼️
+
+[Data](articles/9416cfad.json)
+
+[Extended Data](ext_articles/9416cfad.ext.json)
+
+---
+
+### கனவு கானும் வாழ்க்கை எல்லாம்
+
+*2025-09-08 10:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கனவு-கானும்-வாழ்க்கை-எல்லாம்/62-364186) · `ta`
+
+◼️
+
+[Data](articles/baa0f4e9.json)
+
+---
+
+### New York's Dosa Man: Sri Lankan Tamils ​​on American streets
+
+*2025-09-08 10:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/நியூயோர்க்கின்-தோசை-மனிதன்-அமெரிக்க-தெருக்களில்-அசத்தும்-இலங்கை-தமிழர்/97-364185) · `ta`
+
+The people of New York City are now beginning to eat hot, cheese with pulses and other vegetables, beyond the love of Hot-Tal and Donuts in the Northeast America. This is because Thirukumar Kandasamy, known as the famous Dosa man of New York City.
+
+Thirukumar Kandaswamy is the man with a mustache, pushing his trolley on the streets of Washington Square Park at 9 am. When he begins to fly from the oven of the carriage, people will gather to taste the dosa. His regular customers are the most from the United States to cross the Indians.
+
+Thirukumar Kandasamy is a Sri Lankan Tamil who migrated to New York with a lot of dreams at the beginning of the 21st century. Today, New York Street is becoming a symbol of dosa shops. In his Instta videos, he will love the name of Thirukumar Kandasamy and call it Mr.
+
+...
+
+[Data](articles/0de4a313.json)
+
+[Extended Data](ext_articles/0de4a313.ext.json)
+
+---
+
+### Ranil will announce it to the right time, time
+
+*2025-09-08 10:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரியான-நேரம்-காலம்-பார்த்து-ரணில்-அதை-அறிவிப்பார்/175-364184) · `ta`
+
+United National Party Deputy Leader Ruwan Wijewardena has said that no decision has been taken so far on Ranil Wickremesinghe's visit to parliament.
+
+Ruwan Wijewardena has said that if former President Ranil Wickremesinghe is a member of Parliament, it is good for the country.
+
+If Ranil Wickremesinghe is going to Parliament, he will announce the right time and time.
+
+However, United National Party Deputy Leader Ruwan Wijewardena said that no discussion has been held in this regard.  R
+
+◼️
+
+[Data](articles/ec4e54df.json)
+
+[Extended Data](ext_articles/ec4e54df.ext.json)
+
+---
+
+### The law that is fiercely from today
+
+*2025-09-08 10:05:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-கடுமையாகும்-சட்டம்/175-364182) · `ta`
+
+The Ministry of Transport has announced that the Transport Act will be implemented from today (08).
+
+Transport Deputy Minister Prasanna Gunasena pointed out that police officers across the country will be deployed to check the vehicles.
+
+Unqualified vehicles and colors for transported vehicles, vehicles running with additional lighting in different colors, the front of the vehicles, the back and the two parts
+
+It is also planned to be tested on publishing paps and ads and illegal spare parts.
+
+Transport Deputy Minister Prasanna Gunasena said that the police have been instructed to strictly implement the law from today regarding high -sounding sounds and noise -free vehicles.. Remble
+
+◼️
+
+[Data](articles/ca2c2ab1.json)
+
+[Extended Data](ext_articles/ca2c2ab1.ext.json)
+
+---
+
+### Suspect arrested with a woman
 
 *2025-09-08 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214304) · `si`
 
-පෙරියනීලාවෙනි පොලිස් වසමේ නිලාවෙනි පාර පෙරියනිලාවෙනි ප්‍රදේශයේදී කාන්තාවක් ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධව සැකකරුවෙකු අම්පර අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A team of the Criminal Investigation Bureau has arrested a suspect in connection with the murder of a woman in the Periyaneeanwapura policema Hospital.
 
-පසුගිය 30 වැනිදා සිදුකර ඇති මෙම ඝාතනය සම්බන්ධව එම නිලධාරීන් කණ්ඩායම විසින් සිදුකරනු ලැබූ විමර්ශනයක් මත මෙම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested on an investigation carried out by the officials of the officers who had done on the 30th.
 
-ඒ අනුව ඊයේ (07) දින මෙම සැකකරු අදාළ ඝාතනය සම්බන්ධව ආධාර අනුබල දීමේ චෝදනාව මත පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Accordingly, the suspect has been arrested by the police on charges of supporting the murder yesterday (07).
 
-ඒ සමගම සැකකරු සතුව තිබූ වෑන් රථයක් සහ යතුරුපැදියක්ද පොලිස් භාරයට ගැනීමටද එම නිලධාරීන් කටයුතු කර ඇත.
+The officials have also taken steps to take the suspect's van and a motorcycle.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 20ක් වූ පෙරියනීලාවෙනි 01 ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The suspect is a 20 year, Periyanewapura, a resident of the area.
 
-සිද්ධිය සම්බන්ධව වැඩිදුර විමර්ශන අම්පාර අපරාධ විමර්ශන කාර්යාංශය විසින් සිදුකරති.
+The Ampara Criminal Investigation Bureau is conducting further investigations.
 
 ◼️
 
 [Data](articles/3d2ee21e.json)
+
+[Extended Data](ext_articles/3d2ee21e.ext.json)
 
 ---
 
@@ -92,21 +220,23 @@ The US President states that the warning is his final warning and will not take 
 
 ---
 
-### මාමාගේ පොලු පහරින් බෑණා මරුට
+### Man kills sonarian attack
 
 *2025-09-08 08:49:24* · [`adalk`](https://www.ada.lk/breaking_news/මාමාගේ-පොලු-පහරින්-බෑණා-මරුට/11-418339) · `si`
 
-කරන්දෙණිය ,අගනකැටිය, පදේශයේදී අද(8) අලුයම් කාලයේදී පොලු පහරදීමෙන් පුද්ගලයකු ඝාතනය කොට ඇතැයි කරන්දෙණිය පොලීසිය කියයි.
+Karandeniya police say that a person has been murdered by the police at the Karandeniya, Atane, Yamage (8).
 
-මේ පහරදීමෙන් මිය ගොස් ඇත්තේ කරන්දෙණිය අඟනකැටිය පදිංචි හතලිස්පස් හැවිරිදි තුෂාර සම්පත් නමැත්තෙකි.
+The victim was forty-year-old Thushara Sampath, a resident of Karandeniya, Karandeniya.
 
-සැකකරු සහ මියගිය තැන්තා එකම නිවසේ පදිංචිව මාමණ්ඩිය සහ බෑණා  බවත්  පොලීසිය කියයි.මාමන්ඩිය විසින්  එල්ල කරන ලද පොලු පහරින් බෑනා  මිය ගොස් ඇති බවත් පොලීසිය කියයි.
+Police said that the suspect and the deceased tried to reside in the same house and son-in-law.
 
-සැකකාර මාමණ්ඩිය සිය නිවසේදීම අද(8)උදේ අත් අඩංගුවට ගත් බවත් පොලීසිය කියයි.කරන්දෙණිය පොලීසිය මේ පිළිබඳව වැඩිදුර පරීක්ෂණ පවත්වයි.
+The suspects have been arrested in the morning at the morning (8) this morning.
 
 ◼️
 
 [Data](articles/068fdcd7.json)
+
+[Extended Data](ext_articles/068fdcd7.ext.json)
 
 ---
 
@@ -270,6 +400,8 @@ Based on information received from local residents, officers from the Tangalle P
 
 [Data](articles/45d558cc.json)
 
+[Extended Data](ext_articles/45d558cc.ext.json)
+
 ---
 
 ### Another doubts of ice raw materials find a large haul of house
@@ -305,6 +437,8 @@ As a result of the crash, 15 people lost their lives, and 17 others sustained in
 ...
 
 [Data](articles/7ac738b4.json)
+
+[Extended Data](ext_articles/7ac738b4.ext.json)
 
 ---
 
@@ -343,6 +477,8 @@ Earlier on Sunday, he warned Hamas to accept his terms of an agreement, without 
 ...
 
 [Data](articles/56309994.json)
+
+[Extended Data](ext_articles/56309994.ext.json)
 
 ---
 
@@ -409,6 +545,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/95d817a0.json)
+
+[Extended Data](ext_articles/95d817a0.ext.json)
 
 ---
 
@@ -1492,6 +1630,30 @@ In such a situation, the Liberal Democratic Party is due to decide whether to ho
 
 ---
 
+### Japanese Prime Minister resigns
+
+*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
+
+Japanese Prime Minister Shikheru Ishiba decided to resign The decision has been made with the aim of preventing a split in the ruling party.
+
+Shikheru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
+
+Some party executives have begun to voice their voice that the ruling party has lost a majority.. The Prime Minister has ignored the comments that have been said for the past one month.
+
+But the voices of his resignation day by day are strengthening.
+
+In such a situation, the Liberal Democratic Party is to decide on whether to hold an election in advance for the party leadership.
+
+In order to avoid it, it is reported that he has come forward to resign automatically
+
+◼️
+
+[Data](articles/855eff8b.json)
+
+[Extended Data](ext_articles/855eff8b.ext.json)
+
+---
+
 ### Sri Lanka a target of 192 runs
 
 *2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
@@ -1843,171 +2005,5 @@ He said that the first form of the vaccine was used to treat colon cancer, and a
 [Data](articles/f735182d.json)
 
 [Extended Data](ext_articles/f735182d.ext.json)
-
----
-
-### “The government cannot tolerate the false propaganda of the government”
-
-*2025-09-07 16:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-பொய்-பிரச்சாரங்களைப்-பொறுக்க-முடியாது/175-364149) · `ta`
-
-The Sri Lanka PA (SLPP) has said that we will not tolerate a series of defamation campaigns carried out by the current government and will not allow such procedures to continue in the future.
-
-Speaking at a media briefing at the party headquarters, SLPP National Organizer Namal Rajapakse said legal action would be taken against the Rajapakse family, citing past allegations of "golden horses", Dubai Mariat Hotel, Uganda's financial and rockets.. He said that a new defamation campaign has now been developed over the recent container controversy.
-
-Rajapakse questioned the government about the release of 323 containers from the port of Colombo in January and demanded that the authorities come to the country what items were brought into the country.
-
-He said there was a legitimate suspicion that the containers carrying chemicals were related to those who were released without testing.
-
-...
-
-[Data](articles/3b6f0064.json)
-
-[Extended Data](ext_articles/3b6f0064.ext.json)
-
----
-
-### Prakash Rajsh
-
-*2025-09-07 16:23:14* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රකාශ්-රාජ්-එයි/11-418329) · `si`
-
-Veteran Chusta Raj 09/07, veteran of the song-of resillance of the 'song of resillan' is presented in the 'song of resillan'.
-
-The Global Conference of Food Security and Agriculture will be held at the Polgolla Auditorium in 102 countries from 9/08 to 09/09.
-
-Prakash Raj 907 at Bangalore, Bangalore in India, was arrived at the Katunayake airport from Bangalore, 6.55 pm.
-
-Journalist Tharindu Uduwaragedara, Film Director Chaminda Jayasuriya and others were present at the Katunayake airport.
-
-◼️
-
-[Data](articles/c2355ee6.json)
-
-[Extended Data](ext_articles/c2355ee6.ext.json)
-
----
-
-### Japan resigns
-
-*2025-09-07 16:19:33* · [`adalk`](https://www.ada.lk/international/ජපාන-අගමැති-ඉල්ලා-අස්වෙයි/3-418328) · `si`
-
-Japanese Prime Minister Shi ඩරියා liziba announced the resignation of the liberal democratic part of the Japan's ruling party.
-
-Living costs, rice policy reforms, and the major colleagues of the world, and the main colleagues of the country, Japan, pulls into new political uncertainty.
-
-Since last year, Isibea to power and in July, in July, he was in the midst of vocabulary anger, including the historical defeat, including a historic defeat in Japan
-
-The LDP Leading Alliance lost the majority in elections in elections.
-
-He had more demands to resign from the righting opponents within the post-war period.
-
-His party is to vote on holding a first leadership election on Monday
-
-Among it will be a virtual no-confidence motion against Isiba.
-
-Eshiba ended the details of a trade agreement with the United States last week, and Under it, Japan promised $ 550 billion for low duties in his car division.
-
-◼️
-
-[Data](articles/74c6bc4d.json)
-
-[Extended Data](ext_articles/74c6bc4d.ext.json)
-
----
-
-### Japanese Prime Minister Shikheru Ishiba
-
-*2025-09-07 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224456) · `ta`
-
-International media reports that Japanese Prime Minister Shikheru Ishiba has announced his resignation.
-
-He announced that he would resign in the July election in order to prevent the division of the Liberal Democratic Party.
-
-Shigeru Ishiba, 68, took over as prime minister of Japan in October last year. He is also in charge of the leader of the LDP party. In July, he suffered a setback at the top of the Japanese parliament.
-
-His LDB party and its alliance have not received a majority. Earlier, in the Japanese election held last year, his LTTE alliance did not get a majority in the Lok Sabha.
-
-Over the past few months, the members of his party have urged Prime Minister Shikheru Ishiba to resign.
-
-At a meeting in July and August, he was commented on him. However, he refused to resign, pointing out the US tax on Japan and the situation faced by the country.
-
-...
-
-[Data](articles/53db1c83.json)
-
-[Extended Data](ext_articles/53db1c83.ext.json)
-
----
-
-### Prohibition of lorries carrying mineral items during school hours
-
-*2025-09-07 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/224458) · `ta`
-
-Lorries transporting minerals during school hours are forbidden to go on the streets.
-
-It is reported that the Geological Survey and the Mining Bureau have been suspended for transporting minerals during school time for road safety reasons.
-
-Director General Deepani Weerakoon said that the decision was taken following a recent accident in the recent accident in Tipper and the school van.
-
-Accordingly, the vehicles carrying minerals should be parked in the roadside areas from 6:30 am to 7:45 am and 11:30 am to 2:30 pm.
-
-Awareness announcements have been issued through Divisional Secretariats across the country since September 4.
-
-◼️
-
-[Data](articles/a6f07b4a.json)
-
-[Extended Data](ext_articles/a6f07b4a.ext.json)
-
----
-
-### Actor Prakash Raj arrived
-
-*2025-09-07 16:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-பிரகாஷ்-ராஜ்-வந்தடைந்தார்/175-364146) · `ta`
-
-Kollywood artist Prakash Raj arrived at the Katunayake airport on Sunday (07) to attend an alternative concert called "Song of Resilience" in partnership with the "Neeilini" Global Conference.
-
-◼️
-
-[Data](articles/71ccb6d7.json)
-
-[Extended Data](ext_articles/71ccb6d7.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2025-09-07 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214282) · `si`
-
-The Department of Meteorology has issued an announcement in a strong lightning and heavy rains.
-
-The announcement issued at 03:00 pm today (07) will be valid from 03:00 pm today.
-
-At the evening of the Northern, North Central and Eastern provinces, in the evening or the Eastern provinces, there is an increase in lightning.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Meteorology Department requests people to take necessary steps to minimize the damages caused by lightning.
-
-◼️
-
-[Data](articles/25e09a00.json)
-
-[Extended Data](ext_articles/25e09a00.ext.json)
-
----
-
-### Detention of Piyal Manamparigory and interrogated
-
-*2025-09-07 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214281) · `si`
-
-Chemicals used in Middeniya, Middeniya, in the Talawa house in Middeniya, has been granted permission today (07).
-
-He has detained seven days at the time of his presented to the Walasmulla Magistrate's Court this morning.
-
-◼️
-
-[Data](articles/f35e76ea.json)
-
-[Extended Data](ext_articles/f35e76ea.ext.json)
 
 ---

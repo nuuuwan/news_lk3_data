@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 16:09:48**
+As of **2025-09-08 15:56:35**
 
 ## Newspaper Stats
 
-*Scraped **74,762** Articles*
+*Scraped **74,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,95 +16,43 @@ economynextcom | 4,532
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,236
+adalk | 7,235
 adaderanalk | 9,565
 tamilmirrorlk | 11,135
 virakesarilk | 12,214
-adaderanasinhalalk | 13,022
+adaderanasinhalalk | 13,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,579 (85.0%) of 74,762 articles have been extended.
+63,575 (85.0%) of 74,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
-
-*2025-09-08 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214321) · `si`
-
-හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා සැප්තැම්බර් 22 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
-
-ඒ කිරිබත්ගොඩ ප්‍රදේශයේ රජයට අයත් ඉඩමකට ව්‍යාජ ඔප්පු සකස් කර විකිණීමක් සම්බන්ධව පැවැත්වෙන නඩුව විභාගයට ගත් අවස්ථාවේදීය.
-
-ඔහුව අද (08) මහර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
-
-◼️
-
-[Data](articles/659f905d.json)
-
----
-
-### මෙරට රන් මිල අද දිනය තුළ තෙවරක් ඉහළට
-
-*2025-09-08 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214320) · `si`
-
-මෙරට රත්‍රං මිල අද (08) දිනය තුළ රුපියල් 5,000කින් පමණ ඉහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
-
-ඒ අනුව අද දිනය තුළ තෙවන වරට කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 271,000ක් දක්වා ඉහළ ගොස් තිබේ.
-
-මේ අතර සෙනසුරාදා රු. 288,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද තෙවන වතාවට රු. 293,000ක් දක්වා ඉහළ ගොස් ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
-
-අද උදෑසන සිට කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි තෙවතාවකින් ඉහළ යෑමද විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/dd1db8a1.json)
-
----
-
-### Sri Lanka - Pakistan - Afghan Triangular battle
+### ශ්‍රී ලංකාව - පාකිස්තාන - ඇෆ්ගනිස්තාන තුන්කොන් සටනක්
 
 *2025-09-08 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214319) · `si`
 
-Sri Lanka, Afghanistan and Pakistan, a triangular T20 cricket tournament will be held in November.
+ශ්‍රී ලංකාව, ඇෆ්ගනිස්තානය සහ පාකිස්තානය එක්වන තුන්කොන් විස්සයි20  ක්‍රිකට් තරගාවලියක් නොවැම්බර් මාසයේදී පැවැත්වීමට නියමිතව තිබේ.
 
-The tournament is scheduled to begin in Pakistan on November 17.
+පාකිස්තානයේ සත්කාරකත්වයෙන් පැවැත්වෙන මෙම තරගාවලිය ආරම්භ කිරීමට සැළසුම් කර ඇත්තේ නොවැම්බර් 17 වැනිදාය.
 
-However, it is evidenced by the Bilateral Twenty20 tournament to be held between Sri Lanka and Pakistan due to this tournament.
+කෙසේ වෙතත් මෙම තරගාවලිය හේතුවෙන් ශ්‍රී ලංකාව සහ පාකිස්තානය අතර පැවැත්වීමට සැළසුම් කර තිබූ ද්වීපාර්ශවික විස්සයි20 තරගාවලිය අවලංගු වන බව ද සඳහන්ය.
 
-The Sri Lanka-Afghanistan match will be held on November 19th November 19th of November 19th.
+මෙම තරගාවලිය යටතේ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන තරගය නොවැම්බර් 19 වැනිදාත්, පාකිස්තාන - ශ්‍රී ලංකා තරගය නොවැම්බර් 22 වැනිදාත් පැවැත්වීමට නියමිතය.
 
-The Sri Lanka and Afghanistan will be able to compete on the 22nd on the 22nd and Pakistan and Sri Lanka will match the 27th.
+ඉන් අනතුරුව යළිත් 22 වැනිදා ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය තරග බිමට පිවිසීමට නියමිත අතර පාකිස්තානය සහ ශ්‍රි ලංකාව අතර තරගය 27 වැනිදා පැවැත්වෙනු ඇත.
 
-At the end of the preliminary round, the two teams taking the lead in the bonus mark will be eligible for the finals that will be held on November 29.
+මූලික වටය අවසානයේ ප්‍රසාද ලකුණු සටහනේ පෙරමුණ ගන්නා කණ්ඩායම් ද්විත්වය නොවැම්බර් 29 වැනිදා පැවැත්වෙන අවසන් මහා තරගයට සුදුසුකම් ලබා ගැනීමට නියමිතය.
 
-The first matches will be held at Ravalland and plans to conduct other matches.
+මෙහි පළමු තරග 2 රාවල්පිණ්ඩිහිදී පැවැත්වීමට සැළසුම් කර ඇති අතර සෙසු තරග ලාහෝරයේදී පැවැත්වීමට සැළසුම් කර ඇත.
 
 ◼️
 
 [Data](articles/381b1de8.json)
-
-[Extended Data](ext_articles/381b1de8.ext.json)
-
----
-
-### ආසියානු කුසලානය හෙටින් ඇරඹේ
-
-*2025-09-08 15:23:20* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානය-හෙටින්-ඇරඹේ/9-418353) · `si`
-
-ආසියානු කුසලාන විස්සයි 20 ක්‍රිකට් තරගාවලිය හෙට(09දා) සිට ආරම්භ වීමට නියමිතව තිබේ.
-
-ඒ අනුව ‘ඒ ’ කණ්ඩායම යටතේ ඉන්දියාව, ඕමානය, පාකිස්තානය සහ එක්සත් අරාබි එමීර් රාජ්‍යය තරගවදින අතර, ‘බී’ කණ්ඩායම යටතේ ඇෆ්ගනිස්තානය, බංග්ලාදේශය, හොංකොං සහ ශ්‍රී ලංකාව තරග වැදීමට නියමිතයි.
-
-මෙම තරගාවලියේ පළමු තරගය ලෙස ඇෆ්ගනිස්ථාන කණ්ඩායම සහ හොංකොං කණ්ඩායම තරගවැදීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/49c9e458.json)
 
 ---
 
@@ -1220,25 +1168,21 @@ A movie starring actor Vadivelu goes to eat chicken at the hotel. Chicken 65 wou
 
 ---
 
-### Cartted carts to transport tourists
+### සංචාරකයින් ප්‍රවාහනයට ලී වලින් හැදූ කරත්ත
 
 *2025-09-08 10:37:32* · [`adalk`](https://www.ada.lk/picture_story/සංචාරකයින්-ප්‍රවාහනයට-ලී-වලින්-හැදූ-කරත්ත/10-418343) · `si`
 
-A group of people in the same area have been designed to join the Laase Foreign tourists.
+ලක්ෂපාපන ප්‍රදේශයට පැමිණෙන දෙස් විදෙස් සංචාරකයන් ප්‍රවාහනය කිරිම සදහා එම ප්‍රදේශයේම පිරිසක් එක්ව කරත්ත දෙක්ක නිර්මාණය කර ඇත.
 
-These two carts have not been completed and the creations of these two carts are yet to be completed and the two carts will further enhance the two carts with local and foreign tourists.
+සම්පුර්ණයෙන්ම ලීයෙන් නිර්මාණය කර ඇති මෙම කරත්ත දෙකේ නිර්මාණ කටයුතු මෙතෙක් සම්පුර්ණ කර නොමැති අතර, එම කරත්ත දෙකේ ගමන් කරන දෙස් විදෙස් සංචාරකයන්ගේ ආරක්ෂාව සහිතව එම කරත්ත දෙක තව දුරටත් වැඩි දියුණු කරන බවයි එම කරත්ත නිර්මාණකරුවන් කියා සිටින්නේ.
 
-Since the main road in Nornebridge Laxapana is a high sloping route, the travelers of the road is clearly observed.
+නෝර්ටන්බ්‍රිජ් ලක්ෂපාන ප්‍රධාන මාර්ගය අධික බෑවුම් සහිත මාර්ගයක් බැවින් එම මාර්ගයේ ගමන් ගන්නා අයට ලක්ෂපාන දිය ඇල්ල පැහැදිලිව නිරික්ෂණය කිරිමටද හැකියාවක් ඇත.
 
-The cartwork has intended to go to the corulers from a vehicle from a vehicle from a vehicle up to 2 pathway to the corulest route.
+එම මාර්ගයේ 2 කණුව දක්වා කරත්ත දෙක කදුමුදුන දක්වා වාහනයකින් ඇදලෙන ගොස් එතැන් සිට සංචාරකයන් රැගෙන ලක්ෂපාන දක්වා බෑවුමේ ධාවනය කිරිමටයි එම කරත්ත නිර්මාණ කරුවන් අදහස් කර ඇත්තේ.
 
-Dilith Jayaweera and former Dilum Amunugama, the leader of the University of Lakshapana recently insisted, and the two carts will further enhance the carts and add the carts to work.
-
-◼️
+...
 
 [Data](articles/4e769fb5.json)
-
-[Extended Data](ext_articles/4e769fb5.ext.json)
 
 ---
 
@@ -2073,5 +2017,53 @@ Foreign Minister Vijitha Herath will explain the actions taken by the Government
 [Data](articles/873d4329.json)
 
 [Extended Data](ext_articles/873d4329.ext.json)
+
+---
+
+### Literacy - The seed of mental light
+
+*2025-09-08 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
+
+◼️
+
+[Data](articles/c8ecc66e.json)
+
+[Extended Data](ext_articles/c8ecc66e.ext.json)
+
+---
+
+### Foreign Minister heads  to Geneva for UNHRC session
+
+*2025-09-08 04:49:31* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-heads-to-Geneva-for-UNHRC-session/56-781367) · `en`
+
+Foreign Minister Vijitha Herath yesterday morning departed for Geneva to attend the 60th session of the United Nations Human Rights Council (UNHRC), scheduled to open today, the Foreign Ministry said.
+
+Herath is due to make a special address on behalf of the Sri Lankan Government during the session. He is also expected to meet senior diplomats, including UN High Commissioner for Human Rights Volker Türk, to outline the Government’s recent measures and future plans on human rights protection.
+
+The Minister is accompanied by Foreign Ministry UN and Human Rights Division Director General Dayani Mendis.
+
+◼️
+
+[Data](articles/58cbdbff.json)
+
+[Extended Data](ext_articles/58cbdbff.ext.json)
+
+---
+
+### ‘Kala Wewa Back to the Elephants’ project a success
+
+*2025-09-08 04:47:33* · [`dailyftlk`](https://www.ft.lk/news/Kala-Wewa-Back-to-the-Elephants-project-a-success/56-781366) · `en`
+
+The President’s Media Division (PMD) yesterday said that in parallel with the ‘Clean Sri Lanka’ initiative, the ‘Kala Wewa Back to the Elephants’ project was successfully carried out over three days in the floodplains surrounding the Kala Wewa National Park.
+
+Due to the spread of invasive plant species, including Japan Jabara, across several tank beds in the North Central Province, the tender grass that usually grows in these areas and serves as vital food for elephants, has been destroyed. These grass varieties are rich in protein and highly favoured by wild elephants. It is estimated that around 400 elephants inhabit the vicinity of Kala Wewa, the PMD said in a statement.
+
+A lack of adequate food has driven elephants into nearby villages, intensifying human-elephant conflicts. In recent months, several people have died as a result of elephant attacks. The area is also heavily cultivated with paddy, as well as soya, maize, fruits, and vegetables.
+
+...
+
+[Data](articles/9db1ddb1.json)
+
+[Extended Data](ext_articles/9db1ddb1.ext.json)
 
 ---

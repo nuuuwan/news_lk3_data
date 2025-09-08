@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 04:20:16**
+As of **2025-09-09 02:54:53**
 
 ## Newspaper Stats
 
-*Scraped **74,859** Articles*
+*Scraped **74,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,321 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 763
-economynextcom | 4,537
+economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
-dailyftlk | 5,313
+dailyftlk | 5,306
 adalk | 7,244
-adaderanalk | 9,585
+adaderanalk | 9,583
 tamilmirrorlk | 11,148
-virakesarilk | 12,233
+virakesarilk | 12,224
 adaderanasinhalalk | 13,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,263 (85.8%) of 74,859 articles have been extended.
+64,162 (85.7%) of 74,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### Bowzer driver arrested with ice drug
-
-*2025-09-09 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224585) · `ta`
-
-Police have also recovered ice drugs from his body as the driver has been arrested for driving a fuel -bearing vehicle.
-
-In the adjoining area of ​​the Jaffna Sangupitiya Bridge, police arrested the driver who was driving a fuel tank during a road raid on Monday.. When the arrested driver was searched, they were recovered from his belongings and recovered ice.
-
-The driver of the driver has confirmed that the driver has been using the vehicle and the driver of the vehicle has been confirmed.
-
-◼️
-
-[Data](articles/a0dd0468.json)
-
-[Extended Data](ext_articles/a0dd0468.ext.json)
-
----
-
-### Will Somatna meet Rajapakse again? -Resolution today to analyze the information
-
-*2025-09-09 03:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224584) · `ta`
-
-Mahesh Katulanda, the Chairman of the Missing Person, said that there is a need to re -meet Lance Corporal Somaratne Rajapaksa, who is serving the death penalty in the murder of schoolgirl Krishanthi Kumaraswamy.
-
-Lans Corporal Somaratne Rajapaksa, who was named as the main culprit in the murder of schoolgirl Krishanthi Kumaraswamy, recently sent a letter to President Anura Kumara Dissanayake through his wife.
-
-Subsequently, representatives of the office of the missing persons went to prison and asked him about the matters.
-
-Mahesh Katulantha Kesari told Kesari that the information gathered from Somatna Rajapaksa on the ongoing office of the Missing Persons will be investigated at the meeting of the office of the Office of the Office of the Office of the Office of the Office of the Office today.
-
-◼️
-
-[Data](articles/0ca88072.json)
-
-[Extended Data](ext_articles/0ca88072.ext.json)
-
----
-
-### Establish a special judicial system to handle past violation cases - UN Human Rights Council
-
-*2025-09-09 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224583) · `ta`
-
-The United Nations Human Rights Council, Volcker Dark, has pointed out that it has now had the opportunity to manage and recover the wounds that have been formed by past violence and violence in Sri Lanka, and to recover from their punishment and escape the punishment of human rights violations and international humanitarian laws. He urged the Sri Lankan government to establish the judicial system.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the opening session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights Status at 12.15 am (as per Sri Lanka's Time P. 3.45).
-
-...
-
-[Data](articles/f14241c8.json)
-
-[Extended Data](ext_articles/f14241c8.ext.json)
-
----
-
-### The scars of past violations have not yet been healed among victims - pointing to the British -led internet nations
-
-*2025-09-09 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224582) · `ta`
-
-The UN Human Rights Council (UNHRC) has pointed out at the UN Human Rights Council (UNHRC) that the British -led internet countries have pointed out that their scars are still ongoing among victims of illegal killings, torture and sexual violence in Sri Lanka.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the inaugural session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights System at 12.15 pm (Sri Lanka's Time P. 3.45).
-
-UN Human Rights High Commissioner Volkar Durg recently visited Sri Lanka on behalf of Sri Lanka's Internet and Britain, Canada, North Mesitonia, Monrenegro and Malawi during the debate on the report on the subsequent high -ranking high -ranking.
-
-He also pointed out that their scars are still ongoing among victims of the illegal killings, torture and sexual violence that took place in Sri Lanka in the past.
-
-...
-
-[Data](articles/40c0ef2c.json)
-
-[Extended Data](ext_articles/40c0ef2c.ext.json)
-
----
-
-### Rehabilitation in ensuring responsibility for missing
-
-*2025-09-09 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224581) · `ta`
-
-The European Union, which has expressed dissatisfaction at the UN Human Rights Council, has pointed out that the recession is continuing to ensure the responsibility of the past violations, including the disappearances, and the central point of accountability.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the inaugural session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights System at 12.15 pm (Sri Lanka's Time P. 3.45).
-
-The EU representative, who commented on Sri Lanka's human rights situation during the debate on the subsequent high -ranking report, pointed out that the government is now in the chance to end the past.. He also urged the government's obligation to end them and ensure accountability.
-
-...
-
-[Data](articles/dbdc821b.json)
-
-[Extended Data](ext_articles/dbdc821b.ext.json)
-
----
-
-### India urges Sri Lanka to hold a meaningful devolution - to hold provincial council elections
-
-*2025-09-09 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224580) · `ta`
-
-India, which urged Sri Lanka to take steps to fully implement the country's constitution, take immediate action to take up provincial council elections, and take steps to make a meaningful powers.
-
-In addition, the meaningful power of power and fair reconciliation, which includes all sides, will lead to sustainable peace
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday. Commenting on the statement on Sri Lanka's report on Sri Lanka at yesterday's opening session, the Indian Representative pointed out that India continued to support the country after the war in Sri Lanka in 2009 and the resettlement of the people after the end of the war in Sri Lanka.
-
-Similarly, when Sri Lanka was facing a major economic crisis in 2022, President Anura Kumara Dissanayake visited India in 2024 and Indian Prime Minister Narendra Modi visited Sri Lanka in April 2025.
-
-...
-
-[Data](articles/0eefc559.json)
-
-[Extended Data](ext_articles/0eefc559.ext.json)
-
----
-
-### Minister Bimal Rathnayake addresses Jeddah Chamber of Commerce
-
-*2025-09-09 03:07:04* · [`dailyftlk`](https://www.ft.lk/business/Minister-Bimal-Rathnayake-addresses-Jeddah-Chamber-of-Commerce/34-781422) · `en`
-
-Transport, Highways, Ports and Civil Aviation Minister Bimal Rathnayake and his delegation were received by the Chairman, Vice-Chairman and the Secretary General of Jeddah Chamber of Commerce, the oldest Chamber in Saudi Arabia, on 4 September at its headquarters in Jeddah.
-
-Addressing the Chamber, Minister Rathnayake highlighted Sri Lanka’s strategic geographic location in the Indian Ocean and presented investment opportunities and proposals in ports, logistics and civil aviation sectors. He also briefed on the recent political transformation and economic stability in the country, underscoring the Government’s commitment to transparency and creating a corruption-free as well as investor-friendly environment.
-
-...
-
-[Data](articles/f6aa9044.json)
-
-[Extended Data](ext_articles/f6aa9044.ext.json)
-
----
-
-### BASL, CSSL to strengthen ties between technology and law
-
-*2025-09-09 03:06:08* · [`dailyftlk`](https://www.ft.lk/business/BASL-CSSL-to-strengthen-ties-between-technology-and-law/34-781421) · `en`
-
-The Bar Association of Sri Lanka (BASL) yesterday said it has signed a Memorandum of Understanding (MoU) to foster collaboration with the Computer Society of Sri Lanka (CSSL).
-
-Under the MoU, CSSL commits to providing technical expertise to support BASL’s IT initiatives, digital transformation, and capacity-building projects. In return, BASL will extend its legal capacity-building creating a mutually beneficial partnership.
-
-This collaboration reflects a shared vision to integrate the strengths of both organisations, ensuring that BASL and CSSL remain responsive to the evolving needs of their members and the nation. Together, they aim to drive innovation, elevate professional standards, and promote growth within Sri Lanka’s ICT and legal communities.
-
-...
-
-[Data](articles/cce9fc5f.json)
-
-[Extended Data](ext_articles/cce9fc5f.ext.json)
-
----
-
-### Panasian Power’s 5 MW Galle solar plant fully operational
-
-*2025-09-09 03:05:20* · [`dailyftlk`](https://www.ft.lk/business/Panasian-Power-s-5-MW-Galle-solar-plant-fully-operational/34-781420) · `en`
-
-Panasian Power PLC yesterday said that its 5 MW ground-mounted solar project in Galle has successfully connected to the grid and running at full capacity.
-
-The plant had initially connected to the Galle Grid Substation on 29 August. However, due to limitations in the transmission network, the plant was not operating in its full capacity, the company said in a statement.
-
-The CEB confirmed that the necessary upgrades have been done and accordingly, the plant was operating at full capacity from 4 September, the company said.
-
-This is the 4th 5 MW ground-mounted solar power plant connected to the national grid out of the seven projects which the company entered into PPAs in 2024.
-
-◼️
-
-[Data](articles/5a942123.json)
-
-[Extended Data](ext_articles/5a942123.ext.json)
-
----
-
-### Japan hands over infectious waste management equipment to 15 hospitals across SL
-
-*2025-09-09 03:00:49* · [`dailyftlk`](https://www.ft.lk/news/Japan-hands-over-infectious-waste-management-equipment-to-15-hospitals-across-SL/56-781419) · `en`
-
-From left: Deputy Foreign Affairs Minister Arun Hemachandra, Japanese Ambassador Akio Isomata, Health Minister Dr. Nalinda Jayatissa, and JICA Sri Lanka Chief Representative Kenji Kuronuma
-
-The Embassy of Japan has said that Ambassador Akio Isomata handed over infectious waste management equipment to 15 hospitals in the country at a ceremony at the Trincomalee General Hospital.
-
-The equipment has been provided under the ‘Project for the Improvement of Infectious Waste Management’, for which the Exchange of Notes was signed in April 2023 with a grant assistance of JPY 503 million (approx. $ 3.7 million) by the Government of Japan.
-
-...
-
-[Data](articles/bb129a6b.json)
-
-[Extended Data](ext_articles/bb129a6b.ext.json)
-
----
-
-### Tilvin dismisses rumours of PM’s removal
-
-*2025-09-09 02:57:54* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-dismisses-rumours-of-PM-s-removal/56-781418) · `en`
-
-The main constituent party of the NPP Government Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva yesterday squashed claims that Prime Minister  Dr. Harini Amarasuriya will be removed from her post.
-
-Speaking at a public meeting, Silva said such speculation had been repeatedly circulated by the Opposition but had not materialised.
-
-“Earlier they claimed Harini Amarasuriya would lose her ministerial portfolio. Now they are saying she will be removed as Prime Minister. These are nothing more than their dreams,” he said. Silva added that the Opposition had been making what he described as unfounded claims for a long period, none of which had come to pass.
-
-◼️
-
-[Data](articles/57e8666f.json)
-
-[Extended Data](ext_articles/57e8666f.ext.json)
-
----
-
-### More chemicals linked to ICE production seized in Kandana
-
-*2025-09-09 02:55:18* · [`dailyftlk`](https://www.ft.lk/news/More-chemicals-linked-to-ICE-production-seized-in-Kandana/56-781417) · `en`
-
-Sri Lanka Police yesterday seized over 100 kilos of chemicals suspected to be used in the manufacture of crystal methamphetamine (ICE) at a residence in Kandana following a cache of similar suspect chemicals over the weekend in Tangalle.
-
-The white substances were found dumped on the premises of a house and were detected during investigations linked to a suspect already in custody. No arrests have been made in connection with the Kandana discovery. Police said the stock appeared similar to chemicals recovered during a raid on a property in Thalawa, Middeniya over the weekend.
-
-Meanwhile, in a separate operation in Netolpitiya, Tangalle, police acting on information from residents discovered another consignment of white chemicals suspected to be used in ICE production. The seized stocks are to be tested further and investigations are continuing.
-
-◼️
-
-[Data](articles/3ff25097.json)
-
-[Extended Data](ext_articles/3ff25097.ext.json)
-
----
-
-### SC sets Feb. 2026 date to hear petitions against Ranil’s Deshabandu IGP appointment
-
-*2025-09-09 02:54:54* · [`dailyftlk`](https://www.ft.lk/news/SC-sets-Feb-2026-date-to-hear-petitions-against-Ranil-s-Deshabandu-IGP-appointment/56-781416) · `en`
-
-The Supreme Court fixed 12 February 2026 to take up petitions challenging the legality of former President Ranil Wickremesinghe’s appointment of Deshabandu Thennakoon as Inspector General of Police (IGP) yesterday.
-
-Nine petitions have been filed, including by Malcolm Cardinal Ranjith, the Young Journalists Association, and other parties.
-
-In August, Parliament voted to remove Thennakoon from office, with 177 members in favour, none against, and one abstention. This was the first time a sitting IGP had been removed through a parliamentary resolution.
-
-...
-
-[Data](articles/b51af9a5.json)
-
-[Extended Data](ext_articles/b51af9a5.ext.json)
-
----
-
-### Humanity excavation should be suited to international principles - members of the council
-
-*2025-09-09 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224579) · `ta`
-
-Members of the Council, including Britain, New Zealand, Switzerland, Switzerland and Australia, have urged the government's excavation operations in Sri Lanka to accommodate international principles and to remove the terrorism law used to target individuals.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday. The report on Sri Lanka was submitted by the High Commissioner Volcker Durg at yesterday's opening session and followed the discussion on the report.
-
-Accordingly, Japan expressed his appreciation for the ongoing social and economic development projects in the North-East Provinces, saying that the Sri Lankan government's commitment to the dedicated obligation to build national reconciliation, accountability and justice to ensure justice.. Similarly, it announced that it was ready to provide necessary cooperation for constructive measures to build reconciliation.
-
-...
-
-[Data](articles/5555739b.json)
-
-[Extended Data](ext_articles/5555739b.ext.json)
-
----
-
-### The UN Human Rights Council should work without sides - Pakistan, Laos, Eritrea in support of Sri Lanka
-
-*2025-09-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224578) · `ta`
-
-Representatives of Pakistan, Laos and Eritrea, who urged the UN Human Rights Council to act on the basis of justification, have announced that they support Sri Lanka's internal procedures.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). A report on Sri Lanka was submitted by the High Commissioner Volcker Darek at the inaugural session and followed the report.
-
-Representatives from countries including Laos, Pakistan and Eritrea commented in support of Sri Lanka.
-
-Although Sri Lanka has rejected the 57 -1 resolution in the last session, they have praised the UN Human Rights Commissioner Volkar Dareg to visit the country.
-
-At the same time, representatives of the United Nations Human Rights Council, which urged the UN Human Rights Council to act on the basis of justification, declared that they would support the internal processes of Sri Lanka.
-
-...
-
-[Data](articles/ad402284.json)
-
-[Extended Data](ext_articles/ad402284.ext.json)
-
----
-
-### The process of drug purchases in pharmaceutical products
-
-*2025-09-09 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224577) · `ta`
-
-Health Minister Nalinda Jayatissa said that if there is a shortage of pharmaceuticals and medical equipment in a particular hospital, it is not a shortage caused by the shortage of funds but due to the problem of purchasing them.
-
-86 newly recruited by the Ministry of Health. The appointment letters for recruitment for the instructions for the instructions defined by these dental graduates were presented with the Minister of Health and Mass Media at the Hector Koppekaduwa Agricultural Research and Training Institute in Colombo under the patronage of Health and Media Minister Nalinda Jayatissa.
-
-The projects that are necessary to establish every sector in the field of scientifically to improve the health services of this country are organized.. Since 2019, many dental surgeons have been recruited for defined algorithms. Steps will be taken in the future to provide immediate appointments to those who have fulfilled the training.
-
-...
-
-[Data](articles/7a6f313d.json)
-
-[Extended Data](ext_articles/7a6f313d.ext.json)
-
----
 
 ### Roadmap for Sri Lanka’s regenerative future
 
@@ -395,26 +99,6 @@ At the same time, the opposition parties are urging not only the Prime Minister 
 ---
 
 ### 2025-09-08 (Monday)
-
-### French govt collapses after Prime Minister Bayrou loses confidence vote
-
-*2025-09-08 23:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112301/french-govt-collapses-after-prime-minister-bayrou-loses-confidence-vote) · `en`
-
-French lawmakers voted to oust Prime Minister François Bayrou Monday, plunging the country into a new political crisis and leaving it without a government at a time of increasing economic strain and geopolitical tensions.
-
-A total of 364 MPs voted against Bayrou and 194 voted for him after he called the vote in a bid to push through an unpopular €44 billion ($51 billion) savings plan that included scrapping two public holidays and freezing government spending. The 364 votes against Bayrou were well above the 280-vote threshold needed to topple the government.
-
-Bayrou will now be forced to step down after just nine months in office, following in the footsteps of his predecessor Michel Barnier, who lost a no-confidence vote last December.
-
-Bayrou is expected to submit his resignation to French President Emmanuel Macron on Tuesday morning, according to CNN affiliate BFMTV. The prime minister’s departure leaves Macron with few palatable options.
-
-...
-
-[Data](articles/286de450.json)
-
-[Extended Data](ext_articles/286de450.ext.json)
-
----
 
 ### French Prime Minister loses - government collapses
 
@@ -778,22 +462,6 @@ However, the magistrate ordered the suspect to be remanded until the 10th and se
 
 ---
 
-### Sri Lanka insists on local mechanism to address rights abuses amid UN scrutiny
-
-*2025-09-08 19:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-insists-on-local-mechanism-to-address-rights-abuses-amid-un-scrutiny-239765/) · `en`
-
-ECONOMYNEXT – Sri Lanka Foreign Minister Vijitha Herath told the United Nations Human Rights Council (UNHRC) on Monday that it remains committed to addressing past rights concerns through its own domestic mechanisms rather than accepting external interventions.
-
-Speaking during the 60th Session of the Council in Geneva, the Sri Lankan delegation stressed that President Anura Kumara Dissanayake’s government, elected almost a year ago, is already implementing reforms to promote accountability, reconciliation, and good governance.
-
-Delivering the country statement on September 8, Minister Herath said the government had embarked on “a historic journey towards transformational change” since assuming power in late 2024.
-
-...
-
-[Data](articles/23f53eca.json)
-
----
-
 ### Police equipment used for official duties found on land in Middeniya
 
 *2025-09-08 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112297/police-equipment-used-for-official-duties-found-on-land-in-middeniya) · `en`
@@ -1027,24 +695,6 @@ The Magistrate also further stated that the mobile phone of the suspect sent to 
 [Data](articles/7b5bfb33.json)
 
 [Extended Data](ext_articles/7b5bfb33.ext.json)
-
----
-
-### Sri Lanka worker remittances up 18-pct in August 2025
-
-*2025-09-08 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-worker-remittances-up-18-pct-in-august-2025-239763/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s official remittances rose 18 percent to 680.8 million dollars in August 2025, while the total in the first eight months reached 5.12 billion dollars rising 19.5 percent from a year ago, central bank data showed, with more people leaving to work abroad.
-
-The worker remittances hit a six-year high in 2024 after a record number from the island nation’s labour force left the country searching for foreign jobs amid Sri Lanka’s recovery from an unprecedented economic crisis, official data showed.
-
-In 2024 full year remittances rose 10.1 percent to 6.57 billion dollars, from nearly 6 billion in the previous year, the Central Bank data showed.
-
-Worker remittances are one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis hit in 2022.
-
-...
-
-[Data](articles/cdf385c5.json)
 
 ---
 
@@ -1306,50 +956,6 @@ Commenting on this training operation, US Ambassador to Sri Lanka Julie Sung sai
 
 ---
 
-### Sri Lanka’s Asia Asset Finance to raise 3bn through debenture issue
-
-*2025-09-08 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-to-raise-3bn-through-debenture-issue-239745/) · `en`
-
-ECONOMYNEXT – Sri Lanka finance company, Asia Asset Finance Plc said it was planning to raise up to 3 billion through a debenture sale.
-
-The finance company will issue 30 million listed, rated, subordinated, unsecured, redeemable debentures at 100 rupees a piece.
-
-The debentures have a tenor of five years, the company said in stock exchange filing.
-
-“The coupon frequency and the interest rates are to be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time.”
-
-The issue is subject to obtaining all related approvals from the relevant regulatory bodies.
-
-The company proposes to have these debentures listed on the Colombo Stock Exchange. (Colombo/Sep8/2025).
-
-◼️
-
-[Data](articles/53c6d72c.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-08 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-239751/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat to the US dollar at 301.97/302.02 Monday, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.12.2028 closed at 9.00/10 percent, up from 8.98/9.08 percent.
-
-A bond maturing on 15.12.2029 closed at 9.51/55 percent, up from 9.50/55 percent.
-
-A bond maturing on 15.12.2032 closed at 10.35/43 percent, down from 10.35/45 percent.
-
-A bond maturing on 15.09.2034 closed at 10.75/90 percent.  (Colombo/Sep8/2025)
-
-◼️
-
-[Data](articles/b62df2de.json)
-
----
-
 ### Willing to work together
 
 *2025-09-08 17:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இணைந்து-பணியாற்ற-விருப்பம்/175-364224) · `ta`
@@ -1583,26 +1189,6 @@ According to the government administration week, the Ministry of Public Administ
 [Data](articles/aa699e25.json)
 
 [Extended Data](ext_articles/aa699e25.ext.json)
-
----
-
-### Sri Lanka committed to accountability process only through domestic mechanisms: FM tells UNHRC
-
-*2025-09-08 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112288/sri-lanka-committed-to-accountability-process-only-through-domestic-mechanisms-fm-tells-unhrc) · `en`
-
-Minister of Foreign Affairs Vijitha Herath says Sri Lanka rejects any external interference or mechanisms to investigate alleged human rights violations that occurred during the conflict with the LTTE.
-
-Responding to the report presented on Sri Lanka by the United Nations High Commissioner for Human Rights Volker at the 60th session of the UN Human Rights Council in Genève today (08), Minister Vijitha Herath on behalf of the government said Sri Lanka is committed to the accountability process only through a domestic mechanism.
-
-Foreign Minister Herath said since coming into power, the present National People’s Power (NPP)-led government has taken a number of steps to ensure the safety and prosperity of all Sri Lankans.
-
-The Minister therefore requested the UN Human Rights Council to acknowledge the progress made by the new government and sought additional time for the administration to deliver its promises to all Sri Lankans including on the accountability mechanisms.
-
-...
-
-[Data](articles/098690d4.json)
-
-[Extended Data](ext_articles/098690d4.ext.json)
 
 ---
 
@@ -2003,5 +1589,451 @@ The Israeli military said soldiers had also been deployed to the area and were s
 [Data](articles/a88967fe.json)
 
 [Extended Data](ext_articles/a88967fe.ext.json)
+
+---
+
+### In the skull, father -in -law:
+
+*2025-09-08 14:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்டையில்-போட்டார்-மாமனார்-ம-ண்டையை-போட்டார்-மருமகன்/175-364209) · `ta`
+
+Police said that the death of a son -in -law on the spot, which was attacked by Uncle Dub and Dub Bena in the skull of Polel, on Sunday night (07) in the Talgahawatta area, which belongs to the Karandeniya Police Division in Galle.
+
+A 24 -year -old nephew from Moragoda has died. The father -in -law surrendered to the police.
+
+The nephew has been drinking with his friends in his house. As the wine party is over, the son -in -law has asked his father -in -law to bring the friends who had been drowned to their homes.
+
+However, the father -in -law refused to give his three -wheeler. The furious son -in -law has tried to attack his wife by smashing the door of the house.
+
+IFrame's father -in -law attacked his son -in -law to prevent her son -in -law. The injured son -in -law died on the spot.
+
+Karandeniya police are conducting further investigations, saying that the 58 -year -old father -in -law has surrendered to the police station.
+
+◼️
+
+[Data](articles/2672c9bc.json)
+
+[Extended Data](ext_articles/2672c9bc.ext.json)
+
+---
+
+### Disciplinary inquiry underway against Dr. Palitha Rajapaksha over comments on medicine shortage
+
+*2025-09-08 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112280/disciplinary-inquiry-underway-against-dr-palitha-rajapaksha-over-comments-on-medicine-shortage) · `en`
+
+Dr. Palitha Rajapaksha attached to the Badulla Teaching Hospital has been summoned before the Public Service Commission for a disciplinary inquiry.
+
+This is in connection with a statement he made regarding the recent shortage of medicines at state hospitals.
+
+When inquired by Ada Derana, Dr. Palitha Rajapaksha stated that he is currently at the Public Service Commission following a summons issued through the Ministry of Health.
+
+Dr. Palitha Rajapaksha was commended for discharging his duties with utmost dedication during a horrific bus accident on the Ella–Wellawaya main road, last week.
+
+Dr. Palitha Rajapaksha acted with great dedication to save the lives of the victims, disregarding his own safety, according to area residents who rushed to the accident site.
+
+◼️
+
+[Data](articles/843833b7.json)
+
+[Extended Data](ext_articles/843833b7.ext.json)
+
+---
+
+### LTTE terrorists killed in clashes - 5 terrorists killed in clashes
+
+*2025-09-08 14:30:16* · [`adalk`](https://www.ada.lk/breaking_news/ජෙරුසලම-නගරයේදී-ත්‍රස්ත-ප්‍රහාරයක්---05-දෙනෙකු-මරුට/11-418352) · `si`
+
+Five persons have been killed in a shooting near a Rhothi bus stand in the northern boundary of the city of Jerusalem.
+
+Foreign media reports that nine others have been hospitalized in the shooting.
+
+Two LTTE terrorists were shot from Palestine.
+
+◼️
+
+[Data](articles/92f6a39b.json)
+
+[Extended Data](ext_articles/92f6a39b.ext.json)
+
+---
+
+### Mushroom killer's life sentenced to life
+
+*2025-09-08 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214318) · `si`
+
+The Australian woman has been sentenced to three life sentences to the Australian woman, who was convicted of killing three guests and to blame three guests in the world.
+
+It is said that the impaisons are specified in 33 years.
+
+The life sentence was sentenced to 50 years old, a 50-year-old woman named Eroin Patterson.
+
+The victimized by Erin Patterson, who was found guilty, has been invited to their home for lunch.
+
+But her separated husband that day had not come and had come to his parents, aunt, and uncle.
+
+After the eating, the four of these four were injured due to illness, and after a few days, Don and Gail Pattersen died after suffering from a multi-age sickness, and his aunt had died.
+
+Meanwhile, Simon's Uncle Simon's uncle has been destroyed due to treatment.
+
+Investigations have revealed that the world's poisonous mushrooms were mixed with the food of these four.
+
+The police also investigated the meal provided by Erin, where she had the world's poisonous mushrooms.
+
+...
+
+[Data](articles/da2258f2.json)
+
+[Extended Data](ext_articles/da2258f2.ext.json)
+
+---
+
+### Orders to be placed in detention until the end of the beef trial
+
+*2025-09-08 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214317) · `si`
+
+The Attorney General has informed the Colombo High Court today that the Criminal Investigation Department (CID) is a powerful drug detention officer, who has been withdrawn by the Defense Secretary under the Prevention of the Terrorism Act.
+
+Senior State Counsel Sajith Bandara has notices this case before Colombo High Court Judge Sujeewa Nissanka.
+
+The State Attorney was informed when the case was taken up with the recent past, he was remanded after the detention order issued by the Defense Secretary against the defendant.
+
+However, the Defense Secretary had decided to hold the hearing of the suspect in detail the security of the suspect in detail today.
+
+Attorney-at-Law Jaliya Samarasinghe appearing on behalf of that notification, Mr. Jaliya Samarasinghe appearing on behalf of that notice.
+
+The lawyer pointed to the court that his client was in custody for nearly two years, he was notified to retain detention orders until the case would be taken back.
+
+...
+
+[Data](articles/166f4bc0.json)
+
+[Extended Data](ext_articles/166f4bc0.ext.json)
+
+---
+
+### Sri Lanka Economic and Investment Summit to focus on tourism
+
+*2025-09-08 14:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-and-investment-summit-to-focus-on-tourism-239712/) · `en`
+
+ECONOMYNEXT – Day One of the Sri Lanka Economic and Investment Summit 2025 is set to focus on how the island nation can unlock greater potential in tourism, the Ceylon Chamber of Commerce said.
+
+The session will address why Sri Lanka has struggled to unlock its full tourism potential.
+
+The discussion will focus on the need for a coordinated national effort to position Sri Lanka as a top-tier destination.
+
+Speakers will draw lessons from peer economies and examine how Sri Lanka can build a globally competitive tourism brand.
+
+The panel will feature European Union ambassador Carmen Moreno, and keynote speaker Natalie Kidd – Managing Director, Intrepid Travel – Asia.
+
+Kidd also serves on the Board of the Global Sustainable Tourism Council.
+
+...
+
+[Data](articles/474c4504.json)
+
+[Extended Data](ext_articles/474c4504.ext.json)
+
+---
+
+### I have been stealing for years: Stealing: The joy of stealing: the head of the panchayat
+
+*2025-09-08 14:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆண்டுகளாக-திருடுகிறேன்-திருடும்-போது-கிடைக்கும்-மகிழ்ச்சிக்கு-அளவில்லை-ஊராட்சி-தலைவி/175-364208) · `ta`
+
+"I have been engaged in theft for 15 years, despite money, fame and facilities," the head of the Dravida Munnetra Kazhagam, who was arrested in the Chain, has confessed.
+
+Varalakshmi, a native of Chennai, (age 50). When she returned to Chennai on a government bus from Kanchipuram, a woman stole her 5 shaving jewelery.
+
+The Coimbatore police investigated and arrested Bharathi (51 years old) from the DMK, the leader of the Nariyampattu panchayat in Tirupathur district.
+
+I, Ambur, Vaniyambadi, Tirupathur, Velur, Krishnagiri, in many places, running buses, I have stolen the attention of women.
+
+Talking with kids like good girl and engaged in jewelry. For the past 15 years, I have been involved in the theft business. I have built a commercial complex in my hometown, in the money that has sold the stolen jewelry.
+
+...
+
+[Data](articles/ca299123.json)
+
+[Extended Data](ext_articles/ca299123.ext.json)
+
+---
+
+### “Harak Kata” to remain in custody under PTA until trial ends – AG Informs court
+
+*2025-09-08 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112279/harak-kata-to-remain-in-custody-under-pta-until-trial-ends-ag-informs-court) · `en`
+
+Nadun Chinthaka Wickramaratne, also known as “Harak Kata”, a prominent underworld figure allegedly linked to large-scale drug trafficking, is to remain in custody under the Prevention of Terrorism Act (PTA) until the conclusion of legal proceedings, as per a detention order issued by the Secretary to the Ministry of Defence, the Attorney General informed the Colombo High Court today (08).
+
+This submission was presented by Senior State Counsel Sajith Bandara, appearing on behalf of the Attorney General, during today’s hearing before High Court Judge Sujeewa Nissanka, Ada Derana reporter said.
+
+During a previous hearing, the State Counsel informed court that after the expiry of the initial detention order, the suspect would be produced in remand custody. However, due to security concerns, the Secretary of the Ministry of Defence has decided to extend his detention under the PTA.
+
+...
+
+[Data](articles/58deb281.json)
+
+[Extended Data](ext_articles/58deb281.ext.json)
+
+---
+
+### CEB workers threaten to intensify trade union action if demands are not met
+
+*2025-09-08 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112278/ceb-workers-threaten-to-intensify-trade-union-action-if-demands-are-not-met) · `en`
+
+The Sri Lanka Nidahas Sewaka Sangamaya of the Ceylon Electricity Board (CEB) claims that the government has not yet paid any attention to the ongoing work-to-rule campaign initiated by CEB workers.
+
+The trade union action was launched recently in protest against the proposed restructure of the CEB into four separate entities. According to reports, the first phase of the trade union action is expected to continue until September 15.
+
+However, if the government fails to provide a satisfactory response, the union has stated that they are prepared to escalate the action into a full-scale strike.
+
+This was stated by Prabath Priyantha, the General Secretary of the CEB Nidahas Sewaka Sangamaya.
+
+◼️
+
+[Data](articles/ea59eca2.json)
+
+[Extended Data](ext_articles/ea59eca2.ext.json)
+
+---
+
+### Funds for the education of children of migrant workers
+
+*2025-09-08 13:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்ந்த-தொழிலாளர்களின்-குழந்தைகளின்-கல்விக்கு-நிதி/175-364207) · `ta`
+
+The Presidential Fund is planning to implement a scholarship program to protect the education of the children of Sri Lankans affected by various disasters, including dies abroad, disabled and abroad.
+
+The President's Fund, the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism and the Foreign Employment Bureau is to implement the project, according to the implementation of "no one in education".
+
+Discussion on expanding the services of the President was held recently under the patronage of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and the President's Senior Additional Secretary and Secretary of the President's Fund Roshan Kamage.. The project was announced.
+
+The purpose of this program is to ensure the school education and university education of the children of Sri Lankan workers who face disasters abroad.. The relevant guidelines are to be released in the coming days in the coming days.
+
+...
+
+[Data](articles/51eef924.json)
+
+[Extended Data](ext_articles/51eef924.ext.json)
+
+---
+
+### Disciplinary inquiry into Medical Palitha Rajapaksa
+
+*2025-09-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214316) · `si`
+
+Medical Palitha Rajapaksa, Badulla Teaching Hospital, has been called to the Public Service Commission for a disciplinary inquiry.
+
+Upon inquiry by Dr. Palitha Rajapaksa, he said that he had come to the Public Service Commission.
+
+Dr. Palitha Rajapaksa was committed to saving the lives of the victims, despite his risk of life at the Ella-Wellawaya main road.
+
+◼️
+
+[Data](articles/6c815337.json)
+
+[Extended Data](ext_articles/6c815337.ext.json)
+
+---
+
+### Ice in Bogawantalawa: Two arrested
+
+*2025-09-08 13:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொகவந்தலாவையில்-ஐஸ்-இருவர்-கைது/76-364205) · `ta`
+
+Two persons from Bogawantalawa have been arrested by Norwood police with ice drugs.
+
+Thus, 170 milligrams of ice from those arrested is a drug.
+
+Norwood police said that two suspects were arrested in the three -wheeler during a raid on the road ban on information provided by the State Intelligence Unit.
+
+The two are from the Bogawantalawa Siripura and Peppelton areas, said the Norwood Police Station.
+
+◼️
+
+[Data](articles/4ee533d4.json)
+
+[Extended Data](ext_articles/4ee533d4.ext.json)
+
+---
+
+### Bail for Nimal Lansa!
+
+*2025-09-08 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224519) · `ta`
+
+The Negombo High Court today (08) ordered the release of former State Minister Nimal Lansa on bail.
+
+The order was issued when Nimal Lansa, who was interrogated, was produced before the Negombo High Court today.
+
+Accordingly, the Negombo High Court has ordered Nimal Lansa to be released on two bodies worth Rs 2 lakh.
+
+Nimal Lansa has been released on bail after she surrendered on August 29 at Negombo, Negombo, on charges of attacking and use of weapons at a demonstration in 2006.
+
+◼️
+
+[Data](articles/a21f4721.json)
+
+[Extended Data](ext_articles/a21f4721.ext.json)
+
+---
+
+### 15 injured in the place where Jerusalem
+
+*2025-09-08 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214315) · `si`
+
+Foreign media reports that 15 people were injured in a shooting at Rott Junction in Jerusalem, Israeli.
+
+Foreign media reports that at least two gunmen had been shot by two gunmen.
+
+◼️
+
+[Data](articles/38bfa445.json)
+
+[Extended Data](ext_articles/38bfa445.ext.json)
+
+---
+
+### Sri Lanka’s Foreign Minister to address Human Rights Council
+
+*2025-09-08 13:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-foreign-minister-to-address-human-rights-council-239708/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Foreign Affairs Vijitha Herath will address the 60th Session of the Human Rights Council, following the presentation of the report of the UN High Commissioner for Human Rights on the human rights situation in Sri Lanka.
+
+His statement will be in line with Sri Lanka’s “continued constructive engagement with the Council”, the ministry said in a statement.
+
+This will be followed by an interactive dialogue, during which Member and Observer States will make interventions.
+
+Herath will also hold bilateral meetings with countries and with the UN High Commissioner for Human Rights.
+
+The HRC is scheduled to be held from September 8 to October 8 in Geneva. (Colombo/Sep8/2025)
+
+◼️
+
+[Data](articles/6b035ab4.json)
+
+[Extended Data](ext_articles/6b035ab4.ext.json)
+
+---
+
+### රක්ෂිත බන්ධනාගාරගත කර සිටි නිමල් ලන්සාට අද ලැබුණු නියෝගය මෙන්න
+
+*2025-09-08 13:23:17* · [`adalk`](https://www.ada.lk/breaking_news/රක්ෂිත-බන්ධනාගාරගත-කර-සිටි-නිමල්-ලන්සාට-අද-ලැබුණු-නියෝගය-මෙන්න/11-418351) · `si`
+
+Former State Minister Nimal Lansa, who was arrested and remanded, has been released on bail.
+
+He was arrested recently regarding several charges including an assault in 2006.
+
+◼️
+
+[Data](articles/ceeb5929.json)
+
+[Extended Data](ext_articles/ceeb5929.ext.json)
+
+---
+
+### Woman killed three people in Australia - 33 years of unpaid life sentence!
+
+*2025-09-08 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224495) · `ta`
+
+International media reports that Australian woman Erin Patterson has been sentenced to 33 years without bail.
+
+In 2023, he was accused of killing three relatives and attempting to kill another.
+
+Subsequently, during lunch, he was convicted that Erin Patterson was guilty of his accused that he had exchanged beef with toxic mushrooms mixed with toxic mushrooms.
+
+It is reported that the 50 -year -old Erin's inquiries have not been emotional in any way, and Erin, who closed his eyes in court, opened his eyes only when he read the crime's punishment when the judge declared the verdict.
+
+Erin's former father -in -law Dan Patterson, mother -in -law Kail Patterson and Gayle's sister Heather Wilkinson died after being treated at the hospital after eating the meal on July 29, 2023.
+
+It is reported that hedhar Wilkinson's husband, Ian Wilkinson's hospital, has been treated at the hospital and survived the survival of the other person who eaten toxic food.
+
+◼️
+
+[Data](articles/addff430.json)
+
+[Extended Data](ext_articles/addff430.ext.json)
+
+---
+
+### Bail for Nimal Lansa
+
+*2025-09-08 13:21:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிமல்-லான்சாவுக்கு-பிணை/175-364204) · `ta`
+
+It is noteworthy that he was recently arrested and interrogated by the Cochina Police in connection with the attack on the house of a city councilor during the 2006 provincial council election.. Remble
+
+◼️
+
+[Data](articles/6bcac88f.json)
+
+[Extended Data](ext_articles/6bcac88f.ext.json)
+
+---
+
+### Suspected terror attack at entrance to Jerusalem, some 15 injured by gunfire
+
+*2025-09-08 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112277/suspected-terror-attack-at-entrance-to-jerusalem-some-15-injured-by-gunfire) · `en`
+
+Medics are treating some 15 victims who were injured by gunfire in a suspected terror attack at the Ramot Junction entrance to Jerusalem, says the Magen David Adom ambulance service.
+
+According to preliminary reports, at least two gunmen carried out the shooting.
+
+◼️
+
+[Data](articles/655d3afe.json)
+
+[Extended Data](ext_articles/655d3afe.ext.json)
+
+---
+
+### Nimal Lansa released on bail
+
+*2025-09-08 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214314) · `si`
+
+Former MP Nimal released on bail.
+
+He was arrested recently after the 2006 incident, he was arrested and remanded.
+
+Accordingly, the 6th High Court of Negombo has released on bail.
+
+◼️
+
+[Data](articles/6e5d5d7e.json)
+
+[Extended Data](ext_articles/6e5d5d7e.ext.json)
+
+---
+
+### Former MP Nimal Lanza arrested over assault incident granted bail
+
+*2025-09-08 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112276/former-mp-nimal-lanza-arrested-over-assault-incident-granted-bail) · `en`
+
+Former Member of Parliament Nimal Lanza, who was arrested by the Kochchikade Police over an assault incident and subsequently remanded by court, has been granted bail, Ada Derana reporter said.
+
+Former MP Nimal Lanza was arrested on August 29 after surrendering to the Kochchikade Police.
+
+The Attorney General filed charges against the former MP in connection with an assault and trespassing incident that occurred during a protest in 2006.
+
+◼️
+
+[Data](articles/5cdac5b3.json)
+
+[Extended Data](ext_articles/5cdac5b3.ext.json)
+
+---
+
+### Father shot dead in the forest for 4 years with 3 children
+
+*2025-09-08 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224492) · `ta`
+
+A father, Tom Phillips, who has been hiding with his three children for the past four years in New Zealand, has been shot dead by police.
+
+In a dispute with a wife relating to the care of children, Philips, Piaopio, who had been hiding with his children in the New Zealand forest since December 2021, has been shot dead by police in connection with the theft.
+
+Philips fired several times on a police officer who went to the scene, and the officer suffered serious injuries. Following this, Philips died in a police shooting.
+
+Police said he had a child with Philips and had no injuries to the child. It is also reported that the two children were safely rescued after intensifying the search for the other two children.
+
+Police said they were in contact with the family of the Phillips and would be assisted.
+
+...
+
+[Data](articles/88d1c2ab.json)
+
+[Extended Data](ext_articles/88d1c2ab.ext.json)
 
 ---

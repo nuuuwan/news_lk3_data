@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 09:56:24**
+As of **2025-09-08 10:10:06**
 
 ## Newspaper Stats
 
-*Scraped **74,683** Articles*
+*Scraped **74,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 7,223
 adaderanalk | 9,551
 tamilmirrorlk | 11,113
 virakesarilk | 12,208
-adaderanasinhalalk | 13,005
+adaderanasinhalalk | 13,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,277 (84.7%) of 74,683 articles have been extended.
+63,277 (84.7%) of 74,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### කාන්තාවක් ඝාතනයකට ආධාර අනුබල දුන් අයෙකු අත්අඩංගුවට
+
+*2025-09-08 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214304) · `si`
+
+පෙරියනීලාවෙනි පොලිස් වසමේ නිලාවෙනි පාර පෙරියනිලාවෙනි ප්‍රදේශයේදී කාන්තාවක් ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධව සැකකරුවෙකු අම්පර අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය 30 වැනිදා සිදුකර ඇති මෙම ඝාතනය සම්බන්ධව එම නිලධාරීන් කණ්ඩායම විසින් සිදුකරනු ලැබූ විමර්ශනයක් මත මෙම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+ඒ අනුව ඊයේ (07) දින මෙම සැකකරු අදාළ ඝාතනය සම්බන්ධව ආධාර අනුබල දීමේ චෝදනාව මත පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ සමගම සැකකරු සතුව තිබූ වෑන් රථයක් සහ යතුරුපැදියක්ද පොලිස් භාරයට ගැනීමටද එම නිලධාරීන් කටයුතු කර ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 20ක් වූ පෙරියනීලාවෙනි 01 ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+සිද්ධිය සම්බන්ධව වැඩිදුර විමර්ශන අම්පාර අපරාධ විමර්ශන කාර්යාංශය විසින් සිදුකරති.
+
+◼️
+
+[Data](articles/3d2ee21e.json)
+
+---
 
 ### Ice white powder excavation in Kandana
 
@@ -1987,29 +2009,5 @@ He has detained seven days at the time of his presented to the Walasmulla Magist
 [Data](articles/f35e76ea.json)
 
 [Extended Data](ext_articles/f35e76ea.ext.json)
-
----
-
-### Advisory issued for severe lightning
-
-*2025-09-07 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112255/advisory-issued-for-severe-lightning) · `en`
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Northern, North-central and Eastern provinces, the Department of Meteorology warns.
-
-There may be temporary localized strong winds during thundershowers, the Met. Department added.
-
-Therefore, the general public has been urged to take adequate precautions to minimize damages caused by lightning activity.
-
-The Met Department urged the public to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
-
-The public has also been advised not to use wired telephones and connected electric appliances during thunderstorms.
-
-Meanwhile, for emergency assistance the public should contact the local disaster management authorities.
-
-◼️
-
-[Data](articles/28052a2b.json)
-
-[Extended Data](ext_articles/28052a2b.ext.json)
 
 ---

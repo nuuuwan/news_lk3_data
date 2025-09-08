@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 13:20:02**
+As of **2025-09-08 12:55:47**
 
 ## Newspaper Stats
 
-*Scraped **74,722** Articles*
+*Scraped **74,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,93 +16,21 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,230
-adaderanalk | 9,558
-tamilmirrorlk | 11,127
-virakesarilk | 12,212
+adalk | 7,228
+adaderanalk | 9,557
+tamilmirrorlk | 11,126
+virakesarilk | 12,210
 adaderanasinhalalk | 13,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,450 (84.9%) of 74,722 articles have been extended.
+63,433 (84.9%) of 74,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### மனைவியுடன் தகராறு : 3 பிள்ளைகளுடன் 4 வருடங்களாக காட்டுக்குள் தலைமறைவாகியிருந்த தந்தை சுட்டுக்கொலை !
-
-*2025-09-08 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224492) · `ta`
-
-நியூசிலாந்தில் கடந்த நான்கு வருடங்களாக தனது மூன்று குழந்தைகளுடன் தலைமறைவாக இருந்த டாம் பிலிப்ஸ் எனப்படும் தந்தையொருவர், பொலிஸாரால் சுட்டுக்கொல்லப்பட்டுள்ளார்.
-
-குழந்தைகளைப் பராமரிப்பது தொடர்பான மனைவியுடனான தகராறில், கடந்த 2021 டிசம்பர் முதல் நியூசிலாந்து காட்டுப்பகுதியில் தனது குழந்தைகளுடன் தலைமறைவாக இருந்த பிலிப்ஸ், பியோபியோ என்பவரே, கிராமப்புறத்தில் இடம்பெற்ற திருட்டுச் சம்பவம் தொடர்பில் பொலிஸாரால் சுட்டுக்கொல்லப்பட்டுள்ளார்.
-
-சம்பவ இடத்திற்கு சென்ற பொலிஸ் அதிகாரி மீது பிலிப்ஸ் பல முறை துப்பாக்கியால் சுட்டதாகவும், இதில் அந்த அதிகாரிக்கு பலத்த காயங்கள் ஏற்பட்டதாகவும் பொலிஸார் கூறினர். இதையடுத்து, பொலிஸார் பதிலக்கு துப்பாக்கிப் பிரயோகம் செய்ததில் பிலிப்ஸ் உயிரிழந்தார்.
-
-பிலிப்ஸுடன் அவரது ஒரு குழந்தை இருந்ததாகவும், அந்தக் குழந்தைக்கு எந்தக் காயமும் ஏற்படவில்லை என்றும் பொலிஸார் தெரிவித்தனர். உடனடியாக, ஏனைய இரண்டு குழந்தைகளையும் தேடும் பணி தீவிரப்படுத்தப்பட்டதையடுத்து அந்த இரண்டு குழந்தைகளும் பாதுகாப்பாக மீட்கப்பட்டதாகவும் தகவல்கள் வெளியாகியுள்ளன.
-
-...
-
-[Data](articles/88d1c2ab.json)
-
----
-
-### கொள்ளுப்பிட்டி கடற்கரையிலிருந்து அலையில் அடித்துச் செல்லப்பட்டு குழந்தை மாயம்!
-
-*2025-09-08 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224512) · `ta`
-
-ஞாயிற்றுக்கிழமை (7) பிற்பகல் கடற்கரையிலிருந்து பலத்த கடல் அலையில் குழந்தை அடித்துச் செல்லப்பட்டதாகக் கிடைத்த தகவலுக்கமைய கொள்ளுப்பிட்டி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-அதேவேளை, பெண்ணொருவர் குழந்தையை கடலில் வீசியிருக்கலாம் என்று பொலிஸாரின் முதற்கட்ட விசாரணைகள் தகவல் தெரிவித்திருப்பதோடு, அந்தப் பெண் குழந்தையுடன் கடலில் குதித்திருக்கலாம் எனவும் பொலிஸார் சந்தேகிக்கின்றனர்.
-
-அத்துடன், நேற்று பிற்பகல் 3.30 மணியளவில், அந்தப் பெண், கடற்கரையில் உதவிக்காக சத்தமிட்டுக்கொண்டிருந்ததாகவும், தனது குழந்தை கடல் அலையில் இழுத்துச் செல்லப்பட்டதாக அந்தப் பெண் கூறியதாகவும் சிலர் தெரிவித்துள்ளனர்.
-
-அலையில் அடித்துச் செல்லப்பட்டு காணாமல்போன குழந்தையைக் தேடும் பணியில் கடற்படையினரும் பொலிஸாரும் ஈடுபட்டுள்ளனர்.
-
-இந்நிலையில், வெலிமடையைச் சேர்ந்த குறித்த பெண், கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்றுவருவதாகத் தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/0c4b02ed.json)
-
----
-
-### සජබ ඇතුළු විපක්ෂයේ පක්ෂ සමඟ කටයුතු කිරීමට එජාපයෙන් තීරණයක්
-
-*2025-09-08 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ඇතුළු-විපක්ෂයේ-පක්ෂ-සමඟ-කටයුතු-කිරීමට-එජාපයෙන්-තීරණයක්/11-418350) · `si`
-
-සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ පක්ෂ සමග කටයුතු කිරීමට කමිටුවක් හෝ ඒ හා සමාන යාන්ත්‍රණයක් මඟින් ක්‍රියා කිරීමට එක්සත් ජාතික පක්ෂය අදහස් කරන බව නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
-
-“සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ පක්ෂ සමග කටයුතු කිරීම සඳහා කමිටුවක් හෝ ඒ හා සමාන යාන්ත්‍රණයක් මගින් ක්‍රියා කිරීමටද එක්සත් ජාතික පක්ෂය අදහස් කරයි.
-
-සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් පක්ෂ සමඟ පොදු කාරණාවලදී කටයුතු කරන ආකාරය සම්බන්ධයෙන් පසුගිය කාලය මුළුල්ලේම එක්සත් ජාතික පක්ෂය විරුද්ධ පක්ෂ සමග සාකච්ඡා කරනු ලැබිණි.
-
-එම සාකච්ඡා වලදී එකඟත්වයට පැමිණි කරුණු අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කිරීමට එක්සත් ජාතික පක්ෂය තීරණය කළ බව එක්සත් ජාතික පක්ෂ සභාපති වජිර අබේවර්ධන මහතා කීය.
-
-මේ අනුව සමගි ජන බලවේගය සමඟ විවෘතව එකට වැඩ කිරීමට තීරණය කර තිබෙන බවද වජිර අබේවර්ධන මහතා සඳහන් කළේය.”
-
-◼️
-
-[Data](articles/bfa8ef54.json)
-
----
-
-### மலையக முக்கிய புள்ளி இன்று சிக்குவார்?
-
-*2025-09-08 12:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-முக்கிய-புள்ளி-இன்று-சிக்குவார்/76-364202) · `ta`
-
-மலையகத்தைச் சேர்ந்த முக்கிய தொழிற்சங்க மற்றும் அரசியல் கட்சியின் முக்கிய பதவியில் இருப்பவர் ஒருவர், இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவில் இன்று (08) ஆஜராகியுள்ளார்.
-
-கடந்த காலங்களில் அவரால் மேற்கொள்ளப்பட்ட முறைக்கேடான கட்டிட அனுமதி தொடர்பில் வாக்குமூலம் பெறுவதற்காகவே அவர் அழைக்கப்பட்டுள்ளார் என ஆணைக்குழு தகவல்கள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/ca39d1f4.json)
-
----
 
 ### Fines for famous actress
 
@@ -144,42 +72,6 @@ Following the raid, two suspects were arrested, 51 -year -old male and 62 -year 
 
 ---
 
-### වාරි මහිමයට දෙමාපියන් යොමු නොකළේ යැයි මාලිමාවේ මන්ත්‍රී හා නි. ඇමති විදුහල්පතිට තර්ජනය කරලා
-
-*2025-09-08 12:12:24* · [`adalk`](https://www.ada.lk/breaking_news/වාරි-මහිමයට-දෙමාපියන්-යොමු-නොකළේ-යැයි-මාලිමාවේ-මන්ත්‍රී-හා-නි--ඇමති-විදුහල්පතිට-තර්ජනය-කරලා/11-418346) · `si`
-
-"වාරි මහිම" උත්සවයට දෙමාපියන් සහභාගී නොකළේ යැයි චෝදනා කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු සහ නියෝජ්‍ය අමාත්‍යවරයෙකු ඇටවීරගොල්ලෑව මහා කාශ්‍යප විදුහලේ විදුහල්පතිවරයාට තර්ජනය කර ඇති බැවින් ඒ සඳහා තම සංගමයේ පූර්ණ මැදිහත්වීම සහ අවශ්‍ය නීතිමය ක්‍රියාමාර්ග ගන්නා බව ලංකා ගුරු සංගමයේ සභාපති ප්‍රියන්ත ප්‍රනාන්දු මහතා පැවසීය.
-
-ඇටවීරගොල්ලෑව වැවක ඉකුත් 4 වනදා 'වාරි මහිම' වැඩසටහන යටතේ ප්‍රතිසංස්කරණ කටයුතු ආරම්භ කරන උත්සවයට පාසලේ දෙමාපියන් සම්බන්ධ කරන ලෙස පාර්ලිමේන්තු මන්ත්‍රීවරයකු කළ ඉල්ලීම විදුහල්පතිවරයා ප්‍රතික්ෂේප කිරීම හේතුවෙන් මෙම තත්ත්වය ඇති වී තිබෙන බවද ප්‍රියන්ත ප්‍රනාන්දු මහතා කියයි.
-
-උතුරු මැද පළාතේ අනුරාධපුර දිස්ත්‍රික්කයේ කැබිතිගොල්ලෑව කලාපයට මේ පාසල අයත් වේ. ඒ අනුව කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරයා මාර්ගයෙන් මෙම තර්ජනය කිරීම විදුහල්පතිවරයා විසින් කලාප අධ්‍යක්ෂවරයාටද දැනුවත් කර ඇති බව ලංකා ගුරු සංගමයේ සභාපතිවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/a3a62b17.json)
-
----
-
-### UNP agrees to work with SJB constructively in future
-
-*2025-09-08 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112272/unp-agrees-to-work-with-sjb-constructively-in-future) · `en`
-
-The United National Party (UNP) has decided to continue engaging cooperatively with the Samagi Jana Balawegaya (SJB) and other opposition political parties, in accordance with the consensus reached during initial discussions.
-
-Accordingly, the UNP has also proposed the establishment of a committee or a similar mechanism to facilitate coordination with the SJB and other opposition parties.
-
-In recent times, the UNP has engaged in discussions with opposition parties regarding ways to collaborate on matters of common interest.
-
-UNP Chairman Former Minister Wajira Abeywardana stated that the party has resolved to consistently implement the points of agreement reached through those discussions.
-
-Accordingly, he further noted that the UNP has decided to work transparently and constructively with the SJB going forward.
-
-◼️
-
-[Data](articles/fc063959.json)
-
----
-
 ### A severe accident in Wellawaya
 
 *2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
@@ -198,23 +90,21 @@ The lorry has flipled through the road, and the road has also been interrupted d
 
 ---
 
-### Petitions against the appointment of patriot Thenkoni as the Inspector General of Police
+### தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமித்ததற்கு எதிரான மனு மீதான விசாரணை ஒத்திவைப்பு!
 
 *2025-09-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224507) · `ta`
 
-The High Court today (08) ordered the postponement of the hearing of the petition against the appointment of the National Inspector General of Police.
+தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமித்ததற்கு எதிரான மனு மீதான விசாரணையை ஒத்திவைத்து உயர் நீதிமன்றம் இன்று திங்கட்கிழமை (08) உத்தரவிட்டுள்ளது.
 
-Former President Ranil Wickremesinghe has filed a petition seeking a decision to appoint Patriot and South Kon as the Inspector General of Police.
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக நியமிப்பதற்கான தீர்மானம் அரசியலமைப்பிற்கு முரணானது என தீர்ப்பளிக்கக் கோரி மனு தாக்கல் செய்யப்பட்டது.
 
-The order was issued when the petitions were taken up for hearing today in the presence of a panel of judges - Preity Padman Surasena, Mahinda Samaratha and Arjuna Obeeskera.
+இந்த மனுக்கள் பிரீத்தி பத்மன் சூரசேன, மஹிந்த சமயவர்தன மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய நீதிபதிகள் குழாம் முன்னிலையில் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
 
-Accordingly, the hearing of the petition was adjourned until February 12, 2026.
+அதன்படி இந்த மனு மீதான விசாரணை 2026ஆம் ஆண்டு பெப்ரவரி மாதம் 12 ஆம் திகதி வரை ஒத்திவைத்து நீதிமன்றம் உத்தரவிட்டுள்ளது.
 
 ◼️
 
 [Data](articles/49980d4d.json)
-
-[Extended Data](ext_articles/49980d4d.ext.json)
 
 ---
 
@@ -275,8 +165,6 @@ He noted that by continuously presenting such resolutions, allegations are being
 ...
 
 [Data](articles/b43a99c4.json)
-
-[Extended Data](ext_articles/b43a99c4.ext.json)
 
 ---
 
@@ -388,8 +276,6 @@ The PMD added that more than 20 acres of land previously overrun with invasive p
 
 [Data](articles/75659d38.json)
 
-[Extended Data](ext_articles/75659d38.ext.json)
-
 ---
 
 ### Steps to resume construction work on Central Highway
@@ -443,8 +329,6 @@ A total of nine petitions have been filed, including by His Eminence Cardinal Ma
 ◼️
 
 [Data](articles/7d5139d0.json)
-
-[Extended Data](ext_articles/7d5139d0.ext.json)
 
 ---
 
@@ -2011,5 +1895,123 @@ Kamil Misshara won the hero of the match. Sri Lanka won the Tests T20 championsh
 [Data](articles/1cc4a69e.json)
 
 [Extended Data](ext_articles/1cc4a69e.ext.json)
+
+---
+
+### Sri Lanka thrash Zimbabwe to clinch T20 series 2-1
+
+*2025-09-07 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112259/sri-lanka-thrash-zimbabwe-to-clinch-t20-series-2-1) · `en`
+
+Sri Lanka’s Kamil Mishara hit an unbeaten 73 as the tourists beat Zimbabwe by eight wickets on Sunday to win the third Twenty20 international and take the series 2-1.
+
+An unbeaten 117-run partnership with Kusal Perera saw Sri Lanka win with 14 balls to spare at the Harare Sports Club as they chased down a formidable target. Perera was 46 not out.
+
+Zimbabwe, who beat Sri Lanka by five wickets to level the series on Saturday, were put in to bat and made 191-8 with Tadiwanashe Marumani top-scoring with 51.
+
+Sri Lanka also won two One-Day Internationals against Zimbabwe earlier this year.
+
+◼️
+
+[Data](articles/7c363658.json)
+
+[Extended Data](ext_articles/7c363658.ext.json)
+
+---
+
+### 'We will give Kala Vewa back to the elephants' plan three days successfully initiated
+
+*2025-09-07 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224480) · `ta`
+
+The 'Kala Vewa' will be reinstated to the elephants, organized by the 'Clean Sri Lanka' project, which has been successfully implemented in the flood areas of the Kala Wawa National Forest Park for the past three days.
+
+Wild elephants have lost their pastures as they spread occupied plants in most ponds in the North Central Province. Wild elephants prefer the young grasses that are high in protein. It is estimated that about four hundred wild elephants live in the Kala Veva region. Wild elephants enter the villages because of inadequate food for these wild elephants. This has increased human-elephant conflicts in the area. In the past few months, many have died of wild elephants attacks. Paddy training is widely carried out in the area and soy, corn, fruits and vegetables are cultivated.
+
+...
+
+[Data](articles/8bc6652b.json)
+
+[Extended Data](ext_articles/8bc6652b.ext.json)
+
+---
+
+### Diyawadana Nilame struggles in the Temple
+
+*2025-09-07 20:46:48* · [`adalk`](https://www.ada.lk/breaking_news/දළඳ-මාළිගාවේ-දියවඩන-නිලමේ-සටන-උණුසුම්-වෙයි/11-418333) · `si`
+
+The second ten years of the Sri Dalada Maligawa Pradeep Nilame, Sri Diyawadana Nilame, has ended the official selection of a new Diyawadana Nilame.
+
+The Chief Incumbivattu in the Polonnaruwa, Kandy, Badulla, Badulla, Kegalle, Kegalle, Kegalle, Kegalle, Kandy, Kandy, Anuradhapura, Anuradhapura, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kandy.
+
+If the Divisional Secretary of the relevant area is a woman or a unclean, he or she is said to be voted according to almost 100 this year.. It is said that only 76 Divisional Secretaries are entitled to vote.
+
+The current Diyawadana Nilame, Diyawadana Nilame, Pradeepa Nilame, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Sri Kataragama Devalaya, Basnayake Nilame, Basnayake Nilame on Udindu Devalaya. WS. Malwatte Asgiri Maha Nayros have already been buried that Bandaranaike is present.
+
+...
+
+[Data](articles/5ccb2f28.json)
+
+[Extended Data](ext_articles/5ccb2f28.ext.json)
+
+---
+
+### Discussions are essential for peace and reconciliation
+
+*2025-09-07 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224479) · `ta`
+
+International Human Rights Development Voice (IVHRD) Chairman Raghu Indrakumar said that discussions are essential to improve peace and harmony through unity and discussion, to achieve global human rights and peace.
+
+International Human Rights Development Voice (IVHRD) has successfully held the World Human Rights Conference at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo. Ambassadors, legal experts, social leaders and human rights activists from all over the world attended the conference.
+
+The ceremony began with the art show, traditional art show and, with special guests. Indonesian Deputy Ambassador to Sri Lanka, top officials of the Chinese Republic, President Sarath Wijesinghe, Prince Amitab. Aradhya, Sri Lanka Pintech Chairman Rajkumar Kanagasingham, Reliance Innovation founder Hiran Wijesinghe, Dr. Rasita Buddhika and many others were present as special guests.. A special feature is that representatives from India participated.
+
+...
+
+[Data](articles/83adedfa.json)
+
+[Extended Data](ext_articles/83adedfa.ext.json)
+
+---
+
+### Supervision to be corrected
+
+*2025-09-07 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214289) · `si`
+
+Sri Lanka won eight wickets in the third T20 cricket match against the host Zimbabwe.
+
+Accordingly, Sri Lanka was able to win the 3-match tournament match 2-1.
+
+Sri Lanka was able to cross the 17.2 overs of the match, despite the largest goal of Zimbabwe.
+
+Kamil mixau scored unbeaten on 73 runs. The innings included two sixes and six fours.
+
+Opening batsmen (33) and Kusal Mendis (30) contributed to Sri Lankan innings.
+
+◼️
+
+[Data](articles/5da5babf.json)
+
+[Extended Data](ext_articles/5da5babf.ext.json)
+
+---
+
+### Piyal Manampari tells police due to landing chemicals
+
+*2025-09-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214288) · `si`
+
+Former Pradeshiya Sabha member Palhakaraka, Angunakolapelessa, who is conducting the consignment of the ice drug manufacture of the ice drug manufacture in the Talane drug manufacture of the ice drug manufacture, said the land was hit and these substances were taken to prevent the land.
+
+"My brother was building a garage here. There is a lot of water here. So we put these things to prevent the victim. "
+
+The court has granted permission to hold seven days after the suspect was produced before the Walasmulla Magistrate's Court today.
+
+Investigations have commenced as a group of other officers including Assistant Superintendent of Police of the Western Criminal Division in the Western Criminal Division.
+
+Meanwhile, investigations were found in a drawgam and ammunition, which was hidden in the drain near the field of a manioc crop at the time of the land yesterday afternoon.
+
+...
+
+[Data](articles/65422890.json)
+
+[Extended Data](ext_articles/65422890.ext.json)
 
 ---

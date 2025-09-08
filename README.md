@@ -1,36 +1,150 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 23:07:33**
+As of **2025-09-09 00:22:43**
 
 ## Newspaper Stats
 
-*Scraped **74,822** Articles*
+*Scraped **74,832** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 761
+colombotelegraphcom | 762
 economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
-dailyftlk | 5,300
+dailyftlk | 5,304
 adalk | 7,244
-adaderanalk | 9,581
-tamilmirrorlk | 11,147
-virakesarilk | 12,221
-adaderanasinhalalk | 13,036
+adaderanalk | 9,583
+tamilmirrorlk | 11,148
+virakesarilk | 12,222
+adaderanasinhalalk | 13,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,979 (85.5%) of 74,822 articles have been extended.
+64,033 (85.6%) of 74,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
+
+### French Prime Minister loses - government collapses
+
+*2025-09-08 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214339) · `si`
+
+French lawmakers voted for powering the Prime Minister.
+
+Accordingly, 364 MPs have been given 364 MPs against the Bhire and 194 members in favor.
+
+◼️
+
+[Data](articles/1882dc5a.json)
+
+[Extended Data](ext_articles/1882dc5a.ext.json)
+
+---
+
+### Double standards in Geneva: Sri Lanka’s journey and Core Group’s contradictions
+
+*2025-09-08 23:01:32* · [`dailyftlk`](https://www.ft.lk/columns/Double-standards-in-Geneva-Sri-Lanka-s-journey-and-Core-Group-s-contradictions/4-781383) · `en`
+
+Selectivity weakens not only resolutions on Sri Lanka but the credibility of the entire multilateral system
+
+More than 15 years have passed since Sri Lanka’s armed conflict ended in May 2009. The years since have been difficult, but also marked by important progress. Successive Governments have pursued policies of reconciliation and accountability. The Lessons Learnt and Reconciliation Commission (LLRC), appointed in 2010, produced a comprehensive report in 2011 with recommendations on governance, reconciliation, and human rights. In 2016, Parliament established the Office on Missing Persons (OMP) to trace thousands unaccounted for during the war, and in 2018 the Office for Reparations was created to address the needs of victims and their families.
+
+...
+
+[Data](articles/763e0018.json)
+
+---
+
+### Ranil and Aragalaya effect
+
+*2025-09-08 22:55:46* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-and-Aragalaya-effect/4-781382) · `en`
+
+RW is feeling the Aragalaya effect and let the judiciary handle the matter without any outside interference. No one is above the law
+
+“Araciyal pizhaiththorku aram koottakum” (Cilappathikaram) (Justice, the messenger of death to those who misgovern)
+
+...
+
+[Data](articles/811efb9b.json)
+
+---
+
+### The French government toppled
+
+*2025-09-08 22:55:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரெஞ்சு-அரசாங்கம்-கவிழ்ந்தது/50-364237) · `ta`
+
+French Prime Minister Posa Pyroo failed in a confidence vote on his government.
+
+The French National Assembly voted at 364 -194 to expel Prime Minister Pyroo and topple his minority government.. Another 25 MPs did not attend the referendum.
+
+Prime Minister Pyroo will hand over his resignation tomorrow morning to President Emanuel Macron.
+
+◼️
+
+[Data](articles/994eba6a.json)
+
+[Extended Data](ext_articles/994eba6a.ext.json)
+
+---
+
+### Sri Lanka’s National People’s Power faces legacy of civil war
+
+*2025-09-08 22:42:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-National-People-s-Power-faces-legacy-of-civil-war/4-781381) · `en`
+
+President Anura Kumara Disanayake and his National People’s Power Government are struggling to build a more stable, inclusive political culture in Sri Lanka. A mix of bold action and political skill will be needed. Support from the UN Human Rights Council can help.
+
+The election of President Anura Kumara Disanayake in September 2024, and the landslide parliamentary victory of his National People’s Power (NPP) alliance two months later, have ignited hope throughout Sri Lanka. Elected on a mandate to eliminate the widely reported large-scale corruption, nepotism and abuse of power that contributed to the country’s economic collapse in 2022, the NPP appealed to voters in large part because it lacked experience in office and was distant from the elite-dominated parties that had ruled Sri Lanka since independence in 1948. Among their more soaring goals, Disanayake and the NPP pledged to fight impunity and establish a “new political culture”.
+
+...
+
+[Data](articles/2103700a.json)
+
+---
+
+### Russia’s Enteromix cancer vaccine shows 100% efficacy in early trials – Report
+
+*2025-09-08 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112300/russias-enteromix-cancer-vaccine-shows-100-efficacy-in-early-trials-report) · `en`
+
+In a breakthrough that reads like a beacon of hope, Russia has announced that its novel cancer vaccine, Enteromix, has demonstrated 100% efficacy and safety in initial human trials.
+
+The news highlights the vaccine’s remarkable performance: patients experienced tumour shrinkage and no serious side effects.
+
+Developed using the same mRNA technology as the COVID-19 vaccines, Enteromix is designed to train the immune system to recognize and eliminate cancer cells, a safer, more intelligent alternative to traditional treatments like chemotherapy.
+
+This pioneering therapy is personalized for each colorectal cancer patient, offering a custom immunotherapy tailored to an individual’s tumour profile.
+
+The trials involved 48 volunteers and were conducted by Russia’s National Medical Research Radiological Centre in collaboration with the Engelhardt Institute of Molecular Biology.
+
+...
+
+[Data](articles/2ae02176.json)
+
+[Extended Data](ext_articles/2ae02176.ext.json)
+
+---
+
+### Ex-President’s arrest in Sri Lanka: Some should not be more equal than others
+
+*2025-09-08 22:20:35* · [`dailyftlk`](https://www.ft.lk/columns/Ex-President-s-arrest-in-Sri-Lanka-Some-should-not-be-more-equal-than-others/4-781380) · `en`
+
+There cannot be any doubt except in the minds of those who considered themselves as members of the “some are more equal than others” collective, that a cultural change is needed to ensure every citizen adheres to the law of the land irrespective of their status
+
+“Some are more equal than others” is a paradoxical phrase from George Orwell’s allegorical novel Animal Farm that highlights societal hypocrisy, where the concept of equality is proclaimed but a privileged few receive preferential treatment
+
+Theatrics in Sri Lankan politics has reached a crescendo with the arrest, remanding and bail out of Ranil Wickremesinghe, former President, Prime Minister, Leader of the Opposition and Member of Parliament since 1977.
+
+...
+
+[Data](articles/4e0916a4.json)
+
+---
 
 ### Police explain to a false news circulating on social media
 
@@ -70,6 +184,28 @@ The DIG and her wife, including the DIG and his wife, have been accused of treas
 
 ---
 
+### Drugs have been brought into the country with the support of the last rulers - Minister Nalinda Jayatissa
+
+*2025-09-08 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224574) · `ta`
+
+Health and Media Minister Nalinda Jayatissa said that the rulers, including the minister in the past, were ignoring the crime, including drug production, and that the rulers are now involved in such crimes.
+
+The Minister said this while responding to a question raised by a journalist regarding the identification of drugs in different parts of the country on Monday (8) in Colombo.
+
+The Criminal Investigation Division (CID) and the relevant chemical analysis unit have launched a detailed investigation into the recovered drug and the recognized persons who have been identified as criminals.
+
+The past government has used their power to create drugs in the country and bring in the necessary chemicals.. These are not presently formed. They have been in the support of the government for years.
+
+The rulers, including the minister in the past, have not found such crimes. It is now revealed that the rulers are also involved, and it is evident that they were negligent.
+
+...
+
+[Data](articles/a19a1e2c.json)
+
+[Extended Data](ext_articles/a19a1e2c.ext.json)
+
+---
+
 ### Train disrupted: Services vulnerable
 
 *2025-09-08 21:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-சேவைகள்-பாதிப்பு/175-364235) · `ta`
@@ -83,6 +219,24 @@ The Railway Department has announced that the trains on the Kelaniya railway lin
 [Data](articles/06cb7634.json)
 
 [Extended Data](ext_articles/06cb7634.ext.json)
+
+---
+
+### US and Sri Lanka launch multilateral ‘Pac Angel 25’ exercise to enhance disaster response
+
+*2025-09-08 20:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112299/us-and-sri-lanka-launch-multilateral-pac-angel-25-exercise-to-enhance-disaster-response) · `en`
+
+The United States and Sri Lanka today officially launched PACIFIC ANGEL (Pac Angel) 25 at Katunayake Air Base, with U.S. Defense Attaché Lt. Col. Matthew House joining Sri Lanka Air Force leaders to open the exercise.
+
+The five-day multilateral program, running from September 8–12, brings together nearly 90 U.S. and 120 Sri Lanka Air Force personnel, along with participants and observers from Australia, Bangladesh, India, Japan, and Maldives, to strengthen disaster response and save lives, the US Embassy in Colombo said.
+
+Training focuses on search and rescue, medical readiness, air safety, and engineering cooperation. Supported by two U.S. C-130J aircraft and Sri Lanka’s Bell 412, B-212 helicopter, and King Air 350, Pac Angel 25 builds the teamwork and trust needed for faster, stronger responses to real-world crises.
+
+...
+
+[Data](articles/184bb4fb.json)
+
+[Extended Data](ext_articles/184bb4fb.ext.json)
 
 ---
 
@@ -659,6 +813,26 @@ The process for submitting appeals for the re-scrutiny of the 2024 Grade 5 Schol
 [Data](articles/16a35cc1.json)
 
 [Extended Data](ext_articles/16a35cc1.ext.json)
+
+---
+
+### Minister Of Foreign Affairs Vijitha Herath’s Speech At UNHRC: Full Text
+
+*2025-09-08 17:24:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/minister-of-foreign-affairs-vijitha-heraths-speech-at-unhrc-full-text/) · `en`
+
+Statement delivered by Hon. Vijitha Herath, Minister of Foreign Affairs, Foreign Employment and Tourism at the 60th Session of the Human Rights Council in Geneva 8th September 2025
+
+I speak to you on behalf of the Government of Sri Lanka at a time when my country has embarked on a historic journey towards transformational change. This journey is about democratic governance, human rights, inclusive economic growth and national unity.
+
+In March this year, 3 months after the National Peoples Power (NPP) Government assumed office, I addressed the High-Level Segment of this Council and outlined the clear vision of the Government to bring in meaningful and progressive change that would advance the rights and well-being of all Sri Lankans.
+
+Six months on, as the High Commissioner presents his report on Sri Lanka today, I am pleased to share with you the tangible progress that we have achieved in translating this vision of change into a reality.
+
+...
+
+[Data](articles/e04add05.json)
+
+[Extended Data](ext_articles/e04add05.ext.json)
 
 ---
 
@@ -1871,215 +2045,5 @@ Accordingly, he has decided to work openly with the conviction force. "
 [Data](articles/bfa8ef54.json)
 
 [Extended Data](ext_articles/bfa8ef54.ext.json)
-
----
-
-### Yen slides after Japan PM Ishiba resigns, dollar wobbles
-
-*2025-09-08 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112273/yen-slides-after-japan-pm-ishiba-resigns-dollar-wobbles) · `en`
-
-The yen fell sharply on Monday following the resignation of Japanese Prime Minister Shigeru Ishiba, while the dollar remained on shaky footing after Friday’s weak U.S. jobs report cemented expectations of a Federal Reserve rate cut this month.
-
-The focus for markets will also be on French Prime Minister Francois Bayrou’s confidence vote, which he is expected to lose, plunging the euro zone’s second-largest economy deeper into political crisis.
-
-Japan’s Ishiba on Sunday announced his resignation, ushering in a potentially lengthy period of policy uncertainty at a shaky moment for the world’s fourth-largest economy.
-
-The yen slumped in response in Asia trade, and was last down 0.5% against the dollar at 148.16, having pared some losses over the course of the session.
-
-The Japanese currency similarly slid to its lowest in more than a year against the euro and sterling at 173.91 and 200.33, respectively.
-
-...
-
-[Data](articles/7abfc17c.json)
-
-[Extended Data](ext_articles/7abfc17c.ext.json)
-
----
-
-### The main point of the hill country is stuck today?
-
-*2025-09-08 12:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-முக்கிய-புள்ளி-இன்று-சிக்குவார்/76-364202) · `ta`
-
-One of the main union and the political party in the hill country has appeared in the Commission to Investigate Correction of Bribery or Corruption today (08).
-
-According to the Commission, he has been invited to make a confession on the improper building permit by him in the past.
-
-◼️
-
-[Data](articles/ca39d1f4.json)
-
-[Extended Data](ext_articles/ca39d1f4.ext.json)
-
----
-
-### Fines for famous actress
-
-*2025-09-08 12:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அரை-முழம்-மல்லிகையால்-பிரபல-நடிகைக்கு-அபராதம்/54-364201) · `ta`
-
-Australian Airport Administration Rs.. 1.25 lakh fines have been taken.
-
-Actress Navya Nair from Malayalam film industry has also acted in more than 5 films in Tamil language. He went to the Onam festival in Victoria, Australia and he was about 15 cm.. He has carried the size of the jasmine flower.
-
-Officers who raided actress Navya's possessions at the Melbourne International Airport have found a fine of Rs 1.25 lakh at the airport after she found a jasmine flower.
-
-Speaking at a function in Victoria, he said that his father had bought him a jasmine flower and had one half of it from Kochi to Singapore and kept the remaining half in his handbag.
-
-There are the most severe biosecurity laws in Australia. According to them, it is not generally allowed to carry any new plant products in the plane. Flowers or plants from abroad considers that there may be insects that are not in Australia, germs or weed seeds.
-
-...
-
-[Data](articles/28b46955.json)
-
-[Extended Data](ext_articles/28b46955.ext.json)
-
----
-
-### Sri Lanka’s Laugfs Gas deputy chairman resigns
-
-*2025-09-08 12:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-laugfs-gas-deputy-chairman-resigns-239701/) · `en`
-
-ECONOMYNEXT – Laugfs Gas and Laugfs Power director U K Thilak De Silva has resigned after selling his 39.58 percent stake in the parent company, Laugfs Holdings Limited.
-
-De Silva had transferred the entirety of his ordinary shares, 1,708,798, to Vallibel Three (Private) Limited, owned by Dhammika Perera.
-
-Upon transferring the entirety of shares he held in the parent company of Laugfs Gas, De Silva tendered his resignation from the boards of Laugfs Gas and Laugfs Power effective from September 9, according to stock exchange filings.
-
-Laufgs is a diversified group made up of 23 businesses ranging from LPG and power to supermarkets, rubber manufacturing, emissions testing and pharmaceuticals. (Colombo/Sep8/2025)
-
-◼️
-
-[Data](articles/87eed4ab.json)
-
-[Extended Data](ext_articles/87eed4ab.ext.json)
-
----
-
-### UNP decides openly working with education
-
-*2025-09-08 12:21:59* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-සමග-විවෘතව-එකට-වැඩ-කිරිමට-එජාපය-තීරණය-කරයි/11-418349) · `si`
-
-The UNP has decided to decide continuously with the conique and other political parties in the preliminary discussions.
-
-The United National Party also means to act through the opposition parties, including the opposition parties.
-
-The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and the opposition parties.
-
-UNP Chairman, Vajira Abeywardena said that the UNP has decided to continue the contents of the incident.
-
-Accordingly, he has decided to work openly with the conviction force.
-
-◼️
-
-[Data](articles/a4bc7910.json)
-
-[Extended Data](ext_articles/a4bc7910.ext.json)
-
----
-
-### Two arrested with 83 passports
-
-*2025-09-08 12:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/83-கடவுச்சீட்டுகளுடன்-இருவர்-கைது/175-364199) · `ta`
-
-Two suspects have been arrested for illegal 83 passports belonging to other persons.
-
-Police said the suspects were arrested following a raid conducted yesterday in the Horakolla area, Ganemulla.
-
-Following the raid, two suspects were arrested, 51 -year -old male and 62 -year -old woman from Ganemulla.
-
-◼️
-
-[Data](articles/d130d883.json)
-
-[Extended Data](ext_articles/d130d883.ext.json)
-
----
-
-### Namal confirmed the President in 2029
-
-*2025-09-08 12:14:59* · [`adalk`](https://www.ada.lk/breaking_news/2029දී-නාමල්-ජනපති-බව-තහවුරුයි/11-418347) · `si`
-
-Former Parliamentarian Tissa Kuttiarachchi, the Sri Lanka General Man, said that instead of the leading government of the JVP to control the country, said the Sri Lanka General Tissa Kuttiarachchi.
-
-The Govt.
-
-He was speaking at a meeting with activists of the Sri Lanka Civil Appointment in Anuradhapura yesterday (7).
-
-He said that the government is responsible for eliminating the safety of underworld and poisoning, ensuring the safety and development of the country.
-
-The present government is being carried out by politicians and the rule of law should be made to the politicians, he added.
-
-He said that although all except the Sri Lanka Front of the Sri Lanka Cran's Front will be restored to the victory of Namal Rajapaksa, no matter what obstacles in the political mechanism, he will protect the security and political profit of everyone who left for the party.
-
-Tissa Kuttiarachchi added that when political parties join the collection, but is ready to join policy and is ready to join the policy.
-
-◼️
-
-[Data](articles/2733f8ad.json)
-
-[Extended Data](ext_articles/2733f8ad.ext.json)
-
----
-
-### Parents were not sent to irrigation. Threatest to Minister Principal
-
-*2025-09-08 12:12:24* · [`adalk`](https://www.ada.lk/breaking_news/වාරි-මහිමයට-දෙමාපියන්-යොමු-නොකළේ-යැයි-මාලිමාවේ-මන්ත්‍රී-හා-නි--ඇමති-විදුහල්පතිට-තර්ජනය-කරලා/11-418346) · `si`
-
-A Member of Parliament and Deputy Minister has been threatened to the Principal of the Association of Atnarijulu, alleging that the parents had not participated in the "Irrigation" ceremony.
-
-The Principal said that the Principal refuses to connect the appointment of a Member of Parliament under the 'Irrigation' Program of the Attaviratugolwa tank on the 4th of the 'Irrigation Program'.
-
-The school belongs to the Kebithigollewa region in the North Central Province. According to the Principal of the Divisional Secretary, the Principal has been informed to the Zonal Director.
-
-Priyantha Fernando said that the Principal's Private WhatsApp number is also threatened by a Deputy Minister to the Principal.
-
-The Ceylon Teachers Union Priyantha Fernando has revealed the Secretary to the Ministry of Education and the Ministry of Education in this regard.
-
-Miyophone Restaurant has been provided by the Principal for this event
-
-◼️
-
-[Data](articles/a3a62b17.json)
-
-[Extended Data](ext_articles/a3a62b17.ext.json)
-
----
-
-### UNP agrees to work with SJB constructively in future
-
-*2025-09-08 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112272/unp-agrees-to-work-with-sjb-constructively-in-future) · `en`
-
-The United National Party (UNP) has decided to continue engaging cooperatively with the Samagi Jana Balawegaya (SJB) and other opposition political parties, in accordance with the consensus reached during initial discussions.
-
-Accordingly, the UNP has also proposed the establishment of a committee or a similar mechanism to facilitate coordination with the SJB and other opposition parties.
-
-In recent times, the UNP has engaged in discussions with opposition parties regarding ways to collaborate on matters of common interest.
-
-UNP Chairman Former Minister Wajira Abeywardana stated that the party has resolved to consistently implement the points of agreement reached through those discussions.
-
-Accordingly, he further noted that the UNP has decided to work transparently and constructively with the SJB going forward.
-
-◼️
-
-[Data](articles/fc063959.json)
-
-[Extended Data](ext_articles/fc063959.ext.json)
-
----
-
-### A severe accident in Wellawaya
-
-*2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
-
-A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
-
-Two traders were injured and admitted to the Wellawaya Base Hospital.
-
-The lorry has flipled through the road, and the road has also been interrupted due to the road.
-
-◼️
-
-[Data](articles/b2cc3b64.json)
-
-[Extended Data](ext_articles/b2cc3b64.ext.json)
 
 ---

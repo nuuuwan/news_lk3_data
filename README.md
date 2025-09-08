@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 00:53:21**
+As of **2025-09-09 01:20:13**
 
 ## Newspaper Stats
 
-*Scraped **74,832** Articles*
+*Scraped **74,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,20 +15,66 @@ colombotelegraphcom | 762
 economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
-dailyftlk | 5,304
+dailyftlk | 5,305
 adalk | 7,244
 adaderanalk | 9,583
 tamilmirrorlk | 11,148
-virakesarilk | 12,222
+virakesarilk | 12,224
 adaderanasinhalalk | 13,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,046 (85.6%) of 74,832 articles have been extended.
+64,061 (85.6%) of 74,835 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-09 (Tuesday)
+
+### ரஷ்யா புற்றுநோய்க்கு எதிரான "என்டோரோமிக்ஸ்" தடுப்பூசி வெற்றிகரமாக உருவாக்கியது
+
+*2025-09-09 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224576) · `ta`
+
+இந்த தடுப்பூசி மனிதர்களிடம் பரிசோதிக்கப்பட்டு 100 சதவீத வெற்றியை அடைந்துள்ளதாக அவர்கள் கூறுகிறார்கள்.
+
+என்டோரோமிக்ஸ் தடுப்பூசி, ஒரு mRNA தடுப்பூசி, புற்றுநோய் செல்களைக் கண்டறிந்து முற்றிலுமாக அழிக்க முடியும் என்று ஆராய்ச்சியாளர்கள் காட்டியுள்ளனர்.
+
+◼️
+
+[Data](articles/16ab6e67.json)
+
+---
+
+### Copyright and creativity: Why Sri Lanka must embrace global standards
+
+*2025-09-09 00:56:40* · [`dailyftlk`](https://www.ft.lk/columns/Copyright-and-creativity-Why-Sri-Lanka-must-embrace-global-standards/4-781395) · `en`
+
+Sri Lanka exists within the global community, not apart from it. Yet, in public discourse surrounding law, technology, governance, and culture, a recurring theme persists: the belief that Sri Lanka is somehow exceptional, requiring uniquely local solutions. While national context is important, this mindset often overlooks a critical reality: we operate within an interconnected world governed by international norms. Nowhere is this more evident than in the realm of copyright law, particularly in music.
+
+...
+
+[Data](articles/f3e23024.json)
+
+---
+
+### நம்பிக்கையில்லா தீர்மானத்தில் தோல்வி – பிரான்ஸ் அரசாங்கம் சரிந்தது
+
+*2025-09-09 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224575) · `ta`
+
+பிரான்ஸ் பிரதமர் பிரான்சுவா பேய்ரூ மீது கொண்டு வரப்பட்ட நம்பிக்கையில்லா தீர்மானம் தேசிய சட்டமன்றத்தில் நிறைவேற்றப்பட்டதால், அவரது அரசாங்கம் சரிந்துள்ளது.
+
+நம்பிக்கையில்லா தீர்மானத்தில் 364 எம்.பிக்கள் ஆதரவாகவும், 194 எம்.பிக்கள் எதிராகவும் வாக்களித்ததுடன், 25 எம்.பிக்கள் வாக்களிக்கவில்லை.
+
+இதனைத் தொடர்ந்து, ஜனாதிபதி இம்மானுவேல் மெக்ரோன் புதிய பிரதமரை நியமிக்கவுள்ளதாக எலிசே அரண்மனை அறிவித்துள்ளது.  9ஆம் திகதி செவ்வாய்க்கிழமை, பிரதமர் பேய்ரூவின் பதவி விலகலை ஏற்றுக்கொள்ள ஜனாதிபதி மெக்ரோன் அவரை சந்திக்கவுள்ளார்.
+
+இதேவேளை, பிரதமர் மட்டுமல்லாது, ஜனாதிபதியும் பொறுப்பேற்று பதவி விலக வேண்டும் என எதிர்க்கட்சிகள் வலியுறுத்தி வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a4a26f7a.json)
+
+---
 
 ### 2025-09-08 (Monday)
 
@@ -149,6 +195,8 @@ Theatrics in Sri Lankan politics has reached a crescendo with the arrest, remand
 ...
 
 [Data](articles/4e0916a4.json)
+
+[Extended Data](ext_articles/4e0916a4.ext.json)
 
 ---
 
@@ -1987,69 +2035,5 @@ The owner revealed that the deceased had been constantly inhumanized by his wife
 [Data](articles/7d7e98d2.json)
 
 [Extended Data](ext_articles/7d7e98d2.ext.json)
-
----
-
-### President’s Fund to award scholarships for children of Sri Lankans affected abroad
-
-*2025-09-08 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112275/presidents-fund-to-award-scholarships-for-children-of-sri-lankans-affected-abroad) · `en`
-
-The President’s Fund has announced plans to implement a scholarship program to safeguard the education of children residing in Sri Lanka whose parents working abroad have died, become disabled, or gone missing due to various circumstances.
-
-Driven by the principle of “Leaving No One Behind in Education”, the initiative will be jointly implemented by the Presidential Fund, the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism, and the Foreign Employment Bureau.
-
-The decision was revealed during a recent meeting at the Presidential Secretariat, chaired by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, Senior Additional Secretary to the President, and Secretary to the Presidential Fund, Roshan Gamage, where the expansion of the Fund’s services was discussed.
-
-The primary objective of the program is to ensure the uninterrupted and secure education of children in Sri Lanka whose parents working overseas are affected by unforeseen tragedies.
-
-...
-
-[Data](articles/6b68b613.json)
-
-[Extended Data](ext_articles/6b68b613.ext.json)
-
----
-
-### Baby magic is swept away from the beach of Kaluppitti!
-
-*2025-09-08 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224512) · `ta`
-
-The Kaluppitti police are investigating the information that the child was swept away from the beach on Sunday (7) afternoon.
-
-At the same time, police have reported that the woman may have thrown the baby in the sea and suspected that the girl may have jumped into the sea with the baby.
-
-Also, at around 3.30 pm yesterday, some said that the woman was shouting at the beach and that her child had been dragged into the sea wave.
-
-The navy and the police are in the process of searching for a missing child.
-
-It is reported that the woman from Welimada is receiving treatment at the Colombo National Hospital.
-
-◼️
-
-[Data](articles/0c4b02ed.json)
-
-[Extended Data](ext_articles/0c4b02ed.ext.json)
-
----
-
-### UNP decides to deal with opposition parties including education
-
-*2025-09-08 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ඇතුළු-විපක්ෂයේ-පක්ෂ-සමඟ-කටයුතු-කිරීමට-එජාපයෙන්-තීරණයක්/11-418350) · `si`
-
-The UNP is announced that the UNP is intended to act with a committee or similar mechanism to deal with the opposition parties, including the opposition power.
-
-"The United National Party also intends to act through a committee or similar mechanism to deal with the opposition parties, including reconciliation force.
-
-The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and the opposition parties.
-
-UNP Chairman, Vajira Abeywardena said that the UNP has decided to continue the contents of the incident.
-
-Accordingly, he has decided to work openly with the conviction force. "
-
-◼️
-
-[Data](articles/bfa8ef54.json)
-
-[Extended Data](ext_articles/bfa8ef54.ext.json)
 
 ---

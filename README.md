@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 14:12:10**
+As of **2025-09-08 14:39:13**
 
 ## Newspaper Stats
 
-*Scraped **74,732** Articles*
+*Scraped **74,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,131 @@ dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,232
 adaderanalk | 9,558
-tamilmirrorlk | 11,131
-virakesarilk | 12,212
-adaderanasinhalalk | 13,016
+tamilmirrorlk | 11,133
+virakesarilk | 12,214
+adaderanasinhalalk | 13,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,492 (85.0%) of 74,732 articles have been extended.
+63,502 (85.0%) of 74,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### பொகவந்தலாவையில் ஐஸ்: இருவர் கைது
+### හරක් කටාව නඩු විභාගය අවසන් වන තුරු රැඳවුම් භාරයේ තැබීමට නියෝග
+
+*2025-09-08 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214317) · `si`
+
+අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා සිටියදී ඉන් පලායාමට කුමන්ත්‍රණය කිරීම ඇතුළු චෝදනා එල්ල වී සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තා ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ ආරක්ෂක ලේකම්වරයා විසින් නිකුත් කළ රැඳවුම් නියෝගයකට අනුව නඩු විභාගය අවසන් වන තෙක් රඳවා ගැනීමට තීරණය කර ඇතැයි නීතිපතිවරයා අද (08) කොළඹ මහාධිකරණයට දැනුම් දුන්නේය.
+
+මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ සජිත් බණ්ඩාර මහතා මෙම දැනුම්දීම සිදුකළේය.
+
+මෙම නඩුව ඉකුත්දා කැඳවූ අවස්ථාවේදී රජයේ නීතිඥවරයා දැනුම්දී තිබුණේ, මෙම විත්තිකරුට එරෙහිව ආරක්ෂක ලේකම්වරයා විසින් නිකුත් කර තිබෙන රැඳවුම් නියෝගය අවසන් වීමෙන් පසුව ඔහු රිමාන්ඩ් භාරයට පත් කිරීමට කටයුතු කරන ලෙසය.
+
+එහෙත් මෙම සැකකරුගේ ආරක්ෂාව සැලකිල්ලට ගෙන ඔහු රැඳවුම් භාරයේ රඳවා ගැනීමට ආරක්ෂක ලේකම්වරයා තීරණය කර ඇති බවත් රජයේ නීතිඥවරයා අද නඩුව කැඳවූ අවස්ථාවේදී අධිකරණයට දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/166f4bc0.json)
+
+---
+
+### ’15 ஆண்டுகளாக திருடுகிறேன்: திருடும் ​போது கிடைக்கும் மகிழ்ச்சிக்கு அளவில்லை: ஊராட்சி தலைவி
+
+*2025-09-08 14:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-ஆண்டுகளாக-திருடுகிறேன்-திருடும்-போது-கிடைக்கும்-மகிழ்ச்சிக்கு-அளவில்லை-ஊராட்சி-தலைவி/175-364208) · `ta`
+
+'பணம், புகழ், வசதிகள் வந்த போதிலும், திருடும் போது கிடைக்கும் மகிழ்ச்சிக்காக, 15 ஆண்டுகளாக திருட்டு தொழிலில் ஈடுபட்டு வருகிறேன்' என, செயின் பறிப்பு வழக்கில் கைதான, திராவிட முன்னேற்ற கழகத்தைச்    சேர்ந்த ஊராட்சி தலைவி வாக்குமூலம் அளித்துள்ளார்.
+
+சென்னை நெற்குன்றத்தைச் சேர்ந்தவர் வரலட்சுமி, (வயது 50). இவர், காஞ்சிபுரத்தில் இருந்து அரசு பஸ்சில் சென்னை திரும்பிய போது, அவரது 5 சவரன் நகையை பெண் ஒருவர் திருடியுள்ளார்.
+
+கோயம்பேடு பொலிஸார் விசாரித்து, திருப்பத்துார் மாவட்டம் நரியம்பட்டு ஊராட்சி தலைவரான, தி.மு.க.,வைச் சேர்ந்த பாரதி,(வயது 51), என்பவரை கைது செய்தனர்.
+
+நான், ஆம்பூர், வாணியம்பாடி, திருப்பத்துார், வேலுார், கிருஷ்ணகிரி என பல இடங்களில், ஓடும் பஸ்களில், பெண்களின் கவனத்தை திசை திருப்பி, நகை திருடி உள்ளேன்.
+
+நல்லவள் போல குழந்தைகளுடன் பேச்சு கொடுத்து, நகை பறிப்பில் ஈடுபட்டுள்ளேன். கடந்த 15 ஆண்டுகளாக, திருட்டு தொழிலில் ஈடுபட்டு வருகிறேன். திருடிய நகை களை விற்று கிடைத்த பணத் தில், சொந்த ஊரில் வணிக வளாகம் கட்டி உள்ளேன்.
+
+...
+
+[Data](articles/ca299123.json)
+
+---
+
+### Funds for the education of children of migrant workers
+
+*2025-09-08 13:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்ந்த-தொழிலாளர்களின்-குழந்தைகளின்-கல்விக்கு-நிதி/175-364207) · `ta`
+
+The Presidential Fund is planning to implement a scholarship program to protect the education of the children of Sri Lankans affected by various disasters, including dies abroad, disabled and abroad.
+
+The President's Fund, the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism and the Foreign Employment Bureau is to implement the project, according to the implementation of "no one in education".
+
+Discussion on expanding the services of the President was held recently under the patronage of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and the President's Senior Additional Secretary and Secretary of the President's Fund Roshan Kamage.. The project was announced.
+
+The purpose of this program is to ensure the school education and university education of the children of Sri Lankan workers who face disasters abroad.. The relevant guidelines are to be released in the coming days in the coming days.
+
+...
+
+[Data](articles/51eef924.json)
+
+[Extended Data](ext_articles/51eef924.ext.json)
+
+---
+
+### Disciplinary inquiry into Medical Palitha Rajapaksa
+
+*2025-09-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214316) · `si`
+
+Medical Palitha Rajapaksa, Badulla Teaching Hospital, has been called to the Public Service Commission for a disciplinary inquiry.
+
+Upon inquiry by Dr. Palitha Rajapaksa, he said that he had come to the Public Service Commission.
+
+Dr. Palitha Rajapaksa was committed to saving the lives of the victims, despite his risk of life at the Ella-Wellawaya main road.
+
+◼️
+
+[Data](articles/6c815337.json)
+
+[Extended Data](ext_articles/6c815337.ext.json)
+
+---
+
+### Ice in Bogawantalawa: Two arrested
 
 *2025-09-08 13:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொகவந்தலாவையில்-ஐஸ்-இருவர்-கைது/76-364205) · `ta`
 
-பொகவந்தலாவ பகுதியை சேர்ந்த இருவர் ஐஸ் போதைப் பொருளுடன் நோர்வூட் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two persons from Bogawantalawa have been arrested by Norwood police with ice drugs.
 
-இவ்வாறு கைது செய்யப்பட்டவர்களிடம் இருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கை பற்ற பட்டுள்ளது.
+Thus, 170 milligrams of ice from those arrested is a drug.
 
-அரச புலனாய்வு பிரிவினர் வழங்கிய  தகவலுக்கு அமைய  வீதி தடைகளை அமைத்து மேற்கொண்ட சோதனையின் போது முச்சக்கர வண்டியில் சென்ற சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டதாக நோர்வூட் பொலிஸார் தெரிவித்துள்ளனர் இவ்வாறு கைது செய்யப்பட்டவர்களிடமிருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
+Norwood police said that two suspects were arrested in the three -wheeler during a raid on the road ban on information provided by the State Intelligence Unit.
 
-இவ்விருவரும் பொகவந்தலாவ சிரிபுர,செப்பல்டன் பகுதிகளைச் சேர்ந்தவர்கள் என   நோர்வூட் பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
+The two are from the Bogawantalawa Siripura and Peppelton areas, said the Norwood Police Station.
 
 ◼️
 
 [Data](articles/4ee533d4.json)
+
+[Extended Data](ext_articles/4ee533d4.ext.json)
+
+---
+
+### நிமல் லான்சாவுக்கு பிணை!
+
+*2025-09-08 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224519) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் நிமல் லான்சாவை பிணையில் விடுதலை செய்யுமாறு நீர்கொழும்பு மேல் நீதிமன்றம் இன்று திங்கட்கிழமை (08) உத்தரவிட்டுள்ளது.
+
+விளக்கமறியலி ்வைக்கப்பட்டுள்ள நிமல் லான்சா இன்று நீர்கொழும்பு மேல் நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+அதன்படி, நிமல் லான்சாவை 2 இலட்சம் ரூபாய் பெறுமதியான 2 சரீரப் பிணைகளில் விடுதலை செய்யுமாறு நீர்கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+2006 ஆம் ஆண்டில் நடைபெற்ற ஆர்ப்பாட்டத்தில் தாக்குதல் நடத்துதல் மற்றும் ஆயுதங்களை பயன்படுத்தல் உள்ளிட்ட குற்றச்சாட்டுக்கள் தொடர்பில் நிமல் லான்சா நீர்கொழும்பு, கொச்சிக்கடை பொலிஸ் நிலையத்தில் ஆகஸ்ட் 29 ஆம் திகதி சரணடைந்ததையடுத்து விளக்கமறியலில் வைக்கப்பட்டிருந்த நிலையில் தற்போது பிணையில் விடுதலை செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a21f4721.json)
 
 ---
 
@@ -70,13 +166,33 @@ Foreign media reports that at least two gunmen had been shot by two gunmen.
 
 *2025-09-08 13:23:17* · [`adalk`](https://www.ada.lk/breaking_news/රක්ෂිත-බන්ධනාගාරගත-කර-සිටි-නිමල්-ලන්සාට-අද-ලැබුණු-නියෝගය-මෙන්න/11-418351) · `si`
 
-අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලන්සා  මහතා ඇප මත නිදහස්  කිරීමට මීගමුව මහාධිකරණය නියෝග කර තිබේ.
+Former State Minister Nimal Lansa, who was arrested and remanded, has been released on bail.
 
-2006 වසරේ පහරදීමක් ඇතුළු චෝදනා කිහිපයක් සම්බන්ධයෙන් ඔහුව පසුගියදා අත්අඩංගුවට ගනු ලැබිණි.
+He was arrested recently regarding several charges including an assault in 2006.
 
 ◼️
 
 [Data](articles/ceeb5929.json)
+
+[Extended Data](ext_articles/ceeb5929.ext.json)
+
+---
+
+### அவுஸ்திரேலியாவில் விஷக்காளான் உணவைக் கொடுத்து மூவரை கொன்ற பெண்! - 33 ஆண்டுகள் பிணையில்லாத ஆயுள் தண்டனை!
+
+*2025-09-08 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224495) · `ta`
+
+அவுஸ்திரேலிய பெண் எரின் பேட்டர்சனுக்கு 33 ஆண்டுகள் பிணை இல்லாத ஆயுள் தண்டனை விதிக்கப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+2023ஆம் ஆண்டு நச்சுத்தன்மையான மதிய உணவினை பரிமாறி மூன்று உறவினர்களைக் கொன்றதாகவும், மற்றொருவரைக் கொல்ல முயன்றதாகவும் குற்றம் சாட்டப்பட்டு வழக்கு தொடுக்கப்பட்டது.
+
+அதனைத் தொடர்ந்து, மதிய உணவின்போது அவர் நச்சுத்தன்மை வாய்ந்த காளான்கள் கலந்த மாட்டிறைச்சியை தனது உறவினர்களுக்கு பரிமாறியுள்ளதாக அவர் மீது சுமத்தப்பட்ட குற்றம் நிரூபிக்கப்பட்டு, எரின் பேட்டர்சன் குற்றவாளி என கடந்த ஜூலை மாதம் நீதிமன்றத்தால் தீர்ப்பளிக்கப்பட்டது.
+
+50 வயதான எரின் விசாரணைகளின்போதும் எந்த விதத்திலும் உணர்ச்சிவசப்படவில்லை என்றும் நீதிமன்றத்தில் கண்களை மூடிக்கொண்டு நின்ற எரின், நீதிபதி தீர்ப்பினை அறிவிக்கையில் குற்றத்துக்கான தண்டனையை வாசிக்கும்போது மட்டுமே கண்களைத் திறந்தார் என்றும் தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/addff430.json)
 
 ---
 
@@ -424,21 +540,23 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 
 ---
 
-### பிரதமர் ஹரிணி பதவி நீக்கப்படுவாரா? டில்வின் கருத்து
+### Will Prime Minister Harini be sacked? Dilvin's opinion
 
 *2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/150-364196) · `ta`
 
-பிரதமர் ஹரிணி அமரசூரிய தனது பதவியில் இருந்து நீக்கப்படுவார் என்ற ஊகங்களை மக்கள் விடுதலை முன்னணியின் (ஜே.வி.பி) பொதுச் செயலாளர் டில்வின் சில்வா நிராகரித்தார்.
+The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
 
-பொதுக் கூட்டத்தில் பேசிய சில்வா, எதிர்க்கட்சி நீண்ட காலமாக ஆதாரமற்ற கூற்றுகளைப் பரப்பி வருவதாகவும், ஆனால் அவை எதுவும் நிறைவேறவில்லை என்றும் கூறினார்.
+Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
 
-"முன்னதாக, ஹரிணி அமரசூரிய தனது அமைச்சர் பதவியை இழப்பார் என்று அவர்கள் கூறினர்
+"Earlier, they said that Harini Amarasuriya would lose his ministerial post
 
-இப்போது அவர் பிரதமர் பதவியிலிருந்து நீக்கப்படுவார் என்று கூறுகின்றனர். இவை அவர்களின் கனவுகளே தவிர வேறு ஒன்றும“ஷ் இல்லை," என்று அவர் கூறினார்.
+They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
 
 ◼️
 
 [Data](articles/3ccf3fb1.json)
+
+[Extended Data](ext_articles/3ccf3fb1.ext.json)
 
 ---
 
@@ -771,6 +889,8 @@ The Proposal to the Investment Promotion and Mutual Protection Aception was also
 ◼️
 
 [Data](articles/349e899f.json)
+
+[Extended Data](ext_articles/349e899f.ext.json)
 
 ---
 
@@ -1877,109 +1997,5 @@ The “‘Essentials of Modern Marketing (EOMM)” is a flagship marketing serie
 [Data](articles/3bd461ed.json)
 
 [Extended Data](ext_articles/3bd461ed.ext.json)
-
----
-
-### Taxes for life: Shaping our collective future through education
-
-*2025-09-08 01:41:55* · [`dailyftlk`](https://www.ft.lk/columns/Taxes-for-life-Shaping-our-collective-future-through-education/4-781317) · `en`
-
-The solution is clear, simple, and revolutionary: integrate age-appropriate tax education into our school curricula
-
-magine they would still ring so true centuries later. At first glance, the line may seem like a clever remark. But it holds a deeper truth: taxes much like death are a universal part of life. Inevitable, often misunderstood, and sometimes dreaded, taxes quietly power the engines of society. They fund the roads we drive on, the hospitals we depend on, the schools that shape our future, and the safety nets that protect the most vulnerable.
-
-...
-
-[Data](articles/945e2511.json)
-
-[Extended Data](ext_articles/945e2511.ext.json)
-
----
-
-### Digital influencers and new age of marketing  in Sri Lanka: Paradigm shift in brand engagement
-
-*2025-09-08 01:35:56* · [`dailyftlk`](https://www.ft.lk/columns/Digital-influencers-and-new-age-of-marketing-in-Sri-Lanka-Paradigm-shift-in-brand-engagement/4-781316) · `en`
-
-What makes digital influencers particularly effective is their ability to forge genuine connections with their followers
-
-In the dynamic world of marketing, a quiet revolution has been reshaping the way brands communicate with their audiences. Traditional advertising strategies, once dominated by celebrity endorsements and glossy print campaigns, are now being challenged by a new and highly influential force: digital influencers. These individuals, often ordinary people with an extraordinary online presence, have become the new voices of brands. They shape consumer perceptions and drive purchasing decisions in subtle yet powerful ways.
-
-...
-
-[Data](articles/8e06dbce.json)
-
-[Extended Data](ext_articles/8e06dbce.ext.json)
-
----
-
-### Spare a thought for the coloniser
-
-*2025-09-08 01:31:42* · [`dailyftlk`](https://www.ft.lk/columns/Spare-a-thought-for-the-coloniser/4-781315) · `en`
-
-Ahmed Abu Amsha and the children’s music group Gaza Birds Singing – Reuters
-
-I wonder: what inhuman power compels one to walk, or crawl, or locomote in any way whatsoever, towards gunfire so that another life may not end while they live? Surely, this must be the animalistic behaviour Barrack is referring to, through which the bravery of “the region” still shines forth
-
-“Do you think this is fun for us,” asked Tom Barrack, the US special envoy for Syria, addressing a group of Lebanese journalists after a meeting with President Joseph Aoun in Beirut on 26 August. Speaking what appears to be the only language he knows—that of finance—and referring to his deputy Morgan Ortagus, he further added, “Do you think this is economically beneficial for Morgan and I to be here putting up with this insanity?”
-
-...
-
-[Data](articles/ea9d55a1.json)
-
-[Extended Data](ext_articles/ea9d55a1.ext.json)
-
----
-
-### Dayan Jayatilleka: The strategist Sri Lanka discarded
-
-*2025-09-08 01:27:12* · [`dailyftlk`](https://www.ft.lk/columns/Dayan-Jayatilleka-The-strategist-Sri-Lanka-discarded/4-781314) · `en`
-
-Dayan Jayatilleka today remains one of Sri Lanka’s sharpest political minds
-
-Sri Lanka’s only victory at Geneva was delivered by Dayan Jayatilleka. Six weeks later, he was removed under foreign pressure. Since then, Sri Lanka has never won again. The West tried to choke Sri Lanka with false accusations of war crimes. Dayan stopped them. He showed that sovereignty could be defended with clarity, courage, and coalition. And then he was betrayed
-
-He gave Sri Lanka its only victory at Geneva. Six weeks later he was thrown aside. A nation that trashes its finest minds does not deserve victory — and that is why we keep losing.
-
-For decades, Sri Lanka has stumbled through Geneva, battered by hostile resolutions and accusations of war crimes. The UN Human Rights Council became a courtroom, and Sri Lanka its permanent defendant.
-
-...
-
-[Data](articles/c5f3c563.json)
-
-[Extended Data](ext_articles/c5f3c563.ext.json)
-
----
-
-### Is justice for war violations?
-
-*2025-09-08 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224483) · `ta`
-
-The fact that the facts of the atrocities committed by the fellow man against humanity in Sri Lanka have been revealed and waiting for justice to be established, and the land and long -awaitedness of the atrocities have begun to dissolve today without the pain of waiting.. The human wreath, which is now being said to be landlord, has begun to shake the conscience of the world. It has been silenced by those who have long denied that there are no ethnic or war crimes in Sri Lanka.
-
-The story of the famous sheep land begins with the assassination of Krishanthi Kumaraswamy. Krishanthi Kumaraswamy, who wrote the GCE Advanced Level Examination at the Chundukkuli Ladies' College, Jaffna on September 7, 1996, and his mother Rajamma Kumaraswamy, the younger brother Kumaraswamy Pranavan and the neighbor Chidambaram Kripamoorthy were killed by the army.
-
-...
-
-[Data](articles/56068f65.json)
-
-[Extended Data](ext_articles/56068f65.ext.json)
-
----
-
-### The Upcountry Development Authority should be strengthened - PP Sivapragasam
-
-*2025-09-08 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224482) · `ta`
-
-A massive controversy over the new Villages Development Authority for the Upcountry Development Authority or Plantation Regions. There are reports that arrangements are being made to dilute the Development Authority and bring it up as part of the Plantation Community Infrastructure Ministry.
-
-Against this backdrop, Dr. PP Sivapragasam, a member of the National People's Power and Deputy Secretary of the Plantation Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Secretary, states that the Hill Development Authority should be taken as the Authority.
-
-In the document submitted to the President on this issue, Dr. Sivapragasam is a authority of the Development Authority legally established by the Parliamentary Act of 2018.
-
-...
-
-[Data](articles/53b8d8c3.json)
-
-[Extended Data](ext_articles/53b8d8c3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 11:20:15**
+As of **2025-09-08 11:07:35**
 
 ## Newspaper Stats
 
-*Scraped **74,699** Articles*
+*Scraped **74,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,73 +18,35 @@ dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,223
 adaderanalk | 9,554
-tamilmirrorlk | 11,121
-virakesarilk | 12,209
+tamilmirrorlk | 11,119
+virakesarilk | 12,208
 adaderanasinhalalk | 13,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,335 (84.8%) of 74,699 articles have been extended.
+63,313 (84.8%) of 74,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### மத்திய அதிவேக நெடுஞ்சாலையின் கட்டுமான பணிகளை மீண்டும் ஆரம்பிக்க நடவடிக்கை!
-
-*2025-09-08 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224504) · `ta`
-
-நீண்ட காலமாக இடைநிறுத்தப்பட்டிருந்த மத்திய அதிவேக நெடுஞ்சாலையின் கட்டுமான பணிகளை மீண்டும் ஆரம்பிப்பதற்கான ஏற்பாடுகள் இடம்பெற்று வருகின்றன.
-
-கடவத்தை முதல் மீரிகம வரையிலான நீண்ட கால தாமதமான மத்திய அதிவேக நெடுஞ்சாலையின் முதற்பகுதியை நிர்மாணிப்பதற்கான சீன நிதியுதவி மீண்டும் ஆரம்பிக்கப்பட்டுள்ள நிலையில், இந்த திட்டம் செப்டம்பர் அல்லது ஒக்டோபரில் மீண்டும் ஆரம்பிக்கப்படும் என தெரிவிக்கப்பட்டுள்ளது.
-
-பெருந்தோட்ட உரிமையாளர்கள் சங்கத்தின் 171வது ஆண்டு பொதுக் கூட்டத்தில் உரையாற்றும்போது, ஜனாதிபதியின் சிரேஸ்ட பொருளாதார ஆலோசகர் துமிந்த ஹ{லங்கமுவ இந்த அறிக்கையை வெளியிட்டார்.
-
-37 கிலோமீட்டர் நீளமுள்ள இந்த வீதிப் பிரிவின் கட்டுமானத்திற்கு சீனாவிடமிருந்து தேவையான நிதி உதவியை இலங்கை பெற முடிந்துள்ளதாகவும் அவர் இதன்போது தெரிவித்துள்ளார்.
-
-மீதமுள்ள கட்டுமானப் பணிகளின் அளவை அடிப்படையாகக் கொண்டு, கட்டுமானம் முழுமையாக மீண்டும் ஆரம்பிக்கப்பட்டவுடன் இரண்டரை ஆண்டுகளுக்குள் திட்டம் நிறைவடையும் என அதிகாரிகள் மதிப்பிடுகின்றனர்.
-
-◼️
-
-[Data](articles/644c8e11.json)
-
----
-
-### Petitions against Tennakoon appointed as IGP
+### දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා ලෙස පත් කිරීමට එරෙහි පෙත්සම් විභාගයට දින නියම වෙයි
 
 *2025-09-08 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214307) · `si`
 
-Former President Ranil Wickremesinghe to appoint Deshabandu Tennakoon to be the IGP, the Supreme Court was appointed to the examination on February 12.
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීමට හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලැබූ තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් පෙබරවාරි මස 12 වනදා විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කළේය.
 
-The petitions were called before the Chief Justice Survey, Mahinda Sarasena and Arjuna Obeysekera and Arjuna Obeysekere.
+මෙම පෙත්සම් අද (08) අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, මහින්ද සමයවර්ධන සහ අර්ජුන ඔබේසේකර යන මහත්වරුගේ සමන්විත ත්‍රී පුද්ගල විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
 
-The panel of judges was ordered that the petitions are being heard on February 12.
+එහිදී විනිසුරු මඩුල්ල නියෝග කළේ අදාළ පෙත්සම් පෙබරවාරි මස 12 වනදා විභාගයට ගන්නා බවය.
 
-The Cardinal Great Malcolm Ranjith has presented nine petitions including MP, including the Young Journalists Association.
+කාදිනල් අතිඋතුම් මැල්කම් රංජිත් හිමිපාණන්, තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය ඇතුළු පාර්ශ්ව විසින් පෙත්සම් 09ක් ඉදිරිපත් කර තිබුණි.
 
 ◼️
 
 [Data](articles/1ef30b65.json)
-
-[Extended Data](ext_articles/1ef30b65.ext.json)
-
----
-
-### பொரித்த கோழியில் ‘லெக்பீஸ்’ இல்லை: பிரபல ஹோட்டலுக்கு 10 ஆயிரம் அபராதம்
-
-*2025-09-08 10:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரித்த-கோழியில்-லெக்பீஸ்-இல்லை-பிரபல-ஹோட்டலுக்கு-10-ஆயிரம்-அபராதம்/175-364189) · `ta`
-
-பிரபல பிரியாணி கடையில் ஆர்டர் செய்த முழு பொரித்த கோழியில் 'லெக்பீஸை' காணவில்லை என நுகர்வோர் கோர்ட்டில் வழக்கு தொடர்ந்தார். இந்த வழக்கில் அந்த ஹோட்டல் நிர்வாகம், வழக்கை தொடர்ந்த கிரிஸ்டோபர் எடிசனுக்கு ரூ.10 ஆயிரம் இழப்பீடு வழங்க வேண்டும் என கோவை நுகர்வோர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
-
-சினிமா பாணியில் நடந்த இந்த சம்பவம் தொடர்பாக பார்ப்போம். கோவை ஜி.கே.எஸ். அவென்யூ பகுதியை சேர்ந்த கிறிஸ்டோபர் எடிசன் என்பவர், பிரபல பிரியாணி கடையில் முழு பொரித்த கோழியை ஆர்டர் செய்தார்.
-
-நடிகர் வடிவேலு நடித்த ஒரு படத்தில் ஒருவர் ஹோட்டலில் சிக்கன் சாப்பிட செல்வார். சிக்கன் 65 ஆர்டர் செய்திருப்பார். அதில் ஐந்து சிக்கன் துண்டுகள் இருக்கும். தட்டில் கோழி 5 இருக்கு, மீதம் 60 கோழி எங்கே என்று வடிவேலுவிடம் சாப்பிட வந்தவர் கேட்பார்.  அப்படி ஒரு சம்பவம, அதேநேரம் சீரியஸான சம்பவமாக மாறி உள்ளது. முழு பொறித்த கோழி ஆர்டர் செய்தவருக்கு, லெக் பீஸ் கிடைக்கவில்லை. அவர் ஹோட்டல் மீது நுகர்வோர் நீதிமன்றத்தில் வழக்கே தொடர்ந்துள்ளார்.. என்ன நடந்தது என்பதை பார்ப்போம்.
-
-...
-
-[Data](articles/62e8c46a.json)
 
 ---
 
@@ -178,22 +140,6 @@ Thirukumar Kandasamy is a Sri Lankan Tamil who migrated to New York with a lot o
 
 ---
 
-### நியூயோர்க்கின் தோசை மனிதன்: அமெரிக்காவில் அசத்தும் இலங்கை தமிழர்
-
-*2025-09-08 10:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/நியூயோர்க்கின்-தோசை-மனிதன்-அமெரிக்காவில்-அசத்தும்-இலங்கை-தமிழர்/97-364185) · `ta`
-
-வடகிழக்கு அமெரிக்காவின் ஹாட்-டாக் மற்றும் டோனட்ஸ் மீதான அன்பைத் தாண்டி, நியூயோர்க் நகர மக்கள் இப்போது பருப்பு மற்றும் பிற காய்கறிகளுடன் கூடிய சூடான, சீஸ் தோசைகளை விரும்பி சாப்பிட தொடங்கி இருக்கின்றனர். அதற்கு காரணம் நியூயோர்க் நகரின் புகழ்பெற்ற தோசை மனிதர் என்று அழைக்கப்படும் திருக்குமார் கந்தசாமிதான்.
-
-காலை 9 மணியளவில், வாஷிங்டன் ஸ்கொயர் பார்க் தெருக்களில் தனது தள்ளுவண்டியைத் தள்ளிக்கொண்டு நரைத்த மீசை கொண்ட மனிதர் தான் திருக்குமார் கந்தசாமி. இவர் தள்ளு வண்டிக் கடையின் அடுப்பிலிருந்து ஆவி பறக்கத் தொடங்கினாலே, மக்கள் தோசையை சுவைக்க கூடிவிடுவார்கள். இந்தியர்களை கடந்து அதிகளவில் அமெரிக்காவைச் சேர்ந்தவர்களே இவரின் ரெகுலர் கஸ்டமர்கள்.
-
-21ஆம் நூற்றாண்டின் தொடக்கத்தில் ஏராளமான கனவுகளுடன் நியூயோர்க்கிற்கு குடிபெயர்ந்த இலங்கைத் தமிழர் தான் திருக்குமார் கந்தசாமி. இன்று நியூயோர்க் தெருவோர தோசை கடைகளின் அடையாளமாக மாறி இருக்கிறார். திருக்குமார் கந்தசாமி என்ற பெயரை சுருக்கி அனைவரும் திரு என்று அன்புடன் அழைப்பதை அவரின் இன்ஸ்டா வீடியோக்களில் பார்க்க முடியும்.
-
-...
-
-[Data](articles/e3c96dac.json)
-
----
-
 ### Ranil will announce it to the right time, time
 
 *2025-09-08 10:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரியான-நேரம்-காலம்-பார்த்து-ரணில்-அதை-அறிவிப்பார்/175-364184) · `ta`
@@ -254,8 +200,6 @@ Further investigations into the incident are being conducted by the Grandpass Po
 
 [Data](articles/e1f54e79.json)
 
-[Extended Data](ext_articles/e1f54e79.ext.json)
-
 ---
 
 ### Suspect arrested with a woman
@@ -298,8 +242,6 @@ Further investigations into the incident are being conducted by the Ganemulla Po
 
 [Data](articles/57701a8f.json)
 
-[Extended Data](ext_articles/57701a8f.ext.json)
-
 ---
 
 ### Sri Lanka’s Foreign Minister to deliver statement at 60th UNHRC session today
@@ -321,8 +263,6 @@ He further revealed that a draft resolution concerning Sri Lanka had been submit
 ...
 
 [Data](articles/26831918.json)
-
-[Extended Data](ext_articles/26831918.ext.json)
 
 ---
 
@@ -2007,5 +1947,67 @@ The suspect had been a resident of Beruwala for sale by the suspect, and the man
 [Data](articles/e546262b.json)
 
 [Extended Data](ext_articles/e546262b.ext.json)
+
+---
+
+### Japanese Prime Minister Shiba's Isziba resigns
+
+*2025-09-07 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214285) · `si`
+
+The 68-year-old Ishuba has confirmed his resignation at 6 pm today (7) at 6 pm.
+
+The Prime Minister said he is taking responsibility for electoral losses.
+
+◼️
+
+[Data](articles/85e1491e.json)
+
+[Extended Data](ext_articles/85e1491e.ext.json)
+
+---
+
+### Japan PM Ishiba resigns after bruising election losses
+
+*2025-09-07 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112257/japan-pm-ishiba-resigns-after-bruising-election-losses) · `en`
+
+Japanese Prime Minister Shigeru Ishiba resigned on Sunday, ushering in a potentially lengthy period of policy uncertainty at a shaky moment for the world’s fourth-largest economy.
+
+Having just ironed out final details of a trade deal with the United States to lower President Donald Trump’s punishing tariffs, Ishiba, 68, told a press conference he must take responsibility for a series of bruising election losses.
+
+Since coming to power less than a year ago, the unlikely premier has overseen his ruling coalition lose its majorities in elections for both houses of parliament amid voter anger over rising living costs.
+
+He instructed his Liberal Democratic Party - which has ruled Japan for almost all of the post-war period - to hold an emergency leadership race, adding he would continue his duties until his successor was elected.
+
+...
+
+[Data](articles/cea29988.json)
+
+[Extended Data](ext_articles/cea29988.ext.json)
+
+---
+
+### Malvuddudu fired and killed
+
+*2025-09-07 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214284) · `si`
+
+A person was killed and a person was killed in an annual ceremony held at a Kovil in Thambagalagamuwa in Trincomalee last night.
+
+The festival was held in the procession of the event, and one flower has not been lit.
+
+As a result, a nearby man was on the foot of the flower.
+
+It has been thrown into the body of this dead person, and it has exploded.
+
+He was admitted to the Thambalagamuwa Hospital.
+
+The victim was a 45 year old resident of the area.
+
+The post mortem was carried out by the Kantale Forensic Officer.
+
+◼️
+
+[Data](articles/bdfb66f7.json)
+
+[Extended Data](ext_articles/bdfb66f7.ext.json)
 
 ---

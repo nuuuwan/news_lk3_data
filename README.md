@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 12:25:34**
+As of **2025-09-08 12:14:45**
 
 ## Newspaper Stats
 
-*Scraped **74,710** Articles*
+*Scraped **74,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,228
+adalk | 7,227
 adaderanalk | 9,554
 tamilmirrorlk | 11,124
 virakesarilk | 12,209
@@ -26,49 +26,45 @@ adaderanasinhalalk | 13,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,411 (84.9%) of 74,710 articles have been extended.
+63,383 (84.8%) of 74,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### A severe accident in Wellawaya
+### වැල්ලවායේ දී දරුණු අනතුරක්
 
 *2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
 
-A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
+වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගයේ යාලබෝව ලංගම ඩීපෝව ඉදිරිපිට ප්‍රදේශයේ දී ලොරි රථයක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් අද (08) අනතුරක් සිදුව තිබේ.
 
-Two traders were injured and admitted to the Wellawaya Base Hospital.
+අනතුරින් මෝටර් රථයේ ගමන්ගත් දෙදෙනෙකු තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
 
-The lorry has flipled through the road, and the road has also been interrupted due to the road.
+මෙම අනතුරින් ලොරි රථය මාර්ගය හරහා පෙරළී ගොස් ඇති අතර ඒ හේතුවෙන් මාර්ගයේ ගමනාගමන කටයුතුවලට ද බාධා එල්ල වී ඇති බව පොලීසිය පැවසුවේය.
 
 ◼️
 
 [Data](articles/b2cc3b64.json)
 
-[Extended Data](ext_articles/b2cc3b64.ext.json)
-
 ---
 
-### UNP decides to work with the forces of the opposition
+### සජබ ඇතුළු විපක්ෂයේ බලවේග සමග එකට වැඩ කිරීමට එජාපයේ තීරණයක්
 
 *2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
 
-The UNP has decided to continue with the reconciliation and other political parties in the preliminary discussions.
+මූලික සාකච්ඡාවලදී එකඟතාවයට පැමිණි ආකාරයට සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් දේශපාලන පක්ෂ සමග අඛණ්ඩව ඉදිරියටත් කටයුතු කරගෙන යාමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
 
-The United National Party (UNP) has also intended to act through a committee or similar mechanism to deal with the opposition parties, including the unity force.
+ඒ සඳහා සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ පක්ෂ සමග කටයුතු කිරීම සඳහා කමිටුවක් හෝ ඒ හා සමාන යාන්ත්‍රණයක් මගින් ක්‍රියා කිරීමටද එක්සත් ජාතික පක්ෂය මෙහිදී අදහස් කර ඇත.
 
-The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and other matters with the opposition parties.
+සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් පක්ෂ සමඟ පොදු කාරණාවලදී කටයුතු කරන ආකාරය සම්බන්ධයෙන් පසුගිය කාලය මුළුල්ලේම එක්සත් ජාතික පක්ෂය විරුද්ධ පක්ෂ සමග සාකච්ඡා කරනු ලැබිය.
 
-The Chairman of the UNP Vajira Abeywardena said the UNP has decided to continue in the discussions with agreements.
+එම සාකච්ඡාවලදී එකඟත්වයට පැමිණි කරුණු අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කිරීමට එක්සත් ජාතික පක්ෂය තීරණය කළ බව එම පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා පැවසීය.
 
-He also said that he has decided to work open with the conviction force.
+මේ අනුව සමගි ජන බලවේගය සමඟ විවෘතව වැඩ කිරීමට තීරණය කර තිබෙන බවද ඔහු සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/61017216.json)
-
-[Extended Data](ext_articles/61017216.ext.json)
 
 ---
 
@@ -89,22 +85,6 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 [Data](articles/307f2920.json)
 
 [Extended Data](ext_articles/307f2920.ext.json)
-
----
-
-### බදුල්ලේ සිට කොළඹ එන්න ආපු දුම්රිය දෙකක් පීලි පනියි
-
-*2025-09-08 11:19:29* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-කොළඹ-එන්න-ආපු-දුම්රිය-දෙකක්-පීලි-පනියි/11-418345) · `si`
-
-බදුල්ල සිට කොළඹ කොටුව බලා ධාවනය වෙමින් තිබූ අංක 1016 දරන උඩරට මැණිකේ දුම්රිය අද (8) උදෑසන දෙමෝදර අහස් නවය ආරුක්කු පාලම ආසන්නයේ දී අතර මග ඇණහිටීම නිසාවෙන් දුම්රිය මගීන් දැඩි අපහසුතාවට පත්වූහ .
-
-බදුල්ල දුම්රිය ස්ථානයෙන් අලුයම 5.50ට කොළඹ කොටුව බලා ගමන් ආරම්භ කල අංක 1016 දරන උඩරට මැණිකේ දුම්රිය දෙමෝදර  දුම්රිය ස්ථානයෙන් පෙරවරු 6.27ට නියමිත වේලාවට ධාවනය වී ඇල්ල දුම්රිය ස්ථානය කරා ලගාවෙමින් තිබියදී ඓතිහාසික අහස් නවය ආරුක්කු පාලම ආසන්නයේ දී මෙම ද්විත්ව දුම්රිය එංජින් යුගලක එක් එන්ජිමක හදිසියේ ඇතිවූ කාර්මික දෝශයක් හේතුවෙන් උඩරට මැණිකේ දුම්රිය මෙසේ අතරමග ඇණහිට යේය.
-
-පසුව දුම්රිය යලි දෙමෝදර දුම්රිය ස්ථානය කරා පසුපසට ධාවනය කර එහි නවතා තබා බදුල්ල දුම්රිය ස්ථානයේ සිට පැමිනි දුම්රිය කාර්මිකයින් විසින් දුම්රිය එංජිම පිළිසකර කිරිමෙන් අනතුරුව යලි උඩරට මැණිකේ දුම්රිය පැය දෙකහමාරක් පමන ප්‍රමාදවී දෙමෝදරින් පෙරවරු 8.43 ට කොළඹ කොටුව බලා ධාවනය කරවු බවත් දුම්රිය දෙපාර්තමේන්තුව සදහන් කලේය .
-
-...
-
-[Data](articles/ab89bb35.json)
 
 ---
 
@@ -2027,5 +2007,37 @@ In order to avoid it, it is reported that he has come forward to resign automati
 [Data](articles/855eff8b.json)
 
 [Extended Data](ext_articles/855eff8b.ext.json)
+
+---
+
+### Sri Lanka a target of 192 runs
+
+*2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
+
+Zimbabwe scored 191 runs for the loss of 19 wickets in the first 20 overs.
+
+This was the highest scorers of Zimbabwe's highest marks in the Twenty20 match against Sri Lanka.
+
+Earlier, they had scored 178 runs for the loss of 6 wickets.
+
+Accordingly, Sri Lanka won a target of 192 runs.
+
+Sri Lanka captain Charith won the toss and win the coin of the match at the Harrara Stadium.
+
+Tadiwanashe Marumani scored 51 runs on behalf of Zimbabwe. Sikandar raza scored 28 runs.
+
+Sean Williams bowled out 23 runs while Brian Bennett scored 13 runs.
+
+Dushan Hemantha took 3 wickets for Sri Lanka in bowling. Damadantha Chameera took 2 wickets.
+
+The winner can win the championship in this competition, as the two teams have won the two matches every two matches.
+
+Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has rested to the rest of the time.
+
+◼️
+
+[Data](articles/12120caa.json)
+
+[Extended Data](ext_articles/12120caa.ext.json)
 
 ---

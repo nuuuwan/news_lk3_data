@@ -1,92 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 23:57:09**
+As of **2025-09-08 23:07:33**
 
 ## Newspaper Stats
 
-*Scraped **74,828** Articles*
+*Scraped **74,822** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 762
+colombotelegraphcom | 761
 economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,244
-adaderanalk | 9,583
-tamilmirrorlk | 11,148
-virakesarilk | 12,222
-adaderanasinhalalk | 13,037
+adaderanalk | 9,581
+tamilmirrorlk | 11,147
+virakesarilk | 12,221
+adaderanasinhalalk | 13,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,023 (85.6%) of 74,828 articles have been extended.
+63,979 (85.5%) of 74,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### French Prime Minister loses - government collapses
-
-*2025-09-08 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214339) · `si`
-
-French lawmakers voted for powering the Prime Minister.
-
-Accordingly, 364 MPs have been given 364 MPs against the Bhire and 194 members in favor.
-
-◼️
-
-[Data](articles/1882dc5a.json)
-
-[Extended Data](ext_articles/1882dc5a.ext.json)
-
----
-
-### The French government toppled
-
-*2025-09-08 22:55:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரெஞ்சு-அரசாங்கம்-கவிழ்ந்தது/50-364237) · `ta`
-
-French Prime Minister Posa Pyroo failed in a confidence vote on his government.
-
-The French National Assembly voted at 364 -194 to expel Prime Minister Pyroo and topple his minority government.. Another 25 MPs did not attend the referendum.
-
-Prime Minister Pyroo will hand over his resignation tomorrow morning to President Emanuel Macron.
-
-◼️
-
-[Data](articles/994eba6a.json)
-
-[Extended Data](ext_articles/994eba6a.ext.json)
-
----
-
-### Russia’s Enteromix cancer vaccine shows 100% efficacy in early trials – Report
-
-*2025-09-08 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112300/russias-enteromix-cancer-vaccine-shows-100-efficacy-in-early-trials-report) · `en`
-
-In a breakthrough that reads like a beacon of hope, Russia has announced that its novel cancer vaccine, Enteromix, has demonstrated 100% efficacy and safety in initial human trials.
-
-The news highlights the vaccine’s remarkable performance: patients experienced tumour shrinkage and no serious side effects.
-
-Developed using the same mRNA technology as the COVID-19 vaccines, Enteromix is designed to train the immune system to recognize and eliminate cancer cells, a safer, more intelligent alternative to traditional treatments like chemotherapy.
-
-This pioneering therapy is personalized for each colorectal cancer patient, offering a custom immunotherapy tailored to an individual’s tumour profile.
-
-The trials involved 48 volunteers and were conducted by Russia’s National Medical Research Radiological Centre in collaboration with the Engelhardt Institute of Molecular Biology.
-
-...
-
-[Data](articles/2ae02176.json)
-
-[Extended Data](ext_articles/2ae02176.ext.json)
-
----
 
 ### Police explain to a false news circulating on social media
 
@@ -126,28 +70,6 @@ The DIG and her wife, including the DIG and his wife, have been accused of treas
 
 ---
 
-### Drugs have been brought into the country with the support of the last rulers - Minister Nalinda Jayatissa
-
-*2025-09-08 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224574) · `ta`
-
-Health and Media Minister Nalinda Jayatissa said that the rulers, including the minister in the past, were ignoring the crime, including drug production, and that the rulers are now involved in such crimes.
-
-The Minister said this while responding to a question raised by a journalist regarding the identification of drugs in different parts of the country on Monday (8) in Colombo.
-
-The Criminal Investigation Division (CID) and the relevant chemical analysis unit have launched a detailed investigation into the recovered drug and the recognized persons who have been identified as criminals.
-
-The past government has used their power to create drugs in the country and bring in the necessary chemicals.. These are not presently formed. They have been in the support of the government for years.
-
-The rulers, including the minister in the past, have not found such crimes. It is now revealed that the rulers are also involved, and it is evident that they were negligent.
-
-...
-
-[Data](articles/a19a1e2c.json)
-
-[Extended Data](ext_articles/a19a1e2c.ext.json)
-
----
-
 ### Train disrupted: Services vulnerable
 
 *2025-09-08 21:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-சேவைகள்-பாதிப்பு/175-364235) · `ta`
@@ -161,24 +83,6 @@ The Railway Department has announced that the trains on the Kelaniya railway lin
 [Data](articles/06cb7634.json)
 
 [Extended Data](ext_articles/06cb7634.ext.json)
-
----
-
-### US and Sri Lanka launch multilateral ‘Pac Angel 25’ exercise to enhance disaster response
-
-*2025-09-08 20:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112299/us-and-sri-lanka-launch-multilateral-pac-angel-25-exercise-to-enhance-disaster-response) · `en`
-
-The United States and Sri Lanka today officially launched PACIFIC ANGEL (Pac Angel) 25 at Katunayake Air Base, with U.S. Defense Attaché Lt. Col. Matthew House joining Sri Lanka Air Force leaders to open the exercise.
-
-The five-day multilateral program, running from September 8–12, brings together nearly 90 U.S. and 120 Sri Lanka Air Force personnel, along with participants and observers from Australia, Bangladesh, India, Japan, and Maldives, to strengthen disaster response and save lives, the US Embassy in Colombo said.
-
-Training focuses on search and rescue, medical readiness, air safety, and engineering cooperation. Supported by two U.S. C-130J aircraft and Sri Lanka’s Bell 412, B-212 helicopter, and King Air 350, Pac Angel 25 builds the teamwork and trust needed for faster, stronger responses to real-world crises.
-
-...
-
-[Data](articles/184bb4fb.json)
-
-[Extended Data](ext_articles/184bb4fb.ext.json)
 
 ---
 
@@ -755,26 +659,6 @@ The process for submitting appeals for the re-scrutiny of the 2024 Grade 5 Schol
 [Data](articles/16a35cc1.json)
 
 [Extended Data](ext_articles/16a35cc1.ext.json)
-
----
-
-### Minister Of Foreign Affairs Vijitha Herath’s Speech At UNHRC: Full Text
-
-*2025-09-08 17:24:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/minister-of-foreign-affairs-vijitha-heraths-speech-at-unhrc-full-text/) · `en`
-
-Statement delivered by Hon. Vijitha Herath, Minister of Foreign Affairs, Foreign Employment and Tourism at the 60th Session of the Human Rights Council in Geneva 8th September 2025
-
-I speak to you on behalf of the Government of Sri Lanka at a time when my country has embarked on a historic journey towards transformational change. This journey is about democratic governance, human rights, inclusive economic growth and national unity.
-
-In March this year, 3 months after the National Peoples Power (NPP) Government assumed office, I addressed the High-Level Segment of this Council and outlined the clear vision of the Government to bring in meaningful and progressive change that would advance the rights and well-being of all Sri Lankans.
-
-Six months on, as the High Commissioner presents his report on Sri Lanka today, I am pleased to share with you the tangible progress that we have achieved in translating this vision of change into a reality.
-
-...
-
-[Data](articles/e04add05.json)
-
-[Extended Data](ext_articles/e04add05.ext.json)
 
 ---
 
@@ -2067,5 +1951,135 @@ Laufgs is a diversified group made up of 23 businesses ranging from LPG and powe
 [Data](articles/87eed4ab.json)
 
 [Extended Data](ext_articles/87eed4ab.ext.json)
+
+---
+
+### UNP decides openly working with education
+
+*2025-09-08 12:21:59* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-සමග-විවෘතව-එකට-වැඩ-කිරිමට-එජාපය-තීරණය-කරයි/11-418349) · `si`
+
+The UNP has decided to decide continuously with the conique and other political parties in the preliminary discussions.
+
+The United National Party also means to act through the opposition parties, including the opposition parties.
+
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and the opposition parties.
+
+UNP Chairman, Vajira Abeywardena said that the UNP has decided to continue the contents of the incident.
+
+Accordingly, he has decided to work openly with the conviction force.
+
+◼️
+
+[Data](articles/a4bc7910.json)
+
+[Extended Data](ext_articles/a4bc7910.ext.json)
+
+---
+
+### Two arrested with 83 passports
+
+*2025-09-08 12:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/83-கடவுச்சீட்டுகளுடன்-இருவர்-கைது/175-364199) · `ta`
+
+Two suspects have been arrested for illegal 83 passports belonging to other persons.
+
+Police said the suspects were arrested following a raid conducted yesterday in the Horakolla area, Ganemulla.
+
+Following the raid, two suspects were arrested, 51 -year -old male and 62 -year -old woman from Ganemulla.
+
+◼️
+
+[Data](articles/d130d883.json)
+
+[Extended Data](ext_articles/d130d883.ext.json)
+
+---
+
+### Namal confirmed the President in 2029
+
+*2025-09-08 12:14:59* · [`adalk`](https://www.ada.lk/breaking_news/2029දී-නාමල්-ජනපති-බව-තහවුරුයි/11-418347) · `si`
+
+Former Parliamentarian Tissa Kuttiarachchi, the Sri Lanka General Man, said that instead of the leading government of the JVP to control the country, said the Sri Lanka General Tissa Kuttiarachchi.
+
+The Govt.
+
+He was speaking at a meeting with activists of the Sri Lanka Civil Appointment in Anuradhapura yesterday (7).
+
+He said that the government is responsible for eliminating the safety of underworld and poisoning, ensuring the safety and development of the country.
+
+The present government is being carried out by politicians and the rule of law should be made to the politicians, he added.
+
+He said that although all except the Sri Lanka Front of the Sri Lanka Cran's Front will be restored to the victory of Namal Rajapaksa, no matter what obstacles in the political mechanism, he will protect the security and political profit of everyone who left for the party.
+
+Tissa Kuttiarachchi added that when political parties join the collection, but is ready to join policy and is ready to join the policy.
+
+◼️
+
+[Data](articles/2733f8ad.json)
+
+[Extended Data](ext_articles/2733f8ad.ext.json)
+
+---
+
+### Parents were not sent to irrigation. Threatest to Minister Principal
+
+*2025-09-08 12:12:24* · [`adalk`](https://www.ada.lk/breaking_news/වාරි-මහිමයට-දෙමාපියන්-යොමු-නොකළේ-යැයි-මාලිමාවේ-මන්ත්‍රී-හා-නි--ඇමති-විදුහල්පතිට-තර්ජනය-කරලා/11-418346) · `si`
+
+A Member of Parliament and Deputy Minister has been threatened to the Principal of the Association of Atnarijulu, alleging that the parents had not participated in the "Irrigation" ceremony.
+
+The Principal said that the Principal refuses to connect the appointment of a Member of Parliament under the 'Irrigation' Program of the Attaviratugolwa tank on the 4th of the 'Irrigation Program'.
+
+The school belongs to the Kebithigollewa region in the North Central Province. According to the Principal of the Divisional Secretary, the Principal has been informed to the Zonal Director.
+
+Priyantha Fernando said that the Principal's Private WhatsApp number is also threatened by a Deputy Minister to the Principal.
+
+The Ceylon Teachers Union Priyantha Fernando has revealed the Secretary to the Ministry of Education and the Ministry of Education in this regard.
+
+Miyophone Restaurant has been provided by the Principal for this event
+
+◼️
+
+[Data](articles/a3a62b17.json)
+
+[Extended Data](ext_articles/a3a62b17.ext.json)
+
+---
+
+### UNP agrees to work with SJB constructively in future
+
+*2025-09-08 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112272/unp-agrees-to-work-with-sjb-constructively-in-future) · `en`
+
+The United National Party (UNP) has decided to continue engaging cooperatively with the Samagi Jana Balawegaya (SJB) and other opposition political parties, in accordance with the consensus reached during initial discussions.
+
+Accordingly, the UNP has also proposed the establishment of a committee or a similar mechanism to facilitate coordination with the SJB and other opposition parties.
+
+In recent times, the UNP has engaged in discussions with opposition parties regarding ways to collaborate on matters of common interest.
+
+UNP Chairman Former Minister Wajira Abeywardana stated that the party has resolved to consistently implement the points of agreement reached through those discussions.
+
+Accordingly, he further noted that the UNP has decided to work transparently and constructively with the SJB going forward.
+
+◼️
+
+[Data](articles/fc063959.json)
+
+[Extended Data](ext_articles/fc063959.ext.json)
+
+---
+
+### A severe accident in Wellawaya
+
+*2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
+
+A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
+
+Two traders were injured and admitted to the Wellawaya Base Hospital.
+
+The lorry has flipled through the road, and the road has also been interrupted due to the road.
+
+◼️
+
+[Data](articles/b2cc3b64.json)
+
+[Extended Data](ext_articles/b2cc3b64.ext.json)
 
 ---

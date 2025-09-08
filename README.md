@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 14:23:31**
+As of **2025-09-08 14:12:10**
 
 ## Newspaper Stats
 
-*Scraped **74,734** Articles*
+*Scraped **74,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,300
 adalk | 7,232
 adaderanalk | 9,558
-tamilmirrorlk | 11,132
+tamilmirrorlk | 11,131
 virakesarilk | 12,212
-adaderanasinhalalk | 13,017
+adaderanasinhalalk | 13,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,492 (85.0%) of 74,734 articles have been extended.
+63,492 (85.0%) of 74,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
-
-### ’’புலம்பெயர்ந்த தொழிலாளர்களின் குழந்தைகளின் கல்விக்கு நிதி’’
-
-*2025-09-08 13:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்ந்த-தொழிலாளர்களின்-குழந்தைகளின்-கல்விக்கு-நிதி/175-364207) · `ta`
-
-வெளிநாட்டில் இறக்கும், ஊனமுற்ற மற்றும் வெளிநாடுகளில் காணாமல் போதல் உள்ளிட்ட பல்வேறு அனர்த்தங்களினால் பாதிக்கப்படும் இலங்கையர்களின் பிள்ளைகளின் கல்வியைப் பாதுகாப்பதற்காக புலமைப்பரிசில் திட்டமொன்றைச் செயல்படுத்த ஜனாதிபதி நிதியம் திட்டமிட்டுள்ளது.
-
-"கல்வியில் யாரையும் கைவிடக் கூடாது" என்ற எண்ணக் கருவின் பிரகாரம் ஜனாதிபதி நிதியம்,வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பணியகம் என்பன இணைந்து   இந்தத் திட்டத்தை செயல்படுத்த உள்ளது.
-
-ஜனாதிபதி நிதியத்தின் சேவைகளை விரிவுபடுத்துவது குறித்த கலந்துரையாடல் வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் மற்றும் ஜனாதிபதியின் சிரேஸ்ட மேலதிகச் செயலாளர் மற்றும் ஜனாதிபதி நிதியத்தின் செயலாளர் ரோஷன் கமகே ஆகியோரின் தலைமையில்  அண்மையில் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது. இதன் போதே இந்த திட்டம் தொடர்பில் அறிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/51eef924.json)
-
----
-
-### වෛද්‍ය පාලිත රාජපක්ෂට විනය පරීක්ෂණයක්
-
-*2025-09-08 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214316) · `si`
-
-බදුල්ල ශික්ෂණ රෝහලේ වෛද්‍ය පාලිත රාජපක්ෂ මහතාව විනය පරීක්ෂණයක් සඳහා රාජ්‍ය සේවා කොමිෂන් සභාව වෙත කැඳවා තිබේ.
-
-වෛද්‍ය පාලිත රාජපක්ෂ මහතාගෙන් අප කළ විමසීමකදී ඒ මහතා සඳහන් කළේ සෞඛ්‍ය අමාත්‍යාංශයේ කැඳවීමකට අනුව ඒ මහතා මේ වන විට රාජ්‍ය සේවා කොමිෂන් සභාව වෙත පැමිණ ඇති බවය.
-
-පසුගියදා ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ සිදු වූ බිහිසුණු අනතුර සිදුවූ අවස්ථාවේදී සිය ජීවිත අවධානමද නොතකා වෛද්‍ය පාලිත රාජපක්ෂ මහතා අනතුරට පත්වූවන්ගේ ජීවිත බේරා ගැනීමට කැපවීමෙන් කටයුතු කළේය.
-
-◼️
-
-[Data](articles/6c815337.json)
-
----
 
 ### பொகவந்தலாவையில் ஐஸ்: இருவர் கைது
 
@@ -1979,5 +1947,39 @@ For decades, Sri Lanka has stumbled through Geneva, battered by hostile resoluti
 [Data](articles/c5f3c563.json)
 
 [Extended Data](ext_articles/c5f3c563.ext.json)
+
+---
+
+### Is justice for war violations?
+
+*2025-09-08 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224483) · `ta`
+
+The fact that the facts of the atrocities committed by the fellow man against humanity in Sri Lanka have been revealed and waiting for justice to be established, and the land and long -awaitedness of the atrocities have begun to dissolve today without the pain of waiting.. The human wreath, which is now being said to be landlord, has begun to shake the conscience of the world. It has been silenced by those who have long denied that there are no ethnic or war crimes in Sri Lanka.
+
+The story of the famous sheep land begins with the assassination of Krishanthi Kumaraswamy. Krishanthi Kumaraswamy, who wrote the GCE Advanced Level Examination at the Chundukkuli Ladies' College, Jaffna on September 7, 1996, and his mother Rajamma Kumaraswamy, the younger brother Kumaraswamy Pranavan and the neighbor Chidambaram Kripamoorthy were killed by the army.
+
+...
+
+[Data](articles/56068f65.json)
+
+[Extended Data](ext_articles/56068f65.ext.json)
+
+---
+
+### The Upcountry Development Authority should be strengthened - PP Sivapragasam
+
+*2025-09-08 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224482) · `ta`
+
+A massive controversy over the new Villages Development Authority for the Upcountry Development Authority or Plantation Regions. There are reports that arrangements are being made to dilute the Development Authority and bring it up as part of the Plantation Community Infrastructure Ministry.
+
+Against this backdrop, Dr. PP Sivapragasam, a member of the National People's Power and Deputy Secretary of the Plantation Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Social Secretary, states that the Hill Development Authority should be taken as the Authority.
+
+In the document submitted to the President on this issue, Dr. Sivapragasam is a authority of the Development Authority legally established by the Parliamentary Act of 2018.
+
+...
+
+[Data](articles/53b8d8c3.json)
+
+[Extended Data](ext_articles/53b8d8c3.ext.json)
 
 ---

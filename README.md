@@ -1,58 +1,150 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 15:56:35**
+As of **2025-09-08 16:21:29**
 
 ## Newspaper Stats
 
-*Scraped **74,759** Articles*
+*Scraped **74,766** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 759
-economynextcom | 4,532
+colombotelegraphcom | 760
+economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,235
-adaderanalk | 9,565
+adalk | 7,236
+adaderanalk | 9,567
 tamilmirrorlk | 11,135
 virakesarilk | 12,214
-adaderanasinhalalk | 13,020
+adaderanasinhalalk | 13,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,575 (85.0%) of 74,759 articles have been extended.
+63,579 (85.0%) of 74,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### ශ්‍රී ලංකාව - පාකිස්තාන - ඇෆ්ගනිස්තාන තුන්කොන් සටනක්
+### Sri Lanka stocks close down, Laugfs top gainer
+
+*2025-09-08 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-laugfs-top-gainer-239718/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The ASPI was down 0.41 percent, or 86.15 points, at 20,905.83; and the S&P SL20 was down 0.82 percent, or 49.24 points, at 5,955.36.
+
+Laugfs Gas voting stock was among the top contributors to the ASPI, after news that its deputy chairman sold his shares in the parent company, Laugfs Holdings, to businessman Dhammika Perera, and quit the boards of Laugfs Gas and Laugfs Power.
+
+Laugfs Gas voting stock closed up 26.30 rupees at 66.50; gaining 65.42 percent in value. Non-voting stock closed up 13.60 rupees at 37.90, gaining 55.97 percent.
+
+Laugfs Power voting stock closed up 63.22 percent, or 5.50 rupees at 14.20. Non-voting stock closed up 5.50 rupees at 14.20, gaining 63.22 percent.
+
+Other top contributors to the ASPI were Windforce (up 3.80 rupees at 30.50), C T Holdings (up 12.50 rupees at 719.75), Hayleys (up 2.75 rupees at 177.25), and Carson Cumberbatch (up 26 rupees at 815.50).
+
+...
+
+[Data](articles/e10c1cc7.json)
+
+---
+
+### ප්‍රසන්න රණවීර යළි රිමාන්ඩ්
+
+*2025-09-08 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214321) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා සැප්තැම්බර් 22 වෙනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඒ කිරිබත්ගොඩ ප්‍රදේශයේ රජයට අයත් ඉඩමකට ව්‍යාජ ඔප්පු සකස් කර විකිණීමක් සම්බන්ධව පැවැත්වෙන නඩුව විභාගයට ගත් අවස්ථාවේදීය.
+
+ඔහුව අද (08) මහර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/659f905d.json)
+
+---
+
+### මෙරට රන් මිල අද දිනය තුළ තෙවරක් ඉහළට
+
+*2025-09-08 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214320) · `si`
+
+මෙරට රත්‍රං මිල අද (08) දිනය තුළ රුපියල් 5,000කින් පමණ ඉහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+
+ඒ අනුව අද දිනය තුළ තෙවන වරට කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 271,000ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මේ අතර සෙනසුරාදා රු. 288,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද තෙවන වතාවට රු. 293,000ක් දක්වා ඉහළ ගොස් ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+අද උදෑසන සිට කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි තෙවතාවකින් ඉහළ යෑමද විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/dd1db8a1.json)
+
+---
+
+### Sri Lanka - Pakistan - Afghan Triangular battle
 
 *2025-09-08 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214319) · `si`
 
-ශ්‍රී ලංකාව, ඇෆ්ගනිස්තානය සහ පාකිස්තානය එක්වන තුන්කොන් විස්සයි20  ක්‍රිකට් තරගාවලියක් නොවැම්බර් මාසයේදී පැවැත්වීමට නියමිතව තිබේ.
+Sri Lanka, Afghanistan and Pakistan, a triangular T20 cricket tournament will be held in November.
 
-පාකිස්තානයේ සත්කාරකත්වයෙන් පැවැත්වෙන මෙම තරගාවලිය ආරම්භ කිරීමට සැළසුම් කර ඇත්තේ නොවැම්බර් 17 වැනිදාය.
+The tournament is scheduled to begin in Pakistan on November 17.
 
-කෙසේ වෙතත් මෙම තරගාවලිය හේතුවෙන් ශ්‍රී ලංකාව සහ පාකිස්තානය අතර පැවැත්වීමට සැළසුම් කර තිබූ ද්වීපාර්ශවික විස්සයි20 තරගාවලිය අවලංගු වන බව ද සඳහන්ය.
+However, it is evidenced by the Bilateral Twenty20 tournament to be held between Sri Lanka and Pakistan due to this tournament.
 
-මෙම තරගාවලිය යටතේ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන තරගය නොවැම්බර් 19 වැනිදාත්, පාකිස්තාන - ශ්‍රී ලංකා තරගය නොවැම්බර් 22 වැනිදාත් පැවැත්වීමට නියමිතය.
+The Sri Lanka-Afghanistan match will be held on November 19th November 19th of November 19th.
 
-ඉන් අනතුරුව යළිත් 22 වැනිදා ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය තරග බිමට පිවිසීමට නියමිත අතර පාකිස්තානය සහ ශ්‍රි ලංකාව අතර තරගය 27 වැනිදා පැවැත්වෙනු ඇත.
+The Sri Lanka and Afghanistan will be able to compete on the 22nd on the 22nd and Pakistan and Sri Lanka will match the 27th.
 
-මූලික වටය අවසානයේ ප්‍රසාද ලකුණු සටහනේ පෙරමුණ ගන්නා කණ්ඩායම් ද්විත්වය නොවැම්බර් 29 වැනිදා පැවැත්වෙන අවසන් මහා තරගයට සුදුසුකම් ලබා ගැනීමට නියමිතය.
+At the end of the preliminary round, the two teams taking the lead in the bonus mark will be eligible for the finals that will be held on November 29.
 
-මෙහි පළමු තරග 2 රාවල්පිණ්ඩිහිදී පැවැත්වීමට සැළසුම් කර ඇති අතර සෙසු තරග ලාහෝරයේදී පැවැත්වීමට සැළසුම් කර ඇත.
+The first matches will be held at Ravalland and plans to conduct other matches.
 
 ◼️
 
 [Data](articles/381b1de8.json)
+
+[Extended Data](ext_articles/381b1de8.ext.json)
+
+---
+
+### Wealthy ancient Roman’s tomb discovered in Albania
+
+*2025-09-08 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112282/wealthy-ancient-romans-tomb-discovered-in-albania) · `en`
+
+Archaeologists in Albania have discovered a large Roman burial chamber dating from the third to fourth century AD, the first of its kind found in the Balkan country that was once part of the Roman Empire.
+
+Tipped off by locals who had noticed some unusual stones on a plateau near the North Macedonia border, staff from the Institute of Archaeology began excavating in early August and found the underground structure whose large limestone slabs were inscribed with Greek lettering.
+
+“The inscription tells us that the person buried here was named Gelliano, a name typical of the Roman period. We are uncertain about the identity of the second individual, but it is likely a family member,” said Erikson Nikolli, the project’s lead archaeologist.
+
+The tomb, which measures nine metres by six metres (29 ft by 19 ft), is the first discovery in Albania of what the experts believe to be a wealthy person’s resting place, grander than other burial sites found in the area.
+
+...
+
+[Data](articles/d6b203a9.json)
+
+---
+
+### ආසියානු කුසලානය හෙටින් ඇරඹේ
+
+*2025-09-08 15:23:20* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානය-හෙටින්-ඇරඹේ/9-418353) · `si`
+
+ආසියානු කුසලාන විස්සයි 20 ක්‍රිකට් තරගාවලිය හෙට(09දා) සිට ආරම්භ වීමට නියමිතව තිබේ.
+
+ඒ අනුව ‘ඒ ’ කණ්ඩායම යටතේ ඉන්දියාව, ඕමානය, පාකිස්තානය සහ එක්සත් අරාබි එමීර් රාජ්‍යය තරගවදින අතර, ‘බී’ කණ්ඩායම යටතේ ඇෆ්ගනිස්තානය, බංග්ලාදේශය, හොංකොං සහ ශ්‍රී ලංකාව තරග වැදීමට නියමිතයි.
+
+මෙම තරගාවලියේ පළමු තරගය ලෙස ඇෆ්ගනිස්ථාන කණ්ඩායම සහ හොංකොං කණ්ඩායම තරගවැදීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/49c9e458.json)
 
 ---
 
@@ -71,6 +163,28 @@ In this case, his son Kim Aris has said that his mother Soo Ki is suffering from
 [Data](articles/ac50b0ce.json)
 
 [Extended Data](ext_articles/ac50b0ce.ext.json)
+
+---
+
+### Five killed in Jerusalem shooting attack, paramedics say
+
+*2025-09-08 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112281/five-killed-in-jerusalem-shooting-attack-paramedics-say) · `en`
+
+Five people have been killed and seven seriously wounded in a shooting attack by Palestinian gunmen in Jerusalem, paramedics and police say.
+
+Israel’s Magen David Adom ambulance service identified the dead as three men in their 30s, one woman in her 50s, and one man in his 50s. Nine people with gunshot wounds were taken to local hospitals along with three others injured by broken glass.
+
+Israeli police said two “terrorists” opened fire towards a bus stop at Ramot Junction, on the city’s northern outskirts. A security officer and a civilian returned fire, and “neutralised” the attackers, it added.
+
+There was no immediate claim from any armed groups, although Hamas praised the attack.
+
+The police said a large number of officers were securing the area, and that bomb disposal units were ensuring that it was safe while forensic teams gathered evidence.
+
+The Israeli military said soldiers had also been deployed to the area and were searching for suspects in co-operation with the police.
+
+...
+
+[Data](articles/a88967fe.json)
 
 ---
 
@@ -102,13 +216,15 @@ Karandeniya police are conducting further investigations, saying that the 58 -ye
 
 *2025-09-08 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112280/disciplinary-inquiry-underway-against-dr-palitha-rajapaksha-over-comments-on-medicine-shortage) · `en`
 
-Dr. Palitha Rajapaksha from Badulla Teaching Hospital has been summoned before the Public Service Commission for a disciplinary inquiry.
+Dr. Palitha Rajapaksha attached to the Badulla Teaching Hospital has been summoned before the Public Service Commission for a disciplinary inquiry.
 
-This is in connection with a statement he made regarding the recent shortage of medicines.
+This is in connection with a statement he made regarding the recent shortage of medicines at state hospitals.
 
-When Ada Derana inquired from Dr. Palitha Rajapaksha, he stated that he is currently at the Public Service Commission following a summons issued through the Ministry of Health.
+When inquired by Ada Derana, Dr. Palitha Rajapaksha stated that he is currently at the Public Service Commission following a summons issued through the Ministry of Health.
 
-Dr. Palitha Rajapaksha was commended for discharging his duties with utmost dedication during a horrific bus accident on the Ella–Wellawaya main road, last week. Dr. Palitha Rajapaksha acted with great dedication to save the lives of the victims, disregarding his own safety.
+Dr. Palitha Rajapaksha was commended for discharging his duties with utmost dedication during a horrific bus accident on the Ella–Wellawaya main road, last week.
+
+Dr. Palitha Rajapaksha acted with great dedication to save the lives of the victims, disregarding his own safety, according to area residents who rushed to the accident site.
 
 ◼️
 
@@ -244,11 +360,9 @@ Nadun Chinthaka Wickramaratne, also known as “Harak Kata”, a prominent under
 
 This submission was presented by Senior State Counsel Sajith Bandara, appearing on behalf of the Attorney General, during today’s hearing before High Court Judge Sujeewa Nissanka, Ada Derana reporter said.
 
-During a previous hearing, the State Counsel informed court that after the expiry of the initial detention order, the suspect would be produced in remand custody.
+During a previous hearing, the State Counsel informed court that after the expiry of the initial detention order, the suspect would be produced in remand custody. However, due to security concerns, the Secretary of the Ministry of Defence has decided to extend his detention under the PTA.
 
-However, due to security concerns, the Secretary of the Ministry of Defence has decided to extend his detention under the PTA.
-
-◼️
+...
 
 [Data](articles/58deb281.json)
 
@@ -690,11 +804,11 @@ There are the most severe biosecurity laws in Australia. According to them, it i
 
 *2025-09-08 12:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-laugfs-gas-deputy-chairman-resigns-239701/) · `en`
 
-ECONOMYNEXT – Laugfs Gas director U K Thilak De Silva has resigned after selling his 39.58 percent stake in the parent company, Laugfs Holdings Limited.
+ECONOMYNEXT – Laugfs Gas and Laugfs Power director U K Thilak De Silva has resigned after selling his 39.58 percent stake in the parent company, Laugfs Holdings Limited.
 
 De Silva had transferred the entirety of his ordinary shares, 1,708,798, to Vallibel Three (Private) Limited, owned by Dhammika Perera.
 
-Upon transferring the entirety of shares he held in the parent company of Laugfs Gas, De Silva tendered his resignation from the board of directors of the company effective from September 9, according to a stock exchange filing.
+Upon transferring the entirety of shares he held in the parent company of Laugfs Gas, De Silva tendered his resignation from the boards of Laugfs Gas and Laugfs Power effective from September 9, according to stock exchange filings.
 
 Laufgs is a diversified group made up of 23 businesses ranging from LPG and power to supermarkets, rubber manufacturing, emissions testing and pharmaceuticals. (Colombo/Sep8/2025)
 
@@ -946,11 +1060,11 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 
 *2025-09-08 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112270/unhrc-resolution-will-india-south-africa-and-japan-back-sri-lanka) · `en`
 
-The 60th session of the United Nations Human Rights Council (UNHRC) will be extremely decisive for Sri Lanka, former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Prathibha Mahanamahewa stated.
+The 60th session of the United Nations Human Rights Council (UNHRC) will be extremely decisive for Sri Lanka, former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Prathiba Mahanamahewa stated.
 
 The 60th session of the UNHRC is scheduled to commence today (08) and the interactive dialogue on the report of the Office of the High Commissioner for Human Rights is scheduled to take place this afternoon.
 
-Prathibha Mahanamahewa said that during this session, a resolution against Sri Lanka is likely to be proposed, and that it is a continuation of a series of similar resolutions that have been brought forward since 2010.
+Prathiba Mahanamahewa said that during this session, a resolution against Sri Lanka is likely to be proposed, and that it is a continuation of a series of similar resolutions that have been brought forward since 2010.
 
 He noted that by continuously presenting such resolutions, allegations are being made that Sri Lanka is a country that systematically violates human rights, particularly in relation to alleged violations of the human rights of people in the Northern Province.
 
@@ -1150,6 +1264,20 @@ The Cardinal Great Malcolm Ranjith has presented nine petitions including MP, in
 
 ---
 
+### Has Hypocrisy Hijacked Muslim Politics In Sri Lanka?
+
+*2025-09-08 10:39:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/has-hypocrisy-hijacked-muslim-politics-in-sri-lanka/) · `en`
+
+The Muslim community in Sri Lanka stands at a dangerous crossroads. For decades, its political life has been hollowed out by hypocrisy, opportunism, and moral decay. A people once known for loyalty, resilience, and principled conduct has become fragmented, voiceless, and captive to leaders who have abandoned principles for power.
+
+The plain truth is that many Muslims have drifted far from principle-based politics. A vast section of the community has lapsed into silence, either unwilling or unable to confront corruption. This paralysis is not driven solely by fear, it is rooted in ignorance, ignorance of civic duty, ignorance of the role Muslims must play in national development, and, most critically, ignorance of the Islamic ethical code that demands justice, truthfulness, and accountability.
+
+...
+
+[Data](articles/6be37380.json)
+
+---
+
 ### No Legbees in fried chicken: 10 thousand fines for famous hotel
 
 *2025-09-08 10:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரித்த-கோழியில்-லெக்பீஸ்-இல்லை-பிரபல-ஹோட்டலுக்கு-10-ஆயிரம்-அபராதம்/175-364189) · `ta`
@@ -1168,21 +1296,25 @@ A movie starring actor Vadivelu goes to eat chicken at the hotel. Chicken 65 wou
 
 ---
 
-### සංචාරකයින් ප්‍රවාහනයට ලී වලින් හැදූ කරත්ත
+### Cartted carts to transport tourists
 
 *2025-09-08 10:37:32* · [`adalk`](https://www.ada.lk/picture_story/සංචාරකයින්-ප්‍රවාහනයට-ලී-වලින්-හැදූ-කරත්ත/10-418343) · `si`
 
-ලක්ෂපාපන ප්‍රදේශයට පැමිණෙන දෙස් විදෙස් සංචාරකයන් ප්‍රවාහනය කිරිම සදහා එම ප්‍රදේශයේම පිරිසක් එක්ව කරත්ත දෙක්ක නිර්මාණය කර ඇත.
+A group of people in the same area have been designed to join the Laase Foreign tourists.
 
-සම්පුර්ණයෙන්ම ලීයෙන් නිර්මාණය කර ඇති මෙම කරත්ත දෙකේ නිර්මාණ කටයුතු මෙතෙක් සම්පුර්ණ කර නොමැති අතර, එම කරත්ත දෙකේ ගමන් කරන දෙස් විදෙස් සංචාරකයන්ගේ ආරක්ෂාව සහිතව එම කරත්ත දෙක තව දුරටත් වැඩි දියුණු කරන බවයි එම කරත්ත නිර්මාණකරුවන් කියා සිටින්නේ.
+These two carts have not been completed and the creations of these two carts are yet to be completed and the two carts will further enhance the two carts with local and foreign tourists.
 
-නෝර්ටන්බ්‍රිජ් ලක්ෂපාන ප්‍රධාන මාර්ගය අධික බෑවුම් සහිත මාර්ගයක් බැවින් එම මාර්ගයේ ගමන් ගන්නා අයට ලක්ෂපාන දිය ඇල්ල පැහැදිලිව නිරික්ෂණය කිරිමටද හැකියාවක් ඇත.
+Since the main road in Nornebridge Laxapana is a high sloping route, the travelers of the road is clearly observed.
 
-එම මාර්ගයේ 2 කණුව දක්වා කරත්ත දෙක කදුමුදුන දක්වා වාහනයකින් ඇදලෙන ගොස් එතැන් සිට සංචාරකයන් රැගෙන ලක්ෂපාන දක්වා බෑවුමේ ධාවනය කිරිමටයි එම කරත්ත නිර්මාණ කරුවන් අදහස් කර ඇත්තේ.
+The cartwork has intended to go to the corulers from a vehicle from a vehicle from a vehicle up to 2 pathway to the corulest route.
 
-...
+Dilith Jayaweera and former Dilum Amunugama, the leader of the University of Lakshapana recently insisted, and the two carts will further enhance the carts and add the carts to work.
+
+◼️
 
 [Data](articles/4e769fb5.json)
+
+[Extended Data](ext_articles/4e769fb5.ext.json)
 
 ---
 
@@ -1941,129 +2073,5 @@ Deputy Minister of Transport Prasanna Gunasena said that the police have instruc
 [Data](articles/f7b8f472.json)
 
 [Extended Data](ext_articles/f7b8f472.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2025-09-08 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214295) · `si`
-
-In the Kurunegala and Uva provinces, the North, North Central, Eastern, Central, Sabaragamuwa and Uva provinces. Showers or thundershowers will occur at several places around 1.00.
-
-It is also reported that there will be a few showers in the Galle and Matara districts in the Galle and Matara districts.
-
-The Department of Meteorology urges the people to take necessary steps to minimize the damages caused by temporary winds and lightning activities possible with thunderstorms.
-
-◼️
-
-[Data](articles/a08680c0.json)
-
-[Extended Data](ext_articles/a08680c0.ext.json)
-
----
-
-### Irangani Serasinghe
-
-*2025-09-08 06:10:48* · [`adalk`](https://www.ada.lk/breaking_news/අයිරාංගනී-සේරසිංහ-සුවෙන්/11-418335) · `si`
-
-According to the fact that some social media accounts were killed in the TV and the Rupavahini and Rule of Social Media Accounts are false.
-
-Many of the pages of some pages have been deceased have already been exchanged.
-
-◼️
-
-[Data](articles/dd528b95.json)
-
-[Extended Data](ext_articles/dd528b95.ext.json)
-
----
-
-### Dhammika Perera buys in to Sri Lanka’s Laugfs group
-
-*2025-09-08 06:04:00* · [`economynextcom`](https://economynext.com/dhammika-perera-buys-in-to-sri-lankas-laugfs-group-239653/) · `en`
-
-ECONOMYNEXT – Businessman Dhammika Perera is buying into Sri Lanka’s diversified Laugfs group taking a 39 percent stake of its holding company, as a founder director and Deputy Chairman Thilak de Silva exited, officials said.
-
-Laufgs has interests in liquefied petroleum gas, shipping renewable power, fuel distribution, retail, manufacturing among others.
-
-“We need huge muscle power to rescue the company,” de Silva told EconomyNext. “Someone had to exit to pave the way for an investor. It was a difficult decision. But I am happy the brand will survive.”
-
-Laugfs Gas, which has the flagship LPG business posted gross profits of 888 million for the June quarter, but had finance costs of 733 million rupees, triggering loss for the quarter. It had 12 billion rupees of long-term loans and 19 billion in short term borrowings.
-
-De Silva declined to reveal a transaction price saying it was under discussions, but market estimates range from around 5 to 7 billion rupees.
-
-...
-
-[Data](articles/b26b1806.json)
-
-[Extended Data](ext_articles/b26b1806.ext.json)
-
----
-
-### The Geneva Meeting Series begins today
-
-*2025-09-08 05:44:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெனிவா-கூட்டத்-தொடர்-இன்று-ஆரம்பம்/175-364171) · `ta`
-
-The 60th session of the United Nations Human Rights Council begins in Geneva today at 1.30 pm.
-
-The United Nations on the situation of human rights today. Human Rights Commissioner Volcker Turk will address. In the meantime, the written report on Sri Lanka will be submitted to the Council.
-
-Later, a debate will be held at 3.45 pm on Sri Lanka's Human Rights Commissioner's Report on Sri Lanka. In this, representatives of the member states will present ideas on the position of their countries.
-
-Foreign Minister Vijitha Herath will explain the actions taken by the Government of Sri Lanka after the comments of the representatives. (A)
-
-◼️
-
-[Data](articles/873d4329.json)
-
-[Extended Data](ext_articles/873d4329.ext.json)
-
----
-
-### Literacy - The seed of mental light
-
-*2025-09-08 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
-
-◼️
-
-[Data](articles/c8ecc66e.json)
-
-[Extended Data](ext_articles/c8ecc66e.ext.json)
-
----
-
-### Foreign Minister heads  to Geneva for UNHRC session
-
-*2025-09-08 04:49:31* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-heads-to-Geneva-for-UNHRC-session/56-781367) · `en`
-
-Foreign Minister Vijitha Herath yesterday morning departed for Geneva to attend the 60th session of the United Nations Human Rights Council (UNHRC), scheduled to open today, the Foreign Ministry said.
-
-Herath is due to make a special address on behalf of the Sri Lankan Government during the session. He is also expected to meet senior diplomats, including UN High Commissioner for Human Rights Volker Türk, to outline the Government’s recent measures and future plans on human rights protection.
-
-The Minister is accompanied by Foreign Ministry UN and Human Rights Division Director General Dayani Mendis.
-
-◼️
-
-[Data](articles/58cbdbff.json)
-
-[Extended Data](ext_articles/58cbdbff.ext.json)
-
----
-
-### ‘Kala Wewa Back to the Elephants’ project a success
-
-*2025-09-08 04:47:33* · [`dailyftlk`](https://www.ft.lk/news/Kala-Wewa-Back-to-the-Elephants-project-a-success/56-781366) · `en`
-
-The President’s Media Division (PMD) yesterday said that in parallel with the ‘Clean Sri Lanka’ initiative, the ‘Kala Wewa Back to the Elephants’ project was successfully carried out over three days in the floodplains surrounding the Kala Wewa National Park.
-
-Due to the spread of invasive plant species, including Japan Jabara, across several tank beds in the North Central Province, the tender grass that usually grows in these areas and serves as vital food for elephants, has been destroyed. These grass varieties are rich in protein and highly favoured by wild elephants. It is estimated that around 400 elephants inhabit the vicinity of Kala Wewa, the PMD said in a statement.
-
-A lack of adequate food has driven elephants into nearby villages, intensifying human-elephant conflicts. In recent months, several people have died as a result of elephant attacks. The area is also heavily cultivated with paddy, as well as soya, maize, fruits, and vegetables.
-
-...
-
-[Data](articles/9db1ddb1.json)
-
-[Extended Data](ext_articles/9db1ddb1.ext.json)
 
 ---

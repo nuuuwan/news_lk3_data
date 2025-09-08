@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 12:14:45**
+As of **2025-09-08 11:07:35**
 
 ## Newspaper Stats
 
-*Scraped **74,709** Articles*
+*Scraped **74,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,219 +16,37 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,227
+adalk | 7,223
 adaderanalk | 9,554
-tamilmirrorlk | 11,124
-virakesarilk | 12,209
-adaderanasinhalalk | 13,012
+tamilmirrorlk | 11,119
+virakesarilk | 12,208
+adaderanasinhalalk | 13,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,383 (84.8%) of 74,709 articles have been extended.
+63,313 (84.8%) of 74,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### වැල්ලවායේ දී දරුණු අනතුරක්
-
-*2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
-
-වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගයේ යාලබෝව ලංගම ඩීපෝව ඉදිරිපිට ප්‍රදේශයේ දී ලොරි රථයක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් අද (08) අනතුරක් සිදුව තිබේ.
-
-අනතුරින් මෝටර් රථයේ ගමන්ගත් දෙදෙනෙකු තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
-
-මෙම අනතුරින් ලොරි රථය මාර්ගය හරහා පෙරළී ගොස් ඇති අතර ඒ හේතුවෙන් මාර්ගයේ ගමනාගමන කටයුතුවලට ද බාධා එල්ල වී ඇති බව පොලීසිය පැවසුවේය.
-
-◼️
-
-[Data](articles/b2cc3b64.json)
-
----
-
-### සජබ ඇතුළු විපක්ෂයේ බලවේග සමග එකට වැඩ කිරීමට එජාපයේ තීරණයක්
-
-*2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
-
-මූලික සාකච්ඡාවලදී එකඟතාවයට පැමිණි ආකාරයට සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් දේශපාලන පක්ෂ සමග අඛණ්ඩව ඉදිරියටත් කටයුතු කරගෙන යාමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
-
-ඒ සඳහා සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ පක්ෂ සමග කටයුතු කිරීම සඳහා කමිටුවක් හෝ ඒ හා සමාන යාන්ත්‍රණයක් මගින් ක්‍රියා කිරීමටද එක්සත් ජාතික පක්ෂය මෙහිදී අදහස් කර ඇත.
-
-සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් පක්ෂ සමඟ පොදු කාරණාවලදී කටයුතු කරන ආකාරය සම්බන්ධයෙන් පසුගිය කාලය මුළුල්ලේම එක්සත් ජාතික පක්ෂය විරුද්ධ පක්ෂ සමග සාකච්ඡා කරනු ලැබිය.
-
-එම සාකච්ඡාවලදී එකඟත්වයට පැමිණි කරුණු අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කිරීමට එක්සත් ජාතික පක්ෂය තීරණය කළ බව එම පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා පැවසීය.
-
-මේ අනුව සමගි ජන බලවේගය සමඟ විවෘතව වැඩ කිරීමට තීරණය කර තිබෙන බවද ඔහු සඳහන් කළේය.
-
-◼️
-
-[Data](articles/61017216.json)
-
----
-
-### Will Prime Minister Harini be sacked? Dilvin's opinion
-
-*2025-09-08 11:27:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஹரிணி-பதவி-நீக்கப்படுவாரா-டில்வின்-கருத்து/175-364196) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) Dilvin Silva has rejected the speculation that Prime Minister Harini Amarasuriya will be sacked.
-
-Speaking at a public meeting, Silva said that the opposition has long been spreading unfounded claims, but none of them have been fulfilled.
-
-"Earlier, they said that Harini Amarasuriya would lose his ministerial post
-
-They say he will now be sacked from the post of Prime Minister. These are their dreams but nothing else, ”he said.
-
-◼️
-
-[Data](articles/307f2920.json)
-
-[Extended Data](ext_articles/307f2920.ext.json)
-
----
-
-### Carlos alreas wins the sixth Grand Slam Championship
-
-*2025-09-08 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214308) · `si`
-
-Aklis, Spain, has won the US Open Tennis Championship this year.
-
-In the final, Janik cinener of Italy defeated 1 to 1 rounds.
-
-The first round of the match was won by Alkaraz as 2 to 2 runs.
-
-However, Carlos Alkraz won 1 to six crucial third and four tournaments.
-
-Accordingly, the victory was reportedly as the 6th Grand Slam championship.
-
-◼️
-
-[Data](articles/5acbf362.json)
-
-[Extended Data](ext_articles/5acbf362.ext.json)
-
----
-
-### Green boyfriend arrested
-
-*2025-09-08 11:18:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர்ந்த-பெரிய-காதலன்-கைது/175-364195) · `ta`
-
-A 27 -year -old youth from Badalkumbara has been arrested by police for allegedly raping a girl who is 15 and 4 months old.
-
-The girl, angry with her mother and father, visited her sister's house in Kelaniya on August 26. The father lodged a complaint with the police that his youngest daughter was missing. The police, who have investigated the complaint, have brought the girl to the medical examination.
-
-According to the inquiries carried out by the Athumi, I fell in love with a young man in the area.
-
-I went to Periyappa's house on February 28 with him. There was only the daughter of Periyappa. The boyfriend came to the house in a short time.
-
-Subsequently, in the room of Periyappa's daughter, she told the police that she was a husband and wife with her boyfriend.
-
-He told the police that he had left the house because he could not bear the incident.
-
-...
-
-[Data](articles/0c2e3ca0.json)
-
-[Extended Data](ext_articles/0c2e3ca0.ext.json)
-
----
-
-### Gambling station surrounding; 15 arrested
-
-*2025-09-08 11:14:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூதாட்ட-நிலையம்-சுற்றிவளைப்பு-15-பேர்-கைது/175-364193) · `ta`
-
-11 women and four men have been arrested for allegedly carrying a gambling station in the Lunawa area, in Angala police said.
-
-The test was carried out based on information that the gambling center was being held to disrupt the area.
-
-Police said some of the suspects were running the gambling center as their business.
-
-Police said that the gambling center, which operates from morning to night, has a groups of interest and the gambling center was very disrupted to the people of the area.
-
-Police said the suspects were residing in Luna and Akula areas in Moratuwa.
-
-◼️
-
-[Data](articles/b19d9058.json)
-
-[Extended Data](ext_articles/b19d9058.ext.json)
-
----
-
-### Steps to resume construction work on Central Highway
-
-*2025-09-08 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224504) · `ta`
-
-Arrangements are being made to resume the construction work of the Central Highway, which has long been suspended.
-
-The project is expected to be resumed in September or October, as Chinese funding has been resumed to construct the long -term late central highway from Kadawatha to Meerigama.
-
-Speaking at the 171st Annual General Meeting of the Plantation Owners Association, the President's Senior Economic Advisor Duminda Haaa Sri Lanka released the statement.
-
-He said that Sri Lanka has been able to get the necessary financial assistance from China for the construction of the 37 -kilometer road.
-
-Officials estimate that the project will be completed within two and a half years once the construction is completely resumed, based on the remaining construction.
-
-◼️
-
-[Data](articles/644c8e11.json)
-
-[Extended Data](ext_articles/644c8e11.ext.json)
-
----
-
-### Petitions against the appointment of Deshabandu as IGP
-
-*2025-09-08 10:58:24* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දු-පොලිස්පති-ලෙස-පත්-කිරීමට-එරෙහි-පෙත්සම්-විභාගයට-දින-නියම-වෙයි/11-418344) · `si`
-
-The Supreme Court has set the petitions to be heard on February 12 to the appointment of former President Ranil Wickremesinghe to appoint Deshabandu Tennakoon as IGP.
-
-The petitions were called before the Chief Justice of the Chief Justice Journal Surasena, Mahinda Samayawardena and Arjuna Oyawardees.
-
-◼️
-
-[Data](articles/08ad1220.json)
-
-[Extended Data](ext_articles/08ad1220.ext.json)
-
----
-
-### Petitions against Tennakoon appointed as IGP
+### දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා ලෙස පත් කිරීමට එරෙහි පෙත්සම් විභාගයට දින නියම වෙයි
 
 *2025-09-08 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214307) · `si`
 
-Former President Ranil Wickremesinghe to appoint Deshabandu Tennakoon to be the IGP, the Supreme Court was appointed to the examination on February 12.
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීමට හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගනු ලැබූ තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් පෙබරවාරි මස 12 වනදා විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය දින නියම කළේය.
 
-The petitions were called before the Chief Justice Survey, Mahinda Sarasena and Arjuna Obeysekera and Arjuna Obeysekere.
+මෙම පෙත්සම් අද (08) අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, මහින්ද සමයවර්ධන සහ අර්ජුන ඔබේසේකර යන මහත්වරුගේ සමන්විත ත්‍රී පුද්ගල විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
 
-The panel of judges was ordered that the petitions are being heard on February 12.
+එහිදී විනිසුරු මඩුල්ල නියෝග කළේ අදාළ පෙත්සම් පෙබරවාරි මස 12 වනදා විභාගයට ගන්නා බවය.
 
-The Cardinal Great Malcolm Ranjith has presented nine petitions including MP, including the Young Journalists Association.
+කාදිනල් අතිඋතුම් මැල්කම් රංජිත් හිමිපාණන්, තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය ඇතුළු පාර්ශ්ව විසින් පෙත්සම් 09ක් ඉදිරිපත් කර තිබුණි.
 
 ◼️
 
 [Data](articles/1ef30b65.json)
-
-[Extended Data](ext_articles/1ef30b65.ext.json)
-
----
-
-### No Legbees in fried chicken: 10 thousand fines for famous hotel
-
-*2025-09-08 10:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொரித்த-கோழியில்-லெக்பீஸ்-இல்லை-பிரபல-ஹோட்டலுக்கு-10-ஆயிரம்-அபராதம்/175-364189) · `ta`
-
-Consumer Court suits the Consumer Court for allegedly missing 'Legbees' in full fried chicken. The Consumer Court has ruled that the hotel management in this case should be given a compensation of Rs.
-
-Let us look at this incident in the cinema style. Coimbatore GKS. Christopher Edison, a native of Avenue, ordered a full -fledged chicken at a famous biryani shop.
-
-A movie starring actor Vadivelu goes to eat chicken at the hotel. Chicken 65 would have ordered. There will be five chicken pieces. The one who came to Vadivelu, where the chicken is 5, the remaining 60 chicken. Such an incident has become a serious incident. For the person who ordered full chicken, not available leg peas. He is on the hotel in the Consumer Court.. Let's see what happened.
-
-...
-
-[Data](articles/62e8c46a.json)
-
-[Extended Data](ext_articles/62e8c46a.ext.json)
 
 ---
 
@@ -272,22 +90,6 @@ However, they had to stay in the refugee camp. Also, they were regarded as illeg
 
 ---
 
-### The 60th Session of the United Nations Human Rights Council begins today
-
-*2025-09-08 10:19:30* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතීන්ගේ-මානව-හිමිකම්-කවුන්සිලයේ-60-වන-සැසි-වාරය-අදින්-ඇරඹෙයි/11-418342) · `si`
-
-The 60th Session of the United Nations Human Rights Council begins today (08).
-
-The session will be held today until October 08.
-
-◼️
-
-[Data](articles/1abbf72f.json)
-
-[Extended Data](ext_articles/1abbf72f.ext.json)
-
----
-
 ### Two fatal accidents
 
 *2025-09-08 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214305) · `si`
@@ -305,26 +107,6 @@ The deceased is a 43 year old elephant resident of Polpithigama.
 [Data](articles/9416cfad.json)
 
 [Extended Data](ext_articles/9416cfad.ext.json)
-
----
-
-### The approval of the Committee shall be approved into two supplementary estimates
-
-*2025-09-08 10:14:03* · [`adalk`](https://www.ada.lk/breaking_news/පරිපූරක-ඇස්තමේන්තු-දෙකකට-මුදල්-කාරක-සභාවේ-අනුමතිය/11-418341) · `si`
-
-Considering the approval of two supplementary estimates and the Chairman of the Government (Dr.) Harsha De Silva.
-
-Accordingly, the supplementary estimate of the Women and Child Affairs Ministry regarding the pregnant mothers have been considered in connection with a nutritional feed package.. The focus was on the use of allocations made under the budget proposal to provide essential food items at a concession.
-
-Further, the Supplementary Estimate presented by the Ministry of Urban Development, Construction and Housing the Ministry of Urban Development and Housing has been discussed to settle unpaid bills and the completion of the project for the Northern Patumbara Integrated Water Supply Project in Kandy.
-
-The Proposal to the Investment Promotion and Mutual Protection Aception was also approved by the Committee among Sri Lanka and the United Arab Emirates.
-
-◼️
-
-[Data](articles/7f0f593d.json)
-
-[Extended Data](ext_articles/7f0f593d.ext.json)
 
 ---
 
@@ -355,24 +137,6 @@ Thirukumar Kandasamy is a Sri Lankan Tamil who migrated to New York with a lot o
 [Data](articles/0de4a313.json)
 
 [Extended Data](ext_articles/0de4a313.ext.json)
-
----
-
-### New York's Dosa Man: Sri Lankan Tamil in the United States
-
-*2025-09-08 10:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/நியூயோர்க்கின்-தோசை-மனிதன்-அமெரிக்காவில்-அசத்தும்-இலங்கை-தமிழர்/97-364185) · `ta`
-
-The people of New York City are now beginning to eat hot, cheese with pulses and other vegetables, beyond the love of Hot-Tal and Donuts in the Northeast America. This is because Thirukumar Kandasamy, known as the famous Dosa man of New York City.
-
-Thirukumar Kandaswamy is the man with a mustache, pushing his trolley on the streets of Washington Square Park at 9 am. When he begins to fly from the oven of the carriage, people will gather to taste the dosa. His regular customers are the most from the United States to cross the Indians.
-
-Thirukumar Kandasamy is a Sri Lankan Tamil who migrated to New York with a lot of dreams at the beginning of the 21st century. Today, New York Streetcar has become a symbol of dosa shops. In his Insta videos, he will love the name of Thirukumar Kandasamy and invite everyone to be Mr.
-
-...
-
-[Data](articles/e3c96dac.json)
-
-[Extended Data](ext_articles/e3c96dac.ext.json)
 
 ---
 
@@ -436,8 +200,6 @@ Further investigations into the incident are being conducted by the Grandpass Po
 
 [Data](articles/e1f54e79.json)
 
-[Extended Data](ext_articles/e1f54e79.ext.json)
-
 ---
 
 ### Suspect arrested with a woman
@@ -480,8 +242,6 @@ Further investigations into the incident are being conducted by the Ganemulla Po
 
 [Data](articles/57701a8f.json)
 
-[Extended Data](ext_articles/57701a8f.ext.json)
-
 ---
 
 ### Sri Lanka’s Foreign Minister to deliver statement at 60th UNHRC session today
@@ -503,8 +263,6 @@ He further revealed that a draft resolution concerning Sri Lanka had been submit
 ...
 
 [Data](articles/26831918.json)
-
-[Extended Data](ext_articles/26831918.ext.json)
 
 ---
 
@@ -543,36 +301,6 @@ The US President states that the warning is his final warning and will not take 
 [Data](articles/1ffdd491.json)
 
 [Extended Data](ext_articles/1ffdd491.ext.json)
-
----
-
-### Rs.. 20 crores worth the crores
-
-*2025-09-08 08:55:49* · [`adalk`](https://www.ada.lk/breaking_news/මැක්ස්ගේ-ඉවෙන්-අත්හැර-දැමූ-ගමන්-මල්ලක-තිබූ-රු--කෝටි-20ක්-වටිනා-කුෂ්-මත්ද්‍රව්‍ය-සොයා-ගනියි/11-418340) · `si`
-
-The Police Narcotics Bureau has also arrested a large number of "Crou" of Maus (Max), attached to the Police Narcotics Bureau in the Katunayake airport.
-
-The department was completed with the stock of the drug from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok, UL.
-
-The owner of the bag was frightened due to some reason and fled the Bandaranaike International Airport.
-
-The baggage that has left the hand has been piled in a unique warehouse, and a few luggages were piled up near the warehouse as well as the luggage.
-
-Official Dogs' Official Dogs from the Police Narcotics Bureau
-
-The "Max" has emitted this travel bag, and it has been reduced it.
-
-Accordingly, the officers of the Police Narcotics Bureau have been found to find the drug.
-
-The owner of the bag is a 53 year old resident of Orugodawatta area on 09/06 on the 9th.
-
-In this baggage, 20 kilograms of CJ and 900 grams of CJ and 19 were provided with 900 g.
-
-...
-
-[Data](articles/9487f967.json)
-
-[Extended Data](ext_articles/9487f967.ext.json)
 
 ---
 
@@ -982,18 +710,6 @@ Foreign Minister Vijitha Herath will explain the actions taken by the Government
 
 ---
 
-### Literacy - The seed of mental light
-
-*2025-09-08 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
-
-◼️
-
-[Data](articles/c8ecc66e.json)
-
-[Extended Data](ext_articles/c8ecc66e.ext.json)
-
----
-
 ### Foreign Minister heads  to Geneva for UNHRC session
 
 *2025-09-08 04:49:31* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-heads-to-Geneva-for-UNHRC-session/56-781367) · `en`
@@ -1105,6 +821,18 @@ Chairing the late H.L. de Silva Memorial Events in 2012, the ex-Foreign Secretar
 [Data](articles/06d71885.json)
 
 [Extended Data](ext_articles/06d71885.ext.json)
+
+---
+
+### Literacy - The seed of mental light
+
+*2025-09-08 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224488) · `ta`
+
+◼️
+
+[Data](articles/c8ecc66e.json)
+
+[Extended Data](ext_articles/c8ecc66e.ext.json)
 
 ---
 
@@ -2039,5 +1767,247 @@ Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has res
 [Data](articles/12120caa.json)
 
 [Extended Data](ext_articles/12120caa.ext.json)
+
+---
+
+### Most of the arrests are political exhibition - Vajira Abeywardena
+
+*2025-09-07 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224473) · `ta`
+
+Most of the arrests in Sri Lanka are carried out for political exhibitions. That is why a hundred people are arrested in which 98 are released. United National Party (UNP) Chairman Vajira Abeywardena said that this culture should be carried out through the constitutional amendment.
+
+He was speaking at a press conference held at the United National Party office in Galle on Sunday (7).
+
+The Constitution states that if a person is arrested, it is not considered punishment. But if someone is arrested in Sri Lanka, he can be punished and can be seen as a political exhibition.
+
+But this move is more change in the world countries. This Article in India, Japan and the US Constitution. Investigators are being held in Japan. If 100 people are investigated, 98 are guilty. But if 100 people are investigated in Sri Lanka, 98 people are innocent.
+
+...
+
+[Data](articles/345c1e42.json)
+
+[Extended Data](ext_articles/345c1e42.ext.json)
+
+---
+
+### People’s Bank shines at BestWeb.LK 2025 Awards
+
+*2025-09-07 18:22:00* · [`islandlk`](http://island.lk/peoples-bank-shines-at-bestweb-lk-2025-awards/) · `en`
+
+People’s Bank reaffirmed its digital leadership by securing two top accolades at the prestigious BestWeb.LK 2025 Awards, organised by the LK Domain Registry. The Bank’s official website, www.peoplesbank.lk, was recognized as the Winner of the Most Popular Banking Website and also honored as the Silver Winner in the Best Banking Website category.
+
+The awards ceremony was held recently at the Grand Ballroom, Monarch Imperial, Sri Jayawardenepura, with the participation of industry leaders, web developers, and digital innovators from across the country.
+
+Now in its 15th year, BestWeb.LK is Sri Lanka’s premier web competition, celebrating innovation, creativity, and technical excellence in digital platforms. The event attracts leading organisations across multiple industries, with winners selected based on design, usability, functionality, content, and overall user experience.
+
+...
+
+[Data](articles/b785a90b.json)
+
+[Extended Data](ext_articles/b785a90b.ext.json)
+
+---
+
+### Dearo Agri partners with Agriculture Ministry for rice self- sufficiency in Sri Lanka
+
+*2025-09-07 18:21:00* · [`islandlk`](http://island.lk/dearo-agri-partners-with-agriculture-ministry-for-rice-self-sufficiency-in-sri-lanka/) · `en`
+
+Dearo Agri, a subsidiary of the Dearo Investment Group which continuously supports the advancement of business and agriculture in Sri Lanka, has extended its support to the national initiative “Eka Mitata Govibimata” launched by the Government with the aim of achieving self-sufficiency in rice by cultivating abandoned paddy lands.
+
+The programme, introduced under a new government concept, is being carried out with the involvement of Gampaha District Member of Parliament Ashoka Ranwala. Dearo Agri looks forward to partnering with the Government to implement the program across the country. Operating under the theme “The Sri Lankan spirit building a self-sufficient nation and a prosperous future,” Dearo Agri will provide financial sponsorship for the cultivation of more than 50 hectares of abandoned paddy lands in Gampaha, Kaduwela, and Biyagama.
+
+...
+
+[Data](articles/1cb2e57e.json)
+
+[Extended Data](ext_articles/1cb2e57e.ext.json)
+
+---
+
+### DIMO redefines luxury passenger transport with Mercedes-Benz buses
+
+*2025-09-07 18:21:00* · [`islandlk`](http://island.lk/dimo-redefines-luxury-passenger-transport-with-mercedes-benz-buses/) · `en`
+
+DIMO has announced the introduction of the latest Mercedes-Benz OH1626L buses to the Sri Lankan market, raising the bar for luxury and efficiency in passenger transport. With this launch, DIMO, the authorized distributor for Mercedes-Benz in the country, is marking a pivotal step in shaping the future of passenger transportation and luxury tourism in Sri Lanka, responding to the growing demand for safer, more reliable, and technologically advanced transport solutions.
+
+The new Mercedes-Benz buses offer an unmatched combination of comfort, safety, and efficiency. Manufactured at the Daimler Commercial Vehicles Manufacturing plant in Cikarang, West Java, Indonesia, using German technology, the buses are now exported to Sri Lanka.
+
+The staple of a Mercedes-Benz vehicle is safety, and this bus features various advanced safety options that contribute to a safe journey.
+
+...
+
+[Data](articles/fcf3c43d.json)
+
+[Extended Data](ext_articles/fcf3c43d.ext.json)
+
+---
+
+### SANASA Life Insurance’s innovation recognised at NBEA 2025
+
+*2025-09-07 18:20:00* · [`islandlk`](http://island.lk/sanasa-life-insurances-innovation-recognised-at-nbea-2025/) · `en`
+
+The commitment towards enhanced innovation and excellence was recently recognized with an exceptional accolade at the National Business Excellence Awards (NBEA) 2025, where SANASA Life Insurance was named the winner for ‘Large Category, Excellence in Business & Financial Results’ by the National Chamber of Commerce of Sri Lanka. This award reinforces and signifies the organization’s continued dedication to its clients, and employees.
+
+...
+
+[Data](articles/261a16a7.json)
+
+[Extended Data](ext_articles/261a16a7.ext.json)
+
+---
+
+### Fcode Labs makes a strategic investment in Linkify
+
+*2025-09-07 18:20:00* · [`islandlk`](http://island.lk/fcode-labs-makes-a-strategic-investment-in-linkify/) · `en`
+
+Fcode Labs, a digital product engineering firm, has made a strategic investment in Linkify, a Sri Lankan startup that leverages artificial intelligence to help professionals build their personal brands on LinkedIn.
+
+Linkify’s platform is designed for busy founders and consultants, offering an AI-powered tool that simplifies content creation, engagement, and outreach to transform cold leads into warm connections.
+
+This collaboration highlights the support for Sri Lanka’s innovation ecosystem through both financial and technical assistance. Fcode Labs is providing more than just capital; it’s also offering crucial product engineering support, go-to-market expertise, and marketing assistance to help Linkify scale its platform and reach a global audience.
+
+...
+
+[Data](articles/322120f7.json)
+
+[Extended Data](ext_articles/322120f7.ext.json)
+
+---
+
+### Sun Siyam marks 35 years with culture-led brand transformation
+
+*2025-09-07 18:20:00* · [`islandlk`](http://island.lk/sun-siyam-marks-35-years-with-culture-led-brand-transformation/) · `en`
+
+Sun Siyam unveils a milestone transformation as it celebrates 35 years of Maldivian hospitality. More than a visual refresh, the brand (re)volution introduces a bold new brand statement anchored in The Home of the Maldivian Spirit, reinforcing the group’s position as one of the Maldives’ most culturally authentic resort operators. The transformation elevates guest journeys with new Signature Experiences introduced across all six resorts and strengthens direct relationships with customers through Siyam Rewards.
+
+A single identity now unites the group’s five Maldivian resorts and its Sri Lankan retreat under The House of Siyam. To help guests and partners navigate the portfolio, each property is now grouped under three distinct collections: Luxury, Privé, and Lifestyle.
+
+...
+
+[Data](articles/592a8f94.json)
+
+[Extended Data](ext_articles/592a8f94.ext.json)
+
+---
+
+### The next few days will be a good atmosphere
+
+*2025-09-07 17:59:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දින-කිහිපයේදී-වැසි-ඇතිවෙන්න-හොඳ-වායුගෝලයක්/11-418332) · `si`
+
+The Meteorological Department says that at the next few days, the presence of a positive atmospheric conditions in the North, North-Central and Uva provinces.
+
+The next three-hour moon and forest moon and forecasts of the Moon and Forests say the Northern, North-Central, Central, Sabaragamuwa and Uva provinces, Kurunegala and Hambantota districts. Showers or thundershowers will occur at several places about 1.00.
+
+In some exhausted mm. Heavy showers more than 75 can also occur at the Western and Sabaragamuwa Provinces and in the Western and Sabaragamuwa and Matara districts.
+
+◼️
+
+[Data](articles/bf6ccf1c.json)
+
+[Extended Data](ext_articles/bf6ccf1c.ext.json)
+
+---
+
+### Namal is worried about Padme
+
+*2025-09-07 17:53:15* · [`adalk`](https://www.ada.lk/breaking_news/පද්මේ-ගේන-කොට-නාමල්-කලබල-වෙලා/11-418331) · `si`
+
+Health and Mass Media Media Dr. Nalinda Jayatissa said that the underworld and powdery racket in the country will be revealed in the future.
+
+He was speaking to the media after attending the province of the people at the Matale General Hospital.
+
+"The people of the Knowledge of the Knowledge of the Black Money is also arrested by the Governments of the Governor.
+
+So when the accused was accused of the accused of 2015-20 days, they began to prove the allegations to prove the allegations, but they believed that they would not hurt. Attempts to rush Namal Rajapaksas to abolish the party membership of the MP at the time of alleged.
+
+Going to witnesses. The politicians will reveal. Namal Rajapaksas worked up at the airports, including in Kehelchma. There is a doubt that the thief is the fence. Sri Lanka's politician is looking for the top. They will be revealed in terms of research
+
+◼️
+
+[Data](articles/7c6199ef.json)
+
+[Extended Data](ext_articles/7c6199ef.ext.json)
+
+---
+
+### Two arrested for steal
+
+*2025-09-07 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214286) · `si`
+
+Two persons have been arrested in Beruwala area on theft of the houses and possessing stolen goods.
+
+The two suspects have been arrested on a complaint lodged with the Beruwala Police regarding a stock of gem stoves for nearly Rs.
+
+The suspect arrested for stealing property is a 41 year old resident of Hettimulla.
+
+The suspect had been a resident of Beruwala for sale by the suspect, and the man was arrested along with 106 gem stones in the possession of the sunbodry.
+
+◼️
+
+[Data](articles/e546262b.json)
+
+[Extended Data](ext_articles/e546262b.ext.json)
+
+---
+
+### Japanese Prime Minister Shiba's Isziba resigns
+
+*2025-09-07 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214285) · `si`
+
+The 68-year-old Ishuba has confirmed his resignation at 6 pm today (7) at 6 pm.
+
+The Prime Minister said he is taking responsibility for electoral losses.
+
+◼️
+
+[Data](articles/85e1491e.json)
+
+[Extended Data](ext_articles/85e1491e.ext.json)
+
+---
+
+### Japan PM Ishiba resigns after bruising election losses
+
+*2025-09-07 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112257/japan-pm-ishiba-resigns-after-bruising-election-losses) · `en`
+
+Japanese Prime Minister Shigeru Ishiba resigned on Sunday, ushering in a potentially lengthy period of policy uncertainty at a shaky moment for the world’s fourth-largest economy.
+
+Having just ironed out final details of a trade deal with the United States to lower President Donald Trump’s punishing tariffs, Ishiba, 68, told a press conference he must take responsibility for a series of bruising election losses.
+
+Since coming to power less than a year ago, the unlikely premier has overseen his ruling coalition lose its majorities in elections for both houses of parliament amid voter anger over rising living costs.
+
+He instructed his Liberal Democratic Party - which has ruled Japan for almost all of the post-war period - to hold an emergency leadership race, adding he would continue his duties until his successor was elected.
+
+...
+
+[Data](articles/cea29988.json)
+
+[Extended Data](ext_articles/cea29988.ext.json)
+
+---
+
+### Malvuddudu fired and killed
+
+*2025-09-07 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214284) · `si`
+
+A person was killed and a person was killed in an annual ceremony held at a Kovil in Thambagalagamuwa in Trincomalee last night.
+
+The festival was held in the procession of the event, and one flower has not been lit.
+
+As a result, a nearby man was on the foot of the flower.
+
+It has been thrown into the body of this dead person, and it has exploded.
+
+He was admitted to the Thambalagamuwa Hospital.
+
+The victim was a 45 year old resident of the area.
+
+The post mortem was carried out by the Kantale Forensic Officer.
+
+◼️
+
+[Data](articles/bdfb66f7.json)
+
+[Extended Data](ext_articles/bdfb66f7.ext.json)
 
 ---

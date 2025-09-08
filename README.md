@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 09:26:37**
+As of **2025-09-08 09:56:24**
 
 ## Newspaper Stats
 
-*Scraped **74,678** Articles*
+*Scraped **74,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,222
-adaderanalk | 9,547
+adalk | 7,223
+adaderanalk | 9,551
 tamilmirrorlk | 11,113
 virakesarilk | 12,208
 adaderanasinhalalk | 13,005
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,261 (84.7%) of 74,678 articles have been extended.
+63,277 (84.7%) of 74,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,24 @@ The US President states that the warning is his final warning and will not take 
 [Data](articles/1ffdd491.json)
 
 [Extended Data](ext_articles/1ffdd491.ext.json)
+
+---
+
+### මාමාගේ පොලු පහරින් බෑණා මරුට
+
+*2025-09-08 08:49:24* · [`adalk`](https://www.ada.lk/breaking_news/මාමාගේ-පොලු-පහරින්-බෑණා-මරුට/11-418339) · `si`
+
+කරන්දෙණිය ,අගනකැටිය, පදේශයේදී අද(8) අලුයම් කාලයේදී පොලු පහරදීමෙන් පුද්ගලයකු ඝාතනය කොට ඇතැයි කරන්දෙණිය පොලීසිය කියයි.
+
+මේ පහරදීමෙන් මිය ගොස් ඇත්තේ කරන්දෙණිය අඟනකැටිය පදිංචි හතලිස්පස් හැවිරිදි තුෂාර සම්පත් නමැත්තෙකි.
+
+සැකකරු සහ මියගිය තැන්තා එකම නිවසේ පදිංචිව මාමණ්ඩිය සහ බෑණා  බවත්  පොලීසිය කියයි.මාමන්ඩිය විසින්  එල්ල කරන ලද පොලු පහරින් බෑනා  මිය ගොස් ඇති බවත් පොලීසිය කියයි.
+
+සැකකාර මාමණ්ඩිය සිය නිවසේදීම අද(8)උදේ අත් අඩංගුවට ගත් බවත් පොලීසිය කියයි.කරන්දෙණිය පොලීසිය මේ පිළිබඳව වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/068fdcd7.json)
 
 ---
 
@@ -210,6 +228,28 @@ The body was placed at the Kandy hospital morgue and Pallekele police are conduc
 
 ---
 
+### Another stock of chemicals used in manufacturing ‘Ice’ found in Kandana
+
+*2025-09-08 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112264/another-stock-of-chemicals-used-in-manufacturing-ice-found-in-kandana) · `en`
+
+Police have detected another stock of chemicals, similar to the stock recovered in Middeniya and suspected to be used in the manufacturing of crystal methamphetamine (ICE), at a residence in Kandana.
+
+It has been reported that these chemicals are very similar to those found on September 6 during a raid on a property in Thalawa, Middeniya, which were also believed to be used in ‘ICE’ production.
+
+Police stated that the chemicals may have been brought and left at the location approximately four months ago.
+
+The seized chemicals are scheduled to be taken to the Tangalle Police for further investigation.
+
+Meanwhile, another stock of chemicals suspected to be used in the production of crystal methamphetamine (ICE) was discovered last morning (07) at a property in Netolpitiya, Tangalle.
+
+Based on information received from local residents, officers from the Tangalle Police had conducted a special raid on a property located adjacent to the Welivenna Cross Road in Netolpitiya.
+
+...
+
+[Data](articles/45d558cc.json)
+
+---
+
 ### Another doubts of ice raw materials find a large haul of house
 
 *2025-09-08 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214300) · `si`
@@ -223,6 +263,26 @@ Accordingly, the consignment of the chemical consignment was found in a house in
 [Data](articles/1d066958.json)
 
 [Extended Data](ext_articles/1d066958.ext.json)
+
+---
+
+### Strict action against drivers of vehicles with unauthorized modifications starting today
+
+*2025-09-08 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112263/strict-action-against-drivers-of-vehicles-with-unauthorized-modifications-starting-today) · `en`
+
+The strict enforcement of laws against drivers operating vehicles with dangerous and unauthorized modifications will begin today (September 8), according to Deputy Minister of Transport Dr. Prasanna Gunasena.
+
+In a statement posted on his official Facebook account, the Deputy Minister emphasized that special attention would be directed towards vehicles equipped with excessively loud sound systems and multi-colored, flashing lights, which are installed in violation of transport regulations.
+
+This announcement follows a tragic accident that occurred on Thursday night (04) near the 24th milepost on the Ella–Wellawaya road, where a luxury jeep rear-ended a bus, causing it to break through a metal safety barrier and plunge approximately 1,000 feet down a precipice.
+
+The bus was carrying 32 individuals, including employees of the Tangalle Municipal Council and their relatives, on a leisure trip.
+
+As a result of the crash, 15 people lost their lives, and 17 others sustained injuries.
+
+...
+
+[Data](articles/7ac738b4.json)
 
 ---
 
@@ -241,6 +301,26 @@ The suspects were residents of the Colombo 15 and 32 years old, police said.
 [Data](articles/ba3b36bc.json)
 
 [Extended Data](ext_articles/ba3b36bc.ext.json)
+
+---
+
+### After issuing ‘last warning’ to Hamas, Trump eyes Gaza deal ‘soon’
+
+*2025-09-08 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112262/after-issuing-last-warning-to-hamas-trump-eyes-gaza-deal-soon) · `en`
+
+U.S. President Donald Trump on Sunday suggested a Gaza deal could come soon to secure the release of all the hostages held by Hamas, after earlier issuing what he called his “last warning” to the Palestinian militant group.
+
+Trump, speaking to reporters after landing in the Washington area on Sunday evening following a brief trip to New York, said he had been discussing the issue on the plane.
+
+“We’re working on a solution that may be very good,” he said. He declined to give further details. “You’ll be hearing about it pretty soon. We’re trying to get it ended, get the hostages back.”
+
+Earlier on Sunday, he warned Hamas to accept his terms of an agreement, without giving any specifics.
+
+“The Israelis have accepted my Terms. It is time for Hamas to accept as well,” Trump wrote on his Truth Social platform. “I have warned Hamas about the consequences of not accepting. This is my last warning, there will not be another one!”
+
+...
+
+[Data](articles/56309994.json)
 
 ---
 
@@ -289,6 +369,24 @@ He further stated that a bill has been handed over to the Ministry of External A
 [Data](articles/ae90f438.json)
 
 [Extended Data](ext_articles/ae90f438.ext.json)
+
+---
+
+### Showers expected in parts of the island today
+
+*2025-09-08 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112261/showers-expected-in-parts-of-the-island-today) · `en`
+
+Showers or thundershowers may occur at several places in Northern, North-Central, Eastern, Central, Sabaragamuwa and Uva provinces and in Kurunegala and Hambantota districts after 1.00 p.m.  today (08), the Department of Meteorology said.
+
+Fairly heavy rainfall above 75 mm are likely at some places, it said.
+
+A few showers may occur in Western Province and in Galle and Matara districts, the Met. Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/95d817a0.json)
 
 ---
 
@@ -1913,111 +2011,5 @@ Meanwhile, for emergency assistance the public should contact the local disaster
 [Data](articles/28052a2b.json)
 
 [Extended Data](ext_articles/28052a2b.ext.json)
-
----
-
-### Social media fraud using banking information - police warning
-
-*2025-09-07 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224449) · `ta`
-
-Police have issued a warning to those who use banking information through social media.
-
-Police said that a fraud that falsely claims to give gifts on behalf of the bank is currently spreading on social media.
-
-The news is a part of a fraud designed to deceive the public, police said.
-
-This fraud is said to be designed to steal personal information and damage the software on the mobile phone.
-
-Nirosh Ananda, Chief Information Security Officer of the Sri Lanka Computer Emergency Response Committee (SLCERT), said that their organization has received a number of complaints regarding the issue.
-
-He also said that those who carry out bank activities with mobile phones should be aware of such fraudulent news.
-
-◼️
-
-[Data](articles/eafe9e5e.json)
-
-[Extended Data](ext_articles/eafe9e5e.ext.json)
-
----
-
-### Two killed in Russian drone attack in Given, Ukraine's capital
-
-*2025-09-07 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/224423) · `ta`
-
-Two people have been killed and 11 injured in the drone attack on the Ukrainian capital Give, according to international media.
-
-Givin's military executive chairman said that the child was one of the victims and the child's body was recovered from the wreckage.
-
-Russia has also carried out attacks on Girivi Rih, a hometown of Ukrainian President Volodimir Jelensky.
-
-Meanwhile, air strike warnings to all parts of the country have been implemented all night.
-
-The new attack has taken place as Russian President Vladimir Putin is tightening his warning to the West not to help Ukraine.
-
-◼️
-
-[Data](articles/246f9b08.json)
-
-[Extended Data](ext_articles/246f9b08.ext.json)
-
----
-
-### US Open Women's Championship in Belarusa
-
-*2025-09-07 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214280) · `si`
-
-2025 The World's Number Tennis in Belarusi was won by the American Tennis Championship at the Tennis Championship of the Tennis Championship (US Open).
-
-In the final of the end of the end of the end of this morning, she was defeated in the United States.
-
-When the match is played, she was 8-3 runs in the face of the world, she was defeated 6-3 and 7-6 (3) marks.
-
-This is the second to win the women's singles championship at the 27th-year-old Tennis Tournament.
-
-And this is the 4th Grands Slum Champion.
-
-She has won the Australian Open Tennis Championship in 2023 and 2024 years ago.
-
-◼️
-
-[Data](articles/5d1b9560.json)
-
-[Extended Data](ext_articles/5d1b9560.ext.json)
-
----
-
-### Israel's Defense Minister who posted video on X site
-
-*2025-09-07 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224417) · `ta`
-
-International media reports that the Israeli military has destroyed the tallest building in Gaza as the attack on the city of Gaza has intensified.
-
-Israeli Defense Minister Israel Gadz has posted a video of the building collapsing titled "We continue."
-
-In Gaza, Israeli security forces, which are expanding the operations, have said Hamas use the Suzi tower.
-
-◼️
-
-[Data](articles/de62dfb5.json)
-
-[Extended Data](ext_articles/de62dfb5.ext.json)
-
----
-
-### There is no uterus for underworld to be born in the country
-
-*2025-09-07 15:20:52* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයක්-ආය-රටතුල-බිහි-වෙන්න-ගර්භාෂයක්-නෑ/11-418327) · `si`
-
-"There is no uterus for underworld return to birth. Because now that is the corrupt plot. " Plantations and Community Development Minister Samantha Vidyaratne says
-
-The minister said that (07), he said that after attending a ceremony in Hatton, making a special statement.
-
-"The lamp will say, but you say gascy gaszi. The underworld has come into corrupt politics. Not in the past few days. The underworld was the same with politics. And when the crisis comes, each other is to be attacked. The underworld was not only in Sri Lanka and it was out. Now is over to find azmal nearer. Now clean one by one. I think this is clear to the people of the country that there is no pardon. Therefore, it is impossible to smuggle the underworld.
-
-...
-
-[Data](articles/913deefb.json)
-
-[Extended Data](ext_articles/913deefb.ext.json)
 
 ---

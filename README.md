@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 22:37:34**
+As of **2025-09-08 22:11:21**
 
 ## Newspaper Stats
 
-*Scraped **74,822** Articles*
+*Scraped **74,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,35 @@ economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,244
+adalk | 7,243
 adaderanalk | 9,581
 tamilmirrorlk | 11,147
 virakesarilk | 12,221
-adaderanasinhalalk | 13,036
+adaderanasinhalalk | 13,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,932 (85.4%) of 74,822 articles have been extended.
+63,906 (85.4%) of 74,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන අසත්‍ය පුවතක් ගැන පොලීසියෙන් පැහැදිලි කිරීමක්
-
-*2025-09-08 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214338) · `si`
-
-සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන ව්‍යාජ පුවතක් සම්බන්ධයෙන් පොලීසිය මාධ්‍ය නිවේදනයක් නිකුත් කර ඇති අතර, එවැනි ව්‍යාජ පුවත් පල කරන පුද්ගලයින්ට එරෙහිව තදින් නීතිය ක්‍රියාත්මක කරන බව ද එහි සඳහන් වේ.
-
-සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් පස් දෙනෙකු 2025.08.30 වන දින ශ්‍රී ලංකා පොලීසිය මඟින් ඉන්දුනීසියාවේදී එරට පොලීසියේද සහය ඇතිව අත්අඩංගුවට ගෙන දිවයිනට රැගෙන විත් රැඳවුම් නියෝග මත රඳවා තබාගෙන මේ වන විට ඉතා සාර්ථක ලෙස විමර්ශන කටයුතු සිදුකරමින් පවතී.
-
-එම සැකකරුවන්ගෙන් අනාවරණය වෙමින් පවතින තොරතුරු අනුව අයිස් මත්ද්‍රව්‍ය මෙරට තුළ නිෂ්පාදනය කිරීමේ අරමුණින් ගෙන්වන ලද බහාලුම් දෙකක තිබූ ඒ සඳහා අවශ්‍ය රසායනික ද්‍රව්‍ය තොගයක් මිද්දෙනිය ප්‍රදේශයෙන් හමුවී තිබිණි.
-
-...
-
-[Data](articles/38ff32e1.json)
-
----
-
-### Dig and wife and nine remanded again on trending incident
+### නිධන් හැරීමේ සිද්ධිය සම්බන්ධයෙන් DIG සහ බිරිඳ ඇතුළු නවදෙනා යළි රිමාන්ඩ්
 
 *2025-09-08 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214337) · `si`
 
-The DIG and her wife, including his wife and his wife, were remanded for the abuse of a treasure hunting incident.
+නිධන් හෑරීමේ සිද්ධියක් සම්බන්ධයෙන් ආධාර අනුබල දීමේ චෝදනාවකට රක්ෂිත බන්ධනාගර ගතකර සිටි නියෝජ්‍ය පොලිස්පතිවරයා සහ ඔහුගේ බිරිඳ ඇතුළු නවදෙනා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
 
-Additional Magistrate Nalaka Sanjeewa Jayasuriya has ordered that they were produced before the Anuradhapura Magistrate's Court today.
+අද (08) ඔවුන් අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව සැප්තැම්බර් 22 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස අතිරේක මහෙස්ත්‍රාත් නාලක සංජීව ජයසූරිය මහතා විසින් නියෝගය කර ඇත.
 
-The DIG and her wife, including the DIG and his wife, have been accused of treasure hunting of land at the temple near the temple in Vankupura.
+ශ්‍රාවස්තිපුර, තිබිරිකඩවල ප්‍රදේශයේ දේවාලයක් ආසන්නයේ පිහිටි ඉඩමක නිධන් හාරමින් සිටි බව කියන සිද්ධියක් සම්බන්ධයෙන් නියෝජ්‍ය පොලිස්පතිවරයා සහ ඔහුගේ බිරිඳ ඇතුළු නවදෙනාට එරෙහිව චෝදනා එල්ලවී ඇත.
 
 ◼️
 
 [Data](articles/91e84783.json)
-
-[Extended Data](ext_articles/91e84783.ext.json)
 
 ---
 
@@ -701,28 +683,6 @@ Vajira Abeywardena added that the party has decided to work openly and collectiv
 [Data](articles/85862e02.json)
 
 [Extended Data](ext_articles/85862e02.ext.json)
-
----
-
-### Nilanga demos as Acting Nilame on the Dalada Maligawa
-
-*2025-09-08 17:14:24* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-මාළිගාවේ-වැඩ-බලන-නිලමේ-ලෙස-නිලංග-දෑලම-පත්කරයි/11-418361) · `si`
-
-After the end of the historic Sri Dalada Maligawa Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage, Kandy has been appointed to work in the next three months.
-
-The Commissioner General of Buddhist Affairs has been appointed on the recommendations of the Malwathu Asgiriya Textians.
-
-The vote to appoint a new Diyawadana Nilame must be stopped before December 07, and it will probably be held on the supervision of the Commissioner General of Buddhist Affairs at the end of November.
-
-If the former Diyawadana Nilame Nilanga Dela was also informed of this election, he would be his own historic time as the manager of the Diyawadana Nilame in history.
-
-Basnayake Nilame of the Nathawawala Deposit for the election. The Malwatte Asiri Greek has been tradition that Mr. Bandaranaike is also present at the Duminda Bandara of the Kataragama Devalaya.
-
-◼️
-
-[Data](articles/2e415b10.json)
-
-[Extended Data](ext_articles/2e415b10.ext.json)
 
 ---
 
@@ -2077,5 +2037,47 @@ The lorry has flipled through the road, and the road has also been interrupted d
 [Data](articles/b2cc3b64.json)
 
 [Extended Data](ext_articles/b2cc3b64.ext.json)
+
+---
+
+### Petitions against the appointment of patriot Thenkoni as the Inspector General of Police
+
+*2025-09-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224507) · `ta`
+
+The High Court today (08) ordered the postponement of the hearing of the petition against the appointment of the National Inspector General of Police.
+
+Former President Ranil Wickremesinghe has filed a petition seeking a decision to appoint Patriot and South Kon as the Inspector General of Police.
+
+The order was issued when the petitions were taken up for hearing today in the presence of a panel of judges - Preity Padman Surasena, Mahinda Samaratha and Arjuna Obeeskera.
+
+Accordingly, the hearing of the petition was adjourned until February 12, 2026.
+
+◼️
+
+[Data](articles/49980d4d.json)
+
+[Extended Data](ext_articles/49980d4d.ext.json)
+
+---
+
+### UNP decides to work with the forces of the opposition
+
+*2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
+
+The UNP has decided to continue with the reconciliation and other political parties in the preliminary discussions.
+
+The United National Party (UNP) has also intended to act through a committee or similar mechanism to deal with the opposition parties, including the unity force.
+
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and other matters with the opposition parties.
+
+The Chairman of the UNP Vajira Abeywardena said the UNP has decided to continue in the discussions with agreements.
+
+He also said that he has decided to work open with the conviction force.
+
+◼️
+
+[Data](articles/61017216.json)
+
+[Extended Data](ext_articles/61017216.ext.json)
 
 ---

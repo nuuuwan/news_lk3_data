@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-08 12:14:45**
+As of **2025-09-08 12:38:56**
 
 ## Newspaper Stats
 
-*Scraped **74,709** Articles*
+*Scraped **74,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,525
 islandlk | 4,599
 dailymirrorlk | 4,733
 dailyftlk | 5,300
-adalk | 7,227
+adalk | 7,228
 adaderanalk | 9,554
-tamilmirrorlk | 11,124
+tamilmirrorlk | 11,126
 virakesarilk | 12,209
 adaderanasinhalalk | 13,012
 
@@ -26,45 +26,83 @@ adaderanasinhalalk | 13,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-63,383 (84.8%) of 74,709 articles have been extended.
+63,412 (84.9%) of 74,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-08 (Monday)
 
-### වැල්ලවායේ දී දරුණු අනතුරක්
+### அரை முழம் மல்லிகையால் பிரபல நடிகைக்கு அபராதம்
+
+*2025-09-08 12:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அரை-முழம்-மல்லிகையால்-பிரபல-நடிகைக்கு-அபராதம்/54-364201) · `ta`
+
+அரை முழத்திற்கும் குறைவாக மல்லிகைப் பூவை கொண்டு சென்ற பிரபல தென்னிந்திய நடிகை ஒருவருக்கு ஆஸ்திரேலிய விமான நிலைய நிர்வாகம் ரூ. 1.25 லட்சம் அபராதம் விதித்து நடவடிக்கை எடுத்துள்ளது.
+
+மலையாள திரையுலகத்தைச் சேர்ந்த நடிகை நவ்யா நாயர் தமிழ் மொழியிலும் 5க்கும் மேற்பட்ட படங்களில் நடித்திருக்கிறார். அவர் ஆஸ்திரேலியாவின் விக்டோரியா நகரில் நடைபெற்ற ஓணம் பண்டிகை கொண்டாட்டத்திற்கு சென்றுள்ளதுடன் இதற்காக அவர் சுமார் 15 செ.மீ. அளவு கொண்ட மல்லிகைப்பூவை கொண்டு சென்றுள்ளார்.
+
+இந்நிலையில் மெல்போர்ன் சர்வதேச விமான நிலையத்தில் நடிகை நவ்யாவின் உடைமைகளை சோதனை செய்த அதிகாரிகள் அதில் மல்லிகைப்பூ இருப்பதை கண்டறிந்ததையடுத்து அவருக்கு விமான நிலையத்திலே 1.25 லட்சம் ரூபாய் அபராதம் விதித்துள்ளனர்.
+
+இது குறித்து விக்டோரியா நகரில் நடைபெற்ற நிகழ்ச்சியில் பேசிய அவர், தனது தந்தை தனக்கு மல்லிகைப்பூ வாங்கித் தந்ததாகவும் அதை இரண்டாக பிரித்து ஒரு பாதியை கொச்சியில் இருந்து சிங்கப்பூர் வரை தனது தலையில் வைத்திருந்ததாகவும் மீதி பாதியை தனது கைப்பையில் வைத்திருந்ததாகவும் கூறினார்.
+
+...
+
+[Data](articles/28b46955.json)
+
+---
+
+### 83 கடவுச்சீட்டுகளுடன் இருவர் கைது
+
+*2025-09-08 12:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/83-கடவுச்சீட்டுகளுடன்-இருவர்-கைது/175-364199) · `ta`
+
+வேறு நபர்களுக்குச் சொந்தமான 83 கடவுச்சீட்டுகளை சட்டவிரோதமாக வைத்திருந்ததற்காக இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கணேமுல்ல, ஹொரகொல்ல பகுதியில் நேற்று நடத்தப்பட்ட சோதனையைத் தொடர்ந்து சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த சோதனையைத் தொடர்ந்து, வத்தளையைச் சேர்ந்த 51 வயதுடைய ஆண் மற்றும் கணேமுல்லையைச் சேர்ந்த 62 வயதுடைய பெண் ஆகிய இரு சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/d130d883.json)
+
+---
+
+### A severe accident in Wellawaya
 
 *2025-09-08 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214310) · `si`
 
-වැල්ලවාය තණමල්විල ප්‍රධාන මාර්ගයේ යාලබෝව ලංගම ඩීපෝව ඉදිරිපිට ප්‍රදේශයේ දී ලොරි රථයක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් අද (08) අනතුරක් සිදුව තිබේ.
+A lorry and a car collided in front of the SLTB Deppo in the Wellawaya Tanmbowa road on Wellawaya.
 
-අනතුරින් මෝටර් රථයේ ගමන්ගත් දෙදෙනෙකු තුවාල ලබා වැල්ලවාය මූලික රෝහලට ඇතුළත් කර ඇත.
+Two traders were injured and admitted to the Wellawaya Base Hospital.
 
-මෙම අනතුරින් ලොරි රථය මාර්ගය හරහා පෙරළී ගොස් ඇති අතර ඒ හේතුවෙන් මාර්ගයේ ගමනාගමන කටයුතුවලට ද බාධා එල්ල වී ඇති බව පොලීසිය පැවසුවේය.
+The lorry has flipled through the road, and the road has also been interrupted due to the road.
 
 ◼️
 
 [Data](articles/b2cc3b64.json)
 
+[Extended Data](ext_articles/b2cc3b64.ext.json)
+
 ---
 
-### සජබ ඇතුළු විපක්ෂයේ බලවේග සමග එකට වැඩ කිරීමට එජාපයේ තීරණයක්
+### UNP decides to work with the forces of the opposition
 
 *2025-09-08 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214309) · `si`
 
-මූලික සාකච්ඡාවලදී එකඟතාවයට පැමිණි ආකාරයට සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් දේශපාලන පක්ෂ සමග අඛණ්ඩව ඉදිරියටත් කටයුතු කරගෙන යාමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
+The UNP has decided to continue with the reconciliation and other political parties in the preliminary discussions.
 
-ඒ සඳහා සමගි ජන බලවේගය ඇතුළු විපක්ෂයේ පක්ෂ සමග කටයුතු කිරීම සඳහා කමිටුවක් හෝ ඒ හා සමාන යාන්ත්‍රණයක් මගින් ක්‍රියා කිරීමටද එක්සත් ජාතික පක්ෂය මෙහිදී අදහස් කර ඇත.
+The United National Party (UNP) has also intended to act through a committee or similar mechanism to deal with the opposition parties, including the unity force.
 
-සමගි ජන බලවේගය සහ විපක්ෂයේ අනෙකුත් පක්ෂ සමඟ පොදු කාරණාවලදී කටයුතු කරන ආකාරය සම්බන්ධයෙන් පසුගිය කාලය මුළුල්ලේම එක්සත් ජාතික පක්ෂය විරුද්ධ පක්ෂ සමග සාකච්ඡා කරනු ලැබිය.
+The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and other matters with the opposition parties.
 
-එම සාකච්ඡාවලදී එකඟත්වයට පැමිණි කරුණු අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කිරීමට එක්සත් ජාතික පක්ෂය තීරණය කළ බව එම පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා පැවසීය.
+The Chairman of the UNP Vajira Abeywardena said the UNP has decided to continue in the discussions with agreements.
 
-මේ අනුව සමගි ජන බලවේගය සමඟ විවෘතව වැඩ කිරීමට තීරණය කර තිබෙන බවද ඔහු සඳහන් කළේය.
+He also said that he has decided to work open with the conviction force.
 
 ◼️
 
 [Data](articles/61017216.json)
+
+[Extended Data](ext_articles/61017216.ext.json)
 
 ---
 
@@ -85,6 +123,28 @@ They say he will now be sacked from the post of Prime Minister. These are their 
 [Data](articles/307f2920.json)
 
 [Extended Data](ext_articles/307f2920.ext.json)
+
+---
+
+### Two train tracks from Badulla to Colombo
+
+*2025-09-08 11:19:29* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-කොළඹ-එන්න-ආපු-දුම්රිය-දෙකක්-පීලි-පනියි/11-418345) · `si`
+
+Railway Passengers were severely embarrassed by the Naval Menike train from Badulla to Colombo Fort this morning.
+
+Udarata Menike Railway train was suddenly staged by the Emi Railway Archin Bridge at the Badulla Fort at 6.50 am from the Badulla Fort at 6.50 am.
+
+The Railways was later rescued from the Railway Engine from the Badulla Railways after the railway machinery and stopped the railway engine.
+
+Meanwhile, the Colombo Fort from Badulla to 1.45 pm from Badulla Fort and the Colombo Fort from Badulla to Colombo Fort, the railway station was raised from Haliela to Badulla.
+
+The Railway Department said that the Railway Railway Railway Station was submerged from Colombo Fort from Fort to Badulla.
+
+◼️
+
+[Data](articles/ab89bb35.json)
+
+[Extended Data](ext_articles/ab89bb35.ext.json)
 
 ---
 
@@ -1961,83 +2021,5 @@ The autopsy on his body has been carried out by the Medical Officer. Thambalakam
 [Data](articles/d78a4bf1.json)
 
 [Extended Data](ext_articles/d78a4bf1.ext.json)
-
----
-
-### Japanese Prime Minister resigns
-
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
-
-Japanese Prime Minister Shikheru Ishiba decision to resign The decision has been made with the aim of preventing splitting in the ruling party.
-
-Shigeru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
-
-Some of the party executives have begun to voice their voice that the Prime Minister should resign.
-
-The Prime Minister has ignored the comments that have been said for the past one month. But the voices of his resignation day by day are strengthening.
-
-In such a situation, the Liberal Democratic Party is due to decide whether to hold an election in advance of the party leadership.. In order to avoid it, it is reported that he has come forward to resign automatically
-
-◼️
-
-[Data](articles/2dbc18b6.json)
-
-[Extended Data](ext_articles/2dbc18b6.ext.json)
-
----
-
-### Japanese Prime Minister resigns
-
-*2025-09-07 18:52:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இராஜினாமா-செய்கிறார்-ஜப்பான்-பிரதமர்/50-364155) · `ta`
-
-Japanese Prime Minister Shikheru Ishiba decided to resign The decision has been made with the aim of preventing a split in the ruling party.
-
-Shikheru Ishiba is the prime minister of Japan. He is the Liberal Democratic Party.
-
-Some party executives have begun to voice their voice that the ruling party has lost a majority.. The Prime Minister has ignored the comments that have been said for the past one month.
-
-But the voices of his resignation day by day are strengthening.
-
-In such a situation, the Liberal Democratic Party is to decide on whether to hold an election in advance for the party leadership.
-
-In order to avoid it, it is reported that he has come forward to resign automatically
-
-◼️
-
-[Data](articles/855eff8b.json)
-
-[Extended Data](ext_articles/855eff8b.ext.json)
-
----
-
-### Sri Lanka a target of 192 runs
-
-*2025-09-07 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214287) · `si`
-
-Zimbabwe scored 191 runs for the loss of 19 wickets in the first 20 overs.
-
-This was the highest scorers of Zimbabwe's highest marks in the Twenty20 match against Sri Lanka.
-
-Earlier, they had scored 178 runs for the loss of 6 wickets.
-
-Accordingly, Sri Lanka won a target of 192 runs.
-
-Sri Lanka captain Charith won the toss and win the coin of the match at the Harrara Stadium.
-
-Tadiwanashe Marumani scored 51 runs on behalf of Zimbabwe. Sikandar raza scored 28 runs.
-
-Sean Williams bowled out 23 runs while Brian Bennett scored 13 runs.
-
-Dushan Hemantha took 3 wickets for Sri Lanka in bowling. Damadantha Chameera took 2 wickets.
-
-The winner can win the championship in this competition, as the two teams have won the two matches every two matches.
-
-Accordingly, Kusal Janith and Mathena Pathirana have been called, and he has rested to the rest of the time.
-
-◼️
-
-[Data](articles/12120caa.json)
-
-[Extended Data](ext_articles/12120caa.ext.json)
 
 ---

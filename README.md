@@ -1,34 +1,148 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 00:53:21**
+As of **2025-09-09 03:05:53**
 
 ## Newspaper Stats
 
-*Scraped **74,832** Articles*
+*Scraped **74,840** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 762
+colombotelegraphcom | 763
 economynextcom | 4,533
 islandlk | 4,599
 dailymirrorlk | 4,733
-dailyftlk | 5,304
+dailyftlk | 5,306
 adalk | 7,244
 adaderanalk | 9,583
 tamilmirrorlk | 11,148
-virakesarilk | 12,222
+virakesarilk | 12,227
 adaderanasinhalalk | 13,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,046 (85.6%) of 74,832 articles have been extended.
+64,162 (85.7%) of 74,840 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-09 (Tuesday)
+
+### மனிதப்புதைகுழி அகழ்வு சர்வதேச நியமங்களுக்கு ஏற்றவாறு அமையவேண்டும் - பேரவையில் உறுப்புநாடுகள் வலியுறுத்தல்
+
+*2025-09-09 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224579) · `ta`
+
+இலங்கையில் முன்னெடுக்கப்பட்டுவரும் மனிதப்புதைகுழி அகழ்வு நடவடிக்கைகள் சர்வதேச நியமங்களுக்கு ஏற்றவாறு அமையவேண்டும் எனவும், தனிநபர்களை இலக்குவைப்பதற்குப் பயன்படுத்தப்படும் பயங்கரவாதத்தடைச்சட்டம் நீக்கப்படவேண்டும் எனவும் பிரிட்டன், நியூஸிலாந்து, சுவிட்ஸர்லாந்து, அவுஸ்திரேலியா உள்ளிட்ட பேரவையின் உறுப்புநாடுகள் வலியுறுத்தியுள்ளன.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் நேற்று திங்கட்கிழமை ஜெனீவாவில் ஆரம்பமானது. நேற்றைய தொடக்க அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை தொடர்பான அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அறிக்கை மீதான விவாதம் நடைபெற்றது.
+
+...
+
+[Data](articles/5555739b.json)
+
+---
+
+### ஐ.நா மனித உரிமைகள் பேரவை பக்கச்சார்பின்றி செயற்படவேண்டும் - இலங்கைக்கு ஆதரவாக பாகிஸ்தான், லாவோஸ், எரித்ரியா
+
+*2025-09-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224578) · `ta`
+
+ஐ.நா மனித உரிமைகள் பேரவையானது பக்கச்சார்பின்றி நியாயத்துவத்தின் அடிப்படையில் செயற்படவேண்டும் என பேரவையில் வலியுறுத்திய பாகிஸ்தான், லாவோஸ், எரித்ரியா உள்ளிட்ட நாடுகளின் பிரதிநிதிகள், இலங்கையின் உள்ளக செயன்முறைகளைத் தாம் ஆதரிப்பதாகவும் அறிவித்துள்ளனர்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் திங்கட்கிழமை (8) ஜெனீவாவில் ஆரம்பமானது. தொடக்க அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை தொடர்பான அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அறிக்கை மீதான விவாதம் நடைபெற்றது.
+
+அங்கு கருத்து வெளியிட்ட லாவோஸ், பாகிஸ்தான், எரித்ரியா உள்ளிட்ட நாடுகளின் பிரதிநிதிகள் இலங்கைக்கு ஆதரவாகக் கருத்துரைத்தனர்.
+
+குறிப்பாக கடந்த கூட்டத்தொடரில் 57ஃ1 தீர்மானத்தை இலங்கை நிராகரித்திருந்த போதிலும், ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கை நாட்டுக்கு விஜயம் மேற்கொள்ளுமாறு அழைப்பு விடுக்கப்பட்டமை தொடர்பில் அவர்கள் பாராட்டு வெளியிட்டனர்.
+
+...
+
+[Data](articles/ad402284.json)
+
+---
+
+### மருந்து கொள்முதலில் உள்ள செயன்முறை சிக்கலால் மருந்து பொருட்களுக்கு தட்டுபாடு
+
+*2025-09-09 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224577) · `ta`
+
+ஒரு குறிப்பிட்ட வைத்தியசாலையில் மருந்து மற்றும் மருத்துவ உபகரணங்களுக்கு பற்றாக்குறை ஏற்படுமாயின் அதுஇ நிதி பற்றாக்குறையால் ஏற்பட்ட தட்டுபாடு அல்ல மாறாக அவற்றை கொள்முதல் செய்வதில் ஏற்பட்டும் செயன்முறை சிக்கல் காரணமாகவே மருந்துகளுக்கும் மருத்துவ உபகரங்களுக்கும் தட்டுபாடு ஏற்படுகிறது  என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+பல் அறுவைசிகிச்சை வைத்தியர்களுக்கான வரையருக்கப்பட்ட வழிமுறைபயிற்சிக்காக சுகாதார அமைச்சால் 86 பேர் புதிதாக இணைத்துக் கொள்ளப்பட்டுள்ளனர். மேற்படி பல் மருத்துவ பட்டதாரிகளை வரையருக்கப்பட்ட வழிமுறைபயிற்சிக்கு ஆட்சேர்ப்பு செய்வதற்கான நியமனக் கடிதங்கள் திங்கட்கிழமை (8) கொழும்பில் உள்ள ஹெக்டர் கொப்பேகடுவ விவசாய ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனத்தில் சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் வழங்கி வைக்கப்பட்டது.
+
+...
+
+[Data](articles/7a6f313d.json)
+
+---
+
+### Roadmap for Sri Lanka’s regenerative future
+
+*2025-09-09 01:06:52* · [`dailyftlk`](https://www.ft.lk/columns/Roadmap-for-Sri-Lanka-s-regenerative-future/4-781396) · `en`
+
+Adopting a national regenerative agriculture strategy represents a rare and potent convergence of domestic political will, international strategic priorities, and global market forces
+
+Across South Asia, the weather now writes the headlines. One month parched, the next month a deluge. On a small island with big farming traditions, there is a calmer path that honours both the harvest and the river.
+
+...
+
+[Data](articles/7f4842bb.json)
+
+[Extended Data](ext_articles/7f4842bb.ext.json)
+
+---
+
+### Russia has successfully developed the "Endromix" vaccine against cancer
+
+*2025-09-09 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224576) · `ta`
+
+They say the vaccine has been examined by humans and has achieved 100 percent success.
+
+Researchers have shown that the endromix vaccine, a MRNA vaccine can be detected and completely destroyed by cancer cells.
+
+◼️
+
+[Data](articles/16ab6e67.json)
+
+[Extended Data](ext_articles/16ab6e67.ext.json)
+
+---
+
+### Copyright and creativity: Why Sri Lanka must embrace global standards
+
+*2025-09-09 00:56:40* · [`dailyftlk`](https://www.ft.lk/columns/Copyright-and-creativity-Why-Sri-Lanka-must-embrace-global-standards/4-781395) · `en`
+
+Sri Lanka exists within the global community, not apart from it. Yet, in public discourse surrounding law, technology, governance, and culture, a recurring theme persists: the belief that Sri Lanka is somehow exceptional, requiring uniquely local solutions. While national context is important, this mindset often overlooks a critical reality: we operate within an interconnected world governed by international norms. Nowhere is this more evident than in the realm of copyright law, particularly in music.
+
+...
+
+[Data](articles/f3e23024.json)
+
+[Extended Data](ext_articles/f3e23024.ext.json)
+
+---
+
+### Failure in no confidence resolution - France government collapsed
+
+*2025-09-09 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224575) · `ta`
+
+The government has collapsed as a no -confidence motion brought on French Prime Minister Fran ுவ ois Beiru has been passed in the National Assembly.
+
+In the no -confidence motion, 364 MPs voted against 194 MPs and 25 MPs did not vote.
+
+Following this, the Elisy Palace has announced that President Emmanuel Macron will appoint a new prime minister.  President Macron will meet him on Tuesday, the 9th, to accept the resignation of Prime Minister Beiru.
+
+At the same time, the opposition parties are urging not only the Prime Minister but the president to resign.
+
+◼️
+
+[Data](articles/a4a26f7a.json)
+
+[Extended Data](ext_articles/a4a26f7a.ext.json)
+
+---
 
 ### 2025-09-08 (Monday)
 
@@ -149,6 +263,8 @@ Theatrics in Sri Lankan politics has reached a crescendo with the arrest, remand
 ...
 
 [Data](articles/4e0916a4.json)
+
+[Extended Data](ext_articles/4e0916a4.ext.json)
 
 ---
 
@@ -325,6 +441,26 @@ The Commissioner General of Examinations has announced that applications that wi
 [Data](articles/904fd15c.json)
 
 [Extended Data](ext_articles/904fd15c.ext.json)
+
+---
+
+### Sustainable Intelligence: Data & AI For A Resilient Future
+
+*2025-09-08 19:54:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sustainable-intelligence-data-ai-for-a-resilient-future/) · `en`
+
+In the 21st century, intelligence is no longer the sole preserve of human wisdom. It now includes the vast realms of data, machine learning, and artificial intelligence (AI). Yet intelligence on its own is not enough. The same brilliance that split the atom also created fear of annihilation. The same ingenuity that mapped every corner of the Earth has failed to safeguard it.
+
+The urgent challenge before us is to align intelligence with sustainability — intelligence that respects ecological limits, empowers communities, and ensures resilience for future generations.
+
+Sustainable intelligence goes beyond being “smart.” It is about being wise. We can see this progression in three layers:
+
+Nature itself models this. In a forest, trees process carbon, exchange nutrients, and even “communicate” underground. They do not optimize for growth alone but for the survival of the entire ecosystem. That is sustainable intelligence.
+
+...
+
+[Data](articles/4b636e4f.json)
+
+[Extended Data](ext_articles/4b636e4f.ext.json)
 
 ---
 
@@ -1887,169 +2023,5 @@ According to preliminary reports, at least two gunmen carried out the shooting.
 [Data](articles/655d3afe.json)
 
 [Extended Data](ext_articles/655d3afe.ext.json)
-
----
-
-### Nimal Lansa released on bail
-
-*2025-09-08 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214314) · `si`
-
-Former MP Nimal released on bail.
-
-He was arrested recently after the 2006 incident, he was arrested and remanded.
-
-Accordingly, the 6th High Court of Negombo has released on bail.
-
-◼️
-
-[Data](articles/6e5d5d7e.json)
-
-[Extended Data](ext_articles/6e5d5d7e.ext.json)
-
----
-
-### Former MP Nimal Lanza arrested over assault incident granted bail
-
-*2025-09-08 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112276/former-mp-nimal-lanza-arrested-over-assault-incident-granted-bail) · `en`
-
-Former Member of Parliament Nimal Lanza, who was arrested by the Kochchikade Police over an assault incident and subsequently remanded by court, has been granted bail, Ada Derana reporter said.
-
-Former MP Nimal Lanza was arrested on August 29 after surrendering to the Kochchikade Police.
-
-The Attorney General filed charges against the former MP in connection with an assault and trespassing incident that occurred during a protest in 2006.
-
-◼️
-
-[Data](articles/5cdac5b3.json)
-
-[Extended Data](ext_articles/5cdac5b3.ext.json)
-
----
-
-### Father shot dead in the forest for 4 years with 3 children
-
-*2025-09-08 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224492) · `ta`
-
-A father, Tom Phillips, who has been hiding with his three children for the past four years in New Zealand, has been shot dead by police.
-
-In a dispute with a wife relating to the care of children, Philips, Piaopio, who had been hiding with his children in the New Zealand forest since December 2021, has been shot dead by police in connection with the theft.
-
-Philips fired several times on a police officer who went to the scene, and the officer suffered serious injuries. Following this, Philips died in a police shooting.
-
-Police said he had a child with Philips and had no injuries to the child. It is also reported that the two children were safely rescued after intensifying the search for the other two children.
-
-Police said they were in contact with the family of the Phillips and would be assisted.
-
-...
-
-[Data](articles/88d1c2ab.json)
-
-[Extended Data](ext_articles/88d1c2ab.ext.json)
-
----
-
-### Electricity unions warns
-
-*2025-09-08 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214313) · `si`
-
-The Government of Ceylon Electricity Board (CEB) says that the government has not paid any attention regarding the professional procedure of the Cultural Staff employees.
-
-The first phase of the trade union action, which was established against four sections of the Ceylon Electricity, is to be implemented on the 15th of this month.
-
-However, the Ceylon Electricity Board (Ceylon Electricity) of the Ceylon Electricity Board (CEB) Prabith Priyantha said that they would create a positive response from the government.
-
-◼️
-
-[Data](articles/2a287628.json)
-
-[Extended Data](ext_articles/2a287628.ext.json)
-
----
-
-### Wife remanded for killing husband who murdered husband's torture
-
-*2025-09-08 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214312) · `si`
-
-The mother of Kabithigollewa Acting Magistrate Niluka Priyadarshani was ordered to be remanded until the 18th he was assaulted by her husband.
-
-The reserves have been remanded, a resident of Kurudagama, Cabichigallawa.
-
-The Magistrate also ordered the jurisdiction at the Anuradhapura Teaching Hospital to conduct the post mortem examination on the body of her husband who was allegedly killed.
-
-The magistrate also ordered her three children who were in the suspect to their grandfather.
-
-The suspect's wife at the Kebithigollewa Headquarters Police Inspector General of Police said that the victim and suspect had been revealed in the preceding conflict and quarrel.
-
-The owner revealed that the deceased had been constantly inhumanized by his wife, the suspect, and that the victim was inhumane was inhuman and was trying to be inhrum.
-
-...
-
-[Data](articles/7d7e98d2.json)
-
-[Extended Data](ext_articles/7d7e98d2.ext.json)
-
----
-
-### President’s Fund to award scholarships for children of Sri Lankans affected abroad
-
-*2025-09-08 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112275/presidents-fund-to-award-scholarships-for-children-of-sri-lankans-affected-abroad) · `en`
-
-The President’s Fund has announced plans to implement a scholarship program to safeguard the education of children residing in Sri Lanka whose parents working abroad have died, become disabled, or gone missing due to various circumstances.
-
-Driven by the principle of “Leaving No One Behind in Education”, the initiative will be jointly implemented by the Presidential Fund, the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism, and the Foreign Employment Bureau.
-
-The decision was revealed during a recent meeting at the Presidential Secretariat, chaired by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, Senior Additional Secretary to the President, and Secretary to the Presidential Fund, Roshan Gamage, where the expansion of the Fund’s services was discussed.
-
-The primary objective of the program is to ensure the uninterrupted and secure education of children in Sri Lanka whose parents working overseas are affected by unforeseen tragedies.
-
-...
-
-[Data](articles/6b68b613.json)
-
-[Extended Data](ext_articles/6b68b613.ext.json)
-
----
-
-### Baby magic is swept away from the beach of Kaluppitti!
-
-*2025-09-08 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224512) · `ta`
-
-The Kaluppitti police are investigating the information that the child was swept away from the beach on Sunday (7) afternoon.
-
-At the same time, police have reported that the woman may have thrown the baby in the sea and suspected that the girl may have jumped into the sea with the baby.
-
-Also, at around 3.30 pm yesterday, some said that the woman was shouting at the beach and that her child had been dragged into the sea wave.
-
-The navy and the police are in the process of searching for a missing child.
-
-It is reported that the woman from Welimada is receiving treatment at the Colombo National Hospital.
-
-◼️
-
-[Data](articles/0c4b02ed.json)
-
-[Extended Data](ext_articles/0c4b02ed.ext.json)
-
----
-
-### UNP decides to deal with opposition parties including education
-
-*2025-09-08 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ඇතුළු-විපක්ෂයේ-පක්ෂ-සමඟ-කටයුතු-කිරීමට-එජාපයෙන්-තීරණයක්/11-418350) · `si`
-
-The UNP is announced that the UNP is intended to act with a committee or similar mechanism to deal with the opposition parties, including the opposition power.
-
-"The United National Party also intends to act through a committee or similar mechanism to deal with the opposition parties, including reconciliation force.
-
-The United National Party (UNP) was discussed with opposition parties in the general matters with the opposition power and the opposition parties.
-
-UNP Chairman, Vajira Abeywardena said that the UNP has decided to continue the contents of the incident.
-
-Accordingly, he has decided to work openly with the conviction force. "
-
-◼️
-
-[Data](articles/bfa8ef54.json)
-
-[Extended Data](ext_articles/bfa8ef54.ext.json)
 
 ---

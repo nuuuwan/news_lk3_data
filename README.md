@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 14:11:24**
+As of **2025-09-09 13:57:22**
 
 ## Newspaper Stats
 
-*Scraped **74,971** Articles*
+*Scraped **74,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,18 @@ dailyftlk | 5,313
 adalk | 7,261
 adaderanalk | 9,600
 tamilmirrorlk | 11,175
-virakesarilk | 12,250
+virakesarilk | 12,245
 adaderanasinhalalk | 13,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,795 (86.4%) of 74,971 articles have been extended.
+64,795 (86.4%) of 74,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### தொடரும் வன்முறைப் போராட்டம்: நேபாள பிரதமர் சீனா அல்லது தாய்லாந்துக்கு தப்பிச் செல்லத் தயார்?
-
-*2025-09-09 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224622) · `ta`
-
-சமூக ஊடகங்களுக்கு நேபாள அரசு விதித்த தடைக்கு எதிர்ப்புத் தெரிவித்து, நாடு முழுவதும் பெரும் வன்முறைப் போராட்டங்கள் வெடித்துள்ளன. இதுவரை ஆர்ப்பாட்டக்காரர்களில் 19 பேர் உயிரிழந்துள்ளனர். மேலும் பலர் காயமடைந்துள்ளனர்.
-
-ஆர்ப்பாட்டக்காரர்கள் நேபாள பிரதமரின் இல்லம், முன்னாள் மற்றும் இந்நாள் அமைச்சர்களின் வீடுகள், கட்சி அலுவலகங்கள், பாராளுமன்ற கட்டடம் உள்ளிட்ட பல கட்டிடங்களுக்குத் தீ வைத்துள்ளனர்.
-
-நிலைமை மோசமடைந்து வரும் நிலையில், நேபாள பிரதமர் கே.பி. ஷர்மா சீனா அல்லது தாய்லாந்துக்குச் செல்லத் தயாராகி வருவதாக செய்திகள் வெளியாகியுள்ளன. இந்தச் செய்தி, நேபாளத்தில் நிலவும் பதற்றமான சூழலை மேலும் அதிகரித்துள்ளது.
-
-நேபாளத்தில் ஊரடங்குச் சட்டம் அமுலில் இருந்தபோதிலும், மக்கள் அதை மீறி தலைநகர் காத்மாண்டுவில் பாராளுமன்றம் மற்றும் பிற இடங்களில் ஒன்று திரண்டு போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
-
-...
-
-[Data](articles/cee26268.json)
-
----
-
-### 2026 ஒதுக்கீட்டுச் சட்டமூலத்திற்கு அமைச்சரவை அனுமதி
-
-*2025-09-09 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224625) · `ta`
-
-2026 நிதியாண்டுக்கான ஒதுக்கீட்டுச் சட்டமூலத்தை தயாரிப்பதற்காக கடந்த ஜூலை மாதம் முதலாம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது. இதனை அமைச்சரவை பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-அதற்கமைய, சட்டவரைஞரால் தயாரிக்கப்பட்டுள்ள 2026 நிதியாண்டுக்கான ஒதுக்கீட்டுச் சட்டமூலத்திற்கு சட்டமா அதிபரின் அனுமதி கிடைக்கப் பெற்றுள்ளது.
-
-குறித்த சட்டமூலத்தை வர்த்தமானியில் வெளியிடுவதற்கும், பின்னர் பாராளுமன்ற அங்கீகாரத்திற்காக சமர்ப்பிப்பதற்கும் நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சராக ஜனாதிபதி சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-◼️
-
-[Data](articles/343ba4d3.json)
-
----
 
 ### முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் நாளை விவாதம்
 
@@ -127,28 +93,6 @@ The Parliament of Sri Lanka has made this informed this, that this has been deci
 [Data](articles/c623fb22.json)
 
 [Extended Data](ext_articles/c623fb22.ext.json)
-
----
-
-### நேபாளத்தின் பிரதமர் கே.பி. சர்மா ஒலியை இராஜினாமா செய்யக் கோரி போராட்டம்
-
-*2025-09-09 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224614) · `ta`
-
-நேபாளத்தில் இடம்பெற்றுவரும் போராட்டங்களுக்கு மத்தியில் பிரதமர் கே.பி. சர்மா ஒலி பதவி விலக வேண்டும் என்ற அழுத்தம் அதிகரித்து வருகிறது.
-
-அரசாங்கத்தின் சர்வாதிகார அணுகுமுறையை எதிர்த்து போராட்டக்காரர்கள் ஆர்ப்பாட்டம் நடத்தி வருவதாக அந்த நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-மேலும் பிரதமர் கே.பி. சர்மா ஒலி இராஜினாமா செய்யும் வரை தாங்கள் போராட்டத்தை கைவிடப்போவதில்லை எனவும் கூறி வருகின்றனர்.
-
-ஜெனரல்-இசட் நடத்திய சமூக ஊடக ஆதரவு போராட்டம் தற்போது ஊழல் எதிர்ப்புப் போராட்டத்தின் ஒரு பெரிய காரணமாக மாறியுள்ளது.
-
-பிரதமர் கே.பி. சர்மா ஒலி சமூக ஊடகங்கள் மீதான தடையை திரும்பப் பெற்றுள்ள நிலையில், பரவலான ஊழல் காரணமாக போராட்டக்காரர்கள் தற்போது அவரது இராஜினாமாவைக் கோருகின்றனர்.
-
-குறிப்பாக, பல்வேறு அமைச்சர்களின் மகன்கள் மற்றும் மகள்களின் வீடியோக்கள் மற்றும் புகைப்படங்கள் நேபாளத்தில் சமூக ஊடகங்களில் வைரலாகி வருவதாக தெரிவிக்கப்படுகிறது.
-
-...
-
-[Data](articles/131117f0.json)
 
 ---
 
@@ -219,42 +163,6 @@ Following is the full announcement of the decisions of the Cabinet meeting held 
 [Data](articles/ff78f887.json)
 
 [Extended Data](ext_articles/ff78f887.ext.json)
-
----
-
-### சமூக வலைத்தளங்களில் வீடியோ பரவியதால் மனமுடைந்து உயிரை மாய்த்த நபர் : விசாரணையில் குற்றமற்றவரென வெளியான தகவல் !
-
-*2025-09-09 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224617) · `ta`
-
-கொழும்பில் இருந்து வெலிமடை நோக்கி பஸ்ஸில் பயணித்த ரமச்சந்திரன் புவனேஸ்வரன் என்ற முரளி (34), நித்திரையால் தான் செல்ல வேண்டிய இடத்தைத் தாண்டி, ரம்பொட பகுதியில் அதிகாலை 2 மணியளவில் இறங்கியுள்ளார். உறவினர் ஒருவரைத் தேடிச் சென்றபோது, தவறுதலாக ஒரு வீட்டின் கதவைத் தட்டியுள்ளார்.
-
-இதைக் கண்ட வீட்டின் உரிமையாளர்கள், குறித்த நபரை திருடன் என நினைத்து சத்தம் போட்டுள்ளனர். சத்தம் கேட்டு ஓடிவந்த கிராம மக்கள், அவரை கடுமையாகத் தாக்கி, மரத்தில் கட்டிவைத்துள்ளனர். மேலும், இந்தச் சம்பவத்தை வீடியோவாக எடுத்து சமூக வலைத்தளங்களில் பதிவேற்றியுள்ளனர்.
-
-பின்னர், கிராம மக்களால் கொத்மலை பொலிஸாரிடம் ஒப்படைக்கப்பட்ட முரளியிடம் விசாரணைகள் நடத்தப்பட்டன. விசாரணையில் அவர் குற்றமற்றவர் என்பது தெரியவந்துள்ளது. இதையடுத்து, மருத்துவப் பரிசோதனைக்குப் பின்னர், முரளி பொலிஸ் பிணையில் விடுவிக்கப்பட்டு, அவரது உறவினர்களிடம் ஒப்படைக்கப்பட்டார்.
-
-ஆனால், கிராம மக்கள் அவரைத் தாக்கிய வீடியோ சமூக வலைத்தளங்களில் பரவியதால் மனமுடைந்த முரளி, தவறான முடிவெடுத்து தனது உரை மாய்த்துள்ளார்.
-
-...
-
-[Data](articles/07db117b.json)
-
----
-
-### யாழில் நிலத்தடி நீரைப் பாதுகாக்கும் செயன்முறையின் கிழ் குளங்கள் தூர்வார நடவடிக்கை
-
-*2025-09-09 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224612) · `ta`
-
-யாழ்ப்பாணத்தின் நிலத்தடி நீரைப் பாதுகாக்கும் செயன்முறையின் ஒரு பகுதியாக குளங்கள் தூர்வாரப்படவேண்டும் : அதற்கான பொறிமுறை உருவாக்குவது தொடர்பில்   கலந்துரையாடல் இடம்பெற்றது.
-
-யாழ். மாவட்டத்திலுள்ள குளங்களை தொடர்ச்சியாக தூர்வாருவது தொடர்பான பொறிமுறையை உருவாக்குவது தொடர்பிலும், பரீட்சார்த்தமாக தூர்வாருதலை உடனடியாக நடைமுறைப்படுத்தவது தொடர்பாகவும் ஆராயும் கலந்துரையாடல் வடக்கு மாகாண  ஆளுநர் நா.வேதநாயகன்  தலைமையில்  திங்கட்கிழமை(நேற்று)  நடைபெற்றது.
-
-யாழ்ப்பாணத்தின் நிலத்தடி நீரைப் பாதுகாக்கும் செயன்முறையின் ஒரு பகுதியாக குளங்கள் தூர்வாரப்படவேண்டும் என்றும் அதற்கான பொறிமுறை தொடர்பில் ஆராய்வதே கலந்துரையாடலின் நோக்கம் என குறிப்பிட்ட ஆளுநர் அது தொடர்பில் துறைசார் அதிகாரிகளிடமிருந்து ஆலோசனைகளை எதிர்பார்ப்பதாக  தெரிவித்தார் .
-
-குளத்தை தூர்வாருதல் தொடர்பான பொறிமுறை நீண்ட காலத்தைக் கொண்டதாகக் காணப்படுவதாகவும், இதனால் தன்னார்வலர்கள் இந்த முயற்சியில் பங்கெடுக்க வந்தாலும் அவர்களும் சலிப்படைவதாகவும், கலந்துரையாடலில் சுட்டிக்காட்டப்பட்டது.
-
-...
-
-[Data](articles/1d3164d9.json)
 
 ---
 
@@ -660,22 +568,6 @@ Subsequently, the Indian media reports that the Election Commission of India has
 
 ---
 
-### Anger on Hasina, the destruction of Mujib's tradition in Bangladesh
-
-*2025-09-09 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224602) · `ta`
-
-'In February 2025, Hasina delivered a virtual speech in her deportation from India. In it, he called on his supporters to fight against the interim government. Subsequently, a gang associated with the protesters set fire to Mujibur Rahman's residence Tanmonti-32. In Pabna, Sadanga and Rangpur, the protesters damaged the murals of Mujibur Rahman. மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
-
-'Any challenge that arises for the established historical story begins with the formation of young students' minds. The interim government, led by Mohammed Yunus, has taken steps to create a different opinion. Set up a group to edit the existing textbooks. In the words of writer Rakal Raha, who was working on making changes to textbooks, the 'liberation of students from exaggerated and imposed history'
-
-◼️
-
-[Data](articles/04809cb9.json)
-
-[Extended Data](ext_articles/04809cb9.ext.json)
-
----
-
 ### Risk by buses that decorate like chariot in Nuwara Eliya
 
 *2025-09-09 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224605) · `ta`
@@ -891,6 +783,22 @@ Former Minister Rajitha Senaratne has been remanded to the Anuradhapura Magistra
 [Data](articles/a55d4625.json)
 
 [Extended Data](ext_articles/a55d4625.ext.json)
+
+---
+
+### Anger on Hasina, the destruction of Mujib's tradition in Bangladesh
+
+*2025-09-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224602) · `ta`
+
+'In February 2025, Hasina delivered a virtual speech in her deportation from India. In it, he called on his supporters to fight against the interim government. Subsequently, a gang associated with the protesters set fire to Mujibur Rahman's residence Tanmonti-32. In Pabna, Sadanga and Rangpur, the protesters damaged the murals of Mujibur Rahman. மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
+
+'Any challenge that arises for the established historical story begins with the formation of young students' minds. The interim government, led by Mohammed Yunus, has taken steps to create a different opinion. Set up a group to edit the existing textbooks. In the words of writer Rakal Raha, who was working on making changes to textbooks, the 'liberation of students from exaggerated and imposed history'
+
+◼️
+
+[Data](articles/04809cb9.json)
+
+[Extended Data](ext_articles/04809cb9.ext.json)
 
 ---
 
@@ -1915,5 +1823,97 @@ The 60th session of the United Nations Human Rights Council commenced in Geneva 
 [Data](articles/f14241c8.json)
 
 [Extended Data](ext_articles/f14241c8.ext.json)
+
+---
+
+### The scars of past violations have not yet been healed among victims - pointing to the British -led internet nations
+
+*2025-09-09 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224582) · `ta`
+
+The UN Human Rights Council (UNHRC) has pointed out at the UN Human Rights Council (UNHRC) that the British -led internet countries have pointed out that their scars are still ongoing among victims of illegal killings, torture and sexual violence in Sri Lanka.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the inaugural session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights System at 12.15 pm (Sri Lanka's Time P. 3.45).
+
+UN Human Rights High Commissioner Volkar Durg recently visited Sri Lanka on behalf of Sri Lanka's Internet and Britain, Canada, North Mesitonia, Monrenegro and Malawi during the debate on the report on the subsequent high -ranking high -ranking.
+
+He also pointed out that their scars are still ongoing among victims of the illegal killings, torture and sexual violence that took place in Sri Lanka in the past.
+
+...
+
+[Data](articles/40c0ef2c.json)
+
+[Extended Data](ext_articles/40c0ef2c.ext.json)
+
+---
+
+### Rehabilitation in ensuring responsibility for missing
+
+*2025-09-09 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224581) · `ta`
+
+The European Union, which has expressed dissatisfaction at the UN Human Rights Council, has pointed out that the recession is continuing to ensure the responsibility of the past violations, including the disappearances, and the central point of accountability.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the inaugural session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights System at 12.15 pm (Sri Lanka's Time P. 3.45).
+
+The EU representative, who commented on Sri Lanka's human rights situation during the debate on the subsequent high -ranking report, pointed out that the government is now in the chance to end the past.. He also urged the government's obligation to end them and ensure accountability.
+
+...
+
+[Data](articles/dbdc821b.json)
+
+[Extended Data](ext_articles/dbdc821b.ext.json)
+
+---
+
+### India urges Sri Lanka to hold a meaningful devolution - to hold provincial council elections
+
+*2025-09-09 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224580) · `ta`
+
+India, which urged Sri Lanka to take steps to fully implement the country's constitution, take immediate action to take up provincial council elections, and take steps to make a meaningful powers.
+
+In addition, the meaningful power of power and fair reconciliation, which includes all sides, will lead to sustainable peace
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday. Commenting on the statement on Sri Lanka's report on Sri Lanka at yesterday's opening session, the Indian Representative pointed out that India continued to support the country after the war in Sri Lanka in 2009 and the resettlement of the people after the end of the war in Sri Lanka.
+
+Similarly, when Sri Lanka was facing a major economic crisis in 2022, President Anura Kumara Dissanayake visited India in 2024 and Indian Prime Minister Narendra Modi visited Sri Lanka in April 2025.
+
+...
+
+[Data](articles/0eefc559.json)
+
+[Extended Data](ext_articles/0eefc559.ext.json)
+
+---
+
+### Minister Bimal Rathnayake addresses Jeddah Chamber of Commerce
+
+*2025-09-09 03:07:04* · [`dailyftlk`](https://www.ft.lk/business/Minister-Bimal-Rathnayake-addresses-Jeddah-Chamber-of-Commerce/34-781422) · `en`
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Rathnayake and his delegation were received by the Chairman, Vice-Chairman and the Secretary General of Jeddah Chamber of Commerce, the oldest Chamber in Saudi Arabia, on 4 September at its headquarters in Jeddah.
+
+Addressing the Chamber, Minister Rathnayake highlighted Sri Lanka’s strategic geographic location in the Indian Ocean and presented investment opportunities and proposals in ports, logistics and civil aviation sectors. He also briefed on the recent political transformation and economic stability in the country, underscoring the Government’s commitment to transparency and creating a corruption-free as well as investor-friendly environment.
+
+...
+
+[Data](articles/f6aa9044.json)
+
+[Extended Data](ext_articles/f6aa9044.ext.json)
+
+---
+
+### BASL, CSSL to strengthen ties between technology and law
+
+*2025-09-09 03:06:08* · [`dailyftlk`](https://www.ft.lk/business/BASL-CSSL-to-strengthen-ties-between-technology-and-law/34-781421) · `en`
+
+The Bar Association of Sri Lanka (BASL) yesterday said it has signed a Memorandum of Understanding (MoU) to foster collaboration with the Computer Society of Sri Lanka (CSSL).
+
+Under the MoU, CSSL commits to providing technical expertise to support BASL’s IT initiatives, digital transformation, and capacity-building projects. In return, BASL will extend its legal capacity-building creating a mutually beneficial partnership.
+
+This collaboration reflects a shared vision to integrate the strengths of both organisations, ensuring that BASL and CSSL remain responsive to the evolving needs of their members and the nation. Together, they aim to drive innovation, elevate professional standards, and promote growth within Sri Lanka’s ICT and legal communities.
+
+...
+
+[Data](articles/cce9fc5f.json)
+
+[Extended Data](ext_articles/cce9fc5f.ext.json)
 
 ---

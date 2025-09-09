@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 21:56:34**
+As of **2025-09-09 21:08:22**
 
 ## Newspaper Stats
 
-*Scraped **75,033** Articles*
+*Scraped **75,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,44 +19,18 @@ dailyftlk | 5,313
 adalk | 7,272
 adaderanalk | 9,613
 tamilmirrorlk | 11,188
-virakesarilk | 12,255
-adaderanasinhalalk | 13,073
+virakesarilk | 12,254
+adaderanasinhalalk | 13,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,176 (86.9%) of 75,033 articles have been extended.
+65,147 (86.8%) of 75,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### Uzman Shinvari registers retirement from cricket
-
-*2025-09-09 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214379) · `si`
-
-The Uzmann Shinvari has decided to retire from Pakistan fast bowler.
-
-It is reported that Uzmann Singura has announced this in a statement.
-
-He represented the Pakistan for about six years and played 17 ODIs and 16 Twenty20 matches.
-
-He has taken 13 wickets and 13 T20 wickets.
-
-Uzman obtained his best bowling talent in his second ODI, and he was able to take five wickets against Sri Lanka.
-
-In 2019, he took 5 wickets again against Sri Lanka in his final ODI.
-
-He was also a member in the Pakistan squad at the 2018 Asian Cup.
-
-◼️
-
-[Data](articles/6a421585.json)
-
-[Extended Data](ext_articles/6a421585.ext.json)
-
----
 
 ### Israel attacked to Qatar targeting Hamas leaders
 
@@ -332,25 +306,19 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 
 ---
 
-### The Select Committee of the President's Title Removal Act
+### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනතට ආංශික අධීක්ෂණ කාරක සභාවෙ අනුමතිය
 
 *2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
 
-The claim of the Presidents (Removal) Bill was approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.
+ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
 
-The committee met with its Chairman Hon.
+ඒ එම කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානත්වයෙන්  අද (09) වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
 
-Speaking on the Bill, the Ministry of Justice and National Integration (Ministry of Justice), as stated in the Government's policy statement, it is expected to remove non-economic rights of the President and future claims, as stated in the Government's policy statement.
-
-The officials said that they have provided the pensions and privileges of the Sri Lankan government, even after leaving former presidents or their families after they have left their posts, and their families.
-
-Accordingly, the claim of the Presidents will be debated tomorrow as the President of the President today is scheduled to be debated tomorrow (10).
+මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  පැවසුයේ රජයේ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර ඇති පරිදි, රටේ ආර්ථික තත්ත්වයන් සැලකිල්ලට ගෙන  ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  මඟින්, හිටපු ජනාධිපතිවරුන්ගේ සහ අනාගත ජනාධිපතිවරුන් සහ ඔවුන්ගේ පවුල් සඳහා ලබාදෙනු ලබන ආර්ථිකමය නොවන හිමිකම් ඉවත් කිරීමට අපේක්‍ෂා කරනු ලබන බවයි.
 
 ...
 
 [Data](articles/dff575f8.json)
-
-[Extended Data](ext_articles/dff575f8.ext.json)
 
 ---
 
@@ -637,22 +605,6 @@ Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The o
 [Data](articles/49ff9401.json)
 
 [Extended Data](ext_articles/49ff9401.ext.json)
-
----
-
-### கிளிநொச்சி மாவட்ட மக்களுக்கு முறையாக காணி அறுதி உறுதிப்பத்திரங்களை வழங்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - சிறிதரன்
-
-*2025-09-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224638) · `ta`
-
-கிளிநொச்சி மாவட்டத்தில் மக்களுக்கு முறையாக காணி அறுதி உறுதி பத்திரங்களை வழங்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும். வடக்கு மாகாணத்தில் விவசாயத்துறையில் ஏற்பட்டுள்ள பாதிப்புக்கு உடன் தீர்வு பெற்றுக்கொடுக்க வேண்டும் என இலங்கைத் தமிழரசுக் கட்சியின் யாழ் மாவட்ட பாராளுமன்ற உறுப்பினர் எஸ்.சிறிதரன்  வலியுறுத்தினார்.
-
-பாராளுமன்றத்தில் நேற்று செவ்வாய்க்கிழமை  நடைபெற்ற  அமர்வின் போது வாய்மூல விடைக்கான கேள்வி நேரத்தின் போது, கமத்தொழில், கால்நடை வளங்கள், காணி மற்றும் நீர்ப்பாசன அமைச்சரிடம் கேள்வி எழுப்பி உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்..
-
-நூறு வருடங்கள் கடந்துள்ள போதும் கிளிநொச்சி மாவட்டத்தில் மக்களுக்கு முறையாக காணி உறுதிப்பத்திரங்கள் வழங்கப்படவில்லை. உறுமய திட்டத்தில் வழங்கப்பட்ட பத்திரங்களும் அலுவலகங்களால் மீள பெற்றுக் கொள்ளப்படும் என கனி அரிசி உறுதிகளை வழங்க முடியாவிட்டால் தற்காலிகமாக வழங்கப்பட்ட உறுதி பத்திரங்களையாவது வழங்க நடவடிக்கை எடுக்க வேண்டும்.
-
-...
-
-[Data](articles/99d65460.json)
 
 ---
 
@@ -2051,5 +2003,43 @@ Various resolutions were passed at this meeting. Commenting on the resolution, t
 [Data](articles/c9c6ca27.json)
 
 [Extended Data](ext_articles/c9c6ca27.ext.json)
+
+---
+
+### Thailand's former Prime Minister Taksin Shinawatra sentenced one year in prison
+
+*2025-09-09 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224603) · `ta`
+
+The country's High Court has sentenced Thailand to former Prime Minister Taksin Shinawatra to one year in prison.
+
+International media reports that Thailand's High Court has ordered a former prime minister and billionaires to be jailed for one year on Tuesday (today).
+
+The Supreme Court ruled that it was illegal that Taxin had long stayed at the hospital last year.
+
+It is also reported that he ordered the court to serve the sentence in the Bangkok Remand Jail.
+
+◼️
+
+[Data](articles/b489e16a.json)
+
+[Extended Data](ext_articles/b489e16a.ext.json)
+
+---
+
+### Rajitha released on bail
+
+*2025-09-09 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214352) · `si`
+
+The Colombo Magistrate's Court set up former Minister Rajitha Senaratne to be released on bail.
+
+The suspect ordered that the suspect was released on two bail of Rs.
+
+Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Bribery Commission and the suspect's lawyers.
+
+◼️
+
+[Data](articles/e2937fac.json)
+
+[Extended Data](ext_articles/e2937fac.ext.json)
 
 ---

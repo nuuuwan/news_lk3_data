@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 22:10:40**
+As of **2025-09-09 22:54:48**
 
 ## Newspaper Stats
 
-*Scraped **75,034** Articles*
+*Scraped **75,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,93 @@ dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,272
 adaderanalk | 9,613
-tamilmirrorlk | 11,189
+tamilmirrorlk | 11,191
 virakesarilk | 12,255
-adaderanasinhalalk | 13,073
+adaderanasinhalalk | 13,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,194 (86.9%) of 75,034 articles have been extended.
+65,253 (87.0%) of 75,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### கத்தார் - தோஹாவில் இஸ்ரேல் தாக்குதல்
+### விஜயகாந்தின் சகோதரி உயிரிழந்தார்
+
+*2025-09-09 22:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜயகாந்தின்-சகோதரி-உயிரிழந்தார்/54-364311) · `ta`
+
+கேப்டன் விஜயகாந்த் அவர்களின் சகோதரி விஜயலட்சுமி இன்று காலமானார். அவரின் இறுதிச்சடங்கு நாளை மாலை 3 மணி அளவில் அவரது இல்லத்தில் நடைபெற உள்ளது.
+
+நடிகர் விஜயகாந்த் அவர்களுடன் பிறந்தவர்கள் ஆறு சகோதரர்கள், ஐந்து சகோதரிகள் என மொத்தம் 11 பேர். விஜயகாந்த் அவர்களின் மூத்த அண்ணன் பெயர் நாகராஜ், இவருக்கு அடுத்ததாக பிறந்தவர் தான் விஜயகாந்த். அவரைத் தொடர்ந்து, செல்வராஜ், பால் ராஜ், ராம்ராஜ், ப்ரித்விராஜ், விஜயலட்சுமி, சித்ரா, திருமலாதேவி, சாந்தி என வரிசையாக பிறந்தார்கள்.
+
+இதில், செல்வராஜ் மற்றும் பால்ராஜ் இருவர் மட்டுமே மதுரையில் வசித்து வருகிறார்கள். மதுரையில் விஜயகாந்த்தின் தந்தை கட்டிய ஆண்டல்பவன் இல்லத்தில் இவர்கள் இருவரும் குடும்பத்துடன் வசித்து வருகிறார்கள்.
+
+மற்ற சகோதரர், சகோதரிகள் அனைவரும் சென்னை, தேனி என பல ஊர்களில் இருக்கிறார்கள். இந்நிலையில், விஜயகாந்த் அவர்களின் மூத்த சகோதரி சென்னையில் தனது குடும்பத்தோடு வசித்து வந்த நிலையில் இன்று காலமானார்.
+
+...
+
+[Data](articles/c3583ce2.json)
+
+---
+
+### Killing the wife of former Prime Minister of Nepal
+
+*2025-09-09 22:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முன்னாள்-பிரதமரின்-மனைவி-எரித்துக்-கொலை/50-364305) · `ta`
+
+According to media reports, the former Prime Minister's wife was burnt alive in Nepal.
+
+Following the ban on social media sites by the Nepal government. 8) involved in great struggle. In this case, the struggle erupted in a riot.
+
+Rajyalakshmi Chitrakar, wife of former Nepal Prime Minister Jalanath Kanal in the riots (Sept.). 9) died. The protesters set fire to the house where he lived in Dallu area in Kathmandu. The house is on fire.
+
+In this context, Rajyalakshmi died today without treatment.. The media reported that this information was reported in close proximity to his family.. Remble
+
+◼️
+
+[Data](articles/a1afa833.json)
+
+[Extended Data](ext_articles/a1afa833.ext.json)
+
+---
+
+### සම්පත් මනම්පේරිට අයත් බව කියන මෝටර් රථයක් සොයාගනී
+
+*2025-09-09 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214380) · `si`
+
+පියල් මනම්පේරි නමැත්තාගේ සහෝදරයෙකු වන සම්පත් මනම්පේරිට අයත් බව කියන මෝටර් රථයක් අද (09) ඇඹිලිපිටිය පොලීසිය විසින් සොයාගෙන තිබේ.
+
+මේ සම්බන්ධයෙන් ගරාජයේ හිමිකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී හෙළිවී ඇත්තේ මීට දින 4කට පෙර පුද්ගලයෙකු පැමිණ මෙම මෝටර් රථය සම්පත් මනම්පේරිට ලබාදෙන ලෙස පවසමින් අදාළ මෝටර් රථය දමා ගිය බවය.
+
+සංවිධානාත්මක අපරාධ කල්ලි සමාජිකයෙකු වූ කෙසෙල්බද්දර පද්මේ නැමැත්තාට අයත් බව කියන මිද්දෙණියේදී හසුවූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීම සඳහා යොදා ගන්නා අමුද්‍රව්‍ය අඩංගු බහාලුම් දෙක සඟවා තැබූ බව කියන සිද්ධිය සම්බන්ධයෙන් සම්පත් මනම්පේරිට චෝදනා එල්ලවී තිබේ.
+
+මේ අතර පියල් මනම්පේරි නමැත්තාගේ සහෝදරයෙකු වන සම්පත් මනම්පේරි නමැත්තාගේ පක්ෂ සාමාජිකත්වය තහනම් කිරීමට පසුගියදා ශ්‍රී ලංකා පොදුජන පෙරමුණ පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/0348b050.json)
+
+---
+
+### Qatar - Israel attack in Doha
 
 *2025-09-09 21:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கத்தார்-தோஹாவில்-இஸ்ரேல்-தாக்குதல்/50-364300) · `ta`
 
-ஹமாஸ் இயக்கத் தலைவர்களை குறிவைத்து கத்தார் தலைநகர் தோஹாவில் இஸ்ரேல் இன்று தாக்குதல் நடத்தியது.
+Israel today launched an offensive in Qatar's capital, Doha, targeting Hamas movement leaders.
 
-மத்திய கிழக்கு முழுவதும் தனது ராணுவ நடவடிக்கைகளை விரிவுபடுத்தி வரும் இஸ்ரேல், ஹமாஸ் அரசியல் தளம் அமைந்துள்ள கத்தாரையும் தனது இலக்காகக் கொண்டுள்ளது.
+Israel, which is expanding its military operations throughout the Middle East, is also aimed at Qatar, where the Hamas political base is located.
 
-கத்தாரில் உள்ள ஹமாஸ் தலைவர்கள்மீது இஸ்ரேல் தாக்குதல் நடத்தியதை இஸ்ரேலிய அதிகாரி ஒருவர் ராய்ட்டர்ஸ் செய்தி நிறுவனத்திடம் உறுதிப்படுத்தினார்.
+An Israeli official confirmed to Reuters News that Israel's attack on Hamas leaders in Qatar.
 
-ஹமாஸ் தரப்பை மேற்கோள்காட்டிய கத்தாரின் அல் ஜசிரா தொலைக்காட்சி, இந்தத் தாக்குதல் ஹமாசின் காஸா போர் நிறுத்தப் பேச்சுவார்த்தை நடத்தியோர்மீது மேற்கொள்ளப்பட்டதாகத் தெரிவித்தது. R
+Qatar's al -Jasira Television, which cited Hamas, reported that the attack was held on the Hamas Gaza Ceylon Ceylon. Remble
 
 ◼️
 
 [Data](articles/cb76ea4a.json)
+
+[Extended Data](ext_articles/cb76ea4a.ext.json)
 
 ---
 
@@ -2001,59 +2059,5 @@ Subsequently, the Indian media reports that the Election Commission of India has
 [Data](articles/04809cb9.json)
 
 [Extended Data](ext_articles/04809cb9.ext.json)
-
----
-
-### Risk by buses that decorate like chariot in Nuwara Eliya
-
-*2025-09-09 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224605) · `ta`
-
-Increasing traffic violations in Nuwara Eliya causes sound, light serious impact. There is also the expectation that buses coming to Nuwara Eliya should immediately control the impacts of high sound and light caused by traffic violations.
-
-Tourist arrivals, especially in some tourist places, including the Nuwara Eliya Gregory Wavik coast, are being equipped with more and more hazardous parts, which can be made in modern design and accidents that can cause accidents.. As well as the vibrant loudest songs, they spend their time. It is using the sound raises that can raise high sounds (Horn). The general public is accused of not finding police or traffic violations.
-
-The buses coming to Nuwara Eliya are equipped with modern (LED) mutations that are capable of emitting more light. These buses, which spread light with a large number of lights in the center of the city of Nuwara Eliya, are shying at the eyes of motorists.
-
-...
-
-[Data](articles/3bb681d3.json)
-
-[Extended Data](ext_articles/3bb681d3.ext.json)
-
----
-
-### Bail for Rajitha Senaratne
-
-*2025-09-09 10:55:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-சேனாரத்னவுக்கு-பிணை/175-364256) · `ta`
-
-He was granted bail as he was prosecuted at the Colombo Magistrate's Court this morning.
-
-Accordingly, the magistrate ordered the release of the suspect in cash bail of Rs 50,000 and two body bail worth Rs 2 million each and banned the suspect from going abroad.
-
-Rajitha was arrested after appearing in court on August 29 following the arrest of him on the allegation of corruption.. Remble
-
-◼️
-
-[Data](articles/ae12f9d2.json)
-
-[Extended Data](ext_articles/ae12f9d2.ext.json)
-
----
-
-### We will no longer buy cinnamon from Sri Lanka
-
-*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இலங்கையில்-இருந்து-இலவங்கம்-வாங்க-மாட்டோம்/175-364255) · `ta`
-
-இலங்கை அரசு தமிழக மீனவர்களின் படகுகளை சேதப்படுத்தி துன்புறுத்தினால் இலங்கையில் இருந்து வரும் இலவங்கம் உள்ளிட்ட எவ்வித பொருட்களையும் வாங்க மாட்டோம் என  வர்த்தக நல சங்க கூட்டத்தில் தீர்மானம் நிறைவேற்றப்பட்டது.
-
-The 101st General Assembly Meeting of the Salem Tuesday Welfare Association was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
-
-Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
-
-...
-
-[Data](articles/0ac03499.json)
-
-[Extended Data](ext_articles/0ac03499.ext.json)
 
 ---

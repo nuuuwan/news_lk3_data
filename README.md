@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 13:06:03**
+As of **2025-09-09 12:55:51**
 
 ## Newspaper Stats
 
-*Scraped **74,954** Articles*
+*Scraped **74,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,257
-adaderanalk | 9,600
+adaderanalk | 9,598
 tamilmirrorlk | 11,171
 virakesarilk | 12,245
 adaderanasinhalalk | 13,053
@@ -26,47 +26,11 @@ adaderanasinhalalk | 13,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,694 (86.3%) of 74,954 articles have been extended.
+64,694 (86.3%) of 74,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### Colombo Magistrate’s Court concludes corruption case against Keheliya and family
-
-*2025-09-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112316/colombo-magistrates-court-concludes-corruption-case-against-keheliya-and-family-) · `en`
-
-As the Bribery Commission has filed a case against former Minister Keheliya Rambukwella and his family members before the Colombo High Court on charges under the Prevention of Money Laundering Act, Colombo Chief Magistrate Asanka S. Bodaragama today (09) ordered the conclusion of the proceedings pending before the Colombo Magistrate’s Court in this matter.
-
-The Chief Magistrate directed the defendants to appear before the Colombo High Court on the scheduled dates, Ada Derana reporter said.
-
-When the case was taken up today, officials of the Bribery Commission informed the court that indictments have been filed against the defendants before the Colombo High Court in connection with the aforementioned investigation.
-
-...
-
-[Data](articles/f31b83e9.json)
-
----
-
-### Ten people killed, 61 hurt after train hits double-decker bus in Mexico
-
-*2025-09-09 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112315/ten-people-killed-61-hurt-after-train-hits-double-decker-bus-in-mexico) · `en`
-
-Ten people were killed and at least 61 were injured in central Mexico when a freight train smashed into a double-decker passenger bus, which the train operator said had been attempting to pass in front of the moving train.
-
-Canadian Pacific Kansas City de Mexico, the railway, expressed its condolences to the victims’ families and called on drivers to respect road signs and stop orders at railroad crossings.
-
-Bus operator Herradura de Plata did not immediately respond to a request for comment.
-
-Images from the scene showed the front part of the top deck of the bus smashed in and its metal frame badly dented, as first responders cordoned off the area.
-
-The collision happened in an industrial zone on the highway between Atlacomulco, a town some 115 km (71 miles) northwest of the capital Mexico City, and Maravatio, in nearby Michoacan state, local authorities said.
-
-...
-
-[Data](articles/84cf3629.json)
-
----
 
 ### 2026 Appropriation Bill approved
 
@@ -784,9 +748,7 @@ Accordingly, the Supreme Court held that the bill can be enacted by a simple maj
 
 Furthermore, the Speaker revealed that the Supreme Court has dismissed the petition filed against this Bill as the petitioner has failed to invoke jurisdiction in accordance with the mandatory provisions of Article 121(1) of the Constitution.
 
-The Supreme Court had previously, on August 25, indicated that it would submit its confidential determination on the constitutionality of the bill—aimed at removing privileges of retired Presidents—to the Speaker of Parliament.
-
-...
+◼️
 
 [Data](articles/b2dcd4cb.json)
 
@@ -1891,5 +1853,47 @@ At the same time, the opposition parties are urging not only the Prime Minister 
 [Data](articles/a4a26f7a.json)
 
 [Extended Data](ext_articles/a4a26f7a.ext.json)
+
+---
+
+### 2025-09-08 (Monday)
+
+### Tribute to Nanda Malini
+
+*2025-09-08 23:55:00* · [`islandlk`](http://island.lk/tribute-to-nanda-malini/) · `en`
+
+Several well-known artistes rallied around the legendary T. M. Jayaratne and Deepika Priyadarshani to pay tribute to the very famous Nanda Malini, and it was done by way of a song, specially composed for her 82nd birthday, which was on Saturday, 23rd August.
+
+This historic tribute, titled ‘Maliniye Nanda,’ was sung by T. M. Jayaratne, Deepika Priyadarshani, Rajiv Sebastian, Shyami Fonseka, Raymond Fonseka, Priya Peiris, Walter Fernando, Corrine Almeida, Athula Adhikari, Sewwandi Ranatunga, Piyal Perera, Sohan Weerasinghe, Damian Wikkramatillake and Mario Ananda.
+
+Rajiv Sebastian was responsible for the lyrics, melody, music arrangements, concept and the storyboard.
+
+He and his band, Rajiv & The Clan, were also involved in providing the music for the artistes to do the needful on ‘Maliniye Nanda’.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/13d78343.json)
+
+[Extended Data](ext_articles/13d78343.ext.json)
+
+---
+
+### DFCC Bank and WWCT partner to advance biodiversity and landscape conservation through leopard protection
+
+*2025-09-08 23:24:00* · [`islandlk`](http://island.lk/dfcc-bank-and-wwct-partner-to-advance-biodiversity-and-landscape-conservation-through-leopard-protection/) · `en`
+
+DFCC Bank has announced a strategic three-year partnership with the Wilderness and Wildlife Conservation Trust (WWCT) to support a science-based initiative aimed at conserving Sri Lanka’s biodiversity by focusing on the protection of the island’s apex predator, the threatened Sri Lankan leopard (Panthera pardus kotiya).
+
+The partnership is anchored in the understanding that the leopard is an umbrella species. Protecting it also safeguards entire ecosystems and countless other species that share its habitat. By supporting leopard conservation, DFCC Bank and WWCT are making a wider commitment to biodiversity protection, environmental resilience, and sustainable coexistence between people and wildlife.
+
+...
+
+[Data](articles/41075860.json)
+
+[Extended Data](ext_articles/41075860.ext.json)
 
 ---

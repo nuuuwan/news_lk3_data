@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 04:54:22**
+As of **2025-09-10 05:19:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,628 (87.4%) of 75,055 articles have been extended.
+65,643 (87.5%) of 75,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,9 +36,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-10 03:53:43* · [`dailyftlk`](https://www.ft.lk/columns/Separating-Chairman-and-CEO-roles-in-PLCs/4-781439) · `en`
 
-At a recent forum organised by the Sri Lanka Institute of Directors (SLID), the CSE, and the SEC, business leader Murtaza Jafferjee made a powerful case for separating the roles of Chairman and Chief Executive Officer (CEO). This argument aligns with a global consensus on corporate governance: structures that ensure accountability, transparency, and oversight are fundamental to a company’s health and investor trust.
-
-From my experience as Chairman of three listed banks, including Sri Lanka’s two largest, I firmly believe this separation is not just beneficial but essential within the financial sector. However, for companies with concentrated, family-owned, or founder-led structures, the issue demands a more nuanced approach.
+From left: HNB Investment Bank Group Chief Strategy Officer Dr. Yaveen Jayasekera, Frontier Research CEO Nimesha Jayakody, JB Securities CEO and Advocata Institute Chairman Murtaza Jafferjee, Securities and Exchange Commission Chairman Senior Prof. D.B.P.H. Dissabadara, Lynear Wealth Management Managing Director and Co-Founder Dr. Naveen Gunawardane, Alliance Finance Company Deputy Chairman and Managing Director Romani De Silva, Moderator – Independent Consultant Chanaka Wickramasuriya, and Colombo Stock Exchange Marketing Senior Vice President Niroshan Wijesundere – Pix by Ruwan Walpola
 
 ...
 

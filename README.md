@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 23:56:30**
+As of **2025-09-09 22:54:48**
 
 ## Newspaper Stats
 
-*Scraped **75,044** Articles*
+*Scraped **75,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,110 +17,36 @@ islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,272
-adaderanalk | 9,617
+adaderanalk | 9,613
 tamilmirrorlk | 11,191
-virakesarilk | 12,257
-adaderanasinhalalk | 13,075
+virakesarilk | 12,255
+adaderanasinhalalk | 13,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,346 (87.1%) of 75,044 articles have been extended.
+65,253 (87.0%) of 75,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### Armed forces to defend law and order in Nepal
-
-*2025-09-09 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214381) · `si`
-
-The military and the security forces have taken steps to protect the law and order in Nepal today (09).
-
-The decisions have been made to control the escalating violence, the Nepal said.
-
-The announcement issued by the Nepali Army states that some group robbery, fireplaces, and property will be destroyed.
-
-Meanwhile, Indian media reported that the wife of a former former Prime Minister had been burnt by the protesters.
-
-The deceased has been identified as Rajyalationi, wife, Jalnaath Khadari.
-
-It is reported that the protesters have been set on fire and set on the house.
-
-After the former Prime Minister Chitrakar, the former Prime Minister Chitrakar, was immediately enrolled at Keertripur Burry Hospital, but he had died during treatment.
-
-The protests began yesterday after the government's decision to ban 26 social media covers yesterday.
-
-The majority of the new generation of new teenagers, which have been protesting against social media censorship, are young.
-
-...
-
-[Data](articles/587ad91c.json)
-
-[Extended Data](ext_articles/587ad91c.ext.json)
-
----
-
-### Nepal Army to take charge of security following violent protests
-
-*2025-09-09 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112337/nepal-army-to-take-charge-of-security-following-violent-protests) · `en`
-
-The Nepal Army on Tuesday said that it will take charge of security operations from 10 pm, hours after Prime Minister K P Sharma Oli resigned following 27 hours of violent protests in Kathmandu and other parts of the country.
-
-In a statement issued by the Directorate of Public Relations and Information, the army said that “some groups are taking undue advantage of the difficult situation and causing severe damage to ordinary citizens and public property”.
-
-It warned that all security mechanisms, including the Nepal Army, will be mobilised to contain the violence if such activities continue.
-
-The Nepal Army also appealed for public cooperation, urging citizens not to engage in or support destructive acts.
-
-...
-
-[Data](articles/3be62d1b.json)
-
-[Extended Data](ext_articles/3be62d1b.ext.json)
-
----
-
-### I. Na. Sri Lanka's Tamil State Party is disappointing at the Human Rights Council session -
-
-*2025-09-09 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224682) · `ta`
-
-Sixteen years after the end of the armed struggle, no internal accountability mechanisms have not yet been developed. In this context, the UN says that the victims have no choice but to seek international involvement.. The Sri Lankan Tamil state party has said that Sri Lanka's report is unmistakable.
-
-In a statement issued by the Sri Lanka Tamil Nadu Party, the Sri Lanka Tamil Nadu Party further stated that it is.
-
-Foreign Minister Vijitha Herath was held in Geneva. Na. Here is our deepest disappointment that the government has not yet responded to many major concerns on accountability and reconciliation in response to the 60th session of the Human Rights Council.
-
-This government made many promises when taking office. However, even after a full year of the presidential election, the first step to fulfilling those promises has not yet been taken.
-
-...
-
-[Data](articles/36f3dbb7.json)
-
-[Extended Data](ext_articles/36f3dbb7.ext.json)
-
----
-
-### Vijayakanth's sister died
+### விஜயகாந்தின் சகோதரி உயிரிழந்தார்
 
 *2025-09-09 22:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜயகாந்தின்-சகோதரி-உயிரிழந்தார்/54-364311) · `ta`
 
-Captain Vijayakanth's sister Vijayalakshmi passed away today. Her funeral will be held at her residence tomorrow at 3 pm.
+கேப்டன் விஜயகாந்த் அவர்களின் சகோதரி விஜயலட்சுமி இன்று காலமானார். அவரின் இறுதிச்சடங்கு நாளை மாலை 3 மணி அளவில் அவரது இல்லத்தில் நடைபெற உள்ளது.
 
-Actor Vijayakanth was born with six brothers and five sisters in total. Vijayakanth's eldest brother's name is Nagaraj and Vijayakanth is the next born.. Following him, Selvaraj, Paul Raj, Ramraj, Prithviraj, Vijayalakshmi, Chitra, Thirumaladevi and Shanti were born.
+நடிகர் விஜயகாந்த் அவர்களுடன் பிறந்தவர்கள் ஆறு சகோதரர்கள், ஐந்து சகோதரிகள் என மொத்தம் 11 பேர். விஜயகாந்த் அவர்களின் மூத்த அண்ணன் பெயர் நாகராஜ், இவருக்கு அடுத்ததாக பிறந்தவர் தான் விஜயகாந்த். அவரைத் தொடர்ந்து, செல்வராஜ், பால் ராஜ், ராம்ராஜ், ப்ரித்விராஜ், விஜயலட்சுமி, சித்ரா, திருமலாதேவி, சாந்தி என வரிசையாக பிறந்தார்கள்.
 
-Of these, only Selvaraj and Balraj live in Madurai. The two lives with their family at the Andalpavan residence built by Vijayakanth's father in Madurai.
+இதில், செல்வராஜ் மற்றும் பால்ராஜ் இருவர் மட்டுமே மதுரையில் வசித்து வருகிறார்கள். மதுரையில் விஜயகாந்த்தின் தந்தை கட்டிய ஆண்டல்பவன் இல்லத்தில் இவர்கள் இருவரும் குடும்பத்துடன் வசித்து வருகிறார்கள்.
 
-The other brothers and sisters are all in Chennai and Theni. In this case, Vijayakanth's elder sister passed away today with her family in Chennai.
-
-Her funeral will be held tomorrow evening from one hour to three o'clock, at his residence on North Cross Street, Anna Nagar. Many are condoled by the death of Vijayakanth's older sister.
+மற்ற சகோதரர், சகோதரிகள் அனைவரும் சென்னை, தேனி என பல ஊர்களில் இருக்கிறார்கள். இந்நிலையில், விஜயகாந்த் அவர்களின் மூத்த சகோதரி சென்னையில் தனது குடும்பத்தோடு வசித்து வந்த நிலையில் இன்று காலமானார்.
 
 ...
 
 [Data](articles/c3583ce2.json)
-
-[Extended Data](ext_articles/c3583ce2.ext.json)
 
 ---
 
@@ -144,23 +70,21 @@ In this context, Rajyalakshmi died today without treatment.. The media reported 
 
 ---
 
-### Find a car called Sampath Manampara
+### සම්පත් මනම්පේරිට අයත් බව කියන මෝටර් රථයක් සොයාගනී
 
 *2025-09-09 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214380) · `si`
 
-Embilipitiya Police have found a car named Palhakarari's brother, Sampath Manampera today (09).
+පියල් මනම්පේරි නමැත්තාගේ සහෝදරයෙකු වන සම්පත් මනම්පේරිට අයත් බව කියන මෝටර් රථයක් අද (09) ඇඹිලිපිටිය පොලීසිය විසින් සොයාගෙන තිබේ.
 
-The interrogation from the garage owner has revealed that a person had been put into the car and left the car to give the car at Sampath Manampera.
+මේ සම්බන්ධයෙන් ගරාජයේ හිමිකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී හෙළිවී ඇත්තේ මීට දින 4කට පෙර පුද්ගලයෙකු පැමිණ මෙම මෝටර් රථය සම්පත් මනම්පේරිට ලබාදෙන ලෙස පවසමින් අදාළ මෝටර් රථය දමා ගිය බවය.
 
-Sampath Manampet has been accused of concealing the two containers used to produce ice materials used in the Middeniya, who was used to manufacture the ice materials used in Keltadadara Paddle, who was named as a group of organized criminal gangs.
+සංවිධානාත්මක අපරාධ කල්ලි සමාජිකයෙකු වූ කෙසෙල්බද්දර පද්මේ නැමැත්තාට අයත් බව කියන මිද්දෙණියේදී හසුවූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීම සඳහා යොදා ගන්නා අමුද්‍රව්‍ය අඩංගු බහාලුම් දෙක සඟවා තැබූ බව කියන සිද්ධිය සම්බන්ධයෙන් සම්පත් මනම්පේරිට චෝදනා එල්ලවී තිබේ.
 
-Meanwhile, the Sri Lanka Civil Arose Front has recently taken measures to prohibit the party's membership of the brother of Palhakarakarai.
+මේ අතර පියල් මනම්පේරි නමැත්තාගේ සහෝදරයෙකු වන සම්පත් මනම්පේරි නමැත්තාගේ පක්ෂ සාමාජිකත්වය තහනම් කිරීමට පසුගියදා ශ්‍රී ලංකා පොදුජන පෙරමුණ පියවර ගෙන තිබුණි.
 
 ◼️
 
 [Data](articles/0348b050.json)
-
-[Extended Data](ext_articles/0348b050.ext.json)
 
 ---
 
@@ -181,28 +105,6 @@ Qatar's al -Jasira Television, which cited Hamas, reported that the attack was h
 [Data](articles/cb76ea4a.json)
 
 [Extended Data](ext_articles/cb76ea4a.ext.json)
-
----
-
-### CP Radhakrishnan elected as India’s 15th Vice President
-
-*2025-09-09 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112336/cp-radhakrishnan-elected-as-indias-15th-vice-president) · `en`
-
-BJP veteran and former Maharashtra governor CP Radhakrishnan was elected the Vice President of India on Tuesday, defeating Opposition INDIA bloc nominee Justice (retd) B. Sudershan Reddy in a largely one-sided contest.
-
-Radhakrishnan, 68, secured 542 votes, while Reddy, fielded as a symbolic challenger by the Opposition, polled 300 votes. With the ruling NDA commanding a comfortable majority, the outcome was widely anticipated.
-
-A lifelong member of the RSS and a two-time MP from Coimbatore, Radhakrishnan has been known for his conciliatory style of politics, earning the moniker “Vajpayee of Coimbatore.”
-
-His elevation, political observers say, signals the BJP’s intent to deepen its influence in southern India, particularly Tamil Nadu, which heads for polls next year.
-
-The choice of Radhakrishnan also highlights the BJP’s strategy of OBC consolidation, as he belongs to the Gounder community, influential in western Tamil Nadu.
-
-...
-
-[Data](articles/de114d5a.json)
-
-[Extended Data](ext_articles/de114d5a.ext.json)
 
 ---
 
@@ -268,28 +170,6 @@ The first match between the Afghan group and the Hong Kong team will commence in
 
 ---
 
-### Several blasts heard in Qatar’s Doha, Israeli media says Hamas leadership targeted
-
-*2025-09-09 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112333/several-blasts-heard-in-qatars-doha-israeli-media-says-hamas-leadership-targeted) · `en`
-
-Israeli army radio said Israel tried to attack Hamas officials in Qatar on Tuesday.
-
-Qatar’s Al Jazeera television, citing a Hamas source, said the attack targeted Hamas Gaza ceasefire negotiators.
-
-Several blasts were heard in Qatar’s Doha on Tuesday, Reuters witnesses said.
-
-Israel media, citing a senior Israeli official, said the attack was aimed at top Hamas leaders including Khalil al-Hayya, its Gaza chief.
-
-Smoke was seen rising over the Katara District in the capital, an eyewitness said.
-
-◼️
-
-[Data](articles/a3e4b477.json)
-
-[Extended Data](ext_articles/a3e4b477.ext.json)
-
----
-
 ### The person who was attacked by the thief was self -styled
 
 *2025-09-09 19:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருடன்-என்று-தவறாக-கருதி-தாக்கப்பட்ட-நபர்-தன்னுயிரை-மாய்த்தார்/175-364296) · `ta`
@@ -345,26 +225,6 @@ The protests began yesterday after the government's decision to ban 26 social me
 [Data](articles/cf909347.json)
 
 [Extended Data](ext_articles/cf909347.ext.json)
-
----
-
-### Nepal’s Supreme Court and ministers’ homes set on fire amidst public revolt
-
-*2025-09-09 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112332/nepals-supreme-court-and-ministers-homes-set-on-fire-amidst-public-revolt) · `en`
-
-VIDEO | Nepal: Protesters set the Supreme Court in Kathmandu on fire amid anti-government protests.#Nepalprotest (Full video available on PTI Videos - https://t.co/n147TvrpG7) pic.twitter.com/1ZlWODFC6C— Press Trust of India (@PTI_News) September 9, 2025
-
-Nepal’s Parliament building, Supreme Court, and residences of several senior leaders were set ablaze on Tuesday as anti-government protests spiralled out of control, minutes after Prime Minister K P Sharma Oli resigned.
-
-Visuals shared by news agency PTI confirmed the fire at the Supreme Court, while the storming and burning of Parliament was reported by television channels and attested to by multiple reporters on the ground.
-
-Oli stepped down shortly after hundreds of demonstrators entered his office shouting anti-government slogans. Reports also suggested he is preparing to flee Nepal, with speculation of a possible trip to Dubai under the pretext of medical treatment. ET Online could not independently verify these claims.
-
-...
-
-[Data](articles/458e3af8.json)
-
-[Extended Data](ext_articles/458e3af8.ext.json)
 
 ---
 
@@ -856,28 +716,6 @@ Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The o
 
 ---
 
-### Israel has visited Sri Lankan journalists as a personal visit - Kausalya Aryaratne
-
-*2025-09-09 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224643) · `ta`
-
-The state of those who refer to break up all relationships with Israel. Sri Lankan journalists have visited Israel as a personal visit to Israel. "I am certain that the government has not elected anyone," said Dr. Kausalya Aryaratne of the National People's Power Colombo District Parliamentarian.
-
-He was speaking at a debate on the versatile agreement between Sri Lanka and the United Arab Emirates held in Parliament yesterday.
-
-None of Sri Lankan journalists from Israel have been sent with the government. It is a personal visit.. Journalists also go.
-
-More than 20 thousand Sri Lankans work in Israel. Due to the prevailing problems, diplomatic relations between Sri Lanka and Israel cannot be broken.
-
-Must examine the mindset of those who refer to break up all relationships with Israel. Sri Lankan journalists have visited Israel as a personal visit to Israel. I am sure that the government has not elected anyone.
-
-◼️
-
-[Data](articles/5d87b9e2.json)
-
-[Extended Data](ext_articles/5d87b9e2.ext.json)
-
----
-
 ### The government should take steps to provide the people of Kilinochchi district formally - Sridharan
 
 *2025-09-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224638) · `ta`
@@ -1026,13 +864,9 @@ The Gen Z protesters shouted slogans like “KP Chor, Desh Chhod”, “Take Act
 
 *2025-09-09 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112324/sectoral-oversight-committee-on-justice-approves-presidents-entitlements-repeal-bill) · `en`
 
-The Presidents’ Entitlements (Repeal) Bill has been approved after consideration by the Sectoral Oversight Committee on Governance, Justice and Civil Protection.
+The Sectoral Oversight Committee on Governance, Justice, and Civil Protection has approved the Presidents’ Entitlements (Repeal) Bill.
 
-The approval was granted by the Committee during a meeting held in Parliament under the chairmanship of Member of Parliament Dr. Najith Indika, today (09).
-
-Commenting on the Bill, officials of the Ministry of Justice and National Integration said that, as stated in the Government Policy Statement, the Presidents’ Entitlements (Repeal) Bill is expected to remove non-economic entitlements granted to former and future Presidents and their families, taking into account the economic conditions of the country.
-
-...
+◼️
 
 [Data](articles/b8a1c5db.json)
 
@@ -2101,5 +1935,129 @@ Visites inquiry say that they were siunded only only previously cultivated chena
 [Data](articles/bb59c71a.json)
 
 [Extended Data](ext_articles/bb59c71a.ext.json)
+
+---
+
+### Change the original format and modapo. Unregistered Bowser owner and driver sued
+
+*2025-09-09 11:04:27* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘතිය-වෙනස්-කර-මෝ-ර-ප්‍ර--දෙපාර්තමේන්තුවේ-ලියාපදිංචි-නොකළ බවුසර්-රථ-හිමිකරුට-හා-රියදුරුට-නඩු/11-418372) · `si`
+
+Nuwara Eliya Chief Motor Jaliya Bandara said that the Veton Magistrate's traffic official office was instructed to take legal action against the Bowser of the Motor Traffic and the owner.
+
+A three-wheeler in Hatton Colombo main road, a three-wheeler in Hatton Colombo main road, was seriously injured in a three-wheeler in Hatton Colombo main road to the Kotagala. The driver of the Balazer's vehicle was arrested by the Veton Police and the bowsers were taken into police custody after admission to the Watawala Regional Hospital.
+
+The bowser of the police custody was inspected by the Testing of the Motor Inspection of the Department of Motor Traffic.
+
+The owners of the lorry are consistently inspected by the vehicle department as a fuel traffic bowser.
+
+...
+
+[Data](articles/c5774965.json)
+
+[Extended Data](ext_articles/c5774965.ext.json)
+
+---
+
+### Keheliya's case is over
+
+*2025-09-09 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214354) · `si`
+
+The Bribery Commission has filed a case before the Bribery Commission, including former Minister Keheliya Rambukwella, has filed a case before the Colombo High Court.
+
+◼️
+
+[Data](articles/ddcac502.json)
+
+[Extended Data](ext_articles/ddcac502.ext.json)
+
+---
+
+### Former Minister releases on bail
+
+*2025-09-09 11:01:18* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රාජිත-ඇප-මත-මුදා-හරියි/11-418371) · `si`
+
+Former Minister Rajitha Senaratne, who was remanded in the custody, has been released on bail.
+
+The Magistrate ordered that the suspect was ordered to be released on two bail of Rs.
+
+◼️
+
+[Data](articles/c62420ba.json)
+
+[Extended Data](ext_articles/c62420ba.ext.json)
+
+---
+
+### Sri Lanka secures USD 100 million funding from World Bank to enhance rural economy
+
+*2025-09-09 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112314/sri-lanka-secures-usd-100-million-funding-from-world-bank-to-enhance-rural-economy) · `en`
+
+More than 380,000 people across Sri Lanka are set to benefit from a new US$100 million partnership between the Government of Sri Lanka and the World Bank Group aimed at strengthening rural livelihoods, creating jobs, and building climate resilience in the agri-food sector.
+
+The Integrated “Rurban” (Rural and Urban) Development and Climate Resilience Project, will directly support 8,000 agri-food producers, improve irrigation and drainage services on 71,000 hectares of land, and help smallholder farmers adopt modern, climate-smart agricultural practices that increase harvests and reduce losses. It also aims to generate new jobs in rural areas-particularly for youth and women-by strengthening agribusiness value chains and expanding market access.
+
+...
+
+[Data](articles/14d53662.json)
+
+[Extended Data](ext_articles/14d53662.ext.json)
+
+---
+
+### Bus killed in Mexico hit by train
+
+*2025-09-09 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214353) · `si`
+
+A bus collided with a bus in Mexico, 10 people were also killed.
+
+Foreign media reports that seven women and three men were killed in the accident.
+
+41 persons were injured in the accident and several of them are in critical condition.
+
+Foreign media reports that a train and two-story buses have been in danger of a railway crossing in Mexico.
+
+◼️
+
+[Data](articles/bdb17976.json)
+
+[Extended Data](ext_articles/bdb17976.ext.json)
+
+---
+
+### Vice President of India today
+
+*2025-09-09 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224606) · `ta`
+
+According to the Indian media, the polling process, which began at 10 am, will take place till 5 pm.
+
+In the election, the ruling NTA. On behalf of the coalition, Maharashtra Governor CP. Radhakrishnan is competing.
+
+Similarly, on behalf of the India coalition, former High Court Judge Sudarshan Reddy is contesting.
+
+Jagadeep Tankar, who was the Vice President of the Republic of India, suddenly resigned from his post on the first night of the parliamentary monsoon session on July 21.
+
+Subsequently, the Indian media reports that the Election Commission of India has announced the election for the post of Vice President of the Republic.
+
+◼️
+
+[Data](articles/71980403.json)
+
+[Extended Data](ext_articles/71980403.ext.json)
+
+---
+
+### Anger on Hasina, the destruction of Mujib's tradition in Bangladesh
+
+*2025-09-09 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224602) · `ta`
+
+'In February 2025, Hasina delivered a virtual speech in her deportation from India. In it, he called on his supporters to fight against the interim government. Subsequently, a gang associated with the protesters set fire to Mujibur Rahman's residence Tanmonti-32. In Pabna, Sadanga and Rangpur, the protesters damaged the murals of Mujibur Rahman. மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
+
+'Any challenge that arises for the established historical story begins with the formation of young students' minds. The interim government, led by Mohammed Yunus, has taken steps to create a different opinion. Set up a group to edit the existing textbooks. In the words of writer Rakal Raha, who was working on making changes to textbooks, the 'liberation of students from exaggerated and imposed history'
+
+◼️
+
+[Data](articles/04809cb9.json)
+
+[Extended Data](ext_articles/04809cb9.ext.json)
 
 ---

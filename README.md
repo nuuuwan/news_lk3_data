@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 04:55:35**
+As of **2025-09-09 06:21:26**
 
 ## Newspaper Stats
 
-*Scraped **74,859** Articles*
+*Scraped **74,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 763
-economynextcom | 4,537
-islandlk | 4,599
+economynextcom | 4,538
+islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,244
 adaderanalk | 9,585
-tamilmirrorlk | 11,148
+tamilmirrorlk | 11,149
 virakesarilk | 12,233
 adaderanasinhalalk | 13,037
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 13,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,278 (85.9%) of 74,859 articles have been extended.
+64,315 (85.9%) of 74,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
+
+### Sri Lanka calls investors to double refinery capacity as BOT project
+
+*2025-09-09 05:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-investors-to-double-refinery-capacity-as-bot-project-239768/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation has called expression of interest from private investors to expand its 50,000 barrels per day refinery into 100,000 barrels or to set up an entirely new one in the same premises.
+
+“This Development and Expansion Project represents a strategic opportunity to establish a long-term partnership within Sri Lanka’s energy sector,” the EOI document said.
+
+“It will help strengthen the country’s energy security, reduce dependence on imported refined petroleum products, and enhance overall economic resilience.
+
+“Your organization’s proven expertise in refinery development, infrastructure investment, and energy sector operations positions you as a potential key partner in this significant national initiative.”
+
+The investor will be able to use existing facilities at CPC’s Sapugaskande refinery complex and associated infrastructure.
+
+These include an offshore point buoy mooring system where a 140,000 dead weight tonne tanker could be berthed.
+
+...
+
+[Data](articles/1ab1b96f.json)
+
+---
+
+### General object in fuel tank: driver arrested
+
+*2025-09-09 04:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-தாங்கியில்-பொதைப்-பொருள்-சாரதி-கைது/175-364238) · `ta`
+
+Yall. Chavakachcheri Police Division of Chavakachcheri Police Division
+
+The driver was seized from the driver of the driver and the driver of the driver, who had been arrested and produced for medical examination, when the driver was arrested and produced for medical examination when the driver was seized by the driver when the driver was searched at the Sankupitiya Bridge on the Mannar Road, Jaffna.
+
+◼️
+
+[Data](articles/3d5b87cf.json)
+
+[Extended Data](ext_articles/3d5b87cf.ext.json)
+
+---
 
 ### Bowzer driver arrested with ice drug
 
@@ -395,6 +433,92 @@ At the same time, the opposition parties are urging not only the Prime Minister 
 ---
 
 ### 2025-09-08 (Monday)
+
+### Tribute to Nanda Malini
+
+*2025-09-08 23:55:00* · [`islandlk`](http://island.lk/tribute-to-nanda-malini/) · `en`
+
+Several well-known artistes rallied around the legendary T. M. Jayaratne and Deepika Priyadarshani to pay tribute to the very famous Nanda Malini, and it was done by way of a song, specially composed for her 82nd birthday, which was on Saturday, 23rd August.
+
+This historic tribute, titled ‘Maliniye Nanda,’ was sung by T. M. Jayaratne, Deepika Priyadarshani, Rajiv Sebastian, Shyami Fonseka, Raymond Fonseka, Priya Peiris, Walter Fernando, Corrine Almeida, Athula Adhikari, Sewwandi Ranatunga, Piyal Perera, Sohan Weerasinghe, Damian Wikkramatillake and Mario Ananda.
+
+Rajiv Sebastian was responsible for the lyrics, melody, music arrangements, concept and the storyboard.
+
+He and his band, Rajiv & The Clan, were also involved in providing the music for the artistes to do the needful on ‘Maliniye Nanda’.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/13d78343.json)
+
+---
+
+### DFCC Bank and WWCT partner to advance biodiversity and landscape conservation through leopard protection
+
+*2025-09-08 23:24:00* · [`islandlk`](http://island.lk/dfcc-bank-and-wwct-partner-to-advance-biodiversity-and-landscape-conservation-through-leopard-protection/) · `en`
+
+DFCC Bank has announced a strategic three-year partnership with the Wilderness and Wildlife Conservation Trust (WWCT) to support a science-based initiative aimed at conserving Sri Lanka’s biodiversity by focusing on the protection of the island’s apex predator, the threatened Sri Lankan leopard (Panthera pardus kotiya).
+
+The partnership is anchored in the understanding that the leopard is an umbrella species. Protecting it also safeguards entire ecosystems and countless other species that share its habitat. By supporting leopard conservation, DFCC Bank and WWCT are making a wider commitment to biodiversity protection, environmental resilience, and sustainable coexistence between people and wildlife.
+
+...
+
+[Data](articles/41075860.json)
+
+---
+
+### Browns celebrates 150 years with prestigious tech award for game-changing E-Warranty solution
+
+*2025-09-08 23:23:00* · [`islandlk`](http://island.lk/browns-celebrates-150-years-with-prestigious-tech-award-for-game-changing-e-warranty-solution/) · `en`
+
+In keeping with its 150 anniversary celebrations, Brown & Company added another accolade to its long milestones of achievements in being recognised for yet another innovation in digitalisation at the Asian Technology Excellence Awards 2024. The Sri Lanka Technology Excellence Award for Enterprise Software – Automotive & Transport Equipment was awarded to Browns IT, for its innovative ground-breaking solution, the Browns E-Care Battery warranty activation.
+
+Celebrating companies at the forefront of change, while highlighting entities whose technological advancements are reshaping industries across the Asian region, the programme recognises bold initiatives that connect digital disruption with meaningful business transformation.
+
+...
+
+[Data](articles/d7a19fb0.json)
+
+---
+
+### Damn Fine Coffee announces its exclusive distributorship of Oatly in Sri Lanka
+
+*2025-09-08 23:22:00* · [`islandlk`](http://island.lk/damn-fine-coffee-announces-its-exclusive-distributorship-of-oatly-in-sri-lanka/) · `en`
+
+Damn Fine Coffee is proud to be the official distributor of Oatly in Sri Lanka. This partnership brings one of the world’s most iconic plant-based coffee innovations into the local market, making it easier for cafés, hotels, and households to meet customer preferences with confidence.
+
+“Around the world, Oatly has become the barista’s choice for plant-based milk. By launching Oatly locally, Damn Fine Coffee ensures that Sri Lanka’s coffee culture keeps pace with global trends, helping partners deliver the same world-class experiences travelers and locals expect.” said Yasas Kodituwakku, CEO at Damn Fine Coffee.
+
+“From day one, our aim is simple: make it easy for any café or hotel to serve a perfect cup of coffee. Oatly Barista Edition is built for espresso service with its great foam, reliable pours, and it helps our partners serve more guests who prefer or need a dairy alternative.”
+
+...
+
+[Data](articles/0632a619.json)
+
+---
+
+### Dhammika Perera buys 39 percent stake in Laugfs Group, boosting its financial muscle
+
+*2025-09-08 23:19:00* · [`islandlk`](http://island.lk/dhammika-perera-buys-39-percent-stake-in-laugfs-group-boosting-its-financial-muscle/) · `en`
+
+The CSE was notably active yesterday when businessman Dhammika Perera bought into Sri Lanka’s diversified Laugfs Group, taking a 39 percent stake of its holding company, as founder director and Deputy Chairman Thilak de Silva exited, informed sources said.
+
+Laugfs has interests in liquefied petroleum gas, shipping, renewable power, fuel distribution and retailing and manufacturing, among others.
+
+Laughs sources said that huge financial muscle was needed to rescue the company. “Someone had to exit to pave the way for an investor. It was a difficult decision. But I am happy the brand will survive, company sources said. Laugfs Gas and Laugfs Power are listed companies.
+
+Amid those developments the market pulled back with both indices moving downward.
+
+All Share Price Index went down by 74.56 points while S and P SL20 declined by 27.90 points. Turnover stood at Rs 6.17 billion with 10 crossings.
+
+...
+
+[Data](articles/37039245.json)
+
+---
 
 ### French govt collapses after Prime Minister Bayrou loses confidence vote
 
@@ -1256,7 +1380,13 @@ External Affairs Minister Vijitha Herath, representing the Sri Lankan government
 
 *2025-09-08 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112290/appeals-for-re-scrutiny-of-2025-scholarship-exam-results-accepted-from-tomorrow) · `en`
 
-The process for submitting appeals for the re-scrutiny of the 2024 Grade 5 Scholarship Examination results will begin tomorrow (09).
+The process for submitting appeals for the re-scrutiny of the 2025 Grade 5 Scholarship Examination results will begin tomorrow (09).
+
+According to a communique issued by the Commissioner General of Examinations, Indika Kumari Liyanage, applications can be submitted online for the re-scrutiny of answer scripts from tomorrow to September 22, 2025.
+
+In order to submit applications, the principal of the candidate’s school must log in to the SCHOOL LOGIN section of the official website of the Department by using the username and password provided to the school.
+
+The Commissioner General emphasizes that only school principals can submit appeals on behalf of candidates.
 
 ◼️
 
@@ -1682,17 +1812,13 @@ The Minister pointed out that the main purpose of the Ministry of Health at the 
 
 *2025-09-08 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112287/un-rights-chief-presents-report-on-sri-lanka-at-human-rights-council) · `en`
 
-United Nations High Commissioner for Human Rights Volker Türk has presented the report of the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council.
+United Nations High Commissioner for Human Rights Volker Türk today (08) presented the much-anticipated report on Sri Lanka by the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council in Genève.
 
-Through the report, Human Rights Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
+Through the report, High Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
 
-Other recommendations include the release of military-held land in the north and east, repeal of the Prevention of Terrorism Act (PTA), and the release of long-term PTA detainees.
+While presenting the report, the UN rights chief called for international engagement, including through the UN Human Rights Council and emphasized that it remains essential and can be supportive of accountability and long-term reconciliation and sustainable peace.
 
-The report also recommended the comprehensive security sector reform and broader constitutional, legal and institutional changes to meet international human rights obligations.
-
-The report follows the High Commissioner’s recent visit to Sri Lanka, where he met officials, civil society, political parties and religious leaders.
-
-◼️
+...
 
 [Data](articles/479993a1.json)
 
@@ -1867,149 +1993,5 @@ Furthermore, 154,174 individuals from the UK and 119,592 persons from Russia al
 [Data](articles/6b5da32f.json)
 
 [Extended Data](ext_articles/6b5da32f.ext.json)
-
----
-
-### Prasanna Ranaweera remanded
-
-*2025-09-08 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214321) · `si`
-
-Former State Minister Prasanna Ranaweera has been remanded again until September 22.
-
-It was when the case was taken up and the case was taken into custody to a government owned land in Kiribathgoda.
-
-The order has been issued after being produced before the Mahara Magistrate's Court today (08).
-
-◼️
-
-[Data](articles/659f905d.json)
-
-[Extended Data](ext_articles/659f905d.ext.json)
-
----
-
-### Gold price in Sri Lanka toppled three times in today's day
-
-*2025-09-08 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214320) · `si`
-
-The price of gold has increased by Rs. 5,000 today (08).
-
-Accordingly, the price of 22 carrots in the Gold Poorest of the Gold Pound in the Gold Poorest of Rs.. Up to 271,000.
-
-Meanwhile, Saturday is Rs. 288,000 'carrot 24 "gold pound for Rs.. 293,000 has risen to 293,000, Colombo Hettivesi sources said.
-
-The highlight of three times in the Gold Market in Colombo, Colombo will be increased.
-
-◼️
-
-[Data](articles/dd1db8a1.json)
-
-[Extended Data](ext_articles/dd1db8a1.ext.json)
-
----
-
-### Sri Lanka - Pakistan - Afghan Triangular battle
-
-*2025-09-08 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214319) · `si`
-
-Sri Lanka, Afghanistan and Pakistan, a triangular T20 cricket tournament will be held in November.
-
-The tournament is scheduled to begin in Pakistan on November 17.
-
-However, it is evidenced by the Bilateral Twenty20 tournament to be held between Sri Lanka and Pakistan due to this tournament.
-
-The Sri Lanka-Afghanistan match will be held on November 19th November 19th of November 19th.
-
-The Sri Lanka and Afghanistan will be able to compete on the 22nd on the 22nd and Pakistan and Sri Lanka will match the 27th.
-
-At the end of the preliminary round, the two teams taking the lead in the bonus mark will be eligible for the finals that will be held on November 29.
-
-The first matches will be held at Ravalland and plans to conduct other matches.
-
-◼️
-
-[Data](articles/381b1de8.json)
-
-[Extended Data](ext_articles/381b1de8.ext.json)
-
----
-
-### Wealthy ancient Roman’s tomb discovered in Albania
-
-*2025-09-08 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112282/wealthy-ancient-romans-tomb-discovered-in-albania) · `en`
-
-Archaeologists in Albania have discovered a large Roman burial chamber dating from the third to fourth century AD, the first of its kind found in the Balkan country that was once part of the Roman Empire.
-
-Tipped off by locals who had noticed some unusual stones on a plateau near the North Macedonia border, staff from the Institute of Archaeology began excavating in early August and found the underground structure whose large limestone slabs were inscribed with Greek lettering.
-
-“The inscription tells us that the person buried here was named Gelliano, a name typical of the Roman period. We are uncertain about the identity of the second individual, but it is likely a family member,” said Erikson Nikolli, the project’s lead archaeologist.
-
-The tomb, which measures nine metres by six metres (29 ft by 19 ft), is the first discovery in Albania of what the experts believe to be a wealthy person’s resting place, grander than other burial sites found in the area.
-
-...
-
-[Data](articles/d6b203a9.json)
-
-[Extended Data](ext_articles/d6b203a9.ext.json)
-
----
-
-### Asian Trophy begins tomorrow
-
-*2025-09-08 15:23:20* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානය-හෙටින්-ඇරඹේ/9-418353) · `si`
-
-The Asia Twenty20 cricket tournament will commence tomorrow (09).
-
-Accordingly, India, Oman, Pakistan and the United Arab Emirates will compete in the group, and Afghanistan, Bangladesh, and Hong Kong and Sri Lanka are to contest under the 'B' team.
-
-The first match of the tournament is due to be competitive as the first match of the tournament.
-
-◼️
-
-[Data](articles/49c9e458.json)
-
-[Extended Data](ext_articles/49c9e458.ext.json)
-
----
-
-### Aung San Suu Ki's health worry: Son Information
-
-*2025-09-08 15:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூ-கியின்-உடல்நிலை-கவலைக்கிடம்-மகன்-தகவல்/50-364214) · `ta`
-
-His son Kim Aris has said that the health of former Myanmar ruler in the military custody is a worrisome.
-
-Aung San Suu Ki, a democratically elected ruler in Myanmar, has been imprisoned by the military rulers of the country since 2021. Corruption and election fraud charges have been imposed on him. For this, the court has sentenced him to 27 years in prison.
-
-In this case, his son Kim Aris has said that his mother Soo Ki is suffering from heart attack and is a serious condition.. Reuters news agency said, “My mother is 80 years old. A month ago, he demanding a cardiologist to see. There is no information on whether his request was accepted.
-
-...
-
-[Data](articles/ac50b0ce.json)
-
-[Extended Data](ext_articles/ac50b0ce.ext.json)
-
----
-
-### Five killed in Jerusalem shooting attack, paramedics say
-
-*2025-09-08 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112281/five-killed-in-jerusalem-shooting-attack-paramedics-say) · `en`
-
-Five people have been killed and seven seriously wounded in a shooting attack by Palestinian gunmen in Jerusalem, paramedics and police say.
-
-Israel’s Magen David Adom ambulance service identified the dead as three men in their 30s, one woman in her 50s, and one man in his 50s. Nine people with gunshot wounds were taken to local hospitals along with three others injured by broken glass.
-
-Israeli police said two “terrorists” opened fire towards a bus stop at Ramot Junction, on the city’s northern outskirts. A security officer and a civilian returned fire, and “neutralised” the attackers, it added.
-
-There was no immediate claim from any armed groups, although Hamas praised the attack.
-
-The police said a large number of officers were securing the area, and that bomb disposal units were ensuring that it was safe while forensic teams gathered evidence.
-
-The Israeli military said soldiers had also been deployed to the area and were searching for suspects in co-operation with the police.
-
-...
-
-[Data](articles/a88967fe.json)
-
-[Extended Data](ext_articles/a88967fe.ext.json)
 
 ---

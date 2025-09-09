@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 02:54:13**
+As of **2025-09-10 03:37:41**
 
 ## Newspaper Stats
 
-*Scraped **75,047** Articles*
+*Scraped **75,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 763
-economynextcom | 4,545
+economynextcom | 4,550
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,545 (87.3%) of 75,047 articles have been extended.
+65,565 (87.4%) of 75,052 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,6 +249,24 @@ He was also a member in the Pakistan squad at the 2018 Asian Cup.
 [Data](articles/6a421585.json)
 
 [Extended Data](ext_articles/6a421585.ext.json)
+
+---
+
+### Sri Lanka parliament passes resolution to promote, protect UAE deals
+
+*2025-09-09 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-resolution-to-promote-protect-uae-deals-239896/) · `en`
+
+ECONOMYNEXT – Sri Lanka parliament passed a resolution on the agreements signed between Sri Lanka and the United Arab Emirates (UAE) early this year with a majority 163 votes against none opposing in the 225-member legislature.
+
+The agreement is for the promotion and protection of investments in Sri Lanka by nationals of the United Arab Emirates or by corporations, societies or other associations incorporated or constituted under the laws of that State
+
+It was signed between the two nations on Reciprocal Promotion and Protection of Investments to strengthen economic and investment relations. The agreement was signed during President Anura Kumara Dissanayake’s three-day official visit to the United Arab Emirates (UAE) to attend the World Governments Summit 2025.
+
+The bilateral agreement was to establish a secure legal framework to expand investment opportunities in global markets while ensuring the protection of foreign investments.
+
+...
+
+[Data](articles/b1612b21.json)
 
 ---
 
@@ -481,6 +499,26 @@ The court informed the court that the Criminal Investigation Department (CID) ha
 [Data](articles/de5493f9.json)
 
 [Extended Data](ext_articles/de5493f9.ext.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields up on 2028-30 tenors
+
+*2025-09-09 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-up-on-2028-30-tenors-239880/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 301.97/302.05 to the US dollar on Tuesday, from 301.97/302.02 the previous day, while bond yields closed up on the 2028-2030 tenors, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.12.2028 closed at 9.05/10 percent, up from 9.00/10 percent.
+
+A bond maturing on 15.12.2032 closed at 10.35/45 percent, up from 10.35/43 percent.
+
+Rs. 77,000 million Treasury bills are to be issued through an auction on 10th September. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/a3898017.json)
 
 ---
 
@@ -824,6 +862,46 @@ In the Mullaitivu District, Uva, North-central and Eastern Provinces. Showers or
 
 ---
 
+### Sri Lanka to expand scope of controversial 1970s media control law
+
+*2025-09-09 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-scope-of-controversial-1970s-media-control-law-239864/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has decided to amend the country’s Press Council Act to expand scope of controversial 1970s media control law to electronic and online media, the government said.
+
+The Sri Lanka Press Council Act was introduced during Prime Minister Sirimavo Bandaranaike’s government and has long been viewed as a tool for controlling the country’s print media rather than promoting press freedom.
+
+The Act established the Press Council, a statutory body empowered to regulate newspapers, monitor journalistic practices, and enforce restrictions on reporting deemed to threaten national security, public order, or morality.
+
+It gave the Council sweeping powers, including the authority to summon editors, seize publications, and penalize journalists or publishers who violated its provisions.
+
+Critics argue that these provisions enable censorship under the guise of regulation, discouraging critical journalism and undermining the role of the press as a democratic watchdog.
+
+...
+
+[Data](articles/07f163f0.json)
+
+---
+
+### Sri Lanka stocks dip 1.11-pct, dragged down by banks, CTC, JKH and DIAL
+
+*2025-09-09 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-dip-1-11-pct-dragged-down-by-banks-ctc-jkh-and-dial-239853/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s All Share Price Index (ASPI) closed 1.11 percent down on Tuesday, CSE site showed.
+
+The ASPI fell 231.72 points from Monday to close at 20,674.11; while the S&P SL20 index dropped 0.92 percent, or 55.04 points, to close at 5,900.32.
+
+Turnover was 9 billion rupees while the share volumes were 237,575,013.
+
+Weighing down the ASPI were; Ceylon Tobacco Company which ended 54.25 rupees lower at 1,599.75; John Keells Holdings (down 30 cents at 22.10 rupees); Sampath Bank (down 1.50 rupees at 142); Dialog Axiata (down 70 cents at 192.50 rupees); and HNB (down 3.25 rupees at 385 rupees).
+
+Elsewhere, Tokyo’s Nikkei 225 index fell on Tuesday after closing higher on the last three sessions, Japan’s The Mainichi newspaper said. The index moved 0.42 percent, or 184.52 points down, to 43,459.29.
+
+...
+
+[Data](articles/322100e9.json)
+
+---
+
 ### Secured from Sri Lanka Laboratory
 
 *2025-09-09 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214369) · `si`
@@ -917,6 +995,24 @@ Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The o
 [Data](articles/49ff9401.json)
 
 [Extended Data](ext_articles/49ff9401.ext.json)
+
+---
+
+### Sri Lanka awards tender for lottery tickets to 4 private companies
+
+*2025-09-09 15:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-tender-for-lottery-tickets-to-4-private-companies-239854/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state lottery board has awarded tenders to print lottery tickets to four private bidders, Minister Nalinda Jayatissa said.
+
+The companies are Toppan Forms (Colombo) Ltd, DPJ Holdings (Pvt) Ltd, Grand Export (Pvt) Ltd, and Digiscan Secure Print Solutions (Pvt) Ltd.
+
+“The Development Lotteries Board called for tenders to design, develop, print and supply lottery tickets for Lagna Wasana, Kapruka, Ada Kotipathi, Super Ball, Shanida, Supiri Dhana Sampatha, Sasiri, Jaya Sampatha,” Jayatissa told reporters.
+
+The tender was awarded for a period of one year. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/9c1809d3.json)
 
 ---
 
@@ -2005,107 +2101,5 @@ The Prime Minister said that the inventor of the inventor is not based on the si
 [Data](articles/5b317085.json)
 
 [Extended Data](ext_articles/5b317085.ext.json)
-
----
-
-### Investigations against Keheliya, Family
-
-*2025-09-09 11:37:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலிய-குடும்பத்தினருக்கெதிரான-விசாரணைகள்-நிறைவு/175-364261) · `ta`
-
-Former Minister Keheliya Rambukwella and his family members are investigating the case. Podarakama ended today.
-
-They faced indictment filed by the Commission to Investigate Bribery or Corruption in the Colombo High Court on charges of money laundering.
-
-◼️
-
-[Data](articles/db1aa8b8.json)
-
-[Extended Data](ext_articles/db1aa8b8.ext.json)
-
----
-
-### Sri Lanka to get $100mn agri-development loan from World Bank
-
-*2025-09-09 11:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-100mn-agri-development-loan-from-world-bank-239789/) · `en`
-
-ECONOMYNEXT – Sri Lanka will borrow 100 million dollars from the International Development Association (IDA) of the World Bank Group to fund the Integrated Rurban Development and Climate Resilience Project (IRDCRP).
-
-The IRDCRP aims to increase the productivity, market access, and climate resilience of agri-food producers in selected areas, the Ministry of Finance’s Department of External Resources said in a statement.
-
-The total project cost is 120 million dollars, of which 100 million will be financed by the World Bank, and 3 million will come from domestic funds.
-
-Another 17 million dollars is expected as beneficiary contribution, according to the statement.
-
-“This component will establish productive partnerships between smallholder producers, one or more buyers, and the public sector, focusing on improving market linkages.”
-
-...
-
-[Data](articles/4aff490b.json)
-
-[Extended Data](ext_articles/4aff490b.ext.json)
-
----
-
-### Mysterious death of the little girl: The organ in the corpse
-
-*2025-09-09 11:22:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-மர்ம-மரணம்-சடலத்தில்-அந்த-உறுப்பு-மாயம்/175-364260) · `ta`
-
-The body of a 13 -year -old girl was found in the cane field. The incident took place in a village in Lakimbur, Uttar Pradesh.
-
-He is said to have been terribly tortured and killed. According to sources, the little girl disappeared when he returned home from school.
-
-His parents told the police that he had not returned home until night, but the police did not register the complaint.
-
-Later, the police came to the scene and recovered the body and sent the body for an autopsy.
-
-Ganesh Prasad Saha, Superintendent of Police (SP) Lagimpur Gary Police (SP), inspected the scene and set up three inquiries teams.
-
-If the complaint was registered immediately and started the search, he could have saved his disappeared daughter for two days, he said.
-
-SP says, “At first glance, the girl seems to have been beaten because there are many injuries in the body. But after the autopsy, the facts are clear.
-
-...
-
-[Data](articles/9b6f350f.json)
-
-[Extended Data](ext_articles/9b6f350f.ext.json)
-
----
-
-### Internet fraud in South East Asia targeting Americans: Americans lost $ 10 billion
-
-*2025-09-09 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224610) · `ta`
-
-US Criminal Criminal Committees in South East Asia to prevent scams by targeting Americans through the Internet (U.S. The Department of the Treasury and the Foreign Property Control Office (ofac) have taken key measures.
-
-In 2024, US government research reports that Americans have lost about $ 10 billion due to internet frauds.
-
-Sway Cocoa Center, Burma: Ofac's economic ban on the Sway Cocoa Fraud Center in Burma. The center operates under the protection of the already banned Karen National Army (KNA). It targets Americans and engages workers in compulsory labor.
-
-Cambodia Centers: Foreign Property Control Office (ofAC) has imposed an economic ban on four individuals and six companies operating compulsory labor centers in Cambodia. Workers in these centers are forced to engage in virtual currency investment fraud, targeting those in countries including the United States, Europe and China.
-
-...
-
-[Data](articles/531e11fd.json)
-
-[Extended Data](ext_articles/531e11fd.ext.json)
-
----
-
-### The company wanted to pay 4 lakhs and paid 214 million rules
-
-*2025-09-09 11:21:15* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 4ක්-ගෙවන්න-ඕන-සමාගමට-මග-නැගුමෙන්-ලක්ෂ-214ක්-ගෙවලා/11-418375) · `si`
-
-The Maga Neguma Road Construction Company is the value of a check issued to a private company to pay for a private company.
-
-The company has been issued to the private institution to the relevant personal company for the relevant private institution. The value of Rs.. The audit report states that the five cents have been changed as five cents.
-
-Audit Audit has revealed that a disciplinary action has not taken a disciplinary action against officials responsible for the financial fraud.. Chairman of Company, General or Financial Officer. And the officers who serve the financial sector are not excluded in connection with the financial irregularity of this financial malnel.. The financial fraud should take immediate disciplinary action against the officers of the officers and the audit that should be taken to recover the same loss accordingly.
-
-...
-
-[Data](articles/4ea9c2ab.json)
-
-[Extended Data](ext_articles/4ea9c2ab.ext.json)
 
 ---

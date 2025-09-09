@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 20:20:46**
+As of **2025-09-09 20:08:32**
 
 ## Newspaper Stats
 
-*Scraped **75,030** Articles*
+*Scraped **75,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,31 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,271
+adalk | 7,270
 adaderanalk | 9,613
 tamilmirrorlk | 11,188
 virakesarilk | 12,254
-adaderanasinhalalk | 13,072
+adaderanasinhalalk | 13,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,125 (86.8%) of 75,030 articles have been extended.
+65,108 (86.8%) of 75,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### හමාස් නායකයින් ඉලක්ක කරගෙන ඊශ්‍රායලයෙන් කටාර් වෙත ප්‍රහාරයක්
-
-*2025-09-09 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214377) · `si`
-
-ජ්‍යෙෂ්ඨ හමාස් නායකයින් ඉලක්ක කරගෙන ඊශ්‍රායලය විසින් කටාර්හි දෝහා අගනුවරදී ප්‍රහාරයක් එල්ල කර තිබේ.
-
-හමාස් නිලධාරියෙකු පවසන්නේ මෙම ප්‍රහාරය තමන්ගේ සාම සාකච්ඡා කණ්ඩායම ඉලක්ක කර එල්ල කර ඇති බවය.
-
-මේ අතර කටාර්හි අමෙරිකානු තානාපති කාර්යාලය එරට අමෙරිකානු පුරවැසියන්ට ආරක්ෂිත ස්ථානවල රැඳී සිටින ලෙස ඉල්ලා තිබේ.
-
-කටාර්හි අමෙරිකානු තානාපති කාර්යාලය කටාර්හි සිටින එරට සිටින අමෙරිකානු පුරවැසියන්ගෙන් ඉල්ලා සිටින්නේ, තමන් සිටින ස්ථානවල ආරක්ෂිතව සිටින ලෙසය.
-
-එමෙන්ම සමාජ මාධ්‍ය නිරීක්ෂණය කරන ලෙසද එක්සත් ජනපද පුරවැසියන්ගෙන් කටාර්හි අමෙරිකානු තානාපති කාර්යාලය ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/8cf10eec.json)
-
----
-
-### To Afghanistan to advantage
+### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
 
 *2025-09-09 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214375) · `si`
 
-The first match between the Afghan group and the Hong Kong team will commence in a small moment.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේදී ආරම්භ කරමින් ඇෆ්ගනිස්තාන කණ්ඩායම සහ හොංකොං කණ්ඩායම අතර පැවැත්වෙන පළමු තරගය තව සුළු මොහොතකින් ආරම්භවීමට නියමිත ව තිබේ.
 
 ◼️
 
 [Data](articles/3578ff0e.json)
-
-[Extended Data](ext_articles/3578ff0e.ext.json)
 
 ---
 
@@ -371,22 +349,6 @@ In 2003, the CWC was put on an end to the issue of citizenship by the late leade
 [Data](articles/a444cd2d.json)
 
 [Extended Data](ext_articles/a444cd2d.ext.json)
-
----
-
-### මන්නාරම මහ රෝහල දියුණු කරන්න ඉන්දියාව සමග ගිවිසුම් ගත වෙයි
-
-*2025-09-09 17:08:31* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-මහ-රෝහල-දියුණු-කරන්න-ඉන්දියාව-සමග-ගිවිසුම්-ගත-වෙයි/11-418389) · `si`
-
-මන්නාරම දිස්ත්‍රික් මහ රෝහලේ හදිසි අනතුරු සහ හදිසි ප්‍රතිකාර ඒකකය සඳහා වන ගොඩනැගිල්ලේ ඉදිකිරීම් මෙන්ම වෛද්‍ය උපකරණ සැපයීම වෙනුවෙන් ඉන්දියානු ජනරජ රජය සහ ශ්‍රී ලංකා ‍රජය අතර අවබෝධතා ගිවිසුම අත්සන් කිරීම  අද (09) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ දී සිදු කෙරිණි.
-
-දෙරට අතර ද්විපාර්ශ්වික සබඳතා තව දුරටත්  ශක්තිමත් කිරීම සනිටුහන් කරමින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ සහ ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් සන්තුෂ් ජා මහතාගේ ප්‍රධානත්වයෙන් ඉහත කටයුතු සිදු වූ අතර, අවබෝධතා ගිවිසුමට අත්සන් කිරිම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා සහ ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් සන්තුෂ් ජා මහතා අතර සිදු විය.
-
-අවබෝධතා ගිවිසුමට අනුව ඉන්දීය රජය මෙම ව්‍යාපෘතියට අදාළව වැය කිරීමට නියමිත ව්‍යාපෘති ඇස්තමේන්තු ගත මුදල රුපියල් මිලියන 600 ක් වන අතර, ව්‍යාපෘති කාලසීමාව වසර 03 කි.
-
-...
-
-[Data](articles/4137399f.json)
 
 ---
 
@@ -2033,5 +1995,45 @@ Former Minister Rajitha Senaratne, who was interrogated, appeared in court this 
 [Data](articles/bc113659.json)
 
 [Extended Data](ext_articles/bc113659.ext.json)
+
+---
+
+### Conditional Bail for Rajitha
+
+*2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவுக்கு-நிபந்தனை-பிணை/175-364254) · `ta`
+
+Former Fisheries Minister Rajitha Senaratne has been released on bail in the alleged use of government funds through the Sand Excavation Scheme at the Kirinda fishing port.
+
+Colombo Chief Magistrate. Bodaragama, Rs.. 50,000 in cash bail and all three bail worth Rs 2 million each. The magistrate also imposed a foreign travel ban on Senaratne.
+
+◼️
+
+[Data](articles/f3202726.json)
+
+[Extended Data](ext_articles/f3202726.ext.json)
+
+---
+
+### Former Minister Rajitha Senaratne granted bail
+
+*2025-09-09 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112313/former-minister-rajitha-senaratne-granted-bail) · `en`
+
+Former Minister Rajitha Senaratne has been granted bail after being produced before the Colombo Chief Magistrate’s Court this morning (09).
+
+The Magistrate ordered Senaratne’s release on a cash bail of Rs. 50,000 and two sureties of Rs. 2 million each.
+
+An overseas travel ban was also imposed on the former minister, said Ada Derana reporter.
+
+Colombo Chief Magistrate Asanka S. Bodaragama issued the order after considering the facts presented by officials from the Bribery Commission and the legal representatives of the former Minister.
+
+Former Minister Rajitha Senaratne, who was remanded in custody following his arrest, was produced before the Colombo Chief Magistrate’s Court this morning (09).
+
+Senaratne, who previously appeared before the Colombo Magistrate’s Court on August 29, had been remanded until September 09 in connection with a separate case filed by the Bribery Commission.
+
+...
+
+[Data](articles/68a3ca46.json)
+
+[Extended Data](ext_articles/68a3ca46.ext.json)
 
 ---

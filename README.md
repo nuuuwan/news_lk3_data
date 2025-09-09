@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 10:09:37**
+As of **2025-09-09 09:12:50**
 
 ## Newspaper Stats
 
-*Scraped **74,901** Articles*
+*Scraped **74,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,161 +16,37 @@ economynextcom | 4,538
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,248
+adalk | 7,246
 adaderanalk | 9,591
-tamilmirrorlk | 11,155
-virakesarilk | 12,236
-adaderanasinhalalk | 13,046
+tamilmirrorlk | 11,154
+virakesarilk | 12,233
+adaderanasinhalalk | 13,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,512 (86.1%) of 74,901 articles have been extended.
+64,427 (86.0%) of 74,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### ජනාධිපතිවරුන්ගේ හිමිකම් (අවලංගු කිරීමේ) පනත් කෙටුම්පත ගැන ශ්‍රේෂ්ඨාධිකරණ තීරණය දැනුම් දෙයි
-
-*2025-09-09 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214349) · `si`
-
-ජනාධිපතිවරුන්ගේ හිමිකම් (අවලංගු කිරීමේ) පනත් කෙටුම්පතේ කිසිදු විධිවිධානයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ කිසිදු විධිවිධානයකට අනුකූල නොවන බව ශ්‍රේෂ්ඨාධිකරණය විසින් දැනුම් දී ඇති බව කතානායක වෛද්‍ය ජගත වික්‍රමරත්න මහතා අද (09) පාර්ලිමේන්තුවේදී පැවසීය.
-
-ඒ අනුව එය පාර්ලිමේන්තුවේ සරල බහුතරයකින් බලාත්මක කළ හැකි බවත් ශ්‍රේෂ්ඨාධිකරණය තීරණය කර ඇති බවද කථානායකවරයා අද නිවේදනය කළේය.
-
-◼️
-
-[Data](articles/216340ea.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214347) · `si`
-
-◼️
-
-[Data](articles/37a5f93d.json)
-
-[Extended Data](ext_articles/37a5f93d.ext.json)
-
----
-
-### The social media ban on Nepal removed after protests
-
-*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214348) · `si`
-
-The Government of Nepal has decided to remove the social media ban with the death of 19 people from the protest against the protest against the social media ban.
-
-The Nepal Government of Nepal recently banned the implementation of the implementation of Nepal for 26 social media stage, including Facebook and Youtube, and a large number of protests in protest.
-
-During these objections, protesters were included in protesters, the parliamentary building of the clanis building and 19 people were killed and 100 others were injured in the clashes between the police and protesters.
-
-As a result of this, the Nepal government has decided to remove the ban on the social media ban.
-
-Communications and Information Minister Prabhavi Surabhag Gungung has said that the Cabinet has decided to remove the ban on the social media ban on this matter.
-
-◼️
-
-[Data](articles/f47d6a2f.json)
-
-[Extended Data](ext_articles/f47d6a2f.ext.json)
-
----
-
-### More than 1,800 people die in road accidents so far
-
-*2025-09-09 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224588) · `ta`
-
-Thousands of 757 road accidents occurred from January 1 to September 4 this year, police said.
-
-The statistics have been released by Deputy Inspector General of Police Indika Habukoda in charge of traffic.
-
-He added that about seven to eight people die daily due to road accidents.
-
-Therefore, Deputy Police Chief Indika Habukoda has said that all the road users, including drivers, motorcycle drivers, pedestrians and passengers, must follow the transport laws.
-
-At the same time, he said that the street procedures should be adopted and the number of accidents should be reduced.
-
-◼️
-
-[Data](articles/838df283.json)
-
-[Extended Data](ext_articles/838df283.ext.json)
-
----
-
-### Train services of Kelaniya Religion are limited to Kosama
-
-*2025-09-09 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224587) · `ta`
-
-The train control room has announced that the train services of the Kelaniweli route have been limited to the Kosama Railway Station.
-
-The decision was taken as a train derailed on Monday evening (08) evening at Bhuvakpitiya, Avissawella.
-
-A train traveling from Colombo to Avissawella was derailed yesterday evening between the Puwakpitiya and Avissawella railway stations, the Railway Department said.
-
-Accordingly, the Railway Department said that the train services through the Kelaniweli route have been limited to Kosgama.
-
-◼️
-
-[Data](articles/1b4daff7.json)
-
-[Extended Data](ext_articles/1b4daff7.ext.json)
-
----
-
-### The shores of Sri Lanka: "Google Earth" scenes!
-
-*2025-09-09 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224593) · `ta`
-
-Since 2006, about 25 meters of land has been into seaweed every year. However, after 2016 and 2017, the 60 to 90 meters of landscape can be found every year with the "Google Earth" scenes.
-
-◼️
-
-[Data](articles/9f54c3c9.json)
-
-[Extended Data](ext_articles/9f54c3c9.ext.json)
-
----
-
-### Vice President of the Republic of India today
-
-*2025-09-09 08:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்திய-குடியரசு-துணைத்-தலைவர்-தேர்தல்/175-364243) · `ta`
-
-Vice President of India. Voting begins at 10 am and runs till 5 pm.
-
-The ruling BJP. Maharashtra Governor CP Radhakrishnan and Supreme Court Justice Sudarshan Reddy are contesting on behalf of the opposition parties. Voting is taking place this evening.
-
-Jagadeep Tankar, who was in the post of Vice President of the Republic, resigned from his post on July 21. President Draupadimurmu accepted his resignation.
-
-◼️
-
-[Data](articles/f24a4ff5.json)
-
-[Extended Data](ext_articles/f24a4ff5.ext.json)
-
----
-
-### Three arrested for double murder
+### ද්විත්ව ඝාතනයකට සම්බන්ධ තිදෙනෙක් අත්අඩංගුවට
 
 *2025-09-09 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214346) · `si`
 
-Tangalle Criminal Investigation (Bureau) has been arrested by the Tangalle Divisional Criminal Investigation (Bureau) who was shot dead.
+වෙඩි තබා ද්විත්ව මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් තිදෙනෙකු තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-The Thangla Divisional Criminal Investigation Bureau has been investigating the criminal of the Kiddeniya Police Division in the Giddeniya Police Division.
+2025.06.24  වන දින මිද්දෙනිය පොලිස් වසමේ සමූහ ගොවිපල තේක්කවත්ත පාර ප්‍රදේශයේදී වෙඩිතබා ද්විත්ව මනුෂ්‍ය ඝාතනයක් සිදු කිරීමේ අපරාධය සම්බන්ධයෙන් තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය මඟින් විමර්ශනය කරමින් සිට ඇති අතර ඊයේ (08) විමර්ශන නිලධාරීන්ට ලද තොරතුරකට අනුව ඇඹිලිපිටිය ප්‍රදේශයේදී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
 
-The following weapons and property have been found in interrogations from the suspects.
+සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම් වලදී පහත සඳහන් ආයුධ හා දේපල සොයාගෙන ඇත.
 
-The Tangalle Divisional Criminal Investigation Bureau is conducting further investigations.
+තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
 
 ◼️
 
 [Data](articles/c9b74e5f.json)
-
-[Extended Data](ext_articles/c9b74e5f.ext.json)
 
 ---
 
@@ -210,51 +86,25 @@ This demonstration Jaffna. The District Secretariat and the Northern Province Go
 
 ---
 
-### Three caught up in Middeniya double murder
-
-*2025-09-09 07:58:34* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙණියේ-ද්විත්ව-ඝාතනයට-තිදෙනෙකු-හසු-වේ/11-418364) · `si`
-
-Three residents of the Middeniya Police Division have been arrested by the Tangalle Divisional Investigation Unit yesterday (08) with a number of weapons yesterday (08).
-
-Two magazines have been taken into custody by 18 Magazines and Rs.
-
-The suspects have been involved in drug trafficking and the suspects have been identified as the drug dealers aged 24,25,26.
-
-The suspects were handed over to Middeniya today and they are to be produced before the Walasmulla Magistrate's Court today (09).
-
-◼️
-
-[Data](articles/59f9900a.json)
-
-[Extended Data](ext_articles/59f9900a.ext.json)
-
----
-
-### Deals a casual relationship
+### අනියම් සබඳතාවක් පුද්ගලයෙකුට මරු කැඳවයි
 
 *2025-09-09 07:49:41* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාවක්-පුද්ගලයෙකුට-මරු-කැඳවයි/11-418363) · `si`
 
-The body of a person who was hacked to death with a sharp weapon was found in a Body of Ganegoda, Imbulapitiya, Imbulapitiya, Imbulapitiya.
+තියුණු ආයුධයකින් කපා කොටා ඝාතනය කෙරුණු අයෙකුගේ මළ සිරුරක් ඊයේ (8) රෑ ඇල්පිටිය ගනේගොඩ,ගොළුවාමුල්ල,ඉඹුලපිටිය  පාලු නිවසක තිබී සොයාගත් බව ඇල්පිටිය පොලීසිය කියයි.
 
-According to the police, Kankanam Duminda Alwis, a resident of Elpitiya, Goluwambulla, Imbulapitiya, Imbulapitiya.
+මෙසේ සොයා ගැණුනේ ඇල්පිටිය ,ගනේගොඩ,ගොලුවාමුල්ල,ඉඹුලපිටිය පදිංචි තිස්පස් හැවිරිදි පිටුවල කංකානම්ගේ දොන් දුමින්ද අල්විස් නමැත්තෙක්ගේ බවද පොලීසිය කියයි.
 
-Police say the suspect who was assassinated yesterday (8th) after the suspect was arrested by the police said. He was also murdered as a twenty-four year old resident of the area of ​​residents, police said
+මේ පුද්ගලයා ඝාතනය කළේ යයි කියන සැකකරු ඊයේ(8) රෑ භාරවීමෙන් පසු අත් අඩංගුවට ගත් බවද පොලීසිය කියයි. සැකකරුද ඔහු අතින්  ඝාතනයවු පුද්ගලයා පදිංචි ප්‍රදේශයේම පදිංචි විසිහය හැවිරිදි තරුණයෙක් බවද පොලීසිය කියයි
 
-The Basic Investigation has revealed that the cause of the murder of a married person was the cause of the killing.
+විවාහකයෙකුවූ  ඝාතනයවූ පුද්ගලයාගේ අනියම් සම්බන්ධතාවයක් මේ ඝාතනයට හේතුව බව මූලික විමර්ශණයේදී අනාවරණයවූ බවද පොලීසිය කියයි.
 
-The suspect was assassinated and the suspect is two residents of Goluamamulla, Imbulapitiya, police said.
+ඝාතනයවූ පුද්ගලයා සහ සැකකරු ඇල්පිටිය ගනේගොඩ,ගොලුවාමුල්ල,ඉඹුලපිටිය එකම ගමේ පදිංචි අසල්වාසීන් දෙදෙනෙකු බවද පොලීසිය කියයි.
 
-The two had been drinking drugs in the village and had been assaulted by the neighborhood who had drank the cinnamon.
+මොවුන් දෙදෙනා එම ගමේ පාලු නිවසකට පෙරේදා (7) ගොස් මත් පානය කොට ඇති බවත් පසුව සැකකරු විසින් කුරුඳු කපන කැත්තකින් එකට මත් පැන් පානය කළ අසල්වැසියාට පහරදී ඇති බවත් පොලීසිය කියයි.
 
-The suspect was seriously injured and killed in his head, police said.
-
-The suspect was to be produced before the Elpitiya Courts today (9). The Elpitiya Police are conducting further investigations.
-
-◼️
+...
 
 [Data](articles/b59b9303.json)
-
-[Extended Data](ext_articles/b59b9303.ext.json)
 
 ---
 
@@ -1975,5 +1825,171 @@ Commenting on this training operation, US Ambassador to Sri Lanka Julie Sung sai
 [Data](articles/46c22dcc.json)
 
 [Extended Data](ext_articles/46c22dcc.ext.json)
+
+---
+
+### Sri Lanka’s Asia Asset Finance to raise 3bn through debenture issue
+
+*2025-09-08 17:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-to-raise-3bn-through-debenture-issue-239745/) · `en`
+
+ECONOMYNEXT – Sri Lanka finance company, Asia Asset Finance Plc said it was planning to raise up to 3 billion through a debenture sale.
+
+The finance company will issue 30 million listed, rated, subordinated, unsecured, redeemable debentures at 100 rupees a piece.
+
+The debentures have a tenor of five years, the company said in stock exchange filing.
+
+“The coupon frequency and the interest rates are to be decided closer to the finalization of the Trust Deed based on the market rates prevailing at that point in time.”
+
+The issue is subject to obtaining all related approvals from the relevant regulatory bodies.
+
+The company proposes to have these debentures listed on the Colombo Stock Exchange. (Colombo/Sep8/2025).
+
+◼️
+
+[Data](articles/53c6d72c.json)
+
+[Extended Data](ext_articles/53c6d72c.ext.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields steady
+
+*2025-09-08 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-239751/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat to the US dollar at 301.97/302.02 Monday, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.12.2028 closed at 9.00/10 percent, up from 8.98/9.08 percent.
+
+A bond maturing on 15.12.2029 closed at 9.51/55 percent, up from 9.50/55 percent.
+
+A bond maturing on 15.12.2032 closed at 10.35/43 percent, down from 10.35/45 percent.
+
+A bond maturing on 15.09.2034 closed at 10.75/90 percent.  (Colombo/Sep8/2025)
+
+◼️
+
+[Data](articles/b62df2de.json)
+
+[Extended Data](ext_articles/b62df2de.ext.json)
+
+---
+
+### Willing to work together
+
+*2025-09-08 17:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இணைந்து-பணியாற்ற-விருப்பம்/175-364224) · `ta`
+
+United National Party (UNP) Chairman Vajira Abeywardena said that the United National Party has decided to work with the United National Party (SJB) and other opposition parties in accordance with the consensus reached during the initial discussion.
+
+According to the former minister, the United National Party wants to work through a group or similar mechanism to integrate efforts with SJB and other opposition groups.
+
+In the recent period, the United National Party held discussions with the opposition parties on ways to cooperate on common issues.
+
+The United National Party (UNP) leader said that the party has decided to continue to implement the agreements reached during the discussion.
+
+Vajira Abeywardena added that the party has decided to work openly and collectively with the United People's Power.
+
+◼️
+
+[Data](articles/85862e02.json)
+
+[Extended Data](ext_articles/85862e02.ext.json)
+
+---
+
+### Nilanga demos as Acting Nilame on the Dalada Maligawa
+
+*2025-09-08 17:14:24* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-මාළිගාවේ-වැඩ-බලන-නිලමේ-ලෙස-නිලංග-දෑලම-පත්කරයි/11-418361) · `si`
+
+After the end of the historic Sri Dalada Maligawa Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage, Kandy has been appointed to work in the next three months.
+
+The Commissioner General of Buddhist Affairs has been appointed on the recommendations of the Malwathu Asgiriya Textians.
+
+The vote to appoint a new Diyawadana Nilame must be stopped before December 07, and it will probably be held on the supervision of the Commissioner General of Buddhist Affairs at the end of November.
+
+If the former Diyawadana Nilame Nilanga Dela was also informed of this election, he would be his own historic time as the manager of the Diyawadana Nilame in history.
+
+Basnayake Nilame of the Nathawawala Deposit for the election. The Malwatte Asiri Greek has been tradition that Mr. Bandaranaike is also present at the Duminda Bandara of the Kataragama Devalaya.
+
+◼️
+
+[Data](articles/2e415b10.json)
+
+[Extended Data](ext_articles/2e415b10.ext.json)
+
+---
+
+### Earthquake in Bhutan
+
+*2025-09-08 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/224553) · `ta`
+
+The earthquake in the 2.8 Ricker was the second time the earthquake hit the earthquake today (8).
+
+◼️
+
+[Data](articles/ce577b2a.json)
+
+[Extended Data](ext_articles/ce577b2a.ext.json)
+
+---
+
+### New Grid of Sampur builds a substation
+
+*2025-09-08 17:10:09* · [`adalk`](https://www.ada.lk/breaking_news/සාම්පූර්හි-නව-ග්‍රිඩ්-උපපොළක්-ඉදිකරයි/11-418360) · `si`
+
+Energy Minister Kumara Jayakody laid the construction of a new Grid substation in Sampur to promote the reliability of the national grid, especially in the renewable energy potential to enhance the reliability of the national grid in the island.
+
+The grid substation is important to ensure that the renewable energy produced in the Eastern Province to coordinate electrical supply and the electricity supply of electricity and the electricity supply of electricity and the province. The 77 transmission route is also included.
+
+Speaking further the government's goal of the Minister to develop all parts of the country and the use of electricity supply to the development of electricity and the ability to renewable energy production, the maximum use of the same ability to achieve development goals. The people advised the people of the area to provide the opportunity to the people of the area and to look into the problems of the people to provide the necessary training workers.
+
+◼️
+
+[Data](articles/796f852c.json)
+
+[Extended Data](ext_articles/796f852c.ext.json)
+
+---
+
+### Two race teased suspended
+
+*2025-09-08 17:06:56* · [`adalk`](https://www.ada.lk/breaking_news/රේස්-පැද්ද-බස්-දෙකේ-ගමන්වාර-තාවකාලිකව-අත්හිටුවයි/11-418359) · `si`
+
+From Kandy to Hatton (06) at the same district, the Central Province Road Transport Authority Chairman C Presidential suspended. Priyankara has taken steps.
+
+The Chairman of the Central Province Road Transport Authority has temporarily halted the journey of the two buses on the two buses on the two buses.
+
+Both buses have begun on two occasions on two occasions when the bus drivers were traveling in the Ginigathena area.
+
+The two drivers were immediately informed of the two drivers who were immediately informed of the two drivers from the Hatton Police.
+
+◼️
+
+[Data](articles/98ec082c.json)
+
+[Extended Data](ext_articles/98ec082c.ext.json)
+
+---
+
+### How to release ice product containers?
+
+*2025-09-08 17:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-தயாரிப்பு-கொள்கலன்கள்-விடுவிக்கப்பட்டது-எப்படி/175-364222) · `ta`
+
+Opposition Leader Sajith Premadasa has questioned how the two containers of the raw materials used in the manufacture of Crystal Meetamatamine (Ice) found by the security forces were able to leave the port.
+
+Parliamentarian Premadasa said that while the invention is trying to prevent drug trafficking, it also raises many problems that the government needs to clarify.
+
+“The main problem is how these two containers have left the port. International intelligence agencies continue to provide information on drug activities in Sri Lanka and it is important to know if they have warned the country about these specific containers, ”he said.
+
+Premadasa further stressed the need to publish the need to release the containers even after the timeline and trial of the investigation into the date of such intelligence information.
+
+He urged the government to reveal the truth about individuals and companies involved in the process if the containers were truly released.
+
+...
+
+[Data](articles/4f8853dd.json)
+
+[Extended Data](ext_articles/4f8853dd.ext.json)
 
 ---

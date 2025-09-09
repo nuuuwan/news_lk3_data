@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 22:10:40**
+As of **2025-09-09 21:08:22**
 
 ## Newspaper Stats
 
-*Scraped **75,034** Articles*
+*Scraped **75,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,63 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,272
 adaderanalk | 9,613
-tamilmirrorlk | 11,189
-virakesarilk | 12,255
-adaderanasinhalalk | 13,073
+tamilmirrorlk | 11,188
+virakesarilk | 12,254
+adaderanasinhalalk | 13,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,194 (86.9%) of 75,034 articles have been extended.
+65,147 (86.8%) of 75,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### கத்தார் - தோஹாவில் இஸ்ரேல் தாக்குதல்
-
-*2025-09-09 21:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கத்தார்-தோஹாவில்-இஸ்ரேல்-தாக்குதல்/50-364300) · `ta`
-
-ஹமாஸ் இயக்கத் தலைவர்களை குறிவைத்து கத்தார் தலைநகர் தோஹாவில் இஸ்ரேல் இன்று தாக்குதல் நடத்தியது.
-
-மத்திய கிழக்கு முழுவதும் தனது ராணுவ நடவடிக்கைகளை விரிவுபடுத்தி வரும் இஸ்ரேல், ஹமாஸ் அரசியல் தளம் அமைந்துள்ள கத்தாரையும் தனது இலக்காகக் கொண்டுள்ளது.
-
-கத்தாரில் உள்ள ஹமாஸ் தலைவர்கள்மீது இஸ்ரேல் தாக்குதல் நடத்தியதை இஸ்ரேலிய அதிகாரி ஒருவர் ராய்ட்டர்ஸ் செய்தி நிறுவனத்திடம் உறுதிப்படுத்தினார்.
-
-ஹமாஸ் தரப்பை மேற்கோள்காட்டிய கத்தாரின் அல் ஜசிரா தொலைக்காட்சி, இந்தத் தாக்குதல் ஹமாசின் காஸா போர் நிறுத்தப் பேச்சுவார்த்தை நடத்தியோர்மீது மேற்கொள்ளப்பட்டதாகத் தெரிவித்தது. R
-
-◼️
-
-[Data](articles/cb76ea4a.json)
-
----
-
-### Uzman Shinvari registers retirement from cricket
-
-*2025-09-09 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214379) · `si`
-
-The Uzmann Shinvari has decided to retire from Pakistan fast bowler.
-
-It is reported that Uzmann Singura has announced this in a statement.
-
-He represented the Pakistan for about six years and played 17 ODIs and 16 Twenty20 matches.
-
-He has taken 13 wickets and 13 T20 wickets.
-
-Uzman obtained his best bowling talent in his second ODI, and he was able to take five wickets against Sri Lanka.
-
-In 2019, he took 5 wickets again against Sri Lanka in his final ODI.
-
-He was also a member in the Pakistan squad at the 2018 Asian Cup.
-
-◼️
-
-[Data](articles/6a421585.json)
-
-[Extended Data](ext_articles/6a421585.ext.json)
-
----
 
 ### Israel attacked to Qatar targeting Hamas leaders
 
@@ -350,25 +306,19 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 
 ---
 
-### The Select Committee of the President's Title Removal Act
+### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනතට ආංශික අධීක්ෂණ කාරක සභාවෙ අනුමතිය
 
 *2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
 
-The claim of the Presidents (Removal) Bill was approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.
+ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
 
-The committee met with its Chairman Hon.
+ඒ එම කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානත්වයෙන්  අද (09) වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
 
-Speaking on the Bill, the Ministry of Justice and National Integration (Ministry of Justice), as stated in the Government's policy statement, it is expected to remove non-economic rights of the President and future claims, as stated in the Government's policy statement.
-
-The officials said that they have provided the pensions and privileges of the Sri Lankan government, even after leaving former presidents or their families after they have left their posts, and their families.
-
-Accordingly, the claim of the Presidents will be debated tomorrow as the President of the President today is scheduled to be debated tomorrow (10).
+මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  පැවසුයේ රජයේ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර ඇති පරිදි, රටේ ආර්ථික තත්ත්වයන් සැලකිල්ලට ගෙන  ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  මඟින්, හිටපු ජනාධිපතිවරුන්ගේ සහ අනාගත ජනාධිපතිවරුන් සහ ඔවුන්ගේ පවුල් සඳහා ලබාදෙනු ලබන ආර්ථිකමය නොවන හිමිකම් ඉවත් කිරීමට අපේක්‍ෂා කරනු ලබන බවයි.
 
 ...
 
 [Data](articles/dff575f8.json)
-
-[Extended Data](ext_articles/dff575f8.ext.json)
 
 ---
 
@@ -655,26 +605,6 @@ Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The o
 [Data](articles/49ff9401.json)
 
 [Extended Data](ext_articles/49ff9401.ext.json)
-
----
-
-### The government should take steps to provide the people of Kilinochchi district formally - Sridharan
-
-*2025-09-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224638) · `ta`
-
-The government should take steps to issue a proper land affirmation for the people of Kilinochchi district. Jaffna District Parliamentarian S. Siritharan has urged the Sri Lanka Tamil National Alliance (TNA) to provide a solution to the impact of agriculture in the Northern Province.
-
-During the session held in Parliament yesterday, he was speaking to the Minister of Employment, Livestock Resources, Land and Irrigation during the Question Time.
-
-The people in the Kilinochchi district have not been formally given land certificates. If the bonds issued in the Urumaya Project are not rejuvenated by the offices, the rice pledge should be taken.
-
-With more than 40 thousand families in the district, there are more than 12 thousand lands, why not take steps to issue their ghani guarantees? I urge the proper action to be taken accordingly.
-
-...
-
-[Data](articles/99d65460.json)
-
-[Extended Data](ext_articles/99d65460.ext.json)
 
 ---
 
@@ -2055,5 +1985,61 @@ Various resolutions were passed at this meeting. Commenting on the resolution, t
 [Data](articles/0ac03499.json)
 
 [Extended Data](ext_articles/0ac03499.ext.json)
+
+---
+
+### Cinnamon will no longer buy from Sri Lanka
+
+*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-இருந்து-இலவங்கம்-இனி-வாங்க-மாட்டோம்/175-364255) · `ta`
+
+The Sri Lankan government decided at a trade welfare union meeting that the Sri Lankan government would not buy any products, including cinnamon from Sri Lanka, if it was damaged and harassed the boats of Tamil Nadu fishermen.
+
+The 101st General Committee Meeting of the Salem Tuesday (08) was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
+
+Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
+
+...
+
+[Data](articles/c9c6ca27.json)
+
+[Extended Data](ext_articles/c9c6ca27.ext.json)
+
+---
+
+### Thailand's former Prime Minister Taksin Shinawatra sentenced one year in prison
+
+*2025-09-09 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224603) · `ta`
+
+The country's High Court has sentenced Thailand to former Prime Minister Taksin Shinawatra to one year in prison.
+
+International media reports that Thailand's High Court has ordered a former prime minister and billionaires to be jailed for one year on Tuesday (today).
+
+The Supreme Court ruled that it was illegal that Taxin had long stayed at the hospital last year.
+
+It is also reported that he ordered the court to serve the sentence in the Bangkok Remand Jail.
+
+◼️
+
+[Data](articles/b489e16a.json)
+
+[Extended Data](ext_articles/b489e16a.ext.json)
+
+---
+
+### Rajitha released on bail
+
+*2025-09-09 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214352) · `si`
+
+The Colombo Magistrate's Court set up former Minister Rajitha Senaratne to be released on bail.
+
+The suspect ordered that the suspect was released on two bail of Rs.
+
+Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Bribery Commission and the suspect's lawyers.
+
+◼️
+
+[Data](articles/e2937fac.json)
+
+[Extended Data](ext_articles/e2937fac.ext.json)
 
 ---

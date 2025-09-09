@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 21:39:09**
+As of **2025-09-09 21:08:22**
 
 ## Newspaper Stats
 
-*Scraped **75,032** Articles*
+*Scraped **75,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,17 @@ adalk | 7,272
 adaderanalk | 9,613
 tamilmirrorlk | 11,188
 virakesarilk | 12,254
-adaderanasinhalalk | 13,073
+adaderanasinhalalk | 13,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,155 (86.8%) of 75,032 articles have been extended.
+65,147 (86.8%) of 75,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### උස්මාන් ෂින්වාරි ක්‍රිකට් පිටියෙන් සමුගනී
-
-*2025-09-09 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214379) · `si`
-
-පාකිස්ථාන වේග පන්දු යවන ක්‍රීඩක උස්මාන් ෂින්වාරි ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් විශ්‍රාම ගැනීමට තීරණය කර තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් උස්මාන් ෂින්වාරි මේ බව නිවේදනය කර ඇති බව වාර්තා වෙයි.
-
-වසර හයක පමණ කාලයක් පාකිස්තාන කණ්ඩායම නියෝජනය කළ ඔහු එක්දින තරග 17 කට සහ විස්සයි20 තරග 16 කට ක්‍රීඩා කර තිබේ.
-
-එහිදී ඔහු එක්දින කඩුලු 34ක් සහ විස්සයි20 කඩුලු 13ක් දවාගෙන ඇත.
-
-උස්මාන් ඔහුගේ දෙවන එක්දින තරගයේදී ඔහුගේ හොඳම පන්දු යැවීමේ දක්ෂතා ලබා ගත් අතර, සාජාහිදී ශ්‍රී ලංකාවට එරෙහිව කඩුලු පහක් දවා ගැනීමට ඔහු සමත් විය.
-
-ඔහු 2019 දී ඔහුගේ අවසන් එක්දින තරගයේදී ශ්‍රී ලංකාවට එරෙහිව නැවත වරක් කඩුලු 5ක් දවා ගැනීම සමත්විය.
-
-ඔහු 2018 ආසියානු කුසලාන තරගාවලියේදී පාකිස්තාන සංචිතයේ ද සාමාජිකයෙකු විය.
-
-◼️
-
-[Data](articles/6a421585.json)
-
----
 
 ### Israel attacked to Qatar targeting Hamas leaders
 
@@ -330,25 +306,19 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 
 ---
 
-### The Select Committee of the President's Title Removal Act
+### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනතට ආංශික අධීක්ෂණ කාරක සභාවෙ අනුමතිය
 
 *2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
 
-The claim of the Presidents (Removal) Bill was approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.
+ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
 
-The committee met with its Chairman Hon.
+ඒ එම කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානත්වයෙන්  අද (09) වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
 
-Speaking on the Bill, the Ministry of Justice and National Integration (Ministry of Justice), as stated in the Government's policy statement, it is expected to remove non-economic rights of the President and future claims, as stated in the Government's policy statement.
-
-The officials said that they have provided the pensions and privileges of the Sri Lankan government, even after leaving former presidents or their families after they have left their posts, and their families.
-
-Accordingly, the claim of the Presidents will be debated tomorrow as the President of the President today is scheduled to be debated tomorrow (10).
+මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  පැවසුයේ රජයේ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර ඇති පරිදි, රටේ ආර්ථික තත්ත්වයන් සැලකිල්ලට ගෙන  ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  මඟින්, හිටපු ජනාධිපතිවරුන්ගේ සහ අනාගත ජනාධිපතිවරුන් සහ ඔවුන්ගේ පවුල් සඳහා ලබාදෙනු ලබන ආර්ථිකමය නොවන හිමිකම් ඉවත් කිරීමට අපේක්‍ෂා කරනු ලබන බවයි.
 
 ...
 
 [Data](articles/dff575f8.json)
-
-[Extended Data](ext_articles/dff575f8.ext.json)
 
 ---
 
@@ -2053,5 +2023,23 @@ It is also reported that he ordered the court to serve the sentence in the Bangk
 [Data](articles/b489e16a.json)
 
 [Extended Data](ext_articles/b489e16a.ext.json)
+
+---
+
+### Rajitha released on bail
+
+*2025-09-09 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214352) · `si`
+
+The Colombo Magistrate's Court set up former Minister Rajitha Senaratne to be released on bail.
+
+The suspect ordered that the suspect was released on two bail of Rs.
+
+Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Bribery Commission and the suspect's lawyers.
+
+◼️
+
+[Data](articles/e2937fac.json)
+
+[Extended Data](ext_articles/e2937fac.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 22:22:36**
+As of **2025-09-09 22:10:40**
 
 ## Newspaper Stats
 
-*Scraped **75,035** Articles*
+*Scraped **75,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,272
 adaderanalk | 9,613
-tamilmirrorlk | 11,190
+tamilmirrorlk | 11,189
 virakesarilk | 12,255
 adaderanasinhalalk | 13,073
 
@@ -26,47 +26,27 @@ adaderanasinhalalk | 13,073
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,218 (86.9%) of 75,035 articles have been extended.
+65,194 (86.9%) of 75,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### நேபாளத்தின் முன்னாள் பிரதமரின் மனைவி எரித்துக் கொலை
-
-*2025-09-09 22:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முன்னாள்-பிரதமரின்-மனைவி-எரித்துக்-கொலை/50-364305) · `ta`
-
-நேபாளத்தில் முன்னாள் பிரதமரின் மனைவி உயிருடன் எரித்துக் கொல்லப்பட்டதாக அங்குள்ள ஊடகங்கள் தெரிவித்துள்ளன.
-
-நேபாள அரசால் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடையைத் தொடர்ந்து இளைஞர்கள் அணிதிரண்டு தலைநகர் காத்மாண்டுவில் திங்கள்கிழமை(செப். 8) பெரும் போராட்டத்தில் ஈடுபட்டனர். இந்த நிலையில், போராட்டம் கலவரமாக வெடித்தது.
-
-கலவரத்தில் நேபாள முன்னாள் பிரதமர் ஜலாநாத் காநலின் மனைவி ராஜ்யலக்‌ஷ்மி சித்ராகர் செவ்வாய்க்கிழமை(செப். 9) உயிரிழந்தார். காத்மாண்டுவிலுள்ள டல்லு பகுதியில் அவர் வசித்து வந்த வீட்டுக்கு போராட்டக்காரர்கள் தீ வைத்தனர். அதில் வீடு தீக்கிரையானது.
-
-இந்தச் சூழலில், மிகுந்த சிரமத்துக்கிடையே உயிருடன் வெளியே மீட்கப்பட்டு மருத்துவமனையில் அனுமதிக்கப்பட்ட ராஜ்யலக்‌ஷ்மி சிகிச்சை பலனின்றி இன்று உயிரிழந்தார். இந்தத் தகவலை அவர்தம் குடும்பத்துக்கு நெருக்கமான வட்டாரங்கள் தெரிவித்துள்ளதாக அங்குள்ள ஊடகங்கள் தெரிவித்துள்ளன. R
-
-◼️
-
-[Data](articles/a1afa833.json)
-
----
-
-### Qatar - Israel attack in Doha
+### கத்தார் - தோஹாவில் இஸ்ரேல் தாக்குதல்
 
 *2025-09-09 21:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கத்தார்-தோஹாவில்-இஸ்ரேல்-தாக்குதல்/50-364300) · `ta`
 
-Israel today launched an offensive in Qatar's capital, Doha, targeting Hamas movement leaders.
+ஹமாஸ் இயக்கத் தலைவர்களை குறிவைத்து கத்தார் தலைநகர் தோஹாவில் இஸ்ரேல் இன்று தாக்குதல் நடத்தியது.
 
-Israel, which is expanding its military operations throughout the Middle East, is also aimed at Qatar, where the Hamas political base is located.
+மத்திய கிழக்கு முழுவதும் தனது ராணுவ நடவடிக்கைகளை விரிவுபடுத்தி வரும் இஸ்ரேல், ஹமாஸ் அரசியல் தளம் அமைந்துள்ள கத்தாரையும் தனது இலக்காகக் கொண்டுள்ளது.
 
-An Israeli official confirmed to Reuters News that Israel's attack on Hamas leaders in Qatar.
+கத்தாரில் உள்ள ஹமாஸ் தலைவர்கள்மீது இஸ்ரேல் தாக்குதல் நடத்தியதை இஸ்ரேலிய அதிகாரி ஒருவர் ராய்ட்டர்ஸ் செய்தி நிறுவனத்திடம் உறுதிப்படுத்தினார்.
 
-Qatar's al -Jasira Television, citing Hamas, reported that the attack was carried out on the Hamas Gaza ceasefire.. Remble
+ஹமாஸ் தரப்பை மேற்கோள்காட்டிய கத்தாரின் அல் ஜசிரா தொலைக்காட்சி, இந்தத் தாக்குதல் ஹமாசின் காஸா போர் நிறுத்தப் பேச்சுவார்த்தை நடத்தியோர்மீது மேற்கொள்ளப்பட்டதாகத் தெரிவித்தது. R
 
 ◼️
 
 [Data](articles/cb76ea4a.json)
-
-[Extended Data](ext_articles/cb76ea4a.ext.json)
 
 ---
 
@@ -2057,5 +2037,23 @@ Rajitha was arrested after appearing in court on August 29 following the arrest 
 [Data](articles/ae12f9d2.json)
 
 [Extended Data](ext_articles/ae12f9d2.ext.json)
+
+---
+
+### We will no longer buy cinnamon from Sri Lanka
+
+*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இலங்கையில்-இருந்து-இலவங்கம்-வாங்க-மாட்டோம்/175-364255) · `ta`
+
+இலங்கை அரசு தமிழக மீனவர்களின் படகுகளை சேதப்படுத்தி துன்புறுத்தினால் இலங்கையில் இருந்து வரும் இலவங்கம் உள்ளிட்ட எவ்வித பொருட்களையும் வாங்க மாட்டோம் என  வர்த்தக நல சங்க கூட்டத்தில் தீர்மானம் நிறைவேற்றப்பட்டது.
+
+The 101st General Assembly Meeting of the Salem Tuesday Welfare Association was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
+
+Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
+
+...
+
+[Data](articles/0ac03499.json)
+
+[Extended Data](ext_articles/0ac03499.ext.json)
 
 ---

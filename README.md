@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 13:57:22**
+As of **2025-09-09 12:55:51**
 
 ## Newspaper Stats
 
-*Scraped **74,966** Articles*
+*Scraped **74,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,261 +16,21 @@ economynextcom | 4,541
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,261
-adaderanalk | 9,600
-tamilmirrorlk | 11,175
+adalk | 7,257
+adaderanalk | 9,598
+tamilmirrorlk | 11,171
 virakesarilk | 12,245
-adaderanasinhalalk | 13,057
+adaderanasinhalalk | 13,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,795 (86.4%) of 74,966 articles have been extended.
+64,694 (86.3%) of 74,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் நாளை விவாதம்
-
-*2025-09-09 13:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-உரிமைகளை-நீக்கும்-சட்டமூலம்-நாளை-விவாதம்/175-364268) · `ta`
-
-முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் மீது நாளை (10) காலை 11.30 மணி முதல் பிற்பகல் 3.30 மணி வரை விவாதம் நடத்த பாராளுமன்ற விவகாரக் குழு முடிவு செய்துள்ளது.
-
-சட்டமூலம் குறித்த உயர் நீதிமன்றத்தின் கருத்தையும் சபாநாயகர்  பாராளுமன்றத்தில் இன்று (09) சமர்ப்பித்தார். சட்டமூலத்தில் உள்ள எந்தப் பிரிவும் அரசியலமைப்பிற்கு முரணானது அல்ல என உயர் நீதிமன்றத்தின் வியாக்கியானத்தில் குறிப்பிடப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/da8aff33.json)
-
----
-
-### ஜனாதிபதி சலுகை ரத்து சட்டமூலம்;நாளை விவாதம்
-
-*2025-09-09 13:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சலுகை-ரத்து-சட்டமூலம்-நாளை-விவாதம்/175-364267) · `ta`
-
-ஜனாதிபதியின் உரிமைகளை ரத்து செய்யும் சட்டமூலத்தை நாளை விவாதிக்க பாராளுமன்ற அலுவல்கள் குழு முடிவு செய்துள்ளதாக பாராளுமன்ற தொடர்பாடல் பிரிவு தெரிவித்துள்ளது.
-
-சபாநாயகர் தலைமையில் இன்று நடைபெற்ற அலுவல் குழு கூட்டத்தில் இந்த முடிவு எடுக்கப்பட்டது.
-
-அதன்படி, நாளை காலை 11.30 மணி முதல் பிற்பகல் 3.30 மணி வரை விவாதம் நடைபெறும்.
-
-முன்னாள் ஜனாதிபதிகளின் சில சலுகைகளை ஒழிக்கும் ஜனாதிபதியின் உரிமைகள் ரத்து சட்டமூலம், அரசியலமைப்பின் படி உள்ளது என்றும், எளிய பெரும்பான்மையால் நிறைவேற்றப்படலாம் என்றும் உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
-
-◼️
-
-[Data](articles/16fc2647.json)
-
----
-
-### මිද්දෙනි​යෙන් සොයා ගත් අයිස් කන්ටේනර් රේගුවෙන් පරික්ෂා කර නිදහස් කරලා තිබෙන්නේ
-
-*2025-09-09 13:17:58* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනි​යෙන්-සොයා-ගත්-අයිස්-කන්ටේනර්-රේගුවෙන්-පරික්ෂා-කර-නිදහස්-කරලා-තිබෙන්නේ/11-418382) · `si`
-
-මිද්දෙනියේදී සොයා ගනු ලැබූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයේ තිබූ කන්ටේන්ර් 2 පරික්ෂාවට ලක්කර නිදහස් කර ඇති බවට රේගුව ප්‍රකාශ කරන බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී අද(09දා) මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“මේ කන්ටේනර් 2 පරික්ෂාවට ලක් කරලා තමයි නිදහස් කරලා තියෙන්නේ රේගුව  කියන විදියට. එතනදී සිදු වුණු අක්‍රමිකතාවන් පිළිබඳ දැන් රේගු දෙපාර්තමේන්තුව පැත්තෙන්ම පරීක්ෂණයක් කරමින් පවතිනවා. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැත්තෙනුත් පරීක්ෂණයක් කරමින් පවතිනවා. ඒ අනුව අපිට බලාගන්න පුළුවන් සැලසුම් සහගතව මේ කන්ටේනර් නිදහස් කළාද, මොකක්ද වුණු දේ ආදී සියලු දේවල් ඒ පරීක්ෂණ  අනුව සිදු කරන්න පුළුවන්. ”
-
-◼️
-
-[Data](articles/44c25862.json)
-
----
-
-### Second Reading of the President's Cancellation Bill tomorrow
-
-*2025-09-09 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214360) · `si`
-
-The Bill will be declined tomorrow (10) to the debate from 11:30 am to 3:30 am to 3.30 pm.
-
-The Parliament of Sri Lanka has made this informed this, that this has been decided at the Committee on Parliamentary Affairs Committee today (09).
-
-◼️
-
-[Data](articles/c623fb22.json)
-
-[Extended Data](ext_articles/c623fb22.ext.json)
-
----
-
-### Amy mining arrested
-
-*2025-09-09 12:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆமி-சுரங்க-கைது/175-364266) · `ta`
-
-The Western Province Southern Criminal Investigation Department (SLMC) has arrested a man who was a gunman of Homagama Handaya, an organized culprit.
-
-The arrested is said to be Buddhika Lakmal, a former soldier called Army Mine.
-
-The locally manufactured batsman and 3 rifles were seized.
-
-On August 13, a suspect has been arrested near Tunna Vihara, following an investigation into the incident in which a man was shot dead in Bahadgama, Hanwella.
-
-It is reported that the bag of the suspect was broken into two pieces of bag.
-
-Further investigations are being carried out by the Western Province Southern Crime Branch.
-
-◼️
-
-[Data](articles/ac11e37e.json)
-
-[Extended Data](ext_articles/ac11e37e.ext.json)
-
----
-
-### Freight train collision on Tecker bus; 10 killed
-
-*2025-09-09 12:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டெக்கர்-பஸ்-மீது-சரக்கு-ரயில்-மோதல்-10-பேர்-பலி/50-364265) · `ta`
-
-Ten people were killed and more than 60 injured in a freight train collision with a Double-teacher bus in Mexico.
-
-The Double Decker bus was traveling with more than 70 people from the city of Michogan, Mexico, to Mexico City.
-
-The freight train crashed when the bus was trying to cross the railway track this morning in Atlakomulko, the northwest of Mexico City.
-
-The bus was severely damaged. The passengers on the bus were thrown. 10 people died on the spot. 61 people have been rescued with injuries and taken to a nearby hospital.
-
-The situation of many of their. Preliminary information has revealed that the bus driver and the train will be operated by the train's signal.. The Mexico police have registered a case and are investigating the railway.
-
-◼️
-
-[Data](articles/5f5cfa2a.json)
-
-[Extended Data](ext_articles/5f5cfa2a.ext.json)
-
----
-
-### Approval to the compile of a new law for foster parent care
-
-*2025-09-09 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214359) · `si`
-
-The Cabinet of Women and Children's Affairs has been approved to advise a bill to introduce a new law to introduce a new law to introduce a new law for the foster parent care.
-
-It has been identified as a formal legal provision of the foster parent protection covering all children in Sri Lanka.
-
-Therefore, a concept leaflet has been presented to the establishment of the Foster Parental Protection Mechanism to implement an alternative care system, which has become a timely need.
-
-The proposed mechanism is expected to implement the care program under the establishment of the demonstrated parental protection and the main methods of disposal.
-
-Accordingly, the Cabinet decision notification stated that the proposal has been approved by the Cabinet of Ministers based on the concept leaflet.
-
-Following is the full announcement of the decisions of the Cabinet meeting held on 08.09.2013.
-
-◼️
-
-[Data](articles/ff78f887.json)
-
-[Extended Data](ext_articles/ff78f887.ext.json)
-
----
-
-### Padma and the group trapped the jakarta mission
-
-*2025-09-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214358) · `si`
-
-'Today' has received a footage in Indonesia and the five criminal criminals
-
-A footage of the five criminals including Kehelbadara Padma in Indonesia have been arrested.
-
-Kehelibodara Padma and Kudu Nilanga is arrested while Commando Salinantha, Bacquan and Orange Lahiru.
-
-While hiding in Indones, Criminadara Padkerens, Commando Salinara, Kudu Nilanga, and Orange Lahiru recently arrested the orange lahiru recently.
-
-Assistant Superintendents of Police Rohan Oligala and Assistant Superintendent of Police Mahinda Jayasundera.
-
-The operation of Jakarta Metropolitan Police, the Criminal Investigation Unit, or International Police, received the support of the Jattonras and the International Police.
-
-According to the police, the police were disclosed at the meeting operations in India's Verybon Jewruk area in Indonesia.
-
-Accordingly, the two police officers of the Sri Lanka have revealed that the two police officers have been revealed to this Bodybuilding Center.
-
-...
-
-[Data](articles/36ac4bf9.json)
-
-[Extended Data](ext_articles/36ac4bf9.ext.json)
-
----
-
-### Debate on Presidential Rights Removal Bill tomorrow
-
-*2025-09-09 12:23:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත්-කෙටුම්පත-ගැන-විවාදය-හෙට/11-418380) · `si`
-
-The Committee on Parliamentary Business has decided to debate the "Rights (Removal of the Presidents)"
-
-Accordingly, he has decided to debate the debate from 11:30 am to 3.30 pm tomorrow.
-
-◼️
-
-[Data](articles/b8bdc562.json)
-
-[Extended Data](ext_articles/b8bdc562.ext.json)
-
----
-
-### Colombo Magistrate’s Court concludes corruption case against Keheliya and family
-
-*2025-09-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112316/colombo-magistrates-court-concludes-corruption-case-against-keheliya-and-family-) · `en`
-
-As the Bribery Commission has filed a case against former Minister Keheliya Rambukwella and his family members before the Colombo High Court on charges under the Prevention of Money Laundering Act, Colombo Chief Magistrate Asanka S. Bodaragama today (09) ordered the conclusion of the proceedings pending before the Colombo Magistrate’s Court in this matter.
-
-The Chief Magistrate directed the defendants to appear before the Colombo High Court on the scheduled dates, Ada Derana reporter said.
-
-When the case was taken up today, officials of the Bribery Commission informed the court that indictments have been filed against the defendants before the Colombo High Court in connection with the aforementioned investigation.
-
-...
-
-[Data](articles/f31b83e9.json)
-
-[Extended Data](ext_articles/f31b83e9.ext.json)
-
----
-
-### Strong lightning and heavy rain
-
-*2025-09-09 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214357) · `si`
-
-The Department of Meteorology has issued an announcement in a strong lightning and heavy rains.
-
-The announcement issued at 11.30 am today (09) will be valid until 11.00 pm today.
-
-There is an increase in lightning lightning in the Central, North Central, Eastern Uva and Sabaragamuwa Province and thunderstorms in Vavuniya, Mannar, Mullaitivu and Hambantota districts.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Meteorology Department requests people to take necessary steps to minimize the damages caused by lightning.
-
-◼️
-
-[Data](articles/f54d6db9.json)
-
-[Extended Data](ext_articles/f54d6db9.ext.json)
-
----
-
-### Ten people killed, 61 hurt after train hits double-decker bus in Mexico
-
-*2025-09-09 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112315/ten-people-killed-61-hurt-after-train-hits-double-decker-bus-in-mexico) · `en`
-
-Ten people were killed and at least 61 were injured in central Mexico when a freight train smashed into a double-decker passenger bus, which the train operator said had been attempting to pass in front of the moving train.
-
-Canadian Pacific Kansas City de Mexico, the railway, expressed its condolences to the victims’ families and called on drivers to respect road signs and stop orders at railroad crossings.
-
-Bus operator Herradura de Plata did not immediately respond to a request for comment.
-
-Images from the scene showed the front part of the top deck of the bus smashed in and its metal frame badly dented, as first responders cordoned off the area.
-
-The collision happened in an industrial zone on the highway between Atlacomulco, a town some 115 km (71 miles) northwest of the capital Mexico City, and Maravatio, in nearby Michoacan state, local authorities said.
-
-...
-
-[Data](articles/84cf3629.json)
-
-[Extended Data](ext_articles/84cf3629.ext.json)
-
----
 
 ### 2026 Appropriation Bill approved
 
@@ -292,22 +52,6 @@ The President has approved the proposal made by the President's proposal to publ
 
 ---
 
-### Cabinet sub-committee for organizing 78th Independence Day commemoration
-
-*2025-09-09 11:54:05* · [`adalk`](https://www.ada.lk/breaking_news/78-වැනි-නිදහස්-දින-සමරු-උළෙලේ-සංවිධාන-කටයුතු-සඳහා-කැබිනට්-අනු-කමිටුවක්/11-418379) · `si`
-
-78 වැනි නිදහස් දින සමරු උළෙලේ සංවිධාන කටයුතු සඳහා කැබිනට් අනු කමිටුවක් පත් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වූ බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-He said that the appointment of the sub-committee Dhamma Dr. Harari Amarasuriya was instrumental in appointing the participation of Ministers.
-
-◼️
-
-[Data](articles/692f64ca.json)
-
-[Extended Data](ext_articles/692f64ca.ext.json)
-
----
-
 ### People's Bank bizteens for adolescents
 
 *2025-09-09 11:45:22* · [`adalk`](https://www.ada.lk/business/නව-යොවුන්-ව්‍යවසායකයන්ට-මහජන-බැංකුවෙන්-BizTeens/7-418377) · `si`
@@ -323,22 +67,6 @@ Aruna Liyanayunagahawardena, Deputy General Manager of the Ceylon Industrial Dev
 [Data](articles/505bce9f.json)
 
 [Extended Data](ext_articles/505bce9f.ext.json)
-
----
-
-### World Bank is US $. 100
-
-*2025-09-09 11:40:23* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ඇ-ඩො-මි--100ක්/11-418376) · `si`
-
-US $ 100 million has been contracted between the Sri Lankan government and the World Bank Group, aimed at strengthening of rural livelihoods, creating the ability to create the equipment and development of agro-food department.. Over 380,000 people will benefit from Sri Lanka.
-
-This program is designated as "Ruban" (Ruban) (Ruban), the development and a municipal and urban of the 71,000 hectares of agricultural products, improving the sophisticated and drainage services to the small estate owners.. The purpose of young people and women - especially for young people and women - especially for young people and women - especially youths and women.
-
-◼️
-
-[Data](articles/6088d59a.json)
-
-[Extended Data](ext_articles/6088d59a.ext.json)
 
 ---
 
@@ -521,8 +249,6 @@ The Integrated “Rurban” (Rural and Urban) Development and Climate Resilience
 ...
 
 [Data](articles/14d53662.json)
-
-[Extended Data](ext_articles/14d53662.ext.json)
 
 ---
 
@@ -727,8 +453,6 @@ Senaratne, who previously appeared before the Colombo Magistrate’s Court on Au
 ...
 
 [Data](articles/68a3ca46.json)
-
-[Extended Data](ext_articles/68a3ca46.ext.json)
 
 ---
 
@@ -1024,9 +748,7 @@ Accordingly, the Supreme Court held that the bill can be enacted by a simple maj
 
 Furthermore, the Speaker revealed that the Supreme Court has dismissed the petition filed against this Bill as the petitioner has failed to invoke jurisdiction in accordance with the mandatory provisions of Article 121(1) of the Constitution.
 
-The Supreme Court had previously, on August 25, indicated that it would submit its confidential determination on the constitutionality of the bill—aimed at removing privileges of retired Presidents—to the Speaker of Parliament.
-
-...
+◼️
 
 [Data](articles/b2dcd4cb.json)
 
@@ -1915,5 +1637,263 @@ This collaboration reflects a shared vision to integrate the strengths of both o
 [Data](articles/cce9fc5f.json)
 
 [Extended Data](ext_articles/cce9fc5f.ext.json)
+
+---
+
+### Panasian Power’s 5 MW Galle solar plant fully operational
+
+*2025-09-09 03:05:20* · [`dailyftlk`](https://www.ft.lk/business/Panasian-Power-s-5-MW-Galle-solar-plant-fully-operational/34-781420) · `en`
+
+Panasian Power PLC yesterday said that its 5 MW ground-mounted solar project in Galle has successfully connected to the grid and running at full capacity.
+
+The plant had initially connected to the Galle Grid Substation on 29 August. However, due to limitations in the transmission network, the plant was not operating in its full capacity, the company said in a statement.
+
+The CEB confirmed that the necessary upgrades have been done and accordingly, the plant was operating at full capacity from 4 September, the company said.
+
+This is the 4th 5 MW ground-mounted solar power plant connected to the national grid out of the seven projects which the company entered into PPAs in 2024.
+
+◼️
+
+[Data](articles/5a942123.json)
+
+[Extended Data](ext_articles/5a942123.ext.json)
+
+---
+
+### Japan hands over infectious waste management equipment to 15 hospitals across SL
+
+*2025-09-09 03:00:49* · [`dailyftlk`](https://www.ft.lk/news/Japan-hands-over-infectious-waste-management-equipment-to-15-hospitals-across-SL/56-781419) · `en`
+
+From left: Deputy Foreign Affairs Minister Arun Hemachandra, Japanese Ambassador Akio Isomata, Health Minister Dr. Nalinda Jayatissa, and JICA Sri Lanka Chief Representative Kenji Kuronuma
+
+The Embassy of Japan has said that Ambassador Akio Isomata handed over infectious waste management equipment to 15 hospitals in the country at a ceremony at the Trincomalee General Hospital.
+
+The equipment has been provided under the ‘Project for the Improvement of Infectious Waste Management’, for which the Exchange of Notes was signed in April 2023 with a grant assistance of JPY 503 million (approx. $ 3.7 million) by the Government of Japan.
+
+...
+
+[Data](articles/bb129a6b.json)
+
+[Extended Data](ext_articles/bb129a6b.ext.json)
+
+---
+
+### Tilvin dismisses rumours of PM’s removal
+
+*2025-09-09 02:57:54* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-dismisses-rumours-of-PM-s-removal/56-781418) · `en`
+
+The main constituent party of the NPP Government Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva yesterday squashed claims that Prime Minister  Dr. Harini Amarasuriya will be removed from her post.
+
+Speaking at a public meeting, Silva said such speculation had been repeatedly circulated by the Opposition but had not materialised.
+
+“Earlier they claimed Harini Amarasuriya would lose her ministerial portfolio. Now they are saying she will be removed as Prime Minister. These are nothing more than their dreams,” he said. Silva added that the Opposition had been making what he described as unfounded claims for a long period, none of which had come to pass.
+
+◼️
+
+[Data](articles/57e8666f.json)
+
+[Extended Data](ext_articles/57e8666f.ext.json)
+
+---
+
+### More chemicals linked to ICE production seized in Kandana
+
+*2025-09-09 02:55:18* · [`dailyftlk`](https://www.ft.lk/news/More-chemicals-linked-to-ICE-production-seized-in-Kandana/56-781417) · `en`
+
+Sri Lanka Police yesterday seized over 100 kilos of chemicals suspected to be used in the manufacture of crystal methamphetamine (ICE) at a residence in Kandana following a cache of similar suspect chemicals over the weekend in Tangalle.
+
+The white substances were found dumped on the premises of a house and were detected during investigations linked to a suspect already in custody. No arrests have been made in connection with the Kandana discovery. Police said the stock appeared similar to chemicals recovered during a raid on a property in Thalawa, Middeniya over the weekend.
+
+Meanwhile, in a separate operation in Netolpitiya, Tangalle, police acting on information from residents discovered another consignment of white chemicals suspected to be used in ICE production. The seized stocks are to be tested further and investigations are continuing.
+
+◼️
+
+[Data](articles/3ff25097.json)
+
+[Extended Data](ext_articles/3ff25097.ext.json)
+
+---
+
+### SC sets Feb. 2026 date to hear petitions against Ranil’s Deshabandu IGP appointment
+
+*2025-09-09 02:54:54* · [`dailyftlk`](https://www.ft.lk/news/SC-sets-Feb-2026-date-to-hear-petitions-against-Ranil-s-Deshabandu-IGP-appointment/56-781416) · `en`
+
+The Supreme Court fixed 12 February 2026 to take up petitions challenging the legality of former President Ranil Wickremesinghe’s appointment of Deshabandu Thennakoon as Inspector General of Police (IGP) yesterday.
+
+Nine petitions have been filed, including by Malcolm Cardinal Ranjith, the Young Journalists Association, and other parties.
+
+In August, Parliament voted to remove Thennakoon from office, with 177 members in favour, none against, and one abstention. This was the first time a sitting IGP had been removed through a parliamentary resolution.
+
+...
+
+[Data](articles/b51af9a5.json)
+
+[Extended Data](ext_articles/b51af9a5.ext.json)
+
+---
+
+### Humanity excavation should be suited to international principles - members of the council
+
+*2025-09-09 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224579) · `ta`
+
+Members of the Council, including Britain, New Zealand, Switzerland, Switzerland and Australia, have urged the government's excavation operations in Sri Lanka to accommodate international principles and to remove the terrorism law used to target individuals.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday. The report on Sri Lanka was submitted by the High Commissioner Volcker Durg at yesterday's opening session and followed the discussion on the report.
+
+Accordingly, Japan expressed his appreciation for the ongoing social and economic development projects in the North-East Provinces, saying that the Sri Lankan government's commitment to the dedicated obligation to build national reconciliation, accountability and justice to ensure justice.. Similarly, it announced that it was ready to provide necessary cooperation for constructive measures to build reconciliation.
+
+...
+
+[Data](articles/5555739b.json)
+
+[Extended Data](ext_articles/5555739b.ext.json)
+
+---
+
+### The UN Human Rights Council should work without sides - Pakistan, Laos, Eritrea in support of Sri Lanka
+
+*2025-09-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224578) · `ta`
+
+Representatives of Pakistan, Laos and Eritrea, who urged the UN Human Rights Council to act on the basis of justification, have announced that they support Sri Lanka's internal procedures.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). A report on Sri Lanka was submitted by the High Commissioner Volcker Darek at the inaugural session and followed the report.
+
+Representatives from countries including Laos, Pakistan and Eritrea commented in support of Sri Lanka.
+
+Although Sri Lanka has rejected the 57 -1 resolution in the last session, they have praised the UN Human Rights Commissioner Volkar Dareg to visit the country.
+
+At the same time, representatives of the United Nations Human Rights Council, which urged the UN Human Rights Council to act on the basis of justification, declared that they would support the internal processes of Sri Lanka.
+
+...
+
+[Data](articles/ad402284.json)
+
+[Extended Data](ext_articles/ad402284.ext.json)
+
+---
+
+### The process of drug purchases in pharmaceutical products
+
+*2025-09-09 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224577) · `ta`
+
+Health Minister Nalinda Jayatissa said that if there is a shortage of pharmaceuticals and medical equipment in a particular hospital, it is not a shortage caused by the shortage of funds but due to the problem of purchasing them.
+
+86 newly recruited by the Ministry of Health. The appointment letters for recruitment for the instructions for the instructions defined by these dental graduates were presented with the Minister of Health and Mass Media at the Hector Koppekaduwa Agricultural Research and Training Institute in Colombo under the patronage of Health and Media Minister Nalinda Jayatissa.
+
+The projects that are necessary to establish every sector in the field of scientifically to improve the health services of this country are organized.. Since 2019, many dental surgeons have been recruited for defined algorithms. Steps will be taken in the future to provide immediate appointments to those who have fulfilled the training.
+
+...
+
+[Data](articles/7a6f313d.json)
+
+[Extended Data](ext_articles/7a6f313d.ext.json)
+
+---
+
+### Roadmap for Sri Lanka’s regenerative future
+
+*2025-09-09 01:06:52* · [`dailyftlk`](https://www.ft.lk/columns/Roadmap-for-Sri-Lanka-s-regenerative-future/4-781396) · `en`
+
+Adopting a national regenerative agriculture strategy represents a rare and potent convergence of domestic political will, international strategic priorities, and global market forces
+
+Across South Asia, the weather now writes the headlines. One month parched, the next month a deluge. On a small island with big farming traditions, there is a calmer path that honours both the harvest and the river.
+
+...
+
+[Data](articles/7f4842bb.json)
+
+[Extended Data](ext_articles/7f4842bb.ext.json)
+
+---
+
+### Russia has successfully developed the "Endromix" vaccine against cancer
+
+*2025-09-09 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224576) · `ta`
+
+They say the vaccine has been examined by humans and has achieved 100 percent success.
+
+Researchers have shown that the endromix vaccine, a MRNA vaccine can be detected and completely destroyed by cancer cells.
+
+◼️
+
+[Data](articles/16ab6e67.json)
+
+[Extended Data](ext_articles/16ab6e67.ext.json)
+
+---
+
+### Copyright and creativity: Why Sri Lanka must embrace global standards
+
+*2025-09-09 00:56:40* · [`dailyftlk`](https://www.ft.lk/columns/Copyright-and-creativity-Why-Sri-Lanka-must-embrace-global-standards/4-781395) · `en`
+
+Sri Lanka exists within the global community, not apart from it. Yet, in public discourse surrounding law, technology, governance, and culture, a recurring theme persists: the belief that Sri Lanka is somehow exceptional, requiring uniquely local solutions. While national context is important, this mindset often overlooks a critical reality: we operate within an interconnected world governed by international norms. Nowhere is this more evident than in the realm of copyright law, particularly in music.
+
+...
+
+[Data](articles/f3e23024.json)
+
+[Extended Data](ext_articles/f3e23024.ext.json)
+
+---
+
+### Failure in no confidence resolution - France government collapsed
+
+*2025-09-09 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224575) · `ta`
+
+The government has collapsed as a no -confidence motion brought on French Prime Minister Fran ுவ ois Beiru has been passed in the National Assembly.
+
+In the no -confidence motion, 364 MPs voted against 194 MPs and 25 MPs did not vote.
+
+Following this, the Elisy Palace has announced that President Emmanuel Macron will appoint a new prime minister.  President Macron will meet him on Tuesday, the 9th, to accept the resignation of Prime Minister Beiru.
+
+At the same time, the opposition parties are urging not only the Prime Minister but the president to resign.
+
+◼️
+
+[Data](articles/a4a26f7a.json)
+
+[Extended Data](ext_articles/a4a26f7a.ext.json)
+
+---
+
+### 2025-09-08 (Monday)
+
+### Tribute to Nanda Malini
+
+*2025-09-08 23:55:00* · [`islandlk`](http://island.lk/tribute-to-nanda-malini/) · `en`
+
+Several well-known artistes rallied around the legendary T. M. Jayaratne and Deepika Priyadarshani to pay tribute to the very famous Nanda Malini, and it was done by way of a song, specially composed for her 82nd birthday, which was on Saturday, 23rd August.
+
+This historic tribute, titled ‘Maliniye Nanda,’ was sung by T. M. Jayaratne, Deepika Priyadarshani, Rajiv Sebastian, Shyami Fonseka, Raymond Fonseka, Priya Peiris, Walter Fernando, Corrine Almeida, Athula Adhikari, Sewwandi Ranatunga, Piyal Perera, Sohan Weerasinghe, Damian Wikkramatillake and Mario Ananda.
+
+Rajiv Sebastian was responsible for the lyrics, melody, music arrangements, concept and the storyboard.
+
+He and his band, Rajiv & The Clan, were also involved in providing the music for the artistes to do the needful on ‘Maliniye Nanda’.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/13d78343.json)
+
+[Extended Data](ext_articles/13d78343.ext.json)
+
+---
+
+### DFCC Bank and WWCT partner to advance biodiversity and landscape conservation through leopard protection
+
+*2025-09-08 23:24:00* · [`islandlk`](http://island.lk/dfcc-bank-and-wwct-partner-to-advance-biodiversity-and-landscape-conservation-through-leopard-protection/) · `en`
+
+DFCC Bank has announced a strategic three-year partnership with the Wilderness and Wildlife Conservation Trust (WWCT) to support a science-based initiative aimed at conserving Sri Lanka’s biodiversity by focusing on the protection of the island’s apex predator, the threatened Sri Lankan leopard (Panthera pardus kotiya).
+
+The partnership is anchored in the understanding that the leopard is an umbrella species. Protecting it also safeguards entire ecosystems and countless other species that share its habitat. By supporting leopard conservation, DFCC Bank and WWCT are making a wider commitment to biodiversity protection, environmental resilience, and sustainable coexistence between people and wildlife.
+
+...
+
+[Data](articles/41075860.json)
+
+[Extended Data](ext_articles/41075860.ext.json)
 
 ---

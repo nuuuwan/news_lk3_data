@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 05:56:51**
+As of **2025-09-09 04:55:35**
 
 ## Newspaper Stats
 
-*Scraped **74,860** Articles*
+*Scraped **74,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,244
 adaderanalk | 9,585
-tamilmirrorlk | 11,149
+tamilmirrorlk | 11,148
 virakesarilk | 12,233
 adaderanasinhalalk | 13,037
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,297 (85.9%) of 74,860 articles have been extended.
+64,278 (85.9%) of 74,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### General object in fuel tank: driver arrested
-
-*2025-09-09 04:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-தாங்கியில்-பொதைப்-பொருள்-சாரதி-கைது/175-364238) · `ta`
-
-Yall. Chavakachcheri Police Division of Chavakachcheri Police Division
-
-The driver was seized from the driver of the driver and the driver of the driver, who had been arrested and produced for medical examination, when the driver was arrested and produced for medical examination when the driver was seized by the driver when the driver was searched at the Sankupitiya Bridge on the Mannar Road, Jaffna.
-
-◼️
-
-[Data](articles/3d5b87cf.json)
-
-[Extended Data](ext_articles/3d5b87cf.ext.json)
-
----
 
 ### Bowzer driver arrested with ice drug
 
@@ -1272,13 +1256,7 @@ External Affairs Minister Vijitha Herath, representing the Sri Lankan government
 
 *2025-09-08 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112290/appeals-for-re-scrutiny-of-2025-scholarship-exam-results-accepted-from-tomorrow) · `en`
 
-The process for submitting appeals for the re-scrutiny of the 2025 Grade 5 Scholarship Examination results will begin tomorrow (09).
-
-According to a communique issued by the Commissioner General of Examinations, Indika Kumari Liyanage, applications can be submitted online for the re-scrutiny of answer scripts from tomorrow to September 22, 2025.
-
-In order to submit applications, the principal of the candidate’s school must log in to the SCHOOL LOGIN section of the official website of the Department by using the username and password provided to the school.
-
-The Commissioner General emphasizes that only school principals can submit appeals on behalf of candidates.
+The process for submitting appeals for the re-scrutiny of the 2024 Grade 5 Scholarship Examination results will begin tomorrow (09).
 
 ◼️
 
@@ -1704,13 +1682,17 @@ The Minister pointed out that the main purpose of the Ministry of Health at the 
 
 *2025-09-08 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112287/un-rights-chief-presents-report-on-sri-lanka-at-human-rights-council) · `en`
 
-United Nations High Commissioner for Human Rights Volker Türk today (08) presented the much-anticipated report on Sri Lanka by the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council in Genève.
+United Nations High Commissioner for Human Rights Volker Türk has presented the report of the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council.
 
-Through the report, High Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
+Through the report, Human Rights Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
 
-While presenting the report, the UN rights chief called for international engagement, including through the UN Human Rights Council and emphasized that it remains essential and can be supportive of accountability and long-term reconciliation and sustainable peace.
+Other recommendations include the release of military-held land in the north and east, repeal of the Prevention of Terrorism Act (PTA), and the release of long-term PTA detainees.
 
-...
+The report also recommended the comprehensive security sector reform and broader constitutional, legal and institutional changes to meet international human rights obligations.
+
+The report follows the High Commissioner’s recent visit to Sri Lanka, where he met officials, civil society, political parties and religious leaders.
+
+◼️
 
 [Data](articles/479993a1.json)
 
@@ -2005,5 +1987,29 @@ In this case, his son Kim Aris has said that his mother Soo Ki is suffering from
 [Data](articles/ac50b0ce.json)
 
 [Extended Data](ext_articles/ac50b0ce.ext.json)
+
+---
+
+### Five killed in Jerusalem shooting attack, paramedics say
+
+*2025-09-08 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112281/five-killed-in-jerusalem-shooting-attack-paramedics-say) · `en`
+
+Five people have been killed and seven seriously wounded in a shooting attack by Palestinian gunmen in Jerusalem, paramedics and police say.
+
+Israel’s Magen David Adom ambulance service identified the dead as three men in their 30s, one woman in her 50s, and one man in his 50s. Nine people with gunshot wounds were taken to local hospitals along with three others injured by broken glass.
+
+Israeli police said two “terrorists” opened fire towards a bus stop at Ramot Junction, on the city’s northern outskirts. A security officer and a civilian returned fire, and “neutralised” the attackers, it added.
+
+There was no immediate claim from any armed groups, although Hamas praised the attack.
+
+The police said a large number of officers were securing the area, and that bomb disposal units were ensuring that it was safe while forensic teams gathered evidence.
+
+The Israeli military said soldiers had also been deployed to the area and were searching for suspects in co-operation with the police.
+
+...
+
+[Data](articles/a88967fe.json)
+
+[Extended Data](ext_articles/a88967fe.ext.json)
 
 ---

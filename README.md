@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 11:07:24**
+As of **2025-09-09 11:40:20**
 
 ## Newspaper Stats
 
-*Scraped **74,928** Articles*
+*Scraped **74,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,109 +16,187 @@ economynextcom | 4,538
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,252
+adalk | 7,253
 adaderanalk | 9,596
-tamilmirrorlk | 11,165
+tamilmirrorlk | 11,167
 virakesarilk | 12,241
-adaderanasinhalalk | 13,049
+adaderanasinhalalk | 13,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,561 (86.2%) of 74,928 articles have been extended.
+64,588 (86.2%) of 74,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### இனி இலங்கையில் இருந்து இலவங்கம் வாங்க மாட்டோம்
+### Keheliya's case is over
+
+*2025-09-09 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214354) · `si`
+
+The Bribery Commission has filed a case before the Bribery Commission, including former Minister Keheliya Rambukwella, has filed a case before the Colombo High Court.
+
+◼️
+
+[Data](articles/ddcac502.json)
+
+[Extended Data](ext_articles/ddcac502.ext.json)
+
+---
+
+### Bail for Rajitha Senaratne
+
+*2025-09-09 10:55:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-சேனாரத்னவுக்கு-பிணை/175-364256) · `ta`
+
+He was granted bail as he was prosecuted at the Colombo Magistrate's Court this morning.
+
+Accordingly, the magistrate ordered the release of the suspect in cash bail of Rs 50,000 and two body bail worth Rs 2 million each and banned the suspect from going abroad.
+
+Rajitha was arrested after appearing in court on August 29 following the arrest of him on the allegation of corruption.. Remble
+
+◼️
+
+[Data](articles/ae12f9d2.json)
+
+[Extended Data](ext_articles/ae12f9d2.ext.json)
+
+---
+
+### We will no longer buy cinnamon from Sri Lanka
 
 *2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இலங்கையில்-இருந்து-இலவங்கம்-வாங்க-மாட்டோம்/175-364255) · `ta`
 
 இலங்கை அரசு தமிழக மீனவர்களின் படகுகளை சேதப்படுத்தி துன்புறுத்தினால் இலங்கையில் இருந்து வரும் இலவங்கம் உள்ளிட்ட எவ்வித பொருட்களையும் வாங்க மாட்டோம் என  வர்த்தக நல சங்க கூட்டத்தில் தீர்மானம் நிறைவேற்றப்பட்டது.
 
-சேலம் செவ்வாய்பேட்டை மளிகை வர்த்தக நல சங்கத்தின் 101 வது பொதுக்குழு கூட்டம் திங்கட்கிழமை (08)  நடைபெற்றது. கூட்டத்துக்கு சங்கத்தின் தலைவர் S.C.நடராஜன் தலைமை தாங்கினார், பொதுக்குழு கூட்டத்தில், சங்கத்தின் செயலாளர் தர்மலிங்கம் ஆண்டறிக்கை வாசித்தார்.
+The 101st General Assembly Meeting of the Salem Tuesday Welfare Association was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
 
-இந்த கூட்டத்தில் பல்வேறு தீர்மானங்கள் நிறைவேற்றப்பட்டன. தீர்மானம் குறித்து சங்கத்தின் தலைவர்  நடராஜன் கூறுகையில் ,  இலங்கை அரசு  தமிழக மீனவர்களின் 30 படகுகளை அடித்து உடைத்து சேதப்படுத்தியுள்ளது. இதுபோன்ற சம்பவங்கள் தொடரும் பட்சத்தில், இலங்கையிலிருந்து  இலவங்கம் உள்ளிட்ட பொருட்களை வாங்க மாட்டோம்.
+Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
 
 ...
 
 [Data](articles/0ac03499.json)
 
+[Extended Data](ext_articles/0ac03499.ext.json)
+
 ---
 
-### රාජිතට ඇප
+### Rajitha released on bail
 
 *2025-09-09 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214352) · `si`
 
-දූෂණ චෝදනාවක් සම්බන්ධයෙන් සැකපිට රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ඇප මත මුදා හරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+The Colombo Magistrate's Court set up former Minister Rajitha Senaratne to be released on bail.
 
-ඒ අනුව සැකකරු රුපියල් 50,000ක මුදල් ඇප සහ රුපියල් මිලියන දෙක බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමට නියම කළ මහෙස්ත්‍රාත්වරයා සැකකරුගේ විදේශ ගමන් තහනම් කරන බවටත් නියෝග කළේය.
+The suspect ordered that the suspect was released on two bail of Rs.
 
-අල්ලස් කොමිසමේ නිලධාරීන් හා සැකකරුගේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක එස් බෝදරගම මහතා මෙම නියෝගය නිකුත් කර තිබේ.
+Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Bribery Commission and the suspect's lawyers.
 
 ◼️
 
 [Data](articles/e2937fac.json)
 
+[Extended Data](ext_articles/e2937fac.ext.json)
+
 ---
 
-### ராஜித நீதிமன்றத்தில் முன்னிலை
+### Front in Rajitha Court
 
 *2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-நீதிமன்றத்தில்-முன்னிலை/175-364254) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்ட முன்னாள் அமைச்சர் ராஜித சேனாரத்ன இன்று (09) காலை நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்.  R
+Former Minister Rajitha Senaratne, who was interrogated, appeared in court this morning.  R
 
 ◼️
 
 [Data](articles/bc113659.json)
 
+[Extended Data](ext_articles/bc113659.ext.json)
+
 ---
 
-### Asian Cup 2025 தொடர் இன்று ஆரம்பம்
+### Conditional Bail for Rajitha
+
+*2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவுக்கு-நிபந்தனை-பிணை/175-364254) · `ta`
+
+Former Fisheries Minister Rajitha Senaratne has been released on bail in the alleged use of government funds through the Sand Excavation Scheme at the Kirinda fishing port.
+
+Colombo Chief Magistrate. Bodaragama, Rs.. 50,000 in cash bail and all three bail worth Rs 2 million each. The magistrate also imposed a foreign travel ban on Senaratne.
+
+◼️
+
+[Data](articles/f3202726.json)
+
+[Extended Data](ext_articles/f3202726.ext.json)
+
+---
+
+### Asian Cup 2025 Series is beginning today
 
 *2025-09-09 10:38:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Asian-Cup-2025-தொடர்-இன்று-ஆரம்பம்/175-364253) · `ta`
 
-ஆசிய கோப்பை T20 கிரிக்​கெட் தொடர் ஐக்​கிய அரபு அமீரகத்​தில் ​செவ்வாய்க்கிழமை (9) அன்று தொடங்​கு​கிறது. எதிர வரும் 28ஆம் திகதி வரை நடை​பெறும் இந்​தத் தொடரில் 8 அணி​கள் கலந்து கொள்​கின்​றன.
+The Asian Cup T20 Cricket Series starts on Tuesday (9). The series will be held until the 28th of this month.
 
-'A' பிரி​வில் இந்​தி​யா, பாகிஸ்​தான், ஓமன், ஐக்​கிய அரபு அமீரகம் அணி​கள் இடம் பெற்​றுள்​ளன. ‘B’ பிரி​வில் இலங்​கை, வங்​கதேசம், ஆப்​கானிஸ்​தான், ஹாங் காங் ஆகிய அணி​கள் உள்​ளன.
+In 'A', this is the Ya, Pakistan, Oman, Icia Arab Emirates. When B. B 'B', the team is the team of Sri Lanka, Wang Katasam, of Khanis, and Hong Kong.
 
-லீக் சுற்​றில் ஒவ்​வொரு அணி​யும் தனது பிரி​வில் உள்ள மற்ற அணி​களு​டன் தலா ஒரு முறை மோதும். லீக் சுற்​றின் முடி​வில் இரு பிரி​விலும் முதல் 2 இடங்​களை பிடிக்​கும் அணி​கள் சூப்​பர் 4 சுற்​றுக்கு முன்​னேறும்.
+The other team in the league and the other team in their split will fall once in a while. The two -seat of the league cirrhosis will be the first two -seat -in teams soup burr 4.
 
-இந்த சுற்​றில் 4 அணி​களும் தங்​களுக்​குள் தலா ஒருமுறை மோதும். இதில் முதல் 2 இடங்​களை பிடிக்​கும் அணி​கள் இறு​திப் போட்​டிக்கு முன்​னேறும். சூப்​பர் 4 சுற்று 20ஆம் திகதி முதல் 26ஆம் திகதி வரை நடை​பெறுகிறது.
+4 teams will fall once in this case. The first 2 seats will be held in front of the tippott. The Soup Pur 4 round takes place from 20th to 26th.
 
-சாம்​பியன் பட்​டம் வெல்​வது யார் என்​பதை தீர்​மானிக்​கும் இறு​திப் போட்டி 28ஆம் திகதி நடை​பெறுகிறது. தொடரின் அனைத்து ஆட்​டங்​களும் துபாய், அபு​தாபி​யில் நடத்​தப்​படு​கிறது.
+Sam Pian Bhatt Dum Well Those My Badi Sinharan Manikkum End Competition. All the Ad Dangs of the series are held in Dubai and Abu Dabi.
+
+The opening day today is the App Canis - Hong Kong teams clash.
 
 ...
 
 [Data](articles/fa02acf8.json)
 
+[Extended Data](ext_articles/fa02acf8.ext.json)
+
 ---
 
-### “அதனால் என் வாழ்க்கையே நாசமா போச்சி”
+### "So my life is Nasama Bochi"
 
 *2025-09-09 10:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அதனால்-என்-வாழ்க்கையே-நாசமா-போச்சி/54-364252) · `ta`
 
-பிக் பாஸ் - இந்த வார்த்தை இன்று சின்னத்திரை ரசிகர்களுக்கிடையே மிகவும் பரிச்சயமானதும், விவாதிக்கப்படக்கூடியதும் ஆகிவிட்டது. இந்தியாவின் பல மொழிகளில் ஒளிபரப்பாகும் இந்த நிகழ்ச்சி, தமிழ், தெலுங்கு, கன்னடம், மலையாளம், இந்தி என பல்வேறு மொழிகளில் வெற்றிகரமாக ஒளிபரப்பாகி வருகிறது. தமிழில் தற்போது எட்டாவது சீசன் வரை ஒளிபரப்பாகியிருக்க, தெலுங்கில் கூடவே பல வெற்றிகரமான சீசன்கள் முடிந்துள்ளன. ஒவ்வொரு சீசனிலும் பலரும் புகழ்பெற, சிலர் எதிர்மறையான தாக்கங்களை சந்திக்க நேர்ந்துள்ளது. அந்த வகையில் தற்போது மீண்டும் மீண்டும் பேசப்படும் பெயர் தான் தேஜஸ்வி மடிவாடா.
+Bigg Boss - This word has become very familiar and discussed among the iconic fans today. The show, which is aired in many languages ​​of India, has been successfully broadcast in various languages ​​like Tamil, Telugu, Kannada, Malayalam and Hindi.. Many successful seasons have been completed in Telugu, which has now been aired in Tamil until the eighth season. Each season many people have to face negative impacts. Tejaswi Madivada is the name that is currently being repeatedly spoken.
 
-இப்படிப்பட்ட நடிகை தேஜஸ்வி மடிவாடா, 2013-ம் ஆண்டு வெளியான “சீத்தம்மா வகிட்லோ சிரிமல்லே செட்டு” என்ற திரைப்படத்தின் மூலம் தெலுங்கு திரையுலகில் தனக்கென ஒரு இடத்தை உருவாக்கியவர். சிறந்த நடிப்புத் திறனால் கவனம் பெற்ற இவர், அதன்பின் பல திரைப்படங்களில் முக்கிய வேடங்களில் நடித்தார்.
+Such actress Tejaswi Madivada has made a place in the Telugu film industry through the 2013 film "Sittamma Wakitlo Sirimalle Chetu".. He was focused on excellent performance and then played important roles in many films.
 
 ...
 
 [Data](articles/a76a135b.json)
 
+[Extended Data](ext_articles/a76a135b.ext.json)
+
 ---
 
-### ஹசீனா மீதான கோபம், பங்களதேசத்தில் முஜிபின் பாரம்பரியம் அழிப்பு
+### Former minister leads to court
+
+*2025-09-09 10:33:22* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රාජිත-අධිකරණයට-රැගෙන-එයි/11-418370) · `si`
+
+Former Minister Rajitha Senaratne has been remanded to the Anuradhapura Magistrate's Court today (09).
+
+◼️
+
+[Data](articles/a55d4625.json)
+
+[Extended Data](ext_articles/a55d4625.ext.json)
+
+---
+
+### Anger on Hasina, the destruction of Mujib's tradition in Bangladesh
 
 *2025-09-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224602) · `ta`
 
-'2025 ஆம் ஆண்டு பெப்ரவரி மாதம், ஹசீனா இந்தியாவில் இருந்து தனது நாடுகடந்த நிலையில் ஒரு மெய்நிகர் உரையை நிகழ்த்தினார். அதில், இடைக்கால அரசாங்கத்திற்கு எதிராக தனது ஆதரவாளர்கள் எழுந்து போராட வேண்டும் என்று அழைப்பு விடுத்தார். அதன் பின்னர், போராட்டக்கார மாணவர்களுடன் தொடர்புடைய ஒரு கும்பல், முஜிபுர் ரஹுமானின் வசிப்பிடமான தன்மொன்டி-32 க்கு தீ வைத்தது. பப்னா, சுவதங்கா மற்றும் ரங்பூர் ஆகிய இடங்களில் போராட்டக்காரர்கள், முஜிபுர் ரஹுமானின் சுவரோவியங்களைச் சேதப்படுத்தினர். மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
+'In February 2025, Hasina delivered a virtual speech in her deportation from India. In it, he called on his supporters to fight against the interim government. Subsequently, a gang associated with the protesters set fire to Mujibur Rahman's residence Tanmonti-32. In Pabna, Sadanga and Rangpur, the protesters damaged the murals of Mujibur Rahman. மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
 
-...
+'Any challenge that arises for the established historical story begins with the formation of young students' minds. The interim government, led by Mohammed Yunus, has taken steps to create a different opinion. Set up a group to edit the existing textbooks. In the words of writer Rakal Raha, who was working on making changes to textbooks, the 'liberation of students from exaggerated and imposed history'
+
+◼️
 
 [Data](articles/04809cb9.json)
+
+[Extended Data](ext_articles/04809cb9.ext.json)
 
 ---
 
@@ -154,6 +232,8 @@ A warrant had been issued for his arrest, following which he was taken into cust
 
 [Data](articles/54729625.json)
 
+[Extended Data](ext_articles/54729625.ext.json)
+
 ---
 
 ### Search sir ...
@@ -182,19 +262,21 @@ Former Minister Rajitha Senaratne was brought to the Aluthkade Magistrate's Cour
 
 ---
 
-### கண்டனமாக மாறிய ​கொண்டம்
+### Be converted
 
 *2025-09-09 10:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கண்டனமாக-மாறிய-கொண்டம்/62-364249) · `ta`
 
-இந்த கார்ட்டூன், ஒரு வார்த்தையை எழுதி மீண்டும் எழுதும் எளிய செயல் மூலம் பொதுக் கொள்கையில் ஒரு பயங்கரமான முரண்பாட்டை அம்பலப்படுத்துகிறது.
+This cartoon exposes a terrible contradiction in public policy by a simple act of writing and rewriting a word.
 
-இடதுபுறத்தில், சுகாதார அமைச்சகம் "CONDOM" என்ற சொல்லை, நீல நிற எழுத்துக்களில் எழுதுகின்றது. இதன் குறியீடு தெளிவாக உள்ளது: ஆணுறைகள் பாதுகாப்பு கருவிகளாகக் கருதப்படுகின்றன, HIV, STDகள் மற்றும் திட்டமிடப்படாத கர்ப்பங்களுக்கு எதிரான பொது சுகாதார பிரச்சாரங்களுக்கு மையமாக உள்ளன. செய்தி நடைமுறை மற்றும் தடுப்பு - தீர்ப்புக்கு முன் சுகாதாரம்.
+On the left, the Ministry of Health writes the word "Condom" in blue letters. Its code is clear: condoms are considered safety tools, focusing on public health campaigns against HIV, STDs and unplanned pregnancy. News Practice and Prevention - Health before judgment.
 
-இருப்பினும், வலதுபுறத்தில், கல்வி அமைச்சகம் அதே வார்த்தையை எடுத்துக்கொண்டு அதை "CONDEMN" என்று மாற்றுகிறது. ஒரு சிவப்பு நிற பேனாவுடன், அமைச்சகம் கதையை திறம்பட மீண்டும் எழுதுகிறது, பாதுகாப்பு செய்தியை தார்மீக நிராகரிப்புடன் மாற்றுகிறது. கீழே அமர்ந்திருக்கும் மாணவர் தெளிவாக குழப்பமடைந்து காணப்படுகிறார் - சமூகத்தின் இளைஞர்களுக்கான ஒரு நிலைப்பாடு, அவர்களை வழிநடத்த வேண்டிய நிறுவனங்களின் சமிக்ஞைகளுக்கு இடையில் சிக்கிக் கொள்கின்றனர்.
+However, on the right, the Ministry of Education takes the same word and transforms it to "Condemn". With a red pen, the ministry re -writes the story effectively, replacing the security message with moral rejection. The student sitting below is clearly confused - a position for the youth of the community, trapped amidst the signals of companies that need to lead them.
 
 ...
 
 [Data](articles/4c03e976.json)
+
+[Extended Data](ext_articles/4c03e976.ext.json)
 
 ---
 
@@ -264,6 +346,8 @@ In a statement on Facebook, the tycoon said he accepted the verdict and would st
 
 [Data](articles/533975a1.json)
 
+[Extended Data](ext_articles/533975a1.ext.json)
+
 ---
 
 ### Jen Z Struggle Echo: The ban on social media in Nepal withdraws
@@ -314,6 +398,8 @@ Furthermore, the Speaker revealed that the Supreme Court has dismissed the petit
 
 [Data](articles/b2dcd4cb.json)
 
+[Extended Data](ext_articles/b2dcd4cb.ext.json)
+
 ---
 
 ### The removal of former presidents can make a simple majority
@@ -334,23 +420,25 @@ The Supreme Court has informed the Supreme Court that the Simple majority of Par
 
 ---
 
-### காசாவுக்கு கிரேட்டா துன்பெர்க் சென்ற கப்பல் மீது ட்ரோன் தாக்குதல்
+### Drone attacked on the ship of Greta traveler to Gaza
 
 *2025-09-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224597) · `ta`
 
-காசாவிற்கு உதவிப் பொருட்களை அனுப்பும் குளோபல் சுமுத் புளோட்டிலா என்ற கப்பல், துனிசியா கடற்கரையில் செவ்வாய்க்கிழமை (09)  ட்ரோன் மூலம் தாக்கப்பட்டுள்ளது.
+The ship Global Sumut Plotilla, which sends assistance to Gaza, was attacked by a drone on Tuesday (09) at Tunisia beach.
 
-காசா பகுதியில் இஸ்ரேலிய முற்றுகையை முறியடிக்கும் முயற்சியின் ஒரு பகுதியாக, காலநிலை தொடர்பான சமூக செயற்பாட்டாளர் கிரேட்டா தன்பெர்க் உட்பட 44 நாடுகளைச் சேர்ந்த சமூக செயற்பாட்டாளர்கள் மற்றும் பொதுமக்களை இந்த கப்பல் ஏற்றிச் சென்றுள்ளது.
+As part of an attempt to break the Israeli blockade in the Gaza region, the ship has carried out social activists and civilians from 44 countries, including climate -related social activist Greta Tanberg.
 
-ஆக்கிரமிக்கப்பட்ட பாலஸ்தீனப் பிரதேசங்களுக்கான ஐ.நா. சிறப்பு அறிக்கையாளர் பிரான்செஸ்கா அல்பானீஸ் அவர்களும் இந்த கப்பலில் சென்றுள்ளார்.
+UN for the occupied Palestinian territories. Special Rapporteur Francheka Albanis has also gone on the ship.
 
-“குளோபல் சுமுத் ஃப்ளோட்டிலா வழிகாட்டுதல் குழு உறுப்பினர்களை ஏற்றிச் சென்ற “குடும்ப கப்பல்” என அழைக்கப்படும் முக்கிய கப்பல்களில் ஒன்று ட்ரோன் மூலம் தாக்கப்பட்டதை குளோபல் சுமுத் ஃப்ளோட்டிலா (GSF) உறுதிப்படுத்துகிறது.
+“Global Sumut Flottilla (GSF) confirms that one of the main vessels called" family ship "carried by the Global Sumuth Flottila Guidance Committee was attacked by drone.
 
-போர்த்துகீசியக் கொடி ஏந்திய கப்பலில் அனைத்து பயணிகளும் பணியாளர்களும் பாதுகாப்பாக உள்ளனர். தற்போது விசாரணை நடந்து வருகிறது. மேலும் தகவல்கள் கிடைத்தவுடன் அது உடனடியாக வெளியிடப்படும்” என அந்த அமைப்பு வெளியிட்ட உத்தியோகபூர்வ அறிக்கையில் கூறப்பட்டுள்ளது.
+All passengers and employees are safe on the ship carrying the Portuguese flag. The investigation is currently underway. Once more information is available, it will be released immediately, ”the organization issued a statement issued.
 
 ◼️
 
 [Data](articles/f737d9b7.json)
+
+[Extended Data](ext_articles/f737d9b7.ext.json)
 
 ---
 
@@ -384,23 +472,27 @@ At this event, the official commencement of establishing the School Young Invent
 
 [Data](articles/44517f4a.json)
 
+[Extended Data](ext_articles/44517f4a.ext.json)
+
 ---
 
-### ஆசியக் கிண்ணம் 2025 -  கிரிக்கெட் தொடர் இன்று ஆரம்பமாகிறது !
+### Asian Bowl 2025 - Cricket Series begins today!
 
 *2025-09-09 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224591) · `ta`
 
-ஆசிய கிண்ண இருபதுக்கு 20 கிரிக்கெட் போட்டி இன்று செவ்வாய்க்கிமை ( செப்டெம்பர் 09) ஆரம்பமாகவுள்ளதாக ஆசிய கிண்ண கிரிக்கெட் பேரவை அறிவித்துள்ளது.
+The Asian Cup Cricket Council (Asian Bowl) has announced that the Asian Bowl Twenty20 Cricket Tournament will begin today (September 09).
 
-இந்த ஆசியக் கிண்ணப் போட்டித் தொடரில், இரண்டு குழுக்களின் கீழ் எட்டு அணிகள் போட்டியிட உள்ளன.
+In this Asian Cup Tournament, eight teams are competing under two groups.
 
-அதே நேரத்தில் ஆப்கானிஸ்தான், பங்களாதேஷ் மற்றும் ஹொங்கொங்  ஆகிய அணிகளும் இந்த குழுவில் உள்ளன.
+At the same time, the team is also in Afghanistan, Bangladesh and Hong Kong.
 
-இந்தியா, பாகிஸ்தான், ஓமான் மற்றும் ஐக்கிய அரபு எமிரேட்ஸ் ஆகிய அணிகள் குழு "A" இன் கீழ் போட்டியிட உள்ளமை குறிப்பிடத்தக்கது.
+India, Pakistan, Oman and the United Arab Emirates team are contesting under "A".
 
 ◼️
 
 [Data](articles/7dd92d1c.json)
+
+[Extended Data](ext_articles/7dd92d1c.ext.json)
 
 ---
 
@@ -438,37 +530,41 @@ Communications and Information Minister Prabhavi Surabhag Gungung has said that 
 
 ---
 
-### நேபாளத்தில் சமூக ஊடகத் தடை நீக்கம்
+### Removal
 
 *2025-09-09 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224590) · `ta`
 
-நேபாளத்தில் போராட்டக்காரர்களுக்கும் பொலிஸாருக்கும் இடையே ஏற்பட்ட மோதல்களால், சுமார் 19 பேர் கொல்லப்பட்டதையடுத்து, சமூக ஊடகத் தடை நீக்கப்பட்டதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+International media reports that social media ban has been lifted due to clashes between protesters and police in Nepal.
 
-நேபாளத்தின் தலைநகர் காத்மாண்டுவில் உள்ள பாராளுமன்றக் கட்டிடத்திற்குள் நேற்றையதினம் ஆயிரக்கணக்கான இளைஞர்கள் நுழைந்து, பேஸ்புக் மற்றும் யூடியூப் உள்ளிட்ட 26 சமூக ஊடகத் தளங்கள் மீதான தடையை நீக்குமாறு அரசாங்கத்திடம் கோரிக்கை விடுத்தனர்.
+Thousands of young people entered the parliamentary building in Kathmandu, Nepal's capital, and demanded the government to remove the ban on 26 social media sites, including Facebook and YouTube.
 
-ஜெனரல் இசட்டின் கோரிக்கைகளை நிவர்த்தி செய்வதற்காக நேற்று இரவு அவசர அமைச்சரவைக் கூட்டத்திற்குப் பின்னர் தடையை நீக்க தீர்மானம் எடுக்கப்பட்டுள்ளது.
+A decision has been taken to remove the ban after the Emergency Cabinet meeting last night to address the demands of General Iats.
 
-இது குறித்து, அந்த நாட்டு தகவல் தொடர்பு மற்றும் தகவல் அமைச்சர் பிருத்வி சுப்பா குருங் கருத்து வெளியிட்டுள்ளதாக அந்த நாட்டு ஊடகங்கள் தெரிவித்துள்ளன.
+The media reports that the Minister of Communications and Information Prithvi Subba Gurung has commented on this.
 
-நேபாளத்தின் தலைநகரிலும், தலைநகருக்கு வெளியிலுள்ள நகரங்களிலும் இடம்பெற்ற போராட்டங்களில் 100க்கும் மேற்பட்டோர் காயமடைந்துள்ளனர்.
+More than 100 people were injured in protests in the capital of Nepal and in the cities of the capital.
 
 ◼️
 
 [Data](articles/775d4318.json)
 
+[Extended Data](ext_articles/775d4318.ext.json)
+
 ---
 
-### மெக்சிகோவில் பஸ் மீது ரயில் மோதியதில் 10 பேர் பலி!
+### 10 killed
 
 *2025-09-09 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224589) · `ta`
 
-மெக்சிகோவில் இரட்டை அடுக்கு பஸ் மீது சரக்கு ரயில் மோதியதில் சுமார் 10 பேர் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+International media reports that about 10 people have been killed in a freight train crash in a double -tier bus in Mexico.
 
-இந்த சம்பவம் தொடர்பான விசாரணைகளை அந்த நாட்டு காவல்துறை அதிகாரகள் முன்னெடுத்து வருவதாக தெரிவிக்கப்படுகிறது.
+It is reported that the police authorities are carrying out investigations into the incident.
 
 ◼️
 
 [Data](articles/d952664a.json)
+
+[Extended Data](ext_articles/d952664a.ext.json)
 
 ---
 
@@ -545,6 +641,8 @@ However, she emphasized the need for “tangible and sustained progress.”
 ...
 
 [Data](articles/7f6cfd85.json)
+
+[Extended Data](ext_articles/7f6cfd85.ext.json)
 
 ---
 
@@ -1574,7 +1672,7 @@ Prime Minister Pyroo will hand over his resignation tomorrow morning to Presiden
 
 President Anura Kumara Disanayake and his National People’s Power Government are struggling to build a more stable, inclusive political culture in Sri Lanka. A mix of bold action and political skill will be needed. Support from the UN Human Rights Council can help.
 
-The election of President Anura Kumara Disanayake in September 2024, and the landslide parliamentary victory of his National People’s Power (NPP) alliance two months later, have ignited hope throughout Sri Lanka. Elected on a mandate to eliminate the widely reported large-scale corruption, nepotism and abuse of power that contributed to the country’s economic collapse in 2022, the NPP appealed to voters in large part because it lacked experience in office and was distant from the elite-dominated parties that had ruled Sri Lanka since independence in 1948. Among their more soaring goals, Disanayake and the NPP pledged to fight impunity and establish a “new political culture”.
+The election of President Anura Kumara Disanayake in September 2024, and the landslide parliamentary victory of his National People’s Power (NPP) alliance two months later, ignited hope throughout Sri Lanka. Elected on a mandate to eliminate the widely reported large-scale corruption, nepotism and abuse of power that contributed to the country’s economic collapse in 2022, the NPP appealed to voters in large part because it lacked experience in office and was distant from the elite-dominated parties that had ruled Sri Lanka since independence in 1948. Among their more soaring goals, Disanayake and the NPP pledged to fight impunity and establish a “new political culture”.
 
 ...
 
@@ -1763,81 +1861,5 @@ As a result, the train service on the Kelani Vidyalaya is restricted to Kosgama.
 [Data](articles/ecd78142.json)
 
 [Extended Data](ext_articles/ecd78142.ext.json)
-
----
-
-### 1,757 fatal accidents this year - 1,857 deaths
-
-*2025-09-08 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214335) · `si`
-
-The victims of 1,870 people in 1,757 fatal accidents have been killed in 1,757 fatal accidents from the first January this year.
-
-Speaking at a media briefing held today (08), DIG Indika Hapugoda said that.
-
-"About eight people die, especially in these fatal accidents. Now 1,870 people have killed 1,870 fatal accidents from 1 January to September 1 to September 4, 2025.. Therefore, all the paths of drivers, drivers, and passengers should obey the road laws and obey the road laws and obey the road laws. "
-
-◼️
-
-[Data](articles/e7cf63ca.json)
-
-[Extended Data](ext_articles/e7cf63ca.ext.json)
-
----
-
-### Grade 5 Scholarship Examination - Recovery Applications
-
-*2025-09-08 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224572) · `ta`
-
-The Commissioner General of Examinations has announced that applications that will reclaim the answers of the Grade 5 Scholarship Examination will be accepted from September 9, 2025 to 22.
-
-பரீட்சைக்கு தோற்றிய மாணவர் பயிலும் பாடசாலையின் அதிபர் மூலமாகவே விண்ணப்பம் சமர்ப்பிக்க வேண்டும். To that end, he said that using the user name and password provided to the school, you can log in and apply at https://onlineexams.gov.lk/eic/index.php/clogin/ through a school login.
-
-◼️
-
-[Data](articles/904fd15c.json)
-
-[Extended Data](ext_articles/904fd15c.ext.json)
-
----
-
-### Sustainable Intelligence: Data & AI For A Resilient Future
-
-*2025-09-08 19:54:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sustainable-intelligence-data-ai-for-a-resilient-future/) · `en`
-
-In the 21st century, intelligence is no longer the sole preserve of human wisdom. It now includes the vast realms of data, machine learning, and artificial intelligence (AI). Yet intelligence on its own is not enough. The same brilliance that split the atom also created fear of annihilation. The same ingenuity that mapped every corner of the Earth has failed to safeguard it.
-
-The urgent challenge before us is to align intelligence with sustainability — intelligence that respects ecological limits, empowers communities, and ensures resilience for future generations.
-
-Sustainable intelligence goes beyond being “smart.” It is about being wise. We can see this progression in three layers:
-
-Nature itself models this. In a forest, trees process carbon, exchange nutrients, and even “communicate” underground. They do not optimize for growth alone but for the survival of the entire ecosystem. That is sustainable intelligence.
-
-...
-
-[Data](articles/4b636e4f.json)
-
-[Extended Data](ext_articles/4b636e4f.ext.json)
-
----
-
-### Reconciliation and accountability can be achieved by domestic mechanism: UN. Minister of External Affairs Vijitha Herath at the Human Rights Council
-
-*2025-09-08 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224569) · `ta`
-
-External Affairs Minister Vijitha Herath said he hopes to reject Sri Lanka's sovereignty and reject international intervention through domestic mechanisms.
-
-He added that external interventions would be a hindrance to its domestic justice and reconciliation efforts and that the Sri Lankan people would like to create a fair, equal and prosperous society, and that outdoor activities would only cause separation.
-
-In the 60th United Nations Human Rights Council session, the UN. External Affairs Minister Vijitha Herath said this on behalf of the Government of Sri Lanka on the report of the Human Rights Commissioner's Sri Lanka.
-
-The speech detailed in detail about the advances, future plans and human rights, reconciliation and eradication of corruption that the Sri Lankan government has made over the past 11 months.
-
-* In the September 2024 presidential election and the parliamentary elections held in November, the people of the National People's Power Party (NPP) gave great support.
-
-...
-
-[Data](articles/9ed783a2.json)
-
-[Extended Data](ext_articles/9ed783a2.ext.json)
 
 ---

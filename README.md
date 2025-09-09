@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 21:08:22**
+As of **2025-09-09 20:56:05**
 
 ## Newspaper Stats
 
-*Scraped **75,031** Articles*
+*Scraped **75,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,272
+adalk | 7,271
 adaderanalk | 9,613
 tamilmirrorlk | 11,188
 virakesarilk | 12,254
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,147 (86.8%) of 75,031 articles have been extended.
+65,140 (86.8%) of 75,030 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -303,22 +303,6 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 [Data](articles/b50041aa.json)
 
 [Extended Data](ext_articles/b50041aa.ext.json)
-
----
-
-### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනතට ආංශික අධීක්ෂණ කාරක සභාවෙ අනුමතිය
-
-*2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
-
-ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
-
-ඒ එම කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානත්වයෙන්  අද (09) වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  පැවසුයේ රජයේ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර ඇති පරිදි, රටේ ආර්ථික තත්ත්වයන් සැලකිල්ලට ගෙන  ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  මඟින්, හිටපු ජනාධිපතිවරුන්ගේ සහ අනාගත ජනාධිපතිවරුන් සහ ඔවුන්ගේ පවුල් සඳහා ලබාදෙනු ලබන ආර්ථිකමය නොවන හිමිකම් ඉවත් කිරීමට අපේක්‍ෂා කරනු ලබන බවයි.
-
-...
-
-[Data](articles/dff575f8.json)
 
 ---
 
@@ -2041,5 +2025,19 @@ Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after conside
 [Data](articles/e2937fac.json)
 
 [Extended Data](ext_articles/e2937fac.ext.json)
+
+---
+
+### Front in Rajitha Court
+
+*2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-நீதிமன்றத்தில்-முன்னிலை/175-364254) · `ta`
+
+Former Minister Rajitha Senaratne, who was interrogated, appeared in court this morning.  R
+
+◼️
+
+[Data](articles/bc113659.json)
+
+[Extended Data](ext_articles/bc113659.ext.json)
 
 ---

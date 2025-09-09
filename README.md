@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 12:24:57**
+As of **2025-09-09 12:14:06**
 
 ## Newspaper Stats
 
-*Scraped **74,950** Articles*
+*Scraped **74,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,21 @@ economynextcom | 4,541
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,257
+adalk | 7,256
 adaderanalk | 9,596
-tamilmirrorlk | 11,171
+tamilmirrorlk | 11,170
 virakesarilk | 12,245
-adaderanasinhalalk | 13,053
+adaderanasinhalalk | 13,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,634 (86.2%) of 74,950 articles have been extended.
+64,634 (86.2%) of 74,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### 2026 විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කරන්න අනුමැතිය
-
-*2025-09-09 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214356) · `si`
-
-2026 මුදල් වර්ෂය සඳහා වූ විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
-
-පසුගිය ජූලි 1 වන දා පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී විසර්ජන පනත් කෙටුම්පත සකස් කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබුණි.
-
-ඒ අනුව නීති කෙටුම්පත් සම්පාදක විසින් සකස් කර ඇති 2026 මුදල් වර්ෂය සඳහා වු විසර්ජන පනත් කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශනය ලැබී ඇත.
-
-ඒ අනුව එම පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත්, ඉන් අනතුරුව අනුමැතිය  සඳහා පාර්ලිමේන්තුව වෙත ඉදිරිපත් කිරීමටත් ජනාධිපතිවරයා කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
-
-◼️
-
-[Data](articles/1e9ecd95.json)
-
----
 
 ### නව යොවුන් ව්‍යවසායකයන්ට මහජන බැංකුවෙන් BizTeens
 
@@ -159,20 +141,6 @@ Cambodia Centers: Foreign Property Control Office (ofAC) has imposed an economic
 [Data](articles/531e11fd.json)
 
 [Extended Data](ext_articles/531e11fd.ext.json)
-
----
-
-### හිටපු ඇමති කෙහෙළියගේ නඩුවක් අවසන්
-
-*2025-09-09 11:16:44* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-කෙහෙළියගේ-නඩුවක්-අවසන්/11-418374) · `si`
-
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට එරෙහිව කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ පවතින නඩු කටයුතු අවසන් කිරීමට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක එස් බෝදරගම මහතා අද (09දා) නියෝග කළේය.
-
-මුදල් විශුද්ධිකරණයය වැළක්වීමේ චෝදනා යටතේ හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු පවුලේ සාමාජිකයින්ට එරෙහිව අල්ලස් කොමිසම කොළඹ මහාධිකරණය හමුවේ නඩු පවරා තිබෙන බැවින් මෙම නියෝගය නිකුත් කිරීමට පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/8ecfdf93.json)
 
 ---
 
@@ -315,22 +283,6 @@ Various resolutions were passed at this meeting. Commenting on the resolution, t
 [Data](articles/0ac03499.json)
 
 [Extended Data](ext_articles/0ac03499.ext.json)
-
----
-
-### ’’இலங்கையில் இருந்து இலவங்கம் இனி வாங்க மாட்டோம்’’
-
-*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-இருந்து-இலவங்கம்-இனி-வாங்க-மாட்டோம்/175-364255) · `ta`
-
-இலங்கை அரசு தமிழக மீனவர்களின் படகுகளை சேதப்படுத்தி துன்புறுத்தினால் இலங்கையில் இருந்து வரும் இலவங்கம் உள்ளிட்ட எவ்வித பொருட்களையும் வாங்க மாட்டோம் என  வர்த்தக நல சங்க கூட்டத்தில் தீர்மானம் நிறைவேற்றப்பட்டது.
-
-சேலம் செவ்வாய்பேட்டை மளிகை வர்த்தக நல சங்கத்தின் 101 வது பொதுக்குழு கூட்டம் திங்கட்கிழமை (08)  நடைபெற்றது. கூட்டத்துக்கு சங்கத்தின் தலைவர் S.C.நடராஜன் தலைமை தாங்கினார், பொதுக்குழு கூட்டத்தில், சங்கத்தின் செயலாளர் தர்மலிங்கம் ஆண்டறிக்கை வாசித்தார்.
-
-இந்த கூட்டத்தில் பல்வேறு தீர்மானங்கள் நிறைவேற்றப்பட்டன. தீர்மானம் குறித்து சங்கத்தின் தலைவர்  நடராஜன் கூறுகையில் ,  இலங்கை அரசு  தமிழக மீனவர்களின் 30 படகுகளை அடித்து உடைத்து சேதப்படுத்தியுள்ளது. இதுபோன்ற சம்பவங்கள் தொடரும் பட்சத்தில், இலங்கையிலிருந்து  இலவங்கம் உள்ளிட்ட பொருட்களை வாங்க மாட்டோம்.
-
-...
-
-[Data](articles/c9c6ca27.json)
 
 ---
 
@@ -1871,5 +1823,63 @@ Damn Fine Coffee is proud to be the official distributor of Oatly in Sri Lanka. 
 [Data](articles/0632a619.json)
 
 [Extended Data](ext_articles/0632a619.ext.json)
+
+---
+
+### Dhammika Perera buys 39 percent stake in Laugfs Group, boosting its financial muscle
+
+*2025-09-08 23:19:00* · [`islandlk`](http://island.lk/dhammika-perera-buys-39-percent-stake-in-laugfs-group-boosting-its-financial-muscle/) · `en`
+
+The CSE was notably active yesterday when businessman Dhammika Perera bought into Sri Lanka’s diversified Laugfs Group, taking a 39 percent stake of its holding company, as founder director and Deputy Chairman Thilak de Silva exited, informed sources said.
+
+Laugfs has interests in liquefied petroleum gas, shipping, renewable power, fuel distribution and retailing and manufacturing, among others.
+
+Laughs sources said that huge financial muscle was needed to rescue the company. “Someone had to exit to pave the way for an investor. It was a difficult decision. But I am happy the brand will survive, company sources said. Laugfs Gas and Laugfs Power are listed companies.
+
+Amid those developments the market pulled back with both indices moving downward.
+
+All Share Price Index went down by 74.56 points while S and P SL20 declined by 27.90 points. Turnover stood at Rs 6.17 billion with 10 crossings.
+
+...
+
+[Data](articles/37039245.json)
+
+[Extended Data](ext_articles/37039245.ext.json)
+
+---
+
+### French govt collapses after Prime Minister Bayrou loses confidence vote
+
+*2025-09-08 23:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112301/french-govt-collapses-after-prime-minister-bayrou-loses-confidence-vote) · `en`
+
+French lawmakers voted to oust Prime Minister François Bayrou Monday, plunging the country into a new political crisis and leaving it without a government at a time of increasing economic strain and geopolitical tensions.
+
+A total of 364 MPs voted against Bayrou and 194 voted for him after he called the vote in a bid to push through an unpopular €44 billion ($51 billion) savings plan that included scrapping two public holidays and freezing government spending. The 364 votes against Bayrou were well above the 280-vote threshold needed to topple the government.
+
+Bayrou will now be forced to step down after just nine months in office, following in the footsteps of his predecessor Michel Barnier, who lost a no-confidence vote last December.
+
+Bayrou is expected to submit his resignation to French President Emmanuel Macron on Tuesday morning, according to CNN affiliate BFMTV. The prime minister’s departure leaves Macron with few palatable options.
+
+...
+
+[Data](articles/286de450.json)
+
+[Extended Data](ext_articles/286de450.ext.json)
+
+---
+
+### French Prime Minister loses - government collapses
+
+*2025-09-08 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214339) · `si`
+
+French lawmakers voted for powering the Prime Minister.
+
+Accordingly, 364 MPs have been given 364 MPs against the Bhire and 194 members in favor.
+
+◼️
+
+[Data](articles/1882dc5a.json)
+
+[Extended Data](ext_articles/1882dc5a.ext.json)
 
 ---

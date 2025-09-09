@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 17:42:19**
+As of **2025-09-09 16:54:01**
 
 ## Newspaper Stats
 
-*Scraped **75,011** Articles*
+*Scraped **75,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,105 +16,21 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,267
+adalk | 7,266
 adaderanalk | 9,610
-tamilmirrorlk | 11,184
+tamilmirrorlk | 11,180
 virakesarilk | 12,252
-adaderanasinhalalk | 13,066
+adaderanasinhalalk | 13,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,015 (86.7%) of 75,011 articles have been extended.
+64,981 (86.6%) of 75,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### ”அநுரவின் முதல் வருடத்தில் 1 பில்லியன் டொலர் முதலீடு ஈர்ப்பு”
-
-*2025-09-09 17:16:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவின்-முதல்-வருடத்தில்-1-பில்லியன்-டொலர்-முதலீடு-ஈர்ப்பு/175-364288) · `ta`
-
-ஜனாதிபதி அனுர குமார திசாநாயக்கவின் முதல் வருடத்தில் இலங்கை ஒரு பில்லியன் அமெரிக்க டொலர் வெளிநாட்டு நேரடி முதலீட்டைப் (FDI) ஈர்த்துள்ளதாக அமைச்சர் பிமல் ரத்நாயக்க கூறுகிறார்.
-
-பொருளாதாரம், கல்வி மற்றும் கலாச்சாரம் உள்ளிட்ட பல துறைகளைக் கருத்தில் கொண்டு, பிற நாடுகளுடன் ஒப்பந்தங்கள் கையெழுத்தானதாக அமைச்சர் ரத்நாயக்க தெரிவித்தார்.
-
-"கடந்த ஒக்டோபர் முதல் இன்று வரை, இலங்கை 1.015 பில்லியன் அமெரிக்க டொலர் வெளிநாட்டு நேரடி முதலீட்டைப் பெற்றுள்ளது. இவை கையெழுத்திடப்பட்ட அல்லது உறுதியளிக்கப்பட்ட ஒப்பந்தங்கள் அல்ல, ஆனால் நிறைவேற்றப்பட்ட நிதிகள்" என்று அவர் கூறினார்.
-
-இலங்கை முதலீட்டு சபையுடன் (BOI) உண்மைகளை மறுபரிசீலனை செய்யலாம் என்று அமைச்சர் ரத்நாயக்க மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/65b87c25.json)
-
----
-
-### නේපාලයේ සිටින ශ්‍රී ලංකිකයින්ට නිවේදනයක්
-
-*2025-09-09 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214370) · `si`
-
-නේපාලයේ පැවැත්වෙන විරෝධතා හමුවේ එරට වෙසෙන ශ්‍රී ලාංකිකයන්ට ගෘහස්ථව රැඳී සිටින ලෙස විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය නිවේදනය කර තිබේ.
-
-එම අමාත්‍යාංශය සඳහන් කරන්නේ, ශ්‍රී ලංකා තානාපති කාර්යාල නිලධාරීන් +977- 9851048653 අංකයෙන් පැය 24 පුරාම දුරකථනයෙන් සම්බන්ධ කර ගත හැකි බවය.
-
-විදේශ අමාත්‍යාංශයේ ප්‍රකාශක තුෂාර රොද්‍රිගෝ, නේපාලයේ සිටින ශ්‍රී ලාංකිකයින්ගෙන් ඉල්ලා සිටියේ සෑම විටම ජලය සහ වියළි ආහාර සැපයුමක් තබා ගන්නා ලෙසත්, ඖෂධ භාවිතා කරන පුද්ගලයින් සෑම විටම ඒවා ළඟ තබා ගත යුතු බවය.
-
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය  සඳහන් කරන්නේ, නේපාලයේ පවතින තත්ත්වය පිළිබඳව නිරීක්ෂණය කරමින් සිටින බවත්, නේපාලයේ ශ්‍රී ලංකා දූත මණ්ඩලය සහ ප්‍රජා නායකයින් කිහිප දෙනෙකු සමඟ සම්බන්ධතා පවත්වන බවත්ය.
-
-නේපාලය තුළ සිසුන් 22ක් ඇතුළුව ශ්‍රී ලංකිකයන් 99ක් එරට සිටින අතර තානාපති කාර්ය මණ්ඩලයද ඊට අයත් බවත් මේ දක්වා කිසිදු ශ්‍රී ලාංකිකයෙකුට හානියක් වාර්තා වී නොමැති බවත් විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය  වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/b50041aa.json)
-
----
-
-### “உடல் எடையை காரணம் காட்டாமல் சர்ஃபராஸ் கானை டெஸ்ட்டுக்கு கொண்டு வாங்க”: கிறிஸ் கெய்ல்
-
-*2025-09-09 17:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உடல்-எடையை-காரணம்-காட்டாமல்-சர்ஃபராஸ்-கானை-டெஸ்ட்டுக்கு-கொண்டு-வாங்க-கிறிஸ்-கெய்ல்/44-364286) · `ta`
-
-2025-26 உள்நாட்டு கிரிக்கெட் சீசன் தொடங்கவுள்ள நிலையில் சர்வதேச கிரிக்கெட்டும் இந்தியாவில் நடைபெறவுள்ள நிலையில் காரணமில்லாமல் ஒதுக்கப்பட்ட சர்பராஸ் கானை மீண்டும் இந்திய அணியில் எடுங்கள் என்று ‘யுனிவர்ஸ் பாஸ்’ என்று தன்னைத்தானே அழைத்துக் கொள்ளும் கிறிஸ் கெய்ல் பரிந்துரைத்துள்ளார்.
-
-ஆஸ்திரேலியாவுக்கு எதிரான பார்டர்-கவாஸ்கர் டிராபி தொடரில் சர்பராஸ் கானை 5 போட்டிகளிலும் பெஞ்சி அமர வைத்து ரசித்தார் கவுதம் கம்பீர். எங்கிருந்தோ தேவ்தத் படிக்கல், துருவ் ஜுரெல் எல்லாம் வாய்ப்புப் பெற்ற போது நல்ல எதிர்காலமிக்க டெஸ்ட் வீரரான சர்பராஸ் கானை ஒழிப்பதில் கிரிக்கெட் அல்லாத புறக்காரணங்கள், அதாவது அவரது உடல் எடை ஒரு சாக்காக முன் வைக்கப்பட்டு அவரை அணியில் எடுக்காமல் தவிர்த்து வந்தனர். ஆனால் உடல் எடை என்பது ஒரு முகமூடிதான் உள்ளுக்குள்ளே பலதரப்பட்ட காரணங்கள், அரசியல் இருக்கலாம் என்று பலரும் சந்தேகம் எழுப்பி வந்தனர். இப்போதெல்லாம் சர்பராஸ் கான் பற்றி விவாதங்களே கூட எழுவதில்லை.
-
-...
-
-[Data](articles/d9bf712b.json)
-
----
-
-### மின் கட்டண உயர்வு - பொதுமக்கள் கருத்துக் கணிப்பு ஆரம்பம்
-
-*2025-09-09 17:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-உயர்வு-பொதுமக்கள்-கருத்துக்-கணிப்பு-ஆரம்பம்/175-364284) · `ta`
-
-2025 ஆம் ஆண்டின் இறுதி காலாண்டிற்கான இலங்கை மின்சார சபையால் (CEB) முன்மொழியப்பட்ட மின்சார கட்டண திருத்தம் குறித்து பொதுமக்களின் கருத்தைப் பெறவுள்ளதாக இலங்கை பொதுப் பயன்பாட்டு ஆணைக்குழு (PUCSL) அறிவித்துள்ளது.
-
-PUCSL இன் படி, CEB 6.8% கட்டண உயர்வை முன்மொழிந்துள்ளது. ஒக்டோபர் 7, 2025 க்குள் பொதுமக்கள் தங்கள் கருத்துகளையும் முன்மொழிவுகளையும் எழுத்துப்பூர்வமாக சமர்ப்பிக்க ஆணையம் அழைப்பு விடுத்துள்ளது.
-
-எழுத்துப்பூர்வ சமர்ப்பிப்புகளுக்கு மேலதிகமாக, அனைத்து மாகாணங்களிலும் ஒன்பது பொது ஆலோசனை அமர்வுகளை PUCSL நடத்தும், இதன் மூலம் குடிமக்கள் தங்கள் கருத்துக்களை வாய்மொழியாக முன்வைக்க வாய்ப்பளிக்கும்.
-
-◼️
-
-[Data](articles/4a4acf9d.json)
-
----
-
-### ’’மலையக அதிகார சபையை மூடும் நடவடிக்கை குறித்து ஜனாதிபதி மீள்பரிசீலனை செய்ய வேண்டும்’’
-
-*2025-09-09 17:10:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-அதிகார-சபையை-மூடும்-நடவடிக்கை-குறித்து-ஜனாதிபதி-மீள்பரிசீலனை-செய்ய-வேண்டும்/76-364283) · `ta`
-
-மலையக அதிகார சபை என்பது பல்வேறு முயற்சிகள்  மேற்கொள்ளப்பட்டு உருவாக்கப்பட்டது. அதை மூடும் நடவடிக்கை குறித்து ஜனாதிபதி மீள்பரிசீலனை செய்ய வேண்டும் என இ.தொ.கா தலைவர் செந்தில் தொண்டமான் தெரிவித்துள்ளார்.
-
-கடந்த காலங்களில் மலையக மக்கள் 30 வருட காலமாக பிரஜாவுரிமை இன்றி வாழ்ந்துக் கொண்டிருந்தனர். ஏனைய சமூகத்திற்கு அரசின் சலுகைகள் கிடைத்த பொழுது, மலையக மக்கள் புறக்கணிக்கப்பட்ட சமூகமாக காணப்பட்டனர். அக்காலகட்டத்தில் மறைந்த தலைவர் சௌமியமூர்த்தி தொண்டமான் பல கடுமையான போராட்டங்கள் முன்னெடுத்து மலையக மக்களுக்கு பிரஜா உரிமையை பெற்றுக்கொடுத்தார்.
-
-மறைந்த  தலைவர் சௌமியமூர்த்தி தொண்டமானுடைய முயற்சியால்  முதன் முறையாக மலையக மக்கள் சார்ந்த அமைச்சுகள், நிறுவனங்கள் உருவாக்கப்பட்டது. இந்த அமைச்சுக்கள், நிறுவனங்கள்  ஊடாக மலையக மக்களுக்கு முழுமையான சேவைகள் சென்றடைவதற்கான வழிமுறைகள் அவரால் வகுக்கப்பட்டது. இன்றைய காலக்கட்டத்தில் ஏனைய சமூகங்களுடன் மலையக மக்களை ஒப்பிடுகையில் மலையக மக்கள்  முதன்மை நிலையை நோக்கி வளர்ச்சி அடைந்து வருகின்றனர்.
-
-...
-
-[Data](articles/a444cd2d.json)
-
----
 
 ### Secured from Sri Lanka Laboratory
 
@@ -963,28 +879,6 @@ But Murali, who was heartbroken by the video of the villagers that hit him on so
 [Data](articles/07db117b.json)
 
 [Extended Data](ext_articles/07db117b.ext.json)
-
----
-
-### Paddy cultivation is destroyed by unidentified
-
-*2025-09-09 12:35:03* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-රෝයකින්-වී-වගාව-විනාශ-වෙයි/11-418381) · `si`
-
-The farmers of the Mahabulama area in Anuradhapura have expressed their risk of destroying about two acres of cultivation due to a unidentified disease.
-
-The farmers pointed out that the stalk had come to the standing level, and the farmers pointed out that the stalk trees became white, and the paddy has become a blaze.
-
-Farmers said that mite and a fungal disease or fungal disease, the farmers said they had no effect.
-
-They also said that the Mahawela and Dangasuli areas cultivated under Mahabulamamama tank have begun to destroy more than two,000 acres of paddy fields.
-
-They also say that the government makes a reasonable compensation to obtain reasonable compensation due to the condition of an acre of identified disease.
-
-◼️
-
-[Data](articles/7726dbe6.json)
-
-[Extended Data](ext_articles/7726dbe6.ext.json)
 
 ---
 
@@ -1957,5 +1851,113 @@ The Supreme Court has informed the Supreme Court that the Simple majority of Par
 [Data](articles/37228b28.json)
 
 [Extended Data](ext_articles/37228b28.ext.json)
+
+---
+
+### Drone attacked on the ship of Greta traveler to Gaza
+
+*2025-09-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224597) · `ta`
+
+The ship Global Sumut Plotilla, which sends assistance to Gaza, was attacked by a drone on Tuesday (09) at Tunisia beach.
+
+As part of an attempt to break the Israeli blockade in the Gaza region, the ship has carried out social activists and civilians from 44 countries, including climate -related social activist Greta Tanberg.
+
+UN for the occupied Palestinian territories. Special Rapporteur Francheka Albanis has also gone on the ship.
+
+“Global Sumut Flottilla (GSF) confirms that one of the main vessels called" family ship "carried by the Global Sumuth Flottila Guidance Committee was attacked by drone.
+
+All passengers and employees are safe on the ship carrying the Portuguese flag. The investigation is currently underway. Once more information is available, it will be released immediately, ”the organization issued a statement issued.
+
+◼️
+
+[Data](articles/f737d9b7.json)
+
+[Extended Data](ext_articles/f737d9b7.ext.json)
+
+---
+
+### Supreme Court decision informs the President's Clection (Cancellation) Bill
+
+*2025-09-09 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214349) · `si`
+
+Speaker Medical Wickramaratne said that no arrangement of the Conversation (Cancellation) Bill has not comply with any provision of the Constitution.
+
+The Speaker announced that the Supreme Court today announced that the Supreme Court has decided that it can be enforced with a simple majority of Parliament.
+
+◼️
+
+[Data](articles/216340ea.json)
+
+[Extended Data](ext_articles/216340ea.ext.json)
+
+---
+
+### Supreme court approves stripping ex-Sri Lanka Presidents of their perks
+
+*2025-09-09 09:49:00* · [`economynextcom`](https://economynext.com/supreme-court-approves-stripping-ex-sri-lanka-presidents-of-their-perks-239772/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has approved a bill that will slash benefits given to former President, speaker Jagath  Wickramaratne said.
+
+“The Supreme Court has determined that no provision of the bills is inconsistent with the constitution,” the speaker told parliament.
+
+Court has rejected all the petitions against the bill, he said.
+
+Sri Lanka’s new administration promised to reduce the priviledges given to ex-Presidents.
+
+◼️
+
+[Data](articles/502f3255.json)
+
+[Extended Data](ext_articles/502f3255.ext.json)
+
+---
+
+### Sri Lanka needs thinkers who question, create, and innovate – PM Harini
+
+*2025-09-09 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112309/sri-lanka-needs-thinkers-who-question-create-and-innovate-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya emphasized the importance of nurturing a new generation equipped with creativity, curiosity, and critical thinking, stressing that the Sri Lanka’s future depends on individuals who can question existing knowledge, think differently, and use innovation to address global challenges.
+
+She made these comments during the launch of the national programme to introduce 100 new ‘Young Inventor Clubs’ into the school system, organized by the Ministry of Science and Technology, which was held on Monday (8) at the Auditorium of the Faculty of Medicine, University of Colombo, under the patronage of Prime Minister Dr. Harini Amarasuriya and Minister of Science and Technology Prof. Chishantha Abeysena.
+
+At this event, the official commencement of establishing the School Young Inventor Clubs was symbolically marked by presenting Innovation Tokens to nine schools representing all provinces of the country by the Prime Minister, the PM’s Office said.
+
+...
+
+[Data](articles/44517f4a.json)
+
+[Extended Data](ext_articles/44517f4a.ext.json)
+
+---
+
+### Asian Bowl 2025 - Cricket Series begins today!
+
+*2025-09-09 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224591) · `ta`
+
+The Asian Cup Cricket Council (Asian Bowl) has announced that the Asian Bowl Twenty20 Cricket Tournament will begin today (September 09).
+
+In this Asian Cup Tournament, eight teams are competing under two groups.
+
+At the same time, the team is also in Afghanistan, Bangladesh and Hong Kong.
+
+India, Pakistan, Oman and the United Arab Emirates team are contesting under "A".
+
+◼️
+
+[Data](articles/7dd92d1c.json)
+
+[Extended Data](ext_articles/7dd92d1c.ext.json)
+
+---
+
+### Parliamentary Council begins
+
+*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214347) · `si`
+
+◼️
+
+[Data](articles/37a5f93d.json)
+
+[Extended Data](ext_articles/37a5f93d.ext.json)
 
 ---

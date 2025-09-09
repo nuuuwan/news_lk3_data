@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 16:37:24**
+As of **2025-09-09 16:09:54**
 
 ## Newspaper Stats
 
-*Scraped **75,005** Articles*
+*Scraped **74,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,70 +17,20 @@ islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,266
-adaderanalk | 9,610
+adaderanalk | 9,605
 tamilmirrorlk | 11,180
 virakesarilk | 12,252
-adaderanasinhalalk | 13,065
+adaderanasinhalalk | 13,063
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,950 (86.6%) of 75,005 articles have been extended.
+64,915 (86.6%) of 74,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### Secured from Sri Lanka Laboratory
-
-*2025-09-09 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214369) · `si`
-
-The Embassy in Nepal continues to find information on the Sri Lankan Sri Lanka.
-
-The Sri Lankan Embassy of Sri Lanka has not been harmed due to protests in the capital of Kathmandu in Nepal.
-
-The majority of Sri Lankans in Nepal are on student visas, the External Affairs Ministry added.
-
-Protests in the capital of Nepal's Kathmandu has taken a violent face.
-
-According to reports, the prime minister Alley's house, President of the ruling Congress, was set on fire, as well as the homes of the ruling constituent parties in Nepal.
-
-Accordingly, the airport has also been temporarily closed.
-
-The protests began yesterday after the government's decision to ban 26 social media covers yesterday.
-
-The majority of the new generation belonging to the new generation of the new generation of the majority of the protest against social media censorship.
-
-After the Nepalese protests that killed 25 people, Prime Minister KP Sharma Also resigned from his post.
-
-◼️
-
-[Data](articles/ab092778.json)
-
-[Extended Data](ext_articles/ab092778.ext.json)
-
----
-
-### 4.5 MT of expired goods destroy three raids
-
-*2025-09-09 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214368) · `si`
-
-Consumer Affairs Authority has destroyed many expired items in the Wattala and Hendala areas.
-
-The Consumer Affairs Authority has been destroyed by the Welisara Magistrate's Court about 4.5 years of expired in Wattala and Hendara areas.
-
-The Authority said that between the expired countries, which had expired, and 300 kilograms of expired.
-
-Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The ointment of 55,000 was set by the Welisara Magistrate's Court on the 27th.
-
-◼️
-
-[Data](articles/49ff9401.json)
-
-[Extended Data](ext_articles/49ff9401.ext.json)
-
----
 
 ### PUCSL prompts public views on 6.8 percent
 
@@ -108,26 +58,6 @@ The consultation sheet and the proposed proposal can be seen from the link below
 
 ---
 
-### Kathmandu’s Tribhuvan International Airport closed until further notice
-
-*2025-09-09 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112326/kathmandus-tribhuvan-international-airport-closed-until-further-notice) · `en`
-
-Tribhuvan International Airport (TIA) has been fully closed following escalating demonstrations across the Kathmandu Valley.
-
-Following the continuous incidents of fires in areas including Gothatar, coupled with deteriorating aviation security conditions, prompted the closure, according to the TIA sources.
-
-The Nepali Army has been deployed to provide security at the airport.
-
-Both domestic and international flights remain suspended until further notice.
-
-◼️
-
-[Data](articles/39dbec32.json)
-
-[Extended Data](ext_articles/39dbec32.ext.json)
-
----
-
 ### Signal boards to the side of elephants to prevent the train train
 
 *2025-09-09 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214366) · `si`
@@ -150,20 +80,6 @@ Recognizing the high-railway measures in the Environment and Natural Research Ce
 
 ---
 
-### Nepal Prime Minister resigns
-
-*2025-09-09 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224631) · `ta`
-
-Prime Minister KP Sharma has resigned shortly after the people in the country.
-
-◼️
-
-[Data](articles/f5d4f4bb.json)
-
-[Extended Data](ext_articles/f5d4f4bb.ext.json)
-
----
-
 ### Nepal Prime Minister Sharma resigns
 
 *2025-09-09 15:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-பிரதமர்-ஷர்மா-ஒலி-ராஜினாமா/50-364278) · `ta`
@@ -179,62 +95,6 @@ In this case, the struggle took place for the second day. Subsequently, it was r
 [Data](articles/b595a395.json)
 
 [Extended Data](ext_articles/b595a395.ext.json)
-
----
-
-### Nepal Parliament breached, building set on fire by Gen Z protesters
-
-*2025-09-09 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112325/nepal-parliament-breached-building-set-on-fire-by-gen-z-protesters) · `en`
-
-Minutes before Nepalese Prime Minister KP Sharma Oli resigned from his office, Gen Z protesters broke into Parliament and set fire to one of the buildings on the premises.
-
-Demonstrators also set fire to Oli’s residence in Bhaktapur’s Balkot area and other senior leaders amid the ongoing protests triggered by a since-revoked social media ban.
-
-Visuals showed thousands of protesters storming the Parliament as plumes of grey and black smoke arose in the area.
-
-Even as the building was on fire, thousands of protesters continued to march towards the Parliament, shouting slogans and raising flags in the area, visuals showed.
-
-The demonstrators also entered the Singha Durbar premises, breaking into the area through its western gate. They also reportedly set the gate on fire while forcing their way into the central administrative complex of Nepal.
-
-The Gen Z protesters shouted slogans like “KP Chor, Desh Chhod”, “Take Action Against Corrupt Leaders” across Nepal’s capital city of Kathmandu.
-
-...
-
-[Data](articles/0d740226.json)
-
-[Extended Data](ext_articles/0d740226.ext.json)
-
----
-
-### Sectoral Oversight Committee on Justice approves Presidents’ Entitlements (Repeal) Bill
-
-*2025-09-09 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112324/sectoral-oversight-committee-on-justice-approves-presidents-entitlements-repeal-bill) · `en`
-
-The Sectoral Oversight Committee on Governance, Justice, and Civil Protection has approved the Presidents’ Entitlements (Repeal) Bill.
-
-◼️
-
-[Data](articles/b8a1c5db.json)
-
-[Extended Data](ext_articles/b8a1c5db.ext.json)
-
----
-
-### Police warn public on fire hazards of ‘sky lanterns’
-
-*2025-09-09 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112323/police-warn-public-on-fire-hazards-of-sky-lanterns) · `en`
-
-Sri Lanka Police have cautioned the general public regarding the serious risks associated with the indiscriminate use of sky lanterns during festive seasons and special celebrations across the island.
-
-“It has been observed that many individuals release sky lanterns of different sizes, which are propelled into the sky using an open flame. While these lanterns may appear entertaining, they pose a significant fire hazard as they may drift uncontrollably and fall to the ground while still alight,” the Police Media Division said.
-
-Authorities warned that if such lanterns descend onto sensitive or high-risk locations—such as fireworks manufacturing sites, fuel stations, petroleum storage facilities, residential homes, commercial buildings, or crowded public areas—they could ignite destructive fires, causing extensive property damage and potential loss of life.
-
-...
-
-[Data](articles/5fd30bc4.json)
-
-[Extended Data](ext_articles/5fd30bc4.ext.json)
 
 ---
 
@@ -262,23 +122,17 @@ Land has been allocated in Ampara, Trincomalee, Batticaloa, Kalutara, Minuwangod
 
 ---
 
-### Sampath Manamperi an ex-cop and suspect in Raviraj murder – Cabinet Spokesman
+### Nepal Prime Minister resigns
 
-*2025-09-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112322/sampath-manamperi-an-ex-cop-and-suspect-in-raviraj-murder-cabinet-spokesman-) · `en`
+*2025-09-09 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/224631) · `ta`
 
-Cabinet Spokesman Dr. Nalinda Jayatissa reveals that Sampath Manamperi, who is accused of concealing two container loads of raw materials allegedly used to manufacture the drug ‘Ice’ and belonging to underworld figure ‘Kehelbaddara Padme’, has been identified as a former police intelligence officer.
+Prime Minister KP Sharma has resigned shortly after the people in the country.
 
-Participating in the weekly Cabinet media briefing held today (09), Minister Jayatissa said that the absconding suspect has also been identified as a suspect in the murder of the late Nadarajah Raviraj, a former Tamil National Alliance (TNA) Parliamentarian.
+◼️
 
-The minister further stated, “This person named Sampath Manamperi has served as a police constable for a while. He has also served as an intelligence officer for a short period. He had also been identified as a suspect in the murder of MP Raviraj.”
+[Data](articles/f5d4f4bb.json)
 
-Jayatissa stated that he had contested as a candidate of the Sri Lanka Podujana Peramuna (SLPP) despite those allegations and that simply cancelling his party membership would not suffice.
-
-...
-
-[Data](articles/2ce5ddb9.json)
-
-[Extended Data](ext_articles/2ce5ddb9.ext.json)
+[Extended Data](ext_articles/f5d4f4bb.ext.json)
 
 ---
 
@@ -460,11 +314,7 @@ Therefore, the Sri Lankan police calls on the public to act in a viable and resp
 
 Two individuals on a motorcycle have reportedly opened fire at several persons travelling in a three-wheeler on Heenatiya Road in Ambalangoda.
 
-One individual was injured in the incident and has been admitted to the Balapitiya Hospital for treatment.
-
-The shooting took place while the injured person was returning from the Elpitiya Magistrate’s Court.
-
-The victim has been identified as the main suspect in the murder of an under-19 cricketer, according to police.
+However, no casualties or injuries were reported in the incident, police said.
 
 ◼️
 
@@ -1262,23 +1112,17 @@ Visites inquiry say that they were siunded only only previously cultivated chena
 
 ---
 
-### Change the original format and modapo. Unregistered Bowser owner and driver sued
+### මුල් ආකෘතිය වෙනස් කර මෝ.ර.ප්‍ර. දෙපාර්තමේන්තුවේ ලියාපදිංචි නොකළ බවුසර් රථ හිමිකරුට හා රියදුරුට නඩු
 
 *2025-09-09 11:04:27* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘතිය-වෙනස්-කර-මෝ-ර-ප්‍ර--දෙපාර්තමේන්තුවේ-ලියාපදිංචි-නොකළ බවුසර්-රථ-හිමිකරුට-හා-රියදුරුට-නඩු/11-418372) · `si`
 
-Nuwara Eliya Chief Motor Jaliya Bandara said that the Veton Magistrate's traffic official office was instructed to take legal action against the Bowser of the Motor Traffic and the owner.
+මුල් ආකෘතිය වෙනස් කර මෝටර් රථ දෙපාර්තමේන්තුවේ ලියා පදිංචි නොකර කාලයක් තිස්සේ ඉන්ධන ප්‍රවාහනය කල බවුසර් රථයේ රියදුරාට සහ අයිතිකරුට එරෙහිව හැටන් මහේස්ත්‍රාත් අධිකරණය හමුවේ නෛතික පියවර ගන්නා ලෙස හැටන් පොලිසියේ රථවාහන අංශයේ නිළධාරින්ට උපදෙස් ලබා දුන් බව නුවරඑලිය ප්‍රධාන මෝටර් රථ පරික්ෂක ජාලිය බණ්ඩාර මහතා පැවසීය.
 
-A three-wheeler in Hatton Colombo main road, a three-wheeler in Hatton Colombo main road, was seriously injured in a three-wheeler in Hatton Colombo main road to the Kotagala. The driver of the Balazer's vehicle was arrested by the Veton Police and the bowsers were taken into police custody after admission to the Watawala Regional Hospital.
-
-The bowser of the police custody was inspected by the Testing of the Motor Inspection of the Department of Motor Traffic.
-
-The owners of the lorry are consistently inspected by the vehicle department as a fuel traffic bowser.
+කොළොන්නාවේ සිට කොටගල ඛණිජ තෙල් නීති ගත සංස්ථාව දක්වා ඩීසල් සහ පෙට්‍රල් ඉන්ධන ලීටර් 33000ක් ප්‍රවාහනය කරමින් තිබියදී ඉකුත් 06 වන දින හැටන් කොළඹ ප්‍රධාන මාර්ගයේ හැටන් ෂැනන් වත්ත ප්‍රදේශයෙදි එම දිසාවටම ඉදිරියෙන් ධාවනය වූ ත්‍රීරෝද රථයක් අපරික්ෂාකාරි ලෙස ඉස්සර කර යෑමට උත්සහ කිරිමෙදි බවුසර් රථයේ ටැංකියේ බද කොටසේ ගැටි ත්‍රීරෝද රථයක් අනතුරට පත් වී එම ත්‍රීරෝද රථයේ ගමන් ගත් කුඩා ළමයෙකු බරපතල ලෙස තුවාල ලබා වටවල ප්‍රාදේශීය රෝහල වෙත ඇතුලත් කිරිමෙන් පසු හැටන් පොලිසියෙ රථවාහන අංශයේ නිළධාරින් විසින් බවුසර් රථයේ රියදුරා අත්අඩංගුවට ගෙන බවුසර් රථය පොලිස් භාරයට ගෙන තිබුණි.
 
 ...
 
 [Data](articles/c5774965.json)
-
-[Extended Data](ext_articles/c5774965.ext.json)
 
 ---
 
@@ -1959,5 +1803,143 @@ India, Pakistan, Oman and the United Arab Emirates team are contesting under "A"
 [Data](articles/37a5f93d.json)
 
 [Extended Data](ext_articles/37a5f93d.ext.json)
+
+---
+
+### The social media ban on Nepal removed after protests
+
+*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214348) · `si`
+
+The Government of Nepal has decided to remove the social media ban with the death of 19 people from the protest against the protest against the social media ban.
+
+The Nepal Government of Nepal recently banned the implementation of the implementation of Nepal for 26 social media stage, including Facebook and Youtube, and a large number of protests in protest.
+
+During these objections, protesters were included in protesters, the parliamentary building of the clanis building and 19 people were killed and 100 others were injured in the clashes between the police and protesters.
+
+As a result of this, the Nepal government has decided to remove the ban on the social media ban.
+
+Communications and Information Minister Prabhavi Surabhag Gungung has said that the Cabinet has decided to remove the ban on the social media ban on this matter.
+
+◼️
+
+[Data](articles/f47d6a2f.json)
+
+[Extended Data](ext_articles/f47d6a2f.ext.json)
+
+---
+
+### Removal
+
+*2025-09-09 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224590) · `ta`
+
+International media reports that social media ban has been lifted due to clashes between protesters and police in Nepal.
+
+Thousands of young people entered the parliamentary building in Kathmandu, Nepal's capital, and demanded the government to remove the ban on 26 social media sites, including Facebook and YouTube.
+
+A decision has been taken to remove the ban after the Emergency Cabinet meeting last night to address the demands of General Iats.
+
+The media reports that the Minister of Communications and Information Prithvi Subba Gurung has commented on this.
+
+More than 100 people were injured in protests in the capital of Nepal and in the cities of the capital.
+
+◼️
+
+[Data](articles/775d4318.json)
+
+[Extended Data](ext_articles/775d4318.ext.json)
+
+---
+
+### 10 killed
+
+*2025-09-09 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224589) · `ta`
+
+International media reports that about 10 people have been killed in a freight train crash in a double -tier bus in Mexico.
+
+It is reported that the police authorities are carrying out investigations into the incident.
+
+◼️
+
+[Data](articles/d952664a.json)
+
+[Extended Data](ext_articles/d952664a.ext.json)
+
+---
+
+### Tourist arrivals exceed 16 lakhs
+
+*2025-09-09 09:19:35* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-16-ඉක්මවයි/11-418367) · `si`
+
+මේ වසරේ ජනවාරි 01 දා සිට සැප්තැම්බර් 07 දා තෙක් ගතවූ කාලසීමාව තුළ ශ්‍රී ලංකාවට සංචාරකයන් 1604018ක් පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය කියයි. 37 495 tourists had arrived in Sri Lanka only during the first week of September.
+
+◼️
+
+[Data](articles/081df021.json)
+
+[Extended Data](ext_articles/081df021.ext.json)
+
+---
+
+### More than 1,800 people die in road accidents so far
+
+*2025-09-09 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224588) · `ta`
+
+Thousands of 757 road accidents occurred from January 1 to September 4 this year, police said.
+
+The statistics have been released by Deputy Inspector General of Police Indika Habukoda in charge of traffic.
+
+He added that about seven to eight people die daily due to road accidents.
+
+Therefore, Deputy Police Chief Indika Habukoda has said that all the road users, including drivers, motorcycle drivers, pedestrians and passengers, must follow the transport laws.
+
+At the same time, he said that the street procedures should be adopted and the number of accidents should be reduced.
+
+◼️
+
+[Data](articles/838df283.json)
+
+[Extended Data](ext_articles/838df283.ext.json)
+
+---
+
+### Train services of Kelaniya Religion are limited to Kosama
+
+*2025-09-09 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224587) · `ta`
+
+The train control room has announced that the train services of the Kelaniweli route have been limited to the Kosama Railway Station.
+
+The decision was taken as a train derailed on Monday evening (08) evening at Bhuvakpitiya, Avissawella.
+
+A train traveling from Colombo to Avissawella was derailed yesterday evening between the Puwakpitiya and Avissawella railway stations, the Railway Department said.
+
+Accordingly, the Railway Department said that the train services through the Kelaniweli route have been limited to Kosgama.
+
+◼️
+
+[Data](articles/1b4daff7.json)
+
+[Extended Data](ext_articles/1b4daff7.ext.json)
+
+---
+
+### UK deeply concerned by Sri Lanka’s continued use of PTA to ‘restrict fundamental freedoms’
+
+*2025-09-09 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112308/uk-deeply-concerned-by-sri-lankas-continued-use-of-pta-to-restrict-fundamental-freedoms) · `en`
+
+The United Kingdom (UK) has called for “tangible and sustained progress” on human rights and accountability in Sri Lanka while also emphasizing the importance of exhuming and investigating mass grave sites in accordance with international standards.
+
+The UK delivered a statement at the 60th session of the United Nations Human Rights Council (UNHRC), during the Interactive Dialogue on the report of the Office of the High Commissioner for Human Rights (OHCHR) on the human rights situation in Sri Lanka on Monday.
+
+The statement was delivered by the UK’s Human Rights Ambassador, Eleanor Sanders.
+
+In her remarks, Ambassador Sanders thanked UN High Commissioner Volker Türk for his report and recent visit to Sri Lanka, while welcoming the Sri Lankan government’s stated commitments on human rights and accountability.
+
+However, she emphasized the need for “tangible and sustained progress.”
+
+...
+
+[Data](articles/7f6cfd85.json)
+
+[Extended Data](ext_articles/7f6cfd85.ext.json)
 
 ---

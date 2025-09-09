@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 17:59:12**
+As of **2025-09-09 16:54:01**
 
 ## Newspaper Stats
 
-*Scraped **75,015** Articles*
+*Scraped **75,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,189 +16,21 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,267
+adalk | 7,266
 adaderanalk | 9,610
-tamilmirrorlk | 11,187
+tamilmirrorlk | 11,180
 virakesarilk | 12,252
-adaderanasinhalalk | 13,067
+adaderanasinhalalk | 13,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,033 (86.7%) of 75,015 articles have been extended.
+64,981 (86.6%) of 75,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### ශ්‍රී ලංකාව සහ UAE ගිවිසුම පිළිබඳ යෝජනා සම්මතය වැඩිඡන්ද 163කින් සම්මතයි
-
-*2025-09-09 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214371) · `si`
-
-ශ්‍රී ලංකාව සහ එක්සත් අරාබි එමීර් රාජ්‍ය අතර ගිවිසුම පිළිබඳ යෝජනා සම්මතය වැඩි ඡන්ද 163කින් අද (09) පාර්ලිමේන්තුවේදී සම්මත කෙරුණි.
-
-එනම් සුවිශේෂ බහුතර ඡන්දයකින් සම්මත වූ බව කථානායකවරයා විසින් සභාවට දැනුම්දුනි.
-
-යෝජනාවට විරුද්ධව කිසිදු ඡන්දයක් ප්‍රකාශ නොවූ අතර කිසිවෙකුත් ඡන්දය දීමෙන් වැළකී සිටියේද නැත.
-
-◼️
-
-[Data](articles/70d7bb18.json)
-
----
-
-### ஜனாதிபதி உரிமை நீகக் சட்டமூலம் மஹிந்தவைக் குறிவைக்கிறதா?
-
-*2025-09-09 17:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-உரிமை-நீகக்-சட்டமூலம்-மஹிந்தவைக்-குறிவைக்கிறதா/175-364293) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை குறிவைத்து ஜனாதிபதியின் உரிமைகளை ரத்து செய்யும் சட்டமூலம் அறிமுகப்படுத்தப்படவில்லை என்று அமைச்சரவை ஊடகப் பேச்சாளர் கலாநிதி நளிந்த ஜயதிஸ்ஸ இன்று தெரிவித்தார்.
-
-அமைச்சரவை முடிவுகளை அறிவிக்கும் வாராந்திர சந்திப்பில், இந்த சட்டமூலம் அனைத்து முன்னாள் ஜனாதிபதிகள் மற்றும் அவர்களது வாழ்க்கைத் துணைவர்களை உள்ளடக்கும் வகையில் வரைவு செய்யப்பட்டுள்ளதாக அவர் கூறினார்.
-
-முன்னாள் ஜனாதிபதி ராஜபக்ஷவை குடியிருப்பிலிருந்து நீக்க திகதி நிர்ணயிக்கப்பட்டுள்ளதா அல்லது சட்டமூலம் இயற்றிய பிறகு அது செய்யப்படுமா என்ற கேள்விக்கு பதிலளிக்கும் போது அமைச்சர் இவ்வாறு கூறினார்.
-
-இந்த சட்டமூலம் சட்டமாக இயற்றப்பட்ட பிறகு, அந்தந்த முன்னாள் ஜனாதிபதிகள் மீது அது அமலுக்கு வரும் என்று அவர் கூறினார்.
-
-"நிர்வாகத் தலைவர்களாகச் செயல்பட்டு, சட்டமன்றத்தில் நீண்ட காலம் பணியாற்றியவர்கள், சட்டமூலம் பாராளுமன்றத்தால் இயற்றப்பட்ட பிறகு, சட்டத்தின்படி செயல்படுவார்கள் என்று நாங்கள் நம்புகிறோம்.
-
-...
-
-[Data](articles/99e1e2da.json)
-
----
-
-### ஐஸ் கொள்கலன் விடுவிப்பு குறித்து அமைச்சர் விளக்கம்
-
-*2025-09-09 17:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-கொள்கலன்-விடுவிப்பு-குறித்து-அமைச்சர்-விளக்கம்/175-364290) · `ta`
-
-கிரிஸ்டல் மெத்தம்பேட்டமைன் (ICE) உற்பத்தியுடன் தொடர்புடைய இரண்டு கொள்கலன்களும் அங்கீகரிக்கப்பட்ட சுங்க செயல்முறை மூலம் விடுவிக்கப்பட்டதாக அமைச்சர் நளிந்த ஜெயதிஸ்ஸ தெரிவித்தார்.
-
-"இந்த கொள்கலன்கள் சுங்கத்தால் பரிசோதிக்கப்பட்டு விடுவிக்கப்பட்டன. இருப்பினும், சாத்தியமான இடைவெளிகள் மற்றும் முறைகேடுகள் குறித்து சுங்கம் உள் விசாரணையைத் தொடங்கியுள்ளது, அதே நேரத்தில் சிஐடியும் இந்த விஷயத்தை விசாரித்து வருகிறது. இந்த விசாரணைகள் கொள்கலன் விடுவிப்பு முன்கூட்டியே திட்டமிடப்பட்டதா என்பதை தீர்மானிக்கும்," என்று அவர் கூறினார்.
-
-ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) உறுப்பினர்கள் சம்பந்தப்பட்ட குற்றச்சாட்டுகள் குறித்த கேள்விகளுக்கு பதிலளித்த ஜெயதிஸ்ஸ, கட்சி அந்தக் கூற்றுக்களை ஒப்புக்கொண்டு உடனடி நடவடிக்கை எடுத்துள்ளதாகக் குறிப்பிட்டார்.
-
-"இதனால்தான் சம்பந்தப்பட்ட இரண்டு நபர்களின் கட்சி உறுப்பினர் பதவி உடனடியாக இடைநீக்கம் செய்யப்பட்டது என்று நாங்கள் நம்புகிறோம்," என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/01397612.json)
-
----
-
-### “வெளிநாட்டு பொறிமுறைக்கு உங்களுக்கு பயமா?”
-
-*2025-09-09 17:20:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-பொறிமுறைக்கு-உங்களுக்கு-பயமா/175-364289) · `ta`
-
-மனதில் பயம் இல்லை என்றால் வெளிநாட்டு பொறிமுறையை அரசாங்கம் ஏற்றுக் கொள்ள வேண்டும் என்று இலங்கை தமிழரசுக் கட்சியின் அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர் கே.கோடீஸ்வரன் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (09) நடைபெற்ற இலங்கைக்கும் ஐக்கிய அரபு இராச்சியதிற்கும் இடையிலான பரஸ்பர ஒப்பந்தங்கள் தொடர்பான விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
-
-ஐ.நா மனித உரிமைகள் பேரவை 60 ஆவது கூட்டத் தொடரில் இலங்கை அரசாங்கத்தின் வெளிவிவகார அமைச்சர் உள்நாட்டு பொறிமுறையில் செயல்படுவதாகவே கூறியுள்ளார். ஆனால் ஆணையாளர் வெளிநாட்டு பொறிமுறை சிறந்தது என்று கூறியுள்ளார்.
-
-எவ்வாறினும் உள்நாட்டு பொறிமுறையில் நாங்கள் நம்பிக்கை இழந்தவர்களாக இருக்கிறோம். ஏனென்றால் ஒவ்வொரு அரசாங்கமும் உள்நாட்டு பொறிமுறையே கூறி வந்துள்ளன. இதில் இனப்படுகொலை செய்த இராணுவம், புலனாய்வுத்துறை மற்றும் அதனுடன் தொடர்புடைய அரசியல்சாதிகளும் பாதுகாக்கப்படுவர். அதனாலேயே வெளிநாட்டு அனுசரையில் வெளிநாட்டு பொறிமுறை அடிப்படையில் தீர்மானம் நடைமுறை படுத்தப்பட வேண்டும்.
-
-...
-
-[Data](articles/db15dff7.json)
-
----
-
-### "Investment of $ 1 billion in the first year of Anura"
-
-*2025-09-09 17:16:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவின்-முதல்-வருடத்தில்-1-பில்லியன்-டொலர்-முதலீடு-ஈர்ப்பு/175-364288) · `ta`
-
-Minister Bimal Ratnayake says Sri Lanka has attracted US $ 1 billion foreign direct investment (FDI) in the first year of President Anura Kumara Dissanayake.
-
-Minister Ratnayake said that contracts were signed with other countries, considering many sectors, including economics, education and culture.
-
-“From last October to the present day, Sri Lanka has received $ 1.015 billion foreign direct investment. These are not signed or promised agreements, but accomplished funds, ”he said.
-
-Minister Ratnayake added that the facts can be reconsidered with the BOI with the Sri Lanka Investment Board (BOI).
-
-◼️
-
-[Data](articles/65b87c25.json)
-
-[Extended Data](ext_articles/65b87c25.ext.json)
-
----
-
-### Sri Lankans in Nepal
-
-*2025-09-09 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214370) · `si`
-
-The Ministry of Foreign Affairs and Travel, the Ministry of Foreign Affairs and Travel, has announced to remain indoors in the protests in Nepal.
-
-The Ministry said that the Sri Lankan embassies + 977- 9851048653 by phone.
-
-The External Affairs Ministry of External Affairs Tshrah, Tsri Rodrigo, the Sri Lankans in Nepal should always have a water and dry food supply, and those who use drugs should always be kept.
-
-The Ministry of External Affairs and the Ministry of External Affairs and the Ministry of Tourism are observing the current situation in Nepal and connections with the Sri Lankan Multiple Sri Lanka Mission and several community leaders in Nepal.
-
-The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and the diplomatic staff have been reported that there are 22 students in Nepal.
-
-◼️
-
-[Data](articles/b50041aa.json)
-
-[Extended Data](ext_articles/b50041aa.ext.json)
-
----
-
-### "Buy Sarfaras Khan to the test without causing weight": Chris Gayle
-
-*2025-09-09 17:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உடல்-எடையை-காரணம்-காட்டாமல்-சர்ஃபராஸ்-கானை-டெஸ்ட்டுக்கு-கொண்டு-வாங்க-கிறிஸ்-கெய்ல்/44-364286) · `ta`
-
-Chris Gayle, who calls himself a Universe Boss, has recommended himself to take the reserved Sarbaras Khan in the Indian team as the international cricket season is to be started in India as the 2025-26 domestic cricket season begins.
-
-Gautam Gambhir played Sarbaras Khan in five matches in the Border-Kavaskar Trophy series against Australia. When Devadat and Dhruv Jurel got all the opportunity, there were non -cricket reasons for the abolition of a good future Test player Sarbaraz Khan, ie his body weight was placed in front of him and avoided him in the squad.. But body weight is a mask and many have raised doubts that there may be politics and politics. Nowadays, there is no debate about Sarbaras Khan.
-
-...
-
-[Data](articles/d9bf712b.json)
-
-[Extended Data](ext_articles/d9bf712b.ext.json)
-
----
-
-### Electricity tariff Increase - Public Polls
-
-*2025-09-09 17:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-உயர்வு-பொதுமக்கள்-கருத்துக்-கணிப்பு-ஆரம்பம்/175-364284) · `ta`
-
-The Ceylon Electricity Board (CEB) for the last quarter of 2025 has announced that it will get public opinion on the proposed electricity tariff revision.
-
-According to PUCSL, CEB has proposed a 6.8% tariff hike. The Commission has called for the public to submit their comments and proposals by October 7, 2025.
-
-In addition to written submissions, PUCSL will hold nine public consultations sessions in all provinces, thereby giving citizens a chance to present their views.
-
-◼️
-
-[Data](articles/4a4acf9d.json)
-
-[Extended Data](ext_articles/4a4acf9d.ext.json)
-
----
-
-### The President should reclaim the action of closing the hill country Authority
-
-*2025-09-09 17:10:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-அதிகார-சபையை-மூடும்-நடவடிக்கை-குறித்து-ஜனாதிபதி-மீள்பரிசீலனை-செய்ய-வேண்டும்/76-364283) · `ta`
-
-The Upcountry Authority has made various efforts and created. CWC leader Senthil Thondaman has said that the President should reconsider the closure of it.
-
-In the past, the people of the hill country have been living without citizenship for 30 years. When the other community received the state's privileges, the people of the hill country were seen as a neglected community. At that time, the late leader Saumiyamoorthy Thondaman, who carried out many fierce struggles, gave the people the right to the hill country.
-
-For the first time with the efforts of the late leader Saumiyamoorthy Thondaman, the Ministries and Institutions. He was set up by these ministries and institutions to reach the people of the hill country. In the present day, the people of the hill country are developing towards the primary position compared to the people of the hill country.
-
-In 2003, the CWC was put on an end to the issue of citizenship by the late leader Arumugan Thondaman.
-
-...
-
-[Data](articles/a444cd2d.json)
-
-[Extended Data](ext_articles/a444cd2d.ext.json)
-
----
 
 ### Secured from Sri Lanka Laboratory
 
@@ -1047,28 +879,6 @@ But Murali, who was heartbroken by the video of the villagers that hit him on so
 [Data](articles/07db117b.json)
 
 [Extended Data](ext_articles/07db117b.ext.json)
-
----
-
-### Paddy cultivation is destroyed by unidentified
-
-*2025-09-09 12:35:03* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-රෝයකින්-වී-වගාව-විනාශ-වෙයි/11-418381) · `si`
-
-The farmers of the Mahabulama area in Anuradhapura have expressed their risk of destroying about two acres of cultivation due to a unidentified disease.
-
-The farmers pointed out that the stalk had come to the standing level, and the farmers pointed out that the stalk trees became white, and the paddy has become a blaze.
-
-Farmers said that mite and a fungal disease or fungal disease, the farmers said they had no effect.
-
-They also said that the Mahawela and Dangasuli areas cultivated under Mahabulamamama tank have begun to destroy more than two,000 acres of paddy fields.
-
-They also say that the government makes a reasonable compensation to obtain reasonable compensation due to the condition of an acre of identified disease.
-
-◼️
-
-[Data](articles/7726dbe6.json)
-
-[Extended Data](ext_articles/7726dbe6.ext.json)
 
 ---
 
@@ -1961,5 +1771,193 @@ In the meantime, there is a confrontation between the Bow Rod Tuck Car and the B
 [Data](articles/e59f3a1a.json)
 
 [Extended Data](ext_articles/e59f3a1a.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields edge up
+
+*2025-09-09 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-239776/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger to the US dollar at 301.88/93 Tuesday, from 301.97/302.02 the previous day, while bond yields edged up slightly, dealers said.
+
+A bond maturing on 01.07.2028 was quoted at 8.95/9.05 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.52/57 percent, up from 9.51/55 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.65/75 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.35/45 percent, up from 10.35/43 percent.
+
+The telegraphic transfer rates for the American dollar was 298.4000 buying, 305.4000 selling; the British pound was 404.0034 buying, and 415.3452 selling, and the euro was 349.2739 buying, 360.4791 selling.
+
+The Colombo Stocks Exchange was trading red; The ASPI was down 0.02 percent, or 3.29 points, at 20,902; the S&P SL20 was up 0.17 percent, or 9.92 points, at 5,945.
+
+Rs 77,000 million Treasury bills are to be issued through an auction on September 10, the central bank announced. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/01645ab5.json)
+
+[Extended Data](ext_articles/01645ab5.ext.json)
+
+---
+
+### Former Prime Minister of Thai Thaksin Schrianaya is a year
+
+*2025-09-09 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214350) · `si`
+
+The Supreme Court of Thailand has been sentenced to one year prison to the Prime Minister of Prime Minister.
+
+◼️
+
+[Data](articles/fb8978af.json)
+
+[Extended Data](ext_articles/fb8978af.ext.json)
+
+---
+
+### Speaker announces SC verdict on Presidents’ Entitlements (Repeal) Bill
+
+*2025-09-09 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112310/speaker-announces-sc-verdict-on-presidents-entitlements-repeal-bill) · `en`
+
+The Speaker of Parliament (Dr.) Jagath Wickramaratne announced today (09) that the Supreme Court has determined that no provision of the Presidents’ Entitlements (Repeal) Bill is inconsistent with any provisions of the Constitution of Sri Lanka.
+
+Accordingly, the Supreme Court held that the bill can be enacted by a simple majority in Parliament, the Speaker said, announcing the court’s determination on the petitions filed against the bill.
+
+Furthermore, the Speaker revealed that the Supreme Court has dismissed the petition filed against this Bill as the petitioner has failed to invoke jurisdiction in accordance with the mandatory provisions of Article 121(1) of the Constitution.
+
+The Supreme Court had previously, on August 25, indicated that it would submit its confidential determination on the constitutionality of the bill—aimed at removing privileges of retired Presidents—to the Speaker of Parliament.
+
+...
+
+[Data](articles/b2dcd4cb.json)
+
+[Extended Data](ext_articles/b2dcd4cb.ext.json)
+
+---
+
+### The removal of former presidents can make a simple majority
+
+*2025-09-09 10:01:23* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරුන්ගේ-හිමිකම්-ඉවත්--කිරීම-සරල-බහුතරයකින්-කළ-හැකියි/11-418368) · `si`
+
+Speaker Medical Minister Wickramaratne informed Parliament today (09) that the Supreme Court has decided not to unuse the former president's claim.
+
+He was told the Supreme Court decision on the relevant Bill, he said.
+
+The Supreme Court has informed the Supreme Court that the Simple majority of Parliament can be passed by the simplest majority of Parliament.
+
+◼️
+
+[Data](articles/37228b28.json)
+
+[Extended Data](ext_articles/37228b28.ext.json)
+
+---
+
+### Drone attacked on the ship of Greta traveler to Gaza
+
+*2025-09-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224597) · `ta`
+
+The ship Global Sumut Plotilla, which sends assistance to Gaza, was attacked by a drone on Tuesday (09) at Tunisia beach.
+
+As part of an attempt to break the Israeli blockade in the Gaza region, the ship has carried out social activists and civilians from 44 countries, including climate -related social activist Greta Tanberg.
+
+UN for the occupied Palestinian territories. Special Rapporteur Francheka Albanis has also gone on the ship.
+
+“Global Sumut Flottilla (GSF) confirms that one of the main vessels called" family ship "carried by the Global Sumuth Flottila Guidance Committee was attacked by drone.
+
+All passengers and employees are safe on the ship carrying the Portuguese flag. The investigation is currently underway. Once more information is available, it will be released immediately, ”the organization issued a statement issued.
+
+◼️
+
+[Data](articles/f737d9b7.json)
+
+[Extended Data](ext_articles/f737d9b7.ext.json)
+
+---
+
+### Supreme Court decision informs the President's Clection (Cancellation) Bill
+
+*2025-09-09 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214349) · `si`
+
+Speaker Medical Wickramaratne said that no arrangement of the Conversation (Cancellation) Bill has not comply with any provision of the Constitution.
+
+The Speaker announced that the Supreme Court today announced that the Supreme Court has decided that it can be enforced with a simple majority of Parliament.
+
+◼️
+
+[Data](articles/216340ea.json)
+
+[Extended Data](ext_articles/216340ea.ext.json)
+
+---
+
+### Supreme court approves stripping ex-Sri Lanka Presidents of their perks
+
+*2025-09-09 09:49:00* · [`economynextcom`](https://economynext.com/supreme-court-approves-stripping-ex-sri-lanka-presidents-of-their-perks-239772/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has approved a bill that will slash benefits given to former President, speaker Jagath  Wickramaratne said.
+
+“The Supreme Court has determined that no provision of the bills is inconsistent with the constitution,” the speaker told parliament.
+
+Court has rejected all the petitions against the bill, he said.
+
+Sri Lanka’s new administration promised to reduce the priviledges given to ex-Presidents.
+
+◼️
+
+[Data](articles/502f3255.json)
+
+[Extended Data](ext_articles/502f3255.ext.json)
+
+---
+
+### Sri Lanka needs thinkers who question, create, and innovate – PM Harini
+
+*2025-09-09 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112309/sri-lanka-needs-thinkers-who-question-create-and-innovate-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya emphasized the importance of nurturing a new generation equipped with creativity, curiosity, and critical thinking, stressing that the Sri Lanka’s future depends on individuals who can question existing knowledge, think differently, and use innovation to address global challenges.
+
+She made these comments during the launch of the national programme to introduce 100 new ‘Young Inventor Clubs’ into the school system, organized by the Ministry of Science and Technology, which was held on Monday (8) at the Auditorium of the Faculty of Medicine, University of Colombo, under the patronage of Prime Minister Dr. Harini Amarasuriya and Minister of Science and Technology Prof. Chishantha Abeysena.
+
+At this event, the official commencement of establishing the School Young Inventor Clubs was symbolically marked by presenting Innovation Tokens to nine schools representing all provinces of the country by the Prime Minister, the PM’s Office said.
+
+...
+
+[Data](articles/44517f4a.json)
+
+[Extended Data](ext_articles/44517f4a.ext.json)
+
+---
+
+### Asian Bowl 2025 - Cricket Series begins today!
+
+*2025-09-09 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224591) · `ta`
+
+The Asian Cup Cricket Council (Asian Bowl) has announced that the Asian Bowl Twenty20 Cricket Tournament will begin today (September 09).
+
+In this Asian Cup Tournament, eight teams are competing under two groups.
+
+At the same time, the team is also in Afghanistan, Bangladesh and Hong Kong.
+
+India, Pakistan, Oman and the United Arab Emirates team are contesting under "A".
+
+◼️
+
+[Data](articles/7dd92d1c.json)
+
+[Extended Data](ext_articles/7dd92d1c.ext.json)
+
+---
+
+### Parliamentary Council begins
+
+*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214347) · `si`
+
+◼️
+
+[Data](articles/37a5f93d.json)
+
+[Extended Data](ext_articles/37a5f93d.ext.json)
 
 ---

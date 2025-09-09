@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 04:55:35**
+As of **2025-09-09 08:25:05**
 
 ## Newspaper Stats
 
-*Scraped **74,859** Articles*
+*Scraped **74,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,277 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 763
-economynextcom | 4,537
-islandlk | 4,599
+economynextcom | 4,538
+islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,244
-adaderanalk | 9,585
-tamilmirrorlk | 11,148
+adalk | 7,245
+adaderanalk | 9,588
+tamilmirrorlk | 11,152
 virakesarilk | 12,233
-adaderanasinhalalk | 13,037
+adaderanasinhalalk | 13,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,278 (85.9%) of 74,859 articles have been extended.
+64,370 (86.0%) of 74,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
+
+### அபிவிருத்தி உத்தியோகத்தர்கள் ஆர்ப்பாட்டம்
+
+*2025-09-09 07:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-உத்தியோகத்தர்கள்-ஆர்ப்பாட்டம்/175-364240) · `ta`
+
+இந்தப் ஆர்ப்பாட்டம் யாழ். மாவட்டச் செயலகம் மற்றும் வடக்கு மாகாண ஆளுநர் அலுவலகம் முன்பாக நேற்று (08) இடம்பெற்றது. (a)
+
+◼️
+
+[Data](articles/ea5b68e4.json)
+
+---
+
+### ආසියානු කුසලානය අදින් ඇරඹෙයි
+
+*2025-09-09 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214345) · `si`
+
+ආසියානු කුසලාන 20යි විස්ස ක්‍රිකට් තරගාවලිය අදින් (09) ආරම්භ වේ.
+
+තරගාවලියේ පළමු තරගය ලෙස ඇෆ්ගනිස්තාන කණ්ඩායම සහ හොංකොං කණ්ඩායම අතර තරගය අබුඩාබිහි දී අද පැවැත්වේ.
+
+මෙම තරගාවලියේ දී කණ්ඩායම් 8ක් කාණ්ඩ දෙකක් යටතේ තරග වැදීමට නියමිතය.
+
+ශ්‍රී ලංකා කණ්ඩායම බී කාණ්ඩය යටතේ තරග වදින අතර ඇෆ්ගනිස්තානය, බංග්ලාදේශය සහ හොංකොං එම කාණ්ඩයේ සෙසු කණ්ඩායම් වේ.
+
+"ඒ" කාණ්ඩය යටතේ ඉන්දියාව, පාකිස්තානය, ඕමානය සහ එක්සත් අරාබි එමීර් රාජ්‍යය යන කණ්ඩායම් තරග වැදීමට නියමිතය.
+
+◼️
+
+[Data](articles/8a141066.json)
+
+---
+
+### ශ්‍රී ලංකාවේ මානව හිමිකම් ගැන එක්සත් රාජධානියෙන් මානව හිමිකම් සමුළුවට ප්‍රකාශයක්
+
+*2025-09-09 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214344) · `si`
+
+ශ්‍රී ලංකාවේ මානව හිමිකම් තත්ත්වය පිළිබඳව එක්සත් රාජධානිය විසින් එක්සත් ජාතීන්ගේ මානව හිමිකම් සමුළුවේ 60 වැනි සැසිවාරයට ප්‍රකාශයක් නිකුත් කර තිබේ.
+
+එක්සත් රාජධානියේ මානව හිමිකම් තානාපති එලිනෝර් සැන්ඩර්ස් මහත්මිය විසින් අදාළ ප්‍රකාශය ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමසාරිවරයාගේ ශ්‍රී ලංකා සංචාරය පිළිබදව සහ ඔහුගේ වාර්තාව පිළිබඳව එහිදී සිය ස්තූතිය පළකර ඇත.
+
+ශ්‍රී ලංකාවේ මෑතක දී හමුවූ සමූහ මිනීවලවල් සම්බන්ධයෙන් විමර්ශන සිදුකිරීම ඉතා වැදගත් වන අතර එය ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව සිදුකළ යුතු බව එක්සත් රාජධානිය පෙන්වා දෙයි.
+
+ත්‍රස්තවාදය වැළැක්වීමේ පනත අහෝසි කිරීමට කටයුතු නොකිරීම මූලික නිදහස සීමා කිරීම සඳහා නීතී අඛණ්ඩව භාවිතා කිරීම පිළිබඳ කනස්සල්ල පළකරන බව ද අදාළ ප්‍රකාශය මගින් ඔහුන් පෙන්වා දී තිබේ.
+
+ගැටුම් ආශ්‍රිත ලිංගික ප්‍රචණ්ඩත්වය පිළිබඳව එක්සත් ජාතීන්ගේ මානව හිමිකම් කාර්යාලය සිදුකරන වැඩපිළිවෙළ දිරිමත් කරන අතර අදාළ ගැටලුව ප්‍රමුඛතාවයක් ලෙස සලකා විසදා ගැනීමේ අවශ්‍යතාව අවධාරණය කරන බව ද එක්සත් රාජධානිය පවසයි.
+
+...
+
+[Data](articles/1844ac19.json)
+
+---
+
+### Kelani Mark Train Services Victim
+
+*2025-09-09 07:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனிவெளி-மார்க்க-ரயில்-சேவைகள்-பாதிப்பு/175-364239) · `ta`
+
+A train traveling from Colombo to Avissawella has been derailed in the area between Bhuwakpitiya and Avissawel.. (A)
+
+◼️
+
+[Data](articles/0cc0b2f2.json)
+
+[Extended Data](ext_articles/0cc0b2f2.ext.json)
+
+---
+
+### The report in two days of unsuspecting chemicals into ice raw materials that were caught by three places
+
+*2025-09-09 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214343) · `si`
+
+The Danarakara Drugs Control Board says that the report on the chemicals that will be used to produce ice is used in several areas in several areas.
+
+The Chairman of the Ministry Dr. Indika Wanninayake said that the samples of the respective material had already begun.
+
+Recently, the criminal groups were arrested in Indonesia in Indonesia, a large quantity of transfers were discovered to be used to produce ice hidden in the Middeniya area.
+
+A large haul of such materials were found in the Netolpitiya area in Tangalle yesterday and was found yesterday (08).
+
+The samples of these substances have already been obtained and the Chairman of the Dangered Drugs Board of Governance Dr. Indika Wannanayake said that the investigations are expected to be completed expeditiously.
+
+◼️
+
+[Data](articles/9601dab9.json)
+
+[Extended Data](ext_articles/9601dab9.ext.json)
+
+---
+
+### Parliament to meet today to 12 am
+
+*2025-09-09 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214342) · `si`
+
+The Parliament's Secretariat said that the Parliament will meet to the 12th today.
+
+Today, Sri Lanka and the United Arab Emirates have to be adopted.
+
+It should be passed with a special majority of the Parliament and the election will be held at 5 pm this afternoon.
+
+The Second Reading Debate will be held tomorrow (10), the Second Reading Debate will be held at the National Audit Amendment Bill (11).
+
+Meanwhile, it is reported that medical Jagath Wickramaratne is announced by medical Jagath Wickramaratne, a speech on the President's Clearance Cancellation Bill today.
+
+It has been proposed to remove the quarters or monthly allowances paid to former presidents or their widows and filed several petitions.
+
+◼️
+
+[Data](articles/b26f208f.json)
+
+[Extended Data](ext_articles/b26f208f.ext.json)
+
+---
+
+### Showers over 100mm
+
+*2025-09-09 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214340) · `si`
+
+In most parts of the island. Showers or thundershowers will occur.
+
+Department of Meteorology announced, mm. Heavy showers can occur around 100.
+
+Showers will occur in the Western Province and in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/3c78885a.json)
+
+[Extended Data](ext_articles/3c78885a.ext.json)
+
+---
+
+### Train services on Kelani Valley Line restricted to Kosgama
+
+*2025-09-09 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112305/train-services-on-kelani-valley-line-restricted-to-kosgama) · `en`
+
+Train services along the Kelani Valley Line have been restricted to the Kosgama Railway Station, the Railway Control Room said.
+
+The decision has been taken due to a derailment in Puwakpitiya in Avissawella, last evening (08).
+
+The Department of Railways stated that a train travelling from Colombo to Avissawella derailed between Puwakpitiya and Avissawella railway stations last evening.
+
+Accordingly, train services on the Kelani Valley Line have been restricted to Kosgama.
+
+◼️
+
+[Data](articles/02604a72.json)
+
+[Extended Data](ext_articles/02604a72.ext.json)
+
+---
+
+### Nepal lifts ban on social media apps after deadly protests
+
+*2025-09-09 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112303/nepal-lifts-ban-on-social-media-apps-after-deadly-protests) · `en`
+
+Nepal’s government has lifted a ban on about two dozen social media platforms after the curb ignited youth-led demonstrations across the country on Monday that saw more than a dozen protesters killed in the capital Kathmandu.
+
+Communications Minister Prithvi Subba Gurung made the announcement after a cabinet meeting following the worst unrest the country has seen in decades.
+
+At least 19 people were killed following a crackdown by the security forces on the protests, which were fueled mainly by anger over corruption. The protests were led by members of Generation Z, the cohort between the ages of 13 and 28.
+
+Popular anger spilled into the streets of the Nepali capital after the government moved last week to block social media platforms including Facebook, WhatsApp and YouTube, in a move that was widely criticized by rights groups as a tool for censorship.
+
+The government had claimed the ban was needed to clamp down on fake news and hate speech and accused the companies of failing to register.
+
+...
+
+[Data](articles/44be2dba.json)
+
+[Extended Data](ext_articles/44be2dba.ext.json)
+
+---
+
+### Heavy rainfall expected in parts of the island today
+
+*2025-09-09 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112302/heavy-rainfall-expected-in-parts-of-the-island-today) · `en`
+
+Showers or thundershowers will occur in most parts of the island after 1.00 p.m. today (09), the Department of Meteorology said.
+
+Heavy falls of about 100 mm are likely at some places, the Met. Department added.
+
+A few showers may occur in the Western province and in the Galle and Matara districts.
+
+Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/6158c449.json)
+
+[Extended Data](ext_articles/6158c449.ext.json)
+
+---
+
+### Sri Lanka calls investors to double refinery capacity as BOT project
+
+*2025-09-09 05:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-investors-to-double-refinery-capacity-as-bot-project-239768/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation has called expression of interest from private investors to expand its 50,000 barrels per day refinery into 100,000 barrels or to set up an entirely new one in the same premises.
+
+“This Development and Expansion Project represents a strategic opportunity to establish a long-term partnership within Sri Lanka’s energy sector,” the EOI document said.
+
+“It will help strengthen the country’s energy security, reduce dependence on imported refined petroleum products, and enhance overall economic resilience.
+
+“Your organization’s proven expertise in refinery development, infrastructure investment, and energy sector operations positions you as a potential key partner in this significant national initiative.”
+
+The investor will be able to use existing facilities at CPC’s Sapugaskande refinery complex and associated infrastructure.
+
+These include an offshore point buoy mooring system where a 140,000 dead weight tonne tanker could be berthed.
+
+...
+
+[Data](articles/1ab1b96f.json)
+
+[Extended Data](ext_articles/1ab1b96f.ext.json)
+
+---
+
+### General object in fuel tank: driver arrested
+
+*2025-09-09 04:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-தாங்கியில்-பொதைப்-பொருள்-சாரதி-கைது/175-364238) · `ta`
+
+Yall. Chavakachcheri Police Division of Chavakachcheri Police Division
+
+The driver was seized from the driver of the driver and the driver of the driver, who had been arrested and produced for medical examination, when the driver was arrested and produced for medical examination when the driver was seized by the driver when the driver was searched at the Sankupitiya Bridge on the Mannar Road, Jaffna.
+
+◼️
+
+[Data](articles/3d5b87cf.json)
+
+[Extended Data](ext_articles/3d5b87cf.ext.json)
+
+---
+
+### Drugs in fuel tank: driver arrested
+
+*2025-09-09 04:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-தாங்கியில்-போதைப்-பொருள்-சாரதி-கைது/175-364238) · `ta`
+
+Yall. சாவகச்சேரி பொலிஸ் பிரிவுக்குற்பட்ட சங்குபிட்டி பகுதியல்  சாவகச்சேரி பொலிஸார் நேற்று (08) மதியம் மேற்கொண்ட வீதிச்சோதனை நடவடிக்கையின் போது ஜஸ் போதைப் பொருளுடன் எரிபொருள் தாங்கி சாரதி கைது செய்யப்பட்டுள்ளார்
+
+The driver was seized from the driver of the driver and the driver of the driver, who had been arrested and produced for medical examination, when the driver was arrested and produced for medical examination when the driver was arrested and used for medical examination.
+
+◼️
+
+[Data](articles/76c04b9f.json)
+
+[Extended Data](ext_articles/76c04b9f.ext.json)
+
+---
 
 ### Bowzer driver arrested with ice drug
 
@@ -395,6 +647,102 @@ At the same time, the opposition parties are urging not only the Prime Minister 
 ---
 
 ### 2025-09-08 (Monday)
+
+### Tribute to Nanda Malini
+
+*2025-09-08 23:55:00* · [`islandlk`](http://island.lk/tribute-to-nanda-malini/) · `en`
+
+Several well-known artistes rallied around the legendary T. M. Jayaratne and Deepika Priyadarshani to pay tribute to the very famous Nanda Malini, and it was done by way of a song, specially composed for her 82nd birthday, which was on Saturday, 23rd August.
+
+This historic tribute, titled ‘Maliniye Nanda,’ was sung by T. M. Jayaratne, Deepika Priyadarshani, Rajiv Sebastian, Shyami Fonseka, Raymond Fonseka, Priya Peiris, Walter Fernando, Corrine Almeida, Athula Adhikari, Sewwandi Ranatunga, Piyal Perera, Sohan Weerasinghe, Damian Wikkramatillake and Mario Ananda.
+
+Rajiv Sebastian was responsible for the lyrics, melody, music arrangements, concept and the storyboard.
+
+He and his band, Rajiv & The Clan, were also involved in providing the music for the artistes to do the needful on ‘Maliniye Nanda’.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/13d78343.json)
+
+[Extended Data](ext_articles/13d78343.ext.json)
+
+---
+
+### DFCC Bank and WWCT partner to advance biodiversity and landscape conservation through leopard protection
+
+*2025-09-08 23:24:00* · [`islandlk`](http://island.lk/dfcc-bank-and-wwct-partner-to-advance-biodiversity-and-landscape-conservation-through-leopard-protection/) · `en`
+
+DFCC Bank has announced a strategic three-year partnership with the Wilderness and Wildlife Conservation Trust (WWCT) to support a science-based initiative aimed at conserving Sri Lanka’s biodiversity by focusing on the protection of the island’s apex predator, the threatened Sri Lankan leopard (Panthera pardus kotiya).
+
+The partnership is anchored in the understanding that the leopard is an umbrella species. Protecting it also safeguards entire ecosystems and countless other species that share its habitat. By supporting leopard conservation, DFCC Bank and WWCT are making a wider commitment to biodiversity protection, environmental resilience, and sustainable coexistence between people and wildlife.
+
+...
+
+[Data](articles/41075860.json)
+
+[Extended Data](ext_articles/41075860.ext.json)
+
+---
+
+### Browns celebrates 150 years with prestigious tech award for game-changing E-Warranty solution
+
+*2025-09-08 23:23:00* · [`islandlk`](http://island.lk/browns-celebrates-150-years-with-prestigious-tech-award-for-game-changing-e-warranty-solution/) · `en`
+
+In keeping with its 150 anniversary celebrations, Brown & Company added another accolade to its long milestones of achievements in being recognised for yet another innovation in digitalisation at the Asian Technology Excellence Awards 2024. The Sri Lanka Technology Excellence Award for Enterprise Software – Automotive & Transport Equipment was awarded to Browns IT, for its innovative ground-breaking solution, the Browns E-Care Battery warranty activation.
+
+Celebrating companies at the forefront of change, while highlighting entities whose technological advancements are reshaping industries across the Asian region, the programme recognises bold initiatives that connect digital disruption with meaningful business transformation.
+
+...
+
+[Data](articles/d7a19fb0.json)
+
+[Extended Data](ext_articles/d7a19fb0.ext.json)
+
+---
+
+### Damn Fine Coffee announces its exclusive distributorship of Oatly in Sri Lanka
+
+*2025-09-08 23:22:00* · [`islandlk`](http://island.lk/damn-fine-coffee-announces-its-exclusive-distributorship-of-oatly-in-sri-lanka/) · `en`
+
+Damn Fine Coffee is proud to be the official distributor of Oatly in Sri Lanka. This partnership brings one of the world’s most iconic plant-based coffee innovations into the local market, making it easier for cafés, hotels, and households to meet customer preferences with confidence.
+
+“Around the world, Oatly has become the barista’s choice for plant-based milk. By launching Oatly locally, Damn Fine Coffee ensures that Sri Lanka’s coffee culture keeps pace with global trends, helping partners deliver the same world-class experiences travelers and locals expect.” said Yasas Kodituwakku, CEO at Damn Fine Coffee.
+
+“From day one, our aim is simple: make it easy for any café or hotel to serve a perfect cup of coffee. Oatly Barista Edition is built for espresso service with its great foam, reliable pours, and it helps our partners serve more guests who prefer or need a dairy alternative.”
+
+...
+
+[Data](articles/0632a619.json)
+
+[Extended Data](ext_articles/0632a619.ext.json)
+
+---
+
+### Dhammika Perera buys 39 percent stake in Laugfs Group, boosting its financial muscle
+
+*2025-09-08 23:19:00* · [`islandlk`](http://island.lk/dhammika-perera-buys-39-percent-stake-in-laugfs-group-boosting-its-financial-muscle/) · `en`
+
+The CSE was notably active yesterday when businessman Dhammika Perera bought into Sri Lanka’s diversified Laugfs Group, taking a 39 percent stake of its holding company, as founder director and Deputy Chairman Thilak de Silva exited, informed sources said.
+
+Laugfs has interests in liquefied petroleum gas, shipping, renewable power, fuel distribution and retailing and manufacturing, among others.
+
+Laughs sources said that huge financial muscle was needed to rescue the company. “Someone had to exit to pave the way for an investor. It was a difficult decision. But I am happy the brand will survive, company sources said. Laugfs Gas and Laugfs Power are listed companies.
+
+Amid those developments the market pulled back with both indices moving downward.
+
+All Share Price Index went down by 74.56 points while S and P SL20 declined by 27.90 points. Turnover stood at Rs 6.17 billion with 10 crossings.
+
+...
+
+[Data](articles/37039245.json)
+
+[Extended Data](ext_articles/37039245.ext.json)
+
+---
 
 ### French govt collapses after Prime Minister Bayrou loses confidence vote
 
@@ -1228,6 +1576,26 @@ The incident has been reported so far, including the shooting of the shooting ha
 
 ---
 
+### හරක් කටා නඩු විභාගය අවසන් වන තෙක් රඳවා ගනියි
+
+*2025-09-08 17:26:58* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටා-නඩු-විභාගය-අවසන්-වන-තෙක්-රඳවා-ගනියි/11-418362) · `si`
+
+ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු බව කියන නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තා ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ ආරක්ෂක ලේකම්වරයා විසින් නිකුත් කළ රැඳවුම් නියෝගයකට අනුව නඩු විභාගය අවසන් වන තෙක් රඳවා ගැනීමට තීරණය කර ඇතැයි නීතිපතිවරයා අද (08) කොළඹ මහාධිකරණයට දැනුම් දුන්නේය.
+
+මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ සජිත් බණ්ඩාර මහතා මෙම දැනුම්දීම සිදුකළේය.
+
+මෙම සැකකරුගේ ආරක්ෂාව සැලකිල්ලට ගෙන ඔහු රැඳවුම් භාරයේ රඳවා ගැනීමට ආරක්ෂක ලේකම්වරයා තීරණය කර ඇති බවත් රජයේ නීතිඥවරයා අද නඩුව කැඳවූ අවස්ථාවේදී අධිකරණයට දැනුම් දුන්නේය.
+
+එම දැනුම්දීම සම්බන්ධයෙන් විත්තිකරු වෙනුවෙන් පෙනී සිටි නීතිඥ ජාලිය සමරසිංහ මහතා දැඩි විරෝධය පළකර සිටියේය.
+
+සිය සේවාදායකයා වසර දෙකකට ආසන්න කාලයක් රැඳවුම් භාරයේ සිටි බව පෙන්වා දුන් නීතිඥවරයා ඔහු රක්ෂිත බන්ධනාගාර ගත කිරීමට නියමිතව තිබියදී යළි නඩු අවසන් වන තෙක් රැඳවුම් නියෝග මත රඳවා ගැනීමට පියවර ගැනීම යුක්ති සහගත නොවන බවත් නීතිඥවරයා අධිකරණයට පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/5b585b38.json)
+
+---
+
 ### Minister Vijitha Geneva says in the Human Rights Council
 
 *2025-09-08 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214324) · `si`
@@ -1256,7 +1624,13 @@ External Affairs Minister Vijitha Herath, representing the Sri Lankan government
 
 *2025-09-08 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112290/appeals-for-re-scrutiny-of-2025-scholarship-exam-results-accepted-from-tomorrow) · `en`
 
-The process for submitting appeals for the re-scrutiny of the 2024 Grade 5 Scholarship Examination results will begin tomorrow (09).
+The process for submitting appeals for the re-scrutiny of the 2025 Grade 5 Scholarship Examination results will begin tomorrow (09).
+
+According to a communique issued by the Commissioner General of Examinations, Indika Kumari Liyanage, applications can be submitted online for the re-scrutiny of answer scripts from tomorrow to September 22, 2025.
+
+In order to submit applications, the principal of the candidate’s school must log in to the SCHOOL LOGIN section of the official website of the Department by using the username and password provided to the school.
+
+The Commissioner General emphasizes that only school principals can submit appeals on behalf of candidates.
 
 ◼️
 
@@ -1611,405 +1985,5 @@ The Minister therefore requested the UN Human Rights Council to acknowledge the 
 [Data](articles/098690d4.json)
 
 [Extended Data](ext_articles/098690d4.ext.json)
-
----
-
-### Sri Lanka committed to accountability process only through domestic mechanisms: FM tell UNHRC
-
-*2025-09-08 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112288/sri-lanka-committed-to-accountability-process-only-through-domestic-mechanisms-fm-tell-unhrc) · `en`
-
-Minister of Foreign Affairs Vijitha Herath says Sri Lanka rejects any external interference or mechanisms to investigate alleged human rights violations that occurred during the conflict with the LTTE.
-
-Responding to the report presented on Sri Lanka by the United Nations High Commissioner for Human Rights Volker at the 60th session of the UN Human Rights Council in Genève today (08), Minister Vijitha Herath on behalf of the government said Sri Lanka is committed to the accountability process only through a domestic mechanism.
-
-Foreign Minister Herath said since coming into power, the present National People’s Power (NPP)-led government has taken a number of steps to ensure the safety and prosperity of all Sri Lankans.
-
-The Minister therefore requested the UN Human Rights Council to acknowledge the progress made by the new government and sought additional time for the administration to deliver its promises to all Sri Lankans including on the accountability mechanisms.
-
-...
-
-[Data](articles/e0d814ac.json)
-
-[Extended Data](ext_articles/e0d814ac.ext.json)
-
----
-
-### Sri Lanka committed to accountability process only through domestic mechanisms: FM tell UNHRC
-
-*2025-09-08 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112288/sri-lanka-committed-to-accountability-process-only-through-domestic-process-fm-tell-human-rights-council-) · `en`
-
-Minister of Foreign Affairs Vijitha Herath says Sri Lanka rejects any external interference or mechanisms to investigate alleged human rights violation during the conflict with the LTTE.
-
-Responding to the report presented on Sri Lanka by the United Nations High Commissioner for Human Rights Volker at the 60th session of the UN Human Rights Council in Genève, Minister Vijitha Herath on behalf of the government said Sri Lanka is committed to the accountability process only through a domestic mechanism.
-
-The Minister also requested the UN Human Rights Council to acknowledge the progress made by the new government and sought additional time for the administration to deliver its promises including on the accountability mechanisms.
-
-Earlier this afternoon, UN High Commissioner for Human Rights Volker Türk presented the report of the Office of the High Commissioner for Human Rights to the Human Rights Council.
-
-...
-
-[Data](articles/f7befe08.json)
-
-[Extended Data](ext_articles/f7befe08.ext.json)
-
----
-
-### 86 dental training for 86 internationally training
-
-*2025-09-08 16:29:37* · [`adalk`](https://www.ada.lk/breaking_news/දන්ත-ශල්‍ය-වෛද්‍ය-උපාධිධාරීන්-86-ක්-සීමාවාසික-පුහුණුවට/11-418355) · `si`
-
-86 dental graduates were appointed to the recruitment of 86 dental training.
-
-The new internship surgical appointment letters were presented with the Ministry of Health and Mass Media.
-
-Dental Surgeons graduates will be able to provide training to a specialist in the dental industry, expanding education in the dental field, expanding education in the dental field, increase the internship to increase education and increase the clinical capacity.
-
-Health and Mass Media Media Dr. Nalinda Jayatissa said that new plans have been prepared to generate the health of the people of Sri Lanka.
-
-Dental surgery has included internships from 2019 and that steps will be taken to work in front of the graduates who have completed their internship training.
-
-The Minister pointed out that the main purpose of the Ministry of Health at the moment, the main objective of the Ministry of Health has increased the performers of various health indicators, but the current world criteria should be stopped.
-
-...
-
-[Data](articles/865a38ef.json)
-
-[Extended Data](ext_articles/865a38ef.ext.json)
-
----
-
-### UN Rights Chief presents report on Sri Lanka at Human Rights Council
-
-*2025-09-08 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112287/un-rights-chief-presents-report-on-sri-lanka-at-human-rights-council) · `en`
-
-United Nations High Commissioner for Human Rights Volker Türk has presented the report of the Office of the High Commissioner for Human Rights to the 60th session of the UN Human Rights Council.
-
-Through the report, Human Rights Commissioner Volker Türk urged the Sri Lankan government for the establishment of a dedicated judicial mechanism, including an independent special counsel, to handle cases involving alleged human rights violations and alleged breaches of international humanitarian law.
-
-Other recommendations include the release of military-held land in the north and east, repeal of the Prevention of Terrorism Act (PTA), and the release of long-term PTA detainees.
-
-The report also recommended the comprehensive security sector reform and broader constitutional, legal and institutional changes to meet international human rights obligations.
-
-The report follows the High Commissioner’s recent visit to Sri Lanka, where he met officials, civil society, political parties and religious leaders.
-
-◼️
-
-[Data](articles/479993a1.json)
-
-[Extended Data](ext_articles/479993a1.ext.json)
-
----
-
-### Gold prices in Sri Lanka surge by around Rs. 5,000 today
-
-*2025-09-08 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112285/gold-prices-in-sri-lanka-surge-by-around-rs-5000-today) · `en`
-
-Gold prices in Sri Lanka have increased by approximately Rs. 5,000 today (08).
-
-Accordingly, the price of a 22-carat gold sovereign in the Pettah gold market has risen to Rs. 271,000.
-
-Last Saturday, the price stood at Rs. 266,400, according to market data.
-
-Meanwhile, the price of a 24-carat gold sovereign, which was Rs. 288,000 on Saturday, has increased to Rs. 293,000, traders stated.
-
-◼️
-
-[Data](articles/02cfd6f4.json)
-
-[Extended Data](ext_articles/02cfd6f4.ext.json)
-
----
-
-### Complaints at Manambergay's Sister Commission
-
-*2025-09-08 16:18:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனம்பேரிகேயின்-சகோதரி-ஆணைக்குழுவில்-முறைப்பாடு/175-364219) · `ta`
-
-Her sister has lodged a complaint with the Human Rights Commission regarding the arrest of former Sri Lanka PA's former Pradeshiya Sabha member Manamberige Pali Senadheera in the wake of the incident in which raw materials for ice drugs were discovered.
-
-Former Pradeshiya Sabha member Pili Senadheera was arrested on Saturday afternoon in connection with the burial of about 50,000 kilograms of chemicals in a land in the Mitheniya, Thalawa and Kariyaditha area.
-
-After lodging a complaint with the Human Rights Commission, he said that the police and the Special Task Force (STF) were arbitrarily in the arrest of his brother.. He said this was political revenge.
-
-He also accused the authorities of the arrest of his brother and caused great difficulty with his family members.
-
-He said that his children's mental health was severely affected by the incident and that the mentally ill refused to go to school.
-
-◼️
-
-[Data](articles/b5ea4dbc.json)
-
-[Extended Data](ext_articles/b5ea4dbc.ext.json)
-
----
-
-### Harak katta telephone number
-
-*2025-09-08 16:10:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்-கட்டா-வுக்கு-வழக்கு-முடியும்-வரை-தடுப்பு-காவல்/175-364218) · `ta`
-
-In the case of the Criminal Investigation Division (CID), the defendant of the Criminal Investigation Division (CID) has decided to detain the defendant in the Terrorist Investigation Bureau of the Terrorist Investigation Bureau until the case is investigated by a powerful drug trafficker who is a powerful drug trafficker, who is a defendant. Bring.
-
-Senior State Prosecutor Sajith Bandara added that the Defense Secretary has taken this decision on the safety of the defendant Harak Kata's, based on the rules of the Prevention of Terrorism Act.
-
-When the case came up for hearing, the defendant Harak Kata was linked to the court through the technology, while the other four defendants were produced in court by prison authorities.
-
-...
-
-[Data](articles/b18d03a2.json)
-
-[Extended Data](ext_articles/b18d03a2.ext.json)
-
----
-
-### Tourist arrivals jumps 16 lakhs
-
-*2025-09-08 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214322) · `si`
-
-The total number of tourists arrived in Sri Lanka as far in 2025 has exceeded the limits of the 16 lakh limit.
-
-According to the latest statistics issued by the Sri Lanka Tourism Development Authority, 1,604,018 foreign tourists arrived in Sri Lanka yesterday (07).
-
-Meanwhile, 37,495 tourists had arrived in the first seven days of September.
-
-In September, 10,171 tourists arrived in India and 27.1%.
-
-Also, 3,033 from the United Kingdom, 2,426 from Germany, 1,806 from Australia and 1,806 Chinese have arrived in Sri Lanka this month.
-
-In 2025, 335,766 persons have come from India to Sri Lanka.
-
-The Sri Lanka Tourism Development Authority stated that 154,174 tourists from the UK have arrived in the UK in 2025, and 119,592 tourists from Russia had also reached Sri Lanka.
-
-◼️
-
-[Data](articles/2b18c098.json)
-
-[Extended Data](ext_articles/2b18c098.ext.json)
-
----
-
-### Ex-State Minister Prasanna Ranaweera further remanded
-
-*2025-09-08 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112284/ex-state-minister-prasanna-ranaweera-further-remanded) · `en`
-
-Former State Minister Prasanna Ranaweera, who was arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents, has been further remanded.
-
-When the case was heard before Mahara Magistrate Janitha Perera, an order was issued to further remand Prasanna Ranaweera until September 22, Ada Derana reporter said.
-
-As the case was heard via Skype, former State Minister Prasanna Ranaweera was not physically produced in court today.
-
-Ranaweera and four others were arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents.
-
-◼️
-
-[Data](articles/59e6060b.json)
-
-[Extended Data](ext_articles/59e6060b.ext.json)
-
----
-
-### Former State Minister Prasanna Ranaweera remanded
-
-*2025-09-08 15:52:37* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ප්‍රසන්න-රණවීර-යළි-රිමාන්ඩ්/11-418354) · `si`
-
-Former State Minister Prasanna Ranaweera has been remanded until September 22.
-
-The order has been issued after being produced before the Mahara Magistrate's Court today (June 8).
-
-◼️
-
-[Data](articles/4910952d.json)
-
-[Extended Data](ext_articles/4910952d.ext.json)
-
----
-
-### Sri Lanka stocks close down, Laugfs top gainer
-
-*2025-09-08 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-laugfs-top-gainer-239718/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The ASPI was down 0.41 percent, or 86.15 points, at 20,905.83; and the S&P SL20 was down 0.82 percent, or 49.24 points, at 5,955.36.
-
-Laugfs Gas voting stock was among the top contributors to the ASPI, after news that its deputy chairman sold his shares in the parent company, Laugfs Holdings, to businessman Dhammika Perera, and quit the boards of Laugfs Gas and Laugfs Power.
-
-Laugfs Gas voting stock closed up 26.30 rupees at 66.50; gaining 65.42 percent in value. Non-voting stock closed up 13.60 rupees at 37.90, gaining 55.97 percent.
-
-Laugfs Power voting stock closed up 63.22 percent, or 5.50 rupees at 14.20. Non-voting stock closed up 5.50 rupees at 14.20, gaining 63.22 percent.
-
-Other top contributors to the ASPI were Windforce (up 3.80 rupees at 30.50), C T Holdings (up 12.50 rupees at 719.75), Hayleys (up 2.75 rupees at 177.25), and Carson Cumberbatch (up 26 rupees at 815.50).
-
-...
-
-[Data](articles/e10c1cc7.json)
-
-[Extended Data](ext_articles/e10c1cc7.ext.json)
-
----
-
-### Tourist arrivals to Sri Lanka surpass 1.6 million in 2025
-
-*2025-09-08 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112283/tourist-arrivals-to-sri-lanka-surpass-16-million-in-2025) · `en`
-
-The number of tourist arrivals to Sri Lanka so far in 2025 has surpassed 1.6 million.
-
-According to latest figures released by the Sri Lanka Tourism Development Authority (SLTDA), as of 7 September 2025, a total of 1,604,018 foreign nationals have arrived in the country.
-
-Meanwhile, a total of 37,495 tourists have arrived in the country in the first seven days of September.
-
-A total of 10,171 tourists arrived from India in September which accounts to 27.1%. Furthermore, 3,033 persons from the United Kingdom, 2,426 from Germany, 1,806 from Australia and 1,803 Chinese nationals have also visited Sri Lanka this month.
-
-Meanwhile, among the number of tourists arrived in Sri Lanka in 2025, 335,766 individuals are from India.
-
-Furthermore, 154,174 individuals from the UK and 119,592 persons from Russia also visited Sri Lanka in 2025, the SLTDA noted.
-
-◼️
-
-[Data](articles/6b5da32f.json)
-
-[Extended Data](ext_articles/6b5da32f.ext.json)
-
----
-
-### Prasanna Ranaweera remanded
-
-*2025-09-08 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214321) · `si`
-
-Former State Minister Prasanna Ranaweera has been remanded again until September 22.
-
-It was when the case was taken up and the case was taken into custody to a government owned land in Kiribathgoda.
-
-The order has been issued after being produced before the Mahara Magistrate's Court today (08).
-
-◼️
-
-[Data](articles/659f905d.json)
-
-[Extended Data](ext_articles/659f905d.ext.json)
-
----
-
-### Gold price in Sri Lanka toppled three times in today's day
-
-*2025-09-08 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214320) · `si`
-
-The price of gold has increased by Rs. 5,000 today (08).
-
-Accordingly, the price of 22 carrots in the Gold Poorest of the Gold Pound in the Gold Poorest of Rs.. Up to 271,000.
-
-Meanwhile, Saturday is Rs. 288,000 'carrot 24 "gold pound for Rs.. 293,000 has risen to 293,000, Colombo Hettivesi sources said.
-
-The highlight of three times in the Gold Market in Colombo, Colombo will be increased.
-
-◼️
-
-[Data](articles/dd1db8a1.json)
-
-[Extended Data](ext_articles/dd1db8a1.ext.json)
-
----
-
-### Sri Lanka - Pakistan - Afghan Triangular battle
-
-*2025-09-08 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214319) · `si`
-
-Sri Lanka, Afghanistan and Pakistan, a triangular T20 cricket tournament will be held in November.
-
-The tournament is scheduled to begin in Pakistan on November 17.
-
-However, it is evidenced by the Bilateral Twenty20 tournament to be held between Sri Lanka and Pakistan due to this tournament.
-
-The Sri Lanka-Afghanistan match will be held on November 19th November 19th of November 19th.
-
-The Sri Lanka and Afghanistan will be able to compete on the 22nd on the 22nd and Pakistan and Sri Lanka will match the 27th.
-
-At the end of the preliminary round, the two teams taking the lead in the bonus mark will be eligible for the finals that will be held on November 29.
-
-The first matches will be held at Ravalland and plans to conduct other matches.
-
-◼️
-
-[Data](articles/381b1de8.json)
-
-[Extended Data](ext_articles/381b1de8.ext.json)
-
----
-
-### Wealthy ancient Roman’s tomb discovered in Albania
-
-*2025-09-08 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112282/wealthy-ancient-romans-tomb-discovered-in-albania) · `en`
-
-Archaeologists in Albania have discovered a large Roman burial chamber dating from the third to fourth century AD, the first of its kind found in the Balkan country that was once part of the Roman Empire.
-
-Tipped off by locals who had noticed some unusual stones on a plateau near the North Macedonia border, staff from the Institute of Archaeology began excavating in early August and found the underground structure whose large limestone slabs were inscribed with Greek lettering.
-
-“The inscription tells us that the person buried here was named Gelliano, a name typical of the Roman period. We are uncertain about the identity of the second individual, but it is likely a family member,” said Erikson Nikolli, the project’s lead archaeologist.
-
-The tomb, which measures nine metres by six metres (29 ft by 19 ft), is the first discovery in Albania of what the experts believe to be a wealthy person’s resting place, grander than other burial sites found in the area.
-
-...
-
-[Data](articles/d6b203a9.json)
-
-[Extended Data](ext_articles/d6b203a9.ext.json)
-
----
-
-### Asian Trophy begins tomorrow
-
-*2025-09-08 15:23:20* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානය-හෙටින්-ඇරඹේ/9-418353) · `si`
-
-The Asia Twenty20 cricket tournament will commence tomorrow (09).
-
-Accordingly, India, Oman, Pakistan and the United Arab Emirates will compete in the group, and Afghanistan, Bangladesh, and Hong Kong and Sri Lanka are to contest under the 'B' team.
-
-The first match of the tournament is due to be competitive as the first match of the tournament.
-
-◼️
-
-[Data](articles/49c9e458.json)
-
-[Extended Data](ext_articles/49c9e458.ext.json)
-
----
-
-### Aung San Suu Ki's health worry: Son Information
-
-*2025-09-08 15:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூ-கியின்-உடல்நிலை-கவலைக்கிடம்-மகன்-தகவல்/50-364214) · `ta`
-
-His son Kim Aris has said that the health of former Myanmar ruler in the military custody is a worrisome.
-
-Aung San Suu Ki, a democratically elected ruler in Myanmar, has been imprisoned by the military rulers of the country since 2021. Corruption and election fraud charges have been imposed on him. For this, the court has sentenced him to 27 years in prison.
-
-In this case, his son Kim Aris has said that his mother Soo Ki is suffering from heart attack and is a serious condition.. Reuters news agency said, “My mother is 80 years old. A month ago, he demanding a cardiologist to see. There is no information on whether his request was accepted.
-
-...
-
-[Data](articles/ac50b0ce.json)
-
-[Extended Data](ext_articles/ac50b0ce.ext.json)
-
----
-
-### Five killed in Jerusalem shooting attack, paramedics say
-
-*2025-09-08 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112281/five-killed-in-jerusalem-shooting-attack-paramedics-say) · `en`
-
-Five people have been killed and seven seriously wounded in a shooting attack by Palestinian gunmen in Jerusalem, paramedics and police say.
-
-Israel’s Magen David Adom ambulance service identified the dead as three men in their 30s, one woman in her 50s, and one man in his 50s. Nine people with gunshot wounds were taken to local hospitals along with three others injured by broken glass.
-
-Israeli police said two “terrorists” opened fire towards a bus stop at Ramot Junction, on the city’s northern outskirts. A security officer and a civilian returned fire, and “neutralised” the attackers, it added.
-
-There was no immediate claim from any armed groups, although Hamas praised the attack.
-
-The police said a large number of officers were securing the area, and that bomb disposal units were ensuring that it was safe while forensic teams gathered evidence.
-
-The Israeli military said soldiers had also been deployed to the area and were searching for suspects in co-operation with the police.
-
-...
-
-[Data](articles/a88967fe.json)
-
-[Extended Data](ext_articles/a88967fe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 16:54:01**
+As of **2025-09-09 17:20:03**
 
 ## Newspaper Stats
 
-*Scraped **75,005** Articles*
+*Scraped **75,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,266
+adalk | 7,267
 adaderanalk | 9,610
 tamilmirrorlk | 11,180
 virakesarilk | 12,252
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,981 (86.6%) of 75,005 articles have been extended.
+65,000 (86.7%) of 75,006 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -879,6 +879,26 @@ But Murali, who was heartbroken by the video of the villagers that hit him on so
 [Data](articles/07db117b.json)
 
 [Extended Data](ext_articles/07db117b.ext.json)
+
+---
+
+### හඳුනානොගත් රෝයකින් වී වගාව විනාශ වෙයි
+
+*2025-09-09 12:35:03* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-රෝයකින්-වී-වගාව-විනාශ-වෙයි/11-418381) · `si`
+
+අනුරාධපුර මහබුලංකුලම ප්‍රදේශයේ ගොවීන් පවසන්නේ, හඳුනා නොගත් රෝගයක් හේතුවෙන් අක්කර දෙසීයක් පමණ වූ වගාව සම්පූර්ණයෙන්ම විනාශවීමේ අවදානමකට ලක්ව ඇති බවයි.
+
+ගොයම් පූදින මට්ටමට පැමිණි තුරු ඉතා හොඳ තත්ත්වයේ තිබූ අතර, පසුව ගොයම් ගස් සුදු වර්ණයට පත්ව, වී කරල් බොල්වීමේ තත්ත්වයට පත්වී ඇති බවත් ගොවීහු  පෙන්වා දුන්හ.
+
+කීඩෑ හා පුරුක් පනු රෝග හෝ දිලීර රෝගයක් යැයි සිතා විවිධ කෘමිනාශක භාවිතා කළ ද   කිසිදු ප්‍රතිඵලක් නොලැබුණු   බවද ඔවුන් ගොවීහු පැවසූහ.
+
+මහබුලංකුලම වැව යටතේ වගා කළ මහවෙල සහ දංගස්ස ප්‍රදේශවල අක්කර දෙසීයකට වැඩි ප්‍රමාණයක කුඹුරු විනාශ වීමට පටන් ගෙන ඇතැයිද ඔවුන් සඳහන් කළහ.
+
+ඉහත හඳුනා නොගත් රෝගය හේතුවෙන් අක්කරයකින් වී බුසල් විසි පහක්වත් ලබා ගැනීමට නොහැකි තත්ත්වයක් ඇති වීම නිසා රජයෙන් සාධාරණ වන්දි මුදලක් ලබා ගැනීම  සඳහා ඉල්ලීම් කරන බවද ඔවුන් සඳහන් කරති.
+
+◼️
+
+[Data](articles/7726dbe6.json)
 
 ---
 
@@ -1947,17 +1967,5 @@ India, Pakistan, Oman and the United Arab Emirates team are contesting under "A"
 [Data](articles/7dd92d1c.json)
 
 [Extended Data](ext_articles/7dd92d1c.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214347) · `si`
-
-◼️
-
-[Data](articles/37a5f93d.json)
-
-[Extended Data](ext_articles/37a5f93d.ext.json)
 
 ---

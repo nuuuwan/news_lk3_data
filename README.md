@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 12:55:51**
+As of **2025-09-09 13:20:01**
 
 ## Newspaper Stats
 
-*Scraped **74,952** Articles*
+*Scraped **74,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,181 @@ economynextcom | 4,541
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,257
-adaderanalk | 9,598
-tamilmirrorlk | 11,171
+adalk | 7,259
+adaderanalk | 9,600
+tamilmirrorlk | 11,173
 virakesarilk | 12,245
-adaderanasinhalalk | 13,053
+adaderanasinhalalk | 13,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,694 (86.3%) of 74,952 articles have been extended.
+64,735 (86.4%) of 74,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
+
+### ஆமி சுரங்க கைது
+
+*2025-09-09 12:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆமி-சுரங்க-கைது/175-364266) · `ta`
+
+ஒழுங்கமைக்கப்பட்ட குற்றவாளியான ஹோமாகம ஹந்தயா என்பவரின் துப்பாக்கிதாரியாக செயல்பட்ட  நபர் துப்பாக்கியுடன் கைது செய்யப்பட்டதாக  மேல் மாகாண தெற்கு குற்றப்பிரிவு தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்டவர் ஆர்மி சுரங்க என்ற​ழைக்கப்படும் முன்னாள் இராணுவ வீரரான புத்திக லக்மால் என தெரிவிக்கப்படுகிறது.
+
+இதன்போது  உள்ளூரில் தயாரிக்கப்பட்ட  போரு 12 ரக துப்பாக்கி மற்றும் 3  துப்பாக்கி ரவைகள் கைப்பற்றப்பட்டுள்ளது.
+
+கடந்த ஓகஸ்ட் 13 ஆம் திகதி அன்று ஹன்வெல்ல, பஹத்கம பகுதியில் ஒருவரை சுட்டுக் காயப்படுத்திய சம்பவம் தொடர்பான விசாரணைகளுக்கமைய குறித்த சந்தேக நபர் துன்னான விகாரைக்கு அருகில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+இதன்போது சந்தேக நபரிடமிருந்த பையில் துப்பாக்கி இரண்டு துண்டுகளாக உடைக்கப்பட்ட நிலையில் வைத்திருந்ததாக தெரிவிக்கப்படுகிறது.
+
+இது தொடர்பான மேலதிக விசாரணைகளை மேல் மாகாண தெற்கு குற்றப்பிரிவு விசாரணைகளை மேற்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/ac11e37e.json)
+
+---
+
+### டெக்கர் பஸ் மீது சரக்கு ரயில் மோதல்;10 பேர் பலி
+
+*2025-09-09 12:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டெக்கர்-பஸ்-மீது-சரக்கு-ரயில்-மோதல்-10-பேர்-பலி/50-364265) · `ta`
+
+மெக்சிகோவில் டபுள்-டெக்கர் பஸ் மீது சரக்கு ரயில் மோதியதில் 10 பேர் பலியாகினர், மேலும் 60க்கும் மேற்பட்டோர் காயமடைந்த சம்பவம் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.
+
+மெக்சிகோ நாட்டின் மிச்சோகன் மாகாணத்தில் உள்ள மரவடியோ நகரில் இருந்து மெக்சிகோ சிட்டி நோக்கி 70க்கும் மேற்பட்டோருடன் டபுள் டெக்கர் பேருந்து சென்று கொண்டு இருந்தது.
+
+அப்போது மெக்சிகோ சிட்டியின் வடமேற்கே உள்ள அட்லகோமுல்கோ நகரில் இன்று அதிகாலை ரயில் தண்டவாளத்தை பேருந்து கடக்க முயன்ற போது, அவ்வழியாக வந்த சரக்கு ரயில் மோதியது.
+
+இதில் பேருந்து கடும் சேதம் அடைந்தது. பேருந்தில் இருந்த பயணிகள் தூக்கி வீசப்பட்டனர். 10 பேர் நிகழ்விடத்திலேயே உயிரிழந்தனர். 61 பேர் படுகாயங்களுடன் மீட்கப்பட்டு அருகில் இருந்த மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+அவர்களின் பலரின் நிலைமை கவலைக்கிடமாக உள்ளதால் உயிரிழப்பு அதிகரிக்கும் அச்சம் ஏற்பட்டுள்ளது. பேருந்து ஓட்டுநர், ரயில் வரும் சிக்னலை கவனிக்காமல் பேருந்தை இயக்கியதாக முதற்கட்ட தகவல் தெரியவந்துள்ளது. இந்த விபத்து குறித்து மெக்சிகோ காவல்துறை வழக்குப்பதிவு செய்து ரயில்வேயுடன் இணைந்து விசாரணை நடத்தி வருகிறது.
+
+◼️
+
+[Data](articles/5f5cfa2a.json)
+
+---
+
+### කැපකරු මාපිය රැකවරණය සඳහා නව නීතියක් සම්පාදනයට අනුමැතිය
+
+*2025-09-09 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214359) · `si`
+
+කැපකරු මාපිය රැකවරණය සඳහා නව නීතියක් හඳුන්වා දීම පිණිස පනත් කෙටුම්පතක් සකස් කරන ලෙස නීති කෙටුම්පත් සම්පාදකට උපදෙස් දීම සඳහා වැඩබලන කාන්තා සහ ළමා කටයුතු අමාත්‍යතුමා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර තිබේ.
+
+ශ්‍රී ලංකාවේ විකල්ප රැකවරණ අවශ්‍යතා ඇති සියලු ළමුන් ආවරණය වන පරිදි කැපකරු මාපිය රැකවරණය පිළිබඳ විධිමත් නෛතික ප්‍රතිපාදනයක් මේ වන විට ක්‍රියාත්මක නොවන බව හඳුනාගෙන ඇත.
+
+එබැවින්, කාලීන අවශ්‍යතාවක් බවට පත් වී ඇති පවුල්පාදක විකල්ප රැකවරණ ක්‍රමයක් වන පෝෂිත රැකවරණ (කැපකරු මාපිය ක්‍රමය) සංකල්පය ක්‍රියාත්මක කිරීමේ අරමුණින් ජාතික ළමා ආරක්ෂක අධිකාරිය විසින් කැපකරු මාපිය රැකවරණ යාන්ත්‍රණය ස්ථාපිත කිරීම සඳහා සංකල්ප පත්‍රිකාවක් ඉදිරිපත් කරනු ලැබ ඇත.
+
+එකී යෝජිත යාන්ත්‍රණය මඟින්, කැපකරු මාපිය රැකවරණය ස්ථාපිත කිරීම සහ දුරස්ථ මාපිය රැකවරණ සහාය යන ප්‍රධාන ක්‍රම දෙකක් යටතේ රැකවරණ වැඩපිළිවෙල ක්‍රියාත්මක කිරීමට අපේක්ෂිතය.
+
+ඒ අනුව, එකී සංකල්ප පත්‍රිකාව මත පදනම්ව මෙම යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇති බව කැබිනට් මණ්ඩල තීරණ දැනුම්දීමේ නිවේදනයේ සඳහන් වේ.
+
+...
+
+[Data](articles/ff78f887.json)
+
+---
+
+### පද්මේ ඇතුළු පිරිස කොටුකර ගත් ජකර්තා මෙහෙයුමේ නොදුටු දසුන් පෙළක්
+
+*2025-09-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214358) · `si`
+
+ඉන්දුනීසියාවේදී කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධකරුවන් පස්දෙනා අත්අඩංගුවට ගන්නා අයුරු දැක්වෙන රූපරාමු පෙළක් 'අද දෙරණ'ට ලැබී තිබේ
+
+ඉන්දුනීසියාවේදී කෙහෙල්බද්දර පද්මේ ඇතුළු අපරාධකරුවන් පස්දෙනා අත්අඩංගුවට ගන්නා අයුරු දැක්වෙන රූපරාමු පෙළක් 'අද දෙරණ'ට ලැබී තිබේ.
+
+කෙහෙල්බද්දර පද්මේ හා කුඩු නිලංග පළමුව අත්අඩංගුවට පත්වන අතර කමාන්ඩෝ සලින්ත, බැකෝ සමන් හා තැඹිලි ළහිරු අනතුරුව අත්අඩංගුවට ගන්නා අයුරු අදාළ රූපරාමුවල දැක්වේ.
+
+ඉන්දුනීසාවේ සැඟව සිටියදී අපරාධකරුවන් වන කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත, කුඩු නිලංග, බැකෝ සමන් හා තැඹිලි ළහිරු පසුගියදා එරට ආරක්ෂක අංශ විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+ඒ මෙරටින් ගිය සහකාර පොලිස් අධිකාරීවරුන් වන රොහාන් ඕලුගල හා සහකාර පොලිස් අධිකාරී මහින්ද ජයසුන්දර යන මහත්වරුන් විසින් ලබාදුන් තොරතුරු අනුවය.
+
+එම මෙහෙයුම සඳහා ජකර්තා මෙට්‍රොපොලිටන් පොලිසියේ අපරාධ විමර්ශන ඒකකය හෙවත් ජටන්රාස් හා ජාත්‍යන්තර පොලීසියේ සහායද හිමිවුණි.
+
+ඉන්දුනීසියාවේ ජකර්තා හී කෙබොන් ජෙරුක් ප්‍රදේශයේ පිහිටි මෙම සුපිරි මහල් නිවාසයේ අදාළ පිරිස සැඟව සිටින බවට සිදුකළ සෝදිසි මෙහෙයුම්වලදී පොලීසිය අනාවරණ කරගනු ලැබීය.
+
+...
+
+[Data](articles/36ac4bf9.json)
+
+---
+
+### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පත ගැන විවාදය හෙට
+
+*2025-09-09 12:23:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත්-කෙටුම්පත-ගැන-විවාදය-හෙට/11-418380) · `si`
+
+“ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ)”  පනත් කෙටුම්පත හෙට (10දා) විවාදයට ගැනීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර තිබේ.
+
+ඒ අනුව හෙට පෙ.ව 11.30 සිට ප.ව 3.30 දක්වා විවාදයට ගැනීමට  මෙහිදී තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/b8bdc562.json)
+
+---
+
+### Colombo Magistrate’s Court concludes corruption case against Keheliya and family
+
+*2025-09-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112316/colombo-magistrates-court-concludes-corruption-case-against-keheliya-and-family-) · `en`
+
+As the Bribery Commission has filed a case against former Minister Keheliya Rambukwella and his family members before the Colombo High Court on charges under the Prevention of Money Laundering Act, Colombo Chief Magistrate Asanka S. Bodaragama today (09) ordered the conclusion of the proceedings pending before the Colombo Magistrate’s Court in this matter.
+
+The Chief Magistrate directed the defendants to appear before the Colombo High Court on the scheduled dates, Ada Derana reporter said.
+
+When the case was taken up today, officials of the Bribery Commission informed the court that indictments have been filed against the defendants before the Colombo High Court in connection with the aforementioned investigation.
+
+...
+
+[Data](articles/f31b83e9.json)
+
+[Extended Data](ext_articles/f31b83e9.ext.json)
+
+---
+
+### ප්‍රබල අකුණු සහ තද වැසි
+
+*2025-09-09 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214357) · `si`
+
+ප්‍රබල අකුණු සහ තද වැසි පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (09) පෙරවරු 11.30ට නිකුත් කරන ලද එම නිවේදනය අද රාත්‍රී 11.00 දක්වා වලංගු වන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මධ්‍යම, උතුරු මැද, නැගෙනහිර ඌව සහ සබරගමුව පළාත්වලත් සහ වවුනියා, මන්නාරම, මුලතිව් සහ හම්බන්තොට දිස්ත්‍රික්කවල ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතී.
+
+එමෙන්ම ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකියි.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටින්නේ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
+
+◼️
+
+[Data](articles/f54d6db9.json)
+
+---
+
+### Ten people killed, 61 hurt after train hits double-decker bus in Mexico
+
+*2025-09-09 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112315/ten-people-killed-61-hurt-after-train-hits-double-decker-bus-in-mexico) · `en`
+
+Ten people were killed and at least 61 were injured in central Mexico when a freight train smashed into a double-decker passenger bus, which the train operator said had been attempting to pass in front of the moving train.
+
+Canadian Pacific Kansas City de Mexico, the railway, expressed its condolences to the victims’ families and called on drivers to respect road signs and stop orders at railroad crossings.
+
+Bus operator Herradura de Plata did not immediately respond to a request for comment.
+
+Images from the scene showed the front part of the top deck of the bus smashed in and its metal frame badly dented, as first responders cordoned off the area.
+
+The collision happened in an industrial zone on the highway between Atlacomulco, a town some 115 km (71 miles) northwest of the capital Mexico City, and Maravatio, in nearby Michoacan state, local authorities said.
+
+...
+
+[Data](articles/84cf3629.json)
+
+[Extended Data](ext_articles/84cf3629.ext.json)
+
+---
 
 ### 2026 Appropriation Bill approved
 
@@ -49,6 +209,20 @@ The President has approved the proposal made by the President's proposal to publ
 [Data](articles/1e9ecd95.json)
 
 [Extended Data](ext_articles/1e9ecd95.ext.json)
+
+---
+
+### 78 වැනි නිදහස් දින සමරු උළෙලේ සංවිධාන කටයුතු සඳහා කැබිනට් අනු කමිටුවක්
+
+*2025-09-09 11:54:05* · [`adalk`](https://www.ada.lk/breaking_news/78-වැනි-නිදහස්-දින-සමරු-උළෙලේ-සංවිධාන-කටයුතු-සඳහා-කැබිනට්-අනු-කමිටුවක්/11-418379) · `si`
+
+78 වැනි නිදහස් දින සමරු උළෙලේ සංවිධාන කටයුතු සඳහා කැබිනට් අනු කමිටුවක් පත් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වූ බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+එම අනු කමිටු අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරියගේ ප්‍රධානත්වයෙන් සහ අමාත්‍යවරුන්ගේ සහභාගීත්වයෙන් යුතුව පත් කිරීමට නිටමිත බව හෙතෙම කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී පැවසීය.
+
+◼️
+
+[Data](articles/692f64ca.json)
 
 ---
 
@@ -249,6 +423,8 @@ The Integrated “Rurban” (Rural and Urban) Development and Climate Resilience
 ...
 
 [Data](articles/14d53662.json)
+
+[Extended Data](ext_articles/14d53662.ext.json)
 
 ---
 
@@ -453,6 +629,8 @@ Senaratne, who previously appeared before the Colombo Magistrate’s Court on Au
 ...
 
 [Data](articles/68a3ca46.json)
+
+[Extended Data](ext_articles/68a3ca46.ext.json)
 
 ---
 
@@ -748,7 +926,9 @@ Accordingly, the Supreme Court held that the bill can be enacted by a simple maj
 
 Furthermore, the Speaker revealed that the Supreme Court has dismissed the petition filed against this Bill as the petitioner has failed to invoke jurisdiction in accordance with the mandatory provisions of Article 121(1) of the Constitution.
 
-◼️
+The Supreme Court had previously, on August 25, indicated that it would submit its confidential determination on the constitutionality of the bill—aimed at removing privileges of retired Presidents—to the Speaker of Parliament.
+
+...
 
 [Data](articles/b2dcd4cb.json)
 
@@ -1729,171 +1909,5 @@ In August, Parliament voted to remove Thennakoon from office, with 177 members i
 [Data](articles/b51af9a5.json)
 
 [Extended Data](ext_articles/b51af9a5.ext.json)
-
----
-
-### Humanity excavation should be suited to international principles - members of the council
-
-*2025-09-09 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224579) · `ta`
-
-Members of the Council, including Britain, New Zealand, Switzerland, Switzerland and Australia, have urged the government's excavation operations in Sri Lanka to accommodate international principles and to remove the terrorism law used to target individuals.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday. The report on Sri Lanka was submitted by the High Commissioner Volcker Durg at yesterday's opening session and followed the discussion on the report.
-
-Accordingly, Japan expressed his appreciation for the ongoing social and economic development projects in the North-East Provinces, saying that the Sri Lankan government's commitment to the dedicated obligation to build national reconciliation, accountability and justice to ensure justice.. Similarly, it announced that it was ready to provide necessary cooperation for constructive measures to build reconciliation.
-
-...
-
-[Data](articles/5555739b.json)
-
-[Extended Data](ext_articles/5555739b.ext.json)
-
----
-
-### The UN Human Rights Council should work without sides - Pakistan, Laos, Eritrea in support of Sri Lanka
-
-*2025-09-09 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224578) · `ta`
-
-Representatives of Pakistan, Laos and Eritrea, who urged the UN Human Rights Council to act on the basis of justification, have announced that they support Sri Lanka's internal procedures.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). A report on Sri Lanka was submitted by the High Commissioner Volcker Darek at the inaugural session and followed the report.
-
-Representatives from countries including Laos, Pakistan and Eritrea commented in support of Sri Lanka.
-
-Although Sri Lanka has rejected the 57 -1 resolution in the last session, they have praised the UN Human Rights Commissioner Volkar Dareg to visit the country.
-
-At the same time, representatives of the United Nations Human Rights Council, which urged the UN Human Rights Council to act on the basis of justification, declared that they would support the internal processes of Sri Lanka.
-
-...
-
-[Data](articles/ad402284.json)
-
-[Extended Data](ext_articles/ad402284.ext.json)
-
----
-
-### The process of drug purchases in pharmaceutical products
-
-*2025-09-09 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224577) · `ta`
-
-Health Minister Nalinda Jayatissa said that if there is a shortage of pharmaceuticals and medical equipment in a particular hospital, it is not a shortage caused by the shortage of funds but due to the problem of purchasing them.
-
-86 newly recruited by the Ministry of Health. The appointment letters for recruitment for the instructions for the instructions defined by these dental graduates were presented with the Minister of Health and Mass Media at the Hector Koppekaduwa Agricultural Research and Training Institute in Colombo under the patronage of Health and Media Minister Nalinda Jayatissa.
-
-The projects that are necessary to establish every sector in the field of scientifically to improve the health services of this country are organized.. Since 2019, many dental surgeons have been recruited for defined algorithms. Steps will be taken in the future to provide immediate appointments to those who have fulfilled the training.
-
-...
-
-[Data](articles/7a6f313d.json)
-
-[Extended Data](ext_articles/7a6f313d.ext.json)
-
----
-
-### Roadmap for Sri Lanka’s regenerative future
-
-*2025-09-09 01:06:52* · [`dailyftlk`](https://www.ft.lk/columns/Roadmap-for-Sri-Lanka-s-regenerative-future/4-781396) · `en`
-
-Adopting a national regenerative agriculture strategy represents a rare and potent convergence of domestic political will, international strategic priorities, and global market forces
-
-Across South Asia, the weather now writes the headlines. One month parched, the next month a deluge. On a small island with big farming traditions, there is a calmer path that honours both the harvest and the river.
-
-...
-
-[Data](articles/7f4842bb.json)
-
-[Extended Data](ext_articles/7f4842bb.ext.json)
-
----
-
-### Russia has successfully developed the "Endromix" vaccine against cancer
-
-*2025-09-09 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224576) · `ta`
-
-They say the vaccine has been examined by humans and has achieved 100 percent success.
-
-Researchers have shown that the endromix vaccine, a MRNA vaccine can be detected and completely destroyed by cancer cells.
-
-◼️
-
-[Data](articles/16ab6e67.json)
-
-[Extended Data](ext_articles/16ab6e67.ext.json)
-
----
-
-### Copyright and creativity: Why Sri Lanka must embrace global standards
-
-*2025-09-09 00:56:40* · [`dailyftlk`](https://www.ft.lk/columns/Copyright-and-creativity-Why-Sri-Lanka-must-embrace-global-standards/4-781395) · `en`
-
-Sri Lanka exists within the global community, not apart from it. Yet, in public discourse surrounding law, technology, governance, and culture, a recurring theme persists: the belief that Sri Lanka is somehow exceptional, requiring uniquely local solutions. While national context is important, this mindset often overlooks a critical reality: we operate within an interconnected world governed by international norms. Nowhere is this more evident than in the realm of copyright law, particularly in music.
-
-...
-
-[Data](articles/f3e23024.json)
-
-[Extended Data](ext_articles/f3e23024.ext.json)
-
----
-
-### Failure in no confidence resolution - France government collapsed
-
-*2025-09-09 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224575) · `ta`
-
-The government has collapsed as a no -confidence motion brought on French Prime Minister Fran ுவ ois Beiru has been passed in the National Assembly.
-
-In the no -confidence motion, 364 MPs voted against 194 MPs and 25 MPs did not vote.
-
-Following this, the Elisy Palace has announced that President Emmanuel Macron will appoint a new prime minister.  President Macron will meet him on Tuesday, the 9th, to accept the resignation of Prime Minister Beiru.
-
-At the same time, the opposition parties are urging not only the Prime Minister but the president to resign.
-
-◼️
-
-[Data](articles/a4a26f7a.json)
-
-[Extended Data](ext_articles/a4a26f7a.ext.json)
-
----
-
-### 2025-09-08 (Monday)
-
-### Tribute to Nanda Malini
-
-*2025-09-08 23:55:00* · [`islandlk`](http://island.lk/tribute-to-nanda-malini/) · `en`
-
-Several well-known artistes rallied around the legendary T. M. Jayaratne and Deepika Priyadarshani to pay tribute to the very famous Nanda Malini, and it was done by way of a song, specially composed for her 82nd birthday, which was on Saturday, 23rd August.
-
-This historic tribute, titled ‘Maliniye Nanda,’ was sung by T. M. Jayaratne, Deepika Priyadarshani, Rajiv Sebastian, Shyami Fonseka, Raymond Fonseka, Priya Peiris, Walter Fernando, Corrine Almeida, Athula Adhikari, Sewwandi Ranatunga, Piyal Perera, Sohan Weerasinghe, Damian Wikkramatillake and Mario Ananda.
-
-Rajiv Sebastian was responsible for the lyrics, melody, music arrangements, concept and the storyboard.
-
-He and his band, Rajiv & The Clan, were also involved in providing the music for the artistes to do the needful on ‘Maliniye Nanda’.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/13d78343.json)
-
-[Extended Data](ext_articles/13d78343.ext.json)
-
----
-
-### DFCC Bank and WWCT partner to advance biodiversity and landscape conservation through leopard protection
-
-*2025-09-08 23:24:00* · [`islandlk`](http://island.lk/dfcc-bank-and-wwct-partner-to-advance-biodiversity-and-landscape-conservation-through-leopard-protection/) · `en`
-
-DFCC Bank has announced a strategic three-year partnership with the Wilderness and Wildlife Conservation Trust (WWCT) to support a science-based initiative aimed at conserving Sri Lanka’s biodiversity by focusing on the protection of the island’s apex predator, the threatened Sri Lankan leopard (Panthera pardus kotiya).
-
-The partnership is anchored in the understanding that the leopard is an umbrella species. Protecting it also safeguards entire ecosystems and countless other species that share its habitat. By supporting leopard conservation, DFCC Bank and WWCT are making a wider commitment to biodiversity protection, environmental resilience, and sustainable coexistence between people and wildlife.
-
-...
-
-[Data](articles/41075860.json)
-
-[Extended Data](ext_articles/41075860.ext.json)
 
 ---

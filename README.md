@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 09:23:18**
+As of **2025-09-09 09:12:50**
 
 ## Newspaper Stats
 
-*Scraped **74,895** Articles*
+*Scraped **74,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,538
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,248
+adalk | 7,246
 adaderanalk | 9,591
-tamilmirrorlk | 11,155
+tamilmirrorlk | 11,154
 virakesarilk | 12,233
 adaderanasinhalalk | 13,043
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,427 (86.0%) of 74,895 articles have been extended.
+64,427 (86.0%) of 74,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### இன்று இந்திய குடியரசு துணைத் தலைவர் தேர்தல்
-
-*2025-09-09 08:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்திய-குடியரசு-துணைத்-தலைவர்-தேர்தல்/175-364243) · `ta`
-
-இந்திய குடியரசு துணைத் தலைவர் தேர்தல் இன்று நடைபெறுகிறது. காலை 10 மணிக்கு தொடங்கும் வாக்குப்பதிவு மாலை 5 மணி வரை நடைபெறுகிறது.
-
-இந்த தேர்தலில் ஆளும் பா.ஜ.க. கூட்டணி சார்பில் மகாராஷ்டிர ஆளுநர் சி.பி.ராதாகிருஷ்ணனும், எதிர்க்கட்சிகளின் இண்டியா கூட்டணி சார்பில் உச்ச நீதிமன்ற முன்னாள் நீதிபதி சுதர்சன் ரெட்டியும் போட்டியிடுகின்றனர். வாக்கு எண்ணிக்கை இன்று மாலை நடைபெறுகிறது.
-
-குடியரசு துணைத் தலைவர் பதவியில் இருந்த ஜெகதீப் தன்கர் தனது உடல்நிலையை காரணம் காட்டி, கடந்த ஜூலை 21 ஆம் திகதி பதவியை இராஜினாமா செய்தார். அவரது இராஜினாமாவை குடியரசுத் தலைவர் திரவுபதிமுர்மு ஏற்றுக்கொண்டார்.
-
-◼️
-
-[Data](articles/f24a4ff5.json)
-
----
 
 ### ද්විත්ව ඝාතනයකට සම්බන්ධ තිදෙනෙක් අත්අඩංගුවට
 
@@ -99,24 +83,6 @@ This demonstration Jaffna. The District Secretariat and the Northern Province Go
 [Data](articles/00d1fc34.json)
 
 [Extended Data](ext_articles/00d1fc34.ext.json)
-
----
-
-### මිද්දෙණියේ ද්විත්ව ඝාතනයට තිදෙනෙකු හසු වේ
-
-*2025-09-09 07:58:34* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙණියේ-ද්විත්ව-ඝාතනයට-තිදෙනෙකු-හසු-වේ/11-418364) · `si`
-
-මිද්දෙනිය පොලිස් වසමේ තෝරකොළයායේ තේක්ක කැලයේදී පුද්ගලයන් දෙදෙනකු ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධ ව තෝරකොළයායේම පදිංචිකරුවන් තිදෙනෙකු අවි ආයුධ රැසක් සමග ඊයේ (08) පෙරවරුවේදී තංගල්ල කොට්ඨාස අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය කියයි.
-
-අත්අඩංගුවට පත් සැකකරුවන් සන්තකයේ තිබී ටී 56 ගිනි අවියට යොදන උණ්ඩ 18ක් මැගසින් 02ක් මි.මි.09 වර්ගයේ ගිනි අවියක් හා උන්ඩ 58 ක් බෝර දොළහ වර්ගයේ ගිනි අවියක් හා උණ්ඩ 25ක් මාංචු කූට්ටම් 01ක් හෙරොයින් මිලිග්‍රෑම් 300ක් පොලිස් භාරයට ගෙන ඇත.
-
-අත්අඩංගුවට පත් සැකකරුවන් වයස අවුරුදු 24,25,26 පසුවන අය බවද පොලිසිය කියයි.මොවුන් සියලු දෙනා මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ අය බවත් මෙම ද්විත්ව ඝාතනය අත්අඩංගුවට පත් තැඹිලි ලහිරුගේ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වශයෙන් කටයුතු කොට ඇති බවත් අනතුරුව ඝාතකයන් හා ඝාතනයට ලක් වූ දෙදෙනා අතර වූ ගැටුමක් මෙම අපරාධයට හේතු වී ඇති බවත් පොලිසිය විසින් සොයාගෙන තිබේ.
-
-අත්අඩංගුවට පත් සැකකරුවන් අද දින මිද්දෙණිය පොලිසියට භාර දුන් අතර ඔවුන් අද (09) දින වලස්මුල්ල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/59f9900a.json)
 
 ---
 
@@ -1983,5 +1949,47 @@ Speaking further the government's goal of the Minister to develop all parts of t
 [Data](articles/796f852c.json)
 
 [Extended Data](ext_articles/796f852c.ext.json)
+
+---
+
+### Two race teased suspended
+
+*2025-09-08 17:06:56* · [`adalk`](https://www.ada.lk/breaking_news/රේස්-පැද්ද-බස්-දෙකේ-ගමන්වාර-තාවකාලිකව-අත්හිටුවයි/11-418359) · `si`
+
+From Kandy to Hatton (06) at the same district, the Central Province Road Transport Authority Chairman C Presidential suspended. Priyankara has taken steps.
+
+The Chairman of the Central Province Road Transport Authority has temporarily halted the journey of the two buses on the two buses on the two buses.
+
+Both buses have begun on two occasions on two occasions when the bus drivers were traveling in the Ginigathena area.
+
+The two drivers were immediately informed of the two drivers who were immediately informed of the two drivers from the Hatton Police.
+
+◼️
+
+[Data](articles/98ec082c.json)
+
+[Extended Data](ext_articles/98ec082c.ext.json)
+
+---
+
+### How to release ice product containers?
+
+*2025-09-08 17:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-தயாரிப்பு-கொள்கலன்கள்-விடுவிக்கப்பட்டது-எப்படி/175-364222) · `ta`
+
+Opposition Leader Sajith Premadasa has questioned how the two containers of the raw materials used in the manufacture of Crystal Meetamatamine (Ice) found by the security forces were able to leave the port.
+
+Parliamentarian Premadasa said that while the invention is trying to prevent drug trafficking, it also raises many problems that the government needs to clarify.
+
+“The main problem is how these two containers have left the port. International intelligence agencies continue to provide information on drug activities in Sri Lanka and it is important to know if they have warned the country about these specific containers, ”he said.
+
+Premadasa further stressed the need to publish the need to release the containers even after the timeline and trial of the investigation into the date of such intelligence information.
+
+He urged the government to reveal the truth about individuals and companies involved in the process if the containers were truly released.
+
+...
+
+[Data](articles/4f8853dd.json)
+
+[Extended Data](ext_articles/4f8853dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 03:54:45**
+As of **2025-09-10 04:19:46**
 
 ## Newspaper Stats
 
-*Scraped **75,052** Articles*
+*Scraped **75,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 763
 economynextcom | 4,550
 islandlk | 4,611
 dailymirrorlk | 4,733
-dailyftlk | 5,313
+dailyftlk | 5,316
 adalk | 7,272
 adaderanalk | 9,619
 tamilmirrorlk | 11,191
@@ -26,9 +26,65 @@ adaderanasinhalalk | 13,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,580 (87.4%) of 75,052 articles have been extended.
+65,600 (87.4%) of 75,055 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-10 (Wednesday)
+
+### Separating Chairman and CEO roles in PLCs
+
+*2025-09-10 03:53:43* · [`dailyftlk`](https://www.ft.lk/columns/Separating-Chairman-and-CEO-roles-in-PLCs/4-781439) · `en`
+
+At a recent forum organised by the Sri Lanka Institute of Directors (SLID), the CSE, and the SEC, business leader Murtaza Jafferjee made a powerful case for separating the roles of Chairman and Chief Executive Officer (CEO). This argument aligns with a global consensus on corporate governance: structures that ensure accountability, transparency, and oversight are fundamental to a company’s health and investor trust.
+
+From my experience as Chairman of three listed banks, including Sri Lanka’s two largest, I firmly believe this separation is not just beneficial but essential within the financial sector. However, for companies with concentrated, family-owned, or founder-led structures, the issue demands a more nuanced approach.
+
+...
+
+[Data](articles/027cea29.json)
+
+[Extended Data](ext_articles/027cea29.ext.json)
+
+---
+
+### Apparel sector losing edge as global rivals outpace productivity and innovation
+
+*2025-09-10 03:51:24* · [`dailyftlk`](https://www.ft.lk/opinion/Apparel-sector-losing-edge-as-global-rivals-outpace-productivity-and-innovation/14-781438) · `en`
+
+Tax Consultant Prabath Weerasinghe says SL apparel sector lags behind Bangladesh, Vietnam, and Cambodia in labour productivity, innovation, and R&D
+
+Notes US buyers demanding price cuts, margins already thin, raw material and energy costs remain elevated
+
+Tax Consultant Prabath Weerasinghe recently warned that Sri Lanka’s apparel industry risks falling further behind competitors like Bangladesh, Vietnam, and Cambodia, with weak labour productivity, limited innovation, and mounting tariff pressures squeezing margins.
+
+Addressing the ‘CEO Forum 2025: Economic Impact on New US Tariffs’ organised by the Open University of Sri Lanka’s Faculty of Management Studies CEMBA/CEMPA Alumni Association, Weerasinghe, who specialises in the apparel sector, said the structure of the industry makes it particularly vulnerable to external shocks.
+
+...
+
+[Data](articles/2241ec59.json)
+
+[Extended Data](ext_articles/2241ec59.ext.json)
+
+---
+
+### Challenges faced by Sri Lanka’s apparel and textile industry in US market
+
+*2025-09-10 03:37:51* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-faced-by-Sri-Lanka-s-apparel-and-textile-industry-in-US-market/4-781436) · `en`
+
+The apparel and textile sector represents Sri Lanka’s most significant export industry, particularly in relation to trade with the United States
+
+Sri Lanka’s apparel and textile industry has been the export powerhouse for several decades to date, contributing $ 5.05 billion in 2024, with a growth of nearly 5%, operating with the anticipation of elevating to $ 7 billion by 2030, according to industry data publicly available.
+
+Sri Lanka has positioned itself as a major ethical apparel sourcing hub, demonstrating the highest levels of social and environmental standards through the ‘Garments without Guilt’ initiative. Generations of industry experience and a strong push for research and development helped Sri Lankan manufacturers offer comprehensive end-to-end solutions with faster turnaround times. Both are highly valued in today’s global markets, among consumers who rely on Sri Lanka to produce more technically advanced apparel products.
+
+...
+
+[Data](articles/bf8798f7.json)
+
+[Extended Data](ext_articles/bf8798f7.ext.json)
+
+---
 
 ### 2025-09-09 (Tuesday)
 
@@ -2055,61 +2111,5 @@ He said that the appointment of the sub-committee Dhamma Dr. Harari Amarasuriya 
 [Data](articles/692f64ca.json)
 
 [Extended Data](ext_articles/692f64ca.ext.json)
-
----
-
-### People's Bank bizteens for adolescents
-
-*2025-09-09 11:45:22* · [`adalk`](https://www.ada.lk/business/නව-යොවුන්-ව්‍යවසායකයන්ට-මහජන-බැංකුවෙන්-BizTeens/7-418377) · `si`
-
-The National School Entrepreneurship Entrepreneurship Development Program organized by the Ministry of Industry and Entrepreneurship Development, the Ministry of Industrial Development and the Ministry of Education was held at the Nelum Pokuna Theater, Colombo 07.
-
-The check to the Ceylon Industrial Development Board (IDB) was presented to the Ceylon Industrial Development Board (IDB) to enable adolescents.
-
-Aruna Liyanayunagahawardena, Deputy General Manager of the Ceylon Industrial Development Board of Ceylon Bank (PARLIA FEW), General Manager of the Ceylon Industrial Development Board (PARLIA FIQUE), General Manager of the Ceylon Industrial Development Board (Penali Bank), Assistant General Manager (Penali Banking and Assistant Banking) People's Bank and Ceylon Industrial Development Board were also present.
-
-◼️
-
-[Data](articles/505bce9f.json)
-
-[Extended Data](ext_articles/505bce9f.ext.json)
-
----
-
-### World Bank is US $. 100
-
-*2025-09-09 11:40:23* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ඇ-ඩො-මි--100ක්/11-418376) · `si`
-
-US $ 100 million has been contracted between the Sri Lankan government and the World Bank Group, aimed at strengthening of rural livelihoods, creating the ability to create the equipment and development of agro-food department.. Over 380,000 people will benefit from Sri Lanka.
-
-This program is designated as "Ruban" (Ruban) (Ruban), the development and a municipal and urban of the 71,000 hectares of agricultural products, improving the sophisticated and drainage services to the small estate owners.. The purpose of young people and women - especially for young people and women - especially for young people and women - especially youths and women.
-
-◼️
-
-[Data](articles/6088d59a.json)
-
-[Extended Data](ext_articles/6088d59a.ext.json)
-
----
-
-### We need a creative generation that can change the world - PM
-
-*2025-09-09 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214355) · `si`
-
-Prime Minister Dr. Haraini Amarasuriya says that there is a need for a new education system to create a new generation of solutions to the new world.
-
-The Prime Minister said this at the National Program of the Ministry of Science and Technology to the Ministry of Science and Technology to the school system yesterday (08).
-
-The Prime Minister said that the inventor of the inventor is not based on the size of educational qualifications, degree, or patents.
-
-සමාජය පිළිබඳ හැඟීමක් හා සමාජය පිළිබඳ වගකීමක් ඇති , සහකම්පනයෙන් යුතු මානවවාදී නව නිපැයුම්කරුවන් බිහි කිරීම වෙනුවෙන් අවශ්‍ය පරිසරය නිර්මාණය කිරීම සහ ඔවුන් ප්‍රවර්ධනය කිරීම රජයේ වගකීම වන බවත් අග්‍රාමාත්‍යවරිය ප්‍රකාශ කර ඇත.
-
-"We need only a generation to know data. The data can be seen with the actual false, confirmation, confirmation, and detective intellect.. We need people who are curious about the world that we know the data, information, and knowledge. "
-
-...
-
-[Data](articles/5b317085.json)
-
-[Extended Data](ext_articles/5b317085.ext.json)
 
 ---

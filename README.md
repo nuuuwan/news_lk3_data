@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 12:14:06**
+As of **2025-09-09 12:38:09**
 
 ## Newspaper Stats
 
-*Scraped **74,947** Articles*
+*Scraped **74,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,95 @@ economynextcom | 4,541
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,256
+adalk | 7,257
 adaderanalk | 9,596
-tamilmirrorlk | 11,170
+tamilmirrorlk | 11,171
 virakesarilk | 12,245
-adaderanasinhalalk | 13,052
+adaderanasinhalalk | 13,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,634 (86.2%) of 74,947 articles have been extended.
+64,673 (86.3%) of 74,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### නව යොවුන් ව්‍යවසායකයන්ට මහජන බැංකුවෙන් BizTeens
+### 2026 Appropriation Bill approved
 
-*2025-09-09 11:45:22* · [`adalk`](https://www.ada.lk/business/නව-යොවුන්-ව්‍යවසායකයන්ට-මහජන-බැංකුවෙන්-BizTeens/7-418377) · `si`
+*2025-09-09 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214356) · `si`
 
-කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය, ලංකා කාර්මික සංවර්ධන මණ්ඩලය හා අධ්‍යාපන අමාත්‍යාංශය එක්ව සංවිධානය කරන ‘ජාතික පාසල් කර්මාන්ත ව්‍යවසායකත්ව කව වැඩසටහනේ ජාතික පදක්කම් ප්‍රදානෝත්සවය 2025’ පසුගියදා කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතාගේ ප්‍රධානත්වයෙන් කොළඹ 07, නෙළුම් පොකුණ රඟහලේදී පැවැත්විණි.
+The Appropriation Bill for the financial year 2026 has been approved by the Cabinet to submit to Parliament.
 
-මෙහිදී, නව යොවුන් ව්‍යවසායකයින් සවිබල ගැන්වීමේ අරමුණින් මහජන බැංකුව දියත් කරන People’s BizTeens Challenge 2025 දීප ව්‍යාප්ත වැඩසටහනට අදාළ චෙක්පත ලංකා කාර්මික සංවර්ධන මණ්ඩලය (IDB) වෙත පිරිනැමිමද සිදුකෙරිණි.
+Cabinet approval was given to prepare the Appropriation Bill at the meeting held on July 1.
 
-...
+Accordingly, the Attorney General's clearance has been received for the Appropriation Bill for the Year 2026 by the Legal Draftsman.
 
-[Data](articles/505bce9f.json)
+The President has approved the proposal made by the President's proposal to publish the Bill in the Government Gazette and submit the bill to Parliament.
+
+◼️
+
+[Data](articles/1e9ecd95.json)
+
+[Extended Data](ext_articles/1e9ecd95.ext.json)
 
 ---
 
-### ලෝකය වෙනස් කළ හැකි නිර්මාණශීලී පරපුරක් අපට අවශ්‍යයි - අගමැති
+### People's Bank bizteens for adolescents
+
+*2025-09-09 11:45:22* · [`adalk`](https://www.ada.lk/business/නව-යොවුන්-ව්‍යවසායකයන්ට-මහජන-බැංකුවෙන්-BizTeens/7-418377) · `si`
+
+The National School Entrepreneurship Entrepreneurship Development Program organized by the Ministry of Industry and Entrepreneurship Development, the Ministry of Industrial Development and the Ministry of Education was held at the Nelum Pokuna Theater, Colombo 07.
+
+The check to the Ceylon Industrial Development Board (IDB) was presented to the Ceylon Industrial Development Board (IDB) to enable adolescents.
+
+Aruna Liyanayunagahawardena, Deputy General Manager of the Ceylon Industrial Development Board of Ceylon Bank (PARLIA FEW), General Manager of the Ceylon Industrial Development Board (PARLIA FIQUE), General Manager of the Ceylon Industrial Development Board (Penali Bank), Assistant General Manager (Penali Banking and Assistant Banking) People's Bank and Ceylon Industrial Development Board were also present.
+
+◼️
+
+[Data](articles/505bce9f.json)
+
+[Extended Data](ext_articles/505bce9f.ext.json)
+
+---
+
+### We need a creative generation that can change the world - PM
 
 *2025-09-09 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214355) · `si`
 
-නව ලෝකයේ පවතින ගැටලු සඳහා විසඳුම් සෙවිය හැකි නව පරම්පරාවක් බිහි කිරීම සඳහා පවතින සම්ප්‍රදායික අධ්‍යාපන ක්‍රමයට එහා ගිය නව අධ්‍යාපන ක්‍රමයක අවශ්‍යතාවක් ඇති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+Prime Minister Dr. Haraini Amarasuriya says that there is a need for a new education system to create a new generation of solutions to the new world.
 
-අග්‍රාමාත්‍යවරිය මේ බව පැවසුවේ ඊයේ (08) කොළඹ විශ්වවිද්‍යාලයීය වෛද්‍ය පීඨ ශ්‍රවණාගාරයේ දී පැවති විද්‍යා හා තාක්ෂණ අමාත්‍යාංශය මඟින් පාසල් පද්ධතිය තුළට නව නිපැයුම් සමාජ 100ක් හඳුන්වාදීමේ ජාතික වැඩසටහන අමතමිනි.
+The Prime Minister said this at the National Program of the Ministry of Science and Technology to the Ministry of Science and Technology to the school system yesterday (08).
 
-එමෙන්ම නව නිපැයුම්කරුවාගේ වටිනාකම අධ්‍යාපන සුදුසුකම්, උපාධිය හෝ පේටන්ට් බලපත්‍ර ප්‍රමාණය මත පදනම් නොවන බවත්, පවතින සමාජය වඩා යහපත් කිරීම වෙනුවෙන් නව නිපැයුම්කරුවා දක්වන දායකත්වය වඩා වැදගත් වන බවත් අග්‍රාමාත්‍යවරිය ප්‍රකාශ කරන ලදී.
+The Prime Minister said that the inventor of the inventor is not based on the size of educational qualifications, degree, or patents.
 
 සමාජය පිළිබඳ හැඟීමක් හා සමාජය පිළිබඳ වගකීමක් ඇති , සහකම්පනයෙන් යුතු මානවවාදී නව නිපැයුම්කරුවන් බිහි කිරීම වෙනුවෙන් අවශ්‍ය පරිසරය නිර්මාණය කිරීම සහ ඔවුන් ප්‍රවර්ධනය කිරීම රජයේ වගකීම වන බවත් අග්‍රාමාත්‍යවරිය ප්‍රකාශ කර ඇත.
+
+"We need only a generation to know data. The data can be seen with the actual false, confirmation, confirmation, and detective intellect.. We need people who are curious about the world that we know the data, information, and knowledge. "
 
 ...
 
 [Data](articles/5b317085.json)
 
+[Extended Data](ext_articles/5b317085.ext.json)
+
 ---
 
-### கெஹெலிய, குடும்பத்தினருக்கெதிரான விசாரணைகள் நிறைவு
+### Investigations against Keheliya, Family
 
 *2025-09-09 11:37:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலிய-குடும்பத்தினருக்கெதிரான-விசாரணைகள்-நிறைவு/175-364261) · `ta`
 
-முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல்ல மற்றும் அவரது குடும்ப உறுப்பினர்கள் தொடர்பான வழக்கு விசாரணைகளை கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம இன்று முடிவுக்குக் கொண்டுவந்தார்.
+Former Minister Keheliya Rambukwella and his family members are investigating the case. Podarakama ended today.
 
-பணமோசடி குற்றச்சாட்டின் பேரில் கொழும்பு மேல் நீதிமன்றத்தில் லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவால் தாக்கல் செய்யப்பட்ட குற்றப்பத்திரிகைகளை அவர்கள் எதிர்கொண்டனர்.
+They faced indictment filed by the Commission to Investigate Bribery or Corruption in the Colombo High Court on charges of money laundering.
 
 ◼️
 
 [Data](articles/db1aa8b8.json)
+
+[Extended Data](ext_articles/db1aa8b8.ext.json)
 
 ---
 
@@ -95,6 +125,8 @@ Another 17 million dollars is expected as beneficiary contribution, according to
 ...
 
 [Data](articles/4aff490b.json)
+
+[Extended Data](ext_articles/4aff490b.ext.json)
 
 ---
 
@@ -141,6 +173,22 @@ Cambodia Centers: Foreign Property Control Office (ofAC) has imposed an economic
 [Data](articles/531e11fd.json)
 
 [Extended Data](ext_articles/531e11fd.ext.json)
+
+---
+
+### Former Minister Keheliya's case end
+
+*2025-09-09 11:16:44* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-කෙහෙළියගේ-නඩුවක්-අවසන්/11-418374) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama ordered the end of the case with the Minister of Health Keheliya Rambukwella.
+
+The Bribery Commission has filed a case before the Bribery Commission has filed a case before the Colombo High Court against former Minister Keheliya Rambukwella.
+
+◼️
+
+[Data](articles/8ecfdf93.json)
+
+[Extended Data](ext_articles/8ecfdf93.ext.json)
 
 ---
 
@@ -283,6 +331,24 @@ Various resolutions were passed at this meeting. Commenting on the resolution, t
 [Data](articles/0ac03499.json)
 
 [Extended Data](ext_articles/0ac03499.ext.json)
+
+---
+
+### Cinnamon will no longer buy from Sri Lanka
+
+*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-இருந்து-இலவங்கம்-இனி-வாங்க-மாட்டோம்/175-364255) · `ta`
+
+The Sri Lankan government decided at a trade welfare union meeting that the Sri Lankan government would not buy any products, including cinnamon from Sri Lanka, if it was damaged and harassed the boats of Tamil Nadu fishermen.
+
+The 101st General Committee Meeting of the Salem Tuesday (08) was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
+
+Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
+
+...
+
+[Data](articles/c9c6ca27.json)
+
+[Extended Data](ext_articles/c9c6ca27.ext.json)
 
 ---
 
@@ -618,6 +684,8 @@ Rs 77,000 million Treasury bills are to be issued through an auction on Septembe
 
 [Data](articles/01645ab5.json)
 
+[Extended Data](ext_articles/01645ab5.ext.json)
+
 ---
 
 ### Former Prime Minister of Thai Thaksin Schrianaya is a year
@@ -723,6 +791,8 @@ Sri Lanka’s new administration promised to reduce the priviledges given to ex-
 ◼️
 
 [Data](articles/502f3255.json)
+
+[Extended Data](ext_articles/502f3255.ext.json)
 
 ---
 
@@ -1823,63 +1893,5 @@ Damn Fine Coffee is proud to be the official distributor of Oatly in Sri Lanka. 
 [Data](articles/0632a619.json)
 
 [Extended Data](ext_articles/0632a619.ext.json)
-
----
-
-### Dhammika Perera buys 39 percent stake in Laugfs Group, boosting its financial muscle
-
-*2025-09-08 23:19:00* · [`islandlk`](http://island.lk/dhammika-perera-buys-39-percent-stake-in-laugfs-group-boosting-its-financial-muscle/) · `en`
-
-The CSE was notably active yesterday when businessman Dhammika Perera bought into Sri Lanka’s diversified Laugfs Group, taking a 39 percent stake of its holding company, as founder director and Deputy Chairman Thilak de Silva exited, informed sources said.
-
-Laugfs has interests in liquefied petroleum gas, shipping, renewable power, fuel distribution and retailing and manufacturing, among others.
-
-Laughs sources said that huge financial muscle was needed to rescue the company. “Someone had to exit to pave the way for an investor. It was a difficult decision. But I am happy the brand will survive, company sources said. Laugfs Gas and Laugfs Power are listed companies.
-
-Amid those developments the market pulled back with both indices moving downward.
-
-All Share Price Index went down by 74.56 points while S and P SL20 declined by 27.90 points. Turnover stood at Rs 6.17 billion with 10 crossings.
-
-...
-
-[Data](articles/37039245.json)
-
-[Extended Data](ext_articles/37039245.ext.json)
-
----
-
-### French govt collapses after Prime Minister Bayrou loses confidence vote
-
-*2025-09-08 23:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112301/french-govt-collapses-after-prime-minister-bayrou-loses-confidence-vote) · `en`
-
-French lawmakers voted to oust Prime Minister François Bayrou Monday, plunging the country into a new political crisis and leaving it without a government at a time of increasing economic strain and geopolitical tensions.
-
-A total of 364 MPs voted against Bayrou and 194 voted for him after he called the vote in a bid to push through an unpopular €44 billion ($51 billion) savings plan that included scrapping two public holidays and freezing government spending. The 364 votes against Bayrou were well above the 280-vote threshold needed to topple the government.
-
-Bayrou will now be forced to step down after just nine months in office, following in the footsteps of his predecessor Michel Barnier, who lost a no-confidence vote last December.
-
-Bayrou is expected to submit his resignation to French President Emmanuel Macron on Tuesday morning, according to CNN affiliate BFMTV. The prime minister’s departure leaves Macron with few palatable options.
-
-...
-
-[Data](articles/286de450.json)
-
-[Extended Data](ext_articles/286de450.ext.json)
-
----
-
-### French Prime Minister loses - government collapses
-
-*2025-09-08 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214339) · `si`
-
-French lawmakers voted for powering the Prime Minister.
-
-Accordingly, 364 MPs have been given 364 MPs against the Bhire and 194 members in favor.
-
-◼️
-
-[Data](articles/1882dc5a.json)
-
-[Extended Data](ext_articles/1882dc5a.ext.json)
 
 ---

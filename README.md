@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 09:12:50**
+As of **2025-09-09 09:38:36**
 
 ## Newspaper Stats
 
-*Scraped **74,892** Articles*
+*Scraped **74,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,107 @@ economynextcom | 4,538
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,246
+adalk | 7,248
 adaderanalk | 9,591
-tamilmirrorlk | 11,154
-virakesarilk | 12,233
+tamilmirrorlk | 11,155
+virakesarilk | 12,236
 adaderanasinhalalk | 13,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,427 (86.0%) of 74,892 articles have been extended.
+64,462 (86.1%) of 74,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### ද්විත්ව ඝාතනයකට සම්බන්ධ තිදෙනෙක් අත්අඩංගුවට
+### இதுவரையான காலப்பகுதியில் வீதி விபத்துகளில் 1,800க்கும் மேற்பட்டோர் உயிரிழப்பு!
+
+*2025-09-09 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224588) · `ta`
+
+இந்த ஆண்டு ஜனவரி முதலாம் திகதி முதல் செப்டம்பர் 4 ஆம் திகதி வரையிலான காலப்பகுதியில் நடந்த ஆயிரத்து 757 வீதி விபத்துகளில் ஆயிரத்து 870 பேர் உயிரிழந்துள்ளதாக பொலிஸ் தெரிவித்துள்ளது.
+
+இந்த புள்ளிவிவரத்தை போக்குவரத்துக்கு பொறுப்பான பிரதி பொலிஸ் தலைவர் இந்திக்க ஹபுகொட வெளியிட்டுள்ளார்.
+
+வீதி விபத்துகளால் நாளாந்தம் சுமார் ஏழு முதல் எட்டு பேர் வரை உயிரிழப்பதாக அவர் மேலும் குறிப்பிட்டுள்ளார்.
+
+எனவே, சாரதிகள், மோட்டார் சைக்கிள் ஓட்டுநர்கள், பாதசாரிகள் மற்றும் பயணிகள் உள்ளிட்ட அனைத்து வீதி பயனர்களும் போக்குவரத்துச் சட்டங்களை கண்டிப்பாகப் பின்பற்ற வேண்டும் என பிரதி பொலிஸ் தலைவர் இந்திக்க ஹபுகொட தெரிவித்துள்ளார.
+
+அதேநேரம், வீதி நடைமுறைகளை கடைப்பிடிக்க வேண்டும், மேலும் விபத்துகளின் எண்ணிக்கையைக் குறைக்க சுய ஒழுக்கத்துடன் செயற்பட வேண்டும் எனவும் அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/838df283.json)
+
+---
+
+### களனிவெளி மார்க்கத்தின் ரயில் சேவைகள் கொஸ்கம வரை மட்டுப்பாடு
+
+*2025-09-09 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224587) · `ta`
+
+களனிவெளி மார்க்கத்தின் ரயில் சேவைகள் கொஸ்கம ரயில் நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில் கட்டுப்பாட்டு அறை அறிவித்துள்ளது.
+
+அவிசாவளை, புவக்பிட்டியவில் நேற்று திங்கட்கிழமை  (08) மாலை ரயில் ஒன்று தடம் புரண்டதால் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+கொழும்பிலிருந்து அவிசாவளை நோக்கி பயணித்த ரயில் ஒன்று புவக்பிட்டிய மற்றும் அவிசாவளை ரயில் நிலையங்களுக்கு இடையில் நேற்றையதினம் மாலை தடம் புரண்டதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, களனிவெளி மார்க்கத்தினூடான ரயில் சேவைகள் கொஸ்கம வரை மட்டுப்படுத்தப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1b4daff7.json)
+
+---
+
+### காவுகொள்ளப்படும் இலங்கையின் கரையோரங்கள் : "Google earth" புலப்படுத்தும் காட்சிகள் !
+
+*2025-09-09 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224593) · `ta`
+
+2006 ஆம் ஆண்டிலிருந்து ஒவ்வொரு வருடமும் சுமார் 25 மீற்றர் நிலப்பகுதி கடலரிப்புக்குள்ளாகி வந்துள்ளது. ஆனால், 2016 மற்றும் 2017ஆம் ஆண்டுகளுக்குப் பின்னர் 60 முதல் 90 மீற்றர் நிலப்பரப்பு ஒவ்வொரு ஆண்டும் கடலரிப்பினால் பறிபோகின்றமையை செய்மதி படங்கள், "Google earth" காட்சிகள் மூலம் அறிய முடிகின்றது.
+
+◼️
+
+[Data](articles/9f54c3c9.json)
+
+---
+
+### Vice President of the Republic of India today
+
+*2025-09-09 08:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்திய-குடியரசு-துணைத்-தலைவர்-தேர்தல்/175-364243) · `ta`
+
+Vice President of India. Voting begins at 10 am and runs till 5 pm.
+
+The ruling BJP. Maharashtra Governor CP Radhakrishnan and Supreme Court Justice Sudarshan Reddy are contesting on behalf of the opposition parties. Voting is taking place this evening.
+
+Jagadeep Tankar, who was in the post of Vice President of the Republic, resigned from his post on July 21. President Draupadimurmu accepted his resignation.
+
+◼️
+
+[Data](articles/f24a4ff5.json)
+
+[Extended Data](ext_articles/f24a4ff5.ext.json)
+
+---
+
+### Three arrested for double murder
 
 *2025-09-09 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214346) · `si`
 
-වෙඩි තබා ද්විත්ව මනුෂ්‍ය ඝාතනයකට සම්බන්ධ සැකකරුවන් තිදෙනෙකු තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Tangalle Criminal Investigation (Bureau) has been arrested by the Tangalle Divisional Criminal Investigation (Bureau) who was shot dead.
 
-2025.06.24  වන දින මිද්දෙනිය පොලිස් වසමේ සමූහ ගොවිපල තේක්කවත්ත පාර ප්‍රදේශයේදී වෙඩිතබා ද්විත්ව මනුෂ්‍ය ඝාතනයක් සිදු කිරීමේ අපරාධය සම්බන්ධයෙන් තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය මඟින් විමර්ශනය කරමින් සිට ඇති අතර ඊයේ (08) විමර්ශන නිලධාරීන්ට ලද තොරතුරකට අනුව ඇඹිලිපිටිය ප්‍රදේශයේදී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+The Thangla Divisional Criminal Investigation Bureau has been investigating the criminal of the Kiddeniya Police Division in the Giddeniya Police Division.
 
-සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම් වලදී පහත සඳහන් ආයුධ හා දේපල සොයාගෙන ඇත.
+The following weapons and property have been found in interrogations from the suspects.
 
-තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+The Tangalle Divisional Criminal Investigation Bureau is conducting further investigations.
 
 ◼️
 
 [Data](articles/c9b74e5f.json)
+
+[Extended Data](ext_articles/c9b74e5f.ext.json)
 
 ---
 
@@ -86,25 +156,51 @@ This demonstration Jaffna. The District Secretariat and the Northern Province Go
 
 ---
 
-### අනියම් සබඳතාවක් පුද්ගලයෙකුට මරු කැඳවයි
+### Three caught up in Middeniya double murder
+
+*2025-09-09 07:58:34* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙණියේ-ද්විත්ව-ඝාතනයට-තිදෙනෙකු-හසු-වේ/11-418364) · `si`
+
+Three residents of the Middeniya Police Division have been arrested by the Tangalle Divisional Investigation Unit yesterday (08) with a number of weapons yesterday (08).
+
+Two magazines have been taken into custody by 18 Magazines and Rs.
+
+The suspects have been involved in drug trafficking and the suspects have been identified as the drug dealers aged 24,25,26.
+
+The suspects were handed over to Middeniya today and they are to be produced before the Walasmulla Magistrate's Court today (09).
+
+◼️
+
+[Data](articles/59f9900a.json)
+
+[Extended Data](ext_articles/59f9900a.ext.json)
+
+---
+
+### Deals a casual relationship
 
 *2025-09-09 07:49:41* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාවක්-පුද්ගලයෙකුට-මරු-කැඳවයි/11-418363) · `si`
 
-තියුණු ආයුධයකින් කපා කොටා ඝාතනය කෙරුණු අයෙකුගේ මළ සිරුරක් ඊයේ (8) රෑ ඇල්පිටිය ගනේගොඩ,ගොළුවාමුල්ල,ඉඹුලපිටිය  පාලු නිවසක තිබී සොයාගත් බව ඇල්පිටිය පොලීසිය කියයි.
+The body of a person who was hacked to death with a sharp weapon was found in a Body of Ganegoda, Imbulapitiya, Imbulapitiya, Imbulapitiya.
 
-මෙසේ සොයා ගැණුනේ ඇල්පිටිය ,ගනේගොඩ,ගොලුවාමුල්ල,ඉඹුලපිටිය පදිංචි තිස්පස් හැවිරිදි පිටුවල කංකානම්ගේ දොන් දුමින්ද අල්විස් නමැත්තෙක්ගේ බවද පොලීසිය කියයි.
+According to the police, Kankanam Duminda Alwis, a resident of Elpitiya, Goluwambulla, Imbulapitiya, Imbulapitiya.
 
-මේ පුද්ගලයා ඝාතනය කළේ යයි කියන සැකකරු ඊයේ(8) රෑ භාරවීමෙන් පසු අත් අඩංගුවට ගත් බවද පොලීසිය කියයි. සැකකරුද ඔහු අතින්  ඝාතනයවු පුද්ගලයා පදිංචි ප්‍රදේශයේම පදිංචි විසිහය හැවිරිදි තරුණයෙක් බවද පොලීසිය කියයි
+Police say the suspect who was assassinated yesterday (8th) after the suspect was arrested by the police said. He was also murdered as a twenty-four year old resident of the area of ​​residents, police said
 
-විවාහකයෙකුවූ  ඝාතනයවූ පුද්ගලයාගේ අනියම් සම්බන්ධතාවයක් මේ ඝාතනයට හේතුව බව මූලික විමර්ශණයේදී අනාවරණයවූ බවද පොලීසිය කියයි.
+The Basic Investigation has revealed that the cause of the murder of a married person was the cause of the killing.
 
-ඝාතනයවූ පුද්ගලයා සහ සැකකරු ඇල්පිටිය ගනේගොඩ,ගොලුවාමුල්ල,ඉඹුලපිටිය එකම ගමේ පදිංචි අසල්වාසීන් දෙදෙනෙකු බවද පොලීසිය කියයි.
+The suspect was assassinated and the suspect is two residents of Goluamamulla, Imbulapitiya, police said.
 
-මොවුන් දෙදෙනා එම ගමේ පාලු නිවසකට පෙරේදා (7) ගොස් මත් පානය කොට ඇති බවත් පසුව සැකකරු විසින් කුරුඳු කපන කැත්තකින් එකට මත් පැන් පානය කළ අසල්වැසියාට පහරදී ඇති බවත් පොලීසිය කියයි.
+The two had been drinking drugs in the village and had been assaulted by the neighborhood who had drank the cinnamon.
 
-...
+The suspect was seriously injured and killed in his head, police said.
+
+The suspect was to be produced before the Elpitiya Courts today (9). The Elpitiya Police are conducting further investigations.
+
+◼️
 
 [Data](articles/b59b9303.json)
+
+[Extended Data](ext_articles/b59b9303.ext.json)
 
 ---
 
@@ -1895,101 +1991,5 @@ Vajira Abeywardena added that the party has decided to work openly and collectiv
 [Data](articles/85862e02.json)
 
 [Extended Data](ext_articles/85862e02.ext.json)
-
----
-
-### Nilanga demos as Acting Nilame on the Dalada Maligawa
-
-*2025-09-08 17:14:24* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-මාළිගාවේ-වැඩ-බලන-නිලමේ-ලෙස-නිලංග-දෑලම-පත්කරයි/11-418361) · `si`
-
-After the end of the historic Sri Dalada Maligawa Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage Pradeep Nilage, Kandy has been appointed to work in the next three months.
-
-The Commissioner General of Buddhist Affairs has been appointed on the recommendations of the Malwathu Asgiriya Textians.
-
-The vote to appoint a new Diyawadana Nilame must be stopped before December 07, and it will probably be held on the supervision of the Commissioner General of Buddhist Affairs at the end of November.
-
-If the former Diyawadana Nilame Nilanga Dela was also informed of this election, he would be his own historic time as the manager of the Diyawadana Nilame in history.
-
-Basnayake Nilame of the Nathawawala Deposit for the election. The Malwatte Asiri Greek has been tradition that Mr. Bandaranaike is also present at the Duminda Bandara of the Kataragama Devalaya.
-
-◼️
-
-[Data](articles/2e415b10.json)
-
-[Extended Data](ext_articles/2e415b10.ext.json)
-
----
-
-### Earthquake in Bhutan
-
-*2025-09-08 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/224553) · `ta`
-
-The earthquake in the 2.8 Ricker was the second time the earthquake hit the earthquake today (8).
-
-◼️
-
-[Data](articles/ce577b2a.json)
-
-[Extended Data](ext_articles/ce577b2a.ext.json)
-
----
-
-### New Grid of Sampur builds a substation
-
-*2025-09-08 17:10:09* · [`adalk`](https://www.ada.lk/breaking_news/සාම්පූර්හි-නව-ග්‍රිඩ්-උපපොළක්-ඉදිකරයි/11-418360) · `si`
-
-Energy Minister Kumara Jayakody laid the construction of a new Grid substation in Sampur to promote the reliability of the national grid, especially in the renewable energy potential to enhance the reliability of the national grid in the island.
-
-The grid substation is important to ensure that the renewable energy produced in the Eastern Province to coordinate electrical supply and the electricity supply of electricity and the electricity supply of electricity and the province. The 77 transmission route is also included.
-
-Speaking further the government's goal of the Minister to develop all parts of the country and the use of electricity supply to the development of electricity and the ability to renewable energy production, the maximum use of the same ability to achieve development goals. The people advised the people of the area to provide the opportunity to the people of the area and to look into the problems of the people to provide the necessary training workers.
-
-◼️
-
-[Data](articles/796f852c.json)
-
-[Extended Data](ext_articles/796f852c.ext.json)
-
----
-
-### Two race teased suspended
-
-*2025-09-08 17:06:56* · [`adalk`](https://www.ada.lk/breaking_news/රේස්-පැද්ද-බස්-දෙකේ-ගමන්වාර-තාවකාලිකව-අත්හිටුවයි/11-418359) · `si`
-
-From Kandy to Hatton (06) at the same district, the Central Province Road Transport Authority Chairman C Presidential suspended. Priyankara has taken steps.
-
-The Chairman of the Central Province Road Transport Authority has temporarily halted the journey of the two buses on the two buses on the two buses.
-
-Both buses have begun on two occasions on two occasions when the bus drivers were traveling in the Ginigathena area.
-
-The two drivers were immediately informed of the two drivers who were immediately informed of the two drivers from the Hatton Police.
-
-◼️
-
-[Data](articles/98ec082c.json)
-
-[Extended Data](ext_articles/98ec082c.ext.json)
-
----
-
-### How to release ice product containers?
-
-*2025-09-08 17:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-தயாரிப்பு-கொள்கலன்கள்-விடுவிக்கப்பட்டது-எப்படி/175-364222) · `ta`
-
-Opposition Leader Sajith Premadasa has questioned how the two containers of the raw materials used in the manufacture of Crystal Meetamatamine (Ice) found by the security forces were able to leave the port.
-
-Parliamentarian Premadasa said that while the invention is trying to prevent drug trafficking, it also raises many problems that the government needs to clarify.
-
-“The main problem is how these two containers have left the port. International intelligence agencies continue to provide information on drug activities in Sri Lanka and it is important to know if they have warned the country about these specific containers, ”he said.
-
-Premadasa further stressed the need to publish the need to release the containers even after the timeline and trial of the investigation into the date of such intelligence information.
-
-He urged the government to reveal the truth about individuals and companies involved in the process if the containers were truly released.
-
-...
-
-[Data](articles/4f8853dd.json)
-
-[Extended Data](ext_articles/4f8853dd.ext.json)
 
 ---

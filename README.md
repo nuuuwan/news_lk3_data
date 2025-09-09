@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 20:56:05**
+As of **2025-09-09 21:20:39**
 
 ## Newspaper Stats
 
-*Scraped **75,030** Articles*
+*Scraped **75,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,271
+adalk | 7,272
 adaderanalk | 9,613
 tamilmirrorlk | 11,188
 virakesarilk | 12,254
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,140 (86.8%) of 75,030 articles have been extended.
+65,148 (86.8%) of 75,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -303,6 +303,28 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 [Data](articles/b50041aa.json)
 
 [Extended Data](ext_articles/b50041aa.ext.json)
+
+---
+
+### The Select Committee of the President's Title Removal Act
+
+*2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
+
+The claim of the Presidents (Removal) Bill was approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.
+
+The committee met with its Chairman Hon.
+
+Speaking on the Bill, the Ministry of Justice and National Integration (Ministry of Justice), as stated in the Government's policy statement, it is expected to remove non-economic rights of the President and future claims, as stated in the Government's policy statement.
+
+The officials said that they have provided the pensions and privileges of the Sri Lankan government, even after leaving former presidents or their families after they have left their posts, and their families.
+
+Accordingly, the claim of the Presidents will be debated tomorrow as the President of the President today is scheduled to be debated tomorrow (10).
+
+...
+
+[Data](articles/dff575f8.json)
+
+[Extended Data](ext_articles/dff575f8.ext.json)
 
 ---
 
@@ -2025,19 +2047,5 @@ Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after conside
 [Data](articles/e2937fac.json)
 
 [Extended Data](ext_articles/e2937fac.ext.json)
-
----
-
-### Front in Rajitha Court
-
-*2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-நீதிமன்றத்தில்-முன்னிலை/175-364254) · `ta`
-
-Former Minister Rajitha Senaratne, who was interrogated, appeared in court this morning.  R
-
-◼️
-
-[Data](articles/bc113659.json)
-
-[Extended Data](ext_articles/bc113659.ext.json)
 
 ---

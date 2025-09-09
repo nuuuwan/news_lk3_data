@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 19:22:45**
+As of **2025-09-09 16:54:01**
 
 ## Newspaper Stats
 
-*Scraped **75,023** Articles*
+*Scraped **75,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,379 +16,21 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,269
+adalk | 7,266
 adaderanalk | 9,610
-tamilmirrorlk | 11,188
-virakesarilk | 12,254
-adaderanasinhalalk | 13,070
+tamilmirrorlk | 11,180
+virakesarilk | 12,252
+adaderanasinhalalk | 13,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,063 (86.7%) of 75,023 articles have been extended.
+64,981 (86.6%) of 75,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
-
-### திருடன் என்று தவறாக கருதி தாக்கப்பட்ட நபர் தன்னுயிரை மாய்த்தார்
-
-*2025-09-09 19:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருடன்-என்று-தவறாக-கருதி-தாக்கப்பட்ட-நபர்-தன்னுயிரை-மாய்த்தார்/175-364296) · `ta`
-
-ரம்பொடவில் திருடன் என்று கருதி தவறாக தாக்கப்பட்ட நபர் ஒருவர் தன்னுயிரை மாய்த்ததாக செய்து கொண்டதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த மரணம் சமூக ஊடகங்களில் வெளியிடப்பட்ட காணொளியுடன் தொடர்புடையதாக ஊடக பதிவுகள் தெரிவிக்கின்றன.
-
-பொலிஸாரின் கூற்றுப்படி, 34 வயதான அவர் புஸ்ஸல்லாவவில் உள்ள ரோத்ஸ்சைல்ட் தோட்டத்தில் உள்ள தனது வீட்டிற்குச் சென்று கொண்டிருந்தபோது கொழும்பிலிருந்து வெலிமட செல்லும் பேருந்தில் தூங்கிவிட்டார், தவறுதலாக ரம்பொடவில் இறங்கிவிட்டார்.
-
-உதவி கேட்டு அவர் ஒரு குடியிருப்பாளரின் கதவைத் தட்டியதால், அவரை ஒரு கொள்ளையன் என்று அவர்கள் தவறாக நினைத்ததாக பொலிஸார் தெரிவித்தனர்.
-
-மற்ற பகுதிவாசிகள் ஒன்றுகூடி அந்த நபரைத் தாக்கி, ஒரு மரத்தில் கட்டி வைத்து, பின்னர் கொத்மலை பொலிஸாரிடம் ஒப்படைத்தனர்.
-
-பொலிஸ் விசாரணையில் அந்த நபர் நிரபராதி என்று கண்டறியப்பட்டது, மேலும் அவர் ரோத்ஸ்சைல்ட் எஸ்டேட்டில் உள்ள அவரது உறவினர்களிடம் ஒப்படைக்கப்பட்டார்.
-
-இருப்பினும், சம்பவம் நடந்த சில நாட்களுக்குப் பிறகு, ஞாயிற்றுக்கிழமை (செப்டம்பர் 07) அந்த நபர் தற்கொலை செய்து கொண்டதை பொலிஸ் உறுதிப்படுத்தியது.
-
-...
-
-[Data](articles/24a76665.json)
-
----
-
-### නේපාලයේ විරෝධතාකරුවන් එරට ශ්‍රේෂ්ඨාධිකරණයට ගිනිතබයි
-
-*2025-09-09 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214374) · `si`
-
-නේපාලයේ විරෝධතාකරුවන් විසින් අද එරට කත්මණ්ඩු නුවර පිහිටි ශ්‍රේෂ්ඨාධිකරණයටද ගිනි තබා තිබේ.
-
-මීට අමතරව විරෝධතාකරුවන් විසින් පාර්ලිමේන්තු ගොඩනැගිල්ල, අගමැතිවරයාගේ නිවස ඇතුළු ගොඩනැගිලි රැසක් ගිනි තබා විනාශ කළේය.
-
-එවැනි පසුබිමක අගමැති කේ. පී. ෂර්මා ඔලි සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
-
-විරෝධතාකරුවන්ගේ පහරකෑමට ලක්වූ පිරිස අතර ඇමතිවරුන් පවා සිටින බවට සඳහන් වන අතර ගැටුම්වලින් සිදුවූ මරණ ගණන 21 දක්වා ඉහළ ගොස් ඇති බවෙ විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-ඇඳිරිනීතියද නොතකා සිදුකරන විරෝධතා අතරතුර අගමැති ඕලිගේ නිවස, ජනාධිපති රාම් චන්ද්‍ර පෝදල්ගේ නිවස, නේපාලයේ පාලක කොංග්‍රස පක්ෂයේ කාර්යාලය, මෙන්ම තවත් දේශපාලනඥයින් පිරිසකගේ නිවාස ගිනි තබා වනසා ඇති පසුබිමකය.
-
-ඉන් අනතුරුව නේපාල පාර්ලිමේන්තු පරිශ්‍රයට බලහත්කාරයෙන් ඇතුළු වූ පිරිස් එහි ගොඩනැලිවලට ගිනිතබා තිබුණි.
-
-එමෙන්ම නේපාල රජයේ ඇමතිවරුන්ගේ කාර්යාල පිහිටි සින්ග දර්බාර් ගොඩනැගිල්ලද විරෝධතාකරුවන් විසින් ගිනි තබා තිබුණි.
-
-මීට සමගාමීව එරට ගුවන්තොටුපොළ ද තාවකාලිකව වසා දමා ඇති බව වාර්තා වෙයි.
-
-...
-
-[Data](articles/cf909347.json)
-
----
-
-### The first 8 months of the year has gone to work
-
-*2025-09-09 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214373) · `si`
-
-Over two million Sri Lankan workers have left foreign employment during the last 8 months of this year, the Foreign Employment Bureau says.
-
-Accordingly, 212,302 persons have left foreign employment.
-
-Passing of male workers relative in relation to female workers have grown significantly in this period.
-
-Accordingly, the number of male workers have been abroad with 130,252 and 82,050 female workers have gone abroad.
-
-Sri Lankan workers have been increasingly on employers to Kuwait, which is 53,159.
-
-Meanwhile, the Foreign Employment Bureau said that Sri Lankans dictated in the first eight months of 2025 in the first eight months of the year of 2025 in the first eight months of the year.
-
-The amount of remittances taken to Sri Lanka in the first eight months of 2024, the number of labor remittances increased by 19.30 percent in 2025.
-
-During the month of August 2025 alone, US $ 680.80 million has been sent to Sri Lankan workers.
-
-...
-
-[Data](articles/19177346.json)
-
-[Extended Data](ext_articles/19177346.ext.json)
-
----
-
-### Baco Saman and Lahiru holds and interrogate
-
-*2025-09-09 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214372) · `si`
-
-The Western Criminal Investigation Investigation Divisional Investigation Divisional Court has informed the Magistrate's Court that two major underworld gangs and "Orange Lahiru" is being detained under Indonesia.
-
-The police division presented a report on investigations to the Court of Colombo Additional Magistrate Ozhawatha Migara Mahanadu Mahachchi today, Ada Derana reporter said.
-
-The police have informed that the suspects have been detained at the Port of Colombo on detention obtained by the Defense Secretary under the Prevention of Terrorism Act.
-
-The Magistrate also ordered the police to produce the progress of these investigations on December 10, our correspondent.
-
-Meanwhile, the Criminal Investigation Department (CID) has permitted a statement from the wife of Beware Saman.
-
-The court informed the court that the Criminal Investigation Department (CID) has now been recording a statement from the wife of a wife of Baco Saman, who has been remanded.
-
-...
-
-[Data](articles/de5493f9.json)
-
-[Extended Data](ext_articles/de5493f9.ext.json)
-
----
-
-### Sri Lanka and UAE agreement standard passed by 163
-
-*2025-09-09 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214371) · `si`
-
-The agreement between Sri Lanka and the United Arab Emirates was passed in parliament today (09).
-
-The Speaker informed the House that he was approved by a special majority vote.
-
-There was no vote against the proposal and no one refused to vote.
-
-◼️
-
-[Data](articles/70d7bb18.json)
-
-[Extended Data](ext_articles/70d7bb18.ext.json)
-
----
-
-### Does the Presidential Rights Bill target Mahinda?
-
-*2025-09-09 17:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-உரிமை-நீகக்-சட்டமூலம்-மஹிந்தவைக்-குறிவைக்கிறதா/175-364293) · `ta`
-
-Cabinet Media Spokesperson Dr. Nalinda Jayatissa today said that the Bill that revoked the President's rights was not introduced by former President Mahinda Rajapaksa.
-
-At a weekly meeting announcing the Cabinet decisions, he said the bill was draft to cover all former presidents and their spouses.
-
-Responding to the question of whether the date of removal of the former President Rajapakse from the residence, or whether it would be done after the bill, the minister said this.
-
-He said that after the bill was enacted as law, it would come into effect on their respective former presidents.
-
-“We hope that those who have acted as administrative leaders and worked in the Legislature will act according to the law after the bill was enacted by Parliament.
-
-We do not consider the date or time to remove them from their dwellings. We have passed the law. We hope they will act according to law and law, ”he said.
-
-◼️
-
-[Data](articles/99e1e2da.json)
-
-[Extended Data](ext_articles/99e1e2da.ext.json)
-
----
-
-### Minister's explanation on the release of ice container
-
-*2025-09-09 17:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-கொள்கலன்-விடுவிப்பு-குறித்து-அமைச்சர்-விளக்கம்/175-364290) · `ta`
-
-Minister Nalinda Jayadissa said that the two containers related to the production of Crystal Meetamatamine (ICE) have been released through the recognized customs process.
-
-“These containers were tested and released by customs. However, Customs have begun an investigation into potential gaps and irregularities, while the CIT is also investigating the matter. These investigations will determine whether the release of the container is planned in advance, ”he said.
-
-Responding to questions about the allegations involved in the Sri Lanka PA (SLPP), Jayatissa said the party had admitted the claims and had taken immediate action.
-
-"This is why we believe that the party membership of the two persons involved was immediately suspended," he said.
-
-The Minister noted that the SLPP member of Sampath Manamperi, a former local council member, was suspended, accused of having chemicals used in ice production.
-
-...
-
-[Data](articles/01397612.json)
-
-[Extended Data](ext_articles/01397612.ext.json)
-
----
-
-### “Are you afraid of a foreign mechanism?”
-
-*2025-09-09 17:20:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-பொறிமுறைக்கு-உங்களுக்கு-பயமா/175-364289) · `ta`
-
-The government should accept the foreign mechanism if there is no fear of the mind, said K. Koteeswaran, MP of the Sri Lanka Tamil National Alliance (TNA).
-
-He said this while addressing a debate on the mutual agreements between Sri Lanka and the United Arab Emirates in Parliament on Tuesday (09).
-
-The Sri Lankan government's Foreign Minister said that the UN Human Rights Council (UNHRC) was working in the domestic mechanism in the 60th session of the 60th session.. But the Commissioner has stated that the foreign mechanism is the best.
-
-However, we have lost faith in the domestic mechanism. Because every government has claimed the domestic mechanism. The genocide, the intelligence agencies, and its associated politicians will be protected. That is why the resolution should be implemented on the basis of foreign mechanisms in foreign sponsorship.
-
-Why you don't accept foreign mechanism. Are you afraid of this? You do not accept foreign affairs because you are afraid.
-
-...
-
-[Data](articles/db15dff7.json)
-
-[Extended Data](ext_articles/db15dff7.ext.json)
-
----
-
-### "Investment of $ 1 billion in the first year of Anura"
-
-*2025-09-09 17:16:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவின்-முதல்-வருடத்தில்-1-பில்லியன்-டொலர்-முதலீடு-ஈர்ப்பு/175-364288) · `ta`
-
-Minister Bimal Ratnayake says Sri Lanka has attracted US $ 1 billion foreign direct investment (FDI) in the first year of President Anura Kumara Dissanayake.
-
-Minister Ratnayake said that contracts were signed with other countries, considering many sectors, including economics, education and culture.
-
-“From last October to the present day, Sri Lanka has received $ 1.015 billion foreign direct investment. These are not signed or promised agreements, but accomplished funds, ”he said.
-
-Minister Ratnayake added that the facts can be reconsidered with the BOI with the Sri Lanka Investment Board (BOI).
-
-◼️
-
-[Data](articles/65b87c25.json)
-
-[Extended Data](ext_articles/65b87c25.ext.json)
-
----
-
-### Sri Lankans in Nepal
-
-*2025-09-09 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214370) · `si`
-
-The Ministry of Foreign Affairs and Travel, the Ministry of Foreign Affairs and Travel, has announced to remain indoors in the protests in Nepal.
-
-The Ministry said that the Sri Lankan embassies + 977- 9851048653 by phone.
-
-The External Affairs Ministry of External Affairs Tshrah, Tsri Rodrigo, the Sri Lankans in Nepal should always have a water and dry food supply, and those who use drugs should always be kept.
-
-The Ministry of External Affairs and the Ministry of External Affairs and the Ministry of Tourism are observing the current situation in Nepal and connections with the Sri Lankan Multiple Sri Lanka Mission and several community leaders in Nepal.
-
-The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and the diplomatic staff have been reported that there are 22 students in Nepal.
-
-◼️
-
-[Data](articles/b50041aa.json)
-
-[Extended Data](ext_articles/b50041aa.ext.json)
-
----
-
-### நேபாளத்தில் விமான நிலையம் மறு அறிவித்தல் வரை மூடப்பட்டது
-
-*2025-09-09 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/224655) · `ta`
-
-The Tribhuvan International Airport (TIA) has been completely shut down following the rising protests throughout the Nepal capital and Kathmandu Valley.
-
-Sources in Tribhuvan International Airport have been forced to shut down with the ongoing fire and the deteriorating air security conditions in the areas including Goddar.
-
-◼️
-
-[Data](articles/36892369.json)
-
-[Extended Data](ext_articles/36892369.ext.json)
-
----
-
-### "Buy Sarfaras Khan to the test without causing weight": Chris Gayle
-
-*2025-09-09 17:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உடல்-எடையை-காரணம்-காட்டாமல்-சர்ஃபராஸ்-கானை-டெஸ்ட்டுக்கு-கொண்டு-வாங்க-கிறிஸ்-கெய்ல்/44-364286) · `ta`
-
-Chris Gayle, who calls himself a Universe Boss, has recommended himself to take the reserved Sarbaras Khan in the Indian team as the international cricket season is to be started in India as the 2025-26 domestic cricket season begins.
-
-Gautam Gambhir played Sarbaras Khan in five matches in the Border-Kavaskar Trophy series against Australia. When Devadat and Dhruv Jurel got all the opportunity, there were non -cricket reasons for the abolition of a good future Test player Sarbaraz Khan, ie his body weight was placed in front of him and avoided him in the squad.. But body weight is a mask and many have raised doubts that there may be politics and politics. Nowadays, there is no debate about Sarbaras Khan.
-
-...
-
-[Data](articles/d9bf712b.json)
-
-[Extended Data](ext_articles/d9bf712b.ext.json)
-
----
-
-### Electricity tariff Increase - Public Polls
-
-*2025-09-09 17:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-உயர்வு-பொதுமக்கள்-கருத்துக்-கணிப்பு-ஆரம்பம்/175-364284) · `ta`
-
-The Ceylon Electricity Board (CEB) for the last quarter of 2025 has announced that it will get public opinion on the proposed electricity tariff revision.
-
-According to PUCSL, CEB has proposed a 6.8% tariff hike. The Commission has called for the public to submit their comments and proposals by October 7, 2025.
-
-In addition to written submissions, PUCSL will hold nine public consultations sessions in all provinces, thereby giving citizens a chance to present their views.
-
-◼️
-
-[Data](articles/4a4acf9d.json)
-
-[Extended Data](ext_articles/4a4acf9d.ext.json)
-
----
-
-### The President should reclaim the action of closing the hill country Authority
-
-*2025-09-09 17:10:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-அதிகார-சபையை-மூடும்-நடவடிக்கை-குறித்து-ஜனாதிபதி-மீள்பரிசீலனை-செய்ய-வேண்டும்/76-364283) · `ta`
-
-The Upcountry Authority has made various efforts and created. CWC leader Senthil Thondaman has said that the President should reconsider the closure of it.
-
-In the past, the people of the hill country have been living without citizenship for 30 years. When the other community received the state's privileges, the people of the hill country were seen as a neglected community. At that time, the late leader Saumiyamoorthy Thondaman, who carried out many fierce struggles, gave the people the right to the hill country.
-
-For the first time with the efforts of the late leader Saumiyamoorthy Thondaman, the Ministries and Institutions. He was set up by these ministries and institutions to reach the people of the hill country. In the present day, the people of the hill country are developing towards the primary position compared to the people of the hill country.
-
-In 2003, the CWC was put on an end to the issue of citizenship by the late leader Arumugan Thondaman.
-
-...
-
-[Data](articles/a444cd2d.json)
-
-[Extended Data](ext_articles/a444cd2d.ext.json)
-
----
-
-### පොහොට්ටු මන්ත්‍රීගේ සාමාජිකත්වය ඉවත් කිර‍ිම පමණක් ප්‍රමණවත් නෑ
-
-*2025-09-09 16:42:42* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීගේ-සාමාජිකත්වය-ඉවත්-කිර‍ිම-පමණක්-ප්‍රමණවත්-නෑ/11-418386) · `si`
-
-පසුගියදා අත්අඩංගුවට ගත් මත්ද්‍රව්‍යය සම්බන්ධයෙන් පොදුජන පෙරමුණේ මන්ත්‍රීවරයෙකුට චෝදනා එල්ල වී ඇති බවත්, එම මන්ත්‍රීවරයාගේ පක්ෂ සමාජිකත්වය අහෝසි කිරිම පමණක් ප්‍රමාණවත් නොවන බව කැබිනට් මාධ්‍ය ප්‍රකාශක සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-අද (09) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ  බව පැවසීය.
-
-බොහෝ කලක සිට මෙරටතුළ මත්ද්‍රව්‍යය ජාවාරම් සිදු වූ බවත්, මෙම ජාවාරම් නැති කිරීමට නම් ආණ්ඩුවක් සතුව අධිෂ්ඨානයක් තිබිය යුතු බවත් පෙන්වා දුන් අමාත්‍යවරයා,  මේ අත්අඩංගුවට ගැනීම් සියල්ල සිදු වන්නේ රාජ්‍ය යාන්ත්‍රණයෙන් බව සඳහන් කළේය.
-
-"අයිස් මත්ද්‍රව්‍යය නිෂ්පාදනයට  අදාළ ද්‍රව්‍යය සහ ආයුධ සම්බන්ධයෙන් මිද්දෙණියේදි පොදුජන පෙරමුණට අයත් පුද්ගලයන් දෙදෙනෙක් ට  චෝදනා එල්ල වී තිබෙනවා. මේ සිදුවීමේදී එම පුද්ගලයින්ගේ පක්ෂ සමාජිකත්වය අහෝසි කරන්න කටයුතු කළා. නමුත් එය පමණක්  ප්‍රමණවත් නැහැ. මන්ත්‍රීවරයෙක් ඝාතනය සම්බන්ධයෙන් සැකකරුවෙක් ලෙසද ඔහුව හඳුනාගෙන තිබෙනවා.
-
-...
-
-[Data](articles/c501c057.json)
-
----
-
-### Capture 4 hand grenades in Eravur
-
-*2025-09-09 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224645) · `ta`
-
-The Army Intelligence Unit has recovered 4 handguns in the wake of the excavation work with the police on Tuesday (09) in search of weapons buried in the old school land in the backyard of Batticaloa.
-
-According to information received by the Polonnaruwa Military Intelligence Unit, a court order was obtained from the excavation of the former Ahmed Pareed Vidyalaya at the Eravur Ottaballivasal Cross Road.
-
-The excavation work was carried out in the area today, led by Special Task Force and Military Intelligence Unit, led by Prasad Liyanage, the officer in charge of the Eravur Police Station.
-
-The JR variety has recovered 4 handguns as it was packed and buried in the plastic bucket.. Police have found that the bucket of bucket juice mixed with a packed bucket and the juice mixed in 2012 was safely buried in the land between 2012 and 2020 in 2014.
-
-...
-
-[Data](articles/33c7fd48.json)
-
-[Extended Data](ext_articles/33c7fd48.ext.json)
-
----
-
-### Showers in many parts of the island this night
-
-*2025-09-09 16:35:16* · [`adalk`](https://www.ada.lk/breaking_news/අද-රාත්‍රී-දිවයිනේ-බොහෝ-ප්‍රදේශවලට-වැසි/11-418385) · `si`
-
-The Department of Meteorology has issued an announcement for the coming of the island for the next 36 hours.
-
-Showers or thundershowers will occur at several places in the country, the Met Department said.
-
-There are several closes in the Western, Sabaragamuwa and North Western provinces and several closed in the Galle, Matara, Kandy and Nuwara Eliya Districts.
-
-In the Mullaitivu District, Uva, North-central and Eastern Provinces. Showers or thundershowers will occur at times after about 1.00. In some places mm. Heavy rains can occur in more than 50.
-
-◼️
-
-[Data](articles/74769e20.json)
-
-[Extended Data](ext_articles/74769e20.ext.json)
-
----
 
 ### Secured from Sri Lanka Laboratory
 
@@ -1240,28 +882,6 @@ But Murali, who was heartbroken by the video of the villagers that hit him on so
 
 ---
 
-### Paddy cultivation is destroyed by unidentified
-
-*2025-09-09 12:35:03* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-රෝයකින්-වී-වගාව-විනාශ-වෙයි/11-418381) · `si`
-
-The farmers of the Mahabulama area in Anuradhapura have expressed their risk of destroying about two acres of cultivation due to a unidentified disease.
-
-The farmers pointed out that the stalk had come to the standing level, and the farmers pointed out that the stalk trees became white, and the paddy has become a blaze.
-
-Farmers said that mite and a fungal disease or fungal disease, the farmers said they had no effect.
-
-They also said that the Mahawela and Dangasuli areas cultivated under Mahabulamamama tank have begun to destroy more than two,000 acres of paddy fields.
-
-They also say that the government makes a reasonable compensation to obtain reasonable compensation due to the condition of an acre of identified disease.
-
-◼️
-
-[Data](articles/7726dbe6.json)
-
-[Extended Data](ext_articles/7726dbe6.ext.json)
-
----
-
 ### Groundwater in Jaffna
 
 *2025-09-09 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224612) · `ta`
@@ -2017,5 +1637,327 @@ A warrant had been issued for his arrest, following which he was taken into cust
 [Data](articles/54729625.json)
 
 [Extended Data](ext_articles/54729625.ext.json)
+
+---
+
+### Search sir ...
+
+*2025-09-09 10:23:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐயா-என்னாத்த-தேடுறிங்க/62-364250) · `ta`
+
+◼️
+
+[Data](articles/cbf50d13.json)
+
+[Extended Data](ext_articles/cbf50d13.ext.json)
+
+---
+
+### Rajitha was taken to court
+
+*2025-09-09 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214351) · `si`
+
+Former Minister Rajitha Senaratne was brought to the Aluthkade Magistrate's Court this morning (09).
+
+◼️
+
+[Data](articles/795498b0.json)
+
+[Extended Data](ext_articles/795498b0.ext.json)
+
+---
+
+### Be converted
+
+*2025-09-09 10:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/கண்டனமாக-மாறிய-கொண்டம்/62-364249) · `ta`
+
+This cartoon exposes a terrible contradiction in public policy by a simple act of writing and rewriting a word.
+
+On the left, the Ministry of Health writes the word "Condom" in blue letters. Its code is clear: condoms are considered safety tools, focusing on public health campaigns against HIV, STDs and unplanned pregnancy. News Practice and Prevention - Health before judgment.
+
+However, on the right, the Ministry of Education takes the same word and transforms it to "Condemn". With a red pen, the ministry re -writes the story effectively, replacing the security message with moral rejection. The student sitting below is clearly confused - a position for the youth of the community, trapped amidst the signals of companies that need to lead them.
+
+...
+
+[Data](articles/4c03e976.json)
+
+[Extended Data](ext_articles/4c03e976.ext.json)
+
+---
+
+### Be converted
+
+*2025-09-09 10:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பாதுகாப்பிலிருந்து-கண்டனம்-வரை-ஊழியங்களின்-மோதல்/62-364249) · `ta`
+
+This cartoon exposes a terrible contradiction in public policy by a simple act of writing and rewriting a word.
+
+On the left, the Ministry of Health writes the word "Condom" in blue letters. Its code is clear: condoms are considered safety tools, focusing on public health campaigns against HIV, STDs and unplanned pregnancy. News Practice and Prevention - Health before judgment.
+
+However, on the right, the Ministry of Education takes the same word and transforms it to "Condemn". With a red pen, the ministry re -writes the story effectively, replacing the security message with moral rejection. The student sitting below is clearly confused - a position for the youth of the community, trapped amidst the signals of companies that need to lead them.
+
+...
+
+[Data](articles/bc8cf4f6.json)
+
+[Extended Data](ext_articles/bc8cf4f6.ext.json)
+
+---
+
+### A year in prison to the former Prime Minister of Thailand
+
+*2025-09-09 10:17:55* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයේ-හිටපු-අගමැතිට-වසරක-සිරදඬුවමක්/11-418369) · `si`
+
+Former Prime Minister Thailand's Taschin has been sentenced to a year in prison to Shinawattu.
+
+During the time of the Prime Minister, the punishment is sentenced to the charge of misusing his power.
+
+◼️
+
+[Data](articles/bfe1bff3.json)
+
+[Extended Data](ext_articles/bfe1bff3.ext.json)
+
+---
+
+### Speaker Action on President's Rights
+
+*2025-09-09 10:16:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிகளின்-உரித்துரிமைகள்-குறித்து-சபாநாயகர்-அதிரடி/175-364248) · `ta`
+
+The Speaker has announced that the Supreme Court has decided that any rule of the President's Removal (Removal) Bill is not contradictory to any rule of the Constitution and that it can be passed with a simple majority of Parliament.  R
+
+◼️
+
+[Data](articles/18ad37b1.json)
+
+[Extended Data](ext_articles/18ad37b1.ext.json)
+
+---
+
+### Thai court orders ex-PM Thaksin Shinawatra must serve one year in jail
+
+*2025-09-09 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112311/thai-court-orders-ex-pm-thaksin-shinawatra-must-serve-one-year-in-jail) · `en`
+
+Thailand’s Supreme Court on Tuesday ruled former prime minister Thaksin Shinawatra must serve one year in jail because his detention in a VIP wing of a hospital in lieu of prison was unlawful, in another major blow for a powerful family that has dominated politics for two decades.
+
+The judges said Thaksin did not have severe illness and his hospitalisation could not be counted as time served, adding the responsibility did not solely lie with the doctors and that the polarising billionaire intentionally prolonged his hospital stay.
+
+Thaksin was seen at the court removing his jacket and getting into a corrections department van.
+
+In a statement on Facebook, the tycoon said he accepted the verdict and would stay strong.
+
+“Today, I may no longer have freedom, but have freedom of thought to create benefit for the country and people,” Thaksin said.
+
+...
+
+[Data](articles/533975a1.json)
+
+[Extended Data](ext_articles/533975a1.ext.json)
+
+---
+
+### Jen Z Struggle Echo: The ban on social media in Nepal withdraws
+
+*2025-09-09 10:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜென்-Z-போராட்டம்-எதிரொலி-நேபாளத்தில்-சமூக-ஊடகங்களின்-மீதான-தடை-வாபஸ்/50-364246) · `ta`
+
+Nepal government's sudden ban on social networking sites for Base Book, YouTube and X. The 200-quarted butt door was injured. Subsequently, the Nepal government has withdrawn the ban.
+
+The Nepal Government has paralyzed 26 social networks that do not register Base Book, YouTube and X. As a result, the youths have been left with no end to the last.
+
+Thousands of youths gathered yesterday at the capital, Kath Manu, demanding the lifting of the ban on social networks and the scandal that has spread to Natil.. Po Rod Duck Carries Trying to enter the barrier that was put out of Nadal Man Rath in New Baneshwar. Nepal's Prime Minister Sharma was burning on the sound of the sound house.
+
+In the meantime, there is a confrontation between the Bow Rod Tuck Car and the Backup Force.. In this severe confrontation, 19 people were alive. The 200-year-old butt door was injured.
+
+...
+
+[Data](articles/e59f3a1a.json)
+
+[Extended Data](ext_articles/e59f3a1a.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields edge up
+
+*2025-09-09 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-239776/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger to the US dollar at 301.88/93 Tuesday, from 301.97/302.02 the previous day, while bond yields edged up slightly, dealers said.
+
+A bond maturing on 01.07.2028 was quoted at 8.95/9.05 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.52/57 percent, up from 9.51/55 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.65/75 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.35/45 percent, up from 10.35/43 percent.
+
+The telegraphic transfer rates for the American dollar was 298.4000 buying, 305.4000 selling; the British pound was 404.0034 buying, and 415.3452 selling, and the euro was 349.2739 buying, 360.4791 selling.
+
+The Colombo Stocks Exchange was trading red; The ASPI was down 0.02 percent, or 3.29 points, at 20,902; the S&P SL20 was up 0.17 percent, or 9.92 points, at 5,945.
+
+Rs 77,000 million Treasury bills are to be issued through an auction on September 10, the central bank announced. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/01645ab5.json)
+
+[Extended Data](ext_articles/01645ab5.ext.json)
+
+---
+
+### Former Prime Minister of Thai Thaksin Schrianaya is a year
+
+*2025-09-09 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214350) · `si`
+
+The Supreme Court of Thailand has been sentenced to one year prison to the Prime Minister of Prime Minister.
+
+◼️
+
+[Data](articles/fb8978af.json)
+
+[Extended Data](ext_articles/fb8978af.ext.json)
+
+---
+
+### Speaker announces SC verdict on Presidents’ Entitlements (Repeal) Bill
+
+*2025-09-09 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112310/speaker-announces-sc-verdict-on-presidents-entitlements-repeal-bill) · `en`
+
+The Speaker of Parliament (Dr.) Jagath Wickramaratne announced today (09) that the Supreme Court has determined that no provision of the Presidents’ Entitlements (Repeal) Bill is inconsistent with any provisions of the Constitution of Sri Lanka.
+
+Accordingly, the Supreme Court held that the bill can be enacted by a simple majority in Parliament, the Speaker said, announcing the court’s determination on the petitions filed against the bill.
+
+Furthermore, the Speaker revealed that the Supreme Court has dismissed the petition filed against this Bill as the petitioner has failed to invoke jurisdiction in accordance with the mandatory provisions of Article 121(1) of the Constitution.
+
+The Supreme Court had previously, on August 25, indicated that it would submit its confidential determination on the constitutionality of the bill—aimed at removing privileges of retired Presidents—to the Speaker of Parliament.
+
+...
+
+[Data](articles/b2dcd4cb.json)
+
+[Extended Data](ext_articles/b2dcd4cb.ext.json)
+
+---
+
+### The removal of former presidents can make a simple majority
+
+*2025-09-09 10:01:23* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරුන්ගේ-හිමිකම්-ඉවත්--කිරීම-සරල-බහුතරයකින්-කළ-හැකියි/11-418368) · `si`
+
+Speaker Medical Minister Wickramaratne informed Parliament today (09) that the Supreme Court has decided not to unuse the former president's claim.
+
+He was told the Supreme Court decision on the relevant Bill, he said.
+
+The Supreme Court has informed the Supreme Court that the Simple majority of Parliament can be passed by the simplest majority of Parliament.
+
+◼️
+
+[Data](articles/37228b28.json)
+
+[Extended Data](ext_articles/37228b28.ext.json)
+
+---
+
+### Drone attacked on the ship of Greta traveler to Gaza
+
+*2025-09-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224597) · `ta`
+
+The ship Global Sumut Plotilla, which sends assistance to Gaza, was attacked by a drone on Tuesday (09) at Tunisia beach.
+
+As part of an attempt to break the Israeli blockade in the Gaza region, the ship has carried out social activists and civilians from 44 countries, including climate -related social activist Greta Tanberg.
+
+UN for the occupied Palestinian territories. Special Rapporteur Francheka Albanis has also gone on the ship.
+
+“Global Sumut Flottilla (GSF) confirms that one of the main vessels called" family ship "carried by the Global Sumuth Flottila Guidance Committee was attacked by drone.
+
+All passengers and employees are safe on the ship carrying the Portuguese flag. The investigation is currently underway. Once more information is available, it will be released immediately, ”the organization issued a statement issued.
+
+◼️
+
+[Data](articles/f737d9b7.json)
+
+[Extended Data](ext_articles/f737d9b7.ext.json)
+
+---
+
+### Supreme Court decision informs the President's Clection (Cancellation) Bill
+
+*2025-09-09 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214349) · `si`
+
+Speaker Medical Wickramaratne said that no arrangement of the Conversation (Cancellation) Bill has not comply with any provision of the Constitution.
+
+The Speaker announced that the Supreme Court today announced that the Supreme Court has decided that it can be enforced with a simple majority of Parliament.
+
+◼️
+
+[Data](articles/216340ea.json)
+
+[Extended Data](ext_articles/216340ea.ext.json)
+
+---
+
+### Supreme court approves stripping ex-Sri Lanka Presidents of their perks
+
+*2025-09-09 09:49:00* · [`economynextcom`](https://economynext.com/supreme-court-approves-stripping-ex-sri-lanka-presidents-of-their-perks-239772/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Supreme Court has approved a bill that will slash benefits given to former President, speaker Jagath  Wickramaratne said.
+
+“The Supreme Court has determined that no provision of the bills is inconsistent with the constitution,” the speaker told parliament.
+
+Court has rejected all the petitions against the bill, he said.
+
+Sri Lanka’s new administration promised to reduce the priviledges given to ex-Presidents.
+
+◼️
+
+[Data](articles/502f3255.json)
+
+[Extended Data](ext_articles/502f3255.ext.json)
+
+---
+
+### Sri Lanka needs thinkers who question, create, and innovate – PM Harini
+
+*2025-09-09 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112309/sri-lanka-needs-thinkers-who-question-create-and-innovate-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya emphasized the importance of nurturing a new generation equipped with creativity, curiosity, and critical thinking, stressing that the Sri Lanka’s future depends on individuals who can question existing knowledge, think differently, and use innovation to address global challenges.
+
+She made these comments during the launch of the national programme to introduce 100 new ‘Young Inventor Clubs’ into the school system, organized by the Ministry of Science and Technology, which was held on Monday (8) at the Auditorium of the Faculty of Medicine, University of Colombo, under the patronage of Prime Minister Dr. Harini Amarasuriya and Minister of Science and Technology Prof. Chishantha Abeysena.
+
+At this event, the official commencement of establishing the School Young Inventor Clubs was symbolically marked by presenting Innovation Tokens to nine schools representing all provinces of the country by the Prime Minister, the PM’s Office said.
+
+...
+
+[Data](articles/44517f4a.json)
+
+[Extended Data](ext_articles/44517f4a.ext.json)
+
+---
+
+### Asian Bowl 2025 - Cricket Series begins today!
+
+*2025-09-09 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224591) · `ta`
+
+The Asian Cup Cricket Council (Asian Bowl) has announced that the Asian Bowl Twenty20 Cricket Tournament will begin today (September 09).
+
+In this Asian Cup Tournament, eight teams are competing under two groups.
+
+At the same time, the team is also in Afghanistan, Bangladesh and Hong Kong.
+
+India, Pakistan, Oman and the United Arab Emirates team are contesting under "A".
+
+◼️
+
+[Data](articles/7dd92d1c.json)
+
+[Extended Data](ext_articles/7dd92d1c.ext.json)
+
+---
+
+### Parliamentary Council begins
+
+*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214347) · `si`
+
+◼️
+
+[Data](articles/37a5f93d.json)
+
+[Extended Data](ext_articles/37a5f93d.ext.json)
 
 ---

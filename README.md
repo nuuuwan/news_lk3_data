@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 20:08:32**
+As of **2025-09-09 21:08:22**
 
 ## Newspaper Stats
 
-*Scraped **75,028** Articles*
+*Scraped **75,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,55 @@ economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,270
+adalk | 7,272
 adaderanalk | 9,613
 tamilmirrorlk | 11,188
 virakesarilk | 12,254
-adaderanasinhalalk | 13,071
+adaderanasinhalalk | 13,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,108 (86.8%) of 75,028 articles have been extended.
+65,147 (86.8%) of 75,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### කාසියේ වාසිය ඇෆ්ගනිස්තානයට
+### Israel attacked to Qatar targeting Hamas leaders
+
+*2025-09-09 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214377) · `si`
+
+Israel has targeted the Hamas leaders and attacked an attack in Qatar.
+
+Hamas official says this attack has targeted the attack targeting their peace talks.
+
+In the meantime, Qatar's embassy in Qatar asked for American citizens to stay in safe places.
+
+The American Embassy in Qatar requests American citizens in Qatar, to remain safe in their places.
+
+US citizens of US citizens are also requested the US embassy from US citizens to observe social media.
+
+◼️
+
+[Data](articles/8cf10eec.json)
+
+[Extended Data](ext_articles/8cf10eec.ext.json)
+
+---
+
+### To Afghanistan to advantage
 
 *2025-09-09 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214375) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලිය එක්සත් අරාබි එමීර් රාජ්‍යයේදී ආරම්භ කරමින් ඇෆ්ගනිස්තාන කණ්ඩායම සහ හොංකොං කණ්ඩායම අතර පැවැත්වෙන පළමු තරගය තව සුළු මොහොතකින් ආරම්භවීමට නියමිත ව තිබේ.
+The first match between the Afghan group and the Hong Kong team will commence in a small moment.
 
 ◼️
 
 [Data](articles/3578ff0e.json)
+
+[Extended Data](ext_articles/3578ff0e.ext.json)
 
 ---
 
@@ -282,6 +306,22 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 
 ---
 
+### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනතට ආංශික අධීක්ෂණ කාරක සභාවෙ අනුමතිය
+
+*2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
+
+ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
+
+ඒ එම කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානත්වයෙන්  අද (09) වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  පැවසුයේ රජයේ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර ඇති පරිදි, රටේ ආර්ථික තත්ත්වයන් සැලකිල්ලට ගෙන  ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  මඟින්, හිටපු ජනාධිපතිවරුන්ගේ සහ අනාගත ජනාධිපතිවරුන් සහ ඔවුන්ගේ පවුල් සඳහා ලබාදෙනු ලබන ආර්ථිකමය නොවන හිමිකම් ඉවත් කිරීමට අපේක්‍ෂා කරනු ලබන බවයි.
+
+...
+
+[Data](articles/dff575f8.json)
+
+---
+
 ### நேபாளத்தில் விமான நிலையம் மறு அறிவித்தல் வரை மூடப்பட்டது
 
 *2025-09-09 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/224655) · `ta`
@@ -349,6 +389,26 @@ In 2003, the CWC was put on an end to the issue of citizenship by the late leade
 [Data](articles/a444cd2d.json)
 
 [Extended Data](ext_articles/a444cd2d.ext.json)
+
+---
+
+### India agree with India to develop Mannar General Hospital
+
+*2025-09-09 17:08:31* · [`adalk`](https://www.ada.lk/breaking_news/මන්නාරම-මහ-රෝහල-දියුණු-කරන්න-ඉන්දියාව-සමග-ගිවිසුම්-ගත-වෙයි/11-418389) · `si`
+
+The Government of India and the Government of India have been signed between the Government of India and the Government of Sri Lanka to provide construction and medical equipment for the Accidental and Medical Equipment for the Mannar District General Hospital.
+
+The above activities took place under the patronage of strengthening bilateral relations between the two countries and the Memorandum of Health and Mass Media.
+
+According to the MoU, the Indian government will spend the project estimated amount of Rs. 600 million and three years of projects.
+
+The Indian government was responding to the project in response to a request made by the Government of Sri Lanka to provide construction and medical equipment to the Mannar District General of Police.
+
+◼️
+
+[Data](articles/4137399f.json)
+
+[Extended Data](ext_articles/4137399f.ext.json)
 
 ---
 
@@ -1981,59 +2041,5 @@ Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after conside
 [Data](articles/e2937fac.json)
 
 [Extended Data](ext_articles/e2937fac.ext.json)
-
----
-
-### Front in Rajitha Court
-
-*2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜித-நீதிமன்றத்தில்-முன்னிலை/175-364254) · `ta`
-
-Former Minister Rajitha Senaratne, who was interrogated, appeared in court this morning.  R
-
-◼️
-
-[Data](articles/bc113659.json)
-
-[Extended Data](ext_articles/bc113659.ext.json)
-
----
-
-### Conditional Bail for Rajitha
-
-*2025-09-09 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவுக்கு-நிபந்தனை-பிணை/175-364254) · `ta`
-
-Former Fisheries Minister Rajitha Senaratne has been released on bail in the alleged use of government funds through the Sand Excavation Scheme at the Kirinda fishing port.
-
-Colombo Chief Magistrate. Bodaragama, Rs.. 50,000 in cash bail and all three bail worth Rs 2 million each. The magistrate also imposed a foreign travel ban on Senaratne.
-
-◼️
-
-[Data](articles/f3202726.json)
-
-[Extended Data](ext_articles/f3202726.ext.json)
-
----
-
-### Former Minister Rajitha Senaratne granted bail
-
-*2025-09-09 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112313/former-minister-rajitha-senaratne-granted-bail) · `en`
-
-Former Minister Rajitha Senaratne has been granted bail after being produced before the Colombo Chief Magistrate’s Court this morning (09).
-
-The Magistrate ordered Senaratne’s release on a cash bail of Rs. 50,000 and two sureties of Rs. 2 million each.
-
-An overseas travel ban was also imposed on the former minister, said Ada Derana reporter.
-
-Colombo Chief Magistrate Asanka S. Bodaragama issued the order after considering the facts presented by officials from the Bribery Commission and the legal representatives of the former Minister.
-
-Former Minister Rajitha Senaratne, who was remanded in custody following his arrest, was produced before the Colombo Chief Magistrate’s Court this morning (09).
-
-Senaratne, who previously appeared before the Colombo Magistrate’s Court on August 29, had been remanded until September 09 in connection with a separate case filed by the Bribery Commission.
-
-...
-
-[Data](articles/68a3ca46.json)
-
-[Extended Data](ext_articles/68a3ca46.ext.json)
 
 ---

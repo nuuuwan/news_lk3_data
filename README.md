@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 14:56:12**
+As of **2025-09-09 16:20:58**
 
 ## Newspaper Stats
 
-*Scraped **74,977** Articles*
+*Scraped **75,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,55 +12,443 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 763
-economynextcom | 4,541
+economynextcom | 4,545
 islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
-adalk | 7,263
-adaderanalk | 9,600
-tamilmirrorlk | 11,176
-virakesarilk | 12,250
-adaderanasinhalalk | 13,060
+adalk | 7,266
+adaderanalk | 9,610
+tamilmirrorlk | 11,180
+virakesarilk | 12,252
+adaderanasinhalalk | 13,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,829 (86.5%) of 74,977 articles have been extended.
+64,943 (86.6%) of 75,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### අම්බලන්ගොඩ වෙඩි තැබීමක්
+### නේපාලයේ රැඳී සිටින ශ්‍රී ලාංකයින් සුරක්ෂිතයි
+
+*2025-09-09 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214369) · `si`
+
+නේපාලයේ රැඳී සිටින ශ්‍රී ලාංකයින් සම්බන්ධයෙන් එරට තානාපති කාර්යාලය අඛණ්ඩව තොරතුරු සොයාබලමින් සිටින බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+
+නේපාලයේ කත්මන්ඩු අගනුවර පැවැත්වෙන විරෝධතා හේතුවෙන් කිසිදු ශ්‍රී ලංකිකයෙකුට කිසිදු හානියක් සිදුවී නොමැති නොමැති බව එරට ශ්‍රී ලංකා තානාපති කාර්යාලය සඳහන් කරයි.
+
+නේපාලයේ සිටින ශ්‍රී ලාංකිකයින්ගෙන් බහුතරයක් ශිෂ්‍ය වීසා මත සිටින බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් පැවසීය.
+
+නේපාලයේ කත්මන්ඩු අගනුවර පැවැත්වෙන විරෝධතා මේ වනවිට ප්‍රචණ්ඩ මුහුණුවරක් ගෙන තිබේ.
+
+එරට වාර්තා සඳහන් කළේ පනවා ඇති ඇඳිරිනීතියද නොතකා සිදුකරන විරෝධතා අතරතුර අගමැති ඕලිගේ නිවස, ජනාධිපති රාම් චන්ද්‍ර පෝදල්ගේ නිවස, නේපාලයේ පාලක කොංග්‍රස පක්ෂයේ කාර්යාලය, මෙන්ම තවත් දේශපාලනඥයින් පිරිසකගේ නිවාස ගිනි තබා ඇති බවය.
+
+ඒ අනුව එරට ගුවන්තොටුපොළද තාවකාලිකව වසා දමා ඇති බව වාර්තා වෙයි.
+
+ඊයේ නේපාලයේ කත්මණ්ඩු අගනුවර පාර්ලිමේන්තුව අබියස විරෝධතා ආරම්භ වූයේ සමාජ මාධ්‍ය ජාලා 26ක් තහනම් කිරීමට රජය ගත් තීන්දුවට එරෙහිවය.
+
+...
+
+[Data](articles/ab092778.json)
+
+---
+
+### වැටලීම් තුනකට අදාළ කල් ඉකුත් වූ භාණ්ඩ මෙට්‍රික් ටොන් 4.5ක් විනාශ කෙරේ
+
+*2025-09-09 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214368) · `si`
+
+වත්තල හා හැඳල ප්‍රදේශවල සිදුකළ වැටලීම් 3කට අදාළව කල් ඉකුත් වූ භාණ්ඩ රැසක් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරීය විසින් විනාශ කර තිබේ.
+
+පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය විසින් වත්තල හා හැඳල ප්‍රදේශවල ව්‍යාපාරික ස්ථාන තුනකින් අත්අඩංගුවට ගත් කල් ඉකුත් වූ කරවල සහ රටඉඳි මෙට්‍රික් ටොන් 4.5කට අධික ප්‍රමාණයක් වැලිසර මහේස්ත්‍රාත් අධිකරණයේ නඩු පැවරීමෙන් මෙලෙස විනාශ කර තිබේ.
+
+එම විනාශ කළ ද්‍රව්‍ය අතරට කල් ඉකුත් වූ රටඉඳි මෙට්‍රික් ටොන් 3.6ක්, කල් ඉකුත් වූ හාල්මැස්සන් මෙට්‍රික් ටොන් 1ක්, කල් ඉකුත් වූ කරවල කිලෝග්‍රෑම් 300ක් ද අයත් බව එම අධිකාරිය පැවසීය.
+
+2003 අංක 9 දරන පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පනත යටතේ නිකුත්කල අංක 1875/38 (15.08.2014) දරන අතිවිශේෂ ගැසට් පත්‍රය  (නියෝග අංක 52 ) උල්ලංඝණය කිරීම සම්බන්ධයෙන් අදාළ වෙළෙඳුන්ට රු. 55,000 ක දඩ මුදලක් පසුගිය 27 වැනිදා වැලිසර මහේස්ත්‍රාත් අධිකරණය මගින් නියම කර තිබුණි.
+
+◼️
+
+[Data](articles/49ff9401.json)
+
+---
+
+### PUCSL prompts public views on 6.8 percent
+
+*2025-09-09 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214367) · `si`
+
+The Public Utilities Commission states that the Ceylon Electricity Board (CEB) has proposed a 6.8 percent increase in electricity tariff for the final quarter of 2025.
+
+The Public Utilities Commission of Sri Lanka has decided to seek public opinion on the amendment proposal.
+
+Accordingly, the Commission states that the Commission can submit its views and suggestions in writing to the Commission.
+
+The Public Utilities Commission says that 9 public consultations will be held covering the provinces covering oral comments.
+
+Oral comment sessions start on the 18th of September.
+
+The Public Utilities Commission says that the written comments and proposals of the public consultation can be submitted along the following roads before October 72025.
+
+The consultation sheet and the proposed proposal can be seen from the link below. https://www.pucsl.gov.lk/prosed-electricity-tariff-revision-2025-sept/
+
+◼️
+
+[Data](articles/a8049dae.json)
+
+[Extended Data](ext_articles/a8049dae.ext.json)
+
+---
+
+### Kathmandu’s Tribhuvan International Airport closed until further notice
+
+*2025-09-09 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112326/kathmandus-tribhuvan-international-airport-closed-until-further-notice) · `en`
+
+Tribhuvan International Airport (TIA) has been fully closed following escalating demonstrations across the Kathmandu Valley.
+
+Following the continuous incidents of fires in areas including Gothatar, coupled with deteriorating aviation security conditions, prompted the closure, according to the TIA sources.
+
+The Nepali Army has been deployed to provide security at the airport.
+
+Both domestic and international flights remain suspended until further notice.
+
+◼️
+
+[Data](articles/39dbec32.json)
+
+---
+
+### Signal boards to the side of elephants to prevent the train train
+
+*2025-09-09 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214366) · `si`
+
+Minister of Environment Dr. Dammotic Application, Civil Aviation and Highways Minister Bim Ratnayake has appointed a special committee of the Parliament with the objective of implementing the immediate solution to the elephants.
+
+As a step, it was also proposed to fix sign-boards with photographs of elephants, for the attention of the train drivers.
+
+Accordingly, the Elephant Rescue Foundation was created by the Elephant Rescue Foundation, which was built with photographs of elephant at the request of the Ministry of Environment.
+
+Minister of Environment Dr. Damikatika, Minister of Environment, Deputy Minister of Environment, Anton Jayakody and Deputy Minister of Civil Aviation and Deputy Minister of Highways were also present.
+
+Recognizing the high-railway measures in the Environment and Natural Research Center provided by the Parliamentary Committee, the Ministry of Civil Aviation and Highways will be held in the next few days.
+
+...
+
+[Data](articles/c3082ada.json)
+
+[Extended Data](ext_articles/c3082ada.ext.json)
+
+---
+
+### Nepal Prime Minister Sharma resigns
+
+*2025-09-09 15:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-பிரதமர்-ஷர்மா-ஒலி-ராஜினாமா/50-364278) · `ta`
+
+Prime Minister Sharma has resigned from the country due to a continuous struggle in Nepal for the past two days.
+
+The Nepal government was protesting against the sudden ban on the Base Book, YouTube and X and the Social Web. In this, a large number of young people participated and chanted slogans against the government. In the wake of the struggle violent, 19 people were killed in a police firing.. The 200-year-old butt door was injured.
+
+In this case, the struggle took place for the second day. Subsequently, it was reported that the Nepal Congress was considering the withdrawal of the support of Sharma's sound government.. Agriculture Minister Ram Nath, President of Nepal Congress, Prime Minister KP. Resigned from his post to condemn the repression of the Sound -led government. Home Minister Ramesh Lekhak resigned from the role of moral responsibility for the government yesterday.
+
+...
+
+[Data](articles/b595a395.json)
+
+[Extended Data](ext_articles/b595a395.ext.json)
+
+---
+
+### Nepal Parliament breached, building set on fire by Gen Z protesters
+
+*2025-09-09 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112325/nepal-parliament-breached-building-set-on-fire-by-gen-z-protesters) · `en`
+
+Minutes before Nepalese Prime Minister KP Sharma Oli resigned from his office, Gen Z protesters broke into Parliament and set fire to one of the buildings on the premises.
+
+Demonstrators also set fire to Oli’s residence in Bhaktapur’s Balkot area and other senior leaders amid the ongoing protests triggered by a since-revoked social media ban.
+
+Visuals showed thousands of protesters storming the Parliament as plumes of grey and black smoke arose in the area.
+
+Even as the building was on fire, thousands of protesters continued to march towards the Parliament, shouting slogans and raising flags in the area, visuals showed.
+
+The demonstrators also entered the Singha Durbar premises, breaking into the area through its western gate. They also reportedly set the gate on fire while forcing their way into the central administrative complex of Nepal.
+
+The Gen Z protesters shouted slogans like “KP Chor, Desh Chhod”, “Take Action Against Corrupt Leaders” across Nepal’s capital city of Kathmandu.
+
+...
+
+[Data](articles/0d740226.json)
+
+---
+
+### Sectoral Oversight Committee on Justice approves Presidents’ Entitlements (Repeal) Bill
+
+*2025-09-09 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112324/sectoral-oversight-committee-on-justice-approves-presidents-entitlements-repeal-bill) · `en`
+
+The Sectoral Oversight Committee on Governance, Justice, and Civil Protection has approved the Presidents’ Entitlements (Repeal) Bill.
+
+◼️
+
+[Data](articles/b8a1c5db.json)
+
+---
+
+### Police warn public on fire hazards of ‘sky lanterns’
+
+*2025-09-09 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112323/police-warn-public-on-fire-hazards-of-sky-lanterns) · `en`
+
+Sri Lanka Police have cautioned the general public regarding the serious risks associated with the indiscriminate use of sky lanterns during festive seasons and special celebrations across the island.
+
+“It has been observed that many individuals release sky lanterns of different sizes, which are propelled into the sky using an open flame. While these lanterns may appear entertaining, they pose a significant fire hazard as they may drift uncontrollably and fall to the ground while still alight,” the Police Media Division said.
+
+Authorities warned that if such lanterns descend onto sensitive or high-risk locations—such as fireworks manufacturing sites, fuel stations, petroleum storage facilities, residential homes, commercial buildings, or crowded public areas—they could ignite destructive fires, causing extensive property damage and potential loss of life.
+
+...
+
+[Data](articles/5fd30bc4.json)
+
+---
+
+### Sri Lanka to lease land for 38 investment projects
+
+*2025-09-09 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-land-for-38-investment-projects-239849/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved leasing land from industrial parks to 38 investment projects, Minister Nalinda Jayatissa said.
+
+“The total investment value to be made by the 38 investors is Rs. 2,548.22 million,” Jayatissa told reporters.
+
+It is expected to generate about 1,559 direct employment opportunities.
+
+The land is to be provided from industrial parks on a lease basis for a maximum period of 35 years, he said.
+
+42 project proposals were recommended by the ‘Regional Industrial Service Committee’, and the Ministry of Industry and Entrepreneurship Development’s Project Evaluation Committee approved the allocation of land for 38 projects.
+
+Land has been allocated in Ampara, Trincomalee, Batticaloa, Kalutara, Minuwangoda, Matugama, Millaniya, Ulapaney, Ratnapura Nalanda, Karandeniya, Bata Atha, Mannar, Galigamuwa, Embilipitiya, Buththala, Dankotuwa, Puttalam, and Aluthapola. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/b57a3ece.json)
+
+[Extended Data](ext_articles/b57a3ece.ext.json)
+
+---
+
+### Sampath Manamperi an ex-cop and suspect in Raviraj murder – Cabinet Spokesman
+
+*2025-09-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112322/sampath-manamperi-an-ex-cop-and-suspect-in-raviraj-murder-cabinet-spokesman-) · `en`
+
+Cabinet Spokesman Dr. Nalinda Jayatissa reveals that Sampath Manamperi, who is accused of concealing two container loads of raw materials allegedly used to manufacture the drug ‘Ice’ and belonging to underworld figure ‘Kehelbaddara Padme’, has been identified as a former police intelligence officer.
+
+Participating in the weekly Cabinet media briefing held today (09), Minister Jayatissa said that the absconding suspect has also been identified as a suspect in the murder of the late Nadarajah Raviraj, a former Tamil National Alliance (TNA) Parliamentarian.
+
+The minister further stated, “This person named Sampath Manamperi has served as a police constable for a while. He has also served as an intelligence officer for a short period. He had also been identified as a suspect in the murder of MP Raviraj.”
+
+Jayatissa stated that he had contested as a candidate of the Sri Lanka Podujana Peramuna (SLPP) despite those allegations and that simply cancelling his party membership would not suffice.
+
+...
+
+[Data](articles/2ce5ddb9.json)
+
+---
+
+### Nepal Prime Minister resigns
+
+*2025-09-09 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/224631) · `ta`
+
+Prime Minister KP Sharma has resigned shortly after the people in the country.
+
+◼️
+
+[Data](articles/f5d4f4bb.json)
+
+[Extended Data](ext_articles/f5d4f4bb.ext.json)
+
+---
+
+### The protesters burned the houses of Parliament, Prime Minister and Minister
+
+*2025-09-09 14:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாராளுமன்றம்-பிரதமர்-அமைச்சரின்-வீடுகளை-போராட்டக்காரர்கள்-கொளுத்தினர்/50-364276) · `ta`
+
+As the struggle against the state in Nepal continues for the second day, tensions have been set on fire due to the burning of the houses of the ministers.
+
+Young people jumped in a protest yesterday, condemning the ban on social networks in Nepal. At the time, 19 people were killed in the shooting of the police. The Prime Minister announced last night's lifting of a ban on social media following the youth struggle. The Home Minister and the Minister of Agriculture resigned in charge of the shooting.
+
+In this case, the struggle against the state is continuing today. Thousands of youths are protesting against the resignation of Prime Minister Sharma. They are involved in the struggle to confront all the ways to Parliament in Kathmandu. There, the police, who were working on the security, threw stones at them.
+
+...
+
+[Data](articles/d2d21a9a.json)
+
+[Extended Data](ext_articles/d2d21a9a.ext.json)
+
+---
+
+### Macron is looking for new Prime Minister
+
+*2025-09-09 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224630) · `ta`
+
+Francois Barro has resigned from the post of Prime Minister as a new political crisis has emerged in France.
+
+In the confidence vote in the country's parliament on Monday (08), he announced his resignation due to inadequate support.
+
+In the confidence vote, 364 voted against Perovi and 194 support.
+
+Baro's budget is not properly welcomed among his allies. It was a disadvantage for him.
+
+It was reported that President Emanuel Macron would accept the resignation of Pearo on Tuesday (09).
+
+Macron has been forced into a confused situation of whom to choose the next prime minister.  Six persons have been the prime minister in the post of Macron's tenure so far. He is currently looking for the seventh person.
+
+The French President's Office has issued a report that Macron will elect the next prime minister in a few days. It is certain that there will be no general election for the post of Prime Minister.
+
+◼️
+
+[Data](articles/eff20b89.json)
+
+[Extended Data](ext_articles/eff20b89.ext.json)
+
+---
+
+### Ambalangoda shooting
+
+*2025-09-09 14:45:17* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩ-වෙඩි-තැබීමක්/11-418384) · `si`
+
+A group of people who were traveling on a three-wheeler on the Ambalangoda have been shot.
+
+The shooting has been made by two persons who came from a motorcycle.
+
+◼️
+
+[Data](articles/ccff392e.json)
+
+[Extended Data](ext_articles/ccff392e.ext.json)
+
+---
+
+### Nepal PM resigns after deadly protests triggered by social media ban
+
+*2025-09-09 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112321/nepal-pm-resigns-after-deadly-protests-triggered-by-social-media-ban) · `en`
+
+Nepal’s prime minister KP Sharma Oli has resigned after violent anti-corruption protests.
+
+The news comes as demonstrators defied an indefinite curfew and clashed with police, a day after 19 people died in violent protests triggered by a social media ban.
+
+Mr Oli’s government lifted the ban after protests turned violent when police fired tear gas and rubber bullets at protesters trying to storm parliament on Monday.
+
+◼️
+
+[Data](articles/061a243e.json)
+
+[Extended Data](ext_articles/061a243e.ext.json)
+
+---
+
+### Vijay's Tour Tour
+
+*2025-09-09 14:35:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-சனி-சுற்றுப்பயணம்/175-364275) · `ta`
+
+Dawga leader Vijay is due to launch his political tour on the 13th. In this case, the list of places where the district is touring has been released.
+
+The leader of the Tawa will be touring Tamil Nadu over the weekend from September 13 to December 20.
+
+௪. Oct. 4 and Oct. 5, 2025 - Coimbatore, Nilgiris, Tirupur, Erode
+
+It is noteworthy that Vijay is particularly planning to meet people on Saturdays.
+
+◼️
+
+[Data](articles/db4c72d9.json)
+
+[Extended Data](ext_articles/db4c72d9.ext.json)
+
+---
+
+### Nepalici Prime Minister resigns in protest
+
+*2025-09-09 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214365) · `si`
+
+Nepal Prime Minister KP, amid the anti-corruption protests throughout the country. Sharma Oly today (09th) has resigned today.
+
+It is reported that his personal home in Bholkour has set fire to the protesters.
+
+◼️
+
+[Data](articles/f97a8b6d.json)
+
+[Extended Data](ext_articles/f97a8b6d.ext.json)
+
+---
+
+### Firing
+
+*2025-09-09 14:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலப்பிட்டியில்-துப்பாக்கி-சூடு/175-364274) · `ta`
+
+Ambalangoda police said that one person was injured and admitted to the hospital on Tuesday afternoon (09) afternoon.
+
+The shooting took place while returning home in a rented three -wheeler in a rented three -wheeler on Tuesday (9).
+
+It is reported that two people on a motorcycle have fired on a man.
+
+◼️
+
+[Data](articles/d75f0563.json)
+
+[Extended Data](ext_articles/d75f0563.ext.json)
+
+---
+
+### Ambalangoda shooting
 
 *2025-09-09 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214363) · `si`
 
-අම්බලන්ගොඩ, හීනටිය මාර්ගයේ ත්‍රීරෝද රථයකින් ගමන් කරමින් සිටි පිරිසක් ඉලක්ක කර වෙඩිතැබීමක් සිදුකර තිබේ.
+A group of people who were traveling on a three-wheeler on the Ambalangoda have been shot.
 
-යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති අතර වෙඩිතැබීමෙන් කිසිවෙකුටත් තුවාල සිදුව නොමැති බව පොලීසිය පවසයි.
+Two unidentified persons who came from a motorcycle have been shot and no one has been injured.
 
 ◼️
 
 [Data](articles/09c6b9aa.json)
 
+[Extended Data](ext_articles/09c6b9aa.ext.json)
+
 ---
 
-### අහස් පහන් කූඩු ගුවන් ගත කිරීමේ ඇති අන්තරාදායක බව ගැන දැනුම්වත් කිරීමක්
+### An informed of the effects of the sky flight nests
 
 *2025-09-09 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214362) · `si`
 
-දිවයිනේ විවිධ ප්‍රදේශයන්හි විශේෂ උත්සව අවස්ථාවන්වලදී ඇතැම් පුද්ගලයන් විනෝදාස්වාදය සඳහා අහස් පහන් කූඩු ගුවන්ගත කිරීම සිදුකරනු ලබන අතර ඒවා අවිචාරවත් ලෙස භාවිතා කිරීමේ ඇති අන්තරාදායක බව පිළිබඳව පොලීසිය මහජනතාව දැනුම්වත් කර තිබේ.
+In many areas of the country, some individuals have funded the sky lamps for entertainment and the police have informed the public on the dangers of discultiation.
 
-දැල්වුණු ගිනි පන්දමක් සහිතව විවිධ ප්‍රමාණයේ පහන් කූඩු ගුවන් ගත කිරීම සිදුකරනු ලබන අතර, මෙම පහන් කූඩු ඇතැම් අවස්ථාවලදී පොළොවට පතිත වී ගිනිගෙන විනාශ වීමේ අවධානමක් ඇති බව පොලීසිය පෙන්වා දෙයි.
+The police pointed out that there are some sizes of lanterns with a flaxed fire.
 
-මෙවන් තත්ත්වයක් මත ගිනිකෙළි කර්මාන්ත ශාලා, ඉන්ධන පිරවුම්හල්, ඉන්ධන ගබඩා කර ඇති ස්ථාන, නිවාස හා ගොඩනැගිලි ආදිය මතට මෙම අහස් පහන් කූඩු ගිනිගෙන පතිත වුවහොත් අදාළ ස්ථානයන්ට මෙන්ම ජීවිතවලට ද හානි සිදුවිය හැකි බව පොලීසිය පවසයි.
+According to such a situation, if the skies are on fireworks, filling stations, fuel stations, houses, houses, houses, houses, houses, police said.
 
-කොළඹ නගරයේ ගාලු මුවදොර පිටියේද මෙසේ පහන් කූඩු ගුවන් ගත කිරීම නිරීක්ෂණය කර ඇති අතර මෙවැනි අහස් පහන් කූඩු යම් හෙයකින් ගිනි ගෙන නගරය ආශ්‍රිත විශේෂ මර්මස්ථානයකට හෝ මිනිසුන් පදිංචි නිවාස, මහල් නිවාස මත පතිතව යම් කිසි ආකාරයකට ගිනි ගැනීමක් සිදුවුවහොත් විශාල ජීවිත හා දේපළ හානි ඇති වීමේ වැඩි ඉඩකඩක් පවතින බව පොලීසිය පෙන්වා දෙයි.
+The launch is also observed in the Galle Face Light of the Galle Face Ground, which has a fire in some of the lamps and a fire in a large number of lives, apartments, or residents.
 
-...
+According to the police, it is capable of preventing property and lives to prevent a method of pre-lifesting areas on the air lamps and risky cages.
+
+Therefore, the Sri Lankan police calls on the public to act in a viable and responsibility when the skills are being carried out by the air lamps.
+
+◼️
 
 [Data](articles/3e9d2a0e.json)
+
+[Extended Data](ext_articles/3e9d2a0e.ext.json)
+
+---
+
+### Shooting incident reported in Ambalangoda
+
+*2025-09-09 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112320/shooting-incident-reported-in-ambalangoda) · `en`
+
+Two individuals on a motorcycle have reportedly opened fire at several persons travelling in a three-wheeler on Heenatiya Road in Ambalangoda.
+
+However, no casualties or injuries were reported in the incident, police said.
+
+◼️
+
+[Data](articles/f8c535e5.json)
+
+[Extended Data](ext_articles/f8c535e5.ext.json)
 
 ---
 
@@ -115,6 +503,28 @@ Accordingly, the Afghan group and the Hong Kong team are scheduled to compete as
 [Data](articles/75b3d536.json)
 
 [Extended Data](ext_articles/75b3d536.ext.json)
+
+---
+
+### France’s Macron seeks new prime minister after government’s collapse
+
+*2025-09-09 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112319/frances-macron-seeks-new-prime-minister-after-governments-collapse) · `en`
+
+French President Emmanuel Macron is seeking his fifth prime minister in less than two years after opposition parties united to kick out centre-right Prime Minister Francois Bayrou over his unpopular plans for budget tightening.
+
+Bayrou, handed a 364-194 defeat in a parliamentary confidence vote on Monday, will officially hand in his resignation to Macron during Tuesday.
+
+Whoever Macron picks to succeed him will face the near impossible task of uniting parliament and finding ways to get a budget for next year adopted.
+
+Defence Minister Sebastien Lecornu’s name was among those circulating, with other options being to pick someone from the centre-left, or a technocrat.
+
+There are no rules governing who Macron should choose, or how fast. Macron, 47 and in office since 2017, will appoint his new prime minister in the next few days, his office said on Monday.
+
+...
+
+[Data](articles/5d68a5fd.json)
+
+[Extended Data](ext_articles/5d68a5fd.ext.json)
 
 ---
 
@@ -174,6 +584,50 @@ The Speaker also submitted the Supreme Court on the Bill today (09). The Supreme
 
 ---
 
+### Sri Lanka cabinet clears 2026 budget bill
+
+*2025-09-09 13:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-2026-budget-bill-239820/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the publication of the Appropriation Bill for 2026, Minister Nalinda Jayatissa said.
+
+The Appropriation Bill was cleared by the Attorney General, he said.
+
+The Appropriation Bill sets out of the allocation of funds for each ministry, and its tabling in the parliament is considered the first reading of the budget.
+
+The Second Reading is the presentation of the formal budget by the Finance Minister in parliament with plans to close the budget deficit if any. (Colombo/Sept09/2025)
+
+◼️
+
+[Data](articles/69065570.json)
+
+[Extended Data](ext_articles/69065570.ext.json)
+
+---
+
+### Sri Lanka media personnel went to Israel on private tour, no gov involvement: Minister
+
+*2025-09-09 13:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-media-personnel-went-to-israel-on-private-tour-no-gov-involvement-minister-239813/) · `en`
+
+ECONOMYNEXT – A group of Sri Lankan media personnel currently visiting Israel on a tour sponsored by the Israeli government are traveling privately, with no involvement from the Sri Lankan government, Media Minister Nalinda Jayatissa said.
+
+“They are on a private tour, there is no government involvement,” Jayatissa told reporters who questioned him about allowing journalists to go to Israel when it is accused of killing over 270 journalists.
+
+“Anyone is free to go to Israel, there is no ban on visiting,” he said adding, “We can’t obstruct this.”
+
+“You can ask your colleagues what they think about it when they return. They have applied for leave and gone,” Jayatissa said, dodging questions on what the government’s stance on the matter was.
+
+The Israeli Embassy in India had coordinated the visit, he said.
+
+The group of 16 media personnel include 2 from the state-owned TV channel Rupavahini.
+
+...
+
+[Data](articles/a96da3ab.json)
+
+[Extended Data](ext_articles/a96da3ab.ext.json)
+
+---
+
 ### President offer Cancellation Bill; Tomorrow Debate
 
 *2025-09-09 13:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சலுகை-ரத்து-சட்டமூலம்-நாளை-விவாதம்/175-364267) · `ta`
@@ -191,6 +645,26 @@ The Supreme Court has ruled that the President's Rights Bill, which eliminate so
 [Data](articles/16fc2647.json)
 
 [Extended Data](ext_articles/16fc2647.ext.json)
+
+---
+
+### Cabinet approval to present 2026 Appropriation Bill to Parliament
+
+*2025-09-09 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112318/cabinet-approval-to-present-2026-appropriation-bill-to-parliament) · `en`
+
+The Cabinet of Ministers has granted approval for the submission of the Appropriation Bill for the 2026 financial tear to the Parliament.
+
+Earlier, at the Cabinet meeting held on July 01, the Cabinet had approved the drafting of the Appropriation Bill.
+
+The Bill, prepared by the Legal Draftsman, has since received clearance from the Attorney General.
+
+Accordingly, the Cabinet also approved the President’s proposal to publish the Bill in the Government Gazette prior to its submission to Parliament for approval.
+
+◼️
+
+[Data](articles/02089f4a.json)
+
+[Extended Data](ext_articles/02089f4a.ext.json)
 
 ---
 
@@ -228,6 +702,22 @@ The Parliament of Sri Lanka has made this informed this, that this has been deci
 
 ---
 
+### Second reading debate on Presidents’ Entitlements (Repeal) Bill tomorrow
+
+*2025-09-09 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112317/second-reading-debate-on-presidents-entitlements-repeal-bill-tomorrow) · `en`
+
+The Communications Department of the Sri Lanka Parliament announced that the Parliamentary Affairs Committee has decided to hold the debate on the Second Reading of the Presidents’ Entitlements (Repeal) Bill tomorrow (September 10).
+
+Accordingly, the Second Reading debate on the Presidents’ Entitlements (Repeal) Bill will be held tomorrow (10) from 11.30 a.m. to 3.30 p.m, it said.
+
+◼️
+
+[Data](articles/9b5edaab.json)
+
+[Extended Data](ext_articles/9b5edaab.ext.json)
+
+---
+
 ### Nepal's Prime Minister KP. Struggle to resign Sharma sound
 
 *2025-09-09 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224614) · `ta`
@@ -251,6 +741,32 @@ International media reports that the families of ministers are enjoying the luxu
 [Data](articles/131117f0.json)
 
 [Extended Data](ext_articles/131117f0.ext.json)
+
+---
+
+### Sri Lanka shifts school book printing to private sector to cut costs: Minister
+
+*2025-09-09 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-shifts-school-book-printing-to-private-sector-to-cut-costs-minister-239799/) · `en`
+
+ECONOMYNEXT – Sri Lanka has awarded 60 percent of its school textbooks and modules printing requirement to 29 private companies, since the government printer is not cost effective, Minister Nalinda Jayatissa said.
+
+“The state printing organizations do not offer market competitive rates,” Jayatissa told reporters.
+
+“They have been overstaffed by previous governments, and staff have been given various incentive schemes over the years. This increases their cost of production and they can’t compete with private companies. Printing outside is cheaper for the government.
+
+“The state organizations will be printing 40 percent of the requirement.”
+
+Another 27.12 million copies of 366 types of textbooks/modules need to be printed, he said.
+
+“25.49 million copies of 362 relevant textbooks/modules will be printed by these 29 institutions at a cost of 3,491.47 million rupees.
+
+“Whether the SPC or private companies print them, the treasury pays for it.” (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/7d717b78.json)
+
+[Extended Data](ext_articles/7d717b78.ext.json)
 
 ---
 
@@ -695,6 +1211,52 @@ Taksin Shinawatra has sentenced him to one year in prison for his six months of 
 [Data](articles/49d69e53.json)
 
 [Extended Data](ext_articles/49d69e53.ext.json)
+
+---
+
+### Low cultivation for chena cultivation
+
+*2025-09-09 11:11:11* · [`adalk`](https://www.ada.lk/breaking_news/හේන්-වගාවට-ලාතුගල-රක්ෂිතය-වනසලා/11-418373) · `si`
+
+It is reported that the villagers are destroyed by the villagers in the Great cultivation of the Ampara Sanctuary in Ampara Dautala Reserve in the Ampara Saraya Divisional Secretariat.
+
+Accordingly, the Wildlife Site Defense Office has launched an operation in this reserve. Wildlife officials have fled the area, and one person has been arrested by wildlife officials to arrest.
+
+The security officers of the Ampara Wildlife Office are mentioned in the Ampara Wildlife Office that the forest reserve belongs to the Wildlife Zone.
+
+The government has given the opportunity to live in chena and cultivating them before the forests of the area.
+
+The Eastern Wildlife Assistant in announced this question, said.
+
+A team of Special Wildlife officials has been deployed in Ampara South, a group of special wildlife officials to the protection of the crisis. They are arrested and produced before courts.
+
+Visites inquiry say that they were siunded only only previously cultivated chena.
+
+...
+
+[Data](articles/bb59c71a.json)
+
+[Extended Data](ext_articles/bb59c71a.ext.json)
+
+---
+
+### Change the original format and modapo. Unregistered Bowser owner and driver sued
+
+*2025-09-09 11:04:27* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘතිය-වෙනස්-කර-මෝ-ර-ප්‍ර--දෙපාර්තමේන්තුවේ-ලියාපදිංචි-නොකළ බවුසර්-රථ-හිමිකරුට-හා-රියදුරුට-නඩු/11-418372) · `si`
+
+Nuwara Eliya Chief Motor Jaliya Bandara said that the Veton Magistrate's traffic official office was instructed to take legal action against the Bowser of the Motor Traffic and the owner.
+
+A three-wheeler in Hatton Colombo main road, a three-wheeler in Hatton Colombo main road, was seriously injured in a three-wheeler in Hatton Colombo main road to the Kotagala. The driver of the Balazer's vehicle was arrested by the Veton Police and the bowsers were taken into police custody after admission to the Watawala Regional Hospital.
+
+The bowser of the police custody was inspected by the Testing of the Motor Inspection of the Department of Motor Traffic.
+
+The owners of the lorry are consistently inspected by the vehicle department as a fuel traffic bowser.
+
+...
+
+[Data](articles/c5774965.json)
+
+[Extended Data](ext_articles/c5774965.ext.json)
 
 ---
 
@@ -1375,561 +1937,5 @@ India, Pakistan, Oman and the United Arab Emirates team are contesting under "A"
 [Data](articles/37a5f93d.json)
 
 [Extended Data](ext_articles/37a5f93d.ext.json)
-
----
-
-### The social media ban on Nepal removed after protests
-
-*2025-09-09 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214348) · `si`
-
-The Government of Nepal has decided to remove the social media ban with the death of 19 people from the protest against the protest against the social media ban.
-
-The Nepal Government of Nepal recently banned the implementation of the implementation of Nepal for 26 social media stage, including Facebook and Youtube, and a large number of protests in protest.
-
-During these objections, protesters were included in protesters, the parliamentary building of the clanis building and 19 people were killed and 100 others were injured in the clashes between the police and protesters.
-
-As a result of this, the Nepal government has decided to remove the ban on the social media ban.
-
-Communications and Information Minister Prabhavi Surabhag Gungung has said that the Cabinet has decided to remove the ban on the social media ban on this matter.
-
-◼️
-
-[Data](articles/f47d6a2f.json)
-
-[Extended Data](ext_articles/f47d6a2f.ext.json)
-
----
-
-### Removal
-
-*2025-09-09 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/224590) · `ta`
-
-International media reports that social media ban has been lifted due to clashes between protesters and police in Nepal.
-
-Thousands of young people entered the parliamentary building in Kathmandu, Nepal's capital, and demanded the government to remove the ban on 26 social media sites, including Facebook and YouTube.
-
-A decision has been taken to remove the ban after the Emergency Cabinet meeting last night to address the demands of General Iats.
-
-The media reports that the Minister of Communications and Information Prithvi Subba Gurung has commented on this.
-
-More than 100 people were injured in protests in the capital of Nepal and in the cities of the capital.
-
-◼️
-
-[Data](articles/775d4318.json)
-
-[Extended Data](ext_articles/775d4318.ext.json)
-
----
-
-### 10 killed
-
-*2025-09-09 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224589) · `ta`
-
-International media reports that about 10 people have been killed in a freight train crash in a double -tier bus in Mexico.
-
-It is reported that the police authorities are carrying out investigations into the incident.
-
-◼️
-
-[Data](articles/d952664a.json)
-
-[Extended Data](ext_articles/d952664a.ext.json)
-
----
-
-### Tourist arrivals exceed 16 lakhs
-
-*2025-09-09 09:19:35* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-16-ඉක්මවයි/11-418367) · `si`
-
-මේ වසරේ ජනවාරි 01 දා සිට සැප්තැම්බර් 07 දා තෙක් ගතවූ කාලසීමාව තුළ ශ්‍රී ලංකාවට සංචාරකයන් 1604018ක් පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය කියයි. 37 495 tourists had arrived in Sri Lanka only during the first week of September.
-
-◼️
-
-[Data](articles/081df021.json)
-
-[Extended Data](ext_articles/081df021.ext.json)
-
----
-
-### More than 1,800 people die in road accidents so far
-
-*2025-09-09 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224588) · `ta`
-
-Thousands of 757 road accidents occurred from January 1 to September 4 this year, police said.
-
-The statistics have been released by Deputy Inspector General of Police Indika Habukoda in charge of traffic.
-
-He added that about seven to eight people die daily due to road accidents.
-
-Therefore, Deputy Police Chief Indika Habukoda has said that all the road users, including drivers, motorcycle drivers, pedestrians and passengers, must follow the transport laws.
-
-At the same time, he said that the street procedures should be adopted and the number of accidents should be reduced.
-
-◼️
-
-[Data](articles/838df283.json)
-
-[Extended Data](ext_articles/838df283.ext.json)
-
----
-
-### Train services of Kelaniya Religion are limited to Kosama
-
-*2025-09-09 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224587) · `ta`
-
-The train control room has announced that the train services of the Kelaniweli route have been limited to the Kosama Railway Station.
-
-The decision was taken as a train derailed on Monday evening (08) evening at Bhuvakpitiya, Avissawella.
-
-A train traveling from Colombo to Avissawella was derailed yesterday evening between the Puwakpitiya and Avissawella railway stations, the Railway Department said.
-
-Accordingly, the Railway Department said that the train services through the Kelaniweli route have been limited to Kosgama.
-
-◼️
-
-[Data](articles/1b4daff7.json)
-
-[Extended Data](ext_articles/1b4daff7.ext.json)
-
----
-
-### UK deeply concerned by Sri Lanka’s continued use of PTA to ‘restrict fundamental freedoms’
-
-*2025-09-09 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112308/uk-deeply-concerned-by-sri-lankas-continued-use-of-pta-to-restrict-fundamental-freedoms) · `en`
-
-The United Kingdom (UK) has called for “tangible and sustained progress” on human rights and accountability in Sri Lanka while also emphasizing the importance of exhuming and investigating mass grave sites in accordance with international standards.
-
-The UK delivered a statement at the 60th session of the United Nations Human Rights Council (UNHRC), during the Interactive Dialogue on the report of the Office of the High Commissioner for Human Rights (OHCHR) on the human rights situation in Sri Lanka on Monday.
-
-The statement was delivered by the UK’s Human Rights Ambassador, Eleanor Sanders.
-
-In her remarks, Ambassador Sanders thanked UN High Commissioner Volker Türk for his report and recent visit to Sri Lanka, while welcoming the Sri Lankan government’s stated commitments on human rights and accountability.
-
-However, she emphasized the need for “tangible and sustained progress.”
-
-...
-
-[Data](articles/7f6cfd85.json)
-
-[Extended Data](ext_articles/7f6cfd85.ext.json)
-
----
-
-### The love for love that the boundaries of boundaries are not low
-
-*2025-09-09 09:05:01* · [`adalk`](https://www.ada.lk/opinion/ආදරයට-සීමා-මායිම්-උස්-මිටි-පහත්කම්-නැති-බව-ඔප්පු-කරන-ආදර-අන්දරය/2-418365) · `si`
-
-We have reportedly reported information about the Uvuru, which shows how to have a background of the vehicle that is proved to have a background of the prices of prices.
-
-The couple had read about information on information provided by the Dambulla Samurdhi Bank.  The request of the government official has said that we were not concerned about the love of the couple, accordingly, to find information about Dambulla Samurdhi Bank.
-
-B.Ji. Ranjith was thirty-seven years old. That .It 'Mrs. Mrs. Mrs. I. It 's ayaranni.
-
-In the meantime, a wonderful young man who had a wonderful young man in the fair, had been found in the face of the fair.
-
-A wide range of suffering has been expressing the expression of that love, but then the two have begun to love. Ranjith Irawani, a resident of Kandy, has made his wife on his parents' strong reluctance to this day.
-
-...
-
-[Data](articles/abd882a0.json)
-
-[Extended Data](ext_articles/abd882a0.ext.json)
-
----
-
-### The shores of Sri Lanka: "Google Earth" scenes!
-
-*2025-09-09 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/224593) · `ta`
-
-Since 2006, about 25 meters of land has been into seaweed every year. However, after 2016 and 2017, the 60 to 90 meters of landscape can be found every year with the "Google Earth" scenes.
-
-◼️
-
-[Data](articles/9f54c3c9.json)
-
-[Extended Data](ext_articles/9f54c3c9.ext.json)
-
----
-
-### Vice President of the Republic of India today
-
-*2025-09-09 08:45:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இந்திய-குடியரசு-துணைத்-தலைவர்-தேர்தல்/175-364243) · `ta`
-
-Vice President of India. Voting begins at 10 am and runs till 5 pm.
-
-The ruling BJP. Maharashtra Governor CP Radhakrishnan and Supreme Court Justice Sudarshan Reddy are contesting on behalf of the opposition parties. Voting is taking place this evening.
-
-Jagadeep Tankar, who was in the post of Vice President of the Republic, resigned from his post on July 21. President Draupadimurmu accepted his resignation.
-
-◼️
-
-[Data](articles/f24a4ff5.json)
-
-[Extended Data](ext_articles/f24a4ff5.ext.json)
-
----
-
-### Three arrested for double murder
-
-*2025-09-09 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214346) · `si`
-
-Tangalle Criminal Investigation (Bureau) has been arrested by the Tangalle Divisional Criminal Investigation (Bureau) who was shot dead.
-
-The Thangla Divisional Criminal Investigation Bureau has been investigating the criminal of the Kiddeniya Police Division in the Giddeniya Police Division.
-
-The following weapons and property have been found in interrogations from the suspects.
-
-The Tangalle Divisional Criminal Investigation Bureau is conducting further investigations.
-
-◼️
-
-[Data](articles/c9b74e5f.json)
-
-[Extended Data](ext_articles/c9b74e5f.ext.json)
-
----
-
-### Member of the Pradeshiya Sabha
-
-*2025-09-09 08:22:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதேச-சபை-உறுப்பினர்-போதைப்பொருள்-வியாபாரம்/175-364242) · `ta`
-
-Vanni parliamentarian M Jegadeeswaran said that the former Pradeshiya Sabha member of the past government has also been associated with the drug business.
-
-He made this statement during a media briefing held at the Vavuniya District Office of the National People's Power. When he continues to report,
-
-Our activities have been intensified. In this case, we have invented drug plants by arresting the fugitives with the help of the international police and foreign countries and brought to our country.
-
-We are continuously arresting these people by giving full freedom to the police and the intelligence agencies to take legal action against those who engage in such illegal activities.
-
-There are also reports that politicians and politicians in the past were involved during the preliminary investigation into the drug.. Meanwhile, a former Pradeshiya Sabha member of the past government has been associated with the past.. (A)
-
-◼️
-
-[Data](articles/3da4aacb.json)
-
-[Extended Data](ext_articles/3da4aacb.ext.json)
-
----
-
-### Demonstration of Development Officers
-
-*2025-09-09 08:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-உத்தியோகத்தர்கள்-ஆர்ப்பாட்டம்/175-364241) · `ta`
-
-This demonstration Jaffna. The District Secretariat and the Northern Province Governor's Office took place yesterday (08). (A)
-
-◼️
-
-[Data](articles/00d1fc34.json)
-
-[Extended Data](ext_articles/00d1fc34.ext.json)
-
----
-
-### Three caught up in Middeniya double murder
-
-*2025-09-09 07:58:34* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙණියේ-ද්විත්ව-ඝාතනයට-තිදෙනෙකු-හසු-වේ/11-418364) · `si`
-
-Three residents of the Middeniya Police Division have been arrested by the Tangalle Divisional Investigation Unit yesterday (08) with a number of weapons yesterday (08).
-
-Two magazines have been taken into custody by 18 Magazines and Rs.
-
-The suspects have been involved in drug trafficking and the suspects have been identified as the drug dealers aged 24,25,26.
-
-The suspects were handed over to Middeniya today and they are to be produced before the Walasmulla Magistrate's Court today (09).
-
-◼️
-
-[Data](articles/59f9900a.json)
-
-[Extended Data](ext_articles/59f9900a.ext.json)
-
----
-
-### Deals a casual relationship
-
-*2025-09-09 07:49:41* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාවක්-පුද්ගලයෙකුට-මරු-කැඳවයි/11-418363) · `si`
-
-The body of a person who was hacked to death with a sharp weapon was found in a Body of Ganegoda, Imbulapitiya, Imbulapitiya, Imbulapitiya.
-
-According to the police, Kankanam Duminda Alwis, a resident of Elpitiya, Goluwambulla, Imbulapitiya, Imbulapitiya.
-
-Police say the suspect who was assassinated yesterday (8th) after the suspect was arrested by the police said. He was also murdered as a twenty-four year old resident of the area of ​​residents, police said
-
-The Basic Investigation has revealed that the cause of the murder of a married person was the cause of the killing.
-
-The suspect was assassinated and the suspect is two residents of Goluamamulla, Imbulapitiya, police said.
-
-The two had been drinking drugs in the village and had been assaulted by the neighborhood who had drank the cinnamon.
-
-The suspect was seriously injured and killed in his head, police said.
-
-The suspect was to be produced before the Elpitiya Courts today (9). The Elpitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/b59b9303.json)
-
-[Extended Data](ext_articles/b59b9303.ext.json)
-
----
-
-### Demonstration of Development Officers
-
-*2025-09-09 07:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-உத்தியோகத்தர்கள்-ஆர்ப்பாட்டம்/175-364240) · `ta`
-
-This demonstration is Jaffna. The District Secretariat and the Northern Province Governor's Office took place yesterday (08). (A)
-
-◼️
-
-[Data](articles/ea5b68e4.json)
-
-[Extended Data](ext_articles/ea5b68e4.ext.json)
-
----
-
-### Asian Trophy begins today
-
-*2025-09-09 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214345) · `si`
-
-Twenty20 cups will commence today (09).
-
-The first match of the tournament will be between Afghanistan and the Hong Kong team in Abuadabai.
-
-Eight teams will compete in two categories.
-
-Sri Lanka are contesting under the BB and Afghanistan, Bangladesh and Hong Kong are other groups of the group.
-
-The group will compete in the "A" category, India, Pakistan, Oman and the United Arab Emirates.
-
-◼️
-
-[Data](articles/8a141066.json)
-
-[Extended Data](ext_articles/8a141066.ext.json)
-
----
-
-### A statement from the Human Rights Council for Human Rights in Sri Lanka
-
-*2025-09-09 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214344) · `si`
-
-The UK has issued a statement to the 60th session of the United Nations Human Rights Council regarding the human rights situation in Sri Lanka.
-
-It is reported that the relevant statement has been presented by Human Rights Ambassador Eleanor Sanders.
-
-He thanked the Sri Lanka Institute of Sri Lanka and his report on the UN Human Rights Council.
-
-The UK points out that investigations into the recently met mass grave in Sri Lanka and it should be done to international standards.
-
-The statement has also shown that it is concerned about the continuous use of legal use to restrict the prevention of terrorism Act.
-
-The United Nations has encouraged the program of conflict-related sexual violence and says the need to emphasize the need to resolve the issue as a priority.
-
-The UK has further pointed out that the willingness of the willingness to be effective with the Government of Sri Lanka regarding these issues.
-
-...
-
-[Data](articles/1844ac19.json)
-
-[Extended Data](ext_articles/1844ac19.ext.json)
-
----
-
-### Kelani Mark Train Services Victim
-
-*2025-09-09 07:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனிவெளி-மார்க்க-ரயில்-சேவைகள்-பாதிப்பு/175-364239) · `ta`
-
-A train traveling from Colombo to Avissawella has been derailed in the area between Bhuwakpitiya and Avissawel.. (A)
-
-◼️
-
-[Data](articles/0cc0b2f2.json)
-
-[Extended Data](ext_articles/0cc0b2f2.ext.json)
-
----
-
-### Sri Lanka reaffirms commitment to achieving reconciliation at UN Human Rights Council
-
-*2025-09-09 07:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112307/sri-lanka-reaffirms-commitment-to-achieving-reconciliation-at-un-human-rights-council) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath has underlined the commitment and the political will of the new government for transformation in Sri Lanka and to create a new political culture to advance the rights and well-being of all citizens.
-
-The Foreign Minister made these remarks while addressing the 60th Session of the United Nations Human Rights Council (UNHRC) in Geneva, during the Interactive Dialogue (ID) on Sri Lanka yesterday (08).
-
-The Minister highlighted the progress made within a short period through the domestic processes towards building national unity and reconciliation while urging the Council to allow Sri Lanka time and space to achieve this objective.
-
-...
-
-[Data](articles/b16173f4.json)
-
-[Extended Data](ext_articles/b16173f4.ext.json)
-
----
-
-### The report in two days of unsuspecting chemicals into ice raw materials that were caught by three places
-
-*2025-09-09 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214343) · `si`
-
-The Danarakara Drugs Control Board says that the report on the chemicals that will be used to produce ice is used in several areas in several areas.
-
-The Chairman of the Ministry Dr. Indika Wanninayake said that the samples of the respective material had already begun.
-
-Recently, the criminal groups were arrested in Indonesia in Indonesia, a large quantity of transfers were discovered to be used to produce ice hidden in the Middeniya area.
-
-A large haul of such materials were found in the Netolpitiya area in Tangalle yesterday and was found yesterday (08).
-
-The samples of these substances have already been obtained and the Chairman of the Dangered Drugs Board of Governance Dr. Indika Wannanayake said that the investigations are expected to be completed expeditiously.
-
-◼️
-
-[Data](articles/9601dab9.json)
-
-[Extended Data](ext_articles/9601dab9.ext.json)
-
----
-
-### Parliament to meet today to 12 am
-
-*2025-09-09 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214342) · `si`
-
-The Parliament's Secretariat said that the Parliament will meet to the 12th today.
-
-Today, Sri Lanka and the United Arab Emirates have to be adopted.
-
-It should be passed with a special majority of the Parliament and the election will be held at 5 pm this afternoon.
-
-The Second Reading Debate will be held tomorrow (10), the Second Reading Debate will be held at the National Audit Amendment Bill (11).
-
-Meanwhile, it is reported that medical Jagath Wickramaratne is announced by medical Jagath Wickramaratne, a speech on the President's Clearance Cancellation Bill today.
-
-It has been proposed to remove the quarters or monthly allowances paid to former presidents or their widows and filed several petitions.
-
-◼️
-
-[Data](articles/b26f208f.json)
-
-[Extended Data](ext_articles/b26f208f.ext.json)
-
----
-
-### Gaza aid flotilla, carrying Greta Thunberg, struck by drone off Tunisia coast
-
-*2025-09-09 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112306/gaza-aid-flotilla-carrying-greta-thunberg-struck-by-drone-off-tunisia-coast) · `en`
-
-The Global Sumud Flotilla, an aid ship to Gaza was struck by a drone on Tuesday off the coast of Tunisia. The flotilla is carrying activists and civilians from 44 countries, including climate activist Greta Thunberg, as part of an attempt to break the Israeli siege of the Gaza Strip.
-
-Also on board is the UN Special Rapporteur on the Occupied Palestinian Territories Francesca Albanese.
-
-“The Global Sumud Flotilla (GSF) confirms that one of the main boats, known as the “Family Boat” - that was carrying GSF Steering Committee members, was struck by a drone. The boat was under the Portuguese flag and all passengers and crew are safe. An investigation is currently underway and when more information is available it will be released immediately,” reads the official statement issued by the organisation.
-
-...
-
-[Data](articles/40e5e98a.json)
-
-[Extended Data](ext_articles/40e5e98a.ext.json)
-
----
-
-### Showers over 100mm
-
-*2025-09-09 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214340) · `si`
-
-In most parts of the island. Showers or thundershowers will occur.
-
-Department of Meteorology announced, mm. Heavy showers can occur around 100.
-
-Showers will occur in the Western Province and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/3c78885a.json)
-
-[Extended Data](ext_articles/3c78885a.ext.json)
-
----
-
-### Train services on Kelani Valley Line restricted to Kosgama
-
-*2025-09-09 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112305/train-services-on-kelani-valley-line-restricted-to-kosgama) · `en`
-
-Train services along the Kelani Valley Line have been restricted to the Kosgama Railway Station, the Railway Control Room said.
-
-The decision has been taken due to a derailment in Puwakpitiya in Avissawella, last evening (08).
-
-The Department of Railways stated that a train travelling from Colombo to Avissawella derailed between Puwakpitiya and Avissawella railway stations last evening.
-
-Accordingly, train services on the Kelani Valley Line have been restricted to Kosgama.
-
-◼️
-
-[Data](articles/02604a72.json)
-
-[Extended Data](ext_articles/02604a72.ext.json)
-
----
-
-### Over 1,800 killed in road accidents this year
-
-*2025-09-09 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112304/over-1800-killed-in-road-accidents-this-year) · `en`
-
-A total of 1,870 individuals have lost their lives in 1,757 fatal road accidents that occurred between January 1 and September 4 of this year, according to police.
-
-The alarming statistic was revealed by Deputy Inspector General of Police in charge of Traffic, Indika Hapugoda.
-
-DIG Indika Hapugoda noted around seven to eight people are being killed daily due to fatal road accidents.
-
-Therefore, he stated that all road users—including drivers, cyclists, pedestrians, and passengers—must strictly follow traffic laws, adhere to road signs, and act with self-discipline to minimize the number of accidents.
-
-◼️
-
-[Data](articles/11bda949.json)
-
-[Extended Data](ext_articles/11bda949.ext.json)
-
----
-
-### Nepal lifts ban on social media apps after deadly protests
-
-*2025-09-09 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112303/nepal-lifts-ban-on-social-media-apps-after-deadly-protests) · `en`
-
-Nepal’s government has lifted a ban on about two dozen social media platforms after the curb ignited youth-led demonstrations across the country on Monday that saw more than a dozen protesters killed in the capital Kathmandu.
-
-Communications Minister Prithvi Subba Gurung made the announcement after a cabinet meeting following the worst unrest the country has seen in decades.
-
-At least 19 people were killed following a crackdown by the security forces on the protests, which were fueled mainly by anger over corruption. The protests were led by members of Generation Z, the cohort between the ages of 13 and 28.
-
-Popular anger spilled into the streets of the Nepali capital after the government moved last week to block social media platforms including Facebook, WhatsApp and YouTube, in a move that was widely criticized by rights groups as a tool for censorship.
-
-The government had claimed the ban was needed to clamp down on fake news and hate speech and accused the companies of failing to register.
-
-...
-
-[Data](articles/44be2dba.json)
-
-[Extended Data](ext_articles/44be2dba.ext.json)
-
----
-
-### Heavy rainfall expected in parts of the island today
-
-*2025-09-09 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112302/heavy-rainfall-expected-in-parts-of-the-island-today) · `en`
-
-Showers or thundershowers will occur in most parts of the island after 1.00 p.m. today (09), the Department of Meteorology said.
-
-Heavy falls of about 100 mm are likely at some places, the Met. Department added.
-
-A few showers may occur in the Western province and in the Galle and Matara districts.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6158c449.json)
-
-[Extended Data](ext_articles/6158c449.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 13:57:22**
+As of **2025-09-09 14:23:04**
 
 ## Newspaper Stats
 
-*Scraped **74,966** Articles*
+*Scraped **74,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,64 +19,124 @@ dailyftlk | 5,313
 adalk | 7,261
 adaderanalk | 9,600
 tamilmirrorlk | 11,175
-virakesarilk | 12,245
-adaderanasinhalalk | 13,057
+virakesarilk | 12,250
+adaderanasinhalalk | 13,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-64,795 (86.4%) of 74,966 articles have been extended.
+64,817 (86.5%) of 74,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் நாளை விவாதம்
+### සම්පත් මනම්පේරි ගැන කැබිනට්ටුවේදී හෙළිවූ දේ
+
+*2025-09-09 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214361) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සමාජිකයෙකු වූ කෙසෙල්බද්දර පද්මේ නැමැත්තාට අයත් බව කියන මිද්දෙණියේදී හසුවූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීම සඳහා යොදා ගන්නා අමුද්‍රව්‍ය අඩංගු බහාලුම් දෙක සඟවා තැබූ බව කියන සම්පත් මනම්පේරි නම් අය කලක් පොලිස් බුද්ධි අංශයේ සේවය කළ අයෙකු බවට මේ වන විට හඳුනාගෙන ඇති බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+අද (09) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසුවේ ඔහු දෙමළ ජාතික සන්ධානයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වූ රවිරාජ් නඩරාජ් ඝාතන සිද්ධිය සම්බන්දව සැකකරුවෙකු බවටද හඳුනාගෙන ඇති බවත්ය.
+
+...
+
+[Data](articles/d371ca7e.json)
+
+---
+
+### Continuing Violence Struggle: Nepal Prime Minister is ready to flee to China or Thailand?
+
+*2025-09-09 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224622) · `ta`
+
+Nepal government's ban on social media has erupted across the country. So far, 19 of the demonstrators have died. Many more have been injured.
+
+Demonstrators have set fire to the Nepal Prime Minister's residence, the houses of the former and today's ministers, party offices and parliamentary building.
+
+As the situation worsens, Nepal Prime Minister KP. Reports have surfaced that Sharma is preparing to travel to China or Thailand. This news has further enhanced the tense situation in Nepal.
+
+Despite the implementation of the curfew in Nepal, people are engaged in a protest in Parliament and elsewhere in Kathmandu, the capital.
+
+These demonstrations are mainly carried out by "gen Z" generation youth. They are furious with the social media ban and are protesting against the government's lack of solving the long -term problems such as corruption and lack of economic inequality.
+
+...
+
+[Data](articles/cee26268.json)
+
+[Extended Data](ext_articles/cee26268.ext.json)
+
+---
+
+### Cabinet permits for the 2026 allocation Bill
+
+*2025-09-09 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224625) · `ta`
+
+The Cabinet meeting held on the first of July was approved for the preparation of the Allocation Bill for the Fiscal Year 2026.. Cabinet Spokesperson Minister Nalinda Jayatissa said this.
+
+Accordingly, the Attorney General's permission has been granted to the Allocation Bill for the 2026 financial year prepared by the Attorney.
+
+The Cabinet has approved the proposal submitted as the Minister of Finance, Planning and Economic Development as Minister of Finance, Planning and Economic Development to publish the Bill in the Gazette and subsequently submitted parliamentary approval.
+
+◼️
+
+[Data](articles/343ba4d3.json)
+
+[Extended Data](ext_articles/343ba4d3.ext.json)
+
+---
+
+### Tomorrow is a debate on the elimination of former presidents' rights
 
 *2025-09-09 13:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-உரிமைகளை-நீக்கும்-சட்டமூலம்-நாளை-விவாதம்/175-364268) · `ta`
 
-முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் மீது நாளை (10) காலை 11.30 மணி முதல் பிற்பகல் 3.30 மணி வரை விவாதம் நடத்த பாராளுமன்ற விவகாரக் குழு முடிவு செய்துள்ளது.
+The Parliamentary Affairs Committee has decided to hold a debate tomorrow (10) from 11.30 am to 3.30 pm.
 
-சட்டமூலம் குறித்த உயர் நீதிமன்றத்தின் கருத்தையும் சபாநாயகர்  பாராளுமன்றத்தில் இன்று (09) சமர்ப்பித்தார். சட்டமூலத்தில் உள்ள எந்தப் பிரிவும் அரசியலமைப்பிற்கு முரணானது அல்ல என உயர் நீதிமன்றத்தின் வியாக்கியானத்தில் குறிப்பிடப்பட்டுள்ளது.
+The Speaker also submitted the Supreme Court on the Bill today (09). The Supreme Court stated that any section of the bill is not contrary to the Constitution.
 
 ◼️
 
 [Data](articles/da8aff33.json)
 
+[Extended Data](ext_articles/da8aff33.ext.json)
+
 ---
 
-### ஜனாதிபதி சலுகை ரத்து சட்டமூலம்;நாளை விவாதம்
+### President offer Cancellation Bill; Tomorrow Debate
 
 *2025-09-09 13:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சலுகை-ரத்து-சட்டமூலம்-நாளை-விவாதம்/175-364267) · `ta`
 
 ஜனாதிபதியின் உரிமைகளை ரத்து செய்யும் சட்டமூலத்தை நாளை விவாதிக்க பாராளுமன்ற அலுவல்கள் குழு முடிவு செய்துள்ளதாக பாராளுமன்ற தொடர்பாடல் பிரிவு தெரிவித்துள்ளது.
 
-சபாநாயகர் தலைமையில் இன்று நடைபெற்ற அலுவல் குழு கூட்டத்தில் இந்த முடிவு எடுக்கப்பட்டது.
+The decision was taken at a meeting of the Official Committee headed by the Speaker.
 
-அதன்படி, நாளை காலை 11.30 மணி முதல் பிற்பகல் 3.30 மணி வரை விவாதம் நடைபெறும்.
+Accordingly, the debate will be held tomorrow from 11.30 am to 3.30 pm.
 
-முன்னாள் ஜனாதிபதிகளின் சில சலுகைகளை ஒழிக்கும் ஜனாதிபதியின் உரிமைகள் ரத்து சட்டமூலம், அரசியலமைப்பின் படி உள்ளது என்றும், எளிய பெரும்பான்மையால் நிறைவேற்றப்படலாம் என்றும் உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+The Supreme Court has ruled that the President's Rights Bill, which eliminate some of the concessions of the former presidents, is in accordance with the constitution and that it can be passed by a simple majority.
 
 ◼️
 
 [Data](articles/16fc2647.json)
 
+[Extended Data](ext_articles/16fc2647.ext.json)
+
 ---
 
-### මිද්දෙනි​යෙන් සොයා ගත් අයිස් කන්ටේනර් රේගුවෙන් පරික්ෂා කර නිදහස් කරලා තිබෙන්නේ
+### Customs inspected and released the ice containers found in the Middeni
 
 *2025-09-09 13:17:58* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනි​යෙන්-සොයා-ගත්-අයිස්-කන්ටේනර්-රේගුවෙන්-පරික්ෂා-කර-නිදහස්-කරලා-තිබෙන්නේ/11-418382) · `si`
 
-මිද්දෙනියේදී සොයා ගනු ලැබූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනාගාරයේ තිබූ කන්ටේන්ර් 2 පරික්ෂාවට ලක්කර නිදහස් කර ඇති බවට රේගුව ප්‍රකාශ කරන බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Cabinet spokesperson Dr. Nalinda Jayatissa said that the Customs 2 was discovered in the Ice Drugs Factor in Middeniya.
 
-කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී අද(09දා) මාධ්‍යවේදීන් යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+He was responding to a question referred to a question referred to today at a press conference to notice the Cabinet Decision.
 
-“මේ කන්ටේනර් 2 පරික්ෂාවට ලක් කරලා තමයි නිදහස් කරලා තියෙන්නේ රේගුව  කියන විදියට. එතනදී සිදු වුණු අක්‍රමිකතාවන් පිළිබඳ දැන් රේගු දෙපාර්තමේන්තුව පැත්තෙන්ම පරීක්ෂණයක් කරමින් පවතිනවා. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැත්තෙනුත් පරීක්ෂණයක් කරමින් පවතිනවා. ඒ අනුව අපිට බලාගන්න පුළුවන් සැලසුම් සහගතව මේ කන්ටේනර් නිදහස් කළාද, මොකක්ද වුණු දේ ආදී සියලු දේවල් ඒ පරීක්ෂණ  අනුව සිදු කරන්න පුළුවන්. ”
+"This containers inspected as customs. The Department of Customs is now conducting an investigation on irregularities. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැත්තෙනුත් පරීක්ෂණයක් කරමින් පවතිනවා. So we can release these containers with plans to take care of and release all things, including what happened. "
 
 ◼️
 
 [Data](articles/44c25862.json)
+
+[Extended Data](ext_articles/44c25862.ext.json)
 
 ---
 
@@ -93,6 +153,32 @@ The Parliament of Sri Lanka has made this informed this, that this has been deci
 [Data](articles/c623fb22.json)
 
 [Extended Data](ext_articles/c623fb22.ext.json)
+
+---
+
+### Nepal's Prime Minister KP. Struggle to resign Sharma sound
+
+*2025-09-09 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224614) · `ta`
+
+Amidst the ongoing protests in Nepal. The pressure on Sharma's resignation is on the rise.
+
+The media has reported that the protesters are protesting against the dictatorship of the government.
+
+More Prime Minister KP. They are saying they will not abandon the struggle until Sharma resigns.
+
+The social media support struggle by General-Essat has now become a major cause of the anti-corruption struggle.
+
+Prime Minister KP. As Sharma's sound has been withdrawn, the protesters are currently demanding his resignation due to widespread corruption.
+
+In particular, videos and photos of various ministers and daughters are reported to be going viral on social media in Nepal.
+
+International media reports that the families of ministers are enjoying the luxury of luxury, while ordinary Nepal citizens are struggling to live their lives.
+
+◼️
+
+[Data](articles/131117f0.json)
+
+[Extended Data](ext_articles/131117f0.ext.json)
 
 ---
 
@@ -163,6 +249,48 @@ Following is the full announcement of the decisions of the Cabinet meeting held 
 [Data](articles/ff78f887.json)
 
 [Extended Data](ext_articles/ff78f887.ext.json)
+
+---
+
+### A person who was heartbroken by the spread of video on social media:
+
+*2025-09-09 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224617) · `ta`
+
+Murali (34), Murali, 34, who was traveling from Colombo to Welimadai, landed at around 2 am in the early hours of the morning.. When he was looking for a relative, he mistakenly knocked on the door of a house.
+
+The owners of the house, who saw this, made a noise to think of the person as a thief. The villagers who ran away hearing the noise, hit him severely and tied him into the tree. Also, they have taken the incident as a video and uploaded it on social media.
+
+Later, Murali was handed over to the Kotmalai police by the villagers. Investigations revealed that he was innocent. Subsequently, after a medical examination, Murali was released on bail and handed over to his relatives.
+
+But Murali, who was heartbroken by the video of the villagers that hit him on social media, made his speech and made his speech.
+
+...
+
+[Data](articles/07db117b.json)
+
+[Extended Data](ext_articles/07db117b.ext.json)
+
+---
+
+### Groundwater in Jaffna
+
+*2025-09-09 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224612) · `ta`
+
+Ponds must be drained as part of the groundwater protection process in Jaffna: Discussion was held on the creation of a mechanism.
+
+Yall. A discussion was held on Monday (yesterday) under the patronage of Governor of the Northern Province, Na Vedanayagan, on the creation of a mechanism for continuous ponds in the district and the immediate implementation of the examination.
+
+The governor said that the intention of the discussion is to look for the ponds as part of the underground water protection process and the purpose of the discussion is to look for consultations from the department officials.
+
+The discussion was pointed out in the discussion that the mechanism for the pond was being seen as long as it had a long time and that volunteers were bored even if they were to participate in the initiative.
+
+It was also pointed out that the mechanism of permitting is complex, though various funds are ready to implement this without government funds.
+
+...
+
+[Data](articles/1d3164d9.json)
+
+[Extended Data](ext_articles/1d3164d9.ext.json)
 
 ---
 
@@ -568,6 +696,22 @@ Subsequently, the Indian media reports that the Election Commission of India has
 
 ---
 
+### Anger on Hasina, the destruction of Mujib's tradition in Bangladesh
+
+*2025-09-09 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224602) · `ta`
+
+'In February 2025, Hasina delivered a virtual speech in her deportation from India. In it, he called on his supporters to fight against the interim government. Subsequently, a gang associated with the protesters set fire to Mujibur Rahman's residence Tanmonti-32. In Pabna, Sadanga and Rangpur, the protesters damaged the murals of Mujibur Rahman. மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
+
+'Any challenge that arises for the established historical story begins with the formation of young students' minds. The interim government, led by Mohammed Yunus, has taken steps to create a different opinion. Set up a group to edit the existing textbooks. In the words of writer Rakal Raha, who was working on making changes to textbooks, the 'liberation of students from exaggerated and imposed history'
+
+◼️
+
+[Data](articles/04809cb9.json)
+
+[Extended Data](ext_articles/04809cb9.ext.json)
+
+---
+
 ### Risk by buses that decorate like chariot in Nuwara Eliya
 
 *2025-09-09 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224605) · `ta`
@@ -783,22 +927,6 @@ Former Minister Rajitha Senaratne has been remanded to the Anuradhapura Magistra
 [Data](articles/a55d4625.json)
 
 [Extended Data](ext_articles/a55d4625.ext.json)
-
----
-
-### Anger on Hasina, the destruction of Mujib's tradition in Bangladesh
-
-*2025-09-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224602) · `ta`
-
-'In February 2025, Hasina delivered a virtual speech in her deportation from India. In it, he called on his supporters to fight against the interim government. Subsequently, a gang associated with the protesters set fire to Mujibur Rahman's residence Tanmonti-32. In Pabna, Sadanga and Rangpur, the protesters damaged the murals of Mujibur Rahman. மேலும் மாவட்ட அவாமி லீக் அலுவலகங்கள், மற்றும் அவாமி லீக் தலைவர்களுடன் தொடர்புடைய சிலைகள் மற்றும் உருவப்படங்களையும் குறிவைத்து தாக்கினர்'
-
-'Any challenge that arises for the established historical story begins with the formation of young students' minds. The interim government, led by Mohammed Yunus, has taken steps to create a different opinion. Set up a group to edit the existing textbooks. In the words of writer Rakal Raha, who was working on making changes to textbooks, the 'liberation of students from exaggerated and imposed history'
-
-◼️
-
-[Data](articles/04809cb9.json)
-
-[Extended Data](ext_articles/04809cb9.ext.json)
 
 ---
 
@@ -1807,113 +1935,5 @@ Mahesh Katulantha Kesari told Kesari that the information gathered from Somatna 
 [Data](articles/0ca88072.json)
 
 [Extended Data](ext_articles/0ca88072.ext.json)
-
----
-
-### Establish a special judicial system to handle past violation cases - UN Human Rights Council
-
-*2025-09-09 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224583) · `ta`
-
-The United Nations Human Rights Council, Volcker Dark, has pointed out that it has now had the opportunity to manage and recover the wounds that have been formed by past violence and violence in Sri Lanka, and to recover from their punishment and escape the punishment of human rights violations and international humanitarian laws. He urged the Sri Lankan government to establish the judicial system.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the opening session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights Status at 12.15 am (as per Sri Lanka's Time P. 3.45).
-
-...
-
-[Data](articles/f14241c8.json)
-
-[Extended Data](ext_articles/f14241c8.ext.json)
-
----
-
-### The scars of past violations have not yet been healed among victims - pointing to the British -led internet nations
-
-*2025-09-09 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224582) · `ta`
-
-The UN Human Rights Council (UNHRC) has pointed out at the UN Human Rights Council (UNHRC) that the British -led internet countries have pointed out that their scars are still ongoing among victims of illegal killings, torture and sexual violence in Sri Lanka.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the inaugural session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights System at 12.15 pm (Sri Lanka's Time P. 3.45).
-
-UN Human Rights High Commissioner Volkar Durg recently visited Sri Lanka on behalf of Sri Lanka's Internet and Britain, Canada, North Mesitonia, Monrenegro and Malawi during the debate on the report on the subsequent high -ranking high -ranking.
-
-He also pointed out that their scars are still ongoing among victims of the illegal killings, torture and sexual violence that took place in Sri Lanka in the past.
-
-...
-
-[Data](articles/40c0ef2c.json)
-
-[Extended Data](ext_articles/40c0ef2c.ext.json)
-
----
-
-### Rehabilitation in ensuring responsibility for missing
-
-*2025-09-09 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224581) · `ta`
-
-The European Union, which has expressed dissatisfaction at the UN Human Rights Council, has pointed out that the recession is continuing to ensure the responsibility of the past violations, including the disappearances, and the central point of accountability.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday (8). At the inaugural session of the session, the High Commissioner Volkar Dark addressed the content of his written report on Sri Lanka's Human Rights System at 12.15 pm (Sri Lanka's Time P. 3.45).
-
-The EU representative, who commented on Sri Lanka's human rights situation during the debate on the subsequent high -ranking report, pointed out that the government is now in the chance to end the past.. He also urged the government's obligation to end them and ensure accountability.
-
-...
-
-[Data](articles/dbdc821b.json)
-
-[Extended Data](ext_articles/dbdc821b.ext.json)
-
----
-
-### India urges Sri Lanka to hold a meaningful devolution - to hold provincial council elections
-
-*2025-09-09 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224580) · `ta`
-
-India, which urged Sri Lanka to take steps to fully implement the country's constitution, take immediate action to take up provincial council elections, and take steps to make a meaningful powers.
-
-In addition, the meaningful power of power and fair reconciliation, which includes all sides, will lead to sustainable peace
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on Monday. Commenting on the statement on Sri Lanka's report on Sri Lanka at yesterday's opening session, the Indian Representative pointed out that India continued to support the country after the war in Sri Lanka in 2009 and the resettlement of the people after the end of the war in Sri Lanka.
-
-Similarly, when Sri Lanka was facing a major economic crisis in 2022, President Anura Kumara Dissanayake visited India in 2024 and Indian Prime Minister Narendra Modi visited Sri Lanka in April 2025.
-
-...
-
-[Data](articles/0eefc559.json)
-
-[Extended Data](ext_articles/0eefc559.ext.json)
-
----
-
-### Minister Bimal Rathnayake addresses Jeddah Chamber of Commerce
-
-*2025-09-09 03:07:04* · [`dailyftlk`](https://www.ft.lk/business/Minister-Bimal-Rathnayake-addresses-Jeddah-Chamber-of-Commerce/34-781422) · `en`
-
-Transport, Highways, Ports and Civil Aviation Minister Bimal Rathnayake and his delegation were received by the Chairman, Vice-Chairman and the Secretary General of Jeddah Chamber of Commerce, the oldest Chamber in Saudi Arabia, on 4 September at its headquarters in Jeddah.
-
-Addressing the Chamber, Minister Rathnayake highlighted Sri Lanka’s strategic geographic location in the Indian Ocean and presented investment opportunities and proposals in ports, logistics and civil aviation sectors. He also briefed on the recent political transformation and economic stability in the country, underscoring the Government’s commitment to transparency and creating a corruption-free as well as investor-friendly environment.
-
-...
-
-[Data](articles/f6aa9044.json)
-
-[Extended Data](ext_articles/f6aa9044.ext.json)
-
----
-
-### BASL, CSSL to strengthen ties between technology and law
-
-*2025-09-09 03:06:08* · [`dailyftlk`](https://www.ft.lk/business/BASL-CSSL-to-strengthen-ties-between-technology-and-law/34-781421) · `en`
-
-The Bar Association of Sri Lanka (BASL) yesterday said it has signed a Memorandum of Understanding (MoU) to foster collaboration with the Computer Society of Sri Lanka (CSSL).
-
-Under the MoU, CSSL commits to providing technical expertise to support BASL’s IT initiatives, digital transformation, and capacity-building projects. In return, BASL will extend its legal capacity-building creating a mutually beneficial partnership.
-
-This collaboration reflects a shared vision to integrate the strengths of both organisations, ensuring that BASL and CSSL remain responsive to the evolving needs of their members and the nation. Together, they aim to drive innovation, elevate professional standards, and promote growth within Sri Lanka’s ICT and legal communities.
-
-...
-
-[Data](articles/cce9fc5f.json)
-
-[Extended Data](ext_articles/cce9fc5f.ext.json)
 
 ---

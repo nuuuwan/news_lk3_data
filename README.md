@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-09 21:08:22**
+As of **2025-09-09 22:22:36**
 
 ## Newspaper Stats
 
-*Scraped **75,031** Articles*
+*Scraped **75,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,272
 adaderanalk | 9,613
-tamilmirrorlk | 11,188
-virakesarilk | 12,254
-adaderanasinhalalk | 13,072
+tamilmirrorlk | 11,190
+virakesarilk | 12,255
+adaderanasinhalalk | 13,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,147 (86.8%) of 75,031 articles have been extended.
+65,218 (86.9%) of 75,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
+
+### நேபாளத்தின் முன்னாள் பிரதமரின் மனைவி எரித்துக் கொலை
+
+*2025-09-09 22:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முன்னாள்-பிரதமரின்-மனைவி-எரித்துக்-கொலை/50-364305) · `ta`
+
+நேபாளத்தில் முன்னாள் பிரதமரின் மனைவி உயிருடன் எரித்துக் கொல்லப்பட்டதாக அங்குள்ள ஊடகங்கள் தெரிவித்துள்ளன.
+
+நேபாள அரசால் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடையைத் தொடர்ந்து இளைஞர்கள் அணிதிரண்டு தலைநகர் காத்மாண்டுவில் திங்கள்கிழமை(செப். 8) பெரும் போராட்டத்தில் ஈடுபட்டனர். இந்த நிலையில், போராட்டம் கலவரமாக வெடித்தது.
+
+கலவரத்தில் நேபாள முன்னாள் பிரதமர் ஜலாநாத் காநலின் மனைவி ராஜ்யலக்‌ஷ்மி சித்ராகர் செவ்வாய்க்கிழமை(செப். 9) உயிரிழந்தார். காத்மாண்டுவிலுள்ள டல்லு பகுதியில் அவர் வசித்து வந்த வீட்டுக்கு போராட்டக்காரர்கள் தீ வைத்தனர். அதில் வீடு தீக்கிரையானது.
+
+இந்தச் சூழலில், மிகுந்த சிரமத்துக்கிடையே உயிருடன் வெளியே மீட்கப்பட்டு மருத்துவமனையில் அனுமதிக்கப்பட்ட ராஜ்யலக்‌ஷ்மி சிகிச்சை பலனின்றி இன்று உயிரிழந்தார். இந்தத் தகவலை அவர்தம் குடும்பத்துக்கு நெருக்கமான வட்டாரங்கள் தெரிவித்துள்ளதாக அங்குள்ள ஊடகங்கள் தெரிவித்துள்ளன. R
+
+◼️
+
+[Data](articles/a1afa833.json)
+
+---
+
+### Qatar - Israel attack in Doha
+
+*2025-09-09 21:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கத்தார்-தோஹாவில்-இஸ்ரேல்-தாக்குதல்/50-364300) · `ta`
+
+Israel today launched an offensive in Qatar's capital, Doha, targeting Hamas movement leaders.
+
+Israel, which is expanding its military operations throughout the Middle East, is also aimed at Qatar, where the Hamas political base is located.
+
+An Israeli official confirmed to Reuters News that Israel's attack on Hamas leaders in Qatar.
+
+Qatar's al -Jasira Television, citing Hamas, reported that the attack was carried out on the Hamas Gaza ceasefire.. Remble
+
+◼️
+
+[Data](articles/cb76ea4a.json)
+
+[Extended Data](ext_articles/cb76ea4a.ext.json)
+
+---
+
+### Uzman Shinvari registers retirement from cricket
+
+*2025-09-09 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214379) · `si`
+
+The Uzmann Shinvari has decided to retire from Pakistan fast bowler.
+
+It is reported that Uzmann Singura has announced this in a statement.
+
+He represented the Pakistan for about six years and played 17 ODIs and 16 Twenty20 matches.
+
+He has taken 13 wickets and 13 T20 wickets.
+
+Uzman obtained his best bowling talent in his second ODI, and he was able to take five wickets against Sri Lanka.
+
+In 2019, he took 5 wickets again against Sri Lanka in his final ODI.
+
+He was also a member in the Pakistan squad at the 2018 Asian Cup.
+
+◼️
+
+[Data](articles/6a421585.json)
+
+[Extended Data](ext_articles/6a421585.ext.json)
+
+---
 
 ### Israel attacked to Qatar targeting Hamas leaders
 
@@ -306,19 +370,25 @@ The Ministry of External Affairs and Tourism has said that 99 Sri Lankans and th
 
 ---
 
-### ජනාධිපතිවරයන්ගේ හිමිකම් ඉවත් කිරීමේ පනතට ආංශික අධීක්ෂණ කාරක සභාවෙ අනුමතිය
+### The Select Committee of the President's Title Removal Act
 
 *2025-09-09 17:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනතට-ආංශික-අධීක්ෂණ-කාරක-සභාවෙ-අනුමතිය/11-418390) · `si`
 
-ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ දී සලකා බැලීමෙන් පසු අනුමත කරන ලදී.
+The claim of the Presidents (Removal) Bill was approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.
 
-ඒ එම කාරක සභාව එහි සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී  (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ ප්‍රධානත්වයෙන්  අද (09) වනදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+The committee met with its Chairman Hon.
 
-මෙම පනත් කෙටුම්පත සම්බන්ධයෙන්  අදහස් දක්වමින් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශ නිලධාරීහු  පැවසුයේ රජයේ ප්‍රතිපත්ති ප්‍රකාශයේ සඳහන් කර ඇති පරිදි, රටේ ආර්ථික තත්ත්වයන් සැලකිල්ලට ගෙන  ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ) පනත් කෙටුම්පත  මඟින්, හිටපු ජනාධිපතිවරුන්ගේ සහ අනාගත ජනාධිපතිවරුන් සහ ඔවුන්ගේ පවුල් සඳහා ලබාදෙනු ලබන ආර්ථිකමය නොවන හිමිකම් ඉවත් කිරීමට අපේක්‍ෂා කරනු ලබන බවයි.
+Speaking on the Bill, the Ministry of Justice and National Integration (Ministry of Justice), as stated in the Government's policy statement, it is expected to remove non-economic rights of the President and future claims, as stated in the Government's policy statement.
+
+The officials said that they have provided the pensions and privileges of the Sri Lankan government, even after leaving former presidents or their families after they have left their posts, and their families.
+
+Accordingly, the claim of the Presidents will be debated tomorrow as the President of the President today is scheduled to be debated tomorrow (10).
 
 ...
 
 [Data](articles/dff575f8.json)
+
+[Extended Data](ext_articles/dff575f8.ext.json)
 
 ---
 
@@ -605,6 +675,26 @@ Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The o
 [Data](articles/49ff9401.json)
 
 [Extended Data](ext_articles/49ff9401.ext.json)
+
+---
+
+### The government should take steps to provide the people of Kilinochchi district formally - Sridharan
+
+*2025-09-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224638) · `ta`
+
+The government should take steps to issue a proper land affirmation for the people of Kilinochchi district. Jaffna District Parliamentarian S. Siritharan has urged the Sri Lanka Tamil National Alliance (TNA) to provide a solution to the impact of agriculture in the Northern Province.
+
+During the session held in Parliament yesterday, he was speaking to the Minister of Employment, Livestock Resources, Land and Irrigation during the Question Time.
+
+The people in the Kilinochchi district have not been formally given land certificates. If the bonds issued in the Urumaya Project are not rejuvenated by the offices, the rice pledge should be taken.
+
+With more than 40 thousand families in the district, there are more than 12 thousand lands, why not take steps to issue their ghani guarantees? I urge the proper action to be taken accordingly.
+
+...
+
+[Data](articles/99d65460.json)
+
+[Extended Data](ext_articles/99d65460.ext.json)
 
 ---
 
@@ -1967,79 +2057,5 @@ Rajitha was arrested after appearing in court on August 29 following the arrest 
 [Data](articles/ae12f9d2.json)
 
 [Extended Data](ext_articles/ae12f9d2.ext.json)
-
----
-
-### We will no longer buy cinnamon from Sri Lanka
-
-*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இலங்கையில்-இருந்து-இலவங்கம்-வாங்க-மாட்டோம்/175-364255) · `ta`
-
-இலங்கை அரசு தமிழக மீனவர்களின் படகுகளை சேதப்படுத்தி துன்புறுத்தினால் இலங்கையில் இருந்து வரும் இலவங்கம் உள்ளிட்ட எவ்வித பொருட்களையும் வாங்க மாட்டோம் என  வர்த்தக நல சங்க கூட்டத்தில் தீர்மானம் நிறைவேற்றப்பட்டது.
-
-The 101st General Assembly Meeting of the Salem Tuesday Welfare Association was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
-
-Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
-
-...
-
-[Data](articles/0ac03499.json)
-
-[Extended Data](ext_articles/0ac03499.ext.json)
-
----
-
-### Cinnamon will no longer buy from Sri Lanka
-
-*2025-09-09 10:53:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-இருந்து-இலவங்கம்-இனி-வாங்க-மாட்டோம்/175-364255) · `ta`
-
-The Sri Lankan government decided at a trade welfare union meeting that the Sri Lankan government would not buy any products, including cinnamon from Sri Lanka, if it was damaged and harassed the boats of Tamil Nadu fishermen.
-
-The 101st General Committee Meeting of the Salem Tuesday (08) was held on Monday (08). The meeting was chaired by the President of the Association, S.C. Natarajan, at the General Assembly meeting, the secretary of the association Dharmalingam read the annual report.
-
-Various resolutions were passed at this meeting. Commenting on the resolution, the President of the Association, Natarajan, said that the Sri Lankan government has hit down 30 boats of Tamil Nadu fishermen. If such incidents continue, we will not buy products from Sri Lanka, including cinnamon.
-
-...
-
-[Data](articles/c9c6ca27.json)
-
-[Extended Data](ext_articles/c9c6ca27.ext.json)
-
----
-
-### Thailand's former Prime Minister Taksin Shinawatra sentenced one year in prison
-
-*2025-09-09 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224603) · `ta`
-
-The country's High Court has sentenced Thailand to former Prime Minister Taksin Shinawatra to one year in prison.
-
-International media reports that Thailand's High Court has ordered a former prime minister and billionaires to be jailed for one year on Tuesday (today).
-
-The Supreme Court ruled that it was illegal that Taxin had long stayed at the hospital last year.
-
-It is also reported that he ordered the court to serve the sentence in the Bangkok Remand Jail.
-
-◼️
-
-[Data](articles/b489e16a.json)
-
-[Extended Data](ext_articles/b489e16a.ext.json)
-
----
-
-### Rajitha released on bail
-
-*2025-09-09 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214352) · `si`
-
-The Colombo Magistrate's Court set up former Minister Rajitha Senaratne to be released on bail.
-
-The suspect ordered that the suspect was released on two bail of Rs.
-
-Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Bribery Commission and the suspect's lawyers.
-
-◼️
-
-[Data](articles/e2937fac.json)
-
-[Extended Data](ext_articles/e2937fac.ext.json)
 
 ---

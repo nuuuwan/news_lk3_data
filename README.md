@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 00:10:46**
+As of **2025-09-10 01:55:54**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 13,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,360 (87.1%) of 75,045 articles have been extended.
+65,474 (87.2%) of 75,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-09 (Tuesday)
 
-### iPhone 17 මාදිලිය වෙළෙඳපොළට
+### iPhone 17 model to the market
 
 *2025-09-09 23:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214382) · `si`
 
-ලෝපතල Apple සමාගම ජංගම දුරකථන නිර්මාණ ඉතිහාසයේ නව පිටුවක් පෙරළමින් සිය නවතම iPhone මාදිලි එළිදක් වා තිබේ.
+In the world, Apple, rolling a new page in mobile phone design, has launched its latest iPhone models.
 
-අමෙරිකා එක්සත් ජනපදයේ කැලිෆෝනියා ප්‍රාන්තයේ ඇපල් සමාගමේ මූලස්ථානයේදී එම මාදිලිය එළිදැක්වීම සිදුකෙරුණි.
+The model was launched at the headquarters of Apple's headquarters in California, USA.
 
-ඒ අනුව, ලෝකය පුරා පසුගිය දිනවල කතාබහට ලක්වූ iPhone 17 නව ස්මාට් ජංගම දුරකථන පෙළ අද (09) වෙළෙඳපොළට නිකුත් කළේය.
+Accordingly, the iPhone 17 New Smartenderal telephone line was released to the market today (09).
 
-ඇපල් සමාගම විසින් අද iPhone 17, iPhone Air, 17 Pro, සහ 17 Pro Max ලෙස මාදිලි කිහිපයක් මෙලෙස වෙළෙඳපොළට හඳුන්වා දෙන ලදි.
+Apple introduced several models to the market today, iPhone 17, iPhone 17, and 17 Pro Max today.
 
 ◼️
 
 [Data](articles/eb3bbb7e.json)
+
+[Extended Data](ext_articles/eb3bbb7e.ext.json)
 
 ---
 

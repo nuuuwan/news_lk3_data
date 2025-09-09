@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 02:20:26**
+As of **2025-09-10 01:55:54**
 
 ## Newspaper Stats
 
-*Scraped **75,047** Articles*
+*Scraped **75,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,611
 dailymirrorlk | 4,733
 dailyftlk | 5,313
 adalk | 7,272
-adaderanalk | 9,619
+adaderanalk | 9,617
 tamilmirrorlk | 11,191
 virakesarilk | 12,257
 adaderanasinhalalk | 13,076
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,501 (87.3%) of 75,047 articles have been extended.
+65,474 (87.2%) of 75,045 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,46 +249,6 @@ He was also a member in the Pakistan squad at the 2018 Asian Cup.
 [Data](articles/6a421585.json)
 
 [Extended Data](ext_articles/6a421585.ext.json)
-
----
-
-### Electricity tariffs to increase by 6.8%?
-
-*2025-09-09 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112335/electricity-tariffs-to-increase-by-68) · `en`
-
-The Ceylon Electricity Board (CEB) has proposed a 6.8% increase in electricity tariffs for the final quarter of 2025, according to the Public Utilities Commission of Sri Lanka (PUCSL).
-
-Accordingly, the PUCSL has decided to obtain public opinion on the proposed amendments.
-
-The PUCSL stated that the general public can submit their comments and suggestions in writing to the Commission.
-
-To obtain verbal feedback, the PUCSL will conduct nine public consultations covering all nine provinces.
-
-These public consultation sessions for verbal submissions will commence on September 18, 2025.
-
-The PUCSL further stated that written comments and suggestions related to the public consultation on the third electricity tariff revision of 2025 can be submitted via the following methods before October 7, 2025:
-
-Public Consultation on the Third Electricity Tariff Revision – 2025
-
-◼️
-
-[Data](articles/48035e4e.json)
-
----
-
-### Resolution on agreement between Sri Lanka and UAE passed in Parliament
-
-*2025-09-09 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112334/resolution-on-agreement-between-sri-lanka-and-uae-passed-in-parliament) · `en`
-
-The resolution on the agreement between Sri Lanka and the United Arab Emirates has been passed in Parliament today (09) with a majority of 163 votes.
-
-The Speaker informed the House that the proposal was passed with a special majority.
-
-No votes were cast against the resolution, and no one abstained from voting either, according to the Department of Communication of Parliament.
-
-◼️
-
-[Data](articles/d8959a01.json)
 
 ---
 
@@ -2103,5 +2063,37 @@ Audit Audit has revealed that a disciplinary action has not taken a disciplinary
 [Data](articles/4ea9c2ab.json)
 
 [Extended Data](ext_articles/4ea9c2ab.ext.json)
+
+---
+
+### Former Minister Keheliya's case end
+
+*2025-09-09 11:16:44* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-කෙහෙළියගේ-නඩුවක්-අවසන්/11-418374) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama ordered the end of the case with the Minister of Health Keheliya Rambukwella.
+
+The Bribery Commission has filed a case before the Bribery Commission has filed a case before the Colombo High Court against former Minister Keheliya Rambukwella.
+
+◼️
+
+[Data](articles/8ecfdf93.json)
+
+[Extended Data](ext_articles/8ecfdf93.ext.json)
+
+---
+
+### One year in jail for the former prime minister Thailand
+
+*2025-09-09 11:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-முன்னாள்-பிரதமருக்கு-ஒரு-வருடம்-சிறை/50-364259) · `ta`
+
+Thailand's former Prime Minister Taksin Shinawatra has been sentenced to one year in prison.
+
+Taksin Shinawatra has sentenced him to one year in prison for his six months of staying in the hospital for six months.
+
+◼️
+
+[Data](articles/49d69e53.json)
+
+[Extended Data](ext_articles/49d69e53.ext.json)
 
 ---

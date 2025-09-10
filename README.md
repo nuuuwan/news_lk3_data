@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 02:54:11**
+As of **2025-09-11 04:06:49**
 
 ## Newspaper Stats
 
-*Scraped **75,252** Articles*
+*Scraped **75,253** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 764
+colombotelegraphcom | 765
 economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,649 (88.6%) of 75,252 articles have been extended.
+66,727 (88.7%) of 75,253 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -159,6 +159,18 @@ The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grad
 [Data](articles/dfbc9292.json)
 
 [Extended Data](ext_articles/dfbc9292.ext.json)
+
+---
+
+### SCO Summit: India, China & Russia In The Global Economy
+
+*2025-09-10 22:16:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sco-summit-india-china-russia-in-the-global-economy/) · `en`
+
+From August 31 to September 1, 2025, the northern Chinese port city of Tianjin hosted a landmark event in geopolitics: the 25th Heads-of-State Summit of the Shanghai Cooperation Organisation (SCO). This summit was the largest in the organization’s history, serving as a powerful symbol of Asia’s deepening cooperation across economics, finance, defense, and digital transformation. It underscored principles such as sovereign equality, adherence to international law, multilateralism, people-centered approaches, and action-oriented implementation. What began over two decades ago as a regional security platform has now evolved into a bloc with substantial economic ambitions and a vision for shaping a new global order.
+
+...
+
+[Data](articles/0b65a4b7.json)
 
 ---
 
@@ -2009,21 +2021,5 @@ The former Navy Commander was arrested on July 28 by the CID in connection with 
 [Data](articles/9f0312e5.json)
 
 [Extended Data](ext_articles/9f0312e5.ext.json)
-
----
-
-### Former Navy Commander remanded again
-
-*2025-09-10 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214398) · `si`
-
-Former Navy Commander (Retired) Admiral Nishantha Ullayenna, who was arrested and remanded.
-
-The Polgahawela Magistrate's Court has remanded for September 24.
-
-◼️
-
-[Data](articles/c03ced29.json)
-
-[Extended Data](ext_articles/c03ced29.ext.json)
 
 ---

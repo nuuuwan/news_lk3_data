@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 09:11:13**
+As of **2025-09-10 10:08:06**
 
 ## Newspaper Stats
 
-*Scraped **75,096** Articles*
+*Scraped **75,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,123 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,273
+adalk | 7,276
 adaderanalk | 9,625
-tamilmirrorlk | 11,196
-virakesarilk | 12,258
-adaderanasinhalalk | 13,081
+tamilmirrorlk | 11,197
+virakesarilk | 12,259
+adaderanasinhalalk | 13,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,753 (87.6%) of 75,096 articles have been extended.
+65,803 (87.6%) of 75,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### இந்தியா - இலங்கை ஒப்பந்தத்தில் கைச்சாத்து
+### අරුණ ජයසේකරට එරෙහි විශ්වාසභංගය ගැන කථානායක තීරණය දැනුම්දෙයි
+
+*2025-09-10 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214390) · `si`
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය විශ්‍රාමික මේජර් ජෙනරාල් අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කර ඇති විශ්වාසභංග යෝජනාව පිළිබඳ සිය තීරණය අද (10) කථානායකවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+එහිදී කථානායකවරයා සඳහන් කර සිටියේ, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ ප්‍රතිපාදන අනුව එම විශ්වාසභාංග යෝජනාව නොගැලපෙන බැවින් සහ එය නිසි පිළිවෙලකට නොමැති වීම හේතුවෙන් තමාට එය පිළිගත නොහැකි බවය.
+
+මෙහිදී පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා ස්ථාවර නියෝග යටතේ පවසා සිටියේ, අදාළ විශ්වාසභංග යෝජනාව සම්බන්ධයෙන් තීරණය ඉදිරිපත් කිරීමට කථානායකවරයා වෙත ලබාදී ඇති  නීතිපතිවරයාගේ සහ ලේකම් මණ්ඩලයේ වාර්තාව සභාගත කරන ලෙසය.
+
+◼️
+
+[Data](articles/1573ce52.json)
+
+---
+
+### අරුණ ජයසේකරට එරෙහි විශ්වාසභංග යෝජනාව පිළිගත නොහැකියි
+
+*2025-09-10 09:41:40* · [`adalk`](https://www.ada.lk/breaking_news/අරුණ-ජයසේකරට-එරෙහි-විශ්වාසභංග-යෝජනාව-පිළිගත-නොහැකියි/11-418394) · `si`
+
+ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතාට එරෙහිව විපක්ෂය විසින් ගෙන එනු ලැබූ විශ්වාසභංග යෝජනාව පවතින ආකාරයෙන් පිළිගත නොහැකි බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා පැවසීය.
+
+අද(10දා) පාර්ලිමේන්තුව ආරම්භයේදී ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/30a0eb14.json)
+
+---
+
+### සීමිත පන්දුවාර තරගාවලියට ක්‍රිකට් කණ්ඩායම නොවැම්බරයේදී පාකිස්තානයට
+
+*2025-09-10 09:37:20* · [`adalk`](https://www.ada.lk/sports/සීමිත-පන්දුවාර-තරගාවලියට-ක්‍රිකට්-කණ්ඩායම-නොවැම්බරයේදී-පාකිස්තානයට/9-418392) · `si`
+
+පාකිස්තානය සමග පැවැත්වෙන එක්දින තරග තුනකට හා ශ්‍රී ලංකාව, පාකිස්තානය හා ඇෆ්ගනිස්ථානය
+
+අතර පැවැත්වෙන තුන්කොන් විව්සයි20 තරගාවලියට එක්වීම සඳහා ජාතික ක්‍රිකට් කණ්ඩායම නොවැම්බර්
+
+මාසයේදි පාකිස්තානයේදී සංචාරය කරන බව ක්‍රිකට් ආයතනය නිවේදනය කරයි. නොවැම්බර් මස 11 දා සිට 29දා තෙක් මෙම තරගාවලිය පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/4e126133.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2025-09-10 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214389) · `si`
+
+◼️
+
+[Data](articles/dd75fc65.json)
+
+---
+
+### Look at the situation where the situation
+
+*2025-09-10 09:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நிலைமை-எங்க-போச்சுனு-நீங்களே-பாருங்க/62-364318) · `ta`
+
+◼️
+
+[Data](articles/48876dbf.json)
+
+[Extended Data](ext_articles/48876dbf.ext.json)
+
+---
+
+### Our aim is to reduce the opportunities of life in the community - Sumitrao
+
+*2025-09-10 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224278) · `ta`
+
+Vowelism is a very important issue in contemporary social issues. There is no time or social in the world where there is no life. Although the life of life is seen as an act of an individual, it is seen as a social phenomenon. Accordingly, when a man is facing the problem, he decides to make a living without knowing the problem.. This is why life -threatening system is very important.
+
+Various Volunteers of the Sumitrao Organization were presenting a special speech to the Weerakesari magazine ............
+
+In 2022, 3406 people died lived by the police website. Accordingly, 09 to 10 people die of life per day. According to statistics from the National Mental Health Organization, 15 of the people in the country are engaged in life -threatening efforts.. In addition, 10 people fail to live their lives. These incidents affect their dependents.
+
+...
+
+[Data](articles/c6291176.json)
+
+[Extended Data](ext_articles/c6291176.ext.json)
+
+---
+
+### India -Sri Lanka Agreement
 
 *2025-09-10 08:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-இலங்கை-ஒப்பந்தத்தில்-கைச்சாத்து/175-364317) · `ta`
 
-மன்னார் மாவட்ட பொது மருத்துவமனைக்கு மருத்துவ உபகரணங்களைக் கொள்வனவு செய்தல் தொடர்பில் 600 மில்லியன் ரூபாய் மானிய புரிந்துணர்வு ஒப்பந்தத்தில், இந்தியாவும் இலங்கையும் கையெழுத்திட்டுள்ளன.
+India and Sri Lanka have signed a subsidy Memorandum of Memorandum of Memorandum for Rs 600 million on the purchase of medical equipment for the Mannar District General Hospital.
 
-இந்த ஒப்பந்தத்தில் நேற்று இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா மற்றும் இலங்கை சுகாதார அமைச்சின் செயலாளர் அனில் ஜாசிங்க ஆகியோர் கொழும்பில் வைத்துக் கையெழுத்திட்டுள்ளனர்.
+The agreement was signed yesterday by Indian High Commissioner Santos Ja and Sri Lanka's Health Secretary Anil Jasinghe.
 
-இந்த திட்டம், இலங்கையின் சுகாதாரத்துறையில் இந்தியாவின் ஒத்துழைப்பு பட்டியலை நீடித்துள்ளதாக இந்திய உயர்ஸ்தானிகரம் தெரிவித்துள்ளது. (a)
+The Indian High Commission has said that the project has extended the list of cooperation in Sri Lanka's health sector.. (A)
 
 ◼️
 
 [Data](articles/ab4b5b6c.json)
+
+[Extended Data](ext_articles/ab4b5b6c.ext.json)
 
 ---
 
@@ -70,23 +158,27 @@ The project will address the critical requirement of an A&E unit at DGH Mannar, 
 
 ---
 
-### பிரித்தானியா, கனடா உள்ளிட்ட 6 நாடுகள் இணைந்து ஐ. நா. மனித உரிமைகள் பேரவையில் இலங்கை தொடர்பில் சமர்ப்பித்துள்ள புதிய பிரேரணை
+### 6 countries including Britain and Canada. Na. A new proposal submitted on Sri Lanka at the Human Rights Council
 
 *2025-09-10 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224686) · `ta`
 
-பிரித்தானிய, கனடா, மலாவி, மொண்டெனீக்ரோ மற்றும் வடக்கு மாசிடோனியா ஆகிய நாடுகள் இணைந்து ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில், இலங்கை தொடர்பான ஒரு புதிய தீர்மான வரைவு (A/HRC/60/L.1) ஒன்றை சமர்ப்பித்துள்ளன.
+Britain, Canada, Malawi, Montenegro and Northern Macedonia, in the 60th session of the United Nations Human Rights Council, submitted a new resolution draft (A/HRC/60/L.1) on Sri Lanka.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில், ஐக்கிய இராச்சியம், கனடா, மலாவி, மொண்டெனீக்ரோ மற்றும் வடக்கு மாசிடோனியா ஆகிய நாடுகள் இணைந்து  இலங்கை தொடர்பான ஒரு புதிய தீர்மான வரைபை சமர்ப்பித்துள்ளன.
+At the 60th session of the United Nations Human Rights Council, the United Kingdom, Canada, Malawi, Montenegro and Northern Macedonia have submitted a new resolution on Sri Lanka.
 
-இந்தத் தீர்மானம், இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்துவதில் கவனம் செலுத்துகிறது.
+This resolution focuses on the development of reconciliation, accountability and human rights in Sri Lanka.
 
-2024 செப்டம்பர், நவம்பர், 2025 மே மாதங்களில் நடைபெற்ற ஜனாதிபதி, பாராளுமன்ற மற்றும் உள்ளூராட்சித் தேர்தல்களைத் இந்த தீர்மானம் வரவேற்றுள்ளது.
+The resolution welcomed the President, Parliament and Local Government elections held in September, November and 2025.
 
-அத்துடன், ஊழல் மற்றும் பொருளாதார முறைகேடுகளுக்குப் பொறுப்புக்கூற அரசாங்கம் எடுத்துள்ள நடவடிக்கைகளையும் அது அங்கீகரித்துள்ளது.
+It has also recognized the government's measures to take accountability of corruption and economic abuse.
+
+The resolution emphasizes that complete accountability for human rights violations and abuse of Sri Lanka, including all sides, especially the LTTE (LTTE), is essential.
 
 ...
 
 [Data](articles/36e1449e.json)
+
+[Extended Data](ext_articles/36e1449e.ext.json)
 
 ---
 
@@ -1596,6 +1688,24 @@ The police have informed the public on festival of the skies of the skills of th
 
 ---
 
+### නොච්චියාගම බී ලූණු අස්වැන්න සාර්ථක වුවත් ගොවීන් අසරණයි
+
+*2025-09-09 16:51:43* · [`adalk`](https://www.ada.lk/breaking_news/නොච්චියාගම-බී-ලූණු-අස්වැන්න-සාර්ථක-වුවත්-ගොවීන්-අසරණයි/11-418387) · `si`
+
+නොච්චියාගම නව තෙල්දෙණිය ප්‍රදේශයේ ලොකු ලූණු වගා කළ ගොවීන් මේ දිනවල අස්වැන්න නෙලීම ආරම්භ කර තිබේ. තම අස්වැන්න ඉතා සාර්ථක වුවද, නිසි මිලක් නොලැබීමෙන් ඔවුන් දැඩි අසරණ තත්ත්වයට පත්ව සිටිති.
+
+අස්වැන්න සාර්ථක වුවද, වෙළඳපොළේ ආනයනික ලූණු අඩු මිලට විකිණීම නිසා අස්වැන්නට ගැලපෙන මිලක් ලබාගත නොහැකි බවත්. රජය ආනයනික ලූණු සඳහා බද්දක් පැනවුවත්, එය කාර්යක්ෂම වී නොමැති බව එම ගොවීහු  පෙන්වා දුන්හ .
+
+වගාවේ දෛනිකව සොයා  බැලිය යුතු  බිම් සැකසීම, ජලය ලබාදීම, රෝග හා කෘමි සතුන්  පාලනය සඳහා දවසට පැය දොළහකටත් අධික කාලයක්  වැය වන බවත් ලාභය කෙසේ වෙතත් මේ වනවිට තම දහඩිය මහන්සිය පවා උපයා ගැනීමට නොහැකිව ඇති බව ඔවුන් අවධාරණය කළහ.
+
+ලූණු කිලෝ එකක් නිෂ්පාදනය කිරීමට රු.120 ක් වියදම් වන අතර, එය ආපසු ලබාගත නොහැකි තත්ත්වයක් උද්ගත වී ඇත. නිසි මිල නොලැබුණහොත්, ඉදිරි කන්නවල වගාවෙන් ඉවත්වීමට සිදුවන බවද ලූණු ගොවීහු සඳහන් කළහ.
+
+...
+
+[Data](articles/52df5750.json)
+
+---
+
 ### Removal of MP buddy is no salvation
 
 *2025-09-09 16:42:42* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීගේ-සාමාජිකත්වය-ඉවත්-කිර‍ිම-පමණක්-ප්‍රමණවත්-නෑ/11-418386) · `si`
@@ -1957,153 +2067,5 @@ In this case, the struggle took place for the second day. Subsequently, it was r
 [Data](articles/b595a395.json)
 
 [Extended Data](ext_articles/b595a395.ext.json)
-
----
-
-### Nepal Parliament breached, building set on fire by Gen Z protesters
-
-*2025-09-09 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112325/nepal-parliament-breached-building-set-on-fire-by-gen-z-protesters) · `en`
-
-Minutes before Nepalese Prime Minister KP Sharma Oli resigned from his office, Gen Z protesters broke into Parliament and set fire to one of the buildings on the premises.
-
-Demonstrators also set fire to Oli’s residence in Bhaktapur’s Balkot area and other senior leaders amid the ongoing protests triggered by a since-revoked social media ban.
-
-Visuals showed thousands of protesters storming the Parliament as plumes of grey and black smoke arose in the area.
-
-Even as the building was on fire, thousands of protesters continued to march towards the Parliament, shouting slogans and raising flags in the area, visuals showed.
-
-The demonstrators also entered the Singha Durbar premises, breaking into the area through its western gate. They also reportedly set the gate on fire while forcing their way into the central administrative complex of Nepal.
-
-The Gen Z protesters shouted slogans like “KP Chor, Desh Chhod”, “Take Action Against Corrupt Leaders” across Nepal’s capital city of Kathmandu.
-
-...
-
-[Data](articles/0d740226.json)
-
-[Extended Data](ext_articles/0d740226.ext.json)
-
----
-
-### Sectoral Oversight Committee on Justice approves Presidents’ Entitlements (Repeal) Bill
-
-*2025-09-09 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112324/sectoral-oversight-committee-on-justice-approves-presidents-entitlements-repeal-bill) · `en`
-
-The Presidents’ Entitlements (Repeal) Bill has been approved after consideration by the Sectoral Oversight Committee on Governance, Justice and Civil Protection.
-
-The approval was granted by the Committee during a meeting held in Parliament under the chairmanship of Member of Parliament Dr. Najith Indika, today (09).
-
-Commenting on the Bill, officials of the Ministry of Justice and National Integration said that, as stated in the Government Policy Statement, the Presidents’ Entitlements (Repeal) Bill is expected to remove non-economic entitlements granted to former and future Presidents and their families, taking into account the economic conditions of the country.
-
-...
-
-[Data](articles/b8a1c5db.json)
-
-[Extended Data](ext_articles/b8a1c5db.ext.json)
-
----
-
-### Police warn public on fire hazards of ‘sky lanterns’
-
-*2025-09-09 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112323/police-warn-public-on-fire-hazards-of-sky-lanterns) · `en`
-
-Sri Lanka Police have cautioned the general public regarding the serious risks associated with the indiscriminate use of sky lanterns during festive seasons and special celebrations across the island.
-
-“It has been observed that many individuals release sky lanterns of different sizes, which are propelled into the sky using an open flame. While these lanterns may appear entertaining, they pose a significant fire hazard as they may drift uncontrollably and fall to the ground while still alight,” the Police Media Division said.
-
-Authorities warned that if such lanterns descend onto sensitive or high-risk locations—such as fireworks manufacturing sites, fuel stations, petroleum storage facilities, residential homes, commercial buildings, or crowded public areas—they could ignite destructive fires, causing extensive property damage and potential loss of life.
-
-...
-
-[Data](articles/5fd30bc4.json)
-
-[Extended Data](ext_articles/5fd30bc4.ext.json)
-
----
-
-### Sri Lanka to lease land for 38 investment projects
-
-*2025-09-09 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-land-for-38-investment-projects-239849/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved leasing land from industrial parks to 38 investment projects, Minister Nalinda Jayatissa said.
-
-“The total investment value to be made by the 38 investors is Rs. 2,548.22 million,” Jayatissa told reporters.
-
-It is expected to generate about 1,559 direct employment opportunities.
-
-The land is to be provided from industrial parks on a lease basis for a maximum period of 35 years, he said.
-
-42 project proposals were recommended by the ‘Regional Industrial Service Committee’, and the Ministry of Industry and Entrepreneurship Development’s Project Evaluation Committee approved the allocation of land for 38 projects.
-
-Land has been allocated in Ampara, Trincomalee, Batticaloa, Kalutara, Minuwangoda, Matugama, Millaniya, Ulapaney, Ratnapura Nalanda, Karandeniya, Bata Atha, Mannar, Galigamuwa, Embilipitiya, Buththala, Dankotuwa, Puttalam, and Aluthapola. (Colombo/Sep9/2025)
-
-◼️
-
-[Data](articles/b57a3ece.json)
-
-[Extended Data](ext_articles/b57a3ece.ext.json)
-
----
-
-### Sampath Manamperi an ex-cop and suspect in Raviraj murder – Cabinet Spokesman
-
-*2025-09-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112322/sampath-manamperi-an-ex-cop-and-suspect-in-raviraj-murder-cabinet-spokesman-) · `en`
-
-Cabinet Spokesman Dr. Nalinda Jayatissa reveals that Sampath Manamperi, who is accused of concealing two container loads of raw materials allegedly used to manufacture the drug ‘Ice’ and belonging to underworld figure ‘Kehelbaddara Padme’, has been identified as a former police intelligence officer.
-
-Participating in the weekly Cabinet media briefing held today (09), Minister Jayatissa said that the absconding suspect has also been identified as a suspect in the murder of the late Nadarajah Raviraj, a former Tamil National Alliance (TNA) Parliamentarian.
-
-The minister further stated, “This person named Sampath Manamperi has served as a police constable for a while. He has also served as an intelligence officer for a short period. He had also been identified as a suspect in the murder of MP Raviraj.”
-
-Jayatissa stated that he had contested as a candidate of the Sri Lanka Podujana Peramuna (SLPP) despite those allegations and that simply cancelling his party membership would not suffice.
-
-...
-
-[Data](articles/2ce5ddb9.json)
-
-[Extended Data](ext_articles/2ce5ddb9.ext.json)
-
----
-
-### The protesters burned the houses of Parliament, Prime Minister and Minister
-
-*2025-09-09 14:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாராளுமன்றம்-பிரதமர்-அமைச்சரின்-வீடுகளை-போராட்டக்காரர்கள்-கொளுத்தினர்/50-364276) · `ta`
-
-As the struggle against the state in Nepal continues for the second day, tensions have been set on fire due to the burning of the houses of the ministers.
-
-Young people jumped in a protest yesterday, condemning the ban on social networks in Nepal. At the time, 19 people were killed in the shooting of the police. The Prime Minister announced last night's lifting of a ban on social media following the youth struggle. The Home Minister and the Minister of Agriculture resigned in charge of the shooting.
-
-In this case, the struggle against the state is continuing today. Thousands of youths are protesting against the resignation of Prime Minister Sharma. They are involved in the struggle to confront all the ways to Parliament in Kathmandu. There, the police, who were working on the security, threw stones at them.
-
-...
-
-[Data](articles/d2d21a9a.json)
-
-[Extended Data](ext_articles/d2d21a9a.ext.json)
-
----
-
-### Macron is looking for new Prime Minister
-
-*2025-09-09 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224630) · `ta`
-
-Francois Barro has resigned from the post of Prime Minister as a new political crisis has emerged in France.
-
-In the confidence vote in the country's parliament on Monday (08), he announced his resignation due to inadequate support.
-
-In the confidence vote, 364 voted against Perovi and 194 support.
-
-Baro's budget is not properly welcomed among his allies. It was a disadvantage for him.
-
-It was reported that President Emanuel Macron would accept the resignation of Pearo on Tuesday (09).
-
-Macron has been forced into a confused situation of whom to choose the next prime minister.  Six persons have been the prime minister in the post of Macron's tenure so far. He is currently looking for the seventh person.
-
-The French President's Office has issued a report that Macron will elect the next prime minister in a few days. It is certain that there will be no general election for the post of Prime Minister.
-
-◼️
-
-[Data](articles/eff20b89.json)
-
-[Extended Data](ext_articles/eff20b89.ext.json)
 
 ---

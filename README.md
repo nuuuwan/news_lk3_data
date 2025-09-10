@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 14:55:41**
+As of **2025-09-10 15:20:14**
 
 ## Newspaper Stats
 
-*Scraped **75,150** Articles*
+*Scraped **75,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,286
-adaderanalk | 9,630
-tamilmirrorlk | 11,216
+adalk | 7,287
+adaderanalk | 9,636
+tamilmirrorlk | 11,219
 virakesarilk | 12,260
 adaderanasinhalalk | 13,094
 
@@ -26,51 +26,181 @@ adaderanasinhalalk | 13,094
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,041 (87.9%) of 75,150 articles have been extended.
+66,074 (87.9%) of 75,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### நிஷாந்த உலுகேதென்னவின் விளக்கமறியல் நீடிப்பு
+### “தேவையில்லாத ஆணிகளை புடுங்குவோம்”
+
+*2025-09-10 15:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவையில்லாத-ஆணிகளை-புடுங்குவோம்/175-364351) · `ta`
+
+மக்களின் வியர்வை, குருதியை கணக்கிலெடுக்காது, கடந்தகாலங்களில் வசதி வாய்ப்புடன் வாழ்ந்த முன்னாள் ஜனாதிபதிகளுக்கான சலுகையை இல்லாமற் செய்யவேண்டும் என்று வலியுறுத்திய தேசிய மக்கள் சக்தியின் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் மயில்வாகனம் ஜெகதீஸ்வரன்,  அமுலில் இருக்கும் சில சட்டங்கள் தேவையில்லாதவை, அவ்வாறான தேவையில்லாத ஆணிகளை நாங்கள் எங்களுடைய ஆட்சியில் புடுங்குவோம் என்றார்.
+
+பாராளுமன்றத்தில் தற்போது நடைபெற்றுக்கொண்டிருக்கும் முன்னாள் ஜனாதிபதிகளின் வரப்பிரசாதங்களை இல்லாதொழிக்கும் விவாதத்தில் கலந்துகொண்டு உரையாற்றிய போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/23b2135a.json)
+
+---
+
+### மாநகர சபை முன்னாள் முதல்வர் கைது
+
+*2025-09-10 14:50:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநகர-சபை-முன்னாள்-முதல்வர்-கைது/175-364350) · `ta`
+
+மொரட்டுவ மாநகர சபையின் முன்னாள் முதல்வர் சமன்லால் பெர்னாண்டோ இலஞ்ச அல்லது ஊழல் பற்றிய சாத்துதல்களைப் புலனாய்வு செய்யும் ஆணைக்குழு  அதிகாரிகளால்  கைது செய்யப்பட்டுள்ளார்.
+
+மொரட்டுவ நகராட்சியின் சாலை மேம்பாட்டுத் திட்டங்களை தனது நண்பர்களுக்கு வழங்கியதாக அவர் மீது குற்றம் சாட்டப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/cd5855ce.json)
+
+---
+
+### அர்ச்சுனாவின் கேள்வியால் ஆடிபோன ஆளும் தரப்பு
+
+*2025-09-10 14:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவின்-கேள்வியால்-ஆடிபோன-ஆளும்-தரப்பு/175-364349) · `ta`
+
+யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா, பாராளுமன்றத்தில் தற்போது நடைபெற்றுக்கொண்டிருக்கும் முன்னாள் ஜனாதிபதிகளின் வரப்பிரசாதங்களை இல்லாதொழிக்கும் விவாதத்தில் கலந்துகொண்டு உரையாற்றிக்கொண்டிருக்கின்றனார்.
+
+தனது உரையை ஆரம்பித்த இராமநாதன் அர்ச்சுனா, நான் சிங்களத்தில் பேசுவது உங்களுக்கு விருப்பம்தானே.
+
+நான், கேட்கின்றேன். இங்கிருக்கும் யாராவது கையை உயர்த்தி கூறுங்கள், பிரபாகரன் பயங்கரவாதி என்று, எனினும், யாரும் கையை உயர்த்தவில்லை.
+
+எனினும், உங்களுடைய ரோஹன விஜயவீர, பயங்கரவாதி இல்லை என்று நான் கையை உயர்த்தி கூறுவேன் என்றார்.
+
+◼️
+
+[Data](articles/354ab2e0.json)
+
+---
+
+### Nishantha Uluketenna's explanation extension
 
 *2025-09-10 14:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்த-உலுகேதென்னவின்-விளக்கமறியல்-நீடிப்பு/175-364346) · `ta`
 
-நிஷாந்தவின் விளக்க மறியல் காலம்  எதிர்வரும் 24ம் திகதி வரையில் நீடிக்க பொல்கஹாவெல நீதிமன்ற நீதவான் உத்தரவிட்டுள்ளார்.
+The Magistrate of Polgahawela has ordered the extension of Nishantha's explanation period until the 24th.
 
-நிஷாந்த கடற்படை புலனாய்வு பிரிவின் பணிப்பாளராக கடமையாற்றிய போது பொத்துஹர பிரதேசத்தில் இடம்பெற்ற கடத்தல் சம்பவம் தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தினால் விசாரணை நடத்தப்பட்டது.
+The Criminal Investigation Department was investigated by the Criminal Investigation Department regarding the abduction in Pothuhara area while serving as the Director of the Nishantha Navy Intelligence Unit.
 
 ◼️
 
 [Data](articles/ee148b3e.json)
 
+[Extended Data](ext_articles/ee148b3e.ext.json)
+
 ---
 
-### අස්වැසුම සැප්තැම්බර් මස දීමනාව අනිද්දා ගිණුම්වලට
+### Reformation in September allowance to accounts on other accounts
 
 *2025-09-10 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214401) · `si`
 
-2025 සැප්තැම්බර් මසට අදාළ අස්වැසුම ප්‍රතිලාභී දීමනාව අනිද්දා (12) දින අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට නියමිත බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
+The Welfare Benefit Board (Welfare Benefits) are to be credited to the beneficiaries of beneficiaries (12) on September.
 
-එම මණ්ඩලය සඳහන් කරන්නෙ, මෙලෙස රු.11,201,647,000.00ක මුදලක් ප්‍රතිලාභී පවුල් 1,412,574ක් අතරේ බෙදා හරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී ගිණුම්වලට බැර කිරීමට නියමිත බවය.
+The Board said that the amount of Rs.
 
-ඒ අනුව, අදාළ ප්‍රතිලාභීන්ට සැප්තැම්බර් මස 12 වන දා සිට තමාට හිමි අස්වැසුම දීමනාව තම අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුම මඟින් ලබාගත හැකියි.
+Accordingly, the beneficiaries will be provided with their relief allowance from September 12.
 
 ◼️
 
 [Data](articles/16fe1b86.json)
 
+[Extended Data](ext_articles/16fe1b86.ext.json)
+
 ---
 
-### මොරටුව හිටපු නගරාධිපති අත්අඩංගුවට
+### N. Namal Rs. Asks for a billion
+
+*2025-09-10 14:26:05* · [`adalk`](https://www.ada.lk/breaking_news/නි--ඇමති-සුනිල්-වටගලගෙන්-නාමල්-රු--බිලියනයක්-ඉල්ලයි/11-418409) · `si`
+
+Namal Rajapaksa's lawyers have been directed to MP Namal Watagala by Deputy Minister Sunil Rajapaksa to MP Namal Rajapaksa.
+
+◼️
+
+[Data](articles/822323ea.json)
+
+[Extended Data](ext_articles/822323ea.ext.json)
+
+---
+
+### Nepal Protests: Army urges foreign nationals to seek assistance if needed
+
+*2025-09-10 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112354/nepal-protests-army-urges-foreign-nationals-to-seek-assistance-if-needed) · `en`
+
+The Nepal Army has advised all foreign nationals who are stranded or require assistance in Nepal to contact nearby security personnel or authorities.
+
+A semblance of normalcy returned to Nepal’s capital, Kathmandu, today (10) after two days of massive protests that turned violent following the deaths of 19 people, mostly youth, on Monday.
+
+The Nepal Army then took charge of security, with military personnel deployed across the capital. Over the past two days, protests in Nepal escalated quickly into violence and the storming of government buildings.
+
+The Army said in a statement, ‘Hotels, tourism operators, and other organizations hosting foreign nationals are also requested to coordinate and facilitate any rescue or support efforts as needed.’
+
+Meanwhile, the Ministry of Foreign Affairs, Foreign Employment and Tourism requested all Sri Lankan nationals in Nepal to remain vigilant and adhere to the advice of local authorities in view of the prevailing situation.
+
+...
+
+[Data](articles/129e829d.json)
+
+[Extended Data](ext_articles/129e829d.ext.json)
+
+---
+
+### Former former Moratuwa Mayor arrested
 
 *2025-09-10 14:00:34* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-හිටපු-නගරාධිපති-අත්අඩංගුවට/11-418408) · `si`
 
-මොරටුව මහ නගර සභාවේ මාර්ග සංවර්ධන ව්‍යාපෘති සිය හිතවතුන්ට ලබාදීමෙන් රජයට පාඩුකිරීමේ චෝදනා යටතේ මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන්ලාල් ප්‍රනාන්දු මහතා අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Commission under the charges of the Government of Moratuwa Municipal Council.
 
 ◼️
 
 [Data](articles/3daae550.json)
+
+[Extended Data](ext_articles/3daae550.ext.json)
+
+---
+
+### Burning down the parliament and court a ‘great disrespect’ to Nepal’s democracy – Ranil
+
+*2025-09-10 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112353/burning-down-the-parliament-and-court-a-great-disrespect-to-nepals-democracy-ranil-) · `en`
+
+Former President of Sri Lanka Ranil Wickremesinghe today expressed deep concern over the situation in Kathmandu, Nepal, condemning the recent violence and calling for the restoration of peace and stability in the country.
+
+“First of all, I condemn all kinds of killings, including those of the youth that has occurred in Nepal. Similarly, the burning of the former Prime Minister’s house and the killing of the former Prime Minister’s wife is an extremely sad situation. I express my condolences over that murder,” he said issuing a special statement.
+
+He further noted that the attacks on ministers, particularly the Foreign Minister, were a continuation of the tragedy, emphasizing that women’s rights had been gravely violated and that such acts had tarnished Nepal’s international reputation.
+
+The former president said the situation in Kathmandu “should not have gone this far” and that the shooting by the police was an “unacceptable course of action”.
+
+...
+
+[Data](articles/4ef84560.json)
+
+[Extended Data](ext_articles/4ef84560.ext.json)
+
+---
+
+### Former Moratuwa Mayor Saman Lal Fernando arrested
+
+*2025-09-10 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112352/former-moratuwa-mayor-saman-lal-fernando-arrested-) · `en`
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been arrested.
+
+He has been arrested by officers attached to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 12:50 p.m. today (10).
+
+The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
+
+He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando is scheduled to be produced before the Colombo Chief Magistrate today, the Bribery Commission stated.
+
+◼️
+
+[Data](articles/d4fb06c5.json)
+
+[Extended Data](ext_articles/d4fb06c5.ext.json)
 
 ---
 
@@ -106,6 +236,30 @@ The announcement also states that he condemns the murder including all the youth
 
 ---
 
+### Trump calls on EU to impose 100% tariff on China and India to pressure Putin
+
+*2025-09-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112351/trump-calls-on-eu-to-impose-100-tariff-on-china-and-india-to-pressure-putin) · `en`
+
+Donald Trump has called on the European Union (EU) to hit China and India with tariffs of up to 100% to force Russian president Vladimir Putin to end the war in Ukraine.
+
+The US president made the demand during a meeting between US and EU officials on Tuesday discussing options to increase economic pressure on Russia, a source familiar with the discussions has told the BBC.
+
+Trump, who previously pledged to end the conflict on “day one” of becoming president, is struggling to broker a peace deal between Moscow and Kyiv and as Russia’s strikes on Ukraine intensify.
+
+Separately, Trump told reporters on Tuesday that he plans to talk to Putin on a call this week or early next week.
+
+China and India are major buyers of Russian oil, which helps to keep the country’s economy and war machine afloat.
+
+Last month, the US imposed a 50% tariff on goods from India, which included a 25% penalty for its transactions with Russia.
+
+...
+
+[Data](articles/4f3aeb44.json)
+
+[Extended Data](ext_articles/4f3aeb44.ext.json)
+
+---
+
 ### 1,500 prisoners escaped
 
 *2025-09-10 13:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-500-கைதிகள்-தப்பியோட்டம்/50-364343) · `ta`
@@ -123,6 +277,24 @@ Officials are monitoring the situation, warning that the release of the prisoner
 [Data](articles/7b891892.json)
 
 [Extended Data](ext_articles/7b891892.ext.json)
+
+---
+
+### Ex-Navy Commander Nishantha Ulugetenne further remanded
+
+*2025-09-10 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112350/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
+
+Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded.
+
+He has been remanded until September 24 by the Polgahawela Magistrate’s Court, said Ada Derana reporter.
+
+The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/9f0312e5.json)
+
+[Extended Data](ext_articles/9f0312e5.ext.json)
 
 ---
 
@@ -610,6 +782,30 @@ Tangalle Urban Council Secretary TW. K. Twenty Municipal Council and 12 Municipa
 
 ---
 
+### 73 Sri Lankan pilgrims safely cross Nepal-India border
+
+*2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-safely-cross-nepal-india-border) · `en`
+
+UPDATE: Sri Lanka’s Foreign Ministry confirms that the 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, have safely crossed the border entering India.
+
+The Sri Lankan Embassy in Kathmandu has provided an update on the status of Sri Lankans in Nepal amidst the ongoing situation, the Foreign Ministry stated.
+
+A group of 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, is currently at the India–Nepal border preparing to depart Nepal, the ministry spokesman said.
+
+Embassy officials have directly engaged with Nepalese immigration authorities to expedite the necessary procedures, as the system is reportedly not functioning normally.
+
+The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
+
+Reports indicate that the public is largely complying with these directives, the spokesman added.
+
+◼️
+
+[Data](articles/6756b48b.json)
+
+[Extended Data](ext_articles/6756b48b.ext.json)
+
+---
+
 ### 73 Sri Lankan pilgrims await departure at India–Nepal border: Foreign Ministry
 
 *2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-await-departure-at-indianepal-border-foreign-ministry-) · `en`
@@ -692,11 +888,11 @@ The MP stated that action will be taken to protect the democratic rights of the 
 
 The Speaker of Parliament (Dr.) Jagath Wickramaratne today (10) informed the House that the No-Confidence motion submitted by the Opposition against Deputy Defence Minister Aruna Jayasekera is not in order and cannot be accepted in its present form.
 
-The Speaker stated that the motion was carefully considered in light of the provisions of the Constitution, the Standing Orders of Parliament, and established parliamentary practices.
+The Speaker stated that the motion was carefully considered in light of the provisions of the Constitution, the Standing Orders of Parliament, and established parliamentary practices and presedence.
 
 “I also studied the traditions and procedures followed in other Commonwealth and democratic legislatures, such as the UK House of Commons, India’s Lok Sabha, and Australia’s House of Representatives in this regard,” he said.
 
-“Under Articles 42, 43, and 44 of the Constitution of Sri Lanka, collective and individual ministerial responsibilities lie with Cabinet Ministers. A Deputy Minister, though a Member of Parliament, is not a member of the Cabinet and does not bear direct constitutional responsibility to this House in the present context.”
+“Under articles 42, 43, and 44 of the Constitution of Sri Lanka, collective and individual ministerial responsibilities lie with Cabinet Ministers. A Deputy Minister, though a Member of Parliament, is not a member of the Cabinet and does not bear direct constitutional responsibility to this House in the present context.”
 
 ...
 
@@ -1759,209 +1955,5 @@ Speaking at the official handover, CBA Director and Chief Executive Officer, Ruw
 [Data](articles/aada0760.json)
 
 [Extended Data](ext_articles/aada0760.ext.json)
-
----
-
-### Transport sector companies contribute more than one-third of CSE turnover amid profit-takings
-
-*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/transport-sector-companies-contribute-more-than-one-third-of-cse-turnover-amid-profit-takings/) · `en`
-
-CSE activities kicked off on a positive note in early sessions yesterday but turned negative due to profit-takings in some sectors.
-
-Both indices moved downwards. The All Share Price Index went down by 232 points, while the S and P SL20 declined by 55.04 points. Turnover stood at Rs 9.05 billion seven crossings. More than one third of the turnover was contributed by transport sector companies, it is learnt.
-
-...
-
-[Data](articles/f1db9ea3.json)
-
-[Extended Data](ext_articles/f1db9ea3.ext.json)
-
----
-
-### ‘RDB Bank records stellar performance for 1st half 2025’
-
-*2025-09-09 23:14:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025/) · `en`
-
-Regional Development Bank (RDB) records a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
-
-The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
-
-Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget.
-
-“We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
-
-...
-
-[Data](articles/8f0c4c4e.json)
-
-[Extended Data](ext_articles/8f0c4c4e.ext.json)
-
----
-
-### 18 Premium Channels, 6.8 Million Viewers — Endless Advertising Possibilities with Dialog Television
-
-*2025-09-09 23:14:00* · [`islandlk`](http://island.lk/18-premium-channels-6-8-million-viewers-endless-advertising-possibilities-with-dialog-television/) · `en`
-
-Dialog Television, Sri Lanka’s #1 Pay-TV service provider, invites corporate advertisers to leverage one of the country’s most powerful media platforms, trusted by over 1.7 million households and more than 90% of Sri Lanka’s corporate sector. With an extended presence in 15,000+ hotels, restaurants, and public venues, Dialog Television reaches more than 6.8 million viewers nationwide, offering unmatched opportunities for brands to build visibility and impact.
-
-Dialog Television offers advertisers access to 18 premium channels carefully curated to reflect what Sri Lankans watch most. These include Star Movies, Hits Now, AXN, Star Vijay, Star Plus, &flix, Colors Tamil, Zee Café, Zee Tamil, Colors, A Plus, Nickelodeon, Citi Hitz, Channel One, ThePapare TV, Channel C and TLC. Covering genres from movies, drama, and entertainment to sports, kids, lifestyle, and music, these channels enable precise audience targeting across diverse demographics and prime-time moments.
-
-...
-
-[Data](articles/aaeb5f34.json)
-
-[Extended Data](ext_articles/aaeb5f34.ext.json)
-
----
-
-### Armed forces to defend law and order in Nepal
-
-*2025-09-09 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214381) · `si`
-
-The military and the security forces have taken steps to protect the law and order in Nepal today (09).
-
-The decisions have been made to control the escalating violence, the Nepal said.
-
-The announcement issued by the Nepali Army states that some group robbery, fireplaces, and property will be destroyed.
-
-Meanwhile, Indian media reported that the wife of a former former Prime Minister had been burnt by the protesters.
-
-The deceased has been identified as Rajyalationi, wife, Jalnaath Khadari.
-
-It is reported that the protesters have been set on fire and set on the house.
-
-After the former Prime Minister Chitrakar, the former Prime Minister Chitrakar, was immediately enrolled at Keertripur Burry Hospital, but he had died during treatment.
-
-The protests began yesterday after the government's decision to ban 26 social media covers yesterday.
-
-The majority of the new generation of new teenagers, which have been protesting against social media censorship, are young.
-
-...
-
-[Data](articles/587ad91c.json)
-
-[Extended Data](ext_articles/587ad91c.ext.json)
-
----
-
-### Nepal Army to take charge of security following violent protests
-
-*2025-09-09 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112337/nepal-army-to-take-charge-of-security-following-violent-protests) · `en`
-
-The Nepal Army on Tuesday said that it will take charge of security operations from 10 pm, hours after Prime Minister K P Sharma Oli resigned following 27 hours of violent protests in Kathmandu and other parts of the country.
-
-In a statement issued by the Directorate of Public Relations and Information, the army said that “some groups are taking undue advantage of the difficult situation and causing severe damage to ordinary citizens and public property”.
-
-It warned that all security mechanisms, including the Nepal Army, will be mobilised to contain the violence if such activities continue.
-
-The Nepal Army also appealed for public cooperation, urging citizens not to engage in or support destructive acts.
-
-...
-
-[Data](articles/3be62d1b.json)
-
-[Extended Data](ext_articles/3be62d1b.ext.json)
-
----
-
-### I. Na. Sri Lanka's Tamil State Party is disappointing at the Human Rights Council session -
-
-*2025-09-09 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224682) · `ta`
-
-Sixteen years after the end of the armed struggle, no internal accountability mechanisms have not yet been developed. In this context, the UN says that the victims have no choice but to seek international involvement.. The Sri Lankan Tamil state party has said that Sri Lanka's report is unmistakable.
-
-In a statement issued by the Sri Lanka Tamil Nadu Party, the Sri Lanka Tamil Nadu Party further stated that it is.
-
-Foreign Minister Vijitha Herath was held in Geneva. Na. Here is our deepest disappointment that the government has not yet responded to many major concerns on accountability and reconciliation in response to the 60th session of the Human Rights Council.
-
-This government made many promises when taking office. However, even after a full year of the presidential election, the first step to fulfilling those promises has not yet been taken.
-
-...
-
-[Data](articles/36f3dbb7.json)
-
-[Extended Data](ext_articles/36f3dbb7.ext.json)
-
----
-
-### Vijayakanth's sister died
-
-*2025-09-09 22:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜயகாந்தின்-சகோதரி-உயிரிழந்தார்/54-364311) · `ta`
-
-Captain Vijayakanth's sister Vijayalakshmi passed away today. Her funeral will be held at her residence tomorrow at 3 pm.
-
-Actor Vijayakanth was born with six brothers and five sisters in total. Vijayakanth's eldest brother's name is Nagaraj and Vijayakanth is the next born.. Following him, Selvaraj, Paul Raj, Ramraj, Prithviraj, Vijayalakshmi, Chitra, Thirumaladevi and Shanti were born.
-
-Of these, only Selvaraj and Balraj live in Madurai. The two lives with their family at the Andalpavan residence built by Vijayakanth's father in Madurai.
-
-The other brothers and sisters are all in Chennai and Theni. In this case, Vijayakanth's elder sister passed away today with her family in Chennai.
-
-Her funeral will be held tomorrow evening from one hour to three o'clock, at his residence on North Cross Street, Anna Nagar. Many are condoled by the death of Vijayakanth's older sister.
-
-...
-
-[Data](articles/c3583ce2.json)
-
-[Extended Data](ext_articles/c3583ce2.ext.json)
-
----
-
-### Killing the wife of former Prime Minister of Nepal
-
-*2025-09-09 22:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முன்னாள்-பிரதமரின்-மனைவி-எரித்துக்-கொலை/50-364305) · `ta`
-
-According to media reports, the former Prime Minister's wife was burnt alive in Nepal.
-
-Following the ban on social media sites by the Nepal government. 8) involved in great struggle. In this case, the struggle erupted in a riot.
-
-Rajyalakshmi Chitrakar, wife of former Nepal Prime Minister Jalanath Kanal in the riots (Sept.). 9) died. The protesters set fire to the house where he lived in Dallu area in Kathmandu. The house is on fire.
-
-In this context, Rajyalakshmi died today without treatment.. The media reported that this information was reported in close proximity to his family.. Remble
-
-◼️
-
-[Data](articles/a1afa833.json)
-
-[Extended Data](ext_articles/a1afa833.ext.json)
-
----
-
-### Find a car called Sampath Manampara
-
-*2025-09-09 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214380) · `si`
-
-Embilipitiya Police have found a car named Palhakarari's brother, Sampath Manampera today (09).
-
-The interrogation from the garage owner has revealed that a person had been put into the car and left the car to give the car at Sampath Manampera.
-
-Sampath Manampet has been accused of concealing the two containers used to produce ice materials used in the Middeniya, who was used to manufacture the ice materials used in Keltadadara Paddle, who was named as a group of organized criminal gangs.
-
-Meanwhile, the Sri Lanka Civil Arose Front has recently taken measures to prohibit the party's membership of the brother of Palhakarakarai.
-
-◼️
-
-[Data](articles/0348b050.json)
-
-[Extended Data](ext_articles/0348b050.ext.json)
-
----
-
-### Qatar - Israel attack in Doha
-
-*2025-09-09 21:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கத்தார்-தோஹாவில்-இஸ்ரேல்-தாக்குதல்/50-364300) · `ta`
-
-Israel today launched an offensive in Qatar's capital, Doha, targeting Hamas movement leaders.
-
-Israel, which is expanding its military operations throughout the Middle East, is also aimed at Qatar, where the Hamas political base is located.
-
-An Israeli official confirmed to Reuters News that Israel's attack on Hamas leaders in Qatar.
-
-Qatar's al -Jasira Television, which cited Hamas, reported that the attack was held on the Hamas Gaza Ceylon Ceylon. Remble
-
-◼️
-
-[Data](articles/cb76ea4a.json)
-
-[Extended Data](ext_articles/cb76ea4a.ext.json)
 
 ---

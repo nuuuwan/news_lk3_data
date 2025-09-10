@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 04:54:23**
+As of **2025-09-11 05:20:21**
 
 ## Newspaper Stats
 
-*Scraped **75,258** Articles*
+*Scraped **75,262** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 765
+colombotelegraphcom | 767
 economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
@@ -19,18 +19,44 @@ dailyftlk | 5,329
 adalk | 7,298
 adaderanalk | 9,657
 tamilmirrorlk | 11,238
-virakesarilk | 12,275
+virakesarilk | 12,277
 adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,779 (88.7%) of 75,258 articles have been extended.
+66,794 (88.7%) of 75,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
+
+### உள்ளக மற்றும் கலப்புப்பொறிமுறைகளை முற்றாக நிராகரியுங்கள் - ஐ.நா மனித உரிமைகள் பேரவையின் உறுப்புநாடுகளிடம் 69 புலம்பெயர் தமிழர் அமைப்புக்கள் கூட்டாக வலியுறுத்தல்
+
+*2025-09-11 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224771) · `ta`
+
+பொறுப்புக்கூறலுக்கான ஆக்கபூர்வமான செயன்முறையை இலங்கை அரசாங்கத்திடம் வலியுத்துவதன் ஊடாக ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் உள்ளகப்பொறிமுறைக்கான இடைவெளியை வழங்குவதானது, அத்தகைய உள்ளகப்பொறிமுறைகளின் நீண்டகாலத்தோல்வியின் பின்னணியில் அச்சுறுத்தலானதொரு நிலையையே தோற்றுவிக்கும் என கூட்டாக எச்சரித்திருக்கும் புலம்பெயர் தமிழர் அமைப்புக்கள், உள்ளக மற்றும் கலப்புப் பொறிமுறைகளை முற்றாக நிராகரிக்குமாறு ஐ.நா மனித உரிமைகள் பேரவையின் உறுப்புநாடுகளிடம் வேண்டுகோள்விடுத்துள்ளன.
+
+...
+
+[Data](articles/f5ca03c9.json)
+
+---
+
+### ஜீ. வி. பிரகாஷ் குமார் வெளியிட்ட முனீஸ்காந்த்தின் 'மிடில் கிளாஸ்' படத்தின் மோசன் போஸ்டர்
+
+*2025-09-11 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224770) · `ta`
+
+தமிழ் சினிமாவில் நகைச்சுவை நடிகராகவும், குணச்சித்திர நடிகராகவும், ரசிகர்களிடம் பிரபலமான நடிகர் முனீஸ்காந்த் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'மிடில் கிளாஸ்' எனும் புதிய திரைப்படத்தின் டைட்டில் மற்றும் படத்திற்கான மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது. இதனை இசையமைப்பாளரும், நட்சத்திர நடிகருமான ஜீ .வி. பிரகாஷ் குமார் அவருடைய சமூக வலைதள பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+இயக்குநர் கிஷோர் முத்துராமலிங்கம் இயக்கத்தில் உருவாகி வரும் 'மிடில் கிளாஸ்' எனும் திரைப்படத்தில் முனீஸ்காந்த், விஜயலட்சுமி, குரேஷி, காளி வெங்கட், ராதா ரவி, கோடாங்கி வடிவேலு, மாளவிகா அவினாஷ் , வேல ராமமூர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சுதர்சன் சீனிவாசன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பிரணவ் முனிராஜ் இசையமைத்திருக்கிறார். நகைச்சுவை படைப்பாக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஆக்ஸஸ் ஃபிலிம் ஃபேக்டரி மற்றும் குட் ஷோ ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் தேவ் மற்றும் கே. வி .துரை ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/7486e8d5.json)
+
+---
 
 ### The government's attempt to eliminate the privileges of former presidents does not seem to be held to hold provincial council elections - Nisam Kariyapar
 
@@ -244,6 +270,24 @@ Tasun Eranga Wickremaratne, who represented the first two independent groups, sa
 
 ---
 
+### Press Junket: Sri Lankan Journalists Visiting Israel
+
+*2025-09-10 22:48:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/press-junket-sri-lankan-journalists-visiting-israel/) · `en`
+
+Settler colonial state of Israeli presence in Sri Lanka threatens communal harmony and national security besides insults the island which was in the forefront in the regional and international forums defending the legitimate rights of Palestinians.
+
+Most Sri Lankans are not familiar with the blood soaked history of Israel as mainstream local media, perhaps under US- Israeli influence, refuses to highlight Israeli crimes. Shameful state of affairs is such that Prime Minister Benjamin Netanyahu was declared by International Criminal Court as a war criminal who has taken the whole world to
+
+There was no Israel before 1948. It was Palestine which was part of vast Turkey’s Ottoman Empire- spanned from around 1299 to 1922. During World War I  Turkey was defeated and the victorious Britain and France brought the entire Arab world under their control.
+
+...
+
+[Data](articles/f90579fb.json)
+
+[Extended Data](ext_articles/f90579fb.ext.json)
+
+---
+
 ### Students issue the students to enter the entry for intermediate series of schools
 
 *2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
@@ -255,6 +299,20 @@ The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grad
 [Data](articles/dfbc9292.json)
 
 [Extended Data](ext_articles/dfbc9292.ext.json)
+
+---
+
+### Constitutional Traps & Professional Responsibility: Reflections On Sri Lanka’s Aragalaya
+
+*2025-09-10 22:24:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/constitutional-traps-professional-responsibility-reflections-on-sri-lankas-aragalaya/) · `en`
+
+This article serves as a reflection on the Aragalaya movement that swept across Sri Lanka, examining the complex dynamics that emerged when mass popular mobilization intersected with established professional communities. The Aragalaya, which began as a response to severe economic crisis and governance failures, revealed important questions about institutional reform, professional responsibility, and the structural frameworks within which legal, academic, and media professional institutions operate. Through analyzing the responses of these professional communities during this critical period, we can better understand the challenges of institutional reform and the role of professional expertise in times of social transformation.
+
+...
+
+[Data](articles/415931dc.json)
+
+[Extended Data](ext_articles/415931dc.ext.json)
 
 ---
 
@@ -1945,83 +2003,5 @@ Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and 
 [Data](articles/3daae550.json)
 
 [Extended Data](ext_articles/3daae550.ext.json)
-
----
-
-### Sri Lanka’s Citrus Leisure sells 10-pct stake in Hikkaduwa Beach Resort
-
-*2025-09-10 13:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-citrus-leisure-sells-10-pct-stake-in-hikkaduwa-beach-resort-239980/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Citrus Leisure has sold 62.500,000 ordinary voting shares of Hikkaduwa Beach Resort to the market, the company said.
-
-This constitutes over l0 percent of the issued voting shares of Hikkaduwa Beach Resort, the company said in a stock exchange filing.
-
-Citrus Leisure is the major shareholder of Hikkaduwa Beach Resort.
-
-The Citrus Leisure chain owns and operates Citrus Waskaduwa, Citrus Hikkaduwa and the Steuart by Citrus. (Colombo/Sep10/2025)
-
-◼️
-
-[Data](articles/7deb8824.json)
-
-[Extended Data](ext_articles/7deb8824.ext.json)
-
----
-
-### Burning down the parliament and court a ‘great disrespect’ to Nepal’s democracy – Ranil
-
-*2025-09-10 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112353/burning-down-the-parliament-and-court-a-great-disrespect-to-nepals-democracy-ranil-) · `en`
-
-Former President of Sri Lanka Ranil Wickremesinghe today expressed deep concern over the situation in Kathmandu, Nepal, condemning the recent violence and calling for the restoration of peace and stability in the country.
-
-“First of all, I condemn all kinds of killings, including those of the youth that has occurred in Nepal. Similarly, the burning of the former Prime Minister’s house and the killing of the former Prime Minister’s wife is an extremely sad situation. I express my condolences over that murder,” he said issuing a special statement.
-
-He further noted that the attacks on ministers, particularly the Foreign Minister, were a continuation of the tragedy, emphasizing that women’s rights had been gravely violated and that such acts had tarnished Nepal’s international reputation.
-
-The former president said the situation in Kathmandu “should not have gone this far” and that the shooting by the police was an “unacceptable course of action”.
-
-...
-
-[Data](articles/4ef84560.json)
-
-[Extended Data](ext_articles/4ef84560.ext.json)
-
----
-
-### Former Moratuwa Mayor Saman Lal Fernando arrested
-
-*2025-09-10 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112352/former-moratuwa-mayor-saman-lal-fernando-arrested-) · `en`
-
-Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been arrested.
-
-He has been arrested by officers attached to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 12:50 p.m. today (10).
-
-The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
-
-He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
-
-Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando is scheduled to be produced before the Colombo Chief Magistrate today, the Bribery Commission stated.
-
-◼️
-
-[Data](articles/d4fb06c5.json)
-
-[Extended Data](ext_articles/d4fb06c5.ext.json)
-
----
-
-### Former former Moratuwa Mayor arrested
-
-*2025-09-10 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214400) · `si`
-
-Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Investigation Commission.
-
-It is reported that the road development projects in the Moratuwa Municipal Council have been arrested for their losses.
-
-◼️
-
-[Data](articles/96ab9c13.json)
-
-[Extended Data](ext_articles/96ab9c13.ext.json)
 
 ---

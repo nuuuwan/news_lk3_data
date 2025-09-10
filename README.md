@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 23:20:11**
+As of **2025-09-10 22:54:18**
 
 ## Newspaper Stats
 
-*Scraped **75,245** Articles*
+*Scraped **75,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,298
+adalk | 7,294
 adaderanalk | 9,653
 tamilmirrorlk | 11,237
 virakesarilk | 12,268
@@ -26,61 +26,11 @@ adaderanasinhalalk | 13,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,468 (88.3%) of 75,245 articles have been extended.
+66,462 (88.3%) of 75,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
-
-### ඇල්ල අනතුර සිදුවු ස්ථානයේ පස්බැමි යොදා ආරක්ශිත බැම්මක් ඉදිකරයි
-
-*2025-09-10 22:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුර-සිදුවු-ස්ථානයේ-පස්බැමි-යොදා-ආරක්ශිත-බැම්මක්-ඉදිකරයි/11-418417) · `si`
-
-ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 15 කනුව ප්‍රදේශයේ දී 15කට මරු කැදවා 18 කට තුවාල සිදුවු ස්ථානයයේ පස්බැමි යොදා ආරක්ශිත බැම්මක් අද (10) ඉදිකල බව ඌවපලාත් ආණ්ඩුකාරවර නීතිඥ කපිල ජයසේකර මහතා පවසයි .
-
-තංගල්ල නගර සභාවේ සේවක පිරිසක් පවුලේ උදවිය සමග විනෝද චාරිකාවක ගොස් ආපසු තංගල්ල බලා ගමන් කරමින් සිටියදි    ඇල්ල වැල්ලවාය මාර්ගයේ දී   ඉකුත් 4 වනදින රාත්‍රි එම විනෝද චාරිකා බස්‍ රථය අඩ් දහසක පමන ප්‍රපාතයකට පෙරලීයාමෙන් මෙම අනතුර සිදුවිය.
-
-මෙම ස්ථානයේ මීට පෙර ත් මාර්ග අනතුරු කීපයක් සිදු වී විශාල ජීව්ත රැසක් අහිමි වූ බවත් එම නිසා මාරක අඅනතුරු අවම කිරිමේ අරමුණින් මාර්ග සංවර්ධන අධිකාරිය සමග එක්වී මෙසේ මෙම ස්ථානයයේ පස්බැමි යොදා ආරක්ශිත බැම්මක් ඉදිකර තිබේ.
-
-මෙම මාරක රිය අනතුරින් පසුව ඌවපලාතේ රාජ්‍ය ආයතන 28 ක ප්‍රධානත්වයෙන් ඌවපලාත් ආණ්ඩුකාරවර නීතිඥ කපිල ජයසේකර මහතා ගේ උපදෙස් මත පැවති මාර්ග ආරක්ශාව පිළිබඳ කමිටු රැස්වීමේදී ගත් තීරනයක්  මෙම වැඩපිළිවෙළ දිස්ත්‍රික්කයේ අනතුරු දායක ස්ථානවල ඉදිකිරීම ට කටයුතු සිදු කරන බවත් ආණ්ඩුකාරවර නීතිඥ කපිල ජයසේකර මහතා වැඩිදුර සදහන් කලේය .
-
-◼️
-
-[Data](articles/e0674e34.json)
-
----
-
-### අකුරණ ස්වාධීන මන්ත්‍රීවරු තිදෙනා මාලිමාවට සහාය ලබාදීමෙන් ඉවත් වෙති
-
-*2025-09-10 22:54:08* · [`adalk`](https://www.ada.lk/breaking_news/අකුරණ-ස්වාධීන-මන්ත්‍රීවරු-තිදෙනා-මාලිමාවට-සහාය-ලබාදීමෙන්-ඉවත්-වෙති/11-418416) · `si`
-
-අකුරණ ප්‍රාදේශීය සභාව සඳහා ස්වාධීන කණ්ඩායම් අංක 01 සහ අංක 02 යන ස්වාධීන කණ්ඩායම් දෙකෙන් තේරි පත් වූ මන්ත්‍රීවරුන් තිදෙනො මෙතෙක් ජාතික ජන බලවේගයට ලබා දී තිබූ සහාය අද 10 වනදා සිට ඉල්ලා අස් කර ගන්නා බව මාසික මහ සභා රැස්වීමේදී  එම මන්ත්‍රීවරුන් තිදෙනා වෙන් වෙන් වශයෙන් ප්‍රකාශයන් සිදු කර සිය සහාය ඉල්ලා අස් කර ගත්හ.
-
-අකුරණ ප්‍රාදේශීය සභාවේ සභාපතිවරයා තෝරා පත් කර ගැනීම සඳහා ඡන්දයක් පැවැති අතර එම ඡන්දයේදී මෙම සභිකවරුන් තිදෙනා ජාතික ජන බලවේගයේ  සභාපති අපේක්ෂකට සහාය ලබා දී තිබූ අතර එදා පටන් මේ දක්වා ඔවුහු ජාතික ජන බලවේගයට සහාය ලබා දෙමින් සිටියහ.
-
-කෙසේ නමුත් අද 10 වනදා පැවැති අකුරණ ප්‍රාදේශීය සභාවේ මාසික මහ සභා රැස්වීමේදී එම මන්ත්‍රීවරුන් තිදෙනා වෙන් වෙන් වශයෙන් ප්‍රකාශයන් සිදු කරමින් ජාතික ජන බලවේගයට ලබා දී තිබූ  සිය සහාය ඉල්ලා අස් කර ගන්නා බව ප්‍රකාශ කළහ.
-
-මෙහිදී මුලින්ම අදහස් දැක්වූ ස්වාධීන කණ්ඩායම් 02 නියෝජනය කරමින් තේරි පත්ව සිටින කසුන් එරංග වික්‍රමරත්න මහතා මෙසේ කීය.
-
-...
-
-[Data](articles/2e7c2a3a.json)
-
----
-
-### Students issue the students to enter the entry for intermediate series of schools
-
-*2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
-
-The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grades 5 and Grades 11).
-
-◼️
-
-[Data](articles/dfbc9292.json)
-
-[Extended Data](ext_articles/dfbc9292.ext.json)
-
----
 
 ### India beat India
 
@@ -168,19 +118,17 @@ The Speaker announced that the proposal was passed by Parliament and the Committ
 
 ---
 
-### "Health" Medical Camp for the well -being of public servants
+### அரச ஊழியர்களின் நல்வாழ்வுக்காக "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம்
 
 *2025-09-10 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224760) · `ta`
 
-The inaugural event of the "Healthy" Medical Camp Project was held on Wednesday (10), headed by Health Minister Nalinda Jayatissa, focusing on the Gampaha district.
+அரசாங்க ஊழியர்களின் நல்வாழ்வுக்காக "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம் திட்டத்தின் ஆரம்ப நிகழ்வு சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தலைமையில் கம்பஹா மாவட்டத்தை மையமாகக் கொண்டு புதன்கிழமை (10)  ஜா-எல பகுதியில் இடம்பெற்றது.
 
-The inaugural event of the "Health" Medical Camp Project, which will be held under the new program of the Ministry of Health and Mass Media for the well-being of public servants and their family members, took place on Wednesday.  The project was launched under the leadership of Health and Media Minister Nalinda Jayatissa for the Sri Lankan Police Officers, focusing on all the police divisions in the Gampaha district.
+அரச ஊழியர்கள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களின் நல்வாழ்வுக்காக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் புதிய திட்டத்தின் கீழ் நடத்தப்படும் "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம் திட்டத்தின் ஆரம்ப நிகழ்வு ஜா-எல பகுதியில் நேற்று புதன்கிழமை  இடம்பெற்றது.  கம்பஹா மாவட்டத்தில் உள்ள அனைத்து பொலிஸ் பிரிவுகளையும் மையமாகக் கொண்டு, இலங்கை பொலிஸ் உத்தியோகத்தர்களுக்காக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் தலைமையில் இத்திட்டம் ஆரம்பித்து வைக்கப்பட்டது.
 
 ...
 
 [Data](articles/2e311198.json)
-
-[Extended Data](ext_articles/2e311198.ext.json)
 
 ---
 
@@ -269,24 +217,6 @@ Minister Herath provided a detailed explanation of Sri Lanka’s position on the
 [Data](articles/563d58ab.json)
 
 [Extended Data](ext_articles/563d58ab.ext.json)
-
----
-
-### The Title Removal Act passed
-
-*2025-09-10 19:44:10* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරුන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත-සම්මතයි/11-418413) · `si`
-
-The Bill of the Presidency 'Clearance (Removal) "The Bill was passed in parliament today (10). The second was the debate on the second reading of the second reading today, and 151 votes were cast against the second reading of the bill.
-
-The Bill, presented to parliament on August 20, 2025, was presented to parliament by the Minister of Justice and National Integration on August 202.
-
-Accordingly, a house or other monthly allowance provided to a former president or former president in terms of Section 2 of Section 2 of the Act; The monthly pension paid to a former President or former president in the provisions of Section 3 of Section 3, according to the provisions of Section 3, the monthly pension paid to a former president is dedicated to the widow of a former president.
-
-◼️
-
-[Data](articles/885fbf25.json)
-
-[Extended Data](ext_articles/885fbf25.ext.json)
 
 ---
 
@@ -1997,5 +1927,83 @@ Under the current pricing system, cross subsidizing consumers are permitted. (Co
 [Data](articles/7ff42b3e.json)
 
 [Extended Data](ext_articles/7ff42b3e.ext.json)
+
+---
+
+### Migrant remittances exceed $ 5 billion
+
+*2025-09-10 11:46:55* · [`adalk`](https://www.ada.lk/breaking_news/විගමණික-ප්‍රේෂණ--ඩොලර්-බිලියන-5-ඉක්මවයි/11-418404) · `si`
+
+Sri Lanka Bureau of Foreign Employment (SLBFE) says 212,302 Sri Lankan workers have been abroad over January to August 2025. Male workers abroad compared to female workers have grown significantly during this period and the number of male workers have been abroad for employment during this period 130,252. During the past eight months, 82,050 female workers have gone abroad.
+
+Sri Lankan workers are mostly employed to Kuwait, which is 53,159. The United Arab Emirates 41,180 workers and 30,263 workers have left over during this period.
+
+The more trend on Sri Lankan workers, in East Asian countries, have now been leaving the traditional Middle East. Accordingly, Japan has 8,015 workers and 4,324 to South Korea and have gone abroad.
+
+...
+
+[Data](articles/208ce0bc.json)
+
+[Extended Data](ext_articles/208ce0bc.ext.json)
+
+---
+
+### Colombo Central Bus Terminal will be closed tomorrow
+
+*2025-09-10 11:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்திய-பேருந்து-முனையம்-நாளை-முதல்-மூடப்படும்/175-364336) · `ta`
+
+The Sri Lanka Transport Board (SLTB) has announced that the Central Bus Terminal in Colombo will be closed for the reconstruction work for 10 months from tomorrow (11).
+
+The Sri Lanka Transport Board (SLTB) Deputy General Manager of the Sri Lanka Transport Board (PHRT) said that the buses of the Sri Lanka Transport Board (SLTB) will be operated from Pettaraja Mawatha, Gunasingapura and Bestian Mawatha during the reconstruction of the reconstruction.. Chandrasiri said.
+
+Long -distance buses, including under the integrated schedule, will be operated from the Bestian Mawatha Bus Workshop, while short -distance buses will be operated from Bodhiraja Mawatha.
+
+The Deputy General Manager of the Sri Lanka Transport Board (SLTB). For this project, which is expected to be completed within one year. 540 million has been allocated, he said.
+
+The reconstruction project will be officially launched on September 15 under the leadership of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/b8eccf30.json)
+
+[Extended Data](ext_articles/b8eccf30.ext.json)
+
+---
+
+### Pilgrims go to Lumbini safe to India
+
+*2025-09-10 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214396) · `si`
+
+The 73 Sri Lankan pilgrims who were traveling to Lumbini from India to Lumbini have entered India safely through the border.
+
+◼️
+
+[Data](articles/b9d70e7d.json)
+
+[Extended Data](ext_articles/b9d70e7d.ext.json)
+
+---
+
+### Sri Lankans evacuating from Nepal
+
+*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்கள்-வெளியேற்றம்/175-364335) · `ta`
+
+Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
+
+In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
+
+In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
+
+According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
+
+Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
+
+Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
+
+...
+
+[Data](articles/3f7d004c.json)
+
+[Extended Data](ext_articles/3f7d004c.ext.json)
 
 ---

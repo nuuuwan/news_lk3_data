@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 22:10:37**
+As of **2025-09-10 22:36:56**
 
 ## Newspaper Stats
 
-*Scraped **75,238** Articles*
+*Scraped **75,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,99 @@ adalk | 7,294
 adaderanalk | 9,653
 tamilmirrorlk | 11,237
 virakesarilk | 12,267
-adaderanasinhalalk | 13,109
+adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,428 (88.3%) of 75,238 articles have been extended.
+66,449 (88.3%) of 75,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### இடைக்கால அரசின் தலைவராகிறார் முதல் பெண் தலைமை நீதிபதி
+### ඉන්දියාවට සුපිරි ජයක්
 
-*2025-09-10 21:45:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இடைக்கால-அரசின்-தலைவராகிறார்-முதல்-பெண்-தலைமை-நீதிபதி/50-364377) · `ta`
+*2025-09-10 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214420) · `si`
 
-போராட்டத்தால் சிதைந்து போன நேபாளத்தில் இடைக்கால அரசை வழிநடத்த புதியதொரு தலைவர் தேர்ந்தெடுக்கப்பட்டு அறிவிக்கப்பட்டுள்ளார்.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අද (10) පැවති තරගයෙන් එක්සත් අරාබි එමීර් කණ්ඩායමට එරෙහිව කඩුලු 09ක පහසු ජයක් ලැබීමට ඉන්දීය කණ්ඩායම සමත් විය.
 
-நேபாள அரசால் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடையைத் தொடர்ந்து இளைஞர்கள் அணிதிரண்டு தலைநகர் காத்மாண்டுவில் திங்கள்கிழமை(செப். 8) பெரும் போராட்டத்தில் ஈடுபட்டனர். நேபாளத்தில் ஆட்சியாளா்களின் ஊழல் மற்றும் அரசின் பிற நடவடிக்கைகள் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடை ஆகியவற்றுக்கு எதிராக நடைபெற்ற போராட்டம் கலவரமாக வெடித்தது.
+ඩුබායි ක්‍රීඩාංගණයේ පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් එක්සත් අරාබි එමීර් කණ්ඩායමට පන්දුවාර 13.1කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 57ක් පමණි.
 
-நேபாளத்தில் இளைஞா்களின் போராட்டம் தீவிரமடைந்ததைத் தொடா்ந்து பிரதமா் பதவியை கே.பி.சா்மா ஓலி செவ்வாய்க்கிழமை இராஜிநாமா செய்தாா்.
+ඒ අනුව ලකුණු 58ක පහසු ඉලක්කයක් හඹාගිය ඉන්දීය කණ්ඩායම තරගයේ 5(4.3)වන පන්දුවාරයේ දී එක් කඩුල්ලක් පමණක් දැවී තිබියදී පසුකර යෑමට සමත් විය.
 
-இந்த நிலையில், ஆட்சி அதிகாரம் ராணுவ கட்டுப்பாட்டுக்குள் கொண்டுவரப்பட்டுள்ளது. இதனிடையே, நேபாளத்தின் முதல் பெண் தலைமை நீதிபதி சுசீலா கார்கி அந்நாட்டின் இடைக்கால அரசின் தலைவராக இன்று (செப். 10) தெரிவு செய்யப்பட்டுள்ளார்.
+එහිදී අනුකම්පා විරහිත ඉනිම් ක්‍රීඩාකළ ආරම්භක පිතිකරු යුගලයෙන් අභිෂේක් ශර්මා පන්දු 16කින් ලකුණු 30ක් රැස්කළේය.
 
-இன்று(செப். 10) போராட்டக் குழுவிலிருந்து பிரதிநிதிகள் பலருடன் ராணுவம் தரப்பிலிருந்து பேச்சுவார்த்தை நடத்தப்பட்டதைத்தொடர்ந்து, இடைக்கால அரசுக்கு யாரை தலைமையேற்கச் செய்யலாம் என்பது குறித்து விவாதிக்கப்பட்டது.
+ඊට අමතරව ශුබ්මන් ගිල් නොදැවී ලකුණු 20ක් රැස්කළ අතර, ඒ වෙනුවෙන් ඔහු මුහුණදුන්නේ පන්දු 09කට පමණි.
 
-...
+◼️
 
-[Data](articles/ba8795d7.json)
+[Data](articles/3ae5637e.json)
 
 ---
 
-### நேபாளத்தில் 13,000க்கும் மேற்பட்ட கைதிகள் தப்பியோட்டம்
+### The Chief Justice of the first female is the head of the interim state
+
+*2025-09-10 21:45:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இடைக்கால-அரசின்-தலைவராகிறார்-முதல்-பெண்-தலைமை-நீதிபதி/50-364377) · `ta`
+
+A new leader has been elected to lead the interim state in Nepal, which was corrupted by the struggle.
+
+Following the ban on social media sites by the Nepal government. 8) involved in great struggle. The riot erupted against the corruption of rulers in Nepal and the ban on social media sites.
+
+KP Sma Oli resigned from Nepal on Tuesday as the Prime Minister's post was intensified.
+
+In this case, the regime has been brought under military control. Meanwhile, Nepal's first female Chief Justice Susila Karki as the head of the country's interim government today (Sep.. 10) Has been chosen.
+
+Today (Sep. 10) Following the talks with a number of representatives from the protest committee, the army was discussing who could lead the interim government.
+
+According to the media, about 4,000 people participated in the online consultation held online.. At the time, the majority of the names of Susila Karki were reportedly proposed. Remble
+
+◼️
+
+[Data](articles/ba8795d7.json)
+
+[Extended Data](ext_articles/ba8795d7.ext.json)
+
+---
+
+### More than 13,000 inmates escaped in Nepal
 
 *2025-09-10 21:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-13-000க்கும்-மேற்பட்ட-கைதிகள்-தப்பியோட்டம்/175-364373) · `ta`
 
-நேபாளத்தில் வெவ்வேறு சிறைச்சாலைகளிலிருந்து 13,000-க்கும் மேற்பட்ட கைதிகள் தப்பியோடியிருப்பதாக வெளியாகியிருக்கும் தகவல் பெரும் அதிர்வலைகளை ஏற்படுத்தியுள்ளது.
+The reports that more than 13,000 inmates have fled from different prisons in Nepal have been shocked.
 
-நேபாள அரசால் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடையைத் தொடர்ந்து இளைஞர்கள் அணிதிரண்டு தலைநகர் காத்மாண்டுவில் திங்கள்கிழமை(செப். 8) பெரும் போராட்டத்தில் ஈடுபட்டனர்.
+Following the ban on social media sites by the Nepal government. 8) They were involved in a great struggle.
 
-நேபாளத்தில் ஆட்சியாளா்களின் ஊழல் மற்றும் அரசின் பிற நடவடிக்கைகள் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடை ஆகியவற்றுக்கு எதிராக நடைபெற்ற போராட்டம் கலவரமாக வெடித்தது.
+The riot erupted against the corruption of rulers in Nepal and the ban on social media sites.
 
-இந்த நிலையில், கலவரத்தின்போதுநேபாளத்தின் ராஜ்பிராஜ் சிறைச்சாலையில் இருந்த கைதிகள் ஏராளமானோர் அந்தச் சிறைச்சாலைக்கு தீவைத்து கொளுத்தி தப்பிவிட்டதாக அதிகாரிகள் தெரிவிக்கின்றனர்.
+Officials say that during the riots, a large number of prisoners in the Rajpiraj prison in Nepal have set fire to the prison.
 
-இதுபோன்ற பல சம்பவங்கள் நேபாள சிறைச்சாலைகளில் நடைபெற்றுள்ளன. இதையடுத்து, சிறைச்சாலைகளில் பாதுகாப்பு நடவடிக்கைகளை நேபாள ராணுவமும் காவல் துறையும் பலப்படுத்தியுள்ளது. R
+Many such incidents have taken place in Nepal prisons. Subsequently, the Nepal Army and the police have strengthened security measures in prisons. Remble
 
 ◼️
 
 [Data](articles/b4056923.json)
+
+[Extended Data](ext_articles/b4056923.ext.json)
+
+---
+
+### Two Members of Parliament are named to serve in several committees
+
+*2025-09-10 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214419) · `si`
+
+Members of Parliament MS. Speaker Jagath Wickramaratne has announced that Abdul and Sujeewa Senasinghe were named to serve in several committee.
+
+Parliamentarian MS in terms of Standing Orders of Parliament and on March 19, 2025. Mr. Dr. Jagath Wickramaratne today (PCs Advisory Committee on the Ministry of Education, Higher Education and Professional Education and the Committee on the Ministry of Education and Mass Media in the province of the Parliament of Parliament, Hon. Announced in Parliament.
+
+The Speaker announced that the proposal was passed by Parliament and the Committee on Public Petitions to serve the Committee on Public Petitions and the Committee on the Board of Parliament in order to serve the Committee on Public Petitions.
+
+◼️
+
+[Data](articles/3c2fb98e.json)
+
+[Extended Data](ext_articles/3c2fb98e.ext.json)
 
 ---
 
@@ -572,7 +616,7 @@ With Prime Minister KP Sharma Oli and his cabinet having resigned, and as law en
 
 ---
 
-### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Nilanga Dela
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
 
 *2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-nilanga-dela) · `en`
 
@@ -1969,43 +2013,5 @@ Protests against the short -term ban on social media in Nepal increased violentl
 [Data](articles/e794c35b.json)
 
 [Extended Data](ext_articles/e794c35b.ext.json)
-
----
-
-### Aishwarya Rai case
-
-*2025-09-10 11:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஐஸ்வர்யா-ராய்-வழக்கு/54-364333) · `ta`
-
-Actress Aishwarya Rai has filed a case in the Delhi High Court seeking a ban on the use of her photos by artificial intelligence and the use of it without permission.
-
-In a case filed by his lawyer Sandeep Sethi, he said, “Photos of Aishwarya Rai, Morning Aishwarya Rai, are being misused online. They are photos made of artificial intelligence. His face is traded using coffee mugs, wallpapers, t-shirts. It is unfortunate that some close photos, which have been fake, are used for pornographic purposes.
-
-This is the act of violating his rights. You have to impose an interim injunction immediately to implement it. ”. Delhi High Court Judge Dejas Karia has ordered the removal of 151 website connections stated in the complaint.. The next hearing of the case will be held on January 15, 2026.
-
-◼️
-
-[Data](articles/56a00260.json)
-
-[Extended Data](ext_articles/56a00260.ext.json)
-
----
-
-### The daughter did not leave the helmet at the death inspection
-
-*2025-09-10 11:25:14* · [`adalk`](https://www.ada.lk/breaking_news/දුව-හෙල්මට්-දාලා-හිටියේ-නෑ--මරණ-පරීක්ෂණයේදී-පියා-කියයි/11-418403) · `si`
-
-"The daughter did not leave Helmet. Three-wheeler came to our front. Suddenly the van that followed it took to the right side of the road to pass the three-wheeler. The motorcycle we had gone rotate on the right side of the van. When I was conscious, I was in the hospital. " Her father said in the death of a university student of a university student of a university injured in a car accident.
-
-The deceased is a 22 year old resident of the Kokawalage of Kokawalage, Hewa Kokawala.
-
-Sudden Death was held at the Galle National Hospital on the 8th of this month.
-
-The girl's father's Nanda Thilakasiri Salesi (57) witnesses:
-
-...
-
-[Data](articles/0937ed65.json)
-
-[Extended Data](ext_articles/0937ed65.ext.json)
 
 ---

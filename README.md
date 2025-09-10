@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 09:11:13**
+As of **2025-09-10 09:56:28**
 
 ## Newspaper Stats
 
-*Scraped **75,096** Articles*
+*Scraped **75,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 5,329
 adalk | 7,273
 adaderanalk | 9,625
-tamilmirrorlk | 11,196
-virakesarilk | 12,258
+tamilmirrorlk | 11,197
+virakesarilk | 12,259
 adaderanasinhalalk | 13,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,753 (87.6%) of 75,096 articles have been extended.
+65,797 (87.6%) of 75,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### இந்தியா - இலங்கை ஒப்பந்தத்தில் கைச்சாத்து
+### நிலைமை எங்க போச்சுனு நீங்களே பாருங்க
+
+*2025-09-10 09:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நிலைமை-எங்க-போச்சுனு-நீங்களே-பாருங்க/62-364318) · `ta`
+
+◼️
+
+[Data](articles/48876dbf.json)
+
+---
+
+### உயிரை மாய்த்துக்கொள்வதற்கான சந்தர்ப்பங்களை சமூகத்தில் குறைப்பதுதான் எங்களுடைய நோக்கம் - சுமித்ரயோ
+
+*2025-09-10 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224278) · `ta`
+
+சமகால சமூகப் பிரச்சினைகளில் உயிர்மாய்ப்பு மிகவும் முக்கியமான ஒரு விடயமாக காணப்படுகிறது. உயிர் மாய்ப்பு நிகழாத காலமோ சமூகமோ உலகில் எங்கும் இல்லை. உயிர் மாய்ப்பில் ஈடுபடுவதானது ஒரு தனிமனிதனது செயலாகக் காணப்பட்டாலும் அது ஒரு சமூக நிகழ்வாகவே பார்க்கப்படுகின்றது. இதன்படி ஒரு மனிதன் பிரச்சினையை எதிர்நோக்குகின்றபோது, அப்பிரச்சினைக்கு முகங்கொடுக்கத் தெரியாமல் உயிரை மாய்த்துக்கொள்ள முடிவெடுக்கிறான். இதனால்தான் உயிர்மாய்ப்பு தடுப்பு முறையானது மிகவும் முக்கியமான ஒன்றாக இருக்கிறது.
+
+உயிர்மாய்ப்பு தடுப்பு மற்றும் விழிப்புணர்வு உள்ளிட்ட பல்வேறு விடயங்களை சுமித்ரயோ அமைப்பின் தன்னார்வ தொண்டர்கள் இருவர் வீரகேசரி பத்திரிகைக்கு வழங்கிய விசேட செவ்வி வருமாறு............
+
+...
+
+[Data](articles/c6291176.json)
+
+---
+
+### India -Sri Lanka Agreement
 
 *2025-09-10 08:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-இலங்கை-ஒப்பந்தத்தில்-கைச்சாத்து/175-364317) · `ta`
 
-மன்னார் மாவட்ட பொது மருத்துவமனைக்கு மருத்துவ உபகரணங்களைக் கொள்வனவு செய்தல் தொடர்பில் 600 மில்லியன் ரூபாய் மானிய புரிந்துணர்வு ஒப்பந்தத்தில், இந்தியாவும் இலங்கையும் கையெழுத்திட்டுள்ளன.
+India and Sri Lanka have signed a subsidy Memorandum of Memorandum of Memorandum for Rs 600 million on the purchase of medical equipment for the Mannar District General Hospital.
 
-இந்த ஒப்பந்தத்தில் நேற்று இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா மற்றும் இலங்கை சுகாதார அமைச்சின் செயலாளர் அனில் ஜாசிங்க ஆகியோர் கொழும்பில் வைத்துக் கையெழுத்திட்டுள்ளனர்.
+The agreement was signed yesterday by Indian High Commissioner Santos Ja and Sri Lanka's Health Secretary Anil Jasinghe.
 
-இந்த திட்டம், இலங்கையின் சுகாதாரத்துறையில் இந்தியாவின் ஒத்துழைப்பு பட்டியலை நீடித்துள்ளதாக இந்திய உயர்ஸ்தானிகரம் தெரிவித்துள்ளது. (a)
+The Indian High Commission has said that the project has extended the list of cooperation in Sri Lanka's health sector.. (A)
 
 ◼️
 
 [Data](articles/ab4b5b6c.json)
+
+[Extended Data](ext_articles/ab4b5b6c.ext.json)
 
 ---
 
@@ -70,23 +96,27 @@ The project will address the critical requirement of an A&E unit at DGH Mannar, 
 
 ---
 
-### பிரித்தானியா, கனடா உள்ளிட்ட 6 நாடுகள் இணைந்து ஐ. நா. மனித உரிமைகள் பேரவையில் இலங்கை தொடர்பில் சமர்ப்பித்துள்ள புதிய பிரேரணை
+### 6 countries including Britain and Canada. Na. A new proposal submitted on Sri Lanka at the Human Rights Council
 
 *2025-09-10 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224686) · `ta`
 
-பிரித்தானிய, கனடா, மலாவி, மொண்டெனீக்ரோ மற்றும் வடக்கு மாசிடோனியா ஆகிய நாடுகள் இணைந்து ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில், இலங்கை தொடர்பான ஒரு புதிய தீர்மான வரைவு (A/HRC/60/L.1) ஒன்றை சமர்ப்பித்துள்ளன.
+Britain, Canada, Malawi, Montenegro and Northern Macedonia, in the 60th session of the United Nations Human Rights Council, submitted a new resolution draft (A/HRC/60/L.1) on Sri Lanka.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில், ஐக்கிய இராச்சியம், கனடா, மலாவி, மொண்டெனீக்ரோ மற்றும் வடக்கு மாசிடோனியா ஆகிய நாடுகள் இணைந்து  இலங்கை தொடர்பான ஒரு புதிய தீர்மான வரைபை சமர்ப்பித்துள்ளன.
+At the 60th session of the United Nations Human Rights Council, the United Kingdom, Canada, Malawi, Montenegro and Northern Macedonia have submitted a new resolution on Sri Lanka.
 
-இந்தத் தீர்மானம், இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்துவதில் கவனம் செலுத்துகிறது.
+This resolution focuses on the development of reconciliation, accountability and human rights in Sri Lanka.
 
-2024 செப்டம்பர், நவம்பர், 2025 மே மாதங்களில் நடைபெற்ற ஜனாதிபதி, பாராளுமன்ற மற்றும் உள்ளூராட்சித் தேர்தல்களைத் இந்த தீர்மானம் வரவேற்றுள்ளது.
+The resolution welcomed the President, Parliament and Local Government elections held in September, November and 2025.
 
-அத்துடன், ஊழல் மற்றும் பொருளாதார முறைகேடுகளுக்குப் பொறுப்புக்கூற அரசாங்கம் எடுத்துள்ள நடவடிக்கைகளையும் அது அங்கீகரித்துள்ளது.
+It has also recognized the government's measures to take accountability of corruption and economic abuse.
+
+The resolution emphasizes that complete accountability for human rights violations and abuse of Sri Lanka, including all sides, especially the LTTE (LTTE), is essential.
 
 ...
 
 [Data](articles/36e1449e.json)
+
+[Extended Data](ext_articles/36e1449e.ext.json)
 
 ---
 
@@ -2061,49 +2091,5 @@ Jayatissa stated that he had contested as a candidate of the Sri Lanka Podujana 
 [Data](articles/2ce5ddb9.json)
 
 [Extended Data](ext_articles/2ce5ddb9.ext.json)
-
----
-
-### The protesters burned the houses of Parliament, Prime Minister and Minister
-
-*2025-09-09 14:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாராளுமன்றம்-பிரதமர்-அமைச்சரின்-வீடுகளை-போராட்டக்காரர்கள்-கொளுத்தினர்/50-364276) · `ta`
-
-As the struggle against the state in Nepal continues for the second day, tensions have been set on fire due to the burning of the houses of the ministers.
-
-Young people jumped in a protest yesterday, condemning the ban on social networks in Nepal. At the time, 19 people were killed in the shooting of the police. The Prime Minister announced last night's lifting of a ban on social media following the youth struggle. The Home Minister and the Minister of Agriculture resigned in charge of the shooting.
-
-In this case, the struggle against the state is continuing today. Thousands of youths are protesting against the resignation of Prime Minister Sharma. They are involved in the struggle to confront all the ways to Parliament in Kathmandu. There, the police, who were working on the security, threw stones at them.
-
-...
-
-[Data](articles/d2d21a9a.json)
-
-[Extended Data](ext_articles/d2d21a9a.ext.json)
-
----
-
-### Macron is looking for new Prime Minister
-
-*2025-09-09 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224630) · `ta`
-
-Francois Barro has resigned from the post of Prime Minister as a new political crisis has emerged in France.
-
-In the confidence vote in the country's parliament on Monday (08), he announced his resignation due to inadequate support.
-
-In the confidence vote, 364 voted against Perovi and 194 support.
-
-Baro's budget is not properly welcomed among his allies. It was a disadvantage for him.
-
-It was reported that President Emanuel Macron would accept the resignation of Pearo on Tuesday (09).
-
-Macron has been forced into a confused situation of whom to choose the next prime minister.  Six persons have been the prime minister in the post of Macron's tenure so far. He is currently looking for the seventh person.
-
-The French President's Office has issued a report that Macron will elect the next prime minister in a few days. It is certain that there will be no general election for the post of Prime Minister.
-
-◼️
-
-[Data](articles/eff20b89.json)
-
-[Extended Data](ext_articles/eff20b89.ext.json)
 
 ---

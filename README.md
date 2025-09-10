@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 01:56:12**
+As of **2025-09-11 02:20:23**
 
 ## Newspaper Stats
 
-*Scraped **75,250** Articles*
+*Scraped **75,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ dailyftlk | 5,329
 adalk | 7,298
 adaderanalk | 9,657
 tamilmirrorlk | 11,237
-virakesarilk | 12,269
+virakesarilk | 12,270
 adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,608 (88.5%) of 75,250 articles have been extended.
+66,630 (88.5%) of 75,251 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-11 (Thursday)
+
+### நாமல் ராஜபக்ஷக்கு 14 நாள் அவகாசம்; மானநஷ்ட வழக்கு எச்சரிக்கை - சுனில் வட்டகல
+
+*2025-09-11 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224762) · `ta`
+
+பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ எனக்கு எதிராக 14 நாட்களுக்குள்  மானநஸ்ட வழக்குத் தாக்கல் செய்ய வேண்டும். இல்லையேல் சட்டத்தின் பிரகாரம் அவருக்கு எதிராக நான் வழக்குத் தாக்கல் செய்து நட்டஈடு கோருவேன்.மானநஸ்ட வழக்கு ஒழுக்கத்தை அடிப்படையாகக் கொண்டது. வழக்குத் தாக்கல் செய்தால் நாமல் ராஜபக்ஷவிடம் சட்டக்கல்லூரி, தாஜுதீன், லசந்த,ஹெக்னெலிகொட , ஜூலம்பிட்டியே அமரே உள்ளிட்ட பல விடயங்களை குறுக்கு கேள்வியாக கேட்பேன் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் பிரதி அமைச்சர் சுனில் வட்டகல தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (10) நடைபெற்ற ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் உறுப்பினர் டி.வி. சானக  அவரது தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ எனக்கு கேள்வி கோரல் பத்திரம் அனுப்பி வைத்துள்ளதாக சபையில் குறிப்பிட்டார். சமூக ஊடகங்கள் பக்கம் சென்றால்  கேள்வி கோரல் பத்திரம் பரிமாற்றப்படுகிறது.ஆனால்  எனக்கு உத்தியோகபூர்வமாக எவ்வித பத்திரமும் இதுவரையில் கிடைக்கப்பெறவில்லை.
+
+...
+
+[Data](articles/e45df53c.json)
+
+---
 
 ### 2025-09-10 (Wednesday)
 
@@ -1997,19 +2015,5 @@ In this case, on the night of September 8, Gopi was talking to the woman as usua
 [Data](articles/4ae9d32a.json)
 
 [Extended Data](ext_articles/4ae9d32a.ext.json)
-
----
-
-### 900 prisons fleeing in the face of violence
-
-*2025-09-10 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214397) · `si`
-
-According to foreign media reports, about 900 inmates of two prisons in Western Nepal have fled in the face of escalating violence.
-
-◼️
-
-[Data](articles/ebd69c03.json)
-
-[Extended Data](ext_articles/ebd69c03.ext.json)
 
 ---

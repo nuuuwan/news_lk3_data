@@ -1,92 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 14:55:41**
+As of **2025-09-10 14:11:18**
 
 ## Newspaper Stats
 
-*Scraped **75,150** Articles*
+*Scraped **75,145** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 764
+colombotelegraphcom | 763
 economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,286
+adalk | 7,284
 adaderanalk | 9,630
-tamilmirrorlk | 11,216
+tamilmirrorlk | 11,215
 virakesarilk | 12,260
-adaderanasinhalalk | 13,094
+adaderanasinhalalk | 13,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,041 (87.9%) of 75,150 articles have been extended.
+66,003 (87.8%) of 75,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### நிஷாந்த உலுகேதென்னவின் விளக்கமறியல் நீடிப்பு
-
-*2025-09-10 14:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்த-உலுகேதென்னவின்-விளக்கமறியல்-நீடிப்பு/175-364346) · `ta`
-
-நிஷாந்தவின் விளக்க மறியல் காலம்  எதிர்வரும் 24ம் திகதி வரையில் நீடிக்க பொல்கஹாவெல நீதிமன்ற நீதவான் உத்தரவிட்டுள்ளார்.
-
-நிஷாந்த கடற்படை புலனாய்வு பிரிவின் பணிப்பாளராக கடமையாற்றிய போது பொத்துஹர பிரதேசத்தில் இடம்பெற்ற கடத்தல் சம்பவம் தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தினால் விசாரணை நடத்தப்பட்டது.
-
-◼️
-
-[Data](articles/ee148b3e.json)
-
----
-
-### අස්වැසුම සැප්තැම්බර් මස දීමනාව අනිද්දා ගිණුම්වලට
-
-*2025-09-10 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214401) · `si`
-
-2025 සැප්තැම්බර් මසට අදාළ අස්වැසුම ප්‍රතිලාභී දීමනාව අනිද්දා (12) දින අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට නියමිත බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
-
-එම මණ්ඩලය සඳහන් කරන්නෙ, මෙලෙස රු.11,201,647,000.00ක මුදලක් ප්‍රතිලාභී පවුල් 1,412,574ක් අතරේ බෙදා හරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී ගිණුම්වලට බැර කිරීමට නියමිත බවය.
-
-ඒ අනුව, අදාළ ප්‍රතිලාභීන්ට සැප්තැම්බර් මස 12 වන දා සිට තමාට හිමි අස්වැසුම දීමනාව තම අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුම මඟින් ලබාගත හැකියි.
-
-◼️
-
-[Data](articles/16fe1b86.json)
-
----
-
 ### මොරටුව හිටපු නගරාධිපති අත්අඩංගුවට
-
-*2025-09-10 14:00:34* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-හිටපු-නගරාධිපති-අත්අඩංගුවට/11-418408) · `si`
-
-මොරටුව මහ නගර සභාවේ මාර්ග සංවර්ධන ව්‍යාපෘති සිය හිතවතුන්ට ලබාදීමෙන් රජයට පාඩුකිරීමේ චෝදනා යටතේ මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන්ලාල් ප්‍රනාන්දු මහතා අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/3daae550.json)
-
----
-
-### Former former Moratuwa Mayor arrested
 
 *2025-09-10 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214400) · `si`
 
-Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Investigation Commission.
+මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන්ලාල් ප්‍රනාන්දු මහතා අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-It is reported that the road development projects in the Moratuwa Municipal Council have been arrested for their losses.
+මොරටුව මහ නගර සභාවේ මාර්ග සංවර්ධන ව්‍යාපෘති සිය හිතවතුන්ට ලබාදීමෙන් රජයට පාඩුකිරීම සම්බන්ධයෙන් වන චෝදනාවකට මෙලෙස අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
 
 ◼️
 
 [Data](articles/96ab9c13.json)
-
-[Extended Data](ext_articles/96ab9c13.ext.json)
 
 ---
 
@@ -354,28 +310,6 @@ Police said the police said they were arrested on charges of negligence in maint
 
 ---
 
-### Emergency shifts for Dambulla Police Inspector
-
-*2025-09-10 11:13:46* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-මූලස්ථාන-පොලිස්-පරීක්ෂකට-හදිසි-ස්ථාන-මාරුවක්/11-418402) · `si`
-
-Dambulla Police Inspector Wasantha Kumara has been sent to the Signatribution of the National Police Commission and the IGP to transfer the transfers to the November 09th to the Colombo Police Division.
-
-Wasantha Kumara was assumed as Dambulla Headquarters Inspector about a year and a half ago.
-
-The Supreme Court is being carried out by the Supreme Court case on an arbitrary transfer of transfers of the past struggle.
-
-Sugath Bandara Wijesundara has been appointed as the OIC of the Pudu Padu Oya Police for vaccoting Dambulla Police Inspector for Varathayadu Police Inspector.
-
-Accordingly, he is scheduled to be held as the Dambulla Headquarters Inspector of Dambulla.
-
-◼️
-
-[Data](articles/6df165fe.json)
-
-[Extended Data](ext_articles/6df165fe.ext.json)
-
----
-
 ### Airlines canceled between Sri Lanka and Nepal
 
 *2025-09-10 11:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாளம்-இடையில்-விமானச்-சேவைகள்-ரத்து/175-364331) · `ta`
@@ -468,25 +402,23 @@ Prime Minister Donald Tusk confirmed a military response operation was underway 
 
 ---
 
-### Medical doctor for sale in Teldeniya Hospital
+### තෙල්දෙණිය රෝහලේ වෛද්‍යවරයෙක් අත්අඩංගුවට
 
 *2025-09-10 11:00:34* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්දෙණිය-රෝහලේ-වෛද්‍යවරයෙක්-අත්අඩංගුවට/11-418401) · `si`
 
-A doctor was arrested in the hospital, a doctor was arrested by the Dummy Superintendent of the Teldeniya Hospital and the staff of the staff.
+තෙල්දෙණිය රෝහලේ වෛද්‍ය අධිකාරිවරයාට සහ  කාර්ය මණ්ඩලයේ රාජකාරියට බාධා වන අයුරින් හැසිරුන බව කියන එම රෝහලේම වෛද්‍යවරයකු අත්අඩංගුවට ගත් බව තෙල්දෙණිය පොලිසිය කියයි.
 
-According to a complaint lodged by the police, Sunil Senarath Yapa has been arrested on a complaint extended by the police at the Teldeniya Hospital.
+තෙල්දෙණිය රෝහලේ වෛද්‍ය අධිකාරි සුනිල් සෙනරත් යාපා මහතා විසින් පොලිසියට සිදු කරන ලද පැමිණිල්ලකට අනුව එම වෛද්‍යවරයා සැකපිට අත්අඩංගුවට ගෙන තිබේ.
 
-The police say that the accusation and threat of the hospital will interfere with the duties of the hospital staff.
+රෝහල් කාර්ය මණ්ඩලයේ රාජකාරියට බාධා වන අයුරින් හැසිරීම සහ තර්ජනය කිරීම යන චෝදනා පැමිණිල්ලේ සඳහන් වන බව පොලිසිය කියයි.
 
-The arrested doctor is being released on bail after the suspect, who was taken into court and was produced before courts on 22.08.2012, police said.
+සැකපිට අත්අඩංගුවට ගත් වෛද්‍යවරයා මීට පෙරදීද රෝහල් කාර්ය මණ්ඩලයේ රාජකාරියට බාධාවන අයුරින් හැසිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු 2025.08.22 දින ඇප මත නිදහස්ව ඇති අයෙකු බවද පොලිසිය කියයි.
 
-The arrested doctor was to be produced before the Teldeniya Magistrate's Court today.
+අත්අඩංගුවට පත් වෛද්‍යවරයා අද (10) තෙල්දෙණිය මහේස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
 
 ◼️
 
 [Data](articles/7b01b514.json)
-
-[Extended Data](ext_articles/7b01b514.ext.json)
 
 ---
 
@@ -1045,20 +977,6 @@ The project will address the critical requirement of an A&E unit at DGH Mannar, 
 [Data](articles/8250b479.json)
 
 [Extended Data](ext_articles/8250b479.ext.json)
-
----
-
-### Sri Lanka’s Struggle With Giants: Science, Law, & The Human Cost Of Elephant Conservation
-
-*2025-09-10 08:38:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-struggle-with-giants-science-law-the-human-cost-of-elephant-conservation/) · `en`
-
-For as long as memory reaches, the Asian elephant has been part of Sri Lanka’s story. It has carried kings in processions, laboured alongside farmers, appeared in myth, ritual, and art, and wandered the forests as a symbol of power and endurance. However, a tragedy is taking place throughout our rural heartlands behind this cultural reverence. More than 400 elephants and more than 120 people are killed every year in Sri Lanka, which has one of the highest rates of human-elephant conflict in the world. With an estimated 6,000 elephants in the wild, the highest density of Asian elephants per land area, this conflict has emerged as one of the island’s most urgent conservation issues. Only a portion of the story is revealed by these figures. Every incident conceals a more profound.
-
-...
-
-[Data](articles/ed11bf48.json)
-
-[Extended Data](ext_articles/ed11bf48.ext.json)
 
 ---
 
@@ -1963,5 +1881,117 @@ Qatar's al -Jasira Television, which cited Hamas, reported that the attack was h
 [Data](articles/cb76ea4a.json)
 
 [Extended Data](ext_articles/cb76ea4a.ext.json)
+
+---
+
+### CP Radhakrishnan elected as India’s 15th Vice President
+
+*2025-09-09 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112336/cp-radhakrishnan-elected-as-indias-15th-vice-president) · `en`
+
+BJP veteran and former Maharashtra governor CP Radhakrishnan was elected the Vice President of India on Tuesday, defeating Opposition INDIA bloc nominee Justice (retd) B. Sudershan Reddy in a largely one-sided contest.
+
+Radhakrishnan, 68, secured 542 votes, while Reddy, fielded as a symbolic challenger by the Opposition, polled 300 votes. With the ruling NDA commanding a comfortable majority, the outcome was widely anticipated.
+
+A lifelong member of the RSS and a two-time MP from Coimbatore, Radhakrishnan has been known for his conciliatory style of politics, earning the moniker “Vajpayee of Coimbatore.”
+
+His elevation, political observers say, signals the BJP’s intent to deepen its influence in southern India, particularly Tamil Nadu, which heads for polls next year.
+
+The choice of Radhakrishnan also highlights the BJP’s strategy of OBC consolidation, as he belongs to the Gounder community, influential in western Tamil Nadu.
+
+...
+
+[Data](articles/de114d5a.json)
+
+[Extended Data](ext_articles/de114d5a.ext.json)
+
+---
+
+### Uzman Shinvari registers retirement from cricket
+
+*2025-09-09 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214379) · `si`
+
+The Uzmann Shinvari has decided to retire from Pakistan fast bowler.
+
+It is reported that Uzmann Singura has announced this in a statement.
+
+He represented the Pakistan for about six years and played 17 ODIs and 16 Twenty20 matches.
+
+He has taken 13 wickets and 13 T20 wickets.
+
+Uzman obtained his best bowling talent in his second ODI, and he was able to take five wickets against Sri Lanka.
+
+In 2019, he took 5 wickets again against Sri Lanka in his final ODI.
+
+He was also a member in the Pakistan squad at the 2018 Asian Cup.
+
+◼️
+
+[Data](articles/6a421585.json)
+
+[Extended Data](ext_articles/6a421585.ext.json)
+
+---
+
+### Sri Lanka parliament passes resolution to promote, protect UAE deals
+
+*2025-09-09 20:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-resolution-to-promote-protect-uae-deals-239896/) · `en`
+
+ECONOMYNEXT – Sri Lanka parliament passed a resolution on the agreements signed between Sri Lanka and the United Arab Emirates (UAE) early this year with a majority 163 votes against none opposing in the 225-member legislature.
+
+The agreement is for the promotion and protection of investments in Sri Lanka by nationals of the United Arab Emirates or by corporations, societies or other associations incorporated or constituted under the laws of that State
+
+It was signed between the two nations on Reciprocal Promotion and Protection of Investments to strengthen economic and investment relations. The agreement was signed during President Anura Kumara Dissanayake’s three-day official visit to the United Arab Emirates (UAE) to attend the World Governments Summit 2025.
+
+The bilateral agreement was to establish a secure legal framework to expand investment opportunities in global markets while ensuring the protection of foreign investments.
+
+...
+
+[Data](articles/b1612b21.json)
+
+[Extended Data](ext_articles/b1612b21.ext.json)
+
+---
+
+### Electricity tariffs to increase by 6.8%?
+
+*2025-09-09 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112335/electricity-tariffs-to-increase-by-68) · `en`
+
+The Ceylon Electricity Board (CEB) has proposed a 6.8% increase in electricity tariffs for the final quarter of 2025, according to the Public Utilities Commission of Sri Lanka (PUCSL).
+
+Accordingly, the PUCSL has decided to obtain public opinion on the proposed amendments.
+
+The PUCSL stated that the general public can submit their comments and suggestions in writing to the Commission.
+
+To obtain verbal feedback, the PUCSL will conduct nine public consultations covering all nine provinces.
+
+These public consultation sessions for verbal submissions will commence on September 18, 2025.
+
+The PUCSL further stated that written comments and suggestions related to the public consultation on the third electricity tariff revision of 2025 can be submitted via the following methods before October 7, 2025:
+
+Public Consultation on the Third Electricity Tariff Revision – 2025
+
+◼️
+
+[Data](articles/48035e4e.json)
+
+[Extended Data](ext_articles/48035e4e.ext.json)
+
+---
+
+### Resolution on agreement between Sri Lanka and UAE passed in Parliament
+
+*2025-09-09 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112334/resolution-on-agreement-between-sri-lanka-and-uae-passed-in-parliament) · `en`
+
+The resolution on the agreement between Sri Lanka and the United Arab Emirates has been passed in Parliament today (09) with a majority of 163 votes.
+
+The Speaker informed the House that the proposal was passed with a special majority.
+
+No votes were cast against the resolution, and no one abstained from voting either, according to the Department of Communication of Parliament.
+
+◼️
+
+[Data](articles/d8959a01.json)
+
+[Extended Data](ext_articles/d8959a01.ext.json)
 
 ---

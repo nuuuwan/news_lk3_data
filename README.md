@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 10:37:56**
+As of **2025-09-10 09:56:28**
 
 ## Newspaper Stats
 
-*Scraped **75,113** Articles*
+*Scraped **75,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,271 +16,23 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,276
+adalk | 7,273
 adaderanalk | 9,625
-tamilmirrorlk | 11,205
-virakesarilk | 12,260
-adaderanasinhalalk | 13,084
+tamilmirrorlk | 11,197
+virakesarilk | 12,259
+adaderanasinhalalk | 13,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,823 (87.6%) of 75,113 articles have been extended.
+65,797 (87.6%) of 75,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### மட்டு.சத்துருக்கொண்டான் இனப்படுகொலையின் 35 ஆண்டு நினைவேந்தல்.
-
-*2025-09-10 10:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டு-சத்துருக்கொண்டான்-இனப்படுகொலையின்-35-ஆண்டு-நினைவேந்தல்/175-364326) · `ta`
-
-மட்டக்களப்பு சத்துருக்கொண்டான் இனப்படுகொலையின் 35, வது ஆண்டு  நினைவேந்தல் சத்துருக்கொண்டான் நாற்சந்தியில் அமைக்கப்பட்டிருக்கும் நினைவு தூபியில் செவ்வாய்க்கிழமை (9) அன்று மாலை சுடர் ஏற்றி மலர் தூவி இரண்டு நிமிட மௌன அஞ்சலி செலுத்தினர்.
-
-கடந்த 1990 ஆம் ஆண்டு செப்டம்பர் 9 ஆம் திகதி சத்துருக்கொண்டான், பிள்ளையாரடி,பனிச்சையடி போன்ற பிரதேசங்கள் இராணுவத்தினர் மற்றும் ஊர்காவல்படையினர் சுற்றிவளைத்து அங்கிருந்த  குழந்தைகள் பெண்கள் உட்பட 186 பேரை  போயிஸ் ரவுண் இராணுவ முகாம் பகுதிக்கு அழைத்து சென்று அவர்களை வெட்டியும் துப்பாக்கியால் சுட்டு படுகொலை செய்து யர்கள் போட்டு எரித்தனர்.
-
-இவ்வாறு படுகொலை செய்யப்பட்டவர்களின் நினைவேந்தல் நினைவு தூபியில் இடம்பெற்றது இதில் மட்டு மாநகர சபை முதல்வர் சிவம் பாக்கியநாதன், பிரதி முதல்வர் முன்னாள் நாடாளுமன்ற உறுப்பினர் பா.அரியநேத்திரன்,முன்னாள் மாநகர சபை முதல்வர் ரி.சரவணபவன், மற்றும் மாநகர சபை உறுப்பினர்கள் படுகொலை செய்யப்பட்டவர்களின் உறவினர்கள் பொதுமக்கள் மனித உரிமை செயற்பாட்டாளர்கள் என பலர் கலந்து கொண்டனர்.
-
-...
-
-[Data](articles/5c9b262e.json)
-
----
-
-### A no-confidence opposition to the speaker?
-
-*2025-09-10 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214391) · `si`
-
-General Secretary of the JVP MP Ranjith Maddumabandara says he will take action against Speaker.
-
-The MP stated that action will be taken to protect the democratic rights of the opposition.
-
-◼️
-
-[Data](articles/038f6a08.json)
-
-[Extended Data](ext_articles/038f6a08.ext.json)
-
----
-
-### Pradeshiya Sabha announces
-
-*2025-09-10 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/224693) · `ta`
-
-The Nallur Pradeshiya Sabha has announced that a dog will be paid 600 rupees per dog for the free contraceptive treatment camp for the female dogs of the Jaffna and Nallur Pradeshiya Sabha.
-
-The Nallur Pradeshiya Sabha is carrying out a contraceptive program for female dogs with the aim of controlling dogs in accordance with dogs and infections.
-
-A free contraceptive treatment camp for female dogs will be held at the Nallur Pradeshiya Sabha from the 10th to the 14th of November.
-
-The Pradeshiya Sabha has requested that all the public participated in the free contraceptive treatment camp for female dogs and obtain their contraceptive treatment for female dogs.
-
-The Pradeshiya Sabha has said that 600 % of the dog will be given to those who hand over the Kattakali female dogs on the streets with the aim of social welfare.
-
-Free Symptoms of Nallur Pradeshiya Sabha
-
-From 8.30 am to 1.00 pm
-
-From 8.30 am to 1.00 pm
-
-From 8.30 am to 1.00 pm
-
-◼️
-
-[Data](articles/9ece2416.json)
-
-[Extended Data](ext_articles/9ece2416.ext.json)
-
----
-
-### பொகவந்தலாவ  ‘ஐஸ்’: தொழிற்சங்கத்தின் முக்கிய புள்ளியாம்
-
-*2025-09-10 09:57:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொகவந்தலாவ-ஐஸ்-தொழிற்சங்கத்தின்-முக்கிய-புள்ளியாம்/76-364325) · `ta`
-
-பொகவந்தலாவ பகுதியில் ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்ட இருவரில் ஒருவர், மலையக தொழிற்சங்கத்தின் முக்கிய புள்ளி என்றும்,  அவர் அந்த தொழிற்சங்கத்தின் பொகவந்தலாவ வட்டாரத்தின் இளைஞர் அணி அமைப்பாளர் என்றும் தகவல்கள் தெரிவிக்கின்றன.
-
-பொகவந்தலாவ பகுதியை சேர்ந்த இருவர் ஐஸ் போதைப் பொருளுடன் நோர்வூட் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-இவ்வாறு கைது செய்யப்பட்டவர்களிடம் இருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கை பற்ற பட்டுள்ளது.
-
-அரச புலனாய்வு பிரிவினர் வழங்கிய  தகவலுக்கு அமைய  வீதி தடைகளை அமைத்து மேற்கொண்ட சோதனையின் போது முச்சக்கர வண்டியில் சென்ற சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டதாக நோர்வூட் பொலிஸார் தெரிவித்துள்ளனர் இவ்வாறு கைது செய்யப்பட்டவர்களிடமிருந்து தலா 170 மில்லி கிராம் ஐஸ் எனும் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
-
-இவ்விருவரும் பொகவந்தலாவ சிரிபுர,செப்பல்டன் பகுதிகளைச் சேர்ந்தவர்கள் என   நோர்வூட் பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/70200e01.json)
-
----
-
-### தெல்தெனிய வைத்தியர் கைது
-
-*2025-09-10 09:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தெல்தெனிய-வைத்தியர்-கைது/76-364324) · `ta`
-
-தெல்தெனிய வைத்தியசாலையில் வைத்திய கண்காணிப்பாளர் மற்றும் ஊழியர்களின் கடமைகளுக்கு இடையூறு விளைவிக்கும் வகையில் நடந்து கொண்டதாகக் கூறி, அதே வைத்தியசாலையின் வைத்தியர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக தெல்தெனிய பொலிஸார் தெரிவித்துள்ளனர்.
-
-தெல்தெனிய வைத்தியசாலையின் வைத்திய  கண்காணிப்பாளர் சுனில் செனரத் யாப்பா பொலிஸில் அளித்த புகாரைத் தொடர்ந்து, சந்தேகத்தின் பேரில் வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
-
-வைத்தியசாலையின் ஊழியர்களின் கடமைகளுக்கு இடையூறு விளைவிக்கும் வகையில் நடந்து கொண்டதாகவும், அவர்களை அச்சுறுத்தியதாகவும் புகாரில் குற்றச்சாட்டுகள் இருப்பதாக பொலிஸ் கூறுகிறது.
-
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட வைத்தியர், வைத்தியசாலையின் ஊழியர்களின் கடமைகளுக்கு இடையூறு விளைவிக்கும் வகையில் நடந்து கொண்டதாகக் கூறி கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் பிணையில் விடுவிக்கப்பட்டதாகவும் பொலிஸ் கூறுகிறது.
-
-கைது செய்யப்பட்ட வைத்தியர், தெல்தெனிய நீதவான் நீதிமன்றத்தில் இன்று (10)  மீண்டும் ஆஜர்படுத்தப்படவுள்ளார்.
-
-◼️
-
-[Data](articles/5b07497d.json)
-
----
-
-### நிலைமையை பாருங்கள்...
-
-*2025-09-10 09:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நிலைமையை-பாருங்கள்/62-364323) · `ta`
-
-◼️
-
-[Data](articles/45e1ebdf.json)
-
----
-
-### நெல்லுக்கு பொல்லாத நோய்
-
-*2025-09-10 09:44:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்லுக்கு-பொல்லாத-நோய்/175-364322) · `ta`
-
-அனுராதபுராவின் மகாபுலன்குளம் பகுதியில் உள்ள விவசாயிகள், அடையாளம் தெரியாத நோயால் சுமார் இருநூறு ஏக்கர் நெல் சாகுபடி முற்றிலுமாக அழிக்கப்படும் அபாயத்தில் இருப்பதாகக் கூறுகின்றனர்.
-
-நெல் பழுக்கும் நிலையை அடையும் வரை மிகவும் நல்ல நிலையில் இருந்தது, ஆனால் பின்னர் நெல் தண்டுகள் வெண்மையாக மாறி, நெல் காய்கள் அழுகிவிட்டன என்று விவசாயிகள் தெரிவித்தனர்.
-
-இது ஒரு சிலந்தி, அசுவினி அல்லது பூஞ்சை நோய் என்று நினைத்து பல்வேறு பூச்சிக்கொல்லிகளைப் பயன்படுத்தியதாக விவசாயிகள் தெரிவித்தனர், ஆனால் எந்த பலனும் கிடைக்கவில்லை.
-
-மகாபுலன்குளம் குளத்தின் கீழ் பயிரிடப்பட்ட மகாவெல மற்றும் தங்கஸ்ஸ பகுதிகளில் இருநூறு ஏக்கருக்கும் அதிகமான நெல் வயல்கள் அழிக்கத் தொடங்கியுள்ளதாகவும் அவர்கள் தெரிவித்தனர்.
-
-மேற்கூறிய அடையாளம் தெரியாத நோயால் ஒரு ஏக்கரில் இருந்து இருபத்தைந்து புசல் நெல் கூட பெற முடியாததால், அரசாங்கத்திடம் நியாயமான இழப்பீடு கோருவதாகவும் அவர்கள் கூறுகின்றனர்.
-
-◼️
-
-[Data](articles/a27de43d.json)
-
----
-
-### Speaker informs the no-confidence motion against Aruna Jayasekara
-
-*2025-09-10 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214390) · `si`
-
-The Speaker presented his decision on the no-confidence motion presented by the opposition to the Deputy Minister of Defense to the Deputy Minister of Defense.
-
-The Speaker said that due to the provisions of the Constitution, it is not acceptable to him as it does not comply with the proper order.
-
-MP Gayantha Karunatilake said under Standing Order
-
-◼️
-
-[Data](articles/1573ce52.json)
-
-[Extended Data](ext_articles/1573ce52.ext.json)
-
----
-
-### No confidence proposals against Aruna Jayasekara
-
-*2025-09-10 09:41:40* · [`adalk`](https://www.ada.lk/breaking_news/අරුණ-ජයසේකරට-එරෙහි-විශ්වාසභංග-යෝජනාව-පිළිගත-නොහැකියි/11-418394) · `si`
-
-Speaker Medical Minister Wickramaratne said that the denaging proposal brought by the opposition against Deputy Minister Aruna Jayasekera has unable to exist.
-
-He made this statement at the beginning of the beginning of the country today (10th).
-
-◼️
-
-[Data](articles/30a0eb14.json)
-
-[Extended Data](ext_articles/30a0eb14.ext.json)
-
----
-
-### ‘‘நெப்போ பேபி’’ :முழு விவரம்
-
-*2025-09-10 09:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நெப்போ-பேபி-முழு-விவரம்/50-364321) · `ta`
-
-நே​பாளத்​தில் இளம் தலை​முறை​யினரின் ஊழல் எதிர்ப்பு போராட்​டம் தீவிரமடைந்து வரு​கிறது. இதன் ​காரண​மாக அந்த நாட்டு பிரதமர் சர்மா ஒலி, செவ்வாய்க்கிழமை (09) பதவியை ராஜி​னாமா செய்​தார். உலகின் ஊழல் மிகுந்த நாடு​களில் ஒன்​றாக நேபாளம் திகழ்​கிறது.
-
-அந்நாட்டின் சமூக வலை​தளங்​களில் அண்​மை​யில் ‘‘நெப்போ பேபி’’ என்ற பெயரில் வீடியோக்​கள் பரவின. அதாவது நேபாளத்​தின் அரசி​யல் தலை​வர்​கள், மூத்த அரசு அதி​காரி​கள், பிரபலங்​களின் வாரிசுகள் தங்​களின் ஆடம்பர வாழ்க்​கையை வீடியோ​வாக பதிவு செய்து சமூக வலை​தளங்​களில் வெளி​யிட்டு வந்​தனர். இதை பொதுமக்கள் கடுமையாக விமர்சனம் செய்தனர்.
-
-இந்த சூழலில் பேஸ்​புக், யூ டியூப், எக்​ஸ், டெலிகி​ராம் உள்​ளிட்ட பதிவு செய்​யப்​ப​டாத 26 சமூக வலைதள கணக்​கு​களை நேபாள அரசு கடந்த 5-ம் திகதி முடக்​கியது. சீனா​வின் டிக்​டாக் செயலிக்கு மட்​டும் தடை விதிக்​கப்​பட​வில்​லை. இது, நேபாள இளம் தலை​முறை​யினரிடையே கொந்​தளிப்பை ஏற்​படுத்​தி​யது.
-
-...
-
-[Data](articles/fedb962b.json)
-
----
-
-### சம்பத் மனம்பேரியின் கார் கண்டுபிடிப்பு
-
-*2025-09-10 09:37:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரியின்-கார்-கண்டுபிடிப்பு/175-364320) · `ta`
-
-பியல் மனம்பேரியின் சகோதரர் சம்பத் மனம்பேரிக்கு சொந்தமானதாகக் கூறப்படும் கார் ஒன்று நேற்று (09) எம்பிலிப்பிட்டி பொலிஸாரால் மீட்கப்பட்டுள்ளது.
-
-எம்பிலிப்பிட்டி புதிய நகரத்தில் உள்ள வாகன பழுதுபார்க்கும் நிலையத்திலிருந்து குறித்த கார் கண்டுபிடிக்கப்பட்டுள்ளது.
-
-சில நாட்களுக்கு முன்பு ஒருவர் வந்து காரை இங்கு விட்டுவிட்டு, சம்பத் மனம்பேரியிடம் கொடுக்குமாறு கூறிச் சென்றதாக குறித்த பழுதுபார்க்கும் நிலையத்தின் உரிமையாளர் குறிப்பிட்டுள்ளார்.
-
-ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலின் உறுப்பினரான கெஹல்பத்தர பத்மேவுக்கு சொந்தமானது எனக் கூறப்படும், மித்தெனியவில் கைப்பற்றப்பட்ட ஐஸ் என்ற போதைப்பொருளை தயாரிக்கப் பயன்படுத்தப்படும் மூலப்பொருட்கள் அடங்கிய இரண்டு கொள்கலன்களை மறைத்து வைத்ததாக கூறப்படும் சம்பவம் தொடர்பாக சம்பத் மனம்பேரி மீது குற்றம் சாட்டப்பட்டுள்ளது.  R
-
-◼️
-
-[Data](articles/305f8851.json)
-
----
-
-### Cricket team to Pakistan for Limited Band
-
-*2025-09-10 09:37:20* · [`adalk`](https://www.ada.lk/sports/සීමිත-පන්දුවාර-තරගාවලියට-ක්‍රිකට්-කණ්ඩායම-නොවැම්බරයේදී-පාකිස්තානයට/9-418392) · `si`
-
-Three ODIs with Pakistan and Sri Lanka, Pakistan and Afghanistan
-
-National Cricket Team for November to join the Tri-Navai 20 Tournament
-
-SLC announces that traveling in Pakistan for the month. The tournament will be held from November 11 to 29th.
-
-◼️
-
-[Data](articles/4e126133.json)
-
-[Extended Data](ext_articles/4e126133.ext.json)
-
----
-
-### நேபாளத்தில் இலங்கையர்களுக்கு பாதிப்பு இல்லை
-
-*2025-09-10 09:36:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இலங்கையர்களுக்கு-பாதிப்பு-இல்லை/175-364319) · `ta`
-
-நேபாளத்தில் ஏற்பட்டுள்ள நெருக்கடியின் போது இலங்கையர்களின் பாதுகாப்பு குறித்து வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை பதில் அமைச்சர் கௌரவ அருண் ஹேமச்சந்திராவின் சிறப்பு கவனம்
-
-காத்மாண்டு மற்றும் நாட்டின் பிற பகுதிகளில் நிலவும் பிரச்சனைக்குரிய சூழ்நிலை காரணமாக நேபாளத்தில் வசிக்கும் இலங்கை குடிமக்களின் பாதுகாப்பு மற்றும் நலன் குறித்து வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை பதில் அமைச்சர் கௌரவ அருண் ஹேமச்சந்திரா, வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சகத்தை நேரில் தொடர்பு கொண்டு ஏற்கனவே நிலைமை குறித்து விசாரித்துள்ளார்.
-
-அதன்படி, நேபாளத்தில் வசிக்கும் எந்த ஒரு இலங்கையருக்கும் இதுவரை எந்த காயங்களும் ஏற்படவில்லை என்றும், 22 இலங்கை மாணவர்கள் உட்பட 99 இலங்கையர்கள் நேபாளத்தில் இருப்பது (தூதரக ஊழியர்கள் மற்றும் குடியிருப்பாளர்கள் உட்பட) உறுதிப்படுத்தப்பட்டுள்ளது.
-
-அனைத்து குடிமக்களுடனும் தொடர்ச்சியான தொடர்பைப் பேணுவதற்காக இலங்கை தூதரகம் அவசர தொலைபேசி எண்களை அமைத்துள்ளது, மேலும் தேவையான உதவிகளை வழங்குவதில் முழுமையாக ஈடுபட்டுள்ளது.
-
-...
-
-[Data](articles/4b0e4b36.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-10 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214389) · `si`
-
-◼️
-
-[Data](articles/dd75fc65.json)
-
-[Extended Data](ext_articles/dd75fc65.ext.json)
-
----
-
-### Look at the situation where the situation
+### நிலைமை எங்க போச்சுனு நீங்களே பாருங்க
 
 *2025-09-10 09:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நிலைமை-எங்க-போச்சுனு-நீங்களே-பாருங்க/62-364318) · `ta`
 
@@ -288,25 +40,19 @@ SLC announces that traveling in Pakistan for the month. The tournament will be h
 
 [Data](articles/48876dbf.json)
 
-[Extended Data](ext_articles/48876dbf.ext.json)
-
 ---
 
-### Our aim is to reduce the opportunities of life in the community - Sumitrao
+### உயிரை மாய்த்துக்கொள்வதற்கான சந்தர்ப்பங்களை சமூகத்தில் குறைப்பதுதான் எங்களுடைய நோக்கம் - சுமித்ரயோ
 
 *2025-09-10 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224278) · `ta`
 
-Vowelism is a very important issue in contemporary social issues. There is no time or social in the world where there is no life. Although the life of life is seen as an act of an individual, it is seen as a social phenomenon. Accordingly, when a man is facing the problem, he decides to make a living without knowing the problem.. This is why life -threatening system is very important.
+சமகால சமூகப் பிரச்சினைகளில் உயிர்மாய்ப்பு மிகவும் முக்கியமான ஒரு விடயமாக காணப்படுகிறது. உயிர் மாய்ப்பு நிகழாத காலமோ சமூகமோ உலகில் எங்கும் இல்லை. உயிர் மாய்ப்பில் ஈடுபடுவதானது ஒரு தனிமனிதனது செயலாகக் காணப்பட்டாலும் அது ஒரு சமூக நிகழ்வாகவே பார்க்கப்படுகின்றது. இதன்படி ஒரு மனிதன் பிரச்சினையை எதிர்நோக்குகின்றபோது, அப்பிரச்சினைக்கு முகங்கொடுக்கத் தெரியாமல் உயிரை மாய்த்துக்கொள்ள முடிவெடுக்கிறான். இதனால்தான் உயிர்மாய்ப்பு தடுப்பு முறையானது மிகவும் முக்கியமான ஒன்றாக இருக்கிறது.
 
-Various Volunteers of the Sumitrao Organization were presenting a special speech to the Weerakesari magazine ............
-
-In 2022, 3406 people died lived by the police website. Accordingly, 09 to 10 people die of life per day. According to statistics from the National Mental Health Organization, 15 of the people in the country are engaged in life -threatening efforts.. In addition, 10 people fail to live their lives. These incidents affect their dependents.
+உயிர்மாய்ப்பு தடுப்பு மற்றும் விழிப்புணர்வு உள்ளிட்ட பல்வேறு விடயங்களை சுமித்ரயோ அமைப்பின் தன்னார்வ தொண்டர்கள் இருவர் வீரகேசரி பத்திரிகைக்கு வழங்கிய விசேட செவ்வி வருமாறு............
 
 ...
 
 [Data](articles/c6291176.json)
-
-[Extended Data](ext_articles/c6291176.ext.json)
 
 ---
 
@@ -1486,6 +1232,8 @@ The protests began yesterday after the government's decision to ban 26 social me
 
 *2025-09-09 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112332/nepals-supreme-court-and-ministers-homes-set-on-fire-amidst-public-revolt) · `en`
 
+VIDEO | Nepal: Protesters set the Supreme Court in Kathmandu on fire amid anti-government protests.#Nepalprotest (Full video available on PTI Videos - https://t.co/n147TvrpG7) pic.twitter.com/1ZlWODFC6C— Press Trust of India (@PTI_News) September 9, 2025
+
 Nepal’s Parliament building, Supreme Court, and residences of several senior leaders were set ablaze on Tuesday as anti-government protests spiralled out of control, minutes after Prime Minister K P Sharma Oli resigned.
 
 Visuals shared by news agency PTI confirmed the fire at the Supreme Court, while the storming and burning of Parliament was reported by television channels and attested to by multiple reporters on the ground.
@@ -1878,28 +1626,6 @@ The police have informed the public on festival of the skies of the skills of th
 
 ---
 
-### Nochchiyagama B Onion Onion Successful Despite the helpless
-
-*2025-09-09 16:51:43* · [`adalk`](https://www.ada.lk/breaking_news/නොච්චියාගම-බී-ලූණු-අස්වැන්න-සාර්ථක-වුවත්-ගොවීන්-අසරණයි/11-418387) · `si`
-
-Farmers cultivated big onions in Nochchiyagama have started harvest these days. Although their yields are very successful, they are deeply helpless without getting proper cost.
-
-Although the yield is successful, the sale of imported onions in the market cannot be obtained from low costs. Though the government imposed a tax on the onion onions, the farmers pointed out that it was not efficient.
-
-They highlighted the daily preparation, water preparation, water supply, disease, disease and insects of cultivation and profits for the administration of the day.
-
-The production of a kilo of onions is Rs.. The Farmers Farmers noted that if properly cost, the farmers' farmers said.
-
-The farmers have asked the government - the raid of the imported onions, the raid of the local B onions, can raid a safe marketplace, the local big onion farmer pointed out if the onion plant is performed from the beginning.
-
-◼️
-
-[Data](articles/52df5750.json)
-
-[Extended Data](ext_articles/52df5750.ext.json)
-
----
-
 ### Removal of MP buddy is no salvation
 
 *2025-09-09 16:42:42* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීගේ-සාමාජිකත්වය-ඉවත්-කිර‍ිම-පමණක්-ප්‍රමණවත්-නෑ/11-418386) · `si`
@@ -2057,5 +1783,313 @@ However, anti-government protests continued over the lives lost in the agitation
 [Data](articles/dbe3afd9.json)
 
 [Extended Data](ext_articles/dbe3afd9.ext.json)
+
+---
+
+### Sri Lanka records USD 5.11B remittances in first 8 months of 2025
+
+*2025-09-09 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112327/sri-lanka-records-usd-511b-remittances-in-first-8-months-of-2025) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) announced that a total of 212,302 Sri Lankan workers have left for overseas employment during the eight-month period from January to August 2025.
+
+Of this number, 130,252 were male workers, reflecting a significant increase compared to female workers (82,050) who have departed the country during the same period.
+
+Kuwait recorded the highest intake of Sri Lankan workers, with 53,159 arrivals, followed by the United Arab Emirates (41,180) and Qatar (30,263), it said.
+
+The SLBFE also observed a growing trend of Sri Lankan workers moving to East Asian destinations, with 8,015 travelling to Japan and 4,324 to South Korea for employment opportunities.
+
+Meanwhile, Sri Lankan migrant workers remitted a total of USD 5.11 billion to the country in the first eight months of 2025, marking a 19.3% increase compared to the USD 4.28 billion remitted during the corresponding period in 2024.
+
+...
+
+[Data](articles/ef4104bc.json)
+
+[Extended Data](ext_articles/ef4104bc.ext.json)
+
+---
+
+### 4.5 MT of expired goods destroy three raids
+
+*2025-09-09 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214368) · `si`
+
+Consumer Affairs Authority has destroyed many expired items in the Wattala and Hendala areas.
+
+The Consumer Affairs Authority has been destroyed by the Welisara Magistrate's Court about 4.5 years of expired in Wattala and Hendara areas.
+
+The Authority said that between the expired countries, which had expired, and 300 kilograms of expired.
+
+Special Gazette issued to the Consumer Affairs Authority Act No 9 of 2003. The ointment of 55,000 was set by the Welisara Magistrate's Court on the 27th.
+
+◼️
+
+[Data](articles/49ff9401.json)
+
+[Extended Data](ext_articles/49ff9401.ext.json)
+
+---
+
+### Sri Lanka awards tender for lottery tickets to 4 private companies
+
+*2025-09-09 15:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-tender-for-lottery-tickets-to-4-private-companies-239854/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state lottery board has awarded tenders to print lottery tickets to four private bidders, Minister Nalinda Jayatissa said.
+
+The companies are Toppan Forms (Colombo) Ltd, DPJ Holdings (Pvt) Ltd, Grand Export (Pvt) Ltd, and Digiscan Secure Print Solutions (Pvt) Ltd.
+
+“The Development Lotteries Board called for tenders to design, develop, print and supply lottery tickets for Lagna Wasana, Kapruka, Ada Kotipathi, Super Ball, Shanida, Supiri Dhana Sampatha, Sasiri, Jaya Sampatha,” Jayatissa told reporters.
+
+The tender was awarded for a period of one year. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/9c1809d3.json)
+
+[Extended Data](ext_articles/9c1809d3.ext.json)
+
+---
+
+### Israel has visited Sri Lankan journalists as a personal visit - Kausalya Aryaratne
+
+*2025-09-09 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224643) · `ta`
+
+The state of those who refer to break up all relationships with Israel. Sri Lankan journalists have visited Israel as a personal visit to Israel. "I am certain that the government has not elected anyone," said Dr. Kausalya Aryaratne of the National People's Power Colombo District Parliamentarian.
+
+He was speaking at a debate on the versatile agreement between Sri Lanka and the United Arab Emirates held in Parliament yesterday.
+
+None of Sri Lankan journalists from Israel have been sent with the government. It is a personal visit.. Journalists also go.
+
+More than 20 thousand Sri Lankans work in Israel. Due to the prevailing problems, diplomatic relations between Sri Lanka and Israel cannot be broken.
+
+Must examine the mindset of those who refer to break up all relationships with Israel. Sri Lankan journalists have visited Israel as a personal visit to Israel. I am sure that the government has not elected anyone.
+
+◼️
+
+[Data](articles/5d87b9e2.json)
+
+[Extended Data](ext_articles/5d87b9e2.ext.json)
+
+---
+
+### The government should take steps to provide the people of Kilinochchi district formally - Sridharan
+
+*2025-09-09 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224638) · `ta`
+
+The government should take steps to issue a proper land affirmation for the people of Kilinochchi district. Jaffna District Parliamentarian S. Siritharan has urged the Sri Lanka Tamil National Alliance (TNA) to provide a solution to the impact of agriculture in the Northern Province.
+
+During the session held in Parliament yesterday, he was speaking to the Minister of Employment, Livestock Resources, Land and Irrigation during the Question Time.
+
+The people in the Kilinochchi district have not been formally given land certificates. If the bonds issued in the Urumaya Project are not rejuvenated by the offices, the rice pledge should be taken.
+
+With more than 40 thousand families in the district, there are more than 12 thousand lands, why not take steps to issue their ghani guarantees? I urge the proper action to be taken accordingly.
+
+...
+
+[Data](articles/99d65460.json)
+
+[Extended Data](ext_articles/99d65460.ext.json)
+
+---
+
+### PUCSL prompts public views on 6.8 percent
+
+*2025-09-09 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214367) · `si`
+
+The Public Utilities Commission states that the Ceylon Electricity Board (CEB) has proposed a 6.8 percent increase in electricity tariff for the final quarter of 2025.
+
+The Public Utilities Commission of Sri Lanka has decided to seek public opinion on the amendment proposal.
+
+Accordingly, the Commission states that the Commission can submit its views and suggestions in writing to the Commission.
+
+The Public Utilities Commission says that 9 public consultations will be held covering the provinces covering oral comments.
+
+Oral comment sessions start on the 18th of September.
+
+The Public Utilities Commission says that the written comments and proposals of the public consultation can be submitted along the following roads before October 72025.
+
+The consultation sheet and the proposed proposal can be seen from the link below. https://www.pucsl.gov.lk/prosed-electricity-tariff-revision-2025-sept/
+
+◼️
+
+[Data](articles/a8049dae.json)
+
+[Extended Data](ext_articles/a8049dae.ext.json)
+
+---
+
+### Kathmandu’s Tribhuvan International Airport closed until further notice
+
+*2025-09-09 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112326/kathmandus-tribhuvan-international-airport-closed-until-further-notice) · `en`
+
+Tribhuvan International Airport (TIA) has been fully closed following escalating demonstrations across the Kathmandu Valley.
+
+Following the continuous incidents of fires in areas including Gothatar, coupled with deteriorating aviation security conditions, prompted the closure, according to the TIA sources.
+
+The Nepali Army has been deployed to provide security at the airport.
+
+Both domestic and international flights remain suspended until further notice.
+
+◼️
+
+[Data](articles/39dbec32.json)
+
+[Extended Data](ext_articles/39dbec32.ext.json)
+
+---
+
+### Signal boards to the side of elephants to prevent the train train
+
+*2025-09-09 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214366) · `si`
+
+Minister of Environment Dr. Dammotic Application, Civil Aviation and Highways Minister Bim Ratnayake has appointed a special committee of the Parliament with the objective of implementing the immediate solution to the elephants.
+
+As a step, it was also proposed to fix sign-boards with photographs of elephants, for the attention of the train drivers.
+
+Accordingly, the Elephant Rescue Foundation was created by the Elephant Rescue Foundation, which was built with photographs of elephant at the request of the Ministry of Environment.
+
+Minister of Environment Dr. Damikatika, Minister of Environment, Deputy Minister of Environment, Anton Jayakody and Deputy Minister of Civil Aviation and Deputy Minister of Highways were also present.
+
+Recognizing the high-railway measures in the Environment and Natural Research Center provided by the Parliamentary Committee, the Ministry of Civil Aviation and Highways will be held in the next few days.
+
+...
+
+[Data](articles/c3082ada.json)
+
+[Extended Data](ext_articles/c3082ada.ext.json)
+
+---
+
+### Nepal Prime Minister resigns
+
+*2025-09-09 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224631) · `ta`
+
+Prime Minister KP Sharma has resigned shortly after the people in the country.
+
+◼️
+
+[Data](articles/f5d4f4bb.json)
+
+[Extended Data](ext_articles/f5d4f4bb.ext.json)
+
+---
+
+### Nepal Prime Minister Sharma resigns
+
+*2025-09-09 15:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-பிரதமர்-ஷர்மா-ஒலி-ராஜினாமா/50-364278) · `ta`
+
+Prime Minister Sharma has resigned from the country due to a continuous struggle in Nepal for the past two days.
+
+The Nepal government was protesting against the sudden ban on the Base Book, YouTube and X and the Social Web. In this, a large number of young people participated and chanted slogans against the government. In the wake of the struggle violent, 19 people were killed in a police firing.. The 200-year-old butt door was injured.
+
+In this case, the struggle took place for the second day. Subsequently, it was reported that the Nepal Congress was considering the withdrawal of the support of Sharma's sound government.. Agriculture Minister Ram Nath, President of Nepal Congress, Prime Minister KP. Resigned from his post to condemn the repression of the Sound -led government. Home Minister Ramesh Lekhak resigned from the role of moral responsibility for the government yesterday.
+
+...
+
+[Data](articles/b595a395.json)
+
+[Extended Data](ext_articles/b595a395.ext.json)
+
+---
+
+### Nepal Parliament breached, building set on fire by Gen Z protesters
+
+*2025-09-09 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112325/nepal-parliament-breached-building-set-on-fire-by-gen-z-protesters) · `en`
+
+Minutes before Nepalese Prime Minister KP Sharma Oli resigned from his office, Gen Z protesters broke into Parliament and set fire to one of the buildings on the premises.
+
+Demonstrators also set fire to Oli’s residence in Bhaktapur’s Balkot area and other senior leaders amid the ongoing protests triggered by a since-revoked social media ban.
+
+Visuals showed thousands of protesters storming the Parliament as plumes of grey and black smoke arose in the area.
+
+Even as the building was on fire, thousands of protesters continued to march towards the Parliament, shouting slogans and raising flags in the area, visuals showed.
+
+The demonstrators also entered the Singha Durbar premises, breaking into the area through its western gate. They also reportedly set the gate on fire while forcing their way into the central administrative complex of Nepal.
+
+The Gen Z protesters shouted slogans like “KP Chor, Desh Chhod”, “Take Action Against Corrupt Leaders” across Nepal’s capital city of Kathmandu.
+
+...
+
+[Data](articles/0d740226.json)
+
+[Extended Data](ext_articles/0d740226.ext.json)
+
+---
+
+### Sectoral Oversight Committee on Justice approves Presidents’ Entitlements (Repeal) Bill
+
+*2025-09-09 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112324/sectoral-oversight-committee-on-justice-approves-presidents-entitlements-repeal-bill) · `en`
+
+The Presidents’ Entitlements (Repeal) Bill has been approved after consideration by the Sectoral Oversight Committee on Governance, Justice and Civil Protection.
+
+The approval was granted by the Committee during a meeting held in Parliament under the chairmanship of Member of Parliament Dr. Najith Indika, today (09).
+
+Commenting on the Bill, officials of the Ministry of Justice and National Integration said that, as stated in the Government Policy Statement, the Presidents’ Entitlements (Repeal) Bill is expected to remove non-economic entitlements granted to former and future Presidents and their families, taking into account the economic conditions of the country.
+
+...
+
+[Data](articles/b8a1c5db.json)
+
+[Extended Data](ext_articles/b8a1c5db.ext.json)
+
+---
+
+### Police warn public on fire hazards of ‘sky lanterns’
+
+*2025-09-09 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112323/police-warn-public-on-fire-hazards-of-sky-lanterns) · `en`
+
+Sri Lanka Police have cautioned the general public regarding the serious risks associated with the indiscriminate use of sky lanterns during festive seasons and special celebrations across the island.
+
+“It has been observed that many individuals release sky lanterns of different sizes, which are propelled into the sky using an open flame. While these lanterns may appear entertaining, they pose a significant fire hazard as they may drift uncontrollably and fall to the ground while still alight,” the Police Media Division said.
+
+Authorities warned that if such lanterns descend onto sensitive or high-risk locations—such as fireworks manufacturing sites, fuel stations, petroleum storage facilities, residential homes, commercial buildings, or crowded public areas—they could ignite destructive fires, causing extensive property damage and potential loss of life.
+
+...
+
+[Data](articles/5fd30bc4.json)
+
+[Extended Data](ext_articles/5fd30bc4.ext.json)
+
+---
+
+### Sri Lanka to lease land for 38 investment projects
+
+*2025-09-09 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-land-for-38-investment-projects-239849/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved leasing land from industrial parks to 38 investment projects, Minister Nalinda Jayatissa said.
+
+“The total investment value to be made by the 38 investors is Rs. 2,548.22 million,” Jayatissa told reporters.
+
+It is expected to generate about 1,559 direct employment opportunities.
+
+The land is to be provided from industrial parks on a lease basis for a maximum period of 35 years, he said.
+
+42 project proposals were recommended by the ‘Regional Industrial Service Committee’, and the Ministry of Industry and Entrepreneurship Development’s Project Evaluation Committee approved the allocation of land for 38 projects.
+
+Land has been allocated in Ampara, Trincomalee, Batticaloa, Kalutara, Minuwangoda, Matugama, Millaniya, Ulapaney, Ratnapura Nalanda, Karandeniya, Bata Atha, Mannar, Galigamuwa, Embilipitiya, Buththala, Dankotuwa, Puttalam, and Aluthapola. (Colombo/Sep9/2025)
+
+◼️
+
+[Data](articles/b57a3ece.json)
+
+[Extended Data](ext_articles/b57a3ece.ext.json)
+
+---
+
+### Sampath Manamperi an ex-cop and suspect in Raviraj murder – Cabinet Spokesman
+
+*2025-09-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112322/sampath-manamperi-an-ex-cop-and-suspect-in-raviraj-murder-cabinet-spokesman-) · `en`
+
+Cabinet Spokesman Dr. Nalinda Jayatissa reveals that Sampath Manamperi, who is accused of concealing two container loads of raw materials allegedly used to manufacture the drug ‘Ice’ and belonging to underworld figure ‘Kehelbaddara Padme’, has been identified as a former police intelligence officer.
+
+Participating in the weekly Cabinet media briefing held today (09), Minister Jayatissa said that the absconding suspect has also been identified as a suspect in the murder of the late Nadarajah Raviraj, a former Tamil National Alliance (TNA) Parliamentarian.
+
+The minister further stated, “This person named Sampath Manamperi has served as a police constable for a while. He has also served as an intelligence officer for a short period. He had also been identified as a suspect in the murder of MP Raviraj.”
+
+Jayatissa stated that he had contested as a candidate of the Sri Lanka Podujana Peramuna (SLPP) despite those allegations and that simply cancelling his party membership would not suffice.
+
+...
+
+[Data](articles/2ce5ddb9.json)
+
+[Extended Data](ext_articles/2ce5ddb9.ext.json)
 
 ---

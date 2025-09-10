@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 22:54:18**
+As of **2025-09-10 23:57:17**
 
 ## Newspaper Stats
 
-*Scraped **75,241** Articles*
+*Scraped **75,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,294
-adaderanalk | 9,653
+adalk | 7,298
+adaderanalk | 9,657
 tamilmirrorlk | 11,237
 virakesarilk | 12,268
 adaderanasinhalalk | 13,111
@@ -26,11 +26,65 @@ adaderanasinhalalk | 13,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,462 (88.3%) of 75,241 articles have been extended.
+66,500 (88.4%) of 75,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
+
+### The earth's soil is built on the place of the crash
+
+*2025-09-10 22:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුර-සිදුවු-ස්ථානයේ-පස්බැමි-යොදා-ආරක්ශිත-බැම්මක්-ඉදිකරයි/11-418417) · `si`
+
+Governor of Attorpala has built the 15 thugged bicycle station (10) at the area of ​​Ella in Wellawaya main road.
+
+The Tangalle Municipal Council employees were traveling with the family on a picnic with the family and was traveling back to Tangalle on the 4th night in the Wellawaya road.
+
+A large number of roads have been lost to the Road Development Authority with a large number of road accidents and has lost a large number of road accidents.
+
+Attorney at Law Kapila Jayasekara, the UvaPPala has taken steps at the instructions of the Uvapala Jayasekera, the Uvapala Jayasekera, headed by Uvapala Jayasekera.
+
+◼️
+
+[Data](articles/e0674e34.json)
+
+[Extended Data](ext_articles/e0674e34.ext.json)
+
+---
+
+### Three Independent MPs removed by support of composition
+
+*2025-09-10 22:54:08* · [`adalk`](https://www.ada.lk/breaking_news/අකුරණ-ස්වාධීන-මන්ත්‍රීවරු-තිදෙනා-මාලිමාවට-සහාය-ලබාදීමෙන්-ඉවත්-වෙති/11-418416) · `si`
+
+At the monthly public meeting, the two MPs who were selected from the Akurana Pradeshiya Sabha have been withdrawn from the two independent groups, and the support of the National Jonishabra.
+
+The four members of the Akurana Pradeshiya Sabha had been elected to the election of the National Folk (UNP), supporting the national propaganda.
+
+However, the three MPs said that the three MPs were responding to the monthly general meeting of the Akurana Pradeshiya Sabha this 10th.
+
+Tasun Eranga Wickremaratne, who represented the first two independent groups, said:
+
+...
+
+[Data](articles/2e7c2a3a.json)
+
+[Extended Data](ext_articles/2e7c2a3a.ext.json)
+
+---
+
+### Students issue the students to enter the entry for intermediate series of schools
+
+*2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
+
+The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grades 5 and Grades 11).
+
+◼️
+
+[Data](articles/dfbc9292.json)
+
+[Extended Data](ext_articles/dfbc9292.ext.json)
+
+---
 
 ### India beat India
 
@@ -51,6 +105,24 @@ Gill scored unbeaten on 20 balls with only 9 balls.
 [Data](articles/3ae5637e.json)
 
 [Extended Data](ext_articles/3ae5637e.ext.json)
+
+---
+
+### Israeli airstrikes in Yemen kill at least nine people, Houthis say
+
+*2025-09-10 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112375/israeli-airstrikes-in-yemen-kill-at-least-nine-people-houthis-say) · `en`
+
+At least nine people were killed and more than 100 wounded in Israeli airstrikes on Yemen on Wednesday, the Houthi movement said.
+
+The Houthi-run health authority described the toll as preliminary, saying strikes hit both the capital, Sana’a, and Al-Jawf province.
+
+Residents said casualties in the capital resulted from bombing that targeted the Ministry of Defence’s Moral Guidance headquarters in the capital’s Al-Tahrir neighbourhood, a densely populated area where old houses were damaged by the blasts.
+
+◼️
+
+[Data](articles/716f6666.json)
+
+[Extended Data](ext_articles/716f6666.ext.json)
 
 ---
 
@@ -118,17 +190,19 @@ The Speaker announced that the proposal was passed by Parliament and the Committ
 
 ---
 
-### அரச ஊழியர்களின் நல்வாழ்வுக்காக "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம்
+### "Health" Medical Camp for the well -being of public servants
 
 *2025-09-10 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224760) · `ta`
 
-அரசாங்க ஊழியர்களின் நல்வாழ்வுக்காக "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம் திட்டத்தின் ஆரம்ப நிகழ்வு சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தலைமையில் கம்பஹா மாவட்டத்தை மையமாகக் கொண்டு புதன்கிழமை (10)  ஜா-எல பகுதியில் இடம்பெற்றது.
+The inaugural event of the "Healthy" Medical Camp Project was held on Wednesday (10), headed by Health Minister Nalinda Jayatissa, focusing on the Gampaha district.
 
-அரச ஊழியர்கள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களின் நல்வாழ்வுக்காக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் புதிய திட்டத்தின் கீழ் நடத்தப்படும் "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம் திட்டத்தின் ஆரம்ப நிகழ்வு ஜா-எல பகுதியில் நேற்று புதன்கிழமை  இடம்பெற்றது.  கம்பஹா மாவட்டத்தில் உள்ள அனைத்து பொலிஸ் பிரிவுகளையும் மையமாகக் கொண்டு, இலங்கை பொலிஸ் உத்தியோகத்தர்களுக்காக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் தலைமையில் இத்திட்டம் ஆரம்பித்து வைக்கப்பட்டது.
+The inaugural event of the "Health" Medical Camp Project, which will be held under the new program of the Ministry of Health and Mass Media for the well-being of public servants and their family members, took place on Wednesday.  The project was launched under the leadership of Health and Media Minister Nalinda Jayatissa for the Sri Lankan Police Officers, focusing on all the police divisions in the Gampaha district.
 
 ...
 
 [Data](articles/2e311198.json)
+
+[Extended Data](ext_articles/2e311198.ext.json)
 
 ---
 
@@ -200,6 +274,34 @@ The United Nations Human Rights Commissioner has expressed his expertise that it
 
 ---
 
+### Online applications now open for jobs in Israel’s construction sector: SLBFE
+
+*2025-09-10 20:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112373/online-applications-now-open-for-jobs-in-israels-construction-sector-slbfe) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has announced that Sri Lankans can now apply online for employment opportunities under the fourth phase of the renovation sub-sector within Israel’s construction industry.
+
+Accordingly, interested candidates can register via the official SLBFE website: www.slbfe.lk.
+
+The online application link will remain open until September 14, 2025.
+
+Accordingly, construction workers (electrical panel installation, plastering, painting, partitions), ceramic tile layers and plasterers will be recruited.
+
+A total of 1,500 applicants will be selected under this program, the SLBFE noted.
+
+Selected candidates will be offered a 63-month (5 years and 3 months) employment contract.
+
+Must possess skills and experience relevant to the job category they are applying for
+
+Basic skills assessment conducted at district centers under the National Apprenticeship and Industrial Training Authority (NAITA)
+
+...
+
+[Data](articles/aca3d90f.json)
+
+[Extended Data](ext_articles/aca3d90f.ext.json)
+
+---
+
 ### SL committed to domestic accountability mechanism with technical support from UNHRC – FM tells UN Rights Chief
 
 *2025-09-10 19:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112372/sl-committed-to-domestic-accountability-mechanism-with-technical-support-from-unhrc-fm-tells-un-rights-chief) · `en`
@@ -217,6 +319,24 @@ Minister Herath provided a detailed explanation of Sri Lanka’s position on the
 [Data](articles/563d58ab.json)
 
 [Extended Data](ext_articles/563d58ab.ext.json)
+
+---
+
+### The Title Removal Act passed
+
+*2025-09-10 19:44:10* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරුන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත-සම්මතයි/11-418413) · `si`
+
+The Bill of the Presidency 'Clearance (Removal) "The Bill was passed in parliament today (10). The second was the debate on the second reading of the second reading today, and 151 votes were cast against the second reading of the bill.
+
+The Bill, presented to parliament on August 20, 2025, was presented to parliament by the Minister of Justice and National Integration on August 202.
+
+Accordingly, a house or other monthly allowance provided to a former president or former president in terms of Section 2 of Section 2 of the Act; The monthly pension paid to a former President or former president in the provisions of Section 3 of Section 3, according to the provisions of Section 3, the monthly pension paid to a former president is dedicated to the widow of a former president.
+
+◼️
+
+[Data](articles/885fbf25.json)
+
+[Extended Data](ext_articles/885fbf25.ext.json)
 
 ---
 
@@ -403,6 +523,24 @@ A complaint was lodged by a relative of Kaluwanchikudi police. A case was filed 
 [Data](articles/34b43618.json)
 
 [Extended Data](ext_articles/34b43618.ext.json)
+
+---
+
+### Card transaction facilities introduced to the judicial system
+
+*2025-09-10 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112369/card-transaction-facilities-introduced-to-the-judicial-system) · `en`
+
+As an initial step towards automating the payments made by the general public to the judicial system, card payment facilities have been introduced to the judiciary under the patronage of Chief Justice Preethi Padman Surasena this afternoon (10), at the premises of the Supreme Court.
+
+Through the payment system, in future, the public will be facilitated to make all types of payments—including court fines, case fees, stamp duties, and certified copy fees—ranging from Magistrate’s Courts up to the Supreme Court, via card payments and online payment systems, the Ministry of Justice said in a statement.
+
+Accordingly, from today, lawyers and the general public will have the convenience of making payments related to the Supreme Court proceedings using DEBIT and CREDIT cards.
+
+...
+
+[Data](articles/2c55357d.json)
+
+[Extended Data](ext_articles/2c55357d.ext.json)
 
 ---
 
@@ -651,6 +789,28 @@ The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga D
 [Data](articles/c3f9f2f3.json)
 
 [Extended Data](ext_articles/c3f9f2f3.ext.json)
+
+---
+
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
+
+*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-dela) · `en`
+
+The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
+
+This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
+
+The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
+
+During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
+
+The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/de557286.json)
+
+[Extended Data](ext_articles/de557286.ext.json)
 
 ---
 
@@ -1839,171 +1999,5 @@ Speaking in the debate in parliament, he said.
 [Data](articles/fa70365f.json)
 
 [Extended Data](ext_articles/fa70365f.ext.json)
-
----
-
-### Minister's observation of light storage system constructing Sooriyawewa
-
-*2025-09-10 12:12:17* · [`adalk`](https://www.ada.lk/breaking_news/සූරියවැව-ඉදිකරන-විදුලි-ගබඩාකරණ බැටරි-පද්ධතිය-ඇමතිගේ-නිරීක්ෂණයට/11-418406) · `si`
-
-Energy Minister Kumara Jayakody has observed the construction of the electricity storage system for the project of the electricity supply of electricity in the country during the maximum amount of electricity to the power of solar electricity.
-
-The project will be built by a special financial gift from the Republic of Korea, the project of the Republic of Korea, and the excessive advantage of the day of electricity during the day.
-
-The Minister of Energy has taken special attention to these projects as a solution to the unactitimacy of the electrical system and the essential process of the electrical system, as a solution to the maximum use of solar power and is the essential process of using.
-
-◼️
-
-[Data](articles/22a0f7f0.json)
-
-[Extended Data](ext_articles/22a0f7f0.ext.json)
-
----
-
-### Bus brake error in Ella crashes, riding the bus on the 4th string of the 4th
-
-*2025-09-10 11:58:32* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-බස්-රථයේ-තිරිංග-දෝෂයක්--පල්ලමේ-4-වැනි-ගියරයේ-බස්-රථය-ධාවනය-කරලා/11-418405) · `si`
-
-Investigations have revealed that the vehicle transport department has been operating in the fourth forest of the fifteen foot of the Ella in the 12th area of ​​the Ella 12 in the 12th area of ​​the Ella.
-
-Tangalle Urban Council workers were traveling back to Tangalle, the crash took place in the 12th area of ​​the Wellawaya area in the Wellawaya area.
-
-The Secretary to the Tangalle Urban Council was killed and 15 others, including the bus driver, and 18 others were injured and rushed to the Jaffna Teachion Hospital.
-
-Six people are currently receiving treatment at the Badulla Hospital.
-
-...
-
-[Data](articles/a413361f.json)
-
-[Extended Data](ext_articles/a413361f.ext.json)
-
----
-
-### The body of the boy in Bambalapitiya
-
-*2025-09-10 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-சிறுவனின்-சடலம்-மீட்பு/175-364338) · `ta`
-
-The body of an elderly boy was left on the shore near the Bambalapitiya railway station this morning (10). It is said that the body of a boy who was reported missing at the Kaluppitti Sea at 3.30 pm on Sunday (7).
-
-Kaluppitti police said that one year old and two -month -old baby fell into the sea at around 3.30 pm on Sunday (7) at Kaluppitti Sea.
-
-The mother who fell into the sea was rescued. He was admitted to the Colombo National Hospital due to difficulty breathing, police said.
-
-Police investigations have revealed that the woman came to Kalupitiya with her baby in the Welimada area during a dispute with her husband.
-
-The woman's husband is a police officer working at a police station in Nuwara Eliya.
-
-Police are conducting further investigations to determine whether the woman attempted suicide by jumping into the sea with the child or whether the woman threw her baby into the sea.
-
-◼️
-
-[Data](articles/4cf424b9.json)
-
-[Extended Data](ext_articles/4cf424b9.ext.json)
-
----
-
-### Sri Lanka electricity utility seeks 6.8-pct tariff increase
-
-*2025-09-10 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-utility-seeks-6-8-pct-tariff-increase-239973/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has sought a 6.8 percent tariff hike, spread uniformly across consumer groups, according to a public consultation document published by the regulator.
-
-The increase is sought mostly on account of higher demand forecast being met by thermal energy, the regulator said.
-
-There were also some work-in-progress and finance costs, including capital repayments and some penalty interest due to renewable energy suppliers.
-
-The CEB has proposed spreading the increase evenly across consumer groups.
-
-Sri Lanka has highly discriminatory pricing, with the regulator and utility picking winners and losers with wide gaps.
-
-Among the worst hit are houses with higher usage (domestic demand does go up in the night peak) and general purpose customers. However, hotels also use power in the night.
-
-Under the current pricing system, cross subsidizing consumers are permitted. (Colombo/Sept10/2025)
-
-◼️
-
-[Data](articles/7ff42b3e.json)
-
-[Extended Data](ext_articles/7ff42b3e.ext.json)
-
----
-
-### Migrant remittances exceed $ 5 billion
-
-*2025-09-10 11:46:55* · [`adalk`](https://www.ada.lk/breaking_news/විගමණික-ප්‍රේෂණ--ඩොලර්-බිලියන-5-ඉක්මවයි/11-418404) · `si`
-
-Sri Lanka Bureau of Foreign Employment (SLBFE) says 212,302 Sri Lankan workers have been abroad over January to August 2025. Male workers abroad compared to female workers have grown significantly during this period and the number of male workers have been abroad for employment during this period 130,252. During the past eight months, 82,050 female workers have gone abroad.
-
-Sri Lankan workers are mostly employed to Kuwait, which is 53,159. The United Arab Emirates 41,180 workers and 30,263 workers have left over during this period.
-
-The more trend on Sri Lankan workers, in East Asian countries, have now been leaving the traditional Middle East. Accordingly, Japan has 8,015 workers and 4,324 to South Korea and have gone abroad.
-
-...
-
-[Data](articles/208ce0bc.json)
-
-[Extended Data](ext_articles/208ce0bc.ext.json)
-
----
-
-### Colombo Central Bus Terminal will be closed tomorrow
-
-*2025-09-10 11:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்திய-பேருந்து-முனையம்-நாளை-முதல்-மூடப்படும்/175-364336) · `ta`
-
-The Sri Lanka Transport Board (SLTB) has announced that the Central Bus Terminal in Colombo will be closed for the reconstruction work for 10 months from tomorrow (11).
-
-The Sri Lanka Transport Board (SLTB) Deputy General Manager of the Sri Lanka Transport Board (PHRT) said that the buses of the Sri Lanka Transport Board (SLTB) will be operated from Pettaraja Mawatha, Gunasingapura and Bestian Mawatha during the reconstruction of the reconstruction.. Chandrasiri said.
-
-Long -distance buses, including under the integrated schedule, will be operated from the Bestian Mawatha Bus Workshop, while short -distance buses will be operated from Bodhiraja Mawatha.
-
-The Deputy General Manager of the Sri Lanka Transport Board (SLTB). For this project, which is expected to be completed within one year. 540 million has been allocated, he said.
-
-The reconstruction project will be officially launched on September 15 under the leadership of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/b8eccf30.json)
-
-[Extended Data](ext_articles/b8eccf30.ext.json)
-
----
-
-### Pilgrims go to Lumbini safe to India
-
-*2025-09-10 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214396) · `si`
-
-The 73 Sri Lankan pilgrims who were traveling to Lumbini from India to Lumbini have entered India safely through the border.
-
-◼️
-
-[Data](articles/b9d70e7d.json)
-
-[Extended Data](ext_articles/b9d70e7d.ext.json)
-
----
-
-### Sri Lankans evacuating from Nepal
-
-*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்கள்-வெளியேற்றம்/175-364335) · `ta`
-
-Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
-
-In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
-
-In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
-
-According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
-
-Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
-
-Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
-
-...
-
-[Data](articles/3f7d004c.json)
-
-[Extended Data](ext_articles/3f7d004c.ext.json)
 
 ---

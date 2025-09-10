@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 22:21:29**
+As of **2025-09-10 23:06:28**
 
 ## Newspaper Stats
 
-*Scraped **75,239** Articles*
+*Scraped **75,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,131 @@ economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,294
+adalk | 7,296
 adaderanalk | 9,653
 tamilmirrorlk | 11,237
-virakesarilk | 12,267
-adaderanasinhalalk | 13,110
+virakesarilk | 12,268
+adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,428 (88.3%) of 75,239 articles have been extended.
+66,462 (88.3%) of 75,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### இடைக்கால அரசின் தலைவராகிறார் முதல் பெண் தலைமை நீதிபதி
+### පාසල්වල අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමේ චක්‍රලේඛය නිකුත් කරයි
 
-*2025-09-10 21:45:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இடைக்கால-அரசின்-தலைவராகிறார்-முதல்-பெண்-தலைமை-நீதிபதி/50-364377) · `ta`
+*2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
 
-போராட்டத்தால் சிதைந்து போன நேபாளத்தில் இடைக்கால அரசை வழிநடத்த புதியதொரு தலைவர் தேர்ந்தெடுக்கப்பட்டு அறிவிக்கப்பட்டுள்ளார்.
+පාසල්වල 2 ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා සිසුන් ඇතුළත් කිරීම (5 සහ 6 ශ්‍රේණි හැර) සඳහා සකස් කරන ලද 27/2025 චක්‍රලේඛය මේ වන විට නිකුත් කර ඇත , අධ්‍යාපන උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය මඟින් නිකුත් කර ඇති මෙම අංක 27/2025 චක්‍රලේඛය www.moe.gov.lk වෙබ් අඩවියට පිවිසීමෙන් ලබාගත හැක.
 
-நேபாள அரசால் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடையைத் தொடர்ந்து இளைஞர்கள் அணிதிரண்டு தலைநகர் காத்மாண்டுவில் திங்கள்கிழமை(செப். 8) பெரும் போராட்டத்தில் ஈடுபட்டனர். நேபாளத்தில் ஆட்சியாளா்களின் ஊழல் மற்றும் அரசின் பிற நடவடிக்கைகள் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடை ஆகியவற்றுக்கு எதிராக நடைபெற்ற போராட்டம் கலவரமாக வெடித்தது.
+◼️
 
-நேபாளத்தில் இளைஞா்களின் போராட்டம் தீவிரமடைந்ததைத் தொடா்ந்து பிரதமா் பதவியை கே.பி.சா்மா ஓலி செவ்வாய்க்கிழமை இராஜிநாமா செய்தாா்.
-
-இந்த நிலையில், ஆட்சி அதிகாரம் ராணுவ கட்டுப்பாட்டுக்குள் கொண்டுவரப்பட்டுள்ளது. இதனிடையே, நேபாளத்தின் முதல் பெண் தலைமை நீதிபதி சுசீலா கார்கி அந்நாட்டின் இடைக்கால அரசின் தலைவராக இன்று (செப். 10) தெரிவு செய்யப்பட்டுள்ளார்.
-
-இன்று(செப். 10) போராட்டக் குழுவிலிருந்து பிரதிநிதிகள் பலருடன் ராணுவம் தரப்பிலிருந்து பேச்சுவார்த்தை நடத்தப்பட்டதைத்தொடர்ந்து, இடைக்கால அரசுக்கு யாரை தலைமையேற்கச் செய்யலாம் என்பது குறித்து விவாதிக்கப்பட்டது.
-
-...
-
-[Data](articles/ba8795d7.json)
+[Data](articles/dfbc9292.json)
 
 ---
 
-### நேபாளத்தில் 13,000க்கும் மேற்பட்ட கைதிகள் தப்பியோட்டம்
+### India beat India
+
+*2025-09-10 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214420) · `si`
+
+India won the 9 wickets in nine wickets in the winners of the Asian Cup Twenty20 tournament.
+
+The United Arab Emiir won only 57 runs in 13.1 overs.
+
+Chasing a target of 58 runs, the Indian team won the 5 (4.3) in the year 5 (4.3) in the wilderness.
+
+Abhishek Sharma scored 30 runs off 16 balls with a boundary batsman.
+
+Gill scored unbeaten on 20 balls with only 9 balls.
+
+◼️
+
+[Data](articles/3ae5637e.json)
+
+[Extended Data](ext_articles/3ae5637e.ext.json)
+
+---
+
+### The Chief Justice of the first female is the head of the interim state
+
+*2025-09-10 21:45:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இடைக்கால-அரசின்-தலைவராகிறார்-முதல்-பெண்-தலைமை-நீதிபதி/50-364377) · `ta`
+
+A new leader has been elected to lead the interim state in Nepal, which was corrupted by the struggle.
+
+Following the ban on social media sites by the Nepal government. 8) involved in great struggle. The riot erupted against the corruption of rulers in Nepal and the ban on social media sites.
+
+KP Sma Oli resigned from Nepal on Tuesday as the Prime Minister's post was intensified.
+
+In this case, the regime has been brought under military control. Meanwhile, Nepal's first female Chief Justice Susila Karki as the head of the country's interim government today (Sep.. 10) Has been chosen.
+
+Today (Sep. 10) Following the talks with a number of representatives from the protest committee, the army was discussing who could lead the interim government.
+
+According to the media, about 4,000 people participated in the online consultation held online.. At the time, the majority of the names of Susila Karki were reportedly proposed. Remble
+
+◼️
+
+[Data](articles/ba8795d7.json)
+
+[Extended Data](ext_articles/ba8795d7.ext.json)
+
+---
+
+### More than 13,000 inmates escaped in Nepal
 
 *2025-09-10 21:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-13-000க்கும்-மேற்பட்ட-கைதிகள்-தப்பியோட்டம்/175-364373) · `ta`
 
-நேபாளத்தில் வெவ்வேறு சிறைச்சாலைகளிலிருந்து 13,000-க்கும் மேற்பட்ட கைதிகள் தப்பியோடியிருப்பதாக வெளியாகியிருக்கும் தகவல் பெரும் அதிர்வலைகளை ஏற்படுத்தியுள்ளது.
+The reports that more than 13,000 inmates have fled from different prisons in Nepal have been shocked.
 
-நேபாள அரசால் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடையைத் தொடர்ந்து இளைஞர்கள் அணிதிரண்டு தலைநகர் காத்மாண்டுவில் திங்கள்கிழமை(செப். 8) பெரும் போராட்டத்தில் ஈடுபட்டனர்.
+Following the ban on social media sites by the Nepal government. 8) They were involved in a great struggle.
 
-நேபாளத்தில் ஆட்சியாளா்களின் ஊழல் மற்றும் அரசின் பிற நடவடிக்கைகள் சமூக ஊடக தளங்களுக்கு விதிக்கப்பட்ட தடை ஆகியவற்றுக்கு எதிராக நடைபெற்ற போராட்டம் கலவரமாக வெடித்தது.
+The riot erupted against the corruption of rulers in Nepal and the ban on social media sites.
 
-இந்த நிலையில், கலவரத்தின்போதுநேபாளத்தின் ராஜ்பிராஜ் சிறைச்சாலையில் இருந்த கைதிகள் ஏராளமானோர் அந்தச் சிறைச்சாலைக்கு தீவைத்து கொளுத்தி தப்பிவிட்டதாக அதிகாரிகள் தெரிவிக்கின்றனர்.
+Officials say that during the riots, a large number of prisoners in the Rajpiraj prison in Nepal have set fire to the prison.
 
-இதுபோன்ற பல சம்பவங்கள் நேபாள சிறைச்சாலைகளில் நடைபெற்றுள்ளன. இதையடுத்து, சிறைச்சாலைகளில் பாதுகாப்பு நடவடிக்கைகளை நேபாள ராணுவமும் காவல் துறையும் பலப்படுத்தியுள்ளது. R
+Many such incidents have taken place in Nepal prisons. Subsequently, the Nepal Army and the police have strengthened security measures in prisons. Remble
 
 ◼️
 
 [Data](articles/b4056923.json)
 
+[Extended Data](ext_articles/b4056923.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරුන් දෙදෙනෙක් කාරක සභා කිහිපයක සේවයට නම් කරයි
+### Two Members of Parliament are named to serve in several committees
 
 *2025-09-10 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214419) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන එම්.එස්. අබ්දුල් වාහිද් සහ සුජීව සේනසිංහ යන මහත්වරුන් කාරක සභා කිහිපයක සේවය කිරීම සඳහා නම් කළ බව කථානායක ජගත් වික්‍රමරත්න මහතා පාර්ලිමේන්තුවේදී නිවේදනය කර තිබේ.
+Members of Parliament MS. Speaker Jagath Wickramaratne has announced that Abdul and Sujeewa Senasinghe were named to serve in several committee.
 
-පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 112 හි විධිවිධාන සහ 2025 මාර්තු 19 දින පාර්ලිමේන්තුව විසින් සම්මත කරන ලද යෝජනාව ප්‍රකාරව, පාර්ලිමේන්තු මන්ත්‍රී එම්.එස්. අබ්දුල් වාහිද් මහතා ,අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ ,නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ ,සෞඛ්‍ය සහ ජනමාධ්‍ය කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ සහ 2025 මාර්තු 19 දින පාර්ලිමේන්තුව විසින් සම්මත කරන ලද යෝජනාව සහ පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 129 හි විධිවිධාන ප්‍රකාරව, පසුපෙළ මන්ත්‍රීවරයන්ගේ කාරක සභාවේ සේවය කිරීම සඳහා තේරීම් කාරක සභාව විසින් නම් කරන ලද බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (10) පාර්ලිමේන්තුවේදී නිවේදනය කළේය.
+Parliamentarian MS in terms of Standing Orders of Parliament and on March 19, 2025. Mr. Dr. Jagath Wickramaratne today (PCs Advisory Committee on the Ministry of Education, Higher Education and Professional Education and the Committee on the Ministry of Education and Mass Media in the province of the Parliament of Parliament, Hon. Announced in Parliament.
+
+The Speaker announced that the proposal was passed by Parliament and the Committee on Public Petitions to serve the Committee on Public Petitions and the Committee on the Board of Parliament in order to serve the Committee on Public Petitions.
+
+◼️
+
+[Data](articles/3c2fb98e.json)
+
+[Extended Data](ext_articles/3c2fb98e.ext.json)
+
+---
+
+### அரச ஊழியர்களின் நல்வாழ்வுக்காக "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம்
+
+*2025-09-10 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224760) · `ta`
+
+அரசாங்க ஊழியர்களின் நல்வாழ்வுக்காக "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம் திட்டத்தின் ஆரம்ப நிகழ்வு சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தலைமையில் கம்பஹா மாவட்டத்தை மையமாகக் கொண்டு புதன்கிழமை (10)  ஜா-எல பகுதியில் இடம்பெற்றது.
+
+அரச ஊழியர்கள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களின் நல்வாழ்வுக்காக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் புதிய திட்டத்தின் கீழ் நடத்தப்படும் "ஆரோக்கியா" நடமாடும் மருத்துவ முகாம் திட்டத்தின் ஆரம்ப நிகழ்வு ஜா-எல பகுதியில் நேற்று புதன்கிழமை  இடம்பெற்றது.  கம்பஹா மாவட்டத்தில் உள்ள அனைத்து பொலிஸ் பிரிவுகளையும் மையமாகக் கொண்டு, இலங்கை பொலிஸ் உத்தியோகத்தர்களுக்காக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் தலைமையில் இத்திட்டம் ஆரம்பித்து வைக்கப்பட்டது.
 
 ...
 
-[Data](articles/3c2fb98e.json)
+[Data](articles/2e311198.json)
 
 ---
 
@@ -171,6 +229,22 @@ Minister Herath provided a detailed explanation of Sri Lanka’s position on the
 [Data](articles/563d58ab.json)
 
 [Extended Data](ext_articles/563d58ab.ext.json)
+
+---
+
+### ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත සම්මතයි
+
+*2025-09-10 19:44:10* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරුන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත-සම්මතයි/11-418413) · `si`
+
+“ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ)” පනත් කෙටුම්පත අද (10) පාර්ලිමේන්තුවේදී වැඩි ඡන්ද 150 කින් සම්මත විය. අද පෙ.ව 11.30 සිට එම පනත් කෙටුම්පත දෙවැනිවර කියවීමට අදාළ විවාදය පැවති අතර අනතුරුව ප.ව 3.30ට පමණ පැවති දෙවැනිවර කියවීමේ ඡන්ද විමසීමේදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 151 ක් හිමිවූ අතර විපක්ෂව ඡන්ද 1ක් හිමිවිය.
+
+අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යවරයා විසින් 2025 අගෝස්තු 07 වැනිදා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද මෙම පනත් කෙටුම්පත 1986 අංක 4 දරන ජනාධිපතිවරයන්ගේ හිමිකම් පනත ඉවත් කිරීම සඳහා වූ පනත් කෙටුම්පතකි.
+
+මේ අනුව ඉවත් කරන ලද පනතේ 2 වන වගන්තියේ විධිවිධාන ප්‍රකාරව හිටපු ජනාධිපතිවරයකුට හෝ හිටපු ජනාධිපතිවරයකුගේ වැන්දඹුවට සපයන ලද යම් නිවසක් හෝ ගෙවන ලද යම් මාසික දීමනාව; ඉවත් කරන ලද පනතේ 3 වන වගන්තියේ විධිවිධාන ප්‍රකාර හිටපු ජනාධිපතිවරයකුට හෝ හිටපු ජනාධිපතිවරයකුගේ වැන්දඹුවට ගෙවන ලද මාසික ලේකම් දීමනාව සහ නිල ප්‍රවාහන සහ වෙනත් සියලු පහසුකම්, සහ ඉවත් කරන ලද පනතේ 4 වන වගන්තියේ විධිවිධාන ප්‍රකාරව හිටපු ජනාධිපතිවරයකුගේ වැන්දඹුවට ගෙවන ලද මාසික විශ්‍රාම වැටුප අහෝසි වීම සිදුවේ.
+
+◼️
+
+[Data](articles/885fbf25.json)
 
 ---
 
@@ -1921,85 +1995,5 @@ The reconstruction project will be officially launched on September 15 under the
 [Data](articles/b8eccf30.json)
 
 [Extended Data](ext_articles/b8eccf30.ext.json)
-
----
-
-### Pilgrims go to Lumbini safe to India
-
-*2025-09-10 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214396) · `si`
-
-The 73 Sri Lankan pilgrims who were traveling to Lumbini from India to Lumbini have entered India safely through the border.
-
-◼️
-
-[Data](articles/b9d70e7d.json)
-
-[Extended Data](ext_articles/b9d70e7d.ext.json)
-
----
-
-### Sri Lankans evacuating from Nepal
-
-*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்கள்-வெளியேற்றம்/175-364335) · `ta`
-
-Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
-
-In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
-
-In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
-
-According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
-
-Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
-
-Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
-
-...
-
-[Data](articles/3f7d004c.json)
-
-[Extended Data](ext_articles/3f7d004c.ext.json)
-
----
-
-### Excretion of Sri Lankans from Nepal
-
-*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்களை-வெளியேற்றம்/175-364335) · `ta`
-
-Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
-
-In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
-
-In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
-
-According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
-
-Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
-
-Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
-
-...
-
-[Data](articles/e794c35b.json)
-
-[Extended Data](ext_articles/e794c35b.ext.json)
-
----
-
-### Aishwarya Rai case
-
-*2025-09-10 11:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஐஸ்வர்யா-ராய்-வழக்கு/54-364333) · `ta`
-
-Actress Aishwarya Rai has filed a case in the Delhi High Court seeking a ban on the use of her photos by artificial intelligence and the use of it without permission.
-
-In a case filed by his lawyer Sandeep Sethi, he said, “Photos of Aishwarya Rai, Morning Aishwarya Rai, are being misused online. They are photos made of artificial intelligence. His face is traded using coffee mugs, wallpapers, t-shirts. It is unfortunate that some close photos, which have been fake, are used for pornographic purposes.
-
-This is the act of violating his rights. You have to impose an interim injunction immediately to implement it. ”. Delhi High Court Judge Dejas Karia has ordered the removal of 151 website connections stated in the complaint.. The next hearing of the case will be held on January 15, 2026.
-
-◼️
-
-[Data](articles/56a00260.json)
-
-[Extended Data](ext_articles/56a00260.ext.json)
 
 ---

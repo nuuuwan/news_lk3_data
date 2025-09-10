@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 12:23:25**
+As of **2025-09-10 12:13:09**
 
 ## Newspaper Stats
 
-*Scraped **75,133** Articles*
+*Scraped **75,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,281
+adalk | 7,280
 adaderanalk | 9,627
-tamilmirrorlk | 11,213
+tamilmirrorlk | 11,212
 virakesarilk | 12,260
 adaderanasinhalalk | 13,089
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,918 (87.7%) of 75,133 articles have been extended.
+65,918 (87.7%) of 75,131 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,26 +79,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b9d70e7d.json)
-
----
-
-### நேபாளத்தில் இருந்து இலங்கையர்கள் வெளியேற்றம்
-
-*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்கள்-வெளியேற்றம்/175-364335) · `ta`
-
-நாடு தழுவிய போராட்டங்கள் காரணமாக, தற்போது நேபாளத்தில் உள்ள 73 இலங்கை யாத்ரீகர்களை வெளியேற்றும் பணிகளில் ஈடுபட்டுள்ளதாக வெளியுறவு அமைச்சகம் தெரிவித்துள்ளது.
-
-ஆரம்பகால தொழில்நுட்ப சிக்கல்கள் இருந்தபோதிலும், யாத்ரீகர்களை வெளியேற்ற நேபாள அதிகாரிகளின் ஆதரவுடன் ஒருங்கிணைந்த முயற்சிகள் நடந்து வருவதாக அமைச்சகம் தெரிவித்துள்ளது.
-
-இன்று அதிகாலை, நேபாளத்தில் வசிக்கும் அனைத்து இலங்கையர்களும் பாதுகாப்பாக இருப்பதாகவும், எந்த பாதிப்பும் ஏற்பட்டதாக எந்த அறிக்கையும் இல்லை என்றும் வெளியுறவு அமைச்சகம் தெரிவித்துள்ளது.
-
-காத்மண்டுவில் உள்ள இலங்கை தூதரகத்தின்படி, நேபாளத்தில் 102 இலங்கையர்கள் உள்ளனர், அவர்களில் 22 மாணவர்கள், பிற குடியிருப்பாளர்கள் மற்றும் தூதரக ஊழியர்கள் அடங்குவர்.
-
-தூதரக அதிகாரிகள் வட்ஸ்அப் குழுக்கள் மற்றும் தனிப்பட்ட வலையமைப்புகள் மூலம் சமூகத்துடன் நேரடி தொடர்பில் இருந்து அவர்களின் பாதுகாப்பைக் கண்காணித்து வருகின்றனர்.
-
-...
-
-[Data](articles/3f7d004c.json)
 
 ---
 
@@ -229,26 +209,6 @@ He said the no -confidence motion did not comply with the rules of the Constitut
 [Data](articles/80d39f36.json)
 
 [Extended Data](ext_articles/80d39f36.ext.json)
-
----
-
-### කටුනායක හා කත්මණ්ඩු අතර ගුවන් ගමන් නවතී
-
-*2025-09-10 10:40:34* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-හා-කත්මණ්ඩු-අතර-ගුවන්-ගමන්-නවතී/11-418398) · `si`
-
-ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ සහ නේපාලයේ කත්මණ්ඩු නුවර අතර සිදු කෙරෙන ගුවන් ගමන් 09/10 දින උදෑසන සිට අත්හිටුවීමට පියවර ගෙන ඇති බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය.
-
-ඒ අනුව 09/10 දින උදෑසන 08.35 ට කටුනායක ගුවන් තොටුපොළෙන් නේපාලයේ කත්මණ්ඩු නුවර බලා පිටත්ව යාමට නියමිතව තිබූ ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 181 ගුවන් ගමන අවලංගු කර තිබේ .
-
-මෙයට හේතු වී ඇත්තේ නේපාලයේ රට තුළ හට ගෙන ඇති අරගලකාරී තත්වය වන අතර 09/09 දින වන විට එරට අග්‍රාමාත්‍යවරයා ද පළවා හැරීමට අරගලකරුවන් පියවර ගෙන තිබේ .
-
-මෙම තත්වය යටතේ නේපාලයේ සියලුම අභ්‍යන්තර සහ ජාත්‍යන්තර ගුවන් තොටුපොළ වසා දැමීමට එරට සිවිල් ගුවන් සේවා අධිකාරිය පියවර ගෙන තිබේ .
-
-මෙම ගුවන් ගමන් පිළිබද උනන්දුවක් දක්වන පිරිස් ශ්‍රී ලන්කන් ගුවන් සේවයේ 1979 දුරකථන අංකය ඇමතීමෙන් හෝ ඔබගේ සංචාරක නියෝජිත ආයතනයෙන් විමසීමක් කරන ලෙස දීපාල් පෙරේරා මහතා වැඩිදුරටත් ඉල්ලා සිටී .
-
-◼️
-
-[Data](articles/09b0500b.json)
 
 ---
 
@@ -2017,5 +1977,53 @@ The Minister noted that the SLPP member of Sampath Manamperi, a former local cou
 [Data](articles/01397612.json)
 
 [Extended Data](ext_articles/01397612.ext.json)
+
+---
+
+### “Are you afraid of a foreign mechanism?”
+
+*2025-09-09 17:20:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-பொறிமுறைக்கு-உங்களுக்கு-பயமா/175-364289) · `ta`
+
+The government should accept the foreign mechanism if there is no fear of the mind, said K. Koteeswaran, MP of the Sri Lanka Tamil National Alliance (TNA).
+
+He said this while addressing a debate on the mutual agreements between Sri Lanka and the United Arab Emirates in Parliament on Tuesday (09).
+
+The Sri Lankan government's Foreign Minister said that the UN Human Rights Council (UNHRC) was working in the domestic mechanism in the 60th session of the 60th session.. But the Commissioner has stated that the foreign mechanism is the best.
+
+However, we have lost faith in the domestic mechanism. Because every government has claimed the domestic mechanism. The genocide, the intelligence agencies, and its associated politicians will be protected. That is why the resolution should be implemented on the basis of foreign mechanisms in foreign sponsorship.
+
+Why you don't accept foreign mechanism. Are you afraid of this? You do not accept foreign affairs because you are afraid.
+
+...
+
+[Data](articles/db15dff7.json)
+
+[Extended Data](ext_articles/db15dff7.ext.json)
+
+---
+
+### Government to buy 2000 new cabs
+
+*2025-09-09 17:19:54* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-අලුතෙන්-කැබ්-රථ 2000ක්-මිලට-ගන්න-යයි/11-418391) · `si`
+
+Cabinet spokesperson Dr. Nalinda Jayatissa says that a budget is aimed at development of budget presented in November.
+
+The Minister was speaking at a media briefing in the Cabinet Decision in the Government Information Department this morning.
+
+It is also expected that 2000 cabs are expected to be purchased by field officials, especially in regional development work.
+
+Remembered that the covid has commenced before the covid papers, which have been stopped before the corvs.
+
+They have identified such essential projects and reviewed their days, timely, and the relevant cost estimates.
+
+The Minister said that the proposals of their budget, as well as the Ministry of Ministries, has been submitted by the Provincial Council level.
+
+It also stated that the ministries have applied for the stability of the economy into the lives of the people and will be devoted to the budget.
+
+◼️
+
+[Data](articles/8a51ba88.json)
+
+[Extended Data](ext_articles/8a51ba88.ext.json)
 
 ---

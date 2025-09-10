@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 14:55:41**
+As of **2025-09-10 17:41:31**
 
 ## Newspaper Stats
 
-*Scraped **75,150** Articles*
+*Scraped **75,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,65 +12,673 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 764
-economynextcom | 4,550
+economynextcom | 4,555
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,286
-adaderanalk | 9,630
-tamilmirrorlk | 11,216
+adalk | 7,291
+adaderanalk | 9,642
+tamilmirrorlk | 11,230
 virakesarilk | 12,260
-adaderanasinhalalk | 13,094
+adaderanasinhalalk | 13,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,041 (87.9%) of 75,150 articles have been extended.
+66,192 (88.0%) of 75,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### நிஷாந்த உலுகேதென்னவின் விளக்கமறியல் நீடிப்பு
+### வரலாற்று குப்பை தொட்டியில் ‘ஒலி‘
+
+*2025-09-10 17:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வரலாற்று-குப்பை-தொட்டியில்-ஒலி/62-364366) · `ta`
+
+நேபாள பிரதமர் சர்மா ஒலி  தனது பதவியை இராஜினாமா செய்தார். இந்நிலையில், வரலாற்று குப்பை தொட்டியில் இலங்கையின் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவும், பங்களாதேசின் முன்னாள் பிரதமர் ஷேக் ஹசீனாவும் விழுந்து கிடக்கின்றனர்.
+
+◼️
+
+[Data](articles/828c8a98.json)
+
+---
+
+### Speaker signs for the Title Removal Act
+
+*2025-09-10 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214408) · `si`
+
+The claim of the Presidents (Claim) Bill, Speaker Jagath Wickramaratne signed today (10).
+
+The second reading of the Second Reading Debate on the Bill was held today (10).
+
+151 votes were cast in favor of the area.
+
+As a result, the claim of the Presidential Claims Removal of the Presidents was passed by a majority of 150 votes.
+
+◼️
+
+[Data](articles/a6b00607.json)
+
+[Extended Data](ext_articles/a6b00607.ext.json)
+
+---
+
+### Do you know what ex -presidents don't get?
+
+*2025-09-10 16:49:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளுக்கு-எதுவெல்லாம்-கிடைக்காது-தெரியுமா/175-364365) · `ta`
+
+The ex -presence of former presidents (elimination) Bill was passed by 150 more votes. Only Samara Sampath Dasanayake and Archana Ramanathan voted against the opposition party.
+
+The debate on the President's Removal (Removal) Bill took place in Parliament on Wednesday (10) from 11 am to 3.30 pm. Subsequently, the Chief Minister and Minister Bimal Ratnayake sought a referendum to pass the Bill.
+
+The law has been prepared in order to abolish the law of the President. The law of the President will be repealed through the Act No. 4 in 1986.
+
+According to the arrangements of Article 2 of the cancellation, any home or monthly allowance paid to the widow of former president or former presidents will be canceled.
+
+The monthly allowance and official vehicles and other accessories will be canceled for the secretary of the widow of former president or former president's widow in accordance with the arrangements of Article 3 of the Act.
+
+...
+
+[Data](articles/69495efa.json)
+
+[Extended Data](ext_articles/69495efa.ext.json)
+
+---
+
+### අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කරන නව චක්‍රලේඛය නිකුත් කෙරේ
+
+*2025-09-10 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214407) · `si`
+
+The 27/2025 circular prepared for Grade 11 (Excluding Grades 5 and 6) in schools (except 5th).
+
+The number 27/2025 issued by the Ministry of Education and Vocational Education can be obtained by visiting http://www.moe.gov.lk.
+
+◼️
+
+[Data](articles/0edb2d4a.json)
+
+[Extended Data](ext_articles/0edb2d4a.ext.json)
+
+---
+
+### Do you know who the supported opposition member is?
+
+*2025-09-10 16:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதரவளித்த-எதிர்க்கட்சி-உறுப்பினர்-யார்-தெரியுமா/175-364363) · `ta`
+
+The debate on the President's Removal (Removal) Bill was held in Parliament on Wednesday (10) from 11 am to 3.30 pm. Following this, the Chief Minister and Minister of the Council, Bimal Ratnayake, voted for the passage of the Bill.
+
+The President's Removal (Removal) Bill was passed by 150 additional votes.
+
+◼️
+
+[Data](articles/10f8b717.json)
+
+[Extended Data](ext_articles/10f8b717.ext.json)
+
+---
+
+### Ella Koram: Bail for the owner of the bus
+
+*2025-09-10 16:14:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/எல்ல-கோரம்-பஸ்ஸின்-உரிமையாளருக்கு-பிணை/76-364362) · `ta`
+
+Ella police have arrested a bus owner in connection with an accident that killed 15 people in a crash at around 9.30 pm on Thursday (04) at the 12th Milestone area on the Ella-Vellawa main road.
+
+Police said the police said they were arrested on charges of neglecting the bus, which may be the cause of the death toll.. Further investigations are underway.
+
+The owner of the arrested bus belonged to the Tangalle area and the suspect was produced before the Bandarawela Magistrate's Court on Wednesday (10).. The court has granted him bail.
+
+Bandarawela Magistrate Gemunu Chandrasekara ordered him to be released on his own bail of Rs 200,000 and 50,000 rupees in cash.
+
+It is noteworthy that a private tour bus carrying the Tangalle city council employees and their family members was returning from Nuwara Eliya and fell into a luxury car and fell into a ditch in a ditch.
+
+When the bus crashed, there were 34 people on the bus. Of those, 15 were killed.. It is noteworthy that a traveler disappeared.
+
+◼️
+
+[Data](articles/f6b5258b.json)
+
+[Extended Data](ext_articles/f6b5258b.ext.json)
+
+---
+
+### 500 million for school laboratories
+
+*2025-09-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214406) · `si`
+
+500 million is allocated as a school-based grant under Sesip
+
+The Science School Development Societies Ministry of Education, Higher Education and Professional Ministry of Education will be credited to school development unions.
+
+The maximum amount of a school is Rs. 40,000.
+
+The objective is to improve the necessary infrastructure to improve the promotion and promotion and practical activities of science education and executive education reforms.
+
+◼️
+
+[Data](articles/c9a4531f.json)
+
+[Extended Data](ext_articles/c9a4531f.ext.json)
+
+---
+
+### Who was the one who voted against it?
+
+*2025-09-10 16:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிராக-வாக்களித்த-அந்த-ஒருவர்-யார்/175-364361) · `ta`
+
+A referendum was held shortly after the debate on Wednesday (10) held in Parliament. In it, 151 votes were cast in favor of the Bill.
+
+Should a referendum be held on this bill? Speaker Jagath Wickramaratne, who was heading the council. Minister Bimal Ratnayake, the chief minister of the ruling party, called for a referendum.
+
+New Democratic Front's Badulla District Parliamentarian Samara Sampath Dasanayake voted against the bill
+
+◼️
+
+[Data](articles/b532aee6.json)
+
+[Extended Data](ext_articles/b532aee6.ext.json)
+
+---
+
+### "Muslims' burial excavation work in October"
+
+*2025-09-10 15:56:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்களின்-புதைகுழி-அகழ்வுப்பணி-அக்டோபரில்/175-364360) · `ta`
+
+The burial excavation work of Muslims who were assassinated in the village of priests in the Batticaloa district will commence in October. Justice Minister Harshana Nanayakkara said steps would be taken to obtain international assistance if necessary.
+
+Sri Lanka Muslim Congress MP MP on Wednesday (10) in Parliament. L. The Minister said this while responding to questions raised by AM Hizbullah.
+
+On July 12, 1990, the LTTE abducted and assassinated the Muslims who returned to Madukam in Kaluwanchikudi area in Kaluwanchikudi area.. At the same time, the court ordered the excavation of the international rules and asked when to begin the proceedings.
+
+The government has paid full attention to the incident. Steps will be taken to provide justice to the victims.
+
+...
+
+[Data](articles/40c55df2.json)
+
+[Extended Data](ext_articles/40c55df2.ext.json)
+
+---
+
+### Mahinda inquired about Vasu
+
+*2025-09-10 15:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாசுவிடம்-குசலம்-விசாரித்தார்-மஹிந்த/175-364358) · `ta`
+
+Former President Mahinda Rajapakse has visited his home to inquire about the welfare of former retired minister Vasudeva Nanayakkara.
+
+“I met Vasudeva Nanayakkara, the old warmth and went to his house to inquire about his welfare. Vasudeva Nanayakkara and I have been in politics for many years. We both entered politics in 1970. Friendship is very old. It is very complicated. Vasudeva is a wonderful companion. Sensant. A good friend, "Mahinda Rajapakse posted on social media after meeting Vasudeva Nanayakkara.
+
+◼️
+
+[Data](articles/4b694b88.json)
+
+[Extended Data](ext_articles/4b694b88.ext.json)
+
+---
+
+### Sri Lanka squad for women's World Cup
+
+*2025-09-10 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214405) · `si`
+
+The Sri Lankan squad for the ICC was selected for the One Day Women's World Cup today (10).
+
+Accordingly, Permanent Leader Chamari Atapattu has been named for this purpose.
+
+The tournament will be held in Sri Lanka and India, which will be held from September 30 to November 2.
+
+1) Chamari Atapattu (Lead), 2) Hershayi De Silva, 7) Hershayi De Silva, 7) Imuse Dilchers, No. Sugandika Kumari, Udeshika Prochannel, 14) Madaky Madara, 15) Achini Kulasuriya
+
+◼️
+
+[Data](articles/68350b9e.json)
+
+[Extended Data](ext_articles/68350b9e.ext.json)
+
+---
+
+### Former Presidents wedge: 151 support, 01 protest
+
+*2025-09-10 15:42:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளுக்கு-ஆப்பு-151-ஆதரவு-01-எதிர்ப்பு/175-364356) · `ta`
+
+A referendum was held shortly after the debate on Wednesday (10) held in Parliament. In it, 151 votes were cast in favor of the Bill.
+
+Should a referendum be held on this bill? Speaker Jagath Wickramaratne, who was heading the council. Minister Bimal Ratnayake, the chief minister of the ruling party, called for a referendum.
+
+◼️
+
+[Data](articles/39db1b5f.json)
+
+[Extended Data](ext_articles/39db1b5f.ext.json)
+
+---
+
+### Former Presidents wedge: 151 support, 01 protest
+
+*2025-09-10 15:42:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளுக்கு-ஆப்பு-151-ஆதரவு-01-எதிர்ப்பு/150-364356) · `ta`
+
+A referendum was held shortly after the debate on Wednesday (10) held in Parliament. In it, 151 votes were cast in favor of the Bill.
+
+Should a referendum be held on this bill? Speaker Jagath Wickramaratne. Minister Bimal Ratnayake, the chief minister of the ruling party, called for a referendum.
+
+◼️
+
+[Data](articles/76c71a0c.json)
+
+[Extended Data](ext_articles/76c71a0c.ext.json)
+
+---
+
+### Title Removal Bill passed by more votes
+
+*2025-09-10 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214404) · `si`
+
+The second reading of the President's Title Removal Bill was held today (10).
+
+There were 151 votes in favor of the Bill and 1 votes.
+
+Accordingly, Speaker Medical Giyawan Wickramaratne informed the parliament that the President's Title Repeat Bill was passed by a majority of 150 votes.
+
+◼️
+
+[Data](articles/9e0d7453.json)
+
+[Extended Data](ext_articles/9e0d7453.ext.json)
+
+---
+
+### Presidents’ Entitlements (Repeal) Bill passed in Parliament
+
+*2025-09-10 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112361/second-reading-of-the-presidents-entitlements-repeal-bill-passed-in-parliament) · `en`
+
+The second reading of the Presidents’ Entitlements (Repeal) Bill has been passed with a majority of 150 votes in Parliament, a short while ago.
+
+During the vote on the second reading of the bill, a total of 151 Members of Parliament voted in favor while New Democratic Front (NDF) MP Chamara Sampath Dassanayake voted against it.
+
+Accordingly, Speaker of House Dr. Jagath Wickramaratne announced that the bill has been passed with a majority of 150 votes.
+
+Subsequently, the bill proceeded to the third reading or the committee stage.
+
+Following the committee stage, the Speaker announced that the bill has been approved without amendments in Parliament.
+
+◼️
+
+[Data](articles/bb787508.json)
+
+[Extended Data](ext_articles/bb787508.ext.json)
+
+---
+
+### Explanation to the former CM
+
+*2025-09-10 15:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநகர-சபை-முன்னாள்-முதல்வருக்கு-விளக்கமறியல்/175-364354) · `ta`
+
+Colombo Chief Magistrate Asanga SS to hold the former Chief Minister of the Moratuwa Municipal Council Samanlal Fernando until September 23. Podarakama ordered.
+
+◼️
+
+[Data](articles/9fc9d8ad.json)
+
+[Extended Data](ext_articles/9fc9d8ad.ext.json)
+
+---
+
+### Sri Lanka expresses concern over recent strikes in Qatar
+
+*2025-09-10 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112359/sri-lanka-expresses-concern-over-recent-strikes-in-qatar) · `en`
+
+Sri Lanka today expressed deep concern over the recent strikes reported in Qatar, which it says might further escalate volatility and undermine regional security.
+
+“Sri Lanka emphasizes the need for restraint and to be committed to diplomatic dialogue towards peace and stability in the region while upholding universally accepted international norms and laws,” the Ministry of Foreign Affairs said in a brief statement.
+
+Israel attempted to kill the political leaders of Hamas with the attack in the Qatari capital Doha on Tuesday, escalating its military action in the Middle East in what the U.S. described as a unilateral attack that does not advance American and Israeli interests.
+
+The operation was especially sensitive because mediator Qatar has been hosting negotiations aimed at securing a ceasefire in the Gaza war which has been raging for nearly two years.
+
+...
+
+[Data](articles/1536474f.json)
+
+[Extended Data](ext_articles/1536474f.ext.json)
+
+---
+
+### Samanlal remanded
+
+*2025-09-10 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214403) · `si`
+
+Former Mayor of Moratuwa Municipal Council has been remanded until September 23.
+
+The event was arrested for the loss of the loss of the road development projects in the Moratuwa Municipal Council.
+
+◼️
+
+[Data](articles/e4468c28.json)
+
+[Extended Data](ext_articles/e4468c28.ext.json)
+
+---
+
+### Former Moratuwa Mayor Saman Lal Fernando remanded
+
+*2025-09-10 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112358/former-moratuwa-mayor-saman-lal-fernando-remanded-) · `en`
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) earlier today (10), has been remanded, Ada Derana reporter said.
+
+He was remanded until September 23 by the Colombo Chief Magistrate Asanka S. Bodaragama.
+
+Former Moratuwa Mayor Saman Lal Fernando was arrested at around 12:50 p.m.
+
+The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
+
+He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
+
+◼️
+
+[Data](articles/33286b66.json)
+
+[Extended Data](ext_articles/33286b66.ext.json)
+
+---
+
+### An ethnicrology of deputy minister station as insulted by Namal
+
+*2025-09-10 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214402) · `si`
+
+Deputy Minister of Public Defense and Parliamentary Affairs Sunil Watagala have been directed against the defamatory and inspector of the Hon.
+
+This deputy minister has been sent to the Deputy Minister through a lawyer.
+
+At a press conference held on or near September, 2025, a press conference was held in Homagama or a media briefing in Homagama, homagama, had made a statement regarding the underworld and drugs.
+
+During that statement, the deputy minister has expressed in the case of two containers who have been arrested by the police on the 6th or near the police.
+
+During the same statement, Deputy Minister Sunil Watagala show that he is clearly exhibited by the client, Namal Rajapaksa and has issued statements into the media.
+
+It is also reported that this statement is based on a protest against Namal Rajapaksa and the Commonwealth General Man.
+
+Eligibility has shown that Namal Rajapaksa has been severely damaged by the above statements and the implementation of the statement.
+
+...
+
+[Data](articles/9b0aa82e.json)
+
+[Extended Data](ext_articles/9b0aa82e.ext.json)
+
+---
+
+### "We will burn unnecessary nails"
+
+*2025-09-10 15:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவையில்லாத-ஆணிகளை-புடுங்குவோம்/175-364351) · `ta`
+
+Wanni district parliamentarian of the National People's Power, Mayilvankanam Jagadeeswaran, who urged the people's sweat and bloodshed in the past, should not be convenient for former presidents who have been facilitated in the past.
+
+He said this while addressing a debate on the abolition of the principles of the present presidents in Parliament.
+
+◼️
+
+[Data](articles/23b2135a.json)
+
+[Extended Data](ext_articles/23b2135a.ext.json)
+
+---
+
+### Owner of bus involved in fatal Ella crash granted bail
+
+*2025-09-10 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112357/owner-of-bus-involved-in-fatal-ella-crash-granted-bail) · `en`
+
+The owner of the bus that caused the death of 15 persons in Ella, who was arrested for negligence in proper maintenance of the bus, has been granted bail by the Bandarawela Magistrate’s Court.
+
+◼️
+
+[Data](articles/346cc13e.json)
+
+[Extended Data](ext_articles/346cc13e.ext.json)
+
+---
+
+### Arrested for former CM
+
+*2025-09-10 14:50:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநகர-சபை-முன்னாள்-முதல்வர்-கைது/175-364350) · `ta`
+
+Former Chief Minister of the Moratuwa Municipal Council Samanlal Fernando has been arrested by the authorities to investigate bribery or corruption.
+
+He has been accused of providing road development projects to the Moratuwa municipality.
+
+◼️
+
+[Data](articles/cd5855ce.json)
+
+[Extended Data](ext_articles/cd5855ce.ext.json)
+
+---
+
+### SJB threatens to bring NCM against Speaker
+
+*2025-09-10 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112355/sjb-threatens-to-bring-ncm-against-speaker) · `en`
+
+The opposition is prepared to bring a no-confidence motion against the Speaker of House, General Secretary of the Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara in Parliament.
+
+He made this statement when the Speaker announced his decision regarding the no-confidence motion submitted by the opposition against Deputy Defence Minister, Retired Major General Aruna Jayasekara.
+
+Parliamentarian Madduma Bandara further said that if the Speaker fails to safeguard the democratic rights of the opposition, a no-confidence motion will be brought against him.
+
+Responding to this, Minister Bimal Rathnayake stated in Parliament that the opposition will never succeed in defeating the Speaker through a no-confidence motion.
+
+The Minister said they have no objections to the order of the Speaker and as the ruling party, they are prepared to debate the matter at any given time.
+
+...
+
+[Data](articles/aabf96e5.json)
+
+[Extended Data](ext_articles/aabf96e5.ext.json)
+
+---
+
+### Archana's question is the ruling party
+
+*2025-09-10 14:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவின்-கேள்வியால்-ஆடிபோன-ஆளும்-தரப்பு/175-364349) · `ta`
+
+Jaffna Member of Parliament Ramanathan Archana is participating in the debate on the abolition of the principles of the present presidents in Parliament.
+
+Ramanathan Archana, who started his speech, said, "It is your favorite to speak in Sinhala.
+
+I am, asking. Lift up your hand here, Prabhakaran is a terrorist, however, no one raises his hand.
+
+However, I will raise your hand that your Rohana Vijayaweera is not a terrorist.
+
+◼️
+
+[Data](articles/354ab2e0.json)
+
+[Extended Data](ext_articles/354ab2e0.ext.json)
+
+---
+
+### Prabhakaran's question
+
+*2025-09-10 14:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-கேள்வியால்-ஆடிபோன-ஆளும்-தரப்பு/175-364349) · `ta`
+
+Jaffna Member of Parliament Ramanathan Archana is participating in the debate on the abolition of the principles of the present presidents in Parliament.
+
+Ramanathan Archana, who started his speech, said, "It is your favorite to speak in Sinhala."
+
+I am, asking. Lift up your hand here, Prabhakaran is a terrorist, however, no one raises his hand.
+
+However, I will raise your hand that your Rohana Vijayaweera is not a terrorist.
+
+◼️
+
+[Data](articles/5e08dde0.json)
+
+[Extended Data](ext_articles/5e08dde0.ext.json)
+
+---
+
+### Sri Lanka’s central bank launches financial literacy month to educate public
+
+*2025-09-10 14:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-launches-financial-literacy-month-to-educate-public-239996/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank launched a “Financial Literacy Month 2025” from today (10) with the aim of creating a ‘Financially Literate Sri Lanka’, it said.
+
+It will conduct a series of activities to equip the public “with the knowledge, skills, and attitudes essential for transforming financial behavior, fostering prudent decision-making, and advancing sustainable economic well-being”.
+
+The nationwide initiatives will target diverse groups, including schoolchildren, university students, youth, women, and Micro, Small & Medium Enterprises (MSMEs).
+
+“These initiatives ensure inclusive and accessible financial education for all segments of society.”
+
+Financial literacy discussions will be disseminated through mainstream media channels such as television, radio, and YouTube, along with the telecast of educational videos to extend outreach to wider audiences, it said.
+
+...
+
+[Data](articles/8bc0360e.json)
+
+[Extended Data](ext_articles/8bc0360e.ext.json)
+
+---
+
+### Nishantha Uluketenna's explanation extension
 
 *2025-09-10 14:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்த-உலுகேதென்னவின்-விளக்கமறியல்-நீடிப்பு/175-364346) · `ta`
 
-நிஷாந்தவின் விளக்க மறியல் காலம்  எதிர்வரும் 24ம் திகதி வரையில் நீடிக்க பொல்கஹாவெல நீதிமன்ற நீதவான் உத்தரவிட்டுள்ளார்.
+The Magistrate of Polgahawela has ordered the extension of Nishantha's explanation period until the 24th.
 
-நிஷாந்த கடற்படை புலனாய்வு பிரிவின் பணிப்பாளராக கடமையாற்றிய போது பொத்துஹர பிரதேசத்தில் இடம்பெற்ற கடத்தல் சம்பவம் தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தினால் விசாரணை நடத்தப்பட்டது.
+The Criminal Investigation Department was investigated by the Criminal Investigation Department regarding the abduction in Pothuhara area while serving as the Director of the Nishantha Navy Intelligence Unit.
 
 ◼️
 
 [Data](articles/ee148b3e.json)
 
+[Extended Data](ext_articles/ee148b3e.ext.json)
+
 ---
 
-### අස්වැසුම සැප්තැම්බර් මස දීමනාව අනිද්දා ගිණුම්වලට
+### Reformation in September allowance to accounts on other accounts
 
 *2025-09-10 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214401) · `si`
 
-2025 සැප්තැම්බර් මසට අදාළ අස්වැසුම ප්‍රතිලාභී දීමනාව අනිද්දා (12) දින අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට නියමිත බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
+The Welfare Benefit Board (Welfare Benefits) are to be credited to the beneficiaries of beneficiaries (12) on September.
 
-එම මණ්ඩලය සඳහන් කරන්නෙ, මෙලෙස රු.11,201,647,000.00ක මුදලක් ප්‍රතිලාභී පවුල් 1,412,574ක් අතරේ බෙදා හරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී ගිණුම්වලට බැර කිරීමට නියමිත බවය.
+The Board said that the amount of Rs.
 
-ඒ අනුව, අදාළ ප්‍රතිලාභීන්ට සැප්තැම්බර් මස 12 වන දා සිට තමාට හිමි අස්වැසුම දීමනාව තම අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුම මඟින් ලබාගත හැකියි.
+Accordingly, the beneficiaries will be provided with their relief allowance from September 12.
 
 ◼️
 
 [Data](articles/16fe1b86.json)
 
+[Extended Data](ext_articles/16fe1b86.ext.json)
+
 ---
 
-### මොරටුව හිටපු නගරාධිපති අත්අඩංගුවට
+### N. Namal Rs. Asks for a billion
+
+*2025-09-10 14:26:05* · [`adalk`](https://www.ada.lk/breaking_news/නි--ඇමති-සුනිල්-වටගලගෙන්-නාමල්-රු--බිලියනයක්-ඉල්ලයි/11-418409) · `si`
+
+Namal Rajapaksa's lawyers have been directed to MP Namal Watagala by Deputy Minister Sunil Rajapaksa to MP Namal Rajapaksa.
+
+◼️
+
+[Data](articles/822323ea.json)
+
+[Extended Data](ext_articles/822323ea.ext.json)
+
+---
+
+### Nepal Protests: Army urges foreign nationals to seek assistance if needed
+
+*2025-09-10 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112354/nepal-protests-army-urges-foreign-nationals-to-seek-assistance-if-needed) · `en`
+
+The Nepal Army has advised all foreign nationals who are stranded or require assistance in Nepal to contact nearby security personnel or authorities.
+
+A semblance of normalcy returned to Nepal’s capital, Kathmandu, today (10) after two days of massive protests that turned violent following the deaths of 19 people, mostly youth, on Monday.
+
+The Nepal Army then took charge of security, with military personnel deployed across the capital. Over the past two days, protests in Nepal escalated quickly into violence and the storming of government buildings.
+
+The Army said in a statement, ‘Hotels, tourism operators, and other organizations hosting foreign nationals are also requested to coordinate and facilitate any rescue or support efforts as needed.’
+
+Meanwhile, the Ministry of Foreign Affairs, Foreign Employment and Tourism requested all Sri Lankan nationals in Nepal to remain vigilant and adhere to the advice of local authorities in view of the prevailing situation.
+
+...
+
+[Data](articles/129e829d.json)
+
+[Extended Data](ext_articles/129e829d.ext.json)
+
+---
+
+### Former former Moratuwa Mayor arrested
 
 *2025-09-10 14:00:34* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-හිටපු-නගරාධිපති-අත්අඩංගුවට/11-418408) · `si`
 
-මොරටුව මහ නගර සභාවේ මාර්ග සංවර්ධන ව්‍යාපෘති සිය හිතවතුන්ට ලබාදීමෙන් රජයට පාඩුකිරීමේ චෝදනා යටතේ මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන්ලාල් ප්‍රනාන්දු මහතා අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Commission under the charges of the Government of Moratuwa Municipal Council.
 
 ◼️
 
 [Data](articles/3daae550.json)
+
+[Extended Data](ext_articles/3daae550.ext.json)
+
+---
+
+### Sri Lanka’s Citrus Leisure sells 10-pct stake in Hikkaduwa Beach Resort
+
+*2025-09-10 13:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-citrus-leisure-sells-10-pct-stake-in-hikkaduwa-beach-resort-239980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Citrus Leisure has sold 62.500,000 ordinary voting shares of Hikkaduwa Beach Resort to the market, the company said.
+
+This constitutes over l0 percent of the issued voting shares of Hikkaduwa Beach Resort, the company said in a stock exchange filing.
+
+Citrus Leisure is the major shareholder of Hikkaduwa Beach Resort.
+
+The Citrus Leisure chain owns and operates Citrus Waskaduwa, Citrus Hikkaduwa and the Steuart by Citrus. (Colombo/Sep10/2025)
+
+◼️
+
+[Data](articles/7deb8824.json)
+
+[Extended Data](ext_articles/7deb8824.ext.json)
+
+---
+
+### Burning down the parliament and court a ‘great disrespect’ to Nepal’s democracy – Ranil
+
+*2025-09-10 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112353/burning-down-the-parliament-and-court-a-great-disrespect-to-nepals-democracy-ranil-) · `en`
+
+Former President of Sri Lanka Ranil Wickremesinghe today expressed deep concern over the situation in Kathmandu, Nepal, condemning the recent violence and calling for the restoration of peace and stability in the country.
+
+“First of all, I condemn all kinds of killings, including those of the youth that has occurred in Nepal. Similarly, the burning of the former Prime Minister’s house and the killing of the former Prime Minister’s wife is an extremely sad situation. I express my condolences over that murder,” he said issuing a special statement.
+
+He further noted that the attacks on ministers, particularly the Foreign Minister, were a continuation of the tragedy, emphasizing that women’s rights had been gravely violated and that such acts had tarnished Nepal’s international reputation.
+
+The former president said the situation in Kathmandu “should not have gone this far” and that the shooting by the police was an “unacceptable course of action”.
+
+...
+
+[Data](articles/4ef84560.json)
+
+[Extended Data](ext_articles/4ef84560.ext.json)
+
+---
+
+### Former Moratuwa Mayor Saman Lal Fernando arrested
+
+*2025-09-10 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112352/former-moratuwa-mayor-saman-lal-fernando-arrested-) · `en`
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been arrested.
+
+He has been arrested by officers attached to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 12:50 p.m. today (10).
+
+The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
+
+He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando is scheduled to be produced before the Colombo Chief Magistrate today, the Bribery Commission stated.
+
+◼️
+
+[Data](articles/d4fb06c5.json)
+
+[Extended Data](ext_articles/d4fb06c5.ext.json)
 
 ---
 
@@ -90,6 +698,24 @@ It is reported that the road development projects in the Moratuwa Municipal Coun
 
 ---
 
+### Sri Lanka to appoint committee to issue national electricity policy, guidelines
+
+*2025-09-10 13:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-appoint-committee-to-issue-national-electricity-policy-guidelines-239976/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the setting up of a committee to prepare the draft National Electricity Policy as part of the National Energy Policy, minister Nalinda Jayatissa said.
+
+It will consist of up to 8 persons “with at least 15 years of expertise in the fields of energy policy formulation, renewable energy and energy transition, energy system planning, economics and finance,” Jayatissa told reporters.
+
+The members proposed by the Energy minister and approved by Cabinet are:
+
+◼️
+
+[Data](articles/85fa1006.json)
+
+[Extended Data](ext_articles/85fa1006.ext.json)
+
+---
+
 ### Ranil a special announcement from former President
 
 *2025-09-10 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214399) · `si`
@@ -103,6 +729,30 @@ The announcement also states that he condemns the murder including all the youth
 [Data](articles/429a3a30.json)
 
 [Extended Data](ext_articles/429a3a30.ext.json)
+
+---
+
+### Trump calls on EU to impose 100% tariff on China and India to pressure Putin
+
+*2025-09-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112351/trump-calls-on-eu-to-impose-100-tariff-on-china-and-india-to-pressure-putin) · `en`
+
+Donald Trump has called on the European Union (EU) to hit China and India with tariffs of up to 100% to force Russian president Vladimir Putin to end the war in Ukraine.
+
+The US president made the demand during a meeting between US and EU officials on Tuesday discussing options to increase economic pressure on Russia, a source familiar with the discussions has told the BBC.
+
+Trump, who previously pledged to end the conflict on “day one” of becoming president, is struggling to broker a peace deal between Moscow and Kyiv and as Russia’s strikes on Ukraine intensify.
+
+Separately, Trump told reporters on Tuesday that he plans to talk to Putin on a call this week or early next week.
+
+China and India are major buyers of Russian oil, which helps to keep the country’s economy and war machine afloat.
+
+Last month, the US imposed a 50% tariff on goods from India, which included a 25% penalty for its transactions with Russia.
+
+...
+
+[Data](articles/4f3aeb44.json)
+
+[Extended Data](ext_articles/4f3aeb44.ext.json)
 
 ---
 
@@ -123,6 +773,24 @@ Officials are monitoring the situation, warning that the release of the prisoner
 [Data](articles/7b891892.json)
 
 [Extended Data](ext_articles/7b891892.ext.json)
+
+---
+
+### Ex-Navy Commander Nishantha Ulugetenne further remanded
+
+*2025-09-10 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112350/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
+
+Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded.
+
+He has been remanded until September 24 by the Polgahawela Magistrate’s Court, said Ada Derana reporter.
+
+The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/9f0312e5.json)
+
+[Extended Data](ext_articles/9f0312e5.ext.json)
 
 ---
 
@@ -236,6 +904,50 @@ Police are conducting further investigations to determine whether the woman atte
 
 ---
 
+### Sri Lanka electricity utility seeks 6.8-pct tariff increase
+
+*2025-09-10 11:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-utility-seeks-6-8-pct-tariff-increase-239973/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has sought a 6.8 percent tariff hike, spread uniformly across consumer groups, according to a public consultation document published by the regulator.
+
+The increase is sought mostly on account of higher demand forecast being met by thermal energy, the regulator said.
+
+There were also some work-in-progress and finance costs, including capital repayments and some penalty interest due to renewable energy suppliers.
+
+The CEB has proposed spreading the increase evenly across consumer groups.
+
+Sri Lanka has highly discriminatory pricing, with the regulator and utility picking winners and losers with wide gaps.
+
+Among the worst hit are houses with higher usage (domestic demand does go up in the night peak) and general purpose customers. However, hotels also use power in the night.
+
+Under the current pricing system, cross subsidizing consumers are permitted. (Colombo/Sept10/2025)
+
+◼️
+
+[Data](articles/7ff42b3e.json)
+
+[Extended Data](ext_articles/7ff42b3e.ext.json)
+
+---
+
+### Migrant remittances exceed $ 5 billion
+
+*2025-09-10 11:46:55* · [`adalk`](https://www.ada.lk/breaking_news/විගමණික-ප්‍රේෂණ--ඩොලර්-බිලියන-5-ඉක්මවයි/11-418404) · `si`
+
+Sri Lanka Bureau of Foreign Employment (SLBFE) says 212,302 Sri Lankan workers have been abroad over January to August 2025. Male workers abroad compared to female workers have grown significantly during this period and the number of male workers have been abroad for employment during this period 130,252. During the past eight months, 82,050 female workers have gone abroad.
+
+Sri Lankan workers are mostly employed to Kuwait, which is 53,159. The United Arab Emirates 41,180 workers and 30,263 workers have left over during this period.
+
+The more trend on Sri Lankan workers, in East Asian countries, have now been leaving the traditional Middle East. Accordingly, Japan has 8,015 workers and 4,324 to South Korea and have gone abroad.
+
+...
+
+[Data](articles/208ce0bc.json)
+
+[Extended Data](ext_articles/208ce0bc.ext.json)
+
+---
+
 ### Colombo Central Bus Terminal will be closed tomorrow
 
 *2025-09-10 11:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்திய-பேருந்து-முனையம்-நாளை-முதல்-மூடப்படும்/175-364336) · `ta`
@@ -335,6 +1047,26 @@ This is the act of violating his rights. You have to impose an interim injunctio
 [Data](articles/56a00260.json)
 
 [Extended Data](ext_articles/56a00260.ext.json)
+
+---
+
+### The daughter did not leave the helmet at the death inspection
+
+*2025-09-10 11:25:14* · [`adalk`](https://www.ada.lk/breaking_news/දුව-හෙල්මට්-දාලා-හිටියේ-නෑ--මරණ-පරීක්ෂණයේදී-පියා-කියයි/11-418403) · `si`
+
+"The daughter did not leave Helmet. Three-wheeler came to our front. Suddenly the van that followed it took to the right side of the road to pass the three-wheeler. The motorcycle we had gone rotate on the right side of the van. When I was conscious, I was in the hospital. " Her father said in the death of a university student of a university student of a university injured in a car accident.
+
+The deceased is a 22 year old resident of the Kokawalage of Kokawalage, Hewa Kokawala.
+
+Sudden Death was held at the Galle National Hospital on the 8th of this month.
+
+The girl's father's Nanda Thilakasiri Salesi (57) witnesses:
+
+...
+
+[Data](articles/0937ed65.json)
+
+[Extended Data](ext_articles/0937ed65.ext.json)
 
 ---
 
@@ -490,6 +1222,26 @@ The arrested doctor was to be produced before the Teldeniya Magistrate's Court t
 
 ---
 
+### Three-wheelers arrived at the police
+
+*2025-09-10 10:49:22* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘති-වෙනස්-කර-සංචාරයකට-පැමිණි-ත්‍රි-‍රෝද-රථ-10ක්-පොලිස්-භාරයට/11-418400) · `si`
+
+The OIC of the Kotmale Poonuoya Podlandoya Police said that a group of three-wheelers were taken bail to the original format and took over three-wheelers.
+
+The OIC of the three-wheelers were arrested on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint regarding a three-wheeler travelers on the three-wheeler traces of the Gampola area.
+
+The OIC of the Nawalapitiya Magistrate's Court said that the accident had been bailed by the police and other three-wheeler drivers.
+
+Thandaluoya Police OIC of the Kudamaluoya Police have taken measures to be taken to the Nawalapitiya Magistrate's Court with the operations of the three-wheeler sticks, which have been taken into custody by the car inspection of the car inspection of the police. Sugagala Wijesundara said.
+
+◼️
+
+[Data](articles/46576eba.json)
+
+[Extended Data](ext_articles/46576eba.ext.json)
+
+---
+
 ### Bus owner arrested in Ella
 
 *2025-09-10 10:47:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-පත්-බස්-රථයේ-හිමිකරු-අත්අඩංගුවට/11-418399) · `si`
@@ -610,6 +1362,30 @@ Tangalle Urban Council Secretary TW. K. Twenty Municipal Council and 12 Municipa
 
 ---
 
+### 73 Sri Lankan pilgrims safely cross Nepal-India border
+
+*2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-safely-cross-nepal-india-border) · `en`
+
+UPDATE: Sri Lanka’s Foreign Ministry confirms that the 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, have safely crossed the border entering India.
+
+The Sri Lankan Embassy in Kathmandu has provided an update on the status of Sri Lankans in Nepal amidst the ongoing situation, the Foreign Ministry stated.
+
+A group of 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, is currently at the India–Nepal border preparing to depart Nepal, the ministry spokesman said.
+
+Embassy officials have directly engaged with Nepalese immigration authorities to expedite the necessary procedures, as the system is reportedly not functioning normally.
+
+The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
+
+Reports indicate that the public is largely complying with these directives, the spokesman added.
+
+◼️
+
+[Data](articles/6756b48b.json)
+
+[Extended Data](ext_articles/6756b48b.ext.json)
+
+---
+
 ### 73 Sri Lankan pilgrims await departure at India–Nepal border: Foreign Ministry
 
 *2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-await-departure-at-indianepal-border-foreign-ministry-) · `en`
@@ -692,11 +1468,11 @@ The MP stated that action will be taken to protect the democratic rights of the 
 
 The Speaker of Parliament (Dr.) Jagath Wickramaratne today (10) informed the House that the No-Confidence motion submitted by the Opposition against Deputy Defence Minister Aruna Jayasekera is not in order and cannot be accepted in its present form.
 
-The Speaker stated that the motion was carefully considered in light of the provisions of the Constitution, the Standing Orders of Parliament, and established parliamentary practices.
+The Speaker stated that the motion was carefully considered in light of the provisions of the Constitution, the Standing Orders of Parliament, and established parliamentary practices and presedence.
 
 “I also studied the traditions and procedures followed in other Commonwealth and democratic legislatures, such as the UK House of Commons, India’s Lok Sabha, and Australia’s House of Representatives in this regard,” he said.
 
-“Under Articles 42, 43, and 44 of the Constitution of Sri Lanka, collective and individual ministerial responsibilities lie with Cabinet Ministers. A Deputy Minister, though a Member of Parliament, is not a member of the Cabinet and does not bear direct constitutional responsibility to this House in the present context.”
+“Under articles 42, 43, and 44 of the Constitution of Sri Lanka, collective and individual ministerial responsibilities lie with Cabinet Ministers. A Deputy Minister, though a Member of Parliament, is not a member of the Cabinet and does not bear direct constitutional responsibility to this House in the present context.”
 
 ...
 
@@ -1150,818 +1926,24 @@ Public Consultation on the Third Electricity Tariff Revision – 2025
 
 ---
 
-### President of France to President Mackron's friend?
+### Sri Lanka repays foreign debt of $952mn in 2Q including $331 sovereign bond
 
-*2025-09-10 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214387) · `si`
+*2025-09-10 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-foreign-debt-of-952mn-in-2q-including-331-sovereign-bond-239915/) · `en`
 
-French President Eashanuel McCron, his close friend, was named Sebastian Licarin, as the new French Prime Minister.
+ECONOMYNEXT  –  Sri Lanka has repaid 952 million US dollars to foreign creditors in the second quarter of 2025, picking up from 406.6 million dollars in the first quarter including a 330 million dollar sovereign bond, official data shows.
 
-Foreign media reports that the nomination has been made after 24 hours after a no-confidence motion.
+In the second quarter, principal repayments to bilaterals picked up 200 million dollars from 17 million in the first quarter.
 
-Licores, 49, LECORE has been appointed as the Minister of Armed Forces, focusing on the France's response to the war in Russia in Ukraine.
+“On 24 March 2025, Sri Lanka concluded the restructuring process with the Government of Japan,” the island’s Public Debt office said.
 
-The Essay Prime Minister has issued a statement that McConron has been assigned to the seventh Prime Minister Licarin to discuss the next budget in France.
+“Subsequently, bilateral amendatory agreements between the Government of Sri Lanka and the Export-Import Bank of India, covering Lines of Credit and Buyer’s Credit Agreements, were signed on 25 March 2025 and 3 April 2025, respectively.
 
-Foreign media reports have reports that LECORNG's appointment condemns left and the right-wing opponents.
-
-◼️
-
-[Data](articles/fdd4171c.json)
-
-[Extended Data](ext_articles/fdd4171c.ext.json)
-
----
-
-### No student will face injustice at Gampaha Wickramarachchi Uni – PM
-
-*2025-09-10 07:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112341/no-student-will-face-injustice-at-gampaha-wickramarachchi-uni-pm) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that the government will take necessary measures to provide solutions without causing any injustice to the student of Gampaha Wickramarachchi University of Indigenous Medicine.
-
-The Prime Minister made these remarks while responding to a question raised by Member of Parliament Ramanathan Archchuna yesterday (09) in Parliament, Prime Minister’s Media Division stated.
-
-“The committee appointed for the purpose of investigating the issues relating to Gampaha Wickramarachchi University of Indigenous Medicine has submitted recommendations under two main solutions.
-
-The first recommendation is to continue the existing courses of the university by affiliating them with other suitable universities or assigning students to similar courses available in other universities. The second recommendation is to maintain the university as it is, while providing the necessary resources and facilities to conduct the existing courses in a formal and qualitative manner.
+“With the completion of the signing of bilateral amendatory agreements with the Government of French Republic on 16 June 2025, Sri Lanka has successfully completed 92 percent of its debt restructuring process.
 
 ...
 
-[Data](articles/891e8994.json)
+[Data](articles/2b64746b.json)
 
-[Extended Data](ext_articles/891e8994.ext.json)
-
----
-
-### 6 killed in Qatar attack
-
-*2025-09-10 06:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கட்டார்-தாக்குதலில்-6-பேர்-பலி/50-364315) · `ta`
-
-Six people have been killed in an Israeli air strike in Doha, the capital of Qatar.
-
-The Israeli air strike was launched yesterday (09) targeting senior officers of the Hamas organization in Qatar's capital. (A)
-
-◼️
-
-[Data](articles/7f53e0b0.json)
-
-[Extended Data](ext_articles/7f53e0b0.ext.json)
-
----
-
-### No Sri Lankan has no accident in Nepali clashes
-
-*2025-09-10 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214386) · `si`
-
-According to the Ministry of External Affairs, no Sri Lankans have been injured due to the conflict in Nepal.
-
-The Sri Lanka Sangest of Kathpale, Nepal, is closely working closely with social media teams and other communities.
-
-The Ministry of External Affairs says that 102 Sri Lankans living in the country, and all of them are safe and supported at any time, the External Affairs Ministry said.
-
-Meanwhile, the military has taken responsibility for the protection of law and order in Nepal yesterday (09) and the security forces.
-
-According to foreign reports, the Nepal Army said that these decisions had been taken to control the escalation of escalation.
-
-In the award, some group robbery, fireplays, and property will be destroyed by taking advantage of the crisis.
-
-Meanwhile, a wife of an Nepali prime minister has been killed by the protesters.
-
-The deceased has been identified as the wife of former Prime Minister Janawal, Normalexmi.
-
-...
-
-[Data](articles/6bd081bf.json)
-
-[Extended Data](ext_articles/6bd081bf.ext.json)
-
----
-
-### Macron names ally Sébastien Lecornu as new French PM
-
-*2025-09-10 06:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112340/macron-names-ally-sbastien-lecornu-as-new-french-pm) · `en`
-
-President Emmanuel Macron has named close ally Sébastien Lecornu as the new French prime minister, 24 hours after a vote of confidence ousted François Bayrou as head of government.
-
-Lecornu, 39, was among the favourites to take over, and he has spent the past three years as armed forces minister focusing on France’s response to Russia’s war in Ukraine.
-
-In a statement the Elysée Palace said Lecornu - the seventh PM in the Macron presidency - had been given the task of consulting political parties with the aim of adopting France’s next budget.
-
-Pushing through a budget as head of a minority government was what brought down Bayrou, with left and far-right opponents condemning Lecornu’s appointment.
-
-Bayrou had visited the president hours earlier to hand in his resignation, paving the way for Sébastien Lecornu to become the fifth prime minister of Macron’s second term as president.
-
-...
-
-[Data](articles/6bd7ed08.json)
-
-[Extended Data](ext_articles/6bd7ed08.ext.json)
-
----
-
-### Several fatal accidents - a baby and four killed
-
-*2025-09-10 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214385) · `si`
-
-Four persons, including a 11-month babe, another 11-month babe, was killed in four areas in several areas.
-
-The accident occurred yesterday (09) by the police divisions of Peradeniya, Udugama, Kadawatha, Ragama and Mawathagama yesterday.
-
-A van collided with a security wall and a power bundle in a security crop and a power line on the Kandy-Kurunegala main road.
-
-The child has died in admission to the Mawathagama hospital with two men and a child who was traveling in the van.
-
-The other injured have been admitted to the Kurunegala Hospital for further treatment.
-
-The deceased is a boy of the age of 11 to 11 months in Marlanda, Mawathagama.
-
-Meanwhile, a motorbike traveling to Udalamatta in Udalamatta road, Udalamatta, Udugama, Udalamatta, is located in Udalamatta.
-
-The motorcyclist has been seriously injured and died on admission to Udugama hospital.
-
-The deceased has been identified as a 15 year old schoolgirl residing in Udugama.
-
-...
-
-[Data](articles/1fd0d2a0.json)
-
-[Extended Data](ext_articles/1fd0d2a0.ext.json)
-
----
-
-### Sri Lankans in Nepal reported safe – Foreign Ministry
-
-*2025-09-10 06:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112339/sri-lankans-in-nepal-reported-safe-foreign-ministry) · `en`
-
-The Ministry of Foreign Affairs confirmed today that all Sri Lankans residing in Nepal are safe, with no incidents reported involving them.
-
-According to the Sri Lankan Embassy in Kathmandu, a total of 102 Sri Lankans are currently living in Nepal.
-
-The Embassy is maintaining close contact with the community through social media groups and personal networks to ensure their safety and well-being.
-
-Arrangements have also been made for Sri Lankans in Nepal to reach out to the Embassy for any assistance they may require, the Ministry said.
-
-The Foreign Ministry stated that it remains in constant communication with the Embassy in Kathmandu.
-
-◼️
-
-[Data](articles/dbf24de6.json)
-
-[Extended Data](ext_articles/dbf24de6.ext.json)
-
----
-
-### Sri Lankan government's report is disappointing
-
-*2025-09-10 06:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அரசின்-அறிக்கை-ஏமாற்றமளிக்கின்றது/175-364313) · `ta`
-
-For injustices against the Tamil people. Have justice for genocide. Investigations must be conducted. TNA parliamentarian. Said Chanakyan.
-
-As well as to have a political solution. He said that if the government refuses these issues, the opposition of the Tamil people will be earned.
-
-He said this while addressing the Parliament yesterday (09). As he further stated,
-
-Sri Lanka's Foreign Minister's response to the 60th session in Geneva has disappointed the Tamil people. The announcement of the Foreign Minister's announcement that international countries cannot intervene in Sri Lanka have completely rejected the demands of the Tamil people.
-
-The demands of the Tamil people have been rejected by the governments that have ruled in Sri Lanka. The Minister of State for Foreign Affairs of the National People's Power has inaugurated the denial of justice for the Tamil people.
-
-...
-
-[Data](articles/372a39f4.json)
-
-[Extended Data](ext_articles/372a39f4.ext.json)
-
----
-
-### Fairly heavy rainfall expected in parts of the island today
-
-*2025-09-10 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112338/fairly-heavy-rainfall-expected-in-parts-of-the-island-today) · `en`
-
-The Meteorology Department states that several spells of showers will occur in Western, Sabaragamuwa and North Western provinces and in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Showers or thundershowers will occur at several places in Eastern and Uva provinces and in Mullaitivu district after 1.00 p.m.
-
-Fairly heavy rainfall above 50 mm are likely in some places, the Met Department said.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8d702eef.json)
-
-[Extended Data](ext_articles/8d702eef.ext.json)
-
----
-
-### Tamil people need justice
-
-*2025-09-10 06:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-நீதி-வேண்டும்/175-364312) · `ta`
-
-For injustices against the Tamil people. Have justice for genocide. Investigations must be conducted. TNA parliamentarian. Said Chanakyan.
-
-As well as to have a political solution. He said that if the government refuses these issues, the opposition of the Tamil people will be earned.
-
-He said this while addressing the Parliament yesterday (09). As he further stated,
-
-Sri Lanka's Foreign Minister's response to the 60th session in Geneva has disappointed the Tamil people. The announcement of the Foreign Minister's announcement that international countries cannot intervene in Sri Lanka have completely rejected the demands of the Tamil people.
-
-The demands of the Tamil people have been rejected by the governments that have ruled in Sri Lanka. The Minister of State for Foreign Affairs of the National People's Power has inaugurated the denial of justice for the Tamil people.
-
-...
-
-[Data](articles/4681c7d9.json)
-
-[Extended Data](ext_articles/4681c7d9.ext.json)
-
----
-
-### Showers in several areas
-
-*2025-09-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214384) · `si`
-
-The Met Department forecasts in the Western, Sabaragamuwa and North Western provinces.
-
-The Department states that the Department of Mullaittivu. Showers or thundershowers will occur at several places about 1.00.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/79f8b21c.json)
-
-[Extended Data](ext_articles/79f8b21c.ext.json)
-
----
-
-### SC clears Bill removing ex-Presidents’ entitlements, Parliament debate today
-
-*2025-09-10 05:41:06* · [`dailyftlk`](https://www.ft.lk/news/SC-clears-Bill-removing-ex-Presidents-entitlements-Parliament-debate-today/56-781466) · `en`
-
-Cabinet Spokesperson says Bill not aimed at ex-President Mahinda Rajapaksa
-
-Parliament Speaker Dr. Jagath Wickramarathne yesterday informed the House that the Supreme Court has determined the Bill titled Presidents’ Entitlements (Repeal) is consistent with the Constitution and can be enacted by a simple majority.
-
-The Bill had been challenged before the Court under Article 121(1) of the Constitution. However, the Court ruled that none of its provisions are unconstitutional.
-
-Cabinet Spokesman Dr. Nalinda Jayatissa said the Bill was not aimed at any individual former President, including Mahinda Rajapaksa, but was drafted to apply to all former Presidents and their spouses.
-
-...
-
-[Data](articles/5db1e862.json)
-
-[Extended Data](ext_articles/5db1e862.ext.json)
-
----
-
-### ITAK slams Govt. over human rights response at UNHRC
-
-*2025-09-10 05:38:56* · [`dailyftlk`](https://www.ft.lk/news/ITAK-slams-Govt-over-human-rights-response-at-UNHRC/56-781465) · `en`
-
-The Illankai Tamil Arasu Kachchi (ITAK) has strongly criticised Foreign Minister Vijitha Herath’s statement at the 60th session of the United Nations Human Rights Council (UNHRC), highlighting what it calls the Government’s continued failure to address accountability, reconciliation and the rights of Tamil communities in Sri Lanka.
-
-“We refer to the statement made by Vijitha Herath at the 60th session of the UN Human Rights Council. At the outset, we must record our deep disappointment in the Government’s response to several pressing issues of accountability and reconciliation that are still outstanding.
-
-This Government came into office holding out several promises. However, one full year after the President was elected, we are yet to see even the beginnings of those promises being fulfilled.
-
-...
-
-[Data](articles/f3c9efdb.json)
-
-[Extended Data](ext_articles/f3c9efdb.ext.json)
-
----
-
-### Nepal Parliament set on fire after PM quits amid anti-corruption protests
-
-*2025-09-10 05:37:22* · [`dailyftlk`](https://www.ft.lk/news/Nepal-Parliament-set-on-fire-after-PM-quits-amid-anti-corruption-protests/56-781464) · `en`
-
-Nepal’s Parliament building has been set on fire, as protesters have broken in and smashed windows
-
-Hundreds of protesters stormed Nepal’s Parliament building in Kathmandu yesterday after days of anti-corruption demonstrations, setting part of the structure ablaze and vandalising its interior, the BBC reported.
-
-Protesters smashed windows, spray-painted anti-Government slogans, and carried paintings and uprooted plants out of the compound on motorbikes. Around a fire lit at the building’s entrance, many waved Nepal’s flag and chanted against corruption. One graffiti message read: “you took the wrong fight.”
-
-The unrest followed the resignation of Home Minister Ramesh Lekhak, who stepped down on moral grounds after at least 19 people were killed during the protests, local media reported. Seventeen died in Kathmandu and two in the eastern city of Itahari, according to police. Dozens more were injured in clashes.
-
-...
-
-[Data](articles/8f6ae308.json)
-
-[Extended Data](ext_articles/8f6ae308.ext.json)
-
----
-
-### Sri Lankan citizens in Nepal safe amid unrest
-
-*2025-09-10 05:36:46* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-citizens-in-Nepal-safe-amid-unrest/56-781463) · `en`
-
-Foreign Affairs, Foreign Employment and Tourism Acting Minister Arun Hemachandra yesterday said no Sri Lankan was reported harmed in Nepal in light of the violent unrest unfolding in Kathmandu and other parts of the country.
-
-Hemachandra said he had personally spoken with members of the Sri Lankan community in Nepal to check on their safety and wellbeing.
-
-There are 22 Sri Lankan students in Nepal and a total of 99 nationals, including Embassy staff and residents. “Our Embassy has established WhatsApp groups and circulated emergency contact numbers to remain in close touch with everyone,” he said.
-
-The Minister said he had advised Sri Lankans to remain indoors, avoid protest areas, and strictly follow curfew measures. He added that the Government of Sri Lanka stands ready to provide further assistance, including evacuation, if necessary.
-
-...
-
-[Data](articles/fce20772.json)
-
-[Extended Data](ext_articles/fce20772.ext.json)
-
----
-
-### Engineers urged to lead Sri Lanka’s industrial transformation at IESL NEC 2025
-
-*2025-09-10 05:33:00* · [`dailyftlk`](https://www.ft.lk/business/Engineers-urged-to-lead-Sri-Lanka-s-industrial-transformation-at-IESL-NEC-2025/34-781462) · `en`
-
-The National Engineering Conference (NEC) 2025, organised by the Institution of Engineers, Sri Lanka (IESL), was held recently at Hotel Galadari, bringing together engineering professionals, academics, policymakers, and industry leaders to deliberate on engineering-driven solutions for national development.
-
-Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe attended as the Chief Guest. In his keynote address, he emphasised that a collective force of engineers could “change the trajectory of the country,” stressing that Sri Lanka had missed the opportunities of the first four industrial revolutions.
-
-“Our Government’s goal is to achieve the lost industrial transformation,” he stated, urging engineers to lead this mission while the Government acts as a facilitator. He appealed for the wholehearted support of Sri Lanka’s engineering community to drive the country toward rapid industrialisation.
-
-...
-
-[Data](articles/0550e02b.json)
-
-[Extended Data](ext_articles/0550e02b.ext.json)
-
----
-
-### Nayana Mawilmada appointed to three JKH hotels boards
-
-*2025-09-10 05:30:24* · [`dailyftlk`](https://www.ft.lk/business/Nayana-Mawilmada-appointed-to-three-JKH-hotels-boards/34-781461) · `en`
-
-Three John Keells group companies yesterday announced the appointment of Nayana Mawilmada as Non-Executive Director to the boards of Trans Asia Hotels PLC, Asian Hotels and Properties PLC, and John Keells Hotels PLC.
-
-Mawilmada is the President of the Leisure and Property industry groups at John Keells Holdings. Among his previous roles he has served as Urban Development Authority Director General, York Street Partners Managing Director, and an Asian Development Bank Urban Development Specialist based in Manila.
-
-His academic training includes an MBA from Harvard Business School, a Master of City Planning from MIT, and Bachelor of Architecture from Hampton University, USA. He was awarded an Eisenhower Fellowship in 2017.
-
-◼️
-
-[Data](articles/c0ed5dc0.json)
-
-[Extended Data](ext_articles/c0ed5dc0.ext.json)
-
----
-
-### VAT on Digital Services: Insights from ICCSL webinar
-
-*2025-09-10 05:28:08* · [`dailyftlk`](https://www.ft.lk/business/VAT-on-Digital-Services-Insights-from-ICCSL-webinar/34-781460) · `en`
-
-The International Chamber of Commerce Sri Lanka (ICCSL), through its Research, Knowledge Management, and Taxation (RKMT) Committee, recently successfully hosted a hybrid webinar titled “VAT on Digital Services and Cross-Border Compliance,” attracting businesses, professionals, and policymakers eager to understand the newly implemented VAT framework for digital services.
-
-The session opened with a welcome note by ICCSL Chairman Shanil Fernando who emphasised the importance of preparing Sri Lanka’s business community for the digital economy. He underscored that effective tax administration in the digital space will not only strengthen Government revenue but also enhance fairness and competitiveness. His remarks set a strong foundation for the discussions that followed.
-
-...
-
-[Data](articles/a8ce855b.json)
-
-[Extended Data](ext_articles/a8ce855b.ext.json)
-
----
-
-### Daminda Rambukwella appointed Civil Aviation Authority Chief amid controversy
-
-*2025-09-10 05:25:04* · [`dailyftlk`](https://www.ft.lk/business/Daminda-Rambukwella-appointed-Civil-Aviation-Authority-Chief-amid-controversy/34-781459) · `en`
-
-The Cabinet of Ministers has approved the appointment of Capt. Daminda Rambukwella as the new Director General and Chief Executive Officer of the Civil Aviation Authority of Sri Lanka (CAASL), a move that has already stirred controversy in political and professional circles.
-
-Transport, Highways, Ports and Civil Aviation Deputy Minister Eng. Janitha Ruwan Kodithuwakku officially handed over the letter of appointment to Rambukwella yesterday at the Ministry premises.
-
-Rambukwella is an aviation professional with over 25 years of experience.
-
-However, the decision has sparked debate over the selection process and questions about political influence. Both Rambukwella and another shortlisted candidate, Primal De Silva, are widely seen as loyalists of former President Mahinda Rajapaksa, raising concerns over whether merit or political ties guided the final outcome.
-
-...
-
-[Data](articles/26c38211.json)
-
-[Extended Data](ext_articles/26c38211.ext.json)
-
----
-
-### Saudi Transport and Logistics Minister receives Minister Bimal Rathnayake
-
-*2025-09-10 05:23:22* · [`dailyftlk`](https://www.ft.lk/business/Saudi-Transport-and-Logistics-Minister-receives-Minister-Bimal-Rathnayake/34-781458) · `en`
-
-Saudi Arabia’s Transport and Logistics Minister Saleh Al-Jasser received Transport, Highways, Ports and Civil Aviation Minister of Sri Lanka, Bimal Rathnayake on the sidelines of the 2nd Sustainable Maritime Industry Conference held in Jeddah from 03 to 04 September.
-
-During the meeting, Minister Rathnayake briefed Minister Al-Jasser on the recent developments in Sri Lanka highlighting the country’s progress toward political and economic stability. He also underscored the growing opportunities in Sri Lanka’s ports and logistics sectors and emphasised the importance of establishing a bilateral mechanism to explore opportunities for collaboration between the two countries. Minister Ratnayake also extended an invitation to the Saudi delegation to participate at the International Maritime Summit, Voyage Sri Lanka- 2025, scheduled to be held on 16 October in Colombo.
-
-...
-
-[Data](articles/0507cb39.json)
-
-[Extended Data](ext_articles/0507cb39.ext.json)
-
----
-
-### Carlsberg Brewery Malaysia’s Anthony Yong joins Lion board
-
-*2025-09-10 05:22:37* · [`dailyftlk`](https://www.ft.lk/business/Carlsberg-Brewery-Malaysia-s-Anthony-Yong-joins-Lion-board/34-781457) · `en`
-
-Lion Brewery (Ceylon) PLC yesterday announced the appointment of Anthony Yong as Non-Executive Director of the company.
-
-Yong is the Chief Financial Officer of Carlsberg Brewery Malaysia Berhad and Carlsberg Marketing Sdn. Bhd. Prior to this, he was the Chief Financial Officer (Malaysia) of XCL Education Group.
-
-He has held several senior finance positions in British American Tobacco, including as a Chief Financial Officer/Finance Director (Malaysia and Singapore) and Corporate Finance Controller (Southeast Asia).
-
-Yong started his career as an auditor (Malaysia and San Francisco, USA) in KPMG and moved on to British American Tobacco in 2000, Lhoist in 2015, and again joined British American Tobacco thereafter. He has worked in Malaysia and other countries such as Bangladesh and Switzerland.
-
-He is professionally accredited in finance by Chartered Accountants Australia and New Zealand, the Malaysian Institute of Accountants, and the Malaysian Institute of Certified Public Accountants.
-
-◼️
-
-[Data](articles/9748bf89.json)
-
-[Extended Data](ext_articles/9748bf89.ext.json)
-
----
-
-### CMA Sri Lanka to host Silver Jubilee international conference on AI impact on policy, stability and growth
-
-*2025-09-10 05:17:21* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-to-host-Silver-Jubilee-international-conference-on-AI-impact-on-policy-stability-and-growth/34-781456) · `en`
-
-The CMA Sri Lanka Silver Jubilee International Management Accounting Conference 2025, themed “Redefining Management Accounting: AI Innovation and Sustainable Value Creation”, will open with its inaugural technical sessions on 17 September at Cinnamon Life, The Forum.
-
-The sessions will be held under the theme “Vision 2030: AI Impact on Policy, Stability and Growth”.
-
-Technical Session 1 will feature a keynote address on “Reshaping Sri Lanka’s Economy: A Path to Fiscal Discipline and Debt Servicing by 2028” by EY Sri Lanka and Maldives Managing Partner and Senior Economic Advisor to the President Duminda Hulangamuwa.
-
-Central Bank of Sri Lanka Assistant Governor Dr. Chandranath Amarasekara, who is a former Alternate Executive Director at the International Monetary Fund (IMF), will deliver a session on “Demystifying the IMF Program: What it Means for Sri Lanka’s Future”.
-
-...
-
-[Data](articles/ccab74ca.json)
-
-[Extended Data](ext_articles/ccab74ca.ext.json)
-
----
-
-### Minister Sunil Handunnetti leads strategic meeting with Export Development Officers
-
-*2025-09-10 05:16:35* · [`dailyftlk`](https://www.ft.lk/business/Minister-Sunil-Handunnetti-leads-strategic-meeting-with-Export-Development-Officers/34-781455) · `en`
-
-A special meeting between the Industry and Entrepreneurship Development Minister Sunil Handunnetti, and Export Development Officers serving under the Ministry across the Southern, Western, and Sabaragamuwa provinces was held on 3 September at the premises of the Export Development Board (EDB).
-
-The objective of the discussion was to update Export Development Officers on Sri Lanka’s export direction, review export targets, discuss regional development strategies, and provide a broader understanding of the functions of various divisions within the EDB.
-
-The meeting was attended by the Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe, EDB Chairman and Chief Executive Officer Mangala Wijesinghe, Acting Director General Erandika Dissanayake, along with directors, officials, and Export Development Officers representing the Southern, Western, and Sabaragamuwa provinces.
-
-◼️
-
-[Data](articles/aa7d97c5.json)
-
-[Extended Data](ext_articles/aa7d97c5.ext.json)
-
----
-
-### 18 premium channels, 6.8 million viewers — endless advertising possibilities with Dialog Television
-
-*2025-09-10 05:13:21* · [`dailyftlk`](https://www.ft.lk/business/18-premium-channels-6-8-million-viewers-endless-advertising-possibilities-with-Dialog-Television/34-781454) · `en`
-
-Dialog Television, Sri Lanka’s #1 Pay-TV service provider, invites corporate advertisers to leverage one of the country’s most powerful media platforms, trusted by over 1.7 million households and more than 90% of Sri Lanka’s corporate sector. With an extended presence in 15,000+ hotels, restaurants, and public venues, Dialog Television reaches more than 6.8 million viewers nationwide, offering unmatched opportunities for brands to build visibility and impact.
-
-Dialog Television offers advertisers access to 18 premium channels carefully curated to reflect what Sri Lankans watch most. These include Star Movies, Hits Now, AXN, Star Vijay, Star Plus, &flix, Colors Tamil, Zee Café, Zee Tamil, Colors, A Plus, Nickelodeon, Citi Hitz, Channel One, ThePapare TV, Channel C and TLC. Covering genres from movies, drama, and entertainment to sports, kids, lifestyle, and music, these channels enable precise audience targeting across diverse demographics and prime-time moments.
-
-...
-
-[Data](articles/1c4063a0.json)
-
-[Extended Data](ext_articles/1c4063a0.ext.json)
-
----
-
-### Separating Chairman and CEO roles in PLCs
-
-*2025-09-10 03:53:43* · [`dailyftlk`](https://www.ft.lk/columns/Separating-Chairman-and-CEO-roles-in-PLCs/4-781439) · `en`
-
-From left: HNB Investment Bank Group Chief Strategy Officer Dr. Yaveen Jayasekera, Frontier Research CEO Nimesha Jayakody, JB Securities CEO and Advocata Institute Chairman Murtaza Jafferjee, Securities and Exchange Commission Chairman Senior Prof. D.B.P.H. Dissabadara, Lynear Wealth Management Managing Director and Co-Founder Dr. Naveen Gunawardane, Alliance Finance Company Deputy Chairman and Managing Director Romani De Silva, Moderator – Independent Consultant Chanaka Wickramasuriya, and Colombo Stock Exchange Marketing Senior Vice President Niroshan Wijesundere – Pix by Ruwan Walpola
-
-...
-
-[Data](articles/027cea29.json)
-
-[Extended Data](ext_articles/027cea29.ext.json)
-
----
-
-### Apparel sector losing edge as global rivals outpace productivity and innovation
-
-*2025-09-10 03:51:24* · [`dailyftlk`](https://www.ft.lk/opinion/Apparel-sector-losing-edge-as-global-rivals-outpace-productivity-and-innovation/14-781438) · `en`
-
-Tax Consultant Prabath Weerasinghe says SL apparel sector lags behind Bangladesh, Vietnam, and Cambodia in labour productivity, innovation, and R&D
-
-Notes US buyers demanding price cuts, margins already thin, raw material and energy costs remain elevated
-
-Tax Consultant Prabath Weerasinghe recently warned that Sri Lanka’s apparel industry risks falling further behind competitors like Bangladesh, Vietnam, and Cambodia, with weak labour productivity, limited innovation, and mounting tariff pressures squeezing margins.
-
-Addressing the ‘CEO Forum 2025: Economic Impact on New US Tariffs’ organised by the Open University of Sri Lanka’s Faculty of Management Studies CEMBA/CEMPA Alumni Association, Weerasinghe, who specialises in the apparel sector, said the structure of the industry makes it particularly vulnerable to external shocks.
-
-...
-
-[Data](articles/2241ec59.json)
-
-[Extended Data](ext_articles/2241ec59.ext.json)
-
----
-
-### Challenges faced by Sri Lanka’s apparel and textile industry in US market
-
-*2025-09-10 03:37:51* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-faced-by-Sri-Lanka-s-apparel-and-textile-industry-in-US-market/4-781436) · `en`
-
-The apparel and textile sector represents Sri Lanka’s most significant export industry, particularly in relation to trade with the United States
-
-Sri Lanka’s apparel and textile industry has been the export powerhouse for several decades to date, contributing $ 5.05 billion in 2024, with a growth of nearly 5%, operating with the anticipation of elevating to $ 7 billion by 2030, according to industry data publicly available.
-
-Sri Lanka has positioned itself as a major ethical apparel sourcing hub, demonstrating the highest levels of social and environmental standards through the ‘Garments without Guilt’ initiative. Generations of industry experience and a strong push for research and development helped Sri Lankan manufacturers offer comprehensive end-to-end solutions with faster turnaround times. Both are highly valued in today’s global markets, among consumers who rely on Sri Lanka to produce more technically advanced apparel products.
-
-...
-
-[Data](articles/bf8798f7.json)
-
-[Extended Data](ext_articles/bf8798f7.ext.json)
-
----
-
-### 2025-09-09 (Tuesday)
-
-### iPhone 17 model to the market
-
-*2025-09-09 23:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214382) · `si`
-
-In the world, Apple, rolling a new page in mobile phone design, has launched its latest iPhone models.
-
-The model was launched at the headquarters of Apple's headquarters in California, USA.
-
-Accordingly, the iPhone 17 New Smartenderal telephone line was released to the market today (09).
-
-Apple introduced several models to the market today, iPhone 17, iPhone 17, and 17 Pro Max today.
-
-◼️
-
-[Data](articles/eb3bbb7e.json)
-
-[Extended Data](ext_articles/eb3bbb7e.ext.json)
-
----
-
-### Califolink Logistics expands operations by teaming up with CWIT Terminal
-
-*2025-09-09 23:17:00* · [`islandlk`](http://island.lk/califolink-logistics-expands-operations-by-teaming-up-with-cwit-terminal/) · `en`
-
-Califolink Logistics, a subsidiary of the Ceyline Group, has officially commenced Inter Terminal Trucking (ITT) operations at the Colombo West International Terminal (CWIT), of the Colombo Port, further reinforcing its leadership position as a leading transport solutions provider in Sri Lanka.
-
-Califolink launched its ITT operations at CWIT Terminal with the aim of enhancing container handling efficiency at the Port of Colombo. This strategic move marks a significant milestone in Califolink’s growth journey, expanding its portfolio beyond its renowned expertise in transport services for importers and exporters. Having commenced with an initial fleet of 10 trucks, the company plans to expand the fleet in the future.
-
-...
-
-[Data](articles/59c2199a.json)
-
-[Extended Data](ext_articles/59c2199a.ext.json)
-
----
-
-### Salesforce AI Research advances the agentic enterprise by simulating enterprise environments
-
-*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/salesforce-ai-research-advances-the-agentic-enterprise-by-simulating-enterprise-environments/) · `en`
-
-Salesforce AI Research has unveiled new innovations to help enterprises deploy AI agents that are capable, consistent, and trustworthy.
-
-At the center is CRMArena-Pro, a simulation environment that tests agents in complex, multi-turn scenarios such as sales forecasting, service triage, and CPQ processes. Acting like a digital twin of a business, it introduces real-world “noise” to measure accuracy, efficiency, and resilience before agents go live, enabling organizations to strengthen performance and trust.
-
-To measure readiness, Salesforce launched the Agentic Benchmark for CRM, the first evaluation tool built specifically for enterprise workflows across five metrics: accuracy, cost, speed, trust and safety, and sustainability. With new models emerging rapidly, this benchmark helps CIOs select the right AI systems while balancing performance with environmental impact.
-
-...
-
-[Data](articles/6f0c6e5e.json)
-
-[Extended Data](ext_articles/6f0c6e5e.ext.json)
-
----
-
-### Lighting the Path Forward: Ceylon Business Appliances bridges Sri Lanka’s digital divide
-
-*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/lighting-the-path-forward-ceylon-business-appliances-bridges-sri-lankas-digital-divide/) · `en`
-
-Ceylon Business Appliances (CBA), in partnership with Geekom, has launched a CSR initiative to provide under-resourced Sri Lankan schools with access to modern digital tools. The programme aims to support students and teachers by creating opportunities for digital learning in communities where access to technology remains limited.
-
-On 22 July, CBA and Geekom donated Mini PCs to Baptist P.V. and Nelum Wessa Model Primary School in Kadawatha. A similar donation was later made to Ananda P.V. in Yabaraluwa, Malwana, equipping classrooms with technology that will support digital education.
-
-For many students, this was their first direct interaction with a computer. The new resources are expected to transform both learning and teaching, introducing digital literacy to schools that previously lacked such facilities.
-
-Speaking at the official handover, CBA Director and Chief Executive Officer, Ruwath Fernando said:
-
-...
-
-[Data](articles/aada0760.json)
-
-[Extended Data](ext_articles/aada0760.ext.json)
-
----
-
-### Transport sector companies contribute more than one-third of CSE turnover amid profit-takings
-
-*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/transport-sector-companies-contribute-more-than-one-third-of-cse-turnover-amid-profit-takings/) · `en`
-
-CSE activities kicked off on a positive note in early sessions yesterday but turned negative due to profit-takings in some sectors.
-
-Both indices moved downwards. The All Share Price Index went down by 232 points, while the S and P SL20 declined by 55.04 points. Turnover stood at Rs 9.05 billion seven crossings. More than one third of the turnover was contributed by transport sector companies, it is learnt.
-
-...
-
-[Data](articles/f1db9ea3.json)
-
-[Extended Data](ext_articles/f1db9ea3.ext.json)
-
----
-
-### ‘RDB Bank records stellar performance for 1st half 2025’
-
-*2025-09-09 23:14:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025/) · `en`
-
-Regional Development Bank (RDB) records a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
-
-The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
-
-Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget.
-
-“We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
-
-...
-
-[Data](articles/8f0c4c4e.json)
-
-[Extended Data](ext_articles/8f0c4c4e.ext.json)
-
----
-
-### 18 Premium Channels, 6.8 Million Viewers — Endless Advertising Possibilities with Dialog Television
-
-*2025-09-09 23:14:00* · [`islandlk`](http://island.lk/18-premium-channels-6-8-million-viewers-endless-advertising-possibilities-with-dialog-television/) · `en`
-
-Dialog Television, Sri Lanka’s #1 Pay-TV service provider, invites corporate advertisers to leverage one of the country’s most powerful media platforms, trusted by over 1.7 million households and more than 90% of Sri Lanka’s corporate sector. With an extended presence in 15,000+ hotels, restaurants, and public venues, Dialog Television reaches more than 6.8 million viewers nationwide, offering unmatched opportunities for brands to build visibility and impact.
-
-Dialog Television offers advertisers access to 18 premium channels carefully curated to reflect what Sri Lankans watch most. These include Star Movies, Hits Now, AXN, Star Vijay, Star Plus, &flix, Colors Tamil, Zee Café, Zee Tamil, Colors, A Plus, Nickelodeon, Citi Hitz, Channel One, ThePapare TV, Channel C and TLC. Covering genres from movies, drama, and entertainment to sports, kids, lifestyle, and music, these channels enable precise audience targeting across diverse demographics and prime-time moments.
-
-...
-
-[Data](articles/aaeb5f34.json)
-
-[Extended Data](ext_articles/aaeb5f34.ext.json)
-
----
-
-### Armed forces to defend law and order in Nepal
-
-*2025-09-09 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214381) · `si`
-
-The military and the security forces have taken steps to protect the law and order in Nepal today (09).
-
-The decisions have been made to control the escalating violence, the Nepal said.
-
-The announcement issued by the Nepali Army states that some group robbery, fireplaces, and property will be destroyed.
-
-Meanwhile, Indian media reported that the wife of a former former Prime Minister had been burnt by the protesters.
-
-The deceased has been identified as Rajyalationi, wife, Jalnaath Khadari.
-
-It is reported that the protesters have been set on fire and set on the house.
-
-After the former Prime Minister Chitrakar, the former Prime Minister Chitrakar, was immediately enrolled at Keertripur Burry Hospital, but he had died during treatment.
-
-The protests began yesterday after the government's decision to ban 26 social media covers yesterday.
-
-The majority of the new generation of new teenagers, which have been protesting against social media censorship, are young.
-
-...
-
-[Data](articles/587ad91c.json)
-
-[Extended Data](ext_articles/587ad91c.ext.json)
-
----
-
-### Nepal Army to take charge of security following violent protests
-
-*2025-09-09 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112337/nepal-army-to-take-charge-of-security-following-violent-protests) · `en`
-
-The Nepal Army on Tuesday said that it will take charge of security operations from 10 pm, hours after Prime Minister K P Sharma Oli resigned following 27 hours of violent protests in Kathmandu and other parts of the country.
-
-In a statement issued by the Directorate of Public Relations and Information, the army said that “some groups are taking undue advantage of the difficult situation and causing severe damage to ordinary citizens and public property”.
-
-It warned that all security mechanisms, including the Nepal Army, will be mobilised to contain the violence if such activities continue.
-
-The Nepal Army also appealed for public cooperation, urging citizens not to engage in or support destructive acts.
-
-...
-
-[Data](articles/3be62d1b.json)
-
-[Extended Data](ext_articles/3be62d1b.ext.json)
-
----
-
-### I. Na. Sri Lanka's Tamil State Party is disappointing at the Human Rights Council session -
-
-*2025-09-09 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/224682) · `ta`
-
-Sixteen years after the end of the armed struggle, no internal accountability mechanisms have not yet been developed. In this context, the UN says that the victims have no choice but to seek international involvement.. The Sri Lankan Tamil state party has said that Sri Lanka's report is unmistakable.
-
-In a statement issued by the Sri Lanka Tamil Nadu Party, the Sri Lanka Tamil Nadu Party further stated that it is.
-
-Foreign Minister Vijitha Herath was held in Geneva. Na. Here is our deepest disappointment that the government has not yet responded to many major concerns on accountability and reconciliation in response to the 60th session of the Human Rights Council.
-
-This government made many promises when taking office. However, even after a full year of the presidential election, the first step to fulfilling those promises has not yet been taken.
-
-...
-
-[Data](articles/36f3dbb7.json)
-
-[Extended Data](ext_articles/36f3dbb7.ext.json)
-
----
-
-### Vijayakanth's sister died
-
-*2025-09-09 22:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜயகாந்தின்-சகோதரி-உயிரிழந்தார்/54-364311) · `ta`
-
-Captain Vijayakanth's sister Vijayalakshmi passed away today. Her funeral will be held at her residence tomorrow at 3 pm.
-
-Actor Vijayakanth was born with six brothers and five sisters in total. Vijayakanth's eldest brother's name is Nagaraj and Vijayakanth is the next born.. Following him, Selvaraj, Paul Raj, Ramraj, Prithviraj, Vijayalakshmi, Chitra, Thirumaladevi and Shanti were born.
-
-Of these, only Selvaraj and Balraj live in Madurai. The two lives with their family at the Andalpavan residence built by Vijayakanth's father in Madurai.
-
-The other brothers and sisters are all in Chennai and Theni. In this case, Vijayakanth's elder sister passed away today with her family in Chennai.
-
-Her funeral will be held tomorrow evening from one hour to three o'clock, at his residence on North Cross Street, Anna Nagar. Many are condoled by the death of Vijayakanth's older sister.
-
-...
-
-[Data](articles/c3583ce2.json)
-
-[Extended Data](ext_articles/c3583ce2.ext.json)
-
----
-
-### Killing the wife of former Prime Minister of Nepal
-
-*2025-09-09 22:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முன்னாள்-பிரதமரின்-மனைவி-எரித்துக்-கொலை/50-364305) · `ta`
-
-According to media reports, the former Prime Minister's wife was burnt alive in Nepal.
-
-Following the ban on social media sites by the Nepal government. 8) involved in great struggle. In this case, the struggle erupted in a riot.
-
-Rajyalakshmi Chitrakar, wife of former Nepal Prime Minister Jalanath Kanal in the riots (Sept.). 9) died. The protesters set fire to the house where he lived in Dallu area in Kathmandu. The house is on fire.
-
-In this context, Rajyalakshmi died today without treatment.. The media reported that this information was reported in close proximity to his family.. Remble
-
-◼️
-
-[Data](articles/a1afa833.json)
-
-[Extended Data](ext_articles/a1afa833.ext.json)
-
----
-
-### Find a car called Sampath Manampara
-
-*2025-09-09 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214380) · `si`
-
-Embilipitiya Police have found a car named Palhakarari's brother, Sampath Manampera today (09).
-
-The interrogation from the garage owner has revealed that a person had been put into the car and left the car to give the car at Sampath Manampera.
-
-Sampath Manampet has been accused of concealing the two containers used to produce ice materials used in the Middeniya, who was used to manufacture the ice materials used in Keltadadara Paddle, who was named as a group of organized criminal gangs.
-
-Meanwhile, the Sri Lanka Civil Arose Front has recently taken measures to prohibit the party's membership of the brother of Palhakarakarai.
-
-◼️
-
-[Data](articles/0348b050.json)
-
-[Extended Data](ext_articles/0348b050.ext.json)
-
----
-
-### Qatar - Israel attack in Doha
-
-*2025-09-09 21:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கத்தார்-தோஹாவில்-இஸ்ரேல்-தாக்குதல்/50-364300) · `ta`
-
-Israel today launched an offensive in Qatar's capital, Doha, targeting Hamas movement leaders.
-
-Israel, which is expanding its military operations throughout the Middle East, is also aimed at Qatar, where the Hamas political base is located.
-
-An Israeli official confirmed to Reuters News that Israel's attack on Hamas leaders in Qatar.
-
-Qatar's al -Jasira Television, which cited Hamas, reported that the attack was held on the Hamas Gaza Ceylon Ceylon. Remble
-
-◼️
-
-[Data](articles/cb76ea4a.json)
-
-[Extended Data](ext_articles/cb76ea4a.ext.json)
+[Extended Data](ext_articles/2b64746b.ext.json)
 
 ---

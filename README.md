@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 19:10:59**
+As of **2025-09-10 20:38:08**
 
 ## Newspaper Stats
 
-*Scraped **75,219** Articles*
+*Scraped **75,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,197 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 764
-economynextcom | 4,563
+economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,293
-adaderanalk | 9,648
-tamilmirrorlk | 11,233
-virakesarilk | 12,263
-adaderanasinhalalk | 13,105
+adalk | 7,294
+adaderanalk | 9,652
+tamilmirrorlk | 11,234
+virakesarilk | 12,267
+adaderanasinhalalk | 13,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,283 (88.1%) of 75,219 articles have been extended.
+66,385 (88.2%) of 75,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
+
+### Petition against the appointment of Diyawadana Nilame
+
+*2025-09-10 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214416) · `si`
+
+The Court of Appeal today (10) ordered that the writing of the Sri Diyawadana Nilame Pradeep Nilanga Dela, who had filed a interim injunction.
+
+The petition was presented by Saliya Prasad Nandasiri, a resident of Gampola.
+
+The petition was called before the Court of Appeal of the Court of Appeal Judge Rahantha Abeyariya and Priyantha Fernando.
+
+The panel of judges was ordered to call the relevant petition on the 23rd of this month.
+
+The Commissioner of Buddhist Affairs, the Commissioner of Buddhist Affairs, has been named as respondents in the petition.
+
+The petitioner says that the petitioner has said that the petitioner was filed by Mr. Senmandana Nilame on the 7th.
+
+The petition has stated that the Commissioner General of Buddhist Affairs has taken measures to appoint Mr. Nilanga Dela as acting as acting as acting as acting dilwakana nation.
+
+The petitioner said that there was a number of corruption and malpractive accusations against former Diyawadana Nilame.
+
+...
+
+[Data](articles/a1fbec47.json)
+
+[Extended Data](ext_articles/a1fbec47.ext.json)
+
+---
+
+### Fire in Sabugaskanda Oil Cleaning Station Oil Tank
+
+*2025-09-10 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224759) · `ta`
+
+A fire broke out on Wednesday (10) in the oil tank belonging to the Sabugasanda Oil Purification Center.
+
+The firefighters are working diligently to extinguish the fire, Sabugasanda police said.
+
+It is reported that the fire broke out during the repair work in the fuel empty oil tank.
+
+Fire trucks from Kolonnawa and Colombo are currently being shipped to control the fire.
+
+◼️
+
+[Data](articles/c98ba607.json)
+
+[Extended Data](ext_articles/c98ba607.ext.json)
+
+---
+
+### The new facility in which high court charges are paid by bank cards
+
+*2025-09-10 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224758) · `ta`
+
+The new facility for the High Court case proceedings has been introduced by the Debit/Credit cards.
+
+Chief Justice PP at a special event held at the Colombo High Court premises on Wednesday. Surasena was officially launched.
+
+This has made it possible for the public to pay easily and safely for court proceedings. In particular, there has been the possibility of getting a quick service through modern power, excluding the long -term cash transaction processes that existed.
+
+Officials said the facility has been introduced as part of the steps to bring about information technology improvements in the judiciary.
+
+◼️
+
+[Data](articles/d0c4956a.json)
+
+[Extended Data](ext_articles/d0c4956a.ext.json)
+
+---
+
+### Death toll in Nepal protests rises to 25
+
+*2025-09-10 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112371/death-toll-in-nepal-protests-rises-to-25) · `en`
+
+The death toll in protests in Nepal against the government’s decision to block social networks and against corruption has risen to 25.
+
+◼️
+
+[Data](articles/748787c0.json)
+
+[Extended Data](ext_articles/748787c0.ext.json)
+
+---
+
+### Investors from South Korea are willing to invest in the Northern Province - Governor Vedanayaka
+
+*2025-09-10 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224757) · `ta`
+
+The Governor's Secretariat was held on Wednesday (10), headed by Governor of the Northern Province, Na Vedanayanagan, on how to use investors from South Korea as it was willing to invest in the Northern Province.
+
+At the beginning of the discussion, the Governor said that investors from South Korea have expressed their interest in investing in the Northern Province. They want to make their investment through the companies here.
+
+They are ready to provide employment to the young people and provide them with vocational training institutions.
+
+Therefore, they are going to discuss what kind of investments they can make and work with them.
+
+◼️
+
+[Data](articles/2fd10080.json)
+
+[Extended Data](ext_articles/2fd10080.ext.json)
+
+---
+
+### Fire at the Sapukaskanda Oil Refinery Station
+
+*2025-09-10 19:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-எண்ணெய்-சுத்திகரிப்பு-நிலையத்தில்-தீ/175-364370) · `ta`
+
+A fire broke out at the Sapukaskanda oil refinery at the fire force.
+
+◼️
+
+[Data](articles/039b1bfb.json)
+
+[Extended Data](ext_articles/039b1bfb.ext.json)
+
+---
+
+### Fire breaks out in a oil tank of Sapugaskanda oil refinery
+
+*2025-09-10 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214415) · `si`
+
+A fire has erupted in a tank belonging to the Sapugaskanda Oil Refinery today (10).
+
+The Sapugaskanda Police said that the fire extinguisher was working in order to curb the fire.
+
+The fire has erupted during a repair work of a fuel removed oil tank.
+
+◼️
+
+[Data](articles/1af9c47e.json)
+
+[Extended Data](ext_articles/1af9c47e.ext.json)
+
+---
+
+### Fire breaks out in a fuel tank at Sapugaskanda Refinery
+
+*2025-09-10 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112370/fire-breaks-out-in-a-fuel-tank-at-sapugaskanda-refinery) · `en`
+
+A fire has broken out in an empty fuel tank, which was being repaired at the Sapugaskanda Refinery, this evening (10), the Ceylon Petroleum Corporation said.
+
+Internal fire engines, as well as fire engines from the fire brigade are being used to douse the fire, Police stated.
+
+Investigations are underway to ascertain the cause of the fire.
+
+◼️
+
+[Data](articles/e71679df.json)
+
+[Extended Data](ext_articles/e71679df.ext.json)
+
+---
+
+### Gurukal Math Recalling Bodies and Religious Religious
+
+*2025-09-10 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224756) · `ta`
+
+Sri Lanka Muslim Congress Member MLAM should take steps to re -excavate the bodies of those who died in the Batticaloa Kurukal monastery. Hizbullah said.
+
+He was speaking on Wednesday (10) under the Standing Ordinance of Parliament under 27 2.
+
+On July 12, 1990, some of the Muslims from the Kurukkam Madam village in Kaluwanchikudi area were abducted and killed by the LTTE when they returned to their homes on the main road in Batticaloa, Colombo.
+
+A complaint was lodged by a relative of Kaluwanchikudi police. A case was filed at the Kaluwanchikudi Magistrate's Court on the complaint. At the same time, the magistrate had ordered that all the bodies buried after the trial and take necessary measures to take necessary steps in accordance with international rules and to keep the area completely safe and take these measures through the Office of Missing Persons.
+
+...
+
+[Data](articles/34b43618.json)
+
+[Extended Data](ext_articles/34b43618.ext.json)
+
+---
 
 ### World Bank commends the progress of the Sri Lankan economy
 
@@ -58,6 +230,24 @@ The sharp state matches have adversely affected households through high-ranking 
 
 ---
 
+### New circular issued for state school admissions
+
+*2025-09-10 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112368/new-circular-issued-for-state-school-admissions) · `en`
+
+A new circular has been issued regarding the admission of students from Grade 2 to Grade 11, excluding Grades 5 and 6, in government schools.
+
+Accordingly, the Circular No. 27/2025 has been issued by the Ministry of Education, Higher Education, and Vocational Training.
+
+The circular can now be accessed via the official website of the Ministry: http://www.moe.gov.lk.
+
+◼️
+
+[Data](articles/93ca57a9.json)
+
+[Extended Data](ext_articles/93ca57a9.ext.json)
+
+---
+
 ### Introduces card transaction facilities to the judicial system
 
 *2025-09-10 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214413) · `si`
@@ -78,37 +268,41 @@ Member of the Judicial Service Commission Member Justices and the Chairman of th
 
 ---
 
-### 14 நாட்கள் காலவகாசம் வழங்கி நாமலை மிரட்டிய துணை அமைச்சர்
+### Deputy Minister who threatened Namal with a 14 -day period
 
 *2025-09-10 18:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-நாட்கள்-காலவகாசம்-வழங்கி-நாமலை-மிரட்டிய-துணை-அமைச்சர்/175-364369) · `ta`
 
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ, அவதூறு பரப்பியதாகக் கூறி, ரூ. 1 பில்லியன் இழப்பீடு கோரி அனுப்பிய சட்ட அறிவிப்புக்கு பதிலளிக்கத் தயாராக இருப்பதாக பொதுப் பாதுகாப்புத் துணை அமைச்சர் சுனில் வட்டகல தெரிவித்தார்.
+Parliamentarian Namal Rajapaksa claims to have spread slander. Public Security Minister Sunil Vatagala said he was ready to respond to a legal announcement sent by 1 billion compensation.
 
-பாராளுமன்றத்தில் பேசிய துணை அமைச்சர் சுனில் வட்டகல, தனக்கு இன்னும் நோட்டீஸ் கிடைக்கவில்லை என்றாலும், நாமல் ராஜபக்ஷ 14 நாட்களுக்குள் வழக்குத் தாக்கல் செய்ய வேண்டும் என்றார். நீதிமன்றத்தில் பாராளுமன்ற உறுப்பினரிடம் குறுக்கு விசாரணை செய்யும் வாய்ப்பை வரவேற்பதாகவும் அவர் கூறினார்.
+Speaking in Parliament, Deputy Minister Sunil Vattakala said Namal Rajapaksa should file a case within 14 days, even though he has not yet received a notice.. He also welcomed the opportunity to cross the parliamentarian in court.
 
-"அவர் நீதிமன்றத்தில் சட்டத்தரணியாக பயிற்சி செய்யாததால், அவருக்கு இது தெரிந்திருக்க வாய்ப்பில்லை. அவதூறு வழக்குகள் மட்டுமே வழக்கின் எல்லைக்கு அப்பாற்பட்ட விஷயங்களில் வாதியை விசாரிக்கக்கூடிய ஒரே வகை வழக்கு" என்று வட்டகல கூறினார்.
+"He does not know this because he does not practice as a lawyer in court. Vatagala said that the only case of slander cases can investigate the plaintiff on matters beyond the border. ”
 
-"சட்டக் கல்லூரியில் சேர உங்களுக்குத் தேவையான தகுதிகள் உள்ளதா என்று நான் கேள்வி கேட்பேன். இங்கிலாந்தில் உள்ள சிட்டி பல்கலைக்கழகத்தில் உங்கள் தகுதி உண்மையானதா? சட்டக் கல்லூரியின் இறுதியாண்டு தேர்வை ஒரு தனி அறையில் எழுதி தொடர்புடைய தகுதியைப் பெற முடிந்ததா?
+“I will question whether you have the qualifications you need to enroll in law college. Is your qualification real at City University in the UK? Is it possible to write the final year exam of the Law College and get the relevant qualification in a separate room?
 
 ...
 
 [Data](articles/72f455cb.json)
 
+[Extended Data](ext_articles/72f455cb.ext.json)
+
 ---
 
-### சட்டமூலத்தை சட்டமாக்கினார் சபாநாயகர்
+### Speaker made the bill
 
 *2025-09-10 18:06:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-சட்டமாக்கினார்-சபாநாயகர்/175-364368) · `ta`
 
-இன்று பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட ஜனாதிபதியின் உரிமைகள் (ரத்துசெய்தல்) சட்டமூல சான்றிதழை சபாநாயகர் ஜகத் விக்ரமரத்ன ஒப்புதல் அளித்துள்ளார்.
+Speaker Jagath Wickramaratne has approved the Certificate of Rights (Cancellation) Bill passed in Parliament today.
 
-அதன்படி, இந்த சட்டமூலம் 2025 ஆம் ஆண்டின் 18 ஆம் எண் ஜனாதிபதி உரிமைகள் (ரத்து செய்தல்) சட்டமாக அமலுக்கு வரும்.
+Accordingly, the bill will come into effect as the President's Rights (Cancel) Act of 2025.
 
-ஜனாதிபதியின் உரிமைகள் (ரத்துசெய்தல்) சட்டமூலம் இன்று நாடாளுமன்றத்தில் 150 பெரும்பான்மை வாக்குகளால் நிறைவேற்றப்பட்டது.
+The President's Rights Bill was passed today by 150 majority votes in Parliament.
 
 ◼️
 
 [Data](articles/b0756360.json)
+
+[Extended Data](ext_articles/b0756360.ext.json)
 
 ---
 
@@ -127,6 +321,26 @@ When Deputy Defense Minister Aruna Jayasekara is in the position, we are suspici
 [Data](articles/910a6a79.json)
 
 [Extended Data](ext_articles/910a6a79.ext.json)
+
+---
+
+### Sri Lanka made remarkable progress towards economic stabilization since the crisis: World Bank
+
+*2025-09-10 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112367/sri-lanka-made-remarkable-progress-towards-economic-stabilization-since-the-crisis-world-bank) · `en`
+
+The World Bank says Sri Lanka has made remarkable progress towards economic stabilisation since the crisis.
+
+The Sri Lanka Public Finance Review: Towards a Balanced Fiscal Adjustment published by the World Bank states a substantial fiscal adjustment was central to Sri Lanka’s stabilization efforts, with the primary balance improving by 7.9 percent of gross domestic product (GDP) between 2021 and 2024, from a low base.
+
+This was primarily driven by significant revenue measures, including reversing past policy missteps and increasing taxes on a narrow existing base, the World Bank noted.
+
+Additionally, constrained public investment—due to rationalization measures and limited external financing—along with cuts to some non-interest recurrent spending helped keep total spending in check.
+
+...
+
+[Data](articles/97c26bb4.json)
+
+[Extended Data](ext_articles/97c26bb4.ext.json)
 
 ---
 
@@ -842,6 +1056,32 @@ An issue of Rs.155,000 million Treasury Bonds is scheduled tomorrow. (Colombo/Se
 
 ---
 
+### Sri Lanka sells less than offered treasury bills, as bill yields fixed
+
+*2025-09-10 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-as-bill-yields-fixed-240000/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 59.17 billion rupees of Treasury bills, of an offered 77 billion, with yields mostly flat across maturities, data from the state debt office showed.
+
+The 3-month yield was unchanged at 7.58 percent, with 12 billion rupees of bills offered and 5.18 billion sold.
+
+The 6-month yield was unchanged at 7.89 percent, with 40 billion rupees offered and 48,17 billion sold.
+
+The 12-month yield was down 1 basis point at 8.02 percent with 25 billion rupees offered and 5,81 billion rupees bills sold.
+
+All three bills are available on tap at the weighted average yield.
+
+Last week there were no takers for the post auction tap issue.
+
+An issue of Rs.155,000 million Treasury Bonds is scheduled tomorrow. (Colombo/Sep10/2025)
+
+◼️
+
+[Data](articles/a434f985.json)
+
+[Extended Data](ext_articles/a434f985.ext.json)
+
+---
+
 ### Sri Lanka expresses concern over recent strikes in Qatar
 
 *2025-09-10 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112359/sri-lanka-expresses-concern-over-recent-strikes-in-qatar) · `en`
@@ -1087,6 +1327,26 @@ Accordingly, the beneficiaries will be provided with their relief allowance from
 [Data](articles/16fe1b86.json)
 
 [Extended Data](ext_articles/16fe1b86.ext.json)
+
+---
+
+### The final draft of the new terrorist Act next week
+
+*2025-09-10 14:29:55* · [`adalk`](https://www.ada.lk/breaking_news/නව-ත්‍රස්ත-විරෝධි-පනතේ-අවසන්-කෙටුම්පත-ලබන-සතියේ-අධිකරණ-ඇමතිට/11-418410) · `si`
+
+The Chairman of the Committee and National Integration will be handed over to the Committener Committee, Attorney-at-Arms and National Integration to draft the new terrorist committee next week.
+
+The committee appointed by the Cabinet of Ministers to draft the new terrorist bill met at the Ministry of Justice and National Integration yesterday (09). The Chairman of the Committee was expressed these views.
+
+Identifying continuous issues in the new draft and the bill will be completed for the second time this week. The committee will meet daily meeting daily and finalizes the relevant activities.
+
+The committee is discussed daily over the next few days, and the draft department is being carried out by the Department of Drawing Act.
+
+...
+
+[Data](articles/8420bc6f.json)
+
+[Extended Data](ext_articles/8420bc6f.ext.json)
 
 ---
 
@@ -1715,271 +1975,5 @@ All flights to Nepal have been temporarily suspended, SriLankan Airlines said.
 [Data](articles/a8d87b31.json)
 
 [Extended Data](ext_articles/a8d87b31.ext.json)
-
----
-
-### Polish military accuses Moscow of ‘act of aggression’ after shooting down Russian drones in its airspace
-
-*2025-09-10 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112348/polish-military-accuses-moscow-of-act-of-aggression-after-shooting-down-russian-drones-in-its-airspace) · `en`
-
-Poland’s military said early Wednesday that it had shot down drones that violated its airspace during a Russian attack on neighboring Ukraine, the first time it has taken such a step in what is a major provocation for Europe and NATO forces.
-
-“This is an act of aggression that posed a real threat to the safety of our citizens,” said Poland’s Operation Command in a post on X Wednesday morning.
-
-Prime Minister Donald Tusk confirmed a military response operation was underway “related to multiple violations of Polish airspace” and said “the military has used weapons against the objects.”
-
-“The security of our homeland is our highest priority,” said President Karol Nawrocki, in a post on X, adding that he will lead a briefing of Poland’s National Security Bureau in the coming hours.
-
-...
-
-[Data](articles/38eeaa2b.json)
-
-[Extended Data](ext_articles/38eeaa2b.ext.json)
-
----
-
-### Medical doctor for sale in Teldeniya Hospital
-
-*2025-09-10 11:00:34* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්දෙණිය-රෝහලේ-වෛද්‍යවරයෙක්-අත්අඩංගුවට/11-418401) · `si`
-
-A doctor was arrested in the hospital, a doctor was arrested by the Dummy Superintendent of the Teldeniya Hospital and the staff of the staff.
-
-According to a complaint lodged by the police, Sunil Senarath Yapa has been arrested on a complaint extended by the police at the Teldeniya Hospital.
-
-The police say that the accusation and threat of the hospital will interfere with the duties of the hospital staff.
-
-The arrested doctor is being released on bail after the suspect, who was taken into court and was produced before courts on 22.08.2012, police said.
-
-The arrested doctor was to be produced before the Teldeniya Magistrate's Court today.
-
-◼️
-
-[Data](articles/7b01b514.json)
-
-[Extended Data](ext_articles/7b01b514.ext.json)
-
----
-
-### Three-wheelers arrived at the police
-
-*2025-09-10 10:49:22* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘති-වෙනස්-කර-සංචාරයකට-පැමිණි-ත්‍රි-‍රෝද-රථ-10ක්-පොලිස්-භාරයට/11-418400) · `si`
-
-The OIC of the Kotmale Poonuoya Podlandoya Police said that a group of three-wheelers were taken bail to the original format and took over three-wheelers.
-
-The OIC of the three-wheelers were arrested on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint on a complaint regarding a three-wheeler travelers on the three-wheeler traces of the Gampola area.
-
-The OIC of the Nawalapitiya Magistrate's Court said that the accident had been bailed by the police and other three-wheeler drivers.
-
-Thandaluoya Police OIC of the Kudamaluoya Police have taken measures to be taken to the Nawalapitiya Magistrate's Court with the operations of the three-wheeler sticks, which have been taken into custody by the car inspection of the car inspection of the police. Sugagala Wijesundara said.
-
-◼️
-
-[Data](articles/46576eba.json)
-
-[Extended Data](ext_articles/46576eba.ext.json)
-
----
-
-### Bus owner arrested in Ella
-
-*2025-09-10 10:47:22* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-පත්-බස්-රථයේ-හිමිකරු-අත්අඩංගුවට/11-418399) · `si`
-
-The next bus owner was arrested in the crash of the Ella-Valvawa road.
-
-Fifteen persons were killed and 17 others were wounded in the accident.
-
-◼️
-
-[Data](articles/1d925791.json)
-
-[Extended Data](ext_articles/1d925791.ext.json)
-
----
-
-### Owner of bus involved in fatal Ella crash arrested
-
-*2025-09-10 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112347/owner-of-bus-involved-in-fatal-ella-crash-arrested-) · `en`
-
-The owner of the bus involved in the recent fatal accident on the Ella-Wellawaya road has been taken into police custody, police said.
-
-Ella Police arrested the owner for negligence in the proper maintenance of the vehicle, which led to the deaths of 15 people.
-
-The accident occurred on Thursday night (04) near the 24th milepost on the Ella–Wellawaya road, when a bus veered off the road and plunged into a precipice, resulting in the deaths of 15 individuals and injuries to 17 others.
-
-Investigations are now underway to determine whether he had consumed any intoxicating substances prior to the crash.
-
-Of those who died, 12 were employees of the Tangalle Municipal Council.
-
-Meanwhile, 11 of the injured are still receiving treatment at the Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/4b3c05ad.json)
-
-[Extended Data](ext_articles/4b3c05ad.ext.json)
-
----
-
-### The no -confidence motion against Aruna was thrown
-
-*2025-09-10 10:42:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருணவுக்கு-எதிரான-நம்பிக்கையில்லாப்-பிரேரணை-வீசுப்பட்டது/175-364330) · `ta`
-
-Speaker Dr. Jagath Wickramaratne told Parliament today (10) that the no -confidence motion submitted by the opposition parties against Aruna Jayasekara is unacceptable.
-
-He said the no -confidence motion did not comply with the rules of the Constitution. However, the Speaker added that the proposal can be brought in a different form
-
-◼️
-
-[Data](articles/80d39f36.json)
-
-[Extended Data](ext_articles/80d39f36.ext.json)
-
----
-
-### Flights were ceremonial and Ratmambandy, Katunayake and Kathmandu
-
-*2025-09-10 10:40:34* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-හා-කත්මණ්ඩු-අතර-ගුවන්-ගමන්-නවතී/11-418398) · `si`
-
-The head of the SriLankanalical Communications Division, SriLankanaka Communications Division, has been appointed to the suspension from the 9/10th of September, Sri Lanka's Katunayaka and Kathmandu.
-
-Accordingly, the SriLankan Airlines UL, SriLankan Airlines, which was due to leave for Nattaka at the Bandaranaike International Airport on 09/10 am, was to be departured from the Bandaranaike International Airport - 181 flight has been canceled.
-
-This is due to the struggle of the country in Nepal and the struggles have also taken steps to raise the Prime Minister of the country as of 09/09.
-
-Under this situation, the Civil Aviation Authority has taken steps to close all internal and international airports in Nepal.
-
-The flights of these flights will be asked to call Sri Lankan Airlines in 1979 or inquiring from your travel agency.
-
-◼️
-
-[Data](articles/09b0500b.json)
-
-[Extended Data](ext_articles/09b0500b.ext.json)
-
----
-
-### Moneragala is not undertaken in advanced garbage
-
-*2025-09-10 10:31:41* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-සභාව-මින්-ඉදිරියට-වෙන්-නොකරන-ලද-කසළ-භාර-නොගනී/11-418397) · `si`
-
-The Moneragala Pradeshiya Sabha is garbage at the Moneragala Pradeshiya Sabha and collects a garbage in the Moneragala Horambulu Road.
-
-The environment was damaged by the disposal of garbage and the nearby settlers had to face many difficulties.
-
-Earlier, the council was disposed without a decorative allocation.
-
-During the past rule, organic fertilizer production is made to produce fertilizer production, as the garbage is not a large dirt.
-
-The Moneragala Pradeshiya Sabha Chairman Janaka Kuruppu, who was not to be delivered to this, demanded the tractors of the pradeshiya Sabha not to be delivered.
-
-Large roles were already closed and the soil was closed down and will continue to maintain the garbage yard and to make fertilizer production efficiently.
-
-◼️
-
-[Data](articles/2de6431f.json)
-
-[Extended Data](ext_articles/2de6431f.ext.json)
-
----
-
-### The owner of the bus injured in Ella
-
-*2025-09-10 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214393) · `si`
-
-The owner of the bus was arrested as the bus was not properly maintained due to the fall of the road.
-
-Bus to 15th kilometer in Ella-Wellawaya main road in Tangalle area was nearing the 24th kilometer in Falls.
-
-Tangalle Urban Council Secretary TW. K. Twenty Municipal Council and 12 Municipal Council were also killed.
-
-◼️
-
-[Data](articles/0bf5e820.json)
-
-[Extended Data](ext_articles/0bf5e820.ext.json)
-
----
-
-### 73 Sri Lankan pilgrims safely cross Nepal-India border
-
-*2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-safely-cross-nepal-india-border) · `en`
-
-UPDATE: Sri Lanka’s Foreign Ministry confirms that the 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, have safely crossed the border entering India.
-
-The Sri Lankan Embassy in Kathmandu has provided an update on the status of Sri Lankans in Nepal amidst the ongoing situation, the Foreign Ministry stated.
-
-A group of 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, is currently at the India–Nepal border preparing to depart Nepal, the ministry spokesman said.
-
-Embassy officials have directly engaged with Nepalese immigration authorities to expedite the necessary procedures, as the system is reportedly not functioning normally.
-
-The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
-
-Reports indicate that the public is largely complying with these directives, the spokesman added.
-
-◼️
-
-[Data](articles/6756b48b.json)
-
-[Extended Data](ext_articles/6756b48b.ext.json)
-
----
-
-### 73 Sri Lankan pilgrims await departure at India–Nepal border: Foreign Ministry
-
-*2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-await-departure-at-indianepal-border-foreign-ministry-) · `en`
-
-The Sri Lankan Embassy in Kathmandu has provided an update on the status of Sri Lankans in Nepal amidst the ongoing situation, the Foreign Ministry stated.
-
-A group of 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, is currently at the India–Nepal border preparing to depart Nepal, the ministry spokesman said.
-
-Embassy officials have directly engaged with Nepalese immigration authorities to expedite the necessary procedures, as the system is reportedly not functioning normally.
-
-The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
-
-Reports indicate that the public is largely complying with these directives, the spokesman added.
-
-◼️
-
-[Data](articles/fbc4685d.json)
-
-[Extended Data](ext_articles/fbc4685d.ext.json)
-
----
-
-### Steps to remove a group of Sri Lankan pilgrims visited in Lumbini
-
-*2025-09-10 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214392) · `si`
-
-The Ministry of External Affairs says all Sri Lankans in Nepal are safe.
-
-The Ministry also said that 73 Sri Lankan pilgrims to Lumbini in Nepal to Nepal from the land road.
-
-The Ministry of External Affairs further stated that although there is a system error, it will be coordinated with the Nepali migrant authorities.
-
-◼️
-
-[Data](articles/719b79d7.json)
-
-[Extended Data](ext_articles/719b79d7.ext.json)
-
----
-
-### The 35 -year commemoration of the genocide.
-
-*2025-09-10 10:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டு-சத்துருக்கொண்டான்-இனப்படுகொலையின்-35-ஆண்டு-நினைவேந்தல்/175-364326) · `ta`
-
-On Tuesday evening (9), the flame was lit by a flame and paid a two -minute silent tribute to the 35th anniversary of the genocide of Batticaloa.
-
-On September 9, 1990, 186 people, including the army and the children of the Kayts, were taken to the Pois Roun Army Camp area, such as Satturukondan, Pillaiyaradi and Snowyadi.
-
-The Municipal Council Chief Minister Sivam Bhagiyanathan, Deputy Chief Minister P. Ariyanethran, former Municipal Council Chief Minister R. Saravanabhavan, and Municipal Council members were also present.
-
-Following this, four people from four villages joined the public flame and demanded an international judicial inquiry through the media to carry out an excavation work after a two -minute silent tribute to the souls of the flames.
-
-◼️
-
-[Data](articles/5c9b262e.json)
-
-[Extended Data](ext_articles/5c9b262e.ext.json)
 
 ---

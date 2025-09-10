@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 21:07:09**
+As of **2025-09-10 21:56:44**
 
 ## Newspaper Stats
 
-*Scraped **75,234** Articles*
+*Scraped **75,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,106 @@ islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
 adalk | 7,294
-adaderanalk | 9,652
+adaderanalk | 9,653
 tamilmirrorlk | 11,235
 virakesarilk | 12,267
-adaderanasinhalalk | 13,108
+adaderanasinhalalk | 13,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,394 (88.2%) of 75,234 articles have been extended.
+66,417 (88.3%) of 75,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### சபாநாயகருக்கு எதிராக நம்பிக்கையில்லாப் பிரேரணை
+### The site is open to apply for Israeli jobs
 
-*2025-09-10 20:41:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லாப்-பிரேரணை/175-364372) · `ta`
+*2025-09-10 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214418) · `si`
 
-பிரதி பாதுகாப்பு அமைச்சர் அருண ஜெயசேகரவுக்கு எதிரான நம்பிக்கையில்லா தீர்மானம் குறித்து முறையான தீர்ப்பை வழங்கத் தவறியதாக குற்றம் சாட்டும் சபாநாயகர் ஜகத் விக்ரமரத்னவுக்கு எதிராக நம்பிக்கையில்லா தீர்மானத்தைக் கொண்டுவருவது குறித்து முடிவு செய்ய பாராளுமன்றத்தை பிரதிநிதித்துவப்படுத்தும் அனைத்து எதிர்க்கட்சிகளும் ஒரு கலந்துரையாடலைத் தொடங்க உள்ளன.
+The Sri Lanka Bureau of Foreign Employment (SLBFE) says that under the forthcoming scheme of the reform of the reform sector, which is implemented in the construction industry.
 
-எதிர்க்கட்சியின் பிரதம கொறடா கயந்த கருணாதிலக தலைமையிலான எதிர்க்கட்சி எம்.பி.க்கள் குழு, சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா தீர்மானம் குறித்து அனைத்து எதிர்க்கட்சி உறுப்பினர்களும் விவாதித்து முடிவு செய்வார்கள் என்று தெரிவித்தனர்.
+Accordingly, the Bureau can register for the employment www.slbfe.lk www.slbfe.lk and it has been informed that web tubes have been opened until 24.09.2012.
+
+* Reformers
+
+People who choose these jobs receive a 63-month contract period.
+
+Among the age of 25-45, the people who have been able to serve in the Israeli state, have been able to apply for a talent and experience for the job group they choose.
+
+After a preliminary investigation, the National Apprentice and Industrial Training Authority (NAITA) will be conducted in the district centers (NAITA).
+
+Candidates who pass the founders of the Katubedda National Apprentice and Technical Training Authority will be referred to the inclusion of the applicants list to Israel in Israel.
 
 ...
 
-[Data](articles/cbdc626a.json)
+[Data](articles/d0b7b77f.json)
+
+[Extended Data](ext_articles/d0b7b77f.ext.json)
 
 ---
 
-### මානව හිමිකම් කොමසාරිස් සහ ඇමති විජිත හේරත් අතර හමුවක්
+### No -confidence motion against the Speaker
+
+*2025-09-10 20:41:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லாப்-பிரேரணை/175-364372) · `ta`
+
+All opposition parties representing parliament will begin a discussion to decide on a no -confidence motion against Speaker Jagath Wickramaratne, accusing him of failing to give a proper judgment on the no -confidence motion against Deputy Defense Minister Aruna Jayasekara.
+
+Opposition MPs, led by the Chief Minister of the Opposition Gayantha Karunathilaka, said that all opposition members would discuss the no -confidence motion against the Speaker.
+
+“The Speaker said that the parliamentary system of foreign legislators such as the House of Commons in the UK and the Lok Sabha in India. If so, he must have added his observations on these foreign parliaments. He failed to perform this exercise. Therefore, we cannot take his statement as a judgment, ”Parliamentarian Ajith B.. Perera said.
+
+Parliamentarian Nizam Kariyapper said that if someone is to be considered a judgment, the Speaker should have issued a statement after the announcement.
+
+◼️
+
+[Data](articles/cbdc626a.json)
+
+[Extended Data](ext_articles/cbdc626a.ext.json)
+
+---
+
+### Human Rights Commissioner and Minister Vijitha Herath meets
 
 *2025-09-10 20:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214417) · `si`
 
-මානව හිමිකම් කවුන්සිලයේ තාක්ෂණික සහාය ඇතිව ශ්‍රී ලංකාවේ මානව හිමිකම් කඩවීම පිළිබඳව දේශීය යාන්ත්‍රණයක් මගින් පමණක් වගවීමේ ක්‍රියාවලියකට පිවිසීමට රජය සූදානමින් පසු වන බව අමාත්‍ය විජිත හේරත් මහතා අද (10) ජිනීවාහි දී මානව හිමිකම් කොමසාරිස් Volker Turk මහතා හමු වී දන්වා තිබේ.
+Minister Vijitha Herath has been informed by the Commissioner of Human Rights Volker Turk today to enter into account of legal mechanism with the technical assistance of the Human Rights Council.
 
-මානව හිමිකම් කවුන්සිලයේ 60වන සැසියට සහභාගි වීමට ජිනීවා ගොස් සිටින අමාත්‍ය විජිත හේරත් මහතා සහ එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමසාරිස් Volker Turk මහතා අතර හමුවක් අද (10) සිදු විය.
+Minister Vijitha Herath and the UN Human Rights Violent Commissioner Volker Turk met today (10) to attend the 60th session of the UN Human Rights Council.
 
-එහිදී Volker Turk මහතා ඉදිරිපත් කළ වාර්තාව සම්බන්ධයෙන් දීර්ඝව සාකච්ඡා කර ඇත.
+The Voker Turk has been discussed at long.
 
-එම වාර්තාව සම්බන්ධයෙන් ශ්‍රී ලංකාවේ ස්ථාවරය සවිස්තරාත්මකව අමාත්‍ය විජිත හේරත් මහතා පැහැදිලි කර තිබේ.
+Minister Vijitha Herath has explained the stance of the report in detail in Sri Lanka.
 
-නව රජය යටතේ ලංකාවේ මානව හිමිකම් ආරක්ෂා කිරීම සම්බන්ධයෙන් නව හැරවුමක් ලබා ඇති බවත් අතීතයේ සිදු වූ මානව හිමිකම් කඩවීම් සම්බන්ධයෙන් ස්වාධීන පරීක්ෂණයක් සිදු කිරීමටත් සහ වගවීමේ යාන්ත්‍රණය නිසි පරිදි ස්ථාපිත කිරීමටත් මේ ලැබී ඇති අවස්ථාව මගනොහරිනු ඇතැයි එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමසාරිස් සිය අපේක්ෂාව පළකළ ඇත.
+The United Nations Human Rights Commissioner has expressed his expertise that it has not been able to conduct an independent investigation into the human rights violations of Sri Lanka under the new government.
 
 ◼️
 
 [Data](articles/46854b48.json)
+
+[Extended Data](ext_articles/46854b48.ext.json)
+
+---
+
+### SL committed to domestic accountability mechanism with technical support from UNHRC – FM tells UN Rights Chief
+
+*2025-09-10 19:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112372/sl-committed-to-domestic-accountability-mechanism-with-technical-support-from-unhrc-fm-tells-un-rights-chief) · `en`
+
+The Sri Lankan government is prepared to pursue accountability for alleged human rights violations through a domestic mechanism, with technical assistance from the Human Rights Council, Minister of Foreign Affairs Vijitha Herath has informed UN High Commissioner for Human Rights Volker Türk.
+
+Minister Herath, who is currently attending the 60th session of the UN Human Rights Council in Geneva, met with High Commissioner Türk today (10).
+
+During the meeting, an in-depth discussion was held on the report presented by High Commissioner Volker Türk, the Ministry of Foreign Affairs said in a statement.
+
+Minister Herath provided a detailed explanation of Sri Lanka’s position on the matters raised in the report.
+
+...
+
+[Data](articles/563d58ab.json)
+
+[Extended Data](ext_articles/563d58ab.ext.json)
 
 ---
 
@@ -145,6 +199,20 @@ The death toll in protests in Nepal against the government’s decision to block
 [Data](articles/748787c0.json)
 
 [Extended Data](ext_articles/748787c0.ext.json)
+
+---
+
+### The Speaker testified the President's Removals (Removal) Bill
+
+*2025-09-10 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224753) · `ta`
+
+The Speaker testified the bill (elimination) of the presidents' rights. Accordingly, the law will be implemented as the "Removal) Act of the Year 18th of 2025.
+
+◼️
+
+[Data](articles/a437cbca.json)
+
+[Extended Data](ext_articles/a437cbca.ext.json)
 
 ---
 
@@ -444,19 +512,19 @@ He bought the Rand for 16.5 million. This is the highest value of the SA20 in hi
 
 *2025-09-10 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112366/nepal-protests-kathmandu-airport-reopens-for-civilian-flights) · `en`
 
-After a 24-hour closure, Kathmandu”s Tribhuvan International Airport has reopened for all civilian flights, according to a statement from the Nepal Civil Aviation Authority on Wednesday.
+The Civil Aviation Authority of Nepal has announced that Kathmandu’s Tribhuvan International Airport, Nepal’s main gateway, has reopened.
 
-The airport had been shut down due to "adverse circumstances." The decision to resume flights was made during a meeting of the Tribhuvan International Airport Security Committee.
+Domestic and international flights, suspended since Tuesday, “will resume today,” the authority said in a statement, without elaborating.
 
-The statement also advised passengers to contact their airlines for flight details and to carry their official tickets and identification when travelling to the airport.
+The shutdown had left hundreds of international tourists, including Indians, stranded amid the deadly unrest.
 
-The demonstrations, led largely by Gen Z, erupted after the government imposed a ban on 26 social media platforms, including Facebook, Instagram, YouTube, and X.
+Meanwhile, SriLankan Airlines informed Ada Derana that it will resume flights to Nepal from tomorrow (11).
 
-The unrest turned violent on Monday, leaving at least 19 people dead and hundreds injured across the country.
+The situation in Nepal remained relatively calm on Wednesday, following two days of youth-led “Gen Z” protests that turned violent after a security crackdown left at least 19 demonstrators — mostly students — dead.
 
-In Kathmandu alone, 18 protesters—many students in school and college uniforms—lost their lives, and over 300 others were left injured.
+With Prime Minister KP Sharma Oli and his cabinet having resigned, and as law enforcement struggled to maintain control, the Nepal Army took charge of security on Tuesday night.
 
-◼️
+...
 
 [Data](articles/7e7b80fe.json)
 
@@ -483,20 +551,6 @@ The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga D
 [Data](articles/c3f9f2f3.json)
 
 [Extended Data](ext_articles/c3f9f2f3.ext.json)
-
----
-
-### The Speaker testified the President's Removals (Removal) Bill
-
-*2025-09-10 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/224753) · `ta`
-
-The Speaker testified the bill (elimination) of the presidents' rights. Accordingly, the law will be implemented as the "Removal) Act of the Year 18th of 2025.
-
-◼️
-
-[Data](articles/a437cbca.json)
-
-[Extended Data](ext_articles/a437cbca.ext.json)
 
 ---
 
@@ -996,7 +1050,11 @@ Subsequently, the bill proceeded to the third reading or the committee stage.
 
 Following the committee stage, the Speaker announced that the bill has been approved without amendments in Parliament.
 
-◼️
+The debate on the second reading of the bill commenced this morning with MPs of both the government and the opposition expressing their views.
+
+Following the heated debate for several hours, the Speaker announced that a vote will be taken on the bill since the government requested for a division.
+
+...
 
 [Data](articles/b692ddaf.json)
 
@@ -1220,7 +1278,17 @@ He said this while addressing a debate on the abolition of the principles of the
 
 *2025-09-10 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112357/owner-of-bus-involved-in-fatal-ella-crash-granted-bail) · `en`
 
-The owner of the bus that caused the death of 15 persons in Ella, who was arrested for negligence in proper maintenance of the bus, has been granted bail by the Bandarawela Magistrate’s Court.
+The owner of the bus involved in the recent fatal accident on the Ella-Wellawaya road who was arrested yesterday, has been granted bail, Ada Derana reporter said.
+
+He was released on two surety bails of Rs. 1 million each and a personal bail of Rs. 50,000.
+
+Ella Police arrested the owner for negligence in the proper maintenance of the vehicle, which led to the deaths of 15 people.
+
+The accident occurred on Thursday night (04) near the 24th milepost on the Ella–Wellawaya road, when a bus veered off the road and plunged into a precipice, resulting in the deaths of 15 individuals and injuries to 17 others.
+
+Investigations are now underway to determine whether he had consumed any intoxicating substances prior to the crash.
+
+Of those who died, 12 were employees of the Tangalle Municipal Council.
 
 ◼️
 
@@ -1937,41 +2005,5 @@ Accordingly, he is scheduled to be held as the Dambulla Headquarters Inspector o
 [Data](articles/6df165fe.json)
 
 [Extended Data](ext_articles/6df165fe.ext.json)
-
----
-
-### Airlines canceled between Sri Lanka and Nepal
-
-*2025-09-10 11:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாளம்-இடையில்-விமானச்-சேவைகள்-ரத்து/175-364331) · `ta`
-
-SriLankan Airlines Communications Communication President Deepal Perera said that steps have been taken from Katunayake airport and Nepal's Kathmanu on Wednesday morning.
-
-Accordingly, the SriLankan Airlines flight from Katunayake airport to Nepal's Kathmanadu at 08.35 am on Wednesday (10) has been canceled.
-
-The Nepal Civil Aviation Authority has taken steps to close all domestic and international airports in the country.
-
-Deepal Perera added that SriLankan Airlines should be contacted by 1979 for further information.
-
-◼️
-
-[Data](articles/414eee9e.json)
-
-[Extended Data](ext_articles/414eee9e.ext.json)
-
----
-
-### Sri Lanka drafts a resolution at Geneva Human Rights Council
-
-*2025-09-10 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214395) · `si`
-
-This year is drafting a resolution on Sri Lanka for the 60th session of the UN Human Rights Council.
-
-මහා බ්‍රිතාන්‍ය, කැනඩාව, මලාවි, මොන්ටිනීග්‍රෝ සහ උතුරු මැසිඩෝනියා රටවල අනුග්‍රාහකත්වය හිමිව තිබේ.
-
-◼️
-
-[Data](articles/68b1827b.json)
-
-[Extended Data](ext_articles/68b1827b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 09:11:13**
+As of **2025-09-10 09:38:17**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 13,081
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,753 (87.6%) of 75,096 articles have been extended.
+65,774 (87.6%) of 75,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### இந்தியா - இலங்கை ஒப்பந்தத்தில் கைச்சாத்து
+### India -Sri Lanka Agreement
 
 *2025-09-10 08:43:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-இலங்கை-ஒப்பந்தத்தில்-கைச்சாத்து/175-364317) · `ta`
 
-மன்னார் மாவட்ட பொது மருத்துவமனைக்கு மருத்துவ உபகரணங்களைக் கொள்வனவு செய்தல் தொடர்பில் 600 மில்லியன் ரூபாய் மானிய புரிந்துணர்வு ஒப்பந்தத்தில், இந்தியாவும் இலங்கையும் கையெழுத்திட்டுள்ளன.
+India and Sri Lanka have signed a subsidy Memorandum of Memorandum of Memorandum for Rs 600 million on the purchase of medical equipment for the Mannar District General Hospital.
 
-இந்த ஒப்பந்தத்தில் நேற்று இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா மற்றும் இலங்கை சுகாதார அமைச்சின் செயலாளர் அனில் ஜாசிங்க ஆகியோர் கொழும்பில் வைத்துக் கையெழுத்திட்டுள்ளனர்.
+The agreement was signed yesterday by Indian High Commissioner Santos Ja and Sri Lanka's Health Secretary Anil Jasinghe.
 
-இந்த திட்டம், இலங்கையின் சுகாதாரத்துறையில் இந்தியாவின் ஒத்துழைப்பு பட்டியலை நீடித்துள்ளதாக இந்திய உயர்ஸ்தானிகரம் தெரிவித்துள்ளது. (a)
+The Indian High Commission has said that the project has extended the list of cooperation in Sri Lanka's health sector.. (A)
 
 ◼️
 
 [Data](articles/ab4b5b6c.json)
+
+[Extended Data](ext_articles/ab4b5b6c.ext.json)
 
 ---
 
@@ -70,23 +72,27 @@ The project will address the critical requirement of an A&E unit at DGH Mannar, 
 
 ---
 
-### பிரித்தானியா, கனடா உள்ளிட்ட 6 நாடுகள் இணைந்து ஐ. நா. மனித உரிமைகள் பேரவையில் இலங்கை தொடர்பில் சமர்ப்பித்துள்ள புதிய பிரேரணை
+### 6 countries including Britain and Canada. Na. A new proposal submitted on Sri Lanka at the Human Rights Council
 
 *2025-09-10 08:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/224686) · `ta`
 
-பிரித்தானிய, கனடா, மலாவி, மொண்டெனீக்ரோ மற்றும் வடக்கு மாசிடோனியா ஆகிய நாடுகள் இணைந்து ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில், இலங்கை தொடர்பான ஒரு புதிய தீர்மான வரைவு (A/HRC/60/L.1) ஒன்றை சமர்ப்பித்துள்ளன.
+Britain, Canada, Malawi, Montenegro and Northern Macedonia, in the 60th session of the United Nations Human Rights Council, submitted a new resolution draft (A/HRC/60/L.1) on Sri Lanka.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60வது அமர்வில், ஐக்கிய இராச்சியம், கனடா, மலாவி, மொண்டெனீக்ரோ மற்றும் வடக்கு மாசிடோனியா ஆகிய நாடுகள் இணைந்து  இலங்கை தொடர்பான ஒரு புதிய தீர்மான வரைபை சமர்ப்பித்துள்ளன.
+At the 60th session of the United Nations Human Rights Council, the United Kingdom, Canada, Malawi, Montenegro and Northern Macedonia have submitted a new resolution on Sri Lanka.
 
-இந்தத் தீர்மானம், இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்துவதில் கவனம் செலுத்துகிறது.
+This resolution focuses on the development of reconciliation, accountability and human rights in Sri Lanka.
 
-2024 செப்டம்பர், நவம்பர், 2025 மே மாதங்களில் நடைபெற்ற ஜனாதிபதி, பாராளுமன்ற மற்றும் உள்ளூராட்சித் தேர்தல்களைத் இந்த தீர்மானம் வரவேற்றுள்ளது.
+The resolution welcomed the President, Parliament and Local Government elections held in September, November and 2025.
 
-அத்துடன், ஊழல் மற்றும் பொருளாதார முறைகேடுகளுக்குப் பொறுப்புக்கூற அரசாங்கம் எடுத்துள்ள நடவடிக்கைகளையும் அது அங்கீகரித்துள்ளது.
+It has also recognized the government's measures to take accountability of corruption and economic abuse.
+
+The resolution emphasizes that complete accountability for human rights violations and abuse of Sri Lanka, including all sides, especially the LTTE (LTTE), is essential.
 
 ...
 
 [Data](articles/36e1449e.json)
+
+[Extended Data](ext_articles/36e1449e.ext.json)
 
 ---
 

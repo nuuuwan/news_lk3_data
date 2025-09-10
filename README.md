@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 05:05:34**
+As of **2025-09-11 04:54:23**
 
 ## Newspaper Stats
 
-*Scraped **75,260** Articles*
+*Scraped **75,258** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 767
+colombotelegraphcom | 765
 economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,779 (88.7%) of 75,260 articles have been extended.
+66,779 (88.7%) of 75,258 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,22 +244,6 @@ Tasun Eranga Wickremaratne, who represented the first two independent groups, sa
 
 ---
 
-### Press Junket: Sri Lankan Journalists Visiting Israel
-
-*2025-09-10 22:48:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/press-junket-sri-lankan-journalists-visiting-israel/) · `en`
-
-Settler colonial state of Israeli presence in Sri Lanka threatens communal harmony and national security besides insults the island which was in the forefront in the regional and international forums defending the legitimate rights of Palestinians.
-
-Most Sri Lankans are not familiar with the blood soaked history of Israel as mainstream local media, perhaps under US- Israeli influence, refuses to highlight Israeli crimes. Shameful state of affairs is such that Prime Minister Benjamin Netanyahu was declared by International Criminal Court as a war criminal who has taken the whole world to
-
-There was no Israel before 1948. It was Palestine which was part of vast Turkey’s Ottoman Empire- spanned from around 1299 to 1922. During World War I  Turkey was defeated and the victorious Britain and France brought the entire Arab world under their control.
-
-...
-
-[Data](articles/f90579fb.json)
-
----
-
 ### Students issue the students to enter the entry for intermediate series of schools
 
 *2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
@@ -271,18 +255,6 @@ The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grad
 [Data](articles/dfbc9292.json)
 
 [Extended Data](ext_articles/dfbc9292.ext.json)
-
----
-
-### Constitutional Traps & Professional Responsibility: Reflections On Sri Lanka’s Aragalaya
-
-*2025-09-10 22:24:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/constitutional-traps-professional-responsibility-reflections-on-sri-lankas-aragalaya/) · `en`
-
-This article serves as a reflection on the Aragalaya movement that swept across Sri Lanka, examining the complex dynamics that emerged when mass popular mobilization intersected with established professional communities. The Aragalaya, which began as a response to severe economic crisis and governance failures, revealed important questions about institutional reform, professional responsibility, and the structural frameworks within which legal, academic, and media professional institutions operate. Through analyzing the responses of these professional communities during this critical period, we can better understand the challenges of institutional reform and the role of professional expertise in times of social transformation.
-
-...
-
-[Data](articles/415931dc.json)
 
 ---
 
@@ -2013,5 +1985,43 @@ The former president said the situation in Kathmandu “should not have gone thi
 [Data](articles/4ef84560.json)
 
 [Extended Data](ext_articles/4ef84560.ext.json)
+
+---
+
+### Former Moratuwa Mayor Saman Lal Fernando arrested
+
+*2025-09-10 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112352/former-moratuwa-mayor-saman-lal-fernando-arrested-) · `en`
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been arrested.
+
+He has been arrested by officers attached to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 12:50 p.m. today (10).
+
+The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
+
+He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando is scheduled to be produced before the Colombo Chief Magistrate today, the Bribery Commission stated.
+
+◼️
+
+[Data](articles/d4fb06c5.json)
+
+[Extended Data](ext_articles/d4fb06c5.ext.json)
+
+---
+
+### Former former Moratuwa Mayor arrested
+
+*2025-09-10 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214400) · `si`
+
+Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Investigation Commission.
+
+It is reported that the road development projects in the Moratuwa Municipal Council have been arrested for their losses.
+
+◼️
+
+[Data](articles/96ab9c13.json)
+
+[Extended Data](ext_articles/96ab9c13.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 14:22:10**
+As of **2025-09-10 14:11:18**
 
 ## Newspaper Stats
 
-*Scraped **75,146** Articles*
+*Scraped **75,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,285
+adalk | 7,284
 adaderanalk | 9,630
 tamilmirrorlk | 11,215
 virakesarilk | 12,260
@@ -26,25 +26,23 @@ adaderanasinhalalk | 13,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,027 (87.9%) of 75,146 articles have been extended.
+66,003 (87.8%) of 75,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### Former former Moratuwa Mayor arrested
+### මොරටුව හිටපු නගරාධිපති අත්අඩංගුවට
 
 *2025-09-10 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214400) · `si`
 
-Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Investigation Commission.
+මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන්ලාල් ප්‍රනාන්දු මහතා අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-It is reported that the road development projects in the Moratuwa Municipal Council have been arrested for their losses.
+මොරටුව මහ නගර සභාවේ මාර්ග සංවර්ධන ව්‍යාපෘති සිය හිතවතුන්ට ලබාදීමෙන් රජයට පාඩුකිරීම සම්බන්ධයෙන් වන චෝදනාවකට මෙලෙස අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
 
 ◼️
 
 [Data](articles/96ab9c13.json)
-
-[Extended Data](ext_articles/96ab9c13.ext.json)
 
 ---
 
@@ -312,26 +310,6 @@ Police said the police said they were arrested on charges of negligence in maint
 
 ---
 
-### දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂකට හදිසි ස්ථාන මාරුවක්
-
-*2025-09-10 11:13:46* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-මූලස්ථාන-පොලිස්-පරීක්ෂකට-හදිසි-ස්ථාන-මාරුවක්/11-418402) · `si`
-
-දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක වසන්ත කුමාර මහතා පරීක්ෂණයක් සඳහා වහාම ක්‍රියාත්මක වන පරිදි 09 දින සිට මිගමුව පොලිස් කොට්ඨාසයට ස්ථාන මාරු  කිරීමට ජාතික පොලිස් කොමිෂන් සභාව සහ පොලිස්පතිවරයාගේ අත්සනින් යුතුවෙන් දන්වා එවා තිබේ.
-
-මීට වසර එකහමාරකට පමණ ඉහතදී දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස වසන්ත කුමාර මහතා   වැඩ භාරගෙන තිබිණි
-
-පසුගිය අරගල සමයේ අත්තනෝමතික ලෙස  ස්ථාන  මාරු කිරීමක් සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයේ නඩුවක් ගොනුකොට එහි තීන්දුවක් අනුව ප්‍රධාන පොලිස් පරීක්ෂක වසන්ත කුමාර මහතා දඹුල්ල පොලිසියේ මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස පත්වීම් ලැබ පැමිණි අයෙකි.
-
-වසන්ත මහතාගෙන් පුරප්පාඩුවන දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක ධුරය සඳහා  පුඩලුඔය  පොලිසියේ ස්ථානාධිපති ලෙස සේවය කල ප්‍රධාන පොලිස් පරීක්ෂක සුගත් බණ්ඩාර විජේසුන්දර මහතා පත් කොට තිබේ.
-
-ඒ අනුව ඔහුට 11 දින දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස නව ධූරයේ වැඩබාර ගැනීමට නියමිතව තිබේ.
-
-◼️
-
-[Data](articles/6df165fe.json)
-
----
-
 ### Airlines canceled between Sri Lanka and Nepal
 
 *2025-09-10 11:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாளம்-இடையில்-விமானச்-சேவைகள்-ரத்து/175-364331) · `ta`
@@ -424,25 +402,23 @@ Prime Minister Donald Tusk confirmed a military response operation was underway 
 
 ---
 
-### Medical doctor for sale in Teldeniya Hospital
+### තෙල්දෙණිය රෝහලේ වෛද්‍යවරයෙක් අත්අඩංගුවට
 
 *2025-09-10 11:00:34* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්දෙණිය-රෝහලේ-වෛද්‍යවරයෙක්-අත්අඩංගුවට/11-418401) · `si`
 
-A doctor was arrested in the hospital, a doctor was arrested by the Dummy Superintendent of the Teldeniya Hospital and the staff of the staff.
+තෙල්දෙණිය රෝහලේ වෛද්‍ය අධිකාරිවරයාට සහ  කාර්ය මණ්ඩලයේ රාජකාරියට බාධා වන අයුරින් හැසිරුන බව කියන එම රෝහලේම වෛද්‍යවරයකු අත්අඩංගුවට ගත් බව තෙල්දෙණිය පොලිසිය කියයි.
 
-According to a complaint lodged by the police, Sunil Senarath Yapa has been arrested on a complaint extended by the police at the Teldeniya Hospital.
+තෙල්දෙණිය රෝහලේ වෛද්‍ය අධිකාරි සුනිල් සෙනරත් යාපා මහතා විසින් පොලිසියට සිදු කරන ලද පැමිණිල්ලකට අනුව එම වෛද්‍යවරයා සැකපිට අත්අඩංගුවට ගෙන තිබේ.
 
-The police say that the accusation and threat of the hospital will interfere with the duties of the hospital staff.
+රෝහල් කාර්ය මණ්ඩලයේ රාජකාරියට බාධා වන අයුරින් හැසිරීම සහ තර්ජනය කිරීම යන චෝදනා පැමිණිල්ලේ සඳහන් වන බව පොලිසිය කියයි.
 
-The arrested doctor is being released on bail after the suspect, who was taken into court and was produced before courts on 22.08.2012, police said.
+සැකපිට අත්අඩංගුවට ගත් වෛද්‍යවරයා මීට පෙරදීද රෝහල් කාර්ය මණ්ඩලයේ රාජකාරියට බාධාවන අයුරින් හැසිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු 2025.08.22 දින ඇප මත නිදහස්ව ඇති අයෙකු බවද පොලිසිය කියයි.
 
-The arrested doctor was to be produced before the Teldeniya Magistrate's Court today.
+අත්අඩංගුවට පත් වෛද්‍යවරයා අද (10) තෙල්දෙණිය මහේස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
 
 ◼️
 
 [Data](articles/7b01b514.json)
-
-[Extended Data](ext_articles/7b01b514.ext.json)
 
 ---
 
@@ -1999,5 +1975,23 @@ Public Consultation on the Third Electricity Tariff Revision – 2025
 [Data](articles/48035e4e.json)
 
 [Extended Data](ext_articles/48035e4e.ext.json)
+
+---
+
+### Resolution on agreement between Sri Lanka and UAE passed in Parliament
+
+*2025-09-09 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112334/resolution-on-agreement-between-sri-lanka-and-uae-passed-in-parliament) · `en`
+
+The resolution on the agreement between Sri Lanka and the United Arab Emirates has been passed in Parliament today (09) with a majority of 163 votes.
+
+The Speaker informed the House that the proposal was passed with a special majority.
+
+No votes were cast against the resolution, and no one abstained from voting either, according to the Department of Communication of Parliament.
+
+◼️
+
+[Data](articles/d8959a01.json)
+
+[Extended Data](ext_articles/d8959a01.ext.json)
 
 ---

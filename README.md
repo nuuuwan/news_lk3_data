@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 05:56:28**
+As of **2025-09-10 06:21:17**
 
 ## Newspaper Stats
 
-*Scraped **75,076** Articles*
+*Scraped **75,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,272
 adaderanalk | 9,619
 tamilmirrorlk | 11,191
 virakesarilk | 12,257
-adaderanasinhalalk | 13,076
+adaderanasinhalalk | 13,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,668 (87.5%) of 75,076 articles have been extended.
+65,668 (87.5%) of 75,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-09-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214384) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (10) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, නැගෙනහිර සහ ඌව පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/79f8b21c.json)
+
+---
 
 ### Nepal Parliament set on fire after PM quits amid anti-corruption protests
 
@@ -2007,23 +2023,5 @@ Accordingly, the Cabinet also approved the President’s proposal to publish the
 [Data](articles/02089f4a.json)
 
 [Extended Data](ext_articles/02089f4a.ext.json)
-
----
-
-### Customs inspected and released the ice containers found in the Middeni
-
-*2025-09-09 13:17:58* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනි​යෙන්-සොයා-ගත්-අයිස්-කන්ටේනර්-රේගුවෙන්-පරික්ෂා-කර-නිදහස්-කරලා-තිබෙන්නේ/11-418382) · `si`
-
-Cabinet spokesperson Dr. Nalinda Jayatissa said that the Customs 2 was discovered in the Ice Drugs Factor in Middeniya.
-
-He was responding to a question referred to a question referred to today at a press conference to notice the Cabinet Decision.
-
-"This containers inspected as customs. The Department of Customs is now conducting an investigation on irregularities. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැත්තෙනුත් පරීක්ෂණයක් කරමින් පවතිනවා. So we can release these containers with plans to take care of and release all things, including what happened. "
-
-◼️
-
-[Data](articles/44c25862.json)
-
-[Extended Data](ext_articles/44c25862.ext.json)
 
 ---

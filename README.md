@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 19:20:22**
+As of **2025-09-10 19:10:59**
 
 ## Newspaper Stats
 
-*Scraped **75,222** Articles*
+*Scraped **75,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,53 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 764
-economynextcom | 4,564
+economynextcom | 4,563
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
 adalk | 7,293
 adaderanalk | 9,648
-tamilmirrorlk | 11,234
+tamilmirrorlk | 11,233
 virakesarilk | 12,263
-adaderanasinhalalk | 13,106
+adaderanasinhalalk | 13,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,283 (88.1%) of 75,222 articles have been extended.
+66,283 (88.1%) of 75,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
-
-### சப்புகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையத்தில் தீ
-
-*2025-09-10 19:05:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-எண்ணெய்-சுத்திகரிப்பு-நிலையத்தில்-தீ/175-364370) · `ta`
-
-சப்புகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையத்தில் தீ விபத்து ஏற்பட்டுள்ளதாக தீயணைப்பு படை தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/039b1bfb.json)
-
----
-
-### සපුගස්කන්ද තෙල් පිරිපහදුවේ තෙල් ටැංකියක ගින්නක්
-
-*2025-09-10 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214415) · `si`
-
-සපුගස්කන්ද තෙල් පිරිපහදුවට අයත් තෙල් ටැංකියක අද (10) පස්වරුවේ ගින්නක් ඇතිව තිබේ.
-
-සපුගස්කන්ද පොලිසිය පැවසුවේ ගින්න මැඬපැවැත්වීම සඳහා ගිනි නිවීම් ඒකක යුහුසුළුව කටයුතු කරමින් සිටින බවය.
-
-ඉන්ධන ඉවත් කළ තෙල් ටැංකියක අලුත්වැඩියා කටයුත්තක් අතරතුර ගින්න හටගෙන ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/1af9c47e.json)
-
----
 
 ### World Bank commends the progress of the Sri Lankan economy
 
@@ -867,30 +839,6 @@ An issue of Rs.155,000 million Treasury Bonds is scheduled tomorrow. (Colombo/Se
 [Data](articles/a070cb81.json)
 
 [Extended Data](ext_articles/a070cb81.ext.json)
-
----
-
-### Sri Lanka sells less than offered treasury bills, as bill yields fixed
-
-*2025-09-10 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-as-bill-yields-fixed-240000/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 59.17 billion rupees of Treasury bills, of an offered 77 billion, with yields mostly flat across maturities, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.58 percent, with 12 billion rupees of bills offered and 5.18 billion sold.
-
-The 6-month yield was unchanged at 7.89 percent, with 40 billion rupees offered and 48,17 billion sold.
-
-The 12-month yield was down 1 basis point at 8.02 percent with 25 billion rupees offered and 5,81 billion rupees bills sold.
-
-All three bills are available on tap at the weighted average yield.
-
-Last week there were no takers for the post auction tap issue.
-
-An issue of Rs.155,000 million Treasury Bonds is scheduled tomorrow. (Colombo/Sep10/2025)
-
-◼️
-
-[Data](articles/a434f985.json)
 
 ---
 
@@ -1973,5 +1921,65 @@ Reports indicate that the public is largely complying with these directives, the
 [Data](articles/6756b48b.json)
 
 [Extended Data](ext_articles/6756b48b.ext.json)
+
+---
+
+### 73 Sri Lankan pilgrims await departure at India–Nepal border: Foreign Ministry
+
+*2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-await-departure-at-indianepal-border-foreign-ministry-) · `en`
+
+The Sri Lankan Embassy in Kathmandu has provided an update on the status of Sri Lankans in Nepal amidst the ongoing situation, the Foreign Ministry stated.
+
+A group of 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, is currently at the India–Nepal border preparing to depart Nepal, the ministry spokesman said.
+
+Embassy officials have directly engaged with Nepalese immigration authorities to expedite the necessary procedures, as the system is reportedly not functioning normally.
+
+The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
+
+Reports indicate that the public is largely complying with these directives, the spokesman added.
+
+◼️
+
+[Data](articles/fbc4685d.json)
+
+[Extended Data](ext_articles/fbc4685d.ext.json)
+
+---
+
+### Steps to remove a group of Sri Lankan pilgrims visited in Lumbini
+
+*2025-09-10 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214392) · `si`
+
+The Ministry of External Affairs says all Sri Lankans in Nepal are safe.
+
+The Ministry also said that 73 Sri Lankan pilgrims to Lumbini in Nepal to Nepal from the land road.
+
+The Ministry of External Affairs further stated that although there is a system error, it will be coordinated with the Nepali migrant authorities.
+
+◼️
+
+[Data](articles/719b79d7.json)
+
+[Extended Data](ext_articles/719b79d7.ext.json)
+
+---
+
+### The 35 -year commemoration of the genocide.
+
+*2025-09-10 10:11:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டு-சத்துருக்கொண்டான்-இனப்படுகொலையின்-35-ஆண்டு-நினைவேந்தல்/175-364326) · `ta`
+
+On Tuesday evening (9), the flame was lit by a flame and paid a two -minute silent tribute to the 35th anniversary of the genocide of Batticaloa.
+
+On September 9, 1990, 186 people, including the army and the children of the Kayts, were taken to the Pois Roun Army Camp area, such as Satturukondan, Pillaiyaradi and Snowyadi.
+
+The Municipal Council Chief Minister Sivam Bhagiyanathan, Deputy Chief Minister P. Ariyanethran, former Municipal Council Chief Minister R. Saravanabhavan, and Municipal Council members were also present.
+
+Following this, four people from four villages joined the public flame and demanded an international judicial inquiry through the media to carry out an excavation work after a two -minute silent tribute to the souls of the flames.
+
+◼️
+
+[Data](articles/5c9b262e.json)
+
+[Extended Data](ext_articles/5c9b262e.ext.json)
 
 ---

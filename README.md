@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 12:13:09**
+As of **2025-09-10 12:38:24**
 
 ## Newspaper Stats
 
-*Scraped **75,131** Articles*
+*Scraped **75,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,117 +16,191 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,280
+adalk | 7,282
 adaderanalk | 9,627
-tamilmirrorlk | 11,212
+tamilmirrorlk | 11,213
 virakesarilk | 12,260
-adaderanasinhalalk | 13,089
+adaderanasinhalalk | 13,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,918 (87.7%) of 75,131 articles have been extended.
+65,944 (87.8%) of 75,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### பம்பலப்பிட்டியில் சிறுவனின் சடலம் மீட்பு
+### ප්‍රචණ්ඩක්‍රියා හමුවේ බන්ධනාගාර රැ﻿ඳවියන් 900ක් පලාගිහින්
+
+*2025-09-10 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214397) · `si`
+
+උත්සන්න වී ඇති ප්‍රචණ්ඩක්‍රියා හමුවේ බටහිර නේපාලයේ පිහිටි බන්ධනාගාර දෙකක රැඳවියන් 900ක් පමණ පලා ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/ebd69c03.json)
+
+---
+
+### ඇල්ලේ අනතුරට බස් රථයේ තිරිංග දෝෂයක්, පල්ලමේ 4 වැනි ගියරයේ බස් රථය ධාවනය කරලා
+
+*2025-09-10 11:58:32* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-බස්-රථයේ-තිරිංග-දෝෂයක්--පල්ලමේ-4-වැනි-ගියරයේ-බස්-රථය-ධාවනය-කරලා/11-418405) · `si`
+
+ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 12 කනුව ප්‍රදේශයේ දී 15 කට මරු කැදවා 18 කට තුවාල සිදුකරමින් අඩි දහසක පමන ප්‍රපාතයකට පෙරලී අනතුරට පත් විනෝද චාරිකා බස්‍  රථයේ අනතුරට හේතුව වශයෙන් බසයෙ තිරිංග පද්ධතියේ දෝශයක් මෙන්ම රියැදුරු බසය අධික පල්ලමේ හතරවන ගියරයේ ධාවනය කර ඇති බවට මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ විශේශ්‍ය කකණ්යමක් විසින්  දැනට සිදු කර ගෙන යන පරීක්ෂන කටයුතු වලින් අනාවරණය වී ඇත.
+
+තංගල්ල නගර සභා සේවක පිරිසක් සිය පවුලේ උදවිය සමග නුවරඑළිය විනෝද චාරිකාවක ගොස් ආපසු තංගල්ල බලා ගමන් කරමින් සිටියදි ඉකුත් 4 වනදින රාත්‍රි ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 12 කනුව ප්‍රදේශයේ දී  අඩ් දහහසක පමන ප්‍රපාතයකට පෙරලීයාමෙන් මෙම අනතුර සිදුවිය.
+
+මෙම අනතුරින් තංගල්ල නගර සභාවේ ලේකම්වරයා , බස්‍ රථයේ රියැදුරු ඇතුලු 15 දෙනකු මරුමුවට පත් වූ අතර 18ක් තුවාල ලබා බදුල්ල ශික්ශන රෝහලට ඇතුලත් කරනු ලැබූහ .
+
+එම තුවාලකරුවන් ගෙන් දැනට හයදෙනෙකු මේවනවිටත් බදුල්ල ශික්ශන රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් පසුවෙති .
+
+...
+
+[Data](articles/a413361f.json)
+
+---
+
+### The body of the boy in Bambalapitiya
 
 *2025-09-10 11:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-சிறுவனின்-சடலம்-மீட்பு/175-364338) · `ta`
 
-பம்பலப்பிட்டி ரயில் நிலையத்திற்கு அருகிலுள்ள கடற்கரையில் இன்று (10) காலை ஒரு வயது சிறுவனின் சடலம் கரை ஒதுங்கியது. கொள்ளுப்பிட்டி கடலில் ஞாயிற்றுக்கிழமை (7) மாலை 3.30 மணியளவில் கடலில் விழுந்து ஒரு வயது மற்றும் இரண்டு மாதக் குழந்தை காணாமல் போனதாகக்கூறப்படும் சிறுவனின் சடலமாக இருக்கலாமென கூறப்படுகின்றது
+The body of an elderly boy was left on the shore near the Bambalapitiya railway station this morning (10). It is said that the body of a boy who was reported missing at the Kaluppitti Sea at 3.30 pm on Sunday (7).
 
-கொள்ளுப்பிட்டி கடலில் ஞாயிற்றுக்கிழமை (7) மாலை 3.30 மணியளவில் கடலில் விழுந்து ஒரு வயது மற்றும் இரண்டு மாதக் குழந்தை காணாமல் போனதாக கொள்ளுப்பிட்டி பொலிஸார் தெரிவித்தனர்.
+Kaluppitti police said that one year old and two -month -old baby fell into the sea at around 3.30 pm on Sunday (7) at Kaluppitti Sea.
 
-கடலில் விழுந்த தாய் மீட்கப்பட்டார். மூச்சு விடுவதில் சிரமம் ஏற்பட்டதால் கொழும்பு தேசிய மருத்துவமனையில் அவர் அனுமதிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+The mother who fell into the sea was rescued. He was admitted to the Colombo National Hospital due to difficulty breathing, police said.
 
-கணவருடனான தகராறில், அந்தப் பெண் தனது குழந்தையுடன் வெலிமடைப் பகுதியிலிருந்து கொள்ளுப்பிட்டிக்கு வந்ததாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+Police investigations have revealed that the woman came to Kalupitiya with her baby in the Welimada area during a dispute with her husband.
 
-அந்தப் பெண்ணின் கணவர் நுவரெலியா பகுதியில் உள்ள ஒரு பொலிஸ் நிலையத்தில் பணிபுரியும் ஒரு பொலிஸ் அதிகாரி என்பது தெரியவந்துள்ளது.
+The woman's husband is a police officer working at a police station in Nuwara Eliya.
 
-...
+Police are conducting further investigations to determine whether the woman attempted suicide by jumping into the sea with the child or whether the woman threw her baby into the sea.
+
+◼️
 
 [Data](articles/4cf424b9.json)
 
+[Extended Data](ext_articles/4cf424b9.ext.json)
+
 ---
 
-### கொழும்பு மத்திய பேருந்து முனையம் நாளை முதல் மூடப்படும்
+### Colombo Central Bus Terminal will be closed tomorrow
 
 *2025-09-10 11:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்திய-பேருந்து-முனையம்-நாளை-முதல்-மூடப்படும்/175-364336) · `ta`
 
-கொழும்பில் உள்ள மத்திய பேருந்து முனையம் நாளை (11) முதல் 10 மாத காலத்திற்கு புனரமைப்பு பணிகளுக்காக மூடப்படும் என்று இலங்கை போக்குவரத்து சபை  (SLTB)  அறிவித்துள்ளது.
+The Sri Lanka Transport Board (SLTB) has announced that the Central Bus Terminal in Colombo will be closed for the reconstruction work for 10 months from tomorrow (11).
 
-புனரமைப்பு முன்னெடுக்கப்படும் காலத்தில், புறக்கோட்டை, போதிராஜ மாவத்தை, குணசிங்கபுர மற்றும் பெஸ்டியன் மாவத்தை ஆகிய இடங்களில் இருந்து இலங்கை போக்குவரத்து சபையின் பேருந்துகள் இயக்கப்படும் என்று இலங்கை போக்குவரத்து சபையின் பிரதி பொது மேலாளர் பி.எச்.ஆர்.டி. சந்திரசிறி தெரிவித்தார்.
+The Sri Lanka Transport Board (SLTB) Deputy General Manager of the Sri Lanka Transport Board (PHRT) said that the buses of the Sri Lanka Transport Board (SLTB) will be operated from Pettaraja Mawatha, Gunasingapura and Bestian Mawatha during the reconstruction of the reconstruction.. Chandrasiri said.
 
-ஒருங்கிணைந்த கால அட்டவணையின் கீழ் உள்ளவை உட்பட நீண்ட தூர பேருந்துகள் பெஸ்டியன் மாவத்தை பேருந்து பணிமனையில் இருந்து இயக்கப்படும், அதே நேரத்தில் குறுகிய தூர பேருந்துகள் போதிராஜ மாவத்தையில் இருந்து இயக்கப்படும்.
+Long -distance buses, including under the integrated schedule, will be operated from the Bestian Mawatha Bus Workshop, while short -distance buses will be operated from Bodhiraja Mawatha.
 
-புனரமைப்பு பணிகள் அரசாங்கத்தின் தூய்மையான இலங்கை தேசிய திட்டத்தின் ஒரு பகுதியாகும் என்று இலங்கை போக்குவரத்து சபையின் பிரதி பொது மேலாளர் இந்திக சண்டிமால் கூறினார். ஒரு வருடத்திற்குள் முடிக்க எதிர்பார்க்கப்படும் இந்த திட்டத்திற்காக கிட்டத்தட்ட ரூ. 540 மில்லியன் ஒதுக்கப்பட்டுள்ளது என்றும் அவர் கூறினார்.
+The Deputy General Manager of the Sri Lanka Transport Board (SLTB). For this project, which is expected to be completed within one year. 540 million has been allocated, he said.
 
-...
+The reconstruction project will be officially launched on September 15 under the leadership of President Anura Kumara Dissanayake.
+
+◼️
 
 [Data](articles/b8eccf30.json)
 
+[Extended Data](ext_articles/b8eccf30.ext.json)
+
 ---
 
-### ලුම්බිණියට ගිය වන්දනාකරුවන් ආරක්ෂිතව ඉන්දියාවට
+### Pilgrims go to Lumbini safe to India
 
 *2025-09-10 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214396) · `si`
 
-ඉන්දියාවේ සිට නේපාලයේ ලුම්බිණිය බලා ගොස් සිටි ශ්‍රී ලාංකික වන්දනාකරුවන් 73 දෙනා ආරක්ෂිතව දේශ සීමාව හරහා ඉන්දියාවට ඇතුළු වූ බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+The 73 Sri Lankan pilgrims who were traveling to Lumbini from India to Lumbini have entered India safely through the border.
 
 ◼️
 
 [Data](articles/b9d70e7d.json)
 
+[Extended Data](ext_articles/b9d70e7d.ext.json)
+
 ---
 
-### நேபாளத்தில் இருந்து இலங்கையர்களை வெளியேற்றம்
+### Sri Lankans evacuating from Nepal
+
+*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்கள்-வெளியேற்றம்/175-364335) · `ta`
+
+Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
+
+In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
+
+In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
+
+According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
+
+Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
+
+Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
+
+...
+
+[Data](articles/3f7d004c.json)
+
+[Extended Data](ext_articles/3f7d004c.ext.json)
+
+---
+
+### Excretion of Sri Lankans from Nepal
 
 *2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்களை-வெளியேற்றம்/175-364335) · `ta`
 
-நாடு தழுவிய போராட்டங்கள் காரணமாக, தற்போது நேபாளத்தில் உள்ள 73 இலங்கை யாத்ரீகர்களை வெளியேற்றும் பணிகளில் ஈடுபட்டுள்ளதாக வெளியுறவு அமைச்சகம் தெரிவித்துள்ளது.
+Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
 
-ஆரம்பகால தொழில்நுட்ப சிக்கல்கள் இருந்தபோதிலும், யாத்ரீகர்களை வெளியேற்ற நேபாள அதிகாரிகளின் ஆதரவுடன் ஒருங்கிணைந்த முயற்சிகள் நடந்து வருவதாக அமைச்சகம் தெரிவித்துள்ளது.
+In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
 
-இன்று அதிகாலை, நேபாளத்தில் வசிக்கும் அனைத்து இலங்கையர்களும் பாதுகாப்பாக இருப்பதாகவும், எந்த பாதிப்பும் ஏற்பட்டதாக எந்த அறிக்கையும் இல்லை என்றும் வெளியுறவு அமைச்சகம் தெரிவித்துள்ளது.
+In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
 
-காத்மண்டுவில் உள்ள இலங்கை தூதரகத்தின்படி, நேபாளத்தில் 102 இலங்கையர்கள் உள்ளனர், அவர்களில் 22 மாணவர்கள், பிற குடியிருப்பாளர்கள் மற்றும் தூதரக ஊழியர்கள் அடங்குவர்.
+According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
 
-தூதரக அதிகாரிகள் வட்ஸ்அப் குழுக்கள் மற்றும் தனிப்பட்ட வலையமைப்புகள் மூலம் சமூகத்துடன் நேரடி தொடர்பில் இருந்து அவர்களின் பாதுகாப்பைக் கண்காணித்து வருகின்றனர்.
+Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
+
+Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
 
 ...
 
 [Data](articles/e794c35b.json)
 
+[Extended Data](ext_articles/e794c35b.ext.json)
+
 ---
 
-### ஐஸ்வர்யா ராய் வழக்கு
+### Aishwarya Rai case
 
 *2025-09-10 11:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஐஸ்வர்யா-ராய்-வழக்கு/54-364333) · `ta`
 
-செயற்கை நுண்ணறிவு மூலம் உருவாக்கப்பட்ட தனது புகைப்படங்கள் தவறாகப் பயன்படுத்தப் படுவதாகவும் அதை அனுமதியின்றி பயன்படுத்த தடை விதிக்கக் கோரியும் டெல்லி உயர் நீதிமன்றத்தில் நடிகை ஐஸ்வர்யா ராய் வழக்குத் தொடர்ந்துள்ளார்.
+Actress Aishwarya Rai has filed a case in the Delhi High Court seeking a ban on the use of her photos by artificial intelligence and the use of it without permission.
 
-இது தொடர்பாக அவருடைய வழக்கறிஞர் சந்தீப் சேத்தி தாக்கல் செய்த வழக்கில், “மார்பிங் செய்யப்பட்ட ஐஸ்வர்யா ராயின் புகைப்படங்கள் ஆன்லைனில் தவறாகப் பயன்படுத்தப்பட்டு வருகின்றன. அவை செயற்கை நுண்ணறிவால் உருவாக்கப்பட்ட புகைப்படங்கள். அவருடைய முகத்தை காபி குவளைகள், வால்பேப்பர்கள், டி-சர்ட்களிலும் பயன்படுத்தி வியாபாரம் செய்கின்றனர். போலியாக உருவாக்கப்பட்ட சில நெருக்கமான புகைப்படங்கள், ஆபாச நோக்கங்களுக்காகப் பயன்படுத்தப்படுவது துரதிர்ஷ்டவசமானது.
+In a case filed by his lawyer Sandeep Sethi, he said, “Photos of Aishwarya Rai, Morning Aishwarya Rai, are being misused online. They are photos made of artificial intelligence. His face is traded using coffee mugs, wallpapers, t-shirts. It is unfortunate that some close photos, which have been fake, are used for pornographic purposes.
 
-...
+This is the act of violating his rights. You have to impose an interim injunction immediately to implement it. ”. Delhi High Court Judge Dejas Karia has ordered the removal of 151 website connections stated in the complaint.. The next hearing of the case will be held on January 15, 2026.
+
+◼️
 
 [Data](articles/56a00260.json)
 
+[Extended Data](ext_articles/56a00260.ext.json)
+
 ---
 
-### எல்ல கோரம்: பஸ் உரிமையாளர் கைது
+### Ella Koram: Bus owner arrested
 
 *2025-09-10 11:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/எல்ல-கோரம்-பஸ்-உரிமையாளர்-கைது/76-364332) · `ta`
 
-எல்லவில் 15 பேரின் உயிரைப் பறித்த 17 பேரை கடும் காயங்களுக்கு உள்ளாக்கிய விபத்துடன் தொடர்புடைய பஸ்ஸின் உரிமையாளரை எல்ல பொலிஸார் கைது செய்துள்ளனர்.
+Ella police have arrested the owner of the bus in connection with the accident that killed 17 people who had taken the lives of 15 people.
 
-பஸ்ஸை சரியான நிலையில் பராமரிப்பதில் அலட்சியம் காட்டிய குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர், இது உயிரிழப்புக்கு காரணமாக இருக்கலாம் என்று நம்பப்படுகிறது. மேலும் விசாரணைகள் நடந்து வருகின்றன.
+Police said the police said they were arrested on charges of negligence in maintaining the bus.. Further investigations are underway.
 
 ◼️
 
 [Data](articles/8a2c9003.json)
+
+[Extended Data](ext_articles/8a2c9003.ext.json)
 
 ---
 
@@ -209,6 +283,28 @@ He said the no -confidence motion did not comply with the rules of the Constitut
 [Data](articles/80d39f36.json)
 
 [Extended Data](ext_articles/80d39f36.ext.json)
+
+---
+
+### Flights were ceremonial and Ratmambandy, Katunayake and Kathmandu
+
+*2025-09-10 10:40:34* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-හා-කත්මණ්ඩු-අතර-ගුවන්-ගමන්-නවතී/11-418398) · `si`
+
+The head of the SriLankanalical Communications Division, SriLankanaka Communications Division, has been appointed to the suspension from the 9/10th of September, Sri Lanka's Katunayaka and Kathmandu.
+
+Accordingly, the SriLankan Airlines UL, SriLankan Airlines, which was due to leave for Nattaka at the Bandaranaike International Airport on 09/10 am, was to be departured from the Bandaranaike International Airport - 181 flight has been canceled.
+
+This is due to the struggle of the country in Nepal and the struggles have also taken steps to raise the Prime Minister of the country as of 09/09.
+
+Under this situation, the Civil Aviation Authority has taken steps to close all internal and international airports in Nepal.
+
+The flights of these flights will be asked to call Sri Lankan Airlines in 1979 or inquiring from your travel agency.
+
+◼️
+
+[Data](articles/09b0500b.json)
+
+[Extended Data](ext_articles/09b0500b.ext.json)
 
 ---
 
@@ -1931,99 +2027,5 @@ There was no vote against the proposal and no one refused to vote.
 [Data](articles/70d7bb18.json)
 
 [Extended Data](ext_articles/70d7bb18.ext.json)
-
----
-
-### Does the Presidential Rights Bill target Mahinda?
-
-*2025-09-09 17:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-உரிமை-நீகக்-சட்டமூலம்-மஹிந்தவைக்-குறிவைக்கிறதா/175-364293) · `ta`
-
-Cabinet Media Spokesperson Dr. Nalinda Jayatissa today said that the Bill that revoked the President's rights was not introduced by former President Mahinda Rajapaksa.
-
-At a weekly meeting announcing the Cabinet decisions, he said the bill was draft to cover all former presidents and their spouses.
-
-Responding to the question of whether the date of removal of the former President Rajapakse from the residence, or whether it would be done after the bill, the minister said this.
-
-He said that after the bill was enacted as law, it would come into effect on their respective former presidents.
-
-“We hope that those who have acted as administrative leaders and worked in the Legislature will act according to the law after the bill was enacted by Parliament.
-
-We do not consider the date or time to remove them from their dwellings. We have passed the law. We hope they will act according to law and law, ”he said.
-
-◼️
-
-[Data](articles/99e1e2da.json)
-
-[Extended Data](ext_articles/99e1e2da.ext.json)
-
----
-
-### Minister's explanation on the release of ice container
-
-*2025-09-09 17:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-கொள்கலன்-விடுவிப்பு-குறித்து-அமைச்சர்-விளக்கம்/175-364290) · `ta`
-
-Minister Nalinda Jayadissa said that the two containers related to the production of Crystal Meetamatamine (ICE) have been released through the recognized customs process.
-
-“These containers were tested and released by customs. However, Customs have begun an investigation into potential gaps and irregularities, while the CIT is also investigating the matter. These investigations will determine whether the release of the container is planned in advance, ”he said.
-
-Responding to questions about the allegations involved in the Sri Lanka PA (SLPP), Jayatissa said the party had admitted the claims and had taken immediate action.
-
-"This is why we believe that the party membership of the two persons involved was immediately suspended," he said.
-
-The Minister noted that the SLPP member of Sampath Manamperi, a former local council member, was suspended, accused of having chemicals used in ice production.
-
-...
-
-[Data](articles/01397612.json)
-
-[Extended Data](ext_articles/01397612.ext.json)
-
----
-
-### “Are you afraid of a foreign mechanism?”
-
-*2025-09-09 17:20:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-பொறிமுறைக்கு-உங்களுக்கு-பயமா/175-364289) · `ta`
-
-The government should accept the foreign mechanism if there is no fear of the mind, said K. Koteeswaran, MP of the Sri Lanka Tamil National Alliance (TNA).
-
-He said this while addressing a debate on the mutual agreements between Sri Lanka and the United Arab Emirates in Parliament on Tuesday (09).
-
-The Sri Lankan government's Foreign Minister said that the UN Human Rights Council (UNHRC) was working in the domestic mechanism in the 60th session of the 60th session.. But the Commissioner has stated that the foreign mechanism is the best.
-
-However, we have lost faith in the domestic mechanism. Because every government has claimed the domestic mechanism. The genocide, the intelligence agencies, and its associated politicians will be protected. That is why the resolution should be implemented on the basis of foreign mechanisms in foreign sponsorship.
-
-Why you don't accept foreign mechanism. Are you afraid of this? You do not accept foreign affairs because you are afraid.
-
-...
-
-[Data](articles/db15dff7.json)
-
-[Extended Data](ext_articles/db15dff7.ext.json)
-
----
-
-### Government to buy 2000 new cabs
-
-*2025-09-09 17:19:54* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-අලුතෙන්-කැබ්-රථ 2000ක්-මිලට-ගන්න-යයි/11-418391) · `si`
-
-Cabinet spokesperson Dr. Nalinda Jayatissa says that a budget is aimed at development of budget presented in November.
-
-The Minister was speaking at a media briefing in the Cabinet Decision in the Government Information Department this morning.
-
-It is also expected that 2000 cabs are expected to be purchased by field officials, especially in regional development work.
-
-Remembered that the covid has commenced before the covid papers, which have been stopped before the corvs.
-
-They have identified such essential projects and reviewed their days, timely, and the relevant cost estimates.
-
-The Minister said that the proposals of their budget, as well as the Ministry of Ministries, has been submitted by the Provincial Council level.
-
-It also stated that the ministries have applied for the stability of the economy into the lives of the people and will be devoted to the budget.
-
-◼️
-
-[Data](articles/8a51ba88.json)
-
-[Extended Data](ext_articles/8a51ba88.ext.json)
 
 ---

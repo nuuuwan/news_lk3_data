@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 10:55:23**
+As of **2025-09-10 11:20:20**
 
 ## Newspaper Stats
 
-*Scraped **75,116** Articles*
+*Scraped **75,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,277
-adaderanalk | 9,625
-tamilmirrorlk | 11,205
+adalk | 7,279
+adaderanalk | 9,627
+tamilmirrorlk | 11,206
 virakesarilk | 12,260
 adaderanasinhalalk | 13,086
 
@@ -26,37 +26,101 @@ adaderanasinhalalk | 13,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,834 (87.6%) of 75,116 articles have been extended.
+65,848 (87.7%) of 75,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### ඇල්ලේ දී අනතුරට පත් බස්රථයේ හිමිකරු අත්අඩංගුවට
+### The no -confidence motion against Aruna was thrown
+
+*2025-09-10 10:42:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருணவுக்கு-எதிரான-நம்பிக்கையில்லாப்-பிரேரணை-வீசுப்பட்டது/175-364330) · `ta`
+
+Speaker Dr. Jagath Wickramaratne told Parliament today (10) that the no -confidence motion submitted by the opposition parties against Aruna Jayasekara is unacceptable.
+
+He said the no -confidence motion did not comply with the rules of the Constitution. However, the Speaker added that the proposal can be brought in a different form
+
+◼️
+
+[Data](articles/80d39f36.json)
+
+[Extended Data](ext_articles/80d39f36.ext.json)
+
+---
+
+### මොනරාගල සභාව මින් ඉදිරියට වෙන් නොකරන ලද කසළ භාර නොගනී
+
+*2025-09-10 10:31:41* · [`adalk`](https://www.ada.lk/breaking_news/මොනරාගල-සභාව-මින්-ඉදිරියට-වෙන්-නොකරන-ලද-කසළ-භාර-නොගනී/11-418397) · `si`
+
+මොනරාගල ප්‍රාදේශීය සභාව මඟින් මොනරාගල නගරය ඇතුළු නගරය ආශ්‍රිත මාර්ග වලින් බැහැර කරන කුණු කසළ දැනට මොනරාගල හොරම්බුවා සුදුවතුආර පාරේ කසල අංගනයේ එක් රැස් කරයි.
+
+එසේ කසළ බැහැර කිරීම නිසා පරිසරයට හානි සිදුවී ඇති අතර ඒ ආසන්නයේ පදිංචිකරුවන්ට විවිධ අපහසුතාවයන්ට මුහුණ පෑමට සිදුවී තිබේ.
+
+මීට පෙර සභාව මඟින් එකතු කරන ලද කැලි කසළ වෙන් කිරීමකින් තොරව මෙසේ බැහැර බැහැර කරන ලදි.
+
+පසුගිය පාලන කාලය තුළදී කැලි කසළ වලින් කාබනික පොහොර නිෂ්පාදනය සිදුකෙරෙනු අතර කැලි කසළ දිරන හා නොදිරන වශයෙන්  නොලැබීම නිසා පොහොර නිෂ්පාදන කටයුතු ඉතා සංකීර්ණ කටයුත්තක් බවට පත්වුණ අතර එම කසළ විශාල කුණු කන්දක් බවට පත්විය.
+
+මේ පිළිබඳව අවධානය යොමු කළ මොනරාගල ප්‍රාදේශීය සභාවේ සභාපති ජනක කුරුප්පු මහතා මින් ඉදිරියට වෙන් නොකරන ලද කුණු කසළ සභාව මඟින් භාර නොගැනීමටත් නොදිරන සහ දිරන ලෙස වෙන් වෙන් වශයෙන් කුණු කසල ප්‍රාදේශීය සභාවේ ට්‍රැක්ටර් රථ වලට ලබා දෙන ලෙසත් ඉල්ලා සිටි.
+
+...
+
+[Data](articles/2de6431f.json)
+
+---
+
+### The owner of the bus injured in Ella
 
 *2025-09-10 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214393) · `si`
 
-ඇල්ල - වැල්වාය මාර්ගයේ අනතුරට ලක්වූ බස් රථයේ හිමිකරුව අත්අඩංගුවට ගෙන තිබේ.
+The owner of the bus was arrested as the bus was not properly maintained due to the fall of the road.
+
+Bus to 15th kilometer in Ella-Wellawaya main road in Tangalle area was nearing the 24th kilometer in Falls.
+
+Tangalle Urban Council Secretary TW. K. Twenty Municipal Council and 12 Municipal Council were also killed.
 
 ◼️
 
 [Data](articles/0bf5e820.json)
 
+[Extended Data](ext_articles/0bf5e820.ext.json)
+
 ---
 
-### ලුම්බිණියට ගිය ශ්‍රී ලාංකික වන්දනාකරුවන් පිරිසක් ඉවත්කර ගැනීමට පියවර
+### 73 Sri Lankan pilgrims await departure at India–Nepal border: Foreign Ministry
+
+*2025-09-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112346/73-sri-lankan-pilgrims-await-departure-at-indianepal-border-foreign-ministry-) · `en`
+
+The Sri Lankan Embassy in Kathmandu has provided an update on the status of Sri Lankans in Nepal amidst the ongoing situation, the Foreign Ministry stated.
+
+A group of 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, is currently at the India–Nepal border preparing to depart Nepal, the ministry spokesman said.
+
+Embassy officials have directly engaged with Nepalese immigration authorities to expedite the necessary procedures, as the system is reportedly not functioning normally.
+
+The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
+
+Reports indicate that the public is largely complying with these directives, the spokesman added.
+
+◼️
+
+[Data](articles/fbc4685d.json)
+
+---
+
+### Steps to remove a group of Sri Lankan pilgrims visited in Lumbini
 
 *2025-09-10 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214392) · `si`
 
-නේපාලයේ සිටින සියලුම ශ්‍රී ලාංකිකයින් සුරක්ෂිත බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+The Ministry of External Affairs says all Sri Lankans in Nepal are safe.
 
-එමෙන්ම ගොඩබිම් මාර්ගයේ ඔස්සේ ඉන්දියාවේ සිට නේපාලයේ ලුම්බිණි බලා ගිය ශ්‍රී ලාංකික වන්දනාකරුවන් 73 දෙනෙකු ඉවත්කර ගැනීම සඳහා කටයුතු කරමින් සිටින බව ද එම අමාත්‍යාංශය සඳහන් කළේය.
+The Ministry also said that 73 Sri Lankan pilgrims to Lumbini in Nepal to Nepal from the land road.
 
-පද්ධති දෝෂයක් පැවතුන ද ඒ සඳහා නේපාල සංක්‍රමණික බලධාරීන් සමග සම්බන්ධීකරණය කරන බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කළේය.
+The Ministry of External Affairs further stated that although there is a system error, it will be coordinated with the Nepali migrant authorities.
 
 ◼️
 
 [Data](articles/719b79d7.json)
+
+[Extended Data](ext_articles/719b79d7.ext.json)
 
 ---
 
@@ -96,6 +160,24 @@ The MP stated that action will be taken to protect the democratic rights of the 
 
 ---
 
+### No-Confidence Motion against Dy Defence Minister can’t be accepted in present form - Speaker
+
+*2025-09-10 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112345/no-confidence-motion-against-dy-defence-minister-cant-be-accepted-in-present-form-speaker-) · `en`
+
+The Speaker of Parliament (Dr.) Jagath Wickramaratne today (10) informed the House that the No-Confidence motion submitted by the Opposition against Deputy Defence Minister Aruna Jayasekera is not in order and cannot be accepted in its present form.
+
+The Speaker stated that the motion was carefully considered in light of the provisions of the Constitution, the Standing Orders of Parliament, and established parliamentary practices.
+
+“I also studied the traditions and procedures followed in other Commonwealth and democratic legislatures, such as the UK House of Commons, India’s Lok Sabha, and Australia’s House of Representatives in this regard,” he said.
+
+“Under Articles 42, 43, and 44 of the Constitution of Sri Lanka, collective and individual ministerial responsibilities lie with Cabinet Ministers. A Deputy Minister, though a Member of Parliament, is not a member of the Cabinet and does not bear direct constitutional responsibility to this House in the present context.”
+
+...
+
+[Data](articles/95b91bf5.json)
+
+---
+
 ### Pradeshiya Sabha announces
 
 *2025-09-10 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/224693) · `ta`
@@ -126,19 +208,21 @@ From 8.30 am to 1.00 pm
 
 ---
 
-### ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් සුරකින්නේ නැතිනම් කථානායකට එරෙහිව විශ්වාසභංගයක්
+### If democratic rights are not saved, a no-confidence in the speaker
 
 *2025-09-10 09:57:46* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රජාතන්ත්‍රවාදී-අයිතිවාසිකම්-සුරකින්නේ-නැතිනම්-කථානායකට-එරෙහිව-විශ්වාසභංගයක්/11-418396) · `si`
 
-විපක්ෂයේ ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් සුරකින්නේ නැතිනම් කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට සිදු වන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
+MP Ranjith Maddumabandara said that the democratic rights of the opposition would not be saved against the Speaker.
 
-අරුණ ජයසේකර නියෝජ්‍ය අමාත්‍යවරයාට එරෙහිව ඉදිරිපත් කළ විශ්වාසභංග යෝජනාව පිළිගත නොහැකි බව කථානායකවරයා ප්‍රකාශ කිරීමෙන් පසු අද(10දා) පාර්ලිමේන්තුවේදී ඊට ප්‍රතිචාර දක්වමින් හෙතෙම මේ බව සඳහන් කළේය.
+After the Speaker said that the no-confidence motion presented against the Deputy Minister was not acceptable against the Deputy Minister, he said this to Parliament today (10).
 
-“සභානායකතුමා කිව්වා අපි කථානායකට විරුද්ධය විශ්වාසභංගයක් ගේනවා කියලා. තමුන්නාන්සේ(කථානායක) විපක්ෂයේ ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් රකින්නේ නැති නම් අපිට ඒක කරන්න සිද්ධ වෙනවා. ”
+"The Leader of the House said we would bring a no-confidence in an Speaker. If you do not have the democratic rights of the opposition, we have to do that. "
 
 ◼️
 
 [Data](articles/6beeec9b.json)
+
+[Extended Data](ext_articles/6beeec9b.ext.json)
 
 ---
 
@@ -161,6 +245,28 @@ The two are from the Bogawantalawa Siripura and Peppelton areas, said the Norwoo
 [Data](articles/70200e01.json)
 
 [Extended Data](ext_articles/70200e01.ext.json)
+
+---
+
+### ‍නේපාල පාර්ලිමෙන්තුවට ගිනි තබයි
+
+*2025-09-10 09:50:12* · [`adalk`](https://www.ada.lk/international/‍නේපාල-පාර්ලිමෙන්තුවට-ගිනි-තබයි/3-418395) · `si`
+
+නේපාලයේ දූෂණ විරෝධී රැළිවලට එක්වූ ක්‍රියාකාරීන් 19 ක් ඝාතනය වීමත් සමග උත්සන්න වූ නොසන්සුන්තාව
+
+හේතුවෙන් නේපාල අග්‍රාමාත්‍ය ශර්මා ඔලි සිය ධුරයෙන් ඉල්ලා අස්වි ති‍බේ.
+
+ඊයේ දිනයේදි විරෝධතාකරුවන් නේපාලයේ කත්මන්ඩු අගනුවර පවතින නේපාල පාර්ලිමේන්තු ගොඩනැගිල්ලට
+
+ගිල තැබීමට කටයුතු කරනු ලැබිය. එ‍සේම රජයේ කාර්යාලය මෙන්ම දේශපාලන නායකයන්ගේ ගෙවල්වලටද
+
+ඔවුන් ගිනි තැබීමට කටයුතු කරනු ලැබීය. අඟහරුවා දින මරණ තුනක් වාර්තා විය.
+
+විරෝධතාකරුවන් විසින් බන්ධනාගාර දෙකක් බිඳ දැමීම හේතුවෙන් එහි රඳවා සිටි රැඳවියන් 900ක් පමණ පැනගොස්
+
+◼️
+
+[Data](articles/d70d3cd7.json)
 
 ---
 
@@ -1937,111 +2043,5 @@ The police have informed the public on festival of the skies of the skills of th
 [Data](articles/2910b193.json)
 
 [Extended Data](ext_articles/2910b193.ext.json)
-
----
-
-### Nochchiyagama B Onion Onion Successful Despite the helpless
-
-*2025-09-09 16:51:43* · [`adalk`](https://www.ada.lk/breaking_news/නොච්චියාගම-බී-ලූණු-අස්වැන්න-සාර්ථක-වුවත්-ගොවීන්-අසරණයි/11-418387) · `si`
-
-Farmers cultivated big onions in Nochchiyagama have started harvest these days. Although their yields are very successful, they are deeply helpless without getting proper cost.
-
-Although the yield is successful, the sale of imported onions in the market cannot be obtained from low costs. Though the government imposed a tax on the onion onions, the farmers pointed out that it was not efficient.
-
-They highlighted the daily preparation, water preparation, water supply, disease, disease and insects of cultivation and profits for the administration of the day.
-
-The production of a kilo of onions is Rs.. The Farmers Farmers noted that if properly cost, the farmers' farmers said.
-
-The farmers have asked the government - the raid of the imported onions, the raid of the local B onions, can raid a safe marketplace, the local big onion farmer pointed out if the onion plant is performed from the beginning.
-
-◼️
-
-[Data](articles/52df5750.json)
-
-[Extended Data](ext_articles/52df5750.ext.json)
-
----
-
-### Removal of MP buddy is no salvation
-
-*2025-09-09 16:42:42* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීගේ-සාමාජිකත්වය-ඉවත්-කිර‍ිම-පමණක්-ප්‍රමණවත්-නෑ/11-418386) · `si`
-
-Cabinet press spokesman Dr. Nalinda Jayatissa said that he had been accused of allegedly arrested in drugs and the party's parties were not sufficient.
-
-He was speaking at a press conference to inform the Cabinet Decision in the Government Information Department today.
-
-The Minister said that the drug trafficking had taken place and to eliminate the smugglers, the government said that all the arrests should be determined by the state mechanism.
-
-Two persons belonging to Middeniya Kididi CPA Campaign have been accused of material and weapons related to ice drug. The party members of those people were abolished. But that is not only free. He was also identified as a suspect in connection with the murder of MP.
-
-The biggest thing to the People's Arose is what the person has been handed over to the police and assist the implementation of the legal. It is the responsibility of the party. The police are looking for him. The person will surely be arrested in the future. "
-
-...
-
-[Data](articles/c501c057.json)
-
-[Extended Data](ext_articles/c501c057.ext.json)
-
----
-
-### Capture 4 hand grenades in Eravur
-
-*2025-09-09 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/224645) · `ta`
-
-The Army Intelligence Unit has recovered 4 handguns in the wake of the excavation work with the police on Tuesday (09) in search of weapons buried in the old school land in the backyard of Batticaloa.
-
-According to information received by the Polonnaruwa Military Intelligence Unit, a court order was obtained from the excavation of the former Ahmed Pareed Vidyalaya at the Eravur Ottaballivasal Cross Road.
-
-The excavation work was carried out in the area today, led by Special Task Force and Military Intelligence Unit, led by Prasad Liyanage, the officer in charge of the Eravur Police Station.
-
-The JR variety has recovered 4 handguns as it was packed and buried in the plastic bucket.. Police have found that the bucket of bucket juice mixed with a packed bucket and the juice mixed in 2012 was safely buried in the land between 2012 and 2020 in 2014.
-
-...
-
-[Data](articles/33c7fd48.json)
-
-[Extended Data](ext_articles/33c7fd48.ext.json)
-
----
-
-### Showers in many parts of the island this night
-
-*2025-09-09 16:35:16* · [`adalk`](https://www.ada.lk/breaking_news/අද-රාත්‍රී-දිවයිනේ-බොහෝ-ප්‍රදේශවලට-වැසි/11-418385) · `si`
-
-The Department of Meteorology has issued an announcement for the coming of the island for the next 36 hours.
-
-Showers or thundershowers will occur at several places in the country, the Met Department said.
-
-There are several closes in the Western, Sabaragamuwa and North Western provinces and several closed in the Galle, Matara, Kandy and Nuwara Eliya Districts.
-
-In the Mullaitivu District, Uva, North-central and Eastern Provinces. Showers or thundershowers will occur at times after about 1.00. In some places mm. Heavy rains can occur in more than 50.
-
-◼️
-
-[Data](articles/74769e20.json)
-
-[Extended Data](ext_articles/74769e20.ext.json)
-
----
-
-### Sri Lanka to expand scope of controversial 1970s media control law
-
-*2025-09-09 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-scope-of-controversial-1970s-media-control-law-239864/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has decided to amend the country’s Press Council Act to expand scope of controversial 1970s media control law to electronic and online media, the government said.
-
-The Sri Lanka Press Council Act was introduced during Prime Minister Sirimavo Bandaranaike’s government and has long been viewed as a tool for controlling the country’s print media rather than promoting press freedom.
-
-The Act established the Press Council, a statutory body empowered to regulate newspapers, monitor journalistic practices, and enforce restrictions on reporting deemed to threaten national security, public order, or morality.
-
-It gave the Council sweeping powers, including the authority to summon editors, seize publications, and penalize journalists or publishers who violated its provisions.
-
-Critics argue that these provisions enable censorship under the guise of regulation, discouraging critical journalism and undermining the role of the press as a democratic watchdog.
-
-...
-
-[Data](articles/07f163f0.json)
-
-[Extended Data](ext_articles/07f163f0.ext.json)
 
 ---

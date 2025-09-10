@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 23:06:28**
+As of **2025-09-10 22:54:18**
 
 ## Newspaper Stats
 
-*Scraped **75,243** Articles*
+*Scraped **75,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,296
+adalk | 7,294
 adaderanalk | 9,653
 tamilmirrorlk | 11,237
 virakesarilk | 12,268
@@ -26,23 +26,11 @@ adaderanasinhalalk | 13,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,462 (88.3%) of 75,243 articles have been extended.
+66,462 (88.3%) of 75,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
-
-### පාසල්වල අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමේ චක්‍රලේඛය නිකුත් කරයි
-
-*2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
-
-පාසල්වල 2 ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා සිසුන් ඇතුළත් කිරීම (5 සහ 6 ශ්‍රේණි හැර) සඳහා සකස් කරන ලද 27/2025 චක්‍රලේඛය මේ වන විට නිකුත් කර ඇත , අධ්‍යාපන උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය මඟින් නිකුත් කර ඇති මෙම අංක 27/2025 චක්‍රලේඛය www.moe.gov.lk වෙබ් අඩවියට පිවිසීමෙන් ලබාගත හැක.
-
-◼️
-
-[Data](articles/dfbc9292.json)
-
----
 
 ### India beat India
 
@@ -229,22 +217,6 @@ Minister Herath provided a detailed explanation of Sri Lanka’s position on the
 [Data](articles/563d58ab.json)
 
 [Extended Data](ext_articles/563d58ab.ext.json)
-
----
-
-### ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත සම්මතයි
-
-*2025-09-10 19:44:10* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරුන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත-සම්මතයි/11-418413) · `si`
-
-“ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත් කිරීමේ)” පනත් කෙටුම්පත අද (10) පාර්ලිමේන්තුවේදී වැඩි ඡන්ද 150 කින් සම්මත විය. අද පෙ.ව 11.30 සිට එම පනත් කෙටුම්පත දෙවැනිවර කියවීමට අදාළ විවාදය පැවති අතර අනතුරුව ප.ව 3.30ට පමණ පැවති දෙවැනිවර කියවීමේ ඡන්ද විමසීමේදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 151 ක් හිමිවූ අතර විපක්ෂව ඡන්ද 1ක් හිමිවිය.
-
-අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යවරයා විසින් 2025 අගෝස්තු 07 වැනිදා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද මෙම පනත් කෙටුම්පත 1986 අංක 4 දරන ජනාධිපතිවරයන්ගේ හිමිකම් පනත ඉවත් කිරීම සඳහා වූ පනත් කෙටුම්පතකි.
-
-මේ අනුව ඉවත් කරන ලද පනතේ 2 වන වගන්තියේ විධිවිධාන ප්‍රකාරව හිටපු ජනාධිපතිවරයකුට හෝ හිටපු ජනාධිපතිවරයකුගේ වැන්දඹුවට සපයන ලද යම් නිවසක් හෝ ගෙවන ලද යම් මාසික දීමනාව; ඉවත් කරන ලද පනතේ 3 වන වගන්තියේ විධිවිධාන ප්‍රකාර හිටපු ජනාධිපතිවරයකුට හෝ හිටපු ජනාධිපතිවරයකුගේ වැන්දඹුවට ගෙවන ලද මාසික ලේකම් දීමනාව සහ නිල ප්‍රවාහන සහ වෙනත් සියලු පහසුකම්, සහ ඉවත් කරන ලද පනතේ 4 වන වගන්තියේ විධිවිධාන ප්‍රකාරව හිටපු ජනාධිපතිවරයකුගේ වැන්දඹුවට ගෙවන ලද මාසික විශ්‍රාම වැටුප අහෝසි වීම සිදුවේ.
-
-◼️
-
-[Data](articles/885fbf25.json)
 
 ---
 
@@ -1995,5 +1967,43 @@ The reconstruction project will be officially launched on September 15 under the
 [Data](articles/b8eccf30.json)
 
 [Extended Data](ext_articles/b8eccf30.ext.json)
+
+---
+
+### Pilgrims go to Lumbini safe to India
+
+*2025-09-10 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214396) · `si`
+
+The 73 Sri Lankan pilgrims who were traveling to Lumbini from India to Lumbini have entered India safely through the border.
+
+◼️
+
+[Data](articles/b9d70e7d.json)
+
+[Extended Data](ext_articles/b9d70e7d.ext.json)
+
+---
+
+### Sri Lankans evacuating from Nepal
+
+*2025-09-10 11:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்தில்-இருந்து-இலங்கையர்கள்-வெளியேற்றம்/175-364335) · `ta`
+
+Due to the nationwide protests, the Foreign Ministry has said that 73 Sri Lankan pilgrims in Nepal are engaged in eviction.
+
+In spite of the initial technical problems, the ministry said that with the support of the Nepal authorities, the ministry said.
+
+In the early hours of this morning, all Sri Lankans living in Nepal are safe and there has been no reports of any impact, the Foreign Ministry said.
+
+According to the Sri Lankan embassy in Kathmandu, there are 102 Sri Lankans in Nepal, including 22 students, other residents and embassy employees.
+
+Embassy officials are monitoring their safety from WhatsApp groups and personal networks.
+
+Protests against the short -term ban on social media in Nepal increased violently on Tuesday. Demonstrators set fire to government buildings and politicians' homes and attacked some leaders. The Prime Minister has resigned as criticism of the country's political elite is on the rise.
+
+...
+
+[Data](articles/3f7d004c.json)
+
+[Extended Data](ext_articles/3f7d004c.ext.json)
 
 ---

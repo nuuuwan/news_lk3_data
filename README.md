@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 22:21:29**
+As of **2025-09-10 22:10:37**
 
 ## Newspaper Stats
 
-*Scraped **75,239** Articles*
+*Scraped **75,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 7,294
 adaderanalk | 9,653
 tamilmirrorlk | 11,237
 virakesarilk | 12,267
-adaderanasinhalalk | 13,110
+adaderanasinhalalk | 13,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,428 (88.3%) of 75,239 articles have been extended.
+66,428 (88.3%) of 75,238 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,20 +69,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b4056923.json)
-
----
-
-### පාර්ලිමේන්තු මන්ත්‍රීවරුන් දෙදෙනෙක් කාරක සභා කිහිපයක සේවයට නම් කරයි
-
-*2025-09-10 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214419) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන එම්.එස්. අබ්දුල් වාහිද් සහ සුජීව සේනසිංහ යන මහත්වරුන් කාරක සභා කිහිපයක සේවය කිරීම සඳහා නම් කළ බව කථානායක ජගත් වික්‍රමරත්න මහතා පාර්ලිමේන්තුවේදී නිවේදනය කර තිබේ.
-
-පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 112 හි විධිවිධාන සහ 2025 මාර්තු 19 දින පාර්ලිමේන්තුව විසින් සම්මත කරන ලද යෝජනාව ප්‍රකාරව, පාර්ලිමේන්තු මන්ත්‍රී එම්.එස්. අබ්දුල් වාහිද් මහතා ,අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ ,නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ ,සෞඛ්‍ය සහ ජනමාධ්‍ය කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ සහ 2025 මාර්තු 19 දින පාර්ලිමේන්තුව විසින් සම්මත කරන ලද යෝජනාව සහ පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 129 හි විධිවිධාන ප්‍රකාරව, පසුපෙළ මන්ත්‍රීවරයන්ගේ කාරක සභාවේ සේවය කිරීම සඳහා තේරීම් කාරක සභාව විසින් නම් කරන ලද බව කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (10) පාර්ලිමේන්තුවේදී නිවේදනය කළේය.
-
-...
-
-[Data](articles/3c2fb98e.json)
 
 ---
 
@@ -586,7 +572,7 @@ With Prime Minister KP Sharma Oli and his cabinet having resigned, and as law en
 
 ---
 
-### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Nilanga Dela
 
 *2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-nilanga-dela) · `en`
 
@@ -2001,5 +1987,25 @@ This is the act of violating his rights. You have to impose an interim injunctio
 [Data](articles/56a00260.json)
 
 [Extended Data](ext_articles/56a00260.ext.json)
+
+---
+
+### The daughter did not leave the helmet at the death inspection
+
+*2025-09-10 11:25:14* · [`adalk`](https://www.ada.lk/breaking_news/දුව-හෙල්මට්-දාලා-හිටියේ-නෑ--මරණ-පරීක්ෂණයේදී-පියා-කියයි/11-418403) · `si`
+
+"The daughter did not leave Helmet. Three-wheeler came to our front. Suddenly the van that followed it took to the right side of the road to pass the three-wheeler. The motorcycle we had gone rotate on the right side of the van. When I was conscious, I was in the hospital. " Her father said in the death of a university student of a university student of a university injured in a car accident.
+
+The deceased is a 22 year old resident of the Kokawalage of Kokawalage, Hewa Kokawala.
+
+Sudden Death was held at the Galle National Hospital on the 8th of this month.
+
+The girl's father's Nanda Thilakasiri Salesi (57) witnesses:
+
+...
+
+[Data](articles/0937ed65.json)
+
+[Extended Data](ext_articles/0937ed65.ext.json)
 
 ---

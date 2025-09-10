@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 05:56:28**
+As of **2025-09-10 07:05:19**
 
 ## Newspaper Stats
 
-*Scraped **75,076** Articles*
+*Scraped **75,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,120 @@ colombotelegraphcom | 763
 economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
-dailyftlk | 5,327
+dailyftlk | 5,328
 adalk | 7,272
 adaderanalk | 9,619
-tamilmirrorlk | 11,191
+tamilmirrorlk | 11,193
 virakesarilk | 12,257
-adaderanasinhalalk | 13,076
+adaderanasinhalalk | 13,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,668 (87.5%) of 75,076 articles have been extended.
+65,683 (87.5%) of 75,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
+
+### මාරක අනතුරු කිහිපයක් - බිලිඳෙක්, සිසුවෙක් ඇතුළු 04ක් මරුට
+
+*2025-09-10 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214385) · `si`
+
+ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු හතරකින් මාස 11ක බිලිඳෙකු සහ පාසල් සිසුවෙකු ඇතුළු සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (09) එම අනතුරු සිදුව තිබුණේ පේරාදෙණිය, උඩුගම, කඩවත, රාගම සහ මාවතගම යන පොලිස් වසම්වලින්ය.
+
+මහනුවර - කුරුණෑගල ප්‍රධාන මාර්ගයේ 06 කණුව ප්‍රදේශයේදී වෑන් රථයක් මාර්ගයෙන් ඉවතට පැන ආරක්ෂිත බැම්මක හා විදුලි රැහැන් කණුවක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් වෑන් රථයේ ගමන්කළ පිරිමි පුද්ගලයින් දෙදෙනෙකු, කාන්තාවක් හා දරුවෙකු බරපතළ තුවාල ලබා මාවතගම රෝහලට ඇතුලත් කිරීමේදී දරුවා මියගොස් තිබේ.
+
+අනෙක් තුවාලකරුවන් වැඩිදුර ප්‍රතිකාර සඳහා කුරුණෑගල රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+මරණකරු වයස මාස 11ක් වූ මාරලන්ද, මාවතගම ප්‍රදේශයේ පදිංචි පිරිමි දරුවෙකි.
+
+මේ අතර උඩුගම පොලිස් වසමේ උඩලමත්ත උඩුගම මාර්ගයේ උඩලමත්ත ප්‍රදේශයේදී උඩුගම දෙස සිට උඩලමත්ත දෙසට ධාවනය වූ යතුරුපැදියක් ප්‍රථිවිරුද්ධ දෙසින් පැමිණි ලොරි රථයක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් යතුරුපැදිකරු බරපතළ තුවාල ලබා උඩුගම රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, ගෝනදෙනිය, උඩුගම ප්‍රදේශයේ පදිංචිව සිටි 15 හැවිරිදි පාසල් සිසුවෙකි.
+
+...
+
+[Data](articles/1fd0d2a0.json)
+
+---
+
+### ’இலங்கை அரசின் அறிக்கை ஏமாற்றமளிக்கின்றது’
+
+*2025-09-10 06:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அரசின்-அறிக்கை-ஏமாற்றமளிக்கின்றது/175-364313) · `ta`
+
+தமிழ் மக்களுக்கு எதிராக நடந்த அநீதிகளுக்கு. இனப்படுகொலைக்கு நீதி வேண்டும். விசாரணைகள் நடத்தப்படவேண்டும். குற்றவாளிகள் தண்டிக்கப்படவேண்டும்  என தமிழரசு கட்சியின் பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன் தெரிவித்தார்.
+
+அத்தோடு, ஒரு அரசியல் தீர்வு வேண்டும். இந்த விடயங்களை அரசு மறுத்தால் தமிழ் மக்களின் எதிர்ப்பை சம்பாதிக்க நேரிடும் என்றும் அவர் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று (09)  உரையாற்றுகையில் அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஜெனீவாவில் இடம்பெற்ற 60 ஆவது  அமர்வில் இலங்கை வெளிவிவகார அமைச்சர் அளித்த பதில் தமிழ் மக்களை ஏமாற்றத்துக்குள்ளாக்கியுள்ளது. இலங்கையில் சர்வதேச நாடுகள் தலையிட முடியாது என்ற வெளிவிவகார அமைச்சரின் அறிவிப்பு தமிழ் மக்களின் கோரிக்கைகளை தமிழ்  மக்களுக்கான நீதியை  முற்றாக நிராகரிப்பதாகவே அமைந்துள்ளது.
+
+...
+
+[Data](articles/372a39f4.json)
+
+---
+
+### ’தமிழ் மக்களுக்கு நீதி வேண்டும்’
+
+*2025-09-10 06:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-நீதி-வேண்டும்/175-364312) · `ta`
+
+தமிழ் மக்களுக்கு எதிராக நடந்த அநீதிகளுக்கு. இனப்படுகொலைக்கு நீதி வேண்டும். விசாரணைகள் நடத்தப்படவேண்டும். குற்றவாளிகள் தண்டிக்கப்படவேண்டும்  என தமிழரசு கட்சியின் பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன் தெரிவித்தார்.
+
+அத்தோடு, ஒரு அரசியல் தீர்வு வேண்டும். இந்த விடயங்களை அரசு மறுத்தால் தமிழ் மக்களின் எதிர்ப்பை சம்பாதிக்க நேரிடும் என்றும் அவர் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் நேற்று (09)  உரையாற்றுகையில் அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஜெனீவாவில் இடம்பெற்ற 60 ஆவது  அமர்வில் இலங்கை வெளிவிவகார அமைச்சர் அளித்த பதில் தமிழ் மக்களை ஏமாற்றத்துக்குள்ளாக்கியுள்ளது. இலங்கையில் சர்வதேச நாடுகள் தலையிட முடியாது என்ற வெளிவிவகார அமைச்சரின் அறிவிப்பு தமிழ் மக்களின் கோரிக்கைகளை தமிழ்  மக்களுக்கான நீதியை  முற்றாக நிராகரிப்பதாகவே அமைந்துள்ளது.
+
+...
+
+[Data](articles/4681c7d9.json)
+
+---
+
+### Showers in several areas
+
+*2025-09-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214384) · `si`
+
+The Met Department forecasts in the Western, Sabaragamuwa and North Western provinces.
+
+The Department states that the Department of Mullaittivu. Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/79f8b21c.json)
+
+[Extended Data](ext_articles/79f8b21c.ext.json)
+
+---
+
+### ITAK slams Govt. over human rights response at UNHRC
+
+*2025-09-10 05:38:56* · [`dailyftlk`](https://www.ft.lk/news/ITAK-slams-Govt-over-human-rights-response-at-UNHRC/56-781465) · `en`
+
+The Illankai Tamil Arasu Kachchi (ITAK) has strongly criticised Foreign Minister Vijitha Herath’s statement at the 60th session of the United Nations Human Rights Council (UNHRC), highlighting what it calls the Government’s continued failure to address accountability, reconciliation and the rights of Tamil communities in Sri Lanka.
+
+“We refer to the statement made by Vijitha Herath at the 60th session of the UN Human Rights Council. At the outset, we must record our deep disappointment in the Government’s response to several pressing issues of accountability and reconciliation that are still outstanding.
+
+This Government came into office holding out several promises. However, one full year after the President was elected, we are yet to see even the beginnings of those promises being fulfilled.
+
+...
+
+[Data](articles/f3c9efdb.json)
+
+---
 
 ### Nepal Parliament set on fire after PM quits amid anti-corruption protests
 
@@ -47,6 +145,8 @@ The unrest followed the resignation of Home Minister Ramesh Lekhak, who stepped 
 ...
 
 [Data](articles/8f6ae308.json)
+
+[Extended Data](ext_articles/8f6ae308.ext.json)
 
 ---
 
@@ -66,6 +166,8 @@ The Minister said he had advised Sri Lankans to remain indoors, avoid protest ar
 
 [Data](articles/fce20772.json)
 
+[Extended Data](ext_articles/fce20772.ext.json)
+
 ---
 
 ### Engineers urged to lead Sri Lanka’s industrial transformation at IESL NEC 2025
@@ -81,6 +183,8 @@ Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysin
 ...
 
 [Data](articles/0550e02b.json)
+
+[Extended Data](ext_articles/0550e02b.ext.json)
 
 ---
 
@@ -98,6 +202,8 @@ His academic training includes an MBA from Harvard Business School, a Master of 
 
 [Data](articles/c0ed5dc0.json)
 
+[Extended Data](ext_articles/c0ed5dc0.ext.json)
+
 ---
 
 ### VAT on Digital Services: Insights from ICCSL webinar
@@ -111,6 +217,8 @@ The session opened with a welcome note by ICCSL Chairman Shanil Fernando who emp
 ...
 
 [Data](articles/a8ce855b.json)
+
+[Extended Data](ext_articles/a8ce855b.ext.json)
 
 ---
 
@@ -130,6 +238,8 @@ However, the decision has sparked debate over the selection process and question
 
 [Data](articles/26c38211.json)
 
+[Extended Data](ext_articles/26c38211.ext.json)
+
 ---
 
 ### Saudi Transport and Logistics Minister receives Minister Bimal Rathnayake
@@ -143,6 +253,8 @@ During the meeting, Minister Rathnayake briefed Minister Al-Jasser on the recent
 ...
 
 [Data](articles/0507cb39.json)
+
+[Extended Data](ext_articles/0507cb39.ext.json)
 
 ---
 
@@ -164,6 +276,8 @@ He is professionally accredited in finance by Chartered Accountants Australia an
 
 [Data](articles/9748bf89.json)
 
+[Extended Data](ext_articles/9748bf89.ext.json)
+
 ---
 
 ### CMA Sri Lanka to host Silver Jubilee international conference on AI impact on policy, stability and growth
@@ -182,6 +296,8 @@ Central Bank of Sri Lanka Assistant Governor Dr. Chandranath Amarasekara, who is
 
 [Data](articles/ccab74ca.json)
 
+[Extended Data](ext_articles/ccab74ca.ext.json)
+
 ---
 
 ### Minister Sunil Handunnetti leads strategic meeting with Export Development Officers
@@ -198,6 +314,8 @@ The meeting was attended by the Industry and Entrepreneurship Development Deputy
 
 [Data](articles/aa7d97c5.json)
 
+[Extended Data](ext_articles/aa7d97c5.ext.json)
+
 ---
 
 ### 18 premium channels, 6.8 million viewers — endless advertising possibilities with Dialog Television
@@ -211,6 +329,8 @@ Dialog Television offers advertisers access to 18 premium channels carefully cur
 ...
 
 [Data](articles/1c4063a0.json)
+
+[Extended Data](ext_articles/1c4063a0.ext.json)
 
 ---
 
@@ -300,6 +420,8 @@ Califolink launched its ITT operations at CWIT Terminal with the aim of enhancin
 
 [Data](articles/59c2199a.json)
 
+[Extended Data](ext_articles/59c2199a.ext.json)
+
 ---
 
 ### Salesforce AI Research advances the agentic enterprise by simulating enterprise environments
@@ -315,6 +437,8 @@ To measure readiness, Salesforce launched the Agentic Benchmark for CRM, the fir
 ...
 
 [Data](articles/6f0c6e5e.json)
+
+[Extended Data](ext_articles/6f0c6e5e.ext.json)
 
 ---
 
@@ -333,6 +457,8 @@ Speaking at the official handover, CBA Director and Chief Executive Officer, Ruw
 ...
 
 [Data](articles/aada0760.json)
+
+[Extended Data](ext_articles/aada0760.ext.json)
 
 ---
 
@@ -1923,107 +2049,5 @@ The Speaker also submitted the Supreme Court on the Bill today (09). The Supreme
 [Data](articles/da8aff33.json)
 
 [Extended Data](ext_articles/da8aff33.ext.json)
-
----
-
-### Sri Lanka cabinet clears 2026 budget bill
-
-*2025-09-09 13:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-2026-budget-bill-239820/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the publication of the Appropriation Bill for 2026, Minister Nalinda Jayatissa said.
-
-The Appropriation Bill was cleared by the Attorney General, he said.
-
-The Appropriation Bill sets out of the allocation of funds for each ministry, and its tabling in the parliament is considered the first reading of the budget.
-
-The Second Reading is the presentation of the formal budget by the Finance Minister in parliament with plans to close the budget deficit if any. (Colombo/Sept09/2025)
-
-◼️
-
-[Data](articles/69065570.json)
-
-[Extended Data](ext_articles/69065570.ext.json)
-
----
-
-### Sri Lanka media personnel went to Israel on private tour, no gov involvement: Minister
-
-*2025-09-09 13:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-media-personnel-went-to-israel-on-private-tour-no-gov-involvement-minister-239813/) · `en`
-
-ECONOMYNEXT – A group of Sri Lankan media personnel currently visiting Israel on a tour sponsored by the Israeli government are traveling privately, with no involvement from the Sri Lankan government, Media Minister Nalinda Jayatissa said.
-
-“They are on a private tour, there is no government involvement,” Jayatissa told reporters who questioned him about allowing journalists to go to Israel when it is accused of killing over 270 journalists.
-
-“Anyone is free to go to Israel, there is no ban on visiting,” he said adding, “We can’t obstruct this.”
-
-“You can ask your colleagues what they think about it when they return. They have applied for leave and gone,” Jayatissa said, dodging questions on what the government’s stance on the matter was.
-
-The Israeli Embassy in India had coordinated the visit, he said.
-
-The group of 16 media personnel include 2 from the state-owned TV channel Rupavahini.
-
-...
-
-[Data](articles/a96da3ab.json)
-
-[Extended Data](ext_articles/a96da3ab.ext.json)
-
----
-
-### President offer Cancellation Bill; Tomorrow Debate
-
-*2025-09-09 13:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சலுகை-ரத்து-சட்டமூலம்-நாளை-விவாதம்/175-364267) · `ta`
-
-ஜனாதிபதியின் உரிமைகளை ரத்து செய்யும் சட்டமூலத்தை நாளை விவாதிக்க பாராளுமன்ற அலுவல்கள் குழு முடிவு செய்துள்ளதாக பாராளுமன்ற தொடர்பாடல் பிரிவு தெரிவித்துள்ளது.
-
-The decision was taken at a meeting of the Official Committee headed by the Speaker.
-
-Accordingly, the debate will be held tomorrow from 11.30 am to 3.30 pm.
-
-The Supreme Court has ruled that the President's Rights Bill, which eliminate some of the concessions of the former presidents, is in accordance with the constitution and that it can be passed by a simple majority.
-
-◼️
-
-[Data](articles/16fc2647.json)
-
-[Extended Data](ext_articles/16fc2647.ext.json)
-
----
-
-### Cabinet approval to present 2026 Appropriation Bill to Parliament
-
-*2025-09-09 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112318/cabinet-approval-to-present-2026-appropriation-bill-to-parliament) · `en`
-
-The Cabinet of Ministers has granted approval for the submission of the Appropriation Bill for the 2026 financial tear to the Parliament.
-
-Earlier, at the Cabinet meeting held on July 01, the Cabinet had approved the drafting of the Appropriation Bill.
-
-The Bill, prepared by the Legal Draftsman, has since received clearance from the Attorney General.
-
-Accordingly, the Cabinet also approved the President’s proposal to publish the Bill in the Government Gazette prior to its submission to Parliament for approval.
-
-◼️
-
-[Data](articles/02089f4a.json)
-
-[Extended Data](ext_articles/02089f4a.ext.json)
-
----
-
-### Customs inspected and released the ice containers found in the Middeni
-
-*2025-09-09 13:17:58* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනි​යෙන්-සොයා-ගත්-අයිස්-කන්ටේනර්-රේගුවෙන්-පරික්ෂා-කර-නිදහස්-කරලා-තිබෙන්නේ/11-418382) · `si`
-
-Cabinet spokesperson Dr. Nalinda Jayatissa said that the Customs 2 was discovered in the Ice Drugs Factor in Middeniya.
-
-He was responding to a question referred to a question referred to today at a press conference to notice the Cabinet Decision.
-
-"This containers inspected as customs. The Department of Customs is now conducting an investigation on irregularities. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැත්තෙනුත් පරීක්ෂණයක් කරමින් පවතිනවා. So we can release these containers with plans to take care of and release all things, including what happened. "
-
-◼️
-
-[Data](articles/44c25862.json)
-
-[Extended Data](ext_articles/44c25862.ext.json)
 
 ---

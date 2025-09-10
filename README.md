@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 04:54:23**
+As of **2025-09-11 03:55:14**
 
 ## Newspaper Stats
 
-*Scraped **75,258** Articles*
+*Scraped **75,252** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 765
+colombotelegraphcom | 764
 economynextcom | 4,564
 islandlk | 4,621
 dailymirrorlk | 4,733
@@ -19,114 +19,18 @@ dailyftlk | 5,329
 adalk | 7,298
 adaderanalk | 9,657
 tamilmirrorlk | 11,238
-virakesarilk | 12,275
+virakesarilk | 12,270
 adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,779 (88.7%) of 75,258 articles have been extended.
+66,713 (88.7%) of 75,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### The government's attempt to eliminate the privileges of former presidents does not seem to be held to hold provincial council elections - Nisam Kariyapar
-
-*2025-09-11 04:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224767) · `ta`
-
-The current President of the former President Anura Kumara Dissanayake's salary or pension is not amendment. Opposition member Nizam Kariyapper said the government's attempt to eliminate the privileges of former presidents did not appear to be held to hold the provincial council election.
-
-He said this while addressing the debate on the Bill of the President (Removal) Bill in Parliament on Wednesday (10).
-
-When we examined the Bill, we have stocks regarding the rights given to the widow of former presidents under Act No. 4 of 1986.. It is clear that they are actually referred to as privileges. No attempt has been made yet to change them. That is, the government has taken a stand on the presidential security and rights.
-
-...
-
-[Data](articles/b551ebbd.json)
-
-[Extended Data](ext_articles/b551ebbd.ext.json)
-
----
-
-### Hill Authority
-
-*2025-09-11 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224766) · `ta`
-
-We will not close the "Plantation Regional New Villages Development Authority" known as the "Upcountry Authority". Plantation and Social Infrastructure Minister Samantha Vidyaratne has directly confirmed the Tamil Progressive Alliance leader Mano Ganesan.
-
-“We will not close the Plantation Regional New Villages Development Authority, known as the Upcountry Authority.. Minister Samantha Vidyaratne gave me a personal affirmation in Parliament that it will continue to be carried out.
-
-In order to achieve the development of the upcountry plantation people who are in the fields of education, land, home, health, social development, income-venture and poverty alleviation, the work of these various sectors should be combined.. In this regard, the Mountain Authority is the company that has been created by the Act of 2018, which was introduced during our goodwill, based on the need for the Affirmative Policy.
-
-...
-
-[Data](articles/e1287498.json)
-
-[Extended Data](ext_articles/e1287498.ext.json)
-
----
-
-### Removal of former presidents' privilege; Political Cultural Change - Ananda Wijepala
-
-*2025-09-11 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224765) · `ta`
-
-The move to eliminate the privileges of the former presidents is the change in political culture and not revenge. Public Security Minister Ananda Wijebala said that if anyone is threatened with security, the concerned committee will be able to obtain the necessary security.
-
-He said this while addressing the debate on the Removal of the President's Removal (Removal) Bill on Wednesday (10) in Parliament.
-
-Changing the political culture in the country is not a revenge on anyone.. It can be referred to as a feature of it. Some of the powers also live their privileges. That political culture has now been put to an end.
-
-We are well aware of the political culture in the country. Everything has been captured. We have now reduced the official home, vehicle license, salary for ministers and salary fuel allowance for MPs.
-
-Some privileges are lost by the Retired President's Rights Act. This is a change in political culture and not revenge.
-
-...
-
-[Data](articles/0630fedf.json)
-
-[Extended Data](ext_articles/0630fedf.ext.json)
-
----
-
-### Violence: Initially planned against Muslims
-
-*2025-09-11 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224764) · `ta`
-
-The report of the Sri Lanka Human Rights Commission on the issue of violence against the Muslim community in the year 2018, beyond the immediate brutality of local residents for internal chaos in the region, in advance of violence.
-
-A series of violence against Muslims, known as 'Digana riots', began on February 26, 2018 in Ampara, and was spread to the Kandy district by March 2, 2018.. At this time, Muslims, their own shops and homes and schools were targeted and violence unleashed.. The 60 -page inquiry report of the Sri Lanka Human Rights Commission on the incident was released on the first day of the last day following pressure from various sides.
-
-The backdrop of the violence, the confessions gathered from the parties associated with the affairs, the losses and the damage caused by them, the observations of the incident, and the recommendations to prevent such racial violence.
-
-...
-
-[Data](articles/b975748d.json)
-
-[Extended Data](ext_articles/b975748d.ext.json)
-
----
-
-### Those who were hiding under the war during the war eliminate the peers of former heads of state -Ramanathan Archana
-
-*2025-09-11 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224763) · `ta`
-
-Those who were hiding under the bed during the war eliminate the peers of former heads. Mention Prabhakaran as a terrorist. If Prabhakaran bombed, I apologize for the Jaffna. Committee Member of Parliament Ramanathan Archana said the district independence.
-
-He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
-
-If I speak in Sinhala in Tamil, you will be happy. If possible, raise your hands and refer to Prabhakaran as a terrorist.. Not even one raised his hands.
-
-I can mention that Rohana Wijeweera is not terrorist. Can raise the hands. The Tamil people voted for you as Sinhala Prabhakaran. People do not know Ilangumaran and Chandrasekaran. The Tamil people supported you because you acted against the improper activities of the government in 1988.
-
-...
-
-[Data](articles/ae1a0792.json)
-
-[Extended Data](ext_articles/ae1a0792.ext.json)
-
----
 
 ### Attack of politicians in Nepal
 
@@ -255,20 +159,6 @@ The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grad
 [Data](articles/dfbc9292.json)
 
 [Extended Data](ext_articles/dfbc9292.ext.json)
-
----
-
-### SCO Summit: India, China & Russia In The Global Economy
-
-*2025-09-10 22:16:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sco-summit-india-china-russia-in-the-global-economy/) · `en`
-
-From August 31 to September 1, 2025, the northern Chinese port city of Tianjin hosted a landmark event in geopolitics: the 25th Heads-of-State Summit of the Shanghai Cooperation Organisation (SCO). This summit was the largest in the organization’s history, serving as a powerful symbol of Asia’s deepening cooperation across economics, finance, defense, and digital transformation. It underscored principles such as sovereign equality, adherence to international law, multilateralism, people-centered approaches, and action-oriented implementation. What began over two decades ago as a regional security platform has now evolved into a bloc with substantial economic ambitions and a vision for shaping a new global order.
-
-...
-
-[Data](articles/0b65a4b7.json)
-
-[Extended Data](ext_articles/0b65a4b7.ext.json)
 
 ---
 
@@ -2023,5 +1913,117 @@ It is reported that the road development projects in the Moratuwa Municipal Coun
 [Data](articles/96ab9c13.json)
 
 [Extended Data](ext_articles/96ab9c13.ext.json)
+
+---
+
+### Sri Lanka to appoint committee to issue national electricity policy, guidelines
+
+*2025-09-10 13:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-appoint-committee-to-issue-national-electricity-policy-guidelines-239976/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the setting up of a committee to prepare the draft National Electricity Policy as part of the National Energy Policy, minister Nalinda Jayatissa said.
+
+It will consist of up to 8 persons “with at least 15 years of expertise in the fields of energy policy formulation, renewable energy and energy transition, energy system planning, economics and finance,” Jayatissa told reporters.
+
+The members proposed by the Energy minister and approved by Cabinet are:
+
+◼️
+
+[Data](articles/85fa1006.json)
+
+[Extended Data](ext_articles/85fa1006.ext.json)
+
+---
+
+### Ranil a special announcement from former President
+
+*2025-09-10 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214399) · `si`
+
+Former President Ranil Wickremesinghe has issued a special announcement regarding the situation in Kathmandu, Nepal.
+
+The announcement also states that he condemns the murder including all the youth in Nepal.
+
+◼️
+
+[Data](articles/429a3a30.json)
+
+[Extended Data](ext_articles/429a3a30.ext.json)
+
+---
+
+### Trump calls on EU to impose 100% tariff on China and India to pressure Putin
+
+*2025-09-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112351/trump-calls-on-eu-to-impose-100-tariff-on-china-and-india-to-pressure-putin) · `en`
+
+Donald Trump has called on the European Union (EU) to hit China and India with tariffs of up to 100% to force Russian president Vladimir Putin to end the war in Ukraine.
+
+The US president made the demand during a meeting between US and EU officials on Tuesday discussing options to increase economic pressure on Russia, a source familiar with the discussions has told the BBC.
+
+Trump, who previously pledged to end the conflict on “day one” of becoming president, is struggling to broker a peace deal between Moscow and Kyiv and as Russia’s strikes on Ukraine intensify.
+
+Separately, Trump told reporters on Tuesday that he plans to talk to Putin on a call this week or early next week.
+
+China and India are major buyers of Russian oil, which helps to keep the country’s economy and war machine afloat.
+
+Last month, the US imposed a 50% tariff on goods from India, which included a 25% penalty for its transactions with Russia.
+
+...
+
+[Data](articles/4f3aeb44.json)
+
+[Extended Data](ext_articles/4f3aeb44.ext.json)
+
+---
+
+### 1,500 prisoners escaped
+
+*2025-09-10 13:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-500-கைதிகள்-தப்பியோட்டம்/50-364343) · `ta`
+
+At least 1,500 prisoners have fled from Naku Jail in Lalitpur in Nepal amid nationwide unrest in Nepal.
+
+Local media Kabarhab has reported that the Rashtriya Freedom Party leader Rabbi Lamichane was released after the release of this.
+
+During the riots, at least 1,500 inmates were detained in prison. The media reported that the police abandoned their positions and allowed the prisoners to flee.
+
+Officials are monitoring the situation, warning that the release of the prisoners will be a threat to the security of the public.
+
+◼️
+
+[Data](articles/7b891892.json)
+
+[Extended Data](ext_articles/7b891892.ext.json)
+
+---
+
+### Ex-Navy Commander Nishantha Ulugetenne further remanded
+
+*2025-09-10 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112350/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
+
+Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded.
+
+He has been remanded until September 24 by the Polgahawela Magistrate’s Court, said Ada Derana reporter.
+
+The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
+
+◼️
+
+[Data](articles/9f0312e5.json)
+
+[Extended Data](ext_articles/9f0312e5.ext.json)
+
+---
+
+### Former Navy Commander remanded again
+
+*2025-09-10 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214398) · `si`
+
+Former Navy Commander (Retired) Admiral Nishantha Ullayenna, who was arrested and remanded.
+
+The Polgahawela Magistrate's Court has remanded for September 24.
+
+◼️
+
+[Data](articles/c03ced29.json)
+
+[Extended Data](ext_articles/c03ced29.ext.json)
 
 ---

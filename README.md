@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 13:05:58**
+As of **2025-09-10 12:55:39**
 
 ## Newspaper Stats
 
-*Scraped **75,140** Articles*
+*Scraped **75,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,31 @@ adalk | 7,282
 adaderanalk | 9,630
 tamilmirrorlk | 11,214
 virakesarilk | 12,260
-adaderanasinhalalk | 13,091
+adaderanasinhalalk | 13,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,975 (87.8%) of 75,140 articles have been extended.
+65,955 (87.8%) of 75,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### හිටපු නාවික හමුදාපති නිශාන්ත උළුගේතැන්න යළි රිමාන්ඩ්
-
-*2025-09-10 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214398) · `si`
-
-අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු නාවික හමුදාපති (විශ්‍රාමික) අද්මිරාල් නිශාන්ත උළුගේතැන්න මහතාව යළිත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
-
-පොල්ගහවෙල මහෙස්ත්‍රාත් අධිකරණය විසින් ඒ මහතාව එළැඹෙන සැප්තැම්බර් මස 24 වනදා රක්ෂිත බන්ධනාගාරගත කර ඇත.
-
-◼️
-
-[Data](articles/c03ced29.json)
-
----
-
-### False Relationship: A young man who lost his hand
+### கள்ள உறவால் விபரீதம்: கையை இழந்த இளைஞன்
 
 *2025-09-10 12:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ள-உறவால்-விபரீதம்-கையை-இழந்த-இளைஞன்/175-364342) · `ta`
 
-The man who was in a relationship with a woman was cut off the hand of a young man who had been brought to the hospital in the bag. Police are conducting an intensive investigation into the incident.
+பெண் ஒருவருடன் திருமணத்தை மீறிய உறவில் இருந்த இளைஞரின் கையை வெட்டி பையில் மருத்துவமனைக்கு கொண்டு வந்ததால் பெரும் பரபரப்பு ஏற்பட்டது. இச்சம்பவம் குறித்து பொலிஸார் தீவிர விசாரணை மேற்கொண்டு வருகின்றனர்.
 
-Gopi hails from Arakkonam in Ranipettai district. He has been in a relationship with a woman from Anna Nagar next to Arakkonam for the past few months. Thus it seems that the woman's family continued to have problems and conflicts. However, the two have followed the relationship.
+ராணிப்பேட்டை மாவட்டம் அரக்கோணத்தை சேர்ந்தவர் கோபி. இவர் கடந்த சில மாதங்களாக அரக்கோணத்தை அடுத்த அண்ணா நகர் பகுதியைச் சேர்ந்த ஒரு பெண்ணுடன் திருமணத்தை மீறிய உறவில் இருந்து வந்துள்ளார். இதனால் அந்த பெண்ணின் குடும்பத்தில் தொடர்ந்து பிரச்சினைகளும், மோதல்களும் இருந்து வந்ததாக தெரிகிறது. இருப்பினும், இருவரும் உறவை தொடர்ந்து வந்துள்ளனர்.
 
-In this case, on the night of September 8, Gopi was talking to the woman as usual. A mysterious person who came there then cut off Kopi's right hand with a sharp weapon. Gopi, who was in pain, seems to have curled up on the road.
+இந்நிலையில், செப்டம்பர் 8ஆம் திகதி இரவு, வழக்கம் போல அந்த பெண்ணுடன் கோபி பேசிக் கொண்டிருந்துள்ளார். அப்போது அங்கு வந்த மர்ம நபர் ஒருவர், கூர்மையான ஆயுதத்தால் கோபியின் வலது கையை வெட்டி துண்டாக்கியுள்ளார். வலியால் துடித்த கோபி, சாலையிலேயே சுருண்டு விழுந்ததாக தெரிகிறது.
 
 ...
 
 [Data](articles/4ae9d32a.json)
-
-[Extended Data](ext_articles/4ae9d32a.ext.json)
 
 ---
 
@@ -294,8 +278,6 @@ The airport’s closure has disrupted more than 250 daily flights that the airpo
 
 [Data](articles/75945c4e.json)
 
-[Extended Data](ext_articles/75945c4e.ext.json)
-
 ---
 
 ### SriLankan flights temporarily halted to Nepal
@@ -327,8 +309,6 @@ Prime Minister Donald Tusk confirmed a military response operation was underway 
 ...
 
 [Data](articles/38eeaa2b.json)
-
-[Extended Data](ext_articles/38eeaa2b.ext.json)
 
 ---
 
@@ -367,8 +347,6 @@ Meanwhile, 11 of the injured are still receiving treatment at the Badulla Teachi
 ◼️
 
 [Data](articles/4b3c05ad.json)
-
-[Extended Data](ext_articles/4b3c05ad.ext.json)
 
 ---
 
@@ -2019,5 +1997,23 @@ The protests began yesterday after the government's decision to ban 26 social me
 [Data](articles/cf909347.json)
 
 [Extended Data](ext_articles/cf909347.ext.json)
+
+---
+
+### Nepal’s Supreme Court and ministers’ homes set on fire amidst public revolt
+
+*2025-09-09 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112332/nepals-supreme-court-and-ministers-homes-set-on-fire-amidst-public-revolt) · `en`
+
+Nepal’s Parliament building, Supreme Court, and residences of several senior leaders were set ablaze on Tuesday as anti-government protests spiralled out of control, minutes after Prime Minister K P Sharma Oli resigned.
+
+Visuals shared by news agency PTI confirmed the fire at the Supreme Court, while the storming and burning of Parliament was reported by television channels and attested to by multiple reporters on the ground.
+
+Oli stepped down shortly after hundreds of demonstrators entered his office shouting anti-government slogans. Reports also suggested he is preparing to flee Nepal, with speculation of a possible trip to Dubai under the pretext of medical treatment. ET Online could not independently verify these claims.
+
+...
+
+[Data](articles/458e3af8.json)
+
+[Extended Data](ext_articles/458e3af8.ext.json)
 
 ---

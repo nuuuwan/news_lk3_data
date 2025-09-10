@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 11:07:12**
+As of **2025-09-10 10:55:23**
 
 ## Newspaper Stats
 
-*Scraped **75,117** Articles*
+*Scraped **75,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,329
 adalk | 7,277
 adaderanalk | 9,625
-tamilmirrorlk | 11,206
+tamilmirrorlk | 11,205
 virakesarilk | 12,260
 adaderanasinhalalk | 13,086
 
@@ -26,55 +26,37 @@ adaderanasinhalalk | 13,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,847 (87.7%) of 75,117 articles have been extended.
+65,834 (87.6%) of 75,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### அருணவுக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணை வீசுப்பட்டது
-
-*2025-09-10 10:42:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அருணவுக்கு-எதிரான-நம்பிக்கையில்லாப்-பிரேரணை-வீசுப்பட்டது/175-364330) · `ta`
-
-பொது பாதுகாப்பு அமைச்சர் ஜெனரல் (ஓய்வு பெற்ற)  அருண ஜெயசேகரவுக்கு எதிராக எதிர்க்கட்சிகள் சமர்ப்பித்த நம்பிக்கையில்லா பிரேரணை ஏற்றுக்கொள்ள முடியாதது என்று சபாநாயகர் டாக்டர் ஜகத் விக்ரமரத்ன  பாராளுமன்றத்தில் இன்று (10)தெரிவித்தார்.
-
-நம்பிக்கையில்லா பிரேரணை அரசியலமைப்பின் விதிகளுக்கு இணங்கவில்லை என்றும் அவர் கூறினார். இருப்பினும், இந்த பிரேரணையை வேறு வடிவத்தில் கொண்டு வர முடியும் என்றும் சபாநாயகர் மேலும் கூறினார்
-
-◼️
-
-[Data](articles/80d39f36.json)
-
----
-
-### The owner of the bus injured in Ella
+### ඇල්ලේ දී අනතුරට පත් බස්රථයේ හිමිකරු අත්අඩංගුවට
 
 *2025-09-10 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214393) · `si`
 
-The next bus owner was arrested in the crash of the Ella-Valvawa road.
+ඇල්ල - වැල්වාය මාර්ගයේ අනතුරට ලක්වූ බස් රථයේ හිමිකරුව අත්අඩංගුවට ගෙන තිබේ.
 
 ◼️
 
 [Data](articles/0bf5e820.json)
 
-[Extended Data](ext_articles/0bf5e820.ext.json)
-
 ---
 
-### Steps to remove a group of Sri Lankan pilgrims visited in Lumbini
+### ලුම්බිණියට ගිය ශ්‍රී ලාංකික වන්දනාකරුවන් පිරිසක් ඉවත්කර ගැනීමට පියවර
 
 *2025-09-10 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214392) · `si`
 
-The Ministry of External Affairs says all Sri Lankans in Nepal are safe.
+නේපාලයේ සිටින සියලුම ශ්‍රී ලාංකිකයින් සුරක්ෂිත බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
 
-The Ministry also said that 73 Sri Lankan pilgrims to Lumbini in Nepal to Nepal from the land road.
+එමෙන්ම ගොඩබිම් මාර්ගයේ ඔස්සේ ඉන්දියාවේ සිට නේපාලයේ ලුම්බිණි බලා ගිය ශ්‍රී ලාංකික වන්දනාකරුවන් 73 දෙනෙකු ඉවත්කර ගැනීම සඳහා කටයුතු කරමින් සිටින බව ද එම අමාත්‍යාංශය සඳහන් කළේය.
 
-The Ministry of External Affairs further stated that although there is a system error, it will be coordinated with the Nepali migrant authorities.
+පද්ධති දෝෂයක් පැවතුන ද ඒ සඳහා නේපාල සංක්‍රමණික බලධාරීන් සමග සම්බන්ධීකරණය කරන බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/719b79d7.json)
-
-[Extended Data](ext_articles/719b79d7.ext.json)
 
 ---
 
@@ -144,21 +126,19 @@ From 8.30 am to 1.00 pm
 
 ---
 
-### If democratic rights are not saved, a no-confidence in the speaker
+### ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් සුරකින්නේ නැතිනම් කථානායකට එරෙහිව විශ්වාසභංගයක්
 
 *2025-09-10 09:57:46* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රජාතන්ත්‍රවාදී-අයිතිවාසිකම්-සුරකින්නේ-නැතිනම්-කථානායකට-එරෙහිව-විශ්වාසභංගයක්/11-418396) · `si`
 
-MP Ranjith Maddumabandara said that the democratic rights of the opposition would not be saved against the Speaker.
+විපක්ෂයේ ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් සුරකින්නේ නැතිනම් කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට සිදු වන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා පැවසීය.
 
-After the Speaker said that the no-confidence motion presented against the Deputy Minister was not acceptable against the Deputy Minister, he said this to Parliament today (10).
+අරුණ ජයසේකර නියෝජ්‍ය අමාත්‍යවරයාට එරෙහිව ඉදිරිපත් කළ විශ්වාසභංග යෝජනාව පිළිගත නොහැකි බව කථානායකවරයා ප්‍රකාශ කිරීමෙන් පසු අද(10දා) පාර්ලිමේන්තුවේදී ඊට ප්‍රතිචාර දක්වමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-"The Leader of the House said we would bring a no-confidence in an Speaker. If you do not have the democratic rights of the opposition, we have to do that. "
+“සභානායකතුමා කිව්වා අපි කථානායකට විරුද්ධය විශ්වාසභංගයක් ගේනවා කියලා. තමුන්නාන්සේ(කථානායක) විපක්ෂයේ ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් රකින්නේ නැති නම් අපිට ඒක කරන්න සිද්ධ වෙනවා. ”
 
 ◼️
 
 [Data](articles/6beeec9b.json)
-
-[Extended Data](ext_articles/6beeec9b.ext.json)
 
 ---
 
@@ -2041,5 +2021,27 @@ In the Mullaitivu District, Uva, North-central and Eastern Provinces. Showers or
 [Data](articles/74769e20.json)
 
 [Extended Data](ext_articles/74769e20.ext.json)
+
+---
+
+### Sri Lanka to expand scope of controversial 1970s media control law
+
+*2025-09-09 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-expand-scope-of-controversial-1970s-media-control-law-239864/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has decided to amend the country’s Press Council Act to expand scope of controversial 1970s media control law to electronic and online media, the government said.
+
+The Sri Lanka Press Council Act was introduced during Prime Minister Sirimavo Bandaranaike’s government and has long been viewed as a tool for controlling the country’s print media rather than promoting press freedom.
+
+The Act established the Press Council, a statutory body empowered to regulate newspapers, monitor journalistic practices, and enforce restrictions on reporting deemed to threaten national security, public order, or morality.
+
+It gave the Council sweeping powers, including the authority to summon editors, seize publications, and penalize journalists or publishers who violated its provisions.
+
+Critics argue that these provisions enable censorship under the guise of regulation, discouraging critical journalism and undermining the role of the press as a democratic watchdog.
+
+...
+
+[Data](articles/07f163f0.json)
+
+[Extended Data](ext_articles/07f163f0.ext.json)
 
 ---

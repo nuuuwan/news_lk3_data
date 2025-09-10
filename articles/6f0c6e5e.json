@@ -1,0 +1,17 @@
+{
+  "newspaper_id": "islandlk",
+  "url": "http://island.lk/salesforce-ai-research-advances-the-agentic-enterprise-by-simulating-enterprise-environments/",
+  "time_ut": 1757439960.0,
+  "original_lang": "en",
+  "original_title": "Salesforce AI Research advances the agentic enterprise by simulating enterprise environments",
+  "original_body_lines": [
+    "Salesforce AI Research has unveiled new innovations to help enterprises deploy AI agents that are capable, consistent, and trustworthy.",
+    "At the center is CRMArena-Pro, a simulation environment that tests agents in complex, multi-turn scenarios such as sales forecasting, service triage, and CPQ processes. Acting like a digital twin of a business, it introduces real-world \u201cnoise\u201d to measure accuracy, efficiency, and resilience before agents go live, enabling organizations to strengthen performance and trust.",
+    "To measure readiness, Salesforce launched the Agentic Benchmark for CRM, the first evaluation tool built specifically for enterprise workflows across five metrics: accuracy, cost, speed, trust and safety, and sustainability. With new models emerging rapidly, this benchmark helps CIOs select the right AI systems while balancing performance with environmental impact.",
+    "Complementary tools MCP-Eval and MCP-Universe expand assessment capabilities. MCP-Eval enables scalable testing across synthetic tasks, while MCP-Universe stress-tests agents in real-world scenarios. Together, they provide enterprises with a dual framework for broad evaluations and deeper diagnosis of challenges such as long-context reasoning and adapting to unfamiliar tools.",
+    "Lighting the Path Forward: Ceylon Business Appliances bridges Sri Lanka\u2019s digital divide",
+    "Califolink Logistics expands operations by teaming up with CWIT Terminal",
+    "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *",
+    "Save my name, email, and website in this browser for the next time I comment."
+  ]
+}

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 02:07:18**
+As of **2025-09-11 02:36:53**
 
 ## Newspaper Stats
 
-*Scraped **75,250** Articles*
+*Scraped **75,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,59 @@ dailymirrorlk | 4,733
 dailyftlk | 5,329
 adalk | 7,298
 adaderanalk | 9,657
-tamilmirrorlk | 11,237
-virakesarilk | 12,269
+tamilmirrorlk | 11,238
+virakesarilk | 12,270
 adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,608 (88.5%) of 75,250 articles have been extended.
+66,634 (88.5%) of 75,252 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-11 (Thursday)
+
+### நேபாளத்தில் அரசியல்வாதிகளை குறிவைத்து தாக்குதல்
+
+*2025-09-11 02:18:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-அரசியல்வாதிகளை-குறிவைத்து-தாக்குதல்/50-364388) · `ta`
+
+நே​பாளத்​தில் அரசுக்கு எதி​ராக வெடித்த கலவரத்​தால் பதற்​றம் நீடிக்​கும் நிலை​யில், அரசி​யல்​வா​தி​களை குறி​வைத்து தாக்​குதல்​கள் நடக்​கின்​றன.
+
+காத்​மாண்​டு​வில் உள்ள சிங்கா அரண்​மனை எனப்​படும் பிர​மாண்​ட​மான அரசு மாளி​கை, இளைஞர்​கள் வைத்த தீயின் காரண​மாக கரு​கியது. அதில் இருந்த விலை உயர்ந்த பொருட்​கள், ஆவணங்​கள் அனைத்​தும் நாச​மா​கின.
+
+நேபாளத்​தில் அமைதி திரும்​பாத நிலை​யில், பல்​வேறு நகரங்​களில் ஊரடங்கு உத்​தரவு அமலில் உள்​ளது. காத்​மாண்டு முழு​வதும் பொலிஸாரும், இராணுவத்​தினரும் குவிக்​கப்​பட்​டு, கண்​காணிப்​புப் பணி​யில் ஈடு​பட்​டுள்​ளனர்​.
+
+நே​பாளத்​தில் நில​வும் அசா​தாரண சூழலைத் தொடர்ந்​து, காத்​மாண்டு சர்​வ​தேச விமான நிலை​யம் மறுஅறி​விப்பு வரும்​வரை மூடப்​படு​வ​தாக அறிவிக்​கப்​பட்​டுள்​ளது.
+
+நேபாளத்தில் இளைஞர்​கள் ஒன்று திரண்டு ஜனாதிபதி, பிரதமர், அமைச்​சர்​கள் உள்​ளிட்​டோரின் வீடு​களை குறி​வைத்து தாக்கி வரு​கின்​றனர். பிரதமர் சர்மா ஒலி தனது பதவியை இராஜி​னாமா செய்​து​விட்​டு, இராணுவத்​தின் கட்டுப்​பாட்​டில் உள்ள பகு​திக்கு ஹெலி​கொப்​டரில் தப்​பிச் சென்​றுள்​ளார்.
+
+...
+
+[Data](articles/556c5c39.json)
+
+---
+
+### 14 Days for Namal Rajapaksa; Sunil Watakala
+
+*2025-09-11 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224762) · `ta`
+
+Parliamentarian Namal Rajapaksa should file a case against me within 14 days. Otherwise, I will file a lawsuit against him according to the law.. Deputy Minister of Public Security and Parliamentary Affairs Sunil Vatagala said that if the case is filed, Namal Rajapaksa will ask for a cross -question, including law college, Tajuddin, Lasantha, Hegnelikoda, Julampitiya Amare.
+
+He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
+
+Member of Sri Lanka PA. Sanaka said to the council that his national organizer Namal Rajapaksa had sent me a question deed. If you go to social media, the question bond is exchanged.
+
+Namal Rajapaksa is reportedly filed against me. He is not aware of the nature of the mannast case because he is not trained in court. The defendant can ask any questions to the complainant during the Mannastha case.
+
+...
+
+[Data](articles/e45df53c.json)
+
+[Extended Data](ext_articles/e45df53c.ext.json)
+
+---
 
 ### 2025-09-10 (Wednesday)
 
@@ -1979,37 +2021,5 @@ The Polgahawela Magistrate's Court has remanded for September 24.
 [Data](articles/c03ced29.json)
 
 [Extended Data](ext_articles/c03ced29.ext.json)
-
----
-
-### False Relationship: A young man who lost his hand
-
-*2025-09-10 12:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ள-உறவால்-விபரீதம்-கையை-இழந்த-இளைஞன்/175-364342) · `ta`
-
-The man who was in a relationship with a woman was cut off the hand of a young man who had been brought to the hospital in the bag. Police are conducting an intensive investigation into the incident.
-
-Gopi hails from Arakkonam in Ranipettai district. He has been in a relationship with a woman from Anna Nagar next to Arakkonam for the past few months. Thus it seems that the woman's family continued to have problems and conflicts. However, the two have followed the relationship.
-
-In this case, on the night of September 8, Gopi was talking to the woman as usual. A mysterious person who came there then cut off Kopi's right hand with a sharp weapon. Gopi, who was in pain, seems to have curled up on the road.
-
-...
-
-[Data](articles/4ae9d32a.json)
-
-[Extended Data](ext_articles/4ae9d32a.ext.json)
-
----
-
-### 900 prisons fleeing in the face of violence
-
-*2025-09-10 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214397) · `si`
-
-According to foreign media reports, about 900 inmates of two prisons in Western Nepal have fled in the face of escalating violence.
-
-◼️
-
-[Data](articles/ebd69c03.json)
-
-[Extended Data](ext_articles/ebd69c03.ext.json)
 
 ---

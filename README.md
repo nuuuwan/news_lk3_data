@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 05:56:28**
+As of **2025-09-10 08:36:32**
 
 ## Newspaper Stats
 
-*Scraped **75,076** Articles*
+*Scraped **75,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,236 @@ colombotelegraphcom | 763
 economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
-dailyftlk | 5,327
-adalk | 7,272
+dailyftlk | 5,329
+adalk | 7,273
 adaderanalk | 9,619
-tamilmirrorlk | 11,191
+tamilmirrorlk | 11,195
 virakesarilk | 12,257
-adaderanasinhalalk | 13,076
+adaderanasinhalalk | 13,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,668 (87.5%) of 75,076 articles have been extended.
+65,721 (87.5%) of 75,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
+
+### இன்று இடியுடன் கூடிய மழை
+
+*2025-09-10 08:13:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-364316) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்று மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அந்த வகையில் மேல், சப்ரகமுவ, வடமேல் மாகாணங்களிலும், காலி, மாத்தறை, கண்டி, நுவரெலியா மாவட்டங்களிலும் இன்று பல தடவைகள் மழை பெய்யக்கூடும் என வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், கிழக்கு, ஊவா மாகாணங்களிலும், முல்லைத்தீவு மாவட்டத்திலும் பிற்பகல் 1 மணிக்குப் பின் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+சில இடங்களில் 50 மில்லி மீற்றருக்கும் அதிகமான ஓரளவு பலத்த மழை பெய்யக்கூடும் எனவும் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e8d6bf5c.json)
+
+---
+
+### President of France to President Mackron's friend?
+
+*2025-09-10 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214387) · `si`
+
+French President Eashanuel McCron, his close friend, was named Sebastian Licarin, as the new French Prime Minister.
+
+Foreign media reports that the nomination has been made after 24 hours after a no-confidence motion.
+
+Licores, 49, LECORE has been appointed as the Minister of Armed Forces, focusing on the France's response to the war in Russia in Ukraine.
+
+The Essay Prime Minister has issued a statement that McConron has been assigned to the seventh Prime Minister Licarin to discuss the next budget in France.
+
+Foreign media reports have reports that LECORNG's appointment condemns left and the right-wing opponents.
+
+◼️
+
+[Data](articles/fdd4171c.json)
+
+[Extended Data](ext_articles/fdd4171c.ext.json)
+
+---
+
+### 6 killed in Qatar attack
+
+*2025-09-10 06:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கட்டார்-தாக்குதலில்-6-பேர்-பலி/50-364315) · `ta`
+
+Six people have been killed in an Israeli air strike in Doha, the capital of Qatar.
+
+The Israeli air strike was launched yesterday (09) targeting senior officers of the Hamas organization in Qatar's capital. (A)
+
+◼️
+
+[Data](articles/7f53e0b0.json)
+
+[Extended Data](ext_articles/7f53e0b0.ext.json)
+
+---
+
+### No Sri Lankan has no accident in Nepali clashes
+
+*2025-09-10 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214386) · `si`
+
+According to the Ministry of External Affairs, no Sri Lankans have been injured due to the conflict in Nepal.
+
+The Sri Lanka Sangest of Kathpale, Nepal, is closely working closely with social media teams and other communities.
+
+The Ministry of External Affairs says that 102 Sri Lankans living in the country, and all of them are safe and supported at any time, the External Affairs Ministry said.
+
+Meanwhile, the military has taken responsibility for the protection of law and order in Nepal yesterday (09) and the security forces.
+
+According to foreign reports, the Nepal Army said that these decisions had been taken to control the escalation of escalation.
+
+In the award, some group robbery, fireplays, and property will be destroyed by taking advantage of the crisis.
+
+Meanwhile, a wife of an Nepali prime minister has been killed by the protesters.
+
+The deceased has been identified as the wife of former Prime Minister Janawal, Normalexmi.
+
+...
+
+[Data](articles/6bd081bf.json)
+
+[Extended Data](ext_articles/6bd081bf.ext.json)
+
+---
+
+### Several fatal accidents - a baby and four killed
+
+*2025-09-10 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214385) · `si`
+
+Four persons, including a 11-month babe, another 11-month babe, was killed in four areas in several areas.
+
+The accident occurred yesterday (09) by the police divisions of Peradeniya, Udugama, Kadawatha, Ragama and Mawathagama yesterday.
+
+A van collided with a security wall and a power bundle in a security crop and a power line on the Kandy-Kurunegala main road.
+
+The child has died in admission to the Mawathagama hospital with two men and a child who was traveling in the van.
+
+The other injured have been admitted to the Kurunegala Hospital for further treatment.
+
+The deceased is a boy of the age of 11 to 11 months in Marlanda, Mawathagama.
+
+Meanwhile, a motorbike traveling to Udalamatta in Udalamatta road, Udalamatta, Udugama, Udalamatta, is located in Udalamatta.
+
+The motorcyclist has been seriously injured and died on admission to Udugama hospital.
+
+The deceased has been identified as a 15 year old schoolgirl residing in Udugama.
+
+...
+
+[Data](articles/1fd0d2a0.json)
+
+[Extended Data](ext_articles/1fd0d2a0.ext.json)
+
+---
+
+### Sri Lankan government's report is disappointing
+
+*2025-09-10 06:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அரசின்-அறிக்கை-ஏமாற்றமளிக்கின்றது/175-364313) · `ta`
+
+For injustices against the Tamil people. Have justice for genocide. Investigations must be conducted. TNA parliamentarian. Said Chanakyan.
+
+As well as to have a political solution. He said that if the government refuses these issues, the opposition of the Tamil people will be earned.
+
+He said this while addressing the Parliament yesterday (09). As he further stated,
+
+Sri Lanka's Foreign Minister's response to the 60th session in Geneva has disappointed the Tamil people. The announcement of the Foreign Minister's announcement that international countries cannot intervene in Sri Lanka have completely rejected the demands of the Tamil people.
+
+The demands of the Tamil people have been rejected by the governments that have ruled in Sri Lanka. The Minister of State for Foreign Affairs of the National People's Power has inaugurated the denial of justice for the Tamil people.
+
+...
+
+[Data](articles/372a39f4.json)
+
+[Extended Data](ext_articles/372a39f4.ext.json)
+
+---
+
+### Tamil people need justice
+
+*2025-09-10 06:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-நீதி-வேண்டும்/175-364312) · `ta`
+
+For injustices against the Tamil people. Have justice for genocide. Investigations must be conducted. TNA parliamentarian. Said Chanakyan.
+
+As well as to have a political solution. He said that if the government refuses these issues, the opposition of the Tamil people will be earned.
+
+He said this while addressing the Parliament yesterday (09). As he further stated,
+
+Sri Lanka's Foreign Minister's response to the 60th session in Geneva has disappointed the Tamil people. The announcement of the Foreign Minister's announcement that international countries cannot intervene in Sri Lanka have completely rejected the demands of the Tamil people.
+
+The demands of the Tamil people have been rejected by the governments that have ruled in Sri Lanka. The Minister of State for Foreign Affairs of the National People's Power has inaugurated the denial of justice for the Tamil people.
+
+...
+
+[Data](articles/4681c7d9.json)
+
+[Extended Data](ext_articles/4681c7d9.ext.json)
+
+---
+
+### Showers in several areas
+
+*2025-09-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214384) · `si`
+
+The Met Department forecasts in the Western, Sabaragamuwa and North Western provinces.
+
+The Department states that the Department of Mullaittivu. Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/79f8b21c.json)
+
+[Extended Data](ext_articles/79f8b21c.ext.json)
+
+---
+
+### SC clears Bill removing ex-Presidents’ entitlements, Parliament debate today
+
+*2025-09-10 05:41:06* · [`dailyftlk`](https://www.ft.lk/news/SC-clears-Bill-removing-ex-Presidents-entitlements-Parliament-debate-today/56-781466) · `en`
+
+Cabinet Spokesperson says Bill not aimed at ex-President Mahinda Rajapaksa
+
+Parliament Speaker Dr. Jagath Wickramarathne yesterday informed the House that the Supreme Court has determined the Bill titled Presidents’ Entitlements (Repeal) is consistent with the Constitution and can be enacted by a simple majority.
+
+The Bill had been challenged before the Court under Article 121(1) of the Constitution. However, the Court ruled that none of its provisions are unconstitutional.
+
+Cabinet Spokesman Dr. Nalinda Jayatissa said the Bill was not aimed at any individual former President, including Mahinda Rajapaksa, but was drafted to apply to all former Presidents and their spouses.
+
+...
+
+[Data](articles/5db1e862.json)
+
+[Extended Data](ext_articles/5db1e862.ext.json)
+
+---
+
+### ITAK slams Govt. over human rights response at UNHRC
+
+*2025-09-10 05:38:56* · [`dailyftlk`](https://www.ft.lk/news/ITAK-slams-Govt-over-human-rights-response-at-UNHRC/56-781465) · `en`
+
+The Illankai Tamil Arasu Kachchi (ITAK) has strongly criticised Foreign Minister Vijitha Herath’s statement at the 60th session of the United Nations Human Rights Council (UNHRC), highlighting what it calls the Government’s continued failure to address accountability, reconciliation and the rights of Tamil communities in Sri Lanka.
+
+“We refer to the statement made by Vijitha Herath at the 60th session of the UN Human Rights Council. At the outset, we must record our deep disappointment in the Government’s response to several pressing issues of accountability and reconciliation that are still outstanding.
+
+This Government came into office holding out several promises. However, one full year after the President was elected, we are yet to see even the beginnings of those promises being fulfilled.
+
+...
+
+[Data](articles/f3c9efdb.json)
+
+[Extended Data](ext_articles/f3c9efdb.ext.json)
+
+---
 
 ### Nepal Parliament set on fire after PM quits amid anti-corruption protests
 
@@ -47,6 +261,8 @@ The unrest followed the resignation of Home Minister Ramesh Lekhak, who stepped 
 ...
 
 [Data](articles/8f6ae308.json)
+
+[Extended Data](ext_articles/8f6ae308.ext.json)
 
 ---
 
@@ -66,6 +282,8 @@ The Minister said he had advised Sri Lankans to remain indoors, avoid protest ar
 
 [Data](articles/fce20772.json)
 
+[Extended Data](ext_articles/fce20772.ext.json)
+
 ---
 
 ### Engineers urged to lead Sri Lanka’s industrial transformation at IESL NEC 2025
@@ -81,6 +299,8 @@ Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysin
 ...
 
 [Data](articles/0550e02b.json)
+
+[Extended Data](ext_articles/0550e02b.ext.json)
 
 ---
 
@@ -98,6 +318,8 @@ His academic training includes an MBA from Harvard Business School, a Master of 
 
 [Data](articles/c0ed5dc0.json)
 
+[Extended Data](ext_articles/c0ed5dc0.ext.json)
+
 ---
 
 ### VAT on Digital Services: Insights from ICCSL webinar
@@ -111,6 +333,8 @@ The session opened with a welcome note by ICCSL Chairman Shanil Fernando who emp
 ...
 
 [Data](articles/a8ce855b.json)
+
+[Extended Data](ext_articles/a8ce855b.ext.json)
 
 ---
 
@@ -130,6 +354,8 @@ However, the decision has sparked debate over the selection process and question
 
 [Data](articles/26c38211.json)
 
+[Extended Data](ext_articles/26c38211.ext.json)
+
 ---
 
 ### Saudi Transport and Logistics Minister receives Minister Bimal Rathnayake
@@ -143,6 +369,8 @@ During the meeting, Minister Rathnayake briefed Minister Al-Jasser on the recent
 ...
 
 [Data](articles/0507cb39.json)
+
+[Extended Data](ext_articles/0507cb39.ext.json)
 
 ---
 
@@ -164,6 +392,8 @@ He is professionally accredited in finance by Chartered Accountants Australia an
 
 [Data](articles/9748bf89.json)
 
+[Extended Data](ext_articles/9748bf89.ext.json)
+
 ---
 
 ### CMA Sri Lanka to host Silver Jubilee international conference on AI impact on policy, stability and growth
@@ -182,6 +412,8 @@ Central Bank of Sri Lanka Assistant Governor Dr. Chandranath Amarasekara, who is
 
 [Data](articles/ccab74ca.json)
 
+[Extended Data](ext_articles/ccab74ca.ext.json)
+
 ---
 
 ### Minister Sunil Handunnetti leads strategic meeting with Export Development Officers
@@ -198,6 +430,8 @@ The meeting was attended by the Industry and Entrepreneurship Development Deputy
 
 [Data](articles/aa7d97c5.json)
 
+[Extended Data](ext_articles/aa7d97c5.ext.json)
+
 ---
 
 ### 18 premium channels, 6.8 million viewers — endless advertising possibilities with Dialog Television
@@ -211,6 +445,8 @@ Dialog Television offers advertisers access to 18 premium channels carefully cur
 ...
 
 [Data](articles/1c4063a0.json)
+
+[Extended Data](ext_articles/1c4063a0.ext.json)
 
 ---
 
@@ -300,6 +536,8 @@ Califolink launched its ITT operations at CWIT Terminal with the aim of enhancin
 
 [Data](articles/59c2199a.json)
 
+[Extended Data](ext_articles/59c2199a.ext.json)
+
 ---
 
 ### Salesforce AI Research advances the agentic enterprise by simulating enterprise environments
@@ -315,6 +553,8 @@ To measure readiness, Salesforce launched the Agentic Benchmark for CRM, the fir
 ...
 
 [Data](articles/6f0c6e5e.json)
+
+[Extended Data](ext_articles/6f0c6e5e.ext.json)
 
 ---
 
@@ -334,6 +574,8 @@ Speaking at the official handover, CBA Director and Chief Executive Officer, Ruw
 
 [Data](articles/aada0760.json)
 
+[Extended Data](ext_articles/aada0760.ext.json)
+
 ---
 
 ### Transport sector companies contribute more than one-third of CSE turnover amid profit-takings
@@ -347,6 +589,8 @@ Both indices moved downwards. The All Share Price Index went down by 232 points,
 ...
 
 [Data](articles/f1db9ea3.json)
+
+[Extended Data](ext_articles/f1db9ea3.ext.json)
 
 ---
 
@@ -366,6 +610,8 @@ Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to t
 
 [Data](articles/8f0c4c4e.json)
 
+[Extended Data](ext_articles/8f0c4c4e.ext.json)
+
 ---
 
 ### 18 Premium Channels, 6.8 Million Viewers — Endless Advertising Possibilities with Dialog Television
@@ -379,6 +625,8 @@ Dialog Television offers advertisers access to 18 premium channels carefully cur
 ...
 
 [Data](articles/aaeb5f34.json)
+
+[Extended Data](ext_articles/aaeb5f34.ext.json)
 
 ---
 
@@ -939,6 +1187,32 @@ Why you don't accept foreign mechanism. Are you afraid of this? You do not accep
 [Data](articles/db15dff7.json)
 
 [Extended Data](ext_articles/db15dff7.ext.json)
+
+---
+
+### Government to buy 2000 new cabs
+
+*2025-09-09 17:19:54* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-අලුතෙන්-කැබ්-රථ 2000ක්-මිලට-ගන්න-යයි/11-418391) · `si`
+
+Cabinet spokesperson Dr. Nalinda Jayatissa says that a budget is aimed at development of budget presented in November.
+
+The Minister was speaking at a media briefing in the Cabinet Decision in the Government Information Department this morning.
+
+It is also expected that 2000 cabs are expected to be purchased by field officials, especially in regional development work.
+
+Remembered that the covid has commenced before the covid papers, which have been stopped before the corvs.
+
+They have identified such essential projects and reviewed their days, timely, and the relevant cost estimates.
+
+The Minister said that the proposals of their budget, as well as the Ministry of Ministries, has been submitted by the Provincial Council level.
+
+It also stated that the ministries have applied for the stability of the economy into the lives of the people and will be devoted to the budget.
+
+◼️
+
+[Data](articles/8a51ba88.json)
+
+[Extended Data](ext_articles/8a51ba88.ext.json)
 
 ---
 
@@ -1811,219 +2085,5 @@ Australian girl Sara, who lives alone in Tokyo, decided to try something differe
 [Data](articles/58fb96b2.json)
 
 [Extended Data](ext_articles/58fb96b2.ext.json)
-
----
-
-### What was revealed in the cabinet about Sampath Manamperici
-
-*2025-09-09 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214361) · `si`
-
-Cabinet Spokesperson Minister Nalinda Jayatissa said that Sampath Manamperi had been identified as Sampath Manamperi, who had been identified as an organized crime criminal gang manufacture.
-
-Addressing the cabinet decisions today (09), Minister Nalinda Jayatissa has identified him as a suspect in the murder of the TNA.
-
-"Manamperi has been a police constable for a time. Also, an intelligence officer worked as a little time. He recognized him as a suspect in connection with the assassination of MP Raviraj. Accordingly, the candidate of the CEB is the candidate of the Knowledge. This is the family of the Manampari family who has been a frequently uncovered family politicians in these areas including Tangalle, Middeniya, Hambantota including Tangalle, Middeniya, Hambantota including Tangalle family. It is the biggest thing you can do to the people of the Civil Rajapakse, including Namal Rajapaksa.
-
-◼️
-
-[Data](articles/d371ca7e.json)
-
-[Extended Data](ext_articles/d371ca7e.ext.json)
-
----
-
-### The first match of the Asian Trophy today
-
-*2025-09-09 14:00:13* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානයේ-පළමු-තරගය-අද/9-418383) · `si`
-
-The Asia Twenty20 cricket tournament will commence today (09).
-
-Accordingly, the Afghan group and the Hong Kong team are scheduled to compete as the first match.
-
-◼️
-
-[Data](articles/75b3d536.json)
-
-[Extended Data](ext_articles/75b3d536.ext.json)
-
----
-
-### France’s Macron seeks new prime minister after government’s collapse
-
-*2025-09-09 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112319/frances-macron-seeks-new-prime-minister-after-governments-collapse) · `en`
-
-French President Emmanuel Macron is seeking his fifth prime minister in less than two years after opposition parties united to kick out centre-right Prime Minister Francois Bayrou over his unpopular plans for budget tightening.
-
-Bayrou, handed a 364-194 defeat in a parliamentary confidence vote on Monday, will officially hand in his resignation to Macron during Tuesday.
-
-Whoever Macron picks to succeed him will face the near impossible task of uniting parliament and finding ways to get a budget for next year adopted.
-
-Defence Minister Sebastien Lecornu’s name was among those circulating, with other options being to pick someone from the centre-left, or a technocrat.
-
-There are no rules governing who Macron should choose, or how fast. Macron, 47 and in office since 2017, will appoint his new prime minister in the next few days, his office said on Monday.
-
-...
-
-[Data](articles/5d68a5fd.json)
-
-[Extended Data](ext_articles/5d68a5fd.ext.json)
-
----
-
-### Continuing Violence Struggle: Nepal Prime Minister is ready to flee to China or Thailand?
-
-*2025-09-09 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224622) · `ta`
-
-Nepal government's ban on social media has erupted across the country. So far, 19 of the demonstrators have died. Many more have been injured.
-
-Demonstrators have set fire to the Nepal Prime Minister's residence, the houses of the former and today's ministers, party offices and parliamentary building.
-
-As the situation worsens, Nepal Prime Minister KP. Reports have surfaced that Sharma is preparing to travel to China or Thailand. This news has further enhanced the tense situation in Nepal.
-
-Despite the implementation of the curfew in Nepal, people are engaged in a protest in Parliament and elsewhere in Kathmandu, the capital.
-
-These demonstrations are mainly carried out by "gen Z" generation youth. They are furious with the social media ban and are protesting against the government's lack of solving the long -term problems such as corruption and lack of economic inequality.
-
-...
-
-[Data](articles/cee26268.json)
-
-[Extended Data](ext_articles/cee26268.ext.json)
-
----
-
-### Cabinet permits for the 2026 allocation Bill
-
-*2025-09-09 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224625) · `ta`
-
-The Cabinet meeting held on the first of July was approved for the preparation of the Allocation Bill for the Fiscal Year 2026.. Cabinet Spokesperson Minister Nalinda Jayatissa said this.
-
-Accordingly, the Attorney General's permission has been granted to the Allocation Bill for the 2026 financial year prepared by the Attorney.
-
-The Cabinet has approved the proposal submitted as the Minister of Finance, Planning and Economic Development as Minister of Finance, Planning and Economic Development to publish the Bill in the Gazette and subsequently submitted parliamentary approval.
-
-◼️
-
-[Data](articles/343ba4d3.json)
-
-[Extended Data](ext_articles/343ba4d3.ext.json)
-
----
-
-### Tomorrow is a debate on the elimination of former presidents' rights
-
-*2025-09-09 13:30:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-உரிமைகளை-நீக்கும்-சட்டமூலம்-நாளை-விவாதம்/175-364268) · `ta`
-
-The Parliamentary Affairs Committee has decided to hold a debate tomorrow (10) from 11.30 am to 3.30 pm.
-
-The Speaker also submitted the Supreme Court on the Bill today (09). The Supreme Court stated that any section of the bill is not contrary to the Constitution.
-
-◼️
-
-[Data](articles/da8aff33.json)
-
-[Extended Data](ext_articles/da8aff33.ext.json)
-
----
-
-### Sri Lanka cabinet clears 2026 budget bill
-
-*2025-09-09 13:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-clears-2026-budget-bill-239820/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved the publication of the Appropriation Bill for 2026, Minister Nalinda Jayatissa said.
-
-The Appropriation Bill was cleared by the Attorney General, he said.
-
-The Appropriation Bill sets out of the allocation of funds for each ministry, and its tabling in the parliament is considered the first reading of the budget.
-
-The Second Reading is the presentation of the formal budget by the Finance Minister in parliament with plans to close the budget deficit if any. (Colombo/Sept09/2025)
-
-◼️
-
-[Data](articles/69065570.json)
-
-[Extended Data](ext_articles/69065570.ext.json)
-
----
-
-### Sri Lanka media personnel went to Israel on private tour, no gov involvement: Minister
-
-*2025-09-09 13:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-media-personnel-went-to-israel-on-private-tour-no-gov-involvement-minister-239813/) · `en`
-
-ECONOMYNEXT – A group of Sri Lankan media personnel currently visiting Israel on a tour sponsored by the Israeli government are traveling privately, with no involvement from the Sri Lankan government, Media Minister Nalinda Jayatissa said.
-
-“They are on a private tour, there is no government involvement,” Jayatissa told reporters who questioned him about allowing journalists to go to Israel when it is accused of killing over 270 journalists.
-
-“Anyone is free to go to Israel, there is no ban on visiting,” he said adding, “We can’t obstruct this.”
-
-“You can ask your colleagues what they think about it when they return. They have applied for leave and gone,” Jayatissa said, dodging questions on what the government’s stance on the matter was.
-
-The Israeli Embassy in India had coordinated the visit, he said.
-
-The group of 16 media personnel include 2 from the state-owned TV channel Rupavahini.
-
-...
-
-[Data](articles/a96da3ab.json)
-
-[Extended Data](ext_articles/a96da3ab.ext.json)
-
----
-
-### President offer Cancellation Bill; Tomorrow Debate
-
-*2025-09-09 13:21:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சலுகை-ரத்து-சட்டமூலம்-நாளை-விவாதம்/175-364267) · `ta`
-
-ஜனாதிபதியின் உரிமைகளை ரத்து செய்யும் சட்டமூலத்தை நாளை விவாதிக்க பாராளுமன்ற அலுவல்கள் குழு முடிவு செய்துள்ளதாக பாராளுமன்ற தொடர்பாடல் பிரிவு தெரிவித்துள்ளது.
-
-The decision was taken at a meeting of the Official Committee headed by the Speaker.
-
-Accordingly, the debate will be held tomorrow from 11.30 am to 3.30 pm.
-
-The Supreme Court has ruled that the President's Rights Bill, which eliminate some of the concessions of the former presidents, is in accordance with the constitution and that it can be passed by a simple majority.
-
-◼️
-
-[Data](articles/16fc2647.json)
-
-[Extended Data](ext_articles/16fc2647.ext.json)
-
----
-
-### Cabinet approval to present 2026 Appropriation Bill to Parliament
-
-*2025-09-09 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112318/cabinet-approval-to-present-2026-appropriation-bill-to-parliament) · `en`
-
-The Cabinet of Ministers has granted approval for the submission of the Appropriation Bill for the 2026 financial tear to the Parliament.
-
-Earlier, at the Cabinet meeting held on July 01, the Cabinet had approved the drafting of the Appropriation Bill.
-
-The Bill, prepared by the Legal Draftsman, has since received clearance from the Attorney General.
-
-Accordingly, the Cabinet also approved the President’s proposal to publish the Bill in the Government Gazette prior to its submission to Parliament for approval.
-
-◼️
-
-[Data](articles/02089f4a.json)
-
-[Extended Data](ext_articles/02089f4a.ext.json)
-
----
-
-### Customs inspected and released the ice containers found in the Middeni
-
-*2025-09-09 13:17:58* · [`adalk`](https://www.ada.lk/breaking_news/මිද්දෙනි​යෙන්-සොයා-ගත්-අයිස්-කන්ටේනර්-රේගුවෙන්-පරික්ෂා-කර-නිදහස්-කරලා-තිබෙන්නේ/11-418382) · `si`
-
-Cabinet spokesperson Dr. Nalinda Jayatissa said that the Customs 2 was discovered in the Ice Drugs Factor in Middeniya.
-
-He was responding to a question referred to a question referred to today at a press conference to notice the Cabinet Decision.
-
-"This containers inspected as customs. The Department of Customs is now conducting an investigation on irregularities. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැත්තෙනුත් පරීක්ෂණයක් කරමින් පවතිනවා. So we can release these containers with plans to take care of and release all things, including what happened. "
-
-◼️
-
-[Data](articles/44c25862.json)
-
-[Extended Data](ext_articles/44c25862.ext.json)
 
 ---

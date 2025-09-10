@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 09:56:28**
+As of **2025-09-10 10:20:25**
 
 ## Newspaper Stats
 
-*Scraped **75,098** Articles*
+*Scraped **75,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,119 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,273
+adalk | 7,276
 adaderanalk | 9,625
 tamilmirrorlk | 11,197
-virakesarilk | 12,259
-adaderanasinhalalk | 13,081
+virakesarilk | 12,260
+adaderanasinhalalk | 13,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,797 (87.6%) of 75,098 articles have been extended.
+65,808 (87.6%) of 75,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### நிலைமை எங்க போச்சுனு நீங்களே பாருங்க
+### කථානායකට එරෙහිවත් විශ්වාසභංගයක්?
+
+*2025-09-10 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214391) · `si`
+
+කථානායකවරයාට එරෙහිව විශ්වාසභංගයක් ගෙන ඒමට කටයුතු කරන බව සමගි ජන බලවේගයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුමබණ්ඩාර මහතා පවසයි.
+
+මන්ත්‍රීවරයා සඳහන් කර සිටියේ, විපක්ෂයේ ප්‍රජාත්‍රන්තවාදී අයිතිවාසිකම් රැකීමට කටයුතු නොකරන්නේ කථානායකවරයාට එරෙහිව විශ්වාසභංගයක් ගෙන ඒමට කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/038f6a08.json)
+
+---
+
+### யாழில் பெண் நாய்களை பிடித்து கொடுப்பவர்களுக்கு சன்மானம் - பிரதேச சபை அறிவிப்பு!
+
+*2025-09-10 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/224693) · `ta`
+
+யாழ்ப்பாணம், நல்லுர் பிரதேச சபையின் பெண் நாய்களுக்கான இலவச கருத்தடை சிகிச்சை முகாமிற்கு சமூக நல நோக்கில் பெண் கட்டாகாலி நாய்களைப் பிடித்து தருபவர்களுக்கு ஒரு நாய்க்கு 600 ரூபா வீதம் சன்மானம் வழங்கப்படும் என நல்லூர் பிரதேச சபை அறிவித்துள்ளது.
+
+நாய்களினால் ஏற்படும் விபத்துக்கள் மற்றும் தொற்று நோய்களைக் கருத்திற் கொண்டு நாய்களின் பெருக்கத்தினைக் கட்டுப்படுத்தும் நோக்குடன் பெண்நாய்களுக்கான கருத்தடை செயற்றிட்டத்தினை நல்லூர் பிரதேச சபை முன்னெடுக்கின்றது.
+
+எதிர்வரும் 10 ஆம் திகதி முதல் 14 நாம் திகதி வரை நல்லூர் பிரதேச சபையின் ஆளுகைக்குட்பட்ட இடங்களில் பெண் நாய்களுக் கான இலவச கருத்தடை சிகிச்சை முகாம் நடைபெறவுள்ளது.
+
+பெண் நாய்களுக்கான குறித்த இலவச கருத்தடை சிகிச்சை முகாமில் கலந்து கொண்டு பொதுமக்கள் அனைவரும் தங்களால் வளர்க்கப்படும் பெண் நாய்களுக்குரிய கருத்தடை சிகிச்சையினை பெற்றுக்கொள்ளுமாறும் பிரதேச சபை கோரிக்கை விடுத்துள்ளது.
+
+...
+
+[Data](articles/9ece2416.json)
+
+---
+
+### Speaker informs the no-confidence motion against Aruna Jayasekara
+
+*2025-09-10 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214390) · `si`
+
+The Speaker presented his decision on the no-confidence motion presented by the opposition to the Deputy Minister of Defense to the Deputy Minister of Defense.
+
+The Speaker said that due to the provisions of the Constitution, it is not acceptable to him as it does not comply with the proper order.
+
+MP Gayantha Karunatilake said under Standing Order
+
+◼️
+
+[Data](articles/1573ce52.json)
+
+[Extended Data](ext_articles/1573ce52.ext.json)
+
+---
+
+### No confidence proposals against Aruna Jayasekara
+
+*2025-09-10 09:41:40* · [`adalk`](https://www.ada.lk/breaking_news/අරුණ-ජයසේකරට-එරෙහි-විශ්වාසභංග-යෝජනාව-පිළිගත-නොහැකියි/11-418394) · `si`
+
+Speaker Medical Minister Wickramaratne said that the denaging proposal brought by the opposition against Deputy Minister Aruna Jayasekera has unable to exist.
+
+He made this statement at the beginning of the beginning of the country today (10th).
+
+◼️
+
+[Data](articles/30a0eb14.json)
+
+[Extended Data](ext_articles/30a0eb14.ext.json)
+
+---
+
+### Cricket team to Pakistan for Limited Band
+
+*2025-09-10 09:37:20* · [`adalk`](https://www.ada.lk/sports/සීමිත-පන්දුවාර-තරගාවලියට-ක්‍රිකට්-කණ්ඩායම-නොවැම්බරයේදී-පාකිස්තානයට/9-418392) · `si`
+
+Three ODIs with Pakistan and Sri Lanka, Pakistan and Afghanistan
+
+National Cricket Team for November to join the Tri-Navai 20 Tournament
+
+SLC announces that traveling in Pakistan for the month. The tournament will be held from November 11 to 29th.
+
+◼️
+
+[Data](articles/4e126133.json)
+
+[Extended Data](ext_articles/4e126133.ext.json)
+
+---
+
+### Parliamentary Council begins
+
+*2025-09-10 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214389) · `si`
+
+◼️
+
+[Data](articles/dd75fc65.json)
+
+[Extended Data](ext_articles/dd75fc65.ext.json)
+
+---
+
+### Look at the situation where the situation
 
 *2025-09-10 09:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நிலைமை-எங்க-போச்சுனு-நீங்களே-பாருங்க/62-364318) · `ta`
 
@@ -40,19 +136,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/48876dbf.json)
 
+[Extended Data](ext_articles/48876dbf.ext.json)
+
 ---
 
-### உயிரை மாய்த்துக்கொள்வதற்கான சந்தர்ப்பங்களை சமூகத்தில் குறைப்பதுதான் எங்களுடைய நோக்கம் - சுமித்ரயோ
+### Our aim is to reduce the opportunities of life in the community - Sumitrao
 
 *2025-09-10 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224278) · `ta`
 
-சமகால சமூகப் பிரச்சினைகளில் உயிர்மாய்ப்பு மிகவும் முக்கியமான ஒரு விடயமாக காணப்படுகிறது. உயிர் மாய்ப்பு நிகழாத காலமோ சமூகமோ உலகில் எங்கும் இல்லை. உயிர் மாய்ப்பில் ஈடுபடுவதானது ஒரு தனிமனிதனது செயலாகக் காணப்பட்டாலும் அது ஒரு சமூக நிகழ்வாகவே பார்க்கப்படுகின்றது. இதன்படி ஒரு மனிதன் பிரச்சினையை எதிர்நோக்குகின்றபோது, அப்பிரச்சினைக்கு முகங்கொடுக்கத் தெரியாமல் உயிரை மாய்த்துக்கொள்ள முடிவெடுக்கிறான். இதனால்தான் உயிர்மாய்ப்பு தடுப்பு முறையானது மிகவும் முக்கியமான ஒன்றாக இருக்கிறது.
+Vowelism is a very important issue in contemporary social issues. There is no time or social in the world where there is no life. Although the life of life is seen as an act of an individual, it is seen as a social phenomenon. Accordingly, when a man is facing the problem, he decides to make a living without knowing the problem.. This is why life -threatening system is very important.
 
-உயிர்மாய்ப்பு தடுப்பு மற்றும் விழிப்புணர்வு உள்ளிட்ட பல்வேறு விடயங்களை சுமித்ரயோ அமைப்பின் தன்னார்வ தொண்டர்கள் இருவர் வீரகேசரி பத்திரிகைக்கு வழங்கிய விசேட செவ்வி வருமாறு............
+Various Volunteers of the Sumitrao Organization were presenting a special speech to the Weerakesari magazine ............
+
+In 2022, 3406 people died lived by the police website. Accordingly, 09 to 10 people die of life per day. According to statistics from the National Mental Health Organization, 15 of the people in the country are engaged in life -threatening efforts.. In addition, 10 people fail to live their lives. These incidents affect their dependents.
 
 ...
 
 [Data](articles/c6291176.json)
+
+[Extended Data](ext_articles/c6291176.ext.json)
 
 ---
 
@@ -1232,8 +1334,6 @@ The protests began yesterday after the government's decision to ban 26 social me
 
 *2025-09-09 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112332/nepals-supreme-court-and-ministers-homes-set-on-fire-amidst-public-revolt) · `en`
 
-VIDEO | Nepal: Protesters set the Supreme Court in Kathmandu on fire amid anti-government protests.#Nepalprotest (Full video available on PTI Videos - https://t.co/n147TvrpG7) pic.twitter.com/1ZlWODFC6C— Press Trust of India (@PTI_News) September 9, 2025
-
 Nepal’s Parliament building, Supreme Court, and residences of several senior leaders were set ablaze on Tuesday as anti-government protests spiralled out of control, minutes after Prime Minister K P Sharma Oli resigned.
 
 Visuals shared by news agency PTI confirmed the fire at the Supreme Court, while the storming and burning of Parliament was reported by television channels and attested to by multiple reporters on the ground.
@@ -1626,6 +1726,28 @@ The police have informed the public on festival of the skies of the skills of th
 
 ---
 
+### Nochchiyagama B Onion Onion Successful Despite the helpless
+
+*2025-09-09 16:51:43* · [`adalk`](https://www.ada.lk/breaking_news/නොච්චියාගම-බී-ලූණු-අස්වැන්න-සාර්ථක-වුවත්-ගොවීන්-අසරණයි/11-418387) · `si`
+
+Farmers cultivated big onions in Nochchiyagama have started harvest these days. Although their yields are very successful, they are deeply helpless without getting proper cost.
+
+Although the yield is successful, the sale of imported onions in the market cannot be obtained from low costs. Though the government imposed a tax on the onion onions, the farmers pointed out that it was not efficient.
+
+They highlighted the daily preparation, water preparation, water supply, disease, disease and insects of cultivation and profits for the administration of the day.
+
+The production of a kilo of onions is Rs.. The Farmers Farmers noted that if properly cost, the farmers' farmers said.
+
+The farmers have asked the government - the raid of the imported onions, the raid of the local B onions, can raid a safe marketplace, the local big onion farmer pointed out if the onion plant is performed from the beginning.
+
+◼️
+
+[Data](articles/52df5750.json)
+
+[Extended Data](ext_articles/52df5750.ext.json)
+
+---
+
 ### Removal of MP buddy is no salvation
 
 *2025-09-09 16:42:42* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-මන්ත්‍රීගේ-සාමාජිකත්වය-ඉවත්-කිර‍ිම-පමණක්-ප්‍රමණවත්-නෑ/11-418386) · `si`
@@ -1955,141 +2077,5 @@ Recognizing the high-railway measures in the Environment and Natural Research Ce
 [Data](articles/c3082ada.json)
 
 [Extended Data](ext_articles/c3082ada.ext.json)
-
----
-
-### Nepal Prime Minister resigns
-
-*2025-09-09 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/224631) · `ta`
-
-Prime Minister KP Sharma has resigned shortly after the people in the country.
-
-◼️
-
-[Data](articles/f5d4f4bb.json)
-
-[Extended Data](ext_articles/f5d4f4bb.ext.json)
-
----
-
-### Nepal Prime Minister Sharma resigns
-
-*2025-09-09 15:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-பிரதமர்-ஷர்மா-ஒலி-ராஜினாமா/50-364278) · `ta`
-
-Prime Minister Sharma has resigned from the country due to a continuous struggle in Nepal for the past two days.
-
-The Nepal government was protesting against the sudden ban on the Base Book, YouTube and X and the Social Web. In this, a large number of young people participated and chanted slogans against the government. In the wake of the struggle violent, 19 people were killed in a police firing.. The 200-year-old butt door was injured.
-
-In this case, the struggle took place for the second day. Subsequently, it was reported that the Nepal Congress was considering the withdrawal of the support of Sharma's sound government.. Agriculture Minister Ram Nath, President of Nepal Congress, Prime Minister KP. Resigned from his post to condemn the repression of the Sound -led government. Home Minister Ramesh Lekhak resigned from the role of moral responsibility for the government yesterday.
-
-...
-
-[Data](articles/b595a395.json)
-
-[Extended Data](ext_articles/b595a395.ext.json)
-
----
-
-### Nepal Parliament breached, building set on fire by Gen Z protesters
-
-*2025-09-09 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112325/nepal-parliament-breached-building-set-on-fire-by-gen-z-protesters) · `en`
-
-Minutes before Nepalese Prime Minister KP Sharma Oli resigned from his office, Gen Z protesters broke into Parliament and set fire to one of the buildings on the premises.
-
-Demonstrators also set fire to Oli’s residence in Bhaktapur’s Balkot area and other senior leaders amid the ongoing protests triggered by a since-revoked social media ban.
-
-Visuals showed thousands of protesters storming the Parliament as plumes of grey and black smoke arose in the area.
-
-Even as the building was on fire, thousands of protesters continued to march towards the Parliament, shouting slogans and raising flags in the area, visuals showed.
-
-The demonstrators also entered the Singha Durbar premises, breaking into the area through its western gate. They also reportedly set the gate on fire while forcing their way into the central administrative complex of Nepal.
-
-The Gen Z protesters shouted slogans like “KP Chor, Desh Chhod”, “Take Action Against Corrupt Leaders” across Nepal’s capital city of Kathmandu.
-
-...
-
-[Data](articles/0d740226.json)
-
-[Extended Data](ext_articles/0d740226.ext.json)
-
----
-
-### Sectoral Oversight Committee on Justice approves Presidents’ Entitlements (Repeal) Bill
-
-*2025-09-09 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112324/sectoral-oversight-committee-on-justice-approves-presidents-entitlements-repeal-bill) · `en`
-
-The Presidents’ Entitlements (Repeal) Bill has been approved after consideration by the Sectoral Oversight Committee on Governance, Justice and Civil Protection.
-
-The approval was granted by the Committee during a meeting held in Parliament under the chairmanship of Member of Parliament Dr. Najith Indika, today (09).
-
-Commenting on the Bill, officials of the Ministry of Justice and National Integration said that, as stated in the Government Policy Statement, the Presidents’ Entitlements (Repeal) Bill is expected to remove non-economic entitlements granted to former and future Presidents and their families, taking into account the economic conditions of the country.
-
-...
-
-[Data](articles/b8a1c5db.json)
-
-[Extended Data](ext_articles/b8a1c5db.ext.json)
-
----
-
-### Police warn public on fire hazards of ‘sky lanterns’
-
-*2025-09-09 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112323/police-warn-public-on-fire-hazards-of-sky-lanterns) · `en`
-
-Sri Lanka Police have cautioned the general public regarding the serious risks associated with the indiscriminate use of sky lanterns during festive seasons and special celebrations across the island.
-
-“It has been observed that many individuals release sky lanterns of different sizes, which are propelled into the sky using an open flame. While these lanterns may appear entertaining, they pose a significant fire hazard as they may drift uncontrollably and fall to the ground while still alight,” the Police Media Division said.
-
-Authorities warned that if such lanterns descend onto sensitive or high-risk locations—such as fireworks manufacturing sites, fuel stations, petroleum storage facilities, residential homes, commercial buildings, or crowded public areas—they could ignite destructive fires, causing extensive property damage and potential loss of life.
-
-...
-
-[Data](articles/5fd30bc4.json)
-
-[Extended Data](ext_articles/5fd30bc4.ext.json)
-
----
-
-### Sri Lanka to lease land for 38 investment projects
-
-*2025-09-09 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lease-land-for-38-investment-projects-239849/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved leasing land from industrial parks to 38 investment projects, Minister Nalinda Jayatissa said.
-
-“The total investment value to be made by the 38 investors is Rs. 2,548.22 million,” Jayatissa told reporters.
-
-It is expected to generate about 1,559 direct employment opportunities.
-
-The land is to be provided from industrial parks on a lease basis for a maximum period of 35 years, he said.
-
-42 project proposals were recommended by the ‘Regional Industrial Service Committee’, and the Ministry of Industry and Entrepreneurship Development’s Project Evaluation Committee approved the allocation of land for 38 projects.
-
-Land has been allocated in Ampara, Trincomalee, Batticaloa, Kalutara, Minuwangoda, Matugama, Millaniya, Ulapaney, Ratnapura Nalanda, Karandeniya, Bata Atha, Mannar, Galigamuwa, Embilipitiya, Buththala, Dankotuwa, Puttalam, and Aluthapola. (Colombo/Sep9/2025)
-
-◼️
-
-[Data](articles/b57a3ece.json)
-
-[Extended Data](ext_articles/b57a3ece.ext.json)
-
----
-
-### Sampath Manamperi an ex-cop and suspect in Raviraj murder – Cabinet Spokesman
-
-*2025-09-09 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112322/sampath-manamperi-an-ex-cop-and-suspect-in-raviraj-murder-cabinet-spokesman-) · `en`
-
-Cabinet Spokesman Dr. Nalinda Jayatissa reveals that Sampath Manamperi, who is accused of concealing two container loads of raw materials allegedly used to manufacture the drug ‘Ice’ and belonging to underworld figure ‘Kehelbaddara Padme’, has been identified as a former police intelligence officer.
-
-Participating in the weekly Cabinet media briefing held today (09), Minister Jayatissa said that the absconding suspect has also been identified as a suspect in the murder of the late Nadarajah Raviraj, a former Tamil National Alliance (TNA) Parliamentarian.
-
-The minister further stated, “This person named Sampath Manamperi has served as a police constable for a while. He has also served as an intelligence officer for a short period. He had also been identified as a suspect in the murder of MP Raviraj.”
-
-Jayatissa stated that he had contested as a candidate of the Sri Lanka Podujana Peramuna (SLPP) despite those allegations and that simply cancelling his party membership would not suffice.
-
-...
-
-[Data](articles/2ce5ddb9.json)
-
-[Extended Data](ext_articles/2ce5ddb9.ext.json)
 
 ---

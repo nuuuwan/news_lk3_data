@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 04:54:22**
+As of **2025-09-10 05:56:28**
 
 ## Newspaper Stats
 
-*Scraped **75,055** Articles*
+*Scraped **75,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 763
 economynextcom | 4,550
-islandlk | 4,611
+islandlk | 4,621
 dailymirrorlk | 4,733
-dailyftlk | 5,316
+dailyftlk | 5,327
 adalk | 7,272
 adaderanalk | 9,619
 tamilmirrorlk | 11,191
@@ -26,19 +26,199 @@ adaderanasinhalalk | 13,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,628 (87.4%) of 75,055 articles have been extended.
+65,668 (87.5%) of 75,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
+### Nepal Parliament set on fire after PM quits amid anti-corruption protests
+
+*2025-09-10 05:37:22* · [`dailyftlk`](https://www.ft.lk/news/Nepal-Parliament-set-on-fire-after-PM-quits-amid-anti-corruption-protests/56-781464) · `en`
+
+Nepal’s Parliament building has been set on fire, as protesters have broken in and smashed windows
+
+Hundreds of protesters stormed Nepal’s Parliament building in Kathmandu yesterday after days of anti-corruption demonstrations, setting part of the structure ablaze and vandalising its interior, the BBC reported.
+
+Protesters smashed windows, spray-painted anti-Government slogans, and carried paintings and uprooted plants out of the compound on motorbikes. Around a fire lit at the building’s entrance, many waved Nepal’s flag and chanted against corruption. One graffiti message read: “you took the wrong fight.”
+
+The unrest followed the resignation of Home Minister Ramesh Lekhak, who stepped down on moral grounds after at least 19 people were killed during the protests, local media reported. Seventeen died in Kathmandu and two in the eastern city of Itahari, according to police. Dozens more were injured in clashes.
+
+...
+
+[Data](articles/8f6ae308.json)
+
+---
+
+### Sri Lankan citizens in Nepal safe amid unrest
+
+*2025-09-10 05:36:46* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-citizens-in-Nepal-safe-amid-unrest/56-781463) · `en`
+
+Foreign Affairs, Foreign Employment and Tourism Acting Minister Arun Hemachandra yesterday said no Sri Lankan was reported harmed in Nepal in light of the violent unrest unfolding in Kathmandu and other parts of the country.
+
+Hemachandra said he had personally spoken with members of the Sri Lankan community in Nepal to check on their safety and wellbeing.
+
+There are 22 Sri Lankan students in Nepal and a total of 99 nationals, including Embassy staff and residents. “Our Embassy has established WhatsApp groups and circulated emergency contact numbers to remain in close touch with everyone,” he said.
+
+The Minister said he had advised Sri Lankans to remain indoors, avoid protest areas, and strictly follow curfew measures. He added that the Government of Sri Lanka stands ready to provide further assistance, including evacuation, if necessary.
+
+...
+
+[Data](articles/fce20772.json)
+
+---
+
+### Engineers urged to lead Sri Lanka’s industrial transformation at IESL NEC 2025
+
+*2025-09-10 05:33:00* · [`dailyftlk`](https://www.ft.lk/business/Engineers-urged-to-lead-Sri-Lanka-s-industrial-transformation-at-IESL-NEC-2025/34-781462) · `en`
+
+The National Engineering Conference (NEC) 2025, organised by the Institution of Engineers, Sri Lanka (IESL), was held recently at Hotel Galadari, bringing together engineering professionals, academics, policymakers, and industry leaders to deliberate on engineering-driven solutions for national development.
+
+Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe attended as the Chief Guest. In his keynote address, he emphasised that a collective force of engineers could “change the trajectory of the country,” stressing that Sri Lanka had missed the opportunities of the first four industrial revolutions.
+
+“Our Government’s goal is to achieve the lost industrial transformation,” he stated, urging engineers to lead this mission while the Government acts as a facilitator. He appealed for the wholehearted support of Sri Lanka’s engineering community to drive the country toward rapid industrialisation.
+
+...
+
+[Data](articles/0550e02b.json)
+
+---
+
+### Nayana Mawilmada appointed to three JKH hotels boards
+
+*2025-09-10 05:30:24* · [`dailyftlk`](https://www.ft.lk/business/Nayana-Mawilmada-appointed-to-three-JKH-hotels-boards/34-781461) · `en`
+
+Three John Keells group companies yesterday announced the appointment of Nayana Mawilmada as Non-Executive Director to the boards of Trans Asia Hotels PLC, Asian Hotels and Properties PLC, and John Keells Hotels PLC.
+
+Mawilmada is the President of the Leisure and Property industry groups at John Keells Holdings. Among his previous roles he has served as Urban Development Authority Director General, York Street Partners Managing Director, and an Asian Development Bank Urban Development Specialist based in Manila.
+
+His academic training includes an MBA from Harvard Business School, a Master of City Planning from MIT, and Bachelor of Architecture from Hampton University, USA. He was awarded an Eisenhower Fellowship in 2017.
+
+◼️
+
+[Data](articles/c0ed5dc0.json)
+
+---
+
+### VAT on Digital Services: Insights from ICCSL webinar
+
+*2025-09-10 05:28:08* · [`dailyftlk`](https://www.ft.lk/business/VAT-on-Digital-Services-Insights-from-ICCSL-webinar/34-781460) · `en`
+
+The International Chamber of Commerce Sri Lanka (ICCSL), through its Research, Knowledge Management, and Taxation (RKMT) Committee, recently successfully hosted a hybrid webinar titled “VAT on Digital Services and Cross-Border Compliance,” attracting businesses, professionals, and policymakers eager to understand the newly implemented VAT framework for digital services.
+
+The session opened with a welcome note by ICCSL Chairman Shanil Fernando who emphasised the importance of preparing Sri Lanka’s business community for the digital economy. He underscored that effective tax administration in the digital space will not only strengthen Government revenue but also enhance fairness and competitiveness. His remarks set a strong foundation for the discussions that followed.
+
+...
+
+[Data](articles/a8ce855b.json)
+
+---
+
+### Daminda Rambukwella appointed Civil Aviation Authority Chief amid controversy
+
+*2025-09-10 05:25:04* · [`dailyftlk`](https://www.ft.lk/business/Daminda-Rambukwella-appointed-Civil-Aviation-Authority-Chief-amid-controversy/34-781459) · `en`
+
+The Cabinet of Ministers has approved the appointment of Capt. Daminda Rambukwella as the new Director General and Chief Executive Officer of the Civil Aviation Authority of Sri Lanka (CAASL), a move that has already stirred controversy in political and professional circles.
+
+Transport, Highways, Ports and Civil Aviation Deputy Minister Eng. Janitha Ruwan Kodithuwakku officially handed over the letter of appointment to Rambukwella yesterday at the Ministry premises.
+
+Rambukwella is an aviation professional with over 25 years of experience.
+
+However, the decision has sparked debate over the selection process and questions about political influence. Both Rambukwella and another shortlisted candidate, Primal De Silva, are widely seen as loyalists of former President Mahinda Rajapaksa, raising concerns over whether merit or political ties guided the final outcome.
+
+...
+
+[Data](articles/26c38211.json)
+
+---
+
+### Saudi Transport and Logistics Minister receives Minister Bimal Rathnayake
+
+*2025-09-10 05:23:22* · [`dailyftlk`](https://www.ft.lk/business/Saudi-Transport-and-Logistics-Minister-receives-Minister-Bimal-Rathnayake/34-781458) · `en`
+
+Saudi Arabia’s Transport and Logistics Minister Saleh Al-Jasser received Transport, Highways, Ports and Civil Aviation Minister of Sri Lanka, Bimal Rathnayake on the sidelines of the 2nd Sustainable Maritime Industry Conference held in Jeddah from 03 to 04 September.
+
+During the meeting, Minister Rathnayake briefed Minister Al-Jasser on the recent developments in Sri Lanka highlighting the country’s progress toward political and economic stability. He also underscored the growing opportunities in Sri Lanka’s ports and logistics sectors and emphasised the importance of establishing a bilateral mechanism to explore opportunities for collaboration between the two countries. Minister Ratnayake also extended an invitation to the Saudi delegation to participate at the International Maritime Summit, Voyage Sri Lanka- 2025, scheduled to be held on 16 October in Colombo.
+
+...
+
+[Data](articles/0507cb39.json)
+
+---
+
+### Carlsberg Brewery Malaysia’s Anthony Yong joins Lion board
+
+*2025-09-10 05:22:37* · [`dailyftlk`](https://www.ft.lk/business/Carlsberg-Brewery-Malaysia-s-Anthony-Yong-joins-Lion-board/34-781457) · `en`
+
+Lion Brewery (Ceylon) PLC yesterday announced the appointment of Anthony Yong as Non-Executive Director of the company.
+
+Yong is the Chief Financial Officer of Carlsberg Brewery Malaysia Berhad and Carlsberg Marketing Sdn. Bhd. Prior to this, he was the Chief Financial Officer (Malaysia) of XCL Education Group.
+
+He has held several senior finance positions in British American Tobacco, including as a Chief Financial Officer/Finance Director (Malaysia and Singapore) and Corporate Finance Controller (Southeast Asia).
+
+Yong started his career as an auditor (Malaysia and San Francisco, USA) in KPMG and moved on to British American Tobacco in 2000, Lhoist in 2015, and again joined British American Tobacco thereafter. He has worked in Malaysia and other countries such as Bangladesh and Switzerland.
+
+He is professionally accredited in finance by Chartered Accountants Australia and New Zealand, the Malaysian Institute of Accountants, and the Malaysian Institute of Certified Public Accountants.
+
+◼️
+
+[Data](articles/9748bf89.json)
+
+---
+
+### CMA Sri Lanka to host Silver Jubilee international conference on AI impact on policy, stability and growth
+
+*2025-09-10 05:17:21* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-to-host-Silver-Jubilee-international-conference-on-AI-impact-on-policy-stability-and-growth/34-781456) · `en`
+
+The CMA Sri Lanka Silver Jubilee International Management Accounting Conference 2025, themed “Redefining Management Accounting: AI Innovation and Sustainable Value Creation”, will open with its inaugural technical sessions on 17 September at Cinnamon Life, The Forum.
+
+The sessions will be held under the theme “Vision 2030: AI Impact on Policy, Stability and Growth”.
+
+Technical Session 1 will feature a keynote address on “Reshaping Sri Lanka’s Economy: A Path to Fiscal Discipline and Debt Servicing by 2028” by EY Sri Lanka and Maldives Managing Partner and Senior Economic Advisor to the President Duminda Hulangamuwa.
+
+Central Bank of Sri Lanka Assistant Governor Dr. Chandranath Amarasekara, who is a former Alternate Executive Director at the International Monetary Fund (IMF), will deliver a session on “Demystifying the IMF Program: What it Means for Sri Lanka’s Future”.
+
+...
+
+[Data](articles/ccab74ca.json)
+
+---
+
+### Minister Sunil Handunnetti leads strategic meeting with Export Development Officers
+
+*2025-09-10 05:16:35* · [`dailyftlk`](https://www.ft.lk/business/Minister-Sunil-Handunnetti-leads-strategic-meeting-with-Export-Development-Officers/34-781455) · `en`
+
+A special meeting between the Industry and Entrepreneurship Development Minister Sunil Handunnetti, and Export Development Officers serving under the Ministry across the Southern, Western, and Sabaragamuwa provinces was held on 3 September at the premises of the Export Development Board (EDB).
+
+The objective of the discussion was to update Export Development Officers on Sri Lanka’s export direction, review export targets, discuss regional development strategies, and provide a broader understanding of the functions of various divisions within the EDB.
+
+The meeting was attended by the Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe, EDB Chairman and Chief Executive Officer Mangala Wijesinghe, Acting Director General Erandika Dissanayake, along with directors, officials, and Export Development Officers representing the Southern, Western, and Sabaragamuwa provinces.
+
+◼️
+
+[Data](articles/aa7d97c5.json)
+
+---
+
+### 18 premium channels, 6.8 million viewers — endless advertising possibilities with Dialog Television
+
+*2025-09-10 05:13:21* · [`dailyftlk`](https://www.ft.lk/business/18-premium-channels-6-8-million-viewers-endless-advertising-possibilities-with-Dialog-Television/34-781454) · `en`
+
+Dialog Television, Sri Lanka’s #1 Pay-TV service provider, invites corporate advertisers to leverage one of the country’s most powerful media platforms, trusted by over 1.7 million households and more than 90% of Sri Lanka’s corporate sector. With an extended presence in 15,000+ hotels, restaurants, and public venues, Dialog Television reaches more than 6.8 million viewers nationwide, offering unmatched opportunities for brands to build visibility and impact.
+
+Dialog Television offers advertisers access to 18 premium channels carefully curated to reflect what Sri Lankans watch most. These include Star Movies, Hits Now, AXN, Star Vijay, Star Plus, &flix, Colors Tamil, Zee Café, Zee Tamil, Colors, A Plus, Nickelodeon, Citi Hitz, Channel One, ThePapare TV, Channel C and TLC. Covering genres from movies, drama, and entertainment to sports, kids, lifestyle, and music, these channels enable precise audience targeting across diverse demographics and prime-time moments.
+
+...
+
+[Data](articles/1c4063a0.json)
+
+---
+
 ### Separating Chairman and CEO roles in PLCs
 
 *2025-09-10 03:53:43* · [`dailyftlk`](https://www.ft.lk/columns/Separating-Chairman-and-CEO-roles-in-PLCs/4-781439) · `en`
 
-At a recent forum organised by the Sri Lanka Institute of Directors (SLID), the CSE, and the SEC, business leader Murtaza Jafferjee made a powerful case for separating the roles of Chairman and Chief Executive Officer (CEO). This argument aligns with a global consensus on corporate governance: structures that ensure accountability, transparency, and oversight are fundamental to a company’s health and investor trust.
-
-From my experience as Chairman of three listed banks, including Sri Lanka’s two largest, I firmly believe this separation is not just beneficial but essential within the financial sector. However, for companies with concentrated, family-owned, or founder-led structures, the issue demands a more nuanced approach.
+From left: HNB Investment Bank Group Chief Strategy Officer Dr. Yaveen Jayasekera, Frontier Research CEO Nimesha Jayakody, JB Securities CEO and Advocata Institute Chairman Murtaza Jafferjee, Securities and Exchange Commission Chairman Senior Prof. D.B.P.H. Dissabadara, Lynear Wealth Management Managing Director and Co-Founder Dr. Naveen Gunawardane, Alliance Finance Company Deputy Chairman and Managing Director Romani De Silva, Moderator – Independent Consultant Chanaka Wickramasuriya, and Colombo Stock Exchange Marketing Senior Vice President Niroshan Wijesundere – Pix by Ruwan Walpola
 
 ...
 
@@ -105,6 +285,100 @@ Apple introduced several models to the market today, iPhone 17, iPhone 17, and 1
 [Data](articles/eb3bbb7e.json)
 
 [Extended Data](ext_articles/eb3bbb7e.ext.json)
+
+---
+
+### Califolink Logistics expands operations by teaming up with CWIT Terminal
+
+*2025-09-09 23:17:00* · [`islandlk`](http://island.lk/califolink-logistics-expands-operations-by-teaming-up-with-cwit-terminal/) · `en`
+
+Califolink Logistics, a subsidiary of the Ceyline Group, has officially commenced Inter Terminal Trucking (ITT) operations at the Colombo West International Terminal (CWIT), of the Colombo Port, further reinforcing its leadership position as a leading transport solutions provider in Sri Lanka.
+
+Califolink launched its ITT operations at CWIT Terminal with the aim of enhancing container handling efficiency at the Port of Colombo. This strategic move marks a significant milestone in Califolink’s growth journey, expanding its portfolio beyond its renowned expertise in transport services for importers and exporters. Having commenced with an initial fleet of 10 trucks, the company plans to expand the fleet in the future.
+
+...
+
+[Data](articles/59c2199a.json)
+
+---
+
+### Salesforce AI Research advances the agentic enterprise by simulating enterprise environments
+
+*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/salesforce-ai-research-advances-the-agentic-enterprise-by-simulating-enterprise-environments/) · `en`
+
+Salesforce AI Research has unveiled new innovations to help enterprises deploy AI agents that are capable, consistent, and trustworthy.
+
+At the center is CRMArena-Pro, a simulation environment that tests agents in complex, multi-turn scenarios such as sales forecasting, service triage, and CPQ processes. Acting like a digital twin of a business, it introduces real-world “noise” to measure accuracy, efficiency, and resilience before agents go live, enabling organizations to strengthen performance and trust.
+
+To measure readiness, Salesforce launched the Agentic Benchmark for CRM, the first evaluation tool built specifically for enterprise workflows across five metrics: accuracy, cost, speed, trust and safety, and sustainability. With new models emerging rapidly, this benchmark helps CIOs select the right AI systems while balancing performance with environmental impact.
+
+...
+
+[Data](articles/6f0c6e5e.json)
+
+---
+
+### Lighting the Path Forward: Ceylon Business Appliances bridges Sri Lanka’s digital divide
+
+*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/lighting-the-path-forward-ceylon-business-appliances-bridges-sri-lankas-digital-divide/) · `en`
+
+Ceylon Business Appliances (CBA), in partnership with Geekom, has launched a CSR initiative to provide under-resourced Sri Lankan schools with access to modern digital tools. The programme aims to support students and teachers by creating opportunities for digital learning in communities where access to technology remains limited.
+
+On 22 July, CBA and Geekom donated Mini PCs to Baptist P.V. and Nelum Wessa Model Primary School in Kadawatha. A similar donation was later made to Ananda P.V. in Yabaraluwa, Malwana, equipping classrooms with technology that will support digital education.
+
+For many students, this was their first direct interaction with a computer. The new resources are expected to transform both learning and teaching, introducing digital literacy to schools that previously lacked such facilities.
+
+Speaking at the official handover, CBA Director and Chief Executive Officer, Ruwath Fernando said:
+
+...
+
+[Data](articles/aada0760.json)
+
+---
+
+### Transport sector companies contribute more than one-third of CSE turnover amid profit-takings
+
+*2025-09-09 23:16:00* · [`islandlk`](http://island.lk/transport-sector-companies-contribute-more-than-one-third-of-cse-turnover-amid-profit-takings/) · `en`
+
+CSE activities kicked off on a positive note in early sessions yesterday but turned negative due to profit-takings in some sectors.
+
+Both indices moved downwards. The All Share Price Index went down by 232 points, while the S and P SL20 declined by 55.04 points. Turnover stood at Rs 9.05 billion seven crossings. More than one third of the turnover was contributed by transport sector companies, it is learnt.
+
+...
+
+[Data](articles/f1db9ea3.json)
+
+---
+
+### ‘RDB Bank records stellar performance for 1st half 2025’
+
+*2025-09-09 23:14:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025/) · `en`
+
+Regional Development Bank (RDB) records a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
+
+The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
+
+Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget.
+
+“We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
+
+...
+
+[Data](articles/8f0c4c4e.json)
+
+---
+
+### 18 Premium Channels, 6.8 Million Viewers — Endless Advertising Possibilities with Dialog Television
+
+*2025-09-09 23:14:00* · [`islandlk`](http://island.lk/18-premium-channels-6-8-million-viewers-endless-advertising-possibilities-with-dialog-television/) · `en`
+
+Dialog Television, Sri Lanka’s #1 Pay-TV service provider, invites corporate advertisers to leverage one of the country’s most powerful media platforms, trusted by over 1.7 million households and more than 90% of Sri Lanka’s corporate sector. With an extended presence in 15,000+ hotels, restaurants, and public venues, Dialog Television reaches more than 6.8 million viewers nationwide, offering unmatched opportunities for brands to build visibility and impact.
+
+Dialog Television offers advertisers access to 18 premium channels carefully curated to reflect what Sri Lankans watch most. These include Star Movies, Hits Now, AXN, Star Vijay, Star Plus, &flix, Colors Tamil, Zee Café, Zee Tamil, Colors, A Plus, Nickelodeon, Citi Hitz, Channel One, ThePapare TV, Channel C and TLC. Covering genres from movies, drama, and entertainment to sports, kids, lifestyle, and music, these channels enable precise audience targeting across diverse demographics and prime-time moments.
+
+...
+
+[Data](articles/aaeb5f34.json)
 
 ---
 
@@ -1751,365 +2025,5 @@ He was responding to a question referred to a question referred to today at a pr
 [Data](articles/44c25862.json)
 
 [Extended Data](ext_articles/44c25862.ext.json)
-
----
-
-### Second Reading of the President's Cancellation Bill tomorrow
-
-*2025-09-09 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214360) · `si`
-
-The Bill will be declined tomorrow (10) to the debate from 11:30 am to 3:30 am to 3.30 pm.
-
-The Parliament of Sri Lanka has made this informed this, that this has been decided at the Committee on Parliamentary Affairs Committee today (09).
-
-◼️
-
-[Data](articles/c623fb22.json)
-
-[Extended Data](ext_articles/c623fb22.ext.json)
-
----
-
-### Second reading debate on Presidents’ Entitlements (Repeal) Bill tomorrow
-
-*2025-09-09 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112317/second-reading-debate-on-presidents-entitlements-repeal-bill-tomorrow) · `en`
-
-The Communications Department of the Sri Lanka Parliament announced that the Parliamentary Affairs Committee has decided to hold the debate on the Second Reading of the Presidents’ Entitlements (Repeal) Bill tomorrow (September 10).
-
-Accordingly, the Second Reading debate on the Presidents’ Entitlements (Repeal) Bill will be held tomorrow (10) from 11.30 a.m. to 3.30 p.m, it said.
-
-◼️
-
-[Data](articles/9b5edaab.json)
-
-[Extended Data](ext_articles/9b5edaab.ext.json)
-
----
-
-### Nepal's Prime Minister KP. Struggle to resign Sharma sound
-
-*2025-09-09 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224614) · `ta`
-
-Amidst the ongoing protests in Nepal. The pressure on Sharma's resignation is on the rise.
-
-The media has reported that the protesters are protesting against the dictatorship of the government.
-
-More Prime Minister KP. They are saying they will not abandon the struggle until Sharma resigns.
-
-The social media support struggle by General-Essat has now become a major cause of the anti-corruption struggle.
-
-Prime Minister KP. As Sharma's sound has been withdrawn, the protesters are currently demanding his resignation due to widespread corruption.
-
-In particular, videos and photos of various ministers and daughters are reported to be going viral on social media in Nepal.
-
-International media reports that the families of ministers are enjoying the luxury of luxury, while ordinary Nepal citizens are struggling to live their lives.
-
-◼️
-
-[Data](articles/131117f0.json)
-
-[Extended Data](ext_articles/131117f0.ext.json)
-
----
-
-### Sri Lanka shifts school book printing to private sector to cut costs: Minister
-
-*2025-09-09 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-shifts-school-book-printing-to-private-sector-to-cut-costs-minister-239799/) · `en`
-
-ECONOMYNEXT – Sri Lanka has awarded 60 percent of its school textbooks and modules printing requirement to 29 private companies, since the government printer is not cost effective, Minister Nalinda Jayatissa said.
-
-“The state printing organizations do not offer market competitive rates,” Jayatissa told reporters.
-
-“They have been overstaffed by previous governments, and staff have been given various incentive schemes over the years. This increases their cost of production and they can’t compete with private companies. Printing outside is cheaper for the government.
-
-“The state organizations will be printing 40 percent of the requirement.”
-
-Another 27.12 million copies of 366 types of textbooks/modules need to be printed, he said.
-
-“25.49 million copies of 362 relevant textbooks/modules will be printed by these 29 institutions at a cost of 3,491.47 million rupees.
-
-“Whether the SPC or private companies print them, the treasury pays for it.” (Colombo/Sep9/2025)
-
-◼️
-
-[Data](articles/7d717b78.json)
-
-[Extended Data](ext_articles/7d717b78.ext.json)
-
----
-
-### Amy mining arrested
-
-*2025-09-09 12:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆமி-சுரங்க-கைது/175-364266) · `ta`
-
-The Western Province Southern Criminal Investigation Department (SLMC) has arrested a man who was a gunman of Homagama Handaya, an organized culprit.
-
-The arrested is said to be Buddhika Lakmal, a former soldier called Army Mine.
-
-The locally manufactured batsman and 3 rifles were seized.
-
-On August 13, a suspect has been arrested near Tunna Vihara, following an investigation into the incident in which a man was shot dead in Bahadgama, Hanwella.
-
-It is reported that the bag of the suspect was broken into two pieces of bag.
-
-Further investigations are being carried out by the Western Province Southern Crime Branch.
-
-◼️
-
-[Data](articles/ac11e37e.json)
-
-[Extended Data](ext_articles/ac11e37e.ext.json)
-
----
-
-### Freight train collision on Tecker bus; 10 killed
-
-*2025-09-09 12:49:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டெக்கர்-பஸ்-மீது-சரக்கு-ரயில்-மோதல்-10-பேர்-பலி/50-364265) · `ta`
-
-Ten people were killed and more than 60 injured in a freight train collision with a Double-teacher bus in Mexico.
-
-The Double Decker bus was traveling with more than 70 people from the city of Michogan, Mexico, to Mexico City.
-
-The freight train crashed when the bus was trying to cross the railway track this morning in Atlakomulko, the northwest of Mexico City.
-
-The bus was severely damaged. The passengers on the bus were thrown. 10 people died on the spot. 61 people have been rescued with injuries and taken to a nearby hospital.
-
-The situation of many of their. Preliminary information has revealed that the bus driver and the train will be operated by the train's signal.. The Mexico police have registered a case and are investigating the railway.
-
-◼️
-
-[Data](articles/5f5cfa2a.json)
-
-[Extended Data](ext_articles/5f5cfa2a.ext.json)
-
----
-
-### Approval to the compile of a new law for foster parent care
-
-*2025-09-09 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214359) · `si`
-
-The Cabinet of Women and Children's Affairs has been approved to advise a bill to introduce a new law to introduce a new law to introduce a new law for the foster parent care.
-
-It has been identified as a formal legal provision of the foster parent protection covering all children in Sri Lanka.
-
-Therefore, a concept leaflet has been presented to the establishment of the Foster Parental Protection Mechanism to implement an alternative care system, which has become a timely need.
-
-The proposed mechanism is expected to implement the care program under the establishment of the demonstrated parental protection and the main methods of disposal.
-
-Accordingly, the Cabinet decision notification stated that the proposal has been approved by the Cabinet of Ministers based on the concept leaflet.
-
-Following is the full announcement of the decisions of the Cabinet meeting held on 08.09.2013.
-
-◼️
-
-[Data](articles/ff78f887.json)
-
-[Extended Data](ext_articles/ff78f887.ext.json)
-
----
-
-### A person who was heartbroken by the spread of video on social media:
-
-*2025-09-09 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224617) · `ta`
-
-Murali (34), Murali, 34, who was traveling from Colombo to Welimadai, landed at around 2 am in the early hours of the morning.. When he was looking for a relative, he mistakenly knocked on the door of a house.
-
-The owners of the house, who saw this, made a noise to think of the person as a thief. The villagers who ran away hearing the noise, hit him severely and tied him into the tree. Also, they have taken the incident as a video and uploaded it on social media.
-
-Later, Murali was handed over to the Kotmalai police by the villagers. Investigations revealed that he was innocent. Subsequently, after a medical examination, Murali was released on bail and handed over to his relatives.
-
-But Murali, who was heartbroken by the video of the villagers that hit him on social media, made his speech and made his speech.
-
-...
-
-[Data](articles/07db117b.json)
-
-[Extended Data](ext_articles/07db117b.ext.json)
-
----
-
-### Paddy cultivation is destroyed by unidentified
-
-*2025-09-09 12:35:03* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-රෝයකින්-වී-වගාව-විනාශ-වෙයි/11-418381) · `si`
-
-The farmers of the Mahabulama area in Anuradhapura have expressed their risk of destroying about two acres of cultivation due to a unidentified disease.
-
-The farmers pointed out that the stalk had come to the standing level, and the farmers pointed out that the stalk trees became white, and the paddy has become a blaze.
-
-Farmers said that mite and a fungal disease or fungal disease, the farmers said they had no effect.
-
-They also said that the Mahawela and Dangasuli areas cultivated under Mahabulamamama tank have begun to destroy more than two,000 acres of paddy fields.
-
-They also say that the government makes a reasonable compensation to obtain reasonable compensation due to the condition of an acre of identified disease.
-
-◼️
-
-[Data](articles/7726dbe6.json)
-
-[Extended Data](ext_articles/7726dbe6.ext.json)
-
----
-
-### Groundwater in Jaffna
-
-*2025-09-09 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224612) · `ta`
-
-Ponds must be drained as part of the groundwater protection process in Jaffna: Discussion was held on the creation of a mechanism.
-
-Yall. A discussion was held on Monday (yesterday) under the patronage of Governor of the Northern Province, Na Vedanayagan, on the creation of a mechanism for continuous ponds in the district and the immediate implementation of the examination.
-
-The governor said that the intention of the discussion is to look for the ponds as part of the underground water protection process and the purpose of the discussion is to look for consultations from the department officials.
-
-The discussion was pointed out in the discussion that the mechanism for the pond was being seen as long as it had a long time and that volunteers were bored even if they were to participate in the initiative.
-
-It was also pointed out that the mechanism of permitting is complex, though various funds are ready to implement this without government funds.
-
-...
-
-[Data](articles/1d3164d9.json)
-
-[Extended Data](ext_articles/1d3164d9.ext.json)
-
----
-
-### Padma and the group trapped the jakarta mission
-
-*2025-09-09 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214358) · `si`
-
-'Today' has received a footage in Indonesia and the five criminal criminals
-
-A footage of the five criminals including Kehelbadara Padma in Indonesia have been arrested.
-
-Kehelibodara Padma and Kudu Nilanga is arrested while Commando Salinantha, Bacquan and Orange Lahiru.
-
-While hiding in Indones, Criminadara Padkerens, Commando Salinara, Kudu Nilanga, and Orange Lahiru recently arrested the orange lahiru recently.
-
-Assistant Superintendents of Police Rohan Oligala and Assistant Superintendent of Police Mahinda Jayasundera.
-
-The operation of Jakarta Metropolitan Police, the Criminal Investigation Unit, or International Police, received the support of the Jattonras and the International Police.
-
-According to the police, the police were disclosed at the meeting operations in India's Verybon Jewruk area in Indonesia.
-
-Accordingly, the two police officers of the Sri Lanka have revealed that the two police officers have been revealed to this Bodybuilding Center.
-
-...
-
-[Data](articles/36ac4bf9.json)
-
-[Extended Data](ext_articles/36ac4bf9.ext.json)
-
----
-
-### Debate on Presidential Rights Removal Bill tomorrow
-
-*2025-09-09 12:23:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයන්ගේ-හිමිකම්-ඉවත්-කිරීමේ-පනත්-කෙටුම්පත-ගැන-විවාදය-හෙට/11-418380) · `si`
-
-The Committee on Parliamentary Business has decided to debate the "Rights (Removal of the Presidents)"
-
-Accordingly, he has decided to debate the debate from 11:30 am to 3.30 pm tomorrow.
-
-◼️
-
-[Data](articles/b8bdc562.json)
-
-[Extended Data](ext_articles/b8bdc562.ext.json)
-
----
-
-### Colombo Magistrate’s Court concludes corruption case against Keheliya and family
-
-*2025-09-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112316/colombo-magistrates-court-concludes-corruption-case-against-keheliya-and-family-) · `en`
-
-As the Bribery Commission has filed a case against former Minister Keheliya Rambukwella and his family members before the Colombo High Court on charges under the Prevention of Money Laundering Act, Colombo Chief Magistrate Asanka S. Bodaragama today (09) ordered the conclusion of the proceedings pending before the Colombo Magistrate’s Court in this matter.
-
-The Chief Magistrate directed the defendants to appear before the Colombo High Court on the scheduled dates, Ada Derana reporter said.
-
-When the case was taken up today, officials of the Bribery Commission informed the court that indictments have been filed against the defendants before the Colombo High Court in connection with the aforementioned investigation.
-
-...
-
-[Data](articles/f31b83e9.json)
-
-[Extended Data](ext_articles/f31b83e9.ext.json)
-
----
-
-### Strong lightning and heavy rain
-
-*2025-09-09 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214357) · `si`
-
-The Department of Meteorology has issued an announcement in a strong lightning and heavy rains.
-
-The announcement issued at 11.30 am today (09) will be valid until 11.00 pm today.
-
-There is an increase in lightning lightning in the Central, North Central, Eastern Uva and Sabaragamuwa Province and thunderstorms in Vavuniya, Mannar, Mullaitivu and Hambantota districts.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Meteorology Department requests people to take necessary steps to minimize the damages caused by lightning.
-
-◼️
-
-[Data](articles/f54d6db9.json)
-
-[Extended Data](ext_articles/f54d6db9.ext.json)
-
----
-
-### Ten people killed, 61 hurt after train hits double-decker bus in Mexico
-
-*2025-09-09 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112315/ten-people-killed-61-hurt-after-train-hits-double-decker-bus-in-mexico) · `en`
-
-Ten people were killed and at least 61 were injured in central Mexico when a freight train smashed into a double-decker passenger bus, which the train operator said had been attempting to pass in front of the moving train.
-
-Canadian Pacific Kansas City de Mexico, the railway, expressed its condolences to the victims’ families and called on drivers to respect road signs and stop orders at railroad crossings.
-
-Bus operator Herradura de Plata did not immediately respond to a request for comment.
-
-Images from the scene showed the front part of the top deck of the bus smashed in and its metal frame badly dented, as first responders cordoned off the area.
-
-The collision happened in an industrial zone on the highway between Atlacomulco, a town some 115 km (71 miles) northwest of the capital Mexico City, and Maravatio, in nearby Michoacan state, local authorities said.
-
-...
-
-[Data](articles/84cf3629.json)
-
-[Extended Data](ext_articles/84cf3629.ext.json)
-
----
-
-### 2026 Appropriation Bill approved
-
-*2025-09-09 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214356) · `si`
-
-The Appropriation Bill for the financial year 2026 has been approved by the Cabinet to submit to Parliament.
-
-Cabinet approval was given to prepare the Appropriation Bill at the meeting held on July 1.
-
-Accordingly, the Attorney General's clearance has been received for the Appropriation Bill for the Year 2026 by the Legal Draftsman.
-
-The President has approved the proposal made by the President's proposal to publish the Bill in the Government Gazette and submit the bill to Parliament.
-
-◼️
-
-[Data](articles/1e9ecd95.json)
-
-[Extended Data](ext_articles/1e9ecd95.ext.json)
-
----
-
-### Cabinet sub-committee for organizing 78th Independence Day commemoration
-
-*2025-09-09 11:54:05* · [`adalk`](https://www.ada.lk/breaking_news/78-වැනි-නිදහස්-දින-සමරු-උළෙලේ-සංවිධාන-කටයුතු-සඳහා-කැබිනට්-අනු-කමිටුවක්/11-418379) · `si`
-
-78 වැනි නිදහස් දින සමරු උළෙලේ සංවිධාන කටයුතු සඳහා කැබිනට් අනු කමිටුවක් පත් කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වූ බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-He said that the appointment of the sub-committee Dhamma Dr. Harari Amarasuriya was instrumental in appointing the participation of Ministers.
-
-◼️
-
-[Data](articles/692f64ca.json)
-
-[Extended Data](ext_articles/692f64ca.ext.json)
 
 ---

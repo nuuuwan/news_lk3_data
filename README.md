@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-10 12:55:39**
+As of **2025-09-10 14:22:10**
 
 ## Newspaper Stats
 
-*Scraped **75,139** Articles*
+*Scraped **75,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,105 @@ economynextcom | 4,550
 islandlk | 4,621
 dailymirrorlk | 4,733
 dailyftlk | 5,329
-adalk | 7,282
+adalk | 7,285
 adaderanalk | 9,630
-tamilmirrorlk | 11,214
+tamilmirrorlk | 11,215
 virakesarilk | 12,260
-adaderanasinhalalk | 13,090
+adaderanasinhalalk | 13,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-65,955 (87.8%) of 75,139 articles have been extended.
+66,027 (87.9%) of 75,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
 
-### கள்ள உறவால் விபரீதம்: கையை இழந்த இளைஞன்
+### Former former Moratuwa Mayor arrested
+
+*2025-09-10 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214400) · `si`
+
+Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Investigation Commission.
+
+It is reported that the road development projects in the Moratuwa Municipal Council have been arrested for their losses.
+
+◼️
+
+[Data](articles/96ab9c13.json)
+
+[Extended Data](ext_articles/96ab9c13.ext.json)
+
+---
+
+### Ranil a special announcement from former President
+
+*2025-09-10 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214399) · `si`
+
+Former President Ranil Wickremesinghe has issued a special announcement regarding the situation in Kathmandu, Nepal.
+
+The announcement also states that he condemns the murder including all the youth in Nepal.
+
+◼️
+
+[Data](articles/429a3a30.json)
+
+[Extended Data](ext_articles/429a3a30.ext.json)
+
+---
+
+### 1,500 prisoners escaped
+
+*2025-09-10 13:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-500-கைதிகள்-தப்பியோட்டம்/50-364343) · `ta`
+
+At least 1,500 prisoners have fled from Naku Jail in Lalitpur in Nepal amid nationwide unrest in Nepal.
+
+Local media Kabarhab has reported that the Rashtriya Freedom Party leader Rabbi Lamichane was released after the release of this.
+
+During the riots, at least 1,500 inmates were detained in prison. The media reported that the police abandoned their positions and allowed the prisoners to flee.
+
+Officials are monitoring the situation, warning that the release of the prisoners will be a threat to the security of the public.
+
+◼️
+
+[Data](articles/7b891892.json)
+
+[Extended Data](ext_articles/7b891892.ext.json)
+
+---
+
+### Former Navy Commander remanded again
+
+*2025-09-10 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214398) · `si`
+
+Former Navy Commander (Retired) Admiral Nishantha Ullayenna, who was arrested and remanded.
+
+The Polgahawela Magistrate's Court has remanded for September 24.
+
+◼️
+
+[Data](articles/c03ced29.json)
+
+[Extended Data](ext_articles/c03ced29.ext.json)
+
+---
+
+### False Relationship: A young man who lost his hand
 
 *2025-09-10 12:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ள-உறவால்-விபரீதம்-கையை-இழந்த-இளைஞன்/175-364342) · `ta`
 
-பெண் ஒருவருடன் திருமணத்தை மீறிய உறவில் இருந்த இளைஞரின் கையை வெட்டி பையில் மருத்துவமனைக்கு கொண்டு வந்ததால் பெரும் பரபரப்பு ஏற்பட்டது. இச்சம்பவம் குறித்து பொலிஸார் தீவிர விசாரணை மேற்கொண்டு வருகின்றனர்.
+The man who was in a relationship with a woman was cut off the hand of a young man who had been brought to the hospital in the bag. Police are conducting an intensive investigation into the incident.
 
-ராணிப்பேட்டை மாவட்டம் அரக்கோணத்தை சேர்ந்தவர் கோபி. இவர் கடந்த சில மாதங்களாக அரக்கோணத்தை அடுத்த அண்ணா நகர் பகுதியைச் சேர்ந்த ஒரு பெண்ணுடன் திருமணத்தை மீறிய உறவில் இருந்து வந்துள்ளார். இதனால் அந்த பெண்ணின் குடும்பத்தில் தொடர்ந்து பிரச்சினைகளும், மோதல்களும் இருந்து வந்ததாக தெரிகிறது. இருப்பினும், இருவரும் உறவை தொடர்ந்து வந்துள்ளனர்.
+Gopi hails from Arakkonam in Ranipettai district. He has been in a relationship with a woman from Anna Nagar next to Arakkonam for the past few months. Thus it seems that the woman's family continued to have problems and conflicts. However, the two have followed the relationship.
 
-இந்நிலையில், செப்டம்பர் 8ஆம் திகதி இரவு, வழக்கம் போல அந்த பெண்ணுடன் கோபி பேசிக் கொண்டிருந்துள்ளார். அப்போது அங்கு வந்த மர்ம நபர் ஒருவர், கூர்மையான ஆயுதத்தால் கோபியின் வலது கையை வெட்டி துண்டாக்கியுள்ளார். வலியால் துடித்த கோபி, சாலையிலேயே சுருண்டு விழுந்ததாக தெரிகிறது.
+In this case, on the night of September 8, Gopi was talking to the woman as usual. A mysterious person who came there then cut off Kopi's right hand with a sharp weapon. Gopi, who was in pain, seems to have curled up on the road.
 
 ...
 
 [Data](articles/4ae9d32a.json)
+
+[Extended Data](ext_articles/4ae9d32a.ext.json)
 
 ---
 
@@ -59,6 +129,24 @@ According to foreign media reports, about 900 inmates of two prisons in Western 
 [Data](articles/ebd69c03.json)
 
 [Extended Data](ext_articles/ebd69c03.ext.json)
+
+---
+
+### If former President Ranil was not like notice that was not the law of Napala
+
+*2025-09-10 12:14:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-රනිල්-එදා-හදීසි-නීතිය-නොදැම්මා-නම්-ලංකාවත්-නේපාලය-වගේ-වෙන්න-තිබුණා/11-418407) · `si`
+
+The former President Ranil Wickremesinghe did not control the situation in 2022, MP Dayasiri Jayasekera said that the Hadisi law was not controlled in Sri Lanka.
+
+Speaking in the debate in parliament, he said.
+
+"The Prime Minister of Nepal was killed yesterday. Showing what's the following? First, the first one captures the President's Palace in Sri Lanka. It shows the ruined Nadagam. They danced on the pool, the Bududia in the president's bed, they tricked. Such a herd can destroy this country. This Parliament was made to destroy. Asked to join the people to catch Parliament. Although Sunil had no husband, Lal Kantha said he spoke in the Padduwa junction. Do you think that in that day, do you think there was a kanroll? Not. They can do all the players you can do. Maybe on fire. We don't know. People had so much hatred at that time. But Mr. Ranil Wickremesinghe left the Lawssi Law, not to rule the army, but we would have to talk to us from this. "
+
+◼️
+
+[Data](articles/fa70365f.json)
+
+[Extended Data](ext_articles/fa70365f.ext.json)
 
 ---
 
@@ -224,6 +312,26 @@ Police said the police said they were arrested on charges of negligence in maint
 
 ---
 
+### දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂකට හදිසි ස්ථාන මාරුවක්
+
+*2025-09-10 11:13:46* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-මූලස්ථාන-පොලිස්-පරීක්ෂකට-හදිසි-ස්ථාන-මාරුවක්/11-418402) · `si`
+
+දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක වසන්ත කුමාර මහතා පරීක්ෂණයක් සඳහා වහාම ක්‍රියාත්මක වන පරිදි 09 දින සිට මිගමුව පොලිස් කොට්ඨාසයට ස්ථාන මාරු  කිරීමට ජාතික පොලිස් කොමිෂන් සභාව සහ පොලිස්පතිවරයාගේ අත්සනින් යුතුවෙන් දන්වා එවා තිබේ.
+
+මීට වසර එකහමාරකට පමණ ඉහතදී දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස වසන්ත කුමාර මහතා   වැඩ භාරගෙන තිබිණි
+
+පසුගිය අරගල සමයේ අත්තනෝමතික ලෙස  ස්ථාන  මාරු කිරීමක් සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයේ නඩුවක් ගොනුකොට එහි තීන්දුවක් අනුව ප්‍රධාන පොලිස් පරීක්ෂක වසන්ත කුමාර මහතා දඹුල්ල පොලිසියේ මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස පත්වීම් ලැබ පැමිණි අයෙකි.
+
+වසන්ත මහතාගෙන් පුරප්පාඩුවන දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක ධුරය සඳහා  පුඩලුඔය  පොලිසියේ ස්ථානාධිපති ලෙස සේවය කල ප්‍රධාන පොලිස් පරීක්ෂක සුගත් බණ්ඩාර විජේසුන්දර මහතා පත් කොට තිබේ.
+
+ඒ අනුව ඔහුට 11 දින දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂකවරයා ලෙස නව ධූරයේ වැඩබාර ගැනීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/6df165fe.json)
+
+---
+
 ### Airlines canceled between Sri Lanka and Nepal
 
 *2025-09-10 11:12:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-நேபாளம்-இடையில்-விமானச்-சேவைகள்-ரத்து/175-364331) · `ta`
@@ -278,6 +386,8 @@ The airport’s closure has disrupted more than 250 daily flights that the airpo
 
 [Data](articles/75945c4e.json)
 
+[Extended Data](ext_articles/75945c4e.ext.json)
+
 ---
 
 ### SriLankan flights temporarily halted to Nepal
@@ -309,6 +419,30 @@ Prime Minister Donald Tusk confirmed a military response operation was underway 
 ...
 
 [Data](articles/38eeaa2b.json)
+
+[Extended Data](ext_articles/38eeaa2b.ext.json)
+
+---
+
+### Medical doctor for sale in Teldeniya Hospital
+
+*2025-09-10 11:00:34* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්දෙණිය-රෝහලේ-වෛද්‍යවරයෙක්-අත්අඩංගුවට/11-418401) · `si`
+
+A doctor was arrested in the hospital, a doctor was arrested by the Dummy Superintendent of the Teldeniya Hospital and the staff of the staff.
+
+According to a complaint lodged by the police, Sunil Senarath Yapa has been arrested on a complaint extended by the police at the Teldeniya Hospital.
+
+The police say that the accusation and threat of the hospital will interfere with the duties of the hospital staff.
+
+The arrested doctor is being released on bail after the suspect, who was taken into court and was produced before courts on 22.08.2012, police said.
+
+The arrested doctor was to be produced before the Teldeniya Magistrate's Court today.
+
+◼️
+
+[Data](articles/7b01b514.json)
+
+[Extended Data](ext_articles/7b01b514.ext.json)
 
 ---
 
@@ -347,6 +481,8 @@ Meanwhile, 11 of the injured are still receiving treatment at the Badulla Teachi
 ◼️
 
 [Data](articles/4b3c05ad.json)
+
+[Extended Data](ext_articles/4b3c05ad.ext.json)
 
 ---
 
@@ -1863,157 +1999,5 @@ Public Consultation on the Third Electricity Tariff Revision – 2025
 [Data](articles/48035e4e.json)
 
 [Extended Data](ext_articles/48035e4e.ext.json)
-
----
-
-### Resolution on agreement between Sri Lanka and UAE passed in Parliament
-
-*2025-09-09 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112334/resolution-on-agreement-between-sri-lanka-and-uae-passed-in-parliament) · `en`
-
-The resolution on the agreement between Sri Lanka and the United Arab Emirates has been passed in Parliament today (09) with a majority of 163 votes.
-
-The Speaker informed the House that the proposal was passed with a special majority.
-
-No votes were cast against the resolution, and no one abstained from voting either, according to the Department of Communication of Parliament.
-
-◼️
-
-[Data](articles/d8959a01.json)
-
-[Extended Data](ext_articles/d8959a01.ext.json)
-
----
-
-### Israel attacked to Qatar targeting Hamas leaders
-
-*2025-09-09 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214377) · `si`
-
-Israel has targeted the Hamas leaders and attacked an attack in Qatar.
-
-Hamas official says this attack has targeted the attack targeting their peace talks.
-
-In the meantime, Qatar's embassy in Qatar asked for American citizens to stay in safe places.
-
-The American Embassy in Qatar requests American citizens in Qatar, to remain safe in their places.
-
-US citizens of US citizens are also requested the US embassy from US citizens to observe social media.
-
-◼️
-
-[Data](articles/8cf10eec.json)
-
-[Extended Data](ext_articles/8cf10eec.ext.json)
-
----
-
-### To Afghanistan to advantage
-
-*2025-09-09 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214375) · `si`
-
-The first match between the Afghan group and the Hong Kong team will commence in a small moment.
-
-◼️
-
-[Data](articles/3578ff0e.json)
-
-[Extended Data](ext_articles/3578ff0e.ext.json)
-
----
-
-### Several blasts heard in Qatar’s Doha, Israeli media says Hamas leadership targeted
-
-*2025-09-09 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112333/several-blasts-heard-in-qatars-doha-israeli-media-says-hamas-leadership-targeted) · `en`
-
-Israeli army radio said Israel tried to attack Hamas officials in Qatar on Tuesday.
-
-Qatar’s Al Jazeera television, citing a Hamas source, said the attack targeted Hamas Gaza ceasefire negotiators.
-
-Several blasts were heard in Qatar’s Doha on Tuesday, Reuters witnesses said.
-
-Israel media, citing a senior Israeli official, said the attack was aimed at top Hamas leaders including Khalil al-Hayya, its Gaza chief.
-
-Smoke was seen rising over the Katara District in the capital, an eyewitness said.
-
-◼️
-
-[Data](articles/a3e4b477.json)
-
-[Extended Data](ext_articles/a3e4b477.ext.json)
-
----
-
-### The person who was attacked by the thief was self -styled
-
-*2025-09-09 19:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருடன்-என்று-தவறாக-கருதி-தாக்கப்பட்ட-நபர்-தன்னுயிரை-மாய்த்தார்/175-364296) · `ta`
-
-Police said that a person who had been assaulted as a thief in Ramboda had made himself a self -styled man.
-
-Media records say the death was related to the video posted on social media.
-
-According to the police, the 34 -year -old fell asleep on a bus from Colombo to Welimada as she was traveling to his home in Rothschild estate in Pussellawa and mistakenly descended on Ramboda.
-
-The police said they had mistakenly thought that he was a robber because he knocked on the door of a resident.
-
-Other residents attacked the man, tied it into a tree and then handed over to the Kotmalai police.
-
-The police investigation found that the man was innocent, and he was handed over to his relatives in the Rothschild Estate.
-
-However, a few days after the incident, the police confirmed that the man committed suicide on Sunday (September 07).
-
-It is not clear whether the death and the incident are unclear and investigations are underway, police said.
-
-...
-
-[Data](articles/24a76665.json)
-
-[Extended Data](ext_articles/24a76665.ext.json)
-
----
-
-### Protesters in Nepal fire in the Supreme Court
-
-*2025-09-09 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214374) · `si`
-
-The Supreme Court of Nepal has set fire to the Supreme Court of Kathmandu today.
-
-In addition, the protesters were burning a number of buildings, including the Prime Minister's residence.
-
-Prime Minister KK on such a background. P. Sharma has resigned from his post.
-
-Foreign media reports that there are even ministers among the assets of the protesters, and the number of conflict deaths have risen to 21.
-
-Prime Minister Alley's house, President of Prime Minister Alley, the house of Prime Minister Alley, Ram Chandra, the house of the ruling Congress of Nepal, as well as another politicians, were set on fire.
-
-Thereafter, forcibly entered the Nepalese parliamentary premises, the people who were forced to build up their burnt.
-
-Protesters also set fire to the Singa Harbar building at Nepal's government ministers.
-
-It is also reported that the airport is also temporarily closed in the country.
-
-The protests began yesterday after the government's decision to ban 26 social media covers yesterday.
-
-...
-
-[Data](articles/cf909347.json)
-
-[Extended Data](ext_articles/cf909347.ext.json)
-
----
-
-### Nepal’s Supreme Court and ministers’ homes set on fire amidst public revolt
-
-*2025-09-09 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112332/nepals-supreme-court-and-ministers-homes-set-on-fire-amidst-public-revolt) · `en`
-
-Nepal’s Parliament building, Supreme Court, and residences of several senior leaders were set ablaze on Tuesday as anti-government protests spiralled out of control, minutes after Prime Minister K P Sharma Oli resigned.
-
-Visuals shared by news agency PTI confirmed the fire at the Supreme Court, while the storming and burning of Parliament was reported by television channels and attested to by multiple reporters on the ground.
-
-Oli stepped down shortly after hundreds of demonstrators entered his office shouting anti-government slogans. Reports also suggested he is preparing to flee Nepal, with speculation of a possible trip to Dubai under the pretext of medical treatment. ET Online could not independently verify these claims.
-
-...
-
-[Data](articles/458e3af8.json)
-
-[Extended Data](ext_articles/458e3af8.ext.json)
 
 ---

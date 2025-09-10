@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 00:22:47**
+As of **2025-09-10 23:57:17**
 
 ## Newspaper Stats
 
-*Scraped **75,250** Articles*
+*Scraped **75,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,18 @@ dailyftlk | 5,329
 adalk | 7,298
 adaderanalk | 9,657
 tamilmirrorlk | 11,237
-virakesarilk | 12,269
+virakesarilk | 12,268
 adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,506 (88.4%) of 75,250 articles have been extended.
+66,500 (88.4%) of 75,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-10 (Wednesday)
-
-### ஆசிய கிண்ண கிரிக்கெட்: UAE க்கு எதிரான போட்டியில் இந்திய அணி எளிதான வெற்றி
-
-*2025-09-10 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224761) · `ta`
-
-ஆசிய கிண்ண ரி20 கிரிக்கெட் போட்டியில் புதன்கிழமை (10) நடைபெற்ற போட்டியில், ஐக்கிய அரபு எமிரேட்ஸ் அணியை (UAE) எதிர்த்து இந்திய அணி 9 விக்கெட் வித்தியாசத்தில் எளிதான வெற்றியைப் பெற்றது.
-
-இந்த வெற்றியின் மூலம், குழு 'ஏ' பிரிவில் இந்தியா புள்ளிகள் பட்டியலில் முதலிடத்தை அடைய முடிந்தது.
-
-டுபாய் மைதானத்தில் நடைபெற்ற இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய ஐக்கிய அரபு எமிரேட்ஸ் அணி 13.1 ஓவர்களில் 57 ஓட்டங்களை மட்டுமே பெற்றது.
-
-எதிரணியின் நம்பிக்கையை முற்றிலுமாகத் தகர்த்த குல்தீப் யாதவ், 2.1 ஓவர்களில் 7 ஓட்டங்களைக் கொடுத்து 4 விக்கெட்டுகள் வீழ்த்தினார்.
-
-மேலும், சிவம் துபே 3 விக்கெட்டுகளை வீழ்த்தினார், அதே நேரத்தில் அவர் 2 ஓவர்களில் 4 ஓட்டங்கள் மட்டுமே விட்டுக்கொடுத்தார்.
-
-ஐக்கிய அரபு எமிரேட்ஸின் தொடக்க ஜோடியான அலிஷான் ஷரஃப் (22) மற்றும் கேப்டன் முகமது வாசிம் (19) முதல் விக்கெட்டுக்கு 26 ஓட்டங்கள் கூட்டணி அமைத்தனர், ஆனால் அந்த கூட்டணி சரிந்த பிறகு, மீதமுள்ள அனைத்து விக்கெட்டுகளும் 31 ஓட்டங்களுக்குள் சரிந்தன.
-
-...
-
-[Data](articles/45f64330.json)
-
----
 
 ### The earth's soil is built on the place of the crash
 
@@ -2003,5 +1981,23 @@ According to foreign media reports, about 900 inmates of two prisons in Western 
 [Data](articles/ebd69c03.json)
 
 [Extended Data](ext_articles/ebd69c03.ext.json)
+
+---
+
+### If former President Ranil was not like notice that was not the law of Napala
+
+*2025-09-10 12:14:19* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-රනිල්-එදා-හදීසි-නීතිය-නොදැම්මා-නම්-ලංකාවත්-නේපාලය-වගේ-වෙන්න-තිබුණා/11-418407) · `si`
+
+The former President Ranil Wickremesinghe did not control the situation in 2022, MP Dayasiri Jayasekera said that the Hadisi law was not controlled in Sri Lanka.
+
+Speaking in the debate in parliament, he said.
+
+"The Prime Minister of Nepal was killed yesterday. Showing what's the following? First, the first one captures the President's Palace in Sri Lanka. It shows the ruined Nadagam. They danced on the pool, the Bududia in the president's bed, they tricked. Such a herd can destroy this country. This Parliament was made to destroy. Asked to join the people to catch Parliament. Although Sunil had no husband, Lal Kantha said he spoke in the Padduwa junction. Do you think that in that day, do you think there was a kanroll? Not. They can do all the players you can do. Maybe on fire. We don't know. People had so much hatred at that time. But Mr. Ranil Wickremesinghe left the Lawssi Law, not to rule the army, but we would have to talk to us from this. "
+
+◼️
+
+[Data](articles/fa70365f.json)
+
+[Extended Data](ext_articles/fa70365f.ext.json)
 
 ---

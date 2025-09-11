@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 02:54:08**
+As of **2025-09-12 03:19:59**
 
 ## Newspaper Stats
 
-*Scraped **75,469** Articles*
+*Scraped **75,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailyftlk | 5,348
 adalk | 7,323
 adaderanalk | 9,690
 tamilmirrorlk | 11,284
-virakesarilk | 12,301
+virakesarilk | 12,303
 adaderanasinhalalk | 13,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,884 (89.9%) of 75,469 articles have been extended.
+67,892 (90.0%) of 75,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### மாகாணசபை தேர்தலுக்கான திகதியை  கூற முடியாது - அமைச்சர் சந்தன அபேரத்ன
+
+*2025-09-12 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224863) · `ta`
+
+மாகாண சபைத் தேர்தலை நடத்துவதற்கு உரிய நடவடிக்கைகளை மேற்கொள்வோம்.இருப்பினும் தேர்தலை நடத்தும் திகதியை நிச்சயமாக குறிப்பிட முடியாது. சட்ட சிக்கலுக்கு தீர்வு கண்டதன் பின்னர் தாமதமில்லாமல் மாகாணசபைத் தேர்தலை நிச்சயம் நடத்துவோம் என்று மாகாண சபைகள் மற்றும் உள்ளுராட்சிமன்றங்கள், பொதுநிர்வாக அமைச்சர் சந்தன அபேரத்ன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11) நடைபெற்ற அமர்வை தொடர்ந்து சபை ஒத்திவைப்பு வேளையில் இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் இராசமாணிக்கம் சாணக்கியன் 'மாகாண சபைத் தேர்தலை நடத்துவதாக அரசாங்கம் தேர்தல் காலத்தில் வாக்குறுதி வழங்கியது.
+
+தமிழ் மக்களும் நம்பிக்கை கொண்டார்கள். ஆனால் மாகாண சபைத் தேர்தலை நடத்துவதற்கு இதுவரையில் முறையான நடவடிக்கைகளை அரசாங்கம் எடுக்கவில்லை. ஆகவே மாகாணசபைத் தேர்தலை எப்போது நடத்த தீர்மானித்துள்ளீர்கள்' என மாகாண சபைகள் மற்றும் உள்ளுராட்சிமன்றங்கள்,பொதுநிர்வாக அமைச்சரிடம் கேள்வியெழுப்பினார்.
+
+...
+
+[Data](articles/fdf371a4.json)
+
+---
+
+### யாழில் திறந்து வைக்கப்பட்ட வள்ளுவர் சிலை!
+
+*2025-09-12 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224862) · `ta`
+
+வலிகாமம் வடக்கு மாவிட்டபுரம் வள்ளுவர் சனசமூக நிலையத்தில் திருவள்ளுவர் சிலை ஒன்று திறந்து வைக்கப்பட்டது.
+
+முன்னாள் பிரதேச சபை உறுப்பினர் KS.அஜித்குமாரின் தாயினுடைய பிறந்த தினத்தை முன்னிட்டு கருங்கல்லினாலான வள்ளுவர் சிலையே இவ்வாறு திறந்து வைக்கப்பட்டுள்ளது.
+
+இதில் சனசமூக நிலைய நிர்வாகத்தினர், கிராம மக்கள், சமூக செயற்பாட்டாளர்கள் என பலரும் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d79e2d8b.json)
+
+---
 
 ### Never accept the internal mechanism
 
@@ -616,7 +648,11 @@ He stated that they will be brought back to Sri Lanka once security issues are c
 
 The minister revealed this while delivering a statement in the Parliament on Thursday (11).
 
-◼️
+He further stated that from January 01 this year to date, 11 organised criminals who were hiding abroad have been arrested and brought back to the country.
+
+Minister Wijepala revealed that from January this year to September 10, a total of 105 organised crimes have been reported and that a total of 322 suspects have been arrested in connection with those incidents, including 33 shooters, 24 motorcycle riders and 265 suspects accused of aiding and abetting.
+
+...
 
 [Data](articles/b11e9677.json)
 
@@ -1626,7 +1662,15 @@ In response to CNA’s queries, Budget airline Scoot on Thursday said its flight
 
 *2025-09-11 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112400/ex-director-general-of-uda-sumedha-ratnayake-arrested-by-bribery-commission) · `en`
 
-Former Director General of the Urban Development Authority (UDA) Sumedha Ratnayake and former Director (Lands) of the UDA have been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption.
+Former Director General of the Urban Development Authority (UDA) Sumedha Ratnayake and former Director (Lands) of the UDA Weerawansa Perera have been arrested over alleged financial misappropriation of state funds.
+
+The duo has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 9:30 a.m. this morning (11).
+
+According to investigations by the Bribery Commission, a 55.5-perch plot of UDA-owned land located at Mayura Place, Colombo 05, had been leased out on a temporary rental basis, resulting in a financial loss of over Rs. 29.5 million to the UDA.
+
+They are alleged to have committed an offence of corruption in connection with the land transaction, the Bribery Commission stated.
+
+The arrested individuals are scheduled to be produced before the Colombo Chief Magistrate’s Court.
 
 ◼️
 
@@ -2037,37 +2081,5 @@ The court has already ordered the police to set up a security zone for the polic
 [Data](articles/59dba288.json)
 
 [Extended Data](ext_articles/59dba288.ext.json)
-
----
-
-### ‘Podi Manike’ derails between Haliela and Badulla stations
-
-*2025-09-11 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112394/podi-manike-derails-between-haliela-and-badulla-stations-) · `en`
-
-Train services along the Upcountry Railway Line have been disrupted owing to the derailment of the ‘Podi Manike’ train (1006) which was traveling from the Badulla Railway Station to Kandy and Colombo Fort at around 8.50 a.m.
-
-The derailment occurred between Badulla and Haliela railway stations at around 09.10 am, the Department of Railways said.
-
-Accordingly, the Department of Railways stated that the trains plying along the Upcountry Railway Line will experience delays.
-
-◼️
-
-[Data](articles/f5a3af7f.json)
-
-[Extended Data](ext_articles/f5a3af7f.ext.json)
-
----
-
-### Parliament is hot
-
-*2025-09-11 11:36:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-උණුසුම්/11-418426) · `si`
-
-There was a warm quality of Parliament as a result of the government and the opposition.
-
-◼️
-
-[Data](articles/96cf026e.json)
-
-[Extended Data](ext_articles/96cf026e.ext.json)
 
 ---

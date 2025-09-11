@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 13:06:03**
+As of **2025-09-11 12:55:43**
 
 ## Newspaper Stats
 
-*Scraped **75,371** Articles*
+*Scraped **75,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,306
 adaderanalk | 9,671
-tamilmirrorlk | 11,266
+tamilmirrorlk | 11,265
 virakesarilk | 12,287
 adaderanasinhalalk | 13,126
 
@@ -26,31 +26,11 @@ adaderanasinhalalk | 13,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,089 (89.0%) of 75,371 articles have been extended.
+67,089 (89.0%) of 75,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### இந்தோனேசியாவில் நிதி அமைச்சர்  உட்பட 5 பேர் நீக்கம்
-
-*2025-09-11 12:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தோனேசியாவில்-நிதி-அமைச்சர்-உட்பட-5-பேர்-நீக்கம்/50-364424) · `ta`
-
-இதற்கிடையே அங்குள்ள எம்.பி.க்களுக்கு சம்பள உயர்வு, வீட்டு வாடகை உள்ளிட்ட பல்வேறு சலுகைகள் வழங்கப்பட்டன.
-
-குறிப்பாக, தனிநபர் வருமானம் சுமார் ரூ.17 ஆயிரமாக உள்ள நிலையில் எம்.பி.க்களின் சம்பளம் ரூ.5 இலட்சம் வழங்கப்பட்டு வந்தது.
-
-அப்போது ஏற்பட்ட வன்முறையில் 7 பேர் பலியாகினர். இதனால் எம்.பி.க்களின் சம்பளம், சலுகைகள் குறைக்கப்பட்டன.
-
-மேலும், அரசாங்கம் மீது மக்கள் அதிருப்தியுற்றதால் அமைச்சர் சபையிலும் அதிரடி மாற்றத்தை ஜனாதிபதி பிரபாவோ சுபியாண்டோ அறிவித்தார்.
-
-அதன்படி. நிதி அமைச்சர் ஸ்ரீ முல்யானி இந்திராவதி, இராணுவ அமைச்சர் புடி குணவன் உட்பட 5 அமைச்சர்கள் நீக்கம் செய்யப்பட்டு உள்ளனர்.
-
-◼️
-
-[Data](articles/36eab847.json)
-
----
 
 ### யார் இந்த சார்லி கிர்க்?
 
@@ -2009,5 +1989,25 @@ The backdrop of the violence, the confessions gathered from the parties associat
 [Data](articles/b975748d.json)
 
 [Extended Data](ext_articles/b975748d.ext.json)
+
+---
+
+### Those who were hiding under the war during the war eliminate the peers of former heads of state -Ramanathan Archana
+
+*2025-09-11 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224763) · `ta`
+
+Those who were hiding under the bed during the war eliminate the peers of former heads. Mention Prabhakaran as a terrorist. If Prabhakaran bombed, I apologize for the Jaffna. Committee Member of Parliament Ramanathan Archana said the district independence.
+
+He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
+
+If I speak in Sinhala in Tamil, you will be happy. If possible, raise your hands and refer to Prabhakaran as a terrorist.. Not even one raised his hands.
+
+I can mention that Rohana Wijeweera is not terrorist. Can raise the hands. The Tamil people voted for you as Sinhala Prabhakaran. People do not know Ilangumaran and Chandrasekaran. The Tamil people supported you because you acted against the improper activities of the government in 1988.
+
+...
+
+[Data](articles/ae1a0792.json)
+
+[Extended Data](ext_articles/ae1a0792.ext.json)
 
 ---

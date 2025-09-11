@@ -1,36 +1,342 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 04:54:23**
+As of **2025-09-11 06:21:22**
 
 ## Newspaper Stats
 
-*Scraped **75,258** Articles*
+*Scraped **75,290** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 765
+colombotelegraphcom | 767
 economynextcom | 4,564
-islandlk | 4,621
+islandlk | 4,633
 dailymirrorlk | 4,733
-dailyftlk | 5,329
+dailyftlk | 5,345
 adalk | 7,298
 adaderanalk | 9,657
 tamilmirrorlk | 11,238
-virakesarilk | 12,275
+virakesarilk | 12,277
 adaderanasinhalalk | 13,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,779 (88.7%) of 75,258 articles have been extended.
+66,817 (88.7%) of 75,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
+
+### My dear Vijay
+
+*2025-09-11 06:03:19* · [`dailyftlk`](https://www.ft.lk/opinion/My-dear-Vijay/14-781505) · `en`
+
+I write to you not as a politician or an academic, but as a Sri Lankan who has lived through years of pain, and as someone who has witnessed firsthand the devastation of war. I also write as someone who has admired you as an actor, as a man loved by millions for your humility, your charisma, and the way you connect with ordinary people. Now, as you prepare to step into politics, I feel compelled to share a few words with you, not out of anger, but out of deep concern and hope.
+
+...
+
+[Data](articles/7a271c56.json)
+
+---
+
+### Time and space to eclipse  the sad face of Sri Lanka
+
+*2025-09-11 06:00:20* · [`dailyftlk`](https://www.ft.lk/columns/Time-and-space-to-eclipse-the-sad-face-of-Sri-Lanka/4-781504) · `en`
+
+Of course, no lover of a land like no other in their right mind would gainsay what Vijitha Herath told the watching world in the aftermath of the blood moon
+
+The blood moon of the night of 7 September brought with it a panoply of portents for Sri Lanka. A lunar eclipse lasting almost one and a half hours, its visibility was marred to some degree by intermittent scudding clouds. Very few islanders however, usually superstitious to the nth, paid heed to prophecies of doom and gloom; opting instead to interpret the celestial show as favourable for once.
+
+In the wake of the night-time heavenly spectacle came Sri Lanka’s showing at the 60th United Nations Human Rights Council sessions in Geneva. Led by the redoubtable Vijitha Herath fronting the island’s case as its foreign minister, the once embattled nation state had many eyes squinting at the fine print of the text.
+
+...
+
+[Data](articles/36da7a88.json)
+
+---
+
+### Eurasia rising, Anura’s SCO absence, strategic-security blindness, and NPP-Israel axis
+
+*2025-09-11 05:55:02* · [`dailyftlk`](https://www.ft.lk/columns/Eurasia-rising-Anura-s-SCO-absence-strategic-security-blindness-and-NPP-Israel-axis/4-781503) · `en`
+
+Sri Lankans are trapped in a triangular matrix of three Big Lies:
+
+(I) ‘The Aragalaya was mainly for system-change’. If true, almost a million people who flooded Colombo on July 9th 2022 morning couldn’t have shrunk to about 15,000 by nightfall after they’d successfully evicted Gotabaya. The numbers never reassembled but returned only to explore and picnic outside occupied/liberated buildings. The Aragalaya was specific and concrete, mainly about limited and legitimate ‘regime-change’, not ‘system-change’: sending Gota home, just as in the Philippines in 1986 it was about deposing Marcos.
+
+...
+
+[Data](articles/6e095fd3.json)
+
+---
+
+### Mass graves in Sri Lanka
+
+*2025-09-11 05:46:48* · [`dailyftlk`](https://www.ft.lk/columns/Mass-graves-in-Sri-Lanka/4-781502) · `en`
+
+Families of the disappeared have called for international oversight of the investigations, fearing that the truth will be buried with the victims
+
+There are credible allegations of serious violations of international humanitarian law and international human rights law committed by the Government of Sri Lanka (GOSL). The Chemmani mass graves, uncovered in 1998 near Jaffna, are an unresolved case of alleged State-sponsored atrocities during the Sri Lankan civil war, which include summary executions and systematic efforts to cover up the crimes. Killings in Chemmani and other crimes must be resolved for Sri Lanka to have closure of its tragic civil war.
+
+...
+
+[Data](articles/afdee7ca.json)
+
+---
+
+### Banking on trust: Shaping responsible  AI agenda for Sri Lanka
+
+*2025-09-11 05:40:35* · [`dailyftlk`](https://www.ft.lk/opinion/Banking-on-trust-Shaping-responsible-AI-agenda-for-Sri-Lanka/14-781499) · `en`
+
+Artificial intelligence (AI) holds the potential to reshape every sector it touches. Yet history reminds us that new technologies are often met with caution and fear as to how they will alter the ways we live, work, and communicate, and by extension, how they impact livelihoods, relationships, quality of life and even our sense of purpose.
+
+And with AI, this sense of caution is certainly warranted. The implications for economies and societies are profound, yet unpredictable. Will it widen the gap between nations, or help close it? What we know from past revolutions is that first movers that are able to effectively navigate emerging risks associated with new technologies gain disproportionate advantages—potentially compressing decades of progress into just a few years.
+
+...
+
+[Data](articles/99945d89.json)
+
+---
+
+### Advocata Institute commends Cabinet decision to close 33 non-operational SOEs
+
+*2025-09-11 05:38:48* · [`dailyftlk`](https://www.ft.lk/opinion/Advocata-Institute-commends-Cabinet-decision-to-close-33-non-operational-SOEs/14-781498) · `en`
+
+The Advocata Institute has welcomed the decision by the Cabinet of Ministers, on the proposal of President Anura Kumara Disanayake in his capacity as Minister of Finance, Economic Stabilisation and National Policy, to formally close 33 non-operational State-Owned Enterprises (SOEs) under Phase 2 of the Government’s state-sector reform program.
+
+The move, to be implemented through a Special Liquidation Unit under the Ministry of Finance, is a first step towards eliminating waste, improving fiscal discipline, and redirecting scarce resources to more productive sectors of the economy.
+
+...
+
+[Data](articles/74359fac.json)
+
+[Extended Data](ext_articles/74359fac.ext.json)
+
+---
+
+### Wilpattu under threat as EFL takes battle to Court again
+
+*2025-09-11 05:36:02* · [`dailyftlk`](https://www.ft.lk/news/Wilpattu-under-threat-as-EFL-takes-battle-to-Court-again/56-781497) · `en`
+
+The Environmental Foundation (Guarantee) Ltd., (EFL) yesterday filed a Writ application in the Court of Appeal of Sri Lanka, asking the court to urgently stop illegal activities inside Wilpattu National Park, especially around the Pallekandal Church in Block V of the park.
+
+A small jungle shrine in Block V of Wilpattu National Park, used in the past for a modest annual feast by local fishing communities, fell into disuse during the civil conflict. After the park reopened in 2010, the site grew into a large church complex through illegal construction, clearing of forests, and increased human activity.
+
+...
+
+[Data](articles/92ba3765.json)
+
+---
+
+### Presidents’ Entitlements (Repeal) Bill passed in Parliament
+
+*2025-09-11 05:35:04* · [`dailyftlk`](https://www.ft.lk/news/Presidents-Entitlements-Repeal-Bill-passed-in-Parliament/56-781496) · `en`
+
+Speaker of the House Dr. Jagath Wickramaratne endorsing the certification on the Bill yesterday
+
+The Presidents’ Entitlements (Repeal) Bill was passed in Parliament yesterday by a majority of 150 votes.
+
+The debate on the second reading of the Bill began at 11:30 a.m. yesterday and was followed by a second reading vote at around 3:30 p.m., where a total of 151 MPs voted in favour, while New Democratic Front (NDF) MP Chamara Sampath Dassanayake voted against it.
+
+Subsequently, the Bill proceeded to the third reading or the Committee stage. Following the Committee stage, the Speaker announced that the bill has been approved without amendments in Parliament.
+
+This Bill, which was presented to Parliament on 7 August by Justice and National Integration Minister Harshana Nanayakkara, is a Bill to repeal the Presidents’ Entitlements Act, No. 4 of 1986.
+
+...
+
+[Data](articles/758de8c8.json)
+
+[Extended Data](ext_articles/758de8c8.ext.json)
+
+---
+
+### Ranil condemns Nepal violence, urges return to peace
+
+*2025-09-11 05:33:51* · [`dailyftlk`](https://www.ft.lk/news/Ranil-condemns-Nepal-violence-urges-return-to-peace/56-781495) · `en`
+
+Ex-President Ranil Wickremesinghe yesterday expressed distress over the unfolding violence in Kathmandu, condemning the unrest and urging a return to peace and stability in Nepal.
+
+In a statement, he said he condemns all kinds of killings, including those of the youth that has occurred in Nepal, adding that the burning of a former prime minister’s home and the killing of his wife was a “deeply tragic situation.” He extended his condolences to the victims’ families.
+
+Wickremesinghe noted that assaults on government officials, including the foreign minister, reflected a worsening crisis, stressing that women’s rights had been gravely violated and that such events had damaged Nepal’s standing abroad. He criticised police shootings as an “unacceptable course of action,” saying the unrest should never have been allowed to escalate.
+
+...
+
+[Data](articles/080ece81.json)
+
+[Extended Data](ext_articles/080ece81.ext.json)
+
+---
+
+### Nepal protests ‘hijacked’, Gen Z claims, as army patrols streets
+
+*2025-09-11 05:31:50* · [`dailyftlk`](https://www.ft.lk/news/Nepal-protests-hijacked-Gen-Z-claims-as-army-patrols-streets/56-781493) · `en`
+
+Nepal’s army has deployed patrols on the streets of the capital Kathmandu, as the Himalayan nation reels from its worst unrest in decades.
+
+Protests against corruption spiralled into arson and violence on Tuesday. The prime minister quit as politicians’ homes were vandalised, and Government buildings and parliament torched. 30 people died and more than 1,000 were injured over two days of violence.
+
+“Gen Z” groups spearheading the protests distanced themselves from the destruction, saying they had been “hijacked” by “opportunists”.
+
+On Wednesday, Kathmandu’s airport reopened and the capital was relatively quiet as most residents obeyed a curfew, but smoke still rose from burning buildings.
+
+The military, which is trying to control a spiralling situation, has invited the Gen Z protesters to engage in peace talks. Student leaders are consolidating a fresh list of demands, one of their representatives told the BBC.
+
+...
+
+[Data](articles/449ee345.json)
+
+---
+
+### Sri Lanka to ratify UN High Seas Biodiversity Treaty
+
+*2025-09-11 05:31:12* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-ratify-UN-High-Seas-Biodiversity-Treaty/56-781491) · `en`
+
+Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved ratification of the agreement under the UN Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction.
+
+He said Cabinet had already granted approval in December 2024 for Sri Lanka to sign the agreement and establish an inter-ministerial committee. Sri Lanka signed the agreement on 20 February 2025.
+
+“If Sri Lanka is among the first 60 countries to ratify, we will benefit from strengthened conservation of ocean resources, sustainable use, and fair distribution of returns,” Dr. Jayatissa said.
+
+◼️
+
+[Data](articles/ce8e3c30.json)
+
+[Extended Data](ext_articles/ce8e3c30.ext.json)
+
+---
+
+### MAS welcomes Asian Development Bank delegation at MAS Fabric Park
+
+*2025-09-11 05:30:10* · [`dailyftlk`](https://www.ft.lk/business/MAS-welcomes-Asian-Development-Bank-delegation-at-MAS-Fabric-Park/34-781490) · `en`
+
+Key representatives of ADB and MAS Holdings, including ADB Country Director for Sri Lanka Takafumi Kadono and MAS Holdings Director – Corporate Affairs Rajitha Jayasuriya (centre right – immediate)
+
+MAS Holdings recently hosted a delegation from the Asian Development Bank (ADB) at the MAS Fabric Park in Thulhiriya as part of ADB’s efforts to support the private sector through meaningful partnerships and investment.
+
+The visit offered the ADB team an opportunity to experience MAS’ operations first-hand and gain insights into the company’s commitment to manufacturing excellence and sustainable business practices.
+
+ADB Country Director for Sri Lanka Takafumi Kadono said, “Partnerships with leading private sector companies like MAS are essential to driving sustainable growth and resilience. We are encouraged by the company’s commitment to innovation and environmental stewardship, which align strongly with ADB’s development priorities in the region.”
+
+...
+
+[Data](articles/fbe5550c.json)
+
+[Extended Data](ext_articles/fbe5550c.ext.json)
+
+---
+
+### CWEIC hosts exclusive networking lunch in Colombo to strengthen partnerships
+
+*2025-09-11 05:27:02* · [`dailyftlk`](https://www.ft.lk/business/CWEIC-hosts-exclusive-networking-lunch-in-Colombo-to-strengthen-partnerships/34-781488) · `en`
+
+The Commonwealth Enterprise and Investment Council (CWEIC) successfully hosted an exclusive networking lunch in Colombo, bringing together its Strategic Partners and key Government stakeholders to foster dialogue, collaboration, and future partnerships within Sri Lanka.
+
+The networking lunch served as a platform for Strategic Partners of CWEIC to engage directly with Government and private sector representatives, exchange insights on emerging opportunities, and strengthen ties between the private sector and the State.
+
+The event was graced by Industries and Entrepreneurship Development Minister Sunil Handunnetti, who attended as the Chief Guest and delivered a keynote address highlighting the importance of collaboration in driving sustainable economic growth.
+
+...
+
+[Data](articles/5898b265.json)
+
+[Extended Data](ext_articles/5898b265.ext.json)
+
+---
+
+### Committee to draft national electricity policy
+
+*2025-09-11 05:23:54* · [`dailyftlk`](https://www.ft.lk/business/Committee-to-draft-national-electricity-policy/34-781487) · `en`
+
+Studies show recent CEB profits due to pricing, not efficiency gains
+
+Unbundling CEB, introducing market competition and improving governance necessary to attract investment
+
+Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved the appointment of a committee to draft Sri Lanka’s national electricity policy and guidelines as required under the amended Electricity Act.
+
+The committee will have up to eight members with at least 15 years of expertise in energy policy, renewable energy, energy transition, system planning, and economics.
+
+Dr. Jayatissa said the members include Prof. Mohan Munasinghe, President’s Counsel Milinda Gunathilaka, Professor Arulampalam Athputharaja, Engineer W.J.L. Shavindranath Fernando, and Dr. H.M. Gunathilaka.
+
+The Sri Lanka Electricity Act was enacted in June 2024 to modernise the energy sector by restructuring the Ceylon Electricity Board (CEB), promoting private-sector investment and renewable energy.
+
+...
+
+[Data](articles/8c4b9adb.json)
+
+[Extended Data](ext_articles/8c4b9adb.ext.json)
+
+---
+
+### PickMe expands into entertainment and lifestyle: Launches QR ticketing for events
+
+*2025-09-11 05:23:12* · [`dailyftlk`](https://www.ft.lk/business/PickMe-expands-into-entertainment-and-lifestyle-Launches-QR-ticketing-for-events/34-781486) · `en`
+
+PickMe has announced its expansion into the entertainment and lifestyle sector with the launch of a QR code ticketing system for events. The new feature allows users to discover, book, and access concerts, theatre, cultural festivals, and educational events, seamlessly through the PickMe app.
+
+Over the past decade, PickMe has grown from a pioneering ride-hailing tech service into a key player in Sri Lanka’s shared economy. The company has expanded its tech capabilities to facilitate services across mobility (cars, three-wheelers, bikes), food and grocery delivery and logistics, including parcel delivery services, and is now entering the events and cultural space to further enhance the country’s digital ecosystem.
+
+...
+
+[Data](articles/28bdae85.json)
+
+[Extended Data](ext_articles/28bdae85.ext.json)
+
+---
+
+### Dialog and MDF renew partnership to expand Govi Mithuru with AI and inclusive farming solutions
+
+*2025-09-11 05:22:53* · [`dailyftlk`](https://www.ft.lk/business/Dialog-and-MDF-renew-partnership-to-expand-Govi-Mithuru-with-AI-and-inclusive-farming-solutions/34-781485) · `en`
+
+From left: MDF Sri Lanka Business Adviser Hiruni Liyanarachchi, Dialog Axiata Group Sustainability Manager – Digital Innovation and Inclusion Tharusha Wanigasekera, Group Chief Corporate Officer Asanga Priyadarshana, Director/Group Chief Executive Supun Weerasinghe, Australian High Commission First Secretary Zoe Kidd, MDF Sri Lanka Country Director Maryam Piracha, Business Adviser Aravind Ganesan, and Dialog Axiata Group Sustainability Assistant Product Manager – Digital Inclusion Madhawee Jayamali
+
+Dialog Axiata PLC has renewed its partnership with the Australian Government-funded Market Development Facility (MDF) to further enhance Govi Mithuru, its agriculture advisory service aimed at tackling key sector challenges and promoting inclusive, AI-driven, and sustainable farming practices across Sri Lanka.
+
+...
+
+[Data](articles/b87dfeaf.json)
+
+[Extended Data](ext_articles/b87dfeaf.ext.json)
+
+---
+
+### Refuse internal and mixed systems
+
+*2025-09-11 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224771) · `ta`
+
+The United Nations Human Rights High Commissioner, by insisting on the constructive process of accountability, is to provide a gap for the Internal System, which will create a threatening position in the backdrop of long -term loss of such internal systems, the diaspora Tamil organizations, which have been fully warned by the human rights organizations and the internal systems of human rights. Request.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva last Monday. The Tamil Information Center, the Tamil Youth Affairs, the Tamil Youth Organization, the International Eelam Tamil Eelam, the Canadian Tamil National Alliance (TNA), the World Tamil Organizations, and the World Tamil Organizations, Britain, the United States, Switzerland, India, India, Australia, Australia Tamil organizations have jointly sent a joint letter to the members of the United Nations Human Rights Council.
+
+...
+
+[Data](articles/f5ca03c9.json)
+
+[Extended Data](ext_articles/f5ca03c9.ext.json)
+
+---
+
+### Ji. V.. Prakash Kumar Poster Poster Poster of Muniskant's Middle Class
+
+*2025-09-11 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224770) · `ta`
+
+Motion poster for the title and film of the new movie 'Middle Class' has been released as a comedian in Tamil cinema, a character actor and a role in the role of famous actor Muniskant's story.. This is a composer and star actor. Prakash Kumar posted on his social network and congratulated the film crew.
+
+Directed by director Kishore Muthumalingam, Muniskant, Vijayalakshmi, Qureshi, Kali Venkat, Radha Ravi, Kodangi Vadivelu, Malavika Avinash, Vela Ramamurthy. Pranav Muniraj has composed the film, which is being recorded by Sudarshan Srinivasan. Producer Dev and K.. V. Durai has co -produced.
+
+The film's debut video has attracted a lot of fans in the Tamil families who are in the backward, lack of daily shortage and desires.
+
+◼️
+
+[Data](articles/7486e8d5.json)
+
+[Extended Data](ext_articles/7486e8d5.ext.json)
+
+---
 
 ### The government's attempt to eliminate the privileges of former presidents does not seem to be held to hold provincial council elections - Nisam Kariyapar
 
@@ -204,6 +510,102 @@ In addition, Shubman Kill faced only 9 balls and scored 20 runs. There was a six
 
 ---
 
+### Beauty benefits of honey …
+
+*2025-09-10 23:39:00* · [`islandlk`](http://island.lk/beauty-benefits-of-honey/) · `en`
+
+Since honey plays an important role where beauty is concerned, this week I’ve decided to highlight some beauty benefits of honey … how you can use it to get glowing skin and lustrous hair.
+
+To use honey as a face scrub, mix 02 tablespoons of honey with 01 tablespoon of baking soda and then gently apply this mixture on your face and neck. Rub it into the skin in a circular motion. Rinse and pat dry to get a radiant complexion.
+
+All you need to do is apply a teaspoon of pure raw honey on your clean skin and then leave it for 20 minutes. Wash with lukewarm water and pat dry.
+
+To use it as a pore cleanser, mix 01 tablespoon of raw honey with 02 tablespoon of coconut oil and apply it on your skin, avoiding the eye area. After 20 minutes, wash it off with tepid water. ,
+
+Apply raw honey to the affected area. After 15 minutes, wash it off with slightly warm water.
+
+...
+
+[Data](articles/f90f7448.json)
+
+[Extended Data](ext_articles/f90f7448.ext.json)
+
+---
+
+### ‘ICC Timber Solutions: Built to last, designed to impress’
+
+*2025-09-10 23:23:00* · [`islandlk`](http://island.lk/icc-timber-solutions-built-to-last-designed-to-impress/) · `en`
+
+For over four decades, the International Construction Consortium (Pvt) Limited (ICC) has stood as a trusted leader in Sri Lanka’s construction industry, renowned for delivering projects on time with uncompromising quality. Building on this legacy, ICC Timber Solutions has emerged as a respected name in premium timber products, bringing warmth, durability, and timeless style to both residential and commercial spaces.
+
+As part of ICC’s diversified portfolio, ICC Timber Solutions offers expertly crafted timber elements that blend natural elegance with modern performance standards. At the forefront of its product range are ICC Prefinished Timber Flooring and ICC Timber Deck Tiles, two solutions that exemplify the company’s commitment to excellence.
+
+...
+
+[Data](articles/c6211952.json)
+
+---
+
+### The Mall at Port City Colombo celebrates its first anniversary
+
+*2025-09-10 23:22:00* · [`islandlk`](http://island.lk/the-mall-at-port-city-colombo-celebrates-its-first-anniversary/) · `en`
+
+The Mall at Port City Colombo, Sri Lanka’s pioneering downtown duty free retail concept, commemorated its first anniversary of operations on 4th September 2025, with an exclusive gathering of its most valued retail partners, and representatives from China Duty Free, One World Duty Free, the Colombo Port City Economic Commission, and CHEC Port City Colombo (Pvt) Ltd. The Mall’s milestone celebration marked a year of remarkable growth and affirmed its role as a catalyst in transforming Colombo into a sought-after luxury travel retail and tourist destination in South Asia.
+
+...
+
+[Data](articles/20fede0f.json)
+
+---
+
+### Kandy Ayurvedic Pharmacy wins Global Business Excellence 2025 Elite Series II Award
+
+*2025-09-10 23:21:00* · [`islandlk`](http://island.lk/kandy-ayurvedic-pharmacy-wins-global-business-excellence-2025-elite-series-ii-award/) · `en`
+
+Kandy Ayurvedic Pharmacy Ltd of ‘Nuwara Osu’ fame, Sri Lanka’s iconic and trusted name in the manufacturing and distribution of state-of-the-art ayurvedic and herbal medications, has been awarded the prestigious Ayurvedic Product Manufacturing Excellence Award at the Global Business Excellence 2025 Elite Series II at a gala ceremony held at the BMICH recently. The selection was based on their remarkable achievements, commitment to innovation, and lasting impact on the industry.
+
+“We are delighted to have been selected as the winner of this prestigious award, recognizing our rich heritage in Ayurveda, which is immersed in our culture and traditions. Our unwavering commitment to excellence, continuous innovation, and product quality has won the admiration of our customers not only in Sri Lanka but also in different parts of the world to which we export our products,” stated the Chairman of Kandy Ayurvedic Pharmacy Ltd – Ranjith Ehelepola Seneviratne.
+
+...
+
+[Data](articles/e9a7ac39.json)
+
+---
+
+### Central Bank inaugurates “Financial Literacy Month 2025” from September 10
+
+*2025-09-10 23:20:00* · [`islandlk`](http://island.lk/central-bank-inaugurates-financial-literacy-month-2025-from-september-10/) · `en`
+
+The Central Bank inaugurates Financial Literacy Month on 10th September 2025, signifying a pivotal milestone in the nation’s progressive journey toward financial inclusion. This initiative is carrying under the framework of the Financial Literacy Roadmap, aligned with the Central Bank’s overarching vision of creating a ‘Financially Literate Sri Lanka’.
+
+Throughout the month, a series of impactful activities unfold, underscoring the Central Bank’s steadfast commitment to equipping the public with the knowledge, skills, and attitudes essential for transforming financial behavior, fostering prudent decision-making, and advancing sustainable economic well-being.
+
+...
+
+[Data](articles/dee44734.json)
+
+---
+
+### Citrus Leisure-initiated share transaction dominates CSE trading
+
+*2025-09-10 23:14:00* · [`islandlk`](http://island.lk/citrus-leisure-initiated-share-transaction-dominates-cse-trading/) · `en`
+
+Citrus Leisure has sold 62.500,000 ordinary voting shares of Hikkaduwa Beach Resort to the market, the company said.
+
+This constitutes over l0 percent of the issued voting shares of Hikkaduwa Beach Resort, CSE sources said.
+
+Citrus Leisure is the major shareholder of Hikkaduwa Beach Resort. Citrus Leisure was trading up 20 cents at Rs 4.30.
+
+Amid those developments the CSE got off on a negative note with a sell-off in the market but the market recovered due to demand in valued stock, market analysts said.
+
+Both indices moved upwards. The All Share Price Index went up by 96.2 points, while the S and P SL20 rose by 53.9 points.
+
+...
+
+[Data](articles/055ac844.json)
+
+---
+
 ### The earth's soil is built on the place of the crash
 
 *2025-09-10 22:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුර-සිදුවු-ස්ථානයේ-පස්බැමි-යොදා-ආරක්ශිත-බැම්මක්-ඉදිකරයි/11-418417) · `si`
@@ -244,6 +646,24 @@ Tasun Eranga Wickremaratne, who represented the first two independent groups, sa
 
 ---
 
+### Press Junket: Sri Lankan Journalists Visiting Israel
+
+*2025-09-10 22:48:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/press-junket-sri-lankan-journalists-visiting-israel/) · `en`
+
+Settler colonial state of Israeli presence in Sri Lanka threatens communal harmony and national security besides insults the island which was in the forefront in the regional and international forums defending the legitimate rights of Palestinians.
+
+Most Sri Lankans are not familiar with the blood soaked history of Israel as mainstream local media, perhaps under US- Israeli influence, refuses to highlight Israeli crimes. Shameful state of affairs is such that Prime Minister Benjamin Netanyahu was declared by International Criminal Court as a war criminal who has taken the whole world to
+
+There was no Israel before 1948. It was Palestine which was part of vast Turkey’s Ottoman Empire- spanned from around 1299 to 1922. During World War I  Turkey was defeated and the victorious Britain and France brought the entire Arab world under their control.
+
+...
+
+[Data](articles/f90579fb.json)
+
+[Extended Data](ext_articles/f90579fb.ext.json)
+
+---
+
 ### Students issue the students to enter the entry for intermediate series of schools
 
 *2025-09-10 22:47:45* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමේ-චක්‍රලේඛය-නිකුත්-කරයි/11-418415) · `si`
@@ -255,6 +675,20 @@ The 27/2025 Circular has been issued for the Grade 2 to Grade 11 (Excluding Grad
 [Data](articles/dfbc9292.json)
 
 [Extended Data](ext_articles/dfbc9292.ext.json)
+
+---
+
+### Constitutional Traps & Professional Responsibility: Reflections On Sri Lanka’s Aragalaya
+
+*2025-09-10 22:24:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/constitutional-traps-professional-responsibility-reflections-on-sri-lankas-aragalaya/) · `en`
+
+This article serves as a reflection on the Aragalaya movement that swept across Sri Lanka, examining the complex dynamics that emerged when mass popular mobilization intersected with established professional communities. The Aragalaya, which began as a response to severe economic crisis and governance failures, revealed important questions about institutional reform, professional responsibility, and the structural frameworks within which legal, academic, and media professional institutions operate. Through analyzing the responses of these professional communities during this critical period, we can better understand the challenges of institutional reform and the role of professional expertise in times of social transformation.
+
+...
+
+[Data](articles/415931dc.json)
+
+[Extended Data](ext_articles/415931dc.ext.json)
 
 ---
 
@@ -1505,523 +1939,5 @@ Following the heated debate for several hours, the Speaker announced that a vote
 [Data](articles/b692ddaf.json)
 
 [Extended Data](ext_articles/b692ddaf.ext.json)
-
----
-
-### Presidents’ Entitlements (Repeal) Bill passed in Parliament
-
-*2025-09-10 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112361/second-reading-of-the-presidents-entitlements-repeal-bill-passed-in-parliament) · `en`
-
-The second reading of the Presidents’ Entitlements (Repeal) Bill has been passed with a majority of 150 votes in Parliament, a short while ago.
-
-During the vote on the second reading of the bill, a total of 151 Members of Parliament voted in favor while New Democratic Front (NDF) MP Chamara Sampath Dassanayake voted against it.
-
-Accordingly, Speaker of House Dr. Jagath Wickramaratne announced that the bill has been passed with a majority of 150 votes.
-
-Subsequently, the bill proceeded to the third reading or the committee stage.
-
-Following the committee stage, the Speaker announced that the bill has been approved without amendments in Parliament.
-
-◼️
-
-[Data](articles/bb787508.json)
-
-[Extended Data](ext_articles/bb787508.ext.json)
-
----
-
-### Sri Lanka nationals in Nepal asked to be vigilant, Foreign Ministry gives helpline
-
-*2025-09-10 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-nationals-in-nepal-asked-to-be-vigilant-foreign-ministry-gives-helpline-240001/) · `en`
-
-ECONOMYNEXT – Sri Lanka nationals in Nepal should be vigilant and follow the advice of authorities, the Foreign Ministry said, giving a helpline for assistance as unrest flared in the South Asian nation.
-
-The Sri Lanka embasssy in Kathmandu can be contacted at the following telephone number : +9779851048653.
-
-Protests against a social media ban escalated into broader protests following the shooting of some protestors by police that killed 19 persons.
-
-On Wednesday, some protestors set fire to the parliament, after the Prime Minister resigned.
-
-The Ministry of Foreign Affairs, Foreign Employment and Tourism requests all Sri Lankan nationals in Nepal to remain vigilant and adhere to the advice of local authorities in view of the prevailing situation.
-
-For any assistance, Sri Lankans may contact the Embassy of Sri Lanka in Kathmandu through the dedicated helpline, ‪+9779851048653.
-
-◼️
-
-[Data](articles/4b09ba80.json)
-
-[Extended Data](ext_articles/4b09ba80.ext.json)
-
----
-
-### Explanation to the former CM
-
-*2025-09-10 15:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநகர-சபை-முன்னாள்-முதல்வருக்கு-விளக்கமறியல்/175-364354) · `ta`
-
-Colombo Chief Magistrate Asanga SS to hold the former Chief Minister of the Moratuwa Municipal Council Samanlal Fernando until September 23. Podarakama ordered.
-
-◼️
-
-[Data](articles/9fc9d8ad.json)
-
-[Extended Data](ext_articles/9fc9d8ad.ext.json)
-
----
-
-### Sri Lanka sells less than offered treasury bills, as yields mostly kept flat
-
-*2025-09-10 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-as-yields-mostly-kept-flat-240000/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 59.17 billion rupees of Treasury bills, of an offered 77 billion, with yields mostly flat across maturities, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.58 percent, with 12 billion rupees of bills offered and 5.18 billion sold.
-
-The 6-month yield was unchanged at 7.89 percent, with 40 billion rupees offered and 48,17 billion sold.
-
-The 12-month yield was down 1 basis point at 8.02 percent with 25 billion rupees offered and 5,81 billion rupees bills sold.
-
-All three bills are available on tap at the weighted average yield.
-
-Last week there were no takers for the post auction tap issue.
-
-An issue of Rs.155,000 million Treasury Bonds is scheduled tomorrow. (Colombo/Sep10/2025)
-
-◼️
-
-[Data](articles/a070cb81.json)
-
-[Extended Data](ext_articles/a070cb81.ext.json)
-
----
-
-### Sri Lanka sells less than offered treasury bills, as bill yields fixed
-
-*2025-09-10 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-as-bill-yields-fixed-240000/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 59.17 billion rupees of Treasury bills, of an offered 77 billion, with yields mostly flat across maturities, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.58 percent, with 12 billion rupees of bills offered and 5.18 billion sold.
-
-The 6-month yield was unchanged at 7.89 percent, with 40 billion rupees offered and 48,17 billion sold.
-
-The 12-month yield was down 1 basis point at 8.02 percent with 25 billion rupees offered and 5,81 billion rupees bills sold.
-
-All three bills are available on tap at the weighted average yield.
-
-Last week there were no takers for the post auction tap issue.
-
-An issue of Rs.155,000 million Treasury Bonds is scheduled tomorrow. (Colombo/Sep10/2025)
-
-◼️
-
-[Data](articles/a434f985.json)
-
-[Extended Data](ext_articles/a434f985.ext.json)
-
----
-
-### Sri Lanka expresses concern over recent strikes in Qatar
-
-*2025-09-10 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112359/sri-lanka-expresses-concern-over-recent-strikes-in-qatar) · `en`
-
-Sri Lanka today expressed deep concern over the recent strikes reported in Qatar, which it says might further escalate volatility and undermine regional security.
-
-“Sri Lanka emphasizes the need for restraint and to be committed to diplomatic dialogue towards peace and stability in the region while upholding universally accepted international norms and laws,” the Ministry of Foreign Affairs said in a brief statement.
-
-Israel attempted to kill the political leaders of Hamas with the attack in the Qatari capital Doha on Tuesday, escalating its military action in the Middle East in what the U.S. described as a unilateral attack that does not advance American and Israeli interests.
-
-The operation was especially sensitive because mediator Qatar has been hosting negotiations aimed at securing a ceasefire in the Gaza war which has been raging for nearly two years.
-
-...
-
-[Data](articles/1536474f.json)
-
-[Extended Data](ext_articles/1536474f.ext.json)
-
----
-
-### Samanlal remanded
-
-*2025-09-10 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214403) · `si`
-
-Former Mayor of Moratuwa Municipal Council has been remanded until September 23.
-
-The event was arrested for the loss of the loss of the road development projects in the Moratuwa Municipal Council.
-
-◼️
-
-[Data](articles/e4468c28.json)
-
-[Extended Data](ext_articles/e4468c28.ext.json)
-
----
-
-### Former Moratuwa Mayor Saman Lal Fernando remanded
-
-*2025-09-10 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112358/former-moratuwa-mayor-saman-lal-fernando-remanded-) · `en`
-
-Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) earlier today (10), has been remanded, Ada Derana reporter said.
-
-He was remanded until September 23 by the Colombo Chief Magistrate Asanka S. Bodaragama.
-
-Former Moratuwa Mayor Saman Lal Fernando was arrested at around 12:50 p.m.
-
-The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
-
-He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
-
-◼️
-
-[Data](articles/33286b66.json)
-
-[Extended Data](ext_articles/33286b66.ext.json)
-
----
-
-### An ethnicrology of deputy minister station as insulted by Namal
-
-*2025-09-10 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214402) · `si`
-
-Deputy Minister of Public Defense and Parliamentary Affairs Sunil Watagala have been directed against the defamatory and inspector of the Hon.
-
-This deputy minister has been sent to the Deputy Minister through a lawyer.
-
-At a press conference held on or near September, 2025, a press conference was held in Homagama or a media briefing in Homagama, homagama, had made a statement regarding the underworld and drugs.
-
-During that statement, the deputy minister has expressed in the case of two containers who have been arrested by the police on the 6th or near the police.
-
-During the same statement, Deputy Minister Sunil Watagala show that he is clearly exhibited by the client, Namal Rajapaksa and has issued statements into the media.
-
-It is also reported that this statement is based on a protest against Namal Rajapaksa and the Commonwealth General Man.
-
-Eligibility has shown that Namal Rajapaksa has been severely damaged by the above statements and the implementation of the statement.
-
-...
-
-[Data](articles/9b0aa82e.json)
-
-[Extended Data](ext_articles/9b0aa82e.ext.json)
-
----
-
-### "We will burn unnecessary nails"
-
-*2025-09-10 15:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவையில்லாத-ஆணிகளை-புடுங்குவோம்/175-364351) · `ta`
-
-Wanni district parliamentarian of the National People's Power, Mayilvankanam Jagadeeswaran, who urged the people's sweat and bloodshed in the past, should not be convenient for former presidents who have been facilitated in the past.
-
-He said this while addressing a debate on the abolition of the principles of the present presidents in Parliament.
-
-◼️
-
-[Data](articles/23b2135a.json)
-
-[Extended Data](ext_articles/23b2135a.ext.json)
-
----
-
-### Owner of bus involved in fatal Ella crash granted bail
-
-*2025-09-10 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112357/owner-of-bus-involved-in-fatal-ella-crash-granted-bail) · `en`
-
-The owner of the bus involved in the recent fatal accident on the Ella-Wellawaya road who was arrested yesterday, has been granted bail, Ada Derana reporter said.
-
-He was released on two surety bails of Rs. 1 million each and a personal bail of Rs. 50,000.
-
-Ella Police arrested the owner for negligence in the proper maintenance of the vehicle, which led to the deaths of 15 people.
-
-The accident occurred on Thursday night (04) near the 24th milepost on the Ella–Wellawaya road, when a bus veered off the road and plunged into a precipice, resulting in the deaths of 15 individuals and injuries to 17 others.
-
-Investigations are now underway to determine whether he had consumed any intoxicating substances prior to the crash.
-
-Of those who died, 12 were employees of the Tangalle Municipal Council.
-
-◼️
-
-[Data](articles/346cc13e.json)
-
-[Extended Data](ext_articles/346cc13e.ext.json)
-
----
-
-### Arrested for former CM
-
-*2025-09-10 14:50:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாநகர-சபை-முன்னாள்-முதல்வர்-கைது/175-364350) · `ta`
-
-Former Chief Minister of the Moratuwa Municipal Council Samanlal Fernando has been arrested by the authorities to investigate bribery or corruption.
-
-He has been accused of providing road development projects to the Moratuwa municipality.
-
-◼️
-
-[Data](articles/cd5855ce.json)
-
-[Extended Data](ext_articles/cd5855ce.ext.json)
-
----
-
-### SJB threatens to bring NCM against Speaker
-
-*2025-09-10 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112355/sjb-threatens-to-bring-ncm-against-speaker) · `en`
-
-The opposition is prepared to bring a no-confidence motion against the Speaker of House, General Secretary of the Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara in Parliament.
-
-He made this statement when the Speaker announced his decision regarding the no-confidence motion submitted by the opposition against Deputy Defence Minister, Retired Major General Aruna Jayasekara.
-
-Parliamentarian Madduma Bandara further said that if the Speaker fails to safeguard the democratic rights of the opposition, a no-confidence motion will be brought against him.
-
-Responding to this, Minister Bimal Rathnayake stated in Parliament that the opposition will never succeed in defeating the Speaker through a no-confidence motion.
-
-The Minister said they have no objections to the order of the Speaker and as the ruling party, they are prepared to debate the matter at any given time.
-
-...
-
-[Data](articles/aabf96e5.json)
-
-[Extended Data](ext_articles/aabf96e5.ext.json)
-
----
-
-### Archana's question is the ruling party
-
-*2025-09-10 14:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவின்-கேள்வியால்-ஆடிபோன-ஆளும்-தரப்பு/175-364349) · `ta`
-
-Jaffna Member of Parliament Ramanathan Archana is participating in the debate on the abolition of the principles of the present presidents in Parliament.
-
-Ramanathan Archana, who started his speech, said, "It is your favorite to speak in Sinhala.
-
-I am, asking. Lift up your hand here, Prabhakaran is a terrorist, however, no one raises his hand.
-
-However, I will raise your hand that your Rohana Vijayaweera is not a terrorist.
-
-◼️
-
-[Data](articles/354ab2e0.json)
-
-[Extended Data](ext_articles/354ab2e0.ext.json)
-
----
-
-### Prabhakaran's question
-
-*2025-09-10 14:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனின்-கேள்வியால்-ஆடிபோன-ஆளும்-தரப்பு/175-364349) · `ta`
-
-Jaffna Member of Parliament Ramanathan Archana is participating in the debate on the abolition of the principles of the present presidents in Parliament.
-
-Ramanathan Archana, who started his speech, said, "It is your favorite to speak in Sinhala."
-
-I am, asking. Lift up your hand here, Prabhakaran is a terrorist, however, no one raises his hand.
-
-However, I will raise your hand that your Rohana Vijayaweera is not a terrorist.
-
-◼️
-
-[Data](articles/5e08dde0.json)
-
-[Extended Data](ext_articles/5e08dde0.ext.json)
-
----
-
-### Sri Lanka’s central bank launches financial literacy month to educate public
-
-*2025-09-10 14:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-launches-financial-literacy-month-to-educate-public-239996/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank launched a “Financial Literacy Month 2025” from today (10) with the aim of creating a ‘Financially Literate Sri Lanka’, it said.
-
-It will conduct a series of activities to equip the public “with the knowledge, skills, and attitudes essential for transforming financial behavior, fostering prudent decision-making, and advancing sustainable economic well-being”.
-
-The nationwide initiatives will target diverse groups, including schoolchildren, university students, youth, women, and Micro, Small & Medium Enterprises (MSMEs).
-
-“These initiatives ensure inclusive and accessible financial education for all segments of society.”
-
-Financial literacy discussions will be disseminated through mainstream media channels such as television, radio, and YouTube, along with the telecast of educational videos to extend outreach to wider audiences, it said.
-
-...
-
-[Data](articles/8bc0360e.json)
-
-[Extended Data](ext_articles/8bc0360e.ext.json)
-
----
-
-### Nishantha Uluketenna's explanation extension
-
-*2025-09-10 14:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்த-உலுகேதென்னவின்-விளக்கமறியல்-நீடிப்பு/175-364346) · `ta`
-
-The Magistrate of Polgahawela has ordered the extension of Nishantha's explanation period until the 24th.
-
-The Criminal Investigation Department was investigated by the Criminal Investigation Department regarding the abduction in Pothuhara area while serving as the Director of the Nishantha Navy Intelligence Unit.
-
-◼️
-
-[Data](articles/ee148b3e.json)
-
-[Extended Data](ext_articles/ee148b3e.ext.json)
-
----
-
-### Reformation in September allowance to accounts on other accounts
-
-*2025-09-10 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214401) · `si`
-
-The Welfare Benefit Board (Welfare Benefits) are to be credited to the beneficiaries of beneficiaries (12) on September.
-
-The Board said that the amount of Rs.
-
-Accordingly, the beneficiaries will be provided with their relief allowance from September 12.
-
-◼️
-
-[Data](articles/16fe1b86.json)
-
-[Extended Data](ext_articles/16fe1b86.ext.json)
-
----
-
-### The final draft of the new terrorist Act next week
-
-*2025-09-10 14:29:55* · [`adalk`](https://www.ada.lk/breaking_news/නව-ත්‍රස්ත-විරෝධි-පනතේ-අවසන්-කෙටුම්පත-ලබන-සතියේ-අධිකරණ-ඇමතිට/11-418410) · `si`
-
-The Chairman of the Committee and National Integration will be handed over to the Committener Committee, Attorney-at-Arms and National Integration to draft the new terrorist committee next week.
-
-The committee appointed by the Cabinet of Ministers to draft the new terrorist bill met at the Ministry of Justice and National Integration yesterday (09). The Chairman of the Committee was expressed these views.
-
-Identifying continuous issues in the new draft and the bill will be completed for the second time this week. The committee will meet daily meeting daily and finalizes the relevant activities.
-
-The committee is discussed daily over the next few days, and the draft department is being carried out by the Department of Drawing Act.
-
-...
-
-[Data](articles/8420bc6f.json)
-
-[Extended Data](ext_articles/8420bc6f.ext.json)
-
----
-
-### N. Namal Rs. Asks for a billion
-
-*2025-09-10 14:26:05* · [`adalk`](https://www.ada.lk/breaking_news/නි--ඇමති-සුනිල්-වටගලගෙන්-නාමල්-රු--බිලියනයක්-ඉල්ලයි/11-418409) · `si`
-
-Namal Rajapaksa's lawyers have been directed to MP Namal Watagala by Deputy Minister Sunil Rajapaksa to MP Namal Rajapaksa.
-
-◼️
-
-[Data](articles/822323ea.json)
-
-[Extended Data](ext_articles/822323ea.ext.json)
-
----
-
-### Nepal Protests: Army urges foreign nationals to seek assistance if needed
-
-*2025-09-10 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112354/nepal-protests-army-urges-foreign-nationals-to-seek-assistance-if-needed) · `en`
-
-The Nepal Army has advised all foreign nationals who are stranded or require assistance in Nepal to contact nearby security personnel or authorities.
-
-A semblance of normalcy returned to Nepal’s capital, Kathmandu, today (10) after two days of massive protests that turned violent following the deaths of 19 people, mostly youth, on Monday.
-
-The Nepal Army then took charge of security, with military personnel deployed across the capital. Over the past two days, protests in Nepal escalated quickly into violence and the storming of government buildings.
-
-The Army said in a statement, ‘Hotels, tourism operators, and other organizations hosting foreign nationals are also requested to coordinate and facilitate any rescue or support efforts as needed.’
-
-Meanwhile, the Ministry of Foreign Affairs, Foreign Employment and Tourism requested all Sri Lankan nationals in Nepal to remain vigilant and adhere to the advice of local authorities in view of the prevailing situation.
-
-...
-
-[Data](articles/129e829d.json)
-
-[Extended Data](ext_articles/129e829d.ext.json)
-
----
-
-### Former former Moratuwa Mayor arrested
-
-*2025-09-10 14:00:34* · [`adalk`](https://www.ada.lk/breaking_news/මොරටුව-හිටපු-නගරාධිපති-අත්අඩංගුවට/11-418408) · `si`
-
-Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Commission under the charges of the Government of Moratuwa Municipal Council.
-
-◼️
-
-[Data](articles/3daae550.json)
-
-[Extended Data](ext_articles/3daae550.ext.json)
-
----
-
-### Sri Lanka’s Citrus Leisure sells 10-pct stake in Hikkaduwa Beach Resort
-
-*2025-09-10 13:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-citrus-leisure-sells-10-pct-stake-in-hikkaduwa-beach-resort-239980/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Citrus Leisure has sold 62.500,000 ordinary voting shares of Hikkaduwa Beach Resort to the market, the company said.
-
-This constitutes over l0 percent of the issued voting shares of Hikkaduwa Beach Resort, the company said in a stock exchange filing.
-
-Citrus Leisure is the major shareholder of Hikkaduwa Beach Resort.
-
-The Citrus Leisure chain owns and operates Citrus Waskaduwa, Citrus Hikkaduwa and the Steuart by Citrus. (Colombo/Sep10/2025)
-
-◼️
-
-[Data](articles/7deb8824.json)
-
-[Extended Data](ext_articles/7deb8824.ext.json)
-
----
-
-### Burning down the parliament and court a ‘great disrespect’ to Nepal’s democracy – Ranil
-
-*2025-09-10 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112353/burning-down-the-parliament-and-court-a-great-disrespect-to-nepals-democracy-ranil-) · `en`
-
-Former President of Sri Lanka Ranil Wickremesinghe today expressed deep concern over the situation in Kathmandu, Nepal, condemning the recent violence and calling for the restoration of peace and stability in the country.
-
-“First of all, I condemn all kinds of killings, including those of the youth that has occurred in Nepal. Similarly, the burning of the former Prime Minister’s house and the killing of the former Prime Minister’s wife is an extremely sad situation. I express my condolences over that murder,” he said issuing a special statement.
-
-He further noted that the attacks on ministers, particularly the Foreign Minister, were a continuation of the tragedy, emphasizing that women’s rights had been gravely violated and that such acts had tarnished Nepal’s international reputation.
-
-The former president said the situation in Kathmandu “should not have gone this far” and that the shooting by the police was an “unacceptable course of action”.
-
-...
-
-[Data](articles/4ef84560.json)
-
-[Extended Data](ext_articles/4ef84560.ext.json)
-
----
-
-### Former Moratuwa Mayor Saman Lal Fernando arrested
-
-*2025-09-10 13:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112352/former-moratuwa-mayor-saman-lal-fernando-arrested-) · `en`
-
-Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been arrested.
-
-He has been arrested by officers attached to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 12:50 p.m. today (10).
-
-The Bribery Commission stated the former Mayor has been arrested in connection with an allegation of causing losses to the government by awarding road development projects of the Moratuwa Municipal Council to his associates.
-
-He has reportedly granted 112 contracts using his own discretion and issued payments in violation of accepted procedures.
-
-Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando is scheduled to be produced before the Colombo Chief Magistrate today, the Bribery Commission stated.
-
-◼️
-
-[Data](articles/d4fb06c5.json)
-
-[Extended Data](ext_articles/d4fb06c5.ext.json)
-
----
-
-### Former former Moratuwa Mayor arrested
-
-*2025-09-10 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214400) · `si`
-
-Former Mayor of Moratuwa Municipal Council has been arrested by the Bribery and Corruption Investigation Commission.
-
-It is reported that the road development projects in the Moratuwa Municipal Council have been arrested for their losses.
-
-◼️
-
-[Data](articles/96ab9c13.json)
-
-[Extended Data](ext_articles/96ab9c13.ext.json)
 
 ---

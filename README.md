@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 09:12:51**
+As of **2025-09-11 09:56:12**
 
 ## Newspaper Stats
 
-*Scraped **75,315** Articles*
+*Scraped **75,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,565
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,299
+adalk | 7,301
 adaderanalk | 9,666
-tamilmirrorlk | 11,243
+tamilmirrorlk | 11,245
 virakesarilk | 12,277
 adaderanasinhalalk | 13,117
 
@@ -26,41 +26,83 @@ adaderanasinhalalk | 13,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,853 (88.8%) of 75,315 articles have been extended.
+66,877 (88.8%) of 75,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### நேபாளத்தில்  சுஷிலா கார்க்கி தலைமையில் இடைக்கால அரசு
+### Massive struggle in France: 200 arrested
+
+*2025-09-11 08:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸில்-பாரிய-போராட்டம்-200-பேர்-கைது/50-364396) · `ta`
+
+Police Arrest the Bott Tangs Series. Prime Minister Fi Ron Chua Baru's skin, which was taken up three days ago in France's Natural Man, was in a state of disguise, and his head -to -head government collapsed.
+
+In the case of 577 members of the French Natural Manth, 364 members and 194 members of the Bank of India have been voted for the Book of Bill.
+
+With this, Chancellor, the Chancellor of Manuel Mac Ron, has been in the last 12 months.. Subsequently, the President of the Ministry of Public Council, Sir Legner, was appointed as the new Chief Minister.. In this case, the new government's opposition to the post of France has exploded.
+
+Subsequently, the police, who prevented the mugs of the mugs in the area, threw their eyes smokers and threw their eyes smokers.. In the meantime, the West Tuck Carries set fire to the West Town City Rence Bus One. In the dental areas, the police have quicked the quicker cup butt.
+
+...
+
+[Data](articles/1c59df90.json)
+
+[Extended Data](ext_articles/1c59df90.ext.json)
+
+---
+
+### 3 buses collide with each other in Balangoda
+
+*2025-09-11 08:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலாங்கொடையில்-3-பேருந்துகள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/76-364395) · `ta`
+
+Three buses collided with each other in the Balangoda Bahala area on the Colombo-Padulla main road in the morning.
+
+The accident occurred when the Sri Lanka Transport Board bus carrying passengers, including school children from Belmatula to Balangoda, collided with a private bus from Balangoda to Colombo and the Sri Lanka Transport Board bus traveling in the same direction.
+
+As an ambulance arrived at the scene, people in the area took school children and many passengers who were suffering from minor injuries to the hospital.
+
+◼️
+
+[Data](articles/0572a1aa.json)
+
+[Extended Data](ext_articles/0572a1aa.ext.json)
+
+---
+
+### Interim government led by Sushila Karki in Nepal
 
 *2025-09-11 08:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-சுஷிலா-கார்க்கி-தலைமையில்-இடைக்கால-அரசு/50-364394) · `ta`
 
-நேபாளத்தில் கடந்த சில நாட்களாகவே வன்முறை தொடர்ந்து வருகிறது. இதனால் அங்கு நாளுக்கு நாள் நிலைமை மோசமாகிக் கொண்டே போகிறது. இதற்கிடையே அந்நாட்டின் முன்னாள் தலைமை நீதிபதி சுஷிலா கார்க்கி தலைமையில் அங்கு இடைக்கால அரசு அமையவுள்ளதாகத் தகவல் வெளியாகியுள்ளது.. போராட்டக்காரர்களின் ஆதரவு சுஷிலா கார்க்கிக்கு இருப்பதால், அங்கு வன்முறை மெல்ல முடிவுக்கு வரும் எனத் தெரிகிறது
+Violence has continued for the past few days in Nepal. This is why the situation is getting worse day by day. Meanwhile, it is reported that the interim government is headed by former chief justice Sushila Karki.. Susila Karki's support for the protesters seems to be over the end of the violence there
 
 ◼️
 
 [Data](articles/9f160492.json)
 
+[Extended Data](ext_articles/9f160492.ext.json)
+
 ---
 
-### டிரம்ப்பின் தீவிர ஆதரவாளர் சார்லி கிர்க் சுட்டுக்கொலை;  பல்கலைக்கழக நிகழ்ச்சியில் பயங்கரம்
+### Charlie Kirk shot dead by Trump's ardent supporter;  Horror at the university event
 
 *2025-09-11 08:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பின்-தீவிர-ஆதரவாளர்-சார்லி-கிர்க்-சுட்டுக்கொலை-பல்கலைக்கழக-நிகழ்ச்சியில்-பயங்கரம்/50-364393) · `ta`
 
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்பின் ஆதரவாளரான சார்லி கிர்க், பல்கலைக்கழக நிகழ்ச்சியின் போது சுட்டுக்கொல்லப்பட்ட சம்பவம் பரபரப்பை ஏற்படுத்தியுள்ளது.
+Charlie Kirk, a supporter of US President Donald Trump, was shot dead during a university event.
 
-அமெரிக்காவின் வலதுசாரி ஆர்வலரும், அமெரிக்க ஜனாதிபதி  டொனால்ட் டிரம்ப்பின் தீவிர ஆதரவாளருமான சார்லி கிர்க், உட்டா பல்கலைக்கழகத்தில் நடந்த ஒரு நிகழ்ச்சியில் பேசிக் கொண்டிருந்தபோது சுட்டுக் கொல்லப்பட்டார்.
+Charlie Kirk, a US right -wing activist and an ardent supporter of US President Donald Trump, was shot dead while speaking at an event at Utta University.
 
-இந்தச் சம்பவத்தை அமெரிக்க ஜனாதிபதி டிரம்ப் தன்னுடைய ட்ரூத் சோஷியல் பக்கத்தில் உறுதிபடுத்தியுள்ளார்.
+US President Trump has confirmed the incident on his Truth Social Post.
 
-31 வயதான சார்லி கிர்க், காயங்களுடன் மருத்துவமனைக்கு கொண்டு செல்லப்பட்டார். அங்கு அவருக்கு அறுவைச் சிகிச்சை செய்யப்பட்டது. இருப்பினும், சிகிச்சை பலனின்றி கிர்க் பலியானார்.
+31 -year -old Charlie Kirk, taken to the hospital with injuries. Where he had surgery. However, Kirk fell victim to treatment.
 
-சமீபகாலமாகவே அமெரிக்காவில் தொடர்ந்து வன்முறை அதிகரித்து வரும் நிலையில், ‘டர்னிங் பாயிண்ட் யுஎஸ்ஏ’ என்ற இளைஞர் அமைப்பின் இணை நிறுவனர் மற்றும் தலைமை நிர்வாக அதிகாரியான சார்லி கிர்க் சுட்டுக் கொல்லப்பட்ட சம்பவம் மேலும் பரபரப்பை ஏற்படுத்தியுள்ளது
+The incident of the shooting of Charlie Kirk Kirk, a co -founder and chief executive officer of the Turning Point USA, has been shot dead in the United States, as the United States continues to rise in the United States.
 
 ◼️
 
 [Data](articles/c7654486.json)
+
+[Extended Data](ext_articles/c7654486.ext.json)
 
 ---
 
@@ -102,6 +144,8 @@ But shares in Musk’s most valuable business, Tesla, have fallen this year.
 
 [Data](articles/abb5e600.json)
 
+[Extended Data](ext_articles/abb5e600.ext.json)
+
 ---
 
 ### Fire at Sapugaskanda Oil Refinery contained
@@ -122,6 +166,8 @@ A local investigation is scheduled to take place today (11) to determine the cau
 
 [Data](articles/7f3ce93d.json)
 
+[Extended Data](ext_articles/7f3ce93d.ext.json)
+
 ---
 
 ### Sri Lanka banks reduce Treasury bill holdings as private credit picks up
@@ -134,7 +180,7 @@ Bank holdings of bills peaked in February 2025 at 2,825 billion rupees and has f
 
 Sri Lanka’s bill auctions have failed to be fully subscribed in recent weeks at the cut off rates offered by the debt office, with no takers last week for additional bills offered on tap.
 
-Sri Lanka’s bill yields have remained fixed in recent weeks, which analysts have dubbed the ‘ramrod rate anomaly’ in the past.  In the past the ‘ramrod rate anomaly’ has been enforced through printing money.
+Sri Lanka’s bill yields have remained fixed in recent weeks, which analysts have dubbed the ‘ramrod rate anomaly’ in the past. In the past the ‘ramrod rate anomaly’ has been enforced through printing money.
 
 However, banks are still buying bonds which are offered at higher rates.
 
@@ -222,6 +268,26 @@ In a separate case, another individual has been arrested by officers of the Poli
 
 [Data](articles/0be6bdea.json)
 
+[Extended Data](ext_articles/0be6bdea.ext.json)
+
+---
+
+### Three LTTE bus collision with Balangoda
+
+*2025-09-11 07:38:53* · [`adalk`](https://www.ada.lk/picture_story/බලන්ගොඩ-ඇල්ලෙපොලදී-බස්-රථ-3ක්-එකට-ගැටේ/10-418423) · `si`
+
+Three buses crashed at the Baththelpola area in Balangoda today (11). The accident had occurred between.
+
+The SLTB bus and the private bus carrying the SLTB to Colombo and the private bus, which was driven from Balangoda to Colombo and the private bus and the private bus.
+
+The statisters acted in ambulance driving to the hospital and several other passengers to the hospital. Badulla-Colombo main road in Badulla was completely blocked. Opanayaka police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/1a97b78d.json)
+
+[Extended Data](ext_articles/1a97b78d.ext.json)
+
 ---
 
 ### Two suspects arrested
@@ -270,6 +336,8 @@ Furthermore, political sources suggest that former Presidents Maithripala Sirise
 
 [Data](articles/f0ebc10f.json)
 
+[Extended Data](ext_articles/f0ebc10f.ext.json)
+
 ---
 
 ### According to the Act, three former presidents lose their official homes - to go to Mahinda
@@ -317,6 +385,8 @@ Meanwhile, the total number of casualties from the Gen Z-led protests in Nepal h
 ...
 
 [Data](articles/4a4aa983.json)
+
+[Extended Data](ext_articles/4a4aa983.ext.json)
 
 ---
 
@@ -379,6 +449,8 @@ The suspect responsible for the accident has not yet been identified, while the 
 ◼️
 
 [Data](articles/1656a336.json)
+
+[Extended Data](ext_articles/1656a336.ext.json)
 
 ---
 
@@ -496,6 +568,8 @@ Meanwhile, the government is also scheduled to present a supplementary estimate 
 
 [Data](articles/34f6e7ce.json)
 
+[Extended Data](ext_articles/34f6e7ce.ext.json)
+
 ---
 
 ### Charlie Kirk: Donald Trump ally shot dead at campus event in Utah
@@ -513,6 +587,8 @@ The suspected shooter has not been arrested, Orem, Utah, Mayor David Young said.
 ...
 
 [Data](articles/e3585beb.json)
+
+[Extended Data](ext_articles/e3585beb.ext.json)
 
 ---
 
@@ -547,6 +623,8 @@ Meanwhile, the general public has also requested to take adequate precautions to
 ◼️
 
 [Data](articles/e7b1e0d2.json)
+
+[Extended Data](ext_articles/e7b1e0d2.ext.json)
 
 ---
 
@@ -1109,6 +1187,28 @@ Both indices moved upwards. The All Share Price Index went up by 96.2 points, wh
 [Data](articles/055ac844.json)
 
 [Extended Data](ext_articles/055ac844.ext.json)
+
+---
+
+### The site is open to apply for Israeli jobs
+
+*2025-09-10 23:13:36* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-සඳහා-අයදුම්කිරීමට-වෙබ්-අඩවිය-විවෘතයි/11-418420) · `si`
+
+The Sri Lanka Foreign Employment Bureau says that under the forthcoming scheme of the Endary Reforms sub-sector in the construction industry.
+
+Accordingly, the Bureau can register with the website www.slbfe.lk www.slbfe.lk and the web bulletin has been opened until 24.09.2012.
+
+Accordingly, the number of jobs to be reformed (electricity mounting, wall bound, bot,, are cuppieces, crates, crates). 1500 applicants are to be recruited. People who choose these jobs receive a 63-month contract period.
+
+Among the age of 25-45, the people who have been able to serve in the Israeli state, have been able to apply for a talent and experience for the job group they choose.
+
+After a preliminary investigation, the applicants of applicants are conducted in the District Centers under the NAITA (NAITA) under the NAITA.. Candidates who pass the founders of the Katubedda National Apprentice and Technical Training Authority will be referred to the inclusion of the applicants list to Israel in Israel.
+
+...
+
+[Data](articles/b987f788.json)
+
+[Extended Data](ext_articles/b987f788.ext.json)
 
 ---
 
@@ -1885,87 +1985,5 @@ He bought the Rand for 16.5 million. This is the highest value of the SA20 in hi
 [Data](articles/dc5ec659.json)
 
 [Extended Data](ext_articles/dc5ec659.ext.json)
-
----
-
-### Nepal Protests: Kathmandu Airport reopens for civilian flights
-
-*2025-09-10 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112366/nepal-protests-kathmandu-airport-reopens-for-civilian-flights) · `en`
-
-The Civil Aviation Authority of Nepal has announced that Kathmandu’s Tribhuvan International Airport, Nepal’s main gateway, has reopened.
-
-Domestic and international flights, suspended since Tuesday, “will resume today,” the authority said in a statement, without elaborating.
-
-The shutdown had left hundreds of international tourists, including Indians, stranded amid the deadly unrest.
-
-Meanwhile, SriLankan Airlines informed Ada Derana that it will resume flights to Nepal from tomorrow (11).
-
-The situation in Nepal remained relatively calm on Wednesday, following two days of youth-led “Gen Z” protests that turned violent after a security crackdown left at least 19 demonstrators — mostly students — dead.
-
-With Prime Minister KP Sharma Oli and his cabinet having resigned, and as law enforcement struggled to maintain control, the Nepal Army took charge of security on Tuesday night.
-
-...
-
-[Data](articles/7e7b80fe.json)
-
-[Extended Data](ext_articles/7e7b80fe.ext.json)
-
----
-
-### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
-
-*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-nilanga-dela) · `en`
-
-The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
-
-This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
-
-The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
-
-During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
-
-The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
-
-◼️
-
-[Data](articles/c3f9f2f3.json)
-
-[Extended Data](ext_articles/c3f9f2f3.ext.json)
-
----
-
-### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
-
-*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-dela) · `en`
-
-The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
-
-This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
-
-The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
-
-During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
-
-The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
-
-◼️
-
-[Data](articles/de557286.json)
-
-[Extended Data](ext_articles/de557286.ext.json)
-
----
-
-### Historic Garbage
-
-*2025-09-10 17:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வரலாற்று-குப்பை-தொட்டியில்-ஒலி/62-364366) · `ta`
-
-Nepal Prime Minister Sharma Sound resigned from his post. In this case, the former President of Sri Lanka Gotabhaya Rajapakse and the former Prime Minister of Bangladesh Sheikh Hasina are lying in the historic garbage bin.
-
-◼️
-
-[Data](articles/828c8a98.json)
-
-[Extended Data](ext_articles/828c8a98.ext.json)
 
 ---

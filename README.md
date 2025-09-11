@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 12:13:30**
+As of **2025-09-11 12:55:43**
 
 ## Newspaper Stats
 
-*Scraped **75,366** Articles*
+*Scraped **75,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,81 +16,151 @@ economynextcom | 4,567
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,305
+adalk | 7,306
 adaderanalk | 9,671
-tamilmirrorlk | 11,263
+tamilmirrorlk | 11,265
 virakesarilk | 12,287
-adaderanasinhalalk | 13,125
+adaderanasinhalalk | 13,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,040 (89.0%) of 75,366 articles have been extended.
+67,089 (89.0%) of 75,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### பத்மேவுடன் தொடர்புடைய SI  கைது
+### யார் இந்த சார்லி கிர்க்?
+
+*2025-09-11 12:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/யார்-இந்த-சார்லி-கிர்க்/50-364421) · `ta`
+
+அமெரிக்காவின் உடா பல்கலைக்கழகத்தில் நடந்த மாணவர்களுடனான கேள்வி பதில் நிகழ்ச்சியில் பங்கேற்றிருந்த சார்லி கிர்க் என்ற வலதுசாரி ஆதரவாளர், வர்ணனையாளர், ‘டர்னிங் பாயின்ட் யுஎஸ்ஏ’ நிறுவனத்தின் இணை நிறுவனர், அனைத்துக்கும் மேலாக ட்ரம்ப்பின் ஆதரவாளர் சுட்டுக் கொல்லப்பட்டார்.
+
+அவர் படுகொலை செய்யப்பட்ட நிகழ்வு அடங்கிய வீடியோக் காட்சிகள் இணையத்தில் வைரலாகி வருகின்றன. சார்லி கிர்க் கொலைக்கு ஆளும் கட்சியும், எதிர்க்கட்சியும் கடும் கண்டனங்களை தெரிவித்துள்ளன. அமெரிக்க ஜனாதிபதி ட்ரம்ப் இந்தச் சம்பவத்தை வன்மையாகக் கண்டித்ததோடு, தனது ஆதரவாளரின் மரணத்தால் கடும் துன்பமடைந்துள்ளதாகத் தெரிவித்துள்ளார்.
+
+முன்னதாக, நிகழ்ச்சியில் சுடப்பட்ட சார்லி கிர்க் உடனடியாக ஆம்புலன்ஸ் வாகனத்தின் மூலம் மருத்துவமனைக்குக் கொண்டு செல்லப்பட்டதாகவும், ஆனால் அவர் ஏற்கெனவே இறந்துவிட்டதாக மருத்துவர்கள் கூறியதாகவும் தெரிகிறது.
+
+...
+
+[Data](articles/09e78384.json)
+
+---
+
+### Politicians and foreign representatives who met Mahinda
+
+*2025-09-11 12:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-அரசியல்வாதிகள்-வெளிநாட்டு-பிரதிநிதிகள்-குழு/175-364418) · `ta`
+
+Former President Mahinda Rajapaksa has reportedly vacated his official residence in Wijerama Road, Colombo today.
+
+Under the rules of the President's Rights Act, the residents allocated to the former presidents must be returned to the government.
+
+Following the Bill passed in Parliament yesterday (10), Rajapakse, who lives in official settlements, lost this right.
+
+◼️
+
+[Data](articles/db251d1b.json)
+
+[Extended Data](ext_articles/db251d1b.ext.json)
+
+---
+
+### Notice notice to several government parties including ministers
+
+*2025-09-11 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214437) · `si`
+
+The Appeal the Land Minister and the Minister of Lands issued to a number of people including the Minister of Environment on November 28.
+
+The petition was called before the Court of Appeal of Dhammika Ganepola and Alida Panepola and Adeddi Patithpola.
+
+Attorney-at-Law Ravindranan Dabare, who appeared in behalf of the petitioner, has said that a national plan in land management in the country has been implemented in the country.
+
+The lawyer has pointed out that as well as many other crises, as well as their limitations should be identified as well as the land, as well as their limitations for agricultural activities, forests, marsh and settlements in Sri Lanka have emerged properly.
+
+Therefore, the lawyer has pointed out that it is unable to benefit from the land of this country.
+
+The lawyer has pointed out that it is essential to achieve the most important activities of the land in Sri Lanka, a island state.
+
+...
+
+[Data](articles/b9cd4b8a.json)
+
+[Extended Data](ext_articles/b9cd4b8a.ext.json)
+
+---
+
+### SI arrested in connection with Padme
 
 *2025-09-11 11:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பத்மேவுடன்-தொடர்புடைய-SI-கைது/175-364416) · `ta`
 
-பாதாள உலகக் குழுத் தலைவர் கெஹல்பத்தர பத்மேவுடன் தொடர்பு வைத்திருந்ததாகக் கூறப்படும் குற்றச்சாட்டில் கம்பஹா குற்றப் புலனாய்வுப் பிரிவில் பணியாற்றிய துணைப் ஆய்வாளர் ஒருவர் (Sub-Inspector ) சிஐடியினரால் கைது செய்யப்பட்டுள்ளார்.
+A Sub-Inspector has been arrested by the CITar on charges of allegedly involved in the alleged involvement with the Underworld Group Chairman Kehelpathara Padme.
 
-இந்தோனேசியாவிலிருந்து சமீபத்தில் நாடு கடத்தப்பட்ட பத்மேவுடன் அந்த அதிகாரி நெருங்கிய தொடர்புகளைப் பேணி வந்ததாகக் கூறப்படும் விசாரணைகள் வெளிப்படுத்தின.
+Investigations revealed that the officer had maintained close contact with Padme, who was recently deported from Indonesia.
 
 ◼️
 
 [Data](articles/432e125b.json)
 
+[Extended Data](ext_articles/432e125b.ext.json)
+
 ---
 
-### පද්මේ සමඟ සබඳතා පැවැත්වූ උප පොලිස් පරීක්ෂකවරයෙක් අත්අඩංගුවට
+### A sub-inspector who had ties with Padkere
 
 *2025-09-11 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214436) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ සමග සමීප සබඳතා පැවැත්වීමේ චෝදනා මත උප පොලිස් පරීක්ෂකවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A sub-inspector has been arrested on charges of organizing criminal gang member Kehelbadara Padma.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්. යු. වුට්ලර් මහතා පැවසුවේය.
+Police Media Spokesperson ASP. !. Mr. Woatler said.
 
-‍අදාළ උප පොලිස් පොලිස් පරීක්ෂකවරයා ගම්පහ කොට්ඨාශ අපරාධ විමර්ශන අංශයට අනුයුක්තව සේවය කරන අයෙකු බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+The Police Media Spokesperson stated that the sub-police Inspector is attached to the Gampaha Divisional Criminal Investigation Division.
 
-ඉන්දුනීසියාවේ දී අත්අඩංගුවට ගනු ලැබු කෙහෙල්බද්දර පද්මේ ඇතුළු  අපරාධ කල්ලි සාමාජිකයින් පස් දෙනෙකු පසුගියදා දිවයිනට රැගෙන ඒමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මේ වන විට ඔවුන් රඳවාගෙන ප්‍රශ්න කිරීම් සිදුකරනු ලබයි.
+Five criminal group members, including Kehelbadara Padma arrested in Indonesia, was recently brought to the island recently.
 
-එලෙස සිදුකළ ප්‍රශ්න කිරීම්වලදී හෙළි වු තොරතුරු මත මෙම සැකකාර උප පොලිස් පරීක්ෂකවරයා අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+The suspect sub-inspector has been arrested on information revealed.
 
 ◼️
 
 [Data](articles/22c52bc3.json)
 
+[Extended Data](ext_articles/22c52bc3.ext.json)
+
 ---
 
-### குருக்கள் மனிதப் புதைகுழிக்கு நீதிபதி விஜயம்
+### Judge visited the human burial ground
 
 *2025-09-11 11:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மனிதப்-புதைகுழிக்கு-நீதிபதி-விஜயம்/175-364415) · `ta`
 
-குருக்கள் மடத்தில் உள்ள மனிதப் புதைகுழி அமைந்துள்ள இடத்தை நேரில் சென்று நீதிபதி உள்ளிட்ட உயர் அதிகாரிகள் பார்வையிட்டனர்.
+Top officials, including the judge, visited the site where the priests were located in the monastery.
 
-1990 ஆம் ஆண்டில் புனித ஹஜ் யாத்திரை முடித்த பின்னர் கல்முனை வழியாக காத்தான்குடிக்கு பயணம் செய்த முஸ்லிம்கள், ஆயுததாரிகளால் இடைமறிக்க பட்டு குருக்கள் மடத்தில் கொலை செய்யப்பட்ட சம்பவத்திற்கு தொடர்புடைய வழக்கு விசாரணை களுவாஞ்சிக்குடி நீதவான் நீதிமன்றத்தில் வியாழக்கிழமை(11)  விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டது.
+The case was taken up at the Kaluwanchikudi Magistrate's Court on Thursday (11) for the murder of Muslims and armed priests who traveled to Kattankudi via Kalmunai after completing the holy Hajj pilgrimage in 1990.
 
-இதன்போது உரிய நபர்களின் உடல்கள் புதைக்கப்பட்டுள்ளதாக கருதப்பட்டு அடையாளப்படுத்தப்பட்டுள்ள இடத்தை    நீதிபதி ஜே.பீ.ஏ.ரஞ்சித்குமார் முன்னிலையில் தொல்பொருள் திணைக்களத்தினர், சட்டத்தரணிகள், மண்முனை தென் எருவில் பற்று பிரதேச செயலாளர், பிரதேச சபைத் தவிசாளர், பொலிஸார், காணாமல் ஆக்கப்பட்ட அலுவலக  அதிகாரிகள், சட்ட வைத்திய நிபுணர்கள், தடயவியல் பொலிஸார், உதவிப் பொலிஸ் அத்தியட்சகர், உள்ளிட்ட பலரும் பார்வையிட்டனர்.
+In the presence of Justice JPA Ranjit Kumar, the bodies of the relevant persons were buried and identified, the Divisional Secretary, the Divisional Council of the Manmunai South Eruvil, the Divisional Council, the Police, the Disappeared Office, the Assistant Officers, the Forensic Police, the Forensic Police, and many others.
 
-...
+The Kaluwanchikudi Magistrate's Court has already ordered the excavation of human remains buried at the scene.
+
+The court has already ordered the police to set up a security zone for the police.
+
+◼️
 
 [Data](articles/59dba288.json)
 
+[Extended Data](ext_articles/59dba288.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුව උණුසුම්
+### Parliament is hot
 
 *2025-09-11 11:36:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-උණුසුම්/11-418426) · `si`
 
-ආණ්ඩු පක්ෂය හා විපක්ෂය අතර ඇති වූ වචන හුව  මාරුවක් නිසා පාර්ලිමේන්තුවේ  උණුසුම් තත්ත්වයක් ඇති විය.
+There was a warm quality of Parliament as a result of the government and the opposition.
 
 ◼️
 
 [Data](articles/96cf026e.json)
+
+[Extended Data](ext_articles/96cf026e.ext.json)
 
 ---
 
@@ -379,6 +449,8 @@ The European Union’s Deforestation Regulation (EUDR) takes effect on 30 Decemb
 ...
 
 [Data](articles/877b560f.json)
+
+[Extended Data](ext_articles/877b560f.ext.json)
 
 ---
 
@@ -739,6 +811,8 @@ The Colombo Stocks Exchange was trading in green; The ASPI was down 0.55 percent
 ◼️
 
 [Data](articles/2feca5c8.json)
+
+[Extended Data](ext_articles/2feca5c8.ext.json)
 
 ---
 
@@ -1180,21 +1254,25 @@ The statisters acted in ambulance driving to the hospital and several other pass
 
 ---
 
-### වෙඩි තැබීම් දෙකකට සම්බන්ධ දෙදෙනෙක් අල්ලයි
+### Two arrested for shootings
 
 *2025-09-11 07:30:36* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීම්-දෙකකට-සම්බන්ධ-දෙදෙනෙක්-අල්ලයි/11-418422) · `si`
 
-2025.08.24 වන දින බොරලැස්ගමුව පොලිස් වසමේ මාලනී බුලත්සිංහල මාවතේදී ත්‍රිරෝද රථයකින් පැමිණි නාඳුනන පුද්ගලයෙකු විසින් පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ අපරාධය සම්බන්ධයෙන්  බස්නාහිර පළාත දකුණ දිසා අපරාධ කොට්ඨාසය මඟින් විමර්ශන ආරම්භ කර තිබුණි.
+Investigations have commenced investigations by an unidentified person in Borathgamuwa Police, Marin Bulathsinhala Mawatha, Boralsgamuwa Police.
 
-ඒ අනුව 2025.09.10 වන දින උදෑසන කාලයේ එම කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් දෙහිවල පොලිස් වසමේ අත්තිඩිය ප්‍රදේශයේදී මෙම අපරාධය සිදු කිරීම සඳහා පැමිණි ත්‍රිරෝද රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
+Accordingly, the driver of the three-wheeler in the Dehiwala area was arrested by a group of officers of the same Division in the morning of the morning of 2025 on 10.09.10.
 
-සැකකරු වයස අවුරුදු 22 ක් වන ගල්කිස්ස ප්‍රදේශයේ පදිංචිකරුවෙකි. බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය  වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+The suspect is a 22 year old resident of Mount Lavinia. The Western Province South Criminal Division is conducting further investigations.
 
-මේ අතර 2025.09.10 වන දින දහවල් කාලයේ රාගම පොලිස් වසමේ ලින්ටන් ක්‍රිඩාංගණය අසලදී පොලිස් විශේෂ කාර්ය බලකා බුද්ධි කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් වැටලීමක් සිදු කර 2025.08.22 වන දින බොරැල්ල පොලිස් වසමේ සීවලීපුර ප්‍රදේශයේ සිදු වූ වෙඩි තැබීමට අධාර අනුබල දුන් සැකකරුවෙකු අත්අඩංගුවට ගෙන රාගම පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
+Meanwhile, a team of officers of the Police Special Task Force has been arrested by the Special Task Force in the Borella Police Division on 22.08.2012 at the Borella Police Division.
 
-...
+The suspect is 17 year old resident of Buthpitiya. The suspect has been revealed at the current investigation into an organized crime and drug dealer. The Ragama Police are conducting further investigations.
+
+◼️
 
 [Data](articles/4d0919d1.json)
+
+[Extended Data](ext_articles/4d0919d1.ext.json)
 
 ---
 
@@ -1931,81 +2009,5 @@ I can mention that Rohana Wijeweera is not terrorist. Can raise the hands. The T
 [Data](articles/ae1a0792.json)
 
 [Extended Data](ext_articles/ae1a0792.ext.json)
-
----
-
-### Attack of politicians in Nepal
-
-*2025-09-11 02:18:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-அரசியல்வாதிகளை-குறிவைத்து-தாக்குதல்/50-364388) · `ta`
-
-In the wake of a riot that erupted against the government in the country, the government has been targeted by the government.
-
-The Sri Lankan government, which is known as the Land of the Singh Paradise in Kath Manu, has caused the fire of the youth of the youth. All the expensive items and documents were destroyed.
-
-In Nepal's Peace Flood, curfew data in different cities. The police and the military day are working in the eye of the eye and the eyebrows.
-
-The landlord of the country has been announced to be closed until the situation of the Kath Mandu Sir Va.
-
-Youths in Nepal have been attacked by the President, Prime Minister and Ministers. Prime Minister Sharma Sound has taken up his post in the Heli Cobb Trear for the Military Conflict.
-
-Former Prime Minister Prasan Da, Sher Bahadur Dev Ba, Sala Nath Khanal, Ministers and Senior Queen's Heads. Sher Bahadur Devba and his wife Kayang Kalu Tun Dab Pinar. Rajalat Sumi, wife of Prime Minister Sala Natkanal, burned alive. (A)
-
-◼️
-
-[Data](articles/556c5c39.json)
-
-[Extended Data](ext_articles/556c5c39.ext.json)
-
----
-
-### 14 Days for Namal Rajapaksa; Sunil Watakala
-
-*2025-09-11 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224762) · `ta`
-
-Parliamentarian Namal Rajapaksa should file a case against me within 14 days. Otherwise, I will file a lawsuit against him according to the law.. Deputy Minister of Public Security and Parliamentary Affairs Sunil Vatagala said that if the case is filed, Namal Rajapaksa will ask for a cross -question, including law college, Tajuddin, Lasantha, Hegnelikoda, Julampitiya Amare.
-
-He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
-
-Member of Sri Lanka PA. Sanaka said to the council that his national organizer Namal Rajapaksa had sent me a question deed. If you go to social media, the question bond is exchanged.
-
-Namal Rajapaksa is reportedly filed against me. He is not aware of the nature of the mannast case because he is not trained in court. The defendant can ask any questions to the complainant during the Mannastha case.
-
-...
-
-[Data](articles/e45df53c.json)
-
-[Extended Data](ext_articles/e45df53c.ext.json)
-
----
-
-### 2025-09-10 (Wednesday)
-
-### Asian Bowl Cricket: The Indian team is easy to win against UAE
-
-*2025-09-10 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224761) · `ta`
-
-In the Asia Cup T20 cricket match on Wednesday (10), the Indian team won by 9 wickets against the UAE (UAE).
-
-With this victory, India topped the list of points in the group 'A' category.
-
-The United Arab Emirates scored only 57 runs in 13.1 overs.
-
-Kuldeep Yadav took 4 wickets in 2.1 overs and took 4 wickets.
-
-Also, Shivam Dubey took 3 wickets, while he gave up only 4 runs in 2 overs.
-
-Alishan Sharaf (22) and Captain Mohammed Wasim (19) scored 26 runs for the first wicket, but after the coalition collapsed, all the remaining wickets fell to 31 runs.
-
-Accordingly, the Indian team, who chased an easy target of 58 runs, lost the target by losing only one wicket in the 5th (4.3) over of the match.
-
-Abhishek Sharma, a team of India's opening pair, scored 30 runs off 16 balls. That includes 3 sixes and 2 fours.
-
-In addition, Shubman Kill faced only 9 balls and scored 20 runs. There was a six and two fours in the Gill's innings.
-
-◼️
-
-[Data](articles/45f64330.json)
-
-[Extended Data](ext_articles/45f64330.ext.json)
 
 ---

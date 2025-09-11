@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 17:20:27**
+As of **2025-09-11 17:05:43**
 
 ## Newspaper Stats
 
@@ -26,61 +26,55 @@ adaderanasinhalalk | 13,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,365 (89.3%) of 75,417 articles have been extended.
+67,350 (89.3%) of 75,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### Bail for both UDA top officials
+### UDA உயர் அதிகாரிகள்  இருவருக்கும் பிணை
 
 *2025-09-11 16:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UDA-உயர்-அதிகாரிகள்-இருவருக்கும்-பிணை/175-364436) · `ta`
 
-Colombo Chief Magistrate Asanga Asanga Asanga Asanga Asanga has released the two suspects, former Land Director General of Urban Development Authority (STF), Sampath Sumedha Poojitha Ratnayake and former Land Director Weerawansa Perera, who was arrested for allegedly causing a loss of over Rs 29.5 million for the government.. Podarakama ordered on Thursday (11).
+அரசாங்கத்திற்கு 29.5 மில்லியன் ரூபாவிற்கு மேல் நஷ்டத்தை ஏற்படுத்தியதாக கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட நகர அபிவிருத்தி அதிகாரசபையின் முன்னாள் காணி பணிப்பாளர் நாயகம் சம்பத் சுமேத பூஜித ரத்நாயக்க மற்றும் முன்னாள் காணி பணிப்பாளர் வீரவன்ச பெரேரா ஆகிய இரு சந்தேக நபர்களையும் பிணையில் விடுவிக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம வியாழக்கிழமை (11) உத்தரவிட்டார்.
 
-The magistrate imposed a cash bail of Rs 100,000 and Rs 2.5 million each and banned the suspects from going abroad.
+தலா 100,000 ரூபாய் ரொக்கப் பிணையையும் தலா 2.5 மில்லியன் ரூபாய் தனிப்பட்ட பிணையையும் விதித்த நீதவான், சந்தேக நபர்கள் வெளிநாடு செல்வதற்கு தடை விதித்தார்.
 
-In 2016, Colombo, Colombo 05, belonging to the Urban Development Authority (Colombo), the City Development Authority (CBI) has issued a suspects for bribery or corruption for the loss of 29,519,666.16 rupees for the City Development Authority.
+2016 ஆம் ஆண்டு நகர அபிவிருத்தி அதிகாரசபைக்குச் சொந்தமான கொழும்பு 05, மயூர வெதவாசவில் அமைந்துள்ள 55.5 பேர்ச்சர்ஸ் நிலத்தை தற்காலிக குத்தகை அடிப்படையில் வழங்கி ஊழல் குற்றங்களைச் செய்ததற்காகவும், நகர அபிவிருத்தி அதிகாரசபைக்கு 29,519,666.16 ரூபாயை இழந்ததற்காகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு சந்தேக நபர்களை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்தியது.
 
 ◼️
 
 [Data](articles/c9a52916.json)
 
-[Extended Data](ext_articles/c9a52916.ext.json)
-
 ---
 
-### Floods in Indonesia
+### ඉන්දුනීසියාවේ ගංවතුරින්  මියගිය ගණන ඉහළට
 
 *2025-09-11 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214447) · `si`
 
-The floods affected by the Bali Islands in Indonesia have risen to 14 people.
+ඉන්දුනීසියාවේ බාලි දූපත්වලට බලපා ඇති ගංවතුර ආපදා තත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 14 දෙනෙකු දක්වා ඉහළ ගොස් තිබේ.
 
-Foreign media reports say that two disadvantaged persons will be recovered further to find out.
+ආපදා තත්වය හේතුවෙන් අතුරුදන් වූ පුද්ගලයින් දෙදෙනෙකු සොයා තවදුරටත් මෙහෙයුම් සිදුකරන බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
 
-The rain drawn to Bali islands has been reduced and the floods have been reduced by now.
+බාලි දූපත්වලට ඇදහැලෙන වර්ෂාව මේ වන විට අඩු වී ඇති අතර පැවති ගංවතුර තත්වය ද මේ වන විට ක්‍රමයෙන් අඩුවෙමින් පවතින බව වාර්තා වේ.
 
-However, foreign media reports that more than 500 people have been referred to safe locations due to floods.
+කෙසේ වෙතත් විදෙස් මාධ්‍ය වාර්තා කළේ ගංවතුර හේතුවෙන් පුද්ගලයින් 500කට අධික පිරිසක් ආරක්ෂිත ස්ථාන කරා යොමුකර ඇති බවය.
 
 ◼️
 
 [Data](articles/0d7ffac5.json)
 
-[Extended Data](ext_articles/0d7ffac5.ext.json)
-
 ---
 
-### Sichi, who departed before Mahinda
+### மஹிந்தவுக்கு முன்னரே புறப்பட்ட   ’சிச்சி’
 
 *2025-09-11 16:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-முன்னரே-புறப்பட்ட-சிச்சி/175-364435) · `ta`
 
-Rohitha Rajapakse, the youngest son of former President Mahinda Rajapaksa, called 'Sichi', left the official residence of the former president on Wijerama Road, Colombo a moment before the former president vacated.
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இளைய மகன், 'சிச்சி' என்று அழைக்கப்படும் ரோஹித ராஜபக்ஷ, இன்று (11) பிற்பகல், முன்னாள் ஜனாதிபதி வீட்டை காலி செய்வதற்கு ஒரு கணம் முன்பு, கொழும்பு விஜேராம வீதியில் உள்ள முன்னாள் ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேறினார்.
 
 ◼️
 
 [Data](articles/f724ba93.json)
-
-[Extended Data](ext_articles/f724ba93.ext.json)
 
 ---
 
@@ -100,23 +94,17 @@ According to the former President's Removal Removal Act, former President Mahind
 
 ---
 
-### Nepali youth destroyed the country without her
+### අගක් මුලක් නොදැන නේපාල තරුණයින් රට විනාශ කළා
 
 *2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
 
-Nepal today issues a lesson that the social media should be used to do good and that the country has been destroyed by the country.
+සමාජ මාධ්‍ය යහපත් දේට යොදාගත යුතු බවට නේපාලයට අද වන විට පාඩමක් කියාදී තිබෙනන බවත් එහි තරුණ පිරිස තම රට ගැන අගක් මුලක් මෙන්ම ඉතිහාසයක් නොදැන එම රට විනාශයට පත් කොට ඇති බව මහා විහාර වංශික ස්‍යාමෝපාලි මහානිකායේ අස්ගිරි පාර්ශවයේ අනූනායක පූජ්‍ය වේඩරුවේ උපාලි නාහිමියන් මාධ්‍ය නිවේදනයක් නිකුත් කරමින් කියා සිටී.
 
-We were very shocked by the most sad events in Nepal. The series of sang events that have created such a tremendous rebellion in the land of the Buddha cannot be granted.
-
-It is evident that some conspiracy to evolve South Asian countries is acting. Especially seems to be seen by the countries in the past, the lack of efforts of Buddhist countries as well as Buddhist inheritance in the past.. Clearly, the young people have a sense of their country, saying that the youth is addicted to the use of social media and to prohibit the history of the country.
-
-Clearly, the youth who were taking the lead in the vicinity of Nepal would be clear that they would not destroy their country in this way.. Today, many people believe that the hatred of sowing the hatred of the soil sowing hatred is that the hatred of sowing.
+නේපාලයේ ඇතිවූ අතිශය කණගාටුදායක සිදුවීම් මාලාව පිළිබඳව අප මහත්සේ කම්පනයට පත් වූවා. අප බුදුපියාණන් වහන්සේ උපන් දේශයේ මෙවැනි ශෝචනීය දරුණු කැරැල්ලක් නිර්මාණය වී ඇති වූ සංවේග ජනක සිදුවීම් මාලාව කිසිසේත් සුළු කොට තැකිය නොහැකියි.
 
 ...
 
 [Data](articles/7c573b26.json)
-
-[Extended Data](ext_articles/7c573b26.ext.json)
 
 ---
 

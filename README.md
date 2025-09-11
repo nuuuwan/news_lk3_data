@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 21:20:28**
+As of **2025-09-11 20:57:29**
 
 ## Newspaper Stats
 
-*Scraped **75,450** Articles*
+*Scraped **75,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,21 @@ economynextcom | 4,571
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,322
-adaderanalk | 9,689
+adalk | 7,320
+adaderanalk | 9,687
 tamilmirrorlk | 11,283
 virakesarilk | 12,297
-adaderanasinhalalk | 13,140
+adaderanasinhalalk | 13,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,601 (89.6%) of 75,450 articles have been extended.
+67,562 (89.6%) of 75,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### President meets top USTR officials, discuss potential US-SL trade deals
-
-*2025-09-11 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112412/president-meets-top-ustr-officials-discuss-potential-us-sl-trade-deals-) · `en`
-
-United States Ambassador to Sri Lanka, Julie Chung, together with a delegation of senior officials from the Office of the United States Trade Representative (USTR), met with President Anura Kumara Dissanayake at the Presidential Secretariat today (11) for discussions.
-
-The heads of the USTR delegation, who commended the delegation appointed by the Sri Lankan government to negotiate the US tariffs on products imported from Sri Lanka, also praised the progress the country has achieved in its economic recovery, according to the President’s Media Division (PMD).
-
-Attention was also drawn to the assistance extended by the USTR towards Sri Lanka’s economic affairs to date, as well as to potential trade agreements expected to be developed between the two countries in the future.
-
-The President, noting that Sri Lanka is a small economy in recovery, emphasised that even minor external shocks could have a considerable impact on the nation, the PMD said.
-
-...
-
-[Data](articles/914b8c44.json)
-
-[Extended Data](ext_articles/914b8c44.ext.json)
-
----
 
 ### Circumcision regarding permitting students
 
@@ -69,28 +49,6 @@ All applicants who are expected to apply for the vacancies are asked to complete
 [Data](articles/b233a6c5.json)
 
 [Extended Data](ext_articles/b233a6c5.ext.json)
-
----
-
-### මහින්ද විජේරාමයේ නිල නිවසට  සමුදීම ගැන නාමල් තැබූ සටහන
-
-*2025-09-11 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214453) · `si`
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට සිය විජේරාමයේ පිහිටි නිල නිවසට සමුදීමට සිදුවීම සම්බන්ධයෙන් ඔහුගේ පුත් පාර්ලිමේන්තු මන්ත්‍රී නාමල් ‍රාජපක්ෂ මහතා 'X' ගිණුමෙහි සටහනක් තබා තිබේ.
-
-එහිදී ඔහු සඳහන් කර ඇත්තේ, සියල්ල ආරම්භ වූ ස්ථානයට සිය පියා නැවත පැමිණි බවය.
-
-එමෙන්ම සැබෑ ශක්තිය ලැබෙන්නේ තනතුරු හෝ වරප්‍රසාද මත නොව ජනතාවගේ ආදරයෙන් බවද එහීදී ඔහු සඳහන් කර තිබේ.
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද (11) විජේරාමයේ පිහිටි සිය නිල නිවසින් නික්මගොස් තංගල්ලේ පිහිටි කාල්ටන් නිවසට පැමිණියේය.
-
-ඒ 'ජනාධිපතිවරයන්ගේ හිමිකම් (ඉවත්කිරීමේ) පනතේ' විධිවිධානයන් අනුව හිටපු ජනාධිපතිවරුන් සඳහා ලබා දී ඇති නිල නිවාස ඔවුන්ට යළි රජයට භාරදීමට සිදුවීමත් සමගය.
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද වනතුරු නිල නිවස භාවිත කරනු ලැබූ අතර, ඊයේ (10) දිනයේ සම්මත වූ පනතට අනුව ඔහුට ද එම වරප්‍රසාදය අහිමි වී ගියේය.
-
-◼️
-
-[Data](articles/0a0a38ce.json)
 
 ---
 
@@ -203,28 +161,6 @@ Subsequently, the group debate will be held from November 15 to December 5, and 
 [Data](articles/f5cb5d01.json)
 
 [Extended Data](ext_articles/f5cb5d01.ext.json)
-
----
-
-### 2026 Budget Speech on November 7
-
-*2025-09-11 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112411/2026-budget-speech-on-november-7) · `en`
-
-The Secretary General of Parliament, Kushani Rohanadeera, stated that the second reading of the Appropriation Bill (also known as the Budget Speech) for the year 2026 will be held on 7 November, 2025, followed by the budget debate from 8 November to 5 December, 2025.
-
-This decision was made at today’s (11) meeting of the Committee on Parliamentary Business, chaired by Speaker Dr. Jagath Wickramarathne.
-
-Accordingly, the Secretary General stated that the first reading of the Appropriation Bill will be presented to Parliament on 26 September, 2025.
-
-In his capacity as the Minister of Finance, the President will present the second reading of the Appropriation Bill (the Budget Speech) on 7 November, and it has been decided to allocate six days, from 8 November to 14 November, for the second reading debate.
-
-The vote on the second reading will take place on 14 November at 6:00 PM, the statement said.
-
-...
-
-[Data](articles/d190811f.json)
-
-[Extended Data](ext_articles/d190811f.ext.json)
 
 ---
 
@@ -489,24 +425,6 @@ However, the police suspect that he may have died a few days ago and the Thambut
 [Data](articles/2447bd44.json)
 
 [Extended Data](ext_articles/2447bd44.ext.json)
-
----
-
-### ලැප්ටොප් පරිගණකයක් නොදුන් නිසා විශෙෂඥ වෛද්‍යවරයාගේ පුතා දිවි නසාගෙන
-
-*2025-09-11 16:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ලැප්ටොප්-පරිගණකයක්-නොදුන්-නිසා-විශෙෂඥ-වෛද්‍යවරයාගේ-පුතා-දිවි-නසාගෙන/11-418440) · `si`
-
-ලැප්ටොප් පරිඝනකයක් ගෙනැවිත් නොදුන්නැයි සිත් තැවුලට පත් වයස අවුරුදු 16ක සිසුවෙකු තම නිවසේදී ගෙලවැල ලා සියදිවි හාණිකරගෙන ඇතැයි කුලියාපිටිය ශික්‍ෂණ රෝහල් ආරංචි කියයි.
-
-මෙලෙසින් ජීවිතක්‍ෂයට පත්ව තිබුණේ කුලියාපිටිය කලූගමුව ප‍්‍රදේශයේ පදිංචිව කුලියාපිටිය මධ්‍ය විද්‍යාලයේ 10වැනි ශ්‍රේණියේ ඉගනුම ලබමින් සිටි සනුක රන්දිනු සත්කුමාර ශිෂ්‍යයායි.
-
-අදාළ සිසුවා තමන්ට වෙනමම ලැප්ටොප් පරිඝනකයක් අවශ්‍ය බව පවසා ඇති බවත් එහිදී මව විසින් එය දින කිහිපයක් ප‍්‍රමාද කොට ලබාදෙනබව පවසා ඇති බවත් පවසා ඇති බවට තොරතුරු හෙළිව ඇත.
-
-ඉන් කෝපයට පත්ව ඇති සිසුවා සිය නිවසේදීම ගෙල වැලලාගෙන ඇති අතර කඩිනමින් රෝහල් ගතකිරීමට නිවැසියන් කටයුතු සිදුකොට තිබිණ. කුලියාපිටිය ශික්‍ෂණ රෝහලේ විශේෂඥ වෛද්‍යවරයෙකුගේ පුතෙකදු වූ මියගොස් තිබෙන සිසුවා වහාම දැඩි සත්කාර එ්කකයේ ප‍්‍රථිකාර සඳහා ඇතුළත් කර ඇති අතර එහි ප‍්‍රථිකාර ලබමින් සිටියදී සනුක සිසුවා ඊයේ (10දා) ජීවිතක්‍ෂයට පත්ව ඇති බව රෝහල් ප‍්‍රකාශකයෙකු පැවසීය.
-
-...
-
-[Data](articles/c0b3ed47.json)
 
 ---
 
@@ -1340,24 +1258,6 @@ Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati a
 
 ---
 
-### හන්තානේ ඉඩම් අල්ලාගත් දේශපාලකයින්ට හා ව්‍යාපාරිකයන්ට ඉඩම් අහිමිවන ලකුණු
-
-*2025-09-11 12:46:22* · [`adalk`](https://www.ada.lk/breaking_news/හන්තානේ-ඉඩම්-අල්ලාගත්-දේශපාලකයින්ට-හා-ව්‍යාපාරිකයන්ට-ඉඩම්-අහිමිවන-ලකුණු/11-418429) · `si`
-
-පරිසර අධි සංවේදී කලාපයක් වශයෙන් හඳුනාගෙන ඇති හන්තාන ඉහළ කොටසේ ඉඩම් සම්බන්ධයෙන් ප්‍රශ්න ගැටලු රැසක් මතුව තිබියදී එය රක්ෂිතයක් බවට පත් කිරීමට බලධාරීන්ගේ අවධානය යොමුව තිබේ.
-
-මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමේදී ඒ පිළිබඳව තොරතුරු අනාවරණය වූ අතර එහිදී දිස්ත්‍රික්කයේ ඉඩම් සම්බන්ධ රාජ්‍ය නිලධාරීන් අවධාරණය කොට සිටියේ මහනුවර දිස්ත්‍රික්කය තුළ රක්ෂිත වනාන්තර 14 ක් ගැසට් කිරීමට මේ වන විටත් පියවර ගෙන තිබෙන බවත් පරිසර විනාශයන් සම්බන්ධයෙන් ප්‍රශ්න රැසකට මුහුණ දී තිබෙන හන්තාන පරිසර සංවේදී කලාපයද රක්ෂිතයක් වශයෙන් ගැසට් කිරීම සඳහා අවශ්‍ය මූලික පියවරයන් ගනිමින් සිටින බවයි.
-
-එහි මූලික අධ්‍යයනයන් හමාර වූ පසු එහි මැනුම් කටයුතු සිදුකිරීම ආරම්භ කරන බවද එම නිලධාරීන් දිස්ත්‍රික් සම්බන්ධ කරන කමිටු රැස්වීම හමුවේ අවධාරණය කළේය.
-
-හන්තාන පරිසර සංවේදී කලාපයේ ඉඩම්අත්පත් කර ගැනීම් සම්බන්ධයෙන් දේශපාකයන්ට, ව්‍යාපාරිකයන්ට මෙන්ම කලාකරුවන්ටද විවිධ චෝදනා එල්ල වෙමින් පවතී.
-
-◼️
-
-[Data](articles/9e633314.json)
-
----
-
 ### Maithri left the official residence!
 
 *2025-09-11 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224806) · `ta`
@@ -2079,5 +1979,113 @@ Passengers and schoolchildren who were injured in the accident have been admitte
 [Data](articles/c30920ce.json)
 
 [Extended Data](ext_articles/c30920ce.ext.json)
+
+---
+
+### Tense situation; Postponement for 10 minutes of Parliament Session
+
+*2025-09-11 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224786) · `ta`
+
+Speaker Jagath Wickramaratne has postponed the parliamentary session for 10 minutes following the opposition of the opposition to not allow the debate on the no -confidence motion against Deputy Minister Aruna Jayasekara.
+
+◼️
+
+[Data](articles/cf2a00e7.json)
+
+[Extended Data](ext_articles/cf2a00e7.ext.json)
+
+---
+
+### People's Struggle in France: 250 arrested, 80 thousand policemen
+
+*2025-09-11 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224787) · `ta`
+
+People are protesting against the government led by French President Emmanuel Macron.
+
+On Wednesday (10), people in various cities of the country, including the capital of France, Paris, went down the streets and set fire to vehicles and buildings.
+
+The French government's attempt to carry out the budget of the French government has caused great dissatisfaction with the reduction of public holidays, raising pensions and reducing funds for essential sectors such as education and medicine.
+
+In the last nine months, four prime ministers have changed due to the lack of a majority in Parliament for the Macron Government's 'Rinnesons' party. Recently, Prime Minister Frankoyce Baiur resigned because the budget was unable to implement.
+
+Amidst all these political chaos, Sebastian Legorn has been appointed as the new prime minister. But this, too, has caused a rage among the people.
+
+...
+
+[Data](articles/c2768f39.json)
+
+[Extended Data](ext_articles/c2768f39.ext.json)
+
+---
+
+### 106 judicial officers including Magistrates, District Judge
+
+*2025-09-11 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214432) · `si`
+
+106 judicial service officers including Magistrates, Judges have been transferred.
+
+The relevant transfers have been made to operate from September 15, said the Judicial Service Commission.
+
+The transfers have been made for the Magistrates, Additional Magistrates, District Judges, Additional District Judges and Registrars.
+
+Maligakanda Magistrate Lyrological Abeywickrama Weerawickrama Weerasinghe too, Mahara Magistrate H.J... It is reported that Perera has been transferred to the Maligakanda Magistrate's Court.
+
+Galle Magistrate IN Kumara Gamage has been transferred as the Fort Magistrate and Kurunegala Magistrate N.D.N.Godaratne to be the Gampaha Additional District Judge.
+
+Colombo Additional Magistrate PS Patrika has been transferred as the Colombo Additional Magistrate.
+
+In addition, 17 persons trained at the Judicial Training Institute have been appointed as the Magistrates, Additional District Judges, the Judicial Service Commission.
+
+◼️
+
+[Data](articles/18feee27.json)
+
+[Extended Data](ext_articles/18feee27.ext.json)
+
+---
+
+### People's struggle erupted in France like Nepal: What happened?
+
+*2025-09-11 10:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தை-போன்று-பிரான்சிலும்-மக்கள்-போராட்டம்-வெடித்தது-நடந்தது-என்ன/50-364407) · `ta`
+
+People's struggle has erupted against the austerity measures brought by the government in France.
+
+The struggle has intensified as a continuation of the online campaign with the slogan "Disable everything".
+
+The place of struggle was like a violent domain due to picket on the roads and set fire to public property. The police threw tear gas and chased away the protesters.
+
+French Home Minister Brunei Ridelle said the bus was set on fire in Rennes. Trains are parked in the southwest. Power line is not a way to run because of damaging. Protesters are trying to create a rebellion.
+
+As the struggle intensifies across France, 80,000 policemen have been patrolled by the country. The police have kept barriers in key areas. In spite of this, the struggle has intensified in various places in France.
+
+...
+
+[Data](articles/f8ad6e21.json)
+
+[Extended Data](ext_articles/f8ad6e21.ext.json)
+
+---
+
+### Airline Service to Nepal
+
+*2025-09-11 10:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்திற்கான-விமான-சேவை-ஆரம்பம்/175-364406) · `ta`
+
+Following the reopening of the Kathmandu International Airport by the Civil Air Transport Authority of Nepal, SriLankan Airlines departed from Bandaranaike International Airport (BIA) on Thursday (11) and launched its services again to Nepal.
+
+SriLankan Airlines Communications Officer Deepal Perera said that the services of Nepal were suspended on Wednesday (10) following the closure of the airport due to the ongoing clashes in the country.
+
+BIA officials confirmed that 35 passengers arrived on Wednesday (10) to travel to Kathmandu.
+
+The restaurant is scheduled to leave BIA on Thursday (11) at 8.15 am and land at Kathmandu at 11.41 am.
+
+The flight from Kathmandu is expected to arrive at BIA at 4.40 pm and passengers will be re-transported to Colombo.
+
+SriLankan Airlines is currently the only airline that operates flights between Colombo and Kathmandu. Perera said the service would run four days on Sunday, Monday, Wednesday and Thursday.
+
+◼️
+
+[Data](articles/00348e7c.json)
+
+[Extended Data](ext_articles/00348e7c.ext.json)
 
 ---

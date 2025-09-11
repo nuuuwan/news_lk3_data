@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 23:20:18**
+As of **2025-09-11 22:09:18**
 
 ## Newspaper Stats
 
-*Scraped **75,459** Articles*
+*Scraped **75,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,98 +19,36 @@ dailyftlk | 5,348
 adalk | 7,323
 adaderanalk | 9,689
 tamilmirrorlk | 11,283
-virakesarilk | 12,301
-adaderanasinhalalk | 13,144
+virakesarilk | 12,297
+adaderanasinhalalk | 13,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,676 (89.7%) of 75,459 articles have been extended.
+67,641 (89.6%) of 75,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### Charlie releases photos of the person who suspected to shoot
-
-*2025-09-11 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214457) · `si`
-
-FBI has been released by FBI, who was involved in the shooting of Charlie Kark Truk Trump.
-
-Although the shooting has been conducted, a high-exponent rifle has been recovered by the police.
-
-The violent shot was attacked by his neck while attending a lecture at a university at a university in Charlie Kark, 31 year old Charlie Kark, Yuta.
-
-Two persons were arrested on two occasions on two occasions, but they were arrested on suspicion of shooting.
-
-◼️
-
-[Data](articles/a965f697.json)
-
-[Extended Data](ext_articles/a965f697.ext.json)
-
----
-
-### Meeting between Governors and District Secretaries and President
-
-*2025-09-11 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224861) · `ta`
-
-President Anura Kumara Dissanayake has urged the central government and local government companies to work together in the implementation of development projects.
-
-The President has insisted that the culture of using local government institutions has come to an end under the current government to maintain political power.   He also pointed out the need for the central government and local government to work together instead of moving towards the national plan to develop the country.
-
-The President was presenting the announcement of the 2026 Budget held at the Presidential Secretariat at the Presidential Secretariat on Thursday afternoon to look into the issues between the central government and the local government agencies in the implementation of development projects and to review the projects allocated to local governments based on 2025.
-
-...
-
-[Data](articles/2706ed73.json)
-
-[Extended Data](ext_articles/2706ed73.ext.json)
-
----
-
-### Two suspects were taken into custody with birds who were illegally brought to Sri Lanka
-
-*2025-09-11 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214456) · `si`
-
-Two suspects have been taken into custody with a dingury vessel carrying 91 illegal birds.
-
-A special search operation conducted in the Salitopupu coast of the Mannar was conducted by a special search operation conducted in the coast.
-
-72 pigeons and 19 chickens were recovered while inside that vessel.
-
-The suspects are aged 17 and 52, residents of Pezalai and Mannar area.
-
-The suspects, the dingi vessel and birds have been handed over to the Pezalai Police for future legal proceedings.
-
-◼️
-
-[Data](articles/2fdacd65.json)
-
-[Extended Data](ext_articles/2fdacd65.ext.json)
-
----
-
-### A mother and son killed in Karagience
+### කරණ්දෙනියේ දී මවක සහ පුතෙකු ඝාතනය කෙරේ
 
 *2025-09-11 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214455) · `si`
 
-A mother and son have been killed in Kotarandeniya police division.
+කරණ්දෙනිය පොලිස් වසමේ කොටවෙ ප්‍රදේශයේ දී මවක සහ පුතෙකු කපාකොටා ඝාතනය කර තිබේ.
 
-It is reported that the murder had been carried out while they were in their home.
+ඔවුන් සිය නිවෙස තුළ සිටියදී මෙම ඝාතනය සිදු කර ඇති බව වාර්තා වේ.
 
-The victim was a 75 year old woman and a 25 year old youth.
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 75ක් වන කාන්තාවක් සහ 25 හැවිරිදි තරුණයෙකි.
 
-It is said that the youth is a three-wheeler driver who is a schoolchildren.
+අදාළ තරුණයා පාසල් ළමුන් ප්‍රවහනය කරන ත්‍රීරෝද රථ රියදුරෙකු බවද සඳහන් වේ.
 
-However, there is yet to be revealed about the cause or the murder of the murder.
+කෙසේ වෙතත් ඝාතනයට හේතුව හෝ ඝාතනය සිදු කළේ කවුරුන්ද යන්න පිළිබඳව මෙතෙක් අනාවරණය වී නොමැත.
 
 ◼️
 
 [Data](articles/a5c25e06.json)
-
-[Extended Data](ext_articles/a5c25e06.ext.json)
 
 ---
 
@@ -132,28 +70,6 @@ Speaking to the discussion with the Administration of Pensioners, the Treasury, 
 
 ---
 
-### Budget from November 7 to December 5; Resolution
-
-*2025-09-11 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224860) · `ta`
-
-The Secretary General of Parliament Gushani Rohanadheera said that the Second Assessment of the 2026 Allocation Bill (Budget text) was held on November 07, 2025, followed by a meeting on Parliamentary Affairs on Thursday (11).
-
-A committee meeting on parliamentary affairs was held on Thursday (11) under the chairmanship of Speaker (Doctor) Jagath Wickremaratne.
-
-The Secretary General said that the allocation of the Allocation Bill was scheduled to be presented to Parliament on September 26 for the first assessment.
-
-As the Minister of Finance, the Hon.. It was followed by a 6 -day rating debate from November 8 to November 14. Accordingly, on the 14th of November, a second rating of a referendum will be held at 6.00 pm.
-
-Subsequently, from November 15 to December 5th, it was agreed to hold a 17 -day group debate and to hold a third review of the third assessment on December 5th.
-
-...
-
-[Data](articles/fff68855.json)
-
-[Extended Data](ext_articles/fff68855.ext.json)
-
----
-
 ### Mother and son have been killed
 
 *2025-09-11 21:02:16* · [`adalk`](https://www.ada.lk/breaking_news/මව-හා-පුතා-ඝාතනය-කරලා/11-418442) · `si`
@@ -169,28 +85,6 @@ Police say that the killings were carried out and he had not been arrested on su
 [Data](articles/31a6cc45.json)
 
 [Extended Data](ext_articles/31a6cc45.ext.json)
-
----
-
-### US Trade Representative Office Principals meet with President
-
-*2025-09-11 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224859) · `ta`
-
-The US Trade Representative Office Committee meeting with President Anura Kumara Dissanayake on Thursday (11).
-
-The US trade representatives, who praised the Sri Lankan government appointed by the Sri Lankan government to discuss the tax on the US descending products from Sri Lanka, praised Sri Lanka's economic progress.
-
-The meeting focused on the support of the US Trade Representative's Office (USTR) for the economic activities of Sri Lanka so far and the trade agreements between the US and Sri Lanka in the future.
-
-The President has brought to the attention of the US Trade Representative Committee that Sri Lanka is a country with a small economy and that even a small external impact will have a significant impact on Sri Lanka.
-
-He pointed out that all these factors should continue negotiations on trade agreements. The President said that it is important to focus on strengthening the long -term relationship between the two countries during all resolutions.
-
-...
-
-[Data](articles/ce2ee466.json)
-
-[Extended Data](ext_articles/ce2ee466.ext.json)
 
 ---
 
@@ -211,22 +105,6 @@ The President, noting that Sri Lanka is a small economy in recovery, emphasised 
 [Data](articles/914b8c44.json)
 
 [Extended Data](ext_articles/914b8c44.ext.json)
-
----
-
-### Youth arrested with ganja mixed with cannabis in Jaffna
-
-*2025-09-11 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224858) · `ta`
-
-An 18 -year -old youth has been arrested with a ganja mixed Mawa on Thursday 11th. 10 g 670 milligrams of ganja was recovered.
-
-The arrest was carried out by the Jaffna District Police Drug Prevention Unit of confidential information received by the Police Intelligence Unit under the Jaffna District Senior Superintendent of Police.
-
-◼️
-
-[Data](articles/dc91ee87.json)
-
-[Extended Data](ext_articles/dc91ee87.ext.json)
 
 ---
 
@@ -2075,5 +1953,137 @@ In response, Speaker Jagath Wickramaratne asked him to put the headphone and put
 [Data](articles/536bfddc.json)
 
 [Extended Data](ext_articles/536bfddc.ext.json)
+
+---
+
+### Headfone joke in the congregation
+
+*2025-09-11 10:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபையில்-ஹெட்ஃபோன்-ஜோக்/175-364410) · `ta`
+
+The opposition parties are shouting, even though the proceedings of the council have been postponed for ten minutes on Thursday (11).
+
+At one point, the opposition parties urged Bimal Ratnayake, the chief minister and minister of the council, that he had used words to the council.
+
+In this case, the queries for the oral answer began time. At the time, Speaker Jagath Wickramaratne, who presided over the House, called on the names of the members who had asked the questions several times and asked for questions.
+
+At one point at the time, the chief minister and minister of the council, Bimal Ratnayake, the Speaker! You just have to call once. He said he would not call five times.
+
+In the meantime, Ravi invited Karunanayake to question. The Speaker of the Villai asked for Ravi Karunanayake, who had risen.
+
+In response, Speaker Jagath Wickramaratne asked him to put the headphone and put the headphone.
+
+...
+
+[Data](articles/705320f3.json)
+
+[Extended Data](ext_articles/705320f3.ext.json)
+
+---
+
+### 106 Judicial Officers, including Magistrates and District Judges!
+
+*2025-09-11 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224789) · `ta`
+
+The Judicial Service Commission has announced that the relevant transfers have been issued with effect from September 15.
+
+The transfers have been issued to the magistrates, additional magistrates, district judges, additional district judges and registrars.
+
+Under these transfers, Mallikanda Magistrate Lochana Abeywickrama Weerasinghe has been transferred to the Maharama Magistrate's Court and Maharama Magistrate HGJ Perera and the Magistrate's Magistrate's Court.
+
+At the same time, Galle Magistrate, INN. Kumara Kamage Fort Magistrate and Kurunegala Magistrate NT. Gunaratne Gampaha has also been transferred to the Additional District Judge.
+
+Colombo Additional Magistrate BS. Pathirana Balapitiya Magistrate and Balapitiya Magistrate. The Judicial Service Commission has announced that Janaka has also been transferred to Colombo.
+
+...
+
+[Data](articles/fdf655c7.json)
+
+[Extended Data](ext_articles/fdf655c7.ext.json)
+
+---
+
+### Mahinda's arrival at Mahinda's official home
+
+*2025-09-11 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214434) · `si`
+
+Former President Mahinda Rajapaksa currently residing in Wijerama Road, Colombo official residence of politicians and foreign delegates arrived today (11).
+
+It is with reports that Mahinda Rajapaksa is due to leave the official residence today.
+
+According to the provisions of the President's provisions of the President of the Presidents' Arrangements have to be handed over to the government to restore the official quarters given to former presidents.
+
+Former President Mahinda Rajapaksa has already used quarters and according to the Act passed yesterday (10), they lost that privilege.
+
+Accordingly, a spokesman for the Sri Lanka General Front stated that he would leave the Colombo-official residence in Colombo.
+
+In addition, former president Maithripala Sirisena and Chandrika Bandaranaike Kumaratunga will be handed over to their official homes.
+
+◼️
+
+[Data](articles/a6a2f931.json)
+
+[Extended Data](ext_articles/a6a2f931.ext.json)
+
+---
+
+### Chaos at Delhi Airport: Over 200 passengers deplaned from Air India’s Singapore-bound plane
+
+*2025-09-11 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112390/chaos-at-delhi-airport-over-200-passengers-deplaned-from-air-indias-singapore-bound-plane) · `en`
+
+Over 200 passengers on Air India flight AI2380 to Singapore have been forced to deplane at the Delhi airport after enduring nearly two hours inside an aircraft with malfunctioning air conditioning and electrical systems on Wednesday night (10).
+
+The Boeing 787-9 Dreamliner was scheduled to depart around 11:00 p.m. when technical issues emerged, according to PTI. The faulty air conditioning system left passengers uncomfortable, with some resorting to using newspapers and magazines to fan themselves.
+
+After approximately two hours of waiting inside the aircraft, all passengers were evacuated to the terminal building.
+
+The airline crew did not provide specific reasons for the decision to deplane the passengers, the report by the PTI stated.
+
+...
+
+[Data](articles/c3951b2f.json)
+
+[Extended Data](ext_articles/c3951b2f.ext.json)
+
+---
+
+### The Glory Mahasilla
+
+*2025-09-11 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214433) · `si`
+
+The body of the body of Mahashilah, the body of Mahaziliya, in Buttala and Okkampitiya, has been found in the Ilukpitiya area in Okkampitiya.
+
+The definite reason for the death of the party has not been revealed until the post mortem will be conducted on the body of the party.
+
+Wildlife officials have launched a special investigation into the death of the Aja area with two well grown rough.
+
+Officers of the Monaragala Wildlife Office are conducting further investigations.
+
+◼️
+
+[Data](articles/5b2d9810.json)
+
+[Extended Data](ext_articles/5b2d9810.ext.json)
+
+---
+
+### 106 judicial officers, including magistrates and district judges transferred
+
+*2025-09-11 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112389/106-judicial-officers-including-magistrates-and-district-judges-transferred-) · `en`
+
+A total of 106 judicial officers, including magistrates and district judges have been transferred.
+
+The transfers will be in effect from September 15, the Judicial Service Commission stated.
+
+It is stated that these transfers have been granted to Magistrates, Additional Magistrates, District Judges, Additional District Judges and Registrars.
+
+Accordingly, Maligakanda Magistrate Lochana Abeywickrama Weerasinghe has been transferred to the Mahara Magistrate’s Court while Mahara Magistrate H.G.J.R. Perera has been transferred to the Maligakanda Magistrate’s Court, the Judicial Service Commission said.
+
+Meanwhile, Galle Magistrate I.N.N. Kumara Gamage has been transferred as the Fort Magistrate and Kurunegala Magistrate N.D.B. Gunaratne has been named as the Gampaha Additional District Judge.
+
+...
+
+[Data](articles/990f2c68.json)
+
+[Extended Data](ext_articles/990f2c68.ext.json)
 
 ---

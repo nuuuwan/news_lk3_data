@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 22:09:18**
+As of **2025-09-11 20:57:29**
 
 ## Newspaper Stats
 
-*Scraped **75,453** Articles*
+*Scraped **75,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,97 +16,21 @@ economynextcom | 4,571
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,323
-adaderanalk | 9,689
+adalk | 7,320
+adaderanalk | 9,687
 tamilmirrorlk | 11,283
 virakesarilk | 12,297
-adaderanasinhalalk | 13,142
+adaderanasinhalalk | 13,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,641 (89.6%) of 75,453 articles have been extended.
+67,562 (89.6%) of 75,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### කරණ්දෙනියේ දී මවක සහ පුතෙකු ඝාතනය කෙරේ
-
-*2025-09-11 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214455) · `si`
-
-කරණ්දෙනිය පොලිස් වසමේ කොටවෙ ප්‍රදේශයේ දී මවක සහ පුතෙකු කපාකොටා ඝාතනය කර තිබේ.
-
-ඔවුන් සිය නිවෙස තුළ සිටියදී මෙම ඝාතනය සිදු කර ඇති බව වාර්තා වේ.
-
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 75ක් වන කාන්තාවක් සහ 25 හැවිරිදි තරුණයෙකි.
-
-අදාළ තරුණයා පාසල් ළමුන් ප්‍රවහනය කරන ත්‍රීරෝද රථ රියදුරෙකු බවද සඳහන් වේ.
-
-කෙසේ වෙතත් ඝාතනයට හේතුව හෝ ඝාතනය සිදු කළේ කවුරුන්ද යන්න පිළිබඳව මෙතෙක් අනාවරණය වී නොමැත.
-
-◼️
-
-[Data](articles/a5c25e06.json)
-
----
-
-### Prompt solution to the problems of pensioners including salary anomalies
-
-*2025-09-11 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214454) · `si`
-
-Deputy Minister of Labor Mahinda Jayasinghe says that a time frame is needed to solve problems, including the salary anomalies of the pensioners.
-
-The deputy minister said that some of the steps required to solve these problems have already been taken.
-
-Speaking to the discussion with the Administration of Pensioners, the Treasury, Labor Minister and Economic Development Deputy Minister Dr. Anil Jayantha Fernando.
-
-◼️
-
-[Data](articles/729f5935.json)
-
-[Extended Data](ext_articles/729f5935.ext.json)
-
----
-
-### Mother and son have been killed
-
-*2025-09-11 21:02:16* · [`adalk`](https://www.ada.lk/breaking_news/මව-හා-පුතා-ඝාතනය-කරලා/11-418442) · `si`
-
-The mother and son of the same family of the same family have been hacked to death at a sharp weapon at a house in Karandeniya.
-
-According to the police say that the victim is a resident of Seventyaps and her 25-year-old son Chathuranga Dissanayake.
-
-Police say that the killings were carried out and he had not been arrested on suspicion.. The Karandeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/31a6cc45.json)
-
-[Extended Data](ext_articles/31a6cc45.ext.json)
-
----
-
-### President meets top USTR officials, discuss potential US-SL trade deals
-
-*2025-09-11 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112412/president-meets-top-ustr-officials-discuss-potential-us-sl-trade-deals-) · `en`
-
-United States Ambassador to Sri Lanka, Julie Chung, together with a delegation of senior officials from the Office of the United States Trade Representative (USTR), met with President Anura Kumara Dissanayake at the Presidential Secretariat today (11) for discussions.
-
-The heads of the USTR delegation, who commended the delegation appointed by the Sri Lankan government to negotiate the US tariffs on products imported from Sri Lanka, also praised the progress the country has achieved in its economic recovery, according to the President’s Media Division (PMD).
-
-Attention was also drawn to the assistance extended by the USTR towards Sri Lanka’s economic affairs to date, as well as to potential trade agreements expected to be developed between the two countries in the future.
-
-The President, noting that Sri Lanka is a small economy in recovery, emphasised that even minor external shocks could have a considerable impact on the nation, the PMD said.
-
-...
-
-[Data](articles/914b8c44.json)
-
-[Extended Data](ext_articles/914b8c44.ext.json)
-
----
 
 ### Circumcision regarding permitting students
 
@@ -125,30 +49,6 @@ All applicants who are expected to apply for the vacancies are asked to complete
 [Data](articles/b233a6c5.json)
 
 [Extended Data](ext_articles/b233a6c5.ext.json)
-
----
-
-### Namal laid down on Mahinda Wijerama's official home
-
-*2025-09-11 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214453) · `si`
-
-His son Namal Rajapaksa has placed a note on the 'X' account for former President Mahinda Rajapaksa.
-
-He said, his father returned to the place where everything was started.
-
-And the real strength is also the love of the people, not on privileges, and he said.
-
-Former President Mahinda Rajapaksa arrived at Carlton House in Tangalle today (11).
-
-According to arrangements, the quarters provided to former presidents according to the arrangements of the President's claim (removal) Act.
-
-Former President Mahinda Rajapaksa used the official residence today, according to the Act passed yesterday (10), he was lost.
-
-◼️
-
-[Data](articles/0a0a38ce.json)
-
-[Extended Data](ext_articles/0a0a38ce.ext.json)
 
 ---
 
@@ -261,28 +161,6 @@ Subsequently, the group debate will be held from November 15 to December 5, and 
 [Data](articles/f5cb5d01.json)
 
 [Extended Data](ext_articles/f5cb5d01.ext.json)
-
----
-
-### 2026 Budget Speech on November 7
-
-*2025-09-11 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112411/2026-budget-speech-on-november-7) · `en`
-
-The Secretary General of Parliament, Kushani Rohanadeera, stated that the second reading of the Appropriation Bill (also known as the Budget Speech) for the year 2026 will be held on 7 November, 2025, followed by the budget debate from 8 November to 5 December, 2025.
-
-This decision was made at today’s (11) meeting of the Committee on Parliamentary Business, chaired by Speaker Dr. Jagath Wickramarathne.
-
-Accordingly, the Secretary General stated that the first reading of the Appropriation Bill will be presented to Parliament on 26 September, 2025.
-
-In his capacity as the Minister of Finance, the President will present the second reading of the Appropriation Bill (the Budget Speech) on 7 November, and it has been decided to allocate six days, from 8 November to 14 November, for the second reading debate.
-
-The vote on the second reading will take place on 14 November at 6:00 PM, the statement said.
-
-...
-
-[Data](articles/d190811f.json)
-
-[Extended Data](ext_articles/d190811f.ext.json)
 
 ---
 
@@ -547,28 +425,6 @@ However, the police suspect that he may have died a few days ago and the Thambut
 [Data](articles/2447bd44.json)
 
 [Extended Data](ext_articles/2447bd44.ext.json)
-
----
-
-### Exstate doctor's son committed suicide because she did not give a laptop computer
-
-*2025-09-11 16:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ලැප්ටොප්-පරිගණකයක්-නොදුන්-නිසා-විශෙෂඥ-වෛද්‍යවරයාගේ-පුතා-දිවි-නසාගෙන/11-418440) · `si`
-
-Kuliyapitiya teaching hospitals say that a 16-year student has pretend to be brought to their home in their home.
-
-The deceased was the death of a 10th Grade 10 of Kuliyapitiya Central College, Kuluwala, a resident of Kuluwapitiya.
-
-It has been revealed that the student had said that the mother had a separate laptop computer and said that the mother had said that it was delayed.
-
-The angry student had neiled his home and residents had taken place in hospital. The student of a specialist of Kuliyapitiya Teaching Hospital has immediately admitted to the Intensive Care and Top
-
-Itach is a very good and obedient student to education and that such an event is faced with a child, such as a child, such as a child, said the group said.. The mental state of children who are unable to be given no advice, the mentality of children who are very poor, and immediately responded to students.
-
-◼️
-
-[Data](articles/c0b3ed47.json)
-
-[Extended Data](ext_articles/c0b3ed47.ext.json)
 
 ---
 
@@ -1402,26 +1258,6 @@ Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati a
 
 ---
 
-### Signs of land loss of land and businessmen captured land
-
-*2025-09-11 12:46:22* · [`adalk`](https://www.ada.lk/breaking_news/හන්තානේ-ඉඩම්-අල්ලාගත්-දේශපාලකයින්ට-හා-ව්‍යාපාරිකයන්ට-ඉඩම්-අහිමිවන-ලකුණු/11-418429) · `si`
-
-The authorities have focused on the elements of the upper part of the upper part of land as a high-sensitive zone.
-
-The District Coordinating Committee meeting was revealed at the Kandy District Coordinating Committee meeting that the state officials of the district was being gazetted in the Kandy district and had the preliminary steps to gazette the environmental disaster.
-
-The preliminary studies will commence the survey of surveying and stressed the services reference to the District Committee.
-
-There are also accusations of the cases, businessmen and artists regarding lands of Hanthana eco-sensitive region.
-
-◼️
-
-[Data](articles/9e633314.json)
-
-[Extended Data](ext_articles/9e633314.ext.json)
-
----
-
 ### Maithri left the official residence!
 
 *2025-09-11 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224806) · `ta`
@@ -2085,5 +1921,171 @@ Meanwhile, Galle Magistrate I.N.N. Kumara Gamage has been transferred as the For
 [Data](articles/990f2c68.json)
 
 [Extended Data](ext_articles/990f2c68.ext.json)
+
+---
+
+### Airline Services for Nepal are restarted
+
+*2025-09-11 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224785) · `ta`
+
+Sri Lanka Airlines has launched its airline today (11) following the reopening of the Kathmandu International Airport by the Nepal Civil Aviation Commission.
+
+Accordingly, the UL-181 flight from Bandaranaike International Airport to Kathmandu has launched services to Nepal.
+
+SriLankan Airlines Communications Manager Deepal Perera said that the airport was shut down yesterday (10) following the closure of the airport due to ongoing clashes in Nepal.
+
+Bandaranaike International Airport officials have said that the airline provided shelter and hotel facilities to more than 35 passengers yesterday to travel to Kathmandu.
+
+The airline is scheduled to leave the Bandaranaike International Airport at 8.15 am today and land at Kathmandu at 11.41 am.
+
+The flight from Kathmandu is expected to arrive at the Bandaranaike International Airport at 4.40 pm.
+
+SriLankan Airlines Airlines operates for four days a week between Colombo and Kathmandu.
+
+...
+
+[Data](articles/2c357013.json)
+
+[Extended Data](ext_articles/2c357013.ext.json)
+
+---
+
+### EUDR in 2025: Is Sri Lanka ready for the EU’s new deforestation rules?
+
+*2025-09-11 10:37:00* · [`economynextcom`](https://economynext.com/eudr-in-2025-is-sri-lanka-ready-for-the-eus-new-deforestation-rules-240147/) · `en`
+
+The European Union’s Deforestation Regulation (EUDR) takes effect on 30 December 2025. This regulation aims to prevent deforestation associated with seven commodities—cattle, cocoa, coffee, palm oil, soy, wood, and natural rubber—and products derived from them, such as tyres, chocolate, and wooden furniture. Any product exported to the EU market must be deforestation-free, legally produced according to the laws of the originating country, and traceable to the specific plot of land where it was sourced. In 2024, Sri Lanka exported 27 different rubber and rubber-based products at Harmonised System six-digit (HS-6-digit) to the EU worth USD 337.79 million (Mn). These products include solid or cushion tyres, gloves, mittens and mitts, new pneumatic tyres, and articles of vulcanised rubber (Figure 1). The EU remains a significant destination for these value-added exports, emphasising the importance of meeting EUDR requirements.
+
+...
+
+[Data](articles/877b560f.json)
+
+[Extended Data](ext_articles/877b560f.ext.json)
+
+---
+
+### Three buses collided with each other
+
+*2025-09-11 10:34:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-பேருந்துகள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/175-364408) · `ta`
+
+Three buses crashed on Thursday (11) on Thursday (11). .
+
+The Sri Lanka Transport Board bus carrying school students from Belmadulla to Balangoda, a private bus traveling from Balangoda to Colombo and the Sri Lanka Transport Board buses traveling in the same direction.
+
+Passengers and schoolchildren who were injured in the accident have been admitted to the hospital by residents. The Badulla-Colombo main road has been completely blocked due to the accident.
+
+◼️
+
+[Data](articles/c30920ce.json)
+
+[Extended Data](ext_articles/c30920ce.ext.json)
+
+---
+
+### Tense situation; Postponement for 10 minutes of Parliament Session
+
+*2025-09-11 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224786) · `ta`
+
+Speaker Jagath Wickramaratne has postponed the parliamentary session for 10 minutes following the opposition of the opposition to not allow the debate on the no -confidence motion against Deputy Minister Aruna Jayasekara.
+
+◼️
+
+[Data](articles/cf2a00e7.json)
+
+[Extended Data](ext_articles/cf2a00e7.ext.json)
+
+---
+
+### People's Struggle in France: 250 arrested, 80 thousand policemen
+
+*2025-09-11 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224787) · `ta`
+
+People are protesting against the government led by French President Emmanuel Macron.
+
+On Wednesday (10), people in various cities of the country, including the capital of France, Paris, went down the streets and set fire to vehicles and buildings.
+
+The French government's attempt to carry out the budget of the French government has caused great dissatisfaction with the reduction of public holidays, raising pensions and reducing funds for essential sectors such as education and medicine.
+
+In the last nine months, four prime ministers have changed due to the lack of a majority in Parliament for the Macron Government's 'Rinnesons' party. Recently, Prime Minister Frankoyce Baiur resigned because the budget was unable to implement.
+
+Amidst all these political chaos, Sebastian Legorn has been appointed as the new prime minister. But this, too, has caused a rage among the people.
+
+...
+
+[Data](articles/c2768f39.json)
+
+[Extended Data](ext_articles/c2768f39.ext.json)
+
+---
+
+### 106 judicial officers including Magistrates, District Judge
+
+*2025-09-11 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214432) · `si`
+
+106 judicial service officers including Magistrates, Judges have been transferred.
+
+The relevant transfers have been made to operate from September 15, said the Judicial Service Commission.
+
+The transfers have been made for the Magistrates, Additional Magistrates, District Judges, Additional District Judges and Registrars.
+
+Maligakanda Magistrate Lyrological Abeywickrama Weerawickrama Weerasinghe too, Mahara Magistrate H.J... It is reported that Perera has been transferred to the Maligakanda Magistrate's Court.
+
+Galle Magistrate IN Kumara Gamage has been transferred as the Fort Magistrate and Kurunegala Magistrate N.D.N.Godaratne to be the Gampaha Additional District Judge.
+
+Colombo Additional Magistrate PS Patrika has been transferred as the Colombo Additional Magistrate.
+
+In addition, 17 persons trained at the Judicial Training Institute have been appointed as the Magistrates, Additional District Judges, the Judicial Service Commission.
+
+◼️
+
+[Data](articles/18feee27.json)
+
+[Extended Data](ext_articles/18feee27.ext.json)
+
+---
+
+### People's struggle erupted in France like Nepal: What happened?
+
+*2025-09-11 10:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தை-போன்று-பிரான்சிலும்-மக்கள்-போராட்டம்-வெடித்தது-நடந்தது-என்ன/50-364407) · `ta`
+
+People's struggle has erupted against the austerity measures brought by the government in France.
+
+The struggle has intensified as a continuation of the online campaign with the slogan "Disable everything".
+
+The place of struggle was like a violent domain due to picket on the roads and set fire to public property. The police threw tear gas and chased away the protesters.
+
+French Home Minister Brunei Ridelle said the bus was set on fire in Rennes. Trains are parked in the southwest. Power line is not a way to run because of damaging. Protesters are trying to create a rebellion.
+
+As the struggle intensifies across France, 80,000 policemen have been patrolled by the country. The police have kept barriers in key areas. In spite of this, the struggle has intensified in various places in France.
+
+...
+
+[Data](articles/f8ad6e21.json)
+
+[Extended Data](ext_articles/f8ad6e21.ext.json)
+
+---
+
+### Airline Service to Nepal
+
+*2025-09-11 10:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்திற்கான-விமான-சேவை-ஆரம்பம்/175-364406) · `ta`
+
+Following the reopening of the Kathmandu International Airport by the Civil Air Transport Authority of Nepal, SriLankan Airlines departed from Bandaranaike International Airport (BIA) on Thursday (11) and launched its services again to Nepal.
+
+SriLankan Airlines Communications Officer Deepal Perera said that the services of Nepal were suspended on Wednesday (10) following the closure of the airport due to the ongoing clashes in the country.
+
+BIA officials confirmed that 35 passengers arrived on Wednesday (10) to travel to Kathmandu.
+
+The restaurant is scheduled to leave BIA on Thursday (11) at 8.15 am and land at Kathmandu at 11.41 am.
+
+The flight from Kathmandu is expected to arrive at BIA at 4.40 pm and passengers will be re-transported to Colombo.
+
+SriLankan Airlines is currently the only airline that operates flights between Colombo and Kathmandu. Perera said the service would run four days on Sunday, Monday, Wednesday and Thursday.
+
+◼️
+
+[Data](articles/00348e7c.json)
+
+[Extended Data](ext_articles/00348e7c.ext.json)
 
 ---

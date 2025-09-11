@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 22:36:54**
+As of **2025-09-11 22:09:18**
 
 ## Newspaper Stats
 
-*Scraped **75,454** Articles*
+*Scraped **75,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,35 @@ adalk | 7,323
 adaderanalk | 9,689
 tamilmirrorlk | 11,283
 virakesarilk | 12,297
-adaderanasinhalalk | 13,143
+adaderanasinhalalk | 13,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,651 (89.7%) of 75,454 articles have been extended.
+67,641 (89.6%) of 75,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### නීති විරෝධීව මෙරටට ගෙන ආ පක්‍ෂීන් සමඟ සැකකරුවන් දෙදෙනෙක් නාවික හමුදා භාරයට
-
-*2025-09-11 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214456) · `si`
-
-නීතී විරෝධී ලෙස මෙරටට රැගෙන ආ පක්‍ෂීන් 91ක් රැගත් ඩිංගි යාත්‍රාවක් සමඟ සැකකරුවන් දෙදෙනෙකු නාවික හමුදාව විසින් සිය භාරයට ගෙන තිබේ.
-
-ඒ මන්නාරම පේසාලේ සිරිතෝප්පු වෙරළ ප්‍රදේශයේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුමක් මඟිනි.
-
-එම යාත්‍රාව තුළ සිටියදී පරවියන් 72ක් සහ පොර කුකුළන් 19 දෙනෙක් නාවික හමුදාව විසින් සොයා ගෙන ඇත.
-
-අදාළ සැකකරුවන් වයස අවුරුදු 17ක් සහ 52ක් ‍වන පේසාලෙයි සහ මන්නාරම ප්‍රදේශයේ පදිංචිකරුවන් වේ.
-
-එම සැකකරුවන්, ඩිංගි යාත්‍රාව සහ පක්‍ෂීන් ඉදිරි නීතිමය කටයුතු සඳහා පේසාලෙයි පොලිස් ස්ථානය වෙත භාරදීමට කටයුතු කර තිබේ.
-
-◼️
-
-[Data](articles/2fdacd65.json)
-
----
-
-### A mother and son killed in Karagience
+### කරණ්දෙනියේ දී මවක සහ පුතෙකු ඝාතනය කෙරේ
 
 *2025-09-11 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214455) · `si`
 
-A mother and son have been killed in Kotarandeniya police division.
+කරණ්දෙනිය පොලිස් වසමේ කොටවෙ ප්‍රදේශයේ දී මවක සහ පුතෙකු කපාකොටා ඝාතනය කර තිබේ.
 
-It is reported that the murder had been carried out while they were in their home.
+ඔවුන් සිය නිවෙස තුළ සිටියදී මෙම ඝාතනය සිදු කර ඇති බව වාර්තා වේ.
 
-The victim was a 75 year old woman and a 25 year old youth.
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 75ක් වන කාන්තාවක් සහ 25 හැවිරිදි තරුණයෙකි.
 
-It is said that the youth is a three-wheeler driver who is a schoolchildren.
+අදාළ තරුණයා පාසල් ළමුන් ප්‍රවහනය කරන ත්‍රීරෝද රථ රියදුරෙකු බවද සඳහන් වේ.
 
-However, there is yet to be revealed about the cause or the murder of the murder.
+කෙසේ වෙතත් ඝාතනයට හේතුව හෝ ඝාතනය සිදු කළේ කවුරුන්ද යන්න පිළිබඳව මෙතෙක් අනාවරණය වී නොමැත.
 
 ◼️
 
 [Data](articles/a5c25e06.json)
-
-[Extended Data](ext_articles/a5c25e06.ext.json)
 
 ---
 
@@ -2085,5 +2063,27 @@ Officers of the Monaragala Wildlife Office are conducting further investigations
 [Data](articles/5b2d9810.json)
 
 [Extended Data](ext_articles/5b2d9810.ext.json)
+
+---
+
+### 106 judicial officers, including magistrates and district judges transferred
+
+*2025-09-11 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112389/106-judicial-officers-including-magistrates-and-district-judges-transferred-) · `en`
+
+A total of 106 judicial officers, including magistrates and district judges have been transferred.
+
+The transfers will be in effect from September 15, the Judicial Service Commission stated.
+
+It is stated that these transfers have been granted to Magistrates, Additional Magistrates, District Judges, Additional District Judges and Registrars.
+
+Accordingly, Maligakanda Magistrate Lochana Abeywickrama Weerasinghe has been transferred to the Mahara Magistrate’s Court while Mahara Magistrate H.G.J.R. Perera has been transferred to the Maligakanda Magistrate’s Court, the Judicial Service Commission said.
+
+Meanwhile, Galle Magistrate I.N.N. Kumara Gamage has been transferred as the Fort Magistrate and Kurunegala Magistrate N.D.B. Gunaratne has been named as the Gampaha Additional District Judge.
+
+...
+
+[Data](articles/990f2c68.json)
+
+[Extended Data](ext_articles/990f2c68.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 14:10:40**
+As of **2025-09-11 14:38:13**
 
 ## Newspaper Stats
 
@@ -26,63 +26,69 @@ adaderanasinhalalk | 13,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,140 (89.1%) of 75,380 articles have been extended.
+67,158 (89.1%) of 75,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### பல் உடையும் வகையில் சிறுவனின் மீது தாக்குதல்
+### Assault on the boy
 
 *2025-09-11 13:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்-உடையும்-வகையில்-சிறுவனின்-மீது-தாக்குதல்/175-364426) · `ta`
 
-சிறுவர்களுக்கிடையே ஏற்பட்ட தகராறில் 14 வயது சிறுவனின் இரண்டு பற்கள் உடையும் அளவுக்கு அடிக்கப்பட்டமை தொடர்பில் பயாகல பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+Biyagala police are investigating the fact that a 14 -year -old boy's two teeth were struck in a dispute between the children.
 
-பாதிக்கப்பட்டவர் ஹல்கந்தவில, துவகொட பகுதியைச் சேர்ந்தவர் ஆவார். அவர்,  களுத்துறைநாகொட போதனா மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+The victim belongs to Halkandawila, Dwagoda area. He has been admitted to the Teaching Hospital in Kalutara.
 
-குழந்தையின் தாயார் அளித்த புகாரில், கடந்த 9 ஆம் திகதி மாலை, தனது வீட்டிற்கு அருகிலுள்ள ஒரு பிரார்த்தனை அறையில் தனது குழந்தை மற்றொரு குழந்தையுடன் விளையாடிக் கொண்டிருந்ததாகவும், "எங்களுடன் விளையாட இன்னொரு குழந்தையை அழைத்துச் செல்ல முடியாது" என்று கூறியதால் கோபமடைந்த குழந்தையின் மூத்த சகோதரர் தனது குழந்தையைத் தாக்கி கழுத்தை நெரித்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+According to a complaint filed by the mother of the child, the elder brother of the child, who was angry, attacked his child and strangled her child, saying that her child was playing with another child in a prayer room near her home on the 9th of this month.
 
-இந்த தாக்குதலில் தனது குழந்தையின் இரண்டு பற்கள் உடைந்ததாகவும், மற்றொரு பல் ​ஆடுவதாகவும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+The attack reported that his child's two teeth were broken and another tooth.
 
 ◼️
 
 [Data](articles/f5e3c2d4.json)
 
+[Extended Data](ext_articles/f5e3c2d4.ext.json)
+
 ---
 
-### வெற்றி கோஷத்துடன்  வெளியேறினார் மஹிந்த
+### Mahinda left with the slogan
 
 *2025-09-11 13:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-கோஷத்துடன்-வெளியேறினார்-மஹிந்த/175-364425) · `ta`
 
-இலங்கையின் சட்டம் மற்றும் ஒழுங்கைப் பின்பற்றி, முன்னாள் ஜனாதிபதியும் இலங்கையின் ஐந்தாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியுமான மஹிந்த ராஜபக்ஷ, கொழும்பு விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்திலிருந்து சற்று முன்னர் வெளியேறினார் என  இலங்கை பொதுஜன பெரமுன (SLPP) பொதுச் செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+The former President of Sri Lanka and the Fifth Executive President of Sri Lanka, following the law and order of Sri Lanka, has left his official residence at Wijerama Road, Colombo, said Sri Lanka's General Secretary (SLPP) General Secretary Sagara Kariyawasam.
 
-அவர், விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறிய போது, அங்கு குழுமியிருந்தவர்கள் ஜய​வேவா, ஜயவேவா என கோஷமெழுப்பினர்.
+When he left his official residence on Wijerama Road, the group chanted, "Jaya Veva and Jayaweva."
 
 ◼️
 
 [Data](articles/35632ca4.json)
 
+[Extended Data](ext_articles/35632ca4.ext.json)
+
 ---
 
-### අවුරුදු 14ක දරුවෙකුට දතක් කැඩෙන්න ගහලා
+### A 14-year-old child breaks into two
 
 *2025-09-11 13:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14ක-දරුවෙකුට-දතක්-කැඩෙන්න-ගහලා/11-418431) · `si`
 
-දරුවන් අතර ඇතිවූ ආරාවුලකින් පසු 14 හැවිරිදි දරුවෙකුට දත් දෙකක් කැඩෙන්නට පහර දීමේ සිද්ධියක් සම්බන්ධයෙන් පයාගල පොලිසිය පරීක්ෂණ පවත්වයි .
+After a dispute between children, Payagala Police are investigating a 14-year-old attack.
 
-පහරකෑමට ලක්ව ඇත්තේ හල්කඳවිල දූවගොඩ ප්‍රදේශයේ පදිංචි අයෙකු වන අතර ඔහු මේ වනවිට කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුලත් කර ඇත .
+A resident of Halkindanavila is a resident of Hulkindavila, Hulkindindavila.
 
-දරුවාගේ මව වන සන්දරා නැකතිගේ චමිලා ප්‍රියන්ති යන අය විසින් පොලිසියට කරන ලද පැමිණිල්ලට අනුව මේ පිළිබඳ පරීක්ෂණ ආරම්භ කොට තිබේ .
+According to the complaint made by the child's mother of the child Sandara's Chamila Priyanthi, investigations have commenced investigations.
 
-ඉකුත් 09 වැනිදා සවස තම දරුවා නිවස අසල බණ ගෙදරක තවත් ළමයෙකු සමග සෙල්ලම් කරමින් සිට ඇති බවත්, එවිට පැමිණි තවත් ළමයෙකු සෙල්ලමට ගන්න බැහැ " යැයි කීමෙන් පසු උරණවී ඇති එම ළමයාගේ වැඩිමහල් සොහොයුරෙකු තම දරුවාට පහරදී බෙල්ල මිරිකා ඇති බවත්‍ ඇය පොලිසියට කර තිබූ පැමිණිල්ලේ සඳහන්වේ .
+The elderly sister of the police said, "The elderly brother who had come to the house was playing with another child near the house on the 9th," she said.
 
-මෙම පහරදීමෙන් තම දරුවාගේ දත් දෙකක් කැඩී ගොස් තවත් දතක් සෙලවෙන බවද ඇය පොලිසියට ප්‍රකාශ කර ඇත.
+She has told the police that two teeth of their child will break down and another tooth.
 
-පයාගල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තුෂාර ජයසේකර මහතාගේ මෙහෙයවීම යටතේ මේ පිළිබඳව වැඩිදුර පරීක්ෂණ පැවැත්වේ.
+Further investigations are conducted under the direction of the Payagala OIC Chief Inspector Thushara Jayasekara.
 
 ◼️
 
 [Data](articles/23b412d2.json)
+
+[Extended Data](ext_articles/23b412d2.ext.json)
 
 ---
 
@@ -136,23 +142,25 @@ Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati a
 
 ---
 
-### මහසිලුත් යන්නම ගිහින්
+### The Mahasamil has gone
 
 *2025-09-11 12:37:16* · [`adalk`](https://www.ada.lk/breaking_news/මහසිලුත්-යන්නම-ගිහින්/11-418428) · `si`
 
-බුත්තල පොලිස් වසමට අයත් ඉලුක්පිටිය ප්‍රදේශයේ කුඹුරු යායක තිබී මිය ගිය ඇතෙකුගේ මළසිරුරක් (11) වෙනිදා
+Body of Dead (11) was a deceased (11)
 
-වනජීවී නිලධාරීන්ට හමුවී ඇත.අවුරුදු විස්සත් විසි පහත් අතර වයසැති මහසිලු නමින් හඳුන්වන මෙම ඇතාගේ දළ අඩි දෙකහමාරක් පමණ වේ.
+Wildlife officials have been found. This is about two and a half feet of the Gross, known as Mahazilu, known as Mahazilu.
 
-මෙම ඇතා පැල්වත්ත සීනි කර්මාන්ත ආයතනයේ උක් වගාව වන අලින්ගෙන් බේරා ගැනීම සඳහා ඇද තිබූ විදුලි වැටේගැටී විදුලි සැර වැදී මිය යන්නට ඇතැයි මොනරාගල වනජීවී කාර්යාලයේ නිලධාරීහු සැක පළ කරති.
+The elephants have suspended that the electricity tariff was to save the elephants in Pelwatte Sugar Industry to save the sugar planting elephants.
 
-ඇතාගේ මරණය පිළිබඳව පශ්චාත් මරණ පරීක්ෂණය පශු වෛද්‍ය නිලධාරී (දකුණු ප්‍රදේශය භාර) ධම්මි මහත්ය්මිය
+Post mortem examination on death
 
-විසින් පැවැත්වීමට නියමිතව තිබූ අතර ඉන් පසු මරණයට හේතුව නිශ්චිත වශයෙන්ම අනාවරණය කර ගැනීමට හැකිවන බව ඌව පළාත් භාර වනජීවී සහකාර අධ්‍යක්ෂක ඩබ්ලිව්.ඒ.ඒ.ඩී.යූ ඉන්ද්‍රජිත් මහතා වැඩි දුරටත් පැවසීය.
+WASAD, Assistant Director in charge of the Uva Provincial Council, said that the cause of death is due to be conducted.
 
 ◼️
 
 [Data](articles/080034b6.json)
+
+[Extended Data](ext_articles/080034b6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 14:10:40**
+As of **2025-09-11 12:55:43**
 
 ## Newspaper Stats
 
-*Scraped **75,380** Articles*
+*Scraped **75,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,181 +16,35 @@ economynextcom | 4,567
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,310
+adalk | 7,306
 adaderanalk | 9,671
-tamilmirrorlk | 11,269
+tamilmirrorlk | 11,265
 virakesarilk | 12,287
-adaderanasinhalalk | 13,128
+adaderanasinhalalk | 13,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,140 (89.1%) of 75,380 articles have been extended.
+67,089 (89.0%) of 75,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### பல் உடையும் வகையில் சிறுவனின் மீது தாக்குதல்
-
-*2025-09-11 13:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்-உடையும்-வகையில்-சிறுவனின்-மீது-தாக்குதல்/175-364426) · `ta`
-
-சிறுவர்களுக்கிடையே ஏற்பட்ட தகராறில் 14 வயது சிறுவனின் இரண்டு பற்கள் உடையும் அளவுக்கு அடிக்கப்பட்டமை தொடர்பில் பயாகல பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
-
-பாதிக்கப்பட்டவர் ஹல்கந்தவில, துவகொட பகுதியைச் சேர்ந்தவர் ஆவார். அவர்,  களுத்துறைநாகொட போதனா மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-குழந்தையின் தாயார் அளித்த புகாரில், கடந்த 9 ஆம் திகதி மாலை, தனது வீட்டிற்கு அருகிலுள்ள ஒரு பிரார்த்தனை அறையில் தனது குழந்தை மற்றொரு குழந்தையுடன் விளையாடிக் கொண்டிருந்ததாகவும், "எங்களுடன் விளையாட இன்னொரு குழந்தையை அழைத்துச் செல்ல முடியாது" என்று கூறியதால் கோபமடைந்த குழந்தையின் மூத்த சகோதரர் தனது குழந்தையைத் தாக்கி கழுத்தை நெரித்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-இந்த தாக்குதலில் தனது குழந்தையின் இரண்டு பற்கள் உடைந்ததாகவும், மற்றொரு பல் ​ஆடுவதாகவும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/f5e3c2d4.json)
-
----
-
-### வெற்றி கோஷத்துடன்  வெளியேறினார் மஹிந்த
-
-*2025-09-11 13:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-கோஷத்துடன்-வெளியேறினார்-மஹிந்த/175-364425) · `ta`
-
-இலங்கையின் சட்டம் மற்றும் ஒழுங்கைப் பின்பற்றி, முன்னாள் ஜனாதிபதியும் இலங்கையின் ஐந்தாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியுமான மஹிந்த ராஜபக்ஷ, கொழும்பு விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்திலிருந்து சற்று முன்னர் வெளியேறினார் என  இலங்கை பொதுஜன பெரமுன (SLPP) பொதுச் செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
-
-அவர், விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறிய போது, அங்கு குழுமியிருந்தவர்கள் ஜய​வேவா, ஜயவேவா என கோஷமெழுப்பினர்.
-
-◼️
-
-[Data](articles/35632ca4.json)
-
----
-
-### අවුරුදු 14ක දරුවෙකුට දතක් කැඩෙන්න ගහලා
-
-*2025-09-11 13:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14ක-දරුවෙකුට-දතක්-කැඩෙන්න-ගහලා/11-418431) · `si`
-
-දරුවන් අතර ඇතිවූ ආරාවුලකින් පසු 14 හැවිරිදි දරුවෙකුට දත් දෙකක් කැඩෙන්නට පහර දීමේ සිද්ධියක් සම්බන්ධයෙන් පයාගල පොලිසිය පරීක්ෂණ පවත්වයි .
-
-පහරකෑමට ලක්ව ඇත්තේ හල්කඳවිල දූවගොඩ ප්‍රදේශයේ පදිංචි අයෙකු වන අතර ඔහු මේ වනවිට කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුලත් කර ඇත .
-
-දරුවාගේ මව වන සන්දරා නැකතිගේ චමිලා ප්‍රියන්ති යන අය විසින් පොලිසියට කරන ලද පැමිණිල්ලට අනුව මේ පිළිබඳ පරීක්ෂණ ආරම්භ කොට තිබේ .
-
-ඉකුත් 09 වැනිදා සවස තම දරුවා නිවස අසල බණ ගෙදරක තවත් ළමයෙකු සමග සෙල්ලම් කරමින් සිට ඇති බවත්, එවිට පැමිණි තවත් ළමයෙකු සෙල්ලමට ගන්න බැහැ " යැයි කීමෙන් පසු උරණවී ඇති එම ළමයාගේ වැඩිමහල් සොහොයුරෙකු තම දරුවාට පහරදී බෙල්ල මිරිකා ඇති බවත්‍ ඇය පොලිසියට කර තිබූ පැමිණිල්ලේ සඳහන්වේ .
-
-මෙම පහරදීමෙන් තම දරුවාගේ දත් දෙකක් කැඩී ගොස් තවත් දතක් සෙලවෙන බවද ඇය පොලිසියට ප්‍රකාශ කර ඇත.
-
-පයාගල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තුෂාර ජයසේකර මහතාගේ මෙහෙයවීම යටතේ මේ පිළිබඳව වැඩිදුර පරීක්ෂණ පැවැත්වේ.
-
-◼️
-
-[Data](articles/23b412d2.json)
-
----
-
-### UDA Former Director General and former Director arrested for land
-
-*2025-09-11 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214438) · `si`
-
-Former Director Bribery Commission has been arrested by the former Director General of the Urban Development Authority and the Urban Development Authority.
-
-◼️
-
-[Data](articles/f098fc95.json)
-
-[Extended Data](ext_articles/f098fc95.ext.json)
-
----
-
-### Former President Mahinda Wijerama leaves official residence
-
-*2025-09-11 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214439) · `si`
-
-Former President Mahinda Rajapaksa left his official residence in Wijeramamins a short while ago.
-
-◼️
-
-[Data](articles/f715ee81.json)
-
-[Extended Data](ext_articles/f715ee81.ext.json)
-
----
-
-### 5 people, including finance minister in Indonesia
-
-*2025-09-11 12:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தோனேசியாவில்-நிதி-அமைச்சர்-உட்பட-5-பேர்-நீக்கம்/50-364424) · `ta`
-
-Meanwhile, MPs were given various concessions, including salary and housing rent.
-
-In particular, the salaries of MPs have been paid Rs 5 lakh, with personal income at around Rs.
-
-Seven people were killed in violence at the time. This reduced the salaries and privileges of MPs.
-
-Moreover, President Prabhao Subiyanto announced a change in the ministerial council as the people were dissatisfied with the government.
-
-Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati and Army Minister Pudi Gunawan, have been sacked.
-
-◼️
-
-[Data](articles/36eab847.json)
-
-[Extended Data](ext_articles/36eab847.ext.json)
-
----
-
-### මහසිලුත් යන්නම ගිහින්
-
-*2025-09-11 12:37:16* · [`adalk`](https://www.ada.lk/breaking_news/මහසිලුත්-යන්නම-ගිහින්/11-418428) · `si`
-
-බුත්තල පොලිස් වසමට අයත් ඉලුක්පිටිය ප්‍රදේශයේ කුඹුරු යායක තිබී මිය ගිය ඇතෙකුගේ මළසිරුරක් (11) වෙනිදා
-
-වනජීවී නිලධාරීන්ට හමුවී ඇත.අවුරුදු විස්සත් විසි පහත් අතර වයසැති මහසිලු නමින් හඳුන්වන මෙම ඇතාගේ දළ අඩි දෙකහමාරක් පමණ වේ.
-
-මෙම ඇතා පැල්වත්ත සීනි කර්මාන්ත ආයතනයේ උක් වගාව වන අලින්ගෙන් බේරා ගැනීම සඳහා ඇද තිබූ විදුලි වැටේගැටී විදුලි සැර වැදී මිය යන්නට ඇතැයි මොනරාගල වනජීවී කාර්යාලයේ නිලධාරීහු සැක පළ කරති.
-
-ඇතාගේ මරණය පිළිබඳව පශ්චාත් මරණ පරීක්ෂණය පශු වෛද්‍ය නිලධාරී (දකුණු ප්‍රදේශය භාර) ධම්මි මහත්ය්මිය
-
-විසින් පැවැත්වීමට නියමිතව තිබූ අතර ඉන් පසු මරණයට හේතුව නිශ්චිත වශයෙන්ම අනාවරණය කර ගැනීමට හැකිවන බව ඌව පළාත් භාර වනජීවී සහකාර අධ්‍යක්ෂක ඩබ්ලිව්.ඒ.ඒ.ඩී.යූ ඉන්ද්‍රජිත් මහතා වැඩි දුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/080034b6.json)
-
----
-
-### Who is this Charlie Kirk?
+### யார் இந்த சார்லி கிர்க்?
 
 *2025-09-11 12:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/யார்-இந்த-சார்லி-கிர்க்/50-364421) · `ta`
 
-Charlie Kirk, a right -wing supporter, commentator, co -founder of Turning Point USA, who was participating in a question -and -a -launch event with students at Uda University in the United States, was shot dead above all.
+அமெரிக்காவின் உடா பல்கலைக்கழகத்தில் நடந்த மாணவர்களுடனான கேள்வி பதில் நிகழ்ச்சியில் பங்கேற்றிருந்த சார்லி கிர்க் என்ற வலதுசாரி ஆதரவாளர், வர்ணனையாளர், ‘டர்னிங் பாயின்ட் யுஎஸ்ஏ’ நிறுவனத்தின் இணை நிறுவனர், அனைத்துக்கும் மேலாக ட்ரம்ப்பின் ஆதரவாளர் சுட்டுக் கொல்லப்பட்டார்.
 
-Video footage of the event he was assassinated is going viral on the internet. The ruling party and the opposition have condemned the murder of Charlie Kirk. US President Trump has vehemently condemned the incident and said he had been severely suffering from the death of his supporter.
+அவர் படுகொலை செய்யப்பட்ட நிகழ்வு அடங்கிய வீடியோக் காட்சிகள் இணையத்தில் வைரலாகி வருகின்றன. சார்லி கிர்க் கொலைக்கு ஆளும் கட்சியும், எதிர்க்கட்சியும் கடும் கண்டனங்களை தெரிவித்துள்ளன. அமெரிக்க ஜனாதிபதி ட்ரம்ப் இந்தச் சம்பவத்தை வன்மையாகக் கண்டித்ததோடு, தனது ஆதரவாளரின் மரணத்தால் கடும் துன்பமடைந்துள்ளதாகத் தெரிவித்துள்ளார்.
 
-Earlier, Charlie Kirk, who was shot at the show, was immediately taken to the hospital by ambulance, but doctors seem to have said that he was already dead.
-
-The holiday has been announced until the 15th of this month.. The police who caught someone in this regard and released him. The search for the killer is underway.
+முன்னதாக, நிகழ்ச்சியில் சுடப்பட்ட சார்லி கிர்க் உடனடியாக ஆம்புலன்ஸ் வாகனத்தின் மூலம் மருத்துவமனைக்குக் கொண்டு செல்லப்பட்டதாகவும், ஆனால் அவர் ஏற்கெனவே இறந்துவிட்டதாக மருத்துவர்கள் கூறியதாகவும் தெரிகிறது.
 
 ...
 
 [Data](articles/09e78384.json)
-
-[Extended Data](ext_articles/09e78384.ext.json)
-
----
-
-### Great points of invading Mahinda house
-
-*2025-09-11 12:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-வீட்டுக்கு-படையெடுக்கும்-பெரும்-புள்ளிகள்/175-364418) · `ta`
-
-Former President Mahinda Rajapaksa has reportedly vacated his official residence in Wijerama Road, Colombo today.
-
-Under the rules of the President's Rights Act, the residents allocated to the former presidents must be returned to the government.
-
-Following the Bill passed in Parliament yesterday (10), Rajapakse, who lives in official settlements, lost this right.
-
-◼️
-
-[Data](articles/a26af5d6.json)
-
-[Extended Data](ext_articles/a26af5d6.ext.json)
 
 ---
 
@@ -1118,30 +972,6 @@ The suspect is due to be produced in court with heroin, according to the police 
 
 ---
 
-### Katunayake and Kathuwara launches flights
-
-*2025-09-11 08:57:43* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-හා-කත්මන්ඩු-ගුවන්-ගමන්-යළි-අරඹයි/11-418424) · `si`
-
-The first SriLankan Airlines commenced the Katunayake Airport again on the morning of the Civil Aviation Authority on the morning of the Napaku International Airport on the morning of the Civil Aviation Authority on the morning of 19/11.
-
-With the closure of the international airport on the struggle in Nepal, Sri Lanka and Nepal were suspended between Sri Lanka and Nepal.
-
-According to the officer in charge of the Katunayake airport, the Katunayake Airlines has been provided to the Katunayake Airport on the morning of the morning of the morning of the morning.
-
-SriLankan Airlines resumes the flights to the airline suspended to the aircraft - the first flight.
-
-The flight will be reached at the Katunayake airport at 04.40 pm on the Passoner of Air Force.
-
-SriLankan Airlines operates only only four days, Sundays, Sundays, Sundays, Sunday, Monday, Wednesdays and Thursdays.
-
-◼️
-
-[Data](articles/91a59082.json)
-
-[Extended Data](ext_articles/91a59082.ext.json)
-
----
-
 ### 109 Sri Lankans currently in Nepal are safe, Foreign Ministry confirms
 
 *2025-09-11 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112386/109-sri-lankans-currently-in-nepal-are-safe-foreign-ministry-confirms) · `en`
@@ -2017,5 +1847,167 @@ The Sri Lanka Electricity Act was enacted in June 2024 to modernise the energy s
 [Data](articles/8c4b9adb.json)
 
 [Extended Data](ext_articles/8c4b9adb.ext.json)
+
+---
+
+### PickMe expands into entertainment and lifestyle: Launches QR ticketing for events
+
+*2025-09-11 05:23:12* · [`dailyftlk`](https://www.ft.lk/business/PickMe-expands-into-entertainment-and-lifestyle-Launches-QR-ticketing-for-events/34-781486) · `en`
+
+PickMe has announced its expansion into the entertainment and lifestyle sector with the launch of a QR code ticketing system for events. The new feature allows users to discover, book, and access concerts, theatre, cultural festivals, and educational events, seamlessly through the PickMe app.
+
+Over the past decade, PickMe has grown from a pioneering ride-hailing tech service into a key player in Sri Lanka’s shared economy. The company has expanded its tech capabilities to facilitate services across mobility (cars, three-wheelers, bikes), food and grocery delivery and logistics, including parcel delivery services, and is now entering the events and cultural space to further enhance the country’s digital ecosystem.
+
+...
+
+[Data](articles/28bdae85.json)
+
+[Extended Data](ext_articles/28bdae85.ext.json)
+
+---
+
+### Dialog and MDF renew partnership to expand Govi Mithuru with AI and inclusive farming solutions
+
+*2025-09-11 05:22:53* · [`dailyftlk`](https://www.ft.lk/business/Dialog-and-MDF-renew-partnership-to-expand-Govi-Mithuru-with-AI-and-inclusive-farming-solutions/34-781485) · `en`
+
+From left: MDF Sri Lanka Business Adviser Hiruni Liyanarachchi, Dialog Axiata Group Sustainability Manager – Digital Innovation and Inclusion Tharusha Wanigasekera, Group Chief Corporate Officer Asanga Priyadarshana, Director/Group Chief Executive Supun Weerasinghe, Australian High Commission First Secretary Zoe Kidd, MDF Sri Lanka Country Director Maryam Piracha, Business Adviser Aravind Ganesan, and Dialog Axiata Group Sustainability Assistant Product Manager – Digital Inclusion Madhawee Jayamali
+
+Dialog Axiata PLC has renewed its partnership with the Australian Government-funded Market Development Facility (MDF) to further enhance Govi Mithuru, its agriculture advisory service aimed at tackling key sector challenges and promoting inclusive, AI-driven, and sustainable farming practices across Sri Lanka.
+
+...
+
+[Data](articles/b87dfeaf.json)
+
+[Extended Data](ext_articles/b87dfeaf.ext.json)
+
+---
+
+### Refuse internal and mixed systems
+
+*2025-09-11 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224771) · `ta`
+
+The United Nations Human Rights High Commissioner, by insisting on the constructive process of accountability, is to provide a gap for the Internal System, which will create a threatening position in the backdrop of long -term loss of such internal systems, the diaspora Tamil organizations, which have been fully warned by the human rights organizations and the internal systems of human rights. Request.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva last Monday. The Tamil Information Center, the Tamil Youth Affairs, the Tamil Youth Organization, the International Eelam Tamil Eelam, the Canadian Tamil National Alliance (TNA), the World Tamil Organizations, and the World Tamil Organizations, Britain, the United States, Switzerland, India, India, Australia, Australia Tamil organizations have jointly sent a joint letter to the members of the United Nations Human Rights Council.
+
+...
+
+[Data](articles/f5ca03c9.json)
+
+[Extended Data](ext_articles/f5ca03c9.ext.json)
+
+---
+
+### Ji. V.. Prakash Kumar Poster Poster Poster of Muniskant's Middle Class
+
+*2025-09-11 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224770) · `ta`
+
+Motion poster for the title and film of the new movie 'Middle Class' has been released as a comedian in Tamil cinema, a character actor and a role in the role of famous actor Muniskant's story.. This is a composer and star actor. Prakash Kumar posted on his social network and congratulated the film crew.
+
+Directed by director Kishore Muthumalingam, Muniskant, Vijayalakshmi, Qureshi, Kali Venkat, Radha Ravi, Kodangi Vadivelu, Malavika Avinash, Vela Ramamurthy. Pranav Muniraj has composed the film, which is being recorded by Sudarshan Srinivasan. Producer Dev and K.. V. Durai has co -produced.
+
+The film's debut video has attracted a lot of fans in the Tamil families who are in the backward, lack of daily shortage and desires.
+
+◼️
+
+[Data](articles/7486e8d5.json)
+
+[Extended Data](ext_articles/7486e8d5.ext.json)
+
+---
+
+### The government's attempt to eliminate the privileges of former presidents does not seem to be held to hold provincial council elections - Nisam Kariyapar
+
+*2025-09-11 04:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/224767) · `ta`
+
+The current President of the former President Anura Kumara Dissanayake's salary or pension is not amendment. Opposition member Nizam Kariyapper said the government's attempt to eliminate the privileges of former presidents did not appear to be held to hold the provincial council election.
+
+He said this while addressing the debate on the Bill of the President (Removal) Bill in Parliament on Wednesday (10).
+
+When we examined the Bill, we have stocks regarding the rights given to the widow of former presidents under Act No. 4 of 1986.. It is clear that they are actually referred to as privileges. No attempt has been made yet to change them. That is, the government has taken a stand on the presidential security and rights.
+
+...
+
+[Data](articles/b551ebbd.json)
+
+[Extended Data](ext_articles/b551ebbd.ext.json)
+
+---
+
+### Hill Authority
+
+*2025-09-11 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/224766) · `ta`
+
+We will not close the "Plantation Regional New Villages Development Authority" known as the "Upcountry Authority". Plantation and Social Infrastructure Minister Samantha Vidyaratne has directly confirmed the Tamil Progressive Alliance leader Mano Ganesan.
+
+“We will not close the Plantation Regional New Villages Development Authority, known as the Upcountry Authority.. Minister Samantha Vidyaratne gave me a personal affirmation in Parliament that it will continue to be carried out.
+
+In order to achieve the development of the upcountry plantation people who are in the fields of education, land, home, health, social development, income-venture and poverty alleviation, the work of these various sectors should be combined.. In this regard, the Mountain Authority is the company that has been created by the Act of 2018, which was introduced during our goodwill, based on the need for the Affirmative Policy.
+
+...
+
+[Data](articles/e1287498.json)
+
+[Extended Data](ext_articles/e1287498.ext.json)
+
+---
+
+### Removal of former presidents' privilege; Political Cultural Change - Ananda Wijepala
+
+*2025-09-11 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/224765) · `ta`
+
+The move to eliminate the privileges of the former presidents is the change in political culture and not revenge. Public Security Minister Ananda Wijebala said that if anyone is threatened with security, the concerned committee will be able to obtain the necessary security.
+
+He said this while addressing the debate on the Removal of the President's Removal (Removal) Bill on Wednesday (10) in Parliament.
+
+Changing the political culture in the country is not a revenge on anyone.. It can be referred to as a feature of it. Some of the powers also live their privileges. That political culture has now been put to an end.
+
+We are well aware of the political culture in the country. Everything has been captured. We have now reduced the official home, vehicle license, salary for ministers and salary fuel allowance for MPs.
+
+Some privileges are lost by the Retired President's Rights Act. This is a change in political culture and not revenge.
+
+...
+
+[Data](articles/0630fedf.json)
+
+[Extended Data](ext_articles/0630fedf.ext.json)
+
+---
+
+### Violence: Initially planned against Muslims
+
+*2025-09-11 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224764) · `ta`
+
+The report of the Sri Lanka Human Rights Commission on the issue of violence against the Muslim community in the year 2018, beyond the immediate brutality of local residents for internal chaos in the region, in advance of violence.
+
+A series of violence against Muslims, known as 'Digana riots', began on February 26, 2018 in Ampara, and was spread to the Kandy district by March 2, 2018.. At this time, Muslims, their own shops and homes and schools were targeted and violence unleashed.. The 60 -page inquiry report of the Sri Lanka Human Rights Commission on the incident was released on the first day of the last day following pressure from various sides.
+
+The backdrop of the violence, the confessions gathered from the parties associated with the affairs, the losses and the damage caused by them, the observations of the incident, and the recommendations to prevent such racial violence.
+
+...
+
+[Data](articles/b975748d.json)
+
+[Extended Data](ext_articles/b975748d.ext.json)
+
+---
+
+### Those who were hiding under the war during the war eliminate the peers of former heads of state -Ramanathan Archana
+
+*2025-09-11 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224763) · `ta`
+
+Those who were hiding under the bed during the war eliminate the peers of former heads. Mention Prabhakaran as a terrorist. If Prabhakaran bombed, I apologize for the Jaffna. Committee Member of Parliament Ramanathan Archana said the district independence.
+
+He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
+
+If I speak in Sinhala in Tamil, you will be happy. If possible, raise your hands and refer to Prabhakaran as a terrorist.. Not even one raised his hands.
+
+I can mention that Rohana Wijeweera is not terrorist. Can raise the hands. The Tamil people voted for you as Sinhala Prabhakaran. People do not know Ilangumaran and Chandrasekaran. The Tamil people supported you because you acted against the improper activities of the government in 1988.
+
+...
+
+[Data](articles/ae1a0792.json)
+
+[Extended Data](ext_articles/ae1a0792.ext.json)
 
 ---

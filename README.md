@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 02:36:44**
+As of **2025-09-12 01:55:07**
 
 ## Newspaper Stats
 
-*Scraped **75,469** Articles*
+*Scraped **75,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,323
 adaderanalk | 9,690
-tamilmirrorlk | 11,284
+tamilmirrorlk | 11,283
 virakesarilk | 12,301
 adaderanasinhalalk | 13,144
 
@@ -26,27 +26,9 @@ adaderanasinhalalk | 13,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,873 (89.9%) of 75,469 articles have been extended.
+67,856 (89.9%) of 75,468 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-09-12 (Friday)
-
-### ’உள்ளகப் பொறிமுறையை ஒருபோதும் ஏற்கோம்’
-
-*2025-09-12 02:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்ளகப்-பொறிமுறையை-ஒருபோதும்-ஏற்கோம்/175-364448) · `ta`
-
-உள்ளகப் பொறிமுறையை ஒருபோதும் தாம் ஏற்றுக்கொள்ள மாட்டோம் என்றும், இந்த விடயத்தில் அரசாங்கம் நியாயமாக நடந்துகொள்ளும் என்று நம்புகின்றோம் என்றும் ஜனநாயக தமிழ்த் தேசியக் கூட்டணி பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் வியாழக்கிழமை (11) நடைபெற்ற தேசிய கணக்காய்வு திருத்தச் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
-
-ஐநா தீர்மானம் மிக இறுக்கமாகியுள்ளது. எங்கள் மக்களுக்கு இழைக்கப்பட்ட அநீதிக்கு நியாயத்தை கோரும் வகையில் ஐநா தீர்மானம் மிகவும் வலுவாக இருக்கும் நிலைமையில், வெளிவிவகார அமைச்சர் உள்ளக பொறிமுறையில் மனித உரிமை மீறல் தொடர்பான விடயங்களை கையாளப் போவதாக கூறுகின்றார். அது எப்படி சுடச் சொன்னவரை காப்பாற்றிவிட்டு சுட்டவரை விசாரிப்பதா? களவெடுக்க சொன்னவனை விட்டுவிட்டு களவெடுத்தவனை விசாரிப்பதா? எங்களை பொறுத்தவரையில் உள்ளக விசாரணைகளை நாங்கள் ஒருபோதும் ஏற்க மாட்டோம். சர்வதேச கண்காணிப்புடன் விசாரணைகள் நடக்க வேண்டும். அரசாங்கம் நியாயமாக நடந்துகொள்ளும் என்று நம்புகின்றோம்.
-
-...
-
-[Data](articles/c9466271.json)
-
----
 
 ### 2025-09-11 (Thursday)
 
@@ -2067,5 +2049,27 @@ There was a warm quality of Parliament as a result of the government and the opp
 [Data](articles/96cf026e.json)
 
 [Extended Data](ext_articles/96cf026e.ext.json)
+
+---
+
+### Mahinda is going to leave the official residence
+
+*2025-09-11 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224790) · `ta`
+
+All the special gifts have been canceled to the former presidents.
+
+Former President Mahinda Rajapaksa is expected to leave his official residence in Wijerama Mawatha on Thursday.
+
+Former President Mahinda Rajapakse has decided to leave his official residence immediately following the passage of the Bill of Wednesday in Parliament.
+
+Accordingly, Mahinda Rajapaksa, who is leaving his official residence in Wijerama Mawatha, Colombo 07, will go to the Tangalle Carlton residence.
+
+It has been reported that former President Maithripala Sirisena has already left his official residence.
+
+◼️
+
+[Data](articles/0bf833b9.json)
+
+[Extended Data](ext_articles/0bf833b9.ext.json)
 
 ---

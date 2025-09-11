@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 13:40:22**
+As of **2025-09-11 12:55:43**
 
 ## Newspaper Stats
 
-*Scraped **75,372** Articles*
+*Scraped **75,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,567
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,307
+adalk | 7,306
 adaderanalk | 9,671
-tamilmirrorlk | 11,266
+tamilmirrorlk | 11,265
 virakesarilk | 12,287
 adaderanasinhalalk | 13,126
 
@@ -26,51 +26,25 @@ adaderanasinhalalk | 13,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,128 (89.1%) of 75,372 articles have been extended.
+67,089 (89.0%) of 75,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### 5 people, including finance minister in Indonesia
-
-*2025-09-11 12:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தோனேசியாவில்-நிதி-அமைச்சர்-உட்பட-5-பேர்-நீக்கம்/50-364424) · `ta`
-
-Meanwhile, MPs were given various concessions, including salary and housing rent.
-
-In particular, the salaries of MPs have been paid Rs 5 lakh, with personal income at around Rs.
-
-Seven people were killed in violence at the time. This reduced the salaries and privileges of MPs.
-
-Moreover, President Prabhao Subiyanto announced a change in the ministerial council as the people were dissatisfied with the government.
-
-Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati and Army Minister Pudi Gunawan, have been sacked.
-
-◼️
-
-[Data](articles/36eab847.json)
-
-[Extended Data](ext_articles/36eab847.ext.json)
-
----
-
-### Who is this Charlie Kirk?
+### யார் இந்த சார்லி கிர்க்?
 
 *2025-09-11 12:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/யார்-இந்த-சார்லி-கிர்க்/50-364421) · `ta`
 
-Charlie Kirk, a right -wing supporter, commentator, co -founder of Turning Point USA, who was participating in a question -and -a -launch event with students at Uda University in the United States, was shot dead above all.
+அமெரிக்காவின் உடா பல்கலைக்கழகத்தில் நடந்த மாணவர்களுடனான கேள்வி பதில் நிகழ்ச்சியில் பங்கேற்றிருந்த சார்லி கிர்க் என்ற வலதுசாரி ஆதரவாளர், வர்ணனையாளர், ‘டர்னிங் பாயின்ட் யுஎஸ்ஏ’ நிறுவனத்தின் இணை நிறுவனர், அனைத்துக்கும் மேலாக ட்ரம்ப்பின் ஆதரவாளர் சுட்டுக் கொல்லப்பட்டார்.
 
-Video footage of the event he was assassinated is going viral on the internet. The ruling party and the opposition have condemned the murder of Charlie Kirk. US President Trump has vehemently condemned the incident and said he had been severely suffering from the death of his supporter.
+அவர் படுகொலை செய்யப்பட்ட நிகழ்வு அடங்கிய வீடியோக் காட்சிகள் இணையத்தில் வைரலாகி வருகின்றன. சார்லி கிர்க் கொலைக்கு ஆளும் கட்சியும், எதிர்க்கட்சியும் கடும் கண்டனங்களை தெரிவித்துள்ளன. அமெரிக்க ஜனாதிபதி ட்ரம்ப் இந்தச் சம்பவத்தை வன்மையாகக் கண்டித்ததோடு, தனது ஆதரவாளரின் மரணத்தால் கடும் துன்பமடைந்துள்ளதாகத் தெரிவித்துள்ளார்.
 
-Earlier, Charlie Kirk, who was shot at the show, was immediately taken to the hospital by ambulance, but doctors seem to have said that he was already dead.
-
-The holiday has been announced until the 15th of this month.. The police who caught someone in this regard and released him. The search for the killer is underway.
+முன்னதாக, நிகழ்ச்சியில் சுடப்பட்ட சார்லி கிர்க் உடனடியாக ஆம்புலன்ஸ் வாகனத்தின் மூலம் மருத்துவமனைக்குக் கொண்டு செல்லப்பட்டதாகவும், ஆனால் அவர் ஏற்கெனவே இறந்துவிட்டதாக மருத்துவர்கள் கூறியதாகவும் தெரிகிறது.
 
 ...
 
 [Data](articles/09e78384.json)
-
-[Extended Data](ext_articles/09e78384.ext.json)
 
 ---
 
@@ -995,30 +969,6 @@ The suspect is due to be produced in court with heroin, according to the police 
 [Data](articles/96d50270.json)
 
 [Extended Data](ext_articles/96d50270.ext.json)
-
----
-
-### Katunayake and Kathuwara launches flights
-
-*2025-09-11 08:57:43* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-හා-කත්මන්ඩු-ගුවන්-ගමන්-යළි-අරඹයි/11-418424) · `si`
-
-The first SriLankan Airlines commenced the Katunayake Airport again on the morning of the Civil Aviation Authority on the morning of the Napaku International Airport on the morning of the Civil Aviation Authority on the morning of 19/11.
-
-With the closure of the international airport on the struggle in Nepal, Sri Lanka and Nepal were suspended between Sri Lanka and Nepal.
-
-According to the officer in charge of the Katunayake airport, the Katunayake Airlines has been provided to the Katunayake Airport on the morning of the morning of the morning of the morning.
-
-SriLankan Airlines resumes the flights to the airline suspended to the aircraft - the first flight.
-
-The flight will be reached at the Katunayake airport at 04.40 pm on the Passoner of Air Force.
-
-SriLankan Airlines operates only only four days, Sundays, Sundays, Sundays, Sunday, Monday, Wednesdays and Thursdays.
-
-◼️
-
-[Data](articles/91a59082.json)
-
-[Extended Data](ext_articles/91a59082.ext.json)
 
 ---
 
@@ -2021,5 +1971,43 @@ Some privileges are lost by the Retired President's Rights Act. This is a change
 [Data](articles/0630fedf.json)
 
 [Extended Data](ext_articles/0630fedf.ext.json)
+
+---
+
+### Violence: Initially planned against Muslims
+
+*2025-09-11 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224764) · `ta`
+
+The report of the Sri Lanka Human Rights Commission on the issue of violence against the Muslim community in the year 2018, beyond the immediate brutality of local residents for internal chaos in the region, in advance of violence.
+
+A series of violence against Muslims, known as 'Digana riots', began on February 26, 2018 in Ampara, and was spread to the Kandy district by March 2, 2018.. At this time, Muslims, their own shops and homes and schools were targeted and violence unleashed.. The 60 -page inquiry report of the Sri Lanka Human Rights Commission on the incident was released on the first day of the last day following pressure from various sides.
+
+The backdrop of the violence, the confessions gathered from the parties associated with the affairs, the losses and the damage caused by them, the observations of the incident, and the recommendations to prevent such racial violence.
+
+...
+
+[Data](articles/b975748d.json)
+
+[Extended Data](ext_articles/b975748d.ext.json)
+
+---
+
+### Those who were hiding under the war during the war eliminate the peers of former heads of state -Ramanathan Archana
+
+*2025-09-11 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224763) · `ta`
+
+Those who were hiding under the bed during the war eliminate the peers of former heads. Mention Prabhakaran as a terrorist. If Prabhakaran bombed, I apologize for the Jaffna. Committee Member of Parliament Ramanathan Archana said the district independence.
+
+He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
+
+If I speak in Sinhala in Tamil, you will be happy. If possible, raise your hands and refer to Prabhakaran as a terrorist.. Not even one raised his hands.
+
+I can mention that Rohana Wijeweera is not terrorist. Can raise the hands. The Tamil people voted for you as Sinhala Prabhakaran. People do not know Ilangumaran and Chandrasekaran. The Tamil people supported you because you acted against the improper activities of the government in 1988.
+
+...
+
+[Data](articles/ae1a0792.json)
+
+[Extended Data](ext_articles/ae1a0792.ext.json)
 
 ---

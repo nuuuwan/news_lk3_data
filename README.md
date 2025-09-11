@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 22:21:09**
+As of **2025-09-11 22:09:18**
 
 ## Newspaper Stats
 
@@ -36,7 +36,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-11 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214455) · `si`
 
-කරන්දෙනිය පොලිස් වසමේ කොටව ප්‍රදේශයේ දී මවක සහ පුතෙකු කපාකොටා ඝාතනය කර තිබේ.
+කරණ්දෙනිය පොලිස් වසමේ කොටවෙ ප්‍රදේශයේ දී මවක සහ පුතෙකු කපාකොටා ඝාතනය කර තිබේ.
 
 ඔවුන් සිය නිවෙස තුළ සිටියදී මෙම ඝාතනය සිදු කර ඇති බව වාර්තා වේ.
 

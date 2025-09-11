@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 02:54:08**
+As of **2025-09-12 03:55:05**
 
 ## Newspaper Stats
 
-*Scraped **75,469** Articles*
+*Scraped **75,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ dailyftlk | 5,348
 adalk | 7,323
 adaderanalk | 9,690
 tamilmirrorlk | 11,284
-virakesarilk | 12,301
+virakesarilk | 12,304
 adaderanasinhalalk | 13,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,884 (89.9%) of 75,469 articles have been extended.
+67,913 (90.0%) of 75,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### 72 பாதாள குழு  உறுப்பினர்களை கைது செய்ய சிவப்பு அறிவிப்பு - ஆனந்த விஜேபால
+
+*2025-09-12 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224864) · `ta`
+
+இந்தோனேசியாவில் கைது செய்யப்பட்டு நாட்டுக்கு அழைத்து வரப்பட்டவர்களிடமிருந்து பெற்றுக்கொள்ளப்பட்ட தகவல்களுக்கமைய கம்பஹா பகுதியில் உப பொலிஸ் பரிசோதகர் ஒருவரும்,மல்லாவி  பாலைநகர் பகுதியில் இராணுவ அதிகாரி ஒருவரும் கைது செய்யப்பட்டுள்ளனர். விசாரணைகள் தீவிரமான முறையில் முன்னெடுக்கப்படுகிறது.பாதாள குழுக்களுடன் தொடர்புடைய எவரும் தப்பித்துச் செல்ல இடமளிக்க முடியாது.வெளிநாடுகளில் பதுங்கியுள்ள பாதாள குழுக்களின் 72 உறுப்பினர்களை கைது செய்வதற்கு  சிவப்பு அறிவிப்பு பிறப்பிக்கப்பட்டுள்ளது என்று பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (11) நடைபெற்ற அமர்வில் சபை ஒத்திவைப்பு வேளையின் போது நாட்டின் சட்டம் மற்றும் ஒழுங்கு தொடர்பில் ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் சாந்த பத்மகுமார முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/63ca35c8.json)
+
+---
+
+### The date for the provincial council election cannot be said - Minister Sandana Abeyratne
+
+*2025-09-12 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/224863) · `ta`
+
+We will take appropriate measures to hold the provincial council election.. Minister Sandana Abeyratne said that the provincial councils and local councils, the general administration, said that the provincial council elections will be held without delay after the legal problem.
+
+Following the session held in Parliament on Thursday (11), the government promised to hold the election of the Provincial Council, Rasamanikam Chanakyan, a member of the Batticaloa district of the Sri Lanka TNA.
+
+The Tamil people also believed. But the government has not taken proper measures to hold the provincial council election. So when have you decided to hold the provincial council election,?
+
+Responding to this, the provincial councils and local councils, Minister Sandana Abeyratne, will take appropriate measures to hold the provincial council election.
+
+...
+
+[Data](articles/fdf371a4.json)
+
+[Extended Data](ext_articles/fdf371a4.ext.json)
+
+---
+
+### Valluvar Statue opened in Jaffna!
+
+*2025-09-12 02:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/224862) · `ta`
+
+A statue of Tiruvalluvar has been opened at Valluvar Society at Valikamam North Mavittapuram Community Center.
+
+Former Pradeshiya Sabha member KS, Ajit Kumar's mother's birthday has been opened.
+
+இதில் சனசமூக நிலைய நிர்வாகத்தினர், கிராம மக்கள், சமூக செயற்பாட்டாளர்கள் என பலரும் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d79e2d8b.json)
+
+[Extended Data](ext_articles/d79e2d8b.ext.json)
+
+---
 
 ### Never accept the internal mechanism
 
@@ -616,7 +668,11 @@ He stated that they will be brought back to Sri Lanka once security issues are c
 
 The minister revealed this while delivering a statement in the Parliament on Thursday (11).
 
-◼️
+He further stated that from January 01 this year to date, 11 organised criminals who were hiding abroad have been arrested and brought back to the country.
+
+Minister Wijepala revealed that from January this year to September 10, a total of 105 organised crimes have been reported and that a total of 322 suspects have been arrested in connection with those incidents, including 33 shooters, 24 motorcycle riders and 265 suspects accused of aiding and abetting.
+
+...
 
 [Data](articles/b11e9677.json)
 
@@ -1626,7 +1682,15 @@ In response to CNA’s queries, Budget airline Scoot on Thursday said its flight
 
 *2025-09-11 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112400/ex-director-general-of-uda-sumedha-ratnayake-arrested-by-bribery-commission) · `en`
 
-Former Director General of the Urban Development Authority (UDA) Sumedha Ratnayake and former Director (Lands) of the UDA have been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption.
+Former Director General of the Urban Development Authority (UDA) Sumedha Ratnayake and former Director (Lands) of the UDA Weerawansa Perera have been arrested over alleged financial misappropriation of state funds.
+
+The duo has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 9:30 a.m. this morning (11).
+
+According to investigations by the Bribery Commission, a 55.5-perch plot of UDA-owned land located at Mayura Place, Colombo 05, had been leased out on a temporary rental basis, resulting in a financial loss of over Rs. 29.5 million to the UDA.
+
+They are alleged to have committed an offence of corruption in connection with the land transaction, the Bribery Commission stated.
+
+The arrested individuals are scheduled to be produced before the Colombo Chief Magistrate’s Court.
 
 ◼️
 
@@ -2015,59 +2079,5 @@ The suspect sub-inspector has been arrested on information revealed.
 [Data](articles/22c52bc3.json)
 
 [Extended Data](ext_articles/22c52bc3.ext.json)
-
----
-
-### Judge visited the human burial ground
-
-*2025-09-11 11:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மனிதப்-புதைகுழிக்கு-நீதிபதி-விஜயம்/175-364415) · `ta`
-
-Top officials, including the judge, visited the site where the priests were located in the monastery.
-
-The case was taken up at the Kaluwanchikudi Magistrate's Court on Thursday (11) for the murder of Muslims and armed priests who traveled to Kattankudi via Kalmunai after completing the holy Hajj pilgrimage in 1990.
-
-In the presence of Justice JPA Ranjit Kumar, the bodies of the relevant persons were buried and identified, the Divisional Secretary, the Divisional Council of the Manmunai South Eruvil, the Divisional Council, the Police, the Disappeared Office, the Assistant Officers, the Forensic Police, the Forensic Police, and many others.
-
-The Kaluwanchikudi Magistrate's Court has already ordered the excavation of human remains buried at the scene.
-
-The court has already ordered the police to set up a security zone for the police.
-
-◼️
-
-[Data](articles/59dba288.json)
-
-[Extended Data](ext_articles/59dba288.ext.json)
-
----
-
-### ‘Podi Manike’ derails between Haliela and Badulla stations
-
-*2025-09-11 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112394/podi-manike-derails-between-haliela-and-badulla-stations-) · `en`
-
-Train services along the Upcountry Railway Line have been disrupted owing to the derailment of the ‘Podi Manike’ train (1006) which was traveling from the Badulla Railway Station to Kandy and Colombo Fort at around 8.50 a.m.
-
-The derailment occurred between Badulla and Haliela railway stations at around 09.10 am, the Department of Railways said.
-
-Accordingly, the Department of Railways stated that the trains plying along the Upcountry Railway Line will experience delays.
-
-◼️
-
-[Data](articles/f5a3af7f.json)
-
-[Extended Data](ext_articles/f5a3af7f.ext.json)
-
----
-
-### Parliament is hot
-
-*2025-09-11 11:36:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-උණුසුම්/11-418426) · `si`
-
-There was a warm quality of Parliament as a result of the government and the opposition.
-
-◼️
-
-[Data](articles/96cf026e.json)
-
-[Extended Data](ext_articles/96cf026e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 17:05:43**
+As of **2025-09-11 16:53:07**
 
 ## Newspaper Stats
 
-*Scraped **75,417** Articles*
+*Scraped **75,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,570
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,316
+adalk | 7,315
 adaderanalk | 9,681
 tamilmirrorlk | 11,275
 virakesarilk | 12,293
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,350 (89.3%) of 75,417 articles have been extended.
+67,350 (89.3%) of 75,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,20 +91,6 @@ According to the former President's Removal Removal Act, former President Mahind
 [Data](articles/b64095ef.json)
 
 [Extended Data](ext_articles/b64095ef.ext.json)
-
----
-
-### අගක් මුලක් නොදැන නේපාල තරුණයින් රට විනාශ කළා
-
-*2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
-
-සමාජ මාධ්‍ය යහපත් දේට යොදාගත යුතු බවට නේපාලයට අද වන විට පාඩමක් කියාදී තිබෙනන බවත් එහි තරුණ පිරිස තම රට ගැන අගක් මුලක් මෙන්ම ඉතිහාසයක් නොදැන එම රට විනාශයට පත් කොට ඇති බව මහා විහාර වංශික ස්‍යාමෝපාලි මහානිකායේ අස්ගිරි පාර්ශවයේ අනූනායක පූජ්‍ය වේඩරුවේ උපාලි නාහිමියන් මාධ්‍ය නිවේදනයක් නිකුත් කරමින් කියා සිටී.
-
-නේපාලයේ ඇතිවූ අතිශය කණගාටුදායක සිදුවීම් මාලාව පිළිබඳව අප මහත්සේ කම්පනයට පත් වූවා. අප බුදුපියාණන් වහන්සේ උපන් දේශයේ මෙවැනි ශෝචනීය දරුණු කැරැල්ලක් නිර්මාණය වී ඇති වූ සංවේග ජනක සිදුවීම් මාලාව කිසිසේත් සුළු කොට තැකිය නොහැකියි.
-
-...
-
-[Data](articles/7c573b26.json)
 
 ---
 
@@ -2037,5 +2023,27 @@ But shares in Musk’s most valuable business, Tesla, have fallen this year.
 [Data](articles/abb5e600.json)
 
 [Extended Data](ext_articles/abb5e600.ext.json)
+
+---
+
+### Fire at Sapugaskanda Oil Refinery contained
+
+*2025-09-11 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112383/fire-at-sapugaskanda-oil-refinery-contained) · `en`
+
+The fire that broke out at the Sapugaskanda Oil Refinery yesterday (10) has now been fully brought under control.
+
+Reports state that multiple fire engines, including seven from the Colombo Fire Brigade, were deployed to contain the fire.
+
+The fire had erupted last evening in a fuel tank undergoing maintenance work at the refinery.
+
+According to Ada Derana reporters, it took a considerable amount of time to bring the fire under control.
+
+A local investigation is scheduled to take place today (11) to determine the cause.
+
+◼️
+
+[Data](articles/7f3ce93d.json)
+
+[Extended Data](ext_articles/7f3ce93d.ext.json)
 
 ---

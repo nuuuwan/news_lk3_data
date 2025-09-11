@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 01:55:07**
+As of **2025-09-12 03:05:46**
 
 ## Newspaper Stats
 
-*Scraped **75,468** Articles*
+*Scraped **75,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,323
 adaderanalk | 9,690
-tamilmirrorlk | 11,283
+tamilmirrorlk | 11,284
 virakesarilk | 12,301
 adaderanasinhalalk | 13,144
 
@@ -26,9 +26,29 @@ adaderanasinhalalk | 13,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,856 (89.9%) of 75,468 articles have been extended.
+67,892 (90.0%) of 75,469 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-12 (Friday)
+
+### Never accept the internal mechanism
+
+*2025-09-12 02:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்ளகப்-பொறிமுறையை-ஒருபோதும்-ஏற்கோம்/175-364448) · `ta`
+
+Democratic Tamil National Alliance (TNA) parliamentarian Selvam Adakkalanathan said that he would never accept the internal mechanism and that the government would act fairly on this issue.
+
+He said this while addressing the debate on the National Audit Amendment Bill held in Parliament on Thursday (11).
+
+The UN resolution is very tight. In order to justify the injustice inflicted on our people, the UN resolution is so strong that the Foreign Minister is going to deal with human rights violations in the internal mechanism.. How do you save the man who shot and inquire? Leave the man who told him to investigate the field? We will never accept internal investigations for us. Investigations should be held with international surveillance. We hope the government will act fairly.
+
+...
+
+[Data](articles/c9466271.json)
+
+[Extended Data](ext_articles/c9466271.ext.json)
+
+---
 
 ### 2025-09-11 (Thursday)
 
@@ -2049,27 +2069,5 @@ There was a warm quality of Parliament as a result of the government and the opp
 [Data](articles/96cf026e.json)
 
 [Extended Data](ext_articles/96cf026e.ext.json)
-
----
-
-### Mahinda is going to leave the official residence
-
-*2025-09-11 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224790) · `ta`
-
-All the special gifts have been canceled to the former presidents.
-
-Former President Mahinda Rajapaksa is expected to leave his official residence in Wijerama Mawatha on Thursday.
-
-Former President Mahinda Rajapakse has decided to leave his official residence immediately following the passage of the Bill of Wednesday in Parliament.
-
-Accordingly, Mahinda Rajapaksa, who is leaving his official residence in Wijerama Mawatha, Colombo 07, will go to the Tangalle Carlton residence.
-
-It has been reported that former President Maithripala Sirisena has already left his official residence.
-
-◼️
-
-[Data](articles/0bf833b9.json)
-
-[Extended Data](ext_articles/0bf833b9.ext.json)
 
 ---

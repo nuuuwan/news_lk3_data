@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 18:57:52**
+As of **2025-09-11 17:05:43**
 
 ## Newspaper Stats
 
-*Scraped **75,430** Articles*
+*Scraped **75,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,285 +12,69 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,571
+economynextcom | 4,570
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,319
-adaderanalk | 9,685
-tamilmirrorlk | 11,277
+adalk | 7,316
+adaderanalk | 9,681
+tamilmirrorlk | 11,275
 virakesarilk | 12,293
-adaderanasinhalalk | 13,137
+adaderanasinhalalk | 13,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,432 (89.4%) of 75,430 articles have been extended.
+67,350 (89.3%) of 75,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### 15 underworld members of 4 countries
-
-*2025-09-11 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214450) · `si`
-
-15 Sri Lankan underworld members with red announcements were arrested in Russia, Oman, Dubai and India.
-
-Public Defense Minister Ananda Wijepala said this in parliament today (11).
-
-Accordingly, the underworld members will be brought to Sri Lanka as soon as they will complete their legal action.
-
-"I have arrested 11 organized criminals who have hiddenly hiddenly abroad from 01.01. to date.
-
-105 organized crimes have been reported from January to 31.05.2012. 322 suspects have been arrested as 265 suspects on the incidents on these incidents.
-
-A total of 169 t5s, 33 cubits, six weapons, 6 and other arms, three pistols, 6 wire, three pistol weapons, 631.
-
-It is revealed that organized criminals are hiding in Italy, France, Switzerland, Dubai, Indonesia, Canada, Canada, Canada, Canada, Russia, Oman and India.
-
-Fifteen people who have been identified as leading criminals and drug dealers have been identified as the drug dealers and the drug dealers have been arrested by Russia, Oman, Dubai.
-
-◼️
-
-[Data](articles/84e3f41d.json)
-
-[Extended Data](ext_articles/84e3f41d.ext.json)
-
----
-
-### Army officer who sold ammunition to commando Salinda
-
-*2025-09-11 17:41:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமாண்டோ-சலிந்தவுக்கு-வெடிமருந்து-விற்ற-இராணுவ-அதிகாரி/175-364439) · `ta`
-
-A military Lieutenant Colonel has been arrested today (11) by the Western North Crime Division for allegedly selling T56 ammunition to an organized offender named Commando Salinda.
-
-At the time of the arrest of the army officer, he was serving as the command officer of the military camp in Mullaitivu.
-
-When he was the commander of the Ganmemulla commando regiment, he was accused of selling 260 T56 ammunition to Commando Salinda for Rs 650,000 in two cases.
-
-The arrested army officer is to be handed over to the Criminal Investigation Department for further investigations.
-
-◼️
-
-[Data](articles/68511cdd.json)
-
-[Extended Data](ext_articles/68511cdd.ext.json)
-
----
-
-### An army boss arrested for Commando Salini
-
-*2025-09-11 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214449) · `si`
-
-The Western Province North Criminal was arrested today (11) a military lieutenant kernel to marke T56 ammunition, an organized criminal.
-
-The army officer was serving as Commanding Officer of the Palvi Army Camp in Mullaittivu.
-
-Commando Salini has been allegedly sales at Rs. 6.5 lakhs of Rs.
-
-The army officer is due to be handed over to the CID for further investigations.
-
-◼️
-
-[Data](articles/b5d773f0.json)
-
-[Extended Data](ext_articles/b5d773f0.ext.json)
-
----
-
-### Mahinda was Tangalle Carlton
-
-*2025-09-11 17:15:49* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-තංගල්ල-කාල්ටන්-නිවසට/11-418441) · `si`
-
-Former President Mahinda Rajapaksa who left Wijerama official residence visited Tangalle Carlton house. He joined the Carlton House in Tangalle
-
-◼️
-
-[Data](articles/2f6e7a7c.json)
-
-[Extended Data](ext_articles/2f6e7a7c.ext.json)
-
----
-
-### "Prabhakaran is floating in happiness"
-
-*2025-09-11 17:11:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-மகிழ்ச்சியில்-மிதந்து-இருப்பார்/175-364437) · `ta`
-
-Former President's spokesman and lawyer Manoj Kamage said that if LTTE leader Velupillai Prabhakaran was still alive today, he would be happy with the manner in which the government had conducted Mahinda Rajapaksa.
-
-The LTTE forced Mahinda Rajapakse to vacate its official residence in Colombo to fulfill the promises made by the LTTE more than the promises made to the people during the election campaign.
-
-"At the time of the country faced the most pressing problems, the government threatened the former president and forced him to leave his official home," Kamage said.
-
-◼️
-
-[Data](articles/780eda78.json)
-
-[Extended Data](ext_articles/780eda78.ext.json)
-
----
-
-### The body of a person who died in mysteriously meets
-
-*2025-09-11 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214448) · `si`
-
-The body of a person who died was found in a house in Thambuththegama.
-
-The victim was a 49 year old resident of Rajanganaya.
-
-The deceased is a retired Air Force Soldier and has been living alone from his wife and her child.
-
-The man's wife had lodged a complaint with the police that his master had died in the house.
-
-She added that her husband had made a family dispute with a relative a few days ago.
-
-However, the police suspect that he may have died a few days ago and the Thambuttegama police are conducting further investigations.
-
-◼️
-
-[Data](articles/2447bd44.json)
-
-[Extended Data](ext_articles/2447bd44.ext.json)
-
----
-
-### Bail for both UDA top officials
+### UDA உயர் அதிகாரிகள்  இருவருக்கும் பிணை
 
 *2025-09-11 16:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UDA-உயர்-அதிகாரிகள்-இருவருக்கும்-பிணை/175-364436) · `ta`
 
-Colombo Chief Magistrate Asanga Asanga Asanga Asanga Asanga has released the two suspects, former Land Director General of Urban Development Authority (STF), Sampath Sumedha Poojitha Ratnayake and former Land Director Weerawansa Perera, who was arrested for allegedly causing a loss of over Rs 29.5 million for the government.. Podarakama ordered on Thursday (11).
+அரசாங்கத்திற்கு 29.5 மில்லியன் ரூபாவிற்கு மேல் நஷ்டத்தை ஏற்படுத்தியதாக கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட நகர அபிவிருத்தி அதிகாரசபையின் முன்னாள் காணி பணிப்பாளர் நாயகம் சம்பத் சுமேத பூஜித ரத்நாயக்க மற்றும் முன்னாள் காணி பணிப்பாளர் வீரவன்ச பெரேரா ஆகிய இரு சந்தேக நபர்களையும் பிணையில் விடுவிக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம வியாழக்கிழமை (11) உத்தரவிட்டார்.
 
-The magistrate imposed a cash bail of Rs 100,000 and Rs 2.5 million each and banned the suspects from going abroad.
+தலா 100,000 ரூபாய் ரொக்கப் பிணையையும் தலா 2.5 மில்லியன் ரூபாய் தனிப்பட்ட பிணையையும் விதித்த நீதவான், சந்தேக நபர்கள் வெளிநாடு செல்வதற்கு தடை விதித்தார்.
 
-In 2016, Colombo, Colombo 05, belonging to the Urban Development Authority (Colombo), the City Development Authority (CBI) has issued a suspects for bribery or corruption for the loss of 29,519,666.16 rupees for the City Development Authority.
+2016 ஆம் ஆண்டு நகர அபிவிருத்தி அதிகாரசபைக்குச் சொந்தமான கொழும்பு 05, மயூர வெதவாசவில் அமைந்துள்ள 55.5 பேர்ச்சர்ஸ் நிலத்தை தற்காலிக குத்தகை அடிப்படையில் வழங்கி ஊழல் குற்றங்களைச் செய்ததற்காகவும், நகர அபிவிருத்தி அதிகாரசபைக்கு 29,519,666.16 ரூபாயை இழந்ததற்காகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு சந்தேக நபர்களை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்தியது.
 
 ◼️
 
 [Data](articles/c9a52916.json)
 
-[Extended Data](ext_articles/c9a52916.ext.json)
-
 ---
 
-### Floods in Indonesia
+### ඉන්දුනීසියාවේ ගංවතුරින්  මියගිය ගණන ඉහළට
 
 *2025-09-11 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214447) · `si`
 
-The floods affected by the Bali Islands in Indonesia have risen to 14 people.
+ඉන්දුනීසියාවේ බාලි දූපත්වලට බලපා ඇති ගංවතුර ආපදා තත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 14 දෙනෙකු දක්වා ඉහළ ගොස් තිබේ.
 
-Foreign media reports say that two disadvantaged persons will be recovered further to find out.
+ආපදා තත්වය හේතුවෙන් අතුරුදන් වූ පුද්ගලයින් දෙදෙනෙකු සොයා තවදුරටත් මෙහෙයුම් සිදුකරන බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
 
-The rain drawn to Bali islands has been reduced and the floods have been reduced by now.
+බාලි දූපත්වලට ඇදහැලෙන වර්ෂාව මේ වන විට අඩු වී ඇති අතර පැවති ගංවතුර තත්වය ද මේ වන විට ක්‍රමයෙන් අඩුවෙමින් පවතින බව වාර්තා වේ.
 
-However, foreign media reports that more than 500 people have been referred to safe locations due to floods.
+කෙසේ වෙතත් විදෙස් මාධ්‍ය වාර්තා කළේ ගංවතුර හේතුවෙන් පුද්ගලයින් 500කට අධික පිරිසක් ආරක්ෂිත ස්ථාන කරා යොමුකර ඇති බවය.
 
 ◼️
 
 [Data](articles/0d7ffac5.json)
 
-[Extended Data](ext_articles/0d7ffac5.ext.json)
-
 ---
 
-### Former Minister Prasanna Ranatunga withdraws appeal
-
-*2025-09-11 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112407/former-minister-prasanna-ranatunga-withdraws-appeal-) · `en`
-
-Former Minister Prasanna Ranatunga’s attorneys have withdrawn an appeal filed on behalf of him with the Court of Appeal seeking an order to acquit him of the suspended prison sentence and fines imposed on him.
-
-The appeal was taken up today (11) before a five-member bench of the Appellate Court, comprising Justices Mayadunne Corea, S. Kumaran Ratnam, Shashi Mahendran, Damith Thotawatte and Amal Ranaraja, Ada Derana reporter said.
-
-Accordingly, the bench of the Court of Appeal, which granted former minister Prasanna Ranatunga time to pay the fine of Rs. 25 million in installments, later granted permission to withdraw the appeal.
-
-Ranatunga was accused of threatening a businessman and demanding Rs. 64 million to evict unauthorized occupants from a land in the Meethotamulla area in Kolonnawa and to refill the land, during his tenure as Chief Minister of the Western Province.
-
-◼️
-
-[Data](articles/fda6e785.json)
-
-[Extended Data](ext_articles/fda6e785.ext.json)
-
----
-
-### Sichi, who departed before Mahinda
+### மஹிந்தவுக்கு முன்னரே புறப்பட்ட   ’சிச்சி’
 
 *2025-09-11 16:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-முன்னரே-புறப்பட்ட-சிச்சி/175-364435) · `ta`
 
-Rohitha Rajapakse, the youngest son of former President Mahinda Rajapaksa, called 'Sichi', left the official residence of the former president on Wijerama Road, Colombo a moment before the former president vacated.
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இளைய மகன், 'சிச்சி' என்று அழைக்கப்படும் ரோஹித ராஜபக்ஷ, இன்று (11) பிற்பகல், முன்னாள் ஜனாதிபதி வீட்டை காலி செய்வதற்கு ஒரு கணம் முன்பு, கொழும்பு விஜேராம வீதியில் உள்ள முன்னாள் ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேறினார்.
 
 ◼️
 
 [Data](articles/f724ba93.json)
-
-[Extended Data](ext_articles/f724ba93.ext.json)
-
----
-
-### Here are the former Presidents used in quarters
-
-*2025-09-11 16:19:37* · [`adalk`](https://www.ada.lk/breaking_news/නිල-නිවාසවල-භාවිත-කළ-හිටපු-ජනපතිවරු-මෙන්න/11-418438) · `si`
-
-There were only five former chiefs, but only three former chiefs.
-
-Accordingly, former President Mahinda Rajapaksa. Mrs. Former President Maithripala Sirisena and former President Chandrika Bandaranaike Kumaratunga were used.
-
-Former President Mahinda Rajapaksa has left the official residence today, according to the Task Removal Act of the approved President's Title Removal Act and former President Maithripala Sirisena has left the house yesterday.
-
-Former President Chandrika Bandaranaike Kumaratunga has also been asked to leave the official residence.
-
-Former President members, Gotabhaya Rajapaksa and Ranil Wickremesinghe live in their private houses.
-
-Former President Ries. Mr. Hema Premadasa and Mrs. Hema Premadasa and her residence, she left her.
-
-◼️
-
-[Data](articles/35286550.json)
-
-[Extended Data](ext_articles/35286550.ext.json)
-
----
-
-### Sri Lanka sells Rs116.16bn in bonds after offering Rs155bn
-
-*2025-09-11 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs116-16bn-in-bonds-after-offering-rs155bn-240221/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 116.16 billion rupees in 2030, 2032 and 2035 bonds, of an offered 155 billion, data from the state debt office showed.
-
-46.16 billion rupees of 01 July 2030 (LKB00530G018) bonds were sold at an average yield of 9.76 percent, of an offered 85 billion.
-
-All 25 billion rupees offered of 01 October 2032 (LKB02032J017) bonds were sold at an average yield of 10.45 percent.
-
-All 45 billion rupees offered of 15 June 2035 (LKB01035F159) bonds were sold at an average yield of 10.96 percent.
-
-◼️
-
-[Data](articles/19ff2ad1.json)
-
-[Extended Data](ext_articles/19ff2ad1.ext.json)
-
----
-
-### President meets new officers of the Ceylon Chamber of Commerce
-
-*2025-09-11 16:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලංකා-වාණිජ-මණ්ඩලයේ-නව-නිලධාරි-මණ්ඩලය-හමුවෙයි/11-418437) · `si`
-
-President Anura Kumara Dissanayake and a new officials of the Ceylon Chamber of Commerce were held today (11).
-
-President Anura Kumara Dissanayake explained how the public and private sectors of the present government, as well as to facilitate the business community and to reach the business community.
-
-By means of policy alignment, the country also helped to help the country to prosperate social well-being and environmental sustainability.
-
-The new office bearer of the Ceylon Chamber of Commerce was presented to the Sri Lankan economy and presented to the President.
-
-Senior Director of Economic Affairs Duminda Hulangamuwa, Chairman of Ceylon Chamber of Commerce Krishan Balendra, Vice President, Vice President, Vice Chair and Vice President Vinodha Hydendra
-
-◼️
-
-[Data](articles/9301ae00.json)
-
-[Extended Data](ext_articles/9301ae00.ext.json)
 
 ---
 
@@ -310,43 +94,17 @@ According to the former President's Removal Removal Act, former President Mahind
 
 ---
 
-### Former Director General and Director of UDA granted bail
-
-*2025-09-11 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112406/former-director-general-and-director-of-uda-granted-bail) · `en`
-
-Former Director General of the Urban Development Authority (UDA) Sampath Sumedha Ratnayake and former Director (Lands) of the UDA Weerawansa Perera, who were arrested on corruption charges, have been released on bail Colombo Magistrate’s Court.
-
-Colombo Chief Magistrate Asanka S. Bodaragama issued this order after considering the facts presented by Bribery Commission officials and the legal representatives of the accused.
-
-The duo had been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 9:30 a.m. this morning (11), over allegations of financial misappropriation of state funds.
-
-According to investigations by the Bribery Commission, a 55.5-perch plot of UDA-owned land located at Mayura Place, Colombo 05, had been leased out on a temporary rental basis, resulting in a financial loss of over Rs. 29.5 million to the UDA.
-
-...
-
-[Data](articles/6d2f9761.json)
-
-[Extended Data](ext_articles/6d2f9761.ext.json)
-
----
-
-### Nepali youth destroyed the country without her
+### අගක් මුලක් නොදැන නේපාල තරුණයින් රට විනාශ කළා
 
 *2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
 
-Nepal today issues a lesson that the social media should be used to do good and that the country has been destroyed by the country.
+සමාජ මාධ්‍ය යහපත් දේට යොදාගත යුතු බවට නේපාලයට අද වන විට පාඩමක් කියාදී තිබෙනන බවත් එහි තරුණ පිරිස තම රට ගැන අගක් මුලක් මෙන්ම ඉතිහාසයක් නොදැන එම රට විනාශයට පත් කොට ඇති බව මහා විහාර වංශික ස්‍යාමෝපාලි මහානිකායේ අස්ගිරි පාර්ශවයේ අනූනායක පූජ්‍ය වේඩරුවේ උපාලි නාහිමියන් මාධ්‍ය නිවේදනයක් නිකුත් කරමින් කියා සිටී.
 
-We were very shocked by the most sad events in Nepal. The series of sang events that have created such a tremendous rebellion in the land of the Buddha cannot be granted.
-
-It is evident that some conspiracy to evolve South Asian countries is acting. Especially seems to be seen by the countries in the past, the lack of efforts of Buddhist countries as well as Buddhist inheritance in the past.. Clearly, the young people have a sense of their country, saying that the youth is addicted to the use of social media and to prohibit the history of the country.
-
-Clearly, the youth who were taking the lead in the vicinity of Nepal would be clear that they would not destroy their country in this way.. Today, many people believe that the hatred of sowing the hatred of the soil sowing hatred is that the hatred of sowing.
+නේපාලයේ ඇතිවූ අතිශය කණගාටුදායක සිදුවීම් මාලාව පිළිබඳව අප මහත්සේ කම්පනයට පත් වූවා. අප බුදුපියාණන් වහන්සේ උපන් දේශයේ මෙවැනි ශෝචනීය දරුණු කැරැල්ලක් නිර්මාණය වී ඇති වූ සංවේග ජනක සිදුවීම් මාලාව කිසිසේත් සුළු කොට තැකිය නොහැකියි.
 
 ...
 
 [Data](articles/7c573b26.json)
-
-[Extended Data](ext_articles/7c573b26.ext.json)
 
 ---
 
@@ -381,26 +139,6 @@ The woman has been attacked by a wasp nest behind her house.
 [Data](articles/fe1e10cd.json)
 
 [Extended Data](ext_articles/fe1e10cd.ext.json)
-
----
-
-### President meets new board members of Ceylon Chamber of Commerce
-
-*2025-09-11 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112405/president-meets-new-board-members-of-ceylon-chamber-of-commerce-) · `en`
-
-President Anura Kumara Dissanayake has met with the newly appointed Board of the Ceylon Chamber of Commerce today (11) at the Presidential Secretariat in Colombo.
-
-During the discussion, President Dissanayake explained the government’s current economic approach, its direction and the manner in which the state and private sectors are being integrated to drive development and provide necessary facilities to the business community, the President’s Media Division (PMD) reported.
-
-The President emphasized that by setting clear goals and formulating policies to achieve them, can support economic growth, promote social well-being and strengthen environmental sustainability, thereby contributing to a more prosperous future for the country.
-
-Accordingly, the new Board of the Ceylon Chamber of Commerce presented their vision, contributions to the national economy, future plans and proposals for the upcoming budget to the President, the PMD stated.
-
-...
-
-[Data](articles/919272a9.json)
-
-[Extended Data](ext_articles/919272a9.ext.json)
 
 ---
 
@@ -657,30 +395,6 @@ The bill was signed by the Speaker yesterday and the monthly secretary allowance
 [Data](articles/8f067d35.json)
 
 [Extended Data](ext_articles/8f067d35.ext.json)
-
----
-
-### Sri Lanka’s GDP growth for 2025 expected at 3.1% - FinMin officials
-
-*2025-09-11 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112403/sri-lankas-gdp-growth-for-2025-expected-at-31-finmin-officials) · `en`
-
-Sri Lanka’s GDP growth for 2025 is projected to be around 3.1%, according to officials attached to the Ministry of the Finance.
-
-This was revealed by Finance Ministry officials during a meeting of the Committee on Public Finance in Parliament.
-
-The Committee on Public Finance reviewed Sri Lanka’s income, expenditure, and debt conditions during the first half of 2025.
-
-This took place at a meeting of the committee held in Parliament under the chairmanship of Member of Parliament Dr. Harsha de Silva.
-
-During the meeting, the Chairman questioned whether the expected economic growth target for this year can be achieved based on current data.
-
-In response, Finance Ministry officials said that it can be assumed that economic growth will be around 3.1% this year.
-
-...
-
-[Data](articles/8a568e9b.json)
-
-[Extended Data](ext_articles/8a568e9b.ext.json)
 
 ---
 
@@ -2057,5 +1771,271 @@ However, at the monthly general meeting of the Akurana Pradeshiya Sabha held yes
 [Data](articles/800613aa.json)
 
 [Extended Data](ext_articles/800613aa.ext.json)
+
+---
+
+### Vehicle accident in Kohoola; One death!
+
+*2025-09-11 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224775) · `ta`
+
+A pedestrian was killed in a vehicle accident last night on the Kohoowala - Saranangara road, police said.
+
+Investigations have revealed that the pedestrian, who was seriously injured in the accident, died after being admitted to the Kalubowila Teaching Hospital.
+
+The deceased is a 59 -year -old from Kokila Road, Wellawatte, police said.
+
+At the same time, Kohoowala police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/161c0e60.json)
+
+[Extended Data](ext_articles/161c0e60.ext.json)
+
+---
+
+### Foreign Ministry report on Sri Lankans in Nepal
+
+*2025-09-11 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224778) · `ta`
+
+The Foreign Ministry said that no Sri Lankans were injured or affected by the ongoing clashes in Nepal.
+
+According to the renewed information provided by the Sri Lankan Embassy in Kathmandu, Nepal, the number of Sri Lankans in Nepal today (11) is 109.
+
+The Sri Lankan embassy in Kathmandu, Nepal, has continued to be vigilant to provide the necessary assistance to Sri Lankans.
+
+The Ministry of Foreign Affairs is continuing to renew the information on this with the Sri Lankan Embassy and many community members.
+
+◼️
+
+[Data](articles/8c77a1e1.json)
+
+[Extended Data](ext_articles/8c77a1e1.ext.json)
+
+---
+
+### Fire at Sabukaskanda Oil Cleaning Center
+
+*2025-09-11 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224777) · `ta`
+
+Steps have been taken to extinguish the fire with the help of several fire trucks, including the Colombo Fire Department.
+
+A fire broke out last night (10) at a renovation work at the Sabugasanda oil refinery.
+
+Meanwhile, it is reported that an investigation is scheduled to be held at the scene of the incident on Thursday (11).
+
+◼️
+
+[Data](articles/c64f13c2.json)
+
+[Extended Data](ext_articles/c64f13c2.ext.json)
+
+---
+
+### Two persons arrested in connection with two different shootings
+
+*2025-09-11 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/224776) · `ta`
+
+Two persons have been arrested in connection with two different shooting, police said.
+
+A group of Western Province Southern Criminal Investigation (Southern Criminal) officials have arrested a group of suspects on charges of shooting and murdering a three -wheeler in the Atitiya area.
+
+Police say the driver of the three -wheeler who came to the shooting was the suspect.
+
+Meanwhile, a suspect who assisted the shooting in the Sewalaipura area on the 22nd of this month was arrested by a group of police officers of the Special Task Force Investigation Unit and brought to the Ragama Police Station at the Ragama Police Station yesterday afternoon.
+
+The suspect was arrested yesterday by a group of police officers of the Police Special Task Force Intelligence Unit near Linden Ground in Ragama.
+
+The investigation revealed that the suspect was a close friend of an organized crime and drug trafficker.
+
+◼️
+
+[Data](articles/1f0863a3.json)
+
+[Extended Data](ext_articles/1f0863a3.ext.json)
+
+---
+
+### A permanent singer in a band is caught with the drug
+
+*2025-09-11 09:01:56* · [`adalk`](https://www.ada.lk/breaking_news/සංගීත-කණ්ඩායමක-නිත්‍ය-ගායන-ශිල්පියෙක්-කුඩු-එක්ක-අල්ලයි/11-418425) · `si`
+
+Kuliyapitiya Police say that 203 grams of heroin had been arrested on two occasions at a popular band.
+
+Such was arrested in Kulapitiya, a band serving a resident of Urupitiya.
+
+In terms of information, the care cops had found 38 grams of horoshops when examining the suspect's motorcycle early. The suspect was produced before courts with the heroin, Kuliyapitiya Magistrate Randika Lakmali Jayalath, obtained more than 165 grams of heroin in the jungle.
+
+The suspect is due to be produced in court with heroin, according to the police that the suspect had already revealed the racketeers to be taken into custody.
+
+◼️
+
+[Data](articles/96d50270.json)
+
+[Extended Data](ext_articles/96d50270.ext.json)
+
+---
+
+### Katunayake and Kathuwara launches flights
+
+*2025-09-11 08:57:43* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-හා-කත්මන්ඩු-ගුවන්-ගමන්-යළි-අරඹයි/11-418424) · `si`
+
+The first SriLankan Airlines commenced the Katunayake Airport again on the morning of the Civil Aviation Authority on the morning of the Napaku International Airport on the morning of the Civil Aviation Authority on the morning of 19/11.
+
+With the closure of the international airport on the struggle in Nepal, Sri Lanka and Nepal were suspended between Sri Lanka and Nepal.
+
+According to the officer in charge of the Katunayake airport, the Katunayake Airlines has been provided to the Katunayake Airport on the morning of the morning of the morning of the morning.
+
+SriLankan Airlines resumes the flights to the airline suspended to the aircraft - the first flight.
+
+The flight will be reached at the Katunayake airport at 04.40 pm on the Passoner of Air Force.
+
+SriLankan Airlines operates only only four days, Sundays, Sundays, Sundays, Sunday, Monday, Wednesdays and Thursdays.
+
+◼️
+
+[Data](articles/91a59082.json)
+
+[Extended Data](ext_articles/91a59082.ext.json)
+
+---
+
+### 109 Sri Lankans currently in Nepal are safe, Foreign Ministry confirms
+
+*2025-09-11 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112386/109-sri-lankans-currently-in-nepal-are-safe-foreign-ministry-confirms) · `en`
+
+A total of 109 Sri Lankans currently in Nepal are accounted for and safe, the Ministry of Foreign Affairs has confirmed.
+
+Issuing an update, the Foreign Ministry said it is in constant contact with the Sri Lankan Embassy and several community members in Kathmandu to obtain updates and assist Sri Lankans where necessary.
+
+Meanwhile, the Foreign Ministry said the 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, have safely crossed the border entering India.
+
+Embassy officials had directly engaged with Nepalese immigration authorities to expedite the necessary procedures.
+
+The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
+
+The Ministry of Foreign Affairs also advised Sri Lankans in Nepal to take precautions and remain indoors to protect themselves from possible attacks amidst the ongoing violent protests in the country.
+
+...
+
+[Data](articles/3ce84af3.json)
+
+[Extended Data](ext_articles/3ce84af3.ext.json)
+
+---
+
+### Massive struggle in France: 200 arrested
+
+*2025-09-11 08:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸில்-பாரிய-போராட்டம்-200-பேர்-கைது/50-364396) · `ta`
+
+Police Arrest the Bott Tangs Series. Prime Minister Fi Ron Chua Baru's skin, which was taken up three days ago in France's Natural Man, was in a state of disguise, and his head -to -head government collapsed.
+
+In the case of 577 members of the French Natural Manth, 364 members and 194 members of the Bank of India have been voted for the Book of Bill.
+
+With this, Chancellor, the Chancellor of Manuel Mac Ron, has been in the last 12 months.. Subsequently, the President of the Ministry of Public Council, Sir Legner, was appointed as the new Chief Minister.. In this case, the new government's opposition to the post of France has exploded.
+
+Subsequently, the police, who prevented the mugs of the mugs in the area, threw their eyes smokers and threw their eyes smokers.. In the meantime, the West Tuck Carries set fire to the West Town City Rence Bus One. In the dental areas, the police have quicked the quicker cup butt.
+
+...
+
+[Data](articles/1c59df90.json)
+
+[Extended Data](ext_articles/1c59df90.ext.json)
+
+---
+
+### 3 buses collide with each other in Balangoda
+
+*2025-09-11 08:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலாங்கொடையில்-3-பேருந்துகள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/76-364395) · `ta`
+
+Three buses collided with each other in the Balangoda Bahala area on the Colombo-Padulla main road in the morning.
+
+The accident occurred when the Sri Lanka Transport Board bus carrying passengers, including school children from Belmatula to Balangoda, collided with a private bus from Balangoda to Colombo and the Sri Lanka Transport Board bus traveling in the same direction.
+
+As an ambulance arrived at the scene, people in the area took school children and many passengers who were suffering from minor injuries to the hospital.
+
+◼️
+
+[Data](articles/0572a1aa.json)
+
+[Extended Data](ext_articles/0572a1aa.ext.json)
+
+---
+
+### Interim government led by Sushila Karki in Nepal
+
+*2025-09-11 08:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-சுஷிலா-கார்க்கி-தலைமையில்-இடைக்கால-அரசு/50-364394) · `ta`
+
+Violence has continued for the past few days in Nepal. This is why the situation is getting worse day by day. Meanwhile, it is reported that the interim government is headed by former chief justice Sushila Karki.. Susila Karki's support for the protesters seems to be over the end of the violence there
+
+◼️
+
+[Data](articles/9f160492.json)
+
+[Extended Data](ext_articles/9f160492.ext.json)
+
+---
+
+### Charlie Kirk shot dead by Trump's ardent supporter;  Horror at the university event
+
+*2025-09-11 08:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பின்-தீவிர-ஆதரவாளர்-சார்லி-கிர்க்-சுட்டுக்கொலை-பல்கலைக்கழக-நிகழ்ச்சியில்-பயங்கரம்/50-364393) · `ta`
+
+Charlie Kirk, a supporter of US President Donald Trump, was shot dead during a university event.
+
+Charlie Kirk, a US right -wing activist and an ardent supporter of US President Donald Trump, was shot dead while speaking at an event at Utta University.
+
+US President Trump has confirmed the incident on his Truth Social Post.
+
+31 -year -old Charlie Kirk, taken to the hospital with injuries. Where he had surgery. However, Kirk fell victim to treatment.
+
+The incident of the shooting of Charlie Kirk Kirk, a co -founder and chief executive officer of the Turning Point USA, has been shot dead in the United States, as the United States continues to rise in the United States.
+
+◼️
+
+[Data](articles/c7654486.json)
+
+[Extended Data](ext_articles/c7654486.ext.json)
+
+---
+
+### It is raining several times today
+
+*2025-09-11 08:22:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-தடவைகள்-மழை-பெய்யும்/175-364391) · `ta`
+
+The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa, North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
+
+In many places in the North, East and Uva provinces, there is a possibility of rain or thunderstorms after 1 pm.
+
+◼️
+
+[Data](articles/1cc2f9e2.json)
+
+[Extended Data](ext_articles/1cc2f9e2.ext.json)
+
+---
+
+### Oracle co-founder Larry Ellison briefly tops Elon Musk as world’s richest person
+
+*2025-09-11 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112384/oracle-co-founder-larry-ellison-briefly-tops-elon-musk-as-worlds-richest-person) · `en`
+
+Elon Musk briefly lost his title as the world’s richest person to Larry Ellison, the co-founder of Oracle and an ally of US President Donald Trump.
+
+Ellison’s wealth surged to $393bn (£290bn) on Wednesday morning, surpassing Musk’s $385bn (£284bn), according to the Forbes billionaire list.
+
+The jump came after shares in Oracle, which make up a significant part of Ellison’s fortune, soared more than 40%, boosted by the database software company’s surprisingly rosy outlook for its cloud infrastructure business and artificial intelligence (AI) deals.
+
+But the firm’s share price had shed some of those gains by the end of the day, putting Musk back on top.
+
+Before briefly losing it to Ellison, Musk had held the title of world’s richest person for nearly one year.
+
+He could receive a pay package worth over $1tn (£740bn) if he hits a list of ambitious targets over the next decade, the board of the electric car firm has proposed.
+
+But shares in Musk’s most valuable business, Tesla, have fallen this year.
+
+...
+
+[Data](articles/abb5e600.json)
+
+[Extended Data](ext_articles/abb5e600.ext.json)
 
 ---

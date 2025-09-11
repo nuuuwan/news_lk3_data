@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 09:23:02**
+As of **2025-09-11 09:12:51**
 
 ## Newspaper Stats
 
-*Scraped **75,319** Articles*
+*Scraped **75,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,565
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,301
+adalk | 7,299
 adaderanalk | 9,666
-tamilmirrorlk | 11,245
+tamilmirrorlk | 11,243
 virakesarilk | 12,277
 adaderanasinhalalk | 13,117
 
@@ -26,43 +26,11 @@ adaderanasinhalalk | 13,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,853 (88.8%) of 75,319 articles have been extended.
+66,853 (88.8%) of 75,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### பிரான்ஸில் பாரிய போராட்டம்: 200 பேர் கைது
-
-*2025-09-11 08:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸில்-பாரிய-போராட்டம்-200-பேர்-கைது/50-364396) · `ta`
-
-பி​ரான்ஸில் நடை​பெற்று வரும் போராட்​டங்​கள் தொடர்​பாக 200 பேரை பொலி​ஸார் கைது செய்​துள்​ளனர். பிரான்ஸ் நாடாளு​மன்​றத்​தில் 3 நாட்​களுக்கு முன்பு மேற்​கொள்​ளப்​பட்ட நம்​பிக்கை வாக்​கெடுப்​பில் பிரதமர் ஃபி​ரான்​சுவா பேரூ தோல்​வியடைந்த நிலை​யில், அவரது தலை​மையி​லான அரசு கவிழ்ந்​தது.
-
-பிரான்ஸ் நாடாளு​மன்​றத்​தில் மொத்​தம் 577 உறுப்​பினர்​கள் உள்ள நிலை​யில், நம்​பிக்கை வாக்​கெடுப்​பில் பேரூக்கு எதி​ராக 364 உறுப்​பினர்​களும், ஆதர​வாக 194 உறுப்​பினர்​களும் வாக்​களித்​தனர்​.19 உறுப்​பினர்​கள் வாக்​கெடுப்பை புறக்​கணித்​த​னர்.
-
-இதன்​மூலம் கடந்த 12 மாதங்​களில் 4-வது பிரதமரை தேர்ந்​தெடுக்​கும் சூழலுக்கு அதிபர் இம்​மானுவேல் மேக்​ரான் தள்​ளப்​பட்​டுள்​ளாா். இதையடுத்து புதிய பிரதம​ராக அந்​நாட்​டின் பாது​காப்​புத்​துறை அமைச்​சர் லெகர்​னுவை அதிபர் இம்​மானுவேல் மேக்​ரான் நியமித்​துள்​ளார். இந்​நிலை​யில் பிரான்​ஸில் புதிய அரசு பதவி​யேற்​ப​தற்கு எதிர்ப்பு தெரி​வித்து போராட்​டங்​கள் வெடித்​துள்​ளன.
-
-...
-
-[Data](articles/1c59df90.json)
-
----
-
-### பலாங்கொடையில் 3 பேருந்துகள் ஒன்றுடன் ஒன்று மோதி விபத்து
-
-*2025-09-11 08:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலாங்கொடையில்-3-பேருந்துகள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/76-364395) · `ta`
-
-காலை கொழும்பு-பதுளை பிரதான சாலையில் உள்ள பலாங்கொடை பஹலவின் எல்லேபொல பகுதியில்இன்று (11) மூன்று பேருந்துகள் ஒன்றுடன் ஒன்று மோதிக்கொண்டன.
-
-பெல்மதுளையிலிருந்து பலாங்கொடை நோக்கி பாடசாலை குழந்தைகள் உட்பட பயணிகளை ஏற்றிச் சென்ற இலங்கை போக்குவரத்து சபை பேருந்து, பலாங்கொடையிலிருந்து கொழும்பு நோக்கிச் சென்ற தனியார் பேருந்து மற்றும் அதே திசையில் பயணித்த இலங்கை போக்குவரத்து சபை பேருந்துடன் மோதியதில் இந்த விபத்து ஏற்பட்டது.
-
-சம்பவ இடத்திற்கு ஆம்புலன்ஸ் ஒன்று வந்ததால், அப்பகுதி மக்கள் பாடசாலை குழந்தைகள் மற்றும் சிறு காயங்களுக்கு உள்ளான பல பயணிகளை மருத்துவமனைக்கு அழைத்துச் சென்றனர்.
-
-◼️
-
-[Data](articles/0572a1aa.json)
-
----
 
 ### நேபாளத்தில்  சுஷிலா கார்க்கி தலைமையில் இடைக்கால அரசு
 
@@ -166,7 +134,7 @@ Bank holdings of bills peaked in February 2025 at 2,825 billion rupees and has f
 
 Sri Lanka’s bill auctions have failed to be fully subscribed in recent weeks at the cut off rates offered by the debt office, with no takers last week for additional bills offered on tap.
 
-Sri Lanka’s bill yields have remained fixed in recent weeks, which analysts have dubbed the ‘ramrod rate anomaly’ in the past. In the past the ‘ramrod rate anomaly’ has been enforced through printing money.
+Sri Lanka’s bill yields have remained fixed in recent weeks, which analysts have dubbed the ‘ramrod rate anomaly’ in the past.  In the past the ‘ramrod rate anomaly’ has been enforced through printing money.
 
 However, banks are still buying bonds which are offered at higher rates.
 
@@ -253,22 +221,6 @@ In a separate case, another individual has been arrested by officers of the Poli
 ...
 
 [Data](articles/0be6bdea.json)
-
----
-
-### බලන්ගොඩ ඇල්ලෙපොලදී බස් රථ 3ක් එකට ගැටේ
-
-*2025-09-11 07:38:53* · [`adalk`](https://www.ada.lk/picture_story/බලන්ගොඩ-ඇල්ලෙපොලදී-බස්-රථ-3ක්-එකට-ගැටේ/10-418423) · `si`
-
-කොළඹ බදුල්ල  ප්‍රධාන මාර්ගයේ  බළන්ගොඩ පහළ ඇල්ලෙපොල ප්‍රදේශයේ දී අද (11) පෙරවරු බස් රථ 3 ක් එකිනෙක ගැටීමෙන් අනතුරට ලක්විය.පෙරවරු 6ත් 6.20. ත් අතර අනතුර සිදුවී ඇත.
-
-පැල්මඩුල්ල දෙසින් බළන්ගොඩ දෙසට පාසල් දැරුවන්ද ඇතුළු ව මගීන් රැගෙන ගිය ලංගම  බසයක් හා බළන්ගොඩ සිට කොළඹ දෙසට ධාවනය වූ පුද්ගලික බස් රථයත් හා එම දෙසටම  ධාවනය වූ ලංගම බස් රථය එකට ගැටීමෙන් මෙලෙස අනතුරට පත්ව ඇත.
-
-එම අවස්ථාවේ පැමිණි ගිලන් රියකින් සුළු තුවාල ලැබූ පාසල් දරුවන් සහ තවත් මගීන් කීපදෙනෙක්ආසන්න රෝහල් කරා යොමු කිරීමට ප්‍ර දේශවාසීහු විසින් කටයුතු කළහ. අනතුර හේතුවෙන් බදුල්ල කොළඹ ප්‍රධාන මාර්ගය සම්පූර්ණයෙන්ම ගමනාගමනයට අවහිර වී පැවතිණි. සිද්ධිය සම්බන්ධයෙන් ඕපනායක පොලීසිය විසින් වැඩිදුර විමර්ශන කටයුතු සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/1a97b78d.json)
 
 ---
 
@@ -1160,24 +1112,6 @@ Both indices moved upwards. The All Share Price Index went up by 96.2 points, wh
 
 ---
 
-### ඊශ්‍රායල් රැකියා සඳහා අයදුම්කිරීමට වෙබ් අඩවිය විවෘතයි
-
-*2025-09-10 23:13:36* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-සඳහා-අයදුම්කිරීමට-වෙබ්-අඩවිය-විවෘතයි/11-418420) · `si`
-
-ඊශ්‍රායල් රාජ්‍යයේ ඉදිකිරීම් ක්ෂේත්‍රය යටතේ ක්‍රියාත්මක වන ප්‍රතිසංස්කරණ උප ක්ෂේත්‍රයට අදාළ හතරවන අදියර යටතේ රැකියා සඳහා මාර්ග ගත ක්‍රමය ඔස්සේ අයදුම් කිරීමට අවස්ථාව ලබාදී ඇති බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සඳහන් කරයි.
-
-ඒ අනුව කාර්යාංශයේ www.slbfe.lk වෙබ් අඩවියට පිවිසීම මගින් අදාළ රැකියා සඳහා ලියාපදිංචි විය හැකි අතර, ඒ සඳහා 2025.09.14 දින තෙක් වෙබ් සබැදිය විවෘත කර ඇත.
-
-ඒ අනුව අයදුම් කළ හැකි රැකියා කාණ්ඩයන් වන්නේ, ප්‍රතිසංස්කරණ සිදුකරන්නන් (විදුලි පේනු සවිකිරීම, බිත්ති බැඳීම, පොටි ඇඳීම, පාර්ටිෂන්) සෙරමික් ටයිල් අතුරන්නන්, කපරාදු යන ඒවා වේ. මේ යටතේ අයදුම්කරුවන් 1500 ක් බඳවා ගැනීමට නියමිතයි. මෙම රැකියා තෝරාගන්නා පුද්ගලයින්ට මාස 63ක කොන්ත්‍රාත් කාල සීමාවක් හිමිවේ.
-
-වයස අවුරුදු 25-45 අතර, මීට පෙර ඊශ්‍රායල් රාජ්‍යයේ සේවය කර නොමැති, අවම වශයෙන් 10 ශ්‍රේණිය සමත් පුද්ගලයින්ට මේ සඳහා අයදුම් කළ හැකි අතර, ඔවුන්ට තෝරාගන්නා රැකියා කාණ්ඩය සඳහා මනා දක්ෂතාවයක් හා පළපුරුද්දක් ලබා තිබිය යුතුය.
-
-...
-
-[Data](articles/b987f788.json)
-
----
-
 ### The earth's soil is built on the place of the crash
 
 *2025-09-10 22:58:33* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුර-සිදුවු-ස්ථානයේ-පස්බැමි-යොදා-ආරක්ශිත-බැම්මක්-ඉදිකරයි/11-418417) · `si`
@@ -1951,5 +1885,87 @@ He bought the Rand for 16.5 million. This is the highest value of the SA20 in hi
 [Data](articles/dc5ec659.json)
 
 [Extended Data](ext_articles/dc5ec659.ext.json)
+
+---
+
+### Nepal Protests: Kathmandu Airport reopens for civilian flights
+
+*2025-09-10 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112366/nepal-protests-kathmandu-airport-reopens-for-civilian-flights) · `en`
+
+The Civil Aviation Authority of Nepal has announced that Kathmandu’s Tribhuvan International Airport, Nepal’s main gateway, has reopened.
+
+Domestic and international flights, suspended since Tuesday, “will resume today,” the authority said in a statement, without elaborating.
+
+The shutdown had left hundreds of international tourists, including Indians, stranded amid the deadly unrest.
+
+Meanwhile, SriLankan Airlines informed Ada Derana that it will resume flights to Nepal from tomorrow (11).
+
+The situation in Nepal remained relatively calm on Wednesday, following two days of youth-led “Gen Z” protests that turned violent after a security crackdown left at least 19 demonstrators — mostly students — dead.
+
+With Prime Minister KP Sharma Oli and his cabinet having resigned, and as law enforcement struggled to maintain control, the Nepal Army took charge of security on Tuesday night.
+
+...
+
+[Data](articles/7e7b80fe.json)
+
+[Extended Data](ext_articles/7e7b80fe.ext.json)
+
+---
+
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
+
+*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-nilanga-dela) · `en`
+
+The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
+
+This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
+
+The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
+
+During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
+
+The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/c3f9f2f3.json)
+
+[Extended Data](ext_articles/c3f9f2f3.ext.json)
+
+---
+
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
+
+*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-dela) · `en`
+
+The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
+
+This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
+
+The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
+
+During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
+
+The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/de557286.json)
+
+[Extended Data](ext_articles/de557286.ext.json)
+
+---
+
+### Historic Garbage
+
+*2025-09-10 17:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வரலாற்று-குப்பை-தொட்டியில்-ஒலி/62-364366) · `ta`
+
+Nepal Prime Minister Sharma Sound resigned from his post. In this case, the former President of Sri Lanka Gotabhaya Rajapakse and the former Prime Minister of Bangladesh Sheikh Hasina are lying in the historic garbage bin.
+
+◼️
+
+[Data](articles/828c8a98.json)
+
+[Extended Data](ext_articles/828c8a98.ext.json)
 
 ---

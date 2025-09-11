@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 16:53:07**
+As of **2025-09-11 17:20:27**
 
 ## Newspaper Stats
 
-*Scraped **75,416** Articles*
+*Scraped **75,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,570
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,315
+adalk | 7,316
 adaderanalk | 9,681
 tamilmirrorlk | 11,275
 virakesarilk | 12,293
@@ -26,55 +26,61 @@ adaderanasinhalalk | 13,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,350 (89.3%) of 75,416 articles have been extended.
+67,365 (89.3%) of 75,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### UDA உயர் அதிகாரிகள்  இருவருக்கும் பிணை
+### Bail for both UDA top officials
 
 *2025-09-11 16:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UDA-உயர்-அதிகாரிகள்-இருவருக்கும்-பிணை/175-364436) · `ta`
 
-அரசாங்கத்திற்கு 29.5 மில்லியன் ரூபாவிற்கு மேல் நஷ்டத்தை ஏற்படுத்தியதாக கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட நகர அபிவிருத்தி அதிகாரசபையின் முன்னாள் காணி பணிப்பாளர் நாயகம் சம்பத் சுமேத பூஜித ரத்நாயக்க மற்றும் முன்னாள் காணி பணிப்பாளர் வீரவன்ச பெரேரா ஆகிய இரு சந்தேக நபர்களையும் பிணையில் விடுவிக்க கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம வியாழக்கிழமை (11) உத்தரவிட்டார்.
+Colombo Chief Magistrate Asanga Asanga Asanga Asanga Asanga has released the two suspects, former Land Director General of Urban Development Authority (STF), Sampath Sumedha Poojitha Ratnayake and former Land Director Weerawansa Perera, who was arrested for allegedly causing a loss of over Rs 29.5 million for the government.. Podarakama ordered on Thursday (11).
 
-தலா 100,000 ரூபாய் ரொக்கப் பிணையையும் தலா 2.5 மில்லியன் ரூபாய் தனிப்பட்ட பிணையையும் விதித்த நீதவான், சந்தேக நபர்கள் வெளிநாடு செல்வதற்கு தடை விதித்தார்.
+The magistrate imposed a cash bail of Rs 100,000 and Rs 2.5 million each and banned the suspects from going abroad.
 
-2016 ஆம் ஆண்டு நகர அபிவிருத்தி அதிகாரசபைக்குச் சொந்தமான கொழும்பு 05, மயூர வெதவாசவில் அமைந்துள்ள 55.5 பேர்ச்சர்ஸ் நிலத்தை தற்காலிக குத்தகை அடிப்படையில் வழங்கி ஊழல் குற்றங்களைச் செய்ததற்காகவும், நகர அபிவிருத்தி அதிகாரசபைக்கு 29,519,666.16 ரூபாயை இழந்ததற்காகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு சந்தேக நபர்களை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்தியது.
+In 2016, Colombo, Colombo 05, belonging to the Urban Development Authority (Colombo), the City Development Authority (CBI) has issued a suspects for bribery or corruption for the loss of 29,519,666.16 rupees for the City Development Authority.
 
 ◼️
 
 [Data](articles/c9a52916.json)
 
+[Extended Data](ext_articles/c9a52916.ext.json)
+
 ---
 
-### ඉන්දුනීසියාවේ ගංවතුරින්  මියගිය ගණන ඉහළට
+### Floods in Indonesia
 
 *2025-09-11 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214447) · `si`
 
-ඉන්දුනීසියාවේ බාලි දූපත්වලට බලපා ඇති ගංවතුර ආපදා තත්වය හේතුවෙන් මියගිය පුද්ගලයින් සංඛ්‍යාව 14 දෙනෙකු දක්වා ඉහළ ගොස් තිබේ.
+The floods affected by the Bali Islands in Indonesia have risen to 14 people.
 
-ආපදා තත්වය හේතුවෙන් අතුරුදන් වූ පුද්ගලයින් දෙදෙනෙකු සොයා තවදුරටත් මෙහෙයුම් සිදුකරන බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේය.
+Foreign media reports say that two disadvantaged persons will be recovered further to find out.
 
-බාලි දූපත්වලට ඇදහැලෙන වර්ෂාව මේ වන විට අඩු වී ඇති අතර පැවති ගංවතුර තත්වය ද මේ වන විට ක්‍රමයෙන් අඩුවෙමින් පවතින බව වාර්තා වේ.
+The rain drawn to Bali islands has been reduced and the floods have been reduced by now.
 
-කෙසේ වෙතත් විදෙස් මාධ්‍ය වාර්තා කළේ ගංවතුර හේතුවෙන් පුද්ගලයින් 500කට අධික පිරිසක් ආරක්ෂිත ස්ථාන කරා යොමුකර ඇති බවය.
+However, foreign media reports that more than 500 people have been referred to safe locations due to floods.
 
 ◼️
 
 [Data](articles/0d7ffac5.json)
 
+[Extended Data](ext_articles/0d7ffac5.ext.json)
+
 ---
 
-### மஹிந்தவுக்கு முன்னரே புறப்பட்ட   ’சிச்சி’
+### Sichi, who departed before Mahinda
 
 *2025-09-11 16:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-முன்னரே-புறப்பட்ட-சிச்சி/175-364435) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இளைய மகன், 'சிச்சி' என்று அழைக்கப்படும் ரோஹித ராஜபக்ஷ, இன்று (11) பிற்பகல், முன்னாள் ஜனாதிபதி வீட்டை காலி செய்வதற்கு ஒரு கணம் முன்பு, கொழும்பு விஜேராம வீதியில் உள்ள முன்னாள் ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேறினார்.
+Rohitha Rajapakse, the youngest son of former President Mahinda Rajapaksa, called 'Sichi', left the official residence of the former president on Wijerama Road, Colombo a moment before the former president vacated.
 
 ◼️
 
 [Data](articles/f724ba93.json)
+
+[Extended Data](ext_articles/f724ba93.ext.json)
 
 ---
 
@@ -91,6 +97,26 @@ According to the former President's Removal Removal Act, former President Mahind
 [Data](articles/b64095ef.json)
 
 [Extended Data](ext_articles/b64095ef.ext.json)
+
+---
+
+### Nepali youth destroyed the country without her
+
+*2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
+
+Nepal today issues a lesson that the social media should be used to do good and that the country has been destroyed by the country.
+
+We were very shocked by the most sad events in Nepal. The series of sang events that have created such a tremendous rebellion in the land of the Buddha cannot be granted.
+
+It is evident that some conspiracy to evolve South Asian countries is acting. Especially seems to be seen by the countries in the past, the lack of efforts of Buddhist countries as well as Buddhist inheritance in the past.. Clearly, the young people have a sense of their country, saying that the youth is addicted to the use of social media and to prohibit the history of the country.
+
+Clearly, the youth who were taking the lead in the vicinity of Nepal would be clear that they would not destroy their country in this way.. Today, many people believe that the hatred of sowing the hatred of the soil sowing hatred is that the hatred of sowing.
+
+...
+
+[Data](articles/7c573b26.json)
+
+[Extended Data](ext_articles/7c573b26.ext.json)
 
 ---
 
@@ -2023,27 +2049,5 @@ But shares in Musk’s most valuable business, Tesla, have fallen this year.
 [Data](articles/abb5e600.json)
 
 [Extended Data](ext_articles/abb5e600.ext.json)
-
----
-
-### Fire at Sapugaskanda Oil Refinery contained
-
-*2025-09-11 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112383/fire-at-sapugaskanda-oil-refinery-contained) · `en`
-
-The fire that broke out at the Sapugaskanda Oil Refinery yesterday (10) has now been fully brought under control.
-
-Reports state that multiple fire engines, including seven from the Colombo Fire Brigade, were deployed to contain the fire.
-
-The fire had erupted last evening in a fuel tank undergoing maintenance work at the refinery.
-
-According to Ada Derana reporters, it took a considerable amount of time to bring the fire under control.
-
-A local investigation is scheduled to take place today (11) to determine the cause.
-
-◼️
-
-[Data](articles/7f3ce93d.json)
-
-[Extended Data](ext_articles/7f3ce93d.ext.json)
 
 ---

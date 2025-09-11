@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 19:10:34**
+As of **2025-09-11 18:57:52**
 
 ## Newspaper Stats
 
-*Scraped **75,435** Articles*
+*Scraped **75,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,91 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,319
 adaderanalk | 9,685
-tamilmirrorlk | 11,281
+tamilmirrorlk | 11,277
 virakesarilk | 12,293
-adaderanasinhalalk | 13,138
+adaderanasinhalalk | 13,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,446 (89.4%) of 75,435 articles have been extended.
+67,432 (89.4%) of 75,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### தங்காலையில் மஹிந்தவுக்கு அமோக வரவேற்பு
-
-*2025-09-11 18:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-மஹிந்தவுக்கு-அமோக-வரவேற்பு/175-364443) · `ta`
-
-கொழும்பில் உள்ள விஜேராம மாவத்தையில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தை இன்று காலி செய்த முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ, தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு வந்தபோது அவருக்கு மகத்தான வரவேற்பு அளிக்கப்பட்டது.
-
-ராஜபக்ஷவையும் அவரது மனைவி ஷிரந்தியையும் ஏராளமானோர் வரவேற்றனர், பலர் கார்ல்டன் இல்லத்திற்குத் திரும்பியதில் தங்கள் மகிழ்ச்சியை வெளிப்படுத்தினர்.
-
-ஜனாதிபதியின் உரிமைகள் (ரத்துசெய்தல்) சட்டம் இயற்றப்பட்டதைத் தொடர்ந்து, கொழும்பில் உள்ள உத்தியோகபூர்வ இல்லத்தை காலி செய்த பின்னர், முன்னாள் ஜனாதிபதி தங்காலைக்குத் திரும்பினார்.
-
-முன்னாள் ஜனாதிபதிகள், அவர்களது விதவைகள் மற்றும் ஓய்வு பெற்ற எம்.பி.க்களுக்கு வழங்கப்படும் சிறப்பு சலுகைகளை ரத்து செய்யும் சட்டமூலம், நேற்று பாராளுமன்றத்தில் எந்த திருத்தங்களும் இல்லாமல் நிறைவேற்றப்பட்டது.
-
-◼️
-
-[Data](articles/404e6531.json)
-
----
-
-### අයවැය නොවැම්බර් 7 වැනිදා
-
-*2025-09-11 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214451) · `si`
-
-2026 වර්ෂයට අදාළ විසර්ජන පනත් කෙටුම්පත දෙවැනිවර කියවීම (අයවැය කථාව/ අයවැය යෝජනා ඉදිරිපත් කිරීම) 2025 නොවැම්බර් 7 වැනිදා සිදු කිරීමටත්, නොවැම්බර් 8 සිට දෙසැම්බර් 5 දක්වා විවාදය පැවැත්වීමටත් තීරණය කර තිබේ.
-
-කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (11) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මෙම තීරණය ගෙන ඇත.
-
-මේ අනුව විසර්ජන පනත් කෙටුම්පත පළමුවර කියවීම සඳහා සැප්තැම්බර් 26 දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බවත් මහලේකම්වරිය පැවසුවාය.
-
-මුදල් විෂය භාර අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් 2025 නොවැම්බර් 7 වැනිදා විසර්ජන පනත් කෙටුම්පත දෙවැනිවර කියවීම (අයවැය කථාව) සිදු කිරීමටත්, අනතුරුව නොවැම්බර් 8 සිට නොවැම්බර් 14 දක්වා දින 6ක් දෙවනවර කියවීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත.
-
-ඒ අනුව නොවැම්බර් 14 ප.ව 6.00ට දෙවනවර කියවීමේ ඡන්ද විමසීම පැවැත්වේ.
-
-ඉන්පසු නොවැම්බර් 15 සිට දෙසැම්බර් 5 දක්වා දින 17ක් කාරක සභා අවස්ථාවේ විවාදය පැවැත් වීමටත් දෙසැම්බර් 5 ප.ව 6.00ට අයවැය තෙවනවර කියවීමේ ඡන්ද විමසීම පැවැත්වීමටත් මෙහිදී එකඟත්වය පළ වී ඇත.
-
-...
-
-[Data](articles/52626ff2.json)
-
----
-
-### 2026 பட்ஜெட்;திகதிகள் அறிவிப்பு
-
-*2025-09-11 18:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-பட்ஜெட்-திகதிகள்-அறிவிப்பு/175-364442) · `ta`
-
-2026 ஆம் ஆண்டுக்கான ஒதுக்கீட்டு சட்டமூலத்தின் இரண்டாவது வாசிப்பு (வரவு செலவுத் திட்ட உரை/வரவு செலவுத் திட்ட முன்மொழிவுகளை வழங்குதல்) 2025 நவம்பர் 7 ஆம் திகதி நடைபெறும் என்றும், அதைத் தொடர்ந்து நவம்பர் 8 முதல் டிசம்பர் 5 ஆம் திகதி வரை வரவு செலவுத் திட்ட விவாதம் நடைபெறும் என்றும் பாராளுமன்ற செயலாளர் நாயகம் திருமதி குஷானி ரோஹனதீர தெரிவித்தார்.
-
-சபாநாயகர் கலாநிதி ஜகத் விக்ரமரத்ன தலைமையில் இன்று (11) நடைபெற்ற பாராளுமன்ற அலுவல்கள் குழுவின் கூட்டத்தில் இந்த முடிவு எடுக்கப்பட்டது.
-
-அதன்படி, ஒதுக்கீட்டுச் சட்டமூலத்தின் முதல் வாசிப்பு 2025 செப்டம்பர் 26 ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என்று செயலாளர் நாயகம் தெரிவித்தார்.
-
-நிதி அமைச்சர் என்ற முறையில், கௌரவ ஜனாதிபதி நவம்பர் 7 ஆம் திகதி ஒதுக்கீட்டு சட்டமூலத்தின் (பட்ஜெட் உரை) இரண்டாவது வாசிப்பை சமர்ப்பிப்பார், மேலும் இரண்டாவது வாசிப்பு விவாதத்திற்காக நவம்பர் 8 ஆம் திகதி முதல் நவம்பர் 14 ஆம் திகதி வரை ஆறு நாட்கள் ஒதுக்க முடிவு செய்யப்பட்டுள்ளது. இரண்டாவது வாசிப்பு மீதான வாக்கெடுப்பு நவம்பர் 14 ஆம் திகதி மாலை 6:00 மணிக்கு நடைபெறும்.
-
-...
-
-[Data](articles/f5cb5d01.json)
-
----
-
-### இன்டர்போல் சிவப்பு அறிவிப்பு;15 இலங்கையர்கள் கைது
-
-*2025-09-11 18:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்டர்போல்-சிவப்பு-அறிவிப்பு-15-இலங்கையர்கள்-கைது/175-364441) · `ta`
-
-இன்டர்போல் சிவப்பு அறிவிப்புகளுக்கு உட்பட்ட பதினைந்து இலங்கை பாதாள உலக உறுப்பினர்கள் ரஷ்யா, ஓமான், துபாய் மற்றும் இந்தியாவில் கைது செய்யப்பட்டுள்ளனர் என்று பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
-
-அந்தந்த நாடுகளில் நடந்து வரும் சட்ட நடவடிக்கைகள் முடிந்ததும், இந்த நபர்களை இலங்கைக்கு அழைத்து வருவதற்கான ஏற்பாடுகள் நடந்து வருவதாக அவர் இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/b183979b.json)
-
----
 
 ### 15 underworld members of 4 countries
 
@@ -129,24 +57,6 @@ Fifteen people who have been identified as leading criminals and drug dealers ha
 [Data](articles/84e3f41d.json)
 
 [Extended Data](ext_articles/84e3f41d.ext.json)
-
----
-
-### கமாண்டோ சலிந்தவுக்கு தோட்டாக்களை விற்ற இராணுவ அதிகாரி
-
-*2025-09-11 17:41:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமாண்டோ-சலிந்தவுக்கு-தோட்டாக்களை-விற்ற-இராணுவ-அதிகாரி/175-364439) · `ta`
-
-கமாண்டோ சலிந்த என்ற ஒழுங்கமைக்கப்பட்ட குற்றவாளிக்கு T56 துப்பாக்கிக்ககான தோட்டாக்களை  விற்பனை செய்த குற்றச்சாட்டின் பேரில் இராணுவ லெப்டினன்ட் கேணல் ஒருவர் இன்று (11) மேற்கு வடக்கு குற்றப்பிரிவால் கைது செய்யப்பட்டார்.
-
-குறிப்பிட்ட இராணுவ அதிகாரி கைது செய்யப்பட்ட நேரத்தில் முல்லைத்தீவில் உள்ள   இராணுவ முகாமின் கட்டளை அதிகாரியாக பணியாற்றி வந்தார்.
-
-அவர் கணேமுல்ல கமாண்டோ படைப்பிரிவின் கட்டளை அதிகாரியாக இருந்த காலத்தில், கமாண்டோ சாலிந்தாவுக்கு T56 துப்பாக்கிக்கு 260 தோட்டாக்களை இரண்டு சந்தர்ப்பங்களில் 650,000 ரூபாய்க்கு விற்றதாக குற்றம் சாட்டப்பட்டுள்ளது.
-
-கைது செய்யப்பட்ட இராணுவ அதிகாரி மேலதிக விசாரணைகளுக்காக குற்றப் புலனாய்வுத் துறையிடம் ஒப்படைக்கப்பட உள்ளார்.
-
-◼️
-
-[Data](articles/60cce139.json)
 
 ---
 
@@ -2055,5 +1965,97 @@ Officers accused of corruption and misconduct, rooted by protesters, were surrou
 [Data](articles/8e5f94cb.json)
 
 [Extended Data](ext_articles/8e5f94cb.ext.json)
+
+---
+
+### 2/3 are there?
+
+*2025-09-11 09:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/2-3-இருக்கிறதே-அறுக்கவா/62-364399) · `ta`
+
+மஹிந்த ராஜபக்ஷ குடும்பமே, ஒரு கதிரையில் ஒன்றாக அமர்ந்திருக்க, ஜனாதிபதி அனுர குமார திசாநாயக்க, வாளொன்ளை கையில் வைத்துக்கொண்டு தங்களிடம் மூன்றிலிரண்டு பெரும்பான்மை இருக்கிறது. So chop? It's like asking.
+
+◼️
+
+[Data](articles/72389015.json)
+
+[Extended Data](ext_articles/72389015.ext.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-09-11 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-240131/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.00/05 to the US dollar on Thursday, slightly weaker from 301.98/302.02 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2029 was quoted at 9.55/58 percent, down from 9.55/60 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.70/80 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.38/40 percent, down from 10.40/50 percent.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 402.8858 buying, and 414.2276 selling, and the euro was 347.0210 buying, 358.2262 selling.
+
+The Colombo Stocks Exchange was trading in green; The ASPI was down 0.55 percent, or 113.50 points, at 20,882; the S&P SL20 was up 0.69 percent, or 40.82 points, at 5,970. (Colombo/Sep11/2025)
+
+◼️
+
+[Data](articles/2feca5c8.json)
+
+[Extended Data](ext_articles/2feca5c8.ext.json)
+
+---
+
+### Parliamentary Council begins
+
+*2025-09-11 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214429) · `si`
+
+The second reading of the Task Removal Bill was held in Parliament yesterday, and the vote was in favor of 151 votes and opposition in favor.
+
+Speaker Medical Jagath Wickramaratne was declared as a bill to the relevant Bill, which was passed.
+
+The Speaker also informed parliament that he was given its certificate to the President's Title Removal.
+
+◼️
+
+[Data](articles/3d697405.json)
+
+[Extended Data](ext_articles/3d697405.ext.json)
+
+---
+
+### Assistant Police Inspector arrested for related to Kehelbatara Padme
+
+*2025-09-11 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224782) · `ta`
+
+An Assistant Police Inspector of the Gampaha Zone and Criminal Investigation Division has been arrested by the Criminal Investigation Department for allegedly involved in the alleged involvement with the underworld chairman Kehelbatta Padme.
+
+According to information from the Criminal Investigation Department, it is suspected that the police officer has maintained the connection with the recently deported Kehelbattara Padme and four organized criminal members.
+
+It is reported that the Criminal Investigation Department has launched further investigations into what the officer was in contact with the underworld committee.
+
+◼️
+
+[Data](articles/df36f465.json)
+
+[Extended Data](ext_articles/df36f465.ext.json)
+
+---
+
+### It was the Anura rule
+
+*2025-09-11 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அக்குறணையில்-ஆட்டம்-கண்டது-அனுர-ஆட்சி/150-364398) · `ta`
+
+Three members elected from the two independent groups of the Akurana Pradeshiya Sabha, 01 and 02, have declared separately at the monthly general meeting that they will withdraw their support for national people's power from today.
+
+Elections were held to elect the chairman of the Akurana Pradeshiya Sabha, and the three members were supporting the leader of the National People's Power and then supporting the national people's power.
+
+However, at the monthly general meeting of the Akurana Pradeshiya Sabha held yesterday (10), all three members announced separate reports and announced that they would withdraw their support for the national power.
+
+◼️
+
+[Data](articles/800613aa.json)
+
+[Extended Data](ext_articles/800613aa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 14:10:40**
+As of **2025-09-11 14:55:39**
 
 ## Newspaper Stats
 
-*Scraped **75,380** Articles*
+*Scraped **75,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,183 @@ economynextcom | 4,567
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,310
+adalk | 7,312
 adaderanalk | 9,671
-tamilmirrorlk | 11,269
+tamilmirrorlk | 11,270
 virakesarilk | 12,287
-adaderanasinhalalk | 13,128
+adaderanasinhalalk | 13,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,140 (89.1%) of 75,380 articles have been extended.
+67,162 (89.1%) of 75,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### பல் உடையும் வகையில் சிறுவனின் மீது தாக்குதல்
+### තැන තැන සිදු වූ අනතුරුවලින් සිව් දෙනෙකු මරුට
+
+*2025-09-11 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214443) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු රිය අනතුරුවලින් කාන්තාවක් ඇතුළු පුද්ගලයින් සිව් දෙනෙකු මියගොස් තිබේ.
+
+බලංගොඩ - රත්නපුර මාර්ගයේ ඇල්ලේපොල ප්‍රදේශයේදී යතුරුපැදියක් මගී බස් රථයක ගැටීමෙන් සිදු වූ අනතුරකින් කාන්තාවක් මිය ගොස් ඇත.
+
+එමෙන්ම පොතුවිල් අක්කරපත්තුව මාර්ගයේ තංගවේලායුදපුරම් ප්‍රදේශයේදී ද යතුරුපැදි දෙකක් එකිනෙක ගැටීමෙන් සිදුවු අනතුරකින් බරපතළ තුවාල ලැබු එක් යතුරුපැදිකරුවෙකු මියගොස් ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ 29 හැවිරිදි තිරුක්කෝවිල් 04 ප්‍රදේශයේ පදිංචිව සිටි අයෙක් බව පොලීසිය පැවසුවේය.
+
+මේ අතර කොහුවල, සරණංකර මාර්ගයේ කළුබෝවිල ප්‍රදේශයේදී ද සිදු වූ අනතුරකින් එක් අයෙකු මිය ගොස් තිබේ.
+
+එම අනතුර සිදුකළ සැකකරු මෙතෙක් අනාවරණය වී නොමැති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා කොහුවල පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+රත්නපුර - කොළඹ මාර්ගයේ බණ්ඩාරනායක මාවත ප්‍රදේශයේදී මෝටර් රථයක් මාර්ගය හරහා ගමන් කළ පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතල තුවාල ලැබූ පදිකයා රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/aa5dd282.json)
+
+---
+
+### වාහන ගෙන්වා ශ්‍රී ලංකා රේගුව තැබූ වාථා
+
+*2025-09-11 14:19:04* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ගෙන්වා-ශ්‍රී-ලංකා-රේගුව-තැබූ-වාථා/11-418434) · `si`
+
+2025 වසරේ පළමු භාගයේදී මෙරට ආදායම, වියදම සහ ණය තත්ත්වයන් පිළිබඳව රජයේ මුදල් පිළිබඳ කාරක සභාවේදී සළකා බැලිණි. එය පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන්රජයේ මුදල් පිළිබඳ කාරක සභාව පසුගියදා (09) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+ශ්‍රී ලංකා රේගු දෙපාර්තමේන්තුව 2024 වර්ෂයට සාපේක්ෂව (ජනවාරි - ජුනි) 47% ක වර්ධනයක් වාර්තා කරමින් 2025 ජනවාරි සිට ජුනි අතර කාලය තුළ රුපියල් බිලියන 996 ක අදායමක් වාර්තා කර ඇත. මෝටර් රථ ආනයනයෙන් ලැබුණු ආදායම මෙම වර්ධනයට සැලකිය යුතු ලෙස හේතු වී අතර එමඟින් රුපියල් බිලියන 429 ක් ලැබී තිබුණි. වාහන ආනයනය සඳහා විවෘත කළ පසු මේ දක්වා ශ්‍රී ලංකාවට වාහන 220,026 ආනයනය කර ඇති අතර ඉන් වාහන 154,537ක් ශ්‍රී ලංකා රේගුව මගින් නිෂ්කාශන කටයුතු අවසන් කර ඇති බවද මුදල් අමාත්‍යාංශ නිලධාරීහු පෙන්වා දුන්හ.
+
+◼️
+
+[Data](articles/f2512419.json)
+
+---
+
+### හිටපු ජනපති චන්ද්‍රිකාත් නිවසින් පිටවෙන්න සුදානම් - මෛත්‍රී පිටව ගිහින්
+
+*2025-09-11 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214441) · `si`
+
+හිටපු ජනපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය ද සිය නිල නිවසින් නික්ම යෑමට සුදානම් බව වාර්තා වේ.
+
+මේ අතර හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සිය නිල නිවසින් පිටව ගොස් තිබේ.
+
+"ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ" පනතේ විධිවිධානයන් අනුව හිටපු ජනාධිපතිවරුන් සඳහා ලබා දී ඇති නිල නිවාස ඔවුන්ට යළි රජයට භාරදීමට සිදුව ඇත.
+
+මේ අතර හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද දහවල් නිල නිවසෙන් පිටව ගියේය.
+
+ඒ ඊයේ (10) දිනයේ සම්මත වූ "ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ" පනතට අනුව හිටපු ජනාධිපතිවරුන්ට එම වරප්‍රසාදය අහිමි වී යෑමත් සමඟය.
+
+මේ අතර, ගෝඨාභය රාජපක්ෂ සහ රනිල් වික්‍රමසිංහ යන මහත්වරුන් රැඳී සිටින්නේ පෞද්ගලික නිවාසවලය.
+
+එමෙන්ම හිටපු ජනපති ආර්යා හේමා ප්‍රේමදාස මහත්මියද පසුගිය වසරේ සිට නිල නිවසින් ඉවත්ව සිටී.
+
+ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පත ඊයේ (10) පාර්ලිමේන්තුවේදී සම්මත විය.
+
+...
+
+[Data](articles/8f067d35.json)
+
+---
+
+### ‘கள்ள’ உல்லாசம்: தலைகளை கொய்த கணவன்
+
+*2025-09-11 14:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ள-உல்லாசம்-தலைகளை-கொய்த-கணவன்/175-364427) · `ta`
+
+கணவர் வெளியூர் சென்றதாக நினைத்து கள்ளக்காதலனுடன் உல்லாசமாக இருந்த மனைவியை ஆத்திரத்தில் கணவர் இருவரின் தலைகளை கொடுவாளால் வெட்டி எடுத்த சம்பவம் பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+கள்ளக்குறிச்சி அருகே உள்ள மலைக்கோட்டாலம் கிராமத்தை சேர்ந்த கொளஞ்சி என்பவருக்கு  ஏற்கெனவே கலியம்மாள் என்பவருடன் திருமணமாகி 5 குழந்தைகள் இருந்தது. இதில் 2 குழந்தைகள் உயிரிழந்த நிலையில் கலியம்மாள், தனது 3 குழந்தைகளுடன் கணவர் கொளஞ்சியை பிரிந்து சென்று விட்டார்.
+
+இதையடுத்து, கொளஞ்சி, நாட்டார்மங்கலத்தை சேர்ந்த லட்சுமி என்பவரை 2-வதாக திருமணம் செய்து கொண்டார். இவர்களுக்கு 3 பெண் குழந்தைகள் உள்ளனர்.
+
+இந்த நிலையில், கொளஞ்சியின் வீட்டு மொட்டை மாடியில் வியாழக்கிழமை (11) காலை லட்சுமியும், 55 வயது மதிக்கத்தக்க ஆண் ஒருவரும் தலை துண்டிக்கப்பட்ட நிலையில் பிணமாக கிடந்துள்ளனர்.
+
+அதன்பேரில் கள்ளக்குறிச்சி பொலிஸார் சம்பவ இடத்திற்கு விரைந்து, இறந்து கிடந்தவர்களின் சடலங்களை பார்வையிட்டு விசாரணையை ஆரம்பித்துள்ளனர்.
+
+...
+
+[Data](articles/7023e657.json)
+
+---
+
+### Assault on the boy
 
 *2025-09-11 13:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்-உடையும்-வகையில்-சிறுவனின்-மீது-தாக்குதல்/175-364426) · `ta`
 
-சிறுவர்களுக்கிடையே ஏற்பட்ட தகராறில் 14 வயது சிறுவனின் இரண்டு பற்கள் உடையும் அளவுக்கு அடிக்கப்பட்டமை தொடர்பில் பயாகல பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+Biyagala police are investigating the fact that a 14 -year -old boy's two teeth were struck in a dispute between the children.
 
-பாதிக்கப்பட்டவர் ஹல்கந்தவில, துவகொட பகுதியைச் சேர்ந்தவர் ஆவார். அவர்,  களுத்துறைநாகொட போதனா மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+The victim belongs to Halkandawila, Dwagoda area. He has been admitted to the Teaching Hospital in Kalutara.
 
-குழந்தையின் தாயார் அளித்த புகாரில், கடந்த 9 ஆம் திகதி மாலை, தனது வீட்டிற்கு அருகிலுள்ள ஒரு பிரார்த்தனை அறையில் தனது குழந்தை மற்றொரு குழந்தையுடன் விளையாடிக் கொண்டிருந்ததாகவும், "எங்களுடன் விளையாட இன்னொரு குழந்தையை அழைத்துச் செல்ல முடியாது" என்று கூறியதால் கோபமடைந்த குழந்தையின் மூத்த சகோதரர் தனது குழந்தையைத் தாக்கி கழுத்தை நெரித்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+According to a complaint filed by the mother of the child, the elder brother of the child, who was angry, attacked his child and strangled her child, saying that her child was playing with another child in a prayer room near her home on the 9th of this month.
 
-இந்த தாக்குதலில் தனது குழந்தையின் இரண்டு பற்கள் உடைந்ததாகவும், மற்றொரு பல் ​ஆடுவதாகவும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+The attack reported that his child's two teeth were broken and another tooth.
 
 ◼️
 
 [Data](articles/f5e3c2d4.json)
 
+[Extended Data](ext_articles/f5e3c2d4.ext.json)
+
 ---
 
-### வெற்றி கோஷத்துடன்  வெளியேறினார் மஹிந்த
+### මහින්ද විජේරාම නිවසින් යයි
+
+*2025-09-11 13:53:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-විජේරාම-නිවසින්-යයි/11-418432) · `si`
+
+හිටපු ජනපති මහින්දර රාජපක්ෂ මහතා කොළඹ විජේරාමේ පිහිටි නිල නිවසින් ඉවත්ව මීට සුළු මොහොතකට පෙර
+
+තංගල්ල බලා පිටත්ව ගියේය. ‍ඔහුට කොළඹින් නිවසක් සොයා ගන්නා තෙක් කාලය කාල්ටන් නිවසේ රැදී සිටිනු ඇති
+
+හිටපු ජනපතිවරයා නිවසින් නික්ම යන අවස්ථාවේදී ඔහු හමුව‍ීමට හිටපු මැති ඇමතිවරුන්, කොළඹ සිටින තානාපතිවරුන්
+
+කිහිප දෙනෙක් මෙන්ම පොදුජන පෙරමුණේ පාක්ෂිකයන් පිරිසක්ද විජේරාමට පැමි‍ණ සිටියහ.
+
+◼️
+
+[Data](articles/4056e8ab.json)
+
+---
+
+### Mahinda left with the slogan
 
 *2025-09-11 13:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-கோஷத்துடன்-வெளியேறினார்-மஹிந்த/175-364425) · `ta`
 
-இலங்கையின் சட்டம் மற்றும் ஒழுங்கைப் பின்பற்றி, முன்னாள் ஜனாதிபதியும் இலங்கையின் ஐந்தாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியுமான மஹிந்த ராஜபக்ஷ, கொழும்பு விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்திலிருந்து சற்று முன்னர் வெளியேறினார் என  இலங்கை பொதுஜன பெரமுன (SLPP) பொதுச் செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+The former President of Sri Lanka and the Fifth Executive President of Sri Lanka, following the law and order of Sri Lanka, has left his official residence at Wijerama Road, Colombo, said Sri Lanka's General Secretary (SLPP) General Secretary Sagara Kariyawasam.
 
-அவர், விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறிய போது, அங்கு குழுமியிருந்தவர்கள் ஜய​வேவா, ஜயவேவா என கோஷமெழுப்பினர்.
+When he left his official residence on Wijerama Road, the group chanted, "Jaya Veva and Jayaweva."
 
 ◼️
 
 [Data](articles/35632ca4.json)
 
+[Extended Data](ext_articles/35632ca4.ext.json)
+
 ---
 
-### අවුරුදු 14ක දරුවෙකුට දතක් කැඩෙන්න ගහලා
+### A 14-year-old child breaks into two
 
 *2025-09-11 13:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14ක-දරුවෙකුට-දතක්-කැඩෙන්න-ගහලා/11-418431) · `si`
 
-දරුවන් අතර ඇතිවූ ආරාවුලකින් පසු 14 හැවිරිදි දරුවෙකුට දත් දෙකක් කැඩෙන්නට පහර දීමේ සිද්ධියක් සම්බන්ධයෙන් පයාගල පොලිසිය පරීක්ෂණ පවත්වයි .
+After a dispute between children, Payagala Police are investigating a 14-year-old attack.
 
-පහරකෑමට ලක්ව ඇත්තේ හල්කඳවිල දූවගොඩ ප්‍රදේශයේ පදිංචි අයෙකු වන අතර ඔහු මේ වනවිට කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුලත් කර ඇත .
+A resident of Halkindanavila is a resident of Hulkindavila, Hulkindindavila.
 
-දරුවාගේ මව වන සන්දරා නැකතිගේ චමිලා ප්‍රියන්ති යන අය විසින් පොලිසියට කරන ලද පැමිණිල්ලට අනුව මේ පිළිබඳ පරීක්ෂණ ආරම්භ කොට තිබේ .
+According to the complaint made by the child's mother of the child Sandara's Chamila Priyanthi, investigations have commenced investigations.
 
-ඉකුත් 09 වැනිදා සවස තම දරුවා නිවස අසල බණ ගෙදරක තවත් ළමයෙකු සමග සෙල්ලම් කරමින් සිට ඇති බවත්, එවිට පැමිණි තවත් ළමයෙකු සෙල්ලමට ගන්න බැහැ " යැයි කීමෙන් පසු උරණවී ඇති එම ළමයාගේ වැඩිමහල් සොහොයුරෙකු තම දරුවාට පහරදී බෙල්ල මිරිකා ඇති බවත්‍ ඇය පොලිසියට කර තිබූ පැමිණිල්ලේ සඳහන්වේ .
+The elderly sister of the police said, "The elderly brother who had come to the house was playing with another child near the house on the 9th," she said.
 
-මෙම පහරදීමෙන් තම දරුවාගේ දත් දෙකක් කැඩී ගොස් තවත් දතක් සෙලවෙන බවද ඇය පොලිසියට ප්‍රකාශ කර ඇත.
+She has told the police that two teeth of their child will break down and another tooth.
 
-පයාගල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තුෂාර ජයසේකර මහතාගේ මෙහෙයවීම යටතේ මේ පිළිබඳව වැඩිදුර පරීක්ෂණ පැවැත්වේ.
+Further investigations are conducted under the direction of the Payagala OIC Chief Inspector Thushara Jayasekara.
 
 ◼️
 
 [Data](articles/23b412d2.json)
+
+[Extended Data](ext_articles/23b412d2.ext.json)
 
 ---
 
@@ -136,23 +246,25 @@ Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati a
 
 ---
 
-### මහසිලුත් යන්නම ගිහින්
+### The Mahasamil has gone
 
 *2025-09-11 12:37:16* · [`adalk`](https://www.ada.lk/breaking_news/මහසිලුත්-යන්නම-ගිහින්/11-418428) · `si`
 
-බුත්තල පොලිස් වසමට අයත් ඉලුක්පිටිය ප්‍රදේශයේ කුඹුරු යායක තිබී මිය ගිය ඇතෙකුගේ මළසිරුරක් (11) වෙනිදා
+Body of Dead (11) was a deceased (11)
 
-වනජීවී නිලධාරීන්ට හමුවී ඇත.අවුරුදු විස්සත් විසි පහත් අතර වයසැති මහසිලු නමින් හඳුන්වන මෙම ඇතාගේ දළ අඩි දෙකහමාරක් පමණ වේ.
+Wildlife officials have been found. This is about two and a half feet of the Gross, known as Mahazilu, known as Mahazilu.
 
-මෙම ඇතා පැල්වත්ත සීනි කර්මාන්ත ආයතනයේ උක් වගාව වන අලින්ගෙන් බේරා ගැනීම සඳහා ඇද තිබූ විදුලි වැටේගැටී විදුලි සැර වැදී මිය යන්නට ඇතැයි මොනරාගල වනජීවී කාර්යාලයේ නිලධාරීහු සැක පළ කරති.
+The elephants have suspended that the electricity tariff was to save the elephants in Pelwatte Sugar Industry to save the sugar planting elephants.
 
-ඇතාගේ මරණය පිළිබඳව පශ්චාත් මරණ පරීක්ෂණය පශු වෛද්‍ය නිලධාරී (දකුණු ප්‍රදේශය භාර) ධම්මි මහත්ය්මිය
+Post mortem examination on death
 
-විසින් පැවැත්වීමට නියමිතව තිබූ අතර ඉන් පසු මරණයට හේතුව නිශ්චිත වශයෙන්ම අනාවරණය කර ගැනීමට හැකිවන බව ඌව පළාත් භාර වනජීවී සහකාර අධ්‍යක්ෂක ඩබ්ලිව්.ඒ.ඒ.ඩී.යූ ඉන්ද්‍රජිත් මහතා වැඩි දුරටත් පැවසීය.
+WASAD, Assistant Director in charge of the Uva Provincial Council, said that the cause of death is due to be conducted.
 
 ◼️
 
 [Data](articles/080034b6.json)
+
+[Extended Data](ext_articles/080034b6.ext.json)
 
 ---
 
@@ -1919,103 +2031,5 @@ Last month, the US imposed a 50% tariff on goods from India, which included a 25
 [Data](articles/37da824f.json)
 
 [Extended Data](ext_articles/37da824f.ext.json)
-
----
-
-### Sri Lanka to ratify UN High Seas Biodiversity Treaty
-
-*2025-09-11 05:31:12* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-ratify-UN-High-Seas-Biodiversity-Treaty/56-781491) · `en`
-
-Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved ratification of the agreement under the UN Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction.
-
-He said Cabinet had already granted approval in December 2024 for Sri Lanka to sign the agreement and establish an inter-ministerial committee. Sri Lanka signed the agreement on 20 February 2025.
-
-“If Sri Lanka is among the first 60 countries to ratify, we will benefit from strengthened conservation of ocean resources, sustainable use, and fair distribution of returns,” Dr. Jayatissa said.
-
-◼️
-
-[Data](articles/ce8e3c30.json)
-
-[Extended Data](ext_articles/ce8e3c30.ext.json)
-
----
-
-### MAS welcomes Asian Development Bank delegation at MAS Fabric Park
-
-*2025-09-11 05:30:10* · [`dailyftlk`](https://www.ft.lk/business/MAS-welcomes-Asian-Development-Bank-delegation-at-MAS-Fabric-Park/34-781490) · `en`
-
-Key representatives of ADB and MAS Holdings, including ADB Country Director for Sri Lanka Takafumi Kadono and MAS Holdings Director – Corporate Affairs Rajitha Jayasuriya (centre right – immediate)
-
-MAS Holdings recently hosted a delegation from the Asian Development Bank (ADB) at the MAS Fabric Park in Thulhiriya as part of ADB’s efforts to support the private sector through meaningful partnerships and investment.
-
-The visit offered the ADB team an opportunity to experience MAS’ operations first-hand and gain insights into the company’s commitment to manufacturing excellence and sustainable business practices.
-
-ADB Country Director for Sri Lanka Takafumi Kadono said, “Partnerships with leading private sector companies like MAS are essential to driving sustainable growth and resilience. We are encouraged by the company’s commitment to innovation and environmental stewardship, which align strongly with ADB’s development priorities in the region.”
-
-...
-
-[Data](articles/fbe5550c.json)
-
-[Extended Data](ext_articles/fbe5550c.ext.json)
-
----
-
-### Talk on German Supply Chain Act reforms and EU GSP+
-
-*2025-09-11 05:29:03* · [`dailyftlk`](https://www.ft.lk/business/Talk-on-German-Supply-Chain-Act-reforms-and-EU-GSP/34-781489) · `en`
-
-Colombo will host a timely and high-level discussion this week on the latest reforms to the German Supply Chain Act (Lieferkettensorgfaltspflichtengesetz – LkSG) and their intersection with the EU GSP+ program and the upcoming EU Supply Chain Law.
-
-The session, led by Löning – Human Rights and Responsible Business Founder and Managing Director and former German Human Rights Commissioner Markus Löning, will take place on 12 September at the Atrium, Cinnamon Grand.
-
-The German Government recently published a draft amendment to the LkSG, introducing two key changes: The abolition of the reporting obligation, previously suspended by BAFA but now legally confirmed and a narrowing of sanction mechanisms, applying only to companies that neglect preventive or remedial measures or fail to set up complaint mechanisms
-
-...
-
-[Data](articles/22181a85.json)
-
-[Extended Data](ext_articles/22181a85.ext.json)
-
----
-
-### CWEIC hosts exclusive networking lunch in Colombo to strengthen partnerships
-
-*2025-09-11 05:27:02* · [`dailyftlk`](https://www.ft.lk/business/CWEIC-hosts-exclusive-networking-lunch-in-Colombo-to-strengthen-partnerships/34-781488) · `en`
-
-The Commonwealth Enterprise and Investment Council (CWEIC) successfully hosted an exclusive networking lunch in Colombo, bringing together its Strategic Partners and key Government stakeholders to foster dialogue, collaboration, and future partnerships within Sri Lanka.
-
-The networking lunch served as a platform for Strategic Partners of CWEIC to engage directly with Government and private sector representatives, exchange insights on emerging opportunities, and strengthen ties between the private sector and the State.
-
-The event was graced by Industries and Entrepreneurship Development Minister Sunil Handunnetti, who attended as the Chief Guest and delivered a keynote address highlighting the importance of collaboration in driving sustainable economic growth.
-
-...
-
-[Data](articles/5898b265.json)
-
-[Extended Data](ext_articles/5898b265.ext.json)
-
----
-
-### Committee to draft national electricity policy
-
-*2025-09-11 05:23:54* · [`dailyftlk`](https://www.ft.lk/business/Committee-to-draft-national-electricity-policy/34-781487) · `en`
-
-Studies show recent CEB profits due to pricing, not efficiency gains
-
-Unbundling CEB, introducing market competition and improving governance necessary to attract investment
-
-Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved the appointment of a committee to draft Sri Lanka’s national electricity policy and guidelines as required under the amended Electricity Act.
-
-The committee will have up to eight members with at least 15 years of expertise in energy policy, renewable energy, energy transition, system planning, and economics.
-
-Dr. Jayatissa said the members include Prof. Mohan Munasinghe, President’s Counsel Milinda Gunathilaka, Professor Arulampalam Athputharaja, Engineer W.J.L. Shavindranath Fernando, and Dr. H.M. Gunathilaka.
-
-The Sri Lanka Electricity Act was enacted in June 2024 to modernise the energy sector by restructuring the Ceylon Electricity Board (CEB), promoting private-sector investment and renewable energy.
-
-...
-
-[Data](articles/8c4b9adb.json)
-
-[Extended Data](ext_articles/8c4b9adb.ext.json)
 
 ---

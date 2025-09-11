@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 10:09:29**
+As of **2025-09-11 09:12:51**
 
 ## Newspaper Stats
 
-*Scraped **75,329** Articles*
+*Scraped **75,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,269 +16,51 @@ economynextcom | 4,565
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,302
-adaderanalk | 9,667
-tamilmirrorlk | 11,245
-virakesarilk | 12,282
-adaderanasinhalalk | 13,120
+adalk | 7,299
+adaderanalk | 9,666
+tamilmirrorlk | 11,243
+virakesarilk | 12,277
+adaderanasinhalalk | 13,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-66,887 (88.8%) of 75,329 articles have been extended.
+66,853 (88.8%) of 75,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### පාර්ලිමේන්තුව උණුසුම් - විනාඩි 10කට කල් තබයි
-
-*2025-09-11 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214431) · `si`
-
-පාර්ලිමේන්තුව තුළ ඇති වූ උණුසුම් තත්ත්වය හේතුවෙන් කථානායකයවරයා විසින් පාර්ලිමේන්තු කටයුතු විනාඩි 10කට කල්තැබීය.
-
-◼️
-
-[Data](articles/9346ec24.json)
-
----
-
-### නේපාලයේ කත්මණ්ඩු බලා යළිත් ගුවන් ගමන් අරඹයි
-
-*2025-09-11 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214430) · `si`
-
-වසා දමා තිබූ නේපාලයේ කත්මණ්ඩු ජාත්‍යන්තර ගුවන්තොටුපොළ එරට සිවිල් ගුවන් සේවා අධිකාරිය විසින් යළි විවෘත කිරීමත් සමගම යළිත් ශ්‍රී ලංකාව සහ නේපාලය අතර ගුවන් ගමන් ආරම්භ කර තිබේ.
-
-ඒ අනුව, ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 181 දරන ගුවන් යානය අද (11) උදෑසන 08.15 ට කටුනායක ගුවන්තොටුපොළෙන් නේපාලයේ කත්මණ්ඩු නුවර බලා පිටත්ව ගියේය.
-
-එම ගුවන් යානය අද දහවල් 11.41 ට නේපාලයේ කත්මණ්ඩු නුවර ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ගොඩබැස්සවීමට නියමිත අතර එම ගුවන් යානය යළිත් එරට සිටින ගුවන් මගීන් රැගෙන අද පස්වරු 04.40 ට කටුනායක ගුවන්තොටුපොළ වෙත පැමිණීමට නියමිතය.
-
-නේපාලයේ කත්මණ්ඩු ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ශ්‍රී ලන්කන් ගුවන් සේවය පමණක් ගුවන් ගමන් සේවා ක්‍රියාත්මක කරන අතර එම ගුවන් ගමන් සෑම සතියකම දින 04 ක් , එනම් ඉරිදා, සදුදා, බදාදා සහ බ්‍රහස්පතින්දා යන දින වල ක්‍රියාත්මක වේ.
-
-නේපාලයේ පැවති අරගලකාරී තත්ත්වය මත එරට ජාත්‍යන්තර ගුවන්තොටුපොළ වසා දැමීමත් සමග ශ්‍රී ලංකාව සහ නේපාලය අතර ගුවන් ගමන් ඊයේ (10) දින අත්හිටුවීමට ශ්‍රී ලන්කන් ගුවන් සේවයේ පියවර ගෙන තිබුණි.
-
-...
-
-[Data](articles/ab1ca39b.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
-
-*2025-09-11 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214429) · `si`
-
-ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය ඊයේ පාර්ලිමේන්තුවේදී පැවති අතර ඊට අදාළ ඡන්ද විමසීමේ දී පක්ෂව ඡන්ද 151ක් සහ විපක්ෂව එක් ඡන්දයක් හිමිවුණි.
-
-ඒ අනුව වැඩි ඡන්දයෙන් සම්මත වූ අදාළ පනත් කෙටුම්පතට කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා විසින් අත්සන් තබා පනතක් ලෙස ප්‍රකාශයට පත්කරනු ලැබීය.
-
-'ජනපති හිමිකම් ඉවත් කිරීමේ' පනත් කෙටුම්පතට සිය සහතිකය ලබා දුන් බවද  කථානායකවරයා අද පාර්ලිමේන්තුවට දැනුම්දෙනු ලැබීය.
-
-◼️
-
-[Data](articles/3d697405.json)
-
----
-
-### கெஹெல்பத்தர பத்மேவுடன் தொடர்புடைய உதவி பொலிஸ் பரிசோதகர் கைது
-
-*2025-09-11 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224782) · `ta`
-
-பாதாள உலகக்குழுத் தலைவர் கெஹெல்பத்தர பத்மேவுடன் தொடர்பு இருப்பதாகக் கூறப்படும் குற்றச்சாட்டில் கம்பஹா வலய, குற்றப்புலனாய்வுப் பிரிவின் உதவி பொலிஸ் பரிசோதகர் ஒருவர் குற்றப் புலனாய்வுத் திணைக்களத்தினால் கைது செய்யப்பட்டுள்ளார்.
-
-குற்றப் புலனாய்வுத் திணைக்களத்தின் தகவலின் படி, அண்மையில் இந்தோனேசியாவிலிருந்து நாடு கடத்தப்பட்ட கெஹெல்பத்தர பத்மேவுடன், மேலும் நான்கு ஒழுங்கமைக்கப்பட்ட குற்றக்குழு உறுப்பினர்களுடன், குறித்த பொலிஸ் அதிகாரி தொடர்பைப் பேணி வந்துள்ளதாக சந்தேகிக்கப்படுகிறது.
-
-குறித்த அதிகாரி, பாதாள உலகக் குழுவுடன் எவ்வாறான தொடர்பிலிருந்தார் என்பது குறித்து குற்றப்புலனாய்வு திணைக்களம் மேலும் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/df36f465.json)
-
----
-
-### கொஹூவளையில் வாகன விபத்து ; ஒருவர் உயிரிழப்பு!
-
-*2025-09-11 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/224775) · `ta`
-
-கொஹூவளை - சரணங்கர வீதியில் நேற்று (10) இரவு இடம்பெற்ற வாகன விபத்தில் பாதசாரி ஒருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தில் பலத்த காயமடைந்த பாதசாரி, களுபோவில போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்ததாக விசாரணைகளில் தெரியவந்துள்ளது.
-
-உயிரிழந்தவர் வெள்ளவத்தை, கோகில வீதியைச் சேர்ந்த 59 வயதுடையவர் என பொலிஸார் தெரிவித்துள்ளனர்.
-
-அதேநேரம், சந்தேக நபரைக் கைது செய்ய கொஹூவளை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/161c0e60.json)
-
----
-
-### நேபாளத்தில் உள்ள இலங்கையர்கள் குறித்து வெளிவிவகார அமைச்சின் அறிக்கை!
-
-*2025-09-11 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/224778) · `ta`
-
-நேபாளத்தில் நடந்து வரும் மோதல்கள் காரணமாக எந்த இலங்கையர்களும் காயமடைந்ததாகவோ அல்லது பாதிக்கப்பட்டதாகவோ எந்த தகவலும் இல்லை என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
-
-நேபாளத்தின் காத்மாண்டுவில் உள்ள இலங்கை தூதரகம் வழங்கிய புதுப்பிக்கப்பட்ட தகவலுக்கமைய, இன்று வியாழக்கிழமை (11) நிலவரப்படி நேபாளத்தில் உள்ள இலங்கையர்களின் எண்ணிக்கை 109 என அமைச்சு குறிப்பிட்டுள்ளது.
-
-மேலும் இலங்கையர்களுக்கு தேவையான உதவிகளை வழங்க நேபாளத்தின் காத்மாண்டுவில் உள்ள இலங்கை தூதரகம் தொடர்ந்தும் விழிப்புடன் உள்ளது என தெரிவித்துள்ளது.
-
-இது தொடர்பான தகவல்களை இலங்கை தூதரகம் மற்றும் பல சமூக உறுப்பினர்களுடன் வெளிவிவகார அமைச்சு தொடர்ந்தும் புதுப்பித்து வருவதாக, குறிப்பிட்டுள்ளது.
-
-◼️
-
-[Data](articles/8c77a1e1.json)
-
----
-
-### சபுகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையத்தில் தீ விபத்து
-
-*2025-09-11 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224777) · `ta`
-
-கொழும்பு தீயணைப்புத் திணைக்களத்தின் 07 தீயணைப்பு வாகனங்கள் உட்பட பல தீயணைப்பு வாகனங்களின் உதவியுடன் தீயை அணைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-சபுகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையத்தில் புதுப்பித்தல் பணிகள் நடைபெற்று வந்ததொட்டி ஒன்றில் நேற்று (10) இரவு தீ விபத்து ஏற்பட்டது.
-
-அதேநேரம், இன்று வியாழக்கிழமை (11) சம்பவ இடத்தில் விசாரணை நடத்த திட்டமிடப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/c64f13c2.json)
-
----
-
-### இரு வெவ்வேறு துப்பாக்கிச் சூட்டு சம்பவங்கள் தொடர்பில் இருவர் கைது!
-
-*2025-09-11 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/224776) · `ta`
-
-இரு வெவ்வேறு துப்பாக்கிச் சூட்டு சம்பவங்கள் தொடர்பாக, இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பொரலஸ்கமுவ, மாலனி புலத்சிங்கள மாவத்தையில் நேற்று புதன்கிழமை (10) முச்சக்கர வண்டியில் பிரவேசித்த அடையாளம் தெரியாத ஒருவர், அத்திடிய பகுதியில் முச்சக்கர வண்டியில் வந்த ஒருவரை சுட்டுக் கொலை செய்த குற்றச்சாட்டில்,   மேல் மாகாண தெற்கு குற்றப்பிரிவின் அதிகாரிகள் குழு சந்தேக நபர் ஒருவரை கைது செய்துள்ளது.
-
-துப்பாக்கிச் சூடு நடத்த வந்த முச்சக்கர வண்டியின் சாரதியை சந்தேக நபர் என பொலிஸார் தெரிவிக்கின்றனர்.
-
-இதேவேளை, கடந்த 22 ஆம் திகதி பொரல்ல, சீவலிபுர பகுதியில் நடந்த துப்பாக்கிச் சூட்டுக்கு உதவியாக இருந்த  சந்தேக நபர் ஒருவர் நேற்று பிற்பகல் பொலிஸ் விசேட அதிரடிப்படை புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவால் கைது செய்யப்பட்டு ராகம பொலிஸ் நிலையத்தில் முன்னிலைப்படுத்தப்பட்டார்.
-
-ராகமயில் உள்ள லிண்டன் மைதானத்திற்கு அருகில் நேற்று சந்தேக நபர் பொலிஸ் விசேட அதிரடிப்படை புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவால் கைது செய்யப்பட்டார்.
-
-...
-
-[Data](articles/1f0863a3.json)
-
----
-
-### සංගීත කණ්ඩායමක නිත්‍ය ගායන ශිල්පියෙක් කුඩු එක්ක අල්ලයි
-
-*2025-09-11 09:01:56* · [`adalk`](https://www.ada.lk/breaking_news/සංගීත-කණ්ඩායමක-නිත්‍ය-ගායන-ශිල්පියෙක්-කුඩු-එක්ක-අල්ලයි/11-418425) · `si`
-
-ජනප‍්‍රිය සංගීත කණ්ඩායමක නිත්‍ය ගායන ශිල්පියා සන්තකයේ තිබූ හෙරෝයින් ග‍්‍රෑම් 203 ක් අවස්ථා දෙකකදී අත්අඩංගුවට ගත් බැව් කුලියාපිටිය පොලිසිය කියයි.
-
-එලෙසින් අත්අඩංගුවට ගෙන තිබුණේ කුලියාපිිටිය ඌරුපිටිය ප‍්‍රදේශයේ පදිංචිකරුවෙකු වූ සංගීත කණ්ඩායමක සේවය කරන්නෙකි.
-
-ලද තොරතුරකට අනුව රැකවල් ලා සිටි පොලිසිය මුල් අවස්ථාවේදී සැකකරුගේ යතුරුපැදිය නවතා පරීක්‍ෂා කර බැලීමේදී හොරොයින් ග‍්‍රෑම් 38ක් සොයාගන තිබිණ. සැකකරු අදාළ හෙරොයින් තොගය සමගින් අධිකරණයට ඉදිරිපත් කර කුලියාපිටිය මහේස්ත‍්‍රාත් රන්දික ලක්මාල් ජයලත් මහතාගෙන් ඉල්ලීම් කර ලබාගත් රැ`දවුම් නියෝගය අනුව වැඩිදුර ප‍්‍රශ්න කිරීමේදී කැලෑබද ප‍්‍රදේශයක සූක්‍ෂමව ස`ගවා තිබූ හෙරොයින් ග‍්‍රෑම් 165ක ප‍්‍රමාණයක් සොයාගැනීමට හැකිවිය.
-
-අනතුරුව අදාළ හෙරොයින් තොගයද සමගින් සැකකරු අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර සැකකරුගේ ප‍්‍රකාශ අනුව තවත් ජාවාරම් කරුවන් රැසක් පිළිබ`ද තොරතුරු අනාවරණය වූ බවත් මේ වනවිටත් එම ජාවාරම්කරුවන් නීතියේ රැහැනට හසුකරගැනීමට පොලිස් දැල එලා ඇති බවත් පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/96d50270.json)
-
----
-
-### 109 Sri Lankans currently in Nepal are safe, Foreign Ministry confirms
-
-*2025-09-11 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112386/109-sri-lankans-currently-in-nepal-are-safe-foreign-ministry-confirms) · `en`
-
-A total of 109 Sri Lankans currently in Nepal are accounted for and safe, the Ministry of Foreign Affairs has confirmed.
-
-Issuing an update, the Foreign Ministry said it is in constant contact with the Sri Lankan Embassy and several community members in Kathmandu to obtain updates and assist Sri Lankans where necessary.
-
-Meanwhile, the Foreign Ministry said the 73 Sri Lankan pilgrims, who traveled to Lumbini by road from India, have safely crossed the border entering India.
-
-Embassy officials had directly engaged with Nepalese immigration authorities to expedite the necessary procedures.
-
-The Embassy further stated that the Nepal Army has taken control of the security situation in the country and has issued instructions for the public to remain at home.
-
-The Ministry of Foreign Affairs also advised Sri Lankans in Nepal to take precautions and remain indoors to protect themselves from possible attacks amidst the ongoing violent protests in the country.
-
-...
-
-[Data](articles/3ce84af3.json)
-
----
-
-### Massive struggle in France: 200 arrested
-
-*2025-09-11 08:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸில்-பாரிய-போராட்டம்-200-பேர்-கைது/50-364396) · `ta`
-
-Police Arrest the Bott Tangs Series. Prime Minister Fi Ron Chua Baru's skin, which was taken up three days ago in France's Natural Man, was in a state of disguise, and his head -to -head government collapsed.
-
-In the case of 577 members of the French Natural Manth, 364 members and 194 members of the Bank of India have been voted for the Book of Bill.
-
-With this, Chancellor, the Chancellor of Manuel Mac Ron, has been in the last 12 months.. Subsequently, the President of the Ministry of Public Council, Sir Legner, was appointed as the new Chief Minister.. In this case, the new government's opposition to the post of France has exploded.
-
-Subsequently, the police, who prevented the mugs of the mugs in the area, threw their eyes smokers and threw their eyes smokers.. In the meantime, the West Tuck Carries set fire to the West Town City Rence Bus One. In the dental areas, the police have quicked the quicker cup butt.
-
-...
-
-[Data](articles/1c59df90.json)
-
-[Extended Data](ext_articles/1c59df90.ext.json)
-
----
-
-### 3 buses collide with each other in Balangoda
-
-*2025-09-11 08:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பலாங்கொடையில்-3-பேருந்துகள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/76-364395) · `ta`
-
-Three buses collided with each other in the Balangoda Bahala area on the Colombo-Padulla main road in the morning.
-
-The accident occurred when the Sri Lanka Transport Board bus carrying passengers, including school children from Belmatula to Balangoda, collided with a private bus from Balangoda to Colombo and the Sri Lanka Transport Board bus traveling in the same direction.
-
-As an ambulance arrived at the scene, people in the area took school children and many passengers who were suffering from minor injuries to the hospital.
-
-◼️
-
-[Data](articles/0572a1aa.json)
-
-[Extended Data](ext_articles/0572a1aa.ext.json)
-
----
-
-### Interim government led by Sushila Karki in Nepal
+### நேபாளத்தில்  சுஷிலா கார்க்கி தலைமையில் இடைக்கால அரசு
 
 *2025-09-11 08:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-சுஷிலா-கார்க்கி-தலைமையில்-இடைக்கால-அரசு/50-364394) · `ta`
 
-Violence has continued for the past few days in Nepal. This is why the situation is getting worse day by day. Meanwhile, it is reported that the interim government is headed by former chief justice Sushila Karki.. Susila Karki's support for the protesters seems to be over the end of the violence there
+நேபாளத்தில் கடந்த சில நாட்களாகவே வன்முறை தொடர்ந்து வருகிறது. இதனால் அங்கு நாளுக்கு நாள் நிலைமை மோசமாகிக் கொண்டே போகிறது. இதற்கிடையே அந்நாட்டின் முன்னாள் தலைமை நீதிபதி சுஷிலா கார்க்கி தலைமையில் அங்கு இடைக்கால அரசு அமையவுள்ளதாகத் தகவல் வெளியாகியுள்ளது.. போராட்டக்காரர்களின் ஆதரவு சுஷிலா கார்க்கிக்கு இருப்பதால், அங்கு வன்முறை மெல்ல முடிவுக்கு வரும் எனத் தெரிகிறது
 
 ◼️
 
 [Data](articles/9f160492.json)
 
-[Extended Data](ext_articles/9f160492.ext.json)
-
 ---
 
-### Charlie Kirk shot dead by Trump's ardent supporter;  Horror at the university event
+### டிரம்ப்பின் தீவிர ஆதரவாளர் சார்லி கிர்க் சுட்டுக்கொலை;  பல்கலைக்கழக நிகழ்ச்சியில் பயங்கரம்
 
 *2025-09-11 08:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்ப்பின்-தீவிர-ஆதரவாளர்-சார்லி-கிர்க்-சுட்டுக்கொலை-பல்கலைக்கழக-நிகழ்ச்சியில்-பயங்கரம்/50-364393) · `ta`
 
-Charlie Kirk, a supporter of US President Donald Trump, was shot dead during a university event.
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்பின் ஆதரவாளரான சார்லி கிர்க், பல்கலைக்கழக நிகழ்ச்சியின் போது சுட்டுக்கொல்லப்பட்ட சம்பவம் பரபரப்பை ஏற்படுத்தியுள்ளது.
 
-Charlie Kirk, a US right -wing activist and an ardent supporter of US President Donald Trump, was shot dead while speaking at an event at Utta University.
+அமெரிக்காவின் வலதுசாரி ஆர்வலரும், அமெரிக்க ஜனாதிபதி  டொனால்ட் டிரம்ப்பின் தீவிர ஆதரவாளருமான சார்லி கிர்க், உட்டா பல்கலைக்கழகத்தில் நடந்த ஒரு நிகழ்ச்சியில் பேசிக் கொண்டிருந்தபோது சுட்டுக் கொல்லப்பட்டார்.
 
-US President Trump has confirmed the incident on his Truth Social Post.
+இந்தச் சம்பவத்தை அமெரிக்க ஜனாதிபதி டிரம்ப் தன்னுடைய ட்ரூத் சோஷியல் பக்கத்தில் உறுதிபடுத்தியுள்ளார்.
 
-31 -year -old Charlie Kirk, taken to the hospital with injuries. Where he had surgery. However, Kirk fell victim to treatment.
+31 வயதான சார்லி கிர்க், காயங்களுடன் மருத்துவமனைக்கு கொண்டு செல்லப்பட்டார். அங்கு அவருக்கு அறுவைச் சிகிச்சை செய்யப்பட்டது. இருப்பினும், சிகிச்சை பலனின்றி கிர்க் பலியானார்.
 
-The incident of the shooting of Charlie Kirk Kirk, a co -founder and chief executive officer of the Turning Point USA, has been shot dead in the United States, as the United States continues to rise in the United States.
+சமீபகாலமாகவே அமெரிக்காவில் தொடர்ந்து வன்முறை அதிகரித்து வரும் நிலையில், ‘டர்னிங் பாயிண்ட் யுஎஸ்ஏ’ என்ற இளைஞர் அமைப்பின் இணை நிறுவனர் மற்றும் தலைமை நிர்வாக அதிகாரியான சார்லி கிர்க் சுட்டுக் கொல்லப்பட்ட சம்பவம் மேலும் பரபரப்பை ஏற்படுத்தியுள்ளது
 
 ◼️
 
 [Data](articles/c7654486.json)
-
-[Extended Data](ext_articles/c7654486.ext.json)
 
 ---
 
@@ -320,8 +102,6 @@ But shares in Musk’s most valuable business, Tesla, have fallen this year.
 
 [Data](articles/abb5e600.json)
 
-[Extended Data](ext_articles/abb5e600.ext.json)
-
 ---
 
 ### Fire at Sapugaskanda Oil Refinery contained
@@ -342,8 +122,6 @@ A local investigation is scheduled to take place today (11) to determine the cau
 
 [Data](articles/7f3ce93d.json)
 
-[Extended Data](ext_articles/7f3ce93d.ext.json)
-
 ---
 
 ### Sri Lanka banks reduce Treasury bill holdings as private credit picks up
@@ -356,7 +134,7 @@ Bank holdings of bills peaked in February 2025 at 2,825 billion rupees and has f
 
 Sri Lanka’s bill auctions have failed to be fully subscribed in recent weeks at the cut off rates offered by the debt office, with no takers last week for additional bills offered on tap.
 
-Sri Lanka’s bill yields have remained fixed in recent weeks, which analysts have dubbed the ‘ramrod rate anomaly’ in the past. In the past the ‘ramrod rate anomaly’ has been enforced through printing money.
+Sri Lanka’s bill yields have remained fixed in recent weeks, which analysts have dubbed the ‘ramrod rate anomaly’ in the past.  In the past the ‘ramrod rate anomaly’ has been enforced through printing money.
 
 However, banks are still buying bonds which are offered at higher rates.
 
@@ -444,26 +222,6 @@ In a separate case, another individual has been arrested by officers of the Poli
 
 [Data](articles/0be6bdea.json)
 
-[Extended Data](ext_articles/0be6bdea.ext.json)
-
----
-
-### Three LTTE bus collision with Balangoda
-
-*2025-09-11 07:38:53* · [`adalk`](https://www.ada.lk/picture_story/බලන්ගොඩ-ඇල්ලෙපොලදී-බස්-රථ-3ක්-එකට-ගැටේ/10-418423) · `si`
-
-Three buses crashed at the Baththelpola area in Balangoda today (11). The accident had occurred between.
-
-The SLTB bus and the private bus carrying the SLTB to Colombo and the private bus, which was driven from Balangoda to Colombo and the private bus and the private bus.
-
-The statisters acted in ambulance driving to the hospital and several other passengers to the hospital. Badulla-Colombo main road in Badulla was completely blocked. Opanayaka police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/1a97b78d.json)
-
-[Extended Data](ext_articles/1a97b78d.ext.json)
-
 ---
 
 ### Two suspects arrested
@@ -512,8 +270,6 @@ Furthermore, political sources suggest that former Presidents Maithripala Sirise
 
 [Data](articles/f0ebc10f.json)
 
-[Extended Data](ext_articles/f0ebc10f.ext.json)
-
 ---
 
 ### According to the Act, three former presidents lose their official homes - to go to Mahinda
@@ -561,8 +317,6 @@ Meanwhile, the total number of casualties from the Gen Z-led protests in Nepal h
 ...
 
 [Data](articles/4a4aa983.json)
-
-[Extended Data](ext_articles/4a4aa983.ext.json)
 
 ---
 
@@ -625,8 +379,6 @@ The suspect responsible for the accident has not yet been identified, while the 
 ◼️
 
 [Data](articles/1656a336.json)
-
-[Extended Data](ext_articles/1656a336.ext.json)
 
 ---
 
@@ -744,8 +496,6 @@ Meanwhile, the government is also scheduled to present a supplementary estimate 
 
 [Data](articles/34f6e7ce.json)
 
-[Extended Data](ext_articles/34f6e7ce.ext.json)
-
 ---
 
 ### Charlie Kirk: Donald Trump ally shot dead at campus event in Utah
@@ -763,8 +513,6 @@ The suspected shooter has not been arrested, Orem, Utah, Mayor David Young said.
 ...
 
 [Data](articles/e3585beb.json)
-
-[Extended Data](ext_articles/e3585beb.ext.json)
 
 ---
 
@@ -799,8 +547,6 @@ Meanwhile, the general public has also requested to take adequate precautions to
 ◼️
 
 [Data](articles/e7b1e0d2.json)
-
-[Extended Data](ext_articles/e7b1e0d2.ext.json)
 
 ---
 
@@ -1363,28 +1109,6 @@ Both indices moved upwards. The All Share Price Index went up by 96.2 points, wh
 [Data](articles/055ac844.json)
 
 [Extended Data](ext_articles/055ac844.ext.json)
-
----
-
-### The site is open to apply for Israeli jobs
-
-*2025-09-10 23:13:36* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-සඳහා-අයදුම්කිරීමට-වෙබ්-අඩවිය-විවෘතයි/11-418420) · `si`
-
-The Sri Lanka Foreign Employment Bureau says that under the forthcoming scheme of the Endary Reforms sub-sector in the construction industry.
-
-Accordingly, the Bureau can register with the website www.slbfe.lk www.slbfe.lk and the web bulletin has been opened until 24.09.2012.
-
-Accordingly, the number of jobs to be reformed (electricity mounting, wall bound, bot,, are cuppieces, crates, crates). 1500 applicants are to be recruited. People who choose these jobs receive a 63-month contract period.
-
-Among the age of 25-45, the people who have been able to serve in the Israeli state, have been able to apply for a talent and experience for the job group they choose.
-
-After a preliminary investigation, the applicants of applicants are conducted in the District Centers under the NAITA (NAITA) under the NAITA.. Candidates who pass the founders of the Katubedda National Apprentice and Technical Training Authority will be referred to the inclusion of the applicants list to Israel in Israel.
-
-...
-
-[Data](articles/b987f788.json)
-
-[Extended Data](ext_articles/b987f788.ext.json)
 
 ---
 
@@ -1959,5 +1683,289 @@ Accordingly, from today, lawyers and the general public will have the convenienc
 [Data](articles/2c55357d.json)
 
 [Extended Data](ext_articles/2c55357d.ext.json)
+
+---
+
+### World Bank commends the progress of the Sri Lankan economy
+
+*2025-09-10 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214414) · `si`
+
+The World Bank says Sri Lanka has made significant progress to stabilize its economy and that it is nearly 8% of GDP in the last three years.
+
+The World Bank said a new review of the country's financial finance from 1980, since 1980, it was a sharp and fast progress.
+
+According to the World Bank Executive sum, the Executive Summary said:
+
+Since 2021 Sri Lanka's financial adjustments - gross domestic product (gross domestic product) has been largely large, depending on historical and international standards.
+
+It has become critical to reduce the economy, reducing financial imbalance and restore the macroeconomic stability.
+
+As the macroeconomic stability is largely restored, Sri Lanka can now consider a more balanced financial strategy.
+
+The sharp state matches have adversely affected households through high-ranking taxes and trends.
+
+...
+
+[Data](articles/7d494dd3.json)
+
+[Extended Data](ext_articles/7d494dd3.ext.json)
+
+---
+
+### New circular issued for state school admissions
+
+*2025-09-10 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112368/new-circular-issued-for-state-school-admissions) · `en`
+
+A new circular has been issued regarding the admission of students from Grade 2 to Grade 11, excluding Grades 5 and 6, in government schools.
+
+Accordingly, the Circular No. 27/2025 has been issued by the Ministry of Education, Higher Education, and Vocational Training.
+
+The circular can now be accessed via the official website of the Ministry: http://www.moe.gov.lk.
+
+◼️
+
+[Data](articles/93ca57a9.json)
+
+[Extended Data](ext_articles/93ca57a9.ext.json)
+
+---
+
+### Introduces card transaction facilities to the judicial system
+
+*2025-09-10 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214413) · `si`
+
+The introduction of the card transaction ceremony to automate the payment of payments to the judicial payment was held at the Supreme Court premises this afternoon.
+
+These paying systems automatically facilitates the public to pay for the Supreme Court on the Supreme Court, cases, cases, cases, certificates, certificates, and online payment system.
+
+The convenience of repayment of Supreme Court and the public has been given the convenience of Debit and Credit card in carrying out the legal proceedings and the public.
+
+Member of the Judicial Service Commission Member Justices and the Chairman of the Sri Lanka Bar Association Attorney at Law, Rajiv Amarasuriya and the Supreme Court Registrar and Deputy Registrars and Deputy Registrars and Deputy Registrar and Deputy Registrar and Deputy Registrars.
+
+...
+
+[Data](articles/feb6cdfd.json)
+
+[Extended Data](ext_articles/feb6cdfd.ext.json)
+
+---
+
+### Deputy Minister who threatened Namal with a 14 -day period
+
+*2025-09-10 18:24:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-நாட்கள்-காலவகாசம்-வழங்கி-நாமலை-மிரட்டிய-துணை-அமைச்சர்/175-364369) · `ta`
+
+Parliamentarian Namal Rajapaksa claims to have spread slander. Public Security Minister Sunil Vatagala said he was ready to respond to a legal announcement sent by 1 billion compensation.
+
+Speaking in Parliament, Deputy Minister Sunil Vattakala said Namal Rajapaksa should file a case within 14 days, even though he has not yet received a notice.. He also welcomed the opportunity to cross the parliamentarian in court.
+
+"He does not know this because he does not practice as a lawyer in court. Vatagala said that the only case of slander cases can investigate the plaintiff on matters beyond the border. ”
+
+“I will question whether you have the qualifications you need to enroll in law college. Is your qualification real at City University in the UK? Is it possible to write the final year exam of the Law College and get the relevant qualification in a separate room?
+
+...
+
+[Data](articles/72f455cb.json)
+
+[Extended Data](ext_articles/72f455cb.ext.json)
+
+---
+
+### Speaker made the bill
+
+*2025-09-10 18:06:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-சட்டமாக்கினார்-சபாநாயகர்/175-364368) · `ta`
+
+Speaker Jagath Wickramaratne has approved the Certificate of Rights (Cancellation) Bill passed in Parliament today.
+
+Accordingly, the bill will come into effect as the President's Rights (Cancel) Act of 2025.
+
+The President's Rights Bill was passed today by 150 majority votes in Parliament.
+
+◼️
+
+[Data](articles/b0756360.json)
+
+[Extended Data](ext_articles/b0756360.ext.json)
+
+---
+
+### The government has created a ban on explicit inquiries into the lifeblood attack - the United People's Power
+
+*2025-09-10 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/224755) · `ta`
+
+The government has put a barrier to the transparency of the lifeblood Sunday attacks. The government must respond to this. The National Organizer of the United People's Power Tissa Attanayake said the government would not abandon the no -confidence motion against the Deputy Defense Minister whatever the ban.
+
+He further stated this at a press conference held at the United People's Power Headquarters in Colombo on Wednesday (10).
+
+When Deputy Defense Minister Aruna Jayasekara is in the position, we are suspicious of whether the survivor's attack can be carried out fair.. He has testified during these hearing. Officials who worked under him also testified. He would have resigned if he thought it should be allowed to carry out that investigations.
+
+...
+
+[Data](articles/910a6a79.json)
+
+[Extended Data](ext_articles/910a6a79.ext.json)
+
+---
+
+### Sri Lanka made remarkable progress towards economic stabilization since the crisis: World Bank
+
+*2025-09-10 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112367/sri-lanka-made-remarkable-progress-towards-economic-stabilization-since-the-crisis-world-bank) · `en`
+
+The World Bank says Sri Lanka has made remarkable progress towards economic stabilisation since the crisis.
+
+The Sri Lanka Public Finance Review: Towards a Balanced Fiscal Adjustment published by the World Bank states a substantial fiscal adjustment was central to Sri Lanka’s stabilization efforts, with the primary balance improving by 7.9 percent of gross domestic product (GDP) between 2021 and 2024, from a low base.
+
+This was primarily driven by significant revenue measures, including reversing past policy missteps and increasing taxes on a narrow existing base, the World Bank noted.
+
+Additionally, constrained public investment—due to rationalization measures and limited external financing—along with cuts to some non-interest recurrent spending helped keep total spending in check.
+
+...
+
+[Data](articles/97c26bb4.json)
+
+[Extended Data](ext_articles/97c26bb4.ext.json)
+
+---
+
+### Kathmandu airport reopened
+
+*2025-09-10 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214411) · `si`
+
+The Triangu International Airport in Kathmandu, which was in the unrest in Nepal, has been reopened for all civil airports.
+
+◼️
+
+[Data](articles/f080dc9e.json)
+
+[Extended Data](ext_articles/f080dc9e.ext.json)
+
+---
+
+### Mahinda is the beginning of the house looking for a house
+
+*2025-09-10 17:38:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-வீடு-தேடும்-படலம்-ஆரம்பம்/175-364367) · `ta`
+
+Former President Mahinda Rajapakse's supporters have begun to find a new house in Colombo,
+
+One close to him said that a new law has been launched following a new legislation that has been enacted by former presidents' official privileges.
+
+According to that region, Rajapakse is looking for a house with enough space to facilitate his public events
+
+◼️
+
+[Data](articles/b25f3e57.json)
+
+[Extended Data](ext_articles/b25f3e57.ext.json)
+
+---
+
+### Eshan and Adjori receive the value of the SA20 athlete at auction
+
+*2025-09-10 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214410) · `si`
+
+The Auction of the Twenty20 Cricket League, South Africa, was sold yesterday (9), and the two youth players' young players were sold.
+
+Both of them were purchased by Partal Royals under the administration of Rajasthan Royals owners in the IPL.
+
+Former Sri Lanka-captain Kumar Sangakkara was also present at the event as Rajasthan Royals chief coach to auction.
+
+Fast bowler Ezhan Malinga, a million South African Rand, or Money. 17.3 sold.
+
+Eshan Malinga The IPL. The Sunrises of the tournament also represents the Hyderabad team.
+
+In addition to him, the 20-year-old yoke of the 20ths of South African rand (Rs. 3.45) was sold.
+
+Kusal Janith Perera, who is experienced in this auction, including Mah Meh insight and Binura Fernando's names, they were not selling.
+
+Meanwhile, a South African player Dowldd Bradeu was the highest price player at the top of this auction.
+
+He bought the Rand for 16.5 million. This is the highest value of the SA20 in history.
+
+...
+
+[Data](articles/dc5ec659.json)
+
+[Extended Data](ext_articles/dc5ec659.ext.json)
+
+---
+
+### Nepal Protests: Kathmandu Airport reopens for civilian flights
+
+*2025-09-10 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112366/nepal-protests-kathmandu-airport-reopens-for-civilian-flights) · `en`
+
+The Civil Aviation Authority of Nepal has announced that Kathmandu’s Tribhuvan International Airport, Nepal’s main gateway, has reopened.
+
+Domestic and international flights, suspended since Tuesday, “will resume today,” the authority said in a statement, without elaborating.
+
+The shutdown had left hundreds of international tourists, including Indians, stranded amid the deadly unrest.
+
+Meanwhile, SriLankan Airlines informed Ada Derana that it will resume flights to Nepal from tomorrow (11).
+
+The situation in Nepal remained relatively calm on Wednesday, following two days of youth-led “Gen Z” protests that turned violent after a security crackdown left at least 19 demonstrators — mostly students — dead.
+
+With Prime Minister KP Sharma Oli and his cabinet having resigned, and as law enforcement struggled to maintain control, the Nepal Army took charge of security on Tuesday night.
+
+...
+
+[Data](articles/7e7b80fe.json)
+
+[Extended Data](ext_articles/7e7b80fe.ext.json)
+
+---
+
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
+
+*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-nilanga-dela) · `en`
+
+The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
+
+This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
+
+The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
+
+During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
+
+The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/c3f9f2f3.json)
+
+[Extended Data](ext_articles/c3f9f2f3.ext.json)
+
+---
+
+### Appeals Court to hear petition filed seeking interim order against former Diyawadana Nilame Pradeep Dela
+
+*2025-09-10 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112365/appeals-court-to-hear-petition-filed-seeking-interim-order-against-former-diyawadana-nilame-pradeep-dela) · `en`
+
+The Court of Appeal has ordered that a writ petition—which seeks an interim injunction to prevent former Diyawadana Nilame Pradeep Nilanga Dela from functioning as the acting Diyawadana Nilame of the Sri Dalada Maligawa in Kandy—be taken up for consideration on September 23.
+
+This petition was filed by Saliya Prasad Nandasiri, a resident of Gampola, Ada Derana reporter said.
+
+The petition was taken up today before the Court of Appeal bench comprising Justices Rohantha Abeysuriya and Priyantha Fernando.
+
+During the proceedings, the bench ordered that the petition be taken up on September 23 to confirm the facts presented.
+
+The Commissioner of Buddhist Affairs, former Diyawadana Nilame Pradeep Nilanga Dela, and several others have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/de557286.json)
+
+[Extended Data](ext_articles/de557286.ext.json)
+
+---
+
+### Historic Garbage
+
+*2025-09-10 17:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வரலாற்று-குப்பை-தொட்டியில்-ஒலி/62-364366) · `ta`
+
+Nepal Prime Minister Sharma Sound resigned from his post. In this case, the former President of Sri Lanka Gotabhaya Rajapakse and the former Prime Minister of Bangladesh Sheikh Hasina are lying in the historic garbage bin.
+
+◼️
+
+[Data](articles/828c8a98.json)
+
+[Extended Data](ext_articles/828c8a98.ext.json)
 
 ---

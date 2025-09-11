@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 19:10:34**
+As of **2025-09-11 19:37:34**
 
 ## Newspaper Stats
 
-*Scraped **75,435** Articles*
+*Scraped **75,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,90 +17,202 @@ islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,319
-adaderanalk | 9,685
-tamilmirrorlk | 11,281
-virakesarilk | 12,293
-adaderanasinhalalk | 13,138
+adaderanalk | 9,687
+tamilmirrorlk | 11,282
+virakesarilk | 12,297
+adaderanasinhalalk | 13,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,446 (89.4%) of 75,435 articles have been extended.
+67,471 (89.4%) of 75,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### தங்காலையில் மஹிந்தவுக்கு அமோக வரவேற்பு
+### நாமலின் திருமண கொண்டாட்ட விவகாரம்;நீதிமன்றத்தின் உத்தரவு
+
+*2025-09-11 19:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-திருமண-கொண்டாட்ட-விவகாரம்-நீதிமன்றத்தின்-உத்தரவு/175-364444) · `ta`
+
+2019 ஆம் ஆண்டு பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவின் திருமண கொண்டாட்டங்களுக்காக இலங்கை மின்சார சபையிடமிருந்து (CEB) ரூ. 2 மில்லியனுக்கும் அதிக மதிப்புள்ள மின்சாரம் தவறாகப் பயன்படுத்தப்பட்டதாகக் கூறப்படும் குற்றச்சாட்டை எதிர்த்து தாக்கல் செய்யப்பட்ட அடிப்படை உரிமைகள் மனுவைத் தொடர உயர் நீதிமன்றம் இன்று அனுமதி அளித்தது.
+
+இந்த வழக்கு இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, ​​நீதிபதிகள் பிரீத்தி பத்மன் சூரசேன மற்றும் அச்சல வெங்கப்புலி ஆகியோர் இந்த உத்தரவை பிறப்பித்தனர்.
+
+பாராளுமன்ற உறுப்பினர் டி.வி. சானக்கவின் வேண்டுகோளின் பேரில், அப்போதைய மின்சக்தி அமைச்சர் ரவி கருணாநாயக்கவின் அறிவுறுத்தலின் பேரில், நிகழ்வு நடைபெற்ற ஒரு தனியார் இடத்திற்கு செல்லும் 1.5 கி.மீ நீளமுள்ள வீதியை ஒளிரச் செய்ய மின்சாரம் பயன்படுத்தப்பட்டதாக நீதிமன்றத்தின் முன் தெரியவந்தது.
+
+இந்த நிகழ்வுடன் எந்த தொடர்பும் இல்லாத மூன்றாம் தரப்பினரான ரோயல்கோ அக்வா கல்ச்சர் (பிரைவேட்) லிமிடெட் நிறுவனத்தால் பின்னர் பணம் செலுத்தப்பட்டதால், இது தேசிய அதிகார துஷ்பிரயோகம் மற்றும் ஊழலை உள்ளடக்கியது என்று மனுதாரர் வாதிட்டார்.
+
+...
+
+[Data](articles/8329ac62.json)
+
+---
+
+### අතරමැදි ශ්‍රේණි සඳහා සිසුන්  ඇතුළත් කරගැනීම ගැන නිවේදනයක්
+
+*2025-09-11 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214452) · `si`
+
+2025 වර්ෂයේ සිට පාසල්වල 2 ශ්‍රේණියේ සිට 11 ශ්‍රේණිය දක්වා සිසුන් ඇතුළත් කිරීම (5 සහ 6 ශ්‍රේණි හැර) සම්බන්ධයෙන් අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය විසින් 27/2025 චක්‍රලේඛය නිකුත් කර ඇත.
+
+එම චක්‍රලේඛය ප්‍රකාරව 2025 අධ්‍යයන වර්ෂයේ ජාතික පාසල්වල අතරමැදි ශ්‍රේණිවල පවතින පුරප්පාඩු සඳහා සිසුන් ඇතුළත් කර ගැනීම සිදු කරනු ලබන බව සඳහන් වේ.
+
+ඒ අනුව, 2025.06.30 දිනට ජාතික පාසල්වල අතරමැදි ශ්‍රේණිවල පවත්නා පුරප්පාඩු මේ සමග අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශ වෙබ් අඩවියේ ප්‍රසිද්ධ කෙරේ.
+
+එම පුරප්පාඩු සඳහා අයදුම් කිරීමට අපේක්ෂා කරන සියලු ම අයදුම්කරුවන් 27/2025 චක්‍රලේඛයෙහි සඳහන් අයදුම්පත්‍රය සම්පූර්ණ කර  2025.09.26 දිනට පෙර සියලු අතිරේක ලේඛන ද සමග අදාළ පාසල්වල විදුහල්පතිවරුන් වෙත ලියාපදිංචි තැපෑල මඟින් යොමු කළ යුතුය.
+
+◼️
+
+[Data](articles/792c46e8.json)
+
+---
+
+### Mahinda is a great welcome in Tangalle
 
 *2025-09-11 18:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-மஹிந்தவுக்கு-அமோக-வரவேற்பு/175-364443) · `ta`
 
-கொழும்பில் உள்ள விஜேராம மாவத்தையில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தை இன்று காலி செய்த முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ, தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு வந்தபோது அவருக்கு மகத்தான வரவேற்பு அளிக்கப்பட்டது.
+Former President Mahinda Rajapakse, who had evacuated his official residence in Wijerama Mawatha, Colombo, was greeted when he arrived at the Carlton house in Tangalle today.
 
-ராஜபக்ஷவையும் அவரது மனைவி ஷிரந்தியையும் ஏராளமானோர் வரவேற்றனர், பலர் கார்ல்டன் இல்லத்திற்குத் திரும்பியதில் தங்கள் மகிழ்ச்சியை வெளிப்படுத்தினர்.
+A large number of people welcomed Rajapakse and his wife Shiranthi, and many expressed their happiness for returning to Carlton's residence.
 
-ஜனாதிபதியின் உரிமைகள் (ரத்துசெய்தல்) சட்டம் இயற்றப்பட்டதைத் தொடர்ந்து, கொழும்பில் உள்ள உத்தியோகபூர்வ இல்லத்தை காலி செய்த பின்னர், முன்னாள் ஜனாதிபதி தங்காலைக்குத் திரும்பினார்.
+Following the passage of the President's Rights (Cancellation) Act, the former president returned to Tangalle after vacating the official residence in Colombo.
 
-முன்னாள் ஜனாதிபதிகள், அவர்களது விதவைகள் மற்றும் ஓய்வு பெற்ற எம்.பி.க்களுக்கு வழங்கப்படும் சிறப்பு சலுகைகளை ரத்து செய்யும் சட்டமூலம், நேற்று பாராளுமன்றத்தில் எந்த திருத்தங்களும் இல்லாமல் நிறைவேற்றப்பட்டது.
+The Bill, which cancels special concessions granted to former presidents, their widows and retired MPs, was passed yesterday without any amendments in Parliament.
 
 ◼️
 
 [Data](articles/404e6531.json)
 
+[Extended Data](ext_articles/404e6531.ext.json)
+
 ---
 
-### අයවැය නොවැම්බර් 7 වැනිදා
+### Budget on November 7
 
 *2025-09-11 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214451) · `si`
 
-2026 වර්ෂයට අදාළ විසර්ජන පනත් කෙටුම්පත දෙවැනිවර කියවීම (අයවැය කථාව/ අයවැය යෝජනා ඉදිරිපත් කිරීම) 2025 නොවැම්බර් 7 වැනිදා සිදු කිරීමටත්, නොවැම්බර් 8 සිට දෙසැම්බර් 5 දක්වා විවාදය පැවැත්වීමටත් තීරණය කර තිබේ.
+It has been decided to read the Appropriation Bill of the year 2026 (budget speech / budget proposals) to be held on November 7 and December 5 to December 5 of November.
 
-කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් අද (11) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මෙම තීරණය ගෙන ඇත.
+The decision was taken at the Committee on Parliamentary Business (11) under the patronage of Speaker of Parliament.
 
-මේ අනුව විසර්ජන පනත් කෙටුම්පත පළමුවර කියවීම සඳහා සැප්තැම්බර් 26 දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බවත් මහලේකම්වරිය පැවසුවාය.
+Accordingly, the Appropriation Bill will be presented to Parliament on September 26 to read the first reading.
 
-මුදල් විෂය භාර අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් 2025 නොවැම්බර් 7 වැනිදා විසර්ජන පනත් කෙටුම්පත දෙවැනිවර කියවීම (අයවැය කථාව) සිදු කිරීමටත්, අනතුරුව නොවැම්බර් 8 සිට නොවැම්බර් 14 දක්වා දින 6ක් දෙවනවර කියවීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත.
+As the Minister in charge of Finance, the President has decided to read the Appropriation Bill on November 7.
 
-ඒ අනුව නොවැම්බර් 14 ප.ව 6.00ට දෙවනවර කියවීමේ ඡන්ද විමසීම පැවැත්වේ.
+Accordingly, the second reading election will be held at 6:00 pm.
 
-ඉන්පසු නොවැම්බර් 15 සිට දෙසැම්බර් 5 දක්වා දින 17ක් කාරක සභා අවස්ථාවේ විවාදය පැවැත් වීමටත් දෙසැම්බර් 5 ප.ව 6.00ට අයවැය තෙවනවර කියවීමේ ඡන්ද විමසීම පැවැත්වීමටත් මෙහිදී එකඟත්වය පළ වී ඇත.
+It has been agreed to hold 17 days from November 15 to December 5 and 17 pm on December 5 pm.
 
-...
+During this period, the budget debate will be held every day, including public holidays and Sundays.
+
+The Parliament has also decided to meet at 9.30 am on Monday, every day every day.
+
+◼️
 
 [Data](articles/52626ff2.json)
 
+[Extended Data](ext_articles/52626ff2.ext.json)
+
 ---
 
-### 2026 பட்ஜெட்;திகதிகள் அறிவிப்பு
+### 2026 Budget; Dates Notification
 
 *2025-09-11 18:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-பட்ஜெட்-திகதிகள்-அறிவிப்பு/175-364442) · `ta`
 
-2026 ஆம் ஆண்டுக்கான ஒதுக்கீட்டு சட்டமூலத்தின் இரண்டாவது வாசிப்பு (வரவு செலவுத் திட்ட உரை/வரவு செலவுத் திட்ட முன்மொழிவுகளை வழங்குதல்) 2025 நவம்பர் 7 ஆம் திகதி நடைபெறும் என்றும், அதைத் தொடர்ந்து நவம்பர் 8 முதல் டிசம்பர் 5 ஆம் திகதி வரை வரவு செலவுத் திட்ட விவாதம் நடைபெறும் என்றும் பாராளுமன்ற செயலாளர் நாயகம் திருமதி குஷானி ரோஹனதீர தெரிவித்தார்.
+The second reading of the Allocation Bill for 2026 (the budget of the budget/budget proposals) will be held on November 7, 2025, followed by a budget debate from 8th December 5th December, said Parliamentary Secretary General Mrs. Kushani Rohanadeera.
 
-சபாநாயகர் கலாநிதி ஜகத் விக்ரமரத்ன தலைமையில் இன்று (11) நடைபெற்ற பாராளுமன்ற அலுவல்கள் குழுவின் கூட்டத்தில் இந்த முடிவு எடுக்கப்பட்டது.
+The decision was taken at a meeting of the Parliamentary Affairs Committee held today (11) chaired by Speaker Dr. Jagath Wickramaratne.
 
-அதன்படி, ஒதுக்கீட்டுச் சட்டமூலத்தின் முதல் வாசிப்பு 2025 செப்டம்பர் 26 ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என்று செயலாளர் நாயகம் தெரிவித்தார்.
+Accordingly, the first reading of the Allocation Bill will be presented in Parliament on September 26, 2025, the Secretary General said.
 
-நிதி அமைச்சர் என்ற முறையில், கௌரவ ஜனாதிபதி நவம்பர் 7 ஆம் திகதி ஒதுக்கீட்டு சட்டமூலத்தின் (பட்ஜெட் உரை) இரண்டாவது வாசிப்பை சமர்ப்பிப்பார், மேலும் இரண்டாவது வாசிப்பு விவாதத்திற்காக நவம்பர் 8 ஆம் திகதி முதல் நவம்பர் 14 ஆம் திகதி வரை ஆறு நாட்கள் ஒதுக்க முடிவு செய்யப்பட்டுள்ளது. இரண்டாவது வாசிப்பு மீதான வாக்கெடுப்பு நவம்பர் 14 ஆம் திகதி மாலை 6:00 மணிக்கு நடைபெறும்.
+As the Minister of Finance, the President will submit a second reading of the Allocation Bill (Budget text) on November 7, and it has been decided to allocate six days from November 8 to November 14 for the second reading debate.. The referendum on the second reading will take place on November 14 at 6:00 pm.
+
+Subsequently, the group debate will be held from November 15 to December 5, and the third reading referendum will be held at 6.00 pm on December 5.
 
 ...
 
 [Data](articles/f5cb5d01.json)
 
+[Extended Data](ext_articles/f5cb5d01.ext.json)
+
 ---
 
-### இன்டர்போல் சிவப்பு அறிவிப்பு;15 இலங்கையர்கள் கைது
+### A further 15 underworld members arrested overseas
+
+*2025-09-11 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224853) · `ta`
+
+A further 15 underworld group members have been arrested abroad, with a red warning of Sri Lanka's underworld groups.
+
+Public Security Minister Ananda Wijepala announced in Parliament on Thursday that the arrests were taken in Russia, Oman, the United Arab Emirates and India.
+
+“These criminals are currently facing legal action in their respective countries. Once they are completed, all legal action will be taken to bring them to Sri Lanka. ”
+
+Meanwhile, officials have already been arrested and brought to Sri Lanka and such arrests are being contributed to the eradication of underworld crimes.
+
+The announcement of the Minister of Public Security has attracted great attention to the law and order situation in the country.
+
+◼️
+
+[Data](articles/629e2e18.json)
+
+[Extended Data](ext_articles/629e2e18.ext.json)
+
+---
+
+### Army officer arrested for providing bullets to Commando Salindu
+
+*2025-09-11 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224850) · `ta`
+
+A Lutinan Colonel of the Army was arrested on Thursday 11 on charges of selling bullets for T-56 rifles for Commando Salindu, who is considered an organized criminal.
+
+The Northern Provincial Criminal Investigation Division has launched the operation. It is noteworthy that the arrested army officer was the command officer of the military camp in Mullaitivu - Mallavi.
+
+During the investigation, the officer was working in the Commando Regiment, 260 bullets for T-56 guns, twice, a total of Rs.. It is alleged that Commando has sold to Salindu for 6.5 lakhs.
+
+Police said two more charges were against the officer.
+
+He was arrested and handed over to the Criminal Investigation Department (CID) officials for further investigations.. Investigations into the incident are being actively carried out.
+
+◼️
+
+[Data](articles/71e9a5ef.json)
+
+[Extended Data](ext_articles/71e9a5ef.ext.json)
+
+---
+
+### Interpol Red Notice; 15 Sri Lankans arrested
 
 *2025-09-11 18:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்டர்போல்-சிவப்பு-அறிவிப்பு-15-இலங்கையர்கள்-கைது/175-364441) · `ta`
 
-இன்டர்போல் சிவப்பு அறிவிப்புகளுக்கு உட்பட்ட பதினைந்து இலங்கை பாதாள உலக உறுப்பினர்கள் ரஷ்யா, ஓமான், துபாய் மற்றும் இந்தியாவில் கைது செய்யப்பட்டுள்ளனர் என்று பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+Fifteen Sri Lankan underworld members have been arrested in Russia, Oman, Dubai and India, including the Interpol red announcements.
 
 அந்தந்த நாடுகளில் நடந்து வரும் சட்ட நடவடிக்கைகள் முடிந்ததும், இந்த நபர்களை இலங்கைக்கு அழைத்து வருவதற்கான ஏற்பாடுகள் நடந்து வருவதாக அவர் இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
 
 ◼️
 
 [Data](articles/b183979b.json)
+
+[Extended Data](ext_articles/b183979b.ext.json)
+
+---
+
+### 15 Sri Lankan underworld figures in custody in foreign countries: Minister
+
+*2025-09-11 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112410/15-sri-lankan-underworld-figures-in-custody-in-foreign-countries-minister) · `en`
+
+Sri Lanka’s Public Security Minister Ananda Wijepala says that a total of fifteen Sri Lankan underworld figures with Interpol ‘Red Notice’ issued against them are currently in the custody of authorities in foreign countries, including Russia, Oman, India and Dubai in UAE.
+
+He stated that they will be brought back to Sri Lanka once security issues are concluded in the respective countries.
+
+The minister revealed this while delivering a statement in the Parliament on Thursday (11).
+
+◼️
+
+[Data](articles/b11e9677.json)
+
+[Extended Data](ext_articles/b11e9677.ext.json)
 
 ---
 
@@ -132,21 +244,65 @@ Fifteen people who have been identified as leading criminals and drug dealers ha
 
 ---
 
-### கமாண்டோ சலிந்தவுக்கு தோட்டாக்களை விற்ற இராணுவ அதிகாரி
+### Former presidents who have confirmed democracy have become ordinary citizens - Dayasiri Jayasekara
+
+*2025-09-11 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224846) · `ta`
+
+All the former presidents of the country have taken steps to ensure democracy at every occasion. But today they are made up of ordinary citizens. Parliamentarian Dayasiri Jayasekara said the same situation would happen to the present President Anura Kumara Dissanayake in the future.
+
+He further stated at a press conference held in Colombo on Thursday (11).
+
+We respect the mandate given by the people to the national people's power. They were in power until the king's reign in history. Thereafter, gradually changes in those systems and are currently in effect.. But in all countries, the excellence and respect for former presidents are the same.
+
+However, the rights have been taken away by this government. Former presidents do not have official vehicles. The safety is not provided at the same time. They have no legal right to obtain the security of cabinet ministers. So today they are made up of ordinary citizens. This government is created by the anger of the community.
+
+...
+
+[Data](articles/93871081.json)
+
+[Extended Data](ext_articles/93871081.ext.json)
+
+---
+
+### Army Lt. Colonel arrested for selling ammunition to underworld figure
+
+*2025-09-11 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112409/army-lt-colonel-arrested-for-selling-ammunition-to-underworld-figure) · `en`
+
+The Commanding Officer of the army camp in Palinagar, a Lieutenant Colonel, has been arrested by the Western Province North Police Crime Division.
+
+He has been arrested for allegedly selling 260 rounds of ammunition used in T-56 rifles for Rs. 650,000 to the underworld criminal figure known as ‘Commando Salintha’, who was recently arrested in Jakarta, Indonesia.
+
+He is currently in the custody of the Criminal Investigations Department (CID).
+
+Police said that the Lieutenant Colonel of the Sri Lanka Army was arrested by officers of the Western Province North Police Crime Division while serving as the commanding officer of the army camp in Palinagar.
+
+It has been revealed that 260 live rounds of ammunition used in T-56 firearms were given by the arrested suspect in two batches of 200 and 60 bullets to the underworld figure, and that he had received a sum of Rs. 650,000 in return for them.
+
+...
+
+[Data](articles/bc2d3528.json)
+
+[Extended Data](ext_articles/bc2d3528.ext.json)
+
+---
+
+### Army officer who sold bullets to commando Salinda
 
 *2025-09-11 17:41:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமாண்டோ-சலிந்தவுக்கு-தோட்டாக்களை-விற்ற-இராணுவ-அதிகாரி/175-364439) · `ta`
 
-கமாண்டோ சலிந்த என்ற ஒழுங்கமைக்கப்பட்ட குற்றவாளிக்கு T56 துப்பாக்கிக்ககான தோட்டாக்களை  விற்பனை செய்த குற்றச்சாட்டின் பேரில் இராணுவ லெப்டினன்ட் கேணல் ஒருவர் இன்று (11) மேற்கு வடக்கு குற்றப்பிரிவால் கைது செய்யப்பட்டார்.
+A military Lieutenant Colonel has been arrested today (11) for allegedly selling T56 rifle bullets for an organized offender named Commando Salinda.
 
-குறிப்பிட்ட இராணுவ அதிகாரி கைது செய்யப்பட்ட நேரத்தில் முல்லைத்தீவில் உள்ள   இராணுவ முகாமின் கட்டளை அதிகாரியாக பணியாற்றி வந்தார்.
+At the time of the arrest of the army officer, he was serving as the command officer of the military camp in Mullaitivu.
 
-அவர் கணேமுல்ல கமாண்டோ படைப்பிரிவின் கட்டளை அதிகாரியாக இருந்த காலத்தில், கமாண்டோ சாலிந்தாவுக்கு T56 துப்பாக்கிக்கு 260 தோட்டாக்களை இரண்டு சந்தர்ப்பங்களில் 650,000 ரூபாய்க்கு விற்றதாக குற்றம் சாட்டப்பட்டுள்ளது.
+When he was the commanding officer of the Ganmemulla Commando Regiment, he was accused of selling 260 bullets to the T56 rifle for Commando Salinda for Rs 650,000 in two cases.
 
-கைது செய்யப்பட்ட இராணுவ அதிகாரி மேலதிக விசாரணைகளுக்காக குற்றப் புலனாய்வுத் துறையிடம் ஒப்படைக்கப்பட உள்ளார்.
+The arrested army officer is to be handed over to the Criminal Investigation Department for further investigations.
 
 ◼️
 
 [Data](articles/60cce139.json)
+
+[Extended Data](ext_articles/60cce139.ext.json)
 
 ---
 
@@ -437,6 +593,34 @@ Clearly, the youth who were taking the lead in the vicinity of Nepal would be cl
 [Data](articles/7c573b26.json)
 
 [Extended Data](ext_articles/7c573b26.ext.json)
+
+---
+
+### Flooding in Bali; 14 people die
+
+*2025-09-11 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224824) · `ta`
+
+The death toll from the floods in the Indonesian island, Bali, has risen to 14.
+
+Two people disappeared in Tenbazar, the capital of the tourism center. The Disaster Detection Center said that 125 rescue workers were involved in the search for them.
+
+Heavy rains on Tuesday and Wednesday have caused flooding in six parts of Tenpasar and Bali.
+
+Major roads, including the International Airport. Landslides have also occurred in some areas.
+
+There have been a large number of casualties due to the flooding of the rivers.
+
+Rescue workers are still emitting water from many of the flooded buildings. About 500 soldiers have been stopped to remove mud, debris and rocks on the streets.
+
+“The peak of the rain has passed. Usually the water is drained. Currently, we focus on removing mud from the streets.
+
+Four people have been killed in floods caused by heavy rains in East Nusa Tenkara, Indonesia.
+
+◼️
+
+[Data](articles/fb69820c.json)
+
+[Extended Data](ext_articles/fb69820c.ext.json)
 
 ---
 
@@ -1895,165 +2079,5 @@ Accordingly, once the bill is passed, former President Mahinda Rajapakse will le
 [Data](articles/010fcb59.json)
 
 [Extended Data](ext_articles/010fcb59.ext.json)
-
----
-
-### In Parliament to abolish former presidential positions
-
-*2025-09-11 10:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-பதவிகளை-ஒழிக்கும்-சட்டமூலம்-பாராளுமன்றத்தில்/175-364403) · `ta`
-
-Former President Mahinda Rajapaksa will leave his official residence in Wijerama and migrate to the Carlton residence in Tangalle, a spokesman for the Carlton residence said.
-
-The Bill to abolish the presidency was passed on Wednesday (10) by a two -thirds majority in Parliament.
-
-Accordingly, once the bill is passed, former President Mahinda Rajapakse will leave his official residence in Wijerama.
-
-◼️
-
-[Data](articles/db0d48b4.json)
-
-[Extended Data](ext_articles/db0d48b4.ext.json)
-
----
-
-### Four arrested including a boy in Jaffna
-
-*2025-09-11 10:02:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-சிறுவன்-உட்பட-நால்வர்-கைது/71-364402) · `ta`
-
-Four people, including a boy in Jaffna, were arrested yesterday (10) with heroin.
-
-Four people aged 16, 18, 20 and 22 were arrested with 170 milligrams of heroin.
-
-The arrest was carried out by the Jaffna District Drug Prevention Police on the basis of confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
-
-◼️
-
-[Data](articles/db59ea24.json)
-
-[Extended Data](ext_articles/db59ea24.ext.json)
-
----
-
-### Parliament adjourned for 10 minutes
-
-*2025-09-11 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112388/parliament-adjourned-for-10-minutes) · `en`
-
-Parliament has been adjourned for 10 minutes following a heated situation in the chamber this morning (11).
-
-The opposition expressed strong displeasure over the ruling by the Speaker of House Dr. Jagath Wickramaratne yesterday (10) in relation to the No-Confidence Motion presented against the Deputy Minister of Defence Major General Aruna Jayasekara (Retd.).
-
-Several members of the opposition demanded the Speaker to reveal the exact cause for the dismissal of the No-Confidence Motion.
-
-The Speaker then announced that he considered several matters before deciding to dismiss the motion.
-
-However, Opposition MPs once again requested the Speaker to present facts and reports to the house that prompted him to not take forward the No-Confidence Motion.
-
-Leader of the House Minister Bimal Rathnayake then rose to the floor and defended the decision taken by the Speaker.
-
-Subsequently, a heated situation ensued which prompted the Speaker to adjourn the house for 10 minutes.
-
-◼️
-
-[Data](articles/e90165ae.json)
-
-[Extended Data](ext_articles/e90165ae.ext.json)
-
----
-
-### Calling confusion in the congregation: postponement for 10 minutes
-
-*2025-09-11 09:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபையில்-கூச்சல்-குழப்பம்-10-நிமிடங்களுக்கு-ஒத்திவைப்பு/175-364401) · `ta`
-
-Speaker Jagath Wickramaratne on Wednesday (10) rejected that the no -confidence motion submitted by the opposition parties against the Defense Minister Aruna Jayasekara on the bombing of the Sunday bombing was irregular.
-
-Opposition members, including Opposition Leader Sajith Premadasa, commented on the Constitution and Standing.
-
-Meanwhile, the ruling party's chief minister Pimal Ratnayake was commenting on. Then the opposition got up and shouted.
-
-Speaker Jagath Wickramaratne, who announced the postponement of Parliament for 10 minutes, has gone up from the Akirana.
-
-◼️
-
-[Data](articles/395a4df6.json)
-
-[Extended Data](ext_articles/395a4df6.ext.json)
-
----
-
-### Parliament becoming hot - post
-
-*2025-09-11 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214431) · `si`
-
-Due to the hot situation in the Parliament, the speaker postibled the Parliamentary work for 10 minutes.
-
-◼️
-
-[Data](articles/9346ec24.json)
-
-[Extended Data](ext_articles/9346ec24.ext.json)
-
----
-
-### SriLankan Airlines resumes flights to Nepal
-
-*2025-09-11 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112387/srilankan-airlines-resumes-flights-to-nepal) · `en`
-
-SriLankan Airlines has resumed flights to Nepal following the reopening of the Tribhuvan International Airport in Kathmandu.
-
-Accordingly, the first SriLankan Airlines flight departed from the Bandaranaike International Airport (BIA) this morning (11), Deepal Perera, the Head of Corporate Communications at SriLankan Airlines.
-
-SriLankan Airlines flight UL-181 departed to Kathmandu on at 08:15 a.m.
-
-This flight is scheduled to land at the Tribhuvan International Airport in Kathmandu at 11:41 a.m. and is expected to return with passengers from Nepal.
-
-Due to the recent unrest in Nepal, the country’s international airport had been closed, and as a result, SriLankan Airlines suspended flights between Sri Lanka and Nepal.
-
-SriLankan Airlines provided accommodation and hotel facilities for 35 stranded passengers who had arrived at the BIA last morning to travel to Kathmandu, Nepal, an airport official at Katunayake stated.
-
-...
-
-[Data](articles/8d17b996.json)
-
-[Extended Data](ext_articles/8d17b996.ext.json)
-
----
-
-### Nepal launches flights again to Kathmandu
-
-*2025-09-11 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214430) · `si`
-
-Sri Lanka and Nepal have started flight again with the reopening of the Kathmandu International Airport in Nepal.
-
-Accordingly, the SriLankan Airlines ULs, the 181-flight of 181, departured from the Katunayake airport at the Katunayake airport this morning.
-
-The flight will be landed at the Kathmandu Kandy International Airport in Nepal this afternoon and the aircraft will be returned to the Katunayake Airport at 04.40 pm today.
-
-SriLankan Airlines operates only aviation service to Kathmandu International Airport, Nepal, and running on four days each week, on Sunday, Monday, Wednesdays and Thursdays.
-
-With the closure of the international airport on the struggle in Nepal, Sri Lanka and Nipal were taken to suspend Sri Lanka yesterday (10).
-
-Accordingly, 35 excess passengers arrived at the Katarana Airport yesterday morning to go to Kathmandu, Katunayake Airlines.
-
-◼️
-
-[Data](articles/ab1ca39b.json)
-
-[Extended Data](ext_articles/ab1ca39b.ext.json)
-
----
-
-### Nepal officers hanging in helicopter (video)
-
-*2025-09-11 09:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெலிகாப்டரில்-தொங்கும்-நேபாள-அதிகாரிகள்-காணொளி/50-364400) · `ta`
-
-A shocking video from Nepal is becoming viral. In it, senior government officials shows that they are trying to escape from a crowd of furious protesters, sticking to the ropes built in an emergency helicopter.. It shows the country's deep political turmoil after the helicopter departs.
-
-Officers accused of corruption and misconduct, rooted by protesters, were surrounded by angry crowd and fled.
-
-◼️
-
-[Data](articles/8e5f94cb.json)
-
-[Extended Data](ext_articles/8e5f94cb.ext.json)
 
 ---

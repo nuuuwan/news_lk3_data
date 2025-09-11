@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 21:06:44**
+As of **2025-09-11 20:57:29**
 
 ## Newspaper Stats
 
-*Scraped **75,447** Articles*
+*Scraped **75,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,320
-adaderanalk | 9,689
+adaderanalk | 9,687
 tamilmirrorlk | 11,283
 virakesarilk | 12,297
 adaderanasinhalalk | 13,139
@@ -26,29 +26,11 @@ adaderanasinhalalk | 13,139
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,589 (89.6%) of 75,447 articles have been extended.
+67,562 (89.6%) of 75,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
-
-### President meets top USTR officials, discuss potential US-SL trade deals
-
-*2025-09-11 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112412/president-meets-top-ustr-officials-discuss-potential-us-sl-trade-deals-) · `en`
-
-United States Ambassador to Sri Lanka, Julie Chung, together with a delegation of senior officials from the Office of the United States Trade Representative (USTR), met with President Anura Kumara Dissanayake at the Presidential Secretariat today (11) for discussions.
-
-The heads of the USTR delegation, who commended the delegation appointed by the Sri Lankan government to negotiate the US tariffs on products imported from Sri Lanka, also praised the progress the country has achieved in its economic recovery, according to the President’s Media Division (PMD).
-
-Attention was also drawn to the assistance extended by the USTR towards Sri Lanka’s economic affairs to date, as well as to potential trade agreements expected to be developed between the two countries in the future.
-
-The President, noting that Sri Lanka is a small economy in recovery, emphasised that even minor external shocks could have a considerable impact on the nation, the PMD said.
-
-...
-
-[Data](articles/914b8c44.json)
-
----
 
 ### Circumcision regarding permitting students
 
@@ -179,26 +161,6 @@ Subsequently, the group debate will be held from November 15 to December 5, and 
 [Data](articles/f5cb5d01.json)
 
 [Extended Data](ext_articles/f5cb5d01.ext.json)
-
----
-
-### 2026 Budget Speech on November 7
-
-*2025-09-11 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112411/2026-budget-speech-on-november-7) · `en`
-
-The Secretary General of Parliament, Kushani Rohanadeera, stated that the second reading of the Appropriation Bill (also known as the Budget Speech) for the year 2026 will be held on 7 November, 2025, followed by the budget debate from 8 November to 5 December, 2025.
-
-This decision was made at today’s (11) meeting of the Committee on Parliamentary Business, chaired by Speaker Dr. Jagath Wickramarathne.
-
-Accordingly, the Secretary General stated that the first reading of the Appropriation Bill will be presented to Parliament on 26 September, 2025.
-
-In his capacity as the Minister of Finance, the President will present the second reading of the Appropriation Bill (the Budget Speech) on 7 November, and it has been decided to allocate six days, from 8 November to 14 November, for the second reading debate.
-
-The vote on the second reading will take place on 14 November at 6:00 PM, the statement said.
-
-...
-
-[Data](articles/d190811f.json)
 
 ---
 
@@ -2079,5 +2041,51 @@ In addition, 17 persons trained at the Judicial Training Institute have been app
 [Data](articles/18feee27.json)
 
 [Extended Data](ext_articles/18feee27.ext.json)
+
+---
+
+### People's struggle erupted in France like Nepal: What happened?
+
+*2025-09-11 10:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தை-போன்று-பிரான்சிலும்-மக்கள்-போராட்டம்-வெடித்தது-நடந்தது-என்ன/50-364407) · `ta`
+
+People's struggle has erupted against the austerity measures brought by the government in France.
+
+The struggle has intensified as a continuation of the online campaign with the slogan "Disable everything".
+
+The place of struggle was like a violent domain due to picket on the roads and set fire to public property. The police threw tear gas and chased away the protesters.
+
+French Home Minister Brunei Ridelle said the bus was set on fire in Rennes. Trains are parked in the southwest. Power line is not a way to run because of damaging. Protesters are trying to create a rebellion.
+
+As the struggle intensifies across France, 80,000 policemen have been patrolled by the country. The police have kept barriers in key areas. In spite of this, the struggle has intensified in various places in France.
+
+...
+
+[Data](articles/f8ad6e21.json)
+
+[Extended Data](ext_articles/f8ad6e21.ext.json)
+
+---
+
+### Airline Service to Nepal
+
+*2025-09-11 10:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாளத்திற்கான-விமான-சேவை-ஆரம்பம்/175-364406) · `ta`
+
+Following the reopening of the Kathmandu International Airport by the Civil Air Transport Authority of Nepal, SriLankan Airlines departed from Bandaranaike International Airport (BIA) on Thursday (11) and launched its services again to Nepal.
+
+SriLankan Airlines Communications Officer Deepal Perera said that the services of Nepal were suspended on Wednesday (10) following the closure of the airport due to the ongoing clashes in the country.
+
+BIA officials confirmed that 35 passengers arrived on Wednesday (10) to travel to Kathmandu.
+
+The restaurant is scheduled to leave BIA on Thursday (11) at 8.15 am and land at Kathmandu at 11.41 am.
+
+The flight from Kathmandu is expected to arrive at BIA at 4.40 pm and passengers will be re-transported to Colombo.
+
+SriLankan Airlines is currently the only airline that operates flights between Colombo and Kathmandu. Perera said the service would run four days on Sunday, Monday, Wednesday and Thursday.
+
+◼️
+
+[Data](articles/00348e7c.json)
+
+[Extended Data](ext_articles/00348e7c.ext.json)
 
 ---

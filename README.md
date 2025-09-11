@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 14:10:40**
+As of **2025-09-11 15:06:43**
 
 ## Newspaper Stats
 
-*Scraped **75,380** Articles*
+*Scraped **75,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,229 @@ economynextcom | 4,567
 islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
-adalk | 7,310
-adaderanalk | 9,671
-tamilmirrorlk | 11,269
-virakesarilk | 12,287
-adaderanasinhalalk | 13,128
+adalk | 7,312
+adaderanalk | 9,681
+tamilmirrorlk | 11,271
+virakesarilk | 12,292
+adaderanasinhalalk | 13,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,140 (89.1%) of 75,380 articles have been extended.
+67,180 (89.1%) of 75,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### பல் உடையும் வகையில் சிறுவனின் மீது தாக்குதல்
+### UDA உயர் அதிகாரிகள் இருவர் கைது
+
+*2025-09-11 14:39:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UDA-உயர்-அதிகாரிகள்-இருவர்-கைது/175-364428) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு (CIABOC), நகர அபிவிருத்தி அதிகார சபையின் (UDA) முன்னாள் மூத்த அதிகாரிகள் இருவரைக் கைது செய்துள்ளது. கைது செய்யப்பட்ட நபர்கள் நகர அபிவிருத்தி அதிகார சபையின் இன் முன்னாள் பணிப்பாளர் நாயம், சுமேத ரத்நாயக்க மற்றும் அதிகாரசபையின் முன்னாள் காணி பணிப்பாளர் ஆவர்.
+
+◼️
+
+[Data](articles/f5bd724b.json)
+
+---
+
+### Four dates from the place
+
+*2025-09-11 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214443) · `si`
+
+Four persons including a woman including a road accident have been killed in several parts of the island.
+
+A woman was killed in a motorcycle accident in the Ellepola road in the Ellepola area on the Balagoda - Ratnapura.
+
+One motorcyclist has been killed in the Thangamala Dopattuwa area on the Pottuvil Akkaraipattu road.
+
+The victim was a 29 year old resident of Thirukkohill, police said.
+
+Meanwhile, one person has died in an accident in Kalubowila area on Kohuwala Kohuwala road.
+
+The suspect has not yet been revealed and Kohuwala Police are conducting further investigations to arrest the suspect.
+
+A car collided with a pedestrian trailing in Bandaranaike area on the Ratnapura-Colombo road.
+
+The victim was taken to the Ratnapura Hospital after being admitted to the Ratnapura Hospital.
+
+◼️
+
+[Data](articles/aa5dd282.json)
+
+[Extended Data](ext_articles/aa5dd282.ext.json)
+
+---
+
+### மஹிந்த உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேறினார்
+
+*2025-09-11 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224815) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச கொழும்பிலுள்ள விஜேராம வீதியில் அமைந்துள்ள அவரது உத்தியோகபூர்வ இல்லத்திலிருந்து சற்று முன் வெளியேறினார்.
+
+கொழும்பு, விஜேராம வீதியில் உள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்திற்கு அரசியல்வாதிகள்,வெளிநாட்டு இராஜதந்திரிகள் மற்றும் ஆதரவாளர்கள் என பல்லேறு தரப்பினர் வியாழக்கிழமை (11) காலை முதல் வருகை தந்திருந்தனர்.
+
+இன்றைய தினம் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச அவரது உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேறவுள்ளதாக வெளியான தகவலையடுத்து அனைவரும் அங்கு சென்றனர்.
+
+சீனத்தூதுவர் உள்ளிட்ட பல இராஜதந்திரிகள், அரசியல்வாதிகள் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்திற்கு வருகை தந்தனர்.
+
+முன்னாள் ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்) சட்டமூலம் புதன்கிழமை (9) பாராளுமன்றத்தில் 150 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டதை அடுத்து, ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்) சட்டமூலத்தில்  சபாநாயகர் (வைத்தியர்) ஜகத் விக்கிரமரத்ன தனது கையொப்பத்தையிட்டு நேற்றையதினம் சான்றுரைப்படுத்தினார்.
+
+...
+
+[Data](articles/973713ed.json)
+
+---
+
+### Sri Lanka Customs have been imported and laid the vessels
+
+*2025-09-11 14:19:04* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ගෙන්වා-ශ්‍රී-ලංකා-රේගුව-තැබූ-වාථා/11-418434) · `si`
+
+In the first half of the year, the Committee on Finance and Cash. It was when the Chairmanship for the Chairmanship of MP Dr. Harsha De Silva was held at Parliament recently.
+
+996 billion rupees between 2025 compared to the year 2024 (January 2024) compared to the year 2024.. Revenue from the Import of Motor Vehicle Imported significantly due to this growth, which had received 429 billion rupees. The government pointed out that 220,026 vehicles have been imported since the importation of vehicles.
+
+◼️
+
+[Data](articles/f2512419.json)
+
+[Extended Data](ext_articles/f2512419.ext.json)
+
+---
+
+### Maithri left to leave former President Chandrika
+
+*2025-09-11 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214441) · `si`
+
+Former President Chandrika Bandaranaike Kumaratunga is also prepared to leave their official residence.
+
+Meanwhile, former President Maithripala Sirisena has left his official residence.
+
+According to the provisions of the President's provisions of the President of the President of the Presidents' provisions have to be handed over to the government to restore the official quarters given to former presidents.
+
+Meanwhile, former President Mahinda Rajapaksa left the official residence this afternoon.
+
+That was with the loss of former presidents in terms of the "Removal of the Task Removal" yesterday (10).
+
+Meanwhile, Gotabhaya Rajapaksa and Ranil Wickremesinghe are also in private housing.
+
+Lady Hema Premadasa has also left the official residence from last year.
+
+The President's Title Repeating Bill was passed in parliament yesterday (10).
+
+The bill was signed by the Speaker yesterday and the monthly secretary allowance and a monthly allowance provided to a former president or former president.
+
+...
+
+[Data](articles/8f067d35.json)
+
+[Extended Data](ext_articles/8f067d35.ext.json)
+
+---
+
+### Husband
+
+*2025-09-11 14:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ள-உல்லாசம்-தலைகளை-கொய்த-கணவன்/175-364427) · `ta`
+
+The incident in which the husband of the husband, who was flirting with the kallakkadalan, thought that her husband had gone abroad, the head of the husband of the two husbands of the husband had caused a stir.
+
+Kolanji, a resident of the village near Kallakurichi, was already married with Kaliyammal and had 5 children.. Kaliyammal left her husband Kolanji with her 3 children as 2 children died.
+
+Subsequently, Kolanji married Lakshmi from Nadarmangalam. They have 3 girls.
+
+In the meantime, Lakshmi and a 55 -year -old man were found dead on Thursday morning (11) on the terrace of Kolanji's home.
+
+Accordingly, the Kallakurichi police rushed to the scene and began the investigation into the bodies of the dead.
+
+It was revealed that the dead male from the same area was Thangarasu. In the subsequent investigation, the habit between Thangarasu and Lakshmi became a counterfeit.
+
+...
+
+[Data](articles/7023e657.json)
+
+[Extended Data](ext_articles/7023e657.ext.json)
+
+---
+
+### Assault on the boy
 
 *2025-09-11 13:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்-உடையும்-வகையில்-சிறுவனின்-மீது-தாக்குதல்/175-364426) · `ta`
 
-சிறுவர்களுக்கிடையே ஏற்பட்ட தகராறில் 14 வயது சிறுவனின் இரண்டு பற்கள் உடையும் அளவுக்கு அடிக்கப்பட்டமை தொடர்பில் பயாகல பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+Biyagala police are investigating the fact that a 14 -year -old boy's two teeth were struck in a dispute between the children.
 
-பாதிக்கப்பட்டவர் ஹல்கந்தவில, துவகொட பகுதியைச் சேர்ந்தவர் ஆவார். அவர்,  களுத்துறைநாகொட போதனா மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+The victim belongs to Halkandawila, Dwagoda area. He has been admitted to the Teaching Hospital in Kalutara.
 
-குழந்தையின் தாயார் அளித்த புகாரில், கடந்த 9 ஆம் திகதி மாலை, தனது வீட்டிற்கு அருகிலுள்ள ஒரு பிரார்த்தனை அறையில் தனது குழந்தை மற்றொரு குழந்தையுடன் விளையாடிக் கொண்டிருந்ததாகவும், "எங்களுடன் விளையாட இன்னொரு குழந்தையை அழைத்துச் செல்ல முடியாது" என்று கூறியதால் கோபமடைந்த குழந்தையின் மூத்த சகோதரர் தனது குழந்தையைத் தாக்கி கழுத்தை நெரித்ததாகவும் தெரிவிக்கப்பட்டுள்ளது.
+According to a complaint filed by the mother of the child, the elder brother of the child, who was angry, attacked his child and strangled her child, saying that her child was playing with another child in a prayer room near her home on the 9th of this month.
 
-இந்த தாக்குதலில் தனது குழந்தையின் இரண்டு பற்கள் உடைந்ததாகவும், மற்றொரு பல் ​ஆடுவதாகவும் முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+The attack reported that his child's two teeth were broken and another tooth.
 
 ◼️
 
 [Data](articles/f5e3c2d4.json)
 
+[Extended Data](ext_articles/f5e3c2d4.ext.json)
+
 ---
 
-### வெற்றி கோஷத்துடன்  வெளியேறினார் மஹிந்த
+### Mahinda Wijerama to go home
+
+*2025-09-11 13:53:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-විජේරාම-නිවසින්-යයි/11-418432) · `si`
+
+Former President Master General Man on the official residence in Wijeramaya, a few moments ago
+
+Left for Tangalle. He will stay in Carlton home until he found a house from Colombo
+
+The Ambassadors of former Representative Ministers in Colombo to meet the home
+
+Several members of the General Secretary (CHOGM) were also present at Wijeram.
+
+◼️
+
+[Data](articles/4056e8ab.json)
+
+[Extended Data](ext_articles/4056e8ab.ext.json)
+
+---
+
+### Mahinda left with the slogan
 
 *2025-09-11 13:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-கோஷத்துடன்-வெளியேறினார்-மஹிந்த/175-364425) · `ta`
 
-இலங்கையின் சட்டம் மற்றும் ஒழுங்கைப் பின்பற்றி, முன்னாள் ஜனாதிபதியும் இலங்கையின் ஐந்தாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியுமான மஹிந்த ராஜபக்ஷ, கொழும்பு விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்திலிருந்து சற்று முன்னர் வெளியேறினார் என  இலங்கை பொதுஜன பெரமுன (SLPP) பொதுச் செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+The former President of Sri Lanka and the Fifth Executive President of Sri Lanka, following the law and order of Sri Lanka, has left his official residence at Wijerama Road, Colombo, said Sri Lanka's General Secretary (SLPP) General Secretary Sagara Kariyawasam.
 
-அவர், விஜேராம வீதியில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறிய போது, அங்கு குழுமியிருந்தவர்கள் ஜய​வேவா, ஜயவேவா என கோஷமெழுப்பினர்.
+When he left his official residence on Wijerama Road, the group chanted, "Jaya Veva and Jayaweva."
 
 ◼️
 
 [Data](articles/35632ca4.json)
 
+[Extended Data](ext_articles/35632ca4.ext.json)
+
 ---
 
-### අවුරුදු 14ක දරුවෙකුට දතක් කැඩෙන්න ගහලා
+### A 14-year-old child breaks into two
 
 *2025-09-11 13:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14ක-දරුවෙකුට-දතක්-කැඩෙන්න-ගහලා/11-418431) · `si`
 
-දරුවන් අතර ඇතිවූ ආරාවුලකින් පසු 14 හැවිරිදි දරුවෙකුට දත් දෙකක් කැඩෙන්නට පහර දීමේ සිද්ධියක් සම්බන්ධයෙන් පයාගල පොලිසිය පරීක්ෂණ පවත්වයි .
+After a dispute between children, Payagala Police are investigating a 14-year-old attack.
 
-පහරකෑමට ලක්ව ඇත්තේ හල්කඳවිල දූවගොඩ ප්‍රදේශයේ පදිංචි අයෙකු වන අතර ඔහු මේ වනවිට කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුලත් කර ඇත .
+A resident of Halkindanavila is a resident of Hulkindavila, Hulkindindavila.
 
-දරුවාගේ මව වන සන්දරා නැකතිගේ චමිලා ප්‍රියන්ති යන අය විසින් පොලිසියට කරන ලද පැමිණිල්ලට අනුව මේ පිළිබඳ පරීක්ෂණ ආරම්භ කොට තිබේ .
+According to the complaint made by the child's mother of the child Sandara's Chamila Priyanthi, investigations have commenced investigations.
 
-ඉකුත් 09 වැනිදා සවස තම දරුවා නිවස අසල බණ ගෙදරක තවත් ළමයෙකු සමග සෙල්ලම් කරමින් සිට ඇති බවත්, එවිට පැමිණි තවත් ළමයෙකු සෙල්ලමට ගන්න බැහැ " යැයි කීමෙන් පසු උරණවී ඇති එම ළමයාගේ වැඩිමහල් සොහොයුරෙකු තම දරුවාට පහරදී බෙල්ල මිරිකා ඇති බවත්‍ ඇය පොලිසියට කර තිබූ පැමිණිල්ලේ සඳහන්වේ .
+The elderly sister of the police said, "The elderly brother who had come to the house was playing with another child near the house on the 9th," she said.
 
-මෙම පහරදීමෙන් තම දරුවාගේ දත් දෙකක් කැඩී ගොස් තවත් දතක් සෙලවෙන බවද ඇය පොලිසියට ප්‍රකාශ කර ඇත.
+She has told the police that two teeth of their child will break down and another tooth.
 
-පයාගල පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තුෂාර ජයසේකර මහතාගේ මෙහෙයවීම යටතේ මේ පිළිබඳව වැඩිදුර පරීක්ෂණ පැවැත්වේ.
+Further investigations are conducted under the direction of the Payagala OIC Chief Inspector Thushara Jayasekara.
 
 ◼️
 
 [Data](articles/23b412d2.json)
+
+[Extended Data](ext_articles/23b412d2.ext.json)
 
 ---
 
@@ -114,6 +270,84 @@ Former President Mahinda Rajapaksa left his official residence in Wijeramamins a
 
 ---
 
+### Ex-President Mahinda vacates residence at Wijerama Road
+
+*2025-09-11 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112402/ex-president-mahinda-vacates-residence-at-wijerama-road) · `en`
+
+Former President Mahinda Rajapaksa has vacated his official residence located at Wijerama Road in Colombo 07.
+
+The former President and his wife Shiranthi Rajapaksa, left the Wijerama Road residence at around 1:15 p.m.
+
+A large crowd was seen flocked at the Wijerama Road, as the former President prepared to vacate his official residence.
+
+Meanwhile, a group of politicians and diplomats visited the official residence of former President Mahinda Rajapaksa on Wijerama Road in Colombo this morning (11).
+
+The development came in the wake of reports that former President Mahinda Rajapaksa decided to vacate the official residence today.
+
+According to the provisions of the new law titled ‘Presidents’ Entitlements (Repeal) Act’, former presidents are now required to return their state-provided official residences back to the government.
+
+...
+
+[Data](articles/5482cd1d.json)
+
+---
+
+### Bali floods kill 14, search continues for two missing
+
+*2025-09-11 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112401/bali-floods-kill-14-search-continues-for-two-missing) · `en`
+
+The death toll from this week’s floods on the Indonesian island of Bali has risen to 14 people from nine, a government official said on Thursday (Sep 11), though the rain has stopped and water levels are receding in most areas.
+
+Two people are missing in the tourist hub’s capital of Denpasar, and 125 rescuers have been deployed in the search for them, disaster mitigation agency spokesperson Abdul Muhari said.
+
+He added that more than 500 people have been evacuated to schools and mosques.
+
+Torrential rains on Tuesday and Wednesday caused floods in Denpasar and six of Bali’s eight regions, blocking major roads, including access to the island’s international airport. There were also landslides in some areas.
+
+Most of the deaths occurred when people were swept away after rivers burst their banks, Abdul said.
+
+In response to CNA’s queries, Budget airline Scoot on Thursday said its flights to and from Bali are currently operating as scheduled.
+
+...
+
+[Data](articles/5c2faf25.json)
+
+---
+
+### Ex-Director General of UDA Sumedha Ratnayake arrested by Bribery Commission
+
+*2025-09-11 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112400/ex-director-general-of-uda-sumedha-ratnayake-arrested-by-bribery-commission) · `en`
+
+Former Director General of the Urban Development Authority (UDA) Sumedha Ratnayake and former Director (Lands) of the UDA have been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption.
+
+◼️
+
+[Data](articles/9149c474.json)
+
+---
+
+### Appeals Court issues notices in case seeking national land management policy
+
+*2025-09-11 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112398/appeals-court-issues-notices-in-case-seeking-national-land-management-policy) · `en`
+
+The Court of Appeal has issued notices to several parties, including the Minister of Lands and the Minister of Environment, instructing them to submit their responses on November 28 in relation to a petition calling for the formulation of a National Land Management Policy in Sri Lanka.
+
+The petition was filed by the Centre for Environmental Justice, Ada Derana reporter said.
+
+The case was taken up today (11) before a bench comprising Justices Dhammika Ganepola and Adithya Patabendi.
+
+Appearing on behalf of the petitioners, Attorney-at-Law Ravindranath Dabare informed court that the lack of a national land management plan has led to a multitude of problems in the country.
+
+He explained that agricultural land, forest reserves, wetlands, and human settlements have not been properly identified or demarcated, resulting in not only environmental crises but also various other issues.
+
+Due to this, the country is currently unable to make optimal use of its land resources, he argued.
+
+...
+
+[Data](articles/c1f3e43f.json)
+
+---
+
 ### 5 people, including finance minister in Indonesia
 
 *2025-09-11 12:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தோனேசியாவில்-நிதி-அமைச்சர்-உட்பட-5-பேர்-நீக்கம்/50-364424) · `ta`
@@ -136,23 +370,41 @@ Accordingly. Five ministers, including Finance Minister Sri Muleyani Indravati a
 
 ---
 
-### මහසිලුත් යන්නම ගිහින්
+### உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேறினார் மைத்திரி !
+
+*2025-09-11 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224806) · `ta`
+
+கொழும்பு, ஹெக்டர் கொப்பேகடுவ மாவத்தையில் உள்ள தனது உத்தியோகபூர்வ இல்லத்திலிருந்து முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன வெளியேறியுள்ளார்.
+
+முன்னாள் ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்) சட்டமூலம் புதன்கிழமை (9) பாராளுமன்றத்தில் 150 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டதை அடுத்து,முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறியுள்ளார்.
+
+ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்) சட்டமூலத்தில்  சபாநாயகர் (வைத்தியர்) ஜகத் விக்கிரமரத்ன  தனது கையொப்பத்தையிட்டு நேற்றையதினம் சான்றுரைப்படுத்தினார். இதற்கமைய குறித்த சட்டமூலம் 2025ஆம் ஆண்டின் 18ஆம் இலக்க ஜனாதிபதிகளின் உரித்துரிமைகள் (நீக்குதல்) சட்டமாக நடைமுறைக்குவந்துள்ள நிலையில், முன்னாள் ஜனாதிபதிகளுக்கு இதுவரை வழங்கப்பட்டு வந்து சிறப்பு வரப்பிரசாதங்கள் அனைத்தும் ரத்து செய்யப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/8a64cc8a.json)
+
+---
+
+### The Mahasamil has gone
 
 *2025-09-11 12:37:16* · [`adalk`](https://www.ada.lk/breaking_news/මහසිලුත්-යන්නම-ගිහින්/11-418428) · `si`
 
-බුත්තල පොලිස් වසමට අයත් ඉලුක්පිටිය ප්‍රදේශයේ කුඹුරු යායක තිබී මිය ගිය ඇතෙකුගේ මළසිරුරක් (11) වෙනිදා
+Body of Dead (11) was a deceased (11)
 
-වනජීවී නිලධාරීන්ට හමුවී ඇත.අවුරුදු විස්සත් විසි පහත් අතර වයසැති මහසිලු නමින් හඳුන්වන මෙම ඇතාගේ දළ අඩි දෙකහමාරක් පමණ වේ.
+Wildlife officials have been found. This is about two and a half feet of the Gross, known as Mahazilu, known as Mahazilu.
 
-මෙම ඇතා පැල්වත්ත සීනි කර්මාන්ත ආයතනයේ උක් වගාව වන අලින්ගෙන් බේරා ගැනීම සඳහා ඇද තිබූ විදුලි වැටේගැටී විදුලි සැර වැදී මිය යන්නට ඇතැයි මොනරාගල වනජීවී කාර්යාලයේ නිලධාරීහු සැක පළ කරති.
+The elephants have suspended that the electricity tariff was to save the elephants in Pelwatte Sugar Industry to save the sugar planting elephants.
 
-ඇතාගේ මරණය පිළිබඳව පශ්චාත් මරණ පරීක්ෂණය පශු වෛද්‍ය නිලධාරී (දකුණු ප්‍රදේශය භාර) ධම්මි මහත්ය්මිය
+Post mortem examination on death
 
-විසින් පැවැත්වීමට නියමිතව තිබූ අතර ඉන් පසු මරණයට හේතුව නිශ්චිත වශයෙන්ම අනාවරණය කර ගැනීමට හැකිවන බව ඌව පළාත් භාර වනජීවී සහකාර අධ්‍යක්ෂක ඩබ්ලිව්.ඒ.ඒ.ඩී.යූ ඉන්ද්‍රජිත් මහතා වැඩි දුරටත් පැවසීය.
+WASAD, Assistant Director in charge of the Uva Provincial Council, said that the cause of death is due to be conducted.
 
 ◼️
 
 [Data](articles/080034b6.json)
+
+[Extended Data](ext_articles/080034b6.ext.json)
 
 ---
 
@@ -173,6 +425,44 @@ The holiday has been announced until the 15th of this month.. The police who cau
 [Data](articles/09e78384.json)
 
 [Extended Data](ext_articles/09e78384.ext.json)
+
+---
+
+### உலகின் பணக்காரர் பட்டியலில் லேரி எலிசன் : எலான் மஸ்க்கை முந்தினார் !
+
+*2025-09-11 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224800) · `ta`
+
+ஒரேக்கிள் (Oracle) நிறுவனத்தின் இணை நிறுவனர் லேரி எலிசன் (Larry Ellison), உலகின் பணக்காரர்கள் பட்டியலில் முதலிடம் பிடித்த பணக்காரர் என்ற பெருமையைப் பெற்றுள்ளார். ப்ளூம்பெர்க் குறியீட்டின் படி, எலான் மஸ்க்கின் சொத்து மதிப்பை விட எலிசனின் நிகர மதிப்பு உயர்ந்துள்ளது.
+
+ஒரேக்கிள் நிறுவனப் பங்குகள் 43 வீதம் வரை உயர்ந்ததன் காரணமாக, 81 வயதான எலிசனின் மொத்த நிகர மதிப்பு $393 பில்லியன் அமெரிக்க டொலர்களாக அதிகரித்துள்ளது.
+
+எலிசன் முதலிடம் பிடித்ததைத் தொடர்ந்து, எலான் மஸ்க் $385 பில்லியன் அமெரிக்க டொலர் சொத்து மதிப்புடன் இரண்டாவது இடத்திற்குச் சரிந்துள்ளார்.
+
+ஓரேக்கிள் நிறுவனத்தின் கிளவுட் வணிகத்தில் ஏற்பட்ட திடீர் வளர்ச்சி, முதலீட்டாளர்களின் நம்பிக்கையை அதிகரித்துள்ளது. இதனால், ஒரேக்கிள் பங்குகள் ஒரு நாளில் $101 பில்லியன் அமெரிக்க டொலர்களாக அதிகரித்து, அதன் சந்தை மதிப்பு $947 பில்லியன் அமெரிக்க டொலர்களாக உயர்ந்துள்ளது.
+
+லேரி எலிசன் ஒரேக்கிள் நிறுவனத்தின் 41 வீத பங்குகளை தன்வசம் வைத்துள்ளார். அவரது செல்வத்தின் பெரும்பகுதி இந்த நிறுவனத்தின் முதலீடுகளிலிருந்தே வருகிறது.
+
+...
+
+[Data](articles/9d8462ae.json)
+
+---
+
+### Netherlands approves grant of EUR 730,000 for rural bridges project in Sri Lanka
+
+*2025-09-11 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112397/netherlands-approves-grant-of-eur-730000-for-rural-bridges-project-in-sri-lanka) · `en`
+
+The Netherlands has approved a grant of EUR 730,000 to support the ongoing Design and Construction of Rural Bridges Project in Sri Lanka, the Ministry of Finance, Planning and Economic Development said in a statement.
+
+This funding will address the project’s additional financing requirements, further strengthening the long standing development cooperation between the two countries, the statement noted further.
+
+The Rural Bridges Project aims to construct 162 rural bridges across Sri Lanka, enhancing mobility, connectivity, and the quality of life in rural communities. As of September 2025, the project has achieved 96% physical progress, with 151 bridges already completed. The construction of all planned bridges is expected to be completed by February 2026, marking the successful conclusion of the project.
+
+The government initially entered into a loan agreement with Coöperatieve Rabobank U.A. of the Netherlands for EUR 41.8 million, covering 75% of the project cost.
+
+...
+
+[Data](articles/c7916168.json)
 
 ---
 
@@ -212,6 +502,24 @@ Following the Bill passed in Parliament yesterday (10), Rajapakse, who lives in 
 
 ---
 
+### பொடி மெனிக்கே ரயில் தடம் புரள்வு ; மலையக ரயில் சேவைகள் தாமதம்
+
+*2025-09-11 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224798) · `ta`
+
+பொடி மெனிக்கே ரயில் தடம் புரண்டமையினால் மலையக ரயில் சேவைகள் தாமதமாகியுள்ளதாக  ரயில் திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+காலை 08:50 மணிக்கு, பதுளையிலிருந்து கண்டி மற்றும் கொழும்பு கோட்டை நோக்கிச் செல்லும் பொடி மெனிக்கே எக்ஸ்பிரஸ் ரயில் (இலக்கம் 1006) தடம் புரண்டுள்ளது.
+
+அதற்கமைய, காலை 09:10 மணியளவில் பதுளை மற்றும் ஹாலி எல ரயில் நிலையங்களுக்கு இடையில் குறித்த ரயில் தடம் புரண்டதாகத் தெரிவிக்கப்படுகிறது. இதனால் ரயில் சேவைகள் தாமதமாக இயக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+
+குறித்த நிலையத்தைக் கடந்து செல்ல திட்டமிடப்பட்டுள்ள ரயில்களும் தாமதமாக இயக்கப்படலாம் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0d00e889.json)
+
+---
+
 ### Notice notice to several government parties including ministers
 
 *2025-09-11 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214437) · `si`
@@ -236,6 +544,26 @@ The lawyer has pointed out that it is essential to achieve the most important ac
 
 ---
 
+### Police SI arrested on suspicion of maintaining close ties with ‘Kehelbaddara Padme’
+
+*2025-09-11 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112395/police-si-arrested-on-suspicion-of-maintaining-close-ties-with-kehelbaddara-padme) · `en`
+
+A Sub-Inspector of Police has been arrested on suspicion of maintaining close ties with ‘Kehelbaddara Padme’, a known member of an organized criminal gang.
+
+According to Police Media Spokesman Assistant Superintendent of Police (ASP) F.U. Wootler, the suspect, was taken into custody by officers of the Criminal Investigation Department (CID).
+
+The arrested Sub-Inspector is reported to be attached to the Gampaha Division’s Crime Investigation Unit, the spokesperson confirmed.
+
+Following the recent extradition of ‘Kehelbaddara Padme’ and four other criminal gang members from Indonesia, the CID has been interrogating the suspects.
+
+Based on revelations made during those interrogations, the Sub-Inspector in question was identified and subsequently taken into custody.
+
+◼️
+
+[Data](articles/dd7a11a2.json)
+
+---
+
 ### SI arrested in connection with Padme
 
 *2025-09-11 11:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பத்மேவுடன்-தொடர்புடைய-SI-கைது/175-364416) · `ta`
@@ -249,6 +577,28 @@ Investigations revealed that the officer had maintained close contact with Padme
 [Data](articles/432e125b.json)
 
 [Extended Data](ext_articles/432e125b.ext.json)
+
+---
+
+### துப்பாக்கிச் சூட்டு முயற்சியை முறியடித்த பொலிஸார் ; ஐவர் கைது!
+
+*2025-09-11 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224793) · `ta`
+
+கொழும்பு கொள்ளுப்பிட்டி மற்றும் மாளிகாவத்தை பகுதிகளில் திட்டமிடப்பட்ட துப்பாக்கிச் சூட்டு முயற்சியை முறியடித்து, 05 சந்தேக நபர்களை பொலிஸார் கைதுசெய்துள்ளனர்.
+
+கொள்ளுப்பிட்டி ஆல்பர்ட் வீதியில், நேற்று புதன்கிழமை (10) இரவு மோட்டார் சைக்கிளில் சென்ற இருவரை கொள்ளுப்பிட்டி பொலிஸார் சந்தேகத்தின் பேரில் சோதனை செய்துள்ளனர்.
+
+இதன்போது சந்தேக நபரொருவர், தான் வைத்திருந்த பையை தூக்கி எறிந்துவிட்டு அப்பகுதியை விட்டு தப்பிச் சென்றுள்ளார்.
+
+வீசப்பட்ட பையிலிருந்து ரி-56 துப்பாக்கி ஒன்று, 30 தோட்டாக்கள்,  கத்தி ஒன்று மற்றும் மூன்று கையடக்கத் தொலைபேசிகளை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் வழங்கிய தகவலைத் தொடர்ந்து, பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணைகளில்  தப்பிச் சென்ற சந்தேக நபர் உட்பட மேலும் மூவர் மாளிகாவத்தையில் உள்ள போதிராஜா மாவத்தை பகுதியில் வைத்து கைதுசெய்யப்பட்டுள்ளனர்.
+
+அதேநேரம், குறித்த சந்தேக நபர்களை கைது செய்யும்போது, 18 கிராம் ஐஸ் போதைப்பொருள், ஒரு மோட்டார் சைக்கிள் மற்றும் 02 கையடக்கத் தொலைபேசிகள் கைப்பற்றப்பட்டுள்ளன.
+
+...
+
+[Data](articles/bd3dd44d.json)
 
 ---
 
@@ -293,6 +643,22 @@ The court has already ordered the police to set up a security zone for the polic
 [Data](articles/59dba288.json)
 
 [Extended Data](ext_articles/59dba288.ext.json)
+
+---
+
+### ‘Podi Manike’ derails between Haliela and Badulla stations
+
+*2025-09-11 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112394/podi-manike-derails-between-haliela-and-badulla-stations-) · `en`
+
+Train services along the Upcountry Railway Line have been disrupted owing to the derailment of the ‘Podi Manike’ train (1006) which was traveling from the Badulla Railway Station to Kandy and Colombo Fort at around 8.50 a.m.
+
+The derailment occurred between Badulla and Haliela railway stations at around 09.10 am, the Department of Railways said.
+
+Accordingly, the Department of Railways stated that the trains plying along the Upcountry Railway Line will experience delays.
+
+◼️
+
+[Data](articles/f5a3af7f.json)
 
 ---
 
@@ -383,6 +749,68 @@ The trains may also run with delays.
 [Data](articles/f0613643.json)
 
 [Extended Data](ext_articles/f0613643.ext.json)
+
+---
+
+### Prince Harry meets King Charles for first time in more than a year
+
+*2025-09-11 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112393/prince-harry-meets-king-charles-for-first-time-in-more-than-a-year) · `en`
+
+Prince Harry has met his father King Charles at Clarence House in London, their first face to face meeting since February 2024.
+
+Buckingham Palace confirmed that the King had a private tea with his son, the Duke of Sussex, during a visit to the royal residence that lasted about 50 minutes.
+
+Afterwards he said of the King “yes, he’s great” in response to reporters’ questions.
+
+The meeting will be seen as a first step in improving relations between father and son and building trust in what has seemed a deep family rift.
+
+The King travelled down to London from Scotland on Wednesday afternoon. Prince Harry, who has been based in the US since 2020, has been in the UK this week for charity events.
+
+Prince Harry had spoken emotionally in a BBC interview in May about wanting to rebuild relationships, saying: “I would love a reconciliation with my family.”
+
+The last time that they were together was soon after the King’s cancer diagnosis last year, with Prince Harry flying to the UK for a brief meeting.
+
+...
+
+[Data](articles/1e77403c.json)
+
+---
+
+### Politicians and diplomats visit ex-President Mahinda Rajapaksa at his Wijerama residence
+
+*2025-09-11 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112392/politicians-and-diplomats-visit-ex-president-mahinda-rajapaksa-at-his-wijerama-residence) · `en`
+
+A group of politicians and diplomats have visited the official residence of former President Mahinda Rajapaksa on Wijerama Road in Colombo this morning (11).
+
+This comes in the wake of reports that former President Mahinda Rajapaksa is scheduled to vacate the official residence today.
+
+According to the provisions of the new law titled ‘Presidents’ Entitlements (Repeal) Act’, former presidents are now required to return their state-provided official residences back to the government.
+
+Former President Rajapaksa has been residing in an official residence up to now, but under the Act passed yesterday (10), he no longer receives the entitlement.
+
+Accordingly, he is expected to leave the Colombo residence and move to his private residence, Carlton House in Hambantota, according to a spokesperson of the Sri Lanka Podujana Peramuna (SLPP).
+
+...
+
+[Data](articles/ce666d22.json)
+
+---
+
+### Tusker ‘Mahasilu’ found dead in Okkampitiya
+
+*2025-09-11 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112391/tusker-mahasilu-found-dead-in-okkampitiya) · `en`
+
+The carcass of an elephant named Mahasilu, which had been seen roaming in Buttala and Okkampitiya, has been discovered this morning (11) in a paddy field in Ilukpitiya, Okkampitiya.
+
+The exact cause of the death of the elephant has not yet been determined, but a post-mortem examination is scheduled to be carried out, according to reports.
+
+This elephant, known for its majestic presence in the area and for having two well-developed tusks, has prompted a special investigation by wildlife officers regarding its death.
+
+Further investigations into the incident are being carried out by officials from the Monaragala Wildlife Office.
+
+◼️
+
+[Data](articles/1165d896.json)
 
 ---
 
@@ -1625,397 +2053,5 @@ The suspect responsible for the accident has not yet been identified, while the 
 [Data](articles/1656a336.json)
 
 [Extended Data](ext_articles/1656a336.ext.json)
-
----
-
-### India - US trade speech continues
-
-*2025-09-11 06:09:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-அமெரிக்கா-வர்த்தக-பேச்சு-தொடர்கிறது/175-364389) · `ta`
-
-US President Trump has said that this is a series of commerce words between the United States and the United States.
-
-Prime Minister Modi has said that I am also eager to speak to Trum Budon in response to this.
-
-“This is a continuation of the ban on the ban on the United States Business Bachch.. I am excited to speak with PM Modi in the coming week. I think that there is no difficulty in the end of the two best nations. Say it.
-
-Prime Minister Narendra Modi's X Social Web Site
-
-This is the friendship of the United States and the United States of America. I have our pocket that the United States will open the bilateral gut -tan ink and the bilateral gutter's ladies of the United States.. This is a group of high -end groups to complete this Bach. I am also eager to speak President Trum Bud. The two countries are saying that they will work together to ensure the good opposite of the two countries.. (A)
-
-◼️
-
-[Data](articles/a476aa1a.json)
-
-[Extended Data](ext_articles/a476aa1a.ext.json)
-
----
-
-### My dear Vijay
-
-*2025-09-11 06:03:19* · [`dailyftlk`](https://www.ft.lk/opinion/My-dear-Vijay/14-781505) · `en`
-
-I write to you not as a politician or an academic, but as a Sri Lankan who has lived through years of pain, and as someone who has witnessed firsthand the devastation of war. I also write as someone who has admired you as an actor, as a man loved by millions for your humility, your charisma, and the way you connect with ordinary people. Now, as you prepare to step into politics, I feel compelled to share a few words with you, not out of anger, but out of deep concern and hope.
-
-...
-
-[Data](articles/7a271c56.json)
-
-[Extended Data](ext_articles/7a271c56.ext.json)
-
----
-
-### Time and space to eclipse  the sad face of Sri Lanka
-
-*2025-09-11 06:00:20* · [`dailyftlk`](https://www.ft.lk/columns/Time-and-space-to-eclipse-the-sad-face-of-Sri-Lanka/4-781504) · `en`
-
-Of course, no lover of a land like no other in their right mind would gainsay what Vijitha Herath told the watching world in the aftermath of the blood moon
-
-The blood moon of the night of 7 September brought with it a panoply of portents for Sri Lanka. A lunar eclipse lasting almost one and a half hours, its visibility was marred to some degree by intermittent scudding clouds. Very few islanders however, usually superstitious to the nth, paid heed to prophecies of doom and gloom; opting instead to interpret the celestial show as favourable for once.
-
-In the wake of the night-time heavenly spectacle came Sri Lanka’s showing at the 60th United Nations Human Rights Council sessions in Geneva. Led by the redoubtable Vijitha Herath fronting the island’s case as its foreign minister, the once embattled nation state had many eyes squinting at the fine print of the text.
-
-...
-
-[Data](articles/36da7a88.json)
-
-[Extended Data](ext_articles/36da7a88.ext.json)
-
----
-
-### Eurasia rising, Anura’s SCO absence, strategic-security blindness, and NPP-Israel axis
-
-*2025-09-11 05:55:02* · [`dailyftlk`](https://www.ft.lk/columns/Eurasia-rising-Anura-s-SCO-absence-strategic-security-blindness-and-NPP-Israel-axis/4-781503) · `en`
-
-Sri Lankans are trapped in a triangular matrix of three Big Lies:
-
-(I) ‘The Aragalaya was mainly for system-change’. If true, almost a million people who flooded Colombo on July 9th 2022 morning couldn’t have shrunk to about 15,000 by nightfall after they’d successfully evicted Gotabaya. The numbers never reassembled but returned only to explore and picnic outside occupied/liberated buildings. The Aragalaya was specific and concrete, mainly about limited and legitimate ‘regime-change’, not ‘system-change’: sending Gota home, just as in the Philippines in 1986 it was about deposing Marcos.
-
-...
-
-[Data](articles/6e095fd3.json)
-
-[Extended Data](ext_articles/6e095fd3.ext.json)
-
----
-
-### Mass graves in Sri Lanka
-
-*2025-09-11 05:46:48* · [`dailyftlk`](https://www.ft.lk/columns/Mass-graves-in-Sri-Lanka/4-781502) · `en`
-
-Families of the disappeared have called for international oversight of the investigations, fearing that the truth will be buried with the victims
-
-There are credible allegations of serious violations of international humanitarian law and international human rights law committed by the Government of Sri Lanka (GOSL). The Chemmani mass graves, uncovered in 1998 near Jaffna, are an unresolved case of alleged State-sponsored atrocities during the Sri Lankan civil war, which include summary executions and systematic efforts to cover up the crimes. Killings in Chemmani and other crimes must be resolved for Sri Lanka to have closure of its tragic civil war.
-
-...
-
-[Data](articles/afdee7ca.json)
-
-[Extended Data](ext_articles/afdee7ca.ext.json)
-
----
-
-### Banking on trust: Shaping responsible  AI agenda for Sri Lanka
-
-*2025-09-11 05:40:35* · [`dailyftlk`](https://www.ft.lk/opinion/Banking-on-trust-Shaping-responsible-AI-agenda-for-Sri-Lanka/14-781499) · `en`
-
-Artificial intelligence (AI) holds the potential to reshape every sector it touches. Yet history reminds us that new technologies are often met with caution and fear as to how they will alter the ways we live, work, and communicate, and by extension, how they impact livelihoods, relationships, quality of life and even our sense of purpose.
-
-And with AI, this sense of caution is certainly warranted. The implications for economies and societies are profound, yet unpredictable. Will it widen the gap between nations, or help close it? What we know from past revolutions is that first movers that are able to effectively navigate emerging risks associated with new technologies gain disproportionate advantages—potentially compressing decades of progress into just a few years.
-
-...
-
-[Data](articles/99945d89.json)
-
-[Extended Data](ext_articles/99945d89.ext.json)
-
----
-
-### Second reading of National Audit (Amendment) Bill in Parliament today
-
-*2025-09-11 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112377/second-reading-of-national-audit-amendment-bill-in-parliament-today) · `en`
-
-The second reading of the National Audit (Amendment) Bill is scheduled to be taken up in Parliament today.
-
-Meanwhile, the government is also scheduled to present a supplementary estimate for the Ministry of Urban Development, Construction, and Housing in Parliament for approval today.
-
-◼️
-
-[Data](articles/34f6e7ce.json)
-
-[Extended Data](ext_articles/34f6e7ce.ext.json)
-
----
-
-### Charlie Kirk: Donald Trump ally shot dead at campus event in Utah
-
-*2025-09-11 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112378/charlie-kirk-donald-trump-ally-shot-dead-at-campus-event-in-utah) · `en`
-
-Charlie Kirk, a conservative activist and close ally of President Donald Trump, was shot and killed Wednesday at a Utah college event in an act that drew renewed attention to the threat of political violence across the United States.
-
-The death was announced on social media by Trump, who praised the 31-year-old Kirk, the co-founder and CEO of the youth organization Turning Point USA, as “Great, and even Legendary.”
-
-“No one understood or had the Heart of the Youth in the United States of America better than Charlie,” Trump posted on his Truth Social account.
-
-The suspected shooter has not been arrested, Orem, Utah, Mayor David Young said. A person who was taken into custody by law enforcement at the university where Kirk was speaking was not the suspect, according to a person familiar with the investigation who was not authorized to speak publicly.
-
-...
-
-[Data](articles/e3585beb.json)
-
-[Extended Data](ext_articles/e3585beb.ext.json)
-
----
-
-### Advocata Institute commends Cabinet decision to close 33 non-operational SOEs
-
-*2025-09-11 05:38:48* · [`dailyftlk`](https://www.ft.lk/opinion/Advocata-Institute-commends-Cabinet-decision-to-close-33-non-operational-SOEs/14-781498) · `en`
-
-The Advocata Institute has welcomed the decision by the Cabinet of Ministers, on the proposal of President Anura Kumara Disanayake in his capacity as Minister of Finance, Economic Stabilisation and National Policy, to formally close 33 non-operational State-Owned Enterprises (SOEs) under Phase 2 of the Government’s state-sector reform program.
-
-The move, to be implemented through a Special Liquidation Unit under the Ministry of Finance, is a first step towards eliminating waste, improving fiscal discipline, and redirecting scarce resources to more productive sectors of the economy.
-
-...
-
-[Data](articles/74359fac.json)
-
-[Extended Data](ext_articles/74359fac.ext.json)
-
----
-
-### Fairly heavy rainfall above 50 mm likely in some areas today
-
-*2025-09-11 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112376/fairly-heavy-rainfall-above-50-mm-likely-in-some-areas-today) · `en`
-
-Several spells of showers will occur in the Western, Sabaragamuwa and North-western provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (11), the Department of Meteorology.
-
-Showers or thundershowers will occur at several places in the Northern, Eastern and Uva provinces after 1.00 p.m., the Met. Department added.
-
-Fairly heavy falls of about 50 mm are likely at some places.
-
-Meanwhile, the general public has also requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e7b1e0d2.json)
-
-[Extended Data](ext_articles/e7b1e0d2.ext.json)
-
----
-
-### Wilpattu under threat as EFL takes battle to Court again
-
-*2025-09-11 05:36:02* · [`dailyftlk`](https://www.ft.lk/news/Wilpattu-under-threat-as-EFL-takes-battle-to-Court-again/56-781497) · `en`
-
-The Environmental Foundation (Guarantee) Ltd., (EFL) yesterday filed a Writ application in the Court of Appeal of Sri Lanka, asking the court to urgently stop illegal activities inside Wilpattu National Park, especially around the Pallekandal Church in Block V of the park.
-
-A small jungle shrine in Block V of Wilpattu National Park, used in the past for a modest annual feast by local fishing communities, fell into disuse during the civil conflict. After the park reopened in 2010, the site grew into a large church complex through illegal construction, clearing of forests, and increased human activity.
-
-...
-
-[Data](articles/92ba3765.json)
-
-[Extended Data](ext_articles/92ba3765.ext.json)
-
----
-
-### Presidents’ Entitlements (Repeal) Bill passed in Parliament
-
-*2025-09-11 05:35:04* · [`dailyftlk`](https://www.ft.lk/news/Presidents-Entitlements-Repeal-Bill-passed-in-Parliament/56-781496) · `en`
-
-Speaker of the House Dr. Jagath Wickramaratne endorsing the certification on the Bill yesterday
-
-The Presidents’ Entitlements (Repeal) Bill was passed in Parliament yesterday by a majority of 150 votes.
-
-The debate on the second reading of the Bill began at 11:30 a.m. yesterday and was followed by a second reading vote at around 3:30 p.m., where a total of 151 MPs voted in favour, while New Democratic Front (NDF) MP Chamara Sampath Dassanayake voted against it.
-
-Subsequently, the Bill proceeded to the third reading or the Committee stage. Following the Committee stage, the Speaker announced that the bill has been approved without amendments in Parliament.
-
-This Bill, which was presented to Parliament on 7 August by Justice and National Integration Minister Harshana Nanayakkara, is a Bill to repeal the Presidents’ Entitlements Act, No. 4 of 1986.
-
-...
-
-[Data](articles/758de8c8.json)
-
-[Extended Data](ext_articles/758de8c8.ext.json)
-
----
-
-### Ranil condemns Nepal violence, urges return to peace
-
-*2025-09-11 05:33:51* · [`dailyftlk`](https://www.ft.lk/news/Ranil-condemns-Nepal-violence-urges-return-to-peace/56-781495) · `en`
-
-Ex-President Ranil Wickremesinghe yesterday expressed distress over the unfolding violence in Kathmandu, condemning the unrest and urging a return to peace and stability in Nepal.
-
-In a statement, he said he condemns all kinds of killings, including those of the youth that has occurred in Nepal, adding that the burning of a former prime minister’s home and the killing of his wife was a “deeply tragic situation.” He extended his condolences to the victims’ families.
-
-Wickremesinghe noted that assaults on government officials, including the foreign minister, reflected a worsening crisis, stressing that women’s rights had been gravely violated and that such events had damaged Nepal’s standing abroad. He criticised police shootings as an “unacceptable course of action,” saying the unrest should never have been allowed to escalate.
-
-...
-
-[Data](articles/080ece81.json)
-
-[Extended Data](ext_articles/080ece81.ext.json)
-
----
-
-### Cabinet green lights Rs. 6 b  more for rural roads
-
-*2025-09-11 05:32:46* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-Rs-6-b-more-for-rural-roads/56-781494) · `en`
-
-Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa
-
-Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved an additional Rs. 6 billion for the Rural Road Rehabilitation and Improvement Program.
-
-He said Rs. 11.5 billion from the 2025 budget allocation of Rs. 14 billion had already been assigned to rural roads, and Rs. 5 billion more was allocated in August. The new provision raises the total further, as the value of all identified projects across districts amounts to Rs. 26 billion.
-
-◼️
-
-[Data](articles/c4e92c16.json)
-
-[Extended Data](ext_articles/c4e92c16.ext.json)
-
----
-
-### Nepal protests ‘hijacked’, Gen Z claims, as army patrols streets
-
-*2025-09-11 05:31:50* · [`dailyftlk`](https://www.ft.lk/news/Nepal-protests-hijacked-Gen-Z-claims-as-army-patrols-streets/56-781493) · `en`
-
-Nepal’s army has deployed patrols on the streets of the capital Kathmandu, as the Himalayan nation reels from its worst unrest in decades.
-
-Protests against corruption spiralled into arson and violence on Tuesday. The prime minister quit as politicians’ homes were vandalised, and Government buildings and parliament torched. 30 people died and more than 1,000 were injured over two days of violence.
-
-“Gen Z” groups spearheading the protests distanced themselves from the destruction, saying they had been “hijacked” by “opportunists”.
-
-On Wednesday, Kathmandu’s airport reopened and the capital was relatively quiet as most residents obeyed a curfew, but smoke still rose from burning buildings.
-
-The military, which is trying to control a spiralling situation, has invited the Gen Z protesters to engage in peace talks. Student leaders are consolidating a fresh list of demands, one of their representatives told the BBC.
-
-...
-
-[Data](articles/449ee345.json)
-
-[Extended Data](ext_articles/449ee345.ext.json)
-
----
-
-### Trump lobbies EU for 100% tariffs on China and India
-
-*2025-09-11 05:31:30* · [`dailyftlk`](https://www.ft.lk/news/Trump-lobbies-EU-for-100-tariffs-on-China-and-India/56-781492) · `en`
-
-Donald Trump has called on the European Union (EU) to hit China and India with tariffs of up to 100% to force Russian president Vladimir Putin to end the war in Ukraine.
-
-The US president made the demand during a meeting between US and EU officials on Tuesday discussing options to increase economic pressure on Russia, a source familiar with the discussions has told the BBC.
-
-Trump, who previously pledged to end the conflict on “day one” of becoming president, is struggling to broker a peace deal between Moscow and Kyiv, and Russia’s strikes on Ukraine have intensified.
-
-Separately, Trump told reporters on Tuesday that he plans to talk to Putin on a call this week or early next week.
-
-China and India are major buyers of Russian oil, which helps to keep the country’s economy and war machine afloat.
-
-Last month, the US imposed a 50% tariff on goods from India, which included a 25% penalty for its transactions with Russia.
-
-...
-
-[Data](articles/37da824f.json)
-
-[Extended Data](ext_articles/37da824f.ext.json)
-
----
-
-### Sri Lanka to ratify UN High Seas Biodiversity Treaty
-
-*2025-09-11 05:31:12* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-ratify-UN-High-Seas-Biodiversity-Treaty/56-781491) · `en`
-
-Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved ratification of the agreement under the UN Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction.
-
-He said Cabinet had already granted approval in December 2024 for Sri Lanka to sign the agreement and establish an inter-ministerial committee. Sri Lanka signed the agreement on 20 February 2025.
-
-“If Sri Lanka is among the first 60 countries to ratify, we will benefit from strengthened conservation of ocean resources, sustainable use, and fair distribution of returns,” Dr. Jayatissa said.
-
-◼️
-
-[Data](articles/ce8e3c30.json)
-
-[Extended Data](ext_articles/ce8e3c30.ext.json)
-
----
-
-### MAS welcomes Asian Development Bank delegation at MAS Fabric Park
-
-*2025-09-11 05:30:10* · [`dailyftlk`](https://www.ft.lk/business/MAS-welcomes-Asian-Development-Bank-delegation-at-MAS-Fabric-Park/34-781490) · `en`
-
-Key representatives of ADB and MAS Holdings, including ADB Country Director for Sri Lanka Takafumi Kadono and MAS Holdings Director – Corporate Affairs Rajitha Jayasuriya (centre right – immediate)
-
-MAS Holdings recently hosted a delegation from the Asian Development Bank (ADB) at the MAS Fabric Park in Thulhiriya as part of ADB’s efforts to support the private sector through meaningful partnerships and investment.
-
-The visit offered the ADB team an opportunity to experience MAS’ operations first-hand and gain insights into the company’s commitment to manufacturing excellence and sustainable business practices.
-
-ADB Country Director for Sri Lanka Takafumi Kadono said, “Partnerships with leading private sector companies like MAS are essential to driving sustainable growth and resilience. We are encouraged by the company’s commitment to innovation and environmental stewardship, which align strongly with ADB’s development priorities in the region.”
-
-...
-
-[Data](articles/fbe5550c.json)
-
-[Extended Data](ext_articles/fbe5550c.ext.json)
-
----
-
-### Talk on German Supply Chain Act reforms and EU GSP+
-
-*2025-09-11 05:29:03* · [`dailyftlk`](https://www.ft.lk/business/Talk-on-German-Supply-Chain-Act-reforms-and-EU-GSP/34-781489) · `en`
-
-Colombo will host a timely and high-level discussion this week on the latest reforms to the German Supply Chain Act (Lieferkettensorgfaltspflichtengesetz – LkSG) and their intersection with the EU GSP+ program and the upcoming EU Supply Chain Law.
-
-The session, led by Löning – Human Rights and Responsible Business Founder and Managing Director and former German Human Rights Commissioner Markus Löning, will take place on 12 September at the Atrium, Cinnamon Grand.
-
-The German Government recently published a draft amendment to the LkSG, introducing two key changes: The abolition of the reporting obligation, previously suspended by BAFA but now legally confirmed and a narrowing of sanction mechanisms, applying only to companies that neglect preventive or remedial measures or fail to set up complaint mechanisms
-
-...
-
-[Data](articles/22181a85.json)
-
-[Extended Data](ext_articles/22181a85.ext.json)
-
----
-
-### CWEIC hosts exclusive networking lunch in Colombo to strengthen partnerships
-
-*2025-09-11 05:27:02* · [`dailyftlk`](https://www.ft.lk/business/CWEIC-hosts-exclusive-networking-lunch-in-Colombo-to-strengthen-partnerships/34-781488) · `en`
-
-The Commonwealth Enterprise and Investment Council (CWEIC) successfully hosted an exclusive networking lunch in Colombo, bringing together its Strategic Partners and key Government stakeholders to foster dialogue, collaboration, and future partnerships within Sri Lanka.
-
-The networking lunch served as a platform for Strategic Partners of CWEIC to engage directly with Government and private sector representatives, exchange insights on emerging opportunities, and strengthen ties between the private sector and the State.
-
-The event was graced by Industries and Entrepreneurship Development Minister Sunil Handunnetti, who attended as the Chief Guest and delivered a keynote address highlighting the importance of collaboration in driving sustainable economic growth.
-
-...
-
-[Data](articles/5898b265.json)
-
-[Extended Data](ext_articles/5898b265.ext.json)
-
----
-
-### Committee to draft national electricity policy
-
-*2025-09-11 05:23:54* · [`dailyftlk`](https://www.ft.lk/business/Committee-to-draft-national-electricity-policy/34-781487) · `en`
-
-Studies show recent CEB profits due to pricing, not efficiency gains
-
-Unbundling CEB, introducing market competition and improving governance necessary to attract investment
-
-Cabinet Spokesperson and Health and Mass Media Minister Dr. Nalinda Jayatissa said yesterday the Cabinet approved the appointment of a committee to draft Sri Lanka’s national electricity policy and guidelines as required under the amended Electricity Act.
-
-The committee will have up to eight members with at least 15 years of expertise in energy policy, renewable energy, energy transition, system planning, and economics.
-
-Dr. Jayatissa said the members include Prof. Mohan Munasinghe, President’s Counsel Milinda Gunathilaka, Professor Arulampalam Athputharaja, Engineer W.J.L. Shavindranath Fernando, and Dr. H.M. Gunathilaka.
-
-The Sri Lanka Electricity Act was enacted in June 2024 to modernise the energy sector by restructuring the Ceylon Electricity Board (CEB), promoting private-sector investment and renewable energy.
-
-...
-
-[Data](articles/8c4b9adb.json)
-
-[Extended Data](ext_articles/8c4b9adb.ext.json)
 
 ---

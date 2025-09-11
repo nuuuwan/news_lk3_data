@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-11 12:23:54**
+As of **2025-09-11 12:13:30**
 
 ## Newspaper Stats
 
-*Scraped **75,368** Articles*
+*Scraped **75,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,127 +18,79 @@ dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,305
 adaderanalk | 9,671
-tamilmirrorlk | 11,264
+tamilmirrorlk | 11,263
 virakesarilk | 12,287
-adaderanasinhalalk | 13,126
+adaderanasinhalalk | 13,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-67,062 (89.0%) of 75,368 articles have been extended.
+67,040 (89.0%) of 75,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-11 (Thursday)
 
-### மஹிந்தவை சந்தித்த அரசியல்வாதிகள்,வெளிநாட்டு பிரதிநிதிகள் குழு
-
-*2025-09-11 12:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-அரசியல்வாதிகள்-வெளிநாட்டு-பிரதிநிதிகள்-குழு/175-364418) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இன்று கொழும்பில் உள்ள விஜேராம வீதியில் உள்ள அவரது உத்தியோகபூர்வ இல்லத்தை காலி செய்ய உள்ளதாக தகவல்கள் வெளியாகியுள்ள நிலையில், அரசியல்வாதிகள் மற்றும் வெளிநாட்டு பிரதிநிதிகள் குழு ஒன்று இன்று காலை அங்கு சென்றது.
-
-ஜனாதிபதிகள் உரிமை நீக்கச் சட்டத்தின் விதிகளின் கீழ், முன்னாள் ஜனாதிபதிகளுக்கு ஒதுக்கப்பட்ட குடியிருப்புகள் அரசாங்கத்திடம் திரும்ப ஒப்படைக்கப்பட வேண்டும்.
-
-நேற்று (10) பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட சட்டமூலத்தைத் தொடர்ந்து, உத்தியோகபூர்வ குடியிருப்புகளில் வசித்து வரும் ராஜபக்ச இந்த உரிமையை இழந்தார்.
-
-◼️
-
-[Data](articles/db251d1b.json)
-
----
-
-### අමාත්‍යවරු ඇතුළු රජයේ පාර්ශව කිහිපයකට නොතීසි
-
-*2025-09-11 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214437) · `si`
-
-මෙරට ඉඩම් කළමනාකරණය කිරීම සඳහා ජාතික වැඩපිළිවෙළක් සකස් කරන ලෙස නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් සම්බන්ධයෙන් නොවැම්බර් මස 28 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා අභියාචනාධිකරණය විසින් ඉඩම් අමාත්‍යවරයා, පරිසර අමාත්‍යවරයා ඇතුළු පාර්ශව කිහිපයකට නොතීසි නිකුත් කර තිබේ.
-
-මෙම පෙත්සම අද (11) ධම්මික ගනේපොල සහ ආදිත්‍ය පටබැඳිගේ යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතීඥ රවීන්ද්‍රනාන් දාබරේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙරට තුළ ඉඩම් කළමනාකරණය පිළිබඳ ජාතික සැලැස්මක් ක්‍රියාත්මක නොවීම නිසා ගැටලු රාශියක් උද්ගත වී තිබෙන බව පෙන්වා දී ඇත.
-
-මෙරට තුළ  කෘෂිකාර්මික කටයුතු, වනාන්තර, වගුරු බිම්, ජනාවාස යනාදී අංශ සඳහා වෙන් කළයුතු ඉඩම් මෙන්ම ඒවායේ සීමාවන් නිසි පරිදි හඳුනාගෙන වෙන්කර නොමැතිවීම නිසා පාරිසරික මෙන්ම අනෙකුත් අර්බුද රාශියක් මතු වී තිබෙන බවත් නීතිඥවරයා පෙන්වා දී තිබේ.
-
-ඒ නිසා මෙරට ඉඩම්වලින් නිසි ප්‍රයෝජන ලබාගැනීමට නොහැකි තත්ත්වයක්ද උද්ගත වී තිබෙන බව නීතිඥවරයා පෙන්වා දී ඇත.
-
-...
-
-[Data](articles/b9cd4b8a.json)
-
----
-
-### SI Arrest associated with Padme
+### பத்மேவுடன் தொடர்புடைய SI  கைது
 
 *2025-09-11 11:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பத்மேவுடன்-தொடர்புடைய-SI-கைது/175-364416) · `ta`
 
-A sub-inspector has been arrested by the CIT, who has been working in the Gampaha Criminal Investigation Division for allegedly involved in the alleged involvement with the underworld leader Kehelpathara Padme.
+பாதாள உலகக் குழுத் தலைவர் கெஹல்பத்தர பத்மேவுடன் தொடர்பு வைத்திருந்ததாகக் கூறப்படும் குற்றச்சாட்டில் கம்பஹா குற்றப் புலனாய்வுப் பிரிவில் பணியாற்றிய துணைப் ஆய்வாளர் ஒருவர் (Sub-Inspector ) சிஐடியினரால் கைது செய்யப்பட்டுள்ளார்.
 
-Investigations revealed that the officer had maintained close contact with Padme, who was recently deported from Indonesia.
+இந்தோனேசியாவிலிருந்து சமீபத்தில் நாடு கடத்தப்பட்ட பத்மேவுடன் அந்த அதிகாரி நெருங்கிய தொடர்புகளைப் பேணி வந்ததாகக் கூறப்படும் விசாரணைகள் வெளிப்படுத்தின.
 
 ◼️
 
 [Data](articles/432e125b.json)
 
-[Extended Data](ext_articles/432e125b.ext.json)
-
 ---
 
-### A sub-inspector who had ties with Padkere
+### පද්මේ සමඟ සබඳතා පැවැත්වූ උප පොලිස් පරීක්ෂකවරයෙක් අත්අඩංගුවට
 
 *2025-09-11 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214436) · `si`
 
-A sub-inspector has been arrested on charges of organizing criminal gang member Kehelbadara Padma.
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ සමග සමීප සබඳතා පැවැත්වීමේ චෝදනා මත උප පොලිස් පරීක්ෂකවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
 
-Police Media Spokesperson ASP. !. Mr. Woatler said.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී එෆ්. යු. වුට්ලර් මහතා පැවසුවේය.
 
-The Police Media Spokesperson stated that the sub-police Inspector is attached to the Gampaha Divisional Criminal Investigation Division.
+‍අදාළ උප පොලිස් පොලිස් පරීක්ෂකවරයා ගම්පහ කොට්ඨාශ අපරාධ විමර්ශන අංශයට අනුයුක්තව සේවය කරන අයෙකු බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
 
-Five criminal group members, including Kehelbadara Padma arrested in Indonesia, was recently brought to the island recently.
+ඉන්දුනීසියාවේ දී අත්අඩංගුවට ගනු ලැබු කෙහෙල්බද්දර පද්මේ ඇතුළු  අපරාධ කල්ලි සාමාජිකයින් පස් දෙනෙකු පසුගියදා දිවයිනට රැගෙන ඒමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මේ වන විට ඔවුන් රඳවාගෙන ප්‍රශ්න කිරීම් සිදුකරනු ලබයි.
 
-The suspect sub-inspector has been arrested on information revealed.
+එලෙස සිදුකළ ප්‍රශ්න කිරීම්වලදී හෙළි වු තොරතුරු මත මෙම සැකකාර උප පොලිස් පරීක්ෂකවරයා අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
 
 ◼️
 
 [Data](articles/22c52bc3.json)
 
-[Extended Data](ext_articles/22c52bc3.ext.json)
-
 ---
 
-### Judge visits the human burial ground
+### குருக்கள் மனிதப் புதைகுழிக்கு நீதிபதி விஜயம்
 
 *2025-09-11 11:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மனிதப்-புதைகுழிக்கு-நீதிபதி-விஜயம்/175-364415) · `ta`
 
-Top officials, including the judge, visited the place where the priests were located in the monastery.
+குருக்கள் மடத்தில் உள்ள மனிதப் புதைகுழி அமைந்துள்ள இடத்தை நேரில் சென்று நீதிபதி உள்ளிட்ட உயர் அதிகாரிகள் பார்வையிட்டனர்.
 
-The case was taken up at the Kaluwanchikudi Magistrate's Court on Thursday (11) for the murder of Muslims and armed priests who traveled to Kattankudi via Kalmunai after completing the holy Hajj pilgrimage in 1990.
+1990 ஆம் ஆண்டில் புனித ஹஜ் யாத்திரை முடித்த பின்னர் கல்முனை வழியாக காத்தான்குடிக்கு பயணம் செய்த முஸ்லிம்கள், ஆயுததாரிகளால் இடைமறிக்க பட்டு குருக்கள் மடத்தில் கொலை செய்யப்பட்ட சம்பவத்திற்கு தொடர்புடைய வழக்கு விசாரணை களுவாஞ்சிக்குடி நீதவான் நீதிமன்றத்தில் வியாழக்கிழமை(11)  விசாரணைக்காக எடுத்துக்கொள்ளப்பட்டது.
 
-In the presence of Justice JPA Ranjit Kumar, the bodies of the relevant persons were buried and identified, the Attorneys, Manmunai South Eruvil Divisional Secretary, Pradeshiya Sabha Chairperson, Police, Disappeared Office Officers, Legal experts, Forensic Police, Assistant Police.
+இதன்போது உரிய நபர்களின் உடல்கள் புதைக்கப்பட்டுள்ளதாக கருதப்பட்டு அடையாளப்படுத்தப்பட்டுள்ள இடத்தை    நீதிபதி ஜே.பீ.ஏ.ரஞ்சித்குமார் முன்னிலையில் தொல்பொருள் திணைக்களத்தினர், சட்டத்தரணிகள், மண்முனை தென் எருவில் பற்று பிரதேச செயலாளர், பிரதேச சபைத் தவிசாளர், பொலிஸார், காணாமல் ஆக்கப்பட்ட அலுவலக  அதிகாரிகள், சட்ட வைத்திய நிபுணர்கள், தடயவியல் பொலிஸார், உதவிப் பொலிஸ் அத்தியட்சகர், உள்ளிட்ட பலரும் பார்வையிட்டனர்.
 
-The Kaluwanchikudi Magistrate's Court has already ordered the excavation of human remains buried at the scene.
-
-The court has already ordered the police to set up a security zone for the police.
-
-◼️
+...
 
 [Data](articles/59dba288.json)
 
-[Extended Data](ext_articles/59dba288.ext.json)
-
 ---
 
-### Parliament is hot
+### පාර්ලිමේන්තුව උණුසුම්
 
 *2025-09-11 11:36:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-උණුසුම්/11-418426) · `si`
 
-There was a warm quality of Parliament as a result of the government and the opposition.
+ආණ්ඩු පක්ෂය හා විපක්ෂය අතර ඇති වූ වචන හුව  මාරුවක් නිසා පාර්ලිමේන්තුවේ  උණුසුම් තත්ත්වයක් ඇති විය.
 
 ◼️
 
 [Data](articles/96cf026e.json)
-
-[Extended Data](ext_articles/96cf026e.ext.json)
 
 ---
 
@@ -427,8 +379,6 @@ The European Union’s Deforestation Regulation (EUDR) takes effect on 30 Decemb
 ...
 
 [Data](articles/877b560f.json)
-
-[Extended Data](ext_articles/877b560f.ext.json)
 
 ---
 
@@ -789,8 +739,6 @@ The Colombo Stocks Exchange was trading in green; The ASPI was down 0.55 percent
 ◼️
 
 [Data](articles/2feca5c8.json)
-
-[Extended Data](ext_articles/2feca5c8.ext.json)
 
 ---
 
@@ -1232,25 +1180,21 @@ The statisters acted in ambulance driving to the hospital and several other pass
 
 ---
 
-### Two arrested for shootings
+### වෙඩි තැබීම් දෙකකට සම්බන්ධ දෙදෙනෙක් අල්ලයි
 
 *2025-09-11 07:30:36* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීම්-දෙකකට-සම්බන්ධ-දෙදෙනෙක්-අල්ලයි/11-418422) · `si`
 
-Investigations have commenced investigations by an unidentified person in Borathgamuwa Police, Marin Bulathsinhala Mawatha, Boralsgamuwa Police.
+2025.08.24 වන දින බොරලැස්ගමුව පොලිස් වසමේ මාලනී බුලත්සිංහල මාවතේදී ත්‍රිරෝද රථයකින් පැමිණි නාඳුනන පුද්ගලයෙකු විසින් පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ අපරාධය සම්බන්ධයෙන්  බස්නාහිර පළාත දකුණ දිසා අපරාධ කොට්ඨාසය මඟින් විමර්ශන ආරම්භ කර තිබුණි.
 
-Accordingly, the driver of the three-wheeler in the Dehiwala area was arrested by a group of officers of the same Division in the morning of the morning of 2025 on 10.09.10.
+ඒ අනුව 2025.09.10 වන දින උදෑසන කාලයේ එම කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් දෙහිවල පොලිස් වසමේ අත්තිඩිය ප්‍රදේශයේදී මෙම අපරාධය සිදු කිරීම සඳහා පැමිණි ත්‍රිරෝද රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
 
-The suspect is a 22 year old resident of Mount Lavinia. The Western Province South Criminal Division is conducting further investigations.
+සැකකරු වයස අවුරුදු 22 ක් වන ගල්කිස්ස ප්‍රදේශයේ පදිංචිකරුවෙකි. බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය  වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
 
-Meanwhile, a team of officers of the Police Special Task Force has been arrested by the Special Task Force in the Borella Police Division on 22.08.2012 at the Borella Police Division.
+මේ අතර 2025.09.10 වන දින දහවල් කාලයේ රාගම පොලිස් වසමේ ලින්ටන් ක්‍රිඩාංගණය අසලදී පොලිස් විශේෂ කාර්ය බලකා බුද්ධි කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් වැටලීමක් සිදු කර 2025.08.22 වන දින බොරැල්ල පොලිස් වසමේ සීවලීපුර ප්‍රදේශයේ සිදු වූ වෙඩි තැබීමට අධාර අනුබල දුන් සැකකරුවෙකු අත්අඩංගුවට ගෙන රාගම පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
 
-The suspect is 17 year old resident of Buthpitiya. The suspect has been revealed at the current investigation into an organized crime and drug dealer. The Ragama Police are conducting further investigations.
-
-◼️
+...
 
 [Data](articles/4d0919d1.json)
-
-[Extended Data](ext_articles/4d0919d1.ext.json)
 
 ---
 
@@ -2011,5 +1955,57 @@ Former Prime Minister Prasan Da, Sher Bahadur Dev Ba, Sala Nath Khanal, Minister
 [Data](articles/556c5c39.json)
 
 [Extended Data](ext_articles/556c5c39.ext.json)
+
+---
+
+### 14 Days for Namal Rajapaksa; Sunil Watakala
+
+*2025-09-11 00:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224762) · `ta`
+
+Parliamentarian Namal Rajapaksa should file a case against me within 14 days. Otherwise, I will file a lawsuit against him according to the law.. Deputy Minister of Public Security and Parliamentary Affairs Sunil Vatagala said that if the case is filed, Namal Rajapaksa will ask for a cross -question, including law college, Tajuddin, Lasantha, Hegnelikoda, Julampitiya Amare.
+
+He said this while addressing the debate on the President's Removal (Removal) Bill held in Parliament on Wednesday (10).
+
+Member of Sri Lanka PA. Sanaka said to the council that his national organizer Namal Rajapaksa had sent me a question deed. If you go to social media, the question bond is exchanged.
+
+Namal Rajapaksa is reportedly filed against me. He is not aware of the nature of the mannast case because he is not trained in court. The defendant can ask any questions to the complainant during the Mannastha case.
+
+...
+
+[Data](articles/e45df53c.json)
+
+[Extended Data](ext_articles/e45df53c.ext.json)
+
+---
+
+### 2025-09-10 (Wednesday)
+
+### Asian Bowl Cricket: The Indian team is easy to win against UAE
+
+*2025-09-10 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/224761) · `ta`
+
+In the Asia Cup T20 cricket match on Wednesday (10), the Indian team won by 9 wickets against the UAE (UAE).
+
+With this victory, India topped the list of points in the group 'A' category.
+
+The United Arab Emirates scored only 57 runs in 13.1 overs.
+
+Kuldeep Yadav took 4 wickets in 2.1 overs and took 4 wickets.
+
+Also, Shivam Dubey took 3 wickets, while he gave up only 4 runs in 2 overs.
+
+Alishan Sharaf (22) and Captain Mohammed Wasim (19) scored 26 runs for the first wicket, but after the coalition collapsed, all the remaining wickets fell to 31 runs.
+
+Accordingly, the Indian team, who chased an easy target of 58 runs, lost the target by losing only one wicket in the 5th (4.3) over of the match.
+
+Abhishek Sharma, a team of India's opening pair, scored 30 runs off 16 balls. That includes 3 sixes and 2 fours.
+
+In addition, Shubman Kill faced only 9 balls and scored 20 runs. There was a six and two fours in the Gill's innings.
+
+◼️
+
+[Data](articles/45f64330.json)
+
+[Extended Data](ext_articles/45f64330.ext.json)
 
 ---

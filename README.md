@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 19:09:47**
+As of **2025-09-12 20:08:08**
 
 ## Newspaper Stats
 
-*Scraped **75,616** Articles*
+*Scraped **75,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,137 @@ economynextcom | 4,588
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,342
-adaderanalk | 9,714
-tamilmirrorlk | 11,303
-virakesarilk | 12,318
-adaderanasinhalalk | 13,177
+adalk | 7,344
+adaderanalk | 9,715
+tamilmirrorlk | 11,305
+virakesarilk | 12,321
+adaderanasinhalalk | 13,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,694 (90.8%) of 75,616 articles have been extended.
+68,732 (90.9%) of 75,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### ஐ.தே.கட்சியின் ஆண்டு விழாவுக்கு திகதி குறிக்கப்பட்டது
+### அடுத்த 36 மணி நேரத்தில் ஏற்படவுள்ள மாற்றம்
+
+*2025-09-12 19:51:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணி-நேரத்தில்-ஏற்படவுள்ள-மாற்றம்/175-364474) · `ta`
+
+அடுத்த 36 மணி நேரத்தில் மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன் கிழக்கு மற்றும் ஊவா மாகாணங்களில் பிற்பகல் 1.00 மணிக்குப் பிறகு ஆங்காங்கே மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிகமாக பலத்த காற்று மற்றும் மின்னல் தாக்கத்தால் ஏற்படும் ஆபத்துகளைக் குறைப்பதற்குத் தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொதுமக்களை அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/c5cb37a4.json)
+
+---
+
+### எல்ல - வெல்லவாய விபத்து : உயிரிழந்தோரின் எண்ணிக்கை அதிகரிப்பு
+
+*2025-09-12 19:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-விபத்து-உயிரிழந்தோரின்-எண்ணிக்கை-அதிகரிப்பு/175-364473) · `ta`
+
+எல்ல - வெல்லவாய பிரதான வீதியில் கடந்த 4ஆம் திகதி இரவு இடம்பெற்ற பஸ் விபத்தில் படுகாயமடைந்து சிகிச்சைபெற்று வந்த தங்காலை நகர சபையின் பெண் ஊழியர் இன்று (12) சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+குறித்த பஸ் விபத்தில் 15 பேர் உயிரிழந்துள்ளதுடன் 18 பேருக்கும் அதிகமானோர் படுகாயமடைந்து பதுளை போதனா வைத்தியசாலை, பண்டாரவளை மற்றும் தியத்தலாவை ஆகிய வைத்தியசாலைகளில் அனுமதிக்கப்பட்டவர்.
+
+இந்நிலையில், விபத்தில் படுகாயமடைந்து பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட தங்காலை நகர சபையின் பெண் ஊழியர் ஒருவர் சிகிச்சை பலனின்றி இன்று  உயிரிழந்துள்ளார்.
+
+அதன்படி, எல்ல - வெல்லவாய பிரதான வீதியில் செப்டெம்பர் 04 ஆம் திகதி இரவு இடம்பெற்ற பஸ் விபத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை 16 ஆக அதிகரித்துள்ளது. R
+
+◼️
+
+[Data](articles/770e8c9a.json)
+
+---
+
+### Whatever we are building today, the foundation for security - US Ambassador Julie Sung
+
+*2025-09-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224947) · `ta`
+
+US Ambassador to Sri Lanka Julie Sung said that what we are building today is the foundation for our shared security tomorrow.
+
+The Pacific Angel 2025, which illustrates the US's determination to ensure excellence and partnership in the Indo-Pacific region.. While addressing the gathering, US Ambassador to Sri Lanka Julie Sung said the above.
+
+The US Embassy in Sri Lanka celebrated the success of the Pacific Angel 2025 training process with the Sri Lanka Air Force and the Ministry of Defense.
+
+US Ambassador Julie Sangh, Defense Secretary (Retired) Air Marshal Sampath Dihakonda and Sri Lanka Air Force Commander Air Marshal Vasal Vasal Vasal Vasinga joined the participants to celebrate the largest multinational training in Sri Lanka this year.
+
+The Pacific Angel 2025 training, which took place from 8th to 12th September, united shareholders to strengthen disasters and humanitarian cooperation.
+
+...
+
+[Data](articles/4b168a4b.json)
+
+[Extended Data](ext_articles/4b168a4b.ext.json)
+
+---
+
+### 86 killed in ancient boat
+
+*2025-09-12 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214495) · `si`
+
+Foreign media reports that at least 86 persons have died due to the accident.
+
+However, the cause of the accident is yet to be revealed.
+
+◼️
+
+[Data](articles/1d0fd3d6.json)
+
+[Extended Data](ext_articles/1d0fd3d6.ext.json)
+
+---
+
+### The date for the annual celebration of the UNP was marked
 
 *2025-09-12 18:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-ஆண்டு-விழாவுக்கு-திகதி-குறிக்கப்பட்டது/175-364472) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை எதிர்வரும் 20ஆம் திகதி காலை 9 மணிக்கு  ஸ்ரீஜயவர்த்தனபுர கோட்டையில் அமைந்துள்ள மோனார்க் இம்பீரியல் ஹோட்டலில் நடத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+The 79th anniversary of the United National Party is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on the 20th.
 
-ஐக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான  ரணில் விக்ரமசிங்க தலைமையில் நேற்று இடம்பெற்ற கலந்துரையாடலிலேயே இவ்வாறு தீர்மானிக்கப்பட்டுள்ளது.
+The meeting was held yesterday under the leadership of UNP leader and former president Ranil Wickremesinghe.
 
-ஐக்கிய தேசிய கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா ஏற்கனவே 6ஆம் திகதி நடத்துவதற்கு தீர்மானித்திருந்த நிலையில்,  கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உடல் ஆரோக்கியத்தை கருத்தில் கொண்டு கட்சியின் முகாமைத்துவ குழு, விழாவை ஒத்திவைப்பதற்கு தீர்மானித்திருந்தது.
+While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
 
-அதன் பிரகாரம் ஒத்திவைக்கப்பட்டுள்ள ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை  எதிர்வரும் 20ஆம் திகதி நடத்துவதற்கு  தீர்மானிக்கப்பட்டுள்ளது. R
+Accordingly, the postponement of the United National Party (UNP) is scheduled to be held on the 20th of this month.. Remble
 
 ◼️
 
 [Data](articles/326b66cc.json)
 
+[Extended Data](ext_articles/326b66cc.ext.json)
+
 ---
 
-### පොලිස් හදිසි වැටලීමකින් මත්ද්‍රව්‍ය සම්බන්ධ සැකකරුවන් රැසක් අත්අඩංගුවට
+### A large number of suspects arrested with police station
 
 *2025-09-12 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214494) · `si`
 
-සුළු, මධ්‍ය හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විසින් සිදුකරන ලද විශේෂ මෙහෙයුම් මගින් පසුගිය 05 වැනිදා සිට 11 වැනිදා දක්වා සැකකරුවන් 3,017ක් අත්අඩංගුවට ගත් බව පොලීස පවසයි.
+Police said that 3,017 suspects were arrested from the 5th to 11th to 11th of the 11th of the month of police.
 
-නිවේදනයක් නිකුත් කරමින් පොලීසිය පැවසුවේ වැටලීම් 3,018ක් මගින් අදාළ සැකකරුවන් අත්අඩංගුවට ගත් බවය.
+The police said that 3,018 raids were arrested by 3,018 raids.
 
-එහිදී වැඩිම වැටලීම් ප්‍රමාණයක් සිදුකර ඇත්තේ හෙරොයින් සම්බන්ධ වැටලීම් වන අතර එම වැටලීම් ගණන 1,014ක් වන අතර එහිදී අත්අඩංගුවට ගෙන ඇති සැකකරුවන් ගණනද 1,014කි.
+The highest raid was carried out and the number of raids were 1,014 and the number of suspects were 1,014 suspects.
 
-එමෙන්ම අයිස් සම්බන්ධ වැටලීම් 1,031ක් සිදුකර ඇති අතර එහිදී අත්අඩංගුවට ගෙන ඇති සැකකරුවන් සංඛ්‍යාව 1,030කි.
+1,031 Ice raids were carried out and the number of suspects was 1,030.
 
-මෙම වැටලීම්වලදී හොරයින් කිලෝ 1යි ග්‍රෑම් 618කට වැඩි ප්‍රමාණයක්ද අයිස් කිලෝ 2යි ග්‍රෑම් 156කට වැඩි ප්‍රමාණයක් පොලිස් භාරයට ගැනීමටද පොලීසිය කටයුතු කර තිබේ.
+Police have also taken into custody over more than 1kg of ice and 2kg of ice in these raids.
 
-තවද මෙම විශේෂ වැටලීම්වලදී මත්පෙති 8,260ක්ද පොලිස් භාරයට ගෙන ඇති අතර ඒ සම්බන්ධ සැකකරුවන් 48 දෙනෙකුට පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+Police have also seized 8,260 drugs and 48 suspects were taken into custody.
 
-පොලීසියේ හදිසි වැටලීමකින් මත්ද්‍රව්‍ය සම්බන්ධ සැකකරුවන් රැසක් අත්අඩංගුවට  by  poornima
+A large number of suspects arrested in police station arrested by poornima
 
 ◼️
 
 [Data](articles/88fc5ab9.json)
+
+[Extended Data](ext_articles/88fc5ab9.ext.json)
 
 ---
 
@@ -111,6 +187,64 @@ CP Radhakrishnan was sworn in today in the presence of President Moormu in Rasht
 [Data](articles/cbe189d7.json)
 
 [Extended Data](ext_articles/cbe189d7.ext.json)
+
+---
+
+### The Indian Committee conducted a study on the development of Point Pedro
+
+*2025-09-12 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224944) · `ta`
+
+A team of four members from the Central Coast Guard and Fisheries Institute, a leading company under the Ministry of Fisheries, Livestock and Dairy, visited Sri Lanka from 8 to 12.. The Indian High Commission in Colombo said that the visit was focused on conducting preliminary studies on the development of the Pedro Fisheries Port proposed in the Northern Province.
+
+The delegation met with Fisheries Minister Ramalingam Chandrasekhar and Governor of the Northern Province Nagalingam Vedanayagan and held discussions with the ministry officials.. With the financial assistance of the Government of India, the appropriate methods for the development of the Pedro Fisheries Harbor were focused on this discussion.. The group has made technical visits to the project to be proposed in Point Pedro on the 9th and 10th of last month.
+
+...
+
+[Data](articles/1e19399b.json)
+
+[Extended Data](ext_articles/1e19399b.ext.json)
+
+---
+
+### The 79th anniversary of the United National Party is on September 20
+
+*2025-09-12 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224943) · `ta`
+
+The 79th anniversary of the United National Party (UNP) is scheduled to be held on the 6th and is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on Saturday 20th.
+
+This was decided at a discussion held at his political office in Colombo on Thursday 11th, headed by UNP leader and former president Ranil Wickremesinghe.
+
+While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
+
+Accordingly, it is decided to hold the 79th anniversary of the postponement of the postponement on Saturday the 20th.
+
+◼️
+
+[Data](articles/43535055.json)
+
+[Extended Data](ext_articles/43535055.ext.json)
+
+---
+
+### CoPF calls for financial autonomy for Bribery Commission, AG’s Dept
+
+*2025-09-12 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112441/copf-calls-for-financial-autonomy-for-bribery-commission-ags-dept) · `en`
+
+The Committee on Public Finance (CoPF) has granted approval for the 2026 budget estimate of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+This approval was granted during a meeting of the Committee held on Thursday (11) in Parliament, chaired by Member of Parliament Dr. Harsha de Silva.
+
+During the meeting, the Chairman of the Committee pointed out that just as the Central Bank of Sri Lanka (CBSL) experience financial independence, it is important to grant financial autonomy to institutions such as the Bribery Commission (CIABOC) and the Auditor General’s Department to ensure greater independence in their operations.
+
+He further stated that with such financial independence, these institutions would be able to function more autonomously, irrespective of which government is in power, and free from prevailing political authority.
+
+Accordingly, the Committee decided to inform the Minister of Finance, who is also the President, about this matter, the statement said.
+
+...
+
+[Data](articles/7954abd9.json)
+
+[Extended Data](ext_articles/7954abd9.ext.json)
 
 ---
 
@@ -264,6 +398,22 @@ The case will be held regarding the abduction of the party's general secretary t
 
 ---
 
+### ශෂේන්ද්‍රට පැයකට 35 වතාවක් හුස්ම හිරවෙනවලු
+
+*2025-09-12 17:00:43* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රට-පැයකට-35-වතාවක්-හුස්ම-හිරවෙනවලු/11-418460) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාට පැයකට 35 වතාවක් හුස්ම හිරවීමේ  රෝගයක් පවතින බව අද අධිකරණයේදී හෙළිවිය. රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු ර‌ාජ්‍ය අමාත්‍යවරයා අද කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේ ඔහුට ඇප ලබාගැනීමට නීතිඥවරු ඉදිරිපත් කළ සුවිශේෂී කරුණු අනුව මෙම කරුණද දැක්වීය.
+
+කෙසේ වෙතත් සැකකාර හිටපු අමාත්‍යවරයා ලබන 19 වනදා දක්වා  තවදුරටත් රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (12) නියම කළේය.
+
+මහවැලි ඉඩමක ඉදිකර තිබූ සිය දේශපාලන කාර්යාලය අරගල සමයේදී ගිනිතබා විනාශ කිරීම හේතුවෙන් නීතියට පටහැනි ලෙස රුපියල්  8,850,000ක මුදලක් වන්දි වශයෙන් ලබාගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ "දූෂණය" නමැති වරද සිදුකළ බවට චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+◼️
+
+[Data](articles/7cd08f79.json)
+
+---
+
 ### A woman who was seriously injured in the tragedy of the falls
 
 *2025-09-12 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214488) · `si`
@@ -301,6 +451,26 @@ Further updates will be communicated to the Exchange and shareholders as appropr
 [Data](articles/ba40ae77.json)
 
 [Extended Data](ext_articles/ba40ae77.ext.json)
+
+---
+
+### Kopy Chairman Kabir Hashim
+
+*2025-09-12 16:51:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-සභාපති-කබීර්-හෂීම්/11-418459) · `si`
+
+Parliamentarian MP Kabir Hashim was elected as the Committee on Public Accounts (Kopa) for the first meeting of the Third Parliament.
+
+Parliamentarian Aravinda Senarath served as the Chairman of the Committee on Public Accounts on 06.08.2025 at the time of January 12.
+
+Member of Parliamentarian Kabir Hashim for Chairman. The elephants and Rohitha Abeygunawardena were confirmed.
+
+Addressing the Committee, he said that the new president was planning to work in the cooperation of all members without political ideology.  Also, the former Chairman of the Committee, Hon. Aravinda Senarath, specially appreciated the role of Hon.. The new Chairman further further stated that the new plans will be prepared and to maintain the action of the Kopy Panel.
+
+...
+
+[Data](articles/f17526bb.json)
+
+[Extended Data](ext_articles/f17526bb.ext.json)
 
 ---
 
@@ -1869,199 +2039,5 @@ The Department of Wildlife Conservation provided technical support in species id
 [Data](articles/66a502bf.json)
 
 [Extended Data](ext_articles/66a502bf.ext.json)
-
----
-
-### The total number of school uniforms related to 2026 from China
-
-*2025-09-12 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214466) · `si`
-
-The Chinese government has agreed to provide the total uniforms for the year 2026 as a grant for 4,418,404 students who receive government and government aid.
-
-The official ceremony of the consensus certificate was held at the Ministry of Education of Battaramulla yesterday (11).
-
-Deputy Minister of Education and Higher Education Dr. Madura Seneviratne, the Chinese Ambassador, was chaired by the Chinese Ambassador Qi Zhenhong.
-
-The assignment of the certificate of the uniforms of the year 2026 was held between Mr. Nalaka Kabuwewa and Mr. Navanhong of the Chinese.
-
-Minister of Education and Higher Education Dr. Madura Seneviratne expressed these views,
-
-"China awarded 11.82 million meters to Sri Lanka for 2025. This gave the entire national requirement, and directly benefited more than 4.6 million students across the country.
-
-This contribution is more valuable than Rs 5.17 billion, from the youngest student to attend all children with respect and equality to the national examinations.
-
-...
-
-[Data](articles/573aa30c.json)
-
-[Extended Data](ext_articles/573aa30c.ext.json)
-
----
-
-### Amateur furniture
-
-*2025-09-12 08:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவி-கொட்டுக்கு-இலக்காகி-உயிரிழப்பு/175-364455) · `ta`
-
-One of the elderly people who saw the beauty of the Karungulavi nest died after being died.
-
-The deceased is Selvanayagam Balasaraswathi (age 82) from Tellippalai, Vidhakapuram.
-
-A massive wasp nest was found in the south of the tree at around 3.30 pm on Tuesday (09).
-
-When he was a beautiful wasps, he was taken to the hospital, who was taken to the Tellippalai Hospital, who was taken to the Tellippalai Hospital, when he went to it with a rod.
-
-Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Namasivayam Premkumar. Tellippalai police regulated the witnesses. (A)
-
-◼️
-
-[Data](articles/917160fb.json)
-
-[Extended Data](ext_articles/917160fb.ext.json)
-
----
-
-### Harsha raises concerns over Bribery Commission’s financial management
-
-*2025-09-12 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112418/harsha-raises-concerns-over-bribery-commissions-financial-management) · `en`
-
-The Chairman of the Committee on Public Finance (CoPF), MP Dr. Harsha de Silva, has raised concerns regarding the financial management of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), questioning whether the institution can be considered truly independent under its current framework.
-
-He made these remarks when CIABOC officials appeared before the Committee to discuss the Commission’s budget estimates.
-
-“As far as I know, there is a macro-level issue here. The fundamental question is what we mean by independence. If an institution does not have financial independence, how can it claim to be independent? The issue then arises as to how the powers granted are exercised, and who has the authority to appoint the necessary staff.”
-
-Addressing the Committee, CIABOC Director General Ranga Dissanayake stated that although provisions had been made to establish a dedicated staff for the Commission, this had not been implemented even after nearly two years.
-
-...
-
-[Data](articles/96b5851d.json)
-
-[Extended Data](ext_articles/96b5851d.ext.json)
-
----
-
-### SC grants leave to proceed with petition over electricity bill for Namal’s wedding
-
-*2025-09-12 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112417/sc-grants-leave-to-proceed-with-petition-over-electricity-bill-for-namals-wedding) · `en`
-
-The Supreme Court (SC) has granted leave to proceed with the hearing of a fundamental rights petition filed by an attorney seeking a ruling that the fundamental rights of the people of this country have been violated by the failure to pay over Rs. 2 million to the Ceylon Electricity Board (CEB) for electricity used at the wedding reception of MP Namal Rajapaksa.
-
-The petition was filed by Attorney-at-Law Vijitha Kumara, and a group including the CEB had been named as respondents.
-
-The petition was taken up yesterday (11) before a bench of Supreme Court judges comprising Chief Justice Preethi Padman Surasena and Justice Achala Wengappuli, Ada Derana reporter said.
-
-Attorney Weragoda, appearing for the petitioner, stated before the court that the petitioner had filed the petition regarding the failure to timely pay the electricity bill related to the wedding reception of Namal Rajapaksa to the CEB.
-
-...
-
-[Data](articles/fa862232.json)
-
-[Extended Data](ext_articles/fa862232.ext.json)
-
----
-
-### President instructs governors and the key secretary
-
-*2025-09-12 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214465) · `si`
-
-President Anura Kumara Dissanayake emphasizes that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
-
-The President emphasized that the political authority has ended the government of local authorities to maintain its power to the present government.
-
-President Anura Kumara Dissanayake has given this advice at the Presidential Secretariat yesterday (11) at the Presidential Secretariat and the project discussions between the provisions of the development projects.
-
-Special attention was made in the case of the Central Government and Local Authorities while impleting the development projects such as educational, health and highways.
-
-...
-
-[Data](articles/fe0870dd.json)
-
-[Extended Data](ext_articles/fe0870dd.ext.json)
-
----
-
-### World Bank report slams Sri Lanka VAT amid poverty from monetary meltdown: analysis
-
-*2025-09-12 08:19:00* · [`economynextcom`](https://economynext.com/world-bank-report-slams-sri-lanka-vat-amid-poverty-from-monetary-meltdown-analysis-240310/) · `en`
-
-ECONOMYNEXT – A World Bank report on Sri Lanka’s tax has slammed value added tax hike, though rate cuts and money printing for potential output targeting by macro-economists led to a collapse of the rupee and inflation that was the core reason for a dramatic rise in poverty.
-
-The rhetoric against VAT may have negative consequences for Sri Lanka for which the poor will eventually pay a higher price if it leads to a repeat of tax cuts like in 2019, observers say.
-
-The recent steep rise in Sri Lanka VAT was also a result of having to pay the salaries of a bloated public sector, including 100,000 development officers and other unemployed graduates hired into public service, who apparently do not have offices to sit and work according to statements made in parliament as well as a legacy large military from a civil war.
-
-...
-
-[Data](articles/4ad85d39.json)
-
-[Extended Data](ext_articles/4ad85d39.ext.json)
-
----
-
-### Harsha revealed about financial management of the Bribery Commission
-
-*2025-09-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214464) · `si`
-
-Financial Management of Investigation Commission independent of the Bribery Institute or Corruption, or not? The Chairman of the Committee Dr. Harsha de Silva says there is a problem with the government.
-
-He was summoned to the Committee to discuss the budget estimates of the Bribery or Corruption Commission.
-
-The Director General of the Bribery Commission (Bribery Investigation Commission) said that almost two years, it was not possible for almost two years.
-
-Deputy Secretary to the Ministry of Finance AK. Senarath said that Harsha de Silva has said that the bribery or corruption in the Investigation Commission is independent of the Bribery or Corruption Commission is independent.
-
-◼️
-
-[Data](articles/1d1eed10.json)
-
-[Extended Data](ext_articles/1d1eed10.ext.json)
-
----
-
-### There are no special project offices for foreign loans and support projects
-
-*2025-09-12 07:31:56* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ණය-සහ-අධාර-යටතේ-ක්‍රියාත්මක-වන-ව්‍යාපෘති-සඳහා-මින්-ඉදිරියට-විශේෂ-ව්‍යාපෘති-කාර්යාල-නැහැ/11-418447) · `si`
-
-The Central Government and Local Authorities should work together in implementing development projects
-
-Develop a common development plan to identify development needs at provincial level
-
-President Anura Kumara Dissanayake emphasized that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
-
-The President emphasized that the political authority has ended the culture of local authorities to detain its power to the present government.
-
-President Anura Kumara Dissanayake participated in the Presidential Secretariat, as well as the development of the projects between the central government and local government allocations for local government, and the previous year's budgetary arrangements.
-
-Special attention was made by the Central Government and Local Government Agents while implementing development projects in the fields of education, health and highways.
-
-...
-
-[Data](articles/f1d3c9cc.json)
-
-[Extended Data](ext_articles/f1d3c9cc.ext.json)
-
----
-
-### Suspect identified in murder of mother and son in Karandeniya
-
-*2025-09-12 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112416/suspect-identified-in-murder-of-mother-and-son-in-karandeniya-) · `en`
-
-A suspect has been identified in connection with the incident of the murder of a 74-year-old woman and her 25-year-old son in  Karandeniya, according to police.
-
-A 74-year-old woman and her 25-year-old son, who were residing at Kotawela in Karandeniya, were attacked and killed with a sharp weapon in the Kabulagoda area of the Karandeniya Police Division last evening (11), police said.
-
-The bodies have been placed at the Elpitiya Hospital’s morgue.
-
-The 43-year-old suspect, who is suspected of committing the murder, has been identified as a resident of a house near the victims’ home.
-
-However, the motive behind the killings is yet to be uncovered, police said.
-
-Karandeniya Police are conducting further investigations to apprehend the suspect.
-
-◼️
-
-[Data](articles/a16eed69.json)
-
-[Extended Data](ext_articles/a16eed69.ext.json)
 
 ---

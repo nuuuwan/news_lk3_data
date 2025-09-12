@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 14:21:49**
+As of **2025-09-12 14:10:16**
 
 ## Newspaper Stats
 
@@ -26,25 +26,23 @@ adaderanasinhalalk | 13,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,423 (90.5%) of 75,572 articles have been extended.
+68,408 (90.5%) of 75,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### Parliament provides Parliament to Piliyandala College
+### පිළියන්දල මධ්‍ය විද්‍යාලයට පාර්ලිමේන්තුව ලබාදෙයි
 
 *2025-09-12 13:40:36* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-මධ්‍ය-විද්‍යාලයට-පාර්ලිමේන්තුව-ලබාදෙයි/11-418453) · `si`
 
-Piliyandala Central College Student Parliament of Parliament Parliamentnel was held on the 4th of the Presidential Secretariat at the Presidential Secretariat. Chairman of Mrs. Kushani Rohangarara. The Piliyandala College, the objective of providing practical experience on parliamentary system for students, the event was organized by the Department of Parliament and the Communication Department of the Parliament of Sri Lanka.
+පිළියන්දල මධ්‍ය විද්‍යාලීය ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සභාවාරය ජනාධිපති ලේකම් කාර්යාලයේ පැරැණි පාර්ලිමේන්තු සභා ගර්භයයේ දී පසුගිය 04 වැනිදා පැවැත්විණි. ඒ පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මියගේ ප්‍රධානත්වයෙනි. පිළියන්දල මධ්‍ය විද්‍යාලය ශිෂ්‍ය ශිෂ්‍යාවන් සඳහා පාර්ලිමේන්තු  ක්‍රමවේදය පිළිබඳ ප්‍රායෝගික අත්දැකීම් ලබාදීම අරමුණු කොටගෙන එම විද්‍යාලය හා ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව එක්ව මෙම වැඩසටහන සංවිධානය කර තිබිණි.
 
-The Secretary General of Parliament Kusala Rohanadera is announced on how Parliament is operated by the Parliamentary Procedure and its functions.. (I J)
+මෙහිදී පාර්ලිමේන්තුවේ මහ ලේකම් කුෂාණි රෝහණදීර මහත්මිය විසින් පාර්ලිමේන්තු ක්‍රියාවලිය හා එහි කාර්යභාර පිළිබඳ පැහැදිලි කරමින් පාර්ලිමේන්තුව ක්‍රියාත්මක වන ආකාරය පිළිබඳ දැනුවත් කළාය. ( I J )
 
 ◼️
 
 [Data](articles/4676cca6.json)
-
-[Extended Data](ext_articles/4676cca6.ext.json)
 
 ---
 
@@ -1106,27 +1104,23 @@ Deputy Secretary to the Ministry of Finance AK. Senarath said that Harsha de Sil
 
 ---
 
-### There are no special project offices for foreign loans and support projects
+### විදේශ ණය සහ අධාර යටතේ ක්‍රියාත්මක වන ව්‍යාපෘති සඳහා මින් ඉදිරියට විශේෂ ව්‍යාපෘති කාර්යාල නැහැ
 
 *2025-09-12 07:31:56* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ණය-සහ-අධාර-යටතේ-ක්‍රියාත්මක-වන-ව්‍යාපෘති-සඳහා-මින්-ඉදිරියට-විශේෂ-ව්‍යාපෘති-කාර්යාල-නැහැ/11-418447) · `si`
 
-The Central Government and Local Authorities should work together in implementing development projects
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කළ යුතුයි
 
-Develop a common development plan to identify development needs at provincial level
+පළාත් මට්ටමින් සංවර්ධන අවශ්‍යතා හඳුනා ගනිමින් පොදු සංවර්ධන සැලැස්මක් සකස් කරන්න
 
-President Anura Kumara Dissanayake emphasized that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන මනා සම්බන්ධීකරණයකින් යුතුව ඒකාබද්ධව කටයුතු කළ යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
 
-The President emphasized that the political authority has ended the culture of local authorities to detain its power to the present government.
+දේශපාලන අධිකාරිය තම බලය රඳවා ගැනීම වෙනුවෙන් පළාත් පාලන ආයතන භාවිත කළ සංස්කෘතිය වත්මන් රජය යටතේ අවසන් කර ඇති බව අවධාරණය කළ ජනාධිපතිවරයා, රට සංවර්ධනය කිරීමේ ජාතික සැලැස්මක් කරා ගමන් කිරීම වෙනුවෙන් මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කිරීමේ අවශ්‍යතාවද පෙන්වා දුන්නේය.
 
-President Anura Kumara Dissanayake participated in the Presidential Secretariat, as well as the development of the projects between the central government and local government allocations for local government, and the previous year's budgetary arrangements.
-
-Special attention was made by the Central Government and Local Government Agents while implementing development projects in the fields of education, health and highways.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම උපදෙස් ලබා දුන්නේ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම ආණ්ඩුව සහ පළාත් පාලන ආයතන අතර මතුව ඇති ගැටලු පිළිබඳව සාකච්ඡා කිරීමට සහ පළාත් පාලන ආයතන සඳහා  2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනයට මෙන්ම, 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවකට ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
 
 ...
 
 [Data](articles/f1d3c9cc.json)
-
-[Extended Data](ext_articles/f1d3c9cc.ext.json)
 
 ---
 

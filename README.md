@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 22:08:48**
+As of **2025-09-13 00:20:51**
 
 ## Newspaper Stats
 
-*Scraped **75,632** Articles*
+*Scraped **75,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,166 @@ islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,346
-adaderanalk | 9,716
+adaderanalk | 9,721
 tamilmirrorlk | 11,305
-virakesarilk | 12,321
-adaderanasinhalalk | 13,182
+virakesarilk | 12,325
+adaderanasinhalalk | 13,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,886 (91.1%) of 75,632 articles have been extended.
+69,025 (91.2%) of 75,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### Sushila Karki as Nepal's first female medieval prime minister
+
+*2025-09-12 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224951) · `ta`
+
+Nepal's Prime Minister KP. Supreme Court Chief Justice Sushila Karki has been appointed as the new Prime Minister. She has recorded the historical record of Nepal's first woman prime minister.
+
+The decision was officially announced by the President's House after a consensus between President Ram Chandra Paval and Nepal Army leader Ashok Raj Sikdell.. Representatives of Jen Z have expressed their support for the appointment of a new prime minister.
+
+Over the past few days, youths have staged fierce struggles against corrupt politicians. At least 51 people have been killed in these protests. Government buildings, star hotels burned down. There have also been incidents of prisons being broken and many prisoners escaped.
+
+These incidents have caused great shock in Nepal politics, and people are looking at how the country's situation will change under the leadership of new Prime Minister Sushila Karki.
+
+◼️
+
+[Data](articles/8b60432a.json)
+
+[Extended Data](ext_articles/8b60432a.ext.json)
+
+---
+
+### ‘Pac Angel 25’ highlights US commitment to excellence and partnership in Indo-Pacific: US envoy
+
+*2025-09-12 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112447/pac-angel-25-highlights-us-commitment-to-excellence-and-partnership-in-indo-pacificusenvoy) · `en`
+
+The U.S. Embassy in Sri Lanka, together with the Sri Lanka Air Force (SLAF) and the Ministry of Defense, marked the successful conclusion of Exercise Pacific Angel 2025 at a closing ceremony in Katunayake today.
+
+U.S. Ambassador Julie Chung, Sri Lanka’s Secretary of Defense Air Vice Marshal Sampath Thuyacontha (Retd), and Air Marshal Vasu Bandu Edirisinghe, Commander of the SLAF, joined participants to celebrate the largest multinational exercise hosted in Sri Lanka this year, the US Embassy in Colombo said.
+
+Held from September 8–12, Pacific Angel 2025 brought Indo-Pacific partners together to strengthen disaster response and humanitarian cooperation.
+
+The exercise united participants from across the region to improve interoperability and share expertise. U.S. Pacific Forces trained alongside the Royal Australian Air Force, Japan Air Self-Defense Force, Maldivian National Defence Force, and the Bangladesh Air Force, with the Sri Lanka Navy and Army playing key roles as hosts.
+
+...
+
+[Data](articles/b02c1d0c.json)
+
+[Extended Data](ext_articles/b02c1d0c.ext.json)
+
+---
+
+### Floods for Japan
+
+*2025-09-12 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214502) · `si`
+
+Floods have been caused by heavy rainfall in many parts of Tokyo.
+
+Foreign media reports that one person was killed and another injured due to the collapse of several containers who had been launched due to heavy winds.
+
+Tokyo's transport services are also hampered by heavy rainfall.
+
+The railway service was also temporarily suspended and 100,000 people were affected by foreign media.
+
+In the next few days, some areas of Tokyo are capable of over 100 mm of rainfall.
+
+◼️
+
+[Data](articles/ddfed5b7.json)
+
+[Extended Data](ext_articles/ddfed5b7.ext.json)
+
+---
+
+### Prime Minister solutions to university academic problems
+
+*2025-09-12 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214501) · `si`
+
+A discussion was held at the Prime Minister Dr. Harini Amarasuriya, chaired by the Prime Minister Dr. Harini Amarasuriya.
+
+The trade union representatives have fallen as a percentage of the salary ratio of them, the MCA allowance, 20% allowance has been discussed at length to the 20% allowance.
+
+The program should be solved at 20% to $ 11% in parallel to the implementation of the implementation of the existing salaries.
+
+They have said that their salary has increased in a high percentage of public servants and that it has been a high percentage in a few years.
+
+In addition, the MCA allowance, 20% allowance and the departmental departmental departmental departmental departmental representatives have been discussed with the departmental department of Political Authority and Overtime calculations.
+
+It is also emphasized at the time of the shortage of non-academic staff and not taking steps to recruit.
+
+...
+
+[Data](articles/64aa8a21.json)
+
+[Extended Data](ext_articles/64aa8a21.ext.json)
+
+---
+
+### Workshop to educate public executives on artificial intelligence
+
+*2025-09-12 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214500) · `si`
+
+Another workshop on behalf of government executives was held at Temple Trees this morning to convert the public service effective and efficient service.
+
+The workshop organized by the Digital Economic Ministry with the assistance of the Presidential Secretariat, with the assistance of the Presidential Secretariat, was organized by the Presidential Secretariat with the assistance of the Presidential Secretariat.
+
+The workshop has been organized with the objective of educating public officers as a initial approach to digitizing public service.
+
+Secretary to the Presidential Secretary Dr. Nandika Sanath said that the public service should be prepared to be prepared and the existing public service should change.. The Presidential Secretary added that the public should be paid to the public to provide more efficient services to the people using artificial intelligence to win the challenge of gaining public confidence in the public service.
+
+...
+
+[Data](articles/9c5873ab.json)
+
+[Extended Data](ext_articles/9c5873ab.ext.json)
+
+---
+
+### Sachindra Rajapaksa's sleep in sleep; Bail demand
+
+*2025-09-12 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224950) · `ta`
+
+Sasheendra Rajapaksa's lawyer appeared in court and said that Sasheendra Rajapakse is experiencing a severe wheezing problem during his sleep and is about 35 times a day in a time.. He also stressed that her health is deteriorating day by day.
+
+Considering these circumstances, the court was asked to release him on bail to treat him. However, the Colombo Magistrate's Court decided that the bail could not be granted.
+
+Accordingly, the court has ordered Sasheendra Rajapaksa to be remanded until the 19th.
+
+Following the release of the verdict, there is a stir in the court premises.
+
+◼️
+
+[Data](articles/7eab6507.json)
+
+[Extended Data](ext_articles/7eab6507.ext.json)
+
+---
+
+### Sri Lanka sets sights on welcoming 500,000 Indian travellers
+
+*2025-09-12 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112446/sri-lanka-sets-sights-on-welcoming-500000-indian-travellers) · `en`
+
+Sri Lanka Tourism Promotion Bureau has launched its first-ever dedicated destination wedding promotion for the Indian market, marking a new chapter in strengthening tourism ties between the two neighbours.
+
+The campaign is rolled out through a series of luxury multi-city wedding showcases in India, hosted in association with LINKIN REPS, positioning the island nation as a premier wedding destination.
+
+Sri Lanka is witnessing a significant rise in the number of couples choosing the island for their weddings.
+
+In response to a question asked by T3, Buddhika Hewawasam, Chairman of the Sri Lanka Tourism Promotion Bureau, shared that the programme builds on already impressive momentum in the destination wedding segment. “Last year we doubled the numbers, hosting about 30 large weddings of Indian couples in Sri Lanka, each with more than 500 guests, plus another 50 smaller celebrations,” noted the Chairman. “It is a remarkable opportunity for wedding planners and organisers to consider Sri Lanka.”
+
+...
+
+[Data](articles/a27f5195.json)
+
+[Extended Data](ext_articles/a27f5195.ext.json)
+
+---
 
 ### Charlie Kark's killer arrested
 
@@ -52,6 +198,52 @@ The violent shot was attacked by his neck while attending a lecture at a univers
 
 ---
 
+### Walking from Mullaithivu in support of the Mannar wind farm
+
+*2025-09-12 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224949) · `ta`
+
+Two youths arrived in Mannar on Friday evening (12) as two youths started a walk towards Mannar in support of the Mannar windmill.
+
+Two youths started a walk from Mullivaikkal in the Mullaitivu district on Wednesday (10) in protest of the wind farm in Mannar.
+
+They were traveling from Mullaitivu and distributing leaflets to trade centers and the public on the streets.
+
+The two youths arrived at the Mannar Duradi junction at 6 pm on Friday (12).
+
+The two youths were greeted by the Mannar Citizens' Committee Chairman Aruttand S. Makas Adikallar and the people and the youth who were carrying out the protest in Mannar.
+
+Later, a group of people visited the Mannar Bazaar area and distributed leaflets against the windmill to trade centers in the Bazaar area.
+
+◼️
+
+[Data](articles/0440e591.json)
+
+[Extended Data](ext_articles/0440e591.ext.json)
+
+---
+
+### Former chief justice Karki named Nepal’s first female leader after unrest
+
+*2025-09-12 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112445/former-chief-justice-karki-named-nepals-first-female-leader-after-unrest) · `en`
+
+Sushila Karki, a former chief justice, will become the first woman to lead Nepal, to be sworn in as interim leader later on Friday after violent anti-graft protests forced Prime Minister K.P. Sharma Oli to resign, the president’s office said.
+
+President Ramchandra Paudel’s office announced Karki’s appointment following negotiations between Paudel, army chief Ashok Raj Sigdel and the protesters who led Nepal’s worst upheaval in years.
+
+Fifty-one people were killed and more than 1,300 injured this week in the anti-graft protests by the ‘Gen Z’ movement, named for the age of its mainly young supporters.
+
+The protest was sparked by a social media ban that has since been rolled back. The violence subsided only after Oli resigned on Tuesday.
+
+Karki, 73, would take the oath of office at 9:15 p.m. local time (1530 GMT), said Archana Khadka Adhikari, information officer at the president’s office. Two other ministers would also be sworn in along with her, local TV channels reported.
+
+...
+
+[Data](articles/94c0d3b4.json)
+
+[Extended Data](ext_articles/94c0d3b4.ext.json)
+
+---
+
 ### Former CJ is appointed as the interim Prime Minister of Nepal
 
 *2025-09-12 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214498) · `si`
@@ -65,6 +257,46 @@ The media reported that she is to be sworn in tonight as the head of the interco
 [Data](articles/53d8d871.json)
 
 [Extended Data](ext_articles/53d8d871.ext.json)
+
+---
+
+### Youth arrested with drug pills in Jaffna
+
+*2025-09-12 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224948) · `ta`
+
+A 20 -year -old youth has been arrested with 40 drug pills during a round of raids carried out on Friday, 12th of this month in Colombo, Jaffna.
+
+யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் யாழ்ப்பாணம் பொலிஸ் நிலைய போதை தடுப்பு பிரிவினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+Police are taking steps to bring the suspect in court after investigations.
+
+◼️
+
+[Data](articles/08016873.json)
+
+[Extended Data](ext_articles/08016873.ext.json)
+
+---
+
+### Charlie Kirk shooting suspect identified as Tyler Robinson
+
+*2025-09-12 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112444/charlie-kirk-shooting-suspect-identified-as-tyler-robinson) · `en`
+
+The suspect arrested in connection with the shooting of conservative activist Charlie Kirk has been identified as Tyler Robinson, a 22-year-old man from Utah, authorities said Friday.
+
+Kirk, 31, was fatally shot on Wednesday while he was speaking to around 3,000 people at an event at Utah Valley University. The manhunt that ensued took several twists and turns in the hours following the shooting.
+
+Two people were taken into custody on Wednesday, but both were later released.
+
+Earlier Friday, President Trump announced during an appearance on Fox & Friends that a suspect was in custody. “I think with a high degree of certainty we have him,” he said.
+
+Investigators and authorities on Thursday night pleaded for the public’s help in finding the gunman. Utah Gov. Spencer Cox said that law enforcement had received more than 7,000 tips related to the shooting.
+
+...
+
+[Data](articles/4b6aeef0.json)
+
+[Extended Data](ext_articles/4b6aeef0.ext.json)
 
 ---
 
@@ -91,6 +323,24 @@ And they also presented a souvenir to President Anura Kumara Dissanayake to mark
 [Data](articles/317d6df3.json)
 
 [Extended Data](ext_articles/317d6df3.ext.json)
+
+---
+
+### Boat capsizes in Congo, killing 86 people, most of them students
+
+*2025-09-12 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112443/boat-capsizes-in-congo-killing-86-people-most-of-them-students) · `en`
+
+At least 86 people have died after a motorized boat capsized in northwestern Congo’s Equateur Province, state media reported on Friday.
+
+The accident occurred on Wednesday in Basankusu territory, according to the state news agency, which also reported that most of the victims were students.
+
+It was not immediately clear what caused the accident although the state media blamed it on “improper loading and night navigation”.
+
+◼️
+
+[Data](articles/84cfff73.json)
+
+[Extended Data](ext_articles/84cfff73.ext.json)
 
 ---
 
@@ -1803,273 +2053,5 @@ Corporation's Total Credit Currently Rs.. He said it was 1.6 billion and it was 
 [Data](articles/aca1fde0.json)
 
 [Extended Data](ext_articles/aca1fde0.ext.json)
-
----
-
-### There is no longer a Palestinian country: that land is ours - Israeli Prime Minister Netanyahu
-
-*2025-09-12 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224880) · `ta`
-
-Israeli Prime Minister Benjamin Netanyahu has explicitly declared that there is no Palestinian nation in the controversial settlement of "E1". "This place belongs only to us," he said.
-
-Speaking at a function held at the Male Adumim settlement on the west bank, Netanyahu,
-
-“Our promises are being fulfilled. There will no longer be a Palestinian Country. This land is only ours. Thousands of more houses will be built here. Our culture, land and security will be protected. The population of the West Bank will be doubled. ”
-
-The “E1” project, which has been paralyzed by international opposition for many years, aims to build about 3,000 new Israeli houses on the west bank.. Human rights organizations have warned that this project will completely prevent the creation of a Palestinian country in the future, as this project will cut off the West Coast from East Jerusalem of Palestine.
-
-...
-
-[Data](articles/85b976f0.json)
-
-[Extended Data](ext_articles/85b976f0.ext.json)
-
----
-
-### Like did to Russia, there is a ban into Israel?
-
-*2025-09-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214469) · `si`
-
-The Spanish Sports Minister Pure Alegia has said that after the invasion of Ukraine forbidden Russian sports teams, it is said that Israel should be banned to play.
-
-The 'Tue of Swain' Cycling Tournament is being held in Spain these days, and the Israeli-Premier Tech team also participated.
-
-The Palestinian pro-organizations in Spain have launched a protest against the opportunity to compete.
-
-The Minister of Spanish Sports has made this statement in such a setting.
-
-He said he would like to ban Israeli-premier Tech group, but it can only be implemented to the cycle world governing body.
-
-He also emphasizes the dual procedure taken about Russia and Israel, and the Israeli groups should ban the game as they banned Russian sports teams in 2022.
-
-It is said that the Israeli-Premier Tech group is not a group representing Israel.
-
-However, Israeli Prime Minister Benjamin Netanyahu had praised the group about the Israeli-Premier Tech group of Israeli-Premier Tech group, despite strong objections.
-
-...
-
-[Data](articles/422d0816.json)
-
-[Extended Data](ext_articles/422d0816.ext.json)
-
----
-
-### Investigators in Charlie Kirk killing find weapon, release images of person of interest
-
-*2025-09-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112426/investigators-in-charlie-kirk-killing-find-weapon-release-images-of-person-of-interest) · `en`
-
-U.S. investigators on Thursday released photos and a video of a person of interest in the fatal shooting of influential conservative activist Charlie Kirk and said they had found the rifle believed to have been used in the politically charged killing.
-
-Kirk, a 31-year-old author, podcast host and close ally of U.S. President Donald Trump, helped build the Republican Party’s support among younger voters.
-
-He was killed on Wednesday by a single gunshot as he gave a talk at a university in Utah in what Trump called a “heinous assassination.”
-
-Investigators have yet to publicly discuss any motive, but Trump told reporters that he had an indication of the killer’s motivation. “We’ll let you know about that later,” he said, adding that law enforcement was making “big progress” in the investigation.
-
-...
-
-[Data](articles/eafdcd88.json)
-
-[Extended Data](ext_articles/eafdcd88.ext.json)
-
----
-
-### Japanese Ambassador visits Asia's oldest leprosy hospital in Hendala
-
-*2025-09-12 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224878) · `ta`
-
-Japan Ambassador to Sri Lanka Akio Isomada visited the historic Asia's oldest leprosy hospital in Hendala, Wattala on Tuesday (September 9).
-
-Established by the Hollans in 1708, the company is recognized as the oldest leprosy hospital in Asia.
-
-Ambassador Isomada was warmly welcomed by the hospital administration and explained to him the history of hospital hospital. The hospital, which was originally installed as a colonial term, is now working as a convenience for diminishing inpatients.
-
-Although successfully eradicated leprosy, which was a public health problem in Sri Lanka in 1995, the Ministry of Health has been committed to a series of efforts in treatment, surveillance and patient support.
-
-...
-
-[Data](articles/45575f24.json)
-
-[Extended Data](ext_articles/45575f24.ext.json)
-
----
-
-### CP Radhakrishnan sworn in as India’s 15th Vice President
-
-*2025-09-12 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112424/cp-radhakrishnan-sworn-in-as-indias-15th-vice-president) · `en`
-
-Chandrapuram Ponnusamy Radhakrishnan was on Friday sworn in as the 15th Vice President of India, at a formal ceremony held at Rashtrapati Bhavan in New Delhi.
-
-President Droupadi Murmu administered the oath of office, marking Radhakrishnan’s assumption of the second-highest constitutional office in the country.
-
-Senior leaders cutting across party lines have attended the swearing-in ceremony. Those present in the ceremony include Odisha Chief Minister Mohan Charan Majhi, Karnataka Governor Thaawarchand Gehlot, Andhra Pradesh Chief Minister N Chandrababu Naidu, Punjab Governor and Chandigarh Administrator Gulab Chand Kataria, Jharkhand Governor Santosh Gangwar, and Madhya Pradesh Chief Minister Mohan Yadav.
-
-CP Radhakrishnan, the NDA nominee, won the Vice Presidential election on Tuesday after defeating the opposition INDIA bloc nominee B Sudershan Reddy by a margin of 152 votes. While Radhakrishnan secured 452 votes, his opponent Reddy got 300 votes.
-
-...
-
-[Data](articles/96dd9658.json)
-
-[Extended Data](ext_articles/96dd9658.ext.json)
-
----
-
-### Sri Lanka budget for 2026 to be presented on Nov 7
-
-*2025-09-12 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-for-2026-to-be-presented-on-nov-7-240364/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President will deliver the 2026 budget speech on November 7, followed by the budget debate from November 8 to December 5.
-
-The first reading of the Appropriation Bill will be presented to Parliament on September 26.
-
-“It has been decided to allocate six days, from 8th November to 14th November, for the second reading debate,” a parliament statement said.
-
-The Committee Stage debate will be held for 17 days from November 15 to December 5.
-
-During this period, the Budget Debate will be held every day, including Saturdays, excluding public holidays and Sundays.
-
-During the Committee Stage debate period, Parliament will meet at 9.30 am on Mondays and at 9 am on all other days.
-
-“It has been agreed to allocate time for 5 Questions for Oral Answers and 1 Question Under Standing Orders 27(2) in addition to the business under Standing Orders 22(1) to (6) every day during this period.
-
-...
-
-[Data](articles/efc23ab3.json)
-
-[Extended Data](ext_articles/efc23ab3.ext.json)
-
----
-
-### Pre Budget discussions between President and Apparel Stakers
-
-*2025-09-12 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214468) · `si`
-
-President Anura Kumara Dissanayake has emphasized that the government's objective is to meet the future economic growth targets based on the economic stability of the country.
-
-The President was speaking at a 2026 pre-budget discussion with the partners in the apparel industry yesterday (11).
-
-The President has assured that the government is not unable to invest in the development of industrialists and investors.
-
-President Anura Kumara Dissanayake emphasized that the government's objective is to meet future economic growth targets based on the economic stability of the country.
-
-The President made this observation at a 2026 pre-budget discussion with the partners' partners in the apparel industry yesterday (11) at the Presidential Secretariat.
-
-The President pointed out that the current facilities are available to the existing industry, the government's policy is to provide access to the first rupee.
-
-...
-
-[Data](articles/033d7175.json)
-
-[Extended Data](ext_articles/033d7175.ext.json)
-
----
-
-### ‘True strength comes from our roots, not positions or privileges’ – Namal
-
-*2025-09-12 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112422/true-strength-comes-from-our-roots-not-positions-or-privileges-namal-) · `en`
-
-In a post on ‘X’ (formerly Twitter), SLPP Member of Parliament Namal Rajapaksa, son of former President Mahinda Rajapaksa, has reflected on his father’s departure from the official residence on Wijerama Road, Colombo 07.
-
-He said that it was a reminder that true strength comes from one’s roots and the love of the people, rather than from positions or privileges.
-
-“My father, Mahinda Rajapaksa, leaves the official residence in Colombo and returns to Tangalle, the place where it all began. A reminder that true strength comes from our roots, the love of the people, not positions or privileges,” he posted on X.
-
-Former President Mahinda Rajapaksa vacated the Wijerama residence yesterday (11) and returned to his family home, Carlton House, in Tangalle.
-
-This move followed the enactment of the Presidents’ Entitlements (Repeal) Act which was passed in Parliament on Wednesday (10), which required former presidents to return official residences provided by the state.
-
-◼️
-
-[Data](articles/d1bf215b.json)
-
-[Extended Data](ext_articles/d1bf215b.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-12 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240348/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.77/80 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields were relatively steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 8.25/30 percent, up from 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2028 was quoted at 8.85/95 percent, down from 9.05/14 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.52/55 percent, up from 9.50/55 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/78 percent, up from 8.70/76 percent.
-
-A bond maturing on 01.10.2032 was quoted at 10.40/48 percent, up from 10.40/47 percent.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.8220 buying, and 415.1638 selling, and the euro was 347.8968 buying, 359.1020 selling.
-
-...
-
-[Data](articles/c0ecd6af.json)
-
-[Extended Data](ext_articles/c0ecd6af.ext.json)
-
----
-
-### China to provide Sri Lanka’s full requirement of school uniforms for 2026
-
-*2025-09-12 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112421/china-to-provide-sri-lankas-full-requirement-of-school-uniforms-for-2026) · `en`
-
-The Chinese government has agreed to provide the full requirement of school uniform material required for 4,418,404 government and government-aided school students in Sri Lanka for the year 2026 as a grant.
-
-An official ceremony to exchange the relevant certificates of agreement was held yesterday (11) at the Ministry of Education premises in Battaramulla.
-
-The event was held under the patronage of the Deputy Minister of Education and Higher Education, Dr. Madura Seneviratne, and the Chinese Ambassador to Sri Lanka, Qi Zhenhong.
-
-During the ceremony, the exchange of certificates confirming the provision of uniform material for 2026 took place between the Secretary to the Ministry of Education, Nalaka Kaluwewa, and Ambassador Qi Zhenhong.
-
-Speaking at the event, Deputy Minister of Education and Higher Education Dr. Madura Seneviratne said:
-
-...
-
-[Data](articles/7405d01b.json)
-
-[Extended Data](ext_articles/7405d01b.ext.json)
-
----
-
-### It is not our responsibility to exclude children from technology: Prime Minister Harini advises adults
-
-*2025-09-12 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224872) · `ta`
-
-It is not our responsibility to exclude children from technology, but it is our responsibility to guide them to use it intelligently and constructively, ”said Dr. Harini Amarasuriya, Minister of Education, Higher Education and Vocational Education and Prime Minister.
-
-Harini Amarasuriya was the chief guest at the launch of the "STE FEED" in the ITC Ratnadeep Hotel, Colombo on Thursday (September 11) at the launch of the "STE FEED" in the Tiktok Social Weather.
-
-In a world based on digital technology, this opportunity is an important milestone to expand the opportunity to teach the country's youth in the country's youth, by creating a background for education, sharing of knowledge and strengthening education through Tiktok.
-
-He emphasized the government's initiative to establish a functioning processed by educators, scholars, scholars, technicians, child protection consultants and private sector partners to introduce equal access to equal access to the future.
-
-...
-
-[Data](articles/af242ec6.json)
-
-[Extended Data](ext_articles/af242ec6.ext.json)
-
----
-
-### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
-
-*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
-
-Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
-
-This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
-
-Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
-
-...
-
-[Data](articles/c2383c73.json)
-
-[Extended Data](ext_articles/c2383c73.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 15:20:19**
+As of **2025-09-12 14:55:35**
 
 ## Newspaper Stats
 
-*Scraped **75,583** Articles*
+*Scraped **75,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,127 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,584
+economynextcom | 4,583
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,334
-adaderanalk | 9,709
+adaderanalk | 9,708
 tamilmirrorlk | 11,299
 virakesarilk | 12,316
-adaderanasinhalalk | 13,167
+adaderanasinhalalk | 13,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,471 (90.6%) of 75,583 articles have been extended.
+68,446 (90.6%) of 75,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### ඉතිහාසයේ පළමුවරට මුණගැසෙන කණ්ඩායම් 2ක් අද ඩුබායිහිදී පිටියට
-
-*2025-09-12 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214484) · `si`
-
-එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වෙන මෙවර ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ පාකිස්තානය හා ඕමානය අතර තරගය අද (12) ඩුබායිහිදී පැවැත්වේ.
-
-දිවාරාත්‍රී තරගයක් ලෙසින් පැවැත්වෙන මෙය මෙරට වේලාවෙන් රාත්‍රී 8ට ආරම්භවීමට නියමිතය.
-
-'A' කාණ්ඩයේ තරගයක් ලෙස පැවැත්වෙන මෙම තරගය තරගාවලියේ සිව්වන තරගය යි.
-
-මෙම තරගයේ සුවිශේෂත්වය වන්නේ ‍පාකිස්තානය හා ඕමානය ජාත්‍යන්තර ක්‍රිකට් පිටියේ මුහුණට මුහුණ තරගවදින පළමු අවස්ථාව මෙය වීමයි.
-
-ICC පැරැණිම පූර්ණ සාමාජික රටවක්වන පාකිස්තානයට වසර 73කට වැඩි ජාත්‍යන්තර ක්‍රිකට් අතීතයක් ඇත.
-
-ඔවුන් 1952 වසරේ දී ඉන්දියාවට සිය පළමු ටෙස්ට් තරගය ක්‍රීඩාකරනු ලැබීය.
-
-කෙසේ නමුත් ICC අර්ධ සාමාජික රටක් රටක්වන ඕමානය ඇත්තේ ජාත්‍යන්තර ක්‍රිකට් පිටියේ දස වසරක අත්දැකීම්ය.
-
-ඔවුන් පළමු ජාත්‍යන්තර ක්‍රිකට් තරගය ක්‍රීඩාකර ඇත්තේ 2015 වසරේ දී ඇෆ්ගනිස්තානයට එරෙහිවය.
-
-◼️
-
-[Data](articles/50d5612a.json)
-
----
-
-### බෙන්තර ගඟේ පුද්ගල මළ සිරුරක්
-
-*2025-09-12 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214483) · `si`
-
-බෙන්තර ගඟේ පාවෙමින් තිබියදී නාඳුනන පුද්ගල මළ සිරුරක් අලුත්ගම පොලීසිය විසින් සොයා ගෙන තිබේ.
-
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ වයස අවුරුදු 45ක පමණ පුද්ගලයෙකු බව වාර්තා වේ.
-
-අලුත්ගම පොලීසිය සඳහන් කළේ මෙම පුද්ගල මළ සිරුර දින කිහිපයක් බෙන්තර ගඟේ තිබෙන්නට ඇතැයි අනුමාන කරන බවය.
-
-◼️
-
-[Data](articles/c8ebe134.json)
-
----
-
-### රමිත් රඹුක්වැල්ලට අධිචෝදනා
-
-*2025-09-12 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214482) · `si`
-
-නීතිවිරෝධී ලෙස රුපියල් කෝටි 27කට අධික වටිනාකමකින් යුත් වත්කම් උපයා ගත් ආකාරය හෙළිදරව් කිරීමට අපොහොසත් වීම සම්බන්ධයෙන් හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ පුත් රමිත් රඹුක්වැල්ල මහතාට එරෙහිව අල්ලස් කොමිසම කොළඹ මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකර තිබේ.
-
-කෙහෙළිය රඹුක්වැල්ල හිටපු අමාත්‍යවරයාගේ පෞද්ගලික ලේකම්වරයා වශයෙන්ද කටයුතු කර ඇති මෙම විත්තිකරුට එරෙහිව දූෂණ විරෝධී පනත යටතේ මෙම නඩුව ඉදිරිපත් කර ඇත.
-
-◼️
-
-[Data](articles/b0cdea03.json)
-
----
-
-### Europe is nearly 100 years in Japan
-
-*2025-09-12 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214481) · `si`
-
-The number of people exceeding 100 years of Japan is nearly 100,000.
-
-As of September 1 this year, the number of people exceeding 100, 90 percent of them, 90 percent of it is written in a data report issued by the Ministry of Health.
-
-Due to the increase in the largest population, Japan, the fourth largest economy in the world, is currently facing a problem with medical and welfare costs and a severe labor force shortage.
-
-Shadzo is the oldest man in Japan.
-
-A 116-year-old British woman has now become the oldest person in the world.
-
-◼️
-
-[Data](articles/65d31545.json)
-
-[Extended Data](ext_articles/65d31545.ext.json)
-
----
-
-### Kabir Hashim is the Chairman of the Committee on Public Accounts
-
-*2025-09-12 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214480) · `si`
-
-Parliamentarian MP Kabir Hashim has been elected as the Committee on Public Accounts (Kapaph) for the first congregation of the Third Parliament.
-
-The Committee met in parliament today to fill the vacancies that were presented by the Committee of the Government Accounting Committee on the first congregation of the Third Parliament today (12).
-
-Parliamentarian Kabir Hashim for the post of Chairman JC. The elephants and Rohitha Abeygunawardena were proposed respectively.
-
-Addressing the Committee addressing the committee, the new President said that he was intended to act in the cooperation of all members without political ideologies.
-
-The role of the committee MP Aravinda Senarath was appreciated by the committee, MP Aravinda Senarath.
-
-He further stated that the new plans are being prepared and further strengthen the role of the Kopyr Panel.
-
-◼️
-
-[Data](articles/b54913d3.json)
-
-[Extended Data](ext_articles/b54913d3.ext.json)
-
----
 
 ### Athuraliye Ratana Thera is bail
 
@@ -149,50 +47,6 @@ Accordingly, the court has ordered the release of two body bail and Rs 10 thousa
 [Data](articles/47390dc8.json)
 
 [Extended Data](ext_articles/47390dc8.ext.json)
-
----
-
-### Sri Lanka rice, coconut production up; fish, tea and rubber down in July: CB
-
-*2025-09-12 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-coconut-production-up-fish-tea-and-rubber-down-in-july-cb-240379/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s agricultural production in paddy and coconut picked up in July, the central bank said, while tea, fish and rubber production decreased.
-
-“Paddy production forecast of the Department of Agriculture for 2025 Yala season, based on the sown extent reported as of end June 2025, stands at 2.2 million metric tons,” the central bank’s Agriculture Sector Data Bulletin for August 2025 said.
-
-This is an 11.7 percent increase from the previous Yala season.
-
-Paddy production forecasts for 2025 is estimated as 4.8 million metric tons, a 2.7 percent increase from 2024.
-
-Coconut production recorded a 25.7 percent increase in July 2025, compared to July 2024, reflecting a steady recovery.
-
-Meanwhile fish production decreased by 16.5 percent year-on-year in July, attributed to a 4.9 percent decline in marine fish production and 46.6 percent decline in inland fish production.
-
-...
-
-[Data](articles/6a0708e3.json)
-
----
-
-### Seven including pre-school children injured in Norwood accident
-
-*2025-09-12 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112434/seven-including-pre-school-children-injured-in-norwood-accident) · `en`
-
-An accident has occurred in the New Weligama area of Norwood on the Hatton-Bogawantalawa main road this morning (12) when a speeding three-wheeler collided head-on with a car arriving in the opposite direction.
-
-Six pre-school children and a male teacher, who were traveling in the three-wheeler, sustained injuries and were rushed to the Dickoya Base Hospital, police said.
-
-According to the Norwood Police, the crash was caused after an unsecured spare part attached to the three-wheeler’s front wheel struck the car, and that the accident had caused severe damage to the three-wheeler.
-
-The female driver of the car has been arrested by Norwood Police.
-
-Of the seven admitted to hospital, six have been discharged after receiving treatments from the out-patient department (OPD), while one child still remains under medical care.
-
-◼️
-
-[Data](articles/9794e38a.json)
-
-[Extended Data](ext_articles/9794e38a.ext.json)
 
 ---
 
@@ -221,8 +75,6 @@ Lotus Road in Colombo Fort has been closed to vehicular traffic due to a protest
 ◼️
 
 [Data](articles/13aca746.json)
-
-[Extended Data](ext_articles/13aca746.ext.json)
 
 ---
 
@@ -277,8 +129,6 @@ Ven. Rathana Thero has been accused in connection with investigations into the a
 ◼️
 
 [Data](articles/6b599cb2.json)
-
-[Extended Data](ext_articles/6b599cb2.ext.json)
 
 ---
 
@@ -335,8 +185,6 @@ Accordingly, the Court of Appeal postponed the consideration of the petition for
 ◼️
 
 [Data](articles/1306a11f.json)
-
-[Extended Data](ext_articles/1306a11f.ext.json)
 
 ---
 
@@ -2005,5 +1853,139 @@ Former Pradeshiya Sabha member KS, Ajit Kumar's mother's birthday has been opene
 [Data](articles/d79e2d8b.json)
 
 [Extended Data](ext_articles/d79e2d8b.ext.json)
+
+---
+
+### Never accept the internal mechanism
+
+*2025-09-12 02:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உள்ளகப்-பொறிமுறையை-ஒருபோதும்-ஏற்கோம்/175-364448) · `ta`
+
+Democratic Tamil National Alliance (TNA) parliamentarian Selvam Adakkalanathan said that he would never accept the internal mechanism and that the government would act fairly on this issue.
+
+He said this while addressing the debate on the National Audit Amendment Bill held in Parliament on Thursday (11).
+
+The UN resolution is very tight. In order to justify the injustice inflicted on our people, the UN resolution is so strong that the Foreign Minister is going to deal with human rights violations in the internal mechanism.. How do you save the man who shot and inquire? Leave the man who told him to investigate the field? We will never accept internal investigations for us. Investigations should be held with international surveillance. We hope the government will act fairly.
+
+...
+
+[Data](articles/c9466271.json)
+
+[Extended Data](ext_articles/c9466271.ext.json)
+
+---
+
+### 2025-09-11 (Thursday)
+
+### Navy and the Fisheries Community in Jaffna
+
+*2025-09-11 22:59:29* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ගැටළු-සාකච්ඡා-කිරීමට-නාවික-හමුදාව-සහ-යාපනයේ-ධිවර-ප්‍රජාව-අතර-හමුවක්/11-418444) · `si`
+
+The Commander of the Northern Naval Commander, 2005, was held on the 9th of September with the participation of the Sri Lanka Navy, the Department of Coast Guard on the 9th of September 2025, with the participation of the Sri Lanka Coast Guard and the Northern Province Fisheries Association.
+
+The discussion was discussed at the discussion, the importance of local fishermen, regulatory sectors, the use of sustainable fisheries, racketeer, and the importance of close cooperation between the Department of Fisheries and Aquatic Resources and Fisheries Societies.
+
+A delegation from Jaffna Acting Director and Fisheries Director and Fisheries Association and Fisheries Association and Fisheries Association and Fisheries Association were present at the Awareness Program.
+
+◼️
+
+[Data](articles/048cdf4f.json)
+
+[Extended Data](ext_articles/048cdf4f.ext.json)
+
+---
+
+### Announces vacancies to include students for intermediate series of national schools
+
+*2025-09-11 22:46:22* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-පාසල්වල-අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කිරීමට-ඇති-පුරප්පාඩු-නිවේදනය-කරයි/11-418443) · `si`
+
+The Ministry of Education, Higher Education and Vocational Education has issued the Institute of Education, Higher Education and Vocational Education in the year 20/2025 from 2025 to Grade 11 (Except for Grades 5 and Grades 5).. In terms of the circular, the students of the year 2025 will be included in the intermediate grades of intermediate grades of 2025.
+
+Accordingly, the vacancies in national schools will be published on the Ministry of Education, Higher Education and Vocational Education.
+
+The application in the circular 27/2025 should be completed by the registered subsidates of the respective schools with all the additional arrangements as expected to smoke those vacancies.
+
+◼️
+
+[Data](articles/67326e74.json)
+
+[Extended Data](ext_articles/67326e74.ext.json)
+
+---
+
+### Charlie releases photos of the person who suspected to shoot
+
+*2025-09-11 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214457) · `si`
+
+FBI has been released by FBI, who was involved in the shooting of Charlie Kark Truk Trump.
+
+Although the shooting has been conducted, a high-exponent rifle has been recovered by the police.
+
+The violent shot was attacked by his neck while attending a lecture at a university at a university in Charlie Kark, 31 year old Charlie Kark, Yuta.
+
+Two persons were arrested on two occasions on two occasions, but they were arrested on suspicion of shooting.
+
+◼️
+
+[Data](articles/a965f697.json)
+
+[Extended Data](ext_articles/a965f697.ext.json)
+
+---
+
+### Meeting between Governors and District Secretaries and President
+
+*2025-09-11 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224861) · `ta`
+
+President Anura Kumara Dissanayake has urged the central government and local government companies to work together in the implementation of development projects.
+
+The President has insisted that the culture of using local government institutions has come to an end under the current government to maintain political power.   He also pointed out the need for the central government and local government to work together instead of moving towards the national plan to develop the country.
+
+The President was presenting the announcement of the 2026 Budget held at the Presidential Secretariat at the Presidential Secretariat on Thursday afternoon to look into the issues between the central government and the local government agencies in the implementation of development projects and to review the projects allocated to local governments based on 2025.
+
+...
+
+[Data](articles/2706ed73.json)
+
+[Extended Data](ext_articles/2706ed73.ext.json)
+
+---
+
+### Two suspects were taken into custody with birds who were illegally brought to Sri Lanka
+
+*2025-09-11 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214456) · `si`
+
+Two suspects have been taken into custody with a dingury vessel carrying 91 illegal birds.
+
+A special search operation conducted in the Salitopupu coast of the Mannar was conducted by a special search operation conducted in the coast.
+
+72 pigeons and 19 chickens were recovered while inside that vessel.
+
+The suspects are aged 17 and 52, residents of Pezalai and Mannar area.
+
+The suspects, the dingi vessel and birds have been handed over to the Pezalai Police for future legal proceedings.
+
+◼️
+
+[Data](articles/2fdacd65.json)
+
+[Extended Data](ext_articles/2fdacd65.ext.json)
+
+---
+
+### “Our task is not to shield children from technology, but to guide them” - PM
+
+*2025-09-11 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112413/our-task-is-not-to-shield-children-from-technology-but-to-guide-them-pm) · `en`
+
+Prime Minister and Minister of Education, Higher Education and Vocational Education, Dr. Harini Amarasuriya, officially launched STEM Feed in Sri Lanka, a new in-app destination on TikTok offering credible science, technology, engineering and mathematics content.
+
+This initiative embarks on a new era where TikTok will come together to reimagine how education can be accessed, shared, and strengthened in a digital-first world setting the stage for a transformative initiative aimed at expanding digital learning opportunities for the country’s youth.
+
+Speaking at the launch held today (11) at the ICT Hotel Ratnadipa in Colombo, the Prime Minister said, “Our task is not to shield children from technology, but to guide them to use it wisely, critically, and creatively, so that it becomes a tool for growth rather than harm.”
+
+...
+
+[Data](articles/cb6bb315.json)
+
+[Extended Data](ext_articles/cb6bb315.ext.json)
 
 ---

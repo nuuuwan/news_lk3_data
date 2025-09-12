@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 05:56:19**
+As of **2025-09-12 04:54:51**
 
 ## Newspaper Stats
 
-*Scraped **75,484** Articles*
+*Scraped **75,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
 economynextcom | 4,579
-islandlk | 4,644
+islandlk | 4,633
 dailymirrorlk | 4,733
 dailyftlk | 5,348
 adalk | 7,323
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,048 (90.1%) of 75,484 articles have been extended.
+68,000 (90.1%) of 75,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -267,64 +267,6 @@ Subsequently, from November 15 to December 5th, it was agreed to hold a 17 -day 
 [Data](articles/fff68855.json)
 
 [Extended Data](ext_articles/fff68855.ext.json)
-
----
-
-### LOLC Securities bags Silver at BestWeb.LK 2025
-
-*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/lolc-securities-bags-silver-at-bestweb-lk-2025/) · `en`
-
-LOLC Securities (LOSEC), the stockbroking arm and a fully owned subsidiary of the LOLC Group, has been honored with the Silver Award in the Best Finance & Insurance Website category at the BestWeb.LK 2025 Awards, organized by the LK Domain Registry. This recognition marks a significant milestone in the company’s continuous efforts to strengthen its digital presence and deliver an exceptional online experience for its clients.
-
-BestWeb.LK, Sri Lanka’s premier web design competition since 2009, provides a unique opportunity for local websites to be evaluated against rigorous criteria, rewarding innovation, creativity, and functionality. The competition has become the benchmark for excellence in digital design, offering a space where brands can showcase their identity and technological capabilities in an impactful way.
-
-...
-
-[Data](articles/12eb12cb.json)
-
----
-
-### Role of digital transformation in SL’s continued aviation sector growth
-
-*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/role-of-digital-transformation-in-sls-continued-aviation-sector-growth/) · `en`
-
-Sri Lanka’s aviation sector is experiencing a strong recovery, recording nearly 10 percent year-on-year passenger growth. Yet, without urgent digital transformation and stronger collaboration among stakeholders, this growth could quickly become a bottleneck, warned SITA Asia Pacific president Sumesh Patel.
-
-Speaking to The Island Financial Review ahead of the SITA IT Aerotech Summit, at ITC Ratnadipa Wednesday which brought together SriLankan Airlines, Airport and Aviation Services (Sri Lanka) Ltd (AASL), Immigration, and Customs. He stressed that aviation is an industry that cannot operate in isolation.
-
-“The first impression of any country is its airport. If Sri Lanka wants to leverage its location and tourism potential, it must make passenger journeys smoother, faster, and more connected, Patel told The Island Financial Review.
-
-...
-
-[Data](articles/46198756.json)
-
----
-
-### Ambeon Capital increases stake in Ceylon Hotels Corporation; CSE indices decline
-
-*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/ambeon-capital-increases-stake-in-ceylon-hotels-corporation-cse-indices-decline/) · `en`
-
-Ambeon Capital acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.Ambeon Holdings paid between Rs 35.90 and Rs 36.50 per share, CSE sources said.Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake of Ceylon Hotels Corporation PLC for Rs 320 million.
-
-Both CSE indices indicated a downward trend yesterday. The All Share Price Index went down by 127.6 points while the S and P SL20 declined by 40.3 points. Turnover stood at Rs 6.58 billion with 13 crossings. The top seven crossings were reported in Prime Lands where 45.5 million shares crossed to the tune of Rs 1.41 billion; its shares traded at Rs 31, Resus Energy 5.1 million shares crossed to the tune of Rs 213 million; its shares traded at Rs 42.
-
-...
-
-[Data](articles/d8668261.json)
-
----
-
-### Advocata Institute commends Cabinet decision to close 33 non-operational SOEs and calls for divestiture as the next step
-
-*2025-09-11 21:11:00* · [`islandlk`](http://island.lk/advocata-institute-commends-cabinet-decision-to-close-33-non-operational-soes-and-calls-for-divestiture-as-the-next-step/) · `en`
-
-The Advocata Institute welcomes the decision by the Cabinet of Ministers, on the proposal of President Anura Kumara Dissanayake in his capacity as Minister of Finance, Economic Stabilization and National Policy, to formally close 33 non-operational State-Owned Enterprises (SOEs) under Phase 2 of the government’s state-sector reform program.
-
-The move, to be implemented through a Special Liquidation Unit under the Ministry of Finance, is a first step toward eliminating waste, improving fiscal discipline, and redirecting scarce resources to more productive sectors of the economy.
-
-...
-
-[Data](articles/21da49b8.json)
 
 ---
 
@@ -2053,5 +1995,93 @@ Based on revelations made during those interrogations, the Sub-Inspector in ques
 [Data](articles/dd7a11a2.json)
 
 [Extended Data](ext_articles/dd7a11a2.ext.json)
+
+---
+
+### SI arrested in connection with Padme
+
+*2025-09-11 11:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பத்மேவுடன்-தொடர்புடைய-SI-கைது/175-364416) · `ta`
+
+A Sub-Inspector has been arrested by the CITar on charges of allegedly involved in the alleged involvement with the Underworld Group Chairman Kehelpathara Padme.
+
+Investigations revealed that the officer had maintained close contact with Padme, who was recently deported from Indonesia.
+
+◼️
+
+[Data](articles/432e125b.json)
+
+[Extended Data](ext_articles/432e125b.ext.json)
+
+---
+
+### Police threw the shooting attempt; Five arrests!
+
+*2025-09-11 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224793) · `ta`
+
+Police have arrested five suspects for thwarting a planned firing attempt in Kaluppitti and Maligawatte areas.
+
+The Kaluppitti police have raided two suspects on a motorcycle on Wednesday night (10) at Albert Road, Kaluppitti.
+
+At this time, a suspect threw the bag he had holding and fled the area.
+
+Police have seized a R-56 rifle, 30 bullets, knives and three mobile phones from the thrown bag.
+
+Following the information provided by the arrested suspect, three persons, including the suspect who escaped by police, have been arrested in the Bodhiraja Mawatha area in Maligawatta.
+
+At the same time, when the suspects were arrested, 18 grams of ice, a motorcycle and 2 mobile phones were seized.
+
+Investigations have revealed that the arrested suspects were aged 19, 25, 40 and 48, from Colombo 14, Wellampitiya, Maligawatte and Dematagoda.
+
+Investigations have found that on the orders of a underworld gang living abroad, they went to the firing.
+
+◼️
+
+[Data](articles/bd3dd44d.json)
+
+[Extended Data](ext_articles/bd3dd44d.ext.json)
+
+---
+
+### Sri Lanka’s Ambeon Capital ups stake in Ceylon Hotels Corporation
+
+*2025-09-11 11:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-ups-stake-in-ceylon-hotels-corporation-240164/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ambeon Capital said it had acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.
+
+Ambeon Holdings paid between 35.90 to 36.50 rupees per share, the company said in a stock exchange filing.
+
+Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake, of Ceylon Hotels Corporation PLC for 320 million rupees.
+
+Sri Lanka’s Ambeon Capital buys 6.8-pct of Ceylon Hotels Corporation
+
+Ceylon Hotels Corporation stock was trading down 1.20 rupees at 36.60. (Colombo/Sep11/2025)
+
+◼️
+
+[Data](articles/96257661.json)
+
+[Extended Data](ext_articles/96257661.ext.json)
+
+---
+
+### Sri Lanka’s Ambeon Capital buys 3.95-pct of Ceylon Hotels Corporation
+
+*2025-09-11 11:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-buys-3-95-pct-of-ceylon-hotels-corporation-240164/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ambeon Capital said it had acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.
+
+Ambeon Holdings paid between 35.90 to 36.50 rupees per share, the company said in a stock exchange filing.
+
+Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake, of Ceylon Hotels Corporation PLC for 320 million rupees.
+
+Sri Lanka’s Ambeon Capital buys 6.8-pct of Ceylon Hotels Corporation
+
+Ceylon Hotels Corporation stock was trading down 1.20 rupees at 36.60. (Colombo/Sep11/2025)
+
+◼️
+
+[Data](articles/d710d1a2.json)
+
+[Extended Data](ext_articles/d710d1a2.ext.json)
 
 ---

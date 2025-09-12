@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 01:05:44**
+As of **2025-09-13 01:55:40**
 
 ## Newspaper Stats
 
-*Scraped **75,647** Articles*
+*Scraped **75,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 768
 economynextcom | 4,588
 islandlk | 4,644
 dailymirrorlk | 4,733
-dailyftlk | 5,365
+dailyftlk | 5,376
 adalk | 7,346
 adaderanalk | 9,721
 tamilmirrorlk | 11,305
@@ -26,11 +26,105 @@ adaderanasinhalalk | 13,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,061 (91.3%) of 75,647 articles have been extended.
+69,078 (91.3%) of 75,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### President asks Provincial and Central Government to work in unison
+
+*2025-09-13 00:42:30* · [`dailyftlk`](https://www.ft.lk/news/President-asks-Provincial-and-Central-Government-to-work-in-unison/56-781637) · `en`
+
+AKD meets Provincial Governors, Chief Ministers ahead of 2026 Budget
+
+President Anura Kumara Disanayake stressed the importance of close coordination and joint action between the central Government and Provincial institutions in the implementation of development projects, the President’s Media Division said.
+
+The President emphasised that the culture of using Provincial institutions merely as instruments for political authority to retain power has been brought to an end under the present Government, while also highlighting the need for the central Government and Provincial institutions to work in unison towards a national plan for the country’s development.
+
+...
+
+[Data](articles/0368f172.json)
+
+[Extended Data](ext_articles/0368f172.ext.json)
+
+---
+
+### No more special offices for foreign funded development projects
+
+*2025-09-13 00:41:51* · [`dailyftlk`](https://www.ft.lk/news/No-more-special-offices-for-foreign-funded-development-projects/56-781636) · `en`
+
+President Anura Kumara Disanayake has given instructions to discontinue the practice of establishing special offices for foreign-funded development projects, the President’s Media Division said.
+
+Meeting with Provincial Governors and Chief Ministers ahead of the 2026 Budget, the President instructed Provincial Governors and Secretaries that projects funded through foreign loans and aid should not be carried out through special project offices that require large administrative expenditures.
+
+Instead, they should be implemented within the existing administrative structure, completed within the stipulated timeframes and the benefits delivered directly to the people, the PMD said.
+
+Discussions focused on challenges in education, health and highways, along with possible solutions and proposals.
+
+◼️
+
+[Data](articles/4b560ba5.json)
+
+[Extended Data](ext_articles/4b560ba5.ext.json)
+
+---
+
+### New think tank SASSRI to boost maritime security and sustainability in South Asia
+
+*2025-09-13 00:41:38* · [`dailyftlk`](https://www.ft.lk/news/New-think-tank-SASSRI-to-boost-maritime-security-and-sustainability-in-South-Asia/56-781635) · `en`
+
+Experts called for interdisciplinary research, strategic thought and collaboration to advance economic, maritime and environmental security of region
+
+Gateway House Professorial Fellow and Overseas Development Institute (ODI) Visiting Senior Fellow
+
+IRO Director and KDU Centre for Strategic Assessment Director Dr. Harinda Vidanage
+
+Former Military Adviser to the Indian Prime Minister Lieutenant General (Retd.) Vinod G. Khandare
+
+As part of a growing push for regional collaboration, the South Asia Sustainability and Security Research Institute (SASSRI) was launched in Colombo on Wednesday to advance resilience, sustainability, and cooperation across South Asia.
+
+...
+
+[Data](articles/4c3a815e.json)
+
+[Extended Data](ext_articles/4c3a815e.ext.json)
+
+---
+
+### EU-funded Energy Management Forum sets stage for long-term efficiency in Sri Lankan industry
+
+*2025-09-13 00:28:15* · [`dailyftlk`](https://www.ft.lk/business/EU-funded-Energy-Management-Forum-sets-stage-for-long-term-efficiency-in-Sri-Lankan-industry/34-781622) · `en`
+
+Energy Minister (Eng.) Kumara Jayakody speaks at the opening session of the EnMs Forum 2025
+
+EU Delegation to Sri Lanka and the Maldives Head of Cooperation Dr. Johann Hesse speaks at the opening of the EnMS Forum 2025
+
+Sub-Regional Office in India Director and UNIDO Representative Dr. Cristiano Pasini speaks at the opening of the EnMS Forum 2025
+
+Sri Lanka’s progress towards building a skilled workforce of industrial energy managers took centre stage on 29 August, as more than 200 industry leaders, government officials and representatives from the international community participated in the Energy Management Systems Forum 2025.
+
+...
+
+[Data](articles/ea45bf4e.json)
+
+[Extended Data](ext_articles/ea45bf4e.ext.json)
+
+---
+
+### EFL delivers seamless logistics for Richardson Serendib 5 MW solar power plant
+
+*2025-09-13 00:26:26* · [`dailyftlk`](https://www.ft.lk/business/EFL-delivers-seamless-logistics-for-Richardson-Serendib-5-MW-solar-power-plant/34-781621) · `en`
+
+Expo Lanka Freight Ltd., (EFL) Project Division, has been the logistics partner for the Richardson Serendib 5 MW Solar Power Plant in Hiripitiya, Kurunegala, a landmark project that strengthens Sri Lanka’s renewable energy portfolio. This project falls under the category of establishing a renewable energy generation facility with an installed capacity of 5 MW, which exceeds 1 MW, thereby meeting the minimum power generation capacity requirements specified in Gazette Notification No. 2083/33 dated 10 Aug 2018. This compliance also made the project eligible for the Bonded Warehouse Facility scheme, a critical enabler that ensured smart import handling and an efficient project facilitation process.
+
+...
+
+[Data](articles/f53b38a3.json)
+
+[Extended Data](ext_articles/f53b38a3.ext.json)
+
+---
 
 ### Sri Lanka hosts “Ceylon Tea – Finest Evening” to promote trade, tourism, and Ceylon Tea in Thailand
 
@@ -47,6 +141,26 @@ The evening was graced by former Foreign Affairs Vice Minister Dr. Lalivan Karnc
 ...
 
 [Data](articles/662293f4.json)
+
+[Extended Data](ext_articles/662293f4.ext.json)
+
+---
+
+### Hayleys Fentons, Hayleys Electronics achieve AEO Tier 1 Certification from Sri Lanka Customs
+
+*2025-09-13 00:24:32* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-Hayleys-Electronics-achieve-AEO-Tier-1-Certification-from-Sri-Lanka-Customs/34-781619) · `en`
+
+Hayleys Fentons Ltd., and Hayleys Electronics Ltd., have secured the Authorised Economic Operator (AEO) Tier I status, officially awarded by Sri Lanka Customs recently.
+
+This globally recognised certification, established under the World Customs Organisation’s SAFE Framework of Standards, highlights both companies’ unwavering commitment to supply chain excellence, regulatory compliance and operational integrity in international trade.
+
+Securing AEO Tier I status required meeting stringent eligibility standards covering legal compliance, governance discipline and supply chain security. This recognition reflects the companies’ long-standing culture of operational integrity and accountability, underpinned by the governance principles upheld across the Hayleys Group.
+
+...
+
+[Data](articles/b07dd189.json)
+
+[Extended Data](ext_articles/b07dd189.ext.json)
 
 ---
 
@@ -69,6 +183,96 @@ As the dust settles on the hullabaloo surrounding the arrest of former President
 ...
 
 [Data](articles/a5a2b78d.json)
+
+[Extended Data](ext_articles/a5a2b78d.ext.json)
+
+---
+
+### Strike on Doha, strike against the order: Time for meaningful response
+
+*2025-09-12 23:19:44* · [`dailyftlk`](https://www.ft.lk/columns/Strike-on-Doha-strike-against-the-order-Time-for-meaningful-response/4-781609) · `en`
+
+By striking in the heart of Doha, Israel has not only targeted individuals but also the concept of a safe space for mediation
+
+The Doha strike is therefore more than a tactical raid aimed at Hamas leaders; it is a strategic test for the international system. The question is not only whether Israel will pay a price, but whether the global community is willing to defend the principles it professes to uphold. If the answer is no—if words once again substitute for deeds—then every state, large or small, should reckon with what that precedent means for its own security. Today it is Qatar that has seen its sovereignty breached. Tomorrow it could be any nation whose territory offers refuge, real or perceived, to an adversary of a more powerful neighbour
+
+...
+
+[Data](articles/835f82fa.json)
+
+[Extended Data](ext_articles/835f82fa.ext.json)
+
+---
+
+### Gaza genocide: Global North’s premeditated crime
+
+*2025-09-12 23:17:31* · [`dailyftlk`](https://www.ft.lk/columns/Gaza-genocide-Global-North-s-premeditated-crime/4-781608) · `en`
+
+US and European corporations profiting already out of the genocide are going to be the same ones which would be making even more profit by rebuilding Gaza into another Riviera once all Palestinians are either ‘spirited away’ or killed or starved to death by Netanyahu
+
+UN and its aid agencies are pronouncing condemnation after condemnation and reading out media statements, and while UK, France, Germany, Canada, Australia and about 20 other countries including China are once again repeating the stale two-state solution and resolving to recognise Palestine as an independent state, none of them are prepared to intervene with force and stop the carnage and starvation of Palestinians. Their complicity in this crime is premeditated
+
+...
+
+[Data](articles/c8aa0aef.json)
+
+[Extended Data](ext_articles/c8aa0aef.ext.json)
+
+---
+
+### HRCSL urges enhanced resource allocation, institutional reforms for Sri Lanka Police
+
+*2025-09-12 23:15:30* · [`dailyftlk`](https://www.ft.lk/opinion/HRCSL-urges-enhanced-resource-allocation-institutional-reforms-for-Sri-Lanka-Police/14-781607) · `en`
+
+Reforms will help ensure that Police performance is assessed based on efficiency, professionalism, and public trust rather than purely numerical targets
+
+The HRCSL recognises that the Sri Lanka Police play a vital role in maintaining law and order and safeguarding public security
+
+The Human Rights Commission of Sri Lanka (HRCSL) has formally written to Public Security and Parliamentary Affairs Minister Ananda Wijepala, presenting a set of recommendations aimed at strengthening the institutional capacity of the Sri Lanka Police to effectively uphold the rule of law while ensuring compliance with international human rights standards.
+
+Invoking its mandate under Section 10(d) of the HRCSL Act, No. 21 of 1996, the Commission called on the Government to take urgent measures to improve resource allocation, training, performance evaluation systems, and administrative reforms within the Police Department.
+
+...
+
+[Data](articles/b1e396b9.json)
+
+[Extended Data](ext_articles/b1e396b9.ext.json)
+
+---
+
+### Triple threat of malnutrition puts children in South Asia at risk, UNICEF warns
+
+*2025-09-12 23:13:54* · [`dailyftlk`](https://www.ft.lk/opinion/Triple-threat-of-malnutrition-puts-children-in-South-Asia-at-risk-UNICEF-warns/14-781606) · `en`
+
+Governments must continue investing in children’s nutrition, allowing every child in the region to grow up healthy and strong
+
+Every child has the right to eat well so that he or she can grow up healthy in body and mind. When children get the right nutrition, they are full of energy and better able to learn, play, and chase their dreams. Leadership all over South Asia must prioritise collective action to overcome the triple burden of malnutrition so that, together, we can raise a generation of productive, thriving children who can build a strong and prosperous region. No company should profit at the cost of children’s health. Governments must put stronger protections in place so that children grow up surrounded by healthy food choices, not junk food marketing – UNICEF Regional Director for South Asia Sanjay Wijesekera
+
+Unhealthy food environments are fuelling a worsening nutrition crisis for children in the region
+
+...
+
+[Data](articles/7df3acfd.json)
+
+[Extended Data](ext_articles/7df3acfd.ext.json)
+
+---
+
+### When politics meets drug trade: Sri Lanka Customs under fire
+
+*2025-09-12 23:12:00* · [`dailyftlk`](https://www.ft.lk/opinion/When-politics-meets-drug-trade-Sri-Lanka-Customs-under-fire/14-781605) · `en`
+
+The Middeniya–Thalawa chemical haul shows how deeply narcotics have penetrated our borders. Unless Sri Lanka Customs comes clean on red-flagged containers, public trust is bound to collapse.
+
+The recent seizure of 50,000 kilograms of precursor chemicals in Middeniya–Thalawa is not simply a policing triumph—it is a stark warning. Chemicals of this scale cannot move into the country unless Sri Lanka Customs, our frontline border agency, has failed in its duty of care.
+
+Allegations of political links make the scandal even graver. One chief suspect, a former SLPP local politician, is accused of transporting enough chemicals to produce 200 kilograms of methamphetamine (“ice”) worth over Rs. 2 billion. This raises a disturbing question: how did such consignments bypass Sri Lanka Customs’ controls in the first place?
+
+...
+
+[Data](articles/f96f7232.json)
+
+[Extended Data](ext_articles/f96f7232.ext.json)
 
 ---
 
@@ -561,6 +765,8 @@ A large number of suspects arrested in police station arrested by poornima
 ...
 
 [Data](articles/47c65a06.json)
+
+[Extended Data](ext_articles/47c65a06.ext.json)
 
 ---
 
@@ -1849,201 +2055,5 @@ According to the officials, the duo had arrived at the Katunayake Airport from D
 [Data](articles/43a27a14.json)
 
 [Extended Data](ext_articles/43a27a14.ext.json)
-
----
-
-### Shashindra Rajapaksa further remanded
-
-*2025-09-12 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214473) · `si`
-
-The Colombo Magistrate's Court today (12), the Colombo Magistrate Court today (12) was remanded until the 19th of this month.
-
-Colombo Chief Magistrate Asanka S.. Mr. Bodaragama has issued this order.
-
-Former State Minister Shashindra Rajapaksa was arrested by the Bribery Commission under the arrest of Rs.
-
-◼️
-
-[Data](articles/372a8f58.json)
-
-[Extended Data](ext_articles/372a8f58.ext.json)
-
----
-
-### Chinese Ambassador meets Ranil Wickremesinghe
-
-*2025-09-12 12:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்கவை-சந்தித்தார்-சீனத்-தூதுவர்/175-364464) · `ta`
-
-Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesinghe today (12). Remble
-
-◼️
-
-[Data](articles/e21142ed.json)
-
-[Extended Data](ext_articles/e21142ed.ext.json)
-
----
-
-### Shasheendra Rajapaksa further remanded
-
-*2025-09-12 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112427/shasheendra-rajapaksa-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who faces allegations of offenses under the Public Property Act, has been further remanded until September 19 by the Colombo Magistrate’s Court.
-
-Colombo Chief Magistrate Asanka S. Bodaragama issued the order after considering submissions from both Bribery Commission officials and the defense lawyers, said Ada Derana reporter.
-
-Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on charges of committing the offense of “corruption” under the Anti-Corruption Act by illegally obtaining Rs. 8,850,000 as compensation for the destruction of his political office, which had been constructed on a Mahaweli land, by protesters during the ’Aragalaya’.
-
-◼️
-
-[Data](articles/d8649606.json)
-
-[Extended Data](ext_articles/d8649606.ext.json)
-
----
-
-### Chinese Ambassador meets Ranil Wickremesinghe
-
-*2025-09-12 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224885) · `ta`
-
-Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesinghe today (12).
-
-◼️
-
-[Data](articles/3b0fbd91.json)
-
-[Extended Data](ext_articles/3b0fbd91.ext.json)
-
----
-
-### CP Radhakrishnan took over as vice president of India
-
-*2025-09-12 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224883) · `ta`
-
-The 15th Vice President of India was held at the President's House in the capital Delhi today (12) at 10 am. President Draupadi Murmu was sworn in as the 15th Vice President of CP Radhakrishnan. Prime Minister Modi and Union Ministers are participating in the ceremony.
-
-The term of the vice president is 5 years. Nothing has been determined as a salary for the Vice President. But as the leader of the Rajya Sabha, he will get a salary of Rs 4 lakh per month. There are many offers, including lodging, medicine, travel. 50 percent of the salary after retirement is available.
-
-◼️
-
-[Data](articles/b00696f4.json)
-
-[Extended Data](ext_articles/b00696f4.ext.json)
-
----
-
-### Mahinda returned to the beginning
-
-*2025-09-12 11:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்பமான-இடத்துக்கே-திரும்பினார்-மஹிந்த/175-364462) · `ta`
-
-Namal Rajapaksa has posted on the social network that his father Mahinda Rajapaksa has returned to Carlton's house where everything started.
-
-Former President Mahinda Rajapakse left his official residence in Colombo and returned to his hometown of Tangalle.
-
-“Today, my father left his official residence in Colombo and returned to Tangalle, where everything started.
-
-“I would like to remind you that real strength, not from privileges, or money, but it comes from people's love," he said.
-
-◼️
-
-[Data](articles/87c610cb.json)
-
-[Extended Data](ext_articles/87c610cb.ext.json)
-
----
-
-### Father Benedict Joseph Fernando becomes to death
-
-*2025-09-12 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214472) · `si`
-
-Fr. Benedict Joseph Fernando was Paradana, the Communicating Director of the Sri Lanka Catholic Church.
-
-When he ended his life for a while, he was spending his seed at Retired Newborns, the Cathoning Stars in Havelock.
-
-◼️
-
-[Data](articles/e02e7605.json)
-
-[Extended Data](ext_articles/e02e7605.ext.json)
-
----
-
-### A discussion between former President Ranil and the Chinese Ambassador to Sri Lanka
-
-*2025-09-12 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214471) · `si`
-
-Former President Ranil Wickremesinghe and the Chinese Ambassador to Sri Lanka was conducting a special meeting between China, Chinese Ambassador to Chi Chan Hong.
-
-It is also reported that the former President and the Chinese Ambassador had taken an interest in the political situation in Sri Lanka and internationally.
-
-Meanwhile, President Mahinda Rajapaksa has discussed this kind of discussion with the Chinese Ambassador before leaving Colombo home.
-
-The Chinese Ambassador is also scheduled to hold talks with another former powerful politician.
-
-◼️
-
-[Data](articles/67562b44.json)
-
-[Extended Data](ext_articles/67562b44.ext.json)
-
----
-
-### Bribed constable caught
-
-*2025-09-12 11:39:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-கான்ஸ்டபிள்-சிக்கினார்/175-364461) · `ta`
-
-Police Constable has been arrested for bribing Rs 10,000 to issue an income tax permit without registering a lawsuit for traffic.
-
-He has been arrested by the Commission officials investigating bribery or corruption.
-
-◼️
-
-[Data](articles/e7452133.json)
-
-[Extended Data](ext_articles/e7452133.ext.json)
-
----
-
-### Business story commencement in Balanwela to Sri Lanka from Bangkok
-
-*2025-09-12 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214470) · `si`
-
-A woman who was brought to Sri Lanka is illegally arrested at the Katunayake airport.
-
-The woman has been arrested in a raid conducted by the Airport Customs Advanced Administration and the Officers received on a tip off received on information received by the officials of the National Heritage Security Division, Ada Derana.
-
-The suspect illegally illegally shipped 6 snakes.
-
-The woman had purchased these snakes from Bangkok, Thailand, and was meticulous in two baggage she had been brought to the country.
-
-She has taken the Yellow Anaconda, Ball Python, Specadgg Gag Sneak and Honduran milk serpent.
-
-She had been taken to sell these snakes and after the release of the snakes to the forest areas of the country have a severe adverse effect to the ecosystem.
-
-The Customs Investigations have ordered that these series after receiving the Indeigo Airlines, who brought these animals with the Indeigo Airlines, who brought these animals were brought and severely warned about the animals.
-
-◼️
-
-[Data](articles/25b55ceb.json)
-
-[Extended Data](ext_articles/25b55ceb.ext.json)
-
----
-
-### Trafficking of birds in Mannar; Two arrests
-
-*2025-09-12 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224884) · `ta`
-
-Sri Lankan navy has arrested two suspects for trying to smuggle 91 birds this week near the Mannar -Pirutoppu coast.
-
-கைது செய்யப்பட்ட  சந்தேக நபர்கள் பேசாலை மற்றும் மன்னாரைச் சேர்ந்த 17 மற்றும் 52 வயதுடையவர்கள் ஆவர்.
-
-The suspects were arrested with 72 pigeons and 19 hunting chickens during the raid carried out by the Marines.
-
-◼️
-
-[Data](articles/b1efc76f.json)
-
-[Extended Data](ext_articles/b1efc76f.ext.json)
 
 ---

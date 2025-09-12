@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 12:12:55**
+As of **2025-09-12 09:56:16**
 
 ## Newspaper Stats
 
-*Scraped **75,551** Articles*
+*Scraped **75,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,539 +12,33 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,581
+economynextcom | 4,579
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,329
-adaderanalk | 9,701
-tamilmirrorlk | 11,296
-virakesarilk | 12,313
-adaderanasinhalalk | 13,157
+adalk | 7,326
+adaderanalk | 9,695
+tamilmirrorlk | 11,291
+virakesarilk | 12,305
+adaderanasinhalalk | 13,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,296 (90.4%) of 75,551 articles have been extended.
+68,123 (90.2%) of 75,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### ஆரம்பமான  இடத்துக்கே திரும்பினார் மஹிந்த
-
-*2025-09-12 11:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்பமான-இடத்துக்கே-திரும்பினார்-மஹிந்த/175-364462) · `ta`
-
-தனது தந்தை மஹிந்த ராஜபக்ஷ, எல்லாம் ஆரம்பித்த கார்ல்டன் வீட்டிற்கு மீண்டும் திரும்பியுள்ளார் என்று நாமல் ராஜபக்ஷ, சமூக வலைத்தளத்தில் பதிவிட்டுள்ளார்.
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தை விட்டு வெளியேறி தனது சொந்த ஊரான தங்காலைக்குத் திரும்பிய நிலையில் அவர் இதனைக் கூறியுள்ளார்.
-
-“இன்று, எனது தந்தை கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தை விட்டு வெளியேறி தங்காலைக்குத் திரும்பினார், அங்குதான் எல்லாம் தொடங்கியது.
-
-“உண்மையான பலம் பதவி, சலுகைகள் அல்லது பணத்திலிருந்து அல்ல, அது மக்களின் அன்பிலிருந்து வருகிறது என்பதை நினைவூட்ட விரும்புகின்றேன்” என,  அவர் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/87c610cb.json)
-
----
-
-### බෙනඩික්ට් ජෝසප් ප්‍රනාන්දු පියතුමා ස්වර්ගස්ථ වෙයි
-
-*2025-09-12 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214472) · `si`
-
-ශ්‍රී ලංකා කතෝලික සභාවේ හිටපු ජනසන්නිවේදන අධ්‍යක්ෂ බෙනඩික්ට් ජෝසප් ප්‍රනාන්දු පියතුමා ස්වර්ගස්ථ විය.
-
-කලක් රෝගාතුරුව සිටි උන් වහන්සේ දිවි ගමන අවසන් කරන විට හැව්ලොක් ප්‍රදේශයේ කතෝලික සභාවේ Evening Stars නමැති විශ්‍රාමික නිවහනේ සිය සැදෑ කාලය ගතකරමින් සිටියේය.
-
-◼️
-
-[Data](articles/e02e7605.json)
-
----
-
-### ரணில் விக்ரமசிங்கவை சந்தித்தார் சீனத் தூதுவர்
-
-*2025-09-12 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224885) · `ta`
-
-இலங்கைக்கான சீனத் தூதுவர் குய் ஜென்ஹாங் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை இன்று வெள்ளிக்கிழமை (12)  சந்தித்துள்ளார்.
-
-◼️
-
-[Data](articles/3b0fbd91.json)
-
----
-
-### හිටපු ජනපති රනිල් සහ මෙරට චීන තානාපති අතර සාකච්ඡාවක්
-
-*2025-09-12 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214471) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ශ්‍රී ලංකාවේ චීන තානාපති චී චෙන් හොං මහතා අතර විශේෂ හමුවක් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේදී පවත්වා තිබේ.
-
-ශ්‍රී ලංකාවේ සහ ජාත්‍යන්තර මට්ටමේ දේශපාලන තත්ත්වය පිළිබඳව හිටපු ජනාධිපතිවරයා සහ චීන තානාපතිවරයා අතර සාකච්ඡාවේදී අවධානය යොමුවී තිබූ බවද වාර්තා වෙයි.
-
-මේ අතර හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා කොළඹ නිවසින් පිටත්ව යාමට පෙරද චීන තානාපතිවරයා සමග මේ ආකාරයේ සාකච්ඡාවක් පවත්වා තිබේ.
-
-චීන තානාපතිවරයා විසින් ඉදිරියේදී තවත් හිටපු ප්‍රබල දේශපාලනඥයෙකු සමඟ ද සාකච්ඡා පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/67562b44.json)
-
----
-
-### இலஞ்சம் வாங்கிய கான்ஸ்டபிள் சிக்கினார்
-
-*2025-09-12 11:39:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-கான்ஸ்டபிள்-சிக்கினார்/175-364461) · `ta`
-
-போக்குவரத்து குற்றத்துக்காக வழக்குப் பதிவு செய்யாமல் வருமான வரி அனுமதிப்பத்திரம் வழங்க 10,000 ரூபாய் இலஞ்சம் பெற்ற பொலிஸ் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளார்.
-
-இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு அதிகாரிகளால் அவர் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/e7452133.json)
-
----
-
-### නීතිවිරෝධීව බැංකොක් සිට මෙරටට සර්පයින් ගෙනා කෙසෙල්වත්තේ ව්‍යාපාරික කත මාට්ටු
-
-*2025-09-12 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214470) · `si`
-
-නීතිවිරෝධී ලෙස මෙරටට සර්පයින් රැගෙන ආ කාන්තාවක් කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
-
-ගුවන්තොටුපොළ රේගු මත්ද්‍රව්‍ය පාලන අංශයට සහ සංස්කෘතික සහ ජාතික උරුමයන් ආරක්ෂණ අංශයේ නිලධාරීන්ට ලද තොරතුරක් මත සිදුකළ වැටලීමකදී අදාළ කාන්තාව මෙලෙස අත්අඩංගුවට ගෙන ඇති බව 'අද දෙරණ' ගුවන්තොටුපොළ වාර්තාකරු සඳහන් කළේය.
-
-සැකකාරිය නීතිවිරෝධී ලෙස සර්පයින් 06 දෙනෙකු ගුවන්තොටුපොළ හරිත මාවත ඔස්සේ පිට කිරීමට උත්සහ කිරීමේදී මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
-
-අදාළ කාන්තාව මෙම සර්පයන් තායිලන්තයේ බැංකොක් නුවරින් මිලදීගෙන ඇති අතර ඇය විසින් රැගෙන ආ ගමන් මලු දෙකක් තුළ සූක්ෂම ලෙස මෙම සර්පයන් සඟවා මෙරටට රැගෙනවිත් ඇති බව සඳහන්ය.
-
-ඇය විසින් කහ ඇනකොන්ඩා, බෝල් පයිතන්, ස්පෙකල්ඩ් කින්ග් ස්නේක් සහ හොන්ඩියුරානු කිරි සර්පයා යන විවිධ වර්ගවල සර්පයින් 06 දෙනෙකු මෙලෙස රැගෙනවිත් තිබේ.
-
-මෙම සර්පයන් අලෙවි කිරීම සඳහා ඇය රැගෙන විත් තිබූ අතර පසුකාලීනව එම සර්පයින් මෙරට වනාන්තර සහිත ප්‍රදේශ වෙත මුදා හැරීම හේතුවෙන් මෙරට පරිසර පද්ධතියට දැඩි අහිතකර බලපෑමක් ඇති වන බව ගුවන්තොටුපොළ රේගු නිලධාරීන් පවසයි.
-
-...
-
-[Data](articles/25b55ceb.json)
-
----
-
-### மன்னாரில் பறவைகள் கடத்தல் ; இருவர் கைது
-
-*2025-09-12 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224884) · `ta`
-
-மன்னார் - சிறுத்தோப்பு கடற்கரைக்கு அருகில் இந்த வாரம் 91 பறவைகளை கடத்த முயன்ற இரண்டு சந்தேக நபர்களை இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
-
-கைது செய்யப்பட்ட  சந்தேக நபர்கள் பேசாலை மற்றும் மன்னாரைச் சேர்ந்த 17 மற்றும் 52 வயதுடையவர்கள் ஆவர்.
-
-கடற்படையினர் மேற்கொண்ட சுற்றிவளைப்பின் போது 72 புறாக்கள் மற்றும் 19 வேட்டை கோழிகளுடன் சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
-
-◼️
-
-[Data](articles/b1efc76f.json)
-
----
-
-### Another shocking information about "Sampath Manamberry"
-
-*2025-09-12 11:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-குறித்து-மற்றுமொரு-அதிர்ச்சி-தகவல்/175-364460) · `ta`
-
-There have been many shocking reports about former Pradeshiya Sabha member Sampath Manamberi, who was arrested on suspicion of Ice drug production of "Kehelbattara Padme".
-
-Investigations revealed that Sampath Manamberi was also the head of the Armed Forces Network, not only the head of the drug production operation conducted by "Kehelbattara Padme".
-
-Several weapons, including hand grenades hidden on the land belonging to former Pradeshiya Sabha member Sampath Manamambari, have already been seized by the police.
-
-It is believed by the police that many weapons, including the seized handguns, belong to underworld groups.
-
-Police have launched an intensive investigation to find the suspects involved in the incident.
-
-Police have also said that the houses of the persons associated with former Pradeshiya Sabha member Sampath Manamperi are being investigated by the police.  R
-
-◼️
-
-[Data](articles/33b2ca9b.json)
-
-[Extended Data](ext_articles/33b2ca9b.ext.json)
-
----
-
-### இந்தியாவின் துணை ஜனாதிபதியாக பதவியேற்றார் சி.பி.ராதாகிருஷ்ணன்
-
-*2025-09-12 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224883) · `ta`
-
-இந்தியாவின் 15-வது துணை ஜனாதிபதி தேர்தல் நேற்று முன்தினம் நாடாளுமன்ற வளாகத்தில் நடைபெற்றது. இதில் 452 வாக்குகள் பெற்று தேசிய ஜனநாயக கூட்டணி வேட்பாளர் சி.பி.ராதாகிருஷ்ணன் வெற்றி பெற்றார். தேர்தலில் சி.பி.ராதாகிருஷ்ணன் பெற்ற வெற்றியை, தேர்தலை நடத்திய மாநிலங்களவை செயலாளர் பி.சி.மோடி இந்திய தேர்தல் கமிஷனுக்கும், இந்திய அரசின் சட்டத்துறைக்கும் கடந்த 9-ம் தேதி தெரிவித்திருந்தார்.
-
-இன்று பதவியேற்பு இதனைத்தொடர்ந்து துணை ஜனாதிபதியாக சி.பி.ராதாகிருஷ்ணன் தேர்ந்து எடுக்கப்பட்டதற்கான சான்றிதழை தேர்தல் கமிஷன் நேற்று முன்தினம் தயார் செய்தது. இதில் தலைமை தேர்தல் கமிஷனர் ஞானேஷ்குமார், தேர்தல் கமிஷனர்கள் சுக்பீர்சிங் சந்து, விவேக் ஜோஷி ஆகியோர் கையெழுத்திட்டனர்.
-
-இந்த சான்றிதழின் நகலை துணை தேர்தல் கமிஷனர் பானு பிரகாஷ் யெதுரு மற்றும் செயலாளர் சுமன்குமார் தாஸ் ஆகியோர் உள்துறை செயலாளர் கோவிந்த் மோகனிடம் வழங்கினர். இதில் உள்ள தகவல்கள் சி.பி.ராதாகிருஷ்ணன் துணை ஜனாதிபதியாக பதவியேற்கும் விழாவில் வாசிக்கப்படும் என தேர்தல் கமிஷன் தெரிவித்திருந்தது.
-
-...
-
-[Data](articles/b00696f4.json)
-
----
-
-### Ranil and Chinese Ambassador Meeting
-
-*2025-09-12 11:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-மற்றும்-சீனத்-தூதுவர்-சந்திப்பு/175-364459) · `ta`
-
-Former President Ranil Wickremesinghe and Chinese Ambassador to Sri Lanka Qi Sen Hong were held at the office located at Belver Road, Colombo.
-
-The meeting was held at the request of the Chinese Ambassador and the focus of Sri Lanka's political situation and internationally.
-
-Meanwhile, former President Mahinda Rajapakse also held a discussion with the Chinese ambassador before leaving his house in Colombo.
-
-◼️
-
-[Data](articles/62677c09.json)
-
-[Extended Data](ext_articles/62677c09.ext.json)
-
----
-
-### இலங்கை கடற்றொழில் கூட்டுத்தாபனத்தை மூடுவதற்கு திட்டம் இல்லை - பிரதி அமைச்சர்
-
-*2025-09-12 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224882) · `ta`
-
-இலங்கை கடற்றொழில் கூட்டுத்தாபனத்தை மூடுவதற்கு திட்டம் எதுவும் இல்லை என கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் பிரதி அமைச்சர் ரத்ன கமகே இன்று வெள்ளிக்கிழமை (12) பாராளுமன்றத்தில் தெரிவித்தார்.
-
-கூட்டுத்தாபனத்தின் மொத்தக் கடன் தற்போது ரூ. 1.6 பில்லியன் எனவும்,  அது படிப்படியாகத் தீர்க்கப்பட்டு வருவதாகவும் அவர் தெரிவித்தார்.
-
-"இரண்டு ஆண்டுகளுக்குள் கூட்டுத்தாபனம் இலாபம் ஈட்டும் நிறுவனமாக மாற்றப்படும் என நாங்கள் திறைசேரிக்கு உறுதியளித்துள்ளோம்" என பிரதி அமைச்சர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/aca1fde0.json)
-
----
-
-### இனி பாலஸ்தீன நாடு கிடையாது : அந்த நிலம் எங்களுடையது - இஸ்ரேல் பிரதமர் நெதன்யாகு
-
-*2025-09-12 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224880) · `ta`
-
-மேற்குக் கரையில் சர்ச்சைக்குரிய குடியேற்றத் திட்டமான “E1” விரிவாக்கத்திற்கான ஒப்பந்தத்தில் இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு கையெழுத்திட்டதைத் தொடர்ந்து, இனி பாலஸ்தீன நாடு என்ற ஒன்று இல்லை என்று வெளிப்படையாக அறிவித்துள்ளார். "இந்த இடம் எங்களுக்கு மட்டுமே சொந்தமானது" என்றும் அவர் திட்டவட்டமாகத் தெரிவித்துள்ளார்.
-
-மேற்கு கரையில் உள்ள மாலே அடுமிம் குடியேற்றப் பகுதியில் இடம்பெற்ற நிகழ்வில் பேசிய நெதன்யாகு,
-
-"நமது வாக்குறுதிகள் நிறைவேறி வருகின்றன. இனி பாலஸ்தீன நாடு என்ற ஒன்று இருக்காது. இந்த நிலம் எங்களுடையது மட்டுமே. இங்கு இன்னும் ஆயிரக்கணக்கான வீடுகள் கட்டப்படும். நமது கலாச்சாரம், நிலம் மற்றும் பாதுகாப்பு பாதுகாக்கப்படும். மேற்குக் கரையின் மக்கள் தொகை இரட்டிப்பாக்கப்படும்" என்று கூறினார்.
-
-...
-
-[Data](articles/85b976f0.json)
-
----
-
-### Like did to Russia, there is a ban into Israel?
-
-*2025-09-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214469) · `si`
-
-The Spanish Sports Minister Pure Alegia has said that after the invasion of Ukraine forbidden Russian sports teams, it is said that Israel should be banned to play.
-
-The 'Tue of Swain' Cycling Tournament is being held in Spain these days, and the Israeli-Premier Tech team also participated.
-
-The Palestinian pro-organizations in Spain have launched a protest against the opportunity to compete.
-
-The Minister of Spanish Sports has made this statement in such a setting.
-
-He said he would like to ban Israeli-premier Tech group, but it can only be implemented to the cycle world governing body.
-
-He also emphasizes the dual procedure taken about Russia and Israel, and the Israeli groups should ban the game as they banned Russian sports teams in 2022.
-
-It is said that the Israeli-Premier Tech group is not a group representing Israel.
-
-However, Israeli Prime Minister Benjamin Netanyahu had praised the group about the Israeli-Premier Tech group of Israeli-Premier Tech group, despite strong objections.
-
-...
-
-[Data](articles/422d0816.json)
-
-[Extended Data](ext_articles/422d0816.ext.json)
-
----
-
-### Investigators in Charlie Kirk killing find weapon, release images of person of interest
-
-*2025-09-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112426/investigators-in-charlie-kirk-killing-find-weapon-release-images-of-person-of-interest) · `en`
-
-U.S. investigators on Thursday released photos and a video of a person of interest in the fatal shooting of influential conservative activist Charlie Kirk and said they had found the rifle believed to have been used in the politically charged killing.
-
-Kirk, a 31-year-old author, podcast host and close ally of U.S. President Donald Trump, helped build the Republican Party’s support among younger voters.
-
-He was killed on Wednesday by a single gunshot as he gave a talk at a university in Utah in what Trump called a “heinous assassination.”
-
-Investigators have yet to publicly discuss any motive, but Trump told reporters that he had an indication of the killer’s motivation. “We’ll let you know about that later,” he said, adding that law enforcement was making “big progress” in the investigation.
-
-...
-
-[Data](articles/eafdcd88.json)
-
----
-
-### ஹெந்தலவிலுள்ள ஆசியாவின் பழமையான தொழுநோய் வைத்தியசாலைக்கு ஜப்பான் தூதுவர் விஜயம்
-
-*2025-09-12 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224878) · `ta`
-
-வத்தளை, ஹெந்தலையில் உள்ள வரலாற்று சிறப்புமிக்க ஆசியாவின் பழமையான தொழுநோய் வைத்தியசாலைக்கு இலங்கைக்கான ஜப்பான் தூதுவர் அகியோ இசொமதா செவ்வாய்க்கிழமை (செப்டம்பர் 9 ) விஜயம் செய்தார்.
-
-1708 ஆம் ஆண்டு ஒல்லாந்தர்களால் நிறுவப்பட்ட இந்த நிறுவனம் ஆசியாவின் பழமையான தொழுநோய் வைத்தியசாலையாக அங்கீகரிக்கப்பட்டுள்ளது.
-
-வைத்தியசாலை நிர்வாகத்தால் தூதுவர் இசொமதா அன்புடன் வரவேற்கப்பட்டு வைத்தியசாலை வரலாறு குறித்து அவருக்கு விளக்கமளிக்கப்பட்டது. முதலில் காலனித்துவ கால புகலிடமாக நிறுவப்பட்ட இந்த வைத்தியசாலை, இப்போது குறைந்து வரும் உள்நோயாளிகளுக்கான பராமரிப்பு வசதியாக செயல்படுகிறது.
-
-1995 ஆம் ஆண்டில் இலங்கையில் ஒரு பொது சுகாதாரப் பிரச்சினையாக இருந்த தொழுநோயை வெற்றிகரமாக ஒழித்த போதிலும், சிகிச்சை, கண்காணிப்பு மற்றும் நோயாளிக்கான ஆதரவில் தொடர்ச்சியான முயற்சிகளுக்கு சுகாதார அமைச்சகம் உறுதிபூண்டுள்ளது.
-
-...
-
-[Data](articles/45575f24.json)
-
----
-
-### CP Radhakrishnan sworn in as India’s 15th Vice President
-
-*2025-09-12 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112424/cp-radhakrishnan-sworn-in-as-indias-15th-vice-president) · `en`
-
-Chandrapuram Ponnusamy Radhakrishnan was on Friday sworn in as the 15th Vice President of India, at a formal ceremony held at Rashtrapati Bhavan.
-
-President Droupadi Murmu administered the oath of office, marking Radhakrishnan’s assumption of the second-highest constitutional office in the country.
-
-Senior leaders cutting across party lines have attended the swearing-in ceremony. Those present in the ceremony include Odisha Chief Minister Mohan Charan Majhi, Karnataka Governor Thaawarchand Gehlot, Andhra Pradesh Chief Minister N Chandrababu Naidu, Punjab Governor and Chandigarh Administrator Gulab Chand Kataria, Jharkhand Governor Santosh Gangwar, and Madhya Pradesh Chief Minister Mohan Yadav.
-
-CP Radhakrishnan, the NDA nominee, won the Vice Presidential election on Tuesday after defeating the opposition INDIA bloc nominee B Sudershan Reddy by a margin of 152 votes. While Radhakrishnan secured 452 votes, his opponent Reddy got 300 votes.
-
-...
-
-[Data](articles/96dd9658.json)
-
-[Extended Data](ext_articles/96dd9658.ext.json)
-
----
-
-### Pre Budget discussions between President and Apparel Stakers
-
-*2025-09-12 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214468) · `si`
-
-President Anura Kumara Dissanayake has emphasized that the government's objective is to meet the future economic growth targets based on the economic stability of the country.
-
-The President was speaking at a 2026 pre-budget discussion with the partners in the apparel industry yesterday (11).
-
-The President has assured that the government is not unable to invest in the development of industrialists and investors.
-
-President Anura Kumara Dissanayake emphasized that the government's objective is to meet future economic growth targets based on the economic stability of the country.
-
-The President made this observation at a 2026 pre-budget discussion with the partners' partners in the apparel industry yesterday (11) at the Presidential Secretariat.
-
-The President pointed out that the current facilities are available to the existing industry, the government's policy is to provide access to the first rupee.
-
-...
-
-[Data](articles/033d7175.json)
-
-[Extended Data](ext_articles/033d7175.ext.json)
-
----
-
-### ‘True strength comes from our roots, not positions or privileges’ – Namal
-
-*2025-09-12 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112422/true-strength-comes-from-our-roots-not-positions-or-privileges-namal-) · `en`
-
-In a post on ‘X’ (formerly Twitter), SLPP Member of Parliament Namal Rajapaksa, son of former President Mahinda Rajapaksa, has reflected on his father’s departure from the official residence on Wijerama Road, Colombo 07.
-
-He said that it was a reminder that true strength comes from one’s roots and the love of the people, rather than from positions or privileges.
-
-“My father, Mahinda Rajapaksa, leaves the official residence in Colombo and returns to Tangalle, the place where it all began. A reminder that true strength comes from our roots, the love of the people, not positions or privileges,” he posted on X.
-
-Former President Mahinda Rajapaksa vacated the Wijerama residence yesterday (11) and returned to his family home, Carlton House, in Tangalle.
-
-This move followed the enactment of the Presidents’ Entitlements (Repeal) Act which was passed in Parliament on Wednesday (10), which required former presidents to return official residences provided by the state.
-
-◼️
-
-[Data](articles/d1bf215b.json)
-
-[Extended Data](ext_articles/d1bf215b.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-12 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240348/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.77/80 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields were relatively steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 8.25/30 percent, up from 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2028 was quoted at 8.85/95 percent, down from 9.05/14 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.52/55 percent, up from 9.50/55 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/78 percent, up from 8.70/76 percent.
-
-A bond maturing on 15.10.2032 was quoted at 10.40/48 percent, up from 10.40/47 percent.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.8220 buying, and 415.1638 selling, and the euro was 347.8968 buying, 359.1020 selling.
-
-...
-
-[Data](articles/c0ecd6af.json)
-
-[Extended Data](ext_articles/c0ecd6af.ext.json)
-
----
-
-### China to provide Sri Lanka’s full requirement of school uniforms for 2026
-
-*2025-09-12 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112421/china-to-provide-sri-lankas-full-requirement-of-school-uniforms-for-2026) · `en`
-
-The Chinese government has agreed to provide the full requirement of school uniform material required for 4,418,404 government and government-aided school students in Sri Lanka for the year 2026 as a grant.
-
-An official ceremony to exchange the relevant certificates of agreement was held yesterday (11) at the Ministry of Education premises in Battaramulla.
-
-The event was held under the patronage of the Deputy Minister of Education and Higher Education, Dr. Madura Seneviratne, and the Chinese Ambassador to Sri Lanka, Qi Zhenhong.
-
-During the ceremony, the exchange of certificates confirming the provision of uniform material for 2026 took place between the Secretary to the Ministry of Education, Nalaka Kaluwewa, and Ambassador Qi Zhenhong.
-
-Speaking at the event, Deputy Minister of Education and Higher Education Dr. Madura Seneviratne said:
-
-...
-
-[Data](articles/7405d01b.json)
-
-[Extended Data](ext_articles/7405d01b.ext.json)
-
----
-
-### It is not our responsibility to exclude children from technology: Prime Minister Harini advises adults
-
-*2025-09-12 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224872) · `ta`
-
-It is not our responsibility to exclude children from technology, but it is our responsibility to guide them to use it intelligently and constructively, ”said Dr. Harini Amarasuriya, Minister of Education, Higher Education and Vocational Education and Prime Minister.
-
-Harini Amarasuriya was the chief guest at the launch of the "STE FEED" in the ITC Ratnadeep Hotel, Colombo on Thursday (September 11) at the launch of the "STE FEED" in the Tiktok Social Weather.
-
-In a world based on digital technology, this opportunity is an important milestone to expand the opportunity to teach the country's youth in the country's youth, by creating a background for education, sharing of knowledge and strengthening education through Tiktok.
-
-He emphasized the government's initiative to establish a functioning processed by educators, scholars, scholars, technicians, child protection consultants and private sector partners to introduce equal access to equal access to the future.
-
-...
-
-[Data](articles/af242ec6.json)
-
-[Extended Data](ext_articles/af242ec6.ext.json)
-
----
-
-### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
-
-*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
-
-Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
-
-This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
-
-Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
-
-...
-
-[Data](articles/c2383c73.json)
-
-[Extended Data](ext_articles/c2383c73.ext.json)
-
----
-
-### Sri Lankan woman arrested for kidnapping rare snakes
-
-*2025-09-12 09:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிய-வகைய-பாம்புகளை-கடத்திவந்த-இலங்கைப்-பெண்-கைது/175-364457) · `ta`
-
-Customs officials have arrested a Sri Lankan woman from Bangkok via Chennai by Indigo Airlines, Customs officials have arrested Customs officials.
-
-A Sri Lankan female passenger aged 40 has been arrested for allegedly kidnapping 6 rare snakes.
-
-The snakes were found in a test conducted by Customs Drug Control Division officials, along with Biodiversity, Cultural and National Heritage Protection Unit.
-
-All these snakes are included in the list of species that need to be protected. Remble
-
-◼️
-
-[Data](articles/23febd19.json)
-
-[Extended Data](ext_articles/23febd19.ext.json)
-
----
-
-### Budget Speech November 7
-
-*2025-09-12 09:38:17* · [`adalk`](https://www.ada.lk/business/අයවැය-කථාව-නොවැම්බර්-7/7-418450) · `si`
-
-The Secretary General of Parliament Kushani Rohanadera said that the Committee of the House of Speech / Budget to November 8 to December 8, 2025, was decided to take the debate on November 7 to December 8, 2026.
-
-This is decided at the Committee on Parliamentary Business under the patronage of Speaker of Parliament.
-
-Accordingly, the Appropriation Bill will be presented to Parliament on September 26 to read the first reading.
-
-The President has decided to read the Appropriation Bill on November 7 on November 7, 2025, on November 7, 2025 to carry out the planning of the Appropriation Bill (Budget. 14th November 14).. Accordingly, the second reading election will be held at 6:00 pm.
-
-It has been agreed to take place 17 days from November 15 to December 5, 17 December 5, 5 pm today.
-
-During this period, the budget debate will be held every day including public holidays and Sundays. The Parliament has also decided to meet at 9.30 am on Monday, every day every day.
-
-...
-
-[Data](articles/3970a4dd.json)
-
-[Extended Data](ext_articles/3970a4dd.ext.json)
-
----
-
-### Parliamentary Council begins
+### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
 *2025-09-12 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214467) · `si`
 
 ◼️
 
 [Data](articles/3a7cc91e.json)
-
-[Extended Data](ext_articles/3a7cc91e.ext.json)
-
----
-
-### Central govt and provincial institutions must work in unison when implementing development projects - President advises Governors and Secretaries
-
-*2025-09-12 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112420/central-govt-and-provincial-institutions-must-work-in-unison-when-implementing-development-projects-president-advises-governors-and-secretaries) · `en`
-
-President Anura Kumara Dissanayake has stressed the importance of close coordination and joint action between the central government and provincial institutions in the implementation of development projects, the President’s Media Division (PMD) said.
-
-The President emphasised that the culture of using provincial institutions merely as instruments for political authority to retain power has been brought to an end under the present government, while also highlighting the need for the central government and provincial institutions to work in unison towards a national plan for the country’s development.
-
-...
-
-[Data](articles/c531dfdd.json)
-
-[Extended Data](ext_articles/c531dfdd.ext.json)
-
----
-
-### Six live exotic snakes found in female passenger’s luggage at BIA
-
-*2025-09-12 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112419/six-live-exotic-snakes-found-in-female-passengers-luggage-at-bia) · `en`
-
-Six live exotic snakes were seized at the Bandaranaike International Airport (BIA) from a Sri Lankan national arriving from Bangkok via Chennai on a IndiGo Airlines flight, Sri Lanka Customs said.
-
-The interception was carried out by Sri Lanka Customs’ Narcotic Control Unit in collaboration with the Biodiversity, Cultural, and National Heritage Protection Unit.
-
-The female passenger, in her early 40s, had concealed the snakes in her checked-in baggage.
-
-All species are listed under CITES Appendix II and are subject to international controls due to the threats posed by the exotic pet trade, said Sri Lanka Customs.
-
-The Department of Wildlife Conservation provided technical support in species identification and handling, ensuring the safe management of the animals. This seizure highlights the importance of inter-agency collaboration in combating illegal wildlife trafficking, the statement said.
-
-...
-
-[Data](articles/66a502bf.json)
-
-[Extended Data](ext_articles/66a502bf.ext.json)
 
 ---
 
@@ -653,24 +147,6 @@ Special attention was made in the case of the Central Government and Local Autho
 [Data](articles/fe0870dd.json)
 
 [Extended Data](ext_articles/fe0870dd.ext.json)
-
----
-
-### World Bank report slams Sri Lanka VAT amid poverty from monetary meltdown: analysis
-
-*2025-09-12 08:19:00* · [`economynextcom`](https://economynext.com/world-bank-report-slams-sri-lanka-vat-amid-poverty-from-monetary-meltdown-analysis-240310/) · `en`
-
-ECONOMYNEXT – A World Bank report on Sri Lanka’s tax has slammed value added tax hike, though rate cuts and money printing for potential output targeting by macro-economists led to a collapse of the rupee and inflation that was the core reason for a dramatic rise in poverty.
-
-The rhetoric against VAT may have negative consequences for Sri Lanka for which the poor will eventually pay a higher price if it leads to a repeat of tax cuts like in 2019, observers say.
-
-The recent steep rise in Sri Lanka VAT was also a result of having to pay the salaries of a bloated public sector, including 100,000 development officers and other unemployed graduates hired into public service, who apparently do not have offices to sit and work according to statements made in parliament as well as a legacy large military from a civil war.
-
-...
-
-[Data](articles/4ad85d39.json)
-
-[Extended Data](ext_articles/4ad85d39.ext.json)
 
 ---
 
@@ -1096,28 +572,6 @@ Opening the plaque (From left): ICC Dispute Resolution Services Director of Arbi
 
 ---
 
-### The head of the US trade agency meets president
-
-*2025-09-12 05:52:41* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජනපද-වෙළෙඳ-නියෝජිතායතනයේ-ප්‍රධානීහු-ජනපති-හමු-වෙති/11-418445) · `si`
-
-The heads of the US trade agency met with President Anura Kumara Dissanayake at the President's Office today (11).
-
-US trade agencies are the chiefs of the US trade agencies that have been appointed by the Government of Sri Lanka to discuss the tariffs of the US trade delegation.
-
-The US trade agency (UTE) for economic activities in Sri Lanka also focused on trade agreements to be established between the United States and Sri Lanka in the future.
-
-The President, who is a large amount of influence in Sri Lanka and an outsourced influence, the President has been able to influence the largest impact on the external pressure.. It is also important to focus on strengthening the long-term ties in both countries when making decisions.
-
-US Ambassador Julie Chung Julie Cung (South Asia) Emily Ashby (South and Central Asia) Brendan Lynch (South and Central Asia) Brendan Lynch at the US Embassy in Sri Lanka
-
-...
-
-[Data](articles/24036f71.json)
-
-[Extended Data](ext_articles/24036f71.ext.json)
-
----
-
 ### EFC National Best Employer Awards 2025
 
 *2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
@@ -1372,21 +826,17 @@ The UN resolution is very tight. In order to justify the injustice inflicted on 
 
 ### 2025-09-11 (Thursday)
 
-### Navy and the Fisheries Community in Jaffna
+### ධීවර ගැටළු සාකච්ඡා කිරීමට නාවික හමුදාව සහ යාපනයේ ධිවර ප්‍රජාව අතර හමුවක්
 
 *2025-09-11 22:59:29* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ගැටළු-සාකච්ඡා-කිරීමට-නාවික-හමුදාව-සහ-යාපනයේ-ධිවර-ප්‍රජාව-අතර-හමුවක්/11-418444) · `si`
 
-The Commander of the Northern Naval Commander, 2005, was held on the 9th of September with the participation of the Sri Lanka Navy, the Department of Coast Guard on the 9th of September 2025, with the participation of the Sri Lanka Coast Guard and the Northern Province Fisheries Association.
+ශ්‍රී ලංකා නාවික හමුදාව, උතුරු පළාතේ ධීවර කටයුතු ආශ්‍රිත ගැටළු සාකච්ඡා කිරීමේ වැඩසටහනක් 2025 සැප්තැම්බර් මස 09 වැනි දින ශ්‍රී ලංකා වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සහ  උතුරු පළාත් ධීවර සංගම් නියෝජිතයින්ගේ සහභාගීත්වයෙන්, විධාන මූලස්ථානයේදී, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ ගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
 
-The discussion was discussed at the discussion, the importance of local fishermen, regulatory sectors, the use of sustainable fisheries, racketeer, and the importance of close cooperation between the Department of Fisheries and Aquatic Resources and Fisheries Societies.
+මෙම සාකච්ඡාවේදී, දේශීය ධීවරයින් මුහුණ දෙන අභියෝග, නියාමන අංශ, නීති විරෝධී ධීවර පිළිවෙත්, ජාවාරම් සහ සමුද්‍ර සම්පත් ආරක්‍ෂා කිරීම සඳහා තිරසාර ධීවර පන්න ක්‍රම භාවිතයේ වැදගත්කම පිළිබඳව සාකච්ඡා කෙරුණු අතර, ආරක්‍ෂිත සහ ඵලදායී ධීවර පරිසරයක් සහතික කිරීම සඳහා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව, ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව සහ ධීවර සමිති අතර සමීප සහයෝගීතාවයේ ඇති වැදගත්කමද මෙහිදී අවධාරණය කෙරිණි.
 
-A delegation from Jaffna Acting Director and Fisheries Director and Fisheries Association and Fisheries Association and Fisheries Association and Fisheries Association were present at the Awareness Program.
-
-◼️
+...
 
 [Data](articles/048cdf4f.json)
-
-[Extended Data](ext_articles/048cdf4f.ext.json)
 
 ---
 
@@ -1983,5 +1433,571 @@ Fifteen Sri Lankan underworld members have been arrested in Russia, Oman, Dubai 
 [Data](articles/b183979b.json)
 
 [Extended Data](ext_articles/b183979b.ext.json)
+
+---
+
+### Indian Rs600mn grant to construct ETU at Sri Lanka’s Mannar hospital
+
+*2025-09-11 18:14:00* · [`economynextcom`](https://economynext.com/indian-rs600mn-grant-to-construct-etu-at-sri-lankas-mannar-hospital-240241/) · `en`
+
+ECONOMYNEXT – India is providing a 600 million rupee grant to construct and supply medical equipment TO an accident and emergency unit at the District General Hospital, in Mannar, Sri Lanka.
+
+The project involves civil construction of a two-storey accident and emergency (A&E) unit and procurement of all necessary medical equipment for the unit.
+
+It “will address the critical requirement of an A&E unit at DGH Mannar, saving precious lives by providing timely medical assistance to people of the region in emergency cases during golden hour,” the high commission said.
+
+It will also strengthen medical facilities at the hospital by bridging the gap between the average daily number of indoor patients and available bed strength. (Colombo/Sep11/2025)
+
+◼️
+
+[Data](articles/02ef2f2e.json)
+
+[Extended Data](ext_articles/02ef2f2e.ext.json)
+
+---
+
+### 15 Sri Lankan underworld figures in custody in foreign countries: Minister
+
+*2025-09-11 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112410/15-sri-lankan-underworld-figures-in-custody-in-foreign-countries-minister) · `en`
+
+Sri Lanka’s Public Security Minister Ananda Wijepala says that a total of fifteen Sri Lankan underworld figures with Interpol ‘Red Notice’ issued against them are currently in the custody of authorities in foreign countries, including Russia, Oman, India and Dubai in UAE.
+
+He stated that they will be brought back to Sri Lanka once security issues are concluded in the respective countries.
+
+The minister revealed this while delivering a statement in the Parliament on Thursday (11).
+
+He further stated that from January 01 this year to date, 11 organised criminals who were hiding abroad have been arrested and brought back to the country.
+
+Minister Wijepala revealed that from January this year to September 10, a total of 105 organised crimes have been reported and that a total of 322 suspects have been arrested in connection with those incidents, including 33 shooters, 24 motorcycle riders and 265 suspects accused of aiding and abetting.
+
+...
+
+[Data](articles/b11e9677.json)
+
+[Extended Data](ext_articles/b11e9677.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields broadly steady
+
+*2025-09-11 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-broadly-steady-240226/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.85/95 to the US dollar on Thursday, stronger from 301.98/302.02 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.12.2028 closed at 9.05/14 percent, down from 9.10/15 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/55 percent, up from 9.55/60 percent.
+
+◼️
+
+[Data](articles/8939538e.json)
+
+[Extended Data](ext_articles/8939538e.ext.json)
+
+---
+
+### 15 underworld members of 4 countries
+
+*2025-09-11 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214450) · `si`
+
+15 Sri Lankan underworld members with red announcements were arrested in Russia, Oman, Dubai and India.
+
+Public Defense Minister Ananda Wijepala said this in parliament today (11).
+
+Accordingly, the underworld members will be brought to Sri Lanka as soon as they will complete their legal action.
+
+"I have arrested 11 organized criminals who have hiddenly hiddenly abroad from 01.01. to date.
+
+105 organized crimes have been reported from January to 31.05.2012. 322 suspects have been arrested as 265 suspects on the incidents on these incidents.
+
+A total of 169 t5s, 33 cubits, six weapons, 6 and other arms, three pistols, 6 wire, three pistol weapons, 631.
+
+It is revealed that organized criminals are hiding in Italy, France, Switzerland, Dubai, Indonesia, Canada, Canada, Canada, Canada, Russia, Oman and India.
+
+Fifteen people who have been identified as leading criminals and drug dealers have been identified as the drug dealers and the drug dealers have been arrested by Russia, Oman, Dubai.
+
+◼️
+
+[Data](articles/84e3f41d.json)
+
+[Extended Data](ext_articles/84e3f41d.ext.json)
+
+---
+
+### Former presidents who have confirmed democracy have become ordinary citizens - Dayasiri Jayasekara
+
+*2025-09-11 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224846) · `ta`
+
+All the former presidents of the country have taken steps to ensure democracy at every occasion. But today they are made up of ordinary citizens. Parliamentarian Dayasiri Jayasekara said the same situation would happen to the present President Anura Kumara Dissanayake in the future.
+
+He further stated at a press conference held in Colombo on Thursday (11).
+
+We respect the mandate given by the people to the national people's power. They were in power until the king's reign in history. Thereafter, gradually changes in those systems and are currently in effect.. But in all countries, the excellence and respect for former presidents are the same.
+
+However, the rights have been taken away by this government. Former presidents do not have official vehicles. The safety is not provided at the same time. They have no legal right to obtain the security of cabinet ministers. So today they are made up of ordinary citizens. This government is created by the anger of the community.
+
+...
+
+[Data](articles/93871081.json)
+
+[Extended Data](ext_articles/93871081.ext.json)
+
+---
+
+### Army Lt. Colonel arrested for selling ammunition to underworld figure
+
+*2025-09-11 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112409/army-lt-colonel-arrested-for-selling-ammunition-to-underworld-figure) · `en`
+
+The Commanding Officer of the army camp in Palinagar, a Lieutenant Colonel, has been arrested by the Western Province North Police Crime Division.
+
+He has been arrested for allegedly selling 260 rounds of ammunition used in T-56 rifles for Rs. 650,000 to the underworld criminal figure known as ‘Commando Salintha’, who was recently arrested in Jakarta, Indonesia.
+
+He is currently in the custody of the Criminal Investigations Department (CID).
+
+Police said that the Lieutenant Colonel of the Sri Lanka Army was arrested by officers of the Western Province North Police Crime Division while serving as the commanding officer of the army camp in Palinagar.
+
+It has been revealed that 260 live rounds of ammunition used in T-56 firearms were given by the arrested suspect in two batches of 200 and 60 bullets to the underworld figure, and that he had received a sum of Rs. 650,000 in return for them.
+
+...
+
+[Data](articles/bc2d3528.json)
+
+[Extended Data](ext_articles/bc2d3528.ext.json)
+
+---
+
+### Army officer who sold bullets to commando Salinda
+
+*2025-09-11 17:41:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமாண்டோ-சலிந்தவுக்கு-தோட்டாக்களை-விற்ற-இராணுவ-அதிகாரி/175-364439) · `ta`
+
+A military Lieutenant Colonel has been arrested today (11) for allegedly selling T56 rifle bullets for an organized offender named Commando Salinda.
+
+At the time of the arrest of the army officer, he was serving as the command officer of the military camp in Mullaitivu.
+
+When he was the commanding officer of the Ganmemulla Commando Regiment, he was accused of selling 260 bullets to the T56 rifle for Commando Salinda for Rs 650,000 in two cases.
+
+The arrested army officer is to be handed over to the Criminal Investigation Department for further investigations.
+
+◼️
+
+[Data](articles/60cce139.json)
+
+[Extended Data](ext_articles/60cce139.ext.json)
+
+---
+
+### Army officer who sold ammunition to commando Salinda
+
+*2025-09-11 17:41:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கமாண்டோ-சலிந்தவுக்கு-வெடிமருந்து-விற்ற-இராணுவ-அதிகாரி/175-364439) · `ta`
+
+A military Lieutenant Colonel has been arrested today (11) by the Western North Crime Division for allegedly selling T56 ammunition to an organized offender named Commando Salinda.
+
+At the time of the arrest of the army officer, he was serving as the command officer of the military camp in Mullaitivu.
+
+When he was the commander of the Ganmemulla commando regiment, he was accused of selling 260 T56 ammunition to Commando Salinda for Rs 650,000 in two cases.
+
+The arrested army officer is to be handed over to the Criminal Investigation Department for further investigations.
+
+◼️
+
+[Data](articles/68511cdd.json)
+
+[Extended Data](ext_articles/68511cdd.ext.json)
+
+---
+
+### An army boss arrested for Commando Salini
+
+*2025-09-11 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214449) · `si`
+
+The Western Province North Criminal was arrested today (11) a military lieutenant kernel to marke T56 ammunition, an organized criminal.
+
+The army officer was serving as Commanding Officer of the Palvi Army Camp in Mullaittivu.
+
+Commando Salini has been allegedly sales at Rs. 6.5 lakhs of Rs.
+
+The army officer is due to be handed over to the CID for further investigations.
+
+◼️
+
+[Data](articles/b5d773f0.json)
+
+[Extended Data](ext_articles/b5d773f0.ext.json)
+
+---
+
+### Mahinda was Tangalle Carlton
+
+*2025-09-11 17:15:49* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-තංගල්ල-කාල්ටන්-නිවසට/11-418441) · `si`
+
+Former President Mahinda Rajapaksa who left Wijerama official residence visited Tangalle Carlton house. He joined the Carlton House in Tangalle
+
+◼️
+
+[Data](articles/2f6e7a7c.json)
+
+[Extended Data](ext_articles/2f6e7a7c.ext.json)
+
+---
+
+### "Prabhakaran is floating in happiness"
+
+*2025-09-11 17:11:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-மகிழ்ச்சியில்-மிதந்து-இருப்பார்/175-364437) · `ta`
+
+Former President's spokesman and lawyer Manoj Kamage said that if LTTE leader Velupillai Prabhakaran was still alive today, he would be happy with the manner in which the government had conducted Mahinda Rajapaksa.
+
+The LTTE forced Mahinda Rajapakse to vacate its official residence in Colombo to fulfill the promises made by the LTTE more than the promises made to the people during the election campaign.
+
+"At the time of the country faced the most pressing problems, the government threatened the former president and forced him to leave his official home," Kamage said.
+
+◼️
+
+[Data](articles/780eda78.json)
+
+[Extended Data](ext_articles/780eda78.ext.json)
+
+---
+
+### The body of a person who died in mysteriously meets
+
+*2025-09-11 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214448) · `si`
+
+The body of a person who died was found in a house in Thambuththegama.
+
+The victim was a 49 year old resident of Rajanganaya.
+
+The deceased is a retired Air Force Soldier and has been living alone from his wife and her child.
+
+The man's wife had lodged a complaint with the police that his master had died in the house.
+
+She added that her husband had made a family dispute with a relative a few days ago.
+
+However, the police suspect that he may have died a few days ago and the Thambuttegama police are conducting further investigations.
+
+◼️
+
+[Data](articles/2447bd44.json)
+
+[Extended Data](ext_articles/2447bd44.ext.json)
+
+---
+
+### Exstate doctor's son committed suicide because she did not give a laptop computer
+
+*2025-09-11 16:53:56* · [`adalk`](https://www.ada.lk/breaking_news/ලැප්ටොප්-පරිගණකයක්-නොදුන්-නිසා-විශෙෂඥ-වෛද්‍යවරයාගේ-පුතා-දිවි-නසාගෙන/11-418440) · `si`
+
+Kuliyapitiya teaching hospitals say that a 16-year student has pretend to be brought to their home in their home.
+
+The deceased was the death of a 10th Grade 10 of Kuliyapitiya Central College, Kuluwala, a resident of Kuluwapitiya.
+
+It has been revealed that the student had said that the mother had a separate laptop computer and said that the mother had said that it was delayed.
+
+The angry student had neiled his home and residents had taken place in hospital. The student of a specialist of Kuliyapitiya Teaching Hospital has immediately admitted to the Intensive Care and Top
+
+Itach is a very good and obedient student to education and that such an event is faced with a child, such as a child, such as a child, said the group said.. The mental state of children who are unable to be given no advice, the mentality of children who are very poor, and immediately responded to students.
+
+◼️
+
+[Data](articles/c0b3ed47.json)
+
+[Extended Data](ext_articles/c0b3ed47.ext.json)
+
+---
+
+### The Chinese blocks the opportunity to serve NASA
+
+*2025-09-11 16:45:09* · [`adalk`](https://www.ada.lk/international/චීන-ජාතිකයන්ට-නාසාහි-සේවය-කිරීමට-ඇති-අවස්ථාව-අවහිර-කරයි/3-418439) · `si`
+
+Foreign media reports that NASA's facilities have been blocked by the American space agency, with valid American visa. Through this, the Chinese will block the Chinese nationals to NASA.
+
+Chinese nationals who can serve as contractors or students who are contributing to research have lost all access to NASA's systems and facilities on September 5.
+
+Later, NASA said that the Chinese would limit the use of the "Facilities, Materials and Network" to ensure security to safety.
+
+The Fast Space Program of China has been a problem for the US and the match between the two countries has accelerated in space programs.
+
+◼️
+
+[Data](articles/5b16edf4.json)
+
+[Extended Data](ext_articles/5b16edf4.ext.json)
+
+---
+
+### Bail for both UDA top officials
+
+*2025-09-11 16:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UDA-உயர்-அதிகாரிகள்-இருவருக்கும்-பிணை/175-364436) · `ta`
+
+Colombo Chief Magistrate Asanga Asanga Asanga Asanga Asanga has released the two suspects, former Land Director General of Urban Development Authority (STF), Sampath Sumedha Poojitha Ratnayake and former Land Director Weerawansa Perera, who was arrested for allegedly causing a loss of over Rs 29.5 million for the government.. Podarakama ordered on Thursday (11).
+
+The magistrate imposed a cash bail of Rs 100,000 and Rs 2.5 million each and banned the suspects from going abroad.
+
+In 2016, Colombo, Colombo 05, belonging to the Urban Development Authority (Colombo), the City Development Authority (CBI) has issued a suspects for bribery or corruption for the loss of 29,519,666.16 rupees for the City Development Authority.
+
+◼️
+
+[Data](articles/c9a52916.json)
+
+[Extended Data](ext_articles/c9a52916.ext.json)
+
+---
+
+### Floods in Indonesia
+
+*2025-09-11 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214447) · `si`
+
+The floods affected by the Bali Islands in Indonesia have risen to 14 people.
+
+Foreign media reports say that two disadvantaged persons will be recovered further to find out.
+
+The rain drawn to Bali islands has been reduced and the floods have been reduced by now.
+
+However, foreign media reports that more than 500 people have been referred to safe locations due to floods.
+
+◼️
+
+[Data](articles/0d7ffac5.json)
+
+[Extended Data](ext_articles/0d7ffac5.ext.json)
+
+---
+
+### Former Minister Prasanna Ranatunga withdraws appeal
+
+*2025-09-11 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112407/former-minister-prasanna-ranatunga-withdraws-appeal-) · `en`
+
+Former Minister Prasanna Ranatunga’s attorneys have withdrawn an appeal filed on behalf of him with the Court of Appeal seeking an order to acquit him of the suspended prison sentence and fines imposed on him.
+
+The appeal was taken up today (11) before a five-member bench of the Appellate Court, comprising Justices Mayadunne Corea, S. Kumaran Ratnam, Shashi Mahendran, Damith Thotawatte and Amal Ranaraja, Ada Derana reporter said.
+
+Accordingly, the bench of the Court of Appeal, which granted former minister Prasanna Ranatunga time to pay the fine of Rs. 25 million in installments, later granted permission to withdraw the appeal.
+
+Ranatunga was accused of threatening a businessman and demanding Rs. 64 million to evict unauthorized occupants from a land in the Meethotamulla area in Kolonnawa and to refill the land, during his tenure as Chief Minister of the Western Province.
+
+◼️
+
+[Data](articles/fda6e785.json)
+
+[Extended Data](ext_articles/fda6e785.ext.json)
+
+---
+
+### Sichi, who departed before Mahinda
+
+*2025-09-11 16:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-முன்னரே-புறப்பட்ட-சிச்சி/175-364435) · `ta`
+
+Rohitha Rajapakse, the youngest son of former President Mahinda Rajapaksa, called 'Sichi', left the official residence of the former president on Wijerama Road, Colombo a moment before the former president vacated.
+
+◼️
+
+[Data](articles/f724ba93.json)
+
+[Extended Data](ext_articles/f724ba93.ext.json)
+
+---
+
+### Here are the former Presidents used in quarters
+
+*2025-09-11 16:19:37* · [`adalk`](https://www.ada.lk/breaking_news/නිල-නිවාසවල-භාවිත-කළ-හිටපු-ජනපතිවරු-මෙන්න/11-418438) · `si`
+
+There were only five former chiefs, but only three former chiefs.
+
+Accordingly, former President Mahinda Rajapaksa. Mrs. Former President Maithripala Sirisena and former President Chandrika Bandaranaike Kumaratunga were used.
+
+Former President Mahinda Rajapaksa has left the official residence today, according to the Task Removal Act of the approved President's Title Removal Act and former President Maithripala Sirisena has left the house yesterday.
+
+Former President Chandrika Bandaranaike Kumaratunga has also been asked to leave the official residence.
+
+Former President members, Gotabhaya Rajapaksa and Ranil Wickremesinghe live in their private houses.
+
+Former President Ries. Mr. Hema Premadasa and Mrs. Hema Premadasa and her residence, she left her.
+
+◼️
+
+[Data](articles/35286550.json)
+
+[Extended Data](ext_articles/35286550.ext.json)
+
+---
+
+### Sri Lanka sells Rs116.16bn in bonds after offering Rs155bn
+
+*2025-09-11 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs116-16bn-in-bonds-after-offering-rs155bn-240221/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 116.16 billion rupees in 2030, 2032 and 2035 bonds, of an offered 155 billion, data from the state debt office showed.
+
+46.16 billion rupees of 01 July 2030 (LKB00530G018) bonds were sold at an average yield of 9.76 percent, of an offered 85 billion.
+
+All 25 billion rupees offered of 01 October 2032 (LKB02032J017) bonds were sold at an average yield of 10.45 percent.
+
+All 45 billion rupees offered of 15 June 2035 (LKB01035F159) bonds were sold at an average yield of 10.96 percent.
+
+◼️
+
+[Data](articles/19ff2ad1.json)
+
+[Extended Data](ext_articles/19ff2ad1.ext.json)
+
+---
+
+### President meets new officers of the Ceylon Chamber of Commerce
+
+*2025-09-11 16:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලංකා-වාණිජ-මණ්ඩලයේ-නව-නිලධාරි-මණ්ඩලය-හමුවෙයි/11-418437) · `si`
+
+President Anura Kumara Dissanayake and a new officials of the Ceylon Chamber of Commerce were held today (11).
+
+President Anura Kumara Dissanayake explained how the public and private sectors of the present government, as well as to facilitate the business community and to reach the business community.
+
+By means of policy alignment, the country also helped to help the country to prosperate social well-being and environmental sustainability.
+
+The new office bearer of the Ceylon Chamber of Commerce was presented to the Sri Lankan economy and presented to the President.
+
+Senior Director of Economic Affairs Duminda Hulangamuwa, Chairman of Ceylon Chamber of Commerce Krishan Balendra, Vice President, Vice President, Vice Chair and Vice President Vinodha Hydendra
+
+◼️
+
+[Data](articles/9301ae00.json)
+
+[Extended Data](ext_articles/9301ae00.ext.json)
+
+---
+
+### OK to do: Mahinda
+
+*2025-09-11 15:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-செய்தது-சரி-மஹிந்த/175-364434) · `ta`
+
+According to the former President's Removal Removal Act, former President Mahinda Rajapaksa left his official residence on Wijerama Road, Colombo on Thursday (11) and moved to Carlton's residence in Tangalle.
+
+“We are going to go. But we will not go from politics. Well, we have done wrong. ”
+
+◼️
+
+[Data](articles/b64095ef.json)
+
+[Extended Data](ext_articles/b64095ef.ext.json)
+
+---
+
+### Former Director General and Director of UDA granted bail
+
+*2025-09-11 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112406/former-director-general-and-director-of-uda-granted-bail) · `en`
+
+Former Director General of the Urban Development Authority (UDA) Sampath Sumedha Ratnayake and former Director (Lands) of the UDA Weerawansa Perera, who were arrested on corruption charges, have been released on bail Colombo Magistrate’s Court.
+
+Colombo Chief Magistrate Asanka S. Bodaragama issued this order after considering the facts presented by Bribery Commission officials and the legal representatives of the accused.
+
+The duo had been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 9:30 a.m. this morning (11), over allegations of financial misappropriation of state funds.
+
+According to investigations by the Bribery Commission, a 55.5-perch plot of UDA-owned land located at Mayura Place, Colombo 05, had been leased out on a temporary rental basis, resulting in a financial loss of over Rs. 29.5 million to the UDA.
+
+...
+
+[Data](articles/6d2f9761.json)
+
+[Extended Data](ext_articles/6d2f9761.ext.json)
+
+---
+
+### Nepali youth destroyed the country without her
+
+*2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
+
+Nepal today issues a lesson that the social media should be used to do good and that the country has been destroyed by the country.
+
+We were very shocked by the most sad events in Nepal. The series of sang events that have created such a tremendous rebellion in the land of the Buddha cannot be granted.
+
+It is evident that some conspiracy to evolve South Asian countries is acting. Especially seems to be seen by the countries in the past, the lack of efforts of Buddhist countries as well as Buddhist inheritance in the past.. Clearly, the young people have a sense of their country, saying that the youth is addicted to the use of social media and to prohibit the history of the country.
+
+Clearly, the youth who were taking the lead in the vicinity of Nepal would be clear that they would not destroy their country in this way.. Today, many people believe that the hatred of sowing the hatred of the soil sowing hatred is that the hatred of sowing.
+
+...
+
+[Data](articles/7c573b26.json)
+
+[Extended Data](ext_articles/7c573b26.ext.json)
+
+---
+
+### Flooding in Bali; 14 people die
+
+*2025-09-11 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224824) · `ta`
+
+The death toll from the floods in the Indonesian island, Bali, has risen to 14.
+
+Two people disappeared in Tenbazar, the capital of the tourism center. The Disaster Detection Center said that 125 rescue workers were involved in the search for them.
+
+Heavy rains on Tuesday and Wednesday have caused flooding in six parts of Tenpasar and Bali.
+
+Major roads, including the International Airport. Landslides have also occurred in some areas.
+
+There have been a large number of casualties due to the flooding of the rivers.
+
+Rescue workers are still emitting water from many of the flooded buildings. About 500 soldiers have been stopped to remove mud, debris and rocks on the streets.
+
+“The peak of the rain has passed. Usually the water is drained. Currently, we focus on removing mud from the streets.
+
+Four people have been killed in floods caused by heavy rains in East Nusa Tenkara, Indonesia.
+
+◼️
+
+[Data](articles/fb69820c.json)
+
+[Extended Data](ext_articles/fb69820c.ext.json)
+
+---
+
+### Former UDA officials released on bail
+
+*2025-09-11 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214446) · `si`
+
+The Colombo Magistrate's Court has set aside the former Director General of the Urban Development Authority for the charges of corruption by the Bribery Commission.
+
+Colombo Chief Magistrate Asanka S.. Mr. Bodaragama has issued this order.
+
+◼️
+
+[Data](articles/36c08481.json)
+
+[Extended Data](ext_articles/36c08481.ext.json)
+
+---
+
+### Woman killed in Jaffna
+
+*2025-09-11 15:30:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டிய-பெண்-பலி/175-364433) · `ta`
+
+யாழ்ப்பாணம் பகுதியில் குளவி கொட்டியதில் பெண் ஒருவர் உயிரிழந்துள்ளதாக தெல்லிப்பழை பொலிஸார் தெரிவித்துள்ளனர்.
+
+The 82 -year -old woman, Selvanayagam Balasaraswati, from Tellippalai, Jaffna, has died.
+
+The woman has been attacked by a wasp nest behind her house.
+
+◼️
+
+[Data](articles/fe1e10cd.json)
+
+[Extended Data](ext_articles/fe1e10cd.ext.json)
+
+---
+
+### President meets new board members of Ceylon Chamber of Commerce
+
+*2025-09-11 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112405/president-meets-new-board-members-of-ceylon-chamber-of-commerce-) · `en`
+
+President Anura Kumara Dissanayake has met with the newly appointed Board of the Ceylon Chamber of Commerce today (11) at the Presidential Secretariat in Colombo.
+
+During the discussion, President Dissanayake explained the government’s current economic approach, its direction and the manner in which the state and private sectors are being integrated to drive development and provide necessary facilities to the business community, the President’s Media Division (PMD) reported.
+
+The President emphasized that by setting clear goals and formulating policies to achieve them, can support economic growth, promote social well-being and strengthen environmental sustainability, thereby contributing to a more prosperous future for the country.
+
+Accordingly, the new Board of the Ceylon Chamber of Commerce presented their vision, contributions to the national economy, future plans and proposals for the upcoming budget to the President, the PMD stated.
+
+...
+
+[Data](articles/919272a9.json)
+
+[Extended Data](ext_articles/919272a9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 15:06:20**
+As of **2025-09-12 14:55:35**
 
 ## Newspaper Stats
 
-*Scraped **75,579** Articles*
+*Scraped **75,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,60 +17,20 @@ islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,334
-adaderanalk | 9,709
+adaderanalk | 9,708
 tamilmirrorlk | 11,299
 virakesarilk | 12,316
-adaderanasinhalalk | 13,164
+adaderanasinhalalk | 13,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,468 (90.6%) of 75,579 articles have been extended.
+68,446 (90.6%) of 75,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### ජපානයේ අවුරුදු 100 ඉක්මවූ  පුද්ගලයින් ලක්ෂයකට ආසන්න වෙයි
-
-*2025-09-12 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214481) · `si`
-
-ජපානයේ වයස අවුරුදු 100 ඉක්මවු පුද්ගලයින් සංඛ්‍යාව ලක්ෂයකට ආසන්න වී තිබේ.
-
-මේ වසරේ සැප්තැම්බර් 01 වනදා වන විට අවුරුදු 100 ඉක්මවු පුද්ගලයින් සංඛ්‍යාව 99, 763දෙනෙකු ලෙස වාර්තා වී ඇති අතර ඉන් සියයට 90ක්ම කාන්තාවන් බව ජපාන සෞඛ්‍ය අමාත්‍යංශය නිකුත් කළ දත්ත වාර්තාවක දැක්වේ.
-
-වැඩිහිටි ජනගහනය ඉහළ යාම හේතුවෙන් ලොව සිව්වන විශාලතම ආර්ථිකයට හිමිකම් කියන ජපානය මේ වන විට වෛද්‍ය හා සුබ සාධන පිරිවැය ඉහළ යාමේ ගැටලුවකට මෙන්ම දැඩි ශ්‍රම බලකා හිඟයකට ද මුහුණ දී සිටී.
-
-මේ වන විට ජපානයේ වයස්ගතම පුද්ගලයා බවට පත්ව ඇත්තේ 114 වන වියේ පසුවන ෂිගෙකෝ කගාවායි.
-
-116 හැවිරිදි බ්‍රිතාන්‍ය ජාතික කාන්තාවක් මේ වන විට ලොව වයස්ගතම පුද්ගලයා බවට පත්ව සිටී.
-
-◼️
-
-[Data](articles/65d31545.json)
-
----
-
-### රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ  සභාපති ධුරය කබීර් හෂීම්ට
-
-*2025-09-12 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214480) · `si`
-
-දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (කෝපා) අභිනව සභාපතිවරයා ලෙස පාර්ලිමේන්තු කබීර් හෂීම් මහතා තේරී පත්වී තිබේ.
-
-ඒ දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ සභාපති ලෙස කටයුතු කළ පාර්ලිමේන්තු මන්ත්‍රී අරවින්ද සෙනරත් මහතා ඉල්ලා අස්වීමෙන් ඇති වූ පුරප්පාඩු පිරවීමට එම කාරක සභාව අද (12) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-සභාපති ධුරය සඳහා පාර්ලිමේන්තු මන්ත්‍රී කබීර් හෂීම් මහතාගේ නම පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ජේ.සී. අලවතුවල සහ රෝහිත අබේගුණවර්ධන යන මහත්වරු විසින් පිළිවෙලින් යෝජනා කර ස්ථිර කරන ලදී.
-
-අනතුරුව කාරක සභාව අමතමින් අභිනව සභාපතිවරයා පැවසුවේ දේශපාලන මතවාදවලින් තොරව මධ්‍යස්ථව කටයුතු කරමින්, සියලු සාමාජිකයින්ගේ සහයෝගයෙන් සිය ධුරයේ කටයුතු කිරීමට අපේක්ෂා කරන බවය.
-
-එමෙන්ම කාරක සභාවේ හිටපු සභාපති පාර්ලිමේන්තු මන්ත්‍රී අරවින්ද සෙනරත් මහතා සිදු කළ කාර්යභාරය මෙහිදී අගය කළ අතර ඔහු කළ කාර්යභාරය ඉදිරියටත් වඩාත් හොඳින් සිදු කිරීමට අපේක්ෂා කරන බව ද සභාපතිවරයා ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/b54913d3.json)
-
----
 
 ### Athuraliye Ratana Thera is bail
 
@@ -87,26 +47,6 @@ Accordingly, the court has ordered the release of two body bail and Rs 10 thousa
 [Data](articles/47390dc8.json)
 
 [Extended Data](ext_articles/47390dc8.ext.json)
-
----
-
-### Seven including pre-school children injured in Norwood accident
-
-*2025-09-12 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112434/seven-including-pre-school-children-injured-in-norwood-accident) · `en`
-
-An accident has occurred in the New Weligama area of Norwood on the Hatton-Bogawantalawa main road this morning (12) when a speeding three-wheeler collided head-on with a car arriving in the opposite direction.
-
-Six pre-school children and a male teacher, who were traveling in the three-wheeler, sustained injuries and were rushed to the Dickoya Base Hospital, police said.
-
-According to the Norwood Police, the crash was caused after an unsecured spare part attached to the three-wheeler’s front wheel struck the car, and that the accident had caused severe damage to the three-wheeler.
-
-The female driver of the car has been arrested by Norwood Police.
-
-Of the seven admitted to hospital, six have been discharged after receiving treatments from the out-patient department (OPD), while one child still remains under medical care.
-
-◼️
-
-[Data](articles/9794e38a.json)
 
 ---
 
@@ -135,8 +75,6 @@ Lotus Road in Colombo Fort has been closed to vehicular traffic due to a protest
 ◼️
 
 [Data](articles/13aca746.json)
-
-[Extended Data](ext_articles/13aca746.ext.json)
 
 ---
 
@@ -191,8 +129,6 @@ Ven. Rathana Thero has been accused in connection with investigations into the a
 ◼️
 
 [Data](articles/6b599cb2.json)
-
-[Extended Data](ext_articles/6b599cb2.ext.json)
 
 ---
 
@@ -249,8 +185,6 @@ Accordingly, the Court of Appeal postponed the consideration of the petition for
 ◼️
 
 [Data](articles/1306a11f.json)
-
-[Extended Data](ext_articles/1306a11f.ext.json)
 
 ---
 
@@ -1995,5 +1929,63 @@ Two persons were arrested on two occasions on two occasions, but they were arres
 [Data](articles/a965f697.json)
 
 [Extended Data](ext_articles/a965f697.ext.json)
+
+---
+
+### Meeting between Governors and District Secretaries and President
+
+*2025-09-11 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224861) · `ta`
+
+President Anura Kumara Dissanayake has urged the central government and local government companies to work together in the implementation of development projects.
+
+The President has insisted that the culture of using local government institutions has come to an end under the current government to maintain political power.   He also pointed out the need for the central government and local government to work together instead of moving towards the national plan to develop the country.
+
+The President was presenting the announcement of the 2026 Budget held at the Presidential Secretariat at the Presidential Secretariat on Thursday afternoon to look into the issues between the central government and the local government agencies in the implementation of development projects and to review the projects allocated to local governments based on 2025.
+
+...
+
+[Data](articles/2706ed73.json)
+
+[Extended Data](ext_articles/2706ed73.ext.json)
+
+---
+
+### Two suspects were taken into custody with birds who were illegally brought to Sri Lanka
+
+*2025-09-11 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214456) · `si`
+
+Two suspects have been taken into custody with a dingury vessel carrying 91 illegal birds.
+
+A special search operation conducted in the Salitopupu coast of the Mannar was conducted by a special search operation conducted in the coast.
+
+72 pigeons and 19 chickens were recovered while inside that vessel.
+
+The suspects are aged 17 and 52, residents of Pezalai and Mannar area.
+
+The suspects, the dingi vessel and birds have been handed over to the Pezalai Police for future legal proceedings.
+
+◼️
+
+[Data](articles/2fdacd65.json)
+
+[Extended Data](ext_articles/2fdacd65.ext.json)
+
+---
+
+### “Our task is not to shield children from technology, but to guide them” - PM
+
+*2025-09-11 22:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112413/our-task-is-not-to-shield-children-from-technology-but-to-guide-them-pm) · `en`
+
+Prime Minister and Minister of Education, Higher Education and Vocational Education, Dr. Harini Amarasuriya, officially launched STEM Feed in Sri Lanka, a new in-app destination on TikTok offering credible science, technology, engineering and mathematics content.
+
+This initiative embarks on a new era where TikTok will come together to reimagine how education can be accessed, shared, and strengthened in a digital-first world setting the stage for a transformative initiative aimed at expanding digital learning opportunities for the country’s youth.
+
+Speaking at the launch held today (11) at the ICT Hotel Ratnadipa in Colombo, the Prime Minister said, “Our task is not to shield children from technology, but to guide them to use it wisely, critically, and creatively, so that it becomes a tool for growth rather than harm.”
+
+...
+
+[Data](articles/cb6bb315.json)
+
+[Extended Data](ext_articles/cb6bb315.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 14:38:11**
+As of **2025-09-12 14:10:16**
 
 ## Newspaper Stats
 
-*Scraped **75,573** Articles*
+*Scraped **75,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,334
 adaderanalk | 9,705
-tamilmirrorlk | 11,299
+tamilmirrorlk | 11,298
 virakesarilk | 12,316
 adaderanasinhalalk | 13,162
 
@@ -26,41 +26,23 @@ adaderanasinhalalk | 13,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,423 (90.5%) of 75,573 articles have been extended.
+68,408 (90.5%) of 75,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### அத்துரலியே ரத்தன தேரருக்கு பிணை
-
-*2025-09-12 14:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரருக்கு-பிணை/175-364467) · `ta`
-
-பாராளுமன்ற முன்னாள் உறுப்பினர் அத்துரலியே ரத்தன தேரரை பிணையில் விடுதலை செய்யுமாறு நுகேகொடை நீதவான் நீதிமன்றம் இன்று (12) உத்தரவிட்டுள்ளது.
-
-விளக்கமறியலில் வைக்கப்பட்டுள்ள அத்துரலியே ரத்தன தேரர் இன்றைய தினம் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-அதன்படி, அத்துரலியே ரத்தன தேரரை 5 இலட்சம் ரூபா பெறுமதியான இரண்டு சரீர பிணைகளில் மற்றும் 10 ஆயிரம் ரூபா  பெறுமதியான ரொக்க பிணையில் விடுதலை செய்ய நீதிமன்றம் உத்தரவிட்டுள்ளது.  R
-
-◼️
-
-[Data](articles/47390dc8.json)
-
----
-
-### Parliament provides Parliament to Piliyandala College
+### පිළියන්දල මධ්‍ය විද්‍යාලයට පාර්ලිමේන්තුව ලබාදෙයි
 
 *2025-09-12 13:40:36* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-මධ්‍ය-විද්‍යාලයට-පාර්ලිමේන්තුව-ලබාදෙයි/11-418453) · `si`
 
-Piliyandala Central College Student Parliament of Parliament Parliamentnel was held on the 4th of the Presidential Secretariat at the Presidential Secretariat. Chairman of Mrs. Kushani Rohangarara. The Piliyandala College, the objective of providing practical experience on parliamentary system for students, the event was organized by the Department of Parliament and the Communication Department of the Parliament of Sri Lanka.
+පිළියන්දල මධ්‍ය විද්‍යාලීය ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සභාවාරය ජනාධිපති ලේකම් කාර්යාලයේ පැරැණි පාර්ලිමේන්තු සභා ගර්භයයේ දී පසුගිය 04 වැනිදා පැවැත්විණි. ඒ පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මියගේ ප්‍රධානත්වයෙනි. පිළියන්දල මධ්‍ය විද්‍යාලය ශිෂ්‍ය ශිෂ්‍යාවන් සඳහා පාර්ලිමේන්තු  ක්‍රමවේදය පිළිබඳ ප්‍රායෝගික අත්දැකීම් ලබාදීම අරමුණු කොටගෙන එම විද්‍යාලය හා ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව එක්ව මෙම වැඩසටහන සංවිධානය කර තිබිණි.
 
-The Secretary General of Parliament Kusala Rohanadera is announced on how Parliament is operated by the Parliamentary Procedure and its functions.. (I J)
+මෙහිදී පාර්ලිමේන්තුවේ මහ ලේකම් කුෂාණි රෝහණදීර මහත්මිය විසින් පාර්ලිමේන්තු ක්‍රියාවලිය හා එහි කාර්යභාර පිළිබඳ පැහැදිලි කරමින් පාර්ලිමේන්තුව ක්‍රියාත්මක වන ආකාරය පිළිබඳ දැනුවත් කළාය. ( I J )
 
 ◼️
 
 [Data](articles/4676cca6.json)
-
-[Extended Data](ext_articles/4676cca6.ext.json)
 
 ---
 
@@ -1122,27 +1104,23 @@ Deputy Secretary to the Ministry of Finance AK. Senarath said that Harsha de Sil
 
 ---
 
-### There are no special project offices for foreign loans and support projects
+### විදේශ ණය සහ අධාර යටතේ ක්‍රියාත්මක වන ව්‍යාපෘති සඳහා මින් ඉදිරියට විශේෂ ව්‍යාපෘති කාර්යාල නැහැ
 
 *2025-09-12 07:31:56* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ණය-සහ-අධාර-යටතේ-ක්‍රියාත්මක-වන-ව්‍යාපෘති-සඳහා-මින්-ඉදිරියට-විශේෂ-ව්‍යාපෘති-කාර්යාල-නැහැ/11-418447) · `si`
 
-The Central Government and Local Authorities should work together in implementing development projects
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කළ යුතුයි
 
-Develop a common development plan to identify development needs at provincial level
+පළාත් මට්ටමින් සංවර්ධන අවශ්‍යතා හඳුනා ගනිමින් පොදු සංවර්ධන සැලැස්මක් සකස් කරන්න
 
-President Anura Kumara Dissanayake emphasized that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන මනා සම්බන්ධීකරණයකින් යුතුව ඒකාබද්ධව කටයුතු කළ යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
 
-The President emphasized that the political authority has ended the culture of local authorities to detain its power to the present government.
+දේශපාලන අධිකාරිය තම බලය රඳවා ගැනීම වෙනුවෙන් පළාත් පාලන ආයතන භාවිත කළ සංස්කෘතිය වත්මන් රජය යටතේ අවසන් කර ඇති බව අවධාරණය කළ ජනාධිපතිවරයා, රට සංවර්ධනය කිරීමේ ජාතික සැලැස්මක් කරා ගමන් කිරීම වෙනුවෙන් මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කිරීමේ අවශ්‍යතාවද පෙන්වා දුන්නේය.
 
-President Anura Kumara Dissanayake participated in the Presidential Secretariat, as well as the development of the projects between the central government and local government allocations for local government, and the previous year's budgetary arrangements.
-
-Special attention was made by the Central Government and Local Government Agents while implementing development projects in the fields of education, health and highways.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම උපදෙස් ලබා දුන්නේ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම ආණ්ඩුව සහ පළාත් පාලන ආයතන අතර මතුව ඇති ගැටලු පිළිබඳව සාකච්ඡා කිරීමට සහ පළාත් පාලන ආයතන සඳහා  2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනයට මෙන්ම, 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවකට ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
 
 ...
 
 [Data](articles/f1d3c9cc.json)
-
-[Extended Data](ext_articles/f1d3c9cc.ext.json)
 
 ---
 
@@ -1991,5 +1969,23 @@ BestWeb.LK, Sri Lanka’s premier web design competition since 2009, provides a 
 [Data](articles/12eb12cb.json)
 
 [Extended Data](ext_articles/12eb12cb.ext.json)
+
+---
+
+### Role of digital transformation in SL’s continued aviation sector growth
+
+*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/role-of-digital-transformation-in-sls-continued-aviation-sector-growth/) · `en`
+
+Sri Lanka’s aviation sector is experiencing a strong recovery, recording nearly 10 percent year-on-year passenger growth. Yet, without urgent digital transformation and stronger collaboration among stakeholders, this growth could quickly become a bottleneck, warned SITA Asia Pacific president Sumesh Patel.
+
+Speaking to The Island Financial Review ahead of the SITA IT Aerotech Summit, at ITC Ratnadipa Wednesday which brought together SriLankan Airlines, Airport and Aviation Services (Sri Lanka) Ltd (AASL), Immigration, and Customs. He stressed that aviation is an industry that cannot operate in isolation.
+
+“The first impression of any country is its airport. If Sri Lanka wants to leverage its location and tourism potential, it must make passenger journeys smoother, faster, and more connected, Patel told The Island Financial Review.
+
+...
+
+[Data](articles/46198756.json)
+
+[Extended Data](ext_articles/46198756.ext.json)
 
 ---

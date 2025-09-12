@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 10:07:52**
+As of **2025-09-12 09:56:16**
 
 ## Newspaper Stats
 
@@ -26,21 +26,19 @@ adaderanasinhalalk | 13,152
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,135 (90.2%) of 75,522 articles have been extended.
+68,123 (90.2%) of 75,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### Parliamentary Council begins
+### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
 
 *2025-09-12 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214467) · `si`
 
 ◼️
 
 [Data](articles/3a7cc91e.json)
-
-[Extended Data](ext_articles/3a7cc91e.ext.json)
 
 ---
 
@@ -828,21 +826,17 @@ The UN resolution is very tight. In order to justify the injustice inflicted on 
 
 ### 2025-09-11 (Thursday)
 
-### Navy and the Fisheries Community in Jaffna
+### ධීවර ගැටළු සාකච්ඡා කිරීමට නාවික හමුදාව සහ යාපනයේ ධිවර ප්‍රජාව අතර හමුවක්
 
 *2025-09-11 22:59:29* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ගැටළු-සාකච්ඡා-කිරීමට-නාවික-හමුදාව-සහ-යාපනයේ-ධිවර-ප්‍රජාව-අතර-හමුවක්/11-418444) · `si`
 
-The Commander of the Northern Naval Commander, 2005, was held on the 9th of September with the participation of the Sri Lanka Navy, the Department of Coast Guard on the 9th of September 2025, with the participation of the Sri Lanka Coast Guard and the Northern Province Fisheries Association.
+ශ්‍රී ලංකා නාවික හමුදාව, උතුරු පළාතේ ධීවර කටයුතු ආශ්‍රිත ගැටළු සාකච්ඡා කිරීමේ වැඩසටහනක් 2025 සැප්තැම්බර් මස 09 වැනි දින ශ්‍රී ලංකා වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සහ  උතුරු පළාත් ධීවර සංගම් නියෝජිතයින්ගේ සහභාගීත්වයෙන්, විධාන මූලස්ථානයේදී, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ ගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
 
-The discussion was discussed at the discussion, the importance of local fishermen, regulatory sectors, the use of sustainable fisheries, racketeer, and the importance of close cooperation between the Department of Fisheries and Aquatic Resources and Fisheries Societies.
+මෙම සාකච්ඡාවේදී, දේශීය ධීවරයින් මුහුණ දෙන අභියෝග, නියාමන අංශ, නීති විරෝධී ධීවර පිළිවෙත්, ජාවාරම් සහ සමුද්‍ර සම්පත් ආරක්‍ෂා කිරීම සඳහා තිරසාර ධීවර පන්න ක්‍රම භාවිතයේ වැදගත්කම පිළිබඳව සාකච්ඡා කෙරුණු අතර, ආරක්‍ෂිත සහ ඵලදායී ධීවර පරිසරයක් සහතික කිරීම සඳහා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව, ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව සහ ධීවර සමිති අතර සමීප සහයෝගීතාවයේ ඇති වැදගත්කමද මෙහිදී අවධාරණය කෙරිණි.
 
-A delegation from Jaffna Acting Director and Fisheries Director and Fisheries Association and Fisheries Association and Fisheries Association and Fisheries Association were present at the Awareness Program.
-
-◼️
+...
 
 [Data](articles/048cdf4f.json)
-
-[Extended Data](ext_articles/048cdf4f.ext.json)
 
 ---
 

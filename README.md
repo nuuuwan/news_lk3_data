@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 09:10:29**
+As of **2025-09-12 09:38:38**
 
 ## Newspaper Stats
 
-*Scraped **75,518** Articles*
+*Scraped **75,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,325
 adaderanalk | 9,695
-tamilmirrorlk | 11,290
+tamilmirrorlk | 11,291
 virakesarilk | 12,305
-adaderanasinhalalk | 13,150
+adaderanasinhalalk | 13,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,109 (90.2%) of 75,518 articles have been extended.
+68,117 (90.2%) of 75,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### The total number of school uniforms related to 2026 from China
+
+*2025-09-12 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214466) · `si`
+
+The Chinese government has agreed to provide the total uniforms for the year 2026 as a grant for 4,418,404 students who receive government and government aid.
+
+The official ceremony of the consensus certificate was held at the Ministry of Education of Battaramulla yesterday (11).
+
+Deputy Minister of Education and Higher Education Dr. Madura Seneviratne, the Chinese Ambassador, was chaired by the Chinese Ambassador Qi Zhenhong.
+
+The assignment of the certificate of the uniforms of the year 2026 was held between Mr. Nalaka Kabuwewa and Mr. Navanhong of the Chinese.
+
+Minister of Education and Higher Education Dr. Madura Seneviratne expressed these views,
+
+"China awarded 11.82 million meters to Sri Lanka for 2025. This gave the entire national requirement, and directly benefited more than 4.6 million students across the country.
+
+This contribution is more valuable than Rs 5.17 billion, from the youngest student to attend all children with respect and equality to the national examinations.
+
+...
+
+[Data](articles/573aa30c.json)
+
+[Extended Data](ext_articles/573aa30c.ext.json)
+
+---
+
+### Amateur furniture
+
+*2025-09-12 08:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவி-கொட்டுக்கு-இலக்காகி-உயிரிழப்பு/175-364455) · `ta`
+
+One of the elderly people who saw the beauty of the Karungulavi nest died after being died.
+
+The deceased is Selvanayagam Balasaraswathi (age 82) from Tellippalai, Vidhakapuram.
+
+A massive wasp nest was found in the south of the tree at around 3.30 pm on Tuesday (09).
+
+When he was a beautiful wasps, he was taken to the hospital, who was taken to the Tellippalai Hospital, who was taken to the Tellippalai Hospital, when he went to it with a rod.
+
+Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Namasivayam Premkumar. Tellippalai police regulated the witnesses. (A)
+
+◼️
+
+[Data](articles/917160fb.json)
+
+[Extended Data](ext_articles/917160fb.ext.json)
+
+---
 
 ### Harsha raises concerns over Bribery Commission’s financial management
 
@@ -47,6 +95,8 @@ Addressing the Committee, CIABOC Director General Ranga Dissanayake stated that 
 ...
 
 [Data](articles/96b5851d.json)
+
+[Extended Data](ext_articles/96b5851d.ext.json)
 
 ---
 
@@ -65,6 +115,8 @@ Attorney Weragoda, appearing for the petitioner, stated before the court that th
 ...
 
 [Data](articles/fa862232.json)
+
+[Extended Data](ext_articles/fa862232.ext.json)
 
 ---
 
@@ -1967,39 +2019,5 @@ Trading in Prime Lands Residencies contributed 1.91 billion rupees. The stock cl
 [Data](articles/1b454328.json)
 
 [Extended Data](ext_articles/1b454328.ext.json)
-
----
-
-### Ice drug production; Lorry seizure
-
-*2025-09-11 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224818) · `ta`
-
-The lorry used by the police to transport the alleged chemicals to produce ice drugs from Mitteniya to Nuwara Eliya and to Kandana from Nuwara Eliya.
-
-◼️
-
-[Data](articles/617e7165.json)
-
-[Extended Data](ext_articles/617e7165.ext.json)
-
----
-
-### He is withdrawn a pleasant appeal
-
-*2025-09-11 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214444) · `si`
-
-The Court of Appeal has withdrawn a appeal to the former Minister Prasanna Ranatunga to issue an order to issue an order to acquit himself an order to be acquitted in a suspended sentence and fines.
-
-This appeal was called before the Bench, the Festival Judge of the Appendix of the Magins, Kumaran Ratnam, Damith Thotawatte and Amal Ranaraja.
-
-The Bench of the Court of Appeal, which was presented to Prasanna Ranatunga, was given permission to withdraw the appeal.
-
-Prasanna Ranatunga was accused of threatening a businessman to carry out a land in Meethotamulla, the Chief Minister of the Western Province.
-
-◼️
-
-[Data](articles/bb7e843b.json)
-
-[Extended Data](ext_articles/bb7e843b.ext.json)
 
 ---

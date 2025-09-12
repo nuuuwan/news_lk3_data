@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 00:20:51**
+As of **2025-09-13 00:09:48**
 
 ## Newspaper Stats
 
@@ -26,29 +26,27 @@ adaderanasinhalalk | 13,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,025 (91.2%) of 75,644 articles have been extended.
+69,004 (91.2%) of 75,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### Sushila Karki as Nepal's first female medieval prime minister
+### நேபாளத்தின் முதல் பெண் இடைக்கால பிரதமராக சுஷிலா கார்கி
 
 *2025-09-12 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224951) · `ta`
 
-Nepal's Prime Minister KP. Supreme Court Chief Justice Sushila Karki has been appointed as the new Prime Minister. She has recorded the historical record of Nepal's first woman prime minister.
+நேபாளத்தின் பிரதமர் கே.பி. சர்மா ஒலி பதவியை விலகிய நிலையில், உச்சநீதிமன்றத்தின் தலைமை நீதிபதி சுஷிலா கார்கி புதிய பிரதமராக நியமிக்கப்பட்டார். இவர் நேபாள நாட்டின் முதல் பெண் பிரதமராகும் வரலாற்று சாதனையை பதிவு செய்துள்ளார்.
 
-The decision was officially announced by the President's House after a consensus between President Ram Chandra Paval and Nepal Army leader Ashok Raj Sikdell.. Representatives of Jen Z have expressed their support for the appointment of a new prime minister.
+இந்த முடிவு, ஜனாதிபதி ராம் சந்திரா பவுடல் மற்றும் நேபாள இராணுவத் தலைவர் அசோக் ராஜ் சிக்டெல் இடையிலான ஒருமித்த கருத்து அமைந்த பின்னர், ஜனாதிபதி மாளிகை மூலம் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டது. புதிய பிரதமரை நியமிப்பதில் ஜென் இசட் போராட்ட இயக்க பிரதிநிதிகள் ஆதரவை தெரிவித்துள்ளனர்.
 
-Over the past few days, youths have staged fierce struggles against corrupt politicians. At least 51 people have been killed in these protests. Government buildings, star hotels burned down. There have also been incidents of prisons being broken and many prisoners escaped.
+கடந்த சில நாட்களாக, ஊழல் அரசியல்வாதிகளுக்கு எதிராக இளைஞர்கள் கடுமையான போராட்டங்களை நடத்தினர். இந்த போராட்டங்களில் குறைந்தது 51 பேர் உயிரிழந்ததாக தெரிவிக்கப்பட்டுள்ளது. அரசு கட்டிடங்கள், நட்சத்திர ஓட்டல்கள் தீ வைத்து எரிக்கப்பட்டன. சிறைச்சாலைகள் உடைக்கப்பட்டு பல கைதிகள் தப்பிச் செல்லும் சம்பவங்களும் நிகழ்ந்தன.
 
-These incidents have caused great shock in Nepal politics, and people are looking at how the country's situation will change under the leadership of new Prime Minister Sushila Karki.
+இந்த சம்பவங்கள் நேபாள அரசியலில் பெரும் அதிர்வலைகளை ஏற்படுத்தியுள்ளன, மேலும் புதிய பிரதமர் சுஷிலா கார்கியின் தலைமையில் நாட்டின் நிலைமை எவ்வாறு மாறும் என்பதை மக்கள் கவனத்துடன் பார்க்கிறார்கள்.
 
 ◼️
 
 [Data](articles/8b60432a.json)
-
-[Extended Data](ext_articles/8b60432a.ext.json)
 
 ---
 
@@ -67,8 +65,6 @@ The exercise united participants from across the region to improve interoperabil
 ...
 
 [Data](articles/b02c1d0c.json)
-
-[Extended Data](ext_articles/b02c1d0c.ext.json)
 
 ---
 
@@ -138,23 +134,21 @@ Secretary to the Presidential Secretary Dr. Nandika Sanath said that the public 
 
 ---
 
-### Sachindra Rajapaksa's sleep in sleep; Bail demand
+### சஷீந்திர ராஜபக்ஷவுக்கு தூக்கத்தில் மூச்சுத் திணறல் ; பிணை கோரிக்கை மறுப்பு
 
 *2025-09-12 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224950) · `ta`
 
-Sasheendra Rajapaksa's lawyer appeared in court and said that Sasheendra Rajapakse is experiencing a severe wheezing problem during his sleep and is about 35 times a day in a time.. He also stressed that her health is deteriorating day by day.
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷவின் சட்டத்தரணி நீதிமன்றத்தில் ஆஜராகி, சஷீந்திர ராஜபக்ஷ தூக்கத்தின் போது கடுமையான மூச்சுத்திணறல் பிரச்சினை அனுபவிப்பதாகவும், ஒரு மணி நேரத்திற்குள் சுமார் 35 முறை சுவாசக் கடினம் ஏற்படுவதாகவும் தெரிவித்தார். இதனால் அவரின் உடல்நிலை நாளுக்கு நாள் மோசமடைந்து வருவதாகவும் வலியுறுத்தினார்.
 
-Considering these circumstances, the court was asked to release him on bail to treat him. However, the Colombo Magistrate's Court decided that the bail could not be granted.
+இந்த சூழ்நிலைகளை கருத்தில் கொண்டு, அவரை சிகிச்சை பெறும் வகையில் பிணையில் விடுதலை செய்ய நீதிமன்றத்திடம் கோரிக்கை விடுக்கப்பட்டது. எனினும், குறித்த கோரிக்கையை பரிசீலித்த கொழும்பு நீதிவான் நீதிமன்றம், பிணை வழங்கப்பட முடியாது என்று தீர்மானித்தது.
 
-Accordingly, the court has ordered Sasheendra Rajapaksa to be remanded until the 19th.
+இதன்படி, சஷீந்திர ராஜபக்ஷவை வரும் 19ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
 
-Following the release of the verdict, there is a stir in the court premises.
+இந்த தீர்ப்பு வெளியானதையடுத்து, நீதிமன்ற வளாகத்தில் சஷீந்திர ராஜபக்ஷ ஆதரவாளர்கள் மற்றும் சட்டத்தரணிகள் இடையே பெரும் பரபரப்பு நிலவியமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/7eab6507.json)
-
-[Extended Data](ext_articles/7eab6507.ext.json)
 
 ---
 
@@ -173,8 +167,6 @@ In response to a question asked by T3, Buddhika Hewawasam, Chairman of the Sri L
 ...
 
 [Data](articles/a27f5195.json)
-
-[Extended Data](ext_articles/a27f5195.ext.json)
 
 ---
 
@@ -198,27 +190,23 @@ The violent shot was attacked by his neck while attending a lecture at a univers
 
 ---
 
-### Walking from Mullaithivu in support of the Mannar wind farm
+### மன்னார் காற்றாலை போராட்டத்திற்கு ஆதரவாக முல்லைத்தீவில் இருந்து நடை பயணம்
 
 *2025-09-12 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224949) · `ta`
 
-Two youths arrived in Mannar on Friday evening (12) as two youths started a walk towards Mannar in support of the Mannar windmill.
+மன்னார் காற்றாலை போராட்டத்திற்கு ஆதரவாக முல்லைத்தீவு இளைஞர்கள் இருவர் மன்னார் நோக்கி நடை பயணத்தை ஆரம்பித்த நிலையில் குறித்த இரு இளைஞர்களும் வெள்ளிக்கிழமை (12) மாலை மன்னாரை வந்தடைந்தனர்.
 
-Two youths started a walk from Mullivaikkal in the Mullaitivu district on Wednesday (10) in protest of the wind farm in Mannar.
+மன்னார் பகுதியில் அமைக்கப்பட உள்ள காற்றாலைக்கு எதிர்ப்பு தெரிவிக்கும் முகமாக முல்லைத்தீவு மாவட்டத்தின் முள்ளிவாய்க்காலில் இருந்து இரண்டு இளைஞர்கள் நடைபயணம் ஒன்றை கடந்த புதன்கிழமை (10)  ஆரம்பித்தனர்.
 
-They were traveling from Mullaitivu and distributing leaflets to trade centers and the public on the streets.
+அவர்கள் முல்லைத்தீவிலிருந்து கால்நடையாக செல்வதோடு துண்டு பிரசுரங்களை வீதி ஓரங்களில் உள்ள வர்த்தக நிலையங்கள் மற்றும் பொது மக்களுக்கு வழங்கி வந்தனர்.
 
-The two youths arrived at the Mannar Duradi junction at 6 pm on Friday (12).
+இந்த நிலையில் குறித்த இரு இளைஞர்களும் வெள்ளிக்கிழமை (12) மாலை 6 மணியளவில் மன்னார் தள்ளாடி சந்தியை வந்தடைந்தனர்.
 
-The two youths were greeted by the Mannar Citizens' Committee Chairman Aruttand S. Makas Adikallar and the people and the youth who were carrying out the protest in Mannar.
+இந்த நிலையில் குறித்த இரு இளைஞர்களையும் மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் மற்றும் மன்னார் நகரில் போராட்டத்தை முன்னெடுத்து வரும் மக்கள் மற்றும் இளையோர் ஒன்றிணைந்து வரவேற்றனர்.
 
-Later, a group of people visited the Mannar Bazaar area and distributed leaflets against the windmill to trade centers in the Bazaar area.
-
-◼️
+...
 
 [Data](articles/0440e591.json)
-
-[Extended Data](ext_articles/0440e591.ext.json)
 
 ---
 
@@ -240,8 +228,6 @@ Karki, 73, would take the oath of office at 9:15 p.m. local time (1530 GMT), sai
 
 [Data](articles/94c0d3b4.json)
 
-[Extended Data](ext_articles/94c0d3b4.ext.json)
-
 ---
 
 ### Former CJ is appointed as the interim Prime Minister of Nepal
@@ -260,21 +246,19 @@ The media reported that she is to be sworn in tonight as the head of the interco
 
 ---
 
-### Youth arrested with drug pills in Jaffna
+### யாழில் போதை மாத்திரைகளுடன் இளைஞர் கைது!
 
 *2025-09-12 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224948) · `ta`
 
-A 20 -year -old youth has been arrested with 40 drug pills during a round of raids carried out on Friday, 12th of this month in Colombo, Jaffna.
+யாழ்ப்பாணம் கொழும்புத்துறை பகுதியில் 12ஆம் திகதி வெள்ளிக்கிழமை மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கையின் போது 20 வயது இளைஞர் ஒருவர் 40 போதை மாத்திரைகளுடன் கைது செய்யப்பட்டுள்ளார்.
 
 யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் யாழ்ப்பாணம் பொலிஸ் நிலைய போதை தடுப்பு பிரிவினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
 
-Police are taking steps to bring the suspect in court after investigations.
+விசாரணைகளின் பின்னர் குறித்த சந்தேக நபரை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிசார் மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/08016873.json)
-
-[Extended Data](ext_articles/08016873.ext.json)
 
 ---
 
@@ -295,8 +279,6 @@ Investigators and authorities on Thursday night pleaded for the public’s help 
 ...
 
 [Data](articles/4b6aeef0.json)
-
-[Extended Data](ext_articles/4b6aeef0.ext.json)
 
 ---
 
@@ -339,8 +321,6 @@ It was not immediately clear what caused the accident although the state media b
 ◼️
 
 [Data](articles/84cfff73.json)
-
-[Extended Data](ext_articles/84cfff73.ext.json)
 
 ---
 

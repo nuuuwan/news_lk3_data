@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 12:54:48**
+As of **2025-09-12 14:10:16**
 
 ## Newspaper Stats
 
-*Scraped **75,556** Articles*
+*Scraped **75,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,39 +12,233 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,582
+economynextcom | 4,583
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,329
-adaderanalk | 9,701
-tamilmirrorlk | 11,297
-virakesarilk | 12,314
-adaderanasinhalalk | 13,159
+adalk | 7,334
+adaderanalk | 9,705
+tamilmirrorlk | 11,298
+virakesarilk | 12,316
+adaderanasinhalalk | 13,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,348 (90.5%) of 75,556 articles have been extended.
+68,408 (90.5%) of 75,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### அட்டன் மலசலகூட குத்தகை விவகாரத்தில் ஊழல் மோசடிகள் ; ‘நிதி குற்றப்புலனாய்வு பிரிவுக்கு முறைப்பாடு செய்யவும்’ - வீரகேசரியில் வெளியான  ஆக்கத்தை சான்றுபடுத்தி நகரசபையில் கோரிக்கை முன்வைப்பு
+### පිළියන්දල මධ්‍ය විද්‍යාලයට පාර්ලිමේන්තුව ලබාදෙයි
+
+*2025-09-12 13:40:36* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-මධ්‍ය-විද්‍යාලයට-පාර්ලිමේන්තුව-ලබාදෙයි/11-418453) · `si`
+
+පිළියන්දල මධ්‍ය විද්‍යාලීය ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සභාවාරය ජනාධිපති ලේකම් කාර්යාලයේ පැරැණි පාර්ලිමේන්තු සභා ගර්භයයේ දී පසුගිය 04 වැනිදා පැවැත්විණි. ඒ පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මියගේ ප්‍රධානත්වයෙනි. පිළියන්දල මධ්‍ය විද්‍යාලය ශිෂ්‍ය ශිෂ්‍යාවන් සඳහා පාර්ලිමේන්තු  ක්‍රමවේදය පිළිබඳ ප්‍රායෝගික අත්දැකීම් ලබාදීම අරමුණු කොටගෙන එම විද්‍යාලය හා ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව එක්ව මෙම වැඩසටහන සංවිධානය කර තිබිණි.
+
+මෙහිදී පාර්ලිමේන්තුවේ මහ ලේකම් කුෂාණි රෝහණදීර මහත්මිය විසින් පාර්ලිමේන්තු ක්‍රියාවලිය හා එහි කාර්යභාර පිළිබඳ පැහැදිලි කරමින් පාර්ලිමේන්තුව ක්‍රියාත්මක වන ආකාරය පිළිබඳ දැනුවත් කළාය. ( I J )
+
+◼️
+
+[Data](articles/4676cca6.json)
+
+---
+
+### Lotus is closed due to objection
+
+*2025-09-12 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214479) · `si`
+
+The Colombo Lotus Road, Colombo has been closed due to protest against the Banking Employees Union.
+
+As a result, heavy traffic congestion is in role in the area.
+
+◼️
+
+[Data](articles/98dc98e8.json)
+
+[Extended Data](ext_articles/98dc98e8.ext.json)
+
+---
+
+### The Central Provincial Program is praising students who have received the best results in the GCE Advanced Level by the Presidential Fund
+
+*2025-09-12 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224899) · `ta`
+
+The Central Provincial Program will be held on Sunday (14) at the Kandy District Secretariat Auditorium under the patronage of Prime Minister Dr. Harini Amarasuriya.
+
+Meanwhile, in the Kandy, Matale and Nuwara Eliya districts of 2023 and 2024, the GCE Advanced Level Examination will be selected for the top 10 students who have received the top 10 students under 06 courses and will be given Rs.
+
+In addition, the event will be held at the Kandy District Secretariat at 1.30 pm on Sunday (14) at 1.30 pm.
+
+The one -day special workshop for all the Divisional Secretariats of the Central Province will be held at the Kandy District Secretariat on Saturday (13) to depending on the Presidential Fund.
+
+...
+
+[Data](articles/6e7c0150.json)
+
+[Extended Data](ext_articles/6e7c0150.ext.json)
+
+---
+
+### Ratana Goek released on bail
+
+*2025-09-12 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214477) · `si`
+
+Nugegoda Magistrate's Court has ordered the release of Ven. Athuraliye Ratana Thera.
+
+According to our correspondent today (12), the Magistrate ordered two personal bail of Rs.
+
+Ratnigama Wwarattissa Thero was accused of abducting the national secretary of the JVP in the 2020 general election.
+
+◼️
+
+[Data](articles/6d65a321.json)
+
+[Extended Data](ext_articles/6d65a321.ext.json)
+
+---
+
+### Construction of Rural Bridges of Sri Lanka;  Netherlands offers 730,000 euros
+
+*2025-09-12 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224895) · `ta`
+
+The Netherlands has recognized 730,000 additional subsidy to support the rural bridges design and construction project in Sri Lanka.
+
+This financial plan will meet the additional financial requirements and further strengthen the long -term development cooperation between the two countries.
+
+The project aims to construct 162 rural bridges across Sri Lanka, which improves the quality of life of the movement, the urban-village connection and the rural communities.. As of September 2025, the project has improved 96% of physics and the work of 151 bridges has already been completed. The construction of all the schemes of all scheduled bridges is expected to be completed by February 2026 to mark the end of the project.
+
+...
+
+[Data](articles/e0265dcc.json)
+
+[Extended Data](ext_articles/e0265dcc.ext.json)
+
+---
+
+### Govt’s policy to ensure every rupee is directed towards most productive investments – President at apparel sector pre-budget discussion
+
+*2025-09-12 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112430/govts-policy-to-ensure-every-rupee-is-directed-towards-most-productive-investments-president-at-apparel-sector-pre-budget-discussion) · `en`
+
+President Anura Kumara Dissanayake emphasized that the government’s objective is to achieve future economic growth targets based on the current stability within the country.
+
+The President further stressed that the government will remain fully committed to investing in the development of essential infrastructure required by industries and investors.
+
+President Dissanayake made these remarks while participating in a pre-budget discussion for 2026 with stakeholders of the apparel sector, held yesterday (11) afternoon at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) said.
+
+The President noted that by providing the necessary facilities for existing industries, it would be possible to reach the initial growth targets and further emphasized that it is the government’s policy to ensure every rupee is directed towards the most productive investments.
+
+...
+
+[Data](articles/89a63723.json)
+
+[Extended Data](ext_articles/89a63723.ext.json)
+
+---
+
+### Will Gammanpila be arrested? Not? - CID decides the court
+
+*2025-09-12 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214475) · `si`
+
+The Criminal Investigations Department (CID) has not decided to arrest former Minister Udaya Gammanpila.
+
+Udaya Gammanpila, who was presented by the Criminal Investigation Department to arrest him under the Convention on the Civil and Political Rights Act.
+
+Deputy Solissitor General Sudharsha De Silva, who appeared in the court, informed the CID informed the court that the police had not decided to arrest the petitioner Udaya Gammanpila.
+
+He added that the investigation continues, he was later a final decision.
+
+◼️
+
+[Data](articles/aadef993.json)
+
+[Extended Data](ext_articles/aadef993.ext.json)
+
+---
+
+### Brantel Lanka increases stake in Resus Energy
+
+*2025-09-12 12:37:00* · [`economynextcom`](https://economynext.com/brantel-lanka-increases-stake-in-resus-energy-240371/) · `en`
+
+ECONOMYNEXT – Brantel Lanka (Pvt) Ltd has increased its total shareholding in Resus Energy PLC (HPWR) to over 10 percent, according to a stock exchange filing.
+
+Brantel bought 5,060,305 shares on Wednesday at prices ranging from 42 rupees to 42.10.
+
+Another 36,309 shares brought the total holding to 8,620,385, or 10 percent.
+
+The share was trading up 50 cents at 43.90. (Colombo/Sep12/2025)
+
+◼️
+
+[Data](articles/3e7b26ca.json)
+
+[Extended Data](ext_articles/3e7b26ca.ext.json)
+
+---
+
+### Woman arrested with snakes
+
+*2025-09-12 12:32:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்புகளுடன்-பெண்-கைது/175-364466) · `ta`
+
+Customs officials have arrested a Sri Lankan woman from Thailand's Bangkok via Chennai and brought rare snakes at the Bandaranaike International Airport.
+
+A 40 -year -old Sri Lankan traveler has smuggled 6 rare snakes, including a living Yellow Anaconda, Ball Python, Speckled King Snake and Honduran Milk Snake.
+
+Customs and Customs Control Officers, who were on arrival on Thursday night (11) night on the Indigo flight, discovered the snakes in a test of biodiversity, cultural and national traditional security unit.
+
+All these snakes are said to be included in the list of species that need to be protected.
+
+The investigation has brought these snakes on sale. It is difficult to keep up with large snakes and keep it in homes. Customs officials said the release of the country's forests would have a serious adverse effect on the country's environmental system.
+
+...
+
+[Data](articles/269d13ef.json)
+
+[Extended Data](ext_articles/269d13ef.ext.json)
+
+---
+
+### Falls bought bus driver for Rs. 55 lakhs
+
+*2025-09-12 12:30:35* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-පත්-බස්-රිය-මිලට-ගත්තේ-ලක්ෂ-55කට-මොඩිෆයි-වියදම-ලක්ෂ-70/11-418451) · `si`
+
+The Nuwara Eliya District Motor Jaliya Bandara makes a special statement to the media that the owner of the bus has been spent by the owner of the bus.
+
+Jali Bandara has said that the bus has been purchased for Rs.
+
+The investigation revealed that the bus had been spent on the designs on the bus, but the investigations were revealed that the bus was not properly maintained.
+
+The brake system will be disabled due to heating the wheels of the wheels of vehicles while operating the brake system on high slopes.
+
+The Nuwara Eliya District Motor Inspector is properly maintained before the vehicle is properly maintained before going to a tour and the vehicle's driver's driver's driver's driver's driver's richer plane.
+
+◼️
+
+[Data](articles/2e4612e6.json)
+
+[Extended Data](ext_articles/2e4612e6.ext.json)
+
+---
+
+### Corruption scandals on the leasing issue of Attan; Complaint to the Financial Criminal Investigation Division
 
 *2025-09-12 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224890) · `ta`
 
-‘வீரகேசரி வாரவெளியீட்டில் வெளியான தகவல் அறியும் சட்டமூலத்தை அடிப்படையாகக்கொண்ட  கட்டுரையைானது அட்டன் பஸ் நிலையத்தில் உள்ள மலசலகூட குத்தகை விவகாரம் தொடர்பில் பல நிதி மோசடிகள் இடம்பெற்றிருப்பதை ஆதாரங்களுடன் சுட்டிக்காட்டியுள்ளது.
+The article based on the Information Bill published in the Weerakesari Weekly has pointed out that there are many financial frauds over the rectal lease issue at the Attan bus station.
 
-எனவே இந்த விவகாரத்தை நிதி குற்றப்புலனாய்வு பிரிவுக்கு முறைப்பாடு செய்து விசாரிக்கும்படி அட்டன் டிக்கோயா நகர சபையின் தற்போதைய உறுப்பினரும் முன்னாள் தவிசாளருமான டாக்டர் அழகமுத்து நந்தகுமார் கோரிக்கை விடுத்தார்.
+Therefore, the current member and former member of the Attan Dikoya Urban Council, Dr. Alagamuthu Nandakumar, has requested the matter to be lodged with the Finance Criminal Investigation Division.
 
-அட்டன் –டிக்கோயா நகரசபையின் மாதாந்த அமர்ந்து வியாழக்கிழமை 11 ஆம் திகதி மதியம் 1.30 மணிக்கு நகரசபை தவிசாளர் அசோக்க கருணாதிலக்க தலைமையில் இடம்பெற்றது. இதன் போது அங்கு உரையாற்றிய உறுப்பினர் டாக்டர். அ.நந்தகுமார், ஆகஸ்ட் மாதம் 24 ஆம் திகதி ஞாயிற்றுக்கிழமை வெளியான வீரகேசரி வாரவெளியீட்டில் அட்டன் பஸ் நிலைய மலசலகூடம் தொடர்பில் வெளியான தகவல் அறியும் சட்டமூலத்தை அடிப்படையாகக்கொண்ட கட்டுரையை சபையில் முன்வைத்து உரையாற்றுகையில்,
+Attan -Tikoya Municipal Council was held on Thursday at 1.30 pm under the patronage of Municipal Councilor Ashoka Karunathilaka.. The Member Dr.. A. Nandakumar, speaking to the House on Sunday 24th August, addressed the House of Commons a Bill on the Information Bill on the Attan Bus Station at the Weerakesari Weekly.
+
+In 2023, the rectum was given to an individual by the Municipal Management Committee, not by questioning.. But it is not clear whether the consent of the Assistant Commissioner of the Nuwara Eliya District has been obtained.
 
 ...
 
 [Data](articles/656fb830.json)
+
+[Extended Data](ext_articles/656fb830.ext.json)
 
 ---
 
@@ -67,6 +261,48 @@ The six other than one child have been treated at the Treasury Division of the S
 [Data](articles/3babcaf1.json)
 
 [Extended Data](ext_articles/3babcaf1.ext.json)
+
+---
+
+### Chinese Ambassador calls on former President Ranil
+
+*2025-09-12 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112429/chinese-ambassador-calls-on-former-president-ranil-) · `en`
+
+A special meeting between former President Ranil Wickremesinghe and the Chinese Ambassador to Sri Lanka, Qi Zhenhong, was held last morning (11) at the political party office on Flower Road, Colombo.
+
+The meeting was arranged at the request of the Chinese Ambassador, said Ada Derana reporter.
+
+Discussions focused on the political situation in Sri Lanka as well as developments at the international level.
+
+Prior to this, former President Mahinda Rajapaksa also held a similar discussion with the Chinese Ambassador, before leaving his residence in Colombo yesterday.
+
+The Chinese Ambassador is scheduled to meet with another senior former politician in the near future to continue discussions on related matters.
+
+◼️
+
+[Data](articles/76615606.json)
+
+[Extended Data](ext_articles/76615606.ext.json)
+
+---
+
+### Two passengers held with mobile phones, tablets and cosmetics worth Rs. 5M at BIA
+
+*2025-09-12 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112428/two-passengers-held-with-mobile-phones-tablets-and-cosmetics-worth-rs-5m-at-bia) · `en`
+
+Two passengers attempting to smuggle a stock of undeclared mobile phones, tablet computers, cosmetics and boxes of tobacco rolling papers worth Rs. 5 million in total have been arrested by customs officers at the Bandaranaike International Airport (BIA) in Katunayake during the early hours today (12).
+
+The duo was reportedly arrested while attempting to smuggle the goods through the “Green Channel” at the BIA, which is designated for passengers with no items to declare.
+
+Two passengers arrested in connection with the incident have been identified as residents of Colombo. The suspects, a 32-year-old man and a 45-year-old woman, are reported to be engaged in business activities.
+
+According to the officials, the duo had arrived at the Katunayake Airport from Dubai on SriLankan Airlines flight (UL-226) at 05.30 am today.
+
+...
+
+[Data](articles/43a27a14.json)
+
+[Extended Data](ext_articles/43a27a14.ext.json)
 
 ---
 
@@ -99,6 +335,38 @@ Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesi
 [Data](articles/e21142ed.json)
 
 [Extended Data](ext_articles/e21142ed.ext.json)
+
+---
+
+### Shasheendra Rajapaksa further remanded
+
+*2025-09-12 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112427/shasheendra-rajapaksa-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa, who faces allegations of offenses under the Public Property Act, has been further remanded until September 19 by the Colombo Magistrate’s Court.
+
+Colombo Chief Magistrate Asanka S. Bodaragama issued the order after considering submissions from both Bribery Commission officials and the defense lawyers, said Ada Derana reporter.
+
+Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on charges of committing the offense of “corruption” under the Anti-Corruption Act by illegally obtaining Rs. 8,850,000 as compensation for the destruction of his political office, which had been constructed on a Mahaweli land, by protesters during the ’Aragalaya’.
+
+◼️
+
+[Data](articles/d8649606.json)
+
+[Extended Data](ext_articles/d8649606.ext.json)
+
+---
+
+### Chinese Ambassador meets Ranil Wickremesinghe
+
+*2025-09-12 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/224885) · `ta`
+
+Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesinghe today (12).
+
+◼️
+
+[Data](articles/3b0fbd91.json)
+
+[Extended Data](ext_articles/3b0fbd91.ext.json)
 
 ---
 
@@ -151,20 +419,6 @@ When he ended his life for a while, he was spending his seed at Retired Newborns
 [Data](articles/e02e7605.json)
 
 [Extended Data](ext_articles/e02e7605.ext.json)
-
----
-
-### Chinese Ambassador meets Ranil Wickremesinghe
-
-*2025-09-12 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224885) · `ta`
-
-Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesinghe today (12).
-
-◼️
-
-[Data](articles/3b0fbd91.json)
-
-[Extended Data](ext_articles/3b0fbd91.ext.json)
 
 ---
 
@@ -400,7 +654,7 @@ Although successfully eradicated leprosy, which was a public health problem in S
 
 *2025-09-12 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112424/cp-radhakrishnan-sworn-in-as-indias-15th-vice-president) · `en`
 
-Chandrapuram Ponnusamy Radhakrishnan was on Friday sworn in as the 15th Vice President of India, at a formal ceremony held at Rashtrapati Bhavan.
+Chandrapuram Ponnusamy Radhakrishnan was on Friday sworn in as the 15th Vice President of India, at a formal ceremony held at Rashtrapati Bhavan in New Delhi.
 
 President Droupadi Murmu administered the oath of office, marking Radhakrishnan’s assumption of the second-highest constitutional office in the country.
 
@@ -437,6 +691,8 @@ During the Committee Stage debate period, Parliament will meet at 9.30 am on Mon
 ...
 
 [Data](articles/efc23ab3.json)
+
+[Extended Data](ext_articles/efc23ab3.ext.json)
 
 ---
 
@@ -502,7 +758,7 @@ A bond maturing on 15.12.2029 was quoted at 9.52/55 percent, up from 9.50/55 per
 
 A bond maturing on 01.07.2030 was quoted at 9.70/78 percent, up from 8.70/76 percent.
 
-A bond maturing on 15.10.2032 was quoted at 10.40/48 percent, up from 10.40/47 percent.
+A bond maturing on 01.10.2032 was quoted at 10.40/48 percent, up from 10.40/47 percent.
 
 The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.8220 buying, and 415.1638 selling, and the euro was 347.8968 buying, 359.1020 selling.
 
@@ -630,6 +886,22 @@ During this period, the budget debate will be held every day including public ho
 
 ---
 
+### All uniforms needed to school students in 2026 from China
+
+*2025-09-12 09:19:58* · [`adalk`](https://www.ada.lk/breaking_news/2026-වසරේ-පාසල්-සිසුන්ට-අවශ්‍ය-සියලු-නිල-ඇඳුම්-චීනයෙන්/11-418449) · `si`
+
+The Chinese government has agreed to provide the total uniforms of government and government aid to school students to the year 2026 as a grant.
+
+Accordingly, 4,418,404 school children will be given the total uniforms required as a grant of China. The value of this award is over 5.17 billion rupees.
+
+◼️
+
+[Data](articles/65e59e17.json)
+
+[Extended Data](ext_articles/65e59e17.ext.json)
+
+---
+
 ### Central govt and provincial institutions must work in unison when implementing development projects - President advises Governors and Secretaries
 
 *2025-09-12 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112420/central-govt-and-provincial-institutions-must-work-in-unison-when-implementing-development-projects-president-advises-governors-and-secretaries) · `en`
@@ -643,6 +915,24 @@ The President emphasised that the culture of using provincial institutions merel
 [Data](articles/c531dfdd.json)
 
 [Extended Data](ext_articles/c531dfdd.ext.json)
+
+---
+
+### Brazilian joins 27 years
+
+*2025-09-12 09:15:38* · [`adalk`](https://www.ada.lk/international/බ්‍රසීල-හිටපු-ජනපතිට-වසර-27ක-සිර-දඩුවම්/3-418448) · `si`
+
+Former Brazilian President Jeir Bolzonarho, who is convicted of planning a military conspiracy, has been sentenced to 27 years and three months in prison.
+
+A few hours after the ex-leader was convicted, a board of five judges sentenced this sentence.
+
+Four judges decided that he was convicted and one voted to release. The punishment of Bolzonarro's lawyers have been said to be "absurd" and they are "appropriate appeals".
+
+◼️
+
+[Data](articles/58f2041e.json)
+
+[Extended Data](ext_articles/58f2041e.ext.json)
 
 ---
 
@@ -811,6 +1101,26 @@ Deputy Secretary to the Ministry of Finance AK. Senarath said that Harsha de Sil
 [Data](articles/1d1eed10.json)
 
 [Extended Data](ext_articles/1d1eed10.ext.json)
+
+---
+
+### විදේශ ණය සහ අධාර යටතේ ක්‍රියාත්මක වන ව්‍යාපෘති සඳහා මින් ඉදිරියට විශේෂ ව්‍යාපෘති කාර්යාල නැහැ
+
+*2025-09-12 07:31:56* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ණය-සහ-අධාර-යටතේ-ක්‍රියාත්මක-වන-ව්‍යාපෘති-සඳහා-මින්-ඉදිරියට-විශේෂ-ව්‍යාපෘති-කාර්යාල-නැහැ/11-418447) · `si`
+
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කළ යුතුයි
+
+පළාත් මට්ටමින් සංවර්ධන අවශ්‍යතා හඳුනා ගනිමින් පොදු සංවර්ධන සැලැස්මක් සකස් කරන්න
+
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන මනා සම්බන්ධීකරණයකින් යුතුව ඒකාබද්ධව කටයුතු කළ යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+
+දේශපාලන අධිකාරිය තම බලය රඳවා ගැනීම වෙනුවෙන් පළාත් පාලන ආයතන භාවිත කළ සංස්කෘතිය වත්මන් රජය යටතේ අවසන් කර ඇති බව අවධාරණය කළ ජනාධිපතිවරයා, රට සංවර්ධනය කිරීමේ ජාතික සැලැස්මක් කරා ගමන් කිරීම වෙනුවෙන් මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කිරීමේ අවශ්‍යතාවද පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම උපදෙස් ලබා දුන්නේ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම ආණ්ඩුව සහ පළාත් පාලන ආයතන අතර මතුව ඇති ගැටලු පිළිබඳව සාකච්ඡා කිරීමට සහ පළාත් පාලන ආයතන සඳහා  2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනයට මෙන්ම, 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවකට ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
+
+...
+
+[Data](articles/f1d3c9cc.json)
 
 ---
 
@@ -1677,333 +1987,5 @@ Speaking to The Island Financial Review ahead of the SITA IT Aerotech Summit, at
 [Data](articles/46198756.json)
 
 [Extended Data](ext_articles/46198756.ext.json)
-
----
-
-### Ambeon Capital increases stake in Ceylon Hotels Corporation; CSE indices decline
-
-*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/ambeon-capital-increases-stake-in-ceylon-hotels-corporation-cse-indices-decline/) · `en`
-
-Ambeon Capital acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.Ambeon Holdings paid between Rs 35.90 and Rs 36.50 per share, CSE sources said.Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake of Ceylon Hotels Corporation PLC for Rs 320 million.
-
-Both CSE indices indicated a downward trend yesterday. The All Share Price Index went down by 127.6 points while the S and P SL20 declined by 40.3 points. Turnover stood at Rs 6.58 billion with 13 crossings. The top seven crossings were reported in Prime Lands where 45.5 million shares crossed to the tune of Rs 1.41 billion; its shares traded at Rs 31, Resus Energy 5.1 million shares crossed to the tune of Rs 213 million; its shares traded at Rs 42.
-
-...
-
-[Data](articles/d8668261.json)
-
-[Extended Data](ext_articles/d8668261.ext.json)
-
----
-
-### Advocata Institute commends Cabinet decision to close 33 non-operational SOEs and calls for divestiture as the next step
-
-*2025-09-11 21:11:00* · [`islandlk`](http://island.lk/advocata-institute-commends-cabinet-decision-to-close-33-non-operational-soes-and-calls-for-divestiture-as-the-next-step/) · `en`
-
-The Advocata Institute welcomes the decision by the Cabinet of Ministers, on the proposal of President Anura Kumara Dissanayake in his capacity as Minister of Finance, Economic Stabilization and National Policy, to formally close 33 non-operational State-Owned Enterprises (SOEs) under Phase 2 of the government’s state-sector reform program.
-
-The move, to be implemented through a Special Liquidation Unit under the Ministry of Finance, is a first step toward eliminating waste, improving fiscal discipline, and redirecting scarce resources to more productive sectors of the economy.
-
-...
-
-[Data](articles/21da49b8.json)
-
-[Extended Data](ext_articles/21da49b8.ext.json)
-
----
-
-### Mother and son have been killed
-
-*2025-09-11 21:02:16* · [`adalk`](https://www.ada.lk/breaking_news/මව-හා-පුතා-ඝාතනය-කරලා/11-418442) · `si`
-
-The mother and son of the same family of the same family have been hacked to death at a sharp weapon at a house in Karandeniya.
-
-According to the police say that the victim is a resident of Seventyaps and her 25-year-old son Chathuranga Dissanayake.
-
-Police say that the killings were carried out and he had not been arrested on suspicion.. The Karandeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/31a6cc45.json)
-
-[Extended Data](ext_articles/31a6cc45.ext.json)
-
----
-
-### US Trade Representative Office Principals meet with President
-
-*2025-09-11 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224859) · `ta`
-
-The US Trade Representative Office Committee meeting with President Anura Kumara Dissanayake on Thursday (11).
-
-The US trade representatives, who praised the Sri Lankan government appointed by the Sri Lankan government to discuss the tax on the US descending products from Sri Lanka, praised Sri Lanka's economic progress.
-
-The meeting focused on the support of the US Trade Representative's Office (USTR) for the economic activities of Sri Lanka so far and the trade agreements between the US and Sri Lanka in the future.
-
-The President has brought to the attention of the US Trade Representative Committee that Sri Lanka is a country with a small economy and that even a small external impact will have a significant impact on Sri Lanka.
-
-He pointed out that all these factors should continue negotiations on trade agreements. The President said that it is important to focus on strengthening the long -term relationship between the two countries during all resolutions.
-
-...
-
-[Data](articles/ce2ee466.json)
-
-[Extended Data](ext_articles/ce2ee466.ext.json)
-
----
-
-### President meets top USTR officials, discuss potential US-SL trade deals
-
-*2025-09-11 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112412/president-meets-top-ustr-officials-discuss-potential-us-sl-trade-deals-) · `en`
-
-United States Ambassador to Sri Lanka, Julie Chung, together with a delegation of senior officials from the Office of the United States Trade Representative (USTR), met with President Anura Kumara Dissanayake at the Presidential Secretariat today (11) for discussions.
-
-The heads of the USTR delegation, who commended the delegation appointed by the Sri Lankan government to negotiate the US tariffs on products imported from Sri Lanka, also praised the progress the country has achieved in its economic recovery, according to the President’s Media Division (PMD).
-
-Attention was also drawn to the assistance extended by the USTR towards Sri Lanka’s economic affairs to date, as well as to potential trade agreements expected to be developed between the two countries in the future.
-
-The President, noting that Sri Lanka is a small economy in recovery, emphasised that even minor external shocks could have a considerable impact on the nation, the PMD said.
-
-...
-
-[Data](articles/914b8c44.json)
-
-[Extended Data](ext_articles/914b8c44.ext.json)
-
----
-
-### Youth arrested with ganja mixed with cannabis in Jaffna
-
-*2025-09-11 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/224858) · `ta`
-
-An 18 -year -old youth has been arrested with a ganja mixed Mawa on Thursday 11th. 10 g 670 milligrams of ganja was recovered.
-
-The arrest was carried out by the Jaffna District Police Drug Prevention Unit of confidential information received by the Police Intelligence Unit under the Jaffna District Senior Superintendent of Police.
-
-◼️
-
-[Data](articles/dc91ee87.json)
-
-[Extended Data](ext_articles/dc91ee87.ext.json)
-
----
-
-### Circumcision regarding permitting students
-
-*2025-09-11 20:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-அனுமதிப்பது-தொடர்பில்-சுற்றுநிருபம்/175-364445) · `ta`
-
-The study has been issued on the admission of students (Grade 5 and 6 excluding) from 2025 to Grade 2 to 11 of the schools.
-
-According to the circulation, steps will be taken to admit students to vacancies that exist in the intermediate standards of national schools in the year 2025.
-
-Accordingly, the vacancies that exist in the intermediate standards of the National Schools will be published on the website of the Ministry of Education, Higher Education and Labor.
-
-All applicants who are expected to apply for the vacancies are asked to complete the application forms mentioned in the 27/2025 Circle and send all the additional documents to the principals of the appropriate schools before 202.09.26. Remble
-
-◼️
-
-[Data](articles/b233a6c5.json)
-
-[Extended Data](ext_articles/b233a6c5.ext.json)
-
----
-
-### Namal laid down on Mahinda Wijerama's official home
-
-*2025-09-11 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214453) · `si`
-
-His son Namal Rajapaksa has placed a note on the 'X' account for former President Mahinda Rajapaksa.
-
-He said, his father returned to the place where everything was started.
-
-And the real strength is also the love of the people, not on privileges, and he said.
-
-Former President Mahinda Rajapaksa arrived at Carlton House in Tangalle today (11).
-
-According to arrangements, the quarters provided to former presidents according to the arrangements of the President's claim (removal) Act.
-
-Former President Mahinda Rajapaksa used the official residence today, according to the Act passed yesterday (10), he was lost.
-
-◼️
-
-[Data](articles/0a0a38ce.json)
-
-[Extended Data](ext_articles/0a0a38ce.ext.json)
-
----
-
-### Sri Lanka president tells USTR: minor shocks could have major impact
-
-*2025-09-11 19:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-tells-ustr-minor-shocks-could-have-major-impact-240299/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake told senior officials from the Office of the United States Trade Representative (USTR) that even minor external shocks could have a considerable impact on the country.
-
-The President met the USTR officials along with the U.S. Ambassador Julie Chung and discussed potential trade agreements expected to be developed between the two countries in the future, the President’s Media Division (PMD) said.
-
-The meeting took place at the Presidential Secretariat in Colombo on Thursday.
-
-“The President, noting that Sri Lanka is a small economy in recovery, emphasised that even minor external shocks could have a considerable impact on the nation,” the PMD said in a statement.
-
-...
-
-[Data](articles/1605d980.json)
-
-[Extended Data](ext_articles/1605d980.ext.json)
-
----
-
-### Netherlands boosts rural bridges in Sri Lanka with extra grant
-
-*2025-09-11 19:13:00* · [`economynextcom`](https://economynext.com/netherlands-boosts-rural-bridges-in-sri-lanka-with-extra-grant-240264/) · `en`
-
-ECONOMYNEXT – The Netherlands has approved an additional grant of 730,000 euro to support Sri Lanka’s rural bridges project, a major initiative to improve connectivity and mobility in rural parts of the island, the island nation’s Finance Ministry said.
-
-The project, launched under a partnership between the Sri Lankan government and the Netherlands, aims to build 162 rural bridges across the country.
-
-As of September 2025, 151 bridges have been completed, with physical progress reaching 96 percent. Officials expect the remaining bridges to be finished by February 2026, marking the successful conclusion of the program.
-
-Sri Lanka initially entered into a 41.8 million euro loan agreement with Coöperatieve Rabobank U.A. of the Netherlands, covering 75 percent of the total project cost.
-
-The remaining 25 percent (13.9 million euro) came through a grant from Invest International, a Dutch state-owned financing institution.
-
-...
-
-[Data](articles/5f74f80c.json)
-
-[Extended Data](ext_articles/5f74f80c.ext.json)
-
----
-
-### Namal's wedding affair; court order
-
-*2025-09-11 19:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-திருமண-கொண்டாட்ட-விவகாரம்-நீதிமன்றத்தின்-உத்தரவு/175-364444) · `ta`
-
-The Ceylon Electricity Board (CEB) of Rs.. The High Court today granted permission to pursue a fundamental rights petition filed against the allegation that more than 2 million worth of electricity was misused.
-
-When the case was taken up for hearing today, Judges Preeti Padman Surasena and Achala Venkapuli issued the order.
-
-Member of Parliament. At the request of Chanaka, on the instructions of the then Power Minister Ravi Karunanayake, it was revealed by the court that electricity was used to illuminate the 1.5 km long road to a private location.
-
-The petitioner argued that this was involved in national power abuse and corruption as the third party, Royalco Aqua Cultist (Pvt) Limited, had no connection with the event.
-
-It was said that action was taken on the basis of the instructions received by CEB and that the former President Mahinda Rajapakse had not been paid any charge and a third party on his behalf.
-
-...
-
-[Data](articles/8329ac62.json)
-
-[Extended Data](ext_articles/8329ac62.ext.json)
-
----
-
-### Announcement on admission to intermediate series
-
-*2025-09-11 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214452) · `si`
-
-The Ministry of Education, the Ministry of Education, the Ministry of Education, the Ministry of Education, the Ministry of Education, the Ministry of Education, and Vocational Education has issued 27/2025.
-
-According to the circular, the admission of students to intermediate series of national schools in the year 2025 for the intermediate series of national schools in 2025 are being carried out.
-
-Accordingly, the existing vacancies in national schools will be published on the Ministry of Education, Higher Education and Vocational Education.
-
-All applications found in the circular 27/2025, the application form in the circular should be forwarded to the principals of the respective schools before 3125.09.2011.
-
-◼️
-
-[Data](articles/792c46e8.json)
-
-[Extended Data](ext_articles/792c46e8.ext.json)
-
----
-
-### Mahinda is a great welcome in Tangalle
-
-*2025-09-11 18:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-மஹிந்தவுக்கு-அமோக-வரவேற்பு/175-364443) · `ta`
-
-Former President Mahinda Rajapakse, who had evacuated his official residence in Wijerama Mawatha, Colombo, was greeted when he arrived at the Carlton house in Tangalle today.
-
-A large number of people welcomed Rajapakse and his wife Shiranthi, and many expressed their happiness for returning to Carlton's residence.
-
-Following the passage of the President's Rights (Cancellation) Act, the former president returned to Tangalle after vacating the official residence in Colombo.
-
-The Bill, which cancels special concessions granted to former presidents, their widows and retired MPs, was passed yesterday without any amendments in Parliament.
-
-◼️
-
-[Data](articles/404e6531.json)
-
-[Extended Data](ext_articles/404e6531.ext.json)
-
----
-
-### Budget on November 7
-
-*2025-09-11 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214451) · `si`
-
-It has been decided to read the Appropriation Bill of the year 2026 (budget speech / budget proposals) to be held on November 7 and December 5 to December 5 of November.
-
-The decision was taken at the Committee on Parliamentary Business (11) under the patronage of Speaker of Parliament.
-
-Accordingly, the Appropriation Bill will be presented to Parliament on September 26 to read the first reading.
-
-As the Minister in charge of Finance, the President has decided to read the Appropriation Bill on November 7.
-
-Accordingly, the second reading election will be held at 6:00 pm.
-
-It has been agreed to hold 17 days from November 15 to December 5 and 17 pm on December 5 pm.
-
-During this period, the budget debate will be held every day, including public holidays and Sundays.
-
-The Parliament has also decided to meet at 9.30 am on Monday, every day every day.
-
-◼️
-
-[Data](articles/52626ff2.json)
-
-[Extended Data](ext_articles/52626ff2.ext.json)
-
----
-
-### 2026 Budget; Dates Notification
-
-*2025-09-11 18:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-பட்ஜெட்-திகதிகள்-அறிவிப்பு/175-364442) · `ta`
-
-The second reading of the Allocation Bill for 2026 (the budget of the budget/budget proposals) will be held on November 7, 2025, followed by a budget debate from 8th December 5th December, said Parliamentary Secretary General Mrs. Kushani Rohanadeera.
-
-The decision was taken at a meeting of the Parliamentary Affairs Committee held today (11) chaired by Speaker Dr. Jagath Wickramaratne.
-
-Accordingly, the first reading of the Allocation Bill will be presented in Parliament on September 26, 2025, the Secretary General said.
-
-As the Minister of Finance, the President will submit a second reading of the Allocation Bill (Budget text) on November 7, and it has been decided to allocate six days from November 8 to November 14 for the second reading debate.. The referendum on the second reading will take place on November 14 at 6:00 pm.
-
-Subsequently, the group debate will be held from November 15 to December 5, and the third reading referendum will be held at 6.00 pm on December 5.
-
-...
-
-[Data](articles/f5cb5d01.json)
-
-[Extended Data](ext_articles/f5cb5d01.ext.json)
-
----
-
-### 2026 Budget Speech on November 7
-
-*2025-09-11 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112411/2026-budget-speech-on-november-7) · `en`
-
-The Secretary General of Parliament, Kushani Rohanadeera, stated that the second reading of the Appropriation Bill (also known as the Budget Speech) for the year 2026 will be held on 7 November, 2025, followed by the budget debate from 8 November to 5 December, 2025.
-
-This decision was made at today’s (11) meeting of the Committee on Parliamentary Business, chaired by Speaker Dr. Jagath Wickramarathne.
-
-Accordingly, the Secretary General stated that the first reading of the Appropriation Bill will be presented to Parliament on 26 September, 2025.
-
-In his capacity as the Minister of Finance, the President will present the second reading of the Appropriation Bill (the Budget Speech) on 7 November, and it has been decided to allocate six days, from 8 November to 14 November, for the second reading debate.
-
-The vote on the second reading will take place on 14 November at 6:00 PM, the statement said.
-
-...
-
-[Data](articles/d190811f.json)
-
-[Extended Data](ext_articles/d190811f.ext.json)
 
 ---

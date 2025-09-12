@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 04:54:51**
+As of **2025-09-12 06:21:07**
 
 ## Newspaper Stats
 
-*Scraped **75,473** Articles*
+*Scraped **75,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
 economynextcom | 4,579
-islandlk | 4,633
+islandlk | 4,644
 dailymirrorlk | 4,733
-dailyftlk | 5,348
+dailyftlk | 5,357
 adalk | 7,323
 adaderanalk | 9,690
-tamilmirrorlk | 11,284
+tamilmirrorlk | 11,285
 virakesarilk | 12,305
 adaderanasinhalalk | 13,144
 
@@ -26,11 +26,173 @@ adaderanasinhalalk | 13,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,000 (90.1%) of 75,473 articles have been extended.
+68,064 (90.2%) of 75,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### “குருக்கள் மடம்: உயிருடன் இருந்தால் தண்டனை”
+
+*2025-09-12 06:04:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மடம்-உயிருடன்-இருந்தால்-தண்டனை/175-364449) · `ta`
+
+குருக்கள் மடம் விவகாரத்தில் பாதிக்கப்பட்ட மக்களுக்கு எமது   நீதி கிடைக்கும். அதேநேரம்  இந்த சம்பவத்துடன் தொடர்பு பட்டிருப்பவர்கள் உயிருடன் இருந்தால் நிச்சயமாக அவர்களுக்கு தண்டனை வழங்கப்படும் என   அரச தரப்பு எம்.பி.யான பஸ்மின் ஷரீப் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (11) இடம் பெற்ற  தேசிய கணக்காய்வு  (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே   இவ்வாறு தெரிவித்த    அவர் மேலும் பேசுகையில்,
+
+குருக்கள் மடம் படுகொலை விவகாரம் தொடர்பில் முன்னாள் அமைச்சர் ஒருவர் எமது நீதி அமைச்சர்  மீது குற்றம் சுமத்தி இருந்தார். ஆனால் குருக்கள்  மடம் விவகாரம் தொடர்பில் நீதி விசாரணைக்கு நீதி அமைச்சர் நடவடிக்கை எடுத்திருக்கிறார். அவர் குருக்கள் மடத்துக்கு நேரடியாக சென்று பார்வையிட்டுள்ளார். அதனால் இந்த விவகாரத்தில் நிச்சயமாக முஸ்லிம்களுக்கு நீதிகிடைக்கும் . அதேநேரம் இந்த படுகொலைகளுடன்  சம்பந்தப்பட்டு உயிருடன் இருப்பவர்கள் அனைவருக்கும் தண்டனை வழங்கப்படும்..
+
+...
+
+[Data](articles/132924d7.json)
+
+---
+
+### Man-made waterloo of Kinross Beach
+
+*2025-09-12 05:58:52* · [`dailyftlk`](https://www.ft.lk/columns/Man-made-waterloo-of-Kinross-Beach/4-781555) · `en`
+
+For generations, Kinross Beach was more than just a stretch of sand; it was the vibrant heart of a community. It was the training ground for national athletes, the backdrop for countless family picnics, and the stage for sporting legends. It represented a shared public space where memory and community were forged, a testament to the simple, enduring joy of our coastal heritage. Yet, today, the ghosts of this arcadian past are swallowed by a desolate present, a mere rusting skeleton of what it once was. The once-vibrant shoreline is now a casualty of an unnatural disaster, a man-made waterloo that serves as a chilling indictment of civic neglect and corporate greed.
+
+...
+
+[Data](articles/ac08a610.json)
+
+---
+
+### ICC Sri Lanka inaugurates new Arbitration and Mediation Hearing Centre
+
+*2025-09-12 05:54:16* · [`dailyftlk`](https://www.ft.lk/business/ICC-Sri-Lanka-inaugurates-new-Arbitration-and-Mediation-Hearing-Centre/34-781554) · `en`
+
+Cutting the ribbon (From left): International Chamber of Commerce Sri Lanka Vice Chairman Johnny Fernando, ICC Sri Lanka Board Members Renuka Weerakoone, Anil Koswatte, ICC Dispute Resolution Services Director of Arbitration and ADR, South Asia Tejus Chauhan, International Chamber of Commerce Sri Lanka and ICC Sri Lanka Arbitration and Mediation Hearing Centre Chairman Shanil Fernando
+
+Opening the plaque (From left): ICC Dispute Resolution Services Director of Arbitration and ADR, South Asia Tejus Chauhan, International Chamber of Commerce Sri Lanka and ICC Sri Lanka Arbitration and Mediation Hearing Centre Chairman Shanil Fernando, International Chamber of Commerce Sri Lanka Vice Chairman Johnny Fernando, ICC SL Board Members Sheanath De Soysa, Isuru Gunaratne (fifth from left), Renuka Weerakoone, and Anil Koswatte
+
+...
+
+[Data](articles/995a1043.json)
+
+---
+
+### EFC National Best Employer Awards 2025
+
+*2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
+
+Employers’ Federation of Ceylon has launched Sri Lanka’s first-ever ‘National Best Employer Awards’ – celebrating organisational excellence and human-centred leadership.
+
+At a time when Sri Lanka is rediscovering its strength and optimism, the Employers’ Federation of Ceylon (EFC) has announced the launch of the inaugural EFC National Best Employer Awards 2025. This landmark initiative comes at a pivotal moment in the nation’s journey, as organisations and communities embrace resilience, innovation, and purpose.
+
+The awards represent a national movement to honour organisations that redefine what it means to be truly great employers—entities that go beyond profit to create workplaces where people thrive, communities are uplifted, and values are lived with purpose. The program will recognise those who champion holistic wellbeing while driving sustainable business practices and meaningful social impact.
+
+...
+
+[Data](articles/85f23252.json)
+
+---
+
+### Rajapaksa vacates official residence after Parliament strips ex-Presidential privileges
+
+*2025-09-12 05:48:39* · [`dailyftlk`](https://www.ft.lk/news/Rajapaksa-vacates-official-residence-after-Parliament-strips-ex-Presidential-privileges/56-781552) · `en`
+
+Former President Mahinda Rajapaksa was seen leaving his official residence located at Wijerama Road in Colombo 7 yesterday
+
+Former President Mahinda Rajapaksa yesterday vacated his official residence in Colombo and moved back to his private home in Carlton, Tangalle, following the passage of new legislation that repeals longstanding perks for ex-Presidents.
+
+On Wednesday, Parliament voted 151–1 in favour of the Presidents’ Entitlement (Repeal) Act, No. 18 of 2025, a flagship pre-election pledge of the ruling National People’s Power (NPP) Government. The law repeals the Presidents’ Entitlement Act, No. 4 of 1986, which provided former Presidents and their widows with official residences, staff, vehicles, and other privileges.
+
+As he departed his Colombo residence, Rajapaksa made a brief statement to the media: “We were asked to leave, so we’re leaving.” When asked if he would exit politics, the former President replied that he had no intention of stepping away.
+
+...
+
+[Data](articles/b23daaca.json)
+
+---
+
+### SC allows petition over MR’s unpaid Rs. 2.6 m electricity bill
+
+*2025-09-12 05:47:33* · [`dailyftlk`](https://www.ft.lk/news/SC-allows-petition-over-MR-s-unpaid-Rs-2-6-m-electricity-bill/56-781551) · `en`
+
+The Supreme Court (SC) yesterday granted leave to proceed with a Fundamental Rights petition seeking an order compelling the Ceylon Electricity Board (CEB) to produce records on an alleged unpaid electricity bill of Rs. 2.6 million linked to former President Mahinda Rajapaksa’s residence in Weeraketiya.
+
+The petition states that MP Namal Rajapaksa’s wedding on 12 September 2019, and subsequent receptions at the Weeraketiya residence, gave rise to the disputed bill.
+
+The Supreme Court allowed the case to proceed, with the petitioner alleging a violation of Fundamental Rights under Article 12(1) of the Constitution.
+
+The petition names the CEB, its Chairman, the Auditor General, former Power and Energy Minister Kanchana Wijesekera, Mahinda Rajapaksa, Namal Rajapaksa, MP D.V. Chanaka, and others as Respondents.
+
+◼️
+
+[Data](articles/bba764bc.json)
+
+---
+
+### Netherlands steps up support for rural bridges project with additional € 730,000 grant
+
+*2025-09-12 05:47:14* · [`dailyftlk`](https://www.ft.lk/news/Netherlands-steps-up-support-for-rural-bridges-project-with-additional-730-000-grant/56-781550) · `en`
+
+The Netherlands has approved an additional grant of € 730,000 to support Sri Lanka’s Design and Construction of Rural Bridges Project, a flagship initiative aimed at improving rural connectivity and livelihoods.
+
+The fresh funding comes at a critical stage of the Project, which has already achieved 96% physical progress, with 151 of the planned 162 bridges completed as of September 2025. The remaining bridges are scheduled for completion by February 2026, marking the full delivery of a program designed to ease mobility, improve market access, and enhance the quality of life in rural communities across the country.
+
+The Project was originally financed under a € 41.8 million loan agreement with Coöperatieve Rabobank U.A. of the Netherlands, covering 75% of costs. The remaining 25%, amounting to € 13.9 million, was initially funded through a grant from the Netherlands Foreign Investment Bank ‘Invest International.’
+
+...
+
+[Data](articles/0c210969.json)
+
+---
+
+### Fire at Sapugaskanda Refinery contained, no impact on fuel supply: CPC Chief
+
+*2025-09-12 05:46:22* · [`dailyftlk`](https://www.ft.lk/news/Fire-at-Sapugaskanda-Refinery-contained-no-impact-on-fuel-supply-CPC-Chief/56-781549) · `en`
+
+Ceylon Petroleum Corporation (CPC) Chairman D.J. Rajakaruna yesterday confirmed that the fire which broke out on Wednesday evening in an unused crude oil tank at the Sapugaskanda Oil Refinery has been fully brought under control, with no impact on the country’s fuel supply, refinery operations, or distribution network.
+
+Speaking at a media briefing, Rajakaruna explained that preliminary investigations point to sparks from maintenance work as the likely cause of the blaze. The affected tank, with a capacity of 40,000 tons, had not been in operation since 2017.
+
+“It was a crude oil tank which we had stopped using since 2017. From 2018 onwards it underwent maintenance work. At the time of the fire, it didn’t have any crude oil, but there was some residue at the bottom,” he said.
+
+...
+
+[Data](articles/d07cb191.json)
+
+---
+
+### Appeals Court issues notices on Lands, Environment Ministries
+
+*2025-09-12 05:44:03* · [`dailyftlk`](https://www.ft.lk/news/Appeals-Court-issues-notices-on-Lands-Environment-Ministries/56-781548) · `en`
+
+The Appeals Court yesterday issued notices to the Minister of Lands, the Minister of Environment, the Director General of Wildlife, and several others, directing them to file their responses on 28 November to a petition seeking the creation of a National Land Management Policy.
+
+The petition was filed by the Centre for Environmental Justice and was taken up before Justices Dhammika Ganepola and Adithya Patabendi.
+
+The petitioners’ attorney told court that the absence of a comprehensive land management plan has caused serious issues, and that agricultural land, forests, wetlands, and human settlements remain poorly identified and demarcated, leading to environmental challenges and other problems. The Court was also told that as an island with limited land, Sri Lanka urgently needs a framework to maximise land use, stressing that the lack of a national plan undermines both productivity and sustainability targets.
+
+...
+
+[Data](articles/e6d0487e.json)
+
+---
+
+### Police release revised service fees
+
+*2025-09-12 05:43:16* · [`dailyftlk`](https://www.ft.lk/news/Police-release-revised-service-fees/56-781547) · `en`
+
+Sri Lanka Police has announced revised fees for services offered to the public.
+
+A Police Clearance Report for overseas travel or related real-time services will now be issued at Rs. 5,000.
+
+Fees for broadcast permits will depend on usage time: Rs. 500 for up to six hours, Rs. 1,000 for six to 12 hours, and Rs. 2,000 for more than 12 hours.
+
+Divisional Police stations will issue reports required by Middle Eastern countries at Rs. 500, while reports provided by an Officer-in-Charge for domestic purposes will cost Rs. 300.
+
+Police have asked the public to request official receipts for all payments made for these services.
+
+◼️
+
+[Data](articles/62a70383.json)
+
+---
 
 ### Shocking incident in Karandeniya
 
@@ -267,6 +429,64 @@ Subsequently, from November 15 to December 5th, it was agreed to hold a 17 -day 
 [Data](articles/fff68855.json)
 
 [Extended Data](ext_articles/fff68855.ext.json)
+
+---
+
+### LOLC Securities bags Silver at BestWeb.LK 2025
+
+*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/lolc-securities-bags-silver-at-bestweb-lk-2025/) · `en`
+
+LOLC Securities (LOSEC), the stockbroking arm and a fully owned subsidiary of the LOLC Group, has been honored with the Silver Award in the Best Finance & Insurance Website category at the BestWeb.LK 2025 Awards, organized by the LK Domain Registry. This recognition marks a significant milestone in the company’s continuous efforts to strengthen its digital presence and deliver an exceptional online experience for its clients.
+
+BestWeb.LK, Sri Lanka’s premier web design competition since 2009, provides a unique opportunity for local websites to be evaluated against rigorous criteria, rewarding innovation, creativity, and functionality. The competition has become the benchmark for excellence in digital design, offering a space where brands can showcase their identity and technological capabilities in an impactful way.
+
+...
+
+[Data](articles/12eb12cb.json)
+
+---
+
+### Role of digital transformation in SL’s continued aviation sector growth
+
+*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/role-of-digital-transformation-in-sls-continued-aviation-sector-growth/) · `en`
+
+Sri Lanka’s aviation sector is experiencing a strong recovery, recording nearly 10 percent year-on-year passenger growth. Yet, without urgent digital transformation and stronger collaboration among stakeholders, this growth could quickly become a bottleneck, warned SITA Asia Pacific president Sumesh Patel.
+
+Speaking to The Island Financial Review ahead of the SITA IT Aerotech Summit, at ITC Ratnadipa Wednesday which brought together SriLankan Airlines, Airport and Aviation Services (Sri Lanka) Ltd (AASL), Immigration, and Customs. He stressed that aviation is an industry that cannot operate in isolation.
+
+“The first impression of any country is its airport. If Sri Lanka wants to leverage its location and tourism potential, it must make passenger journeys smoother, faster, and more connected, Patel told The Island Financial Review.
+
+...
+
+[Data](articles/46198756.json)
+
+---
+
+### Ambeon Capital increases stake in Ceylon Hotels Corporation; CSE indices decline
+
+*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/ambeon-capital-increases-stake-in-ceylon-hotels-corporation-cse-indices-decline/) · `en`
+
+Ambeon Capital acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.Ambeon Holdings paid between Rs 35.90 and Rs 36.50 per share, CSE sources said.Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake of Ceylon Hotels Corporation PLC for Rs 320 million.
+
+Both CSE indices indicated a downward trend yesterday. The All Share Price Index went down by 127.6 points while the S and P SL20 declined by 40.3 points. Turnover stood at Rs 6.58 billion with 13 crossings. The top seven crossings were reported in Prime Lands where 45.5 million shares crossed to the tune of Rs 1.41 billion; its shares traded at Rs 31, Resus Energy 5.1 million shares crossed to the tune of Rs 213 million; its shares traded at Rs 42.
+
+...
+
+[Data](articles/d8668261.json)
+
+---
+
+### Advocata Institute commends Cabinet decision to close 33 non-operational SOEs and calls for divestiture as the next step
+
+*2025-09-11 21:11:00* · [`islandlk`](http://island.lk/advocata-institute-commends-cabinet-decision-to-close-33-non-operational-soes-and-calls-for-divestiture-as-the-next-step/) · `en`
+
+The Advocata Institute welcomes the decision by the Cabinet of Ministers, on the proposal of President Anura Kumara Dissanayake in his capacity as Minister of Finance, Economic Stabilization and National Policy, to formally close 33 non-operational State-Owned Enterprises (SOEs) under Phase 2 of the government’s state-sector reform program.
+
+The move, to be implemented through a Special Liquidation Unit under the Ministry of Finance, is a first step toward eliminating waste, improving fiscal discipline, and redirecting scarce resources to more productive sectors of the economy.
+
+...
+
+[Data](articles/21da49b8.json)
 
 ---
 
@@ -1789,299 +2009,5 @@ There are also accusations of the cases, businessmen and artists regarding lands
 [Data](articles/9e633314.json)
 
 [Extended Data](ext_articles/9e633314.ext.json)
-
----
-
-### Maithri left the official residence!
-
-*2025-09-11 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224806) · `ta`
-
-Former President Maithripala Sirisena has left his official residence in Hector Kopkaduwa Mawatha, Colombo.
-
-Former President Maithripala Sirisena has left his official residence after the former President's Removal (Removal) Bill was passed on Wednesday (9) by 150 additional votes.
-
-Speaker (Doctor) Jagath Wickramaratne testified yesterday by his signature on the President's Removal (Removal) Bill.. The Bill has been implemented as the Removal of the President No. 18 of 2025, and all the special gifts have been canceled to the former presidents.
-
-◼️
-
-[Data](articles/8a64cc8a.json)
-
-[Extended Data](ext_articles/8a64cc8a.ext.json)
-
----
-
-### The Mahasamil has gone
-
-*2025-09-11 12:37:16* · [`adalk`](https://www.ada.lk/breaking_news/මහසිලුත්-යන්නම-ගිහින්/11-418428) · `si`
-
-Body of Dead (11) was a deceased (11)
-
-Wildlife officials have been found. This is about two and a half feet of the Gross, known as Mahazilu, known as Mahazilu.
-
-The elephants have suspended that the electricity tariff was to save the elephants in Pelwatte Sugar Industry to save the sugar planting elephants.
-
-Post mortem examination on death
-
-WASAD, Assistant Director in charge of the Uva Provincial Council, said that the cause of death is due to be conducted.
-
-◼️
-
-[Data](articles/080034b6.json)
-
-[Extended Data](ext_articles/080034b6.ext.json)
-
----
-
-### Who is this Charlie Kirk?
-
-*2025-09-11 12:32:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/யார்-இந்த-சார்லி-கிர்க்/50-364421) · `ta`
-
-Charlie Kirk, a right -wing supporter, commentator, co -founder of Turning Point USA, who was participating in a question -and -a -launch event with students at Uda University in the United States, was shot dead above all.
-
-Video footage of the event he was assassinated is going viral on the internet. The ruling party and the opposition have condemned the murder of Charlie Kirk. US President Trump has vehemently condemned the incident and said he had been severely suffering from the death of his supporter.
-
-Earlier, Charlie Kirk, who was shot at the show, was immediately taken to the hospital by ambulance, but doctors seem to have said that he was already dead.
-
-The holiday has been announced until the 15th of this month.. The police who caught someone in this regard and released him. The search for the killer is underway.
-
-...
-
-[Data](articles/09e78384.json)
-
-[Extended Data](ext_articles/09e78384.ext.json)
-
----
-
-### Larry Elison on the world's richest list: Elon overtaken the Musk!
-
-*2025-09-11 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/224800) · `ta`
-
-Larry Ellison, the co -founder of Oracle, is the richest person in the world's richest people.. According to the Bloomberg code, Elison's net value has risen than the property value of Elon Musk.
-
-The total net value of 81 -year -old Elison has increased to $ 393 billion due to the rise in the same company shares up to 43 percent.
-
-Following Elison's top spot, Elon Musk fell to second place with US $ 385 billion.
-
-Sudden growth in Oreckle's cloud business has increased the confidence of investors. As a result, the same shares rose to $ 101 billion a day to US $ 947 billion.
-
-Larry Elison has a 41 percent stake in the same company. Most of his wealth comes from the investments of this company.
-
-Elon Musk continued to be the number one list of the world's leading richest people since 2021. Amazon founder Jeff Besos, LVMH president Bernard Arnold, although he sometimes preceded him, Musk came back to number one. However, the big boom in the same stock has now thwarted the domination of Elon Muskin.
-
-...
-
-[Data](articles/9d8462ae.json)
-
-[Extended Data](ext_articles/9d8462ae.ext.json)
-
----
-
-### Netherlands approves grant of EUR 730,000 for rural bridges project in Sri Lanka
-
-*2025-09-11 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112397/netherlands-approves-grant-of-eur-730000-for-rural-bridges-project-in-sri-lanka) · `en`
-
-The Netherlands has approved a grant of EUR 730,000 to support the ongoing Design and Construction of Rural Bridges Project in Sri Lanka, the Ministry of Finance, Planning and Economic Development said in a statement.
-
-This funding will address the project’s additional financing requirements, further strengthening the long standing development cooperation between the two countries, the statement noted further.
-
-The Rural Bridges Project aims to construct 162 rural bridges across Sri Lanka, enhancing mobility, connectivity, and the quality of life in rural communities. As of September 2025, the project has achieved 96% physical progress, with 151 bridges already completed. The construction of all planned bridges is expected to be completed by February 2026, marking the successful conclusion of the project.
-
-The government initially entered into a loan agreement with Coöperatieve Rabobank U.A. of the Netherlands for EUR 41.8 million, covering 75% of the project cost.
-
-...
-
-[Data](articles/c7916168.json)
-
-[Extended Data](ext_articles/c7916168.ext.json)
-
----
-
-### Great points of invading Mahinda house
-
-*2025-09-11 12:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-வீட்டுக்கு-படையெடுக்கும்-பெரும்-புள்ளிகள்/175-364418) · `ta`
-
-Former President Mahinda Rajapaksa has reportedly vacated his official residence in Wijerama Road, Colombo today.
-
-Under the rules of the President's Rights Act, the residents allocated to the former presidents must be returned to the government.
-
-Following the Bill passed in Parliament yesterday (10), Rajapakse, who lives in official settlements, lost this right.
-
-◼️
-
-[Data](articles/a26af5d6.json)
-
-[Extended Data](ext_articles/a26af5d6.ext.json)
-
----
-
-### Politicians and foreign representatives who met Mahinda
-
-*2025-09-11 12:08:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-அரசியல்வாதிகள்-வெளிநாட்டு-பிரதிநிதிகள்-குழு/175-364418) · `ta`
-
-Former President Mahinda Rajapaksa has reportedly vacated his official residence in Wijerama Road, Colombo today.
-
-Under the rules of the President's Rights Act, the residents allocated to the former presidents must be returned to the government.
-
-Following the Bill passed in Parliament yesterday (10), Rajapakse, who lives in official settlements, lost this right.
-
-◼️
-
-[Data](articles/db251d1b.json)
-
-[Extended Data](ext_articles/db251d1b.ext.json)
-
----
-
-### Powder Menike Railway Track; Mountain Rail Services delayed
-
-*2025-09-11 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224798) · `ta`
-
-Railway department officials said that hill station services have been delayed due to the derailment of Powder Menik.
-
-At 08:50 am, the Powder Menige Express Train (No. 1006) derailed from Badulla to Kandy and Colombo Fort.
-
-Accordingly, the train derailed between the Badulla and Holly Ela railway stations at 09:10 am. It has been announced that the train services will be delayed.
-
-The trains that are planned to cross the station can also be operated late.
-
-◼️
-
-[Data](articles/0d00e889.json)
-
-[Extended Data](ext_articles/0d00e889.ext.json)
-
----
-
-### Notice notice to several government parties including ministers
-
-*2025-09-11 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214437) · `si`
-
-The Appeal the Land Minister and the Minister of Lands issued to a number of people including the Minister of Environment on November 28.
-
-The petition was called before the Court of Appeal of Dhammika Ganepola and Alida Panepola and Adeddi Patithpola.
-
-Attorney-at-Law Ravindranan Dabare, who appeared in behalf of the petitioner, has said that a national plan in land management in the country has been implemented in the country.
-
-The lawyer has pointed out that as well as many other crises, as well as their limitations should be identified as well as the land, as well as their limitations for agricultural activities, forests, marsh and settlements in Sri Lanka have emerged properly.
-
-Therefore, the lawyer has pointed out that it is unable to benefit from the land of this country.
-
-The lawyer has pointed out that it is essential to achieve the most important activities of the land in Sri Lanka, a island state.
-
-...
-
-[Data](articles/b9cd4b8a.json)
-
-[Extended Data](ext_articles/b9cd4b8a.ext.json)
-
----
-
-### Police SI arrested on suspicion of maintaining close ties with ‘Kehelbaddara Padme’
-
-*2025-09-11 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112395/police-si-arrested-on-suspicion-of-maintaining-close-ties-with-kehelbaddara-padme) · `en`
-
-A Sub-Inspector of Police has been arrested on suspicion of maintaining close ties with ‘Kehelbaddara Padme’, a known member of an organized criminal gang.
-
-According to Police Media Spokesman Assistant Superintendent of Police (ASP) F.U. Wootler, the suspect, was taken into custody by officers of the Criminal Investigation Department (CID).
-
-The arrested Sub-Inspector is reported to be attached to the Gampaha Division’s Crime Investigation Unit, the spokesperson confirmed.
-
-Following the recent extradition of ‘Kehelbaddara Padme’ and four other criminal gang members from Indonesia, the CID has been interrogating the suspects.
-
-Based on revelations made during those interrogations, the Sub-Inspector in question was identified and subsequently taken into custody.
-
-◼️
-
-[Data](articles/dd7a11a2.json)
-
-[Extended Data](ext_articles/dd7a11a2.ext.json)
-
----
-
-### SI arrested in connection with Padme
-
-*2025-09-11 11:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பத்மேவுடன்-தொடர்புடைய-SI-கைது/175-364416) · `ta`
-
-A Sub-Inspector has been arrested by the CITar on charges of allegedly involved in the alleged involvement with the Underworld Group Chairman Kehelpathara Padme.
-
-Investigations revealed that the officer had maintained close contact with Padme, who was recently deported from Indonesia.
-
-◼️
-
-[Data](articles/432e125b.json)
-
-[Extended Data](ext_articles/432e125b.ext.json)
-
----
-
-### Police threw the shooting attempt; Five arrests!
-
-*2025-09-11 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224793) · `ta`
-
-Police have arrested five suspects for thwarting a planned firing attempt in Kaluppitti and Maligawatte areas.
-
-The Kaluppitti police have raided two suspects on a motorcycle on Wednesday night (10) at Albert Road, Kaluppitti.
-
-At this time, a suspect threw the bag he had holding and fled the area.
-
-Police have seized a R-56 rifle, 30 bullets, knives and three mobile phones from the thrown bag.
-
-Following the information provided by the arrested suspect, three persons, including the suspect who escaped by police, have been arrested in the Bodhiraja Mawatha area in Maligawatta.
-
-At the same time, when the suspects were arrested, 18 grams of ice, a motorcycle and 2 mobile phones were seized.
-
-Investigations have revealed that the arrested suspects were aged 19, 25, 40 and 48, from Colombo 14, Wellampitiya, Maligawatte and Dematagoda.
-
-Investigations have found that on the orders of a underworld gang living abroad, they went to the firing.
-
-◼️
-
-[Data](articles/bd3dd44d.json)
-
-[Extended Data](ext_articles/bd3dd44d.ext.json)
-
----
-
-### Sri Lanka’s Ambeon Capital ups stake in Ceylon Hotels Corporation
-
-*2025-09-11 11:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-ups-stake-in-ceylon-hotels-corporation-240164/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ambeon Capital said it had acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.
-
-Ambeon Holdings paid between 35.90 to 36.50 rupees per share, the company said in a stock exchange filing.
-
-Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake, of Ceylon Hotels Corporation PLC for 320 million rupees.
-
-Sri Lanka’s Ambeon Capital buys 6.8-pct of Ceylon Hotels Corporation
-
-Ceylon Hotels Corporation stock was trading down 1.20 rupees at 36.60. (Colombo/Sep11/2025)
-
-◼️
-
-[Data](articles/96257661.json)
-
-[Extended Data](ext_articles/96257661.ext.json)
-
----
-
-### Sri Lanka’s Ambeon Capital buys 3.95-pct of Ceylon Hotels Corporation
-
-*2025-09-11 11:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-buys-3-95-pct-of-ceylon-hotels-corporation-240164/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ambeon Capital said it had acquired 3.95 percent of the ordinary voting shares of Ceylon Hotels Corporation, increasing its stake to 10.79 percent.
-
-Ambeon Holdings paid between 35.90 to 36.50 rupees per share, the company said in a stock exchange filing.
-
-Last month Ambeon Capital bought 12,310,543 shares, or a 6.8 percent stake, of Ceylon Hotels Corporation PLC for 320 million rupees.
-
-Sri Lanka’s Ambeon Capital buys 6.8-pct of Ceylon Hotels Corporation
-
-Ceylon Hotels Corporation stock was trading down 1.20 rupees at 36.60. (Colombo/Sep11/2025)
-
-◼️
-
-[Data](articles/d710d1a2.json)
-
-[Extended Data](ext_articles/d710d1a2.ext.json)
 
 ---

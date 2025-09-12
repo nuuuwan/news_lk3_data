@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 22:08:48**
+As of **2025-09-12 23:20:23**
 
 ## Newspaper Stats
 
-*Scraped **75,632** Articles*
+*Scraped **75,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,83 @@ adalk | 7,346
 adaderanalk | 9,716
 tamilmirrorlk | 11,305
 virakesarilk | 12,321
-adaderanasinhalalk | 13,182
+adaderanasinhalalk | 13,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,886 (91.1%) of 75,632 articles have been extended.
+68,943 (91.2%) of 75,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### Floods for Japan
+
+*2025-09-12 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214502) · `si`
+
+Floods have been caused by heavy rainfall in many parts of Tokyo.
+
+Foreign media reports that one person was killed and another injured due to the collapse of several containers who had been launched due to heavy winds.
+
+Tokyo's transport services are also hampered by heavy rainfall.
+
+The railway service was also temporarily suspended and 100,000 people were affected by foreign media.
+
+In the next few days, some areas of Tokyo are capable of over 100 mm of rainfall.
+
+◼️
+
+[Data](articles/ddfed5b7.json)
+
+[Extended Data](ext_articles/ddfed5b7.ext.json)
+
+---
+
+### Prime Minister solutions to university academic problems
+
+*2025-09-12 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214501) · `si`
+
+A discussion was held at the Prime Minister Dr. Harini Amarasuriya, chaired by the Prime Minister Dr. Harini Amarasuriya.
+
+The trade union representatives have fallen as a percentage of the salary ratio of them, the MCA allowance, 20% allowance has been discussed at length to the 20% allowance.
+
+The program should be solved at 20% to $ 11% in parallel to the implementation of the implementation of the existing salaries.
+
+They have said that their salary has increased in a high percentage of public servants and that it has been a high percentage in a few years.
+
+In addition, the MCA allowance, 20% allowance and the departmental departmental departmental departmental departmental representatives have been discussed with the departmental department of Political Authority and Overtime calculations.
+
+It is also emphasized at the time of the shortage of non-academic staff and not taking steps to recruit.
+
+...
+
+[Data](articles/64aa8a21.json)
+
+[Extended Data](ext_articles/64aa8a21.ext.json)
+
+---
+
+### Workshop to educate public executives on artificial intelligence
+
+*2025-09-12 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214500) · `si`
+
+Another workshop on behalf of government executives was held at Temple Trees this morning to convert the public service effective and efficient service.
+
+The workshop organized by the Digital Economic Ministry with the assistance of the Presidential Secretariat, with the assistance of the Presidential Secretariat, was organized by the Presidential Secretariat with the assistance of the Presidential Secretariat.
+
+The workshop has been organized with the objective of educating public officers as a initial approach to digitizing public service.
+
+Secretary to the Presidential Secretary Dr. Nandika Sanath said that the public service should be prepared to be prepared and the existing public service should change.. The Presidential Secretary added that the public should be paid to the public to provide more efficient services to the people using artificial intelligence to win the challenge of gaining public confidence in the public service.
+
+...
+
+[Data](articles/9c5873ab.json)
+
+[Extended Data](ext_articles/9c5873ab.ext.json)
+
+---
 
 ### Charlie Kark's killer arrested
 
@@ -2011,65 +2077,5 @@ The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.
 [Data](articles/c0ecd6af.json)
 
 [Extended Data](ext_articles/c0ecd6af.ext.json)
-
----
-
-### China to provide Sri Lanka’s full requirement of school uniforms for 2026
-
-*2025-09-12 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112421/china-to-provide-sri-lankas-full-requirement-of-school-uniforms-for-2026) · `en`
-
-The Chinese government has agreed to provide the full requirement of school uniform material required for 4,418,404 government and government-aided school students in Sri Lanka for the year 2026 as a grant.
-
-An official ceremony to exchange the relevant certificates of agreement was held yesterday (11) at the Ministry of Education premises in Battaramulla.
-
-The event was held under the patronage of the Deputy Minister of Education and Higher Education, Dr. Madura Seneviratne, and the Chinese Ambassador to Sri Lanka, Qi Zhenhong.
-
-During the ceremony, the exchange of certificates confirming the provision of uniform material for 2026 took place between the Secretary to the Ministry of Education, Nalaka Kaluwewa, and Ambassador Qi Zhenhong.
-
-Speaking at the event, Deputy Minister of Education and Higher Education Dr. Madura Seneviratne said:
-
-...
-
-[Data](articles/7405d01b.json)
-
-[Extended Data](ext_articles/7405d01b.ext.json)
-
----
-
-### It is not our responsibility to exclude children from technology: Prime Minister Harini advises adults
-
-*2025-09-12 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224872) · `ta`
-
-It is not our responsibility to exclude children from technology, but it is our responsibility to guide them to use it intelligently and constructively, ”said Dr. Harini Amarasuriya, Minister of Education, Higher Education and Vocational Education and Prime Minister.
-
-Harini Amarasuriya was the chief guest at the launch of the "STE FEED" in the ITC Ratnadeep Hotel, Colombo on Thursday (September 11) at the launch of the "STE FEED" in the Tiktok Social Weather.
-
-In a world based on digital technology, this opportunity is an important milestone to expand the opportunity to teach the country's youth in the country's youth, by creating a background for education, sharing of knowledge and strengthening education through Tiktok.
-
-He emphasized the government's initiative to establish a functioning processed by educators, scholars, scholars, technicians, child protection consultants and private sector partners to introduce equal access to equal access to the future.
-
-...
-
-[Data](articles/af242ec6.json)
-
-[Extended Data](ext_articles/af242ec6.ext.json)
-
----
-
-### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
-
-*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
-
-Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
-
-This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
-
-Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
-
-...
-
-[Data](articles/c2383c73.json)
-
-[Extended Data](ext_articles/c2383c73.ext.json)
 
 ---

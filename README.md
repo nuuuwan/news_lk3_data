@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 17:05:50**
+As of **2025-09-12 16:53:36**
 
 ## Newspaper Stats
 
-*Scraped **75,595** Articles*
+*Scraped **75,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,21 @@ economynextcom | 4,584
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,338
+adalk | 7,336
 adaderanalk | 9,711
-tamilmirrorlk | 11,301
+tamilmirrorlk | 11,300
 virakesarilk | 12,317
-adaderanasinhalalk | 13,170
+adaderanasinhalalk | 13,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,598 (90.7%) of 75,595 articles have been extended.
+68,595 (90.7%) of 75,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### ඉන්දුනීසියාවේ ගංවතුරින් මියගිය සංඛ්‍යාව තවත් ඉහළට
-
-*2025-09-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214487) · `si`
-
-ඉන්දුනීසියාවේ බාලි දූපත්වලට බලපා ඇති අයහපත් කාලගුණ තත්ත්වයත් සමඟ ඇති වු ගංවතුරින් මියගිය පුද්ගලයින් සංඛ්‍යාව 16 දෙනෙකු දක්වා ඉහළ ගොස් තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කළේ තවත් පුද්ගලයින් දෙදෙනෙකු ගංවතුරට ගාසා ගෙන ගොස් අතුරුදන්ව ඇති අතර ඔවුන් සොයා මෙහෙයුම් ආරම්භ කර ඇති බවය.
-
-එමෙන්ම ආපදා හේතුවෙන් බලපෑමට ලක්ව සිටි පුද්ගලයින් 562 දෙනෙකු ආරක්ෂිත ස්ථාන වෙත යොමු කිරීමට ද එරට ආපදා කළමණාකරණ අංශ කටයුතු කර ඇත.
-
-වැසි තත්ත්වය ක්‍රමයෙන් පහව ගිය ද කාලගුණික නිවේදන සම්බන්ධයෙන් අවධානයෙන් සිටින ලෙස ඉන්දුනීසියානු කාලගුණික අංශ ජනතාවට දැනුම්දීමක් කර තිබේ.
-
-◼️
-
-[Data](articles/fc1462fa.json)
-
----
-
-### ரயிலில் மோதி வயோதிபர் மரணம்
-
-*2025-09-12 16:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-வயோதிபர்-மரணம்/175-364470) · `ta`
-
-காலியில் மெதம்பாகம பிரதேசத்தில் உள்ள ரயில் கடவையில் நேற்று மாலை ரயிலில் மோதி வயோதிபர் உயிரிழந்துள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
-
-உயிரிழந்தவர் காலி - பூஸா பிரதேசத்தைச் செர்ந்த 68 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d0c8708d.json)
-
----
-
-### අට දෙනෙක් ගමන් කළ ත්‍රීරෝද රථ අනතුරක
-
-*2025-09-12 16:19:15* · [`adalk`](https://www.ada.lk/breaking_news/අට-දෙනෙක්-ගමන්-කළ-ත්‍රීරෝද-රථ-අනතුරක/11-418456) · `si`
-
-නොර්වූඩ් ප්‍රධාන මාර්ගයේ ප්‍රමාණය ඉක්මවා පාසල් සිසුන් ප්‍රවාහනය කරන ලද ත්‍රී රෝද රථයක් සහ මෝටර් රථයක් අනතුරට ලක් වී පාසල් සිසුවෙක් සහ  ත්‍රී රෝද රථයේ රියදුරු රෝහල්ගත කරයි .
-
-අද (12) උදෑසන මෙම අනතුර සිතුවී ඇත්තේ හැටන් නොර්වූඩ් ප්‍රධාන මාර්ගයේ නවවැලිගම ප්‍රදේශයේදීය ,
-
-අද උදෑසන  7.45ට  පමණ පාසල් ළමුන් ප්‍රවාහනය කරන තීරෝද  රථයක් දියසිරිගම ප්‍රදේශයේ සිට නොර්වූඩ් දෙමළ මහා විද්‍යාලයට පාසල් ළමුන් ප්‍රවාහන  කරමින් සිටියදී   නව වැලිගම ප්‍රදේශයේදී  නොර්වූඩ්  ප්‍රදේශයේ සිට හැටන් දක්වා ධාවනය වූ මෝටර් රථයක ගැටීමෙන්ය  අනතුර සිදුවී තිබිණ ,
-
-අනතුර සිදුවන අවස්ථාවේදී ත්‍රී රෝද රථය තුළ  පාසල් ළමුන්  හය දෙනෙක් සහ  එක් ගුරුවරයෙක්  සමග  අට දෙනෙක්  සිටි අතර මෝටර් රථය තුළ  රියදුරු පමණක්  සිට ඇත  මෝටර් රථය ධාවනය කර ඇත්තේ  කාන්තාවක්ය ,
-
-නොර්වූඩ් පොලිසිය පවසා සිටියේ ත්‍රී රෝද රථයේ පමණට ඉක්මවා මගින්  ධාවනය කර ඇති බවයි ,සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන කටයුතු නෝර්වුඩ්  පොලිසිය විසින් සිදු කරනු ලබයි .
-
-◼️
-
-[Data](articles/55a3aa44.json)
-
----
-
-### කටුනායකට ගුවනින් ආපු සර්පයෝ
-
-*2025-09-12 16:13:56* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ගුවනින්-ආපු-සර්පයෝ/11-418455) · `si`
-
-වනජීවී සහ වෘක්ෂලතා ආඥා පනතේ වගන්ති සහ සයිටිස් ( CITES ) සම්මුතියේ වගන්ති උල්ලංඝනය කරමින් , නීතිවිරෝධී ලෙස සර්පයන් 06 දෙනෙකු රැගෙන විත් කටුනායක ගුවන් තොටුපොළ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ පිට කර ගෙන යාමට තැත් කළ ගුවන් මගී කාන්තාවක් 09/11 දින රාත්‍රී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් සහ ජෛව විවිධත්ව සංස්කෘතික සහ ජාතික උරුමයන් ආරක්ෂණ අංශයේ නිලධාරීන් පිරිසක් විසින් තමන් වෙත ලැබී තිබූ බුද්ධි තොරතුරු මත අත් අඩංගුවට ගෙන තිබේ .
-
-ඇය කොළඹ , කෙසෙල්වත්ත ප්‍රදේශයේ පදිංචි 40 හැවිරිදි ව්‍යාපාරික කාන්තාවකි. ඇය මෙම සර්පයන් තායිලන්තයේ බැංකොක් නුවරින් මිළදී ගෙන , ඉන්දියාවේ චෙන්නායි නුවර වෙත පැමිණ , එතැන් සිට ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ.- 1173 දරන ගුවන් යානයෙන් 09/11 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-...
-
-[Data](articles/df2b6032.json)
-
----
 
 ### President and construction industry meet with stakeholders
 
@@ -2013,5 +1947,81 @@ US Ambassador Julie Chung Julie Cung (South Asia) Emily Ashby (South and Central
 [Data](articles/24036f71.json)
 
 [Extended Data](ext_articles/24036f71.ext.json)
+
+---
+
+### EFC National Best Employer Awards 2025
+
+*2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
+
+Employers’ Federation of Ceylon has launched Sri Lanka’s first-ever ‘National Best Employer Awards’ – celebrating organisational excellence and human-centred leadership.
+
+At a time when Sri Lanka is rediscovering its strength and optimism, the Employers’ Federation of Ceylon (EFC) has announced the launch of the inaugural EFC National Best Employer Awards 2025. This landmark initiative comes at a pivotal moment in the nation’s journey, as organisations and communities embrace resilience, innovation, and purpose.
+
+The awards represent a national movement to honour organisations that redefine what it means to be truly great employers—entities that go beyond profit to create workplaces where people thrive, communities are uplifted, and values are lived with purpose. The program will recognise those who champion holistic wellbeing while driving sustainable business practices and meaningful social impact.
+
+...
+
+[Data](articles/85f23252.json)
+
+[Extended Data](ext_articles/85f23252.ext.json)
+
+---
+
+### Rajapaksa vacates official residence after Parliament strips ex-Presidential privileges
+
+*2025-09-12 05:48:39* · [`dailyftlk`](https://www.ft.lk/news/Rajapaksa-vacates-official-residence-after-Parliament-strips-ex-Presidential-privileges/56-781552) · `en`
+
+Former President Mahinda Rajapaksa was seen leaving his official residence located at Wijerama Road in Colombo 7 yesterday
+
+Former President Mahinda Rajapaksa yesterday vacated his official residence in Colombo and moved back to his private home in Carlton, Tangalle, following the passage of new legislation that repeals longstanding perks for ex-Presidents.
+
+On Wednesday, Parliament voted 151–1 in favour of the Presidents’ Entitlement (Repeal) Act, No. 18 of 2025, a flagship pre-election pledge of the ruling National People’s Power (NPP) Government. The law repeals the Presidents’ Entitlement Act, No. 4 of 1986, which provided former Presidents and their widows with official residences, staff, vehicles, and other privileges.
+
+As he departed his Colombo residence, Rajapaksa made a brief statement to the media: “We were asked to leave, so we’re leaving.” When asked if he would exit politics, the former President replied that he had no intention of stepping away.
+
+...
+
+[Data](articles/b23daaca.json)
+
+[Extended Data](ext_articles/b23daaca.ext.json)
+
+---
+
+### SC allows petition over MR’s unpaid Rs. 2.6 m electricity bill
+
+*2025-09-12 05:47:33* · [`dailyftlk`](https://www.ft.lk/news/SC-allows-petition-over-MR-s-unpaid-Rs-2-6-m-electricity-bill/56-781551) · `en`
+
+The Supreme Court (SC) yesterday granted leave to proceed with a Fundamental Rights petition seeking an order compelling the Ceylon Electricity Board (CEB) to produce records on an alleged unpaid electricity bill of Rs. 2.6 million linked to former President Mahinda Rajapaksa’s residence in Weeraketiya.
+
+The petition states that MP Namal Rajapaksa’s wedding on 12 September 2019, and subsequent receptions at the Weeraketiya residence, gave rise to the disputed bill.
+
+The Supreme Court allowed the case to proceed, with the petitioner alleging a violation of Fundamental Rights under Article 12(1) of the Constitution.
+
+The petition names the CEB, its Chairman, the Auditor General, former Power and Energy Minister Kanchana Wijesekera, Mahinda Rajapaksa, Namal Rajapaksa, MP D.V. Chanaka, and others as Respondents.
+
+◼️
+
+[Data](articles/bba764bc.json)
+
+[Extended Data](ext_articles/bba764bc.ext.json)
+
+---
+
+### Netherlands steps up support for rural bridges project with additional € 730,000 grant
+
+*2025-09-12 05:47:14* · [`dailyftlk`](https://www.ft.lk/news/Netherlands-steps-up-support-for-rural-bridges-project-with-additional-730-000-grant/56-781550) · `en`
+
+The Netherlands has approved an additional grant of € 730,000 to support Sri Lanka’s Design and Construction of Rural Bridges Project, a flagship initiative aimed at improving rural connectivity and livelihoods.
+
+The fresh funding comes at a critical stage of the Project, which has already achieved 96% physical progress, with 151 of the planned 162 bridges completed as of September 2025. The remaining bridges are scheduled for completion by February 2026, marking the full delivery of a program designed to ease mobility, improve market access, and enhance the quality of life in rural communities across the country.
+
+The Project was originally financed under a € 41.8 million loan agreement with Coöperatieve Rabobank U.A. of the Netherlands, covering 75% of costs. The remaining 25%, amounting to € 13.9 million, was initially funded through a grant from the Netherlands Foreign Investment Bank ‘Invest International.’
+
+...
+
+[Data](articles/0c210969.json)
+
+[Extended Data](ext_articles/0c210969.ext.json)
 
 ---

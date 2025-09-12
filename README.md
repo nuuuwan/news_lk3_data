@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 19:55:28**
+As of **2025-09-12 19:09:47**
 
 ## Newspaper Stats
 
-*Scraped **75,622** Articles*
+*Scraped **75,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,99 +16,61 @@ economynextcom | 4,588
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,343
-adaderanalk | 9,715
+adalk | 7,342
+adaderanalk | 9,714
 tamilmirrorlk | 11,303
-virakesarilk | 12,321
-adaderanasinhalalk | 13,178
+virakesarilk | 12,318
+adaderanasinhalalk | 13,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,711 (90.9%) of 75,622 articles have been extended.
+68,694 (90.8%) of 75,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### நாம் இன்று எதை ஒன்றாகக் கட்டியெழுப்புகிறோமோ அதுவே பாதுகாப்பிற்கான அடித்தளம் - அமெரிக்கத் தூதுவர் ஜுலீ சங்
-
-*2025-09-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224947) · `ta`
-
-நாம் இன்று எதை ஒன்றாகக் கட்டியெழுப்புகிறோமோ, அதுவே நாளைய எமது பகிரப்பட்ட பாதுகாப்பிற்கான அடித்தளமாகும் என இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜுலீ சங் தெரிவித்தார்.
-
-இந்தோ-பசிபிக் பிராந்தியத்தில் சிறந்து விளங்குவதையும், பங்காண்மையினையும் உறுதிப்படுத்துவதில் அமெரிக்கா கொண்டுள்ள உறுதிப்பாட்டினை எடுத்துக்காட்டும் Pacific Angel 2025 இலங்கையில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றும் போதே இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜுலீ சங் மேற்கண்டவாறு தெரிவித்தார்.
-
-Pacific Angel 2025 பயிற்சி நடவடிக்கை வெற்றிகரமாக நிறைவடைந்ததை இலங்கை விமானப் படை மற்றும் பாதுகாப்பு அமைச்சு ஆகியவற்றுடன் இணைந்து, இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் கொண்டாடியது.
-
-இவ்வருடம் இலங்கையில் நடாத்தப்பட்ட மிகப்பெரிய பன்னாட்டு பயிற்சியினைக் கொண்டாடுவதற்காக அதில் பங்குபற்றியோருடன், அமெரிக்கத் தூதுவர் ஜுலீ சங், பாதுகாப்புச் செயலாளரான (ஓய்வு பெற்ற) எயார் வைஸ் மார்ஷல் சம்பத் துயகொன்த மற்றும் இலங்கை விமானப் படைத் தளபதி எயார் மார்ஷல் வாசு பந்து எதிரிசிங்க ஆகியோர் இணைந்து கொண்டனர்.
-
-...
-
-[Data](articles/4b168a4b.json)
-
----
-
-### 86 killed in ancient boat
-
-*2025-09-12 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214495) · `si`
-
-Foreign media reports that at least 86 persons have died due to the accident.
-
-However, the cause of the accident is yet to be revealed.
-
-◼️
-
-[Data](articles/1d0fd3d6.json)
-
-[Extended Data](ext_articles/1d0fd3d6.ext.json)
-
----
-
-### The date for the annual celebration of the UNP was marked
+### ஐ.தே.கட்சியின் ஆண்டு விழாவுக்கு திகதி குறிக்கப்பட்டது
 
 *2025-09-12 18:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-ஆண்டு-விழாவுக்கு-திகதி-குறிக்கப்பட்டது/175-364472) · `ta`
 
-The 79th anniversary of the United National Party is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on the 20th.
+ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை எதிர்வரும் 20ஆம் திகதி காலை 9 மணிக்கு  ஸ்ரீஜயவர்த்தனபுர கோட்டையில் அமைந்துள்ள மோனார்க் இம்பீரியல் ஹோட்டலில் நடத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
 
-The meeting was held yesterday under the leadership of UNP leader and former president Ranil Wickremesinghe.
+ஐக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான  ரணில் விக்ரமசிங்க தலைமையில் நேற்று இடம்பெற்ற கலந்துரையாடலிலேயே இவ்வாறு தீர்மானிக்கப்பட்டுள்ளது.
 
-While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
+ஐக்கிய தேசிய கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா ஏற்கனவே 6ஆம் திகதி நடத்துவதற்கு தீர்மானித்திருந்த நிலையில்,  கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உடல் ஆரோக்கியத்தை கருத்தில் கொண்டு கட்சியின் முகாமைத்துவ குழு, விழாவை ஒத்திவைப்பதற்கு தீர்மானித்திருந்தது.
 
-Accordingly, the postponement of the United National Party (UNP) is scheduled to be held on the 20th of this month.. Remble
+அதன் பிரகாரம் ஒத்திவைக்கப்பட்டுள்ள ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை  எதிர்வரும் 20ஆம் திகதி நடத்துவதற்கு  தீர்மானிக்கப்பட்டுள்ளது. R
 
 ◼️
 
 [Data](articles/326b66cc.json)
 
-[Extended Data](ext_articles/326b66cc.ext.json)
-
 ---
 
-### A large number of suspects arrested with police station
+### පොලිස් හදිසි වැටලීමකින් මත්ද්‍රව්‍ය සම්බන්ධ සැකකරුවන් රැසක් අත්අඩංගුවට
 
 *2025-09-12 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214494) · `si`
 
-Police said that 3,017 suspects were arrested from the 5th to 11th to 11th of the 11th of the month of police.
+සුළු, මධ්‍ය හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විසින් සිදුකරන ලද විශේෂ මෙහෙයුම් මගින් පසුගිය 05 වැනිදා සිට 11 වැනිදා දක්වා සැකකරුවන් 3,017ක් අත්අඩංගුවට ගත් බව පොලීස පවසයි.
 
-The police said that 3,018 raids were arrested by 3,018 raids.
+නිවේදනයක් නිකුත් කරමින් පොලීසිය පැවසුවේ වැටලීම් 3,018ක් මගින් අදාළ සැකකරුවන් අත්අඩංගුවට ගත් බවය.
 
-The highest raid was carried out and the number of raids were 1,014 and the number of suspects were 1,014 suspects.
+එහිදී වැඩිම වැටලීම් ප්‍රමාණයක් සිදුකර ඇත්තේ හෙරොයින් සම්බන්ධ වැටලීම් වන අතර එම වැටලීම් ගණන 1,014ක් වන අතර එහිදී අත්අඩංගුවට ගෙන ඇති සැකකරුවන් ගණනද 1,014කි.
 
-1,031 Ice raids were carried out and the number of suspects was 1,030.
+එමෙන්ම අයිස් සම්බන්ධ වැටලීම් 1,031ක් සිදුකර ඇති අතර එහිදී අත්අඩංගුවට ගෙන ඇති සැකකරුවන් සංඛ්‍යාව 1,030කි.
 
-Police have also taken into custody over more than 1kg of ice and 2kg of ice in these raids.
+මෙම වැටලීම්වලදී හොරයින් කිලෝ 1යි ග්‍රෑම් 618කට වැඩි ප්‍රමාණයක්ද අයිස් කිලෝ 2යි ග්‍රෑම් 156කට වැඩි ප්‍රමාණයක් පොලිස් භාරයට ගැනීමටද පොලීසිය කටයුතු කර තිබේ.
 
-Police have also seized 8,260 drugs and 48 suspects were taken into custody.
+තවද මෙම විශේෂ වැටලීම්වලදී මත්පෙති 8,260ක්ද පොලිස් භාරයට ගෙන ඇති අතර ඒ සම්බන්ධ සැකකරුවන් 48 දෙනෙකුට පොලිස් අත්අඩංගුවට ගෙන තිබේ.
 
-A large number of suspects arrested in police station arrested by poornima
+පොලීසියේ හදිසි වැටලීමකින් මත්ද්‍රව්‍ය සම්බන්ධ සැකකරුවන් රැසක් අත්අඩංගුවට  by  poornima
 
 ◼️
 
 [Data](articles/88fc5ab9.json)
-
-[Extended Data](ext_articles/88fc5ab9.ext.json)
 
 ---
 
@@ -149,58 +111,6 @@ CP Radhakrishnan was sworn in today in the presence of President Moormu in Rasht
 [Data](articles/cbe189d7.json)
 
 [Extended Data](ext_articles/cbe189d7.ext.json)
-
----
-
-### பருத்தித்துறை துறைமுக அபிவிருத்தி குறித்த ஆய்வினை மேற்கொண்ட இந்திய குழு
-
-*2025-09-12 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224944) · `ta`
-
-இந்திய அரசின் மீன்வளம், கால்நடை வளர்ப்பு மற்றும் பால்வளத்துறை அமைச்சின் கீழ் இயங்கும் ஒரு முன்னணி நிறுவனமான, மத்திய கடலோரப் பொறியியல் மற்றும் மீன்வள நிறுவனத்தைச் சேர்ந்த நான்கு பேர் கொண்ட குழுவினர், கடந்த 8 முதல் 12 வரை இலங்கைக்கு விஜயம் செய்தனர். இந்த விஜயம், வடக்கு மாகாணத்தில் முன்மொழியப்பட்ட பருத்தித்துறை மீன்பிடி துறைமுகத்தின் அபிவிருத்தி குறித்து முதற்கட்ட ஆய்வுகளை மேற்கொள்வதில் கவனம் செலுத்தியதாக கொழும்பிலுள்ள இந்திய உயர்ஸ்தானிகரகம் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/1e19399b.json)
-
----
-
-### ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு விழா செப்டம்பர் 20ஆம் திகதி
-
-*2025-09-12 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224943) · `ta`
-
-ஐக்கிய தேசிய கட்சியின் 79 ஆவது ஆண்டு நிறைவு விழா கடந்த 6ஆம் திகதி இடம்பெற  இருந்த நிலையில்  அது ஒத்திவைக்கப்பட்டு, தற்போது எதிர்வரும் 20ஆம் திகதி சனிக்கிழமை காலை 9 மணிக்கு  ஸ்ரீஜயவர்த்தனபுர கோட்டையில் அமைந்துள்ள மோனார்க் இம்பீரியல் ஹோட்டலில் நடத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
-
-ஐக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான  ரணில் விக்ரமசிங்க தலைமையில் 11ஆம் திகதி வியாழக்கிழமை கொழும்பில் அமைந்துள்ள அவரது அரசியல் காரியாலயத்தில் இடம்பெற்ற கலந்துரையாடலிலேயே இவ்வாறு தீர்மானிக்கப்பட்டுள்ளது.
-
-ஐக்கிய தேசிய கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா ஏற்கனவே 6ஆம் திகதி நடத்துவதற்கு தீர்மானித்திருந்த நிலையில்,  கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உடல் ஆரோக்கியத்தை கருத்தில் கொண்டு கட்சியின் முகாமைத்துவ குழு, விழாவை ஒத்திவைப்பதற்கு தீர்மானித்திருந்தது.
-
-அதன் பிரகாரம் ஒத்திவைக்கப்பட்டுள்ள ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழாவை  எதிர்வரும் 20ஆம் திகதி சனிக்கிழமை நடத்துவதற்கு  தீர்மானிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/43535055.json)
-
----
-
-### CoPF calls for financial autonomy for Bribery Commission, AG’s Dept
-
-*2025-09-12 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112441/copf-calls-for-financial-autonomy-for-bribery-commission-ags-dept) · `en`
-
-The Committee on Public Finance (CoPF) has granted approval for the 2026 budget estimate of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-This approval was granted during a meeting of the Committee held on Thursday (11) in Parliament, chaired by Member of Parliament Dr. Harsha de Silva.
-
-During the meeting, the Chairman of the Committee pointed out that just as the Central Bank of Sri Lanka (CBSL) experience financial independence, it is important to grant financial autonomy to institutions such as the Bribery Commission (CIABOC) and the Auditor General’s Department to ensure greater independence in their operations.
-
-He further stated that with such financial independence, these institutions would be able to function more autonomously, irrespective of which government is in power, and free from prevailing political authority.
-
-Accordingly, the Committee decided to inform the Minister of Finance, who is also the President, about this matter, the statement said.
-
-...
-
-[Data](articles/7954abd9.json)
-
-[Extended Data](ext_articles/7954abd9.ext.json)
 
 ---
 
@@ -391,26 +301,6 @@ Further updates will be communicated to the Exchange and shareholders as appropr
 [Data](articles/ba40ae77.json)
 
 [Extended Data](ext_articles/ba40ae77.ext.json)
-
----
-
-### Kopy Chairman Kabir Hashim
-
-*2025-09-12 16:51:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-සභාපති-කබීර්-හෂීම්/11-418459) · `si`
-
-Parliamentarian MP Kabir Hashim was elected as the Committee on Public Accounts (Kopa) for the first meeting of the Third Parliament.
-
-Parliamentarian Aravinda Senarath served as the Chairman of the Committee on Public Accounts on 06.08.2025 at the time of January 12.
-
-Member of Parliamentarian Kabir Hashim for Chairman. The elephants and Rohitha Abeygunawardena were confirmed.
-
-Addressing the Committee, he said that the new president was planning to work in the cooperation of all members without political ideology.  Also, the former Chairman of the Committee, Hon. Aravinda Senarath, specially appreciated the role of Hon.. The new Chairman further further stated that the new plans will be prepared and to maintain the action of the Kopy Panel.
-
-...
-
-[Data](articles/f17526bb.json)
-
-[Extended Data](ext_articles/f17526bb.ext.json)
 
 ---
 
@@ -2047,5 +1937,131 @@ Addressing the Committee, CIABOC Director General Ranga Dissanayake stated that 
 [Data](articles/96b5851d.json)
 
 [Extended Data](ext_articles/96b5851d.ext.json)
+
+---
+
+### SC grants leave to proceed with petition over electricity bill for Namal’s wedding
+
+*2025-09-12 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112417/sc-grants-leave-to-proceed-with-petition-over-electricity-bill-for-namals-wedding) · `en`
+
+The Supreme Court (SC) has granted leave to proceed with the hearing of a fundamental rights petition filed by an attorney seeking a ruling that the fundamental rights of the people of this country have been violated by the failure to pay over Rs. 2 million to the Ceylon Electricity Board (CEB) for electricity used at the wedding reception of MP Namal Rajapaksa.
+
+The petition was filed by Attorney-at-Law Vijitha Kumara, and a group including the CEB had been named as respondents.
+
+The petition was taken up yesterday (11) before a bench of Supreme Court judges comprising Chief Justice Preethi Padman Surasena and Justice Achala Wengappuli, Ada Derana reporter said.
+
+Attorney Weragoda, appearing for the petitioner, stated before the court that the petitioner had filed the petition regarding the failure to timely pay the electricity bill related to the wedding reception of Namal Rajapaksa to the CEB.
+
+...
+
+[Data](articles/fa862232.json)
+
+[Extended Data](ext_articles/fa862232.ext.json)
+
+---
+
+### President instructs governors and the key secretary
+
+*2025-09-12 08:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214465) · `si`
+
+President Anura Kumara Dissanayake emphasizes that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
+
+The President emphasized that the political authority has ended the government of local authorities to maintain its power to the present government.
+
+President Anura Kumara Dissanayake has given this advice at the Presidential Secretariat yesterday (11) at the Presidential Secretariat and the project discussions between the provisions of the development projects.
+
+Special attention was made in the case of the Central Government and Local Authorities while impleting the development projects such as educational, health and highways.
+
+...
+
+[Data](articles/fe0870dd.json)
+
+[Extended Data](ext_articles/fe0870dd.ext.json)
+
+---
+
+### World Bank report slams Sri Lanka VAT amid poverty from monetary meltdown: analysis
+
+*2025-09-12 08:19:00* · [`economynextcom`](https://economynext.com/world-bank-report-slams-sri-lanka-vat-amid-poverty-from-monetary-meltdown-analysis-240310/) · `en`
+
+ECONOMYNEXT – A World Bank report on Sri Lanka’s tax has slammed value added tax hike, though rate cuts and money printing for potential output targeting by macro-economists led to a collapse of the rupee and inflation that was the core reason for a dramatic rise in poverty.
+
+The rhetoric against VAT may have negative consequences for Sri Lanka for which the poor will eventually pay a higher price if it leads to a repeat of tax cuts like in 2019, observers say.
+
+The recent steep rise in Sri Lanka VAT was also a result of having to pay the salaries of a bloated public sector, including 100,000 development officers and other unemployed graduates hired into public service, who apparently do not have offices to sit and work according to statements made in parliament as well as a legacy large military from a civil war.
+
+...
+
+[Data](articles/4ad85d39.json)
+
+[Extended Data](ext_articles/4ad85d39.ext.json)
+
+---
+
+### Harsha revealed about financial management of the Bribery Commission
+
+*2025-09-12 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214464) · `si`
+
+Financial Management of Investigation Commission independent of the Bribery Institute or Corruption, or not? The Chairman of the Committee Dr. Harsha de Silva says there is a problem with the government.
+
+He was summoned to the Committee to discuss the budget estimates of the Bribery or Corruption Commission.
+
+The Director General of the Bribery Commission (Bribery Investigation Commission) said that almost two years, it was not possible for almost two years.
+
+Deputy Secretary to the Ministry of Finance AK. Senarath said that Harsha de Silva has said that the bribery or corruption in the Investigation Commission is independent of the Bribery or Corruption Commission is independent.
+
+◼️
+
+[Data](articles/1d1eed10.json)
+
+[Extended Data](ext_articles/1d1eed10.ext.json)
+
+---
+
+### There are no special project offices for foreign loans and support projects
+
+*2025-09-12 07:31:56* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ණය-සහ-අධාර-යටතේ-ක්‍රියාත්මක-වන-ව්‍යාපෘති-සඳහා-මින්-ඉදිරියට-විශේෂ-ව්‍යාපෘති-කාර්යාල-නැහැ/11-418447) · `si`
+
+The Central Government and Local Authorities should work together in implementing development projects
+
+Develop a common development plan to identify development needs at provincial level
+
+President Anura Kumara Dissanayake emphasized that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
+
+The President emphasized that the political authority has ended the culture of local authorities to detain its power to the present government.
+
+President Anura Kumara Dissanayake participated in the Presidential Secretariat, as well as the development of the projects between the central government and local government allocations for local government, and the previous year's budgetary arrangements.
+
+Special attention was made by the Central Government and Local Government Agents while implementing development projects in the fields of education, health and highways.
+
+...
+
+[Data](articles/f1d3c9cc.json)
+
+[Extended Data](ext_articles/f1d3c9cc.ext.json)
+
+---
+
+### Suspect identified in murder of mother and son in Karandeniya
+
+*2025-09-12 07:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112416/suspect-identified-in-murder-of-mother-and-son-in-karandeniya-) · `en`
+
+A suspect has been identified in connection with the incident of the murder of a 74-year-old woman and her 25-year-old son in  Karandeniya, according to police.
+
+A 74-year-old woman and her 25-year-old son, who were residing at Kotawela in Karandeniya, were attacked and killed with a sharp weapon in the Kabulagoda area of the Karandeniya Police Division last evening (11), police said.
+
+The bodies have been placed at the Elpitiya Hospital’s morgue.
+
+The 43-year-old suspect, who is suspected of committing the murder, has been identified as a resident of a house near the victims’ home.
+
+However, the motive behind the killings is yet to be uncovered, police said.
+
+Karandeniya Police are conducting further investigations to apprehend the suspect.
+
+◼️
+
+[Data](articles/a16eed69.json)
+
+[Extended Data](ext_articles/a16eed69.ext.json)
 
 ---

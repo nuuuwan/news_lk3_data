@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 09:10:29**
+As of **2025-09-12 10:07:52**
 
 ## Newspaper Stats
 
-*Scraped **75,518** Articles*
+*Scraped **75,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ economynextcom | 4,579
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,325
+adalk | 7,326
 adaderanalk | 9,695
-tamilmirrorlk | 11,290
+tamilmirrorlk | 11,291
 virakesarilk | 12,305
-adaderanasinhalalk | 13,150
+adaderanasinhalalk | 13,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,109 (90.2%) of 75,518 articles have been extended.
+68,135 (90.2%) of 75,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### Parliamentary Council begins
+
+*2025-09-12 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214467) · `si`
+
+◼️
+
+[Data](articles/3a7cc91e.json)
+
+[Extended Data](ext_articles/3a7cc91e.ext.json)
+
+---
+
+### The total number of school uniforms related to 2026 from China
+
+*2025-09-12 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214466) · `si`
+
+The Chinese government has agreed to provide the total uniforms for the year 2026 as a grant for 4,418,404 students who receive government and government aid.
+
+The official ceremony of the consensus certificate was held at the Ministry of Education of Battaramulla yesterday (11).
+
+Deputy Minister of Education and Higher Education Dr. Madura Seneviratne, the Chinese Ambassador, was chaired by the Chinese Ambassador Qi Zhenhong.
+
+The assignment of the certificate of the uniforms of the year 2026 was held between Mr. Nalaka Kabuwewa and Mr. Navanhong of the Chinese.
+
+Minister of Education and Higher Education Dr. Madura Seneviratne expressed these views,
+
+"China awarded 11.82 million meters to Sri Lanka for 2025. This gave the entire national requirement, and directly benefited more than 4.6 million students across the country.
+
+This contribution is more valuable than Rs 5.17 billion, from the youngest student to attend all children with respect and equality to the national examinations.
+
+...
+
+[Data](articles/573aa30c.json)
+
+[Extended Data](ext_articles/573aa30c.ext.json)
+
+---
+
+### Amateur furniture
+
+*2025-09-12 08:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவி-கொட்டுக்கு-இலக்காகி-உயிரிழப்பு/175-364455) · `ta`
+
+One of the elderly people who saw the beauty of the Karungulavi nest died after being died.
+
+The deceased is Selvanayagam Balasaraswathi (age 82) from Tellippalai, Vidhakapuram.
+
+A massive wasp nest was found in the south of the tree at around 3.30 pm on Tuesday (09).
+
+When he was a beautiful wasps, he was taken to the hospital, who was taken to the Tellippalai Hospital, who was taken to the Tellippalai Hospital, when he went to it with a rod.
+
+Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Namasivayam Premkumar. Tellippalai police regulated the witnesses. (A)
+
+◼️
+
+[Data](articles/917160fb.json)
+
+[Extended Data](ext_articles/917160fb.ext.json)
+
+---
 
 ### Harsha raises concerns over Bribery Commission’s financial management
 
@@ -47,6 +107,8 @@ Addressing the Committee, CIABOC Director General Ranga Dissanayake stated that 
 ...
 
 [Data](articles/96b5851d.json)
+
+[Extended Data](ext_articles/96b5851d.ext.json)
 
 ---
 
@@ -65,6 +127,8 @@ Attorney Weragoda, appearing for the petitioner, stated before the court that th
 ...
 
 [Data](articles/fa862232.json)
+
+[Extended Data](ext_articles/fa862232.ext.json)
 
 ---
 
@@ -763,6 +827,24 @@ The UN resolution is very tight. In order to justify the injustice inflicted on 
 ---
 
 ### 2025-09-11 (Thursday)
+
+### Navy and the Fisheries Community in Jaffna
+
+*2025-09-11 22:59:29* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ගැටළු-සාකච්ඡා-කිරීමට-නාවික-හමුදාව-සහ-යාපනයේ-ධිවර-ප්‍රජාව-අතර-හමුවක්/11-418444) · `si`
+
+The Commander of the Northern Naval Commander, 2005, was held on the 9th of September with the participation of the Sri Lanka Navy, the Department of Coast Guard on the 9th of September 2025, with the participation of the Sri Lanka Coast Guard and the Northern Province Fisheries Association.
+
+The discussion was discussed at the discussion, the importance of local fishermen, regulatory sectors, the use of sustainable fisheries, racketeer, and the importance of close cooperation between the Department of Fisheries and Aquatic Resources and Fisheries Societies.
+
+A delegation from Jaffna Acting Director and Fisheries Director and Fisheries Association and Fisheries Association and Fisheries Association and Fisheries Association were present at the Awareness Program.
+
+◼️
+
+[Data](articles/048cdf4f.json)
+
+[Extended Data](ext_articles/048cdf4f.ext.json)
+
+---
 
 ### Announces vacancies to include students for intermediate series of national schools
 
@@ -1923,83 +2005,5 @@ Accordingly, the new Board of the Ceylon Chamber of Commerce presented their vis
 [Data](articles/919272a9.json)
 
 [Extended Data](ext_articles/919272a9.ext.json)
-
----
-
-### President meets new officers of the Ceylon Chamber of Commerce
-
-*2025-09-11 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214445) · `si`
-
-President Anura Kumara Dissanayake and a new officials of the Ceylon Chamber of Commerce were held today (11).
-
-The President has explained how the current government is taking the economic and passengers and the public and private sectors for economic development and facilitate the business community.
-
-He said the policy alignment could help the country's economic growth and the ecological sustainability of social well-being and environmental sustainability to reach the goals.
-
-The new office bearer of the Ceylon Chamber of Commerce was presented to the Sri Lankan economy and presented to the President.
-
-Senior Presidential Advisor on Economic Affairs Duminda Hulangamuwa, Chairman of Ceylon Chamber of Commerce Krishan Balathndra, Vice President, Vice President Ved Chairman Vinodad Hyderam, Vice Chairman Vinodhadha Edramudi were also present at the occasion.
-
-◼️
-
-[Data](articles/b6ca4569.json)
-
-[Extended Data](ext_articles/b6ca4569.ext.json)
-
----
-
-### Sri Lanka stocks close down, Prime Lands pushes turnover
-
-*2025-09-11 15:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-prime-lands-pushes-turnover-240190/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The ASPI closed down 0.69 percent, 143.78 points, at 20,625. S&P SL20 closed down 0.68 percent, or 40.31 points, at 5,889.
-
-The ASPI was weighed down by Hatton National Bank (down 8.50 rupees at 385.25), Cargills (Ceylon) (down 19.50 rupees at 800), DFCC Bank (down 2.50 rupees at 153), John Keells Holdings (down 20 cents at 22 rupees), and Dialog Axiata (down 50 cents at 25.50 rupees).
-
-Most of this came from real estate sector stocks (2.03 billion rupees) and capital goods sectors stocks (1.12 billion rupees).
-
-Trading in Prime Lands Residencies contributed 1.91 billion rupees. The stock closed up 2 rupees at 32. (Colombo/Sep11/2025)
-
-◼️
-
-[Data](articles/1b454328.json)
-
-[Extended Data](ext_articles/1b454328.ext.json)
-
----
-
-### Ice drug production; Lorry seizure
-
-*2025-09-11 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224818) · `ta`
-
-The lorry used by the police to transport the alleged chemicals to produce ice drugs from Mitteniya to Nuwara Eliya and to Kandana from Nuwara Eliya.
-
-◼️
-
-[Data](articles/617e7165.json)
-
-[Extended Data](ext_articles/617e7165.ext.json)
-
----
-
-### He is withdrawn a pleasant appeal
-
-*2025-09-11 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214444) · `si`
-
-The Court of Appeal has withdrawn a appeal to the former Minister Prasanna Ranatunga to issue an order to issue an order to acquit himself an order to be acquitted in a suspended sentence and fines.
-
-This appeal was called before the Bench, the Festival Judge of the Appendix of the Magins, Kumaran Ratnam, Damith Thotawatte and Amal Ranaraja.
-
-The Bench of the Court of Appeal, which was presented to Prasanna Ranatunga, was given permission to withdraw the appeal.
-
-Prasanna Ranatunga was accused of threatening a businessman to carry out a land in Meethotamulla, the Chief Minister of the Western Province.
-
-◼️
-
-[Data](articles/bb7e843b.json)
-
-[Extended Data](ext_articles/bb7e843b.ext.json)
 
 ---

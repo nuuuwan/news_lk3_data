@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 01:05:44**
+As of **2025-09-13 00:52:33**
 
 ## Newspaper Stats
 
-*Scraped **75,647** Articles*
+*Scraped **75,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 768
 economynextcom | 4,588
 islandlk | 4,644
 dailymirrorlk | 4,733
-dailyftlk | 5,365
+dailyftlk | 5,364
 adalk | 7,346
 adaderanalk | 9,721
 tamilmirrorlk | 11,305
@@ -26,29 +26,9 @@ adaderanasinhalalk | 13,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,061 (91.3%) of 75,647 articles have been extended.
+69,061 (91.3%) of 75,646 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-09-13 (Saturday)
-
-### Sri Lanka hosts “Ceylon Tea – Finest Evening” to promote trade, tourism, and Ceylon Tea in Thailand
-
-*2025-09-13 00:25:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-Ceylon-Tea-Finest-Evening-to-promote-trade-tourism-and-Ceylon-Tea-in-Thailand/34-781620) · `en`
-
-The Embassy of Sri Lanka in Bangkok concluded a key trade and tourism promotional event titled “Ceylon Tea – Finest Evening” held on 1 September, at Hyatt Regency Hotel, Bangkok.
-
-This flagship initiative was organised with the objective of promoting Sri Lankan tea brand –Ceylon Tea, while also fostering stronger ties in trade and tourism between Sri Lanka and Thailand.
-
-The event brought together distinguished guests from different sectors including, leading Thai tea importers and retailers, representatives from prominent hotel chains and shopping malls, senior officials from the Foreign Affairs Ministry and other Thai Government institutions, Ambassadors and members of diplomatic corps, and members of media.
-
-The evening was graced by former Foreign Affairs Vice Minister Dr. Lalivan Karnchanachari who attended as the Chief Guest.
-
-...
-
-[Data](articles/662293f4.json)
-
----
 
 ### 2025-09-12 (Friday)
 
@@ -2045,5 +2025,29 @@ The suspects were arrested with 72 pigeons and 19 hunting chickens during the ra
 [Data](articles/b1efc76f.json)
 
 [Extended Data](ext_articles/b1efc76f.ext.json)
+
+---
+
+### Another shocking information about "Sampath Manamberry"
+
+*2025-09-12 11:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-குறித்து-மற்றுமொரு-அதிர்ச்சி-தகவல்/175-364460) · `ta`
+
+There have been many shocking reports about former Pradeshiya Sabha member Sampath Manamberi, who was arrested on suspicion of Ice drug production of "Kehelbattara Padme".
+
+Investigations revealed that Sampath Manamberi was also the head of the Armed Forces Network, not only the head of the drug production operation conducted by "Kehelbattara Padme".
+
+Several weapons, including hand grenades hidden on the land belonging to former Pradeshiya Sabha member Sampath Manamambari, have already been seized by the police.
+
+It is believed by the police that many weapons, including the seized handguns, belong to underworld groups.
+
+Police have launched an intensive investigation to find the suspects involved in the incident.
+
+Police have also said that the houses of the persons associated with former Pradeshiya Sabha member Sampath Manamperi are being investigated by the police.  R
+
+◼️
+
+[Data](articles/33b2ca9b.json)
+
+[Extended Data](ext_articles/33b2ca9b.ext.json)
 
 ---

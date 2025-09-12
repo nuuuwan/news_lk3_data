@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 22:36:45**
+As of **2025-09-12 22:08:48**
 
 ## Newspaper Stats
 
-*Scraped **75,634** Articles*
+*Scraped **75,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,17 @@ adalk | 7,346
 adaderanalk | 9,716
 tamilmirrorlk | 11,305
 virakesarilk | 12,321
-adaderanasinhalalk | 13,184
+adaderanasinhalalk | 13,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,904 (91.1%) of 75,634 articles have been extended.
+68,886 (91.1%) of 75,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවක ගැටලුවලට  අගමැතිනියගෙන් විසඳුම්
-
-*2025-09-12 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214501) · `si`
-
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයන්ට මතු වී ඇති ගැටලු කිහිපයක් විසඳා ගැනීම සම්බන්ධයෙන් වන සාකච්ඡාවක් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මියගේ ප්‍රධානත්වයෙන් අග්‍රාමාත්‍යතුමියගේ කාර්යාලයේ දී පැවැත්විණි.
-
-එහිදී වෘත්තීය සංගම් නියෝජිතයන් ඔවුන්ට මතුව තිබෙන වැටුප් අනුපාතය ප්‍රතිශතයක් ලෙස පහත වැටී තිබීම, එම්.සී.ඒ දීමනාව, 20% දීමනාව, අතිකාල ගණනය කිරීමේ ක්‍රමවේදය පිළිබඳ දීර්ඝ වශයෙන් සාකච්ඡා කර ඇත.
-
-දැනට ක්‍රියාත්මක වැටුප් වැඩිකිරීමට සමගාමී ව අනධ්‍යයන කාර්යමණ්ඩල වැටුප් අනුපාතය ක්‍රමික ව 20% සිට 11%ටත් දැනට 11% සිට 6.94% දක්වා අඩුවීමේ ගැටලුව වහා විසඳිය යුතු බව එහිදී අවධාරණය කෙරිණ.
-
-මීට පෙර රාජ්‍ය සේවක වැටුපට සමගාමීව ඔවුන්ගේ වැටුප ඉහළ ප්‍රතිශතයකින් වැඩි වී තිබූ බවත් අවුරුදු කිහිපයක් ඇතුළත එය ක්‍රමයෙන් අඩු පරතරයකට පත්වී තිබීම ගැටලුවක් බව ද ඔවුහු සඳහන් කළහ.
-
-ඊට අමතර ව එම්.සී.ඒ දීමනාව, 20% දීමනාව සහ අතිකාල ගණනය කිරීමේ ක්‍රමවේදයන් පිළිබඳ මීට පෙර ද දේශපාලන අධිකාරිය සහ කළමනාකරණ සේවා දෙපාර්තමේන්තු නියෝජිතයන් සමඟ සාකච්ඡා කර තිබුණ ද අවශ්‍ය විසඳුම් ලැබී නොමැති බව ද ඔවුහු පෙන්වා දුන්හ.
-
-...
-
-[Data](articles/64aa8a21.json)
-
----
-
-### Workshop to educate public executives on artificial intelligence
-
-*2025-09-12 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214500) · `si`
-
-Another workshop on behalf of government executives was held at Temple Trees this morning to convert the public service effective and efficient service.
-
-The workshop organized by the Digital Economic Ministry with the assistance of the Presidential Secretariat, with the assistance of the Presidential Secretariat, was organized by the Presidential Secretariat with the assistance of the Presidential Secretariat.
-
-The workshop has been organized with the objective of educating public officers as a initial approach to digitizing public service.
-
-Secretary to the Presidential Secretary Dr. Nandika Sanath said that the public service should be prepared to be prepared and the existing public service should change.. The Presidential Secretary added that the public should be paid to the public to provide more efficient services to the people using artificial intelligence to win the challenge of gaining public confidence in the public service.
-
-...
-
-[Data](articles/9c5873ab.json)
-
-[Extended Data](ext_articles/9c5873ab.ext.json)
-
----
 
 ### Charlie Kark's killer arrested
 
@@ -2073,5 +2033,43 @@ Speaking at the event, Deputy Minister of Education and Higher Education Dr. Mad
 [Data](articles/7405d01b.json)
 
 [Extended Data](ext_articles/7405d01b.ext.json)
+
+---
+
+### It is not our responsibility to exclude children from technology: Prime Minister Harini advises adults
+
+*2025-09-12 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224872) · `ta`
+
+It is not our responsibility to exclude children from technology, but it is our responsibility to guide them to use it intelligently and constructively, ”said Dr. Harini Amarasuriya, Minister of Education, Higher Education and Vocational Education and Prime Minister.
+
+Harini Amarasuriya was the chief guest at the launch of the "STE FEED" in the ITC Ratnadeep Hotel, Colombo on Thursday (September 11) at the launch of the "STE FEED" in the Tiktok Social Weather.
+
+In a world based on digital technology, this opportunity is an important milestone to expand the opportunity to teach the country's youth in the country's youth, by creating a background for education, sharing of knowledge and strengthening education through Tiktok.
+
+He emphasized the government's initiative to establish a functioning processed by educators, scholars, scholars, technicians, child protection consultants and private sector partners to introduce equal access to equal access to the future.
+
+...
+
+[Data](articles/af242ec6.json)
+
+[Extended Data](ext_articles/af242ec6.ext.json)
+
+---
+
+### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
+
+*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
+
+Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
+
+This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
+
+Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
+
+...
+
+[Data](articles/c2383c73.json)
+
+[Extended Data](ext_articles/c2383c73.ext.json)
 
 ---

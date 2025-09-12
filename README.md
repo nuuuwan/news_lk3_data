@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 09:56:16**
+As of **2025-09-12 10:38:00**
 
 ## Newspaper Stats
 
-*Scraped **75,522** Articles*
+*Scraped **75,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,29 +16,107 @@ economynextcom | 4,579
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,326
-adaderanalk | 9,695
+adalk | 7,328
+adaderanalk | 9,697
 tamilmirrorlk | 11,291
-virakesarilk | 12,305
+virakesarilk | 12,307
 adaderanasinhalalk | 13,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,123 (90.2%) of 75,522 articles have been extended.
+68,169 (90.3%) of 75,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
+### It is not our responsibility to exclude children from technology: Prime Minister Harini advises adults
+
+*2025-09-12 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224872) · `ta`
+
+It is not our responsibility to exclude children from technology, but it is our responsibility to guide them to use it intelligently and constructively, ”said Dr. Harini Amarasuriya, Minister of Education, Higher Education and Vocational Education and Prime Minister.
+
+Harini Amarasuriya was the chief guest at the launch of the "STE FEED" in the ITC Ratnadeep Hotel, Colombo on Thursday (September 11) at the launch of the "STE FEED" in the Tiktok Social Weather.
+
+In a world based on digital technology, this opportunity is an important milestone to expand the opportunity to teach the country's youth in the country's youth, by creating a background for education, sharing of knowledge and strengthening education through Tiktok.
+
+He emphasized the government's initiative to establish a functioning processed by educators, scholars, scholars, technicians, child protection consultants and private sector partners to introduce equal access to equal access to the future.
+
+...
+
+[Data](articles/af242ec6.json)
+
+[Extended Data](ext_articles/af242ec6.ext.json)
+
+---
+
+### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
+
+*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
+
+Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
+
+This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
+
+Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
+
+...
+
+[Data](articles/c2383c73.json)
+
+[Extended Data](ext_articles/c2383c73.ext.json)
+
+---
+
+### Parliamentary Council begins
 
 *2025-09-12 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214467) · `si`
 
 ◼️
 
 [Data](articles/3a7cc91e.json)
+
+[Extended Data](ext_articles/3a7cc91e.ext.json)
+
+---
+
+### Central govt and provincial institutions must work in unison when implementing development projects - President advises Governors and Secretaries
+
+*2025-09-12 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112420/central-govt-and-provincial-institutions-must-work-in-unison-when-implementing-development-projects-president-advises-governors-and-secretaries) · `en`
+
+President Anura Kumara Dissanayake has stressed the importance of close coordination and joint action between the central government and provincial institutions in the implementation of development projects, the President’s Media Division (PMD) said.
+
+The President emphasised that the culture of using provincial institutions merely as instruments for political authority to retain power has been brought to an end under the present government, while also highlighting the need for the central government and provincial institutions to work in unison towards a national plan for the country’s development.
+
+...
+
+[Data](articles/c531dfdd.json)
+
+[Extended Data](ext_articles/c531dfdd.ext.json)
+
+---
+
+### Six live exotic snakes found in female passenger’s luggage at BIA
+
+*2025-09-12 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112419/six-live-exotic-snakes-found-in-female-passengers-luggage-at-bia) · `en`
+
+Six live exotic snakes were seized at the Bandaranaike International Airport (BIA) from a Sri Lankan national arriving from Bangkok via Chennai on a IndiGo Airlines flight, Sri Lanka Customs said.
+
+The interception was carried out by Sri Lanka Customs’ Narcotic Control Unit in collaboration with the Biodiversity, Cultural, and National Heritage Protection Unit.
+
+The female passenger, in her early 40s, had concealed the snakes in her checked-in baggage.
+
+All species are listed under CITES Appendix II and are subject to international controls due to the threats posed by the exotic pet trade, said Sri Lanka Customs.
+
+The Department of Wildlife Conservation provided technical support in species identification and handling, ensuring the safe management of the animals. This seizure highlights the importance of inter-agency collaboration in combating illegal wildlife trafficking, the statement said.
+
+...
+
+[Data](articles/66a502bf.json)
+
+[Extended Data](ext_articles/66a502bf.ext.json)
 
 ---
 
@@ -572,6 +650,22 @@ Opening the plaque (From left): ICC Dispute Resolution Services Director of Arbi
 
 ---
 
+### එක්සත් ජනපද වෙළෙඳ නියෝජිතායතනයේ ප්‍රධානීහු ජනපති හමු වෙති
+
+*2025-09-12 05:52:41* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජනපද-වෙළෙඳ-නියෝජිතායතනයේ-ප්‍රධානීහු-ජනපති-හමු-වෙති/11-418445) · `si`
+
+එක්සත් ජනපද වෙළෙඳ නියෝජිතායතනයේ ප්‍රධානීහු පිරිසක් අද (11) ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු වී සාකච්ඡා පැවැත්වූහ.
+
+ඇමරිකා එක්සත් ජනපදය ශ්‍රී ලංකාවෙන් ආනයනය කරන භාණ්ඩ මත පැන වූ තීරු බදු සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ශ්‍රී ලංකා රජය විසින් පත් කරන ලද නියෝජිත කණ්ඩායම ඇගයීමට ලක් කළ එක්සත් ජනපද වෙළෙඳ නියෝජිතායතන ප්‍රධානීහු රටක් ලෙස ශ්‍රී ලංකාව මේ වන විට  අත්පත් කර ගෙන ඇති ආර්ථික ප්‍රගතිය පැසසුමට ලක් කළහ.
+
+ශ්‍රී ලංකාවේ ආර්ථික කටයුතු සඳහා එක්සත් ජනපද වෙළෙඳ නියෝජිතායතනය (USTR) මෙතෙක් ලබා දුන් සහාය පිළිබඳව මෙන්ම, අනාගතයේදී ඇමරිකාව සහ ශ්‍රී ලංකාව අතර ඇති කර ගැනීමට නියමිත වෙළෙඳ ගිවිසුම් සම්බන්ධයෙන්ද මෙහිදී අවධානය යොමු කෙරිණි.
+
+...
+
+[Data](articles/24036f71.json)
+
+---
+
 ### EFC National Best Employer Awards 2025
 
 *2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
@@ -826,17 +920,21 @@ The UN resolution is very tight. In order to justify the injustice inflicted on 
 
 ### 2025-09-11 (Thursday)
 
-### ධීවර ගැටළු සාකච්ඡා කිරීමට නාවික හමුදාව සහ යාපනයේ ධිවර ප්‍රජාව අතර හමුවක්
+### Navy and the Fisheries Community in Jaffna
 
 *2025-09-11 22:59:29* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ගැටළු-සාකච්ඡා-කිරීමට-නාවික-හමුදාව-සහ-යාපනයේ-ධිවර-ප්‍රජාව-අතර-හමුවක්/11-418444) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව, උතුරු පළාතේ ධීවර කටයුතු ආශ්‍රිත ගැටළු සාකච්ඡා කිරීමේ වැඩසටහනක් 2025 සැප්තැම්බර් මස 09 වැනි දින ශ්‍රී ලංකා වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සහ  උතුරු පළාත් ධීවර සංගම් නියෝජිතයින්ගේ සහභාගීත්වයෙන්, විධාන මූලස්ථානයේදී, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ ගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+The Commander of the Northern Naval Commander, 2005, was held on the 9th of September with the participation of the Sri Lanka Navy, the Department of Coast Guard on the 9th of September 2025, with the participation of the Sri Lanka Coast Guard and the Northern Province Fisheries Association.
 
-මෙම සාකච්ඡාවේදී, දේශීය ධීවරයින් මුහුණ දෙන අභියෝග, නියාමන අංශ, නීති විරෝධී ධීවර පිළිවෙත්, ජාවාරම් සහ සමුද්‍ර සම්පත් ආරක්‍ෂා කිරීම සඳහා තිරසාර ධීවර පන්න ක්‍රම භාවිතයේ වැදගත්කම පිළිබඳව සාකච්ඡා කෙරුණු අතර, ආරක්‍ෂිත සහ ඵලදායී ධීවර පරිසරයක් සහතික කිරීම සඳහා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව, ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව සහ ධීවර සමිති අතර සමීප සහයෝගීතාවයේ ඇති වැදගත්කමද මෙහිදී අවධාරණය කෙරිණි.
+The discussion was discussed at the discussion, the importance of local fishermen, regulatory sectors, the use of sustainable fisheries, racketeer, and the importance of close cooperation between the Department of Fisheries and Aquatic Resources and Fisheries Societies.
 
-...
+A delegation from Jaffna Acting Director and Fisheries Director and Fisheries Association and Fisheries Association and Fisheries Association and Fisheries Association were present at the Awareness Program.
+
+◼️
 
 [Data](articles/048cdf4f.json)
+
+[Extended Data](ext_articles/048cdf4f.ext.json)
 
 ---
 
@@ -1897,107 +1995,5 @@ According to investigations by the Bribery Commission, a 55.5-perch plot of UDA-
 [Data](articles/6d2f9761.json)
 
 [Extended Data](ext_articles/6d2f9761.ext.json)
-
----
-
-### Nepali youth destroyed the country without her
-
-*2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
-
-Nepal today issues a lesson that the social media should be used to do good and that the country has been destroyed by the country.
-
-We were very shocked by the most sad events in Nepal. The series of sang events that have created such a tremendous rebellion in the land of the Buddha cannot be granted.
-
-It is evident that some conspiracy to evolve South Asian countries is acting. Especially seems to be seen by the countries in the past, the lack of efforts of Buddhist countries as well as Buddhist inheritance in the past.. Clearly, the young people have a sense of their country, saying that the youth is addicted to the use of social media and to prohibit the history of the country.
-
-Clearly, the youth who were taking the lead in the vicinity of Nepal would be clear that they would not destroy their country in this way.. Today, many people believe that the hatred of sowing the hatred of the soil sowing hatred is that the hatred of sowing.
-
-...
-
-[Data](articles/7c573b26.json)
-
-[Extended Data](ext_articles/7c573b26.ext.json)
-
----
-
-### Flooding in Bali; 14 people die
-
-*2025-09-11 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224824) · `ta`
-
-The death toll from the floods in the Indonesian island, Bali, has risen to 14.
-
-Two people disappeared in Tenbazar, the capital of the tourism center. The Disaster Detection Center said that 125 rescue workers were involved in the search for them.
-
-Heavy rains on Tuesday and Wednesday have caused flooding in six parts of Tenpasar and Bali.
-
-Major roads, including the International Airport. Landslides have also occurred in some areas.
-
-There have been a large number of casualties due to the flooding of the rivers.
-
-Rescue workers are still emitting water from many of the flooded buildings. About 500 soldiers have been stopped to remove mud, debris and rocks on the streets.
-
-“The peak of the rain has passed. Usually the water is drained. Currently, we focus on removing mud from the streets.
-
-Four people have been killed in floods caused by heavy rains in East Nusa Tenkara, Indonesia.
-
-◼️
-
-[Data](articles/fb69820c.json)
-
-[Extended Data](ext_articles/fb69820c.ext.json)
-
----
-
-### Former UDA officials released on bail
-
-*2025-09-11 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214446) · `si`
-
-The Colombo Magistrate's Court has set aside the former Director General of the Urban Development Authority for the charges of corruption by the Bribery Commission.
-
-Colombo Chief Magistrate Asanka S.. Mr. Bodaragama has issued this order.
-
-◼️
-
-[Data](articles/36c08481.json)
-
-[Extended Data](ext_articles/36c08481.ext.json)
-
----
-
-### Woman killed in Jaffna
-
-*2025-09-11 15:30:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டிய-பெண்-பலி/175-364433) · `ta`
-
-யாழ்ப்பாணம் பகுதியில் குளவி கொட்டியதில் பெண் ஒருவர் உயிரிழந்துள்ளதாக தெல்லிப்பழை பொலிஸார் தெரிவித்துள்ளனர்.
-
-The 82 -year -old woman, Selvanayagam Balasaraswati, from Tellippalai, Jaffna, has died.
-
-The woman has been attacked by a wasp nest behind her house.
-
-◼️
-
-[Data](articles/fe1e10cd.json)
-
-[Extended Data](ext_articles/fe1e10cd.ext.json)
-
----
-
-### President meets new board members of Ceylon Chamber of Commerce
-
-*2025-09-11 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112405/president-meets-new-board-members-of-ceylon-chamber-of-commerce-) · `en`
-
-President Anura Kumara Dissanayake has met with the newly appointed Board of the Ceylon Chamber of Commerce today (11) at the Presidential Secretariat in Colombo.
-
-During the discussion, President Dissanayake explained the government’s current economic approach, its direction and the manner in which the state and private sectors are being integrated to drive development and provide necessary facilities to the business community, the President’s Media Division (PMD) reported.
-
-The President emphasized that by setting clear goals and formulating policies to achieve them, can support economic growth, promote social well-being and strengthen environmental sustainability, thereby contributing to a more prosperous future for the country.
-
-Accordingly, the new Board of the Ceylon Chamber of Commerce presented their vision, contributions to the national economy, future plans and proposals for the upcoming budget to the President, the PMD stated.
-
-...
-
-[Data](articles/919272a9.json)
-
-[Extended Data](ext_articles/919272a9.ext.json)
 
 ---

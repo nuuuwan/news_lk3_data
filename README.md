@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 16:53:36**
+As of **2025-09-12 18:20:06**
 
 ## Newspaper Stats
 
-*Scraped **75,591** Articles*
+*Scraped **75,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,385 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,584
+economynextcom | 4,588
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,336
-adaderanalk | 9,711
-tamilmirrorlk | 11,300
-virakesarilk | 12,317
-adaderanasinhalalk | 13,169
+adalk | 7,341
+adaderanalk | 9,714
+tamilmirrorlk | 11,301
+virakesarilk | 12,318
+adaderanasinhalalk | 13,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,595 (90.7%) of 75,591 articles have been extended.
+68,644 (90.8%) of 75,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
+
+### The United States -. Red light for Korean investments?
+
+*2025-09-12 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214492) · `si`
+
+One of the main objectives of Donald Trump's duty war of Donald Trump is the increase in the production process in the US.
+
+The Trump administration is forced to manufacture foreign companies to manufacture locations from the US to be manufactured and exported to the United States to computer chips in America.
+
+However, the manufacturers of the United States are recently proffered from the United States, due to President's intense migration policy.
+
+One such problem is to take steps to raid the immigrants who worked in these huge factories.
+
+One such thing as a result of such a serious problem is the South Korean Yundai Motors and LG Battery Production in Georgia.
+
+At least 450 foreigners were arrested in a raid carried out last week in this massive manufacturing plant.
+
+The specialty is the South Korean who served at the factory.
+
+The publication was a video of the employees and handle the handcuffing and handcuffing.
+
+ඔවුන් මුදාගැනීම සඳහා දකුණු කොරියානු ජනාධිපති ලී ජේ  මියුංටත් මැදිහත්වීමට සිදුවුණි.
+
+...
+
+[Data](articles/8d53143b.json)
+
+[Extended Data](ext_articles/8d53143b.ext.json)
+
+---
+
+### Limitation of traffic to Maharagama
+
+*2025-09-12 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214491) · `si`
+
+Motor traffic has been restricted due to the Esala Perahera of the Esala Perahera of the Puwakpitiya Opposition in Maharagama.
+
+Accordingly, the traffic will be restricted at 7.30 pm to 3 am from 7.30 pm.
+
+The Perahera commenced at the Opposition and Southway along the Maharagama road near the Maharagama Road, Maharagama road along the Maharagama Road, Maharagama Road.
+
+As a result, the police are informed to use the following alternative routes.
+
+The motor vehicle traveling traffic from Dehiwala, Piliyandala, Boralesgamuwa can travel along the presidential footage of the President Junction.
+
+Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Wattegedara junction on the old road.
+
+* Vehicles traveling along the High Level Road in Boralesgamuwa can be route through Wattalanda.
+
+* From Piliyandala to Colombo District, the vehicles traveling in the Colombo district can be route along the right road near the sojouals.
+
+◼️
+
+[Data](articles/186f6675.json)
+
+[Extended Data](ext_articles/186f6675.ext.json)
+
+---
+
+### Heavy rains into several areas in the next 36 hours
+
+*2025-09-12 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214490) · `si`
+
+Several spells of showers may occur in the Western and Sabaragamuwa provinces in the next 36 hours and several showers in the Galle, Matara, Kandy and Nuwara Eliya Districts.
+
+And in the Eastern and Uva provinces. Showers or thundershowers will occur at several places around 1.00.
+
+The Meteorological Department has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/9088e687.json)
+
+[Extended Data](ext_articles/9088e687.ext.json)
+
+---
+
+### Budget estimate for the 2026 Bribery Commission
+
+*2025-09-12 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214489) · `si`
+
+The approval of the Committee on Public Finance Estimates for the Bribery and Corruption Commission 2026.
+
+The approval was given when the Committee on Public Finance Meeting on the Government Finance Committee on the Chairman of Parliament Dr. Harsha de Silva yesterday (11).
+
+The Chairman of the Committee has pointed out that the Central Bank of Sri Lanka has a financial independence and the Bribery Investigation Commission and the Agency Investigation Commission, the Department of Corruption and the Corruption Commission, the Department of Agency and Corruption Commission is more important. He added that these institutions can act more independently under any government outside the existing political authority.
+
+As a result, the Committee decided to inform the Minister of Finance, the Minister of Finance.
+
+...
+
+[Data](articles/6ed4f101.json)
+
+[Extended Data](ext_articles/6ed4f101.ext.json)
+
+---
+
+### ஜனாதிபதி அநுர குமார திசாநாயக்கவை சந்தித்தனர் அமெரிக்க தூதுவர் ஜூலி சங் மற்றும் உதவி வர்த்தக பிரதிநிதி பிரெண்டன் லிஞ்ச்
+
+*2025-09-12 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224925) · `ta`
+
+ஜனாதிபதி அநுர குமார திசாநாயக்கவை அமெரிக்க தூதுவர் ஜூலி சங் மற்றும் உதவி அமெரிக்க வர்த்தக பிரதிநிதி பிரெண்டன் லிஞ்ச் ஆகியோர் சந்தித்தனர்.
+
+இந்த சந்திப்பின் போது,  நியாயமான மற்றும் சமநிலையான வர்த்தகத்தை முன்னேற்றுவதற்கு அமெரிக்கா உறுதிபூண்டுள்ளது. அமெரிக்க - இலங்கை வர்த்தக உறவை வலுப்படுத்துதல் மற்றும் மறுசீரமைப்பு செய்வது குறித்து கலந்துரையாடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/bf99d85b.json)
+
+---
+
+### Ratana Goek released on bail
+
+*2025-09-12 17:04:37* · [`adalk`](https://www.ada.lk/breaking_news/රතන-හිමිට-ඇප/11-418461) · `si`
+
+Nugegoda Magistrate's Court ordered the release of Ven. Athuraliye Ratana Thera released on bail. The Magistrate has ordered two personal bail of Rs.
+
+The case will be held regarding the abduction of the party's general secretary to the General Secretary of the UNP to obtain the national secretary of the JVP in the 2020 general election.
+
+◼️
+
+[Data](articles/3d994ae5.json)
+
+[Extended Data](ext_articles/3d994ae5.ext.json)
+
+---
+
+### A woman who was seriously injured in the tragedy of the falls
+
+*2025-09-12 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214488) · `si`
+
+A woman was injured in the Jaffna Teaching Hospital today (12) was seriously injured in the bus accident on the Ella-Wellawaya main road.
+
+Our correspondent was a 41-year-old Naval Gamage, Tangalle Urban Council.
+
+The number of people have risen to 16 in the accident near Ella-Wellawaya road.
+
+◼️
+
+[Data](articles/166d00ea.json)
+
+[Extended Data](ext_articles/166d00ea.ext.json)
+
+---
+
+### Maharaja Foods and SPAR Sri Lanka to set up retail outlets
+
+*2025-09-12 17:00:00* · [`economynextcom`](https://economynext.com/maharaja-foods-and-spar-sri-lanka-to-set-up-retail-outlets-240402/) · `en`
+
+ECONOMYNEXT – Maharaja Foods PLC and SPAR Sri Lanka Pvt Ltd have signed an agreement to establish four new retail outlets in the Colombo region, the company said in a stock exchange filing.
+
+“This collaboration brings together Maharaja Foods PLC’s product expertise and distribution capabilities with SPAR Sri Lanka Pvt Ltd’s international retail standards and operational framework.”
+
+Development activities are expected to commence immediately following the MOU signing, with phased rollouts planned later.
+
+The move is part of the company’s long-term strategy to expand its retail presence, enhance consumer access, and strengthen its position in the FMCG and food retail sector, Maharaja Foods said.
+
+Further updates will be communicated to the Exchange and shareholders as appropriate, Maharaja Foods said. (Colombo/Sep12/2025)
+
+◼️
+
+[Data](articles/ba40ae77.json)
+
+[Extended Data](ext_articles/ba40ae77.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields flat
+
+*2025-09-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-flat-240398/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/95 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2028 closed at 9.05/15 percent, up from 9.05/14 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.50/55 percent.
+
+A bond maturing on 01.07.2030 closed at 9.70/80 percent, up form 9.70/76 percent.
+
+A bond maturing on 01.10.2032 closed at 10.40/46 percent. (Colombo/Sep12/2025)
+
+◼️
+
+[Data](articles/2709b8a8.json)
+
+[Extended Data](ext_articles/2709b8a8.ext.json)
+
+---
+
+### Albania’s leader says his new Cabinet includes an AI ‘minister’ to fight corruption
+
+*2025-09-12 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112440/albanias-leader-says-his-new-cabinet-includes-an-ai-minister-to-fight-corruption) · `en`
+
+Albania’s leader said Friday his new cabinet will include an artificial intelligence “minister” that will be in charge of running public funding projects and fighting corruption in public tenders.
+
+Prime Minister Edi Rama said Diella, whose name means “Sun” in Albanian, is a “member of the Cabinet who is not present physically but has been created virtually from artificial intelligence.”
+
+Rama said Diella would help ensure that “public tenders will be 100% free of corruption.”
+
+Diella was launched earlier this year as a virtual assistant on the e-Albania public service platform, where she helps users navigate the site while wearing traditional Albanian folk costume.
+
+Rama’s Socialist Party secured a fourth consecutive term after winning 83 of the 140 Assembly seats in the May 11 parliamentary elections. The party can govern alone and pass most legislation, but it needs a two-thirds majority, or 93 seats, to change the Constitution.
+
+...
+
+[Data](articles/38a1cc5c.json)
+
+---
+
+### Indicator to Ramitha
+
+*2025-09-12 16:44:26* · [`adalk`](https://www.ada.lk/breaking_news/රමිතට-අධිචෝදනා/11-418458) · `si`
+
+The Bribery Commission has been indicted against the son of former Minister Keheliya Rambukwella, the son of former Minister Keheliya Rambukwella about the failure of over Rs 27 million.
+
+The case was presented in the Colombo High Court under the Anti-Corruption Act against the Corruption Act of former Minister Keheliya Rambukwella.
+
+◼️
+
+[Data](articles/141e405a.json)
+
+[Extended Data](ext_articles/141e405a.ext.json)
+
+---
+
+### Floods in Indonesia
+
+*2025-09-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214487) · `si`
+
+Floods have risen to 16 people with the floods with bad weather conditions affected by the Bali Islands in Indonesia.
+
+Foreign media reports that two others have disappeared and the disappeared disappeared and the operations have commenced.
+
+The disaster management divisions have also taken steps to send 562 persons affected by disasters to safety places.
+
+The Indonesian weather sects have been notified to be aware of the rainy season.
+
+◼️
+
+[Data](articles/fc1462fa.json)
+
+[Extended Data](ext_articles/fc1462fa.ext.json)
+
+---
+
+### I'm headed by the law and only in the face of my people.
+
+*2025-09-12 16:36:03* · [`adalk`](https://www.ada.lk/breaking_news/මා-හිස-නමන්නේ-නීතිය-ඉදිරියේ-සහ-මගේ-ජනතාව-හමුවේ-පමණි-/11-418457) · `si`
+
+Former President Mahinda Rajapaksa says that he is heading only before the law and the people.. Today he has placed this note in his Facebook.
+
+The Wijerama, who was introduced to the new legal status of the President's Title Removal Bill, was legal to the new legal status of the Parliament yesterday morning, after the passage of a new legal situation in parliament yesterday afternoon.. Before some of this, I saw various commands on the media to leave the Wijerama official residence.
+
+I had no need to obey the publications before the media to cover up their inability to cover up their inability to cover up their inability. But after 24 hours, I left Wijerama home with 24 hours with the passing of new rules. That is because we should respect the law. I am the head that I bow down only before the law and my people.
+
+...
+
+[Data](articles/07222343.json)
+
+[Extended Data](ext_articles/07222343.ext.json)
+
+---
+
+### Sri Lanka makes big jump in Global Democracy Rankings
+
+*2025-09-12 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112439/sri-lanka-makes-big-jump-in-global-democracy-rankings) · `en`
+
+Sri Lanka has moved up 15 places in the 2025 Global Democracy Index compared to the previous year, according to the latest report by an intergovernmental democracy watchdog.
+
+The Global State of Democracy 2025, published by the Stockholm-based International Institute for Democracy and Electoral Assistance (IDEA), has analyzed democratic performance in 173 countries in 2024.
+
+Sri Lanka is ranked 58th in this year’s report with a score of 0.655 having jumped up 15 places from the previous year with only Botswana (20) and Mauritius (23) having made higher gains in the year-on-year rankings.
+
+“Sri Lanka performs in the mid-range across all four categories of the Global State of Democracy Framework and is among the top 25 per cent of countries in the world regarding several factors, including Civic Engagement and Electoral Participation,” the report said.
+
+...
+
+[Data](articles/69938429.json)
+
+---
+
+### Elderly death
+
+*2025-09-12 16:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-வயோதிபர்-மரணம்/175-364470) · `ta`
+
+காலியில் மெதம்பாகம பிரதேசத்தில் உள்ள ரயில் கடவையில் நேற்று மாலை ரயிலில் மோதி வயோதிபர் உயிரிழந்துள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
+
+The deceased is 68 years old from Galle - Pusa, police said.
+
+◼️
+
+[Data](articles/d0c8708d.json)
+
+[Extended Data](ext_articles/d0c8708d.ext.json)
+
+---
+
+### A three-wheeler accident where eight
+
+*2025-09-12 16:19:15* · [`adalk`](https://www.ada.lk/breaking_news/අට-දෙනෙක්-ගමන්-කළ-ත්‍රීරෝද-රථ-අනතුරක/11-418456) · `si`
+
+A three-wheeler transport and a car transported by the Norwood main road, a schoolgirl and a schoolgirl and the driver of the three-wheeler hospital.
+
+The accident occurred today (12th), Hatton Norwood main road is in Neaweiwela,
+
+The accident had occurred from a car from Diyasiri Tamil Maha Vidyalaya to the Norwood Tamil Vidyalaya, where school children were transporting school children from Diyasiyig Tamil Maha Vidyalaya this morning.
+
+There were six schools with six schools and a teacher in the three-wheeler at the time of the accident.
+
+Norwood police said that over the three-wheeler were driven by over the three-wheeler, the Norwood police are conducting further investigations.
+
+◼️
+
+[Data](articles/55a3aa44.json)
+
+[Extended Data](ext_articles/55a3aa44.ext.json)
+
+---
+
+### Apart of Katunayake Air Force
+
+*2025-09-12 16:13:56* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ගුවනින්-ආපු-සර්පයෝ/11-418455) · `si`
+
+The Katunayaka passenger woman who has been taken to the "Green Mawatha" (GREEN PAINNELL), the Katunayaka Mawatha, which is not told by the "Green Channel '(GREEN AIRMA) has been sent to the" Green Channel ". Arrested on intelligence information.
+
+She is a 40 year old businessman residing in Keselwatta, Colombo. She had arrived at Thailand in Thailand and arrived at Chennai in Thailand and arrived at the Katunayake Airport on N.- 1173.
+
+The woman brought mettic in two baggage she had brought. Happened.
+
+When she became a large bodied snakes, they would be impossible to release them to forest areas, as they were to sell these snakes, as they were to keep their homes in their homes.
+
+In a plane, such living animals have been illegally and dangerous to the Customs Premise, customs officially ordered to take back these snakes after Customs Investigations.
+
+...
+
+[Data](articles/df2b6032.json)
+
+[Extended Data](ext_articles/df2b6032.ext.json)
+
+---
+
+### Indictments served on Ramith Rambukwella
+
+*2025-09-12 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112438/indictments-served-on-ramith-rambukwella) · `en`
+
+The Bribery Commission has filed indictments before the Colombo High Court against Ramith Rambukwella, son of former Minister Keheliya Rambukwella, for failing to disclose the source of allegedly illegally acquired assets valued at over Rs. 270 million.
+
+The case, filed under the Anti-Corruption Act, charges the accused—who also served as the private secretary to former Minister Keheliya Rambukwella—with failing to disclose how he acquired cash and properties amounting to Rs. 275,302,616.06 out of the assets and properties amounting to Rs. 296,566,444.76 acquired by him between January 1, 2022, and November 14, 2023.
+
+According to the charge sheet, the assets allegedly acquired illegally include two residences at a luxury apartment complex on Dharmapala Mawatha, Colombo 07, valued at Rs. 80 million and Rs. 65 million respectively, four bank accounts under the defendant’s name, four bank accounts belonging to his wife, and a Land Rover Discovery valued at over Rs. 18 million.
+
+◼️
+
+[Data](articles/820402ec.json)
+
+---
 
 ### President and construction industry meet with stakeholders
 
@@ -52,6 +412,24 @@ The government was concerned about the problems and the government could resolve
 
 ---
 
+### Dammika Perera’s Vallibel boost Sri Lanka’s Laugfs stake to 50-pct
+
+*2025-09-12 15:47:00* · [`economynextcom`](https://economynext.com/dammika-pereras-vallibel-boost-sri-lankas-laugfs-stake-to-50-pct-240396/) · `en`
+
+ECONOMYNEXT – Vallibel Three (Pvt) Ltd, controlled by billionaire Dammika Perera has acquired another 10.4 percent of Laugfs Holdings, taking its total holding to 50 percent, a stock exchange filing said.
+
+Laugfs founder W K H Wegapitiya has transferred 10 percent of the firm to Vallible and two shareholders now controlled equal stakes.
+
+Founder director Tilak de Silva earlier sold his 39 percent stake to the Vallibel earlier. (Colombo/Sept12/2025)
+
+◼️
+
+[Data](articles/9f26366b.json)
+
+[Extended Data](ext_articles/9f26366b.ext.json)
+
+---
+
 ### Showers in some parts of the weekend
 
 *2025-09-12 15:46:48* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයේ-පළාත්-කිහිපයකට-වැසි/11-418454) · `si`
@@ -63,6 +441,32 @@ Several showers will occur in the Western, Sabaragamuwa provinces and several sh
 [Data](articles/50aa36d2.json)
 
 [Extended Data](ext_articles/50aa36d2.ext.json)
+
+---
+
+### Sri Lanka stocks close down, budget concerns cause volatility
+
+*2025-09-12 15:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-budget-concerns-cause-volatility-240388/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+“Some investors are talking about the budget, there’s confusion creating some volatility,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+“After the initial dip the market rallied, but slid back down.”
+
+The ASPI was down 0.14 percent, or 29.43 points, at 20,612. The S&P SL20 was down 0.22 percent, or 12.73 points, at 5,873.
+
+The top five positive contributors to the ASPI were DFCC Bank (up 2.75 rupees at 155.75), Nations Trust Bank (up 5.75 rupees at 268), Chevron Lubricants (up 4 rupees at 174), Cargills (Ceylon0 (up 9.75 rupees at 809.75), and Watawala Plantations (up 1.40 rupees at 36.10).
+
+Commercial Bank (down 3 rupees at 187) and Sampath Bank (down 75 cents at 140 rupees) were among the negative contributors weighing the index down.
+
+“There is some investor interest in the smaller banks like SDB.”
+
+...
+
+[Data](articles/46eb1043.json)
+
+[Extended Data](ext_articles/46eb1043.ext.json)
 
 ---
 
@@ -1653,375 +2057,5 @@ There was ample evidence that Bolsonaro, who is currently under house arrest, ac
 [Data](articles/c7620f48.json)
 
 [Extended Data](ext_articles/c7620f48.ext.json)
-
----
-
-### Can't accommodate women insulting women
-
-*2025-09-12 06:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களை-அவமதிக்க-இடமளிக்க-முடியாது/175-364452) · `ta`
-
-Opposition MP Prasad Siriwardena has commented on insulting Lakmali Hemachandra, a woman from the ruling party.. This is an act of insulting the entire women.. Prime Minister Harini Amarasuriya urged the Speaker to severely warn the concerned MP.
-
-During the session held in Parliament on Wednesday (10), Lakmali Hemachandra commented on the MP to insult the MP.
-
-In South Asian countries, the female representation was low in Sri Lanka. This time 22 female representatives were elected to parliament.   Opposition parties speak insulting women as they are taking action to increase the representation of female representation.
-
-We are trying to defeat this improper culture. The entire women should be considered insulting Lakmali Hemachandra.. The talents of female representatives are challenged by male representatives. Therefore, the Opposition MPs are strongly warned of improper opinion.
-
-◼️
-
-[Data](articles/76ab5a79.json)
-
-[Extended Data](ext_articles/76ab5a79.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-12 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112414/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
-
-Several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, the Department of Meteorology said.
-
-Showers or thundershowers will occur at several places in Northern, Eastern and Uva provinces after 1.00 p.m.
-
-Fairly heavy rainfall of about 50 mm are likely at some places.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/cfbb3c5a.json)
-
-[Extended Data](ext_articles/cfbb3c5a.ext.json)
-
----
-
-### EDEX Mid-Year Expo kicks off tomorrow, unlocking opportunities for future  leaders
-
-*2025-09-12 06:25:47* · [`dailyftlk`](https://www.ft.lk/business/EDEX-Mid-Year-Expo-kicks-off-tomorrow-unlocking-opportunities-for-future-leaders/34-781565) · `en`
-
-Distinguished Head Table at media briefing of EDEX Mid-Year Expo 2025
-
-EDEX Mid-Year Expo 2025, Sri Lanka’s premier education and career fair, will return on 13-14 September to the BMICH, Colombo.
-
-This highly anticipated event will open doors for students, job seekers, and professionals to explore education pathways and career opportunities both locally and internationally.
-
-This year’s expo will consist of around 50 leading educational institutions, 10 corporates, and direct overseas exhibitors from Dubai and Indonesia, giving attendees access to higher education and employment opportunities in Sri Lanka and abroad. The expo fulfils its ongoing mission of inspiring and empowering Sri Lankan youth to become globally competitive.
-
-...
-
-[Data](articles/091a980f.json)
-
-[Extended Data](ext_articles/091a980f.ext.json)
-
----
-
-### Brazilian President Balsounoro a 27 year prison
-
-*2025-09-12 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214461) · `si`
-
-Former Brazilian President Jeir Bolzonarho, who was convicted of planning a military conspiracy, has been sentenced to 27 years and three months in prison.
-
-A few hours after the former president was convicted, this sentence was sentenced to the majority of the five judges.
-
-The four judges decided to be found guilty, and one has voted to release him.
-
-He was convicted of the planning of a conspiracy to stay in power after the defeat of his leftist opponent in the 2022 election.
-
-◼️
-
-[Data](articles/cec9b6f5.json)
-
-[Extended Data](ext_articles/cec9b6f5.ext.json)
-
----
-
-### Main problem is Indian illegal fishing, not possession of Katchatheevu
-
-*2025-09-12 06:23:13* · [`dailyftlk`](https://www.ft.lk/columns/Main-problem-is-Indian-illegal-fishing-not-possession-of-Katchatheevu/4-781564) · `en`
-
-The fact that the Sri Lankan navy is arresting only those fishing illegally in Sri Lankan waters is covered up, glossed over, omitted or ignored
-
-Sri Lankan President Anura Kumara Disanayake (AKD) made history when he became the first Sri Lankan head of state to set foot on Katchatheevu (spelled as Kachchatheevu also) soil on 1 September 2025. Among those who accompanied the President on his maiden voyage to the northern off-shore islet in the naval speedboat P 211 were Fisheries Minister Ramalingam Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-...
-
-[Data](articles/270e95de.json)
-
-[Extended Data](ext_articles/270e95de.ext.json)
-
----
-
-### Heavy rains this afternoon
-
-*2025-09-12 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214460) · `si`
-
-Several spells of showers in the Western and Sabaragamuwa provinces today (12).
-
-Showers or thundershowers will occur at several places in the Northern, Eastern and Uva provinces.
-
-The Department of Meteorology says that today's latest weather forecast for today.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-◼️
-
-[Data](articles/6900ed2d.json)
-
-[Extended Data](ext_articles/6900ed2d.ext.json)
-
----
-
-### WIPO’s GII for my breakfast: This year’s serving is on 16 Sept.
-
-*2025-09-12 06:18:30* · [`dailyftlk`](https://www.ft.lk/columns/WIPO-s-GII-for-my-breakfast-This-year-s-serving-is-on-16-Sept/4-781563) · `en`
-
-Feedback is the Breakfast of Champions is a popular phrase attributed to the author Ken Blanchard. His succinct writings using One Minute themes have a global following. The Deming cycle PDCA (Plan-Do-Check-Action) has embedded the feedback loop into the top management governance cycle and is a gold standard in management practices. Our PDCA is more akin to Politics-Diatribe-Constituency-Attrition in practice. However, in our nation’s planning, feedback is not exactly visible. Our breakfast of short eats or loads of carbs with some sambol and curry has led to more NCD prevalence than progress.
-
-...
-
-[Data](articles/167f2e10.json)
-
-[Extended Data](ext_articles/167f2e10.ext.json)
-
----
-
-### EPDP. Inquire to Sadda
-
-*2025-09-12 06:18:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-பி-டி-பி-சதாவிடம்-விசாரிக்கவும்/175-364451) · `ta`
-
-Sada alias Sapaiya Ponniah, who has been together for 18 years with EPDP's Douglas Devananda, 'Nimalarajan, Miracle.  The EPDP has announced a media briefing to assassinate Nickelus.
-
-So the government, Sivagnanam Sreedharan, the Jaffna district MP of the Tamil National Party (TNA), has raised the matter of the government and the government is trying to protect the military. If he was acting in the way of Sri Lanka, why should he refuse to investigate
-
-Speaking at a debate on the National Audit (Amendment) Bill held in Parliament on Thursday (11), he said.
-
-Sada alias Subbiah Ponniah, who has been together for 18 years with EPDP's Douglas Devananda, held a media briefing at the Jaffna Center on 09.09.2012.. Sada said that the EPDP had committed many killings. Will the government start investigations?
-
-...
-
-[Data](articles/a32aedc1.json)
-
-[Extended Data](ext_articles/a32aedc1.ext.json)
-
----
-
-### Responsibility of universities in getting graduates job-ready
-
-*2025-09-12 06:14:36* · [`dailyftlk`](https://www.ft.lk/columns/Responsibility-of-universities-in-getting-graduates-job-ready/4-781561) · `en`
-
-Universities must be both sanctuaries for knowledge and launchpads for careers
-
-For centuries, universities were sanctuaries of scholarship, tasked with preserving and transmitting knowledge. While this foundation remains vital, today’s rapidly changing world has added a new responsibility: ensuring that graduates are not only knowledgeable but also job-ready.
-
-This shift is driven by multiple stakeholders. Families invest heavily in education with the expectation of employment, while governments and industries support universities to generate a skilled workforce. When graduates lack the skills employers need, universities risk losing credibility and relevance.
-
-...
-
-[Data](articles/d379cc25.json)
-
-[Extended Data](ext_articles/d379cc25.ext.json)
-
----
-
-### Over tourism or over visitation?
-
-*2025-09-12 06:11:12* · [`dailyftlk`](https://www.ft.lk/columns/Over-tourism-or-over-visitation/4-781559) · `en`
-
-In the wake of the post-pandemic tourism boom, there is also mounting backlash against an excess of tourism in many countries. When too many tourists flock to a destination, exceeding its ability to manage it sustainably, it leads to negative impacts such as overcrowding, environmental degradation, strained infrastructure, reduced quality of life for residents, and a diminished visitor experience.
-
-This is referred to as ‘over tourism’ or sometimes as ‘over visitation’.
-
-Although the two terms sound similar, they are not quite the same. They differ in scope, impact, and interpretation.
-
-...
-
-[Data](articles/f7ec5fd6.json)
-
-[Extended Data](ext_articles/f7ec5fd6.ext.json)
-
----
-
-### The points are the tigers that are not changed
-
-*2025-09-12 06:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளிகள்-மாறாத-புலிகளே/175-364450) · `ta`
-
-United People's Power Parliamentarian Saminda Wijesiri said that those who have called for the burning of parliament during the Arakalai period are now shamelessly claiming that they should protect the dignity and law of Parliament and that they are now wearing tie and court.
-
-He said this while addressing a debate on the National Audit Amendment Bill held in Parliament on Thursday (11).
-
-Bimal Ratnayake, who is wearing a court, said in the morning of the House of Parliament and the law of Parliament. But they said that the Parliament should be completed in the Arakala period and the protesters should come.
-
-Now we are wearing a court and talking about the law of Parliament. Not ashamed? Those who are said to be burned now say that the prestige of Parliament should be preserved. They talk like they are dead. But they are the tigers wearing the tie and the court.
-
-...
-
-[Data](articles/61b04fd4.json)
-
-[Extended Data](ext_articles/61b04fd4.ext.json)
-
----
-
-### Strategic audits: Health check every strategy needs
-
-*2025-09-12 06:06:29* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-audits-Health-check-every-strategy-needs/4-781558) · `en`
-
-When we fall ill, symptoms like fever or fatigue warn us that something is wrong. Organisations too face symptoms when their strategy is not working – declining performance, disengaged employees, or dissatisfied customers. But unlike the human body, strategy rarely sends obvious signals until it is too late. Traditionally, businesses rely on annual or mid-year reviews. The question is: are these enough?
-
-In today’s volatile environment, the answer is a clear no. A far more powerful tool exists: the strategic audit. Just as medical check-ups prevent illnesses from becoming critical, strategic audits diagnose weaknesses, test assumptions, and keep strategies relevant.
-
-Before diving into strategic audits, we must first revisit strategy itself. Strategy has been defined in many ways:
-
-...
-
-[Data](articles/5edc508a.json)
-
-[Extended Data](ext_articles/5edc508a.ext.json)
-
----
-
-### "Priests Math: Punishment if they are alive"
-
-*2025-09-12 06:04:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மடம்-உயிருடன்-இருந்தால்-தண்டனை/175-364449) · `ta`
-
-The priests get our justice for the people affected by the monastery. At the same time, state -of -the -art MP Basmin Sharif said that if the involvement of the incident is alive, they will be punished.
-
-Speaking at a debate on the National Audit (Amendment) Bill held in Parliament on Thursday (11), he said.
-
-A former minister accuses our Justice Minister over the murder of the priests. But the Minister of Justice has taken steps to investigate the case of the priests. He has visited the priests monastery directly. So the Muslims will definitely be justified in this issue. At the same time, all those who are involved in the killings will be punished.
-
-...
-
-[Data](articles/132924d7.json)
-
-[Extended Data](ext_articles/132924d7.ext.json)
-
----
-
-### Man-made waterloo of Kinross Beach
-
-*2025-09-12 05:58:52* · [`dailyftlk`](https://www.ft.lk/columns/Man-made-waterloo-of-Kinross-Beach/4-781555) · `en`
-
-For generations, Kinross Beach was more than just a stretch of sand; it was the vibrant heart of a community. It was the training ground for national athletes, the backdrop for countless family picnics, and the stage for sporting legends. It represented a shared public space where memory and community were forged, a testament to the simple, enduring joy of our coastal heritage. Yet, today, the ghosts of this arcadian past are swallowed by a desolate present, a mere rusting skeleton of what it once was. The once-vibrant shoreline is now a casualty of an unnatural disaster, a man-made waterloo that serves as a chilling indictment of civic neglect and corporate greed.
-
-...
-
-[Data](articles/ac08a610.json)
-
-[Extended Data](ext_articles/ac08a610.ext.json)
-
----
-
-### ICC Sri Lanka inaugurates new Arbitration and Mediation Hearing Centre
-
-*2025-09-12 05:54:16* · [`dailyftlk`](https://www.ft.lk/business/ICC-Sri-Lanka-inaugurates-new-Arbitration-and-Mediation-Hearing-Centre/34-781554) · `en`
-
-Cutting the ribbon (From left): International Chamber of Commerce Sri Lanka Vice Chairman Johnny Fernando, ICC Sri Lanka Board Members Renuka Weerakoone, Anil Koswatte, ICC Dispute Resolution Services Director of Arbitration and ADR, South Asia Tejus Chauhan, International Chamber of Commerce Sri Lanka and ICC Sri Lanka Arbitration and Mediation Hearing Centre Chairman Shanil Fernando
-
-Opening the plaque (From left): ICC Dispute Resolution Services Director of Arbitration and ADR, South Asia Tejus Chauhan, International Chamber of Commerce Sri Lanka and ICC Sri Lanka Arbitration and Mediation Hearing Centre Chairman Shanil Fernando, International Chamber of Commerce Sri Lanka Vice Chairman Johnny Fernando, ICC SL Board Members Sheanath De Soysa, Isuru Gunaratne (fifth from left), Renuka Weerakoone, and Anil Koswatte
-
-...
-
-[Data](articles/995a1043.json)
-
-[Extended Data](ext_articles/995a1043.ext.json)
-
----
-
-### The head of the US trade agency meets president
-
-*2025-09-12 05:52:41* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජනපද-වෙළෙඳ-නියෝජිතායතනයේ-ප්‍රධානීහු-ජනපති-හමු-වෙති/11-418445) · `si`
-
-The heads of the US trade agency met with President Anura Kumara Dissanayake at the President's Office today (11).
-
-US trade agencies are the chiefs of the US trade agencies that have been appointed by the Government of Sri Lanka to discuss the tariffs of the US trade delegation.
-
-The US trade agency (UTE) for economic activities in Sri Lanka also focused on trade agreements to be established between the United States and Sri Lanka in the future.
-
-The President, who is a large amount of influence in Sri Lanka and an outsourced influence, the President has been able to influence the largest impact on the external pressure.. It is also important to focus on strengthening the long-term ties in both countries when making decisions.
-
-US Ambassador Julie Chung Julie Cung (South Asia) Emily Ashby (South and Central Asia) Brendan Lynch (South and Central Asia) Brendan Lynch at the US Embassy in Sri Lanka
-
-...
-
-[Data](articles/24036f71.json)
-
-[Extended Data](ext_articles/24036f71.ext.json)
-
----
-
-### EFC National Best Employer Awards 2025
-
-*2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
-
-Employers’ Federation of Ceylon has launched Sri Lanka’s first-ever ‘National Best Employer Awards’ – celebrating organisational excellence and human-centred leadership.
-
-At a time when Sri Lanka is rediscovering its strength and optimism, the Employers’ Federation of Ceylon (EFC) has announced the launch of the inaugural EFC National Best Employer Awards 2025. This landmark initiative comes at a pivotal moment in the nation’s journey, as organisations and communities embrace resilience, innovation, and purpose.
-
-The awards represent a national movement to honour organisations that redefine what it means to be truly great employers—entities that go beyond profit to create workplaces where people thrive, communities are uplifted, and values are lived with purpose. The program will recognise those who champion holistic wellbeing while driving sustainable business practices and meaningful social impact.
-
-...
-
-[Data](articles/85f23252.json)
-
-[Extended Data](ext_articles/85f23252.ext.json)
-
----
-
-### Rajapaksa vacates official residence after Parliament strips ex-Presidential privileges
-
-*2025-09-12 05:48:39* · [`dailyftlk`](https://www.ft.lk/news/Rajapaksa-vacates-official-residence-after-Parliament-strips-ex-Presidential-privileges/56-781552) · `en`
-
-Former President Mahinda Rajapaksa was seen leaving his official residence located at Wijerama Road in Colombo 7 yesterday
-
-Former President Mahinda Rajapaksa yesterday vacated his official residence in Colombo and moved back to his private home in Carlton, Tangalle, following the passage of new legislation that repeals longstanding perks for ex-Presidents.
-
-On Wednesday, Parliament voted 151–1 in favour of the Presidents’ Entitlement (Repeal) Act, No. 18 of 2025, a flagship pre-election pledge of the ruling National People’s Power (NPP) Government. The law repeals the Presidents’ Entitlement Act, No. 4 of 1986, which provided former Presidents and their widows with official residences, staff, vehicles, and other privileges.
-
-As he departed his Colombo residence, Rajapaksa made a brief statement to the media: “We were asked to leave, so we’re leaving.” When asked if he would exit politics, the former President replied that he had no intention of stepping away.
-
-...
-
-[Data](articles/b23daaca.json)
-
-[Extended Data](ext_articles/b23daaca.ext.json)
-
----
-
-### SC allows petition over MR’s unpaid Rs. 2.6 m electricity bill
-
-*2025-09-12 05:47:33* · [`dailyftlk`](https://www.ft.lk/news/SC-allows-petition-over-MR-s-unpaid-Rs-2-6-m-electricity-bill/56-781551) · `en`
-
-The Supreme Court (SC) yesterday granted leave to proceed with a Fundamental Rights petition seeking an order compelling the Ceylon Electricity Board (CEB) to produce records on an alleged unpaid electricity bill of Rs. 2.6 million linked to former President Mahinda Rajapaksa’s residence in Weeraketiya.
-
-The petition states that MP Namal Rajapaksa’s wedding on 12 September 2019, and subsequent receptions at the Weeraketiya residence, gave rise to the disputed bill.
-
-The Supreme Court allowed the case to proceed, with the petitioner alleging a violation of Fundamental Rights under Article 12(1) of the Constitution.
-
-The petition names the CEB, its Chairman, the Auditor General, former Power and Energy Minister Kanchana Wijesekera, Mahinda Rajapaksa, Namal Rajapaksa, MP D.V. Chanaka, and others as Respondents.
-
-◼️
-
-[Data](articles/bba764bc.json)
-
-[Extended Data](ext_articles/bba764bc.ext.json)
-
----
-
-### Netherlands steps up support for rural bridges project with additional € 730,000 grant
-
-*2025-09-12 05:47:14* · [`dailyftlk`](https://www.ft.lk/news/Netherlands-steps-up-support-for-rural-bridges-project-with-additional-730-000-grant/56-781550) · `en`
-
-The Netherlands has approved an additional grant of € 730,000 to support Sri Lanka’s Design and Construction of Rural Bridges Project, a flagship initiative aimed at improving rural connectivity and livelihoods.
-
-The fresh funding comes at a critical stage of the Project, which has already achieved 96% physical progress, with 151 of the planned 162 bridges completed as of September 2025. The remaining bridges are scheduled for completion by February 2026, marking the full delivery of a program designed to ease mobility, improve market access, and enhance the quality of life in rural communities across the country.
-
-The Project was originally financed under a € 41.8 million loan agreement with Coöperatieve Rabobank U.A. of the Netherlands, covering 75% of costs. The remaining 25%, amounting to € 13.9 million, was initially funded through a grant from the Netherlands Foreign Investment Bank ‘Invest International.’
-
-...
-
-[Data](articles/0c210969.json)
-
-[Extended Data](ext_articles/0c210969.ext.json)
 
 ---

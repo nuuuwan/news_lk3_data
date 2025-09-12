@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 17:20:21**
+As of **2025-09-12 16:53:36**
 
 ## Newspaper Stats
 
-*Scraped **75,600** Articles*
+*Scraped **75,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,165 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,588
+economynextcom | 4,584
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,338
+adalk | 7,336
 adaderanalk | 9,711
-tamilmirrorlk | 11,301
+tamilmirrorlk | 11,300
 virakesarilk | 12,317
-adaderanasinhalalk | 13,171
+adaderanasinhalalk | 13,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,609 (90.8%) of 75,600 articles have been extended.
+68,595 (90.7%) of 75,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### ඇල්ලේ ඛේදවාචකයෙන් බරපතළ තුවාල ලබා සිටි කාන්තාවක් ජීවිතය හැරයයි
-
-*2025-09-12 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214488) · `si`
-
-ඇල්ල - වැල්ලවාය ප්‍රධාන මාර්ගයේ සිදුවූ බස් අනතුරින් බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටි කාන්තාවක් අද (12) ජීවිතක්ෂයට පත්ව තිබේ.
-
-අප වාර්තාකරු පැවසුවේ එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 41 හැවිරිදි නාමලී ගමගේ නැමති තංගල්ල නගර සභාවේ සේවිකාවක් බවය.
-
-ඇල්ල - වැල්ලවාය මාර්ගයේ 24 වන සැතපුම් කණුව ආසන්නයේ සිදුවූ රිය අනතුරෙන් මේ වනවිට මියගිය පුද්ගලයින් ගණන 16ක් දක්වා ඉහළ ගොස් තිබේ.
-
-◼️
-
-[Data](articles/166d00ea.json)
-
----
-
-### Maharaja Foods and SPAR Sri Lanka to set up retail outlets
-
-*2025-09-12 17:00:00* · [`economynextcom`](https://economynext.com/maharaja-foods-and-spar-sri-lanka-to-set-up-retail-outlets-240402/) · `en`
-
-ECONOMYNEXT – Maharaja Foods PLC and SPAR Sri Lanka Pvt Ltd have signed an agreement to establish four new retail outlets in the Colombo region, the company said in a stock exchange filing.
-
-“This collaboration brings together Maharaja Foods PLC’s product expertise and distribution capabilities with SPAR Sri Lanka Pvt Ltd’s international retail standards and operational framework.”
-
-Development activities are expected to commence immediately following the MOU signing, with phased rollouts planned later.
-
-The move is part of the company’s long-term strategy to expand its retail presence, enhance consumer access, and strengthen its position in the FMCG and food retail sector, Maharaja Foods said.
-
-Further updates will be communicated to the Exchange and shareholders as appropriate, Maharaja Foods said. (Colombo/Sep12/2025)
-
-◼️
-
-[Data](articles/ba40ae77.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields flat
-
-*2025-09-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-flat-240398/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/95 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2028 closed at 9.05/15 percent, up from 9.05/14 percent.
-
-A bond maturing on 15.12.2029 closed flat at 9.50/55 percent.
-
-A bond maturing on 01.07.2030 closed at 9.70/80 percent, up form 9.70/76 percent.
-
-A bond maturing on 01.10.2032 closed at 10.40/46 percent. (Colombo/Sep12/2025)
-
-◼️
-
-[Data](articles/2709b8a8.json)
-
----
-
-### Floods in Indonesia
-
-*2025-09-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214487) · `si`
-
-Floods have risen to 16 people with the floods with bad weather conditions affected by the Bali Islands in Indonesia.
-
-Foreign media reports that two others have disappeared and the disappeared disappeared and the operations have commenced.
-
-The disaster management divisions have also taken steps to send 562 persons affected by disasters to safety places.
-
-The Indonesian weather sects have been notified to be aware of the rainy season.
-
-◼️
-
-[Data](articles/fc1462fa.json)
-
-[Extended Data](ext_articles/fc1462fa.ext.json)
-
----
-
-### Elderly death
-
-*2025-09-12 16:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-வயோதிபர்-மரணம்/175-364470) · `ta`
-
-காலியில் மெதம்பாகம பிரதேசத்தில் உள்ள ரயில் கடவையில் நேற்று மாலை ரயிலில் மோதி வயோதிபர் உயிரிழந்துள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
-
-The deceased is 68 years old from Galle - Pusa, police said.
-
-◼️
-
-[Data](articles/d0c8708d.json)
-
-[Extended Data](ext_articles/d0c8708d.ext.json)
-
----
-
-### A three-wheeler accident where eight
-
-*2025-09-12 16:19:15* · [`adalk`](https://www.ada.lk/breaking_news/අට-දෙනෙක්-ගමන්-කළ-ත්‍රීරෝද-රථ-අනතුරක/11-418456) · `si`
-
-A three-wheeler transport and a car transported by the Norwood main road, a schoolgirl and a schoolgirl and the driver of the three-wheeler hospital.
-
-The accident occurred today (12th), Hatton Norwood main road is in Neaweiwela,
-
-The accident had occurred from a car from Diyasiri Tamil Maha Vidyalaya to the Norwood Tamil Vidyalaya, where school children were transporting school children from Diyasiyig Tamil Maha Vidyalaya this morning.
-
-There were six schools with six schools and a teacher in the three-wheeler at the time of the accident.
-
-Norwood police said that over the three-wheeler were driven by over the three-wheeler, the Norwood police are conducting further investigations.
-
-◼️
-
-[Data](articles/55a3aa44.json)
-
-[Extended Data](ext_articles/55a3aa44.ext.json)
-
----
-
-### Apart of Katunayake Air Force
-
-*2025-09-12 16:13:56* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ගුවනින්-ආපු-සර්පයෝ/11-418455) · `si`
-
-The Katunayaka passenger woman who has been taken to the "Green Mawatha" (GREEN PAINNELL), the Katunayaka Mawatha, which is not told by the "Green Channel '(GREEN AIRMA) has been sent to the" Green Channel ". Arrested on intelligence information.
-
-She is a 40 year old businessman residing in Keselwatta, Colombo. She had arrived at Thailand in Thailand and arrived at Chennai in Thailand and arrived at the Katunayake Airport on N.- 1173.
-
-The woman brought mettic in two baggage she had brought. Happened.
-
-When she became a large bodied snakes, they would be impossible to release them to forest areas, as they were to sell these snakes, as they were to keep their homes in their homes.
-
-In a plane, such living animals have been illegally and dangerous to the Customs Premise, customs officially ordered to take back these snakes after Customs Investigations.
-
-...
-
-[Data](articles/df2b6032.json)
-
-[Extended Data](ext_articles/df2b6032.ext.json)
-
----
 
 ### President and construction industry meet with stakeholders
 
@@ -192,22 +52,6 @@ The government was concerned about the problems and the government could resolve
 
 ---
 
-### Dammika Perera’s Vallibel boost Sri Lanka’s Laugfs stake to 50-pct
-
-*2025-09-12 15:47:00* · [`economynextcom`](https://economynext.com/dammika-pereras-vallibel-boost-sri-lankas-laugfs-stake-to-50-pct-240396/) · `en`
-
-ECONOMYNEXT – Vallibel Three (Pvt) Ltd, controlled by billionaire Dammika Perera has acquired another 10.4 percent of Laugfs Holdings, taking its total holding to 50 percent, a stock exchange filing said.
-
-Laugfs founder W K H Wegapitiya has transferred 10 percent of the firm to Vallible and two shareholders now controlled equal stakes.
-
-Founder director Tilak de Silva earlier sold his 39 percent stake to the Vallibel earlier. (Colombo/Sept12/2025)
-
-◼️
-
-[Data](articles/9f26366b.json)
-
----
-
 ### Showers in some parts of the weekend
 
 *2025-09-12 15:46:48* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයේ-පළාත්-කිහිපයකට-වැසි/11-418454) · `si`
@@ -219,30 +63,6 @@ Several showers will occur in the Western, Sabaragamuwa provinces and several sh
 [Data](articles/50aa36d2.json)
 
 [Extended Data](ext_articles/50aa36d2.ext.json)
-
----
-
-### Sri Lanka stocks close down, budget concerns cause volatility
-
-*2025-09-12 15:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-budget-concerns-cause-volatility-240388/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-“Some investors are talking about the budget, there’s confusion creating some volatility,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-“After the initial dip the market rallied, but slid back down.”
-
-The ASPI was down 0.14 percent, or 29.43 points, at 20,612. The S&P SL20 was down 0.22 percent, or 12.73 points, at 5,873.
-
-The top five positive contributors to the ASPI were DFCC Bank (up 2.75 rupees at 155.75), Nations Trust Bank (up 5.75 rupees at 268), Chevron Lubricants (up 4 rupees at 174), Cargills (Ceylon0 (up 9.75 rupees at 809.75), and Watawala Plantations (up 1.40 rupees at 36.10).
-
-Commercial Bank (down 3 rupees at 187) and Sampath Bank (down 75 cents at 140 rupees) were among the negative contributors weighing the index down.
-
-“There is some investor interest in the smaller banks like SDB.”
-
-...
-
-[Data](articles/46eb1043.json)
 
 ---
 
@@ -2039,5 +1859,169 @@ Now we are wearing a court and talking about the law of Parliament. Not ashamed?
 [Data](articles/61b04fd4.json)
 
 [Extended Data](ext_articles/61b04fd4.ext.json)
+
+---
+
+### Strategic audits: Health check every strategy needs
+
+*2025-09-12 06:06:29* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-audits-Health-check-every-strategy-needs/4-781558) · `en`
+
+When we fall ill, symptoms like fever or fatigue warn us that something is wrong. Organisations too face symptoms when their strategy is not working – declining performance, disengaged employees, or dissatisfied customers. But unlike the human body, strategy rarely sends obvious signals until it is too late. Traditionally, businesses rely on annual or mid-year reviews. The question is: are these enough?
+
+In today’s volatile environment, the answer is a clear no. A far more powerful tool exists: the strategic audit. Just as medical check-ups prevent illnesses from becoming critical, strategic audits diagnose weaknesses, test assumptions, and keep strategies relevant.
+
+Before diving into strategic audits, we must first revisit strategy itself. Strategy has been defined in many ways:
+
+...
+
+[Data](articles/5edc508a.json)
+
+[Extended Data](ext_articles/5edc508a.ext.json)
+
+---
+
+### "Priests Math: Punishment if they are alive"
+
+*2025-09-12 06:04:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மடம்-உயிருடன்-இருந்தால்-தண்டனை/175-364449) · `ta`
+
+The priests get our justice for the people affected by the monastery. At the same time, state -of -the -art MP Basmin Sharif said that if the involvement of the incident is alive, they will be punished.
+
+Speaking at a debate on the National Audit (Amendment) Bill held in Parliament on Thursday (11), he said.
+
+A former minister accuses our Justice Minister over the murder of the priests. But the Minister of Justice has taken steps to investigate the case of the priests. He has visited the priests monastery directly. So the Muslims will definitely be justified in this issue. At the same time, all those who are involved in the killings will be punished.
+
+...
+
+[Data](articles/132924d7.json)
+
+[Extended Data](ext_articles/132924d7.ext.json)
+
+---
+
+### Man-made waterloo of Kinross Beach
+
+*2025-09-12 05:58:52* · [`dailyftlk`](https://www.ft.lk/columns/Man-made-waterloo-of-Kinross-Beach/4-781555) · `en`
+
+For generations, Kinross Beach was more than just a stretch of sand; it was the vibrant heart of a community. It was the training ground for national athletes, the backdrop for countless family picnics, and the stage for sporting legends. It represented a shared public space where memory and community were forged, a testament to the simple, enduring joy of our coastal heritage. Yet, today, the ghosts of this arcadian past are swallowed by a desolate present, a mere rusting skeleton of what it once was. The once-vibrant shoreline is now a casualty of an unnatural disaster, a man-made waterloo that serves as a chilling indictment of civic neglect and corporate greed.
+
+...
+
+[Data](articles/ac08a610.json)
+
+[Extended Data](ext_articles/ac08a610.ext.json)
+
+---
+
+### ICC Sri Lanka inaugurates new Arbitration and Mediation Hearing Centre
+
+*2025-09-12 05:54:16* · [`dailyftlk`](https://www.ft.lk/business/ICC-Sri-Lanka-inaugurates-new-Arbitration-and-Mediation-Hearing-Centre/34-781554) · `en`
+
+Cutting the ribbon (From left): International Chamber of Commerce Sri Lanka Vice Chairman Johnny Fernando, ICC Sri Lanka Board Members Renuka Weerakoone, Anil Koswatte, ICC Dispute Resolution Services Director of Arbitration and ADR, South Asia Tejus Chauhan, International Chamber of Commerce Sri Lanka and ICC Sri Lanka Arbitration and Mediation Hearing Centre Chairman Shanil Fernando
+
+Opening the plaque (From left): ICC Dispute Resolution Services Director of Arbitration and ADR, South Asia Tejus Chauhan, International Chamber of Commerce Sri Lanka and ICC Sri Lanka Arbitration and Mediation Hearing Centre Chairman Shanil Fernando, International Chamber of Commerce Sri Lanka Vice Chairman Johnny Fernando, ICC SL Board Members Sheanath De Soysa, Isuru Gunaratne (fifth from left), Renuka Weerakoone, and Anil Koswatte
+
+...
+
+[Data](articles/995a1043.json)
+
+[Extended Data](ext_articles/995a1043.ext.json)
+
+---
+
+### The head of the US trade agency meets president
+
+*2025-09-12 05:52:41* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජනපද-වෙළෙඳ-නියෝජිතායතනයේ-ප්‍රධානීහු-ජනපති-හමු-වෙති/11-418445) · `si`
+
+The heads of the US trade agency met with President Anura Kumara Dissanayake at the President's Office today (11).
+
+US trade agencies are the chiefs of the US trade agencies that have been appointed by the Government of Sri Lanka to discuss the tariffs of the US trade delegation.
+
+The US trade agency (UTE) for economic activities in Sri Lanka also focused on trade agreements to be established between the United States and Sri Lanka in the future.
+
+The President, who is a large amount of influence in Sri Lanka and an outsourced influence, the President has been able to influence the largest impact on the external pressure.. It is also important to focus on strengthening the long-term ties in both countries when making decisions.
+
+US Ambassador Julie Chung Julie Cung (South Asia) Emily Ashby (South and Central Asia) Brendan Lynch (South and Central Asia) Brendan Lynch at the US Embassy in Sri Lanka
+
+...
+
+[Data](articles/24036f71.json)
+
+[Extended Data](ext_articles/24036f71.ext.json)
+
+---
+
+### EFC National Best Employer Awards 2025
+
+*2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
+
+Employers’ Federation of Ceylon has launched Sri Lanka’s first-ever ‘National Best Employer Awards’ – celebrating organisational excellence and human-centred leadership.
+
+At a time when Sri Lanka is rediscovering its strength and optimism, the Employers’ Federation of Ceylon (EFC) has announced the launch of the inaugural EFC National Best Employer Awards 2025. This landmark initiative comes at a pivotal moment in the nation’s journey, as organisations and communities embrace resilience, innovation, and purpose.
+
+The awards represent a national movement to honour organisations that redefine what it means to be truly great employers—entities that go beyond profit to create workplaces where people thrive, communities are uplifted, and values are lived with purpose. The program will recognise those who champion holistic wellbeing while driving sustainable business practices and meaningful social impact.
+
+...
+
+[Data](articles/85f23252.json)
+
+[Extended Data](ext_articles/85f23252.ext.json)
+
+---
+
+### Rajapaksa vacates official residence after Parliament strips ex-Presidential privileges
+
+*2025-09-12 05:48:39* · [`dailyftlk`](https://www.ft.lk/news/Rajapaksa-vacates-official-residence-after-Parliament-strips-ex-Presidential-privileges/56-781552) · `en`
+
+Former President Mahinda Rajapaksa was seen leaving his official residence located at Wijerama Road in Colombo 7 yesterday
+
+Former President Mahinda Rajapaksa yesterday vacated his official residence in Colombo and moved back to his private home in Carlton, Tangalle, following the passage of new legislation that repeals longstanding perks for ex-Presidents.
+
+On Wednesday, Parliament voted 151–1 in favour of the Presidents’ Entitlement (Repeal) Act, No. 18 of 2025, a flagship pre-election pledge of the ruling National People’s Power (NPP) Government. The law repeals the Presidents’ Entitlement Act, No. 4 of 1986, which provided former Presidents and their widows with official residences, staff, vehicles, and other privileges.
+
+As he departed his Colombo residence, Rajapaksa made a brief statement to the media: “We were asked to leave, so we’re leaving.” When asked if he would exit politics, the former President replied that he had no intention of stepping away.
+
+...
+
+[Data](articles/b23daaca.json)
+
+[Extended Data](ext_articles/b23daaca.ext.json)
+
+---
+
+### SC allows petition over MR’s unpaid Rs. 2.6 m electricity bill
+
+*2025-09-12 05:47:33* · [`dailyftlk`](https://www.ft.lk/news/SC-allows-petition-over-MR-s-unpaid-Rs-2-6-m-electricity-bill/56-781551) · `en`
+
+The Supreme Court (SC) yesterday granted leave to proceed with a Fundamental Rights petition seeking an order compelling the Ceylon Electricity Board (CEB) to produce records on an alleged unpaid electricity bill of Rs. 2.6 million linked to former President Mahinda Rajapaksa’s residence in Weeraketiya.
+
+The petition states that MP Namal Rajapaksa’s wedding on 12 September 2019, and subsequent receptions at the Weeraketiya residence, gave rise to the disputed bill.
+
+The Supreme Court allowed the case to proceed, with the petitioner alleging a violation of Fundamental Rights under Article 12(1) of the Constitution.
+
+The petition names the CEB, its Chairman, the Auditor General, former Power and Energy Minister Kanchana Wijesekera, Mahinda Rajapaksa, Namal Rajapaksa, MP D.V. Chanaka, and others as Respondents.
+
+◼️
+
+[Data](articles/bba764bc.json)
+
+[Extended Data](ext_articles/bba764bc.ext.json)
+
+---
+
+### Netherlands steps up support for rural bridges project with additional € 730,000 grant
+
+*2025-09-12 05:47:14* · [`dailyftlk`](https://www.ft.lk/news/Netherlands-steps-up-support-for-rural-bridges-project-with-additional-730-000-grant/56-781550) · `en`
+
+The Netherlands has approved an additional grant of € 730,000 to support Sri Lanka’s Design and Construction of Rural Bridges Project, a flagship initiative aimed at improving rural connectivity and livelihoods.
+
+The fresh funding comes at a critical stage of the Project, which has already achieved 96% physical progress, with 151 of the planned 162 bridges completed as of September 2025. The remaining bridges are scheduled for completion by February 2026, marking the full delivery of a program designed to ease mobility, improve market access, and enhance the quality of life in rural communities across the country.
+
+The Project was originally financed under a € 41.8 million loan agreement with Coöperatieve Rabobank U.A. of the Netherlands, covering 75% of costs. The remaining 25%, amounting to € 13.9 million, was initially funded through a grant from the Netherlands Foreign Investment Bank ‘Invest International.’
+
+...
+
+[Data](articles/0c210969.json)
+
+[Extended Data](ext_articles/0c210969.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 09:20:37**
+As of **2025-09-12 09:10:29**
 
 ## Newspaper Stats
 
-*Scraped **75,520** Articles*
+*Scraped **75,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,61 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,325
 adaderanalk | 9,695
-tamilmirrorlk | 11,291
+tamilmirrorlk | 11,290
 virakesarilk | 12,305
-adaderanasinhalalk | 13,151
+adaderanasinhalalk | 13,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,109 (90.2%) of 75,520 articles have been extended.
+68,109 (90.2%) of 75,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### 2026 ට අදාළ සමස්ත පාසල් නිල ඇඳුම් ප්‍රමාණයම චීනයෙන්
-
-*2025-09-12 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214466) · `si`
-
-රජයේ හා රජයේ ආධාර ලබන පාසල් සිසුන් 4,418,404ක් සඳහා 2026 වර්ෂයට නියමිත සමස්ත නිල ඇඳුම් ප්‍රමාණයම ප්‍රදානයක් ලෙස ලබාදීමට චීන රජයේ එකඟ වී ඇත.
-
-ඊට අදාළ එකඟතා සහතික හුවමාරු කිරීමේ නිල උත්සවය ඊයේ (11) බත්තරමුල්ල අධ්‍යාපන අමාත්‍යාංශ පරිශ්‍රයේ දී පැවැත්වුණි.
-
-අධ්‍යාපන හා උසස් අධ්‍යාපන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය මධුර සෙනෙවිරත්න, චීන තානාපති Qi Zhenhong යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් මෙය පැවැත්විණි.
-
-එහිදී 2026 වර්ෂයට අදාළ නිල ඇඳුම් ලබාදීමට එකඟතාව පළකළ සහතිකය හුවමාරු කිරීම අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් නාලක කලුවැව මහතා සහ චීන නානාපති Qi Zhenhong මහතා අතර සිදු විය.
-
-එහිදී අදහස් දැක්වූ අධ්‍යාපන හා උසස් අධ්‍යාපන අමාත්‍ය වෛද්‍ය මධුර සෙනෙවිරත්න මහතා,
-
-"2025 වර්ෂය සඳහා ද චීනය රෙදි මීටර් මිලියන 11.82ක් ශ්‍රී ලංකාවට ප්‍රදානය කළා. එමගින් සමස්ත ජාතික අවශ්‍යතාව ආවරණය වුණා වගේම රට පුරා සිසුන් මිලියන 4.6කට වැඩි පිරිසකට සෘජුවම ප්‍රතිලාභ සැලසුණා.
-
-...
-
-[Data](articles/573aa30c.json)
-
----
-
-### குளவி கொட்டுக்கு இலக்காகி உயிரிழப்பு
-
-*2025-09-12 08:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவி-கொட்டுக்கு-இலக்காகி-உயிரிழப்பு/175-364455) · `ta`
-
-கருங்குளவி கூட்டின் அழகினை கண்டு அதனை தட்டிய வயோதிபமாது ஒருவர் கருங்குளவி கொட்டுக்கு உள்ளாகி உயிரிழந்துள்ளார்.
-
-இவ்வாறு உயிரிழந்தவர் வித்தகபுரம், தெல்லிப்பளையைச்  சேர்ந்த செல்வநாயகம் பாலசரஸ்வதி (வயது 82) என்ற வயோதிப மாது ஆவார்.
-
-செவ்வாய்கிழமை (09) பிற்பகல் 3.30 மணியளவில் மரத்தால் விழுந்திருந்த தென்னோலையில் பாரிய குளவிக் கூடு ஒன்று காணப்பட்டுள்ளது.
-
-அழகான குளவி கூடாக இருந்ததால் அதற்கு கிட்ட சென்று தடி ஒன்றினால்  கூட்டை தட்டிய போது அதில் இருந்து கலைந்த குளவிகள் கொட்டியதில் பாதிக்கப்பட்ட வயோதிமாது தெல்லிப்பளை வைத்தியசாலைக்கு கொண்டு சென்ற போதும்  அவர் அங்கு உயிரிழந்துள்ளார்.
-
-இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார்  விசாரணைகளை மேற்கொண்டார். சாட்சிகளை தெல்லிப்பளை பொலிஸார் நெறிப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/917160fb.json)
-
----
 
 ### Harsha raises concerns over Bribery Commission’s financial management
 
@@ -2009,5 +1967,39 @@ Trading in Prime Lands Residencies contributed 1.91 billion rupees. The stock cl
 [Data](articles/1b454328.json)
 
 [Extended Data](ext_articles/1b454328.ext.json)
+
+---
+
+### Ice drug production; Lorry seizure
+
+*2025-09-11 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224818) · `ta`
+
+The lorry used by the police to transport the alleged chemicals to produce ice drugs from Mitteniya to Nuwara Eliya and to Kandana from Nuwara Eliya.
+
+◼️
+
+[Data](articles/617e7165.json)
+
+[Extended Data](ext_articles/617e7165.ext.json)
+
+---
+
+### He is withdrawn a pleasant appeal
+
+*2025-09-11 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214444) · `si`
+
+The Court of Appeal has withdrawn a appeal to the former Minister Prasanna Ranatunga to issue an order to issue an order to acquit himself an order to be acquitted in a suspended sentence and fines.
+
+This appeal was called before the Bench, the Festival Judge of the Appendix of the Magins, Kumaran Ratnam, Damith Thotawatte and Amal Ranaraja.
+
+The Bench of the Court of Appeal, which was presented to Prasanna Ranatunga, was given permission to withdraw the appeal.
+
+Prasanna Ranatunga was accused of threatening a businessman to carry out a land in Meethotamulla, the Chief Minister of the Western Province.
+
+◼️
+
+[Data](articles/bb7e843b.json)
+
+[Extended Data](ext_articles/bb7e843b.ext.json)
 
 ---

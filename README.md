@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 04:20:23**
+As of **2025-09-13 03:54:59**
 
 ## Newspaper Stats
 
-*Scraped **75,664** Articles*
+*Scraped **75,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,138 +19,18 @@ dailyftlk | 5,376
 adalk | 7,346
 adaderanalk | 9,721
 tamilmirrorlk | 11,305
-virakesarilk | 12,331
+virakesarilk | 12,325
 adaderanasinhalalk | 13,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,193 (91.4%) of 75,664 articles have been extended.
+69,171 (91.4%) of 75,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### Opposition to the privatization of state banks; State Bank employees demonstration in Colombo
-
-*2025-09-13 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224957) · `ta`
-
-State bank employees staged a protest on Friday, demanding a number of demands, including the privatization scheme of state banks.
-
-State bank employees staged a demonstration to protest the government's plan to privatize state banks in the country and demand a solution to the problems faced by bank employees.. The state bank joint union coalition organized the struggle and the Orattars gathered in front of the Lake House yesterday morning.
-
-State Bank Employees Union President Sanna Dissanayake said in this regard.
-
-Bank employees from about 6 state banks in the country are engaged in a protest today. With the intervention of private banks, there are massive problems in the state bank building type. The administration of state banks depends on the government. Although the Ministry of Finance has repeatedly requested to provide a solution to the problems of bank employees, the relevant authorities have not taken care of them.
-
-...
-
-[Data](articles/c83035d8.json)
-
-[Extended Data](ext_articles/c83035d8.ext.json)
-
----
-
-### Investigations on missing persons in Batticaloa
-
-*2025-09-13 03:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224956) · `ta`
-
-Investigations were carried out today under the arrangement of the Batticaloa Regional Office of the Missing Persons.
-
-The Commission's inquiries were carried out at the Eravurpattu Chengaladi - Divisional Secretariat and on Friday (12) there were 33 members of the family members who were invited to the missing persons from Vaazhichenai, Gran, Vaharai and Chengaladi.
-
-Office officials led by Vadivel Krishnamurthy and Thambiyya Yogarajah, who visited the Regional Office of the Missing Persons of Missing Persons, were investigating the complaints made by the missing persons.
-
-Similarly, the Batticaloa District Secretariat was investigated by the Office of Missing Persons today.
-
-◼️
-
-[Data](articles/807bab8f.json)
-
-[Extended Data](ext_articles/807bab8f.ext.json)
-
----
-
-### Meeting Indian High Commissioner and Relo
-
-*2025-09-13 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224955) · `ta`
-
-The meeting took place at the Indian High Commission in Colombo at 2.00 pm on Thursday (11).
-
-Vanni District Parliamentarian and Relo's leader Selvam Adakkalanathan and the party's financial secretary and speaker Kuruswamy Surendran were also present.
-
-At the 60th session of the UN Human Rights, which begins on September 8, the Relo leader said he would welcome India's firm stance that the Sri Lankan government urged the Sri Lankan government to carry out meaning, justice, dignity and reconciliation.
-
-It was also informed the High Commissioner that India's urging the provincial council election should be held in a way that would be fully implemented in the politics.
-
-He also thanked India for the long -term health needs of the people of the area by providing 600 million rupees to the development of the Mannar Hospital.
-
-...
-
-[Data](articles/6ee8ebe4.json)
-
-[Extended Data](ext_articles/6ee8ebe4.ext.json)
-
----
-
-### Various impacts due to extraordinary climate in Jaffna
-
-*2025-09-13 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/224954) · `ta`
-
-Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that the unusual weather conditions in Jaffna have been affected on Thursday 11th.
-
-In the Navakiri area, a motor room, motor and electric connection in the garden of Thanaya Bhubaneswaran have been completely damaged.
-
-◼️
-
-[Data](articles/423eb149.json)
-
-[Extended Data](ext_articles/423eb149.ext.json)
-
----
-
-### Vaidyipa girl dies in a well in Jaffna
-
-*2025-09-13 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224953) · `ta`
-
-An elderly woman in Jaffna dies after falling into a well on Friday (12). The deceased is Ramamurthy Seethalakshmi from Tholpuram East and Chiripuram.
-
-Sudden Death Investigation Officer A. Jayapalasingham. The witnesses were regulated by the Vaddukoddai police.
-
-◼️
-
-[Data](articles/f22fa98b.json)
-
-[Extended Data](ext_articles/f22fa98b.ext.json)
-
----
-
-### Pakistan beat Oman by 93 runs
-
-*2025-09-13 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224952) · `ta`
-
-Pakistan won the match between Pakistan and Oman on Friday, the 4th match of the 2025 Asia Cup.
-
-The Pakistan team won the match in Dubai on Friday (12) and won 160 runs for the loss of 07 wickets in 20 overs.
-
-Mohammed Harris scored 66 off 43 balls, Sahibsada Farhan 29 runs, Fucker Zaman scored 23 unbeaten, Hasan Nawaz scored 9 runs and Mohammed Nawaz scored 19 runs for Pakistan.
-
-Oman's team took three wickets each and Mohammed Nadeem took one wicket each.
-
-Oman were bowled out for 67 in 16.4 overs.
-
-Aamir Kaleem scored 13 runs, captain Jatinar Singh, Sufyan Mehmood and Shah Faisal scored one runs, Hammad Mirza scored 27 runs, Mohammed Nadeem scored 3 runs and Vinayak Shukla scored 2 runs.
-
-Saim Ayub, Sufiyan Mukim and Fahim Ashraf took 2 wickets each while Mohammed Nawaz, Abar Ahmed and Shaheen Shah Afridi took one wicket each.
-
-◼️
-
-[Data](articles/54e8e906.json)
-
-[Extended Data](ext_articles/54e8e906.ext.json)
-
----
 
 ### President asks Provincial and Central Government to work in unison
 
@@ -2047,5 +1927,133 @@ The share was trading up 50 cents at 43.90. (Colombo/Sep12/2025)
 [Data](articles/3e7b26ca.json)
 
 [Extended Data](ext_articles/3e7b26ca.ext.json)
+
+---
+
+### Woman arrested with snakes
+
+*2025-09-12 12:32:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்புகளுடன்-பெண்-கைது/175-364466) · `ta`
+
+Customs officials have arrested a Sri Lankan woman from Thailand's Bangkok via Chennai and brought rare snakes at the Bandaranaike International Airport.
+
+A 40 -year -old Sri Lankan traveler has smuggled 6 rare snakes, including a living Yellow Anaconda, Ball Python, Speckled King Snake and Honduran Milk Snake.
+
+Customs and Customs Control Officers, who were on arrival on Thursday night (11) night on the Indigo flight, discovered the snakes in a test of biodiversity, cultural and national traditional security unit.
+
+All these snakes are said to be included in the list of species that need to be protected.
+
+The investigation has brought these snakes on sale. It is difficult to keep up with large snakes and keep it in homes. Customs officials said the release of the country's forests would have a serious adverse effect on the country's environmental system.
+
+...
+
+[Data](articles/269d13ef.json)
+
+[Extended Data](ext_articles/269d13ef.ext.json)
+
+---
+
+### Falls bought bus driver for Rs. 55 lakhs
+
+*2025-09-12 12:30:35* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-පත්-බස්-රිය-මිලට-ගත්තේ-ලක්ෂ-55කට-මොඩිෆයි-වියදම-ලක්ෂ-70/11-418451) · `si`
+
+The Nuwara Eliya District Motor Jaliya Bandara makes a special statement to the media that the owner of the bus has been spent by the owner of the bus.
+
+Jali Bandara has said that the bus has been purchased for Rs.
+
+The investigation revealed that the bus had been spent on the designs on the bus, but the investigations were revealed that the bus was not properly maintained.
+
+The brake system will be disabled due to heating the wheels of the wheels of vehicles while operating the brake system on high slopes.
+
+The Nuwara Eliya District Motor Inspector is properly maintained before the vehicle is properly maintained before going to a tour and the vehicle's driver's driver's driver's driver's driver's richer plane.
+
+◼️
+
+[Data](articles/2e4612e6.json)
+
+[Extended Data](ext_articles/2e4612e6.ext.json)
+
+---
+
+### Corruption scandals on the leasing issue of Attan; Complaint to the Financial Criminal Investigation Division
+
+*2025-09-12 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224890) · `ta`
+
+The article based on the Information Bill published in the Weerakesari Weekly has pointed out that there are many financial frauds over the rectal lease issue at the Attan bus station.
+
+Therefore, the current member and former member of the Attan Dikoya Urban Council, Dr. Alagamuthu Nandakumar, has requested the matter to be lodged with the Finance Criminal Investigation Division.
+
+Attan -Tikoya Municipal Council was held on Thursday at 1.30 pm under the patronage of Municipal Councilor Ashoka Karunathilaka.. The Member Dr.. A. Nandakumar, speaking to the House on Sunday 24th August, addressed the House of Commons a Bill on the Information Bill on the Attan Bus Station at the Weerakesari Weekly.
+
+In 2023, the rectum was given to an individual by the Municipal Management Committee, not by questioning.. But it is not clear whether the consent of the Assistant Commissioner of the Nuwara Eliya District has been obtained.
+
+...
+
+[Data](articles/656fb830.json)
+
+[Extended Data](ext_articles/656fb830.ext.json)
+
+---
+
+### Another terrible accident - seven injured in pre-school children
+
+*2025-09-12 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214474) · `si`
+
+The horrific injuries have occurred by a car in the opposite direction in the Hatton Bawnwala area on the Hatton Pagaweliwela area.
+
+Six pre-school students and teachers were injured and admitted to the Dikoya Bundator Hospital.
+
+The accident had occurred when the three-wheeler was incorrectly mounted in the front wheel of the three-wheeler was caused by the accident.
+
+The woman who has been driving the car has been arrested by the Norwood Police on suspicion.
+
+The six other than one child have been treated at the Treasury Division of the Sri Lanka Hospital.
+
+◼️
+
+[Data](articles/3babcaf1.json)
+
+[Extended Data](ext_articles/3babcaf1.ext.json)
+
+---
+
+### Chinese Ambassador calls on former President Ranil
+
+*2025-09-12 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112429/chinese-ambassador-calls-on-former-president-ranil-) · `en`
+
+A special meeting between former President Ranil Wickremesinghe and the Chinese Ambassador to Sri Lanka, Qi Zhenhong, was held last morning (11) at the political party office on Flower Road, Colombo.
+
+The meeting was arranged at the request of the Chinese Ambassador, said Ada Derana reporter.
+
+Discussions focused on the political situation in Sri Lanka as well as developments at the international level.
+
+Prior to this, former President Mahinda Rajapaksa also held a similar discussion with the Chinese Ambassador, before leaving his residence in Colombo yesterday.
+
+The Chinese Ambassador is scheduled to meet with another senior former politician in the near future to continue discussions on related matters.
+
+◼️
+
+[Data](articles/76615606.json)
+
+[Extended Data](ext_articles/76615606.ext.json)
+
+---
+
+### Two passengers held with mobile phones, tablets and cosmetics worth Rs. 5M at BIA
+
+*2025-09-12 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112428/two-passengers-held-with-mobile-phones-tablets-and-cosmetics-worth-rs-5m-at-bia) · `en`
+
+Two passengers attempting to smuggle a stock of undeclared mobile phones, tablet computers, cosmetics and boxes of tobacco rolling papers worth Rs. 5 million in total have been arrested by customs officers at the Bandaranaike International Airport (BIA) in Katunayake during the early hours today (12).
+
+The duo was reportedly arrested while attempting to smuggle the goods through the “Green Channel” at the BIA, which is designated for passengers with no items to declare.
+
+Two passengers arrested in connection with the incident have been identified as residents of Colombo. The suspects, a 32-year-old man and a 45-year-old woman, are reported to be engaged in business activities.
+
+According to the officials, the duo had arrived at the Katunayake Airport from Dubai on SriLankan Airlines flight (UL-226) at 05.30 am today.
+
+...
+
+[Data](articles/43a27a14.json)
+
+[Extended Data](ext_articles/43a27a14.ext.json)
 
 ---

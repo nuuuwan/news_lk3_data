@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 12:12:55**
+As of **2025-09-12 12:37:54**
 
 ## Newspaper Stats
 
-*Scraped **75,551** Articles*
+*Scraped **75,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,131 +18,213 @@ dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,329
 adaderanalk | 9,701
-tamilmirrorlk | 11,296
+tamilmirrorlk | 11,297
 virakesarilk | 12,313
-adaderanasinhalalk | 13,157
+adaderanasinhalalk | 13,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,296 (90.4%) of 75,551 articles have been extended.
+68,328 (90.4%) of 75,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### ஆரம்பமான  இடத்துக்கே திரும்பினார் மஹிந்த
+### තවත් බිහිසුණු අනතුරක් - පෙර පාසල් ළමුන් ඇතුළු 7කට තුවාල
+
+*2025-09-12 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214474) · `si`
+
+හැටන් බගවන්තලාව ප්‍රධාන මාර්ගයේ නෝර්වුඩ් නිව්වැලිගම ප්‍රදේශයේදී අධික වේගයෙන් ධාවනය වූ ත්‍රීරෝද රථයක් ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට ධාවනය වූ මෝටර් රථයක ගැටීමෙන් බිහිසුණු අනතුරක් සිදුව තිබේ.
+
+අනතුරින් ත්‍රීරෝද රථයේ ගමන්ගත් පෙර පාසල් සිසුන් 6 දෙනෙකු සහ ගුරුවරුයෙකු තුවාල ලබා දික්ඔය මුලික රෝහල වෙත ඇතුළත් කර ඇත.
+
+ත්‍රීරෝද රථයේ ඉදිරිපස රෝදයේ අනාරක්ෂිත ලෙස සවි කර තිබූ අමතර කොටසක් මෝටර් රථයේ ගැටීමෙන් මෙම අනතුර සිදු වී ඇති බවත්, අනතුරින් ත්‍රීරෝද රථයට දැඩි අලාභ හානි සිදු වී ඇති බව නෝර්වුඩ් පොලිසිය කියා සිටියේය.
+
+මෝටර් රථය ධාවනය කර ඇති කාන්තාව සැකපිට නෝර්වුඩ් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+රෝහල් ගත කළ 07 දෙනාගෙන් එක් දරුවෙකු හැර අනෙක් 06 දෙනා රෝහලේ භාහිර රෝගී අංශයෙන් ප්‍රතිකාර ලබා පිටව ගොස් තිබේ.
+
+◼️
+
+[Data](articles/3babcaf1.json)
+
+---
+
+### ශෂීන්ද්‍ර රාජපක්ෂ තවදුරටත් රිමාන්ඩ්
+
+*2025-09-12 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214473) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ලබන 19 වනදා දක්වා  තවදුරටත් රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (12) නියම කළේය.
+
+අල්ලස් කොමිසමේ නිලධාරීන් සහ විත්තියේ නීතිඥවරුන් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස්. බෝදරගම මහතා මෙම නියෝගය නිකුත් කර තිබේ.
+
+මහවැලි ඉඩමක ඉදිකර තිබූ සිය දේශපාලන කාර්යාලය අරගලකරුවන් විසින් ගිනිතබා විනාශ කිරීම හේතුවෙන් නීතියට පටහැනි ලෙස රුපියල්  8,850,000ක මුදලක් වන්දි වශයෙන් ලබාගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ "දූෂණය" නමැති වරද සිදුකළ බවට චෝදනා කරමින් හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගැනීමෙන් අනතුරු මෙලෙස රක්ෂිත බන්ධනාගාරගත කර තිබුණි.
+
+◼️
+
+[Data](articles/372a8f58.json)
+
+---
+
+### Chinese Ambassador meets Ranil Wickremesinghe
+
+*2025-09-12 12:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-விக்ரமசிங்கவை-சந்தித்தார்-சீனத்-தூதுவர்/175-364464) · `ta`
+
+Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesinghe today (12). Remble
+
+◼️
+
+[Data](articles/e21142ed.json)
+
+[Extended Data](ext_articles/e21142ed.ext.json)
+
+---
+
+### CP Radhakrishnan took over as vice president of India
+
+*2025-09-12 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224883) · `ta`
+
+The 15th Vice President of India was held at the President's House in the capital Delhi today (12) at 10 am. President Draupadi Murmu was sworn in as the 15th Vice President of CP Radhakrishnan. Prime Minister Modi and Union Ministers are participating in the ceremony.
+
+The term of the vice president is 5 years. Nothing has been determined as a salary for the Vice President. But as the leader of the Rajya Sabha, he will get a salary of Rs 4 lakh per month. There are many offers, including lodging, medicine, travel. 50 percent of the salary after retirement is available.
+
+◼️
+
+[Data](articles/b00696f4.json)
+
+[Extended Data](ext_articles/b00696f4.ext.json)
+
+---
+
+### Mahinda returned to the beginning
 
 *2025-09-12 11:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்பமான-இடத்துக்கே-திரும்பினார்-மஹிந்த/175-364462) · `ta`
 
-தனது தந்தை மஹிந்த ராஜபக்ஷ, எல்லாம் ஆரம்பித்த கார்ல்டன் வீட்டிற்கு மீண்டும் திரும்பியுள்ளார் என்று நாமல் ராஜபக்ஷ, சமூக வலைத்தளத்தில் பதிவிட்டுள்ளார்.
+Namal Rajapaksa has posted on the social network that his father Mahinda Rajapaksa has returned to Carlton's house where everything started.
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தை விட்டு வெளியேறி தனது சொந்த ஊரான தங்காலைக்குத் திரும்பிய நிலையில் அவர் இதனைக் கூறியுள்ளார்.
+Former President Mahinda Rajapakse left his official residence in Colombo and returned to his hometown of Tangalle.
 
-“இன்று, எனது தந்தை கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தை விட்டு வெளியேறி தங்காலைக்குத் திரும்பினார், அங்குதான் எல்லாம் தொடங்கியது.
+“Today, my father left his official residence in Colombo and returned to Tangalle, where everything started.
 
-“உண்மையான பலம் பதவி, சலுகைகள் அல்லது பணத்திலிருந்து அல்ல, அது மக்களின் அன்பிலிருந்து வருகிறது என்பதை நினைவூட்ட விரும்புகின்றேன்” என,  அவர் குறிப்பிட்டுள்ளார்.
+“I would like to remind you that real strength, not from privileges, or money, but it comes from people's love," he said.
 
 ◼️
 
 [Data](articles/87c610cb.json)
 
+[Extended Data](ext_articles/87c610cb.ext.json)
+
 ---
 
-### බෙනඩික්ට් ජෝසප් ප්‍රනාන්දු පියතුමා ස්වර්ගස්ථ වෙයි
+### Father Benedict Joseph Fernando becomes to death
 
 *2025-09-12 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214472) · `si`
 
-ශ්‍රී ලංකා කතෝලික සභාවේ හිටපු ජනසන්නිවේදන අධ්‍යක්ෂ බෙනඩික්ට් ජෝසප් ප්‍රනාන්දු පියතුමා ස්වර්ගස්ථ විය.
+Fr. Benedict Joseph Fernando was Paradana, the Communicating Director of the Sri Lanka Catholic Church.
 
-කලක් රෝගාතුරුව සිටි උන් වහන්සේ දිවි ගමන අවසන් කරන විට හැව්ලොක් ප්‍රදේශයේ කතෝලික සභාවේ Evening Stars නමැති විශ්‍රාමික නිවහනේ සිය සැදෑ කාලය ගතකරමින් සිටියේය.
+When he ended his life for a while, he was spending his seed at Retired Newborns, the Cathoning Stars in Havelock.
 
 ◼️
 
 [Data](articles/e02e7605.json)
 
+[Extended Data](ext_articles/e02e7605.ext.json)
+
 ---
 
-### ரணில் விக்ரமசிங்கவை சந்தித்தார் சீனத் தூதுவர்
+### Chinese Ambassador meets Ranil Wickremesinghe
 
 *2025-09-12 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224885) · `ta`
 
-இலங்கைக்கான சீனத் தூதுவர் குய் ஜென்ஹாங் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவை இன்று வெள்ளிக்கிழமை (12)  சந்தித்துள்ளார்.
+Chinese Ambassador to Sri Lanka Qi Jenhang met former President Ranil Wickremesinghe today (12).
 
 ◼️
 
 [Data](articles/3b0fbd91.json)
 
+[Extended Data](ext_articles/3b0fbd91.ext.json)
+
 ---
 
-### හිටපු ජනපති රනිල් සහ මෙරට චීන තානාපති අතර සාකච්ඡාවක්
+### A discussion between former President Ranil and the Chinese Ambassador to Sri Lanka
 
 *2025-09-12 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214471) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ශ්‍රී ලංකාවේ චීන තානාපති චී චෙන් හොං මහතා අතර විශේෂ හමුවක් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේදී පවත්වා තිබේ.
+Former President Ranil Wickremesinghe and the Chinese Ambassador to Sri Lanka was conducting a special meeting between China, Chinese Ambassador to Chi Chan Hong.
 
-ශ්‍රී ලංකාවේ සහ ජාත්‍යන්තර මට්ටමේ දේශපාලන තත්ත්වය පිළිබඳව හිටපු ජනාධිපතිවරයා සහ චීන තානාපතිවරයා අතර සාකච්ඡාවේදී අවධානය යොමුවී තිබූ බවද වාර්තා වෙයි.
+It is also reported that the former President and the Chinese Ambassador had taken an interest in the political situation in Sri Lanka and internationally.
 
-මේ අතර හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා කොළඹ නිවසින් පිටත්ව යාමට පෙරද චීන තානාපතිවරයා සමග මේ ආකාරයේ සාකච්ඡාවක් පවත්වා තිබේ.
+Meanwhile, President Mahinda Rajapaksa has discussed this kind of discussion with the Chinese Ambassador before leaving Colombo home.
 
-චීන තානාපතිවරයා විසින් ඉදිරියේදී තවත් හිටපු ප්‍රබල දේශපාලනඥයෙකු සමඟ ද සාකච්ඡා පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+The Chinese Ambassador is also scheduled to hold talks with another former powerful politician.
 
 ◼️
 
 [Data](articles/67562b44.json)
 
+[Extended Data](ext_articles/67562b44.ext.json)
+
 ---
 
-### இலஞ்சம் வாங்கிய கான்ஸ்டபிள் சிக்கினார்
+### Bribed constable caught
 
 *2025-09-12 11:39:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-கான்ஸ்டபிள்-சிக்கினார்/175-364461) · `ta`
 
-போக்குவரத்து குற்றத்துக்காக வழக்குப் பதிவு செய்யாமல் வருமான வரி அனுமதிப்பத்திரம் வழங்க 10,000 ரூபாய் இலஞ்சம் பெற்ற பொலிஸ் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளார்.
+Police Constable has been arrested for bribing Rs 10,000 to issue an income tax permit without registering a lawsuit for traffic.
 
-இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழு அதிகாரிகளால் அவர் கைது செய்யப்பட்டுள்ளார்.
+He has been arrested by the Commission officials investigating bribery or corruption.
 
 ◼️
 
 [Data](articles/e7452133.json)
 
+[Extended Data](ext_articles/e7452133.ext.json)
+
 ---
 
-### නීතිවිරෝධීව බැංකොක් සිට මෙරටට සර්පයින් ගෙනා කෙසෙල්වත්තේ ව්‍යාපාරික කත මාට්ටු
+### Business story commencement in Balanwela to Sri Lanka from Bangkok
 
 *2025-09-12 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214470) · `si`
 
-නීතිවිරෝධී ලෙස මෙරටට සර්පයින් රැගෙන ආ කාන්තාවක් කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A woman who was brought to Sri Lanka is illegally arrested at the Katunayake airport.
 
-ගුවන්තොටුපොළ රේගු මත්ද්‍රව්‍ය පාලන අංශයට සහ සංස්කෘතික සහ ජාතික උරුමයන් ආරක්ෂණ අංශයේ නිලධාරීන්ට ලද තොරතුරක් මත සිදුකළ වැටලීමකදී අදාළ කාන්තාව මෙලෙස අත්අඩංගුවට ගෙන ඇති බව 'අද දෙරණ' ගුවන්තොටුපොළ වාර්තාකරු සඳහන් කළේය.
+The woman has been arrested in a raid conducted by the Airport Customs Advanced Administration and the Officers received on a tip off received on information received by the officials of the National Heritage Security Division, Ada Derana.
 
-සැකකාරිය නීතිවිරෝධී ලෙස සර්පයින් 06 දෙනෙකු ගුවන්තොටුපොළ හරිත මාවත ඔස්සේ පිට කිරීමට උත්සහ කිරීමේදී මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+The suspect illegally illegally shipped 6 snakes.
 
-අදාළ කාන්තාව මෙම සර්පයන් තායිලන්තයේ බැංකොක් නුවරින් මිලදීගෙන ඇති අතර ඇය විසින් රැගෙන ආ ගමන් මලු දෙකක් තුළ සූක්ෂම ලෙස මෙම සර්පයන් සඟවා මෙරටට රැගෙනවිත් ඇති බව සඳහන්ය.
+The woman had purchased these snakes from Bangkok, Thailand, and was meticulous in two baggage she had been brought to the country.
 
-ඇය විසින් කහ ඇනකොන්ඩා, බෝල් පයිතන්, ස්පෙකල්ඩ් කින්ග් ස්නේක් සහ හොන්ඩියුරානු කිරි සර්පයා යන විවිධ වර්ගවල සර්පයින් 06 දෙනෙකු මෙලෙස රැගෙනවිත් තිබේ.
+She has taken the Yellow Anaconda, Ball Python, Specadgg Gag Sneak and Honduran milk serpent.
 
-මෙම සර්පයන් අලෙවි කිරීම සඳහා ඇය රැගෙන විත් තිබූ අතර පසුකාලීනව එම සර්පයින් මෙරට වනාන්තර සහිත ප්‍රදේශ වෙත මුදා හැරීම හේතුවෙන් මෙරට පරිසර පද්ධතියට දැඩි අහිතකර බලපෑමක් ඇති වන බව ගුවන්තොටුපොළ රේගු නිලධාරීන් පවසයි.
+She had been taken to sell these snakes and after the release of the snakes to the forest areas of the country have a severe adverse effect to the ecosystem.
 
-...
+The Customs Investigations have ordered that these series after receiving the Indeigo Airlines, who brought these animals with the Indeigo Airlines, who brought these animals were brought and severely warned about the animals.
+
+◼️
 
 [Data](articles/25b55ceb.json)
 
+[Extended Data](ext_articles/25b55ceb.ext.json)
+
 ---
 
-### மன்னாரில் பறவைகள் கடத்தல் ; இருவர் கைது
+### Trafficking of birds in Mannar; Two arrests
 
 *2025-09-12 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224884) · `ta`
 
-மன்னார் - சிறுத்தோப்பு கடற்கரைக்கு அருகில் இந்த வாரம் 91 பறவைகளை கடத்த முயன்ற இரண்டு சந்தேக நபர்களை இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+Sri Lankan navy has arrested two suspects for trying to smuggle 91 birds this week near the Mannar -Pirutoppu coast.
 
 கைது செய்யப்பட்ட  சந்தேக நபர்கள் பேசாலை மற்றும் மன்னாரைச் சேர்ந்த 17 மற்றும் 52 வயதுடையவர்கள் ஆவர்.
 
-கடற்படையினர் மேற்கொண்ட சுற்றிவளைப்பின் போது 72 புறாக்கள் மற்றும் 19 வேட்டை கோழிகளுடன் சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+The suspects were arrested with 72 pigeons and 19 hunting chickens during the raid carried out by the Marines.
 
 ◼️
 
 [Data](articles/b1efc76f.json)
+
+[Extended Data](ext_articles/b1efc76f.ext.json)
 
 ---
 
@@ -170,22 +252,6 @@ Police have also said that the houses of the persons associated with former Prad
 
 ---
 
-### இந்தியாவின் துணை ஜனாதிபதியாக பதவியேற்றார் சி.பி.ராதாகிருஷ்ணன்
-
-*2025-09-12 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224883) · `ta`
-
-இந்தியாவின் 15-வது துணை ஜனாதிபதி தேர்தல் நேற்று முன்தினம் நாடாளுமன்ற வளாகத்தில் நடைபெற்றது. இதில் 452 வாக்குகள் பெற்று தேசிய ஜனநாயக கூட்டணி வேட்பாளர் சி.பி.ராதாகிருஷ்ணன் வெற்றி பெற்றார். தேர்தலில் சி.பி.ராதாகிருஷ்ணன் பெற்ற வெற்றியை, தேர்தலை நடத்திய மாநிலங்களவை செயலாளர் பி.சி.மோடி இந்திய தேர்தல் கமிஷனுக்கும், இந்திய அரசின் சட்டத்துறைக்கும் கடந்த 9-ம் தேதி தெரிவித்திருந்தார்.
-
-இன்று பதவியேற்பு இதனைத்தொடர்ந்து துணை ஜனாதிபதியாக சி.பி.ராதாகிருஷ்ணன் தேர்ந்து எடுக்கப்பட்டதற்கான சான்றிதழை தேர்தல் கமிஷன் நேற்று முன்தினம் தயார் செய்தது. இதில் தலைமை தேர்தல் கமிஷனர் ஞானேஷ்குமார், தேர்தல் கமிஷனர்கள் சுக்பீர்சிங் சந்து, விவேக் ஜோஷி ஆகியோர் கையெழுத்திட்டனர்.
-
-இந்த சான்றிதழின் நகலை துணை தேர்தல் கமிஷனர் பானு பிரகாஷ் யெதுரு மற்றும் செயலாளர் சுமன்குமார் தாஸ் ஆகியோர் உள்துறை செயலாளர் கோவிந்த் மோகனிடம் வழங்கினர். இதில் உள்ள தகவல்கள் சி.பி.ராதாகிருஷ்ணன் துணை ஜனாதிபதியாக பதவியேற்கும் விழாவில் வாசிக்கப்படும் என தேர்தல் கமிஷன் தெரிவித்திருந்தது.
-
-...
-
-[Data](articles/b00696f4.json)
-
----
-
 ### Ranil and Chinese Ambassador Meeting
 
 *2025-09-12 11:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-மற்றும்-சீனத்-தூதுவர்-சந்திப்பு/175-364459) · `ta`
@@ -204,35 +270,41 @@ Meanwhile, former President Mahinda Rajapakse also held a discussion with the Ch
 
 ---
 
-### இலங்கை கடற்றொழில் கூட்டுத்தாபனத்தை மூடுவதற்கு திட்டம் இல்லை - பிரதி அமைச்சர்
+### There is no plan to close the Sri Lanka Fisheries Corporation - Deputy Minister
 
 *2025-09-12 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224882) · `ta`
 
-இலங்கை கடற்றொழில் கூட்டுத்தாபனத்தை மூடுவதற்கு திட்டம் எதுவும் இல்லை என கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் பிரதி அமைச்சர் ரத்ன கமகே இன்று வெள்ளிக்கிழமை (12) பாராளுமன்றத்தில் தெரிவித்தார்.
+Fisheries, Aquatic and Marine Resources Deputy Minister Ratna Kamage told Parliament today (12) that there is no plan to close the Sri Lanka Fisheries Corporation.
 
-கூட்டுத்தாபனத்தின் மொத்தக் கடன் தற்போது ரூ. 1.6 பில்லியன் எனவும்,  அது படிப்படியாகத் தீர்க்கப்பட்டு வருவதாகவும் அவர் தெரிவித்தார்.
+Corporation's Total Credit Currently Rs.. He said it was 1.6 billion and it was gradually resolved.
 
-"இரண்டு ஆண்டுகளுக்குள் கூட்டுத்தாபனம் இலாபம் ஈட்டும் நிறுவனமாக மாற்றப்படும் என நாங்கள் திறைசேரிக்கு உறுதியளித்துள்ளோம்" என பிரதி அமைச்சர் தெரிவித்தார்.
+“We have promised the Treasury that the corporation will be transformed into a profit -making company within two years,” the Deputy Minister said.
 
 ◼️
 
 [Data](articles/aca1fde0.json)
 
+[Extended Data](ext_articles/aca1fde0.ext.json)
+
 ---
 
-### இனி பாலஸ்தீன நாடு கிடையாது : அந்த நிலம் எங்களுடையது - இஸ்ரேல் பிரதமர் நெதன்யாகு
+### There is no longer a Palestinian country: that land is ours - Israeli Prime Minister Netanyahu
 
 *2025-09-12 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224880) · `ta`
 
-மேற்குக் கரையில் சர்ச்சைக்குரிய குடியேற்றத் திட்டமான “E1” விரிவாக்கத்திற்கான ஒப்பந்தத்தில் இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு கையெழுத்திட்டதைத் தொடர்ந்து, இனி பாலஸ்தீன நாடு என்ற ஒன்று இல்லை என்று வெளிப்படையாக அறிவித்துள்ளார். "இந்த இடம் எங்களுக்கு மட்டுமே சொந்தமானது" என்றும் அவர் திட்டவட்டமாகத் தெரிவித்துள்ளார்.
+Israeli Prime Minister Benjamin Netanyahu has explicitly declared that there is no Palestinian nation in the controversial settlement of "E1". "This place belongs only to us," he said.
 
-மேற்கு கரையில் உள்ள மாலே அடுமிம் குடியேற்றப் பகுதியில் இடம்பெற்ற நிகழ்வில் பேசிய நெதன்யாகு,
+Speaking at a function held at the Male Adumim settlement on the west bank, Netanyahu,
 
-"நமது வாக்குறுதிகள் நிறைவேறி வருகின்றன. இனி பாலஸ்தீன நாடு என்ற ஒன்று இருக்காது. இந்த நிலம் எங்களுடையது மட்டுமே. இங்கு இன்னும் ஆயிரக்கணக்கான வீடுகள் கட்டப்படும். நமது கலாச்சாரம், நிலம் மற்றும் பாதுகாப்பு பாதுகாக்கப்படும். மேற்குக் கரையின் மக்கள் தொகை இரட்டிப்பாக்கப்படும்" என்று கூறினார்.
+“Our promises are being fulfilled. There will no longer be a Palestinian Country. This land is only ours. Thousands of more houses will be built here. Our culture, land and security will be protected. The population of the West Bank will be doubled. ”
+
+The “E1” project, which has been paralyzed by international opposition for many years, aims to build about 3,000 new Israeli houses on the west bank.. Human rights organizations have warned that this project will completely prevent the creation of a Palestinian country in the future, as this project will cut off the West Coast from East Jerusalem of Palestine.
 
 ...
 
 [Data](articles/85b976f0.json)
+
+[Extended Data](ext_articles/85b976f0.ext.json)
 
 ---
 
@@ -280,23 +352,27 @@ Investigators have yet to publicly discuss any motive, but Trump told reporters 
 
 [Data](articles/eafdcd88.json)
 
+[Extended Data](ext_articles/eafdcd88.ext.json)
+
 ---
 
-### ஹெந்தலவிலுள்ள ஆசியாவின் பழமையான தொழுநோய் வைத்தியசாலைக்கு ஜப்பான் தூதுவர் விஜயம்
+### Japanese Ambassador visits Asia's oldest leprosy hospital in Hendala
 
 *2025-09-12 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/224878) · `ta`
 
-வத்தளை, ஹெந்தலையில் உள்ள வரலாற்று சிறப்புமிக்க ஆசியாவின் பழமையான தொழுநோய் வைத்தியசாலைக்கு இலங்கைக்கான ஜப்பான் தூதுவர் அகியோ இசொமதா செவ்வாய்க்கிழமை (செப்டம்பர் 9 ) விஜயம் செய்தார்.
+Japan Ambassador to Sri Lanka Akio Isomada visited the historic Asia's oldest leprosy hospital in Hendala, Wattala on Tuesday (September 9).
 
-1708 ஆம் ஆண்டு ஒல்லாந்தர்களால் நிறுவப்பட்ட இந்த நிறுவனம் ஆசியாவின் பழமையான தொழுநோய் வைத்தியசாலையாக அங்கீகரிக்கப்பட்டுள்ளது.
+Established by the Hollans in 1708, the company is recognized as the oldest leprosy hospital in Asia.
 
-வைத்தியசாலை நிர்வாகத்தால் தூதுவர் இசொமதா அன்புடன் வரவேற்கப்பட்டு வைத்தியசாலை வரலாறு குறித்து அவருக்கு விளக்கமளிக்கப்பட்டது. முதலில் காலனித்துவ கால புகலிடமாக நிறுவப்பட்ட இந்த வைத்தியசாலை, இப்போது குறைந்து வரும் உள்நோயாளிகளுக்கான பராமரிப்பு வசதியாக செயல்படுகிறது.
+Ambassador Isomada was warmly welcomed by the hospital administration and explained to him the history of hospital hospital. The hospital, which was originally installed as a colonial term, is now working as a convenience for diminishing inpatients.
 
-1995 ஆம் ஆண்டில் இலங்கையில் ஒரு பொது சுகாதாரப் பிரச்சினையாக இருந்த தொழுநோயை வெற்றிகரமாக ஒழித்த போதிலும், சிகிச்சை, கண்காணிப்பு மற்றும் நோயாளிக்கான ஆதரவில் தொடர்ச்சியான முயற்சிகளுக்கு சுகாதார அமைச்சகம் உறுதிபூண்டுள்ளது.
+Although successfully eradicated leprosy, which was a public health problem in Sri Lanka in 1995, the Ministry of Health has been committed to a series of efforts in treatment, surveillance and patient support.
 
 ...
 
 [Data](articles/45575f24.json)
+
+[Extended Data](ext_articles/45575f24.ext.json)
 
 ---
 
@@ -1925,63 +2001,5 @@ The announcement of the Minister of Public Security has attracted great attentio
 [Data](articles/629e2e18.json)
 
 [Extended Data](ext_articles/629e2e18.ext.json)
-
----
-
-### Sri Lanka business chamber presents budget proposals
-
-*2025-09-11 18:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-business-chamber-presents-budget-proposals-240276/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has presented its proposals for the National Budget 2026 to Sri Lanka’s President.
-
-The chamber’s board members, led by Chairperson Krishan Balendra, met Anura Dissanayake today to present its “priority proposals for the forthcoming National Budget 2026,” it said in a statement.
-
-• Trade & Investment Facilitation – establishing a National Single Window; modernising the Customs Ordinance; setting up a dedicated Free Trade Agreement (FTA) negotiation team, advancing a private-sector-led investment zone, continuation of facilitation of import/export clearance with the BOI and a well-structured incentive scheme for both local and foreign large investments in line with other emerging markets
-
-• Tourism & Infrastructure – launching a global marketing campaign for tourism and expediting the Bandaranaike International Airport (BIA) terminal expansion project
-
-...
-
-[Data](articles/0b643230.json)
-
-[Extended Data](ext_articles/0b643230.ext.json)
-
----
-
-### Army officer arrested for providing bullets to Commando Salindu
-
-*2025-09-11 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224850) · `ta`
-
-A Lutinan Colonel of the Army was arrested on Thursday 11 on charges of selling bullets for T-56 rifles for Commando Salindu, who is considered an organized criminal.
-
-The Northern Provincial Criminal Investigation Division has launched the operation. It is noteworthy that the arrested army officer was the command officer of the military camp in Mullaitivu - Mallavi.
-
-During the investigation, the officer was working in the Commando Regiment, 260 bullets for T-56 guns, twice, a total of Rs.. It is alleged that Commando has sold to Salindu for 6.5 lakhs.
-
-Police said two more charges were against the officer.
-
-He was arrested and handed over to the Criminal Investigation Department (CID) officials for further investigations.. Investigations into the incident are being actively carried out.
-
-◼️
-
-[Data](articles/71e9a5ef.json)
-
-[Extended Data](ext_articles/71e9a5ef.ext.json)
-
----
-
-### Interpol Red Notice; 15 Sri Lankans arrested
-
-*2025-09-11 18:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்டர்போல்-சிவப்பு-அறிவிப்பு-15-இலங்கையர்கள்-கைது/175-364441) · `ta`
-
-Fifteen Sri Lankan underworld members have been arrested in Russia, Oman, Dubai and India, including the Interpol red announcements.
-
-அந்தந்த நாடுகளில் நடந்து வரும் சட்ட நடவடிக்கைகள் முடிந்ததும், இந்த நபர்களை இலங்கைக்கு அழைத்து வருவதற்கான ஏற்பாடுகள் நடந்து வருவதாக அவர் இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/b183979b.json)
-
-[Extended Data](ext_articles/b183979b.ext.json)
 
 ---

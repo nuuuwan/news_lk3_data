@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 14:55:35**
+As of **2025-09-12 14:10:16**
 
 ## Newspaper Stats
 
-*Scraped **75,576** Articles*
+*Scraped **75,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
 adalk | 7,334
-adaderanalk | 9,708
-tamilmirrorlk | 11,299
+adaderanalk | 9,705
+tamilmirrorlk | 11,298
 virakesarilk | 12,316
 adaderanasinhalalk | 13,162
 
@@ -26,55 +26,23 @@ adaderanasinhalalk | 13,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,446 (90.6%) of 75,576 articles have been extended.
+68,408 (90.5%) of 75,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### Athuraliye Ratana Thera is bail
-
-*2025-09-12 14:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரருக்கு-பிணை/175-364467) · `ta`
-
-The Nugegoda Magistrate's Court today (12) ordered the release of former Member of Parliament Athuraliye Ratana Thera on bail.
-
-The order was issued when Athuraliye Ratana Thera was produced in court today.
-
-Accordingly, the court has ordered the release of two body bail and Rs 10 thousand in cash worth Rs.  R
-
-◼️
-
-[Data](articles/47390dc8.json)
-
-[Extended Data](ext_articles/47390dc8.ext.json)
-
----
-
-### Parliament provides Parliament to Piliyandala College
+### පිළියන්දල මධ්‍ය විද්‍යාලයට පාර්ලිමේන්තුව ලබාදෙයි
 
 *2025-09-12 13:40:36* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-මධ්‍ය-විද්‍යාලයට-පාර්ලිමේන්තුව-ලබාදෙයි/11-418453) · `si`
 
-Piliyandala Central College Student Parliament of Parliament Parliamentnel was held on the 4th of the Presidential Secretariat at the Presidential Secretariat. Chairman of Mrs. Kushani Rohangarara. The Piliyandala College, the objective of providing practical experience on parliamentary system for students, the event was organized by the Department of Parliament and the Communication Department of the Parliament of Sri Lanka.
+පිළියන්දල මධ්‍ය විද්‍යාලීය ශිෂ්‍ය පාර්ලිමේන්තුවේ මංගල සභාවාරය ජනාධිපති ලේකම් කාර්යාලයේ පැරැණි පාර්ලිමේන්තු සභා ගර්භයයේ දී පසුගිය 04 වැනිදා පැවැත්විණි. ඒ පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මියගේ ප්‍රධානත්වයෙනි. පිළියන්දල මධ්‍ය විද්‍යාලය ශිෂ්‍ය ශිෂ්‍යාවන් සඳහා පාර්ලිමේන්තු  ක්‍රමවේදය පිළිබඳ ප්‍රායෝගික අත්දැකීම් ලබාදීම අරමුණු කොටගෙන එම විද්‍යාලය හා ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව එක්ව මෙම වැඩසටහන සංවිධානය කර තිබිණි.
 
-The Secretary General of Parliament Kusala Rohanadera is announced on how Parliament is operated by the Parliamentary Procedure and its functions.. (I J)
+මෙහිදී පාර්ලිමේන්තුවේ මහ ලේකම් කුෂාණි රෝහණදීර මහත්මිය විසින් පාර්ලිමේන්තු ක්‍රියාවලිය හා එහි කාර්යභාර පිළිබඳ පැහැදිලි කරමින් පාර්ලිමේන්තුව ක්‍රියාත්මක වන ආකාරය පිළිබඳ දැනුවත් කළාය. ( I J )
 
 ◼️
 
 [Data](articles/4676cca6.json)
-
-[Extended Data](ext_articles/4676cca6.ext.json)
-
----
-
-### Lotus Road in Colombo closed due to protest march
-
-*2025-09-12 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112433/lotus-road-in-colombo-closed-due-to-protest-march) · `en`
-
-Lotus Road in Colombo Fort has been closed to vehicular traffic due to a protest march organised by banking sector trade unions, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/13aca746.json)
 
 ---
 
@@ -114,24 +82,6 @@ The one -day special workshop for all the Divisional Secretariats of the Central
 
 ---
 
-### Ven. Athuraliye Rathana Thero granted bail
-
-*2025-09-12 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112432/ven-athuraliye-rathana-thero-granted-bail) · `en`
-
-Former Member of Parliament Ven. Athuraliye Rathana Thero has been granted bail by the Nugegoda Magistrate’s Court today (12).
-
-The Magistrate ordered his release on two surety bonds of Rs. 500,000 each and a cash bond of Rs. 10,000.
-
-Additionally, an overseas travel ban was also imposed on Ven. Rathana Thero, said Ada Derana reporter.
-
-Ven. Rathana Thero has been accused in connection with investigations into the alleged abduction and detention of the General Secretary of the ‘Ape Jana Bala’ party, Ven. Wedinigama Wimalatissa Thero, reportedly to secure the party’s National List seat in the 2020 General Election.
-
-◼️
-
-[Data](articles/6b599cb2.json)
-
----
-
 ### Ratana Goek released on bail
 
 *2025-09-12 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214477) · `si`
@@ -165,26 +115,6 @@ The project aims to construct 162 rural bridges across Sri Lanka, which improves
 [Data](articles/e0265dcc.json)
 
 [Extended Data](ext_articles/e0265dcc.ext.json)
-
----
-
-### No decision yet to arrest Udaya Gammanpila, court informed
-
-*2025-09-12 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112431/no-decision-yet-to-arrest-udaya-gammanpila-court-informed) · `en`
-
-The Criminal Investigation Department (CID) has informed the Court of Appeal today that no decision has been made at this time to arrest former Minister Udaya Gammanpila.
-
-The writ petition filed by Udaya Gammanpila, alleging that the CID is preparing to arrest him under the International Covenant on Civil and Political Rights (ICCPR) and requesting an order to prevent his arrest, was taken up before the Court of Appeal today (12).
-
-Deputy Solicitor General Sudarshana de Silva, appearing on behalf of the CID, informed the court that the police have not yet taken a decision to arrest the petitioner at this moment.
-
-He added that the investigations are still ongoing and that a final decision will be made thereafter.
-
-Accordingly, the Court of Appeal postponed the consideration of the petition for September 17.
-
-◼️
-
-[Data](articles/1306a11f.json)
 
 ---
 
@@ -1174,27 +1104,23 @@ Deputy Secretary to the Ministry of Finance AK. Senarath said that Harsha de Sil
 
 ---
 
-### There are no special project offices for foreign loans and support projects
+### විදේශ ණය සහ අධාර යටතේ ක්‍රියාත්මක වන ව්‍යාපෘති සඳහා මින් ඉදිරියට විශේෂ ව්‍යාපෘති කාර්යාල නැහැ
 
 *2025-09-12 07:31:56* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ණය-සහ-අධාර-යටතේ-ක්‍රියාත්මක-වන-ව්‍යාපෘති-සඳහා-මින්-ඉදිරියට-විශේෂ-ව්‍යාපෘති-කාර්යාල-නැහැ/11-418447) · `si`
 
-The Central Government and Local Authorities should work together in implementing development projects
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කළ යුතුයි
 
-Develop a common development plan to identify development needs at provincial level
+පළාත් මට්ටමින් සංවර්ධන අවශ්‍යතා හඳුනා ගනිමින් පොදු සංවර්ධන සැලැස්මක් සකස් කරන්න
 
-President Anura Kumara Dissanayake emphasized that the Central Government and Local Authorities should be integrated with coordination with the coordination of the Central Government and Local Government.
+සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම රජය සහ පළාත් පාලන ආයතන මනා සම්බන්ධීකරණයකින් යුතුව ඒකාබද්ධව කටයුතු කළ යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
 
-The President emphasized that the political authority has ended the culture of local authorities to detain its power to the present government.
+දේශපාලන අධිකාරිය තම බලය රඳවා ගැනීම වෙනුවෙන් පළාත් පාලන ආයතන භාවිත කළ සංස්කෘතිය වත්මන් රජය යටතේ අවසන් කර ඇති බව අවධාරණය කළ ජනාධිපතිවරයා, රට සංවර්ධනය කිරීමේ ජාතික සැලැස්මක් කරා ගමන් කිරීම වෙනුවෙන් මධ්‍යම රජය සහ පළාත් පාලන ආයතන ඒකාබද්ධව කටයුතු කිරීමේ අවශ්‍යතාවද පෙන්වා දුන්නේය.
 
-President Anura Kumara Dissanayake participated in the Presidential Secretariat, as well as the development of the projects between the central government and local government allocations for local government, and the previous year's budgetary arrangements.
-
-Special attention was made by the Central Government and Local Government Agents while implementing development projects in the fields of education, health and highways.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම උපදෙස් ලබා දුන්නේ සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමේදී මධ්‍යම ආණ්ඩුව සහ පළාත් පාලන ආයතන අතර මතුව ඇති ගැටලු පිළිබඳව සාකච්ඡා කිරීමට සහ පළාත් පාලන ආයතන සඳහා  2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනයට මෙන්ම, 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාවකට ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
 
 ...
 
 [Data](articles/f1d3c9cc.json)
-
-[Extended Data](ext_articles/f1d3c9cc.ext.json)
 
 ---
 
@@ -1987,5 +1913,79 @@ Speaking at the launch held today (11) at the ICT Hotel Ratnadipa in Colombo, th
 [Data](articles/cb6bb315.json)
 
 [Extended Data](ext_articles/cb6bb315.ext.json)
+
+---
+
+### A mother and son killed in Karagience
+
+*2025-09-11 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214455) · `si`
+
+A mother and son have been killed in Kotarandeniya police division.
+
+It is reported that the murder had been carried out while they were in their home.
+
+The victim was a 75 year old woman and a 25 year old youth.
+
+It is said that the youth is a three-wheeler driver who is a schoolchildren.
+
+However, there is yet to be revealed about the cause or the murder of the murder.
+
+◼️
+
+[Data](articles/a5c25e06.json)
+
+[Extended Data](ext_articles/a5c25e06.ext.json)
+
+---
+
+### Prompt solution to the problems of pensioners including salary anomalies
+
+*2025-09-11 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214454) · `si`
+
+Deputy Minister of Labor Mahinda Jayasinghe says that a time frame is needed to solve problems, including the salary anomalies of the pensioners.
+
+The deputy minister said that some of the steps required to solve these problems have already been taken.
+
+Speaking to the discussion with the Administration of Pensioners, the Treasury, Labor Minister and Economic Development Deputy Minister Dr. Anil Jayantha Fernando.
+
+◼️
+
+[Data](articles/729f5935.json)
+
+[Extended Data](ext_articles/729f5935.ext.json)
+
+---
+
+### LOLC Securities bags Silver at BestWeb.LK 2025
+
+*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/lolc-securities-bags-silver-at-bestweb-lk-2025/) · `en`
+
+LOLC Securities (LOSEC), the stockbroking arm and a fully owned subsidiary of the LOLC Group, has been honored with the Silver Award in the Best Finance & Insurance Website category at the BestWeb.LK 2025 Awards, organized by the LK Domain Registry. This recognition marks a significant milestone in the company’s continuous efforts to strengthen its digital presence and deliver an exceptional online experience for its clients.
+
+BestWeb.LK, Sri Lanka’s premier web design competition since 2009, provides a unique opportunity for local websites to be evaluated against rigorous criteria, rewarding innovation, creativity, and functionality. The competition has become the benchmark for excellence in digital design, offering a space where brands can showcase their identity and technological capabilities in an impactful way.
+
+...
+
+[Data](articles/12eb12cb.json)
+
+[Extended Data](ext_articles/12eb12cb.ext.json)
+
+---
+
+### Role of digital transformation in SL’s continued aviation sector growth
+
+*2025-09-11 21:17:00* · [`islandlk`](http://island.lk/role-of-digital-transformation-in-sls-continued-aviation-sector-growth/) · `en`
+
+Sri Lanka’s aviation sector is experiencing a strong recovery, recording nearly 10 percent year-on-year passenger growth. Yet, without urgent digital transformation and stronger collaboration among stakeholders, this growth could quickly become a bottleneck, warned SITA Asia Pacific president Sumesh Patel.
+
+Speaking to The Island Financial Review ahead of the SITA IT Aerotech Summit, at ITC Ratnadipa Wednesday which brought together SriLankan Airlines, Airport and Aviation Services (Sri Lanka) Ltd (AASL), Immigration, and Customs. He stressed that aviation is an industry that cannot operate in isolation.
+
+“The first impression of any country is its airport. If Sri Lanka wants to leverage its location and tourism potential, it must make passenger journeys smoother, faster, and more connected, Patel told The Island Financial Review.
+
+...
+
+[Data](articles/46198756.json)
+
+[Extended Data](ext_articles/46198756.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 22:20:42**
+As of **2025-09-12 22:08:48**
 
 ## Newspaper Stats
 
-*Scraped **75,633** Articles*
+*Scraped **75,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ adalk | 7,346
 adaderanalk | 9,716
 tamilmirrorlk | 11,305
 virakesarilk | 12,321
-adaderanasinhalalk | 13,183
+adaderanasinhalalk | 13,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,903 (91.1%) of 75,633 articles have been extended.
+68,886 (91.1%) of 75,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
-
-### කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් දැනුවත් කිරීමේ වැඩමුළුවක්
-
-*2025-09-12 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214500) · `si`
-
-රාජ්‍ය සේවය ඵලදායි සහ කාර්යක්ෂම සේවයක් බවට පරිවර්තනය කිරීම සඳහා කෘත්‍රිම බුද්ධිය භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් වෙනුවෙන් සංවිධානය  කරන විශේෂ වැඩමුළු මාලාවේ තවත් එක් වැඩමුළුවක් අද (12) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්විණි.
-
-‘AI for Transforming Public Service’ යන මැයෙන් ජනාධිපති ලේකම් කාර්යාලයේ සහාය ඇතිව ඩිජිටල් ආර්ථික අමාත්‍යාංශය විසින් සංවිධානය කළ මෙම වැඩමුළුව සඳහා රජයේ අමාත්‍යාංශ විධායක නිලධාරීහු එක්ව සිටියහ.
-
-රාජ්‍ය සේවය ඩිජිටල්කරණය කිරීමේ රජයේ වැඩපිළිවෙළෙහි ආරම්භක ප්‍රවේශයක් ලෙස රාජ්‍ය නිලධාරීන් දැනුවත් කිරීම සහ සුදානම් කිරීම, කෘත්‍රිම බුද්ධිය පිළිබඳව රාජ්‍ය සේවය තුළ ධනාත්මක ආකල්පයක් ඇති කිරීම යන අරමුණු ඇතිව මෙම වැඩමුළුව සංවිධානය කර ඇත.
-
-...
-
-[Data](articles/9c5873ab.json)
-
----
 
 ### Charlie Kark's killer arrested
 
@@ -2069,5 +2053,23 @@ He emphasized the government's initiative to establish a functioning processed b
 [Data](articles/af242ec6.json)
 
 [Extended Data](ext_articles/af242ec6.ext.json)
+
+---
+
+### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
+
+*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
+
+Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
+
+This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
+
+Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
+
+...
+
+[Data](articles/c2383c73.json)
+
+[Extended Data](ext_articles/c2383c73.ext.json)
 
 ---

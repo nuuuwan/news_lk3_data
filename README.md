@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-12 09:56:16**
+As of **2025-09-12 11:40:10**
 
 ## Newspaper Stats
 
-*Scraped **75,522** Articles*
+*Scraped **75,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,33 +12,293 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 767
-economynextcom | 4,579
+economynextcom | 4,581
 islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,363
-adalk | 7,326
-adaderanalk | 9,695
-tamilmirrorlk | 11,291
-virakesarilk | 12,305
-adaderanasinhalalk | 13,152
+adalk | 7,329
+adaderanalk | 9,700
+tamilmirrorlk | 11,292
+virakesarilk | 12,307
+adaderanasinhalalk | 13,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-68,123 (90.2%) of 75,522 articles have been extended.
+68,240 (90.3%) of 75,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-12 (Friday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
+### Like did to Russia, there is a ban into Israel?
+
+*2025-09-12 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214469) · `si`
+
+The Spanish Sports Minister Pure Alegia has said that after the invasion of Ukraine forbidden Russian sports teams, it is said that Israel should be banned to play.
+
+The 'Tue of Swain' Cycling Tournament is being held in Spain these days, and the Israeli-Premier Tech team also participated.
+
+The Palestinian pro-organizations in Spain have launched a protest against the opportunity to compete.
+
+The Minister of Spanish Sports has made this statement in such a setting.
+
+He said he would like to ban Israeli-premier Tech group, but it can only be implemented to the cycle world governing body.
+
+He also emphasizes the dual procedure taken about Russia and Israel, and the Israeli groups should ban the game as they banned Russian sports teams in 2022.
+
+It is said that the Israeli-Premier Tech group is not a group representing Israel.
+
+However, Israeli Prime Minister Benjamin Netanyahu had praised the group about the Israeli-Premier Tech group of Israeli-Premier Tech group, despite strong objections.
+
+...
+
+[Data](articles/422d0816.json)
+
+[Extended Data](ext_articles/422d0816.ext.json)
+
+---
+
+### CP Radhakrishnan sworn in as India’s 15th Vice President
+
+*2025-09-12 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112424/cp-radhakrishnan-sworn-in-as-indias-15th-vice-president) · `en`
+
+Chandrapuram Ponnusamy Radhakrishnan was on Friday sworn in as the 15th Vice President of India, at a formal ceremony held at Rashtrapati Bhavan.
+
+President Droupadi Murmu administered the oath of office, marking Radhakrishnan’s assumption of the second-highest constitutional office in the country.
+
+Senior leaders cutting across party lines have attended the swearing-in ceremony. Those present in the ceremony include Odisha Chief Minister Mohan Charan Majhi, Karnataka Governor Thaawarchand Gehlot, Andhra Pradesh Chief Minister N Chandrababu Naidu, Punjab Governor and Chandigarh Administrator Gulab Chand Kataria, Jharkhand Governor Santosh Gangwar, and Madhya Pradesh Chief Minister Mohan Yadav.
+
+CP Radhakrishnan, the NDA nominee, won the Vice Presidential election on Tuesday after defeating the opposition INDIA bloc nominee B Sudershan Reddy by a margin of 152 votes. While Radhakrishnan secured 452 votes, his opponent Reddy got 300 votes.
+
+...
+
+[Data](articles/96dd9658.json)
+
+[Extended Data](ext_articles/96dd9658.ext.json)
+
+---
+
+### Pre Budget discussions between President and Apparel Stakers
+
+*2025-09-12 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214468) · `si`
+
+President Anura Kumara Dissanayake has emphasized that the government's objective is to meet the future economic growth targets based on the economic stability of the country.
+
+The President was speaking at a 2026 pre-budget discussion with the partners in the apparel industry yesterday (11).
+
+The President has assured that the government is not unable to invest in the development of industrialists and investors.
+
+President Anura Kumara Dissanayake emphasized that the government's objective is to meet future economic growth targets based on the economic stability of the country.
+
+The President made this observation at a 2026 pre-budget discussion with the partners' partners in the apparel industry yesterday (11) at the Presidential Secretariat.
+
+The President pointed out that the current facilities are available to the existing industry, the government's policy is to provide access to the first rupee.
+
+...
+
+[Data](articles/033d7175.json)
+
+[Extended Data](ext_articles/033d7175.ext.json)
+
+---
+
+### ‘True strength comes from our roots, not positions or privileges’ – Namal
+
+*2025-09-12 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112422/true-strength-comes-from-our-roots-not-positions-or-privileges-namal-) · `en`
+
+In a post on ‘X’ (formerly Twitter), SLPP Member of Parliament Namal Rajapaksa, son of former President Mahinda Rajapaksa, has reflected on his father’s departure from the official residence on Wijerama Road, Colombo 07.
+
+He said that it was a reminder that true strength comes from one’s roots and the love of the people, rather than from positions or privileges.
+
+“My father, Mahinda Rajapaksa, leaves the official residence in Colombo and returns to Tangalle, the place where it all began. A reminder that true strength comes from our roots, the love of the people, not positions or privileges,” he posted on X.
+
+Former President Mahinda Rajapaksa vacated the Wijerama residence yesterday (11) and returned to his family home, Carlton House, in Tangalle.
+
+This move followed the enactment of the Presidents’ Entitlements (Repeal) Act which was passed in Parliament on Wednesday (10), which required former presidents to return official residences provided by the state.
+
+◼️
+
+[Data](articles/d1bf215b.json)
+
+[Extended Data](ext_articles/d1bf215b.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-09-12 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240348/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.77/80 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields were relatively steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 8.25/30 percent, up from 8.20/30 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2028 was quoted at 8.85/95 percent, down from 9.05/14 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.52/55 percent, up from 9.50/55 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.70/78 percent, up from 8.70/76 percent.
+
+A bond maturing on 15.10.2032 was quoted at 10.40/48 percent, up from 10.40/47 percent.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.8220 buying, and 415.1638 selling, and the euro was 347.8968 buying, 359.1020 selling.
+
+...
+
+[Data](articles/c0ecd6af.json)
+
+[Extended Data](ext_articles/c0ecd6af.ext.json)
+
+---
+
+### China to provide Sri Lanka’s full requirement of school uniforms for 2026
+
+*2025-09-12 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112421/china-to-provide-sri-lankas-full-requirement-of-school-uniforms-for-2026) · `en`
+
+The Chinese government has agreed to provide the full requirement of school uniform material required for 4,418,404 government and government-aided school students in Sri Lanka for the year 2026 as a grant.
+
+An official ceremony to exchange the relevant certificates of agreement was held yesterday (11) at the Ministry of Education premises in Battaramulla.
+
+The event was held under the patronage of the Deputy Minister of Education and Higher Education, Dr. Madura Seneviratne, and the Chinese Ambassador to Sri Lanka, Qi Zhenhong.
+
+During the ceremony, the exchange of certificates confirming the provision of uniform material for 2026 took place between the Secretary to the Ministry of Education, Nalaka Kaluwewa, and Ambassador Qi Zhenhong.
+
+Speaking at the event, Deputy Minister of Education and Higher Education Dr. Madura Seneviratne said:
+
+...
+
+[Data](articles/7405d01b.json)
+
+[Extended Data](ext_articles/7405d01b.ext.json)
+
+---
+
+### It is not our responsibility to exclude children from technology: Prime Minister Harini advises adults
+
+*2025-09-12 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224872) · `ta`
+
+It is not our responsibility to exclude children from technology, but it is our responsibility to guide them to use it intelligently and constructively, ”said Dr. Harini Amarasuriya, Minister of Education, Higher Education and Vocational Education and Prime Minister.
+
+Harini Amarasuriya was the chief guest at the launch of the "STE FEED" in the ITC Ratnadeep Hotel, Colombo on Thursday (September 11) at the launch of the "STE FEED" in the Tiktok Social Weather.
+
+In a world based on digital technology, this opportunity is an important milestone to expand the opportunity to teach the country's youth in the country's youth, by creating a background for education, sharing of knowledge and strengthening education through Tiktok.
+
+He emphasized the government's initiative to establish a functioning processed by educators, scholars, scholars, technicians, child protection consultants and private sector partners to introduce equal access to equal access to the future.
+
+...
+
+[Data](articles/af242ec6.json)
+
+[Extended Data](ext_articles/af242ec6.ext.json)
+
+---
+
+### Plantation Employers Federation Increase Foreign Exchange loss to Palm Oil
+
+*2025-09-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/224871) · `ta`
+
+Planters' Association of Ceylon - PA has urged the government to remove the ban on planting palm oil plants in the country. The association has pointed out that the ban has caused a huge loss to the country's economy.
+
+This ban has caused a loss of millions of dollars in foreign exchange. To meet the local demand, the country currently spends the importation of about $ 35 million annually to import cooking oils. The association has warned that the loss will cross $ 175 million in five years.
+
+Palm oil was the most profitable crop in the regional garden industry. This made an average of 49 percent net profit. The sudden ban has put an investment of about 23 billion rupees in danger and the seedlings worth 550 million rupees have been destroyed without any compensation.
+
+...
+
+[Data](articles/c2383c73.json)
+
+[Extended Data](ext_articles/c2383c73.ext.json)
+
+---
+
+### Sri Lankan woman arrested for kidnapping rare snakes
+
+*2025-09-12 09:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிய-வகைய-பாம்புகளை-கடத்திவந்த-இலங்கைப்-பெண்-கைது/175-364457) · `ta`
+
+Customs officials have arrested a Sri Lankan woman from Bangkok via Chennai by Indigo Airlines, Customs officials have arrested Customs officials.
+
+A Sri Lankan female passenger aged 40 has been arrested for allegedly kidnapping 6 rare snakes.
+
+The snakes were found in a test conducted by Customs Drug Control Division officials, along with Biodiversity, Cultural and National Heritage Protection Unit.
+
+All these snakes are included in the list of species that need to be protected. Remble
+
+◼️
+
+[Data](articles/23febd19.json)
+
+[Extended Data](ext_articles/23febd19.ext.json)
+
+---
+
+### අයවැය කථාව නොවැම්බර් 7
+
+*2025-09-12 09:38:17* · [`adalk`](https://www.ada.lk/business/අයවැය-කථාව-නොවැම්බර්-7/7-418450) · `si`
+
+2026 වර්ෂයට අදාළ විසර්ජන පනත් කෙටුම්පත දෙවැනිවර කියවීම (අයවැය කථාව/අයවැය යෝජනා ඉදිරිපත් කිරීම) 2025 නොවැම්බර් 7 වැනිදා සිදු කිරීමටත් අනතුරුව නොවැම්බර් 8 සිට දෙසැම්බර් 5 දක්වා විවාදය පැවැත්වීමටත්  පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී  තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී මේ බව තීරණය වී තිබේ.
+
+මේ අනුව විසර්ජන පනත් කෙටුම්පත පළමුවර කියවීම සඳහා සැප්තැම්බර් 26 දින පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බවත් මහලේකම්වරිය පැවසුවාය.
+
+මුදල් විෂය භාර අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් 2025 නොවැම්බර් 7 වැනිදා විසර්ජන පනත් කෙටුම්පත දෙවැනිවර කියවීම (අයවැය කථාව)  සිදු කිරීමටත්, අනතුරුව නොවැම්බර් 8 සිට නොවැම්බර් 14 දක්වා දින 6ක් දෙවනවර කියවීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත. ඒ අනුව නොවැම්බර් 14 ප.ව 6.00ට දෙවනවර කියවීමේ ඡන්ද විමසීම පැවැත්වේ.
+
+...
+
+[Data](articles/3970a4dd.json)
+
+---
+
+### Parliamentary Council begins
 
 *2025-09-12 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214467) · `si`
 
 ◼️
 
 [Data](articles/3a7cc91e.json)
+
+[Extended Data](ext_articles/3a7cc91e.ext.json)
+
+---
+
+### Central govt and provincial institutions must work in unison when implementing development projects - President advises Governors and Secretaries
+
+*2025-09-12 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112420/central-govt-and-provincial-institutions-must-work-in-unison-when-implementing-development-projects-president-advises-governors-and-secretaries) · `en`
+
+President Anura Kumara Dissanayake has stressed the importance of close coordination and joint action between the central government and provincial institutions in the implementation of development projects, the President’s Media Division (PMD) said.
+
+The President emphasised that the culture of using provincial institutions merely as instruments for political authority to retain power has been brought to an end under the present government, while also highlighting the need for the central government and provincial institutions to work in unison towards a national plan for the country’s development.
+
+...
+
+[Data](articles/c531dfdd.json)
+
+[Extended Data](ext_articles/c531dfdd.ext.json)
+
+---
+
+### Six live exotic snakes found in female passenger’s luggage at BIA
+
+*2025-09-12 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112419/six-live-exotic-snakes-found-in-female-passengers-luggage-at-bia) · `en`
+
+Six live exotic snakes were seized at the Bandaranaike International Airport (BIA) from a Sri Lankan national arriving from Bangkok via Chennai on a IndiGo Airlines flight, Sri Lanka Customs said.
+
+The interception was carried out by Sri Lanka Customs’ Narcotic Control Unit in collaboration with the Biodiversity, Cultural, and National Heritage Protection Unit.
+
+The female passenger, in her early 40s, had concealed the snakes in her checked-in baggage.
+
+All species are listed under CITES Appendix II and are subject to international controls due to the threats posed by the exotic pet trade, said Sri Lanka Customs.
+
+The Department of Wildlife Conservation provided technical support in species identification and handling, ensuring the safe management of the animals. This seizure highlights the importance of inter-agency collaboration in combating illegal wildlife trafficking, the statement said.
+
+...
+
+[Data](articles/66a502bf.json)
+
+[Extended Data](ext_articles/66a502bf.ext.json)
 
 ---
 
@@ -147,6 +407,24 @@ Special attention was made in the case of the Central Government and Local Autho
 [Data](articles/fe0870dd.json)
 
 [Extended Data](ext_articles/fe0870dd.ext.json)
+
+---
+
+### World Bank report slams Sri Lanka VAT amid poverty from monetary meltdown: analysis
+
+*2025-09-12 08:19:00* · [`economynextcom`](https://economynext.com/world-bank-report-slams-sri-lanka-vat-amid-poverty-from-monetary-meltdown-analysis-240310/) · `en`
+
+ECONOMYNEXT – A World Bank report on Sri Lanka’s tax has slammed value added tax hike, though rate cuts and money printing for potential output targeting by macro-economists led to a collapse of the rupee and inflation that was the core reason for a dramatic rise in poverty.
+
+The rhetoric against VAT may have negative consequences for Sri Lanka for which the poor will eventually pay a higher price if it leads to a repeat of tax cuts like in 2019, observers say.
+
+The recent steep rise in Sri Lanka VAT was also a result of having to pay the salaries of a bloated public sector, including 100,000 development officers and other unemployed graduates hired into public service, who apparently do not have offices to sit and work according to statements made in parliament as well as a legacy large military from a civil war.
+
+...
+
+[Data](articles/4ad85d39.json)
+
+[Extended Data](ext_articles/4ad85d39.ext.json)
 
 ---
 
@@ -572,6 +850,28 @@ Opening the plaque (From left): ICC Dispute Resolution Services Director of Arbi
 
 ---
 
+### The head of the US trade agency meets president
+
+*2025-09-12 05:52:41* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජනපද-වෙළෙඳ-නියෝජිතායතනයේ-ප්‍රධානීහු-ජනපති-හමු-වෙති/11-418445) · `si`
+
+The heads of the US trade agency met with President Anura Kumara Dissanayake at the President's Office today (11).
+
+US trade agencies are the chiefs of the US trade agencies that have been appointed by the Government of Sri Lanka to discuss the tariffs of the US trade delegation.
+
+The US trade agency (UTE) for economic activities in Sri Lanka also focused on trade agreements to be established between the United States and Sri Lanka in the future.
+
+The President, who is a large amount of influence in Sri Lanka and an outsourced influence, the President has been able to influence the largest impact on the external pressure.. It is also important to focus on strengthening the long-term ties in both countries when making decisions.
+
+US Ambassador Julie Chung Julie Cung (South Asia) Emily Ashby (South and Central Asia) Brendan Lynch (South and Central Asia) Brendan Lynch at the US Embassy in Sri Lanka
+
+...
+
+[Data](articles/24036f71.json)
+
+[Extended Data](ext_articles/24036f71.ext.json)
+
+---
+
 ### EFC National Best Employer Awards 2025
 
 *2025-09-12 05:50:30* · [`dailyftlk`](https://www.ft.lk/business/EFC-National-Best-Employer-Awards-2025/34-781553) · `en`
@@ -826,17 +1126,21 @@ The UN resolution is very tight. In order to justify the injustice inflicted on 
 
 ### 2025-09-11 (Thursday)
 
-### ධීවර ගැටළු සාකච්ඡා කිරීමට නාවික හමුදාව සහ යාපනයේ ධිවර ප්‍රජාව අතර හමුවක්
+### Navy and the Fisheries Community in Jaffna
 
 *2025-09-11 22:59:29* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-ගැටළු-සාකච්ඡා-කිරීමට-නාවික-හමුදාව-සහ-යාපනයේ-ධිවර-ප්‍රජාව-අතර-හමුවක්/11-418444) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව, උතුරු පළාතේ ධීවර කටයුතු ආශ්‍රිත ගැටළු සාකච්ඡා කිරීමේ වැඩසටහනක් 2025 සැප්තැම්බර් මස 09 වැනි දින ශ්‍රී ලංකා වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව සහ  උතුරු පළාත් ධීවර සංගම් නියෝජිතයින්ගේ සහභාගීත්වයෙන්, විධාන මූලස්ථානයේදී, උතුරු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් බුද්ධික ලියනගමගේ ගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+The Commander of the Northern Naval Commander, 2005, was held on the 9th of September with the participation of the Sri Lanka Navy, the Department of Coast Guard on the 9th of September 2025, with the participation of the Sri Lanka Coast Guard and the Northern Province Fisheries Association.
 
-මෙම සාකච්ඡාවේදී, දේශීය ධීවරයින් මුහුණ දෙන අභියෝග, නියාමන අංශ, නීති විරෝධී ධීවර පිළිවෙත්, ජාවාරම් සහ සමුද්‍ර සම්පත් ආරක්‍ෂා කිරීම සඳහා තිරසාර ධීවර පන්න ක්‍රම භාවිතයේ වැදගත්කම පිළිබඳව සාකච්ඡා කෙරුණු අතර, ආරක්‍ෂිත සහ ඵලදායී ධීවර පරිසරයක් සහතික කිරීම සඳහා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව, ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව සහ ධීවර සමිති අතර සමීප සහයෝගීතාවයේ ඇති වැදගත්කමද මෙහිදී අවධාරණය කෙරිණි.
+The discussion was discussed at the discussion, the importance of local fishermen, regulatory sectors, the use of sustainable fisheries, racketeer, and the importance of close cooperation between the Department of Fisheries and Aquatic Resources and Fisheries Societies.
 
-...
+A delegation from Jaffna Acting Director and Fisheries Director and Fisheries Association and Fisheries Association and Fisheries Association and Fisheries Association were present at the Awareness Program.
+
+◼️
 
 [Data](articles/048cdf4f.json)
+
+[Extended Data](ext_articles/048cdf4f.ext.json)
 
 ---
 
@@ -1723,281 +2027,5 @@ The Fast Space Program of China has been a problem for the US and the match betw
 [Data](articles/5b16edf4.json)
 
 [Extended Data](ext_articles/5b16edf4.ext.json)
-
----
-
-### Bail for both UDA top officials
-
-*2025-09-11 16:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UDA-உயர்-அதிகாரிகள்-இருவருக்கும்-பிணை/175-364436) · `ta`
-
-Colombo Chief Magistrate Asanga Asanga Asanga Asanga Asanga has released the two suspects, former Land Director General of Urban Development Authority (STF), Sampath Sumedha Poojitha Ratnayake and former Land Director Weerawansa Perera, who was arrested for allegedly causing a loss of over Rs 29.5 million for the government.. Podarakama ordered on Thursday (11).
-
-The magistrate imposed a cash bail of Rs 100,000 and Rs 2.5 million each and banned the suspects from going abroad.
-
-In 2016, Colombo, Colombo 05, belonging to the Urban Development Authority (Colombo), the City Development Authority (CBI) has issued a suspects for bribery or corruption for the loss of 29,519,666.16 rupees for the City Development Authority.
-
-◼️
-
-[Data](articles/c9a52916.json)
-
-[Extended Data](ext_articles/c9a52916.ext.json)
-
----
-
-### Floods in Indonesia
-
-*2025-09-11 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214447) · `si`
-
-The floods affected by the Bali Islands in Indonesia have risen to 14 people.
-
-Foreign media reports say that two disadvantaged persons will be recovered further to find out.
-
-The rain drawn to Bali islands has been reduced and the floods have been reduced by now.
-
-However, foreign media reports that more than 500 people have been referred to safe locations due to floods.
-
-◼️
-
-[Data](articles/0d7ffac5.json)
-
-[Extended Data](ext_articles/0d7ffac5.ext.json)
-
----
-
-### Former Minister Prasanna Ranatunga withdraws appeal
-
-*2025-09-11 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112407/former-minister-prasanna-ranatunga-withdraws-appeal-) · `en`
-
-Former Minister Prasanna Ranatunga’s attorneys have withdrawn an appeal filed on behalf of him with the Court of Appeal seeking an order to acquit him of the suspended prison sentence and fines imposed on him.
-
-The appeal was taken up today (11) before a five-member bench of the Appellate Court, comprising Justices Mayadunne Corea, S. Kumaran Ratnam, Shashi Mahendran, Damith Thotawatte and Amal Ranaraja, Ada Derana reporter said.
-
-Accordingly, the bench of the Court of Appeal, which granted former minister Prasanna Ranatunga time to pay the fine of Rs. 25 million in installments, later granted permission to withdraw the appeal.
-
-Ranatunga was accused of threatening a businessman and demanding Rs. 64 million to evict unauthorized occupants from a land in the Meethotamulla area in Kolonnawa and to refill the land, during his tenure as Chief Minister of the Western Province.
-
-◼️
-
-[Data](articles/fda6e785.json)
-
-[Extended Data](ext_articles/fda6e785.ext.json)
-
----
-
-### Sichi, who departed before Mahinda
-
-*2025-09-11 16:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-முன்னரே-புறப்பட்ட-சிச்சி/175-364435) · `ta`
-
-Rohitha Rajapakse, the youngest son of former President Mahinda Rajapaksa, called 'Sichi', left the official residence of the former president on Wijerama Road, Colombo a moment before the former president vacated.
-
-◼️
-
-[Data](articles/f724ba93.json)
-
-[Extended Data](ext_articles/f724ba93.ext.json)
-
----
-
-### Here are the former Presidents used in quarters
-
-*2025-09-11 16:19:37* · [`adalk`](https://www.ada.lk/breaking_news/නිල-නිවාසවල-භාවිත-කළ-හිටපු-ජනපතිවරු-මෙන්න/11-418438) · `si`
-
-There were only five former chiefs, but only three former chiefs.
-
-Accordingly, former President Mahinda Rajapaksa. Mrs. Former President Maithripala Sirisena and former President Chandrika Bandaranaike Kumaratunga were used.
-
-Former President Mahinda Rajapaksa has left the official residence today, according to the Task Removal Act of the approved President's Title Removal Act and former President Maithripala Sirisena has left the house yesterday.
-
-Former President Chandrika Bandaranaike Kumaratunga has also been asked to leave the official residence.
-
-Former President members, Gotabhaya Rajapaksa and Ranil Wickremesinghe live in their private houses.
-
-Former President Ries. Mr. Hema Premadasa and Mrs. Hema Premadasa and her residence, she left her.
-
-◼️
-
-[Data](articles/35286550.json)
-
-[Extended Data](ext_articles/35286550.ext.json)
-
----
-
-### Sri Lanka sells Rs116.16bn in bonds after offering Rs155bn
-
-*2025-09-11 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs116-16bn-in-bonds-after-offering-rs155bn-240221/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 116.16 billion rupees in 2030, 2032 and 2035 bonds, of an offered 155 billion, data from the state debt office showed.
-
-46.16 billion rupees of 01 July 2030 (LKB00530G018) bonds were sold at an average yield of 9.76 percent, of an offered 85 billion.
-
-All 25 billion rupees offered of 01 October 2032 (LKB02032J017) bonds were sold at an average yield of 10.45 percent.
-
-All 45 billion rupees offered of 15 June 2035 (LKB01035F159) bonds were sold at an average yield of 10.96 percent.
-
-◼️
-
-[Data](articles/19ff2ad1.json)
-
-[Extended Data](ext_articles/19ff2ad1.ext.json)
-
----
-
-### President meets new officers of the Ceylon Chamber of Commerce
-
-*2025-09-11 16:07:36* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලංකා-වාණිජ-මණ්ඩලයේ-නව-නිලධාරි-මණ්ඩලය-හමුවෙයි/11-418437) · `si`
-
-President Anura Kumara Dissanayake and a new officials of the Ceylon Chamber of Commerce were held today (11).
-
-President Anura Kumara Dissanayake explained how the public and private sectors of the present government, as well as to facilitate the business community and to reach the business community.
-
-By means of policy alignment, the country also helped to help the country to prosperate social well-being and environmental sustainability.
-
-The new office bearer of the Ceylon Chamber of Commerce was presented to the Sri Lankan economy and presented to the President.
-
-Senior Director of Economic Affairs Duminda Hulangamuwa, Chairman of Ceylon Chamber of Commerce Krishan Balendra, Vice President, Vice President, Vice Chair and Vice President Vinodha Hydendra
-
-◼️
-
-[Data](articles/9301ae00.json)
-
-[Extended Data](ext_articles/9301ae00.ext.json)
-
----
-
-### OK to do: Mahinda
-
-*2025-09-11 15:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-செய்தது-சரி-மஹிந்த/175-364434) · `ta`
-
-According to the former President's Removal Removal Act, former President Mahinda Rajapaksa left his official residence on Wijerama Road, Colombo on Thursday (11) and moved to Carlton's residence in Tangalle.
-
-“We are going to go. But we will not go from politics. Well, we have done wrong. ”
-
-◼️
-
-[Data](articles/b64095ef.json)
-
-[Extended Data](ext_articles/b64095ef.ext.json)
-
----
-
-### Former Director General and Director of UDA granted bail
-
-*2025-09-11 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112406/former-director-general-and-director-of-uda-granted-bail) · `en`
-
-Former Director General of the Urban Development Authority (UDA) Sampath Sumedha Ratnayake and former Director (Lands) of the UDA Weerawansa Perera, who were arrested on corruption charges, have been released on bail Colombo Magistrate’s Court.
-
-Colombo Chief Magistrate Asanka S. Bodaragama issued this order after considering the facts presented by Bribery Commission officials and the legal representatives of the accused.
-
-The duo had been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) at around 9:30 a.m. this morning (11), over allegations of financial misappropriation of state funds.
-
-According to investigations by the Bribery Commission, a 55.5-perch plot of UDA-owned land located at Mayura Place, Colombo 05, had been leased out on a temporary rental basis, resulting in a financial loss of over Rs. 29.5 million to the UDA.
-
-...
-
-[Data](articles/6d2f9761.json)
-
-[Extended Data](ext_articles/6d2f9761.ext.json)
-
----
-
-### Nepali youth destroyed the country without her
-
-*2025-09-11 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අගක්-මුලක්-නොදැන-නේපාල-තරුණයින්-රට-විනාශ-කළා/11-418436) · `si`
-
-Nepal today issues a lesson that the social media should be used to do good and that the country has been destroyed by the country.
-
-We were very shocked by the most sad events in Nepal. The series of sang events that have created such a tremendous rebellion in the land of the Buddha cannot be granted.
-
-It is evident that some conspiracy to evolve South Asian countries is acting. Especially seems to be seen by the countries in the past, the lack of efforts of Buddhist countries as well as Buddhist inheritance in the past.. Clearly, the young people have a sense of their country, saying that the youth is addicted to the use of social media and to prohibit the history of the country.
-
-Clearly, the youth who were taking the lead in the vicinity of Nepal would be clear that they would not destroy their country in this way.. Today, many people believe that the hatred of sowing the hatred of the soil sowing hatred is that the hatred of sowing.
-
-...
-
-[Data](articles/7c573b26.json)
-
-[Extended Data](ext_articles/7c573b26.ext.json)
-
----
-
-### Flooding in Bali; 14 people die
-
-*2025-09-11 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224824) · `ta`
-
-The death toll from the floods in the Indonesian island, Bali, has risen to 14.
-
-Two people disappeared in Tenbazar, the capital of the tourism center. The Disaster Detection Center said that 125 rescue workers were involved in the search for them.
-
-Heavy rains on Tuesday and Wednesday have caused flooding in six parts of Tenpasar and Bali.
-
-Major roads, including the International Airport. Landslides have also occurred in some areas.
-
-There have been a large number of casualties due to the flooding of the rivers.
-
-Rescue workers are still emitting water from many of the flooded buildings. About 500 soldiers have been stopped to remove mud, debris and rocks on the streets.
-
-“The peak of the rain has passed. Usually the water is drained. Currently, we focus on removing mud from the streets.
-
-Four people have been killed in floods caused by heavy rains in East Nusa Tenkara, Indonesia.
-
-◼️
-
-[Data](articles/fb69820c.json)
-
-[Extended Data](ext_articles/fb69820c.ext.json)
-
----
-
-### Former UDA officials released on bail
-
-*2025-09-11 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214446) · `si`
-
-The Colombo Magistrate's Court has set aside the former Director General of the Urban Development Authority for the charges of corruption by the Bribery Commission.
-
-Colombo Chief Magistrate Asanka S.. Mr. Bodaragama has issued this order.
-
-◼️
-
-[Data](articles/36c08481.json)
-
-[Extended Data](ext_articles/36c08481.ext.json)
-
----
-
-### Woman killed in Jaffna
-
-*2025-09-11 15:30:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-குளவி-கொட்டிய-பெண்-பலி/175-364433) · `ta`
-
-யாழ்ப்பாணம் பகுதியில் குளவி கொட்டியதில் பெண் ஒருவர் உயிரிழந்துள்ளதாக தெல்லிப்பழை பொலிஸார் தெரிவித்துள்ளனர்.
-
-The 82 -year -old woman, Selvanayagam Balasaraswati, from Tellippalai, Jaffna, has died.
-
-The woman has been attacked by a wasp nest behind her house.
-
-◼️
-
-[Data](articles/fe1e10cd.json)
-
-[Extended Data](ext_articles/fe1e10cd.ext.json)
-
----
-
-### President meets new board members of Ceylon Chamber of Commerce
-
-*2025-09-11 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112405/president-meets-new-board-members-of-ceylon-chamber-of-commerce-) · `en`
-
-President Anura Kumara Dissanayake has met with the newly appointed Board of the Ceylon Chamber of Commerce today (11) at the Presidential Secretariat in Colombo.
-
-During the discussion, President Dissanayake explained the government’s current economic approach, its direction and the manner in which the state and private sectors are being integrated to drive development and provide necessary facilities to the business community, the President’s Media Division (PMD) reported.
-
-The President emphasized that by setting clear goals and formulating policies to achieve them, can support economic growth, promote social well-being and strengthen environmental sustainability, thereby contributing to a more prosperous future for the country.
-
-Accordingly, the new Board of the Ceylon Chamber of Commerce presented their vision, contributions to the national economy, future plans and proposals for the upcoming budget to the President, the PMD stated.
-
-...
-
-[Data](articles/919272a9.json)
-
-[Extended Data](ext_articles/919272a9.ext.json)
 
 ---

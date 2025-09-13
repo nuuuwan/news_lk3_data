@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 22:19:56**
+As of **2025-09-13 22:07:10**
 
 ## Newspaper Stats
 
-*Scraped **75,779** Articles*
+*Scraped **75,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,29 @@ adalk | 7,358
 adaderanalk | 9,738
 tamilmirrorlk | 11,323
 virakesarilk | 12,351
-adaderanasinhalalk | 13,218
+adaderanasinhalalk | 13,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,135 (92.6%) of 75,779 articles have been extended.
+70,117 (92.5%) of 75,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### ශ්‍රී ලංකාවට ලකුණු 140ක ඉලක්කයක්
-
-*2025-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214538) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැත්වෙන තරගයේ දී පළමුව පන්දුවට පහර දුන් බංග්ලාදේශ කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 139ක් රැස් කර ගැනීමට සමත් විය.
-
-තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක පළමුව පන්දුවට පහර දීම සඳහා බංග්ලාදේශ කණ්ඩායමට ආරාධනා කළේය.
-
-එහිදී බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් Shamim Hossain ලකුණු 42ක් රැස් කළ අතර Jaker Ali ලකුණු 41ක් හා Litton Das ලකුණු 28ක් රැස් කිරීමට සමත් විය.
-
-කණ්ඩායමේ අනෙක් කිසිඳු ක්‍රීඩකයෙක් ලකුණු 10 සීමාවවත් ඉක්මවා යාමට සමත් වූයේ නැත.
-
-පන්දු යැවීමේ දී ශ්‍රී ලංකාව වෙනුවෙන් වනිඳු හසරංග කඩුලු 2ක් දවා ගත් අතර නුවන් තුෂාර සහ දුෂ්මන්ත චමීර එක් කඩුල්ල බැගින් දවා ගැනීමට සමත් විය.
-
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 140ක ඉලක්කයක් හඹා යාමට නියමිතය.
-
-◼️
-
-[Data](articles/c558a898.json)
-
----
-
-### Indian national arrested with rash drugs worth Rs. 85 million
+### රුපියල් මිලියන 85ක් වටිනා කුෂ් මත්ද්‍රව්‍ය සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
 
 *2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
 
-An Indian national has been arrested by an Indian national who tried to carry 8.542 kilograms of crusts worth Rs. 85 million.
+රුපියල් මිලියන 85ක් වටිනා කුෂ් කිලෝග්‍රෑම් 8.542ක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ  ඉන්දියානු ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
 
-The suspect was arrested by the officials of the Narcotics Bureau at Bandaranaike International Airport.
+සැකකරු බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් කටුනායකදී අත්අඩංගුවට ගෙන ඇත.
 
 ◼️
 
 [Data](articles/46260ef7.json)
-
-[Extended Data](ext_articles/46260ef7.ext.json)
 
 ---
 
@@ -82,23 +58,19 @@ The 33-year-old suspect, who had arrived from Thailand and was bound for India, 
 
 [Data](articles/8b36ef7d.json)
 
-[Extended Data](ext_articles/8b36ef7d.ext.json)
-
 ---
 
-### Belihur Oya fire in Nanpathal Estate Reserve
+### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
 
 *2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
 
-The fire is already spreading throughout the reserve.
+ගින්න මේ වන විටත් රක්ෂිතය පුරා පැතිර යමින් පවතින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
 
-It is reported that the fire is spreading in the forest due to dry weather and strong winds.
+ප්‍රදේශය පුරා පවතින වියළි කාලගුණය සහ තද සුළං හේතුවෙන් රක්ෂිතය පුරා ගින්න පැතිර යමින් පවතින බවද වාර්තා වේ.
 
 ◼️
 
 [Data](articles/4d52bcfe.json)
-
-[Extended Data](ext_articles/4d52bcfe.ext.json)
 
 ---
 
@@ -119,8 +91,6 @@ Earlier this month, the president said he was prepared to move towards a second 
 ...
 
 [Data](articles/ee045e10.json)
-
-[Extended Data](ext_articles/ee045e10.ext.json)
 
 ---
 
@@ -2125,5 +2095,27 @@ Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Arumu
 [Data](articles/19301153.json)
 
 [Extended Data](ext_articles/19301153.ext.json)
+
+---
+
+### Flooding in Japan's Tokyo
+
+*2025-09-13 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224959) · `ta`
+
+Many areas have been affected by flooding due to heavy rains in Tokyo, the capital of Japan. Strong winds with continuous rain have severely affected the daily lives of the people.
+
+Foreign media reports that one person died and another was severely injured when the containers stacked in the port collapsed due to strong winds.
+
+Also, transport services have been disrupted by rain. Travelers have been in trouble as many train services have been suspended in the domestic and suburbs of Tokyo. According to reports, about one million people have been directly affected.
+
+In this case, the Japanese Meteorological Department has issued a warning and announced that there is a risk of more than 100 millimeters of rain in some parts of Tokyo over the next few days.. Officials have urged the public to avoid unnecessary transfers and to adopt security precautions.
+
+However, reports say that rescue and relief measures have been challenged in the affected areas due to the continuous rains.
+
+◼️
+
+[Data](articles/e3f71292.json)
+
+[Extended Data](ext_articles/e3f71292.ext.json)
 
 ---

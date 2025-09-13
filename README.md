@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 10:20:13**
+As of **2025-09-13 10:07:31**
 
 ## Newspaper Stats
 
-*Scraped **75,699** Articles*
+*Scraped **75,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,349
 adaderanalk | 9,725
-tamilmirrorlk | 11,313
+tamilmirrorlk | 11,311
 virakesarilk | 12,335
 adaderanasinhalalk | 13,192
 
@@ -26,57 +26,23 @@ adaderanasinhalalk | 13,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,482 (91.8%) of 75,699 articles have been extended.
+69,477 (91.8%) of 75,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### மரத்தின மீது மோதி பஸ் விபத்து
-
-*2025-09-13 10:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தின-மீது-மோதி-பஸ்-விபத்து/175-364494) · `ta`
-
-மொரட்டுவை - ராவதாவத்தை பகுதியில் சனிக்கிழமை (13) காலை பஸ் ஒன்று விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பஸ்ஸானது மரமொன்றின் மீது மோதி பின்னர் வீதியின் இடது பக்கமாக திரும்பி முன்னால் இருந்த இரும்பு கம்பியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
-
-இந்த விபத்தில் யாருக்கும் பெரிதளவில் காயங்கள் ஏற்படாத நிலையில், மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர். . R
-
-◼️
-
-[Data](articles/31b353e9.json)
-
----
-
-### பெக்கோ சமனின் சகா துப்பாக்கியுடன் கைது
-
-*2025-09-13 09:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெக்கோ-சமனின்-சகா-துப்பாக்கியுடன்-கைது/175-364493) · `ta`
-
-கைது செய்யப்பட்டு தடுத்து வைத்து விசாரிக்கப்பட்டு வரும் ஒழுங்கமைக்கப்பட்ட குற்றவாளியான பெக்கோ சமனின் நெருங்கிய சகா ஒருவர் எம்பிலிபிட்டிய பகுதியில் துப்பாக்கியுடன் கைது செய்யப்பட்டுள்ளார்.
-
-எம்பிலிபிட்டியவின் கங்கேயாய பகுதியில் குறித்த சந்தேகநபர், T-81 ரக துப்பாக்கி, 97 தோட்டாக்கள், 2 மெகசின்கள் மற்றும் ஒரு இராணுவ சீருடை ஆகியவற்றுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-மேல் மாகாண வடக்கு குற்றவியல் பிரிவு அதிகாரிகள் நடத்திய விசாரணைகளின் போது தெரியவந்த தகவல்களின் அடிப்படையில் சந்தேகநபர் கைது செய்யப்பட்டார். R
-
-◼️
-
-[Data](articles/9cf7a98a.json)
-
----
-
-### A politician and businessman arrested with two illegal jeeps
+### නීතිවිරෝධී ජීප් රථ 2ක් සමග දේශපාලනඥයෙක් සහ ව්‍යාපාරිකයෙක් අත්අඩංගුවට
 
 *2025-09-13 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214511) · `si`
 
-Police have arrested the former chairman of the Wattegama Urban Council and two of his close association with two jeeps.
+වත්තේගම නගර සභාවේ හිටපු සභාපති සහ ඔහුගේ සමීපතමයෙකු නීතිවිරෝධීව ආනයනය කළ ජීප් රථ 2ක් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-Police said that the 58-year-old former Chairman and 38-year-old businessman named Ravindra Kumara were arrested.
+පොලීසිය සඳහන් කළේ රවින්ද්‍ර කුමාර නම් 58 හැවිරිදි හිටපු සභාපතිවරයා සහ ලක්ෂිත මනෝජ් නමැති 38 හැවිරිදි ව්‍යාපාරිකයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බවය.
 
 ◼️
 
 [Data](articles/5186931d.json)
-
-[Extended Data](ext_articles/5186931d.ext.json)
 
 ---
 
@@ -2029,5 +1995,45 @@ Norwood police said that over the three-wheeler were driven by over the three-wh
 [Data](articles/55a3aa44.json)
 
 [Extended Data](ext_articles/55a3aa44.ext.json)
+
+---
+
+### Apart of Katunayake Air Force
+
+*2025-09-12 16:13:56* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ගුවනින්-ආපු-සර්පයෝ/11-418455) · `si`
+
+The Katunayaka passenger woman who has been taken to the "Green Mawatha" (GREEN PAINNELL), the Katunayaka Mawatha, which is not told by the "Green Channel '(GREEN AIRMA) has been sent to the" Green Channel ". Arrested on intelligence information.
+
+She is a 40 year old businessman residing in Keselwatta, Colombo. She had arrived at Thailand in Thailand and arrived at Chennai in Thailand and arrived at the Katunayake Airport on N.- 1173.
+
+The woman brought mettic in two baggage she had brought. Happened.
+
+When she became a large bodied snakes, they would be impossible to release them to forest areas, as they were to sell these snakes, as they were to keep their homes in their homes.
+
+In a plane, such living animals have been illegally and dangerous to the Customs Premise, customs officially ordered to take back these snakes after Customs Investigations.
+
+...
+
+[Data](articles/df2b6032.json)
+
+[Extended Data](ext_articles/df2b6032.ext.json)
+
+---
+
+### Indictments served on Ramith Rambukwella
+
+*2025-09-12 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112438/indictments-served-on-ramith-rambukwella) · `en`
+
+The Bribery Commission has filed indictments before the Colombo High Court against Ramith Rambukwella, son of former Minister Keheliya Rambukwella, for failing to disclose the source of allegedly illegally acquired assets valued at over Rs. 270 million.
+
+The case, filed under the Anti-Corruption Act, charges the accused—who also served as the private secretary to former Minister Keheliya Rambukwella—with failing to disclose how he acquired cash and properties amounting to Rs. 275,302,616.06 out of the assets and properties amounting to Rs. 296,566,444.76 acquired by him between January 1, 2022, and November 14, 2023.
+
+According to the charge sheet, the assets allegedly acquired illegally include two residences at a luxury apartment complex on Dharmapala Mawatha, Colombo 07, valued at Rs. 80 million and Rs. 65 million respectively, four bank accounts under the defendant’s name, four bank accounts belonging to his wife, and a Land Rover Discovery valued at over Rs. 18 million.
+
+◼️
+
+[Data](articles/820402ec.json)
+
+[Extended Data](ext_articles/820402ec.ext.json)
 
 ---

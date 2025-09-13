@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 12:20:37**
+As of **2025-09-13 12:10:09**
 
 ## Newspaper Stats
 
-*Scraped **75,718** Articles*
+*Scraped **75,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,17 @@ adalk | 7,351
 adaderanalk | 9,729
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,196
+adaderanasinhalalk | 13,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,577 (91.9%) of 75,718 articles have been extended.
+69,577 (91.9%) of 75,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### ආසියානු කුසලානයේ ශ්‍රී ලංකාව සහභාගී වන පළමු තරගය අද
-
-*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම පළමු තරග අද (13) බංග්ලාදේශ කණ්ඩායම එරෙහිව පැවැත්වෙයි.
-
-B කණ්ඩයේ තරගයක් ලෙස මෙම තරගය අබුඩාබිහිදී මෙරට වේලාවෙන් පස්වරු 8.00ට ආරම්භ වීමට නියමිතය.
-
-ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය චරිත් හසලංක විසින් දරනු ලබන අතර  බංග්ලාදේශ කණ්ඩායමේ නායකත්වය දරනු ලබන්නේ ලින්ටන් දාස් විසින්ය.
-
-ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම එක්සත් අරාබි එමීර් රාජ්‍යයේදී  විස්සයි20 තරගයකදී මෙලස මුණගැසෙන්නේ තෙවන වතාවටය.
-
-මීට පෙර පැවැති තරග දෙකම ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
-
-මෙම තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගි වන පළමු තරගය මෙය වන අතර  බංග්ලාදේශ කණ්ඩායම හොංකොං සමග පැවති තරගය කඩුලු 7කින් ජය ගැනීමට සමත් විය.
-
-◼️
-
-[Data](articles/ce1740f4.json)
-
----
 
 ### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
 
@@ -2041,5 +2019,27 @@ Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Watt
 [Data](articles/186f6675.json)
 
 [Extended Data](ext_articles/186f6675.ext.json)
+
+---
+
+### State Revenue Nearly 15 percent of GDP
+
+*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
+
+The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
+
+According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
+
+He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
+
+Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
+
+He pointed out that state spending management is focused on an optimum level but the cost of Rs.
+
+...
+
+[Data](articles/2ca1581d.json)
+
+[Extended Data](ext_articles/2ca1581d.ext.json)
 
 ---

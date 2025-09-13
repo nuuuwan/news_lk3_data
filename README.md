@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 19:53:24**
+As of **2025-09-13 20:53:42**
 
 ## Newspaper Stats
 
-*Scraped **75,767** Articles*
+*Scraped **75,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,107 @@ economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,357
+adalk | 7,358
 adaderanalk | 9,735
-tamilmirrorlk | 11,320
-virakesarilk | 12,350
+tamilmirrorlk | 11,322
+virakesarilk | 12,351
 adaderanasinhalalk | 13,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,022 (92.4%) of 75,767 articles have been extended.
+70,067 (92.5%) of 75,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### திடீரென பற்றி எரிந்த முச்சக்கரவண்டி
+
+*2025-09-13 20:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திடீரென-பற்றி-எரிந்த-முச்சக்கரவண்டி/76-364506) · `ta`
+
+நாவலப்பிட்டி - தெகிந்த வீதியில் இன்று (13) அதிகாலை முச்சக்கரவண்டி ஒன்று திடீரென தீப்பிடித்து எரிந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+தெகிந்த பகுதியில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு மீண்டும் திரும்புகையில் இவ்விபத்து ஏற்பட்டதாகவும், இதில் யாருக்கும் காயம் ஏற்படவில்லை என்றும் நாவலப்பிட்டி பொலிஸார் மேலும் தெரிவித்தனர்.
+
+முச்சக்கரவண்டியில் ஏற்பட்ட எரிபொருள் கசிவே தீ விபத்துக்கான காரணம் என  பொலிஸார் குறிப்பிட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/d9d63492.json)
+
+---
+
+### அறுவை சிகிச்சையின் இடைநடுவே தாதியுடன் வைத்தியர் உடலுறவு
+
+*2025-09-13 20:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/அறுவை-சிகிச்சையின்-இடைநடுவே-தாதியுடன்-வைத்தியர்-உடலுறவு/53-364505) · `ta`
+
+மயக்க மருந்து செலுத்தப்பட்ட நோயாளியை அறுவை சிகிச்சையின் இடைநடுவே விட்டுவிட்டு தாதியுடன் பாலியல் உறவில் வைத்தியர் ஒருவர் ஈடுபட்ட சம்பவம் ஒன்று இங்கிலாந்தில் இடம்பெற்றுள்ளது.
+
+இதனையடுத்து குறித்த வைத்தியர் இங்கிலாந்தில் இருந்து அவரது சொந்த நாடான பாகிஸ்தானுக்கு சென்றுள்ளார்.
+
+எனினும் மீண்டும் இங்கிலாந்தில் பணிபுரிய அனுமதி கோரிய நிலையில் குறித்த சம்பவம் தொடர்பில் மருத்துவ பயிற்சியாளர்கள் தீர்ப்பாயத்தில் விசாரணை நடத்தப்பட்டுள்ளது.
+
+மேலும் அவர் கூறுகையில், சுமார் 8 நிமிடங்கள் அறுவை சிகிச்சையை இடைநிறுத்தியதாகக் குறிப்பிட்டார்.
+
+இதேவேளைக் குறித்த செயலில் ஈடுபட்டமை தவறானது எனவும் அதற்காகத் தான் வெட்கப்படுவதாகவும் தீர்ப்பாயத்தில் வைத்தியர் கூறினார்.
+
+2023 ஆம் ஆண்டு ஜனவரியில் தனது குழந்தை பிறந்ததையடுத்து ஏற்பட்ட மன அழுத்தமே இவ்வாறான செயலில் ஈடுபட வழிவகுத்ததாக அவர் தெரிவித்தார்.
+
+இந்நிலையில் குறித்த சம்பவம் தொடர்பிலான வழக்கு தொடரப்பட்டு வருவதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+...
+
+[Data](articles/9d0806e1.json)
+
+---
+
+### Sri Lanka to benefit the coin
 
 *2025-09-13 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214534) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනා ගැනීමට  ශ්‍රී ලංකා කණ්ඩායම සමත් වුණා.
+Sri Lanka won the toss and win the coin between Sri Lanka and Bangladesh in the Asia Cup T20 cricket tournament today (13).
 
-'B' කණ්ඩයේ තරගයක් ලෙසින් අබුඩාබිහිදී පැවැත්වෙන මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු තරගය ද මෙය වේ.
+Accordingly, the Sri Lankan team first invited Bangladesh to bat.
 
-ශ්‍රී ලංකාව හා බංග්ලාදේශ එක්සත් අරාබි එමීර් රාජ්‍යයේ දී විස්සයි20 තරගයකදී මුණගැසෙන තෙවන අවස්ථාව ද මෙයයි.
+This is the first match of the Sri Lankan team in Abuvenabiu as a 'B' match.
 
-පෙර පැවැති තරග දෙක සාජා හා ඩුබායි හිදී පැවති අතර, එම තරග දෙකම ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව ඇත.
+This is also the third time in Sri Lanka and Bangladesh United Arabian Emirates.
 
-ඒ අනුව ඔවුනොවුන් අබුඩාබි හිදී විස්සයි20 ක්‍රිකට් තරගයකදී මුහුණට මුහුණ හමුවන පළමු අවස්ථාව ද මෙය වේ.
+Sri Lanka team has won both matches in Sharjah and Dubai.
 
-මෙම තරගාවලිය යටතේ බංග්ලාදේශය ක්‍රීඩාකළ පළමු තරගයෙන් හොංකොං කණ්ඩායම කඩුලු 7කින් පරාජය කිරීමට සමත් වූ අතර, ඒ සමග ඔවුන් 'B' කණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ දෙවන ස්ථානයේ රැඳී සිටී.
+This is the first time in Abu Dhabi, a Twenty20 cricket match.
 
-ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය චරිත් හසලංක විසින්ද, බංග්ලාදේශ නායකත්වය ලින්ටන් දාස් විසින් ද දරන ලබයි.
+Hong Kong defeated the Hong Kong by 7 wickets in the first match of Bangladesh in this tournament.
+
+Charith Belivery, the captaincy of the Sri Lankan team, bear the Bangladesh leadership by Linton HS.
 
 ◼️
 
 [Data](articles/ea13e063.json)
 
+[Extended Data](ext_articles/ea13e063.ext.json)
+
 ---
 
-### மியன்மாரில் மேலும் 13 இலங்கையர்கள் தடுத்து வைப்பு
+### 13 more Sri Lankans detained in Myanmar
 
 *2025-09-13 19:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-மேலும்-13-இலங்கையர்கள்-தடுத்து-வைப்பு/175-364504) · `ta`
 
-மியன்மாரின் சைபர் கிரைம் மோசடி முகாம்களில் மேலும் 13 இலங்கையர்கள் தடுத்து வைக்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Foreign Ministry has said that 13 more Sri Lankans have been detained in Myanmar's cybercrime scam camps.
 
-மியன்மாரில் மியாவாடி பகுதியில் உள்ள இந்த சைபர் கிரைம் மோசடி முகாம்கள் தீவிரவாதிகளால் இயங்கி வருகின்றன.
+These cybercrime scam camps in Miyawadi area in Myanmar are operating by extremists.
 
-சுற்றுலா விசாவில் மியன்மாருக்க சென்ற இலங்கையர்களே இவ்வாறு சைபர் கிரைம் மோசடி முகாம்களில் தடுத்து வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+It is reported that Sri Lankans who went to Myanmaru on a tourist visa have been detained in cybercrime scam camps.
 
-இவர்களை மீண்டும் அழைத்துவர நடவடிக்கை எடுக்கப்பட்டு வருவதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+The Ministry of External Affairs has said that steps are being taken to bring them back. Remble
 
 ◼️
 
 [Data](articles/ee9f8efd.json)
+
+[Extended Data](ext_articles/ee9f8efd.ext.json)
 
 ---
 
@@ -99,6 +145,22 @@ Investigations have also been found in the possession of the Ice narcotics at th
 [Data](articles/ba397e41.json)
 
 [Extended Data](ext_articles/ba397e41.ext.json)
+
+---
+
+### රත්කිඳ ජලාශයේ වාන් දොරටු තුනක් විවෘත කරයි
+
+*2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
+
+උල්හිටිය රත්කිද ජලාශයේ වාන් ගේට්ටු තුනක් අද (13) පස්වරුවේ විවෘත කල බව මාපාකඩ කාර්යභාර ඉංජිනේරු තිස්ස රාජරත්න මහතා පවසයි .
+
+උල්හිටිය රත්කිද ජලාශයේ එක් වාන් ගේට්ටුවක් 0.3 මීටර් බැගින් ද, අනෙක් වාන් ගේට්ටු දෙක 0.2 මීටර් බැගින් ද විවෘත කර තිබෙන බවත් හෙතෙම කීය . මේනිසාවෙන් ජනතාවට අවධානයෙන් සිටින ලෙසට දැනුම් දෙයි .
+
+2025 යල කන්නයට මහවැලි සී කලාපය සදහා අවශ්‍ය වාරි ජලය නිකුත් කිරිම අවසන් වී ඇති බවත් ජලාශයේ අත්‍යාවශ්‍ය හදිසි නඩත්තු කටයුත්තක් සදානා ජලමට්ටම අඩු කර ගැනීම නිසාවෙන් මෙසේ වාන් ගේට්ටු විවෘත කල බව ත්, මින් ගිරාදුරුකෝට්ට රත්කිද මාර්ගයයේ  කෝසුව භාවිතා කිරිමට බාධාවක් නොවන බවද එහි කාර්යභාර නිළධාරි දීප්ත ජයසේකර මහතා සදහන් කලේය .
+
+◼️
+
+[Data](articles/16756fa8.json)
 
 ---
 
@@ -923,6 +985,22 @@ There are four bank accounts named Ramith and four bank accounts, including his 
 [Data](articles/36ca14eb.json)
 
 [Extended Data](ext_articles/36ca14eb.ext.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர்களுக்கான ஓய்வூதியத்தை நீக்குவதற்கான சட்டம் விரைவில் நிறைவேற்றப்படும் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
+
+*2025-09-13 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224980) · `ta`
+
+ஜனாதிபதிகளுக்குரிய சிறப்புரிமைகளை நீக்குவதற்கான சட்டம் நிறைவேற்றப்பட்டுள்ளது. அதேபோன்று பாராளுமன்ற உறுப்பினர்களுக்கான ஓய்வூதியத்தை நீக்குவதற்கான சட்ட வரைவு தயாரிக்கப்படுகிறது. யார் எதிர்ப்பு தெரிவித்தாலும் விரைவில் அதற்கான சட்டம் நிறைவேற்றப்படும் என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+பலப்பிட்டிய பிரதேசத்தில் தபாலகமொன்றை நிர்மாணிப்பதற்கான அடிக்கல் நாட்டும் நிகழ்வில் கலந்துகொண்டு உரையாற்றிய போதே அமைச்சர் இதனைத் தெரிவித்தார். நிகழ்வில் தொடர்ந்தும் உரையாற்றிய அவர்,
+
+பொருளாதாரத்தை ஸ்திரப்படுத்துவதற்கான கொள்கைகள் தயாரிக்கப்பட்டு வருகின்றன. அதற்கமைய, தேசிய வரி வருமான திணைக்களம், மதுவரி திணைக்களம், சுங்க திணைக்களம் உள்ளிட்டவை தமக்கான இலக்கிற்கு அப்பால் இலாபமீட்டியுள்ளன. மறுபுறம் அநாவசிய செலவுகளை குறைத்திருக்கின்றோம். இவற்றின் ஊடாக வரவு – செலவு திட்டத்தின் இடைவெளியை படிப்படியாக சமநிலைப்படுத்த முயற்சிக்கின்றோம்.
+
+...
+
+[Data](articles/7372def3.json)
 
 ---
 
@@ -2035,85 +2113,5 @@ In the Navakiri area, a motor room, motor and electric connection in the garden 
 [Data](articles/423eb149.json)
 
 [Extended Data](ext_articles/423eb149.ext.json)
-
----
-
-### Vaidyipa girl dies in a well in Jaffna
-
-*2025-09-13 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224953) · `ta`
-
-An elderly woman in Jaffna dies after falling into a well on Friday (12). The deceased is Ramamurthy Seethalakshmi from Tholpuram East and Chiripuram.
-
-Sudden Death Investigation Officer A. Jayapalasingham. The witnesses were regulated by the Vaddukoddai police.
-
-◼️
-
-[Data](articles/f22fa98b.json)
-
-[Extended Data](ext_articles/f22fa98b.ext.json)
-
----
-
-### Pakistan beat Oman by 93 runs
-
-*2025-09-13 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224952) · `ta`
-
-Pakistan won the match between Pakistan and Oman on Friday, the 4th match of the 2025 Asia Cup.
-
-The Pakistan team won the match in Dubai on Friday (12) and won 160 runs for the loss of 07 wickets in 20 overs.
-
-Mohammed Harris scored 66 off 43 balls, Sahibsada Farhan 29 runs, Fucker Zaman scored 23 unbeaten, Hasan Nawaz scored 9 runs and Mohammed Nawaz scored 19 runs for Pakistan.
-
-Oman's team took three wickets each and Mohammed Nadeem took one wicket each.
-
-Oman were bowled out for 67 in 16.4 overs.
-
-Aamir Kaleem scored 13 runs, captain Jatinar Singh, Sufyan Mehmood and Shah Faisal scored one runs, Hammad Mirza scored 27 runs, Mohammed Nadeem scored 3 runs and Vinayak Shukla scored 2 runs.
-
-Saim Ayub, Sufiyan Mukim and Fahim Ashraf took 2 wickets each while Mohammed Nawaz, Abar Ahmed and Shaheen Shah Afridi took one wicket each.
-
-◼️
-
-[Data](articles/54e8e906.json)
-
-[Extended Data](ext_articles/54e8e906.ext.json)
-
----
-
-### President asks Provincial and Central Government to work in unison
-
-*2025-09-13 00:42:30* · [`dailyftlk`](https://www.ft.lk/news/President-asks-Provincial-and-Central-Government-to-work-in-unison/56-781637) · `en`
-
-AKD meets Provincial Governors, Chief Ministers ahead of 2026 Budget
-
-President Anura Kumara Disanayake stressed the importance of close coordination and joint action between the central Government and Provincial institutions in the implementation of development projects, the President’s Media Division said.
-
-The President emphasised that the culture of using Provincial institutions merely as instruments for political authority to retain power has been brought to an end under the present Government, while also highlighting the need for the central Government and Provincial institutions to work in unison towards a national plan for the country’s development.
-
-...
-
-[Data](articles/0368f172.json)
-
-[Extended Data](ext_articles/0368f172.ext.json)
-
----
-
-### No more special offices for foreign funded development projects
-
-*2025-09-13 00:41:51* · [`dailyftlk`](https://www.ft.lk/news/No-more-special-offices-for-foreign-funded-development-projects/56-781636) · `en`
-
-President Anura Kumara Disanayake has given instructions to discontinue the practice of establishing special offices for foreign-funded development projects, the President’s Media Division said.
-
-Meeting with Provincial Governors and Chief Ministers ahead of the 2026 Budget, the President instructed Provincial Governors and Secretaries that projects funded through foreign loans and aid should not be carried out through special project offices that require large administrative expenditures.
-
-Instead, they should be implemented within the existing administrative structure, completed within the stipulated timeframes and the benefits delivered directly to the people, the PMD said.
-
-Discussions focused on challenges in education, health and highways, along with possible solutions and proposals.
-
-◼️
-
-[Data](articles/4b560ba5.json)
-
-[Extended Data](ext_articles/4b560ba5.ext.json)
 
 ---

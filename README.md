@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 15:19:58**
+As of **2025-09-13 14:54:29**
 
 ## Newspaper Stats
 
-*Scraped **75,740** Articles*
+*Scraped **75,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,109 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,354
 adaderanalk | 9,732
-tamilmirrorlk | 11,316
-virakesarilk | 12,347
-adaderanasinhalalk | 13,203
+tamilmirrorlk | 11,315
+virakesarilk | 12,341
+adaderanasinhalalk | 13,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,709 (92.0%) of 75,740 articles have been extended.
+69,684 (92.0%) of 75,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### නේපාලයේ ඇඳිරි නීතිය ඉවත් කෙරේ
-
-*2025-09-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214523) · `si`
-
-නේපාලයේ පැවති විරෝධතා හේතුවෙන් දින 5ක කාලයක් පුරා ක්‍රියාත්මකව තිබූ ඇඳිරි නීතිය අද (13) උදෑසන සිට ඉවත්කිරීමට පියවර ගත් බව එරට හමුදා ප්‍රකාශකවරයා පවසා ඇත.
-
-ඒ අනුව අද දිනයේ කත්මන්ඩු අගනුවර ඇතුළු ප්‍රදේශවල වෙළඳසැල්, සාප්පු සංකීර්ණ යනාදිය විවෘත කර ඇති අතර, දෛනික ජන ජීවිතය ක්‍රමයෙන් යථා තත්ත්වයට පත්වෙමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-නේපාල අග්‍රමාත්‍ය ධුරය සඳහා එරට හිටපු අගවිනිසුරුවරියක වන සුශිලා කාර්කි ඊයේ (12) පත්වීම රට මෙලෙස යථා තත්ත්වවයට පත්වීමට හේතු වී ඇත.
-
-සමාජ මාධ්‍ය සඳහා සීමා පැනවීමට නේපාල රජය ගත් ක්‍රියාමාර්ගයට එරෙහිව එරට පුරා දැවැන්ත විරෝධතා ක්‍රියාත්මක විය.
-
-එය පාලනය කිරීමට ඇඳිරි නීතිය පැනවීය. කෙසේ නමුත් විරෝධතා අතරතුර පුද්ගලයින් 51දෙනෙකු මියගොස් තිබුණි.
-
-◼️
-
-[Data](articles/8c6d75a9.json)
-
----
-
-### பஸ்களில் அலங்கார பொருட்களுக்கு தடை
-
-*2025-09-13 14:52:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-அலங்கார-பொருட்களுக்கு-தடை/175-364500) · `ta`
-
-2023ஆம் ஆண்டு ஜூன் 02ஆம் திகதின்று பயணிகள் பஸ்களில் அலங்கார பொருட்களை பொருத்துவதற்கு அனுமதித்து, மோட்டார் வாகன போக்குவரத்து திணைக்களத்தினால் சுற்றறிக்கை ஒன்று வெளியிடப்பட்டிருந்தது.
-
-ஆனால் குறித்த சுற்றறிக்கை 2025ஆம் ஆண்டு செப்டம்பர் 09ஆம் திகதியுடன் இரத்து செய்யப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/bb597868.json)
-
----
-
-### කාන්තාවක් නිදියහනේදීම අබිරහස් ලෙස මරුට
-
-*2025-09-13 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214522) · `si`
-
-දඹුල්ල තිත්තවැල්ගොල්ල ප්‍රදේශයේ කාන්තාවක් සිය නිවස තුළදී අබිරහස් ලෙස මිය ගොස් තිබේ.
-
-අදාළ කාන්තාව නිදි යහනේදීම හදිසියේ මිය ගොස් සිටි බවට දඹුල්ල පොලිසියට ලද පැමිණිල්ලකට අනුව දඹුල්ල පොලිසිය විසින් විමර්ශනක් ආරම්භ කර ඇත.
-
-මියගිය කාන්තාව ගලේවෙල කලාප අධ්‍යාපන කාර්යාලයේ කළමනාකරණ සේවා නිලධාරිනියක් වන අතර ඇය සිය සැමියා සහ වයස අවුරුදු පහක් වූ කුඩා පිරිමි දරුවා සමග නිවසේ වාසය කර ඇත.
-
-සිද්ධිය සම්බන්ධයෙන් පොලීසිය විසින් සැමියාගෙන් සිදු කළ ප්‍රශ්න කිරීමවලදී අනාවරණය වී ඇත්තේ ඇය විභාගයකට සූදානම් වෙන නිසා පස්වරු  4.00ට පමණ නිදා ගැනීමට ගිය බවත් පසුව රාත්‍රියේ ඇය අවදිකිරීමට යන අවස්ථාවේදී කතා නොකිරීම නිසා ප්‍රදේශවාසීන්ට දැනුම් දී ගිලන් රථය ගෙන්වා රෝහල්ගත කිරීමට සූදානම් වූ බවත් ය.
-
-කෙසේ වෙතත් ගිලන් රථය පැමිණ ඇයව රෝහල්ගත කිරීමට යාමේදී ඇය මියගොස් ඇති බවට අනාවරණය වූ පසුව පොලිසියට ඒ බව දන්වා සිටි බව ඔහු වැඩිදුරටත් පවසා ඇත.
-
-...
-
-[Data](articles/19934385.json)
-
----
-
-### කොළඹ - ගාල්ල ප්‍රධාන මාර්ගයේ යන රියදුරන්ට දැනුම්දීමක්
-
-*2025-09-13 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214521) · `si`
-
-වාද්දුව තල්පිටිය ශ්‍රී දළදාවත්ත පුරාණ විහාරස්ථානයේ වාර්ෂික දළඳා පෙරහැර හේතුවෙන් රථවාහන ගමනා ගමනය සීමා කිරීම සම්බන්ධයෙන් පොලීසියෙන් දැනුම්දීමක් සිදුකර තිබේ.
-
-මෙම පෙරහර අලි ඇතුන් ඇතුළු නර්තන කණ්ඩායම්වලින් සමන්විත අංග 100 කට ආසන්න ප්‍රමාණයක් පෙළගස්වා ඇති අතර පෙරහැර නැරඹීම සඳහා විශාල බැතිමතුන් පිරිසකගේ පැමිණීම අපේක්ෂා කරනු ලබන බව පොලීසිය පවසයි.
-
-එබැවින්, මෙම පෙරහැර අද (13) රාත්‍රී 07.00 සිට හෙට (14) අලුයම 01.00 දක්වා වීථී සංචාරය කරන කාලය තුළ වාද්දුව පොලිස් වසමේ කොළඹ - ගාල්ල ප්‍රධාන මාර්ගයේ දැඩි රථවාහන තදබදයක් ඇති විය හැකි බැවින් පහත විකල්ප මාර්ග භාවිතා කරන ලෙස පොලීසිය රථවාහන රියදුරන්ගෙන් හා මහජනතාවගෙන් ඉල්ලා සිටී.
-
-පානදුර ඔරලෝසු කණුව අසළින් හොරණ පාරේ අළුබෝමුල්ල හරහා බණ්ඩාරගමට ගොස් බණ්ඩාරගම හන්දියෙන් ඇති දකුණට මොරොන්තුඩුව මාර්ගයේ ගොස් වාඩිය මංකඩ හන්දියෙන් වමට හැරී කළුතර හරහා ගාල්ල දෙසට ගමන් කළ හැකිය.
-
-...
-
-[Data](articles/83044d5f.json)
-
----
-
-### Sri Lanka expressed integrity with Qatar
-
-*2025-09-13 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224996) · `ta`
-
-Sri Lanka's Deputy Minister of Foreign Affairs Arun Hemachandra and Qatar's Foreign Minister Sultan bin Sadd bin Sultan al -Muqi telephoned on Saturday (13).
-
-Meanwhile, Sri Lanka's Deputy Minister of Foreign Affairs Arun Hemachandra expressed his concerns about the recent attacks on Qatar.
-
-According to Sri Lanka, the telephone conversation was held at 11:30 am on Saturday (13).
-
-◼️
-
-[Data](articles/1912184a.json)
-
-[Extended Data](ext_articles/1912184a.ext.json)
-
----
 
 ### Israeli - a new proposal for the Palestinian problem
 
@@ -164,38 +74,6 @@ Following the popular protests in Nepal on September 8, the former Prime Ministe
 
 ---
 
-### Twenty - 20 Cricket: Bill Salt!
-
-*2025-09-13 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224991) · `ta`
-
-In the second Twenty20 match in Manchester, England won the match by 146 runs in between England and South Africa.
-
-The England team has set a new record in the international twenty -20 history by scoring 304 runs for the loss of 2 wickets in 20 overs.
-
-Bill Salt scored 141 runs, including 8 sixes and 15 fours in 60 balls.
-
-With this, he holds the record for the fastest scorer for England in 20 cricket.
-
-Prior to this, Liam Livingston had scored 42 balls in England.
-
-The century of the match is the fourth century in the international twenty20 cricket for Bill Salt.
-
-With this, he shared the second place with Indian player Suryakumar Yadav.
-
-The two players have scored 4 centuries. Rohit Sharma and Glenn Maxwell are the first with 5 centuries each.
-
-In the meantime, Jose Butler, another opener in the England team, was bowled out for 83 off 30 balls, including 7 sixes and 8 fours.
-
-South Africa lost all wickets for 158 runs.
-
-◼️
-
-[Data](articles/d58bd790.json)
-
-[Extended Data](ext_articles/d58bd790.ext.json)
-
----
-
 ### Foreign investors buy Sri Lanka rupee bonds for third straight week
 
 *2025-09-13 14:00:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-third-straight-week-240445/) · `en`
@@ -220,46 +98,6 @@ Sri Lanka’s deflationary policies have helped to see inflows amid curtailed im
 
 ---
 
-### Prohibition on the fitting of decorative items on buses!
-
-*2025-09-13 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224992) · `ta`
-
-On June 2, 2023, a circular was released, allowing passengers to be fitted with decorative items on buses.
-
-But the circular was canceled on September 9, 2025.
-
-◼️
-
-[Data](articles/ee575bcb.json)
-
-[Extended Data](ext_articles/ee575bcb.ext.json)
-
----
-
-### President congratulates Nepal interim Prime Minister
-
-*2025-09-13 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224989) · `ta`
-
-President Anura Kumara Dissanayake congratulates Susila Karki, who has been appointed as the new Prime Minister of Nepal's interim government.
-
-President Anura Kumara Dissanayake further stated in his official X site.
-
-“I convey my heartfelt congratulations to Susiela Karki as the Prime Minister of Nepal. We fully believe that his leadership will lead Nepal to peace and democracy, ”the president posted.
-
-Following the popular protests in Nepal on September 8, the former Prime Minister of the country KP. Sharma Sound -led government collapsed. At least 51 people died in popular protests.
-
-Susila Karki, former Chief Justice of Napala, was sworn in as the interim prime minister at the Presidential Office on Friday night (September 12).
-
-With this appointment, she is the first woman to hold the post of Prime Minister in the history of Nepal.
-
-...
-
-[Data](articles/cdb3ff8b.json)
-
-[Extended Data](ext_articles/cdb3ff8b.ext.json)
-
----
-
 ### Circular allowing decorations and accessories on buses cancelled
 
 *2025-09-13 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112458/circular-allowing-decorations-and-accessories-on-buses-cancelled-) · `en`
@@ -275,28 +113,6 @@ Circular allowing decorations and accessories on buses cancelled  by  Adaderana 
 [Data](articles/9f7ffad7.json)
 
 [Extended Data](ext_articles/9f7ffad7.ext.json)
-
----
-
-### Death penalty for viewing or sharing foreign television series: The UN on North Korea. Report
-
-*2025-09-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224987) · `ta`
-
-In North Korea, viewing or sharing foreign television series, including South Korea, is considered a serious crime. The United Nations at the United Nations Human Rights Council on Friday (September 12). The Human Rights Commission has issued a report.
-
-The North Korean government is actively monitoring the daily activities of the people with the help of new technologies. As a result, the penalties are very tightening.
-
-The new laws that have come into effect since 2015 have increased the control of the government in every aspect of the lives of citizens.
-
-Human Rights Commissioner for North Korea, James Henan, said many North Koreans have already been executed for distributing foreign television series, including South Korea's popular 'K-Dramas'.
-
-The 14-page report has been prepared on the basis of interviews conducted by more than 300 people who have fled North Korea since 2014.
-
-...
-
-[Data](articles/def4a2f2.json)
-
-[Extended Data](ext_articles/def4a2f2.ext.json)
 
 ---
 
@@ -443,22 +259,6 @@ When the case came up for hearing in the presence of Matara Chief Magistrate Sat
 [Data](articles/18a6ffad.json)
 
 [Extended Data](ext_articles/18a6ffad.ext.json)
-
----
-
-### 3.45 மில்லியன் ரூபா பெறுமதியான வெளிநாட்டு சிகரட்டுகளுடன் வர்த்தகர் கட்டுநாயக்கவில் கைது!
-
-*2025-09-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224975) · `ta`
-
-A businessman with illegal cigarettes has been arrested at the Katunayake Bandaranaike International Airport this morning by the Airport Police Narcotics Unit.
-
-During the raid carried out by the suspect, 115 cigarettes, including 23 thousand foreign cigarettes, were seized from the passenger.
-
-◼️
-
-[Data](articles/1e9f4482.json)
-
-[Extended Data](ext_articles/1e9f4482.ext.json)
 
 ---
 
@@ -888,23 +688,19 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 
 ---
 
-### The Bribery Committee shall be approved by the Public Finance Committee
+### අල්ලස් කොමිෂමේ අයවැයට රජයේ මුදල් කාරක සභාවේ අනුමතිය
 
 *2025-09-13 08:15:32* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමේ-අයවැයට-රජයේ-මුදල්-කාරක-සභාවේ-අනුමතිය/11-418472) · `si`
 
-The Committee shall be approved for the government's finance estimate for the Bribery and Corruption Commission 2026.
+අල්ලස් හා දූෂණ විමර්ශන කොමිෂන් සභාවේ 2026 වර්ෂය සඳහා වූ අයවැය ඇස්තමේන්තුවට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමි විය.
 
-The approval was approved by the Committee on Government Finance when he met with Hon. Parliamentaries, Dr. Harsha de Silva.
+මේ සඳහා අනුමතිය හිමි වූයේ රජයේ මුදල් පිළිබඳ කාරක සභාව ගරු පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
 
-The Chairman of the Committee pointed out that the Central Bank of Sri Lanka has a financial independence to provide financial independence to the Bribery Investigation Commission more independently, as well as the Auditor General's Department. He added that these institutions can act more independently under any government outside the existing political authority.. As a result, the Committee decided to inform the Minister of Finance, Minister of Finance.
-
-The parliamentarian also pointed out that the prosecution of the Chairman, Director General of the Commission and the Members of the Committee should be corresponded to the Chairman of the Court of Appeal.
+මෙහිදී කාරක සභාවේ සභාපතිවරයා පෙන්වා දුන්නේ ශ්‍රී ලංකා මහ බැංකුවට මූල්‍යමය ස්වාධීනත්වයක් පවතින බවත් එම ආයතන මෙන් අල්ලස් හා දූෂණ විමර්ශන කොමිෂන් සභාවටත්, විගණකාධිපති දෙපාර්තමේන්තුවටත් වඩාත් ස්වාධීනව කටයුතු කිරීම සඳහා මූල්‍ය ස්වාධීනත්වයක් ලබාදීම වැදගත් බවයි. එමගින් පවතින දේශපාලන අධිකාරියෙන් බැහැරව ඕනෑම රජයක් යටතේ වඩාත් ස්වාධීනව කටයුතු කිරීමට එම ආයතන වලට හැකි බවද ඒ මහතා වැඩි දුරටත් පැවසීය. මේ නිසා මේ සම්බන්ධයෙන් මුදල් අමාත්‍යවරයා වන ජනාධිපතිවරයා දැනුවත් කිරීමට කාරක සභාව තීරණය කිරීමද මෙහිදී සිදු විය.
 
 ...
 
 [Data](articles/1a8b8856.json)
-
-[Extended Data](ext_articles/1a8b8856.ext.json)
 
 ---
 
@@ -2077,5 +1873,193 @@ Peaceive salary salaries ratios of the existing proceedings should be solved by 
 [Data](articles/a9cbd28b.json)
 
 [Extended Data](ext_articles/a9cbd28b.ext.json)
+
+---
+
+### Expenditure on retirement presidents and widows
+
+*2025-09-12 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214496) · `si`
+
+Until 2021 to 2025, a report on expenditure incurred for retired presidents and widow wives.
+
+Twenty-five million rupees, Rs.
+
+In 2022, twenty-four and fourteen eight hundred and fourteen eight hundred and nine eight hundred and fifty eight eight hundred and nine eight hundred eight hundred and nine eight hundred eight hundred and nineteen eight hundred and nineteenth had been spent on Rs.
+
+In 2023, they were either Rs.
+
+In 2024, President Mahinda Rajapaksa has cost Rs.
+
+The cost of Rs. Has been spent.
+
+...
+
+[Data](articles/9a52b6d2.json)
+
+[Extended Data](ext_articles/9a52b6d2.ext.json)
+
+---
+
+### The change in the next 36 hours
+
+*2025-09-12 19:51:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணி-நேரத்தில்-ஏற்படவுள்ள-மாற்றம்/175-364474) · `ta`
+
+The Department of Meteorology has forecast rainfall in the next 36 hours in the Western and Sabaragamuwa Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
+
+In the Eastern and Uva provinces, there will be rain or thundershowers after 1.00 pm, the Department of Weather forecasts said.
+
+The Department of Meteorology has advised the public to take necessary steps to reduce the dangers of heavy winds and lightning with thunderstorms.. Remble
+
+◼️
+
+[Data](articles/c5cb37a4.json)
+
+[Extended Data](ext_articles/c5cb37a4.ext.json)
+
+---
+
+### Ella - Wellawa accident: Increase in the number of casualties
+
+*2025-09-12 19:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-விபத்து-உயிரிழந்தோரின்-எண்ணிக்கை-அதிகரிப்பு/175-364473) · `ta`
+
+A female employee of the Tangalle City Council, who was injured in a bus accident last night on the Ella - Wellawaya main road, died today (12), hospital sources said.
+
+More than 18 people were killed in the bus accident and more than 18 were injured and admitted to the Badulla Teaching Hospital, Bandarawela and Diyathalawa hospitals.
+
+A female employee of the Tangalle Municipal Council, who was admitted to the Badulla Teaching Hospital, died today without treatment.
+
+Accordingly, the number of casualties in the bus accident on the night of September 04 on the Ella -Wellawaya main road increased to 16.. Remble
+
+◼️
+
+[Data](articles/770e8c9a.json)
+
+[Extended Data](ext_articles/770e8c9a.ext.json)
+
+---
+
+### Sri Lanka’s 10 Commonwealth Scholars embark on fully funded academic journey to the UK
+
+*2025-09-12 19:46:00* · [`islandlk`](http://island.lk/sri-lankas-10-commonwealth-scholars-embark-on-fully-funded-academic-journey-to-the-uk/) · `en`
+
+Ten outstanding Sri Lankan students have been awarded Commonwealth Scholarships to pursue their postgraduate studies in the UK this year, joining a distinguished global network of future leaders dedicated to driving positive national and global impact.
+
+Following a rigorous selection process that highlighted both academic excellence and a strong commitment to driving real change, a cohort of 10 scholars was selected from institutions across the country. The 2025 Commonwealth Scholars cohort includes nine Master’s scholars and, after a lapse of several years, one PhD scholar.
+
+A Pre-Departure Briefing held at the British Council Library in Colombo gathered scholarship awardees, alumni, and key officials from the British High Commission and British Council to honour the chosen scholars and also create a space for connection, mentoring, and collective pride in a shared legacy.
+
+...
+
+[Data](articles/6bb9f3ac.json)
+
+[Extended Data](ext_articles/6bb9f3ac.ext.json)
+
+---
+
+### NCC and FITIS signs MoU to empower Sri Lankan exporters for global reach
+
+*2025-09-12 19:45:00* · [`islandlk`](http://island.lk/ncc-and-fitis-signs-mou-to-empower-sri-lankan-exporters-for-global-reach/) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) has signed a Memorandum of Understanding (MoU) with the Federation of Information Technology Industry Sri Lanka (FITIS), marking a significant milestone in expanding opportunities for Sri Lankan exporters to access global markets.
+
+FITIS members will gain exclusive access to connect with international buyers and markets through www.fromsriLanka.com, a digital platform initiated by NCCSL.  At occasion of signing the agreement Dr. Dayan Rajapakse Chairman FITIS told “The collaboration aims to foster export growth, enhance competitiveness, and create new avenues for Sri Lankan small and medium-sized enterprises (SMEs), particularly in the ICT sector, to expand globally.
+
+He also told that “FITIS as the apex body representing Sri Lanka’s ICT industry, we are proud to collaborate with the National Chamber to support our members in reaching global audiences, unlocking new growth potential, and contributing to national economic development.”
+
+...
+
+[Data](articles/fe3bf27f.json)
+
+[Extended Data](ext_articles/fe3bf27f.ext.json)
+
+---
+
+### AI adoption and threat complexity fuelling increase in cybersecurity burnout in APAC and Japan: Sophos
+
+*2025-09-12 19:42:00* · [`islandlk`](http://island.lk/ai-adoption-and-threat-complexity-fuelling-increase-in-cybersecurity-burnout-in-apac-and-japan-sophos/) · `en`
+
+Shadow AI, resource shortages, and rising attack volumes put pressure security teams
+
+Sophos, a global leader in advanced security solutions, unveiled the 5th edition of its report The Future of Cybersecurity in Asia Pacific and Japan (APJ), produced in collaboration with Tech Research Asia (now part of Omdia). The findings reveal that cybersecurity burnout remains high across the region, with 86% of organisations surveyed experiencing issues (up from 85% in 2024) – primarily driven by increased threat activity, lack of resources, and complex compliance requirements.
+
+The 2025 report also highlights how AI is having a two-pronged effect on cybersecurity with AI-powered security tools helping to alleviate some of the issues associated with fatigue, while shadow AI use by employees is complicating cybersecurity efforts.
+
+...
+
+[Data](articles/2eb6be02.json)
+
+[Extended Data](ext_articles/2eb6be02.ext.json)
+
+---
+
+### Sampath Bank crowned as the Best Bank for ESG in Sri Lanka by Euromoney
+
+*2025-09-12 19:42:00* · [`islandlk`](http://island.lk/sampath-bank-crowned-as-the-best-bank-for-esg-in-sri-lanka-by-euromoney/) · `en`
+
+Sampath Bank has been recognised as Sri Lanka’s Best Bank for Environmental, Social, and Governance (ESG) at the Euromoney Awards for Excellence 2025. The award was ceremonially presented in Singapore, positioning Sampath Bank among a distinguished group of global and regional banking and financial institutions recognised for embedding sustainability into their core strategies and creating long term value for all stakeholders.
+
+...
+
+[Data](articles/73878a0c.json)
+
+[Extended Data](ext_articles/73878a0c.ext.json)
+
+---
+
+### Whatever we are building today, the foundation for security - US Ambassador Julie Sung
+
+*2025-09-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224947) · `ta`
+
+US Ambassador to Sri Lanka Julie Sung said that what we are building today is the foundation for our shared security tomorrow.
+
+The Pacific Angel 2025, which illustrates the US's determination to ensure excellence and partnership in the Indo-Pacific region.. While addressing the gathering, US Ambassador to Sri Lanka Julie Sung said the above.
+
+The US Embassy in Sri Lanka celebrated the success of the Pacific Angel 2025 training process with the Sri Lanka Air Force and the Ministry of Defense.
+
+US Ambassador Julie Sangh, Defense Secretary (Retired) Air Marshal Sampath Dihakonda and Sri Lanka Air Force Commander Air Marshal Vasal Vasal Vasal Vasinga joined the participants to celebrate the largest multinational training in Sri Lanka this year.
+
+The Pacific Angel 2025 training, which took place from 8th to 12th September, united shareholders to strengthen disasters and humanitarian cooperation.
+
+...
+
+[Data](articles/4b168a4b.json)
+
+[Extended Data](ext_articles/4b168a4b.ext.json)
+
+---
+
+### Indian delegation reviews Sri Lanka Northern fishery harbour project
+
+*2025-09-12 19:06:00* · [`economynextcom`](https://economynext.com/indian-delegation-reviews-sri-lanka-northern-fishery-harbour-project-240433/) · `en`
+
+ECONOMYNEXT – A four-member delegation from India’s Central Institute of Coastal Engineering for Fishery (CICEF) conducted preliminary studies for the proposed development of the Point Pedro fishery harbour in Sri Lanka’s Northern Province during a five-day visit, the Indian High Commission in Colombo said in a statement.
+
+The team, representing the Ministry of Fisheries, Animal Husbandry and Dairying of the Government of India, was in Sri Lanka from September 8 to 12, where it met key stakeholders and carried out site inspections.
+
+During their visit, the delegation held talks with Sri Lanka’s Minister of Fisheries, Aquatic and Ocean Resources, Ramalingam Chandrasekar, Northern Province Governor Nagalingam Vethanayahan, senior ministry officials, and the Chief Secretary of the province.
+
+The discussions focused on modalities of developing the harbour with Indian financial assistance.
+
+...
+
+[Data](articles/f264a770.json)
+
+[Extended Data](ext_articles/f264a770.ext.json)
+
+---
+
+### 86 killed in ancient boat
+
+*2025-09-12 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214495) · `si`
+
+Foreign media reports that at least 86 persons have died due to the accident.
+
+However, the cause of the accident is yet to be revealed.
+
+◼️
+
+[Data](articles/1d0fd3d6.json)
+
+[Extended Data](ext_articles/1d0fd3d6.ext.json)
 
 ---

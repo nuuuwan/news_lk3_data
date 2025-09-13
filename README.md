@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 14:37:22**
+As of **2025-09-13 13:56:15**
 
 ## Newspaper Stats
 
-*Scraped **75,729** Articles*
+*Scraped **75,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,103 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 768
-economynextcom | 4,592
+economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,353
-adaderanalk | 9,732
-tamilmirrorlk | 11,315
+adalk | 7,352
+adaderanalk | 9,729
+tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,200
+adaderanasinhalalk | 13,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,670 (92.0%) of 75,729 articles have been extended.
+69,656 (92.0%) of 75,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### ඊශ්‍රායල - පලස්තීන ගැටලුව සඳහා නව යෝජනාවක්
-
-*2025-09-13 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214520) · `si`
-
-ඊශ්‍රායල - පලස්තීන ගැටලුව සඳහා ද්වි-රාජ්‍යය පිළියමක් ඇතිකිරීම සඳහා වන යෝජනාවක් එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේදී ඊයේ සම්මත කෙරිණි.
-
-ඒ සඳහා රටවල් 142ක් පක්ෂව ද, රටවල් 10ක් විපක්ෂව ද ඡන්දය ලබාදුන් අතර, ඡන්දය දීමෙන් වැළකී සිටි රටවල් සංඛ්‍යාව 12කි.
-
-අමෙරිකාව සහ ඊශ්‍රායලය යෝජනාවට විපක්ෂව ඡන්දය දුන් රටවල් අතර වේ.
-
-සෞදි අරාබිය සහ ප්‍රංශයේ මැදිහත්වීමෙන් පසුගිය ජූලි මාසයේ පැවැති එක්සත් ජාතීන්ගේ අන්තර්ජාතික සම්මන්ත්‍රණයේ ප්‍රතිඵලයක් ලෙස පිටු හතකින් සමන්විත මෙම යෝජනාව ඊයේ සම්මත වී ඇත.
-
-සැප්තැම්බර් විසි දෙවැනිදා පැවැත්වෙන රාජ්‍ය නායක සමුළුව අතරතුර පලස්තීනය නීත්‍යානුකූල රාජ්‍යයක් ලෙස පිළිගැනීම සඳහා ප්‍රංශය, කැනඩාව, බ්‍රිතාන්‍ය සහ ඔස්ට්‍රේලියාව ඇතුළු රටවල් කිහිපයක් සූදානමින් සිටින පසුබිමක මෙම යෝජනාව සම්මත වීම විශේෂත්වයකි.
-
-මේ අතර ඊශ්‍රායලය පවසන්නේ, එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේදී සම්මත කෙරුණු මෙම යෝජනාව ප්‍රතික්ෂේප කරන බවය.
-
-◼️
-
-[Data](articles/57a2b22f.json)
-
----
-
-### நேபாள இடைக்கால பிரதமருக்கு  ஜனாதிபதி வாழ்த்து
-
-*2025-09-13 14:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாள-இடைக்கால-பிரதமருக்கு-ஜனாதிபதி-வாழ்த்து/175-364499) · `ta`
-
-நேபாளத்தின் இடைக்கால அரசாங்கத்தின் புதிய பிரதமராக நியமிக்கப்பட்டுள்ள சுசீலா கார்க்கிக்கு ஜனாதிபதி அநுர குமார திசாநாயக்க வாழ்த்து தெரிவித்துள்ளார்.
-
-"சுசீலா கார்க்கி அவர்கள் நேபாளத்தின் பிரதமராகப் பொறுப்பேற்றதற்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன். அவரது தலைமை, நேபாளத்தை அமைதி மற்றும் ஜனநாயகத்திற்கு இட்டுச்செல்லும் என நாங்கள் முழுமையாக நம்புகிறோம்," என்று ஜனாதிபதி  பதிவிட்டுள்ளார்.
-
-கடந்த செப்டம்பர் 8-ஆம் திகதி நேபாளத்தில் இடம்பெற்ற மக்கள் போராட்டங்களைத் தொடர்ந்து, அந்நாட்டின் முன்னாள் பிரதமர் கே.பி. ஷர்மா ஒலி தலைமையிலான அரசு கவிழ்ந்தது. மக்கள் போராட்டங்களில் குறைந்தது 51 பேர் உயிரிழந்தனர். R
-
-◼️
-
-[Data](articles/bdbf3e30.json)
-
----
-
-### Foreign investors buy Sri Lanka rupee bonds for third straight week
-
-*2025-09-13 14:00:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-third-straight-week-240445/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a third straight week in the week ended on September 11, the Central Bank data showed, amid global investors’ hope for monetary policy easing by the U.S. Federal Reserve.
-
-Foreign investors bought a net 2,781 million rupee ($9.27 million) worth of government securities in the week ended on September 11.
-
-They have bought a net 8,719 million rupee ($29.1 million) worth of government securities in the three weeks ended on September11.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
-
-The island nation has, however, enjoyed a total inflow of around 36 billion rupees (around $152 million) into rupee bonds since December 26 last year through September 11, the data showed.
-
-Sri Lanka’s deflationary policies have helped to see inflows amid curtailed imports, analysts have said.
-
-...
-
-[Data](articles/a459015c.json)
-
----
-
-### Circular allowing decorations and accessories on buses cancelled
-
-*2025-09-13 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112458/circular-allowing-decorations-and-accessories-on-buses-cancelled-) · `en`
-
-The Commissioner General of Motor Traffic has stated that the circular issued on 2 June 2023, which permitted decorations and accessories to be fitted to passenger transport buses, has been cancelled with effect from 9 September 2025.
-
-The Commissioner General of Motor Traffic Kamal Amarasinghe has informed all Deputy Commissioners, Chief Motor Vehicle Inspectors and Department of Motor Traffic District Offices of this decision via an internal circular.
-
-Circular allowing decorations and accessories on buses cancelled  by  Adaderana Online
-
-◼️
-
-[Data](articles/9f7ffad7.json)
-
-[Extended Data](ext_articles/9f7ffad7.ext.json)
-
----
 
 ### Circular that was permitted to decorates buses canceled
 
@@ -123,38 +45,6 @@ The circular has been issued by the Commissioner General of Motor Traffic.
 [Data](articles/a81d1dcb.json)
 
 [Extended Data](ext_articles/a81d1dcb.ext.json)
-
----
-
-### Education Ministry issues official school term calendar for 2026
-
-*2025-09-13 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112457/education-ministry-issues-official-school-term-calendar-for-2026) · `en`
-
-The Ministry of Education (MoE) has announced the official school term calendar for the year 2026, applicable to all Government and Government-approved private schools.
-
-Accordingly, the term calendar for Sinhala, Tamil, and Muslim schools is as follows:
-
-First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 2 March 2026)
-
-Second Phase: 3 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
-
-First Phase: 27 July 2026 to 7 August 2026 (Holidays: 8 August to 6 September 2026)
-
-First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 22 March 2026)
-
-Second Phase: 23 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
-
-Third Phase: 20 April 2026 to 30 April 2026 (Holidays: 01 May to 03 May 2026)
-
-First Phase: 4 May 2026 to 26 May 2026 (Holidays: 27 May to 31 May 2026)
-
-First Phase:  3 August 2026 to 2 September 2026 (Holidays: 3 September to 6 September 2026)
-
-◼️
-
-[Data](articles/1c0f575b.json)
-
-[Extended Data](ext_articles/1c0f575b.ext.json)
 
 ---
 
@@ -337,32 +227,6 @@ Foreign media reports have reported that a powerful earthquake is beyond the coa
 [Data](articles/2d990175.json)
 
 [Extended Data](ext_articles/2d990175.ext.json)
-
----
-
-### Arrest warrant issued for Weligama PS Chairman
-
-*2025-09-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112456/arrest-warrant-issued-for-weligama-ps-chairman) · `en`
-
-The Matara Chief Magistrate’s Court has issued a warrant for the arrest of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara.
-
-The order was issued when the case was called before Matara Chief Magistrate Chathura Dissanayake yesterday (12).
-
-The warrant follows the chairman’s failure to appear in court in a case alleging that he threatened to kill National People’s Power Pradeshiya Sabha member and Attorney-at-Law Tharaka Nanayakkara.
-
-A case has been filed against Wickramasekara under the Victims Protection Act for allegedly threatening Attorney-at-Law Nanayakkara, who contested the Weligama Pradeshiya Sabha elections representing the National People’s Power.
-
-When the case was taken up at the Matara Magistrate’s Court, the accused did not appear, said Ada Derana reporter.
-
-During the court proceedings, the accused did not appear, and a legal representative informed the court of his ill health.
-
-However, the warrant was issued due to the absence of his guarantors in court.
-
-◼️
-
-[Data](articles/6cdbfafe.json)
-
-[Extended Data](ext_articles/6cdbfafe.ext.json)
 
 ---
 
@@ -668,39 +532,17 @@ Dr. Fernando emphasized that the primary purpose of the Act is to consolidate al
 
 *2025-09-13 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112451/nia-court-summons-pakistani-official-in-sri-lanka-over-plot-to-bomb-us-israeli-consulates-in-india-report) · `en`
 
-The special NIA court in Poonamallee has issued a proclamation, directing a Pakistani official working in the country’s high commission in Sri Lanka to appear before it on October 15, to respond to charges of conspiring to bomb the American consulate in Chennai and Israeli consulate in Bengaluru, Indian media reported today.
+The special NIA court in Poonamallee has issued a proclamation, directing a Pakistani official working in the country’s high commission in Sri Lanka to appear before it on October 15, to respond to charges of conspiring to bomb the American consulate in Chennai and Israeli consulate in Bengaluru.
 
-The official summoned has been identified as Amir Zubair Siddiqui with a permanent address in Karachi, Pakistan, and working as a visa counsellor in Colombo between 2009 and 2016, The New Indian Express and India Today reported.
+The official summoned has been identified as Amir Zubair Siddiqui with a permanent address in Karachi, Pakistan, and working as a visa counsellor in Colombo.
 
-According to the proclamation, he faces charges under the IPC and UAPA for offences including criminal conspiracy, waging war against India and using forged or counterfeit notes. The court said he has absconded, according to the reports.
+According to the proclamation, he faces charges under the IPC and UAPA for offences including criminal conspiracy, waging war against India and using forged or counterfeit notes. The court said he has absconded.
 
 ...
 
 [Data](articles/2c418401.json)
 
 [Extended Data](ext_articles/2c418401.ext.json)
-
----
-
-### Bodd is closed to the board board
-
-*2025-09-13 08:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෝඩ්-ලෑල්ලට-පමණක්-සීමා-වූ-රාජ්‍ය-ආයතන-වහනවා/11-418471) · `si`
-
-Health Minister Nalinda Jayatissa said that the government has decided to close public institutions which are limited to the board board alone.
-
-Jayathaissa said that the government has a burden to the government of some government institutions.
-
-"There is no public service from some government agencies in our country. Some government agencies serve as to arrange for. Some agencies are only to boards. Headed a decision to shut down state institutions that were limited to the people who were not serving the people. Steps will be taken to combine some institutions "
-
-Mr. Nalinda Jayatissa said this at a function to mark the foundation stone for the construction of the Balapitiya Post Office Building.
-
-(Karandeniya M.Sil Pradesh, Balapitiya S.A. de Silva and Ambalangoda M. Heramananda De Silva
-
-◼️
-
-[Data](articles/e52d1f64.json)
-
-[Extended Data](ext_articles/e52d1f64.ext.json)
 
 ---
 
@@ -2061,5 +1903,139 @@ The suspect was in the custody of Utah state law enforcement, a person familiar 
 [Data](articles/ce5afe3d.json)
 
 [Extended Data](ext_articles/ce5afe3d.ext.json)
+
+---
+
+### The date for the annual celebration of the UNP was marked
+
+*2025-09-12 18:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-ஆண்டு-விழாவுக்கு-திகதி-குறிக்கப்பட்டது/175-364472) · `ta`
+
+The 79th anniversary of the United National Party is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on the 20th.
+
+The meeting was held yesterday under the leadership of UNP leader and former president Ranil Wickremesinghe.
+
+While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
+
+Accordingly, the postponement of the United National Party (UNP) is scheduled to be held on the 20th of this month.. Remble
+
+◼️
+
+[Data](articles/326b66cc.json)
+
+[Extended Data](ext_articles/326b66cc.ext.json)
+
+---
+
+### A large number of suspects arrested with police station
+
+*2025-09-12 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214494) · `si`
+
+Police said that 3,017 suspects were arrested from the 5th to 11th to 11th of the 11th of the month of police.
+
+The police said that 3,018 raids were arrested by 3,018 raids.
+
+The highest raid was carried out and the number of raids were 1,014 and the number of suspects were 1,014 suspects.
+
+1,031 Ice raids were carried out and the number of suspects was 1,030.
+
+Police have also taken into custody over more than 1kg of ice and 2kg of ice in these raids.
+
+Police have also seized 8,260 drugs and 48 suspects were taken into custody.
+
+A large number of suspects arrested in police station arrested by poornima
+
+◼️
+
+[Data](articles/88fc5ab9.json)
+
+[Extended Data](ext_articles/88fc5ab9.ext.json)
+
+---
+
+### The Foreign Policy Of The United States
+
+*2025-09-12 18:36:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-foreign-policy-of-the-united-states/) · `en`
+
+(A talk given at The Bandaranaike International Diplomatic Training Institute on 09 September, 2025)
+
+...
+
+[Data](articles/47c65a06.json)
+
+[Extended Data](ext_articles/47c65a06.ext.json)
+
+---
+
+### The first phase of the ECORT project begins
+
+*2025-09-12 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214493) · `si`
+
+The Supreme Court was held as the first step in the Superintendent of the Judicial ECORT project while the Supreme Court was launched and modernized Supreme Court website in the first phase of the Judicial ECORT project.
+
+Minister of Justice and National Integration, Attorney and National Integration was also present at the judge at the Judge Training Institute.
+
+This is in line with the objective of providing the efficiency of the judicial service and providing effective judicial service to the public.
+
+The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
+
+The objective of the Digital Program is to enhance the corruption irregularities of the judicial subsistence and to provide services to the judiciary and the efficient services to the lawyers.
+
+...
+
+[Data](articles/251b76c4.json)
+
+[Extended Data](ext_articles/251b76c4.ext.json)
+
+---
+
+### Indian Vice President of India
+
+*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவியேற்பில்பிரமாணத்தி-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
+
+Senthil Thondaman calls for the post of Indian Vice President
+
+CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
+
+CP Radhakrishnan was sworn in today in the presence of President Moormu at the President's House in New Delhi.
+
+◼️
+
+[Data](articles/2b3bd19b.json)
+
+[Extended Data](ext_articles/2b3bd19b.ext.json)
+
+---
+
+### Senthil Thondaman participates in the swearing -in of Indian vice president
+
+*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவி-பிரமாணத்திற்கு-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
+
+Senthil Thondaman calls for the post of Indian Vice President
+
+CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
+
+CP Radhakrishnan was sworn in today in the presence of President Moormu in Rashtrapati Bhavan, President's House in New Delhi.
+
+◼️
+
+[Data](articles/cbe189d7.json)
+
+[Extended Data](ext_articles/cbe189d7.ext.json)
+
+---
+
+### The Indian Committee conducted a study on the development of Point Pedro
+
+*2025-09-12 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224944) · `ta`
+
+A team of four members from the Central Coast Guard and Fisheries Institute, a leading company under the Ministry of Fisheries, Livestock and Dairy, visited Sri Lanka from 8 to 12.. The Indian High Commission in Colombo said that the visit was focused on conducting preliminary studies on the development of the Pedro Fisheries Port proposed in the Northern Province.
+
+The delegation met with Fisheries Minister Ramalingam Chandrasekhar and Governor of the Northern Province Nagalingam Vedanayagan and held discussions with the ministry officials.. With the financial assistance of the Government of India, the appropriate methods for the development of the Pedro Fisheries Harbor were focused on this discussion.. The group has made technical visits to the project to be proposed in Point Pedro on the 9th and 10th of last month.
+
+...
+
+[Data](articles/1e19399b.json)
+
+[Extended Data](ext_articles/1e19399b.ext.json)
 
 ---

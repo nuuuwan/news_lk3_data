@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 16:06:30**
+As of **2025-09-13 15:55:05**
 
 ## Newspaper Stats
 
-*Scraped **75,746** Articles*
+*Scraped **75,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,23 @@ economynextcom | 4,592
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,355
+adalk | 7,354
 adaderanalk | 9,732
 tamilmirrorlk | 11,316
-virakesarilk | 12,348
-adaderanasinhalalk | 13,207
+virakesarilk | 12,347
+adaderanasinhalalk | 13,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,754 (92.1%) of 75,746 articles have been extended.
+69,754 (92.1%) of 75,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවල තවත් ශ්‍රී ලාංකිකයින් 13 දෙනෙකු සිටින බවට තොරතුරු
-
-*2025-09-13 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214527) · `si`
-
-මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවල තවත් ශ්‍රී ලාංකිකයින් 13 දෙනෙකු රඳවාගෙන සිටින බවට තොරතුරු වාර්තා වී ඇති බව විදේශ කටයුතු අමාත්‍යංශය පවසයි.
-
-එහි මාධ්‍ය ප්‍රකාශක තුෂාර රොද්‍රිගු මහතා අද දෙරණට සඳහන් කළේ සංචාරක වීසා මත පැමිණි පිරිසක් මෙලෙස එම සයිබර් කඳවුරු වල රඳවාගෙන සිටින බවට වාර්තා වී ඇති බවය.
-
-මියන්මාරයේ මියාවඩි ප්‍රදේශය ආසන්නයේ ඇති එම සයිබර් කඳවුරු ත්‍රස්තවාදී කණ්ඩායම් විසින් පාලනය කරනු ලබන අතර මීට පෙර ද ශ්‍රී ලාංකිකයින් විශාල පිරිසක් එම කඳවුරු වල සිරව සිටියේය.
-
-තානාපති කාර්යාල වල මැදිහත්වීමෙන් එම පිරිස් දැඩි පරිශ්‍රමයකින් අනතුරුව අවස්ථා කිහිපයකදී මෙරටට ගෙන්වා ගැනීමට කටයුතු කෙරුනි.
-
-පරිගණක ක්ෂේත්‍රයේ රැකියා ලබා ගැනීමේ අරමුණින් පසුවන ඇතැම් ශ්‍රී ලාංකිකයින් සංචාරක වීසා මත විදෙස් ගත වන අතර පසුව ඔවුන් මෙවැනි ජාවාරම්කරුවන්ට හසුවන බව විදේශ කටයුතු අමාත්‍යාංශය පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/5a3a0222.json)
-
----
-
-### උතුරු කොරියාවේ මරණ දඬුවම ක්‍රියාත්මක කිරීම ඉහළට
-
-*2025-09-13 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214526) · `si`
-
-උතුරු කොරියාව තුළ මරණ දඩුවම ක්‍රියාත්මක කිරීම සැලකිය යුතු ලෙස ඉහළ ගොස් ඇති බව එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස් කාර්යාලය පවසයි.
-
-විශේෂයෙන් විදෙස් චිත්‍රපට හා රූපවාහිනී ටෙලි නාට්‍ය නැරඹීම යනාදී සිද්ධීන්වලට අදාළව මරණ දඬුවමට ලක්වන උතුරු කොරියානුවන්ගේ සංඛ්‍යාව කැපී පෙනෙන ලෙස ඉහළ ගොස් ඇති බව එම කාර්යාලය පෙන්වා දී ඇත.
-
-උතුරු කොරියානු ජනතාව බාහිර ලෝකය සමඟ සම්බන්ධවීම වැළැක්වීම සඳහා ගතවූ දශකය තුළ එරට පාලනය විසින් දැඩි නීති ක්‍රියාත්මක කර ඇති අතර එමගින් එරට පුරවැසියන්ගේ ජීවිතයේ සියළු අංශ පාලනයට ලක් කර ඇති බව සඳහන්.
-
-වර්තමාන ලෝකයේ එවැනි නීති රීතිවලට යටත්වූ ජනතාවක් වෙනත් කිසිදු රටක නොමැති බව ද එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස් කාර්යාලය පෙන්වා දී තිබේ.
-
-◼️
-
-[Data](articles/4214197a.json)
-
----
-
-### නේපාලයේ නව අන්තර්කාලීන අගමැතිනියට ජනපතිගෙන් සුබ පැතුම්
+### අරගලයෙන් පසු බලයට පත් නේපාල අගමැතිනියට ජනපතිගෙන් සුබ පැතුම්
 
 *2025-09-13 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214525) · `si`
 
@@ -103,26 +65,6 @@ Accordingly, 26,985 persons have been inspected in the island yesterday.
 [Data](articles/8725deea.json)
 
 [Extended Data](ext_articles/8725deea.ext.json)
-
----
-
-### கொழும்பு - காலி பிரதான வீதியை பயன்படுத்தும் வாகன சாரதிகளுக்கு முக்கிய அறிவித்தல்!
-
-*2025-09-13 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225002) · `ta`
-
-கொழும்பு – காலி பிரதான வீதியை பயன்படுத்தும் வாகன சாரதிகளுக்கு முக்கிய அறிவித்தல் ஒன்று வெளியிடப்பட்டுள்ளது.
-
-வாத்துவ, தல்பிட்டியவில் உள்ள ஸ்ரீ தலதாவத்த புராண விஹாரையில் வருடந்தோறும் நடைபெறும் தலதா பெரஹெர காரணமாக கொழும்பு – காலி பிரதான வீதியில் போக்குவரத்து கட்டுப்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-கொழும்பு – காலி பிரதான வீதியில் சனிக்கிழமை (13) பெரஹெர ஊர்வலம் நடைபெற உள்ளது.
-
-எனவே, இன்று (13) மாலை 7:00 மணி முதல் நாளை (14) அதிகாலை 1:00 மணி வரை ஊர்வல பயணத்தின் போது வாத்துவ பொலிஸ் பிரிவில் உள்ள கொழும்பு - காலி பிரதான வீதியில் கடும் போக்குவரத்து நெரிசல் ஏற்படக்கூடும்.
-
-பாணந்துறை மணிக்கூட்டு கோபுரத்திலிருந்து ஹொரண வீதியில் அலுபோமுல்ல ஊடாக பண்டாரகம சென்று மொரோந்துடுவ வீதியில் பண்டாரகம சந்தியின் வலப்புறம் வாடிய மங்கட சந்தியில் இடப்புறம் திரும்பி களுத்துறை ஊடாக காலி நோக்கி செல்லவும்.
-
-...
-
-[Data](articles/6c82c945.json)
 
 ---
 
@@ -991,22 +933,6 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 [Data](articles/2c418401.json)
 
 [Extended Data](ext_articles/2c418401.ext.json)
-
----
-
-### පළාත් සභා මැතිවරණය පැවැත්වීමට සූදානම්
-
-*2025-09-13 08:20:37* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභා-මැතිවරණය-පැවැත්වීමට-සූදානම්/11-418473) · `si`
-
-පාර්ලිමෙන්තුව විසින් සම්මත කරනු ලබන නිතිය අනුව  ඕනෑම අවස්ථාවක පළාත් සභා මැතිවරණය පැවැත්විමට සුදානම් බවත් ඒ සදහා අය වැයෙන් මුදල් ප්‍රතිපාදන වෙන්ව ඇති බවද මැතිවරණ කොමසාරිස් ජනාරල් සමන් ශ්‍රි රත්නනායක මහතා මාතලේ දි පැවසිය.
-
-ඒ මහතා මේ බව ප්‍රකාශ කළේ මාතලේ දිස්ත්‍රික් පළාත් පාලන ආයතනවල සභිකවරියන් සදහා සාධාරණ මැතිවරණයක් සදහා වු ජනතා ව්‍යාපාරය මගින් සංවිධානය කළ “ඩිජිටල් සාක්ෂරතාව නැංවිමේ වැඩසටහනට “ එක්විමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමිනි.
-
-“කොමිසන් සභාවට යම් මැතිවරණයක් පැවැත්විමට අදාළ නිතියක් අවශ්‍යයි.පළාත් සභා සම්න්ධයෙන් 2017 අංක 17 දරණ පනතින් සංශෝධීත පනත අනුව 1988 අංක දරණ පළාත් සභා පනත අහෝසි වෙනවා.ඒ අනුව ඊට අදාළ සිමා නිර්ණය කටයුතු මේ වන විට අවසන් කරලා පාර්ලිමෙන්තුව වෙත ඉදිරිපත් කරලා තියෙන්නේ.
-
-...
-
-[Data](articles/4d6579b5.json)
 
 ---
 
@@ -2081,5 +2007,87 @@ Karki, 73, would take the oath of office at 9:15 p.m. local time (1530 GMT), sai
 [Data](articles/94c0d3b4.json)
 
 [Extended Data](ext_articles/94c0d3b4.ext.json)
+
+---
+
+### Former CJ is appointed as the interim Prime Minister of Nepal
+
+*2025-09-12 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214498) · `si`
+
+Former CJ has been appointed as the interim prime minister of Nepal.
+
+The media reported that she is to be sworn in tonight as the head of the interconnected administration.
+
+◼️
+
+[Data](articles/53d8d871.json)
+
+[Extended Data](ext_articles/53d8d871.ext.json)
+
+---
+
+### Youth arrested with drug pills in Jaffna
+
+*2025-09-12 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224948) · `ta`
+
+A 20 -year -old youth has been arrested with 40 drug pills during a round of raids carried out on Friday, 12th of this month in Colombo, Jaffna.
+
+The arrest was carried out by the Jaffna Police Station Drug Prevention Unit of confidential information received by the Police Intelligence Unit under the Jaffna District Senior Superintendent of Police.
+
+Police are taking steps to bring the suspect in court after investigations.
+
+◼️
+
+[Data](articles/08016873.json)
+
+[Extended Data](ext_articles/08016873.ext.json)
+
+---
+
+### Charlie Kirk shooting suspect identified as Tyler Robinson
+
+*2025-09-12 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112444/charlie-kirk-shooting-suspect-identified-as-tyler-robinson) · `en`
+
+The suspect arrested in connection with the shooting of conservative activist Charlie Kirk has been identified as Tyler Robinson, a 22-year-old man from Utah, authorities said Friday.
+
+Kirk, 31, was fatally shot on Wednesday while he was speaking to around 3,000 people at an event at Utah Valley University. The manhunt that ensued took several twists and turns in the hours following the shooting.
+
+Two people were taken into custody on Wednesday, but both were later released.
+
+Earlier Friday, President Trump announced during an appearance on Fox & Friends that a suspect was in custody. “I think with a high degree of certainty we have him,” he said.
+
+Investigators and authorities on Thursday night pleaded for the public’s help in finding the gunman. Utah Gov. Spencer Cox said that law enforcement had received more than 7,000 tips related to the shooting.
+
+...
+
+[Data](articles/4b6aeef0.json)
+
+[Extended Data](ext_articles/4b6aeef0.ext.json)
+
+---
+
+### President meet with representatives of the President and the Youth Entrepreneurs
+
+*2025-09-12 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214497) · `si`
+
+President Anura Kumara Dissanayake said the government hopes to expand the market opportunities for local businesses and entrepreneurs.
+
+The President made this observation at a 2026 pre-budget discussion with the participation of the Youth Entrepreneurs (COYLE).
+
+The President added that the government will provide the provision of infrastructure, law regulations and regulation of infrastructure facilities to do business.
+
+The departments were made in writing of the challenges and problems that have arisen in the field.
+
+Special attention has been paid to the fact that the public has paid special attention to the modernity of the state.
+
+2026 The President also evaluated the government's commitment to create a country that was strongly confirmed by the law, corruption and frauds that had been asserted to the Budget for the budget.
+
+And they also presented a souvenir to President Anura Kumara Dissanayake to mark this occasion.
+
+◼️
+
+[Data](articles/317d6df3.json)
+
+[Extended Data](ext_articles/317d6df3.ext.json)
 
 ---

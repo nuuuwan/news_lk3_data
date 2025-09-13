@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 14:07:53**
+As of **2025-09-13 13:56:15**
 
 ## Newspaper Stats
 
-*Scraped **75,726** Articles*
+*Scraped **75,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,353
-adaderanalk | 9,732
+adalk | 7,352
+adaderanalk | 9,729
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
 adaderanasinhalalk | 13,199
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,666 (92.0%) of 75,726 articles have been extended.
+69,656 (92.0%) of 75,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### Circular allowing decorations and accessories on buses cancelled
-
-*2025-09-13 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112458/circular-allowing-decorations-and-accessories-on-buses-cancelled-) · `en`
-
-The Commissioner General of Motor Traffic has stated that the circular issued on 2 June 2023, which permitted decorations and accessories to be fitted to passenger transport buses, has been cancelled with effect from 9 September 2025.
-
-The Commissioner General of Motor Traffic Kamal Amarasinghe has informed all Deputy Commissioners, Chief Motor Vehicle Inspectors and Department of Motor Traffic District Offices of this decision via an internal circular.
-
-Circular allowing decorations and accessories on buses cancelled  by  Adaderana Online
-
-◼️
-
-[Data](articles/9f7ffad7.json)
-
----
 
 ### Circular that was permitted to decorates buses canceled
 
@@ -61,36 +45,6 @@ The circular has been issued by the Commissioner General of Motor Traffic.
 [Data](articles/a81d1dcb.json)
 
 [Extended Data](ext_articles/a81d1dcb.ext.json)
-
----
-
-### Education Ministry issues official school term calendar for 2026
-
-*2025-09-13 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112457/education-ministry-issues-official-school-term-calendar-for-2026) · `en`
-
-The Ministry of Education (MoE) has announced the official school term calendar for the year 2026, applicable to all Government and Government-approved private schools.
-
-Accordingly, the term calendar for Sinhala, Tamil, and Muslim schools is as follows:
-
-First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 2 March 2026)
-
-Second Phase: 3 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
-
-First Phase: 27 July 2026 to 7 August 2026 (Holidays: 8 August to 6 September 2026)
-
-First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 22 March 2026)
-
-Second Phase: 23 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
-
-Third Phase: 20 April 2026 to 30 April 2026 (Holidays: 01 May to 03 May 2026)
-
-First Phase: 4 May 2026 to 26 May 2026 (Holidays: 27 May to 31 May 2026)
-
-First Phase:  3 August 2026 to 2 September 2026 (Holidays: 3 September to 6 September 2026)
-
-◼️
-
-[Data](articles/1c0f575b.json)
 
 ---
 
@@ -273,30 +227,6 @@ Foreign media reports have reported that a powerful earthquake is beyond the coa
 [Data](articles/2d990175.json)
 
 [Extended Data](ext_articles/2d990175.ext.json)
-
----
-
-### Arrest warrant issued for Weligama PS Chairman
-
-*2025-09-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112456/arrest-warrant-issued-for-weligama-ps-chairman) · `en`
-
-The Matara Chief Magistrate’s Court has issued a warrant for the arrest of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara.
-
-The order was issued when the case was called before Matara Chief Magistrate Chathura Dissanayake yesterday (12).
-
-The warrant follows the chairman’s failure to appear in court in a case alleging that he threatened to kill National People’s Power Pradeshiya Sabha member and Attorney-at-Law Tharaka Nanayakkara.
-
-A case has been filed against Wickramasekara under the Victims Protection Act for allegedly threatening Attorney-at-Law Nanayakkara, who contested the Weligama Pradeshiya Sabha elections representing the National People’s Power.
-
-When the case was taken up at the Matara Magistrate’s Court, the accused did not appear, said Ada Derana reporter.
-
-During the court proceedings, the accused did not appear, and a legal representative informed the court of his ill health.
-
-However, the warrant was issued due to the absence of his guarantors in court.
-
-◼️
-
-[Data](articles/6cdbfafe.json)
 
 ---
 
@@ -613,26 +543,6 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 [Data](articles/2c418401.json)
 
 [Extended Data](ext_articles/2c418401.ext.json)
-
----
-
-### බෝඩ් ලෑල්ලට පමණක් සීමා වූ රාජ්‍ය ආයතන වහනවා
-
-*2025-09-13 08:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෝඩ්-ලෑල්ලට-පමණක්-සීමා-වූ-රාජ්‍ය-ආයතන-වහනවා/11-418471) · `si`
-
-බෝඩ් ලෑල්ලට පමණක් සීමාවී තිබෙන රාජය ආයතන වසා දැමීමට රජය තීරණය කළ බව සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා බලපිටියේ පැවති උත්සවයකදී කීවේය
-
-සමහර රාජ්‍ය ආයතන රජයට බරක් බවතA එවැනි රාජ්‍ය ආයතන පිළිබඳව තීන්දුවක් ගැනීමට සිදුවන බවත් ජයතිස්ස මහතා කීවේය.
-
-“අපේ රටේ සමහර රාජ්‍ය ආයතනවලින් ජනතා සේවයක් කෙරෙන්නේ නැහැ. සමහර රාජ්‍ය ආයතනවල සේවය කරන්නේ නිලධාරීන් එක්කෙනයි දෙන්නයි. සමහර ආයතන බෝඩ්වලට පමණයි. ජනතාවට සේවයක් නොකරන බෝඩ් ලෑලිවලට පමණක් සීමාවී ඇති රාජ්‍ය ආයතන වහලා දාන්න තීන්දුවක් ගත්තා. සමහර ආයතන ඒකාබද්ධ කරන්නත් කටයුතු කරනවා”
-
-බලපිටිය තැපැල් කාර්යාලයීය ගොඩනැගිල්ල ඉදිකිරීම සඳහා මුල්ගල් තැබීම නිමිත්තෙන් පැවති උත්සවයේදී නලින්ද ජයතිස්ස මහතා මේ බව කීවේය.
-
-(කරන්දෙණිය එම්.සුසිල් පියන්ත ,බලපිටිය එස්.ඒ.වයි.ද සිල්වා සහ අම්බලන්ගොඩ එම්.හේමන්ත ද සිල්වා)
-
-◼️
-
-[Data](articles/e52d1f64.json)
 
 ---
 
@@ -2053,5 +1963,79 @@ A large number of suspects arrested in police station arrested by poornima
 [Data](articles/47c65a06.json)
 
 [Extended Data](ext_articles/47c65a06.ext.json)
+
+---
+
+### The first phase of the ECORT project begins
+
+*2025-09-12 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214493) · `si`
+
+The Supreme Court was held as the first step in the Superintendent of the Judicial ECORT project while the Supreme Court was launched and modernized Supreme Court website in the first phase of the Judicial ECORT project.
+
+Minister of Justice and National Integration, Attorney and National Integration was also present at the judge at the Judge Training Institute.
+
+This is in line with the objective of providing the efficiency of the judicial service and providing effective judicial service to the public.
+
+The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
+
+The objective of the Digital Program is to enhance the corruption irregularities of the judicial subsistence and to provide services to the judiciary and the efficient services to the lawyers.
+
+...
+
+[Data](articles/251b76c4.json)
+
+[Extended Data](ext_articles/251b76c4.ext.json)
+
+---
+
+### Indian Vice President of India
+
+*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவியேற்பில்பிரமாணத்தி-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
+
+Senthil Thondaman calls for the post of Indian Vice President
+
+CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
+
+CP Radhakrishnan was sworn in today in the presence of President Moormu at the President's House in New Delhi.
+
+◼️
+
+[Data](articles/2b3bd19b.json)
+
+[Extended Data](ext_articles/2b3bd19b.ext.json)
+
+---
+
+### Senthil Thondaman participates in the swearing -in of Indian vice president
+
+*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவி-பிரமாணத்திற்கு-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
+
+Senthil Thondaman calls for the post of Indian Vice President
+
+CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
+
+CP Radhakrishnan was sworn in today in the presence of President Moormu in Rashtrapati Bhavan, President's House in New Delhi.
+
+◼️
+
+[Data](articles/cbe189d7.json)
+
+[Extended Data](ext_articles/cbe189d7.ext.json)
+
+---
+
+### The Indian Committee conducted a study on the development of Point Pedro
+
+*2025-09-12 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224944) · `ta`
+
+A team of four members from the Central Coast Guard and Fisheries Institute, a leading company under the Ministry of Fisheries, Livestock and Dairy, visited Sri Lanka from 8 to 12.. The Indian High Commission in Colombo said that the visit was focused on conducting preliminary studies on the development of the Pedro Fisheries Port proposed in the Northern Province.
+
+The delegation met with Fisheries Minister Ramalingam Chandrasekhar and Governor of the Northern Province Nagalingam Vedanayagan and held discussions with the ministry officials.. With the financial assistance of the Government of India, the appropriate methods for the development of the Pedro Fisheries Harbor were focused on this discussion.. The group has made technical visits to the project to be proposed in Point Pedro on the 9th and 10th of last month.
+
+...
+
+[Data](articles/1e19399b.json)
+
+[Extended Data](ext_articles/1e19399b.ext.json)
 
 ---

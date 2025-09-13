@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 14:20:25**
+As of **2025-09-13 14:37:22**
 
 ## Newspaper Stats
 
-*Scraped **75,728** Articles*
+*Scraped **75,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 7,353
 adaderanalk | 9,732
 tamilmirrorlk | 11,315
 virakesarilk | 12,341
-adaderanasinhalalk | 13,199
+adaderanasinhalalk | 13,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,670 (92.0%) of 75,728 articles have been extended.
+69,670 (92.0%) of 75,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### ඊශ්‍රායල - පලස්තීන ගැටලුව සඳහා නව යෝජනාවක්
+
+*2025-09-13 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214520) · `si`
+
+ඊශ්‍රායල - පලස්තීන ගැටලුව සඳහා ද්වි-රාජ්‍යය පිළියමක් ඇතිකිරීම සඳහා වන යෝජනාවක් එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේදී ඊයේ සම්මත කෙරිණි.
+
+ඒ සඳහා රටවල් 142ක් පක්ෂව ද, රටවල් 10ක් විපක්ෂව ද ඡන්දය ලබාදුන් අතර, ඡන්දය දීමෙන් වැළකී සිටි රටවල් සංඛ්‍යාව 12කි.
+
+අමෙරිකාව සහ ඊශ්‍රායලය යෝජනාවට විපක්ෂව ඡන්දය දුන් රටවල් අතර වේ.
+
+සෞදි අරාබිය සහ ප්‍රංශයේ මැදිහත්වීමෙන් පසුගිය ජූලි මාසයේ පැවැති එක්සත් ජාතීන්ගේ අන්තර්ජාතික සම්මන්ත්‍රණයේ ප්‍රතිඵලයක් ලෙස පිටු හතකින් සමන්විත මෙම යෝජනාව ඊයේ සම්මත වී ඇත.
+
+සැප්තැම්බර් විසි දෙවැනිදා පැවැත්වෙන රාජ්‍ය නායක සමුළුව අතරතුර පලස්තීනය නීත්‍යානුකූල රාජ්‍යයක් ලෙස පිළිගැනීම සඳහා ප්‍රංශය, කැනඩාව, බ්‍රිතාන්‍ය සහ ඔස්ට්‍රේලියාව ඇතුළු රටවල් කිහිපයක් සූදානමින් සිටින පසුබිමක මෙම යෝජනාව සම්මත වීම විශේෂත්වයකි.
+
+මේ අතර ඊශ්‍රායලය පවසන්නේ, එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේදී සම්මත කෙරුණු මෙම යෝජනාව ප්‍රතික්ෂේප කරන බවය.
+
+◼️
+
+[Data](articles/57a2b22f.json)
+
+---
 
 ### நேபாள இடைக்கால பிரதமருக்கு  ஜனாதிபதி வாழ்த்து
 
@@ -2039,25 +2061,5 @@ The suspect was in the custody of Utah state law enforcement, a person familiar 
 [Data](articles/ce5afe3d.json)
 
 [Extended Data](ext_articles/ce5afe3d.ext.json)
-
----
-
-### The date for the annual celebration of the UNP was marked
-
-*2025-09-12 18:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-ஆண்டு-விழாவுக்கு-திகதி-குறிக்கப்பட்டது/175-364472) · `ta`
-
-The 79th anniversary of the United National Party is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on the 20th.
-
-The meeting was held yesterday under the leadership of UNP leader and former president Ranil Wickremesinghe.
-
-While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
-
-Accordingly, the postponement of the United National Party (UNP) is scheduled to be held on the 20th of this month.. Remble
-
-◼️
-
-[Data](articles/326b66cc.json)
-
-[Extended Data](ext_articles/326b66cc.ext.json)
 
 ---

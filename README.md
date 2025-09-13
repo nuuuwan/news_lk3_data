@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 12:36:58**
+As of **2025-09-13 12:10:09**
 
 ## Newspaper Stats
 
-*Scraped **75,718** Articles*
+*Scraped **75,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,31 @@ adalk | 7,351
 adaderanalk | 9,729
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,196
+adaderanasinhalalk | 13,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,604 (91.9%) of 75,718 articles have been extended.
+69,577 (91.9%) of 75,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### Sri Lanka participated in the Asian Cup today
-
-*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
-
-Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
-
-The match will be played at Abuadabii at 8:00 pm as a match of B.
-
-Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
-
-The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
-
-Sri Lanka won both matches previously.
-
-This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
-
-◼️
-
-[Data](articles/ce1740f4.json)
-
-[Extended Data](ext_articles/ce1740f4.ext.json)
-
----
-
-### Lord
+### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
 
 *2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
 
-Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
+வெலிகம பிரதேச சபையின் தவிசாளர் லசந்த விக்ரமசேகரவுக்கு எதிராக மாத்தறை பிரதான நீதவான் நீதிமன்றம் பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
 
-The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
+தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தாரக நாணயக்காரவுக்கு கொலை மிரட்டல் விடுத்த குற்றச்சாட்டைத் தொடர்ந்து, அவருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
 
-When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
+இந்த வழக்கு மாத்தறை பிரதான நீதவான் சத்துர திசாநாயக்க முன்னிலையில் நேற்று  (12) விசாரணைக்கு வந்த போது, லசந்த விக்ரமசேகர நீதிமன்றில் ஆஜராகாமல் இருந்துள்ளார்.
 
 ◼️
 
 [Data](articles/18a6ffad.json)
-
-[Extended Data](ext_articles/18a6ffad.ext.json)
 
 ---
 
@@ -2045,5 +2019,27 @@ Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Watt
 [Data](articles/186f6675.json)
 
 [Extended Data](ext_articles/186f6675.ext.json)
+
+---
+
+### State Revenue Nearly 15 percent of GDP
+
+*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
+
+The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
+
+According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
+
+He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
+
+Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
+
+He pointed out that state spending management is focused on an optimum level but the cost of Rs.
+
+...
+
+[Data](articles/2ca1581d.json)
+
+[Extended Data](ext_articles/2ca1581d.ext.json)
 
 ---

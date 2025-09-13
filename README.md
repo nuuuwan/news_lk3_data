@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 19:53:24**
+As of **2025-09-13 18:55:30**
 
 ## Newspaper Stats
 
-*Scraped **75,767** Articles*
+*Scraped **75,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,109 +16,37 @@ economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,357
+adalk | 7,356
 adaderanalk | 9,735
-tamilmirrorlk | 11,320
+tamilmirrorlk | 11,319
 virakesarilk | 12,350
-adaderanasinhalalk | 13,214
+adaderanasinhalalk | 13,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,022 (92.4%) of 75,767 articles have been extended.
+69,941 (92.3%) of 75,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
-
-*2025-09-13 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214534) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනා ගැනීමට  ශ්‍රී ලංකා කණ්ඩායම සමත් වුණා.
-
-'B' කණ්ඩයේ තරගයක් ලෙසින් අබුඩාබිහිදී පැවැත්වෙන මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු තරගය ද මෙය වේ.
-
-ශ්‍රී ලංකාව හා බංග්ලාදේශ එක්සත් අරාබි එමීර් රාජ්‍යයේ දී විස්සයි20 තරගයකදී මුණගැසෙන තෙවන අවස්ථාව ද මෙයයි.
-
-පෙර පැවැති තරග දෙක සාජා හා ඩුබායි හිදී පැවති අතර, එම තරග දෙකම ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව ඇත.
-
-ඒ අනුව ඔවුනොවුන් අබුඩාබි හිදී විස්සයි20 ක්‍රිකට් තරගයකදී මුහුණට මුහුණ හමුවන පළමු අවස්ථාව ද මෙය වේ.
-
-මෙම තරගාවලිය යටතේ බංග්ලාදේශය ක්‍රීඩාකළ පළමු තරගයෙන් හොංකොං කණ්ඩායම කඩුලු 7කින් පරාජය කිරීමට සමත් වූ අතර, ඒ සමග ඔවුන් 'B' කණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ දෙවන ස්ථානයේ රැඳී සිටී.
-
-ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය චරිත් හසලංක විසින්ද, බංග්ලාදේශ නායකත්වය ලින්ටන් දාස් විසින් ද දරන ලබයි.
-
-◼️
-
-[Data](articles/ea13e063.json)
-
----
-
-### மியன்மாரில் மேலும் 13 இலங்கையர்கள் தடுத்து வைப்பு
-
-*2025-09-13 19:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-மேலும்-13-இலங்கையர்கள்-தடுத்து-வைப்பு/175-364504) · `ta`
-
-மியன்மாரின் சைபர் கிரைம் மோசடி முகாம்களில் மேலும் 13 இலங்கையர்கள் தடுத்து வைக்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
-
-மியன்மாரில் மியாவாடி பகுதியில் உள்ள இந்த சைபர் கிரைம் மோசடி முகாம்கள் தீவிரவாதிகளால் இயங்கி வருகின்றன.
-
-சுற்றுலா விசாவில் மியன்மாருக்க சென்ற இலங்கையர்களே இவ்வாறு சைபர் கிரைம் மோசடி முகாம்களில் தடுத்து வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-இவர்களை மீண்டும் அழைத்துவர நடவடிக்கை எடுக்கப்பட்டு வருவதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/ee9f8efd.json)
-
----
-
-### Former soldier arrested for three murders
-
-*2025-09-13 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214533) · `si`
-
-A former Army soldier who is suspected of connecting four murders including a former prison officer in Bandaragama and two youths in Borella.
-
-The police said that the suspect had reportedly had four people shot dead last August alone.
-
-The murdering incident in the Siyambalanduwa area was hiding in the Siyambalanduwa area in Ampara on 07th August, the shooter shot dead in Borella.
-
-Accordingly, the person was arrested yesterday (12th).
-
-Investigations have revealed that he had been shooting at the Bandara and Former Prison officer Lalith Kodagoda, a former prison officer in Bandaragama, Bandara and Former Prison officer in Bandaragama, Bandaragama.
-
-The victim was suspected of killing as the Showdraw in the Panadura South Gangarawatta in the Panadura South Mahodadu Mahabagahawatta.
-
-Accordingly, four persons have died in three occasions in August alone.
-
-Investigations have also been found in the possession of the Ice narcotics at the time of his arrest.
-
-...
-
-[Data](articles/ba397e41.json)
-
-[Extended Data](ext_articles/ba397e41.ext.json)
-
----
-
-### All maize farmers in the Maha season begin registration
+### මහ කන්නයේ සියලුම බඩඉරිඟු ගොවීන් ලියාපදිංචිය ඇරඹෙයි
 
 *2025-09-13 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214532) · `si`
 
-The farmers who cultivate maize cultivated in the Maha season have been facilitated to register the farmers in Sri Lanka.
+2025/26 මහ කන්නයේදී ශ්‍රී ලංකාවේ බඩ ඉරිඟු වගා කරන ගොවීන් හට ලියාපදිංචි වීම සඳහා මේ වන විට පහසුකම් සලසා දී ඇතැයි ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
 
-In a statement, the Department said that the department stated that the facilities have been provided on the web site www.agrariandep.gov.lk
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ ඒ සඳහා www.agrarian.lk www.agrariandept.gov.lk වෙබ් අඩවි තුළ අදාළ පහසුකම් සලසා දී ඇති බවය.
 
-The Department said that all the farmers of maize should be registered in this system say that the necessary procedures and registration have been issued to educate all the farmers.
+මෙම පද්ධතිය තුළ බඩඉරිඟු වගා කරන සියලුම ගොවීන් ලියාපදිංචි විය යුතු බව පෙන්වා දෙන එම දෙපාර්තමේන්තුව පැවසුවේ අදාළ සියලු ගොවීන් දැනුවත් කිරීම සඳහා අවශ්‍ය කටයුතු මෙන්ම ලියාපදිංචි වීම සම්බන්ධයෙන් වූ උපදෙස් ද මේ වන විට නිකුත් කර ඇති බවය.
 
-All maize farmers in the Maha season begin to register by poornima
+මහ කන්නයේ සියලුම බඩඉරිඟු ගොවීන් ලියාපදිංචිය ඇරඹෙයි  by  poornima
 
 ◼️
 
 [Data](articles/d2c744a1.json)
-
-[Extended Data](ext_articles/d2c744a1.ext.json)
 
 ---
 
@@ -503,28 +431,6 @@ Curfew was imposed to control it. However, during the protests, 51 people were k
 [Data](articles/8c6d75a9.json)
 
 [Extended Data](ext_articles/8c6d75a9.ext.json)
-
----
-
-### The construction industry should be made in the field
-
-*2025-09-13 14:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-විධිමත්භාවයක්-ඇති-කළ-යුතුයි/11-418475) · `si`
-
-The presidential discussion of the respective budget proposals between the President, Anura Kumara Dissanayake and the construction industry associated with the construction industry was held in the presidential election.
-
-The discussion was held aimed at enhancing the contribution to the economy by exporting the construction work and the export of electric cables.
-
-He stressed that the proposal was aimed at creating the economic environment where the construction industry would grow outside the construction industry.
-
-The government was focused on how the government could resolve the problems and problems in the construction industry and the government was informed by the heads of the field.
-
-Senior Additional Secretary to the Presidential Additional Secretary, Russell Arotess, Chairman of the Ministry of Finance, Senior Officials of the Ministry of Finance, Heads of Construction Sector and Electric Cable Products
-
-◼️
-
-[Data](articles/f184c2bc.json)
-
-[Extended Data](ext_articles/f184c2bc.ext.json)
 
 ---
 
@@ -2115,5 +2021,81 @@ Discussions focused on challenges in education, health and highways, along with 
 [Data](articles/4b560ba5.json)
 
 [Extended Data](ext_articles/4b560ba5.ext.json)
+
+---
+
+### New think tank SASSRI to boost maritime security and sustainability in South Asia
+
+*2025-09-13 00:41:38* · [`dailyftlk`](https://www.ft.lk/news/New-think-tank-SASSRI-to-boost-maritime-security-and-sustainability-in-South-Asia/56-781635) · `en`
+
+Experts called for interdisciplinary research, strategic thought and collaboration to advance economic, maritime and environmental security of region
+
+Gateway House Professorial Fellow and Overseas Development Institute (ODI) Visiting Senior Fellow
+
+IRO Director and KDU Centre for Strategic Assessment Director Dr. Harinda Vidanage
+
+Former Military Adviser to the Indian Prime Minister Lieutenant General (Retd.) Vinod G. Khandare
+
+As part of a growing push for regional collaboration, the South Asia Sustainability and Security Research Institute (SASSRI) was launched in Colombo on Wednesday to advance resilience, sustainability, and cooperation across South Asia.
+
+...
+
+[Data](articles/4c3a815e.json)
+
+[Extended Data](ext_articles/4c3a815e.ext.json)
+
+---
+
+### EU-funded Energy Management Forum sets stage for long-term efficiency in Sri Lankan industry
+
+*2025-09-13 00:28:15* · [`dailyftlk`](https://www.ft.lk/business/EU-funded-Energy-Management-Forum-sets-stage-for-long-term-efficiency-in-Sri-Lankan-industry/34-781622) · `en`
+
+Energy Minister (Eng.) Kumara Jayakody speaks at the opening session of the EnMs Forum 2025
+
+EU Delegation to Sri Lanka and the Maldives Head of Cooperation Dr. Johann Hesse speaks at the opening of the EnMS Forum 2025
+
+Sub-Regional Office in India Director and UNIDO Representative Dr. Cristiano Pasini speaks at the opening of the EnMS Forum 2025
+
+Sri Lanka’s progress towards building a skilled workforce of industrial energy managers took centre stage on 29 August, as more than 200 industry leaders, government officials and representatives from the international community participated in the Energy Management Systems Forum 2025.
+
+...
+
+[Data](articles/ea45bf4e.json)
+
+[Extended Data](ext_articles/ea45bf4e.ext.json)
+
+---
+
+### EFL delivers seamless logistics for Richardson Serendib 5 MW solar power plant
+
+*2025-09-13 00:26:26* · [`dailyftlk`](https://www.ft.lk/business/EFL-delivers-seamless-logistics-for-Richardson-Serendib-5-MW-solar-power-plant/34-781621) · `en`
+
+Expo Lanka Freight Ltd., (EFL) Project Division, has been the logistics partner for the Richardson Serendib 5 MW Solar Power Plant in Hiripitiya, Kurunegala, a landmark project that strengthens Sri Lanka’s renewable energy portfolio. This project falls under the category of establishing a renewable energy generation facility with an installed capacity of 5 MW, which exceeds 1 MW, thereby meeting the minimum power generation capacity requirements specified in Gazette Notification No. 2083/33 dated 10 Aug 2018. This compliance also made the project eligible for the Bonded Warehouse Facility scheme, a critical enabler that ensured smart import handling and an efficient project facilitation process.
+
+...
+
+[Data](articles/f53b38a3.json)
+
+[Extended Data](ext_articles/f53b38a3.ext.json)
+
+---
+
+### Sri Lanka hosts “Ceylon Tea – Finest Evening” to promote trade, tourism, and Ceylon Tea in Thailand
+
+*2025-09-13 00:25:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-Ceylon-Tea-Finest-Evening-to-promote-trade-tourism-and-Ceylon-Tea-in-Thailand/34-781620) · `en`
+
+The Embassy of Sri Lanka in Bangkok concluded a key trade and tourism promotional event titled “Ceylon Tea – Finest Evening” held on 1 September, at Hyatt Regency Hotel, Bangkok.
+
+This flagship initiative was organised with the objective of promoting Sri Lankan tea brand –Ceylon Tea, while also fostering stronger ties in trade and tourism between Sri Lanka and Thailand.
+
+The event brought together distinguished guests from different sectors including, leading Thai tea importers and retailers, representatives from prominent hotel chains and shopping malls, senior officials from the Foreign Affairs Ministry and other Thai Government institutions, Ambassadors and members of diplomatic corps, and members of media.
+
+The evening was graced by former Foreign Affairs Vice Minister Dr. Lalivan Karnchanachari who attended as the Chief Guest.
+
+...
+
+[Data](articles/662293f4.json)
+
+[Extended Data](ext_articles/662293f4.ext.json)
 
 ---

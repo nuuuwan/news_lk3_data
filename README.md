@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 10:54:45**
+As of **2025-09-13 10:07:31**
 
 ## Newspaper Stats
 
-*Scraped **75,706** Articles*
+*Scraped **75,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,143 +16,33 @@ economynextcom | 4,589
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,350
-adaderanalk | 9,727
-tamilmirrorlk | 11,313
-virakesarilk | 12,339
+adalk | 7,349
+adaderanalk | 9,725
+tamilmirrorlk | 11,311
+virakesarilk | 12,335
 adaderanasinhalalk | 13,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,513 (91.8%) of 75,706 articles have been extended.
+69,477 (91.8%) of 75,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### Former chairman of the Wattegama Urban Council and his close friend arrested
-
-*2025-09-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224972) · `ta`
-
-The former chairman of the Wattegama Urban Council and his close friend have been arrested by the police today (13) with two jeep vehicles imported.
-
-Ravindra Kumara, former chairman of the 58 -year -old Vathekama Urban Council and his close friend Lakshitha Manoj, a 38 -year -old businessman, have been arrested, police said.
-
-◼️
-
-[Data](articles/f007d979.json)
-
-[Extended Data](ext_articles/f007d979.ext.json)
-
----
-
-### Bus crash
-
-*2025-09-13 10:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தின-மீது-மோதி-பஸ்-விபத்து/175-364494) · `ta`
-
-A bus crashed on Saturday morning (13) in the Moratuwa - Ravadawatte area, police said.
-
-The accident occurred when the bus crashed into a tree and then turned to the left of the road with an iron rod in front.
-
-Police are conducting further investigations as no one has been injured in the accident.. . Remble
-
-◼️
-
-[Data](articles/31b353e9.json)
-
-[Extended Data](ext_articles/31b353e9.ext.json)
-
----
-
-### Arrested with Becko Saman's colleague
-
-*2025-09-13 09:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெக்கோ-சமனின்-சகா-துப்பாக்கியுடன்-கைது/175-364493) · `ta`
-
-A close associate of Becko Saman, an organized culprit, has been arrested in the Embilipitiya area with a gun.
-
-Police said the suspect was arrested in the Gangayaya area of ​​Embilipitiya with a T-81 rifle, 97 bullets, 2 megacins and a military uniform.
-
-The suspect was arrested on the basis of information revealed during investigations conducted by the Western Province Northern Criminal Division officials. Remble
-
-◼️
-
-[Data](articles/9cf7a98a.json)
-
-[Extended Data](ext_articles/9cf7a98a.ext.json)
-
----
-
-### Former president and businessman arrested for the Wattegama Urban Council
+### නීතිවිරෝධී ජීප් රථ 2ක් සමග දේශපාලනඥයෙක් සහ ව්‍යාපාරිකයෙක් අත්අඩංගුවට
 
 *2025-09-13 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214511) · `si`
 
-Police have arrested the former chairman of the Wattegama Urban Council and two of his close association with two jeeps.
+වත්තේගම නගර සභාවේ හිටපු සභාපති සහ ඔහුගේ සමීපතමයෙකු නීතිවිරෝධීව ආනයනය කළ ජීප් රථ 2ක් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-Police said that the 58-year-old former Chairman and 38-year-old businessman named Ravindra Kumara were arrested.
+පොලීසිය සඳහන් කළේ රවින්ද්‍ර කුමාර නම් 58 හැවිරිදි හිටපු සභාපතිවරයා සහ ලක්ෂිත මනෝජ් නමැති 38 හැවිරිදි ව්‍යාපාරිකයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බවය.
 
 ◼️
 
 [Data](articles/5186931d.json)
-
-[Extended Data](ext_articles/5186931d.ext.json)
-
----
-
-### Israeli attack echo: Qatar meets US President Trump
-
-*2025-09-13 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224964) · `ta`
-
-Qatar Prime Minister Sheikh Muhammad bin Abdulrahman al -Thani met with US President Donald Trump in New York, aimed at an attack on the Hamas Organization in Qatar's capital, Doha.
-
-The Israeli attack launched a Hamas meeting in Doha to discuss the new agreement proposed by US President Trump.
-
-The US expressed concern that the attack would affect negotiations to end the ceasefire in Gaza. Earlier this week, the United States was usually in favor of Israel, but joined other countries to condemn Israel's attacks on Qatar at the United Nations Security Council.
-
-President Trump is dissatisfied with Israel's attack on Doha. It is said that he expressed his anger in a telephone conversation with Israeli Prime Minister Benjamin Netanyahu and assured Qatar that such attacks would not take place again.
-
-...
-
-[Data](articles/564731b6.json)
-
-[Extended Data](ext_articles/564731b6.ext.json)
-
----
-
-### Arrested by Becko Saman's assistant
-
-*2025-09-13 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224966) · `ta`
-
-Police have arrested a person with 56 rifles, 2 megacins, 98 bullets and uniforms.
-
-The suspect has been arrested in the Gangeyaaya area in Embilipitiya, police media unit said.
-
-◼️
-
-[Data](articles/efe3c62e.json)
-
-[Extended Data](ext_articles/efe3c62e.ext.json)
-
----
-
-### AI Minister in Albania to fight corruption for the first time in the world
-
-*2025-09-13 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224965) · `ta`
-
-Albania, the Balkan country, which is actively trying to internet the EU, has appointed a minister created by artificial intelligence (AI) technology for the first time in the world to eradicate corruption in its government.
-
-The name of this digital minister Diella (Diella). This means “sun” in Albanian language. Albanian Prime Minister Eddie Rama introduced Diella as "a Cabinet Member". Diella's main task is to ensure that public tenders are 100 % without corruption.
-
-In Albania with a population of 2.8 million, the provision of government contracts has long been a major source of corruption. The scandal has been a major obstacle for Albania's efforts to join the EU.
-
-PM Rama's Socialist Party has come to power for the fourth time. The party has said that by 2027, Albania could be incorporated into the EU within five years after completing talks with the EU.
-
-...
-
-[Data](articles/18ae24d5.json)
-
-[Extended Data](ext_articles/18ae24d5.ext.json)
 
 ---
 
@@ -173,44 +63,6 @@ The suspect has been arrested following the details of the Western Province offi
 [Data](articles/c72be160.json)
 
 [Extended Data](ext_articles/c72be160.ext.json)
-
----
-
-### Accomplice of ‘Backhoe Saman’ arrested with firearm and ammunition
-
-*2025-09-13 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112453/accomplice-of-backhoe-saman-arrested-with-firearm-and-ammunition-) · `en`
-
-Police have arrested an accomplice of the underworld figure known as ‘Backhoe Saman’ in Gangeyaya, Embilipitiya.
-
-Police Spokesman stated that the suspect was arrested along with a T-81 firearm, 97 rounds of ammunition, two magazines, and an army-type camouflage uniform.
-
-The arrest was made following information obtained during investigations conducted by officers of the Western Province North Range Crimes Division.
-
-Backhoe Saman, an organized criminal, is currently in custody and being questioned by authorities.
-
-◼️
-
-[Data](articles/d9377902.json)
-
----
-
-### Deputy Minister clarifies provisions of Gaming Regulatory Authority Act
-
-*2025-09-13 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112452/deputy-minister-clarifies-provisions-of-gaming-regulatory-authority-act) · `en`
-
-The Gaming Regulatory Authority Act will provide the necessary powers to establish an authority to regulate gaming activities in Sri Lanka, Deputy Minister of Economic Development Dr. Anil Jayantha Fernando stated.
-
-The Deputy Minister made these remarks while delivering a special explanation on the Act.
-
-He noted that the legislation empowers the Authority to examine the potential adverse impacts of gaming on society and to issue appropriate regulations in response.
-
-Dr. Fernando emphasized that the primary purpose of the Act is to consolidate all existing laws related to gambling under a single framework and to establish an independent regulatory authority.
-
-“This does not mean that the Authority will issue additional licenses for casinos or gambling establishments. The focus is on regulation. That regulation will define which gambling activities are permitted, the restrictions that apply, and matters such as the revocation or cancellation of licenses,” he clarified.
-
-...
-
-[Data](articles/2c1f38df.json)
 
 ---
 
@@ -381,22 +233,6 @@ The departmental chiefs spoke to the president on the problems that are currentl
 [Data](articles/19b57875.json)
 
 [Extended Data](ext_articles/19b57875.ext.json)
-
----
-
-### සහස්පුර වෙඩික්කරු යුධ හමුදාවෙන් පළා ගිය සෙබලෙක්
-
-*2025-09-13 07:21:56* · [`adalk`](https://www.ada.lk/breaking_news/සහස්පුර-වෙඩික්කරු-යුධ-හමුදාවෙන්-පළා-ගිය-සෙබලෙක්/11-418468) · `si`
-
-2025.08.07 වන දින බොරැල්ල පොලිස් වසමේ සහස්පුර සිරිසරඋයන ක්‍රිඩාංගණයේදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කර තවත් පුද්ගලයින් තිදෙනෙකු තුවාල සිදුකිරීමේ අපරාධය සම්බන්ධයෙන්  ජයවර්ධනපුර පොලිස් විශේෂ කාර්ය බලකා විශේෂ වැටලීම් ඒකකය මඟින් විමර්ශන ආරම්භ කර තිබුණි.
-
-ඒ අනුව 2025.09.12 වන දින දහවල් කාලයේ එම ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් දමන පොලිස් වසමේදී මෙම අපරාධයේ වෙඩික්කරු බවට සැකකරන පුද්ගලයෙකු අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10 මිලිග්‍රෑම් 710 ක් හා යතුරුපැදියක් සමඟ අත්අඩංගුවට ගෙන දමන පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත‍ෙ
-
-සැකකරු වයස අවුරුදු 34 ක් වන දමන, අම්පාර ප්‍රදේශයේ පදිංචිකරුවෙකි.සැකකරු මීට පෙර ශ්‍රී ලංකා යුධ හමුදාවේ රාජකාරි කර 2015 වර්ෂයේ යුධ හමුදාවෙන් පලාගොස් ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත. දමන පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/301ceaa5.json)
 
 ---
 
@@ -2025,5 +1861,179 @@ A bond maturing on 01.10.2032 closed at 10.40/46 percent. (Colombo/Sep12/2025)
 [Data](articles/2709b8a8.json)
 
 [Extended Data](ext_articles/2709b8a8.ext.json)
+
+---
+
+### Albania’s leader says his new Cabinet includes an AI ‘minister’ to fight corruption
+
+*2025-09-12 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112440/albanias-leader-says-his-new-cabinet-includes-an-ai-minister-to-fight-corruption) · `en`
+
+Albania’s leader said Friday his new cabinet will include an artificial intelligence “minister” that will be in charge of running public funding projects and fighting corruption in public tenders.
+
+Prime Minister Edi Rama said Diella, whose name means “Sun” in Albanian, is a “member of the Cabinet who is not present physically but has been created virtually from artificial intelligence.”
+
+Rama said Diella would help ensure that “public tenders will be 100% free of corruption.”
+
+Diella was launched earlier this year as a virtual assistant on the e-Albania public service platform, where she helps users navigate the site while wearing traditional Albanian folk costume.
+
+Rama’s Socialist Party secured a fourth consecutive term after winning 83 of the 140 Assembly seats in the May 11 parliamentary elections. The party can govern alone and pass most legislation, but it needs a two-thirds majority, or 93 seats, to change the Constitution.
+
+...
+
+[Data](articles/38a1cc5c.json)
+
+[Extended Data](ext_articles/38a1cc5c.ext.json)
+
+---
+
+### Indicator to Ramitha
+
+*2025-09-12 16:44:26* · [`adalk`](https://www.ada.lk/breaking_news/රමිතට-අධිචෝදනා/11-418458) · `si`
+
+The Bribery Commission has been indicted against the son of former Minister Keheliya Rambukwella, the son of former Minister Keheliya Rambukwella about the failure of over Rs 27 million.
+
+The case was presented in the Colombo High Court under the Anti-Corruption Act against the Corruption Act of former Minister Keheliya Rambukwella.
+
+◼️
+
+[Data](articles/141e405a.json)
+
+[Extended Data](ext_articles/141e405a.ext.json)
+
+---
+
+### Floods in Indonesia
+
+*2025-09-12 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214487) · `si`
+
+Floods have risen to 16 people with the floods with bad weather conditions affected by the Bali Islands in Indonesia.
+
+Foreign media reports that two others have disappeared and the disappeared disappeared and the operations have commenced.
+
+The disaster management divisions have also taken steps to send 562 persons affected by disasters to safety places.
+
+The Indonesian weather sects have been notified to be aware of the rainy season.
+
+◼️
+
+[Data](articles/fc1462fa.json)
+
+[Extended Data](ext_articles/fc1462fa.ext.json)
+
+---
+
+### I'm headed by the law and only in the face of my people.
+
+*2025-09-12 16:36:03* · [`adalk`](https://www.ada.lk/breaking_news/මා-හිස-නමන්නේ-නීතිය-ඉදිරියේ-සහ-මගේ-ජනතාව-හමුවේ-පමණි-/11-418457) · `si`
+
+Former President Mahinda Rajapaksa says that he is heading only before the law and the people.. Today he has placed this note in his Facebook.
+
+The Wijerama, who was introduced to the new legal status of the President's Title Removal Bill, was legal to the new legal status of the Parliament yesterday morning, after the passage of a new legal situation in parliament yesterday afternoon.. Before some of this, I saw various commands on the media to leave the Wijerama official residence.
+
+I had no need to obey the publications before the media to cover up their inability to cover up their inability to cover up their inability. But after 24 hours, I left Wijerama home with 24 hours with the passing of new rules. That is because we should respect the law. I am the head that I bow down only before the law and my people.
+
+...
+
+[Data](articles/07222343.json)
+
+[Extended Data](ext_articles/07222343.ext.json)
+
+---
+
+### Sri Lanka makes big jump in Global Democracy Rankings
+
+*2025-09-12 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112439/sri-lanka-makes-big-jump-in-global-democracy-rankings) · `en`
+
+Sri Lanka has moved up 15 places in the 2025 Global Democracy Index compared to the previous year, according to the latest report by an intergovernmental democracy watchdog.
+
+The Global State of Democracy 2025, published by the Stockholm-based International Institute for Democracy and Electoral Assistance (IDEA), has analyzed democratic performance in 173 countries in 2024.
+
+Sri Lanka is ranked 58th in this year’s report with a score of 0.655 having jumped up 15 places from the previous year with only Botswana (20) and Mauritius (23) having made higher gains in the year-on-year rankings.
+
+“Sri Lanka performs in the mid-range across all four categories of the Global State of Democracy Framework and is among the top 25 per cent of countries in the world regarding several factors, including Civic Engagement and Electoral Participation,” the report said.
+
+...
+
+[Data](articles/69938429.json)
+
+[Extended Data](ext_articles/69938429.ext.json)
+
+---
+
+### Elderly death
+
+*2025-09-12 16:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-வயோதிபர்-மரணம்/175-364470) · `ta`
+
+காலியில் மெதம்பாகம பிரதேசத்தில் உள்ள ரயில் கடவையில் நேற்று மாலை ரயிலில் மோதி வயோதிபர் உயிரிழந்துள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
+
+The deceased is 68 years old from Galle - Pusa, police said.
+
+◼️
+
+[Data](articles/d0c8708d.json)
+
+[Extended Data](ext_articles/d0c8708d.ext.json)
+
+---
+
+### A three-wheeler accident where eight
+
+*2025-09-12 16:19:15* · [`adalk`](https://www.ada.lk/breaking_news/අට-දෙනෙක්-ගමන්-කළ-ත්‍රීරෝද-රථ-අනතුරක/11-418456) · `si`
+
+A three-wheeler transport and a car transported by the Norwood main road, a schoolgirl and a schoolgirl and the driver of the three-wheeler hospital.
+
+The accident occurred today (12th), Hatton Norwood main road is in Neaweiwela,
+
+The accident had occurred from a car from Diyasiri Tamil Maha Vidyalaya to the Norwood Tamil Vidyalaya, where school children were transporting school children from Diyasiyig Tamil Maha Vidyalaya this morning.
+
+There were six schools with six schools and a teacher in the three-wheeler at the time of the accident.
+
+Norwood police said that over the three-wheeler were driven by over the three-wheeler, the Norwood police are conducting further investigations.
+
+◼️
+
+[Data](articles/55a3aa44.json)
+
+[Extended Data](ext_articles/55a3aa44.ext.json)
+
+---
+
+### Apart of Katunayake Air Force
+
+*2025-09-12 16:13:56* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ගුවනින්-ආපු-සර්පයෝ/11-418455) · `si`
+
+The Katunayaka passenger woman who has been taken to the "Green Mawatha" (GREEN PAINNELL), the Katunayaka Mawatha, which is not told by the "Green Channel '(GREEN AIRMA) has been sent to the" Green Channel ". Arrested on intelligence information.
+
+She is a 40 year old businessman residing in Keselwatta, Colombo. She had arrived at Thailand in Thailand and arrived at Chennai in Thailand and arrived at the Katunayake Airport on N.- 1173.
+
+The woman brought mettic in two baggage she had brought. Happened.
+
+When she became a large bodied snakes, they would be impossible to release them to forest areas, as they were to sell these snakes, as they were to keep their homes in their homes.
+
+In a plane, such living animals have been illegally and dangerous to the Customs Premise, customs officially ordered to take back these snakes after Customs Investigations.
+
+...
+
+[Data](articles/df2b6032.json)
+
+[Extended Data](ext_articles/df2b6032.ext.json)
+
+---
+
+### Indictments served on Ramith Rambukwella
+
+*2025-09-12 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112438/indictments-served-on-ramith-rambukwella) · `en`
+
+The Bribery Commission has filed indictments before the Colombo High Court against Ramith Rambukwella, son of former Minister Keheliya Rambukwella, for failing to disclose the source of allegedly illegally acquired assets valued at over Rs. 270 million.
+
+The case, filed under the Anti-Corruption Act, charges the accused—who also served as the private secretary to former Minister Keheliya Rambukwella—with failing to disclose how he acquired cash and properties amounting to Rs. 275,302,616.06 out of the assets and properties amounting to Rs. 296,566,444.76 acquired by him between January 1, 2022, and November 14, 2023.
+
+According to the charge sheet, the assets allegedly acquired illegally include two residences at a luxury apartment complex on Dharmapala Mawatha, Colombo 07, valued at Rs. 80 million and Rs. 65 million respectively, four bank accounts under the defendant’s name, four bank accounts belonging to his wife, and a Land Rover Discovery valued at over Rs. 18 million.
+
+◼️
+
+[Data](articles/820402ec.json)
+
+[Extended Data](ext_articles/820402ec.ext.json)
 
 ---

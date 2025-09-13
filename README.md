@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 22:52:52**
+As of **2025-09-13 23:56:24**
 
 ## Newspaper Stats
 
-*Scraped **75,780** Articles*
+*Scraped **75,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 7,358
 adaderanalk | 9,738
 tamilmirrorlk | 11,323
 virakesarilk | 12,351
-adaderanasinhalalk | 13,219
+adaderanasinhalalk | 13,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,152 (92.6%) of 75,780 articles have been extended.
+70,205 (92.6%) of 75,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### ශ්‍රී ලංකාවට සුපිරි ජයක්
+
+*2025-09-13 23:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214540) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැති තරගයෙන් ශ්‍රී ලංකා කණ්ඩායම කඩුලු 06 ක පහසු ජයක් ලැබීමට සමත් විය.
+
+අබුඩාබිහිදි පැවැති මෙම තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායකයා පළමුවෙන් පන්දුවට පහරදීමට බංග්ලාදේශය කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පිටියට පිවිසි බංග්ලාදේශ පිලේ පළමු කඩුල්ල පළමුපන්දුවාරයේදීම දවා ගැනීමට නුවන් තුෂාර සමත්වුණි.
+
+අනතුරුව ක්‍රියාත්මක වූ දුෂ්මන්ත චමීර දෙවන පන්දුවාරයේදී හොසේන් එමොන් දවා ගත්තේ බංග්ලාදේශය අසරණ කරමින්ය.
+
+කමිල් මිෂාරගේ සුපිරි පන්දුරැකීම හමුවේ තවත් එක් කඩුල්ලක් බිඳ වැටුණු අතර වනිඳු හසරංග ලිටන් දාස් සහ මෙහෙදි හසන්ගේ කඩුලු දවාගනිමින් බංග්ලදේශය අසීරු අඩියකට ඇද දැමුවේය.
+
+බංග්ලාදේශ පිලේ මුල් කඩුලු 5 ලකුණු 53ක් තුළ බිඳ වැටුණද ජේකර් අලි සහ සමීම් හොසේන් බංග්ලාදේශ ඉනිම ගෞරවාන්විත ලකුණු සංඛ්‍යාවක් කරා රැගෙන ගියේය.
+
+ඒ අනුව බංග්ලදේශ කණ්ඩායම නියමිත පන්දුවාර 20දී කඩුලු 5ක් දැවී ලකුණු 139ක් රැස් කිරීමට සමත්වුණි.
+
+...
+
+[Data](articles/038b0274.json)
+
+---
 
 ### 22 killed in air attack on West Myanmar
 
@@ -542,7 +566,7 @@ The Deputy Minister’s statement comes in the wake of Israel’s deadly strike 
 
 ---
 
-### Sri Lanka, Philippines hold 3rd political consultations, eye closer ties in trade, labour, fisheries
+### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
 
 *2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-hold-3rd-political-consultations-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
 
@@ -2105,25 +2129,5 @@ Meanwhile, reports say that the Cabinet of Cabinet is to be sworn in today (13).
 [Data](articles/40c3f4bc.json)
 
 [Extended Data](ext_articles/40c3f4bc.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2025-09-13 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214503) · `si`
-
-Showers will occur in the Western and Sabaragamuwa provinces today (13) and several times in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The department was released in the latest announcement this morning.
-
-Showers or thundershowers will occur at several places in the Eastern and Uva provinces.
-
-The public requests the public to take steps to reduce the damages caused by temporary winds and lightning
-
-◼️
-
-[Data](articles/4e249804.json)
-
-[Extended Data](ext_articles/4e249804.ext.json)
 
 ---

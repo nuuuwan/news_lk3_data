@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 19:53:24**
+As of **2025-09-13 20:37:05**
 
 ## Newspaper Stats
 
-*Scraped **75,767** Articles*
+*Scraped **75,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,357
+adalk | 7,358
 adaderanalk | 9,735
 tamilmirrorlk | 11,320
 virakesarilk | 12,350
@@ -26,51 +26,57 @@ adaderanasinhalalk | 13,214
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,022 (92.4%) of 75,767 articles have been extended.
+70,067 (92.5%) of 75,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2025-09-13 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214534) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනා ගැනීමට  ශ්‍රී ලංකා කණ්ඩායම සමත් වුණා.
+Sri Lanka won the toss and win the coin between Sri Lanka and Bangladesh in the Asia Cup T20 cricket tournament today (13).
 
-'B' කණ්ඩයේ තරගයක් ලෙසින් අබුඩාබිහිදී පැවැත්වෙන මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු තරගය ද මෙය වේ.
+Accordingly, the Sri Lankan team first invited Bangladesh to bat.
 
-ශ්‍රී ලංකාව හා බංග්ලාදේශ එක්සත් අරාබි එමීර් රාජ්‍යයේ දී විස්සයි20 තරගයකදී මුණගැසෙන තෙවන අවස්ථාව ද මෙයයි.
+This is the first match of the Sri Lankan team in Abuvenabiu as a 'B' match.
 
-පෙර පැවැති තරග දෙක සාජා හා ඩුබායි හිදී පැවති අතර, එම තරග දෙකම ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව ඇත.
+This is also the third time in Sri Lanka and Bangladesh United Arabian Emirates.
 
-ඒ අනුව ඔවුනොවුන් අබුඩාබි හිදී විස්සයි20 ක්‍රිකට් තරගයකදී මුහුණට මුහුණ හමුවන පළමු අවස්ථාව ද මෙය වේ.
+Sri Lanka team has won both matches in Sharjah and Dubai.
 
-මෙම තරගාවලිය යටතේ බංග්ලාදේශය ක්‍රීඩාකළ පළමු තරගයෙන් හොංකොං කණ්ඩායම කඩුලු 7කින් පරාජය කිරීමට සමත් වූ අතර, ඒ සමග ඔවුන් 'B' කණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ දෙවන ස්ථානයේ රැඳී සිටී.
+This is the first time in Abu Dhabi, a Twenty20 cricket match.
 
-ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය චරිත් හසලංක විසින්ද, බංග්ලාදේශ නායකත්වය ලින්ටන් දාස් විසින් ද දරන ලබයි.
+Hong Kong defeated the Hong Kong by 7 wickets in the first match of Bangladesh in this tournament.
+
+Charith Belivery, the captaincy of the Sri Lankan team, bear the Bangladesh leadership by Linton HS.
 
 ◼️
 
 [Data](articles/ea13e063.json)
 
+[Extended Data](ext_articles/ea13e063.ext.json)
+
 ---
 
-### மியன்மாரில் மேலும் 13 இலங்கையர்கள் தடுத்து வைப்பு
+### 13 more Sri Lankans detained in Myanmar
 
 *2025-09-13 19:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-மேலும்-13-இலங்கையர்கள்-தடுத்து-வைப்பு/175-364504) · `ta`
 
-மியன்மாரின் சைபர் கிரைம் மோசடி முகாம்களில் மேலும் 13 இலங்கையர்கள் தடுத்து வைக்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Foreign Ministry has said that 13 more Sri Lankans have been detained in Myanmar's cybercrime scam camps.
 
-மியன்மாரில் மியாவாடி பகுதியில் உள்ள இந்த சைபர் கிரைம் மோசடி முகாம்கள் தீவிரவாதிகளால் இயங்கி வருகின்றன.
+These cybercrime scam camps in Miyawadi area in Myanmar are operating by extremists.
 
-சுற்றுலா விசாவில் மியன்மாருக்க சென்ற இலங்கையர்களே இவ்வாறு சைபர் கிரைம் மோசடி முகாம்களில் தடுத்து வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+It is reported that Sri Lankans who went to Myanmaru on a tourist visa have been detained in cybercrime scam camps.
 
-இவர்களை மீண்டும் அழைத்துவர நடவடிக்கை எடுக்கப்பட்டு வருவதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+The Ministry of External Affairs has said that steps are being taken to bring them back. Remble
 
 ◼️
 
 [Data](articles/ee9f8efd.json)
+
+[Extended Data](ext_articles/ee9f8efd.ext.json)
 
 ---
 
@@ -99,6 +105,22 @@ Investigations have also been found in the possession of the Ice narcotics at th
 [Data](articles/ba397e41.json)
 
 [Extended Data](ext_articles/ba397e41.ext.json)
+
+---
+
+### රත්කිඳ ජලාශයේ වාන් දොරටු තුනක් විවෘත කරයි
+
+*2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
+
+උල්හිටිය රත්කිද ජලාශයේ වාන් ගේට්ටු තුනක් අද (13) පස්වරුවේ විවෘත කල බව මාපාකඩ කාර්යභාර ඉංජිනේරු තිස්ස රාජරත්න මහතා පවසයි .
+
+උල්හිටිය රත්කිද ජලාශයේ එක් වාන් ගේට්ටුවක් 0.3 මීටර් බැගින් ද, අනෙක් වාන් ගේට්ටු දෙක 0.2 මීටර් බැගින් ද විවෘත කර තිබෙන බවත් හෙතෙම කීය . මේනිසාවෙන් ජනතාවට අවධානයෙන් සිටින ලෙසට දැනුම් දෙයි .
+
+2025 යල කන්නයට මහවැලි සී කලාපය සදහා අවශ්‍ය වාරි ජලය නිකුත් කිරිම අවසන් වී ඇති බවත් ජලාශයේ අත්‍යාවශ්‍ය හදිසි නඩත්තු කටයුත්තක් සදානා ජලමට්ටම අඩු කර ගැනීම නිසාවෙන් මෙසේ වාන් ගේට්ටු විවෘත කල බව ත්, මින් ගිරාදුරුකෝට්ට රත්කිද මාර්ගයයේ  කෝසුව භාවිතා කිරිමට බාධාවක් නොවන බවද එහි කාර්යභාර නිළධාරි දීප්ත ජයසේකර මහතා සදහන් කලේය .
+
+◼️
+
+[Data](articles/16756fa8.json)
 
 ---
 
@@ -2095,25 +2117,5 @@ The President emphasised that the culture of using Provincial institutions merel
 [Data](articles/0368f172.json)
 
 [Extended Data](ext_articles/0368f172.ext.json)
-
----
-
-### No more special offices for foreign funded development projects
-
-*2025-09-13 00:41:51* · [`dailyftlk`](https://www.ft.lk/news/No-more-special-offices-for-foreign-funded-development-projects/56-781636) · `en`
-
-President Anura Kumara Disanayake has given instructions to discontinue the practice of establishing special offices for foreign-funded development projects, the President’s Media Division said.
-
-Meeting with Provincial Governors and Chief Ministers ahead of the 2026 Budget, the President instructed Provincial Governors and Secretaries that projects funded through foreign loans and aid should not be carried out through special project offices that require large administrative expenditures.
-
-Instead, they should be implemented within the existing administrative structure, completed within the stipulated timeframes and the benefits delivered directly to the people, the PMD said.
-
-Discussions focused on challenges in education, health and highways, along with possible solutions and proposals.
-
-◼️
-
-[Data](articles/4b560ba5.json)
-
-[Extended Data](ext_articles/4b560ba5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 14:54:29**
+As of **2025-09-13 14:20:25**
 
 ## Newspaper Stats
 
-*Scraped **75,730** Articles*
+*Scraped **75,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,35 @@ economynextcom | 4,592
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,354
+adalk | 7,353
 adaderanalk | 9,732
 tamilmirrorlk | 11,315
 virakesarilk | 12,341
-adaderanasinhalalk | 13,200
+adaderanasinhalalk | 13,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,684 (92.0%) of 75,730 articles have been extended.
+69,670 (92.0%) of 75,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### Israeli - a new proposal for the Palestinian problem
-
-*2025-09-13 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214520) · `si`
-
-Israeli-Palestinian problem for the Palestinian problem was passed yesterday at the United Nations General Assembly.
-
-There were 142 countries in favor and 10 countries were against the opposition and 12 countries.
-
-The US and Israel are among countries that voted against the proposal.
-
-The proposal was passed yesterday, as a result of Saudi Arabia and France, the United Nations International Conference last July.
-
-It is noteworthy that a number of countries including France, Canada, Britain, and Australia to accept the Palestine as a legitimate state during the 21st of the second term of September.
-
-In the meantime, Israel says this proposal is passed in the United Nations General Assembly.
-
-◼️
-
-[Data](articles/57a2b22f.json)
-
-[Extended Data](ext_articles/57a2b22f.ext.json)
-
----
-
-### President congratulates Nepal interim prime minister
+### நேபாள இடைக்கால பிரதமருக்கு  ஜனாதிபதி வாழ்த்து
 
 *2025-09-13 14:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாள-இடைக்கால-பிரதமருக்கு-ஜனாதிபதி-வாழ்த்து/175-364499) · `ta`
 
 நேபாளத்தின் இடைக்கால அரசாங்கத்தின் புதிய பிரதமராக நியமிக்கப்பட்டுள்ள சுசீலா கார்க்கிக்கு ஜனாதிபதி அநுர குமார திசாநாயக்க வாழ்த்து தெரிவித்துள்ளார்.
 
-“I convey my heartfelt congratulations to Susila Karki as the Prime Minister of Nepal. We fully believe that his leadership will lead Nepal to peace and democracy, ”the president posted.
+"சுசீலா கார்க்கி அவர்கள் நேபாளத்தின் பிரதமராகப் பொறுப்பேற்றதற்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன். அவரது தலைமை, நேபாளத்தை அமைதி மற்றும் ஜனநாயகத்திற்கு இட்டுச்செல்லும் என நாங்கள் முழுமையாக நம்புகிறோம்," என்று ஜனாதிபதி  பதிவிட்டுள்ளார்.
 
-Following the popular protests in Nepal on September 8, the former Prime Minister of the country KP. Sharma Sound -led government collapsed. At least 51 people died in people's struggles. Remble
+கடந்த செப்டம்பர் 8-ஆம் திகதி நேபாளத்தில் இடம்பெற்ற மக்கள் போராட்டங்களைத் தொடர்ந்து, அந்நாட்டின் முன்னாள் பிரதமர் கே.பி. ஷர்மா ஒலி தலைமையிலான அரசு கவிழ்ந்தது. மக்கள் போராட்டங்களில் குறைந்தது 51 பேர் உயிரிழந்தனர். R
 
 ◼️
 
 [Data](articles/bdbf3e30.json)
-
-[Extended Data](ext_articles/bdbf3e30.ext.json)
 
 ---
 
@@ -93,8 +67,6 @@ Sri Lanka’s deflationary policies have helped to see inflows amid curtailed im
 ...
 
 [Data](articles/a459015c.json)
-
-[Extended Data](ext_articles/a459015c.ext.json)
 
 ---
 
@@ -685,22 +657,6 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 [Data](articles/2c418401.json)
 
 [Extended Data](ext_articles/2c418401.ext.json)
-
----
-
-### අල්ලස් කොමිෂමේ අයවැයට රජයේ මුදල් කාරක සභාවේ අනුමතිය
-
-*2025-09-13 08:15:32* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමේ-අයවැයට-රජයේ-මුදල්-කාරක-සභාවේ-අනුමතිය/11-418472) · `si`
-
-අල්ලස් හා දූෂණ විමර්ශන කොමිෂන් සභාවේ 2026 වර්ෂය සඳහා වූ අයවැය ඇස්තමේන්තුවට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමි විය.
-
-මේ සඳහා අනුමතිය හිමි වූයේ රජයේ මුදල් පිළිබඳ කාරක සභාව ගරු පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ සභාපතිත්වයෙන් පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-මෙහිදී කාරක සභාවේ සභාපතිවරයා පෙන්වා දුන්නේ ශ්‍රී ලංකා මහ බැංකුවට මූල්‍යමය ස්වාධීනත්වයක් පවතින බවත් එම ආයතන මෙන් අල්ලස් හා දූෂණ විමර්ශන කොමිෂන් සභාවටත්, විගණකාධිපති දෙපාර්තමේන්තුවටත් වඩාත් ස්වාධීනව කටයුතු කිරීම සඳහා මූල්‍ය ස්වාධීනත්වයක් ලබාදීම වැදගත් බවයි. එමගින් පවතින දේශපාලන අධිකාරියෙන් බැහැරව ඕනෑම රජයක් යටතේ වඩාත් ස්වාධීනව කටයුතු කිරීමට එම ආයතන වලට හැකි බවද ඒ මහතා වැඩි දුරටත් පැවසීය. මේ නිසා මේ සම්බන්ධයෙන් මුදල් අමාත්‍යවරයා වන ජනාධිපතිවරයා දැනුවත් කිරීමට කාරක සභාව තීරණය කිරීමද මෙහිදී සිදු විය.
-
-...
-
-[Data](articles/1a8b8856.json)
 
 ---
 
@@ -2061,5 +2017,47 @@ However, the cause of the accident is yet to be revealed.
 [Data](articles/1d0fd3d6.json)
 
 [Extended Data](ext_articles/1d0fd3d6.ext.json)
+
+---
+
+### Trump says suspect in Charlie Kirk murder in custody
+
+*2025-09-12 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112442/trump-says-suspect-in-charlie-kirk-murder-in-custody) · `en`
+
+A suspect in the fatal shooting of conservative activist Charlie Kirk at a Utah university has been taken into custody, U.S. President Donald Trump said on Friday, ending an intense manhunt that followed what Trump described as a “heinous assassination.”
+
+Kirk’s killer had eluded police and federal agents for more than 24 hours after Wednesday’s shooting, in which a sniper fired a single gunshot that killed Kirk, 31, during an appearance at Utah Valley University in Orem.
+
+“I think we have him,” Trump told the “Fox and Friends” show in an interview, adding that a person who knows the suspect had turned him in. “I think with a high degree of certainty we have him in custody.”
+
+Trump did not share the suspect’s identity. Investigators were due to brief journalists later on Friday.
+
+The suspect was in the custody of Utah state law enforcement, a person familiar with the investigation said, asking for anonymity.
+
+...
+
+[Data](articles/ce5afe3d.json)
+
+[Extended Data](ext_articles/ce5afe3d.ext.json)
+
+---
+
+### The date for the annual celebration of the UNP was marked
+
+*2025-09-12 18:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-ஆண்டு-விழாவுக்கு-திகதி-குறிக்கப்பட்டது/175-364472) · `ta`
+
+The 79th anniversary of the United National Party is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on the 20th.
+
+The meeting was held yesterday under the leadership of UNP leader and former president Ranil Wickremesinghe.
+
+While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
+
+Accordingly, the postponement of the United National Party (UNP) is scheduled to be held on the 20th of this month.. Remble
+
+◼️
+
+[Data](articles/326b66cc.json)
+
+[Extended Data](ext_articles/326b66cc.ext.json)
 
 ---

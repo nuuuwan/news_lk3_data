@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 10:54:45**
+As of **2025-09-13 11:20:13**
 
 ## Newspaper Stats
 
-*Scraped **75,706** Articles*
+*Scraped **75,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,350
-adaderanalk | 9,727
+adaderanalk | 9,729
 tamilmirrorlk | 11,313
-virakesarilk | 12,339
-adaderanasinhalalk | 13,192
+virakesarilk | 12,341
+adaderanasinhalalk | 13,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,513 (91.8%) of 75,706 articles have been extended.
+69,526 (91.8%) of 75,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### Warrants to arrest the Chairman of Weligama Pradeshiya Sabha
+
+*2025-09-13 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214512) · `si`
+
+Matara Chief Magistrate Court has issued warrants to arrest the Chairman of Weligama Pradeshiya Sabha Lasantha Wickremasekara.
+
+The order has been issued when the case was taken up before Matara Chief Magistrate Chathuri Chathuriya yesterday (12).
+
+The order has been issued as a case of death in the National JHD MP's Counterfection Tharaka Nanayakkara threatened death.
+
+At the time of the last local government election, the Weligama Pradeshiya Sabha has filed a case under the Protection of the Victims to the Safety Protection Act.
+
+The Chairman Lasantha Wickremasekara, Chairman Lasigama Pradeshiya Sabha was not appearing in the Matara Magistrate's Court.
+
+However, this warrant has been issued as he did not appear before the court.
+
+◼️
+
+[Data](articles/ecdd725d.json)
+
+[Extended Data](ext_articles/ecdd725d.ext.json)
+
+---
+
+### இந்தியாவிலுள்ள அமெரிக்க, இஸ்ரேலிய தூதரகங்களைத் தாக்க சதி : இலங்கையிலுள்ள பாகிஸ்தான் அதிகாரிக்கு அழைப்பாணை !
+
+*2025-09-13 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224969) · `ta`
+
+இந்தியாவின் சென்னை, பூந்தமல்லியில் உள்ள தேசிய புலனாய்வு முகவரமைப்பு (NIA) சிறப்பு நீதிமன்ற அழைப்பாணையொன்றை இலங்கையிலுள்ள பாகிஸ்தான் தூதரகத்தில் கடமைபுரியும் அதிகாரியொருவருக்கு அனுப்பியுள்ளது.
+
+சென்னையில் உள்ள அமெரிக்கத்தூதரகம் மற்றும்  பெங்களூருவில் உள்ள இஸ்ரேல் தூதரகம் ஆகியவற்றைத் தாக்க சதி செய்ததாகக் குற்றம் சாட்டப்பட்டே குறித்த பாகிஸ்தான் தூதரக அதிகாரிக்கு அழைப்பாணை அனுப்பியுள்ளது.
+
+தற்போது இலங்கையிலுள்ள பாகிஸ்தான் தூதரகத்தில் பணிபுரிந்து வரும் குறித்த அதிகாரி, ஒக்டோபர் மாதம் 15 ஆம் திகதியன்று நீதிமன்றத்தில் ஆஜராகுமாறு உத்தரவிடப்பட்டுள்ளது.
+
+பாகிஸ்தான் அதிகாரி அமீர் சுபைர் சித்திக் (Amir Zubair Siddiqui) என அடையாளம் காணப்பட்டுள்ளார்.
+
+இவர் பாகிஸ்தான் நாட்டின் கராச்சி நகரைச் சேர்ந்தவர் என்றும் தற்போது கொழும்பில் உள்ள பாகிஸ்தான் உயர் ஸ்தானிகராலயத்தில் விசா ஆலோசகராகப் பணிபுரிகிறார் என்றும்  ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+குறித்த நபர் இந்தியாவிற்குள் சதி வேலைகளைச் செய்வதற்காக, இலங்கையைச் சேர்ந்த முகமது சாகிர் ஹுசைன் (Mohammed Sakir Hussain) என்ற நபரை இந்தியாவுக்கு அனுப்பியதாகக் கூறப்படுகிறது.
+
+...
+
+[Data](articles/34b2f76c.json)
+
+---
+
+### பொரளை இரட்டைக் கொலை ; துப்பாக்கிதாரி கைது
+
+*2025-09-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224967) · `ta`
+
+பொரளை பொலிஸ் பிரிவிற்குட்பட்ட சஹஸ்புர சிறிசர உயன மைதானத்தில் இருவரைச் சுட்டுக் கொலைசெய்த சம்பவத்தின் துப்பாக்கிதாரி என சந்தேகிக்கப்படும் நபர் தமன பிரதேசத்தில் வைத்து நேற்று வெள்ளிக்கிழமை (12) பொலிஸ் விசெட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர் 10 கிராம் 710 மில்லிகிராம் ஐஸ் ரக போதைப்பொருள் மற்றும் ஒரு மோட்டார் சைக்கிளுடன் கைது செய்யப்பட்டுள்ளார்.
+
+பொரளை பொலிஸ் பிரிவிற்குட்பட்ட சஹஸ்புர சிறிசர உயன மைதானத்தில் 07.08.2025 அன்று இருவர் சுட்டுக்கொலைசெய்யப்பட்டுள்ளதுடன் மூவர் காயமடைந்துள்ளனர்.
+
+சந்தேக நபர் முன்னர் இலங்கை இராணுவத்தில் பணியாற்றி 2015 ஆம் ஆண்டு இராணுவத்திலிருந்து தப்பி ஓடியவர் என பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/8f27f43e.json)
+
+---
 
 ### Former chairman of the Wattegama Urban Council and his close friend arrested
 
@@ -63,6 +127,44 @@ Police are conducting further investigations as no one has been injured in the a
 [Data](articles/31b353e9.json)
 
 [Extended Data](ext_articles/31b353e9.ext.json)
+
+---
+
+### Magnitude 7.4 earthquake strikes Russia’s Kamchatka, tsunami warning issued
+
+*2025-09-13 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112455/magnitude-74-earthquake-strikes-russias-kamchatka-tsunami-warning-issued) · `en`
+
+A 7.4-magnitude earthquake struck off the coast of Kamchatka in Russia’s Far East on Saturday, the United States Geological Survey (USGS) said.
+
+The quake hit 111 kilometres (69 miles) east of the Russian city of Petropavlovsk-Kamchatsky, the administrative centre of the Kamchatka region, at a depth of 39.5 kilometres, according to the USGS.
+
+The survey earlier gave a magnitude of 7.5 before downgrading it.
+
+The Pacific Tsunami Warning Center said “hazardous” waves of up to one metre (3.3 feet) were possible along some nearby Russian coasts.
+
+Japan, Hawaii and other islands in the Pacific may see waves of less than 30 centimetres, the centre said.
+
+In July, one of the strongest earthquakes ever recorded struck off the Kamchatka peninsula, triggering tsunamis up to four metres high across the Pacific and sparking evacuations from Hawaii to Japan.
+
+The magnitude 8.8 quake was the largest since 2011, when a magnitude 9.1 tremor off Japan caused a tsunami that killed more than 15,000 people.
+
+...
+
+[Data](articles/07469d10.json)
+
+---
+
+### Former Wattegama UC Chairman arrested with illegally imported vehicles
+
+*2025-09-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112454/former-wattegama-uc-chairman-arrested-with-illegally-imported-vehicles-) · `en`
+
+Police have arrested the former Chairman of the Wattegama Urban Council, along with one of his close associates, for the possession of two illegally imported jeep vehicles.
+
+The suspects have been identified as 58-year-old former UC Chairman Ravindra Kumara and 38-year-old businessman Lakshitha Manoj.
+
+◼️
+
+[Data](articles/00b2378b.json)
 
 ---
 
@@ -192,6 +294,8 @@ Backhoe Saman, an organized criminal, is currently in custody and being question
 
 [Data](articles/d9377902.json)
 
+[Extended Data](ext_articles/d9377902.ext.json)
+
 ---
 
 ### Deputy Minister clarifies provisions of Gaming Regulatory Authority Act
@@ -211,6 +315,8 @@ Dr. Fernando emphasized that the primary purpose of the Act is to consolidate al
 ...
 
 [Data](articles/2c1f38df.json)
+
+[Extended Data](ext_articles/2c1f38df.ext.json)
 
 ---
 
@@ -384,19 +490,21 @@ The departmental chiefs spoke to the president on the problems that are currentl
 
 ---
 
-### සහස්පුර වෙඩික්කරු යුධ හමුදාවෙන් පළා ගිය සෙබලෙක්
+### Sahaspura shooter fled by Army
 
 *2025-09-13 07:21:56* · [`adalk`](https://www.ada.lk/breaking_news/සහස්පුර-වෙඩික්කරු-යුධ-හමුදාවෙන්-පළා-ගිය-සෙබලෙක්/11-418468) · `si`
 
-2025.08.07 වන දින බොරැල්ල පොලිස් වසමේ සහස්පුර සිරිසරඋයන ක්‍රිඩාංගණයේදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කර තවත් පුද්ගලයින් තිදෙනෙකු තුවාල සිදුකිරීමේ අපරාධය සම්බන්ධයෙන්  ජයවර්ධනපුර පොලිස් විශේෂ කාර්ය බලකා විශේෂ වැටලීම් ඒකකය මඟින් විමර්ශන ආරම්භ කර තිබුණි.
+The Sri Jayewardenepura Police Special Task Force Special Task Force Special Task Force Sector Special Task Force has commenced regarding the crime of injuring three others at the Borella Police Division.
 
-ඒ අනුව 2025.09.12 වන දින දහවල් කාලයේ එම ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් දමන පොලිස් වසමේදී මෙම අපරාධයේ වෙඩික්කරු බවට සැකකරන පුද්ගලයෙකු අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10 මිලිග්‍රෑම් 710 ක් හා යතුරුපැදියක් සමඟ අත්අඩංගුවට ගෙන දමන පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත‍ෙ
+Accordingly, a person who has been suspected of the shotgun in the unit of the unit at the time of 12.05.2011 was presented to the shot of the crime in the Damana Police Division 10 mg and a motorcycle for a motorcycle.
 
-සැකකරු වයස අවුරුදු 34 ක් වන දමන, අම්පාර ප්‍රදේශයේ පදිංචිකරුවෙකි.සැකකරු මීට පෙර ශ්‍රී ලංකා යුධ හමුදාවේ රාජකාරි කර 2015 වර්ෂයේ යුධ හමුදාවෙන් පලාගොස් ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත. දමන පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+The suspect is a 34 year old resident of Ampara, a 34 year old resident of Ampara.. Damana Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/301ceaa5.json)
+
+[Extended Data](ext_articles/301ceaa5.ext.json)
 
 ---
 
@@ -1921,109 +2029,5 @@ The case will be held regarding the abduction of the party's general secretary t
 [Data](articles/3d994ae5.json)
 
 [Extended Data](ext_articles/3d994ae5.ext.json)
-
----
-
-### Shastened Shaneshendra at an hour 35 times
-
-*2025-09-12 17:00:43* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රට-පැයකට-35-වතාවක්-හුස්ම-හිරවෙනවලු/11-418460) · `si`
-
-Sushaendra Rajapaksa had a breath disease 35 per hour. When the former state minister who was produced before the Colombo Magistrate's Court today, the lawyers had made bail.
-
-However, the suspect has been remanded until the 19th of this month, the Colombo Magistrate Court today (12).
-
-Former State Minister Shashindra Rajapaksa has been arrested by the Bribery Commission under the arrest of Rs.
-
-◼️
-
-[Data](articles/7cd08f79.json)
-
-[Extended Data](ext_articles/7cd08f79.ext.json)
-
----
-
-### A woman who was seriously injured in the tragedy of the falls
-
-*2025-09-12 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214488) · `si`
-
-A woman was injured in the Jaffna Teaching Hospital today (12) was seriously injured in the bus accident on the Ella-Wellawaya main road.
-
-Our correspondent was a 41-year-old Naval Gamage, Tangalle Urban Council.
-
-The number of people have risen to 16 in the accident near Ella-Wellawaya road.
-
-◼️
-
-[Data](articles/166d00ea.json)
-
-[Extended Data](ext_articles/166d00ea.ext.json)
-
----
-
-### Maharaja Foods and SPAR Sri Lanka to set up retail outlets
-
-*2025-09-12 17:00:00* · [`economynextcom`](https://economynext.com/maharaja-foods-and-spar-sri-lanka-to-set-up-retail-outlets-240402/) · `en`
-
-ECONOMYNEXT – Maharaja Foods PLC and SPAR Sri Lanka Pvt Ltd have signed an agreement to establish four new retail outlets in the Colombo region, the company said in a stock exchange filing.
-
-“This collaboration brings together Maharaja Foods PLC’s product expertise and distribution capabilities with SPAR Sri Lanka Pvt Ltd’s international retail standards and operational framework.”
-
-Development activities are expected to commence immediately following the MOU signing, with phased rollouts planned later.
-
-The move is part of the company’s long-term strategy to expand its retail presence, enhance consumer access, and strengthen its position in the FMCG and food retail sector, Maharaja Foods said.
-
-Further updates will be communicated to the Exchange and shareholders as appropriate, Maharaja Foods said. (Colombo/Sep12/2025)
-
-◼️
-
-[Data](articles/ba40ae77.json)
-
-[Extended Data](ext_articles/ba40ae77.ext.json)
-
----
-
-### Kopy Chairman Kabir Hashim
-
-*2025-09-12 16:51:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-සභාපති-කබීර්-හෂීම්/11-418459) · `si`
-
-Parliamentarian MP Kabir Hashim was elected as the Committee on Public Accounts (Kopa) for the first meeting of the Third Parliament.
-
-Parliamentarian Aravinda Senarath served as the Chairman of the Committee on Public Accounts on 06.08.2025 at the time of January 12.
-
-Member of Parliamentarian Kabir Hashim for Chairman. The elephants and Rohitha Abeygunawardena were confirmed.
-
-Addressing the Committee, he said that the new president was planning to work in the cooperation of all members without political ideology.  Also, the former Chairman of the Committee, Hon. Aravinda Senarath, specially appreciated the role of Hon.. The new Chairman further further stated that the new plans will be prepared and to maintain the action of the Kopy Panel.
-
-...
-
-[Data](articles/f17526bb.json)
-
-[Extended Data](ext_articles/f17526bb.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields flat
-
-*2025-09-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-flat-240398/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/95 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2028 closed at 9.05/15 percent, up from 9.05/14 percent.
-
-A bond maturing on 15.12.2029 closed flat at 9.50/55 percent.
-
-A bond maturing on 01.07.2030 closed at 9.70/80 percent, up form 9.70/76 percent.
-
-A bond maturing on 01.10.2032 closed at 10.40/46 percent. (Colombo/Sep12/2025)
-
-◼️
-
-[Data](articles/2709b8a8.json)
-
-[Extended Data](ext_articles/2709b8a8.ext.json)
 
 ---

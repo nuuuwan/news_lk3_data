@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 12:10:09**
+As of **2025-09-13 14:07:53**
 
 ## Newspaper Stats
 
-*Scraped **75,717** Articles*
+*Scraped **75,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,179 @@ economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,351
-adaderanalk | 9,729
+adalk | 7,353
+adaderanalk | 9,732
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,195
+adaderanasinhalalk | 13,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,577 (91.9%) of 75,717 articles have been extended.
+69,666 (92.0%) of 75,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
+### Circular allowing decorations and accessories on buses cancelled
+
+*2025-09-13 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112458/circular-allowing-decorations-and-accessories-on-buses-cancelled-) · `en`
+
+The Commissioner General of Motor Traffic has stated that the circular issued on 2 June 2023, which permitted decorations and accessories to be fitted to passenger transport buses, has been cancelled with effect from 9 September 2025.
+
+The Commissioner General of Motor Traffic Kamal Amarasinghe has informed all Deputy Commissioners, Chief Motor Vehicle Inspectors and Department of Motor Traffic District Offices of this decision via an internal circular.
+
+Circular allowing decorations and accessories on buses cancelled  by  Adaderana Online
+
+◼️
+
+[Data](articles/9f7ffad7.json)
+
+---
+
+### Circular that was permitted to decorates buses canceled
+
+*2025-09-13 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214519) · `si`
+
+The circular released on June 2, 203, was canceled on June 2, 2023, permission to install decorations and accessories on passenger buses.
+
+The circular has been issued by the Commissioner General of Motor Traffic.
+
+◼️
+
+[Data](articles/a81d1dcb.json)
+
+[Extended Data](ext_articles/a81d1dcb.ext.json)
+
+---
+
+### Education Ministry issues official school term calendar for 2026
+
+*2025-09-13 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112457/education-ministry-issues-official-school-term-calendar-for-2026) · `en`
+
+The Ministry of Education (MoE) has announced the official school term calendar for the year 2026, applicable to all Government and Government-approved private schools.
+
+Accordingly, the term calendar for Sinhala, Tamil, and Muslim schools is as follows:
+
+First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 2 March 2026)
+
+Second Phase: 3 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
+
+First Phase: 27 July 2026 to 7 August 2026 (Holidays: 8 August to 6 September 2026)
+
+First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 22 March 2026)
+
+Second Phase: 23 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
+
+Third Phase: 20 April 2026 to 30 April 2026 (Holidays: 01 May to 03 May 2026)
+
+First Phase: 4 May 2026 to 26 May 2026 (Holidays: 27 May to 31 May 2026)
+
+First Phase:  3 August 2026 to 2 September 2026 (Holidays: 3 September to 6 September 2026)
+
+◼️
+
+[Data](articles/1c0f575b.json)
+
+---
+
+### Here is the school period to be followed in 2026
+
+*2025-09-13 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214518) · `si`
+
+The Ministry of Education, Higher Education and Vocational Education has been issued by the Ministry of Education, Higher Education and Vocational Education.
+
+Accordingly, the first stage of the first stage of the first semester for Sinhala and Tamil schools will be founded on 11.01.2013 to 31.02.2013.
+
+The Ministry of Education, Higher Education and Vocational Education is issued by the Ministry of Education, Higher Education and Vocational Education, which will be granted in the first phase of the first term.
+
+Subsequently the second phase of the first stage will be held from Tuesday, 03.03.2013 to Friday, March 2026.
+
+The second phase of the first term will be given holidays on September 2026.2011 to 19.04.2011.
+
+Second school term will be held on Monday, 24.06.2012.
+
+The first phase of the third term will be held on Friday, January 2026, 07.07.2013, the Ministry of Education, Education and Vocational Education said.
+
+...
+
+[Data](articles/14ad4adf.json)
+
+[Extended Data](ext_articles/14ad4adf.ext.json)
+
+---
+
+### Rammitha son of Keheliya earns Rs. 27 million for 21 crores
+
+*2025-09-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214517) · `si`
+
+The Bribery Commission has been indicted in the Colombo High Court yesterday against Ramith Rambukwella, son of former Minister Keheliya Rambukwella.
+
+Although Keheliya Rambukwella has been earned as the Minister of Health, Ramith Rambukwella has earned over Rs.
+
+It is reported that there are many assets, including luxury houses, jeeps between the assets that cannot be earned.
+
+Rammit was also appointed as the Health Minister Keheliya Rambukwella.
+
+On January 1, 2022 and November 20, 2023, has earned valuable assets and property worth Rs. 296,566 and Rs.
+
+Ramith Rambukwella has failed to reveal the earnings of Rs 275,302,616.06.
+
+That is why the Bribery Commission has been indicted under the Anti-Corruption Act.
+
+And there were two hundred rupees at Dharmapala Mawatha, Colombo 07, and two hundred and Rs.
+
+There are four bank accounts named Ramith and four bank accounts, including his wife, and an unexpular discourse, including a discovery jeep.
+
+...
+
+[Data](articles/36ca14eb.json)
+
+[Extended Data](ext_articles/36ca14eb.ext.json)
+
+---
+
+### Sri Lanka participated in the Asian Cup today
+
+*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
+
+Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
+
+The match will be played at Abuadabii at 8:00 pm as a match of B.
+
+Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
+
+The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
+
+Sri Lanka won both matches previously.
+
+This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
+
+◼️
+
+[Data](articles/ce1740f4.json)
+
+[Extended Data](ext_articles/ce1740f4.ext.json)
+
+---
+
+### Lord
 
 *2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
 
-வெலிகம பிரதேச சபையின் தவிசாளர் லசந்த விக்ரமசேகரவுக்கு எதிராக மாத்தறை பிரதான நீதவான் நீதிமன்றம் பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
+Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
 
-தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தாரக நாணயக்காரவுக்கு கொலை மிரட்டல் விடுத்த குற்றச்சாட்டைத் தொடர்ந்து, அவருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
 
-இந்த வழக்கு மாத்தறை பிரதான நீதவான் சத்துர திசாநாயக்க முன்னிலையில் நேற்று  (12) விசாரணைக்கு வந்த போது, லசந்த விக்ரமசேகர நீதிமன்றில் ஆஜராகாமல் இருந்துள்ளார்.
+When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
 
 ◼️
 
 [Data](articles/18a6ffad.json)
+
+[Extended Data](ext_articles/18a6ffad.ext.json)
 
 ---
 
@@ -129,6 +273,30 @@ Foreign media reports have reported that a powerful earthquake is beyond the coa
 [Data](articles/2d990175.json)
 
 [Extended Data](ext_articles/2d990175.ext.json)
+
+---
+
+### Arrest warrant issued for Weligama PS Chairman
+
+*2025-09-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112456/arrest-warrant-issued-for-weligama-ps-chairman) · `en`
+
+The Matara Chief Magistrate’s Court has issued a warrant for the arrest of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara.
+
+The order was issued when the case was called before Matara Chief Magistrate Chathura Dissanayake yesterday (12).
+
+The warrant follows the chairman’s failure to appear in court in a case alleging that he threatened to kill National People’s Power Pradeshiya Sabha member and Attorney-at-Law Tharaka Nanayakkara.
+
+A case has been filed against Wickramasekara under the Victims Protection Act for allegedly threatening Attorney-at-Law Nanayakkara, who contested the Weligama Pradeshiya Sabha elections representing the National People’s Power.
+
+When the case was taken up at the Matara Magistrate’s Court, the accused did not appear, said Ada Derana reporter.
+
+During the court proceedings, the accused did not appear, and a legal representative informed the court of his ill health.
+
+However, the warrant was issued due to the absence of his guarantors in court.
+
+◼️
+
+[Data](articles/6cdbfafe.json)
 
 ---
 
@@ -448,6 +616,26 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 
 ---
 
+### බෝඩ් ලෑල්ලට පමණක් සීමා වූ රාජ්‍ය ආයතන වහනවා
+
+*2025-09-13 08:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෝඩ්-ලෑල්ලට-පමණක්-සීමා-වූ-රාජ්‍ය-ආයතන-වහනවා/11-418471) · `si`
+
+බෝඩ් ලෑල්ලට පමණක් සීමාවී තිබෙන රාජය ආයතන වසා දැමීමට රජය තීරණය කළ බව සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා බලපිටියේ පැවති උත්සවයකදී කීවේය
+
+සමහර රාජ්‍ය ආයතන රජයට බරක් බවතA එවැනි රාජ්‍ය ආයතන පිළිබඳව තීන්දුවක් ගැනීමට සිදුවන බවත් ජයතිස්ස මහතා කීවේය.
+
+“අපේ රටේ සමහර රාජ්‍ය ආයතනවලින් ජනතා සේවයක් කෙරෙන්නේ නැහැ. සමහර රාජ්‍ය ආයතනවල සේවය කරන්නේ නිලධාරීන් එක්කෙනයි දෙන්නයි. සමහර ආයතන බෝඩ්වලට පමණයි. ජනතාවට සේවයක් නොකරන බෝඩ් ලෑලිවලට පමණක් සීමාවී ඇති රාජ්‍ය ආයතන වහලා දාන්න තීන්දුවක් ගත්තා. සමහර ආයතන ඒකාබද්ධ කරන්නත් කටයුතු කරනවා”
+
+බලපිටිය තැපැල් කාර්යාලයීය ගොඩනැගිල්ල ඉදිකිරීම සඳහා මුල්ගල් තැබීම නිමිත්තෙන් පැවති උත්සවයේදී නලින්ද ජයතිස්ස මහතා මේ බව කීවේය.
+
+(කරන්දෙණිය එම්.සුසිල් පියන්ත ,බලපිටිය එස්.ඒ.වයි.ද සිල්වා සහ අම්බලන්ගොඩ එම්.හේමන්ත ද සිල්වා)
+
+◼️
+
+[Data](articles/e52d1f64.json)
+
+---
+
 ### Deputy Ministers depict powers of the Gamunt Sports Regulations Act
 
 *2025-09-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214509) · `si`
@@ -471,6 +659,26 @@ Therefore, if gaming games have a renewed effect on the gambling regulatory supe
 [Data](articles/0a8a5979.json)
 
 [Extended Data](ext_articles/0a8a5979.ext.json)
+
+---
+
+### The Supreme Court launches system
+
+*2025-09-13 08:04:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-නඩු-කළමණාකරණ-පද්ධතිය-දියත්-කරයි/11-418470) · `si`
+
+Attorney-at-Law, Minister of Justice and National Integration to operate the Supreme Court Supreme Court Survey is the first step in the Supreme Court Proposal to operate the Supreme Court Supreme Court Supreme Court in the first stage of the Supreme Court. Harshana Nanayakkara was held at the participation of Colombo 12, Colombo 12, October, 80, Judge Training Institute.
+
+The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
+
+The Digital Program aims to reduce the corruption irregularities of the judicial subsistence and promote services to the judiciary and the efficient services to the lawyers.
+
+As a first step, the Supreme Court is to digitize the Supreme Court, the Court of Appeal, High Court and District Magistrate Judicial and other jurisdictions.
+
+...
+
+[Data](articles/381e5923.json)
+
+[Extended Data](ext_articles/381e5923.ext.json)
 
 ---
 
@@ -1845,201 +2053,5 @@ A large number of suspects arrested in police station arrested by poornima
 [Data](articles/47c65a06.json)
 
 [Extended Data](ext_articles/47c65a06.ext.json)
-
----
-
-### The first phase of the ECORT project begins
-
-*2025-09-12 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214493) · `si`
-
-The Supreme Court was held as the first step in the Superintendent of the Judicial ECORT project while the Supreme Court was launched and modernized Supreme Court website in the first phase of the Judicial ECORT project.
-
-Minister of Justice and National Integration, Attorney and National Integration was also present at the judge at the Judge Training Institute.
-
-This is in line with the objective of providing the efficiency of the judicial service and providing effective judicial service to the public.
-
-The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
-
-The objective of the Digital Program is to enhance the corruption irregularities of the judicial subsistence and to provide services to the judiciary and the efficient services to the lawyers.
-
-...
-
-[Data](articles/251b76c4.json)
-
-[Extended Data](ext_articles/251b76c4.ext.json)
-
----
-
-### Indian Vice President of India
-
-*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவியேற்பில்பிரமாணத்தி-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
-
-Senthil Thondaman calls for the post of Indian Vice President
-
-CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
-
-CP Radhakrishnan was sworn in today in the presence of President Moormu at the President's House in New Delhi.
-
-◼️
-
-[Data](articles/2b3bd19b.json)
-
-[Extended Data](ext_articles/2b3bd19b.ext.json)
-
----
-
-### Senthil Thondaman participates in the swearing -in of Indian vice president
-
-*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவி-பிரமாணத்திற்கு-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
-
-Senthil Thondaman calls for the post of Indian Vice President
-
-CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
-
-CP Radhakrishnan was sworn in today in the presence of President Moormu in Rashtrapati Bhavan, President's House in New Delhi.
-
-◼️
-
-[Data](articles/cbe189d7.json)
-
-[Extended Data](ext_articles/cbe189d7.ext.json)
-
----
-
-### The Indian Committee conducted a study on the development of Point Pedro
-
-*2025-09-12 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/224944) · `ta`
-
-A team of four members from the Central Coast Guard and Fisheries Institute, a leading company under the Ministry of Fisheries, Livestock and Dairy, visited Sri Lanka from 8 to 12.. The Indian High Commission in Colombo said that the visit was focused on conducting preliminary studies on the development of the Pedro Fisheries Port proposed in the Northern Province.
-
-The delegation met with Fisheries Minister Ramalingam Chandrasekhar and Governor of the Northern Province Nagalingam Vedanayagan and held discussions with the ministry officials.. With the financial assistance of the Government of India, the appropriate methods for the development of the Pedro Fisheries Harbor were focused on this discussion.. The group has made technical visits to the project to be proposed in Point Pedro on the 9th and 10th of last month.
-
-...
-
-[Data](articles/1e19399b.json)
-
-[Extended Data](ext_articles/1e19399b.ext.json)
-
----
-
-### The 79th anniversary of the United National Party is on September 20
-
-*2025-09-12 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224943) · `ta`
-
-The 79th anniversary of the United National Party (UNP) is scheduled to be held on the 6th and is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on Saturday 20th.
-
-This was decided at a discussion held at his political office in Colombo on Thursday 11th, headed by UNP leader and former president Ranil Wickremesinghe.
-
-While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
-
-Accordingly, it is decided to hold the 79th anniversary of the postponement of the postponement on Saturday the 20th.
-
-◼️
-
-[Data](articles/43535055.json)
-
-[Extended Data](ext_articles/43535055.ext.json)
-
----
-
-### CoPF calls for financial autonomy for Bribery Commission, AG’s Dept
-
-*2025-09-12 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112441/copf-calls-for-financial-autonomy-for-bribery-commission-ags-dept) · `en`
-
-The Committee on Public Finance (CoPF) has granted approval for the 2026 budget estimate of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-This approval was granted during a meeting of the Committee held on Thursday (11) in Parliament, chaired by Member of Parliament Dr. Harsha de Silva.
-
-During the meeting, the Chairman of the Committee pointed out that just as the Central Bank of Sri Lanka (CBSL) experience financial independence, it is important to grant financial autonomy to institutions such as the Bribery Commission (CIABOC) and the Auditor General’s Department to ensure greater independence in their operations.
-
-He further stated that with such financial independence, these institutions would be able to function more autonomously, irrespective of which government is in power, and free from prevailing political authority.
-
-Accordingly, the Committee decided to inform the Minister of Finance, who is also the President, about this matter, the statement said.
-
-...
-
-[Data](articles/7954abd9.json)
-
-[Extended Data](ext_articles/7954abd9.ext.json)
-
----
-
-### The United States -. Red light for Korean investments?
-
-*2025-09-12 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214492) · `si`
-
-One of the main objectives of Donald Trump's duty war of Donald Trump is the increase in the production process in the US.
-
-The Trump administration is forced to manufacture foreign companies to manufacture locations from the US to be manufactured and exported to the United States to computer chips in America.
-
-However, the manufacturers of the United States are recently proffered from the United States, due to President's intense migration policy.
-
-One such problem is to take steps to raid the immigrants who worked in these huge factories.
-
-One such thing as a result of such a serious problem is the South Korean Yundai Motors and LG Battery Production in Georgia.
-
-At least 450 foreigners were arrested in a raid carried out last week in this massive manufacturing plant.
-
-The specialty is the South Korean who served at the factory.
-
-The publication was a video of the employees and handle the handcuffing and handcuffing.
-
-ඔවුන් මුදාගැනීම සඳහා දකුණු කොරියානු ජනාධිපති ලී ජේ  මියුංටත් මැදිහත්වීමට සිදුවුණි.
-
-...
-
-[Data](articles/8d53143b.json)
-
-[Extended Data](ext_articles/8d53143b.ext.json)
-
----
-
-### Limitation of traffic to Maharagama
-
-*2025-09-12 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214491) · `si`
-
-Motor traffic has been restricted due to the Esala Perahera of the Esala Perahera of the Puwakpitiya Opposition in Maharagama.
-
-Accordingly, the traffic will be restricted at 7.30 pm to 3 am from 7.30 pm.
-
-The Perahera commenced at the Opposition and Southway along the Maharagama road near the Maharagama Road, Maharagama road along the Maharagama Road, Maharagama Road.
-
-As a result, the police are informed to use the following alternative routes.
-
-The motor vehicle traveling traffic from Dehiwala, Piliyandala, Boralesgamuwa can travel along the presidential footage of the President Junction.
-
-Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Wattegedara junction on the old road.
-
-* Vehicles traveling along the High Level Road in Boralesgamuwa can be route through Wattalanda.
-
-* From Piliyandala to Colombo District, the vehicles traveling in the Colombo district can be route along the right road near the sojouals.
-
-◼️
-
-[Data](articles/186f6675.json)
-
-[Extended Data](ext_articles/186f6675.ext.json)
-
----
-
-### State Revenue Nearly 15 percent of GDP
-
-*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
-
-The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
-
-According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
-
-He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
-
-Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
-
-He pointed out that state spending management is focused on an optimum level but the cost of Rs.
-
-...
-
-[Data](articles/2ca1581d.json)
-
-[Extended Data](ext_articles/2ca1581d.ext.json)
 
 ---

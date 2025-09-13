@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 11:06:10**
+As of **2025-09-13 12:20:37**
 
 ## Newspaper Stats
 
-*Scraped **75,707** Articles*
+*Scraped **75,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,45 +12,215 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 768
-economynextcom | 4,589
+economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,350
-adaderanalk | 9,727
-tamilmirrorlk | 11,313
-virakesarilk | 12,339
-adaderanasinhalalk | 13,193
+adalk | 7,351
+adaderanalk | 9,729
+tamilmirrorlk | 11,314
+virakesarilk | 12,341
+adaderanasinhalalk | 13,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,513 (91.8%) of 75,707 articles have been extended.
+69,577 (91.9%) of 75,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### වැලිගම ප්‍රාදේශීය සභාවේ සභාපති අත්අඩංගුවට ගැනීමට වරෙන්තු
+### ආසියානු කුසලානයේ ශ්‍රී ලංකාව සහභාගී වන පළමු තරගය අද
+
+*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම පළමු තරග අද (13) බංග්ලාදේශ කණ්ඩායම එරෙහිව පැවැත්වෙයි.
+
+B කණ්ඩයේ තරගයක් ලෙස මෙම තරගය අබුඩාබිහිදී මෙරට වේලාවෙන් පස්වරු 8.00ට ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය චරිත් හසලංක විසින් දරනු ලබන අතර  බංග්ලාදේශ කණ්ඩායමේ නායකත්වය දරනු ලබන්නේ ලින්ටන් දාස් විසින්ය.
+
+ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම එක්සත් අරාබි එමීර් රාජ්‍යයේදී  විස්සයි20 තරගයකදී මෙලස මුණගැසෙන්නේ තෙවන වතාවටය.
+
+මීට පෙර පැවැති තරග දෙකම ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+මෙම තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගි වන පළමු තරගය මෙය වන අතර  බංග්ලාදේශ කණ්ඩායම හොංකොං සමග පැවති තරගය කඩුලු 7කින් ජය ගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/ce1740f4.json)
+
+---
+
+### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
+
+*2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
+
+வெலிகம பிரதேச சபையின் தவிசாளர் லசந்த விக்ரமசேகரவுக்கு எதிராக மாத்தறை பிரதான நீதவான் நீதிமன்றம் பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
+
+தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தாரக நாணயக்காரவுக்கு கொலை மிரட்டல் விடுத்த குற்றச்சாட்டைத் தொடர்ந்து, அவருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+
+இந்த வழக்கு மாத்தறை பிரதான நீதவான் சத்துர திசாநாயக்க முன்னிலையில் நேற்று  (12) விசாரணைக்கு வந்த போது, லசந்த விக்ரமசேகர நீதிமன்றில் ஆஜராகாமல் இருந்துள்ளார்.
+
+◼️
+
+[Data](articles/18a6ffad.json)
+
+---
+
+### Seventeen collapses in Kolaging collapses
+
+*2025-09-13 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214515) · `si`
+
+There are seven people in the event of a mine of an illegal arragment mine in Colombia, Colombia.
+
+The group is stuck in the mines from Thursday.
+
+They are stating that they will remain deeply in a deep level of the earth.
+
+However, the foreign reports indicate that the assistance of the authorities are not inadequate and that they are doing so.
+
+These crys in the Coka area is constantly occurs, a mine explosive ringter.
+
+◼️
+
+[Data](articles/6a1b1b2d.json)
+
+[Extended Data](ext_articles/6a1b1b2d.ext.json)
+
+---
+
+### SriLankan Airlines draws India travellers with Axis Bank link
+
+*2025-09-13 11:30:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-draws-india-travellers-with-axis-bank-link-240436/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines is partnering with Axis Bank in India, to offer airfare deals and other benefits to the bank’s 15 million-strong customer base.
+
+Axis Bank credit and debit cardholders will enjoy an exclusive 10% discount on both Business Class and Economy Class fares when booking through the SriLankan Airlines website.
+
+The discount applies to SriLankan Airlines flights from India to Colombo, and onward via Colombo to all destinations in the Far East, the Middle East and the Maldives, as well as to Frankfurt and Paris.
+
+Customers travelling to Melbourne will receive an additional 5kg of checked baggage allowance.
+
+SriLankan Airlines plans to offer more deals later on, it said in a statement.
+
+“This partnership is also remarkable as it marks the first time ever that SriLankan Airlines has collaborated with a private Indian bank,” Fawzan Fareid, Regional Manager India, Bangladesh and Nepal of SriLankan Airlines, said.
+
+...
+
+[Data](articles/ae2afec4.json)
+
+[Extended Data](ext_articles/ae2afec4.ext.json)
+
+---
+
+### Sri Lanka August tourism fall 8.2-pct to $258.9 mn despite rise in arrival
+
+*2025-09-13 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-august-tourism-fall-8-2-pct-to-258-9-mn-despite-rise-in-arrival-240442/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism in August 2025 fell 8.2 percent from a year ago to 258.9 million US dollars, the central bank said, quoting tourism promotion authority data.
+
+The revenue from tourism, which accounts for nearly 3 percent of the island nation’s economy, fell for the second straight month, despite an increase in the monthly tourist arrivals in both months, the data showed.
+
+In July, the revenue fell 3 percent to 318.5 million US dollars compared to the same month in the previous year’s 328.3 million US dollars.
+
+The tourist arrivals saw a jump of 20.4 percent to 198,235 in August and a rise of 6.6 percent to 200,244 in July, the official data showed.
+
+However, the revenue for the first eight months up to end-August has seen a rise of 5.7 percent to 2.29 billion US dollars from a year ago.
+
+Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar revenue and a 3 million arrival target this year.
+
+...
+
+[Data](articles/a1e1cd4c.json)
+
+[Extended Data](ext_articles/a1e1cd4c.ext.json)
+
+---
+
+### A powerful earthquake in Russia
+
+*2025-09-13 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214514) · `si`
+
+Foreign media reports have reported that a powerful earthquake is beyond the coast of Kamchatka Beach in Russia.
+
+◼️
+
+[Data](articles/2d990175.json)
+
+[Extended Data](ext_articles/2d990175.ext.json)
+
+---
+
+### Warrants to arrest the Chairman of Weligama Pradeshiya Sabha
 
 *2025-09-13 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214512) · `si`
 
-වැලිගම ප්‍රාදේශීය සභාවේ සභාපති ලසන්ත වික්‍රමසේකර මහතා අත්අඩංගුවට ගැනීම සඳහා මාතර ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කර ඇත.
+Matara Chief Magistrate Court has issued warrants to arrest the Chairman of Weligama Pradeshiya Sabha Lasantha Wickremasekara.
 
-අදාළ නඩුව මාතර ප්‍රධාන මහෙස්ත්‍රාත් චතුර දිසානායක මහතා ඉදිරියේ ඊයේ (12) කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබා දී තිබේ.
+The order has been issued when the case was taken up before Matara Chief Magistrate Chathuri Chathuriya yesterday (12).
 
-ජාතික ජන බලවේගයේ ප්‍රදේශීය සභා මන්ත්‍රී නීතිඥ තාරක නානායක්කාර මහතාට මරණ තර්ජනය කල බව කියන නඩුවකට පෙනී නොසිටීම හේතුවෙන් මෙම නියෝගය නිකුත් කර ඇත.
+The order has been issued as a case of death in the National JHD MP's Counterfection Tharaka Nanayakkara threatened death.
 
-පසුගිය පළාත් පාලන මැතිවරණ සමයෙහි වැලිගම ප්‍රාදේශීය සභාවට ජාතික ජන බලවේගයෙන් තරග වැදුණු නීතිඥ තාරක නානායක්කාර මහතාට තර්ජනය කිරීමේ චෝදනා මත වින්දිතයන් සුරැකීමේ පනත යටතේ ඔහුට මෙලෙස නඩු පවරා තිබේ.
+At the time of the last local government election, the Weligama Pradeshiya Sabha has filed a case under the Protection of the Victims to the Safety Protection Act.
 
-එම නඩුව මාතර මහෙස්ත්‍රාත් අධිකරණයේදී කැඳවූ අවස්ථාවේදී විත්තිකාර වැලිගම ප්‍රාදේශීය සභාවේ සභාපති ලසන්ත වික්‍රමසේකර මහතා ඊට පෙනී නොසිටි අතර, ඔහු වෙනුවෙන් නීතිඥවරයෙකු අධිකරණයේ පෙනී සිටිමින් ඔහු රෝගාතුර බව දන්වා ඇත.
+The Chairman Lasantha Wickremasekara, Chairman Lasigama Pradeshiya Sabha was not appearing in the Matara Magistrate's Court.
 
-එහෙත් ඔහුගේ ඇපකරුවන් ද අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් මෙම වරෙන්තුව නිකුත් කර තිබේ.
+However, this warrant has been issued as he did not appear before the court.
 
 ◼️
 
 [Data](articles/ecdd725d.json)
+
+[Extended Data](ext_articles/ecdd725d.ext.json)
+
+---
+
+### Conspiracy to attack US and Israeli embassies in India
+
+*2025-09-13 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224969) · `ta`
+
+The National Intelligence Agency (NIA) in Poonthamalli, India, Chennai, has sent a special court invitation to a duty officer at the Pakistani embassy in Sri Lanka.
+
+The Pakistani embassy has summoned the embassy official to accuse the US embassy in Chennai and the Israeli embassy in Bangalore.
+
+The officer, who is currently working at the Pakistani embassy in Sri Lanka, has been ordered to appear in court on October 15.
+
+Pakistani official has been identified as Amir Zubair Siddiqui.
+
+The media reports that he hails from Karachi, Pakistan and is currently working as a visa advisor at the Pakistani High Commission in Colombo.
+
+It is said that the person Mohammed Sakir Hussain from Sri Lanka has sent a man to India to carry out conspiracies within India.
+
+As part of this conspiracy, high -quality counterfeit notes have been circulated to disrupt the Indian economy.
+
+...
+
+[Data](articles/34b2f76c.json)
+
+[Extended Data](ext_articles/34b2f76c.ext.json)
+
+---
+
+### Double murder; Arrests
+
+*2025-09-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224967) · `ta`
+
+A man suspected of being a gunman in the Sahaspura Sirisara High Ground in the Borella Police Division has been arrested by the police in Damana area on Friday (12).
+
+The suspect has been arrested with 10 grams of 710 milligrams of ice and a motorcycle.
+
+Two persons were shot dead on 07.08.2025 at the Sahaspura Sirisara Ground, which belongs to the Borella Police Division.
+
+Initial investigations by the police revealed that the suspect was formerly served in the Sri Lankan army and fled the army in 2015.
+
+◼️
+
+[Data](articles/8f27f43e.json)
+
+[Extended Data](ext_articles/8f27f43e.ext.json)
 
 ---
 
@@ -85,6 +255,48 @@ Police are conducting further investigations as no one has been injured in the a
 [Data](articles/31b353e9.json)
 
 [Extended Data](ext_articles/31b353e9.ext.json)
+
+---
+
+### Magnitude 7.4 earthquake strikes Russia’s Kamchatka, tsunami warning issued
+
+*2025-09-13 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112455/magnitude-74-earthquake-strikes-russias-kamchatka-tsunami-warning-issued) · `en`
+
+A 7.4-magnitude earthquake struck off the coast of Kamchatka in Russia’s Far East on Saturday, the United States Geological Survey (USGS) said.
+
+The quake hit 111 kilometres (69 miles) east of the Russian city of Petropavlovsk-Kamchatsky, the administrative centre of the Kamchatka region, at a depth of 39.5 kilometres, according to the USGS.
+
+The survey earlier gave a magnitude of 7.5 before downgrading it.
+
+The Pacific Tsunami Warning Center said “hazardous” waves of up to one metre (3.3 feet) were possible along some nearby Russian coasts.
+
+Japan, Hawaii and other islands in the Pacific may see waves of less than 30 centimetres, the centre said.
+
+In July, one of the strongest earthquakes ever recorded struck off the Kamchatka peninsula, triggering tsunamis up to four metres high across the Pacific and sparking evacuations from Hawaii to Japan.
+
+The magnitude 8.8 quake was the largest since 2011, when a magnitude 9.1 tremor off Japan caused a tsunami that killed more than 15,000 people.
+
+...
+
+[Data](articles/07469d10.json)
+
+[Extended Data](ext_articles/07469d10.ext.json)
+
+---
+
+### Former Wattegama UC Chairman arrested with illegally imported vehicles
+
+*2025-09-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112454/former-wattegama-uc-chairman-arrested-with-illegally-imported-vehicles-) · `en`
+
+Police have arrested the former Chairman of the Wattegama Urban Council, along with one of his close associates, for the possession of two illegally imported jeep vehicles.
+
+The suspects have been identified as 58-year-old former UC Chairman Ravindra Kumara and 38-year-old businessman Lakshitha Manoj.
+
+◼️
+
+[Data](articles/00b2378b.json)
+
+[Extended Data](ext_articles/00b2378b.ext.json)
 
 ---
 
@@ -214,6 +426,8 @@ Backhoe Saman, an organized criminal, is currently in custody and being question
 
 [Data](articles/d9377902.json)
 
+[Extended Data](ext_articles/d9377902.ext.json)
+
 ---
 
 ### Deputy Minister clarifies provisions of Gaming Regulatory Authority Act
@@ -233,6 +447,8 @@ Dr. Fernando emphasized that the primary purpose of the Act is to consolidate al
 ...
 
 [Data](articles/2c1f38df.json)
+
+[Extended Data](ext_articles/2c1f38df.ext.json)
 
 ---
 
@@ -348,7 +564,7 @@ Accordingly, the President of the country has announced that the Nepal parliamen
 
 *2025-09-13 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112449/nepals-parliament-dissolves-as-new-pm-sworn-in-polls-set-for-march-2026) · `en`
 
-Nepal President Ramchandra Paudel on Friday dissolved the House of Representatives at the recommendation of newly appointed interim Prime Minister Sushila Karki, and announced fresh parliamentary elections for March 21, 2026.
+Nepal President Ramchandra Paudel on Friday dissolved the House of Representatives at the recommendation of newly appointed interim Prime Minister Sushila Karki, and announced fresh parliamentary elections for March 05, 2026.
 
 Karki, 73, a former Chief Justice, was sworn in as Nepal’s first woman prime minister late Friday, ending days of turmoil after the KP Sharma Oli government collapsed amid violent nationwide protests. The unrest, triggered by a controversial social media ban, had forced Oli to step down earlier this week.
 
@@ -361,6 +577,24 @@ The swearing-in was attended by Nepal’s chief justice, security chiefs, senior
 [Data](articles/9bdc61c6.json)
 
 [Extended Data](ext_articles/9bdc61c6.ext.json)
+
+---
+
+### Sri Lanka's first match faces in Asia Cup
+
+*2025-09-13 07:34:21* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලාන-තරගාවලියේ-ලංකාව-මුහුණ-දෙන-පළමු-තරගය-අද/9-418469) · `si`
+
+The first match facing the Asia Cup to face the Bangladesh team against the Bangladesh team this night. The match will start at 8 pm at Sri Lanka.
+
+Four lamps were won by four Twenty20s, who played to Bangladesh last time.
+
+Sri Lankan team leader's leading spinner is scheduled to play. Due to a disorder, he lost Twenty20 tournament with Zimbabwe.
+
+◼️
+
+[Data](articles/8517dd87.json)
+
+[Extended Data](ext_articles/8517dd87.ext.json)
 
 ---
 
@@ -406,19 +640,21 @@ The departmental chiefs spoke to the president on the problems that are currentl
 
 ---
 
-### සහස්පුර වෙඩික්කරු යුධ හමුදාවෙන් පළා ගිය සෙබලෙක්
+### Sahaspura shooter fled by Army
 
 *2025-09-13 07:21:56* · [`adalk`](https://www.ada.lk/breaking_news/සහස්පුර-වෙඩික්කරු-යුධ-හමුදාවෙන්-පළා-ගිය-සෙබලෙක්/11-418468) · `si`
 
-2025.08.07 වන දින බොරැල්ල පොලිස් වසමේ සහස්පුර සිරිසරඋයන ක්‍රිඩාංගණයේදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කර තවත් පුද්ගලයින් තිදෙනෙකු තුවාල සිදුකිරීමේ අපරාධය සම්බන්ධයෙන්  ජයවර්ධනපුර පොලිස් විශේෂ කාර්ය බලකා විශේෂ වැටලීම් ඒකකය මඟින් විමර්ශන ආරම්භ කර තිබුණි.
+The Sri Jayewardenepura Police Special Task Force Special Task Force Special Task Force Sector Special Task Force has commenced regarding the crime of injuring three others at the Borella Police Division.
 
-ඒ අනුව 2025.09.12 වන දින දහවල් කාලයේ එම ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් දමන පොලිස් වසමේදී මෙම අපරාධයේ වෙඩික්කරු බවට සැකකරන පුද්ගලයෙකු අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10 මිලිග්‍රෑම් 710 ක් හා යතුරුපැදියක් සමඟ අත්අඩංගුවට ගෙන දමන පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත‍ෙ
+Accordingly, a person who has been suspected of the shotgun in the unit of the unit at the time of 12.05.2011 was presented to the shot of the crime in the Damana Police Division 10 mg and a motorcycle for a motorcycle.
 
-සැකකරු වයස අවුරුදු 34 ක් වන දමන, අම්පාර ප්‍රදේශයේ පදිංචිකරුවෙකි.සැකකරු මීට පෙර ශ්‍රී ලංකා යුධ හමුදාවේ රාජකාරි කර 2015 වර්ෂයේ යුධ හමුදාවෙන් පලාගොස් ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇත. දමන පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+The suspect is a 34 year old resident of Ampara, a 34 year old resident of Ampara.. Damana Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/301ceaa5.json)
+
+[Extended Data](ext_articles/301ceaa5.ext.json)
 
 ---
 
@@ -1805,221 +2041,5 @@ Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Watt
 [Data](articles/186f6675.json)
 
 [Extended Data](ext_articles/186f6675.ext.json)
-
----
-
-### State Revenue Nearly 15 percent of GDP
-
-*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
-
-The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
-
-According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
-
-He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
-
-Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
-
-He pointed out that state spending management is focused on an optimum level but the cost of Rs.
-
-...
-
-[Data](articles/2ca1581d.json)
-
-[Extended Data](ext_articles/2ca1581d.ext.json)
-
----
-
-### Woman dies after falling in fighter crash, death up to 16 dead
-
-*2025-09-12 17:21:23* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරින්-තුවාල-ලබා-සිටි-කාන්තාවක්-මිය-යයි--මිය-ගිය-පිරිස-16ක්-දක්වා-ඉහළට/11-418463) · `si`
-
-The fall of a woman who was receiving treatment at the Intensive Care of Police in the 15th area of ​​the Ella in the 15th area of ​​the Ella was injured in the Colombo East Hospital.
-
-A woman has died in a woman named Namal Gamage (43), who was living in Beliatta Road, Tangalle.
-
-Tangalle Urban Council employees with a family fun in Nuwara Eliya
-
-The police said that a male is still receiving treatment with two women in ward injuries in Badulla.
-
-Deputy Superintendent of Police (SPS)
-
-◼️
-
-[Data](articles/43320043.json)
-
-[Extended Data](ext_articles/43320043.ext.json)
-
----
-
-### Government policy is to deploy every rupee for effective investment
-
-*2025-09-12 17:17:43* · [`adalk`](https://www.ada.lk/breaking_news/සෑම-රුපියලක්ම-ප්‍රතිඵලදායී-ආයෝජන-වෙනුවෙන්-යෙදවීම-රජයේ-ප්‍රතිපත්තියයි/11-418462) · `si`
-
-President Anura Kumara Dissanayake emphasized that the government's objective is to meet future economic growth targets based on the economic stability of the country.
-
-The President made this observation at a 2026 pre-budget discussion with the parties in the apparel industry.
-
-The President pointed out that the current facilities are available to the existing industry, the government's policy is to provide access to the first rupee.
-
-Representatives of the apparel, including the Joint Apparel Association Forum (Joint Apparel Associate Forum), the representatives of the apparel industry (FTZMA), the representatives of the apparel and FTZMA presented the budget proposals to each sector.
-
-Participants also informed the President on new challenges and opportunities in the apparel industry, including the cost of production.
-
-The intervention of the government to reduce the tariffs made by Sri Lanka under the "mutual duty" system under the "duty" system of Sri Lanka thanked the President.
-
-...
-
-[Data](articles/b24ed4b8.json)
-
-[Extended Data](ext_articles/b24ed4b8.ext.json)
-
----
-
-### Heavy rains into several areas in the next 36 hours
-
-*2025-09-12 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214490) · `si`
-
-Several spells of showers may occur in the Western and Sabaragamuwa provinces in the next 36 hours and several showers in the Galle, Matara, Kandy and Nuwara Eliya Districts.
-
-And in the Eastern and Uva provinces. Showers or thundershowers will occur at several places around 1.00.
-
-The Meteorological Department has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9088e687.json)
-
-[Extended Data](ext_articles/9088e687.ext.json)
-
----
-
-### Budget estimate for the 2026 Bribery Commission
-
-*2025-09-12 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214489) · `si`
-
-The approval of the Committee on Public Finance Estimates for the Bribery and Corruption Commission 2026.
-
-The approval was given when the Committee on Public Finance Meeting on the Government Finance Committee on the Chairman of Parliament Dr. Harsha de Silva yesterday (11).
-
-The Chairman of the Committee has pointed out that the Central Bank of Sri Lanka has a financial independence and the Bribery Investigation Commission and the Agency Investigation Commission, the Department of Corruption and the Corruption Commission, the Department of Agency and Corruption Commission is more important. He added that these institutions can act more independently under any government outside the existing political authority.
-
-As a result, the Committee decided to inform the Minister of Finance, the Minister of Finance.
-
-...
-
-[Data](articles/6ed4f101.json)
-
-[Extended Data](ext_articles/6ed4f101.ext.json)
-
----
-
-### US Ambassador Julie Sung and Assistant Trade Representative Brendon Lynch
-
-*2025-09-12 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/224925) · `ta`
-
-President Anura Kumara Dissanayake met with US Ambassador Julie Sung and Assistant US Trade Representative Brendon Linch.
-
-During this meeting, the US is committed to improve fair and balanced trade. Discussions have been discussed on strengthening and restructuring of US -Sri Lankan trade relations.
-
-◼️
-
-[Data](articles/bf99d85b.json)
-
-[Extended Data](ext_articles/bf99d85b.ext.json)
-
----
-
-### Ratana Goek released on bail
-
-*2025-09-12 17:04:37* · [`adalk`](https://www.ada.lk/breaking_news/රතන-හිමිට-ඇප/11-418461) · `si`
-
-Nugegoda Magistrate's Court ordered the release of Ven. Athuraliye Ratana Thera released on bail. The Magistrate has ordered two personal bail of Rs.
-
-The case will be held regarding the abduction of the party's general secretary to the General Secretary of the UNP to obtain the national secretary of the JVP in the 2020 general election.
-
-◼️
-
-[Data](articles/3d994ae5.json)
-
-[Extended Data](ext_articles/3d994ae5.ext.json)
-
----
-
-### Shastened Shaneshendra at an hour 35 times
-
-*2025-09-12 17:00:43* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රට-පැයකට-35-වතාවක්-හුස්ම-හිරවෙනවලු/11-418460) · `si`
-
-Sushaendra Rajapaksa had a breath disease 35 per hour. When the former state minister who was produced before the Colombo Magistrate's Court today, the lawyers had made bail.
-
-However, the suspect has been remanded until the 19th of this month, the Colombo Magistrate Court today (12).
-
-Former State Minister Shashindra Rajapaksa has been arrested by the Bribery Commission under the arrest of Rs.
-
-◼️
-
-[Data](articles/7cd08f79.json)
-
-[Extended Data](ext_articles/7cd08f79.ext.json)
-
----
-
-### A woman who was seriously injured in the tragedy of the falls
-
-*2025-09-12 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214488) · `si`
-
-A woman was injured in the Jaffna Teaching Hospital today (12) was seriously injured in the bus accident on the Ella-Wellawaya main road.
-
-Our correspondent was a 41-year-old Naval Gamage, Tangalle Urban Council.
-
-The number of people have risen to 16 in the accident near Ella-Wellawaya road.
-
-◼️
-
-[Data](articles/166d00ea.json)
-
-[Extended Data](ext_articles/166d00ea.ext.json)
-
----
-
-### Maharaja Foods and SPAR Sri Lanka to set up retail outlets
-
-*2025-09-12 17:00:00* · [`economynextcom`](https://economynext.com/maharaja-foods-and-spar-sri-lanka-to-set-up-retail-outlets-240402/) · `en`
-
-ECONOMYNEXT – Maharaja Foods PLC and SPAR Sri Lanka Pvt Ltd have signed an agreement to establish four new retail outlets in the Colombo region, the company said in a stock exchange filing.
-
-“This collaboration brings together Maharaja Foods PLC’s product expertise and distribution capabilities with SPAR Sri Lanka Pvt Ltd’s international retail standards and operational framework.”
-
-Development activities are expected to commence immediately following the MOU signing, with phased rollouts planned later.
-
-The move is part of the company’s long-term strategy to expand its retail presence, enhance consumer access, and strengthen its position in the FMCG and food retail sector, Maharaja Foods said.
-
-Further updates will be communicated to the Exchange and shareholders as appropriate, Maharaja Foods said. (Colombo/Sep12/2025)
-
-◼️
-
-[Data](articles/ba40ae77.json)
-
-[Extended Data](ext_articles/ba40ae77.ext.json)
-
----
-
-### Kopy Chairman Kabir Hashim
-
-*2025-09-12 16:51:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-සභාපති-කබීර්-හෂීම්/11-418459) · `si`
-
-Parliamentarian MP Kabir Hashim was elected as the Committee on Public Accounts (Kopa) for the first meeting of the Third Parliament.
-
-Parliamentarian Aravinda Senarath served as the Chairman of the Committee on Public Accounts on 06.08.2025 at the time of January 12.
-
-Member of Parliamentarian Kabir Hashim for Chairman. The elephants and Rohitha Abeygunawardena were confirmed.
-
-Addressing the Committee, he said that the new president was planning to work in the cooperation of all members without political ideology.  Also, the former Chairman of the Committee, Hon. Aravinda Senarath, specially appreciated the role of Hon.. The new Chairman further further stated that the new plans will be prepared and to maintain the action of the Kopy Panel.
-
-...
-
-[Data](articles/f17526bb.json)
-
-[Extended Data](ext_articles/f17526bb.ext.json)
 
 ---

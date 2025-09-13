@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 21:05:50**
+As of **2025-09-13 20:37:05**
 
 ## Newspaper Stats
 
-*Scraped **75,773** Articles*
+*Scraped **75,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,110 +17,20 @@ islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,358
-adaderanalk | 9,736
-tamilmirrorlk | 11,322
-virakesarilk | 12,351
-adaderanasinhalalk | 13,215
+adaderanalk | 9,735
+tamilmirrorlk | 11,320
+virakesarilk | 12,350
+adaderanasinhalalk | 13,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,086 (92.5%) of 75,773 articles have been extended.
+70,067 (92.5%) of 75,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### වසර 60කට පසු අලුත්වන  පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ
-
-*2025-09-13 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214535) · `si`
-
-දශක ගණනාවකට පසුව කොළඹ පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ ප්‍රතිසංස්කරණය කිරීම සඳහා මේ වනවිට සූදානම් කෙරෙමින් පවති‍යි.
-
-මෙලෙස එම බස් නැවතුම්පොළ පූර්ණ ප්‍රතිසංස්කරණයකට ලක්වන්නේ වසර 60කට පසුවය.
-
-පිටකොටුවට පැමිණෙන ජනතාව වෙනුවෙන් පිටකොටුව මධ්‍යම බස් නැවතුම් පොළ ඉදිවන්නේ 1964 වසරේදී ය.
-
-මේ වන විට එහි සිට දෛනිකව ක්‍රියාත්මක වන බස්රථ ගමන්වාර ගණන 1500කට අධික ය.
-
-දිනකට දහස් ගණනක් භාවිත කරන, එහෙත් දශක ගණනක් පුරා නිසි නඩත්තුවක් නොකිරීම නිසා එම බස් නැවතුම්පොළ අභාවයට යමින් පවතී.
-
-මේ සඳහා විසඳුම් ලබාදීමේ අරමුණින් මෙරට බස් නැවතුම්පොළ 50ක් නවීකරණය කිරීමේ ව්‍යාපෘතියක් ඇරඹීමට රජය පියවර ගෙන තිබේ.
-
-ඒ් යටතේ පිටකොටුව මධ්‍යම බස් නැවතුම් පොළ නවීකරණය කිරීමේ ව්‍යාපෘතිය එළැඹෙන 15 වැනිදා ආරම්භ වීමට නියමිතය.
-
-නව ව්‍යාපෘතිය යටතේ බස් නැවතුම්පොළට නව විවේකාගාර, තොරතුරු සන්නිවේදන ස්ථාන, ආරක්ෂක පද්ධති ඇතුළු අංග රැසක් ස්ථාපිත කිරීමට නියමිතය.
-
-ප්‍රතිසංස්කරණ සඳහා සූදානම් වීමට මේ වන විට බස් නැවතුම් පොළෙහි බස් රථ මෙහෙයුම් නතර කර තිබේ.
-
-එමෙන්ම බස් නැවතුම්පොළ නවීකරණය කිරීමට අදාළව බස් නැවතුම්පොළ පරිශ්‍රයේ පිහිටි වෙළෙඳසැල් ද එම ස්ථානයෙන් ඉවත් කර ඇත.
-
-◼️
-
-[Data](articles/95d3c42d.json)
-
----
-
-### திடீரென பற்றி எரிந்த முச்சக்கரவண்டி
-
-*2025-09-13 20:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திடீரென-பற்றி-எரிந்த-முச்சக்கரவண்டி/76-364506) · `ta`
-
-நாவலப்பிட்டி - தெகிந்த வீதியில் இன்று (13) அதிகாலை முச்சக்கரவண்டி ஒன்று திடீரென தீப்பிடித்து எரிந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-தெகிந்த பகுதியில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு மீண்டும் திரும்புகையில் இவ்விபத்து ஏற்பட்டதாகவும், இதில் யாருக்கும் காயம் ஏற்படவில்லை என்றும் நாவலப்பிட்டி பொலிஸார் மேலும் தெரிவித்தனர்.
-
-முச்சக்கரவண்டியில் ஏற்பட்ட எரிபொருள் கசிவே தீ விபத்துக்கான காரணம் என  பொலிஸார் குறிப்பிட்டுள்ளனர். R
-
-◼️
-
-[Data](articles/d9d63492.json)
-
----
-
-### அறுவை சிகிச்சையின் இடைநடுவே தாதியுடன் வைத்தியர் உடலுறவு
-
-*2025-09-13 20:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/அறுவை-சிகிச்சையின்-இடைநடுவே-தாதியுடன்-வைத்தியர்-உடலுறவு/53-364505) · `ta`
-
-மயக்க மருந்து செலுத்தப்பட்ட நோயாளியை அறுவை சிகிச்சையின் இடைநடுவே விட்டுவிட்டு தாதியுடன் பாலியல் உறவில் வைத்தியர் ஒருவர் ஈடுபட்ட சம்பவம் ஒன்று இங்கிலாந்தில் இடம்பெற்றுள்ளது.
-
-இதனையடுத்து குறித்த வைத்தியர் இங்கிலாந்தில் இருந்து அவரது சொந்த நாடான பாகிஸ்தானுக்கு சென்றுள்ளார்.
-
-எனினும் மீண்டும் இங்கிலாந்தில் பணிபுரிய அனுமதி கோரிய நிலையில் குறித்த சம்பவம் தொடர்பில் மருத்துவ பயிற்சியாளர்கள் தீர்ப்பாயத்தில் விசாரணை நடத்தப்பட்டுள்ளது.
-
-மேலும் அவர் கூறுகையில், சுமார் 8 நிமிடங்கள் அறுவை சிகிச்சையை இடைநிறுத்தியதாகக் குறிப்பிட்டார்.
-
-இதேவேளைக் குறித்த செயலில் ஈடுபட்டமை தவறானது எனவும் அதற்காகத் தான் வெட்கப்படுவதாகவும் தீர்ப்பாயத்தில் வைத்தியர் கூறினார்.
-
-2023 ஆம் ஆண்டு ஜனவரியில் தனது குழந்தை பிறந்ததையடுத்து ஏற்பட்ட மன அழுத்தமே இவ்வாறான செயலில் ஈடுபட வழிவகுத்ததாக அவர் தெரிவித்தார்.
-
-இந்நிலையில் குறித்த சம்பவம் தொடர்பிலான வழக்கு தொடரப்பட்டு வருவதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-...
-
-[Data](articles/9d0806e1.json)
-
----
-
-### Army deserter who shot dead 4 persons last month arrested by STF
-
-*2025-09-13 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112462/army-deserter-who-shot-dead-4-persons-last-month-arrested-by-stf) · `en`
-
-A former army soldier suspected of being involved in four murders, including the shooting death of a former prison officer in Bandaragama and the recent killing of two youths in Borella, has been arrested by the Police Special Task Force (STF).
-
-Police stated that they have received information that the suspect was involved in the shooting and killing of four individuals within the month of August alone.
-
-The Joint Special Operations Unit of the STF camp in Sri Jayawardenapura had received information that the shooter in the murder of two youths in the Sirisara Uyana area of Borella on August 07 was hiding in the Siyambalanduwa area in Ampara.
-
-Accordingly, the suspect in question was arrested in that area yesterday (12).
-
-Further investigations into the suspect have revealed that he was also the shooter in the murder of former prison officer Lalith Kodagoda near the Thunodhiya Bridge in Bandaragama on August 21.
-
-...
-
-[Data](articles/a07c5c19.json)
-
----
 
 ### Sri Lanka to benefit the coin
 
@@ -198,21 +108,19 @@ Investigations have also been found in the possession of the Ice narcotics at th
 
 ---
 
-### Opens three sluice gates of hedkinsanda reservoir
+### රත්කිඳ ජලාශයේ වාන් දොරටු තුනක් විවෘත කරයි
 
 *2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
 
-Tissa Rajaratne says that three sluice gates of Ulhitiyawa Rathcher has been opened today (13).
+උල්හිටිය රත්කිද ජලාශයේ වාන් ගේට්ටු තුනක් අද (13) පස්වරුවේ විවෘත කල බව මාපාකඩ කාර්යභාර ඉංජිනේරු තිස්ස රාජරත්න මහතා පවසයි .
 
-Ulhupitiya Rathchery has been opened at 0.3 meters of one spanner in the reservoir, which has also been opened at 0.3 meters of the two sluice gates.. Therefore, the people informed the people to be vigilant.
+උල්හිටිය රත්කිද ජලාශයේ එක් වාන් ගේට්ටුවක් 0.3 මීටර් බැගින් ද, අනෙක් වාන් ගේට්ටු දෙක 0.2 මීටර් බැගින් ද විවෘත කර තිබෙන බවත් හෙතෙම කීය . මේනිසාවෙන් ජනතාවට අවධානයෙන් සිටින ලෙසට දැනුම් දෙයි .
 
-The Irrigation Water for the Mahaweli Cg Zone has been completed by the reservoir of the reservoir, he said that the reservoir is not due to the reduction of the essential environmental maintenance of the reservoir.
+2025 යල කන්නයට මහවැලි සී කලාපය සදහා අවශ්‍ය වාරි ජලය නිකුත් කිරිම අවසන් වී ඇති බවත් ජලාශයේ අත්‍යාවශ්‍ය හදිසි නඩත්තු කටයුත්තක් සදානා ජලමට්ටම අඩු කර ගැනීම නිසාවෙන් මෙසේ වාන් ගේට්ටු විවෘත කල බව ත්, මින් ගිරාදුරුකෝට්ට රත්කිද මාර්ගයයේ  කෝසුව භාවිතා කිරිමට බාධාවක් නොවන බවද එහි කාර්යභාර නිළධාරි දීප්ත ජයසේකර මහතා සදහන් කලේය .
 
 ◼️
 
 [Data](articles/16756fa8.json)
-
-[Extended Data](ext_articles/16756fa8.ext.json)
 
 ---
 
@@ -1037,22 +945,6 @@ There are four bank accounts named Ramith and four bank accounts, including his 
 [Data](articles/36ca14eb.json)
 
 [Extended Data](ext_articles/36ca14eb.ext.json)
-
----
-
-### பாராளுமன்ற உறுப்பினர்களுக்கான ஓய்வூதியத்தை நீக்குவதற்கான சட்டம் விரைவில் நிறைவேற்றப்படும் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
-
-*2025-09-13 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224980) · `ta`
-
-ஜனாதிபதிகளுக்குரிய சிறப்புரிமைகளை நீக்குவதற்கான சட்டம் நிறைவேற்றப்பட்டுள்ளது. அதேபோன்று பாராளுமன்ற உறுப்பினர்களுக்கான ஓய்வூதியத்தை நீக்குவதற்கான சட்ட வரைவு தயாரிக்கப்படுகிறது. யார் எதிர்ப்பு தெரிவித்தாலும் விரைவில் அதற்கான சட்டம் நிறைவேற்றப்படும் என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
-
-பலப்பிட்டிய பிரதேசத்தில் தபாலகமொன்றை நிர்மாணிப்பதற்கான அடிக்கல் நாட்டும் நிகழ்வில் கலந்துகொண்டு உரையாற்றிய போதே அமைச்சர் இதனைத் தெரிவித்தார். நிகழ்வில் தொடர்ந்தும் உரையாற்றிய அவர்,
-
-பொருளாதாரத்தை ஸ்திரப்படுத்துவதற்கான கொள்கைகள் தயாரிக்கப்பட்டு வருகின்றன. அதற்கமைய, தேசிய வரி வருமான திணைக்களம், மதுவரி திணைக்களம், சுங்க திணைக்களம் உள்ளிட்டவை தமக்கான இலக்கிற்கு அப்பால் இலாபமீட்டியுள்ளன. மறுபுறம் அநாவசிய செலவுகளை குறைத்திருக்கின்றோம். இவற்றின் ஊடாக வரவு – செலவு திட்டத்தின் இடைவெளியை படிப்படியாக சமநிலைப்படுத்த முயற்சிக்கின்றோம்.
-
-...
-
-[Data](articles/7372def3.json)
 
 ---
 
@@ -2127,5 +2019,103 @@ Similarly, the Batticaloa District Secretariat was investigated by the Office of
 [Data](articles/807bab8f.json)
 
 [Extended Data](ext_articles/807bab8f.ext.json)
+
+---
+
+### Meeting Indian High Commissioner and Relo
+
+*2025-09-13 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224955) · `ta`
+
+The meeting took place at the Indian High Commission in Colombo at 2.00 pm on Thursday (11).
+
+Vanni District Parliamentarian and Relo's leader Selvam Adakkalanathan and the party's financial secretary and speaker Kuruswamy Surendran were also present.
+
+At the 60th session of the UN Human Rights, which begins on September 8, the Relo leader said he would welcome India's firm stance that the Sri Lankan government urged the Sri Lankan government to carry out meaning, justice, dignity and reconciliation.
+
+It was also informed the High Commissioner that India's urging the provincial council election should be held in a way that would be fully implemented in the politics.
+
+He also thanked India for the long -term health needs of the people of the area by providing 600 million rupees to the development of the Mannar Hospital.
+
+...
+
+[Data](articles/6ee8ebe4.json)
+
+[Extended Data](ext_articles/6ee8ebe4.ext.json)
+
+---
+
+### Various impacts due to extraordinary climate in Jaffna
+
+*2025-09-13 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/224954) · `ta`
+
+Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that the unusual weather conditions in Jaffna have been affected on Thursday 11th.
+
+In the Navakiri area, a motor room, motor and electric connection in the garden of Thanaya Bhubaneswaran have been completely damaged.
+
+◼️
+
+[Data](articles/423eb149.json)
+
+[Extended Data](ext_articles/423eb149.ext.json)
+
+---
+
+### Vaidyipa girl dies in a well in Jaffna
+
+*2025-09-13 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224953) · `ta`
+
+An elderly woman in Jaffna dies after falling into a well on Friday (12). The deceased is Ramamurthy Seethalakshmi from Tholpuram East and Chiripuram.
+
+Sudden Death Investigation Officer A. Jayapalasingham. The witnesses were regulated by the Vaddukoddai police.
+
+◼️
+
+[Data](articles/f22fa98b.json)
+
+[Extended Data](ext_articles/f22fa98b.ext.json)
+
+---
+
+### Pakistan beat Oman by 93 runs
+
+*2025-09-13 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224952) · `ta`
+
+Pakistan won the match between Pakistan and Oman on Friday, the 4th match of the 2025 Asia Cup.
+
+The Pakistan team won the match in Dubai on Friday (12) and won 160 runs for the loss of 07 wickets in 20 overs.
+
+Mohammed Harris scored 66 off 43 balls, Sahibsada Farhan 29 runs, Fucker Zaman scored 23 unbeaten, Hasan Nawaz scored 9 runs and Mohammed Nawaz scored 19 runs for Pakistan.
+
+Oman's team took three wickets each and Mohammed Nadeem took one wicket each.
+
+Oman were bowled out for 67 in 16.4 overs.
+
+Aamir Kaleem scored 13 runs, captain Jatinar Singh, Sufyan Mehmood and Shah Faisal scored one runs, Hammad Mirza scored 27 runs, Mohammed Nadeem scored 3 runs and Vinayak Shukla scored 2 runs.
+
+Saim Ayub, Sufiyan Mukim and Fahim Ashraf took 2 wickets each while Mohammed Nawaz, Abar Ahmed and Shaheen Shah Afridi took one wicket each.
+
+◼️
+
+[Data](articles/54e8e906.json)
+
+[Extended Data](ext_articles/54e8e906.ext.json)
+
+---
+
+### President asks Provincial and Central Government to work in unison
+
+*2025-09-13 00:42:30* · [`dailyftlk`](https://www.ft.lk/news/President-asks-Provincial-and-Central-Government-to-work-in-unison/56-781637) · `en`
+
+AKD meets Provincial Governors, Chief Ministers ahead of 2026 Budget
+
+President Anura Kumara Disanayake stressed the importance of close coordination and joint action between the central Government and Provincial institutions in the implementation of development projects, the President’s Media Division said.
+
+The President emphasised that the culture of using Provincial institutions merely as instruments for political authority to retain power has been brought to an end under the present Government, while also highlighting the need for the central Government and Provincial institutions to work in unison towards a national plan for the country’s development.
+
+...
+
+[Data](articles/0368f172.json)
+
+[Extended Data](ext_articles/0368f172.ext.json)
 
 ---

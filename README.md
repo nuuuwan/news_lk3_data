@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 10:07:31**
+As of **2025-09-13 10:37:32**
 
 ## Newspaper Stats
 
-*Scraped **75,697** Articles*
+*Scraped **75,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,129 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,349
 adaderanalk | 9,725
-tamilmirrorlk | 11,311
-virakesarilk | 12,335
+tamilmirrorlk | 11,313
+virakesarilk | 12,339
 adaderanasinhalalk | 13,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,477 (91.8%) of 75,697 articles have been extended.
+69,492 (91.8%) of 75,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### නීතිවිරෝධී ජීප් රථ 2ක් සමග දේශපාලනඥයෙක් සහ ව්‍යාපාරිකයෙක් අත්අඩංගුවට
+### வத்தேகம நகர சபையின் முன்னாள் தவிசாளரும் அவரது நெருங்கிய நண்பரும் கைது!
+
+*2025-09-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224972) · `ta`
+
+வத்தேகம நகர சபையின் முன்னாள் தவிசாளரும், அவரது நெருங்கிய நண்பரும் சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட இரண்டு ஜீப் வாகனங்களுடன் பொலிஸாரால் இன்று சனிக்கிழமை (13) கைது செய்யப்பட்டுள்ளனர்.
+
+58 வயதுடைய வத்தேகம நகர சபையின் முன்னாள் தவிசாளர் ரவீந்திர குமார மற்றும் 38 வயதுடைய அவரது நெருங்கிய நண்பரான லக்ஷித மனோஜ் என்ற வர்த்தகருமே கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f007d979.json)
+
+---
+
+### Bus crash
+
+*2025-09-13 10:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தின-மீது-மோதி-பஸ்-விபத்து/175-364494) · `ta`
+
+A bus crashed on Saturday morning (13) in the Moratuwa - Ravadawatte area, police said.
+
+The accident occurred when the bus crashed into a tree and then turned to the left of the road with an iron rod in front.
+
+Police are conducting further investigations as no one has been injured in the accident.. . Remble
+
+◼️
+
+[Data](articles/31b353e9.json)
+
+[Extended Data](ext_articles/31b353e9.ext.json)
+
+---
+
+### Arrested with Becko Saman's colleague
+
+*2025-09-13 09:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெக்கோ-சமனின்-சகா-துப்பாக்கியுடன்-கைது/175-364493) · `ta`
+
+A close associate of Becko Saman, an organized culprit, has been arrested in the Embilipitiya area with a gun.
+
+Police said the suspect was arrested in the Gangayaya area of ​​Embilipitiya with a T-81 rifle, 97 bullets, 2 megacins and a military uniform.
+
+The suspect was arrested on the basis of information revealed during investigations conducted by the Western Province Northern Criminal Division officials. Remble
+
+◼️
+
+[Data](articles/9cf7a98a.json)
+
+[Extended Data](ext_articles/9cf7a98a.ext.json)
+
+---
+
+### Former president and businessman arrested for the Wattegama Urban Council
 
 *2025-09-13 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214511) · `si`
 
-වත්තේගම නගර සභාවේ හිටපු සභාපති සහ ඔහුගේ සමීපතමයෙකු නීතිවිරෝධීව ආනයනය කළ ජීප් රථ 2ක් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested the former chairman of the Wattegama Urban Council and two of his close association with two jeeps.
 
-පොලීසිය සඳහන් කළේ රවින්ද්‍ර කුමාර නම් 58 හැවිරිදි හිටපු සභාපතිවරයා සහ ලක්ෂිත මනෝජ් නමැති 38 හැවිරිදි ව්‍යාපාරිකයෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇති බවය.
+Police said that the 58-year-old former Chairman and 38-year-old businessman named Ravindra Kumara were arrested.
 
 ◼️
 
 [Data](articles/5186931d.json)
+
+[Extended Data](ext_articles/5186931d.ext.json)
+
+---
+
+### இஸ்ரேல் தாக்குதல் எதிரொலி : அமெரிக்க ஜனாதிபதி டிரம்ப்பை சந்தித்தார் கட்டார் பிரதமர்
+
+*2025-09-13 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224964) · `ta`
+
+இஸ்ரேல் அண்மையில் கட்டாரின் தலைநகரான டோஹாவில் உள்ள ஹமாஸ் அமைப்பினரின் சந்திப்பு ஒன்றை இலக்கு வைத்து நடத்திய தாக்குதலுக்குப், கட்டார் பிரதமர் ஷேக் முஹம்மது பின் அப்துல்ரஹ்மான் அல் தானி, அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப்பை நியூயார்க்கில் சந்தித்துப் பேசினார்.
+
+அமெரிக்க ஜனாதிபதி டிரம்ப் முன்மொழிந்த புதிய ஒப்பந்தம் குறித்து விவாதிப்பதற்காக, டோஹாவில் நடைபெற்ற ஹமாஸ் சந்திப்பைக் குறிவைத்து இஸ்ரேல் தாக்குதல் நடத்தியது.
+
+இந்த தாக்குதல், காசாவில் போர் நிறுத்தத்தை முடிவுக்குக் கொண்டு வருவதற்கான பேச்சுவார்த்தைகளைப் பாதிக்கும் என அமெரிக்கா கவலை தெரிவித்தது. இந்த வார தொடக்கத்தில், அமெரிக்கா பொதுவாக இஸ்ரேலுக்கு ஆதரவாக இருந்த போதிலும், ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் கத்தார் மீதான இஸ்ரேலின் தாக்குதலைக் கண்டித்து ஏனைய நாடுகளுடன் இணைந்து கொண்டது.
+
+...
+
+[Data](articles/564731b6.json)
+
+---
+
+### தடுப்புக் காவலில் வைக்கப்பட்டுள்ள பெக்கோ சமனின் உதவியாளர் கைது
+
+*2025-09-13 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/224966) · `ta`
+
+ரி – 56 ரக துப்பாக்கி, 2 மெகசின்கள், 98 தோட்டாக்கள் மற்றும் சீருடையுடன் குறித்த நபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஏம்பிலிப்பிட்டிய, கங்கேயாய பகுதியில் வைத்து குறித்த சந்தேகநபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/efe3c62e.json)
+
+---
+
+### உலகில் முதன்முறையாக ஊழலை எதிர்த்துப் போராட அல்பேனியாவில் AI  அமைச்சர்
+
+*2025-09-13 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/224965) · `ta`
+
+ஐரோப்பிய ஒன்றியத்தில் இணைய தீவிரமாக முயற்சித்துவரும் பால்கன் நாடான அல்பேனியா, தனது அரசாங்கத்தில் ஊழலை ஒழிப்பதற்காக, உலகில் முதல் முறையாக, செயற்கை நுண்ணறிவு (AI) தொழில்நுட்பத்தால் உருவாக்கப்பட்ட ஒரு அமைச்சரை நியமித்துள்ளது.
+
+இந்த டிஜிட்டல் அமைச்சரின் பெயர் டியெல்லா (Diella). அல்பேனிய மொழியில் இதற்கு “சூரியன்" என்று பொருள். அல்பேனியப் பிரதமர் எடி ராமா, டியெல்லாவை "உடல்ரீதியாக இல்லாத ஒரு அமைச்சரவை உறுப்பினர்" என்று அறிமுகப்படுத்தினார். அரசாங்க ஒப்பந்தங்கள் (Public Tenders) 100 வீதம் ஊழல் இல்லாமல் இருப்பதை உறுதி செய்வதே டியெல்லாவின் முக்கியப் பணியாகும்.
+
+2.8 மில்லியன் மக்கள் தொகை கொண்ட அல்பேனியாவில், அரசாங்க ஒப்பந்தங்கள் வழங்குவது நீண்டகாலமாக ஊழலுக்கான ஒரு முக்கிய ஆதாரமாக இருந்து வருகிறது. ஐரோப்பிய ஒன்றியத்தில் இணைவதற்கான அல்பேனியாவின் முயற்சிக்கு, இந்த ஊழல் ஒரு பெரிய தடையாக இருந்து வருகிறது.
+
+...
+
+[Data](articles/18ae24d5.json)
 
 ---
 
@@ -1919,121 +2017,5 @@ The Indonesian weather sects have been notified to be aware of the rainy season.
 [Data](articles/fc1462fa.json)
 
 [Extended Data](ext_articles/fc1462fa.ext.json)
-
----
-
-### I'm headed by the law and only in the face of my people.
-
-*2025-09-12 16:36:03* · [`adalk`](https://www.ada.lk/breaking_news/මා-හිස-නමන්නේ-නීතිය-ඉදිරියේ-සහ-මගේ-ජනතාව-හමුවේ-පමණි-/11-418457) · `si`
-
-Former President Mahinda Rajapaksa says that he is heading only before the law and the people.. Today he has placed this note in his Facebook.
-
-The Wijerama, who was introduced to the new legal status of the President's Title Removal Bill, was legal to the new legal status of the Parliament yesterday morning, after the passage of a new legal situation in parliament yesterday afternoon.. Before some of this, I saw various commands on the media to leave the Wijerama official residence.
-
-I had no need to obey the publications before the media to cover up their inability to cover up their inability to cover up their inability. But after 24 hours, I left Wijerama home with 24 hours with the passing of new rules. That is because we should respect the law. I am the head that I bow down only before the law and my people.
-
-...
-
-[Data](articles/07222343.json)
-
-[Extended Data](ext_articles/07222343.ext.json)
-
----
-
-### Sri Lanka makes big jump in Global Democracy Rankings
-
-*2025-09-12 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112439/sri-lanka-makes-big-jump-in-global-democracy-rankings) · `en`
-
-Sri Lanka has moved up 15 places in the 2025 Global Democracy Index compared to the previous year, according to the latest report by an intergovernmental democracy watchdog.
-
-The Global State of Democracy 2025, published by the Stockholm-based International Institute for Democracy and Electoral Assistance (IDEA), has analyzed democratic performance in 173 countries in 2024.
-
-Sri Lanka is ranked 58th in this year’s report with a score of 0.655 having jumped up 15 places from the previous year with only Botswana (20) and Mauritius (23) having made higher gains in the year-on-year rankings.
-
-“Sri Lanka performs in the mid-range across all four categories of the Global State of Democracy Framework and is among the top 25 per cent of countries in the world regarding several factors, including Civic Engagement and Electoral Participation,” the report said.
-
-...
-
-[Data](articles/69938429.json)
-
-[Extended Data](ext_articles/69938429.ext.json)
-
----
-
-### Elderly death
-
-*2025-09-12 16:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-வயோதிபர்-மரணம்/175-364470) · `ta`
-
-காலியில் மெதம்பாகம பிரதேசத்தில் உள்ள ரயில் கடவையில் நேற்று மாலை ரயிலில் மோதி வயோதிபர் உயிரிழந்துள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
-
-The deceased is 68 years old from Galle - Pusa, police said.
-
-◼️
-
-[Data](articles/d0c8708d.json)
-
-[Extended Data](ext_articles/d0c8708d.ext.json)
-
----
-
-### A three-wheeler accident where eight
-
-*2025-09-12 16:19:15* · [`adalk`](https://www.ada.lk/breaking_news/අට-දෙනෙක්-ගමන්-කළ-ත්‍රීරෝද-රථ-අනතුරක/11-418456) · `si`
-
-A three-wheeler transport and a car transported by the Norwood main road, a schoolgirl and a schoolgirl and the driver of the three-wheeler hospital.
-
-The accident occurred today (12th), Hatton Norwood main road is in Neaweiwela,
-
-The accident had occurred from a car from Diyasiri Tamil Maha Vidyalaya to the Norwood Tamil Vidyalaya, where school children were transporting school children from Diyasiyig Tamil Maha Vidyalaya this morning.
-
-There were six schools with six schools and a teacher in the three-wheeler at the time of the accident.
-
-Norwood police said that over the three-wheeler were driven by over the three-wheeler, the Norwood police are conducting further investigations.
-
-◼️
-
-[Data](articles/55a3aa44.json)
-
-[Extended Data](ext_articles/55a3aa44.ext.json)
-
----
-
-### Apart of Katunayake Air Force
-
-*2025-09-12 16:13:56* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ගුවනින්-ආපු-සර්පයෝ/11-418455) · `si`
-
-The Katunayaka passenger woman who has been taken to the "Green Mawatha" (GREEN PAINNELL), the Katunayaka Mawatha, which is not told by the "Green Channel '(GREEN AIRMA) has been sent to the" Green Channel ". Arrested on intelligence information.
-
-She is a 40 year old businessman residing in Keselwatta, Colombo. She had arrived at Thailand in Thailand and arrived at Chennai in Thailand and arrived at the Katunayake Airport on N.- 1173.
-
-The woman brought mettic in two baggage she had brought. Happened.
-
-When she became a large bodied snakes, they would be impossible to release them to forest areas, as they were to sell these snakes, as they were to keep their homes in their homes.
-
-In a plane, such living animals have been illegally and dangerous to the Customs Premise, customs officially ordered to take back these snakes after Customs Investigations.
-
-...
-
-[Data](articles/df2b6032.json)
-
-[Extended Data](ext_articles/df2b6032.ext.json)
-
----
-
-### Indictments served on Ramith Rambukwella
-
-*2025-09-12 16:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112438/indictments-served-on-ramith-rambukwella) · `en`
-
-The Bribery Commission has filed indictments before the Colombo High Court against Ramith Rambukwella, son of former Minister Keheliya Rambukwella, for failing to disclose the source of allegedly illegally acquired assets valued at over Rs. 270 million.
-
-The case, filed under the Anti-Corruption Act, charges the accused—who also served as the private secretary to former Minister Keheliya Rambukwella—with failing to disclose how he acquired cash and properties amounting to Rs. 275,302,616.06 out of the assets and properties amounting to Rs. 296,566,444.76 acquired by him between January 1, 2022, and November 14, 2023.
-
-According to the charge sheet, the assets allegedly acquired illegally include two residences at a luxury apartment complex on Dharmapala Mawatha, Colombo 07, valued at Rs. 80 million and Rs. 65 million respectively, four bank accounts under the defendant’s name, four bank accounts belonging to his wife, and a Land Rover Discovery valued at over Rs. 18 million.
-
-◼️
-
-[Data](articles/820402ec.json)
-
-[Extended Data](ext_articles/820402ec.ext.json)
 
 ---

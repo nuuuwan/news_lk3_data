@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 14:20:25**
+As of **2025-09-13 15:05:35**
 
 ## Newspaper Stats
 
-*Scraped **75,728** Articles*
+*Scraped **75,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,101 @@ economynextcom | 4,592
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,353
+adalk | 7,354
 adaderanalk | 9,732
 tamilmirrorlk | 11,315
-virakesarilk | 12,341
-adaderanasinhalalk | 13,199
+virakesarilk | 12,347
+adaderanasinhalalk | 13,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,670 (92.0%) of 75,728 articles have been extended.
+69,703 (92.0%) of 75,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### நேபாள இடைக்கால பிரதமருக்கு  ஜனாதிபதி வாழ்த்து
+### கட்டாருடனான ஒருமைப்பாட்டை வெளிப்படுத்தியது இலங்கை
+
+*2025-09-13 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224996) · `ta`
+
+இலங்கையின் வெளிவிவகார பிரதி அமைச்சர் அருண் ஹேமச்சந்திரா, கட்டாரின் வெளிவிவகார அமைச்சர் சுல்தான் பின் சாத் பின் சுல்தான் அல் முரைகியுடன் இன்று சனிக்கிழமை (13) தொலைபேசியில் உரையாடியுள்ளார்.
+
+இதன்போது, இலங்கையின் வெளிவிவகார பிரதி அமைச்சர் அருண் ஹேமச்சந்திரா கட்டாரில் அண்மையில் இடம்பெற்ற தாக்குதல்கள் குறித்து இலங்கையின் கவலைகளை வெளிப்படுத்தினார்.
+
+இலங்கை நேரப்படி சனிக்கிழமை (13) காலை 11:30 மணிக்கு இந்த தொலைபேசி உரையாடல் இடம்பெற்றதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/1912184a.json)
+
+---
+
+### Israeli - a new proposal for the Palestinian problem
+
+*2025-09-13 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214520) · `si`
+
+Israeli-Palestinian problem for the Palestinian problem was passed yesterday at the United Nations General Assembly.
+
+There were 142 countries in favor and 10 countries were against the opposition and 12 countries.
+
+The US and Israel are among countries that voted against the proposal.
+
+The proposal was passed yesterday, as a result of Saudi Arabia and France, the United Nations International Conference last July.
+
+It is noteworthy that a number of countries including France, Canada, Britain, and Australia to accept the Palestine as a legitimate state during the 21st of the second term of September.
+
+In the meantime, Israel says this proposal is passed in the United Nations General Assembly.
+
+◼️
+
+[Data](articles/57a2b22f.json)
+
+[Extended Data](ext_articles/57a2b22f.ext.json)
+
+---
+
+### President congratulates Nepal interim prime minister
 
 *2025-09-13 14:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாள-இடைக்கால-பிரதமருக்கு-ஜனாதிபதி-வாழ்த்து/175-364499) · `ta`
 
 நேபாளத்தின் இடைக்கால அரசாங்கத்தின் புதிய பிரதமராக நியமிக்கப்பட்டுள்ள சுசீலா கார்க்கிக்கு ஜனாதிபதி அநுர குமார திசாநாயக்க வாழ்த்து தெரிவித்துள்ளார்.
 
-"சுசீலா கார்க்கி அவர்கள் நேபாளத்தின் பிரதமராகப் பொறுப்பேற்றதற்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன். அவரது தலைமை, நேபாளத்தை அமைதி மற்றும் ஜனநாயகத்திற்கு இட்டுச்செல்லும் என நாங்கள் முழுமையாக நம்புகிறோம்," என்று ஜனாதிபதி  பதிவிட்டுள்ளார்.
+“I convey my heartfelt congratulations to Susila Karki as the Prime Minister of Nepal. We fully believe that his leadership will lead Nepal to peace and democracy, ”the president posted.
 
-கடந்த செப்டம்பர் 8-ஆம் திகதி நேபாளத்தில் இடம்பெற்ற மக்கள் போராட்டங்களைத் தொடர்ந்து, அந்நாட்டின் முன்னாள் பிரதமர் கே.பி. ஷர்மா ஒலி தலைமையிலான அரசு கவிழ்ந்தது. மக்கள் போராட்டங்களில் குறைந்தது 51 பேர் உயிரிழந்தனர். R
+Following the popular protests in Nepal on September 8, the former Prime Minister of the country KP. Sharma Sound -led government collapsed. At least 51 people died in people's struggles. Remble
 
 ◼️
 
 [Data](articles/bdbf3e30.json)
+
+[Extended Data](ext_articles/bdbf3e30.ext.json)
+
+---
+
+### இருபதுக்கு - 20 கிரிக்கெட் : புதிய சாதனை படைத்த இங்கிலாந்து வீரர் பில் சால்ட் !
+
+*2025-09-13 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/224991) · `ta`
+
+இங்கிலாந்து மற்றும் தென் ஆப்பிரிக்கா ஆகிய அணிகளுக்கு இடையே, மான்செஸ்டரில் நடைபெற்ற இரண்டாவது இருபதுக்கு 20 போட்டியில், இங்கிலாந்து அணி 146 ஓட்டங்கள் வித்தியாசத்தில் அபார வெற்றி பெற்றது.
+
+இந்தப் போட்டியில் இங்கிலாந்து அணி 20 ஓவர்களில் 2 விக்கெட் இழப்புக்கு 304 ஓட்டங்களை பெற்று, சர்வதேச இருபதுக்கு - 20 வரலாற்றில் அதிகபட்ச ஓட்ட எண்ணிக்கை என்ற புதிய சாதனையை படைத்துள்ளது.
+
+இந்தப் போட்டியில் இங்கிலாந்து அணியின் ஆரம்ப துடுப்பாட்டக்காரராகக் களமிறங்கிய, பில் சால்ட், 60 பந்துகளில் 8 சிக்ஸர்கள் மற்றும் 15 பவுண்டரிகள் உட்பட 141 ஓட்டங்களைக் குவித்தார்.
+
+இதன் மூலம், இருபதுக்கு 20 கிரிக்கெட்டில் இங்கிலாந்து அணிக்காக அதிவேகமாக சதம் அடித்தவர் என்ற சாதனையை அவர் படைத்துள்ளார்.
+
+இதற்கு முன்பு, லியாம் லிவிங்ஸ்டன் 42 பந்துகளில் சதம் அடித்திருந்ததே இங்கிலாந்தின் அதிவேக சதமாக இருந்தது.
+
+இந்தப் போட்டியின் சதம், பில் சால்ட்டிற்கு சர்வதேச இருபதுக்கு 20 கிரிக்கெட்டில் நான்காவது சதமாகும்.
+
+இதன் மூலம், அதிக சதங்கள் அடித்த வீரர்களின் பட்டியலில் அவர் இந்திய வீரர் சூர்யகுமார் யாதவுடன் இரண்டாவது இடத்தைப் பகிர்ந்து கொண்டார்.
+
+...
+
+[Data](articles/d58bd790.json)
 
 ---
 
@@ -68,6 +134,42 @@ Sri Lanka’s deflationary policies have helped to see inflows amid curtailed im
 
 [Data](articles/a459015c.json)
 
+[Extended Data](ext_articles/a459015c.ext.json)
+
+---
+
+### பஸ்களில் அலங்கார பொருட்களை பொருத்த தடை!
+
+*2025-09-13 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224992) · `ta`
+
+2023ஆம் ஆண்டு ஜூன் 02ஆம் திகதின்று பயணிகள் பஸ்களில் அலங்கார பொருட்களை பொருத்துவதற்கு அனுமதித்து, சுற்றறிக்கை ஒன்று வெளியிடப்பட்டிருந்தது.
+
+ஆனால் குறித்த சுற்றறிக்கை 2025ஆம் ஆண்டு செப்டம்பர் 09ஆம் திகதியுடன் இரத்து செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ee575bcb.json)
+
+---
+
+### நேபாள இடைக்கால பிரதமருக்கு  ஜனாதிபதி அநுர வாழ்த்து!
+
+*2025-09-13 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224989) · `ta`
+
+ஜனாதிபதி அநுர குமார திசாநாயக்க, நேபாளத்தின் இடைக்கால அரசாங்கத்தின் புதிய பிரதமராக நியமிக்கப்பட்டுள்ள சுசீலா கார்க்கிக்கு வாழ்த்து தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் பதிவிட்டுள்ள வாழ்த்தில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
+
+" சுசீலா கார்க்கி அவர்கள் நேபாளத்தின் பிரதமராகப் பொறுப்பேற்றதற்கு எனது மனமார்ந்த வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன். அவரது தலைமை, நேபாளத்தை அமைதி மற்றும் ஜனநாயகத்திற்கு இட்டுச்செல்லும் என நாங்கள் முழுமையாக நம்புகிறோம்," என்று ஜனாதிபதி  பதிவிட்டுள்ளார்.
+
+கடந்த செப்டம்பர் 8-ஆம் திகதி நேபாளத்தில் இடம்பெற்ற மக்கள் போராட்டங்களைத் தொடர்ந்து, அந்நாட்டின் முன்னாள் பிரதமர் கே.பி. ஷர்மா ஒலி தலைமையிலான அரசு கவிழ்ந்தது. மக்கள் போராட்டங்களில் குறைந்தது 51 பேர் உயிரிழந்தனர்.
+
+நேபளத்தின் முன்னாள் தலைமை நீதிபதியான சுசீலா கார்க்கி, இடைக்கால பிரதமராக வெள்ளிக்கிழமை (செப்டம்பர் 12 ) இரவு ஜனாதிபதி அலுவலகத்தில் இடைக்கால பிரதமராக பதவியேற்றார்.
+
+...
+
+[Data](articles/cdb3ff8b.json)
+
 ---
 
 ### Circular allowing decorations and accessories on buses cancelled
@@ -85,6 +187,24 @@ Circular allowing decorations and accessories on buses cancelled  by  Adaderana 
 [Data](articles/9f7ffad7.json)
 
 [Extended Data](ext_articles/9f7ffad7.ext.json)
+
+---
+
+### வெளிநாட்டு தொலைக்காட்சித் தொடர்களைப் பார்த்தாலோ, பகிர்ந்தாலோ மரண தண்டனை: வட கொரியா குறித்து ஐ.நா. அறிக்கை
+
+*2025-09-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224987) · `ta`
+
+வட கொரியாவில், தென் கொரியா உள்ளிட்ட வெளிநாட்டுத் தொலைக்காட்சித் தொடர்களைப் பார்ப்பது அல்லது பகிர்வது கடுமையான குற்றமாகக் கருதப்படுகிறது. இதுகுறித்து வெள்ளிக்கிழமை (செப்டம்பர் 12) ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையில் ஐ.நா. மனித உரிமைகள் ஆணைக்குழு  அறிக்கையொன்றை வெளியிட்டுள்ளது.
+
+வட கொரிய அரசு, புதிய தொழில்நுட்பங்களின் உதவியுடன் மக்களின் அன்றாட நடவடிக்கைகளை மிகவும் தீவிரமாகக் கண்காணித்து வருகிறது. இதன் விளைவாக, தண்டனைகள் மிகவும் கடுமையாக்கப்பட்டுள்ளன.
+
+2015 ஆம் ஆண்டுக்குப் பின்னர் நடைமுறைக்கு வந்த புதிய சட்டங்கள், அந்நாட்டுக் குடிமக்களின் வாழ்க்கையின் ஒவ்வொரு அம்சத்திலும் அரசாங்கத்தின் கட்டுப்பாட்டை அதிகரித்துள்ளன.
+
+தென்கொரியாவின் பிரபல 'கே-டிராமாக்கள்' (K-Dramas) உட்பட வெளிநாட்டுத் தொலைக்காட்சித் தொடர்களை விநியோகித்ததற்காக, பல வட கொரியர்கள் ஏற்கனவே தூக்கிலிடப்பட்டுள்ளனர் என வட கொரியாவுக்கான மனித உரிமைகள் ஆணையாளர் ஜேம்ஸ் ஹீனன் தெரிவித்தார்.
+
+...
+
+[Data](articles/def4a2f2.json)
 
 ---
 
@@ -231,6 +351,20 @@ When the case came up for hearing in the presence of Matara Chief Magistrate Sat
 [Data](articles/18a6ffad.json)
 
 [Extended Data](ext_articles/18a6ffad.ext.json)
+
+---
+
+### 3.45 மில்லியன் ரூபா பெறுமதியான வெளிநாட்டு சிகரட்டுகளுடன் வர்த்தகர் கட்டுநாயக்கவில் கைது!
+
+*2025-09-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224975) · `ta`
+
+சட்டவிரோதமாக கொண்டுவரப்பட்ட வெளிநாட்டு சிகரட்டுகளுடன் வர்த்தகர் ஒருவர் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து இன்று சனிக்கிழமை (13) காலை விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின் போது, பயணப்பொதியிலிருந்து "மான்செஸ்டர்" ரக 23 ஆயிரம் வெளிநாட்டு சிகரட்டுகள் அடங்கிய 115 சிகரட்டு காட்டுன்கள் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/1e9f4482.json)
 
 ---
 
@@ -657,6 +791,26 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 [Data](articles/2c418401.json)
 
 [Extended Data](ext_articles/2c418401.ext.json)
+
+---
+
+### The Bribery Committee shall be approved by the Public Finance Committee
+
+*2025-09-13 08:15:32* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමේ-අයවැයට-රජයේ-මුදල්-කාරක-සභාවේ-අනුමතිය/11-418472) · `si`
+
+The Committee shall be approved for the government's finance estimate for the Bribery and Corruption Commission 2026.
+
+The approval was approved by the Committee on Government Finance when he met with Hon. Parliamentaries, Dr. Harsha de Silva.
+
+The Chairman of the Committee pointed out that the Central Bank of Sri Lanka has a financial independence to provide financial independence to the Bribery Investigation Commission more independently, as well as the Auditor General's Department. He added that these institutions can act more independently under any government outside the existing political authority.. As a result, the Committee decided to inform the Minister of Finance, Minister of Finance.
+
+The parliamentarian also pointed out that the prosecution of the Chairman, Director General of the Commission and the Members of the Committee should be corresponded to the Chairman of the Court of Appeal.
+
+...
+
+[Data](articles/1a8b8856.json)
+
+[Extended Data](ext_articles/1a8b8856.ext.json)
 
 ---
 
@@ -1909,155 +2063,5 @@ A Pre-Departure Briefing held at the British Council Library in Colombo gathered
 [Data](articles/6bb9f3ac.json)
 
 [Extended Data](ext_articles/6bb9f3ac.ext.json)
-
----
-
-### NCC and FITIS signs MoU to empower Sri Lankan exporters for global reach
-
-*2025-09-12 19:45:00* · [`islandlk`](http://island.lk/ncc-and-fitis-signs-mou-to-empower-sri-lankan-exporters-for-global-reach/) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) has signed a Memorandum of Understanding (MoU) with the Federation of Information Technology Industry Sri Lanka (FITIS), marking a significant milestone in expanding opportunities for Sri Lankan exporters to access global markets.
-
-FITIS members will gain exclusive access to connect with international buyers and markets through www.fromsriLanka.com, a digital platform initiated by NCCSL.  At occasion of signing the agreement Dr. Dayan Rajapakse Chairman FITIS told “The collaboration aims to foster export growth, enhance competitiveness, and create new avenues for Sri Lankan small and medium-sized enterprises (SMEs), particularly in the ICT sector, to expand globally.
-
-He also told that “FITIS as the apex body representing Sri Lanka’s ICT industry, we are proud to collaborate with the National Chamber to support our members in reaching global audiences, unlocking new growth potential, and contributing to national economic development.”
-
-...
-
-[Data](articles/fe3bf27f.json)
-
-[Extended Data](ext_articles/fe3bf27f.ext.json)
-
----
-
-### AI adoption and threat complexity fuelling increase in cybersecurity burnout in APAC and Japan: Sophos
-
-*2025-09-12 19:42:00* · [`islandlk`](http://island.lk/ai-adoption-and-threat-complexity-fuelling-increase-in-cybersecurity-burnout-in-apac-and-japan-sophos/) · `en`
-
-Shadow AI, resource shortages, and rising attack volumes put pressure security teams
-
-Sophos, a global leader in advanced security solutions, unveiled the 5th edition of its report The Future of Cybersecurity in Asia Pacific and Japan (APJ), produced in collaboration with Tech Research Asia (now part of Omdia). The findings reveal that cybersecurity burnout remains high across the region, with 86% of organisations surveyed experiencing issues (up from 85% in 2024) – primarily driven by increased threat activity, lack of resources, and complex compliance requirements.
-
-The 2025 report also highlights how AI is having a two-pronged effect on cybersecurity with AI-powered security tools helping to alleviate some of the issues associated with fatigue, while shadow AI use by employees is complicating cybersecurity efforts.
-
-...
-
-[Data](articles/2eb6be02.json)
-
-[Extended Data](ext_articles/2eb6be02.ext.json)
-
----
-
-### Sampath Bank crowned as the Best Bank for ESG in Sri Lanka by Euromoney
-
-*2025-09-12 19:42:00* · [`islandlk`](http://island.lk/sampath-bank-crowned-as-the-best-bank-for-esg-in-sri-lanka-by-euromoney/) · `en`
-
-Sampath Bank has been recognised as Sri Lanka’s Best Bank for Environmental, Social, and Governance (ESG) at the Euromoney Awards for Excellence 2025. The award was ceremonially presented in Singapore, positioning Sampath Bank among a distinguished group of global and regional banking and financial institutions recognised for embedding sustainability into their core strategies and creating long term value for all stakeholders.
-
-...
-
-[Data](articles/73878a0c.json)
-
-[Extended Data](ext_articles/73878a0c.ext.json)
-
----
-
-### Whatever we are building today, the foundation for security - US Ambassador Julie Sung
-
-*2025-09-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224947) · `ta`
-
-US Ambassador to Sri Lanka Julie Sung said that what we are building today is the foundation for our shared security tomorrow.
-
-The Pacific Angel 2025, which illustrates the US's determination to ensure excellence and partnership in the Indo-Pacific region.. While addressing the gathering, US Ambassador to Sri Lanka Julie Sung said the above.
-
-The US Embassy in Sri Lanka celebrated the success of the Pacific Angel 2025 training process with the Sri Lanka Air Force and the Ministry of Defense.
-
-US Ambassador Julie Sangh, Defense Secretary (Retired) Air Marshal Sampath Dihakonda and Sri Lanka Air Force Commander Air Marshal Vasal Vasal Vasal Vasinga joined the participants to celebrate the largest multinational training in Sri Lanka this year.
-
-The Pacific Angel 2025 training, which took place from 8th to 12th September, united shareholders to strengthen disasters and humanitarian cooperation.
-
-...
-
-[Data](articles/4b168a4b.json)
-
-[Extended Data](ext_articles/4b168a4b.ext.json)
-
----
-
-### Indian delegation reviews Sri Lanka Northern fishery harbour project
-
-*2025-09-12 19:06:00* · [`economynextcom`](https://economynext.com/indian-delegation-reviews-sri-lanka-northern-fishery-harbour-project-240433/) · `en`
-
-ECONOMYNEXT – A four-member delegation from India’s Central Institute of Coastal Engineering for Fishery (CICEF) conducted preliminary studies for the proposed development of the Point Pedro fishery harbour in Sri Lanka’s Northern Province during a five-day visit, the Indian High Commission in Colombo said in a statement.
-
-The team, representing the Ministry of Fisheries, Animal Husbandry and Dairying of the Government of India, was in Sri Lanka from September 8 to 12, where it met key stakeholders and carried out site inspections.
-
-During their visit, the delegation held talks with Sri Lanka’s Minister of Fisheries, Aquatic and Ocean Resources, Ramalingam Chandrasekar, Northern Province Governor Nagalingam Vethanayahan, senior ministry officials, and the Chief Secretary of the province.
-
-The discussions focused on modalities of developing the harbour with Indian financial assistance.
-
-...
-
-[Data](articles/f264a770.json)
-
-[Extended Data](ext_articles/f264a770.ext.json)
-
----
-
-### 86 killed in ancient boat
-
-*2025-09-12 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214495) · `si`
-
-Foreign media reports that at least 86 persons have died due to the accident.
-
-However, the cause of the accident is yet to be revealed.
-
-◼️
-
-[Data](articles/1d0fd3d6.json)
-
-[Extended Data](ext_articles/1d0fd3d6.ext.json)
-
----
-
-### Trump says suspect in Charlie Kirk murder in custody
-
-*2025-09-12 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112442/trump-says-suspect-in-charlie-kirk-murder-in-custody) · `en`
-
-A suspect in the fatal shooting of conservative activist Charlie Kirk at a Utah university has been taken into custody, U.S. President Donald Trump said on Friday, ending an intense manhunt that followed what Trump described as a “heinous assassination.”
-
-Kirk’s killer had eluded police and federal agents for more than 24 hours after Wednesday’s shooting, in which a sniper fired a single gunshot that killed Kirk, 31, during an appearance at Utah Valley University in Orem.
-
-“I think we have him,” Trump told the “Fox and Friends” show in an interview, adding that a person who knows the suspect had turned him in. “I think with a high degree of certainty we have him in custody.”
-
-Trump did not share the suspect’s identity. Investigators were due to brief journalists later on Friday.
-
-The suspect was in the custody of Utah state law enforcement, a person familiar with the investigation said, asking for anonymity.
-
-...
-
-[Data](articles/ce5afe3d.json)
-
-[Extended Data](ext_articles/ce5afe3d.ext.json)
-
----
-
-### The date for the annual celebration of the UNP was marked
-
-*2025-09-12 18:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-ஆண்டு-விழாவுக்கு-திகதி-குறிக்கப்பட்டது/175-364472) · `ta`
-
-The 79th anniversary of the United National Party is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on the 20th.
-
-The meeting was held yesterday under the leadership of UNP leader and former president Ranil Wickremesinghe.
-
-While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
-
-Accordingly, the postponement of the United National Party (UNP) is scheduled to be held on the 20th of this month.. Remble
-
-◼️
-
-[Data](articles/326b66cc.json)
-
-[Extended Data](ext_articles/326b66cc.ext.json)
 
 ---

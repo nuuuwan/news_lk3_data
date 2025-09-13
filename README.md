@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 19:53:24**
+As of **2025-09-13 20:20:13**
 
 ## Newspaper Stats
 
@@ -26,51 +26,57 @@ adaderanasinhalalk | 13,214
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,022 (92.4%) of 75,767 articles have been extended.
+70,044 (92.4%) of 75,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2025-09-13 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214534) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනා ගැනීමට  ශ්‍රී ලංකා කණ්ඩායම සමත් වුණා.
+Sri Lanka won the toss and win the coin between Sri Lanka and Bangladesh in the Asia Cup T20 cricket tournament today (13).
 
-'B' කණ්ඩයේ තරගයක් ලෙසින් අබුඩාබිහිදී පැවැත්වෙන මෙම තරගයේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු තරගය ද මෙය වේ.
+Accordingly, the Sri Lankan team first invited Bangladesh to bat.
 
-ශ්‍රී ලංකාව හා බංග්ලාදේශ එක්සත් අරාබි එමීර් රාජ්‍යයේ දී විස්සයි20 තරගයකදී මුණගැසෙන තෙවන අවස්ථාව ද මෙයයි.
+This is the first match of the Sri Lankan team in Abuvenabiu as a 'B' match.
 
-පෙර පැවැති තරග දෙක සාජා හා ඩුබායි හිදී පැවති අතර, එම තරග දෙකම ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව ඇත.
+This is also the third time in Sri Lanka and Bangladesh United Arabian Emirates.
 
-ඒ අනුව ඔවුනොවුන් අබුඩාබි හිදී විස්සයි20 ක්‍රිකට් තරගයකදී මුහුණට මුහුණ හමුවන පළමු අවස්ථාව ද මෙය වේ.
+Sri Lanka team has won both matches in Sharjah and Dubai.
 
-මෙම තරගාවලිය යටතේ බංග්ලාදේශය ක්‍රීඩාකළ පළමු තරගයෙන් හොංකොං කණ්ඩායම කඩුලු 7කින් පරාජය කිරීමට සමත් වූ අතර, ඒ සමග ඔවුන් 'B' කණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ දෙවන ස්ථානයේ රැඳී සිටී.
+This is the first time in Abu Dhabi, a Twenty20 cricket match.
 
-ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය චරිත් හසලංක විසින්ද, බංග්ලාදේශ නායකත්වය ලින්ටන් දාස් විසින් ද දරන ලබයි.
+Hong Kong defeated the Hong Kong by 7 wickets in the first match of Bangladesh in this tournament.
+
+Charith Belivery, the captaincy of the Sri Lankan team, bear the Bangladesh leadership by Linton HS.
 
 ◼️
 
 [Data](articles/ea13e063.json)
 
+[Extended Data](ext_articles/ea13e063.ext.json)
+
 ---
 
-### மியன்மாரில் மேலும் 13 இலங்கையர்கள் தடுத்து வைப்பு
+### 13 more Sri Lankans detained in Myanmar
 
 *2025-09-13 19:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-மேலும்-13-இலங்கையர்கள்-தடுத்து-வைப்பு/175-364504) · `ta`
 
-மியன்மாரின் சைபர் கிரைம் மோசடி முகாம்களில் மேலும் 13 இலங்கையர்கள் தடுத்து வைக்கப்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Foreign Ministry has said that 13 more Sri Lankans have been detained in Myanmar's cybercrime scam camps.
 
-மியன்மாரில் மியாவாடி பகுதியில் உள்ள இந்த சைபர் கிரைம் மோசடி முகாம்கள் தீவிரவாதிகளால் இயங்கி வருகின்றன.
+These cybercrime scam camps in Miyawadi area in Myanmar are operating by extremists.
 
-சுற்றுலா விசாவில் மியன்மாருக்க சென்ற இலங்கையர்களே இவ்வாறு சைபர் கிரைம் மோசடி முகாம்களில் தடுத்து வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+It is reported that Sri Lankans who went to Myanmaru on a tourist visa have been detained in cybercrime scam camps.
 
-இவர்களை மீண்டும் அழைத்துவர நடவடிக்கை எடுக்கப்பட்டு வருவதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+The Ministry of External Affairs has said that steps are being taken to bring them back. Remble
 
 ◼️
 
 [Data](articles/ee9f8efd.json)
+
+[Extended Data](ext_articles/ee9f8efd.ext.json)
 
 ---
 

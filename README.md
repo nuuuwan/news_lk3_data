@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 15:55:05**
+As of **2025-09-13 16:20:14**
 
 ## Newspaper Stats
 
-*Scraped **75,742** Articles*
+*Scraped **75,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,37 +12,139 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 768
-economynextcom | 4,592
+economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,354
-adaderanalk | 9,732
-tamilmirrorlk | 11,316
-virakesarilk | 12,347
-adaderanasinhalalk | 13,205
+adalk | 7,355
+adaderanalk | 9,733
+tamilmirrorlk | 11,317
+virakesarilk | 12,348
+adaderanasinhalalk | 13,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,754 (92.1%) of 75,742 articles have been extended.
+69,791 (92.1%) of 75,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### අරගලයෙන් පසු බලයට පත් නේපාල අගමැතිනියට ජනපතිගෙන් සුබ පැතුම්
+### Sri Lanka, Philippines hold 3rd political consultations, eye closer ties in trade, labour, fisheries
+
+*2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-hold-3rd-political-consultations-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
+
+ECONOMYNEXT – Sri Lanka and the Philippines concluded the third round of political consultations in Colombo, with both countries pledging to expand cooperation across a wide range of sectors ahead of the 65th anniversary of their diplomatic relations in 2026, the island nation’s Foreign Ministry said.
+
+Foreign Secretary Aruni Ranaraja during the meeting concluded on Friday expressed hope that Manila would consider reopening its resident mission in Colombo. She also noted that Sri Lanka looks forward to working with the Philippines as it prepares to take on the ASEAN chairmanship.
+
+The talks focused on boosting cooperation in agriculture, labour, trade, fisheries, culture, defence, and education, while also addressing broader regional and multilateral issues.
+
+...
+
+[Data](articles/58b9acca.json)
+
+---
+
+### It is information that there are 13 Sri Lankans in Myanmar Crime camps
+
+*2025-09-13 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214527) · `si`
+
+According to the Ministry of External Affairs, 13 other Sri Lankans have been detained in Myanmar criminal camps.
+
+According to its media spokesman Thushara Rodrigo, has reported that a group of tourist visas had been detained in the cyber camp.
+
+The cyber bases are controlled near Myanmar's Miyark area and a large number of Sri Lankans were in the campers.
+
+Steps were taken to bring the people to the country after a severe effort by the intervention of embassies.
+
+The Ministry of External Affairs points out that some Sri Lankans who are in the computer sector will take foreign visas and then they are being recovered.
+
+◼️
+
+[Data](articles/5a3a0222.json)
+
+[Extended Data](ext_articles/5a3a0222.ext.json)
+
+---
+
+### Northern Korea's death sentence up
+
+*2025-09-13 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214526) · `si`
+
+According to UN High Commissioner for Human Rights, the implementation of death penalty has increased significantly.
+
+The number of people who are sentenced to death has increased significantly to the death penalty of the death penalty in relation to events, especially on foreign film and television television teledramas.
+
+It is said that the North Korean people have implemented strict rules in the past decade to prevent the North Korean to prevent the external world.
+
+The United Nations High Commission has pointed out that there is no other country in the present rules in the present country.
+
+◼️
+
+[Data](articles/4214197a.json)
+
+[Extended Data](ext_articles/4214197a.ext.json)
+
+---
+
+### வரதட்சணை கொடுமை? விரைவில் கைதாகும் ஹன்சிகா
+
+*2025-09-13 15:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/வரதட்சணை-கொடுமை-விரைவில்-கைதாகும்-ஹன்சிகா/54-364501) · `ta`
+
+நடிகை ஹன்சிகா மோத்வானி மீது போலீசார் பதிவு செய்த வழக்கை ரத்து செய்ய, நீதிமன்றம் மறுத்துள்ளது. நடிகை ஹன்சிகாவை நாத்தனார் கொடுமை வழக்கில் விசாரிக்க போலீசார் திட்டமிட்டுள்ளனர்.
+
+ஹன்சிகாவின் திருமணம் ஜெய்பூர் அரண்மனையில் கடந்த 2022-ம் ஆண்டு நடைபெற்றது. ஹன்சிகாவின் திருமணம் முடிந்து 10 நாட்களுக்குள் அவருடைய சகோதரர் பிரசாந்த் மோத்வானி மனைவியுடன் ஏற்பட்ட கருத்து வேறுபாடு காரணமாக விவாகரத்துக் கோரி விண்ணப்பித்தார்.
+
+ஹன்சிகாவின் சகோதரர் பிரசாந்த் 2021ல் முஸ்கான் நான்ஸி ஜேம்ஸ் என்ற பெண்னை திருமணம் செய்து கொண்டார். ஒரே வருடத்தில் அவர்கள் பிரிந்துவிட்டனர்.
+
+இந்த நிலையில் ஹன்சிகா மோத்வானி மற்றும் தாயார் மேனா மோத்வானி ஆகியோர் தன்னை கொடுமைப் படுத்துவதாகவும், கணவருடன் இணைந்து வாழ முடிவெடுத்தாலும் அதற்கு இவர்கள் இருவரும் தடையாக இருக்கிறார்கள் என்று முஸ்கான் நான்சி மும்பை காவல் நிலையத்தில் புகார் அளித்துள்ளார்.
+
+முஸ்கானின் புகாரின் அடிப்படையில் மும்பையில் உள்ள அம்போலி காவல் நிலையத்தில் ஹன்சிகா, அவரது சகோதரர் பிரசாந்த் மற்றும் தாயார் மேனா மோத்வானி ஆகியோர் மீது வழக்குப் பதிவு செய்யப்பட்டது.
+
+...
+
+[Data](articles/d990ec0e.json)
+
+---
+
+### නේපාලයේ නව අන්තර්කාලීන අගමැතිනියට ජනපතිගෙන් සුබ පැතුම්
 
 *2025-09-13 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214525) · `si`
 
-නේපාලයේ අන්තර්කාලීන රජයේ අගමැති ධුරයට පත් වූ සුෂිලා කාර්කි මහත්මියට ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය සුබ පැතුම් පිරිනමා තිබේ.
+President Anura Kumara Dissanayake has been greeted by President Anura Kumara Dissanayake who was appointed as the Prime Minister of Nepal.
 
-සිය X ගිණුමේ සටහනක් තබමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා එහි සඳහන් කර ඇත්තේ ඇගේ නායකත්වයෙන් නේපාලයේ ස්ථීර සාමය සහ ප්‍රජාතන්ත්‍රවාදය නැවත ස්ථාපිත කිරීමට හැකිවනු ඇතැයි තමන් විශ්වාස කරන බවය.
+President Anura Kumara Dissanayake said that he believes that he would be able to restore permanent peace and democracy in Nepal with her leadership.
 
 ◼️
 
 [Data](articles/40222ef4.json)
+
+[Extended Data](ext_articles/40222ef4.ext.json)
+
+---
+
+### Traffic restrictions on Colombo-Galle main road at Wadduwa
+
+*2025-09-13 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112459/traffic-restrictions-on-colombo-galle-main-road-at-wadduwa) · `en`
+
+Police have issued a notice regarding traffic restrictions on the Colombo-Galle Main Road in the Wadduwa are due to the annual ‘Sri Dalada Perahera’ of the Daladawatta Purana Maha Viharaya in Thalpitiya, Wadduwa.
+
+The Perahera is scheduled to commence tonight (13), featuring nearly 100 performances including traditional dance troupes and elephants. A large number of devotees are expected to attend, according to police.
+
+During the Perahera’s procession, from 7:00 p.m. today (13 September) to 1:00 a.m. tomorrow (14 September), heavy traffic congestion is expected along the Colombo-Galle Main Road in the Wadduwa Police Division.
+
+Accordingly, motorists and the general public are advised to use the following alternative routes:
+
+• From the Panadura Clock Tower, proceed to Bandaragama via Alubomulla on the Horana Road.
+
+• At the Bandaragama Junction, turn right onto Moronthuduwa Road, then turn left at Wadiyamankada Junction and proceed towards Galle via Kalutara.
+
+...
+
+[Data](articles/6ac8baac.json)
 
 ---
 
@@ -65,6 +167,30 @@ Accordingly, 26,985 persons have been inspected in the island yesterday.
 [Data](articles/8725deea.json)
 
 [Extended Data](ext_articles/8725deea.ext.json)
+
+---
+
+### Major announcement for motorists who use the Colombo -Galle main road!
+
+*2025-09-13 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225002) · `ta`
+
+A key notice has been issued for motorists who use the Colombo -Galle main road.
+
+Traffic has been controlled on the Colombo -Galle main road due to the Annual Talada Perahera at the Sri Thaladawatta Vihara in Vatuwa, Talpitiya.
+
+The Perahera procession is to be held on Saturday (13) on the Colombo -Galle Main Road.
+
+Therefore, heavy traffic congestion on the Colombo -Galle main road in the Datuwa Police Division during the procession from 7:00 pm to 1:00 am today (13).
+
+Go to the Bandaragama Junction on Moronduduwa Road from the Panadura Manikku Tower to Horana Road, and go to the left of the Bandaragama junction to the left of the Mangada junction to the left of the Kalutara via Kalutara.
+
+Go to Bandaragama Junction to Bandaragama Junction to Bandaragama Junction to Moronduduwa road from Vadiyai Mangada Junction, which belongs to the Kalutara North Police Division, and go to the right to Panadura.
+
+◼️
+
+[Data](articles/6c82c945.json)
+
+[Extended Data](ext_articles/6c82c945.ext.json)
 
 ---
 
@@ -933,6 +1059,26 @@ According to the proclamation, he faces charges under the IPC and UAPA for offen
 [Data](articles/2c418401.json)
 
 [Extended Data](ext_articles/2c418401.ext.json)
+
+---
+
+### Ready to hold PC election
+
+*2025-09-13 08:20:37* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභා-මැතිවරණය-පැවැත්වීමට-සූදානම්/11-418473) · `si`
+
+Elections Commissioner Janhankanayake said that the provincial council elections will be held at any time, according to the law passed by the Parliament.
+
+He was speaking to the media after participating in the "digital literate entertainment program organized by the People's Movement for a fair election for the members of the Matale District Local Authorities.
+
+"The Commission is required to hold an election. The recommendation of the provincial council bill was abolished by the Act No. 17 of 2017.
+
+The approval of the parliament. Therefore, the parliament has the key to the parliamentary delegation to the parliamentarian.
+
+◼️
+
+[Data](articles/4d6579b5.json)
+
+[Extended Data](ext_articles/4d6579b5.ext.json)
 
 ---
 
@@ -1941,153 +2087,5 @@ In response to a question asked by T3, Buddhika Hewawasam, Chairman of the Sri L
 [Data](articles/a27f5195.json)
 
 [Extended Data](ext_articles/a27f5195.ext.json)
-
----
-
-### Charlie Kark's killer arrested
-
-*2025-09-12 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214499) · `si`
-
-The suspect in the murder of young political active Charlie Kark's murder was arrested last Wednesday.
-
-After shooting the suspect, the FBI had previously stated that the FBI had previously stated that the FBI had previously stated that the FBI had previously been paid for accurate information about the suspect.
-
-The police were also found by the police that suspicized the shooting had been carried out.
-
-The violent shot was attacked by his neck while attending a lecture at a university at a university in Charlie Kark, 31 year old Charlie Kark, Yuta.
-
-◼️
-
-[Data](articles/7e73a65b.json)
-
-[Extended Data](ext_articles/7e73a65b.ext.json)
-
----
-
-### Walking from Mullaithivu in support of the Mannar wind farm
-
-*2025-09-12 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/224949) · `ta`
-
-Two youths arrived in Mannar on Friday evening (12) as two youths started a walk towards Mannar in support of the Mannar windmill.
-
-Two youths started a walk from Mullivaikkal in the Mullaitivu district on Wednesday (10) in protest of the wind farm in Mannar.
-
-They were traveling from Mullaitivu and distributing leaflets to trade centers and the public on the streets.
-
-The two youths arrived at the Mannar Duradi junction at 6 pm on Friday (12).
-
-The two youths were greeted by the Mannar Citizens' Committee Chairman Aruttand S. Makas Adikallar and the people and the youth who were carrying out the protest in Mannar.
-
-Later, a group of people visited the Mannar Bazaar area and distributed leaflets against the windmill to trade centers in the Bazaar area.
-
-◼️
-
-[Data](articles/0440e591.json)
-
-[Extended Data](ext_articles/0440e591.ext.json)
-
----
-
-### Former chief justice Karki named Nepal’s first female leader after unrest
-
-*2025-09-12 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112445/former-chief-justice-karki-named-nepals-first-female-leader-after-unrest) · `en`
-
-Sushila Karki, a former chief justice, will become the first woman to lead Nepal, to be sworn in as interim leader later on Friday after violent anti-graft protests forced Prime Minister K.P. Sharma Oli to resign, the president’s office said.
-
-President Ramchandra Paudel’s office announced Karki’s appointment following negotiations between Paudel, army chief Ashok Raj Sigdel and the protesters who led Nepal’s worst upheaval in years.
-
-Fifty-one people were killed and more than 1,300 injured this week in the anti-graft protests by the ‘Gen Z’ movement, named for the age of its mainly young supporters.
-
-The protest was sparked by a social media ban that has since been rolled back. The violence subsided only after Oli resigned on Tuesday.
-
-Karki, 73, would take the oath of office at 9:15 p.m. local time (1530 GMT), said Archana Khadka Adhikari, information officer at the president’s office. Two other ministers would also be sworn in along with her, local TV channels reported.
-
-...
-
-[Data](articles/94c0d3b4.json)
-
-[Extended Data](ext_articles/94c0d3b4.ext.json)
-
----
-
-### Former CJ is appointed as the interim Prime Minister of Nepal
-
-*2025-09-12 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214498) · `si`
-
-Former CJ has been appointed as the interim prime minister of Nepal.
-
-The media reported that she is to be sworn in tonight as the head of the interconnected administration.
-
-◼️
-
-[Data](articles/53d8d871.json)
-
-[Extended Data](ext_articles/53d8d871.ext.json)
-
----
-
-### Youth arrested with drug pills in Jaffna
-
-*2025-09-12 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/224948) · `ta`
-
-A 20 -year -old youth has been arrested with 40 drug pills during a round of raids carried out on Friday, 12th of this month in Colombo, Jaffna.
-
-The arrest was carried out by the Jaffna Police Station Drug Prevention Unit of confidential information received by the Police Intelligence Unit under the Jaffna District Senior Superintendent of Police.
-
-Police are taking steps to bring the suspect in court after investigations.
-
-◼️
-
-[Data](articles/08016873.json)
-
-[Extended Data](ext_articles/08016873.ext.json)
-
----
-
-### Charlie Kirk shooting suspect identified as Tyler Robinson
-
-*2025-09-12 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112444/charlie-kirk-shooting-suspect-identified-as-tyler-robinson) · `en`
-
-The suspect arrested in connection with the shooting of conservative activist Charlie Kirk has been identified as Tyler Robinson, a 22-year-old man from Utah, authorities said Friday.
-
-Kirk, 31, was fatally shot on Wednesday while he was speaking to around 3,000 people at an event at Utah Valley University. The manhunt that ensued took several twists and turns in the hours following the shooting.
-
-Two people were taken into custody on Wednesday, but both were later released.
-
-Earlier Friday, President Trump announced during an appearance on Fox & Friends that a suspect was in custody. “I think with a high degree of certainty we have him,” he said.
-
-Investigators and authorities on Thursday night pleaded for the public’s help in finding the gunman. Utah Gov. Spencer Cox said that law enforcement had received more than 7,000 tips related to the shooting.
-
-...
-
-[Data](articles/4b6aeef0.json)
-
-[Extended Data](ext_articles/4b6aeef0.ext.json)
-
----
-
-### President meet with representatives of the President and the Youth Entrepreneurs
-
-*2025-09-12 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214497) · `si`
-
-President Anura Kumara Dissanayake said the government hopes to expand the market opportunities for local businesses and entrepreneurs.
-
-The President made this observation at a 2026 pre-budget discussion with the participation of the Youth Entrepreneurs (COYLE).
-
-The President added that the government will provide the provision of infrastructure, law regulations and regulation of infrastructure facilities to do business.
-
-The departments were made in writing of the challenges and problems that have arisen in the field.
-
-Special attention has been paid to the fact that the public has paid special attention to the modernity of the state.
-
-2026 The President also evaluated the government's commitment to create a country that was strongly confirmed by the law, corruption and frauds that had been asserted to the Budget for the budget.
-
-And they also presented a souvenir to President Anura Kumara Dissanayake to mark this occasion.
-
-◼️
-
-[Data](articles/317d6df3.json)
-
-[Extended Data](ext_articles/317d6df3.ext.json)
 
 ---

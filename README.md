@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 21:37:47**
+As of **2025-09-13 22:07:10**
 
 ## Newspaper Stats
 
-*Scraped **75,774** Articles*
+*Scraped **75,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,358
-adaderanalk | 9,736
+adaderanalk | 9,738
 tamilmirrorlk | 11,323
 virakesarilk | 12,351
-adaderanasinhalalk | 13,215
+adaderanasinhalalk | 13,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,113 (92.5%) of 75,774 articles have been extended.
+70,117 (92.5%) of 75,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### රුපියල් මිලියන 85ක් වටිනා කුෂ් මත්ද්‍රව්‍ය සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
+
+*2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
+
+රුපියල් මිලියන 85ක් වටිනා කුෂ් කිලෝග්‍රෑම් 8.542ක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ  ඉන්දියානු ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් කටුනායකදී අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/46260ef7.json)
+
+---
+
+### Indian arrested with Kush worth Rs. 85 million at BIA
+
+*2025-09-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112464/indian-arrested-with-kush-worth-rs-85-million-at-bia) · `en`
+
+An Indian national has been arrested by officers of the Police Narcotics Bureau (PNB) at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a large consignment of Kush cannabis.
+
+The 33-year-old suspect, who had arrived from Thailand and was bound for India, was found in possession of 8.542 kilograms of Kush cannabis, with an estimated street value of Rs. 85 million, police said.
+
+◼️
+
+[Data](articles/8b36ef7d.json)
+
+---
+
+### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
+
+*2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
+
+ගින්න මේ වන විටත් රක්ෂිතය පුරා පැතිර යමින් පවතින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+ප්‍රදේශය පුරා පවතින වියළි කාලගුණය සහ තද සුළං හේතුවෙන් රක්ෂිතය පුරා ගින්න පැතිර යමින් පවතින බවද වාර්තා වේ.
+
+◼️
+
+[Data](articles/4d52bcfe.json)
+
+---
+
+### Trump says he’s ready to put ‘major sanctions’ on Russia if NATO nations do the same
+
+*2025-09-13 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112463/trump-says-hes-ready-to-put-major-sanctions-on-russia-if-nato-nations-do-the-same) · `en`
+
+US President Donald Trump said Saturday he is “ready to do major Sanctions on Russia” once all NATO countries have started “to do the same thing” and pause their purchases of oil from Moscow.
+
+He also urged NATO countries to impose “50% to 100% TARIFFS ON CHINA,” which he said should be withdrawn after the Russia-Ukraine war has concluded.
+
+“China has a strong control, and even grip, over Russia, and these powerful Tariffs will break that grip,” Trump wrote in a Truth Social post, which he said was the text of a letter sent to all NATO nations and “the world.”
+
+Trump has repeatedly threatened to impose sanctions on Russia over its invasion of Ukraine, but has so far held off from doing so.
+
+Earlier this month, the president said he was prepared to move towards a second phase of sanctioning Russia, but has not yet imposed the levies.
+
+...
+
+[Data](articles/ee045e10.json)
+
+---
 
 ### Enhan
 
@@ -2055,85 +2117,5 @@ However, reports say that rescue and relief measures have been challenged in the
 [Data](articles/e3f71292.json)
 
 [Extended Data](ext_articles/e3f71292.ext.json)
-
----
-
-### Nepal's first female prime minister
-
-*2025-09-13 04:18:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முதல்-பெண்-பிரதமர்-பதவியேற்றார்/50-364488) · `ta`
-
-Former Chief Justice of the country Susila Karki was elected as the interim prime minister of Nepal. With this she is the first woman Prime Minister of Nepal.
-
-In Nepal, the Communist Government, led by Prime Minister KP Sharma Sound (age 73), collapsed by the Jen See youth. This has caused political confusion in the country. A series of consultations were made on whom to choose the country's interim prime minister. Nepal Army Commander Ashok Sikdel made consultations on this.
-
-In this, the protesters unanimously supported Nepal's former Chief Justice Susila Karki as the interim prime minister of Nepal.
-
-Susiela Karki was sworn in as the interim prime minister last night (12). Nepal President Ram Chandra Pavudan was sworn in.
-
-Karki held his first cabinet meeting after taking office. The meeting was decided to hold a new general election on March 4 next year.
-
-...
-
-[Data](articles/9f979fbf.json)
-
-[Extended Data](ext_articles/9f979fbf.ext.json)
-
----
-
-### Awareness Alert for State Executive Officers on the use of artificial intelligence
-
-*2025-09-13 04:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224960) · `ta`
-
-Another workshop organized by the State Executive Officers was held at the Alari House on Friday (12) to address the use of artificial intelligence to transform public service into a effective and effective service.
-
-Under the topic of the AI ​​for Transforming Public Service, the Secretary to the Ministry of Government Ministries participated in the workshop organized by the Digital Economic Ministry in cooperation with the Presidential Secretariat.
-
-The workshop has been organized with the aim of enacting and preparing state officials and making a favorable attitude towards artificial intelligence within the public service as an initial entry of the government's plan to digitize public service.
-
-President of the President, Dr. Nandika Sanath Kumanayake, said that the public service should be prepared for digital exchange and that the existing public service should be switched.
-
-...
-
-[Data](articles/43c37c9e.json)
-
-[Extended Data](ext_articles/43c37c9e.ext.json)
-
----
-
-### Electronic Court Plan; The first phase of action is the beginning of the High Court
-
-*2025-09-13 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224958) · `ta`
-
-The first step in the 'Electronic Court' program of digitalizing the High Court's action to provide the publication of the court service to improve the functioning of the court service and provide the public's efficient court service, the first step in the 'Electronic Court' program, which is the first step in the 'Electronic Court' program, the first step in the formation of the High Court's case management structure and the modernized network Colombo 12 on Friday 12th. The court was held at the 80 Judge Training Institute.
-
-The new structure was inaugurated by the Chief Justice, Members of the Judicial Service Commission, Supreme Court Justice Mahinda Samarawawardena and High Court Judge S. Thurairasa.
-
-The Court of Appeal, the Court of Appeal, has been decided to implement the modernization of the court structure, including the Supreme Court and the District Magistrate's Court.
-
-◼️
-
-[Data](articles/59a288bf.json)
-
-[Extended Data](ext_articles/59a288bf.ext.json)
-
----
-
-### Opposition to the privatization of state banks; State Bank employees demonstration in Colombo
-
-*2025-09-13 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224957) · `ta`
-
-State bank employees staged a protest on Friday, demanding a number of demands, including the privatization scheme of state banks.
-
-State bank employees staged a demonstration to protest the government's plan to privatize state banks in the country and demand a solution to the problems faced by bank employees.. The state bank joint union coalition organized the struggle and the Orattars gathered in front of the Lake House yesterday morning.
-
-State Bank Employees Union President Sanna Dissanayake said in this regard.
-
-Bank employees from about 6 state banks in the country are engaged in a protest today. With the intervention of private banks, there are massive problems in the state bank building type. The administration of state banks depends on the government. Although the Ministry of Finance has repeatedly requested to provide a solution to the problems of bank employees, the relevant authorities have not taken care of them.
-
-...
-
-[Data](articles/c83035d8.json)
-
-[Extended Data](ext_articles/c83035d8.ext.json)
 
 ---

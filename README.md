@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 08:57:41**
+As of **2025-09-13 09:38:07**
 
 ## Newspaper Stats
 
-*Scraped **75,690** Articles*
+*Scraped **75,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,589
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,348
-adaderanalk | 9,721
+adalk | 7,349
+adaderanalk | 9,725
 tamilmirrorlk | 11,311
 virakesarilk | 12,335
 adaderanasinhalalk | 13,190
@@ -26,11 +26,29 @@ adaderanasinhalalk | 13,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,408 (91.7%) of 75,690 articles have been extended.
+69,446 (91.7%) of 75,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### NIA court summons Pakistani official in Sri Lanka over plot to bomb US, Israeli consulates in India – report
+
+*2025-09-13 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112451/nia-court-summons-pakistani-official-in-sri-lanka-over-plot-to-bomb-us-israeli-consulates-in-india-report) · `en`
+
+The special NIA court in Poonamallee has issued a proclamation, directing a Pakistani official working in the country’s high commission in Sri Lanka to appear before it on October 15, to respond to charges of conspiring to bomb the American consulate in Chennai and Israeli consulate in Bengaluru.
+
+The official summoned has been identified as Amir Zubair Siddiqui with a permanent address in Karachi, Pakistan, and working as a visa counsellor in Colombo.
+
+According to the proclamation, he faces charges under the IPC and UAPA for offences including criminal conspiracy, waging war against India and using forged or counterfeit notes. The court said he has absconded.
+
+...
+
+[Data](articles/2c418401.json)
+
+[Extended Data](ext_articles/2c418401.ext.json)
+
+---
 
 ### Deputy Ministers depict powers of the Gamunt Sports Regulations Act
 
@@ -58,25 +76,49 @@ Therefore, if gaming games have a renewed effect on the gambling regulatory supe
 
 ---
 
-### கொங்கோவில் இருவேறு படகு விபத்துகளில் சுமார் 193 பேர் உயிரிழப்பு !
+### Sri Lanka welcomes UN resolution endorsing New York declaration on Palestine
 
-*2025-09-13 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224962) · `ta`
+*2025-09-13 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112450/sri-lanka-welcomes-un-resolution-endorsing-new-york-declaration-on-palestine) · `en`
 
-வடமேற்கு கொங்கோ ஜனநாயகக் குடியரசில் இருவேறு படகு விபத்துகளில் சுமார் 193 பேர் உயிரிழந்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Sri Lanka has welcomed the adoption by the United Nations General Assembly (UNGA) of the resolution endorsing the New York Declaration on the peaceful settlement of the Question of Palestine and the implementation of the two-state solution.
 
-இந்த விபத்தில் பலர் காணாமல் போயுள்ளதாக அந்த நாட்டு அதிகாரிகளும் ஊடகங்களும் தெரிவித்துள்ளன.
+In a statement, the Ministry of Foreign Affairs, Foreign Employment and Tourism expressed its sincere appreciation to Saudi Arabia and France for their leadership in advancing this important initiative.
 
-ஈக்வடேர் மாகாணத்தில், சுமார் 150 கிலோமீற்றர் தூரத்தில் புதன் மற்றும் வியாழக்கிழமைகளில் இந்த விபத்துகள் இடம்பெற்றுள்ளன.
+Sri Lanka reaffirmed its unwavering support for the inalienable right of the Palestinian people to statehood, in accordance with the purposes and principles of the Charter of the United Nations and the relevant UN resolutions.
 
-மாகாணத்தின் லுகோலெலா பிரதேசத்திலுள்ள கொங்கோ ஆற்றின் குறுக்கே வியாழக்கிழமை மாலை, சுமார் 500 பயணிகளுடன் பயணித்த ஒரு படகு தீப்பிடித்து கவிழ்ந்து விபத்துக்குள்ளானதில் 107 பேர் உயிரிழந்ததாக கொங்கோவின் மனிதாபிமான விவகார அமைச்சு அறிக்கையொன்றினூடாக தெரிவித்துள்ளது.
-
-இதேவேளை, புதன்கிழமை மாகாணத்தின் பசன்குசு பிரதேசத்தில படகொன்று கவிழ்ந்து விபத்துக்குள்ளானதில், 86 பேர் உயிரிழந்ததாக மாநில ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. இந்த விபத்தில் பலர் காணாமல் போயுள்ளனர்.
-
-விபத்துக்கான காரணம் குறித்த தகவல்கள் கிடைக்கவில்லை எனவும் வெள்ளிக்கிழமை மாலை மீட்பு நடவடிக்கைகள் இடம்பெற்றனவா என்பது குறித்தும் தெளிவான தகவல்கள் கிடைக்கவில்லை.
+The United Nations General Assembly on Friday overwhelmingly voted to endorse a declaration outlining “tangible, timebound, and irreversible steps” towards a two-state solution between Israel and the Palestinians ahead of a meeting of world leaders.
 
 ...
 
+[Data](articles/84c5b081.json)
+
+[Extended Data](ext_articles/84c5b081.ext.json)
+
+---
+
+### Nearly 193 people die in two boat accidents in Congo.
+
+*2025-09-13 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224962) · `ta`
+
+International media reports that about 193 people have been killed in two other boat accidents in the Northwest Congress.
+
+Officials and media of the country have said that many have disappeared in the accident.
+
+The accidents occurred on Wednesday and Thursdays in Ecuador, about 150 kilometers.
+
+The Humanitarian Affairs Ministry of the Humanitarian Affairs Ministry said that 107 people were killed when a boat carrying about 500 passengers crashed across the Congo River in the province of Lugolela area on Thursday evening.
+
+Meanwhile, state media reports that 86 people were killed when a boat crashed in the Pasanku area of ​​the province on Wednesday. Many people have disappeared in this accident.
+
+There is no clear information about the cause of the accident and whether the rescue operations were held on Friday evening.
+
+State media reports that overweight and night journey is the cause of Wednesday's boat crash.
+
+◼️
+
 [Data](articles/906f9027.json)
+
+[Extended Data](ext_articles/906f9027.ext.json)
 
 ---
 
@@ -95,6 +137,44 @@ Accordingly, the President of the country has announced that the Nepal parliamen
 [Data](articles/05466561.json)
 
 [Extended Data](ext_articles/05466561.ext.json)
+
+---
+
+### Nepal’s Parliament dissolves as new PM sworn-in; polls set for March 2026
+
+*2025-09-13 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112449/nepals-parliament-dissolves-as-new-pm-sworn-in-polls-set-for-march-2026) · `en`
+
+Nepal President Ramchandra Paudel on Friday dissolved the House of Representatives at the recommendation of newly appointed interim Prime Minister Sushila Karki, and announced fresh parliamentary elections for March 21, 2026.
+
+Karki, 73, a former Chief Justice, was sworn in as Nepal’s first woman prime minister late Friday, ending days of turmoil after the KP Sharma Oli government collapsed amid violent nationwide protests. The unrest, triggered by a controversial social media ban, had forced Oli to step down earlier this week.
+
+President Paudel administered the oath of office and secrecy to Karki at Sheetal Niwas under Article 80 of the Constitution. Congratulating her, he said: “Hearty congratulations, you will succeed to save the country.”
+
+The swearing-in was attended by Nepal’s chief justice, security chiefs, senior officials, diplomats and former Prime Minister Baburam Bhattarai.
+
+...
+
+[Data](articles/9bdc61c6.json)
+
+[Extended Data](ext_articles/9bdc61c6.ext.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-09-13 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112448/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+The Meteorology Department states that a few spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+Showers or thundershowers will occur in several places in Eastern and Uva provinces after 1.00 p.m.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers, the Department added.
+
+◼️
+
+[Data](articles/a57b5b58.json)
+
+[Extended Data](ext_articles/a57b5b58.ext.json)
 
 ---
 
@@ -153,6 +233,18 @@ The centurion has passed the centuries by 39 balls, while England batsman scored
 [Data](articles/bff76186.json)
 
 [Extended Data](ext_articles/bff76186.ext.json)
+
+---
+
+### හෙද අනුස්ථාපන පාඨමාලාවට හෙද උපාධිධාරීන් බඳවා ගැනීමේ සම්මුඛ සාකච්ඡා දින දෙකක්
+
+*2025-09-13 07:12:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-අනුස්ථාපන-පාඨමාලාවට-හෙද-උපාධිධාරීන්-බඳවා-ගැනීමේ-සම්මුඛ-සාකච්ඡා-දින-දෙකක්/11-418467) · `si`
+
+හෙද අනුස්ථාපන හා සමායෝජන පාඨමාලාව සඳහා විද්‍යාවේදී (හෙද) උපාධිධාරීන් බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණය 2025 සැප්තැම්බර් මස 13 සහ 14 දෙදින සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ දී පැවැත් වේ. වැඩිදුර තොරතුරු www.health .gov.lk නිල වෙබ් අඩවියට ලබාගත හැක.
+
+◼️
+
+[Data](articles/6ade4939.json)
 
 ---
 
@@ -1945,117 +2037,5 @@ Founder director Tilak de Silva earlier sold his 39 percent stake to the Vallibe
 [Data](articles/9f26366b.json)
 
 [Extended Data](ext_articles/9f26366b.ext.json)
-
----
-
-### Showers in some parts of the weekend
-
-*2025-09-12 15:46:48* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයේ-පළාත්-කිහිපයකට-වැසි/11-418454) · `si`
-
-Several showers will occur in the Western, Sabaragamuwa provinces and several showers in Galle, Matara, Kandy, Kandy and Nuwara Eliya districts.. At the Kurunegala District and Uva provinces. Showers or thundershowers will occur at several places around 1.00.
-
-◼️
-
-[Data](articles/50aa36d2.json)
-
-[Extended Data](ext_articles/50aa36d2.ext.json)
-
----
-
-### Sri Lanka stocks close down, budget concerns cause volatility
-
-*2025-09-12 15:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-budget-concerns-cause-volatility-240388/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-“Some investors are talking about the budget, there’s confusion creating some volatility,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
-
-“After the initial dip the market rallied, but slid back down.”
-
-The ASPI was down 0.14 percent, or 29.43 points, at 20,612. The S&P SL20 was down 0.22 percent, or 12.73 points, at 5,873.
-
-The top five positive contributors to the ASPI were DFCC Bank (up 2.75 rupees at 155.75), Nations Trust Bank (up 5.75 rupees at 268), Chevron Lubricants (up 4 rupees at 174), Cargills (Ceylon0 (up 9.75 rupees at 809.75), and Watawala Plantations (up 1.40 rupees at 36.10).
-
-Commercial Bank (down 3 rupees at 187) and Sampath Bank (down 75 cents at 140 rupees) were among the negative contributors weighing the index down.
-
-“There is some investor interest in the smaller banks like SDB.”
-
-...
-
-[Data](articles/46eb1043.json)
-
-[Extended Data](ext_articles/46eb1043.ext.json)
-
----
-
-### Note: Former President Mahinda Rajapaksa, Official Home
-
-*2025-09-12 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214485) · `si`
-
-Former President Mahinda Rajapaksa has placed a note at his Facebook account for the incident.
-
-The former President has said that the President's Title Removal Bill was respected and resigned from the official residence.
-
-The ex-President's full note recorded in his face book below,
-
-"The Wijerama, who was introduced to the official residence of the Presidential Legal Status, held on Wednesday, held on Wednesday, held on Wednesday, held on Wednesday, held on Wednesday in parliament yesterday.
-
-I saw some of the various commands carried out before the media to leave Wijerama official residence. I had no need to obey the publications before the media to cover up their inability to cover up their inability to cover up their inability. But after 24 hours, I left Wijerama home with 24 hours with the passing of new rules. That is because we should respect the law. I am the head that I bow down only before the law and my people.
-
-...
-
-[Data](articles/02da7f02.json)
-
-[Extended Data](ext_articles/02da7f02.ext.json)
-
----
-
-### Preschool children injured in Norwood accident
-
-*2025-09-12 15:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோர்வூட்-விபத்தில்-பாலர்-பாடசாலை-குழந்தைகள்-அறுவர்-காயம்/76-364469) · `ta`
-
-Six preschool children and a teacher were injured in a tragedy in the Hatton-Pokawantalawa main road in Norwood Navegama area this morning.
-
-Police said the accident occurred when a three -wheeler carrying the children and their teacher crashed into a car from the opposite direction.
-
-It is said that the unprotected spare part of the three -wheeler crashed into the car and suffered severe damage.
-
-The injured were taken to Tikoya Source Hospital. Hospital sources confirmed that all other other than a child returned home after outpatient treatment.
-
-Norwood police said that a woman who was driving a car was arrested on suspicion
-
-◼️
-
-[Data](articles/52296715.json)
-
-[Extended Data](ext_articles/52296715.ext.json)
-
----
-
-### Two first teams who meet in history to the field today in Dubai
-
-*2025-09-12 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214484) · `si`
-
-The match between Pakistan and Oman will be held today (12) this year's Asian Cup Twenty20 cricket tournament.
-
-It will commence at 8 pm in Sri Lanka's time as a radio.
-
-The contest is the fourth match of the tournament.
-
-This competition is the first time Pakistan and Oman will compete in the face of international cricket.
-
-Pakistan, who is a fully member of the ICC, has over 73 years of international cricket.
-
-They played their first Test to India in 1952.
-
-However, an ICC semi member country is a ten-year experience in the international cricket ground.
-
-They have played the first international competition against Afghanistan in 2015.
-
-◼️
-
-[Data](articles/50d5612a.json)
-
-[Extended Data](ext_articles/50d5612a.ext.json)
 
 ---

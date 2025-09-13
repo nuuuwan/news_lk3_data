@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 21:55:42**
+As of **2025-09-13 21:37:47**
 
 ## Newspaper Stats
 
-*Scraped **75,776** Articles*
+*Scraped **75,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,17 @@ adalk | 7,358
 adaderanalk | 9,736
 tamilmirrorlk | 11,323
 virakesarilk | 12,351
-adaderanasinhalalk | 13,217
+adaderanasinhalalk | 13,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,113 (92.5%) of 75,776 articles have been extended.
+70,113 (92.5%) of 75,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### රුපියල් මිලියන 85ක් වටිනා කුෂ් මත්ද්‍රව්‍ය සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
-
-*2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
-
-රුපියල් මිලියන 85ක් වටිනා කුෂ් කිලෝග්‍රෑම් 8.542ක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ  ඉන්දියානු ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරු බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් කටුනායකදී අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/46260ef7.json)
-
----
-
-### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
-
-*2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
-
-ගින්න මේ වන විටත් රක්ෂිතය පුරා පැතිර යමින් පවතින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
-
-ප්‍රදේශය පුරා පවතින වියළි කාලගුණය සහ තද සුළං හේතුවෙන් රක්ෂිතය පුරා ගින්න පැතිර යමින් පවතින බවද වාර්තා වේ.
-
-◼️
-
-[Data](articles/4d52bcfe.json)
-
----
 
 ### Enhan
 
@@ -2125,5 +2097,43 @@ President of the President, Dr. Nandika Sanath Kumanayake, said that the public 
 [Data](articles/43c37c9e.json)
 
 [Extended Data](ext_articles/43c37c9e.ext.json)
+
+---
+
+### Electronic Court Plan; The first phase of action is the beginning of the High Court
+
+*2025-09-13 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224958) · `ta`
+
+The first step in the 'Electronic Court' program of digitalizing the High Court's action to provide the publication of the court service to improve the functioning of the court service and provide the public's efficient court service, the first step in the 'Electronic Court' program, which is the first step in the 'Electronic Court' program, the first step in the formation of the High Court's case management structure and the modernized network Colombo 12 on Friday 12th. The court was held at the 80 Judge Training Institute.
+
+The new structure was inaugurated by the Chief Justice, Members of the Judicial Service Commission, Supreme Court Justice Mahinda Samarawawardena and High Court Judge S. Thurairasa.
+
+The Court of Appeal, the Court of Appeal, has been decided to implement the modernization of the court structure, including the Supreme Court and the District Magistrate's Court.
+
+◼️
+
+[Data](articles/59a288bf.json)
+
+[Extended Data](ext_articles/59a288bf.ext.json)
+
+---
+
+### Opposition to the privatization of state banks; State Bank employees demonstration in Colombo
+
+*2025-09-13 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224957) · `ta`
+
+State bank employees staged a protest on Friday, demanding a number of demands, including the privatization scheme of state banks.
+
+State bank employees staged a demonstration to protest the government's plan to privatize state banks in the country and demand a solution to the problems faced by bank employees.. The state bank joint union coalition organized the struggle and the Orattars gathered in front of the Lake House yesterday morning.
+
+State Bank Employees Union President Sanna Dissanayake said in this regard.
+
+Bank employees from about 6 state banks in the country are engaged in a protest today. With the intervention of private banks, there are massive problems in the state bank building type. The administration of state banks depends on the government. Although the Ministry of Finance has repeatedly requested to provide a solution to the problems of bank employees, the relevant authorities have not taken care of them.
+
+...
+
+[Data](articles/c83035d8.json)
+
+[Extended Data](ext_articles/c83035d8.ext.json)
 
 ---

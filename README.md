@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 08:43:24**
+As of **2025-09-13 03:54:59**
 
 ## Newspaper Stats
 
-*Scraped **75,689** Articles*
+*Scraped **75,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,447 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 768
-economynextcom | 4,589
-islandlk | 4,652
+economynextcom | 4,588
+islandlk | 4,644
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,348
+adalk | 7,346
 adaderanalk | 9,721
-tamilmirrorlk | 11,311
-virakesarilk | 12,334
-adaderanasinhalalk | 13,190
+tamilmirrorlk | 11,305
+virakesarilk | 12,325
+adaderanasinhalalk | 13,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,397 (91.7%) of 75,689 articles have been extended.
+69,171 (91.4%) of 75,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### Deputy Ministers depict powers of the Gamunt Sports Regulations Act
-
-*2025-09-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214509) · `si`
-
-Deputy Minister of Economic Development Dr. Anil Jayantha Fernando says that the Gaming Sports Registration Act to regulate gambling sports act will be given authority.
-
-The Deputy Minister was speaking at this bill.
-
-He further stated that the Act provides authority to the Authority to issue the necessary measures to study the procedures caused by gaming sports.
-
-"All the laws are mainly powers to the Gamudulent Superintendent Act.
-
-That's not the two licenses that the authority is one of the two licenses to gambling. This is regulation. That regulatory contains everything.
-
-What gaming games are allowed for the gaming sports and the limits of the limits. Also, all the things that will be prohibited can be done under this.
-
-Therefore, if gaming games have a renewed effect on the gambling regulatory superintendent of sports regulatory superintendants, study and issue the commands.
-
-...
-
-[Data](articles/0a8a5979.json)
-
-[Extended Data](ext_articles/0a8a5979.ext.json)
-
----
-
-### Dissolution of Nepal Parliament
-
-*2025-09-13 07:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-பாராளுமன்றம்-கலைப்பு/50-364492) · `ta`
-
-Former Chief Justice of Nepal High Court Susila Karki has been sworn in as the country's interim prime minister after Prime Minister Sharma resigned due to the ongoing struggle in Nepal.
-
-President Ramachandra Powedel dissolved parliament yesterday under his recommendation.
-
-Accordingly, the President of the country has announced that the Nepal parliamentary election will be held on March 21 next year.. (A)
-
-◼️
-
-[Data](articles/05466561.json)
-
-[Extended Data](ext_articles/05466561.ext.json)
-
----
-
-### President Meeting the Construction Industry Department
-
-*2025-09-13 07:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணக்-கைத்தொழில்-துறையினருடன்-ஜனாதிபதி-சந்திப்பு/175-364491) · `ta`
-
-Preliminary discussions on 2026 budgets between the Construction Industry and the President were held at the Presidential Office yesterday (12).
-
-The discussion was held to increase the contribution to the economy from the export of construction services and related materials and electric cables.
-
-The challenges, proposals and solutions to be faced in raising this sector as export sector were examined during this time.
-
-Pointing to creating an economic environment aimed at improving the construction industry beyond government construction, President Anura Kumara Dissanayake stressed that irregularities have occurred in the past due to irregularity in the construction sector in this country.
-
-The problems faced by the Construction Department and how the government could interfere with them was also investigated.
-
-The departmental chiefs spoke to the president on the problems that are currently facing the construction sector. (A)
-
-◼️
-
-[Data](articles/19b57875.json)
-
-[Extended Data](ext_articles/19b57875.ext.json)
-
----
-
-### England renewed reports on record reports
-
-*2025-09-13 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214506) · `si`
-
-The Host England won 146 runs in the Second Twenty20 match against South Africa.
-
-England won the match first in Manchester and scored 304 runs for the loss of 2 wickets in 20 overs.
-
-However, as the answer was only 158 runs for the loss of all wickets in 16.1 overs.
-
-This is the T20 of Twenty20 with England with the highest score.
-
-With this win, they were able to secure 3-match tournament matches 1-1.
-
-The number of runs scored in England is the highest number of runs accumulated by the International T20 and 300 runs.
-
-Earlier, India had set that report earlier 297/6 runs against Bangladesh in 2024.
-
-Zimbabwe scored 344/4 marks against the gambia in the year 2024 in the year 2024.
-
-Film Salt scored 141 runs off 60 balls with no offensive innings on behalf of England.
-
-It is the highest number of runs for England batsman gathered on T20.
-
-The centurion has passed the centuries by 39 balls, while England batsman scored as the fastest century.
-
-...
-
-[Data](articles/bff76186.json)
-
-[Extended Data](ext_articles/bff76186.ext.json)
-
----
-
-### Vijay Trichy campaign today
-
-*2025-09-13 07:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-திருச்சியில்-இன்று-பிரச்சாரம்/175-364490) · `ta`
-
-Tamil Nadu Victory Association President Vijay starts his tour in Trichy today. Later, he meets people in Perambalur and Ariyalur districts.
-
-In this case, the TV logo for the tour. Released yesterday. Also, the film is like Vijay in the middle of Anna and MGR. The bus was taken from Chennai to Trichy yesterday.
-
-Our journey to 'surrogate history returns: Your Vijay Na Varane' is a journey throughout Tamil Nadu. At 10.35 am on the 13th, the Trichy Gandhi Market Police Starting near the MGR statue, he said, "Go to the people '. (A)
-
-◼️
-
-[Data](articles/53d5c39b.json)
-
-[Extended Data](ext_articles/53d5c39b.ext.json)
-
----
-
-### Construction begins the first part of the Central Expressway
-
-*2025-09-13 07:03:44* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටසේ-ඉදිකිරීම්-යළි-17දා-අරඹයි/11-418466) · `si`
-
-The government has announced that the re-resume of work from the founding part of the Central Expressway and the Central Expressway will be resumed on the 17th.
-
-◼️
-
-[Data](articles/67378178.json)
-
-[Extended Data](ext_articles/67378178.ext.json)
-
----
-
-### Suspect's suspect arrested in Sahaspura double murder
-
-*2025-09-13 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214505) · `si`
-
-A person has been arrested in the Borella Police Division, a shot of shot dead in the Survey Stadium.
-
-Police said the police had been produced before 10 grams of ice narcotics and 710 milligrams and a motorcycle.
-
-The Sri Jayewardenepura Police Special Race Special Raise Unit had commenced investigations into the crime of shooting two persons at the Borella Police Division of the Borella Police Division.
-
-Accordingly, a group of officers suspected to be the shotgunner of the crime in the unit yesterday (12th) was arrested.
-
-The investigation has revealed that the suspect had previously fled the Sri Lanka Army's duties in 2015.
-
-Meanwhile, a suspect who has been awarded to a person who has been shot dead by an unidentified person from Malani Bulathsintale Mawatha in Borathgamuwa Police Division has been arrested by an unidentified person in Borathgamuwa Police Division on 24.08.
-
-Investigations carried out by the Western Province Southern Province Crimes Division.
-
-...
-
-[Data](articles/9288f24e.json)
-
-[Extended Data](ext_articles/9288f24e.ext.json)
-
----
-
-### New Prime Minister Carika dissolved parliament
-
-*2025-09-13 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214504) · `si`
-
-Textal sworn in the country as the interim prime minister of Nepal has dissolved the Parliament.
-
-The order was implemented after she was sworn in as the first women's Prime Minister of Nepal last night.
-
-The Nepal parliamentary election will be held on March 21st.
-
-Meanwhile, reports say that the Cabinet of Cabinet is to be sworn in today (13).
-
-◼️
-
-[Data](articles/40c3f4bc.json)
-
-[Extended Data](ext_articles/40c3f4bc.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2025-09-13 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214503) · `si`
-
-Showers will occur in the Western and Sabaragamuwa provinces today (13) and several times in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The department was released in the latest announcement this morning.
-
-Showers or thundershowers will occur at several places in the Eastern and Uva provinces.
-
-The public requests the public to take steps to reduce the damages caused by temporary winds and lightning
-
-◼️
-
-[Data](articles/4e249804.json)
-
-[Extended Data](ext_articles/4e249804.ext.json)
-
----
-
-### 4 days of birth, a male fetal death
-
-*2025-09-13 04:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறந்து-4-நாட்களான-ஆண்-சிசு-உயிரிழப்பு/175-364489) · `ta`
-
-Yall. A male fetus has died four days after being born at the Teaching Hospital.
-
-The deceased is the fetus of a couple named Kapilnath Poojitha from Manipayi.
-
-The male fetus was born on the 7th of last month due to the intestinal circulation and the infant died on Thursday (11).
-
-Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Arumugam Jayapalasingham ordered the anatomical examination.. Manipay police regulated witnesses. (A)
-
-◼️
-
-[Data](articles/19301153.json)
-
-[Extended Data](ext_articles/19301153.ext.json)
-
----
-
-### Flooding in Japan's Tokyo
-
-*2025-09-13 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224959) · `ta`
-
-Many areas have been affected by flooding due to heavy rains in Tokyo, the capital of Japan. Strong winds with continuous rain have severely affected the daily lives of the people.
-
-Foreign media reports that one person died and another was severely injured when the containers stacked in the port collapsed due to strong winds.
-
-Also, transport services have been disrupted by rain. Travelers have been in trouble as many train services have been suspended in the domestic and suburbs of Tokyo. According to reports, about one million people have been directly affected.
-
-In this case, the Japanese Meteorological Department has issued a warning and announced that there is a risk of more than 100 millimeters of rain in some parts of Tokyo over the next few days.. Officials have urged the public to avoid unnecessary transfers and to adopt security precautions.
-
-However, reports say that rescue and relief measures have been challenged in the affected areas due to the continuous rains.
-
-◼️
-
-[Data](articles/e3f71292.json)
-
-[Extended Data](ext_articles/e3f71292.ext.json)
-
----
-
-### Nepal's first female prime minister
-
-*2025-09-13 04:18:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முதல்-பெண்-பிரதமர்-பதவியேற்றார்/50-364488) · `ta`
-
-Former Chief Justice of the country Susila Karki was elected as the interim prime minister of Nepal. With this she is the first woman Prime Minister of Nepal.
-
-In Nepal, the Communist Government, led by Prime Minister KP Sharma Sound (age 73), collapsed by the Jen See youth. This has caused political confusion in the country. A series of consultations were made on whom to choose the country's interim prime minister. Nepal Army Commander Ashok Sikdel made consultations on this.
-
-In this, the protesters unanimously supported Nepal's former Chief Justice Susila Karki as the interim prime minister of Nepal.
-
-Susiela Karki was sworn in as the interim prime minister last night (12). Nepal President Ram Chandra Pavudan was sworn in.
-
-Karki held his first cabinet meeting after taking office. The meeting was decided to hold a new general election on March 4 next year.
-
-...
-
-[Data](articles/9f979fbf.json)
-
-[Extended Data](ext_articles/9f979fbf.ext.json)
-
----
-
-### Awareness Alert for State Executive Officers on the use of artificial intelligence
-
-*2025-09-13 04:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224960) · `ta`
-
-Another workshop organized by the State Executive Officers was held at the Alari House on Friday (12) to address the use of artificial intelligence to transform public service into a effective and effective service.
-
-Under the topic of the AI ​​for Transforming Public Service, the Secretary to the Ministry of Government Ministries participated in the workshop organized by the Digital Economic Ministry in cooperation with the Presidential Secretariat.
-
-The workshop has been organized with the aim of enacting and preparing state officials and making a favorable attitude towards artificial intelligence within the public service as an initial entry of the government's plan to digitize public service.
-
-President of the President, Dr. Nandika Sanath Kumanayake, said that the public service should be prepared for digital exchange and that the existing public service should be switched.
-
-...
-
-[Data](articles/43c37c9e.json)
-
-[Extended Data](ext_articles/43c37c9e.ext.json)
-
----
-
-### Electronic Court Plan; The first phase of action is the beginning of the High Court
-
-*2025-09-13 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/224958) · `ta`
-
-The first step in the 'Electronic Court' program of digitalizing the High Court's action to provide the publication of the court service to improve the functioning of the court service and provide the public's efficient court service, the first step in the 'Electronic Court' program, which is the first step in the 'Electronic Court' program, the first step in the formation of the High Court's case management structure and the modernized network Colombo 12 on Friday 12th. The court was held at the 80 Judge Training Institute.
-
-The new structure was inaugurated by the Chief Justice, Members of the Judicial Service Commission, Supreme Court Justice Mahinda Samarawawardena and High Court Judge S. Thurairasa.
-
-The Court of Appeal, the Court of Appeal, has been decided to implement the modernization of the court structure, including the Supreme Court and the District Magistrate's Court.
-
-◼️
-
-[Data](articles/59a288bf.json)
-
-[Extended Data](ext_articles/59a288bf.ext.json)
-
----
-
-### Opposition to the privatization of state banks; State Bank employees demonstration in Colombo
-
-*2025-09-13 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/224957) · `ta`
-
-State bank employees staged a protest on Friday, demanding a number of demands, including the privatization scheme of state banks.
-
-State bank employees staged a demonstration to protest the government's plan to privatize state banks in the country and demand a solution to the problems faced by bank employees.. The state bank joint union coalition organized the struggle and the Orattars gathered in front of the Lake House yesterday morning.
-
-State Bank Employees Union President Sanna Dissanayake said in this regard.
-
-Bank employees from about 6 state banks in the country are engaged in a protest today. With the intervention of private banks, there are massive problems in the state bank building type. The administration of state banks depends on the government. Although the Ministry of Finance has repeatedly requested to provide a solution to the problems of bank employees, the relevant authorities have not taken care of them.
-
-...
-
-[Data](articles/c83035d8.json)
-
-[Extended Data](ext_articles/c83035d8.ext.json)
-
----
-
-### Investigations on missing persons in Batticaloa
-
-*2025-09-13 03:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/224956) · `ta`
-
-Investigations were carried out today under the arrangement of the Batticaloa Regional Office of the Missing Persons.
-
-The Commission's inquiries were carried out at the Eravurpattu Chengaladi - Divisional Secretariat and on Friday (12) there were 33 members of the family members who were invited to the missing persons from Vaazhichenai, Gran, Vaharai and Chengaladi.
-
-Office officials led by Vadivel Krishnamurthy and Thambiyya Yogarajah, who visited the Regional Office of the Missing Persons of Missing Persons, were investigating the complaints made by the missing persons.
-
-Similarly, the Batticaloa District Secretariat was investigated by the Office of Missing Persons today.
-
-◼️
-
-[Data](articles/807bab8f.json)
-
-[Extended Data](ext_articles/807bab8f.ext.json)
-
----
-
-### Meeting Indian High Commissioner and Relo
-
-*2025-09-13 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224955) · `ta`
-
-The meeting took place at the Indian High Commission in Colombo at 2.00 pm on Thursday (11).
-
-Vanni District Parliamentarian and Relo's leader Selvam Adakkalanathan and the party's financial secretary and speaker Kuruswamy Surendran were also present.
-
-At the 60th session of the UN Human Rights, which begins on September 8, the Relo leader said he would welcome India's firm stance that the Sri Lankan government urged the Sri Lankan government to carry out meaning, justice, dignity and reconciliation.
-
-It was also informed the High Commissioner that India's urging the provincial council election should be held in a way that would be fully implemented in the politics.
-
-He also thanked India for the long -term health needs of the people of the area by providing 600 million rupees to the development of the Mannar Hospital.
-
-...
-
-[Data](articles/6ee8ebe4.json)
-
-[Extended Data](ext_articles/6ee8ebe4.ext.json)
-
----
-
-### Various impacts due to extraordinary climate in Jaffna
-
-*2025-09-13 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/224954) · `ta`
-
-Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that the unusual weather conditions in Jaffna have been affected on Thursday 11th.
-
-In the Navakiri area, a motor room, motor and electric connection in the garden of Thanaya Bhubaneswaran have been completely damaged.
-
-◼️
-
-[Data](articles/423eb149.json)
-
-[Extended Data](ext_articles/423eb149.ext.json)
-
----
-
-### Vaidyipa girl dies in a well in Jaffna
-
-*2025-09-13 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/224953) · `ta`
-
-An elderly woman in Jaffna dies after falling into a well on Friday (12). The deceased is Ramamurthy Seethalakshmi from Tholpuram East and Chiripuram.
-
-Sudden Death Investigation Officer A. Jayapalasingham. The witnesses were regulated by the Vaddukoddai police.
-
-◼️
-
-[Data](articles/f22fa98b.json)
-
-[Extended Data](ext_articles/f22fa98b.ext.json)
-
----
-
-### Pakistan beat Oman by 93 runs
-
-*2025-09-13 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/224952) · `ta`
-
-Pakistan won the match between Pakistan and Oman on Friday, the 4th match of the 2025 Asia Cup.
-
-The Pakistan team won the match in Dubai on Friday (12) and won 160 runs for the loss of 07 wickets in 20 overs.
-
-Mohammed Harris scored 66 off 43 balls, Sahibsada Farhan 29 runs, Fucker Zaman scored 23 unbeaten, Hasan Nawaz scored 9 runs and Mohammed Nawaz scored 19 runs for Pakistan.
-
-Oman's team took three wickets each and Mohammed Nadeem took one wicket each.
-
-Oman were bowled out for 67 in 16.4 overs.
-
-Aamir Kaleem scored 13 runs, captain Jatinar Singh, Sufyan Mehmood and Shah Faisal scored one runs, Hammad Mirza scored 27 runs, Mohammed Nadeem scored 3 runs and Vinayak Shukla scored 2 runs.
-
-Saim Ayub, Sufiyan Mukim and Fahim Ashraf took 2 wickets each while Mohammed Nawaz, Abar Ahmed and Shaheen Shah Afridi took one wicket each.
-
-◼️
-
-[Data](articles/54e8e906.json)
-
-[Extended Data](ext_articles/54e8e906.ext.json)
-
----
 
 ### President asks Provincial and Central Government to work in unison
 
@@ -1010,24 +588,6 @@ It was not immediately clear what caused the accident although the state media b
 
 ---
 
-### Prime Minister solutions to university academic problems
-
-*2025-09-12 20:06:14* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වවිද්‍යාල-අනධ්‍යයන-සේවක-ගැටලුවලට-අගමැතිනියගෙන්-විසඳුම්/11-418465) · `si`
-
-Trade union representatives and Prime Minister, Education, Higher Education and Vocational Education Minister Dr. Anil Jayantha Fernando held a discussion with the Deputy Minister of Education, Dr. Anil Jayantha Fernando on several issues raised by university academic workers.
-
-There they have declined as a percentage of the salary ratio of their emergence, the MCA allowance, 20% allowance was discussed at length to the overtime calculation method.
-
-Peaceive salary salaries ratios of the existing proceedings should be solved by 20% to 6.94% of the decrease from 20% to 6.94%. They also stressed that their salary has increased in a high percentage, in line with the public servant salary.
-
-...
-
-[Data](articles/a9cbd28b.json)
-
-[Extended Data](ext_articles/a9cbd28b.ext.json)
-
----
-
 ### Expenditure on retirement presidents and widows
 
 *2025-09-12 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214496) · `si`
@@ -1090,74 +650,6 @@ Accordingly, the number of casualties in the bus accident on the night of Septem
 
 ---
 
-### Sri Lanka’s 10 Commonwealth Scholars embark on fully funded academic journey to the UK
-
-*2025-09-12 19:46:00* · [`islandlk`](http://island.lk/sri-lankas-10-commonwealth-scholars-embark-on-fully-funded-academic-journey-to-the-uk/) · `en`
-
-Ten outstanding Sri Lankan students have been awarded Commonwealth Scholarships to pursue their postgraduate studies in the UK this year, joining a distinguished global network of future leaders dedicated to driving positive national and global impact.
-
-Following a rigorous selection process that highlighted both academic excellence and a strong commitment to driving real change, a cohort of 10 scholars was selected from institutions across the country. The 2025 Commonwealth Scholars cohort includes nine Master’s scholars and, after a lapse of several years, one PhD scholar.
-
-A Pre-Departure Briefing held at the British Council Library in Colombo gathered scholarship awardees, alumni, and key officials from the British High Commission and British Council to honour the chosen scholars and also create a space for connection, mentoring, and collective pride in a shared legacy.
-
-...
-
-[Data](articles/6bb9f3ac.json)
-
-[Extended Data](ext_articles/6bb9f3ac.ext.json)
-
----
-
-### NCC and FITIS signs MoU to empower Sri Lankan exporters for global reach
-
-*2025-09-12 19:45:00* · [`islandlk`](http://island.lk/ncc-and-fitis-signs-mou-to-empower-sri-lankan-exporters-for-global-reach/) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) has signed a Memorandum of Understanding (MoU) with the Federation of Information Technology Industry Sri Lanka (FITIS), marking a significant milestone in expanding opportunities for Sri Lankan exporters to access global markets.
-
-FITIS members will gain exclusive access to connect with international buyers and markets through www.fromsriLanka.com, a digital platform initiated by NCCSL.  At occasion of signing the agreement Dr. Dayan Rajapakse Chairman FITIS told “The collaboration aims to foster export growth, enhance competitiveness, and create new avenues for Sri Lankan small and medium-sized enterprises (SMEs), particularly in the ICT sector, to expand globally.
-
-He also told that “FITIS as the apex body representing Sri Lanka’s ICT industry, we are proud to collaborate with the National Chamber to support our members in reaching global audiences, unlocking new growth potential, and contributing to national economic development.”
-
-...
-
-[Data](articles/fe3bf27f.json)
-
-[Extended Data](ext_articles/fe3bf27f.ext.json)
-
----
-
-### AI adoption and threat complexity fuelling increase in cybersecurity burnout in APAC and Japan: Sophos
-
-*2025-09-12 19:42:00* · [`islandlk`](http://island.lk/ai-adoption-and-threat-complexity-fuelling-increase-in-cybersecurity-burnout-in-apac-and-japan-sophos/) · `en`
-
-Shadow AI, resource shortages, and rising attack volumes put pressure security teams
-
-Sophos, a global leader in advanced security solutions, unveiled the 5th edition of its report The Future of Cybersecurity in Asia Pacific and Japan (APJ), produced in collaboration with Tech Research Asia (now part of Omdia). The findings reveal that cybersecurity burnout remains high across the region, with 86% of organisations surveyed experiencing issues (up from 85% in 2024) – primarily driven by increased threat activity, lack of resources, and complex compliance requirements.
-
-The 2025 report also highlights how AI is having a two-pronged effect on cybersecurity with AI-powered security tools helping to alleviate some of the issues associated with fatigue, while shadow AI use by employees is complicating cybersecurity efforts.
-
-...
-
-[Data](articles/2eb6be02.json)
-
-[Extended Data](ext_articles/2eb6be02.ext.json)
-
----
-
-### Sampath Bank crowned as the Best Bank for ESG in Sri Lanka by Euromoney
-
-*2025-09-12 19:42:00* · [`islandlk`](http://island.lk/sampath-bank-crowned-as-the-best-bank-for-esg-in-sri-lanka-by-euromoney/) · `en`
-
-Sampath Bank has been recognised as Sri Lanka’s Best Bank for Environmental, Social, and Governance (ESG) at the Euromoney Awards for Excellence 2025. The award was ceremonially presented in Singapore, positioning Sampath Bank among a distinguished group of global and regional banking and financial institutions recognised for embedding sustainability into their core strategies and creating long term value for all stakeholders.
-
-...
-
-[Data](articles/73878a0c.json)
-
-[Extended Data](ext_articles/73878a0c.ext.json)
-
----
-
 ### Whatever we are building today, the foundation for security - US Ambassador Julie Sung
 
 *2025-09-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224947) · `ta`
@@ -1177,26 +669,6 @@ The Pacific Angel 2025 training, which took place from 8th to 12th September, un
 [Data](articles/4b168a4b.json)
 
 [Extended Data](ext_articles/4b168a4b.ext.json)
-
----
-
-### Indian delegation reviews Sri Lanka Northern fishery harbour project
-
-*2025-09-12 19:06:00* · [`economynextcom`](https://economynext.com/indian-delegation-reviews-sri-lanka-northern-fishery-harbour-project-240433/) · `en`
-
-ECONOMYNEXT – A four-member delegation from India’s Central Institute of Coastal Engineering for Fishery (CICEF) conducted preliminary studies for the proposed development of the Point Pedro fishery harbour in Sri Lanka’s Northern Province during a five-day visit, the Indian High Commission in Colombo said in a statement.
-
-The team, representing the Ministry of Fisheries, Animal Husbandry and Dairying of the Government of India, was in Sri Lanka from September 8 to 12, where it met key stakeholders and carried out site inspections.
-
-During their visit, the delegation held talks with Sri Lanka’s Minister of Fisheries, Aquatic and Ocean Resources, Ramalingam Chandrasekar, Northern Province Governor Nagalingam Vethanayahan, senior ministry officials, and the Chief Secretary of the province.
-
-The discussions focused on modalities of developing the harbour with Indian financial assistance.
-
-...
-
-[Data](articles/f264a770.json)
-
-[Extended Data](ext_articles/f264a770.ext.json)
 
 ---
 
@@ -1317,24 +789,6 @@ The objective of the Digital Program is to enhance the corruption irregularities
 [Data](articles/251b76c4.json)
 
 [Extended Data](ext_articles/251b76c4.ext.json)
-
----
-
-### Indian Vice President of India
-
-*2025-09-12 18:27:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-துணை-ஜனாதிபதியின்-பதவியேற்பில்பிரமாணத்தி-செந்தில்-தொண்டமான்-பங்கேற்பு/175-364471) · `ta`
-
-Senthil Thondaman calls for the post of Indian Vice President
-
-CWC leader Senthil Thondaman, who attended the International Public Service Committee (PSI) meeting in Nepal, attended the invitation of the Presidential Secretariat of India at the office of CP Radhakrishnan, who is in charge of India today.
-
-CP Radhakrishnan was sworn in today in the presence of President Moormu at the President's House in New Delhi.
-
-◼️
-
-[Data](articles/2b3bd19b.json)
-
-[Extended Data](ext_articles/2b3bd19b.ext.json)
 
 ---
 
@@ -2053,5 +1507,553 @@ The Aluthgama Police are guessing that the corpse was in the Bentara River sever
 [Data](articles/c8ebe134.json)
 
 [Extended Data](ext_articles/c8ebe134.ext.json)
+
+---
+
+### Prince Harry vows to help war injured during surprise visit to Ukraine
+
+*2025-09-12 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112437/prince-harry-vows-to-help-war-injured-during-surprise-visit-to-ukraine) · `en`
+
+Prince Harry has made a surprise visit to Kyiv, after an invitation by an organisation that supports Ukrainians with life-changing injuries caused by the war.
+
+The Duke of Sussex said he wanted to do “everything possible” to help the recovery of injured military personnel.
+
+He arrived by train on Friday morning and is understood to have a busy schedule for the day, but no official details can be expected until this evening.
+
+The Guardian newspaper reports that he will outline new plans to help rehabilitate the wounded during the trip.
+
+Superhumans, which helps provide those injured with prosthetic limbs and rehabilitation, told the BBC that it invited Prince Harry to Ukraine.
+
+Founder Olha Rudnieva greeted the prince off the train with a hug, a video released by Ukrainian Railways showed.
+
+She handed the prince a podstakannik – a silver holder for a glass used to drink tea, traditionally provided on night trains across Ukraine.
+
+...
+
+[Data](articles/25949739.json)
+
+[Extended Data](ext_articles/25949739.ext.json)
+
+---
+
+### Ramith Rambukwella Indictment
+
+*2025-09-12 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214482) · `si`
+
+The Bribery Commission has been indicted in the Colombo High Court against Ramith Rambukwella, the son of former Minister Keheliya Rambukwella for failing to reveal the earlier Rs.
+
+The case has been filed under the anti-corrupt act of the defendant, Keheliya Rambukwella.
+
+◼️
+
+[Data](articles/b0cdea03.json)
+
+[Extended Data](ext_articles/b0cdea03.ext.json)
+
+---
+
+### Kabir Hashim appointed as new COPA Chair
+
+*2025-09-12 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112436/kabir-hashim-appointed-as-new-copa-chair) · `en`
+
+SJB Member of Parliament Kabir Hashim has been appointed as the new Chair of the Committee on Public Accounts (COPA) for the first session of the Tenth Parliament.
+
+This appointment fills the vacancy created following the resignation of Member of Parliament Aravinda Senarath, who served as the Chair of the Committee on Public Accounts (COPA) for the first session of the Tenth Parliament, from the position on August 06, 2025.
+
+The Committee convened in Parliament today (12) to elect the new Chairman, according to the Department of Communication of Parliament.
+
+For the position of Chair, the name of MP Kabir Hashim was proposed and seconded respectively by Members of Parliament J.C. Alawathuwala and Rohitha Abeygunawardena.
+
+Subsequently, addressing the committee, the new Chair stated that he expects to carry out his duties in a neutral manner, free from political bias, with the cooperation of all members.
+
+...
+
+[Data](articles/2f65619b.json)
+
+[Extended Data](ext_articles/2f65619b.ext.json)
+
+---
+
+### Europe is nearly 100 years in Japan
+
+*2025-09-12 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214481) · `si`
+
+The number of people exceeding 100 years of Japan is nearly 100,000.
+
+As of September 1 this year, the number of people exceeding 100, 90 percent of them, 90 percent of it is written in a data report issued by the Ministry of Health.
+
+Due to the increase in the largest population, Japan, the fourth largest economy in the world, is currently facing a problem with medical and welfare costs and a severe labor force shortage.
+
+Shadzo is the oldest man in Japan.
+
+A 116-year-old British woman has now become the oldest person in the world.
+
+◼️
+
+[Data](articles/65d31545.json)
+
+[Extended Data](ext_articles/65d31545.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2025-09-12 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224904) · `ta`
+
+The US dollar sales price was Rs.
+
+இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (12.09.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
+
+◼️
+
+[Data](articles/2b6aed56.json)
+
+[Extended Data](ext_articles/2b6aed56.ext.json)
+
+---
+
+### Kabir Hashim is the Chairman of the Committee on Public Accounts
+
+*2025-09-12 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214480) · `si`
+
+Parliamentarian MP Kabir Hashim has been elected as the Committee on Public Accounts (Kapaph) for the first congregation of the Third Parliament.
+
+The Committee met in parliament today to fill the vacancies that were presented by the Committee of the Government Accounting Committee on the first congregation of the Third Parliament today (12).
+
+Parliamentarian Kabir Hashim for the post of Chairman JC. The elephants and Rohitha Abeygunawardena were proposed respectively.
+
+Addressing the Committee addressing the committee, the new President said that he was intended to act in the cooperation of all members without political ideologies.
+
+The role of the committee MP Aravinda Senarath was appreciated by the committee, MP Aravinda Senarath.
+
+He further stated that the new plans are being prepared and further strengthen the role of the Kopyr Panel.
+
+◼️
+
+[Data](articles/b54913d3.json)
+
+[Extended Data](ext_articles/b54913d3.ext.json)
+
+---
+
+### Athuraliye Ratana Thera is bail
+
+*2025-09-12 14:18:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்துரலியே-ரத்தன-தேரருக்கு-பிணை/175-364467) · `ta`
+
+The Nugegoda Magistrate's Court today (12) ordered the release of former Member of Parliament Athuraliye Ratana Thera on bail.
+
+The order was issued when Athuraliye Ratana Thera was produced in court today.
+
+Accordingly, the court has ordered the release of two body bail and Rs 10 thousand in cash worth Rs.  R
+
+◼️
+
+[Data](articles/47390dc8.json)
+
+[Extended Data](ext_articles/47390dc8.ext.json)
+
+---
+
+### Sri Lanka rice, coconut production up; fish, tea and rubber down in July: CB
+
+*2025-09-12 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-coconut-production-up-fish-tea-and-rubber-down-in-july-cb-240379/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s agricultural production in paddy and coconut picked up in July, the central bank said, while tea, fish and rubber production decreased.
+
+“Paddy production forecast of the Department of Agriculture for 2025 Yala season, based on the sown extent reported as of end June 2025, stands at 2.2 million metric tons,” the central bank’s Agriculture Sector Data Bulletin for August 2025 said.
+
+This is an 11.7 percent increase from the previous Yala season.
+
+Paddy production forecasts for 2025 is estimated as 4.8 million metric tons, a 2.7 percent increase from 2024.
+
+Coconut production recorded a 25.7 percent increase in July 2025, compared to July 2024, reflecting a steady recovery.
+
+Meanwhile fish production decreased by 16.5 percent year-on-year in July, attributed to a 4.9 percent decline in marine fish production and 46.6 percent decline in inland fish production.
+
+...
+
+[Data](articles/6a0708e3.json)
+
+[Extended Data](ext_articles/6a0708e3.ext.json)
+
+---
+
+### Seven including pre-school children injured in Norwood accident
+
+*2025-09-12 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112434/seven-including-pre-school-children-injured-in-norwood-accident) · `en`
+
+An accident has occurred in the New Weligama area of Norwood on the Hatton-Bogawantalawa main road this morning (12) when a speeding three-wheeler collided head-on with a car arriving in the opposite direction.
+
+Six pre-school children and a male teacher, who were traveling in the three-wheeler, sustained injuries and were rushed to the Dickoya Base Hospital, police said.
+
+According to the Norwood Police, the crash was caused after an unsecured spare part attached to the three-wheeler’s front wheel struck the car, and that the accident had caused severe damage to the three-wheeler.
+
+The female driver of the car has been arrested by Norwood Police.
+
+Of the seven admitted to hospital, six have been discharged after receiving treatments from the out-patient department (OPD), while one child still remains under medical care.
+
+◼️
+
+[Data](articles/9794e38a.json)
+
+[Extended Data](ext_articles/9794e38a.ext.json)
+
+---
+
+### Parliament provides Parliament to Piliyandala College
+
+*2025-09-12 13:40:36* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-මධ්‍ය-විද්‍යාලයට-පාර්ලිමේන්තුව-ලබාදෙයි/11-418453) · `si`
+
+Piliyandala Central College Student Parliament of Parliament Parliamentnel was held on the 4th of the Presidential Secretariat at the Presidential Secretariat. Chairman of Mrs. Kushani Rohangarara. The Piliyandala College, the objective of providing practical experience on parliamentary system for students, the event was organized by the Department of Parliament and the Communication Department of the Parliament of Sri Lanka.
+
+The Secretary General of Parliament Kusala Rohanadera is announced on how Parliament is operated by the Parliamentary Procedure and its functions.. (I J)
+
+◼️
+
+[Data](articles/4676cca6.json)
+
+[Extended Data](ext_articles/4676cca6.ext.json)
+
+---
+
+### Lotus Road in Colombo closed due to protest march
+
+*2025-09-12 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112433/lotus-road-in-colombo-closed-due-to-protest-march) · `en`
+
+Lotus Road in Colombo Fort has been closed to vehicular traffic due to a protest march organised by banking sector trade unions, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/13aca746.json)
+
+[Extended Data](ext_articles/13aca746.ext.json)
+
+---
+
+### Lotus is closed due to objection
+
+*2025-09-12 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214479) · `si`
+
+The Colombo Lotus Road, Colombo has been closed due to protest against the Banking Employees Union.
+
+As a result, heavy traffic congestion is in role in the area.
+
+◼️
+
+[Data](articles/98dc98e8.json)
+
+[Extended Data](ext_articles/98dc98e8.ext.json)
+
+---
+
+### The Central Provincial Program is praising students who have received the best results in the GCE Advanced Level by the Presidential Fund
+
+*2025-09-12 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224899) · `ta`
+
+The Central Provincial Program will be held on Sunday (14) at the Kandy District Secretariat Auditorium under the patronage of Prime Minister Dr. Harini Amarasuriya.
+
+Meanwhile, in the Kandy, Matale and Nuwara Eliya districts of 2023 and 2024, the GCE Advanced Level Examination will be selected for the top 10 students who have received the top 10 students under 06 courses and will be given Rs.
+
+In addition, the event will be held at the Kandy District Secretariat at 1.30 pm on Sunday (14) at 1.30 pm.
+
+The one -day special workshop for all the Divisional Secretariats of the Central Province will be held at the Kandy District Secretariat on Saturday (13) to depending on the Presidential Fund.
+
+...
+
+[Data](articles/6e7c0150.json)
+
+[Extended Data](ext_articles/6e7c0150.ext.json)
+
+---
+
+### Ven. Athuraliye Rathana Thero granted bail
+
+*2025-09-12 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112432/ven-athuraliye-rathana-thero-granted-bail) · `en`
+
+Former Member of Parliament Ven. Athuraliye Rathana Thero has been granted bail by the Nugegoda Magistrate’s Court today (12).
+
+The Magistrate ordered his release on two surety bonds of Rs. 500,000 each and a cash bond of Rs. 10,000.
+
+Additionally, an overseas travel ban was also imposed on Ven. Rathana Thero, said Ada Derana reporter.
+
+Ven. Rathana Thero has been accused in connection with investigations into the alleged abduction and detention of the General Secretary of the ‘Ape Jana Bala’ party, Ven. Wedinigama Wimalatissa Thero, reportedly to secure the party’s National List seat in the 2020 General Election.
+
+◼️
+
+[Data](articles/6b599cb2.json)
+
+[Extended Data](ext_articles/6b599cb2.ext.json)
+
+---
+
+### Ratana Goek released on bail
+
+*2025-09-12 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214477) · `si`
+
+Nugegoda Magistrate's Court has ordered the release of Ven. Athuraliye Ratana Thera.
+
+According to our correspondent today (12), the Magistrate ordered two personal bail of Rs.
+
+Ratnigama Wwarattissa Thero was accused of abducting the national secretary of the JVP in the 2020 general election.
+
+◼️
+
+[Data](articles/6d65a321.json)
+
+[Extended Data](ext_articles/6d65a321.ext.json)
+
+---
+
+### Construction of Rural Bridges of Sri Lanka;  Netherlands offers 730,000 euros
+
+*2025-09-12 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224895) · `ta`
+
+The Netherlands has recognized 730,000 additional subsidy to support the rural bridges design and construction project in Sri Lanka.
+
+This financial plan will meet the additional financial requirements and further strengthen the long -term development cooperation between the two countries.
+
+The project aims to construct 162 rural bridges across Sri Lanka, which improves the quality of life of the movement, the urban-village connection and the rural communities.. As of September 2025, the project has improved 96% of physics and the work of 151 bridges has already been completed. The construction of all the schemes of all scheduled bridges is expected to be completed by February 2026 to mark the end of the project.
+
+...
+
+[Data](articles/e0265dcc.json)
+
+[Extended Data](ext_articles/e0265dcc.ext.json)
+
+---
+
+### No decision yet to arrest Udaya Gammanpila, court informed
+
+*2025-09-12 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112431/no-decision-yet-to-arrest-udaya-gammanpila-court-informed) · `en`
+
+The Criminal Investigation Department (CID) has informed the Court of Appeal today that no decision has been made at this time to arrest former Minister Udaya Gammanpila.
+
+The writ petition filed by Udaya Gammanpila, alleging that the CID is preparing to arrest him under the International Covenant on Civil and Political Rights (ICCPR) and requesting an order to prevent his arrest, was taken up before the Court of Appeal today (12).
+
+Deputy Solicitor General Sudarshana de Silva, appearing on behalf of the CID, informed the court that the police have not yet taken a decision to arrest the petitioner at this moment.
+
+He added that the investigations are still ongoing and that a final decision will be made thereafter.
+
+Accordingly, the Court of Appeal postponed the consideration of the petition for September 17.
+
+◼️
+
+[Data](articles/1306a11f.json)
+
+[Extended Data](ext_articles/1306a11f.ext.json)
+
+---
+
+### Govt’s policy to ensure every rupee is directed towards most productive investments – President at apparel sector pre-budget discussion
+
+*2025-09-12 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112430/govts-policy-to-ensure-every-rupee-is-directed-towards-most-productive-investments-president-at-apparel-sector-pre-budget-discussion) · `en`
+
+President Anura Kumara Dissanayake emphasized that the government’s objective is to achieve future economic growth targets based on the current stability within the country.
+
+The President further stressed that the government will remain fully committed to investing in the development of essential infrastructure required by industries and investors.
+
+President Dissanayake made these remarks while participating in a pre-budget discussion for 2026 with stakeholders of the apparel sector, held yesterday (11) afternoon at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) said.
+
+The President noted that by providing the necessary facilities for existing industries, it would be possible to reach the initial growth targets and further emphasized that it is the government’s policy to ensure every rupee is directed towards the most productive investments.
+
+...
+
+[Data](articles/89a63723.json)
+
+[Extended Data](ext_articles/89a63723.ext.json)
+
+---
+
+### The accused, who was threatened to jail for a witness
+
+*2025-09-12 12:40:31* · [`adalk`](https://www.ada.lk/breaking_news/සාක්ෂිකාරියකට-තර්ජනය-කළ-විත්තිකරු-අවුරුදු-9ක්-හිරේට/11-418452) · `si`
+
+Matale High Court Judge Ravindra Premaratne ordered a chief witness to a major prosecution to a major witness to a major witnessing in the High Courts.
+
+Siriwadad was sentenced to Suja Premas or Indika, a resident of Kaludawatta, Matale.
+
+According to the court, the chief attendee event was held on July 4, a robbery of murders and gold starvation in July 20, 2010.
+
+The defendant had been indicted by the Attorney General on November 4, Victims of the Victims of the Section 8 (1) (a) (a) (a)).
+
+The main passor to the events on the trial was evidence to the conduct of her daughter and the highlight of her daughter and the highlight.
+
+The judge was convicted of these allegations to these allegations and was sentenced to eight years of work and a fine of Rs.
+
+It was also revealed that several other cases in Matale Highways regarding murder and robbery have been heard about murder and robbers.
+
+...
+
+[Data](articles/4f2f1f3f.json)
+
+[Extended Data](ext_articles/4f2f1f3f.ext.json)
+
+---
+
+### Will Gammanpila be arrested? Not? - CID decides the court
+
+*2025-09-12 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214475) · `si`
+
+The Criminal Investigations Department (CID) has not decided to arrest former Minister Udaya Gammanpila.
+
+Udaya Gammanpila, who was presented by the Criminal Investigation Department to arrest him under the Convention on the Civil and Political Rights Act.
+
+Deputy Solissitor General Sudharsha De Silva, who appeared in the court, informed the CID informed the court that the police had not decided to arrest the petitioner Udaya Gammanpila.
+
+He added that the investigation continues, he was later a final decision.
+
+◼️
+
+[Data](articles/aadef993.json)
+
+[Extended Data](ext_articles/aadef993.ext.json)
+
+---
+
+### Brantel Lanka increases stake in Resus Energy
+
+*2025-09-12 12:37:00* · [`economynextcom`](https://economynext.com/brantel-lanka-increases-stake-in-resus-energy-240371/) · `en`
+
+ECONOMYNEXT – Brantel Lanka (Pvt) Ltd has increased its total shareholding in Resus Energy PLC (HPWR) to over 10 percent, according to a stock exchange filing.
+
+Brantel bought 5,060,305 shares on Wednesday at prices ranging from 42 rupees to 42.10.
+
+Another 36,309 shares brought the total holding to 8,620,385, or 10 percent.
+
+The share was trading up 50 cents at 43.90. (Colombo/Sep12/2025)
+
+◼️
+
+[Data](articles/3e7b26ca.json)
+
+[Extended Data](ext_articles/3e7b26ca.ext.json)
+
+---
+
+### Woman arrested with snakes
+
+*2025-09-12 12:32:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்புகளுடன்-பெண்-கைது/175-364466) · `ta`
+
+Customs officials have arrested a Sri Lankan woman from Thailand's Bangkok via Chennai and brought rare snakes at the Bandaranaike International Airport.
+
+A 40 -year -old Sri Lankan traveler has smuggled 6 rare snakes, including a living Yellow Anaconda, Ball Python, Speckled King Snake and Honduran Milk Snake.
+
+Customs and Customs Control Officers, who were on arrival on Thursday night (11) night on the Indigo flight, discovered the snakes in a test of biodiversity, cultural and national traditional security unit.
+
+All these snakes are said to be included in the list of species that need to be protected.
+
+The investigation has brought these snakes on sale. It is difficult to keep up with large snakes and keep it in homes. Customs officials said the release of the country's forests would have a serious adverse effect on the country's environmental system.
+
+...
+
+[Data](articles/269d13ef.json)
+
+[Extended Data](ext_articles/269d13ef.ext.json)
+
+---
+
+### Falls bought bus driver for Rs. 55 lakhs
+
+*2025-09-12 12:30:35* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-පත්-බස්-රිය-මිලට-ගත්තේ-ලක්ෂ-55කට-මොඩිෆයි-වියදම-ලක්ෂ-70/11-418451) · `si`
+
+The Nuwara Eliya District Motor Jaliya Bandara makes a special statement to the media that the owner of the bus has been spent by the owner of the bus.
+
+Jali Bandara has said that the bus has been purchased for Rs.
+
+The investigation revealed that the bus had been spent on the designs on the bus, but the investigations were revealed that the bus was not properly maintained.
+
+The brake system will be disabled due to heating the wheels of the wheels of vehicles while operating the brake system on high slopes.
+
+The Nuwara Eliya District Motor Inspector is properly maintained before the vehicle is properly maintained before going to a tour and the vehicle's driver's driver's driver's driver's driver's richer plane.
+
+◼️
+
+[Data](articles/2e4612e6.json)
+
+[Extended Data](ext_articles/2e4612e6.ext.json)
+
+---
+
+### Corruption scandals on the leasing issue of Attan; Complaint to the Financial Criminal Investigation Division
+
+*2025-09-12 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/224890) · `ta`
+
+The article based on the Information Bill published in the Weerakesari Weekly has pointed out that there are many financial frauds over the rectal lease issue at the Attan bus station.
+
+Therefore, the current member and former member of the Attan Dikoya Urban Council, Dr. Alagamuthu Nandakumar, has requested the matter to be lodged with the Finance Criminal Investigation Division.
+
+Attan -Tikoya Municipal Council was held on Thursday at 1.30 pm under the patronage of Municipal Councilor Ashoka Karunathilaka.. The Member Dr.. A. Nandakumar, speaking to the House on Sunday 24th August, addressed the House of Commons a Bill on the Information Bill on the Attan Bus Station at the Weerakesari Weekly.
+
+In 2023, the rectum was given to an individual by the Municipal Management Committee, not by questioning.. But it is not clear whether the consent of the Assistant Commissioner of the Nuwara Eliya District has been obtained.
+
+...
+
+[Data](articles/656fb830.json)
+
+[Extended Data](ext_articles/656fb830.ext.json)
+
+---
+
+### Another terrible accident - seven injured in pre-school children
+
+*2025-09-12 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214474) · `si`
+
+The horrific injuries have occurred by a car in the opposite direction in the Hatton Bawnwala area on the Hatton Pagaweliwela area.
+
+Six pre-school students and teachers were injured and admitted to the Dikoya Bundator Hospital.
+
+The accident had occurred when the three-wheeler was incorrectly mounted in the front wheel of the three-wheeler was caused by the accident.
+
+The woman who has been driving the car has been arrested by the Norwood Police on suspicion.
+
+The six other than one child have been treated at the Treasury Division of the Sri Lanka Hospital.
+
+◼️
+
+[Data](articles/3babcaf1.json)
+
+[Extended Data](ext_articles/3babcaf1.ext.json)
+
+---
+
+### Chinese Ambassador calls on former President Ranil
+
+*2025-09-12 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112429/chinese-ambassador-calls-on-former-president-ranil-) · `en`
+
+A special meeting between former President Ranil Wickremesinghe and the Chinese Ambassador to Sri Lanka, Qi Zhenhong, was held last morning (11) at the political party office on Flower Road, Colombo.
+
+The meeting was arranged at the request of the Chinese Ambassador, said Ada Derana reporter.
+
+Discussions focused on the political situation in Sri Lanka as well as developments at the international level.
+
+Prior to this, former President Mahinda Rajapaksa also held a similar discussion with the Chinese Ambassador, before leaving his residence in Colombo yesterday.
+
+The Chinese Ambassador is scheduled to meet with another senior former politician in the near future to continue discussions on related matters.
+
+◼️
+
+[Data](articles/76615606.json)
+
+[Extended Data](ext_articles/76615606.ext.json)
+
+---
+
+### Two passengers held with mobile phones, tablets and cosmetics worth Rs. 5M at BIA
+
+*2025-09-12 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112428/two-passengers-held-with-mobile-phones-tablets-and-cosmetics-worth-rs-5m-at-bia) · `en`
+
+Two passengers attempting to smuggle a stock of undeclared mobile phones, tablet computers, cosmetics and boxes of tobacco rolling papers worth Rs. 5 million in total have been arrested by customs officers at the Bandaranaike International Airport (BIA) in Katunayake during the early hours today (12).
+
+The duo was reportedly arrested while attempting to smuggle the goods through the “Green Channel” at the BIA, which is designated for passengers with no items to declare.
+
+Two passengers arrested in connection with the incident have been identified as residents of Colombo. The suspects, a 32-year-old man and a 45-year-old woman, are reported to be engaged in business activities.
+
+According to the officials, the duo had arrived at the Katunayake Airport from Dubai on SriLankan Airlines flight (UL-226) at 05.30 am today.
+
+...
+
+[Data](articles/43a27a14.json)
+
+[Extended Data](ext_articles/43a27a14.ext.json)
 
 ---

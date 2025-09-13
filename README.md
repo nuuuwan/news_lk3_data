@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 19:36:37**
+As of **2025-09-13 18:55:30**
 
 ## Newspaper Stats
 
-*Scraped **75,765** Articles*
+*Scraped **75,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,37 @@ economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,357
+adalk | 7,356
 adaderanalk | 9,735
 tamilmirrorlk | 11,319
 virakesarilk | 12,350
-adaderanasinhalalk | 13,213
+adaderanasinhalalk | 13,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,003 (92.4%) of 75,765 articles have been extended.
+69,941 (92.3%) of 75,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### ඝාතන හතරක් සිදු කළ හිටපු හමුදා සෙබළෙකු කොටුවෙයි
-
-*2025-09-13 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214533) · `si`
-
-බණ්ඩාරගමදී හිටපු බන්ධනාගාර නිලධාරියෙකු වෙඩිතබා ඝාතනය කිරීම සහ බොරැල්ලේදී තරුණයන් දෙදෙනෙකු වෙඩිතබා ඝාතනය කිරීම ඇතුළු මනුෂ්‍ය ඝාතන හතරකට සම්බන්ධ බවට සැක කෙරෙන හිටපු යුද හමුදා සෙබලෙකු පොලිස් විශේෂ කාර්ය බලකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
-
-පොලිසිය සඳහන් කළේ, සැකකරු පසුගිය අගෝස්තු මාසයේදී පමණක් පුද්ගලයන් සිව්දෙනෙකු වෙඩිතබා ඝාතනය කර ඇති බවට තොරතුරු ලැබී ඇති බවය.
-
-බොරැල්ල සිරිසර උයන ප්‍රදේශයේදී පසුගිය අගෝස්තු මස 07 වනදා වනතා තරුණයන් දෙදෙනෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු අම්පාර සියඹලාණ්ඩුව ප්‍රදේශයේ සැඟව සිටින බවට පොලිස් විශේෂ කාර්ය බලකායේ ජයවර්ධනපුර කඳවුරේ ඒකාබද්ධ විශේෂ වැටලීම් ඒකකයට තොරතුරක් ලැබී තිබුණි.
-
-ඒ අනුව අදාළ පුද්ගලයාව ඊයේ (12) එම ප්‍රදේශයේදී අත්අඩංගුවට ගනු ලැබීය.
-
-සැකකරු සම්බන්ධයෙන් සිදුකළ වැඩිදුර විමර්ශනවලදී අනාවරණ වී ඇත්තේ, ඔහු පසුගිය අගෝස්තු මස 21 වනදා බණ්ඩාරගම, තුන්බෝධිය පාලම අසලදී හිටපු බන්ධනාගාර නිලධාරියෙකු වන ලලිත් කෝදාගොඩ නැමැත්තා වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ ද වෙඩික්කරු ලෙස කටයතු කර ඇති බවය.
-
-...
-
-[Data](articles/ba397e41.json)
-
----
-
-### All maize farmers in the Maha season begin registration
+### මහ කන්නයේ සියලුම බඩඉරිඟු ගොවීන් ලියාපදිංචිය ඇරඹෙයි
 
 *2025-09-13 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214532) · `si`
 
-The farmers who cultivate maize cultivated in the Maha season have been facilitated to register the farmers in Sri Lanka.
+2025/26 මහ කන්නයේදී ශ්‍රී ලංකාවේ බඩ ඉරිඟු වගා කරන ගොවීන් හට ලියාපදිංචි වීම සඳහා මේ වන විට පහසුකම් සලසා දී ඇතැයි ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
 
-In a statement, the Department said that the department stated that the facilities have been provided on the web site www.agrariandep.gov.lk
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ ඒ සඳහා www.agrarian.lk www.agrariandept.gov.lk වෙබ් අඩවි තුළ අදාළ පහසුකම් සලසා දී ඇති බවය.
 
-The Department said that all the farmers of maize should be registered in this system say that the necessary procedures and registration have been issued to educate all the farmers.
+මෙම පද්ධතිය තුළ බඩඉරිඟු වගා කරන සියලුම ගොවීන් ලියාපදිංචි විය යුතු බව පෙන්වා දෙන එම දෙපාර්තමේන්තුව පැවසුවේ අදාළ සියලු ගොවීන් දැනුවත් කිරීම සඳහා අවශ්‍ය කටයුතු මෙන්ම ලියාපදිංචි වීම සම්බන්ධයෙන් වූ උපදෙස් ද මේ වන විට නිකුත් කර ඇති බවය.
 
-All maize farmers in the Maha season begin to register by poornima
+මහ කන්නයේ සියලුම බඩඉරිඟු ගොවීන් ලියාපදිංචිය ඇරඹෙයි  by  poornima
 
 ◼️
 
 [Data](articles/d2c744a1.json)
-
-[Extended Data](ext_articles/d2c744a1.ext.json)
 
 ---
 
@@ -453,28 +431,6 @@ Curfew was imposed to control it. However, during the protests, 51 people were k
 [Data](articles/8c6d75a9.json)
 
 [Extended Data](ext_articles/8c6d75a9.ext.json)
-
----
-
-### The construction industry should be made in the field
-
-*2025-09-13 14:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-විධිමත්භාවයක්-ඇති-කළ-යුතුයි/11-418475) · `si`
-
-The presidential discussion of the respective budget proposals between the President, Anura Kumara Dissanayake and the construction industry associated with the construction industry was held in the presidential election.
-
-The discussion was held aimed at enhancing the contribution to the economy by exporting the construction work and the export of electric cables.
-
-He stressed that the proposal was aimed at creating the economic environment where the construction industry would grow outside the construction industry.
-
-The government was focused on how the government could resolve the problems and problems in the construction industry and the government was informed by the heads of the field.
-
-Senior Additional Secretary to the Presidential Additional Secretary, Russell Arotess, Chairman of the Ministry of Finance, Senior Officials of the Ministry of Finance, Heads of Construction Sector and Electric Cable Products
-
-◼️
-
-[Data](articles/f184c2bc.json)
-
-[Extended Data](ext_articles/f184c2bc.ext.json)
 
 ---
 
@@ -2107,5 +2063,39 @@ Sri Lanka’s progress towards building a skilled workforce of industrial energy
 [Data](articles/ea45bf4e.json)
 
 [Extended Data](ext_articles/ea45bf4e.ext.json)
+
+---
+
+### EFL delivers seamless logistics for Richardson Serendib 5 MW solar power plant
+
+*2025-09-13 00:26:26* · [`dailyftlk`](https://www.ft.lk/business/EFL-delivers-seamless-logistics-for-Richardson-Serendib-5-MW-solar-power-plant/34-781621) · `en`
+
+Expo Lanka Freight Ltd., (EFL) Project Division, has been the logistics partner for the Richardson Serendib 5 MW Solar Power Plant in Hiripitiya, Kurunegala, a landmark project that strengthens Sri Lanka’s renewable energy portfolio. This project falls under the category of establishing a renewable energy generation facility with an installed capacity of 5 MW, which exceeds 1 MW, thereby meeting the minimum power generation capacity requirements specified in Gazette Notification No. 2083/33 dated 10 Aug 2018. This compliance also made the project eligible for the Bonded Warehouse Facility scheme, a critical enabler that ensured smart import handling and an efficient project facilitation process.
+
+...
+
+[Data](articles/f53b38a3.json)
+
+[Extended Data](ext_articles/f53b38a3.ext.json)
+
+---
+
+### Sri Lanka hosts “Ceylon Tea – Finest Evening” to promote trade, tourism, and Ceylon Tea in Thailand
+
+*2025-09-13 00:25:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-Ceylon-Tea-Finest-Evening-to-promote-trade-tourism-and-Ceylon-Tea-in-Thailand/34-781620) · `en`
+
+The Embassy of Sri Lanka in Bangkok concluded a key trade and tourism promotional event titled “Ceylon Tea – Finest Evening” held on 1 September, at Hyatt Regency Hotel, Bangkok.
+
+This flagship initiative was organised with the objective of promoting Sri Lankan tea brand –Ceylon Tea, while also fostering stronger ties in trade and tourism between Sri Lanka and Thailand.
+
+The event brought together distinguished guests from different sectors including, leading Thai tea importers and retailers, representatives from prominent hotel chains and shopping malls, senior officials from the Foreign Affairs Ministry and other Thai Government institutions, Ambassadors and members of diplomatic corps, and members of media.
+
+The evening was graced by former Foreign Affairs Vice Minister Dr. Lalivan Karnchanachari who attended as the Chief Guest.
+
+...
+
+[Data](articles/662293f4.json)
+
+[Extended Data](ext_articles/662293f4.ext.json)
 
 ---

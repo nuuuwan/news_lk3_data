@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 00:08:39**
+As of **2025-09-13 22:52:52**
 
 ## Newspaper Stats
 
-*Scraped **75,783** Articles*
+*Scraped **75,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,92 +17,20 @@ islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,358
-adaderanalk | 9,739
+adaderanalk | 9,738
 tamilmirrorlk | 11,323
-virakesarilk | 12,352
-adaderanasinhalalk | 13,220
+virakesarilk | 12,351
+adaderanasinhalalk | 13,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,224 (92.7%) of 75,783 articles have been extended.
+70,152 (92.6%) of 75,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### பங்களாதேஷை 6 விக்கெட் வித்தியாசத்தில் வீழ்த்தி இலங்கை அணி
-
-*2025-09-13 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225020) · `ta`
-
-இலங்கைக்கும் பங்களாதேஷுக்கும் இடையே 13ஆம் திகதி சனிக்கிழமை நடைபெற்ற 2025 ஆசியக் கிண்ண கிரிக்கெட் போட்டியின் ஐந்தாவது போட்டியில் இலங்கை அணி 06 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
-
-140 ஓட்டங்கள் என்ற இலக்கை துரத்திய இலங்கை அணி, 14.4 ஓவர்களில் 04 விக்கெட்டுகள் மட்டுமே இழந்து 140 ஓட்டங்கள் எடுத்தது.
-
-இலங்கை அணியின் பதும் நிஸ்ஸங்க 50 ஓட்டங்கள், குசல் மெண்டிஸ் 03 ஓட்டங்கள், குசல் பெரேரா 09 ஓட்டங்கள், கமில் மிஷாரா ஆட்டமிழக்காமல் 46* ஓட்டங்கள், சரித் அசலங்கா ஆட்டமிழக்காமல் 10 * ஓட்டங்கள் எடுத்தனர்.
-
-மஹேதி ஹசன் 02 விக்கெட்டுகளையும், முஸ்தாபிசுர் ரஹ்மான் மற்றும் தன்சிம் ஹசன் சாகிப் தலா ஒரு விக்கெட்டையும் வீழ்த்தினர்.
-
-நாணய சுழற்சியில் வென்ற இலங்கை கெப்டன், பங்களாதேஷை முதலில் துடுப்பெடுத்தாட அழைத்தார், பங்களாதேஷ் அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 05 விக்கெட்டுகள் இழந்து 139 ஓட்டங்களை எடுத்தது.
-
-...
-
-[Data](articles/7ccd516b.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2025-09-13 23:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214540) · `si`
-
-Sri Lanka won a six wicket win by Sri Lanka and Bangladesh in the 13th Asia Cricket Tournament.
-
-Bangladesh invited Bangladesh to bat first, who won the coin.
-
-Accordingly, Nuwan Thushara has scored the first wicket of Bangladesh first wicket at the first winter.
-
-Damadhini Chameera, who was implemented, was delicious in the second-odd, helping Bangladesh.
-
-In the face of the super-rid of Kamil Michale, one more harm was collapsed and took a state of bangleader to a marginalized.
-
-Despite the first wickets of Bangladesh, Jacoer Ali and Samimus Hossala, Bangladesh, took Bangladesh towards the innings of the innings.
-
-Accordingly, the Bangladesh scored 139 runs for the loss of 5 wickets in their allotted 20 overs.
-
-Sri Lanka won a 140-run target for 140 runs and Sri Lanka won the winning 140 runs for the loss of 4 wickets.
-
-There he managed to receive the wishes of great sticks and regulated wishes.
-
-With the same plague, he reached the 2,000 runs in the International T20 cricket.
-
-...
-
-[Data](articles/038b0274.json)
-
-[Extended Data](ext_articles/038b0274.ext.json)
-
----
-
-### Solidarity and unity among all religions essential for justice and equality – PM
-
-*2025-09-13 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112465/solidarity-and-unity-among-all-religions-essential-for-justice-and-equality-pm) · `en`
-
-Prime Minister Dr. Harini Amarasuriya emphasized that solidarity and unity among all religions is essential to building justice and equality in the country.
-
-She made these remarks while participating in the 118th annual festival of the historic national shrine of Our Lady of Matara, according to the Prime Minister’s Media Division.
-
-This year marks the 118th annual anniversary of the shrine. On this occasion, a special blessing ceremony was conducted by Rev. Dr. Jude Nishantha Silva, Bishop of Badulla, and Rev. Dr. Raymond Wickramasinghe, Bishop of Galle on behalf of the Prime Minister.
-
-Thereafter, a special cordial meeting was held between the Prime Minister and interfaith leaders of the Matara region in the main hall of the shrine, the statement said.
-
-Expressing her felicitations to the historic celebration of the shrine on behalf of the Government and His Excellency the President, the Prime Minister stated that it was a great privilege to take part in this occasion.
-
-...
-
-[Data](articles/c7527dbb.json)
-
----
 
 ### 22 killed in air attack on West Myanmar
 
@@ -614,7 +542,7 @@ The Deputy Minister’s statement comes in the wake of Israel’s deadly strike 
 
 ---
 
-### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
+### Sri Lanka, Philippines hold 3rd political consultations, eye closer ties in trade, labour, fisheries
 
 *2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-hold-3rd-political-consultations-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
 
@@ -2131,5 +2059,71 @@ The government has announced that the re-resume of work from the founding part o
 [Data](articles/67378178.json)
 
 [Extended Data](ext_articles/67378178.ext.json)
+
+---
+
+### Suspect's suspect arrested in Sahaspura double murder
+
+*2025-09-13 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214505) · `si`
+
+A person has been arrested in the Borella Police Division, a shot of shot dead in the Survey Stadium.
+
+Police said the police had been produced before 10 grams of ice narcotics and 710 milligrams and a motorcycle.
+
+The Sri Jayewardenepura Police Special Race Special Raise Unit had commenced investigations into the crime of shooting two persons at the Borella Police Division of the Borella Police Division.
+
+Accordingly, a group of officers suspected to be the shotgunner of the crime in the unit yesterday (12th) was arrested.
+
+The investigation has revealed that the suspect had previously fled the Sri Lanka Army's duties in 2015.
+
+Meanwhile, a suspect who has been awarded to a person who has been shot dead by an unidentified person from Malani Bulathsintale Mawatha in Borathgamuwa Police Division has been arrested by an unidentified person in Borathgamuwa Police Division on 24.08.
+
+Investigations carried out by the Western Province Southern Province Crimes Division.
+
+...
+
+[Data](articles/9288f24e.json)
+
+[Extended Data](ext_articles/9288f24e.ext.json)
+
+---
+
+### New Prime Minister Carika dissolved parliament
+
+*2025-09-13 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214504) · `si`
+
+Textal sworn in the country as the interim prime minister of Nepal has dissolved the Parliament.
+
+The order was implemented after she was sworn in as the first women's Prime Minister of Nepal last night.
+
+The Nepal parliamentary election will be held on March 21st.
+
+Meanwhile, reports say that the Cabinet of Cabinet is to be sworn in today (13).
+
+◼️
+
+[Data](articles/40c3f4bc.json)
+
+[Extended Data](ext_articles/40c3f4bc.ext.json)
+
+---
+
+### Thunder showers in several areas
+
+*2025-09-13 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214503) · `si`
+
+Showers will occur in the Western and Sabaragamuwa provinces today (13) and several times in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The department was released in the latest announcement this morning.
+
+Showers or thundershowers will occur at several places in the Eastern and Uva provinces.
+
+The public requests the public to take steps to reduce the damages caused by temporary winds and lightning
+
+◼️
+
+[Data](articles/4e249804.json)
+
+[Extended Data](ext_articles/4e249804.ext.json)
 
 ---

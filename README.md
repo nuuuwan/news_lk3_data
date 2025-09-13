@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 19:05:58**
+As of **2025-09-13 18:55:30**
 
 ## Newspaper Stats
 
-*Scraped **75,764** Articles*
+*Scraped **75,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,357
+adalk | 7,356
 adaderanalk | 9,735
 tamilmirrorlk | 11,319
 virakesarilk | 12,350
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,941 (92.3%) of 75,764 articles have been extended.
+69,941 (92.3%) of 75,763 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -431,24 +431,6 @@ Curfew was imposed to control it. However, during the protests, 51 people were k
 [Data](articles/8c6d75a9.json)
 
 [Extended Data](ext_articles/8c6d75a9.ext.json)
-
----
-
-### ඉදිකිරීම් ක්ෂේත්‍රයේ විධිමත්භාවයක් ඇති කළ යුතුයි
-
-*2025-09-13 14:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-විධිමත්භාවයක්-ඇති-කළ-යුතුයි/11-418475) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක සහ ඉදිකිරීම් කර්මාන්තය ආශ්‍රිත පාර්ශ්වකරුවන් අතර 2026 වසරට අදාළ අයවැය යෝජනා පිළිබඳ පූර්ව සාකච්ඡාවක්  ජනාධිපති කාර්යලයේදී  පැවැත්විණි.
-
-ඉදිකිරීම් සේවාව  සහ ඒ ආශ්‍රිත නිෂ්පාදනයක් වන විදුලි කේබල් අපනයනය කිරීමෙන් ආර්ථිකයට ලබාගත හැකි දායකත්වය ඉහළ නංවා ගැනීම අරමුණු කරගනිමින් මෙම සාකච්ඡාව පැවැත්වූ අතර, මෙම කර්මාන්තය  අපනයන ක්ෂේත්‍රයක් ලෙස වර්ධනය කිරීමේදී මුහුණදීමට සිදුවන අභියෝග, යෝජනා සහ විසඳුම් මෙහිදී සාකච්ඡා කෙරිණි.
-
-ඉදිකිරීම් කර්මාන්තය රජයේ ඉදිකිරීම්වලින් පරිබාහිරව වර්ධනය වීමට අවශ්‍ය ආර්ථික පරිසරය නිර්මාණය කිරීම අරමුණු කරගෙන ඇති බව පෙන්වා දුන් අනුර කුමාර දිසානායක  ජනාධිපතිවරයා  මෙරට ඉදිකිරීම් ක්ෂේත්‍රය තුළ පැවැති අවිධිමත්බව හේතුවෙන් පසුගිය සමයේ අක්‍රමිකතා සිදුවූ බවද එහි විධිමත්භාවයක් ඇති කළ යුතු බවද මෙහිදී අවධාරණය කළේය.
-
-ඉදිකිරීම් කර්මාන්ත ක්ෂේත්‍රයේ පවතින ගැටලු හා එම ගැටලු විසඳීමට රජය මැදිගත් විය හැකි ආකාරය පිළිබඳ මෙහිදී අවධානයට ලක් වූ අතර, ඉදිකිරීම් ක්ෂේත්‍රය මේ වන විට මුහුණ දී සිටින ගැටලු සම්බන්ධයෙන් ක්ෂේත්‍රයේ ප්‍රධානීන් විසින් ජනාධිපතිවරයා දැනුවත් කරන ලදී.
-
-...
-
-[Data](articles/f184c2bc.json)
 
 ---
 
@@ -2095,5 +2077,25 @@ Expo Lanka Freight Ltd., (EFL) Project Division, has been the logistics partner 
 [Data](articles/f53b38a3.json)
 
 [Extended Data](ext_articles/f53b38a3.ext.json)
+
+---
+
+### Sri Lanka hosts “Ceylon Tea – Finest Evening” to promote trade, tourism, and Ceylon Tea in Thailand
+
+*2025-09-13 00:25:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-Ceylon-Tea-Finest-Evening-to-promote-trade-tourism-and-Ceylon-Tea-in-Thailand/34-781620) · `en`
+
+The Embassy of Sri Lanka in Bangkok concluded a key trade and tourism promotional event titled “Ceylon Tea – Finest Evening” held on 1 September, at Hyatt Regency Hotel, Bangkok.
+
+This flagship initiative was organised with the objective of promoting Sri Lankan tea brand –Ceylon Tea, while also fostering stronger ties in trade and tourism between Sri Lanka and Thailand.
+
+The event brought together distinguished guests from different sectors including, leading Thai tea importers and retailers, representatives from prominent hotel chains and shopping malls, senior officials from the Foreign Affairs Ministry and other Thai Government institutions, Ambassadors and members of diplomatic corps, and members of media.
+
+The evening was graced by former Foreign Affairs Vice Minister Dr. Lalivan Karnchanachari who attended as the Chief Guest.
+
+...
+
+[Data](articles/662293f4.json)
+
+[Extended Data](ext_articles/662293f4.ext.json)
 
 ---

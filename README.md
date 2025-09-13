@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 00:08:39**
+As of **2025-09-14 00:36:25**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 13,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,224 (92.7%) of 75,783 articles have been extended.
+70,246 (92.7%) of 75,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### பங்களாதேஷை 6 விக்கெட் வித்தியாசத்தில் வீழ்த்தி இலங்கை அணி
+### Sri Lanka beat Bangladesh by 6 wickets
 
 *2025-09-13 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225020) · `ta`
 
-இலங்கைக்கும் பங்களாதேஷுக்கும் இடையே 13ஆம் திகதி சனிக்கிழமை நடைபெற்ற 2025 ஆசியக் கிண்ண கிரிக்கெட் போட்டியின் ஐந்தாவது போட்டியில் இலங்கை அணி 06 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+Sri Lanka won the fifth match of the 2025 Asian Cup cricket match between Sri Lanka and Bangladesh on Saturday, 13th.
 
-140 ஓட்டங்கள் என்ற இலக்கை துரத்திய இலங்கை அணி, 14.4 ஓவர்களில் 04 விக்கெட்டுகள் மட்டுமே இழந்து 140 ஓட்டங்கள் எடுத்தது.
+The Sri Lankan team scored 140 runs and scored 140 runs for the loss of only 04 wickets in 14.4 overs.
 
-இலங்கை அணியின் பதும் நிஸ்ஸங்க 50 ஓட்டங்கள், குசல் மெண்டிஸ் 03 ஓட்டங்கள், குசல் பெரேரா 09 ஓட்டங்கள், கமில் மிஷாரா ஆட்டமிழக்காமல் 46* ஓட்டங்கள், சரித் அசலங்கா ஆட்டமிழக்காமல் 10 * ஓட்டங்கள் எடுத்தனர்.
+Sri Lanka's Nissanka scored 50 runs, Gusal Mendis 03, Kusal Perera 09, Kamil Mishara 46 * and Sarith Asalanga scored 10 * unbeaten.
 
-மஹேதி ஹசன் 02 விக்கெட்டுகளையும், முஸ்தாபிசுர் ரஹ்மான் மற்றும் தன்சிம் ஹசன் சாகிப் தலா ஒரு விக்கெட்டையும் வீழ்த்தினர்.
+Mahadedi Hasan took 02 wickets while Mustafizur Rahman and Tanzim Hasan Sahib took one wicket each.
 
-நாணய சுழற்சியில் வென்ற இலங்கை கெப்டன், பங்களாதேஷை முதலில் துடுப்பெடுத்தாட அழைத்தார், பங்களாதேஷ் அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 05 விக்கெட்டுகள் இழந்து 139 ஓட்டங்களை எடுத்தது.
+Sri Lanka Captain, who won the currency cycle, called Bangladesh first to bat, scoring 139 runs for the loss of 5 wickets in 20 overs.
 
-...
+Accordingly, Bangladesh captain Litton Das scored 28 runs, Tauhit Hiridoi 8, Mahdedi Hasan 9, Jackar Ali scored 41* and Shamim Hossein 42*.
+
+Tanzid Hasan and Parvez Hossein Emon, who were the starters, were unable to score any runs.
+
+In bowling, Wanindu Hazaranga took 2 wickets while Dushmantha Sameera and Nuwan Dushara took one wicket each.
+
+◼️
 
 [Data](articles/7ccd516b.json)
+
+[Extended Data](ext_articles/7ccd516b.ext.json)
 
 ---
 
@@ -101,6 +109,8 @@ Expressing her felicitations to the historic celebration of the shrine on behalf
 ...
 
 [Data](articles/c7527dbb.json)
+
+[Extended Data](ext_articles/c7527dbb.ext.json)
 
 ---
 

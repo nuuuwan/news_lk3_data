@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 13:38:15**
+As of **2025-09-13 12:10:09**
 
 ## Newspaper Stats
 
-*Scraped **75,722** Articles*
+*Scraped **75,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,131 +16,35 @@ economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,352
+adalk | 7,351
 adaderanalk | 9,729
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,199
+adaderanasinhalalk | 13,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,641 (92.0%) of 75,722 articles have been extended.
+69,577 (91.9%) of 75,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### බස් රථවල සැරසිලිවලට අවසර ලබාදී තිබූ චක්‍රලේඛය අවලංගු කෙරේ
-
-*2025-09-13 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214519) · `si`
-
-මගී බස් රථවල සැරසිලි සහ උපාංග සවි කිරීමට අවසර දෙමින් 2023 ජුනි 02 වන දින නිකුත් කරන ලද චක්‍රලේඛය, 2025 සැප්තැම්බර් 09 දින සිට බලපැවැත්වෙන පරිදි අවලංගු කර තිබේ.
-
-මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල්වරයා විසින් මෙම චක්‍රලේඛය නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/a81d1dcb.json)
-
----
-
-### Here is the school period to be followed in 2026
-
-*2025-09-13 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214518) · `si`
-
-The Ministry of Education, Higher Education and Vocational Education has been issued by the Ministry of Education, Higher Education and Vocational Education.
-
-Accordingly, the first stage of the first stage of the first semester for Sinhala and Tamil schools will be founded on 11.01.2013 to 31.02.2013.
-
-The Ministry of Education, Higher Education and Vocational Education is issued by the Ministry of Education, Higher Education and Vocational Education, which will be granted in the first phase of the first term.
-
-Subsequently the second phase of the first stage will be held from Tuesday, 03.03.2013 to Friday, March 2026.
-
-The second phase of the first term will be given holidays on September 2026.2011 to 19.04.2011.
-
-Second school term will be held on Monday, 24.06.2012.
-
-The first phase of the third term will be held on Friday, January 2026, 07.07.2013, the Ministry of Education, Education and Vocational Education said.
-
-...
-
-[Data](articles/14ad4adf.json)
-
-[Extended Data](ext_articles/14ad4adf.ext.json)
-
----
-
-### Rammitha son of Keheliya earns Rs. 27 million for 21 crores
-
-*2025-09-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214517) · `si`
-
-The Bribery Commission has been indicted in the Colombo High Court yesterday against Ramith Rambukwella, son of former Minister Keheliya Rambukwella.
-
-Although Keheliya Rambukwella has been earned as the Minister of Health, Ramith Rambukwella has earned over Rs.
-
-It is reported that there are many assets, including luxury houses, jeeps between the assets that cannot be earned.
-
-Rammit was also appointed as the Health Minister Keheliya Rambukwella.
-
-On January 1, 2022 and November 20, 2023, has earned valuable assets and property worth Rs. 296,566 and Rs.
-
-Ramith Rambukwella has failed to reveal the earnings of Rs 275,302,616.06.
-
-That is why the Bribery Commission has been indicted under the Anti-Corruption Act.
-
-And there were two hundred rupees at Dharmapala Mawatha, Colombo 07, and two hundred and Rs.
-
-There are four bank accounts named Ramith and four bank accounts, including his wife, and an unexpular discourse, including a discovery jeep.
-
-...
-
-[Data](articles/36ca14eb.json)
-
-[Extended Data](ext_articles/36ca14eb.ext.json)
-
----
-
-### Sri Lanka participated in the Asian Cup today
-
-*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
-
-Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
-
-The match will be played at Abuadabii at 8:00 pm as a match of B.
-
-Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
-
-The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
-
-Sri Lanka won both matches previously.
-
-This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
-
-◼️
-
-[Data](articles/ce1740f4.json)
-
-[Extended Data](ext_articles/ce1740f4.ext.json)
-
----
-
-### Lord
+### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
 
 *2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
 
-Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
+வெலிகம பிரதேச சபையின் தவிசாளர் லசந்த விக்ரமசேகரவுக்கு எதிராக மாத்தறை பிரதான நீதவான் நீதிமன்றம் பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
 
-The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
+தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தாரக நாணயக்காரவுக்கு கொலை மிரட்டல் விடுத்த குற்றச்சாட்டைத் தொடர்ந்து, அவருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
 
-When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
+இந்த வழக்கு மாத்தறை பிரதான நீதவான் சத்துர திசாநாயக்க முன்னிலையில் நேற்று  (12) விசாரணைக்கு வந்த போது, லசந்த விக்ரமசேகர நீதிமன்றில் ஆஜராகாமல் இருந்துள்ளார்.
 
 ◼️
 
 [Data](articles/18a6ffad.json)
-
-[Extended Data](ext_articles/18a6ffad.ext.json)
 
 ---
 
@@ -567,26 +471,6 @@ Therefore, if gaming games have a renewed effect on the gambling regulatory supe
 [Data](articles/0a8a5979.json)
 
 [Extended Data](ext_articles/0a8a5979.ext.json)
-
----
-
-### The Supreme Court launches system
-
-*2025-09-13 08:04:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-නඩු-කළමණාකරණ-පද්ධතිය-දියත්-කරයි/11-418470) · `si`
-
-Attorney-at-Law, Minister of Justice and National Integration to operate the Supreme Court Supreme Court Survey is the first step in the Supreme Court Proposal to operate the Supreme Court Supreme Court Supreme Court in the first stage of the Supreme Court. Harshana Nanayakkara was held at the participation of Colombo 12, Colombo 12, October, 80, Judge Training Institute.
-
-The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
-
-The Digital Program aims to reduce the corruption irregularities of the judicial subsistence and promote services to the judiciary and the efficient services to the lawyers.
-
-As a first step, the Supreme Court is to digitize the Supreme Court, the Court of Appeal, High Court and District Magistrate Judicial and other jurisdictions.
-
-...
-
-[Data](articles/381e5923.json)
-
-[Extended Data](ext_articles/381e5923.ext.json)
 
 ---
 
@@ -2035,5 +1919,127 @@ The delegation met with Fisheries Minister Ramalingam Chandrasekhar and Governor
 [Data](articles/1e19399b.json)
 
 [Extended Data](ext_articles/1e19399b.ext.json)
+
+---
+
+### The 79th anniversary of the United National Party is on September 20
+
+*2025-09-12 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/224943) · `ta`
+
+The 79th anniversary of the United National Party (UNP) is scheduled to be held on the 6th and is scheduled to be held at the Monark Imperial Hotel, located at Srijayawardanapura Fort at 9 am on Saturday 20th.
+
+This was decided at a discussion held at his political office in Colombo on Thursday 11th, headed by UNP leader and former president Ranil Wickremesinghe.
+
+While the 79th anniversary of the United National Party (UNP) has already decided to hold on the 6th, the party's management committee has decided to postpone the ceremony, considering the health of former President Ranil Wickremesinghe.
+
+Accordingly, it is decided to hold the 79th anniversary of the postponement of the postponement on Saturday the 20th.
+
+◼️
+
+[Data](articles/43535055.json)
+
+[Extended Data](ext_articles/43535055.ext.json)
+
+---
+
+### CoPF calls for financial autonomy for Bribery Commission, AG’s Dept
+
+*2025-09-12 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112441/copf-calls-for-financial-autonomy-for-bribery-commission-ags-dept) · `en`
+
+The Committee on Public Finance (CoPF) has granted approval for the 2026 budget estimate of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+This approval was granted during a meeting of the Committee held on Thursday (11) in Parliament, chaired by Member of Parliament Dr. Harsha de Silva.
+
+During the meeting, the Chairman of the Committee pointed out that just as the Central Bank of Sri Lanka (CBSL) experience financial independence, it is important to grant financial autonomy to institutions such as the Bribery Commission (CIABOC) and the Auditor General’s Department to ensure greater independence in their operations.
+
+He further stated that with such financial independence, these institutions would be able to function more autonomously, irrespective of which government is in power, and free from prevailing political authority.
+
+Accordingly, the Committee decided to inform the Minister of Finance, who is also the President, about this matter, the statement said.
+
+...
+
+[Data](articles/7954abd9.json)
+
+[Extended Data](ext_articles/7954abd9.ext.json)
+
+---
+
+### The United States -. Red light for Korean investments?
+
+*2025-09-12 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214492) · `si`
+
+One of the main objectives of Donald Trump's duty war of Donald Trump is the increase in the production process in the US.
+
+The Trump administration is forced to manufacture foreign companies to manufacture locations from the US to be manufactured and exported to the United States to computer chips in America.
+
+However, the manufacturers of the United States are recently proffered from the United States, due to President's intense migration policy.
+
+One such problem is to take steps to raid the immigrants who worked in these huge factories.
+
+One such thing as a result of such a serious problem is the South Korean Yundai Motors and LG Battery Production in Georgia.
+
+At least 450 foreigners were arrested in a raid carried out last week in this massive manufacturing plant.
+
+The specialty is the South Korean who served at the factory.
+
+The publication was a video of the employees and handle the handcuffing and handcuffing.
+
+ඔවුන් මුදාගැනීම සඳහා දකුණු කොරියානු ජනාධිපති ලී ජේ  මියුංටත් මැදිහත්වීමට සිදුවුණි.
+
+...
+
+[Data](articles/8d53143b.json)
+
+[Extended Data](ext_articles/8d53143b.ext.json)
+
+---
+
+### Limitation of traffic to Maharagama
+
+*2025-09-12 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214491) · `si`
+
+Motor traffic has been restricted due to the Esala Perahera of the Esala Perahera of the Puwakpitiya Opposition in Maharagama.
+
+Accordingly, the traffic will be restricted at 7.30 pm to 3 am from 7.30 pm.
+
+The Perahera commenced at the Opposition and Southway along the Maharagama road near the Maharagama Road, Maharagama road along the Maharagama Road, Maharagama Road.
+
+As a result, the police are informed to use the following alternative routes.
+
+The motor vehicle traveling traffic from Dehiwala, Piliyandala, Boralesgamuwa can travel along the presidential footage of the President Junction.
+
+Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Wattegedara junction on the old road.
+
+* Vehicles traveling along the High Level Road in Boralesgamuwa can be route through Wattalanda.
+
+* From Piliyandala to Colombo District, the vehicles traveling in the Colombo district can be route along the right road near the sojouals.
+
+◼️
+
+[Data](articles/186f6675.json)
+
+[Extended Data](ext_articles/186f6675.ext.json)
+
+---
+
+### State Revenue Nearly 15 percent of GDP
+
+*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
+
+The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
+
+According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
+
+He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
+
+Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
+
+He pointed out that state spending management is focused on an optimum level but the cost of Rs.
+
+...
+
+[Data](articles/2ca1581d.json)
+
+[Extended Data](ext_articles/2ca1581d.ext.json)
 
 ---

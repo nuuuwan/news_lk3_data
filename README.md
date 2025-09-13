@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 22:07:10**
+As of **2025-09-13 22:36:37**
 
 ## Newspaper Stats
 
-*Scraped **75,778** Articles*
+*Scraped **75,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,71 @@ adalk | 7,358
 adaderanalk | 9,738
 tamilmirrorlk | 11,323
 virakesarilk | 12,351
-adaderanasinhalalk | 13,217
+adaderanasinhalalk | 13,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,117 (92.5%) of 75,778 articles have been extended.
+70,136 (92.6%) of 75,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### රුපියල් මිලියන 85ක් වටිනා කුෂ් මත්ද්‍රව්‍ය සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
+### බටහිර මියන්මාරයේ පාසලකට එල්ල වූ ගුවන් ප්‍රහාරයකින් 22ක් මරුට
+
+*2025-09-13 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214539) · `si`
+
+බටහිර මියන්මාරයේ පාසලක නේවාසිකාගාර ගොඩනැගිල්ලකට එල්ල වූ ගුවන් ප්‍රහාරයකින් සිසුන් විසි දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තවත් පිරිසක් තුවාල ලබා තිබේ.
+
+එරට මාධ්‍ය වාර්තා කරන්නේ එම ප්‍රහාරය එල්ල වන අවස්ථාව වන විට සිසුන් නින්දේ පසුවූ බවය.
+
+එරට සන්නද්ධ කැරලි කණ්ඩායම් සිටින ප්‍රදේශයක් ඉලක්ක කර මියන්මාර හමුදා මෙම ප්‍රහාරය එල්ල කර තිබුණි.
+
+◼️
+
+[Data](articles/1211d4e3.json)
+
+---
+
+### Sri Lanka a target of 140 runs
+
+*2025-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214538) · `si`
+
+Batting first Sri Lanka and Bangladesh scored 139 runs for the loss of 5 wickets at the end of 20 overs.
+
+Sri Lanka captain Charith won the toss and elected to the Bangladesh to bat first.
+
+Shamm, Hassain scored 42 runs for the Bangladesh team.
+
+No other player in the group was able to exceed the 10-run limit.
+
+Tannu Hasaranga took 2 wickets for Sri Lanka in bowling and took 2 wickets.
+
+Sri Lanka is due to chase 140 runs.
+
+◼️
+
+[Data](articles/c558a898.json)
+
+[Extended Data](ext_articles/c558a898.ext.json)
+
+---
+
+### Indian national arrested with rash drugs worth Rs. 85 million
 
 *2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
 
-රුපියල් මිලියන 85ක් වටිනා කුෂ් කිලෝග්‍රෑම් 8.542ක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ  ඉන්දියානු ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
+An Indian national has been arrested by an Indian national who tried to carry 8.542 kilograms of crusts worth Rs. 85 million.
 
-සැකකරු බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් කටුනායකදී අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested by the officials of the Narcotics Bureau at Bandaranaike International Airport.
 
 ◼️
 
 [Data](articles/46260ef7.json)
+
+[Extended Data](ext_articles/46260ef7.ext.json)
 
 ---
 
@@ -58,19 +100,23 @@ The 33-year-old suspect, who had arrived from Thailand and was bound for India, 
 
 [Data](articles/8b36ef7d.json)
 
+[Extended Data](ext_articles/8b36ef7d.ext.json)
+
 ---
 
 ### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
 
 *2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
 
-ගින්න මේ වන විටත් රක්ෂිතය පුරා පැතිර යමින් පවතින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+The fire is already spreading throughout the reserve.
 
-ප්‍රදේශය පුරා පවතින වියළි කාලගුණය සහ තද සුළං හේතුවෙන් රක්ෂිතය පුරා ගින්න පැතිර යමින් පවතින බවද වාර්තා වේ.
+It is reported that the fire is spreading in the forest due to dry weather and strong winds.
 
 ◼️
 
 [Data](articles/4d52bcfe.json)
+
+[Extended Data](ext_articles/4d52bcfe.ext.json)
 
 ---
 
@@ -91,6 +137,8 @@ Earlier this month, the president said he was prepared to move towards a second 
 ...
 
 [Data](articles/ee045e10.json)
+
+[Extended Data](ext_articles/ee045e10.ext.json)
 
 ---
 
@@ -2075,47 +2123,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/4e249804.json)
 
 [Extended Data](ext_articles/4e249804.ext.json)
-
----
-
-### 4 days of birth, a male fetal death
-
-*2025-09-13 04:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறந்து-4-நாட்களான-ஆண்-சிசு-உயிரிழப்பு/175-364489) · `ta`
-
-Yall. A male fetus has died four days after being born at the Teaching Hospital.
-
-The deceased is the fetus of a couple named Kapilnath Poojitha from Manipayi.
-
-The male fetus was born on the 7th of last month due to the intestinal circulation and the infant died on Thursday (11).
-
-Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Arumugam Jayapalasingham ordered the anatomical examination.. Manipay police regulated witnesses. (A)
-
-◼️
-
-[Data](articles/19301153.json)
-
-[Extended Data](ext_articles/19301153.ext.json)
-
----
-
-### Flooding in Japan's Tokyo
-
-*2025-09-13 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224959) · `ta`
-
-Many areas have been affected by flooding due to heavy rains in Tokyo, the capital of Japan. Strong winds with continuous rain have severely affected the daily lives of the people.
-
-Foreign media reports that one person died and another was severely injured when the containers stacked in the port collapsed due to strong winds.
-
-Also, transport services have been disrupted by rain. Travelers have been in trouble as many train services have been suspended in the domestic and suburbs of Tokyo. According to reports, about one million people have been directly affected.
-
-In this case, the Japanese Meteorological Department has issued a warning and announced that there is a risk of more than 100 millimeters of rain in some parts of Tokyo over the next few days.. Officials have urged the public to avoid unnecessary transfers and to adopt security precautions.
-
-However, reports say that rescue and relief measures have been challenged in the affected areas due to the continuous rains.
-
-◼️
-
-[Data](articles/e3f71292.json)
-
-[Extended Data](ext_articles/e3f71292.ext.json)
 
 ---

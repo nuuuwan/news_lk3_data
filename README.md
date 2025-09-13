@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 03:54:21**
+As of **2025-09-14 05:20:06**
 
 ## Newspaper Stats
 
-*Scraped **75,783** Articles*
+*Scraped **75,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 770
-economynextcom | 4,593
+economynextcom | 4,594
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,421 (92.9%) of 75,783 articles have been extended.
+70,545 (93.1%) of 75,784 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -621,6 +621,24 @@ The Deputy Minister’s statement comes in the wake of Israel’s deadly strike 
 [Data](articles/1c559f61.json)
 
 [Extended Data](ext_articles/1c559f61.ext.json)
+
+---
+
+### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
+
+*2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
+
+ECONOMYNEXT – Sri Lanka and the Philippines concluded the third round of political consultations in Colombo, with both countries pledging to expand cooperation across a wide range of sectors ahead of the 65th anniversary of their diplomatic relations in 2026, the island nation’s Foreign Ministry said.
+
+Foreign Secretary Aruni Ranaraja during the meeting concluded on Friday expressed hope that Manila would consider reopening its resident mission in Colombo. She also noted that Sri Lanka looks forward to working with the Philippines as it prepares to take on the ASEAN chairmanship.
+
+The talks focused on boosting cooperation in agriculture, labour, trade, fisheries, culture, defence, and education, while also addressing broader regional and multilateral issues.
+
+...
+
+[Data](articles/2fcf24c5.json)
+
+[Extended Data](ext_articles/2fcf24c5.ext.json)
 
 ---
 
@@ -2127,19 +2145,5 @@ Our journey to 'surrogate history returns: Your Vijay Na Varane' is a journey th
 [Data](articles/53d5c39b.json)
 
 [Extended Data](ext_articles/53d5c39b.ext.json)
-
----
-
-### Construction begins the first part of the Central Expressway
-
-*2025-09-13 07:03:44* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටසේ-ඉදිකිරීම්-යළි-17දා-අරඹයි/11-418466) · `si`
-
-The government has announced that the re-resume of work from the founding part of the Central Expressway and the Central Expressway will be resumed on the 17th.
-
-◼️
-
-[Data](articles/67378178.json)
-
-[Extended Data](ext_articles/67378178.ext.json)
 
 ---

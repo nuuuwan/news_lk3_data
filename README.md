@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 20:53:42**
+As of **2025-09-13 21:05:50**
 
 ## Newspaper Stats
 
-*Scraped **75,771** Articles*
+*Scraped **75,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,358
-adaderanalk | 9,735
+adaderanalk | 9,736
 tamilmirrorlk | 11,322
 virakesarilk | 12,351
-adaderanasinhalalk | 13,214
+adaderanasinhalalk | 13,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,067 (92.5%) of 75,771 articles have been extended.
+70,086 (92.5%) of 75,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
+
+### වසර 60කට පසු අලුත්වන  පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ
+
+*2025-09-13 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214535) · `si`
+
+දශක ගණනාවකට පසුව කොළඹ පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ ප්‍රතිසංස්කරණය කිරීම සඳහා මේ වනවිට සූදානම් කෙරෙමින් පවති‍යි.
+
+මෙලෙස එම බස් නැවතුම්පොළ පූර්ණ ප්‍රතිසංස්කරණයකට ලක්වන්නේ වසර 60කට පසුවය.
+
+පිටකොටුවට පැමිණෙන ජනතාව වෙනුවෙන් පිටකොටුව මධ්‍යම බස් නැවතුම් පොළ ඉදිවන්නේ 1964 වසරේදී ය.
+
+මේ වන විට එහි සිට දෛනිකව ක්‍රියාත්මක වන බස්රථ ගමන්වාර ගණන 1500කට අධික ය.
+
+දිනකට දහස් ගණනක් භාවිත කරන, එහෙත් දශක ගණනක් පුරා නිසි නඩත්තුවක් නොකිරීම නිසා එම බස් නැවතුම්පොළ අභාවයට යමින් පවතී.
+
+මේ සඳහා විසඳුම් ලබාදීමේ අරමුණින් මෙරට බස් නැවතුම්පොළ 50ක් නවීකරණය කිරීමේ ව්‍යාපෘතියක් ඇරඹීමට රජය පියවර ගෙන තිබේ.
+
+ඒ් යටතේ පිටකොටුව මධ්‍යම බස් නැවතුම් පොළ නවීකරණය කිරීමේ ව්‍යාපෘතිය එළැඹෙන 15 වැනිදා ආරම්භ වීමට නියමිතය.
+
+නව ව්‍යාපෘතිය යටතේ බස් නැවතුම්පොළට නව විවේකාගාර, තොරතුරු සන්නිවේදන ස්ථාන, ආරක්ෂක පද්ධති ඇතුළු අංග රැසක් ස්ථාපිත කිරීමට නියමිතය.
+
+ප්‍රතිසංස්කරණ සඳහා සූදානම් වීමට මේ වන විට බස් නැවතුම් පොළෙහි බස් රථ මෙහෙයුම් නතර කර තිබේ.
+
+එමෙන්ම බස් නැවතුම්පොළ නවීකරණය කිරීමට අදාළව බස් නැවතුම්පොළ පරිශ්‍රයේ පිහිටි වෙළෙඳසැල් ද එම ස්ථානයෙන් ඉවත් කර ඇත.
+
+◼️
+
+[Data](articles/95d3c42d.json)
+
+---
 
 ### திடீரென பற்றி எரிந்த முச்சக்கரவண்டி
 
@@ -69,6 +99,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9d0806e1.json)
+
+---
+
+### Army deserter who shot dead 4 persons last month arrested by STF
+
+*2025-09-13 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112462/army-deserter-who-shot-dead-4-persons-last-month-arrested-by-stf) · `en`
+
+A former army soldier suspected of being involved in four murders, including the shooting death of a former prison officer in Bandaragama and the recent killing of two youths in Borella, has been arrested by the Police Special Task Force (STF).
+
+Police stated that they have received information that the suspect was involved in the shooting and killing of four individuals within the month of August alone.
+
+The Joint Special Operations Unit of the STF camp in Sri Jayawardenapura had received information that the shooter in the murder of two youths in the Sirisara Uyana area of Borella on August 07 was hiding in the Siyambalanduwa area in Ampara.
+
+Accordingly, the suspect in question was arrested in that area yesterday (12).
+
+Further investigations into the suspect have revealed that he was also the shooter in the murder of former prison officer Lalith Kodagoda near the Thunodhiya Bridge in Bandaragama on August 21.
+
+...
+
+[Data](articles/a07c5c19.json)
 
 ---
 
@@ -148,19 +198,21 @@ Investigations have also been found in the possession of the Ice narcotics at th
 
 ---
 
-### රත්කිඳ ජලාශයේ වාන් දොරටු තුනක් විවෘත කරයි
+### Opens three sluice gates of hedkinsanda reservoir
 
 *2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
 
-උල්හිටිය රත්කිද ජලාශයේ වාන් ගේට්ටු තුනක් අද (13) පස්වරුවේ විවෘත කල බව මාපාකඩ කාර්යභාර ඉංජිනේරු තිස්ස රාජරත්න මහතා පවසයි .
+Tissa Rajaratne says that three sluice gates of Ulhitiyawa Rathcher has been opened today (13).
 
-උල්හිටිය රත්කිද ජලාශයේ එක් වාන් ගේට්ටුවක් 0.3 මීටර් බැගින් ද, අනෙක් වාන් ගේට්ටු දෙක 0.2 මීටර් බැගින් ද විවෘත කර තිබෙන බවත් හෙතෙම කීය . මේනිසාවෙන් ජනතාවට අවධානයෙන් සිටින ලෙසට දැනුම් දෙයි .
+Ulhupitiya Rathchery has been opened at 0.3 meters of one spanner in the reservoir, which has also been opened at 0.3 meters of the two sluice gates.. Therefore, the people informed the people to be vigilant.
 
-2025 යල කන්නයට මහවැලි සී කලාපය සදහා අවශ්‍ය වාරි ජලය නිකුත් කිරිම අවසන් වී ඇති බවත් ජලාශයේ අත්‍යාවශ්‍ය හදිසි නඩත්තු කටයුත්තක් සදානා ජලමට්ටම අඩු කර ගැනීම නිසාවෙන් මෙසේ වාන් ගේට්ටු විවෘත කල බව ත්, මින් ගිරාදුරුකෝට්ට රත්කිද මාර්ගයයේ  කෝසුව භාවිතා කිරිමට බාධාවක් නොවන බවද එහි කාර්යභාර නිළධාරි දීප්ත ජයසේකර මහතා සදහන් කලේය .
+The Irrigation Water for the Mahaweli Cg Zone has been completed by the reservoir of the reservoir, he said that the reservoir is not due to the reduction of the essential environmental maintenance of the reservoir.
 
 ◼️
 
 [Data](articles/16756fa8.json)
+
+[Extended Data](ext_articles/16756fa8.ext.json)
 
 ---
 
@@ -2075,43 +2127,5 @@ Similarly, the Batticaloa District Secretariat was investigated by the Office of
 [Data](articles/807bab8f.json)
 
 [Extended Data](ext_articles/807bab8f.ext.json)
-
----
-
-### Meeting Indian High Commissioner and Relo
-
-*2025-09-13 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/224955) · `ta`
-
-The meeting took place at the Indian High Commission in Colombo at 2.00 pm on Thursday (11).
-
-Vanni District Parliamentarian and Relo's leader Selvam Adakkalanathan and the party's financial secretary and speaker Kuruswamy Surendran were also present.
-
-At the 60th session of the UN Human Rights, which begins on September 8, the Relo leader said he would welcome India's firm stance that the Sri Lankan government urged the Sri Lankan government to carry out meaning, justice, dignity and reconciliation.
-
-It was also informed the High Commissioner that India's urging the provincial council election should be held in a way that would be fully implemented in the politics.
-
-He also thanked India for the long -term health needs of the people of the area by providing 600 million rupees to the development of the Mannar Hospital.
-
-...
-
-[Data](articles/6ee8ebe4.json)
-
-[Extended Data](ext_articles/6ee8ebe4.ext.json)
-
----
-
-### Various impacts due to extraordinary climate in Jaffna
-
-*2025-09-13 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/224954) · `ta`
-
-Deputy Director of the Jaffna District Disaster Management Division, RN Suriyarajah, said that the unusual weather conditions in Jaffna have been affected on Thursday 11th.
-
-In the Navakiri area, a motor room, motor and electric connection in the garden of Thanaya Bhubaneswaran have been completely damaged.
-
-◼️
-
-[Data](articles/423eb149.json)
-
-[Extended Data](ext_articles/423eb149.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 21:55:42**
+As of **2025-09-13 22:19:56**
 
 ## Newspaper Stats
 
-*Scraped **75,776** Articles*
+*Scraped **75,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,110 @@ islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,358
-adaderanalk | 9,736
+adaderanalk | 9,738
 tamilmirrorlk | 11,323
 virakesarilk | 12,351
-adaderanasinhalalk | 13,217
+adaderanasinhalalk | 13,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,113 (92.5%) of 75,776 articles have been extended.
+70,135 (92.6%) of 75,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### රුපියල් මිලියන 85ක් වටිනා කුෂ් මත්ද්‍රව්‍ය සමග ඉන්දීය ජාතිකයෙකු අත්අඩංගුවට
+### ශ්‍රී ලංකාවට ලකුණු 140ක ඉලක්කයක්
+
+*2025-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214538) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (13) පැවැත්වෙන තරගයේ දී පළමුව පන්දුවට පහර දුන් බංග්ලාදේශ කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 139ක් රැස් කර ගැනීමට සමත් විය.
+
+තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායමේ නායක චරිත් අසලංක පළමුව පන්දුවට පහර දීම සඳහා බංග්ලාදේශ කණ්ඩායමට ආරාධනා කළේය.
+
+එහිදී බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් Shamim Hossain ලකුණු 42ක් රැස් කළ අතර Jaker Ali ලකුණු 41ක් හා Litton Das ලකුණු 28ක් රැස් කිරීමට සමත් විය.
+
+කණ්ඩායමේ අනෙක් කිසිඳු ක්‍රීඩකයෙක් ලකුණු 10 සීමාවවත් ඉක්මවා යාමට සමත් වූයේ නැත.
+
+පන්දු යැවීමේ දී ශ්‍රී ලංකාව වෙනුවෙන් වනිඳු හසරංග කඩුලු 2ක් දවා ගත් අතර නුවන් තුෂාර සහ දුෂ්මන්ත චමීර එක් කඩුල්ල බැගින් දවා ගැනීමට සමත් විය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 140ක ඉලක්කයක් හඹා යාමට නියමිතය.
+
+◼️
+
+[Data](articles/c558a898.json)
+
+---
+
+### Indian national arrested with rash drugs worth Rs. 85 million
 
 *2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
 
-රුපියල් මිලියන 85ක් වටිනා කුෂ් කිලෝග්‍රෑම් 8.542ක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ  ඉන්දියානු ජාතිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
+An Indian national has been arrested by an Indian national who tried to carry 8.542 kilograms of crusts worth Rs. 85 million.
 
-සැකකරු බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් විසින් කටුනායකදී අත්අඩංගුවට ගෙන ඇත.
+The suspect was arrested by the officials of the Narcotics Bureau at Bandaranaike International Airport.
 
 ◼️
 
 [Data](articles/46260ef7.json)
 
+[Extended Data](ext_articles/46260ef7.ext.json)
+
 ---
 
-### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
+### Indian arrested with Kush worth Rs. 85 million at BIA
+
+*2025-09-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112464/indian-arrested-with-kush-worth-rs-85-million-at-bia) · `en`
+
+An Indian national has been arrested by officers of the Police Narcotics Bureau (PNB) at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a large consignment of Kush cannabis.
+
+The 33-year-old suspect, who had arrived from Thailand and was bound for India, was found in possession of 8.542 kilograms of Kush cannabis, with an estimated street value of Rs. 85 million, police said.
+
+◼️
+
+[Data](articles/8b36ef7d.json)
+
+[Extended Data](ext_articles/8b36ef7d.ext.json)
+
+---
+
+### Belihur Oya fire in Nanpathal Estate Reserve
 
 *2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
 
-ගින්න මේ වන විටත් රක්ෂිතය පුරා පැතිර යමින් පවතින බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+The fire is already spreading throughout the reserve.
 
-ප්‍රදේශය පුරා පවතින වියළි කාලගුණය සහ තද සුළං හේතුවෙන් රක්ෂිතය පුරා ගින්න පැතිර යමින් පවතින බවද වාර්තා වේ.
+It is reported that the fire is spreading in the forest due to dry weather and strong winds.
 
 ◼️
 
 [Data](articles/4d52bcfe.json)
+
+[Extended Data](ext_articles/4d52bcfe.ext.json)
+
+---
+
+### Trump says he’s ready to put ‘major sanctions’ on Russia if NATO nations do the same
+
+*2025-09-13 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112463/trump-says-hes-ready-to-put-major-sanctions-on-russia-if-nato-nations-do-the-same) · `en`
+
+US President Donald Trump said Saturday he is “ready to do major Sanctions on Russia” once all NATO countries have started “to do the same thing” and pause their purchases of oil from Moscow.
+
+He also urged NATO countries to impose “50% to 100% TARIFFS ON CHINA,” which he said should be withdrawn after the Russia-Ukraine war has concluded.
+
+“China has a strong control, and even grip, over Russia, and these powerful Tariffs will break that grip,” Trump wrote in a Truth Social post, which he said was the text of a letter sent to all NATO nations and “the world.”
+
+Trump has repeatedly threatened to impose sanctions on Russia over its invasion of Ukraine, but has so far held off from doing so.
+
+Earlier this month, the president said he was prepared to move towards a second phase of sanctioning Russia, but has not yet imposed the levies.
+
+...
+
+[Data](articles/ee045e10.json)
+
+[Extended Data](ext_articles/ee045e10.ext.json)
 
 ---
 
@@ -2061,69 +2125,5 @@ Jaffna on this death. Teaching Hospital Sudden Death Investigation Officer Arumu
 [Data](articles/19301153.json)
 
 [Extended Data](ext_articles/19301153.ext.json)
-
----
-
-### Flooding in Japan's Tokyo
-
-*2025-09-13 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/224959) · `ta`
-
-Many areas have been affected by flooding due to heavy rains in Tokyo, the capital of Japan. Strong winds with continuous rain have severely affected the daily lives of the people.
-
-Foreign media reports that one person died and another was severely injured when the containers stacked in the port collapsed due to strong winds.
-
-Also, transport services have been disrupted by rain. Travelers have been in trouble as many train services have been suspended in the domestic and suburbs of Tokyo. According to reports, about one million people have been directly affected.
-
-In this case, the Japanese Meteorological Department has issued a warning and announced that there is a risk of more than 100 millimeters of rain in some parts of Tokyo over the next few days.. Officials have urged the public to avoid unnecessary transfers and to adopt security precautions.
-
-However, reports say that rescue and relief measures have been challenged in the affected areas due to the continuous rains.
-
-◼️
-
-[Data](articles/e3f71292.json)
-
-[Extended Data](ext_articles/e3f71292.ext.json)
-
----
-
-### Nepal's first female prime minister
-
-*2025-09-13 04:18:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தின்-முதல்-பெண்-பிரதமர்-பதவியேற்றார்/50-364488) · `ta`
-
-Former Chief Justice of the country Susila Karki was elected as the interim prime minister of Nepal. With this she is the first woman Prime Minister of Nepal.
-
-In Nepal, the Communist Government, led by Prime Minister KP Sharma Sound (age 73), collapsed by the Jen See youth. This has caused political confusion in the country. A series of consultations were made on whom to choose the country's interim prime minister. Nepal Army Commander Ashok Sikdel made consultations on this.
-
-In this, the protesters unanimously supported Nepal's former Chief Justice Susila Karki as the interim prime minister of Nepal.
-
-Susiela Karki was sworn in as the interim prime minister last night (12). Nepal President Ram Chandra Pavudan was sworn in.
-
-Karki held his first cabinet meeting after taking office. The meeting was decided to hold a new general election on March 4 next year.
-
-...
-
-[Data](articles/9f979fbf.json)
-
-[Extended Data](ext_articles/9f979fbf.ext.json)
-
----
-
-### Awareness Alert for State Executive Officers on the use of artificial intelligence
-
-*2025-09-13 04:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/224960) · `ta`
-
-Another workshop organized by the State Executive Officers was held at the Alari House on Friday (12) to address the use of artificial intelligence to transform public service into a effective and effective service.
-
-Under the topic of the AI ​​for Transforming Public Service, the Secretary to the Ministry of Government Ministries participated in the workshop organized by the Digital Economic Ministry in cooperation with the Presidential Secretariat.
-
-The workshop has been organized with the aim of enacting and preparing state officials and making a favorable attitude towards artificial intelligence within the public service as an initial entry of the government's plan to digitize public service.
-
-President of the President, Dr. Nandika Sanath Kumanayake, said that the public service should be prepared for digital exchange and that the existing public service should be switched.
-
-...
-
-[Data](articles/43c37c9e.json)
-
-[Extended Data](ext_articles/43c37c9e.ext.json)
 
 ---

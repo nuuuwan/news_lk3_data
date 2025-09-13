@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 18:55:30**
+As of **2025-09-13 19:20:14**
 
 ## Newspaper Stats
 
-*Scraped **75,763** Articles*
+*Scraped **75,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,593
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,356
+adalk | 7,357
 adaderanalk | 9,735
 tamilmirrorlk | 11,319
 virakesarilk | 12,350
@@ -26,27 +26,29 @@ adaderanasinhalalk | 13,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,941 (92.3%) of 75,763 articles have been extended.
+69,983 (92.4%) of 75,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### මහ කන්නයේ සියලුම බඩඉරිඟු ගොවීන් ලියාපදිංචිය ඇරඹෙයි
+### All maize farmers in the Maha season begin registration
 
 *2025-09-13 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214532) · `si`
 
-2025/26 මහ කන්නයේදී ශ්‍රී ලංකාවේ බඩ ඉරිඟු වගා කරන ගොවීන් හට ලියාපදිංචි වීම සඳහා මේ වන විට පහසුකම් සලසා දී ඇතැයි ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
+The farmers who cultivate maize cultivated in the Maha season have been facilitated to register the farmers in Sri Lanka.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ ඒ සඳහා www.agrarian.lk www.agrariandept.gov.lk වෙබ් අඩවි තුළ අදාළ පහසුකම් සලසා දී ඇති බවය.
+In a statement, the Department said that the department stated that the facilities have been provided on the web site www.agrariandep.gov.lk
 
-මෙම පද්ධතිය තුළ බඩඉරිඟු වගා කරන සියලුම ගොවීන් ලියාපදිංචි විය යුතු බව පෙන්වා දෙන එම දෙපාර්තමේන්තුව පැවසුවේ අදාළ සියලු ගොවීන් දැනුවත් කිරීම සඳහා අවශ්‍ය කටයුතු මෙන්ම ලියාපදිංචි වීම සම්බන්ධයෙන් වූ උපදෙස් ද මේ වන විට නිකුත් කර ඇති බවය.
+The Department said that all the farmers of maize should be registered in this system say that the necessary procedures and registration have been issued to educate all the farmers.
 
-මහ කන්නයේ සියලුම බඩඉරිඟු ගොවීන් ලියාපදිංචිය ඇරඹෙයි  by  poornima
+All maize farmers in the Maha season begin to register by poornima
 
 ◼️
 
 [Data](articles/d2c744a1.json)
+
+[Extended Data](ext_articles/d2c744a1.ext.json)
 
 ---
 
@@ -431,6 +433,28 @@ Curfew was imposed to control it. However, during the protests, 51 people were k
 [Data](articles/8c6d75a9.json)
 
 [Extended Data](ext_articles/8c6d75a9.ext.json)
+
+---
+
+### The construction industry should be made in the field
+
+*2025-09-13 14:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-විධිමත්භාවයක්-ඇති-කළ-යුතුයි/11-418475) · `si`
+
+The presidential discussion of the respective budget proposals between the President, Anura Kumara Dissanayake and the construction industry associated with the construction industry was held in the presidential election.
+
+The discussion was held aimed at enhancing the contribution to the economy by exporting the construction work and the export of electric cables.
+
+He stressed that the proposal was aimed at creating the economic environment where the construction industry would grow outside the construction industry.
+
+The government was focused on how the government could resolve the problems and problems in the construction industry and the government was informed by the heads of the field.
+
+Senior Additional Secretary to the Presidential Additional Secretary, Russell Arotess, Chairman of the Ministry of Finance, Senior Officials of the Ministry of Finance, Heads of Construction Sector and Electric Cable Products
+
+◼️
+
+[Data](articles/f184c2bc.json)
+
+[Extended Data](ext_articles/f184c2bc.ext.json)
 
 ---
 
@@ -2077,25 +2101,5 @@ Expo Lanka Freight Ltd., (EFL) Project Division, has been the logistics partner 
 [Data](articles/f53b38a3.json)
 
 [Extended Data](ext_articles/f53b38a3.ext.json)
-
----
-
-### Sri Lanka hosts “Ceylon Tea – Finest Evening” to promote trade, tourism, and Ceylon Tea in Thailand
-
-*2025-09-13 00:25:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-Ceylon-Tea-Finest-Evening-to-promote-trade-tourism-and-Ceylon-Tea-in-Thailand/34-781620) · `en`
-
-The Embassy of Sri Lanka in Bangkok concluded a key trade and tourism promotional event titled “Ceylon Tea – Finest Evening” held on 1 September, at Hyatt Regency Hotel, Bangkok.
-
-This flagship initiative was organised with the objective of promoting Sri Lankan tea brand –Ceylon Tea, while also fostering stronger ties in trade and tourism between Sri Lanka and Thailand.
-
-The event brought together distinguished guests from different sectors including, leading Thai tea importers and retailers, representatives from prominent hotel chains and shopping malls, senior officials from the Foreign Affairs Ministry and other Thai Government institutions, Ambassadors and members of diplomatic corps, and members of media.
-
-The evening was graced by former Foreign Affairs Vice Minister Dr. Lalivan Karnchanachari who attended as the Chief Guest.
-
-...
-
-[Data](articles/662293f4.json)
-
-[Extended Data](ext_articles/662293f4.ext.json)
 
 ---

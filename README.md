@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 12:53:25**
+As of **2025-09-13 12:10:09**
 
 ## Newspaper Stats
 
-*Scraped **75,719** Articles*
+*Scraped **75,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,35 @@ economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,352
+adalk | 7,351
 adaderanalk | 9,729
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,196
+adaderanasinhalalk | 13,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,624 (92.0%) of 75,719 articles have been extended.
+69,577 (91.9%) of 75,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### Sri Lanka participated in the Asian Cup today
-
-*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
-
-Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
-
-The match will be played at Abuadabii at 8:00 pm as a match of B.
-
-Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
-
-The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
-
-Sri Lanka won both matches previously.
-
-This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
-
-◼️
-
-[Data](articles/ce1740f4.json)
-
-[Extended Data](ext_articles/ce1740f4.ext.json)
-
----
-
-### Lord
+### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
 
 *2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
 
-Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
+வெலிகம பிரதேச சபையின் தவிசாளர் லசந்த விக்ரமசேகரவுக்கு எதிராக மாத்தறை பிரதான நீதவான் நீதிமன்றம் பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
 
-The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
+தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தாரக நாணயக்காரவுக்கு கொலை மிரட்டல் விடுத்த குற்றச்சாட்டைத் தொடர்ந்து, அவருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
 
-When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
+இந்த வழக்கு மாத்தறை பிரதான நீதவான் சத்துர திசாநாயக்க முன்னிலையில் நேற்று  (12) விசாரணைக்கு வந்த போது, லசந்த விக்ரமசேகர நீதிமன்றில் ஆஜராகாமல் இருந்துள்ளார்.
 
 ◼️
 
 [Data](articles/18a6ffad.json)
-
-[Extended Data](ext_articles/18a6ffad.ext.json)
 
 ---
 
@@ -497,20 +471,6 @@ Therefore, if gaming games have a renewed effect on the gambling regulatory supe
 [Data](articles/0a8a5979.json)
 
 [Extended Data](ext_articles/0a8a5979.ext.json)
-
----
-
-### ශ්‍රේෂ්ඨාධිකරණ නඩු කළමණාකරණ පද්ධතිය දියත් කරයි
-
-*2025-09-13 08:04:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-නඩු-කළමණාකරණ-පද්ධතිය-දියත්-කරයි/11-418470) · `si`
-
-අධිකරණ සේවාවවල කාර්යක්ෂමතාවය ඉහළ නංවා මහජනතාවට ඵලදායී අධිකරණ සේවාවක් ලබාදීමේ අරමුණින් ක්‍රියාත්මක අධිකරණ පද්ධතිය ඩිජිටල්කරණ කටයුතු වේගවත් කිරීමේ වැඩසටහනෙහි පළමු පියවර ලෙස ශ්‍රේෂ්ඨාධිකරණය ඩිජිටල්කරණය කිරීමේ කටයුතු ආරම්භ කරමින් අධිකරණ e court ව්‍යාපෘතියෙහි පළමු අදියර වශයෙන් ශ්‍රේෂ්ඨාධිකරණ නඩු කළමණාකරණ පද්ධතිය දියත් කිරීම සහ නවීකරණය කරන ලද ශ්‍රේෂ්ඨාධිකරණ වෙබ් අඩවිය විවෘත කිරීම අග්‍රවිනිශ්චයකාර ප්‍රිති පද්මන් සුරසේන මහතාගේ ප්‍රධානත්වයෙන් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතාගේ සහභාගිත්වයෙන්  කොළඹ 12, අධිකරණ මාවත, අංක 80, විනිසුරු පුහුණු ආයතන පරිශ්‍රයේදී පැවැත්විණි.
-
-ශ්‍රේෂ්ඨාධිකරණ නඩු කළමණාකරණ පද්ධතිය දියත් කිරීම සහ නවීකරණය කරන ලද ශ්‍රේෂ්ඨාධිකරණ වෙබ් අඩවිය විවෘත කිරීම අග්‍රවිනිශ්චයකාර ප්‍රිති පද්මන් සුරසේන, අධිකරණ සේවා කොමිෂන් සභාවේ සාමාජික ශ්‍රේෂ්ඨාධිකරණ විනිසුරු, මහින්ද සමයවර්ධන සහ ශ්‍රේෂ්ඨාධිකරණ විනිසුරු එස්.තුරෙයිරාජා  මහත්වරුන් අතින් සිදු විය.
-
-...
-
-[Data](articles/381e5923.json)
 
 ---
 
@@ -2031,5 +1991,55 @@ The publication was a video of the employees and handle the handcuffing and hand
 [Data](articles/8d53143b.json)
 
 [Extended Data](ext_articles/8d53143b.ext.json)
+
+---
+
+### Limitation of traffic to Maharagama
+
+*2025-09-12 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214491) · `si`
+
+Motor traffic has been restricted due to the Esala Perahera of the Esala Perahera of the Puwakpitiya Opposition in Maharagama.
+
+Accordingly, the traffic will be restricted at 7.30 pm to 3 am from 7.30 pm.
+
+The Perahera commenced at the Opposition and Southway along the Maharagama road near the Maharagama Road, Maharagama road along the Maharagama Road, Maharagama Road.
+
+As a result, the police are informed to use the following alternative routes.
+
+The motor vehicle traveling traffic from Dehiwala, Piliyandala, Boralesgamuwa can travel along the presidential footage of the President Junction.
+
+Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Wattegedara junction on the old road.
+
+* Vehicles traveling along the High Level Road in Boralesgamuwa can be route through Wattalanda.
+
+* From Piliyandala to Colombo District, the vehicles traveling in the Colombo district can be route along the right road near the sojouals.
+
+◼️
+
+[Data](articles/186f6675.json)
+
+[Extended Data](ext_articles/186f6675.ext.json)
+
+---
+
+### State Revenue Nearly 15 percent of GDP
+
+*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
+
+The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
+
+According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
+
+He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
+
+Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
+
+He pointed out that state spending management is focused on an optimum level but the cost of Rs.
+
+...
+
+[Data](articles/2ca1581d.json)
+
+[Extended Data](ext_articles/2ca1581d.ext.json)
 
 ---

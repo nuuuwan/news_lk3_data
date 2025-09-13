@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 11:06:10**
+As of **2025-09-13 10:54:45**
 
 ## Newspaper Stats
 
-*Scraped **75,707** Articles*
+*Scraped **75,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,17 @@ adalk | 7,350
 adaderanalk | 9,727
 tamilmirrorlk | 11,313
 virakesarilk | 12,339
-adaderanasinhalalk | 13,193
+adaderanasinhalalk | 13,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,513 (91.8%) of 75,707 articles have been extended.
+69,513 (91.8%) of 75,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
-
-### වැලිගම ප්‍රාදේශීය සභාවේ සභාපති අත්අඩංගුවට ගැනීමට වරෙන්තු
-
-*2025-09-13 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214512) · `si`
-
-වැලිගම ප්‍රාදේශීය සභාවේ සභාපති ලසන්ත වික්‍රමසේකර මහතා අත්අඩංගුවට ගැනීම සඳහා මාතර ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කර ඇත.
-
-අදාළ නඩුව මාතර ප්‍රධාන මහෙස්ත්‍රාත් චතුර දිසානායක මහතා ඉදිරියේ ඊයේ (12) කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබා දී තිබේ.
-
-ජාතික ජන බලවේගයේ ප්‍රදේශීය සභා මන්ත්‍රී නීතිඥ තාරක නානායක්කාර මහතාට මරණ තර්ජනය කල බව කියන නඩුවකට පෙනී නොසිටීම හේතුවෙන් මෙම නියෝගය නිකුත් කර ඇත.
-
-පසුගිය පළාත් පාලන මැතිවරණ සමයෙහි වැලිගම ප්‍රාදේශීය සභාවට ජාතික ජන බලවේගයෙන් තරග වැදුණු නීතිඥ තාරක නානායක්කාර මහතාට තර්ජනය කිරීමේ චෝදනා මත වින්දිතයන් සුරැකීමේ පනත යටතේ ඔහුට මෙලෙස නඩු පවරා තිබේ.
-
-එම නඩුව මාතර මහෙස්ත්‍රාත් අධිකරණයේදී කැඳවූ අවස්ථාවේදී විත්තිකාර වැලිගම ප්‍රාදේශීය සභාවේ සභාපති ලසන්ත වික්‍රමසේකර මහතා ඊට පෙනී නොසිටි අතර, ඔහු වෙනුවෙන් නීතිඥවරයෙකු අධිකරණයේ පෙනී සිටිමින් ඔහු රෝගාතුර බව දන්වා ඇත.
-
-එහෙත් ඔහුගේ ඇපකරුවන් ද අධිකරණය හමුවේ පෙනී නොසිටීම හේතුවෙන් මෙම වරෙන්තුව නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/ecdd725d.json)
-
----
 
 ### Former chairman of the Wattegama Urban Council and his close friend arrested
 
@@ -2021,5 +1999,31 @@ Addressing the Committee, he said that the new president was planning to work in
 [Data](articles/f17526bb.json)
 
 [Extended Data](ext_articles/f17526bb.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields flat
+
+*2025-09-12 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-flat-240398/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/95 to the US dollar on Friday, stronger from 301.85/95 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2028 closed at 9.05/15 percent, up from 9.05/14 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.50/55 percent.
+
+A bond maturing on 01.07.2030 closed at 9.70/80 percent, up form 9.70/76 percent.
+
+A bond maturing on 01.10.2032 closed at 10.40/46 percent. (Colombo/Sep12/2025)
+
+◼️
+
+[Data](articles/2709b8a8.json)
+
+[Extended Data](ext_articles/2709b8a8.ext.json)
 
 ---

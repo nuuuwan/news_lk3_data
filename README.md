@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 23:19:58**
+As of **2025-09-13 22:52:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,174 (92.6%) of 75,780 articles have been extended.
+70,152 (92.6%) of 75,780 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -542,7 +542,7 @@ The Deputy Minister’s statement comes in the wake of Israel’s deadly strike 
 
 ---
 
-### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
+### Sri Lanka, Philippines hold 3rd political consultations, eye closer ties in trade, labour, fisheries
 
 *2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-hold-3rd-political-consultations-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
 

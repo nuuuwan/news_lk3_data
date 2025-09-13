@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-13 12:10:09**
+As of **2025-09-13 13:05:42**
 
 ## Newspaper Stats
 
-*Scraped **75,717** Articles*
+*Scraped **75,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,85 @@ economynextcom | 4,591
 islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,351
+adalk | 7,352
 adaderanalk | 9,729
 tamilmirrorlk | 11,314
 virakesarilk | 12,341
-adaderanasinhalalk | 13,195
+adaderanasinhalalk | 13,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-69,577 (91.9%) of 75,717 articles have been extended.
+69,629 (92.0%) of 75,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-13 (Saturday)
 
-### லசந்த விக்ரமசேகரவுக்கு பிடியாணை
+### කෙහෙළියගේ පුත් රමිත් මාස 21කට කෝටි 27ක වත්කම් උපයලා
+
+*2025-09-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214517) · `si`
+
+හිටපු අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතාගේ පුත් රමිත් රඹුක්වැල්ලට එරෙහිව අල්ලස් කොමිසම විසින් කොළඹ මහාධිකරණය හමුවේ ඊයේ (12) අධිචෝදනා ගොනු කළේය.
+
+කෙහෙළිය රඹුක්වැල්ල මහතා සෞඛ්‍ය අමාත්‍යවරයා වශයෙන් කටයුතු කළ මාස 21ක කාලයක් තුළ සමයේ රමිත් රඹුක්වැල්ල රුපියල් කෝටි 27කට අධික වටිනාකමකින් යුත් වත්කම් උපයාගෙන ඇතත්, උපයාගත් ආකාරය හෙළිදරව් කිරීමට අපොහොසත් වීම සම්බන්ධයෙන් අධිචෝදනා කර ඇත.
+
+එලෙස උපයාගත් ආකාරය අනාවරණ කිරීමට නොහැකි වත්කම් අතර සුඛෝපභෝගි නිවාස, ජීප් රථ ඇතුළු වත්කම් රැසක් පවතින බව වාර්තා වේ.
+
+කෙහෙළිය රඹුක්වැල්ල මහතා සෞඛ්‍ය අමාත්‍ය ධුරය දරන සමයේදී රමිත් ඔහුගේ පෞද්ගලික ලේකම්වරයා වශයෙන් ද කටයුතු කර තිබුණි.
+
+එම ධුරයේ කටයුතු කරන අතරතුර 2022 වසරේ ජනවාරි මස 01 වනදා සහ 2023 වසරේ නොවැම්බර් මස 14 වනදා අතර දක්වා මාස 21ක කාලසීමාව තුළ ඔහු රුපියල් 296,566, 444.76 ක් වටිනා වත්කම් හා දේපොළ උපයාගෙන ඇත.
+
+ඉන් රුපියල් 275,302,616.06ක වටිනාකමකින් යුත් මුදල් හා දේපළ උපයාගත් ආකාරය හෙළිදරව් කිරීමට රමිත් රඹුක්වැල්ල අපොහොසත් වී තිබේ.
+
+අල්ලස් කොමිසම දූෂණ විරෝධී පනත යටතේ අධිචෝදනා ගොනු කර ඇත්තේ ඒ අනුවය.
+
+...
+
+[Data](articles/36ca14eb.json)
+
+---
+
+### Sri Lanka participated in the Asian Cup today
+
+*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
+
+Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
+
+The match will be played at Abuadabii at 8:00 pm as a match of B.
+
+Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
+
+The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
+
+Sri Lanka won both matches previously.
+
+This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
+
+◼️
+
+[Data](articles/ce1740f4.json)
+
+[Extended Data](ext_articles/ce1740f4.ext.json)
+
+---
+
+### Lord
 
 *2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
 
-வெலிகம பிரதேச சபையின் தவிசாளர் லசந்த விக்ரமசேகரவுக்கு எதிராக மாத்தறை பிரதான நீதவான் நீதிமன்றம் பிடியாணை உத்தரவு பிறப்பித்துள்ளது.
+Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
 
-தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தாரக நாணயக்காரவுக்கு கொலை மிரட்டல் விடுத்த குற்றச்சாட்டைத் தொடர்ந்து, அவருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
 
-இந்த வழக்கு மாத்தறை பிரதான நீதவான் சத்துர திசாநாயக்க முன்னிலையில் நேற்று  (12) விசாரணைக்கு வந்த போது, லசந்த விக்ரமசேகர நீதிமன்றில் ஆஜராகாமல் இருந்துள்ளார்.
+When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
 
 ◼️
 
 [Data](articles/18a6ffad.json)
+
+[Extended Data](ext_articles/18a6ffad.ext.json)
 
 ---
 
@@ -471,6 +521,26 @@ Therefore, if gaming games have a renewed effect on the gambling regulatory supe
 [Data](articles/0a8a5979.json)
 
 [Extended Data](ext_articles/0a8a5979.ext.json)
+
+---
+
+### The Supreme Court launches system
+
+*2025-09-13 08:04:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-නඩු-කළමණාකරණ-පද්ධතිය-දියත්-කරයි/11-418470) · `si`
+
+Attorney-at-Law, Minister of Justice and National Integration to operate the Supreme Court Supreme Court Survey is the first step in the Supreme Court Proposal to operate the Supreme Court Supreme Court Supreme Court in the first stage of the Supreme Court. Harshana Nanayakkara was held at the participation of Colombo 12, Colombo 12, October, 80, Judge Training Institute.
+
+The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
+
+The Digital Program aims to reduce the corruption irregularities of the judicial subsistence and promote services to the judiciary and the efficient services to the lawyers.
+
+As a first step, the Supreme Court is to digitize the Supreme Court, the Court of Appeal, High Court and District Magistrate Judicial and other jurisdictions.
+
+...
+
+[Data](articles/381e5923.json)
+
+[Extended Data](ext_articles/381e5923.ext.json)
 
 ---
 
@@ -1961,85 +2031,5 @@ Accordingly, the Committee decided to inform the Minister of Finance, who is als
 [Data](articles/7954abd9.json)
 
 [Extended Data](ext_articles/7954abd9.ext.json)
-
----
-
-### The United States -. Red light for Korean investments?
-
-*2025-09-12 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214492) · `si`
-
-One of the main objectives of Donald Trump's duty war of Donald Trump is the increase in the production process in the US.
-
-The Trump administration is forced to manufacture foreign companies to manufacture locations from the US to be manufactured and exported to the United States to computer chips in America.
-
-However, the manufacturers of the United States are recently proffered from the United States, due to President's intense migration policy.
-
-One such problem is to take steps to raid the immigrants who worked in these huge factories.
-
-One such thing as a result of such a serious problem is the South Korean Yundai Motors and LG Battery Production in Georgia.
-
-At least 450 foreigners were arrested in a raid carried out last week in this massive manufacturing plant.
-
-The specialty is the South Korean who served at the factory.
-
-The publication was a video of the employees and handle the handcuffing and handcuffing.
-
-ඔවුන් මුදාගැනීම සඳහා දකුණු කොරියානු ජනාධිපති ලී ජේ  මියුංටත් මැදිහත්වීමට සිදුවුණි.
-
-...
-
-[Data](articles/8d53143b.json)
-
-[Extended Data](ext_articles/8d53143b.ext.json)
-
----
-
-### Limitation of traffic to Maharagama
-
-*2025-09-12 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214491) · `si`
-
-Motor traffic has been restricted due to the Esala Perahera of the Esala Perahera of the Puwakpitiya Opposition in Maharagama.
-
-Accordingly, the traffic will be restricted at 7.30 pm to 3 am from 7.30 pm.
-
-The Perahera commenced at the Opposition and Southway along the Maharagama road near the Maharagama Road, Maharagama road along the Maharagama Road, Maharagama Road.
-
-As a result, the police are informed to use the following alternative routes.
-
-The motor vehicle traveling traffic from Dehiwala, Piliyandala, Boralesgamuwa can travel along the presidential footage of the President Junction.
-
-Vehicles traveling to Kottawa, Boralesgamuwa, Dehiwala can travel along the Wattegedara junction on the old road.
-
-* Vehicles traveling along the High Level Road in Boralesgamuwa can be route through Wattalanda.
-
-* From Piliyandala to Colombo District, the vehicles traveling in the Colombo district can be route along the right road near the sojouals.
-
-◼️
-
-[Data](articles/186f6675.json)
-
-[Extended Data](ext_articles/186f6675.ext.json)
-
----
-
-### State Revenue Nearly 15 percent of GDP
-
-*2025-09-12 17:25:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආදායම-දළ-දේශීය-නිෂ්පාදිතයෙන්-සියයට-15කට-ආසන්නයට/11-418464) · `si`
-
-The Director of the Postgraduate Director of Humanities and Social Sciences, Prof. Wasantha Athukorala says Sri Lanka's revenue is reaching a percentage of GDP.
-
-According to the Sri Lankan economy, according to data, has been a stable situation in terms of the World Finance Activity of Sri Lanka.
-
-He said Sri Lanka's economy has become an optimum level by 2024 to the optimum level rather than economic status of 2022. The economy of the country has stabilized and that the World Bank has explained that the World Bank has made it clear in public income and expenses.
-
-Accordingly, 75% of indirect taxes, which is about 75% of state taxes, must be reduced to the long term direct tax.. He said he was vital to educate the public on payment of tax management and taxation to expand the lease, tax management and taxation first.
-
-He pointed out that state spending management is focused on an optimum level but the cost of Rs.
-
-...
-
-[Data](articles/2ca1581d.json)
-
-[Extended Data](ext_articles/2ca1581d.ext.json)
 
 ---

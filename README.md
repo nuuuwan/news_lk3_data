@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 13:56:20**
+As of **2025-09-14 14:54:31**
 
 ## Newspaper Stats
 
-*Scraped **75,871** Articles*
+*Scraped **75,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,115 @@ economynextcom | 4,596
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,365
-adaderanalk | 9,754
-tamilmirrorlk | 11,342
-virakesarilk | 12,365
-adaderanasinhalalk | 13,236
+adalk | 7,367
+adaderanalk | 9,757
+tamilmirrorlk | 11,344
+virakesarilk | 12,366
+adaderanasinhalalk | 13,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,880 (93.4%) of 75,871 articles have been extended.
+70,922 (93.5%) of 75,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### ’’நயன்தாரா வந்தால் கூட்டம் இரண்டு மடங்காக வரும்’’  விஜய்யை சீண்டிய சீமான்
+
+*2025-09-14 14:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நயன்தாரா-வந்தால்-கூட்டம்-இரண்டு-மடங்காக-வரும்-விஜய்யை-சீண்டிய-சீமான்/175-364551) · `ta`
+
+ரஜினி, அஜித் வந்திருந்தால் இதைவிடவும் கூட்டம் வரும். நயன்தாரா வந்தால் இதைவிட இரண்டு மடங்கு கூட்டம் வரும். நீங்கள் கூட்டத்தை பார்க்காதீர்கள்; கொள்கையை பாருங்கள் என விஜய்க்கு திரண்ட கூட்டம் குறித்து நாம் தமிழர் கட்சியின் தலைமை ஒருங்கிணைப்பாளர் சீமான் விமர்சித்துள்ளார்.
+
+கோவை விமான நிலையத்தில் செய்தியாளர்களை சந்தித்த சீமான், “விஜய் பரப்புரையை ஆரம்பித்துள்ளார், மக்கள் அதிகளவில் திரண்டுள்ளனர். திரையில் பார்த்த கலைஞர் தெருவுக்கு வருகிறார் என்பதால் விஜய்யை பார்க்க மக்கள் வந்துள்ளனர். நாங்கள் சின்ன பிள்ளைகளாக இருந்தபோது, எம்ஜிஆர், சிவாஜி வருகிறார் என மணிக்கணக்கில் காந்திருந்து நின்றிருக்கிறோம். நடிகர் வந்தால் கூட்டம் வரத்தான் செய்யும்.
+
+சகோதரர் அஜித் வந்திருந்தால் இதைவிடவும் கூட்டம் வரும், ரஜினி வந்திருந்தாலும் இதை தாண்டி கூட்டம் வரும். நயன்தாராவை இறக்கிவிட்டால், இதைவிட இரண்டு மடங்கு கூட்டம் வரும். நீங்கள் கூட்டத்தை பார்க்காதீர்கள்; கொள்கையை பாருங்கள், இல்லையென்றால் உருப்படாது.
+
+...
+
+[Data](articles/15fefe5c.json)
+
+---
+
+### ක්‍රිකට් ලොව වැඩිම අවධානයකට ලක්වෙන  පස මිතුරන්ගේ සටන අද
+
+*2025-09-14 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214557) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ වඩාත් අවදානය දිනා ගන්නා ඉන්දියාව සහ පාකිස්තානය අතර තරගය අද (14) පැවැත්වීමට නියමිතව තිබේ.
+
+ඩුබායි ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේදී පැවැත්වෙන තරගය මෙරට වේලාවෙන් රාත්‍රී 8.00ට පැවැත්වීමට නියමිතය.
+
+තරගාවලියේ ඒ කාණ්ඩයෙන් තරග වදින එම කණ්ඩායම් දෙකම මේ වන විට සහභාගී වූ පළමු තරගය ජයගැනීමට සමත්ව තිබේ.
+
+ඉන්දියාව සහ පාකිස්තානය අතර පවතින මතභේදාත්මක වාතාවරණය දෙරට අතර ක්‍රිකට් තරග සදහා ද බලපෑම් එල්ල කර ඇති අතර පසුගිය අප්‍රේල් මාසයේ සිදුවූ පෙහෙල්ගම් ත්‍රස්ත ප්‍රහාරය හේතුවෙන් මෙම තරගය ඉන්දියාව වර්ජනය කළ යුතු බවට ද ඇතැම් පාර්ශ්ව අදහස් පළ කර තිබුණි.
+
+එමෙන්ම ඉන්දීය ආම්ආද්මි පක්ෂය ප්‍රකාශ කර ඇත්තේ මෙම තරගාවලිය සඳහා ඉන්දීය කණ්ඩායම සහභාගී කරවීමෙන් ඉන්දීය මධ්‍යම රජය පෙහෙල්ගම් ප්‍රහාරයේ වින්දිතයින් නින්දාවට ලක්කර ඇති බවය.
+
+◼️
+
+[Data](articles/53b9cdb4.json)
+
+---
+
+### Former Eastern Provincial Council Member. Death
+
+*2025-09-14 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225057) · `ta`
+
+Former Eastern Provincial Council Member Ku. Nageswaran died, police said.
+
+Initial investigations revealed that a woman on a motorbike crashed into a bus from Muttur Sampur and attempted to cross the road through a pedestrian cross.. The incident is located today (14).
+
+It is also reported that K. Nageswaran (71 years old) from Muttur Sampur area died.
+
+◼️
+
+[Data](articles/9b3136b3.json)
+
+[Extended Data](ext_articles/9b3136b3.ext.json)
+
+---
+
+### පෞද්ගලික හා ලංගම බස් දෙක රෙස් යයි
+
+*2025-09-14 13:23:49* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-ලංගම-බස්-දෙක-රෙස්-යයි/11-418485) · `si`
+
+අධික වේගයෙන්  අන්තරාකාරි ලෙස බස් රථය ධාවනය කර අනතුරක් කිරීමට උත්සාහ කළ පෞද්ගලික බස් රථයේ රියදුරුට එරෙහිව පියවර ගන්නා ලෙස ජනතාව ඉල්ලා සිටී.
+
+බගවන්තලාව සිට හැටන් දක්වා ධාවනය වූ ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට අන්තරාකාරී ලෙස පෞද්ගලික බස් රථය උත්සාහ කළ බවට බස් රථයේ මගීහු චෝදනා කරති.
+
+නල්ලතන්නි සිට හැටන් දක්වා ගමන් කළ පෞද්ගලික බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට උත්සාහ කළ බවට බස් රථයේ මගීන් චෝදනා කරති.
+
+මෙම සිදුවීම 2025.09.14 වන ඉරිදා උදෑසන සිදු විය. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
+
+◼️
+
+[Data](articles/6f17a5a7.json)
+
+---
+
+### Gold biscuits trapped safety officer caught
+
+*2025-09-14 13:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-பிஸ்கட்டுகள்-கடத்திய-பாதுகாப்பு-அதிகாரி-சிக்கினார்/175-364550) · `ta`
+
+The Chief Security Officer of the Katunayake airport, who was trying to bring out the Katunayake airport, was arrested by the airport customs officials on Sunday morning (14).
+
+The 54 -year -old man is a resident of Negombo Kathawala area on suspicion. He is also the head of the Civil Aviation Services Services Organization.
+
+He was arrested by airport customs officers when he left the special departure window at the Katunayake airport on Sunday (14) at 06.50 am.
+
+Customs officials suspect that these gold biscuits weighing 5 kilograms of 941 grams, and that someone may have handed them over to the airport and that he may have been carrying out the abduction for a long time.
+
+Katunayake airport customs officials detained him and are conducting further investigations into the matter.
+
+◼️
+
+[Data](articles/fdd68e8e.json)
+
+[Extended Data](ext_articles/fdd68e8e.ext.json)
+
+---
 
 ### Meeting with Minister Vijitha and UN Human Rights
 
@@ -97,6 +191,64 @@ It also states that 2026 GCE Advanced Level. The GCE Ordinary Level Examination 
 [Data](articles/f8237757.json)
 
 [Extended Data](ext_articles/f8237757.ext.json)
+
+---
+
+### New Nepal PM vows to follow protesters’ demands to ‘end corruption’
+
+*2025-09-14 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112482/new-nepal-pm-vows-to-follow-protesters-demands-to-end-corruption) · `en`
+
+Nepal’s new leader vowed on Sunday (Sep 14) to follow protesters’ demands to “end corruption” as she began work as interim prime minister, after “Gen Z” youth demonstrations ousted her predecessor.
+
+“We have to work according to the thinking of the Gen Z generation,” said Sushila Karki, in her first public comments since taking office on Friday.
+
+“What this group is demanding is end of corruption, good governance and economic equality,” she added. “You and I have to be determined to fulfil that.”
+
+The 73-year-old former chief justice held a minute’s silence on Sunday for those killed in the unrest, before meetings began in the key government complex of Singha Durbar - where several buildings were set on fire during mass protests on Tuesday.
+
+At least 72 people were killed in two days of protests, and 191 injured, the government’s chief secretary Eaknarayan Aryal said on Sunday, increasing an earlier toll of 51.
+
+...
+
+[Data](articles/103523b4.json)
+
+[Extended Data](ext_articles/103523b4.ext.json)
+
+---
+
+### Headless, limbless body found washed ashore on Mudukatuwa beach
+
+*2025-09-14 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112481/headless-limbless-body-found-washed-ashore-on-mudukatuwa-beach) · `en`
+
+Marawila Police have launched an investigation following a complaint received regarding a body that had washed ashore on the Mudukatuwa beach in Marawila.
+
+According to police, the body was missing the head, both arms, and legs, and only a part of the torso remained, which was dressed in blue shorts.
+
+Police suspect that the body may belong to a male individual.
+
+However, the Acting Magistrate of Marawila is scheduled to conduct the initial inquiry, and further investigations are being carried out by the Marawila Police.
+
+◼️
+
+[Data](articles/0f9c47e6.json)
+
+[Extended Data](ext_articles/0f9c47e6.ext.json)
+
+---
+
+### වැවට අයිති භූමිය වන සංරක්ෂණයෙන් ගල් දාලා අල්ලාගෙන
+
+*2025-09-14 12:37:25* · [`adalk`](https://www.ada.lk/breaking_news/වැවට-අයිති-භූමිය-වන-සංරක්ෂණයෙන්-ගල්-දාලා-අල්ලාගෙන/11-418484) · `si`
+
+අනුරාධපුර දිස්ත්‍රික්කයේ එප්පාවල ගොවිජන සේවා බල ප්‍රදේශයට අයත් කඳුරුගස්වැව දික්වැව ගම්මානයේ වැව් මායිම තුළ වන සංරක්ෂණ දෙපාර්තමේන්තුව මඟින් රක්ෂිත මායිම් ගල් දැමීම හේතුවෙන් තම වැවට හිමි භූමි ප්‍රමාණය අඩු වී ඇතැයි ගොවීන් චෝදනා කර සිටිති.
+
+මේ හේතුවෙන් යම් දිනෙක වැව ප්‍රථිසංස්කරණය කිරීමේදී වැව නිසි ලෙස ප්‍රථිසංස්කරණයක් සිදු කර ගැනීමට නොහැකි වනු ඇතැයිද ගොවීන් පෙන්වා දෙති.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ එප්පාවල ප්‍රදේශයේ පිහිටි කඳුරුගස්වැව ගම්මානයේ බොහෝ ගොවීන් පිරිසක් මෙම දික්වැව වැවෙන් තම වගා කටයුතු සඳහා ජලය ලබා ගනිති.මෙම වැව අහස් දියෙන් පමණක් පෝෂණය වන වැවක් වන අතර, එලෙස වැස්සෙන් පිරෙන වැවෙන් අවුරුද්ද පුරා  අක්කර 160 ක් දෙකන්නයම වගා කිරීම සිදු කරති.මෙම වැවෙන් පහළ කොටස පමණක් ගොවීන් වී වගාව සිදු කරන අතර, වැව් ඉස්මත්ත ලෙස එප්පාවල පොස්පේට් රක්ෂිතය පවතියි.එම ප්‍රදේශයේ කිසිදු වගාවක් සිදු කිරීමක් හෝ වැව් රක්ෂිත අත්පත් කර ගැනීමක් මෙම ගම්වාසීන් විසින් සිදු කර නොමැති බවද දැක ගත හැකිය.
+
+...
+
+[Data](articles/4bfcc46d.json)
 
 ---
 
@@ -225,6 +377,30 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/4731d9a4.json)
 
 [Extended Data](ext_articles/4731d9a4.ext.json)
+
+---
+
+### 2026 schools exams schedule released
+
+*2025-09-14 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112479/2026-schools-exams-schedule-released-) · `en`
+
+The 2026 school examinations schedule has been released by the Ministry of Education.
+
+Accordingly, the 2025 G.C.E Ordinary Level Examination will be held from 17 to 26 February 2026.
+
+Meanwhile, the G.C.E Advanced Level Examination is slated to be held from August 10 September 05.
+
+The Education Ministry stated that the Grade 5 Scholarship Exam will be held on August 09, 2026.
+
+Furthermore, the General IT Exam will be held on 24 October.
+
+The 2026 G.C.E Ordinary Level Examination is scheduled to be held from 08 to 17 December, the Education Ministry stated.
+
+◼️
+
+[Data](articles/47392dfa.json)
+
+[Extended Data](ext_articles/47392dfa.ext.json)
 
 ---
 
@@ -1947,173 +2123,5 @@ In 2017, the World Health Organization (WHO) with the World Health Assembly reco
 [Data](articles/127ce59d.json)
 
 [Extended Data](ext_articles/127ce59d.ext.json)
-
----
-
-### Opens three sluice gates of hedkinsanda reservoir
-
-*2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
-
-Tissa Rajaratne says that three sluice gates of Ulhitiyawa Rathcher has been opened today (13).
-
-Ulhupitiya Rathchery has been opened at 0.3 meters of one spanner in the reservoir, which has also been opened at 0.3 meters of the two sluice gates.. Therefore, the people informed the people to be vigilant.
-
-The Irrigation Water for the Mahaweli Cg Zone has been completed by the reservoir of the reservoir, he said that the reservoir is not due to the reduction of the essential environmental maintenance of the reservoir.
-
-◼️
-
-[Data](articles/16756fa8.json)
-
-[Extended Data](ext_articles/16756fa8.ext.json)
-
----
-
-### Music Fest ‘25
-
-*2025-09-13 18:39:00* · [`islandlk`](http://island.lk/music-fest-25/) · `en`
-
-Presented by Ladies’ College – is not just a concert, it’s a  show-stopping, heart-thumping, soul-singing celebration to commemorate the 125th anniversary of the school. This dazzling festival brings together our junior and senior students, united with “One Heart and One Voice”, to relive excerpts from 10 unforgettable Broadway and Disney moments that have lit up our stage in years past.
-
-From mermaids to magic carpets, ballroom waltzes to 70’s rock ‘n’ roll, prepare to be whisked away on a musical journey like no other.
-
-Primary School Takes the Stage– Directed by Melanie Bibile and assisted by Bhagyanee Benedict, our youngest stars will dive under the sea with The Little Mermaid, singing beloved favourites like “Part of Your World” and “Under the Sea”. Shimmering costumes done by Jojo spirited dancing, and joyful singing will transform the stage into an underwater wonderland as our young stars bring the sea world to life.
-
-...
-
-[Data](articles/0650ddff.json)
-
-[Extended Data](ext_articles/0650ddff.ext.json)
-
----
-
-### All maize farmers in the Maha season begin registration
-
-*2025-09-13 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214532) · `si`
-
-The farmers who cultivate maize cultivated in the Maha season have been facilitated to register the farmers in Sri Lanka.
-
-In a statement, the Department said that the department stated that the facilities have been provided on the web site www.agrariandep.gov.lk
-
-The Department said that all the farmers of maize should be registered in this system say that the necessary procedures and registration have been issued to educate all the farmers.
-
-All maize farmers in the Maha season begin to register by poornima
-
-◼️
-
-[Data](articles/d2c744a1.json)
-
-[Extended Data](ext_articles/d2c744a1.ext.json)
-
----
-
-### Royal win Dudley de Silva trophy in Wesley hockey encounter
-
-*2025-09-13 18:30:00* · [`islandlk`](http://island.lk/royal-win-dudley-de-silva-trophy-in-wesley-hockey-encounter/) · `en`
-
-A hat trick by Lithum Karunasiri helped Royal College, Colombo to beat Wesley College in their annual hockey encounter played for Dudley de Silva trophy held in Reid Avenue school ground recently.
-
-The host Royalists, the runners up in the recently concluded Western Provincial Hockey tournament, were the favourites in this year’s encounter which was played for the first time since 2018. Wesley stickers fought better than expected in the game.
-
-Royal led by Yusuf Shihar, who represented Sri Lankan in Junior Asia Cup in China this year,  was dominant in all departments; attack, defence, hitting and stopping, and dribbling since the start though they played a slow, but a controlled game. The Reid Avenue School led by 2-0 at the lemons.
-
-Royal skipper Yusuf Shihar receives the trophy from former Sri Lanka national sticker and Royal old boy Sandun Channa Gajanayake.
-
-...
-
-[Data](articles/e5f87a1c.json)
-
-[Extended Data](ext_articles/e5f87a1c.ext.json)
-
----
-
-### People’s Bank launches special relief package to support struggling small businesses
-
-*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/peoples-bank-launches-special-relief-package-to-support-struggling-small-businesses/) · `en`
-
-People’s Bank has announced a Special Relief Package aimed at reviving Micro, Small, and Medium Enterprises (MSMEs) across Sri Lanka, focusing on businesses with non-performing loans under Rs. 5 million. This timely initiative targets enterprises severely affected by recent economic challenges that were not addressed under previous relief measures.
-
-MSMEs play a critical role in Sri Lanka’s economy, contributing over 52% of Gross Domestic Product (GDP) and employing nearly 45% of the workforce. Despite their significance, many small businesses have faced increasing difficulties in recent years, including rising operational costs, reduced consumer demand, and tighter financial conditions. The Special Relief Package is designed to provide immediate support to these enterprises while improving the Bank’s capacity to manage outstanding loans effectively.
-
-Engineers called to lead Lanka’s industrial transformation at IESL NEC 2025
-
-...
-
-[Data](articles/d7453ba9.json)
-
-[Extended Data](ext_articles/d7453ba9.ext.json)
-
----
-
-### Wealth Planners of AIA Sri Lanka at the prestigious President Club Convention held in China and Mongolia
-
-*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/wealth-planners-of-aia-sri-lanka-at-the-prestigious-president-club-convention-held-in-china-and-mongolia/) · `en`
-
-AIA Sri Lanka has warmly congratulated its Wealth Planners who earned the privilege to participate in the 2025 AIA President Club Convention, held in China and Mongolia, a company news release said.
-
-“The AIA President’s Club is the most prestigious and celebrated event hosted by the AIA Group. Its significance is further elevated by the participation of top-performing winners from across 18 countries within the AIA network, bringing together excellence, diversity, and shared purpose on a global stage,” it explained.
-
-This annual international summit, organized by the AIA Group and held in various countries around the world, hosted 293 invitees this year. AIA Sri Lanka was represented by 17 participants, marking the 13th consecutive year of participation. Among them were senior management members and top-performing wealth planners who achieved exceptional sales performance.
-
-...
-
-[Data](articles/fbd32491.json)
-
-[Extended Data](ext_articles/fbd32491.ext.json)
-
----
-
-### Ceylon Chamber presents National Budget 2026 proposals to President
-
-*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/ceylon-chamber-presents-national-budget-2026-proposals-to-president-2/) · `en`
-
-The newly appointed Board of The Ceylon Chamber of Commerce, led by Chairperson Krishan Balendra, held its first official meeting with President Anura Kumara Dissanayake on Thursday. The meeting provided a platform to present the Ceylon Chamber’s priority proposals for the forthcoming National Budget 2026, while also reviewing progress on previous reform initiatives.
-
-The Ceylon Chamber’s proposals were structured around five broad themes, with specific reforms aimed at strengthening growth and competitiveness:
-
-•    Trade & Investment Facilitation – establishing a National Single Window; modernising the Customs Ordinance; setting up a dedicated Free Trade Agreement (FTA) negotiation team, advancing a private-sector-led investment zone, continuation of facilitation of import/export clearance with the BOI and a well-structured incentive scheme for both local and foreign large investments in line with other emerging markets
-
-...
-
-[Data](articles/aabb31c8.json)
-
-[Extended Data](ext_articles/aabb31c8.ext.json)
-
----
-
-### RDB Bank records stellar performance for 1st half 2025
-
-*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025-2/) · `en`
-
-Regional Development Bank (RDB) has recorded a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
-
-The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
-
-Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget. “We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
-
-...
-
-[Data](articles/c3f21cb6.json)
-
-[Extended Data](ext_articles/c3f21cb6.ext.json)
-
----
-
-### Protest against Trump's column tax
-
-*2025-09-13 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214531) · `si`
-
-The Free Trade Zones and the General Employees Union have protested against the American bar.
-
-The protest was held in front of the main entrance of the Katunayaka Free Trade Zones this afternoon.
-
-The protests have been protested that the administration administration has taken measures to slash the privileges of the United States due to the decision of tariffs.
-
-They point out that the government requested the government to discuss the opportunity to discuss the issues faced by the employees with the problems faced by the employees.
-
-◼️
-
-[Data](articles/4cce16f9.json)
-
-[Extended Data](ext_articles/4cce16f9.ext.json)
 
 ---

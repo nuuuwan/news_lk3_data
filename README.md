@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 15:06:01**
+As of **2025-09-14 14:54:31**
 
 ## Newspaper Stats
 
-*Scraped **75,882** Articles*
+*Scraped **75,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,367
 adaderanalk | 9,757
-tamilmirrorlk | 11,346
+tamilmirrorlk | 11,344
 virakesarilk | 12,366
 adaderanasinhalalk | 13,237
 
@@ -26,83 +26,45 @@ adaderanasinhalalk | 13,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,934 (93.5%) of 75,882 articles have been extended.
+70,922 (93.5%) of 75,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### மஹிந்தவை பார்க்க 6 மணிநேரம் பயணித்த ஜோடி
-
-*2025-09-14 14:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-பார்க்க-6-மணிநேரம்-பயணித்த-ஜோடி/175-364553) · `ta`
-
-குருநாகல், கல்கமுவவைச் சேர்ந்த ஒரு தம்பதியினர், முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை அவரது கார்ல்டன் இல்லத்தில் சந்திக்க தங்கல்லைக்கு ஆறு மணி நேர மோட்டார் சைக்கிள் பயணத்தை மேற்கொண்டனர்.
-
-முன்னாள் ஜனாதிபதி கொழும்பில் இருந்து தங்காலைக்கு வந்திருப்பதை அறிந்ததும், அவர் மீதான அன்பின் காரணமாக இந்தப் பயணத்தை மேற்கொள்ள முடிவு செய்ததாக தம்பதியினர் தெரிவித்தனர். பின்னர் அவர்கள் ராஜபக்சேவைச் சந்தித்து நட்புறவான உரையாடலில் ஈடுபட்டனர்.
-
-அதே நாளில், பாலர் பாடசாலை குழந்தைகள் குழு ஒன்று, தங்கள் பெற்றோருடன், முன்னாள் ஜனாதிபதியைச் சந்தித்தது. வருகையின் போது, ​​குழந்தைகள் அவரது நினைவாக ஒரு பாடலையும் பாடினர்.
-
-◼️
-
-[Data](articles/1ab5fb99.json)
-
----
-
-### ஜனாதிபதி துறந்து விட்டார் என்கிறார் நாமல்
-
-*2025-09-14 14:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-துறந்து-விட்டார்-என்கிறார்-நாமல்/175-364552) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க ஓய்வு பெற்ற பிறகு, ஒரு நொடி கூட பயன்படுத்தாமல் அனைத்து வசதிகளையும் விட்டுக்கொடுக்கத் தயாராக இருப்பதாக பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்தார்.
-
-அனைத்து வசதிகளையும் விட்டுக்கொடுக்கும் ஜனாதிபதியின் முடிவின் விளைவாக, முன்னாள் ஜனாதிபதிகளும் அனைத்தையும் விட்டுக்கொடுக்க வேண்டியிருந்தது என்று அவர் கூறினார்.
-
-முன்னாள் ஜனாதிபதிகளின் உரிமைகளைப் பறிக்கும் சட்டமூலத்தை ரத்து செய்வதன் மூலம் அனைத்து வசதிகளையும் விட்டுக்கொடுக்கும் தனது முடிவை ஜனாதிபதி காட்டியதாக கூறிய பிரதியமைச்சர் அமைச்சர் கூறினார்,  அதுதான் உண்மை கதை என்றார்.
-
-◼️
-
-[Data](articles/e5490d63.json)
-
----
-
-### When Nayanthara arrives, the crowd is twice the phone number
+### ’’நயன்தாரா வந்தால் கூட்டம் இரண்டு மடங்காக வரும்’’  விஜய்யை சீண்டிய சீமான்
 
 *2025-09-14 14:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நயன்தாரா-வந்தால்-கூட்டம்-இரண்டு-மடங்காக-வரும்-விஜய்யை-சீண்டிய-சீமான்/175-364551) · `ta`
 
-If Rajini and Ajith come to the crowd. If Nayanthara arrives, there will be twice as much crowd. You don't see the crowd; Seeman, the chief coordinator of the Tamil party, has criticized the meeting for Vijay as a look at the policy.
+ரஜினி, அஜித் வந்திருந்தால் இதைவிடவும் கூட்டம் வரும். நயன்தாரா வந்தால் இதைவிட இரண்டு மடங்கு கூட்டம் வரும். நீங்கள் கூட்டத்தை பார்க்காதீர்கள்; கொள்கையை பாருங்கள் என விஜய்க்கு திரண்ட கூட்டம் குறித்து நாம் தமிழர் கட்சியின் தலைமை ஒருங்கிணைப்பாளர் சீமான் விமர்சித்துள்ளார்.
 
-Seaman met with reporters at Coimbatore airport and said, “Vijay has launched the campaign.. People have come to see Vijay because the artist is coming to the street. When we were little children, MGR and Shivaji were standing in the sand for hours. If the actor comes, the crowd will come.
+கோவை விமான நிலையத்தில் செய்தியாளர்களை சந்தித்த சீமான், “விஜய் பரப்புரையை ஆரம்பித்துள்ளார், மக்கள் அதிகளவில் திரண்டுள்ளனர். திரையில் பார்த்த கலைஞர் தெருவுக்கு வருகிறார் என்பதால் விஜய்யை பார்க்க மக்கள் வந்துள்ளனர். நாங்கள் சின்ன பிள்ளைகளாக இருந்தபோது, எம்ஜிஆர், சிவாஜி வருகிறார் என மணிக்கணக்கில் காந்திருந்து நின்றிருக்கிறோம். நடிகர் வந்தால் கூட்டம் வரத்தான் செய்யும்.
 
-If Brother Ajith came, the crowd would come, even though Rajini was coming, the crowd would come beyond this. If Nayanthara is unloaded, there will be twice as much crowd. You don't see the crowd; Look at the policy, otherwise it will not.
-
-The only party that strives for the people is the Tamil party.. Next we are holding the conference of the mountains in Dharmapuri. ”
+சகோதரர் அஜித் வந்திருந்தால் இதைவிடவும் கூட்டம் வரும், ரஜினி வந்திருந்தாலும் இதை தாண்டி கூட்டம் வரும். நயன்தாராவை இறக்கிவிட்டால், இதைவிட இரண்டு மடங்கு கூட்டம் வரும். நீங்கள் கூட்டத்தை பார்க்காதீர்கள்; கொள்கையை பாருங்கள், இல்லையென்றால் உருப்படாது.
 
 ...
 
 [Data](articles/15fefe5c.json)
 
-[Extended Data](ext_articles/15fefe5c.ext.json)
-
 ---
 
-### The battle of friendship in the world is the world's most concerns today
+### ක්‍රිකට් ලොව වැඩිම අවධානයකට ලක්වෙන  පස මිතුරන්ගේ සටන අද
 
 *2025-09-14 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214557) · `si`
 
-India and Pakistan will be played today (14), who won the most vulnerable in the Asia Cup 20 cricket tournament.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ වඩාත් අවදානය දිනා ගන්නා ඉන්දියාව සහ පාකිස්තානය අතර තරගය අද (14) පැවැත්වීමට නියමිතව තිබේ.
 
-The game held at the Dubai International Cricket Stadium will be played at 8.00 pm.
+ඩුබායි ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේදී පැවැත්වෙන තරගය මෙරට වේලාවෙන් රාත්‍රී 8.00ට පැවැත්වීමට නියමිතය.
 
-Both groups compete in the tournament and have won the first match.
+තරගාවලියේ ඒ කාණ්ඩයෙන් තරග වදින එම කණ්ඩායම් දෙකම මේ වන විට සහභාගී වූ පළමු තරගය ජයගැනීමට සමත්ව තිබේ.
 
-The controversial atmosphere between India and Pakistan has also been affected by the two countries, and some parties have commented that the match should be boycotted by the match.
+ඉන්දියාව සහ පාකිස්තානය අතර පවතින මතභේදාත්මක වාතාවරණය දෙරට අතර ක්‍රිකට් තරග සදහා ද බලපෑම් එල්ල කර ඇති අතර පසුගිය අප්‍රේල් මාසයේ සිදුවූ පෙහෙල්ගම් ත්‍රස්ත ප්‍රහාරය හේතුවෙන් මෙම තරගය ඉන්දියාව වර්ජනය කළ යුතු බවට ද ඇතැම් පාර්ශ්ව අදහස් පළ කර තිබුණි.
 
-The Indian Army, the Indian central government has been humiliating the victims of the Pelgam attack on the tournament.
+එමෙන්ම ඉන්දීය ආම්ආද්මි පක්ෂය ප්‍රකාශ කර ඇත්තේ මෙම තරගාවලිය සඳහා ඉන්දීය කණ්ඩායම සහභාගී කරවීමෙන් ඉන්දීය මධ්‍යම රජය පෙහෙල්ගම් ප්‍රහාරයේ වින්දිතයින් නින්දාවට ලක්කර ඇති බවය.
 
 ◼️
 
 [Data](articles/53b9cdb4.json)
-
-[Extended Data](ext_articles/53b9cdb4.ext.json)
 
 ---
 
@@ -124,23 +86,21 @@ It is also reported that K. Nageswaran (71 years old) from Muttur Sampur area di
 
 ---
 
-### Private and SLTB buses go to RES
+### පෞද්ගලික හා ලංගම බස් දෙක රෙස් යයි
 
 *2025-09-14 13:23:49* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-ලංගම-බස්-දෙක-රෙස්-යයි/11-418485) · `si`
 
-The people call for the driver of the private bus on the bus driver, driving the bus and operating the bus.
+අධික වේගයෙන්  අන්තරාකාරි ලෙස බස් රථය ධාවනය කර අනතුරක් කිරීමට උත්සාහ කළ පෞද්ගලික බස් රථයේ රියදුරුට එරෙහිව පියවර ගන්නා ලෙස ජනතාව ඉල්ලා සිටී.
 
-The bus passengers complain that the Sri Lankan Transport Board bus to travel from the Bandaravawa to Hatton, he accused the backed by the private bus to pass.
+බගවන්තලාව සිට හැටන් දක්වා ධාවනය වූ ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට අන්තරාකාරී ලෙස පෞද්ගලික බස් රථය උත්සාහ කළ බවට බස් රථයේ මගීහු චෝදනා කරති.
 
-The bus passengers accused the Sri Lanka Transport Board Bus was traveling in the front of the Sri Lanka Transport Board while he was heading ahead.
+නල්ලතන්නි සිට හැටන් දක්වා ගමන් කළ පෞද්ගලික බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට උත්සාහ කළ බවට බස් රථයේ මගීන් චෝදනා කරති.
 
-This event took place on Sunday morning on 14.09.2011. The people further urges the traffic police to take action against bus drivers involved in the country.
+මෙම සිදුවීම 2025.09.14 වන ඉරිදා උදෑසන සිදු විය. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
 
 ◼️
 
 [Data](articles/6f17a5a7.json)
-
-[Extended Data](ext_articles/6f17a5a7.ext.json)
 
 ---
 
@@ -276,25 +236,19 @@ However, the Acting Magistrate of Marawila is scheduled to conduct the initial i
 
 ---
 
-### Holding stones with the lake belonging to the preservation
+### වැවට අයිති භූමිය වන සංරක්ෂණයෙන් ගල් දාලා අල්ලාගෙන
 
 *2025-09-14 12:37:25* · [`adalk`](https://www.ada.lk/breaking_news/වැවට-අයිති-භූමිය-වන-සංරක්ෂණයෙන්-ගල්-දාලා-අල්ලාගෙන/11-418484) · `si`
 
-Farmers have complained that the land area of ​​the Dickwewa village of the Dickwewa village in the Eppawala area of ​​Eppawala in the Anuradhapura District has reduced the land area of ​​the Department of Conservation.
+අනුරාධපුර දිස්ත්‍රික්කයේ එප්පාවල ගොවිජන සේවා බල ප්‍රදේශයට අයත් කඳුරුගස්වැව දික්වැව ගම්මානයේ වැව් මායිම තුළ වන සංරක්ෂණ දෙපාර්තමේන්තුව මඟින් රක්ෂිත මායිම් ගල් දැමීම හේතුවෙන් තම වැවට හිමි භූමි ප්‍රමාණය අඩු වී ඇතැයි ගොවීන් චෝදනා කර සිටිති.
 
-As a result, the farmers point out that the tank will not be able to make the tank in the reconstruction of tank.
+මේ හේතුවෙන් යම් දිනෙක වැව ප්‍රථිසංස්කරණය කිරීමේදී වැව නිසි ලෙස ප්‍රථිසංස්කරණයක් සිදු කර ගැනීමට නොහැකි වනු ඇතැයිද ගොවීන් පෙන්වා දෙති.
 
-Many farmers in the Kandurugaswewa village in the Eppawala area in Anuradhapura District have been cultivated by the rainfill. It is possible that these villagers have not done an acquisition of an acquisition of a tank or tanks.
-
-Farmers say that the premises of the forest have been marked by the forest reserve by the Forest Department in the tank.
-
-Farmers point out that the lake is filled with 100 feet more than 100 feet about 100 feet about 100 feet 200 feet in the rainfall, despite a rainy weather.. The farmers also point out that the construction of these forest conservation boundaries have to remove these forest conservation boundaries in the week.
+අනුරාධපුර දිස්ත්‍රික්කයේ එප්පාවල ප්‍රදේශයේ පිහිටි කඳුරුගස්වැව ගම්මානයේ බොහෝ ගොවීන් පිරිසක් මෙම දික්වැව වැවෙන් තම වගා කටයුතු සඳහා ජලය ලබා ගනිති.මෙම වැව අහස් දියෙන් පමණක් පෝෂණය වන වැවක් වන අතර, එලෙස වැස්සෙන් පිරෙන වැවෙන් අවුරුද්ද පුරා  අක්කර 160 ක් දෙකන්නයම වගා කිරීම සිදු කරති.මෙම වැවෙන් පහළ කොටස පමණක් ගොවීන් වී වගාව සිදු කරන අතර, වැව් ඉස්මත්ත ලෙස එප්පාවල පොස්පේට් රක්ෂිතය පවතියි.එම ප්‍රදේශයේ කිසිදු වගාවක් සිදු කිරීමක් හෝ වැව් රක්ෂිත අත්පත් කර ගැනීමක් මෙම ගම්වාසීන් විසින් සිදු කර නොමැති බවද දැක ගත හැකිය.
 
 ...
 
 [Data](articles/4bfcc46d.json)
-
-[Extended Data](ext_articles/4bfcc46d.ext.json)
 
 ---
 
@@ -2123,5 +2077,51 @@ The Ministry of External Affairs has said that steps are being taken to bring th
 [Data](articles/ee9f8efd.json)
 
 [Extended Data](ext_articles/ee9f8efd.ext.json)
+
+---
+
+### Former soldier arrested for three murders
+
+*2025-09-13 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214533) · `si`
+
+A former Army soldier who is suspected of connecting four murders including a former prison officer in Bandaragama and two youths in Borella.
+
+The police said that the suspect had reportedly had four people shot dead last August alone.
+
+The murdering incident in the Siyambalanduwa area was hiding in the Siyambalanduwa area in Ampara on 07th August, the shooter shot dead in Borella.
+
+Accordingly, the person was arrested yesterday (12th).
+
+Investigations have revealed that he had been shooting at the Bandara and Former Prison officer Lalith Kodagoda, a former prison officer in Bandaragama, Bandara and Former Prison officer in Bandaragama, Bandaragama.
+
+The victim was suspected of killing as the Showdraw in the Panadura South Gangarawatta in the Panadura South Mahodadu Mahabagahawatta.
+
+Accordingly, four persons have died in three occasions in August alone.
+
+Investigations have also been found in the possession of the Ice narcotics at the time of his arrest.
+
+...
+
+[Data](articles/ba397e41.json)
+
+[Extended Data](ext_articles/ba397e41.ext.json)
+
+---
+
+### Sepsis: Just Ask—Could It Be Sepsis?
+
+*2025-09-13 19:13:00* · [`islandlk`](http://island.lk/sepsis-just-ask-could-it-be-sepsis/) · `en`
+
+Sepsis is a serious, potentially life-threatening condition that requires urgent medical attention. Despite its prevalence, sepsis remains one of the most under-recognized illnesses in both developing and developed countries.
+
+The Global Sepsis Alliance (GSA)—a non-profit organization—provides global leadership in efforts to reduce the burden of sepsis worldwide. GSA has designated September 13th as World Sepsis Day, and various awareness initiatives are carried out throughout the month to educate the public, healthcare professionals, and policymakers about the signs, symptoms, and importance of timely intervention for sepsis.
+
+In 2017, the World Health Organization (WHO) with the World Health Assembly recognized sepsis as a global health crisis and declared sepsis as a global health priority.
+
+...
+
+[Data](articles/127ce59d.json)
+
+[Extended Data](ext_articles/127ce59d.ext.json)
 
 ---

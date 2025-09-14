@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 23:38:21**
+As of **2025-09-15 01:55:21**
 
 ## Newspaper Stats
 
-*Scraped **75,945** Articles*
+*Scraped **75,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,140 @@ colombotelegraphcom | 771
 economynextcom | 4,598
 islandlk | 4,667
 dailymirrorlk | 4,733
-dailyftlk | 5,376
+dailyftlk | 5,378
 adalk | 7,374
 adaderanalk | 9,770
 tamilmirrorlk | 11,361
-virakesarilk | 12,376
-adaderanasinhalalk | 13,252
+virakesarilk | 12,380
+adaderanasinhalalk | 13,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,282 (93.9%) of 75,945 articles have been extended.
+71,395 (94.0%) of 75,952 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-15 (Monday)
+
+### Independent central bank is for citizens and not for politicians
+
+*2025-09-15 01:33:43* · [`dailyftlk`](https://www.ft.lk/columns/Independent-central-bank-is-for-citizens-and-not-for-politicians/4-781647) · `en`
+
+In a recent talk show titled ‘Modern Talk’ hosted by Channel 7 television, successor to the former YA Television, the young talk show hostess Nimna Perera asked me whether the current central bank management had been doing its job properly in managing the economy.1
+
+As a journalist, she was voicing the sentiments of the public openly in that talk show. There should not be objection to this approach because that is the duty of an anchor-woman by her viewers. In answering her question, I summarily told her that the central bank is an independent organisation as mandated by the new Central Bank of Sri Lanka Act or CBA and, under the mandate given to it by the new legislation, it is doing perfectly well in taming inflation and restoring the stability of the exchange rate. However, it requires further elaboration.
+
+...
+
+[Data](articles/d4c5a810.json)
+
+---
+
+### Case of “unknowns” hijacking isolated protests with “anti-corruption” rhetoric
+
+*2025-09-15 01:01:47* · [`dailyftlk`](https://www.ft.lk/columns/Case-of-unknowns-hijacking-isolated-protests-with-anti-corruption-rhetoric/4-781645) · `en`
+
+Both students in Bangla and youth in Nepal were ultimately represented by small groups the military accepted and were projected as instruments of change
+
+In Bangladesh and in Nepal, though with commonalities in the initial “leaderless” single issue protests, establishing a new rule was different to Sri Lanka and remains unconstitutional too. From nowhere a few youth in Bangladesh claiming to represent the university student protest and accepted as such by the military usurped the right to nominate Muhammud Yunus, the former head of the Grameen Bank as interim PM. He was in self-exile in France, and there were no indications of any discussions and dialogue among students and protesting groups, on who should head the interim government and how it should be constituted
+
+...
+
+[Data](articles/8ddc5d12.json)
+
+[Extended Data](ext_articles/8ddc5d12.ext.json)
+
+---
+
+### நாட்டை சரியான பாதையில் கொண்டு சென்ற ரணில் விக்ரமசிங்கவுக்கு கௌரவம் வழங்க வேண்டும் – வஜிர அபேவர்த்தன
+
+*2025-09-15 00:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225088) · `ta`
+
+நேபாளத்தின் நிலைக்கு செல்ல இருந்த எமது நாட்டை, அந்த நிலைமையில் இருந்து பாதுகாத்து சரியான பாதையில் கொண்டு சென்றமைக்காக ஒட்டுமொத்த தேசமும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு அதன் கெளரவத்தை வழங்கவேண்டும். மக்களின் உள்ளத்தில் பொறாமை மற்றும் வெறுப்பை விதைத்து இலங்கைக்கு எந்த நன்மையையும் ஏற்படுத்திக்கொள்ள முடியாது என  ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+
+நேபாளத்தில் கடந்த வாரம் இடம்பெற்ற துயரமான நிலைமை தொடர்பில் எங்களுக்கு தெரியும். அதேபோன்றதொரு சம்பவமே கடந்த  3 வருடங்களுக்கு முன்னர் எமது நாட்டிலும் இடம்பெற்றது. அந்த நிலைமை தீவிர நிலைக்கு திரும்பும்போது, எமது நாட்டின் பிரதமராக இருந்த ரணில் விக்ரமசிங்க, தனது வீடு எரிக்கப்பட்ட பின்னரும், அவர் மற்றவர்களின் வீடுகள் எரிக்கப்படுவதை நிறுத்துவதற்கு தேவையான நடவடிக்கைகளை விரைவாக மேற்கொண்டார்.
+
+...
+
+[Data](articles/3da60533.json)
+
+---
+
+### புறக்கோட்டை மத்திய பேருந்து நிலைய அபிவிருத்தி பணிகளைத் தொடங்கி வைக்கும் ஜனாதிபதி
+
+*2025-09-15 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225087) · `ta`
+
+நாடளாவிய ரீதியில் 50 பேருந்து நிலையங்களை அபிவிருத்தி செய்யும் தேசிய கருத்திட்டத்தின் முதற்கட்டமாக புறக்கோட்டை மத்திய பேருந்து நிலையத்தின் அபிவிருத்தி பணிகள் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் ஞாயிற்றுக்கிழமை (14) ஆரம்பித்து வைக்கப்படவுள்ளது.
+
+புறக்கோட்டை மத்திய பேருந்து நிலையம் 60 ஆண்டுகளுக்கு பின்னர் முழுமையாக அபிவிருத்தி செய்வதற்கு 424 மில்லியன் ரூபாய் ஒதுக்கப்பட்டுள்ள நிலையில்,அபிவிருத்தி பணிகள் இலங்கை விமானப்படைக்கு பொறுப்பாக்கப்பட்டுள்ளது. எதிர்வரும் ஆண்டு சித்திரை புத்தாண்டுக்கு முன்னர் இந்த அபிவிருத்தி பணிகளை நிறைவுப்படுத்த திட்டமிடப்பட்டுள்ளது.
+
+அதேபோல் 100 புகையிரத நிலையங்களை நவீனமயப்படுத்தும் கனவு இலக்கு கருத்திட்டத்தின் கீழ் மருதானை புகையிரத நிலையத்தின் அபிவிருத்தி பணிகள் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் இன்று காலை 11 மணியளவில் உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/e84e6803.json)
+
+---
+
+### யாழில் ஹெரோயினுடன் மூன்று இளைஞர்கள் கைது!
+
+*2025-09-15 00:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225086) · `ta`
+
+யாழ்ப்பாணம் - திருநகர் பகுதியில் 530 மில்லிகிராம் ஹெரோயினுடன் மூன்று இளைஞர்கள் ஞாயிற்றுக்கிழமை (14) கைது செய்யப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் யாழ்ப்பாணம் பொலிஸ் நிலைய போதை தடுப்பு பிரிவினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+விசாரணைகளின் பின்னர் குறித்த சந்தேக நபர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிசார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/194e81df.json)
+
+---
+
+### இந்திய அணி பாகிஸ்தானை 7 விக்கெட் வித்தியாசத்தில் வெற்றி
+
+*2025-09-15 00:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225085) · `ta`
+
+14ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு  நடைபெற்ற ஆசிய கோப்பை இருபதுக்கு 20 கிரிக்கெட் போட்டியில் இந்திய அணி பாகிஸ்தானை 7 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+
+குழு ஏ போட்டியாக துபாயில் நடைபெற்ற இந்தப் போட்டி முதலில் துடுப்பெடுத்தாடிய  பாகிஸ்தான் அணி 20 ஓவர்களில் 9 விக்கெட் இழப்புக்கு 127 ஓட்டங்கள் மட்டுமே எடுக்க முடிந்தது.
+
+அதன்படி, 128 ஓட்டங்கள் என்ற எளிதான இலக்கைத் துரத்திய இந்திய அணி, போட்டியின் 16 (15.5) ஓவர்களில் 3 விக்கெட் இழப்புக்கு 131 ஓட்டங்கள் எடுத்தது.
+
+இந்த வெற்றியின் மூலம், விளையாடிய இரண்டு போட்டிகளிலும் வெற்றி பெற்ற இந்திய அணி, புள்ளிகள் பட்டியலில் தொடர்ந்து முன்னிலை வகிக்கிறது.
+
+இன்றைய வெற்றியின் மூலம், பாகிஸ்தானுக்கு எதிரான கடைசி மூன்று டி20 போட்டிகளில் இந்தியா மூன்றிலும் வெற்றி பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9b4c81f9.json)
+
+---
+
 ### 2025-09-14 (Sunday)
+
+### India beat Pakistan
+
+*2025-09-14 23:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214574) · `si`
+
+India beat Pakistani, defeated the Pakistan won the Ven.
+
+Batting first, Pakistan won only 127 runs in the 20 overs.
+
+Chasing a target of 128 runs, the Indian team scored 131 runs in the final and scored 131 runs in the final.
+
+The Indian team has survived both of the matches played with this winter.
+
+◼️
+
+[Data](articles/eabaf1db.json)
+
+[Extended Data](ext_articles/eabaf1db.ext.json)
+
+---
 
 ### Sigiriya mirror walls arrest
 
@@ -63,6 +181,8 @@ Firefighter chief Javier Romero said that firefighters pulled four people from t
 ◼️
 
 [Data](articles/128ee55e.json)
+
+[Extended Data](ext_articles/128ee55e.ext.json)
 
 ---
 
@@ -1929,149 +2049,5 @@ Anura Priyadarshana Yapa, Wimal Weerawansa, Tran Ales, Sujeewa Semasinghe and Ja
 [Data](articles/079b14a6.json)
 
 [Extended Data](ext_articles/079b14a6.ext.json)
-
----
-
-### Is there a massive funding?
-
-*2025-09-14 11:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-நிதி-ஒதுக்கீடு-அவசியமா/175-364540) · `ta`
-
-During the COPF meeting held on Thursday (11), the Chairman of the Parliamentary Committee (COPF), Dr. Harsha de Silva, Chairman of the Public Finance Committee, raised concerns about the 2026 budget proposed by the Commission to Investigate Corruption or Corruption Corruption.
-
-Under the new scheme, the salary allocation of Rs.. 354 Million from Rs.. 777 million will rise, reflecting plans to expand the staff of the Commission from 489 to 967 and establish regional offices across the country.
-
-D Silva questioned whether such a large pre -allocation was necessary,
-
-Emphasized the need to renovate costs with real employee positions and infrastructure reading. “Allocations should reflect not only the planned growth but also the real functioning requirements,” he said.
-
-...
-
-[Data](articles/1bfe2e79.json)
-
-[Extended Data](ext_articles/1bfe2e79.ext.json)
-
----
-
-### Is there such a large funding allocation?
-
-*2025-09-14 11:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வளவு-பெரிய-நிதி-ஒதுக்கீடு-அவசியமா/175-364540) · `ta`
-
-During the COPF meeting held on Thursday (11), the Chairman of the Parliamentary Committee (COPF), Dr. Harsha de Silva, Chairman of the Public Finance Committee, raised concerns about the 2026 budget proposed by the Commission to Investigate Corruption or Corruption.
-
-Under the new scheme, salary allocation of Rs.. 354 Million from Rs.. 777 million will rise, reflecting plans to expand the staff of the Commission from 489 to 967 and establish regional offices across the country.
-
-D Silva questioned whether such a large pre -allocation was necessary, and emphasized the need to rehabilitate the costs with actual staff levels and infrastructure reading. “Allocations should reflect not only the planned growth but also the real functioning requirements,” he said.
-
-...
-
-[Data](articles/1e55c758.json)
-
-[Extended Data](ext_articles/1e55c758.ext.json)
-
----
-
-### Karandeniya double murder suspect arrested
-
-*2025-09-14 11:33:02* · [`adalk`](https://www.ada.lk/breaking_news/කරන්දෙණිය-ද්විත්ව-ඝාතනයේ-සැකකරු-අල්ලයි/11-418482) · `si`
-
-The mother of Kotiyaka Kumara, the main suspect in the uncons of mother and son of the death of the Kotawela House of Karandeniya, has been arrested by the Karandeniya police.
-
-The police say that after the assassination, a person who facilitates him is also arrested in Kota.
-
-He was killed after September 11, a resident of Seventy-five year old residents of Karandeniya on September 11, police said.
-
-Kumara said that the assassination was a close relative of the victim, a woman was a woman who was murdered.
-
-Police also commenced investigations into the man who was named the killing of murders.
-
-◼️
-
-[Data](articles/d398ec5e.json)
-
-[Extended Data](ext_articles/d398ec5e.ext.json)
-
----
-
-### "Conduct provincial council elections immediately"
-
-*2025-09-14 11:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைத்-தேர்தல்களை-உடனடியாக-நடத்தவும்/175-364539) · `ta`
-
-The People's Movement for Independent and Fair Elections. It has also emphasized that the continuous delay has undermined democratic rights.
-
-In a letter to the Minister of Public Administration, Home Affairs, Provincial Councils and Local Government, Sandana Abhayaratne, PAffrel Managing Director Rohana Hettiarachchi highlighted the importance of redeeming the representative democratic structure instead of leaving the provincial council system under bureaucraticism.
-
-Hettiarachchi said the right to vote is part of the sovereignty power of the people, as stated in Article 3 of the Constitution, and warned that long -term delays have weakened public confidence in the democratic process.
-
-He further stated that Minister Bimal Ratnayake issued a recent statement that provincial council elections will be held in the first few months of next year.
-
-The organization urged the minister to ensure that the pledge is not further postponed.
-
-...
-
-[Data](articles/243505ea.json)
-
-[Extended Data](ext_articles/243505ea.ext.json)
-
----
-
-### Legal action against 900 individuals for selling rice above MRP
-
-*2025-09-14 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112475/legal-action-against-900-individuals-for-selling-rice-above-mrp) · `en`
-
-Nearly 3,000 raids related to rice have been conducted so far this year by the Consumer Affairs Authority.
-
-The Authority stated that a total of around 3,000 raids have been carried out involving various offenses related to rice, including selling rice at high prices, hoarding rice stocks, and selling rice that is unsuitable for consumption.
-
-The Authority further mentioned that over 1,000 of these raids were related to the sale of rice for a higher price than the maximum retail prices announced by the government, and legal action has been taken against more than 900 individuals, producing them before courts.
-
-The Consumer Affairs Authority noted that if a trader is found guilty of selling rice at above maximum retail prices, they may be fined between Rs. 100,000 and Rs. 500,000, or face up to 5 months in prison—or both penalties can be imposed.
-
-Moreover, if a private company is found guilty, a fine ranging from Rs. 500,000 to Rs. 5 million can be imposed.
-
-...
-
-[Data](articles/5f562795.json)
-
-[Extended Data](ext_articles/5f562795.ext.json)
-
----
-
-### Organized group in Nepal demonstration!
-
-*2025-09-14 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225041) · `ta`
-
-Nature is raising the waves of history and teaching lessons to the future. The latest lesson that it taught is is Nepal's crisis.
-
-◼️
-
-[Data](articles/b2bc6822.json)
-
-[Extended Data](ext_articles/b2bc6822.ext.json)
-
----
-
-### Ven. 2 out of 20 chemical samples obtained from the land of the Middeniya area confirms the use of ice
-
-*2025-09-14 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214550) · `si`
-
-It has been revealed that 17 out of the 20 chemical samples obtained from the Middeniya area, 17 Ice drugs containing chemicals.
-
-Investigations carried out by the Danarakara Pharmaceutical Board of Control and the Board of Control has been revealed.
-
-The Western Criminal Division of the Western Criminal Division was found in the Middeniya area on September 6.
-
-According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
-
-These factors have been revealed under the direction of the Director General of the Western North Criminal Division.
-
-The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
-
-Accordingly, the National Dangerous Drugs Control Board has been handed over to the police last Friday.
-
-◼️
-
-[Data](articles/bcaff0d0.json)
-
-[Extended Data](ext_articles/bcaff0d0.ext.json)
 
 ---

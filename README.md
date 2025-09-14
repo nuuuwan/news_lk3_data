@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 07:49:01**
+As of **2025-09-14 03:54:21**
 
 ## Newspaper Stats
 
-*Scraped **75,804** Articles*
+*Scraped **75,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,129 +12,23 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 770
-economynextcom | 4,594
-islandlk | 4,667
+economynextcom | 4,593
+islandlk | 4,652
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,358
-adaderanalk | 9,741
+adaderanalk | 9,739
 tamilmirrorlk | 11,323
 virakesarilk | 12,352
-adaderanasinhalalk | 13,223
+adaderanasinhalalk | 13,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,602 (93.1%) of 75,804 articles have been extended.
+70,421 (92.9%) of 75,783 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-09-14 (Sunday)
-
-### දුරගමන් බස් රථ ගමන් ඇරඹීමට පෙර මූලික තත්ත්ව පරීක්ෂණයක්?
-
-*2025-09-14 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214543) · `si`
-
-සියලු දුර ගමන් බස් රථ ගමන් ඇරඹීමට පෙර මූලික තත්ත්ව පරීක්ෂණයක් සිදුකිරීම අනිවාර්ය කිරීමට රජය සැළසුම් කර තිබේ.
-
-ඒ අනුව, ලබන මස මුල සිට එය ආරම්භ කිරීමට කටයුතු යොදා ඇති බව වාර්තා වෙයි.
-
-මූලික අදියර තුළ කොළඹ බැස්ටියන් මාවත සහ මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානය කේන්ද්‍ර කර ගනිමින් ජාතික ගමනාගමන කොමිසමේ අධික්ෂණය යටතේ එය ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
-
-ඊට අමතරව දුර ගමන් විනෝද චාරිකා බස් රථද මෙම තත්ත්ව පරීක්ෂණය සිදු කිරීම අනිවාර්ය කෙරෙන අතර, එම තත්ත්ව පරීක්ෂණයෙන් තොරව කිසිදු දුර ගමන් විශේෂචාරිකාවක් සඳහා අනුමැතිය හිමිනොවනු ඇති බව වාර්තා වෙයි.
-
-කිලෝමීටර 100ට වැඩි දුරක් ගමන් ගන්නා බස් රථ ධාවනය ආරම්භයට පැය 48කට පෙර යෝග්‍යතා සහතිකයක් ලබාගැනීම මෙහිදි සිදුකළ යුතුය.
-
-මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව මේ සඳහා අවශ්‍ය උපදේශයන් චක්‍රලේඛයක් මගින් නිකුත් කිරීමට කටයුතු මේ වනවිට සිදුකරන බව සඳහන්ය.
-
-...
-
-[Data](articles/37944d80.json)
-
----
-
-### රුසියානු තෙල් මිලදී ගැනීම් නතර කරන ලෙස ට්‍රම්ප්ගෙන් නේටෝ ජාතීන්ට බලපෑම්
-
-*2025-09-14 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214542) · `si`
-
-රුසියානු ඉන්ධන මිලදී ගැනීම නවත්වන ලෙසත් යුක්‍රේන - රුසියා යුද්ධය අවසන් කිරීම සඳහා රුසියාවට ප්‍රධාන සම්බාධක පනවන ලෙසත් ඉල්ලා අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් නේටෝ ජාතීන්ට බලපෑම් කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-සියලුම නේටෝ රටවල් එකඟ වී එකම දේ සිදු කිරීමට ආරම්භ කළ විට සහ සියලුම නේටෝ රටවල් රුසියාවෙන් තෙල් මිලදී ගැනීම නැවැත්වූ විට තමන් රුසියාවට එරෙහිව ප්‍රධාන සම්බාධක පැනවීමට සූදානම් බව අමෙරිකානු ජනාධිපතිවරයා පවසා ඇතැයිද විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-මේ අතර නේටෝ සංවිධානය විසින් චීනයට 50% සිට 100%ක තීරු බදු පැනවිය යුතු බවත් ඩොනල්ඩ් ට්‍රම්ප් විසින් යෝජනා කර ඇතැයිද වාර්තා වේ.
-
-යුක්‍රේන යුද්ධය අවසන් කිරීමට කිසිදු ප්‍රගතියක් ලබා නොගතහොත් මොස්කව් වෙත සම්බාධක පනවන බවට සහ එහි තෙල් මිලදී ගන්නා ප්‍රධාන ගැනුම්කරුවන් වන චීනය සහ ඉන්දියාව වැනි රටවලට ද්විතීයික සම්බාධක පනවන බවට ට්‍රම්ප් විසින් මීට පෙර ද තර්ජනය කර තිබුණි.
-
-මෙහි එක් පියවරක් ලෙස රුසියානු තෙල් අඛණ්ඩව ආනයනය කිරීම හේතුවෙන් ඉන්දීය භාණ්ඩ සඳහා අතිරේක 25%ක තීරුබදු පැනවීමට අමෙරිකානු ජනාධිපතිවරයා කටයුතු කළේය.
-
-◼️
-
-[Data](articles/a88d4cc5.json)
-
----
-
-### Pakistani Taliban ambush kills 12 soldiers in restive northwest
-
-*2025-09-14 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112467/pakistani-taliban-ambush-kills-12-soldiers-in-restive-northwest) · `en`
-
-At least 12 soldiers were killed in an ambush in northwest Pakistan on Saturday (Sep 13), government and security officials said, in an attack claimed by the Pakistani Taliban.
-
-Militancy has surged in the border regions with Afghanistan since the return to power of the Afghan Taliban in Kabul in 2021, although Saturday’s attack was one of the deadliest in months in Khyber Pakhtunkhwa province.
-
-Islamabad accuses neighbouring Afghanistan of failing to expel militants using Afghan territory to launch attacks on Pakistan, an accusation that authorities in Kabul deny.
-
-The Pakistan military said after the ambush early on Saturday that intelligence reports “have unequivocally confirmed physical involvement of Afghan Nationals in these heinous acts”.
-
-“Pakistan expects the Interim Afghan Government to uphold its responsibilities and deny use of its soil for terrorist activities against Pakistan,” it said in a statement.
-
-...
-
-[Data](articles/75bbc250.json)
-
----
-
-### Showers expected in several provinces after 1pm
-
-*2025-09-14 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112466/showers-expected-in-several-provinces-after-1pm-) · `en`
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (14), the Department of Meteorology said.
-
-Showers or thundershowers will occur at several places in Eastern and Uva provinces after 1.00 p.m.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5e30e721.json)
-
----
-
-### Showers in the evening today
-
-*2025-09-14 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214541) · `si`
-
-Several times will occur in the Western, Sabaragamuwa and Northwestern provinces and several times in the Galle, Matara, Kandy and Nuwara Eliya districts today (14).
-
-The department states that the Department states in the Eastern and Uva provinces. Showers or thundershowers will occur at several places about 1.00.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara.
-
-Winds are blowing from southwests and the speed of the wind is running.. Is about 30-40.
-
-From Matara to the shore of the coast extending from Matara to Pottuvil is at times.. The Department of Meteorology announces that 50-60 can increase.
-
-From the Kankesanthurai to Matara through the speed of the sea areas off the coast across the coast to Matara.. It can increase up to 50.
-
-...
-
-[Data](articles/cde5258b.json)
-
-[Extended Data](ext_articles/cde5258b.ext.json)
-
----
 
 ### 2025-09-13 (Saturday)
 
@@ -474,24 +368,6 @@ Charith Belivery, the captaincy of the Sri Lankan team, bear the Bangladesh lead
 
 ---
 
-### United for Nature: Citizens, Forces and Agencies Rally to Clean Kalagama and Balalu Wewa
-
-*2025-09-13 19:32:00* · [`islandlk`](http://island.lk/united-for-nature-citizens-forces-and-agencies-rally-to-clean-kalagama-and-balalu-wewa/) · `en`
-
-In a rare show of unity and determination, more than 2,000 people—from the armed forces to village families—joined hands over three consecutive days to clean up the Kalagama and Balalu Wewa areas, spanning nearly 20 acres of land.
-
-The operation, spearheaded by the conservation group Wild Tuskers of Sri Lanka (WTS), has been hailed as one of the largest and most inclusive community-driven environmental campaigns in recent years.
-
-The effort unfolded with military precision. On the first day, about 650 personnel from the Army, Navy, and Air Force took the lead, clearing vast stretches of polluted land and waterways. The following day saw the participation of 800 villagers and residents, while the third day brought together around 700 people—a blend of forces, families, and volunteers who worked shoulder to shoulder until the task was complete.
-
-...
-
-[Data](articles/476ad50f.json)
-
-[Extended Data](ext_articles/476ad50f.ext.json)
-
----
-
 ### 13 more Sri Lankans detained in Myanmar
 
 *2025-09-13 19:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-மேலும்-13-இலங்கையர்கள்-தடுத்து-வைப்பு/175-364504) · `ta`
@@ -540,24 +416,6 @@ Investigations have also been found in the possession of the Ice narcotics at th
 
 ---
 
-### Sepsis: Just Ask—Could It Be Sepsis?
-
-*2025-09-13 19:13:00* · [`islandlk`](http://island.lk/sepsis-just-ask-could-it-be-sepsis/) · `en`
-
-Sepsis is a serious, potentially life-threatening condition that requires urgent medical attention. Despite its prevalence, sepsis remains one of the most under-recognized illnesses in both developing and developed countries.
-
-The Global Sepsis Alliance (GSA)—a non-profit organization—provides global leadership in efforts to reduce the burden of sepsis worldwide. GSA has designated September 13th as World Sepsis Day, and various awareness initiatives are carried out throughout the month to educate the public, healthcare professionals, and policymakers about the signs, symptoms, and importance of timely intervention for sepsis.
-
-In 2017, the World Health Organization (WHO) with the World Health Assembly recognized sepsis as a global health crisis and declared sepsis as a global health priority.
-
-...
-
-[Data](articles/127ce59d.json)
-
-[Extended Data](ext_articles/127ce59d.ext.json)
-
----
-
 ### Opens three sluice gates of hedkinsanda reservoir
 
 *2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
@@ -573,24 +431,6 @@ The Irrigation Water for the Mahaweli Cg Zone has been completed by the reservoi
 [Data](articles/16756fa8.json)
 
 [Extended Data](ext_articles/16756fa8.ext.json)
-
----
-
-### Music Fest ‘25
-
-*2025-09-13 18:39:00* · [`islandlk`](http://island.lk/music-fest-25/) · `en`
-
-Presented by Ladies’ College – is not just a concert, it’s a  show-stopping, heart-thumping, soul-singing celebration to commemorate the 125th anniversary of the school. This dazzling festival brings together our junior and senior students, united with “One Heart and One Voice”, to relive excerpts from 10 unforgettable Broadway and Disney moments that have lit up our stage in years past.
-
-From mermaids to magic carpets, ballroom waltzes to 70’s rock ‘n’ roll, prepare to be whisked away on a musical journey like no other.
-
-Primary School Takes the Stage– Directed by Melanie Bibile and assisted by Bhagyanee Benedict, our youngest stars will dive under the sea with The Little Mermaid, singing beloved favourites like “Part of Your World” and “Under the Sea”. Shimmering costumes done by Jojo spirited dancing, and joyful singing will transform the stage into an underwater wonderland as our young stars bring the sea world to life.
-
-...
-
-[Data](articles/0650ddff.json)
-
-[Extended Data](ext_articles/0650ddff.ext.json)
 
 ---
 
@@ -611,98 +451,6 @@ All maize farmers in the Maha season begin to register by poornima
 [Data](articles/d2c744a1.json)
 
 [Extended Data](ext_articles/d2c744a1.ext.json)
-
----
-
-### Royal win Dudley de Silva trophy in Wesley hockey encounter
-
-*2025-09-13 18:30:00* · [`islandlk`](http://island.lk/royal-win-dudley-de-silva-trophy-in-wesley-hockey-encounter/) · `en`
-
-A hat trick by Lithum Karunasiri helped Royal College, Colombo to beat Wesley College in their annual hockey encounter played for Dudley de Silva trophy held in Reid Avenue school ground recently.
-
-The host Royalists, the runners up in the recently concluded Western Provincial Hockey tournament, were the favourites in this year’s encounter which was played for the first time since 2018. Wesley stickers fought better than expected in the game.
-
-Royal led by Yusuf Shihar, who represented Sri Lankan in Junior Asia Cup in China this year,  was dominant in all departments; attack, defence, hitting and stopping, and dribbling since the start though they played a slow, but a controlled game. The Reid Avenue School led by 2-0 at the lemons.
-
-Royal skipper Yusuf Shihar receives the trophy from former Sri Lanka national sticker and Royal old boy Sandun Channa Gajanayake.
-
-...
-
-[Data](articles/e5f87a1c.json)
-
-[Extended Data](ext_articles/e5f87a1c.ext.json)
-
----
-
-### People’s Bank launches special relief package to support struggling small businesses
-
-*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/peoples-bank-launches-special-relief-package-to-support-struggling-small-businesses/) · `en`
-
-People’s Bank has announced a Special Relief Package aimed at reviving Micro, Small, and Medium Enterprises (MSMEs) across Sri Lanka, focusing on businesses with non-performing loans under Rs. 5 million. This timely initiative targets enterprises severely affected by recent economic challenges that were not addressed under previous relief measures.
-
-MSMEs play a critical role in Sri Lanka’s economy, contributing over 52% of Gross Domestic Product (GDP) and employing nearly 45% of the workforce. Despite their significance, many small businesses have faced increasing difficulties in recent years, including rising operational costs, reduced consumer demand, and tighter financial conditions. The Special Relief Package is designed to provide immediate support to these enterprises while improving the Bank’s capacity to manage outstanding loans effectively.
-
-Engineers called to lead Lanka’s industrial transformation at IESL NEC 2025
-
-...
-
-[Data](articles/d7453ba9.json)
-
-[Extended Data](ext_articles/d7453ba9.ext.json)
-
----
-
-### Wealth Planners of AIA Sri Lanka at the prestigious President Club Convention held in China and Mongolia
-
-*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/wealth-planners-of-aia-sri-lanka-at-the-prestigious-president-club-convention-held-in-china-and-mongolia/) · `en`
-
-AIA Sri Lanka has warmly congratulated its Wealth Planners who earned the privilege to participate in the 2025 AIA President Club Convention, held in China and Mongolia, a company news release said.
-
-“The AIA President’s Club is the most prestigious and celebrated event hosted by the AIA Group. Its significance is further elevated by the participation of top-performing winners from across 18 countries within the AIA network, bringing together excellence, diversity, and shared purpose on a global stage,” it explained.
-
-This annual international summit, organized by the AIA Group and held in various countries around the world, hosted 293 invitees this year. AIA Sri Lanka was represented by 17 participants, marking the 13th consecutive year of participation. Among them were senior management members and top-performing wealth planners who achieved exceptional sales performance.
-
-...
-
-[Data](articles/fbd32491.json)
-
-[Extended Data](ext_articles/fbd32491.ext.json)
-
----
-
-### Ceylon Chamber presents National Budget 2026 proposals to President
-
-*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/ceylon-chamber-presents-national-budget-2026-proposals-to-president-2/) · `en`
-
-The newly appointed Board of The Ceylon Chamber of Commerce, led by Chairperson Krishan Balendra, held its first official meeting with President Anura Kumara Dissanayake on Thursday. The meeting provided a platform to present the Ceylon Chamber’s priority proposals for the forthcoming National Budget 2026, while also reviewing progress on previous reform initiatives.
-
-The Ceylon Chamber’s proposals were structured around five broad themes, with specific reforms aimed at strengthening growth and competitiveness:
-
-•    Trade & Investment Facilitation – establishing a National Single Window; modernising the Customs Ordinance; setting up a dedicated Free Trade Agreement (FTA) negotiation team, advancing a private-sector-led investment zone, continuation of facilitation of import/export clearance with the BOI and a well-structured incentive scheme for both local and foreign large investments in line with other emerging markets
-
-...
-
-[Data](articles/aabb31c8.json)
-
-[Extended Data](ext_articles/aabb31c8.ext.json)
-
----
-
-### RDB Bank records stellar performance for 1st half 2025
-
-*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025-2/) · `en`
-
-Regional Development Bank (RDB) has recorded a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
-
-The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
-
-Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget. “We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
-
-...
-
-[Data](articles/c3f21cb6.json)
-
-[Extended Data](ext_articles/c3f21cb6.ext.json)
 
 ---
 
@@ -878,24 +626,6 @@ The Deputy Minister’s statement comes in the wake of Israel’s deadly strike 
 
 ### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
 
-*2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
-
-ECONOMYNEXT – Sri Lanka and the Philippines concluded the third round of political consultations in Colombo, with both countries pledging to expand cooperation across a wide range of sectors ahead of the 65th anniversary of their diplomatic relations in 2026, the island nation’s Foreign Ministry said.
-
-Foreign Secretary Aruni Ranaraja during the meeting concluded on Friday expressed hope that Manila would consider reopening its resident mission in Colombo. She also noted that Sri Lanka looks forward to working with the Philippines as it prepares to take on the ASEAN chairmanship.
-
-The talks focused on boosting cooperation in agriculture, labour, trade, fisheries, culture, defence, and education, while also addressing broader regional and multilateral issues.
-
-...
-
-[Data](articles/2fcf24c5.json)
-
-[Extended Data](ext_articles/2fcf24c5.ext.json)
-
----
-
-### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
-
 *2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-hold-3rd-political-consultations-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
 
 ECONOMYNEXT – Sri Lanka and the Philippines concluded the third round of political consultations in Colombo, with both countries pledging to expand cooperation across a wide range of sectors ahead of the 65th anniversary of their diplomatic relations in 2026, the island nation’s Foreign Ministry said.
@@ -909,20 +639,6 @@ The talks focused on boosting cooperation in agriculture, labour, trade, fisheri
 [Data](articles/58b9acca.json)
 
 [Extended Data](ext_articles/58b9acca.ext.json)
-
----
-
-### How the DUNF was born and gathered steam under Lalith & Gamini
-
-*2025-09-13 15:43:00* · [`islandlk`](http://island.lk/how-the-dunf-was-born-and-gathered-steam-under-lalith-gamini/) · `en`
-
-At this time Anuruddha Ratwatte had emerged as the “strong man” of the SLFP. As the cousin of Mrs. B he had access to her and was able to console her regarding the behaviour of her son Anura who was a captive of the anti-Sirimavo faction led by Maithripala Senanayake, who had become a favourite of the UNP. Anuruddha was living in the residence allocated to the leader of the Opposition in Colombo 7. He was the coordinator responsible for getting the signatures of the SLFP members for the impeachment motion.
-
-...
-
-[Data](articles/1b89bc7e.json)
-
-[Extended Data](ext_articles/1b89bc7e.ext.json)
 
 ---
 
@@ -1586,48 +1302,6 @@ This is the first match of the Sri Lankan team to participate in this tournament
 
 ---
 
-### Successfully Implementing Japanese Management Techniques at ETF
-
-*2025-09-13 11:52:00* · [`islandlk`](http://island.lk/successfully-implementing-japanese-management-techniques-at-etf/) · `en`
-
-LESSONS FROM MY CAREER: SYNTHESISING MANAGEMENT THEORY WITH PRACTICE – PART 21
-
-In the last episode, I related stories mainly about how I tackled politicians, and how I reached compromises with some, and refused others very tactfully. This was a new experience which I faced, and guidance was not available in textbooks. In today’s episode, I will talk about how I introduced two Japanese techniques successfully and how I had to manage the challenges that arose.
-
-...
-
-[Data](articles/1309abde.json)
-
-[Extended Data](ext_articles/1309abde.ext.json)
-
----
-
-### Ranil’s special relationship with India and the peace process
-
-*2025-09-13 11:49:00* · [`islandlk`](http://island.lk/ranils-special-relationship-with-india-and-the-peace-process/) · `en`
-
-Ranil gave a very special place towards relations with India. He obviously knew its political leaders and most of the important officials intimately. He knew a great deal about their background and not only of their politics. I was often surprised with his deep knowledge of Indian political alliances and even personal family relationships. He had visited many times in both north and south and had friends from Kerala to Bihar. He never missed, when in Delhi, paying a call on those who had become over time, his personal friends.
-
-...
-
-[Data](articles/5045e61d.json)
-
-[Extended Data](ext_articles/5045e61d.ext.json)
-
----
-
-### The Foreign Policy of the United States
-
-*2025-09-13 11:48:00* · [`islandlk`](http://island.lk/the-foreign-policy-of-the-united-states/) · `en`
-
-(A talk given at The Bandaranaike International Training Institute on 09 September, 2025)
-
-...
-
-[Data](articles/f4dd69d5.json)
-
----
-
 ### Lord
 
 *2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
@@ -2099,5 +1773,373 @@ Dr. Fernando emphasized that the primary purpose of the Act is to consolidate al
 [Data](articles/2c1f38df.json)
 
 [Extended Data](ext_articles/2c1f38df.ext.json)
+
+---
+
+### NIA court summons Pakistani official in Sri Lanka over plot to bomb US, Israeli consulates in India – report
+
+*2025-09-13 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112451/nia-court-summons-pakistani-official-in-sri-lanka-over-plot-to-bomb-us-israeli-consulates-in-india-report) · `en`
+
+The special NIA court in Poonamallee has issued a proclamation, directing a Pakistani official working in the country’s high commission in Sri Lanka to appear before it on October 15, to respond to charges of conspiring to bomb the American consulate in Chennai and Israeli consulate in Bengaluru, Indian media reported today.
+
+The official summoned has been identified as Amir Zubair Siddiqui with a permanent address in Karachi, Pakistan, and working as a visa counsellor in Colombo between 2009 and 2016, The New Indian Express and India Today reported.
+
+According to the proclamation, he faces charges under the IPC and UAPA for offences including criminal conspiracy, waging war against India and using forged or counterfeit notes. The court said he has absconded, according to the reports.
+
+...
+
+[Data](articles/2c418401.json)
+
+[Extended Data](ext_articles/2c418401.ext.json)
+
+---
+
+### Ready to hold PC election
+
+*2025-09-13 08:20:37* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභා-මැතිවරණය-පැවැත්වීමට-සූදානම්/11-418473) · `si`
+
+Elections Commissioner Janhankanayake said that the provincial council elections will be held at any time, according to the law passed by the Parliament.
+
+He was speaking to the media after participating in the "digital literate entertainment program organized by the People's Movement for a fair election for the members of the Matale District Local Authorities.
+
+"The Commission is required to hold an election. The recommendation of the provincial council bill was abolished by the Act No. 17 of 2017.
+
+The approval of the parliament. Therefore, the parliament has the key to the parliamentary delegation to the parliamentarian.
+
+◼️
+
+[Data](articles/4d6579b5.json)
+
+[Extended Data](ext_articles/4d6579b5.ext.json)
+
+---
+
+### The Bribery Committee shall be approved by the Public Finance Committee
+
+*2025-09-13 08:15:32* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-කොමිෂමේ-අයවැයට-රජයේ-මුදල්-කාරක-සභාවේ-අනුමතිය/11-418472) · `si`
+
+The Committee shall be approved for the government's finance estimate for the Bribery and Corruption Commission 2026.
+
+The approval was approved by the Committee on Government Finance when he met with Hon. Parliamentaries, Dr. Harsha de Silva.
+
+The Chairman of the Committee pointed out that the Central Bank of Sri Lanka has a financial independence to provide financial independence to the Bribery Investigation Commission more independently, as well as the Auditor General's Department. He added that these institutions can act more independently under any government outside the existing political authority.. As a result, the Committee decided to inform the Minister of Finance, Minister of Finance.
+
+The parliamentarian also pointed out that the prosecution of the Chairman, Director General of the Commission and the Members of the Committee should be corresponded to the Chairman of the Court of Appeal.
+
+...
+
+[Data](articles/1a8b8856.json)
+
+[Extended Data](ext_articles/1a8b8856.ext.json)
+
+---
+
+### Bodd is closed to the board board
+
+*2025-09-13 08:11:28* · [`adalk`](https://www.ada.lk/breaking_news/බෝඩ්-ලෑල්ලට-පමණක්-සීමා-වූ-රාජ්‍ය-ආයතන-වහනවා/11-418471) · `si`
+
+Health Minister Nalinda Jayatissa said that the government has decided to close public institutions which are limited to the board board alone.
+
+Jayathaissa said that the government has a burden to the government of some government institutions.
+
+"There is no public service from some government agencies in our country. Some government agencies serve as to arrange for. Some agencies are only to boards. Headed a decision to shut down state institutions that were limited to the people who were not serving the people. Steps will be taken to combine some institutions "
+
+Mr. Nalinda Jayatissa said this at a function to mark the foundation stone for the construction of the Balapitiya Post Office Building.
+
+(Karandeniya M.Sil Pradesh, Balapitiya S.A. de Silva and Ambalangoda M. Heramananda De Silva
+
+◼️
+
+[Data](articles/e52d1f64.json)
+
+[Extended Data](ext_articles/e52d1f64.ext.json)
+
+---
+
+### Deputy Ministers depict powers of the Gamunt Sports Regulations Act
+
+*2025-09-13 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214509) · `si`
+
+Deputy Minister of Economic Development Dr. Anil Jayantha Fernando says that the Gaming Sports Registration Act to regulate gambling sports act will be given authority.
+
+The Deputy Minister was speaking at this bill.
+
+He further stated that the Act provides authority to the Authority to issue the necessary measures to study the procedures caused by gaming sports.
+
+"All the laws are mainly powers to the Gamudulent Superintendent Act.
+
+That's not the two licenses that the authority is one of the two licenses to gambling. This is regulation. That regulatory contains everything.
+
+What gaming games are allowed for the gaming sports and the limits of the limits. Also, all the things that will be prohibited can be done under this.
+
+Therefore, if gaming games have a renewed effect on the gambling regulatory superintendent of sports regulatory superintendants, study and issue the commands.
+
+...
+
+[Data](articles/0a8a5979.json)
+
+[Extended Data](ext_articles/0a8a5979.ext.json)
+
+---
+
+### The Supreme Court launches system
+
+*2025-09-13 08:04:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-නඩු-කළමණාකරණ-පද්ධතිය-දියත්-කරයි/11-418470) · `si`
+
+Attorney-at-Law, Minister of Justice and National Integration to operate the Supreme Court Supreme Court Survey is the first step in the Supreme Court Proposal to operate the Supreme Court Supreme Court Supreme Court in the first stage of the Supreme Court. Harshana Nanayakkara was held at the participation of Colombo 12, Colombo 12, October, 80, Judge Training Institute.
+
+The Chief Justice Padman Surasena, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja, the Chief Justice Padman Survey and Supreme Court Judge Swathiraja was handling the launch of the Supreme Court Proceeding Management.
+
+The Digital Program aims to reduce the corruption irregularities of the judicial subsistence and promote services to the judiciary and the efficient services to the lawyers.
+
+As a first step, the Supreme Court is to digitize the Supreme Court, the Court of Appeal, High Court and District Magistrate Judicial and other jurisdictions.
+
+...
+
+[Data](articles/381e5923.json)
+
+[Extended Data](ext_articles/381e5923.ext.json)
+
+---
+
+### Sri Lanka welcomes UN resolution endorsing New York declaration on Palestine
+
+*2025-09-13 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112450/sri-lanka-welcomes-un-resolution-endorsing-new-york-declaration-on-palestine) · `en`
+
+Sri Lanka has welcomed the adoption by the United Nations General Assembly (UNGA) of the resolution endorsing the New York Declaration on the peaceful settlement of the Question of Palestine and the implementation of the two-state solution.
+
+In a statement, the Ministry of Foreign Affairs, Foreign Employment and Tourism expressed its sincere appreciation to Saudi Arabia and France for their leadership in advancing this important initiative.
+
+Sri Lanka reaffirmed its unwavering support for the inalienable right of the Palestinian people to statehood, in accordance with the purposes and principles of the Charter of the United Nations and the relevant UN resolutions.
+
+The United Nations General Assembly on Friday overwhelmingly voted to endorse a declaration outlining “tangible, timebound, and irreversible steps” towards a two-state solution between Israel and the Palestinians ahead of a meeting of world leaders.
+
+...
+
+[Data](articles/84c5b081.json)
+
+[Extended Data](ext_articles/84c5b081.ext.json)
+
+---
+
+### Nearly 193 people die in two boat accidents in Congo.
+
+*2025-09-13 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/224962) · `ta`
+
+International media reports that about 193 people have been killed in two other boat accidents in the Northwest Congress.
+
+Officials and media of the country have said that many have disappeared in the accident.
+
+The accidents occurred on Wednesday and Thursdays in Ecuador, about 150 kilometers.
+
+The Humanitarian Affairs Ministry of the Humanitarian Affairs Ministry said that 107 people were killed when a boat carrying about 500 passengers crashed across the Congo River in the province of Lugolela area on Thursday evening.
+
+Meanwhile, state media reports that 86 people were killed when a boat crashed in the Pasanku area of ​​the province on Wednesday. Many people have disappeared in this accident.
+
+There is no clear information about the cause of the accident and whether the rescue operations were held on Friday evening.
+
+State media reports that overweight and night journey is the cause of Wednesday's boat crash.
+
+◼️
+
+[Data](articles/906f9027.json)
+
+[Extended Data](ext_articles/906f9027.ext.json)
+
+---
+
+### Dissolution of Nepal Parliament
+
+*2025-09-13 07:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாள-பாராளுமன்றம்-கலைப்பு/50-364492) · `ta`
+
+Former Chief Justice of Nepal High Court Susila Karki has been sworn in as the country's interim prime minister after Prime Minister Sharma resigned due to the ongoing struggle in Nepal.
+
+President Ramachandra Powedel dissolved parliament yesterday under his recommendation.
+
+Accordingly, the President of the country has announced that the Nepal parliamentary election will be held on March 21 next year.. (A)
+
+◼️
+
+[Data](articles/05466561.json)
+
+[Extended Data](ext_articles/05466561.ext.json)
+
+---
+
+### Nepal’s Parliament dissolves as new PM sworn-in; polls set for March 2026
+
+*2025-09-13 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112449/nepals-parliament-dissolves-as-new-pm-sworn-in-polls-set-for-march-2026) · `en`
+
+Nepal President Ramchandra Paudel on Friday dissolved the House of Representatives at the recommendation of newly appointed interim Prime Minister Sushila Karki, and announced fresh parliamentary elections for March 05, 2026.
+
+Karki, 73, a former Chief Justice, was sworn in as Nepal’s first woman prime minister late Friday, ending days of turmoil after the KP Sharma Oli government collapsed amid violent nationwide protests. The unrest, triggered by a controversial social media ban, had forced Oli to step down earlier this week.
+
+President Paudel administered the oath of office and secrecy to Karki at Sheetal Niwas under Article 80 of the Constitution. Congratulating her, he said: “Hearty congratulations, you will succeed to save the country.”
+
+The swearing-in was attended by Nepal’s chief justice, security chiefs, senior officials, diplomats and former Prime Minister Baburam Bhattarai.
+
+...
+
+[Data](articles/9bdc61c6.json)
+
+[Extended Data](ext_articles/9bdc61c6.ext.json)
+
+---
+
+### Sri Lanka's first match faces in Asia Cup
+
+*2025-09-13 07:34:21* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලාන-තරගාවලියේ-ලංකාව-මුහුණ-දෙන-පළමු-තරගය-අද/9-418469) · `si`
+
+The first match facing the Asia Cup to face the Bangladesh team against the Bangladesh team this night. The match will start at 8 pm at Sri Lanka.
+
+Four lamps were won by four Twenty20s, who played to Bangladesh last time.
+
+Sri Lankan team leader's leading spinner is scheduled to play. Due to a disorder, he lost Twenty20 tournament with Zimbabwe.
+
+◼️
+
+[Data](articles/8517dd87.json)
+
+[Extended Data](ext_articles/8517dd87.ext.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-09-13 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112448/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+The Meteorology Department states that a few spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+Showers or thundershowers will occur in several places in Eastern and Uva provinces after 1.00 p.m.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers, the Department added.
+
+◼️
+
+[Data](articles/a57b5b58.json)
+
+[Extended Data](ext_articles/a57b5b58.ext.json)
+
+---
+
+### President Meeting the Construction Industry Department
+
+*2025-09-13 07:23:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணக்-கைத்தொழில்-துறையினருடன்-ஜனாதிபதி-சந்திப்பு/175-364491) · `ta`
+
+Preliminary discussions on 2026 budgets between the Construction Industry and the President were held at the Presidential Office yesterday (12).
+
+The discussion was held to increase the contribution to the economy from the export of construction services and related materials and electric cables.
+
+The challenges, proposals and solutions to be faced in raising this sector as export sector were examined during this time.
+
+Pointing to creating an economic environment aimed at improving the construction industry beyond government construction, President Anura Kumara Dissanayake stressed that irregularities have occurred in the past due to irregularity in the construction sector in this country.
+
+The problems faced by the Construction Department and how the government could interfere with them was also investigated.
+
+The departmental chiefs spoke to the president on the problems that are currently facing the construction sector. (A)
+
+◼️
+
+[Data](articles/19b57875.json)
+
+[Extended Data](ext_articles/19b57875.ext.json)
+
+---
+
+### Sahaspura shooter fled by Army
+
+*2025-09-13 07:21:56* · [`adalk`](https://www.ada.lk/breaking_news/සහස්පුර-වෙඩික්කරු-යුධ-හමුදාවෙන්-පළා-ගිය-සෙබලෙක්/11-418468) · `si`
+
+The Sri Jayewardenepura Police Special Task Force Special Task Force Special Task Force Sector Special Task Force has commenced regarding the crime of injuring three others at the Borella Police Division.
+
+Accordingly, a person who has been suspected of the shotgun in the unit of the unit at the time of 12.05.2011 was presented to the shot of the crime in the Damana Police Division 10 mg and a motorcycle for a motorcycle.
+
+The suspect is a 34 year old resident of Ampara, a 34 year old resident of Ampara.. Damana Police are conducting further investigations.
+
+◼️
+
+[Data](articles/301ceaa5.json)
+
+[Extended Data](ext_articles/301ceaa5.ext.json)
+
+---
+
+### England renewed reports on record reports
+
+*2025-09-13 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214506) · `si`
+
+The Host England won 146 runs in the Second Twenty20 match against South Africa.
+
+England won the match first in Manchester and scored 304 runs for the loss of 2 wickets in 20 overs.
+
+However, as the answer was only 158 runs for the loss of all wickets in 16.1 overs.
+
+This is the T20 of Twenty20 with England with the highest score.
+
+With this win, they were able to secure 3-match tournament matches 1-1.
+
+The number of runs scored in England is the highest number of runs accumulated by the International T20 and 300 runs.
+
+Earlier, India had set that report earlier 297/6 runs against Bangladesh in 2024.
+
+Zimbabwe scored 344/4 marks against the gambia in the year 2024 in the year 2024.
+
+Film Salt scored 141 runs off 60 balls with no offensive innings on behalf of England.
+
+It is the highest number of runs for England batsman gathered on T20.
+
+The centurion has passed the centuries by 39 balls, while England batsman scored as the fastest century.
+
+...
+
+[Data](articles/bff76186.json)
+
+[Extended Data](ext_articles/bff76186.ext.json)
+
+---
+
+### Interviews to recruit nurse graduates at the Nurse Management Course
+
+*2025-09-13 07:12:25* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-අනුස්ථාපන-පාඨමාලාවට-හෙද-උපාධිධාරීන්-බඳවා-ගැනීමේ-සම්මුඛ-සාකච්ඡා-දින-දෙකක්/11-418467) · `si`
+
+The interview to recruit graduates (Nurse) graduates will be held in the Ministry of Health and Mass Media. Further information is available at the official website www.health .gov.lk.
+
+◼️
+
+[Data](articles/6ade4939.json)
+
+[Extended Data](ext_articles/6ade4939.ext.json)
+
+---
+
+### Vijay Trichy campaign today
+
+*2025-09-13 07:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-திருச்சியில்-இன்று-பிரச்சாரம்/175-364490) · `ta`
+
+Tamil Nadu Victory Association President Vijay starts his tour in Trichy today. Later, he meets people in Perambalur and Ariyalur districts.
+
+In this case, the TV logo for the tour. Released yesterday. Also, the film is like Vijay in the middle of Anna and MGR. The bus was taken from Chennai to Trichy yesterday.
+
+Our journey to 'surrogate history returns: Your Vijay Na Varane' is a journey throughout Tamil Nadu. At 10.35 am on the 13th, the Trichy Gandhi Market Police Starting near the MGR statue, he said, "Go to the people '. (A)
+
+◼️
+
+[Data](articles/53d5c39b.json)
+
+[Extended Data](ext_articles/53d5c39b.ext.json)
+
+---
+
+### Construction begins the first part of the Central Expressway
+
+*2025-09-13 07:03:44* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටසේ-ඉදිකිරීම්-යළි-17දා-අරඹයි/11-418466) · `si`
+
+The government has announced that the re-resume of work from the founding part of the Central Expressway and the Central Expressway will be resumed on the 17th.
+
+◼️
+
+[Data](articles/67378178.json)
+
+[Extended Data](ext_articles/67378178.ext.json)
 
 ---

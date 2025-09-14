@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 10:20:13**
+As of **2025-09-14 10:07:46**
 
 ## Newspaper Stats
 
-*Scraped **75,822** Articles*
+*Scraped **75,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,71 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,361
 adaderanalk | 9,745
-tamilmirrorlk | 11,329
+tamilmirrorlk | 11,327
 virakesarilk | 12,352
-adaderanasinhalalk | 13,227
+adaderanasinhalalk | 13,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,660 (93.2%) of 75,822 articles have been extended.
+70,660 (93.2%) of 75,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### "Pacific Angel 2025” පුහුණු අභ්‍යාසය නිමා වෙයි
-
-*2025-09-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214547) · `si`
-
-රටවල් රැසක සහභාගිත්වයෙන් දින පහක් පුරා පැවති "Pacific Angel 2025" පුහුණු අභ්‍යාසය සාර්ථකව නිමා වී තිබේ.
-
-පසුගිය 12 වනදා කටුනායක ශ්‍රී ලංකා ගුවන් හමුදා කඳවුරේදී මෙම පුහුණු අභ්‍යාසය සාර්ථකව නිමා වූ බව ආරක්‍ෂක අමාත්‍යාංශය පවසයි.
-
-ශ්‍රී ලංකා ගුවන් හමුදාවේ හා අමෙරිකා එක්සත් ජනපද තානාපති කාර්යාලයේ සත්කාරකත්වයෙන් හා රටවල් රැසක සහභාගිත්වයෙන් පුහුණු අභ්‍යාසය දින පහක් පුරා පැවති විය.
-
-මෙම සමාප්ති උත්සවය සඳහා ආරක්ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයිය කොන්තා මහතා (විශ්‍රාමික), මෙරට අමෙරිකානු තානාපතිනි ජූලි චන්ග් මහත්මිය සහ ගුවන් හමුදාපති එයාර් මාර්ෂල් බන්දු එදිරිසිංහ මහතා මෙම සමාප්ති උත්සවය වෙත සහභාගී වන ලදි.
-
-◼️
-
-[Data](articles/b81882e5.json)
-
----
-
-### ஹோட்டல் முகாமையாளர் படுகொலை:    3 பொலிஸாருக்கு 7 வருட கடூழிய சிறை
-
-*2025-09-14 10:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-முகாமையாளர்-படுகொலை-3-பொலிஸாருக்கு-7-வருட-கடூழிய-சிறை/175-364531) · `ta`
-
-பொலன்னறுவையில் ஹோட்டல் ஒன்றின் முகாமையாளர் ஒருவரை 2004 ம் ஆண்டு தாக்கியதில் அவர் உயிரிழந்த சம்பவத்தில் கைது செய்யப்பட்ட 3 பொலிஸாருக்கு பொன்னறுவை மேல் நீதிமன்ற நீதிபதி 7 வருட கடூழிய சிறை தண்டனை வழங்கி   வெள்ளிக்கிழமை (12) தீர்ப்பளித்தார். .
-
-பொலன்னறுவை மாவட்ட போதை ஒழிப்பு பொலிஸ் பிரிவினர் கடந்த 2004ம் ஆண்டு பொலிஸ் பரிசோதகர் தலைமையில் 4 பொலிஸார் ஹோட்டல் ஒன்றில் சட்டவிரோத மதுபானம் தேடி சென்று சோதனை நடத்திய நிலையில் அந்த ஹோட்டலின் முகாமையாளருக்கும் பொலிஸாருக்கும்  ஏற்பட்ட வாய்த்தர்க்கத்தையடுத்து முகாமையாளர் மீது பொலிஸார் தாக்குதல் நடத்தியதில் அவர் உயிரிழந்துள்ளார்.
-
-இதனையடுத்து குறித்த 4 பொலிஸாரையும் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு விளக்கமறியலில் வைக்கப்பட்டு பின்னர் நீதிமன்ற பிணையில் வெளிவந்ததுடன் அவர்கள், பணி இடைநீக்கம் செய்யப்பட்டனர்.
-
-இந்த நிலையில் குறித்த வழக்கு விசாரணை பொலன்னறுவை மேல் நீதிமன்றத்தில் இடம் பெற்று வந்த நிலையில்  பொலிஸ் பரிசோதகர் வசந்த, நோய் காரணமாக உயிரிழந்துள்ளார்.
-
-...
-
-[Data](articles/0b31c39a.json)
-
----
-
-### “Pacific Angel 2025”
-
-*2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
-
-“Pacific Angel 2025” பயிற்சி திங்கட்கிழமை (08) அன்று தொடங்கிய வௌ்ளிக்“கிழமை (12) அன்று வெற்றிகரமாக நிறைவடைந்தது. இலங்கை விமானப்படை (SLAF) மற்றும் பாதுகாப்பு அமைச்சுடன் இணைந்து, இலங்கையில் உள்ள அமெரிக்க தூதரகம் கட்டுநாயக்கவில் ஏட்பாட்டில் நடைபெற்ற பயிற்சியின் நிறைவு விழா அதன் முடிவைக் குறித்தது.
-
-பாதுகாப்புச் செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தா (ஓய்வு), அமெரிக்க தூதர் அதிமேதகு ஜூலி சுங் மற்றும் விமானப்படைத் தளபதி எயார் மார்ஷல் பந்து எதிரிசிங்க ஆகியோருடன் நிறைவு விழாவில் கலந்து கொண்டார்.
-
-Pacific Angel 2025, அனர்த்த மீட்பு மற்றும் மனிதாபிமான ஒத்துழைப்பை வலுப்படுத்த இந்து-பசுபிக் பங்காளர்களை ஒன்றிணைத்தது. இந்தப் பயிற்சி, அமெரிக்க பசுபிக் படைகள், ரோயல் ஆஸ்திரேலிய விமானப்படை, ஜப்பான் விமான சுய-பாதுகாப்புப் படை, மாலத்தீவு தேசிய பாதுகாப்புப் படை மற்றும் பங்களாதேஷ் விமானப்படை உட்பட இலங்கை இராணுவம் மற்றும் கடற்படையினரின்    பங்குபற்றலுடன் நடைபெற்றது.
-
-...
-
-[Data](articles/516b6382.json)
-
----
 
 ### NDDCB handed over records of chemicals found in Midden
 
@@ -2103,5 +2051,63 @@ Foreign media reports have reported that a powerful earthquake is beyond the coa
 [Data](articles/2d990175.json)
 
 [Extended Data](ext_articles/2d990175.ext.json)
+
+---
+
+### From Opposition Stand To Government Policy: The NPP’s Reversal On PC Delimitation
+
+*2025-09-13 10:56:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-opposition-stand-to-government-policy-the-npps-reversal-on-pc-delimitation/) · `en`
+
+The trajectory of Sri Lanka’s National People’s Power (NPP) on the question of Provincial Council (PC) elections underscores how political priorities shift with the assumption of state power. Once, as the Janatha Vimukthi Peramuna (JVP), the party spearheaded the rejection of delimitation. Today, with a commanding two-thirds majority in Parliament, the NPP has recommitted to the very process it once condemned—announcing at the United Nations Human Rights Council (OHCHR) today that PC elections will only be held once a new delimitation exercise is complete.
+
+In 2017, the UNP–SLFP coalition amended the law to introduce a mixed electoral system for PCs. A Delimitation Committee led by K. Thavalingam was tasked with redrawing electoral boundaries.
+
+...
+
+[Data](articles/398a1503.json)
+
+[Extended Data](ext_articles/398a1503.ext.json)
+
+---
+
+### Arrest warrant issued for Weligama PS Chairman
+
+*2025-09-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112456/arrest-warrant-issued-for-weligama-ps-chairman) · `en`
+
+The Matara Chief Magistrate’s Court has issued a warrant for the arrest of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara.
+
+The order was issued when the case was called before Matara Chief Magistrate Chathura Dissanayake yesterday (12).
+
+The warrant follows the chairman’s failure to appear in court in a case alleging that he threatened to kill National People’s Power Pradeshiya Sabha member and Attorney-at-Law Tharaka Nanayakkara.
+
+A case has been filed against Wickramasekara under the Victims Protection Act for allegedly threatening Attorney-at-Law Nanayakkara, who contested the Weligama Pradeshiya Sabha elections representing the National People’s Power.
+
+When the case was taken up at the Matara Magistrate’s Court, the accused did not appear, said Ada Derana reporter.
+
+During the court proceedings, the accused did not appear, and a legal representative informed the court of his ill health.
+
+However, the warrant was issued due to the absence of his guarantors in court.
+
+◼️
+
+[Data](articles/6cdbfafe.json)
+
+[Extended Data](ext_articles/6cdbfafe.ext.json)
+
+---
+
+### Dialogue Across Worlds: Science, Spirituality, & The Journey Of A Book
+
+*2025-09-13 10:45:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dialogue-across-worlds-science-spirituality-the-journey-of-a-book/) · `en`
+
+About the Author: Bhante Missaka Kamalasiri, a Buddhist monk of Sri Lankan origin, has spent decades exploring the Himalayan spiritual landscape. Far beyond the role of a traveler, he has immersed himself in spiritual practice and direct experience, guided by his teacher, Ananda Maitriya Mahasthavir. Drawing inspiration from the wisdom of the Himalayas, his work bridges culture, spirituality, and human understanding, reminiscent of the contributions of Alexandra David Neel and Paul Brunton.
+
+In a conversation that meandered like the mountain trails he once walked, Bhante Missaka Kamalasiri reflected on the broader vision behind his book, Whispering Echoes of the Himalayas.
+
+...
+
+[Data](articles/d038ed67.json)
+
+[Extended Data](ext_articles/d038ed67.ext.json)
 
 ---

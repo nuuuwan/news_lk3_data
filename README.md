@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 23:20:23**
+As of **2025-09-14 22:07:48**
 
 ## Newspaper Stats
 
-*Scraped **75,944** Articles*
+*Scraped **75,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,126 +17,20 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,374
-adaderanalk | 9,769
-tamilmirrorlk | 11,361
+adaderanalk | 9,768
+tamilmirrorlk | 11,360
 virakesarilk | 12,376
-adaderanasinhalalk | 13,252
+adaderanasinhalalk | 13,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,272 (93.8%) of 75,944 articles have been extended.
+71,253 (93.8%) of 75,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### සීගිරිය කැඩපත් පවුර කුරුටු ගෑ තරුණියක් අත්අඩංගුවට
-
-*2025-09-14 23:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214573) · `si`
-
-ලෝක උරුමයක් වූ සීගිරිය කැඩපත් පවුරට හානි වන ලෙස කුරුටු ගෑ තරුණියක් සීගිරිය පොලීසිය විසින් අද (14) අත්අඩංගුවට ගෙන තිබේ.
-
-අවිස්සාවේල්ල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 21ක තරුණියක් වන ඇය තවත් කිහිප දෙනෙකු සමග සීගිරිය නැරඹීමට පැමිණි අවස්ථාවේ දී මෙම ක්‍රියාව සිදුකර ඇත.
-
-◼️
-
-[Data](articles/fcefb56f.json)
-
----
-
-### Sandener of drugs around Mirigama arrested
-
-*2025-09-14 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214572) · `si`
-
-One of the suspects were raided and arrested with drugs and weapons during a reflection conducted by Western Provincial intelligence today (14).
-
-The arrested person is the man who had the journalist and said that he was 28 years of resident of the Kalliya area.
-
-In collaboration with the officers of Pallewela Police Station, 300 grams of ice, electronic measure, toy pistol, a multiple-shaped pisses, a multiple-shaped pisses, Rs.. 46,060, three mobile phones and a tap computer was taken into custody.
-
-Police say that the value of ice drugs and heroin was Rs. 75 lakhs.
-
-It has been revealed that the drug trafficking has been carried out with a person who is hiding in Dubai connected to drug traffickers.
-
-Gemunu is a resident of Havarigama and the police have been arrested and produced before the court on several occasions in Sri Lanka before flementing the wave of drugs.
-
-◼️
-
-[Data](articles/636cfce0.json)
-
-[Extended Data](ext_articles/636cfce0.ext.json)
-
----
-
-### MP's vehicle crashed into a car
-
-*2025-09-14 21:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/எம்-பியின்-வாகனம்-காருடன்-மோதி-விபத்து-எம்-பி-படுகாயம்/73-364587) · `ta`
-
-The vehicle of the Batticaloa Tamil National Alliance (TNA) parliamentarian Gnanamuthu Srinesan has been admitted to the Madhu Teaching Hospital after a parliamentarian crashed into a car with a car in Kaluwangsikudi area this afternoon.
-
-A car near the Kaluwanchikudi Divisional Secretariat was hit by a parliamentarian's vehicle while traveling to Batticaloa at 4.00 pm.
-
-The parliamentarian who was traveling in the Batticaloa Teaching Hospital was admitted to the Ambulance Car and was admitted to the Ambulance Unit.
-
-◼️
-
-[Data](articles/566d4d67.json)
-
-[Extended Data](ext_articles/566d4d67.ext.json)
-
----
-
-### Govt urged to provide solution to shortage of Keeri Samba
-
-*2025-09-14 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112497/govt-urged-to-provide-solution-to-shortage-of-keeri-samba) · `en`
-
-Rice wholesalers in Pettah say that they are refraining from selling Keeri Samba rice because rice producers are supplying it to them at a price exceeding the control price of Rs. 260.
-
-In view of this situation, retailers are also refraining from selling Keeri Samba rice.
-
-Therefore, the United Rice Producers’ Association says it is requesting the government to remove the maximum retail price imposed on Samba and Keeri Samba rice.
-
-However, the Sri Lanka Small and Medium Scale Paddy Mill Owners’ Association is requesting that no steps be taken to remove the maximum retail price of rice as they claim that large-scale rice mill owners are trying to create an artificial shortage of rice and gain profits.
-
-Meanwhile, the National Farmers’ Union says that the government should intervene immediately and provide solutions to this issue.
-
-◼️
-
-[Data](articles/d9a6b260.json)
-
-[Extended Data](ext_articles/d9a6b260.ext.json)
-
----
-
-### 6 months to animal census
-
-*2025-09-14 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214571) · `si`
-
-The farmers around Kataragama say that they are suffering from monkeys, but the monkeys and strikes have been severely affected by the monkeys and strips.
-
-The cotton shows that the pilgrims of the sacred exaltation of monkeys and rich in the rapidly breeding devotees.
-
-A large number of people will arrive at Kataragama daily for the purpose of Ruhunu Maha Kataragama Devalaya and Kirihehehe.
-
-They are a big problem not only for their sacrifices and the remaining foods.
-
-They point out that these monkeys and fast breeding have been doubled due to the problem.
-
-During the recent past, the animals have been launched a systematic program to release these animals to Yala National Park.
-
-Moreover, hundreds of thousands of iron celebrations have been decomposed by the use of hundreds of thousands of people to use these animals.
-
-The people who live in the villages in the surrounding villages have severely affected the people who live farming.
-
-...
-
-[Data](articles/a48edc55.json)
-
-[Extended Data](ext_articles/a48edc55.ext.json)
-
----
 
 ### Corruption and fraud within the government will not be retreated in legal action - Minister Samantha Vidyaratne
 
@@ -2075,5 +1969,105 @@ The ban was lifted on Monday - but by then the protests had swelled into a mass 
 [Data](articles/9b3fff6f.json)
 
 [Extended Data](ext_articles/9b3fff6f.ext.json)
+
+---
+
+### About 3 thousand testing activities regarding rice - Consumer Affairs Authority
+
+*2025-09-14 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225035) · `ta`
+
+The Consumer Affairs Authority (CAA) has said that about 3 thousand raids have been carried out in connection with the rice this year.
+
+A variety of trials have been conducted, including the sale of high prices, hiding rice reserves and the sale of rice inappropriate for consumption.
+
+More than a thousand tests have been conducted on the sale of rice at high prices.
+
+The Consumer Affairs Authority (CAA) has said that if a case is filed against a private trader who sells rice at a higher price, he will be fined Rs.
+
+At the same time, if a private company proves guilty, the court may be fined up to Rs 5 lakh to Rs 50 lakh.
+
+Moreover, if the court is proven guilty for the crime of rice storage, the relevant items can be confiscated under the Authority Act.
+
+In the second offense, the Consumer Affairs Authority (CAA) has said that the court can impose twice a fine fines and sentenced the person up to one year.
+
+◼️
+
+[Data](articles/0fa681bd.json)
+
+[Extended Data](ext_articles/0fa681bd.ext.json)
+
+---
+
+### Special Committee of the Ministry of Justice visited Geneva this week
+
+*2025-09-14 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
+
+With the United Nations Human Rights Council's review session, a special committee of the Justice Ministry will visit Geneva this week to participate.
+
+◼️
+
+[Data](articles/29d60f07.json)
+
+[Extended Data](ext_articles/29d60f07.ext.json)
+
+---
+
+### Through Tin Tin’s Eyes: The Calamity Bishop Rodrigo Is Visiting On The Church
+
+*2025-09-14 11:04:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/through-tin-tins-eyes-the-calamity-bishop-rodrigo-is-visiting-on-the-church/) · `en`
+
+When the decision was taken at schools take-over to keep St. John’s private, one of the key considerations was to be a witness for Jesus Christ and to serve society. Bishop Dushantha Rodrigo seems to have lost that vision in decapitating Fr. Daniel Jeyaruban by dismissal after blessing him only the previous night.
+
+Worse, after suspending him without pay for over a year, the Church has demanded that he pay the rent and utility bills from when he was suspended without ever having told him at the time of suspension over a year ago. And the Church expected him to move immediately when his wife was in hospital with a prematurely born infant weighing under 3 lbs in a room full of occupied incubators and she had to come regularly from her ward to feed her. I believe that the prematurity was precipitated by the social stigma of his suspension and the indignation from the charge that he told people he was suspended when people asked him why he was not coming to school.
+
+...
+
+[Data](articles/e57f9ad3.json)
+
+[Extended Data](ext_articles/e57f9ad3.ext.json)
+
+---
+
+### Foreigners who danced in Nanuoya
+
+*2025-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225037) · `ta`
+
+Indian tourists (13) sang the songs on Saturday at the Nanuoya Railway Station and danced to the dance.
+
+Indian tourists from Colombo to Badulla to Badulla. Then they danced without bored and enjoyed the time.
+
+A video of a group of Indian foreigners dancing is now going viral on social media.
+
+◼️
+
+[Data](articles/7556367e.json)
+
+[Extended Data](ext_articles/7556367e.ext.json)
+
+---
+
+### 8.5 million kushlizers arrested for Katunayake
+
+*2025-09-14 10:49:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-8-5ක-කුෂ්-මත්ද්‍රව්‍ය-කටුනායකින්-අල්ලයි/11-418481) · `si`
+
+A large number of narcotics, Katunayake Airport, was illegally brought to Sri Lanka's official police dog, 'Randy' was illegally arrested by the Narcotics Bureau of Narcotics.
+
+He is a 33 year old photographer, who is in Chennai, Chennai.
+
+He will be able to leave Sri Lankan airport on 09/13 to 09.45 am - SriLankan Airlines UL.
+
+There, with his luggage SriLankan Airlines (SCAN Test) testing the scanning machines (SCAN Test) testing, there is a close work in the near future
+
+The official dog named 'Randy' has been signaled that the license bag has been reduced and a stock of drugs.
+
+The police department 1603 '' Randy "is now a 'Labrador", which has made a number of drug raids, and is the police constable of 91517 as his guardian and handler.
+
+According to the Indian national, when the Indian national was arrested and inspected, and 542 grams of "Kush" drugs were made in his travel bag.
+
+...
+
+[Data](articles/eb795d47.json)
+
+[Extended Data](ext_articles/eb795d47.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 19:05:23**
+As of **2025-09-14 18:55:14**
 
 ## Newspaper Stats
 
-*Scraped **75,925** Articles*
+*Scraped **75,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,49 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,370
 adaderanalk | 9,765
-tamilmirrorlk | 11,359
+tamilmirrorlk | 11,358
 virakesarilk | 12,372
-adaderanasinhalalk | 13,247
+adaderanasinhalalk | 13,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,095 (93.6%) of 75,925 articles have been extended.
+71,095 (93.6%) of 75,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### පාර්ලිමේන්තු මන්ත්‍රී ඥානමුත්තු රිය අනතුරකට ලක්වෙයි
-
-*2025-09-14 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214568) · `si`
-
-ඉලංකෙයි තමිල් අරසු පක්ෂයේ (ITAK) මඩකලපුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ඥානමුත්තු ශ්‍රීනේසන් මහතා රිය අනතුරකින් තුවාල ලබා ඇත.
-
-මන්ත්‍රීවරයා අද (14) අම්පාර ප්‍රදේශයේ පැවති එම පක්ෂයේ පක්ෂ රැස්වීමක් සඳහා සහභාගි වී නැවතත් මඩකළපු බලා පැමිණෙමින් සිටියදී මෙම අනතුරට මුහුණ දී ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
-
-ඔහු ගමන් ගත‍් රථය කලවංචිකුඩි ප්‍රදේශයේ තවත් මෝටර් රථයක ගැටී මෙම අනතුර සිදුව ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/0f859e24.json)
-
----
-
-### பீர் குடித்தால கொசுவுக்கு பிடிக்குமாம்
-
-*2025-09-14 18:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/பீர்-குடித்தால-கொசுவுக்கு-பிடிக்குமாம்/53-364571) · `ta`
-
-பீர் குடிக்கும் மனிதர்களின் வியர்வை வாசனைக்கு கொசுக்கள் அதிகம் ஈர்க்கப்படுவதாக Radboud University Medical Centre நடத்திய ஆய்வில் தகவல்;
-
-இதனால் பீர் குடித்தவர்களை முதல் 12 மணிநேரத்திற்கு கொசுக்கள் தேடி தேடி வந்து கடிக்கும் வாய்ப்பு உள்ளதாக ஆராய்ச்சியாளர்கள் கூறுகின்றனர்
-
-◼️
-
-[Data](articles/8133b0e9.json)
-
----
 
 ### Ex-World Boxing Champion Ricky Hatton passes away
 
@@ -2081,5 +2051,43 @@ Pacific Angel 2025. The training was held with the participation of the Sri Lank
 [Data](articles/516b6382.json)
 
 [Extended Data](ext_articles/516b6382.ext.json)
+
+---
+
+### Plan to test remote buses!
+
+*2025-09-14 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225024) · `ta`
+
+The government is planning to make basic quality testing before all the distant buses start operating.
+
+Initially, it is planned to be implemented under the supervision of the National Transport Commission, focusing on the Bestian Mawatha and the Maumbura Multimedal Transport Base in Colombo.
+
+It has also been reported that no long -distance tour buses will be recognized without this quality test.
+
+Buses traveling over 100 kilometers must obtain a qualifying certificate 48 hours before starting their movement.
+
+The Department of Motor Transport is currently taking steps to publish the necessary steps through a circular.
+
+When this process is extended throughout the country, the Motor Transport Department examines vehicle repairs, conducting related inspections and issuing a qualifying certificate.
+
+◼️
+
+[Data](articles/fb3bf2b9.json)
+
+[Extended Data](ext_articles/fb3bf2b9.ext.json)
+
+---
+
+### NDDCB handed over records of chemicals found in Midden
+
+*2025-09-14 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214546) · `si`
+
+The National Dangerous Drugs Control Board has handed over the record of containers that contain chemicals used to produce ice to produce ice.
+
+◼️
+
+[Data](articles/08e555ab.json)
+
+[Extended Data](ext_articles/08e555ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 19:36:57**
+As of **2025-09-14 18:55:14**
 
 ## Newspaper Stats
 
-*Scraped **75,929** Articles*
+*Scraped **75,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,106 +17,20 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,370
-adaderanalk | 9,766
-tamilmirrorlk | 11,360
-virakesarilk | 12,374
-adaderanasinhalalk | 13,247
+adaderanalk | 9,765
+tamilmirrorlk | 11,358
+virakesarilk | 12,372
+adaderanasinhalalk | 13,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,130 (93.7%) of 75,929 articles have been extended.
+71,095 (93.6%) of 75,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### முறிந்த எலும்புகளை மூன்றே நிமிடத்தில் ஒட்ட வைக்கும் பசை கண்டுபிடிப்பு
-
-*2025-09-14 19:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முறிந்த-எலும்புகளை-மூன்றே-நிமிடத்தில்-ஒட்ட-வைக்கும்-பசை-கண்டுபிடிப்பு/50-364572) · `ta`
-
-முறிந்த எலும்புகளை மூன்றே நிமிடத்தில் ஒட்ட வைக்கும் பசையை உருவாக்கி உள்ளதாக சீனாவை சேர்ந்த விஞ்ஞானிகள் தெரிவித்துள்ளனர்.
-
-இன்றைய நவீன மருத்துவ துறையில் ஒருவருக்கு எலும்பு முறிவு ஏற்பட்டால் அதன் தன்மையை பொறுத்து மருத்துவர்கள் சிகிச்சை வழங்குவது உண்டு. சில நேரங்களில் அறுவை சிகிச்சை மூலம் முறிந்த எலும்புகளை சேர்க்க/கூட்ட உலோகத்தை பயன்படுத்துவது உண்டு. எலும்பு கூடிய பிறகு பொருத்தப்பட்ட உலோகத்தை மீண்டும் அறுவை சிகிச்சை மூலம் அகற்றுவது உண்டு. சிலருக்கு அந்த உலோகம் உடலில் உள்ள எலும்போடு அப்படியே இருப்பதும் உண்டு.
-
-இந்த சூழலில் இதற்கு மாற்றாக எலும்புகளை ஒட்ட வைக்கும் பசைகளை சீனாவை சேர்ந்த விஞ்ஞானிகள் உருவாக்கி உள்ளதாக தகவல் வெளியாகி உள்ளது. சீனாவின் கிழக்கு பகுதியில் உள்ள ஜெஜியாங் மாகாணத்தை சேர்ந்த மருத்துவர்கள் இதை உருவாக்கி உள்ளனர். சிப்பிகள் நீருக்கடியில் சில இடங்களில் உறுதியாக ஒட்டிக்கொண்டிருப்பதை கவனித்த பிறகு இந்த எலும்பு பசையை உருவாக்கும் யோசனையை பெற்றதாக எலும்பியல் அறுவை சிகிச்சை மருத்துவ நிபுணர் லின் சியான்ஃபெங் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/199d7210.json)
-
----
-
-### கார் விபத்தில் சிக்கிய நாடாளுமன்ற உறுப்பினர் ஞானமுத்து ஸ்ரீநேசன்
-
-*2025-09-14 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225082) · `ta`
-
-இலங்கை தமிழ் அரசு கட்சியின் (ITAK) மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர் ஞானமுத்து ஸ்ரீநேசன் இன்று (14) இடம்பெற்ற கார் விபத்தில் காயமடைந்துள்ளார்.
-
-அம்பாறை பகுதியில் நடைபெற்ற கட்சி கூட்டத்தில் கலந்து கொண்டு, அவர் மட்டக்களப்பிற்குத் திரும்பிக் கொண்டிருந்த வேளையில், அவரது பயண வாகனம் களுவாஞ்சிகுடி பகுதியில் மற்றொரு வாகனத்துடன் மோதியதில் இந்த விபத்து நிகழ்ந்தது.
-
-விபத்தில் காயமடைந்த நாடாளுமன்ற உறுப்பினர் உடனடியாக மட்டக்களப்பு போதனா மருத்துவமனைக்கு கொண்டு செல்லப்பட்டு அனுமதிக்கப்பட்டுள்ளார். தற்போது அவர் மருத்துவர்களின் கண்காணிப்பில் சிகிச்சை பெற்று வருவதாக தெரிவிக்கப்படுகிறது.
-
-இந்நிலையில், சம்பவம் தொடர்பில் களுவாஞ்சிகுடி காவல்துறை விசாரணைகளை ஆரம்பித்துள்ளது. விபத்து எவ்வாறு ஏற்பட்டது என்பது குறித்து மேலதிக தகவல்கள் இதுவரை வெளியிடப்படவில்லை.
-
-◼️
-
-[Data](articles/36f32167.json)
-
----
-
-### முன்னாள் உலக குத்துச்சண்டை சாம்பியன் ரிக்கி ஹேட்டன் காலமானார்
-
-*2025-09-14 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225081) · `ta`
-
-முன்னாள் உலக குத்துச்சண்டை சாம்பியன் ரிக்கி ஹேட்டன் இன்று 14ஆம் திகதி ஞாயிற்றுக்கிழமை தனது வீட்டில் காலமானார்.
-
-இறக்கும் போது 42 வயதாக இருந்த ரிக்கி ஹேட்டன், தனது 15 ஆண்டுகால தொழில்முறை குத்துச்சண்டை வாழ்க்கையில் பல லைட்-வெல்டர்வெயிட் மற்றும் வெல்டர்வெயிட் உலக சாம்பியன்ஷிப்களை வென்றுள்ளார்.
-
-அதில் தனித்துவமானது என்னவென்றால், அவர் அந்த போட்டிகளில் 32 போட்டிகளில் நாக் அவுட் வெற்றிகளைப் பதிவு செய்துள்ளார்.
-
-ரிக்கி ஹேட்டன் கடைசியாக 2012 இல் ஒரு குத்துச்சண்டை போட்டியில் பங்கேற்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/c9dd6db3.json)
-
----
-
-### MP Gnanamal suffers an accident
-
-*2025-09-14 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214568) · `si`
-
-Mr. Gnanamuttu Sivawan, Mr. Gnanamuttu Srinane, was injured in an accident.
-
-The MP was in charge of the party today (14) and returned to Batticaloa and returned to Batticaloa.
-
-It is reported that the accident had occurred in the Kalawanchikudi vehicle.
-
-◼️
-
-[Data](articles/0f859e24.json)
-
-[Extended Data](ext_articles/0f859e24.ext.json)
-
----
-
-### Mosquito like beer drinking
-
-*2025-09-14 18:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/பீர்-குடித்தால-கொசுவுக்கு-பிடிக்குமாம்/53-364571) · `ta`
-
-A study conducted by Radbound University Medical Center that mosquitoes are more attracted to the sweat smell of beer drinkers;
-
-Researchers say that mosquitoes are likely to get bite for the first 12 hours of beer drinkers
-
-◼️
-
-[Data](articles/8133b0e9.json)
-
-[Extended Data](ext_articles/8133b0e9.ext.json)
-
----
 
 ### Ex-World Boxing Champion Ricky Hatton passes away
 
@@ -139,22 +53,6 @@ Ricky Hatton was the last boxing competition in 2012.
 [Data](articles/9ecdbb88.json)
 
 [Extended Data](ext_articles/9ecdbb88.ext.json)
-
----
-
-### Parliamentarian Gnanamuththu Srineshan injured in an accident
-
-*2025-09-14 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112495/parliamentarian-gnanamuththu-srineshan-injured-in-an-accident) · `en`
-
-Illankai Tamil Arasu Kadchi (ITAK) Batticaloa District Member of Parliament Gnanamuththu Srineshan has sustained injuries in an accident.
-
-Accordingly, he has been admitted to the Batticaloa Teaching Hospital.
-
-He met with the accident in Kaluvanchikudy while returning to Batticaloa in his vehicle after attending a political party meeting.
-
-◼️
-
-[Data](articles/aeda1b35.json)
 
 ---
 
@@ -2061,5 +1959,135 @@ Secretary Defense Air Vice Marshal Resources (Pension Marshal Sudha), Sri Lanka 
 [Data](articles/b81882e5.json)
 
 [Extended Data](ext_articles/b81882e5.ext.json)
+
+---
+
+### Hotel Manager Massacre: 3 Police for 7 years
+
+*2025-09-14 10:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-முகாமையாளர்-படுகொலை-3-பொலிஸாருக்கு-7-வருட-கடூழிய-சிறை/175-364531) · `ta`
+
+Ponnaruwa High Court judge sentenced three policemen to a 7 -year -old jail on Friday (12). .
+
+The Polonnaruwa District Narcotics Police Division, led by the Inspector of Police in 2004, raided a hotel in a hotel and searched for illegal liquor.
+
+Subsequently, the four policemen were arrested and produced in court, remanded and later released on bail and they were suspended.
+
+Police Inspector Vasantha has died of the disease as the case is being heard in the Polonnaruwa High Court.
+
+Following this, the other three policemen reunited in January 2025 and one of them was transferred to the Batticaloa Police Superintendent's Office and two other police stations in other districts.
+
+When the case was taken up in the Supreme Court on Friday (12), three policemen and three judges were sentenced to seven years rigorous imprisonment after witnesses and evidence were found guilty.
+
+Subsequently, the three were taken to the Polonnaruwa Prison.
+
+◼️
+
+[Data](articles/0b31c39a.json)
+
+[Extended Data](ext_articles/0b31c39a.ext.json)
+
+---
+
+### The renovation work of the Colombo - Maradana Railway Station begins tomorrow
+
+*2025-09-14 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225027) · `ta`
+
+The renovation work of the Colombo - Maradana Railway Station will commence on the 15th of September.
+
+Maradana is considered the second largest railway station in Colombo. Accordingly, it is one of the oldest railway stations in the country.
+
+Was first built of wood in 1889. It carried out activities on the Kandy and southern routes.
+
+Due to the difficulties of activities at the Colombo Fort Railway Station, the relevant operations are said to have been transferred to the Maradana railway station.
+
+It is reported that a permanent building was opened on July 12, 1893.
+
+Accordingly, the current Maradana Railway Station was opened on November 9, 1908.
+
+It is expected that the passenger facilities will be upgraded and the infrastructure facilities will be modernized while protecting the heritage of the railway station.
+
+◼️
+
+[Data](articles/70ed93e4.json)
+
+[Extended Data](ext_articles/70ed93e4.ext.json)
+
+---
+
+### Health Minister announces launch of 100 Community Health Centres  this year
+
+*2025-09-14 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112472/health-minister-announces-launch-of-100-community-health-centres-this-year) · `en`
+
+Health Minister Nalinda Jayatissa has announced that a series of community health centres will soon be launched to provide early diagnosis, treatment, and follow-up care, as well as referrals to hospitals for further treatment. These centres aim to bring healthcare services closer to the public.
+
+Accordingly, starting from September 26, ten health centres will be opened as part of a pilot project across five districts, Minister Nalinda stated.
+
+He shared these plans while participating in the “Aarogya” mobile wellness programme held in the Eheliyagoda Divisional Secretariat Division of Ratnapura District.
+
+He added that during this year, foundations will be laid for 100 new health centres, and over the next three years, 1000 wellness centres are expected to cover the population.
+
+Highlighting the current challenge of non-communicable diseases (NCDs), the Minister said that the Aarogya wellness centres aim to protect the public by providing regular treatments.
+
+...
+
+[Data](articles/3a76cc8e.json)
+
+[Extended Data](ext_articles/3a76cc8e.ext.json)
+
+---
+
+### “Pacific Angel ௨௦௨௫”
+
+*2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
+
+The "Pacific Angel 2025" training began on Monday (08) and successfully ended on the “East (12) (12th). The closing ceremony of the training held at the US Embassy in Sri Lanka, Katunayake, in partnership with the Sri Lanka Air Force (SLAF) and the Ministry of Defense.
+
+Defense Secretary Air Vice Marshal Sampath (Retired), US Ambassador Julie Sung and Air Force Commander Air Marshal Ball Edizinga attended the function.
+
+Pacific Angel 2025. The training was held with the participation of the Sri Lankan Army and the Navy, including the US Pacific forces, the Royal Australian Air Force, the Japanese Air Self-Security Force, the Maldives National Security Force and the Bangladesh Air Force.
+
+...
+
+[Data](articles/516b6382.json)
+
+[Extended Data](ext_articles/516b6382.ext.json)
+
+---
+
+### Plan to test remote buses!
+
+*2025-09-14 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225024) · `ta`
+
+The government is planning to make basic quality testing before all the distant buses start operating.
+
+Initially, it is planned to be implemented under the supervision of the National Transport Commission, focusing on the Bestian Mawatha and the Maumbura Multimedal Transport Base in Colombo.
+
+It has also been reported that no long -distance tour buses will be recognized without this quality test.
+
+Buses traveling over 100 kilometers must obtain a qualifying certificate 48 hours before starting their movement.
+
+The Department of Motor Transport is currently taking steps to publish the necessary steps through a circular.
+
+When this process is extended throughout the country, the Motor Transport Department examines vehicle repairs, conducting related inspections and issuing a qualifying certificate.
+
+◼️
+
+[Data](articles/fb3bf2b9.json)
+
+[Extended Data](ext_articles/fb3bf2b9.ext.json)
+
+---
+
+### NDDCB handed over records of chemicals found in Midden
+
+*2025-09-14 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214546) · `si`
+
+The National Dangerous Drugs Control Board has handed over the record of containers that contain chemicals used to produce ice to produce ice.
+
+◼️
+
+[Data](articles/08e555ab.json)
+
+[Extended Data](ext_articles/08e555ab.ext.json)
 
 ---

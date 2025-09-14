@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 00:36:35**
+As of **2025-09-14 23:38:21**
 
 ## Newspaper Stats
 
-*Scraped **75,946** Articles*
+*Scraped **75,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,17 @@ adalk | 7,374
 adaderanalk | 9,770
 tamilmirrorlk | 11,361
 virakesarilk | 12,376
-adaderanasinhalalk | 13,253
+adaderanasinhalalk | 13,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,298 (93.9%) of 75,946 articles have been extended.
+71,282 (93.9%) of 75,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### India beat Pakistan
-
-*2025-09-14 23:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214574) · `si`
-
-India beat Pakistani, defeated the Pakistan won the Ven.
-
-Batting first, Pakistan won only 127 runs in the 20 overs.
-
-Chasing a target of 128 runs, the Indian team scored 131 runs in the final and scored 131 runs in the final.
-
-The Indian team has survived both of the matches played with this winter.
-
-◼️
-
-[Data](articles/eabaf1db.json)
-
-[Extended Data](ext_articles/eabaf1db.ext.json)
-
----
 
 ### Sigiriya mirror walls arrest
 
@@ -83,8 +63,6 @@ Firefighter chief Javier Romero said that firefighters pulled four people from t
 ◼️
 
 [Data](articles/128ee55e.json)
-
-[Extended Data](ext_articles/128ee55e.ext.json)
 
 ---
 
@@ -2069,5 +2047,31 @@ Nature is raising the waves of history and teaching lessons to the future. The l
 [Data](articles/b2bc6822.json)
 
 [Extended Data](ext_articles/b2bc6822.ext.json)
+
+---
+
+### Ven. 2 out of 20 chemical samples obtained from the land of the Middeniya area confirms the use of ice
+
+*2025-09-14 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214550) · `si`
+
+It has been revealed that 17 out of the 20 chemical samples obtained from the Middeniya area, 17 Ice drugs containing chemicals.
+
+Investigations carried out by the Danarakara Pharmaceutical Board of Control and the Board of Control has been revealed.
+
+The Western Criminal Division of the Western Criminal Division was found in the Middeniya area on September 6.
+
+According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
+
+These factors have been revealed under the direction of the Director General of the Western North Criminal Division.
+
+The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
+
+Accordingly, the National Dangerous Drugs Control Board has been handed over to the police last Friday.
+
+◼️
+
+[Data](articles/bcaff0d0.json)
+
+[Extended Data](ext_articles/bcaff0d0.ext.json)
 
 ---

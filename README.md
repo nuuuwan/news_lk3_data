@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 10:07:46**
+As of **2025-09-14 11:06:10**
 
 ## Newspaper Stats
 
-*Scraped **75,819** Articles*
+*Scraped **75,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,217 @@ economynextcom | 4,595
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,361
+adalk | 7,362
 adaderanalk | 9,745
-tamilmirrorlk | 11,327
+tamilmirrorlk | 11,334
 virakesarilk | 12,352
-adaderanasinhalalk | 13,226
+adaderanasinhalalk | 13,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,660 (93.2%) of 75,819 articles have been extended.
+70,709 (93.2%) of 75,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### உரிமங்கள் இல்லாத இரண்டு வாகனங்கள் சிக்கின: இருவர் கைது
+
+*2025-09-14 10:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உரிமங்கள்-இல்லாத-இரண்டு-வாகனங்கள்-சிக்கின-இருவர்-கைது/76-364537) · `ta`
+
+உரிமங்கள் இல்லாமல் நாட்டிற்கு இறக்குமதி செய்யப்பட்ட இரண்டு மோட்டார் வாகனங்களுடன் இரண்டு சந்தேக நபர்களை கைது செய்வதில் கொழும்பு மத்திய குற்றப் புலனாய்வுப் பணியகம் வெற்றி பெற்றுள்ளது.
+
+கொழும்பு மத்திய குற்றப் புலனாய்வுப் பணியகத்தின் அதிகாரிகள் குழு, மெனிக்ஹின்ன காவல் பிரிவு மற்றும் வத்தேகம காவல் பிரிவில் 13.09.2025 அன்று காலை இரண்டு சோதனைகளை மேற்கொண்டனர். உரிமங்கள் இல்லாமல் வெளிநாடுகளில் இருந்து சட்டவிரோதமாக நாட்டிற்கு இறக்குமதி செய்யப்பட்ட இரண்டு ஜீப்களுடன் இரண்டு சந்தேக நபர்களைக் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 38 மற்றும் 58 வயதுடைய மெனிக்ஹின்ன மற்றும் வத்தேகம பகுதிகளில் வசிப்பவர்கள்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 13.09.2025 அன்று தெல்தெனிய நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு 15.09.2025 வரை விளக்கமறியலில் வைக்கப்பட்டனர். கொழும்பில் உள்ள மத்திய குற்றப் புலனாய்வுப் பணியகத்தால் மேலதிக விசாரணைகள் நடத்தப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/2d920d3b.json)
+
+---
+
+### காதலியின் முகத்தை பார்த்ததும் வானத்தை நோக்கி சுட்ட காதலன்
+
+*2025-09-14 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியின்-முகத்தை-பார்த்ததும்-வானத்தை-நோக்கி-சுட்ட-காதலன்/175-364536) · `ta`
+
+தனது பிரிந்த காதலியின் மீது துப்பாக்கிச் சூடு நடத்தச் சென்ற காதலன், அவரது முகத்தை பார்த்து பரிதாபப்பட்டு, வானத்தை நோக்கி துப்பாக்கியால் சுட்டுவிட்டு தப்பி சென்ற சம்பவமொன்று கோவிந்தபுரம் பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+இந்த சம்பவம், கோவிந்துபுர பொலிஸ்  பிரிவுக்குட்பட்ட புத்தம ரிதிகஹவத்தே பகுதியில், கடந்த 11 ஆம் திகதி காலை இடம்பெற்றுள்ளது.
+
+புத்தம ரிதிகஹவத்தயைச் சேர்ந்த 24 வயது பெண், அதே கிராமத்தைச் சேர்ந்த 29 வயது இளைஞனுடன் உறவில் இருந்ததாகவும், இருவரும் சுமார் ஒரு வருடத்திற்கு முன்பு பிரிந்து விட்டதாகவும் கோவிந்தபுரம் பொலிஸ் தெரிவித்துள்ளது.
+
+அந்த பெண், தற்போது மொனராகலை நகரில் உள்ள ஒரு ஆடைத் தொழிற்சாலையில் பணிபுரிகிறார். அவர் வேறொரு இளைஞனுடன் உறவில் இருப்பதாக கேள்விப்பட்ட அவரது முன்னாள் காதலன், அப்பெண்ணின் மீது துப்பாக்கிச் சூடு நடத்த திட்டமிட்டார்.
+
+அந்த பெண், வீதியைக் கடந்து ஆடைத் தொழிற்சாலையில் பேருந்தை பிடிக்க தனது வீட்டிலிருந்து வந்து கொண்டிருந்த போது, ​​அவளை சுட முயன்றார். அவரது முகத்தை பார்த்து பரிதாபப்பட்டு, பின்னர் வானத்தை நோக்கி துப்பாக்கியால் சுட்டுவிட்டு தப்பி சென்றார்.
+
+...
+
+[Data](articles/1e42405a.json)
+
+---
+
+### 80 மில்லியன் மதிப்புள்ள ’’குஷ்’’ பறிமுதல்
+
+*2025-09-14 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-மில்லியன்-மதிப்புள்ள-குஷ்-பறிமுதல்/175-364535) · `ta`
+
+ரூ.85.42 மில்லியன் மதிப்புள்ள "குஷ்" என்ற போதை பொருளை சட்டவிரோதமாக நாட்டிற்கு கொண்டு வந்த ஒரு வெளிநாட்டு பயணியை சனிக்கிழமை (13) அன்று கட்டுநாயக்க சர்வதேச  விமான நிலையத்தின் போக்குவரத்து முனையத்தில் காத்திருந்தபோது, "ராண்டி" என்ற அதிகாரப்பூர்வ பொலிஸ்  நாயின் உதவியுடன் விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகள் குழுவால் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட நபர் இந்தியாவின் சென்னையில் வசிக்கும் 33 வயது புகைப்படக் கலைஞர்
+
+அவர் இலங்கை ஏர்லைன்ஸ் விமானம் UL-403 மூலம் கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளார், மேலும் இலங்கை ஏர்லைன்ஸ் விமானம் UL-139 இந்தியாவின் மதுரைக்கு புறப்படும்வரும் வரை விமான நிலைய போக்குவரத்து முனையத்தில் காத்திருந்தார்.
+
+இலங்கை ஏர்லைன்ஸ் அதிகாரிகள் அவரது பொருட்களை ஸ்கேன் செய்தபோது, அதில் சந்தேகத்திற்கிடமான ஒன்றைக் கண்டனர், அருகில் பணியில் இருந்த "ராண்டி" என்ற பொலிஸ் நாய் பொருட்களை அகற்றி, அதில் போதைப்பொருள் பதுக்கி வைத்திருப்பதை சமிக்ஞை செய்தது.
+
+...
+
+[Data](articles/bcad58bd.json)
+
+---
+
+### වසරේ ගතවූ කාලය තුළ සහල් සම්බන්ධ වැටලීම් 3,000කට ආසන්න වෙයි
+
+*2025-09-14 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214549) · `si`
+
+මෙම වසරේදී මේ දක්වා සහල් සම්බන්ධ මුළු වැටලීම් ප්‍රමාණය 3,000කට ආසන්න ප්‍රමාණයක් සිදුකර ඇතැයි පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+
+එම අධිකාරිය පැවසුවේ වැඩි මිලට සහල් අලෙවි කිරීම, සහල් තොග සඟවා තැබීම, පාරිභෝජනයට නුසුදුසු සහල් අලෙවි කිරීම් ඇතුළු සහල් සම්බන්ධ විවිධ ප්‍රමාණයේ වැටලීම් 3,000ක් මේ වන විට සිදුකර ඇති බවය.
+
+එමෙන්ම වැඩි මිලට සහල් විකිණීම් සම්බන්ධ වැටලීම් දහසකට අධික ප්‍රමාණයක් සිදුකර ඇති බවද පැවසූ එම අධිකාරිය පැවසුවේ ඒ මගින් පුද්ගලයින් 900කට අධික ප්‍රමාණයකට අධිකරණය හමුවේ නඩු පැවරීමටද කටයුතු කළ බවය.
+
+පාරිභෝගික අධිකාරිය පැවසුවේ සහල් අලෙවියේදී වැඩි මිලට අලෙවි කරන තනි පුද්ගල ව්‍යාපාරිකයෙකුට එරෙහිව නඩු පැවරීමේදී ඔහු වරදකරු වුවහොත් රුපියල් ලක්ෂයේ සිට රුපියල් ලක්ෂ 5 දක්වා දඩ මුදලක් හෝ මාස 5ක සිර දඬුවමක්ද නියම කළ හැකි බවත් නැතහොත් එම දඩ මුදල හෝ සිර දඬුවම යන දෙකම නියම කිරීමටද හැකියාවක් ඇති බවය.
+
+...
+
+[Data](articles/2eba3648.json)
+
+---
+
+### Sri Lanka advanced in T20 Ratings
+
+*2025-09-14 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214548) · `si`
+
+The International Cricket Council (ICC) has come forward to 7th in the latest T20 team ratings.
+
+The Sri Lankan team has come forward with the victory over Bangladesh yesterday in the Asian Cup yesterday.
+
+Accordingly, Pakistan has been ranked 8th in the latest T20 team ratings.
+
+◼️
+
+[Data](articles/f7484ed6.json)
+
+[Extended Data](ext_articles/f7484ed6.ext.json)
+
+---
+
+### பாவாடையை அதுக்கே மேல தூக்கிய மாணவியை விருந்தாக்கிய கொடூரம்
+
+*2025-09-14 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாவாடையை-அதுக்கே-மேல-தூக்கிய-மாணவியை-விருந்தாக்கிய-கொடூரம்/175-364534) · `ta`
+
+கன்னியாகுமரியின் கடற்கரை மணலில் காலடி பதித்து, கனவுகளைத் துரத்திய இளம்பெண் ஹேமா (பெயர் மாற்றப்பட்டுள்ளது). பதினேழு வயதில், சினிமாவில் நடிகையாக வேண்டும் என்ற பேராசை அவளது இதயத்தில் தீ மூட்டியிருந்தது.
+
+அழகான முகமும், நடனத்தில் திறமையும் கொண்ட ஹேமா, கனவுகளை நனவாக்கும் பயணத்தில் ஒரு நடனப் பள்ளியில் காலடி எடுத்து வைத்தாள். அங்கே அவளுக்கு ஆசானாக அறிமுகமானவன் ராஜேஷ்.
+
+ராஜேஷ், கன்னியாகுமரி மாவட்டத்தில் பிரபலமான நடன ஆசிரியர். அவனது பள்ளியில் மாணவர்கள் நடனம் கற்று, மேடைகளில் பரிசுகளை அள்ளுவது வழக்கம்.
+
+ஹேமாவின் ஆர்வத்தையும், சினிமா கனவையும் அறிந்த ராஜேஷ், அவளது மனதில் நம்பிக்கையின் விதைகளை விதைத்தான். "எனக்கு சினிமாவில் நிறைய துணை இயக்குனர்கள் தெரியும். அவர்கள் மனது வைத்தால், நீ நட்சத்திரமாகலாம்," என்று ஆசை வார்த்தைகளால் அவளை மயக்கினான்.
+
+ஒரு மாலைப் பொழுதில், ராஜேஷ் ஹேமாவிடம் ஒரு வாய்ப்பைப் பற்றி பேசினான். "நாளை துணை இயக்குனர்களைச் சந்திக்க வேண்டும். அவர்கள் உன்னைப் பார்த்தால், சினிமாவில் இடம் கிடைக்கும்," என்று உற்சாகமூட்டினான்.
+
+...
+
+[Data](articles/814a7f93.json)
+
+---
+
+### சப
+
+*2025-09-14 10:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-முறையின்-கீழ்-மாகாண-சபைத்-தேர்தல்/175-364533) · `ta`
+
+It is known that the government is considering conducting a provincial council election under the old system to overcome the impediment caused by disagreements in the border process.
+
+Government sources say that the new border process complex is long, so that the next election is under consideration for the next election to the Provincial Council Election Act.
+
+"We are considering conducting it for the last time under the old system, which will give it time to complete the boundary process, and then hold elections under the Provincial Council Act 2017," the report said.
+
+Pressure on the government is increasing to hold provincial council election without further delay. India's main committee urges the government to hold elections in order to make the devolution of power into meaning, and the pressure on the government is increasing
+
+...
+
+[Data](articles/a833b58b.json)
+
+[Extended Data](ext_articles/a833b58b.ext.json)
+
+---
+
+### "PACIFICL 2025" training exercise concludes
+
+*2025-09-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214547) · `si`
+
+"PACIFICAL ANGEL 2025" has been successfully completed with the participation of many countries.
+
+The training exercise has been successfully completed at the Sri Lanka Air Force Base of the Sri Lanka Air Force Base in Katunayake.
+
+The training exercise was held in a number of countries with the participation of the Sri Lanka Air Force and the United States Embassy.
+
+Secretary Defense Air Vice Marshal Resources (Pension Marshal Sudha), Sri Lanka and Air Force Commander of the Air Force, Air Marshal Bandha (PSC Air Marshal Bandu Edirisinghe) was attended by the Defense Secretary (Pension) for the event.
+
+◼️
+
+[Data](articles/b81882e5.json)
+
+[Extended Data](ext_articles/b81882e5.ext.json)
+
+---
+
+### Hotel Manager Massacre: 3 Police for 7 years
+
+*2025-09-14 10:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-முகாமையாளர்-படுகொலை-3-பொலிஸாருக்கு-7-வருட-கடூழிய-சிறை/175-364531) · `ta`
+
+Ponnaruwa High Court judge sentenced three policemen to a 7 -year -old jail on Friday (12). .
+
+The Polonnaruwa District Narcotics Police Division, led by the Inspector of Police in 2004, raided a hotel in a hotel and searched for illegal liquor.
+
+Subsequently, the four policemen were arrested and produced in court, remanded and later released on bail and they were suspended.
+
+Police Inspector Vasantha has died of the disease as the case is being heard in the Polonnaruwa High Court.
+
+Following this, the other three policemen reunited in January 2025 and one of them was transferred to the Batticaloa Police Superintendent's Office and two other police stations in other districts.
+
+When the case was taken up in the Supreme Court on Friday (12), three policemen and three judges were sentenced to seven years rigorous imprisonment after witnesses and evidence were found guilty.
+
+Subsequently, the three were taken to the Polonnaruwa Prison.
+
+◼️
+
+[Data](articles/0b31c39a.json)
+
+[Extended Data](ext_articles/0b31c39a.ext.json)
+
+---
+
+### “Pacific Angel ௨௦௨௫”
+
+*2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
+
+The "Pacific Angel 2025" training began on Monday (08) and successfully ended on the “East (12) (12th). The closing ceremony of the training held at the US Embassy in Sri Lanka, Katunayake, in partnership with the Sri Lanka Air Force (SLAF) and the Ministry of Defense.
+
+Defense Secretary Air Vice Marshal Sampath (Retired), US Ambassador Julie Sung and Air Force Commander Air Marshal Ball Edizinga attended the function.
+
+Pacific Angel 2025. The training was held with the participation of the Sri Lankan Army and the Navy, including the US Pacific forces, the Royal Australian Air Force, the Japanese Air Self-Security Force, the Maldives National Security Force and the Bangladesh Air Force.
+
+...
+
+[Data](articles/516b6382.json)
+
+[Extended Data](ext_articles/516b6382.ext.json)
+
+---
 
 ### NDDCB handed over records of chemicals found in Midden
 
@@ -56,6 +252,26 @@ The National Dangerous Drugs Control Board (NDDCB) has submitted its report to t
 
 [Data](articles/c9e4bd0b.json)
 
+[Extended Data](ext_articles/c9e4bd0b.ext.json)
+
+---
+
+### පෙම්වතියට වෙඩි තැබීමට ගිය පෙම්වතා පෙම්වතියගේ මුහුණ දැක අහසට වෙඩි තියලා
+
+*2025-09-14 09:15:44* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතියට-වෙඩි-තැබීමට-ගිය-පෙම්වතා-පෙම්වතියගේ-මුහුණ-දැක-අහසට-වෙඩි-තියලා/11-418480) · `si`
+
+ගොවිඳුපුර පොලිස් වසමට අයත් බුද්ධම රිටිගහවත්ත ප්‍රදේශයේදී විරසක වූ සිය පෙම්වතියට (11) වෙනිදා උදෑසන වෙඩි තැබීමට ගිය පෙම්වතා පෙම්වතියගේ මුහුණ දැක අනුකම්පා සිතී කැප්ප තුවක්කුවකින් අහසට වෙඩි තබා පළා ගොස් ඇතැයි ගොවිඳුපුර පොලීසිය පවසයි.
+
+බුද්ධම රිටිගහවත්ත පදිංචි 24 හැවිරිදි තරුණිය ගම් ප්‍රදේශයේම පදිංචි 29 හැවිරිදි තරුණයෙකු සමඟ ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇති අතර මීට වසරකට පමණ ඉහතදී දෙදෙනා විරසකවී තිබේ.
+
+ඇය දැනට මොනරාගල නගරයේ ඇඟලුම් කම්හලක සේවය කරයි. ඇය වෙනත් තරුණයෙකු සමඟ ප්‍රේම සම්බන්ධතාවයක් පවත්වාගෙන යන බවට ආරංචිවී පැරණි පෙම්වතා,ඇය ඇඟලුම් කම්හලේ බස් රථයට ඒමට නිවසේ සිට අතුරු මාර්ගයක් ඔස්සේ පැමිණෙමින් සිටියදී පාර හරස් කොට ඇයට වෙඩි තැබීමට උත්සාහ කර ඇයගේ මුහුණ  දැක අනුකම්පා සිතී පසුව අහසට වෙඩි තබා පළා ගොස් ඇත.
+
+ඔහු අත්අඩංගුවට ගැනීමට ගොවිඳුපුර වැඩ බලන පොලිස් ස්ථානාධිපති ඩී.එම් කරුණා ශාන්ත මහතා පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/c35a7783.json)
+
 ---
 
 ### Fiery accident leaves 15 dead in Mexico’s Yucatan Peninsula
@@ -73,6 +289,8 @@ The accident, which occurred on the highway between Merida and Campeche, killed 
 ◼️
 
 [Data](articles/3656ac0c.json)
+
+[Extended Data](ext_articles/3656ac0c.ext.json)
 
 ---
 
@@ -145,6 +363,8 @@ The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally i
 ...
 
 [Data](articles/64842b95.json)
+
+[Extended Data](ext_articles/64842b95.ext.json)
 
 ---
 
@@ -255,6 +475,8 @@ DMT is currently taking steps to issue the necessary guidelines for this through
 ...
 
 [Data](articles/f87da8ac.json)
+
+[Extended Data](ext_articles/f87da8ac.ext.json)
 
 ---
 
@@ -1905,209 +2127,5 @@ In the last episode, I related stories mainly about how I tackled politicians, a
 [Data](articles/1309abde.json)
 
 [Extended Data](ext_articles/1309abde.ext.json)
-
----
-
-### Ranil’s special relationship with India and the peace process
-
-*2025-09-13 11:49:00* · [`islandlk`](http://island.lk/ranils-special-relationship-with-india-and-the-peace-process/) · `en`
-
-Ranil gave a very special place towards relations with India. He obviously knew its political leaders and most of the important officials intimately. He knew a great deal about their background and not only of their politics. I was often surprised with his deep knowledge of Indian political alliances and even personal family relationships. He had visited many times in both north and south and had friends from Kerala to Bihar. He never missed, when in Delhi, paying a call on those who had become over time, his personal friends.
-
-...
-
-[Data](articles/5045e61d.json)
-
-[Extended Data](ext_articles/5045e61d.ext.json)
-
----
-
-### The Foreign Policy of the United States
-
-*2025-09-13 11:48:00* · [`islandlk`](http://island.lk/the-foreign-policy-of-the-united-states/) · `en`
-
-(A talk given at The Bandaranaike International Training Institute on 09 September, 2025)
-
-...
-
-[Data](articles/f4dd69d5.json)
-
-[Extended Data](ext_articles/f4dd69d5.ext.json)
-
----
-
-### Lord
-
-*2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
-
-Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
-
-The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
-
-When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
-
-◼️
-
-[Data](articles/18a6ffad.json)
-
-[Extended Data](ext_articles/18a6ffad.ext.json)
-
----
-
-### 3.45 மில்லியன் ரூபா பெறுமதியான வெளிநாட்டு சிகரட்டுகளுடன் வர்த்தகர் கட்டுநாயக்கவில் கைது!
-
-*2025-09-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224975) · `ta`
-
-A businessman with illegal cigarettes has been arrested at the Katunayake Bandaranaike International Airport this morning by the Airport Police Narcotics Unit.
-
-During the raid carried out by the suspect, 115 cigarettes, including 23 thousand foreign cigarettes, were seized from the passenger.
-
-◼️
-
-[Data](articles/1e9f4482.json)
-
-[Extended Data](ext_articles/1e9f4482.ext.json)
-
----
-
-### Seventeen collapses in Kolaging collapses
-
-*2025-09-13 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214515) · `si`
-
-There are seven people in the event of a mine of an illegal arragment mine in Colombia, Colombia.
-
-The group is stuck in the mines from Thursday.
-
-They are stating that they will remain deeply in a deep level of the earth.
-
-However, the foreign reports indicate that the assistance of the authorities are not inadequate and that they are doing so.
-
-These crys in the Coka area is constantly occurs, a mine explosive ringter.
-
-◼️
-
-[Data](articles/6a1b1b2d.json)
-
-[Extended Data](ext_articles/6a1b1b2d.ext.json)
-
----
-
-### SriLankan Airlines draws India travellers with Axis Bank link
-
-*2025-09-13 11:30:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-draws-india-travellers-with-axis-bank-link-240436/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines is partnering with Axis Bank in India, to offer airfare deals and other benefits to the bank’s 15 million-strong customer base.
-
-Axis Bank credit and debit cardholders will enjoy an exclusive 10% discount on both Business Class and Economy Class fares when booking through the SriLankan Airlines website.
-
-The discount applies to SriLankan Airlines flights from India to Colombo, and onward via Colombo to all destinations in the Far East, the Middle East and the Maldives, as well as to Frankfurt and Paris.
-
-Customers travelling to Melbourne will receive an additional 5kg of checked baggage allowance.
-
-SriLankan Airlines plans to offer more deals later on, it said in a statement.
-
-“This partnership is also remarkable as it marks the first time ever that SriLankan Airlines has collaborated with a private Indian bank,” Fawzan Fareid, Regional Manager India, Bangladesh and Nepal of SriLankan Airlines, said.
-
-...
-
-[Data](articles/ae2afec4.json)
-
-[Extended Data](ext_articles/ae2afec4.ext.json)
-
----
-
-### Sri Lanka August tourism fall 8.2-pct to $258.9 mn despite rise in arrival
-
-*2025-09-13 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-august-tourism-fall-8-2-pct-to-258-9-mn-despite-rise-in-arrival-240442/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism in August 2025 fell 8.2 percent from a year ago to 258.9 million US dollars, the central bank said, quoting tourism promotion authority data.
-
-The revenue from tourism, which accounts for nearly 3 percent of the island nation’s economy, fell for the second straight month, despite an increase in the monthly tourist arrivals in both months, the data showed.
-
-In July, the revenue fell 3 percent to 318.5 million US dollars compared to the same month in the previous year’s 328.3 million US dollars.
-
-The tourist arrivals saw a jump of 20.4 percent to 198,235 in August and a rise of 6.6 percent to 200,244 in July, the official data showed.
-
-However, the revenue for the first eight months up to end-August has seen a rise of 5.7 percent to 2.29 billion US dollars from a year ago.
-
-Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar revenue and a 3 million arrival target this year.
-
-...
-
-[Data](articles/a1e1cd4c.json)
-
-[Extended Data](ext_articles/a1e1cd4c.ext.json)
-
----
-
-### A powerful earthquake in Russia
-
-*2025-09-13 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214514) · `si`
-
-Foreign media reports have reported that a powerful earthquake is beyond the coast of Kamchatka Beach in Russia.
-
-◼️
-
-[Data](articles/2d990175.json)
-
-[Extended Data](ext_articles/2d990175.ext.json)
-
----
-
-### From Opposition Stand To Government Policy: The NPP’s Reversal On PC Delimitation
-
-*2025-09-13 10:56:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-opposition-stand-to-government-policy-the-npps-reversal-on-pc-delimitation/) · `en`
-
-The trajectory of Sri Lanka’s National People’s Power (NPP) on the question of Provincial Council (PC) elections underscores how political priorities shift with the assumption of state power. Once, as the Janatha Vimukthi Peramuna (JVP), the party spearheaded the rejection of delimitation. Today, with a commanding two-thirds majority in Parliament, the NPP has recommitted to the very process it once condemned—announcing at the United Nations Human Rights Council (OHCHR) today that PC elections will only be held once a new delimitation exercise is complete.
-
-In 2017, the UNP–SLFP coalition amended the law to introduce a mixed electoral system for PCs. A Delimitation Committee led by K. Thavalingam was tasked with redrawing electoral boundaries.
-
-...
-
-[Data](articles/398a1503.json)
-
-[Extended Data](ext_articles/398a1503.ext.json)
-
----
-
-### Arrest warrant issued for Weligama PS Chairman
-
-*2025-09-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112456/arrest-warrant-issued-for-weligama-ps-chairman) · `en`
-
-The Matara Chief Magistrate’s Court has issued a warrant for the arrest of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara.
-
-The order was issued when the case was called before Matara Chief Magistrate Chathura Dissanayake yesterday (12).
-
-The warrant follows the chairman’s failure to appear in court in a case alleging that he threatened to kill National People’s Power Pradeshiya Sabha member and Attorney-at-Law Tharaka Nanayakkara.
-
-A case has been filed against Wickramasekara under the Victims Protection Act for allegedly threatening Attorney-at-Law Nanayakkara, who contested the Weligama Pradeshiya Sabha elections representing the National People’s Power.
-
-When the case was taken up at the Matara Magistrate’s Court, the accused did not appear, said Ada Derana reporter.
-
-During the court proceedings, the accused did not appear, and a legal representative informed the court of his ill health.
-
-However, the warrant was issued due to the absence of his guarantors in court.
-
-◼️
-
-[Data](articles/6cdbfafe.json)
-
-[Extended Data](ext_articles/6cdbfafe.ext.json)
-
----
-
-### Dialogue Across Worlds: Science, Spirituality, & The Journey Of A Book
-
-*2025-09-13 10:45:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dialogue-across-worlds-science-spirituality-the-journey-of-a-book/) · `en`
-
-About the Author: Bhante Missaka Kamalasiri, a Buddhist monk of Sri Lankan origin, has spent decades exploring the Himalayan spiritual landscape. Far beyond the role of a traveler, he has immersed himself in spiritual practice and direct experience, guided by his teacher, Ananda Maitriya Mahasthavir. Drawing inspiration from the wisdom of the Himalayas, his work bridges culture, spirituality, and human understanding, reminiscent of the contributions of Alexandra David Neel and Paul Brunton.
-
-In a conversation that meandered like the mountain trails he once walked, Bhante Missaka Kamalasiri reflected on the broader vision behind his book, Whispering Echoes of the Himalayas.
-
-...
-
-[Data](articles/d038ed67.json)
-
-[Extended Data](ext_articles/d038ed67.ext.json)
 
 ---

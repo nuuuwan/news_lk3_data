@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 23:38:21**
+As of **2025-09-14 23:56:50**
 
 ## Newspaper Stats
 
-*Scraped **75,945** Articles*
+*Scraped **75,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 7,374
 adaderanalk | 9,770
 tamilmirrorlk | 11,361
 virakesarilk | 12,376
-adaderanasinhalalk | 13,252
+adaderanasinhalalk | 13,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,282 (93.9%) of 75,945 articles have been extended.
+71,295 (93.9%) of 75,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### පාකිස්තානය පරදා ඉන්දියාවට පහසු ජයක්
+
+*2025-09-14 23:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214574) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අද (14) රාත්‍රියේ පැවති තරගයෙන් පාකිස්තාන කණ්ඩායම පරාජය කර කඩුලු 7ක පහසු ජයක් ලැබීමට ඉන්දීය කණ්ඩායම සමත් විය.
+
+පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තානයට පන්දුවාර 20 තුළදී කඩුලු 9ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 127ක් පමණි.
+
+ඒ අනුව ලකුණු 128ක පහසු ඉලක්කයක් හඹාගිය ඉන්දීය කණ්ඩායම කඩුලු 3ක් පමණක් දැවී තිබියදී තරගයේ 16(15.5) පන්දුවාරයේදී ලකුණු 131ක් රැස්කර ජයග්‍රහණය සම්පූර්ණ කරගත්තේය.
+
+මෙම ජයත් සමග ක්‍රීඩාකළ තරග දෙකම ජයගත් ඉන්දීය කණ්ඩායම තවදුරටත් ප්‍රසාද ලකුණු සටහනේ පෙරමුණ රැකගෙන සිටියි.
+
+◼️
+
+[Data](articles/eabaf1db.json)
+
+---
 
 ### Sigiriya mirror walls arrest
 
@@ -63,6 +81,8 @@ Firefighter chief Javier Romero said that firefighters pulled four people from t
 ◼️
 
 [Data](articles/128ee55e.json)
+
+[Extended Data](ext_articles/128ee55e.ext.json)
 
 ---
 
@@ -2047,31 +2067,5 @@ Nature is raising the waves of history and teaching lessons to the future. The l
 [Data](articles/b2bc6822.json)
 
 [Extended Data](ext_articles/b2bc6822.ext.json)
-
----
-
-### Ven. 2 out of 20 chemical samples obtained from the land of the Middeniya area confirms the use of ice
-
-*2025-09-14 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214550) · `si`
-
-It has been revealed that 17 out of the 20 chemical samples obtained from the Middeniya area, 17 Ice drugs containing chemicals.
-
-Investigations carried out by the Danarakara Pharmaceutical Board of Control and the Board of Control has been revealed.
-
-The Western Criminal Division of the Western Criminal Division was found in the Middeniya area on September 6.
-
-According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
-
-These factors have been revealed under the direction of the Director General of the Western North Criminal Division.
-
-The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
-
-Accordingly, the National Dangerous Drugs Control Board has been handed over to the police last Friday.
-
-◼️
-
-[Data](articles/bcaff0d0.json)
-
-[Extended Data](ext_articles/bcaff0d0.ext.json)
 
 ---

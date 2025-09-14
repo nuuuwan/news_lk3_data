@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 10:07:46**
+As of **2025-09-14 09:12:15**
 
 ## Newspaper Stats
 
-*Scraped **75,819** Articles*
+*Scraped **75,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,135 +16,35 @@ economynextcom | 4,595
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,361
-adaderanalk | 9,745
+adalk | 7,359
+adaderanalk | 9,741
 tamilmirrorlk | 11,327
 virakesarilk | 12,352
-adaderanasinhalalk | 13,226
+adaderanasinhalalk | 13,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,660 (93.2%) of 75,819 articles have been extended.
+70,639 (93.2%) of 75,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### NDDCB handed over records of chemicals found in Midden
-
-*2025-09-14 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214546) · `si`
-
-The National Dangerous Drugs Control Board has handed over the record of containers that contain chemicals used to produce ice to produce ice.
-
-◼️
-
-[Data](articles/08e555ab.json)
-
-[Extended Data](ext_articles/08e555ab.ext.json)
-
----
-
-### NDDCB hands over report on suspected ‘ICE’ drug chemicals to police
-
-*2025-09-14 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112471/nddcb-hands-over-report-on-suspected-ice-drug-chemicals-to-police) · `en`
-
-The National Dangerous Drugs Control Board (NDDCB) has submitted its report to the Police on the contents of the container discovered in Middeniya, which allegedly contained chemicals used in the production of ‘ICE’ drugs.
-
-◼️
-
-[Data](articles/c9e4bd0b.json)
-
----
-
-### Fiery accident leaves 15 dead in Mexico’s Yucatan Peninsula
-
-*2025-09-14 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112470/fiery-accident-leaves-15-dead-in-mexicos-yucatan-peninsula) · `en`
-
-A fiery accident in Mexico’s Yucatan peninsula on Saturday killed 15 people, according to the state’s secretary of public security.
-
-The accident, which occurred on the highway between Merida and Campeche, killed passengers traveling in a trailer, a car and a taxi.
-
-“We express our solidarity and support to the affected families during this painful moment,” Yucatan’s Governor Joaquin Diaz Mena said in a statement on X.
-
-“Since the first report, emergency, security, and health services are attending to the situation to provide immediate assistance,” he said.
-
-◼️
-
-[Data](articles/3656ac0c.json)
-
----
-
-### Sri Lanka records from wishes
-
-*2025-09-14 08:56:44* · [`adalk`](https://www.ada.lk/sports/පැතුම්ගෙන්-ශ්‍රී-ලංකා-වාර්තාවක්/9-418479) · `si`
-
-Sri Lankan batsmen recorded as the batsman who crossed the lowest score of Twenty20 runs
-
-Joined between. Wishes' Twenty20 points passed by 2000 innings by 68. Earlier to that report before
-
-The winning records were also the third batsman who completed the Twenty20 runs for Sri Lanka after Kusal Perera and Kusal Mendis.
-
-◼️
-
-[Data](articles/b254b28c.json)
-
-[Extended Data](ext_articles/b254b28c.ext.json)
-
----
-
-### Two persons arrested with imported cars without licenses
-
-*2025-09-14 08:40:38* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-ආනයනය-කළ-මෝටර්-රථ-දෙකක්-සමග-දෙන්නෙක්-අල්ලයි/11-418478) · `si`
-
-The Colombo Central Criminal Investigation Bureau has been able to arrest two suspects with two imported cars.
-
-Two suspects have been arrested in the Menikhinna Police Division in the Menikhinna Police Division on 23.09.2012 and two raids from foreign inquiry.
-
-The suspects are residents of the Menikhinna and Wattegama areas, 38 and 58 years old.
-
-The suspects were produced before the Teldeniya Magistrate's Court on 23.05.2012 after 15.09.2015. The Colombo Central Criminal Investigation Bureau is conducting further investigations.
-
-◼️
-
-[Data](articles/7eb74d0f.json)
-
-[Extended Data](ext_articles/7eb74d0f.ext.json)
-
----
-
-### Award for the name of musician Ilayaraja
+### ’இசைஞானி இளையராஜா பெயரில் விருது’
 
 *2025-09-14 08:28:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசைஞானி-இளையராஜா-பெயரில்-விருது/175-364528) · `ta`
 
-In the music industry, Chief Minister Stalin has announced that the award will be awarded in the name of musician Ilayaraja, on behalf of the Government of Tamil Nadu, on behalf of the Government of Tamil Nadu.
+இசைத்துறையில், ஆர்வத்துடன் சிறந்த இசையைப் படைக்கின்ற இசைக்கலைஞர்களை ஊக்குவிக்கின்ற விதமாக தமிழ்நாடு அரசின் சார்பில், இனி ஆண்டுதோறும் ‘இசைஞானி இளையராஜா’ பெயரில் விருது வழங்கப்படும் என்று முதல்வர் ஸ்டாலின் அறிவித்துள்ளார்.
 
-The music of musician Ilayaraja, which began in 1975, is completing 50 years this year.
+கடந்த 1975 ஆம் ஆண்டு தொடங்கிய இசைஞானி இளையராஜாவின் இசைப்பயணம் இந்த ஆண்டுடன் 50 ஆண்டுகளை நிறைவு செய்கிறது.
 
-This was followed by a large -scale commemoration ceremony on behalf of the Government of Tamil Nadu, the musician Ilayaraja, who was celebrating the golden ceremony in the film industry at the Nehru Internal Stadium, headed by Chief Minister MK Stalin.
+இதனையொட்டி நேற்று முதல்வர் மு.க.ஸ்டாலின் தலைமையில் சென்னை, நேரு உள்விளையாட்டு அரங்கில் திரையுலகில் பொன் விழா காணும் இசைஞானி இளையராஜாவுக்கு தமிழக அரசின் சார்பில் மிகப்பெரிய அளவில் பாராட்டு விழா நடைபெற்றது.
 
 ◼️
 
 [Data](articles/d7a6f43d.json)
-
-[Extended Data](ext_articles/d7a6f43d.ext.json)
-
----
-
-### Foreign Minister Vijitha Herath concludes visit to Geneva, reaffirms Sri Lanka’s commitment to domestic reconciliation
-
-*2025-09-14 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112469/foreign-minister-vijitha-herath-concludes-visit-to-geneva-reaffirms-sri-lankas-commitment-to-domestic-reconciliation) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath concluded his visit to Geneva where he addressed the 60th Session of the United Nations Human Rights Council (UNHRC) on September 8, 2025, delivering the Government statement during the Interactive Dialogue on Sri Lanka.
-
-Minister Herath reiterated Sri Lanka’s commitment to achieving reconciliation through domestic processes and outlining the measures already taken by the Government for transformation to advance the rights and well-being of all Sri Lankans, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally imposed mechanisms.
-
-...
-
-[Data](articles/64842b95.json)
 
 ---
 
@@ -235,26 +135,6 @@ The final rating is subject to the receipt of final documentation conforming to 
 [Data](articles/7ffa088c.json)
 
 [Extended Data](ext_articles/7ffa088c.ext.json)
-
----
-
-### DMT to launch quality inspections for long-distance buses from next month
-
-*2025-09-14 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112468/dmt-to-launch-quality-inspections-for-long-distance-buses-from-next-month) · `en`
-
-The government has planned to launch an initiative requiring all long-distance buses to undergo a basic quality inspection before commencing operations. The new regulation is set to take effect from the beginning of next month.
-
-In the initial phase, the inspections will be carried out under the supervision of the National Transport Commission (NTC), focusing on the Bastian Mawatha and Makumbura Multimodal Centre (MMC), the Department of Motor Traffic (DMT) said.
-
-The requirement will also extend to long-distance excursion buses, with authorities confirming that no tour bus will be approved without this inspection.
-
-As a part of this initiative, buses traveling more than 100 kilometers must obtain a certificate of eligibility 48 hours prior to departure.
-
-DMT is currently taking steps to issue the necessary guidelines for this through a circular.
-
-...
-
-[Data](articles/f87da8ac.json)
 
 ---
 
@@ -706,27 +586,21 @@ It is said that if the patient's safety and life -threatening act, it will affec
 
 ---
 
-### The government is expected to strengthen local entrepreneurs and meet economic growth targets
+### දේශීය ව්‍යවසායකයින් ශක්තිමත් කර ආර්ථික වර්ධන ඉලක්ක සපුරා ගැනීම රජයේ අපේක්ෂාවයි
 
 *2025-09-13 20:07:46* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-ව්‍යවසායකයින්-ශක්තිමත්-කර-ආර්ථික-වර්ධන-ඉලක්ක-සපුරා-ගැනීම-රජයේ-අපේක්ෂාවයි/11-418477) · `si`
 
-President Anura Kumara Dissanayake said the government hopes to contribute to the provision of rules and regulation of the infrastructure needed to do business.
+ව්‍යාපාර කිරීමට අවශ්‍ය යටිතල පහසුකම් සැපයීම, නීති රීති සම්පාදනය සහ නියාමනය රජය විසින් සිදු කරනු ලබන බවත්, දේශීය ව්‍යාපාරිකයන්ට සහ ව්‍යවසායකයන්ට වෙළෙඳපොළ අවස්ථා පුළුල් කර දෙමින් ඔවුන් රටේ ආර්ථික වර්ධනයට උපරිමයෙන් දායක කර ගැනීම රජයේ අපේක්ෂාව බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
 
-The President made this observation at the Presidential Secretariat with a 2026 pre-budget discussion with the Delegation of the Youth Entrepreneurs (COYLE).
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ  තරුණ ලාංකික ව්‍යවසායකයන්ගේ මණ්ඩලයේ (COYLE) නියෝජිතයන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවකට  ජනාධිපති කාර්යාලයේදී එක් වෙමිනි.
 
-The departments were made in writing of the challenges and problems that have arisen in the field.
+ක්ෂේත්‍රයේ කටයුතු කරගෙන යාමේදී මතුව ඇති අභියෝග සහ ගැටලු පිළිබඳව මෙහිදී එම නියෝජිතයෝ ලිඛිතව ජනාධිපතිවරයා දැනුවත් කළ අතර, ඊට අදාළ යෝජනාද ඉදිරිපත් කළහ.
 
-Special attention has been paid to the fact that special attention to the state of this year's budget to lift the state.
+රාජ්‍යය නූතනත්වයට ඔසවා තැබීම කෙරෙහි මෙවර අයවැයෙන් විශේෂ අවධානයක් යොමු කර තිබෙන බව පැවසූ ජනාධිපති අනුර කුමාර දිසානායක මහතා, එහිදී රාජ්‍ය සේවයට අවශ්‍ය නවීන තාක්ෂණය සහ පහසුකම් ලබා දීම මෙන්ම ඩිජිටල්කරණ වැඩපිළිවෙළ කෙරෙහිද විශේෂ අවධානයක් යොමුව තිබෙන බව සඳහන් කළේය.
 
-2026 The President also evaluated the government's commitment to create a country that was strongly confirmed by the law, corruption and frauds that had been asserted to the Budget for the budget.
-
-And they also presented a souvenir to President Anura Kumara Dissanayake to mark this occasion.
-
-◼️
+...
 
 [Data](articles/10315e1f.json)
-
-[Extended Data](ext_articles/10315e1f.ext.json)
 
 ---
 
@@ -2109,5 +1983,151 @@ In a conversation that meandered like the mountain trails he once walked, Bhante
 [Data](articles/d038ed67.json)
 
 [Extended Data](ext_articles/d038ed67.ext.json)
+
+---
+
+### Warrants to arrest the Chairman of Weligama Pradeshiya Sabha
+
+*2025-09-13 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214512) · `si`
+
+Matara Chief Magistrate Court has issued warrants to arrest the Chairman of Weligama Pradeshiya Sabha Lasantha Wickremasekara.
+
+The order has been issued when the case was taken up before Matara Chief Magistrate Chathuri Chathuriya yesterday (12).
+
+The order has been issued as a case of death in the National JHD MP's Counterfection Tharaka Nanayakkara threatened death.
+
+At the time of the last local government election, the Weligama Pradeshiya Sabha has filed a case under the Protection of the Victims to the Safety Protection Act.
+
+The Chairman Lasantha Wickremasekara, Chairman Lasigama Pradeshiya Sabha was not appearing in the Matara Magistrate's Court.
+
+However, this warrant has been issued as he did not appear before the court.
+
+◼️
+
+[Data](articles/ecdd725d.json)
+
+[Extended Data](ext_articles/ecdd725d.ext.json)
+
+---
+
+### Conspiracy to attack US and Israeli embassies in India
+
+*2025-09-13 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/224969) · `ta`
+
+The National Intelligence Agency (NIA) in Poonthamalli, India, Chennai, has sent a special court invitation to a duty officer at the Pakistani embassy in Sri Lanka.
+
+The Pakistani embassy has summoned the embassy official to accuse the US embassy in Chennai and the Israeli embassy in Bangalore.
+
+The officer, who is currently working at the Pakistani embassy in Sri Lanka, has been ordered to appear in court on October 15.
+
+Pakistani official has been identified as Amir Zubair Siddiqui.
+
+The media reports that he hails from Karachi, Pakistan and is currently working as a visa advisor at the Pakistani High Commission in Colombo.
+
+It is said that the person Mohammed Sakir Hussain from Sri Lanka has sent a man to India to carry out conspiracies within India.
+
+As part of this conspiracy, high -quality counterfeit notes have been circulated to disrupt the Indian economy.
+
+...
+
+[Data](articles/34b2f76c.json)
+
+[Extended Data](ext_articles/34b2f76c.ext.json)
+
+---
+
+### Double murder; Arrests
+
+*2025-09-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224967) · `ta`
+
+A man suspected of being a gunman in the Sahaspura Sirisara High Ground in the Borella Police Division has been arrested by the police in Damana area on Friday (12).
+
+The suspect has been arrested with 10 grams of 710 milligrams of ice and a motorcycle.
+
+Two persons were shot dead on 07.08.2025 at the Sahaspura Sirisara Ground, which belongs to the Borella Police Division.
+
+Initial investigations by the police revealed that the suspect was formerly served in the Sri Lankan army and fled the army in 2015.
+
+◼️
+
+[Data](articles/8f27f43e.json)
+
+[Extended Data](ext_articles/8f27f43e.ext.json)
+
+---
+
+### Former chairman of the Wattegama Urban Council and his close friend arrested
+
+*2025-09-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/224972) · `ta`
+
+The former chairman of the Wattegama Urban Council and his close friend have been arrested by the police today (13) with two jeep vehicles imported.
+
+Ravindra Kumara, former chairman of the 58 -year -old Vathekama Urban Council and his close friend Lakshitha Manoj, a 38 -year -old businessman, have been arrested, police said.
+
+◼️
+
+[Data](articles/f007d979.json)
+
+[Extended Data](ext_articles/f007d979.ext.json)
+
+---
+
+### Bus crash
+
+*2025-09-13 10:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தின-மீது-மோதி-பஸ்-விபத்து/175-364494) · `ta`
+
+A bus crashed on Saturday morning (13) in the Moratuwa - Ravadawatte area, police said.
+
+The accident occurred when the bus crashed into a tree and then turned to the left of the road with an iron rod in front.
+
+Police are conducting further investigations as no one has been injured in the accident.. . Remble
+
+◼️
+
+[Data](articles/31b353e9.json)
+
+[Extended Data](ext_articles/31b353e9.ext.json)
+
+---
+
+### Magnitude 7.4 earthquake strikes Russia’s Kamchatka, tsunami warning issued
+
+*2025-09-13 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112455/magnitude-74-earthquake-strikes-russias-kamchatka-tsunami-warning-issued) · `en`
+
+A 7.4-magnitude earthquake struck off the coast of Kamchatka in Russia’s Far East on Saturday, the United States Geological Survey (USGS) said.
+
+The quake hit 111 kilometres (69 miles) east of the Russian city of Petropavlovsk-Kamchatsky, the administrative centre of the Kamchatka region, at a depth of 39.5 kilometres, according to the USGS.
+
+The survey earlier gave a magnitude of 7.5 before downgrading it.
+
+The Pacific Tsunami Warning Center said “hazardous” waves of up to one metre (3.3 feet) were possible along some nearby Russian coasts.
+
+Japan, Hawaii and other islands in the Pacific may see waves of less than 30 centimetres, the centre said.
+
+In July, one of the strongest earthquakes ever recorded struck off the Kamchatka peninsula, triggering tsunamis up to four metres high across the Pacific and sparking evacuations from Hawaii to Japan.
+
+The magnitude 8.8 quake was the largest since 2011, when a magnitude 9.1 tremor off Japan caused a tsunami that killed more than 15,000 people.
+
+...
+
+[Data](articles/07469d10.json)
+
+[Extended Data](ext_articles/07469d10.ext.json)
+
+---
+
+### Former Wattegama UC Chairman arrested with illegally imported vehicles
+
+*2025-09-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112454/former-wattegama-uc-chairman-arrested-with-illegally-imported-vehicles-) · `en`
+
+Police have arrested the former Chairman of the Wattegama Urban Council, along with one of his close associates, for the possession of two illegally imported jeep vehicles.
+
+The suspects have been identified as 58-year-old former UC Chairman Ravindra Kumara and 38-year-old businessman Lakshitha Manoj.
+
+◼️
+
+[Data](articles/00b2378b.json)
+
+[Extended Data](ext_articles/00b2378b.ext.json)
 
 ---

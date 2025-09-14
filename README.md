@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 13:56:20**
+As of **2025-09-14 15:06:01**
 
 ## Newspaper Stats
 
-*Scraped **75,871** Articles*
+*Scraped **75,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,155 @@ economynextcom | 4,596
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,365
-adaderanalk | 9,754
-tamilmirrorlk | 11,342
-virakesarilk | 12,365
-adaderanasinhalalk | 13,236
+adalk | 7,367
+adaderanalk | 9,757
+tamilmirrorlk | 11,346
+virakesarilk | 12,366
+adaderanasinhalalk | 13,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,880 (93.4%) of 75,871 articles have been extended.
+70,934 (93.5%) of 75,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### மஹிந்தவை பார்க்க 6 மணிநேரம் பயணித்த ஜோடி
+
+*2025-09-14 14:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-பார்க்க-6-மணிநேரம்-பயணித்த-ஜோடி/175-364553) · `ta`
+
+குருநாகல், கல்கமுவவைச் சேர்ந்த ஒரு தம்பதியினர், முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை அவரது கார்ல்டன் இல்லத்தில் சந்திக்க தங்கல்லைக்கு ஆறு மணி நேர மோட்டார் சைக்கிள் பயணத்தை மேற்கொண்டனர்.
+
+முன்னாள் ஜனாதிபதி கொழும்பில் இருந்து தங்காலைக்கு வந்திருப்பதை அறிந்ததும், அவர் மீதான அன்பின் காரணமாக இந்தப் பயணத்தை மேற்கொள்ள முடிவு செய்ததாக தம்பதியினர் தெரிவித்தனர். பின்னர் அவர்கள் ராஜபக்சேவைச் சந்தித்து நட்புறவான உரையாடலில் ஈடுபட்டனர்.
+
+அதே நாளில், பாலர் பாடசாலை குழந்தைகள் குழு ஒன்று, தங்கள் பெற்றோருடன், முன்னாள் ஜனாதிபதியைச் சந்தித்தது. வருகையின் போது, ​​குழந்தைகள் அவரது நினைவாக ஒரு பாடலையும் பாடினர்.
+
+◼️
+
+[Data](articles/1ab5fb99.json)
+
+---
+
+### ஜனாதிபதி துறந்து விட்டார் என்கிறார் நாமல்
+
+*2025-09-14 14:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-துறந்து-விட்டார்-என்கிறார்-நாமல்/175-364552) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க ஓய்வு பெற்ற பிறகு, ஒரு நொடி கூட பயன்படுத்தாமல் அனைத்து வசதிகளையும் விட்டுக்கொடுக்கத் தயாராக இருப்பதாக பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்தார்.
+
+அனைத்து வசதிகளையும் விட்டுக்கொடுக்கும் ஜனாதிபதியின் முடிவின் விளைவாக, முன்னாள் ஜனாதிபதிகளும் அனைத்தையும் விட்டுக்கொடுக்க வேண்டியிருந்தது என்று அவர் கூறினார்.
+
+முன்னாள் ஜனாதிபதிகளின் உரிமைகளைப் பறிக்கும் சட்டமூலத்தை ரத்து செய்வதன் மூலம் அனைத்து வசதிகளையும் விட்டுக்கொடுக்கும் தனது முடிவை ஜனாதிபதி காட்டியதாக கூறிய பிரதியமைச்சர் அமைச்சர் கூறினார்,  அதுதான் உண்மை கதை என்றார்.
+
+◼️
+
+[Data](articles/e5490d63.json)
+
+---
+
+### When Nayanthara arrives, the crowd is twice the phone number
+
+*2025-09-14 14:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நயன்தாரா-வந்தால்-கூட்டம்-இரண்டு-மடங்காக-வரும்-விஜய்யை-சீண்டிய-சீமான்/175-364551) · `ta`
+
+If Rajini and Ajith come to the crowd. If Nayanthara arrives, there will be twice as much crowd. You don't see the crowd; Seeman, the chief coordinator of the Tamil party, has criticized the meeting for Vijay as a look at the policy.
+
+Seaman met with reporters at Coimbatore airport and said, “Vijay has launched the campaign.. People have come to see Vijay because the artist is coming to the street. When we were little children, MGR and Shivaji were standing in the sand for hours. If the actor comes, the crowd will come.
+
+If Brother Ajith came, the crowd would come, even though Rajini was coming, the crowd would come beyond this. If Nayanthara is unloaded, there will be twice as much crowd. You don't see the crowd; Look at the policy, otherwise it will not.
+
+The only party that strives for the people is the Tamil party.. Next we are holding the conference of the mountains in Dharmapuri. ”
+
+...
+
+[Data](articles/15fefe5c.json)
+
+[Extended Data](ext_articles/15fefe5c.ext.json)
+
+---
+
+### The battle of friendship in the world is the world's most concerns today
+
+*2025-09-14 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214557) · `si`
+
+India and Pakistan will be played today (14), who won the most vulnerable in the Asia Cup 20 cricket tournament.
+
+The game held at the Dubai International Cricket Stadium will be played at 8.00 pm.
+
+Both groups compete in the tournament and have won the first match.
+
+The controversial atmosphere between India and Pakistan has also been affected by the two countries, and some parties have commented that the match should be boycotted by the match.
+
+The Indian Army, the Indian central government has been humiliating the victims of the Pelgam attack on the tournament.
+
+◼️
+
+[Data](articles/53b9cdb4.json)
+
+[Extended Data](ext_articles/53b9cdb4.ext.json)
+
+---
+
+### Former Eastern Provincial Council Member. Death
+
+*2025-09-14 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225057) · `ta`
+
+Former Eastern Provincial Council Member Ku. Nageswaran died, police said.
+
+Initial investigations revealed that a woman on a motorbike crashed into a bus from Muttur Sampur and attempted to cross the road through a pedestrian cross.. The incident is located today (14).
+
+It is also reported that K. Nageswaran (71 years old) from Muttur Sampur area died.
+
+◼️
+
+[Data](articles/9b3136b3.json)
+
+[Extended Data](ext_articles/9b3136b3.ext.json)
+
+---
+
+### Private and SLTB buses go to RES
+
+*2025-09-14 13:23:49* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-ලංගම-බස්-දෙක-රෙස්-යයි/11-418485) · `si`
+
+The people call for the driver of the private bus on the bus driver, driving the bus and operating the bus.
+
+The bus passengers complain that the Sri Lankan Transport Board bus to travel from the Bandaravawa to Hatton, he accused the backed by the private bus to pass.
+
+The bus passengers accused the Sri Lanka Transport Board Bus was traveling in the front of the Sri Lanka Transport Board while he was heading ahead.
+
+This event took place on Sunday morning on 14.09.2011. The people further urges the traffic police to take action against bus drivers involved in the country.
+
+◼️
+
+[Data](articles/6f17a5a7.json)
+
+[Extended Data](ext_articles/6f17a5a7.ext.json)
+
+---
+
+### Gold biscuits trapped safety officer caught
+
+*2025-09-14 13:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-பிஸ்கட்டுகள்-கடத்திய-பாதுகாப்பு-அதிகாரி-சிக்கினார்/175-364550) · `ta`
+
+The Chief Security Officer of the Katunayake airport, who was trying to bring out the Katunayake airport, was arrested by the airport customs officials on Sunday morning (14).
+
+The 54 -year -old man is a resident of Negombo Kathawala area on suspicion. He is also the head of the Civil Aviation Services Services Organization.
+
+He was arrested by airport customs officers when he left the special departure window at the Katunayake airport on Sunday (14) at 06.50 am.
+
+Customs officials suspect that these gold biscuits weighing 5 kilograms of 941 grams, and that someone may have handed them over to the airport and that he may have been carrying out the abduction for a long time.
+
+Katunayake airport customs officials detained him and are conducting further investigations into the matter.
+
+◼️
+
+[Data](articles/fdd68e8e.json)
+
+[Extended Data](ext_articles/fdd68e8e.ext.json)
+
+---
 
 ### Meeting with Minister Vijitha and UN Human Rights
 
@@ -97,6 +231,70 @@ It also states that 2026 GCE Advanced Level. The GCE Ordinary Level Examination 
 [Data](articles/f8237757.json)
 
 [Extended Data](ext_articles/f8237757.ext.json)
+
+---
+
+### New Nepal PM vows to follow protesters’ demands to ‘end corruption’
+
+*2025-09-14 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112482/new-nepal-pm-vows-to-follow-protesters-demands-to-end-corruption) · `en`
+
+Nepal’s new leader vowed on Sunday (Sep 14) to follow protesters’ demands to “end corruption” as she began work as interim prime minister, after “Gen Z” youth demonstrations ousted her predecessor.
+
+“We have to work according to the thinking of the Gen Z generation,” said Sushila Karki, in her first public comments since taking office on Friday.
+
+“What this group is demanding is end of corruption, good governance and economic equality,” she added. “You and I have to be determined to fulfil that.”
+
+The 73-year-old former chief justice held a minute’s silence on Sunday for those killed in the unrest, before meetings began in the key government complex of Singha Durbar - where several buildings were set on fire during mass protests on Tuesday.
+
+At least 72 people were killed in two days of protests, and 191 injured, the government’s chief secretary Eaknarayan Aryal said on Sunday, increasing an earlier toll of 51.
+
+...
+
+[Data](articles/103523b4.json)
+
+[Extended Data](ext_articles/103523b4.ext.json)
+
+---
+
+### Headless, limbless body found washed ashore on Mudukatuwa beach
+
+*2025-09-14 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112481/headless-limbless-body-found-washed-ashore-on-mudukatuwa-beach) · `en`
+
+Marawila Police have launched an investigation following a complaint received regarding a body that had washed ashore on the Mudukatuwa beach in Marawila.
+
+According to police, the body was missing the head, both arms, and legs, and only a part of the torso remained, which was dressed in blue shorts.
+
+Police suspect that the body may belong to a male individual.
+
+However, the Acting Magistrate of Marawila is scheduled to conduct the initial inquiry, and further investigations are being carried out by the Marawila Police.
+
+◼️
+
+[Data](articles/0f9c47e6.json)
+
+[Extended Data](ext_articles/0f9c47e6.ext.json)
+
+---
+
+### Holding stones with the lake belonging to the preservation
+
+*2025-09-14 12:37:25* · [`adalk`](https://www.ada.lk/breaking_news/වැවට-අයිති-භූමිය-වන-සංරක්ෂණයෙන්-ගල්-දාලා-අල්ලාගෙන/11-418484) · `si`
+
+Farmers have complained that the land area of ​​the Dickwewa village of the Dickwewa village in the Eppawala area of ​​Eppawala in the Anuradhapura District has reduced the land area of ​​the Department of Conservation.
+
+As a result, the farmers point out that the tank will not be able to make the tank in the reconstruction of tank.
+
+Many farmers in the Kandurugaswewa village in the Eppawala area in Anuradhapura District have been cultivated by the rainfill. It is possible that these villagers have not done an acquisition of an acquisition of a tank or tanks.
+
+Farmers say that the premises of the forest have been marked by the forest reserve by the Forest Department in the tank.
+
+Farmers point out that the lake is filled with 100 feet more than 100 feet about 100 feet about 100 feet 200 feet in the rainfall, despite a rainy weather.. The farmers also point out that the construction of these forest conservation boundaries have to remove these forest conservation boundaries in the week.
+
+...
+
+[Data](articles/4bfcc46d.json)
+
+[Extended Data](ext_articles/4bfcc46d.ext.json)
 
 ---
 
@@ -225,6 +423,30 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/4731d9a4.json)
 
 [Extended Data](ext_articles/4731d9a4.ext.json)
+
+---
+
+### 2026 schools exams schedule released
+
+*2025-09-14 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112479/2026-schools-exams-schedule-released-) · `en`
+
+The 2026 school examinations schedule has been released by the Ministry of Education.
+
+Accordingly, the 2025 G.C.E Ordinary Level Examination will be held from 17 to 26 February 2026.
+
+Meanwhile, the G.C.E Advanced Level Examination is slated to be held from August 10 September 05.
+
+The Education Ministry stated that the Grade 5 Scholarship Exam will be held on August 09, 2026.
+
+Furthermore, the General IT Exam will be held on 24 October.
+
+The 2026 G.C.E Ordinary Level Examination is scheduled to be held from 08 to 17 December, the Education Ministry stated.
+
+◼️
+
+[Data](articles/47392dfa.json)
+
+[Extended Data](ext_articles/47392dfa.ext.json)
 
 ---
 
@@ -1901,219 +2123,5 @@ The Ministry of External Affairs has said that steps are being taken to bring th
 [Data](articles/ee9f8efd.json)
 
 [Extended Data](ext_articles/ee9f8efd.ext.json)
-
----
-
-### Former soldier arrested for three murders
-
-*2025-09-13 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214533) · `si`
-
-A former Army soldier who is suspected of connecting four murders including a former prison officer in Bandaragama and two youths in Borella.
-
-The police said that the suspect had reportedly had four people shot dead last August alone.
-
-The murdering incident in the Siyambalanduwa area was hiding in the Siyambalanduwa area in Ampara on 07th August, the shooter shot dead in Borella.
-
-Accordingly, the person was arrested yesterday (12th).
-
-Investigations have revealed that he had been shooting at the Bandara and Former Prison officer Lalith Kodagoda, a former prison officer in Bandaragama, Bandara and Former Prison officer in Bandaragama, Bandaragama.
-
-The victim was suspected of killing as the Showdraw in the Panadura South Gangarawatta in the Panadura South Mahodadu Mahabagahawatta.
-
-Accordingly, four persons have died in three occasions in August alone.
-
-Investigations have also been found in the possession of the Ice narcotics at the time of his arrest.
-
-...
-
-[Data](articles/ba397e41.json)
-
-[Extended Data](ext_articles/ba397e41.ext.json)
-
----
-
-### Sepsis: Just Ask—Could It Be Sepsis?
-
-*2025-09-13 19:13:00* · [`islandlk`](http://island.lk/sepsis-just-ask-could-it-be-sepsis/) · `en`
-
-Sepsis is a serious, potentially life-threatening condition that requires urgent medical attention. Despite its prevalence, sepsis remains one of the most under-recognized illnesses in both developing and developed countries.
-
-The Global Sepsis Alliance (GSA)—a non-profit organization—provides global leadership in efforts to reduce the burden of sepsis worldwide. GSA has designated September 13th as World Sepsis Day, and various awareness initiatives are carried out throughout the month to educate the public, healthcare professionals, and policymakers about the signs, symptoms, and importance of timely intervention for sepsis.
-
-In 2017, the World Health Organization (WHO) with the World Health Assembly recognized sepsis as a global health crisis and declared sepsis as a global health priority.
-
-...
-
-[Data](articles/127ce59d.json)
-
-[Extended Data](ext_articles/127ce59d.ext.json)
-
----
-
-### Opens three sluice gates of hedkinsanda reservoir
-
-*2025-09-13 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/රත්කිඳ-ජලාශයේ-වාන්-දොරටු-තුනක්-විවෘත-කරයි/11-418476) · `si`
-
-Tissa Rajaratne says that three sluice gates of Ulhitiyawa Rathcher has been opened today (13).
-
-Ulhupitiya Rathchery has been opened at 0.3 meters of one spanner in the reservoir, which has also been opened at 0.3 meters of the two sluice gates.. Therefore, the people informed the people to be vigilant.
-
-The Irrigation Water for the Mahaweli Cg Zone has been completed by the reservoir of the reservoir, he said that the reservoir is not due to the reduction of the essential environmental maintenance of the reservoir.
-
-◼️
-
-[Data](articles/16756fa8.json)
-
-[Extended Data](ext_articles/16756fa8.ext.json)
-
----
-
-### Music Fest ‘25
-
-*2025-09-13 18:39:00* · [`islandlk`](http://island.lk/music-fest-25/) · `en`
-
-Presented by Ladies’ College – is not just a concert, it’s a  show-stopping, heart-thumping, soul-singing celebration to commemorate the 125th anniversary of the school. This dazzling festival brings together our junior and senior students, united with “One Heart and One Voice”, to relive excerpts from 10 unforgettable Broadway and Disney moments that have lit up our stage in years past.
-
-From mermaids to magic carpets, ballroom waltzes to 70’s rock ‘n’ roll, prepare to be whisked away on a musical journey like no other.
-
-Primary School Takes the Stage– Directed by Melanie Bibile and assisted by Bhagyanee Benedict, our youngest stars will dive under the sea with The Little Mermaid, singing beloved favourites like “Part of Your World” and “Under the Sea”. Shimmering costumes done by Jojo spirited dancing, and joyful singing will transform the stage into an underwater wonderland as our young stars bring the sea world to life.
-
-...
-
-[Data](articles/0650ddff.json)
-
-[Extended Data](ext_articles/0650ddff.ext.json)
-
----
-
-### All maize farmers in the Maha season begin registration
-
-*2025-09-13 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214532) · `si`
-
-The farmers who cultivate maize cultivated in the Maha season have been facilitated to register the farmers in Sri Lanka.
-
-In a statement, the Department said that the department stated that the facilities have been provided on the web site www.agrariandep.gov.lk
-
-The Department said that all the farmers of maize should be registered in this system say that the necessary procedures and registration have been issued to educate all the farmers.
-
-All maize farmers in the Maha season begin to register by poornima
-
-◼️
-
-[Data](articles/d2c744a1.json)
-
-[Extended Data](ext_articles/d2c744a1.ext.json)
-
----
-
-### Royal win Dudley de Silva trophy in Wesley hockey encounter
-
-*2025-09-13 18:30:00* · [`islandlk`](http://island.lk/royal-win-dudley-de-silva-trophy-in-wesley-hockey-encounter/) · `en`
-
-A hat trick by Lithum Karunasiri helped Royal College, Colombo to beat Wesley College in their annual hockey encounter played for Dudley de Silva trophy held in Reid Avenue school ground recently.
-
-The host Royalists, the runners up in the recently concluded Western Provincial Hockey tournament, were the favourites in this year’s encounter which was played for the first time since 2018. Wesley stickers fought better than expected in the game.
-
-Royal led by Yusuf Shihar, who represented Sri Lankan in Junior Asia Cup in China this year,  was dominant in all departments; attack, defence, hitting and stopping, and dribbling since the start though they played a slow, but a controlled game. The Reid Avenue School led by 2-0 at the lemons.
-
-Royal skipper Yusuf Shihar receives the trophy from former Sri Lanka national sticker and Royal old boy Sandun Channa Gajanayake.
-
-...
-
-[Data](articles/e5f87a1c.json)
-
-[Extended Data](ext_articles/e5f87a1c.ext.json)
-
----
-
-### People’s Bank launches special relief package to support struggling small businesses
-
-*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/peoples-bank-launches-special-relief-package-to-support-struggling-small-businesses/) · `en`
-
-People’s Bank has announced a Special Relief Package aimed at reviving Micro, Small, and Medium Enterprises (MSMEs) across Sri Lanka, focusing on businesses with non-performing loans under Rs. 5 million. This timely initiative targets enterprises severely affected by recent economic challenges that were not addressed under previous relief measures.
-
-MSMEs play a critical role in Sri Lanka’s economy, contributing over 52% of Gross Domestic Product (GDP) and employing nearly 45% of the workforce. Despite their significance, many small businesses have faced increasing difficulties in recent years, including rising operational costs, reduced consumer demand, and tighter financial conditions. The Special Relief Package is designed to provide immediate support to these enterprises while improving the Bank’s capacity to manage outstanding loans effectively.
-
-Engineers called to lead Lanka’s industrial transformation at IESL NEC 2025
-
-...
-
-[Data](articles/d7453ba9.json)
-
-[Extended Data](ext_articles/d7453ba9.ext.json)
-
----
-
-### Wealth Planners of AIA Sri Lanka at the prestigious President Club Convention held in China and Mongolia
-
-*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/wealth-planners-of-aia-sri-lanka-at-the-prestigious-president-club-convention-held-in-china-and-mongolia/) · `en`
-
-AIA Sri Lanka has warmly congratulated its Wealth Planners who earned the privilege to participate in the 2025 AIA President Club Convention, held in China and Mongolia, a company news release said.
-
-“The AIA President’s Club is the most prestigious and celebrated event hosted by the AIA Group. Its significance is further elevated by the participation of top-performing winners from across 18 countries within the AIA network, bringing together excellence, diversity, and shared purpose on a global stage,” it explained.
-
-This annual international summit, organized by the AIA Group and held in various countries around the world, hosted 293 invitees this year. AIA Sri Lanka was represented by 17 participants, marking the 13th consecutive year of participation. Among them were senior management members and top-performing wealth planners who achieved exceptional sales performance.
-
-...
-
-[Data](articles/fbd32491.json)
-
-[Extended Data](ext_articles/fbd32491.ext.json)
-
----
-
-### Ceylon Chamber presents National Budget 2026 proposals to President
-
-*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/ceylon-chamber-presents-national-budget-2026-proposals-to-president-2/) · `en`
-
-The newly appointed Board of The Ceylon Chamber of Commerce, led by Chairperson Krishan Balendra, held its first official meeting with President Anura Kumara Dissanayake on Thursday. The meeting provided a platform to present the Ceylon Chamber’s priority proposals for the forthcoming National Budget 2026, while also reviewing progress on previous reform initiatives.
-
-The Ceylon Chamber’s proposals were structured around five broad themes, with specific reforms aimed at strengthening growth and competitiveness:
-
-•    Trade & Investment Facilitation – establishing a National Single Window; modernising the Customs Ordinance; setting up a dedicated Free Trade Agreement (FTA) negotiation team, advancing a private-sector-led investment zone, continuation of facilitation of import/export clearance with the BOI and a well-structured incentive scheme for both local and foreign large investments in line with other emerging markets
-
-...
-
-[Data](articles/aabb31c8.json)
-
-[Extended Data](ext_articles/aabb31c8.ext.json)
-
----
-
-### RDB Bank records stellar performance for 1st half 2025
-
-*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025-2/) · `en`
-
-Regional Development Bank (RDB) has recorded a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
-
-The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
-
-Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget. “We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
-
-...
-
-[Data](articles/c3f21cb6.json)
-
-[Extended Data](ext_articles/c3f21cb6.ext.json)
-
----
-
-### Protest against Trump's column tax
-
-*2025-09-13 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214531) · `si`
-
-The Free Trade Zones and the General Employees Union have protested against the American bar.
-
-The protest was held in front of the main entrance of the Katunayaka Free Trade Zones this afternoon.
-
-The protests have been protested that the administration administration has taken measures to slash the privileges of the United States due to the decision of tariffs.
-
-They point out that the government requested the government to discuss the opportunity to discuss the issues faced by the employees with the problems faced by the employees.
-
-◼️
-
-[Data](articles/4cce16f9.json)
-
-[Extended Data](ext_articles/4cce16f9.ext.json)
 
 ---

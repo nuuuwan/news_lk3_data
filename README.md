@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 09:22:16**
+As of **2025-09-14 09:12:15**
 
 ## Newspaper Stats
 
-*Scraped **75,813** Articles*
+*Scraped **75,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,595
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,360
+adalk | 7,359
 adaderanalk | 9,741
 tamilmirrorlk | 11,327
 virakesarilk | 12,352
@@ -26,29 +26,11 @@ adaderanasinhalalk | 13,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,639 (93.2%) of 75,813 articles have been extended.
+70,639 (93.2%) of 75,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### බලපත්‍ර නොමැතිව ආනයනය කළ මෝටර් රථ දෙකක් සමග දෙන්නෙක් අල්ලයි
-
-*2025-09-14 08:40:38* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-ආනයනය-කළ-මෝටර්-රථ-දෙකක්-සමග-දෙන්නෙක්-අල්ලයි/11-418478) · `si`
-
-බලපත්‍ර නොමැතිව මෙරටට ආනයනය කරන ලද මෝටර් රථ දෙකක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට කොළඹ මධ්‍යම අපරාධ විමර්ශන කාර්යංශය සමත්ව තිබේ.
-
-2025.09.13 වන දින උදෑසන කාලයේ මැණික්හින්න පොලිස් වසමේදී හා  වත්තේගම පොලිස් වසමේදී කොළඹ මධ්‍යම අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත වැටලීම් දෙකක් සිදුකර බලපත්‍ර නොමැතිව විදෙස් රටවල සිට නීත්‍යණුකූල නොවන ආකාරයෙන් මෙරටට ආනයනය කර මෝටර් රථ ප්‍රවාහන කොමසාරිස් කාර්යාලයේ දත්ත පද්ධතියට ව්‍යාජ දත්ත ඇතුලත් කරන ලද ජීප් රථ දෙකක් සමඟ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 38 හා 58 වයස්වල පසුවන මැණික්හින්න හා වත්තේගම ප්‍රදේශවල පදිංචිකරුවන් වේ.
-
-අත්අඩංගුවට ගත් සැකකරුවන් 2025.09.13 වන දින තෙල්දෙණිය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු 2025.09.15 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇත. කොළඹ මධ්‍යම අපරාධ විමර්ශන කාර්යංශය මගින් වැඩිදුර විමර්ශන සිදු කරගෙන යනු ලබයි.
-
-◼️
-
-[Data](articles/7eb74d0f.json)
-
----
 
 ### ’இசைஞானி இளையராஜா பெயரில் விருது’
 
@@ -2131,5 +2113,21 @@ The magnitude 8.8 quake was the largest since 2011, when a magnitude 9.1 tremor 
 [Data](articles/07469d10.json)
 
 [Extended Data](ext_articles/07469d10.ext.json)
+
+---
+
+### Former Wattegama UC Chairman arrested with illegally imported vehicles
+
+*2025-09-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112454/former-wattegama-uc-chairman-arrested-with-illegally-imported-vehicles-) · `en`
+
+Police have arrested the former Chairman of the Wattegama Urban Council, along with one of his close associates, for the possession of two illegally imported jeep vehicles.
+
+The suspects have been identified as 58-year-old former UC Chairman Ravindra Kumara and 38-year-old businessman Lakshitha Manoj.
+
+◼️
+
+[Data](articles/00b2378b.json)
+
+[Extended Data](ext_articles/00b2378b.ext.json)
 
 ---

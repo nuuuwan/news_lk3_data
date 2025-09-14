@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 10:54:52**
+As of **2025-09-14 11:20:25**
 
 ## Newspaper Stats
 
-*Scraped **75,824** Articles*
+*Scraped **75,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,195 @@ economynextcom | 4,595
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,361
-adaderanalk | 9,745
-tamilmirrorlk | 11,330
-virakesarilk | 12,352
-adaderanasinhalalk | 13,228
+adalk | 7,362
+adaderanalk | 9,747
+tamilmirrorlk | 11,334
+virakesarilk | 12,359
+adaderanasinhalalk | 13,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,695 (93.2%) of 75,824 articles have been extended.
+70,715 (93.2%) of 75,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### විස්සයි20 ශ්‍රේණිගත කිරීම්වල ශ්‍රී ලංකාව ඉදිරියට
+### நீதி அமைச்சின் சிறப்பு குழு இவ்வாரம் ஜெனிவா விஜயம்
+
+*2025-09-14 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் மீளாய்வு கூட்டத்தொடர் ஆரம்பிக்கப்பட்டுள்ள நிலையில், இதில் பங்கேற்பதற்காக நீதி அமைச்சின் சிறப்பு குழு இவ்வாரம் இறுதியில் ஜெனிவாவுக்கு செல்லவுள்ளது.
+
+◼️
+
+[Data](articles/29d60f07.json)
+
+---
+
+### நானுஓயாவில் நடனமாடிய வெளிநாட்டவர்கள்
+
+*2025-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225037) · `ta`
+
+நானுஓயா புகையிரத நிலையத்தில் இந்திய சுற்றுலா பயணிகள் (13) சனிக்கிழமை பாடல்களை பாடி அதற்கேற்ப  உற்சாகமாக நடனமாடி மகிழ்ந்தனர்.
+
+கொழும்பில் இருந்து பதுளை நோக்கி சென்ற 11001 என்ற சிறப்பு ரயில் நேர தாமதமாக சென்றதால் ரயில் நிலையத்தில் இருந்த இந்திய சுற்றுலாப் பயணிகள் ரயில் நிலையத்தில் காத்திருந்தனர். பின்னர் சலித்துக்கொள்ளாமல் நடனமாடி அந்தப் பொழுதை மகிழ்ச்சியுடன்  போக்கினர்.
+
+குறித்த இந்திய வெளிநாட்டினர் குழுவினர்  நடனமாடுவதைக் காட்டும் காணொளி தற்போது சமூக ஊடகங்களில் வைரலாகி வருகின்றது.
+
+◼️
+
+[Data](articles/7556367e.json)
+
+---
+
+### Two vehicles without licenses: two arrested
+
+*2025-09-14 10:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உரிமங்கள்-இல்லாத-இரண்டு-வாகனங்கள்-சிக்கின-இருவர்-கைது/76-364537) · `ta`
+
+The Colombo Central Criminal Investigation Bureau has won the arrest of two suspects with two motor vehicles imported to the country without licenses.
+
+A team of officials of the Colombo Central Criminal Investigation Bureau conducted two raids on the morning of 13.09.2025 at the Menikhinna Police Division and the Wadegama Police Division.. Two suspects were arrested with two jeeps imported to the country from abroad without licenses.
+
+The arrested suspects are residents of Menikhinna and Wadegama, aged 38 and 58.
+
+The arrested suspects were produced before the Teldeniya Magistrate's Court on 13.09.2025 and placed in remand till 15.09.2025. Further investigations are being conducted by the Central Criminal Investigation Bureau in Colombo.
+
+◼️
+
+[Data](articles/2d920d3b.json)
+
+[Extended Data](ext_articles/2d920d3b.ext.json)
+
+---
+
+### The boyfriend shot towards the sky when he saw the girlfriend's face
+
+*2025-09-14 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியின்-முகத்தை-பார்த்ததும்-வானத்தை-நோக்கி-சுட்ட-காதலன்/175-364536) · `ta`
+
+A boyfriend who was shot dead on his split girlfriend, was mourning his face and firing into the sky and fleeing the Govindapuram police division.
+
+The incident took place on the morning of the 11th of this month in the Buddha Ritikahawatte area of ​​the Govindupura Police Division.
+
+The Govindapuram police said that a 24 -year -old woman from Buddha Ritikahawathai was in a relationship with a 29 -year -old youth from the same village and the two were split about a year ago.
+
+The woman is currently working at a garment factory in Moneragala. His ex -boyfriend, who heard that he was in a relationship with another young man, planned to shoot her.
+
+The woman tried to shoot her while she was coming from her house to catch the bus at the garment factory crossing the street.. He was miserable at his face and then fired into the sky and fled.
+
+Govindapuram Police Station Superintendent TM. Karuna Santha is conducting investigations to arrest him.
+
+◼️
+
+[Data](articles/1e42405a.json)
+
+[Extended Data](ext_articles/1e42405a.ext.json)
+
+---
+
+### 80 million worth of telephone number
+
+*2025-09-14 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-மில்லியன்-மதிப்புள்ள-குஷ்-பறிமுதல்/175-364535) · `ta`
+
+A foreign passenger who illegally brought the "Kush" drug worth Rs 85.42 million illegally has been arrested by a group of officials of the airport drug detention unit with the help of an official police dog called "Randy" while waiting for the Katunayake International Airport on Saturday (13).
+
+The arrested person is a 33 -year -old photographer who lives in Chennai, India
+
+He arrived at the Katunayake airport via Sri Lanka Airlines flight UL-403, and the Sri Lankan Airlines flight was waiting at the airport terminal until the UL-139 departed to Madurai in India.
+
+When Sri Lankan Airlines officials scanned his goods, they found a suspicious one, and the police "Randy", which was nearby, signaled the dog's dogs.
+
+Accordingly, when the Indian national was arrested and checked, it was discovered that 8 kilograms of 542 grams of 542 grams of packets were hidden in his goods.
+
+...
+
+[Data](articles/bcad58bd.json)
+
+[Extended Data](ext_articles/bcad58bd.ext.json)
+
+---
+
+### மியன்மாரில் நடத்தப்பட்ட வான்வழித் தாக்குதலில் 18 மாணவர்கள் பலி!
+
+*2025-09-14 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225030) · `ta`
+
+மியன்மார் ராணுவம் நாட்டின் மேற்கு ரக்கைன் மாநிலத்தில் உள்ள பாடசாலையொன்றின் மீது நடத்திய வான்வழித் தாக்குதலில் சுமார் 18 பேர் உயிரிழந்ததாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+உயிரிழந்தவர்களில் பெரும்பாலோர் மாணவர்கள் என ஆயுதக் குழு மற்றும் உள்ளூர் ஊடகங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/735919d4.json)
+
+---
+
+### Nearly 3,000 raids associated with rice during the past year
+
+*2025-09-14 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214549) · `si`
+
+The Consumer Affairs Authority (Consumer Affairs Authority) says that nearly 3,000 people have been carried out in this year.
+
+The authority said that the authority was to sell rice, rice, hid rice stocks, including 3,000 different sizes of rice including sales for conservation.
+
+The Authority said that more than a thousand raids on higher prices and he had committed a large number of raids at higher prices.
+
+The Consumer Affairs Authority said that if he was convicted of the individual selling individual businessman in charge, he was able to be prescribed or sentenced to Rs.
+
+The Authority also says that if a private company is convicted of a guilty to Rs.
+
+The Authority also said that the procedural Affairs Authority (Consumer Affairs Authority) has been able to punish the consumer action twice as a second fines.
+
+◼️
+
+[Data](articles/2eba3648.json)
+
+[Extended Data](ext_articles/2eba3648.ext.json)
+
+---
+
+### Sri Lanka advanced in T20 Ratings
 
 *2025-09-14 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214548) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය (ICC) ප්‍රකාශයට පත් කළ නවතම විස්සයි20 කණ්ඩායම් ශ්‍රේණිගත කිරීම්වල ශ්‍රී ලංකාව 7 වන ස්ථානය දක්වා එක් ස්ථානයක් ඉදිරියට පැමිණ තිබේ.
+The International Cricket Council (ICC) has come forward to 7th in the latest T20 team ratings.
 
-ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ ඊයේ පැවති තරගයේදී බංග්ලාදේශයට එරෙහිව ලැබූ ජයග්‍රහණයත් සමඟ මෙලෙස ශ්‍රී ලංකා කණ්ඩායම ඉදිරියට පැමිණ ඇත.
+The Sri Lankan team has come forward with the victory over Bangladesh yesterday in the Asian Cup yesterday.
 
-ඒ අනුව, නවතම විස්සයි20 කණ්ඩායම් ශ්‍රේණිගත කිරීම්වල පාකිස්තානය 8 වන ස්ථානයට පත්ව ඇත.
+Accordingly, the Pakistan for the 8th place to the Pakistan has to retreat.
+
+According to the current ranking, the Indian team is still being preserved.
 
 ◼️
 
 [Data](articles/f7484ed6.json)
+
+[Extended Data](ext_articles/f7484ed6.ext.json)
+
+---
+
+### The cruelty of the student who lifted the skirt over it
+
+*2025-09-14 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாவாடையை-அதுக்கே-மேல-தூக்கிய-மாணவியை-விருந்தாக்கிய-கொடூரம்/175-364534) · `ta`
+
+Hema (name changed). At the age of seventeen, the greed of becoming an actress in cinema had set fire to her heart.
+
+Hema, with a beautiful face and a dance talented, set foot in a dance school on the journey of dreams. Rajesh is the one who made her acquaintance.
+
+Rajesh, Kanyakumari district famous dance teacher. It is customary for students to dance at his school and get gifts on stage.
+
+Knowing Hema's curiosity and cinema dream, Rajesh sowed the seeds of hope in her mind. "I know a lot of deputy directors in the cinema. If they keep their minds, you can become a star, "he whispered to her with words of desire.
+
+In an evening, Rajesh talked to Hema about a chance. “To meet the Deputy Directors Tomorrow. If they see you, you will get a place in cinema, "he said.
+
+His sweet speech and loving behavior developed confidence in Hema's mind. "Well," she agreed.
+
+...
+
+[Data](articles/814a7f93.json)
+
+[Extended Data](ext_articles/814a7f93.ext.json)
 
 ---
 
@@ -114,6 +274,50 @@ Subsequently, the three were taken to the Polonnaruwa Prison.
 
 ---
 
+### கொழும்பு - மருதானை ரயில் நிலையத்தின் புதுப்பித்தல் பணிகள் நாளை ஆரம்பம்
+
+*2025-09-14 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225027) · `ta`
+
+கொழும்பு - மருதானை ரயில் நிலையத்தின் புதுப்பித்தல் பணிகள் செப்டம்பர் மாதம் 15 ஆம் (நாளை) திகதி ஆரம்பிக்கப்படவுள்ளது.
+
+கொழும்பு நகரின் இரண்டாவது பெரிய ரயில் நிலையமாக மருதானை கருதப்படுகிறது. அதன்படி, இது நாட்டின் மிகவும் பழமையான ரயில் நிலையங்களில் ஒன்றாகும்.
+
+முதன்முதலில் 1889 ஆம் ஆண்டு மரத்தினால் கட்டப்பட்டது. இது கண்டி மற்றும் தெற்கு பாதைகளில் செயல்பாடுகளைக் மேற்கொண்டது.
+
+கொழும்பு கோட்டை ரயில் நிலையத்தில் செயல்பாடுகள் மிகவும் கடினமானமையினால், தொடர்புடைய செயல்பாடுகள் மருதானை ரயில் நிலையத்திற்கு மாற்றப்பட்டதாகக் கூறப்படுகிறது.
+
+1893 ஆம் ஆண்டு ஜூலை மாதம் 12 ஆம் திகதி நிரந்தர கட்டிடம் ஒன்று  திறக்கப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+அதன்படி, தற்போதைய மருதானை ரயில் நிலையம் 1908 ஆம் ஆண்டு  நவம்பர் மாதம் 09 ஆம் திகதி திறக்கப்பட்டதாகக் கூறப்படுகிறது.
+
+இந்த ரயில் நிலையத்தின் பாரம்பரியத்தை  காக்கும் அதே வேளையில் பயணிகள் வசதிகள் மேம்படுத்தப்பட்டு உட்கட்டமைப்பு வசதிகள் நவீனமயமாக்கப்படும் என்று எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/70ed93e4.json)
+
+---
+
+### Health Minister announces launch of 100 Community Health Centres  this year
+
+*2025-09-14 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112472/health-minister-announces-launch-of-100-community-health-centres-this-year) · `en`
+
+Health Minister Nalinda Jayatissa has announced that a series of community health centres will soon be launched to provide early diagnosis, treatment, and follow-up care, as well as referrals to hospitals for further treatment. These centres aim to bring healthcare services closer to the public.
+
+Accordingly, starting from September 26, ten health centres will be opened as part of a pilot project across five districts, Minister Nalinda stated.
+
+He shared these plans while participating in the “Aarogya” mobile wellness programme held in the Eheliyagoda Divisional Secretariat Division of Ratnapura District.
+
+He added that during this year, foundations will be laid for 100 new health centres, and over the next three years, 1000 wellness centres are expected to cover the population.
+
+Highlighting the current challenge of non-communicable diseases (NCDs), the Minister said that the Aarogya wellness centres aim to protect the public by providing regular treatments.
+
+...
+
+[Data](articles/3a76cc8e.json)
+
+---
+
 ### “Pacific Angel ௨௦௨௫”
 
 *2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
@@ -132,6 +336,28 @@ Pacific Angel 2025. The training was held with the participation of the Sri Lank
 
 ---
 
+### தொலைதூர பஸ்களை பரிசோதனை செய்ய திட்டம்!
+
+*2025-09-14 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225024) · `ta`
+
+தொலைதூரம் பயணிக்கும் பஸ்கள் அனைத்தும் இயக்கத் தொடங்குவதற்கு முன்பு அடிப்படை தர பரிசோதனைக்கு உட்படுத்தப்படுவதை கட்டாயமாக்க அரசாங்கம் திட்டமிட்டுள்ளது.
+
+முதற்கட்டமாக, கொழும்பில் உள்ள பெஸ்டியன் மாவத்தை மற்றும் மகும்புர மல்டிமாடல் போக்குவரத்து தளத்தை மையமாகக் கொண்டு, தேசிய போக்குவரத்து ஆணைக்குழுவின் மேற்பார்வையின் கீழ் இதனை செயல்படுத்த திட்டமிடப்பட்டுள்ளது.
+
+மேலும் இந்த தர பரிசோதனை இல்லாமல் எந்த நீண்ட தூர சுற்றுலா பஸ்களும் அங்கீகரிக்கப்படாது என தெரிவிக்கப்பட்டுள்ளது.
+
+100 கிலோமீற்றருக்கு மேல் பயணிக்கும் பஸ்கள் அவற்றின் இயக்கம் தொடங்குவதற்கு 48 மணி நேரத்திற்கு முன்பு தகுதிச் சான்றிதழ் பெற வேண்டும்.
+
+மோட்டார் போக்குவரத்துத் திணைக்களம் தற்போது ஒரு சுற்றறிக்கை மூலம் இதற்குத் தேவையான வழிமுறைகளை வெளியிட நடவடிக்கை எடுத்து வருகிறது.
+
+இந்த செயல்முறை நாடு முழுவதும் நீடிக்கப்படும் போது, மோட்டார் போக்குவரத்துத் திணைக்களம் வாகன பழுதுபார்க்கும் இடங்களை ஆய்வு செய்து, அதனுடன் தொடர்புடைய ஆய்வுகளை நடத்தி, தகுதிச் சான்றிதழை வழங்கும்.
+
+◼️
+
+[Data](articles/fb3bf2b9.json)
+
+---
+
 ### NDDCB handed over records of chemicals found in Midden
 
 *2025-09-14 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214546) · `si`
@@ -146,6 +372,42 @@ The National Dangerous Drugs Control Board has handed over the record of contain
 
 ---
 
+### மாகாண சபை தேர்தலை ஜுன் மாதம் நடத்த அரசாங்கம் உத்தேசம்
+
+*2025-09-14 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225023) · `ta`
+
+இருப்பினும் தேர்தலை எந்த முறைமையில் நடத்துவது என்பது தொடர்பில் தீர்மானிக்க எல்லை நிர்ணயக்குழுவிடம் அறிக்கை கோரப்பட்டுள்ளதுடன் இந்த அறிக்கை கிடைக்கப்பெற்றதும் பாராளுமன்றத்தில் சமர்ப்பித்து தேர்தல் முறைமை குறித்து அனைத்து கட்சிகளினதும் ஏகோபித்த இணக்கப்பாட்டை பெற்றுக்கொள்ளவும் அரசாங்கம் தீர்மானித்துள்ளது.
+
+2012, 2013 மற்றும் 2014 ஆம் ஆண்டுகளில் 4 கட்டங்களாக மாகாண சபைகளுக்கான தேர்தல்கள் நடாத்தப்பட்டிருந்தன.
+
+இதன் பிரகாரம் 2012 செப்டெம்பர் மாதம் 8 ஆம் திகதி கிழக்கு, வடமத்திய மற்றும் சப்ரகமுவ மாகாண சபைகளுக்கும், 2013 ஆம் ஆண்டு செம்டெம்பர் மாதம் 21 ஆம் திகதி மத்திய, வடமேல் மற்றும் வடமாகாண சபைகளுக்காகவும், இறுதியாக 2014 ஆம் ஆண்டு செப்டெம்பர் மாதம் 26 ஆம் திகதி ஊவா மாகாண சபைக்காகவும் தேர்தல்கள் நடாத்தப்பட்டன.
+
+இவ்வாறானதொரு நிலையில், மாகாண சபைத் தேர்தலுக்கான புதிய தேர்தல் முறைமையை அறிமுகப்படுத்துவதற்காக, எல்லை நிர்ணயம் தொடர்பான ஆய்வுகளை மேற்கொள்ள ஒரு குழு நியமிக்கப்பட்டது.
+
+இந்தக் குழு 2017 ஆம் ஆண்டு ஒக்டோபர் மாதம் அப்போதைய ஜனாதிபதி மைத்திரிபால சிறிசேனவால் நியமிக்கப்பட்டது.
+
+...
+
+[Data](articles/9d42be48.json)
+
+---
+
+### பெரும் பொறுப்புகளுடன் இந்தியப் பெருங்கடலின் இதயத்தில் இலங்கை - பாதுகாப்பு செயலாளர்
+
+*2025-09-14 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225022) · `ta`
+
+பசிபிக் ஏஞ்சல் போன்ற பயிற்சிகள், அவசரகால சூழ்நிலைகளுக்குப் பதிலளிக்கும் திறனையும், பங்குபெறும் நாடுகளிடையே நம்பிக்கையையும் வலுப்படுத்துவதாக தெரிவித்த பாதுகாப்பு செயலாளர் ஓய்வு பெற்ற எயா வைஸ் மார்ஷல் சம்பத் துய்யகொந்த, மனிதனால் உருவாக்கப்பட்ட சவால்களாக இருந்தாலும், சுற்றுச்சூழல் அல்லது பாதுகாப்பு தொடர்பானவையாக இருந்தாலும், அவற்றை ஒரு நாடால் மட்டும் எதிர்கொள்ள முடியாது  எனவும் குறிப்பிட்டுள்ளார்.
+
+கட்டுநாயக்க விமானப்படை தளத்தில் இடம்பெற்ற நிகழ்வொன்றில் கலந்துக்கொண்டு உரையாற்றும் போதே பாதுகாப்பு செயலாளர் மேற்கண்டவாறு கூறினார்.
+
+உலகில் பாதுகாப்புச் சவால்கள் மிகவும் சிக்கலானவையாகவும், எல்லை தாண்டியவையாகவும் உள்ளன. இத்தகைய சூழ்நிலையில், பன்முகப் பயிற்சிகள் இராணுவங்களுக்கு இடையிலான கூட்டுறவின் தேவையை உணர்த்துகின்றன. கூட்டுத் தயார்நிலை என்பது ஒரு விருப்பத் தேர்வு அல்ல, அது ஒரு அத்தியாவசியத் தேவையாகும்.
+
+...
+
+[Data](articles/17786db7.json)
+
+---
+
 ### NDDCB hands over report on suspected ‘ICE’ drug chemicals to police
 
 *2025-09-14 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112471/nddcb-hands-over-report-on-suspected-ice-drug-chemicals-to-police) · `en`
@@ -157,6 +419,26 @@ The National Dangerous Drugs Control Board (NDDCB) has submitted its report to t
 [Data](articles/c9e4bd0b.json)
 
 [Extended Data](ext_articles/c9e4bd0b.ext.json)
+
+---
+
+### The boyfriend who went to shoot the girlfriend saw the girlfriend's face and fired into the sky
+
+*2025-09-14 09:15:44* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතියට-වෙඩි-තැබීමට-ගිය-පෙම්වතා-පෙම්වතියගේ-මුහුණ-දැක-අහසට-වෙඩි-තියලා/11-418480) · `si`
+
+The Gunugepura Police say that the girl who has been shooting on the Ritigahawatta area of ​​the Gingugepura Police Division (11) on the Ritigahawatta area of ​​the Gawalura Police said it had fired his girlfriend's face.
+
+The 24-year-old woman, a 24 year old resident of Ritigahawatta has been in a romantic relationship with a 29 year old resident of the village.
+
+She currently works in a garment factory in Moneragala. When she had a romantic relationship with another young man, she had crossed her face and shoot her face and shot her face and fired.
+
+The OIC of the Gunugepura Acting OIC, DM Karuna Shantha is investigating him.
+
+◼️
+
+[Data](articles/c35a7783.json)
+
+[Extended Data](ext_articles/c35a7783.ext.json)
 
 ---
 
@@ -251,6 +533,22 @@ The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally i
 [Data](articles/64842b95.json)
 
 [Extended Data](ext_articles/64842b95.ext.json)
+
+---
+
+### FM concludes visit to Geneva, reaffirms Sri Lanka’s commitment to domestic reconciliation
+
+*2025-09-14 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112469/fm-concludes-visit-to-geneva-reaffirms-sri-lankas-commitment-to-domestic-reconciliation) · `en`
+
+Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath concluded his visit to Geneva where he addressed the 60th Session of the United Nations Human Rights Council (UNHRC) on September 8, 2025, delivering the Government statement during the Interactive Dialogue on Sri Lanka.
+
+Minister Herath reiterated Sri Lanka’s commitment to achieving reconciliation through domestic processes and outlining the measures already taken by the Government for transformation to advance the rights and well-being of all Sri Lankans, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally imposed mechanisms.
+
+...
+
+[Data](articles/c72d1587.json)
 
 ---
 
@@ -1809,317 +2107,5 @@ With this appointment, she is the first woman to hold the post of Prime Minister
 [Data](articles/cdb3ff8b.json)
 
 [Extended Data](ext_articles/cdb3ff8b.ext.json)
-
----
-
-### Circular allowing decorations and accessories on buses cancelled
-
-*2025-09-13 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112458/circular-allowing-decorations-and-accessories-on-buses-cancelled-) · `en`
-
-The Commissioner General of Motor Traffic has stated that the circular issued on 2 June 2023, which permitted decorations and accessories to be fitted to passenger transport buses, has been cancelled with effect from 9 September 2025.
-
-The Commissioner General of Motor Traffic Kamal Amarasinghe has informed all Deputy Commissioners, Chief Motor Vehicle Inspectors and Department of Motor Traffic District Offices of this decision via an internal circular.
-
-Circular allowing decorations and accessories on buses cancelled  by  Adaderana Online
-
-◼️
-
-[Data](articles/9f7ffad7.json)
-
-[Extended Data](ext_articles/9f7ffad7.ext.json)
-
----
-
-### Death penalty for viewing or sharing foreign television series: The UN on North Korea. Report
-
-*2025-09-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224987) · `ta`
-
-In North Korea, viewing or sharing foreign television series, including South Korea, is considered a serious crime. The United Nations at the United Nations Human Rights Council on Friday (September 12). The Human Rights Commission has issued a report.
-
-The North Korean government is actively monitoring the daily activities of the people with the help of new technologies. As a result, the penalties are very tightening.
-
-The new laws that have come into effect since 2015 have increased the control of the government in every aspect of the lives of citizens.
-
-Human Rights Commissioner for North Korea, James Henan, said many North Koreans have already been executed for distributing foreign television series, including South Korea's popular 'K-Dramas'.
-
-The 14-page report has been prepared on the basis of interviews conducted by more than 300 people who have fled North Korea since 2014.
-
-...
-
-[Data](articles/def4a2f2.json)
-
-[Extended Data](ext_articles/def4a2f2.ext.json)
-
----
-
-### Circular that was permitted to decorates buses canceled
-
-*2025-09-13 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214519) · `si`
-
-The circular released on June 2, 203, was canceled on June 2, 2023, permission to install decorations and accessories on passenger buses.
-
-The circular has been issued by the Commissioner General of Motor Traffic.
-
-◼️
-
-[Data](articles/a81d1dcb.json)
-
-[Extended Data](ext_articles/a81d1dcb.ext.json)
-
----
-
-### Education Ministry issues official school term calendar for 2026
-
-*2025-09-13 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112457/education-ministry-issues-official-school-term-calendar-for-2026) · `en`
-
-The Ministry of Education (MoE) has announced the official school term calendar for the year 2026, applicable to all Government and Government-approved private schools.
-
-Accordingly, the term calendar for Sinhala, Tamil, and Muslim schools is as follows:
-
-First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 2 March 2026)
-
-Second Phase: 3 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
-
-First Phase: 27 July 2026 to 7 August 2026 (Holidays: 8 August to 6 September 2026)
-
-First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 22 March 2026)
-
-Second Phase: 23 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
-
-Third Phase: 20 April 2026 to 30 April 2026 (Holidays: 01 May to 03 May 2026)
-
-First Phase: 4 May 2026 to 26 May 2026 (Holidays: 27 May to 31 May 2026)
-
-First Phase:  3 August 2026 to 2 September 2026 (Holidays: 3 September to 6 September 2026)
-
-◼️
-
-[Data](articles/1c0f575b.json)
-
-[Extended Data](ext_articles/1c0f575b.ext.json)
-
----
-
-### Here is the school period to be followed in 2026
-
-*2025-09-13 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214518) · `si`
-
-The Ministry of Education, Higher Education and Vocational Education has been issued by the Ministry of Education, Higher Education and Vocational Education.
-
-Accordingly, the first stage of the first stage of the first semester for Sinhala and Tamil schools will be founded on 11.01.2013 to 31.02.2013.
-
-The Ministry of Education, Higher Education and Vocational Education is issued by the Ministry of Education, Higher Education and Vocational Education, which will be granted in the first phase of the first term.
-
-Subsequently the second phase of the first stage will be held from Tuesday, 03.03.2013 to Friday, March 2026.
-
-The second phase of the first term will be given holidays on September 2026.2011 to 19.04.2011.
-
-Second school term will be held on Monday, 24.06.2012.
-
-The first phase of the third term will be held on Friday, January 2026, 07.07.2013, the Ministry of Education, Education and Vocational Education said.
-
-...
-
-[Data](articles/14ad4adf.json)
-
-[Extended Data](ext_articles/14ad4adf.ext.json)
-
----
-
-### Rammitha son of Keheliya earns Rs. 27 million for 21 crores
-
-*2025-09-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214517) · `si`
-
-The Bribery Commission has been indicted in the Colombo High Court yesterday against Ramith Rambukwella, son of former Minister Keheliya Rambukwella.
-
-Although Keheliya Rambukwella has been earned as the Minister of Health, Ramith Rambukwella has earned over Rs.
-
-It is reported that there are many assets, including luxury houses, jeeps between the assets that cannot be earned.
-
-Rammit was also appointed as the Health Minister Keheliya Rambukwella.
-
-On January 1, 2022 and November 20, 2023, has earned valuable assets and property worth Rs. 296,566 and Rs.
-
-Ramith Rambukwella has failed to reveal the earnings of Rs 275,302,616.06.
-
-That is why the Bribery Commission has been indicted under the Anti-Corruption Act.
-
-And there were two hundred rupees at Dharmapala Mawatha, Colombo 07, and two hundred and Rs.
-
-There are four bank accounts named Ramith and four bank accounts, including his wife, and an unexpular discourse, including a discovery jeep.
-
-...
-
-[Data](articles/36ca14eb.json)
-
-[Extended Data](ext_articles/36ca14eb.ext.json)
-
----
-
-### The law to eliminate pension for MPs will be passed soon - Minister Nalinda Jayatissa
-
-*2025-09-13 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224980) · `ta`
-
-The law has been passed to eliminate presidential privileges. Similarly, a law is prepared for the elimination of pension for MPs. Health Minister Nalinda Jayatissa said that the law will be passed soon.
-
-The Minister said this while addressing the foundation stone laying ceremony for the construction of a postage in Balapitiya area.. He continued to address the event,
-
-Policies for stabilizing the economy are being prepared. Accordingly, the National Tax Income Department, the Department of Liquor and the Customs Department have profits beyond their own. We have reduced unnecessary costs on the other hand. Through these we are trying to gradually balance the gap of the budget.
-
-The World Bank has praised that Sri Lanka has done it, despite many countries in the world to show economic growth.. The country, which was a bankrupt in 2021, 2022 and 2023, has reached this situation today. The cost has increased and the costs have been reduced.
-
-...
-
-[Data](articles/7372def3.json)
-
-[Extended Data](ext_articles/7372def3.ext.json)
-
----
-
-### Sri Lanka participated in the Asian Cup today
-
-*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
-
-Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
-
-The match will be played at Abuadabii at 8:00 pm as a match of B.
-
-Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
-
-The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
-
-Sri Lanka won both matches previously.
-
-This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
-
-◼️
-
-[Data](articles/ce1740f4.json)
-
-[Extended Data](ext_articles/ce1740f4.ext.json)
-
----
-
-### Successfully Implementing Japanese Management Techniques at ETF
-
-*2025-09-13 11:52:00* · [`islandlk`](http://island.lk/successfully-implementing-japanese-management-techniques-at-etf/) · `en`
-
-LESSONS FROM MY CAREER: SYNTHESISING MANAGEMENT THEORY WITH PRACTICE – PART 21
-
-In the last episode, I related stories mainly about how I tackled politicians, and how I reached compromises with some, and refused others very tactfully. This was a new experience which I faced, and guidance was not available in textbooks. In today’s episode, I will talk about how I introduced two Japanese techniques successfully and how I had to manage the challenges that arose.
-
-...
-
-[Data](articles/1309abde.json)
-
-[Extended Data](ext_articles/1309abde.ext.json)
-
----
-
-### Ranil’s special relationship with India and the peace process
-
-*2025-09-13 11:49:00* · [`islandlk`](http://island.lk/ranils-special-relationship-with-india-and-the-peace-process/) · `en`
-
-Ranil gave a very special place towards relations with India. He obviously knew its political leaders and most of the important officials intimately. He knew a great deal about their background and not only of their politics. I was often surprised with his deep knowledge of Indian political alliances and even personal family relationships. He had visited many times in both north and south and had friends from Kerala to Bihar. He never missed, when in Delhi, paying a call on those who had become over time, his personal friends.
-
-...
-
-[Data](articles/5045e61d.json)
-
-[Extended Data](ext_articles/5045e61d.ext.json)
-
----
-
-### The Foreign Policy of the United States
-
-*2025-09-13 11:48:00* · [`islandlk`](http://island.lk/the-foreign-policy-of-the-united-states/) · `en`
-
-(A talk given at The Bandaranaike International Training Institute on 09 September, 2025)
-
-...
-
-[Data](articles/f4dd69d5.json)
-
-[Extended Data](ext_articles/f4dd69d5.ext.json)
-
----
-
-### Lord
-
-*2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
-
-Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
-
-The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
-
-When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
-
-◼️
-
-[Data](articles/18a6ffad.json)
-
-[Extended Data](ext_articles/18a6ffad.ext.json)
-
----
-
-### 3.45 மில்லியன் ரூபா பெறுமதியான வெளிநாட்டு சிகரட்டுகளுடன் வர்த்தகர் கட்டுநாயக்கவில் கைது!
-
-*2025-09-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224975) · `ta`
-
-A businessman with illegal cigarettes has been arrested at the Katunayake Bandaranaike International Airport this morning by the Airport Police Narcotics Unit.
-
-During the raid carried out by the suspect, 115 cigarettes, including 23 thousand foreign cigarettes, were seized from the passenger.
-
-◼️
-
-[Data](articles/1e9f4482.json)
-
-[Extended Data](ext_articles/1e9f4482.ext.json)
-
----
-
-### Seventeen collapses in Kolaging collapses
-
-*2025-09-13 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214515) · `si`
-
-There are seven people in the event of a mine of an illegal arragment mine in Colombia, Colombia.
-
-The group is stuck in the mines from Thursday.
-
-They are stating that they will remain deeply in a deep level of the earth.
-
-However, the foreign reports indicate that the assistance of the authorities are not inadequate and that they are doing so.
-
-These crys in the Coka area is constantly occurs, a mine explosive ringter.
-
-◼️
-
-[Data](articles/6a1b1b2d.json)
-
-[Extended Data](ext_articles/6a1b1b2d.ext.json)
-
----
-
-### SriLankan Airlines draws India travellers with Axis Bank link
-
-*2025-09-13 11:30:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-draws-india-travellers-with-axis-bank-link-240436/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines is partnering with Axis Bank in India, to offer airfare deals and other benefits to the bank’s 15 million-strong customer base.
-
-Axis Bank credit and debit cardholders will enjoy an exclusive 10% discount on both Business Class and Economy Class fares when booking through the SriLankan Airlines website.
-
-The discount applies to SriLankan Airlines flights from India to Colombo, and onward via Colombo to all destinations in the Far East, the Middle East and the Maldives, as well as to Frankfurt and Paris.
-
-Customers travelling to Melbourne will receive an additional 5kg of checked baggage allowance.
-
-SriLankan Airlines plans to offer more deals later on, it said in a statement.
-
-“This partnership is also remarkable as it marks the first time ever that SriLankan Airlines has collaborated with a private Indian bank,” Fawzan Fareid, Regional Manager India, Bangladesh and Nepal of SriLankan Airlines, said.
-
-...
-
-[Data](articles/ae2afec4.json)
-
-[Extended Data](ext_articles/ae2afec4.ext.json)
 
 ---

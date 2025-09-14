@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 14:54:31**
+As of **2025-09-14 15:20:08**
 
 ## Newspaper Stats
 
-*Scraped **75,880** Articles*
+*Scraped **75,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,204 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,367
-adaderanalk | 9,757
-tamilmirrorlk | 11,344
-virakesarilk | 12,366
+adaderanalk | 9,759
+tamilmirrorlk | 11,348
+virakesarilk | 12,369
 adaderanasinhalalk | 13,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,922 (93.5%) of 75,880 articles have been extended.
+70,936 (93.5%) of 75,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### ’’நயன்தாரா வந்தால் கூட்டம் இரண்டு மடங்காக வரும்’’  விஜய்யை சீண்டிய சீமான்
+### ரணிலுடன் ஜா திடீர் சந்திப்பு
+
+*2025-09-14 14:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-ஜா-திடீர்-சந்திப்பு/175-364555) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜாவிற்கும் இடையிலான சந்திப்பு கொழும்பில் நடைபெற்றது.
+
+கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயத்தின் வேண்டுகோளின் பேரில் இந்த சந்திப்பு நடைபெற்றது. கொழும்பு 7, ஐந்தாவது ஒழுங்கையில் உள்ள ரணில் விக்கிரமசிங்கவின் இல்லத்தில் இந்த சந்திப்பு நடைபெற்றது.
+
+உலக அரசியல் மற்றும் இலங்கையின் தற்போதைய நிலைமை குறித்து கூட்டத்தின் போது விரிவான விவாதங்கள் நடத்தப்பட்டன.
+
+நேபாளத்தில் தற்போதைய அரசியல் ஸ்திரமின்மை குறித்து தனது நிலைப்பாட்டை ரணில் விக்கிரமசிங்க இந்திய உயர் ஸ்தானிகரிடம் தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் இந்திய உயர் ஸ்தானிகருக்கும் இடையிலான கலந்துரையாடல் குறித்து இந்திய உயர் ஸ்தானிகர் புதுடெல்லிக்கு அறிக்கை அளிக்க உள்ளார் என்றும் அறியப்படுகிறது.
+
+◼️
+
+[Data](articles/f7ce2540.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை சந்திக்க 6 மணி நேரம் பயணித்த தம்பதியினர்
+
+*2025-09-14 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225062) · `ta`
+
+குருநாகல், கல்கமுவவைச் சேர்ந்த ஒரு தம்பதியினர், முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை சந்திக்க தங்காலைக்கு ஆறு மணி நேர மோட்டார் சைக்கிள் பயணத்தை மேற்கொண்டுள்ளனர்.
+
+முன்னாள் ஜனாதிபதி கொழும்பிலிருந்து தங்காலை - கார்ல்டன் இல்லத்திற்கு சென்றிருப்பதை அறிந்ததும், அவர் மீதான தங்கள் பாசத்தின் காரணமாக இந்த பயணத்தை மேற்கொள்ள முடிவு செய்ததாக தம்பதியினர் தெரிவித்தனர்.
+
+அதேநேரம், முன்பள்ளி சிறுவர் பாடசாலையை சேர்ந்த குழுவொன்று அவர்களின் பெற்றோருடன் சேர்ந்து, முன்னாள் ஜனாதிபதியை சந்தித்துள்ளனர்.
+
+இதன்போது, அவர்கள் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு மரியாதை செலுத்தும் வகையில் பாடலொன்றையும் பாடியுள்ளனர்.
+
+◼️
+
+[Data](articles/5da8f6ea.json)
+
+---
+
+### 6 hours of traveling to see Mahinda
+
+*2025-09-14 14:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-பார்க்க-6-மணிநேரம்-பயணித்த-ஜோடி/175-364553) · `ta`
+
+A couple from Kurunegala, Kalgamuwa embarked on a six -hour motorcycle trip to Tangalle to meet former President Mahinda Rajapaksa at his Carlton residence.
+
+The couple said that the former president had come to Colombo from Colombo and decided to take the trip because of his love for him.. They then met Rajapakse and engaged in a friendly conversation.
+
+On the same day, a group of preschool children met with their parents, the former president. During his arrival, the children sang a song in his memory.
+
+◼️
+
+[Data](articles/1ab5fb99.json)
+
+[Extended Data](ext_articles/1ab5fb99.ext.json)
+
+---
+
+### Namal says the president has abandoned
+
+*2025-09-14 14:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-துறந்து-விட்டார்-என்கிறார்-நாமல்/175-364552) · `ta`
+
+Deputy Minister Namal Karunaratne said that after the retirement of President Anura Kumara Dissanayake, he was ready to give up all the facilities without using a second.
+
+As a result of the president's decision to compromise all the facilities, the former presidents had to give up on everything.
+
+The Deputy Minister said that the president had shown his decision to give up all the facilities by repealing the Bill of the former Presidents.
+
+◼️
+
+[Data](articles/e5490d63.json)
+
+[Extended Data](ext_articles/e5490d63.ext.json)
+
+---
+
+### When Nayanthara arrives, the crowd is twice the number
 
 *2025-09-14 14:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நயன்தாரா-வந்தால்-கூட்டம்-இரண்டு-மடங்காக-வரும்-விஜய்யை-சீண்டிய-சீமான்/175-364551) · `ta`
 
-ரஜினி, அஜித் வந்திருந்தால் இதைவிடவும் கூட்டம் வரும். நயன்தாரா வந்தால் இதைவிட இரண்டு மடங்கு கூட்டம் வரும். நீங்கள் கூட்டத்தை பார்க்காதீர்கள்; கொள்கையை பாருங்கள் என விஜய்க்கு திரண்ட கூட்டம் குறித்து நாம் தமிழர் கட்சியின் தலைமை ஒருங்கிணைப்பாளர் சீமான் விமர்சித்துள்ளார்.
+If Rajini and Ajith come to the crowd. If Nayanthara arrives, there will be twice as much crowd. You don't see the crowd; Seeman, the chief coordinator of the Tamil party, has criticized the meeting for Vijay as a look at the policy.
 
-கோவை விமான நிலையத்தில் செய்தியாளர்களை சந்தித்த சீமான், “விஜய் பரப்புரையை ஆரம்பித்துள்ளார், மக்கள் அதிகளவில் திரண்டுள்ளனர். திரையில் பார்த்த கலைஞர் தெருவுக்கு வருகிறார் என்பதால் விஜய்யை பார்க்க மக்கள் வந்துள்ளனர். நாங்கள் சின்ன பிள்ளைகளாக இருந்தபோது, எம்ஜிஆர், சிவாஜி வருகிறார் என மணிக்கணக்கில் காந்திருந்து நின்றிருக்கிறோம். நடிகர் வந்தால் கூட்டம் வரத்தான் செய்யும்.
+Seaman met with reporters at Coimbatore airport and said, “Vijay has launched the campaign.. People have come to see Vijay because the artist is coming to the street. When we were little children, MGR and Shivaji were standing in the sand for hours. If the actor comes, the crowd will come.
 
-சகோதரர் அஜித் வந்திருந்தால் இதைவிடவும் கூட்டம் வரும், ரஜினி வந்திருந்தாலும் இதை தாண்டி கூட்டம் வரும். நயன்தாராவை இறக்கிவிட்டால், இதைவிட இரண்டு மடங்கு கூட்டம் வரும். நீங்கள் கூட்டத்தை பார்க்காதீர்கள்; கொள்கையை பாருங்கள், இல்லையென்றால் உருப்படாது.
+If brother Ajith came, the crowd would come, even though Rajini was coming, the crowd would come beyond this. If Nayanthara is unloaded, there will be twice as much crowd. You don't see the crowd; Look at the policy, otherwise it will not.
+
+The only party that strives for the people is the Tamil party.. Next we are holding the conference of the mountains in Dharmapuri. ”
 
 ...
 
 [Data](articles/15fefe5c.json)
 
+[Extended Data](ext_articles/15fefe5c.ext.json)
+
 ---
 
-### ක්‍රිකට් ලොව වැඩිම අවධානයකට ලක්වෙන  පස මිතුරන්ගේ සටන අද
+### வெப்பநிலை எச்சரிக்கை  மட்டத்துக்கு அதிகரிக்கும் - வளிமண்டலவியல் திணைக்களம்
+
+*2025-09-14 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225059) · `ta`
+
+மனித உடலால் உணரக்கூடிய வெப்பநிலை எச்சரிக்கை மட்டத்துக்கு அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அதன்படி, வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களின் சில பகுதிகளிலும், மொனராகலை மாவட்டத்திலும் வெப்பநிலை எச்சரிக்கை மட்டத்திற்கு உயரக்கூடுமென தெரிவிக்கப்பட்டுள்ளது.
+
+பொதுமக்கள் அதிக நீர் அருந்துமாறும், வெப்பம் தொடர்பான நோய்களைத் தவிர்க்க பாதுகாப்பு நடவடிக்கைகளை முன்னெடுக்குமாறும் சுகாதார மற்றும் பாதுகாப்பு அதிகாரிகள் கேட்டுக்கொண்டுள்ளனர்.
+
+அதேநேரம், வெளிப்புற வேலைத் தளங்களில் பணிபுரியும் தொழிலாளர்கள் அதிக நீர் அருந்தவும், நிழலான பகுதிகளில் ஓய்வெடுக்கவும், தங்கள் செயல்பாடுகளை வேகப்படுத்தவும் அறிவுறுத்தப்படுகிறார்கள்.
+
+வெளிப்புற நடவடிக்கைகளை மட்டுப்படுத்தவும், நீரேற்றம், ஓய்வு மற்றும் நிழலுக்கு முன்னுரிமை அளிக்கவும், குளிர்ச்சியாக இருக்க வெளிர் நிற, சுவாசிக்கக்கூடிய ஆடைகளை அணியவும் வேண்டுமென அதிகாரிகள் பொதுமக்களுக்கு மேலும் பரிந்துரைக்கின்றனர்.
+
+◼️
+
+[Data](articles/38bb3661.json)
+
+---
+
+### The battle of friendship in the world is the world's most concerns today
 
 *2025-09-14 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214557) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ වඩාත් අවදානය දිනා ගන්නා ඉන්දියාව සහ පාකිස්තානය අතර තරගය අද (14) පැවැත්වීමට නියමිතව තිබේ.
+India and Pakistan will be played today (14), who won the most vulnerable in the Asia Cup 20 cricket tournament.
 
-ඩුබායි ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේදී පැවැත්වෙන තරගය මෙරට වේලාවෙන් රාත්‍රී 8.00ට පැවැත්වීමට නියමිතය.
+The game held at the Dubai International Cricket Stadium will be played at 8.00 pm.
 
-තරගාවලියේ ඒ කාණ්ඩයෙන් තරග වදින එම කණ්ඩායම් දෙකම මේ වන විට සහභාගී වූ පළමු තරගය ජයගැනීමට සමත්ව තිබේ.
+Both groups compete in the tournament and have won the first match.
 
-ඉන්දියාව සහ පාකිස්තානය අතර පවතින මතභේදාත්මක වාතාවරණය දෙරට අතර ක්‍රිකට් තරග සදහා ද බලපෑම් එල්ල කර ඇති අතර පසුගිය අප්‍රේල් මාසයේ සිදුවූ පෙහෙල්ගම් ත්‍රස්ත ප්‍රහාරය හේතුවෙන් මෙම තරගය ඉන්දියාව වර්ජනය කළ යුතු බවට ද ඇතැම් පාර්ශ්ව අදහස් පළ කර තිබුණි.
+The controversial atmosphere between India and Pakistan has also been affected by the two countries, and some parties have commented that the match should be boycotted by the match.
 
-එමෙන්ම ඉන්දීය ආම්ආද්මි පක්ෂය ප්‍රකාශ කර ඇත්තේ මෙම තරගාවලිය සඳහා ඉන්දීය කණ්ඩායම සහභාගී කරවීමෙන් ඉන්දීය මධ්‍යම රජය පෙහෙල්ගම් ප්‍රහාරයේ වින්දිතයින් නින්දාවට ලක්කර ඇති බවය.
+The Indian Army, the Indian central government has been humiliating the victims of the Pelgam attack on the tournament.
 
 ◼️
 
 [Data](articles/53b9cdb4.json)
+
+[Extended Data](ext_articles/53b9cdb4.ext.json)
+
+---
+
+### மூன்று வருட இடைவெளியில் மூன்று ஆட்சியாளர்களை விரட்டிய தெற்காசிய மக்கள் கிளர்ச்சிகள்
+
+*2025-09-14 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225061) · `ta`
+
+தெற்காசியாவில் மூன்று வருடங்களில் மூன்று அரசாங்கங்களை மக்கள் கிளர்ச்சிகள் பதவி கவிழ்த்திருக்கின்றன. முதலாவதாக,  2022 ஆம் ஆண்டின் நடுப்பகுதியில்  இலங்கையின் ' அறகலய ' மக்கள் கிளர்ச்சி ராஜபக்ச ஆட்சியை முடிவுக்கு கொண்டு வந்தது. இரண்டாவதாக,  2024 ஆகஸ்டில் பங்களாதேஷ் மக்கள் கிளர்ச்சி பிரதமர் ஷேய்க் ஹசீனாவின் அரசாங்கத்தை பதவி கவிழ்த்தது. மூன்றாவதாக, கடந்த வாரம் அதே போன்ற மக்கள் கிளர்ச்சி நேபாளத்தில் பிரதமர் கே.பி. சர்மா ஒலியின் அரசாங்கத்தை வீழ்த்தியிருக்கிறது.
+
+◼️
+
+[Data](articles/82895a51.json)
+
+---
+
+### 631 individuals arrested during special island-wide police raids
+
+*2025-09-14 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112486/631-individuals-arrested-during-special-island-wide-police-raids) · `en`
+
+A total of 631 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (13).
+
+As part of the operation, 25,774 persons were subjected to inspection, the Police Media Division said.
+
+Police have identified 22 individuals directly linked to criminal activities while 332 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 36 drunk drivers were apprehended while a further 21 reckless drivers and 3,673 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/8c0a9caf.json)
+
+---
+
+### Tourist arrivals in September top 52,000
+
+*2025-09-14 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112485/tourist-arrivals-in-september-top-52000) · `en`
+
+A total of 52,246 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 14,300 tourists have arrived from India which accounts to 27.4%. Furthermore, 4,092 persons from the United Kingdom, 3,488 from Germany, 2,796 from China and 2,603 Australian nationals have also visited Sri Lanka in the month of September.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,618,769 with the release of the latest figures for September.
+
+Among them, 339,895 individuals are from India, 155,233 from the UK and 119,132 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/43fb0aaf.json)
 
 ---
 
@@ -86,21 +236,23 @@ It is also reported that K. Nageswaran (71 years old) from Muttur Sampur area di
 
 ---
 
-### පෞද්ගලික හා ලංගම බස් දෙක රෙස් යයි
+### Private and SLTB buses go to RES
 
 *2025-09-14 13:23:49* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-ලංගම-බස්-දෙක-රෙස්-යයි/11-418485) · `si`
 
-අධික වේගයෙන්  අන්තරාකාරි ලෙස බස් රථය ධාවනය කර අනතුරක් කිරීමට උත්සාහ කළ පෞද්ගලික බස් රථයේ රියදුරුට එරෙහිව පියවර ගන්නා ලෙස ජනතාව ඉල්ලා සිටී.
+The people call for the driver of the private bus on the bus driver, driving the bus and operating the bus.
 
-බගවන්තලාව සිට හැටන් දක්වා ධාවනය වූ ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට අන්තරාකාරී ලෙස පෞද්ගලික බස් රථය උත්සාහ කළ බවට බස් රථයේ මගීහු චෝදනා කරති.
+The bus passengers complain that the Sri Lankan Transport Board bus to travel from the Bandaravawa to Hatton, he accused the backed by the private bus to pass.
 
-නල්ලතන්නි සිට හැටන් දක්වා ගමන් කළ පෞද්ගලික බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට උත්සාහ කළ බවට බස් රථයේ මගීන් චෝදනා කරති.
+The bus passengers accused the Sri Lanka Transport Board Bus was traveling in the front of the Sri Lanka Transport Board while he was heading ahead.
 
-මෙම සිදුවීම 2025.09.14 වන ඉරිදා උදෑසන සිදු විය. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
+This event took place on Sunday morning on 14.09.2011. The people further urges the traffic police to take action against bus drivers involved in the country.
 
 ◼️
 
 [Data](articles/6f17a5a7.json)
+
+[Extended Data](ext_articles/6f17a5a7.ext.json)
 
 ---
 
@@ -236,19 +388,25 @@ However, the Acting Magistrate of Marawila is scheduled to conduct the initial i
 
 ---
 
-### වැවට අයිති භූමිය වන සංරක්ෂණයෙන් ගල් දාලා අල්ලාගෙන
+### Holding stones with the lake belonging to the preservation
 
 *2025-09-14 12:37:25* · [`adalk`](https://www.ada.lk/breaking_news/වැවට-අයිති-භූමිය-වන-සංරක්ෂණයෙන්-ගල්-දාලා-අල්ලාගෙන/11-418484) · `si`
 
-අනුරාධපුර දිස්ත්‍රික්කයේ එප්පාවල ගොවිජන සේවා බල ප්‍රදේශයට අයත් කඳුරුගස්වැව දික්වැව ගම්මානයේ වැව් මායිම තුළ වන සංරක්ෂණ දෙපාර්තමේන්තුව මඟින් රක්ෂිත මායිම් ගල් දැමීම හේතුවෙන් තම වැවට හිමි භූමි ප්‍රමාණය අඩු වී ඇතැයි ගොවීන් චෝදනා කර සිටිති.
+Farmers have complained that the land area of ​​the Dickwewa village of the Dickwewa village in the Eppawala area of ​​Eppawala in the Anuradhapura District has reduced the land area of ​​the Department of Conservation.
 
-මේ හේතුවෙන් යම් දිනෙක වැව ප්‍රථිසංස්කරණය කිරීමේදී වැව නිසි ලෙස ප්‍රථිසංස්කරණයක් සිදු කර ගැනීමට නොහැකි වනු ඇතැයිද ගොවීන් පෙන්වා දෙති.
+As a result, the farmers point out that the tank will not be able to make the tank in the reconstruction of tank.
 
-අනුරාධපුර දිස්ත්‍රික්කයේ එප්පාවල ප්‍රදේශයේ පිහිටි කඳුරුගස්වැව ගම්මානයේ බොහෝ ගොවීන් පිරිසක් මෙම දික්වැව වැවෙන් තම වගා කටයුතු සඳහා ජලය ලබා ගනිති.මෙම වැව අහස් දියෙන් පමණක් පෝෂණය වන වැවක් වන අතර, එලෙස වැස්සෙන් පිරෙන වැවෙන් අවුරුද්ද පුරා  අක්කර 160 ක් දෙකන්නයම වගා කිරීම සිදු කරති.මෙම වැවෙන් පහළ කොටස පමණක් ගොවීන් වී වගාව සිදු කරන අතර, වැව් ඉස්මත්ත ලෙස එප්පාවල පොස්පේට් රක්ෂිතය පවතියි.එම ප්‍රදේශයේ කිසිදු වගාවක් සිදු කිරීමක් හෝ වැව් රක්ෂිත අත්පත් කර ගැනීමක් මෙම ගම්වාසීන් විසින් සිදු කර නොමැති බවද දැක ගත හැකිය.
+Many farmers in the Kandurugaswewa village in the Eppawala area in Anuradhapura District have been cultivated by the rainfill. It is possible that these villagers have not done an acquisition of an acquisition of a tank or tanks.
+
+Farmers say that the premises of the forest have been marked by the forest reserve by the Forest Department in the tank.
+
+Farmers point out that the lake is filled with 100 feet more than 100 feet about 100 feet about 100 feet 200 feet in the rainfall, despite a rainy weather.. The farmers also point out that the construction of these forest conservation boundaries have to remove these forest conservation boundaries in the week.
 
 ...
 
 [Data](articles/4bfcc46d.json)
+
+[Extended Data](ext_articles/4bfcc46d.ext.json)
 
 ---
 
@@ -619,6 +777,24 @@ Anura Priyadarshana Yapa, Wimal Weerawansa, Tran Ales, Sujeewa Semasinghe and Ja
 [Data](articles/079b14a6.json)
 
 [Extended Data](ext_articles/079b14a6.ext.json)
+
+---
+
+### பாரிய நிதி ஒதுக்கீடு அவசியமா?
+
+*2025-09-14 11:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-நிதி-ஒதுக்கீடு-அவசியமா/175-364540) · `ta`
+
+வியாழக்கிழமை (11) நடைபெற்ற CoPF கூட்டத்தின் போது, ​​பொது நிதி தொடர்பான பாராளுமன்றக் குழுவின் (CoPF) தலைவர் கலாநிதி ஹர்ஷ டி சில்வா, லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவின் சம்பள ஒதுக்கீடுகளில் ஏற்பட்டுள்ள கூர்மையான அதிகரிப்பை எடுத்துக்காட்டி (CIABOC) முன்மொழியப்பட்ட 2026 வரவு செலவுத் திட்டம் குறித்து கவலைகளை எழுப்பியுள்ளார்..
+
+புதிய திட்டத்தின் கீழ், தற்போதைய கட்டமைப்பின் கீழ் சம்பள ஒதுக்கீடு ரூ. 354 மில்லியனில் இருந்து ரூ. 777 மில்லியனாக உயரும், இது ஆணையத்தின் ஊழியர்களை 489 இலிருந்து 967 ஆக விரிவுபடுத்தவும், நாடு முழுவதும் பிராந்திய அலுவலகங்களை நிறுவவும் உள்ள திட்டங்களை பிரதிபலிக்கிறது.
+
+இவ்வளவு பெரிய முன்பண ஒதுக்கீடு அவசியமா என்று டி சில்வா கேள்வி எழுப்பினார்,
+
+உண்மையான பணியாளர் நிலைகள் மற்றும் உள்கட்டமைப்பு தயார்நிலையுடன் செலவினங்களை சீரமைக்க வேண்டியதன் அவசியத்தை வலியுறுத்தினார். "ஒதுக்கீடுகள் திட்டமிடப்பட்ட வளர்ச்சியை மட்டுமல்ல, உண்மையான செயல்பாட்டுத் தேவைகளையும் பிரதிபலிக்க வேண்டும்," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/1bfe2e79.json)
 
 ---
 
@@ -1917,211 +2093,5 @@ The shops on the bus stand is removed from the site, regard to the renovation of
 [Data](articles/95d3c42d.json)
 
 [Extended Data](ext_articles/95d3c42d.ext.json)
-
----
-
-### Triangle
-
-*2025-09-13 20:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திடீரென-பற்றி-எரிந்த-முச்சக்கரவண்டி/76-364506) · `ta`
-
-A three -wheeler has suddenly caught fire on the Nawalapitiya - Tekinda road this morning, police said.
-
-The Nawalapitiya police said that the incident occurred on the occasion of attending an event in the Tekinda area and no one was injured.
-
-Police said the fuel leakage in the three -wheeler was the cause of the fire.. Remble
-
-◼️
-
-[Data](articles/d9d63492.json)
-
-[Extended Data](ext_articles/d9d63492.ext.json)
-
----
-
-### Doctor's intercourse with the nurses
-
-*2025-09-13 20:29:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/அறுவை-சிகிச்சையின்-இடைநடுவே-தாதியுடன்-வைத்தியர்-உடலுறவு/53-364505) · `ta`
-
-In the UK, a doctor involved in a sexual relationship with a nurse after leaving an anesthetic patient.
-
-The doctor then went from the UK to his home country of Pakistan.
-
-However, the medical coaches have been investigated by the Tribunal in connection with the incident seeking permission to work again in the UK.
-
-He also said that he had suspended the operation for about 8 minutes.
-
-At the same time, the doctor said in the Tribunal that the involvement of the act was wrong and that he was ashamed.
-
-He said that the stress of the birth of her baby in January 2023 led to this.
-
-International media reports that a case is being filed in connection with the incident.
-
-Sexual intercourse between doctors and nurse during surgery is being criticized in the medical sector that it is a crime that is anti -medical morality, illegal and severe medical and legal consequences.
-
-It is said that if the patient's safety and life -threatening act, it will affect the reputation and reliability of the medical industry.
-
-◼️
-
-[Data](articles/9d0806e1.json)
-
-[Extended Data](ext_articles/9d0806e1.ext.json)
-
----
-
-### The government is expected to strengthen local entrepreneurs and meet economic growth targets
-
-*2025-09-13 20:07:46* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-ව්‍යවසායකයින්-ශක්තිමත්-කර-ආර්ථික-වර්ධන-ඉලක්ක-සපුරා-ගැනීම-රජයේ-අපේක්ෂාවයි/11-418477) · `si`
-
-President Anura Kumara Dissanayake said the government hopes to contribute to the provision of rules and regulation of the infrastructure needed to do business.
-
-The President made this observation at the Presidential Secretariat with a 2026 pre-budget discussion with the Delegation of the Youth Entrepreneurs (COYLE).
-
-The departments were made in writing of the challenges and problems that have arisen in the field.
-
-Special attention has been paid to the fact that special attention to the state of this year's budget to lift the state.
-
-2026 The President also evaluated the government's commitment to create a country that was strongly confirmed by the law, corruption and frauds that had been asserted to the Budget for the budget.
-
-And they also presented a souvenir to President Anura Kumara Dissanayake to mark this occasion.
-
-◼️
-
-[Data](articles/10315e1f.json)
-
-[Extended Data](ext_articles/10315e1f.ext.json)
-
----
-
-### Army deserter who shot dead 4 persons last month arrested by STF
-
-*2025-09-13 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112462/army-deserter-who-shot-dead-4-persons-last-month-arrested-by-stf) · `en`
-
-A former army soldier suspected of being involved in four murders, including the shooting death of a former prison officer in Bandaragama and the recent killing of two youths in Borella, has been arrested by the Police Special Task Force (STF).
-
-Police stated that they have received information that the suspect was involved in the shooting and killing of four individuals within the month of August alone.
-
-The Joint Special Operations Unit of the STF camp in Sri Jayawardenapura had received information that the shooter in the murder of two youths in the Sirisara Uyana area of Borella on August 07 was hiding in the Siyambalanduwa area in Ampara.
-
-Accordingly, the suspect in question was arrested in that area yesterday (12).
-
-Further investigations into the suspect have revealed that he was also the shooter in the murder of former prison officer Lalith Kodagoda near the Thunodhiya Bridge in Bandaragama on August 21.
-
-...
-
-[Data](articles/a07c5c19.json)
-
-[Extended Data](ext_articles/a07c5c19.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2025-09-13 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214534) · `si`
-
-Sri Lanka won the toss and win the coin between Sri Lanka and Bangladesh in the Asia Cup T20 cricket tournament today (13).
-
-Accordingly, the Sri Lankan team first invited Bangladesh to bat.
-
-This is the first match of the Sri Lankan team in Abuvenabiu as a 'B' match.
-
-This is also the third time in Sri Lanka and Bangladesh United Arabian Emirates.
-
-Sri Lanka team has won both matches in Sharjah and Dubai.
-
-This is the first time in Abu Dhabi, a Twenty20 cricket match.
-
-Hong Kong defeated the Hong Kong by 7 wickets in the first match of Bangladesh in this tournament.
-
-Charith Belivery, the captaincy of the Sri Lankan team, bear the Bangladesh leadership by Linton HS.
-
-◼️
-
-[Data](articles/ea13e063.json)
-
-[Extended Data](ext_articles/ea13e063.ext.json)
-
----
-
-### United for Nature: Citizens, Forces and Agencies Rally to Clean Kalagama and Balalu Wewa
-
-*2025-09-13 19:32:00* · [`islandlk`](http://island.lk/united-for-nature-citizens-forces-and-agencies-rally-to-clean-kalagama-and-balalu-wewa/) · `en`
-
-In a rare show of unity and determination, more than 2,000 people—from the armed forces to village families—joined hands over three consecutive days to clean up the Kalagama and Balalu Wewa areas, spanning nearly 20 acres of land.
-
-The operation, spearheaded by the conservation group Wild Tuskers of Sri Lanka (WTS), has been hailed as one of the largest and most inclusive community-driven environmental campaigns in recent years.
-
-The effort unfolded with military precision. On the first day, about 650 personnel from the Army, Navy, and Air Force took the lead, clearing vast stretches of polluted land and waterways. The following day saw the participation of 800 villagers and residents, while the third day brought together around 700 people—a blend of forces, families, and volunteers who worked shoulder to shoulder until the task was complete.
-
-...
-
-[Data](articles/476ad50f.json)
-
-[Extended Data](ext_articles/476ad50f.ext.json)
-
----
-
-### 13 more Sri Lankans detained in Myanmar
-
-*2025-09-13 19:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-மேலும்-13-இலங்கையர்கள்-தடுத்து-வைப்பு/175-364504) · `ta`
-
-The Foreign Ministry has said that 13 more Sri Lankans have been detained in Myanmar's cybercrime scam camps.
-
-These cybercrime scam camps in Miyawadi area in Myanmar are operating by extremists.
-
-It is reported that Sri Lankans who went to Myanmaru on a tourist visa have been detained in cybercrime scam camps.
-
-The Ministry of External Affairs has said that steps are being taken to bring them back. Remble
-
-◼️
-
-[Data](articles/ee9f8efd.json)
-
-[Extended Data](ext_articles/ee9f8efd.ext.json)
-
----
-
-### Former soldier arrested for three murders
-
-*2025-09-13 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214533) · `si`
-
-A former Army soldier who is suspected of connecting four murders including a former prison officer in Bandaragama and two youths in Borella.
-
-The police said that the suspect had reportedly had four people shot dead last August alone.
-
-The murdering incident in the Siyambalanduwa area was hiding in the Siyambalanduwa area in Ampara on 07th August, the shooter shot dead in Borella.
-
-Accordingly, the person was arrested yesterday (12th).
-
-Investigations have revealed that he had been shooting at the Bandara and Former Prison officer Lalith Kodagoda, a former prison officer in Bandaragama, Bandara and Former Prison officer in Bandaragama, Bandaragama.
-
-The victim was suspected of killing as the Showdraw in the Panadura South Gangarawatta in the Panadura South Mahodadu Mahabagahawatta.
-
-Accordingly, four persons have died in three occasions in August alone.
-
-Investigations have also been found in the possession of the Ice narcotics at the time of his arrest.
-
-...
-
-[Data](articles/ba397e41.json)
-
-[Extended Data](ext_articles/ba397e41.ext.json)
-
----
-
-### Sepsis: Just Ask—Could It Be Sepsis?
-
-*2025-09-13 19:13:00* · [`islandlk`](http://island.lk/sepsis-just-ask-could-it-be-sepsis/) · `en`
-
-Sepsis is a serious, potentially life-threatening condition that requires urgent medical attention. Despite its prevalence, sepsis remains one of the most under-recognized illnesses in both developing and developed countries.
-
-The Global Sepsis Alliance (GSA)—a non-profit organization—provides global leadership in efforts to reduce the burden of sepsis worldwide. GSA has designated September 13th as World Sepsis Day, and various awareness initiatives are carried out throughout the month to educate the public, healthcare professionals, and policymakers about the signs, symptoms, and importance of timely intervention for sepsis.
-
-In 2017, the World Health Organization (WHO) with the World Health Assembly recognized sepsis as a global health crisis and declared sepsis as a global health priority.
-
-...
-
-[Data](articles/127ce59d.json)
-
-[Extended Data](ext_articles/127ce59d.ext.json)
 
 ---

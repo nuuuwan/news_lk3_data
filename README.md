@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 10:37:44**
+As of **2025-09-14 10:07:46**
 
 ## Newspaper Stats
 
-*Scraped **75,823** Articles*
+*Scraped **75,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,101 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,361
 adaderanalk | 9,745
-tamilmirrorlk | 11,330
+tamilmirrorlk | 11,327
 virakesarilk | 12,352
-adaderanasinhalalk | 13,227
+adaderanasinhalalk | 13,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,681 (93.2%) of 75,823 articles have been extended.
+70,660 (93.2%) of 75,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### பழைய முறையின் கீழ் மாகாண சபைத் தேர்தல்
-
-*2025-09-14 10:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-முறையின்-கீழ்-மாகாண-சபைத்-தேர்தல்/175-364533) · `ta`
-
-எல்லை நிர்ணய செயல்முறையில் ஏற்பட்ட கருத்து வேறுபாடுகளால் ஏற்பட்ட முட்டுக்கட்டையைச் சமாளிக்க, பழைய முறையின் கீழ் மாகாண சபைத் தேர்தலை நடத்துவது குறித்து அரசாங்கம் பரிசீலித்து வருவதாக அறியமுடிகின்றது.
-
-புதிய எல்லை நிர்ணய செயல்முறை சிக்கலானது நீண்ட காலமாக இருப்பதால், அடுத்த தேர்தலுக்கு 1988 ஆம் ஆண்டு மாகாண சபைத் தேர்தல் சட்டத்திற்கு மாற்றுவதற்கான திட்டம் பரிசீலனையில் இருப்பதாக அரசாங்கத் தகவல்கள் தெரிவிக்கின்றன.
-
-"பழைய முறையின் கீழ் கடைசி முறையாக அதை நடத்துவது குறித்து நாங்கள் பரிசீலித்து வருகிறோம், இது எல்லை நிர்ணய செயல்முறையை முடிக்க நேரம் கொடுக்கும், அதன் பிறகு 2017 ஆம் ஆண்டு மாகாண சபைச் சட்டத்தின் கீழ் தேர்தல்களை நடத்த முடியும்," என்று அந்த தகவல் தெரிவித்துள்ளது.
-
-மாகாண சபைத்  தேர்தலை மேலும் தாமதமின்றி நடத்த அரசாங்கத்தின் மீது அழுத்தம் அதிகரித்து வருகிறது. அதிகாரப் பரவலாக்கலை அர்த்தமுள்ளதாக மாற்றுவதற்காக முன்கூட்டியே தேர்தல் நடத்த வேண்டும் என்று இந்தியாவின் முக்கிய குழு வலியுறுத்துவதால், அரசாங்கத்தின் மீது அழுத்தம் அதிகரித்து வருகிறது
-
-...
-
-[Data](articles/a833b58b.json)
-
----
-
-### "PACIFICL 2025" training exercise concludes
-
-*2025-09-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214547) · `si`
-
-"PACIFICAL ANGEL 2025" has been successfully completed with the participation of many countries.
-
-The training exercise has been successfully completed at the Sri Lanka Air Force Base of the Sri Lanka Air Force Base in Katunayake.
-
-The training exercise was held in a number of countries with the participation of the Sri Lanka Air Force and the United States Embassy.
-
-Secretary Defense Air Vice Marshal Resources (Pension Marshal Sudha), Sri Lanka and Air Force Commander of the Air Force, Air Marshal Bandha (PSC Air Marshal Bandu Edirisinghe) was attended by the Defense Secretary (Pension) for the event.
-
-◼️
-
-[Data](articles/b81882e5.json)
-
-[Extended Data](ext_articles/b81882e5.ext.json)
-
----
-
-### Hotel Manager Massacre: 3 Police for 7 years
-
-*2025-09-14 10:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-முகாமையாளர்-படுகொலை-3-பொலிஸாருக்கு-7-வருட-கடூழிய-சிறை/175-364531) · `ta`
-
-Ponnaruwa High Court judge sentenced three policemen to a 7 -year -old jail on Friday (12). .
-
-The Polonnaruwa District Narcotics Police Division, led by the Inspector of Police in 2004, raided a hotel in a hotel and searched for illegal liquor.
-
-Subsequently, the four policemen were arrested and produced in court, remanded and later released on bail and they were suspended.
-
-Police Inspector Vasantha has died of the disease as the case is being heard in the Polonnaruwa High Court.
-
-Following this, the other three policemen reunited in January 2025 and one of them was transferred to the Batticaloa Police Superintendent's Office and two other police stations in other districts.
-
-When the case was taken up in the Supreme Court on Friday (12), three policemen and three judges were sentenced to seven years rigorous imprisonment after witnesses and evidence were found guilty.
-
-Subsequently, the three were taken to the Polonnaruwa Prison.
-
-◼️
-
-[Data](articles/0b31c39a.json)
-
-[Extended Data](ext_articles/0b31c39a.ext.json)
-
----
-
-### “Pacific Angel ௨௦௨௫”
-
-*2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
-
-The "Pacific Angel 2025" training began on Monday (08) and successfully ended on the “East (12) (12th). The closing ceremony of the training held at the US Embassy in Sri Lanka, Katunayake, in partnership with the Sri Lanka Air Force (SLAF) and the Ministry of Defense.
-
-Defense Secretary Air Vice Marshal Sampath (Retired), US Ambassador Julie Sung and Air Force Commander Air Marshal Ball Edizinga attended the function.
-
-Pacific Angel 2025. The training was held with the participation of the Sri Lankan Army and the Navy, including the US Pacific forces, the Royal Australian Air Force, the Japanese Air Self-Security Force, the Maldives National Security Force and the Bangladesh Air Force.
-
-...
-
-[Data](articles/516b6382.json)
-
-[Extended Data](ext_articles/516b6382.ext.json)
-
----
 
 ### NDDCB handed over records of chemicals found in Midden
 
@@ -138,8 +56,6 @@ The National Dangerous Drugs Control Board (NDDCB) has submitted its report to t
 
 [Data](articles/c9e4bd0b.json)
 
-[Extended Data](ext_articles/c9e4bd0b.ext.json)
-
 ---
 
 ### Fiery accident leaves 15 dead in Mexico’s Yucatan Peninsula
@@ -157,8 +73,6 @@ The accident, which occurred on the highway between Merida and Campeche, killed 
 ◼️
 
 [Data](articles/3656ac0c.json)
-
-[Extended Data](ext_articles/3656ac0c.ext.json)
 
 ---
 
@@ -231,8 +145,6 @@ The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally i
 ...
 
 [Data](articles/64842b95.json)
-
-[Extended Data](ext_articles/64842b95.ext.json)
 
 ---
 
@@ -343,8 +255,6 @@ DMT is currently taking steps to issue the necessary guidelines for this through
 ...
 
 [Data](articles/f87da8ac.json)
-
-[Extended Data](ext_articles/f87da8ac.ext.json)
 
 ---
 
@@ -2127,5 +2037,77 @@ Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar reven
 [Data](articles/a1e1cd4c.json)
 
 [Extended Data](ext_articles/a1e1cd4c.ext.json)
+
+---
+
+### A powerful earthquake in Russia
+
+*2025-09-13 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214514) · `si`
+
+Foreign media reports have reported that a powerful earthquake is beyond the coast of Kamchatka Beach in Russia.
+
+◼️
+
+[Data](articles/2d990175.json)
+
+[Extended Data](ext_articles/2d990175.ext.json)
+
+---
+
+### From Opposition Stand To Government Policy: The NPP’s Reversal On PC Delimitation
+
+*2025-09-13 10:56:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-opposition-stand-to-government-policy-the-npps-reversal-on-pc-delimitation/) · `en`
+
+The trajectory of Sri Lanka’s National People’s Power (NPP) on the question of Provincial Council (PC) elections underscores how political priorities shift with the assumption of state power. Once, as the Janatha Vimukthi Peramuna (JVP), the party spearheaded the rejection of delimitation. Today, with a commanding two-thirds majority in Parliament, the NPP has recommitted to the very process it once condemned—announcing at the United Nations Human Rights Council (OHCHR) today that PC elections will only be held once a new delimitation exercise is complete.
+
+In 2017, the UNP–SLFP coalition amended the law to introduce a mixed electoral system for PCs. A Delimitation Committee led by K. Thavalingam was tasked with redrawing electoral boundaries.
+
+...
+
+[Data](articles/398a1503.json)
+
+[Extended Data](ext_articles/398a1503.ext.json)
+
+---
+
+### Arrest warrant issued for Weligama PS Chairman
+
+*2025-09-13 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112456/arrest-warrant-issued-for-weligama-ps-chairman) · `en`
+
+The Matara Chief Magistrate’s Court has issued a warrant for the arrest of Weligama Pradeshiya Sabha Chairman Lasantha Wickramasekara.
+
+The order was issued when the case was called before Matara Chief Magistrate Chathura Dissanayake yesterday (12).
+
+The warrant follows the chairman’s failure to appear in court in a case alleging that he threatened to kill National People’s Power Pradeshiya Sabha member and Attorney-at-Law Tharaka Nanayakkara.
+
+A case has been filed against Wickramasekara under the Victims Protection Act for allegedly threatening Attorney-at-Law Nanayakkara, who contested the Weligama Pradeshiya Sabha elections representing the National People’s Power.
+
+When the case was taken up at the Matara Magistrate’s Court, the accused did not appear, said Ada Derana reporter.
+
+During the court proceedings, the accused did not appear, and a legal representative informed the court of his ill health.
+
+However, the warrant was issued due to the absence of his guarantors in court.
+
+◼️
+
+[Data](articles/6cdbfafe.json)
+
+[Extended Data](ext_articles/6cdbfafe.ext.json)
+
+---
+
+### Dialogue Across Worlds: Science, Spirituality, & The Journey Of A Book
+
+*2025-09-13 10:45:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dialogue-across-worlds-science-spirituality-the-journey-of-a-book/) · `en`
+
+About the Author: Bhante Missaka Kamalasiri, a Buddhist monk of Sri Lankan origin, has spent decades exploring the Himalayan spiritual landscape. Far beyond the role of a traveler, he has immersed himself in spiritual practice and direct experience, guided by his teacher, Ananda Maitriya Mahasthavir. Drawing inspiration from the wisdom of the Himalayas, his work bridges culture, spirituality, and human understanding, reminiscent of the contributions of Alexandra David Neel and Paul Brunton.
+
+In a conversation that meandered like the mountain trails he once walked, Bhante Missaka Kamalasiri reflected on the broader vision behind his book, Whispering Echoes of the Himalayas.
+
+...
+
+[Data](articles/d038ed67.json)
+
+[Extended Data](ext_articles/d038ed67.ext.json)
 
 ---

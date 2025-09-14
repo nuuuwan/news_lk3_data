@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 13:05:43**
+As of **2025-09-14 13:38:25**
 
 ## Newspaper Stats
 
-*Scraped **75,861** Articles*
+*Scraped **75,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,187 @@ economynextcom | 4,596
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,364
-adaderanalk | 9,750
-tamilmirrorlk | 11,341
-virakesarilk | 12,363
-adaderanasinhalalk | 13,234
+adalk | 7,365
+adaderanalk | 9,754
+tamilmirrorlk | 11,342
+virakesarilk | 12,365
+adaderanasinhalalk | 13,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,849 (93.4%) of 75,861 articles have been extended.
+70,873 (93.4%) of 75,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### මිලියන 210ක රන් බිස්කට් සමග ගුවන්තොටුපොළ සේවකයෙක් කොටුවෙයි
+### ඇමති විජිත සහ එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් අතර හමුවක්
+
+*2025-09-14 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214556) · `si`
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා සහ එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් වෝල්කර් ටර්ක් මහතා අතර හමුවක් සිදුව තිබේ.
+
+ඒ ජිනීවා හී පැවැති එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 60 වැනි සැසිවාරය අතරතුරදීය.
+
+එහිදී මානව හිමිකම් ප්‍රවර්ධනය කිරීම සහ ආරක්ෂා කිරීම සඳහා රට තුළ ගෙන ඇති පියවර ක්‍රියාත්මක කිරීමේදී එක්සත් ජාතීන්ගේ සංවිධානයට ශ්‍රී ලංකා රජය වෙනුවෙන් ලබා දිය හැකි සහයෝගීතාවය සහ සහාය පිළිබඳව මෙහිදී සාකච්ඡා වී තිබේ.
+
+මේ සම්බන්ධයෙන් සියලුම ශ්‍රී ලාංකිකයින්ගේ ආර්ථික, සමාජීය, සිවිල් සහ දේශපාලන අයිතිවාසිකම් ඇතුළු සියලුම මානව හිමිකම් ආරක්ෂා කිරීමේ අවශ්‍යතාවයද අවධාරණය කෙරිණි.
+
+මෙහිදී අමාත්‍යවරයා විසින් මානව හිමිකම් කවුන්සිලය වෙත සිදුකළ ප්‍රකාශයේ සඳහන් කරුණු පිළිබඳව වැඩිදුර තොරතුරු එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස්වරයා වෙත ලබා දුන් අතර ඒවා සම්පූර්ණ කිරීම සඳහා රජයට කාලය සහ අවකාශය අවශ්‍ය බව නැවත අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/01829902.json)
+
+---
+
+### நேட்டோ நாடுகளுக்கு ட்ரம்ப் இறுதி எச்சரிக்கை
+
+*2025-09-14 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேட்டோ-நாடுகளுக்கு-ட்ரம்ப்-இறுதி-எச்சரிக்கை/50-364549) · `ta`
+
+ரஷ்யாவிடம் இருந்து எண்ணெய் வாங்குவதை நேட்டோ நாடுகள் உடனடியாக நிறுத்திக் கொள்ள வேண்டும் என்று அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் இறுதி எச்சரிக்கை விடுத்துள்ளார்.
+
+உக்ரைன் மீதான ரஷ்யாவின் போரை முடிவுக்குக் கொண்டு வர டொனால்ட் ட்ரம்ப் பல்வேறு முயற்சிகளை மேற்கொண்டு வருகிறார். ரஷ்யாவுக்கு எதிராக பல்வேறு பொருளாதார தடைகளை விதித்த அவர், ரஷ்யாவுடன் வலிமையான வர்த்தக உறவில் இருக்கும் நாடுகளுக்கு எதிராகவும் வரி விதிப்பு உள்ளிட்ட நடவடிக்கைகளை மேற்கொண்டார். மேலும், ரஷ்ய ஜனாதிபதி விளாடிமிர் புதினை நேரில் சந்தித்தும் பேச்சுவார்த்தை நடத்தினார்.
+
+இவை எதுவும் போதிய பலன் தரவில்லை. உக்ரைன் குறித்த அமைதிப் பேச்சுவார்த்தையை நிறுத்திவிட்டதாக சமீபத்தில் ரஷ்யா அறிவித்தது. தொடர்ந்து அது உக்ரைனுக்கு எதிராக ராணுவ நடவடிக்கைகளை எடுத்து வருகிறது.
+
+இந்தியா, சீனா உள்ளிட்ட நாடுகள் ரஷ்யாவிடம் இருந்து அதிக அளவில் கச்சா எண்ணெய் வாங்குவதே போர் தொடர்வதற்குக் காரணம் என கூறி அவற்றுக்கு எதிராக அழுத்தம் கொடுத்து வந்த ட்ரம்ப், தற்போது தனது நட்பு நாடுகளான நேட்டோ நாடுகளுக்கும் அழுத்தம் கொடுக்கத் தொடங்கி உள்ளார்.
+
+...
+
+[Data](articles/5b93c0ea.json)
+
+---
+
+### A special announcement for conducting school examinations in 2026
+
+*2025-09-14 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214555) · `si`
+
+The Ministry of Education has issued a special announcement on the exams to be held in 2026.
+
+Accordingly, the GCE (2026) GCE (2026). Ordinary text is scheduled to be held from 2026-02-17 to 2026-026.
+
+Also GCE Advanced Level. The A / L examination will be held from 2026-08-10 to 2026-09-05.
+
+The statement states that the Grade 5 scholarship examination will be held 2026-08-09.
+
+It also states that 2026 GCE Advanced Level. The GCE Ordinary Level Examination will be held from 2026-12-08 to 2026-12-17.
+
+◼️
+
+[Data](articles/f8237757.json)
+
+[Extended Data](ext_articles/f8237757.ext.json)
+
+---
+
+### A airport worker arrested with 210 million gold biscuits
 
 *2025-09-14 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214553) · `si`
 
-රුපියල් මිලියන 210කට අධික වටිනාකමකින් යුත් රන් බිස්කට් තොගයක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ බව කියන ශ්‍රී ලංකා ගුවන් තොටුපළ සහ ගුවන් සේවා හී කාර්ය මණ්ඩල සාමාජිකයෙකු අත්අඩංගුවට ගත් බව ශ්‍රී ලංකා රේගුව පවසයි.
+Sri Lanka Customs says that a staff member has been arrested in Sri Lanka Airport and Aviation, which has attempted to carry a stock of gold biscuits worth Rs. 210 million.
 
-54 හැවිරිදි මෙම පුද්ගලයා බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ කාර්ය මණ්ඩල පිවිසුමේදී අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔහු සතුව කැරට් 24ක රන් බිස්කට් කිලෝ 5.94ක් තිබී රේගු භාරයට ගෙන තිබේ.
+The 54-year-old man was arrested at the Caradana International Airport staff and was arrested in customs with a gold biscuit of 24 carrots.
 
-සැකකරු විසින් ඔහුගේ මේස් මත සඟවා මෙම රන් බිස්කට් තොගය ගුවන් තොටුපළ පරිශ්‍රයෙන් පිට කිරීමට තැත් කර ඇති බවද රේගුව පැවසීය.
+Customs said that the suspect hid the gold on his socks and tried to leave the gold biscuit from the premises.
 
 ◼️
 
 [Data](articles/63f72384.json)
 
+[Extended Data](ext_articles/63f72384.ext.json)
+
 ---
 
-### හිස, දෙඅත් සහ කකුල් නොමැති මළ සිරුරක් හමුවෙයි
+### Dead body found in the head, their feet and legs
 
 *2025-09-14 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214554) · `si`
 
-මාරවිල මූදු කටුව වෙරළ තීරයට මළ සිරුරක් ගොඩ ගසා ඇති බවට අද පැමිණිල්ලකට අනුව මාරවිල පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+The Marawila police have launched an investigation into a complaint that a body has been recovered to the coast of Marawila.
 
-එම මළ සිරුරේ හිස, දෙඅත් සහ කකුල් තිබී නොමැති අතර නිල් පැහැති කොට කලිසමක් සහිත ශරීරයේ එක් කොටසක් පමණක් ඉතිරිව තිබූ බව පොලීසිය පැවසුවේය.
+The body was not found in the body, their heads and legs, and only one part of a blue-colored shorts.
 
-පොලීසිය සැක පළ කරන්නේ අදාළ මළ සිරුර පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් විය හැකි බවය.
+Police suspect that the corpse can be a dead body of a man.
 
-කෙසේ වෙතත් මාරවිල වැඩබලන මහේස්ත්‍රාත්වරයා විසින් මූලික පරීක්ෂණ සිදු කිරීමට නියමිත අතර මාරවිල පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+However, the Marawila Acting Magistrate is due to conduct initial investigations and Marawila police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b007e707.json)
+
+[Extended Data](ext_articles/b007e707.ext.json)
+
+---
+
+### Murder of mother and son in Karandeniya area; Arrests
+
+*2025-09-14 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225048) · `ta`
+
+On the evening of the 11th, the suspect was arrested by the Karandeniya police in connection with the murder of a mother and son in Kodawela area in Karandeniya.
+
+Investigations have revealed that the arrested suspect is a resident of the murderers and is involved in illegal liquor business.
+
+The bodies of the victims of the incident have been handed over to their relatives and funerals will be held on Sunday evening.
+
+◼️
+
+[Data](articles/35aef4b7.json)
+
+[Extended Data](ext_articles/35aef4b7.ext.json)
+
+---
+
+### Vehicle accident in Weligama; Fation
+
+*2025-09-14 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225046) · `ta`
+
+The lorry from Weligama to Akurassa crashed into a motorcycle in the opposite direction, and the man was admitted to the Valani hospital after he was admitted to the hospital after he was admitted to the hospital.
+
+The deceased has been identified as a 33 -year -old woman from Nitangala, Thenipitiya.
+
+◼️
+
+[Data](articles/39bb6ff0.json)
+
+[Extended Data](ext_articles/39bb6ff0.ext.json)
+
+---
+
+### සෞඛ්‍ය අභියෝග ජයග්‍රහණය කිරීමට විශේෂ වැඩපිළිවෙලක්
+
+*2025-09-14 12:26:23* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-අභියෝග-ජයග්‍රහණය-කිරීමට-විශේෂ-වැඩපිළිවෙලක්/11-418483) · `si`
+
+ඉදිරියේ දී මෙරට ජනතාවට එල්ළවන සෞඛ්‍ය අභියෝග ජයග්‍රහණය කිරීම සදහා වර්තමානයේ ඊට අවශ්‍ය පදනම සකස් කිරීම සෞඛ්‍ය අමාත්‍යාංශය කළයුතු  බවත්, ඊට අවශ්‍ය වැඩපිළිවෙල මේ වන විට සැලසුම් කරන බව  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කරයි.
+
+අමාත්‍යවරයා මෙම කරුණු අවධාරණය කර සිටියේ ජාත්‍යන්තර භෞත චිකිත්සක දිනය වෙනුවෙන් පසුගිය දා මෙරට පැවැත්වූ ජාතික වැඩසටහනට ප්‍රධාන ආරාධිත අමුත්තා ලෙස එක්වෙමින් ය.
+
+රජයේ භෞත චිකිත්සක නිලධාරීන්ගේ සංගමය සහ College Of Physiotherapy (භෞත චිකිත්සක විද්‍යායතනය) එක්ව සංවිධානය කළ මෙම උත්සවය පසුගිය දා  ශ්‍රී ලංකා ජාතික රෝහල් ශ්‍රවණාගාරයේ දී පැවැත්විණි.
+
+ජාත්‍යන්තර භෞත චිකිත්සක දිනය සෑම වර්ෂයකම සැප්තැම්බර් මස 08 වෙනි දිනට යෙදී ඇති අතර මෙවර ජාත්‍යන්තර භෞත චිකිත්සක දිනයේ තේමාව  “නීරෝගීමත් වැඩිහිටි පරම්පරාවක්” යන්නයි.
+
+සෞඛ්‍ය අමාත්‍යාංශය ලෙස ඇති පළමු අභියෝගය ඉදිරියේ දී  25% ක්වන වැඩිහිටි ජනගහණය බවත්, වැඩිහිටියන් රැකබලා ගැනීම රජයේ වගකීමක් හැටියට භාරගත යුතු බවත්,  එයට විකල්ප යෝජනා කිරීම නිෂ්ඵල බවත්, ඊට අවශ්‍ය සූදානම කළයුතු බව ද අමාත්‍යවරයා මෙහි දී  පැවසී ය.
+
+...
+
+[Data](articles/16946bf7.json)
+
+---
+
+### Staff member arrested at BIA with Rs. 210 million worth of gold biscuits
+
+*2025-09-14 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112480/staff-member-arrested-at-bia-with-rs-210-million-worth-of-gold-biscuits) · `en`
+
+A staff member of Airport and Aviation Services Sri Lanka (AASL) has been arrested at the Bandaranaike International Airport (BIA), while attempting to smuggle over Rs. 210 million worth of gold biscuits, Sri Lanka Customs said.
+
+The 54-year-old individual was apprehended at the staff exit gate of the BIA while in possession of 5.94kg of 24k gold biscuits.
+
+◼️
+
+[Data](articles/59bb36ef.json)
+
+[Extended Data](ext_articles/59bb36ef.ext.json)
 
 ---
 
@@ -81,6 +215,68 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/4731d9a4.json)
 
 [Extended Data](ext_articles/4731d9a4.ext.json)
+
+---
+
+### Suspect arrested over murder of mother and son in Karandeniya
+
+*2025-09-14 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112478/suspect-arrested-over-murder-of-mother-and-son-in-karandeniya) · `en`
+
+A suspect has been arrested over the murder of a mother and her son in Kotawela, Karandeniya on September 11, police stated.
+
+He was apprehended along with a sharp weapon by the Karandeniya Police.
+
+The arrested individual is a resident of a neighboring house of the victims.
+
+According to police, he is involved in illegal liquor trafficking and also has ongoing court cases related to assault and intimidation of area residents.
+
+The bodies of the deceased have already been handed over to their relatives, and their final rites are scheduled to take place later today.
+
+◼️
+
+[Data](articles/18babce5.json)
+
+[Extended Data](ext_articles/18babce5.ext.json)
+
+---
+
+### White House wants $58 million security boost after Kirk shooting
+
+*2025-09-14 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112477/white-house-wants-58-million-security-boost-after-kirk-shooting) · `en`
+
+The Trump administration is asking Congress for an extra $58 million to bolster security for the executive and judicial branches following the fatal shooting of conservative figure Charlie Kirk, according to a White House official.
+
+The request to include the extra funding in an upcoming stopgap bill comes ahead of a Sept. 30 deadline when the current federal spending law runs out. Punchbowl News first reported on the funding request.
+
+The administration also signaled support for expanding resources to safeguard lawmakers, though it left the specifics of that decision to the legislative branch, the outlet reported.
+
+Kirk’s shooting at a university event in Utah this week has raised new fears about the safety of public officials, particularly after the assassination attempt on Donald Trump during the presidential campaign last year.
+
+...
+
+[Data](articles/fd261ab5.json)
+
+[Extended Data](ext_articles/fd261ab5.ext.json)
+
+---
+
+### Kadawatha - Meerigama Highway Works resumes on September 17
+
+*2025-09-14 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225047) · `ta`
+
+The construction of the Central Highway, which has been halted due to the economic crisis in the country since the mid -2022, will be resumed on September 17.
+
+President Anura Kumara Dissanayake will start construction work. Further, China's export and import bank has received US $ 500 million loans to resume the project.
+
+It is scheduled to be completed by mid -2028, which is 37 km long.
+
+Meanwhile, the work of watering will be started from Kadavati and the first 500 meters of the highway from Kadawatha.
+
+◼️
+
+[Data](articles/669e5fe4.json)
+
+[Extended Data](ext_articles/669e5fe4.ext.json)
 
 ---
 
@@ -124,23 +320,27 @@ Nilupul Chandrasena – Secretary General/CEO NCCSL, Anura Warnakulasooriya – 
 
 ---
 
-### Kadawatha - Meerigama Highway Works resumes on September 17
+### Woman dies in Weligama accident
 
-*2025-09-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225047) · `ta`
+*2025-09-14 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112476/woman-dies-in-weligama-accident) · `en`
 
-The construction of the Central Highway, which has been halted due to the economic crisis in the country since the mid -2022, will be resumed on September 17.
+A woman has died in a road accident that occurred in the Denipitiya junction area, Weligama, police stated.
 
-President Anura Kumara Dissanayake will start construction work. Further, China's export and import bank has received US $ 500 million loans to resume the project.
+The accident occurred when a lorry traveling from Weligama towards Akuressa collided with a motorcycle heading from the opposite direction.
 
-It is scheduled to be completed by mid -2028, which is 37 km long.
+The female motorcyclist sustained serious injuries and died upon being admitted to the Walana Hospital.
 
-Meanwhile, the work of watering will be started from Kadavati and the first 500 meters of the highway from Kadawatha.
+The deceased has been identified as a 33-year-old woman residing in Nidangala, Denipitiya.
+
+The driver of the lorry involved in the accident has been taken into custody.
+
+Further investigations are being carried out by the Weligama Police.
 
 ◼️
 
-[Data](articles/669e5fe4.json)
+[Data](articles/49df6b3a.json)
 
-[Extended Data](ext_articles/669e5fe4.ext.json)
+[Extended Data](ext_articles/49df6b3a.ext.json)
 
 ---
 
@@ -1905,205 +2105,5 @@ They point out that the government requested the government to discuss the oppor
 [Data](articles/4cce16f9.json)
 
 [Extended Data](ext_articles/4cce16f9.ext.json)
-
----
-
-### President Dissanayake congratulates Nepal’s Interim PM Sushila Karki
-
-*2025-09-13 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112461/president-dissanayake-congratulates-nepals-interim-pm-sushila-karki-) · `en`
-
-Sri Lankan President Anura Kumara Dissanayake on Saturday congratulated Nepal’s interim Prime Minister, Sushila Karki, while expressing confidence that her leadership will guide Nepal towards a return to lasting peace and democracy.
-
-“I convey my warmest congratulations and best wishes to Mrs. Sushila Karki on her assumption of the Premiership of Nepal’s interim government.”
-
-“We are confident that her leadership will guide Nepal towards a smooth return to lasting peace and democracy,” Dissanayake posted on ‘X’ (formerly Twitter).
-
-Karki, Nepal’s former Chief Justice, was officially sworn in as the interim Prime Minister of the country after she took the oath of office on Friday night.
-
-Her appointment came four days after her predecessor, KP Sharma Oli, quit following massive anti-corruption protests against his government. She is the first woman to hold the office of Nepal’s prime minister.
-
-◼️
-
-[Data](articles/69bafb17.json)
-
-[Extended Data](ext_articles/69bafb17.ext.json)
-
----
-
-### 2,085 million for postal innovation
-
-*2025-09-13 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214530) · `si`
-
-A sum of Rs.
-
-The Minister was speaking at the lake of the foundation stone for the new post office building in the Galle District.
-
-The proposed Balapitiya is Rs. 12.22 million for the construction of the new post office building.
-
-He was speaking at a sum of Rs.
-
-The Minister said that a sum of Rs.
-
-The Minister said that Rs. 600 million has been allocated for the construction of new post offices.
-
-The Minister also said that steps will be taken to renovate the post offices of the post offices of Rs. 600 million to modernize the post offices.
-
-All these matters will be taken to a new dimension and it will enable the people of the country to provide an excellent and efficient postal service to the people of this country.
-
-◼️
-
-[Data](articles/1e0e3811.json)
-
-[Extended Data](ext_articles/1e0e3811.ext.json)
-
----
-
-### 27 crores of rupees in 21 months?
-
-*2025-09-13 17:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-மாதங்களில்-27-கோடி-ரூபாய்-சொத்து-எப்படி-வந்தது/175-364503) · `ta`
-
-The Commission for Investigation into Bribery and Corruption against former minister Keheliya Rambukwella's son Ramith Rambukwella has filed a charge sheet in the Colombo High Court yesterday (12).
-
-Ramith Rambukwella has earned more than Rs 27 crore in the 21 months of his tenure as Health Minister, and the indictment has been filed against him.
-
-It is said to have many assets, including a luxury house and jeep vehicle.
-
-Ramith Rambukwella also served as his personal secretary when Keheliya Rambukwella was the Minister of Health.
-
-The Commission also revealed that the accused and the wife of his wife have opened fixed deposits in bank accounts in the name of his wife. Remble
-
-◼️
-
-[Data](articles/cb296b98.json)
-
-[Extended Data](ext_articles/cb296b98.ext.json)
-
----
-
-### 12 Pakistan soldiers killed by Islamic militants
-
-*2025-09-13 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214529) · `si`
-
-Islamic militants were attacked by military fighting in northwestern Pakistan.
-
-Twelve Pakistan soldiers have died due to the attack, foreign media reports said.
-
-The soldiers were shot while traveling with vehicles at the mountainous laundry area near the Afghanistan border.
-
-However, Pakistani soldiers also issued a statement saying that 12 Pakistani soldiers and 13 Islamic militants were killed after the shooting between the two sides.
-
-◼️
-
-[Data](articles/9a4ee9e9.json)
-
-[Extended Data](ext_articles/9a4ee9e9.ext.json)
-
----
-
-### An announcement of warm weather
-
-*2025-09-13 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214528) · `si`
-
-The Department of Meteorology has issued an announcement of warm weather conditions.
-
-Today (13) pm. The Department of Meteorology will address the announcement to the 3:30 tomorrow.
-
-It says that the warm index of the Northern-Central and Eastern provinces, in some areas of the Moneragala district, the heat of the human body can be "focused".
-
-◼️
-
-[Data](articles/1b69d7d7.json)
-
-[Extended Data](ext_articles/1b69d7d7.ext.json)
-
----
-
-### Premadasa's wife handed over the vehicle
-
-*2025-09-13 16:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனத்தை-ஒப்படைத்தார்-பிரேமதாசவின்-மனைவி/175-364502) · `ta`
-
-Hema Premadasa, the wife of the late former President R. Premadasa, has handed over the vehicle given to the government, the Presidential Secretariat said.
-
-The government's bill was passed in Parliament last Wednesday (10) to cancel the presence of former presidents.
-
-Hema Premadasa, wife of former President R. Premadasa, has been handed over to the government, the Presidential Secretariat has said that the vehicle given by the government has been handed over to the government.. Remble
-
-◼️
-
-[Data](articles/32774b8c.json)
-
-[Extended Data](ext_articles/32774b8c.ext.json)
-
----
-
-### Sri Lanka expresses solidarity with Qatar after Israel’s attack
-
-*2025-09-13 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112460/sri-lanka-expresses-solidarity-with-qatar-after-israels-attack) · `en`
-
-Sri Lanka’s Deputy Minister of Foreign Affairs Arun Hemachandra has held a telephone conversation today with Qatar’s Minister of State for Foreign Affairs, Sultan bin Saad bin Sultan Al Muraikhi.
-
-“I conveyed Sri Lanka’s concerns regarding the recent strikes and expressed the solidarity of the Government and the people of Sri Lanka,” he said.
-
-The Deputy Minister said he also appreciated Qatar’s constructive role in mediation and humanitarian outreach at this critical time.
-
-“We reaffirmed the importance of sovereignty, territorial integrity, and the urgent need to safeguard peace and humanitarian relief,” Hemachandra said.
-
-The Deputy Minister’s statement comes in the wake of Israel’s deadly strike on Doha this week, targeting Hamas’ political leadership in Doha.
-
-◼️
-
-[Data](articles/1c559f61.json)
-
-[Extended Data](ext_articles/1c559f61.ext.json)
-
----
-
-### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
-
-*2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
-
-ECONOMYNEXT – Sri Lanka and the Philippines concluded the third round of political consultations in Colombo, with both countries pledging to expand cooperation across a wide range of sectors ahead of the 65th anniversary of their diplomatic relations in 2026, the island nation’s Foreign Ministry said.
-
-Foreign Secretary Aruni Ranaraja during the meeting concluded on Friday expressed hope that Manila would consider reopening its resident mission in Colombo. She also noted that Sri Lanka looks forward to working with the Philippines as it prepares to take on the ASEAN chairmanship.
-
-The talks focused on boosting cooperation in agriculture, labour, trade, fisheries, culture, defence, and education, while also addressing broader regional and multilateral issues.
-
-...
-
-[Data](articles/2fcf24c5.json)
-
-[Extended Data](ext_articles/2fcf24c5.ext.json)
-
----
-
-### Sri Lanka, Philippines eye closer ties in trade, labour, fisheries
-
-*2025-09-13 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-philippines-hold-3rd-political-consultations-eye-closer-ties-in-trade-labour-fisheries-240449/) · `en`
-
-ECONOMYNEXT – Sri Lanka and the Philippines concluded the third round of political consultations in Colombo, with both countries pledging to expand cooperation across a wide range of sectors ahead of the 65th anniversary of their diplomatic relations in 2026, the island nation’s Foreign Ministry said.
-
-Foreign Secretary Aruni Ranaraja during the meeting concluded on Friday expressed hope that Manila would consider reopening its resident mission in Colombo. She also noted that Sri Lanka looks forward to working with the Philippines as it prepares to take on the ASEAN chairmanship.
-
-The talks focused on boosting cooperation in agriculture, labour, trade, fisheries, culture, defence, and education, while also addressing broader regional and multilateral issues.
-
-...
-
-[Data](articles/58b9acca.json)
-
-[Extended Data](ext_articles/58b9acca.ext.json)
-
----
-
-### How the DUNF was born and gathered steam under Lalith & Gamini
-
-*2025-09-13 15:43:00* · [`islandlk`](http://island.lk/how-the-dunf-was-born-and-gathered-steam-under-lalith-gamini/) · `en`
-
-At this time Anuruddha Ratwatte had emerged as the “strong man” of the SLFP. As the cousin of Mrs. B he had access to her and was able to console her regarding the behaviour of her son Anura who was a captive of the anti-Sirimavo faction led by Maithripala Senanayake, who had become a favourite of the UNP. Anuruddha was living in the residence allocated to the leader of the Opposition in Colombo 7. He was the coordinator responsible for getting the signatures of the SLFP members for the impeachment motion.
-
-...
-
-[Data](articles/1b89bc7e.json)
-
-[Extended Data](ext_articles/1b89bc7e.ext.json)
 
 ---

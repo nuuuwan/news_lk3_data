@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 16:05:57**
+As of **2025-09-14 15:54:52**
 
 ## Newspaper Stats
 
-*Scraped **75,895** Articles*
+*Scraped **75,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,20 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,368
-adaderanalk | 9,761
+adaderanalk | 9,759
 tamilmirrorlk | 11,349
-virakesarilk | 12,370
+virakesarilk | 12,369
 adaderanasinhalalk | 13,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,960 (93.5%) of 75,895 articles have been extended.
+70,960 (93.5%) of 75,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### 2026 ஆம் ஆண்டுக்கான பாடசாலை பரீட்சைகள் அட்டவணை வெளியீடு
-
-*2025-09-14 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225063) · `ta`
-
-2026ஆம் ஆண்டு நடைபெறவிருக்கும் பாடசாலை பரீட்சைகள் தொடர்பாக விசேட அறிவிப்பு கல்வி அமைச்சினால் வெளியிடப்பட்டுள்ளது.
-
-அதன்படி, 2025 (2026) கல்வி பொதுத்தராதர சாதாரணதர பரீட்சை 2026-02-17 முதல் 2026-02-26 வரை நடைபெறும்.
-
-அதேநேரம், கல்வி பொதுத்தராதர உயர்தர பரீட்சை 2026-08-10 முதல் 2026-09-05 வரை நடைபெறும்.
-
-மேலும், 2026 கல்வி பொதுத்தராதர சாதாரணதர பரீட்சை 2026-12-08 முதல் 2026-12-17 வரை நடைபெறும் என கல்வி அமைச்சு அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/c8da44e8.json)
-
----
 
 ### මගී ප්‍රවාහන බස් රථයක මත්ද්‍රව්‍ය ඇති බවට ඔත්තුවක්
 
@@ -71,24 +53,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/96ecc3cf.json)
-
----
-
-### 72 dead in Nepal protests, victims declared ‘Martyrs’, families to get relief
-
-*2025-09-14 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112488/72-dead-in-nepal-protests-victims-declared-martyrs-families-to-get-relief) · `en`
-
-Sushila Karki formally assumed office as the interim Prime Minister of Nepal on Sunday, declaring those killed during the Gen Z protests as “martyrs” and announcing Rs 1 million in relief for each victim’s family, according to local media reports.
-
-Karki, a former Chief Justice, was sworn in on Friday by President Ramchandra Paudel after growing demands from the Gen Z movement.
-
-She took charge two days later, beginning her tenure by paying tribute at the Martyrs’ Memorial in Lainchaur on Sunday morning before proceeding to Singha Durbar. She commenced her official duties from the Home Ministry’s building, as the Prime Minister’s Office had been shifted there following the arson attack on Tuesday that damaged the main complex.
-
-One of her first decisions was to extend immediate relief to victims of last week’s violent demonstrations.
-
-...
-
-[Data](articles/a46a2a2e.json)
 
 ---
 
@@ -171,26 +135,6 @@ On the same day, a group of preschool children met with their parents, the forme
 [Data](articles/1ab5fb99.json)
 
 [Extended Data](ext_articles/1ab5fb99.ext.json)
-
----
-
-### Warm weather advisory issued for several provinces
-
-*2025-09-14 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112487/warm-weather-advisory-issued-for-several-provinces) · `en`
-
-A warm weather advisory has been issued for residents of the Northern, North-central and Eastern provinces and in the Monaragala district.
-
-The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (15), according to the Department of Meteorology.
-
-‘The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body’, said the Met Department in a statement.
-
-The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
-
-Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
-
-◼️
-
-[Data](articles/4cecdbe2.json)
 
 ---
 
@@ -2113,5 +2057,53 @@ Sri Lanka is due to chase 140 runs.
 [Data](articles/c558a898.json)
 
 [Extended Data](ext_articles/c558a898.ext.json)
+
+---
+
+### Indian national arrested with rash drugs worth Rs. 85 million
+
+*2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
+
+An Indian national has been arrested by an Indian national who tried to carry 8.542 kilograms of crusts worth Rs. 85 million.
+
+The suspect was arrested by the officials of the Narcotics Bureau at Bandaranaike International Airport.
+
+◼️
+
+[Data](articles/46260ef7.json)
+
+[Extended Data](ext_articles/46260ef7.ext.json)
+
+---
+
+### Indian arrested with Kush worth Rs. 85 million at BIA
+
+*2025-09-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112464/indian-arrested-with-kush-worth-rs-85-million-at-bia) · `en`
+
+An Indian national has been arrested by officers of the Police Narcotics Bureau (PNB) at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a large consignment of Kush cannabis.
+
+The 33-year-old suspect, who had arrived from Thailand and was bound for India, was found in possession of 8.542 kilograms of Kush cannabis, with an estimated street value of Rs. 85 million, police said.
+
+◼️
+
+[Data](articles/8b36ef7d.json)
+
+[Extended Data](ext_articles/8b36ef7d.ext.json)
+
+---
+
+### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
+
+*2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
+
+The fire is already spreading throughout the reserve.
+
+It is reported that the fire is spreading in the forest due to dry weather and strong winds.
+
+◼️
+
+[Data](articles/4d52bcfe.json)
+
+[Extended Data](ext_articles/4d52bcfe.ext.json)
 
 ---

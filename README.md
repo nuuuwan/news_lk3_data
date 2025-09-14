@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 04:54:00**
+As of **2025-09-15 05:20:14**
 
 ## Newspaper Stats
 
-*Scraped **75,966** Articles*
+*Scraped **75,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,128 @@ dailyftlk | 5,389
 adalk | 7,374
 adaderanalk | 9,770
 tamilmirrorlk | 11,362
-virakesarilk | 12,380
+virakesarilk | 12,388
 adaderanasinhalalk | 13,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,539 (94.2%) of 75,966 articles have been extended.
+71,566 (94.2%) of 75,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
+
+### மஹிந்த ராஜபக்ஷ யுத்தத்துக்கு தலைமை தாங்கியதை போன்று நாடு வங்குரோத்து நிலையடைவதற்கும் தலைமை தாங்கினார் - தேவானந்த சுரவீர
+
+*2025-09-15 04:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225096) · `ta`
+
+ஜனாதிபதிகளின் உரித்துரிமைகளை நீக்கும் சட்டத்துக்கு மக்கள் மத்தியில் நல்லதொரு வரவேற்பு உள்ளது. தனது தந்தை மஹிந்த ராஜபக்ஷவுக்காக பொதுமக்களை ஒன்றிணைக்கும் நாமல் ராஜபக்ஷ இந்த சட்டமூலத்துக்கு எதிராக வாக்களிக்கவில்லை. யுத்தத்தை முடிவுக்கு கொண்டு வருவதற்கு தலைமை தாங்கிய மஹிந்த ராஜபக்ஷ நாடு வங்குரோத்து நிலையடைவதற்கும் தலைமை தாங்கினார் என்பதை நாட்டு மக்கள் மறக்க போவதில்லை என தேசிய மக்கள் சக்தியின் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினர் தேவானந்த சுரவீர தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை இல்லாதொழித்தவர்கள் தான் இன்று ஜனாதிபதி உரித்துரிமைகளை நீக்கும் சட்டத்துக்கு எதிராக பேசுகிறார்கள். இந்த சட்டம் தொடர்பில் நாட்டு மக்கள் மத்தியில் நல்லதொரு வரவேற்பு காணப்படுகிறது.
+
+...
+
+[Data](articles/c91240f4.json)
+
+---
+
+### வன்னி மாவட்டத்தில்   கட்டுமானப் பணிகள் நிறைவாகாத  வகுப்பறை கட்டிடங்களை  நிறைவு செய்ய  நிதி ஒதுக்கீடு - காதர் மஸ்தான் எம்.பி.யிடம் பிரதமர் உறுதி
+
+*2025-09-15 04:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225095) · `ta`
+
+வன்னி மாவட்டத்தில் ஆரம்பிக்கப்பட்டு இதுவரை கட்டுமானப் பணிகள் நிறைவு செய்யப்படாத வகுப்பறை கட்டிடங்களினை நிறைவு செய்ய தேவையான நிதி ஒதுக்கீடுகளை மேற்கொள்வதாக பிரதமரும் கல்வி அமைச்சருமான ஹரிணி அமரசூரிய உறுதியளித்துள்ளார்.
+
+பிரதமரின் பாராளுமன்ற அலுவலகத்தில் தொழிலாளர் கட்சியின்  வன்னி மாவட்ட எம்.பி. யான காதர் மஸ்தான் மற்றும் பிரதிநிதிகள் சிலர்  பிரதமரை சந்தித்து வன்னி மாவட்டத்தின் கல்வி நடவடிக்கை, அக்கரைப்பற்று நுரைச்சோலை சவூதி அரேபிய வீட்டுத் திட்டம் மற்றும் விடுவிக்கப்படாமல் இருக்கும் குர்ஆன் பிரதிகள் தொடர்பாக கலந்துரையாடியபோதே பிரதமர் இந்த உறுதிமொழியை வழங்கியுள்ளார்.
+
+...
+
+[Data](articles/299250f5.json)
+
+---
+
+### புதிய பயங்கரவாத எதிர்ப்பு சட்டமூலத்தின் இறுதி வரைவு இந்த வாரம் நீதி அமைச்சரிடம் கையளிக்கப்படும் -  குழுவின் தலைவர் ரியென்சி அர்சகுலரத்ன
+
+*2025-09-15 04:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225094) · `ta`
+
+புதிய பயங்கரவாத எதிர்ப்பு சட்டமூலத்தை வரைவு செய்வது தொடர்பில் நியமிக்கப்பட்ட நிபுணர்குழுவின் இறுதி வரைவு இந்த வாரத்துக்குள் நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்காரவுக்கு கையளிப்பதற்கு நடவடிக்கை எடுப்பதாக அந்த குழுவின் தலைவர், ஜனாதிபதி சட்டத்தரணி ரியென்சி அர்சகுலரத்ன தெரிவி்த்தார்.
+
+புதிய பயங்கரவாத எதிர்ப்பு சட்டத்தை வரைவுசெய்வது தொடர்பில் அமைச்சரவையினால் நியமிக்கப்பட்ட குழு, கடந்த தினம்  நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சில் கூடியது. இதன்போது அங்கு கருத்து தெரிவிக்கையிலேயே குழுவின் தலைவர் இவ்வாறு தெரிவித்தார்.
+
+புதிய சட்டமூலத்தில் இடம்பெறும் பிரச்சினைக்குரிய இடங்களை தொடர்ந்தும் இனம்கண்டுகொண்டு, சட்டமூலத்தை இரண்டாவது தடவையாகவும் ஆராயும் நடவடிக்கை இடம்பெற்றுவருவதுடன் தற்போது அது நிறைவடையும் தருணத்தில் இருக்கிறது.
+
+சட்டமூலம் தொடர்பில் குழு தொடர்ந்து கலந்துரையாடி வருவதுடன், அதன்போது நாளாந்தம் கலந்துரையாடி ஏற்படுத்திக்கொள்ளும் மாற்றங்களை உள்வாங்கிக்கொண்டு சட்டமூலத்தை வரைவு செய்யும் நடவடிக்கையை, சட்ட வரைவு திணைக்களத்தினால் மேற்கொண்டு செல்வதாகவும் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/296004cd.json)
+
+---
+
+### சபாநாயகரின் ஒருதலைபட்சமான செயற்பாட்டை சர்வதேச பாராளுமன்ற ஒன்றியத்துக்கு முறையிடுவோம் - காவிந்த ஜயவர்தன
+
+*2025-09-15 04:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225093) · `ta`
+
+பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவுக்கு எதிரான நம்பிக்கையில்லா பிரேரணையை விவாதத்துக்கு எடுத்துக்கொண்டால் உயிர்த்த ஞாயிறுதின குண்டுத்தாக்குதல்கள் தொடர்பில் பல விடயங்கள் வெளியாகும் என்று அரசாங்கம் அச்சமடைந்துள்ளது. சபாநாயகரின் ஒருதலைபட்சமான செயற்பாட்டை சர்வதேச பாராளுமன்ற ஒன்றியத்துக்கு முறையிடுவோம் என ஐக்கிய மக்கள் சக்தியின் கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலுக்கு நீதியை பெற்றுத்தருவதாக குறிப்பிட்டே தேசிய மக்கள் சக்தி ஆட்சிக்கு வந்தது.ஆனால் இதுவரையில் உண்மை வெளிப்படுத்தப்படவில்லை. வாக்குறுதிகள் மாத்திரமே மிகுதியாகியுள்ளன.
+
+குண்டுத்தாக்குதல் சம்பவத்தில் பாதுகாப்பு பிரதி அமைச்சர் அருண ஜயசேகரவின் பெயர் சந்தேக நபராக குறிப்பிடப்பட்டுள்ளது.ஆகவே குற்றச்சாட்டுக்கு உள்ளாக்கப்பட்ட நபர் பாதுகாப்பு பிரதி அமைச்சராக பதவி வகிக்கும் போது குண்டுத்தாக்குதல்கள் தொடர்பில் எவ்வாறு சுயாதீன விசாரணைகள் மேற்கொள்ளப்படும் என்பதில் பாரிய சந்தேகம் காணப்படுகிறது.
+
+...
+
+[Data](articles/684ee359.json)
+
+---
+
+### லாப் சமையல் எரிவாயு நிறுவனத்தின் 50 சதவீதத்துக்கும் அதிக பங்குகளை கொள்வனவு செய்துள்ள தம்மிக பெரேரா - தயாசிறி ஜயசேகர
+
+*2025-09-15 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225092) · `ta`
+
+அரசாங்கம் ஊழல், மோசடிகளுக்கு எதிராக கடுமையாகக் குரல் கொடுத்து வருகிறது. ஆனால் தற்போது அரசாங்கத்தின் கீழுள்ள நிறுவனமான லாப் சமையல் எரிவாயு நிறுவனத்தின் 50 சதவீதத்துக்கும் அதிக பங்குகளை தம்மிக பெரேராவின் நிறுவனம் கொள்வனவு செய்துள்ளது. இதன் மூலம் யாருக்கும் நன்மை கிடைக்கும் என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர கேள்வியெழுப்பியுள்ளார்.
+
+குருணாகலில் ஞாயிற்றுக்கிழமை (14) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இந்த அரசாங்கம் ஊழல், மோசடிகளுக்கு எதிராக கடுமையாகக் குரல் கொடுத்து வருகிறது. லிட்ரோ சமையல் எரிவாயு நிறுவனம் இலங்கையில் 80 சதவீத சந்தை வாய்ப்பினைக் கொண்டுள்ளது. கடந்த 20 ஆண்டுகளாக லிட்ரோ மற்றும் லாப் நிறுவனங்கள் போட்டியாளர்களாக இருந்து வருகின்றனர். எனவே இவ்விரு நிறுவனங்களும் எரிவாயு விநியோகத்தர்களிடம் சமாந்தரமாக செயற்பட்டு வந்தனர்.
+
+...
+
+[Data](articles/93a9ae7f.json)
+
+---
+
+### 21 கோடி ரூபா தங்க பிஸ்கட்டுகளுடன் சிவில் விமான பாதுகாப்பு  அதிகாரி கைது
+
+*2025-09-15 04:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225091) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தில் 210 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதிமிக்க தங்க பிஸ்கட்டுகளை காலணிக்குள்  மறைத்து, விமான நிலையத்திலிருந்து வெளியே கொண்டு செல்ல முற்பட்ட பாதுகாப்பு அதிகாரி ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+விமான நிலையத்தில் பாதுகாப்புக் கடமையில் ஈடுபடும் அதிகாரி ஒருவர்  நேற்று ஞாயிற்றுக்கிழமை  காலை 6.50  மணி அளவில் தங்க பிஸ்கட்டுகளுடன் கைது செய்யப்பட்டார். விமான நிலையத்தில் அமைந்துள்ள ஊழியர்கள்  வெளியேறும் வாயிலினூடாக சந்தேகநபர் வெளியேற முற்பட்ட நிலையில் சுங்கப் பிரிவு அதிகாரிகள் அவரை தடுத்து நிறுத்தி பரிசோதித்துள்ளனர்.
+
+இதன்போது சந்தேகநபரின் காலணிகளுக்குள் மறைத்து வைக்கப்பட்டிருந்த நிலையில் 51 தங்க பிஸ்கட்டுக்கள் கைப்பற்றப்பட்டுள்ளன.  குறித்த தங்க பிஸ்கட்டுகளை பட்டியொன்றை பயன்படுத்தி பாதத்துடன் வைத்து இருக்கமாக கட்டி அதன் மேல் காலுறையை அணிந்திருந்ததாக சுங்கப் பிரிவு தெரிவித்துள்ளது. கைப்பற்றப்பட்ட தங்கம் 5 கிலோ 941 கிராம் எடை கொண்டது எனவும் அதன் சந்தைப் பெறுமதி சுமார் 210,524,575.35   ரூபா எனவும் சுங்க அதிகாரிகளால் மதிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/d9bd8673.json)
+
+---
+
+### “பயங்கரவாத யுத்தத்தை முடிவுக்குக் கொண்டுவந்தது எனக்கு கிடைத்த அதிர்ஷ்டம்” – முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ
+
+*2025-09-15 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225090) · `ta`
+
+பயங்கரவாத யுத்தத்தை முடிவுக்கு கொண்டுவந்ததையிட்டு மகிழ்ச்சியடைகிறேன். அது எனக்கு கிடைத்த அதிஸ்டம் என்றே கருதுகிறேன்.நாட்டில் மீண்டும் யுத்தம் தோற்றம் பெறாது. சர்வதேச தலையீடுகளுக்கு அடிபணியாமல் அரச தலைவர்கள் செயற்பட வேண்டும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+இளைஞர்கள் தமது உரிமைகளை பெற்றுக்கொள்ள வேண்டும்.அவற்றை அநாவசியமான முறையில் போராடி  பெற்றுக்கொள்ள கூடாது. அவ்வாறு செயற்பட்டால் அரசாங்கமும் அநாவசியமான முறையில் முடக்குவதற்கு தயாராகும்.ஆகவே தமது உரிமைகளை பெற்றுக்கொள்வதற்கு ஜனநாயக வழிமுறையில் செயற்பட வேண்டும்.அரசாங்கத்துக்கு மக்கள் ஆணை வழங்கியுள்ளார்கள்.ஆகவே அரசாங்கம் செயற்படுவதற்கு இடமளிக்க வேண்டும்  எனவும் குறிப்பிட்டுள்ளார்.
+
+அரச உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறி தங்காலை கால்டன் இல்லத்துக்கு சென்றுள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தனியார் தொலைக்காட்சி சேவைக்கு வழங்கிய நேர்காணலின் போது மேற்கண்டவாறு குறிப்பிட்டார்
+
+...
+
+[Data](articles/e65f5747.json)
+
+---
 
 ### CoPF clears CIABOC’s 2026 Budget amid debate over sharp salary hike
 
@@ -83,6 +193,24 @@ Sri Lanka Customs said the 54-year-old individual was apprehended at the staff e
 [Data](articles/7c97b06c.json)
 
 [Extended Data](ext_articles/7c97b06c.ext.json)
+
+---
+
+### யாழில் விபத்தில் காயமடைந்த 72 வயது முதியவர் உயிரிழப்பு
+
+*2025-09-15 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225089) · `ta`
+
+யாழில் விபத்தில் சிக்கிய முதியவர் ஒருவர் சிகிச்சை பலனின்றி வெள்ளிக்கிழமை (14) உயிரிழந்துள்ளார். திருநெல்வேலி - கலாசாலை வீதி பகுதியை சேர்ந்த வல்லிபுரம் மகாலிங்கம் (வயது 72) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் கடந்த 5ஆம் திகதி மோட்டார் சைக்கிளில் கிளிநொச்சி சென்று வீடு திரும்பிக்கொண்டிருந்த வேளை ஆசைப்பிள்ளை ஏற்றம் பகுதியில் துவிச்சக்கர வண்டியுடன் மோதி விபத்துக்குள்ளானதில் சிக்கினார்.
+
+இந்நிலையில் படுகாயமடைந்த குறித்த நபர் சாவகச்சேரி ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார். இருப்பினும் சிகிச்சை பலனின்றி இன்று காலை உயிரிழந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/9b58f579.json)
 
 ---
 
@@ -1895,163 +2023,5 @@ It also states that 2026 GCE Advanced Level. The GCE Ordinary Level Examination 
 [Data](articles/f8237757.json)
 
 [Extended Data](ext_articles/f8237757.ext.json)
-
----
-
-### New Nepal PM vows to follow protesters’ demands to ‘end corruption’
-
-*2025-09-14 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112482/new-nepal-pm-vows-to-follow-protesters-demands-to-end-corruption) · `en`
-
-Nepal’s new leader vowed on Sunday (Sep 14) to follow protesters’ demands to “end corruption” as she began work as interim prime minister, after “Gen Z” youth demonstrations ousted her predecessor.
-
-“We have to work according to the thinking of the Gen Z generation,” said Sushila Karki, in her first public comments since taking office on Friday.
-
-“What this group is demanding is end of corruption, good governance and economic equality,” she added. “You and I have to be determined to fulfil that.”
-
-The 73-year-old former chief justice held a minute’s silence on Sunday for those killed in the unrest, before meetings began in the key government complex of Singha Durbar - where several buildings were set on fire during mass protests on Tuesday.
-
-At least 72 people were killed in two days of protests, and 191 injured, the government’s chief secretary Eaknarayan Aryal said on Sunday, increasing an earlier toll of 51.
-
-...
-
-[Data](articles/103523b4.json)
-
-[Extended Data](ext_articles/103523b4.ext.json)
-
----
-
-### Headless, limbless body found washed ashore on Mudukatuwa beach
-
-*2025-09-14 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112481/headless-limbless-body-found-washed-ashore-on-mudukatuwa-beach) · `en`
-
-Marawila Police have launched an investigation following a complaint received regarding a body that had washed ashore on the Mudukatuwa beach in Marawila.
-
-According to police, the body was missing the head, both arms, and legs, and only a part of the torso remained, which was dressed in blue shorts.
-
-Police suspect that the body may belong to a male individual.
-
-However, the Acting Magistrate of Marawila is scheduled to conduct the initial inquiry, and further investigations are being carried out by the Marawila Police.
-
-◼️
-
-[Data](articles/0f9c47e6.json)
-
-[Extended Data](ext_articles/0f9c47e6.ext.json)
-
----
-
-### Holding stones with the lake belonging to the preservation
-
-*2025-09-14 12:37:25* · [`adalk`](https://www.ada.lk/breaking_news/වැවට-අයිති-භූමිය-වන-සංරක්ෂණයෙන්-ගල්-දාලා-අල්ලාගෙන/11-418484) · `si`
-
-Farmers have complained that the land area of ​​the Dickwewa village of the Dickwewa village in the Eppawala area of ​​Eppawala in the Anuradhapura District has reduced the land area of ​​the Department of Conservation.
-
-As a result, the farmers point out that the tank will not be able to make the tank in the reconstruction of tank.
-
-Many farmers in the Kandurugaswewa village in the Eppawala area in Anuradhapura District have been cultivated by the rainfill. It is possible that these villagers have not done an acquisition of an acquisition of a tank or tanks.
-
-Farmers say that the premises of the forest have been marked by the forest reserve by the Forest Department in the tank.
-
-Farmers point out that the lake is filled with 100 feet more than 100 feet about 100 feet about 100 feet 200 feet in the rainfall, despite a rainy weather.. The farmers also point out that the construction of these forest conservation boundaries have to remove these forest conservation boundaries in the week.
-
-...
-
-[Data](articles/4bfcc46d.json)
-
-[Extended Data](ext_articles/4bfcc46d.ext.json)
-
----
-
-### A airport worker arrested with 210 million gold biscuits
-
-*2025-09-14 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214553) · `si`
-
-Sri Lanka Customs says that a staff member has been arrested in Sri Lanka Airport and Aviation, which has attempted to carry a stock of gold biscuits worth Rs. 210 million.
-
-The 54-year-old man was arrested at the Caradana International Airport staff and was arrested in customs with a gold biscuit of 24 carrots.
-
-Customs said that the suspect hid the gold on his socks and tried to leave the gold biscuit from the premises.
-
-◼️
-
-[Data](articles/63f72384.json)
-
-[Extended Data](ext_articles/63f72384.ext.json)
-
----
-
-### Dead body found in the head, their feet and legs
-
-*2025-09-14 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214554) · `si`
-
-The Marawila police have launched an investigation into a complaint that a body has been recovered to the coast of Marawila.
-
-The body was not found in the body, their heads and legs, and only one part of a blue-colored shorts.
-
-Police suspect that the corpse can be a dead body of a man.
-
-However, the Marawila Acting Magistrate is due to conduct initial investigations and Marawila police are conducting further investigations.
-
-◼️
-
-[Data](articles/b007e707.json)
-
-[Extended Data](ext_articles/b007e707.ext.json)
-
----
-
-### Murder of mother and son in Karandeniya area; Arrests
-
-*2025-09-14 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225048) · `ta`
-
-On the evening of the 11th, the suspect was arrested by the Karandeniya police in connection with the murder of a mother and son in Kodawela area in Karandeniya.
-
-Investigations have revealed that the arrested suspect is a resident of the murderers and is involved in illegal liquor business.
-
-The bodies of the victims of the incident have been handed over to their relatives and funerals will be held on Sunday evening.
-
-◼️
-
-[Data](articles/35aef4b7.json)
-
-[Extended Data](ext_articles/35aef4b7.ext.json)
-
----
-
-### Vehicle accident in Weligama; Fation
-
-*2025-09-14 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225046) · `ta`
-
-The lorry from Weligama to Akurassa crashed into a motorcycle in the opposite direction, and the man was admitted to the Valani hospital after he was admitted to the hospital after he was admitted to the hospital.
-
-The deceased has been identified as a 33 -year -old woman from Nitangala, Thenipitiya.
-
-◼️
-
-[Data](articles/39bb6ff0.json)
-
-[Extended Data](ext_articles/39bb6ff0.ext.json)
-
----
-
-### A special program to win health challenges
-
-*2025-09-14 12:26:23* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-අභියෝග-ජයග්‍රහණය-කිරීමට-විශේෂ-වැඩපිළිවෙලක්/11-418483) · `si`
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa emphasizes that the Ministry of Health should be made to achieve the basis of the health challenges of the country in the future.
-
-The Minister emphasized these facts as the Chief Guest at the National Program held for the International Institute of International Physical Therapy.
-
-The event was organized by the Government Physiotherapy Officers Association and the Colge of Physiological Institute (Physical Therapists) in the Sri Lanka National Hospital Auditorium recently.
-
-The International Institute of the International Physiotherapy is on September 08, and this year's international physiotherapy's day theme is a "healthy and adult generation".
-
-The Minister said that the first challenge as the Ministry of Health should be accepted by the government to take care of the government as a responsibility of the government and should be prepared.
-
-...
-
-[Data](articles/16946bf7.json)
-
-[Extended Data](ext_articles/16946bf7.ext.json)
 
 ---

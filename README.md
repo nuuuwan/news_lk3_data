@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 16:20:14**
+As of **2025-09-14 15:54:52**
 
 ## Newspaper Stats
 
-*Scraped **75,897** Articles*
+*Scraped **75,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,114 +17,42 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,368
-adaderanalk | 9,761
-tamilmirrorlk | 11,351
-virakesarilk | 12,370
+adaderanalk | 9,759
+tamilmirrorlk | 11,349
+virakesarilk | 12,369
 adaderanasinhalalk | 13,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,981 (93.5%) of 75,897 articles have been extended.
+70,960 (93.5%) of 75,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### பாலியல் வல்லுறவு செய்த நபருக்கு 10 வருட கடூழிய சிறை
-
-*2025-09-14 16:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-வல்லுறவு-செய்த-நபருக்கு-10-வருட-கடூழிய-சிறை/175-364560) · `ta`
-
-மட்டக்களப்பில் நிதி நிறுவனம் ஒன்றில்  நேர்முக பரீட்சைக்கு சென்ற பெண் ஒருவரை பாலியல் துஷ்பிரயோகம் மேற்கொண்ட சம்பவத்தில் கைது செய்யப்பட்ட நிதி நிறுவனம் ஒன்றின் முகாமையாளருக்கு 10 வருட கடூழிய சிறைத்தண்டனை 20 வருடத்துக்கு ஒத்திவைக்கப்பட்ட சிறை தண்டனையும் 10 ஆயிரம் ரூபாவை அபதாரமாகவும் பாதிக்கப்பட்ட பெண்ணிக்கு 15 இலட்சம் ரூபாய் செலுத்துமாறும் அந்த பணத்தை செலுத்த தவறும் பட்சத்தில் 2 வருட கடூழிய சிறை தண்டனை என மட்டக்களப்பு மேல் நீதிமன்ற நீதிபதி வெள்ளிக்கிழமை (12) அன்று தீர்ப்பளித்தார். .
-
-மட்டக்களப்பில் இயங்கிவரும் நிதி நிறுவனம் ஒன்றில் உள்ள வெற்றிடத்திற்கு விண்ணப்பித்த பெண் ஒருவரை சம்பவ தினமான கடந்த 2019 செப்டம்பர் 4 நேர்முக பரீட்சைக்கு அழைக்கப்பட்ட நிலையில்; நிதி நிறுவனத்திற்கு சென்ற பெண்ணை குறித்த நிதி முகாமையாளர் அங்கிருந்து வீடு ஒன்றுக்கு அழைத்து சென்று குறித்த பெண்ணை பாலியல் துஷ்பிரயோகம் மேற்கொண்டதையடுத்து பாதிக்கப்பட்ட பெண் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததையடுத்து நிதி நிறுவன முகாமையாளரை கைது செய்தனர்.
-
-...
-
-[Data](articles/d375f219.json)
-
----
-
-### தலை, கைகள், கால்கள் இல்லாத சடலம் மீட்பு
-
-*2025-09-14 15:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலை-கைகள்-கால்கள்-இல்லாத-சடலம்-மீட்பு/175-364559) · `ta`
-
-தலை, கைகள் மற்றும் கால்கள் இல்லாத ஒரு உடல் மாரவில முது கட்டுவ கடற்கரையில் கண்டெடுக்கப்பட்டதாகவும், உடலின் ஒரு பகுதி மட்டுமே நீல நிற ஷார்ட்ஸ் அணிந்திருந்ததாகவும் மாரவில பொலிஸார் தெரிவித்தனர்.
-
-புகாரைத் தொடர்ந்து விசாரணை தொடங்கப்பட்டதாகவும், உடல் ஒரு ஆணுடையதாக இருக்கலாம் என்று சந்தேகிப்பதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-மாரவில செயல் நீதவான் முதற்கட்ட விசாரணைகளை மேற்கொள்வார், அதே நேரத்தில் மாரவில பொலிஸார் சம்பவம் குறித்து மேலும் விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/fa1d3981.json)
-
----
-
-### School Examinations Table Issue for 2026
-
-*2025-09-14 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225063) · `ta`
-
-The Ministry of Education has issued a special announcement regarding the school examinations to be held in 2026.
-
-Accordingly, the GCE Ordinary Level Examination of 2025 (2026) will be held from 2026-02-17 to 2026-02-26.
-
-At the same time, the GCE Advanced Level Examination will be held from 2026-08-10 to 2026-09-05.
-
-In addition, the Ministry of Education has announced that the GCE Ordinary Level Examination will be held from 2026-12-08 to 2026-12-17.
-
-◼️
-
-[Data](articles/c8da44e8.json)
-
-[Extended Data](ext_articles/c8da44e8.ext.json)
-
----
-
-### He is a hedgery in a passenger transport bus
+### මගී ප්‍රවාහන බස් රථයක මත්ද්‍රව්‍ය ඇති බවට ඔත්තුවක්
 
 *2025-09-14 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214558) · `si`
 
-Officers of the Girandurukotte Police Station at the Girandurukotte Police Station have stopped and tested the bus in front of the police station yesterday (13).
+සිරිපුර සිට මහනුවර බලා ධාවනය වූ පුද්ගලික බස් රථයක රිය සහයක සන්තකයේ මත්ද්‍රව්‍ය තිබෙන බවට ලද තොරතුරක් මත ඊයේ (13) ගිරාදුරුකෝට්ටේ පොලිස් ස්ථානයේ නිලධාරීන් එම බස් රථය පොලිස් ස්ථානය ඉදිරිපිටදීම නවත්වා පරීක්ෂාවට ලක්කර ඇත.
 
-The police have been able to find five gulfs in the possession of the drugs that are known as a madness.
+එහිදී මදන මෝදක ලෙස හදුන්වන මත්ද්‍රවය ගුලි 05ක් එම සහයක සන්තකයේ තිබී සොයාගැනීමට පොලීසියට හැකිව තිබේ.
 
 ඒ් හේතුවෙන් එම බස් රථයේ සිටි මගීන් බස්සවා වෙනත් බස් රථයකට යොමුකර ඇත.
 
-Thereafter, a driver and a partner has been referred to the Mahiyanganaya Base Hospital.
+ඉන් අනතුරුව රියදුරු සහ සහයක වෛද්‍ය පරීක්ෂණයක් සඳහා මහියංගනය මූලික රෝහල වෙත යොමුකර තිබේ.
 
-The driver of a driver was not used in the possession of drugs, the driver of the bus is available to marijuana drugs.
+එහිදී අනාවරණය වී ඇත්තේ මත්ද්‍රව්‍ය ගුලි සන්තකයේ තබාගෙන සිටි රිය සහයක මත්ද්‍රව්‍ය භාවිතා කර නොමැති බවත්, බස් රථයේ රියදුරුගේ ශරීරයේ ගංජා මත්ද්‍රව්‍ය අන්තර්ගතව ඇති බවත්ය.
 
-Accordingly, both were arrested and submitted to Mahiyanganaya Magistrate.
+ඒ අනුව ඔවුන් දෙදෙනා අත්අඩංගුවට ගෙන මහියංගනය මහෙස්ත්‍රාත් අධිකරණයවෙත ඉදිරිපත් කරනු ලැබීය.
 
-Police also launched an investigation into a pharmacy issued.
+තවද එම ගුලි නිකුත්කළ ඔසුසලක් සම්බන්ධවද පොලීසිය විසින් විමර්ශනයක් ආරම්භකර ඇත.
 
 ◼️
 
 [Data](articles/96ecc3cf.json)
-
-[Extended Data](ext_articles/96ecc3cf.ext.json)
-
----
-
-### 72 dead in Nepal protests, victims declared ‘Martyrs’, families to get relief
-
-*2025-09-14 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112488/72-dead-in-nepal-protests-victims-declared-martyrs-families-to-get-relief) · `en`
-
-Sushila Karki formally assumed office as the interim Prime Minister of Nepal on Sunday, declaring those killed during the Gen Z protests as “martyrs” and announcing Rs 1 million in relief for each victim’s family, according to local media reports.
-
-Karki, a former Chief Justice, was sworn in on Friday by President Ramchandra Paudel after growing demands from the Gen Z movement.
-
-She took charge two days later, beginning her tenure by paying tribute at the Martyrs’ Memorial in Lainchaur on Sunday morning before proceeding to Singha Durbar. She commenced her official duties from the Home Ministry’s building, as the Prime Minister’s Office had been shifted there following the arson attack on Tuesday that damaged the main complex.
-
-One of her first decisions was to extend immediate relief to victims of last week’s violent demonstrations.
-
-...
-
-[Data](articles/a46a2a2e.json)
-
-[Extended Data](ext_articles/a46a2a2e.ext.json)
 
 ---
 
@@ -207,28 +135,6 @@ On the same day, a group of preschool children met with their parents, the forme
 [Data](articles/1ab5fb99.json)
 
 [Extended Data](ext_articles/1ab5fb99.ext.json)
-
----
-
-### Warm weather advisory issued for several provinces
-
-*2025-09-14 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112487/warm-weather-advisory-issued-for-several-provinces) · `en`
-
-A warm weather advisory has been issued for residents of the Northern, North-central and Eastern provinces and in the Monaragala district.
-
-The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (15), according to the Department of Meteorology.
-
-‘The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body’, said the Met Department in a statement.
-
-The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
-
-Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
-
-◼️
-
-[Data](articles/4cecdbe2.json)
-
-[Extended Data](ext_articles/4cecdbe2.ext.json)
 
 ---
 
@@ -388,23 +294,21 @@ It is also reported that K. Nageswaran (71 years old) from Muttur Sampur area di
 
 ---
 
-### Private and SLTB buses go to RES
+### පෞද්ගලික හා ලංගම බස් දෙක රෙස් යයි
 
 *2025-09-14 13:24:08* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-ලංගම-බස්-දෙක-රෙස්-යයි/11-418486) · `si`
 
-The people call for the driver of the private bus on the bus driver, driving the bus and operating the bus.
+අධික වේගයෙන්  අන්තරාකාරි ලෙස බස් රථය ධාවනය කර අනතුරක් කිරීමට උත්සාහ කළ පෞද්ගලික බස් රථයේ රියදුරුට එරෙහිව පියවර ගන්නා ලෙස ජනතාව ඉල්ලා සිටී.
 
-The bus passengers complain that the Sri Lankan Transport Board bus to travel from the Bandaravawa to Hatton, he accused the backed by the private bus to pass.
+බගවන්තලාව සිට හැටන් දක්වා ධාවනය වූ ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට අන්තරාකාරී ලෙස පෞද්ගලික බස් රථය උත්සාහ කළ බවට බස් රථයේ මගීහු චෝදනා කරති.
 
-The bus passengers accused the Sri Lanka Transport Board Bus was traveling in the front of the Sri Lanka Transport Board while he was heading ahead.
+නල්ලතන්නි සිට හැටන් දක්වා ගමන් කළ පෞද්ගලික බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට උත්සාහ කළ බවට බස් රථයේ මගීන් චෝදනා කරති.
 
-This event took place on Sunday morning on 14.09.2011. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
+මෙම සිදුවීම 2025.09.14 වන ඉරිදා උදෑසන සිදු විය. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
 
 ◼️
 
 [Data](articles/a98e2a4c.json)
-
-[Extended Data](ext_articles/a98e2a4c.ext.json)
 
 ---
 
@@ -2111,5 +2015,95 @@ Expressing her felicitations to the historic celebration of the shrine on behalf
 [Data](articles/c7527dbb.json)
 
 [Extended Data](ext_articles/c7527dbb.ext.json)
+
+---
+
+### 22 killed in air attack on West Myanmar
+
+*2025-09-13 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214539) · `si`
+
+Twenty students were killed and two others were injured in a hostel building at the West Myanmar.
+
+The media reports that the students were sleeping at the time of the attack.
+
+Myanmar had launched this attack targeting a region where the country's armed teams.
+
+◼️
+
+[Data](articles/1211d4e3.json)
+
+[Extended Data](ext_articles/1211d4e3.ext.json)
+
+---
+
+### Sri Lanka a target of 140 runs
+
+*2025-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214538) · `si`
+
+Batting first Sri Lanka and Bangladesh scored 139 runs for the loss of 5 wickets at the end of 20 overs.
+
+Sri Lanka captain Charith won the toss and elected to the Bangladesh to bat first.
+
+Shamm, Hassain scored 42 runs for the Bangladesh team.
+
+No other player in the group was able to exceed the 10-run limit.
+
+Tannu Hasaranga took 2 wickets for Sri Lanka in bowling and took 2 wickets.
+
+Sri Lanka is due to chase 140 runs.
+
+◼️
+
+[Data](articles/c558a898.json)
+
+[Extended Data](ext_articles/c558a898.ext.json)
+
+---
+
+### Indian national arrested with rash drugs worth Rs. 85 million
+
+*2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
+
+An Indian national has been arrested by an Indian national who tried to carry 8.542 kilograms of crusts worth Rs. 85 million.
+
+The suspect was arrested by the officials of the Narcotics Bureau at Bandaranaike International Airport.
+
+◼️
+
+[Data](articles/46260ef7.json)
+
+[Extended Data](ext_articles/46260ef7.ext.json)
+
+---
+
+### Indian arrested with Kush worth Rs. 85 million at BIA
+
+*2025-09-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112464/indian-arrested-with-kush-worth-rs-85-million-at-bia) · `en`
+
+An Indian national has been arrested by officers of the Police Narcotics Bureau (PNB) at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a large consignment of Kush cannabis.
+
+The 33-year-old suspect, who had arrived from Thailand and was bound for India, was found in possession of 8.542 kilograms of Kush cannabis, with an estimated street value of Rs. 85 million, police said.
+
+◼️
+
+[Data](articles/8b36ef7d.json)
+
+[Extended Data](ext_articles/8b36ef7d.ext.json)
+
+---
+
+### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
+
+*2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
+
+The fire is already spreading throughout the reserve.
+
+It is reported that the fire is spreading in the forest due to dry weather and strong winds.
+
+◼️
+
+[Data](articles/4d52bcfe.json)
+
+[Extended Data](ext_articles/4d52bcfe.ext.json)
 
 ---

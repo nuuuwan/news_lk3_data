@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 21:37:45**
+As of **2025-09-14 20:54:20**
 
 ## Newspaper Stats
 
-*Scraped **75,939** Articles*
+*Scraped **75,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,75 +16,41 @@ economynextcom | 4,598
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,374
+adalk | 7,373
 adaderanalk | 9,768
 tamilmirrorlk | 11,360
-virakesarilk | 12,376
+virakesarilk | 12,375
 adaderanasinhalalk | 13,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,229 (93.8%) of 75,939 articles have been extended.
+71,185 (93.7%) of 75,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### Corruption and fraud within the government will not be retreated in legal action - Minister Samantha Vidyaratne
-
-*2025-09-14 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225084) · `ta`
-
-Corruption and fraud within the government are not going to back down on their actions. Investigations are being carried out on the release of container. Minister Samantha Vidyaratne said that the law will be implemented properly, no matter who fails to do so.
-
-He further stated that he was speaking to the media after attending an event in Colombo on Saturday (13).
-
-Drugs are not completely eradicated. We are currently taking the initial blow. Can travel until the end. The actual surroundings of justice have just begun. In the past, actions were carried out only for a particular community. But now the law is being implemented equally.
-
-...
-
-[Data](articles/96506e2e.json)
-
-[Extended Data](ext_articles/96506e2e.ext.json)
-
----
-
-### Ricky Hatton dies former World Boxing Championship
-
-*2025-09-14 20:35:01* · [`adalk`](https://www.ada.lk/sports/හිටපු-ලෝක-බොක්සිං-ශූර-රිකී-හැටන්-මිය-යයි/9-418493) · `si`
-
-Former World Boxing Champion Ricky Hatton has died in 46 years. Police said the 46-year-old man was found dead at his home in the Hyde of Tymside, Mancheside. Police say his death is not suspicious.
-
-◼️
-
-[Data](articles/f42bcbde.json)
-
-[Extended Data](ext_articles/f42bcbde.ext.json)
-
----
-
-### A shortage of costume in the market
+### වෙළෙඳපොළේ කීරිසම්බා හිඟයක්
 
 *2025-09-14 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214570) · `si`
 
-Consumers complain that there is a lack of hair samba rice in the market.
+වෙළෙඳපොළේ කීරි සම්බා සහල් හිඟයක් පවතින බවට පාරිභෝගික ජනතාව මැසිවිලි නගයි.
 
-Pettah Rice Rice Rice Sahanuwa 260 rupees imposed on Rs 260 rupees imposed on Rs.
+පිටකොටුව සහල් තොග වෙළෙඳුන් පවසන්නේ කීරි සම්බා සඳහා පනවා ඇති රුපියල් 260 ක පාලන මිල ඉක්මවා සහල් නිෂ්පාදකයන් තමන්ට කීරිසම්බා සැපයීම හේතුවෙන් එම සහල් අලෙවියෙන් ඉවත්ව සිටින බවය.
 
-In the face of this, retailerators too keeramar samba rice is avoiding sales.
+මේ තත්ත්වය හමුවේ සිල්ලර වෙළෙඳුන්ද කීරි සම්බා සහල් අලෙවියෙන් වැළකී සිටියි.
 
-In such an environment, the United Kingdom Manufacturers Association urges the government to remove the maximum retail price imposed on Samba Samba rice.
+මෙවන් වාතාවරණයක එක්සත් සහල් නිෂ්පාදකයින්ගේ සංගමය රජයෙන් ඉල්ලා සිටින්නේ සම්බා සහ කීරි සම්බා සහල්වලට පනවා ඇති උපරිම සිල්ලර මිල ඉවත් කිරීමට කටයුතු කරන ලෙසය.
 
-However, large and medium and medium scale Mills, the SMEs of the rice is not taken to remove the maximum retail price of the rice artificial rice deficit and seek advantage of artificial rice shortage.
+එහෙත් මහා පරිමාණ සහල් මෝල් හිමියන් කෘත්‍රිමව සහල් හිඟයක් නිර්මාණය කර වාසි ලබාගැනීමට උත්සාහ කරන බැවින් සහල්වල උපරිම සිල්ලර මිල ඉවත් කිරීමට කිසිසේත් පියවර නොගන්නා ලෙස ශ්‍රී ලංකා සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන්ගේ සංගමය ඉල්ලා සිටියි.
 
-Meanwhile, the National Agrarian Association says the government should expeditate and address this problem.
+මේ අතර ජාතික ගොවිජන එකමුතුව පවසන්නේ ආණ්ඩුව කඩිනමින් මැදිහත්ව මේ ගැටලුවට විසඳුම් ලබාදිය යුතු බවටය.
 
 ◼️
 
 [Data](articles/d3812c67.json)
-
-[Extended Data](ext_articles/d3812c67.ext.json)
 
 ---
 
@@ -144,23 +110,21 @@ Meanwhile, Oblic Seville, Jamaica won the 100m long.
 
 ---
 
-### Fish lorry who arrives in Peliyagoda
+### පෑලියගොඩට එන මත්ස්‍ය ලොරි තොග වෙළඳුන් මග හරියි
 
 *2025-09-14 19:19:06* · [`adalk`](https://www.ada.lk/breaking_news/පෑලියගොඩට-එන-මත්ස්‍ය-ලොරි-තොග-වෙළඳුන්-මග-හරියි/11-418490) · `si`
 
-The Deputy Minister of Fisheries Ratna Gamage was held under the patronage of the businessmanath of the Trade Community to solve problems at the Peliyagoda fish market.
+පෑලියගොඩ මත්ස්‍ය වෙළඳ සංකීර්ණයේ ගැටලු විසඳීමට නව වැඩපිළිවෙළක් වෙනුවෙන් එහි වෙළෙඳ ප්‍රජාව සමඟ සාකච්ඡාවක් ධිවර නියෝජ්‍ය අමාත්‍ය රත්න ගමගේ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්වුණි.
 
-Deputy Minister of Fisheries Ratna Gamage to look into the long-term issues of the Peliyagoda Central Fish Merchants, the main center of fish distribution center in Sri Lanka.. There was also a special discussion with the community.
+මෙරට මත්ස්‍ය බෙදාහැරීමේ ප්‍රධාන මධ්‍යස්ථානය වන පෑලියගොඩ මධ්‍යම මත්ස්‍ය වෙළඳ සංකීර්ණයේ තොග සහ සිල්ලර වෙළෙඳුන් මුහුණ දෙන දීර්ඝකාලීන ගැටලු පිළිබඳව සොයා බැලීම සඳහා ධිවර නියෝජ්‍ය අමාත්‍ය රත්න ගමගේ මහතා පසුගිය දා  එම සංකීර්ණයේ නිරීක්ෂණ චාරිකාවක නිරත වුහ. එහිදී වෙළෙඳ ප්‍රජාව සමඟ විශේෂ සාකච්ඡාවක් ද පැවැත්වීය.
 
-The meeting, which was part of the proposal in the fisheries industry for the next year, the merchant community was referred to the Deputy Minister.
+ඉදිරි වර්ෂයේ අයවැය සඳහා ධීවර ක්ෂේත්‍රයෙන් යෝජනා ලබා ගැනීමේ වැඩසටහනේ කොටසක් ලෙස පැවති මෙම හමුවේදී, වෙළෙඳ ප්‍රජාව විසින් ඔවුන් මුහුණ දී ඇති ප්‍රධාන ගැටලු නියෝජ්‍ය අමාත්‍යවරයා වෙත  යොමු කරන ලදී.
 
-The stock traders pointed out that the traders reaching the shopping complex in the mall, which registered with the maintenance of the market in the malls, and the formal methodology of the marketplace will collapse.
+වෙළඳ සංකීර්ණය වෙත ළඟා වන මත්ස්‍ය ලොරි, ලියාපදිංචි තොග වෙළෙඳසැල් මඟහැර, වෙළඳ සංකීර්ණ භූමිය තුළදීම පිටත ගැනුම්කරුවන්ට සෘජුවම අලෙවි කිරීම හේතුවෙන් ලියාපදිංචි ව්‍යාපාරිකයින් දැඩි අසීරුතාවකට පත්වන බවත්, වෙළඳපොළේ විධිමත් ක්‍රමවේදය බිඳ වැටෙන බවත් තොග වෙළෙඳුන් පෙන්වා දුන්හ.
 
 ...
 
 [Data](articles/cd177f58.json)
-
-[Extended Data](ext_articles/cd177f58.ext.json)
 
 ---
 
@@ -2069,5 +2033,49 @@ According to the Indian national, when the Indian national was arrested and insp
 [Data](articles/eb795d47.json)
 
 [Extended Data](ext_articles/eb795d47.ext.json)
+
+---
+
+### Two vehicles without licenses: two arrested
+
+*2025-09-14 10:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உரிமங்கள்-இல்லாத-இரண்டு-வாகனங்கள்-சிக்கின-இருவர்-கைது/76-364537) · `ta`
+
+The Colombo Central Criminal Investigation Bureau has won the arrest of two suspects with two motor vehicles imported to the country without licenses.
+
+A team of officials of the Colombo Central Criminal Investigation Bureau conducted two raids on the morning of 13.09.2025 at the Menikhinna Police Division and the Wadegama Police Division.. Two suspects were arrested with two jeeps imported to the country from abroad without licenses.
+
+The arrested suspects are residents of Menikhinna and Wadegama, aged 38 and 58.
+
+The arrested suspects were produced before the Teldeniya Magistrate's Court on 13.09.2025 and placed in remand till 15.09.2025. Further investigations are being conducted by the Central Criminal Investigation Bureau in Colombo.
+
+◼️
+
+[Data](articles/2d920d3b.json)
+
+[Extended Data](ext_articles/2d920d3b.ext.json)
+
+---
+
+### The boyfriend shot towards the sky when he saw the girlfriend's face
+
+*2025-09-14 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியின்-முகத்தை-பார்த்ததும்-வானத்தை-நோக்கி-சுட்ட-காதலன்/175-364536) · `ta`
+
+A boyfriend who was shot dead on his split girlfriend, was mourning his face and firing into the sky and fleeing the Govindapuram police division.
+
+The incident took place on the morning of the 11th of this month in the Buddha Ritikahawatte area of ​​the Govindupura Police Division.
+
+The Govindapuram police said that a 24 -year -old woman from Buddha Ritikahawathai was in a relationship with a 29 -year -old youth from the same village and the two were split about a year ago.
+
+The woman is currently working at a garment factory in Moneragala. His ex -boyfriend, who heard that he was in a relationship with another young man, planned to shoot her.
+
+The woman tried to shoot her while she was coming from her house to catch the bus at the garment factory crossing the street.. He was miserable at his face and then fired into the sky and fled.
+
+Govindapuram Police Station Superintendent TM. Karuna Santha is conducting investigations to arrest him.
+
+◼️
+
+[Data](articles/1e42405a.json)
+
+[Extended Data](ext_articles/1e42405a.ext.json)
 
 ---

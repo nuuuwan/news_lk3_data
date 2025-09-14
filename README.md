@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 20:05:54**
+As of **2025-09-14 19:54:06**
 
 ## Newspaper Stats
 
-*Scraped **75,934** Articles*
+*Scraped **75,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,372
-adaderanalk | 9,768
+adaderanalk | 9,767
 tamilmirrorlk | 11,360
 virakesarilk | 12,374
-adaderanasinhalalk | 13,248
+adaderanasinhalalk | 13,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,146 (93.7%) of 75,934 articles have been extended.
+71,146 (93.7%) of 75,932 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,20 +47,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6c995d55.json)
-
----
-
-### 2025 ලෝක මලල ක්‍රීඩා ශූරතාවලියේ 100m ඉසව්වල ජය අමෙරිකාවට සහ ජැමෙයිකාවට
-
-*2025-09-14 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214569) · `si`
-
-ජපානයේ ටෝකියෝ නුවර පැවැත්වෙන 2025 ලෝක මලල ක්‍රීඩා ශූරතාවලියේ මීටර් 100 කාන්තා ඉසව්ව ජය ගැනීමට අමෙරිකා එක්සත් ජනපදයේ මෙලිසා ජෙෆර්සන් වුඩන් සමත් විය.
-
-මේ අතර මීටර් 100 පිරිමි ඉසව්වේ ජය හිමිකර ගත්තේ ජැමෙයිකාවේ ඕබ්ලික් සෙවිල් විසනි.
-
-◼️
-
-[Data](articles/6aa457be.json)
 
 ---
 
@@ -99,28 +85,6 @@ In this case, the Kaluwanchikudi police have begun investigations into the incid
 [Data](articles/36f32167.json)
 
 [Extended Data](ext_articles/36f32167.ext.json)
-
----
-
-### Romania becomes second Nato country to report Russian drone in its airspace
-
-*2025-09-14 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112496/romania-becomes-second-nato-country-to-report-russian-drone-in-its-airspace) · `en`
-
-Romania says a Russian drone has breached its airspace - the second Nato country to report such an incursion.
-
-Romanian fighter jets were in the air monitoring a Russian attack in Ukraine on Saturday and were able to track the drone near Ukraine’s southern border, the defence ministry said in a statement.
-
-Ukrainian President Volodymyr Zelensky said the incursion could not be a mistake - it was “an obvious expansion of the war by Russia”. Moscow has not commented on the Romanian claims.
-
-On Wednesday, Poland said it had shot down at least three Russian drones which had entered its airspace.
-
-In its statement, Romania’s defence ministry said it detected the Russian drone when two F-16 jets were monitoring they country’s border with Ukraine, after “Russian air attacks on Ukrainian infrastructure on the Danube”.
-
-The drone was detected 20km (12.4 miles) south-west of the village of Chilia Veche, before disappearing from the radar.
-
-...
-
-[Data](articles/f25e154a.json)
 
 ---
 
@@ -346,23 +310,15 @@ The Prime Minister said that the Prime Minister would be able to realize the chi
 
 *2025-09-14 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112493/58-earthquake-jolts-indias-assam-tremors-felt-in-north-bengal-bhutan) · `en`
 
-An earthquake of 5.8 magnitude struck parts of the north-east of India on Sunday (September 14), officials said.
+A 5.8 magnitude earthquake jolted India’s Assam at 4:41 pm, with tremors felt as far as North Bengal and neighbouring Bhutan.
 
-There was no immediate report of any loss of life or damage to property, they said.
+Its epicentre was in the Udalguri district in Guwahati, the officials said.
 
-The epicentre of the earthquake that took place at 4.41 pm on Sunday, was in Udalguri district, the officials said.
+No reports of injury or damage to property have been received so far.
 
-Assam Chief Minister Himanta Biswa Sarma, in a post on X, said, “The epicentre (of the earthquake) was near Udalguri. So far, there has been no report of any major damage or loss of life. We are actively monitoring the situation.”
+The earthquake comes days after a 3.5 magnitude quake struck Sonitpur in Assam on September 2.
 
-Residents of Udalguri, Sonitpur, Tamulpur, Nalbari and several other districts in Assam felt the tremors.
-
-Panic-gripped people were seen rushing out of their residences in Guwahati.
-
-People of the western parts of Manipur, Arunachal Pradesh and north Bengal also felt the jolt in addition to residents of some parts of Bhutan.
-
-Residents in Arunachal Pradesh’s capital Itanagar ran out of their houses and shops in panic.
-
-...
+◼️
 
 [Data](articles/3ad89cb6.json)
 
@@ -596,13 +552,15 @@ It says that the warm index of the Northern-Central and Eastern provinces, in so
 
 *2025-09-14 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112491/presidents-fund-which-benefited-only-a-limited-group-has-now-become-a-public-fund-pm-harini) · `en`
 
-Under the present government, the President’s Fund, which had been turned into a privilege for a selected individual groups, is now being utilised 100% for the people, Prime Minister Dr. Harini Amarasuriya stated.
+The President’s Fund, which previously benefited only a limited group, has now become a public fund, Prime Minister Dr. Harini Amarasuriya has stated.
 
-The Prime Minister made these remarks while attending the Central Province program held today (14) at the Kandy District Secretariat to recognize students who showcased outstanding achievements in the 2023 (2024) and 2024 G.C.E. Advanced Level Examinations, representing each subject stream from every district in the island followed by the decision taken by the President’s Fund.
+While addressing an event in Kandy today, the Prime Minister said the year, a portion of the fund has been allocated for education, and the recognition of students who excelled at the G.C.E. Advanced Level examination is one of the unique initiatives carried out through it.
 
-During the event, the Prime Minister presented certificates to the students who excelled in their respective subject streams.
+She also noted that the main objective of education policies is to ensure quality education that nurtures a developed, humane, and responsible citizenry.
 
-...
+Prime Minister Dr. Harini Amarasuriya made these remarks at the recognition and scholarship award ceremony for the G.C.E. (A/L) examination toppers of the 2023/2024 academic year, held at the Kandy District Secretariat today (14).
+
+◼️
 
 [Data](articles/2f30b6c4.json)
 
@@ -2061,5 +2019,49 @@ The Authority also said that the procedural Affairs Authority (Consumer Affairs 
 [Data](articles/2eba3648.json)
 
 [Extended Data](ext_articles/2eba3648.ext.json)
+
+---
+
+### Sri Lanka advanced in T20 Ratings
+
+*2025-09-14 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214548) · `si`
+
+The International Cricket Council (ICC) has come forward to 7th in the latest T20 team ratings.
+
+The Sri Lankan team has come forward with the victory over Bangladesh yesterday in the Asian Cup yesterday.
+
+Accordingly, the Pakistan for the 8th place to the Pakistan has to retreat.
+
+According to the current ranking, the Indian team is still being preserved.
+
+◼️
+
+[Data](articles/f7484ed6.json)
+
+[Extended Data](ext_articles/f7484ed6.ext.json)
+
+---
+
+### The cruelty of the student who lifted the skirt over it
+
+*2025-09-14 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாவாடையை-அதுக்கே-மேல-தூக்கிய-மாணவியை-விருந்தாக்கிய-கொடூரம்/175-364534) · `ta`
+
+Hema (name changed). At the age of seventeen, the greed of becoming an actress in cinema had set fire to her heart.
+
+Hema, with a beautiful face and a dance talented, set foot in a dance school on the journey of dreams. Rajesh is the one who made her acquaintance.
+
+Rajesh, Kanyakumari district famous dance teacher. It is customary for students to dance at his school and get gifts on stage.
+
+Knowing Hema's curiosity and cinema dream, Rajesh sowed the seeds of hope in her mind. "I know a lot of deputy directors in the cinema. If they keep their minds, you can become a star, "he whispered to her with words of desire.
+
+In an evening, Rajesh talked to Hema about a chance. “To meet the Deputy Directors Tomorrow. If they see you, you will get a place in cinema, "he said.
+
+His sweet speech and loving behavior developed confidence in Hema's mind. "Well," she agreed.
+
+...
+
+[Data](articles/814a7f93.json)
+
+[Extended Data](ext_articles/814a7f93.ext.json)
 
 ---

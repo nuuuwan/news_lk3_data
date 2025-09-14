@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 23:56:50**
+As of **2025-09-15 00:20:22**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 13,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,295 (93.9%) of 75,946 articles have been extended.
+71,297 (93.9%) of 75,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### පාකිස්තානය පරදා ඉන්දියාවට පහසු ජයක්
+### India beat Pakistan
 
 *2025-09-14 23:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214574) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අද (14) රාත්‍රියේ පැවති තරගයෙන් පාකිස්තාන කණ්ඩායම පරාජය කර කඩුලු 7ක පහසු ජයක් ලැබීමට ඉන්දීය කණ්ඩායම සමත් විය.
+India beat Pakistani, defeated the Pakistan won the Ven.
 
-පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තානයට පන්දුවාර 20 තුළදී කඩුලු 9ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 127ක් පමණි.
+Batting first, Pakistan won only 127 runs in the 20 overs.
 
-ඒ අනුව ලකුණු 128ක පහසු ඉලක්කයක් හඹාගිය ඉන්දීය කණ්ඩායම කඩුලු 3ක් පමණක් දැවී තිබියදී තරගයේ 16(15.5) පන්දුවාරයේදී ලකුණු 131ක් රැස්කර ජයග්‍රහණය සම්පූර්ණ කරගත්තේය.
+Chasing a target of 128 runs, the Indian team scored 131 runs in the final and scored 131 runs in the final.
 
-මෙම ජයත් සමග ක්‍රීඩාකළ තරග දෙකම ජයගත් ඉන්දීය කණ්ඩායම තවදුරටත් ප්‍රසාද ලකුණු සටහනේ පෙරමුණ රැකගෙන සිටියි.
+The Indian team has survived both of the matches played with this winter.
+
+With the victory over the Indian team, the Indian team has won all three Twenty20 matches, who played against Pakistan.
+
+In the 2022 Asia Cup, Pakistan defeated Pakistan last year.
 
 ◼️
 
 [Data](articles/eabaf1db.json)
+
+[Extended Data](ext_articles/eabaf1db.ext.json)
 
 ---
 

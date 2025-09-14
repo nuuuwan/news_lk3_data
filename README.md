@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 17:05:32**
+As of **2025-09-14 16:51:44**
 
 ## Newspaper Stats
 
@@ -110,26 +110,6 @@ Accordingly, the Nepal parliamentary election will be held on March 5th.
 
 ---
 
-### School Examinations Table Issue for 2026
-
-*2025-09-14 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225063) · `ta`
-
-The Ministry of Education has issued a special announcement regarding the school examinations to be held in 2026.
-
-Accordingly, the GCE Ordinary Level Examination of 2025 (2026) will be held from 2026-02-17 to 2026-02-26.
-
-At the same time, the GCE Advanced Level Examination will be held from 2026-08-10 to 2026-09-05.
-
-In addition, the Ministry of Education has announced that the GCE Ordinary Level Examination will be held from 2026-12-08 to 2026-12-17.
-
-◼️
-
-[Data](articles/c8da44e8.json)
-
-[Extended Data](ext_articles/c8da44e8.ext.json)
-
----
-
 ### 10 -year rigorous prison for a man raped
 
 *2025-09-14 16:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-வல்லுறவு-செய்த-நபருக்கு-10-வருட-கடூழிய-சிறை/175-364560) · `ta`
@@ -205,6 +185,26 @@ The Marawila Operations Magistrate will conduct a preliminary inquiry, while the
 ...
 
 [Data](articles/fac5dc8a.json)
+
+---
+
+### School Examinations Table Issue for 2026
+
+*2025-09-14 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225063) · `ta`
+
+The Ministry of Education has issued a special announcement regarding the school examinations to be held in 2026.
+
+Accordingly, the GCE Ordinary Level Examination of 2025 (2026) will be held from 2026-02-17 to 2026-02-26.
+
+At the same time, the GCE Advanced Level Examination will be held from 2026-08-10 to 2026-09-05.
+
+In addition, the Ministry of Education has announced that the GCE Ordinary Level Examination will be held from 2026-12-08 to 2026-12-17.
+
+◼️
+
+[Data](articles/c8da44e8.json)
+
+[Extended Data](ext_articles/c8da44e8.ext.json)
 
 ---
 

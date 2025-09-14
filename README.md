@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 19:54:06**
+As of **2025-09-14 20:36:46**
 
 ## Newspaper Stats
 
-*Scraped **75,932** Articles*
+*Scraped **75,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,72 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,372
-adaderanalk | 9,767
+adaderanalk | 9,768
 tamilmirrorlk | 11,360
-virakesarilk | 12,374
-adaderanasinhalalk | 13,247
+virakesarilk | 12,375
+adaderanasinhalalk | 13,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,146 (93.7%) of 75,932 articles have been extended.
+71,160 (93.7%) of 75,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### දිවිබල සංවර්ධන ණය ව්‍යාපෘතියේ අක්‍රමිකතා විගණනයෙන් හෙළිවෙයි
+### மட்டக்களப்பில் வீடு உடைத்து 20 இலட்சத்து 80 ஆயிரம் ரூபா பணம் 80 இலட்சம் ரூபா தங்க ஆபரணங்கள் திருட்டு
+
+*2025-09-14 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225083) · `ta`
+
+மட்டக்களப்பு பொலிஸ் பிரிவிலுள்ள புன்னைச்சோலை பகுதியில் வீடு ஒன்றின் கதவை உடைத்து உள் நுழைந்த திருடர்கள் 20 இலட்சத்து 80 ஆயிரம் ரூபா பணம். சுமார் 80 இலட்சம் ரூபா பெறுமதியான  33 அரை பவுன் கொண்ட தங்க ஆபரணங்களை திருடிச் சென்ற சம்பவம்  ஞாயிற்றுக்கிழமை (13) இரவு இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
+
+புன்னைச்சோலை சேமக்காலை வீதி 4ம் குறுக்கு வீதியில் சம்பவ தினமான ஞாயிற்றுக்கிழமை (13)  இரவு குறித்த வீட்டில் அனைவரும் ஆழ்ந்த நித்திரையில் இருந்துள்ளனர். இதன் போது வீட்டின் குசினி பகுதி கதவை உடைத்து வீட்டுக்குள் உள்நுழைந்த திருடர்கள் அங்கு அறைகளில் அலுமாரியில் வைக்கப்பட்டிருந்த 20 லட்சத்து 80 ஆயிரம் ரூபா பணம் மற்றும் சுமார் 33 அரை பவுன் கொண்ட தங்க ஆபரணங்களை திருடிச் சென்றுள்ளனர்.
+
+இதனையடுத்து பொலிஸ் நிலையத்தில் பாதிக்கப்பட்ட வீட்டு உரிமையாளர் முறைப்பாடு செய்ததையடுத்து பொலிசார் தடவியல் பிரிவு பொலிசார் அழைக்கப்பட்டு தீவிர விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/993d37b7.json)
+
+---
+
+### Irregularities of the Divi Development Loan Project reveals
 
 *2025-09-14 19:26:19* · [`adalk`](https://www.ada.lk/breaking_news/දිවිබල-සංවර්ධන-ණය-ව්‍යාපෘතියේ-අක්‍රමිකතා-විගණනයෙන්-හෙළිවෙයි/11-418491) · `si`
 
-දකුණු පළාත් සංවර්ධන අධිකාරියේ  දකුණු පළාත් ව්‍යවසායකත්ව දිවිබල සංවර්ධන ණය  ව්‍යාපෘතියේ කුවිතාන්සි 13ක  අනුක්‍රමික අංක පිළිවෙළ  වංචනික ලෙස වෙනස්කරමින් ණය ලැබිම්වලින් රුපියල් එක්ලක්ෂ, හතලිස්නමදහසක් (149,000)  මුදලක් අවභාවිතාකොට ඇති බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+A audit report issued by the National Audit report states that the debt has been deprived of 13,000 rupees (149,000) from the Southern Provincial Development Authority's Southern Provincial Development Authority.
 
-මේ සම්බන්දයෙන් විෂය නිලධාරිනියට අදාළව 2023 වර්ෂයේ  ජුනි 09 වැනිදින  මුලික විමර්ශන කමිටුවක් පත්කර තිබුණද 2024 වර්ෂයේ සැප්තැම්බර් ම දක්වාම අදළාව වාර්තාව ඉදිරිපත් කිරිමට කටයුතු කර නොමැති බවද විගණනය මගින් අනාවරණය කොට ඇත.
+The audit has revealed that no matter what has been appointed to the subject officer in connection with the subject of June 9, but in September 2024.
 
-දිවිබල සංවර්ධන ණය ව්‍යාපෘතිය යටතේ 2022 වර්ෂයේ ඔක්තෝබර් මස 31 දිනට මුදල් පොත අනුව  ලැබිම් සහ පරිඝණක වැඩසටහන් අනුව  රුපියල් විසිතුන්ලක්ෂ, හතලිස්හත්දහස්, හාරසියදාහතරක(2,347,414)  වෙනසක් පැවති බවද විගණන වාර්තාවේ සදහන් වේ.
+According to the Cash Book and Computer Program by the Cash Book of the Cash Book on October 31, 2022, according to the Cash Book and Computer Program, according to the Cash Book and Computer Program (2,347,414) was reported in the Cash Book and Computer Program.
 
-දකුණු පළාත් සංවර්ධන අධිකාරිය විසින් විගණනයට සදහන් කොට ඇත්තේ  විෂය නිලධාරිනියට අදාළව  මුලික විමර්ශනයක් සිදුකර  ඒ අනුව ඉදිරි කටයුතු සිදුකිරිමට  අධ්‍යක්ෂක මණ්ඩලය තිරණයක් ලබාදෙන බව දැනුම් දි ඇති බවය.
+The Audit has said that the Audit has said that a basic investigation into the subject officer has been conducted by the Board of Directors.
 
-...
+This information is included in the Tri-Audit Report issued by the Southern Provincial Council Office.
+
+◼️
 
 [Data](articles/6c995d55.json)
+
+[Extended Data](ext_articles/6c995d55.ext.json)
+
+---
+
+### US and Jamaica to win World Athletics Championships in 2025
+
+*2025-09-14 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214569) · `si`
+
+US Melissa Jefferson Wooden won the 2025 World Athletics Championships in Tokyo, Japan.
+
+Meanwhile, Oblic Seville, Jamaica won the 100m long.
+
+◼️
+
+[Data](articles/6aa457be.json)
+
+[Extended Data](ext_articles/6aa457be.ext.json)
 
 ---
 
@@ -85,6 +121,30 @@ In this case, the Kaluwanchikudi police have begun investigations into the incid
 [Data](articles/36f32167.json)
 
 [Extended Data](ext_articles/36f32167.ext.json)
+
+---
+
+### Romania becomes second Nato country to report Russian drone in its airspace
+
+*2025-09-14 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112496/romania-becomes-second-nato-country-to-report-russian-drone-in-its-airspace) · `en`
+
+Romania says a Russian drone has breached its airspace - the second Nato country to report such an incursion.
+
+Romanian fighter jets were in the air monitoring a Russian attack in Ukraine on Saturday and were able to track the drone near Ukraine’s southern border, the defence ministry said in a statement.
+
+Ukrainian President Volodymyr Zelensky said the incursion could not be a mistake - it was “an obvious expansion of the war by Russia”. Moscow has not commented on the Romanian claims.
+
+On Wednesday, Poland said it had shot down at least three Russian drones which had entered its airspace.
+
+In its statement, Romania’s defence ministry said it detected the Russian drone when two F-16 jets were monitoring they country’s border with Ukraine, after “Russian air attacks on Ukrainian infrastructure on the Danube”.
+
+The drone was detected 20km (12.4 miles) south-west of the village of Chilia Veche, before disappearing from the radar.
+
+...
+
+[Data](articles/f25e154a.json)
+
+[Extended Data](ext_articles/f25e154a.ext.json)
 
 ---
 
@@ -184,21 +244,31 @@ He met with the accident in Kaluvanchikudy while returning to Batticaloa in his 
 
 ---
 
-### පොලිසියේ නඩු භාණ්ඩ ලෙස තිබූ තේක්ක කොට 12ක්  වඩුමඩුවක් අසල කැළෑවකට ගිහින්
+### 12 teak claims of the police cases and go to a forest near a Wadumad
 
 *2025-09-14 17:43:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-නඩු-භාණ්ඩ-ලෙස-තිබූ-තේක්ක-කොට-12ක්--වඩුමඩුවක්-අසල-කැළෑවකට-ගිහින්/11-418489) · `si`
 
-පදියතලාව  පොලිසියේ නඩු භාණ්ඩ වශයෙන්  තිබූ තේක්ක කඳන් දොළහක් අධිකරණට ඉදිරිපත් නොකර පදියතලාව වඩුමඩුවකට රැගෙන ගොස්  කැළෑවක සඟවා ගෙන සිටියදී පසුගිය 11 වැනිදා හවස අම්පාර කොට්ඨාස භාර දූෂණ මර්දන අංශයේ නිලධාරින් පිරිසක් විසින් අත්අඩංගුවට ගත් සැකකරුවන් හය දෙනෙකු දෙහිඅත්තකණ්ඩිය මහේස්ත්‍රාත් අධිකරණයෙන් ඇප මත මුදාහැර තිබේ.
+The Dehiatkarakandiya Magistrate's Court has been released on bail without the arrest of twelve teak teaks in the 17th of the 17th of teachers in Ampara.
 
-සිද්ධිය සම්බන්ධයෙන් අම්පාර ජේෂ්ඨ පොලිස් අධිකාරි සුජිත් වෙදමුල්ල මහතාගේ මූලිකත්වයෙන් පරීක්ෂණයක් ආරම්භ කර ඇති අතර  මේ දැව කඳන් පොලිසියෙන් පිට කිරීම සම්බන්ධයෙන් පදියතලාව පොලිසියේ කොස්තාපල් සිවු දෙනෙකුට ස්ථාන මාරු ලබා දී ඇත.
+Police Sujith Wedmulla under the patronage of the police Sujith Wedmulla has been launched in connection with the incident.
 
-මේ සම්බන්ධයෙන් උසස් පොලිස් නිලධාරියෙකු පැවසුවේ මෙම ස්ථාන මාරු ලබා දී ඇත්තේ මෙම පරීක්ෂණ කටයුතු විධිමත්ව  පැවැත්වීම සදහා බවයි. තවත් පොලිස් නිලධාරින් කිහිප දෙනෙකුගෙන්  කට උත්තර සටහන් කර ගනිමින් සිටින බවද පැවසීය.
+A senior police officer said that the transfers were made to conduct these investigations in a properly. He said that several other police officers were informed.
 
-පදියතලාව  පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක රෝහිත ගුණසේන මෙම සිදුවීම සිදුවන අවස්ථාවේ පොලිසියෙන් බැහැරව සිටි බවද මෙම අවස්ථාවේ වැඩ බැලීම සදහා උප පොලිස් පරීක්ෂක වීරකෝන් නැමැති අයෙකි.
+The OIC of Padiyathalawa Police Inspector Rohitha Gunasena was a sub-inspector heerakoon to work at the incident.
+
+Officers including the Tadumaduwa Police were taken into the Wadumaduwa police at the time of the 11th at 3.40 pm.
+
+The lorry of the lorry, its driver's Wadumaduwa owner, has been arrested in connection with aluminum body.
+
+It has been revealed that the Padiyathalawa police have been involved in such contaminated as per the investigation.
+
+Thirty-two stems were arrested and produced before the court on July 17 with the two stems.. It
 
 ...
 
 [Data](articles/696a4f7b.json)
+
+[Extended Data](ext_articles/696a4f7b.ext.json)
 
 ---
 
@@ -280,6 +350,8 @@ During the arrest, police recovered a T81-type firearm, 97 bullets, two magazine
 
 [Data](articles/4b4258b0.json)
 
+[Extended Data](ext_articles/4b4258b0.ext.json)
+
 ---
 
 ### The proper purpose of the Presidential Fund is the Prime Minister
@@ -310,15 +382,23 @@ The Prime Minister said that the Prime Minister would be able to realize the chi
 
 *2025-09-14 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112493/58-earthquake-jolts-indias-assam-tremors-felt-in-north-bengal-bhutan) · `en`
 
-A 5.8 magnitude earthquake jolted India’s Assam at 4:41 pm, with tremors felt as far as North Bengal and neighbouring Bhutan.
+An earthquake of 5.8 magnitude struck parts of the north-east of India on Sunday (September 14), officials said.
 
-Its epicentre was in the Udalguri district in Guwahati, the officials said.
+There was no immediate report of any loss of life or damage to property, they said.
 
-No reports of injury or damage to property have been received so far.
+The epicentre of the earthquake that took place at 4.41 pm on Sunday, was in Udalguri district, the officials said.
 
-The earthquake comes days after a 3.5 magnitude quake struck Sonitpur in Assam on September 2.
+Assam Chief Minister Himanta Biswa Sarma, in a post on X, said, “The epicentre (of the earthquake) was near Udalguri. So far, there has been no report of any major damage or loss of life. We are actively monitoring the situation.”
 
-◼️
+Residents of Udalguri, Sonitpur, Tamulpur, Nalbari and several other districts in Assam felt the tremors.
+
+Panic-gripped people were seen rushing out of their residences in Guwahati.
+
+People of the western parts of Manipur, Arunachal Pradesh and north Bengal also felt the jolt in addition to residents of some parts of Bhutan.
+
+Residents in Arunachal Pradesh’s capital Itanagar ran out of their houses and shops in panic.
+
+...
 
 [Data](articles/3ad89cb6.json)
 
@@ -552,15 +632,13 @@ It says that the warm index of the Northern-Central and Eastern provinces, in so
 
 *2025-09-14 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112491/presidents-fund-which-benefited-only-a-limited-group-has-now-become-a-public-fund-pm-harini) · `en`
 
-The President’s Fund, which previously benefited only a limited group, has now become a public fund, Prime Minister Dr. Harini Amarasuriya has stated.
+Under the present government, the President’s Fund, which had been turned into a privilege for a selected individual groups, is now being utilised 100% for the people, Prime Minister Dr. Harini Amarasuriya stated.
 
-While addressing an event in Kandy today, the Prime Minister said the year, a portion of the fund has been allocated for education, and the recognition of students who excelled at the G.C.E. Advanced Level examination is one of the unique initiatives carried out through it.
+The Prime Minister made these remarks while attending the Central Province program held today (14) at the Kandy District Secretariat to recognize students who showcased outstanding achievements in the 2023 (2024) and 2024 G.C.E. Advanced Level Examinations, representing each subject stream from every district in the island followed by the decision taken by the President’s Fund.
 
-She also noted that the main objective of education policies is to ensure quality education that nurtures a developed, humane, and responsible citizenry.
+During the event, the Prime Minister presented certificates to the students who excelled in their respective subject streams.
 
-Prime Minister Dr. Harini Amarasuriya made these remarks at the recognition and scholarship award ceremony for the G.C.E. (A/L) examination toppers of the 2023/2024 academic year, held at the Kandy District Secretariat today (14).
-
-◼️
+...
 
 [Data](articles/2f30b6c4.json)
 
@@ -1995,73 +2073,5 @@ Most of the casualties are students and local media reports.
 [Data](articles/735919d4.json)
 
 [Extended Data](ext_articles/735919d4.ext.json)
-
----
-
-### Nearly 3,000 raids associated with rice during the past year
-
-*2025-09-14 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214549) · `si`
-
-The Consumer Affairs Authority (Consumer Affairs Authority) says that nearly 3,000 people have been carried out in this year.
-
-The authority said that the authority was to sell rice, rice, hid rice stocks, including 3,000 different sizes of rice including sales for conservation.
-
-The Authority said that more than a thousand raids on higher prices and he had committed a large number of raids at higher prices.
-
-The Consumer Affairs Authority said that if he was convicted of the individual selling individual businessman in charge, he was able to be prescribed or sentenced to Rs.
-
-The Authority also says that if a private company is convicted of a guilty to Rs.
-
-The Authority also said that the procedural Affairs Authority (Consumer Affairs Authority) has been able to punish the consumer action twice as a second fines.
-
-◼️
-
-[Data](articles/2eba3648.json)
-
-[Extended Data](ext_articles/2eba3648.ext.json)
-
----
-
-### Sri Lanka advanced in T20 Ratings
-
-*2025-09-14 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214548) · `si`
-
-The International Cricket Council (ICC) has come forward to 7th in the latest T20 team ratings.
-
-The Sri Lankan team has come forward with the victory over Bangladesh yesterday in the Asian Cup yesterday.
-
-Accordingly, the Pakistan for the 8th place to the Pakistan has to retreat.
-
-According to the current ranking, the Indian team is still being preserved.
-
-◼️
-
-[Data](articles/f7484ed6.json)
-
-[Extended Data](ext_articles/f7484ed6.ext.json)
-
----
-
-### The cruelty of the student who lifted the skirt over it
-
-*2025-09-14 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாவாடையை-அதுக்கே-மேல-தூக்கிய-மாணவியை-விருந்தாக்கிய-கொடூரம்/175-364534) · `ta`
-
-Hema (name changed). At the age of seventeen, the greed of becoming an actress in cinema had set fire to her heart.
-
-Hema, with a beautiful face and a dance talented, set foot in a dance school on the journey of dreams. Rajesh is the one who made her acquaintance.
-
-Rajesh, Kanyakumari district famous dance teacher. It is customary for students to dance at his school and get gifts on stage.
-
-Knowing Hema's curiosity and cinema dream, Rajesh sowed the seeds of hope in her mind. "I know a lot of deputy directors in the cinema. If they keep their minds, you can become a star, "he whispered to her with words of desire.
-
-In an evening, Rajesh talked to Hema about a chance. “To meet the Deputy Directors Tomorrow. If they see you, you will get a place in cinema, "he said.
-
-His sweet speech and loving behavior developed confidence in Hema's mind. "Well," she agreed.
-
-...
-
-[Data](articles/814a7f93.json)
-
-[Extended Data](ext_articles/814a7f93.ext.json)
 
 ---

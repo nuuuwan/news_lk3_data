@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 22:36:39**
+As of **2025-09-14 23:05:42**
 
 ## Newspaper Stats
 
-*Scraped **75,942** Articles*
+*Scraped **75,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,53 @@ adalk | 7,374
 adaderanalk | 9,769
 tamilmirrorlk | 11,361
 virakesarilk | 12,376
-adaderanasinhalalk | 13,250
+adaderanasinhalalk | 13,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,257 (93.8%) of 75,942 articles have been extended.
+71,261 (93.8%) of 75,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### எம்.பியின் வாகனம் காருடன் மோதி விபத்து;எம்.பி படுகாயம்
+### මීරිගම අවට මත්ද්‍රව්‍ය බෙදූ අයෙක් අත්අඩංගුවට
+
+*2025-09-14 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214572) · `si`
+
+බස්නාහිර පළාත් බුද්ධි නිලධාරීන්ට ලද තොරතුරක් මත මීරිගම, පල්ලෙවෙල ප්‍රදේශයේ අද (14) සිදුකළ වැටලීමකදී සැලුනයක් තුළ සිදුකරගෙන ගිය මත්ද්‍රව්‍ය ජාවාරමක් වටලා මත්ද්‍රව්‍ය සහ ආයුධ සමග එක් සැකකරුවකු අත්අඩංගුවට ගනු ලැබීය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සැලුනය පවත්වාගෙන ගිය පුද්ගලයා වන අතර, ඔහු කල්එලිය ප්‍රදේශයේ පදිංචි වයස 28ක අයෙක් බව සඳහන්.
+
+පල්ලෙවෙල පොලිස් ස්ථානයේ නිලධාරීන් හා එක්ව සිදුකළ මෙම වැටලීමේ දී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 300ක්, හෙරොයින් ග්‍රෑම් 100ක්, විද්‍යුත් මිනුම් උපකරණයක්, සෙල්ලම් පිස්තෝලයක්, විවිධ හැඩයෙන් යුත් පිහි කිහිපයක්, බැංකු කාඩ්පත් කිහිපයක්, රු. 46,060ක මුදලක්, ජංගම දුරකතන 3ක් සහ ටැප් පරිගණකයක් මෙහිදී පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් අයිස් මත්ද්‍රව්‍ය සහ හෙරොයින් වටිනාකම රුපියල් ලක්ෂ 75කට අධික බව පොලිසිය පවසයි.
+
+මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ ඩුබායි හි සැඟව සිටින ගැමුණු නමැති පුද්ගලයෙකු හා එක්ව මෙම මත්ද්‍රව්‍ය ජාවාරම සිදුකරගෙන ගොස් ඇති බව මේ වනවිට අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/636cfce0.json)
+
+---
+
+### MP's vehicle crashed into a car
 
 *2025-09-14 21:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/எம்-பியின்-வாகனம்-காருடன்-மோதி-விபத்து-எம்-பி-படுகாயம்/73-364587) · `ta`
 
-மட்டக்களப்பு தமிழரசு கட்சி பாராளுமன்ற உறுப்பினர் ஞானமுத்து சிறிநேசன் பிரயாணித்த வாகனம் களுவாங்சிக்குடி பிரதேசத்தில் கார் ஒன்றுடன் இன்று ஞாயிற்றுக்கிழமை (14) பிற்பகல் மோதி விபத்துக்குள்ளானதில் பாராளுமன்ற உறுப்பினர் படுகாயமடைந்த நிலையில் மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The vehicle of the Batticaloa Tamil National Alliance (TNA) parliamentarian Gnanamuthu Srinesan has been admitted to the Madhu Teaching Hospital after a parliamentarian crashed into a car with a car in Kaluwangsikudi area this afternoon.
 
-அம்பாறை ஆலையடிவேம்பில் இன்று இடம்பெற்ற தமிழரசுகட்சியின் மத்தியகுழு கூட்டத்திற்கு சம்பவ தினமான இன்று காலை குறித்த பாராளுமன்ற உறுப்பினர் கலந்து கொண்டுவிட்டு மட்டக்களப்பை நோக்கி பிற்பகல் 4.00 மணியளவில் வாகனத்தில் பிரயாணித்துக் கொண்டிருந்தபோது களுவாஞ்சிக்குடி பிரதேச செயலகத்துக்கு அருகில் கார் ஒன்று பாராளுமன்ற உறுப்பினரது வாகனத்துடன் ஒன்றோடு ஒன்று மோதி விபத்துக்குள்ளானது.
+A car near the Kaluwanchikudi Divisional Secretariat was hit by a parliamentarian's vehicle while traveling to Batticaloa at 4.00 pm.
 
-இதில் பிரயாணித்த பாராளுமன்ற உறுப்பினரது கை தோள்பட்டையை விட்டு விலகி படுகாயமடைந்த நிலையில் அம்புலன்ஸ் வண்டியில் மட்டக்களப்பு போதனா வைத்தியசாலை அதிதீவிர சிகிச்சைப்பிரிவில் அனுமதிக்கப்பட்டு சிகிச்சை இடம்பெற்றுவருகின்றது
+The parliamentarian who was traveling in the Batticaloa Teaching Hospital was admitted to the Ambulance Car and was admitted to the Ambulance Unit.
 
 ◼️
 
 [Data](articles/566d4d67.json)
+
+[Extended Data](ext_articles/566d4d67.ext.json)
 
 ---
 
@@ -70,27 +92,31 @@ Meanwhile, the National Farmers’ Union says that the government should interve
 
 ---
 
-### සත්ත්ව සංගණනයට මාස 6යි
+### 6 months to animal census
 
 *2025-09-14 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214571) · `si`
 
-වගා හානි කරන වන සතුන්ගේ ගැටලුවට පිළියම් සෙවීමට වන සත්ත්ව සංගණනයක් සිදුකර මාස හයක් ගත වුවද වඳුරන් සහ රිළවුන් නිසා තමන් දිගින්දිගටම පීඩාවට පත්ව සිටින බවට කතරගම අවට ගොවීන් පවසයි.
+The farmers around Kataragama say that they are suffering from monkeys, but the monkeys and strikes have been severely affected by the monkeys and strips.
 
-එසේම වඳුරන් හා රිළවුන් ශීඝ්‍රයෙන් බෝවීම හේතුවෙන් කතරගම පුදබිමට පැමිණෙන බැතිමතුන්ද මහත් පීඩාවට පත්ව ඇතැයි එහි කපු මහතුන් පෙන්වා දෙයි.
+The cotton shows that the pilgrims of the sacred exaltation of monkeys and rich in the rapidly breeding devotees.
 
-ඓතිහාසික රුහුණු මහා කතරගම දේවාලය සහ කිරිවෙහෙර වැඳපුදා ගැනීම සඳහා දෛනිකව විශාල පිරිසක් කතරගමට පැමිණෙති.
+A large number of people will arrive at Kataragama daily for the purpose of Ruhunu Maha Kataragama Devalaya and Kirihehehe.
 
-ඔවුන් රැගෙන එන පූජා වට්ටි හා ඉතිරිවන ආහාර අනුභව කිරීම සඳහා පුරුදු වී සිටින රිලවුන් හා වඳුරන් මේ වනවිට බැතිමතුන්ට පමණක් නොව පූජනීය ස්ථානවල භාරකාරත්වයටද විශාල ගැටලුවක්ව තිබේ.
+They are a big problem not only for their sacrifices and the remaining foods.
 
-ඔවුන් පෙන්වා දෙන්නේ මෙම වඳුරන් හා රිලවුන් ශීඝ්‍රයෙන් බෝවීම හේතුවෙන් පවතින ගැටලුව දෙගුණ තෙගුණ වී ඇති බවය.
+They point out that these monkeys and fast breeding have been doubled due to the problem.
 
-පසුගිය කාලසීමාවේදී, මෙම සතුන් අල්ලා යාල වනෝද්‍යානයට මුදාහැරීමේ ක්‍රමවත් වැඩසටහනක් ක්‍රියාත්මක කළද එයද දින කිහිපයකින් නතරවී තිබේ.
+During the recent past, the animals have been launched a systematic program to release these animals to Yala National Park.
 
-එපමණක් නොව මෙම සතුන් ඇල්ලීම සඳහා භාවිත කිරිමට ලක්ෂ ගණනක්  වියදම්කරමින් සකස්කළ යකඩ කූඩු මේවන විට දිරාපත් වෙමින් පවතින බව වාර්තාවේ.
+Moreover, hundreds of thousands of iron celebrations have been decomposed by the use of hundreds of thousands of people to use these animals.
+
+The people who live in the villages in the surrounding villages have severely affected the people who live farming.
 
 ...
 
 [Data](articles/a48edc55.json)
+
+[Extended Data](ext_articles/a48edc55.ext.json)
 
 ---
 
@@ -2057,19 +2083,5 @@ In the second offense, the Consumer Affairs Authority (CAA) has said that the co
 [Data](articles/0fa681bd.json)
 
 [Extended Data](ext_articles/0fa681bd.ext.json)
-
----
-
-### Special Committee of the Ministry of Justice visited Geneva this week
-
-*2025-09-14 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
-
-With the United Nations Human Rights Council's review session, a special committee of the Justice Ministry will visit Geneva this week to participate.
-
-◼️
-
-[Data](articles/29d60f07.json)
-
-[Extended Data](ext_articles/29d60f07.ext.json)
 
 ---

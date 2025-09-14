@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 17:40:43**
+As of **2025-09-14 17:05:32**
 
 ## Newspaper Stats
 
-*Scraped **75,911** Articles*
+*Scraped **75,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,181 +12,75 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 771
-economynextcom | 4,598
+economynextcom | 4,596
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,369
 adaderanalk | 9,761
-tamilmirrorlk | 11,356
+tamilmirrorlk | 11,353
 virakesarilk | 12,371
-adaderanasinhalalk | 13,242
+adaderanasinhalalk | 13,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,043 (93.6%) of 75,911 articles have been extended.
+71,025 (93.6%) of 75,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### கள்ளக்காதலனிடமும் மகளின் காதலனுடனும் அவ்வப்போது உல்லாசம்: கணவனை மாட்டி விட்ட பரிதாபம்
-
-*2025-09-14 17:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலனிடமும்-மகளின்-காதலனுடனும்-அவ்வப்போது-உல்லாசம்-கணவனை-மாட்டி-விட்ட-பரிதாபம்/175-364567) · `ta`
-
-தன்னுடைய கள்ளக்காதலனிடமும் மகளின் காதலனுடனும் அவ்வப்போது உல்லாசம் அனுபவித்த 44 வயதான பெண், தன்னுடைய கணவனை பொலிஸில் மாட்டிவிட்ட சம்பவமொன்று இடம்பெற்றுள்ளது.
-
-மராட்டிய மாநிலம் மும்பை கோரேகான் பகுதியை சேர்ந்தவர் ரமேஷ் மாநகராட்சி அலுவலகத்தில் நீர் வழங்கல் துறையில் வேலை பார்த்து வருகிறார். அவருடைய மனைவி (ஊர்மிளா வயது 44). இந்த தம்பதிக்கு 18 வயதில் ஒரு மகள் உள்ளார்.ஊர்மிளாவுக்கு அதே பகுதியை சேர்ந்த வேறொரு வாலிபருடன் கள்ளத்தொடர்பு ஏற்பட்டது அவருடன் அடிக்கடி செல்போனில் பேசி வந்தார். கணவன் வீட்டில் இல்லாத நேரத்தில் வாலிபரை வீட்டிற்கு வரவழைத்து உல்லாசமாக இருப்பாராம்.
-
-மேலும் சமூக ஊடகங்கள் மூலம் தொடர்பு கொண்டு கள்ள காதலை வளர்த்து வந்தார். இது ஒரு புறம் இருக்க அவருடைய மகளின் காதலன் வீட்டுக்கு அடிக்கடி வந்து சென்றார். அப்போது ஊர்மிளாவுக்கு மகளின் காதலனுடனும் பழக்கம் ஏற்பட்டு கள்ள தொடர்பாக மாறியது. மகள் வீட்டில் இல்லாத நேரத்தில் மகளின் காதலனுடன் ஊர்மிளா உல்லாசமாக இருப்பாராம்.
-
-...
-
-[Data](articles/e2a85b6f.json)
-
----
-
-### ඊශ්‍රායල ගුවන් ප්‍රහාරවලින් 25 දෙනෙකු මරුට
-
-*2025-09-14 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214563) · `si`
-
-ගාසා තීරයේ රෆා නගරයේ ප්‍රදේශ කිහිපයක් වෙත ඊශ්‍රායලය එල්ල කළ ගුවන් ප්‍රහාරවලින් පුද්ගලයින් 25 දෙනෙකු මියගොස් තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කළේ ප්‍රහාරයෙන් තවත් පුද්ගලයින් විශාල සංඛ්‍යාවක් තුවාල ලබා ඇති බවය.
-
-නිවාස සහ අවතැන්වූවන් රැදී සිටි කූඩාරම් ඉලක්ක කර ගනිමින් මෙම ඩ්‍රෝන ප්‍රහාර එල්ල වී ඇති බව සඳහන් වේ.
-
-කෙසේ වෙතත් 2023 වසරේ ඔක්තෝබර් සිට මේ දක්වා කාලසීමාව තුල ඊශ්‍රායලය එල්ලකළ ප්‍රහාරවලින් ගාසා හී පුද්ගලයින් 64,800 දෙනෙකුට වැඩි පිරිසක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේ.
-
-◼️
-
-[Data](articles/518d25b0.json)
-
----
-
-### Germany and Sri Lanka eye tourism expansion
-
-*2025-09-14 17:00:00* · [`economynextcom`](https://economynext.com/germany-and-sri-lanka-eye-tourism-expansion-240467/) · `en`
-
-ECONOMYNEXT – The Sri Lankan-German Tourism Conference 2025 focused on building partnerships and advancing sustainable, innovative tourism, the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka), which hosted it, said.
-
-The conference convened industry experts, government officials, and tourism professionals.
-
-Organized under the German Federal Ministry for Economic Affairs and Energy’s (BMWE) Market Entry Program (MEP), the conference “focused on forging partnerships and promoting sustainable and innovative tourism development,” AHK Sri Lanka said.
-
-“Germany remains one of Sri Lanka’s most important tourism source markets, and this conference underscores the potential for collaboration in making Sri Lanka an even stronger destination for German travelers,” said Martin Klose, Chief Delegate of AHK Sri Lanka.
-
-The program featured two panel discussions, expert presentations, and company pitches highlighting new opportunities for cooperation.
-
-...
-
-[Data](articles/c22a1084.json)
-
-[Extended Data](ext_articles/c22a1084.ext.json)
-
----
-
-### “The President's Fund is now working for 100% of the people”
-
-*2025-09-14 16:55:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியம்-இப்போது-100-மக்களுக்காகச்-செயற்படுகிறது/175-364565) · `ta`
-
-Prime Minister Harini Amarasuriya said that the Presidential Fund, which was transformed into a boon by a gift group, is being used for 100% of the people under the current government.
-
-2023 (2024) and 2024 GCE. Prime Minister Harini Amarasauriya said this to be honored by the President's Fund to honor the students who showed the best talents under each syllabus, in accordance with the results of the GCE Advanced Level Examination.
-
-The Prime Minister presented certificates to the students who showed great skills.
-
-2023 (2024) and 2024 GCE. The Prime Minister congratulated the students and their parents who showed great talent under each curriculum in the GCE Advanced Level Examination and said that this opportunity was expected to contribute and leadership for the country's future change.
-
-“We hear more about the way it was misused when talking about the President's Fund. The fund was misused to increase their privileges and interests by a gift group.
-
-...
-
-[Data](articles/038b8087.json)
-
-[Extended Data](ext_articles/038b8087.ext.json)
-
----
-
-### Another disciple of Baco Saman arrested
-
-*2025-09-14 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214561) · `si`
-
-He was arrested by another on the information provided by the organized criminal, who is being interrogated and interrogated.
-
-The three-year-old suspect was arrested by the officers of the Tangalle Criminal Investigation Division.
-
-Police also recovered a policy of a foreign country, 40 live bullets and 250 heroin grams.
-
-The suspect was handed over to the Sooriyawewa Police and Hambantota Magistrate's Court is to be tipped.
-
-A closed man of Beaka was arrested in Embilipitiya area yesterday (13).
-
-◼️
-
-[Data](articles/e0c53bcb.json)
-
-[Extended Data](ext_articles/e0c53bcb.ext.json)
-
----
-
-### Mittenian chemicals contain iceberg
+### மித்தெனிய ரசாயனங்களில்    ‘ஐஸ்’ மூலப்பொருள் உள்ளன
 
 *2025-09-14 16:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தெனிய-ரசாயனங்களில்-ஐஸ்-மூலப்பொருள்-உள்ளன/175-364562) · `ta`
 
-The National Dangerous Pharmaceutical Board has confirmed that the chemicals found in Mittenia have been identified as key products for methampatamine and ice.
+மித்தெனியவில் கண்டுபிடிக்கப்பட்ட ரசாயனங்கள் மெத்தம்பேட்டமைன், ​ஐஸ் தயாரிப்பதற்கான முக்கிய பொருட்களாக அடையாளம் காணப்பட்டுள்ளதாக தேசிய ஆபத்தான மருந்துகள் கட்டுப்பாட்டு வாரியம் உறுதிப்படுத்தியுள்ளது.
 
-According to a report submitted to the Western Province Northern Province, 17 of the 20 samples collected from the site were found to contain metamatamine -related materials.
+மேற்கு மாகாண வடக்கு குற்றப்பிரிவுக்கு சமர்ப்பிக்கப்பட்ட அறிக்கையின்படி, அந்த இடத்திலிருந்து சேகரிக்கப்பட்ட 20 மாதிரிகளில் 17 மாதிரிகளில் மெத்தம்பேட்டமைன் தொடர்பான பொருட்கள் இருப்பது கண்டறியப்பட்டது.
 
-The event was found on September 5 following an inquiry by "Becko Saman", who is currently in custody.
+தற்போது காவலில் உள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியான "பெக்கோ சமன்" என்பவரின் விசாரணையைத் தொடர்ந்து செப்டம்பர் 5 ஆம் திகதி இந்த இவை கண்டுபிடிக்கப்பட்டன.
 
-The next inquiries found similar chemicals in Netolpiti and Kandana.
+அடுத்த விசாரணைகளில் நெடோல்பிட்டி மற்றும் கந்தானை ஆகிய இடங்களிலும் இதே போன்ற இரசாயனப் பொருட்கள் இருப்பது கண்டுபிடிக்கப்பட்டது.
 
-The samples from both places are still under examination and the reports are expected to be handed over next week.
+அந்த இரண்டு இடங்களிலிருந்தும் மாதிரிகள் இன்னும் பரிசோதனையில் உள்ளன, அடுத்த வாரம் அறிக்கைகள் ஒப்படைக்கப்படும் என்று எதிர்பார்க்கப்படுகிறது.
 
 ◼️
 
 [Data](articles/9b7fc25d.json)
 
-[Extended Data](ext_articles/9b7fc25d.ext.json)
-
 ---
 
-### Death in an accident of former member of the Eastern Province
+### கிழக்கு மாகாண முன்னாள்  உறுப்பினர் விபத்தில் மரணம்
 
 *2025-09-14 16:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-மாகாண-முன்னாள்-உறுப்பினர்-விபத்தில்-மரணம்/175-364561) · `ta`
 
-Former Eastern Provincial Council member of the Tamil National Alliance (TNA) Nageswaran (71 years old) died in an accident at the Padstrian crossing in front of Vipulananda school in Trincomalee, Anuradhapura junction, police said.
+திருகோணமலை  அனுராதபுர  சந்தி  விபுலானந்த  பாடசாலைக்கு  முன்னால்  உள்ள  பாதசாரி  கடவையில்  இடம்பெற்ற  விபத்தில்  தமிழ்த்  தேசியக்  கூட்டமைப்பின்  முன்னாள்  கிழக்கு  மாகாண  சபை  உறுப்பினர்  கு.நாகேஸ்வரன் (வயது 71) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
 
-Initial investigations by the police revealed that a woman on a motorbike crashed into a bus from Muttur, Sampur, who was attempting to cross the road through a bus for a death ritual in Trincomalee.
+மூதூர்,சம்பூரில் இருந்து  திருகோணமலை  நகரில்  மரணச்  சடங்கு  ஒன்றுக்கு  பஸ்ஸில்  வருகை  தந்து, பாதசாரிகள்  கடவையின்  ஊடாக  வீதியைக் கடக்க  முற்பட்ட போது மோட்டார் சைக்கிளில் வேகமாக வந்த பெண் ஒருவர்  இவர்  மீது  மோதியதாக பொலிஸாரின் ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
 
-The body of the deceased has been placed in the funeral room of the Trincomalee General Hospital and further investigations into the accident are being carried out by the Uppuweli police.
+உயிரிழந்தவரின்  சடலம்  திருகோணமலை  பொது  வைத்தியசாலை  பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன் விபத்து  தொடர்பான  மேலதிக  விசாரணைகளை உப்புவெளி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/5f026719.json)
 
-[Extended Data](ext_articles/5f026719.ext.json)
-
 ---
 
-### Tomorrow warming areas
+### හෙට උණුසුම්වන ප්‍රදේශ
 
 *2025-09-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214560) · `si`
 
-The Department of Meteorology has issued an announcement of warm weather conditions.
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
 
-Today (14) pm. The Department of Meteorology will address the announcement for 03.00 (15).
+අද (14)  ප.ව. 03.00 ට නිකුත් කරන ලද එම නිවේදනය හෙට (15) දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
 
-It says that the warm index of the Northern-Central and Eastern provinces, in some areas of the Moneragala district, the heat of the human body can be "focused".
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල දිස්ත්‍රික්කයේත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවද එහි සඳහන් වේ.
 
 ◼️
 
 [Data](articles/8d11e1fc.json)
-
-[Extended Data](ext_articles/8d11e1fc.ext.json)
 
 ---
 
@@ -280,22 +174,6 @@ Marine police have warned that the seized cooking turmeric is 2 lakhs 14 thousan
 
 ---
 
-### முண்டம் மீட்பு
-
-*2025-09-14 15:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முண்டம்-மீட்பு/175-364559) · `ta`
-
-தலை, கைகள் மற்றும் கால்கள் இல்லாத ஒரு உடல் மாரவில முது கட்டுவ கடற்கரையில் கண்டெடுக்கப்பட்டதாகவும், உடலின் ஒரு பகுதி மட்டுமே நீல நிற ஷார்ட்ஸ் அணிந்திருந்ததாகவும் மாரவில பொலிஸார் தெரிவித்தனர்.
-
-புகாரைத் தொடர்ந்து விசாரணை தொடங்கப்பட்டதாகவும், உடல் ஒரு ஆணுடையதாக இருக்கலாம் என்று சந்தேகிப்பதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-மாரவில செயல் நீதவான் முதற்கட்ட விசாரணைகளை மேற்கொள்வார், அதே நேரத்தில் மாரவில பொலிஸார் சம்பவம் குறித்து மேலும் விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/f24e7fff.json)
-
----
-
 ### Corpse recovery without head, hands, legs
 
 *2025-09-14 15:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலை-கைகள்-கால்கள்-இல்லாத-சடலம்-மீட்பு/175-364559) · `ta`
@@ -314,27 +192,19 @@ The Marawila Operations Magistrate will conduct a preliminary inquiry, while the
 
 ---
 
-### Udaduravanayake says he is not using any privileges to the post of Nilame
+### නිලමේ තනතුරට හිමි කිසිම වරප්‍රසාදයක් භාවිත නොකරන බව දියවඩන නිලමේ අපේක්ෂක උඩුරාවණ කියයි
 
 *2025-09-14 15:34:00* · [`adalk`](https://www.ada.lk/breaking_news/නිලමේ-තනතුරට-හිමි-කිසිම-වරප්‍රසාදයක්-භාවිත-නොකරන-බව-දියවඩන-නිලමේ-අපේක්ෂක-උඩුරාවණ-කියයි/11-418487) · `si`
 
-The Diyawadana Nilame Padaya Nathanaya Duminda Bandara, Padaya Nilawana, the Sri Diyanadana Nilawa, is not used in the Sri Dahawadana Nathanaya and Sri Maha Kataragama Devalaya in the Sri Maha Duminda, is not used.
+ථෙරවාදී බෞද්ධ දර්ශනය ආරක්ෂා කරමින් සුරකින මෙරට භික්‍ෂූන් වහන්සේලා 500 නමකට පහසුකම් සැලසිය හැකි රෝහලක් තම නිල කාලය තුළදී ඉදිකොට  රජයට භාරදීමට බලාපොරොත්තු වන බවත් ඒ සඳහා ශ්‍රී දළදා මාලිගාවේ මුදල් භාවිතා නොකරන බවද දියවඩන නිලමේ අපේක්ෂක පස්ගම ශ්‍රී නාථ දේවාලයේ සහ මහනුවර ශ්‍රී මහා කතරගම දේවාලයේ බස්නායක නිලමේ දුමින්ද බණ්ඩාර උඩුරාවන මහතා කියයි.
 
-At a press conference held at the Kandy Royal Molk Hotel, the Busi Nilame had no support for the post today and that the official residence is used only to duties.
+මහනුවර රෝයල් මෝල් හෝටලයේදී අද (14) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී බස්නායක නිලමේ වරයා වැඩිදුරටත් අවධාරණය කරටියේ උත්තරීතර දියවඩන නිලමේ පදවියට පත්වීමෙන් පසු එම තනතුර සඳහා ඇති කිසිදු පහසුකමක් ලබා නොගන්නා බවත් ඒ සඳහා ඇති නිල නිවස පවා රාජකාරී කටයුතුවලට පමණක් භාවිතා කරන බවත්ය.
 
-The good work done by Diyawadana Nilame Pradeep Nilanga Dela should be a good idea, Uduravana said.
-
-At the time of six presidentials, he had held the post in the reign of Chandrika Kumara Rajapakse, Gotabhaya Rajapakse, Gotabhaya Rajapakse, Gotabhaya Rajapakse, Ranil Wickremesinghe and other person in charge of President Anura Kumara Dissanayake.
-
-Voters who are eligible to vote for the Diyawadana Nilame's election are scribes in 16 districts in nine provinces in the country.
-
-He also said that no one should take intention of jewelery and the service to the Buddhists should be taken after they can be carried out.
+වත්මන් දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා විසින් සිදුකොට ඇති හොඳ වැඩ හොඳයි කියන්නා සේම තනතුරු තානාන්තර සදාකාලික නොවන බවත් ඒවා අත්හැරීමට පුරුදු පුහුණු විය යුතු බවද උඩුරාවණ මහතා පැවසීය.
 
 ...
 
 [Data](articles/fac5dc8a.json)
-
-[Extended Data](ext_articles/fac5dc8a.ext.json)
 
 ---
 
@@ -703,26 +573,6 @@ Katunayake airport customs officials detained him and are conducting further inv
 [Data](articles/fdd68e8e.json)
 
 [Extended Data](ext_articles/fdd68e8e.ext.json)
-
----
-
-### Sri Lanka sells extra Rs7bn Treasury bonds after auction
-
-*2025-09-14 13:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs7bn-treasury-bonds-after-auction-240483/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 7,000 million rupees of bonds offered on tap at the average rates set at an auction last week, bringing the total of bonds sold in the week to 123.16 billion, data from the central bank’s Public Debt Department showed.
-
-The debt office sold a 01 October 2032 maturity bond (LKB02032J017) at a weighted average yield rate of 10.45 percent.
-
-The debt office sold a 15 June 2035 maturity bond (LKB01035F159) at a weighted average yield rate of 10.96 percent.
-
-On Thursday, 116.16 billion rupees in 2030, 2032, and 2035 bonds were sold.
-
-◼️
-
-[Data](articles/fd001efa.json)
-
-[Extended Data](ext_articles/fd001efa.ext.json)
 
 ---
 
@@ -1446,8 +1296,6 @@ Worse, after suspending him without pay for over a year, the Church has demanded
 
 [Data](articles/e57f9ad3.json)
 
-[Extended Data](ext_articles/e57f9ad3.ext.json)
-
 ---
 
 ### Foreigners who danced in Nanuoya
@@ -2073,5 +1921,163 @@ Of these, 19 students are reported to be 15 to 21 years old.. (A)
 [Data](articles/e8b5153b.json)
 
 [Extended Data](ext_articles/e8b5153b.ext.json)
+
+---
+
+### 100 health centers this year
+
+*2025-09-14 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214545) · `si`
+
+Health Minister Nalinda Jayatissa says that many health centers can be initiated to the people who can detect and treat the diseases of the people of this country.
+
+Accordingly, 10 centers will be launched as a pilot project in five districts in the country since September 26.
+
+The Minister made these comments participating at the "Hospital 'mobile holding program held at Eheliyagoda Divisional Secretariat.
+
+He was speaking at the conclusion this year, the Minister laid the foundation in the next few months and plans to cover the masses in three years.
+
+The Minister said that the major challenge is non-communicable diseases and the hospital will be conducting health clinics with the intention of protecting the people of Sri Lanka.
+
+The Minister also said that he was a limited number of tests from the victims of non-communicable diseases, the treatment is a low group of people and is also a limited number of treatments.
+
+...
+
+[Data](articles/fb171c0a.json)
+
+[Extended Data](ext_articles/fb171c0a.ext.json)
+
+---
+
+### Suspect arrested for murder arrested
+
+*2025-09-14 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214544) · `si`
+
+A suspect who had wanted a double murder has been arrested by a team of officers of the police station.
+
+Police have also seized a hand grenade in the country when the suspect was arrested.
+
+The suspect was involved in the crime to be attacked with a woman and a woman in the Karadeniya police division in the Karagamuwa Police Division.
+
+◼️
+
+[Data](articles/caacb8b2.json)
+
+[Extended Data](ext_articles/caacb8b2.ext.json)
+
+---
+
+### Fitch assigns DFCC Bank’s Rs3bn blue bond preliminary ‘A’ rating
+
+*2025-09-14 08:00:00* · [`economynextcom`](https://economynext.com/fitch-assigns-dfcc-banks-rs3bn-blue-bond-preliminary-a-rating-240454/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has given Sri Lanka’s DFCC Bank’s proposed 3 billion rupee blue bonds a preliminary national rating of ‘A’.
+
+The final rating is subject to the receipt of final documentation conforming to information already received, the ratings agency said.
+
+Fitch Ratings – Colombo – 12 Sep 2025: Fitch Ratings has assigned DFCC Bank PLC’s (A(lka)/Stable) proposed Sri Lankan rupee-denominated senior unsecured listed blue bonds of up to LKR3 billion an expected National Long-Term Rating of ‘A(EXP)(lka)’.
+
+The bonds, which would be the first listed blue bond issuance in Sri Lanka, will mature in three, four or five years. The proceeds from the bond issuance will be used to finance eligible blue projects that support the sustainable use of marine and coastal resources and build coastal communities’ resilience to climate risks.
+
+The final rating is subject to the receipt of final documentation conforming to information already received.
+
+...
+
+[Data](articles/7ffa088c.json)
+
+[Extended Data](ext_articles/7ffa088c.ext.json)
+
+---
+
+### DMT to launch quality inspections for long-distance buses from next month
+
+*2025-09-14 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112468/dmt-to-launch-quality-inspections-for-long-distance-buses-from-next-month) · `en`
+
+The government has planned to launch an initiative requiring all long-distance buses to undergo a basic quality inspection before commencing operations. The new regulation is set to take effect from the beginning of next month.
+
+In the initial phase, the inspections will be carried out under the supervision of the National Transport Commission (NTC), focusing on the Bastian Mawatha and Makumbura Multimodal Centre (MMC), the Department of Motor Traffic (DMT) said.
+
+The requirement will also extend to long-distance excursion buses, with authorities confirming that no tour bus will be approved without this inspection.
+
+As a part of this initiative, buses traveling more than 100 kilometers must obtain a certificate of eligibility 48 hours prior to departure.
+
+DMT is currently taking steps to issue the necessary guidelines for this through a circular.
+
+...
+
+[Data](articles/f87da8ac.json)
+
+[Extended Data](ext_articles/f87da8ac.ext.json)
+
+---
+
+### Technical disorder in Vijay's campaign
+
+*2025-09-14 07:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-பிரச்சாரத்தில்-தொழில்நுட்பக்-கோளாறு/175-364523) · `ta`
+
+DMC. Has the promises made? Is your vote for the DMK that does not fulfill the promises?  The TVC among volunteers in Trichy. Talaiv Vijay questioned.
+
+Tamil Nadu Victory Club President Vijay has started his first campaign in Trichy yesterday (13).
+
+Heavy traffic congestion has been caused by millions of volunteers from the airport to the Gandhi Market Station to welcome him from Chennai to Trichy yesterday morning.. It took more than an hour for Vijay to get out of the airport.
+
+It was more than five hours to go to the area, as it was time for Vijay to speak at 10:35 am in the Welkkady area. As the volunteers walked and followed the campaign vehicle, his vehicle slowly moved and reached the campaign platform.
+
+What happened to the old pension scheme for civil servants? Will the DMK vote for the upcoming election? The government is helping and mocking the people. Women's scholarship is not available to all.
+
+...
+
+[Data](articles/02142cee.json)
+
+[Extended Data](ext_articles/02142cee.ext.json)
+
+---
+
+### Sri Lanka resolution to recognize Palestine
+
+*2025-09-14 07:24:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலஸ்தீனத்தை-அங்கீகரிக்க-இலங்கை-தீர்மானம்/175-364522) · `ta`
+
+Sri Lanka welcomes the resolution on the Palestinian issue in the United Nations General Assembly, the Foreign Ministry said.
+
+The United Nations resolved the Palestinian issue peacefully and the recognition of the two countries of Israel and Palestine as separate countries.. In the General Assembly, 142 countries, including Sri Lanka, have voted in favor.
+
+Sri Lanka welcomes the acceptance of the United Nations General Assembly to support the New York Declaration on the Palestinian issue, a solution to peace and the two countries' solution.
+
+We express our sincere gratitude to Saudi Arabia and France for their leadership in this important effort.
+
+In accordance with the objectives and policies of the United Nations Charter and the relevant United Nations resolutions, it has been noted that Sri Lanka reiterates its unwavering support for the state's state status.. (A)
+
+◼️
+
+[Data](articles/ece7c6d7.json)
+
+[Extended Data](ext_articles/ece7c6d7.ext.json)
+
+---
+
+### A basic quality test before long distance bus travelets?
+
+*2025-09-14 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214543) · `si`
+
+The government has planned to conduct a basic quality investigation before all the distance buses start.
+
+Accordingly, it has been reported that it will be started from the beginning of next month.
+
+It is planned to implement it under the supervision of the National Transport Commission and the Makumbura Multiple Transport Center in the primary phase.
+
+In addition, the quality conservation is compulsory to carry out this quality inspection and not approval without such a long distance test.
+
+Getting a fitness certificate 48 hours before the beginning of the buses traveling over 100 km.
+
+The Department of Motor Traffic will be released by the Department of Motor Traffic by a circular.
+
+The project is inspected by the Department of Motor Traffic and the Department of Motor Traffic Representatives.
+
+Accordingly, steps have been taken to carry out this process throughout the island.
+
+◼️
+
+[Data](articles/37944d80.json)
+
+[Extended Data](ext_articles/37944d80.ext.json)
 
 ---

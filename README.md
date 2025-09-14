@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 01:55:21**
+As of **2025-09-15 03:05:45**
 
 ## Newspaper Stats
 
-*Scraped **75,952** Articles*
+*Scraped **75,954** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 771
+colombotelegraphcom | 772
 economynextcom | 4,598
 islandlk | 4,667
 dailymirrorlk | 4,733
-dailyftlk | 5,378
+dailyftlk | 5,379
 adalk | 7,374
 adaderanalk | 9,770
 tamilmirrorlk | 11,361
@@ -26,11 +26,27 @@ adaderanasinhalalk | 13,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,395 (94.0%) of 75,952 articles have been extended.
+71,476 (94.1%) of 75,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
+
+### Repeal of Presidents’ Entitlements Act: Reform or retrospective punishment?
+
+*2025-09-15 01:55:08* · [`dailyftlk`](https://www.ft.lk/columns/Repeal-of-Presidents-Entitlements-Act-Reform-or-retrospective-punishment/4-781649) · `en`
+
+In considering the repeal of the Presidents’ Entitlements Act, the nation must weigh the difference between cutting extravagance and eroding respect. Historical judgment is unforgiving, and societies are often remembered not just for their policies but for their treatment of those who served them at great personal cost. Stripping entitlements retroactively, however well-intentioned, risks leaving a record of pettiness rather than prudence
+
+In recent months, the repeal of Sri Lanka’s Presidents’ Entitlements Act has sparked intense debate across political and social circles. At first glance, the move seems a demonstration of fiscal prudence—a government taking decisive steps to curb what many perceive as excessive privileges.
+
+...
+
+[Data](articles/b08499d7.json)
+
+[Extended Data](ext_articles/b08499d7.ext.json)
+
+---
 
 ### Independent central bank is for citizens and not for politicians
 
@@ -43,6 +59,8 @@ As a journalist, she was voicing the sentiments of the public openly in that tal
 ...
 
 [Data](articles/d4c5a810.json)
+
+[Extended Data](ext_articles/d4c5a810.ext.json)
 
 ---
 
@@ -62,69 +80,83 @@ In Bangladesh and in Nepal, though with commonalities in the initial “leaderle
 
 ---
 
-### நாட்டை சரியான பாதையில் கொண்டு சென்ற ரணில் விக்ரமசிங்கவுக்கு கௌரவம் வழங்க வேண்டும் – வஜிர அபேவர்த்தன
+### Ranil Wickremesinghe, who brought the country on the right path - Vajira Abeywardena
 
 *2025-09-15 00:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225088) · `ta`
 
-நேபாளத்தின் நிலைக்கு செல்ல இருந்த எமது நாட்டை, அந்த நிலைமையில் இருந்து பாதுகாத்து சரியான பாதையில் கொண்டு சென்றமைக்காக ஒட்டுமொத்த தேசமும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு அதன் கெளரவத்தை வழங்கவேண்டும். மக்களின் உள்ளத்தில் பொறாமை மற்றும் வெறுப்பை விதைத்து இலங்கைக்கு எந்த நன்மையையும் ஏற்படுத்திக்கொள்ள முடியாது என  ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+The entire nation must be honored with former President Ranil Wickremesinghe for protecting our country from that situation and taking it on the right path.. United National Party (UNP) Chairman Vajira Abeywardena said that sowing jealousy and hatred in the hearts of the people could not benefit Sri Lanka.
 
-நேபாளத்தில் கடந்த வாரம் இடம்பெற்ற துயரமான நிலைமை தொடர்பில் எங்களுக்கு தெரியும். அதேபோன்றதொரு சம்பவமே கடந்த  3 வருடங்களுக்கு முன்னர் எமது நாட்டிலும் இடம்பெற்றது. அந்த நிலைமை தீவிர நிலைக்கு திரும்பும்போது, எமது நாட்டின் பிரதமராக இருந்த ரணில் விக்ரமசிங்க, தனது வீடு எரிக்கப்பட்ட பின்னரும், அவர் மற்றவர்களின் வீடுகள் எரிக்கப்படுவதை நிறுத்துவதற்கு தேவையான நடவடிக்கைகளை விரைவாக மேற்கொண்டார்.
+We know about the tragic situation that took place last week in Nepal. The same incident took place in our country 3 years ago. When the situation returns to the serious state, Ranil Wickremesinghe, the Prime Minister of our country, quickly took steps to stop the burning of others after his home was burnt.
+
+So the entire nation must be honored with Ranil Wickremesinghe, who protected our country from that situation and brought it on the right path.. Causing problems is the highlight of a democratic community. It must be remembered that controlling them is a highlight of a democratic society.
 
 ...
 
 [Data](articles/3da60533.json)
 
+[Extended Data](ext_articles/3da60533.ext.json)
+
 ---
 
-### புறக்கோட்டை மத்திய பேருந்து நிலைய அபிவிருத்தி பணிகளைத் தொடங்கி வைக்கும் ஜனாதிபதி
+### President of the Central Bus Stand in Pettah Fort
 
 *2025-09-15 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225087) · `ta`
 
-நாடளாவிய ரீதியில் 50 பேருந்து நிலையங்களை அபிவிருத்தி செய்யும் தேசிய கருத்திட்டத்தின் முதற்கட்டமாக புறக்கோட்டை மத்திய பேருந்து நிலையத்தின் அபிவிருத்தி பணிகள் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் ஞாயிற்றுக்கிழமை (14) ஆரம்பித்து வைக்கப்படவுள்ளது.
+The development work of the Central Bus Stand, Pettah Central Bus Stand, will be launched on Sunday (14) by President Anura Kumara Dissanayake.
 
-புறக்கோட்டை மத்திய பேருந்து நிலையம் 60 ஆண்டுகளுக்கு பின்னர் முழுமையாக அபிவிருத்தி செய்வதற்கு 424 மில்லியன் ரூபாய் ஒதுக்கப்பட்டுள்ள நிலையில்,அபிவிருத்தி பணிகள் இலங்கை விமானப்படைக்கு பொறுப்பாக்கப்பட்டுள்ளது. எதிர்வரும் ஆண்டு சித்திரை புத்தாண்டுக்கு முன்னர் இந்த அபிவிருத்தி பணிகளை நிறைவுப்படுத்த திட்டமிடப்பட்டுள்ளது.
+424 million rupees has been allocated for the full development of the Central Bus Stand after 60 years.. The development work is scheduled to be completed before the New Year New Year.
 
-அதேபோல் 100 புகையிரத நிலையங்களை நவீனமயப்படுத்தும் கனவு இலக்கு கருத்திட்டத்தின் கீழ் மருதானை புகையிரத நிலையத்தின் அபிவிருத்தி பணிகள் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் இன்று காலை 11 மணியளவில் உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்படவுள்ளது.
+Similarly, the development work of the Maradana Railway Station will be officially launched by President Anura Kumara Dissanayake at 11 am today under the dream target of modernizing 100 railway stations.
+
+With Sri Lanka's main transport media, it is expected to protect the heritage of the Maradana Railway Station and to improve the infrastructure of the Public Passengers, and to modernize the role of the private sector under the dream target.
+
+424 million has been allocated for this.. He said that the bus station will be included in the bus station, including the restroom, the Technical Information Division and the Safety Division, and the sanitation facilities.
 
 ...
 
 [Data](articles/e84e6803.json)
 
+[Extended Data](ext_articles/e84e6803.ext.json)
+
 ---
 
-### யாழில் ஹெரோயினுடன் மூன்று இளைஞர்கள் கைது!
+### Three youth arrested with heroin in Jaffna
 
 *2025-09-15 00:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225086) · `ta`
 
-யாழ்ப்பாணம் - திருநகர் பகுதியில் 530 மில்லிகிராம் ஹெரோயினுடன் மூன்று இளைஞர்கள் ஞாயிற்றுக்கிழமை (14) கைது செய்யப்பட்டுள்ளனர்.
+Three youths have been arrested on Sunday (14) with 530 milligrams of heroin in the Jaffna - Thirunagar area.
 
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் யாழ்ப்பாணம் பொலிஸ் நிலைய போதை தடுப்பு பிரிவினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+The arrest was carried out by the Jaffna Police Station Drug Prevention Unit of confidential information received by the Police Intelligence Unit under the Jaffna District Senior Superintendent of Police.
 
-விசாரணைகளின் பின்னர் குறித்த சந்தேக நபர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிசார் மேற்கொண்டு வருகின்றனர்.
+Police are taking steps to bring the suspects in court after investigations.
 
 ◼️
 
 [Data](articles/194e81df.json)
 
+[Extended Data](ext_articles/194e81df.ext.json)
+
 ---
 
-### இந்திய அணி பாகிஸ்தானை 7 விக்கெட் வித்தியாசத்தில் வெற்றி
+### India won Pakistan by 7 wickets
 
 *2025-09-15 00:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225085) · `ta`
 
-14ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு  நடைபெற்ற ஆசிய கோப்பை இருபதுக்கு 20 கிரிக்கெட் போட்டியில் இந்திய அணி பாகிஸ்தானை 7 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+The Indian team won Pakistan by 7 wickets in the 20th cricket match of the Asia Cup on Sunday, the 14th.
 
-குழு ஏ போட்டியாக துபாயில் நடைபெற்ற இந்தப் போட்டி முதலில் துடுப்பெடுத்தாடிய  பாகிஸ்தான் அணி 20 ஓவர்களில் 9 விக்கெட் இழப்புக்கு 127 ஓட்டங்கள் மட்டுமே எடுக்க முடிந்தது.
+The match was held in Dubai in Dubai as a team A match, and Pakistan were able to score only 127 runs for the loss of 9 wickets in 20 overs.
 
-அதன்படி, 128 ஓட்டங்கள் என்ற எளிதான இலக்கைத் துரத்திய இந்திய அணி, போட்டியின் 16 (15.5) ஓவர்களில் 3 விக்கெட் இழப்புக்கு 131 ஓட்டங்கள் எடுத்தது.
+Accordingly, the Indian team scored 128 runs and scored 131 runs for the loss of 3 wickets in the 16 (15.5) overs of the match.
 
-இந்த வெற்றியின் மூலம், விளையாடிய இரண்டு போட்டிகளிலும் வெற்றி பெற்ற இந்திய அணி, புள்ளிகள் பட்டியலில் தொடர்ந்து முன்னிலை வகிக்கிறது.
+With this victory, the Indian team, which won the two matches played, continues to lead the list.
 
-இன்றைய வெற்றியின் மூலம், பாகிஸ்தானுக்கு எதிரான கடைசி மூன்று டி20 போட்டிகளில் இந்தியா மூன்றிலும் வெற்றி பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+With today's victory, India have won the last three T20 matches against Pakistan.
 
 ◼️
 
 [Data](articles/9b4c81f9.json)
+
+[Extended Data](ext_articles/9b4c81f9.ext.json)
 
 ---
 
@@ -275,6 +307,20 @@ The people who live in the villages in the surrounding villages have severely af
 [Data](articles/a48edc55.json)
 
 [Extended Data](ext_articles/a48edc55.ext.json)
+
+---
+
+### Independent Central Bank Is For Citizens & Not For Politicians
+
+*2025-09-14 21:11:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/independent-central-bank-is-for-citizens-not-for-politicians/) · `en`
+
+In a recent talk show titled ‘Modern Talk’ hosted by Channel 7 television, successor to the former YA Television, the young talk show hostess Nimna Perera asked me whether the current central bank management had been doing its job properly in managing the economy.[1]
+
+As a journalist, she was voicing the sentiments of the public openly in that talk show. There should not be objection to this approach because that is the duty of an anchor-woman by her viewers. In answering her question, I summarily told her that the central bank is an independent organisation as mandated by the new Central Bank of Sri Lanka Act or CBA and, under the mandate given to it by the new legislation, it is doing perfectly well in taming inflation and restoring the stability of the exchange rate. However, it requires further elaboration.
+
+...
+
+[Data](articles/55c472fe.json)
 
 ---
 
@@ -2015,39 +2061,5 @@ Bg. Thirty -seven years old, Mrs.. K. A.. Irangani is thirty -seven years old. A
 [Data](articles/e26aa863.json)
 
 [Extended Data](ext_articles/e26aa863.ext.json)
-
----
-
-### A fatal accident in Weligama
-
-*2025-09-14 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214551) · `si`
-
-A woman was killed in an accident in the Denipitiya Junction area in Weligama.
-
-The motorcyclist has died in admission to the Walana hospital in admission to the Walana Hospital in admission to the Walana Hospital.
-
-The victim is a 33 year old resident of Denipitiya, Deliwila.
-
-The driver of the terms involved in the accident has been arrested and the Weligama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a8490a1b.json)
-
-[Extended Data](ext_articles/a8490a1b.ext.json)
-
----
-
-### Politics to blow Mahinda's outcry….!
-
-*2025-09-14 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225044) · `ta`
-
-Anura Priyadarshana Yapa, Wimal Weerawansa, Tran Ales, Sujeewa Semasinghe and Janaka Wagumbara, who held the post of Ministry and Deputy Ministry during the time of Mahinda, have been in tears that those who have completed the war have been revealed to Asgiriya and Malwath Thera.. Some Buddhist monks from Tangalle have been upset as a great insult to the leader of the nation. All those who commented on Mahinda's evacuation are put forward as the one who ended the war, and that the country saved the country from the terrorists.
-
-◼️
-
-[Data](articles/079b14a6.json)
-
-[Extended Data](ext_articles/079b14a6.ext.json)
 
 ---

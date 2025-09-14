@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 01:20:19**
+As of **2025-09-14 23:38:21**
 
 ## Newspaper Stats
 
-*Scraped **75,947** Articles*
+*Scraped **75,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,22 @@ colombotelegraphcom | 771
 economynextcom | 4,598
 islandlk | 4,667
 dailymirrorlk | 4,733
-dailyftlk | 5,377
+dailyftlk | 5,376
 adalk | 7,374
 adaderanalk | 9,770
 tamilmirrorlk | 11,361
 virakesarilk | 12,376
-adaderanasinhalalk | 13,253
+adaderanasinhalalk | 13,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,363 (94.0%) of 75,947 articles have been extended.
+71,282 (93.9%) of 75,945 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2025-09-15 (Monday)
-
-### Case of “unknowns” hijacking isolated protests with “anti-corruption” rhetoric
-
-*2025-09-15 01:01:47* · [`dailyftlk`](https://www.ft.lk/columns/Case-of-unknowns-hijacking-isolated-protests-with-anti-corruption-rhetoric/4-781645) · `en`
-
-Both students in Bangla and youth in Nepal were ultimately represented by small groups the military accepted and were projected as instruments of change
-
-In Bangladesh and in Nepal, though with commonalities in the initial “leaderless” single issue protests, establishing a new rule was different to Sri Lanka and remains unconstitutional too. From nowhere a few youth in Bangladesh claiming to represent the university student protest and accepted as such by the military usurped the right to nominate Muhammud Yunus, the former head of the Grameen Bank as interim PM. He was in self-exile in France, and there were no indications of any discussions and dialogue among students and protesting groups, on who should head the interim government and how it should be constituted
-
-...
-
-[Data](articles/8ddc5d12.json)
-
----
-
 ### 2025-09-14 (Sunday)
-
-### India beat Pakistan
-
-*2025-09-14 23:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214574) · `si`
-
-India beat Pakistani, defeated the Pakistan won the Ven.
-
-Batting first, Pakistan won only 127 runs in the 20 overs.
-
-Chasing a target of 128 runs, the Indian team scored 131 runs in the final and scored 131 runs in the final.
-
-The Indian team has survived both of the matches played with this winter.
-
-◼️
-
-[Data](articles/eabaf1db.json)
-
-[Extended Data](ext_articles/eabaf1db.ext.json)
-
----
 
 ### Sigiriya mirror walls arrest
 
@@ -99,8 +63,6 @@ Firefighter chief Javier Romero said that firefighters pulled four people from t
 ◼️
 
 [Data](articles/128ee55e.json)
-
-[Extended Data](ext_articles/128ee55e.ext.json)
 
 ---
 
@@ -2071,5 +2033,45 @@ Moreover, if a private company is found guilty, a fine ranging from Rs. 500,000 
 [Data](articles/5f562795.json)
 
 [Extended Data](ext_articles/5f562795.ext.json)
+
+---
+
+### Organized group in Nepal demonstration!
+
+*2025-09-14 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225041) · `ta`
+
+Nature is raising the waves of history and teaching lessons to the future. The latest lesson that it taught is is Nepal's crisis.
+
+◼️
+
+[Data](articles/b2bc6822.json)
+
+[Extended Data](ext_articles/b2bc6822.ext.json)
+
+---
+
+### Ven. 2 out of 20 chemical samples obtained from the land of the Middeniya area confirms the use of ice
+
+*2025-09-14 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214550) · `si`
+
+It has been revealed that 17 out of the 20 chemical samples obtained from the Middeniya area, 17 Ice drugs containing chemicals.
+
+Investigations carried out by the Danarakara Pharmaceutical Board of Control and the Board of Control has been revealed.
+
+The Western Criminal Division of the Western Criminal Division was found in the Middeniya area on September 6.
+
+According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
+
+These factors have been revealed under the direction of the Director General of the Western North Criminal Division.
+
+The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
+
+Accordingly, the National Dangerous Drugs Control Board has been handed over to the police last Friday.
+
+◼️
+
+[Data](articles/bcaff0d0.json)
+
+[Extended Data](ext_articles/bcaff0d0.ext.json)
 
 ---

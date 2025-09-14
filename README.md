@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 12:21:06**
+As of **2025-09-14 12:10:45**
 
 ## Newspaper Stats
 
-*Scraped **75,853** Articles*
+*Scraped **75,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,63 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 770
-economynextcom | 4,596
+economynextcom | 4,595
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,363
 adaderanalk | 9,747
 tamilmirrorlk | 11,339
-virakesarilk | 12,363
+virakesarilk | 12,359
 adaderanasinhalalk | 13,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,786 (93.3%) of 75,853 articles have been extended.
+70,786 (93.3%) of 75,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### Malaysia-Sri Lanka business chamber, National Chamber sign MoU
-
-*2025-09-14 12:00:00* · [`economynextcom`](https://economynext.com/malaysia-sri-lanka-business-chamber-national-chamber-sign-mou-240458/) · `en`
-
-ECONOMYNEXT – The National Chamber of Commerce of Sri Lanka (NCCSL) and the Malaysia–Sri Lanka Business Chamber (MSLBC) have signed an agreement “consolidating partnerships” between the two nations’ business communities.
-
-An MSLBC delegation, led by its Deputy President Magandran Muthiah, were hosted by the NCCSL, where representatives from Malaysian and Sri Lankan companies participated in knowledge sharing, networking, and fostering future business collaborations, the chamber said.
-
-“The program featured B2B matchmaking sessions, enabling companies from both countries to explore strategic partnerships, exchange expertise, and identify new trade and investment opportunities.”
-
-Muthiah spoke of the importance of strengthening bilateral trade and investment ties.
-
-Nilupul Chandrasena – Secretary General/CEO NCCSL, Anura Warnakulasooriya – President NCCSL, Tham Whye Long – First Secretary and Head of Chancery at the Malaysian High Commission also addressed the gathering.
-
-...
-
-[Data](articles/8d6cba9a.json)
-
----
-
-### கடவத்தை - மீரிகம அதிவேக நெடுஞ்சாலை பணிகள் செப்டம்பர் 17 ஆம் திகதி மீண்டும் ஆரம்பம்
-
-*2025-09-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225047) · `ta`
-
-2022 ஆம் ஆண்டின் நடுப்பகுதியில் இருந்து நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியினால் நிறுத்தப்பட்டிருந்த மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை மற்றும் மீரிகம இடையேயான பகுதியின் கட்டுமானப் பணிகள் செப்டம்பர் 17 ஆம் திகதி மீண்டும் ஆரம்பிக்கப்படவுள்ளது.
-
-ஜனாதிபதி அநுர குமார திசாநாயக்க கட்டுமானப் பணிகளை ஆரம்பித்து வைக்கவுள்ளார். மேலும் திட்டத்தை மீண்டும் ஆரம்பிக்க சீனாவின் ஏற்றுமதி மற்றும் இறக்குமதி வங்கியிடமிருந்து 500 மில்லியன் அமெரிக்க டொலர் கடன் பெறப்பட்டுள்ளது.
-
-இவ்வீதியின் 37 கிலோ மீற்றர் நீளமான தூரத்தை நீர்மாணிக்கும் பணிகளை  2028 ஆம் ஆண்டின் நடுப்பகுதியில் நிறைவு செய்ய திட்டமிடப்பட்டுள்ளது.
-
-இதேவேளை, கடவத்தை இடைமாறும் வழி மற்றும் கடவத்தையிலிருந்து அதிவேக நெடுஞ்சாலையின் முதல் 500 மீட்டர் தூரத்தை நீர்மாணிக்கும் பணிகளும் ஆரம்பிக்கப்படவுள்ளது.
-
-◼️
-
-[Data](articles/669e5fe4.json)
-
----
 
 ### කරන්දෙණියේ මව සහ පුතා ඝාතනයේ සැකකරු අත්අඩංගුවට
 
@@ -140,18 +102,6 @@ Nilupul Chandrasena – Secretary General/CEO NCCSL, Anura Warnakulasooriya – 
 
 ---
 
-### மகிந்தவின் வெளியேற்றத்தை ஊதி பெருப்பிக்கும் அரசியல் ….!
-
-*2025-09-14 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225044) · `ta`
-
-மகிந்தவின் காலத்தில் அமைச்சு மற்றும் பிரதி அமைச்சு பதவியை வகித்தவர்களான அனுர பிரியதர்ஷன யாப்பா, விமல் வீரவன்ச, டிரான் அலஸ், சுஜீவ சேமசிங்க, ஜனக்க வகும்பர ஆகிய குழுவினர் அஸ்கிரிய ,மல்வத்து தேரர்களிடம் ஓடோடிச் சென்று யுத்தத்தை நிறைவு செய்தவர்கள் பழிவாங்களுக்கு உள்ளாகின்றனர் என கண்ணீர் வடித்துள்ளனர். தங்காலை பிரதேசத்தை சேர்ந்த சில பெளத்த பிக்குகள் தேசத்தின் தலைவருக்கு நடந்த மாபெரும் அவமதிப்பு என கொந்தளித்துள்ளனர். மகிந்தவின் வெளியேற்றம் குறித்து கருத்துத் தெரிவித்தவர்கள் அனைவருமே சொல்லி வைத்தாற்போன்று யுத்தத்தை முடிவுக்குக் கொண்டு வந்தவர் , பயங்கரவாதிகளிடமிருந்து நாட்டை காப்பாற்றியவர் என்ற கருத்தையே முன் வைத்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/079b14a6.json)
-
----
-
 ### இவ்வளவு பெரிய நிதி ஒதுக்கீடு அவசியமா?
 
 *2025-09-14 11:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வளவு-பெரிய-நிதி-ஒதுக்கீடு-அவசியமா/175-364540) · `ta`
@@ -190,18 +140,6 @@ The organization urged the minister to ensure that the pledge is not further pos
 
 ---
 
-### நேபாள ஆர்ப்பாட்டத்தில் ஒழுங்கமைக்கப்பட்ட குழு!
-
-*2025-09-14 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225041) · `ta`
-
-இயற்கை, வரலாற்றின் அலைகளை மீண்டும் மீண்டும் எழுப்பி எதிர்காலத்திற்குப் பாடங்களைக் கற்பித்துக்கொண்டிருக்கிறது. அப்படி அது கற்பித்த சமீபத்திய பாடம் நேபாளத்தின் நெருக்கடியாகும்.
-
-◼️
-
-[Data](articles/b2bc6822.json)
-
----
-
 ### Ven. 2 out of 20 chemical samples obtained from the land of the Middeniya area confirms the use of ice
 
 *2025-09-14 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214550) · `si`
@@ -228,29 +166,9 @@ Accordingly, the National Dangerous Drugs Control Board has been handed over to 
 
 ---
 
-### அரிசி தொடர்பாக சுமார் 3 ஆயிரம் சோதனை நடவடிக்கைகள் - நுகர்வோர் விவகார அதிகாரசபை
-
-*2025-09-14 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225035) · `ta`
-
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் அரிசி தொடர்பாக, சுமார் 3 ஆயிரம் சோதனை நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
-
-அதிக விலைக்கு அரிசி விற்பனை செய்தல், அரிசி இருப்புக்களை மறைத்தல் மற்றும் நுகர்வுக்கு பொருத்தமற்ற அரிசியை விற்பனை செய்தல் உள்ளிட்ட பல்வேறு வகையான சோதனைகள் நடத்தப்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
-
-அதிக விலைக்கு அரிசி விற்பனை செய்தல் தொடர்பாக ஆயிரத்துக்கும் மேற்பட்ட சோதனைகள் நடத்தப்பட்டுள்ளது.
-
-அதிக விலைக்கு அரிசி விற்பனை செய்யும் ஒரு தனிப்பட்ட வர்த்தகருக்கு எதிராக வழக்குத் தொடரப்பட்டால், அவருக்கு இரு இலட்சம் ரூபாய் முதல் 5 இலட்சம் ரூபாய் வரை அபராதம், அல்லது 5 மாத சிறைத்தண்டனை அல்லது இரண்டும் விதிக்கப்படலாம் என நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
-
-அதேநேரம், ஒரு தனியார் நிறுவனம் குற்றவாளி என நிரூபிக்கப்பட்டால், நீதிமன்றம் 5 இலட்சம் ரூபாய் முதல50 இலட்சம் ரூபாய் வரை அபராதம் விதிக்கப்படலாம் எனவும் குறிப்பிட்டுள்ளது.
-
-...
-
-[Data](articles/0fa681bd.json)
-
----
-
 ### Special Committee of the Ministry of Justice visited Geneva this week
 
-*2025-09-14 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
+*2025-09-14 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
 
 With the United Nations Human Rights Council's review session, a special committee of the Justice Ministry will visit Geneva this week to participate.
 
@@ -2093,5 +2011,111 @@ Go to Bandaragama Junction to Bandaragama Junction to Bandaragama Junction to Mo
 [Data](articles/6c82c945.json)
 
 [Extended Data](ext_articles/6c82c945.ext.json)
+
+---
+
+### Curfew in Nepal will be removed
+
+*2025-09-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214523) · `si`
+
+The curfew was taken to remove the curfew from the 13th morning due to protests in Nepal from today.
+
+According to foreign media reports, the daily people's life is being restored today, according to foreign media.
+
+Former Chief Justice, a former Chief Justice of the Nepal Karti, has resulted in the reality of the country yesterday (12).
+
+Mass protests have been carried out throughout the country against the government's actions to impose restrictions on social media.
+
+Curfew was imposed to control it. However, during the protests, 51 people were killed.
+
+◼️
+
+[Data](articles/8c6d75a9.json)
+
+[Extended Data](ext_articles/8c6d75a9.ext.json)
+
+---
+
+### The construction industry should be made in the field
+
+*2025-09-13 14:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-විධිමත්භාවයක්-ඇති-කළ-යුතුයි/11-418475) · `si`
+
+The presidential discussion of the respective budget proposals between the President, Anura Kumara Dissanayake and the construction industry associated with the construction industry was held in the presidential election.
+
+The discussion was held aimed at enhancing the contribution to the economy by exporting the construction work and the export of electric cables.
+
+He stressed that the proposal was aimed at creating the economic environment where the construction industry would grow outside the construction industry.
+
+The government was focused on how the government could resolve the problems and problems in the construction industry and the government was informed by the heads of the field.
+
+Senior Additional Secretary to the Presidential Additional Secretary, Russell Arotess, Chairman of the Ministry of Finance, Senior Officials of the Ministry of Finance, Heads of Construction Sector and Electric Cable Products
+
+◼️
+
+[Data](articles/f184c2bc.json)
+
+[Extended Data](ext_articles/f184c2bc.ext.json)
+
+---
+
+### பஸ்களில் அலங்கார பொருட்களுக்கு தடை
+
+*2025-09-13 14:52:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-அலங்கார-பொருட்களுக்கு-தடை/175-364500) · `ta`
+
+On June 2, 2023, a circular was issued by the Department of Motor Vehicle Transport, allowing passengers to be installed in buses.
+
+But the circular was canceled on September 9, 2025.
+
+◼️
+
+[Data](articles/bb597868.json)
+
+[Extended Data](ext_articles/bb597868.ext.json)
+
+---
+
+### Woman dies mysteriously dead
+
+*2025-09-13 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214522) · `si`
+
+A woman has died in a Veditittagolla area in Dambulla.
+
+Dambulla Police have launched an investigation into a complaint lodged by the Dambulla Police that the woman had died suddenly.
+
+The deceased is a management service officer of the Galewela Zonal Education Office and she has lived in the house with her husband and the five-year-old boy.
+
+It was revealed that the husband was about to sleep at 4.00 pm and was not speaking at the time of the afternoon and that she was preparing to sleep at 4.00 pm.
+
+However, he later said that the deceased was revealed that she had been told that she had died when she was revealed to be identified as her death.
+
+The post mortem examination of the deceased woman is due to be held and the incident is to be held in the future of the Next Magistrate.
+
+◼️
+
+[Data](articles/19934385.json)
+
+[Extended Data](ext_articles/19934385.ext.json)
+
+---
+
+### Notice to drivers on Colombo-Galle main road
+
+*2025-09-13 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214521) · `si`
+
+The police have not inscribed the traffic traffic due to the Annual Dalage Perhera of Sri Galadawawatta, Sri Galadawawatta Ancient Temple.
+
+Nearly 100 elements of this procession elephants have been aligned and the arrival of a large number of devotees to the Perahera is expected to visit the procession.
+
+Therefore, the Perahera will take place in Colombo - Galle-Galle main road to the streets from 07.00 pm to 1.00 pm today (14).
+
+At the Monerater road in Horana Road, near Aluthgama road near the Panadura route, Vaduvanta junds can go to the Vodunamaduwa road.
+
+Valley in Kalutara North Police Vages, South Morontuduwa route to the Morotuna junction to Bandaragama and turns to the Panadura to Panadura and turn towards the Panadura Clock Station Junction.
+
+◼️
+
+[Data](articles/83044d5f.json)
+
+[Extended Data](ext_articles/83044d5f.ext.json)
 
 ---

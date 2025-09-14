@@ -1,58 +1,256 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 15:54:52**
+As of **2025-09-14 16:51:44**
 
 ## Newspaper Stats
 
-*Scraped **75,892** Articles*
+*Scraped **75,904** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
-colombotelegraphcom | 770
+colombotelegraphcom | 771
 economynextcom | 4,596
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,368
-adaderanalk | 9,759
-tamilmirrorlk | 11,349
-virakesarilk | 12,369
-adaderanasinhalalk | 13,238
+adalk | 7,369
+adaderanalk | 9,761
+tamilmirrorlk | 11,353
+virakesarilk | 12,371
+adaderanasinhalalk | 13,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,960 (93.5%) of 75,892 articles have been extended.
+71,025 (93.6%) of 75,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### මගී ප්‍රවාහන බස් රථයක මත්ද්‍රව්‍ය ඇති බවට ඔත්තුවක්
+### மித்தெனிய ரசாயனங்களில்    ‘ஐஸ்’ மூலப்பொருள் உள்ளன
+
+*2025-09-14 16:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தெனிய-ரசாயனங்களில்-ஐஸ்-மூலப்பொருள்-உள்ளன/175-364562) · `ta`
+
+மித்தெனியவில் கண்டுபிடிக்கப்பட்ட ரசாயனங்கள் மெத்தம்பேட்டமைன், ​ஐஸ் தயாரிப்பதற்கான முக்கிய பொருட்களாக அடையாளம் காணப்பட்டுள்ளதாக தேசிய ஆபத்தான மருந்துகள் கட்டுப்பாட்டு வாரியம் உறுதிப்படுத்தியுள்ளது.
+
+மேற்கு மாகாண வடக்கு குற்றப்பிரிவுக்கு சமர்ப்பிக்கப்பட்ட அறிக்கையின்படி, அந்த இடத்திலிருந்து சேகரிக்கப்பட்ட 20 மாதிரிகளில் 17 மாதிரிகளில் மெத்தம்பேட்டமைன் தொடர்பான பொருட்கள் இருப்பது கண்டறியப்பட்டது.
+
+தற்போது காவலில் உள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியான "பெக்கோ சமன்" என்பவரின் விசாரணையைத் தொடர்ந்து செப்டம்பர் 5 ஆம் திகதி இந்த இவை கண்டுபிடிக்கப்பட்டன.
+
+அடுத்த விசாரணைகளில் நெடோல்பிட்டி மற்றும் கந்தானை ஆகிய இடங்களிலும் இதே போன்ற இரசாயனப் பொருட்கள் இருப்பது கண்டுபிடிக்கப்பட்டது.
+
+அந்த இரண்டு இடங்களிலிருந்தும் மாதிரிகள் இன்னும் பரிசோதனையில் உள்ளன, அடுத்த வாரம் அறிக்கைகள் ஒப்படைக்கப்படும் என்று எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/9b7fc25d.json)
+
+---
+
+### கிழக்கு மாகாண முன்னாள்  உறுப்பினர் விபத்தில் மரணம்
+
+*2025-09-14 16:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-மாகாண-முன்னாள்-உறுப்பினர்-விபத்தில்-மரணம்/175-364561) · `ta`
+
+திருகோணமலை  அனுராதபுர  சந்தி  விபுலானந்த  பாடசாலைக்கு  முன்னால்  உள்ள  பாதசாரி  கடவையில்  இடம்பெற்ற  விபத்தில்  தமிழ்த்  தேசியக்  கூட்டமைப்பின்  முன்னாள்  கிழக்கு  மாகாண  சபை  உறுப்பினர்  கு.நாகேஸ்வரன் (வயது 71) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மூதூர்,சம்பூரில் இருந்து  திருகோணமலை  நகரில்  மரணச்  சடங்கு  ஒன்றுக்கு  பஸ்ஸில்  வருகை  தந்து, பாதசாரிகள்  கடவையின்  ஊடாக  வீதியைக் கடக்க  முற்பட்ட போது மோட்டார் சைக்கிளில் வேகமாக வந்த பெண் ஒருவர்  இவர்  மீது  மோதியதாக பொலிஸாரின் ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+உயிரிழந்தவரின்  சடலம்  திருகோணமலை  பொது  வைத்தியசாலை  பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன் விபத்து  தொடர்பான  மேலதிக  விசாரணைகளை உப்புவெளி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5f026719.json)
+
+---
+
+### හෙට උණුසුම්වන ප්‍රදේශ
+
+*2025-09-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214560) · `si`
+
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (14)  ප.ව. 03.00 ට නිකුත් කරන ලද එම නිවේදනය හෙට (15) දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මොනරාගල දිස්ත්‍රික්කයේත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවද එහි සඳහන් වේ.
+
+◼️
+
+[Data](articles/8d11e1fc.json)
+
+---
+
+### People who were killed in Nepali struggle
+
+*2025-09-14 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214559) · `si`
+
+Suzhaila Carki has officially assumed duties as the interim Prime minister of Nepal.
+
+Foreign media reports that the father of Linetore was treated before the first struggle to take office.
+
+Accordingly, during the struggle, the dead have been declared as "Divi" and have decided to provide Nepali rupees for a million rupees.
+
+The struggle has commenced their official duties at the Ministry of Home Affairs building due to the struggle.
+
+It is also reported that immediate relief to victims of violence last week is one of her first decisions.
+
+The order was implemented after a former Chief Justice was sworn in as the first female prime minister of Nepal.
+
+Accordingly, the Nepal parliamentary election will be held on March 5th.
+
+◼️
+
+[Data](articles/6196d701.json)
+
+[Extended Data](ext_articles/6196d701.ext.json)
+
+---
+
+### 10 -year rigorous prison for a man raped
+
+*2025-09-14 16:03:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-வல்லுறவு-செய்த-நபருக்கு-10-வருட-கடூழிய-சிறை/175-364560) · `ta`
+
+A 10 -year -old prison sentence was postponed for a 10 -year prison sentence for a 10 -year jail sentence for a 10 -year jail sentence for a 10 -year jail sentence for a woman who was arrested in an interview in a financial institution in Batticaloa.. .
+
+A woman who applied for a vacuum in a financial institution in Batticaloa was invited for an interview on September 4, 2019 on the day of the incident; The fiscal manager took the woman from there to the financial institution and arrested the woman after lodging a complaint at the police station.
+
+Subsequently, the police have filed a case against the Finance Manager and the Batticaloa High Court has been investigated by the Supreme Court judge last Friday (12).
+
+Therefore, the person is sentenced to 2 years in prison and a 10 -year prison sentence of 20 years of jail sentence to the victim of the victim and 15 lakh rupees. The judge ordered the penalty to pay 10 thousand rupees.
+
+◼️
+
+[Data](articles/d375f219.json)
+
+[Extended Data](ext_articles/d375f219.ext.json)
+
+---
+
+### 1,600 kg of yellow capture to be smuggled to Sri Lanka
+
+*2025-09-14 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225069) · `ta`
+
+1600 kg of cooking yellow bins were seized this morning (14) this morning.
+
+Since India's Tamil Nadu and Ramanathapuram district are very close to Sri Lanka, there has been a large number of sea cards, cannabis, cannabis, cooking turmeric, beedi leaves and foreign cigarettes.
+
+To prevent this, Marine Police are engaged in intensive surveillance in the Sri Lankan Indian Navy and the coastal areas on the Sri Lankan International Sea.
+
+On the orders of Marine ADGP Sanjeev Kumar, Marine Police Inspector Jhansi Rani conducted a raid on Vedalai village on the orders of Marine ADGP Sanjeev Kumar.
+
+Marine police are investigating the owner of the house, which was seized after the house was found in the 40 bundles weighing at 40 kg of cooking yellow bundles for smuggling Sri Lanka.
+
+Marine police have warned that the seized cooking turmeric is 2 lakhs 14 thousand rupees and the owner of the house is being investigated and that stern action will be taken against those who engage in illegal activities.
+
+◼️
+
+[Data](articles/e88c039b.json)
+
+[Extended Data](ext_articles/e88c039b.ext.json)
+
+---
+
+### Corpse recovery without head, hands, legs
+
+*2025-09-14 15:57:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலை-கைகள்-கால்கள்-இல்லாத-சடலம்-மீட்பு/175-364559) · `ta`
+
+Marawila police said that a body with no head, hands and legs was found on the beach on the beach, and only part of the body was wearing blue shorts.
+
+Police said the investigation was launched following the complaint and suspected that the body may be a man.
+
+The Marawila Operations Magistrate will conduct a preliminary inquiry, while the Marawila police are conducting further investigations.
+
+◼️
+
+[Data](articles/fa1d3981.json)
+
+[Extended Data](ext_articles/fa1d3981.ext.json)
+
+---
+
+### නිලමේ තනතුරට හිමි කිසිම වරප්‍රසාදයක් භාවිත නොකරන බව දියවඩන නිලමේ අපේක්ෂක උඩුරාවණ කියයි
+
+*2025-09-14 15:34:00* · [`adalk`](https://www.ada.lk/breaking_news/නිලමේ-තනතුරට-හිමි-කිසිම-වරප්‍රසාදයක්-භාවිත-නොකරන-බව-දියවඩන-නිලමේ-අපේක්ෂක-උඩුරාවණ-කියයි/11-418487) · `si`
+
+ථෙරවාදී බෞද්ධ දර්ශනය ආරක්ෂා කරමින් සුරකින මෙරට භික්‍ෂූන් වහන්සේලා 500 නමකට පහසුකම් සැලසිය හැකි රෝහලක් තම නිල කාලය තුළදී ඉදිකොට  රජයට භාරදීමට බලාපොරොත්තු වන බවත් ඒ සඳහා ශ්‍රී දළදා මාලිගාවේ මුදල් භාවිතා නොකරන බවද දියවඩන නිලමේ අපේක්ෂක පස්ගම ශ්‍රී නාථ දේවාලයේ සහ මහනුවර ශ්‍රී මහා කතරගම දේවාලයේ බස්නායක නිලමේ දුමින්ද බණ්ඩාර උඩුරාවන මහතා කියයි.
+
+මහනුවර රෝයල් මෝල් හෝටලයේදී අද (14) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී බස්නායක නිලමේ වරයා වැඩිදුරටත් අවධාරණය කරටියේ උත්තරීතර දියවඩන නිලමේ පදවියට පත්වීමෙන් පසු එම තනතුර සඳහා ඇති කිසිදු පහසුකමක් ලබා නොගන්නා බවත් ඒ සඳහා ඇති නිල නිවස පවා රාජකාරී කටයුතුවලට පමණක් භාවිතා කරන බවත්ය.
+
+වත්මන් දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා විසින් සිදුකොට ඇති හොඳ වැඩ හොඳයි කියන්නා සේම තනතුරු තානාන්තර සදාකාලික නොවන බවත් ඒවා අත්හැරීමට පුරුදු පුහුණු විය යුතු බවද උඩුරාවණ මහතා පැවසීය.
+
+...
+
+[Data](articles/fac5dc8a.json)
+
+---
+
+### School Examinations Table Issue for 2026
+
+*2025-09-14 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225063) · `ta`
+
+The Ministry of Education has issued a special announcement regarding the school examinations to be held in 2026.
+
+Accordingly, the GCE Ordinary Level Examination of 2025 (2026) will be held from 2026-02-17 to 2026-02-26.
+
+At the same time, the GCE Advanced Level Examination will be held from 2026-08-10 to 2026-09-05.
+
+In addition, the Ministry of Education has announced that the GCE Ordinary Level Examination will be held from 2026-12-08 to 2026-12-17.
+
+◼️
+
+[Data](articles/c8da44e8.json)
+
+[Extended Data](ext_articles/c8da44e8.ext.json)
+
+---
+
+### He is a hedgery in a passenger transport bus
 
 *2025-09-14 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214558) · `si`
 
-සිරිපුර සිට මහනුවර බලා ධාවනය වූ පුද්ගලික බස් රථයක රිය සහයක සන්තකයේ මත්ද්‍රව්‍ය තිබෙන බවට ලද තොරතුරක් මත ඊයේ (13) ගිරාදුරුකෝට්ටේ පොලිස් ස්ථානයේ නිලධාරීන් එම බස් රථය පොලිස් ස්ථානය ඉදිරිපිටදීම නවත්වා පරීක්ෂාවට ලක්කර ඇත.
+Officers of the Girandurukotte Police Station at the Girandurukotte Police Station have stopped and tested the bus in front of the police station yesterday (13).
 
-එහිදී මදන මෝදක ලෙස හදුන්වන මත්ද්‍රවය ගුලි 05ක් එම සහයක සන්තකයේ තිබී සොයාගැනීමට පොලීසියට හැකිව තිබේ.
+The police have been able to find five gulfs in the possession of the drugs that are known as a madness.
 
 ඒ් හේතුවෙන් එම බස් රථයේ සිටි මගීන් බස්සවා වෙනත් බස් රථයකට යොමුකර ඇත.
 
-ඉන් අනතුරුව රියදුරු සහ සහයක වෛද්‍ය පරීක්ෂණයක් සඳහා මහියංගනය මූලික රෝහල වෙත යොමුකර තිබේ.
+Thereafter, a driver and a partner has been referred to the Mahiyanganaya Base Hospital.
 
-එහිදී අනාවරණය වී ඇත්තේ මත්ද්‍රව්‍ය ගුලි සන්තකයේ තබාගෙන සිටි රිය සහයක මත්ද්‍රව්‍ය භාවිතා කර නොමැති බවත්, බස් රථයේ රියදුරුගේ ශරීරයේ ගංජා මත්ද්‍රව්‍ය අන්තර්ගතව ඇති බවත්ය.
+The driver of a driver was not used in the possession of drugs, the driver of the bus is available to marijuana drugs.
 
-ඒ අනුව ඔවුන් දෙදෙනා අත්අඩංගුවට ගෙන මහියංගනය මහෙස්ත්‍රාත් අධිකරණයවෙත ඉදිරිපත් කරනු ලැබීය.
+Accordingly, both were arrested and submitted to Mahiyanganaya Magistrate.
 
-තවද එම ගුලි නිකුත්කළ ඔසුසලක් සම්බන්ධවද පොලීසිය විසින් විමර්ශනයක් ආරම්භකර ඇත.
+Police also launched an investigation into a pharmacy issued.
 
 ◼️
 
 [Data](articles/96ecc3cf.json)
+
+[Extended Data](ext_articles/96ecc3cf.ext.json)
+
+---
+
+### 72 dead in Nepal protests, victims declared ‘Martyrs’, families to get relief
+
+*2025-09-14 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112488/72-dead-in-nepal-protests-victims-declared-martyrs-families-to-get-relief) · `en`
+
+Sushila Karki formally assumed office as the interim Prime Minister of Nepal on Sunday, declaring those killed during the Gen Z protests as “martyrs” and announcing Rs 1 million in relief for each victim’s family, according to local media reports.
+
+Karki, a former Chief Justice, was sworn in on Friday by President Ramchandra Paudel after growing demands from the Gen Z movement.
+
+She took charge two days later, beginning her tenure by paying tribute at the Martyrs’ Memorial in Lainchaur on Sunday morning before proceeding to Singha Durbar. She commenced her official duties from the Home Ministry’s building, as the Prime Minister’s Office had been shifted there following the arson attack on Tuesday that damaged the main complex.
+
+One of her first decisions was to extend immediate relief to victims of last week’s violent demonstrations.
+
+...
+
+[Data](articles/a46a2a2e.json)
+
+[Extended Data](ext_articles/a46a2a2e.ext.json)
 
 ---
 
@@ -135,6 +333,28 @@ On the same day, a group of preschool children met with their parents, the forme
 [Data](articles/1ab5fb99.json)
 
 [Extended Data](ext_articles/1ab5fb99.ext.json)
+
+---
+
+### Warm weather advisory issued for several provinces
+
+*2025-09-14 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112487/warm-weather-advisory-issued-for-several-provinces) · `en`
+
+A warm weather advisory has been issued for residents of the Northern, North-central and Eastern provinces and in the Monaragala district.
+
+The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (15), according to the Department of Meteorology.
+
+‘The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body’, said the Met Department in a statement.
+
+The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
+
+Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
+
+◼️
+
+[Data](articles/4cecdbe2.json)
+
+[Extended Data](ext_articles/4cecdbe2.ext.json)
 
 ---
 
@@ -294,21 +514,23 @@ It is also reported that K. Nageswaran (71 years old) from Muttur Sampur area di
 
 ---
 
-### පෞද්ගලික හා ලංගම බස් දෙක රෙස් යයි
+### Private and SLTB buses go to RES
 
 *2025-09-14 13:24:08* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-ලංගම-බස්-දෙක-රෙස්-යයි/11-418486) · `si`
 
-අධික වේගයෙන්  අන්තරාකාරි ලෙස බස් රථය ධාවනය කර අනතුරක් කිරීමට උත්සාහ කළ පෞද්ගලික බස් රථයේ රියදුරුට එරෙහිව පියවර ගන්නා ලෙස ජනතාව ඉල්ලා සිටී.
+The people call for the driver of the private bus on the bus driver, driving the bus and operating the bus.
 
-බගවන්තලාව සිට හැටන් දක්වා ධාවනය වූ ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට අන්තරාකාරී ලෙස පෞද්ගලික බස් රථය උත්සාහ කළ බවට බස් රථයේ මගීහු චෝදනා කරති.
+The bus passengers complain that the Sri Lankan Transport Board bus to travel from the Bandaravawa to Hatton, he accused the backed by the private bus to pass.
 
-නල්ලතන්නි සිට හැටන් දක්වා ගමන් කළ පෞද්ගලික බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩල බස් රථය ඉදිරියෙන් ගමන් කරමින් සිටියදී එය පසුකර යාමට උත්සාහ කළ බවට බස් රථයේ මගීන් චෝදනා කරති.
+The bus passengers accused the Sri Lanka Transport Board Bus was traveling in the front of the Sri Lanka Transport Board while he was heading ahead.
 
-මෙම සිදුවීම 2025.09.14 වන ඉරිදා උදෑසන සිදු විය. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
+This event took place on Sunday morning on 14.09.2011. රට තුළ වැඩිවන අනතුරු සංඛ්‍යාවට සම්බන්ධ බස් රථ රියදුරන්ට එරෙහිව පියවර ගන්නා ලෙස ජනතාව වැඩිදුරටත් රථවාහන පොලිසියෙන් ඉල්ලා සිටිති.
 
 ◼️
 
 [Data](articles/a98e2a4c.json)
+
+[Extended Data](ext_articles/a98e2a4c.ext.json)
 
 ---
 
@@ -1059,6 +1281,20 @@ With the United Nations Human Rights Council's review session, a special committ
 [Data](articles/29d60f07.json)
 
 [Extended Data](ext_articles/29d60f07.ext.json)
+
+---
+
+### Through Tin Tin’s Eyes: The Calamity Bishop Rodrigo Is Visiting On The Church
+
+*2025-09-14 11:04:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/through-tin-tins-eyes-the-calamity-bishop-rodrigo-is-visiting-on-the-church/) · `en`
+
+When the decision was taken at schools take-over to keep St. John’s private, one of the key considerations was to be a witness for Jesus Christ and to serve society. Bishop Dushantha Rodrigo seems to have lost that vision in decapitating Fr. Daniel Jeyaruban by dismissal after blessing him only the previous night.
+
+Worse, after suspending him without pay for over a year, the Church has demanded that he pay the rent and utility bills from when he was suspended without ever having told him at the time of suspension over a year ago. And the Church expected him to move immediately when his wife was in hospital with a prematurely born infant weighing under 3 lbs in a room full of occupied incubators and she had to come regularly from her ward to feed her. I believe that the prematurity was precipitated by the social stigma of his suspension and the indignation from the charge that he told people he was suspended when people asked him why he was not coming to school.
+
+...
+
+[Data](articles/e57f9ad3.json)
 
 ---
 
@@ -1843,267 +2079,5 @@ Accordingly, steps have been taken to carry out this process throughout the isla
 [Data](articles/37944d80.json)
 
 [Extended Data](ext_articles/37944d80.ext.json)
-
----
-
-### The NATO Nations pressurizes the NATO to stop Russian oil purchases
-
-*2025-09-14 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214542) · `si`
-
-Foreign media reports that US President Donald Trump has pressurized the NATO Nations to stop purchasing the purchase of Russia
-
-The US President has said that when all NATO countries have agreed to carry out the same thing and all NATO countries stopped buying oil from Russia, the US President has reportedly ready to impose.
-
-Meanwhile, it is reported that NATO has imposed 50% to 100% to China, and Donald Trump has been proposed.
-
-If the Ukrainian war does not make any progress to the end of the war, Moscow had previously threatened to impose a secondary sanctions, China and India.
-
-The US President was able to impose additional 25% of additional 25% of Indian goods due to the continuation of the Russian oil.
-
-◼️
-
-[Data](articles/a88d4cc5.json)
-
-[Extended Data](ext_articles/a88d4cc5.ext.json)
-
----
-
-### Pakistani Taliban ambush kills 12 soldiers in restive northwest
-
-*2025-09-14 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112467/pakistani-taliban-ambush-kills-12-soldiers-in-restive-northwest) · `en`
-
-At least 12 soldiers were killed in an ambush in northwest Pakistan on Saturday (Sep 13), government and security officials said, in an attack claimed by the Pakistani Taliban.
-
-Militancy has surged in the border regions with Afghanistan since the return to power of the Afghan Taliban in Kabul in 2021, although Saturday’s attack was one of the deadliest in months in Khyber Pakhtunkhwa province.
-
-Islamabad accuses neighbouring Afghanistan of failing to expel militants using Afghan territory to launch attacks on Pakistan, an accusation that authorities in Kabul deny.
-
-The Pakistan military said after the ambush early on Saturday that intelligence reports “have unequivocally confirmed physical involvement of Afghan Nationals in these heinous acts”.
-
-“Pakistan expects the Interim Afghan Government to uphold its responsibilities and deny use of its soil for terrorist activities against Pakistan,” it said in a statement.
-
-...
-
-[Data](articles/75bbc250.json)
-
-[Extended Data](ext_articles/75bbc250.ext.json)
-
----
-
-### Showers expected in several provinces after 1pm
-
-*2025-09-14 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112466/showers-expected-in-several-provinces-after-1pm-) · `en`
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (14), the Department of Meteorology said.
-
-Showers or thundershowers will occur at several places in Eastern and Uva provinces after 1.00 p.m.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5e30e721.json)
-
-[Extended Data](ext_articles/5e30e721.ext.json)
-
----
-
-### Showers in the evening today
-
-*2025-09-14 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214541) · `si`
-
-Several times will occur in the Western, Sabaragamuwa and Northwestern provinces and several times in the Galle, Matara, Kandy and Nuwara Eliya districts today (14).
-
-The department states that the Department states in the Eastern and Uva provinces. Showers or thundershowers will occur at several places about 1.00.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara.
-
-Winds are blowing from southwests and the speed of the wind is running.. Is about 30-40.
-
-From Matara to the shore of the coast extending from Matara to Pottuvil is at times.. The Department of Meteorology announces that 50-60 can increase.
-
-From the Kankesanthurai to Matara through the speed of the sea areas off the coast across the coast to Matara.. It can increase up to 50.
-
-...
-
-[Data](articles/cde5258b.json)
-
-[Extended Data](ext_articles/cde5258b.ext.json)
-
----
-
-### 2025-09-13 (Saturday)
-
-### Sri Lanka beat Bangladesh by 6 wickets
-
-*2025-09-13 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225020) · `ta`
-
-Sri Lanka won the fifth match of the 2025 Asian Cup cricket match between Sri Lanka and Bangladesh on Saturday, 13th.
-
-The Sri Lankan team scored 140 runs and scored 140 runs for the loss of only 04 wickets in 14.4 overs.
-
-Sri Lanka's Nissanka scored 50 runs, Gusal Mendis 03, Kusal Perera 09, Kamil Mishara 46 * and Sarith Asalanga scored 10 * unbeaten.
-
-Mahadedi Hasan took 02 wickets while Mustafizur Rahman and Tanzim Hasan Sahib took one wicket each.
-
-Sri Lanka Captain, who won the currency cycle, called Bangladesh first to bat, scoring 139 runs for the loss of 5 wickets in 20 overs.
-
-Accordingly, Bangladesh captain Litton Das scored 28 runs, Tauhit Hiridoi 8, Mahdedi Hasan 9, Jackar Ali scored 41* and Shamim Hossein 42*.
-
-Tanzid Hasan and Parvez Hossein Emon, who were the starters, were unable to score any runs.
-
-In bowling, Wanindu Hazaranga took 2 wickets while Dushmantha Sameera and Nuwan Dushara took one wicket each.
-
-◼️
-
-[Data](articles/7ccd516b.json)
-
-[Extended Data](ext_articles/7ccd516b.ext.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2025-09-13 23:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214540) · `si`
-
-Sri Lanka won a six wicket win by Sri Lanka and Bangladesh in the 13th Asia Cricket Tournament.
-
-Bangladesh invited Bangladesh to bat first, who won the coin.
-
-Accordingly, Nuwan Thushara has scored the first wicket of Bangladesh first wicket at the first winter.
-
-Damadhini Chameera, who was implemented, was delicious in the second-odd, helping Bangladesh.
-
-In the face of the super-rid of Kamil Michale, one more harm was collapsed and took a state of bangleader to a marginalized.
-
-Despite the first wickets of Bangladesh, Jacoer Ali and Samimus Hossala, Bangladesh, took Bangladesh towards the innings of the innings.
-
-Accordingly, the Bangladesh scored 139 runs for the loss of 5 wickets in their allotted 20 overs.
-
-Sri Lanka won a 140-run target for 140 runs and Sri Lanka won the winning 140 runs for the loss of 4 wickets.
-
-There he managed to receive the wishes of great sticks and regulated wishes.
-
-With the same plague, he reached the 2,000 runs in the International T20 cricket.
-
-...
-
-[Data](articles/038b0274.json)
-
-[Extended Data](ext_articles/038b0274.ext.json)
-
----
-
-### Solidarity and unity among all religions essential for justice and equality – PM
-
-*2025-09-13 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112465/solidarity-and-unity-among-all-religions-essential-for-justice-and-equality-pm) · `en`
-
-Prime Minister Dr. Harini Amarasuriya emphasized that solidarity and unity among all religions is essential to building justice and equality in the country.
-
-She made these remarks while participating in the 118th annual festival of the historic national shrine of Our Lady of Matara, according to the Prime Minister’s Media Division.
-
-This year marks the 118th annual anniversary of the shrine. On this occasion, a special blessing ceremony was conducted by Rev. Dr. Jude Nishantha Silva, Bishop of Badulla, and Rev. Dr. Raymond Wickramasinghe, Bishop of Galle on behalf of the Prime Minister.
-
-Thereafter, a special cordial meeting was held between the Prime Minister and interfaith leaders of the Matara region in the main hall of the shrine, the statement said.
-
-Expressing her felicitations to the historic celebration of the shrine on behalf of the Government and His Excellency the President, the Prime Minister stated that it was a great privilege to take part in this occasion.
-
-...
-
-[Data](articles/c7527dbb.json)
-
-[Extended Data](ext_articles/c7527dbb.ext.json)
-
----
-
-### 22 killed in air attack on West Myanmar
-
-*2025-09-13 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214539) · `si`
-
-Twenty students were killed and two others were injured in a hostel building at the West Myanmar.
-
-The media reports that the students were sleeping at the time of the attack.
-
-Myanmar had launched this attack targeting a region where the country's armed teams.
-
-◼️
-
-[Data](articles/1211d4e3.json)
-
-[Extended Data](ext_articles/1211d4e3.ext.json)
-
----
-
-### Sri Lanka a target of 140 runs
-
-*2025-09-13 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214538) · `si`
-
-Batting first Sri Lanka and Bangladesh scored 139 runs for the loss of 5 wickets at the end of 20 overs.
-
-Sri Lanka captain Charith won the toss and elected to the Bangladesh to bat first.
-
-Shamm, Hassain scored 42 runs for the Bangladesh team.
-
-No other player in the group was able to exceed the 10-run limit.
-
-Tannu Hasaranga took 2 wickets for Sri Lanka in bowling and took 2 wickets.
-
-Sri Lanka is due to chase 140 runs.
-
-◼️
-
-[Data](articles/c558a898.json)
-
-[Extended Data](ext_articles/c558a898.ext.json)
-
----
-
-### Indian national arrested with rash drugs worth Rs. 85 million
-
-*2025-09-13 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214537) · `si`
-
-An Indian national has been arrested by an Indian national who tried to carry 8.542 kilograms of crusts worth Rs. 85 million.
-
-The suspect was arrested by the officials of the Narcotics Bureau at Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/46260ef7.json)
-
-[Extended Data](ext_articles/46260ef7.ext.json)
-
----
-
-### Indian arrested with Kush worth Rs. 85 million at BIA
-
-*2025-09-13 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112464/indian-arrested-with-kush-worth-rs-85-million-at-bia) · `en`
-
-An Indian national has been arrested by officers of the Police Narcotics Bureau (PNB) at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a large consignment of Kush cannabis.
-
-The 33-year-old suspect, who had arrived from Thailand and was bound for India, was found in possession of 8.542 kilograms of Kush cannabis, with an estimated street value of Rs. 85 million, police said.
-
-◼️
-
-[Data](articles/8b36ef7d.json)
-
-[Extended Data](ext_articles/8b36ef7d.ext.json)
-
----
-
-### බෙලිහුල්ඔය නන්පේරියල්වත්ත රක්ෂිතයේ ගින්නක්
-
-*2025-09-13 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214536) · `si`
-
-The fire is already spreading throughout the reserve.
-
-It is reported that the fire is spreading in the forest due to dry weather and strong winds.
-
-◼️
-
-[Data](articles/4d52bcfe.json)
-
-[Extended Data](ext_articles/4d52bcfe.ext.json)
 
 ---

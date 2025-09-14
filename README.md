@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 12:10:45**
+As of **2025-09-14 12:53:53**
 
 ## Newspaper Stats
 
-*Scraped **75,848** Articles*
+*Scraped **75,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,109 +12,231 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 770
-economynextcom | 4,595
+economynextcom | 4,596
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,363
-adaderanalk | 9,747
-tamilmirrorlk | 11,339
-virakesarilk | 12,359
+adalk | 7,364
+adaderanalk | 9,750
+tamilmirrorlk | 11,341
+virakesarilk | 12,363
 adaderanasinhalalk | 13,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,786 (93.3%) of 75,848 articles have been extended.
+70,829 (93.4%) of 75,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### කරන්දෙණියේ මව සහ පුතා ඝාතනයේ සැකකරු අත්අඩංගුවට
+### People! Be careful today
+
+*2025-09-14 12:16:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-இன்று-கவனமாக-இருங்கள்/175-364546) · `ta`
+
+Heavy rains will be experienced in West, Sabaragamuwa and Northwestern Provinces, Galle, Matara, Kandy and Nuwara Eliya districts, the Meteorological Department said in a weather report at 05.30 am today.
+
+In the Eastern and Uva provinces, there will be rain or thunderstorms in some places after 1.00 pm.
+
+The Meteorological Department urges the public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.
+
+◼️
+
+[Data](articles/4731d9a4.json)
+
+[Extended Data](ext_articles/4731d9a4.ext.json)
+
+---
+
+### Lucky to beat Mahinda in Colombo
+
+*2025-09-14 12:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-கொழும்பில்-அடிக்கவிருக்கும்-அதிர்ஷ்டம்/175-364544) · `ta`
+
+Former President Mahinda Rajapakse, who left his official residence in Colombo, has been offered to provide many luxury houses in Colombo and surrounding areas.
+
+Political friends who have come forward to provide houses have taken the position that Mahinda Rajapaksa's future political activities should be successful.
+
+It is also reported that the final decision has not yet been made on which house to select the house. It is also reported that security personnel are not having enough space and parking facilities to stay in such a way that there is no difficulty for nearby residents.
+
+◼️
+
+[Data](articles/e85c442c.json)
+
+[Extended Data](ext_articles/e85c442c.ext.json)
+
+---
+
+### Malaysia-Sri Lanka business chamber, National Chamber sign MoU
+
+*2025-09-14 12:00:00* · [`economynextcom`](https://economynext.com/malaysia-sri-lanka-business-chamber-national-chamber-sign-mou-240458/) · `en`
+
+ECONOMYNEXT – The National Chamber of Commerce of Sri Lanka (NCCSL) and the Malaysia–Sri Lanka Business Chamber (MSLBC) have signed an agreement “consolidating partnerships” between the two nations’ business communities.
+
+An MSLBC delegation, led by its Deputy President Magandran Muthiah, were hosted by the NCCSL, where representatives from Malaysian and Sri Lankan companies participated in knowledge sharing, networking, and fostering future business collaborations, the chamber said.
+
+“The program featured B2B matchmaking sessions, enabling companies from both countries to explore strategic partnerships, exchange expertise, and identify new trade and investment opportunities.”
+
+Muthiah spoke of the importance of strengthening bilateral trade and investment ties.
+
+Nilupul Chandrasena – Secretary General/CEO NCCSL, Anura Warnakulasooriya – President NCCSL, Tham Whye Long – First Secretary and Head of Chancery at the Malaysian High Commission also addressed the gathering.
+
+...
+
+[Data](articles/8d6cba9a.json)
+
+[Extended Data](ext_articles/8d6cba9a.ext.json)
+
+---
+
+### Kadawatha - Meerigama Highway Works resumes on September 17
+
+*2025-09-14 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225047) · `ta`
+
+The construction of the Central Highway, which has been halted due to the economic crisis in the country since the mid -2022, will be resumed on September 17.
+
+President Anura Kumara Dissanayake will start construction work. Further, China's export and import bank has received US $ 500 million loans to resume the project.
+
+It is scheduled to be completed by mid -2028, which is 37 km long.
+
+Meanwhile, the work of watering will be started from Kadavati and the first 500 meters of the highway from Kadawatha.
+
+◼️
+
+[Data](articles/669e5fe4.json)
+
+[Extended Data](ext_articles/669e5fe4.ext.json)
+
+---
+
+### Karandeniya mother and son arrested for murder suspect arrested
 
 *2025-09-14 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214552) · `si`
 
-කරණ්දෙණිය කොටවෙල ප්‍රදේශයේදී පසුගිය 11 වන දින සවස් කාලයේදී මවක සහ පුත්‍රයෙකු ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ සැකකරු තියුණු ආයුධයක් සමග කරන්දෙණිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The suspect in connection with the murder of a mother and son in the Kotawela area in general area Karandeniya has been arrested by the Karandeniya Police with a sharp weapon.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අසල්වැසි නිවසේ පදිංචි අයෙකු වන අතර ඔහු නීතිවිරෝධී මත්පැන් ජවාරමේ නියුතු අයෙකු මෙන්ම කපා කොටා ප්‍රදේශවාසීන් බිය වැද්දීම්වලට අදාළ නඩු පවතින අයෙකු බවද පොලීසිය පැවසීය.
+The police said that he is a resident of the neighboring house and is a person who is uniquely employed and the residents of the area of ​​lawyers and the residents of the area are cases pending.
 
-මේ වන විට මියගිය දෙදෙනාගේ මෘතදේහ ඥාතීන්ට භාරදී ඇති අතර අද සවස ඔවුන්ගේ අවසන් කටයුතු සිදු කිරීමට නියමිතය.
+The remains of the dead have been handed over to the relatives and their funeral will take place this evening.
 
 ◼️
 
 [Data](articles/10eb06ce.json)
 
+[Extended Data](ext_articles/10eb06ce.ext.json)
+
 ---
 
-### கடவத்தை-மீரிகம அதிவேக நெடுஞ்சாலை பணிகள் ஆரம்பம்
+### Kadawatha-Meerigama Highway Highway work begins
 
 *2025-09-14 11:43:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவத்தை-மீரிகம-அதிவேக-நெடுஞ்சாலை-பணிகள்-ஆரம்பம்/175-364542) · `ta`
 
-2022 ஆம் ஆண்டின் நடுப்பகுதியில் இருந்து பொருளாதார நெருக்கடி காரணமாக நிறுத்தப்பட்டிருந்த மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை மற்றும் மீரிகம இடை பகுதியில் கட்டுமான பணிகள் செப்டம்பர் 17 ஆம் திகதி மீண்டும் ஆரம்பிக்கப்படவுள்ளது.
+Construction work will be resumed on September 17 in the Kadawatha and Mirigama area of ​​the Central Expressway, which has been halted due to economic crisis since 2022.
 
-ஜனாதிபதி அனுர குமார திசாநாயக்க கட்டுமானப் பணிகளை ஆரம்பிக்க உள்ளார்  மேலும் திட்டத்தை மீண்டும் தொடங்க சீனாவின் ஏற்றுமதி-இறக்குமதி வங்கியிடமிருந்து 500 மில்லியன் அமெரிக்க  டாலர் கடன் பெறப்பட்டுள்ளது.
+President Anura Kumara Dissanayake has begun construction and has received $ 500 million from China's Export-Important Bank to resume the project.
 
-37 கிலோ மீற்றர் நீளம் கொண்ட இந்தப் பாதை 2028 ஆம் ஆண்டின் நடுப்பகுதியில் நிறைவடைய திட்டமிடப்பட்டுள்ளது.
+The 37 -kilometer -long route is scheduled to be completed in the mid -2028.
 
-அதனுடன், கடவத்தை இன்டர்சேஞ்ச் ஹப் மற்றும் கடவத்தையில் இருந்து அதிவேக நெடுஞ்சாலையின் முதல் 500 மீற்றர்  பணிகளும் ஆரம்பிக்கப்படும்.
+In addition, the first 500 meters of the highway will be started from Kadawatha Internsang Hub and Kadawatha.
 
 ◼️
 
 [Data](articles/57118fa6.json)
 
+[Extended Data](ext_articles/57118fa6.ext.json)
+
 ---
 
-### காதலுக்கு எல்லைகள் இல்லை என்பதை   நிரூபிக்கும் காதல் கதை
+### Love story that proves no borders to love
 
 *2025-09-14 11:41:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலுக்கு-எல்லைகள்-இல்லை-என்பதை-நிரூபிக்கும்-காதல்-கதை/175-364541) · `ta`
 
-தம்புள்ளை கல்வதியாய பகுதியில் இருந்து ஓ​ர் அற்புதமான தகவல் அடங்கிய கட்டுரை எங்களுடைய சகோதர இணையத்தளமான ‘அத‘ இணையளத்தத்தில்  வெளியிடகப்பட்டுள்ளது.  இது காதல், திருமணம், பணம், வாகனம் போன்ற உயர்நிலைக்கு அப்பாற்பட்ட பின்னணி இருப்பதை நிரூபிக்கிறது.
+Amazing information from the Dambulla Kalvadaya area has been published on our brother website. It demonstrates the presence of love, marriage, money, vehicle, etc.
 
-தம்புள்ள சமுர்த்தி வங்கியின் அதிகாரி ஒருவர் வழங்கிய தகவலின்படி, இந்த ஜோடி இரண்டு சிறிய அறைகளைக் கட்ட அரசாங்க உதவியைக் கோரியிருந்தது.
+According to a report by a Samurdhi Bank official of Dambulla, the pair sought government assistance to build two small rooms.
 
-அரசாங்க அதிகாரியின் கோரிக்கையில் இந்த ஜோடி காதலித்து வருவதாகவும் குறிப்பிடப்பட்டுள்ளது. அதன்படி, தம்புள்ள சமுர்த்தி வங்கியின் அதிகாரி ஒருவரிடமிருந்து தகவல் கிடைத்த பிறகு, இந்த ஜோடி பற்றிய தகவல்களைக் கண்டறிய கல்வதியாய பகுதிக்கு ‘அத‘ ஊடகவியலாளர்கள் சென்றிருந்தனர்
+It is also mentioned that the pair fell in love with the request of the government official. Accordingly, after receiving information from an official of Samurdhi Bank Dambulla, the journalists visited the academic area to find information about the couple.
 
-பி.ஜி. ரஞ்சித்துக்கு முப்பத்தேழு வயது, திருமதி. கே. ஏ. ஐரங்கனிக்கு முப்பத்தேழு வயது, பிறவியிலேயே ஊனமுற்ற கே. ஏ. ஐரங்கனி, ஒரு விதவை. ஐரங்கனி பல ஆண்டுகளுக்கு முன்பு கைவினைப் பொருட்களை பற்றி  கற்றுக்கொள்வதற்காக பொலன்னறுவாவில் உள்ள ஓர் உறவினர் வீட்டில் தங்கியிருந்தார்.
+Bg. Thirty -seven years old, Mrs.. K. A.. Irangani is thirty -seven years old. A.. Irangani, a widow. Irangani was staying at a relative's house in Polonnaruwa to learn about crafts many years ago.
 
 ...
 
 [Data](articles/e26aa863.json)
 
+[Extended Data](ext_articles/e26aa863.ext.json)
+
 ---
 
-### වැලිගමදී මාරක අනතුරක්
+### A fatal accident in Weligama
 
 *2025-09-14 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214551) · `si`
 
-වැලිගම, දෙනිපිටිය හන්දිය ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් කාන්තාවක් මියගොස් තිබේ.
+A woman was killed in an accident in the Denipitiya Junction area in Weligama.
 
-වැලිගම දෙස සිට අකුරැස්ස දෙසට ධාවනය වූ ලොරි රථයක් ප්‍රථිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී සිදුවූ අනතුරින් යතුරුපැදිකාරිය බරපතල තුවාල ලබා වලාන රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇති බව පොලිසිය පැවසුවේය.
+The motorcyclist has died in admission to the Walana hospital in admission to the Walana Hospital in admission to the Walana Hospital.
 
-මෙලෙස මියගොස් ඇත්තේ 33 හැවිරිදි දෙනිපිටිය, නිදංගල ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවක් බව සඳහන් වේ.
+The victim is a 33 year old resident of Denipitiya, Deliwila.
 
-අනතුරට සම්බන්ධ ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර වැලිගම පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
+The driver of the terms involved in the accident has been arrested and the Weligama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a8490a1b.json)
 
+[Extended Data](ext_articles/a8490a1b.ext.json)
+
 ---
 
-### இவ்வளவு பெரிய நிதி ஒதுக்கீடு அவசியமா?
+### Politics to blow Mahinda's outcry….!
+
+*2025-09-14 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225044) · `ta`
+
+Anura Priyadarshana Yapa, Wimal Weerawansa, Tran Ales, Sujeewa Semasinghe and Janaka Wagumbara, who held the post of Ministry and Deputy Ministry during the time of Mahinda, have been in tears that those who have completed the war have been revealed to Asgiriya and Malwath Thera.. Some Buddhist monks from Tangalle have been upset as a great insult to the leader of the nation. All those who commented on Mahinda's evacuation are put forward as the one who ended the war, and that the country saved the country from the terrorists.
+
+◼️
+
+[Data](articles/079b14a6.json)
+
+[Extended Data](ext_articles/079b14a6.ext.json)
+
+---
+
+### Is there such a large funding allocation?
 
 *2025-09-14 11:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வளவு-பெரிய-நிதி-ஒதுக்கீடு-அவசியமா/175-364540) · `ta`
 
-வியாழக்கிழமை (11) நடைபெற்ற CoPF கூட்டத்தின் போது, ​​பொது நிதி தொடர்பான பாராளுமன்றக் குழுவின் (CoPF) தலைவர் கலாநிதி ஹர்ஷ டி சில்வா, லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவின் சம்பள ஒதுக்கீடுகளில் ஏற்பட்டுள்ள கூர்மையான அதிகரிப்பை எடுத்துக்காட்டி (CIABOC) முன்மொழியப்பட்ட 2026 வரவு செலவுத் திட்டம் குறித்து கவலைகளை எழுப்பியுள்ளார்..
+During the COPF meeting held on Thursday (11), the Chairman of the Parliamentary Committee (COPF), Dr. Harsha de Silva, Chairman of the Public Finance Committee, raised concerns about the 2026 budget proposed by the Commission to Investigate Corruption or Corruption.
 
-புதிய திட்டத்தின் கீழ், தற்போதைய கட்டமைப்பின் கீழ் சம்பள ஒதுக்கீடு ரூ. 354 மில்லியனில் இருந்து ரூ. 777 மில்லியனாக உயரும், இது ஆணையத்தின் ஊழியர்களை 489 இலிருந்து 967 ஆக விரிவுபடுத்தவும், நாடு முழுவதும் பிராந்திய அலுவலகங்களை நிறுவவும் உள்ள திட்டங்களை பிரதிபலிக்கிறது.
+Under the new scheme, salary allocation of Rs.. 354 Million from Rs.. 777 million will rise, reflecting plans to expand the staff of the Commission from 489 to 967 and establish regional offices across the country.
 
-இவ்வளவு பெரிய முன்பண ஒதுக்கீடு அவசியமா என்று டி சில்வா கேள்வி எழுப்பினார், உண்மையான பணியாளர் நிலைகள் மற்றும் உள்கட்டமைப்பு தயார்நிலையுடன் செலவினங்களை சீரமைக்க வேண்டியதன் அவசியத்தை வலியுறுத்தினார். "ஒதுக்கீடுகள் திட்டமிடப்பட்ட வளர்ச்சியை மட்டுமல்ல, உண்மையான செயல்பாட்டுத் தேவைகளையும் பிரதிபலிக்க வேண்டும்," என்று அவர் கூறினார்.
+D Silva questioned whether such a large pre -allocation was necessary, and emphasized the need to rehabilitate the costs with actual staff levels and infrastructure reading. “Allocations should reflect not only the planned growth but also the real functioning requirements,” he said.
 
 ...
 
 [Data](articles/1e55c758.json)
+
+[Extended Data](ext_articles/1e55c758.ext.json)
+
+---
+
+### කරන්දෙණිය ද්විත්ව ඝාතනයේ සැකකරු අල්ලයි
+
+*2025-09-14 11:33:02* · [`adalk`](https://www.ada.lk/breaking_news/කරන්දෙණිය-ද්විත්ව-ඝාතනයේ-සැකකරු-අල්ලයි/11-418482) · `si`
+
+කරන්දෙණිය කොටවෙල නිවසක මව සහ පුතාගේ ඝාතනයේ ප්‍රධාන සැකකරු වන කොටියා කුමාර යන අනවර්ථ නාමයෙන් හඳුන්වන අයෙකු ජීව අත් බෝම්බයක් සමග කොටවෙල කුරුඳු ඉඩමක පාලු නිවසකදී ඊයේ (13)රෑ  අත්අඩංගුවට ගත් බව කරන්දෙණිය පොලීසිය කියයි.
+
+ඝාතනයෙන් පසුව එය වසන් කොට ඔහුට පහසුකම් සැපයු තැනැත්තෙක් ද කොටවෙලදි අත්අඩංගුවට ගැනුනු බවද පොලීසිය කියයි.
+
+සැකකරු ඝාතනය සිදු කොට ඇත්තේ සැප්තැම්බර් මස 11 වැනිදා පස්වරුවේදී බවත් ඔහු විසින් ඝාතනය කොට තිබුණේ කරන්දෙණිය කොටවෙල පදිංචි හැත්තෑපස් හැවිරිදි බොළඳ හකුරු ගුණවතී  නමැත්තිය  සහ ඇයගේ  විසින් දරුකමට හදාගත් විසිපස්  හැවැරිදි චතුරංග දිසානායක නමැති අවිවාහක තීරෝද රථ රියදුරෙක්  බවද පොලීසිය කියයි.
+
+ඝාතනය සිදු කළේ රුපියල් ලක්ෂ පහක කොන්තාත්තුවකට බවත් එම කොන්තාත්තුව ලබා දුන්නේ ඝාතනයට ලක් වූ  කාන්තාවගේ කිට්ටුම ඥාතියෙක් බව සැකකාර කොටිය කුමාර පැවසූ බවද පොලීසිය කියයි.
+
+ඝාතන කොන්තාත්තුව ලබා දුන්නේ යයි කියන පුද්ගලයා පිළිබඳවද පරීක්ෂණ ආරම්භ කළ බවද පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/d398ec5e.json)
 
 ---
 
@@ -137,6 +259,42 @@ The organization urged the minister to ensure that the pledge is not further pos
 [Data](articles/243505ea.json)
 
 [Extended Data](ext_articles/243505ea.ext.json)
+
+---
+
+### Legal action against 900 individuals for selling rice above MRP
+
+*2025-09-14 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112475/legal-action-against-900-individuals-for-selling-rice-above-mrp) · `en`
+
+Nearly 3,000 raids related to rice have been conducted so far this year by the Consumer Affairs Authority.
+
+The Authority stated that a total of around 3,000 raids have been carried out involving various offenses related to rice, including selling rice at high prices, hoarding rice stocks, and selling rice that is unsuitable for consumption.
+
+The Authority further mentioned that over 1,000 of these raids were related to the sale of rice for a higher price than the maximum retail prices announced by the government, and legal action has been taken against more than 900 individuals, producing them before courts.
+
+The Consumer Affairs Authority noted that if a trader is found guilty of selling rice at above maximum retail prices, they may be fined between Rs. 100,000 and Rs. 500,000, or face up to 5 months in prison—or both penalties can be imposed.
+
+Moreover, if a private company is found guilty, a fine ranging from Rs. 500,000 to Rs. 5 million can be imposed.
+
+...
+
+[Data](articles/5f562795.json)
+
+[Extended Data](ext_articles/5f562795.ext.json)
+
+---
+
+### Organized group in Nepal demonstration!
+
+*2025-09-14 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225041) · `ta`
+
+Nature is raising the waves of history and teaching lessons to the future. The latest lesson that it taught is is Nepal's crisis.
+
+◼️
+
+[Data](articles/b2bc6822.json)
+
+[Extended Data](ext_articles/b2bc6822.ext.json)
 
 ---
 
@@ -166,9 +324,57 @@ Accordingly, the National Dangerous Drugs Control Board has been handed over to 
 
 ---
 
+### Nepal’s major parties say dissolved parliament must be reinstated
+
+*2025-09-14 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112473/nepals-major-parties-say-dissolved-parliament-must-be-reinstated) · `en`
+
+Nepal’s major political parties have demanded the country’s president reinstates the parliament he dissolved following deadly anti-corruption protests.
+
+In a statement, eight parties - including the Nepali Congress, CPN-UML and Maoist Centre - said President Ram Chandra Poudel acted unconstitutionally.
+
+Poudel dissolved the House of Representatives on Friday upon the recommendation of newly appointed interim Prime Minister Sushila Karki - it was also a key demand from the protest movement.
+
+More than 50 people were killed in clashes with riot police during this week’s mass protests sparked by a ban on social media platforms. Karki was appointed after a deal was reached with protest leaders.
+
+The ban was lifted on Monday - but by then the protests had swelled into a mass movement. Angry crowds set fire to parliament and government buildings in the capital Kathmandu on Tuesday, forcing then-Prime Minister KP Sharma Oli to resign.
+
+...
+
+[Data](articles/9b3fff6f.json)
+
+[Extended Data](ext_articles/9b3fff6f.ext.json)
+
+---
+
+### About 3 thousand testing activities regarding rice - Consumer Affairs Authority
+
+*2025-09-14 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225035) · `ta`
+
+The Consumer Affairs Authority (CAA) has said that about 3 thousand raids have been carried out in connection with the rice this year.
+
+A variety of trials have been conducted, including the sale of high prices, hiding rice reserves and the sale of rice inappropriate for consumption.
+
+More than a thousand tests have been conducted on the sale of rice at high prices.
+
+The Consumer Affairs Authority (CAA) has said that if a case is filed against a private trader who sells rice at a higher price, he will be fined Rs.
+
+At the same time, if a private company proves guilty, the court may be fined up to Rs 5 lakh to Rs 50 lakh.
+
+Moreover, if the court is proven guilty for the crime of rice storage, the relevant items can be confiscated under the Authority Act.
+
+In the second offense, the Consumer Affairs Authority (CAA) has said that the court can impose twice a fine fines and sentenced the person up to one year.
+
+◼️
+
+[Data](articles/0fa681bd.json)
+
+[Extended Data](ext_articles/0fa681bd.ext.json)
+
+---
+
 ### Special Committee of the Ministry of Justice visited Geneva this week
 
-*2025-09-14 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
+*2025-09-14 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
 
 With the United Nations Human Rights Council's review session, a special committee of the Justice Ministry will visit Geneva this week to participate.
 
@@ -374,21 +580,23 @@ His sweet speech and loving behavior developed confidence in Hema's mind. "Well,
 
 ---
 
-### பழைய முறையின் கீழ் மாகாண சபைத் தேர்தல்
+### சப
 
 *2025-09-14 10:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பழைய-முறையின்-கீழ்-மாகாண-சபைத்-தேர்தல்/150-364533) · `ta`
 
-எல்லை நிர்ணய செயல்முறையில் ஏற்பட்ட கருத்து வேறுபாடுகளால் ஏற்பட்ட முட்டுக்கட்டையைச் சமாளிக்க, பழைய முறையின் கீழ் மாகாண சபைத் தேர்தலை நடத்துவது குறித்து அரசாங்கம் பரிசீலித்து வருவதாக அறியமுடிகின்றது.
+It is known that the government is considering conducting a provincial council election under the old system to overcome the impediment caused by disagreements in the border process.
 
-புதிய எல்லை நிர்ணய செயல்முறை சிக்கலானது நீண்ட காலமாக இருப்பதால், அடுத்த தேர்தலுக்கு 1988 ஆம் ஆண்டு மாகாண சபைத் தேர்தல் சட்டத்திற்கு மாற்றுவதற்கான திட்டம் பரிசீலனையில் இருப்பதாக அரசாங்கத் தகவல்கள் தெரிவிக்கின்றன.
+Government sources say that the new border process complex is long, so that the next election is under consideration for the next election to the Provincial Council Election Act.
 
-"பழைய முறையின் கீழ் கடைசி முறையாக அதை நடத்துவது குறித்து நாங்கள் பரிசீலித்து வருகிறோம், இது எல்லை நிர்ணய செயல்முறையை முடிக்க நேரம் கொடுக்கும், அதன் பிறகு 2017 ஆம் ஆண்டு மாகாண சபைச் சட்டத்தின் கீழ் தேர்தல்களை நடத்த முடியும்," என்று அந்த தகவல் தெரிவித்துள்ளது.
+"We are considering conducting it for the last time under the old system, which will give it time to complete the boundary process, and then hold elections under the Provincial Council Act 2017," the report said.
 
-மாகாண சபைத்  தேர்தலை மேலும் தாமதமின்றி நடத்த அரசாங்கத்தின் மீது அழுத்தம் அதிகரித்து வருகிறது. அதிகாரப் பரவலாக்கலை அர்த்தமுள்ளதாக மாற்றுவதற்காக முன்கூட்டியே தேர்தல் நடத்த வேண்டும் என்று இந்தியாவின் முக்கிய குழு வலியுறுத்துவதால், அரசாங்கத்தின் மீது அழுத்தம் அதிகரித்து வருகிறது
+Pressure on the government is increasing to hold provincial council election without further delay. India's main committee urges the government to hold elections in order to make the devolution of power into meaning, and the pressure on the government is increasing
 
 ...
 
 [Data](articles/5bb371fd.json)
+
+[Extended Data](ext_articles/5bb371fd.ext.json)
 
 ---
 
@@ -605,6 +813,30 @@ However, these are easily affected by natural disasters, climate change risks, b
 [Data](articles/17786db7.json)
 
 [Extended Data](ext_articles/17786db7.ext.json)
+
+---
+
+### Tests confirm substance found in Middeniya contained chemicals used for production of ‘ICE’
+
+*2025-09-14 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112471/tests-confirm-substance-found-in-middeniya-contained-chemicals-used-for-production-of-ice) · `en`
+
+Authorities have uncovered chemicals used for the production of ‘ICE’ narcotics after tests conducted by the National Dangerous Drugs Control Board (NDDCB) on the contents of the container discovered in Middeniya recently.
+
+This was revealed after the National Dangerous Drugs Control Board submitted its report to Police on the stocks of chemicals discovered in Middeniya.
+
+Accordingly, the report of the board revealed that 17 out of the 20 samples from Middeniya were found to contain chemicals used to produce ‘ICE’ or
+
+On September 5, authorities uncovered a consignment of chemical substances at a residence in Thalawa, Middeniya.
+
+These chemicals, imported for the production of ‘ICE’ in Sri Lanka, were found buried during an operation conducted by the Western North Crime Division.
+
+The total quantity of chemicals discovered was estimated at around 50,000 kilograms.
+
+...
+
+[Data](articles/8f2702d4.json)
+
+[Extended Data](ext_articles/8f2702d4.ext.json)
 
 ---
 
@@ -1881,241 +2113,5 @@ The Ministry of External Affairs points out that some Sri Lankans who are in the
 [Data](articles/5a3a0222.json)
 
 [Extended Data](ext_articles/5a3a0222.ext.json)
-
----
-
-### Northern Korea's death sentence up
-
-*2025-09-13 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214526) · `si`
-
-According to UN High Commissioner for Human Rights, the implementation of death penalty has increased significantly.
-
-The number of people who are sentenced to death has increased significantly to the death penalty of the death penalty in relation to events, especially on foreign film and television television teledramas.
-
-It is said that the North Korean people have implemented strict rules in the past decade to prevent the North Korean to prevent the external world.
-
-The United Nations High Commission has pointed out that there is no other country in the present rules in the present country.
-
-◼️
-
-[Data](articles/4214197a.json)
-
-[Extended Data](ext_articles/4214197a.ext.json)
-
----
-
-### Dowry cruelty? Hansika will soon be arrested
-
-*2025-09-13 15:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/வரதட்சணை-கொடுமை-விரைவில்-கைதாகும்-ஹன்சிகா/54-364501) · `ta`
-
-The court has refused to cancel the case filed by the police against actress Hansika Motwani. Police are planning to investigate actress Hansika in the Nathanar brutal case.
-
-Hansika's wedding took place in 2022 at the Jaipur Palace. Within 10 days after Hansika's marriage, his brother Prashant Motwani applied for divorce due to disagreement with his wife.
-
-Hansika's brother Prashant married a woman named Muskan Nancy James in 2021. They split up in a single year.
-
-Hansika Motwani and Mother Mena Motwani have complained at the Mumbai police station that they are both obstacle even though they have decided to live with her husband.
-
-Based on Muskan's complaint, Hansika, her brother Prashant and her mother Mena Motwani have been booked at the Amboli police station in Mumbai.
-
-Hansika and her mother Mena granted bail from the Mumbai Session Court last February. Following this, Hansika and her mother filed a petition in the Mumbai High Court demanding the cancellation of the case.
-
-...
-
-[Data](articles/d990ec0e.json)
-
-[Extended Data](ext_articles/d990ec0e.ext.json)
-
----
-
-### නේපාලයේ නව අන්තර්කාලීන අගමැතිනියට ජනපතිගෙන් සුබ පැතුම්
-
-*2025-09-13 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214525) · `si`
-
-President Anura Kumara Dissanayake has been greeted by President Anura Kumara Dissanayake who was appointed as the Prime Minister of Nepal.
-
-President Anura Kumara Dissanayake said that he believes that he would be able to restore permanent peace and democracy in Nepal with her leadership.
-
-◼️
-
-[Data](articles/40222ef4.json)
-
-[Extended Data](ext_articles/40222ef4.ext.json)
-
----
-
-### Traffic restrictions on Colombo-Galle main road at Wadduwa
-
-*2025-09-13 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112459/traffic-restrictions-on-colombo-galle-main-road-at-wadduwa) · `en`
-
-Police have issued a notice regarding traffic restrictions on the Colombo-Galle Main Road in the Wadduwa are due to the annual ‘Sri Dalada Perahera’ of the Daladawatta Purana Maha Viharaya in Thalpitiya, Wadduwa.
-
-The Perahera is scheduled to commence tonight (13), featuring nearly 100 performances including traditional dance troupes and elephants. A large number of devotees are expected to attend, according to police.
-
-During the Perahera’s procession, from 7:00 p.m. today (13 September) to 1:00 a.m. tomorrow (14 September), heavy traffic congestion is expected along the Colombo-Galle Main Road in the Wadduwa Police Division.
-
-Accordingly, motorists and the general public are advised to use the following alternative routes:
-
-• From the Panadura Clock Tower, proceed to Bandaragama via Alubomulla on the Horana Road.
-
-• At the Bandaragama Junction, turn right onto Moronthuduwa Road, then turn left at Wadiyamankada Junction and proceed towards Galle via Kalutara.
-
-...
-
-[Data](articles/6ac8baac.json)
-
-[Extended Data](ext_articles/6ac8baac.ext.json)
-
----
-
-### Special operation island wide
-
-*2025-09-13 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214524) · `si`
-
-At the same day, 232 warrants have been arrested by the police in the island-wide raids for the prevention of crime and drug prevention.
-
-At least 17 people have been arrested in connection with the suspects, 172 warrants and 152 open warrants, 232 warrants and open warrants.
-
-In addition, 34 drunken drivers have been arrested for insulting unrespective driving.
-
-The Law has been launched for 3709 persons concerned with other traffic mistakes.
-
-Accordingly, 26,985 persons have been inspected in the island yesterday.
-
-◼️
-
-[Data](articles/8725deea.json)
-
-[Extended Data](ext_articles/8725deea.ext.json)
-
----
-
-### Major announcement for motorists who use the Colombo -Galle main road!
-
-*2025-09-13 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225002) · `ta`
-
-A key notice has been issued for motorists who use the Colombo -Galle main road.
-
-Traffic has been controlled on the Colombo -Galle main road due to the Annual Talada Perahera at the Sri Thaladawatta Vihara in Vatuwa, Talpitiya.
-
-The Perahera procession is to be held on Saturday (13) on the Colombo -Galle Main Road.
-
-Therefore, heavy traffic congestion on the Colombo -Galle main road in the Datuwa Police Division during the procession from 7:00 pm to 1:00 am today (13).
-
-Go to the Bandaragama Junction on Moronduduwa Road from the Panadura Manikku Tower to Horana Road, and go to the left of the Bandaragama junction to the left of the Mangada junction to the left of the Kalutara via Kalutara.
-
-Go to Bandaragama Junction to Bandaragama Junction to Bandaragama Junction to Moronduduwa road from Vadiyai Mangada Junction, which belongs to the Kalutara North Police Division, and go to the right to Panadura.
-
-◼️
-
-[Data](articles/6c82c945.json)
-
-[Extended Data](ext_articles/6c82c945.ext.json)
-
----
-
-### Curfew in Nepal will be removed
-
-*2025-09-13 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214523) · `si`
-
-The curfew was taken to remove the curfew from the 13th morning due to protests in Nepal from today.
-
-According to foreign media reports, the daily people's life is being restored today, according to foreign media.
-
-Former Chief Justice, a former Chief Justice of the Nepal Karti, has resulted in the reality of the country yesterday (12).
-
-Mass protests have been carried out throughout the country against the government's actions to impose restrictions on social media.
-
-Curfew was imposed to control it. However, during the protests, 51 people were killed.
-
-◼️
-
-[Data](articles/8c6d75a9.json)
-
-[Extended Data](ext_articles/8c6d75a9.ext.json)
-
----
-
-### The construction industry should be made in the field
-
-*2025-09-13 14:54:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-විධිමත්භාවයක්-ඇති-කළ-යුතුයි/11-418475) · `si`
-
-The presidential discussion of the respective budget proposals between the President, Anura Kumara Dissanayake and the construction industry associated with the construction industry was held in the presidential election.
-
-The discussion was held aimed at enhancing the contribution to the economy by exporting the construction work and the export of electric cables.
-
-He stressed that the proposal was aimed at creating the economic environment where the construction industry would grow outside the construction industry.
-
-The government was focused on how the government could resolve the problems and problems in the construction industry and the government was informed by the heads of the field.
-
-Senior Additional Secretary to the Presidential Additional Secretary, Russell Arotess, Chairman of the Ministry of Finance, Senior Officials of the Ministry of Finance, Heads of Construction Sector and Electric Cable Products
-
-◼️
-
-[Data](articles/f184c2bc.json)
-
-[Extended Data](ext_articles/f184c2bc.ext.json)
-
----
-
-### பஸ்களில் அலங்கார பொருட்களுக்கு தடை
-
-*2025-09-13 14:52:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-அலங்கார-பொருட்களுக்கு-தடை/175-364500) · `ta`
-
-On June 2, 2023, a circular was issued by the Department of Motor Vehicle Transport, allowing passengers to be installed in buses.
-
-But the circular was canceled on September 9, 2025.
-
-◼️
-
-[Data](articles/bb597868.json)
-
-[Extended Data](ext_articles/bb597868.ext.json)
-
----
-
-### Woman dies mysteriously dead
-
-*2025-09-13 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214522) · `si`
-
-A woman has died in a Veditittagolla area in Dambulla.
-
-Dambulla Police have launched an investigation into a complaint lodged by the Dambulla Police that the woman had died suddenly.
-
-The deceased is a management service officer of the Galewela Zonal Education Office and she has lived in the house with her husband and the five-year-old boy.
-
-It was revealed that the husband was about to sleep at 4.00 pm and was not speaking at the time of the afternoon and that she was preparing to sleep at 4.00 pm.
-
-However, he later said that the deceased was revealed that she had been told that she had died when she was revealed to be identified as her death.
-
-The post mortem examination of the deceased woman is due to be held and the incident is to be held in the future of the Next Magistrate.
-
-◼️
-
-[Data](articles/19934385.json)
-
-[Extended Data](ext_articles/19934385.ext.json)
-
----
-
-### Notice to drivers on Colombo-Galle main road
-
-*2025-09-13 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214521) · `si`
-
-The police have not inscribed the traffic traffic due to the Annual Dalage Perhera of Sri Galadawawatta, Sri Galadawawatta Ancient Temple.
-
-Nearly 100 elements of this procession elephants have been aligned and the arrival of a large number of devotees to the Perahera is expected to visit the procession.
-
-Therefore, the Perahera will take place in Colombo - Galle-Galle main road to the streets from 07.00 pm to 1.00 pm today (14).
-
-At the Monerater road in Horana Road, near Aluthgama road near the Panadura route, Vaduvanta junds can go to the Vodunamaduwa road.
-
-Valley in Kalutara North Police Vages, South Morontuduwa route to the Morotuna junction to Bandaragama and turns to the Panadura to Panadura and turn towards the Panadura Clock Station Junction.
-
-◼️
-
-[Data](articles/83044d5f.json)
-
-[Extended Data](ext_articles/83044d5f.ext.json)
 
 ---

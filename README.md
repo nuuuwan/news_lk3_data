@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 18:55:14**
+As of **2025-09-14 19:54:06**
 
 ## Newspaper Stats
 
-*Scraped **75,923** Articles*
+*Scraped **75,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,131 @@ economynextcom | 4,598
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,370
-adaderanalk | 9,765
-tamilmirrorlk | 11,358
-virakesarilk | 12,372
-adaderanasinhalalk | 13,246
+adalk | 7,372
+adaderanalk | 9,767
+tamilmirrorlk | 11,360
+virakesarilk | 12,374
+adaderanasinhalalk | 13,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,095 (93.6%) of 75,923 articles have been extended.
+71,146 (93.7%) of 75,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### දිවිබල සංවර්ධන ණය ව්‍යාපෘතියේ අක්‍රමිකතා විගණනයෙන් හෙළිවෙයි
+
+*2025-09-14 19:26:19* · [`adalk`](https://www.ada.lk/breaking_news/දිවිබල-සංවර්ධන-ණය-ව්‍යාපෘතියේ-අක්‍රමිකතා-විගණනයෙන්-හෙළිවෙයි/11-418491) · `si`
+
+දකුණු පළාත් සංවර්ධන අධිකාරියේ  දකුණු පළාත් ව්‍යවසායකත්ව දිවිබල සංවර්ධන ණය  ව්‍යාපෘතියේ කුවිතාන්සි 13ක  අනුක්‍රමික අංක පිළිවෙළ  වංචනික ලෙස වෙනස්කරමින් ණය ලැබිම්වලින් රුපියල් එක්ලක්ෂ, හතලිස්නමදහසක් (149,000)  මුදලක් අවභාවිතාකොට ඇති බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+
+මේ සම්බන්දයෙන් විෂය නිලධාරිනියට අදාළව 2023 වර්ෂයේ  ජුනි 09 වැනිදින  මුලික විමර්ශන කමිටුවක් පත්කර තිබුණද 2024 වර්ෂයේ සැප්තැම්බර් ම දක්වාම අදළාව වාර්තාව ඉදිරිපත් කිරිමට කටයුතු කර නොමැති බවද විගණනය මගින් අනාවරණය කොට ඇත.
+
+දිවිබල සංවර්ධන ණය ව්‍යාපෘතිය යටතේ 2022 වර්ෂයේ ඔක්තෝබර් මස 31 දිනට මුදල් පොත අනුව  ලැබිම් සහ පරිඝණක වැඩසටහන් අනුව  රුපියල් විසිතුන්ලක්ෂ, හතලිස්හත්දහස්, හාරසියදාහතරක(2,347,414)  වෙනසක් පැවති බවද විගණන වාර්තාවේ සදහන් වේ.
+
+දකුණු පළාත් සංවර්ධන අධිකාරිය විසින් විගණනයට සදහන් කොට ඇත්තේ  විෂය නිලධාරිනියට අදාළව  මුලික විමර්ශනයක් සිදුකර  ඒ අනුව ඉදිරි කටයුතු සිදුකිරිමට  අධ්‍යක්ෂක මණ්ඩලය තිරණයක් ලබාදෙන බව දැනුම් දි ඇති බවය.
+
+...
+
+[Data](articles/6c995d55.json)
+
+---
+
+### Glue invention
+
+*2025-09-14 19:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முறிந்த-எலும்புகளை-மூன்றே-நிமிடத்தில்-ஒட்ட-வைக்கும்-பசை-கண்டுபிடிப்பு/50-364572) · `ta`
+
+Chinese scientists have said that they have created a glue that has been pasted in three minutes.
+
+Doctors are treated in today's modern medicine industry depending on the nature of the osteoarthritis. Sometimes surgery is used to add break bones/use metallic metal. Removal of the metal fitted after the bone is removed by surgery. For some people, the metal remains intact with the bone in the body.
+
+In this context, it has been reported that scientists from China have created glue that pasted bones. Doctors from the Jejiang Province in the eastern part of China have created it. Orthopedic surgeon, Lynn Xianpeng, said the ophthalmologist had received the idea of ​​making the bone after noticing that oysters were stuck in some places underwater.
+
+...
+
+[Data](articles/199d7210.json)
+
+[Extended Data](ext_articles/199d7210.ext.json)
+
+---
+
+### Member of Parliament Gnanamuthu Srinasan
+
+*2025-09-14 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225082) · `ta`
+
+Batticaloa District Parliamentarian Gnanamuttu Srinesan was injured in a car accident today (14).
+
+The accident occurred when he was returning to Batticaloa while attending a party meeting in Ampara and crashed into another vehicle with another vehicle in Kaluwanchikudi.
+
+The MP who was injured in the accident was immediately taken to Batticaloa Teaching Hospital. It is reported that he is currently undergoing treatment of doctors.
+
+In this case, the Kaluwanchikudi police have begun investigations into the incident. More information has not yet been released on how the accident occurred.
+
+◼️
+
+[Data](articles/36f32167.json)
+
+[Extended Data](ext_articles/36f32167.ext.json)
+
+---
+
+### Former World Boxing Champion Ricky Hatton has passed away
+
+*2025-09-14 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225081) · `ta`
+
+Former World Boxing Champion Ricky Hatton passed away at his home on Sunday 14th.
+
+Ricky Hatton, who is 42 years old at the time of his death, has won many Light-Vetervite and Welterwide World Championships in her 15-year-old boxing life.
+
+What is unique is that he has recorded knockout wins in 32 matches.
+
+It is noteworthy that Ricky Hatton finally participated in a boxing match in 2012.
+
+◼️
+
+[Data](articles/c9dd6db3.json)
+
+[Extended Data](ext_articles/c9dd6db3.ext.json)
+
+---
+
+### MP Gnanamal suffers an accident
+
+*2025-09-14 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214568) · `si`
+
+Mr. Gnanamuttu Sivawan, Mr. Gnanamuttu Srinane, was injured in an accident.
+
+The MP was in charge of the party today (14) and returned to Batticaloa and returned to Batticaloa.
+
+It is reported that the accident had occurred in the Kalawanchikudi vehicle.
+
+◼️
+
+[Data](articles/0f859e24.json)
+
+[Extended Data](ext_articles/0f859e24.ext.json)
+
+---
+
+### Mosquito like beer drinking
+
+*2025-09-14 18:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/பீர்-குடித்தால-கொசுவுக்கு-பிடிக்குமாம்/53-364571) · `ta`
+
+A study conducted by Radbound University Medical Center that mosquitoes are more attracted to the sweat smell of beer drinkers;
+
+Researchers say that mosquitoes are likely to get bite for the first 12 hours of beer drinkers
+
+◼️
+
+[Data](articles/8133b0e9.json)
+
+[Extended Data](ext_articles/8133b0e9.ext.json)
+
+---
 
 ### Ex-World Boxing Champion Ricky Hatton passes away
 
@@ -53,6 +163,42 @@ Ricky Hatton was the last boxing competition in 2012.
 [Data](articles/9ecdbb88.json)
 
 [Extended Data](ext_articles/9ecdbb88.ext.json)
+
+---
+
+### Parliamentarian Gnanamuththu Srineshan injured in an accident
+
+*2025-09-14 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112495/parliamentarian-gnanamuththu-srineshan-injured-in-an-accident) · `en`
+
+Illankai Tamil Arasu Kadchi (ITAK) Batticaloa District Member of Parliament Gnanamuththu Srineshan has sustained injuries in an accident.
+
+Accordingly, he has been admitted to the Batticaloa Teaching Hospital.
+
+He met with the accident in Kaluvanchikudy while returning to Batticaloa in his vehicle after attending a political party meeting.
+
+◼️
+
+[Data](articles/aeda1b35.json)
+
+[Extended Data](ext_articles/aeda1b35.ext.json)
+
+---
+
+### පොලිසියේ නඩු භාණ්ඩ ලෙස තිබූ තේක්ක කොට 12ක්  වඩුමඩුවක් අසල කැළෑවකට ගිහින්
+
+*2025-09-14 17:43:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-නඩු-භාණ්ඩ-ලෙස-තිබූ-තේක්ක-කොට-12ක්--වඩුමඩුවක්-අසල-කැළෑවකට-ගිහින්/11-418489) · `si`
+
+පදියතලාව  පොලිසියේ නඩු භාණ්ඩ වශයෙන්  තිබූ තේක්ක කඳන් දොළහක් අධිකරණට ඉදිරිපත් නොකර පදියතලාව වඩුමඩුවකට රැගෙන ගොස්  කැළෑවක සඟවා ගෙන සිටියදී පසුගිය 11 වැනිදා හවස අම්පාර කොට්ඨාස භාර දූෂණ මර්දන අංශයේ නිලධාරින් පිරිසක් විසින් අත්අඩංගුවට ගත් සැකකරුවන් හය දෙනෙකු දෙහිඅත්තකණ්ඩිය මහේස්ත්‍රාත් අධිකරණයෙන් ඇප මත මුදාහැර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් අම්පාර ජේෂ්ඨ පොලිස් අධිකාරි සුජිත් වෙදමුල්ල මහතාගේ මූලිකත්වයෙන් පරීක්ෂණයක් ආරම්භ කර ඇති අතර  මේ දැව කඳන් පොලිසියෙන් පිට කිරීම සම්බන්ධයෙන් පදියතලාව පොලිසියේ කොස්තාපල් සිවු දෙනෙකුට ස්ථාන මාරු ලබා දී ඇත.
+
+මේ සම්බන්ධයෙන් උසස් පොලිස් නිලධාරියෙකු පැවසුවේ මෙම ස්ථාන මාරු ලබා දී ඇත්තේ මෙම පරීක්ෂණ කටයුතු විධිමත්ව  පැවැත්වීම සදහා බවයි. තවත් පොලිස් නිලධාරින් කිහිප දෙනෙකුගෙන්  කට උත්තර සටහන් කර ගනිමින් සිටින බවද පැවසීය.
+
+පදියතලාව  පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක රෝහිත ගුණසේන මෙම සිදුවීම සිදුවන අවස්ථාවේ පොලිසියෙන් බැහැරව සිටි බවද මෙම අවස්ථාවේ වැඩ බැලීම සදහා උප පොලිස් පරීක්ෂක වීරකෝන් නැමැති අයෙකි.
+
+...
+
+[Data](articles/696a4f7b.json)
 
 ---
 
@@ -115,6 +261,24 @@ However, information about the injuries or property has not been reported.
 [Data](articles/97110ed5.json)
 
 [Extended Data](ext_articles/97110ed5.ext.json)
+
+---
+
+### Accomplice of ‘Backhoe Saman’ arrested with firearm remanded
+
+*2025-09-14 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112494/accomplice-of-backhoe-saman-arrested-with-firearm-remanded) · `en`
+
+An accomplice of underworld figure ‘Backhoe Saman’, who was arrested yesterday (13) along with a T-81 assault rifle, has been remanded, Ada Derana reporter said.
+
+The individual was arrested by the North Western Crimes Division in Embilipitiya on charges of transporting and being in possession of a firearm of ‘Backhoe Saman’.
+
+Police have identified the suspect as a resident of the Gangeyaya area in Embilipitiya.
+
+During the arrest, police recovered a T81-type firearm, 97 bullets, two magazines and a military uniform from his possession.
+
+◼️
+
+[Data](articles/4b4258b0.json)
 
 ---
 
@@ -1899,195 +2063,5 @@ His sweet speech and loving behavior developed confidence in Hema's mind. "Well,
 [Data](articles/814a7f93.json)
 
 [Extended Data](ext_articles/814a7f93.ext.json)
-
----
-
-### சப
-
-*2025-09-14 10:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பழைய-முறையின்-கீழ்-மாகாண-சபைத்-தேர்தல்/150-364533) · `ta`
-
-It is known that the government is considering conducting a provincial council election under the old system to overcome the impediment caused by disagreements in the border process.
-
-Government sources say that the new border process complex is long, so that the next election is under consideration for the next election to the Provincial Council Election Act.
-
-"We are considering conducting it for the last time under the old system, which will give it time to complete the boundary process, and then hold elections under the Provincial Council Act 2017," the report said.
-
-Pressure on the government is increasing to hold provincial council election without further delay. India's main committee urges the government to hold elections in order to make the devolution of power into meaning, and the pressure on the government is increasing
-
-...
-
-[Data](articles/5bb371fd.json)
-
-[Extended Data](ext_articles/5bb371fd.ext.json)
-
----
-
-### சப
-
-*2025-09-14 10:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-முறையின்-கீழ்-மாகாண-சபைத்-தேர்தல்/175-364533) · `ta`
-
-It is known that the government is considering conducting a provincial council election under the old system to overcome the impediment caused by disagreements in the border process.
-
-Government sources say that the new border process complex is long, so that the next election is under consideration for the next election to the Provincial Council Election Act.
-
-"We are considering conducting it for the last time under the old system, which will give it time to complete the boundary process, and then hold elections under the Provincial Council Act 2017," the report said.
-
-Pressure on the government is increasing to hold provincial council election without further delay. India's main committee urges the government to hold elections in order to make the devolution of power into meaning, and the pressure on the government is increasing
-
-...
-
-[Data](articles/a833b58b.json)
-
-[Extended Data](ext_articles/a833b58b.ext.json)
-
----
-
-### "PACIFICL 2025" training exercise concludes
-
-*2025-09-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214547) · `si`
-
-"PACIFICAL ANGEL 2025" has been successfully completed with the participation of many countries.
-
-The training exercise has been successfully completed at the Sri Lanka Air Force Base of the Sri Lanka Air Force Base in Katunayake.
-
-The training exercise was held in a number of countries with the participation of the Sri Lanka Air Force and the United States Embassy.
-
-Secretary Defense Air Vice Marshal Resources (Pension Marshal Sudha), Sri Lanka and Air Force Commander of the Air Force, Air Marshal Bandha (PSC Air Marshal Bandu Edirisinghe) was attended by the Defense Secretary (Pension) for the event.
-
-◼️
-
-[Data](articles/b81882e5.json)
-
-[Extended Data](ext_articles/b81882e5.ext.json)
-
----
-
-### Hotel Manager Massacre: 3 Police for 7 years
-
-*2025-09-14 10:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-முகாமையாளர்-படுகொலை-3-பொலிஸாருக்கு-7-வருட-கடூழிய-சிறை/175-364531) · `ta`
-
-Ponnaruwa High Court judge sentenced three policemen to a 7 -year -old jail on Friday (12). .
-
-The Polonnaruwa District Narcotics Police Division, led by the Inspector of Police in 2004, raided a hotel in a hotel and searched for illegal liquor.
-
-Subsequently, the four policemen were arrested and produced in court, remanded and later released on bail and they were suspended.
-
-Police Inspector Vasantha has died of the disease as the case is being heard in the Polonnaruwa High Court.
-
-Following this, the other three policemen reunited in January 2025 and one of them was transferred to the Batticaloa Police Superintendent's Office and two other police stations in other districts.
-
-When the case was taken up in the Supreme Court on Friday (12), three policemen and three judges were sentenced to seven years rigorous imprisonment after witnesses and evidence were found guilty.
-
-Subsequently, the three were taken to the Polonnaruwa Prison.
-
-◼️
-
-[Data](articles/0b31c39a.json)
-
-[Extended Data](ext_articles/0b31c39a.ext.json)
-
----
-
-### The renovation work of the Colombo - Maradana Railway Station begins tomorrow
-
-*2025-09-14 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225027) · `ta`
-
-The renovation work of the Colombo - Maradana Railway Station will commence on the 15th of September.
-
-Maradana is considered the second largest railway station in Colombo. Accordingly, it is one of the oldest railway stations in the country.
-
-Was first built of wood in 1889. It carried out activities on the Kandy and southern routes.
-
-Due to the difficulties of activities at the Colombo Fort Railway Station, the relevant operations are said to have been transferred to the Maradana railway station.
-
-It is reported that a permanent building was opened on July 12, 1893.
-
-Accordingly, the current Maradana Railway Station was opened on November 9, 1908.
-
-It is expected that the passenger facilities will be upgraded and the infrastructure facilities will be modernized while protecting the heritage of the railway station.
-
-◼️
-
-[Data](articles/70ed93e4.json)
-
-[Extended Data](ext_articles/70ed93e4.ext.json)
-
----
-
-### Health Minister announces launch of 100 Community Health Centres  this year
-
-*2025-09-14 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112472/health-minister-announces-launch-of-100-community-health-centres-this-year) · `en`
-
-Health Minister Nalinda Jayatissa has announced that a series of community health centres will soon be launched to provide early diagnosis, treatment, and follow-up care, as well as referrals to hospitals for further treatment. These centres aim to bring healthcare services closer to the public.
-
-Accordingly, starting from September 26, ten health centres will be opened as part of a pilot project across five districts, Minister Nalinda stated.
-
-He shared these plans while participating in the “Aarogya” mobile wellness programme held in the Eheliyagoda Divisional Secretariat Division of Ratnapura District.
-
-He added that during this year, foundations will be laid for 100 new health centres, and over the next three years, 1000 wellness centres are expected to cover the population.
-
-Highlighting the current challenge of non-communicable diseases (NCDs), the Minister said that the Aarogya wellness centres aim to protect the public by providing regular treatments.
-
-...
-
-[Data](articles/3a76cc8e.json)
-
-[Extended Data](ext_articles/3a76cc8e.ext.json)
-
----
-
-### “Pacific Angel ௨௦௨௫”
-
-*2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
-
-The "Pacific Angel 2025" training began on Monday (08) and successfully ended on the “East (12) (12th). The closing ceremony of the training held at the US Embassy in Sri Lanka, Katunayake, in partnership with the Sri Lanka Air Force (SLAF) and the Ministry of Defense.
-
-Defense Secretary Air Vice Marshal Sampath (Retired), US Ambassador Julie Sung and Air Force Commander Air Marshal Ball Edizinga attended the function.
-
-Pacific Angel 2025. The training was held with the participation of the Sri Lankan Army and the Navy, including the US Pacific forces, the Royal Australian Air Force, the Japanese Air Self-Security Force, the Maldives National Security Force and the Bangladesh Air Force.
-
-...
-
-[Data](articles/516b6382.json)
-
-[Extended Data](ext_articles/516b6382.ext.json)
-
----
-
-### Plan to test remote buses!
-
-*2025-09-14 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225024) · `ta`
-
-The government is planning to make basic quality testing before all the distant buses start operating.
-
-Initially, it is planned to be implemented under the supervision of the National Transport Commission, focusing on the Bestian Mawatha and the Maumbura Multimedal Transport Base in Colombo.
-
-It has also been reported that no long -distance tour buses will be recognized without this quality test.
-
-Buses traveling over 100 kilometers must obtain a qualifying certificate 48 hours before starting their movement.
-
-The Department of Motor Transport is currently taking steps to publish the necessary steps through a circular.
-
-When this process is extended throughout the country, the Motor Transport Department examines vehicle repairs, conducting related inspections and issuing a qualifying certificate.
-
-◼️
-
-[Data](articles/fb3bf2b9.json)
-
-[Extended Data](ext_articles/fb3bf2b9.ext.json)
-
----
-
-### NDDCB handed over records of chemicals found in Midden
-
-*2025-09-14 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214546) · `si`
-
-The National Dangerous Drugs Control Board has handed over the record of containers that contain chemicals used to produce ice to produce ice.
-
-◼️
-
-[Data](articles/08e555ab.json)
-
-[Extended Data](ext_articles/08e555ab.ext.json)
 
 ---

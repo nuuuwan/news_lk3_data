@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 13:05:43**
+As of **2025-09-14 12:53:53**
 
 ## Newspaper Stats
 
-*Scraped **75,861** Articles*
+*Scraped **75,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,17 @@ adalk | 7,364
 adaderanalk | 9,750
 tamilmirrorlk | 11,341
 virakesarilk | 12,363
-adaderanasinhalalk | 13,234
+adaderanasinhalalk | 13,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,849 (93.4%) of 75,861 articles have been extended.
+70,829 (93.4%) of 75,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### මිලියන 210ක රන් බිස්කට් සමග ගුවන්තොටුපොළ සේවකයෙක් කොටුවෙයි
-
-*2025-09-14 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214553) · `si`
-
-රුපියල් මිලියන 210කට අධික වටිනාකමකින් යුත් රන් බිස්කට් තොගයක් නීති විරෝධීව රැගෙන යාමට උත්සාහ කළ බව කියන ශ්‍රී ලංකා ගුවන් තොටුපළ සහ ගුවන් සේවා හී කාර්ය මණ්ඩල සාමාජිකයෙකු අත්අඩංගුවට ගත් බව ශ්‍රී ලංකා රේගුව පවසයි.
-
-54 හැවිරිදි මෙම පුද්ගලයා බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේ කාර්ය මණ්ඩල පිවිසුමේදී අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔහු සතුව කැරට් 24ක රන් බිස්කට් කිලෝ 5.94ක් තිබී රේගු භාරයට ගෙන තිබේ.
-
-සැකකරු විසින් ඔහුගේ මේස් මත සඟවා මෙම රන් බිස්කට් තොගය ගුවන් තොටුපළ පරිශ්‍රයෙන් පිට කිරීමට තැත් කර ඇති බවද රේගුව පැවසීය.
-
-◼️
-
-[Data](articles/63f72384.json)
-
----
-
-### හිස, දෙඅත් සහ කකුල් නොමැති මළ සිරුරක් හමුවෙයි
-
-*2025-09-14 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214554) · `si`
-
-මාරවිල මූදු කටුව වෙරළ තීරයට මළ සිරුරක් ගොඩ ගසා ඇති බවට අද පැමිණිල්ලකට අනුව මාරවිල පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
-
-එම මළ සිරුරේ හිස, දෙඅත් සහ කකුල් තිබී නොමැති අතර නිල් පැහැති කොට කලිසමක් සහිත ශරීරයේ එක් කොටසක් පමණක් ඉතිරිව තිබූ බව පොලීසිය පැවසුවේය.
-
-පොලීසිය සැක පළ කරන්නේ අදාළ මළ සිරුර පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් විය හැකි බවය.
-
-කෙසේ වෙතත් මාරවිල වැඩබලන මහේස්ත්‍රාත්වරයා විසින් මූලික පරීක්ෂණ සිදු කිරීමට නියමිත අතර මාරවිල පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/b007e707.json)
-
----
 
 ### People! Be careful today
 
@@ -254,25 +220,23 @@ D Silva questioned whether such a large pre -allocation was necessary, and empha
 
 ---
 
-### Karandeniya double murder suspect arrested
+### කරන්දෙණිය ද්විත්ව ඝාතනයේ සැකකරු අල්ලයි
 
 *2025-09-14 11:33:02* · [`adalk`](https://www.ada.lk/breaking_news/කරන්දෙණිය-ද්විත්ව-ඝාතනයේ-සැකකරු-අල්ලයි/11-418482) · `si`
 
-The mother of Kotiyaka Kumara, the main suspect in the uncons of mother and son of the death of the Kotawela House of Karandeniya, has been arrested by the Karandeniya police.
+කරන්දෙණිය කොටවෙල නිවසක මව සහ පුතාගේ ඝාතනයේ ප්‍රධාන සැකකරු වන කොටියා කුමාර යන අනවර්ථ නාමයෙන් හඳුන්වන අයෙකු ජීව අත් බෝම්බයක් සමග කොටවෙල කුරුඳු ඉඩමක පාලු නිවසකදී ඊයේ (13)රෑ  අත්අඩංගුවට ගත් බව කරන්දෙණිය පොලීසිය කියයි.
 
-The police say that after the assassination, a person who facilitates him is also arrested in Kota.
+ඝාතනයෙන් පසුව එය වසන් කොට ඔහුට පහසුකම් සැපයු තැනැත්තෙක් ද කොටවෙලදි අත්අඩංගුවට ගැනුනු බවද පොලීසිය කියයි.
 
-He was killed after September 11, a resident of Seventy-five year old residents of Karandeniya on September 11, police said.
+සැකකරු ඝාතනය සිදු කොට ඇත්තේ සැප්තැම්බර් මස 11 වැනිදා පස්වරුවේදී බවත් ඔහු විසින් ඝාතනය කොට තිබුණේ කරන්දෙණිය කොටවෙල පදිංචි හැත්තෑපස් හැවිරිදි බොළඳ හකුරු ගුණවතී  නමැත්තිය  සහ ඇයගේ  විසින් දරුකමට හදාගත් විසිපස්  හැවැරිදි චතුරංග දිසානායක නමැති අවිවාහක තීරෝද රථ රියදුරෙක්  බවද පොලීසිය කියයි.
 
-Kumara said that the assassination was a close relative of the victim, a woman was a woman who was murdered.
+ඝාතනය සිදු කළේ රුපියල් ලක්ෂ පහක කොන්තාත්තුවකට බවත් එම කොන්තාත්තුව ලබා දුන්නේ ඝාතනයට ලක් වූ  කාන්තාවගේ කිට්ටුම ඥාතියෙක් බව සැකකාර කොටිය කුමාර පැවසූ බවද පොලීසිය කියයි.
 
-Police also commenced investigations into the man who was named the killing of murders.
+ඝාතන කොන්තාත්තුව ලබා දුන්නේ යයි කියන පුද්ගලයා පිළිබඳවද පරීක්ෂණ ආරම්භ කළ බවද පොලීසිය කියයි.
 
 ◼️
 
 [Data](articles/d398ec5e.json)
-
-[Extended Data](ext_articles/d398ec5e.ext.json)
 
 ---
 
@@ -2105,5 +2069,49 @@ At this time Anuruddha Ratwatte had emerged as the “strong man” of the SLFP.
 [Data](articles/1b89bc7e.json)
 
 [Extended Data](ext_articles/1b89bc7e.ext.json)
+
+---
+
+### Special surrounding operation nationwide!
+
+*2025-09-13 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225004) · `ta`
+
+The police media unit further stated that a special roundup was carried out on Friday (12) across the country.
+
+In the meantime, 639 suspects, 17 persons directly identified on various crimes, 232 persons have been issued and 152 have been arrested.
+
+In addition, 34 persons have been arrested in connection with the driver of the liquor and 33 for negligence.
+
+According to the Police Media Unit, legal action has been taken against 3 thousand 709 people in connection with other transport crimes.
+
+Accordingly, 26 thousand 985 people have been raided during the roundabout carried out yesterday.
+
+◼️
+
+[Data](articles/d6b16002.json)
+
+[Extended Data](ext_articles/d6b16002.ext.json)
+
+---
+
+### It is information that there are 13 Sri Lankans in Myanmar Crime camps
+
+*2025-09-13 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214527) · `si`
+
+According to the Ministry of External Affairs, 13 other Sri Lankans have been detained in Myanmar criminal camps.
+
+According to its media spokesman Thushara Rodrigo, has reported that a group of tourist visas had been detained in the cyber camp.
+
+The cyber bases are controlled near Myanmar's Miyark area and a large number of Sri Lankans were in the campers.
+
+Steps were taken to bring the people to the country after a severe effort by the intervention of embassies.
+
+The Ministry of External Affairs points out that some Sri Lankans who are in the computer sector will take foreign visas and then they are being recovered.
+
+◼️
+
+[Data](articles/5a3a0222.json)
+
+[Extended Data](ext_articles/5a3a0222.ext.json)
 
 ---

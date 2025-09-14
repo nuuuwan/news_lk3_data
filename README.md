@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 22:36:39**
+As of **2025-09-14 22:53:17**
 
 ## Newspaper Stats
 
-*Scraped **75,942** Articles*
+*Scraped **75,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,374
 adaderanalk | 9,769
 tamilmirrorlk | 11,361
 virakesarilk | 12,376
-adaderanasinhalalk | 13,250
+adaderanasinhalalk | 13,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,257 (93.8%) of 75,942 articles have been extended.
+71,257 (93.8%) of 75,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### මීරිගම අවට මත්ද්‍රව්‍ය බෙදූ අයෙක් අත්අඩංගුවට
+
+*2025-09-14 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214572) · `si`
+
+බස්නාහිර පළාත් බුද්ධි නිලධාරීන්ට ලද තොරතුරක් මත මීරිගම, පල්ලෙවෙල ප්‍රදේශයේ අද (14) සිදුකළ වැටලීමකදී සැලුනයක් තුළ සිදුකරගෙන ගිය මත්ද්‍රව්‍ය ජාවාරමක් වටලා මත්ද්‍රව්‍ය සහ ආයුධ සමග එක් සැකකරුවකු අත්අඩංගුවට ගනු ලැබීය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සැලුනය පවත්වාගෙන ගිය පුද්ගලයා වන අතර, ඔහු කල්එලිය ප්‍රදේශයේ පදිංචි වයස 28ක අයෙක් බව සඳහන්.
+
+පල්ලෙවෙල පොලිස් ස්ථානයේ නිලධාරීන් හා එක්ව සිදුකළ මෙම වැටලීමේ දී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 300ක්, හෙරොයින් ග්‍රෑම් 100ක්, විද්‍යුත් මිනුම් උපකරණයක්, සෙල්ලම් පිස්තෝලයක්, විවිධ හැඩයෙන් යුත් පිහි කිහිපයක්, බැංකු කාඩ්පත් කිහිපයක්, රු. 46,060ක මුදලක්, ජංගම දුරකතන 3ක් සහ ටැප් පරිගණකයක් මෙහිදී පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් අයිස් මත්ද්‍රව්‍ය සහ හෙරොයින් වටිනාකම රුපියල් ලක්ෂ 75කට අධික බව පොලිසිය පවසයි.
+
+මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ ඩුබායි හි සැඟව සිටින ගැමුණු නමැති පුද්ගලයෙකු හා එක්ව මෙම මත්ද්‍රව්‍ය ජාවාරම සිදුකරගෙන ගොස් ඇති බව මේ වනවිට අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/636cfce0.json)
+
+---
 
 ### எம்.பியின் வாகனம் காருடன் மோதி விபத்து;எம்.பி படுகாயம்
 
@@ -2057,19 +2077,5 @@ In the second offense, the Consumer Affairs Authority (CAA) has said that the co
 [Data](articles/0fa681bd.json)
 
 [Extended Data](ext_articles/0fa681bd.ext.json)
-
----
-
-### Special Committee of the Ministry of Justice visited Geneva this week
-
-*2025-09-14 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
-
-With the United Nations Human Rights Council's review session, a special committee of the Justice Ministry will visit Geneva this week to participate.
-
-◼️
-
-[Data](articles/29d60f07.json)
-
-[Extended Data](ext_articles/29d60f07.ext.json)
 
 ---

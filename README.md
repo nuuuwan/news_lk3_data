@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 22:07:48**
+As of **2025-09-14 22:36:39**
 
 ## Newspaper Stats
 
-*Scraped **75,939** Articles*
+*Scraped **75,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,374
-adaderanalk | 9,768
-tamilmirrorlk | 11,360
+adaderanalk | 9,769
+tamilmirrorlk | 11,361
 virakesarilk | 12,376
-adaderanasinhalalk | 13,249
+adaderanasinhalalk | 13,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,253 (93.8%) of 75,939 articles have been extended.
+71,257 (93.8%) of 75,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
+
+### எம்.பியின் வாகனம் காருடன் மோதி விபத்து;எம்.பி படுகாயம்
+
+*2025-09-14 21:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/எம்-பியின்-வாகனம்-காருடன்-மோதி-விபத்து-எம்-பி-படுகாயம்/73-364587) · `ta`
+
+மட்டக்களப்பு தமிழரசு கட்சி பாராளுமன்ற உறுப்பினர் ஞானமுத்து சிறிநேசன் பிரயாணித்த வாகனம் களுவாங்சிக்குடி பிரதேசத்தில் கார் ஒன்றுடன் இன்று ஞாயிற்றுக்கிழமை (14) பிற்பகல் மோதி விபத்துக்குள்ளானதில் பாராளுமன்ற உறுப்பினர் படுகாயமடைந்த நிலையில் மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அம்பாறை ஆலையடிவேம்பில் இன்று இடம்பெற்ற தமிழரசுகட்சியின் மத்தியகுழு கூட்டத்திற்கு சம்பவ தினமான இன்று காலை குறித்த பாராளுமன்ற உறுப்பினர் கலந்து கொண்டுவிட்டு மட்டக்களப்பை நோக்கி பிற்பகல் 4.00 மணியளவில் வாகனத்தில் பிரயாணித்துக் கொண்டிருந்தபோது களுவாஞ்சிக்குடி பிரதேச செயலகத்துக்கு அருகில் கார் ஒன்று பாராளுமன்ற உறுப்பினரது வாகனத்துடன் ஒன்றோடு ஒன்று மோதி விபத்துக்குள்ளானது.
+
+இதில் பிரயாணித்த பாராளுமன்ற உறுப்பினரது கை தோள்பட்டையை விட்டு விலகி படுகாயமடைந்த நிலையில் அம்புலன்ஸ் வண்டியில் மட்டக்களப்பு போதனா வைத்தியசாலை அதிதீவிர சிகிச்சைப்பிரிவில் அனுமதிக்கப்பட்டு சிகிச்சை இடம்பெற்றுவருகின்றது
+
+◼️
+
+[Data](articles/566d4d67.json)
+
+---
+
+### Govt urged to provide solution to shortage of Keeri Samba
+
+*2025-09-14 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112497/govt-urged-to-provide-solution-to-shortage-of-keeri-samba) · `en`
+
+Rice wholesalers in Pettah say that they are refraining from selling Keeri Samba rice because rice producers are supplying it to them at a price exceeding the control price of Rs. 260.
+
+In view of this situation, retailers are also refraining from selling Keeri Samba rice.
+
+Therefore, the United Rice Producers’ Association says it is requesting the government to remove the maximum retail price imposed on Samba and Keeri Samba rice.
+
+However, the Sri Lanka Small and Medium Scale Paddy Mill Owners’ Association is requesting that no steps be taken to remove the maximum retail price of rice as they claim that large-scale rice mill owners are trying to create an artificial shortage of rice and gain profits.
+
+Meanwhile, the National Farmers’ Union says that the government should intervene immediately and provide solutions to this issue.
+
+◼️
+
+[Data](articles/d9a6b260.json)
+
+[Extended Data](ext_articles/d9a6b260.ext.json)
+
+---
+
+### සත්ත්ව සංගණනයට මාස 6යි
+
+*2025-09-14 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214571) · `si`
+
+වගා හානි කරන වන සතුන්ගේ ගැටලුවට පිළියම් සෙවීමට වන සත්ත්ව සංගණනයක් සිදුකර මාස හයක් ගත වුවද වඳුරන් සහ රිළවුන් නිසා තමන් දිගින්දිගටම පීඩාවට පත්ව සිටින බවට කතරගම අවට ගොවීන් පවසයි.
+
+එසේම වඳුරන් හා රිළවුන් ශීඝ්‍රයෙන් බෝවීම හේතුවෙන් කතරගම පුදබිමට පැමිණෙන බැතිමතුන්ද මහත් පීඩාවට පත්ව ඇතැයි එහි කපු මහතුන් පෙන්වා දෙයි.
+
+ඓතිහාසික රුහුණු මහා කතරගම දේවාලය සහ කිරිවෙහෙර වැඳපුදා ගැනීම සඳහා දෛනිකව විශාල පිරිසක් කතරගමට පැමිණෙති.
+
+ඔවුන් රැගෙන එන පූජා වට්ටි හා ඉතිරිවන ආහාර අනුභව කිරීම සඳහා පුරුදු වී සිටින රිලවුන් හා වඳුරන් මේ වනවිට බැතිමතුන්ට පමණක් නොව පූජනීය ස්ථානවල භාරකාරත්වයටද විශාල ගැටලුවක්ව තිබේ.
+
+ඔවුන් පෙන්වා දෙන්නේ මෙම වඳුරන් හා රිලවුන් ශීඝ්‍රයෙන් බෝවීම හේතුවෙන් පවතින ගැටලුව දෙගුණ තෙගුණ වී ඇති බවය.
+
+පසුගිය කාලසීමාවේදී, මෙම සතුන් අල්ලා යාල වනෝද්‍යානයට මුදාහැරීමේ ක්‍රමවත් වැඩසටහනක් ක්‍රියාත්මක කළද එයද දින කිහිපයකින් නතරවී තිබේ.
+
+එපමණක් නොව මෙම සතුන් ඇල්ලීම සඳහා භාවිත කිරිමට ලක්ෂ ගණනක්  වියදම්කරමින් සකස්කළ යකඩ කූඩු මේවන විට දිරාපත් වෙමින් පවතින බව වාර්තාවේ.
+
+...
+
+[Data](articles/a48edc55.json)
+
+---
 
 ### Corruption and fraud within the government will not be retreated in legal action - Minister Samantha Vidyaratne
 
@@ -2009,65 +2071,5 @@ With the United Nations Human Rights Council's review session, a special committ
 [Data](articles/29d60f07.json)
 
 [Extended Data](ext_articles/29d60f07.ext.json)
-
----
-
-### Through Tin Tin’s Eyes: The Calamity Bishop Rodrigo Is Visiting On The Church
-
-*2025-09-14 11:04:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/through-tin-tins-eyes-the-calamity-bishop-rodrigo-is-visiting-on-the-church/) · `en`
-
-When the decision was taken at schools take-over to keep St. John’s private, one of the key considerations was to be a witness for Jesus Christ and to serve society. Bishop Dushantha Rodrigo seems to have lost that vision in decapitating Fr. Daniel Jeyaruban by dismissal after blessing him only the previous night.
-
-Worse, after suspending him without pay for over a year, the Church has demanded that he pay the rent and utility bills from when he was suspended without ever having told him at the time of suspension over a year ago. And the Church expected him to move immediately when his wife was in hospital with a prematurely born infant weighing under 3 lbs in a room full of occupied incubators and she had to come regularly from her ward to feed her. I believe that the prematurity was precipitated by the social stigma of his suspension and the indignation from the charge that he told people he was suspended when people asked him why he was not coming to school.
-
-...
-
-[Data](articles/e57f9ad3.json)
-
-[Extended Data](ext_articles/e57f9ad3.ext.json)
-
----
-
-### Foreigners who danced in Nanuoya
-
-*2025-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225037) · `ta`
-
-Indian tourists (13) sang the songs on Saturday at the Nanuoya Railway Station and danced to the dance.
-
-Indian tourists from Colombo to Badulla to Badulla. Then they danced without bored and enjoyed the time.
-
-A video of a group of Indian foreigners dancing is now going viral on social media.
-
-◼️
-
-[Data](articles/7556367e.json)
-
-[Extended Data](ext_articles/7556367e.ext.json)
-
----
-
-### 8.5 million kushlizers arrested for Katunayake
-
-*2025-09-14 10:49:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-8-5ක-කුෂ්-මත්ද්‍රව්‍ය-කටුනායකින්-අල්ලයි/11-418481) · `si`
-
-A large number of narcotics, Katunayake Airport, was illegally brought to Sri Lanka's official police dog, 'Randy' was illegally arrested by the Narcotics Bureau of Narcotics.
-
-He is a 33 year old photographer, who is in Chennai, Chennai.
-
-He will be able to leave Sri Lankan airport on 09/13 to 09.45 am - SriLankan Airlines UL.
-
-There, with his luggage SriLankan Airlines (SCAN Test) testing the scanning machines (SCAN Test) testing, there is a close work in the near future
-
-The official dog named 'Randy' has been signaled that the license bag has been reduced and a stock of drugs.
-
-The police department 1603 '' Randy "is now a 'Labrador", which has made a number of drug raids, and is the police constable of 91517 as his guardian and handler.
-
-According to the Indian national, when the Indian national was arrested and inspected, and 542 grams of "Kush" drugs were made in his travel bag.
-
-...
-
-[Data](articles/eb795d47.json)
-
-[Extended Data](ext_articles/eb795d47.ext.json)
 
 ---

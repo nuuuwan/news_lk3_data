@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 11:56:49**
+As of **2025-09-14 10:54:52**
 
 ## Newspaper Stats
 
-*Scraped **75,842** Articles*
+*Scraped **75,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,263 +16,35 @@ economynextcom | 4,595
 islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
-adalk | 7,363
-adaderanalk | 9,747
-tamilmirrorlk | 11,335
-virakesarilk | 12,359
-adaderanasinhalalk | 13,230
+adalk | 7,361
+adaderanalk | 9,745
+tamilmirrorlk | 11,330
+virakesarilk | 12,352
+adaderanasinhalalk | 13,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,765 (93.3%) of 75,842 articles have been extended.
+70,695 (93.2%) of 75,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
 
-### ”மாகாண சபைத் தேர்தல்களை உடனடியாக நடத்தவும்”
-
-*2025-09-14 11:31:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபைத்-தேர்தல்களை-உடனடியாக-நடத்தவும்/175-364539) · `ta`
-
-நீண்ட காலமாக தாமதமாகி வரும் மாகாண சபைத் தேர்தல்களை உடனடியாக நடத்த நடவடிக்கை எடுக்குமாறு அரசாங்கத்தை சுதந்திரமான மற்றும் நியாயமான தேர்தல்களுக்கான மக்கள் இயக்கம் (PAFFREL) கோரியுள்ளது. தொடர்ச்சியான தாமதம் ஜனநாயக உரிமைகளை குறைமதிப்பிற்கு உட்படுத்தியுள்ளது என்றும் வலியுறுத்தியுள்ளது.
-
-பொது நிர்வாகம், உள்துறை, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் சந்தன அபயரத்னவுக்கு எழுதிய கடிதத்தில், PAFFREL நிர்வாகப் பணிப்பாளர் ரோஹண ஹெட்டியாராச்சி, மாகாண சபை முறையை அதிகாரத்துவ நிர்வாகத்தின் கீழ் விட்டுவிடுவதற்குப் பதிலாக, பிரதிநிதித்துவ ஜனநாயக கட்டமைப்பாக மீட்டெடுப்பதன் முக்கியத்துவத்தை எடுத்துரைத்தார்.
-
-அரசியலமைப்பின் 3வது பிரிவில் கூறப்பட்டுள்ளபடி, வாக்களிக்கும் உரிமை மக்களின் இறையாண்மை அதிகாரத்தின் ஒரு பகுதியாகும் என்று ஹெட்டியாராச்சி கூறினார், மேலும் நீண்டகால தாமதங்கள் ஜனநாயக செயல்முறைகளில் பொதுமக்களின் நம்பிக்கையை பலவீனப்படுத்தியுள்ளன என்றும் எச்சரித்தார்.
-
-...
-
-[Data](articles/243505ea.json)
-
----
-
-### Ven. 2 out of 20 chemical samples obtained from the land of the Middeniya area confirms the use of ice
-
-*2025-09-14 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214550) · `si`
-
-It has been revealed that 17 out of the 20 chemical samples obtained from the Middeniya area, 17 Ice drugs containing chemicals.
-
-Investigations carried out by the Danarakara Pharmaceutical Board of Control and the Board of Control has been revealed.
-
-The Western Criminal Division of the Western Criminal Division was found in the Middeniya area on September 6.
-
-According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
-
-These factors have been revealed under the direction of the Director General of the Western North Criminal Division.
-
-The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
-
-Accordingly, the National Dangerous Drugs Control Board has been handed over to the police last Friday.
-
-◼️
-
-[Data](articles/bcaff0d0.json)
-
-[Extended Data](ext_articles/bcaff0d0.ext.json)
-
----
-
-### Special Committee of the Ministry of Justice visited Geneva this week
-
-*2025-09-14 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225034) · `ta`
-
-With the United Nations Human Rights Council's review session, a special committee of the Justice Ministry will visit Geneva this week to participate.
-
-◼️
-
-[Data](articles/29d60f07.json)
-
-[Extended Data](ext_articles/29d60f07.ext.json)
-
----
-
-### Foreigners who danced in Nanuoya
-
-*2025-09-14 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225037) · `ta`
-
-Indian tourists (13) sang the songs on Saturday at the Nanuoya Railway Station and danced to the dance.
-
-Indian tourists from Colombo to Badulla to Badulla. Then they danced without bored and enjoyed the time.
-
-A video of a group of Indian foreigners dancing is now going viral on social media.
-
-◼️
-
-[Data](articles/7556367e.json)
-
-[Extended Data](ext_articles/7556367e.ext.json)
-
----
-
-### කෝටි 8.5ක කුෂ් මත්ද්‍රව්‍ය කටුනායකින් අල්ලයි
-
-*2025-09-14 10:49:14* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-8-5ක-කුෂ්-මත්ද්‍රව්‍ය-කටුනායකින්-අල්ලයි/11-418481) · `si`
-
-රුපියල් අට කෝටි පනස් හතර ලක්ෂ විසි දහසක් වටිනා '' කුෂ්" මත්ද්‍රව්‍ය තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ විදේශීය ගුවන් මගියෙකු,  කටුනායක ගුවන්  තොටුපොළ  සංක්‍රමණික ගුවන් මගී පර්යන්තයේ රැදී සිටියදී , '' රැන්ඩි " නැමති නිල පොලිස් සුනඛයාගේ සහාය මත , ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් 09/13 දින පස්වරුවේ  අත් අඩංගුවට ගෙන තිබේ .
-
-මොහු ඉන්දියාවේ චෙන්නායි හි පදිංච් 33 හැවිරිදි ජායාරූප ශිල්පියෙකි .
-
-ඔහු 09/13 දින උදෑසන 09.45 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 403 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ යළිත් ඉන්දියාවේ මදුරෙයි වෙත පිටත්ව යාම සදහා ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 139 දරන ගුවන් යානය පැමිණෙන තෙක් ගුවන් තොටුපොළ සංක්‍රමණික මගී රැදී සිටි තිබේ.
-
-එහිදී ඔහුගේ ගමන් මලු ශ්‍රී ලන්කන් ගුවන් සේවා නිලධාරීන් විසින්  පරිලෝකන යන්ත්‍ර  ( Scan Test )  පරීක්ෂාවකට ලක් කිරීමේ දී එහි සැක කටයුතු යමක් ඇති බව දර්ශනය වීමත් සමග , ඒ අසළ සේවයේ නිරත වී සිටි
-
-" රැන්ඩි ''  නැමති පොලිස් නිල සුනඛයා , එම ගමන් මල්ල ඉව කර එහි මත්ද්‍රව්‍ය තොගයක් ඇති බවට සංඥා කර තිබේ .
-
-...
-
-[Data](articles/eb795d47.json)
-
----
-
-### Two vehicles without licenses: two arrested
-
-*2025-09-14 10:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உரிமங்கள்-இல்லாத-இரண்டு-வாகனங்கள்-சிக்கின-இருவர்-கைது/76-364537) · `ta`
-
-The Colombo Central Criminal Investigation Bureau has won the arrest of two suspects with two motor vehicles imported to the country without licenses.
-
-A team of officials of the Colombo Central Criminal Investigation Bureau conducted two raids on the morning of 13.09.2025 at the Menikhinna Police Division and the Wadegama Police Division.. Two suspects were arrested with two jeeps imported to the country from abroad without licenses.
-
-The arrested suspects are residents of Menikhinna and Wadegama, aged 38 and 58.
-
-The arrested suspects were produced before the Teldeniya Magistrate's Court on 13.09.2025 and placed in remand till 15.09.2025. Further investigations are being conducted by the Central Criminal Investigation Bureau in Colombo.
-
-◼️
-
-[Data](articles/2d920d3b.json)
-
-[Extended Data](ext_articles/2d920d3b.ext.json)
-
----
-
-### The boyfriend shot towards the sky when he saw the girlfriend's face
-
-*2025-09-14 10:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியின்-முகத்தை-பார்த்ததும்-வானத்தை-நோக்கி-சுட்ட-காதலன்/175-364536) · `ta`
-
-A boyfriend who was shot dead on his split girlfriend, was mourning his face and firing into the sky and fleeing the Govindapuram police division.
-
-The incident took place on the morning of the 11th of this month in the Buddha Ritikahawatte area of ​​the Govindupura Police Division.
-
-The Govindapuram police said that a 24 -year -old woman from Buddha Ritikahawathai was in a relationship with a 29 -year -old youth from the same village and the two were split about a year ago.
-
-The woman is currently working at a garment factory in Moneragala. His ex -boyfriend, who heard that he was in a relationship with another young man, planned to shoot her.
-
-The woman tried to shoot her while she was coming from her house to catch the bus at the garment factory crossing the street.. He was miserable at his face and then fired into the sky and fled.
-
-Govindapuram Police Station Superintendent TM. Karuna Santha is conducting investigations to arrest him.
-
-◼️
-
-[Data](articles/1e42405a.json)
-
-[Extended Data](ext_articles/1e42405a.ext.json)
-
----
-
-### 80 million worth of telephone number
-
-*2025-09-14 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-மில்லியன்-மதிப்புள்ள-குஷ்-பறிமுதல்/175-364535) · `ta`
-
-A foreign passenger who illegally brought the "Kush" drug worth Rs 85.42 million illegally has been arrested by a group of officials of the airport drug detention unit with the help of an official police dog called "Randy" while waiting for the Katunayake International Airport on Saturday (13).
-
-The arrested person is a 33 -year -old photographer who lives in Chennai, India
-
-He arrived at the Katunayake airport via Sri Lanka Airlines flight UL-403, and the Sri Lankan Airlines flight was waiting at the airport terminal until the UL-139 departed to Madurai in India.
-
-When Sri Lankan Airlines officials scanned his goods, they found a suspicious one, and the police "Randy", which was nearby, signaled the dog's dogs.
-
-Accordingly, when the Indian national was arrested and checked, it was discovered that 8 kilograms of 542 grams of 542 grams of packets were hidden in his goods.
-
-...
-
-[Data](articles/bcad58bd.json)
-
-[Extended Data](ext_articles/bcad58bd.ext.json)
-
----
-
-### 18 students killed in air strike in Myanmar
-
-*2025-09-14 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225030) · `ta`
-
-International media reports that about 18 people were killed in a air strike on a school in the Myanmar army in the western Rakhine state of the country.
-
-Most of the casualties are students and local media reports.
-
-◼️
-
-[Data](articles/735919d4.json)
-
-[Extended Data](ext_articles/735919d4.ext.json)
-
----
-
-### Nearly 3,000 raids associated with rice during the past year
-
-*2025-09-14 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214549) · `si`
-
-The Consumer Affairs Authority (Consumer Affairs Authority) says that nearly 3,000 people have been carried out in this year.
-
-The authority said that the authority was to sell rice, rice, hid rice stocks, including 3,000 different sizes of rice including sales for conservation.
-
-The Authority said that more than a thousand raids on higher prices and he had committed a large number of raids at higher prices.
-
-The Consumer Affairs Authority said that if he was convicted of the individual selling individual businessman in charge, he was able to be prescribed or sentenced to Rs.
-
-The Authority also says that if a private company is convicted of a guilty to Rs.
-
-The Authority also said that the procedural Affairs Authority (Consumer Affairs Authority) has been able to punish the consumer action twice as a second fines.
-
-◼️
-
-[Data](articles/2eba3648.json)
-
-[Extended Data](ext_articles/2eba3648.ext.json)
-
----
-
-### Sri Lanka advanced in T20 Ratings
+### විස්සයි20 ශ්‍රේණිගත කිරීම්වල ශ්‍රී ලංකාව ඉදිරියට
 
 *2025-09-14 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214548) · `si`
 
-The International Cricket Council (ICC) has come forward to 7th in the latest T20 team ratings.
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය (ICC) ප්‍රකාශයට පත් කළ නවතම විස්සයි20 කණ්ඩායම් ශ්‍රේණිගත කිරීම්වල ශ්‍රී ලංකාව 7 වන ස්ථානය දක්වා එක් ස්ථානයක් ඉදිරියට පැමිණ තිබේ.
 
-The Sri Lankan team has come forward with the victory over Bangladesh yesterday in the Asian Cup yesterday.
+ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ ඊයේ පැවති තරගයේදී බංග්ලාදේශයට එරෙහිව ලැබූ ජයග්‍රහණයත් සමඟ මෙලෙස ශ්‍රී ලංකා කණ්ඩායම ඉදිරියට පැමිණ ඇත.
 
-Accordingly, the Pakistan for the 8th place to the Pakistan has to retreat.
-
-According to the current ranking, the Indian team is still being preserved.
+ඒ අනුව, නවතම විස්සයි20 කණ්ඩායම් ශ්‍රේණිගත කිරීම්වල පාකිස්තානය 8 වන ස්ථානයට පත්ව ඇත.
 
 ◼️
 
 [Data](articles/f7484ed6.json)
-
-[Extended Data](ext_articles/f7484ed6.ext.json)
-
----
-
-### The cruelty of the student who lifted the skirt over it
-
-*2025-09-14 10:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாவாடையை-அதுக்கே-மேல-தூக்கிய-மாணவியை-விருந்தாக்கிய-கொடூரம்/175-364534) · `ta`
-
-Hema (name changed). At the age of seventeen, the greed of becoming an actress in cinema had set fire to her heart.
-
-Hema, with a beautiful face and a dance talented, set foot in a dance school on the journey of dreams. Rajesh is the one who made her acquaintance.
-
-Rajesh, Kanyakumari district famous dance teacher. It is customary for students to dance at his school and get gifts on stage.
-
-Knowing Hema's curiosity and cinema dream, Rajesh sowed the seeds of hope in her mind. "I know a lot of deputy directors in the cinema. If they keep their minds, you can become a star, "he whispered to her with words of desire.
-
-In an evening, Rajesh talked to Hema about a chance. “To meet the Deputy Directors Tomorrow. If they see you, you will get a place in cinema, "he said.
-
-His sweet speech and loving behavior developed confidence in Hema's mind. "Well," she agreed.
-
-...
-
-[Data](articles/814a7f93.json)
-
-[Extended Data](ext_articles/814a7f93.ext.json)
 
 ---
 
@@ -342,54 +114,6 @@ Subsequently, the three were taken to the Polonnaruwa Prison.
 
 ---
 
-### The renovation work of the Colombo - Maradana Railway Station begins tomorrow
-
-*2025-09-14 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225027) · `ta`
-
-The renovation work of the Colombo - Maradana Railway Station will commence on the 15th of September.
-
-Maradana is considered the second largest railway station in Colombo. Accordingly, it is one of the oldest railway stations in the country.
-
-Was first built of wood in 1889. It carried out activities on the Kandy and southern routes.
-
-Due to the difficulties of activities at the Colombo Fort Railway Station, the relevant operations are said to have been transferred to the Maradana railway station.
-
-It is reported that a permanent building was opened on July 12, 1893.
-
-Accordingly, the current Maradana Railway Station was opened on November 9, 1908.
-
-It is expected that the passenger facilities will be upgraded and the infrastructure facilities will be modernized while protecting the heritage of the railway station.
-
-◼️
-
-[Data](articles/70ed93e4.json)
-
-[Extended Data](ext_articles/70ed93e4.ext.json)
-
----
-
-### Health Minister announces launch of 100 Community Health Centres  this year
-
-*2025-09-14 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112472/health-minister-announces-launch-of-100-community-health-centres-this-year) · `en`
-
-Health Minister Nalinda Jayatissa has announced that a series of community health centres will soon be launched to provide early diagnosis, treatment, and follow-up care, as well as referrals to hospitals for further treatment. These centres aim to bring healthcare services closer to the public.
-
-Accordingly, starting from September 26, ten health centres will be opened as part of a pilot project across five districts, Minister Nalinda stated.
-
-He shared these plans while participating in the “Aarogya” mobile wellness programme held in the Eheliyagoda Divisional Secretariat Division of Ratnapura District.
-
-He added that during this year, foundations will be laid for 100 new health centres, and over the next three years, 1000 wellness centres are expected to cover the population.
-
-Highlighting the current challenge of non-communicable diseases (NCDs), the Minister said that the Aarogya wellness centres aim to protect the public by providing regular treatments.
-
-...
-
-[Data](articles/3a76cc8e.json)
-
-[Extended Data](ext_articles/3a76cc8e.ext.json)
-
----
-
 ### “Pacific Angel ௨௦௨௫”
 
 *2025-09-14 09:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Pacific-Angel-2025/175-364530) · `ta`
@@ -408,30 +132,6 @@ Pacific Angel 2025. The training was held with the participation of the Sri Lank
 
 ---
 
-### Plan to test remote buses!
-
-*2025-09-14 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225024) · `ta`
-
-The government is planning to make basic quality testing before all the distant buses start operating.
-
-Initially, it is planned to be implemented under the supervision of the National Transport Commission, focusing on the Bestian Mawatha and the Maumbura Multimedal Transport Base in Colombo.
-
-It has also been reported that no long -distance tour buses will be recognized without this quality test.
-
-Buses traveling over 100 kilometers must obtain a qualifying certificate 48 hours before starting their movement.
-
-The Department of Motor Transport is currently taking steps to publish the necessary steps through a circular.
-
-When this process is extended throughout the country, the Motor Transport Department examines vehicle repairs, conducting related inspections and issuing a qualifying certificate.
-
-◼️
-
-[Data](articles/fb3bf2b9.json)
-
-[Extended Data](ext_articles/fb3bf2b9.ext.json)
-
----
-
 ### NDDCB handed over records of chemicals found in Midden
 
 *2025-09-14 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214546) · `si`
@@ -446,52 +146,6 @@ The National Dangerous Drugs Control Board has handed over the record of contain
 
 ---
 
-### The government intends to hold provincial council election in June
-
-*2025-09-14 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225023) · `ta`
-
-However, a report has been requested to decide on which system to hold the election and the government has decided to obtain a unanimous compliance with all parties on the electoral system after the report is made available.
-
-In 2012, 2013 and 2014, the elections for the Provincial Councils were held in 4 phases.
-
-Accordingly, on September 8, 2012, the Eastern, North Central and Sabaragamuwa Provincial Councils held elections for the Central, North Western and Northern Provincial Council on September 21, 2013, and finally for the Uva Provincial Council for the Uva Provincial Council.
-
-In this case, a committee was appointed to conduct bordership inspections to introduce the new electoral system for the provincial council election.
-
-The committee was appointed by the then President Maithripala Sirisena in October 2017.
-
-Its aim is to restructure the boundaries of the provincial council elections to suit the new mixed electoral system.
-
-...
-
-[Data](articles/9d42be48.json)
-
-[Extended Data](ext_articles/9d42be48.ext.json)
-
----
-
-### Sri Lanka -Defense Secretary in the heart of the Indian Ocean with great responsibilities
-
-*2025-09-14 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225022) · `ta`
-
-Exercises such as Pacific Angel have said that the ability to respond to emergency situations and reinforce the confidence among the participation countries, but that retired Eya Marshall Sampath Tuayakonda, human -made challenges, or environmental or safety related to environmental or safety.
-
-The Secretary of Defense said this while addressing an event held at the Katunayake Air Force Base.
-
-Security challenges in the world are more complicated and border. In such a situation, multi -faceted exercises make sense of the need for cooperation between military. Joint readiness is not a choice, it is an essential need.
-
-The Indian Ocean region is the most important hub for world security and economy. It retains trade by combining maritime traffic routes and countries.
-
-However, these are easily affected by natural disasters, climate change risks, border crimes and growing security threats.
-
-...
-
-[Data](articles/17786db7.json)
-
-[Extended Data](ext_articles/17786db7.ext.json)
-
----
-
 ### NDDCB hands over report on suspected ‘ICE’ drug chemicals to police
 
 *2025-09-14 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112471/nddcb-hands-over-report-on-suspected-ice-drug-chemicals-to-police) · `en`
@@ -503,26 +157,6 @@ The National Dangerous Drugs Control Board (NDDCB) has submitted its report to t
 [Data](articles/c9e4bd0b.json)
 
 [Extended Data](ext_articles/c9e4bd0b.ext.json)
-
----
-
-### The boyfriend who went to shoot the girlfriend saw the girlfriend's face and fired into the sky
-
-*2025-09-14 09:15:44* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතියට-වෙඩි-තැබීමට-ගිය-පෙම්වතා-පෙම්වතියගේ-මුහුණ-දැක-අහසට-වෙඩි-තියලා/11-418480) · `si`
-
-The Gunugepura Police say that the girl who has been shooting on the Ritigahawatta area of ​​the Gingugepura Police Division (11) on the Ritigahawatta area of ​​the Gawalura Police said it had fired his girlfriend's face.
-
-The 24-year-old woman, a 24 year old resident of Ritigahawatta has been in a romantic relationship with a 29 year old resident of the village.
-
-She currently works in a garment factory in Moneragala. When she had a romantic relationship with another young man, she had crossed her face and shoot her face and shot her face and fired.
-
-The OIC of the Gunugepura Acting OIC, DM Karuna Shantha is investigating him.
-
-◼️
-
-[Data](articles/c35a7783.json)
-
-[Extended Data](ext_articles/c35a7783.ext.json)
 
 ---
 
@@ -617,24 +251,6 @@ The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally i
 [Data](articles/64842b95.json)
 
 [Extended Data](ext_articles/64842b95.ext.json)
-
----
-
-### FM concludes visit to Geneva, reaffirms Sri Lanka’s commitment to domestic reconciliation
-
-*2025-09-14 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112469/fm-concludes-visit-to-geneva-reaffirms-sri-lankas-commitment-to-domestic-reconciliation) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath concluded his visit to Geneva where he addressed the 60th Session of the United Nations Human Rights Council (UNHRC) on September 8, 2025, delivering the Government statement during the Interactive Dialogue on Sri Lanka.
-
-Minister Herath reiterated Sri Lanka’s commitment to achieving reconciliation through domestic processes and outlining the measures already taken by the Government for transformation to advance the rights and well-being of all Sri Lankans, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally imposed mechanisms.
-
-...
-
-[Data](articles/c72d1587.json)
-
-[Extended Data](ext_articles/c72d1587.ext.json)
 
 ---
 
@@ -2129,5 +1745,381 @@ South Africa lost all wickets for 158 runs.
 [Data](articles/d58bd790.json)
 
 [Extended Data](ext_articles/d58bd790.ext.json)
+
+---
+
+### Foreign investors buy Sri Lanka rupee bonds for third straight week
+
+*2025-09-13 14:00:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-third-straight-week-240445/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a third straight week in the week ended on September 11, the Central Bank data showed, amid global investors’ hope for monetary policy easing by the U.S. Federal Reserve.
+
+Foreign investors bought a net 2,781 million rupee ($9.27 million) worth of government securities in the week ended on September 11.
+
+They have bought a net 8,719 million rupee ($29.1 million) worth of government securities in the three weeks ended on September11.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
+
+The island nation has, however, enjoyed a total inflow of around 36 billion rupees (around $152 million) into rupee bonds since December 26 last year through September 11, the data showed.
+
+Sri Lanka’s deflationary policies have helped to see inflows amid curtailed imports, analysts have said.
+
+...
+
+[Data](articles/a459015c.json)
+
+[Extended Data](ext_articles/a459015c.ext.json)
+
+---
+
+### Prohibition on the fitting of decorative items on buses!
+
+*2025-09-13 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/224992) · `ta`
+
+On June 2, 2023, a circular was released, allowing passengers to be fitted with decorative items on buses.
+
+But the circular was canceled on September 9, 2025.
+
+◼️
+
+[Data](articles/ee575bcb.json)
+
+[Extended Data](ext_articles/ee575bcb.ext.json)
+
+---
+
+### President congratulates Nepal interim Prime Minister
+
+*2025-09-13 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/224989) · `ta`
+
+President Anura Kumara Dissanayake congratulates Susila Karki, who has been appointed as the new Prime Minister of Nepal's interim government.
+
+President Anura Kumara Dissanayake further stated in his official X site.
+
+“I convey my heartfelt congratulations to Susiela Karki as the Prime Minister of Nepal. We fully believe that his leadership will lead Nepal to peace and democracy, ”the president posted.
+
+Following the popular protests in Nepal on September 8, the former Prime Minister of the country KP. Sharma Sound -led government collapsed. At least 51 people died in popular protests.
+
+Susila Karki, former Chief Justice of Napala, was sworn in as the interim prime minister at the Presidential Office on Friday night (September 12).
+
+With this appointment, she is the first woman to hold the post of Prime Minister in the history of Nepal.
+
+...
+
+[Data](articles/cdb3ff8b.json)
+
+[Extended Data](ext_articles/cdb3ff8b.ext.json)
+
+---
+
+### Circular allowing decorations and accessories on buses cancelled
+
+*2025-09-13 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112458/circular-allowing-decorations-and-accessories-on-buses-cancelled-) · `en`
+
+The Commissioner General of Motor Traffic has stated that the circular issued on 2 June 2023, which permitted decorations and accessories to be fitted to passenger transport buses, has been cancelled with effect from 9 September 2025.
+
+The Commissioner General of Motor Traffic Kamal Amarasinghe has informed all Deputy Commissioners, Chief Motor Vehicle Inspectors and Department of Motor Traffic District Offices of this decision via an internal circular.
+
+Circular allowing decorations and accessories on buses cancelled  by  Adaderana Online
+
+◼️
+
+[Data](articles/9f7ffad7.json)
+
+[Extended Data](ext_articles/9f7ffad7.ext.json)
+
+---
+
+### Death penalty for viewing or sharing foreign television series: The UN on North Korea. Report
+
+*2025-09-13 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/224987) · `ta`
+
+In North Korea, viewing or sharing foreign television series, including South Korea, is considered a serious crime. The United Nations at the United Nations Human Rights Council on Friday (September 12). The Human Rights Commission has issued a report.
+
+The North Korean government is actively monitoring the daily activities of the people with the help of new technologies. As a result, the penalties are very tightening.
+
+The new laws that have come into effect since 2015 have increased the control of the government in every aspect of the lives of citizens.
+
+Human Rights Commissioner for North Korea, James Henan, said many North Koreans have already been executed for distributing foreign television series, including South Korea's popular 'K-Dramas'.
+
+The 14-page report has been prepared on the basis of interviews conducted by more than 300 people who have fled North Korea since 2014.
+
+...
+
+[Data](articles/def4a2f2.json)
+
+[Extended Data](ext_articles/def4a2f2.ext.json)
+
+---
+
+### Circular that was permitted to decorates buses canceled
+
+*2025-09-13 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214519) · `si`
+
+The circular released on June 2, 203, was canceled on June 2, 2023, permission to install decorations and accessories on passenger buses.
+
+The circular has been issued by the Commissioner General of Motor Traffic.
+
+◼️
+
+[Data](articles/a81d1dcb.json)
+
+[Extended Data](ext_articles/a81d1dcb.ext.json)
+
+---
+
+### Education Ministry issues official school term calendar for 2026
+
+*2025-09-13 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112457/education-ministry-issues-official-school-term-calendar-for-2026) · `en`
+
+The Ministry of Education (MoE) has announced the official school term calendar for the year 2026, applicable to all Government and Government-approved private schools.
+
+Accordingly, the term calendar for Sinhala, Tamil, and Muslim schools is as follows:
+
+First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 2 March 2026)
+
+Second Phase: 3 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
+
+First Phase: 27 July 2026 to 7 August 2026 (Holidays: 8 August to 6 September 2026)
+
+First Phase: 1 January 2026 to 13 February 2026 (Holidays: 14 February to 22 March 2026)
+
+Second Phase: 23 March 2026 to 10 April 2026 (Holidays: 11 April to 19 April 2026)
+
+Third Phase: 20 April 2026 to 30 April 2026 (Holidays: 01 May to 03 May 2026)
+
+First Phase: 4 May 2026 to 26 May 2026 (Holidays: 27 May to 31 May 2026)
+
+First Phase:  3 August 2026 to 2 September 2026 (Holidays: 3 September to 6 September 2026)
+
+◼️
+
+[Data](articles/1c0f575b.json)
+
+[Extended Data](ext_articles/1c0f575b.ext.json)
+
+---
+
+### Here is the school period to be followed in 2026
+
+*2025-09-13 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214518) · `si`
+
+The Ministry of Education, Higher Education and Vocational Education has been issued by the Ministry of Education, Higher Education and Vocational Education.
+
+Accordingly, the first stage of the first stage of the first semester for Sinhala and Tamil schools will be founded on 11.01.2013 to 31.02.2013.
+
+The Ministry of Education, Higher Education and Vocational Education is issued by the Ministry of Education, Higher Education and Vocational Education, which will be granted in the first phase of the first term.
+
+Subsequently the second phase of the first stage will be held from Tuesday, 03.03.2013 to Friday, March 2026.
+
+The second phase of the first term will be given holidays on September 2026.2011 to 19.04.2011.
+
+Second school term will be held on Monday, 24.06.2012.
+
+The first phase of the third term will be held on Friday, January 2026, 07.07.2013, the Ministry of Education, Education and Vocational Education said.
+
+...
+
+[Data](articles/14ad4adf.json)
+
+[Extended Data](ext_articles/14ad4adf.ext.json)
+
+---
+
+### Rammitha son of Keheliya earns Rs. 27 million for 21 crores
+
+*2025-09-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214517) · `si`
+
+The Bribery Commission has been indicted in the Colombo High Court yesterday against Ramith Rambukwella, son of former Minister Keheliya Rambukwella.
+
+Although Keheliya Rambukwella has been earned as the Minister of Health, Ramith Rambukwella has earned over Rs.
+
+It is reported that there are many assets, including luxury houses, jeeps between the assets that cannot be earned.
+
+Rammit was also appointed as the Health Minister Keheliya Rambukwella.
+
+On January 1, 2022 and November 20, 2023, has earned valuable assets and property worth Rs. 296,566 and Rs.
+
+Ramith Rambukwella has failed to reveal the earnings of Rs 275,302,616.06.
+
+That is why the Bribery Commission has been indicted under the Anti-Corruption Act.
+
+And there were two hundred rupees at Dharmapala Mawatha, Colombo 07, and two hundred and Rs.
+
+There are four bank accounts named Ramith and four bank accounts, including his wife, and an unexpular discourse, including a discovery jeep.
+
+...
+
+[Data](articles/36ca14eb.json)
+
+[Extended Data](ext_articles/36ca14eb.ext.json)
+
+---
+
+### The law to eliminate pension for MPs will be passed soon - Minister Nalinda Jayatissa
+
+*2025-09-13 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224980) · `ta`
+
+The law has been passed to eliminate presidential privileges. Similarly, a law is prepared for the elimination of pension for MPs. Health Minister Nalinda Jayatissa said that the law will be passed soon.
+
+The Minister said this while addressing the foundation stone laying ceremony for the construction of a postage in Balapitiya area.. He continued to address the event,
+
+Policies for stabilizing the economy are being prepared. Accordingly, the National Tax Income Department, the Department of Liquor and the Customs Department have profits beyond their own. We have reduced unnecessary costs on the other hand. Through these we are trying to gradually balance the gap of the budget.
+
+The World Bank has praised that Sri Lanka has done it, despite many countries in the world to show economic growth.. The country, which was a bankrupt in 2021, 2022 and 2023, has reached this situation today. The cost has increased and the costs have been reduced.
+
+...
+
+[Data](articles/7372def3.json)
+
+[Extended Data](ext_articles/7372def3.ext.json)
+
+---
+
+### Sri Lanka participated in the Asian Cup today
+
+*2025-09-13 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214516) · `si`
+
+Sri Lanka's first matches will be held against the Bangladesh team today (13) in the Asia Cup Twenty20 tournament.
+
+The match will be played at Abuadabii at 8:00 pm as a match of B.
+
+Charith is bearing the leadership of the Sri Lankan team and is leading the Bangladesh team.
+
+The Sri Lankan team and the Bangladesh team meet the Bangladesh in the UK 20th time.
+
+Sri Lanka won both matches previously.
+
+This is the first match of the Sri Lankan team to participate in this tournament and Bangladesh won the match with Hong Kong by 7 wickets.
+
+◼️
+
+[Data](articles/ce1740f4.json)
+
+[Extended Data](ext_articles/ce1740f4.ext.json)
+
+---
+
+### Successfully Implementing Japanese Management Techniques at ETF
+
+*2025-09-13 11:52:00* · [`islandlk`](http://island.lk/successfully-implementing-japanese-management-techniques-at-etf/) · `en`
+
+LESSONS FROM MY CAREER: SYNTHESISING MANAGEMENT THEORY WITH PRACTICE – PART 21
+
+In the last episode, I related stories mainly about how I tackled politicians, and how I reached compromises with some, and refused others very tactfully. This was a new experience which I faced, and guidance was not available in textbooks. In today’s episode, I will talk about how I introduced two Japanese techniques successfully and how I had to manage the challenges that arose.
+
+...
+
+[Data](articles/1309abde.json)
+
+[Extended Data](ext_articles/1309abde.ext.json)
+
+---
+
+### Ranil’s special relationship with India and the peace process
+
+*2025-09-13 11:49:00* · [`islandlk`](http://island.lk/ranils-special-relationship-with-india-and-the-peace-process/) · `en`
+
+Ranil gave a very special place towards relations with India. He obviously knew its political leaders and most of the important officials intimately. He knew a great deal about their background and not only of their politics. I was often surprised with his deep knowledge of Indian political alliances and even personal family relationships. He had visited many times in both north and south and had friends from Kerala to Bihar. He never missed, when in Delhi, paying a call on those who had become over time, his personal friends.
+
+...
+
+[Data](articles/5045e61d.json)
+
+[Extended Data](ext_articles/5045e61d.ext.json)
+
+---
+
+### The Foreign Policy of the United States
+
+*2025-09-13 11:48:00* · [`islandlk`](http://island.lk/the-foreign-policy-of-the-united-states/) · `en`
+
+(A talk given at The Bandaranaike International Training Institute on 09 September, 2025)
+
+...
+
+[Data](articles/f4dd69d5.json)
+
+[Extended Data](ext_articles/f4dd69d5.ext.json)
+
+---
+
+### Lord
+
+*2025-09-13 11:47:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமசேகரவுக்கு-பிடியாணை/175-364496) · `ta`
+
+Matara Chief Magistrate's Court has issued a directive against Lasantha Wickramasekara, Chairman of the Weligama Pradeshiya Sabha.
+
+The case was filed in court following a allegation of murdering the National People's Power Member Taraka Nanayakkara.
+
+When the case came up for hearing in the presence of Matara Chief Magistrate Sathura Dissanayake yesterday (12), Lasantha Wickremasekara had not appeared in court.
+
+◼️
+
+[Data](articles/18a6ffad.json)
+
+[Extended Data](ext_articles/18a6ffad.ext.json)
+
+---
+
+### 3.45 மில்லியன் ரூபா பெறுமதியான வெளிநாட்டு சிகரட்டுகளுடன் வர்த்தகர் கட்டுநாயக்கவில் கைது!
+
+*2025-09-13 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/224975) · `ta`
+
+A businessman with illegal cigarettes has been arrested at the Katunayake Bandaranaike International Airport this morning by the Airport Police Narcotics Unit.
+
+During the raid carried out by the suspect, 115 cigarettes, including 23 thousand foreign cigarettes, were seized from the passenger.
+
+◼️
+
+[Data](articles/1e9f4482.json)
+
+[Extended Data](ext_articles/1e9f4482.ext.json)
+
+---
+
+### Seventeen collapses in Kolaging collapses
+
+*2025-09-13 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214515) · `si`
+
+There are seven people in the event of a mine of an illegal arragment mine in Colombia, Colombia.
+
+The group is stuck in the mines from Thursday.
+
+They are stating that they will remain deeply in a deep level of the earth.
+
+However, the foreign reports indicate that the assistance of the authorities are not inadequate and that they are doing so.
+
+These crys in the Coka area is constantly occurs, a mine explosive ringter.
+
+◼️
+
+[Data](articles/6a1b1b2d.json)
+
+[Extended Data](ext_articles/6a1b1b2d.ext.json)
+
+---
+
+### SriLankan Airlines draws India travellers with Axis Bank link
+
+*2025-09-13 11:30:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-draws-india-travellers-with-axis-bank-link-240436/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines is partnering with Axis Bank in India, to offer airfare deals and other benefits to the bank’s 15 million-strong customer base.
+
+Axis Bank credit and debit cardholders will enjoy an exclusive 10% discount on both Business Class and Economy Class fares when booking through the SriLankan Airlines website.
+
+The discount applies to SriLankan Airlines flights from India to Colombo, and onward via Colombo to all destinations in the Far East, the Middle East and the Maldives, as well as to Frankfurt and Paris.
+
+Customers travelling to Melbourne will receive an additional 5kg of checked baggage allowance.
+
+SriLankan Airlines plans to offer more deals later on, it said in a statement.
+
+“This partnership is also remarkable as it marks the first time ever that SriLankan Airlines has collaborated with a private Indian bank,” Fawzan Fareid, Regional Manager India, Bangladesh and Nepal of SriLankan Airlines, said.
+
+...
+
+[Data](articles/ae2afec4.json)
+
+[Extended Data](ext_articles/ae2afec4.ext.json)
 
 ---

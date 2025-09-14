@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-14 14:07:49**
+As of **2025-09-14 13:56:20**
 
 ## Newspaper Stats
 
-*Scraped **75,875** Articles*
+*Scraped **75,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,667
 dailymirrorlk | 4,733
 dailyftlk | 5,376
 adalk | 7,365
-adaderanalk | 9,757
-tamilmirrorlk | 11,343
+adaderanalk | 9,754
+tamilmirrorlk | 11,342
 virakesarilk | 12,365
 adaderanasinhalalk | 13,236
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-70,894 (93.4%) of 75,875 articles have been extended.
+70,880 (93.4%) of 75,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-14 (Sunday)
-
-### தங்க பிஸ்கட்டுகள் கடத்திய பாதுகாப்பு அதிகாரி சிக்கினார்
-
-*2025-09-14 13:23:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-பிஸ்கட்டுகள்-கடத்திய-பாதுகாப்பு-அதிகாரி-சிக்கினார்/175-364550) · `ta`
-
-ஒரு கோடியே 5 லட்சத்து 24 ஆயிரத்து 575 ரூபாய் 30 சதம் பெறுமதியான தங்க பிஸ்கட்டுகளை இரண்டு கால்களில் மறைத்து வைத்து, கட்டுநாயக்க விமான நிலையத்தில் இருந்து வெளியே கொண்டு வர முயற்சித்த, கட்டுநாயக்க விமான நிலையத்தின் பிரதான ​பாதுகாப்பு அதிகாரி, ஞாயிற்றுக்கிழமை (14) காலை, விமான நிலையத்தின் சுங்க பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்டவர், நீர்கொழும்பு கதவல பிரதேசத்தை வசிப்பிடமாக கொண்ட 54 வயதான நபர் ஆவார்.  அவர் சிவில் விமானப் பாதுகாப்பு சேவைகள் அமைப்பின் தலைவராகவும் பணியாற்றுகிறார்.
-
-24 கரட் தங்க பிஸ்கட்டுக்கள் 51 யை அவர், தன்னுடைய இரண்டு கால்களிலும், காயங்களுக்கு கட்டப்படும் பெண்டெச்னினால் சுற்றி, அதன்பின்னர் அவற்றை காலுறைகளின் ஊடாக சுற்றி, கட்டுநாயக்க விமான நிலையத்தில் உள்ள சிறப்பு புறப்பாடு சாளரத்தை விட்டு அவர் ஞாயிற்றுக்கிழமை (14) காலை 06.50 மணிக்கு வெளியேறும் போது விமான நிலைய சுங்க அதிகாரிகளால் கைது செய்யப்பட்டார்.
-
-...
-
-[Data](articles/fdd68e8e.json)
-
----
 
 ### Meeting with Minister Vijitha and UN Human Rights
 
@@ -113,44 +97,6 @@ It also states that 2026 GCE Advanced Level. The GCE Ordinary Level Examination 
 [Data](articles/f8237757.json)
 
 [Extended Data](ext_articles/f8237757.ext.json)
-
----
-
-### New Nepal PM vows to follow protesters’ demands to ‘end corruption’
-
-*2025-09-14 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112482/new-nepal-pm-vows-to-follow-protesters-demands-to-end-corruption) · `en`
-
-Nepal’s new leader vowed on Sunday (Sep 14) to follow protesters’ demands to “end corruption” as she began work as interim prime minister, after “Gen Z” youth demonstrations ousted her predecessor.
-
-“We have to work according to the thinking of the Gen Z generation,” said Sushila Karki, in her first public comments since taking office on Friday.
-
-“What this group is demanding is end of corruption, good governance and economic equality,” she added. “You and I have to be determined to fulfil that.”
-
-The 73-year-old former chief justice held a minute’s silence on Sunday for those killed in the unrest, before meetings began in the key government complex of Singha Durbar - where several buildings were set on fire during mass protests on Tuesday.
-
-At least 72 people were killed in two days of protests, and 191 injured, the government’s chief secretary Eaknarayan Aryal said on Sunday, increasing an earlier toll of 51.
-
-...
-
-[Data](articles/103523b4.json)
-
----
-
-### Headless, limbless body found washed ashore on Mudukatuwa beach
-
-*2025-09-14 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112481/headless-limbless-body-found-washed-ashore-on-mudukatuwa-beach) · `en`
-
-Marawila Police have launched an investigation following a complaint received regarding a body that had washed ashore on the Mudukatuwa beach in Marawila.
-
-According to police, the body was missing the head, both arms, and legs, and only a part of the torso remained, which was dressed in blue shorts.
-
-Police suspect that the body may belong to a male individual.
-
-However, the Acting Magistrate of Marawila is scheduled to conduct the initial inquiry, and further investigations are being carried out by the Marawila Police.
-
-◼️
-
-[Data](articles/0f9c47e6.json)
 
 ---
 
@@ -279,28 +225,6 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/4731d9a4.json)
 
 [Extended Data](ext_articles/4731d9a4.ext.json)
-
----
-
-### 2026 schools exams schedule released
-
-*2025-09-14 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112479/2026-schools-exams-schedule-released-) · `en`
-
-The 2026 school examinations schedule has been released by the Ministry of Education.
-
-Accordingly, the 2025 G.C.E Ordinary Level Examination will be held from 17 to 26 February 2026.
-
-Meanwhile, the G.C.E Advanced Level Examination is slated to be held from August 10 September 05.
-
-The Education Ministry stated that the Grade 5 Scholarship Exam will be held on August 09, 2026.
-
-Furthermore, the General IT Exam will be held on 24 October.
-
-The 2026 G.C.E Ordinary Level Examination is scheduled to be held from 08 to 17 December, the Education Ministry stated.
-
-◼️
-
-[Data](articles/47392dfa.json)
 
 ---
 
@@ -2117,5 +2041,79 @@ Engineers called to lead Lanka’s industrial transformation at IESL NEC 2025
 [Data](articles/d7453ba9.json)
 
 [Extended Data](ext_articles/d7453ba9.ext.json)
+
+---
+
+### Wealth Planners of AIA Sri Lanka at the prestigious President Club Convention held in China and Mongolia
+
+*2025-09-13 18:28:00* · [`islandlk`](http://island.lk/wealth-planners-of-aia-sri-lanka-at-the-prestigious-president-club-convention-held-in-china-and-mongolia/) · `en`
+
+AIA Sri Lanka has warmly congratulated its Wealth Planners who earned the privilege to participate in the 2025 AIA President Club Convention, held in China and Mongolia, a company news release said.
+
+“The AIA President’s Club is the most prestigious and celebrated event hosted by the AIA Group. Its significance is further elevated by the participation of top-performing winners from across 18 countries within the AIA network, bringing together excellence, diversity, and shared purpose on a global stage,” it explained.
+
+This annual international summit, organized by the AIA Group and held in various countries around the world, hosted 293 invitees this year. AIA Sri Lanka was represented by 17 participants, marking the 13th consecutive year of participation. Among them were senior management members and top-performing wealth planners who achieved exceptional sales performance.
+
+...
+
+[Data](articles/fbd32491.json)
+
+[Extended Data](ext_articles/fbd32491.ext.json)
+
+---
+
+### Ceylon Chamber presents National Budget 2026 proposals to President
+
+*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/ceylon-chamber-presents-national-budget-2026-proposals-to-president-2/) · `en`
+
+The newly appointed Board of The Ceylon Chamber of Commerce, led by Chairperson Krishan Balendra, held its first official meeting with President Anura Kumara Dissanayake on Thursday. The meeting provided a platform to present the Ceylon Chamber’s priority proposals for the forthcoming National Budget 2026, while also reviewing progress on previous reform initiatives.
+
+The Ceylon Chamber’s proposals were structured around five broad themes, with specific reforms aimed at strengthening growth and competitiveness:
+
+•    Trade & Investment Facilitation – establishing a National Single Window; modernising the Customs Ordinance; setting up a dedicated Free Trade Agreement (FTA) negotiation team, advancing a private-sector-led investment zone, continuation of facilitation of import/export clearance with the BOI and a well-structured incentive scheme for both local and foreign large investments in line with other emerging markets
+
+...
+
+[Data](articles/aabb31c8.json)
+
+[Extended Data](ext_articles/aabb31c8.ext.json)
+
+---
+
+### RDB Bank records stellar performance for 1st half 2025
+
+*2025-09-13 18:27:00* · [`islandlk`](http://island.lk/rdb-bank-records-stellar-performance-for-1st-half-2025-2/) · `en`
+
+Regional Development Bank (RDB) has recorded a sterling performance in the first half of 2025, Marking a milestone achievement in its 40-years journey with record profits and strong balance sheet growth, as Sri Lanka’s premier state-owned development bank.
+
+The Bank posted Profit Before Tax (PBT) of Rs. 2.2 billion for the first six months ended 30th June 2025 as against Rs. 492 million reported for the same period of last year while Profit After Tax (PAT) crossed Rs. 1 billion.
+
+Chairman of RDB, Lasantha Fernando, attributed this exceptional performance to the disciplined strategies implemented at the start of the year and a carefully structured corporate budget. “We have been able to maintain an attractive interest margin, offsetting the pressures from a moderately high NPL ratio. These results reflect the trust of our large and loyal customer base, and the resilience of our business model which serves both large and small communities across the country,” he said.
+
+...
+
+[Data](articles/c3f21cb6.json)
+
+[Extended Data](ext_articles/c3f21cb6.ext.json)
+
+---
+
+### Protest against Trump's column tax
+
+*2025-09-13 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214531) · `si`
+
+The Free Trade Zones and the General Employees Union have protested against the American bar.
+
+The protest was held in front of the main entrance of the Katunayaka Free Trade Zones this afternoon.
+
+The protests have been protested that the administration administration has taken measures to slash the privileges of the United States due to the decision of tariffs.
+
+They point out that the government requested the government to discuss the opportunity to discuss the issues faced by the employees with the problems faced by the employees.
+
+◼️
+
+[Data](articles/4cce16f9.json)
+
+[Extended Data](ext_articles/4cce16f9.ext.json)
 
 ---

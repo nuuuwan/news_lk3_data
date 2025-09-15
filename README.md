@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 09:27:31**
+As of **2025-09-15 10:09:34**
 
 ## Newspaper Stats
 
-*Scraped **76,020** Articles*
+*Scraped **76,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,72 @@ islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,377
-adaderanalk | 9,777
+adaderanalk | 9,779
 tamilmirrorlk | 11,368
-virakesarilk | 12,395
+virakesarilk | 12,396
 adaderanasinhalalk | 13,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,665 (94.3%) of 76,020 articles have been extended.
+71,684 (94.3%) of 76,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### பாகிஸ்தான் வீரர்களுக்கு கைகுலுக்க இந்தியவீரர்கள் மறுப்பு
+### 11-year old boy drowns in Dewahuwa Reservoir
+
+*2025-09-15 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112508/11-year-old-boy-drowns-in-dewahuwa-reservoir) · `en`
+
+An 11-year-old boy has reportedly drowned while bathing in the Dewahuwa Reservoir in the Galewela area, police said.
+
+The child had gone to bathe in the reservoir with his father and relatives when he was swept under by strong currents and went missing, police said.
+
+Relatives and residents of that area later retrieved the child from the water and rushed him to the Galewela Hospital, where he was later pronounced dead..
+
+◼️
+
+[Data](articles/eab6fe0e.json)
+
+---
+
+### Indians refuse to shake hands for Pakistani soldiers
 
 *2025-09-15 09:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-வீரர்களுக்கு-கைகுலுக்க-இந்தியவீரர்கள்-மறுப்பு/44-364595) · `ta`
 
-பலத்த எதிர்ப்புக்கு மத்தியில் போட்டி நடந்ததால் டாசிலும், போட்டி முடிந்த பிறகும் வீரர்கள் கை கொடுக்காமல் புறக்கணித்தனர்
+Dossing in the toss and after the competition, the players boycotted their hand due to strong opposition
 
-ஆசிய கோப்பையில் இந்திய அணி பாகிஸ்தானை வீழ்த்தியது. .துபாயில் நடைபெற்ற ஆட்டத்தில் டாஸ் வென்று முதலில் பேட்டிங் செய்த பாகிஸ்தான் நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 9 விக்கெட்டுகளை இழந்து 127 ரன்கள் மட்டுமே சேர்த்தது..
+Indian team beat Pakistan in Asia Cup. Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets in 20 overs.
 
-எளிய வெற்றி இலக்கை நோக்கி ஆடிய இந்திய அணி 16 ஓவர்களுக்குள் 3 விக்கெட்டுகளை மட்டுமே இழந்து 131 ரன்கள் சேர்த்து 7 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.இந்த நிலையில், ஆட்டம் முடிந்ததும், பாகிஸ்தான் வீரர்களுடன் கைக்குலுக்குவதைத் இந்திய வீரர்கள் தவிர்த்தனர்.இந்திய வீரர்கள் பஹல்காமில் நடத்தப்பட்ட தாக்குதலைக் கண்டித்து இதனைச் செய்ததாகக் கூறப்படுகிறது
+The Indian team lost only 3 wickets in 16 overs with 131 runs and won by 7 wickets.
 
 ◼️
 
 [Data](articles/f4e7291d.json)
+
+[Extended Data](ext_articles/f4e7291d.ext.json)
+
+---
+
+### Trump heads for historic second UK state visit
+
+*2025-09-15 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112507/trump-heads-for-historic-second-uk-state-visit) · `en`
+
+Donald Trump will get the red carpet treatment this week on an unprecedented second United Kingdom state visit, as Britain counts on royal pomp and circumstance to woo the unpredictable United States president.
+
+From a flyby and carriage ride with King Charles III to a grand state banquet at historic Windsor Castle, Britain is pulling out all the stops to flatter Trump, who has long been fascinated with the monarchy.
+
+The aim is to keep Prime Minister Keir Starmer on Trump’s good side when they meet at the British leader’s country residence for talks centred on trade, tariffs and the Ukraine war.
+
+Trump will also be kept far away from crowds and protesters, with all the action taking place outside London, where a large demonstration against the 79-year-old Republican is set to take place.
+
+Labour leader Starmer is not a natural bedfellow for right-wing firebrand Trump, but he has worked hard to win him over since the US president returned to the White House in January.
+
+...
+
+[Data](articles/5f505d9f.json)
 
 ---
 
@@ -67,6 +105,26 @@ In this context, the National Farmers' Union has demanded that the government im
 [Data](articles/50eafac1.json)
 
 [Extended Data](ext_articles/50eafac1.ext.json)
+
+---
+
+### காசா மீது இஸ்ரேல் தாக்குதல்: 53 பேர் உயிரிழப்பு:  பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன!
+
+*2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225105) · `ta`
+
+காசா மீது நேற்றையதினம் இஸ்ரேல் நடத்திய தாக்குதல்களில் 53 பேர் உயிரிழந்ததுடன், பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன.
+
+காசா நகரத்தின் மீது இஸ்ரேல் தனது குண்டுவீச்சு தாக்குதலை தீவிரப்படுத்தியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+வடக்கு நகர்ப்புற மையத்தைக் கைப்பற்றி அதன் மக்களை இடம்பெயரச் செய்வதற்கான தாக்குதலை இஸ்ரேலியப் படைகள் தீவிரப்படுத்தியுள்ள நிலையில், காசா பகுதியில் 53 பாலஸ்தீனியர்களைக் கொல்லப்பட்டுள்ளனர்
+
+இஸ்ரேலின் போர் தொடங்கியதிலிருந்து, காசாவில் பசியிலினால் உயிரிழந்தவர்களின் எண்ணிக்கை 422 ஆக உயர்ந்துள்ளதாக அந்த நாட்டு சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+காசா நகரில், இஸ்ரேலிய இராணுவம் தெற்கு ரெமால் சுற்றுப்புறத்தில் உள்ள அல்-கவ்தர் கோபுரத்தை இலக்குவைத்து, இரண்டு மணி நேரம்  ஏவுகணைத் தாக்குதல்களை நடத்தியுள்ளது.
+
+◼️
+
+[Data](articles/f72edf41.json)
 
 ---
 
@@ -320,21 +378,23 @@ The union further stated that it will make an announcement regarding the next ph
 
 ---
 
-### පාකිස්තාන ක්‍රීඩකයන්ට අතට අත දීම ඉන්දියාව ප්‍රතික්ෂේප කරයි
+### India rejects Pakistan's hands
 
 *2025-09-15 07:51:28* · [`adalk`](https://www.ada.lk/sports/පාකිස්තාන-ක්‍රීඩකයන්ට-අතට-අත-දීම-ඉන්දියාව-ප්‍රතික්ෂේප-කරයි/9-418496) · `si`
 
-ආසියානු කුසලාන තරවලිය යටතේ ඉන්දීය කණ්ඩායම හා පාකිස්තාන කණ්ඩායම අතර ඊයේ පැවැති තරගයෙන් අනතුරුව පාකිස්තාන ක්‍රීඩකයන්ට අතට අත දීම ප්‍රතික්ෂේප කළ බව පාකිස්තාන පුහුණුකරු මයික් හෙසන් පවසයි.
+Under the Asian Cup, Pakistani trainers refused to hand over the hands of the Pakistan and the Pakistan.
 
-ඩුබායි හි පැවති මෙම තරගයෙන් ඉන්දියාව කඩුලු හතක ජයග්‍රහණයක් අත්කර ගත් අතර, පසුව ඒ වන විට පන්දුවට පහරදෙමින් සිටි නායක සූර්යකුමාර් යාදව් සහ  ශිවම් ඩූබේ තරගය ජයග්‍රහණය කළ විගසම පාකිස්තාන ක්‍රීඩකයන්ට අතට අත නොදී ඉක්මනින්ම පිටියෙන් ඉවත් විය.
+India was a victory for seven wickets in Dubai and then immediately left the Pakistani players immediately.
 
-පසුව, පාකිස්තාන ක්‍රීඩකයින්  ඉන්දීය ක්‍රීඩකයන් රැදී සිට ඩග්අවුට් දෙසට ඇවිද යන බවක් පෙනෙන්නට තිබුණත් ඉන්දීය ක්‍රීඩකයින් ඒ වන විටත් ක්‍රීඩකාගාරයට ආපසු ගොස් තිබුණි.
+Later, Pakistani players seemed to walk to the dougut, but Indian players had already returned to the athlese.
 
-කාසියේ වාසිය ලබා ගැනීමේන් අනතුරුවත් සූර්යකුමාර් සහ පාකිස්තාන නායක සල්මන් ආගා අතර අතට අත දීමක්  සිදු නොවීය.  "පැහැදිලිවම, තරගය අවසානයේ අපි අතට අත දීමට සූදානම්ව සිටියා," නවසීලන්ත ජාතිකයෙක් වන හෙසන් පැවසීය.
+The gain of the coin was dangerous, but Surnemer and Pakistan Leader Salman Agraya were not handling.  "Clearly, the match was ready to let us down," said New Zealand Hesson.
 
 ◼️
 
 [Data](articles/57101369.json)
+
+[Extended Data](ext_articles/57101369.ext.json)
 
 ---
 
@@ -1973,71 +2033,5 @@ The Prime Minister said that the Prime Minister would be able to realize the chi
 [Data](articles/4abcafa3.json)
 
 [Extended Data](ext_articles/4abcafa3.ext.json)
-
----
-
-### 5.8 earthquake jolts India’s Assam, Tremors felt in north Bengal, Bhutan
-
-*2025-09-14 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112493/58-earthquake-jolts-indias-assam-tremors-felt-in-north-bengal-bhutan) · `en`
-
-An earthquake of 5.8 magnitude struck parts of the north-east of India on Sunday (September 14), officials said.
-
-There was no immediate report of any loss of life or damage to property, they said.
-
-The epicentre of the earthquake that took place at 4.41 pm on Sunday, was in Udalguri district, the officials said.
-
-Assam Chief Minister Himanta Biswa Sarma, in a post on X, said, “The epicentre (of the earthquake) was near Udalguri. So far, there has been no report of any major damage or loss of life. We are actively monitoring the situation.”
-
-Residents of Udalguri, Sonitpur, Tamulpur, Nalbari and several other districts in Assam felt the tremors.
-
-Panic-gripped people were seen rushing out of their residences in Guwahati.
-
-People of the western parts of Manipur, Arunachal Pradesh and north Bengal also felt the jolt in addition to residents of some parts of Bhutan.
-
-Residents in Arunachal Pradesh’s capital Itanagar ran out of their houses and shops in panic.
-
-...
-
-[Data](articles/3ad89cb6.json)
-
-[Extended Data](ext_articles/3ad89cb6.ext.json)
-
----
-
-### When are the main exams in 2026
-
-*2025-09-14 17:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-இல்-முக்கிய-பரீட்சைகள்-எப்போது/175-364568) · `ta`
-
-Days for the National Examinations for 2026 by the Ministry of Education have been announced. Accordingly, the GCE Ordinary Level Examination for this year will be held from February 17 to 26, 2026.
-
-The GCE Advanced Level Examination for 2026 will be held from August 10 to September 5. The scholarship for the fifth grade students will be held on August 9. The General Information Technology Examination will be held on October 24. The GCE Ordinary Level Examination for 2026 will be held from 8 to 17 December.
-
-Meanwhile, the Ministry of Education has also issued a school calendar for 2026 for private and government -approved private schools.. It also mentioned the installment dates for Muslim schools. Accordingly, the first installment of the new year will begin on January 1, 2026.
-
-◼️
-
-[Data](articles/63ceee86.json)
-
-[Extended Data](ext_articles/63ceee86.ext.json)
-
----
-
-### Occasionally fun with the daughter's boyfriend
-
-*2025-09-14 17:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலனிடமும்-மகளின்-காதலனுடனும்-அவ்வப்போது-உல்லாசம்-கணவனை-மாட்டி-விட்ட-பரிதாபம்/175-364567) · `ta`
-
-A 44 -year -old woman who occasionally entertained her husband and her daughter's boyfriend has been caught by her husband in the police.
-
-Ramesh is working in the Water Supply Department at the Ramesh Municipal Office of Mumbai's Mumbai State. His wife (Urmila is 44). The couple had a daughter at the age of 18. Aarmila had a counterfeit connection with another young man from the same area.. When the husband is not at home, the young man comes home and will be fun.
-
-He also communicated through social media and developed forged love. It was on the one hand that his daughter's boyfriend often came to the house. Then Urmila became accustomed to her daughter's boyfriend. Urmila will have fun with her daughter's boyfriend when the daughter is not at home.
-
-He has often talked to her daughter's boyfriend on the phone. In this case, Urmila decided to live with her counterfeit. For this purpose, he sold the jewelery at home and transferred Rs 10 lakh to her boyfriend's bank account.
-
-...
-
-[Data](articles/e2a85b6f.json)
-
-[Extended Data](ext_articles/e2a85b6f.ext.json)
 
 ---

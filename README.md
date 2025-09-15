@@ -1,208 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 15:08:26**
+As of **2025-09-15 14:11:39**
 
 ## Newspaper Stats
 
-*Scraped **76,086** Articles*
+*Scraped **76,074** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 628
+dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,608
+economynextcom | 4,607
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,383
-adaderanalk | 9,788
+adalk | 7,382
+adaderanalk | 9,784
 tamilmirrorlk | 11,386
-virakesarilk | 12,404
-adaderanasinhalalk | 13,274
+virakesarilk | 12,402
+adaderanasinhalalk | 13,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,002 (94.6%) of 76,086 articles have been extended.
+71,935 (94.6%) of 76,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### සහල් සඳහා පැනවූ පාලන මිල ගැසට්ටුව සංශෝධනය කරන්නේ නෑ - පාරිභෝගික අධිකාරිය
-
-*2025-09-15 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214597) · `si`
-
-රට තුළ මේ වන විට පවතින කීරි සම්බා සහ සම්බා සහල් හිඟය සම්බන්ධව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා අද (15) අදහස් දැක්වීමක් සිදු කළේය.
-
-එහිදී අදහස් දක්වමින් සභාපතිවරයා පැවසුවේ මේ සම්බන්ධව තොරතුරු පාරිභෝගික කටයටුතු පිළිබඳ අධිකාරියට ලැබුණු බවත් සිදුකළ සොයා බැලීමකදි එවැනි සහල් හිඟයක් සම්බන්ධව අධිකාරියට කරුණු අනාවරණය වූ බවත්ය.
-
-කෙසේ නමුත් ගැසට් පත්‍රයක් මගින් සහල් සඳහා පාලන මිලක් නියම කර ඇති බවත් එම මිලට වඩා වැඩි මිලකට සහල් අලෙවි කරන්නේ නම් පවත්නා නීතිය යටතේ අවශ්‍ය නීතිමය කටයුතු සිදුකිරීමට අධිකාරිය පියවර ගනු බවය.
-
-මේ හේතුවෙන් ගැසට් පත්‍රයට අනුකූල ලෙස කටයුතු කළ හැකි පරිදි වී මිලදී ගැනීම් ක්‍රියාවන් සිදුකරන ලෙස මෙන්ම සහල් අලෙවි කිරීමේ කටයුතු සිදු කරන ලෙසත් තමන් සියලු පාර්ශ්වයන්ගෙන් ඉල්ලා සිටින බවද ඒ මහතා මෙහිදී අවධාරණය කරනු ලැබීය.
-
-එමෙන්ම සහල් සම්බන්ධ වැටලීම් අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කරන බවත් මේ සඳහා පාරිභෝගික නිලධාරීන් දැනුවත් කිරීමට පියවර ගන්නා බවත් සභාපතිවරයා මෙහිදී පැවසීය.
-
-...
-
-[Data](articles/5bbcf6fc.json)
-
----
-
-### 2029 ஆம் ஆண்டுக்குள் 50 பல்வகைமை போக்குவரத்து நிலையங்கள் நிறுவ இலக்கு - அமைச்சர் பிமல் ரத்நாயக்க
-
-*2025-09-15 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225138) · `ta`
-
-2029 ஆம் ஆண்டுக்குள் நாடு முழுவதும் சுமார் 50 பல்வகைமை போக்குவரத்து நிலையங்களை நிறுவுவதே அரசாங்கத்தின் இலக்கு என போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-ஜனாதிபதி அனுர குமார திசாநாயக்கவின் தலைமையில், புறக்கோட்டையில் உள்ள, கொழும்பு மத்திய பஸ் நிலைய புதுப்பித்தல் திட்டத்தின் ஆரம்ப விழாவில் உரையாற்றும் போதே அவர் இதனை  குறிப்பிட்டுள்ளார்.
-
-2026 ஆம் ஆண்டுக்குள் கொழும்பில் இதுபோன்ற 15 பஸ் நிலையங்கள் அமைக்க எதிர்பார்ப்பதாகவும் அவர் குறிப்பிட்டுள்ளார்.
-
-பயணிகளுக்கு எளிதாக பஸ், ரயில் மற்றும் முச்சக்கரவண்டி சேவைகளை ஒரே இடத்திலிருந்து வழங்கும் வகையில் புதிய நிலையங்கள் வடிவமைக்கப்படும் என்றும் அமைச்சர் இதன்போது தெரிவித்துள்ளார்.
-
-கொழும்பு உள்ளிட்ட பல முக்கிய பஸ் நிலையங்களை மேம்படுத்த அமைச்சு செயல்பட்டு வருவதாகவும் இந்த உரையாடலின்போது அவர் குறிப்பிட்டுள்ளார்.
-
-போக்குவரத்துத் துறையை மேம்படுத்தாவிட்டால் நாம் நாட்டை அபிவிருத்தி செய்ய முடியாது என்றும் இதன்போது போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க வலியுறுத்தினார்.
-
-◼️
-
-[Data](articles/f62ad5ea.json)
-
----
-
-### 1.5 million Australians threaten 1.5 million
-
-*2025-09-15 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214596) · `si`
-
-According to a report, 1.5 million people living in the coastal areas of Australia by 2050 have to face the influence of sea level.
-
-◼️
-
-[Data](articles/d41d2688.json)
-
-[Extended Data](ext_articles/d41d2688.ext.json)
-
----
-
-### Prime Minister says that the government does not interfere with the independence of the police
-
-*2025-09-15 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214595) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the government hopes to make the police service into an independent, efficient, friendly and close to the public.
-
-She was addressing the closing ceremony of the 84th Police Interhearterene of the Sri Lanka Police Station at the Colombo Field Force Headquarters.
-
-Sachithra Jayakantan of the Criminal Investigation Division is the best thorns at the 84th Police Interhearterene.. Wijetunga, AMN. Perera, National. Despite the players of Hemantha, the Prime Minister Challenge Shield of Prime Minister for the Overall Succurrence, the Prime Minister was awarded the overall factory.
-
-Prime Minister Dr. Harini Amarasuriya said,
-
-...
-
-[Data](articles/c3d2909b.json)
-
-[Extended Data](ext_articles/c3d2909b.ext.json)
-
----
-
-### Economic and Investment Summit to focus on drawing investors to Sri Lanka
-
-*2025-09-15 14:00:00* · [`economynextcom`](https://economynext.com/economic-and-investment-summit-to-focus-on-drawing-investors-to-sri-lanka-240556/) · `en`
-
-ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, the Ceylon Chamber of Commerce said.
-
-“The session will explore how Sri Lanka can accelerate much-needed reforms, mitigate risks, and unlock new opportunities to position itself as a credible and attractive destination for both local and international investors,” the chamber said.
-
-The session titled “Where Sri Lanka Stands and What Comes Next?” will feature Arjuna Herath – Chairman, Board of Investment of Sri Lanka, Dimuthu Abeyesekera – Chairman, Colombo Stock Exchange, Mangala Wijesinghe – Chairman/CEO, Sri Lanka Export Development Board, and K A Vimalenthirarajah, – Secretary, Ministry of Trade, Commerce and Food Security.
-
-Dialog Axiata Group CEO Supun Weerasinghe will moderate the session.
-
-The summit will be held on December 2-3 at the Shangri-La Hotel Colombo. (Colombo/Sep15/2025)
-
-◼️
-
-[Data](articles/aae972b3.json)
-
-[Extended Data](ext_articles/aae972b3.ext.json)
-
----
-
-### Increasing ecommerce industry in Sri Lanka!
-
-*2025-09-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225136) · `ta`
-
-Police are paying attention to the rapid rise of enemy sex industry in Sri Lanka. There have been increased concerns about many people, including cyber fraud, exploitation and boys. Foreign women who have come to Sri Lanka on a tourist visa have also been shocked by this.
-
-Ads for hundreds of sex services daily with many websites and mobile processors. It has a variety of features such as direct video services and personal meetings.
-
-Charges for these services vary depending on the type of service. For example, the "mother full body massage" is advertised for about 10,000 rupees. At the same time, the cost of the live video session is charged from 1,000 rupees to Rs 1,000 for 30 minutes and 10,000 rupees. 8,000 to Rs 30,000 for direct meetings.
-
-...
-
-[Data](articles/4a360d7a.json)
-
-[Extended Data](ext_articles/4a360d7a.ext.json)
-
----
-
-### Another suspected ‘Ice’ production facility uncovered in Hambantota
-
-*2025-09-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112519/another-suspected-ice-production-facility-uncovered-in-hambantota) · `en`
-
-Another house believed to have been used by underworld figures ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’ for manufacturing the drug ‘Ice’ has been uncovered in Mayurapura, Hambantota by the Kalutara District Crimes Division.
-
-The house in question has been discovered following a revelation made by ‘Embilipitiya Suranga,’ a close associate of ‘Kudu Nilanga,’ after he was arrested by the Kalutara District Crime Division, police said.
-
-He had revealed a 20-year-old resident of Kiriyagolla, Wellawaya, named ‘Sampath Bandara’ and the suspect was arrested with ice drugs in Arukgoda, Panadura.
-
-The suspect has then disclosed details about the Mayurapura house where narcotics were allegedly being manufactured and informed police that he was present at the location during the production of the drugs, police said.
-
-The suspect reportedly said that three Iranians were involved in the manufacturing of ‘Ice’ in the house and later sold about 14 kilograms of the drug to Kehelbaddara Padme’s party.
-
-...
-
-[Data](articles/e0782969.json)
-
----
-
-### Rs. 2000 currency note will be gradually introduced into the banking system: CBSL
-
-*2025-09-15 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112518/rs-2000-currency-note-will-be-gradually-introduced-into-the-banking-system-cbsl) · `en`
-
-The newly issued Rs. 2000 commemorative currency note, released on 29 August 2025 to mark its 75th anniversary, will be gradually introduced into the banking system, the Central Bank of Sri Lanka (CBSL) has announced.
-
-Licensed Commercial Banks are currently calibrating their cash-handling machines to accept and dispense the new note. The CBSL stated that the note will be released into circulation in line with the progress of this process.
-
-The Central Bank requested the cooperation of the public during the transition and assured that the new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.
-
-For further information, the public has been requested to contact the CBSL Currency Department, visit the official website, or follow CBSL’s verified social media platforms.
-
-◼️
-
-[Data](articles/75730697.json)
-
-[Extended Data](ext_articles/75730697.ext.json)
-
----
-
-### “The. 2000 will be gradually circulated. ”
+### “ரூ. 2000 படிப்படியாக சுற்றோட்டத்திற்கு விடப்படும்”
 
 *2025-09-15 13:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2000-படிப்படியாக-சுற்றோட்டத்திற்கு-விடப்படும்/175-364621) · `ta`
 
-The Central Bank of Sri Lanka released its 75th anniversary on August 29, 2025. The Central Bank of Sri Lanka has announced that the currency should be circulated.
+இலங்கை மத்திய வங்கி அதன் 75ஆவது ஆண்டு நிறைவை முன்னிட்டு 2000 ரூபாய் நாணயத்தாளை 2025 ஓகஸ்ட்  29 அன்று  வெளியிட்டது. அந்த நாணயத்தாள்  சுற்றோட்டத்திற்கு விடப்படும் என இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
 
-In order to facilitate the acceptance and distribution of the new currency, licensed commercial banks carry out the process of measurement of their money handling machines. In accordance with the progress of this process. The new currency panel will be gradually circulated through licensed commercial banks.
+புதிய நாணயத்தாளை தங்குதடையின்றி ஏற்றுக்கொள்வதையும் விநியோகிப்பதையும் வசதிப்படுத்தும் பொருட்டு, உரிமம்பெற்ற வர்த்தக வங்கிகள் அவற்றின் பணம் கையாளும் இயந்திரங்களை அளவமைக்கும் செயன்முறையை முன்னெடுக்கின்றன. இச்செயன்முறையின் முன்னேற்றத்துக்கு ஏற்ப. புதிய நாணயத்தாள் உரிமம்பெற்ற வர்த்தக வங்கிகள் ஊடாக படிப்படியாக சுற்றோட்டத்திற்கு விடப்படும்.
 
-The Central Bank of Sri Lanka promises to use the cooperation of public cooperation during this period of changing and that the new currency paper will be used by all banks.
+மாறுதலடைகின்ற இக்காலப்பகுதியில் பொதுமக்களின் ஒத்துழைப்பை இலங்கை மத்திய வங்கி மெச்சுவதுடன் அளவமைக்கும் செயன்முறை நிறைவடைந்தவுடன் புதிய நாணயத்தாள் அனைத்து வங்கிகள் மூலமும் தங்குதடையின்றிப் பயன்படுத்தப்படுமெனவும் உறுதியளிக்கின்றது.
 
 ◼️
 
 [Data](articles/fb75103e.json)
-
-[Extended Data](ext_articles/fb75103e.ext.json)
 
 ---
 
@@ -285,48 +127,6 @@ Accordingly, the Central Bank of Sri Lanka (CBSL) has announced that the call of
 [Data](articles/62b2bf6d.json)
 
 [Extended Data](ext_articles/62b2bf6d.ext.json)
-
----
-
-### Rising oceans to threaten 1.5 million Australians by 2050: Report
-
-*2025-09-15 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112517/rising-oceans-to-threaten-15-million-australians-by-2050-report) · `en`
-
-Rising oceans and flooding caused by climate change will threaten the homes and livelihoods of over a million Australians by 2050, while deaths from heat-related illness will soar, a landmark report warned Monday (Sep 15) ahead of the country’s releasing its emission reduction targets this week.
-
-The long-awaited national climate risk assessment found that rising temperatures will have “cascading, compounding, concurrent” impacts on life in Australia, home to more than 27 million people.
-
-“We are living climate change now. It’s no longer a forecast, a projection or prediction - it is a live reality, and it’s too late to avoid any impacts,” Climate Minister Chris Bowen said.
-
-The report, prepared independently for the government, found that 1.5 million people living in coastal areas will be at risk of sea level rise and coastal flooding by 2050.
-
-By 2090, about three million people will be at risk from rising oceans.
-
-...
-
-[Data](articles/28530ce3.json)
-
-[Extended Data](ext_articles/28530ce3.ext.json)
-
----
-
-### Govt aims to build independent and people-oriented police service - PM
-
-*2025-09-15 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112516/govt-aims-to-build-independent-and-people-oriented-police-service-pm) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that it is the Government’s expectation to transform the Police Service into an independent, efficient, friendly, and people-oriented service.
-
-The Prime Minister made these remarks while addressing the closing ceremony of the 84th Police Inter-Divisional Athletics meets held on 14 September at the Field Force Headquarters, Colombo, according to the Prime Minister’s Media Division.
-
-At the 84th Police Inter-Divisional Athletics Meets, the award for the Best Female Athlete was presented to Sachithra Jayakanthan of the Criminal Investigation Division, while the awards for the Best Male Athletes were presented to T.G.S. Wijethunga, A.M.N. Perera, and Hemantha.
-
-The Prime Minister’s Challenge Trophy for Overall Runner-Up was presented by the Prime Minister to the Criminal Investigation Department and the President’s Challenge Trophy for Overall Championship to the Special Task Force, the statement said.
-
-...
-
-[Data](articles/2b549148.json)
-
-[Extended Data](ext_articles/2b549148.ext.json)
 
 ---
 
@@ -718,17 +518,15 @@ Among respondents, the perceived probability of materialisation of a high impact
 
 ---
 
-### Bimal climbed in Eman's vehicle
+### எமனின் வாகனத்தில் ஏறிய பிமல்
 
 *2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எமனின்-வாகனத்தில்-ஏறிய-பிமல்/62-364610) · `ta`
 
-Transport Minister Bimal Ratnayaka said that the innocent civilian is holding his hips without falling down.
+போக்குவரத்து அமைச்சர் பிமல் ரத்னாயக்க, எமனின் வாகனமான எருமையின் மீதேறி இருப்பதை போலவும் அப்பாவி பொதுமகன் கீழே விழுந்து விடாது அவரின் இடுப்பை பிடித்துக்கொண்டு இருக்கின்றார்..
 
 ◼️
 
 [Data](articles/9b7d29d5.json)
-
-[Extended Data](ext_articles/9b7d29d5.ext.json)
 
 ---
 
@@ -767,30 +565,6 @@ Under the first phase, 28 students were given scholarships.
 [Data](articles/9679186f.json)
 
 [Extended Data](ext_articles/9679186f.ext.json)
-
----
-
-### Privilege groups have failed the President
-
-*2025-09-15 11:16:44* · [`adalk`](https://www.ada.lk/breaking_news/වරප්‍රසාද-කණ්ඩායම්-ජනපති-අරමුදල-අව‍භාවිත-කළා/11-418502) · `si`
-
-Prime Minister Dr. Haraini Amarasuriya stated that the presidential fund has been able to obey the privileged groups of the past regime.
-
-The Prime Minister made these comments participating in the program auditorium in the Kandy District Secretariat yesterday (14).
-
-At the GCE Advanced Level 6, 361 students have been awarded Rs. 36.1 million for 361 students.
-
-Speaking further the Prime Minister said that the actual objective of the Presidential Fund is under the current government and the presidential fund is currently working under the present government.
-
-It was said that the presidential fund has taken steps to implement a program to doctors and that a program to support children contributes to the creation of a good human resource.
-
-The Prime Minister further stated that instead of the education system under one frame, the Prime Minister further stated that the children will be able to realize the dreams of the children.
-
-◼️
-
-[Data](articles/8fc5b3a0.json)
-
-[Extended Data](ext_articles/8fc5b3a0.ext.json)
 
 ---
 
@@ -1924,20 +1698,6 @@ However, in 2025, there was no inflationary policy per se, other than dollar-rup
 
 ---
 
-### 
-
-*2025-09-15 05:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-The Main Problem  Today is  Illegal Fishing by Indian Fishers in Northern Waters and not the  Issuer of  India Retrieving  Katchatheevu.
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-...
-
-[Data](articles/39f24b3f.json)
-
----
-
 ### We have failed to reach the target of economic growth to repay the loan - Sajith Premadasa
 
 *2025-09-15 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225098) · `ta`
@@ -2075,5 +1835,253 @@ But now there is a lot of troubles in the price petition. Litro interferes with 
 [Data](articles/93a9ae7f.json)
 
 [Extended Data](ext_articles/93a9ae7f.ext.json)
+
+---
+
+### Civil Air Security Officer arrested with gold biscuits 21 crores
+
+*2025-09-15 04:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225091) · `ta`
+
+A security officer has been arrested for attempting to take out the airport at the Katunayake airport, hiding gold biscuits worth more than 210 million rupees.
+
+A security guard at the airport was arrested with gold biscuits at 6.50 am on Sunday. Customs officials have stopped and examined him as the suspect tried to leave through the gate of the staff at the airport.
+
+51 gold biscuits have been seized after being hidden inside the suspect's shoes.  The Customs Unit said that the gold biscuits were worn by a bar and tied up with a foot.. Customs officials are estimated to weigh 5 kg 941 grams and its market value is about 210,524,575.35 rupees.
+
+Meanwhile, the 54 -year -old is the head of the Civil Aviation Services Services Organization in Kandawa, Negombo, Kandawa.. Customs officials have expressed suspicion that the suspect may have been involved in such crimes for a long time.
+
+Further investigations are being carried out by the airport customs units.
+
+◼️
+
+[Data](articles/d9bd8673.json)
+
+[Extended Data](ext_articles/d9bd8673.ext.json)
+
+---
+
+### "I got lucky to end terrorist war" - Former President Mahinda Rajapakse
+
+*2025-09-15 03:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225090) · `ta`
+
+I am happy to have ended the terrorist war. I think it was a wonder that I got it.. Former President Mahinda Rajapakse has said that the heads of state should act without submitting international interventions.
+
+Young people must obtain their rights.. In doing so, the government is ready to disable it unnecessarily.
+
+Former President Mahinda Rajapaksa, who left the state official residence and visited the Tangalle Calton residence, said in an interview with private television service.
+
+Question - Did you think that they would leave the state official residence and come to Tangalle's Calton House?
+
+Answer- I wanted to come here, even if there was no relief than to come to my home.
+
+Question - Did you expect this government to take this decision on the former presidents?
+
+Answer- The government's decisions may be correct and wrong.
+
+Answer- Rajapakse is not only a threat to the government.
+
+...
+
+[Data](articles/e65f5747.json)
+
+[Extended Data](ext_articles/e65f5747.ext.json)
+
+---
+
+### CoPF clears CIABOC’s 2026 Budget amid debate over sharp salary hike
+
+*2025-09-15 03:55:05* · [`dailyftlk`](https://www.ft.lk/news/CoPF-clears-CIABOC-s-2026-Budget-amid-debate-over-sharp-salary-hike/56-781691) · `en`
+
+Approves to double salary allocations from Rs. 354 m to Rs. 777 m
+
+Expansion plan increases staff from 489 to 967, establishes regional offices countrywide
+
+CoPF Chair MP Dr. Harsha de Silva urges phased funding tied to recruitment milestones to avoid inefficiencies
+
+CIABOC Director-General Ranga Dissanayake defends full allocation, citing legal mandate and December 2026 deadline
+
+CoPF calls for stronger oversight, financial autonomy for CIABOC and judicially benchmarked salaries
+
+​The Parliamentary Committee on Public Finance (CoPF) has approved the 2026 Budget estimates for the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), despite concerns over a steep increase in salary allocations.
+
+...
+
+[Data](articles/b2c5bf28.json)
+
+[Extended Data](ext_articles/b2c5bf28.ext.json)
+
+---
+
+### ‘76-Year Curse and Aragalaya’ book debuts
+
+*2025-09-15 03:52:38* · [`dailyftlk`](https://www.ft.lk/news/76-Year-Curse-and-Aragalaya-book-debuts/56-781690) · `en`
+
+The first copy of the Sinhala edition of the book ’76-Year Curse and Aragalaya,’ authored by Gunasena K. Hennedi, was presented to former President Gotabaya Rajapaksa at his residence on Saturday
+
+◼️
+
+[Data](articles/e986ea87.json)
+
+[Extended Data](ext_articles/e986ea87.ext.json)
+
+---
+
+### An elderly death injured in an accident
+
+*2025-09-15 03:52:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-படுகாயமடைந்த-வயோதிபர்-உயிரிழப்பு/175-364589) · `ta`
+
+Yall. The deceased was Vallipuram Mahalingam (72) from Tirunelveli - Kalasalai road.
+
+The elderly man was returning home from Kilinochchi on a motorcycle on the 5th. The child was hit by a bicycle in the area.
+
+He was admitted to the Chavakachcheri Resource Hospital and later in Jaffna. He was transferred to the teaching hospital.
+
+Investigations into the death were conducted by Namasivayam Premkumar, a sudden death investigator.
+
+◼️
+
+[Data](articles/dbb87c36.json)
+
+[Extended Data](ext_articles/dbb87c36.ext.json)
+
+---
+
+### AASL staff member arrested at BIA with Rs. 210 m  worth of gold biscuits
+
+*2025-09-15 03:49:59* · [`dailyftlk`](https://www.ft.lk/news/AASL-staff-member-arrested-at-BIA-with-Rs-210-m-worth-of-gold-biscuits/56-781689) · `en`
+
+A staff member of Airport and Aviation Services Sri Lanka Ltd., (AASL) was arrested yesterday at Bandaranaike International Airport (BIA) while attempting to smuggle gold biscuits worth over Rs. 210 million.
+
+Sri Lanka Customs said the 54-year-old individual was apprehended at the staff exit gate of BIA, while in possession of 5.94 kilos of 24 karat gold biscuits.
+
+◼️
+
+[Data](articles/7c97b06c.json)
+
+[Extended Data](ext_articles/7c97b06c.ext.json)
+
+---
+
+### 72 -year -old dies in accident in Jaffna
+
+*2025-09-15 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225089) · `ta`
+
+An elderly man died on Friday (14) without treatment. The deceased is Vallipuram Mahalingam (age 72) from Tirunelveli - Kalasalai road.
+
+He was on his way home on a motorbike on the 5th and was returning home from Kilinochchi.
+
+The victim was taken to the Chavakachcheri Resource Hospital and then transferred to the Jaffna Teaching Hospital.. However, he died this morning without treatment.
+
+Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
+
+◼️
+
+[Data](articles/9b58f579.json)
+
+[Extended Data](ext_articles/9b58f579.ext.json)
+
+---
+
+### Sword Cut in Kuttanai: trio wound
+
+*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-மூவர்-காயம்/175-364588) · `ta`
+
+Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
+
+Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
+
+Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
+
+At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
+
+The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
+
+◼️
+
+[Data](articles/7fed0e3c.json)
+
+[Extended Data](ext_articles/7fed0e3c.ext.json)
+
+---
+
+### Sword cut in Kuttanai: trio injured
+
+*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-சம்பவம்-மூவர்-காயம்/175-364588) · `ta`
+
+Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
+
+Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
+
+Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
+
+At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
+
+The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
+
+◼️
+
+[Data](articles/8bf2c316.json)
+
+[Extended Data](ext_articles/8bf2c316.ext.json)
+
+---
+
+### Foreign Minister Vijitha Herath concludes visit to Geneva
+
+*2025-09-15 03:45:01* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Vijitha-Herath-concludes-visit-to-Geneva/56-781688) · `en`
+
+Foreign Minister Vijitha Herath with Human Rights Council President Ambassador Jürg Lauber of Switzerland
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath concluded his visit to Geneva, where he addressed the 60th Session of the UN Human Rights Council (UNHRC) on 8 September, delivering the Government statement during the Interactive Dialogue on Sri Lanka.
+
+Minister Herath reiterated Sri Lanka’s commitment to achieving reconciliation through domestic processes and outlined the measures already taken by the Government for transformation to advance the rights and well-being of all Sri Lankans.
+
+The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally imposed mechanisms.
+
+...
+
+[Data](articles/a568d1dc.json)
+
+[Extended Data](ext_articles/a568d1dc.ext.json)
+
+---
+
+### SL votes and welcomes UN adoption of resolution on Palestine
+
+*2025-09-15 03:44:33* · [`dailyftlk`](https://www.ft.lk/news/SL-votes-and-welcomes-UN-adoption-of-resolution-on-Palestine/56-781687) · `en`
+
+Sri Lanka yesterday welcomed the adoption by the UN General Assembly of the resolution endorsing the New York Declaration on the peaceful settlement of the Question of Palestine and the implementation of the two-State solution.
+
+“We extend our sincere appreciation to Saudi Arabia and France for their leadership in this important initiative,” the Foreign Affairs Ministry said.
+
+“Sri Lanka reaffirms its unwavering support for the inalienable right of the Palestinian people to Statehood, in accordance with the purposes and principles of the Charter of the UN and the relevant UN resolutions,” it added.
+
+◼️
+
+[Data](articles/1dd2abb5.json)
+
+[Extended Data](ext_articles/1dd2abb5.ext.json)
+
+---
+
+### Govt. to step back from running businesses, focus on facilitation
+
+*2025-09-15 03:43:16* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-step-back-from-running-businesses-focus-on-facilitation/34-781686) · `en`
+
+Industry and Entrepreneurship Development Minister Sunil Handunneththi outlines plans to liquidate 33 non-functional SOEs
+
+Says many SOEs originally set up to provide public services or promote strategic economic activities are defunct institutions and no longer relevant
+
+Notes move is part of Govt.'s broader reform agenda to rationalise State ownership, improve efficiency and allow private sector-led growth
+
+Industry and Entrepreneurship Development Minister Sunil Handunneththi last Friday asserted that the Government’s primary role is to create a conducive environment for businesses to thrive, rather than directly managing enterprises.
+
+Speaking at the 35th Annual General Meeting of the Sri Lanka Tea Factory Owners’ Association, he outlined plans to liquidate 33 State-owned enterprises (SOEs) deemed non-functional, underscoring the administration’s focus on reducing the financial burden on taxpayers, while encouraging private sector growth.
+
+...
+
+[Data](articles/00c399c9.json)
+
+[Extended Data](ext_articles/00c399c9.ext.json)
 
 ---

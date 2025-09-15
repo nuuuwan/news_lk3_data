@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 15:08:26**
+As of **2025-09-15 16:20:37**
 
 ## Newspaper Stats
 
-*Scraped **76,086** Articles*
+*Scraped **76,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,385 @@ economynextcom | 4,608
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,383
-adaderanalk | 9,788
-tamilmirrorlk | 11,386
-virakesarilk | 12,404
-adaderanasinhalalk | 13,274
+adalk | 7,385
+adaderanalk | 9,795
+tamilmirrorlk | 11,390
+virakesarilk | 12,405
+adaderanasinhalalk | 13,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,002 (94.6%) of 76,086 articles have been extended.
+72,064 (94.7%) of 76,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### සහල් සඳහා පැනවූ පාලන මිල ගැසට්ටුව සංශෝධනය කරන්නේ නෑ - පාරිභෝගික අධිකාරිය
+### මරදාන දුම්රිය ස්ථානය නවීකරණ ව්‍යාපෘතිය ඇරඹේ
+
+*2025-09-15 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214602) · `si`
+
+Clean Sri Lanka වැඩසටහනට සමගාමීව Dream Destination වැඩසටහන යටතේ මරදාන දුම්රිය ස්ථානය නවීකරණය කිරීමේ ව්‍යාපෘතිය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (15) පෙරවරුවේ ආරම්භ කෙරිණි.
+
+“පොහොසත් රටක්-ලස්සන ජීවිතයක්” උදා කර දීමේ රජයේ වැඩපිළිවෙළට අනුව තිරසර, නවීන සහ ප්‍රමිතිගත පොදු ප්‍රවාහන පද්ධතියකින් සමන්විත සුන්දර ජීවන රටාවක් අත්කර ගැනීම උදෙසා දුම්රිය ස්ථානවල පොදු පහසුකම් ඉහළ නැංවීම,  දුම්රිය ස්ථාන සුවපහසු ආරක්ෂිත ස්ථාන බවට පත් කිරීම අරමුණු කර ගනිමින් ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය සහ ‘ක්ලීන් ශ්‍රී ලංකා’ වැඩසටහන රාජ්‍ය - පෞද්ගලික හවුල්කාරිත්වය මත දිවයිනේ දුම්රිය ස්ථාන සියයක් නවීකරණය කිරීමේ ජාතික වැඩසටහන ආරම්භ කර තිබේ.
+
+විශේෂ අවශ්‍යතා සහිත ප්‍රජාවද ඇතුළත්ව සියලු මගීන්ගේ ආරක්ෂාව සහ සුවපහසුව සලසන පිරිසිදු, සුන්දර දුම්රිය ස්ථාන පද්ධතියක් රට තුළ නිර්මාණය කිරීම මෙම ව්‍යාපෘතියේ අරමුණයි.
+
+...
+
+[Data](articles/3106ba60.json)
+
+---
+
+### අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක්ට සහ සභාපතිවරු දෙදෙනෙක්ට අනුමැතිය
+
+*2025-09-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214601) · `si`
+
+අමාත්‍යාංශ ලේකම්වරු දෙදෙනෙක්ට සහ සභාපතිවරුන් දෙදෙනෙක් පත්කිරීමට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමැතිය හිමිව තිබේ.
+
+පසුගිය 12 වන දින පාර්ලිමේන්තුවේ දී රැස්වුණු අදාළ කාරක සභාව විසින් මෙම පත්කිරීමට අනුමැතිය ලබාදී ඇතැයි පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඒ අනුව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශයේ නව ලේකම් ලෙස අරුණි රණරාජා මහත්මියගේ නම සහ නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස අමාත්‍යාංශයේ ලේකම් ලෙස යූ.ජී. රංජිත් ආරියරත්න මහතාගේ නම උසස් නිලතල පිළිබඳ කාරක සභාව විසින් අනුමත කර ඇත.
+
+එමෙන්ම ප්‍රාදේශීය සංවර්ධන බැංකුවේ සභාපති ලෙස ඒ.පී.එල්. ප්‍රනාන්දු සහ භූ විද්‍යා සමීක්ෂණ හා පතල් කාර්යාංශයේ සභාපති ලෙස ජේ.එම්.එස්.එන් ජයසිංහ යන මහත්වරුන්ගේ නම් ද උසස් නිලතල පිළිබ﻿ඳ කාරක සභාව විසින් අනුමත කර තිබේ.
+
+...
+
+[Data](articles/3e93059f.json)
+
+---
+
+### Asian Cricket Council Chairman protest
+
+*2025-09-15 15:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கிரிக்கெட்-கவுன்சில்-தலைவர்-எதிர்ப்பு/44-364633) · `ta`
+
+India and Pakistan clash in the 6th league match of the Asian Cup on Sunday (15).
+
+Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets at the end of 20 overs. Sahibsada Barhan scored 40 runs and Shakeen Shah Afridi scored 33 runs. India's spinner Kuldeep Yadav took 3 wickets.
+
+The Indian team then scored 131 runs for 3 wickets in 15.5 overs and won by 7 wickets.. Suryakumar Yadav was on the field with 47 runs and Shivam Dubey 10 Ottangn. Abhishek Sharma was dismissed for 31 runs (13 balls, 4 fours, 2 sixes). Pakistan's 3 wickets for Pakistan. Kuldeep Yadav won the Man of the Match award.
+
+It is customary for both players to shake hands when the match is over. But when the game ended on Sunday (14), the Indian soldiers avoided shaking hands with Pakistani players. It is a speech in the world of cricket.
+
+Asian Cricket Council Chairman Moshin Naqvi has strongly opposed the Indian team's actions.
+
+...
+
+[Data](articles/0e2d3497.json)
+
+[Extended Data](ext_articles/0e2d3497.ext.json)
+
+---
+
+### ஏழு மாதங்களில் இலங்கையின் ஏற்றுமதி வருமானம் 8% அதிகரிப்பு - சதுரங்க அபேசிங்ஹ
+
+*2025-09-15 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/225148) · `ta`
+
+இந்த வருடத்தின் முதல் ஏழு மாதங்களில் இலங்கையின் ஏற்றுமதி வருமானம் 8 சதவீதமாக அதிகரித்துள்ளது என கைத்தொழில் மற்றும் தொழில்முயற்சியாண்மை அபிவிருத்தி பிரதி அமைச்சர் சதுரங்க அபேசிங்ஹ தெரிவித்தார்.
+
+பத்தரமுல்லையில் நடைபெற்ற  நிகழ்வொன்றில் உரையாற்றிய அமைச்சர், 2025 ஆம் ஆண்டு இறுதிக்குள் 18 பில்லியன் அமெரிக்க டொலர் ஏற்றுமதி வருவானத்தை பெறுவது என்ற அரசாங்கத்தின் இலக்கை கோடிட்டுக் காட்டியுள்ளார்.
+
+முந்தைய பொருளாதார சவால்கள் இருந்தபோதிலும், மத்திய கிழக்கு, தென்கிழக்கு ஆசியா மற்றும் ஆப்பிரிக்கா உள்ளிட்ட பல பிராந்தியங்களில் ஏற்றுமதித்துறை நிலையான வளர்ச்சியைக் காணும் நிலையில், நாடு இப்போது நிலையான மீட்சிக்கான அறிகுறிகளைக் காட்டுகிறது என அதன்போது அவர் குறிப்பிட்டுள்ளார்.
+
+ஏற்றுமதி வளர்ச்சியைத் தக்கவைத்து விரிவுபடுத்த புதிய சர்வதேச சந்தைகளை அரசாங்கம் தீவிரமாகத் தேடி வருவதாகவும் இதன்போது கைத்தொழில் மற்றும் தொழில்முயற்சியாண்மை அபிவிருத்தி பிரதி அமைச்சர் சதுரங்க அபேசிங்ஹ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/551cc45e.json)
+
+---
+
+### Sigiriya mirustic wall remanded
+
+*2025-09-15 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214600) · `si`
+
+The bilateral has been remanded until the 26th of this month.
+
+The injunction was produced before the girl was produced before Dambulla Wimalaratne this morning, "Ada Derana reporter said.
+
+The girl was arrested yesterday (14) regarding the six-letter English letter from a haircutter in the Sigiriya wall.
+
+The action was held when a 21 year old resident of Awissawella, a 21 year old resident of the Avissawella.
+
+◼️
+
+[Data](articles/d4d195dc.json)
+
+[Extended Data](ext_articles/d4d195dc.ext.json)
+
+---
+
+### Officer attached to Galle Housing Development Authority office arrested on bribery charges
+
+*2025-09-15 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112526/officer-attached-to-galle-housing-development-authority-office-arrested-on-bribery-charges) · `en`
+
+A Technical Officer attached to the Galle office of the National Housing Development Authority has been arrested on bribery charges.
+
+According to a complaint lodged by a resident of Pitigala, the officer had allegedly demanded a bribe of Rs. 50,000 in exchange for providing the necessary technical assistance and recommendations required to obtain a Rs. 1 million housing grant offered by the Authority for house construction.
+
+As per the complaint, on August 19, the complainant received the first installment of the grant — Rs. 146,000 — during which the officer accepted Rs. 25,000 as part of the bribe.
+
+Later, the officer demanded the remaining Rs. 25,000 to complete the necessary procedures and issue the required technical recommendation.
+
+She was arrested today (15) at around 11:45 a.m. by officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) while accepting the money.
+
+...
+
+[Data](articles/2571a642.json)
+
+---
+
+### Youth arrested for defacing Sigiriya Mirror Wall remanded
+
+*2025-09-15 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112525/youth-arrested-for-defacing-sigiriya-mirror-wall-remanded) · `en`
+
+A youth, who was arrested for allegedly defacing the World Heritage Site of the Sigiriya Mirror Wall (Kedapath Pavura) by the Sigiriya Police yesterday (14), has been remanded.
+
+The 21-year-old girl has been remanded until September 26 by the Dambulla District Judge Nilantha Wimalaratne, Ada Derana reporter said.
+
+The suspect, a resident of Avissawella, is reported to have scribbled on the historic Mirror Wall using a hairpin while visiting Sigiriya with a group of others, said police.
+
+Police stated while visiting Sigiriya with a group of factory workers on a field trip, she was seen writing six English letters on the wall.
+
+Archaeological officers, who witnessed the act, immediately apprehended the woman and handed her over to Sigiriya Police.
+
+Authorities have emphasised that the Sigiriya Mirror Wall is a protected heritage site, and touching, writing on, or damaging it is strictly prohibited. Despite clear warnings and active security at the site, this incident occurred.
+
+...
+
+[Data](articles/d9abd9aa.json)
+
+---
+
+### A Housing Development Authority arrested bribes
+
+*2025-09-15 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214599) · `si`
+
+Galle, Home Development Authority's Office has been arrested on bribery charges.
+
+◼️
+
+[Data](articles/8bad2205.json)
+
+[Extended Data](ext_articles/8bad2205.ext.json)
+
+---
+
+### UK and US to announce tech, energy deals during Trump visit
+
+*2025-09-15 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112524/uk-and-us-to-announce-tech-energy-deals-during-trump-visit) · `en`
+
+The United States and Britain will announce agreements on technology and civil nuclear energy during U.S. President Donald Trump’s unprecedented second state visit this week, as the UK hopes to finalise steel tariffs under a much-vaunted trade deal.
+
+Trump and his wife, Melania, will be treated to a display of British royal pageantry during their visit on Wednesday, including a carriage tour, a state banquet, a flypast by military aircraft and a gun salute.
+
+The British government hopes the soft power of the royals will appeal to Trump as it seeks tighter defence, security and energy ties with Washington, having already secured a favourable tariff deal.
+
+Prime Minister Keir Starmer will host Trump at his Chequers country residence on Thursday to discuss working more closely together, on issues like Ukraine, and with the aim of finalising promised lower tariffs for steel and aluminium.
+
+...
+
+[Data](articles/a35f0504.json)
+
+---
+
+### SC to hear petition against former Navy Commander Wasantha Karannagoda in Jan.
+
+*2025-09-15 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112523/sc-to-hear-petition-against-former-navy-commander-wasantha-karannagoda-in-jan) · `en`
+
+The Supreme Court today (15) granted permission to hear an appeal petition filed by the parents of 11 youth who were allegedly abducted and disappeared in 2008 from Colombo and surrounding areas.
+
+The petition requests that the decision made by the Attorney General to remove former Commander of the Sri Lanka Navy Admiral of the Fleet Wasantha Karannagoda—who had been named as a suspect in the case—be declared invalid.
+
+The order was issued after a lengthy consideration by a bench of the Supreme Court consisting of Justices Arjuna Obeyesekere and Sampath Wijeratne.
+
+The Court has scheduled the hearing of the appeal petition for January 30.
+
+...
+
+[Data](articles/46610597.json)
+
+---
+
+### Why not participate in the gift event?
+
+*2025-09-15 15:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிசளிப்பு-நிகழ்வில்-பாக்-கேப்டன்-பங்கேற்காதது-ஏன்/44-364628) · `ta`
+
+The 6th league match of the Asian Cup series on Sunday (14)
+
+The brutal attack of Pakistani terrorists in Bahlgam, which was the first match of the two teams after the war tension caused by India's retaliation, was attracted to the entire world.
+
+Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets at the end of 20 overs. Sahibsada Burhan scored 40 runs and Shakeen Shah Afridi 33 runs. India's spinner Kuldeep Yadav took 3 wickets.
+
+The Indian team then scored 131 runs for the loss of 3 wickets in 15.5 overs and won by 7 wickets.. Suryakumar Yadav was on the field with 47 runs and Shivam Dubey 10 Ottangn. Abhishek Sharma was dismissed in 31 runs (13 balls, 4 fours, 2 sixes). Pakistan's bowler Saim Ayub took 3 wickets for Pakistan. Kuldeep Yadav won the Man of the Match award.
+
+...
+
+[Data](articles/57d987c7.json)
+
+[Extended Data](ext_articles/57d987c7.ext.json)
+
+---
+
+### A Notification of BYD Vehicles
+
+*2025-09-15 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214598) · `si`
+
+The Attorney General has informed the Court of Appeal today that the report of the Specialist Committee appointed to conclude on the bank guarantees.
+
+The Sri Lanka Customs notified the writing of the Rit petition filed by John Keells CG against the Sri Lanka Customs.
+
+◼️
+
+[Data](articles/a06b2cf7.json)
+
+[Extended Data](ext_articles/a06b2cf7.ext.json)
+
+---
+
+### No revision in controlled prices despite rice shortage: CAA
+
+*2025-09-15 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112522/no-revision-in-controlled-prices-despite-rice-shortage-caa-) · `en`
+
+The Chairman of the Consumer Affairs Authority (CAA), Hemanta Samarakoon says the CAA has received information regarding the shortage of rice in the market.
+
+The CAA Chairman expressing his views regarding the ongoing shortage of Keeri Samba and Samba rice in the country said through the issuance of a gazette notification, the government has set a controlled price for rice, and if rice is being sold at prices exceeding that limit, the Authority will take necessary legal action under the existing laws.
+
+Due to this, he urged all stakeholders to carry out rice purchases and sales in accordance with the gazette notification.
+
+The Chairman further stated that raids related to sale of rice would continue and steps are being taken to inform and guide consumer officers regarding this matter.
+
+He also mentioned that more than 3,000 raids related to rice have already been conducted and legal action has been taken in nearly 1,000 cases, with approximately Rs. 95 million collected in fines.
+
+...
+
+[Data](articles/d6e74cb3.json)
+
+---
+
+### Take to the lubrication: The woman who scored a stapler in the mysterious
+
+*2025-09-15 15:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உல்லாசத்திற்கு-அழைத்து-மர்ம-உறுப்பில்-ஸ்டேப்ளர்-பின்-அடித்த-பெண்/175-364627) · `ta`
+
+Police have arrested two young men near Pathanamthitta and snatched a couple of money-cell phones and tortured the couple in the mysterious organ.
+
+Jayesh (age 29) hails from Sarlgunnu, Pathanamthitta district of Kerala. His wife Rashmi (23). He was accustomed to Instagram with a young man from Alappuzha.
+
+In this case, Rashmi has called the plaintiff, saying we may be funny. The plaintiff believed it and went to Rashmi's house on the 1st. The young man who went into the house and went close to Rashmi. Rashmi's husband, Jayesh, who was then hidden, took a picture on her cell phone.
+
+Jayesh, along with his wife, threatened the young man and snatched the expensive cell phone and Rs.. They have continued to tie the young man's hands and torture 26 staplers in the mysterious organ.
+
+...
+
+[Data](articles/5e61e31f.json)
+
+[Extended Data](ext_articles/5e61e31f.ext.json)
+
+---
+
+### UN Rights Council to debate Israel attack on Qatar Tuesday
+
+*2025-09-15 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112521/un-rights-council-to-debate-israel-attack-on-qatar-tuesday) · `en`
+
+The United Nations Human Rights Council said it would host an urgent debate on Tuesday on Israel’s airstrike targeting Hamas leaders in Qatar.
+
+The council said on Monday the debate would be convened after it received two official requests, one from Pakistan on behalf of member states of the Organization of Islamic Cooperation, and the other from Kuwait on behalf of the Cooperation Council for the Arab States of the Gulf.
+
+The UN council said its 10th urgent debate since its creation in 2006 would “discuss the recent military aggression carried out by the State of Israel against the State of Qatar on 9 September 2025’”.
+
+Israel targeted Hamas leaders last week in strikes on the Qatari capital, killing five Hamas members and a Qatari security officer.
+
+The attack drew widespread international condemnation, including from Gulf monarchies allied with the United States, Israel’s main backer.
+
+◼️
+
+[Data](articles/eeda4297.json)
+
+---
+
+### Workers' Salary: The government has given time
+
+*2025-09-15 14:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொழிலாளர்களின்-சம்பளம்-அவகாசம்-வழங்கியது-அரசாங்கம்/76-364625) · `ta`
+
+Plantation owners have been given a month's time to inform the government of the pay rise of plantation workers.
+
+Deputy Minister of Labor Mahinda Jayasinghe said that plantation owners have been proposed to increase the wages of plantation workers to Rs 1700.
+
+◼️
+
+[Data](articles/443fd309.json)
+
+[Extended Data](ext_articles/443fd309.ext.json)
+
+---
+
+### Do not revise the control price imposed for rice - Consumer Affairs Authority
 
 *2025-09-15 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214597) · `si`
 
-රට තුළ මේ වන විට පවතින කීරි සම්බා සහ සම්බා සහල් හිඟය සම්බන්ධව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා අද (15) අදහස් දැක්වීමක් සිදු කළේය.
+Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, has commented today (15) regarding the lack of keysa samba and samba rice in the country.
 
-එහිදී අදහස් දක්වමින් සභාපතිවරයා පැවසුවේ මේ සම්බන්ධව තොරතුරු පාරිභෝගික කටයටුතු පිළිබඳ අධිකාරියට ලැබුණු බවත් සිදුකළ සොයා බැලීමකදි එවැනි සහල් හිඟයක් සම්බන්ධව අධිකාරියට කරුණු අනාවරණය වූ බවත්ය.
+The Chairman said that the Consumer Research Authority received the information regarding the Consumer Research Authority was revealed to the Authority in connection with such rice shortages.
 
-කෙසේ නමුත් ගැසට් පත්‍රයක් මගින් සහල් සඳහා පාලන මිලක් නියම කර ඇති බවත් එම මිලට වඩා වැඩි මිලකට සහල් අලෙවි කරන්නේ නම් පවත්නා නීතිය යටතේ අවශ්‍ය නීතිමය කටයුතු සිදුකිරීමට අධිකාරිය පියවර ගනු බවය.
+However, a gazette has been set up to rice and will take action to promote the necessary legal action under the existing law.
 
-මේ හේතුවෙන් ගැසට් පත්‍රයට අනුකූල ලෙස කටයුතු කළ හැකි පරිදි වී මිලදී ගැනීම් ක්‍රියාවන් සිදුකරන ලෙස මෙන්ම සහල් අලෙවි කිරීමේ කටයුතු සිදු කරන ලෙසත් තමන් සියලු පාර්ශ්වයන්ගෙන් ඉල්ලා සිටින බවද ඒ මහතා මෙහිදී අවධාරණය කරනු ලැබීය.
+He also said that he has asked all parties to carry out and carry out paddy purchasing activities as well as to act in line with the gazette.
 
-එමෙන්ම සහල් සම්බන්ධ වැටලීම් අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කරන බවත් මේ සඳහා පාරිභෝගික නිලධාරීන් දැනුවත් කිරීමට පියවර ගන්නා බවත් සභාපතිවරයා මෙහිදී පැවසීය.
+The Chairman also said that the raids associated with rice continues to continue and inform consumer officials.
+
+He added that the raids associated with ridges have been increased by over 3,000 million and about 1,000 have been legalized by nearly 1,000 million, he said.
 
 ...
 
 [Data](articles/5bbcf6fc.json)
 
+[Extended Data](ext_articles/5bbcf6fc.ext.json)
+
 ---
 
-### 2029 ஆம் ஆண்டுக்குள் 50 பல்வகைமை போக்குவரத்து நிலையங்கள் நிறுவ இலக்கு - அமைச்சர் பிமல் ரத்நாயக்க
+### By 2029
 
 *2025-09-15 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225138) · `ta`
 
-2029 ஆம் ஆண்டுக்குள் நாடு முழுவதும் சுமார் 50 பல்வகைமை போக்குவரத்து நிலையங்களை நிறுவுவதே அரசாங்கத்தின் இலக்கு என போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
+Transport Minister Bimal Ratnayake said the government's goal is to establish about 50 multi -storey transport stations across the country by 2029.
 
-ஜனாதிபதி அனுர குமார திசாநாயக்கவின் தலைமையில், புறக்கோட்டையில் உள்ள, கொழும்பு மத்திய பஸ் நிலைய புதுப்பித்தல் திட்டத்தின் ஆரம்ப விழாவில் உரையாற்றும் போதே அவர் இதனை  குறிப்பிட்டுள்ளார்.
+He was speaking at the inauguration of the Colombo Central Bus Stand Revival Project in Pettah, headed by President Anura Kumara Dissanayake.
 
-2026 ஆம் ஆண்டுக்குள் கொழும்பில் இதுபோன்ற 15 பஸ் நிலையங்கள் அமைக்க எதிர்பார்ப்பதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+He also said that by 2026, 15 such bus stations are expected to be set up in Colombo.
 
-பயணிகளுக்கு எளிதாக பஸ், ரயில் மற்றும் முச்சக்கரவண்டி சேவைகளை ஒரே இடத்திலிருந்து வழங்கும் வகையில் புதிய நிலையங்கள் வடிவமைக்கப்படும் என்றும் அமைச்சர் இதன்போது தெரிவித்துள்ளார்.
+The Minister said that new stations will be designed to provide bus, train and three wheeler services from one place to easily.
 
-கொழும்பு உள்ளிட்ட பல முக்கிய பஸ் நிலையங்களை மேம்படுத்த அமைச்சு செயல்பட்டு வருவதாகவும் இந்த உரையாடலின்போது அவர் குறிப்பிட்டுள்ளார்.
+During the conversation, he said that the Ministry is working to upgrade several major bus stations, including Colombo.
 
-போக்குவரத்துத் துறையை மேம்படுத்தாவிட்டால் நாம் நாட்டை அபிவிருத்தி செய்ய முடியாது என்றும் இதன்போது போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க வலியுறுத்தினார்.
+Transport Minister Bimal Ratnayake stressed that if we do not improve the transport sector, we cannot develop the country.
 
 ◼️
 
 [Data](articles/f62ad5ea.json)
+
+[Extended Data](ext_articles/f62ad5ea.ext.json)
+
+---
+
+### New Nepal interim ministers sworn in after protests
+
+*2025-09-15 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112520/new-nepal-interim-ministers-sworn-in-after-protests) · `en`
+
+Nepal’s new interim prime minister unveiled her first ministers on Monday (Sep 15), as the Himalayan nation seeks to restore order after deadly youth-led anti-corruption protests that ousted the previous government.
+
+Under an outdoor awning and against the backdrop of the fire-damaged presidential office, President Ram Chandra Paudel gave the oath of office to three key ministers in a ceremony broadcast on television.
+
+Protests, sparked by a ban on social media and feeding into long-standing economic woes, began on Sep 8 and quickly escalated, with parliament and key government buildings set ablaze.
+
+It was the worst unrest since the end of a decade-long civil war and the abolition of the monarchy in 2008.
+
+At least 72 people were killed in two days of protests, with 191 still recovering in hospital, according to government figures.
+
+...
+
+[Data](articles/65f41a7d.json)
 
 ---
 
@@ -165,6 +489,8 @@ The suspect reportedly said that three Iranians were involved in the manufacturi
 ...
 
 [Data](articles/e0782969.json)
+
+[Extended Data](ext_articles/e0782969.ext.json)
 
 ---
 
@@ -598,6 +924,24 @@ The note is the first to bear President Anura Dissanayake’s signature. (Colomb
 
 ---
 
+### UNP 79th anniversary on the 20th
+
+*2025-09-15 11:45:50* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-79-වැනි-සංවත්සරය-ලබන-20-දා/11-418504) · `si`
+
+The Chairman of the party Vajira Abeywardena said that Saturday, the 79th anniversary of the UNP, had been celebrated at 9.00 am at 9.00 am at Sri Jayawardenapu.
+
+He said that the 79th anniversary of the 79th anniversary of the 79th Anniversary was inaugurated, but the health conditions of party leader Ranil Wickremesinghe were badly unable to celebrate the anniversary.
+
+"The United National Party (UNP) was almost allied parties in Sri Lanka at that time. In 1947 D. S. Senanayake leaves the Prime Minister and on all these. So leading our party leader Ranil Wickremesinghe gave advice that all the political parties in Sri Lanka should be collected at the time of celebrating the anniversary of the party.. So we have invited every political party in Sri Lanka to join this. "
+
+◼️
+
+[Data](articles/586358aa.json)
+
+[Extended Data](ext_articles/586358aa.ext.json)
+
+---
+
 ### The government's objective is to reduce the number of persons who are imprisoned - Minister of Justice
 
 *2025-09-15 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214590) · `si`
@@ -621,6 +965,26 @@ Meanwhile, arrangements have been taken to organize spiritual, sports, health an
 [Data](articles/e362d7da.json)
 
 [Extended Data](ext_articles/e362d7da.ext.json)
+
+---
+
+### Forest elephant attack killed
+
+*2025-09-15 11:40:14* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-ප්‍රහාරයකින්-සිවිල්-ආරක්ෂක-භටයෙක්-මරුට/11-418503) · `si`
+
+The Kahatagasdigiliya Police Station has commenced investigations on information that a person had died due to the assault in the Kahatagasdigiliya area yesterday (14).
+
+The victim is 45 year old and a civilian security person from Kahatagasdigiliya area. ‍
+
+Investigations have revealed that the elephant was attacked when the deceased was being cleared.
+
+The remains are placed at the Anuradhapura hospital morgue and the Kahatagasdigiliya Police Station conducts further investigations.
+
+◼️
+
+[Data](articles/f6defa10.json)
+
+[Extended Data](ext_articles/f6defa10.ext.json)
 
 ---
 
@@ -1677,403 +2041,5 @@ Later, relatives and residents of the area have been admitted to the Galewela ho
 [Data](articles/29dfc9fd.json)
 
 [Extended Data](ext_articles/29dfc9fd.ext.json)
-
----
-
-### Police arrested for searching for treasures in two places
-
-*2025-09-15 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214580) · `si`
-
-Police have arrested a group of persons who were excavated in two places in the island.
-
-The suspects were arrested in Galewela and Bandaragama areas.
-
-Accordingly, the suspects were arrested by the Galewela Police at the Galewela Police Station at the Galewela Police Division in the Galewela Police Division in the Madipola Police Station yesterday (14).
-
-At the same time, they have also taken steps to be taken into custody.
-
-The suspects are residents of Madilai, Welikanda, Millawana, Dammna and Dehiattakandiya areas.
-
-Meanwhile, Bandaraaduwa had a raid on information from the Bandaraiyawa Police Station in Nawagiriyawa area yesterday.
-
-Police have arrested a suspect who was trying to search for treasure hunting with excavation equipment and sacrifices.
-
-Meanwhile, a raid was raided by a team of officers from the Halmillawela area in Moragoda yesterday morning.
-
-Police have arrested a suspect in possession of two tusks.
-
-◼️
-
-[Data](articles/9cd2f603.json)
-
-[Extended Data](ext_articles/9cd2f603.ext.json)
-
----
-
-### Local Govt. Week to commence today with ‘City of Renaissance’ theme
-
-*2025-09-15 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112503/local-govt-week-to-commence-today-with-city-of-renaissance-theme) · `en`
-
-The Local Government Week, aimed at creating a “City of Renaissance,” is set to commence today (15).
-
-The Ministry of Public Administration, Provincial Councils, and Local Government has announced that the program will be implemented across the entire island from today until September 21.
-
-The objective of the initiative is to develop an environment that addresses the daily needs of communities, safeguards the living environment, and promotes a vision for future urban development, said Deputy Minister of Provincial Councils and Local Government, P. Ruwan Senarath.
-
-“We are launching the Local Government Week with the overarching theme of a ‘City of Renaissance’. All local government institutions have been invited to participate in this ongoing program, led by the Ministry of Public Administration and Local Government, to create a city that meets the daily needs of communities, preserves the living environment, and secures a sustainable vision for the future.”
-
-◼️
-
-[Data](articles/09e38c95.json)
-
-[Extended Data](ext_articles/09e38c95.ext.json)
-
----
-
-### Electricity Board Employees Associations
-
-*2025-09-15 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214579) · `si`
-
-The Ceylon Electricity Associations (CEB) says that the Ceylon Electricity Board (CEB) will be resolved against four sections.
-
-The Ceylon Electricity Board (CEB) Engineering Association, including the CEB Engineering Association, had decided to do three stages.
-
-Accordingly, the first phase of the federation was launched in the letter of working union action.
-
-The Ceylon Electricity Association of the Ceylon Electricity Association of the Ceylon Electricity Association of the Ceylon Electricity Association of the Ceylon Electricity Association for the strike commenced on the 4th.
-
-The Association further stated that the union discussion will be held following the discussion held in order to intensify the action of working.
-
-◼️
-
-[Data](articles/d73817ed.json)
-
-[Extended Data](ext_articles/d73817ed.ext.json)
-
----
-
-### Renovation of Pettah Central Bus Stand under President’s patronage today
-
-*2025-09-15 07:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112502/renovation-of-pettah-central-bus-stand-under-presidents-patronage-today) · `en`
-
-The renovation of the Pettah Central Bus Stand is scheduled to commence this morning (15) under the patronage of President Anura Kumara Dissanayake.
-
-Constructed in 1964, the Pettah Central Bus Stand is set to undergo a complete renovation after six decades. The project is estimated to cost Rs. 424 million.
-
-The renovation plan includes the installation of new restrooms, information and communication centers, upgraded security systems, and several other modern facilities.
-
-The work will be carried out by the Sri Lanka Air Force (SLAF), said Ada Derana reporter.
-
-Meanwhile, renovation work at the Maradana Railway Station in Colombo is also scheduled to commence today under the ‘Dream Destination’ program, implemented as part of the Clean Sri Lanka Project.
-
-According to officials, the renovations at the Maradana Railway Station will be conducted in a manner that preserves its historical significance and architectural character.
-
-◼️
-
-[Data](articles/8b745773.json)
-
-[Extended Data](ext_articles/8b745773.ext.json)
-
----
-
-### Local Government Week from Renaissance
-
-*2025-09-15 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214578) · `si`
-
-The Local Government Week, aims to create a city in the Renaissance, begins today (15).
-
-Accordingly, the Ministry of Public Administration, Provincial Councils and Local Government has decided to implement this program covering the entire island until the 21st.
-
-Deputy Minister of Local Government and Local Government, said that it is aimed at creating an environment with the daily needs of the community and creating a prevalence to create a precious environment.
-
-Deputy Minister of Provincial Councils and Local Government, Special Government Minister Sranarath.
-
-"We start the local government week to bring the main theme of the Renaissance. We have introduced to all local authorities to join a continuous program to create a future of the public administrative and Local Government to create an environment in which the public and Local Government to create an environment in which the public needs to be protected. "
-
-◼️
-
-[Data](articles/b34f1ab3.json)
-
-[Extended Data](ext_articles/b34f1ab3.ext.json)
-
----
-
-### 21-year-old woman arrested for defacing Sigiriya Mirror Wall
-
-*2025-09-15 06:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112501/21-year-old-woman-arrested-for-defacing-sigiriya-mirror-wall) · `en`
-
-A young woman accused of defacing the World Heritage Site of the Sigiriya Mirror Wall (Kedapath Pavura) was arrested by the Sigiriya Police yesterday (14).
-
-The suspect, a 21-year-old resident of Avissawella, is reported to have committed the act while visiting Sigiriya with a group of others, said police.
-
-◼️
-
-[Data](articles/2ee18606.json)
-
-[Extended Data](ext_articles/2ee18606.ext.json)
-
----
-
-### Qatar PM urges world to ‘stop using double standards’ and punish Israel
-
-*2025-09-15 06:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112500/qatar-pm-urges-world-to-stop-using-double-standards-and-punish-israel) · `en`
-
-Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the international community on Sunday (Sep 14) to “stop using double standards” and punish Israel for what he described as its “crimes”.
-
-He was speaking at a preparatory meeting on the eve of an emergency summit of Arab and Islamic leaders organised by Qatar after Israel carried out an unprecedented air strike on Hamas leaders in Doha.
-
-“The time has come for the international community to stop using double standards and to punish Israel for all the crimes it has committed, and Israel needs to know that the ongoing war of extermination that our brotherly Palestinian people is being subjected to, and whose aim is to expel them from their land, will not work,” the prime minister said.
-
-According to Qatar’s foreign ministry spokesman, Majed al-Ansari, Monday’s meeting of Arab and Islamic leaders will consider “a draft resolution on the Israeli attack on the State of Qatar”.
-
-...
-
-[Data](articles/154a8cae.json)
-
-[Extended Data](ext_articles/154a8cae.ext.json)
-
----
-
-### President declares open Pettah Central Bus Stand
-
-*2025-09-15 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214577) · `si`
-
-The renovation of the Central Bus Stand at Pettah is scheduled to commence at this morning under the patronage of President Anura Kumara Dissanayake.
-
-Constructed in 1964, Pettah Central Bus Stand is being renovated in 60 years.
-
-New restrooms, ICT locations, security systems, will be established to the bus stand under the renovation.
-
-The Sri Lanka Air Force makes the renovation of the Central Bus Stand Pettah.
-
-Meanwhile, the reconstruction of the Maradana Railway Station is scheduled to commence today according to the dream destination program under the Clene Sri Lanka Project.
-
-It is said to be repaired to protect the old and the old nature that does not harm the historical nature of the station.
-
-◼️
-
-[Data](articles/cf8a05a8.json)
-
-[Extended Data](ext_articles/cf8a05a8.ext.json)
-
----
-
-### Several times for several areas
-
-*2025-09-15 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214576) · `si`
-
-Several spells of showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-In a statement, the department has stated in the Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 1.00.
-
-Meanwhile, the Met Department said that there will be showers at the sea areas off the coast extending from Colombo to Matara through the next 24 hours.
-
-And the wind is blow to the south and the speed of wind.. (30-40) is about time to wind in the sea areas off the coast extending from Matara to Hambantota via Pottuvil.. The announcement states that around (50-60) can increase.
-
-Winds from Kankesanthurai to Matara via the coast extending from the coast extending from the coast extending from the coast.. Can rise up to about 50.
-
-The sea areas off the coast extending from Matara to Pottuvil to Pottuvil can be slightly rough at times from the Kancanthurai to Matara.
-
-◼️
-
-[Data](articles/7a6bfd2a.json)
-
-[Extended Data](ext_articles/7a6bfd2a.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-15 06:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112499/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-Several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts, the Department of Meteorology said.
-
-Showers or thundershowers will occur at several places in Uva and Eastern provinces and in Hambantota district after 1.00 p.m.
-
-Fairly heavy falls of about 50 mm are likely at some places, the Met. Department added.
-
-Cloudy skies can be expected over Eastern, Uva, Central, and Southern provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ea31afbc.json)
-
-[Extended Data](ext_articles/ea31afbc.ext.json)
-
----
-
-### Sri Lanka central bank buys US$781mn less to August 2025 than last year
-
-*2025-09-15 05:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us781mn-less-to-august-2025-than-last-year-240490/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank bought 142.5 million US dollars from commercial banks in August 2025, taking the total so far this year to 1,238.6 million US dollars so far this year, official data show.
-
-In 2024, the central bank bought 2020.4 million US dollars in the same period with stronger deflationary policy and lower private credit.
-
-In late 2024 the central bank re-started inflationary policy through aggressive open market operations to mis-target the interbank rate, as private credit picked up, leading to sharply reduced collections in November and December.
-
-However, in 2025, there was no inflationary policy per se, other than dollar-rupee buy-sell swaps. Dollar purchases were also unsterilized under the latest phase of the IMF program no longer requiring a sell down of CB held g-secs, which analysts say is a mistake.
-
-...
-
-[Data](articles/cc4ade98.json)
-
-[Extended Data](ext_articles/cc4ade98.ext.json)
-
----
-
-### 
-
-*2025-09-15 05:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-The Main Problem  Today is  Illegal Fishing by Indian Fishers in Northern Waters and not the  Issuer of  India Retrieving  Katchatheevu.
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-...
-
-[Data](articles/39f24b3f.json)
-
----
-
-### We have failed to reach the target of economic growth to repay the loan - Sajith Premadasa
-
-*2025-09-15 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225098) · `ta`
-
-As a country we have to repay $ 5.6 billion annually from 2028. It must maintain economic growth as 5 percent. However so far we have not reached that goal. Opposition Leader Sajith Premadasa said that these issues need to be found in a short time.
-
-He was speaking at an event held at the Vilachiya Divisional Secretariat Division on Sunday (14) at the Anuradhapura.
-
-Farming in the country today has become difficult. No high -quality fertilizer or fertilizer subsidy. Chemical products for agriculture at affordable prices have not been available. In the midst of an increase in the price of equipment, production costs have also increased. Along with this, the elephant-human conflict is facing severe problems and agriculture is taking place amid difficulties.. However, there is no guaranteed price for paddy harvest today.
-
-...
-
-[Data](articles/ea0337ee.json)
-
-[Extended Data](ext_articles/ea0337ee.ext.json)
-
----
-
-### If all parties come to a consensus, the provincial council election can be held soon - Sandana Abeyratne
-
-*2025-09-15 05:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225097) · `ta`
-
-We are ready to negotiate with all political parties that are part of the parliamentary election on the provincial council election in the coming month.. Minister Santana Abeyratne said that if all parties come to a unity, the provincial council elections can be held quickly.
-
-We are determined to hold the provincial council election quickly.
-
-The High Court has repeatedly advised that the issue should be resolved through Parliament.. However, the date of conducting the election cannot be specified.
-
-The government is not in the position of continuing to manage provincial councils without people's representatives.
-
-There is a need to solve the legal problem in the provincial council election system. We will definitely hold the provincial council election without delay.
-
-We are ready to negotiate with all political parties in parliament on the provincial council election in the coming month.
-
-◼️
-
-[Data](articles/44768669.json)
-
-[Extended Data](ext_articles/44768669.ext.json)
-
----
-
-### Mahinda Rajapaksa led the war for the war - Devananda Suraweera
-
-*2025-09-15 04:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225096) · `ta`
-
-There is a good welcome among the people to the law to eliminate presidents' rights. Namal Rajapaksa does not vote against the Bill, which is uniting the public for his father Mahinda Rajapaksa. National People's Power Colombo District Parliamentarian Devananda Suraweera said that the people of the country will not forget that Mahinda Rajapaksa, who led the end of the war, led the country to the bankruptcy.
-
-Those who abolished former President Mahinda Rajapaksa are speaking against the law of abolishing the president. There is a good welcome among the people of the country regarding this law.
-
-Chandrika Bandaranaike Kumaratunga and Maithripala Siripala left the state official residence as former presidents. They did not hold a media exhibition by calling supporters. They have no need for future politics. PA is considered a name for political success, including former President Mahinda Rajapaksa.
-
-...
-
-[Data](articles/c91240f4.json)
-
-[Extended Data](ext_articles/c91240f4.ext.json)
-
----
-
-### Funds to complete classroom buildings in Vanni district
-
-*2025-09-15 04:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225095) · `ta`
-
-Prime Minister and Education Minister Harini Amarasuriya has assured that the allocation of funds to complete the classroom buildings that have been started in the Vanni district and the construction work has not been completed.
-
-Labor Party's Wanni District MP at the Prime Minister's Parliamentary Office. The Prime Minister made this pledge while meeting the Prime Minister and some of the representatives of Khadar Mastan and some of the educational action of the Vanni district, the Saudi Arabian Housing Scheme and the Copies of the Qur'an.
-
-The Ministry of Education Advisory Committee held a meeting held last June on the completion of classroom buildings in the Vanni district and the construction work has not been completed yet.. When he told the Prime Minister, he pledged to allocate the necessary steps to be taken from this year's funds to the Vanni district and allocated funds to complete the construction work that had not yet been completed.
-
-...
-
-[Data](articles/299250f5.json)
-
-[Extended Data](ext_articles/299250f5.ext.json)
-
----
-
-### The final draft of the new Anti -Terrorism Bill will be handed over to the Minister of Justice this week
-
-*2025-09-15 04:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225094) · `ta`
-
-Chairman of the Committee, President, Attorney -at -Law, Arsakularatne, said that the final draft of the Expert Committee appointed to draft the new Anti -Terrorism Bill would be handed over to the Minister of Justice and National Integration Minister Harshana Nanayakkara.
-
-A committee appointed by the Cabinet over the draft of the new Anti -Terrorism Act was met at the Ministry of Justice and National Integration. The chairman of the committee said this while commenting.
-
-The new bill is being held for the second time and the second time the bill is being investigated, and now it is concluded.
-
-The Chairman said that the Committee is continuing to discuss the bill and that the law will be taken by the Department of Laws to take the changes to the daily discussion and take action.
-
-...
-
-[Data](articles/296004cd.json)
-
-[Extended Data](ext_articles/296004cd.ext.json)
-
----
-
-### The Speaker of the Speaker will appeal to the International Parliamentary Union - Kavinda Jayawardena
-
-*2025-09-15 04:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225093) · `ta`
-
-The government is afraid that many issues will be revealed regarding the survival Sunday bombings if he takes debate against the Deputy Minister of Defense Aruna Jayasekara.. United People's Power Gampaha District Parliamentarian Kavinda Jayawardena said that the Speaker's unilateral action will be appealed to the International Parliamentary Union.
-
-The National People's Power came to power, claiming that justice is justice for the lifeblood of the bombing. But the truth has not yet been revealed. The promises are only very much.
-
-The name of the Deputy Minister of Defense Aruna Jayasekara has been referred to as the suspect in the bombing incident.
-
-Based on these factors, we brought a no -confidence motion against Deputy Minister Aruna Jayasekara.
-
-The government is afraid that many issues will be revealed regarding the survival Sunday bombings if the motion of no confidence is taken up for debate. Many of the issues that are released are against the government.
-
-...
-
-[Data](articles/684ee359.json)
-
-[Extended Data](ext_articles/684ee359.ext.json)
-
----
-
-### Thamika Perera - Dayasiri Jayasekera has purchased more than 50 % of the Lap Cooking Gas Company
-
-*2025-09-15 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225092) · `ta`
-
-The government has been vocal against corruption and fraud. But now the government has purchased more than 50 per cent of the company's Lap Cooking Gas Company, the company.. Parliamentarian Dayasiri Jayasekara has questioned that this will benefit anyone.
-
-He further stated at a press conference held in Kurunegala on Sunday (14).
-
-This government has been vocal against corruption and fraud. Litro cooking gas company has an 80 per cent market offer in Sri Lanka. Litro and Lap companies have been rivals for the past 20 years. So the two companies were parallel to the gas distributors.
-
-But now there is a lot of troubles in the price petition. Litro interferes with gas imports for Lab. Lap company's 40 percent of shares were purchased by a company owned by Thamika Perera last week. In addition, 10 percent of shares have been purchased in the stock market.
-
-...
-
-[Data](articles/93a9ae7f.json)
-
-[Extended Data](ext_articles/93a9ae7f.ext.json)
 
 ---

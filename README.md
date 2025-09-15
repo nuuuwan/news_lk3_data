@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 16:53:54**
+As of **2025-09-15 18:44:43**
 
 ## Newspaper Stats
 
-*Scraped **76,108** Articles*
+*Scraped **76,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,39 +12,383 @@ newsfirstlk | 363
 dbsjeyarajcom | 628
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,608
+economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,386
-adaderanalk | 9,795
-tamilmirrorlk | 11,390
-virakesarilk | 12,405
-adaderanasinhalalk | 13,281
+adalk | 7,388
+adaderanalk | 9,801
+tamilmirrorlk | 11,396
+virakesarilk | 12,406
+adaderanasinhalalk | 13,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,083 (94.7%) of 76,108 articles have been extended.
+72,164 (94.8%) of 76,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### උණුසුම් කාලගුණය ගැන නිවේදනයක්
+### கல்வி அமைச்சில் ஆசிரியர்கள் அமைதிப் போராட்டம்
+
+*2025-09-15 18:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சில்-ஆசிரியர்கள்-அமைதிப்-போராட்டம்/175-364643) · `ta`
+
+இன்று காலை கல்வி அமைச்சுக்கு வந்த தேசிய பாடசாலைகளை சேர்ந்த ஆசிரியர்கள் குழு ஒன்று அமைச்சு வளாகத்திற்குள் அமைதிப் போராட்டத்தில் ஈடுபட்டது.
+
+மூன்று வருட தகுதிகாண் சேவைக் காலம் முடிந்த பிறகு, தங்கள் குழந்தைகளை தாங்கள் கற்பிக்கும் பாடசாலைகளில் சேர்ப்பது தொடர்பான தீர்க்கப்படாத பிரச்சினைகள் காரணமாக ஆசிரியர்கள் அமைச்சகத்திற்கு வருகை தந்தனர்.
+
+போராட்டத்தில் ஈடுபட்ட ஆசிரியர்களில் பத்து பேர் சம்பந்தப்பட்ட அதிகாரிகளுடன் கலந்துரையாடலில் பங்கேற்க அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/821f9692.json)
+
+---
+
+### ආක්‍රමණශීලි විසිතුරු මත්ස්‍ය විශේෂ 4කට තහනමක් - ගැසට්ටුවකුත් නිකුත් වෙයි
+
+*2025-09-15 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214608) · `si`
+
+ආක්‍රමණශීලි විසිතුරු මත්ස්‍ය විශේෂ 4ක් තහනම් කරමින් ධීවර, ජලජ හා සාගර සම්පත් අමාත්‍යාංශය ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+පිරානා, නයිෆ් ෆිෂ්, ඇලිගේටර් ගාර්, රෙඩ් ලයින් ස්නේක් හෙඩ් යන ආක්‍රමණශීලි මත්ස්‍ය විශේෂ සඳහා මෙම තහනම පනවා තිබේ.
+
+ඒ අනුව ඉහත සඳහන් මත්ස්‍ය විශේෂ බෝ කිරීම, ජල පද්ධතිවලට මුදා හැරීම, ගොඩට ගෙන ඒම, ප්‍රවාහනය කිරීම, මිල දී ගැනීම, විකිණීම, විකිණීම සඳහා ප්‍රදර්ශනය කිරීම, භාරගැනීම, සන්තකයේ තබා ගැනීම, ආනයනය කිරීම සහ අපනයනය කිරීම නොකළ යුතුය.
+
+එසේම ජල පද්ධතිවලින් ආහාරය සඳහා මෙම මසුන් ඇල්ලීම 1998 අංක 53 දරණ පනතින් සංස්ථාපනය කරන ලද ශ්‍රී ලංකා ජාතික ජලජීවි වගා සංවර්ධන අධිකාරියෙන් අවසර ලබාගෙන සිදුකළ හැකිය.
+
+මෙම නියෝගයන් අනුව 'ආණ්‍රමණශීලි මත්ස්‍ය විශේෂ' යනුවෙන් හඳුන්වා ඇත්තේ අනෙකුත් මත්ස්‍ය විශේෂයන්ට හානිදායක ලෙස අධික ගහන ඝනත්වයකින් වේගවත්ව පැතිරී යන විලෝපිත මත්ස්‍ය විශේෂයන් නිසාවෙන් බව ද අදාළ නියෝගයේ දැක්වේ.
+
+◼️
+
+[Data](articles/6848d174.json)
+
+---
+
+### Army exploits the fire in Nanpathal forest reserve
+
+*2025-09-15 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214607) · `si`
+
+The army has obtained military assistance to control the fire at Nanpaeral Reserve in Nanpaeral Reserve, "says Ada Derana reporter.
+
+It is said that more than a thousand acres have been destroyed due to the fire.
+
+The Army, the Army and the Ratnapura District Disaster Division is working together.
+
+The strong winds in the area was difficult to control the fire.
+
+But when inquired, our correspondent said that the fire had been able to control somewhat.
+
+◼️
+
+[Data](articles/52989027.json)
+
+[Extended Data](ext_articles/52989027.ext.json)
+
+---
+
+### “Turn off the opposition's Mike”
+
+*2025-09-15 17:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சியினரின்-மைக்-ஐ-அணைக்கின்றனர்/175-364642) · `ta`
+
+Opposition leader Sajith Premadasa today accused the opposition of the opposition to reduce the time being allocated to Parliament to raise the real problems faced by the people.
+
+Speaking during the event during the "Kamat Kamada Thordar Thorada" (Village, Village, Home House), MPs said that when the MPs got up to speak, the time was allocated to the opposition by turning off the microphones.
+
+Premadasa added that "people should listen to what they say and solve the problems they face."
+
+◼️
+
+[Data](articles/dce7a765.json)
+
+[Extended Data](ext_articles/dce7a765.ext.json)
+
+---
+
+### Murder
+
+*2025-09-15 17:44:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணமடைந்ததாகக்-கூறப்படும்-பெண்-கொலை/175-364641) · `ta`
+
+An autopsy of the mother of a child allegedly alleged to have died of sleep revealed that his death was a murder.
+
+Dambulla police said that the husband of the deceased woman who came to testify on the death was arrested on suspicion.
+
+The deceased is 34 years old. He is the mother of a child and he belongs to the Tithavelkolla area.
+
+He was working as a management service officer at the Galewela Zonal Education Office.
+
+On the 13th of this month, police received information that a woman had died in a sleeping room in a house in Dambulla, Dambulla.
+
+Her husband told the police that he had gone to bed at 4.00 pm and told him to wake him at 9 pm.
+
+Accordingly, the woman's husband had told the police that she had gone to raise his wife at night, but she did not wake up because she did not get up and called her an ambulance service.
+
+◼️
+
+[Data](articles/3d62cf75.json)
+
+[Extended Data](ext_articles/3d62cf75.ext.json)
+
+---
+
+### Australia reports decline in HIV, surge in common STIs
+
+*2025-09-15 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112533/australia-reports-decline-in-hiv-surge-in-common-stis) · `en`
+
+Australia’s 2024 sexual health report shows a concerning rise in common sexually transmitted infections (STIs) alongside a decline in human immunodeficiency virus (HIV) diagnoses.
+
+Over the past decade, syphilis and gonorrhea cases more than doubled, with 5,866 and 44,210 diagnoses, respectively, in 2024, according to Australia’s 2024 Sexual Health Check-up released Monday by the University of New South Wales’ Kirby Institute.
+
+The new national surveillance data, released at the Australasian HIV&AIDS Conference in Australia’s Adelaide, revealed significant gaps in sexual health testing alongside a sharp increase in syphilis and gonorrhea cases over the past decade.
+
+Syphilis cases among women quadrupled, raising serious concerns about congenital syphilis, which has more than doubled since 2015 and caused 34 infant deaths, disproportionately affecting Indigenous Australians, the report said.
+
+...
+
+[Data](articles/8fa15492.json)
+
+---
+
+### I don't arrange people to see me
+
+*2025-09-15 17:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னைப்-பார்க்க-மக்களை-நான்-ஏற்பாடு-செய்வதில்லை/175-364640) · `ta`
+
+Journalists met with former President Maithripala Sirisena on Monday (15) at home in Colombo. Maithripala Sirisena's answer to the question they asked…
+
+Maithripala: “No, no, if you are staying, we will be two more days.. Some more work has to be done ”.
+
+Maithripala: “Former President JR Jayawardena is a law passed in Parliament to bring blessings to former presidents and cabinet ministers.. According to the law, the former were given to those who were.
+
+The current government was told to repeal the law. We are going. We have no problem ”.
+
+Journalist: We saw a large crowd around Mahinda Rajapaksa. No one came to see you?
+
+Maithripala: I laughed and said, "I am not bringing people."
+
+◼️
+
+[Data](articles/38088cdd.json)
+
+[Extended Data](ext_articles/38088cdd.ext.json)
+
+---
+
+### Warm weather advisory issued for several districts including Colombo
+
+*2025-09-15 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112531/warm-weather-advisory-issued-for-several-districts-including-colombo) · `en`
+
+A warm weather advisory has been issued for residents of the Northern, North-central, North-western and Eastern provinces and in the Colombo, Gampaha, Hambantota and Monaragala districts.
+
+The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (16), according to the Department of Meteorology.
+
+“The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body”, said the Met Department in a statement.
+
+The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
+
+Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
+
+◼️
+
+[Data](articles/bd5680ab.json)
+
+---
+
+### World GDP forecasts raised, but evidence of US slowdown rises: Fitch
+
+*2025-09-15 17:15:00* · [`economynextcom`](https://economynext.com/world-gdp-forecasts-raised-but-evidence-of-us-slowdown-rises-fitch-240572/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has raised its world growth forecasts for the year since the June Global Economic Outlook (GEO) on better-than-expected incoming data for 2Q25, but expects world GDP to slow significantly this year, it said.
+
+“There is now evidence of an underlying US slowdown in ‘hard’ economic data and positive surprises on eurozone growth have partly reflected US tariff front-running,” the ratings agency said.
+
+Global growth is now forecast to be 2.4 percent in 2025, Fitch said.
+
+This is up 0.2pp since June, but is a ‘sizeable’ slowdown from 2.9 percent last year and below trend.
+
+China’s forecast has been raised to 4.7 percent from 4.2 percent, the eurozone’s to 1.1 percent from 0.8 percent and the US’s to 1.6 percent from 1.5 percent.
+
+“There has been a reduction in uncertainty over US tariff policy after a flurry of announcements.
+
+“Our latest estimate of the average US effective tariff rate (ETR) is 16%, very close to the rate assumed in June.
+
+...
+
+[Data](articles/a1051313.json)
+
+[Extended Data](ext_articles/a1051313.ext.json)
+
+---
+
+### Sampath Manamberry Action Notice
+
+*2025-09-15 17:10:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-அதிரடி-அறிவிப்பு/175-364639) · `ta`
+
+Sampath Manamberi, who is searching for two chemical containers suspected of being used in "ice" in Mitteniya, said that he was to surrender to the Court of Appeal by his lawyer.
+
+The Court of Appeal has ordered the IGP to take steps to ensure his safety following the surrender of Sampath Manamberi and ordered the Investigation Officers to formally.
+
+The Court of Appeal issued the order after considering the writ petition filed by Sampath Manamperi, who is currently seeking arrest.
+
+◼️
+
+[Data](articles/dd5c6aee.json)
+
+[Extended Data](ext_articles/dd5c6aee.ext.json)
+
+---
+
+### Reconstruction of Akkaragama Hospital
+
+*2025-09-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225159) · `ta`
+
+With the joint cooperation of the two countries of the Sri Lanka Air Force and the US Air Force, the Akkaragama Divisional Hospital in Sri Lanka. The project, which was carried out at a cost of about 40.5 million Sri Lankan rupees, was recently held.
+
+The reconstruction work was planned and implemented under the joint supervision of engineers of the Sri Lanka Defense and Health Ministries, the Sri Lanka Air Force and the US Air Force.
+
+The project has been spent about 40.5 million Sri Lankan rupees ($ 135,000 US $). The joint contribution of the two countries reveals their shared commitment to support local communities.
+
+Hospital's building system, roof, electric and water systems, cooling equipment, power generations and internal facilities have been improved.
+
+...
+
+[Data](articles/f9f45efd.json)
+
+[Extended Data](ext_articles/f9f45efd.ext.json)
+
+---
+
+### In the second quarter of 2025, growth in 4.9% growth in the economy
+
+*2025-09-15 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214606) · `si`
+
+In the second quarter of 2025, the economy is recorded as a positive growth of 4.9 percent.
+
+◼️
+
+[Data](articles/fbd9b25c.json)
+
+[Extended Data](ext_articles/fbd9b25c.ext.json)
+
+---
+
+### Sri Lanka economy reports 4.9% growth in second quarter
+
+*2025-09-15 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112530/sri-lanka-economy-reports-49-growth-in-second-quarter) · `en`
+
+Sri Lanka’s economy grew 4.9% year-on-year in the second quarter of 2025, official data showed on Monday (15).
+
+The Department of Census and Statistics (DCS) Sri Lanka, has released the estimated Gross Domestic Product (GDP) at current price and at constant (2015) price in the Production approach and the other macroeconomic indicators for the second quarter (April 1 to June 30) of 2025.
+
+The GDP for the second quarter of 2025 at constant price (2015) has increased up to Rs. 2,883,559 million from Rs. 2,749,504 million which was reported in the second quarter of 2024.
+
+Accordingly, the GDP growth rate for the second quarter of year 2025 has been reported as 4.9 percent of positive growth rate.
+
+In the second quarter of 2025, agricultural activities, industrial and services activities expanded by 2.0 percent, 5.8 percent and 3.9 percent respectively.
+
+◼️
+
+[Data](articles/bd5d1947.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields flat
+
+*2025-09-15 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-flat-240594/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.10/17 to the US dollar on Monday, weaker from 301.90/95 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2029 closed at 9.54/58 percent, up from 9.50/55 percent.
+
+A bond maturing on 01.11.2030 closed at 10.68/78 percent. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/0a43615b.json)
+
+[Extended Data](ext_articles/0a43615b.ext.json)
+
+---
+
+### Report on motor capacity of BYD vehicles released expected in coming weeks: AG informs court
+
+*2025-09-15 16:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112529/report-on-motor-capacity-of-byd-vehicles-released-expected-in-coming-weeks-ag-informs-court) · `en`
+
+The Attorney General informed the Court of Appeal today (15) that the report of the expert committee appointed to determine the motor capacity of BYD vehicles—which were previously detained by Sri Lanka Customs and later released on bank guarantees—is expected to be submitted in the coming weeks, Ada Derana reporter said.
+
+This statement was made by Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of Sri Lanka Customs during the hearing of a writ petition filed by the John Keells CG Auto (PVT) Ltd, challenging the detention of the imported BYD vehicles by Customs.
+
+The case was heard before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando.
+
+During the proceedings, President’s Counsel Manohara de Silva, appearing on behalf of a group of vehicle importers, requested court to grant his clients permission to intervene in the petition and present their concerns.
+
+...
+
+[Data](articles/a0d354a6.json)
+
+---
+
+### Trouble for the scratched woman in Sigiriya
+
+*2025-09-15 16:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியவில்-கீறிய-பெண்ணுக்கு-சிக்கல்/175-364635) · `ta`
+
+Dambulla District Magistrate Nilantha Wimalaratne on Monday (Monday) ordered that a young woman wrote through a hairpin on the Sigiriya rock until the 26th of this month.
+
+The 21 -year -old Muthu Kumari Niranjala from Avissawella is a woman who was interrogated.
+
+A 21 -year -old young woman suspected of writing six English letters by hairpin on the Sigiriya rock was arrested on the 14th.
+
+◼️
+
+[Data](articles/afe14b23.json)
+
+[Extended Data](ext_articles/afe14b23.ext.json)
+
+---
+
+### Issuance of emulating of admission for the Korean Language Proficiency Exam
+
+*2025-09-15 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214605) · `si`
+
+The issuance of Examinations for the Korean Language Proficiency Ticket for the Korean manufacturing and fishing sectors of South Korea will be launched today (15) to the Midnight.
+
+Registration to obtain applications for the examination by the official website of the Sri Lanka Bureau of Foreign Employment (SLBFE).
+
+For these 18-39 years, in the 5th of the year, with no fines, unaccepted, unaccepted, unaccepted, or unpredted by the arbitrary, or unpredted in the case of color blindness (2007.09.2007). There should be people who have not been served in South Korea.
+
+Application for the Obtain Examination Adverly. The exam cost is Rs. 8,428.40 and the Bank of Ceylon, People's Bank or the National Savings Bank requires the payment receipt. (Cash Account Numbers refer to at www.slbfe.lk)
+
+More information on the issue of this exam and examination tickets can be obtained through the official website of www.slbfe.lk www.slbfe.lk.
+
+◼️
+
+[Data](articles/0eabc8e3.json)
+
+[Extended Data](ext_articles/0eabc8e3.ext.json)
+
+---
+
+### An announcement of warm weather
 
 *2025-09-15 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214604) · `si`
 
-උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology has issued an announcement of warm weather conditions.
 
-අද (15)  ප.ව. 03.30ට නිකුත් කරන ලද එම නිවේදනය හෙට (16) දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
+Today (15) pm. The Department of Meteorology will address the announcement at 03.30 am (16).
 
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ වයඹ පළාත්වලත් කොළඹ, ගම්පහ, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවද එහි සඳහන් වේ.
+The warm indicator of the North, North-central and Northwestern provinces, in Colombo, Gampaha, Hambantota and Monaragala Districts, the heat of the human body can be "focused".
 
 ◼️
 
 [Data](articles/fe7895f2.json)
+
+[Extended Data](ext_articles/fe7895f2.ext.json)
 
 ---
 
@@ -59,6 +403,68 @@ His lawyer also informed the Court of Appeal today that the Manamperi, who is be
 [Data](articles/728c26b1.json)
 
 [Extended Data](ext_articles/728c26b1.ext.json)
+
+---
+
+### Sampath Manamperi informs willingness to surrender to court  through attorneys
+
+*2025-09-15 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112528/sampath-manamperi-informs-willingness-to-surrender-to-court-through-attorneys) · `en`
+
+An attorney representing Sampath Manamperi informed the Court of Appeal today (15) that his client is prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of two concealed containers in Middeniya, suspected to contain chemical substances used in the production of “Ice” (crystal methamphetamine).
+
+Following this statement, the Court of Appeal ordered the Inspector General of Police (IGP) to take necessary steps to ensure the safety of Sampath Manamperi after his surrender and instructed the investigating officers to be informed of this directive, Ada Derana reporter said.
+
+Court issued the order after considering a writ petition filed by the legal team of Sampath Manamperi, who is said to be wanted for arrest in connection with the incident.
+
+◼️
+
+[Data](articles/ead39f2a.json)
+
+[Extended Data](ext_articles/ead39f2a.ext.json)
+
+---
+
+### Renovation of Maradana Railway Station launched under Dream Destination program
+
+*2025-09-15 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112527/renovation-of-maradana-railway-station-launched-under-dream-destination-program) · `en`
+
+The renovation of the Maradana Railway Station, under the government’s “Clean Sri Lanka” and “Dream Destination” initiatives, was officially launched this morning (15) under the patronage of President Anura Kumara Dissanayake.
+
+This project is part of the government’s broader plan titled ““A Thriving Nation – A Beautiful Life,” which aims to establish a modern, sustainable, and standardized public transport system. The program focuses on improving public facilities at railway stations and transforming them into safe, comfortable, and clean spaces, the President’s Media Division said.
+
+The initiative, a public-private partnership, is spearheaded by the Ministry of Transport, Highways, Ports, and Civil Aviation, with plans to renovate 100 railway stations island-wide.
+
+A key focus is on creating a railway network accessible to all, including persons with special needs, while preserving historical value where applicable.
+
+...
+
+[Data](articles/4851a01f.json)
+
+[Extended Data](ext_articles/4851a01f.ext.json)
+
+---
+
+### Sri Lanka stocks close down 1.2-pct amidst investor uncertainties
+
+*2025-09-15 15:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-1-2-pct-amidst-investor-uncertainties-240589/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday as investors grappled with several uncertainties, brokers said.
+
+The ASPI closed down 1.25 percent, or 257.01 points, at 20,355.39; and the S&P SL20 closed down 1.26 percent, or 74.28 points, at 5,798.
+
+“The downward trend is continuing as there’s some uncertainties hovering around,” Dimantha Mathew, Chief Research and Strategy Officer at First Capital Holdings PLC said.
+
+“Buyers are looking for direction around the next IMF tranche, and if there’ll be new taxes from the budget.”
+
+This sentiment could continue until quarterly results are released, he said.
+
+The ASPI was weighed down by Commercial Bank (down 4.25 rupees at 182.75), Sampath Bank (down 3 rupees at 137), DFCC Bank (down 4 rupees at 151.75), Hatton National Bank (down 4.25 rupees at 380), and Melstacorp (down 2 rupees at 157). (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/25b508b1.json)
+
+[Extended Data](ext_articles/25b508b1.ext.json)
 
 ---
 
@@ -125,6 +531,24 @@ Asian Cricket Council Chairman Moshin Naqvi has strongly opposed the Indian team
 [Data](articles/0e2d3497.json)
 
 [Extended Data](ext_articles/0e2d3497.ext.json)
+
+---
+
+### Sparkinbox forum brings Sri Lanka, Germany experts together to tackle EU trade rules
+
+*2025-09-15 15:45:00* · [`economynextcom`](https://economynext.com/sparkinbox-forum-brings-sri-lanka-germany-experts-together-to-tackle-eu-trade-rules-240579/) · `en`
+
+ECONOMYNEXT – A high-level seminar hosted by Sparkinbox, a capacity-building and networking think tank, brought together Sri Lankan exporters, trade representatives, and policy experts to examine the implications of the European Union’s evolving trade and sustainability regulations.
+
+Keynote speaker Markus Löning, former German Human Rights Commissioner and Founder of Löning Human Rights & Responsible Business, outlined the challenges and opportunities facing Sri Lanka in strengthening its trade relationship with the EU.
+
+The EU’s strategy of “de risking, not decoupling” from China has placed supply chain diversification at the heart of its trade and security policy. This shift creates opportunities for Sri Lanka to position itself as a reliable partner, particularly in textiles and apparel, rubber, fisheries, agriculture, and IT services.
+
+...
+
+[Data](articles/6f60f215.json)
+
+[Extended Data](ext_articles/6f60f215.ext.json)
 
 ---
 
@@ -492,7 +916,7 @@ Prime Minister Dr. Harini Amarasuriya said,
 
 *2025-09-15 14:00:00* · [`economynextcom`](https://economynext.com/economic-and-investment-summit-to-focus-on-drawing-investors-to-sri-lanka-240556/) · `en`
 
-ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, the Ceylon Chamber of Commerce said.
+ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, its organizer the Ceylon Chamber of Commerce said.
 
 “The session will explore how Sri Lanka can accelerate much-needed reforms, mitigate risks, and unlock new opportunities to position itself as a credible and attractive destination for both local and international investors,” the chamber said.
 
@@ -547,6 +971,20 @@ The suspect reportedly said that three Iranians were involved in the manufacturi
 [Data](articles/e0782969.json)
 
 [Extended Data](ext_articles/e0782969.ext.json)
+
+---
+
+### රු. 2000 නෝට්ටුව ගැන මහ බැංකුවෙන් දැනුම් දීමක්
+
+*2025-09-15 13:54:35* · [`adalk`](https://www.ada.lk/breaking_news/රු--2000-නෝට්ටුව-ගැන-මහ-බැංකුවෙන්-දැනුම්-දීමක්/11-418507) · `si`
+
+මහ බැංකුව සිය 75 වන සංවත්සරය සැමරීම නිමිත්තෙන් 2025.08.29 දින රුපියල් 2000 ක සංසරණය සඳහා වන සමරු මුදල් නෝට්ටුවක් නිකුත් කරන ලදී.
+
+නව මුදල් නෝට්ටුව පහසුවෙන් මුදල් සංසරණයට අනුගත කිරීම සඳහා, බලපත්‍රලාභී වාණිජ බැංකු ඔවුන්ගේ මුදල් හැසිරවීමේ යන්ත්‍ර ක්‍රමාංකනය කිරීමේ (Calibration) ක්‍රියාවලියක යෙදී සිටී. මෙම ක්‍රියාවලියේ ප්‍රගතියට අනුකූලව, නව මුදල් නෝට්ටුව බලපත්‍රලාභී වාණිජ බැංකු හරහා ක්‍රමයෙන් මුදල් සංසරණයට නිකුත් කරනු ලබන බව මහ බැංකුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/94294509.json)
 
 ---
 
@@ -645,6 +1083,30 @@ At the same time, some people who contested the local government elections have 
 [Data](articles/ec4c742d.json)
 
 [Extended Data](ext_articles/ec4c742d.ext.json)
+
+---
+
+### Thirty thousand of lakhs have been found in the father-son who behaved
+
+*2025-09-15 13:13:48* · [`adalk`](https://www.ada.lk/breaking_news/සැක-කටයුතු-ලෙස-හැසිරුණු-පිය-පුතු-ලඟ-තිබී-රුපියල්-ලක්ෂ-තිස්පහක්-සොයා-ගැනේ/11-418506) · `si`
+
+The police have been found at least Rs.
+
+Army camp has informed the police to have two suspects in the Uva Kudaoya Army Camp.
+
+The Kuda Oya Police arrested the two in the reserve and was found in their baggage in their bags.
+
+The two were two son born on the Tissamaharama road in Hambantota, 44 and 22. It has been said that the two of them were planning to kill their spouse and that the wife had been mortgaged.
+
+The wife had come to the police on the 15th and said that he was a mental illness and was in prison in connection with an abuse incident.
+
+The 22-year-old son has appeared at the GCE Advanced Excellent Tests of the GCE (Abeyas. Smat Oya Police Station is investigating the police station.
+
+◼️
+
+[Data](articles/d05ac454.json)
+
+[Extended Data](ext_articles/d05ac454.ext.json)
 
 ---
 
@@ -910,19 +1372,23 @@ Accordingly, in the first phase of the event, 28 students were given scholarship
 
 ---
 
-### බන්ධනාගාරයට පුද්ගලයින් යොමුවීම අඩු කිරීම අරමුණ විය යුතුයි
+### The objective of reducing people to prison should be the goal
 
 *2025-09-15 12:04:37* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරයට-පුද්ගලයින්-යොමුවීම-අඩු-කිරීම-අරමුණ-විය-යුතුයි/11-418505) · `si`
 
-අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මෙම අදහස් පළ කළේ කොළඹ 08, සර්වෝදය සංවර්ධන මුල්‍ය ආයතන නගරෝදය ශ්‍රවණාගාරයේ පැවති 27 වන ජාතික සිරකරු දින උත්සවයේ ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගිවෙමිනි.
+Attorney-at-Law, Minister of Justice and National Integration, Attorney General
 
-"බන්ධනාගාරගත රැඳවියන් වෙනුවෙන් පහසුකම් සපයමින් සිරකරුවන් වෙනුවෙන් සිරකරු සුභ සාධක සංගමය විසින් සිදු කරනු ලබන සේවය ප්‍රශංසනීයයි. සිරකරුවන්ට පහසුකම් සැපයීමේදී සිරකරු සුභ සාධක සංගමය ලබා දෙන සහාය ශක්තියක් බව කිව යුතුයි. ඔබ සංගමය වසර ගණනාවක් තිස්සේ වාර්ෂිකව සිරකරු දිනය සමරමින් සිරකරුවන් වෙනුවෙන් විශාල සේවයක් සිදු කර තිබෙනවා.
+"The Prisoner Welfare Society for Prisoners' Facilitate for Prison Inmates is commendable. It is necessary to say that the prisoner welfare society provides strength to facilitate prisoners. You have been a great service to the prisoners annually by celebrating the date of prisoner for years annually.
 
-අද වන විට බන්ධනාගාර තුළ සිරකරුවන්ගේ විශාල තදබදයක් තිබෙනවා. එම තදබදය අඩු කරමින් අවශ්‍ය පහසුකම් සැපයීම අපේ වගකීමක් බව සඳහන් කළ යුතුයි. අපේ අරමුණ විය යුතු වන්නේ බන්ධනාගාරයට පුද්ගලයින් යොමු වන එක අඩු කිරීමයි. දුප්පත්කම නිසා බන්ධනාගාරගත වන සංඛ්‍යාව වැඩි වෙලා තිබෙනවා. වත්මන් රජයේ අරමුණ රටේ සමාජ සාධාරණත්වය තුළින්  ආර්ථික දියුණුව ඇති කිරීමෙන් බන්ධනාගාරගත වන සංඛ්‍යාව අඩු කිරීමයි.
+There are many prisoners in prisons. It must be noted that our responsibility to reduce the congestion. Our goal should be to reduce the one to the prison. The number of persons who are imprisoned due to poverty has increased. The present government's purpose is to reduce the number of people who are impressed by the social justice of the country.
 
-...
+It is very important to facilitate the human rights of all those who are imprisoned. All people are equal to the law. The Minister said that a country should be created by protecting the rule of law as a government.
+
+◼️
 
 [Data](articles/875e2cd3.json)
+
+[Extended Data](ext_articles/875e2cd3.ext.json)
 
 ---
 
@@ -945,6 +1411,30 @@ The minister’s comments come amid threats of protest by CEB trade unions again
 [Data](articles/cbd3f8c3.json)
 
 [Extended Data](ext_articles/cbd3f8c3.ext.json)
+
+---
+
+### Sri Lanka 2,000 note circulation delayed by cash machine calibration
+
+*2025-09-15 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-2000-note-circulation-delayed-by-cash-machine-calibration-240543/) · `en`
+
+ECONOMYNEXT – The new 2,000 rupee note issued by the central bank of Sri Lanka will gradually be released into circulation after banks calibrate their cash-handling machines, CBSL said.
+
+“In order to facilitate the smooth acceptance and dispensation of the new note, Licensed Commercial Banks are in the process of calibrating their cash-handling machines,” CBSL said.
+
+“In keeping with the pace of the process, the new note will gradually be released into circulation through Licensed Commercial Banks.”
+
+The commemorative currency note was issued on August 29 to mark its 75th Anniversary, CBSL said.
+
+“The new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.”
+
+The note is the first to bear President Anura Dissanayake’s signature. (Colombo/Sep2025)
+
+◼️
+
+[Data](articles/473280e5.json)
+
+[Extended Data](ext_articles/473280e5.ext.json)
 
 ---
 
@@ -972,7 +1462,7 @@ Former Minister Keheliya Rambukkale accusing of a condolence of over Rs. 24th Au
 
 ---
 
-### Sri Lanka 2,000 note issuance delayed by cash machine calibration
+### Sri Lanka 2,000 note circulation delayed by cash machine calibration
 
 *2025-09-15 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-2000-note-issuance-delayed-by-cash-machine-calibration-240543/) · `en`
 
@@ -1547,513 +2037,5 @@ Representatives of the Youth Organization, Jaffna Marudanarmadam traders, market
 [Data](articles/daada4d6.json)
 
 [Extended Data](ext_articles/daada4d6.ext.json)
-
----
-
-### Pettah Central Bus Stand developed in the Central Bus Stand developed - live telecast
-
-*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214586) · `si`
-
-The inauguration of the renovation of the Central Bus Stand at the Central Bus Stand at the Pettah is now inaugurated.
-
-The Pettah bus stand in 1964 was renovated in 60 years.
-
-New restrooms, ICT locations, security systems, will be established to the bus stand under the renovation.
-
-◼️
-
-[Data](articles/a479a0b7.json)
-
-[Extended Data](ext_articles/a479a0b7.ext.json)
-
----
-
-### Former army soldier arrested with an ivory pair
-
-*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214585) · `si`
-
-A retired Army soldier who had been in possession of the ivory pair in Moragoda Police Station has been arrested.
-
-The victim is a 46 year old resident of Halmillawa, a retired Army soldier.
-
-According to a tip off received by Moragoda police, the title had been found in Halmillawa area in Moragoda.
-
-Police said the police were able to find the ivory pair of elephants while he was hidden under the ownership of the suspect.
-
-The tabed the police is to be produced before the Kahatagasdigiliya Magistrate's Court today (15).
-
-◼️
-
-[Data](articles/e490fb4a.json)
-
-[Extended Data](ext_articles/e490fb4a.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields flat
-
-*2025-09-15 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-flat-240501/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.90/302.00 to the US dollar on Monday, slightly weaker from 301.99/95 Friday, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.40/50 percent.
-
-A bond maturing 15.12.2029 was quoted flat at 9.50/55 percent.
-
-A bond maturing on 01.12.2032 was quoted at 10.38/45 percent.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.7314 buying, and 415.0732 selling, and the euro was 347.8515 buying, 359.0567 selling.
-
-The Colombo Stocks Exchange was trading in red; The ASPI was down 0.08 percent, or 17.44 points, at 20,594; the S&P SL20 was down 0.20 percent, or 17.05 points, at 5,861.
-
-Rs. 75,000 million Treasury bills are to be issued through an auction on 17th September. (Colombo/Sep15/2025)
-
-◼️
-
-[Data](articles/d429c501.json)
-
-[Extended Data](ext_articles/d429c501.ext.json)
-
----
-
-### 11-year old boy drowns in Dewahuwa Reservoir
-
-*2025-09-15 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112508/11-year-old-boy-drowns-in-dewahuwa-reservoir) · `en`
-
-An 11-year-old boy has reportedly drowned while bathing in the Dewahuwa Reservoir in the Galewela area, police said.
-
-The child had gone to bathe in the reservoir with his father and relatives when he was swept under by strong currents and went missing, police said.
-
-Relatives and residents of that area later retrieved the child from the water and rushed him to the Galewela Hospital, where he was later pronounced dead..
-
-◼️
-
-[Data](articles/eab6fe0e.json)
-
-[Extended Data](ext_articles/eab6fe0e.ext.json)
-
----
-
-### Indians refuse to shake hands for Pakistani soldiers
-
-*2025-09-15 09:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-வீரர்களுக்கு-கைகுலுக்க-இந்தியவீரர்கள்-மறுப்பு/44-364595) · `ta`
-
-Dossing in the toss and after the competition, the players boycotted their hand due to strong opposition
-
-Indian team beat Pakistan in Asia Cup. Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets in 20 overs.
-
-The Indian team lost only 3 wickets in 16 overs with 131 runs and won by 7 wickets.
-
-◼️
-
-[Data](articles/f4e7291d.json)
-
-[Extended Data](ext_articles/f4e7291d.ext.json)
-
----
-
-### Trump heads for historic second UK state visit
-
-*2025-09-15 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112507/trump-heads-for-historic-second-uk-state-visit) · `en`
-
-Donald Trump will get the red carpet treatment this week on an unprecedented second United Kingdom state visit, as Britain counts on royal pomp and circumstance to woo the unpredictable United States president.
-
-From a flyby and carriage ride with King Charles III to a grand state banquet at historic Windsor Castle, Britain is pulling out all the stops to flatter Trump, who has long been fascinated with the monarchy.
-
-The aim is to keep Prime Minister Keir Starmer on Trump’s good side when they meet at the British leader’s country residence for talks centred on trade, tariffs and the Ukraine war.
-
-Trump will also be kept far away from crowds and protesters, with all the action taking place outside London, where a large demonstration against the 79-year-old Republican is set to take place.
-
-Labour leader Starmer is not a natural bedfellow for right-wing firebrand Trump, but he has worked hard to win him over since the US president returned to the White House in January.
-
-...
-
-[Data](articles/5f505d9f.json)
-
-[Extended Data](ext_articles/5f505d9f.ext.json)
-
----
-
-### Giri Samba Rice shortage in the market!
-
-*2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225104) · `ta`
-
-Rice manufacturers have avoided selling Giri Samba rice because they are offering a control price of the Keeri Samba at a price of more than 260 rupees.
-
-Considering this situation, retailers are also avoiding selling Keeri samba rice.
-
-In such a situation, the Rice Manufacturers Association has asked the government to remove the maximum retail price imposed on the Samba and Keeri Samba rice.
-
-However, the Sri Lankan small and medium -sized paddy plant owners association is demanding that no measures take any steps to eliminate the maximum retail price of rice as the owners of large -scale rice mill owners are trying to make a profit.
-
-In this context, the National Farmers' Union has demanded that the government immediately resolve the issue.
-
-◼️
-
-[Data](articles/50eafac1.json)
-
-[Extended Data](ext_articles/50eafac1.ext.json)
-
----
-
-### Israel attack on Gaza: 53 deaths: Many buildings have been damaged!
-
-*2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225105) · `ta`
-
-Israeli attacks on Gaza yesterday killed 53 people and damaged several buildings.
-
-International media reports that Israel has intensified its bombing on the city of Gaza.
-
-Israeli forces have intensified an offensive to seize the northern urban center and displace its people, killing 53 Palestinians in Gaza area
-
-The number of people who died of hunger in Gaza has risen to 422 since the onset of Israel's war, the Ministry of Health said.
-
-In Gaza, the Israeli army has launched a two-hour missile attack targeting the Al-Qawdar tower in the southern Remal neighborhood.
-
-◼️
-
-[Data](articles/f72edf41.json)
-
-[Extended Data](ext_articles/f72edf41.ext.json)
-
----
-
-### Boy drowns in Galewela Devahuwa reservoir
-
-*2025-09-15 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225103) · `ta`
-
-A boy who was drowned in the Devahuwa reservoir in Galewela area has drowned.
-
-The 11 -year -old boy from Devahuwa, Galewela, died, police said.
-
-Investigations have revealed that they were drowned when they were drowned in the reservoir with their father and relatives.
-
-Later, relatives and the people of the area rescued the drowning boy and admitted to the Galewela Hospital.
-
-◼️
-
-[Data](articles/03c448aa.json)
-
-[Extended Data](ext_articles/03c448aa.ext.json)
-
----
-
-### Pali grammar book launched in Sri Lanka
-
-*2025-09-15 09:00:00* · [`economynextcom`](https://economynext.com/pali-grammar-book-launched-in-sri-lanka-240532/) · `en`
-
-ECONOMYNEXT – An ancient Pali grammar book ‘Balawatharo’ has been reprinted by Pathfinder Foundation with the support of the High Commission of India, Colombo and Indian Council of Cultural Relations (ICCR).
-
-“The reprint will make this valuable text, which has, for generations, served as a cornerstone of Pali studies in Sri Lankan Pirivenas and schools, accessible to students of Pali in Sri Lanka,” the High Commission said.
-
-Deputy High Commissioner Satyanjal Pandey launched the reprint at the sacred Dalada Maligawa Temple, Kandy.
-
-Copies were presented to the chief prelates and other monks of the Malwatte and Asgiriya chapters.
-
-Pathfinder, the High Commission, and ICCR have previously reprinted the Pali grammar treatise ‘Namamala’. (Colombo/Sep15/2025)
-
-◼️
-
-[Data](articles/a755f47f.json)
-
-[Extended Data](ext_articles/a755f47f.ext.json)
-
----
-
-### Woman arrested on the wall of Sigiriya wall
-
-*2025-09-15 08:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியா-சுவரில்-பெயர்-எழுதிய-பெண்-கைது/175-364594) · `ta`
-
-It is reported that a 21 -year -old woman has been arrested by archaeological authorities today (15) for writing her name on the marble wall in Sigiria.
-
-The woman has written her name at the place where she said, "Please do not touch this."
-
-The woman has been arrested on the basis of a crime of destroying and damaging archaeological symbols that need to be protected.
-
-The arrested woman has been handed over to the Sigiriya Police and is to be produced before the Dambulla Magistrate's Court tomorrow (16).. Remble
-
-◼️
-
-[Data](articles/c4e08fba.json)
-
-[Extended Data](ext_articles/c4e08fba.ext.json)
-
----
-
-### Owen Cooper becomes younted actor who won award award
-
-*2025-09-15 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214584) · `si`
-
-Owen Cooper has been able to become the youngest actor who won award at the 'Emmy Awards' in the United States.
-
-He was awarded this award for the drama series of 'Adlasand' series.
-
-Foreign media reported that Owen Cooper is 15 years old.
-
-Meanwhile, the best prominent generation actor in the Emmy Awards, Seth Smart and Best Comedy Generator has been won.
-
-◼️
-
-[Data](articles/8db6a67f.json)
-
-[Extended Data](ext_articles/8db6a67f.ext.json)
-
----
-
-### The shortage to the giri samba in the market
-
-*2025-09-15 08:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தையில்-கீரி-சம்பாவுக்குத்-தட்டுப்பாடு/175-364593) · `ta`
-
-Rice wholesale sellers and rice manufacturers of Pettah are reported to be avoiding selling Giri Samba rice at a cost of Rs 260.
-
-Considering this, retailers are also avoiding selling Keeri Samba rice.
-
-Meanwhile, the United Rice Manufacturers Association has asked the government to remove the maximum retail price imposed on Samba and Keeri Samba rice.
-
-◼️
-
-[Data](articles/e5351cc1.json)
-
-[Extended Data](ext_articles/e5351cc1.ext.json)
-
----
-
-### The first modern pre -school in the plantation sector
-
-*2025-09-15 08:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224917) · `ta`
-
-The first model modern pre -school has been created as a new different venture in the plantation sector. Surprisingly, the arrangements have been made by the concerned parties.
-
-Childhood is considered one of the most important in human life. Improves improve the main development this season. Therefore, it is imperative that everyone focuses on the importance of this and supports the development of the children.
-
-In that respect, pre -school education prepares for children to go to elementary schools. Things they attend in the pre -school support early education.
-
-Child education in plantation areas in Sri Lanka is not systematized. Most pre -schools do not have the basic facilities.
-
-As a result, the first model in the plantation sector in Sri Lanka has been opened in the name of the Tea Kids Hybrid Pre School, the Tea Kids Hybrid Pre School.
-
-...
-
-[Data](articles/3416dfee.json)
-
-[Extended Data](ext_articles/3416dfee.ext.json)
-
----
-
-### Two killed in two dead accidents
-
-*2025-09-15 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214583) · `si`
-
-Two people were killed in two fatal accidents throughout the country.
-
-Accordingly, a car collided with a motorcycle at Thambiluvil to Pottukattuwa in Tharukkohil road in Thirukkattu road on the Akkaravil area on the Thirukkattu road.
-
-The driver has fled the car by running after the accident, and the driver had fled the car.
-
-The motorcyclist and the subsequent injuries were seriously injured and admitted to the Thirukkovil hospital.
-
-Thirukkovil Police are conducting further investigations to arrest the driver of the car flee car.
-
-Meanwhile, a motorcycle who traveled to Trincomalee from the Upuwelle police division in the Ampara Junction of Trincomalee was held at the Galle Junction on the Galle Junction last morning.
-
-The pedestrian person was killed after admission to the Trincomalee hospital and the subsequent injuries.
-
-The deceased is Sampur, 71-year-old residents of the Muttur area.
-
-◼️
-
-[Data](articles/e1ed5f8a.json)
-
-[Extended Data](ext_articles/e1ed5f8a.ext.json)
-
----
-
-### Local Government Week begins today with the theme of 'Renaissance City'!
-
-*2025-09-15 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225101) · `ta`
-
-The Local Government Week, which aims to create the Renaissance city, begins today (15).
-
-The Public Administration, Provincial Councils and Local Government Ministry has announced that the project will be implemented nationwide from today to September 21.
-
-Provincial Councils and Local Government Deputy Minister P.. Ruwan Senarath said.
-
-We start the Local Government Week with the theme of the Renaissance City. The event, chaired by the Ministry of Public Administration and Local Government, has been invited to participate in the event, to meet the daily needs of communities, protect the living environment and protect the standard vision for the future.
-
-◼️
-
-[Data](articles/62e805af.json)
-
-[Extended Data](ext_articles/62e805af.ext.json)
-
----
-
-### Chance of rain in some places
-
-*2025-09-15 08:33:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மழை-பெய்ய-வாய்ப்பு/175-364591) · `ta`
-
-The Department of Meteorology has forecast rainfall in the Western and Sabaragamuwa Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Rainfall or thundershowers will occur in Uva and Eastern Provinces and Hambantota district after 1.00 pm, the Department of Weather forecasts said.
-
-In some places about 50 mm. There may be some heavy rains.
-
-The Department of Meteorology has advised the public to take necessary precautions to reduce the impacts of heavy winds and lightning strikes in the area during thunderstorms.. Remble
-
-◼️
-
-[Data](articles/bfeeee2b.json)
-
-[Extended Data](ext_articles/bfeeee2b.ext.json)
-
----
-
-### Youth arrested for damaging Sigiria glass wall
-
-*2025-09-15 08:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225100) · `ta`
-
-A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging the world's traditional tourist site Sigiriya glass wall.
-
-அவிசாவளையைச் சேர்ந்த 21 வயதுடைய அவர் சிகிரியாவிற்குச் சுற்றுலா சென்றிருந்தபோது இந்தச் செயலைச் செய்ததாகக் கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/3c047efe.json)
-
-[Extended Data](ext_articles/3c047efe.ext.json)
-
----
-
-### In Sri Lanka, Ice has come from Iran
-
-*2025-09-15 08:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේදී-අයිස්-නිපදවන්න-ඉරානයෙන්-ඇවිත්/11-418498) · `si`
-
-කළුතර අපරාධ කොට්ඨාසය මගින් රැඳවුම් නියෝග මත ප්‍රශ්න කරන "ඇඹිලිපිටියේ සුරංග" නැමැත්තාගෙන් ලබා ලබාගත් තොරතුරු වලට අනුව අයිස් මත්ද්‍රව්‍ය  නිෂ්පාදනය කල බවට සැක කරන හම්බන්තොට ප්‍රදේශයේ නිවාඩු නිකේතනයක තිබී සැක උපකරණ , රසායනික ද්‍රව්‍ය තොගයක් සහ අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට එම අවන්හලේ නවතා තිබූ මෝටර් රථයක් අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
-
-Police said that he was arrested and was arrested in the investigation of the ice drugs from the Surai, which was arrested and used by an organized criminals from Indonesia.
-
-Police have also taken into police custody that a luxury car has been taken into police custody at the rest of the restaurant.
-
-The car is the car taken to transport heroin about two years ago, police said.
-
-According to the information revealed, several Iranian nationals in the Mayurapura area and several people in the Mayurapura area have been produced by the Iranian.
-
-...
-
-[Data](articles/973bb0a3.json)
-
-[Extended Data](ext_articles/973bb0a3.ext.json)
-
----
-
-### Srinasan MP. Injury in an accident
-
-*2025-09-15 08:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீநேசன்-எம்-பி-விபத்தில்-காயம்/175-364590) · `ta`
-
-Batticaloa district parliamentarian Gnanamuttu Srinesan was injured in the accident.
-
-The accident occurred when her vehicle and a car collided with a recent car to the Batticaloa - Kaluwanchikudi Divisional Secretariat.
-
-The accident occurred when he returned to the Central Committee meeting of the Sri Lanka Tamil National Alliance (TNA) held at Alayadivemba yesterday (14).
-
-He was admitted to the Kaluwanchikudi Resource Hospital and transferred to the Batticaloa Teaching Hospital for further treatment.
-
-◼️
-
-[Data](articles/7c0bd167.json)
-
-[Extended Data](ext_articles/7c0bd167.ext.json)
-
----
-
-### Group arrested for illegal excavation of artifacts in two areas
-
-*2025-09-15 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112506/group-arrested-for-illegal-excavation-of-artifacts-in-two-areas) · `en`
-
-The police have arrested a group of individuals involved in the illegal excavation of artifacts at two separate locations in the country.
-
-During a raid conducted last evening (14) in the Madipola area under the Galewela Police Division, based on information received by officers from the Galewela Police Station, a total of seven suspects were apprehended while carrying out excavation activities.
-
-Several excavation tools and sacrificial objects used in the illegal operations were also seized, police stated.
-
-The arrested suspects are residents of Madipola, Welikanda, Millawana, Damminna, and Dehiattakandiya areas, aged between 28 and 58 years.
-
-Meanwhile, a separate raid was carried out last evening in the Nawagiriyawa area under the Bandaraduwa Police Division, following a tip-off received by officers from the Bandaraduwa Police Station.
-
-A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting illegal excavation of artifacts.
-
-...
-
-[Data](articles/f1ce059b.json)
-
-[Extended Data](ext_articles/f1ce059b.ext.json)
-
----
-
-### Woman arrested for harming Sigiriya
-
-*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
-
-Sigiriya is arrested by the archaeological officers of a 21-year-old girl who was recovered from the English letter, harming its designation in the English letter, which was harmful to its secure Pura Poems.
-
-This unfortunate action was carried out while presenting the girl with a friend and a group of friends, a group of friends, a group of friends, a group of friends residing in Avissawella. When writing to his name, archaeological officers caught the woman when he wrotened her name, damaged her name hazardous poetic writings. Archaeological officials have found that this act has been damaged in the caterpade.
-
-The woman is in remand custody after handing over the woman to Sigiriya, and today 15 today is to be produced before the Dambulla Magistrate.
-
-Archaeological Officers are also conducting further investigations into the incident.
-
-This incident has restored questions about the safety of these historical locations and focuses on tourist and awareness.
-
-◼️
-
-[Data](articles/2619be8a.json)
-
-[Extended Data](ext_articles/2619be8a.ext.json)
-
----
-
-### CEB workers to intensify strike action effective today
-
-*2025-09-15 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112505/ceb-workers-to-intensify-strike-action-effective-today) · `en`
-
-All trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their strike action against the proposed division of the CEB into four parts, effective today (15).
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to implement the strike in three phases.
-
-The first phase was initiated as a ‘work-to-rule’ trade union action.
-
-Although 11 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
-
-The union further stated that it will make an announcement regarding the next phase and potential intensification of the strike following trade union discussions scheduled for this afternoon.
-
-◼️
-
-[Data](articles/7a054a82.json)
-
-[Extended Data](ext_articles/7a054a82.ext.json)
-
----
-
-### Prime Lands buys land in Bambalapitiya, Sri Lanka for Rs3.5bn
-
-*2025-09-15 08:00:00* · [`economynextcom`](https://economynext.com/prime-lands-buys-land-in-bambalapitiya-sri-lanka-for-rs3-5bn-240520/) · `en`
-
-ECONOMYNEXT – Sri Lanka property developer Prime Lands Residencies PLC said it had bought a land at Bambalapitiya Station Road for 3.5 billion rupees.
-
-The property was bought at an auction on Friday (12), the company said in a stock exchange filing.
-
-The company has paid 350,000,010 rupees of the total 3,500,000,100, or 10 percent of the selling price, as the advance payment and the balance will be settled within 30 days from the date of communication from the bank, Prime Lands said.
-
-The stock war trading up 2.10 rupees at 34.20. (Colombo/Sep15/2025)
-
-◼️
-
-[Data](articles/67708843.json)
-
-[Extended Data](ext_articles/67708843.ext.json)
 
 ---

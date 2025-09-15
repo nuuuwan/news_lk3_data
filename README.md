@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 12:15:22**
+As of **2025-09-15 13:06:35**
 
 ## Newspaper Stats
 
-*Scraped **76,048** Articles*
+*Scraped **76,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,380
-adaderanalk | 9,782
-tamilmirrorlk | 11,380
+adalk | 7,381
+adaderanalk | 9,784
+tamilmirrorlk | 11,384
 virakesarilk | 12,396
 adaderanasinhalalk | 13,268
 
@@ -26,51 +26,191 @@ adaderanasinhalalk | 13,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,804 (94.4%) of 76,048 articles have been extended.
+71,854 (94.5%) of 76,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### කෙහෙළිය ඇතුළු පවුලේ සාමාජිකයින්ට එරෙහි නඩුව කල්යයි
+### Israel-catter attack; Hakeem criticizes the government
 
-*2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
+*2025-09-15 12:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-கட்டார்-தாக்குதல்-அரசாங்கத்தை-சாடுகிறார்-ஹக்கீம்/175-364618) · `ta`
 
-අයථා ලෙස රුපියල් මිලියන 97කට අධික වටිනාකමකින් යුත් වත්කම් උපයා ගැනීම සම්බන්ධයෙන් හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ බෑනාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනු ඇති නඩුව ඔක්තෝබර් 01 වනදා යළි කැඳවීමට කොළඹ මහාධිකරණය නියම කළේය.
+Sri Lanka Muslim Congress (SLMC) leader Rauf Hakeem has criticized the government's latest report on Israel's attacks on Qatar, in connection with the current conflict with Palestine.
 
-ඒ මෙම නඩුව කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදීය.
+Hakeem, who issued a statement, accused the Foreign Ministry of Foreign Affairs, "It has once again proven how incompetent it is to distinguish between an occupant and the occupants, between an air strike and an incident, or a worse, mercenary, and the unity of the victims.
 
-මෙම නඩුව අද කැඳවූ අවස්ථාවේ විත්තිය විසින් ඉල්ලා සිටි ලේඛන අතුරින් කිහිපයක් අල්ලස් කොමිසම විසින් විත්ති පාර්ශවයට විවෘත අධිකරණයේදී භාර දෙනු ලැබීය.
-
-තවදුරටත් ලේඛන අවශ්‍ය නම් ඒවා අද දින සිට සති දෙකක් ඇතුළත අධිකරණයට දැනුම් දෙන ලෙස එහිදී අධිකරණය විසින් විත්ති පාර්ශවයට නියම කර ඇත.
-
-ඉන් අනතුරුව නඩුව යළි ඔක්තෝබර් 01 වනදා කැඳවීමට දින නියම කෙරිණි.
+He accused Israeli Prime Minister Benjamin Netanyahu and his administration that the government was "in a tactical or strategic conspiracy" in the occupied Palestinian areas, not only in the crimes committed in Gaza, but also in support of Qatar last June.
 
 ...
 
-[Data](articles/60170dfa.json)
+[Data](articles/7a79029f.json)
+
+[Extended Data](ext_articles/7a79029f.ext.json)
 
 ---
 
-### බන්ධනාගාරගත වන පුද්ගලයින් සංඛ්‍යාව අවම කිරීම රජයේ අරමුණයි - අධිකරණ අමාත්‍ය
+### Govt’s objective is to reduce prison population– Justice Minister
+
+*2025-09-15 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112515/govts-objective-is-to-reduce-prison-population-justice-minister) · `en`
+
+The government’s objective is to reduce the number of people imprisoned in the country, the Minister of Justice and National Integration Harshana Nanayakkara says.
+
+He made these remarks while participating in the 27th Prisoners’ Day ceremony held recently.
+
+Speaking at the event, the Minister stated that the service provided by the Prisoners’ Welfare Association for inmates in prisons is commendable.
+
+He further highlighted the severe issue of prison overcrowding and stressed that it is the government’s responsibility to ensure the necessary facilities to address this problem.
+
+The Minister emphasized that it is extremely important to reduce the number of people imprisoned and to create facilities that protect the human rights of all those imprisoned.
+
+“All people are equal before the law, and as a government, we are committed to upholding the supremacy of the rule of law and building a country based on equality,” Minister Nanayakkara stated.
+
+...
+
+[Data](articles/634fb483.json)
+
+---
+
+### Case against former Minister Keheliya and family members adjourned
+
+*2025-09-15 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112514/case-against-former-minister-keheliya-and-family-members-adjourned) · `en`
+
+The Colombo High Court today (15) ordered the case filed against former Minister Keheliya Rambukwella, his wife, three daughters, and son-in-law, over allegations of illegally acquired assets, to be recalled on October 01.
+
+High Court Judge Lanka Jayaratne issued the order when the case was taken up before court today, said Ada Derana reporter.
+
+During proceedings, the prosecution handed over several documents, previously requested by the defendants for the trial, in open court.
+
+The judge further directed the defendants to notify the court within two weeks if they required any additional documents and fixed the case to be recalled on October 01.
+
+According to the charge sheet, the defendants are accused of committing offences under the Sri Lanka Penal Code by unlawfully acquiring assets during the period between August 13, 2020, and June 24, 2024, while serving in the Ministry of Mass Media and Health.
+
+...
+
+[Data](articles/c6b647bc.json)
+
+---
+
+### The first goal is to strengthen traffic
+
+*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்தை-வலுப்படுத்துவதே-முதல்-குறிக்கோள்/175-364616) · `ta`
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said on Monday (15)
+
+Minister Bimal Ratnayake said trains, buses and texies would be built from one place to be booked from one place.
+
+Minister of State also said that the government's aim was to open at least fifty -fifty transport centers in Sri Lanka by 2029.
+
+Minister Bimal Ratnayake said this while addressing the inauguration ceremony at the Central Bus Stand at Pettah.
+
+The project was launched under the leadership of President Anura Kumara Dissanayake. "Our primary goal is to strengthen the country. No matter how many roads are constructed, no matter how many traffic lights are installed, the economy of a country cannot be improved.
+
+In the last thirty to forty years, the public transport system has fallen greatly due to fraud and corruption.
+
+If the president has time, we ask for five minutes to walk in this area to understand how the people of this country use this main bus station.
+
+...
+
+[Data](articles/8af73522.json)
+
+[Extended Data](ext_articles/8af73522.ext.json)
+
+---
+
+### Our primary goal is to strengthen the country's transport.
+
+*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-போக்குவரத்தை-வலுப்படுத்துவதே-எங்கள்-முதன்மையான-குறிக்கோள்/175-364616) · `ta`
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said on Monday (15)
+
+Minister Bimal Ratnayake said trains, buses and texies would be built from one place to be booked from one place.
+
+Minister of State also said that the government's aim was to open at least fifty -fifty transport centers in Sri Lanka by 2029.
+
+Minister Bimal Ratnayake said this while addressing the inauguration ceremony at the Central Bus Stand at Pettah.
+
+The project was launched under the leadership of President Anura Kumara Dissanayake. "Our primary goal is to strengthen the country. No matter how many roads are constructed, no matter how many traffic lights are installed, the economy of a country cannot be improved.
+
+In the last thirty to forty years, the public transport system has fallen greatly due to fraud and corruption.
+
+If the president has time, we ask for five minutes to walk in this area to understand how the people of this country use this main bus station.
+
+...
+
+[Data](articles/f6a7070a.json)
+
+[Extended Data](ext_articles/f6a7070a.ext.json)
+
+---
+
+### Case against Keheliya and family members postponed
+
+*2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
+
+Former Minister Keheliya Rambukwella, his wife, three daughters and the son-in-law of the Bribery Commission against the abuse of over 97 million ruled the file on October 1.
+
+The case was called the Colombo High Court Judge Lanka Jayaratne.
+
+When the case was taken up today, the Bribery Commission was handed over to the defendant at the Open Court of Bribery Court.
+
+If necessary, the court has set to the defendant to inform the court within two weeks.
+
+The date was placed on the 1st of October.
+
+Former Minister Keheliya Rambukkale accusing of a condolence of over Rs. 24th August 2020 million The case has been filed against the Naker Rambukwella and the Grade North, Isuru Pulasthi Bandara Polgasdeniya.
+
+◼️
+
+[Data](articles/60170dfa.json)
+
+[Extended Data](ext_articles/60170dfa.ext.json)
+
+---
+
+### The government's objective is to reduce the number of persons who are imprisoned - Minister of Justice
 
 *2025-09-15 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214590) · `si`
 
-බන්ධනාගාරගත වන පුද්ගයින් සංඛ්‍යාව අඩු කිරීම අරමුණ විය යුතු බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා පවසයි.
+Minister of Justice Harshana Nanayakkara says that it is necessary to reduce the number of persons who are imprisoned.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා පැවැති 27 වැනි සිරකරු දින උත්සවයට එක්වෙමිනි.
+The Minister made this observation at the 17th prisoner day.
 
-එහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කර සිටියේ බන්ධනාගාරගත වන සිරකරුවන් වෙනුවෙන් සිරකරු සුභ සාධක සංගමය විසින් ලබා දෙන සේවය ප්‍රශංසනීය වන බවය.
+Speaking on the occasion, the Minister said that the prisoner welfare union is commendable for prisoned prisoners.
 
-එමෙන්ම මේ වන විට බන්ධනාගාර තුළ සිරකරුවන්ගේ විශාල තදබදයක් පවතින බවත් එම තදබදය අඩු කරමින් අවශ්‍ය පහසුකම් සැපයීම රජයේ වගකීමක් බවද අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+The Minister also said that there is a large number of prisoners in prisons and to facilitate the reduction of the congestion.
 
-එහිදී බන්ධනාගාරගත වන පුද්ගලයින් සංඛ්‍යාව අවම කිරීමත් බන්ධනාගාරගත වන සියලු දෙනාගේ මානව අයිතිවාසිකම් ආරක්ෂා වන පරිදී පහසුකම් ඇති කිරීමත් අතිශයින් වැදගත් වන බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කරනු ලැබීය.
+The Minister emphasized that it is very important to reduce the number of persons who are imprisoned and the protection of the human rights of everyone who remains.
 
-එමෙන්ම නීතිය ඉදිරියේ සියලු පුද්ගලයින් එක හා සමාන වන බවත් රජයක් ලෙස නීතියේ විධානයේ අධිපත්‍ය සුරක්ෂා කරමින් සමානාත්මතාවයෙන් යුතු රටක් නිර්මාණය කරන බවද අමාත්‍යවරයා මෙහිදී පැවසීය.
+The Minister also said that all persons in the face of the law are equal to the one and a government is created to create an equality country by protecting the command of the law as a government.
+
+Meanwhile, arrangements have been taken to organize spiritual, sports, health and legal counseling programs covering the prison welfare win.
 
 ...
 
 [Data](articles/e362d7da.json)
+
+[Extended Data](ext_articles/e362d7da.ext.json)
+
+---
+
+### 15 arrested in roundabout
+
+*2025-09-15 11:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றிவளைப்பில்-15-பேர்-கைது/175-364612) · `ta`
+
+The Sri Lankan police have arrested 15 people who have been searched for direct involvement in criminal activity across the country.
+
+The suspects have been arrested during several measures held on Sunday to prevent drugs and crimes in Sri Lanka.
+
+Of them, 15 were arrested for direct involvement and 674 on suspicion.
+
+The police arrested 220 persons and 155 people who were issued an opening.
+
+◼️
+
+[Data](articles/d7c2a6f6.json)
+
+[Extended Data](ext_articles/d7c2a6f6.ext.json)
 
 ---
 
@@ -162,6 +302,28 @@ Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the b
 
 ---
 
+### Mahinda must be protected by national
+
+*2025-09-15 11:00:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දව-ජාතික-වශයෙන්-ආරක්ෂා-කළ-යුතුයි/11-418500) · `si`
+
+Former President Mahinda Rajapaksa, former President Chairman Vajira Abeywardena said that former President Mahinda Rajapaksa has to be protected to be defended.
+
+He was speaking at Hiniduma, Ratgama and Bentara Divisions in the Meeting of the United National Party (UNP) yesterday (14).
+
+"Due to the acquisition of presidential quarters, light bills, water bills, billing of bills. It also reduces the prices of petrol, diesel and kerosene oil and receive relief. Let's wait so.
+
+I think that many state leaders were killed in the history of the history of the history of Sri Lanka.. Otherwise, the heads of state have survived. So this is the political history of Sri Lanka, the present and future.
+
+For example, if we take, we cannot go to some countries in the world as a typical citizen. If so, he will bring his body to Sri Lanka. There is plenty of areas where Sri Lanka cannot go alone in Sri Lanka and its rapity. So this is why I think he must protect her.
+
+...
+
+[Data](articles/e8f003c7.json)
+
+[Extended Data](ext_articles/e8f003c7.ext.json)
+
+---
+
 ### Boat for Boating in his own firearm
 
 *2025-09-15 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214587) · `si`
@@ -178,19 +340,21 @@ Initial police investigations have revealed that he had also kept a barrel of ba
 
 ---
 
-### පිට කොටුව මධ්‍යම බස් නැවතුම්පොළ සංවර්ධනය ඇරඹෙයි
+### Central Bus Stand development begins in Pittu Fort
 
 *2025-09-15 10:52:18* · [`adalk`](https://www.ada.lk/breaking_news/පිට-කොටුව-මධ්‍යම-බස්-නැවතුම්පොළ-සංවර්ධනය-ඇරඹෙයි/11-418499) · `si`
 
-පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ අලුත්වැඩියා කිරිමේ කටයුතු මීට සුළු මොහොතකට පෙර ආරම්භ විය. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් එම කටයුතු ආරම්භ කරනු ලැබීය.
+Renovation of Central Bus Stand Central Pettah has commenced a short moum before. Anura Kumara Dissanayake was conducted under the patronage of President Anura Kumara Dissanayake.
 
-ව්‍යාපෘතිය සඳහා රුපියල් මිලියන 424ක් වැය කිරීමට අපේක්ෂා කෙරේ. මේ හරහා කොළඹ මධ්‍යම බස් නැවතුම්පොළ නවීන පහසුකම්වලින් සමන්විත බස් නැවතුම්පොළක් ලෙස සංවර්ධනය කෙරෙයි. නවීකරණ කටයුතු ලබන වසරේ අප්‍රේල් මාසයේදී අවසන් කිරීමට නියමිතය.
+424 million for the project. The Colombo Central Bus Stand consisting of modern facilities. The renovation work is to be completed in April next year.
 
-මධ්‍යම බස් නැවතුම්පොළ මේ අයුරින් නැවත නවීකරණය කරන්නේ වසර 60කට ආසන්න කාලයකට පසුව වීම විශේෂත්වයකි.4
+It is significant that the Central Bus Stand will be re-modernized after 60 years.
 
 ◼️
 
 [Data](articles/572ebe7b.json)
+
+[Extended Data](ext_articles/572ebe7b.ext.json)
 
 ---
 
@@ -270,6 +434,8 @@ The pair of elephant tusks were taken into custody by the police and the suspect
 
 [Data](articles/d27fa078.json)
 
+[Extended Data](ext_articles/d27fa078.ext.json)
+
 ---
 
 ### The boy drowned in the water
@@ -328,6 +494,8 @@ As part of the renovation, modern facilities will be introduced, including new r
 
 [Data](articles/495c1d7d.json)
 
+[Extended Data](ext_articles/495c1d7d.ext.json)
+
 ---
 
 ### Small gun recovery from the Vienna Canal
@@ -361,6 +529,8 @@ Hamas’ political leadership, which has engaged in on-and-off negotiations on a
 ...
 
 [Data](articles/7f513bb9.json)
+
+[Extended Data](ext_articles/7f513bb9.ext.json)
 
 ---
 
@@ -1897,135 +2067,5 @@ As a journalist, she was voicing the sentiments of the public openly in that tal
 [Data](articles/55c472fe.json)
 
 [Extended Data](ext_articles/55c472fe.ext.json)
-
----
-
-### Corruption and fraud within the government will not be retreated in legal action - Minister Samantha Vidyaratne
-
-*2025-09-14 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225084) · `ta`
-
-Corruption and fraud within the government are not going to back down on their actions. Investigations are being carried out on the release of container. Minister Samantha Vidyaratne said that the law will be implemented properly, no matter who fails to do so.
-
-He further stated that he was speaking to the media after attending an event in Colombo on Saturday (13).
-
-Drugs are not completely eradicated. We are currently taking the initial blow. Can travel until the end. The actual surroundings of justice have just begun. In the past, actions were carried out only for a particular community. But now the law is being implemented equally.
-
-...
-
-[Data](articles/96506e2e.json)
-
-[Extended Data](ext_articles/96506e2e.ext.json)
-
----
-
-### Ricky Hatton dies former World Boxing Championship
-
-*2025-09-14 20:35:01* · [`adalk`](https://www.ada.lk/sports/හිටපු-ලෝක-බොක්සිං-ශූර-රිකී-හැටන්-මිය-යයි/9-418493) · `si`
-
-Former World Boxing Champion Ricky Hatton has died in 46 years. Police said the 46-year-old man was found dead at his home in the Hyde of Tymside, Mancheside. Police say his death is not suspicious.
-
-◼️
-
-[Data](articles/f42bcbde.json)
-
-[Extended Data](ext_articles/f42bcbde.ext.json)
-
----
-
-### The audit is ineffective that the three-centered distribution
-
-*2025-09-14 20:28:44* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීපෝෂ-බෙදා-හැරීම-ඉතා-අකාර්යක්ෂම-බව-විගණනය-කියයි/11-418492) · `si`
-
-In the last year, the National Audit Office has been distributed by the National Audit Office of the National Audit Office, including the Director of Regional Development Officers and 38 hospitals and organizations.
-
-It is 55.51 percent of the total requirement. Audit has revealed that the total number of three nutrients distributed by the District and Institutions from Anuradhapura, Kandy, Nuwara Eliya, Beruwala and Kalutara.
-
-The threefold role of the Treasury of the Nutritional Neutralization is the main function of the three free distribution of nutritional needs to eradicate malnutrition in Sri Lanka.
-
-The audit report states that the work of the Thriposhashasphere was ineffective. The Ministry of Health and Thriposha should be prepared and implemented by the Ministry of Health and the formal mechanism of the Thriposha distribution.
-
-◼️
-
-[Data](articles/453caecd.json)
-
-[Extended Data](ext_articles/453caecd.ext.json)
-
----
-
-### Importance Of Sri Lankan Studies In School & University Curricula: A Justice-Oriented Civic Transformation
-
-*2025-09-14 20:21:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/importance-of-sri-lankan-studies-in-school-university-curricula-a-justice-oriented-civic-transformation/) · `en`
-
-The Ministry of Education in Sri Lanka has announced a national education reform initiative scheduled for implementation in 2026. Within this context, this paper argues for the integration of Sri Lankan Studies as a compulsory subject at both secondary and tertiary levels of education. The rationale derives from comparative international experiences where structured national studies such as American Studies, Chinese Studies, and Russian Studies are institutionalized to cultivate civic consciousness, strengthen national identity, and enhance democratic participation. Sri Lanka, despite its complex postcolonial trajectory and protracted ethnic conflict, lacks a coherent academic framework that synthesizes its history, cultural plurality, political institutions, and developmental challenges. Existing subjects such as Civic Education remain fragmented, outdated, and inadequate in fostering justice-oriented citizenship.
-
-...
-
-[Data](articles/46051af4.json)
-
-[Extended Data](ext_articles/46051af4.ext.json)
-
----
-
-### A shortage of costume in the market
-
-*2025-09-14 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214570) · `si`
-
-Consumers complain that there is a lack of hair samba rice in the market.
-
-Pettah Rice Rice Rice Sahanuwa 260 rupees imposed on Rs 260 rupees imposed on Rs.
-
-In the face of this, retailerators too keeramar samba rice is avoiding sales.
-
-In such an environment, the United Kingdom Manufacturers Association urges the government to remove the maximum retail price imposed on Samba Samba rice.
-
-However, large and medium and medium scale Mills, the SMEs of the rice is not taken to remove the maximum retail price of the rice artificial rice deficit and seek advantage of artificial rice shortage.
-
-Meanwhile, the National Agrarian Association says the government should expeditate and address this problem.
-
-◼️
-
-[Data](articles/d3812c67.json)
-
-[Extended Data](ext_articles/d3812c67.ext.json)
-
----
-
-### 20 lakhs 80 thousand rupees money 80 lakhs of gold jewelery
-
-*2025-09-14 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225083) · `ta`
-
-20 lakhs 80 thousand rupees. Police said that the incident took place on Sunday night when the 33 -half -pound gold jewelery was stolen worth Rs 80 lakh.
-
-Everyone was in deep sleep on the day of the incident on the day of the incident on the 4th Cross Road, PunniCholai Semakkalai Road.. During this time, the thieves who broke into the door of the house and logged in into the house, stole 20 million 80 thousand rupees of money and about 33 half -pound gold jewelery.
-
-Subsequently, the police have lodged a complaint at the police station and the police have been summoned by the police and are conducting serious investigations.
-
-◼️
-
-[Data](articles/993d37b7.json)
-
-[Extended Data](ext_articles/993d37b7.ext.json)
-
----
-
-### Irregularities of the Divi Development Loan Project reveals
-
-*2025-09-14 19:26:19* · [`adalk`](https://www.ada.lk/breaking_news/දිවිබල-සංවර්ධන-ණය-ව්‍යාපෘතියේ-අක්‍රමිකතා-විගණනයෙන්-හෙළිවෙයි/11-418491) · `si`
-
-A audit report issued by the National Audit report states that the debt has been deprived of 13,000 rupees (149,000) from the Southern Provincial Development Authority's Southern Provincial Development Authority.
-
-The audit has revealed that no matter what has been appointed to the subject officer in connection with the subject of June 9, but in September 2024.
-
-According to the Cash Book and Computer Program by the Cash Book of the Cash Book on October 31, 2022, according to the Cash Book and Computer Program, according to the Cash Book and Computer Program (2,347,414) was reported in the Cash Book and Computer Program.
-
-The Audit has said that the Audit has said that a basic investigation into the subject officer has been conducted by the Board of Directors.
-
-This information is included in the Tri-Audit Report issued by the Southern Provincial Council Office.
-
-◼️
-
-[Data](articles/6c995d55.json)
-
-[Extended Data](ext_articles/6c995d55.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 02:55:22**
+As of **2025-09-16 03:55:04**
 
 ## Newspaper Stats
 
-*Scraped **76,160** Articles*
+*Scraped **76,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 773
 economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
-dailyftlk | 5,389
+dailyftlk | 5,394
 adalk | 7,393
 adaderanalk | 9,808
 tamilmirrorlk | 11,397
@@ -26,9 +26,95 @@ adaderanasinhalalk | 13,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,593 (95.3%) of 76,160 articles have been extended.
+72,602 (95.3%) of 76,165 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-16 (Tuesday)
+
+### North, East and West: Navigating  Sri Lanka’s compass in new world order
+
+*2025-09-16 02:46:46* · [`dailyftlk`](https://www.ft.lk/columns/North-East-and-West-Navigating-Sri-Lanka-s-compass-in-new-world-order/4-781707) · `en`
+
+The IMF senior mission chief Peter Breuer, presenting the approval of the third review of Sri Lanka’s $ 2.9 b bailout (Source: Al Jazeera)
+
+When the National People’s Power (NPP) Government assumed office in September 2024, it inherited more than a fragile economy and the hopes of a disillusioned citizenry. It also assumed responsibility for steering Sri Lanka through arguably the most significant moment of international recalibration since the end of the Cold War. The global order is shifting once again, with China and Russia presenting themselves as alternatives to Western dominance, and smaller states forced to reposition themselves in ways that are both delicate and strategic.
+
+Signals of a profound reordering of the international system have been apparent for some time. Early indications of this impending shift can be, perhaps, traced to the rise of far-right nationalism and systemic dissatisfaction that emerged in many parts of the world over the past decade.
+
+...
+
+[Data](articles/3a921f86.json)
+
+[Extended Data](ext_articles/3a921f86.ext.json)
+
+---
+
+### Budget 2026 imperative: Making housing affordable through tax reform
+
+*2025-09-16 02:36:58* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-imperative-Making-housing-affordable-through-tax-reform/4-781705) · `en`
+
+By incentivising private homeownership through tax relief, the burden shifts from public provision to empowered individual ownership
+
+Housing is a fundamental human need. Yet, for many Sri Lankans, the dream of owning a home remains elusive due to rising property prices, volatility of interest rates, and limited access to affordable financing. In this context, it is both timely and necessary for the Government of Sri Lanka to reintroduce housing loan interest as a qualifying payment relief under personal income tax—reviving a policy that once existed in the Sri Lankan income tax Law.
+
+...
+
+[Data](articles/c2067d3f.json)
+
+[Extended Data](ext_articles/c2067d3f.ext.json)
+
+---
+
+### M.H.M. Ashraff PC: Power of  education to transform communities
+
+*2025-09-16 02:27:34* · [`dailyftlk`](https://www.ft.lk/opinion/M-H-M-Ashraff-PC-Power-of-education-to-transform-communities/14-781704) · `en`
+
+When history remembers leaders, it often lists their victories, their alliances, or their parliamentary debates. But the truest measure of a leader lies in the legacy that endures long after their voice has fallen silent. On 16 September 2025, the day which marks the 25th anniversary of the passing of M.H.M. Ashraff PC, that is the very question that begs a response.
+
+For Ashraff, his enduring legacy was neither in the party he founded nor the speeches he delivered. Rather, it was in the institutions he envisioned and enabled, the most notable of such achievements being the South Eastern University of Sri Lanka (SEUSL). Education was, for him, more than a policy matter. It was the foundation of empowerment, the key to dignity, and the one tool capable of transforming the lives of entire communities. In establishing the SEUSL at Oluvil, he did not merely create a campus. He opened a doorway for thousands who had, until then, been denied access to opportunity.
+
+...
+
+[Data](articles/0eacc91b.json)
+
+[Extended Data](ext_articles/0eacc91b.ext.json)
+
+---
+
+### National Shoora Council urges UN to suspend Israel from UN
+
+*2025-09-16 02:23:57* · [`dailyftlk`](https://www.ft.lk/opinion/National-Shoora-Council-urges-UN-to-suspend-Israel-from-UN/14-781703) · `en`
+
+The National Shoora Council (NSC) yesterday urged UN Secretary General Antonio Guterres to facilitate the grant of full membership in the UN to Palestine and to suspend Israel from the UN until Israel’s Prime Minister Benjamin Netanyahu is surrendered to the International Criminal Court (ICC) in pursuance of the international
+
+warrant issued by the ICC for the arrest of Israel’s PM. The following is the text of the letter dated 14 September 2025 addressed to the SG of the UN.
+
+“We believe that by now, you are well aware of the despicable chain of unpardonable crimes being committed, for well over a hundred years, by the Zionist regime to destroy Palestine and its multi-religious people! What must have become more clear is that the ongoing cruel facets of genocide of the Palestinians are aimed at establishing a territorially expanding nuclear armed Zionist ethno-religious European colonial power in the Middle East.
+
+...
+
+[Data](articles/092a4303.json)
+
+[Extended Data](ext_articles/092a4303.ext.json)
+
+---
+
+### AI fundamentals: Demystifying technology that’s reshaping our world
+
+*2025-09-16 02:18:45* · [`dailyftlk`](https://www.ft.lk/columns/AI-fundamentals-Demystifying-technology-that-s-reshaping-our-world/4-781702) · `en`
+
+AI won’t replace people. People who understand AI will replace people who don’t
+
+Following my previous articles, many readers reached out with a specific request: explain AI and its impact in language everyone can understand. While AI has sparked widespread interest, the lack of accessible explanations has kept it in the ‘too complex to approach’ category for many, even among executives at major corporations. There’s no shame in acknowledging knowledge gaps; we’re not expected to master every emerging technology overnight. However, staying current with transformational forces isn’t optional in today’s business environment. This article addresses those requests by covering the fundamentals of AI, providing clarity on what it is, how it’s already reshaping our lives, and the vast opportunities it creates for those willing to engage with it.
+
+...
+
+[Data](articles/2213a41d.json)
+
+[Extended Data](ext_articles/2213a41d.ext.json)
+
+---
 
 ### 2025-09-15 (Monday)
 
@@ -1999,117 +2085,5 @@ It is very important to facilitate the human rights of all those who are impriso
 [Data](articles/875e2cd3.json)
 
 [Extended Data](ext_articles/875e2cd3.ext.json)
-
----
-
-### Sri Lanka’s Energy Minister urges CEB employees to trust new reforms
-
-*2025-09-15 11:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-energy-minister-urges-ceb-employees-to-trust-new-reforms-240533/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Energy Minister Kumara Jayakody urged employees of state-owned utility firm Ceylon Electricity Board (CEB) to ‘trust’ the newly approved reform process and allow it without dragging their feet.
-
-The minister’s comments come amid threats of protest by CEB trade unions against the reforms passed by parliament last month.
-
-“The earlier reform was to remove 12,000 employees from the CEB. That cabinet decision is still effective. However, we have not included that in our reforms,” Minister Jayakody told reporters at a media briefing on Monday.
-
-“We will not allow this institution (CEB) to weaken or fall. Don’t get carried away with false information. The employees have two months to express their opinions,” he said.
-
-“See this reform as a positive one. We have never done anything wrong or violated any labour rights so far. Trust us.”
-
-...
-
-[Data](articles/cbd3f8c3.json)
-
-[Extended Data](ext_articles/cbd3f8c3.ext.json)
-
----
-
-### Sri Lanka 2,000 note circulation delayed by cash machine calibration
-
-*2025-09-15 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-2000-note-circulation-delayed-by-cash-machine-calibration-240543/) · `en`
-
-ECONOMYNEXT – The new 2,000 rupee note issued by the central bank of Sri Lanka will gradually be released into circulation after banks calibrate their cash-handling machines, CBSL said.
-
-“In order to facilitate the smooth acceptance and dispensation of the new note, Licensed Commercial Banks are in the process of calibrating their cash-handling machines,” CBSL said.
-
-“In keeping with the pace of the process, the new note will gradually be released into circulation through Licensed Commercial Banks.”
-
-The commemorative currency note was issued on August 29 to mark its 75th Anniversary, CBSL said.
-
-“The new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.”
-
-The note is the first to bear President Anura Dissanayake’s signature. (Colombo/Sep2025)
-
-◼️
-
-[Data](articles/473280e5.json)
-
-[Extended Data](ext_articles/473280e5.ext.json)
-
----
-
-### Case against Keheliya and family members postponed
-
-*2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
-
-Former Minister Keheliya Rambukwella, his wife, three daughters and the son-in-law of the Bribery Commission against the abuse of over 97 million ruled the file on October 1.
-
-The case was called the Colombo High Court Judge Lanka Jayaratne.
-
-When the case was taken up today, the Bribery Commission was handed over to the defendant at the Open Court of Bribery Court.
-
-If necessary, the court has set to the defendant to inform the court within two weeks.
-
-The date was placed on the 1st of October.
-
-Former Minister Keheliya Rambukkale accusing of a condolence of over Rs. 24th August 2020 million The case has been filed against the Naker Rambukwella and the Grade North, Isuru Pulasthi Bandara Polgasdeniya.
-
-◼️
-
-[Data](articles/60170dfa.json)
-
-[Extended Data](ext_articles/60170dfa.ext.json)
-
----
-
-### Sri Lanka 2,000 note circulation delayed by cash machine calibration
-
-*2025-09-15 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-2000-note-issuance-delayed-by-cash-machine-calibration-240543/) · `en`
-
-ECONOMYNEXT – The new 2,000 rupee note issued by the central bank of Sri Lanka will gradually be released into circulation after banks calibrate their cash-handling machines, CBSL said.
-
-“In order to facilitate the smooth acceptance and dispensation of the new note, Licensed Commercial Banks are in the process of calibrating their cash-handling machines,” CBSL said.
-
-“In keeping with the pace of the process, the new note will gradually be released into circulation through Licensed Commercial Banks.”
-
-The commemorative currency note was issued on August 29 to mark its 75th Anniversary, CBSL said.
-
-“The new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.”
-
-The note is the first to bear President Anura Dissanayake’s signature. (Colombo/Sep2025)
-
-◼️
-
-[Data](articles/8c840cc7.json)
-
-[Extended Data](ext_articles/8c840cc7.ext.json)
-
----
-
-### UNP 79th anniversary on the 20th
-
-*2025-09-15 11:45:50* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-79-වැනි-සංවත්සරය-ලබන-20-දා/11-418504) · `si`
-
-The Chairman of the party Vajira Abeywardena said that Saturday, the 79th anniversary of the UNP, had been celebrated at 9.00 am at 9.00 am at Sri Jayawardenapu.
-
-He said that the 79th anniversary of the 79th anniversary of the 79th Anniversary was inaugurated, but the health conditions of party leader Ranil Wickremesinghe were badly unable to celebrate the anniversary.
-
-"The United National Party (UNP) was almost allied parties in Sri Lanka at that time. In 1947 D. S. Senanayake leaves the Prime Minister and on all these. So leading our party leader Ranil Wickremesinghe gave advice that all the political parties in Sri Lanka should be collected at the time of celebrating the anniversary of the party.. So we have invited every political party in Sri Lanka to join this. "
-
-◼️
-
-[Data](articles/586358aa.json)
-
-[Extended Data](ext_articles/586358aa.ext.json)
 
 ---

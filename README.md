@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 19:11:33**
+As of **2025-09-15 19:55:58**
 
 ## Newspaper Stats
 
-*Scraped **76,133** Articles*
+*Scraped **76,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,61 @@ economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,388
+adalk | 7,389
 adaderanalk | 9,801
 tamilmirrorlk | 11,396
 virakesarilk | 12,406
-adaderanasinhalalk | 13,286
+adaderanasinhalalk | 13,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,198 (94.8%) of 76,133 articles have been extended.
+72,244 (94.9%) of 76,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### පස්දේවා රඳවාගෙන ප්‍රශ්න කරන බව පොලීසිය අධිකරණයට දැනුම්දෙයි
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2025-09-15 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214610) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව මූලික වටයේ එක්වන දෙවන තරගය හොංකොං කණ්ඩායම සමගින් අද (15) පැවැත්වෙයි.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමේ නායකයා හොංකොං කණ්ඩායමට ආරාධනා කර තිබේ.
+
+ශ්‍රී ලංකාව සහ හොංකොං කණ්ඩායම ජාත්‍යන්තර ක්‍රිකට් පිටියේ එකිනෙකා හමුවන පළමු අවස්ථාව මෙය වීම විශේෂත්වයකි.
+
+කෙසේවෙතත් මෙම තරගාවලියේ ශ්‍රී ලංකාව මුහුණදුන් පළමු තරගයෙන් බංග්ලාදේශය හමුවේ කඩුලු 6කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණි.
+
+◼️
+
+[Data](articles/b4d0f615.json)
+
+---
+
+### Police informed the court that Padamawa is detained and interrogation
 
 *2025-09-15 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214609) · `si`
 
-අත්අඩංගුවේ පසුවන කෙහෙල්බද්දර පද්මේ නමැත්තාගේ සමීපතමයකු බව කියන දිසානායක දේවගේ දිසානායක නොහොත් "පස්දේවා" නමැත්තා ආරක්ෂක ලේකම්වරයාගේ නියෝගයක් මත ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+The Western Provincial Council Magistrate's Court informed the Colombo Magistrate's Court that Dissanayake's Deva Dissanayake, who is a close association of Kehelbaddara Padma.
 
-ඒ අනුව අදාළ සැකකරු දින 90ක් කාලයක් රඳවාගෙන ප්‍රශ්න කරන බවත් එම කොට්ඨාසය විසින් කොළඹ අතිරේක මහෙස්ත්‍රාත් එච්.ඩී.ඩී.ජේ ප්‍රේමරත්න මහත්මිය වෙත දැනුම් දී තිබේ.
+Accordingly, the suspect is detained and interrogated by additional Magistrate HDJ Prevenittra.
 
-පොලීසිය අධිකරණය හමුවේ කරුණු දක්වමින් "පස්දේවා" නැමැති සැකකරු අත්අඩංගුවට ගැනීමෙන් පසු ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී කෙහෙල්බද්දර පද්මෙ නමැත්තාට අයත්ව තිබූ හෝටලයකින් මත්ද්‍රව්‍ය ග්‍රෑම් 440ක් හා ජීව උණ්ඩ කීපයක් සොයාගත් බව සඳහන් කළේය.
+The police said that after the arrest of the suspect, "Pasyawa 'was taken by the suspect, he said he had found 440 g of drugs and a number of living bullets.
 
-මෙම සැකකාරු අත්අඩංගුවට ගත් අවස්ථාවේදී කෙහෙල්බද්දර පද්මේ නැමැත්තා විදෙස්ගතව සිට ඇති බවද පොලීසිය විසින් සඳහන් කළ අතර මෙම සැකකරු අත්අඩංගුවට ගැනීමේ තොරතුරු ආරංචි වී කෙහෙල් බද්දර පද්මේ නැමැත්තා කෝපයට පත්ව දුරකතන මගින්  ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට තර්ජනය කර තිබෙන බවත් සඳහන් කර සිටියේය.
+The police stated that the suspects were abroad to arrest the suspect, said the suspect had been abroad and became angry and angry with the Telephone Chief Inspector General Inspector Lynton Silva.
 
-...
+The suspect was conducting a wider investigation into the crimes committed by the suspect under the operation of Kehel Bedma Padma.
+
+After considering the submissions, the police stipulated to the police to report to court in the future.
+
+◼️
 
 [Data](articles/49876ce9.json)
+
+[Extended Data](ext_articles/49876ce9.ext.json)
 
 ---
 
@@ -263,6 +287,28 @@ The Court of Appeal issued the order after considering the writ petition filed b
 [Data](articles/dd5c6aee.json)
 
 [Extended Data](ext_articles/dd5c6aee.ext.json)
+
+---
+
+### Approval for the Korea Examination begins
+
+*2025-09-15 16:59:06* · [`adalk`](https://www.ada.lk/breaking_news/2025-කොරියා-විභාගයට-ප්‍රවේෂපත්‍ර-නිකුත්-කිරීම-ඇරඹේ/11-418508) · `si`
+
+Issuing Exam Ticketing for the Korean Language Proficiency Ticketing for the Korean Language Proficiency Ticketing for the Korean Products and Fisheries Fields in South Korea.
+
+Registration is available to obtain applications for the examination on the official website of the Sri Lanka Bureau of Foreign Employment www.slbfe.lk
+
+For this year, the year, which is not a cases, unaccepted, unaccepted, or unpredted by the unpredted, or unpredted in the E-9 and E-9 and E-10, including collision, or unpredted by the unpredted in the case of color blindness (2007.09.2007). People who have not been served in South Korea for more than 5.
+
+Application for the Obtain Examination Adverly. The exam cost is Rs. 8,428.40 and the Bank of Ceylon, People's Bank or the National Savings Bank requires the payment receipt. (Cash Account Numbers refer to at www.slbfe.lk)
+
+More information on the issue of this exam and examination tickets can be obtained through the official website of www.slbfe.lk www.slbfe.lk.
+
+◼️
+
+[Data](articles/6eda5a72.json)
+
+[Extended Data](ext_articles/6eda5a72.ext.json)
 
 ---
 
@@ -2017,41 +2063,5 @@ The guns and ammunition were known as the water was reduced and the bottom of th
 [Data](articles/f224a8c7.json)
 
 [Extended Data](ext_articles/f224a8c7.ext.json)
-
----
-
-### Israel intensifies Gaza City bombing as Rubio arrives
-
-*2025-09-15 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112510/israel-intensifies-gaza-city-bombing-as-rubio-arrives) · `en`
-
-Israeli forces destroyed at least 30 residential buildings in Gaza City and forced thousands of people from their homes, Palestinian officials said, as US Secretary of State Marco Rubio arrived on Sunday (Sep 14) to discuss the future of the conflict.
-
-Israel has said it plans to seize the city, where about a million Palestinians have been sheltering, as part of its declared aim of eliminating the militant group Hamas, and has intensified attacks on what it has called the last bastion of the militant Palestinian group.
-
-Hamas’ political leadership, which has engaged in on-and-off negotiations on a possible ceasefire and hostage release deal, was targeted by Israel in an airstrike in Doha on Tuesday in an attack that drew widespread condemnation.
-
-...
-
-[Data](articles/7f513bb9.json)
-
-[Extended Data](ext_articles/7f513bb9.ext.json)
-
----
-
-### Exit the settlers: 1.10 lakh people participated in London: What is the background?
-
-*2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
-
-About 1.10 lakh people participated in the United Kingdom rally, coordinated by Tommy Robinson, an ardent right -wing activist in London, UK.. A group of people who participated in the rally then clashed with the police.
-
-The rally was held on Saturday from Big Pen to Waterloo, along the banks of the Thames of London. Supporting the rally, the participants chanted against the migrants from abroad and that they were a threat to national identity.
-
-At the same time, anti -racists carried out a protest against Tommy Robinson's rally against fascism. About 5,000 people participated. The conflict erupted when the right -wing supporters tried to block those who protested their rally. The police have then attacked. Bottles have also been thrown towards the police.
-
-...
-
-[Data](articles/4492200f.json)
-
-[Extended Data](ext_articles/4492200f.ext.json)
 
 ---

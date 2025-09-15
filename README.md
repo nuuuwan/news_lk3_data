@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 15:58:01**
+As of **2025-09-15 15:08:26**
 
 ## Newspaper Stats
 
-*Scraped **76,092** Articles*
+*Scraped **76,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,151 +16,61 @@ economynextcom | 4,608
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,384
+adalk | 7,383
 adaderanalk | 9,788
-tamilmirrorlk | 11,389
+tamilmirrorlk | 11,386
 virakesarilk | 12,404
-adaderanasinhalalk | 13,276
+adaderanasinhalalk | 13,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,034 (94.7%) of 76,092 articles have been extended.
+72,002 (94.6%) of 76,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### නිවාස සංවර්ධන අධිකාරියේ නිලධාරියෙකු අල්ලස් දැලේ
-
-*2025-09-15 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214599) · `si`
-
-ගාල්ල, නිවස සංවර්ධන අධිකාරී කාර්යාලයේ නිවාස (තාක්ෂණික) නිලධාරියෙකු අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/8bad2205.json)
-
----
-
-### Why not participate in the gift event?
-
-*2025-09-15 15:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிசளிப்பு-நிகழ்வில்-பாக்-கேப்டன்-பங்கேற்காதது-ஏன்/44-364628) · `ta`
-
-The 6th league match of the Asian Cup series on Sunday (14)
-
-The brutal attack of Pakistani terrorists in Bahlgam, which was the first match of the two teams after the war tension caused by India's retaliation, was attracted to the entire world.
-
-Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets at the end of 20 overs. Sahibsada Burhan scored 40 runs and Shakeen Shah Afridi 33 runs. India's spinner Kuldeep Yadav took 3 wickets.
-
-The Indian team then scored 131 runs for the loss of 3 wickets in 15.5 overs and won by 7 wickets.. Suryakumar Yadav was on the field with 47 runs and Shivam Dubey 10 Ottangn. Abhishek Sharma was dismissed in 31 runs (13 balls, 4 fours, 2 sixes). Pakistan's bowler Saim Ayub took 3 wickets for Pakistan. Kuldeep Yadav won the Man of the Match award.
-
-...
-
-[Data](articles/57d987c7.json)
-
-[Extended Data](ext_articles/57d987c7.ext.json)
-
----
-
-### A Notification of BYD Vehicles
-
-*2025-09-15 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214598) · `si`
-
-The Attorney General has informed the Court of Appeal today that the report of the Specialist Committee appointed to conclude on the bank guarantees.
-
-The Sri Lanka Customs notified the writing of the Rit petition filed by John Keells CG against the Sri Lanka Customs.
-
-◼️
-
-[Data](articles/a06b2cf7.json)
-
-[Extended Data](ext_articles/a06b2cf7.ext.json)
-
----
-
-### Take to the lubrication: The woman who scored a stapler in the mysterious
-
-*2025-09-15 15:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உல்லாசத்திற்கு-அழைத்து-மர்ம-உறுப்பில்-ஸ்டேப்ளர்-பின்-அடித்த-பெண்/175-364627) · `ta`
-
-Police have arrested two young men near Pathanamthitta and snatched a couple of money-cell phones and tortured the couple in the mysterious organ.
-
-Jayesh (age 29) hails from Sarlgunnu, Pathanamthitta district of Kerala. His wife Rashmi (23). He was accustomed to Instagram with a young man from Alappuzha.
-
-In this case, Rashmi has called the plaintiff, saying we may be funny. The plaintiff believed it and went to Rashmi's house on the 1st. The young man who went into the house and went close to Rashmi. Rashmi's husband, Jayesh, who was then hidden, took a picture on her cell phone.
-
-Jayesh, along with his wife, threatened the young man and snatched the expensive cell phone and Rs.. They have continued to tie the young man's hands and torture 26 staplers in the mysterious organ.
-
-...
-
-[Data](articles/5e61e31f.json)
-
-[Extended Data](ext_articles/5e61e31f.ext.json)
-
----
-
-### Workers' Salary: The government has given time
-
-*2025-09-15 14:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொழிலாளர்களின்-சம்பளம்-அவகாசம்-வழங்கியது-அரசாங்கம்/76-364625) · `ta`
-
-Plantation owners have been given a month's time to inform the government of the pay rise of plantation workers.
-
-Deputy Minister of Labor Mahinda Jayasinghe said that plantation owners have been proposed to increase the wages of plantation workers to Rs 1700.
-
-◼️
-
-[Data](articles/443fd309.json)
-
-[Extended Data](ext_articles/443fd309.ext.json)
-
----
-
-### Do not revise the control price imposed for rice - Consumer Affairs Authority
+### සහල් සඳහා පැනවූ පාලන මිල ගැසට්ටුව සංශෝධනය කරන්නේ නෑ - පාරිභෝගික අධිකාරිය
 
 *2025-09-15 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214597) · `si`
 
-Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, has commented today (15) regarding the lack of keysa samba and samba rice in the country.
+රට තුළ මේ වන විට පවතින කීරි සම්බා සහ සම්බා සහල් හිඟය සම්බන්ධව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා අද (15) අදහස් දැක්වීමක් සිදු කළේය.
 
-The Chairman said that the Consumer Research Authority received the information regarding the Consumer Research Authority was revealed to the Authority in connection with such rice shortages.
+එහිදී අදහස් දක්වමින් සභාපතිවරයා පැවසුවේ මේ සම්බන්ධව තොරතුරු පාරිභෝගික කටයටුතු පිළිබඳ අධිකාරියට ලැබුණු බවත් සිදුකළ සොයා බැලීමකදි එවැනි සහල් හිඟයක් සම්බන්ධව අධිකාරියට කරුණු අනාවරණය වූ බවත්ය.
 
-However, a gazette has been set up to rice and will take action to promote the necessary legal action under the existing law.
+කෙසේ නමුත් ගැසට් පත්‍රයක් මගින් සහල් සඳහා පාලන මිලක් නියම කර ඇති බවත් එම මිලට වඩා වැඩි මිලකට සහල් අලෙවි කරන්නේ නම් පවත්නා නීතිය යටතේ අවශ්‍ය නීතිමය කටයුතු සිදුකිරීමට අධිකාරිය පියවර ගනු බවය.
 
-He also said that he has asked all parties to carry out and carry out paddy purchasing activities as well as to act in line with the gazette.
+මේ හේතුවෙන් ගැසට් පත්‍රයට අනුකූල ලෙස කටයුතු කළ හැකි පරිදි වී මිලදී ගැනීම් ක්‍රියාවන් සිදුකරන ලෙස මෙන්ම සහල් අලෙවි කිරීමේ කටයුතු සිදු කරන ලෙසත් තමන් සියලු පාර්ශ්වයන්ගෙන් ඉල්ලා සිටින බවද ඒ මහතා මෙහිදී අවධාරණය කරනු ලැබීය.
 
-The Chairman also said that the raids associated with rice continues to continue and inform consumer officials.
-
-He added that the raids associated with ridges have been increased by over 3,000 million and about 1,000 have been legalized by nearly 1,000 million, he said.
+එමෙන්ම සහල් සම්බන්ධ වැටලීම් අඛණ්ඩව ඉදිරියටත් ක්‍රියාත්මක කරන බවත් මේ සඳහා පාරිභෝගික නිලධාරීන් දැනුවත් කිරීමට පියවර ගන්නා බවත් සභාපතිවරයා මෙහිදී පැවසීය.
 
 ...
 
 [Data](articles/5bbcf6fc.json)
 
-[Extended Data](ext_articles/5bbcf6fc.ext.json)
-
 ---
 
-### By 2029
+### 2029 ஆம் ஆண்டுக்குள் 50 பல்வகைமை போக்குவரத்து நிலையங்கள் நிறுவ இலக்கு - அமைச்சர் பிமல் ரத்நாயக்க
 
 *2025-09-15 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225138) · `ta`
 
-Transport Minister Bimal Ratnayake said the government's goal is to establish about 50 multi -storey transport stations across the country by 2029.
+2029 ஆம் ஆண்டுக்குள் நாடு முழுவதும் சுமார் 50 பல்வகைமை போக்குவரத்து நிலையங்களை நிறுவுவதே அரசாங்கத்தின் இலக்கு என போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
 
-He was speaking at the inauguration of the Colombo Central Bus Stand Revival Project in Pettah, headed by President Anura Kumara Dissanayake.
+ஜனாதிபதி அனுர குமார திசாநாயக்கவின் தலைமையில், புறக்கோட்டையில் உள்ள, கொழும்பு மத்திய பஸ் நிலைய புதுப்பித்தல் திட்டத்தின் ஆரம்ப விழாவில் உரையாற்றும் போதே அவர் இதனை  குறிப்பிட்டுள்ளார்.
 
-He also said that by 2026, 15 such bus stations are expected to be set up in Colombo.
+2026 ஆம் ஆண்டுக்குள் கொழும்பில் இதுபோன்ற 15 பஸ் நிலையங்கள் அமைக்க எதிர்பார்ப்பதாகவும் அவர் குறிப்பிட்டுள்ளார்.
 
-The Minister said that new stations will be designed to provide bus, train and three wheeler services from one place to easily.
+பயணிகளுக்கு எளிதாக பஸ், ரயில் மற்றும் முச்சக்கரவண்டி சேவைகளை ஒரே இடத்திலிருந்து வழங்கும் வகையில் புதிய நிலையங்கள் வடிவமைக்கப்படும் என்றும் அமைச்சர் இதன்போது தெரிவித்துள்ளார்.
 
-During the conversation, he said that the Ministry is working to upgrade several major bus stations, including Colombo.
+கொழும்பு உள்ளிட்ட பல முக்கிய பஸ் நிலையங்களை மேம்படுத்த அமைச்சு செயல்பட்டு வருவதாகவும் இந்த உரையாடலின்போது அவர் குறிப்பிட்டுள்ளார்.
 
-Transport Minister Bimal Ratnayake stressed that if we do not improve the transport sector, we cannot develop the country.
+போக்குவரத்துத் துறையை மேம்படுத்தாவிட்டால் நாம் நாட்டை அபிவிருத்தி செய்ய முடியாது என்றும் இதன்போது போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க வலியுறுத்தினார்.
 
 ◼️
 
 [Data](articles/f62ad5ea.json)
-
-[Extended Data](ext_articles/f62ad5ea.ext.json)
 
 ---
 
@@ -255,8 +165,6 @@ The suspect reportedly said that three Iranians were involved in the manufacturi
 ...
 
 [Data](articles/e0782969.json)
-
-[Extended Data](ext_articles/e0782969.ext.json)
 
 ---
 
@@ -713,26 +621,6 @@ Meanwhile, arrangements have been taken to organize spiritual, sports, health an
 [Data](articles/e362d7da.json)
 
 [Extended Data](ext_articles/e362d7da.ext.json)
-
----
-
-### Forest elephant attack killed
-
-*2025-09-15 11:40:14* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-ප්‍රහාරයකින්-සිවිල්-ආරක්ෂක-භටයෙක්-මරුට/11-418503) · `si`
-
-The Kahatagasdigiliya Police Station has commenced investigations on information that a person had died due to the assault in the Kahatagasdigiliya area yesterday (14).
-
-The victim is 45 year old and a civilian security person from Kahatagasdigiliya area. ‍
-
-Investigations have revealed that the elephant was attacked when the deceased was being cleared.
-
-The remains are placed at the Anuradhapura hospital morgue and the Kahatagasdigiliya Police Station conducts further investigations.
-
-◼️
-
-[Data](articles/f6defa10.json)
-
-[Extended Data](ext_articles/f6defa10.ext.json)
 
 ---
 
@@ -2036,6 +1924,20 @@ However, in 2025, there was no inflationary policy per se, other than dollar-rup
 
 ---
 
+### 
+
+*2025-09-15 05:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
+
+The Main Problem  Today is  Illegal Fishing by Indian Fishers in Northern Waters and not the  Issuer of  India Retrieving  Katchatheevu.
+
+Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
+
+...
+
+[Data](articles/39f24b3f.json)
+
+---
+
 ### We have failed to reach the target of economic growth to repay the loan - Sajith Premadasa
 
 *2025-09-15 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225098) · `ta`
@@ -2075,5 +1977,103 @@ We are ready to negotiate with all political parties in parliament on the provin
 [Data](articles/44768669.json)
 
 [Extended Data](ext_articles/44768669.ext.json)
+
+---
+
+### Mahinda Rajapaksa led the war for the war - Devananda Suraweera
+
+*2025-09-15 04:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225096) · `ta`
+
+There is a good welcome among the people to the law to eliminate presidents' rights. Namal Rajapaksa does not vote against the Bill, which is uniting the public for his father Mahinda Rajapaksa. National People's Power Colombo District Parliamentarian Devananda Suraweera said that the people of the country will not forget that Mahinda Rajapaksa, who led the end of the war, led the country to the bankruptcy.
+
+Those who abolished former President Mahinda Rajapaksa are speaking against the law of abolishing the president. There is a good welcome among the people of the country regarding this law.
+
+Chandrika Bandaranaike Kumaratunga and Maithripala Siripala left the state official residence as former presidents. They did not hold a media exhibition by calling supporters. They have no need for future politics. PA is considered a name for political success, including former President Mahinda Rajapaksa.
+
+...
+
+[Data](articles/c91240f4.json)
+
+[Extended Data](ext_articles/c91240f4.ext.json)
+
+---
+
+### Funds to complete classroom buildings in Vanni district
+
+*2025-09-15 04:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225095) · `ta`
+
+Prime Minister and Education Minister Harini Amarasuriya has assured that the allocation of funds to complete the classroom buildings that have been started in the Vanni district and the construction work has not been completed.
+
+Labor Party's Wanni District MP at the Prime Minister's Parliamentary Office. The Prime Minister made this pledge while meeting the Prime Minister and some of the representatives of Khadar Mastan and some of the educational action of the Vanni district, the Saudi Arabian Housing Scheme and the Copies of the Qur'an.
+
+The Ministry of Education Advisory Committee held a meeting held last June on the completion of classroom buildings in the Vanni district and the construction work has not been completed yet.. When he told the Prime Minister, he pledged to allocate the necessary steps to be taken from this year's funds to the Vanni district and allocated funds to complete the construction work that had not yet been completed.
+
+...
+
+[Data](articles/299250f5.json)
+
+[Extended Data](ext_articles/299250f5.ext.json)
+
+---
+
+### The final draft of the new Anti -Terrorism Bill will be handed over to the Minister of Justice this week
+
+*2025-09-15 04:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225094) · `ta`
+
+Chairman of the Committee, President, Attorney -at -Law, Arsakularatne, said that the final draft of the Expert Committee appointed to draft the new Anti -Terrorism Bill would be handed over to the Minister of Justice and National Integration Minister Harshana Nanayakkara.
+
+A committee appointed by the Cabinet over the draft of the new Anti -Terrorism Act was met at the Ministry of Justice and National Integration. The chairman of the committee said this while commenting.
+
+The new bill is being held for the second time and the second time the bill is being investigated, and now it is concluded.
+
+The Chairman said that the Committee is continuing to discuss the bill and that the law will be taken by the Department of Laws to take the changes to the daily discussion and take action.
+
+...
+
+[Data](articles/296004cd.json)
+
+[Extended Data](ext_articles/296004cd.ext.json)
+
+---
+
+### The Speaker of the Speaker will appeal to the International Parliamentary Union - Kavinda Jayawardena
+
+*2025-09-15 04:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225093) · `ta`
+
+The government is afraid that many issues will be revealed regarding the survival Sunday bombings if he takes debate against the Deputy Minister of Defense Aruna Jayasekara.. United People's Power Gampaha District Parliamentarian Kavinda Jayawardena said that the Speaker's unilateral action will be appealed to the International Parliamentary Union.
+
+The National People's Power came to power, claiming that justice is justice for the lifeblood of the bombing. But the truth has not yet been revealed. The promises are only very much.
+
+The name of the Deputy Minister of Defense Aruna Jayasekara has been referred to as the suspect in the bombing incident.
+
+Based on these factors, we brought a no -confidence motion against Deputy Minister Aruna Jayasekara.
+
+The government is afraid that many issues will be revealed regarding the survival Sunday bombings if the motion of no confidence is taken up for debate. Many of the issues that are released are against the government.
+
+...
+
+[Data](articles/684ee359.json)
+
+[Extended Data](ext_articles/684ee359.ext.json)
+
+---
+
+### Thamika Perera - Dayasiri Jayasekera has purchased more than 50 % of the Lap Cooking Gas Company
+
+*2025-09-15 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225092) · `ta`
+
+The government has been vocal against corruption and fraud. But now the government has purchased more than 50 per cent of the company's Lap Cooking Gas Company, the company.. Parliamentarian Dayasiri Jayasekara has questioned that this will benefit anyone.
+
+He further stated at a press conference held in Kurunegala on Sunday (14).
+
+This government has been vocal against corruption and fraud. Litro cooking gas company has an 80 per cent market offer in Sri Lanka. Litro and Lap companies have been rivals for the past 20 years. So the two companies were parallel to the gas distributors.
+
+But now there is a lot of troubles in the price petition. Litro interferes with gas imports for Lab. Lap company's 40 percent of shares were purchased by a company owned by Thamika Perera last week. In addition, 10 percent of shares have been purchased in the stock market.
+
+...
+
+[Data](articles/93a9ae7f.json)
+
+[Extended Data](ext_articles/93a9ae7f.ext.json)
 
 ---

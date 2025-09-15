@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 17:20:27**
+As of **2025-09-15 16:53:54**
 
 ## Newspaper Stats
 
-*Scraped **76,114** Articles*
+*Scraped **76,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,108 +17,34 @@ islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,386
-adaderanalk | 9,797
-tamilmirrorlk | 11,391
-virakesarilk | 12,406
-adaderanasinhalalk | 13,283
+adaderanalk | 9,795
+tamilmirrorlk | 11,390
+virakesarilk | 12,405
+adaderanasinhalalk | 13,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,093 (94.7%) of 76,114 articles have been extended.
+72,083 (94.7%) of 76,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### அமெரிக்கா- இலங்கை கூட்டு முயற்சியில் அக்கரகம வைத்தியசாலை புனரமைப்பு
-
-*2025-09-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225159) · `ta`
-
-இலங்கை விமானப்படை மற்றும் அமெரிக்க விமானப்படை ஆகிய இரண்டு நாடுகளின் கூட்டு ஒத்துழைப்புடன், இலங்கையில் அக்கரகம பிரதேச வைத்தியசாலை புனரமைக்கப்பட்டுள்ளது. சுமார் 40.5 மில்லியன் இலங்கை ரூபாய் செலவில் மேற்கொள்ளப்பட்ட இந்தத் திட்டத்தின் திறப்பு விழா அண்மையில் நடைபெற்றது.
-
-இந்த புனரமைப்புப் பணிகள் இலங்கை பாதுகாப்பு மற்றும் சுகாதார அமைச்சுகள், இலங்கை விமானப்படை மற்றும் அமெரிக்க விமானப்படை ஆகியவற்றின் பொறியியலாளர்களின் கூட்டு மேற்பார்வையில் திட்டமிடப்பட்டு, செயல்படுத்தப்பட்டன.
-
-இந்தத் திட்டத்திற்கு சுமார் 40.5 மில்லியன் இலங்கை ரூபாய் ($135,000 அமெரிக்க டொலர்) செலவிடப்பட்டுள்ளது. இரு நாடுகளின் கூட்டுப் பங்களிப்பு, உள்ளூர் சமூகங்களுக்கு ஆதரவு வழங்குவதில் உள்ள அவர்களின் பகிரப்பட்ட அர்ப்பணிப்பை வெளிப்படுத்துகிறது.
-
-வைத்தியசாலையின் கட்டிடக் அமைப்பு, கூரை, மின் மற்றும் நீர் அமைப்புகள், குளிரூட்டும் கருவிகள், மின் உற்பத்தி அமைப்புகள் மற்றும் உட்புற வசதிகள் மேம்படுத்தப்பட்டுள்ளன.
-
-...
-
-[Data](articles/f9f45efd.json)
-
----
-
-### In the second quarter of 2025, growth in 4.9% growth in the economy
-
-*2025-09-15 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214606) · `si`
-
-In the second quarter of 2025, the economy is recorded as a positive growth of 4.9 percent.
-
-◼️
-
-[Data](articles/fbd9b25c.json)
-
-[Extended Data](ext_articles/fbd9b25c.ext.json)
-
----
-
-### Trouble for the scratched woman in Sigiriya
-
-*2025-09-15 16:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியவில்-கீறிய-பெண்ணுக்கு-சிக்கல்/175-364635) · `ta`
-
-Dambulla District Magistrate Nilantha Wimalaratne on Monday (Monday) ordered that a young woman wrote through a hairpin on the Sigiriya rock until the 26th of this month.
-
-The 21 -year -old Muthu Kumari Niranjala from Avissawella is a woman who was interrogated.
-
-A 21 -year -old young woman suspected of writing six English letters by hairpin on the Sigiriya rock was arrested on the 14th.
-
-◼️
-
-[Data](articles/afe14b23.json)
-
-[Extended Data](ext_articles/afe14b23.ext.json)
-
----
-
-### Issuance of emulating of admission for the Korean Language Proficiency Exam
-
-*2025-09-15 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214605) · `si`
-
-The issuance of Examinations for the Korean Language Proficiency Ticket for the Korean manufacturing and fishing sectors of South Korea will be launched today (15) to the Midnight.
-
-Registration to obtain applications for the examination by the official website of the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-For these 18-39 years, in the 5th of the year, with no fines, unaccepted, unaccepted, unaccepted, or unpredted by the arbitrary, or unpredted in the case of color blindness (2007.09.2007). There should be people who have not been served in South Korea.
-
-Application for the Obtain Examination Adverly. The exam cost is Rs. 8,428.40 and the Bank of Ceylon, People's Bank or the National Savings Bank requires the payment receipt. (Cash Account Numbers refer to at www.slbfe.lk)
-
-More information on the issue of this exam and examination tickets can be obtained through the official website of www.slbfe.lk www.slbfe.lk.
-
-◼️
-
-[Data](articles/0eabc8e3.json)
-
-[Extended Data](ext_articles/0eabc8e3.ext.json)
-
----
-
-### An announcement of warm weather
+### උණුසුම් කාලගුණය ගැන නිවේදනයක්
 
 *2025-09-15 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214604) · `si`
 
-The Department of Meteorology has issued an announcement of warm weather conditions.
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
 
-Today (15) pm. The Department of Meteorology will address the announcement at 03.30 am (16).
+අද (15)  ප.ව. 03.30ට නිකුත් කරන ලද එම නිවේදනය හෙට (16) දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
 
-The warm indicator of the North, North-central and Northwestern provinces, in Colombo, Gampaha, Hambantota and Monaragala Districts, the heat of the human body can be "focused".
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ වයඹ පළාත්වලත් කොළඹ, ගම්පහ, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවද එහි සඳහන් වේ.
 
 ◼️
 
 [Data](articles/fe7895f2.json)
-
-[Extended Data](ext_articles/fe7895f2.ext.json)
 
 ---
 
@@ -133,40 +59,6 @@ His lawyer also informed the Court of Appeal today that the Manamperi, who is be
 [Data](articles/728c26b1.json)
 
 [Extended Data](ext_articles/728c26b1.ext.json)
-
----
-
-### Sampath Manamperi informs willingness to surrender to court  through attorneys
-
-*2025-09-15 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112528/sampath-manamperi-informs-willingness-to-surrender-to-court-through-attorneys) · `en`
-
-An attorney representing Sampath Manamperi informed the Court of Appeal today (15) that his client is prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of two concealed containers in Middeniya, suspected to contain chemical substances used in the production of “Ice” (crystal methamphetamine).
-
-Following this statement, the Court of Appeal ordered the Inspector General of Police (IGP) to take necessary steps to ensure the safety of Sampath Manamperi after his surrender and instructed the investigating officers to be informed of this directive, Ada Derana reporter said.
-
-Court issued the order after considering a writ petition filed by the legal team of Sampath Manamperi, who is said to be wanted for arrest in connection with the incident.
-
-◼️
-
-[Data](articles/ead39f2a.json)
-
----
-
-### Renovation of Maradana Railway Station launched under Dream Destination program
-
-*2025-09-15 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112527/renovation-of-maradana-railway-station-launched-under-dream-destination-program) · `en`
-
-The renovation of the Maradana Railway Station, under the government’s “Clean Sri Lanka” and “Dream Destination” initiatives, was officially launched this morning (15) under the patronage of President Anura Kumara Dissanayake.
-
-This project is part of the government’s broader plan titled ““A Thriving Nation – A Beautiful Life,” which aims to establish a modern, sustainable, and standardized public transport system. The program focuses on improving public facilities at railway stations and transforming them into safe, comfortable, and clean spaces, the President’s Media Division said.
-
-The initiative, a public-private partnership, is spearheaded by the Ministry of Transport, Highways, Ports, and Civil Aviation, with plans to renovate 100 railway stations island-wide.
-
-A key focus is on creating a railway network accessible to all, including persons with special needs, while preserving historical value where applicable.
-
-...
-
-[Data](articles/4851a01f.json)
 
 ---
 
@@ -600,7 +492,7 @@ Prime Minister Dr. Harini Amarasuriya said,
 
 *2025-09-15 14:00:00* · [`economynextcom`](https://economynext.com/economic-and-investment-summit-to-focus-on-drawing-investors-to-sri-lanka-240556/) · `en`
 
-ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, its organizer the Ceylon Chamber of Commerce said.
+ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, the Ceylon Chamber of Commerce said.
 
 “The session will explore how Sri Lanka can accelerate much-needed reforms, mitigate risks, and unlock new opportunities to position itself as a credible and attractive destination for both local and international investors,” the chamber said.
 
@@ -1018,23 +910,19 @@ Accordingly, in the first phase of the event, 28 students were given scholarship
 
 ---
 
-### The objective of reducing people to prison should be the goal
+### බන්ධනාගාරයට පුද්ගලයින් යොමුවීම අඩු කිරීම අරමුණ විය යුතුයි
 
 *2025-09-15 12:04:37* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරයට-පුද්ගලයින්-යොමුවීම-අඩු-කිරීම-අරමුණ-විය-යුතුයි/11-418505) · `si`
 
-Attorney-at-Law, Minister of Justice and National Integration, Attorney General
+අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මෙම අදහස් පළ කළේ කොළඹ 08, සර්වෝදය සංවර්ධන මුල්‍ය ආයතන නගරෝදය ශ්‍රවණාගාරයේ පැවති 27 වන ජාතික සිරකරු දින උත්සවයේ ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගිවෙමිනි.
 
-"The Prisoner Welfare Society for Prisoners' Facilitate for Prison Inmates is commendable. It is necessary to say that the prisoner welfare society provides strength to facilitate prisoners. You have been a great service to the prisoners annually by celebrating the date of prisoner for years annually.
+"බන්ධනාගාරගත රැඳවියන් වෙනුවෙන් පහසුකම් සපයමින් සිරකරුවන් වෙනුවෙන් සිරකරු සුභ සාධක සංගමය විසින් සිදු කරනු ලබන සේවය ප්‍රශංසනීයයි. සිරකරුවන්ට පහසුකම් සැපයීමේදී සිරකරු සුභ සාධක සංගමය ලබා දෙන සහාය ශක්තියක් බව කිව යුතුයි. ඔබ සංගමය වසර ගණනාවක් තිස්සේ වාර්ෂිකව සිරකරු දිනය සමරමින් සිරකරුවන් වෙනුවෙන් විශාල සේවයක් සිදු කර තිබෙනවා.
 
-There are many prisoners in prisons. It must be noted that our responsibility to reduce the congestion. Our goal should be to reduce the one to the prison. The number of persons who are imprisoned due to poverty has increased. The present government's purpose is to reduce the number of people who are impressed by the social justice of the country.
+අද වන විට බන්ධනාගාර තුළ සිරකරුවන්ගේ විශාල තදබදයක් තිබෙනවා. එම තදබදය අඩු කරමින් අවශ්‍ය පහසුකම් සැපයීම අපේ වගකීමක් බව සඳහන් කළ යුතුයි. අපේ අරමුණ විය යුතු වන්නේ බන්ධනාගාරයට පුද්ගලයින් යොමු වන එක අඩු කිරීමයි. දුප්පත්කම නිසා බන්ධනාගාරගත වන සංඛ්‍යාව වැඩි වෙලා තිබෙනවා. වත්මන් රජයේ අරමුණ රටේ සමාජ සාධාරණත්වය තුළින්  ආර්ථික දියුණුව ඇති කිරීමෙන් බන්ධනාගාරගත වන සංඛ්‍යාව අඩු කිරීමයි.
 
-It is very important to facilitate the human rights of all those who are imprisoned. All people are equal to the law. The Minister said that a country should be created by protecting the rule of law as a government.
-
-◼️
+...
 
 [Data](articles/875e2cd3.json)
-
-[Extended Data](ext_articles/875e2cd3.ext.json)
 
 ---
 
@@ -1084,7 +972,7 @@ Former Minister Keheliya Rambukkale accusing of a condolence of over Rs. 24th Au
 
 ---
 
-### Sri Lanka 2,000 note circulation delayed by cash machine calibration
+### Sri Lanka 2,000 note issuance delayed by cash machine calibration
 
 *2025-09-15 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-2000-note-issuance-delayed-by-cash-machine-calibration-240543/) · `en`
 
@@ -2037,5 +1925,135 @@ A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging th
 [Data](articles/3c047efe.json)
 
 [Extended Data](ext_articles/3c047efe.ext.json)
+
+---
+
+### In Sri Lanka, Ice has come from Iran
+
+*2025-09-15 08:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේදී-අයිස්-නිපදවන්න-ඉරානයෙන්-ඇවිත්/11-418498) · `si`
+
+කළුතර අපරාධ කොට්ඨාසය මගින් රැඳවුම් නියෝග මත ප්‍රශ්න කරන "ඇඹිලිපිටියේ සුරංග" නැමැත්තාගෙන් ලබා ලබාගත් තොරතුරු වලට අනුව අයිස් මත්ද්‍රව්‍ය  නිෂ්පාදනය කල බවට සැක කරන හම්බන්තොට ප්‍රදේශයේ නිවාඩු නිකේතනයක තිබී සැක උපකරණ , රසායනික ද්‍රව්‍ය තොගයක් සහ අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට එම අවන්හලේ නවතා තිබූ මෝටර් රථයක් අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
+
+Police said that he was arrested and was arrested in the investigation of the ice drugs from the Surai, which was arrested and used by an organized criminals from Indonesia.
+
+Police have also taken into police custody that a luxury car has been taken into police custody at the rest of the restaurant.
+
+The car is the car taken to transport heroin about two years ago, police said.
+
+According to the information revealed, several Iranian nationals in the Mayurapura area and several people in the Mayurapura area have been produced by the Iranian.
+
+...
+
+[Data](articles/973bb0a3.json)
+
+[Extended Data](ext_articles/973bb0a3.ext.json)
+
+---
+
+### Srinasan MP. Injury in an accident
+
+*2025-09-15 08:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீநேசன்-எம்-பி-விபத்தில்-காயம்/175-364590) · `ta`
+
+Batticaloa district parliamentarian Gnanamuttu Srinesan was injured in the accident.
+
+The accident occurred when her vehicle and a car collided with a recent car to the Batticaloa - Kaluwanchikudi Divisional Secretariat.
+
+The accident occurred when he returned to the Central Committee meeting of the Sri Lanka Tamil National Alliance (TNA) held at Alayadivemba yesterday (14).
+
+He was admitted to the Kaluwanchikudi Resource Hospital and transferred to the Batticaloa Teaching Hospital for further treatment.
+
+◼️
+
+[Data](articles/7c0bd167.json)
+
+[Extended Data](ext_articles/7c0bd167.ext.json)
+
+---
+
+### Group arrested for illegal excavation of artifacts in two areas
+
+*2025-09-15 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112506/group-arrested-for-illegal-excavation-of-artifacts-in-two-areas) · `en`
+
+The police have arrested a group of individuals involved in the illegal excavation of artifacts at two separate locations in the country.
+
+During a raid conducted last evening (14) in the Madipola area under the Galewela Police Division, based on information received by officers from the Galewela Police Station, a total of seven suspects were apprehended while carrying out excavation activities.
+
+Several excavation tools and sacrificial objects used in the illegal operations were also seized, police stated.
+
+The arrested suspects are residents of Madipola, Welikanda, Millawana, Damminna, and Dehiattakandiya areas, aged between 28 and 58 years.
+
+Meanwhile, a separate raid was carried out last evening in the Nawagiriyawa area under the Bandaraduwa Police Division, following a tip-off received by officers from the Bandaraduwa Police Station.
+
+A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting illegal excavation of artifacts.
+
+...
+
+[Data](articles/f1ce059b.json)
+
+[Extended Data](ext_articles/f1ce059b.ext.json)
+
+---
+
+### Woman arrested for harming Sigiriya
+
+*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
+
+Sigiriya is arrested by the archaeological officers of a 21-year-old girl who was recovered from the English letter, harming its designation in the English letter, which was harmful to its secure Pura Poems.
+
+This unfortunate action was carried out while presenting the girl with a friend and a group of friends, a group of friends, a group of friends, a group of friends residing in Avissawella. When writing to his name, archaeological officers caught the woman when he wrotened her name, damaged her name hazardous poetic writings. Archaeological officials have found that this act has been damaged in the caterpade.
+
+The woman is in remand custody after handing over the woman to Sigiriya, and today 15 today is to be produced before the Dambulla Magistrate.
+
+Archaeological Officers are also conducting further investigations into the incident.
+
+This incident has restored questions about the safety of these historical locations and focuses on tourist and awareness.
+
+◼️
+
+[Data](articles/2619be8a.json)
+
+[Extended Data](ext_articles/2619be8a.ext.json)
+
+---
+
+### CEB workers to intensify strike action effective today
+
+*2025-09-15 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112505/ceb-workers-to-intensify-strike-action-effective-today) · `en`
+
+All trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their strike action against the proposed division of the CEB into four parts, effective today (15).
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to implement the strike in three phases.
+
+The first phase was initiated as a ‘work-to-rule’ trade union action.
+
+Although 11 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
+
+The union further stated that it will make an announcement regarding the next phase and potential intensification of the strike following trade union discussions scheduled for this afternoon.
+
+◼️
+
+[Data](articles/7a054a82.json)
+
+[Extended Data](ext_articles/7a054a82.ext.json)
+
+---
+
+### Prime Lands buys land in Bambalapitiya, Sri Lanka for Rs3.5bn
+
+*2025-09-15 08:00:00* · [`economynextcom`](https://economynext.com/prime-lands-buys-land-in-bambalapitiya-sri-lanka-for-rs3-5bn-240520/) · `en`
+
+ECONOMYNEXT – Sri Lanka property developer Prime Lands Residencies PLC said it had bought a land at Bambalapitiya Station Road for 3.5 billion rupees.
+
+The property was bought at an auction on Friday (12), the company said in a stock exchange filing.
+
+The company has paid 350,000,010 rupees of the total 3,500,000,100, or 10 percent of the selling price, as the advance payment and the balance will be settled within 30 days from the date of communication from the bank, Prime Lands said.
+
+The stock war trading up 2.10 rupees at 34.20. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/67708843.json)
+
+[Extended Data](ext_articles/67708843.ext.json)
 
 ---

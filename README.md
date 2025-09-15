@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 19:11:33**
+As of **2025-09-15 20:39:45**
 
 ## Newspaper Stats
 
-*Scraped **76,133** Articles*
+*Scraped **76,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,101 @@ economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,388
-adaderanalk | 9,801
+adalk | 7,390
+adaderanalk | 9,804
 tamilmirrorlk | 11,396
 virakesarilk | 12,406
-adaderanasinhalalk | 13,286
+adaderanasinhalalk | 13,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,198 (94.8%) of 76,133 articles have been extended.
+72,308 (95.0%) of 76,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### පස්දේවා රඳවාගෙන ප්‍රශ්න කරන බව පොලීසිය අධිකරණයට දැනුම්දෙයි
+### Sri Lanka to benefit the coin
+
+*2025-09-15 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214610) · `si`
+
+Sri Lanka is the second match of the Asia Cup Twenty20 cricket match today (15) with Hong Kong team.
+
+Accordingly, the captain of the Sri Lankan team has invited the Hong Kong group to bat first.
+
+This is the first time Sri Lanka and Hong Kong will meet each other on the international cricket.
+
+However, Sri Lanka won the first match against Bangladesh by six wickets in the first match of the tournament.
+
+◼️
+
+[Data](articles/b4d0f615.json)
+
+[Extended Data](ext_articles/b4d0f615.ext.json)
+
+---
+
+### Police informed the court that Padamawa is detained and interrogation
 
 *2025-09-15 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214609) · `si`
 
-අත්අඩංගුවේ පසුවන කෙහෙල්බද්දර පද්මේ නමැත්තාගේ සමීපතමයකු බව කියන දිසානායක දේවගේ දිසානායක නොහොත් "පස්දේවා" නමැත්තා ආරක්ෂක ලේකම්වරයාගේ නියෝගයක් මත ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+The Western Provincial Council Magistrate's Court informed the Colombo Magistrate's Court that Dissanayake's Deva Dissanayake, who is a close association of Kehelbaddara Padma.
 
-ඒ අනුව අදාළ සැකකරු දින 90ක් කාලයක් රඳවාගෙන ප්‍රශ්න කරන බවත් එම කොට්ඨාසය විසින් කොළඹ අතිරේක මහෙස්ත්‍රාත් එච්.ඩී.ඩී.ජේ ප්‍රේමරත්න මහත්මිය වෙත දැනුම් දී තිබේ.
+Accordingly, the suspect is detained and interrogated by additional Magistrate HDJ Prevenittra.
 
-පොලීසිය අධිකරණය හමුවේ කරුණු දක්වමින් "පස්දේවා" නැමැති සැකකරු අත්අඩංගුවට ගැනීමෙන් පසු ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී කෙහෙල්බද්දර පද්මෙ නමැත්තාට අයත්ව තිබූ හෝටලයකින් මත්ද්‍රව්‍ය ග්‍රෑම් 440ක් හා ජීව උණ්ඩ කීපයක් සොයාගත් බව සඳහන් කළේය.
+The police said that after the arrest of the suspect, "Pasyawa 'was taken by the suspect, he said he had found 440 g of drugs and a number of living bullets.
 
-මෙම සැකකාරු අත්අඩංගුවට ගත් අවස්ථාවේදී කෙහෙල්බද්දර පද්මේ නැමැත්තා විදෙස්ගතව සිට ඇති බවද පොලීසිය විසින් සඳහන් කළ අතර මෙම සැකකරු අත්අඩංගුවට ගැනීමේ තොරතුරු ආරංචි වී කෙහෙල් බද්දර පද්මේ නැමැත්තා කෝපයට පත්ව දුරකතන මගින්  ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට තර්ජනය කර තිබෙන බවත් සඳහන් කර සිටියේය.
+The police stated that the suspects were abroad to arrest the suspect, said the suspect had been abroad and became angry and angry with the Telephone Chief Inspector General Inspector Lynton Silva.
+
+The suspect was conducting a wider investigation into the crimes committed by the suspect under the operation of Kehel Bedma Padma.
+
+After considering the submissions, the police stipulated to the police to report to court in the future.
+
+◼️
+
+[Data](articles/49876ce9.json)
+
+[Extended Data](ext_articles/49876ce9.ext.json)
+
+---
+
+### China opposes U.S. demand for tariffs on China over Russian oil purchase
+
+*2025-09-15 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112535/china-opposes-us-demand-for-tariffs-on-china-over-russian-oil-purchase) · `en`
+
+China firmly opposes a U.S. demand that Group of Seven (G7) and North Atlantic Treaty Organization (NATO) countries impose tariffs of 50 to 100 percent on China due to the country’s purchase of Russian oil, a spokesperson for the Ministry of Commerce said Monday.
+
+In response to a media query, the spokesperson said China has always opposed trade and economic restrictions against China under the pretext of so-called “Russia-related” issues.
+
+The U.S. attempt to coerce relevant parties into imposing “secondary tariffs” on China over its purchase of Russian oil is a typical act of unilateral bullying and economic coercion, the spokesperson noted.
+
+Such a move seriously violates the consensus reached during a phone call between the two heads of state and could severely impact global trade and disrupt the stability of industrial and supply chains, the spokesperson added.
 
 ...
 
-[Data](articles/49876ce9.json)
+[Data](articles/e790e238.json)
+
+---
+
+### Four invasive ornamental fish species banned by Fisheries Ministry
+
+*2025-09-15 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112534/four-invasive-ornamental-fish-species-banned-by-fisheries-ministry) · `en`
+
+A gazette notification has been issued banning the import and sale of four invasive ornamental fish species by the Ministry of Fisheries, Aquatic Resources, and Ocean Resources.
+
+Accordingly, the ban applies to Piranha, Knife Fish, Alligator Gar and Redline Snakehead.
+
+According to the notification, breeding, releasing the fish species into water systems, transporting, purchasing, selling or displaying for sale, possessing, importing and exporting are banned.
+
+The Ministry has stated that the restrictions are only applicable to live fish while catching them from natural water bodies for consumption is permitted, provided that prior approval is obtained from the National Aquaculture Development Authority of Sri Lanka (NAQDA), as stipulated under the Sri Lanka Aquaculture Development Act No. 53 of 1998.
+
+According to the gazette, these fish are defined as ‘invasive species’ since they are capable of rapidly spreading at high population densities and causing harm to other aquatic species.
+
+◼️
+
+[Data](articles/5797338d.json)
 
 ---
 
@@ -87,6 +151,20 @@ According to these orders, "the fisheries species" of the fisheries
 [Data](articles/6848d174.json)
 
 [Extended Data](ext_articles/6848d174.ext.json)
+
+---
+
+### Resource Manampehi ready to be assumed
+
+*2025-09-15 17:57:59* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකරණයට-භාරවීමට-සූදානම්/11-418509) · `si`
+
+The Court of Appeal today (15), his lawyer was asked to arrest the chemicals to be arrested in connection with the discovery of chemicals in the discovery of the chemicals to be arrested.
+
+◼️
+
+[Data](articles/e99ab2c7.json)
+
+[Extended Data](ext_articles/e99ab2c7.ext.json)
 
 ---
 
@@ -200,6 +278,24 @@ Maithripala: I laughed and said, "I am not bringing people."
 
 ---
 
+### Army deployed to contain fire in ‘Nonpareil Reserve’, over 1,000 acres of land destroyed
+
+*2025-09-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112532/army-deployed-to-contain-fire-in-nonpareil-reserve-over-1000-acres-of-land-destroyed) · `en`
+
+Sri Lanka Army personnel have been deployed to help control the forest fire that broke out in the Nonpareil Reserve in Balangoda, according to Ada Derana reporter.
+
+The fire, which has been raging for several days, is reported to have already destroyed over 1,000 acres of land.
+
+Our correspondent stated that the Sri Lanka Army, along with the Disaster Management Unit of the Ratnapura District, is currently engaged in firefighting efforts.
+
+Although strong winds in the area have made it difficult to fully contain the fire, it is reported that some progress has been made in bringing the blaze under control.
+
+◼️
+
+[Data](articles/4934693a.json)
+
+---
+
 ### Warm weather advisory issued for several districts including Colombo
 
 *2025-09-15 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112531/warm-weather-advisory-issued-for-several-districts-including-colombo) · `en`
@@ -263,6 +359,28 @@ The Court of Appeal issued the order after considering the writ petition filed b
 [Data](articles/dd5c6aee.json)
 
 [Extended Data](ext_articles/dd5c6aee.ext.json)
+
+---
+
+### Approval for the Korea Examination begins
+
+*2025-09-15 16:59:06* · [`adalk`](https://www.ada.lk/breaking_news/2025-කොරියා-විභාගයට-ප්‍රවේෂපත්‍ර-නිකුත්-කිරීම-ඇරඹේ/11-418508) · `si`
+
+Issuing Exam Ticketing for the Korean Language Proficiency Ticketing for the Korean Language Proficiency Ticketing for the Korean Products and Fisheries Fields in South Korea.
+
+Registration is available to obtain applications for the examination on the official website of the Sri Lanka Bureau of Foreign Employment www.slbfe.lk
+
+For this year, the year, which is not a cases, unaccepted, unaccepted, or unpredted by the unpredted, or unpredted in the E-9 and E-9 and E-10, including collision, or unpredted by the unpredted in the case of color blindness (2007.09.2007). People who have not been served in South Korea for more than 5.
+
+Application for the Obtain Examination Adverly. The exam cost is Rs. 8,428.40 and the Bank of Ceylon, People's Bank or the National Savings Bank requires the payment receipt. (Cash Account Numbers refer to at www.slbfe.lk)
+
+More information on the issue of this exam and examination tickets can be obtained through the official website of www.slbfe.lk www.slbfe.lk.
+
+◼️
+
+[Data](articles/6eda5a72.json)
+
+[Extended Data](ext_articles/6eda5a72.ext.json)
 
 ---
 
@@ -1939,119 +2057,5 @@ The pair of elephant tusks were taken into custody by the police and the suspect
 [Data](articles/d27fa078.json)
 
 [Extended Data](ext_articles/d27fa078.ext.json)
-
----
-
-### The boy drowned in the water
-
-*2025-09-15 10:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராடச்-சென்ற-சிறுவன்-நீரில்-மூழ்கி-மரணம்/175-364602) · `ta`
-
-An 11 -year -old boy who was drowned in the Devahuwa reservoir in Galewela area was drowned.
-
-This was the case when the deceased boy went to the reservoir with his father and relatives.
-
-Initial investigations revealed that the relatives and the residents of the area rescued the boy and admitted to the Galewela Hospital.. Remble
-
-◼️
-
-[Data](articles/4e66906e.json)
-
-[Extended Data](ext_articles/4e66906e.ext.json)
-
----
-
-### “Embilipitiya Mines
-
-*2025-09-15 10:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்பிலிப்பிட்டியே-சுரங்க-கக்கினார்-ஈரானியர்கள்-பறந்தனர்/175-364601) · `ta`
-
-The Kalutara Criminal Investigation Department said that suspected equipment, chemicals and a car were seized at a holiday hotel in the Hambantota area suspected to make ice drugs.
-
-These were seized based on information obtained from the "Embilipitiya Mines" which is being investigated by the Prevention of the Kalutara Criminal Investigation Committee.
-
-இந்தோனேசியாவிலிருந்து நாட்டிற்கு கொண்டு வரப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் தொடர்பாக கைது செய்யப்பட்டு விசாரணைக்காக தடுத்து வைக்கப்பட்டுள்ள எம்பிலிப்பிட்டியே சுரங்காவிடம் இருந்து கிடைத்த தகவலின் பேரில் விசாரணைகள் நடத்தப்பட்டன. ​​
-
-According to police, 13 cans of 52 liters of chemicals suspected to have been used to produce ice and several equipment suspected of using ice drugs were found, police said.
-
-A luxury car parked in the restaurant, which is currently registered in the name of an organized criminal gang abroad, has been confiscated, police said.
-
-...
-
-[Data](articles/01a7ee5a.json)
-
-[Extended Data](ext_articles/01a7ee5a.ext.json)
-
----
-
-### Renovation of Pettah Central Bus Stand inaugurated under President’s patronage
-
-*2025-09-15 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112511/renovation-of-pettah-central-bus-stand-inaugurated-under-presidents-patronage) · `en`
-
-The inauguration ceremony for the renovation of the Pettah Central Bus Stand has officially commenced this morning (15).
-
-The event was graced by by President Anura Kumara Dissanayake.
-
-The long-awaited project marks the first major upgrade to the facility since its construction in 1964. The project is estimated to cost Rs. 424 million.
-
-As part of the renovation, modern facilities will be introduced, including new restrooms, information and communication stations, enhanced security systems, and several other improvements aimed at upgrading the overall infrastructure of the bus stand.
-
-◼️
-
-[Data](articles/495c1d7d.json)
-
-[Extended Data](ext_articles/495c1d7d.ext.json)
-
----
-
-### Small gun recovery from the Vienna Canal
-
-*2025-09-15 10:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வியன்னா-கால்வாயில்-இருந்து-சிறிய-துப்பாக்கி-மீட்பு/76-364599) · `ta`
-
-Mahiyanganaya police said that a small amount of gun and overseas -made ammunition were found in the Lokalla Oya Vienna Canal on Sunday evening.
-
-Police have reported that the service number and identity number of the gun has been recorded, and that twelve hole gun bullets, five T-56 bullets and seven 9 mm bullets have been found in a polythene bag.
-
-The guns and ammunition were known as the water was reduced and the bottom of the Vienna Canal was visible.
-
-◼️
-
-[Data](articles/f224a8c7.json)
-
-[Extended Data](ext_articles/f224a8c7.ext.json)
-
----
-
-### Israel intensifies Gaza City bombing as Rubio arrives
-
-*2025-09-15 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112510/israel-intensifies-gaza-city-bombing-as-rubio-arrives) · `en`
-
-Israeli forces destroyed at least 30 residential buildings in Gaza City and forced thousands of people from their homes, Palestinian officials said, as US Secretary of State Marco Rubio arrived on Sunday (Sep 14) to discuss the future of the conflict.
-
-Israel has said it plans to seize the city, where about a million Palestinians have been sheltering, as part of its declared aim of eliminating the militant group Hamas, and has intensified attacks on what it has called the last bastion of the militant Palestinian group.
-
-Hamas’ political leadership, which has engaged in on-and-off negotiations on a possible ceasefire and hostage release deal, was targeted by Israel in an airstrike in Doha on Tuesday in an attack that drew widespread condemnation.
-
-...
-
-[Data](articles/7f513bb9.json)
-
-[Extended Data](ext_articles/7f513bb9.ext.json)
-
----
-
-### Exit the settlers: 1.10 lakh people participated in London: What is the background?
-
-*2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
-
-About 1.10 lakh people participated in the United Kingdom rally, coordinated by Tommy Robinson, an ardent right -wing activist in London, UK.. A group of people who participated in the rally then clashed with the police.
-
-The rally was held on Saturday from Big Pen to Waterloo, along the banks of the Thames of London. Supporting the rally, the participants chanted against the migrants from abroad and that they were a threat to national identity.
-
-At the same time, anti -racists carried out a protest against Tommy Robinson's rally against fascism. About 5,000 people participated. The conflict erupted when the right -wing supporters tried to block those who protested their rally. The police have then attacked. Bottles have also been thrown towards the police.
-
-...
-
-[Data](articles/4492200f.json)
-
-[Extended Data](ext_articles/4492200f.ext.json)
 
 ---

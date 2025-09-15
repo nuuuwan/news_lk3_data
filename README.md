@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 10:38:17**
+As of **2025-09-15 10:09:34**
 
 ## Newspaper Stats
 
-*Scraped **76,027** Articles*
+*Scraped **76,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,21 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,378
+adalk | 7,377
 adaderanalk | 9,779
-tamilmirrorlk | 11,369
+tamilmirrorlk | 11,368
 virakesarilk | 12,396
-adaderanasinhalalk | 13,263
+adaderanasinhalalk | 13,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,738 (94.4%) of 76,027 articles have been extended.
+71,684 (94.3%) of 76,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
-
-### ’குடியேறிகளே வெளியேறுங்கள்’ : லண்டனில் 1.10 லட்சம் பேர் பங்கேற்ற பேரணி: பின்னணி என்ன?
-
-*2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
-
-பிரிட்டன் நாட்டின் லண்டனில் தீவிர வலதுசாரி செயல்பாட்டாளரான டாமி ராபின்சன் ஒருங்கிணைத்த ‘யுனைட் தி கிங்டம்’ பேரணியில் சுமார் 1.10 லட்சம் பேர் பங்கேற்றனர். அப்போது பேரணியில் பங்கேற்ற ஒரு குழுவினர் பொலிஸாருடன் மோதலில் ஈடுபட்டனர்.
-
-இந்த பேரணி லண்டன் நகரின் தேம்ஸ் நதிக்கரையை ஒட்டிய பிக் பென் பகுதி முதல் வாட்டர்லூ பகுதி வரை சனிக்கிழமை அன்று நடைபெற்றது. இந்த பேரணிக்கு ஆதரவு அளித்து, அதில் பங்கேற்றவர்கள் வெளிநாடுகளில் இருந்து குடியேறியவர்களுக்கு எதிராகவும், அவர்கள் தேசிய அடையாளத்துக்கு அச்சுறுத்தலாக இருப்பதாகவும் முழக்கமிட்டனர்.
-
-அதே நேரத்தில் டாமி ராபின்சனின் பேரணிக்கு எதிராக ‘பாசிசத்துக்கு எதிரான பேரணி’ என்ற போராட்டத்தை இனவெறிக்கு எதிரானவர்கள் மேற்கொண்டனர். இதில் சுமார் 5,000 பேர் பங்கேற்றனர். தங்களது பேரணிக்கு எதிர்ப்பு தெரிவித்தவர்களை வலதுசாரி ஆதரவாளர்கள் நெருங்காத வகையில் பொலிஸார் தடுக்க முயன்றபோது மோதல் வெடித்தது. அப்போது பொலிஸார் மீது தாக்குதல் நடந்துள்ளது. போலீஸாரை நோக்கி பாட்டில்களும் எறியப்பட்டுள்ளன.
-
-...
-
-[Data](articles/4492200f.json)
-
----
-
-### Pettah Central Bus Stand developed in the Central Bus Stand developed - live telecast
-
-*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214586) · `si`
-
-The inauguration of the renovation of the Central Bus Stand at the Central Bus Stand at the Pettah is now inaugurated.
-
-The Pettah bus stand in 1964 was renovated in 60 years.
-
-New restrooms, ICT locations, security systems, will be established to the bus stand under the renovation.
-
-◼️
-
-[Data](articles/a479a0b7.json)
-
-[Extended Data](ext_articles/a479a0b7.ext.json)
-
----
-
-### Former army soldier arrested with an ivory pair
-
-*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214585) · `si`
-
-A retired Army soldier who had been in possession of the ivory pair in Moragoda Police Station has been arrested.
-
-The victim is a 46 year old resident of Halmillawa, a retired Army soldier.
-
-According to a tip off received by Moragoda police, the title had been found in Halmillawa area in Moragoda.
-
-Police said the police were able to find the ivory pair of elephants while he was hidden under the ownership of the suspect.
-
-The tabed the police is to be produced before the Kahatagasdigiliya Magistrate's Court today (15).
-
-◼️
-
-[Data](articles/e490fb4a.json)
-
-[Extended Data](ext_articles/e490fb4a.ext.json)
-
----
 
 ### 11-year old boy drowns in Dewahuwa Reservoir
 
@@ -101,8 +45,6 @@ Relatives and residents of that area later retrieved the child from the water an
 ◼️
 
 [Data](articles/eab6fe0e.json)
-
-[Extended Data](ext_articles/eab6fe0e.ext.json)
 
 ---
 
@@ -142,8 +84,6 @@ Labour leader Starmer is not a natural bedfellow for right-wing firebrand Trump,
 
 [Data](articles/5f505d9f.json)
 
-[Extended Data](ext_articles/5f505d9f.ext.json)
-
 ---
 
 ### Giri Samba Rice shortage in the market!
@@ -168,25 +108,23 @@ In this context, the National Farmers' Union has demanded that the government im
 
 ---
 
-### Israel attack on Gaza: 53 deaths: Many buildings have been damaged!
+### காசா மீது இஸ்ரேல் தாக்குதல்: 53 பேர் உயிரிழப்பு:  பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன!
 
 *2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225105) · `ta`
 
-Israeli attacks on Gaza yesterday killed 53 people and damaged several buildings.
+காசா மீது நேற்றையதினம் இஸ்ரேல் நடத்திய தாக்குதல்களில் 53 பேர் உயிரிழந்ததுடன், பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன.
 
-International media reports that Israel has intensified its bombing on the city of Gaza.
+காசா நகரத்தின் மீது இஸ்ரேல் தனது குண்டுவீச்சு தாக்குதலை தீவிரப்படுத்தியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
 
-Israeli forces have intensified an offensive to seize the northern urban center and displace its people, killing 53 Palestinians in Gaza area
+வடக்கு நகர்ப்புற மையத்தைக் கைப்பற்றி அதன் மக்களை இடம்பெயரச் செய்வதற்கான தாக்குதலை இஸ்ரேலியப் படைகள் தீவிரப்படுத்தியுள்ள நிலையில், காசா பகுதியில் 53 பாலஸ்தீனியர்களைக் கொல்லப்பட்டுள்ளனர்
 
-The number of people who died of hunger in Gaza has risen to 422 since the onset of Israel's war, the Ministry of Health said.
+இஸ்ரேலின் போர் தொடங்கியதிலிருந்து, காசாவில் பசியிலினால் உயிரிழந்தவர்களின் எண்ணிக்கை 422 ஆக உயர்ந்துள்ளதாக அந்த நாட்டு சுகாதார அமைச்சு தெரிவித்துள்ளது.
 
-In Gaza, the Israeli army has launched a two-hour missile attack targeting the Al-Qawdar tower in the southern Remal neighborhood.
+காசா நகரில், இஸ்ரேலிய இராணுவம் தெற்கு ரெமால் சுற்றுப்புறத்தில் உள்ள அல்-கவ்தர் கோபுரத்தை இலக்குவைத்து, இரண்டு மணி நேரம்  ஏவுகணைத் தாக்குதல்களை நடத்தியுள்ளது.
 
 ◼️
 
 [Data](articles/f72edf41.json)
-
-[Extended Data](ext_articles/f72edf41.ext.json)
 
 ---
 
@@ -415,28 +353,6 @@ A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting
 [Data](articles/f1ce059b.json)
 
 [Extended Data](ext_articles/f1ce059b.ext.json)
-
----
-
-### Woman arrested for harming Sigiriya
-
-*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
-
-Sigiriya is arrested by the archaeological officers of a 21-year-old girl who was recovered from the English letter, harming its designation in the English letter, which was harmful to its secure Pura Poems.
-
-This unfortunate action was carried out while presenting the girl with a friend and a group of friends, a group of friends, a group of friends, a group of friends residing in Avissawella. When writing to his name, archaeological officers caught the woman when he wrotened her name, damaged her name hazardous poetic writings. Archaeological officials have found that this act has been damaged in the caterpade.
-
-The woman is in remand custody after handing over the woman to Sigiriya, and today 15 today is to be produced before the Dambulla Magistrate.
-
-Archaeological Officers are also conducting further investigations into the incident.
-
-This incident has restored questions about the safety of these historical locations and focuses on tourist and awareness.
-
-◼️
-
-[Data](articles/2619be8a.json)
-
-[Extended Data](ext_articles/2619be8a.ext.json)
 
 ---
 
@@ -2035,5 +1951,87 @@ This milestone builds on DIMO’s historic achievement in the 1980s, when it mad
 [Data](articles/07a49c74.json)
 
 [Extended Data](ext_articles/07a49c74.ext.json)
+
+---
+
+### Baco Saman's disciple remanded for yesterday with T81
+
+*2025-09-14 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214566) · `si`
+
+The Western North Criminal Division has been remanded until the 24th of this month with a T81 firearm.
+
+The man was arrested in the Embilipitiya River area under the transportation and the suspect of possession of Baqa Saman's firearms.
+
+The police have revealed that the person named Hath Liyanage Laksene alias Amila, a resident of Embilipitiya, Embilipitiya.
+
+The suspect was found in the possession of a T81, 97 magazines, two magazines and a military personnel.
+
+◼️
+
+[Data](articles/6d9e8488.json)
+
+[Extended Data](ext_articles/6d9e8488.ext.json)
+
+---
+
+### An earthquake in India's hearing
+
+*2025-09-14 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214565) · `si`
+
+Rickter Mapaka's 5.8 earthquake is located near the Gahami in India's Eye.
+
+At Indian Time. The earthquakes, which have around 4:41, have felt in the North Bengal.
+
+However, information about the injuries or property has not been reported.
+
+◼️
+
+[Data](articles/97110ed5.json)
+
+[Extended Data](ext_articles/97110ed5.ext.json)
+
+---
+
+### Accomplice of ‘Backhoe Saman’ arrested with firearm remanded
+
+*2025-09-14 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112494/accomplice-of-backhoe-saman-arrested-with-firearm-remanded) · `en`
+
+An accomplice of underworld figure ‘Backhoe Saman’, who was arrested yesterday (13) along with a T-81 assault rifle, has been remanded, Ada Derana reporter said.
+
+The individual was arrested by the North Western Crimes Division in Embilipitiya on charges of transporting and being in possession of a firearm of ‘Backhoe Saman’.
+
+Police have identified the suspect as a resident of the Gangeyaya area in Embilipitiya.
+
+During the arrest, police recovered a T81-type firearm, 97 bullets, two magazines and a military uniform from his possession.
+
+◼️
+
+[Data](articles/4b4258b0.json)
+
+[Extended Data](ext_articles/4b4258b0.ext.json)
+
+---
+
+### The proper purpose of the Presidential Fund is the Prime Minister
+
+*2025-09-14 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214564) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the presidential fund was impassated by privileged groups during the past regime.
+
+Prime Minister Dr. Harai Amarasuriya made these comments participating in the program auditorium in the Kandy District Secretariat today (14).
+
+At the GCE Advanced Level 6, 361 students have been awarded Rs. 36.1 million for 361 students.
+
+Speaking further Prime Minister Harini Amarasuriya said that the actual objective of the Presidential Fund is under the current government and the presidential fund is currently working under the present village.
+
+It was said that the presidential fund has taken steps to implement a program to doctors and that a program to support children contributes to the creation of a good human resource.
+
+The Prime Minister said that the Prime Minister would be able to realize the children's dreams to create an open-minded human resource instead of the education system under one framework.
+
+...
+
+[Data](articles/4abcafa3.json)
+
+[Extended Data](ext_articles/4abcafa3.ext.json)
 
 ---

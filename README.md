@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 04:53:54**
+As of **2025-09-16 05:20:22**
 
 ## Newspaper Stats
 
-*Scraped **76,166** Articles*
+*Scraped **76,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 773
 economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
-dailyftlk | 5,394
+dailyftlk | 5,396
 adalk | 7,393
 adaderanalk | 9,808
 tamilmirrorlk | 11,398
@@ -26,11 +26,47 @@ adaderanasinhalalk | 13,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,662 (95.4%) of 76,166 articles have been extended.
+72,671 (95.4%) of 76,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
+
+### Govt. assures no forced job cuts in CEB reforms: Minister
+
+*2025-09-16 05:01:47* · [`dailyftlk`](https://www.ft.lk/news/Govt-assures-no-forced-job-cuts-in-CEB-reforms-Minister/56-781745) · `en`
+
+Energy Minister Eng. Kumara Jayakody says all employees notified to express their views within two months; stresses process is legal requirement and not move by Govt. to pressure workers
+
+Announces Govt. opted to offer more favourable package, extending Rs. 5 m VRS to all employees without discrimination
+
+Criticises certain trade unions, questioning whether their actions truly represented employee welfare or politically motivated
+
+Energy Minister Eng. Kumara Jayakody yesterday assured that the Government’s restructuring of the Ceylon Electricity Board (CEB) will not undermine employee job security or labour rights, despite trade union concerns and ongoing protest threats.
+
+...
+
+[Data](articles/578b8cb1.json)
+
+---
+
+### Major transport hubs face overhaul under Clean Sri Lanka program
+
+*2025-09-16 04:59:49* · [`dailyftlk`](https://www.ft.lk/news/Major-transport-hubs-face-overhaul-under-Clean-Sri-Lanka-program/56-781744) · `en`
+
+Colombo Central Bus Terminal gets complete facelift for first time in 60 years, with Rs. 425 m; expects project to be completed by April 2026
+
+Begins renovation of historic Maradana Railway Station as part of broader plan to upgrade 100 stations countrywide via PPP under Dream Destination initiative
+
+Transport, Highways, Ports, and Civil Aviation Minister Bimal Rathnayake reveals plans to set up 50 multimodal transport centres by 2029 with 15 of them expected next year
+
+The Government yesterday launched two landmark transport infrastructure projects; the full redevelopment of the Colombo Central Bus Terminal and the renovation of the historic Maradana Railway Station under the Clean Sri Lanka program and its broader policy vision of “A Thriving Nation – A Beautiful Life.”
+
+...
+
+[Data](articles/27766c39.json)
+
+---
 
 ### Planning to modernize the Maradana railway station
 
@@ -2037,51 +2073,5 @@ If the president has time, we ask for five minutes to walk in this area to under
 [Data](articles/8af73522.json)
 
 [Extended Data](ext_articles/8af73522.ext.json)
-
----
-
-### Our primary goal is to strengthen the country's transport.
-
-*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-போக்குவரத்தை-வலுப்படுத்துவதே-எங்கள்-முதன்மையான-குறிக்கோள்/175-364616) · `ta`
-
-Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said on Monday (15)
-
-Minister Bimal Ratnayake said trains, buses and texies would be built from one place to be booked from one place.
-
-Minister of State also said that the government's aim was to open at least fifty -fifty transport centers in Sri Lanka by 2029.
-
-Minister Bimal Ratnayake said this while addressing the inauguration ceremony at the Central Bus Stand at Pettah.
-
-The project was launched under the leadership of President Anura Kumara Dissanayake. "Our primary goal is to strengthen the country. No matter how many roads are constructed, no matter how many traffic lights are installed, the economy of a country cannot be improved.
-
-In the last thirty to forty years, the public transport system has fallen greatly due to fraud and corruption.
-
-If the president has time, we ask for five minutes to walk in this area to understand how the people of this country use this main bus station.
-
-...
-
-[Data](articles/f6a7070a.json)
-
-[Extended Data](ext_articles/f6a7070a.ext.json)
-
----
-
-### Scholarships from President Fund to low income students
-
-*2025-09-15 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225121) · `ta`
-
-Scholarships were provided to students from low -income families from the presidential fund.
-
-The President's Fund to provide scholarships for school children from economically disadvantaged families in the Kandy - Mahayawa area was held at the Kandy District Secretariat yesterday (14).
-
-During a field inspection conducted by the President's Fund on 31st May 2025, it was appropriate to implement development projects in order to improve the living standards of the people of the West Grama Niladhari Division of the Kandy - Mahayawa Poornawatta.
-
-Accordingly, in the first phase of the event, 28 students were given scholarships.
-
-◼️
-
-[Data](articles/fcf3748b.json)
-
-[Extended Data](ext_articles/fcf3748b.ext.json)
 
 ---

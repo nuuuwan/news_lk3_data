@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 11:41:18**
+As of **2025-09-15 11:08:16**
 
 ## Newspaper Stats
 
-*Scraped **76,042** Articles*
+*Scraped **76,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,211 +18,85 @@ dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,379
 adaderanalk | 9,779
-tamilmirrorlk | 11,380
+tamilmirrorlk | 11,376
 virakesarilk | 12,396
-adaderanasinhalalk | 13,266
+adaderanasinhalalk | 13,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,783 (94.4%) of 76,042 articles have been extended.
+71,761 (94.4%) of 76,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### நாடளாவிய சுற்றிவளைப்பில்  15 பேர் கைது
-
-*2025-09-15 11:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-சுற்றிவளைப்பில்-15-பேர்-கைது/175-364612) · `ta`
-
-நாடு முழுவதும் குற்றச் செயல்களில் நேரடியாக ஈடுபட்டதற்காக தேடப்பட்டு வந்த 15 பேரை இலங்கை பொலிஸ் கைது செய்துள்ளது.
-
-இலங்கையில் போதைப்பொருள் மற்றும் குற்றச் செயல்களைத் தடுப்பதற்காக நேற்று ஞாயிற்றுக்கிழமை நடத்தப்பட்ட பல நடவடிக்கைகளின் போது சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸ் தெரிவித்துள்ளது.
-
-அவர்களில், 15 பேர் குற்றங்களில் நேரடியாக ஈடுபட்டதற்காகவும், 674 பேர் சந்தேகத்தின் பேரிலும் கைது செய்யப்பட்டனர்.
-
-பிடியாணை பிறப்பிக்கப்பட்ட 220 பேரையும், திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 155 பேரையும் பொலிஸார் கைது செய்தனர்.
-
-◼️
-
-[Data](articles/e303c380.json)
-
----
-
-### சுற்றி விடுங்க சேர்...
-
-*2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சுற்றி-விடுங்க-சேர்/62-364610) · `ta`
-
-◼️
-
-[Data](articles/7ee9a3fe.json)
-
----
-
-### ඉදිරියේදී ඔස්ට්‍රේලියාවට ඇති විය හැකි බරපතළ අවදානමක් ගැන හෙළිදරව්වක්
-
-*2025-09-15 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214589) · `si`
-
-2050 වසර වන විට වෙරළබඩ ප්‍රදේශවල ජීවත් වන ඔස්ට්‍රේලියානු ජාතිකයින් මිලියන 1.5කට මුහුදු මට්ටම ඉහළ යාමේ හේතුවෙන් අවදානමකට මුහුණ දීමට සිදුවිය හැකි බව එරට දේශගුණික වාර්තාවක් උපුටා දක්වා තිබේ.
-
-ඒ අනුව ඔස්ට්‍රේලියානු ජාතිකයින්ට ගංවතුර, සුළි සුළං, තාප තරංග, නියඟය සහ ලැව්ගිනි යන ස්වභාවික ආපදා තත්ත්වයන්ට නිරන්තරයෙන් ගොදුරුවීමේ අවදානමක් පැවතිය හැකි බව අදාළ වර්තාව මගින් පුරෝකතනය කර ඇත.
-
-එරට දේශගුණික විපර්යාස අමාත්‍ය ක්‍රිස් බෝවන් පවසන්නේ දැනටමත් ඔස්ට්‍රේලියානු ජාතිකයින් අදාළ දේශගුණික විපර්යාසයන්ට මුහුණ දී සිටින බවය.
-
-මේ වන විටත් ඔස්ට්‍රේලියාවේ උෂ්ණත්වය සෙල්සියස් අංශක 1.5ට ළගා වී ඇති අතර එය සෙල්සියස් අංශක 3 වුවහොත් උෂ්ණත්වය හේතුවෙන් මියයන පුද්ගලයින් සංඛ්‍යාව සියයට 400ක් දක්වා ඉහළ යාමේ අවදානමක් පවතින බවද අදාළ වාර්තාව උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-◼️
-
-[Data](articles/29d6a115.json)
-
----
-
-### අඩු ආදායම්ලාභී පවුල්වල සිසු දරුවන්ට ජනාධිපති අරමුදලින් ශිෂ්‍යාධාර
-
-*2025-09-15 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214588) · `si`
-
-ජනාධිපති අරමුදල මගින්, මහයියාව ප්‍රදේශයේ ආර්ථික අපහසුතා ඇති පවුල්වල පාසල් දරු දැරියන් සඳහා ශිෂ්‍යාධාර ලබා දීමේ වැඩසටහනක් කථානායක ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන්  මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී ඊයේ (14) පැවැත්විණි.
-
-මහයියාව පුර්ණවත්ත බටහිර ග්‍රාම නිලධාරී වසමට අයත් ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීම අරමුණු කර ගනිමින් 2025 මැයි 31 දින  ජනාධිපති අරමුදලේ නිලධාරින් විසින් සිදු කරන ලද ක්ෂේත්‍ර පරීක්ෂණයේදි සංවර්ධන වැඩසටහන් ක්‍රියාත්මක කිරීම සුදුසු බව නිරීක්ෂණය වූ අතර එහි එක් පියවරක් ලෙස පාසල් දරුවන් සඳහා ශිෂ්‍යාධාර ලබා දීමේ වැඩසටහන ක්‍රියාවට නැංවිණි.
-
-එහි පළමු අදියර යටතේ සිසු සිසුවියන් 28 දෙනෙක් සඳහා ශිෂ්‍යාධාර ලබා දී‌ම මෙහිදී සිදු විය.
-
-◼️
-
-[Data](articles/9679186f.json)
-
----
-
-### To whom
-
-*2025-09-15 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/யாருக்குக்-கொடுத்து-வைத்திருக்கிறதோ/54-364607) · `ta`
-
-Tamanna made his debut in cinema with a Hindi film called Sant Sa Roshan Sehara.  Tamanna later made his debut in Tamil cinema. But his care was only through college and ion films. Subsequently, she became a top actress in the leading actors.
-
-But at one point, Tamanna's chances began to decline after the arrival of the new heroes. Now Bollywood film opportunities have begun to come to him. Bollywood has played next Garda and Last Storms 2. In both of these films he played kisses and bedroom scenes. In the meantime, he has separated from a short love with Bollywood actor Vijay Verma.
-
-Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the best life companion to the one who is going to marry. He must think that I have got him in this way because of his honor.  I am now working for that lucky. I don't know who is giving. ”
-
-◼️
-
-[Data](articles/a50e3d36.json)
-
-[Extended Data](ext_articles/a50e3d36.ext.json)
-
----
-
-### Boat for Boating in his own firearm
-
-*2025-09-15 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214587) · `si`
-
-In the Radnanara area of ​​the Radnanara area, a person was traveling on a gun in front of his motorcycle and was killed due to the gun.
-
-Initial police investigations have revealed that he had also kept a barrel of barrel to filter an illegal alcohol in addition to the gun.
-
-◼️
-
-[Data](articles/6d8a1033.json)
-
-[Extended Data](ext_articles/6d8a1033.ext.json)
-
----
-
-### The President started the work of the bus stand in Pettah Fort
+### புறக்கோட்டை  பேருந்து நிலையபுனரமைப்புப் பணிகளை ஆரம்பித்தார் ஜனாதிபதி
 
 *2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-மத்திய-பேருந்து-நிலையத்தின்-புனரமைப்புப்-பணிகள்-ஆரம்பம்/175-364606) · `ta`
 
-The renovation work of the Belikottai bus stand has been officially started under the leadership of President Anura Kumara Dissanayake.
+புறக்கோட்டைமத்திய பேருந்து நிலையத்தின் புணர்நிர்மான பணிகள் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் தலைமையில் அதிகாரப்பூர்வமாக ஆரம்பிக்கப்பட்டுள்ளன.
 
-Built in 1964, the bus station has been subjected to large improvements for the first time in 60 years.
+1964 ஆம் ஆண்டு முதன் முதலில் கட்டப்பட்ட இந்த பேருந்து நிலையம், 60 ஆண்டுகளில் முதல் முறையாக பெரிய அளவிலான மேம்பாடுகளுக்கு உட்பட்டுள்ளது.
 
-The project is expected to cost Rs 424 million. The Central Bus Stand will be constructed with modern facilities, including new toilets, information and communication centers, upgraded security organizations and other major infrastructure improvements aimed at improving the experience of passengers.
+இந்தத் திட்டத்திற்கு ரூ.424 மில்லியன் செலவாகும் என்று எதிர்பார்க்கப்படுகிறது. புணர்நிர்மான பணிகளின் ஒரு பகுதியாக, புதிய கழிப்பறைகள், தகவல் மற்றும் தகவல் தொடர்பு நிலையங்கள்,மேம்படுத்தப்படும் பாதுகாப்பு அமைப்புகள் மற்றும் பயணிகளின் அனுபவத்தை மேம்படுத்துவதை நோக்கமாகக் கொண்ட பிற முக்கிய உள்கட்டமைப்பு மேம்பாடுகள் உள்ளிட்ட நவீன வசதிகளுடன்  புறக்கோட்டை மத்திய பேருந்து நிலையம் நிர்மாணிக்கப்படவுள்ளது.
 
 ◼️
 
 [Data](articles/e3d62ce7.json)
 
-[Extended Data](ext_articles/e3d62ce7.ext.json)
-
 ---
 
-### The President started the reconstruction work of the bus stand
-
-*2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-பேருந்து-நிலைய-புனரமைப்புப்-பணிகளை-ஆரம்பித்தார்-ஜனாதிபதி/175-364606) · `ta`
-
-The renovation work of the Belikottai bus stand has been officially started under the leadership of President Anura Kumara Dissanayake.
-
-Built in 1964, the bus station has been subjected to large improvements for the first time in 60 years.
-
-The project is expected to cost Rs 424 million. The Central Bus Stand will be constructed with modern facilities, including new toilets, information and communication centers, upgraded security organizations and other major infrastructure improvements aimed at improving the experience of passengers.
-
-◼️
-
-[Data](articles/f83b93ad.json)
-
-[Extended Data](ext_articles/f83b93ad.ext.json)
-
----
-
-### Ulse in the lifts: leaked views
+### லிஃப்டுக்குள் உல்லாசம்: கசிந்த காட்சிகள்
 
 *2025-09-15 10:49:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிஃப்டுக்குள்-உல்லாசம்-கசிந்த-காட்சிகள்/175-364604) · `ta`
 
-The controversy between famous culinary artist and actor Madhampatti Rangaraj and clothing designer Joy Chrisilda has reached a new twist with the lift photos that are going viral on the Internet.
+பிரபல சமையல் கலைஞரும் நடிகருமான மாதம்பட்டி ரங்கராஜ் மற்றும் ஆடை வடிவமைப்பாளர் ஜாய் கிரிஸில்டா இடையிலான உறவு சர்ச்சை, இணையத்தில் வைரலாகி வரும் லிஃப்ட் புகைப்படங்களால் புதிய திருப்பத்தை எட்டியுள்ளது.
 
-These photos, which are said to have been close and flirted, have spread on social networks and shocked the public.
+இருவரும் நெருக்கமாக, உல்லாசமாக இருந்ததாகக் கூறப்படும் இந்த புகைப்படங்கள், சமூக வலைதளங்களில் பரவி, பொதுமக்களை அதிர்ச்சியில் ஆழ்த்தியுள்ளன.
 
-This issue has caused a fierce debate in the community focusing on the dual standards of men's community.
+இந்த விவகாரம், ஆண்கள் சமூகத்தின் இரட்டைத் தரத்தை மையமாகக் கொண்டு சமூகத்தில் கடும் விவாதத்தை ஏற்படுத்தியுள்ளது.
 
-Madhampatti Rangaraj first accused Joy of Joy Chrisilda that he was already married to his fame and wealth, knowing that he was already married. ஆனால், ஜாய் தனது தரப்பு நியாயங்களை சமூக வலைதளங்களில் பதிவு செய்த பிறகு, பொதுமக்களின் கருத்து மாறத் தொடங்கியுள்ளது.
-
-Madhampatti Rangaraj first accused Joy of Joy Chrisilda that he was already married to his fame and wealth, knowing that he was already married. But after Joy has recorded his judgment on social networks, the public's opinion has begun to change.
+மாதம்பட்டி ரங்கராஜ், ஏற்கனவே திருமணமானவர் என்று அறிந்தும், அவரது புகழ் மற்றும் செல்வத்தின் மீது ஆசைப்பட்டு ஜாய் கிரிஸில்டா அவரை கவர்ந்ததாக சமூகம் முதலில் குற்றஞ்சாட்டியது. ஆனால், ஜாய் தனது தரப்பு நியாயங்களை சமூக வலைதளங்களில் பதிவு செய்த பிறகு, பொதுமக்களின் கருத்து மாறத் தொடங்கியுள்ளது.
 
 ...
 
 [Data](articles/ab1f34f5.json)
 
-[Extended Data](ext_articles/ab1f34f5.ext.json)
-
 ---
 
-### The boy drowned in the water
+### நீராடச் சென்ற சிறுவன் நீரில் மூழ்கி மரணம்
 
 *2025-09-15 10:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராடச்-சென்ற-சிறுவன்-நீரில்-மூழ்கி-மரணம்/175-364602) · `ta`
 
-An 11 -year -old boy who was drowned in the Devahuwa reservoir in Galewela area was drowned.
+கலேவெல பகுதியில் உள்ள தேவஹுவ நீர்த்தேக்கத்தில் நீராடச் சென்ற 11 வயது சிறுவன் நீரில் மூழ்கி உயிரிழந்தார்.
 
-This was the case when the deceased boy went to the reservoir with his father and relatives.
+இறந்த சிறுவன் தனது தந்தை மற்றும் உறவினர்களுடன் நீர்த்தேக்கத்தில் நீராடச் சென்றபோது இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
 
-Initial investigations revealed that the relatives and the residents of the area rescued the boy and admitted to the Galewela Hospital.. Remble
+உறவினர்கள் மற்றும் அப்பகுதி மக்கள் இணைந்து சிறுவனை மீட்டு கலேவெல வைத்தியசாலையில் அனுமதித்துள்ள போதும், அவர் உயிரிழந்ததாக ஆரம்பகட்ட விசாரணையில் தெரியவந்தது. R
 
 ◼️
 
 [Data](articles/4e66906e.json)
 
-[Extended Data](ext_articles/4e66906e.ext.json)
-
 ---
 
-### “Embilipitiya Mines
+### “எம்பிலிப்பிட்டியே சுரங்க’’ கக்கினார்: ஈரானியர்கள் பறந்தனர்
 
 *2025-09-15 10:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்பிலிப்பிட்டியே-சுரங்க-கக்கினார்-ஈரானியர்கள்-பறந்தனர்/175-364601) · `ta`
 
-The Kalutara Criminal Investigation Department said that suspected equipment, chemicals and a car were seized at a holiday hotel in the Hambantota area suspected to make ice drugs.
+ஐஸ் போதைப்பொருள் தயாரிப்பதாக சந்தேகிக்கப்படும் ஹம்பாந்தோட்டை பகுதியில் உள்ள ஒரு விடுமுறை விடுதியில் நிறுத்தி வைக்கப்பட்டிருந்த சந்தேகத்திற்குரிய உபகரணங்கள், ரசாயனங்கள் மற்றும் ஒரு கார் பறிமுதல் செய்யப்பட்டதாக களுத்துறை குற்றப்பிரிவு தெரிவித்துள்ளது.
 
-These were seized based on information obtained from the "Embilipitiya Mines" which is being investigated by the Prevention of the Kalutara Criminal Investigation Committee.
+களுத்துறை குற்றப்பிரிவு விசாரணைக் குழுவின் தடுப்பு உத்தரவின் பேரில் விசாரிக்கப்படும் "எம்பிலிப்பிட்டியே சுரங்க" என்பவரிடமிருந்து பெறப்பட்ட தகவல்களின் அடிப்படையில், இவை கைப்பற்றப்பட்டன.
 
 இந்தோனேசியாவிலிருந்து நாட்டிற்கு கொண்டு வரப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் தொடர்பாக கைது செய்யப்பட்டு விசாரணைக்காக தடுத்து வைக்கப்பட்டுள்ள எம்பிலிப்பிட்டியே சுரங்காவிடம் இருந்து கிடைத்த தகவலின் பேரில் விசாரணைகள் நடத்தப்பட்டன. ​​
 
-According to police, 13 cans of 52 liters of chemicals suspected to have been used to produce ice and several equipment suspected of using ice drugs were found, police said.
-
-A luxury car parked in the restaurant, which is currently registered in the name of an organized criminal gang abroad, has been confiscated, police said.
+அதனடிப்படையில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் 52 லீற்றர் ரசாயனங்கள் மற்றும் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் பல உபகரணங்கள் அடங்கிய 13 கேன்கள் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
 
 ...
 
 [Data](articles/01a7ee5a.json)
-
-[Extended Data](ext_articles/01a7ee5a.ext.json)
 
 ---
 
@@ -262,19 +136,17 @@ At the same time, anti -racists carried out a protest against Tommy Robinson's r
 
 ---
 
-### Signature Struggle for North and East Fossils
+### வடக்கு, கிழக்கு புதைக்குழிகளுக்கு நீதிகோரி யாழில் கையெழுத்து போராட்டம்
 
 *2025-09-15 10:16:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-புதைக்குழிகளுக்கு-நீதிகோரி-யாழில்-கையெழுத்து-போராட்டம்/175-364597) · `ta`
 
-The signature struggle was launched on Monday (15) in the Marudanarmadam area in Jaffna by the Young Voice Organization demanding international justice for human burials and genocide in the North and East, including Semmani.
+செம்மணி உள்ளிட்ட வடக்கு கிழக்கில் காணப்படும் மனித புதைகுழிகளுக்கும் நடைபெற்ற இனப்படுகொலைகளுக்கும் சர்வதேச நீதி கோரி இளையோர் குரல் அமைப்பினால் யாழ்ப்பாணத்தில் மருதனார்மடம் பகுதியில் திங்கட்கிழமை (15) அன்று கையெழுத்து போராட்டம் முன்னெடுக்கப்பட்டது.
 
-Representatives of the Youth Organization, Jaffna Marudanarmadam traders, market traders and many others participated in the struggle for change.
+இக்கையெழுத்து மாற்றத்திற்கான போராட்டத்தில் இளையோர் அமைப்பின் பிரதிநிதிகள் உறுப்பினர்கள்  யாழ் மருதனார்மடம் வர்த்தகர்கள் சந்தை வியாபாரிகள் பொதுமக்கள் என பலரும் கலந்து கொண்டனர்.
 
 ◼️
 
 [Data](articles/daada4d6.json)
-
-[Extended Data](ext_articles/daada4d6.ext.json)
 
 ---
 
@@ -604,25 +476,17 @@ A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging th
 
 ---
 
-### In Sri Lanka, Ice has come from Iran
+### ලංකාවේදී අයිස් නිපදවන්න ඉරානයෙන් ඇවිත්
 
 *2025-09-15 08:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේදී-අයිස්-නිපදවන්න-ඉරානයෙන්-ඇවිත්/11-418498) · `si`
 
 කළුතර අපරාධ කොට්ඨාසය මගින් රැඳවුම් නියෝග මත ප්‍රශ්න කරන "ඇඹිලිපිටියේ සුරංග" නැමැත්තාගෙන් ලබා ලබාගත් තොරතුරු වලට අනුව අයිස් මත්ද්‍රව්‍ය  නිෂ්පාදනය කල බවට සැක කරන හම්බන්තොට ප්‍රදේශයේ නිවාඩු නිකේතනයක තිබී සැක උපකරණ , රසායනික ද්‍රව්‍ය තොගයක් සහ අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට එම අවන්හලේ නවතා තිබූ මෝටර් රථයක් අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
 
-Police said that he was arrested and was arrested in the investigation of the ice drugs from the Surai, which was arrested and used by an organized criminals from Indonesia.
-
-Police have also taken into police custody that a luxury car has been taken into police custody at the rest of the restaurant.
-
-The car is the car taken to transport heroin about two years ago, police said.
-
-According to the information revealed, several Iranian nationals in the Mayurapura area and several people in the Mayurapura area have been produced by the Iranian.
+ඉන්දුනීසියාවේ සිට මෙරටට රැගෙන ආ සංවිධානාත්මක අපරාධ කරුවන් සමග සබදතා පැවැත්වීම සම්බන්ධයෙන් අත් අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන ඇඹිලිපිටියේ සුරංග නමැත්තාගෙන් ලද තොරතුරක් මත සිදුකල විමර්ශන වලදී   තිබී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගත් බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය ලීටර් පනස් දෙකක් අඩංගු කෑන් 13 ක් සහ අයිස් මත්ද්‍රව්‍ය සෑදීමට යොදාගත් බවට සැක කරන තවත් උපකරණ රැසක් සොයාගත් බව පොලිසිය කීය.
 
 ...
 
 [Data](articles/973bb0a3.json)
-
-[Extended Data](ext_articles/973bb0a3.ext.json)
 
 ---
 
@@ -1300,25 +1164,23 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 
 ---
 
-### Sword Cut in Kuttanai: trio wound
+### குடத்தனையில் வாள் வெட்டு: மூவர் காயம்
 
 *2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-மூவர்-காயம்/175-364588) · `ta`
 
-Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
+யாழ். வடமராட்சி கிழக்கு குடத்தனை பகுதியில் வாள் வெட்டுக்குழு மேற்கொண்ட தாக்குதலில் ஒரே குடும்பத்தை சேர்ந்த மூவர் படுகாயங்களுக்கு உள்ளான நிலையில் மருத்துவமனையில் சிகிச்சிக்காக அனுமதிக்கப்பட்டுள்ளனர்.
 
-Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
+இச்சம்பவத்தில் குடத்தனை மேற்கை சேர்ந்த கோவிந்தசாமி உதயகலா (வயது 59) என்பவரும் அவரது மகன் கோவிந்தசாமி கபில்ராஜ் (வயது 25) மற்றும் அவரது மருமகனான கந்தசாமி நிதர்சன் (வயது 33) ஆகிய மூவர் படுகாயங்களுக்கு உள்ளான நிலையில் பருத்தித்துறை ஆதார வைத்தியசாலை யில் அனுமதிக்கப்பட்டனர்.
 
-Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
+கபில்ராஜ் மற்றும் நிதர்சன் ஆகிய இருவரும் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலை க்கு மாற்றப்பட்டுள்ளனர்.
 
-At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
+நேற்று முந்தினம் சனிக்கிழமை இரவு 9.00 மணியளவில் வன்முறை கும்பல் வாள்கள் சகிதம் வீட்டிற்குள் புகுந்து தாக்குதல் நடத்தியுள்ளது.
 
-The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
+இது தொடர்பில் மருதங்கேணி பொலிஸாருக்கு தகவல் வழங்கிய போதிலும் வாள் வெட்டுக்குழு இரவு 11.00 மணிக்கு பின்னர் அங்கிருந்து வெளியேறிச் சென்றபின்னரே தாமதமாக வந்ததாக பாதிக்கப்பட்ட குடும்பத்தினர் தெரிவித்துள்ளனர். (a)
 
 ◼️
 
 [Data](articles/7fed0e3c.json)
-
-[Extended Data](ext_articles/7fed0e3c.ext.json)
 
 ---
 
@@ -2023,5 +1885,125 @@ Founded in 2013, Arava has grown into a global export powerhouse, shipping its s
 [Data](articles/68c6a8b1.json)
 
 [Extended Data](ext_articles/68c6a8b1.ext.json)
+
+---
+
+### Pussalla Agri Ventures makes strategic investment in Sri Lanka’s spice tourism landscape
+
+*2025-09-14 18:53:00* · [`islandlk`](http://island.lk/pussalla-agri-ventures-makes-strategic-investment-in-sri-lankas-spice-tourism-landscape/) · `en`
+
+Pussalla Agri Ventures recently announced the grand opening of the first dedicated Ceylon Cinnamon outlet in Narigama, Hikkaduwa. This new establishment marks a significant step in the company’s mission to elevate the global profile of authentic Ceylon Cinnamon.
+
+More than a traditional retail space, the outlet is designed as an immersive experience center. Visitors can explore the full range of premium, value-added Pussalla cinnamon products, including quills, powders and essential oils. A key feature is the opportunity for guests to enjoy a freshly prepared cinnamon brew, engaging the senses and highlighting the product’s heritage and wellness benefits.
+
+...
+
+[Data](articles/6f59ab1d.json)
+
+[Extended Data](ext_articles/6f59ab1d.ext.json)
+
+---
+
+### Sensa Solutions Lanka honoured with National Business Excellence Awards
+
+*2025-09-14 18:53:00* · [`islandlk`](http://island.lk/sensa-solutions-lanka-honoured-with-national-business-excellence-awards/) · `en`
+
+Sensa Solutions Lanka (Pvt) Ltd, a leading provider of printing and packaging solutions, has been recognized for its exceptional performance at the National Business Excellence Awards 2025, organized by the National Chamber of Commerce of Sri Lanka.
+
+The company was awarded the Gold Award in the Printing & Related Services sector and received a Merit Award in the Medium Business Category. The esteemed awards ceremony was held on July 24, 2025, at the Shangri-La Hotel in Colombo.
+
+With nearly eight years of industry experience, Sensa Solutions has established a strong reputation for excellence. The company operates a fully-fledged manufacturing facility in Biyagama, employing over 120 skilled professionals. While its core client base includes major apparel brands in the UK, EU, and USA, Sensa Solutions has successfully expanded its services to cater to the Tea, Food, and Pharmaceutical sectors.
+
+...
+
+[Data](articles/950d437c.json)
+
+[Extended Data](ext_articles/950d437c.ext.json)
+
+---
+
+### Slim Pharmaceuticals appoints Riza Cassim as CEO
+
+*2025-09-14 18:52:00* · [`islandlk`](http://island.lk/slim-pharmaceuticals-appoints-riza-cassim-as-ceo/) · `en`
+
+Slim Pharmaceuticals (Pvt) Ltd., a leading force in Sri Lanka’s healthcare industry, announced the appointment of Riza Cassim as its new Chief Executive Officer. With over three decades of experience across multinational pharmaceutical giants, Cassim brings a wealth of expertise, a proven track record of leadership, and a clear vision for the future of Slim Pharmaceuticals.
+
+...
+
+[Data](articles/4e836e4e.json)
+
+[Extended Data](ext_articles/4e836e4e.ext.json)
+
+---
+
+### Former World Boxing Champion Ricky Hatton has passed away
+
+*2025-09-14 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225081) · `ta`
+
+Former World Boxing Champion Ricky Hatton passed away at his home on Sunday 14th.
+
+Ricky Hatton, who is 42 years old at the time of his death, has won many Light-Vetervite and Welterwide World Championships in her 15-year-old boxing life.
+
+What is unique is that he has recorded knockout wins in 32 matches.
+
+It is noteworthy that Ricky Hatton finally participated in a boxing match in 2012.
+
+◼️
+
+[Data](articles/c9dd6db3.json)
+
+[Extended Data](ext_articles/c9dd6db3.ext.json)
+
+---
+
+### From marginalised voices to model UN champions: Sri Lankan youth break barriers at SLMUN 2025
+
+*2025-09-14 18:43:00* · [`islandlk`](http://island.lk/from-marginalised-voices-to-model-un-champions-sri-lankan-youth-break-barriers-at-slmun-2025/) · `en`
+
+Eighteen youth advocates from marginalized communities, supported by Child Action Lanka (CAL), transformed from local activists into award-winning diplomats at the 18th Sri Lanka Model United Nations (SLMUN) conference, held on August 16-17, 2025.
+
+Their participation was sponsored by the SLMUN Executive Committee as a direct result of their powerful advocacy at Sri Lanka’s first Child Rights Council, convened by CAL in April 2025.
+
+Representing CAL centers from Colombo, Killinochchi, Mullaitivu, Batticaloa, Nuwara Eliya, Kandy, and Bogawantalawa, the delegates overcame significant obstacles to prepare. With limited access to technology and research facilities, they relied on dedicated mentorship from CAL volunteers to master diplomatic protocol and complex global issues.
+
+...
+
+[Data](articles/f7e08d45.json)
+
+[Extended Data](ext_articles/f7e08d45.ext.json)
+
+---
+
+### MP Gnanamal suffers an accident
+
+*2025-09-14 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214568) · `si`
+
+Mr. Gnanamuttu Sivawan, Mr. Gnanamuttu Srinane, was injured in an accident.
+
+The MP was in charge of the party today (14) and returned to Batticaloa and returned to Batticaloa.
+
+It is reported that the accident had occurred in the Kalawanchikudi vehicle.
+
+◼️
+
+[Data](articles/0f859e24.json)
+
+[Extended Data](ext_articles/0f859e24.ext.json)
+
+---
+
+### Mosquito like beer drinking
+
+*2025-09-14 18:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/பீர்-குடித்தால-கொசுவுக்கு-பிடிக்குமாம்/53-364571) · `ta`
+
+A study conducted by Radbound University Medical Center that mosquitoes are more attracted to the sweat smell of beer drinkers;
+
+Researchers say that mosquitoes are likely to get bite for the first 12 hours of beer drinkers
+
+◼️
+
+[Data](articles/8133b0e9.json)
+
+[Extended Data](ext_articles/8133b0e9.ext.json)
 
 ---

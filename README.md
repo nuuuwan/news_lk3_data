@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 21:07:30**
+As of **2025-09-15 22:21:51**
 
 ## Newspaper Stats
 
-*Scraped **76,146** Articles*
+*Scraped **76,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,249 @@ economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,392
-adaderanalk | 9,804
+adalk | 7,393
+adaderanalk | 9,807
 tamilmirrorlk | 11,396
-virakesarilk | 12,410
-adaderanasinhalalk | 13,288
+virakesarilk | 12,414
+adaderanasinhalalk | 13,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,324 (95.0%) of 76,146 articles have been extended.
+72,361 (95.0%) of 76,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### ගින්නකින් මැනිලා නුවර පැල්පත් නිවාස දහසක් වැනසේ
+### இலங்கை அணிக்கு வெற்றி இலக்காக 150 ஓட்டங்கள் நிர்ணயம்
+
+*2025-09-15 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225179) · `ta`
+
+இலங்கை மற்றும் ஹாங்காங் அணிகளுக்கு இடையிலான ஆசிய கிண்ண கிரிக்கெட் இருபதுக்கு 20 போட்டி தற்போது நடைபெற்று வருகிறது.
+
+அதன்படி, ஹாங்காங் அணி 20 ஓவர்களில் முடிவில் 4 விக்கெட்டுகள் மட்டுமே இழந்து 149 ரன்கள் எடுத்தது.
+
+◼️
+
+[Data](articles/fe110da0.json)
+
+---
+
+### ශ්‍රී ලංකා කණ්ඩායමට ලකුණු 150ක ඉලක්කයක්
+
+*2025-09-15 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214613) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ හොංකොං කණ්ඩායම අතර තරගය මේ වන විට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායමේ ආරාධනයෙන් ප්‍රථමයෙන් පන්දුවට පහරදීමට පිටියට පිවිසි හොංකොං කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් පමණක් බිඳ වැටී ලකුණු 149ක් රැස් කිරීමට සමත් විය.
+
+පන්දුවට පහර දීමේ දී හොංකොං කණ්ඩායම වෙනුවෙන් නිසාකත් ඛාන් නොදැවී ලකුණු 52ක් රැස්කළේය.
+
+පන්දු යැවීමේ දී  ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් දුශ්මන්ත චමීර කඩුලු 2ක් බිඳ හෙළීමට සමත් විය.
+
+ඒ අනුව තරගය ජය ගැනීම ස﻿ඳහා ශ්‍රී ලංකා කණ්ඩායමට ලකුණු  150ක ඉලක්කයක් හිමිවී තිබේ.
+
+◼️
+
+[Data](articles/bffb889c.json)
+
+---
+
+### சொகுசு வீடு வாங்கியதாக சுமத்தப்பட்ட குற்றச்சாட்டுகளை சுனில் வட்டகல மறுப்பு!
+
+*2025-09-15 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225153) · `ta`
+
+சினமன் லைஃப் வளாகத்தில் சொகுசு வீடு வாங்கியதாக சமூக ஊடகங்களில் பரவி வரும் குற்றச்சாட்டுகளை பொது பாதுகாப்பு பிரதி அமைச்சர் சுனில் வட்டகல மறுத்துள்ளார்.
+
+வட்டகல இந்தக் கூற்றுக்களை "தவறானவை மற்றும் தனது நற்பெயருக்கு சேதம் விளைவிக்கும் நோக்கம் கொண்டவை" என்று தமது அதிகாரப்பூர்வ பேஸ்புக் பக்கத்தில் அறிக்கையொன்றை வெளியிட்டு நிராகரித்துள்ளார்.
+
+மேலும் தனது அனைத்து சொத்துக்கள் மற்றும் பொறுப்புகளும் தனது அதிகாரப்பூர்வ சொத்து வெளிப்படுத்தல்களில் முறையாக அறிவிக்கப்பட்டுள்ளன என்பதையும் அவர் வலியுறுத்தியுள்ளார்.
+
+இந்த கட்டுக்கதைகள் ஒருங்கிணைந்த அவதூறு பிரச்சாரத்தின் ஒரு பகுதியாகும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+போதைப்பொருள் கடத்தல் வலையமைப்புகள் மற்றும் அவற்றுடன் தொடர்புடையதாகக் கூறப்படும் நபர்களை அம்பலப்படுத்துவதற்கான தனது அண்மைய முயற்சிகளுடன் குற்றச்சாட்டுகளை இணைத்துக் கூறியுள்ளார்.
+
+...
+
+[Data](articles/ead9eb47.json)
+
+---
+
+### கடந்த கால ஆட்சியாளர்களால் ஆரம்பிக்கப்பட்ட 17  திட்டங்கள் இடைநடுவே கைவிடப்பட்டுள்ளன - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
+
+*2025-09-15 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225178) · `ta`
+
+கடந்த கால ஆட்சியாளர்களால் ஆரம்பிக்கப்பட்ட 17  திட்டங்கள் இடைநடுவே கைவிடப்பட்டுள்ளன . உரிய காலப்பகுதிக்குள் அப்பணிகளை நிறைவுசெய்ய தவரியதால்,  சுமார் 29 பில்லியன் ரூபா பணத்தை மேலதிகமாக செலவிட  வேண்டிய நிலை உருவாகியுள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+மொரட்டுவை பல்கலைக்கழக மருத்துவ பீடத்தின்  இறுதியாண்டை சேர்ந்த 100 மருத்துவ மாணவர்களுக்கான  பேராசிரியர் வழிமுறை பயிற்சிகள் திங்கட்கிழமை (15) களுத்துறை நாகொட போதனா வைத்தியசாலையில் சுகாதார அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் ஆரம்பித்து வைக்கப்பட்டது.
+
+2017 ஆம் ஆண்டு எதிர்க்கட்சி பாராளுமன்ற உறுப்பினராக இருந்தபோது  மொரட்டுவை மற்றும் ஊவா வெல்லஸ்ஸ ஆகிய  பல்கலைக்கழகங்களுக்கான மருத்துவ பீடம் மற்றும் மொரட்டுவை பல்கலைக்கழக மருத்துவ மாணவர்களுக்கு பயிற்சி அளிக்க  களுத்துறை நாகொட வைத்தியசாலையை  வழங்குமாறு கோரியும் தனிநபர் பிரேணை ஒன்றை பாராளுமன்றத்தில் முன்வைத்திருந்தேன்.   அப்போதைய ஆட்சியாளர்களின் பிரேதேச ரீதியான தீர்மானங்களினால் அதை சாத்தியப்படுத்துவது சிரமமான காரியமாக இருந்தது.
+
+...
+
+[Data](articles/5ffd8cc8.json)
+
+---
+
+### கிளிநொச்சியில் பாதுகாப்புப் படையினர் வசமிருந்த 30 ஏக்கர் நிலங்கள் விடுவிப்பு
+
+*2025-09-15 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225177) · `ta`
+
+கிளிநொச்சி மாவட்டத்தில் பாதுகாப்பு படையினர் வசமிருந்த முப்பது ஏக்கர் வரையான காணிகள் விடுவிக்கப்பட்டுள்ளன.
+
+கடந்த 2009 ஆண்டு முதல் பாதுகாப்பு படையினர் வசமிருந்த தனியார் மற்றும் அரச காணிகள் கட்டம்  கட்டமாக விடுவிக்கப்பட்டு வந்துள்ளன.
+
+அதன் தொடர்சியாக கிளிநொச்சி மாவட.டத்தின் பூனகரி பிரதேச செயலாளர் பிரிவின் கீழுள்ள பொன்னாவெளி  கிராம அலுவலர் பிரிவிலுள்ள 07 ஏக்கர்  காணி கடந்த (07-09-2025) அன்று விடுவிக்கப்பட்டு  பிரதேச செயலாளரிடம் கையளிக்கப்பட்டுள்ளது குறித்த காணி தற்காலிகமாக மரமுந்திரிகை கூட்டுத்தாபனத்திடம் பொறுப்பில் கையளிக்கப்பட்டுள்ளதாகவும்
+
+இதே போன்று நல்லூர் கிராம அலுவலர் பிரிவிலுள்ள  முட்கொம்பன்  பகுதியில் இரானுவத்தினர் வசமிருந்த 20  ஏக்கர்  காணி விடுவிக்கப்பட்டுள்ளது
+
+அத்துடன் பச்சிலைப்பள்ளி பிரதேச செயலாளர் பிரிவின் கீழுள்ள இயக்கச்சி  பகுதியில் இரானுவத்தினர் வசமிருந்த தணியாருக்கு சொந்தமான எட்டுப் பேரின்  காணியும்  விடுவிக்கப்பட்டுள்ளதாக  மாவட்ட அரச அதிபர் சுப்பிரமணியம் முரளிதரன் எதரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/090d649e.json)
+
+---
+
+### Srackey arrested for the death of the death of the state of the sleeping good
+
+*2025-09-15 20:49:44* · [`adalk`](https://www.ada.lk/breaking_news/නිදි-යහනේ-මියගිය-රාජ්‍ය-සේවිකාවගේ-මරණය-ඝාතනයක්---සාක්කි-දෙන්න-පැමිණි-සැමියා-අත්අඩංගුවට/11-418513) · `si`
+
+Dambulla Police say that her husband was arrested on behalf of the death inspection of the death of the death of the death of the state of the state of death.
+
+Thirty-four-year-old mother of Thirty-four-year-old residents of Thumbulla has been identified as killed. She was serving as the Managing Service Officer of the Galewela Zonal Education Office
+
+දඹුල්ල තිත්තවැල්ගොල්ල ප්‍රදේශයේ නිවසක කාමරයක් තුළ පසුගිය දහතුන් වන දින කාන්තාවක් නිදි යහනේ සිටියදී මිය ගොස් ඇති බව පොලිසියට තොරතුරු ලැබී තිබිණි
+
+Her husband had told the police that his wife had gone to sleep and was informed about the ninth ninteen night.
+
+He had told the police that the Ambassador to the 1990 lagoon was aimed at a waking up of his wife at night.
+
+However, Dambulla Headquarters Inspector Sugath Wijesundara was instructed by police officers in serious serious incident.
+
+The Dambulla Police had permitted a post mortem with the death of the Death Magistrate's Court.
+
+...
+
+[Data](articles/3d788608.json)
+
+[Extended Data](ext_articles/3d788608.ext.json)
+
+---
+
+### The assassination of sleep - husband arrested on suspicion
+
+*2025-09-15 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214612) · `si`
+
+The post mortem was revealed in the death of the death of the woman who died of the sleeping bed.
+
+The husband of the victim has been arrested on suspicion today (15).
+
+The victim was one of the 34-year-old resident of the Tittawelgolla area in Dambulla.
+
+She was a management service officer of the Galewela Zonal Education Office.
+
+The police had received information that a woman died in a house in a house in a house in a house in a house in a house in the Tittatawelgolla area in Dambulla.
+
+Her husband had told the police that his wife went to sleep and was informed about 4 pm and was asked to wake up around 4 pm.
+
+He had told the police that his wife was awakening at night, but she had a call for the work of the 1990s.
+
+The suspect had also told the police that his wife had died by his wife by those in the ambulance.
+
+However, a formal investigation into death was conducted by the suspect on suspicion regarding death.
+
+...
+
+[Data](articles/ee80d34e.json)
+
+[Extended Data](ext_articles/ee80d34e.ext.json)
+
+---
+
+### Fire is a thousand shanty houses in Manila
 
 *2025-09-15 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214611) · `si`
 
-පිලිපීනයේ මැනිලා අගනුවර ඇති වූ ගින්නකින් පැල්පත් නිවාස දහසකට වැඩි සංඛ්‍යාවක් වැනසී ඒවායේ වාසය කළ දහස් සංඛ්‍යාත පිරිසක් අවතැන්වී තිබේ.
+Thousands of people have been displaced by a fire in the Philippines' Manila.
 
-පැය 10කට ආසන්න කාලයක් සිදුකළ දැවැන්ත මෙහෙයුමකින් අනතුරුව ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
+The authorities had been able to resume the fire after a massive operation carried out for nearly 10 hours.
 
-පිලිපීනයේ මැනිලා අගනුවර තදාසන්න කලාපයක පිහිටි පැල්පත් නිවාස දහස් ගණනක් ගින්නකට හසුව විනාශ වී තිබේ.
+Thousands of shanty houses in a suburban region of the Manila Palai in the Philippines have been destroyed.
 
-මේ අනුව නිවාස 1100ක් පමණ වැනසී ගොස් ඇති අතර, දහස් සංඛ්‍යාත ජනතාවක් අවතැන් වී ඇතැයි ද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+Accordingly, about 1100 houses have been destroyed and thousands of people have been displaced.
 
-එරට වේලාවෙන් ඊයේ රාත්‍රියේ හටගත් ගින්න නිවාදැමීම අසීරු වී ඇත්තේ එය වේගයෙන් ව්‍යාප්ත වීම හේතුවෙන්ය.
+It is difficult to quench the fire that occurred last night at the country.
 
-ගිනි නිවන රථ රැසක් යොදවා ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
+The authorities were deployed to resume the fire by deploying a large number of fire extinguishers.
 
-ගින්න හේතුවෙන් අවතැන් වූ පිරිස් මේ වනවිට රජයේ පාසල් සහ රජයේ කාර්යාල වෙත යොමුකර තිබේ.
+Dislocated personnel have already been referred to government schools and government offices.
 
-මැනිලා නුවර පැල්පත් නිවාස පිහිටි කලාප රැසක් ඇති අතර, එම කලාපවල මෙවන් බරපතළ අනතුරු සිදුවූ අවස්ථා රැසක්ම පසුගිය කාලයේදී වාර්තා වුණි.
+There have been many areas where there were many such incidents in the region, Manila, Manila.
 
 ◼️
 
 [Data](articles/71ac56d3.json)
 
+[Extended Data](ext_articles/71ac56d3.ext.json)
+
 ---
 
-### Clean Sri Lanka  வேலைத்திட்டத்தின் கீழ், மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஆரம்பம்
+### US, China reach framework deal on TikTok; Trump and Xi to speak on Friday
+
+*2025-09-15 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112539/us-china-reach-framework-deal-on-tiktok-trump-and-xi-to-speak-on-friday) · `en`
+
+The United States and China reached a framework agreement to switch short-video app TikTok to U.S.-controlled ownership that will be confirmed in a call between President Donald Trump and Chinese President Xi Jinping on Friday, U.S. officials said.
+
+TikTok faced being switched off in the U.S. as soon as September 17 if Chinese owner ByteDance didn’t agree to divest. U.S. Treasury Secretary Scott Bessent said it was possible the deadline could be extended to allow for the deal to be finalised.
+
+“We’re not going to talk about the commercial terms of the deal. It’s between two private parties, but the commercial terms have been agreed upon,” Bessent told reporters at the conclusion of two days of talks that took place in Madrid.
+
+The U.S.-China negotiations at the Spanish foreign ministry’s baroque Palacio de Santa Cruz were the fourth round of talks in four months to address strained trade ties as well as TikTok’s looming divestiture deadline.
+
+...
+
+[Data](articles/477928e8.json)
+
+[Extended Data](ext_articles/477928e8.ext.json)
+
+---
+
+### World Bank commends Sri Lanka’s current economic programme
+
+*2025-09-15 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112538/world-bank-commends-sri-lankas-current-economic-programme) · `en`
+
+President Anura Kumara Dissanayake has met Johannes Zutt, the Vice President for the South Asia Region of the World Bank Group and a delegation of its representatives visiting Sri Lanka today (15) at the Presidential Secretariat.
+
+During the discussion, the World Bank has commended Sri Lanka’s current economic programme, according to the President’s Media Division.
+
+Attention was drawn to key sectors that could yield short-term benefits such as digitalization, tourism, agriculture and infrastructure development, while discussions also focused on the development of the Northern and Eastern Provinces, the PMD stated.
+
+Highlighting the government’s dedication to preserving the current economic stability of the country while progressing towards growth, President Dissanayake has requested the World Bank’s support in sharing Sri Lanka’s political, social and economic progress with the wider world.
+
+◼️
+
+[Data](articles/710cef79.json)
+
+---
+
+### Under the Clean Sri Lanka Program, the project to modernize the Maradana Railway Station
 
 *2025-09-15 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225176) · `ta`
 
-Clean Sri Lanka வேலைத்திட்டத்துடன் இணைந்த வகையில், Dream Destination திட்டத்தின் கீழ் மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (15) முற்பகல் ஆரம்பித்து வைக்கப்பட்டது.
+The project to modernize the Maradana Railway Station under the Dream Destination Project in conjunction with the Clean Sri Lanka Program was launched on Monday (15) under the leadership of President Anura Kumara Dissanayake.
 
-" வளமான நாடு - அழகான வாழ்க்கை" உருவாக்கும் அரசாங்கத்தின் திட்டத்தின் படி நிலைபேறான, நவீன மற்றும் தரப்படுத்தப்பட்ட பொது போக்குவரத்து கட்டமைப்புடன் கூடிய அழகான வாழ்க்கை முறையை அடைவதற்காக, புகையிரத நிலையங்களில் பொது வசதிகளை மேம்படுத்தல், புகையிரத நிலையங்களை வசதியான மற்றும் பாதுகாப்பான இடங்களாக மாற்றும் நோக்கத்துடன், போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சு மற்றும் Clean Sri Lanka  வேலைத்திட்டம், அரச-தனியார் பங்களிப்பின் கீழ் நாட்டில் நூறு புகையிரத நிலையங்களை நவீனமயமாக்கும் தேசிய திட்டம் தொடங்கப்பட்டுள்ளது.
+According to the government's plan for the "prosperous country - beautiful life," the government's plan to create a beautiful lifestyle with a modern and standardized public transport system, with the aim of upgrading public facilities at railway stations, transforming the railway stations into convenient and safe places, the Ministry of Transport, Highways, Ports and Civil Airlines and Clean Sri Lanka The project has been launched.
 
-விசேட தேவைகள் உள்ள சமூகம் உட்பட அனைத்துப் பயணிகளுக்கும் பாதுகாப்பு மற்றும் வசதியை வழங்கும் சுத்தமான, அழகான புகையிரத நிலைய கட்டமைப்பை நாட்டில் உருவாக்குவதை இந்த திட்டம் நோக்கமாகக் கொண்டுள்ளது.
+The project aims to create a clean and beautiful railway station in the country to provide security and facilities to all travelers, including the community with special needs.
 
 ...
 
 [Data](articles/0273543b.json)
+
+[Extended Data](ext_articles/0273543b.ext.json)
 
 ---
 
@@ -94,63 +282,97 @@ However, Sri Lanka won the first match against Bangladesh by six wickets in the 
 
 ---
 
-### பாராளுமன்றில் வலுக்கட்டாயமாக எதிர்க்கட்சியின் வாயை மூடச் செய்யும் நடவடிக்கைகள் முன்னெடுக்கப்படுகின்றன - எதிர்க்கட்சித் தலைவர் சஜித்
+### Opposition Leader Sajith is being carried out in parliament
 
 *2025-09-15 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225175) · `ta`
 
-மக்கள் பிரச்சினைகளைக் கேட்டறிந்து நடைமுறை ரீதியான பதில்களை பெற்றுக் கொடுக்கும் பணியையே அரசாங்கம் முன்னெடுக்க வேண்டும். தீர்வுகளை வழங்கும் யுகத்துக்கு மாறாக எதிர்க்கட்சியின் குரலை அடக்கும், பொய்யான கதைகளை முன்வைக்கும் யுகமே தற்சமயம் காணப்படுகின்றது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+The government should carry out the task of listening to people's problems and getting practical answers. Opposition Leader Sajith Premadasa said that the era of suppressing the voice of the opposition and presenting false stories, rather than the era of providing solutions. "
 
-எதிர்க்கட்சித் தலைவரின் நடமாடும் சேவையின் கீழ், அநுராதபுரம் மாவட்டம், மதவாச்சி மற்றும் கெபித்திகொல்லாவ பிரதேச விவசாயிகள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பில் ஆராய திங்கட்கிழமை (15) மதவாச்சி பிரதேசத்திற்கு விஜயம் செய்தபோதே, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said this while visiting the Madhavachi area on Monday (15) to look into the issues faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers of Anuradhapura district under the service of the Opposition.
 
-தற்போது, பாராளுமன்றத்தில் பொது மக்கள் எதிர்நோக்கும் பிரச்சினைகளை முன்வைப்பதற்கான சந்தர்ப்பங்கள் குறைக்கப்பட்டுள்ளன. மக்களின் பிரச்சனைகளை சுட்டிக்காட்டப்படும்போது, ஒலிவாங்கியைத் துண்டிக்கும் நிலைக்கு  அரசாங்கம் வந்துள்ளது. எதிர்க்கட்சித் தலைவராக, நானும் எதிர்க்கட்சியைச் சேர்ந்த சக உறுப்பினர்களும் தனிப்பட்ட விடயங்களை வெளிப்படுத்துவதை விடுத்து, மக்கள் பிரச்சினைகளை முன்வைப்பதற்காகவே எழுந்து நிற்கிறோம்.
+Currently, the opportunity to present the problems faced by the public in Parliament has been reduced. The government has come to a position to cut off the microphone when people are pointed out. As the Leader of the Opposition, and I and the opposition members, we stand up for the issues of the people, leaving the people's issues.
 
 ...
 
 [Data](articles/322bbfe8.json)
 
+[Extended Data](ext_articles/322bbfe8.ext.json)
+
 ---
 
-### புதுக்குடியிருப்பில் மான் இறைச்சியுடன் ஒருவர் கைது
+### One person arrested with deer meat
 
 *2025-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225174) · `ta`
 
-முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட கைவேலியை பகுதியை சேர்ந்த நபர் ஒருவர் மான் இறைச்சியுடன் 15ஆம் திகதி திங்கட்கிழமை புதுக்குடியிருப்பு பொலிசாரால் கைது செய்யப்பட்டுள்ளார்.
+A man from the Kaveli area of ​​the Mullaitivu Pudukkudiyiruppu police division has been arrested by the Pudukkudiyiruppu police on Monday 15th with deer meat.
 
-முல்லைத்தீவு மாவட்ட புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசியத் தகவலின் அடிப்படையில் கைவேலி பகுதியில் நடத்தப்பட்ட விஷேட சோதனை நடவடிக்கையில் 3 கிலோ கிராம் மான் இறைச்சி உடமையில் வைத்திருந்த குற்றச்சாட்டில் கைவேலி பகுதியினை சேர்ந்த 40 வயதுடைய நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A 40 -year -old man from Kaveli area has been arrested on charges of possessing 3 kg of deer meat in a special raid conducted by the Mullaitivu District Intelligence Unit.
 
-கைது செய்யப்பட்ட நபர் விசாரணைகளின் பின்னர் 16ஆம் திகதி செவ்வாய்க்கிழமை முல்லைத்தீவு நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+The arrested person will be produced before the Mullaitivu court on Tuesday 16th after investigations, police said.
 
 ◼️
 
 [Data](articles/467df8aa.json)
 
+[Extended Data](ext_articles/467df8aa.ext.json)
+
 ---
 
-### මාගම්පුර වරාය කළමනාකරණ සමාගම ලබාගත් ඩොලර් ණයක් නොගෙවලා
+### Magampura Ports Development Company has not paid a dollar loan
 
 *2025-09-15 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/මාගම්පුර-වරාය-කළමනාකරණ-සමාගම-ලබාගත්-ඩොලර්-ණයක්-නොගෙවලා/11-418511) · `si`
 
-මාගම්පුර වරාය කළමනාකරණ සමාගම මගින් පෞද්ගලික බැංකුවකින් ලබාගත් ණය නොගෙවීම සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභා‍වේදී (කෝප්) දීර්ඝවශයෙන් සාකච්ඡා කිරීමෙන් අනතුරුව ඒ වෙනුවෙන් ගත යුතු නිර්දේශ නිකුත් කිරීම සිදු විය.
+After discussing the non-payment of loans from the Magampura Ports, the Committee on Public Enterprises (COPE) was issued after discussing the lending from a private bank.
 
-මෙම නිර්දේශ නිකුත් කිරීම සිදු වූයේ ශ්‍රී ලංකා වරාය අධිකාරියේ 2022, 2023 වර්ෂයන්හි විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගිය 10 වැනි දා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+Issuing of these recommendations was issued when the Committee of the Sri Lanka Ports Authority (COPE) to examine the current performance of the Sri Lanka Ports Authority (COPE).
+
+The Magampura Port Management Company has been incorporated by the Fivest of the Colombo Port, a license obtained by a license to be operated by a private loan from a private bank at a private bank loan from a private bank loan.. However, $ 18.82 million (Rs.. 6836 million) was revealed at December 2023 and that the Bank had filed two cases against the administration and the Authority in 2019.
+
+Officers arrived at the meeting.. The Magampura Ports Managing Company is currently underway from June 2022.
 
 ...
 
 [Data](articles/b7badceb.json)
 
+[Extended Data](ext_articles/b7badceb.ext.json)
+
 ---
 
-### විදුලි පනත සංශෝධනය නොකළානම් සේවකයන් 12000කගේ රැකියා අනතුරේ
+### The employment of the 12,000 employees in danger if the Electricity Act was amended
 
 *2025-09-15 19:13:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පනත-සංශෝධනය-නොකළානම්-සේවකයන්-12000කගේ-රැකියා-අනතුරේ/11-418510) · `si`
 
-"පසුගිය රනිල්-රාජපක්ෂ රජය විදුලිබල ක්ෂේත්‍රය පුද්ගලිකකරණ වැඩපිළිවෙලක් හරහා විශේෂයෙන්ම සේවක වරප්‍රසාද, අයිතිවාසිකම් සම්බන්ධයෙන් සැලකිල්ලක් දක්වන්නෙ නැතුව ක්‍රියාත්මක කරපු වැඩ පිළිවෙල අපි පරාජය කළා විතරක් නෙවෙයි, ආපසු හැරෙව්වා.ඒ වගේම බලශක්ති ක්ෂේත්‍රයේ රාජ්‍ය හිමිකාරීත්වය තහවුරු කළා.
+"Over the Power and Employee Privileges, Employees 'Privileges, Employees' Performance but Returned
 
-රටේ සංවර්ධන ඉලක්ක සමග සමගාමීව විදුලිබල ක්ෂේත්‍රය සංවර්ධනය කරන්න අවශ්‍ය ව්‍යුහාත්මක වෙනස්කම් කරමින් 100%ක් පූර්ණ රාජ්‍ය හිමිකාරීත්වය තියෙන ආයතන පිහිටුවා අවසන්. ඒ අනුව සැළසුම් කළ පරිදි ඒ වැඩපිළිවෙල ඉදිරියට යනවා“ යනුවෙන් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා අද (15) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක් වෙමින් ප්‍රකාශ කළේය.
+100% endemic organizations have been established in making the power sector to develop the electricity sector in parallel with the development goals of the country.. According to the Minister of Energy Minister Kumara Jayakody, who is planning to come forward, said.
+
+Especially when the Ceylon Electricity Workers Union (CEB) and all the trade unions, including the Ceylon Electricity Employees Union with the Trade Unions, have already begun implementation of the power to the power and the Electricity Bureau and the Electricity.. The notification has been made to appoint every employee and notifying four companies with full state owned company.. As such, there is no problem with the job security of these employees.
 
 ...
 
 [Data](articles/73aea13b.json)
+
+[Extended Data](ext_articles/73aea13b.ext.json)
+
+---
+
+### Close associate of ‘Kehelbaddara Padme’ detained under PTA for 90 days
+
+*2025-09-15 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112536/close-associate-of-kehelbaddara-padme-detained-under-pta-for-90-days) · `en`
+
+The Western Province North Crimes Division today (15) informed the Colombo Magistrate’s Court that Devanmini Dissanayake, also known as “Pas deva”, an individual said to be a close associate of underworld figure ‘Kehelbaddara Padme’, who is currently in custody, is being detained and interrogated under the Prevention of Terrorism Act (PTA) on the orders of the Secretary to the Ministry of Defence.
+
+Accordingly, the suspect will be held and questioned for a period of 90 days, as informed to Additional Magistrate H.D.D.J. Premarathna.
+
+Police stated in court that during interrogation following Pas deva’s arrest, they recovered 440 grams of narcotics and several live bullets from a hotel previously owned by ‘Kehelbaddara Padme’.
+
+Police further informed court that a comprehensive investigation is ongoing into various crimes allegedly committed by the suspect under the direction of ‘Kehelbaddara Padme’.
+
+...
+
+[Data](articles/22dad0b1.json)
+
+[Extended Data](ext_articles/22dad0b1.ext.json)
 
 ---
 
@@ -178,21 +400,25 @@ After considering the submissions, the police stipulated to the police to report
 
 ---
 
-### அரிசிக்கான கட்டுப்பாட்டு விலை வர்த்தமானியில் திருத்தம் மேற்கொள்ளப்போவதில்லை - நுகர்வோர் அதிகாரசபையின் தலைவர் ஹேமன்த சமரகோன்
+### Rice's control price is not going to be corrected in the Gazette
 
 *2025-09-15 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225173) · `ta`
 
-சந்தையில் ஏற்பட்டுள்ள கீரி  சம்பா மற்றும் சம்பா அரிசிக்கான தட்டுப்பாட்டை  காரணமாகக்கொண்டு அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயித்து விடுக்கப்பட்டுள்ள  வர்த்தமானி அறிவிப்பில் திருத்தத்தம் மேற்கொள்ள எண்ணம் இல்லை என நுகர்வோர் நடவடிக்கை தொடர்பான அதிகார சபையின் தலைவர் ஹேமன்த சமரகோன் தெரிவித்தார்.
+Hemanta Samarakoon, Chairman of the Consumer Affairs Affairs Authority, said that due to the shortage of Giri Samba and Samba rice in the market, the gazette notification for the rice has not intends to revise the gazette notification.
 
-சந்தையில் கீரி மற்றும்  சம்பா அரிசிக்கு ஏற்பட்டுள்ள தட்டுப்பாடு தொடர்பாக கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He said this while commenting on the shortage caused by Giri and Samba rice in the market.
 
-கீரி சம்பா மற்றும் சம்பா அரிசிக்கு சந்தையில் தட்டுப்பாடு நிலவி வருவது தொடர்பான தகவல் நுகர்வோர் நடவடிக்கை தொடர்பான அதிகார சபைக்கு கிடைத்திருந்தது. இதுதொடர்பில் தேடிப்பாத்தபோது, அவ்வாறு அரிசி தட்டுப்பாடு தொடர்பில் அதிகாரசபைக்கு தகவல் கிடைத்தது.
+Giri Samba and Samba rice had received information about the Consumer Affairs Authority about the shortage of the market. When searching for this, the Authority received information on the shortage of rice.
 
-என்றாலும் வர்த்தமானி அறிவிப்பொன்றின் மூலம் அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயிக்கப்பட்டுள்ளது. அந்த விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்தால், நடைமுறையில் உள்ள சட்டத்தின் கீழ் தேவையான சட்ட நடவடிக்கை மேற்கொள்ள அதிகாரசபை நடவடிக்கை எடுத்துள்ளது.
+The control pricing for rice has been fixed by a gazette notification, though. If rice is sold at a higher price than that price, the Authority has taken steps to take necessary legal action under the existing law.
+
+Therefore, I urge all parties to take steps to buy paddy and rice to ensure that the gazette is notified.
 
 ...
 
 [Data](articles/4c0984f6.json)
+
+[Extended Data](ext_articles/4c0984f6.ext.json)
 
 ---
 
@@ -1863,193 +2089,5 @@ The police arrested 220 persons and 155 people who were issued an opening.
 [Data](articles/d7c2a6f6.json)
 
 [Extended Data](ext_articles/d7c2a6f6.ext.json)
-
----
-
-### 15 arrested in the country
-
-*2025-09-15 11:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-சுற்றிவளைப்பில்-15-பேர்-கைது/175-364612) · `ta`
-
-The Sri Lankan police have arrested 15 people who have been searched for direct involvement in criminal activity across the country.
-
-The suspects have been arrested during several measures held on Sunday to prevent drugs and crimes in Sri Lanka.
-
-Of them, 15 were arrested for direct involvement and 674 on suspicion.
-
-The police arrested 220 persons and 155 people who were issued an opening.
-
-◼️
-
-[Data](articles/e303c380.json)
-
-[Extended Data](ext_articles/e303c380.ext.json)
-
----
-
-### Sri Lanka’s Risk Survey points to declined confidence in medium term
-
-*2025-09-15 11:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-risk-survey-points-to-declined-confidence-in-medium-term-240519/) · `en`
-
-ECONOMYNEXT – Sri Lanka Systemic Risk Survey (SRS) for the second half of 2025 points to improved confidence in the financial system in the short term, but it has declined in the medium term, a Central Bank report showed.
-
-The SRS was conducted between June 27 and July 20 this year with the participation of 146 firms on the overall confidence in the financial system, the sources of perceived risks and the likelihood of such risks.
-
-“Respondents’ confidence in the financial system improved in the short term compared to the previous survey, whereas confidence in the medium term experienced a slight decline,” the Central Bank said in the SRS report.
-
-It also said ‘Global macroeconomic risks’ increased significantly amid rising geopolitical tensions and the challenging global economic outlook.
-
-Among respondents, the perceived probability of materialisation of a high impact negative event declined in the short term but slightly increased in the medium term, it said.
-
-...
-
-[Data](articles/ec62b6e8.json)
-
-[Extended Data](ext_articles/ec62b6e8.ext.json)
-
----
-
-### Add around ...
-
-*2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சுற்றி-விடுங்க-சேர்/62-364610) · `ta`
-
-◼️
-
-[Data](articles/7ee9a3fe.json)
-
-[Extended Data](ext_articles/7ee9a3fe.ext.json)
-
----
-
-### Bimal climbed in Eman's vehicle
-
-*2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எமனின்-வாகனத்தில்-ஏறிய-பிமல்/62-364610) · `ta`
-
-Transport Minister Bimal Ratnayaka said that the innocent civilian is holding his hips without falling down.
-
-◼️
-
-[Data](articles/9b7d29d5.json)
-
-[Extended Data](ext_articles/9b7d29d5.ext.json)
-
----
-
-### A revelation of a serious risk for Australia in the future
-
-*2025-09-15 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214589) · `si`
-
-By 2050, 1.5 million Australian nationals living in coastal areas, 1.5 million Australians can face a risk.
-
-Accordingly, the applicant predicted by Australians that the natural disasters can be constantly vulnerable to Australian nationals, hurricane, heat, drought and wildfires.
-
-Climate Change Minister Climate Change Chris Bowen says that Australian nationals are already facing climate change.
-
-According to foreign media reports, the temperature of Australia has been reportedly reaching 1.5 degrees Celsius and the number of people die from a Celsius is 300 percent.
-
-◼️
-
-[Data](articles/29d6a115.json)
-
-[Extended Data](ext_articles/29d6a115.ext.json)
-
----
-
-### Presidential Fund grants from the President's Fund to students for low income families
-
-*2025-09-15 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214588) · `si`
-
-The presidential fund is a program to provide scholarships for school children in Mahaya and the Presidential Families.
-
-The implementation of development programs were observed at the Field Inquiry made by the Purunawatta West Grama Niladhari Division of the West Grama Niladhari.
-
-Under the first phase, 28 students were given scholarships.
-
-◼️
-
-[Data](articles/9679186f.json)
-
-[Extended Data](ext_articles/9679186f.ext.json)
-
----
-
-### Privilege groups have failed the President
-
-*2025-09-15 11:16:44* · [`adalk`](https://www.ada.lk/breaking_news/වරප්‍රසාද-කණ්ඩායම්-ජනපති-අරමුදල-අව‍භාවිත-කළා/11-418502) · `si`
-
-Prime Minister Dr. Haraini Amarasuriya stated that the presidential fund has been able to obey the privileged groups of the past regime.
-
-The Prime Minister made these comments participating in the program auditorium in the Kandy District Secretariat yesterday (14).
-
-At the GCE Advanced Level 6, 361 students have been awarded Rs. 36.1 million for 361 students.
-
-Speaking further the Prime Minister said that the actual objective of the Presidential Fund is under the current government and the presidential fund is currently working under the present government.
-
-It was said that the presidential fund has taken steps to implement a program to doctors and that a program to support children contributes to the creation of a good human resource.
-
-The Prime Minister further stated that instead of the education system under one frame, the Prime Minister further stated that the children will be able to realize the dreams of the children.
-
-◼️
-
-[Data](articles/8fc5b3a0.json)
-
-[Extended Data](ext_articles/8fc5b3a0.ext.json)
-
----
-
-### City of Renaissance begins today
-
-*2025-09-15 11:08:32* · [`adalk`](https://www.ada.lk/breaking_news/පුනරුදයේ-පුරවර-අද-සිට-ඇරඹෙයි/11-418501) · `si`
-
-Deputy Minister of Provincial Councils and Local Government Prabha Ruwan Senarath stated that the local government week will commence nine years after a 'rich country' policies.. "The Renahara Scale" will be operated from today (15) to the 21st.
-
-The inauguration date of the local government week is designated today (15th) mobile service date. The deputy minister said that the environmental and tree planting date tomorrow (16), the Deputy Minister said that the international day of conserving the ozone layer.
-
-It was also named health and sanitary day on September 17th of September, the date of the world.. The World Cleaning Day will be held on September 20 of September this week, which will be held on September 20 and the end of the Certificate of the Public utility date and end on the end of the 19th this week.
-
-...
-
-[Data](articles/4cb4f29a.json)
-
-[Extended Data](ext_articles/4cb4f29a.ext.json)
-
----
-
-### To whom
-
-*2025-09-15 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/யாருக்குக்-கொடுத்து-வைத்திருக்கிறதோ/54-364607) · `ta`
-
-Tamanna made his debut in cinema with a Hindi film called Sant Sa Roshan Sehara.  Tamanna later made his debut in Tamil cinema. But his care was only through college and ion films. Subsequently, she became a top actress in the leading actors.
-
-But at one point, Tamanna's chances began to decline after the arrival of the new heroes. Now Bollywood film opportunities have begun to come to him. Bollywood has played next Garda and Last Storms 2. In both of these films he played kisses and bedroom scenes. In the meantime, he has separated from a short love with Bollywood actor Vijay Verma.
-
-Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the best life companion to the one who is going to marry. He must think that I have got him in this way because of his honor.  I am now working for that lucky. I don't know who is giving. ”
-
-◼️
-
-[Data](articles/a50e3d36.json)
-
-[Extended Data](ext_articles/a50e3d36.ext.json)
-
----
-
-### Mahinda must be protected by national
-
-*2025-09-15 11:00:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දව-ජාතික-වශයෙන්-ආරක්ෂා-කළ-යුතුයි/11-418500) · `si`
-
-Former President Mahinda Rajapaksa, former President Chairman Vajira Abeywardena said that former President Mahinda Rajapaksa has to be protected to be defended.
-
-He was speaking at Hiniduma, Ratgama and Bentara Divisions in the Meeting of the United National Party (UNP) yesterday (14).
-
-"Due to the acquisition of presidential quarters, light bills, water bills, billing of bills. It also reduces the prices of petrol, diesel and kerosene oil and receive relief. Let's wait so.
-
-I think that many state leaders were killed in the history of the history of the history of Sri Lanka.. Otherwise, the heads of state have survived. So this is the political history of Sri Lanka, the present and future.
-
-For example, if we take, we cannot go to some countries in the world as a typical citizen. If so, he will bring his body to Sri Lanka. There is plenty of areas where Sri Lanka cannot go alone in Sri Lanka and its rapity. So this is why I think he must protect her.
-
-...
-
-[Data](articles/e8f003c7.json)
-
-[Extended Data](ext_articles/e8f003c7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 00:37:24**
+As of **2025-09-16 00:22:47**
 
 ## Newspaper Stats
 
-*Scraped **76,160** Articles*
+*Scraped **76,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,70 +19,44 @@ dailyftlk | 5,389
 adalk | 7,393
 adaderanalk | 9,808
 tamilmirrorlk | 11,397
-virakesarilk | 12,415
+virakesarilk | 12,414
 adaderanasinhalalk | 13,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,532 (95.2%) of 76,160 articles have been extended.
+72,517 (95.2%) of 76,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### ஹாங்காங் அணியை வீழ்த்திய இலங்கை அணி
-
-*2025-09-15 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225180) · `ta`
-
-15ஆம் திகதி ஞாயிற்றுக்கிழமை நடைபெற்ற ஆசியக் கோப்பையில் ஹாங்காங் அணிக்கு எதிரான போட்டியில் இலங்கை அணி வெற்றி பெற்றுள்ளது.
-
-துபாயில் நடைபெற்ற போட்டியில் நாணயற் சுழட்சியில் வென்ற இலங்கை கெப்டன் சரித் அசலங்க முதலில் களத்தடுப்பை தேர்வு செய்தார்.
-
-அதன்படி, முதலில் துடுப்பெடுத்தாடிய ஹாங்காங் அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 4 விக்கெட் இழப்புக்கு 149 ரன்கள் எடுத்தது.
-
-பதிலளித்த துடுப்பெடுத்தாடிய இலங்கை அணி 18.5 ஓவர்களில் 6 விக்கெட் இழப்புக்கு 153 ரன்கள் எடுத்து வெற்றியை உறுதி செய்தது.
-
-◼️
-
-[Data](articles/c1b667e4.json)
-
----
-
-### Sri Lanka beat Sri Lanka
+### ශ්‍රී ලංකාවට තියුණු ජයක්
 
 *2025-09-15 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214614) · `si`
 
-Sri Lanka won the match by 4 wickets in a 4 wicket win against Hong Kong.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ හොංකොං කණ්ඩායමට එරෙහිව ශ්‍රී ලංකාව අද (15) ක්‍රීඩාකළ තරගයෙන් කඩුලු 4ක තියුණු ජයක් ලබාගැනීමට සමත් විය.
 
-This was in Dubai as a BC competition, and Sri Lanka was able to reach the first place in the bonus mark.
+බී කාණ්ඩයේ තරගයක් ලෙස මෙය ඩුබායිහිදී පැවති අතර, මෙම ජයත් සමග ශ්‍රී ලංකාවට ප්‍රසාද ලකුණු සටහනේ පළමු ස්ථානයට පැමිණීමටද හැකිවිය.
 
-The Sri Lanka Leader won the coin in Dubai and he decided to bowl first.
+ඩුබායි පැවැති මෙම තරගයේ කාසියේ වාසිය ශ්‍රී ලංකා නායකයා දිනා ගත් අතර ඔහු පළමුවෙන් පන්දු රැකීමට තීරණය කළේය.
 
-Accordingly, Hong Kong startings batsmen set a 41 runs for the first wicket.
+ඒ අනුව පිටියට හොංකොං ආරම්භක පිතිකරුවන් පළමු කඩුල්ලට ලකුණු 41ක සබඳතාවක් ගොඩනැගුවේය.
 
-The relationship was collapsed with the loss of a charging of Seshan Ali.
+එම සබඳතාව බිඳ වැටුණේ සෙශාන් අලි ලකුණු 23කට දුෂ්මන්ත චමීර යැවූ පන්දුවක් හමුවේ දැවී යාමත් සමගය.
 
-Armyan Rath and Daman also strengthened Hong Kong innings to build 61 runs for the third wicket.
+අන්සුමන් රාත් සහ නිසාකත් ඛාන් තුන්වැනි කඩුල්ලට ලකුණු 61ක සබඳතාවක් ගොඩනගමින් හොංකොං ඉනිම සවිමත් කළේය.
 
-Dammahanth Chameera has taken two wickets in bowling and took the wicket each.
+පන්දුයැවීමේදී දුෂ්මන්ත චමීර කඩුලු දෙකක් දවා ගත් අතර වනිඳු හසරංග සහ දසුන් ශානක එක් කඩුල්ල බැගින් දවා ගත්තේය.
 
-Athumanan Rath scored 48 runs and Drugs and Khan scored 52 not out.
+අන්සුමන් රාත් ලකුණු 48ක් සහ  නිසාකත් ඛාන් නොදැවී ලකුණු 52ක් රැස් කළේ හොංකොං කණ්ඩායම ගෞරවාන්විත ලකුණු සංඛ්‍යාවක් කරා රැගෙන යමින්ය.
 
-Accordingly, Hong Kong team completed a score of 149 runs for the loss of 4 wickets.
+ඒ අනුව හොංකොං කණ්ඩායම නියමිත පන්දුවාර 20  නිමා කළේ කඩුලු 4ක් දැවී ලකුණු 149ක ලකුණු පුවරුවක් නිර්මාණය කරමින්ය.
 
-Sri Lanka won a 150 runs and in reply Sri Lanka scored 153 runs for the loss of 6 wickets at the end of 18 overs.
-
-The wishes of great sticks were able to receive 68 runs.
-
-This is the first time Sri Lanka and the Hong Kong team had been in the international cricket.
-
-◼️
+...
 
 [Data](articles/08dc5f7d.json)
-
-[Extended Data](ext_articles/08dc5f7d.ext.json)
 
 ---
 
@@ -121,8 +95,6 @@ Following the decision made by the Ministry of Health and Mass Media under the i
 ...
 
 [Data](articles/54b534ad.json)
-
-[Extended Data](ext_articles/54b534ad.ext.json)
 
 ---
 
@@ -2111,5 +2083,31 @@ He said that the 79th anniversary of the 79th anniversary of the 79th Anniversar
 [Data](articles/586358aa.json)
 
 [Extended Data](ext_articles/586358aa.ext.json)
+
+---
+
+### The government's objective is to reduce the number of persons who are imprisoned - Minister of Justice
+
+*2025-09-15 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214590) · `si`
+
+Minister of Justice Harshana Nanayakkara says that it is necessary to reduce the number of persons who are imprisoned.
+
+The Minister made this observation at the 17th prisoner day.
+
+Speaking on the occasion, the Minister said that the prisoner welfare union is commendable for prisoned prisoners.
+
+The Minister also said that there is a large number of prisoners in prisons and to facilitate the reduction of the congestion.
+
+The Minister emphasized that it is very important to reduce the number of persons who are imprisoned and the protection of the human rights of everyone who remains.
+
+The Minister also said that all persons in the face of the law are equal to the one and a government is created to create an equality country by protecting the command of the law as a government.
+
+Meanwhile, arrangements have been taken to organize spiritual, sports, health and legal counseling programs covering the prison welfare win.
+
+...
+
+[Data](articles/e362d7da.json)
+
+[Extended Data](ext_articles/e362d7da.ext.json)
 
 ---

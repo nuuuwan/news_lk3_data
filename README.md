@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 13:06:35**
+As of **2025-09-15 12:55:55**
 
 ## Newspaper Stats
 
-*Scraped **76,055** Articles*
+*Scraped **76,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,381
-adaderanalk | 9,784
+adaderanalk | 9,782
 tamilmirrorlk | 11,384
 virakesarilk | 12,396
 adaderanasinhalalk | 13,268
@@ -26,69 +26,25 @@ adaderanasinhalalk | 13,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,854 (94.5%) of 76,055 articles have been extended.
+71,836 (94.5%) of 76,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### Israel-catter attack; Hakeem criticizes the government
+### இஸ்ரேல்-கட்டார் தாக்குதல்;அரசாங்கத்தை சாடுகிறார் ஹக்கீம்
 
 *2025-09-15 12:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-கட்டார்-தாக்குதல்-அரசாங்கத்தை-சாடுகிறார்-ஹக்கீம்/175-364618) · `ta`
 
-Sri Lanka Muslim Congress (SLMC) leader Rauf Hakeem has criticized the government's latest report on Israel's attacks on Qatar, in connection with the current conflict with Palestine.
+பலஸ்தீனத்துடனான தற்போதைய மோதலுடன் தொடர்புடைய, கட்டார் மீதான இஸ்ரேலின் தாக்குதல் குறித்த அரசாங்கத்தின் சமீபத்திய அறிக்கையை இலங்கை முஸ்லிம் காங்கிரஸ் (SLMC) தலைவர், பாராளுமன்ற உறுப்பினர் ரவூப் ஹக்கீம் விமர்சித்துள்ளார்.
 
-Hakeem, who issued a statement, accused the Foreign Ministry of Foreign Affairs, "It has once again proven how incompetent it is to distinguish between an occupant and the occupants, between an air strike and an incident, or a worse, mercenary, and the unity of the victims.
+ஒரு அறிக்கையை வெளியிட்ட ஹக்கீம், இலங்கை வெளியுறவு அமைச்சகம் "ஒரு ஆக்கிரமிப்பாளருக்கும் ஆக்கிரமிக்கப்பட்டவர்களுக்கும் இடையில், ஒரு விமானத் தாக்குதலுக்கும் ஒரு சம்பவத்திற்கும் இடையில், அல்லது அதைவிட மோசமாக, கூலிப்படை நடத்தைக்கும் பாதிக்கப்பட்டவர்களுடனான ஒற்றுமைக்கும் இடையில் வேறுபடுத்திப் பார்ப்பதில் எவ்வளவு திறமையற்றது என்பதை மீண்டும் ஒருமுறை நிரூபித்துள்ளது என குற்றம் சாட்டினார்.
 
-He accused Israeli Prime Minister Benjamin Netanyahu and his administration that the government was "in a tactical or strategic conspiracy" in the occupied Palestinian areas, not only in the crimes committed in Gaza, but also in support of Qatar last June.
+ஆக்கிரமிக்கப்பட்ட பலஸ்தீனப் பகுதிகளில், குறிப்பாக காசாவில் செய்யப்பட்ட குற்றங்கள் தொடர்பாக மட்டுமல்லாமல், கடந்த ஜூன் மாதம் ஈரானுக்கு எதிரான நடவடிக்கைகளுக்கும், சமீபத்தில் கத்தாருக்கும் ஆதரவளிப்பதிலும் இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாகு மற்றும் அவரது நிர்வாகத்துடன் அரசாங்கம் "தந்திரோபாய அல்லது மூலோபாய கூட்டுச் சதி"யில் இருப்பதாக அவர் மேலும் குற்றம் சாட்டினார்.
 
 ...
 
 [Data](articles/7a79029f.json)
-
-[Extended Data](ext_articles/7a79029f.ext.json)
-
----
-
-### Govt’s objective is to reduce prison population– Justice Minister
-
-*2025-09-15 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112515/govts-objective-is-to-reduce-prison-population-justice-minister) · `en`
-
-The government’s objective is to reduce the number of people imprisoned in the country, the Minister of Justice and National Integration Harshana Nanayakkara says.
-
-He made these remarks while participating in the 27th Prisoners’ Day ceremony held recently.
-
-Speaking at the event, the Minister stated that the service provided by the Prisoners’ Welfare Association for inmates in prisons is commendable.
-
-He further highlighted the severe issue of prison overcrowding and stressed that it is the government’s responsibility to ensure the necessary facilities to address this problem.
-
-The Minister emphasized that it is extremely important to reduce the number of people imprisoned and to create facilities that protect the human rights of all those imprisoned.
-
-“All people are equal before the law, and as a government, we are committed to upholding the supremacy of the rule of law and building a country based on equality,” Minister Nanayakkara stated.
-
-...
-
-[Data](articles/634fb483.json)
-
----
-
-### Case against former Minister Keheliya and family members adjourned
-
-*2025-09-15 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112514/case-against-former-minister-keheliya-and-family-members-adjourned) · `en`
-
-The Colombo High Court today (15) ordered the case filed against former Minister Keheliya Rambukwella, his wife, three daughters, and son-in-law, over allegations of illegally acquired assets, to be recalled on October 01.
-
-High Court Judge Lanka Jayaratne issued the order when the case was taken up before court today, said Ada Derana reporter.
-
-During proceedings, the prosecution handed over several documents, previously requested by the defendants for the trial, in open court.
-
-The judge further directed the defendants to notify the court within two weeks if they required any additional documents and fixed the case to be recalled on October 01.
-
-According to the charge sheet, the defendants are accused of committing offences under the Sri Lanka Penal Code by unlawfully acquiring assets during the period between August 13, 2020, and June 24, 2024, while serving in the Ministry of Mass Media and Health.
-
-...
-
-[Data](articles/c6b647bc.json)
 
 ---
 
@@ -302,25 +258,21 @@ Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the b
 
 ---
 
-### Mahinda must be protected by national
+### මහින්දව ජාතික වශයෙන් ආරක්ෂා කළ යුතුයි
 
 *2025-09-15 11:00:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දව-ජාතික-වශයෙන්-ආරක්ෂා-කළ-යුතුයි/11-418500) · `si`
 
-Former President Mahinda Rajapaksa, former President Chairman Vajira Abeywardena said that former President Mahinda Rajapaksa has to be protected to be defended.
+හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා ජාතික වශයෙන් ආරක්ෂා කළ යුතුව ඇතැයි  එක්සත් ජාතික පක්ෂ සභාපති, හිටපු අමාත්‍ය වජිර අබේවර්ධන මහතා පැවැසීය.
 
-He was speaking at Hiniduma, Ratgama and Bentara Divisions in the Meeting of the United National Party (UNP) yesterday (14).
+ඔහු මේ බව සඳහන් කළේ ඊයේ (14) පැවැති හිනිදුම, රත්ගම සහ බෙන්තර - ඇල්පිටිය කොට්ඨාශ එක්සත් ජාතික පක්ෂ ක්‍රියාකාරී හමුවලින් අනතුරුව මාධ්‍යයට අදහස් දක්වමිනි.
 
-"Due to the acquisition of presidential quarters, light bills, water bills, billing of bills. It also reduces the prices of petrol, diesel and kerosene oil and receive relief. Let's wait so.
+"ජනාධිපතිරුන්ගේ නිල නිවාස ලබාගැනීම නිසා රටේ සමස්ථ මහජනතාවට ලබන මාසේ ඉදලා ලයිට් බිල්, වතුර බිල් අඩු වෙයි. ඒ වගේම පෙට්ට්‍රල්, ඩීසල්, භූමිතෙල් මිල අඩු වෙලා ජනතාවට සහන ලැබෙයි. අපි ඉතින් ඒ නිසා බලාගෙන ඉමු.
 
-I think that many state leaders were killed in the history of the history of the history of Sri Lanka.. Otherwise, the heads of state have survived. So this is the political history of Sri Lanka, the present and future.
-
-For example, if we take, we cannot go to some countries in the world as a typical citizen. If so, he will bring his body to Sri Lanka. There is plenty of areas where Sri Lanka cannot go alone in Sri Lanka and its rapity. So this is why I think he must protect her.
+මම හිතන්නේ ලංකා ඉතිහාසයේ රජ කාලෙත්, රජ කාලෙන් පසුවත්, හිටපු බොහෝ රාජ්‍ය නායකයෝ අකාලයේ මරා දමා තිබෙනවා. එහෙම නැතිනම් මරා දමන්න ගිහින් එම රාජ්‍ය නායකයෝ අනු නවයෙන් දිවි බේරාගෙන දැනට ජීවතුන් අතර ඉන්නවා. ඉතින් මේක තමයි ශ්‍රී ලංකාවේ දේශපාලන ඉතිහාසය, වර්තමානය වගේම අනාගතයත්.
 
 ...
 
 [Data](articles/e8f003c7.json)
-
-[Extended Data](ext_articles/e8f003c7.ext.json)
 
 ---
 
@@ -2067,5 +2019,37 @@ As a journalist, she was voicing the sentiments of the public openly in that tal
 [Data](articles/55c472fe.json)
 
 [Extended Data](ext_articles/55c472fe.ext.json)
+
+---
+
+### Corruption and fraud within the government will not be retreated in legal action - Minister Samantha Vidyaratne
+
+*2025-09-14 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225084) · `ta`
+
+Corruption and fraud within the government are not going to back down on their actions. Investigations are being carried out on the release of container. Minister Samantha Vidyaratne said that the law will be implemented properly, no matter who fails to do so.
+
+He further stated that he was speaking to the media after attending an event in Colombo on Saturday (13).
+
+Drugs are not completely eradicated. We are currently taking the initial blow. Can travel until the end. The actual surroundings of justice have just begun. In the past, actions were carried out only for a particular community. But now the law is being implemented equally.
+
+...
+
+[Data](articles/96506e2e.json)
+
+[Extended Data](ext_articles/96506e2e.ext.json)
+
+---
+
+### Ricky Hatton dies former World Boxing Championship
+
+*2025-09-14 20:35:01* · [`adalk`](https://www.ada.lk/sports/හිටපු-ලෝක-බොක්සිං-ශූර-රිකී-හැටන්-මිය-යයි/9-418493) · `si`
+
+Former World Boxing Champion Ricky Hatton has died in 46 years. Police said the 46-year-old man was found dead at his home in the Hyde of Tymside, Mancheside. Police say his death is not suspicious.
+
+◼️
+
+[Data](articles/f42bcbde.json)
+
+[Extended Data](ext_articles/f42bcbde.ext.json)
 
 ---

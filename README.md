@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 22:10:59**
+As of **2025-09-15 23:57:10**
 
 ## Newspaper Stats
 
-*Scraped **76,156** Articles*
+*Scraped **76,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,393
 adaderanalk | 9,807
-tamilmirrorlk | 11,396
+tamilmirrorlk | 11,397
 virakesarilk | 12,414
 adaderanasinhalalk | 13,290
 
@@ -26,99 +26,131 @@ adaderanasinhalalk | 13,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,361 (95.0%) of 76,156 articles have been extended.
+72,491 (95.2%) of 76,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### இலங்கை அணிக்கு வெற்றி இலக்காக 150 ஓட்டங்கள் நிர்ணயம்
+### "The term may end, love cannot"
+
+*2025-09-15 22:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிக்காலம்-முடியலாம்-அன்பு-முடியாது/175-364658) · `ta`
+
+Former President Mahinda Rajapakse today said that a politician who was not binded with the sentiments of the people could never be a people leader.
+
+In a post in his Facebook account, he said that even though the presidency ends, the love of the people will never end.
+
+“Most of my life was spent in people. It is still intact today. The presidency may end, but the love of the people is more than that time. It never ends. When the people were in power and not in office, they stood with Mahinda Rajapaksa, ”he said in the record.
+
+He said that he thanked the Maha Sangha who met him at his Carlton residence and thanked the people, politicians and experts who met him and inquired about his health.
+
+◼️
+
+[Data](articles/e4c37847.json)
+
+[Extended Data](ext_articles/e4c37847.ext.json)
+
+---
+
+### Sri Lanka's target of 150 runs
 
 *2025-09-15 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225179) · `ta`
 
-இலங்கை மற்றும் ஹாங்காங் அணிகளுக்கு இடையிலான ஆசிய கிண்ண கிரிக்கெட் இருபதுக்கு 20 போட்டி தற்போது நடைபெற்று வருகிறது.
+Twenty20 match between Sri Lanka and Hong Kong is currently underway.
 
-அதன்படி, ஹாங்காங் அணி 20 ஓவர்களில் முடிவில் 4 விக்கெட்டுகள் மட்டுமே இழந்து 149 ரன்கள் எடுத்தது.
+Accordingly, Hong Kong lost only 4 wickets in 20 overs and scored 149 runs.
 
 ◼️
 
 [Data](articles/fe110da0.json)
 
+[Extended Data](ext_articles/fe110da0.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා කණ්ඩායමට ලකුණු 150ක ඉලක්කයක්
+### Sri Lanka target 150 runs
 
 *2025-09-15 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214613) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ හොංකොං කණ්ඩායම අතර තරගය මේ වන විට පැවැත්වෙයි.
+The match between the Sri Lanka team and Hong Kong team will be held in the Asia T20 cricket tournament.
 
-තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායමේ ආරාධනයෙන් ප්‍රථමයෙන් පන්දුවට පහරදීමට පිටියට පිවිසි හොංකොං කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 4ක් පමණක් බිඳ වැටී ලකුණු 149ක් රැස් කිරීමට සමත් විය.
+The Sri Lanka team won the toss and elected to bat first, the Hong Kong team scored 149 runs for the loss of 149.
 
-පන්දුවට පහර දීමේ දී හොංකොං කණ්ඩායම වෙනුවෙන් නිසාකත් ඛාන් නොදැවී ලකුණු 52ක් රැස්කළේය.
+Drugs were unbeaten on 52 runs for the Hong Kong group in the batland.
 
-පන්දු යැවීමේ දී  ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් දුශ්මන්ත චමීර කඩුලු 2ක් බිඳ හෙළීමට සමත් විය.
+Dhishamra Chameera, Dhassamanthi Chameera, took 2 wickets for Sri Lanka.
 
-ඒ අනුව තරගය ජය ගැනීම ස﻿ඳහා ශ්‍රී ලංකා කණ්ඩායමට ලකුණු  150ක ඉලක්කයක් හිමිවී තිබේ.
+Sri Lanka has won 150 runs for the winning the match.
 
 ◼️
 
 [Data](articles/bffb889c.json)
 
+[Extended Data](ext_articles/bffb889c.ext.json)
+
 ---
 
-### சொகுசு வீடு வாங்கியதாக சுமத்தப்பட்ட குற்றச்சாட்டுகளை சுனில் வட்டகல மறுப்பு!
+### Sunil Vatagala denies allegations leveled at luxury house
 
 *2025-09-15 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225153) · `ta`
 
-சினமன் லைஃப் வளாகத்தில் சொகுசு வீடு வாங்கியதாக சமூக ஊடகங்களில் பரவி வரும் குற்றச்சாட்டுகளை பொது பாதுகாப்பு பிரதி அமைச்சர் சுனில் வட்டகல மறுத்துள்ளார்.
+Deputy Minister of Public Security Sunil Vatagala has denied the allegations that spread on social media for allegedly buying a luxury house at the Sinaman Life complex.
 
-வட்டகல இந்தக் கூற்றுக்களை "தவறானவை மற்றும் தனது நற்பெயருக்கு சேதம் விளைவிக்கும் நோக்கம் கொண்டவை" என்று தமது அதிகாரப்பூர்வ பேஸ்புக் பக்கத்தில் அறிக்கையொன்றை வெளியிட்டு நிராகரித்துள்ளார்.
+Vattakala has rejected a statement on his official Facebook page that these claims are "incorrect and aimed at damaging his reputation."
 
-மேலும் தனது அனைத்து சொத்துக்கள் மற்றும் பொறுப்புகளும் தனது அதிகாரப்பூர்வ சொத்து வெளிப்படுத்தல்களில் முறையாக அறிவிக்கப்பட்டுள்ளன என்பதையும் அவர் வலியுறுத்தியுள்ளார்.
+He also stressed that all his assets and responsibilities have been formally declared in his official property revelations.
 
-இந்த கட்டுக்கதைகள் ஒருங்கிணைந்த அவதூறு பிரச்சாரத்தின் ஒரு பகுதியாகும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+He added that these myths are part of the integrated slander campaign.
 
-போதைப்பொருள் கடத்தல் வலையமைப்புகள் மற்றும் அவற்றுடன் தொடர்புடையதாகக் கூறப்படும் நபர்களை அம்பலப்படுத்துவதற்கான தனது அண்மைய முயற்சிகளுடன் குற்றச்சாட்டுகளை இணைத்துக் கூறியுள்ளார்.
+He has joined the allegations with his recent attempts to expose drug trafficking networks and allegedly associated with them.
 
-...
+Deputy Minister of Public Security Sunil Vattakala said that he is preparing to complain to the Criminal Investigation Department and take legal action under civil law to get compensation from those responsible for spreading misinformation.
+
+◼️
 
 [Data](articles/ead9eb47.json)
 
+[Extended Data](ext_articles/ead9eb47.ext.json)
+
 ---
 
-### கடந்த கால ஆட்சியாளர்களால் ஆரம்பிக்கப்பட்ட 17  திட்டங்கள் இடைநடுவே கைவிடப்பட்டுள்ளன - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
+### The 17 projects initiated by the rulers of the past have been abandoned - Minister Nalinda Jayatissa
 
 *2025-09-15 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225178) · `ta`
 
-கடந்த கால ஆட்சியாளர்களால் ஆரம்பிக்கப்பட்ட 17  திட்டங்கள் இடைநடுவே கைவிடப்பட்டுள்ளன . உரிய காலப்பகுதிக்குள் அப்பணிகளை நிறைவுசெய்ய தவரியதால்,  சுமார் 29 பில்லியன் ரூபா பணத்தை மேலதிகமாக செலவிட  வேண்டிய நிலை உருவாகியுள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+17 projects initiated by past rulers have been abandoned. Minister of Health and Media Nalinda Jayadissa said that as it was to be completed in a timely manner, about 29 billion rupees had to be spent.
 
-மொரட்டுவை பல்கலைக்கழக மருத்துவ பீடத்தின்  இறுதியாண்டை சேர்ந்த 100 மருத்துவ மாணவர்களுக்கான  பேராசிரியர் வழிமுறை பயிற்சிகள் திங்கட்கிழமை (15) களுத்துறை நாகொட போதனா வைத்தியசாலையில் சுகாதார அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் ஆரம்பித்து வைக்கப்பட்டது.
+Professor Instructions for 100 Medical Students belonging to the Moratuwa University Faculty of Medical Faculty were inaugurated on Monday (15) at the Kalutara Nagoda Teaching Hospital under the patronage of Health Minister Dr. Nalinda Jayatissa.
 
-2017 ஆம் ஆண்டு எதிர்க்கட்சி பாராளுமன்ற உறுப்பினராக இருந்தபோது  மொரட்டுவை மற்றும் ஊவா வெல்லஸ்ஸ ஆகிய  பல்கலைக்கழகங்களுக்கான மருத்துவ பீடம் மற்றும் மொரட்டுவை பல்கலைக்கழக மருத்துவ மாணவர்களுக்கு பயிற்சி அளிக்க  களுத்துறை நாகொட வைத்தியசாலையை  வழங்குமாறு கோரியும் தனிநபர் பிரேணை ஒன்றை பாராளுமன்றத்தில் முன்வைத்திருந்தேன்.   அப்போதைய ஆட்சியாளர்களின் பிரேதேச ரீதியான தீர்மானங்களினால் அதை சாத்தியப்படுத்துவது சிரமமான காரியமாக இருந்தது.
+When I was a member of the Opposition in 2017, I had presented an individual reform in Parliament demanding the provision of the Medical Faculty of Moratuwa and Uva Wellasa to the University of Moratuwa and the Moratuwa University medical students to provide the Kalutara Nagoda Hospital.   It was a difficult task to make it possible by the international resolutions of the then rulers.
 
 ...
 
 [Data](articles/5ffd8cc8.json)
 
+[Extended Data](ext_articles/5ffd8cc8.ext.json)
+
 ---
 
-### கிளிநொச்சியில் பாதுகாப்புப் படையினர் வசமிருந்த 30 ஏக்கர் நிலங்கள் விடுவிப்பு
+### 30 acres of land in Kilinochchi
 
 *2025-09-15 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225177) · `ta`
 
-கிளிநொச்சி மாவட்டத்தில் பாதுகாப்பு படையினர் வசமிருந்த முப்பது ஏக்கர் வரையான காணிகள் விடுவிக்கப்பட்டுள்ளன.
+Thirty acres of land belonging to security forces in Kilinochchi district has been released.
 
-கடந்த 2009 ஆண்டு முதல் பாதுகாப்பு படையினர் வசமிருந்த தனியார் மற்றும் அரச காணிகள் கட்டம்  கட்டமாக விடுவிக்கப்பட்டு வந்துள்ளன.
+Since 2009, the private and state lands owned by the security forces have been released in phase.
 
-அதன் தொடர்சியாக கிளிநொச்சி மாவட.டத்தின் பூனகரி பிரதேச செயலாளர் பிரிவின் கீழுள்ள பொன்னாவெளி  கிராம அலுவலர் பிரிவிலுள்ள 07 ஏக்கர்  காணி கடந்த (07-09-2025) அன்று விடுவிக்கப்பட்டு  பிரதேச செயலாளரிடம் கையளிக்கப்பட்டுள்ளது குறித்த காணி தற்காலிகமாக மரமுந்திரிகை கூட்டுத்தாபனத்திடம் பொறுப்பில் கையளிக்கப்பட்டுள்ளதாகவும்
+As a result of this, the land has been released to the Divisional Secretary of the Ponnaveli Grama Niladhari Division under the Poonaveli Divisional Secretariat Division of the Kilinochchi Mavada.
 
-இதே போன்று நல்லூர் கிராம அலுவலர் பிரிவிலுள்ள  முட்கொம்பன்  பகுதியில் இரானுவத்தினர் வசமிருந்த 20  ஏக்கர்  காணி விடுவிக்கப்பட்டுள்ளது
+Similarly, 20 acres of land in Mudkomban in the Nallur Grama Niladhari Division has been released.
 
-அத்துடன் பச்சிலைப்பள்ளி பிரதேச செயலாளர் பிரிவின் கீழுள்ள இயக்கச்சி  பகுதியில் இரானுவத்தினர் வசமிருந்த தணியாருக்கு சொந்தமான எட்டுப் பேரின்  காணியும்  விடுவிக்கப்பட்டுள்ளதாக  மாவட்ட அரச அதிபர் சுப்பிரமணியம் முரளிதரன் எதரிவித்துள்ளார்.
+District Government Agent Subramaniam Muralitharan has stated that the land of eight persons belonging to the Taniyar owned by the Iranvas in the Divisional Secretariat Division of the Pachchilaipalli Divisional Secretariat Division has been released.
 
 ◼️
 
 [Data](articles/090d649e.json)
+
+[Extended Data](ext_articles/090d649e.ext.json)
 
 ---
 
@@ -241,6 +273,8 @@ Highlighting the government’s dedication to preserving the current economic st
 ◼️
 
 [Data](articles/710cef79.json)
+
+[Extended Data](ext_articles/710cef79.ext.json)
 
 ---
 
@@ -2069,25 +2103,5 @@ When Owen Cooper received this, “I am nothing three years ago. Now I am standi
 [Data](articles/5e8753c5.json)
 
 [Extended Data](ext_articles/5e8753c5.ext.json)
-
----
-
-### 15 arrested in roundabout
-
-*2025-09-15 11:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றிவளைப்பில்-15-பேர்-கைது/175-364612) · `ta`
-
-The Sri Lankan police have arrested 15 people who have been searched for direct involvement in criminal activity across the country.
-
-The suspects have been arrested during several measures held on Sunday to prevent drugs and crimes in Sri Lanka.
-
-Of them, 15 were arrested for direct involvement and 674 on suspicion.
-
-The police arrested 220 persons and 155 people who were issued an opening.
-
-◼️
-
-[Data](articles/d7c2a6f6.json)
-
-[Extended Data](ext_articles/d7c2a6f6.ext.json)
 
 ---

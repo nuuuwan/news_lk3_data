@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 21:07:30**
+As of **2025-09-15 20:56:17**
 
 ## Newspaper Stats
 
-*Scraped **76,146** Articles*
+*Scraped **76,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,21 @@ economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,392
+adalk | 7,390
 adaderanalk | 9,804
 tamilmirrorlk | 11,396
 virakesarilk | 12,410
-adaderanasinhalalk | 13,288
+adaderanasinhalalk | 13,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,324 (95.0%) of 76,146 articles have been extended.
+72,324 (95.0%) of 76,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
-
-### ගින්නකින් මැනිලා නුවර පැල්පත් නිවාස දහසක් වැනසේ
-
-*2025-09-15 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214611) · `si`
-
-පිලිපීනයේ මැනිලා අගනුවර ඇති වූ ගින්නකින් පැල්පත් නිවාස දහසකට වැඩි සංඛ්‍යාවක් වැනසී ඒවායේ වාසය කළ දහස් සංඛ්‍යාත පිරිසක් අවතැන්වී තිබේ.
-
-පැය 10කට ආසන්න කාලයක් සිදුකළ දැවැන්ත මෙහෙයුමකින් අනතුරුව ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
-
-පිලිපීනයේ මැනිලා අගනුවර තදාසන්න කලාපයක පිහිටි පැල්පත් නිවාස දහස් ගණනක් ගින්නකට හසුව විනාශ වී තිබේ.
-
-මේ අනුව නිවාස 1100ක් පමණ වැනසී ගොස් ඇති අතර, දහස් සංඛ්‍යාත ජනතාවක් අවතැන් වී ඇතැයි ද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
-
-එරට වේලාවෙන් ඊයේ රාත්‍රියේ හටගත් ගින්න නිවාදැමීම අසීරු වී ඇත්තේ එය වේගයෙන් ව්‍යාප්ත වීම හේතුවෙන්ය.
-
-ගිනි නිවන රථ රැසක් යොදවා ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
-
-ගින්න හේතුවෙන් අවතැන් වූ පිරිස් මේ වනවිට රජයේ පාසල් සහ රජයේ කාර්යාල වෙත යොමුකර තිබේ.
-
-මැනිලා නුවර පැල්පත් නිවාස පිහිටි කලාප රැසක් ඇති අතර, එම කලාපවල මෙවන් බරපතළ අනතුරු සිදුවූ අවස්ථා රැසක්ම පසුගිය කාලයේදී වාර්තා වුණි.
-
-◼️
-
-[Data](articles/71ac56d3.json)
-
----
 
 ### Clean Sri Lanka  வேலைத்திட்டத்தின் கீழ், மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஆரம்பம்
 
@@ -123,34 +97,6 @@ However, Sri Lanka won the first match against Bangladesh by six wickets in the 
 ◼️
 
 [Data](articles/467df8aa.json)
-
----
-
-### මාගම්පුර වරාය කළමනාකරණ සමාගම ලබාගත් ඩොලර් ණයක් නොගෙවලා
-
-*2025-09-15 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/මාගම්පුර-වරාය-කළමනාකරණ-සමාගම-ලබාගත්-ඩොලර්-ණයක්-නොගෙවලා/11-418511) · `si`
-
-මාගම්පුර වරාය කළමනාකරණ සමාගම මගින් පෞද්ගලික බැංකුවකින් ලබාගත් ණය නොගෙවීම සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභා‍වේදී (කෝප්) දීර්ඝවශයෙන් සාකච්ඡා කිරීමෙන් අනතුරුව ඒ වෙනුවෙන් ගත යුතු නිර්දේශ නිකුත් කිරීම සිදු විය.
-
-මෙම නිර්දේශ නිකුත් කිරීම සිදු වූයේ ශ්‍රී ලංකා වරාය අධිකාරියේ 2022, 2023 වර්ෂයන්හි විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගිය 10 වැනි දා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-...
-
-[Data](articles/b7badceb.json)
-
----
-
-### විදුලි පනත සංශෝධනය නොකළානම් සේවකයන් 12000කගේ රැකියා අනතුරේ
-
-*2025-09-15 19:13:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පනත-සංශෝධනය-නොකළානම්-සේවකයන්-12000කගේ-රැකියා-අනතුරේ/11-418510) · `si`
-
-"පසුගිය රනිල්-රාජපක්ෂ රජය විදුලිබල ක්ෂේත්‍රය පුද්ගලිකකරණ වැඩපිළිවෙලක් හරහා විශේෂයෙන්ම සේවක වරප්‍රසාද, අයිතිවාසිකම් සම්බන්ධයෙන් සැලකිල්ලක් දක්වන්නෙ නැතුව ක්‍රියාත්මක කරපු වැඩ පිළිවෙල අපි පරාජය කළා විතරක් නෙවෙයි, ආපසු හැරෙව්වා.ඒ වගේම බලශක්ති ක්ෂේත්‍රයේ රාජ්‍ය හිමිකාරීත්වය තහවුරු කළා.
-
-රටේ සංවර්ධන ඉලක්ක සමග සමගාමීව විදුලිබල ක්ෂේත්‍රය සංවර්ධනය කරන්න අවශ්‍ය ව්‍යුහාත්මක වෙනස්කම් කරමින් 100%ක් පූර්ණ රාජ්‍ය හිමිකාරීත්වය තියෙන ආයතන පිහිටුවා අවසන්. ඒ අනුව සැළසුම් කළ පරිදි ඒ වැඩපිළිවෙල ඉදිරියට යනවා“ යනුවෙන් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා අද (15) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක් වෙමින් ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/73aea13b.json)
 
 ---
 
@@ -2051,5 +1997,57 @@ For example, if we take, we cannot go to some countries in the world as a typica
 [Data](articles/e8f003c7.json)
 
 [Extended Data](ext_articles/e8f003c7.ext.json)
+
+---
+
+### Boat for Boating in his own firearm
+
+*2025-09-15 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214587) · `si`
+
+In the Radnanara area of ​​the Radnanara area, a person was traveling on a gun in front of his motorcycle and was killed due to the gun.
+
+Initial police investigations have revealed that he had also kept a barrel of barrel to filter an illegal alcohol in addition to the gun.
+
+◼️
+
+[Data](articles/6d8a1033.json)
+
+[Extended Data](ext_articles/6d8a1033.ext.json)
+
+---
+
+### Central Bus Stand development begins in Pittu Fort
+
+*2025-09-15 10:52:18* · [`adalk`](https://www.ada.lk/breaking_news/පිට-කොටුව-මධ්‍යම-බස්-නැවතුම්පොළ-සංවර්ධනය-ඇරඹෙයි/11-418499) · `si`
+
+Renovation of Central Bus Stand Central Pettah has commenced a short moum before. Anura Kumara Dissanayake was conducted under the patronage of President Anura Kumara Dissanayake.
+
+424 million for the project. The Colombo Central Bus Stand consisting of modern facilities. The renovation work is to be completed in April next year.
+
+It is significant that the Central Bus Stand will be re-modernized after 60 years.
+
+◼️
+
+[Data](articles/572ebe7b.json)
+
+[Extended Data](ext_articles/572ebe7b.ext.json)
+
+---
+
+### Fire in three boats in the Savo Priya River in Bengok
+
+*2025-09-15 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225109) · `ta`
+
+International media reports that three boats in the Bangkok -Sawo Priya River
+
+A fire broke out at a passenger boat that was anchored on the Wat Ratsinkon Ship near the popular tourist atmosphere, Asia, the fire broke out at 6.43 pm yesterday.
+
+Within four minutes of flames spread to two ships nearby, and the boats burning in the fire have fallen in the middle of the river as the ropes that protect the boats have been broken.
+
+◼️
+
+[Data](articles/87bd5e23.json)
+
+[Extended Data](ext_articles/87bd5e23.ext.json)
 
 ---

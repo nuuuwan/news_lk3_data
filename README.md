@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 14:38:57**
+As of **2025-09-15 14:11:39**
 
 ## Newspaper Stats
 
-*Scraped **76,081** Articles*
+*Scraped **76,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,119 +12,39 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,608
+economynextcom | 4,607
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,383
-adaderanalk | 9,787
+adalk | 7,382
+adaderanalk | 9,784
 tamilmirrorlk | 11,386
-virakesarilk | 12,403
-adaderanasinhalalk | 13,272
+virakesarilk | 12,402
+adaderanasinhalalk | 13,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,968 (94.6%) of 76,081 articles have been extended.
+71,935 (94.6%) of 76,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### Prime Minister says that the government does not interfere with the independence of the police
-
-*2025-09-15 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214595) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the government hopes to make the police service into an independent, efficient, friendly and close to the public.
-
-She was addressing the closing ceremony of the 84th Police Interhearterene of the Sri Lanka Police Station at the Colombo Field Force Headquarters.
-
-Sachithra Jayakantan of the Criminal Investigation Division is the best thorns at the 84th Police Interhearterene.. Wijetunga, AMN. Perera, National. Despite the players of Hemantha, the Prime Minister Challenge Shield of Prime Minister for the Overall Succurrence, the Prime Minister was awarded the overall factory.
-
-Prime Minister Dr. Harini Amarasuriya said,
-
-...
-
-[Data](articles/c3d2909b.json)
-
-[Extended Data](ext_articles/c3d2909b.ext.json)
-
----
-
-### Economic and Investment Summit to focus on drawing investors to Sri Lanka
-
-*2025-09-15 14:00:00* · [`economynextcom`](https://economynext.com/economic-and-investment-summit-to-focus-on-drawing-investors-to-sri-lanka-240556/) · `en`
-
-ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, the Ceylon Chamber of Commerce said.
-
-“The session will explore how Sri Lanka can accelerate much-needed reforms, mitigate risks, and unlock new opportunities to position itself as a credible and attractive destination for both local and international investors,” the chamber said.
-
-The session titled “Where Sri Lanka Stands and What Comes Next?” will feature Arjuna Herath – Chairman, Board of Investment of Sri Lanka, Dimuthu Abeyesekera – Chairman, Colombo Stock Exchange, Mangala Wijesinghe – Chairman/CEO, Sri Lanka Export Development Board, and K A Vimalenthirarajah, – Secretary, Ministry of Trade, Commerce and Food Security.
-
-Dialog Axiata Group CEO Supun Weerasinghe will moderate the session.
-
-The summit will be held on December 2-3 at the Shangri-La Hotel Colombo. (Colombo/Sep15/2025)
-
-◼️
-
-[Data](articles/aae972b3.json)
-
----
-
-### Increasing ecommerce industry in Sri Lanka!
-
-*2025-09-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225136) · `ta`
-
-Police are paying attention to the rapid rise of enemy sex industry in Sri Lanka. There have been increased concerns about many people, including cyber fraud, exploitation and boys. Foreign women who have come to Sri Lanka on a tourist visa have also been shocked by this.
-
-Ads for hundreds of sex services daily with many websites and mobile processors. It has a variety of features such as direct video services and personal meetings.
-
-Charges for these services vary depending on the type of service. For example, the "mother full body massage" is advertised for about 10,000 rupees. At the same time, the cost of the live video session is charged from 1,000 rupees to Rs 1,000 for 30 minutes and 10,000 rupees. 8,000 to Rs 30,000 for direct meetings.
-
-...
-
-[Data](articles/4a360d7a.json)
-
-[Extended Data](ext_articles/4a360d7a.ext.json)
-
----
-
-### Rs. 2000 currency note will be gradually introduced into the banking system: CBSL
-
-*2025-09-15 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112518/rs-2000-currency-note-will-be-gradually-introduced-into-the-banking-system-cbsl) · `en`
-
-The newly issued Rs. 2000 commemorative currency note, released on 29 August 2025 to mark its 75th anniversary, will be gradually introduced into the banking system, the Central Bank of Sri Lanka (CBSL) has announced.
-
-Licensed Commercial Banks are currently calibrating their cash-handling machines to accept and dispense the new note. The CBSL stated that the note will be released into circulation in line with the progress of this process.
-
-The Central Bank requested the cooperation of the public during the transition and assured that the new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.
-
-For further information, the public has been requested to contact the CBSL Currency Department, visit the official website, or follow CBSL’s verified social media platforms.
-
-◼️
-
-[Data](articles/75730697.json)
-
-[Extended Data](ext_articles/75730697.ext.json)
-
----
-
-### “The. 2000 will be gradually circulated. ”
+### “ரூ. 2000 படிப்படியாக சுற்றோட்டத்திற்கு விடப்படும்”
 
 *2025-09-15 13:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2000-படிப்படியாக-சுற்றோட்டத்திற்கு-விடப்படும்/175-364621) · `ta`
 
-The Central Bank of Sri Lanka released its 75th anniversary on August 29, 2025. The Central Bank of Sri Lanka has announced that the currency should be circulated.
+இலங்கை மத்திய வங்கி அதன் 75ஆவது ஆண்டு நிறைவை முன்னிட்டு 2000 ரூபாய் நாணயத்தாளை 2025 ஓகஸ்ட்  29 அன்று  வெளியிட்டது. அந்த நாணயத்தாள்  சுற்றோட்டத்திற்கு விடப்படும் என இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
 
-In order to facilitate the acceptance and distribution of the new currency, licensed commercial banks carry out the process of measurement of their money handling machines. In accordance with the progress of this process. The new currency panel will be gradually circulated through licensed commercial banks.
+புதிய நாணயத்தாளை தங்குதடையின்றி ஏற்றுக்கொள்வதையும் விநியோகிப்பதையும் வசதிப்படுத்தும் பொருட்டு, உரிமம்பெற்ற வர்த்தக வங்கிகள் அவற்றின் பணம் கையாளும் இயந்திரங்களை அளவமைக்கும் செயன்முறையை முன்னெடுக்கின்றன. இச்செயன்முறையின் முன்னேற்றத்துக்கு ஏற்ப. புதிய நாணயத்தாள் உரிமம்பெற்ற வர்த்தக வங்கிகள் ஊடாக படிப்படியாக சுற்றோட்டத்திற்கு விடப்படும்.
 
-The Central Bank of Sri Lanka promises to use the cooperation of public cooperation during this period of changing and that the new currency paper will be used by all banks.
+மாறுதலடைகின்ற இக்காலப்பகுதியில் பொதுமக்களின் ஒத்துழைப்பை இலங்கை மத்திய வங்கி மெச்சுவதுடன் அளவமைக்கும் செயன்முறை நிறைவடைந்தவுடன் புதிய நாணயத்தாள் அனைத்து வங்கிகள் மூலமும் தங்குதடையின்றிப் பயன்படுத்தப்படுமெனவும் உறுதியளிக்கின்றது.
 
 ◼️
 
 [Data](articles/fb75103e.json)
-
-[Extended Data](ext_articles/fb75103e.ext.json)
 
 ---
 
@@ -207,48 +127,6 @@ Accordingly, the Central Bank of Sri Lanka (CBSL) has announced that the call of
 [Data](articles/62b2bf6d.json)
 
 [Extended Data](ext_articles/62b2bf6d.ext.json)
-
----
-
-### Rising oceans to threaten 1.5 million Australians by 2050: Report
-
-*2025-09-15 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112517/rising-oceans-to-threaten-15-million-australians-by-2050-report) · `en`
-
-Rising oceans and flooding caused by climate change will threaten the homes and livelihoods of over a million Australians by 2050, while deaths from heat-related illness will soar, a landmark report warned Monday (Sep 15) ahead of the country’s releasing its emission reduction targets this week.
-
-The long-awaited national climate risk assessment found that rising temperatures will have “cascading, compounding, concurrent” impacts on life in Australia, home to more than 27 million people.
-
-“We are living climate change now. It’s no longer a forecast, a projection or prediction - it is a live reality, and it’s too late to avoid any impacts,” Climate Minister Chris Bowen said.
-
-The report, prepared independently for the government, found that 1.5 million people living in coastal areas will be at risk of sea level rise and coastal flooding by 2050.
-
-By 2090, about three million people will be at risk from rising oceans.
-
-...
-
-[Data](articles/28530ce3.json)
-
-[Extended Data](ext_articles/28530ce3.ext.json)
-
----
-
-### Govt aims to build independent and people-oriented police service - PM
-
-*2025-09-15 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112516/govt-aims-to-build-independent-and-people-oriented-police-service-pm) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that it is the Government’s expectation to transform the Police Service into an independent, efficient, friendly, and people-oriented service.
-
-The Prime Minister made these remarks while addressing the closing ceremony of the 84th Police Inter-Divisional Athletics meets held on 14 September at the Field Force Headquarters, Colombo, according to the Prime Minister’s Media Division.
-
-At the 84th Police Inter-Divisional Athletics Meets, the award for the Best Female Athlete was presented to Sachithra Jayakanthan of the Criminal Investigation Division, while the awards for the Best Male Athletes were presented to T.G.S. Wijethunga, A.M.N. Perera, and Hemantha.
-
-The Prime Minister’s Challenge Trophy for Overall Runner-Up was presented by the Prime Minister to the Criminal Investigation Department and the President’s Challenge Trophy for Overall Championship to the Special Task Force, the statement said.
-
-...
-
-[Data](articles/2b549148.json)
-
-[Extended Data](ext_articles/2b549148.ext.json)
 
 ---
 
@@ -640,17 +518,15 @@ Among respondents, the perceived probability of materialisation of a high impact
 
 ---
 
-### Bimal climbed in Eman's vehicle
+### எமனின் வாகனத்தில் ஏறிய பிமல்
 
 *2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எமனின்-வாகனத்தில்-ஏறிய-பிமல்/62-364610) · `ta`
 
-Transport Minister Bimal Ratnayaka said that the innocent civilian is holding his hips without falling down.
+போக்குவரத்து அமைச்சர் பிமல் ரத்னாயக்க, எமனின் வாகனமான எருமையின் மீதேறி இருப்பதை போலவும் அப்பாவி பொதுமகன் கீழே விழுந்து விடாது அவரின் இடுப்பை பிடித்துக்கொண்டு இருக்கின்றார்..
 
 ◼️
 
 [Data](articles/9b7d29d5.json)
-
-[Extended Data](ext_articles/9b7d29d5.ext.json)
 
 ---
 
@@ -689,24 +565,6 @@ Under the first phase, 28 students were given scholarships.
 [Data](articles/9679186f.json)
 
 [Extended Data](ext_articles/9679186f.ext.json)
-
----
-
-### වරප්‍රසාද කණ්ඩායම් ජනපති අරමුදල අව‍භාවිත කළා
-
-*2025-09-15 11:16:44* · [`adalk`](https://www.ada.lk/breaking_news/වරප්‍රසාද-කණ්ඩායම්-ජනපති-අරමුදල-අව‍භාවිත-කළා/11-418502) · `si`
-
-පසුගිය පාලන සමයේ ජනාධිපති අරමුදල වරප්‍රසාදිත කණ්ඩායම් විසින් අවභාවිතා කර ඇති බවත්, එය නිවැරදි ප්‍රවේශයකට ගෙන ඒමට වත්මන් රජයට හැකි වූ බවත් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සඳහන් කළාය.
-
-අග්‍රාමාත්‍යවරිය මෙම අදහස් පළ කළේ ජනාධිපති අරමුදලෙන් මධ්‍යම පළාතේ අ.පො.ස උසස් පෙළ විශිෂ්ටයින් ඇගයීම වෙනුවෙන් මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයීය ශ්‍රවණාගාරයේදි ඊයේ (14) පැවති වැඩසටහනට එක් වෙමිනි.
-
-මෙහිදී මහනුවර, මාතලේ සහ නුවරඑළිය යන දිස්ත්‍රික්කයන්හි 2023 සහ 2024 වර්ෂවලට අදාළ අ.පො.ස උසස් පෙළ විභාගයේදී, විෂය ධාරා 6 යටතේ ඉහළ ප්‍රතිඵල ලබා ගත් සිසුන් 10 දෙනකු බැගින්, සිසුන් 361 දෙනකුට රුපියල් ලක්ෂය බැගින් වූ දිරි දීමනාවක් ප්‍රදානය කෙරුණු අතර මේ සඳහා ජනාධිපති අරමුදල වැය කර ඇති මුදල රුපියල් මිලියන 36.1 කි.
-
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ අග්‍රාමාත්‍යවරිය සඳහන් කළේ ජනාධිපති අරමුදල ස්ථාපිත කළ සත්‍ය අරමුණ ක්‍රියාත්මක වන්නේ වත්මන් ආණ්ඩුව යටතේ බවත්, ඈත ගමේ සිටින පුරුවැසියා වෙතටම ගොස් පහසුකම් සැපයීමට ජනාධිපති අරමුදල මේ වන විට කටයුතු කරමින් සිටින බවත්ය.
-
-...
-
-[Data](articles/8fc5b3a0.json)
 
 ---
 
@@ -2085,5 +1943,145 @@ Investigations into the death were conducted by Namasivayam Premkumar, a sudden 
 [Data](articles/dbb87c36.json)
 
 [Extended Data](ext_articles/dbb87c36.ext.json)
+
+---
+
+### AASL staff member arrested at BIA with Rs. 210 m  worth of gold biscuits
+
+*2025-09-15 03:49:59* · [`dailyftlk`](https://www.ft.lk/news/AASL-staff-member-arrested-at-BIA-with-Rs-210-m-worth-of-gold-biscuits/56-781689) · `en`
+
+A staff member of Airport and Aviation Services Sri Lanka Ltd., (AASL) was arrested yesterday at Bandaranaike International Airport (BIA) while attempting to smuggle gold biscuits worth over Rs. 210 million.
+
+Sri Lanka Customs said the 54-year-old individual was apprehended at the staff exit gate of BIA, while in possession of 5.94 kilos of 24 karat gold biscuits.
+
+◼️
+
+[Data](articles/7c97b06c.json)
+
+[Extended Data](ext_articles/7c97b06c.ext.json)
+
+---
+
+### 72 -year -old dies in accident in Jaffna
+
+*2025-09-15 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225089) · `ta`
+
+An elderly man died on Friday (14) without treatment. The deceased is Vallipuram Mahalingam (age 72) from Tirunelveli - Kalasalai road.
+
+He was on his way home on a motorbike on the 5th and was returning home from Kilinochchi.
+
+The victim was taken to the Chavakachcheri Resource Hospital and then transferred to the Jaffna Teaching Hospital.. However, he died this morning without treatment.
+
+Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
+
+◼️
+
+[Data](articles/9b58f579.json)
+
+[Extended Data](ext_articles/9b58f579.ext.json)
+
+---
+
+### Sword Cut in Kuttanai: trio wound
+
+*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-மூவர்-காயம்/175-364588) · `ta`
+
+Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
+
+Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
+
+Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
+
+At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
+
+The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
+
+◼️
+
+[Data](articles/7fed0e3c.json)
+
+[Extended Data](ext_articles/7fed0e3c.ext.json)
+
+---
+
+### Sword cut in Kuttanai: trio injured
+
+*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-சம்பவம்-மூவர்-காயம்/175-364588) · `ta`
+
+Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
+
+Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
+
+Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
+
+At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
+
+The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
+
+◼️
+
+[Data](articles/8bf2c316.json)
+
+[Extended Data](ext_articles/8bf2c316.ext.json)
+
+---
+
+### Foreign Minister Vijitha Herath concludes visit to Geneva
+
+*2025-09-15 03:45:01* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Vijitha-Herath-concludes-visit-to-Geneva/56-781688) · `en`
+
+Foreign Minister Vijitha Herath with Human Rights Council President Ambassador Jürg Lauber of Switzerland
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath concluded his visit to Geneva, where he addressed the 60th Session of the UN Human Rights Council (UNHRC) on 8 September, delivering the Government statement during the Interactive Dialogue on Sri Lanka.
+
+Minister Herath reiterated Sri Lanka’s commitment to achieving reconciliation through domestic processes and outlined the measures already taken by the Government for transformation to advance the rights and well-being of all Sri Lankans.
+
+The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally imposed mechanisms.
+
+...
+
+[Data](articles/a568d1dc.json)
+
+[Extended Data](ext_articles/a568d1dc.ext.json)
+
+---
+
+### SL votes and welcomes UN adoption of resolution on Palestine
+
+*2025-09-15 03:44:33* · [`dailyftlk`](https://www.ft.lk/news/SL-votes-and-welcomes-UN-adoption-of-resolution-on-Palestine/56-781687) · `en`
+
+Sri Lanka yesterday welcomed the adoption by the UN General Assembly of the resolution endorsing the New York Declaration on the peaceful settlement of the Question of Palestine and the implementation of the two-State solution.
+
+“We extend our sincere appreciation to Saudi Arabia and France for their leadership in this important initiative,” the Foreign Affairs Ministry said.
+
+“Sri Lanka reaffirms its unwavering support for the inalienable right of the Palestinian people to Statehood, in accordance with the purposes and principles of the Charter of the UN and the relevant UN resolutions,” it added.
+
+◼️
+
+[Data](articles/1dd2abb5.json)
+
+[Extended Data](ext_articles/1dd2abb5.ext.json)
+
+---
+
+### Govt. to step back from running businesses, focus on facilitation
+
+*2025-09-15 03:43:16* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-step-back-from-running-businesses-focus-on-facilitation/34-781686) · `en`
+
+Industry and Entrepreneurship Development Minister Sunil Handunneththi outlines plans to liquidate 33 non-functional SOEs
+
+Says many SOEs originally set up to provide public services or promote strategic economic activities are defunct institutions and no longer relevant
+
+Notes move is part of Govt.'s broader reform agenda to rationalise State ownership, improve efficiency and allow private sector-led growth
+
+Industry and Entrepreneurship Development Minister Sunil Handunneththi last Friday asserted that the Government’s primary role is to create a conducive environment for businesses to thrive, rather than directly managing enterprises.
+
+Speaking at the 35th Annual General Meeting of the Sri Lanka Tea Factory Owners’ Association, he outlined plans to liquidate 33 State-owned enterprises (SOEs) deemed non-functional, underscoring the administration’s focus on reducing the financial burden on taxpayers, while encouraging private sector growth.
+
+...
+
+[Data](articles/00c399c9.json)
+
+[Extended Data](ext_articles/00c399c9.ext.json)
 
 ---

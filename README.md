@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 17:05:50**
+As of **2025-09-15 16:53:54**
 
 ## Newspaper Stats
 
-*Scraped **76,111** Articles*
+*Scraped **76,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,79 +18,33 @@ dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,386
 adaderanalk | 9,795
-tamilmirrorlk | 11,391
+tamilmirrorlk | 11,390
 virakesarilk | 12,405
-adaderanasinhalalk | 13,283
+adaderanasinhalalk | 13,281
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,090 (94.7%) of 76,111 articles have been extended.
+72,083 (94.7%) of 76,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### 2025 දෙවන කාර්තුවේ දී ආර්ථිකයේ 4.9%ක වර්ධනයක්
-
-*2025-09-15 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214606) · `si`
-
-2025 වර්ෂයේ දෙවන කාර්තුවේ ආර්ථිකයේ සියයට 4.9ක ධනාත්මක වර්ධනයක් ලෙස වාර්තාවී තිබේ.
-
-◼️
-
-[Data](articles/fbd9b25c.json)
-
----
-
-### சீகிரியவில் கீறிய பெண்ணுக்கு சிக்கல்
-
-*2025-09-15 16:41:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியவில்-கீறிய-பெண்ணுக்கு-சிக்கல்/175-364635) · `ta`
-
-சீகிரிய பாறையில் ஹேர்பின் மூலம்   எழுதிய இளம் பெண்ணை வரும் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு தம்புள்ளை மாவட்ட நீதவான் நிலந்த விமலரத்ன, திங்கட்கிழமை (15) உத்தரவிட்டார்.
-
-விளக்கமறியலில்  வைக்கப்பட்ட பெண் அவிசாவளையைச் சேர்ந்த 21 வயதுடைய முத்து குமாரி நிரஞ்சலா ஆவார்.
-
-சீகிரிய பாறையில் ஹேர்பின் மூலம் ஆறு ஆங்கில எழுத்துக்களை எழுதியதாக சந்தேகிக்கப்படும் 21 வயது இளம் பெண் ஒருவர் கடந்த 14 ஆம் திகதி மதியம் கைது செய்யப்பட்டார்.
-
-◼️
-
-[Data](articles/afe14b23.json)
-
----
-
-### කොරියානු භාෂා ප්‍රවීණතා විභාගය සඳහා ප්‍රවේෂපත්‍ර නිකුත් කිරීම ඇරඹේ
-
-*2025-09-15 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214605) · `si`
-
-දකුණු කොරියාවේ නිෂ්පාදන හා ධීවර ක්ෂේත්‍රවල රැකියා සඳහා 2025 වර්ෂයේ පැවැත්වීමට නියමිත කොරියානු භාෂා ප්‍රවීණතා පරීක්ෂණය සඳහා විභාග ප්‍රවේශපත්‍ර නිකුත් කිරීම අද (15) සිට 17 වන දින මධ්‍යම රාත්‍රිය දක්වා මාර්ගගත ක්‍රමය ඔස්සේ සිදුකිරීමට නියමිතය.
-
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ නිළ වෙබ් අඩවිය වන www.slbfe.lk යන වෙබ් අඩවිය මඟින් විභාගය සඳහා අවශ්‍ය කරන අයදුම්පත් ලබාගැනීම සඳහා ලියාපදිංචිය ලබාගත හැකිය.
-
-මේ සඳහා අවුරුදු 18-39ත් අතර පුද්ගලයින්ට (1985.09.15 සිට 2007.09.14 උපන් අයට) අයදුම් කළ හැකි අතර, වර්ණ අන්ධතාවය නොමැති, නඩු නිමිත්තක වරදකරුවෙකු වී දඩ මුදල් ගෙවිමක්, සිරගතවීමක් හෝ බරපතල වැරදිවලට වැරදිකරුවෙකු වී නොමැති, වර්ණ අන්ධතාවය, කොඳු ඇට පෙලේ ආබාධ සහිත, ඇඟිලි අඩු හෝ ඉවත් කර නොමැති පුද්ගලයින් හා දකුණු කොරියාව මඟින් පිටුවහල් කළ බවට පෙර වාර්තා නොමැති හා E-9 සහ E-10 වීසා කාණ්ඩ යටතේ වූ සේවා කාලයද ඇතුළුව වසර 5ට අධික කාලයක් දකුණු කොරියාවේ සේවය කර නොමැති පුද්ගලයින් විය යුතුය.
-
-...
-
-[Data](articles/0eabc8e3.json)
-
----
-
-### An announcement of warm weather
+### උණුසුම් කාලගුණය ගැන නිවේදනයක්
 
 *2025-09-15 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214604) · `si`
 
-The Department of Meteorology has issued an announcement of warm weather conditions.
+උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
 
-Today (15) pm. The Department of Meteorology will address the announcement at 03.30 am (16).
+අද (15)  ප.ව. 03.30ට නිකුත් කරන ලද එම නිවේදනය හෙට (16) දිනය දක්වා වලංගු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ස﻿ඳහන් කරයි.
 
-The warm indicator of the North, North-central and Northwestern provinces, in Colombo, Gampaha, Hambantota and Monaragala Districts, the heat of the human body can be "focused".
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ වයඹ පළාත්වලත් කොළඹ, ගම්පහ, හම්බන්තොට සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ප්‍රදේශවල උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම “අවධානය යොමු කල යුතු” මට්ටමක පැවතිය හැකි බවද එහි සඳහන් වේ.
 
 ◼️
 
 [Data](articles/fe7895f2.json)
-
-[Extended Data](ext_articles/fe7895f2.ext.json)
 
 ---
 
@@ -956,23 +910,19 @@ Accordingly, in the first phase of the event, 28 students were given scholarship
 
 ---
 
-### The objective of reducing people to prison should be the goal
+### බන්ධනාගාරයට පුද්ගලයින් යොමුවීම අඩු කිරීම අරමුණ විය යුතුයි
 
 *2025-09-15 12:04:37* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරයට-පුද්ගලයින්-යොමුවීම-අඩු-කිරීම-අරමුණ-විය-යුතුයි/11-418505) · `si`
 
-Attorney-at-Law, Minister of Justice and National Integration, Attorney General
+අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මෙම අදහස් පළ කළේ කොළඹ 08, සර්වෝදය සංවර්ධන මුල්‍ය ආයතන නගරෝදය ශ්‍රවණාගාරයේ පැවති 27 වන ජාතික සිරකරු දින උත්සවයේ ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගිවෙමිනි.
 
-"The Prisoner Welfare Society for Prisoners' Facilitate for Prison Inmates is commendable. It is necessary to say that the prisoner welfare society provides strength to facilitate prisoners. You have been a great service to the prisoners annually by celebrating the date of prisoner for years annually.
+"බන්ධනාගාරගත රැඳවියන් වෙනුවෙන් පහසුකම් සපයමින් සිරකරුවන් වෙනුවෙන් සිරකරු සුභ සාධක සංගමය විසින් සිදු කරනු ලබන සේවය ප්‍රශංසනීයයි. සිරකරුවන්ට පහසුකම් සැපයීමේදී සිරකරු සුභ සාධක සංගමය ලබා දෙන සහාය ශක්තියක් බව කිව යුතුයි. ඔබ සංගමය වසර ගණනාවක් තිස්සේ වාර්ෂිකව සිරකරු දිනය සමරමින් සිරකරුවන් වෙනුවෙන් විශාල සේවයක් සිදු කර තිබෙනවා.
 
-There are many prisoners in prisons. It must be noted that our responsibility to reduce the congestion. Our goal should be to reduce the one to the prison. The number of persons who are imprisoned due to poverty has increased. The present government's purpose is to reduce the number of people who are impressed by the social justice of the country.
+අද වන විට බන්ධනාගාර තුළ සිරකරුවන්ගේ විශාල තදබදයක් තිබෙනවා. එම තදබදය අඩු කරමින් අවශ්‍ය පහසුකම් සැපයීම අපේ වගකීමක් බව සඳහන් කළ යුතුයි. අපේ අරමුණ විය යුතු වන්නේ බන්ධනාගාරයට පුද්ගලයින් යොමු වන එක අඩු කිරීමයි. දුප්පත්කම නිසා බන්ධනාගාරගත වන සංඛ්‍යාව වැඩි වෙලා තිබෙනවා. වත්මන් රජයේ අරමුණ රටේ සමාජ සාධාරණත්වය තුළින්  ආර්ථික දියුණුව ඇති කිරීමෙන් බන්ධනාගාරගත වන සංඛ්‍යාව අඩු කිරීමයි.
 
-It is very important to facilitate the human rights of all those who are imprisoned. All people are equal to the law. The Minister said that a country should be created by protecting the rule of law as a government.
-
-◼️
+...
 
 [Data](articles/875e2cd3.json)
-
-[Extended Data](ext_articles/875e2cd3.ext.json)
 
 ---
 
@@ -2041,5 +1991,69 @@ A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting
 [Data](articles/f1ce059b.json)
 
 [Extended Data](ext_articles/f1ce059b.ext.json)
+
+---
+
+### Woman arrested for harming Sigiriya
+
+*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
+
+Sigiriya is arrested by the archaeological officers of a 21-year-old girl who was recovered from the English letter, harming its designation in the English letter, which was harmful to its secure Pura Poems.
+
+This unfortunate action was carried out while presenting the girl with a friend and a group of friends, a group of friends, a group of friends, a group of friends residing in Avissawella. When writing to his name, archaeological officers caught the woman when he wrotened her name, damaged her name hazardous poetic writings. Archaeological officials have found that this act has been damaged in the caterpade.
+
+The woman is in remand custody after handing over the woman to Sigiriya, and today 15 today is to be produced before the Dambulla Magistrate.
+
+Archaeological Officers are also conducting further investigations into the incident.
+
+This incident has restored questions about the safety of these historical locations and focuses on tourist and awareness.
+
+◼️
+
+[Data](articles/2619be8a.json)
+
+[Extended Data](ext_articles/2619be8a.ext.json)
+
+---
+
+### CEB workers to intensify strike action effective today
+
+*2025-09-15 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112505/ceb-workers-to-intensify-strike-action-effective-today) · `en`
+
+All trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their strike action against the proposed division of the CEB into four parts, effective today (15).
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to implement the strike in three phases.
+
+The first phase was initiated as a ‘work-to-rule’ trade union action.
+
+Although 11 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
+
+The union further stated that it will make an announcement regarding the next phase and potential intensification of the strike following trade union discussions scheduled for this afternoon.
+
+◼️
+
+[Data](articles/7a054a82.json)
+
+[Extended Data](ext_articles/7a054a82.ext.json)
+
+---
+
+### Prime Lands buys land in Bambalapitiya, Sri Lanka for Rs3.5bn
+
+*2025-09-15 08:00:00* · [`economynextcom`](https://economynext.com/prime-lands-buys-land-in-bambalapitiya-sri-lanka-for-rs3-5bn-240520/) · `en`
+
+ECONOMYNEXT – Sri Lanka property developer Prime Lands Residencies PLC said it had bought a land at Bambalapitiya Station Road for 3.5 billion rupees.
+
+The property was bought at an auction on Friday (12), the company said in a stock exchange filing.
+
+The company has paid 350,000,010 rupees of the total 3,500,000,100, or 10 percent of the selling price, as the advance payment and the balance will be settled within 30 days from the date of communication from the bank, Prime Lands said.
+
+The stock war trading up 2.10 rupees at 34.20. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/67708843.json)
+
+[Extended Data](ext_articles/67708843.ext.json)
 
 ---

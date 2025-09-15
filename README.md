@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 10:09:34**
+As of **2025-09-15 11:08:16**
 
 ## Newspaper Stats
 
-*Scraped **76,023** Articles*
+*Scraped **76,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,179 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,377
+adalk | 7,379
 adaderanalk | 9,779
-tamilmirrorlk | 11,368
+tamilmirrorlk | 11,376
 virakesarilk | 12,396
-adaderanasinhalalk | 13,261
+adaderanasinhalalk | 13,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,684 (94.3%) of 76,023 articles have been extended.
+71,761 (94.4%) of 76,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
+
+### புறக்கோட்டை  பேருந்து நிலையபுனரமைப்புப் பணிகளை ஆரம்பித்தார் ஜனாதிபதி
+
+*2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-மத்திய-பேருந்து-நிலையத்தின்-புனரமைப்புப்-பணிகள்-ஆரம்பம்/175-364606) · `ta`
+
+புறக்கோட்டைமத்திய பேருந்து நிலையத்தின் புணர்நிர்மான பணிகள் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் தலைமையில் அதிகாரப்பூர்வமாக ஆரம்பிக்கப்பட்டுள்ளன.
+
+1964 ஆம் ஆண்டு முதன் முதலில் கட்டப்பட்ட இந்த பேருந்து நிலையம், 60 ஆண்டுகளில் முதல் முறையாக பெரிய அளவிலான மேம்பாடுகளுக்கு உட்பட்டுள்ளது.
+
+இந்தத் திட்டத்திற்கு ரூ.424 மில்லியன் செலவாகும் என்று எதிர்பார்க்கப்படுகிறது. புணர்நிர்மான பணிகளின் ஒரு பகுதியாக, புதிய கழிப்பறைகள், தகவல் மற்றும் தகவல் தொடர்பு நிலையங்கள்,மேம்படுத்தப்படும் பாதுகாப்பு அமைப்புகள் மற்றும் பயணிகளின் அனுபவத்தை மேம்படுத்துவதை நோக்கமாகக் கொண்ட பிற முக்கிய உள்கட்டமைப்பு மேம்பாடுகள் உள்ளிட்ட நவீன வசதிகளுடன்  புறக்கோட்டை மத்திய பேருந்து நிலையம் நிர்மாணிக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/e3d62ce7.json)
+
+---
+
+### லிஃப்டுக்குள் உல்லாசம்: கசிந்த காட்சிகள்
+
+*2025-09-15 10:49:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிஃப்டுக்குள்-உல்லாசம்-கசிந்த-காட்சிகள்/175-364604) · `ta`
+
+பிரபல சமையல் கலைஞரும் நடிகருமான மாதம்பட்டி ரங்கராஜ் மற்றும் ஆடை வடிவமைப்பாளர் ஜாய் கிரிஸில்டா இடையிலான உறவு சர்ச்சை, இணையத்தில் வைரலாகி வரும் லிஃப்ட் புகைப்படங்களால் புதிய திருப்பத்தை எட்டியுள்ளது.
+
+இருவரும் நெருக்கமாக, உல்லாசமாக இருந்ததாகக் கூறப்படும் இந்த புகைப்படங்கள், சமூக வலைதளங்களில் பரவி, பொதுமக்களை அதிர்ச்சியில் ஆழ்த்தியுள்ளன.
+
+இந்த விவகாரம், ஆண்கள் சமூகத்தின் இரட்டைத் தரத்தை மையமாகக் கொண்டு சமூகத்தில் கடும் விவாதத்தை ஏற்படுத்தியுள்ளது.
+
+மாதம்பட்டி ரங்கராஜ், ஏற்கனவே திருமணமானவர் என்று அறிந்தும், அவரது புகழ் மற்றும் செல்வத்தின் மீது ஆசைப்பட்டு ஜாய் கிரிஸில்டா அவரை கவர்ந்ததாக சமூகம் முதலில் குற்றஞ்சாட்டியது. ஆனால், ஜாய் தனது தரப்பு நியாயங்களை சமூக வலைதளங்களில் பதிவு செய்த பிறகு, பொதுமக்களின் கருத்து மாறத் தொடங்கியுள்ளது.
+
+...
+
+[Data](articles/ab1f34f5.json)
+
+---
+
+### நீராடச் சென்ற சிறுவன் நீரில் மூழ்கி மரணம்
+
+*2025-09-15 10:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராடச்-சென்ற-சிறுவன்-நீரில்-மூழ்கி-மரணம்/175-364602) · `ta`
+
+கலேவெல பகுதியில் உள்ள தேவஹுவ நீர்த்தேக்கத்தில் நீராடச் சென்ற 11 வயது சிறுவன் நீரில் மூழ்கி உயிரிழந்தார்.
+
+இறந்த சிறுவன் தனது தந்தை மற்றும் உறவினர்களுடன் நீர்த்தேக்கத்தில் நீராடச் சென்றபோது இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+
+உறவினர்கள் மற்றும் அப்பகுதி மக்கள் இணைந்து சிறுவனை மீட்டு கலேவெல வைத்தியசாலையில் அனுமதித்துள்ள போதும், அவர் உயிரிழந்ததாக ஆரம்பகட்ட விசாரணையில் தெரியவந்தது. R
+
+◼️
+
+[Data](articles/4e66906e.json)
+
+---
+
+### “எம்பிலிப்பிட்டியே சுரங்க’’ கக்கினார்: ஈரானியர்கள் பறந்தனர்
+
+*2025-09-15 10:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்பிலிப்பிட்டியே-சுரங்க-கக்கினார்-ஈரானியர்கள்-பறந்தனர்/175-364601) · `ta`
+
+ஐஸ் போதைப்பொருள் தயாரிப்பதாக சந்தேகிக்கப்படும் ஹம்பாந்தோட்டை பகுதியில் உள்ள ஒரு விடுமுறை விடுதியில் நிறுத்தி வைக்கப்பட்டிருந்த சந்தேகத்திற்குரிய உபகரணங்கள், ரசாயனங்கள் மற்றும் ஒரு கார் பறிமுதல் செய்யப்பட்டதாக களுத்துறை குற்றப்பிரிவு தெரிவித்துள்ளது.
+
+களுத்துறை குற்றப்பிரிவு விசாரணைக் குழுவின் தடுப்பு உத்தரவின் பேரில் விசாரிக்கப்படும் "எம்பிலிப்பிட்டியே சுரங்க" என்பவரிடமிருந்து பெறப்பட்ட தகவல்களின் அடிப்படையில், இவை கைப்பற்றப்பட்டன.
+
+இந்தோனேசியாவிலிருந்து நாட்டிற்கு கொண்டு வரப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் தொடர்பாக கைது செய்யப்பட்டு விசாரணைக்காக தடுத்து வைக்கப்பட்டுள்ள எம்பிலிப்பிட்டியே சுரங்காவிடம் இருந்து கிடைத்த தகவலின் பேரில் விசாரணைகள் நடத்தப்பட்டன. ​​
+
+அதனடிப்படையில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் 52 லீற்றர் ரசாயனங்கள் மற்றும் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் பல உபகரணங்கள் அடங்கிய 13 கேன்கள் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/01a7ee5a.json)
+
+---
+
+### Small gun recovery from the Vienna Canal
+
+*2025-09-15 10:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வியன்னா-கால்வாயில்-இருந்து-சிறிய-துப்பாக்கி-மீட்பு/76-364599) · `ta`
+
+Mahiyanganaya police said that a small amount of gun and overseas -made ammunition were found in the Lokalla Oya Vienna Canal on Sunday evening.
+
+Police have reported that the service number and identity number of the gun has been recorded, and that twelve hole gun bullets, five T-56 bullets and seven 9 mm bullets have been found in a polythene bag.
+
+The guns and ammunition were known as the water was reduced and the bottom of the Vienna Canal was visible.
+
+◼️
+
+[Data](articles/f224a8c7.json)
+
+[Extended Data](ext_articles/f224a8c7.ext.json)
+
+---
+
+### Exit the settlers: 1.10 lakh people participated in London: What is the background?
+
+*2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
+
+About 1.10 lakh people participated in the United Kingdom rally, coordinated by Tommy Robinson, an ardent right -wing activist in London, UK.. A group of people who participated in the rally then clashed with the police.
+
+The rally was held on Saturday from Big Pen to Waterloo, along the banks of the Thames of London. Supporting the rally, the participants chanted against the migrants from abroad and that they were a threat to national identity.
+
+At the same time, anti -racists carried out a protest against Tommy Robinson's rally against fascism. About 5,000 people participated. The conflict erupted when the right -wing supporters tried to block those who protested their rally. The police have then attacked. Bottles have also been thrown towards the police.
+
+...
+
+[Data](articles/4492200f.json)
+
+[Extended Data](ext_articles/4492200f.ext.json)
+
+---
+
+### வடக்கு, கிழக்கு புதைக்குழிகளுக்கு நீதிகோரி யாழில் கையெழுத்து போராட்டம்
+
+*2025-09-15 10:16:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-புதைக்குழிகளுக்கு-நீதிகோரி-யாழில்-கையெழுத்து-போராட்டம்/175-364597) · `ta`
+
+செம்மணி உள்ளிட்ட வடக்கு கிழக்கில் காணப்படும் மனித புதைகுழிகளுக்கும் நடைபெற்ற இனப்படுகொலைகளுக்கும் சர்வதேச நீதி கோரி இளையோர் குரல் அமைப்பினால் யாழ்ப்பாணத்தில் மருதனார்மடம் பகுதியில் திங்கட்கிழமை (15) அன்று கையெழுத்து போராட்டம் முன்னெடுக்கப்பட்டது.
+
+இக்கையெழுத்து மாற்றத்திற்கான போராட்டத்தில் இளையோர் அமைப்பின் பிரதிநிதிகள் உறுப்பினர்கள்  யாழ் மருதனார்மடம் வர்த்தகர்கள் சந்தை வியாபாரிகள் பொதுமக்கள் என பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/daada4d6.json)
+
+---
+
+### Pettah Central Bus Stand developed in the Central Bus Stand developed - live telecast
+
+*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214586) · `si`
+
+The inauguration of the renovation of the Central Bus Stand at the Central Bus Stand at the Pettah is now inaugurated.
+
+The Pettah bus stand in 1964 was renovated in 60 years.
+
+New restrooms, ICT locations, security systems, will be established to the bus stand under the renovation.
+
+◼️
+
+[Data](articles/a479a0b7.json)
+
+[Extended Data](ext_articles/a479a0b7.ext.json)
+
+---
+
+### Former army soldier arrested with an ivory pair
+
+*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214585) · `si`
+
+A retired Army soldier who had been in possession of the ivory pair in Moragoda Police Station has been arrested.
+
+The victim is a 46 year old resident of Halmillawa, a retired Army soldier.
+
+According to a tip off received by Moragoda police, the title had been found in Halmillawa area in Moragoda.
+
+Police said the police were able to find the ivory pair of elephants while he was hidden under the ownership of the suspect.
+
+The tabed the police is to be produced before the Kahatagasdigiliya Magistrate's Court today (15).
+
+◼️
+
+[Data](articles/e490fb4a.json)
+
+[Extended Data](ext_articles/e490fb4a.ext.json)
+
+---
 
 ### 11-year old boy drowns in Dewahuwa Reservoir
 
@@ -45,6 +203,8 @@ Relatives and residents of that area later retrieved the child from the water an
 ◼️
 
 [Data](articles/eab6fe0e.json)
+
+[Extended Data](ext_articles/eab6fe0e.ext.json)
 
 ---
 
@@ -84,6 +244,8 @@ Labour leader Starmer is not a natural bedfellow for right-wing firebrand Trump,
 
 [Data](articles/5f505d9f.json)
 
+[Extended Data](ext_articles/5f505d9f.ext.json)
+
 ---
 
 ### Giri Samba Rice shortage in the market!
@@ -108,23 +270,25 @@ In this context, the National Farmers' Union has demanded that the government im
 
 ---
 
-### காசா மீது இஸ்ரேல் தாக்குதல்: 53 பேர் உயிரிழப்பு:  பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன!
+### Israel attack on Gaza: 53 deaths: Many buildings have been damaged!
 
 *2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225105) · `ta`
 
-காசா மீது நேற்றையதினம் இஸ்ரேல் நடத்திய தாக்குதல்களில் 53 பேர் உயிரிழந்ததுடன், பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன.
+Israeli attacks on Gaza yesterday killed 53 people and damaged several buildings.
 
-காசா நகரத்தின் மீது இஸ்ரேல் தனது குண்டுவீச்சு தாக்குதலை தீவிரப்படுத்தியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+International media reports that Israel has intensified its bombing on the city of Gaza.
 
-வடக்கு நகர்ப்புற மையத்தைக் கைப்பற்றி அதன் மக்களை இடம்பெயரச் செய்வதற்கான தாக்குதலை இஸ்ரேலியப் படைகள் தீவிரப்படுத்தியுள்ள நிலையில், காசா பகுதியில் 53 பாலஸ்தீனியர்களைக் கொல்லப்பட்டுள்ளனர்
+Israeli forces have intensified an offensive to seize the northern urban center and displace its people, killing 53 Palestinians in Gaza area
 
-இஸ்ரேலின் போர் தொடங்கியதிலிருந்து, காசாவில் பசியிலினால் உயிரிழந்தவர்களின் எண்ணிக்கை 422 ஆக உயர்ந்துள்ளதாக அந்த நாட்டு சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The number of people who died of hunger in Gaza has risen to 422 since the onset of Israel's war, the Ministry of Health said.
 
-காசா நகரில், இஸ்ரேலிய இராணுவம் தெற்கு ரெமால் சுற்றுப்புறத்தில் உள்ள அல்-கவ்தர் கோபுரத்தை இலக்குவைத்து, இரண்டு மணி நேரம்  ஏவுகணைத் தாக்குதல்களை நடத்தியுள்ளது.
+In Gaza, the Israeli army has launched a two-hour missile attack targeting the Al-Qawdar tower in the southern Remal neighborhood.
 
 ◼️
 
 [Data](articles/f72edf41.json)
+
+[Extended Data](ext_articles/f72edf41.ext.json)
 
 ---
 
@@ -312,6 +476,20 @@ A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging th
 
 ---
 
+### ලංකාවේදී අයිස් නිපදවන්න ඉරානයෙන් ඇවිත්
+
+*2025-09-15 08:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේදී-අයිස්-නිපදවන්න-ඉරානයෙන්-ඇවිත්/11-418498) · `si`
+
+කළුතර අපරාධ කොට්ඨාසය මගින් රැඳවුම් නියෝග මත ප්‍රශ්න කරන "ඇඹිලිපිටියේ සුරංග" නැමැත්තාගෙන් ලබා ලබාගත් තොරතුරු වලට අනුව අයිස් මත්ද්‍රව්‍ය  නිෂ්පාදනය කල බවට සැක කරන හම්බන්තොට ප්‍රදේශයේ නිවාඩු නිකේතනයක තිබී සැක උපකරණ , රසායනික ද්‍රව්‍ය තොගයක් සහ අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට එම අවන්හලේ නවතා තිබූ මෝටර් රථයක් අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
+
+ඉන්දුනීසියාවේ සිට මෙරටට රැගෙන ආ සංවිධානාත්මක අපරාධ කරුවන් සමග සබදතා පැවැත්වීම සම්බන්ධයෙන් අත් අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන ඇඹිලිපිටියේ සුරංග නමැත්තාගෙන් ලද තොරතුරක් මත සිදුකල විමර්ශන වලදී   තිබී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගත් බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය ලීටර් පනස් දෙකක් අඩංගු කෑන් 13 ක් සහ අයිස් මත්ද්‍රව්‍ය සෑදීමට යොදාගත් බවට සැක කරන තවත් උපකරණ රැසක් සොයාගත් බව පොලිසිය කීය.
+
+...
+
+[Data](articles/973bb0a3.json)
+
+---
+
 ### Srinasan MP. Injury in an accident
 
 *2025-09-15 08:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீநேசன்-எம்-பி-விபத்தில்-காயம்/175-364590) · `ta`
@@ -353,6 +531,28 @@ A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting
 [Data](articles/f1ce059b.json)
 
 [Extended Data](ext_articles/f1ce059b.ext.json)
+
+---
+
+### Woman arrested for harming Sigiriya
+
+*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
+
+Sigiriya is arrested by the archaeological officers of a 21-year-old girl who was recovered from the English letter, harming its designation in the English letter, which was harmful to its secure Pura Poems.
+
+This unfortunate action was carried out while presenting the girl with a friend and a group of friends, a group of friends, a group of friends, a group of friends residing in Avissawella. When writing to his name, archaeological officers caught the woman when he wrotened her name, damaged her name hazardous poetic writings. Archaeological officials have found that this act has been damaged in the caterpade.
+
+The woman is in remand custody after handing over the woman to Sigiriya, and today 15 today is to be produced before the Dambulla Magistrate.
+
+Archaeological Officers are also conducting further investigations into the incident.
+
+This incident has restored questions about the safety of these historical locations and focuses on tourist and awareness.
+
+◼️
+
+[Data](articles/2619be8a.json)
+
+[Extended Data](ext_articles/2619be8a.ext.json)
 
 ---
 
@@ -961,6 +1161,26 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 [Data](articles/9b58f579.json)
 
 [Extended Data](ext_articles/9b58f579.ext.json)
+
+---
+
+### குடத்தனையில் வாள் வெட்டு: மூவர் காயம்
+
+*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-மூவர்-காயம்/175-364588) · `ta`
+
+யாழ். வடமராட்சி கிழக்கு குடத்தனை பகுதியில் வாள் வெட்டுக்குழு மேற்கொண்ட தாக்குதலில் ஒரே குடும்பத்தை சேர்ந்த மூவர் படுகாயங்களுக்கு உள்ளான நிலையில் மருத்துவமனையில் சிகிச்சிக்காக அனுமதிக்கப்பட்டுள்ளனர்.
+
+இச்சம்பவத்தில் குடத்தனை மேற்கை சேர்ந்த கோவிந்தசாமி உதயகலா (வயது 59) என்பவரும் அவரது மகன் கோவிந்தசாமி கபில்ராஜ் (வயது 25) மற்றும் அவரது மருமகனான கந்தசாமி நிதர்சன் (வயது 33) ஆகிய மூவர் படுகாயங்களுக்கு உள்ளான நிலையில் பருத்தித்துறை ஆதார வைத்தியசாலை யில் அனுமதிக்கப்பட்டனர்.
+
+கபில்ராஜ் மற்றும் நிதர்சன் ஆகிய இருவரும் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலை க்கு மாற்றப்பட்டுள்ளனர்.
+
+நேற்று முந்தினம் சனிக்கிழமை இரவு 9.00 மணியளவில் வன்முறை கும்பல் வாள்கள் சகிதம் வீட்டிற்குள் புகுந்து தாக்குதல் நடத்தியுள்ளது.
+
+இது தொடர்பில் மருதங்கேணி பொலிஸாருக்கு தகவல் வழங்கிய போதிலும் வாள் வெட்டுக்குழு இரவு 11.00 மணிக்கு பின்னர் அங்கிருந்து வெளியேறிச் சென்றபின்னரே தாமதமாக வந்ததாக பாதிக்கப்பட்ட குடும்பத்தினர் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/7fed0e3c.json)
 
 ---
 
@@ -1785,253 +2005,5 @@ Researchers say that mosquitoes are likely to get bite for the first 12 hours of
 [Data](articles/8133b0e9.json)
 
 [Extended Data](ext_articles/8133b0e9.ext.json)
-
----
-
-### ‘Sri Lanka is a Garden of Eden for Scientists’ – Dr. Pethiyagoda
-
-*2025-09-14 18:31:00* · [`islandlk`](http://island.lk/sri-lanka-is-a-garden-of-eden-for-scientists-dr-pethiyagoda/) · `en`
-
-Sri Lanka’s foremost biodiversity scientist, Dr. Rohan Pethiyagoda, describes this country as “a veritable Garden of Eden for evolutionary scientists.” Speaking to The Sunday Island, he warned that while the country remains rich in natural heritage, the threats are mounting fast.
-
-“We now have more alien species in our waters than endemic ones. There’s no longer an ‘if’ about extinction—it’s a matter of ‘when’. And we’re doing very little about it,” he stressed.
-
-Dr. Pethiyagoda and Hiranya Sudasinghe with Dr Maurice Kottelat, the Swiss Ichthyologist, who, in the late 1980s, mentored Pethiyagoda in the study of fishes.
-
-Winner of the Linnean Medal and the Rolex Award, Dr. Pethiyagoda has devoted decades to documenting Sri Lanka’s freshwater fishes and other fauna. In this exclusive conversation with The Sunday Island’s Ifham Nizam, he reflects on evolution, science, and the looming challenges for conservation.
-
-...
-
-[Data](articles/cee9110a.json)
-
-[Extended Data](ext_articles/cee9110a.ext.json)
-
----
-
-### Ex-World Boxing Champion Ricky Hatton passes away
-
-*2025-09-14 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214567) · `si`
-
-Ricky Hatton, a former World Boxing Champion, has passed away today (14).
-
-Foreign reports said he had passed away at his home.
-
-When the death of a 42-year-old Ricky Hatton, a 42-year-old Ricky Hatton, Light-Welterweight and Welterweight World Championships were won.
-
-He had won 45 and win 48 matches.
-
-The uniqueness of these victories is that the 32 matches of those achievements have been reported that he said.
-
-Ricky Hatton was the last boxing competition in 2012.
-
-◼️
-
-[Data](articles/9ecdbb88.json)
-
-[Extended Data](ext_articles/9ecdbb88.ext.json)
-
----
-
-### Parliamentarian Gnanamuththu Srineshan injured in an accident
-
-*2025-09-14 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112495/parliamentarian-gnanamuththu-srineshan-injured-in-an-accident) · `en`
-
-Illankai Tamil Arasu Kadchi (ITAK) Batticaloa District Member of Parliament Gnanamuththu Srineshan has sustained injuries in an accident.
-
-Accordingly, he has been admitted to the Batticaloa Teaching Hospital.
-
-He met with the accident in Kaluvanchikudy while returning to Batticaloa in his vehicle after attending a political party meeting.
-
-◼️
-
-[Data](articles/aeda1b35.json)
-
-[Extended Data](ext_articles/aeda1b35.ext.json)
-
----
-
-### 12 teak claims of the police cases and go to a forest near a Wadumad
-
-*2025-09-14 17:43:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-නඩු-භාණ්ඩ-ලෙස-තිබූ-තේක්ක-කොට-12ක්--වඩුමඩුවක්-අසල-කැළෑවකට-ගිහින්/11-418489) · `si`
-
-The Dehiatkarakandiya Magistrate's Court has been released on bail without the arrest of twelve teak teaks in the 17th of the 17th of teachers in Ampara.
-
-Police Sujith Wedmulla under the patronage of the police Sujith Wedmulla has been launched in connection with the incident.
-
-A senior police officer said that the transfers were made to conduct these investigations in a properly. He said that several other police officers were informed.
-
-The OIC of Padiyathalawa Police Inspector Rohitha Gunasena was a sub-inspector heerakoon to work at the incident.
-
-Officers including the Tadumaduwa Police were taken into the Wadumaduwa police at the time of the 11th at 3.40 pm.
-
-The lorry of the lorry, its driver's Wadumaduwa owner, has been arrested in connection with aluminum body.
-
-It has been revealed that the Padiyathalawa police have been involved in such contaminated as per the investigation.
-
-Thirty-two stems were arrested and produced before the court on July 17 with the two stems.. It
-
-...
-
-[Data](articles/696a4f7b.json)
-
-[Extended Data](ext_articles/696a4f7b.ext.json)
-
----
-
-### Air India's crash is afraid to fly
-
-*2025-09-14 17:37:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஏர்-இந்தியா-விபத்தில்-தப்பியவருக்கு-பறக்க-பயம்/50-364570) · `ta`
-
-The man who escaped from the British Air India accident is never possible to return to England because he is very scared to fly.
-
-His family said that the only miraculous person who had escaped from Air India's disaster was not likely to return to Britain as he was very afraid to board the plane.
-
-Relatives of 40 -year -old Laizester businessman Viswash Kumar Ramesh said he was shocked by the accident in June and was very shocked by the accident in June and was consulting in India.
-
-Ramesh's brother -in -law said that he did not expect him to return to his house in London or to a family home in Laizester. 'I think he will be there because he is very afraid to board the plane again,' he added.
-
-Boeing 787 died in a few seconds of plane crashes from Ahmedabad to Catwick. 52 of them are British nationals. And 19 more people were killed on the ground.
-
-Ramesh escaped from his 11A seat and escaped from the wreckage with cut wounds on the face and chest. Ajay, 35, his brother, was killed.
-
-...
-
-[Data](articles/08520496.json)
-
-[Extended Data](ext_articles/08520496.ext.json)
-
----
-
-### ADB’s water brings life to Vavuniya, but affordability crisis looms for the poor
-
-*2025-09-14 17:35:00* · [`islandlk`](http://island.lk/adbs-water-brings-life-to-vavuniya-but-affordability-crisis-looms-for-the-poor/) · `en`
-
-For the women of Vavuniya’s rural outskirts, the Asian Development Bank (ADB) didn’t just lay pipes; it gifted them time. It returned to them the hours once spent in a daily, desperate pilgrimage for water.
-
-Before 2009, their lives were defined by the walk to the well – a journey that often ended in disappointment, with dry pumps and empty pots. Their children, parched, sometimes missed school. Their husbands, daily-wage labourers earning a median of Rs. 2,000 a day, left for work with anxiety weighing as heavy as the tropical sun.
-
-Today, the turn of a tap brings a clean, steady flow, a miracle made possible by the ADB’s $40 million investment under the Dry Zone Urban Water and Sanitation Project. This ambitious scheme replaced a defunct system, constructing a new dam and a modern treatment plant that now delivers safe, potable water to 80,000 people. The physical transformation is undeniable; a feat of engineering that ended a decades-long water crisis.
-
-...
-
-[Data](articles/3acee949.json)
-
-[Extended Data](ext_articles/3acee949.ext.json)
-
----
-
-### Bond standoff: Banks swim in cash but shun government debt
-
-*2025-09-14 17:34:00* · [`islandlk`](http://island.lk/bond-standoff-banks-swim-in-cash-but-shun-government-debt/) · `en`
-
-A standoff is brewing between Sri Lanka’s monetary authority and bond market participants, as cash-rich banks show a reluctant appetite for government securities. This was evident in the September 11, 2025 Treasury bond auction, where the Central Bank of Sri Lanka (CBSL) raised only a portion of its targeted funds, with a significant shortfall in a key maturity.
-
-This caution exists alongside signs of economic resilience. The Index of Industrial Production (IIP) grew 6.4% year-on-year in July 2025, driven by surges in petroleum refining (166.7%), apparel manufacturing (16.2%), and non-metallic mineral products (15.9%).
-
-Amid this growth, the banking sector is flush with cash. Total outstanding market liquidity swelled to a surplus of Rs. 178.58 billion by September 12, 2025. However, this liquidity is not flowing aggressively into government bonds.
-
-...
-
-[Data](articles/cca258a4.json)
-
-[Extended Data](ext_articles/cca258a4.ext.json)
-
----
-
-### DIMO Installs Sri Lanka’s first ICC-compliant LED floodlights for stadiums
-
-*2025-09-14 17:33:00* · [`islandlk`](http://island.lk/dimo-installs-sri-lankas-first-icc-compliant-led-floodlights-for-stadiums/) · `en`
-
-Reinforcing its leadership in sports infrastructure development, DIMO has successfully completed the installation of Sri Lanka’s first and second LED floodlighting systems at two of the country’s most iconic cricket stadiums. The first installation was completed at the Rangiri Dambulla International Cricket Stadium (RDICS) in 2023, followed by the second at the R. Premadasa International Cricket Stadium (RPICS) in Colombo in 2025.
-
-This milestone builds on DIMO’s historic achievement in the 1980s, when it made global headlines by installing Sri Lanka’s first and the world’s second floodlighting system at RPICS, cementing its legacy as a pioneer in sports lighting technology.
-
-...
-
-[Data](articles/07a49c74.json)
-
-[Extended Data](ext_articles/07a49c74.ext.json)
-
----
-
-### Baco Saman's disciple remanded for yesterday with T81
-
-*2025-09-14 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214566) · `si`
-
-The Western North Criminal Division has been remanded until the 24th of this month with a T81 firearm.
-
-The man was arrested in the Embilipitiya River area under the transportation and the suspect of possession of Baqa Saman's firearms.
-
-The police have revealed that the person named Hath Liyanage Laksene alias Amila, a resident of Embilipitiya, Embilipitiya.
-
-The suspect was found in the possession of a T81, 97 magazines, two magazines and a military personnel.
-
-◼️
-
-[Data](articles/6d9e8488.json)
-
-[Extended Data](ext_articles/6d9e8488.ext.json)
-
----
-
-### An earthquake in India's hearing
-
-*2025-09-14 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214565) · `si`
-
-Rickter Mapaka's 5.8 earthquake is located near the Gahami in India's Eye.
-
-At Indian Time. The earthquakes, which have around 4:41, have felt in the North Bengal.
-
-However, information about the injuries or property has not been reported.
-
-◼️
-
-[Data](articles/97110ed5.json)
-
-[Extended Data](ext_articles/97110ed5.ext.json)
-
----
-
-### Accomplice of ‘Backhoe Saman’ arrested with firearm remanded
-
-*2025-09-14 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112494/accomplice-of-backhoe-saman-arrested-with-firearm-remanded) · `en`
-
-An accomplice of underworld figure ‘Backhoe Saman’, who was arrested yesterday (13) along with a T-81 assault rifle, has been remanded, Ada Derana reporter said.
-
-The individual was arrested by the North Western Crimes Division in Embilipitiya on charges of transporting and being in possession of a firearm of ‘Backhoe Saman’.
-
-Police have identified the suspect as a resident of the Gangeyaya area in Embilipitiya.
-
-During the arrest, police recovered a T81-type firearm, 97 bullets, two magazines and a military uniform from his possession.
-
-◼️
-
-[Data](articles/4b4258b0.json)
-
-[Extended Data](ext_articles/4b4258b0.ext.json)
-
----
-
-### The proper purpose of the Presidential Fund is the Prime Minister
-
-*2025-09-14 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214564) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the presidential fund was impassated by privileged groups during the past regime.
-
-Prime Minister Dr. Harai Amarasuriya made these comments participating in the program auditorium in the Kandy District Secretariat today (14).
-
-At the GCE Advanced Level 6, 361 students have been awarded Rs. 36.1 million for 361 students.
-
-Speaking further Prime Minister Harini Amarasuriya said that the actual objective of the Presidential Fund is under the current government and the presidential fund is currently working under the present village.
-
-It was said that the presidential fund has taken steps to implement a program to doctors and that a program to support children contributes to the creation of a good human resource.
-
-The Prime Minister said that the Prime Minister would be able to realize the children's dreams to create an open-minded human resource instead of the education system under one framework.
-
-...
-
-[Data](articles/4abcafa3.json)
-
-[Extended Data](ext_articles/4abcafa3.ext.json)
 
 ---

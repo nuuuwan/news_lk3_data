@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 21:38:48**
+As of **2025-09-15 21:07:30**
 
 ## Newspaper Stats
 
-*Scraped **76,147** Articles*
+*Scraped **76,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,87 +20,57 @@ adalk | 7,392
 adaderanalk | 9,804
 tamilmirrorlk | 11,396
 virakesarilk | 12,410
-adaderanasinhalalk | 13,289
+adaderanasinhalalk | 13,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,340 (95.0%) of 76,147 articles have been extended.
+72,324 (95.0%) of 76,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### නිදි යහනේ සිදුවු ඝාතනය - සැමියා සැකපිට අත්අඩංගුවට
-
-*2025-09-15 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214612) · `si`
-
-නිදි යහනේ මියගොස් සිටි කාන්තාවගේ මරණය ඝාතනයක් බව සිදුකරන ලද පශ්චාත් මරණ පරීක්ෂණයේ දී හෙළි වී තිබේ.
-
-ඒ අනුව ඝාතනයට ලක්වූ කාන්තාවගේ සැමියා අද (15) දින සැකපිට අත්අඩංගුවට ගෙන ඇත.
-
-මෙලෙස ඝාතනයට ලක්ව තිබුණේ දඹුල්ල, තිත්තවැල්ගොල්ල ප්‍රදේශයේ පදිංචිව සිටි 34 හැවිරිදි එක් දරු මවකි.
-
-ඇය ගලේවෙල කලාප අධ්‍යාපන කාර්යාලයේ කළමනාකරන සේවා නිලධාරිනිය ලෙස සේවය කරමින් සිටි අයෙකි.
-
-දඹුල්ල, තිත්තවැල්ගොල්ල ප්‍රදේශයේ නිවසක කාමරයක් තුළ පසුගිය 13 වන දින කාන්තාවක් නිදි යහනේ සිටියදී මිය ගොස් ඇති බව පොලීසියට තොරතුරු ලැබී තිබුණි.
-
-ඇයගේ සැමියා පොලීසියට ප්‍රකාශ කොට තිබුණේ, තම බිරිඳ විභාගයක් සඳහා පාඩම් කරමින් සිට සවස 4ට පමණ  නින්දට ගිය බවත් රාත්‍රී නවයට පමණ අවදි කරවන ලෙස දැනුම් දුන් බවය.
-
-ඒ අනුව රාත්‍රියේ බිරිඳ අවදි කිරීමට ගියද ඇය අවදි නොවීම නිසා අසනීප තත්ත්වයක් ඇතැයි සිතා 1990 ගිලන් රථ සේවය සේවයට ඇමතුමක් ලබා දුන් බවද ඔහු පොලීසියට ප්‍රකාශ කොට තිබුණි.
-
-ගිලන් රථ සේවයෙහි පැමිණි අය විසින් තම බිරිඳ මියගොස් ඇති බව ප්‍රකාශ කළේ යැයි ද සැකකරු වැඩිදුරටත් පොලීසියට ප්‍රකාශ කොට තිබුණි.
-
-...
-
-[Data](articles/ee80d34e.json)
-
----
-
-### Fire is a thousand shanty houses in Manila
+### ගින්නකින් මැනිලා නුවර පැල්පත් නිවාස දහසක් වැනසේ
 
 *2025-09-15 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214611) · `si`
 
-Thousands of people have been displaced by a fire in the Philippines' Manila.
+පිලිපීනයේ මැනිලා අගනුවර ඇති වූ ගින්නකින් පැල්පත් නිවාස දහසකට වැඩි සංඛ්‍යාවක් වැනසී ඒවායේ වාසය කළ දහස් සංඛ්‍යාත පිරිසක් අවතැන්වී තිබේ.
 
-The authorities had been able to resume the fire after a massive operation carried out for nearly 10 hours.
+පැය 10කට ආසන්න කාලයක් සිදුකළ දැවැන්ත මෙහෙයුමකින් අනතුරුව ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
 
-Thousands of shanty houses in a suburban region of the Manila Palai in the Philippines have been destroyed.
+පිලිපීනයේ මැනිලා අගනුවර තදාසන්න කලාපයක පිහිටි පැල්පත් නිවාස දහස් ගණනක් ගින්නකට හසුව විනාශ වී තිබේ.
 
-Accordingly, about 1100 houses have been destroyed and thousands of people have been displaced.
+මේ අනුව නිවාස 1100ක් පමණ වැනසී ගොස් ඇති අතර, දහස් සංඛ්‍යාත ජනතාවක් අවතැන් වී ඇතැයි ද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
 
-It is difficult to quench the fire that occurred last night at the country.
+එරට වේලාවෙන් ඊයේ රාත්‍රියේ හටගත් ගින්න නිවාදැමීම අසීරු වී ඇත්තේ එය වේගයෙන් ව්‍යාප්ත වීම හේතුවෙන්ය.
 
-The authorities were deployed to resume the fire by deploying a large number of fire extinguishers.
+ගිනි නිවන රථ රැසක් යොදවා ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
 
-Dislocated personnel have already been referred to government schools and government offices.
+ගින්න හේතුවෙන් අවතැන් වූ පිරිස් මේ වනවිට රජයේ පාසල් සහ රජයේ කාර්යාල වෙත යොමුකර තිබේ.
 
-There have been many areas where there were many such incidents in the region, Manila, Manila.
+මැනිලා නුවර පැල්පත් නිවාස පිහිටි කලාප රැසක් ඇති අතර, එම කලාපවල මෙවන් බරපතළ අනතුරු සිදුවූ අවස්ථා රැසක්ම පසුගිය කාලයේදී වාර්තා වුණි.
 
 ◼️
 
 [Data](articles/71ac56d3.json)
 
-[Extended Data](ext_articles/71ac56d3.ext.json)
-
 ---
 
-### Under the Clean Sri Lanka Program, the project to modernize the Maradana Railway Station
+### Clean Sri Lanka  வேலைத்திட்டத்தின் கீழ், மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஆரம்பம்
 
 *2025-09-15 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225176) · `ta`
 
-The project to modernize the Maradana Railway Station under the Dream Destination Project in conjunction with the Clean Sri Lanka Program was launched on Monday (15) under the leadership of President Anura Kumara Dissanayake.
+Clean Sri Lanka வேலைத்திட்டத்துடன் இணைந்த வகையில், Dream Destination திட்டத்தின் கீழ் மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (15) முற்பகல் ஆரம்பித்து வைக்கப்பட்டது.
 
-According to the government's plan for the "prosperous country - beautiful life," the government's plan to create a beautiful lifestyle with a modern and standardized public transport system, with the aim of upgrading public facilities at railway stations, transforming the railway stations into convenient and safe places, the Ministry of Transport, Highways, Ports and Civil Airlines and Clean Sri Lanka The project has been launched.
+" வளமான நாடு - அழகான வாழ்க்கை" உருவாக்கும் அரசாங்கத்தின் திட்டத்தின் படி நிலைபேறான, நவீன மற்றும் தரப்படுத்தப்பட்ட பொது போக்குவரத்து கட்டமைப்புடன் கூடிய அழகான வாழ்க்கை முறையை அடைவதற்காக, புகையிரத நிலையங்களில் பொது வசதிகளை மேம்படுத்தல், புகையிரத நிலையங்களை வசதியான மற்றும் பாதுகாப்பான இடங்களாக மாற்றும் நோக்கத்துடன், போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சு மற்றும் Clean Sri Lanka  வேலைத்திட்டம், அரச-தனியார் பங்களிப்பின் கீழ் நாட்டில் நூறு புகையிரத நிலையங்களை நவீனமயமாக்கும் தேசிய திட்டம் தொடங்கப்பட்டுள்ளது.
 
-The project aims to create a clean and beautiful railway station in the country to provide security and facilities to all travelers, including the community with special needs.
+விசேட தேவைகள் உள்ள சமூகம் உட்பட அனைத்துப் பயணிகளுக்கும் பாதுகாப்பு மற்றும் வசதியை வழங்கும் சுத்தமான, அழகான புகையிரத நிலைய கட்டமைப்பை நாட்டில் உருவாக்குவதை இந்த திட்டம் நோக்கமாகக் கொண்டுள்ளது.
 
 ...
 
 [Data](articles/0273543b.json)
-
-[Extended Data](ext_articles/0273543b.ext.json)
 
 ---
 
@@ -124,77 +94,63 @@ However, Sri Lanka won the first match against Bangladesh by six wickets in the 
 
 ---
 
-### Opposition Leader Sajith is being carried out in parliament
+### பாராளுமன்றில் வலுக்கட்டாயமாக எதிர்க்கட்சியின் வாயை மூடச் செய்யும் நடவடிக்கைகள் முன்னெடுக்கப்படுகின்றன - எதிர்க்கட்சித் தலைவர் சஜித்
 
 *2025-09-15 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225175) · `ta`
 
-The government should carry out the task of listening to people's problems and getting practical answers. Opposition Leader Sajith Premadasa said that the era of suppressing the voice of the opposition and presenting false stories, rather than the era of providing solutions. "
+மக்கள் பிரச்சினைகளைக் கேட்டறிந்து நடைமுறை ரீதியான பதில்களை பெற்றுக் கொடுக்கும் பணியையே அரசாங்கம் முன்னெடுக்க வேண்டும். தீர்வுகளை வழங்கும் யுகத்துக்கு மாறாக எதிர்க்கட்சியின் குரலை அடக்கும், பொய்யான கதைகளை முன்வைக்கும் யுகமே தற்சமயம் காணப்படுகின்றது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
 
-Opposition Leader Sajith Premadasa said this while visiting the Madhavachi area on Monday (15) to look into the issues faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers of Anuradhapura district under the service of the Opposition.
+எதிர்க்கட்சித் தலைவரின் நடமாடும் சேவையின் கீழ், அநுராதபுரம் மாவட்டம், மதவாச்சி மற்றும் கெபித்திகொல்லாவ பிரதேச விவசாயிகள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பில் ஆராய திங்கட்கிழமை (15) மதவாச்சி பிரதேசத்திற்கு விஜயம் செய்தபோதே, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
 
-Currently, the opportunity to present the problems faced by the public in Parliament has been reduced. The government has come to a position to cut off the microphone when people are pointed out. As the Leader of the Opposition, and I and the opposition members, we stand up for the issues of the people, leaving the people's issues.
+தற்போது, பாராளுமன்றத்தில் பொது மக்கள் எதிர்நோக்கும் பிரச்சினைகளை முன்வைப்பதற்கான சந்தர்ப்பங்கள் குறைக்கப்பட்டுள்ளன. மக்களின் பிரச்சனைகளை சுட்டிக்காட்டப்படும்போது, ஒலிவாங்கியைத் துண்டிக்கும் நிலைக்கு  அரசாங்கம் வந்துள்ளது. எதிர்க்கட்சித் தலைவராக, நானும் எதிர்க்கட்சியைச் சேர்ந்த சக உறுப்பினர்களும் தனிப்பட்ட விடயங்களை வெளிப்படுத்துவதை விடுத்து, மக்கள் பிரச்சினைகளை முன்வைப்பதற்காகவே எழுந்து நிற்கிறோம்.
 
 ...
 
 [Data](articles/322bbfe8.json)
 
-[Extended Data](ext_articles/322bbfe8.ext.json)
-
 ---
 
-### One person arrested with deer meat
+### புதுக்குடியிருப்பில் மான் இறைச்சியுடன் ஒருவர் கைது
 
 *2025-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225174) · `ta`
 
-A man from the Kaveli area of ​​the Mullaitivu Pudukkudiyiruppu police division has been arrested by the Pudukkudiyiruppu police on Monday 15th with deer meat.
+முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட கைவேலியை பகுதியை சேர்ந்த நபர் ஒருவர் மான் இறைச்சியுடன் 15ஆம் திகதி திங்கட்கிழமை புதுக்குடியிருப்பு பொலிசாரால் கைது செய்யப்பட்டுள்ளார்.
 
-A 40 -year -old man from Kaveli area has been arrested on charges of possessing 3 kg of deer meat in a special raid conducted by the Mullaitivu District Intelligence Unit.
+முல்லைத்தீவு மாவட்ட புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசியத் தகவலின் அடிப்படையில் கைவேலி பகுதியில் நடத்தப்பட்ட விஷேட சோதனை நடவடிக்கையில் 3 கிலோ கிராம் மான் இறைச்சி உடமையில் வைத்திருந்த குற்றச்சாட்டில் கைவேலி பகுதியினை சேர்ந்த 40 வயதுடைய நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
 
-The arrested person will be produced before the Mullaitivu court on Tuesday 16th after investigations, police said.
+கைது செய்யப்பட்ட நபர் விசாரணைகளின் பின்னர் 16ஆம் திகதி செவ்வாய்க்கிழமை முல்லைத்தீவு நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
 
 ◼️
 
 [Data](articles/467df8aa.json)
 
-[Extended Data](ext_articles/467df8aa.ext.json)
-
 ---
 
-### Magampura Ports Development Company has not paid a dollar loan
+### මාගම්පුර වරාය කළමනාකරණ සමාගම ලබාගත් ඩොලර් ණයක් නොගෙවලා
 
 *2025-09-15 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/මාගම්පුර-වරාය-කළමනාකරණ-සමාගම-ලබාගත්-ඩොලර්-ණයක්-නොගෙවලා/11-418511) · `si`
 
-After discussing the non-payment of loans from the Magampura Ports, the Committee on Public Enterprises (COPE) was issued after discussing the lending from a private bank.
+මාගම්පුර වරාය කළමනාකරණ සමාගම මගින් පෞද්ගලික බැංකුවකින් ලබාගත් ණය නොගෙවීම සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභා‍වේදී (කෝප්) දීර්ඝවශයෙන් සාකච්ඡා කිරීමෙන් අනතුරුව ඒ වෙනුවෙන් ගත යුතු නිර්දේශ නිකුත් කිරීම සිදු විය.
 
-Issuing of these recommendations was issued when the Committee of the Sri Lanka Ports Authority (COPE) to examine the current performance of the Sri Lanka Ports Authority (COPE).
-
-The Magampura Port Management Company has been incorporated by the Fivest of the Colombo Port, a license obtained by a license to be operated by a private loan from a private bank at a private bank loan from a private bank loan.. However, $ 18.82 million (Rs.. 6836 million) was revealed at December 2023 and that the Bank had filed two cases against the administration and the Authority in 2019.
-
-Officers arrived at the meeting.. The Magampura Ports Managing Company is currently underway from June 2022.
+මෙම නිර්දේශ නිකුත් කිරීම සිදු වූයේ ශ්‍රී ලංකා වරාය අධිකාරියේ 2022, 2023 වර්ෂයන්හි විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගිය 10 වැනි දා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
 
 ...
 
 [Data](articles/b7badceb.json)
 
-[Extended Data](ext_articles/b7badceb.ext.json)
-
 ---
 
-### The employment of the 12,000 employees in danger if the Electricity Act was amended
+### විදුලි පනත සංශෝධනය නොකළානම් සේවකයන් 12000කගේ රැකියා අනතුරේ
 
 *2025-09-15 19:13:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පනත-සංශෝධනය-නොකළානම්-සේවකයන්-12000කගේ-රැකියා-අනතුරේ/11-418510) · `si`
 
-"Over the Power and Employee Privileges, Employees 'Privileges, Employees' Performance but Returned
+"පසුගිය රනිල්-රාජපක්ෂ රජය විදුලිබල ක්ෂේත්‍රය පුද්ගලිකකරණ වැඩපිළිවෙලක් හරහා විශේෂයෙන්ම සේවක වරප්‍රසාද, අයිතිවාසිකම් සම්බන්ධයෙන් සැලකිල්ලක් දක්වන්නෙ නැතුව ක්‍රියාත්මක කරපු වැඩ පිළිවෙල අපි පරාජය කළා විතරක් නෙවෙයි, ආපසු හැරෙව්වා.ඒ වගේම බලශක්ති ක්ෂේත්‍රයේ රාජ්‍ය හිමිකාරීත්වය තහවුරු කළා.
 
-100% endemic organizations have been established in making the power sector to develop the electricity sector in parallel with the development goals of the country.. According to the Minister of Energy Minister Kumara Jayakody, who is planning to come forward, said.
-
-Especially when the Ceylon Electricity Workers Union (CEB) and all the trade unions, including the Ceylon Electricity Employees Union with the Trade Unions, have already begun implementation of the power to the power and the Electricity Bureau and the Electricity.. The notification has been made to appoint every employee and notifying four companies with full state owned company.. As such, there is no problem with the job security of these employees.
+රටේ සංවර්ධන ඉලක්ක සමග සමගාමීව විදුලිබල ක්ෂේත්‍රය සංවර්ධනය කරන්න අවශ්‍ය ව්‍යුහාත්මක වෙනස්කම් කරමින් 100%ක් පූර්ණ රාජ්‍ය හිමිකාරීත්වය තියෙන ආයතන පිහිටුවා අවසන්. ඒ අනුව සැළසුම් කළ පරිදි ඒ වැඩපිළිවෙල ඉදිරියට යනවා“ යනුවෙන් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා අද (15) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක් වෙමින් ප්‍රකාශ කළේය.
 
 ...
 
 [Data](articles/73aea13b.json)
-
-[Extended Data](ext_articles/73aea13b.ext.json)
 
 ---
 
@@ -222,25 +178,21 @@ After considering the submissions, the police stipulated to the police to report
 
 ---
 
-### Rice's control price is not going to be corrected in the Gazette
+### அரிசிக்கான கட்டுப்பாட்டு விலை வர்த்தமானியில் திருத்தம் மேற்கொள்ளப்போவதில்லை - நுகர்வோர் அதிகாரசபையின் தலைவர் ஹேமன்த சமரகோன்
 
 *2025-09-15 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225173) · `ta`
 
-Hemanta Samarakoon, Chairman of the Consumer Affairs Affairs Authority, said that due to the shortage of Giri Samba and Samba rice in the market, the gazette notification for the rice has not intends to revise the gazette notification.
+சந்தையில் ஏற்பட்டுள்ள கீரி  சம்பா மற்றும் சம்பா அரிசிக்கான தட்டுப்பாட்டை  காரணமாகக்கொண்டு அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயித்து விடுக்கப்பட்டுள்ள  வர்த்தமானி அறிவிப்பில் திருத்தத்தம் மேற்கொள்ள எண்ணம் இல்லை என நுகர்வோர் நடவடிக்கை தொடர்பான அதிகார சபையின் தலைவர் ஹேமன்த சமரகோன் தெரிவித்தார்.
 
-He said this while commenting on the shortage caused by Giri and Samba rice in the market.
+சந்தையில் கீரி மற்றும்  சம்பா அரிசிக்கு ஏற்பட்டுள்ள தட்டுப்பாடு தொடர்பாக கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
 
-Giri Samba and Samba rice had received information about the Consumer Affairs Authority about the shortage of the market. When searching for this, the Authority received information on the shortage of rice.
+கீரி சம்பா மற்றும் சம்பா அரிசிக்கு சந்தையில் தட்டுப்பாடு நிலவி வருவது தொடர்பான தகவல் நுகர்வோர் நடவடிக்கை தொடர்பான அதிகார சபைக்கு கிடைத்திருந்தது. இதுதொடர்பில் தேடிப்பாத்தபோது, அவ்வாறு அரிசி தட்டுப்பாடு தொடர்பில் அதிகாரசபைக்கு தகவல் கிடைத்தது.
 
-The control pricing for rice has been fixed by a gazette notification, though. If rice is sold at a higher price than that price, the Authority has taken steps to take necessary legal action under the existing law.
-
-Therefore, I urge all parties to take steps to buy paddy and rice to ensure that the gazette is notified.
+என்றாலும் வர்த்தமானி அறிவிப்பொன்றின் மூலம் அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயிக்கப்பட்டுள்ளது. அந்த விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்தால், நடைமுறையில் உள்ள சட்டத்தின் கீழ் தேவையான சட்ட நடவடிக்கை மேற்கொள்ள அதிகாரசபை நடவடிக்கை எடுத்துள்ளது.
 
 ...
 
 [Data](articles/4c0984f6.json)
-
-[Extended Data](ext_articles/4c0984f6.ext.json)
 
 ---
 
@@ -2077,5 +2029,27 @@ Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the b
 [Data](articles/a50e3d36.json)
 
 [Extended Data](ext_articles/a50e3d36.ext.json)
+
+---
+
+### Mahinda must be protected by national
+
+*2025-09-15 11:00:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දව-ජාතික-වශයෙන්-ආරක්ෂා-කළ-යුතුයි/11-418500) · `si`
+
+Former President Mahinda Rajapaksa, former President Chairman Vajira Abeywardena said that former President Mahinda Rajapaksa has to be protected to be defended.
+
+He was speaking at Hiniduma, Ratgama and Bentara Divisions in the Meeting of the United National Party (UNP) yesterday (14).
+
+"Due to the acquisition of presidential quarters, light bills, water bills, billing of bills. It also reduces the prices of petrol, diesel and kerosene oil and receive relief. Let's wait so.
+
+I think that many state leaders were killed in the history of the history of the history of Sri Lanka.. Otherwise, the heads of state have survived. So this is the political history of Sri Lanka, the present and future.
+
+For example, if we take, we cannot go to some countries in the world as a typical citizen. If so, he will bring his body to Sri Lanka. There is plenty of areas where Sri Lanka cannot go alone in Sri Lanka and its rapity. So this is why I think he must protect her.
+
+...
+
+[Data](articles/e8f003c7.json)
+
+[Extended Data](ext_articles/e8f003c7.ext.json)
 
 ---

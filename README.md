@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 12:26:25**
+As of **2025-09-15 12:15:22**
 
 ## Newspaper Stats
 
-*Scraped **76,049** Articles*
+*Scraped **76,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,380
 adaderanalk | 9,782
-tamilmirrorlk | 11,381
+tamilmirrorlk | 11,380
 virakesarilk | 12,396
 adaderanasinhalalk | 13,268
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 13,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,804 (94.4%) of 76,049 articles have been extended.
+71,804 (94.4%) of 76,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
-
-### ’’நாட்டின் போக்குவரத்தை வலுப்படுத்துவதே எங்கள் முதன்மையான குறிக்கோள்“
-
-*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-போக்குவரத்தை-வலுப்படுத்துவதே-எங்கள்-முதன்மையான-குறிக்கோள்/175-364616) · `ta`
-
-கொழும்பில் பதினைந்து பல்வகை போக்குவரத்து மையங்களை நிர்மாணிப்பதற்காக அடுத்த பட்ஜெட்டில் இருந்து நிதி ஒதுக்கப்படும் என்று போக்குவரத்து, நெடுஞ்சாலைகள்,துறைமுகங்கள் மற்றும் சிவில் விமானப்போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க திங்கட்கிழமை (15) தெரிவித்தார்.
-
-ரயில்கள்,பேருந்துகள் மற்றும் டெக்சிகளை ஒரே இடத்திலிருந்து முன்பதிவு செய்ய கூடிய வகையில் போக்குவரத்து மையங்கள் கட்டப்படும் என்று அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
-
-2029 ஆம் ஆண்டுக்குள் இலங்கையில் இது போன்ற குறைந்தது ஐம்பது பல்வகை போக்குவரத்து மையங்களையாவது தொடங்குவதே இவ் அரசாங்கத்தின் நோக்கம் என்றும் அமைச்சர்மேலும் கூறினார்.
-
-புறக்கோட்டை மத்திய பேருந்து நிலையத்தில் மேம்பாட்டு தொடக்க விழாவில் உரையாற்றும் போதே அமைச்சர் பிமல் ரத்நாயக்க இவ்வாறு கூறினார்.
-
-...
-
-[Data](articles/f6a7070a.json)
-
----
 
 ### කෙහෙළිය ඇතුළු පවුලේ සාමාජිකයින්ට එරෙහි නඩුව කල්යයි
 
@@ -2023,5 +2005,27 @@ Subsequently, the police have lodged a complaint at the police station and the p
 [Data](articles/993d37b7.json)
 
 [Extended Data](ext_articles/993d37b7.ext.json)
+
+---
+
+### Irregularities of the Divi Development Loan Project reveals
+
+*2025-09-14 19:26:19* · [`adalk`](https://www.ada.lk/breaking_news/දිවිබල-සංවර්ධන-ණය-ව්‍යාපෘතියේ-අක්‍රමිකතා-විගණනයෙන්-හෙළිවෙයි/11-418491) · `si`
+
+A audit report issued by the National Audit report states that the debt has been deprived of 13,000 rupees (149,000) from the Southern Provincial Development Authority's Southern Provincial Development Authority.
+
+The audit has revealed that no matter what has been appointed to the subject officer in connection with the subject of June 9, but in September 2024.
+
+According to the Cash Book and Computer Program by the Cash Book of the Cash Book on October 31, 2022, according to the Cash Book and Computer Program, according to the Cash Book and Computer Program (2,347,414) was reported in the Cash Book and Computer Program.
+
+The Audit has said that the Audit has said that a basic investigation into the subject officer has been conducted by the Board of Directors.
+
+This information is included in the Tri-Audit Report issued by the Southern Provincial Council Office.
+
+◼️
+
+[Data](articles/6c995d55.json)
+
+[Extended Data](ext_articles/6c995d55.ext.json)
 
 ---

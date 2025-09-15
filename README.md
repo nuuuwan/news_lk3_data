@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 09:40:49**
+As of **2025-09-15 09:27:31**
 
 ## Newspaper Stats
 
@@ -26,27 +26,25 @@ adaderanasinhalalk | 13,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,679 (94.3%) of 76,020 articles have been extended.
+71,665 (94.3%) of 76,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### Indians refuse to shake hands for Pakistani soldiers
+### பாகிஸ்தான் வீரர்களுக்கு கைகுலுக்க இந்தியவீரர்கள் மறுப்பு
 
 *2025-09-15 09:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-வீரர்களுக்கு-கைகுலுக்க-இந்தியவீரர்கள்-மறுப்பு/44-364595) · `ta`
 
-Dossing in the toss and after the competition, the players boycotted their hand due to strong opposition
+பலத்த எதிர்ப்புக்கு மத்தியில் போட்டி நடந்ததால் டாசிலும், போட்டி முடிந்த பிறகும் வீரர்கள் கை கொடுக்காமல் புறக்கணித்தனர்
 
-Indian team beat Pakistan in Asia Cup. Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets in 20 overs.
+ஆசிய கோப்பையில் இந்திய அணி பாகிஸ்தானை வீழ்த்தியது. .துபாயில் நடைபெற்ற ஆட்டத்தில் டாஸ் வென்று முதலில் பேட்டிங் செய்த பாகிஸ்தான் நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 9 விக்கெட்டுகளை இழந்து 127 ரன்கள் மட்டுமே சேர்த்தது..
 
-The Indian team lost only 3 wickets in 16 overs with 131 runs and won by 7 wickets.
+எளிய வெற்றி இலக்கை நோக்கி ஆடிய இந்திய அணி 16 ஓவர்களுக்குள் 3 விக்கெட்டுகளை மட்டுமே இழந்து 131 ரன்கள் சேர்த்து 7 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.இந்த நிலையில், ஆட்டம் முடிந்ததும், பாகிஸ்தான் வீரர்களுடன் கைக்குலுக்குவதைத் இந்திய வீரர்கள் தவிர்த்தனர்.இந்திய வீரர்கள் பஹல்காமில் நடத்தப்பட்ட தாக்குதலைக் கண்டித்து இதனைச் செய்ததாகக் கூறப்படுகிறது
 
 ◼️
 
 [Data](articles/f4e7291d.json)
-
-[Extended Data](ext_articles/f4e7291d.ext.json)
 
 ---
 
@@ -98,7 +96,7 @@ Later, relatives and the people of the area rescued the drowning boy and admitte
 
 It is reported that a 21 -year -old woman has been arrested by archaeological authorities today (15) for writing her name on the marble wall in Sigiria.
 
-இதன்போது “தயவு செய்து இச்சுவரை தொட வேண்டாம்” என்று பலகை வைத்திருந்த இடத்தில் குறித்த பெண் தனது பெயரை எழுதியுள்ளார்.
+The woman has written her name at the place where she said, "Please do not touch this."
 
 The woman has been arrested on the basis of a crime of destroying and damaging archaeological symbols that need to be protected.
 
@@ -116,7 +114,7 @@ The arrested woman has been handed over to the Sigiriya Police and is to be prod
 
 *2025-09-15 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214584) · `si`
 
-අමෙරිකාවේ පවත්වන ‘එමි සම්මාන උළෙලේ‘ දී සම්මානයක් දිනූ ලාබාලතම නළුවා බවට පත්වන්නට ඕවන් කූපර් සමත්ව තිබේ.
+Owen Cooper has been able to become the youngest actor who won award at the 'Emmy Awards' in the United States.
 
 He was awarded this award for the drama series of 'Adlasand' series.
 
@@ -136,7 +134,7 @@ Meanwhile, the best prominent generation actor in the Emmy Awards, Seth Smart an
 
 *2025-09-15 08:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தையில்-கீரி-சம்பாவுக்குத்-தட்டுப்பாடு/175-364593) · `ta`
 
-புறக்கோட்டை அரிசி மொத்த விற்பனையாளர்கள் மற்றும் அரிசி உற்பத்தியாளர்கள், கீரி சம்பா அரிசியை 260 ரூபாய் கட்டுப்பாட்டு விலையை விட அதிகமான விலையில் வழங்குவதால், அதை விற்பனை செய்வதைத் தவிர்த்து வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.
+Rice wholesale sellers and rice manufacturers of Pettah are reported to be avoiding selling Giri Samba rice at a cost of Rs 260.
 
 Considering this, retailers are also avoiding selling Keeri Samba rice.
 
@@ -246,7 +244,7 @@ The Department of Meteorology has advised the public to take necessary precautio
 
 A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging the world's traditional tourist site Sigiriya glass wall.
 
-The 21 -year -old from Avissawella is said to have done this when he was traveling to Sigiriya.
+அவிசாவளையைச் சேர்ந்த 21 வயதுடைய அவர் சிகிரியாவிற்குச் சுற்றுலா சென்றிருந்தபோது இந்தச் செயலைச் செய்ததாகக் கூறப்படுகிறது.
 
 ◼️
 
@@ -322,23 +320,21 @@ The union further stated that it will make an announcement regarding the next ph
 
 ---
 
-### India rejects Pakistan's hands
+### පාකිස්තාන ක්‍රීඩකයන්ට අතට අත දීම ඉන්දියාව ප්‍රතික්ෂේප කරයි
 
 *2025-09-15 07:51:28* · [`adalk`](https://www.ada.lk/sports/පාකිස්තාන-ක්‍රීඩකයන්ට-අතට-අත-දීම-ඉන්දියාව-ප්‍රතික්ෂේප-කරයි/9-418496) · `si`
 
-Under the Asian Cup, Pakistani trainers refused to hand over the hands of the Pakistan and the Pakistan.
+ආසියානු කුසලාන තරවලිය යටතේ ඉන්දීය කණ්ඩායම හා පාකිස්තාන කණ්ඩායම අතර ඊයේ පැවැති තරගයෙන් අනතුරුව පාකිස්තාන ක්‍රීඩකයන්ට අතට අත දීම ප්‍රතික්ෂේප කළ බව පාකිස්තාන පුහුණුකරු මයික් හෙසන් පවසයි.
 
-India was a victory for seven wickets in Dubai and then immediately left the Pakistani players immediately.
+ඩුබායි හි පැවති මෙම තරගයෙන් ඉන්දියාව කඩුලු හතක ජයග්‍රහණයක් අත්කර ගත් අතර, පසුව ඒ වන විට පන්දුවට පහරදෙමින් සිටි නායක සූර්යකුමාර් යාදව් සහ  ශිවම් ඩූබේ තරගය ජයග්‍රහණය කළ විගසම පාකිස්තාන ක්‍රීඩකයන්ට අතට අත නොදී ඉක්මනින්ම පිටියෙන් ඉවත් විය.
 
-Later, Pakistani players seemed to walk to the dougut, but Indian players had already returned to the athlese.
+පසුව, පාකිස්තාන ක්‍රීඩකයින්  ඉන්දීය ක්‍රීඩකයන් රැදී සිට ඩග්අවුට් දෙසට ඇවිද යන බවක් පෙනෙන්නට තිබුණත් ඉන්දීය ක්‍රීඩකයින් ඒ වන විටත් ක්‍රීඩකාගාරයට ආපසු ගොස් තිබුණි.
 
-The gain of the coin was dangerous, but Surnemer and Pakistan Leader Salman Agraya were not handling.  "Clearly, the match was ready to let us down," said New Zealand Hesson.
+කාසියේ වාසිය ලබා ගැනීමේන් අනතුරුවත් සූර්යකුමාර් සහ පාකිස්තාන නායක සල්මන් ආගා අතර අතට අත දීමක්  සිදු නොවීය.  "පැහැදිලිවම, තරගය අවසානයේ අපි අතට අත දීමට සූදානම්ව සිටියා," නවසීලන්ත ජාතිකයෙක් වන හෙසන් පැවසීය.
 
 ◼️
 
 [Data](articles/57101369.json)
-
-[Extended Data](ext_articles/57101369.ext.json)
 
 ---
 

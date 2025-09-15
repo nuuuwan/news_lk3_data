@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 15:19:58**
+As of **2025-09-15 15:08:26**
 
 ## Newspaper Stats
 
-*Scraped **76,091** Articles*
+*Scraped **76,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,83 +16,21 @@ economynextcom | 4,608
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,384
+adalk | 7,383
 adaderanalk | 9,788
-tamilmirrorlk | 11,389
+tamilmirrorlk | 11,386
 virakesarilk | 12,404
-adaderanasinhalalk | 13,275
+adaderanasinhalalk | 13,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,002 (94.6%) of 76,091 articles have been extended.
+72,002 (94.6%) of 76,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
-
-### பரிசளிப்பு நிகழ்வில் பாக்.கேப்டன் பங்கேற்காதது ஏன்..?
-
-*2025-09-15 15:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிசளிப்பு-நிகழ்வில்-பாக்-கேப்டன்-பங்கேற்காதது-ஏன்/44-364628) · `ta`
-
-ஆசிய கிண்ண தொடரில் ஞாயிற்றுக்கிழமை (14) நடைபெற்ற 6-வது லீக் ஆட்டத்தில் பரம எதிரிகளான இந்தியா-பாகிஸ்தான் அணிகள் மோதின.
-
-பஹல்காமில் பாகிஸ்தான் பயங்கரவாதிகளின் கொடூர தாக்குதல், அதற்கு இந்தியாவின் பதிலடியால் உருவான போர் பதற்றம் தணிந்த பிறகு இவ்விரு அணிகளும் சந்தித்த முதல் போட்டி என்பதால் கிரிக்கெட் உலகின் ஒட்டுமொத்த கவனத்தையும் ஈர்த்து இருந்தது.
-
-இதில் டாஸ் வென்று முதலில் பேட்டிங் செய்த பாகிஸ்தான் அணி 20 ஓவர் முடிவில் 9 விக்கெட்டுகளை இழந்து 127 ஓட்டங்கள் மட்டுமே அடித்தது. அதிகபட்சமாக சாஹிப்சாதா பர்ஹான் 40 ஓட்டங்களும், ஷாகீன் ஷா அப்ரிடி 33 ஓட்டங்களும் அடித்தனர். இந்திய தரப்பில் சுழற்பந்து வீச்சாளர் குல்தீப் யாதவ் 3 விக்கெட்டுகள் வீழ்த்தி அசத்தினார்.
-
-...
-
-[Data](articles/57d987c7.json)
-
----
-
-### BYD වාහන ගැන අධිකරණයට දැනුම්දීමක්
-
-*2025-09-15 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214598) · `si`
-
-රේගුව විසින් රඳවා ගැනීමෙන් අනතුරුව මේ වනවිට බැංකු ඇපකර මත මුදාහැර තිබෙන BYD වාහනවල මෝටර් ධාරිතාව නිගමනය කිරීම සඳහා පත්කළ විශේෂඥ කමිටුවේ වාර්තාව ඉදිරි සති කිහිපය තුළ ලැබීමට නියමිතව තිබෙන බව නීතිපතිවරයා අද (15) අභියාචනාධිකරණයට දැනුම් දුන්නේය.
-
-තමන් විසින් ආනයනය කළ BYD වාහන ශ්‍රී ලංකා රේගුව විසින් රඳවා ගැනීමට එරෙහිව ජෝන් කීල්ස් සීජී සමාගම විසින් ඉදිරිපත් කළ රිට් පෙත්සම අද කැඳවූ අවස්ථාවේදී ශ්‍රී ලංකා රේගුව මෙම දැනුම්දීම සිදුකළේය.
-
-◼️
-
-[Data](articles/a06b2cf7.json)
-
----
-
-### உல்லாசத்திற்கு அழைத்து: மர்ம உறுப்பில் ‘ஸ்டேப்ளர் பின்’ அடித்த பெண்
-
-*2025-09-15 15:00:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உல்லாசத்திற்கு-அழைத்து-மர்ம-உறுப்பில்-ஸ்டேப்ளர்-பின்-அடித்த-பெண்/175-364627) · `ta`
-
-பத்தனம்திட்டா அருகே  இரண்டு இளைஞர்களை உல்லாசத்திற்கு அழைத்து பணம்-செல்போனை பறித்துவிட்டு மர்ம உறுப்பில் ‘ஸ்டேப்ளர் பின்' அடித்து சித்ரவதை செய்த தம்பதியை பொலிஸார் கைதுசெய்தனர்.
-
-கேரள மாநிலம் பத்தனம்திட்டா மாவட்டம் சரல்குன்னு பகுதியைச்சேர்ந்தவர் ஜெயேஷ்(வயது29). இவருடைய மனைவி ரஷ்மி(23). இவருக்கு, ஆலப்புழையை சேர்ந்த ஒரு வாலிபருடன் இன்ஸ்டாகிராம் மூலம் பழக்கம் ஏற்பட்டது.
-
-இந்தநிலையில் ரஷ்மி அந்த வாலிபரை, நாம் உல்லாசமாக இருக்கலாம் எனக்கூறி வீட்டிற்கு அழைத்துள்ளார். அதை நம்பிய அந்த வாலிபர், கடந்த 1-ந் திகதி ரஷ்மியின் வீட்டிற்கு சென்றுள்ளார். வீட்டிற்குள் சென்ற அந்த இளைஞன், ரஷ்மியிடம் நெருங்கி சென்றார். அப்போது அங்கு மறைந்திருந்த ரஷ்மியின் கணவர் ஜெயேஷ், அதை தனது செல்போனில் படம் எடுத்துள்ளார்.
-
-சிறிதுநேரத்தில் அங்கு வந்த ஜெயேஷ், மனைவியுடன் சேர்ந்து அந்த வாலிபரை மிரட்டி அவரிடம் இருந்த விலை உயர்ந்த செல்போன் மற்றும் ரூ.6 ஆயிரத்தை பறித்தனர். தொடர்ந்து வாலிபரின் கைகளை கட்டித்தொங்கவிட்டு மர்ம உறுப்பில் 26 ‘ஸ்டேப்ளர் பின்’களை அடித்து சித்ரவதை செய்துள்ளனர்.
-
-...
-
-[Data](articles/5e61e31f.json)
-
----
-
-### தொழிலாளர்களின் சம்பளம்: அவகாசம் வழங்கியது அரசாங்கம்
-
-*2025-09-15 14:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொழிலாளர்களின்-சம்பளம்-அவகாசம்-வழங்கியது-அரசாங்கம்/76-364625) · `ta`
-
-தோட்டத் தொழிலாளர்களின் ஊதிய உயர்வு குறித்து தங்கள் நிலைப்பாட்டை அரசாங்கத்திற்குத் தெரிவிக்க தோட்ட உரிமையாளர்களுக்கு ஒரு மாத கால அவகாசம் வழங்கப்பட்டுள்ளது.
-
-தோட்டத் தொழிலாளர்களின் ஊதியத்தை ரூ.1700 ஆக உயர்த்த வேண்டும் என்று தோட்ட உரிமையாளர்களுக்கு முன்மொழியப்பட்டுள்ளதாக தொழில் பிரதி அமைச்சர் மஹிந்த ஜெயசிங்க தெரிவித்தார்.
-
-◼️
-
-[Data](articles/443fd309.json)
-
----
 
 ### සහල් සඳහා පැනවූ පාලන මිල ගැසට්ටුව සංශෝධනය කරන්නේ නෑ - පාරිභෝගික අධිකාරිය
 
@@ -683,24 +621,6 @@ Meanwhile, arrangements have been taken to organize spiritual, sports, health an
 [Data](articles/e362d7da.json)
 
 [Extended Data](ext_articles/e362d7da.ext.json)
-
----
-
-### වන අලි ප්‍රහාරයකින් සිවිල් ආරක්ෂක භටයෙක් මරුට
-
-*2025-09-15 11:40:14* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-ප්‍රහාරයකින්-සිවිල්-ආරක්ෂක-භටයෙක්-මරුට/11-418503) · `si`
-
-කහටගස්දිගිලිය පොලිස් වසමේ බේත්කෑව ප්‍රදේශයේදී ඊයේ (14දා) සවස් කාලයේ වන අලියෙකු පහරදීම හේතුවෙන් පුද්ගලයෙකු මියගොස් ඇති බවට ලද තොරතුරක් මත කහටගස්දිගිලිය පොලිස් ස්ථානය විමර්ශන ආරම්භ කර ඇත.
-
-මරණකරු වයස අවුරුදු 45 ක් වූ බේත්කෑව, කහටගස්දිගිලිය ප්‍රදේශයේ පදිංචි සිවිල් ආරක්ෂක භටයෙකි. ‍
-
-මරණකරු වගා කටයුතු සඳහා කුඹුරු ඉඩමක් සුද්ද කරමින් සිටින අවස්ථාවේදී මෙලෙස වන අලි ප්‍රහාරයකට ලක්ව ඇති බවට විමර්ශනයේදී අනාවරණය වි ඇත.
-
-මෘත ශරීරය අනුරාධපුර රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කහටගස්දිගිලිය පොලිස් ස්ථානය විසින් වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/f6defa10.json)
 
 ---
 
@@ -2004,6 +1924,20 @@ However, in 2025, there was no inflationary policy per se, other than dollar-rup
 
 ---
 
+### 
+
+*2025-09-15 05:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
+
+The Main Problem  Today is  Illegal Fishing by Indian Fishers in Northern Waters and not the  Issuer of  India Retrieving  Katchatheevu.
+
+Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
+
+...
+
+[Data](articles/39f24b3f.json)
+
+---
+
 ### We have failed to reach the target of economic growth to repay the loan - Sajith Premadasa
 
 *2025-09-15 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225098) · `ta`
@@ -2061,5 +1995,85 @@ Chandrika Bandaranaike Kumaratunga and Maithripala Siripala left the state offic
 [Data](articles/c91240f4.json)
 
 [Extended Data](ext_articles/c91240f4.ext.json)
+
+---
+
+### Funds to complete classroom buildings in Vanni district
+
+*2025-09-15 04:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225095) · `ta`
+
+Prime Minister and Education Minister Harini Amarasuriya has assured that the allocation of funds to complete the classroom buildings that have been started in the Vanni district and the construction work has not been completed.
+
+Labor Party's Wanni District MP at the Prime Minister's Parliamentary Office. The Prime Minister made this pledge while meeting the Prime Minister and some of the representatives of Khadar Mastan and some of the educational action of the Vanni district, the Saudi Arabian Housing Scheme and the Copies of the Qur'an.
+
+The Ministry of Education Advisory Committee held a meeting held last June on the completion of classroom buildings in the Vanni district and the construction work has not been completed yet.. When he told the Prime Minister, he pledged to allocate the necessary steps to be taken from this year's funds to the Vanni district and allocated funds to complete the construction work that had not yet been completed.
+
+...
+
+[Data](articles/299250f5.json)
+
+[Extended Data](ext_articles/299250f5.ext.json)
+
+---
+
+### The final draft of the new Anti -Terrorism Bill will be handed over to the Minister of Justice this week
+
+*2025-09-15 04:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225094) · `ta`
+
+Chairman of the Committee, President, Attorney -at -Law, Arsakularatne, said that the final draft of the Expert Committee appointed to draft the new Anti -Terrorism Bill would be handed over to the Minister of Justice and National Integration Minister Harshana Nanayakkara.
+
+A committee appointed by the Cabinet over the draft of the new Anti -Terrorism Act was met at the Ministry of Justice and National Integration. The chairman of the committee said this while commenting.
+
+The new bill is being held for the second time and the second time the bill is being investigated, and now it is concluded.
+
+The Chairman said that the Committee is continuing to discuss the bill and that the law will be taken by the Department of Laws to take the changes to the daily discussion and take action.
+
+...
+
+[Data](articles/296004cd.json)
+
+[Extended Data](ext_articles/296004cd.ext.json)
+
+---
+
+### The Speaker of the Speaker will appeal to the International Parliamentary Union - Kavinda Jayawardena
+
+*2025-09-15 04:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225093) · `ta`
+
+The government is afraid that many issues will be revealed regarding the survival Sunday bombings if he takes debate against the Deputy Minister of Defense Aruna Jayasekara.. United People's Power Gampaha District Parliamentarian Kavinda Jayawardena said that the Speaker's unilateral action will be appealed to the International Parliamentary Union.
+
+The National People's Power came to power, claiming that justice is justice for the lifeblood of the bombing. But the truth has not yet been revealed. The promises are only very much.
+
+The name of the Deputy Minister of Defense Aruna Jayasekara has been referred to as the suspect in the bombing incident.
+
+Based on these factors, we brought a no -confidence motion against Deputy Minister Aruna Jayasekara.
+
+The government is afraid that many issues will be revealed regarding the survival Sunday bombings if the motion of no confidence is taken up for debate. Many of the issues that are released are against the government.
+
+...
+
+[Data](articles/684ee359.json)
+
+[Extended Data](ext_articles/684ee359.ext.json)
+
+---
+
+### Thamika Perera - Dayasiri Jayasekera has purchased more than 50 % of the Lap Cooking Gas Company
+
+*2025-09-15 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225092) · `ta`
+
+The government has been vocal against corruption and fraud. But now the government has purchased more than 50 per cent of the company's Lap Cooking Gas Company, the company.. Parliamentarian Dayasiri Jayasekara has questioned that this will benefit anyone.
+
+He further stated at a press conference held in Kurunegala on Sunday (14).
+
+This government has been vocal against corruption and fraud. Litro cooking gas company has an 80 per cent market offer in Sri Lanka. Litro and Lap companies have been rivals for the past 20 years. So the two companies were parallel to the gas distributors.
+
+But now there is a lot of troubles in the price petition. Litro interferes with gas imports for Lab. Lap company's 40 percent of shares were purchased by a company owned by Thamika Perera last week. In addition, 10 percent of shares have been purchased in the stock market.
+
+...
+
+[Data](articles/93a9ae7f.json)
+
+[Extended Data](ext_articles/93a9ae7f.ext.json)
 
 ---

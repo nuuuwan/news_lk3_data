@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 12:15:22**
+As of **2025-09-15 12:38:49**
 
 ## Newspaper Stats
 
-*Scraped **76,048** Articles*
+*Scraped **76,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,389
 adalk | 7,380
 adaderanalk | 9,782
-tamilmirrorlk | 11,380
+tamilmirrorlk | 11,383
 virakesarilk | 12,396
 adaderanasinhalalk | 13,268
 
@@ -26,51 +26,121 @@ adaderanasinhalalk | 13,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,804 (94.4%) of 76,048 articles have been extended.
+71,821 (94.4%) of 76,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### කෙහෙළිය ඇතුළු පවුලේ සාමාජිකයින්ට එරෙහි නඩුව කල්යයි
+### ’’போக்குவரத்தை வலுப்படுத்துவதே  முதல் குறிக்கோள்“
 
-*2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
+*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்தை-வலுப்படுத்துவதே-முதல்-குறிக்கோள்/175-364616) · `ta`
 
-අයථා ලෙස රුපියල් මිලියන 97කට අධික වටිනාකමකින් යුත් වත්කම් උපයා ගැනීම සම්බන්ධයෙන් හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ බෑනාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනු ඇති නඩුව ඔක්තෝබර් 01 වනදා යළි කැඳවීමට කොළඹ මහාධිකරණය නියම කළේය.
+கொழும்பில் பதினைந்து பல்வகை போக்குவரத்து மையங்களை நிர்மாணிப்பதற்காக அடுத்த பட்ஜெட்டில் இருந்து நிதி ஒதுக்கப்படும் என்று போக்குவரத்து, நெடுஞ்சாலைகள்,துறைமுகங்கள் மற்றும் சிவில் விமானப்போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க திங்கட்கிழமை (15) தெரிவித்தார்.
 
-ඒ මෙම නඩුව කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදීය.
+ரயில்கள்,பேருந்துகள் மற்றும் டெக்சிகளை ஒரே இடத்திலிருந்து முன்பதிவு செய்ய கூடிய வகையில் போக்குவரத்து மையங்கள் கட்டப்படும் என்று அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
 
-මෙම නඩුව අද කැඳවූ අවස්ථාවේ විත්තිය විසින් ඉල්ලා සිටි ලේඛන අතුරින් කිහිපයක් අල්ලස් කොමිසම විසින් විත්ති පාර්ශවයට විවෘත අධිකරණයේදී භාර දෙනු ලැබීය.
+2029 ஆம் ஆண்டுக்குள் இலங்கையில் இது போன்ற குறைந்தது ஐம்பது பல்வகை போக்குவரத்து மையங்களையாவது தொடங்குவதே இவ் அரசாங்கத்தின் நோக்கம் என்றும் அமைச்சர்மேலும் கூறினார்.
 
-තවදුරටත් ලේඛන අවශ්‍ය නම් ඒවා අද දින සිට සති දෙකක් ඇතුළත අධිකරණයට දැනුම් දෙන ලෙස එහිදී අධිකරණය විසින් විත්ති පාර්ශවයට නියම කර ඇත.
-
-ඉන් අනතුරුව නඩුව යළි ඔක්තෝබර් 01 වනදා කැඳවීමට දින නියම කෙරිණි.
+புறக்கோட்டை மத்திய பேருந்து நிலையத்தில் மேம்பாட்டு தொடக்க விழாவில் உரையாற்றும் போதே அமைச்சர் பிமல் ரத்நாயக்க இவ்வாறு கூறினார்.
 
 ...
 
-[Data](articles/60170dfa.json)
+[Data](articles/8af73522.json)
 
 ---
 
-### බන්ධනාගාරගත වන පුද්ගලයින් සංඛ්‍යාව අවම කිරීම රජයේ අරමුණයි - අධිකරණ අමාත්‍ය
+### Our primary goal is to strengthen the country's transport.
+
+*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-போக்குவரத்தை-வலுப்படுத்துவதே-எங்கள்-முதன்மையான-குறிக்கோள்/175-364616) · `ta`
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said on Monday (15)
+
+Minister Bimal Ratnayake said trains, buses and texies would be built from one place to be booked from one place.
+
+Minister of State also said that the government's aim was to open at least fifty -fifty transport centers in Sri Lanka by 2029.
+
+Minister Bimal Ratnayake said this while addressing the inauguration ceremony at the Central Bus Stand at Pettah.
+
+The project was launched under the leadership of President Anura Kumara Dissanayake. "Our primary goal is to strengthen the country. No matter how many roads are constructed, no matter how many traffic lights are installed, the economy of a country cannot be improved.
+
+In the last thirty to forty years, the public transport system has fallen greatly due to fraud and corruption.
+
+If the president has time, we ask for five minutes to walk in this area to understand how the people of this country use this main bus station.
+
+...
+
+[Data](articles/f6a7070a.json)
+
+[Extended Data](ext_articles/f6a7070a.ext.json)
+
+---
+
+### Case against Keheliya and family members postponed
+
+*2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
+
+Former Minister Keheliya Rambukwella, his wife, three daughters and the son-in-law of the Bribery Commission against the abuse of over 97 million ruled the file on October 1.
+
+The case was called the Colombo High Court Judge Lanka Jayaratne.
+
+When the case was taken up today, the Bribery Commission was handed over to the defendant at the Open Court of Bribery Court.
+
+If necessary, the court has set to the defendant to inform the court within two weeks.
+
+The date was placed on the 1st of October.
+
+Former Minister Keheliya Rambukkale accusing of a condolence of over Rs. 24th August 2020 million The case has been filed against the Naker Rambukwella and the Grade North, Isuru Pulasthi Bandara Polgasdeniya.
+
+◼️
+
+[Data](articles/60170dfa.json)
+
+[Extended Data](ext_articles/60170dfa.ext.json)
+
+---
+
+### The government's objective is to reduce the number of persons who are imprisoned - Minister of Justice
 
 *2025-09-15 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214590) · `si`
 
-බන්ධනාගාරගත වන පුද්ගයින් සංඛ්‍යාව අඩු කිරීම අරමුණ විය යුතු බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා පවසයි.
+Minister of Justice Harshana Nanayakkara says that it is necessary to reduce the number of persons who are imprisoned.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා පැවැති 27 වැනි සිරකරු දින උත්සවයට එක්වෙමිනි.
+The Minister made this observation at the 17th prisoner day.
 
-එහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කර සිටියේ බන්ධනාගාරගත වන සිරකරුවන් වෙනුවෙන් සිරකරු සුභ සාධක සංගමය විසින් ලබා දෙන සේවය ප්‍රශංසනීය වන බවය.
+Speaking on the occasion, the Minister said that the prisoner welfare union is commendable for prisoned prisoners.
 
-එමෙන්ම මේ වන විට බන්ධනාගාර තුළ සිරකරුවන්ගේ විශාල තදබදයක් පවතින බවත් එම තදබදය අඩු කරමින් අවශ්‍ය පහසුකම් සැපයීම රජයේ වගකීමක් බවද අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+The Minister also said that there is a large number of prisoners in prisons and to facilitate the reduction of the congestion.
 
-එහිදී බන්ධනාගාරගත වන පුද්ගලයින් සංඛ්‍යාව අවම කිරීමත් බන්ධනාගාරගත වන සියලු දෙනාගේ මානව අයිතිවාසිකම් ආරක්ෂා වන පරිදී පහසුකම් ඇති කිරීමත් අතිශයින් වැදගත් වන බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කරනු ලැබීය.
+The Minister emphasized that it is very important to reduce the number of persons who are imprisoned and the protection of the human rights of everyone who remains.
 
-එමෙන්ම නීතිය ඉදිරියේ සියලු පුද්ගලයින් එක හා සමාන වන බවත් රජයක් ලෙස නීතියේ විධානයේ අධිපත්‍ය සුරක්ෂා කරමින් සමානාත්මතාවයෙන් යුතු රටක් නිර්මාණය කරන බවද අමාත්‍යවරයා මෙහිදී පැවසීය.
+The Minister also said that all persons in the face of the law are equal to the one and a government is created to create an equality country by protecting the command of the law as a government.
+
+Meanwhile, arrangements have been taken to organize spiritual, sports, health and legal counseling programs covering the prison welfare win.
 
 ...
 
 [Data](articles/e362d7da.json)
+
+[Extended Data](ext_articles/e362d7da.ext.json)
+
+---
+
+### சுற்றிவளைப்பில்  15 பேர் கைது
+
+*2025-09-15 11:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றிவளைப்பில்-15-பேர்-கைது/175-364612) · `ta`
+
+நாடு முழுவதும் குற்றச் செயல்களில் நேரடியாக ஈடுபட்டதற்காக தேடப்பட்டு வந்த 15 பேரை இலங்கை பொலிஸ் கைது செய்துள்ளது.
+
+இலங்கையில் போதைப்பொருள் மற்றும் குற்றச் செயல்களைத் தடுப்பதற்காக நேற்று ஞாயிற்றுக்கிழமை நடத்தப்பட்ட பல நடவடிக்கைகளின் போது சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸ் தெரிவித்துள்ளது.
+
+அவர்களில், 15 பேர் குற்றங்களில் நேரடியாக ஈடுபட்டதற்காகவும், 674 பேர் சந்தேகத்தின் பேரிலும் கைது செய்யப்பட்டனர்.
+
+பிடியாணை பிறப்பிக்கப்பட்ட 220 பேரையும், திறந்த பிடியாணை பிறப்பிக்கப்பட்ட 155 பேரையும் பொலிஸார் கைது செய்தனர்.
+
+◼️
+
+[Data](articles/d7c2a6f6.json)
 
 ---
 
@@ -178,19 +248,21 @@ Initial police investigations have revealed that he had also kept a barrel of ba
 
 ---
 
-### පිට කොටුව මධ්‍යම බස් නැවතුම්පොළ සංවර්ධනය ඇරඹෙයි
+### Central Bus Stand development begins in Pittu Fort
 
 *2025-09-15 10:52:18* · [`adalk`](https://www.ada.lk/breaking_news/පිට-කොටුව-මධ්‍යම-බස්-නැවතුම්පොළ-සංවර්ධනය-ඇරඹෙයි/11-418499) · `si`
 
-පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ අලුත්වැඩියා කිරිමේ කටයුතු මීට සුළු මොහොතකට පෙර ආරම්භ විය. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් එම කටයුතු ආරම්භ කරනු ලැබීය.
+Renovation of Central Bus Stand Central Pettah has commenced a short moum before. Anura Kumara Dissanayake was conducted under the patronage of President Anura Kumara Dissanayake.
 
-ව්‍යාපෘතිය සඳහා රුපියල් මිලියන 424ක් වැය කිරීමට අපේක්ෂා කෙරේ. මේ හරහා කොළඹ මධ්‍යම බස් නැවතුම්පොළ නවීන පහසුකම්වලින් සමන්විත බස් නැවතුම්පොළක් ලෙස සංවර්ධනය කෙරෙයි. නවීකරණ කටයුතු ලබන වසරේ අප්‍රේල් මාසයේදී අවසන් කිරීමට නියමිතය.
+424 million for the project. The Colombo Central Bus Stand consisting of modern facilities. The renovation work is to be completed in April next year.
 
-මධ්‍යම බස් නැවතුම්පොළ මේ අයුරින් නැවත නවීකරණය කරන්නේ වසර 60කට ආසන්න කාලයකට පසුව වීම විශේෂත්වයකි.4
+It is significant that the Central Bus Stand will be re-modernized after 60 years.
 
 ◼️
 
 [Data](articles/572ebe7b.json)
+
+[Extended Data](ext_articles/572ebe7b.ext.json)
 
 ---
 
@@ -270,6 +342,8 @@ The pair of elephant tusks were taken into custody by the police and the suspect
 
 [Data](articles/d27fa078.json)
 
+[Extended Data](ext_articles/d27fa078.ext.json)
+
 ---
 
 ### The boy drowned in the water
@@ -328,6 +402,8 @@ As part of the renovation, modern facilities will be introduced, including new r
 
 [Data](articles/495c1d7d.json)
 
+[Extended Data](ext_articles/495c1d7d.ext.json)
+
 ---
 
 ### Small gun recovery from the Vienna Canal
@@ -361,6 +437,8 @@ Hamas’ political leadership, which has engaged in on-and-off negotiations on a
 ...
 
 [Data](articles/7f513bb9.json)
+
+[Extended Data](ext_articles/7f513bb9.ext.json)
 
 ---
 
@@ -1963,69 +2041,5 @@ The Ministry of Education in Sri Lanka has announced a national education reform
 [Data](articles/46051af4.json)
 
 [Extended Data](ext_articles/46051af4.ext.json)
-
----
-
-### A shortage of costume in the market
-
-*2025-09-14 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214570) · `si`
-
-Consumers complain that there is a lack of hair samba rice in the market.
-
-Pettah Rice Rice Rice Sahanuwa 260 rupees imposed on Rs 260 rupees imposed on Rs.
-
-In the face of this, retailerators too keeramar samba rice is avoiding sales.
-
-In such an environment, the United Kingdom Manufacturers Association urges the government to remove the maximum retail price imposed on Samba Samba rice.
-
-However, large and medium and medium scale Mills, the SMEs of the rice is not taken to remove the maximum retail price of the rice artificial rice deficit and seek advantage of artificial rice shortage.
-
-Meanwhile, the National Agrarian Association says the government should expeditate and address this problem.
-
-◼️
-
-[Data](articles/d3812c67.json)
-
-[Extended Data](ext_articles/d3812c67.ext.json)
-
----
-
-### 20 lakhs 80 thousand rupees money 80 lakhs of gold jewelery
-
-*2025-09-14 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225083) · `ta`
-
-20 lakhs 80 thousand rupees. Police said that the incident took place on Sunday night when the 33 -half -pound gold jewelery was stolen worth Rs 80 lakh.
-
-Everyone was in deep sleep on the day of the incident on the day of the incident on the 4th Cross Road, PunniCholai Semakkalai Road.. During this time, the thieves who broke into the door of the house and logged in into the house, stole 20 million 80 thousand rupees of money and about 33 half -pound gold jewelery.
-
-Subsequently, the police have lodged a complaint at the police station and the police have been summoned by the police and are conducting serious investigations.
-
-◼️
-
-[Data](articles/993d37b7.json)
-
-[Extended Data](ext_articles/993d37b7.ext.json)
-
----
-
-### Irregularities of the Divi Development Loan Project reveals
-
-*2025-09-14 19:26:19* · [`adalk`](https://www.ada.lk/breaking_news/දිවිබල-සංවර්ධන-ණය-ව්‍යාපෘතියේ-අක්‍රමිකතා-විගණනයෙන්-හෙළිවෙයි/11-418491) · `si`
-
-A audit report issued by the National Audit report states that the debt has been deprived of 13,000 rupees (149,000) from the Southern Provincial Development Authority's Southern Provincial Development Authority.
-
-The audit has revealed that no matter what has been appointed to the subject officer in connection with the subject of June 9, but in September 2024.
-
-According to the Cash Book and Computer Program by the Cash Book of the Cash Book on October 31, 2022, according to the Cash Book and Computer Program, according to the Cash Book and Computer Program (2,347,414) was reported in the Cash Book and Computer Program.
-
-The Audit has said that the Audit has said that a basic investigation into the subject officer has been conducted by the Board of Directors.
-
-This information is included in the Tri-Audit Report issued by the Southern Provincial Council Office.
-
-◼️
-
-[Data](articles/6c995d55.json)
-
-[Extended Data](ext_articles/6c995d55.ext.json)
 
 ---

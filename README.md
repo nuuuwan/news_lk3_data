@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 10:21:12**
+As of **2025-09-15 10:09:34**
 
 ## Newspaper Stats
 
-*Scraped **76,026** Articles*
+*Scraped **76,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,21 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,378
+adalk | 7,377
 adaderanalk | 9,779
 tamilmirrorlk | 11,368
 virakesarilk | 12,396
-adaderanasinhalalk | 13,263
+adaderanasinhalalk | 13,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,726 (94.3%) of 76,026 articles have been extended.
+71,684 (94.3%) of 76,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
-
-### පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ සංවර්ධනය කිරීමේ සමාරම්භක උත්සවය ඇරඹෙයි - සජීව විකාශය
-
-*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214586) · `si`
-
-පිටකොටුව මධ්‍යම බස් නැවතුම්පොළේ නවීකරණ කටයුතු ආරම්භ කිරීමේ සමාරම්භක අවස්ථාව මේ වන විට ආරම්භ වී තිබේ.
-
-1964 වසරේ ඉදිකර ඇති පිටකොටුව බස්නැවතුම්පොළ මෙලෙස ප්‍රතිසංස්කරණයට ලක්වනුයේ අවුරුදු 60කට පසු වීම විශේෂත්වයකි.
-
-අදාළ නවීකරණය යටතේ බස් නැවතුම්පොළට නව විවේකාගාර, තොරතුරු සන්නිවේදන ස්ථාන, ආරක්ෂක පද්ධති ඇතුළු අංග රැසක් ස්ථාපිත කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/a479a0b7.json)
-
----
-
-### ඇත් දළ යුගලක් සමග  හිටපු හමුදා සෙබළෙක් අත්අඩංගුවට
-
-*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214585) · `si`
-
-මොරගොඩ පොලිස් ස්ථානයේ නිලධාරීන් විසින් සිදුකළ මෙහෙයුමකදී ඇත් දළ යුගලක් සන්තකයේ තබාගෙන සිටි විශ්‍රාමික යුධ හමුදා සෙබළෙකු අත්අඩංගුවට ගෙන ඇත.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ විශ්‍රාමික යුධ හමුදා සෙබලෙකු වන හල්මිල්ලවැව ප්‍රදේශයේ පදිංචි 46 හැවිරිදි පුද්ගලයෙකි.
-
-මොරගොඩ පොලීසියට ලද තොරතුරක් අනුව මොරගොඩ හල්මිල්ලෑව ප්‍රදේශයේදි සිදුකළ මෙහෙයුමකදී එම ඇත් දළ යුගලය සොයා ගෙන ඇති බව වාර්තා වේ.
-
-සැකකරුට අයිති හේන් බිමක රොඩු ගොඩක් යට ඉතා සුක්ෂම ලෙස සඟවා තිබියදී එම ඇත් දළ යුගලය සොයා ගැනීමට පොලිසිය සමත්ව ඇති අතර එම ඇත් දළ යුගලය අඩියක් පමණ දිගකින් යුක්ත වන බව පොලිසිය සඳහන් කළේය.
-
-පොලීසිය සිය භාරයට ගෙන ඇති ඇත් දළ යුගලය හා සැකකරු අද (15) කහටගස්දිගිලිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරිමට නියමිතය.
-
-◼️
-
-[Data](articles/e490fb4a.json)
-
----
 
 ### 11-year old boy drowns in Dewahuwa Reservoir
 
@@ -81,8 +45,6 @@ Relatives and residents of that area later retrieved the child from the water an
 ◼️
 
 [Data](articles/eab6fe0e.json)
-
-[Extended Data](ext_articles/eab6fe0e.ext.json)
 
 ---
 
@@ -122,8 +84,6 @@ Labour leader Starmer is not a natural bedfellow for right-wing firebrand Trump,
 
 [Data](articles/5f505d9f.json)
 
-[Extended Data](ext_articles/5f505d9f.ext.json)
-
 ---
 
 ### Giri Samba Rice shortage in the market!
@@ -148,25 +108,23 @@ In this context, the National Farmers' Union has demanded that the government im
 
 ---
 
-### Israel attack on Gaza: 53 deaths: Many buildings have been damaged!
+### காசா மீது இஸ்ரேல் தாக்குதல்: 53 பேர் உயிரிழப்பு:  பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன!
 
 *2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225105) · `ta`
 
-Israeli attacks on Gaza yesterday killed 53 people and damaged several buildings.
+காசா மீது நேற்றையதினம் இஸ்ரேல் நடத்திய தாக்குதல்களில் 53 பேர் உயிரிழந்ததுடன், பல கட்டடங்கள் சேதமாக்கப்பட்டுள்ளன.
 
-International media reports that Israel has intensified its bombing on the city of Gaza.
+காசா நகரத்தின் மீது இஸ்ரேல் தனது குண்டுவீச்சு தாக்குதலை தீவிரப்படுத்தியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
 
-Israeli forces have intensified an offensive to seize the northern urban center and displace its people, killing 53 Palestinians in Gaza area
+வடக்கு நகர்ப்புற மையத்தைக் கைப்பற்றி அதன் மக்களை இடம்பெயரச் செய்வதற்கான தாக்குதலை இஸ்ரேலியப் படைகள் தீவிரப்படுத்தியுள்ள நிலையில், காசா பகுதியில் 53 பாலஸ்தீனியர்களைக் கொல்லப்பட்டுள்ளனர்
 
-The number of people who died of hunger in Gaza has risen to 422 since the onset of Israel's war, the Ministry of Health said.
+இஸ்ரேலின் போர் தொடங்கியதிலிருந்து, காசாவில் பசியிலினால் உயிரிழந்தவர்களின் எண்ணிக்கை 422 ஆக உயர்ந்துள்ளதாக அந்த நாட்டு சுகாதார அமைச்சு தெரிவித்துள்ளது.
 
-In Gaza, the Israeli army has launched a two-hour missile attack targeting the Al-Qawdar tower in the southern Remal neighborhood.
+காசா நகரில், இஸ்ரேலிய இராணுவம் தெற்கு ரெமால் சுற்றுப்புறத்தில் உள்ள அல்-கவ்தர் கோபுரத்தை இலக்குவைத்து, இரண்டு மணி நேரம்  ஏவுகணைத் தாக்குதல்களை நடத்தியுள்ளது.
 
 ◼️
 
 [Data](articles/f72edf41.json)
-
-[Extended Data](ext_articles/f72edf41.ext.json)
 
 ---
 
@@ -395,26 +353,6 @@ A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting
 [Data](articles/f1ce059b.json)
 
 [Extended Data](ext_articles/f1ce059b.ext.json)
-
----
-
-### සීගිරිය කැටපත් පවුරට හානි කළ කාන්තාවක් අත්අඩංගුවට
-
-*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
-
-සීගිරිය ලෝක උරුම පුදබිමේ කැටපත් පවුරේ,එහි ආරක්ෂිත පුරාන කවි ගී වලට හානි කරමින් සිය නම ඉංග්‍රිසි  අකුරින්  සටහන් කළ 21 හැවිරිදි තරුණියක පුරාවිද්‍යා නිලධාරීන් විසින්  ඊයේ (14දා) අත්අඩංගුවට ගෙන ඇත.
-
-අවිස්සාවේල්ල  ගැටහත්ත ප්‍රදේශයේ පදිංචි මෙම තරුණිය, මිතුරු මිතුරියන්  පිරිසක් සමඟ සීගිරිය සංචාරයකට පැමිණ සිටියදී මෙම අභාග්‍ය සම්පන්න ක්‍රියාව සිදුකර ඇත. ඇය කැටපත් පවුරේ අගනා කාව්‍යමය ලියැවුම් වලට හානි කරමින් සිය නම ලියනවිට පුරාවිද්‍යා නිලධාරීන් මෙම කාන්තාව අල්ලාගෙන ඇති  අත. මෙම ක්‍රියාව තුලින්  කැටපත්පවුරට විශාල හානියක් සිදුවි ඇති බව පුරාවිද්‍යා නිලධාරීන් සොයාගෙන තිබේ.
-
-මෙම සිද්ධිය සම්බන්ධයෙන්, අත්ඩංඅගුවට කාන්තාව  සීගිරිය පොලිස් ස්ථානයට බාරදිමෙන් පසු රිමාන්ඩ් භාරයේ රඳවා සිටින අතර, අද  15   දඹුල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතයි.
-
-සිද්ධිය පිලිබදව සිගිරිය පොලිසිය මෙන්ම පුරාවිද්‍යා නිලධාරින් ද වැඩිදුරටත්  පරික්ෂණ පවත්වයි.
-
-මෙම සිදුවීම, මෙවැනි ඓතිහාසික ස්ථානවල ආරක්ෂාව පිළිබඳව නැවතත් ප්‍රශ්න මතු කර ඇති අතර, සංචාරකයන්ගේ වගකීම් සහ දැනුවත්භාවය පිළිබඳවද අවධානය යොමු කරවයි.
-
-◼️
-
-[Data](articles/2619be8a.json)
 
 ---
 
@@ -2033,5 +1971,67 @@ The suspect was found in the possession of a T81, 97 magazines, two magazines an
 [Data](articles/6d9e8488.json)
 
 [Extended Data](ext_articles/6d9e8488.ext.json)
+
+---
+
+### An earthquake in India's hearing
+
+*2025-09-14 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214565) · `si`
+
+Rickter Mapaka's 5.8 earthquake is located near the Gahami in India's Eye.
+
+At Indian Time. The earthquakes, which have around 4:41, have felt in the North Bengal.
+
+However, information about the injuries or property has not been reported.
+
+◼️
+
+[Data](articles/97110ed5.json)
+
+[Extended Data](ext_articles/97110ed5.ext.json)
+
+---
+
+### Accomplice of ‘Backhoe Saman’ arrested with firearm remanded
+
+*2025-09-14 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112494/accomplice-of-backhoe-saman-arrested-with-firearm-remanded) · `en`
+
+An accomplice of underworld figure ‘Backhoe Saman’, who was arrested yesterday (13) along with a T-81 assault rifle, has been remanded, Ada Derana reporter said.
+
+The individual was arrested by the North Western Crimes Division in Embilipitiya on charges of transporting and being in possession of a firearm of ‘Backhoe Saman’.
+
+Police have identified the suspect as a resident of the Gangeyaya area in Embilipitiya.
+
+During the arrest, police recovered a T81-type firearm, 97 bullets, two magazines and a military uniform from his possession.
+
+◼️
+
+[Data](articles/4b4258b0.json)
+
+[Extended Data](ext_articles/4b4258b0.ext.json)
+
+---
+
+### The proper purpose of the Presidential Fund is the Prime Minister
+
+*2025-09-14 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214564) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the presidential fund was impassated by privileged groups during the past regime.
+
+Prime Minister Dr. Harai Amarasuriya made these comments participating in the program auditorium in the Kandy District Secretariat today (14).
+
+At the GCE Advanced Level 6, 361 students have been awarded Rs. 36.1 million for 361 students.
+
+Speaking further Prime Minister Harini Amarasuriya said that the actual objective of the Presidential Fund is under the current government and the presidential fund is currently working under the present village.
+
+It was said that the presidential fund has taken steps to implement a program to doctors and that a program to support children contributes to the creation of a good human resource.
+
+The Prime Minister said that the Prime Minister would be able to realize the children's dreams to create an open-minded human resource instead of the education system under one framework.
+
+...
+
+[Data](articles/4abcafa3.json)
+
+[Extended Data](ext_articles/4abcafa3.ext.json)
 
 ---

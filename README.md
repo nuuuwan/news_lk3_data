@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 09:56:33**
+As of **2025-09-15 10:21:12**
 
 ## Newspaper Stats
 
-*Scraped **76,020** Articles*
+*Scraped **76,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,377
-adaderanalk | 9,777
+adalk | 7,378
+adaderanalk | 9,779
 tamilmirrorlk | 11,368
-virakesarilk | 12,395
-adaderanasinhalalk | 13,261
+virakesarilk | 12,396
+adaderanasinhalalk | 13,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,684 (94.3%) of 76,020 articles have been extended.
+71,726 (94.3%) of 76,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
+
+### පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ සංවර්ධනය කිරීමේ සමාරම්භක උත්සවය ඇරඹෙයි - සජීව විකාශය
+
+*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214586) · `si`
+
+පිටකොටුව මධ්‍යම බස් නැවතුම්පොළේ නවීකරණ කටයුතු ආරම්භ කිරීමේ සමාරම්භක අවස්ථාව මේ වන විට ආරම්භ වී තිබේ.
+
+1964 වසරේ ඉදිකර ඇති පිටකොටුව බස්නැවතුම්පොළ මෙලෙස ප්‍රතිසංස්කරණයට ලක්වනුයේ අවුරුදු 60කට පසු වීම විශේෂත්වයකි.
+
+අදාළ නවීකරණය යටතේ බස් නැවතුම්පොළට නව විවේකාගාර, තොරතුරු සන්නිවේදන ස්ථාන, ආරක්ෂක පද්ධති ඇතුළු අංග රැසක් ස්ථාපිත කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a479a0b7.json)
+
+---
+
+### ඇත් දළ යුගලක් සමග  හිටපු හමුදා සෙබළෙක් අත්අඩංගුවට
+
+*2025-09-15 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214585) · `si`
+
+මොරගොඩ පොලිස් ස්ථානයේ නිලධාරීන් විසින් සිදුකළ මෙහෙයුමකදී ඇත් දළ යුගලක් සන්තකයේ තබාගෙන සිටි විශ්‍රාමික යුධ හමුදා සෙබළෙකු අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ විශ්‍රාමික යුධ හමුදා සෙබලෙකු වන හල්මිල්ලවැව ප්‍රදේශයේ පදිංචි 46 හැවිරිදි පුද්ගලයෙකි.
+
+මොරගොඩ පොලීසියට ලද තොරතුරක් අනුව මොරගොඩ හල්මිල්ලෑව ප්‍රදේශයේදි සිදුකළ මෙහෙයුමකදී එම ඇත් දළ යුගලය සොයා ගෙන ඇති බව වාර්තා වේ.
+
+සැකකරුට අයිති හේන් බිමක රොඩු ගොඩක් යට ඉතා සුක්ෂම ලෙස සඟවා තිබියදී එම ඇත් දළ යුගලය සොයා ගැනීමට පොලිසිය සමත්ව ඇති අතර එම ඇත් දළ යුගලය අඩියක් පමණ දිගකින් යුක්ත වන බව පොලිසිය සඳහන් කළේය.
+
+පොලීසිය සිය භාරයට ගෙන ඇති ඇත් දළ යුගලය හා සැකකරු අද (15) කහටගස්දිගිලිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරිමට නියමිතය.
+
+◼️
+
+[Data](articles/e490fb4a.json)
+
+---
+
+### 11-year old boy drowns in Dewahuwa Reservoir
+
+*2025-09-15 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112508/11-year-old-boy-drowns-in-dewahuwa-reservoir) · `en`
+
+An 11-year-old boy has reportedly drowned while bathing in the Dewahuwa Reservoir in the Galewela area, police said.
+
+The child had gone to bathe in the reservoir with his father and relatives when he was swept under by strong currents and went missing, police said.
+
+Relatives and residents of that area later retrieved the child from the water and rushed him to the Galewela Hospital, where he was later pronounced dead..
+
+◼️
+
+[Data](articles/eab6fe0e.json)
+
+[Extended Data](ext_articles/eab6fe0e.ext.json)
+
+---
 
 ### Indians refuse to shake hands for Pakistani soldiers
 
@@ -47,6 +101,28 @@ The Indian team lost only 3 wickets in 16 overs with 131 runs and won by 7 wicke
 [Data](articles/f4e7291d.json)
 
 [Extended Data](ext_articles/f4e7291d.ext.json)
+
+---
+
+### Trump heads for historic second UK state visit
+
+*2025-09-15 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112507/trump-heads-for-historic-second-uk-state-visit) · `en`
+
+Donald Trump will get the red carpet treatment this week on an unprecedented second United Kingdom state visit, as Britain counts on royal pomp and circumstance to woo the unpredictable United States president.
+
+From a flyby and carriage ride with King Charles III to a grand state banquet at historic Windsor Castle, Britain is pulling out all the stops to flatter Trump, who has long been fascinated with the monarchy.
+
+The aim is to keep Prime Minister Keir Starmer on Trump’s good side when they meet at the British leader’s country residence for talks centred on trade, tariffs and the Ukraine war.
+
+Trump will also be kept far away from crowds and protesters, with all the action taking place outside London, where a large demonstration against the 79-year-old Republican is set to take place.
+
+Labour leader Starmer is not a natural bedfellow for right-wing firebrand Trump, but he has worked hard to win him over since the US president returned to the White House in January.
+
+...
+
+[Data](articles/5f505d9f.json)
+
+[Extended Data](ext_articles/5f505d9f.ext.json)
 
 ---
 
@@ -69,6 +145,28 @@ In this context, the National Farmers' Union has demanded that the government im
 [Data](articles/50eafac1.json)
 
 [Extended Data](ext_articles/50eafac1.ext.json)
+
+---
+
+### Israel attack on Gaza: 53 deaths: Many buildings have been damaged!
+
+*2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225105) · `ta`
+
+Israeli attacks on Gaza yesterday killed 53 people and damaged several buildings.
+
+International media reports that Israel has intensified its bombing on the city of Gaza.
+
+Israeli forces have intensified an offensive to seize the northern urban center and displace its people, killing 53 Palestinians in Gaza area
+
+The number of people who died of hunger in Gaza has risen to 422 since the onset of Israel's war, the Ministry of Health said.
+
+In Gaza, the Israeli army has launched a two-hour missile attack targeting the Al-Qawdar tower in the southern Remal neighborhood.
+
+◼️
+
+[Data](articles/f72edf41.json)
+
+[Extended Data](ext_articles/f72edf41.ext.json)
 
 ---
 
@@ -297,6 +395,26 @@ A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting
 [Data](articles/f1ce059b.json)
 
 [Extended Data](ext_articles/f1ce059b.ext.json)
+
+---
+
+### සීගිරිය කැටපත් පවුරට හානි කළ කාන්තාවක් අත්අඩංගුවට
+
+*2025-09-15 08:05:54* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරිය-කැටපත්-පවුරට-හානි-කළ-කාන්තාවක්-අත්අඩංගුවට/11-418497) · `si`
+
+සීගිරිය ලෝක උරුම පුදබිමේ කැටපත් පවුරේ,එහි ආරක්ෂිත පුරාන කවි ගී වලට හානි කරමින් සිය නම ඉංග්‍රිසි  අකුරින්  සටහන් කළ 21 හැවිරිදි තරුණියක පුරාවිද්‍යා නිලධාරීන් විසින්  ඊයේ (14දා) අත්අඩංගුවට ගෙන ඇත.
+
+අවිස්සාවේල්ල  ගැටහත්ත ප්‍රදේශයේ පදිංචි මෙම තරුණිය, මිතුරු මිතුරියන්  පිරිසක් සමඟ සීගිරිය සංචාරයකට පැමිණ සිටියදී මෙම අභාග්‍ය සම්පන්න ක්‍රියාව සිදුකර ඇත. ඇය කැටපත් පවුරේ අගනා කාව්‍යමය ලියැවුම් වලට හානි කරමින් සිය නම ලියනවිට පුරාවිද්‍යා නිලධාරීන් මෙම කාන්තාව අල්ලාගෙන ඇති  අත. මෙම ක්‍රියාව තුලින්  කැටපත්පවුරට විශාල හානියක් සිදුවි ඇති බව පුරාවිද්‍යා නිලධාරීන් සොයාගෙන තිබේ.
+
+මෙම සිද්ධිය සම්බන්ධයෙන්, අත්ඩංඅගුවට කාන්තාව  සීගිරිය පොලිස් ස්ථානයට බාරදිමෙන් පසු රිමාන්ඩ් භාරයේ රඳවා සිටින අතර, අද  15   දඹුල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතයි.
+
+සිද්ධිය පිලිබදව සිගිරිය පොලිසිය මෙන්ම පුරාවිද්‍යා නිලධාරින් ද වැඩිදුරටත්  පරික්ෂණ පවත්වයි.
+
+මෙම සිදුවීම, මෙවැනි ඓතිහාසික ස්ථානවල ආරක්ෂාව පිළිබඳව නැවතත් ප්‍රශ්න මතු කර ඇති අතර, සංචාරකයන්ගේ වගකීම් සහ දැනුවත්භාවය පිළිබඳවද අවධානය යොමු කරවයි.
+
+◼️
+
+[Data](articles/2619be8a.json)
 
 ---
 
@@ -1915,133 +2033,5 @@ The suspect was found in the possession of a T81, 97 magazines, two magazines an
 [Data](articles/6d9e8488.json)
 
 [Extended Data](ext_articles/6d9e8488.ext.json)
-
----
-
-### An earthquake in India's hearing
-
-*2025-09-14 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214565) · `si`
-
-Rickter Mapaka's 5.8 earthquake is located near the Gahami in India's Eye.
-
-At Indian Time. The earthquakes, which have around 4:41, have felt in the North Bengal.
-
-However, information about the injuries or property has not been reported.
-
-◼️
-
-[Data](articles/97110ed5.json)
-
-[Extended Data](ext_articles/97110ed5.ext.json)
-
----
-
-### Accomplice of ‘Backhoe Saman’ arrested with firearm remanded
-
-*2025-09-14 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112494/accomplice-of-backhoe-saman-arrested-with-firearm-remanded) · `en`
-
-An accomplice of underworld figure ‘Backhoe Saman’, who was arrested yesterday (13) along with a T-81 assault rifle, has been remanded, Ada Derana reporter said.
-
-The individual was arrested by the North Western Crimes Division in Embilipitiya on charges of transporting and being in possession of a firearm of ‘Backhoe Saman’.
-
-Police have identified the suspect as a resident of the Gangeyaya area in Embilipitiya.
-
-During the arrest, police recovered a T81-type firearm, 97 bullets, two magazines and a military uniform from his possession.
-
-◼️
-
-[Data](articles/4b4258b0.json)
-
-[Extended Data](ext_articles/4b4258b0.ext.json)
-
----
-
-### The proper purpose of the Presidential Fund is the Prime Minister
-
-*2025-09-14 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214564) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the presidential fund was impassated by privileged groups during the past regime.
-
-Prime Minister Dr. Harai Amarasuriya made these comments participating in the program auditorium in the Kandy District Secretariat today (14).
-
-At the GCE Advanced Level 6, 361 students have been awarded Rs. 36.1 million for 361 students.
-
-Speaking further Prime Minister Harini Amarasuriya said that the actual objective of the Presidential Fund is under the current government and the presidential fund is currently working under the present village.
-
-It was said that the presidential fund has taken steps to implement a program to doctors and that a program to support children contributes to the creation of a good human resource.
-
-The Prime Minister said that the Prime Minister would be able to realize the children's dreams to create an open-minded human resource instead of the education system under one framework.
-
-...
-
-[Data](articles/4abcafa3.json)
-
-[Extended Data](ext_articles/4abcafa3.ext.json)
-
----
-
-### 5.8 earthquake jolts India’s Assam, Tremors felt in north Bengal, Bhutan
-
-*2025-09-14 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112493/58-earthquake-jolts-indias-assam-tremors-felt-in-north-bengal-bhutan) · `en`
-
-An earthquake of 5.8 magnitude struck parts of the north-east of India on Sunday (September 14), officials said.
-
-There was no immediate report of any loss of life or damage to property, they said.
-
-The epicentre of the earthquake that took place at 4.41 pm on Sunday, was in Udalguri district, the officials said.
-
-Assam Chief Minister Himanta Biswa Sarma, in a post on X, said, “The epicentre (of the earthquake) was near Udalguri. So far, there has been no report of any major damage or loss of life. We are actively monitoring the situation.”
-
-Residents of Udalguri, Sonitpur, Tamulpur, Nalbari and several other districts in Assam felt the tremors.
-
-Panic-gripped people were seen rushing out of their residences in Guwahati.
-
-People of the western parts of Manipur, Arunachal Pradesh and north Bengal also felt the jolt in addition to residents of some parts of Bhutan.
-
-Residents in Arunachal Pradesh’s capital Itanagar ran out of their houses and shops in panic.
-
-...
-
-[Data](articles/3ad89cb6.json)
-
-[Extended Data](ext_articles/3ad89cb6.ext.json)
-
----
-
-### When are the main exams in 2026
-
-*2025-09-14 17:21:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-இல்-முக்கிய-பரீட்சைகள்-எப்போது/175-364568) · `ta`
-
-Days for the National Examinations for 2026 by the Ministry of Education have been announced. Accordingly, the GCE Ordinary Level Examination for this year will be held from February 17 to 26, 2026.
-
-The GCE Advanced Level Examination for 2026 will be held from August 10 to September 5. The scholarship for the fifth grade students will be held on August 9. The General Information Technology Examination will be held on October 24. The GCE Ordinary Level Examination for 2026 will be held from 8 to 17 December.
-
-Meanwhile, the Ministry of Education has also issued a school calendar for 2026 for private and government -approved private schools.. It also mentioned the installment dates for Muslim schools. Accordingly, the first installment of the new year will begin on January 1, 2026.
-
-◼️
-
-[Data](articles/63ceee86.json)
-
-[Extended Data](ext_articles/63ceee86.ext.json)
-
----
-
-### Occasionally fun with the daughter's boyfriend
-
-*2025-09-14 17:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலனிடமும்-மகளின்-காதலனுடனும்-அவ்வப்போது-உல்லாசம்-கணவனை-மாட்டி-விட்ட-பரிதாபம்/175-364567) · `ta`
-
-A 44 -year -old woman who occasionally entertained her husband and her daughter's boyfriend has been caught by her husband in the police.
-
-Ramesh is working in the Water Supply Department at the Ramesh Municipal Office of Mumbai's Mumbai State. His wife (Urmila is 44). The couple had a daughter at the age of 18. Aarmila had a counterfeit connection with another young man from the same area.. When the husband is not at home, the young man comes home and will be fun.
-
-He also communicated through social media and developed forged love. It was on the one hand that his daughter's boyfriend often came to the house. Then Urmila became accustomed to her daughter's boyfriend. Urmila will have fun with her daughter's boyfriend when the daughter is not at home.
-
-He has often talked to her daughter's boyfriend on the phone. In this case, Urmila decided to live with her counterfeit. For this purpose, he sold the jewelery at home and transferred Rs 10 lakh to her boyfriend's bank account.
-
-...
-
-[Data](articles/e2a85b6f.json)
-
-[Extended Data](ext_articles/e2a85b6f.ext.json)
 
 ---

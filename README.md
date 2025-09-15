@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 09:15:58**
+As of **2025-09-15 09:40:49**
 
 ## Newspaper Stats
 
-*Scraped **76,018** Articles*
+*Scraped **76,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,376
+adalk | 7,377
 adaderanalk | 9,777
-tamilmirrorlk | 11,367
+tamilmirrorlk | 11,368
 virakesarilk | 12,395
 adaderanasinhalalk | 13,261
 
@@ -26,157 +26,197 @@ adaderanasinhalalk | 13,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,651 (94.3%) of 76,018 articles have been extended.
+71,679 (94.3%) of 76,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### சந்தையில் கீரி சம்பா அரிசி பற்றாக்குறை !
+### Indians refuse to shake hands for Pakistani soldiers
+
+*2025-09-15 09:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-வீரர்களுக்கு-கைகுலுக்க-இந்தியவீரர்கள்-மறுப்பு/44-364595) · `ta`
+
+Dossing in the toss and after the competition, the players boycotted their hand due to strong opposition
+
+Indian team beat Pakistan in Asia Cup. Pakistan won the toss and elected to bat first and scored only 127 runs for the loss of 9 wickets in 20 overs.
+
+The Indian team lost only 3 wickets in 16 overs with 131 runs and won by 7 wickets.
+
+◼️
+
+[Data](articles/f4e7291d.json)
+
+[Extended Data](ext_articles/f4e7291d.ext.json)
+
+---
+
+### Giri Samba Rice shortage in the market!
 
 *2025-09-15 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225104) · `ta`
 
-அரிசி உற்பத்தியாளர்கள் கீரி சம்பா அரிசியை விற்பனை செய்வதைத் தவிர்த்து வருவதாகவும், ஏனெனில் அவர்கள் கீரி சம்பாவிற்கு விதிக்கப்பட்ட கட்டுப்பாட்டு விலையான  260 ரூபாயை விட அதிகமான விலையில் வழங்குவதாகவும் புறக்கோட்டை அரிசி மொத்த விற்பனையாளர்கள் தெரிவித்துள்ளனர்.
+Rice manufacturers have avoided selling Giri Samba rice because they are offering a control price of the Keeri Samba at a price of more than 260 rupees.
 
-இந்த சூழ்நிலையைக் கருத்தில் கொண்டு, சில்லறை விற்பனையாளர்களும் கீரி சம்பா அரிசியை விற்பனை செய்வதைத் தவிர்த்து வருகின்றனர்.
+Considering this situation, retailers are also avoiding selling Keeri samba rice.
 
-இத்தகைய சூழ்நிலையில், சம்பா மற்றும் கீரி சம்பா அரிசிக்கு விதிக்கப்பட்ட அதிகபட்ச சில்லறை விலையை நீக்குமாறு அரிசி உற்பத்தியாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளது.
+In such a situation, the Rice Manufacturers Association has asked the government to remove the maximum retail price imposed on the Samba and Keeri Samba rice.
 
-இருப்பினும், பெரிய அளவிலான அரிசி ஆலை உரிமையாளர்கள் செயற்கையான அரிசி பற்றாக்குறையை உருவாக்கி இலாபம் ஈட்ட முயற்சிப்பதால், அரிசியின் அதிகபட்ச சில்லறை விலையை நீக்க எந்த நடவடிக்கையும் எடுக்க வேண்டாம் என இலங்கை சிறு மற்றும் நடுத்தர அளவிலான நெல் ஆலை உரிமையாளர்கள் சங்கம் கோருகிறது.
+However, the Sri Lankan small and medium -sized paddy plant owners association is demanding that no measures take any steps to eliminate the maximum retail price of rice as the owners of large -scale rice mill owners are trying to make a profit.
 
-இந்தநிலையில், அரசாங்கம் உடனடியாக இந்தப் பிரச்சினைக்கு தீர்வுகளை வழங்க வேண்டும் என தேசிய விவசாயிகள் சங்கம் கோரிக்கை விடுத்துள்ளது.
+In this context, the National Farmers' Union has demanded that the government immediately resolve the issue.
 
 ◼️
 
 [Data](articles/50eafac1.json)
 
+[Extended Data](ext_articles/50eafac1.ext.json)
+
 ---
 
-### கலேவெல தேவஹுவ நீர்த்தேக்கத்தில் சிறுவன் மூழ்கி உயிரிழப்பு !
+### Boy drowns in Galewela Devahuwa reservoir
 
 *2025-09-15 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225103) · `ta`
 
-கலேவெல பகுதியில் உள்ள தேவஹுவ நீர்த்தேக்கத்தில் நீராடச் சென்ற சிறுவன் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+A boy who was drowned in the Devahuwa reservoir in Galewela area has drowned.
 
-கலேவெல, தேவஹுவ பகுதியைச் சேர்ந்த 11 வயது சிறுவனே  இவ்வாறு உயிரிழந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+The 11 -year -old boy from Devahuwa, Galewela, died, police said.
 
-தமது தந்தை மற்றும் உறவினர்களுடன் நீர்த்தேக்கத்தில் நீராடச் சென்றபோது நீரில் மூழ்கி காணாமல் போயுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+Investigations have revealed that they were drowned when they were drowned in the reservoir with their father and relatives.
 
-பின்னர், உறவினர்கள் மற்றும் அப்பகுதி மக்கள் இணைந்து நீரில் மூழ்கிய சிறுவனை மீட்டு கலேவெல வைத்தியசாலையில் அனுமதித்துள்ளனர்.
+Later, relatives and the people of the area rescued the drowning boy and admitted to the Galewela Hospital.
 
 ◼️
 
 [Data](articles/03c448aa.json)
 
+[Extended Data](ext_articles/03c448aa.ext.json)
+
 ---
 
-### சீகிரியா சுவரில் பெயர் எழுதிய பெண் கைது
+### Woman arrested on the wall of Sigiriya wall
 
 *2025-09-15 08:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீகிரியா-சுவரில்-பெயர்-எழுதிய-பெண்-கைது/175-364594) · `ta`
 
-சீகிரியாவில் உள்ள பளிங்குச் சுவரில் தனது பெயரை எழுதியதற்காக 21 வயதுடைய பெண் ஒருவர் இன்று (15) தொல்பொருள் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார் என தெரிவிக்கப்படுகின்றது.
+It is reported that a 21 -year -old woman has been arrested by archaeological authorities today (15) for writing her name on the marble wall in Sigiria.
 
 இதன்போது “தயவு செய்து இச்சுவரை தொட வேண்டாம்” என்று பலகை வைத்திருந்த இடத்தில் குறித்த பெண் தனது பெயரை எழுதியுள்ளார்.
 
-பாதுகாக்கப்பட வேண்டிய தொல்பொருள் சின்னங்களை அழிப்பதும், சேதமாக்குவதும் குற்றம் என்ற அடிப்படையில் பெண் கைது செய்யப்பட்டுள்ளார்.
+The woman has been arrested on the basis of a crime of destroying and damaging archaeological symbols that need to be protected.
 
-இதையடுத்து கைது செய்யப்பட்ட பெண் சீகிரியா பொலிஸாரிடம் ஒப்படைக்கப்பட்டு, நாளை (16) தம்புள்ளை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளார். R
+The arrested woman has been handed over to the Sigiriya Police and is to be produced before the Dambulla Magistrate's Court tomorrow (16).. Remble
 
 ◼️
 
 [Data](articles/c4e08fba.json)
 
+[Extended Data](ext_articles/c4e08fba.ext.json)
+
 ---
 
-### 'ඕවන් කූපර්' එමී සම්මානයක් දිනූ ලාබාලතම නළුවා බවට පත්වෙයි
+### Owen Cooper becomes younted actor who won award award
 
 *2025-09-15 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214584) · `si`
 
 අමෙරිකාවේ පවත්වන ‘එමි සම්මාන උළෙලේ‘ දී සම්මානයක් දිනූ ලාබාලතම නළුවා බවට පත්වන්නට ඕවන් කූපර් සමත්ව තිබේ.
 
-මෙම සම්මානය ඔහුට හිමිව ඇත්තේ ඔහු රංගනයෙන් දායක වු ‘ඇඩොලසන්ස්‘ නාට්‍ය මාලාව සඳහා වේ.
+He was awarded this award for the drama series of 'Adlasand' series.
 
-විදෙස් මාධ්‍ය වාර්තා කළේ ඕවන් කූපර් මේ වන විට 15 හැවිරිදි වියේ පසුවන බවය.
+Foreign media reported that Owen Cooper is 15 years old.
 
-මේ අතර එමී සම්මාන උළෙලේදී හොඳම කැපී පෙනෙන ප්‍රහසන උත්පාදන නළුවා ලෙස සෙත් රෝගන් සහ හොදම ප්‍රහසන උත්පාදන නිළිය ලෙස  ජීන් ස්මාර්ට් සම්මාන දිනා ගැනීමට සමත්ව ඇත.
+Meanwhile, the best prominent generation actor in the Emmy Awards, Seth Smart and Best Comedy Generator has been won.
 
 ◼️
 
 [Data](articles/8db6a67f.json)
 
+[Extended Data](ext_articles/8db6a67f.ext.json)
+
 ---
 
-### சந்தையில் கீரி சம்பாவுக்குத் தட்டுப்பாடு
+### The shortage to the giri samba in the market
 
 *2025-09-15 08:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தையில்-கீரி-சம்பாவுக்குத்-தட்டுப்பாடு/175-364593) · `ta`
 
 புறக்கோட்டை அரிசி மொத்த விற்பனையாளர்கள் மற்றும் அரிசி உற்பத்தியாளர்கள், கீரி சம்பா அரிசியை 260 ரூபாய் கட்டுப்பாட்டு விலையை விட அதிகமான விலையில் வழங்குவதால், அதை விற்பனை செய்வதைத் தவிர்த்து வருவதாகத் தெரிவிக்கப்பட்டுள்ளது.
 
-இதனைக் கருத்தில் கொண்டு, சில்லறை விற்பனையாளர்களும் கீரி சம்பா அரிசியை விற்பனை செய்வதைத் தவிர்த்து வருகின்றனர்.
+Considering this, retailers are also avoiding selling Keeri Samba rice.
 
-இதனிடையே, சம்பா மற்றும் கீரி சம்பா அரிசிக்கு விதிக்கப்பட்டுள்ள அதிகபட்ச சில்லறை விலையை நீக்குமாறு ஐக்கிய அரிசி உற்பத்தியாளர்கள் சங்கம் அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளது.
+Meanwhile, the United Rice Manufacturers Association has asked the government to remove the maximum retail price imposed on Samba and Keeri Samba rice.
 
 ◼️
 
 [Data](articles/e5351cc1.json)
 
+[Extended Data](ext_articles/e5351cc1.ext.json)
+
 ---
 
-### பெருந்தோட்டத்துறையில் முதலாவது நவீன முன்பள்ளி
+### The first modern pre -school in the plantation sector
 
 *2025-09-15 08:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/224917) · `ta`
 
-பெருந்தோட்டத்துறையில் ஒரு புதிய வித்தியாசமான முயற்சியாக முதலாவது மாதிரி நவீன முன் பள்ளி ஒன்று உருவாக்கப்பட்டுள்ளது. பலரும் வியக்கும் வகையில் இதற்கான ஏற்பாடுகள் சம்பந்தப்பட்ட தரப்பினரால் முன்னெடுக்கப்பட்டுள்ளன.
+The first model modern pre -school has been created as a new different venture in the plantation sector. Surprisingly, the arrangements have been made by the concerned parties.
 
-மனித வாழ்வில் பிள்ளைப் பருவம் மிக முக்கியத்துவம் வாய்ந்ததொன்றாகக் கருதப்படுகின்றது. இந்தப் பருவத்திலேயே முக்கிய விருத்திகள் மேம்படுகின்றன. எனவே இதன் முக்கியத்துவத்தினை உணர்ந்து அனைவரும் இதில் கவனம் செலுத்தி பிள்ளைகளின் விருத்தி தொடர்பான செயற்பாடுகளுக்குத் துணை புரிவது மிகவும் அவசியமானதாகும்.
+Childhood is considered one of the most important in human life. Improves improve the main development this season. Therefore, it is imperative that everyone focuses on the importance of this and supports the development of the children.
 
-அந்த வகையில், முன்பள்ளிக் கல்வியானது பிள்ளைகளை ஆரம்பப் பாடசாலைகளுக்குச் செல்வதற்கு தயார் செய்கின்றது. முன்பள்ளியில் அவர்கள் பயிலும் விடயங்கள் ஆரம்பக் கல்வியை சீராகப் பயில்வதற்கு துணை செய்கின்றன.
+In that respect, pre -school education prepares for children to go to elementary schools. Things they attend in the pre -school support early education.
 
-இலங்கையில் பெருந்தோட்ட பிரதேசங்களில் பிள்ளைப்பருவக் கல்வியானது முறைமைப்படுத்தப்படாது காணப்படுகின்றது. பெரும்பாலான முன்பள்ளிகளில் அவற்றுக்குத் தேவையான அடிப்படையான வசதிகள் காணப்படுவதில்லை.
+Child education in plantation areas in Sri Lanka is not systematized. Most pre -schools do not have the basic facilities.
+
+As a result, the first model in the plantation sector in Sri Lanka has been opened in the name of the Tea Kids Hybrid Pre School, the Tea Kids Hybrid Pre School.
 
 ...
 
 [Data](articles/3416dfee.json)
 
+[Extended Data](ext_articles/3416dfee.ext.json)
+
 ---
 
-### මාරක රිය අනතුරු දෙකකින් පුද්ගලයින් දෙදෙනෙකු මරුට
+### Two killed in two dead accidents
 
 *2025-09-15 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214583) · `si`
 
-දිවයින පුරා සිදුවූ මාරක රිය අනතුරු දෙකකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Two people were killed in two fatal accidents throughout the country.
 
-ඒ අනුව ඊයේ රාත්‍රි කාලයේදී තිරුක්කෝවිල් පොලිස් වසමේ අක්කරපත්තු පොතුවිල් මාර්ගයේ තම්බිලුවිල් ප්‍රදේශයේදී අක්කරපත්තුව දෙස සිට පොතුවිල් දෙසට ධාවනය වූ මෝටර් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබේ.
+Accordingly, a car collided with a motorcycle at Thambiluvil to Pottukattuwa in Tharukkohil road in Thirukkattu road on the Akkaravil area on the Thirukkattu road.
 
-අනතුරින් පසු මෝටර් රථය නොනවත්වා ධාවනය කර තිරුක්කෝවිල් තම්බිලුවිල් මාර්ගයේදී රියදුරු විසින් මෝටර් රථය දමා පලාගොස් ඇත.
+The driver has fled the car by running after the accident, and the driver had fled the car.
 
-අනතුරින් යතුරුපැදියේ පැදිකරු සහ පසු පැදිකාරිය බරපතළ තුවාල ලබා තිරුක්කෝවිල් රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව පසුපැදිකාරිය ජීවිතක්ෂයට පත්ව ඇත.
+The motorcyclist and the subsequent injuries were seriously injured and admitted to the Thirukkovil hospital.
 
-පොලීසිය පැවසුවේ පලා ගිය මෝටර් රථයේ රියදුරු අත්අඩංගුවට ගැනීම සඳහා තිරුක්කෝවිල් පොලීසිය වැඩිදුර විමර්ශන සිදුකර බවය.
+Thirukkovil Police are conducting further investigations to arrest the driver of the car flee car.
 
-මේ අතර ඊයේ උදෑසන කාලයේදී උප්පුවේලි පොලිස් වසමේ ත්‍රිකුණාමලය අඹේපුස්ස මාර්ගයේ අනුරාධපුර හන්දිය අසලදි 04 කණුව දෙස සිට ත්‍රිකුණාමලය දෙසට ධාවනය වූ යතුරුපැදියක් මාර්ගයේ පදික මාරුව මතින් ගමන් කළ පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව තිබේ.
+Meanwhile, a motorcycle who traveled to Trincomalee from the Upuwelle police division in the Ampara Junction of Trincomalee was held at the Galle Junction on the Galle Junction last morning.
 
-...
+The pedestrian person was killed after admission to the Trincomalee hospital and the subsequent injuries.
+
+The deceased is Sampur, 71-year-old residents of the Muttur area.
+
+◼️
 
 [Data](articles/e1ed5f8a.json)
 
+[Extended Data](ext_articles/e1ed5f8a.ext.json)
+
 ---
 
-### 'மறுமலர்ச்சி நகரம்' எனும் கருப்பொருளுடன் இன்று உள்ளூராட்சி மன்ற வாரம் ஆரம்பம் !
+### Local Government Week begins today with the theme of 'Renaissance City'!
 
 *2025-09-15 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225101) · `ta`
 
-மறுமலர்ச்சி நகரத்தை, உருவாக்குவதை நோக்கமாகக் கொண்ட உள்ளூராட்சி மன்ற வாரம் இன்று (15) ஆரம்பமாகவுள்ளது.
+The Local Government Week, which aims to create the Renaissance city, begins today (15).
 
-பொது நிர்வாகம், மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்ற அமைச்சு என்பன, இந்த திட்டம் இன்று முதல் செப்டம்பர் 21ஆம் திகதி வரை நாடு முழுவதும் செயல்படுத்தப்படும் என அறிவித்துள்ளது.
+The Public Administration, Provincial Councils and Local Government Ministry has announced that the project will be implemented nationwide from today to September 21.
 
-சமூகங்களின் அன்றாடத் தேவைகளை நிவர்த்தி செய்யும், வாழ்க்கைச் சூழலைப் பாதுகாக்கும் மற்றும் எதிர்கால நகர்ப்புற வளர்ச்சிக்கான தொலைநோக்கு பார்வையை ஊக்குவிக்கும் சூழலை உருவாக்குவதே இந்த முயற்சியின் நோக்கமாகும் என மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்ற பிரதி அமைச்சர் பி. ருவான் செனரத் தெரிவித்துள்ளார்.
+Provincial Councils and Local Government Deputy Minister P.. Ruwan Senarath said.
 
-மறுமலர்ச்சி நகரம் என்ற கருப்பொருளுடன் உள்ளூராட்சி மன்ற வாரத்தை நாங்கள் ஆரம்பிக்கின்றோம். சமூகங்களின் அன்றாடத் தேவைகளைப் பூர்த்தி செய்யும், வாழ்க்கைச் சூழலைப் பாதுகாக்கும் மற்றும் எதிர்காலத்திற்கான நிலையான தொலைநோக்குப் பார்வையைப் பாதுகாக்கும் ஒரு நகரத்தை உருவாக்க, பொது நிர்வாகம் மற்றும் உள்ளூராட்சி மன்ற அமைச்சின் தலைமையில் நடைபெறும் இந்த நிகழ்ச்சியில் பங்கேற்க அனைத்து உள்ளூராட்சி நிறுவனங்களுக்கும் அழைப்பு விடுக்கப்பட்டுள்ளது.
+We start the Local Government Week with the theme of the Renaissance City. The event, chaired by the Ministry of Public Administration and Local Government, has been invited to participate in the event, to meet the daily needs of communities, protect the living environment and protect the standard vision for the future.
 
 ◼️
 
 [Data](articles/62e805af.json)
+
+[Extended Data](ext_articles/62e805af.ext.json)
 
 ---
 
@@ -200,17 +240,19 @@ The Department of Meteorology has advised the public to take necessary precautio
 
 ---
 
-### சிகிரியா கண்ணாடி சுவரை சேதப்படுத்திய யுவதி கைது!
+### Youth arrested for damaging Sigiria glass wall
 
 *2025-09-15 08:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225100) · `ta`
 
-உலக பாரம்பரிய சுற்றுலா தளமான சிகிரியா கண்ணாடி சுவரை  சேதப்படுத்திய குற்றச்சாட்டில் பெண் ஒருவர் நேற்று (14) சிகிரியா பொலிஸாரால் கைது செய்யப்பட்டார்.
+A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging the world's traditional tourist site Sigiriya glass wall.
 
-அவிசாவளையைச் சேர்ந்த 21 வயதுடைய அவர் சிகிரியாவிற்குச் சுற்றுலா சென்றிருந்தபோது இந்தச் செயலைச் செய்ததாகக் கூறப்படுகிறது.
+The 21 -year -old from Avissawella is said to have done this when he was traveling to Sigiriya.
 
 ◼️
 
 [Data](articles/3c047efe.json)
+
+[Extended Data](ext_articles/3c047efe.ext.json)
 
 ---
 
@@ -254,6 +296,8 @@ A 63-year-old resident of Nawagiriyawa, Gonagolla, was arrested while conducting
 
 [Data](articles/f1ce059b.json)
 
+[Extended Data](ext_articles/f1ce059b.ext.json)
+
 ---
 
 ### CEB workers to intensify strike action effective today
@@ -273,6 +317,28 @@ The union further stated that it will make an announcement regarding the next ph
 ◼️
 
 [Data](articles/7a054a82.json)
+
+[Extended Data](ext_articles/7a054a82.ext.json)
+
+---
+
+### India rejects Pakistan's hands
+
+*2025-09-15 07:51:28* · [`adalk`](https://www.ada.lk/sports/පාකිස්තාන-ක්‍රීඩකයන්ට-අතට-අත-දීම-ඉන්දියාව-ප්‍රතික්ෂේප-කරයි/9-418496) · `si`
+
+Under the Asian Cup, Pakistani trainers refused to hand over the hands of the Pakistan and the Pakistan.
+
+India was a victory for seven wickets in Dubai and then immediately left the Pakistani players immediately.
+
+Later, Pakistani players seemed to walk to the dougut, but Indian players had already returned to the athlese.
+
+The gain of the coin was dangerous, but Surnemer and Pakistan Leader Salman Agraya were not handling.  "Clearly, the match was ready to let us down," said New Zealand Hesson.
+
+◼️
+
+[Data](articles/57101369.json)
+
+[Extended Data](ext_articles/57101369.ext.json)
 
 ---
 
@@ -1977,45 +2043,5 @@ He has often talked to her daughter's boyfriend on the phone. In this case, Urmi
 [Data](articles/e2a85b6f.json)
 
 [Extended Data](ext_articles/e2a85b6f.ext.json)
-
----
-
-### Sexual abuse of a woman in Batticaloa; 10 years rigorous imprisonment for financial institution manager
-
-*2025-09-14 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225077) · `ta`
-
-The Batticaloa High Court judge on Friday (12) sentenced a manager of a financial institution to the manager of a financial institution who was arrested in the case of an interview at a financial institution in Batticaloa.
-
-A woman who applied for a vacuum in a financial institution in Batticaloa was summoned for an interview on September 4, 2019.
-
-Subsequently, the police have filed a case against the Finance Manager and the Batticaloa High Court has been investigated by the Supreme Court judge last Friday (12).
-
-The judge also ruled that the person was sentenced to Rs.
-
-◼️
-
-[Data](articles/6568ae93.json)
-
-[Extended Data](ext_articles/6568ae93.ext.json)
-
----
-
-### 25 killed in Israeli air strikes
-
-*2025-09-14 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214563) · `si`
-
-25 people have been killed in the air strikes of Rapa in Rapa in Gaza.
-
-Foreign media reports that a large number of other persons were injured in the attack.
-
-It is said that these drones have been attacked targeting tents at home and displaced persons.
-
-However, more than 64,800 people have been killed in the past due to the period from October 2023 to date.
-
-◼️
-
-[Data](articles/518d25b0.json)
-
-[Extended Data](ext_articles/518d25b0.ext.json)
 
 ---

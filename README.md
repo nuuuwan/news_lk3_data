@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 19:00:35**
+As of **2025-09-15 19:20:36**
 
 ## Newspaper Stats
 
-*Scraped **76,132** Articles*
+*Scraped **76,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,388
+adalk | 7,389
 adaderanalk | 9,801
 tamilmirrorlk | 11,396
 virakesarilk | 12,406
-adaderanasinhalalk | 13,285
+adaderanasinhalalk | 13,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,180 (94.8%) of 76,132 articles have been extended.
+72,198 (94.8%) of 76,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
+
+### පස්දේවා රඳවාගෙන ප්‍රශ්න කරන බව පොලීසිය අධිකරණයට දැනුම්දෙයි
+
+*2025-09-15 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214609) · `si`
+
+අත්අඩංගුවේ පසුවන කෙහෙල්බද්දර පද්මේ නමැත්තාගේ සමීපතමයකු බව කියන දිසානායක දේවගේ දිසානායක නොහොත් "පස්දේවා" නමැත්තා ආරක්ෂක ලේකම්වරයාගේ නියෝගයක් මත ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+
+ඒ අනුව අදාළ සැකකරු දින 90ක් කාලයක් රඳවාගෙන ප්‍රශ්න කරන බවත් එම කොට්ඨාසය විසින් කොළඹ අතිරේක මහෙස්ත්‍රාත් එච්.ඩී.ඩී.ජේ ප්‍රේමරත්න මහත්මිය වෙත දැනුම් දී තිබේ.
+
+පොලීසිය අධිකරණය හමුවේ කරුණු දක්වමින් "පස්දේවා" නැමැති සැකකරු අත්අඩංගුවට ගැනීමෙන් පසු ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී කෙහෙල්බද්දර පද්මෙ නමැත්තාට අයත්ව තිබූ හෝටලයකින් මත්ද්‍රව්‍ය ග්‍රෑම් 440ක් හා ජීව උණ්ඩ කීපයක් සොයාගත් බව සඳහන් කළේය.
+
+මෙම සැකකාරු අත්අඩංගුවට ගත් අවස්ථාවේදී කෙහෙල්බද්දර පද්මේ නැමැත්තා විදෙස්ගතව සිට ඇති බවද පොලීසිය විසින් සඳහන් කළ අතර මෙම සැකකරු අත්අඩංගුවට ගැනීමේ තොරතුරු ආරංචි වී කෙහෙල් බද්දර පද්මේ නැමැත්තා කෝපයට පත්ව දුරකතන මගින්  ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට තර්ජනය කර තිබෙන බවත් සඳහන් කර සිටියේය.
+
+...
+
+[Data](articles/49876ce9.json)
+
+---
 
 ### Teachers' Struggle in the Ministry of Education
 
@@ -245,6 +263,22 @@ The Court of Appeal issued the order after considering the writ petition filed b
 [Data](articles/dd5c6aee.json)
 
 [Extended Data](ext_articles/dd5c6aee.ext.json)
+
+---
+
+### 2025 කොරියා විභාගයට ප්‍රවේෂපත්‍ර නිකුත් කිරීම ඇරඹේ
+
+*2025-09-15 16:59:06* · [`adalk`](https://www.ada.lk/breaking_news/2025-කොරියා-විභාගයට-ප්‍රවේෂපත්‍ර-නිකුත්-කිරීම-ඇරඹේ/11-418508) · `si`
+
+දකුණු කොරියාවේ නිෂ්පාදන හා ධීවර ක්ෂේත්‍රවල රැකියා සඳහා 2025 වර්ෂයේ පැවැත්වීමට නියමිත කොරියානු භාෂා ප්‍රවීණතා පරීක්ෂණය සඳහා විභාග ප්‍රවේශපත්‍ර නිකුත් කිරීම 2025.09.15 දින සිට 2025.09.17 දින මධ්‍යම රාත්‍රිය දක්වා මාර්ගගත ක්‍රමය ඔස්සේ (Online) සිදුකිරීමට නියමිතය.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ නිළ වෙබ් අඩවිය වන www.slbfe.lk යන වෙබ් අඩවිය මගින් විභාගය සඳහා අවශ්‍ය කරන අයදුම්පත් ලබාගැනීම සඳහා ලියාපදිංචිය ලබාගත හැකිය.
+
+මේ සඳහා අවුරුදු 18-39ත් අතර පුද්ගලයින්ට (1985.09.15 සිට 2007.09.14 උපන් අයට) අයදුම් කළ හැකි අතර, වර්ණ අන්ධතාවය නොමැති, නඩු නිමිත්තක වරදකරුවෙකු වී දඩ මුදල් ගෙවිමක්, සිරගතවීමක් හෝ බරපතල වැරදිවලට වැරදිකරුවෙකු වී නොමැති, වර්ණ අන්ධතාවය, කොඳු ඇට පෙලේ ආබාධ සහිත, ඇගිලි අඩු හෝ ඉවත් කර නොමැති පුද්ගලයින් හා දකුණු කොරියාව මගින් පිටුවහල් කළ බවට පෙර වාර්තා නොමැති හා E-9 සහ E-10 වීසා කාණ්ඩ යටතේ වූ සේවා කාලයද ඇතුළුව වසර 5ට අධික කාලයක් දකුණු කොරියාවේ සේවය කර නොමැති පුද්ගලයින් විය යුතුය.
+
+...
+
+[Data](articles/6eda5a72.json)
 
 ---
 
@@ -2017,39 +2051,5 @@ Hamas’ political leadership, which has engaged in on-and-off negotiations on a
 [Data](articles/7f513bb9.json)
 
 [Extended Data](ext_articles/7f513bb9.ext.json)
-
----
-
-### Exit the settlers: 1.10 lakh people participated in London: What is the background?
-
-*2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
-
-About 1.10 lakh people participated in the United Kingdom rally, coordinated by Tommy Robinson, an ardent right -wing activist in London, UK.. A group of people who participated in the rally then clashed with the police.
-
-The rally was held on Saturday from Big Pen to Waterloo, along the banks of the Thames of London. Supporting the rally, the participants chanted against the migrants from abroad and that they were a threat to national identity.
-
-At the same time, anti -racists carried out a protest against Tommy Robinson's rally against fascism. About 5,000 people participated. The conflict erupted when the right -wing supporters tried to block those who protested their rally. The police have then attacked. Bottles have also been thrown towards the police.
-
-...
-
-[Data](articles/4492200f.json)
-
-[Extended Data](ext_articles/4492200f.ext.json)
-
----
-
-### Signature Struggle for North and East Fossils
-
-*2025-09-15 10:16:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-புதைக்குழிகளுக்கு-நீதிகோரி-யாழில்-கையெழுத்து-போராட்டம்/175-364597) · `ta`
-
-The signature struggle was launched on Monday (15) in the Marudanarmadam area in Jaffna by the Young Voice Organization demanding international justice for human burials and genocide in the North and East, including Semmani.
-
-Representatives of the Youth Organization, Jaffna Marudanarmadam traders, market traders and many others participated in the struggle for change.
-
-◼️
-
-[Data](articles/daada4d6.json)
-
-[Extended Data](ext_articles/daada4d6.ext.json)
 
 ---

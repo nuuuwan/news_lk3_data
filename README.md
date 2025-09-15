@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 11:08:16**
+As of **2025-09-15 12:15:22**
 
 ## Newspaper Stats
 
-*Scraped **76,035** Articles*
+*Scraped **76,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,317 @@ economynextcom | 4,600
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,379
-adaderanalk | 9,779
-tamilmirrorlk | 11,376
+adalk | 7,380
+adaderanalk | 9,782
+tamilmirrorlk | 11,380
 virakesarilk | 12,396
-adaderanasinhalalk | 13,263
+adaderanasinhalalk | 13,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,761 (94.4%) of 76,035 articles have been extended.
+71,804 (94.4%) of 76,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### புறக்கோட்டை  பேருந்து நிலையபுனரமைப்புப் பணிகளை ஆரம்பித்தார் ஜனாதிபதி
+### කෙහෙළිය ඇතුළු පවුලේ සාමාජිකයින්ට එරෙහි නඩුව කල්යයි
+
+*2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
+
+අයථා ලෙස රුපියල් මිලියන 97කට අධික වටිනාකමකින් යුත් වත්කම් උපයා ගැනීම සම්බන්ධයෙන් හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ බෑනාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනු ඇති නඩුව ඔක්තෝබර් 01 වනදා යළි කැඳවීමට කොළඹ මහාධිකරණය නියම කළේය.
+
+ඒ මෙම නඩුව කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදීය.
+
+මෙම නඩුව අද කැඳවූ අවස්ථාවේ විත්තිය විසින් ඉල්ලා සිටි ලේඛන අතුරින් කිහිපයක් අල්ලස් කොමිසම විසින් විත්ති පාර්ශවයට විවෘත අධිකරණයේදී භාර දෙනු ලැබීය.
+
+තවදුරටත් ලේඛන අවශ්‍ය නම් ඒවා අද දින සිට සති දෙකක් ඇතුළත අධිකරණයට දැනුම් දෙන ලෙස එහිදී අධිකරණය විසින් විත්ති පාර්ශවයට නියම කර ඇත.
+
+ඉන් අනතුරුව නඩුව යළි ඔක්තෝබර් 01 වනදා කැඳවීමට දින නියම කෙරිණි.
+
+...
+
+[Data](articles/60170dfa.json)
+
+---
+
+### බන්ධනාගාරගත වන පුද්ගලයින් සංඛ්‍යාව අවම කිරීම රජයේ අරමුණයි - අධිකරණ අමාත්‍ය
+
+*2025-09-15 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214590) · `si`
+
+බන්ධනාගාරගත වන පුද්ගයින් සංඛ්‍යාව අඩු කිරීම අරමුණ විය යුතු බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා පැවැති 27 වැනි සිරකරු දින උත්සවයට එක්වෙමිනි.
+
+එහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කර සිටියේ බන්ධනාගාරගත වන සිරකරුවන් වෙනුවෙන් සිරකරු සුභ සාධක සංගමය විසින් ලබා දෙන සේවය ප්‍රශංසනීය වන බවය.
+
+එමෙන්ම මේ වන විට බන්ධනාගාර තුළ සිරකරුවන්ගේ විශාල තදබදයක් පවතින බවත් එම තදබදය අඩු කරමින් අවශ්‍ය පහසුකම් සැපයීම රජයේ වගකීමක් බවද අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+
+එහිදී බන්ධනාගාරගත වන පුද්ගලයින් සංඛ්‍යාව අවම කිරීමත් බන්ධනාගාරගත වන සියලු දෙනාගේ මානව අයිතිවාසිකම් ආරක්ෂා වන පරිදී පහසුකම් ඇති කිරීමත් අතිශයින් වැදගත් වන බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කරනු ලැබීය.
+
+එමෙන්ම නීතිය ඉදිරියේ සියලු පුද්ගලයින් එක හා සමාන වන බවත් රජයක් ලෙස නීතියේ විධානයේ අධිපත්‍ය සුරක්ෂා කරමින් සමානාත්මතාවයෙන් යුතු රටක් නිර්මාණය කරන බවද අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/e362d7da.json)
+
+---
+
+### 15 arrested in the country
+
+*2025-09-15 11:32:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-சுற்றிவளைப்பில்-15-பேர்-கைது/175-364612) · `ta`
+
+The Sri Lankan police have arrested 15 people who have been searched for direct involvement in criminal activity across the country.
+
+The suspects have been arrested during several measures held on Sunday to prevent drugs and crimes in Sri Lanka.
+
+Of them, 15 were arrested for direct involvement and 674 on suspicion.
+
+The police arrested 220 persons and 155 people who were issued an opening.
+
+◼️
+
+[Data](articles/e303c380.json)
+
+[Extended Data](ext_articles/e303c380.ext.json)
+
+---
+
+### Add around ...
+
+*2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சுற்றி-விடுங்க-சேர்/62-364610) · `ta`
+
+◼️
+
+[Data](articles/7ee9a3fe.json)
+
+[Extended Data](ext_articles/7ee9a3fe.ext.json)
+
+---
+
+### A revelation of a serious risk for Australia in the future
+
+*2025-09-15 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214589) · `si`
+
+By 2050, 1.5 million Australian nationals living in coastal areas, 1.5 million Australians can face a risk.
+
+Accordingly, the applicant predicted by Australians that the natural disasters can be constantly vulnerable to Australian nationals, hurricane, heat, drought and wildfires.
+
+Climate Change Minister Climate Change Chris Bowen says that Australian nationals are already facing climate change.
+
+According to foreign media reports, the temperature of Australia has been reportedly reaching 1.5 degrees Celsius and the number of people die from a Celsius is 300 percent.
+
+◼️
+
+[Data](articles/29d6a115.json)
+
+[Extended Data](ext_articles/29d6a115.ext.json)
+
+---
+
+### Presidential Fund grants from the President's Fund to students for low income families
+
+*2025-09-15 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214588) · `si`
+
+The presidential fund is a program to provide scholarships for school children in Mahaya and the Presidential Families.
+
+The implementation of development programs were observed at the Field Inquiry made by the Purunawatta West Grama Niladhari Division of the West Grama Niladhari.
+
+Under the first phase, 28 students were given scholarships.
+
+◼️
+
+[Data](articles/9679186f.json)
+
+[Extended Data](ext_articles/9679186f.ext.json)
+
+---
+
+### To whom
+
+*2025-09-15 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/யாருக்குக்-கொடுத்து-வைத்திருக்கிறதோ/54-364607) · `ta`
+
+Tamanna made his debut in cinema with a Hindi film called Sant Sa Roshan Sehara.  Tamanna later made his debut in Tamil cinema. But his care was only through college and ion films. Subsequently, she became a top actress in the leading actors.
+
+But at one point, Tamanna's chances began to decline after the arrival of the new heroes. Now Bollywood film opportunities have begun to come to him. Bollywood has played next Garda and Last Storms 2. In both of these films he played kisses and bedroom scenes. In the meantime, he has separated from a short love with Bollywood actor Vijay Verma.
+
+Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the best life companion to the one who is going to marry. He must think that I have got him in this way because of his honor.  I am now working for that lucky. I don't know who is giving. ”
+
+◼️
+
+[Data](articles/a50e3d36.json)
+
+[Extended Data](ext_articles/a50e3d36.ext.json)
+
+---
+
+### Boat for Boating in his own firearm
+
+*2025-09-15 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214587) · `si`
+
+In the Radnanara area of ​​the Radnanara area, a person was traveling on a gun in front of his motorcycle and was killed due to the gun.
+
+Initial police investigations have revealed that he had also kept a barrel of barrel to filter an illegal alcohol in addition to the gun.
+
+◼️
+
+[Data](articles/6d8a1033.json)
+
+[Extended Data](ext_articles/6d8a1033.ext.json)
+
+---
+
+### පිට කොටුව මධ්‍යම බස් නැවතුම්පොළ සංවර්ධනය ඇරඹෙයි
+
+*2025-09-15 10:52:18* · [`adalk`](https://www.ada.lk/breaking_news/පිට-කොටුව-මධ්‍යම-බස්-නැවතුම්පොළ-සංවර්ධනය-ඇරඹෙයි/11-418499) · `si`
+
+පිටකොටුව මධ්‍යම බස් නැවතුම්පොළ අලුත්වැඩියා කිරිමේ කටයුතු මීට සුළු මොහොතකට පෙර ආරම්භ විය. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් එම කටයුතු ආරම්භ කරනු ලැබීය.
+
+ව්‍යාපෘතිය සඳහා රුපියල් මිලියන 424ක් වැය කිරීමට අපේක්ෂා කෙරේ. මේ හරහා කොළඹ මධ්‍යම බස් නැවතුම්පොළ නවීන පහසුකම්වලින් සමන්විත බස් නැවතුම්පොළක් ලෙස සංවර්ධනය කෙරෙයි. නවීකරණ කටයුතු ලබන වසරේ අප්‍රේල් මාසයේදී අවසන් කිරීමට නියමිතය.
+
+මධ්‍යම බස් නැවතුම්පොළ මේ අයුරින් නැවත නවීකරණය කරන්නේ වසර 60කට ආසන්න කාලයකට පසුව වීම විශේෂත්වයකි.4
+
+◼️
+
+[Data](articles/572ebe7b.json)
+
+---
+
+### The President started the work of the bus stand in Pettah Fort
 
 *2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-மத்திய-பேருந்து-நிலையத்தின்-புனரமைப்புப்-பணிகள்-ஆரம்பம்/175-364606) · `ta`
 
-புறக்கோட்டைமத்திய பேருந்து நிலையத்தின் புணர்நிர்மான பணிகள் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் தலைமையில் அதிகாரப்பூர்வமாக ஆரம்பிக்கப்பட்டுள்ளன.
+The renovation work of the Belikottai bus stand has been officially started under the leadership of President Anura Kumara Dissanayake.
 
-1964 ஆம் ஆண்டு முதன் முதலில் கட்டப்பட்ட இந்த பேருந்து நிலையம், 60 ஆண்டுகளில் முதல் முறையாக பெரிய அளவிலான மேம்பாடுகளுக்கு உட்பட்டுள்ளது.
+Built in 1964, the bus station has been subjected to large improvements for the first time in 60 years.
 
-இந்தத் திட்டத்திற்கு ரூ.424 மில்லியன் செலவாகும் என்று எதிர்பார்க்கப்படுகிறது. புணர்நிர்மான பணிகளின் ஒரு பகுதியாக, புதிய கழிப்பறைகள், தகவல் மற்றும் தகவல் தொடர்பு நிலையங்கள்,மேம்படுத்தப்படும் பாதுகாப்பு அமைப்புகள் மற்றும் பயணிகளின் அனுபவத்தை மேம்படுத்துவதை நோக்கமாகக் கொண்ட பிற முக்கிய உள்கட்டமைப்பு மேம்பாடுகள் உள்ளிட்ட நவீன வசதிகளுடன்  புறக்கோட்டை மத்திய பேருந்து நிலையம் நிர்மாணிக்கப்படவுள்ளது.
+The project is expected to cost Rs 424 million. The Central Bus Stand will be constructed with modern facilities, including new toilets, information and communication centers, upgraded security organizations and other major infrastructure improvements aimed at improving the experience of passengers.
 
 ◼️
 
 [Data](articles/e3d62ce7.json)
 
+[Extended Data](ext_articles/e3d62ce7.ext.json)
+
 ---
 
-### லிஃப்டுக்குள் உல்லாசம்: கசிந்த காட்சிகள்
+### The President started the reconstruction work of the bus stand
+
+*2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-பேருந்து-நிலைய-புனரமைப்புப்-பணிகளை-ஆரம்பித்தார்-ஜனாதிபதி/175-364606) · `ta`
+
+The renovation work of the Belikottai bus stand has been officially started under the leadership of President Anura Kumara Dissanayake.
+
+Built in 1964, the bus station has been subjected to large improvements for the first time in 60 years.
+
+The project is expected to cost Rs 424 million. The Central Bus Stand will be constructed with modern facilities, including new toilets, information and communication centers, upgraded security organizations and other major infrastructure improvements aimed at improving the experience of passengers.
+
+◼️
+
+[Data](articles/f83b93ad.json)
+
+[Extended Data](ext_articles/f83b93ad.ext.json)
+
+---
+
+### Ulse in the lifts: leaked views
 
 *2025-09-15 10:49:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிஃப்டுக்குள்-உல்லாசம்-கசிந்த-காட்சிகள்/175-364604) · `ta`
 
-பிரபல சமையல் கலைஞரும் நடிகருமான மாதம்பட்டி ரங்கராஜ் மற்றும் ஆடை வடிவமைப்பாளர் ஜாய் கிரிஸில்டா இடையிலான உறவு சர்ச்சை, இணையத்தில் வைரலாகி வரும் லிஃப்ட் புகைப்படங்களால் புதிய திருப்பத்தை எட்டியுள்ளது.
+The controversy between famous culinary artist and actor Madhampatti Rangaraj and clothing designer Joy Chrisilda has reached a new twist with the lift photos that are going viral on the Internet.
 
-இருவரும் நெருக்கமாக, உல்லாசமாக இருந்ததாகக் கூறப்படும் இந்த புகைப்படங்கள், சமூக வலைதளங்களில் பரவி, பொதுமக்களை அதிர்ச்சியில் ஆழ்த்தியுள்ளன.
+These photos, which are said to have been close and flirted, have spread on social networks and shocked the public.
 
-இந்த விவகாரம், ஆண்கள் சமூகத்தின் இரட்டைத் தரத்தை மையமாகக் கொண்டு சமூகத்தில் கடும் விவாதத்தை ஏற்படுத்தியுள்ளது.
+This issue has caused a fierce debate in the community focusing on the dual standards of men's community.
 
-மாதம்பட்டி ரங்கராஜ், ஏற்கனவே திருமணமானவர் என்று அறிந்தும், அவரது புகழ் மற்றும் செல்வத்தின் மீது ஆசைப்பட்டு ஜாய் கிரிஸில்டா அவரை கவர்ந்ததாக சமூகம் முதலில் குற்றஞ்சாட்டியது. ஆனால், ஜாய் தனது தரப்பு நியாயங்களை சமூக வலைதளங்களில் பதிவு செய்த பிறகு, பொதுமக்களின் கருத்து மாறத் தொடங்கியுள்ளது.
+Madhampatti Rangaraj first accused Joy of Joy Chrisilda that he was already married to his fame and wealth, knowing that he was already married. ஆனால், ஜாய் தனது தரப்பு நியாயங்களை சமூக வலைதளங்களில் பதிவு செய்த பிறகு, பொதுமக்களின் கருத்து மாறத் தொடங்கியுள்ளது.
+
+Madhampatti Rangaraj first accused Joy of Joy Chrisilda that he was already married to his fame and wealth, knowing that he was already married. But after Joy has recorded his judgment on social networks, the public's opinion has begun to change.
 
 ...
 
 [Data](articles/ab1f34f5.json)
 
+[Extended Data](ext_articles/ab1f34f5.ext.json)
+
 ---
 
-### நீராடச் சென்ற சிறுவன் நீரில் மூழ்கி மரணம்
+### Former army soldier arrested with elephant tusks in Moragoda
+
+*2025-09-15 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112512/former-army-soldier-arrested-with-elephant-tusks-in-moragoda) · `en`
+
+A retired army soldier was arrested while in possession of a pair of elephant tusks during an operation conducted by officers at the Moragoda Police Station.
+
+The suspect is a 46-year-old retired army soldier from Halmillawewa, Police said.
+
+Following a tip-off received by the Moragoda Police, the pair of elephant tusks were found during an operation conducted in the Halmillawewa area of Moragoda.
+
+The tusks, each about one foot in length, were discovered carefully concealed under a pile of rubble in a paddy field belonging to the suspect, police said.
+
+The pair of elephant tusks were taken into custody by the police and the suspect is scheduled to be produced before the Kahatagasdigiliya Magistrate’s Court today (15).
+
+◼️
+
+[Data](articles/d27fa078.json)
+
+---
+
+### The boy drowned in the water
 
 *2025-09-15 10:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராடச்-சென்ற-சிறுவன்-நீரில்-மூழ்கி-மரணம்/175-364602) · `ta`
 
-கலேவெல பகுதியில் உள்ள தேவஹுவ நீர்த்தேக்கத்தில் நீராடச் சென்ற 11 வயது சிறுவன் நீரில் மூழ்கி உயிரிழந்தார்.
+An 11 -year -old boy who was drowned in the Devahuwa reservoir in Galewela area was drowned.
 
-இறந்த சிறுவன் தனது தந்தை மற்றும் உறவினர்களுடன் நீர்த்தேக்கத்தில் நீராடச் சென்றபோது இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+This was the case when the deceased boy went to the reservoir with his father and relatives.
 
-உறவினர்கள் மற்றும் அப்பகுதி மக்கள் இணைந்து சிறுவனை மீட்டு கலேவெல வைத்தியசாலையில் அனுமதித்துள்ள போதும், அவர் உயிரிழந்ததாக ஆரம்பகட்ட விசாரணையில் தெரியவந்தது. R
+Initial investigations revealed that the relatives and the residents of the area rescued the boy and admitted to the Galewela Hospital.. Remble
 
 ◼️
 
 [Data](articles/4e66906e.json)
 
+[Extended Data](ext_articles/4e66906e.ext.json)
+
 ---
 
-### “எம்பிலிப்பிட்டியே சுரங்க’’ கக்கினார்: ஈரானியர்கள் பறந்தனர்
+### “Embilipitiya Mines
 
 *2025-09-15 10:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்பிலிப்பிட்டியே-சுரங்க-கக்கினார்-ஈரானியர்கள்-பறந்தனர்/175-364601) · `ta`
 
-ஐஸ் போதைப்பொருள் தயாரிப்பதாக சந்தேகிக்கப்படும் ஹம்பாந்தோட்டை பகுதியில் உள்ள ஒரு விடுமுறை விடுதியில் நிறுத்தி வைக்கப்பட்டிருந்த சந்தேகத்திற்குரிய உபகரணங்கள், ரசாயனங்கள் மற்றும் ஒரு கார் பறிமுதல் செய்யப்பட்டதாக களுத்துறை குற்றப்பிரிவு தெரிவித்துள்ளது.
+The Kalutara Criminal Investigation Department said that suspected equipment, chemicals and a car were seized at a holiday hotel in the Hambantota area suspected to make ice drugs.
 
-களுத்துறை குற்றப்பிரிவு விசாரணைக் குழுவின் தடுப்பு உத்தரவின் பேரில் விசாரிக்கப்படும் "எம்பிலிப்பிட்டியே சுரங்க" என்பவரிடமிருந்து பெறப்பட்ட தகவல்களின் அடிப்படையில், இவை கைப்பற்றப்பட்டன.
+These were seized based on information obtained from the "Embilipitiya Mines" which is being investigated by the Prevention of the Kalutara Criminal Investigation Committee.
 
 இந்தோனேசியாவிலிருந்து நாட்டிற்கு கொண்டு வரப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் தொடர்பாக கைது செய்யப்பட்டு விசாரணைக்காக தடுத்து வைக்கப்பட்டுள்ள எம்பிலிப்பிட்டியே சுரங்காவிடம் இருந்து கிடைத்த தகவலின் பேரில் விசாரணைகள் நடத்தப்பட்டன. ​​
 
-அதனடிப்படையில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் 52 லீற்றர் ரசாயனங்கள் மற்றும் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் பல உபகரணங்கள் அடங்கிய 13 கேன்கள் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+According to police, 13 cans of 52 liters of chemicals suspected to have been used to produce ice and several equipment suspected of using ice drugs were found, police said.
+
+A luxury car parked in the restaurant, which is currently registered in the name of an organized criminal gang abroad, has been confiscated, police said.
 
 ...
 
 [Data](articles/01a7ee5a.json)
+
+[Extended Data](ext_articles/01a7ee5a.ext.json)
+
+---
+
+### Renovation of Pettah Central Bus Stand inaugurated under President’s patronage
+
+*2025-09-15 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112511/renovation-of-pettah-central-bus-stand-inaugurated-under-presidents-patronage) · `en`
+
+The inauguration ceremony for the renovation of the Pettah Central Bus Stand has officially commenced this morning (15).
+
+The event was graced by by President Anura Kumara Dissanayake.
+
+The long-awaited project marks the first major upgrade to the facility since its construction in 1964. The project is estimated to cost Rs. 424 million.
+
+As part of the renovation, modern facilities will be introduced, including new restrooms, information and communication stations, enhanced security systems, and several other improvements aimed at upgrading the overall infrastructure of the bus stand.
+
+◼️
+
+[Data](articles/495c1d7d.json)
 
 ---
 
@@ -118,6 +348,22 @@ The guns and ammunition were known as the water was reduced and the bottom of th
 
 ---
 
+### Israel intensifies Gaza City bombing as Rubio arrives
+
+*2025-09-15 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112510/israel-intensifies-gaza-city-bombing-as-rubio-arrives) · `en`
+
+Israeli forces destroyed at least 30 residential buildings in Gaza City and forced thousands of people from their homes, Palestinian officials said, as US Secretary of State Marco Rubio arrived on Sunday (Sep 14) to discuss the future of the conflict.
+
+Israel has said it plans to seize the city, where about a million Palestinians have been sheltering, as part of its declared aim of eliminating the militant group Hamas, and has intensified attacks on what it has called the last bastion of the militant Palestinian group.
+
+Hamas’ political leadership, which has engaged in on-and-off negotiations on a possible ceasefire and hostage release deal, was targeted by Israel in an airstrike in Doha on Tuesday in an attack that drew widespread condemnation.
+
+...
+
+[Data](articles/7f513bb9.json)
+
+---
+
 ### Exit the settlers: 1.10 lakh people participated in London: What is the background?
 
 *2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
@@ -136,17 +382,19 @@ At the same time, anti -racists carried out a protest against Tommy Robinson's r
 
 ---
 
-### வடக்கு, கிழக்கு புதைக்குழிகளுக்கு நீதிகோரி யாழில் கையெழுத்து போராட்டம்
+### Signature Struggle for North and East Fossils
 
 *2025-09-15 10:16:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கு-புதைக்குழிகளுக்கு-நீதிகோரி-யாழில்-கையெழுத்து-போராட்டம்/175-364597) · `ta`
 
-செம்மணி உள்ளிட்ட வடக்கு கிழக்கில் காணப்படும் மனித புதைகுழிகளுக்கும் நடைபெற்ற இனப்படுகொலைகளுக்கும் சர்வதேச நீதி கோரி இளையோர் குரல் அமைப்பினால் யாழ்ப்பாணத்தில் மருதனார்மடம் பகுதியில் திங்கட்கிழமை (15) அன்று கையெழுத்து போராட்டம் முன்னெடுக்கப்பட்டது.
+The signature struggle was launched on Monday (15) in the Marudanarmadam area in Jaffna by the Young Voice Organization demanding international justice for human burials and genocide in the North and East, including Semmani.
 
-இக்கையெழுத்து மாற்றத்திற்கான போராட்டத்தில் இளையோர் அமைப்பின் பிரதிநிதிகள் உறுப்பினர்கள்  யாழ் மருதனார்மடம் வர்த்தகர்கள் சந்தை வியாபாரிகள் பொதுமக்கள் என பலரும் கலந்து கொண்டனர்.
+Representatives of the Youth Organization, Jaffna Marudanarmadam traders, market traders and many others participated in the struggle for change.
 
 ◼️
 
 [Data](articles/daada4d6.json)
+
+[Extended Data](ext_articles/daada4d6.ext.json)
 
 ---
 
@@ -476,17 +724,25 @@ A woman was arrested by Sigiriya police yesterday (14) for allegedly damaging th
 
 ---
 
-### ලංකාවේදී අයිස් නිපදවන්න ඉරානයෙන් ඇවිත්
+### In Sri Lanka, Ice has come from Iran
 
 *2025-09-15 08:24:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේදී-අයිස්-නිපදවන්න-ඉරානයෙන්-ඇවිත්/11-418498) · `si`
 
 කළුතර අපරාධ කොට්ඨාසය මගින් රැඳවුම් නියෝග මත ප්‍රශ්න කරන "ඇඹිලිපිටියේ සුරංග" නැමැත්තාගෙන් ලබා ලබාගත් තොරතුරු වලට අනුව අයිස් මත්ද්‍රව්‍ය  නිෂ්පාදනය කල බවට සැක කරන හම්බන්තොට ප්‍රදේශයේ නිවාඩු නිකේතනයක තිබී සැක උපකරණ , රසායනික ද්‍රව්‍ය තොගයක් සහ අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට එම අවන්හලේ නවතා තිබූ මෝටර් රථයක් අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාශය පවසයි .
 
-ඉන්දුනීසියාවේ සිට මෙරටට රැගෙන ආ සංවිධානාත්මක අපරාධ කරුවන් සමග සබදතා පැවැත්වීම සම්බන්ධයෙන් අත් අඩංගුවට ගෙන රඳවාගෙන ප්‍රශ්න කරන ඇඹිලිපිටියේ සුරංග නමැත්තාගෙන් ලද තොරතුරක් මත සිදුකල විමර්ශන වලදී   තිබී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගත් බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය ලීටර් පනස් දෙකක් අඩංගු කෑන් 13 ක් සහ අයිස් මත්ද්‍රව්‍ය සෑදීමට යොදාගත් බවට සැක කරන තවත් උපකරණ රැසක් සොයාගත් බව පොලිසිය කීය.
+Police said that he was arrested and was arrested in the investigation of the ice drugs from the Surai, which was arrested and used by an organized criminals from Indonesia.
+
+Police have also taken into police custody that a luxury car has been taken into police custody at the rest of the restaurant.
+
+The car is the car taken to transport heroin about two years ago, police said.
+
+According to the information revealed, several Iranian nationals in the Mayurapura area and several people in the Mayurapura area have been produced by the Iranian.
 
 ...
 
 [Data](articles/973bb0a3.json)
+
+[Extended Data](ext_articles/973bb0a3.ext.json)
 
 ---
 
@@ -1164,23 +1420,25 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 
 ---
 
-### குடத்தனையில் வாள் வெட்டு: மூவர் காயம்
+### Sword Cut in Kuttanai: trio wound
 
 *2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-மூவர்-காயம்/175-364588) · `ta`
 
-யாழ். வடமராட்சி கிழக்கு குடத்தனை பகுதியில் வாள் வெட்டுக்குழு மேற்கொண்ட தாக்குதலில் ஒரே குடும்பத்தை சேர்ந்த மூவர் படுகாயங்களுக்கு உள்ளான நிலையில் மருத்துவமனையில் சிகிச்சிக்காக அனுமதிக்கப்பட்டுள்ளனர்.
+Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
 
-இச்சம்பவத்தில் குடத்தனை மேற்கை சேர்ந்த கோவிந்தசாமி உதயகலா (வயது 59) என்பவரும் அவரது மகன் கோவிந்தசாமி கபில்ராஜ் (வயது 25) மற்றும் அவரது மருமகனான கந்தசாமி நிதர்சன் (வயது 33) ஆகிய மூவர் படுகாயங்களுக்கு உள்ளான நிலையில் பருத்தித்துறை ஆதார வைத்தியசாலை யில் அனுமதிக்கப்பட்டனர்.
+Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
 
-கபில்ராஜ் மற்றும் நிதர்சன் ஆகிய இருவரும் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலை க்கு மாற்றப்பட்டுள்ளனர்.
+Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
 
-நேற்று முந்தினம் சனிக்கிழமை இரவு 9.00 மணியளவில் வன்முறை கும்பல் வாள்கள் சகிதம் வீட்டிற்குள் புகுந்து தாக்குதல் நடத்தியுள்ளது.
+At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
 
-இது தொடர்பில் மருதங்கேணி பொலிஸாருக்கு தகவல் வழங்கிய போதிலும் வாள் வெட்டுக்குழு இரவு 11.00 மணிக்கு பின்னர் அங்கிருந்து வெளியேறிச் சென்றபின்னரே தாமதமாக வந்ததாக பாதிக்கப்பட்ட குடும்பத்தினர் தெரிவித்துள்ளனர். (a)
+The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
 
 ◼️
 
 [Data](articles/7fed0e3c.json)
+
+[Extended Data](ext_articles/7fed0e3c.ext.json)
 
 ---
 
@@ -1769,241 +2027,5 @@ This information is included in the Tri-Audit Report issued by the Southern Prov
 [Data](articles/6c995d55.json)
 
 [Extended Data](ext_articles/6c995d55.ext.json)
-
----
-
-### US and Jamaica to win World Athletics Championships in 2025
-
-*2025-09-14 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214569) · `si`
-
-US Melissa Jefferson Wooden won the 2025 World Athletics Championships in Tokyo, Japan.
-
-Meanwhile, Oblic Seville, Jamaica won the 100m long.
-
-◼️
-
-[Data](articles/6aa457be.json)
-
-[Extended Data](ext_articles/6aa457be.ext.json)
-
----
-
-### Fish lorry who arrives in Peliyagoda
-
-*2025-09-14 19:19:06* · [`adalk`](https://www.ada.lk/breaking_news/පෑලියගොඩට-එන-මත්ස්‍ය-ලොරි-තොග-වෙළඳුන්-මග-හරියි/11-418490) · `si`
-
-The Deputy Minister of Fisheries Ratna Gamage was held under the patronage of the businessmanath of the Trade Community to solve problems at the Peliyagoda fish market.
-
-Deputy Minister of Fisheries Ratna Gamage to look into the long-term issues of the Peliyagoda Central Fish Merchants, the main center of fish distribution center in Sri Lanka.. There was also a special discussion with the community.
-
-The meeting, which was part of the proposal in the fisheries industry for the next year, the merchant community was referred to the Deputy Minister.
-
-The stock traders pointed out that the traders reaching the shopping complex in the mall, which registered with the maintenance of the market in the malls, and the formal methodology of the marketplace will collapse.
-
-...
-
-[Data](articles/cd177f58.json)
-
-[Extended Data](ext_articles/cd177f58.ext.json)
-
----
-
-### Glue invention
-
-*2025-09-14 19:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முறிந்த-எலும்புகளை-மூன்றே-நிமிடத்தில்-ஒட்ட-வைக்கும்-பசை-கண்டுபிடிப்பு/50-364572) · `ta`
-
-Chinese scientists have said that they have created a glue that has been pasted in three minutes.
-
-Doctors are treated in today's modern medicine industry depending on the nature of the osteoarthritis. Sometimes surgery is used to add break bones/use metallic metal. Removal of the metal fitted after the bone is removed by surgery. For some people, the metal remains intact with the bone in the body.
-
-In this context, it has been reported that scientists from China have created glue that pasted bones. Doctors from the Jejiang Province in the eastern part of China have created it. Orthopedic surgeon, Lynn Xianpeng, said the ophthalmologist had received the idea of ​​making the bone after noticing that oysters were stuck in some places underwater.
-
-...
-
-[Data](articles/199d7210.json)
-
-[Extended Data](ext_articles/199d7210.ext.json)
-
----
-
-### Member of Parliament Gnanamuthu Srinasan
-
-*2025-09-14 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225082) · `ta`
-
-Batticaloa District Parliamentarian Gnanamuttu Srinesan was injured in a car accident today (14).
-
-The accident occurred when he was returning to Batticaloa while attending a party meeting in Ampara and crashed into another vehicle with another vehicle in Kaluwanchikudi.
-
-The MP who was injured in the accident was immediately taken to Batticaloa Teaching Hospital. It is reported that he is currently undergoing treatment of doctors.
-
-In this case, the Kaluwanchikudi police have begun investigations into the incident. More information has not yet been released on how the accident occurred.
-
-◼️
-
-[Data](articles/36f32167.json)
-
-[Extended Data](ext_articles/36f32167.ext.json)
-
----
-
-### Romania becomes second Nato country to report Russian drone in its airspace
-
-*2025-09-14 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112496/romania-becomes-second-nato-country-to-report-russian-drone-in-its-airspace) · `en`
-
-Romania says a Russian drone has breached its airspace - the second Nato country to report such an incursion.
-
-Romanian fighter jets were in the air monitoring a Russian attack in Ukraine on Saturday and were able to track the drone near Ukraine’s southern border, the defence ministry said in a statement.
-
-Ukrainian President Volodymyr Zelensky said the incursion could not be a mistake - it was “an obvious expansion of the war by Russia”. Moscow has not commented on the Romanian claims.
-
-On Wednesday, Poland said it had shot down at least three Russian drones which had entered its airspace.
-
-In its statement, Romania’s defence ministry said it detected the Russian drone when two F-16 jets were monitoring they country’s border with Ukraine, after “Russian air attacks on Ukrainian infrastructure on the Danube”.
-
-The drone was detected 20km (12.4 miles) south-west of the village of Chilia Veche, before disappearing from the radar.
-
-...
-
-[Data](articles/f25e154a.json)
-
-[Extended Data](ext_articles/f25e154a.ext.json)
-
----
-
-### Arava recognised as Sri Lanka’s Most Innovative Entrepreneur of the Year
-
-*2025-09-14 18:53:00* · [`islandlk`](http://island.lk/arava-recognised-as-sri-lankas-most-innovative-entrepreneur-of-the-year/) · `en`
-
-Arava Private Limited, a leading exporter of coconut-based products, has been crowned the Most Innovative Entrepreneur of the Year 2025 at a prestigious national awards ceremony.
-
-The company received the Gold Award in the Extra-Large category at the Entrepreneur of the Year Awards, organised by the Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL). The honour was presented to Arava’s Chairman and Founder, Asiri Gurusinghe, at a gala event held at Cinnamon Life, Colombo.
-
-Founded in 2013, Arava has grown into a global export powerhouse, shipping its sustainable coconut products to over 46 countries across all seven continents. Operating three state-of-the-art manufacturing facilities and employing more than 800 staff, the company is renowned for its premium coir fibre, cocopeat, and grow bags.
-
-...
-
-[Data](articles/68c6a8b1.json)
-
-[Extended Data](ext_articles/68c6a8b1.ext.json)
-
----
-
-### Pussalla Agri Ventures makes strategic investment in Sri Lanka’s spice tourism landscape
-
-*2025-09-14 18:53:00* · [`islandlk`](http://island.lk/pussalla-agri-ventures-makes-strategic-investment-in-sri-lankas-spice-tourism-landscape/) · `en`
-
-Pussalla Agri Ventures recently announced the grand opening of the first dedicated Ceylon Cinnamon outlet in Narigama, Hikkaduwa. This new establishment marks a significant step in the company’s mission to elevate the global profile of authentic Ceylon Cinnamon.
-
-More than a traditional retail space, the outlet is designed as an immersive experience center. Visitors can explore the full range of premium, value-added Pussalla cinnamon products, including quills, powders and essential oils. A key feature is the opportunity for guests to enjoy a freshly prepared cinnamon brew, engaging the senses and highlighting the product’s heritage and wellness benefits.
-
-...
-
-[Data](articles/6f59ab1d.json)
-
-[Extended Data](ext_articles/6f59ab1d.ext.json)
-
----
-
-### Sensa Solutions Lanka honoured with National Business Excellence Awards
-
-*2025-09-14 18:53:00* · [`islandlk`](http://island.lk/sensa-solutions-lanka-honoured-with-national-business-excellence-awards/) · `en`
-
-Sensa Solutions Lanka (Pvt) Ltd, a leading provider of printing and packaging solutions, has been recognized for its exceptional performance at the National Business Excellence Awards 2025, organized by the National Chamber of Commerce of Sri Lanka.
-
-The company was awarded the Gold Award in the Printing & Related Services sector and received a Merit Award in the Medium Business Category. The esteemed awards ceremony was held on July 24, 2025, at the Shangri-La Hotel in Colombo.
-
-With nearly eight years of industry experience, Sensa Solutions has established a strong reputation for excellence. The company operates a fully-fledged manufacturing facility in Biyagama, employing over 120 skilled professionals. While its core client base includes major apparel brands in the UK, EU, and USA, Sensa Solutions has successfully expanded its services to cater to the Tea, Food, and Pharmaceutical sectors.
-
-...
-
-[Data](articles/950d437c.json)
-
-[Extended Data](ext_articles/950d437c.ext.json)
-
----
-
-### Slim Pharmaceuticals appoints Riza Cassim as CEO
-
-*2025-09-14 18:52:00* · [`islandlk`](http://island.lk/slim-pharmaceuticals-appoints-riza-cassim-as-ceo/) · `en`
-
-Slim Pharmaceuticals (Pvt) Ltd., a leading force in Sri Lanka’s healthcare industry, announced the appointment of Riza Cassim as its new Chief Executive Officer. With over three decades of experience across multinational pharmaceutical giants, Cassim brings a wealth of expertise, a proven track record of leadership, and a clear vision for the future of Slim Pharmaceuticals.
-
-...
-
-[Data](articles/4e836e4e.json)
-
-[Extended Data](ext_articles/4e836e4e.ext.json)
-
----
-
-### Former World Boxing Champion Ricky Hatton has passed away
-
-*2025-09-14 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225081) · `ta`
-
-Former World Boxing Champion Ricky Hatton passed away at his home on Sunday 14th.
-
-Ricky Hatton, who is 42 years old at the time of his death, has won many Light-Vetervite and Welterwide World Championships in her 15-year-old boxing life.
-
-What is unique is that he has recorded knockout wins in 32 matches.
-
-It is noteworthy that Ricky Hatton finally participated in a boxing match in 2012.
-
-◼️
-
-[Data](articles/c9dd6db3.json)
-
-[Extended Data](ext_articles/c9dd6db3.ext.json)
-
----
-
-### From marginalised voices to model UN champions: Sri Lankan youth break barriers at SLMUN 2025
-
-*2025-09-14 18:43:00* · [`islandlk`](http://island.lk/from-marginalised-voices-to-model-un-champions-sri-lankan-youth-break-barriers-at-slmun-2025/) · `en`
-
-Eighteen youth advocates from marginalized communities, supported by Child Action Lanka (CAL), transformed from local activists into award-winning diplomats at the 18th Sri Lanka Model United Nations (SLMUN) conference, held on August 16-17, 2025.
-
-Their participation was sponsored by the SLMUN Executive Committee as a direct result of their powerful advocacy at Sri Lanka’s first Child Rights Council, convened by CAL in April 2025.
-
-Representing CAL centers from Colombo, Killinochchi, Mullaitivu, Batticaloa, Nuwara Eliya, Kandy, and Bogawantalawa, the delegates overcame significant obstacles to prepare. With limited access to technology and research facilities, they relied on dedicated mentorship from CAL volunteers to master diplomatic protocol and complex global issues.
-
-...
-
-[Data](articles/f7e08d45.json)
-
-[Extended Data](ext_articles/f7e08d45.ext.json)
-
----
-
-### MP Gnanamal suffers an accident
-
-*2025-09-14 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214568) · `si`
-
-Mr. Gnanamuttu Sivawan, Mr. Gnanamuttu Srinane, was injured in an accident.
-
-The MP was in charge of the party today (14) and returned to Batticaloa and returned to Batticaloa.
-
-It is reported that the accident had occurred in the Kalawanchikudi vehicle.
-
-◼️
-
-[Data](articles/0f859e24.json)
-
-[Extended Data](ext_articles/0f859e24.ext.json)
-
----
-
-### Mosquito like beer drinking
-
-*2025-09-14 18:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/பீர்-குடித்தால-கொசுவுக்கு-பிடிக்குமாம்/53-364571) · `ta`
-
-A study conducted by Radbound University Medical Center that mosquitoes are more attracted to the sweat smell of beer drinkers;
-
-Researchers say that mosquitoes are likely to get bite for the first 12 hours of beer drinkers
-
-◼️
-
-[Data](articles/8133b0e9.json)
-
-[Extended Data](ext_articles/8133b0e9.ext.json)
 
 ---

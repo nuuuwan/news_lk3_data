@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 12:55:55**
+As of **2025-09-15 14:22:33**
 
 ## Newspaper Stats
 
-*Scraped **76,053** Articles*
+*Scraped **76,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,39 +12,339 @@ newsfirstlk | 363
 dbsjeyarajcom | 627
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,600
+economynextcom | 4,607
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,381
-adaderanalk | 9,782
-tamilmirrorlk | 11,384
-virakesarilk | 12,396
-adaderanasinhalalk | 13,268
+adalk | 7,382
+adaderanalk | 9,787
+tamilmirrorlk | 11,386
+virakesarilk | 12,403
+adaderanasinhalalk | 13,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-71,836 (94.5%) of 76,053 articles have been extended.
+71,963 (94.6%) of 76,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### இஸ்ரேல்-கட்டார் தாக்குதல்;அரசாங்கத்தை சாடுகிறார் ஹக்கீம்
+### පොලීසියේ ස්වාධීනත්වයට රජය බාධා නොකරන බව අගමැතිනිය කියයි
+
+*2025-09-15 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214595) · `si`
+
+පොලිස් සේවය ස්වාධීන, කාර්යක්ෂම, මිත්‍රශීලී හා මහජනයාට සමීප සේවාවක් බවට පත්කිරීම රජයේ අපේක්ෂාව බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවාය.
+
+කොළඹ ක්ෂේත්‍ර බලකා මුලස්ථානයේ පැවති ශ්‍රී ලංකා පොලීසියේ 84 වැනි පොලිස් අන්තර් මළල ක්‍රීඩා උළෙලේ සමාප්ති උත්සවය අමතමින් ඇය මේ බව සඳහන් කළාය.
+
+84 වැනි පොලිස් අන්තර් මළල ක්‍රීඩා උළෙලේ දක්ෂතම මළල ක්‍රීඩිකාව ලෙස අපරාධ විමර්ෂණ කොට්ඨාසයේ සචිත්‍රා ජයකාන්තන්, දක්ෂතම මළල ක්‍රීඩකයින් වන ටී.ජී.එස්. විජේතුංග, ඒ.එම්.එන්. පෙරේරා,  පො.ප. හේමන්ත යන ක්‍රීඩකයින් වෙතත්, සමස්ථ අනුශුරතාව වෙනුවෙන් අගමැති අභියෝගතා පලිහ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවත්, සමස්ථ ශුරතාව වන ජනාධිපති අභියෝගතා පලිහ පොලිස් විශේෂ කාර්ය බලකාය වෙතත් පිරිනැමීම අග්‍රාමාත්‍යතුමිය අතින් සිදු විය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක් වූ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය,
+
+...
+
+[Data](articles/c3d2909b.json)
+
+---
+
+### இலங்கையில் அதிகரிக்கும் இணையவழி பாலியல் தொழில் !
+
+*2025-09-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225136) · `ta`
+
+இலங்கையில் இணையவழி பாலியல் தொழில் வேகமாக அதிகரித்து வருவது குறித்து பொலிஸார் தீவிர கவனம் செலுத்தி வருகின்றனர். சைபர் மோசடி, சுரண்டல்கள் மற்றும் சிறுவர்கள் உள்ளிட்ட பலர் இதில் ஈடுபடுவது குறித்து கவலைகள் அதிகரித்துள்ளன. சுற்றுலா விசாவில் இலங்கைக்கு வந்துள்ள வெளிநாட்டுப் பெண்களும் இந்தச் செயல்களில் ஈடுபடுவது கூடுதல் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+பல இணையதளங்கள் மற்றும் மொபைல் செயலிகள் மூலம் தினமும் நூற்றுக்கணக்கான பாலியல் சேவைகளுக்கான விளம்பரங்கள் பகிரப்படுகின்றன. இதில் நேரடி வீடியோ சேவைகள் மற்றும் தனிப்பட்ட சந்திப்புகள் போன்ற பல்வேறு அம்சங்கள் உள்ளன.
+
+இந்தச் சேவைகளுக்கான கட்டணங்கள், சேவையின் வகையைப் பொறுத்து மாறுபடுகின்றன. உதாரணத்திற்கு, "தாய் முழு உடல் மசாஜ்" சுமார் 10,000 ரூபாய்க்கு விளம்பரப்படுத்தப்படுகிறது. அதேநேரம், நேரடி வீடியோ அமர்வுகளுக்கு 10 நிமிடங்களுக்கு 1,000 ரூபாய் முதல் 30 நிமிடங்களுக்கு 10,000 ரூபாய் வரை கட்டணம் வசூலிக்கப்படுகிறது. நேரடி சந்திப்புகளுக்கு 8,000 ரூபாய் முதல் 30,000 ரூபாய் வரை கட்டணம் நிர்ணயிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/4a360d7a.json)
+
+---
+
+### Rs. 2000 currency note will be gradually introduced into the banking system: CBSL
+
+*2025-09-15 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112518/rs-2000-currency-note-will-be-gradually-introduced-into-the-banking-system-cbsl) · `en`
+
+The newly issued Rs. 2000 commemorative currency note, released on 29 August 2025 to mark its 75th anniversary, will be gradually introduced into the banking system, the Central Bank of Sri Lanka (CBSL) has announced.
+
+Licensed Commercial Banks are currently calibrating their cash-handling machines to accept and dispense the new note. The CBSL stated that the note will be released into circulation in line with the progress of this process.
+
+The Central Bank requested the cooperation of the public during the transition and assured that the new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.
+
+For further information, the public has been requested to contact the CBSL Currency Department, visit the official website, or follow CBSL’s verified social media platforms.
+
+◼️
+
+[Data](articles/75730697.json)
+
+---
+
+### “The. 2000 will be gradually circulated. ”
+
+*2025-09-15 13:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2000-படிப்படியாக-சுற்றோட்டத்திற்கு-விடப்படும்/175-364621) · `ta`
+
+The Central Bank of Sri Lanka released its 75th anniversary on August 29, 2025. The Central Bank of Sri Lanka has announced that the currency should be circulated.
+
+In order to facilitate the acceptance and distribution of the new currency, licensed commercial banks carry out the process of measurement of their money handling machines. In accordance with the progress of this process. The new currency panel will be gradually circulated through licensed commercial banks.
+
+The Central Bank of Sri Lanka promises to use the cooperation of public cooperation during this period of changing and that the new currency paper will be used by all banks.
+
+◼️
+
+[Data](articles/fb75103e.json)
+
+[Extended Data](ext_articles/fb75103e.ext.json)
+
+---
+
+### US Secretary of State on a visit to Israel in many crises
+
+*2025-09-15 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214594) · `si`
+
+US Secretary of State Marco Reubio has honored Israel to Israel.
+
+He is traveling in the region when the US has disregarded the Hamas's Hamas's attack on the Hamas Political Leaders who remained in Qatar.
+
+Rubio visited the Israeli background to discuss the Israeli attack.
+
+◼️
+
+[Data](articles/5b322f81.json)
+
+[Extended Data](ext_articles/5b322f81.ext.json)
+
+---
+
+### Fitch upgrades Sri Lanka’s People’s Leasing & Finance rating to ‘A
+
+*2025-09-15 13:15:00* · [`economynextcom`](https://economynext.com/fitch-upgrades-sri-lankas-peoples-leasing-finance-rating-to-a-240550/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has upgraded Sri Lanka’s People’s Leasing and Finance PLC’s rating to ‘A(lka)’ from ‘A-(lka)’, the ratings agency said.
+
+The upgrade is due to improved support from its parent, People’s Bank, the country’s second-largest bank, Fitch said.
+
+The finance and leasing company is focused on vehicle financing and other asset-backed loans.
+
+The stock was trading down 20 cents at 23.10 rupees. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/eaf3cfee.json)
+
+[Extended Data](ext_articles/eaf3cfee.ext.json)
+
+---
+
+### Some who have escaped against the Sri Lankan Tamil party will be removed from the party - M. Sumanthiran
+
+*2025-09-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225131) · `ta`
+
+In the presidential parliamentary elections, those who have been directly against the party have already been excluded from the party in violation of the party's decisions.
+
+At the same time, a letter has been sent against all those who have worked against the party and some who have fled the local government elections will be excluded from the party.. Said Sumanthiran.
+
+The Central Executive Committee Meeting of the Sri Lanka Tamil National Alliance (TNA) was held on Sunday (14) at the Alayadivembu Cultural Hall in Ampara. He later said this to the media.
+
+The party's moral air action, the presidential parliamentary elections, the three elections, the three elections, have been sent a letter against all those who violated the party's resolutions.
+
+At the same time, some people who contested the local government elections have survived our negligence.. They too will be removed from the party.
+
+...
+
+[Data](articles/ec4c742d.json)
+
+[Extended Data](ext_articles/ec4c742d.ext.json)
+
+---
+
+### Central Bank Notice of New 2000note
+
+*2025-09-15 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214593) · `si`
+
+The Central Bank of Sri Lanka has issued a statement regarding the commemorative note which was issued Rs.
+
+It is said that the new currency note is easily adaptable to the circulation of the money, that the licensed commercial banks are in the process of calibrating machines.
+
+The Central Bank has informed that the new currency note gradually be issued through licensed commercial banks in accordance with the progress of this process.
+
+With the end of the calibration process, the Central Bank of Sri Lanka (CBSL) has further appreciated the cool of the public through all bank media.
+
+Accordingly, the Central Bank of Sri Lanka (CBSL) has announced that the call of the Department of Definition or Central Bank of Sri Lanka officials of the Central Bank of Sri Lanka or the Central Bank of Sri Lanka's official website of the Central Bank of Sri Lanka or the Central Bank of Sri Lanka.
+
+◼️
+
+[Data](articles/62b2bf6d.json)
+
+[Extended Data](ext_articles/62b2bf6d.ext.json)
+
+---
+
+### Rising oceans to threaten 1.5 million Australians by 2050: Report
+
+*2025-09-15 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112517/rising-oceans-to-threaten-15-million-australians-by-2050-report) · `en`
+
+Rising oceans and flooding caused by climate change will threaten the homes and livelihoods of over a million Australians by 2050, while deaths from heat-related illness will soar, a landmark report warned Monday (Sep 15) ahead of the country’s releasing its emission reduction targets this week.
+
+The long-awaited national climate risk assessment found that rising temperatures will have “cascading, compounding, concurrent” impacts on life in Australia, home to more than 27 million people.
+
+“We are living climate change now. It’s no longer a forecast, a projection or prediction - it is a live reality, and it’s too late to avoid any impacts,” Climate Minister Chris Bowen said.
+
+The report, prepared independently for the government, found that 1.5 million people living in coastal areas will be at risk of sea level rise and coastal flooding by 2050.
+
+By 2090, about three million people will be at risk from rising oceans.
+
+...
+
+[Data](articles/28530ce3.json)
+
+---
+
+### Govt aims to build independent and people-oriented police service - PM
+
+*2025-09-15 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112516/govt-aims-to-build-independent-and-people-oriented-police-service-pm) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that it is the Government’s expectation to transform the Police Service into an independent, efficient, friendly, and people-oriented service.
+
+The Prime Minister made these remarks while addressing the closing ceremony of the 84th Police Inter-Divisional Athletics meets held on 14 September at the Field Force Headquarters, Colombo, according to the Prime Minister’s Media Division.
+
+At the 84th Police Inter-Divisional Athletics Meets, the award for the Best Female Athlete was presented to Sachithra Jayakanthan of the Criminal Investigation Division, while the awards for the Best Male Athletes were presented to T.G.S. Wijethunga, A.M.N. Perera, and Hemantha.
+
+The Prime Minister’s Challenge Trophy for Overall Runner-Up was presented by the Prime Minister to the Criminal Investigation Department and the President’s Challenge Trophy for Overall Championship to the Special Task Force, the statement said.
+
+...
+
+[Data](articles/2b549148.json)
+
+---
+
+### House in Hambantota to be produced in Hambantota
+
+*2025-09-15 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214592) · `si`
+
+Kehelibodara Padma and Kudu Nilanga have been suspected of producing ice drugs in Sri Lanka.
+
+The residence Embilipitiya Suranga, a close associate of Kudu Nilanga, was a revelation that was arrested in Kalutara District Crimes Division.
+
+He was revealed about a 20-year-old resident of Kirigolla, Kirilegolla, Panadura, Panadura.
+
+The suspect has told the police that the suspect has been revealed to be produced in the ice drug, and he had stayed there at the time of producing the ice.
+
+The suspect has said that three Iranians manufactured the ice drugs and that 14 kg of ice drugs were then sold to Kehelbadara Padma's party.
+
+The suspect has said that the three Iranians have fled the country.
+
+At least 52 liters of chemicals have been found to be used to create the cobi ice drugs at the time of the house.
+
+One of the rooms were preparing a laboratory, including four plastic buckets, six plastic buckets and several other items.
+
+...
+
+[Data](articles/58595ec4.json)
+
+[Extended Data](ext_articles/58595ec4.ext.json)
+
+---
+
+### Increase in internet sex trade in Sri Lanka; Young women targeting tourists
+
+*2025-09-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225130) · `ta`
+
+Hundreds of web sites have been launched in Sri Lanka. It has been found that some people involved in the internet are being carried out by the inner box, which has been launched by pages such as marketing trade products on social media.. It is found that women between the ages of 18 to 27 are involved in the sex industry and some are spontaneously involved.. According to the Cyber ​​allegations, the police said that such sex businesses are being carried out in the name of massage services.. Using social media such as WhatsApp and Base Book, carrying out this trade is not only costly, but also the runs of the law.
+
+◼️
+
+[Data](articles/f736ffb4.json)
+
+[Extended Data](ext_articles/f736ffb4.ext.json)
+
+---
+
+### Israel-catter attack; Hakeem criticizes the government
 
 *2025-09-15 12:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-கட்டார்-தாக்குதல்-அரசாங்கத்தை-சாடுகிறார்-ஹக்கீம்/175-364618) · `ta`
 
-பலஸ்தீனத்துடனான தற்போதைய மோதலுடன் தொடர்புடைய, கட்டார் மீதான இஸ்ரேலின் தாக்குதல் குறித்த அரசாங்கத்தின் சமீபத்திய அறிக்கையை இலங்கை முஸ்லிம் காங்கிரஸ் (SLMC) தலைவர், பாராளுமன்ற உறுப்பினர் ரவூப் ஹக்கீம் விமர்சித்துள்ளார்.
+Sri Lanka Muslim Congress (SLMC) leader Rauf Hakeem has criticized the government's latest report on Israel's attacks on Qatar, in connection with the current conflict with Palestine.
 
-ஒரு அறிக்கையை வெளியிட்ட ஹக்கீம், இலங்கை வெளியுறவு அமைச்சகம் "ஒரு ஆக்கிரமிப்பாளருக்கும் ஆக்கிரமிக்கப்பட்டவர்களுக்கும் இடையில், ஒரு விமானத் தாக்குதலுக்கும் ஒரு சம்பவத்திற்கும் இடையில், அல்லது அதைவிட மோசமாக, கூலிப்படை நடத்தைக்கும் பாதிக்கப்பட்டவர்களுடனான ஒற்றுமைக்கும் இடையில் வேறுபடுத்திப் பார்ப்பதில் எவ்வளவு திறமையற்றது என்பதை மீண்டும் ஒருமுறை நிரூபித்துள்ளது என குற்றம் சாட்டினார்.
+Hakeem, who issued a statement, accused the Foreign Ministry of Foreign Affairs, "It has once again proven how incompetent it is to distinguish between an occupant and the occupants, between an air strike and an incident, or a worse, mercenary, and the unity of the victims.
 
-ஆக்கிரமிக்கப்பட்ட பலஸ்தீனப் பகுதிகளில், குறிப்பாக காசாவில் செய்யப்பட்ட குற்றங்கள் தொடர்பாக மட்டுமல்லாமல், கடந்த ஜூன் மாதம் ஈரானுக்கு எதிரான நடவடிக்கைகளுக்கும், சமீபத்தில் கத்தாருக்கும் ஆதரவளிப்பதிலும் இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாகு மற்றும் அவரது நிர்வாகத்துடன் அரசாங்கம் "தந்திரோபாய அல்லது மூலோபாய கூட்டுச் சதி"யில் இருப்பதாக அவர் மேலும் குற்றம் சாட்டினார்.
+He accused Israeli Prime Minister Benjamin Netanyahu and his administration that the government was "in a tactical or strategic conspiracy" in the occupied Palestinian areas, not only in the crimes committed in Gaza, but also in support of Qatar last June.
+
+Hakeem accused the government and the Foreign Ministry exposing the long -term inability to use the recent comments on Qatar, as in previous statements, for the use of ethical and moral standards for Israel and threats to its aggression, long -term aggression and regional stability. "
 
 ...
 
 [Data](articles/7a79029f.json)
+
+[Extended Data](ext_articles/7a79029f.ext.json)
+
+---
+
+### Does 'Tekiya' and 'Vaitniya' say Tamil?
+
+*2025-09-15 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225124) · `ta`
+
+Tamil murder is increasing in public places. In some cases there are places where the Tamil language and the knowledgeable people cannot understand what it is, and there are slights and places of misconception.
+
+Kandy National Hospital. There are people who can read only Tamil from the hill, the East and the Northern Province.
+
+For example, two of them can be found above the name boards. One can be found that 'national' is written as 'Tekiya' and 'Vaitniya' to 'Vaidniya'.
+
+◼️
+
+[Data](articles/fae8fa04.json)
+
+[Extended Data](ext_articles/fae8fa04.ext.json)
+
+---
+
+### Govt’s objective is to reduce prison population– Justice Minister
+
+*2025-09-15 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112515/govts-objective-is-to-reduce-prison-population-justice-minister) · `en`
+
+The government’s objective is to reduce the number of people imprisoned in the country, the Minister of Justice and National Integration Harshana Nanayakkara says.
+
+He made these remarks while participating in the 27th Prisoners’ Day ceremony held recently.
+
+Speaking at the event, the Minister stated that the service provided by the Prisoners’ Welfare Association for inmates in prisons is commendable.
+
+He further highlighted the severe issue of prison overcrowding and stressed that it is the government’s responsibility to ensure the necessary facilities to address this problem.
+
+The Minister emphasized that it is extremely important to reduce the number of people imprisoned and to create facilities that protect the human rights of all those imprisoned.
+
+“All people are equal before the law, and as a government, we are committed to upholding the supremacy of the rule of law and building a country based on equality,” Minister Nanayakkara stated.
+
+...
+
+[Data](articles/634fb483.json)
+
+[Extended Data](ext_articles/634fb483.ext.json)
+
+---
+
+### Case against former Minister Keheliya and family members adjourned
+
+*2025-09-15 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112514/case-against-former-minister-keheliya-and-family-members-adjourned) · `en`
+
+The Colombo High Court today (15) ordered the case filed against former Minister Keheliya Rambukwella, his wife, three daughters, and son-in-law, over allegations of illegally acquired assets, to be recalled on October 01.
+
+High Court Judge Lanka Jayaratne issued the order when the case was taken up before court today, said Ada Derana reporter.
+
+During proceedings, the prosecution handed over several documents, previously requested by the defendants for the trial, in open court.
+
+The judge further directed the defendants to notify the court within two weeks if they required any additional documents and fixed the case to be recalled on October 01.
+
+According to the charge sheet, the defendants are accused of committing offences under the Sri Lanka Penal Code by unlawfully acquiring assets during the period between August 13, 2020, and June 24, 2024, while serving in the Ministry of Mass Media and Health.
+
+...
+
+[Data](articles/c6b647bc.json)
+
+[Extended Data](ext_articles/c6b647bc.ext.json)
 
 ---
 
@@ -100,6 +400,48 @@ If the president has time, we ask for five minutes to walk in this area to under
 
 ---
 
+### Scholarships from President Fund to low income students
+
+*2025-09-15 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225121) · `ta`
+
+Scholarships were provided to students from low -income families from the presidential fund.
+
+The President's Fund to provide scholarships for school children from economically disadvantaged families in the Kandy - Mahayawa area was held at the Kandy District Secretariat yesterday (14).
+
+During a field inspection conducted by the President's Fund on 31st May 2025, it was appropriate to implement development projects in order to improve the living standards of the people of the West Grama Niladhari Division of the Kandy - Mahayawa Poornawatta.
+
+Accordingly, in the first phase of the event, 28 students were given scholarships.
+
+◼️
+
+[Data](articles/fcf3748b.json)
+
+[Extended Data](ext_articles/fcf3748b.ext.json)
+
+---
+
+### Sri Lanka’s Energy Minister urges CEB employees to trust new reforms
+
+*2025-09-15 11:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-energy-minister-urges-ceb-employees-to-trust-new-reforms-240533/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Energy Minister Kumara Jayakody urged employees of state-owned utility firm Ceylon Electricity Board (CEB) to ‘trust’ the newly approved reform process and allow it without dragging their feet.
+
+The minister’s comments come amid threats of protest by CEB trade unions against the reforms passed by parliament last month.
+
+“The earlier reform was to remove 12,000 employees from the CEB. That cabinet decision is still effective. However, we have not included that in our reforms,” Minister Jayakody told reporters at a media briefing on Monday.
+
+“We will not allow this institution (CEB) to weaken or fall. Don’t get carried away with false information. The employees have two months to express their opinions,” he said.
+
+“See this reform as a positive one. We have never done anything wrong or violated any labour rights so far. Trust us.”
+
+...
+
+[Data](articles/cbd3f8c3.json)
+
+[Extended Data](ext_articles/cbd3f8c3.ext.json)
+
+---
+
 ### Case against Keheliya and family members postponed
 
 *2025-09-15 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214591) · `si`
@@ -121,6 +463,30 @@ Former Minister Keheliya Rambukkale accusing of a condolence of over Rs. 24th Au
 [Data](articles/60170dfa.json)
 
 [Extended Data](ext_articles/60170dfa.ext.json)
+
+---
+
+### Sri Lanka 2,000 note issuance delayed by cash machine calibration
+
+*2025-09-15 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-2000-note-issuance-delayed-by-cash-machine-calibration-240543/) · `en`
+
+ECONOMYNEXT – The new 2,000 rupee note issued by the central bank of Sri Lanka will gradually be released into circulation after banks calibrate their cash-handling machines, CBSL said.
+
+“In order to facilitate the smooth acceptance and dispensation of the new note, Licensed Commercial Banks are in the process of calibrating their cash-handling machines,” CBSL said.
+
+“In keeping with the pace of the process, the new note will gradually be released into circulation through Licensed Commercial Banks.”
+
+The commemorative currency note was issued on August 29 to mark its 75th Anniversary, CBSL said.
+
+“The new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.”
+
+The note is the first to bear President Anura Dissanayake’s signature. (Colombo/Sep2025)
+
+◼️
+
+[Data](articles/8c840cc7.json)
+
+[Extended Data](ext_articles/8c840cc7.ext.json)
 
 ---
 
@@ -147,6 +513,26 @@ Meanwhile, arrangements have been taken to organize spiritual, sports, health an
 [Data](articles/e362d7da.json)
 
 [Extended Data](ext_articles/e362d7da.ext.json)
+
+---
+
+### England's Young Actor Owen Cooper won the Emmy Award for leading actor!
+
+*2025-09-15 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225111) · `ta`
+
+England's young actor Owen Cooper won the Emmy Award (EMMY Awards - 2025) for the leading actor.
+
+Owwan Cooper has won the award for his performance through the "Adolescence" drama series.
+
+The 15 -year -old Ovan Cooper won the special Emmy Award, which is now a speech among filmmakers.
+
+When Owen Cooper received this, “I am nothing three years ago. Now I am standing here. ”
+
+◼️
+
+[Data](articles/5e8753c5.json)
+
+[Extended Data](ext_articles/5e8753c5.ext.json)
 
 ---
 
@@ -190,6 +576,28 @@ The police arrested 220 persons and 155 people who were issued an opening.
 
 ---
 
+### Sri Lanka’s Risk Survey points to declined confidence in medium term
+
+*2025-09-15 11:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-risk-survey-points-to-declined-confidence-in-medium-term-240519/) · `en`
+
+ECONOMYNEXT – Sri Lanka Systemic Risk Survey (SRS) for the second half of 2025 points to improved confidence in the financial system in the short term, but it has declined in the medium term, a Central Bank report showed.
+
+The SRS was conducted between June 27 and July 20 this year with the participation of 146 firms on the overall confidence in the financial system, the sources of perceived risks and the likelihood of such risks.
+
+“Respondents’ confidence in the financial system improved in the short term compared to the previous survey, whereas confidence in the medium term experienced a slight decline,” the Central Bank said in the SRS report.
+
+It also said ‘Global macroeconomic risks’ increased significantly amid rising geopolitical tensions and the challenging global economic outlook.
+
+Among respondents, the perceived probability of materialisation of a high impact negative event declined in the short term but slightly increased in the medium term, it said.
+
+...
+
+[Data](articles/ec62b6e8.json)
+
+[Extended Data](ext_articles/ec62b6e8.ext.json)
+
+---
+
 ### Add around ...
 
 *2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/சுற்றி-விடுங்க-சேர்/62-364610) · `ta`
@@ -199,6 +607,20 @@ The police arrested 220 persons and 155 people who were issued an opening.
 [Data](articles/7ee9a3fe.json)
 
 [Extended Data](ext_articles/7ee9a3fe.ext.json)
+
+---
+
+### Bimal climbed in Eman's vehicle
+
+*2025-09-15 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எமனின்-வாகனத்தில்-ஏறிய-பிமல்/62-364610) · `ta`
+
+Transport Minister Bimal Ratnayaka said that the innocent civilian is holding his hips without falling down.
+
+◼️
+
+[Data](articles/9b7d29d5.json)
+
+[Extended Data](ext_articles/9b7d29d5.ext.json)
 
 ---
 
@@ -240,6 +662,24 @@ Under the first phase, 28 students were given scholarships.
 
 ---
 
+### City of Renaissance begins today
+
+*2025-09-15 11:08:32* · [`adalk`](https://www.ada.lk/breaking_news/පුනරුදයේ-පුරවර-අද-සිට-ඇරඹෙයි/11-418501) · `si`
+
+Deputy Minister of Provincial Councils and Local Government Prabha Ruwan Senarath stated that the local government week will commence nine years after a 'rich country' policies.. "The Renahara Scale" will be operated from today (15) to the 21st.
+
+The inauguration date of the local government week is designated today (15th) mobile service date. The deputy minister said that the environmental and tree planting date tomorrow (16), the Deputy Minister said that the international day of conserving the ozone layer.
+
+It was also named health and sanitary day on September 17th of September, the date of the world.. The World Cleaning Day will be held on September 20 of September this week, which will be held on September 20 and the end of the Certificate of the Public utility date and end on the end of the 19th this week.
+
+...
+
+[Data](articles/4cb4f29a.json)
+
+[Extended Data](ext_articles/4cb4f29a.ext.json)
+
+---
+
 ### To whom
 
 *2025-09-15 11:02:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/யாருக்குக்-கொடுத்து-வைத்திருக்கிறதோ/54-364607) · `ta`
@@ -258,21 +698,25 @@ Tamanna, who is now single, has spoken about Kalyanam. In it, I want to be the b
 
 ---
 
-### මහින්දව ජාතික වශයෙන් ආරක්ෂා කළ යුතුයි
+### Mahinda must be protected by national
 
 *2025-09-15 11:00:46* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දව-ජාතික-වශයෙන්-ආරක්ෂා-කළ-යුතුයි/11-418500) · `si`
 
-හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා ජාතික වශයෙන් ආරක්ෂා කළ යුතුව ඇතැයි  එක්සත් ජාතික පක්ෂ සභාපති, හිටපු අමාත්‍ය වජිර අබේවර්ධන මහතා පැවැසීය.
+Former President Mahinda Rajapaksa, former President Chairman Vajira Abeywardena said that former President Mahinda Rajapaksa has to be protected to be defended.
 
-ඔහු මේ බව සඳහන් කළේ ඊයේ (14) පැවැති හිනිදුම, රත්ගම සහ බෙන්තර - ඇල්පිටිය කොට්ඨාශ එක්සත් ජාතික පක්ෂ ක්‍රියාකාරී හමුවලින් අනතුරුව මාධ්‍යයට අදහස් දක්වමිනි.
+He was speaking at Hiniduma, Ratgama and Bentara Divisions in the Meeting of the United National Party (UNP) yesterday (14).
 
-"ජනාධිපතිරුන්ගේ නිල නිවාස ලබාගැනීම නිසා රටේ සමස්ථ මහජනතාවට ලබන මාසේ ඉදලා ලයිට් බිල්, වතුර බිල් අඩු වෙයි. ඒ වගේම පෙට්ට්‍රල්, ඩීසල්, භූමිතෙල් මිල අඩු වෙලා ජනතාවට සහන ලැබෙයි. අපි ඉතින් ඒ නිසා බලාගෙන ඉමු.
+"Due to the acquisition of presidential quarters, light bills, water bills, billing of bills. It also reduces the prices of petrol, diesel and kerosene oil and receive relief. Let's wait so.
 
-මම හිතන්නේ ලංකා ඉතිහාසයේ රජ කාලෙත්, රජ කාලෙන් පසුවත්, හිටපු බොහෝ රාජ්‍ය නායකයෝ අකාලයේ මරා දමා තිබෙනවා. එහෙම නැතිනම් මරා දමන්න ගිහින් එම රාජ්‍ය නායකයෝ අනු නවයෙන් දිවි බේරාගෙන දැනට ජීවතුන් අතර ඉන්නවා. ඉතින් මේක තමයි ශ්‍රී ලංකාවේ දේශපාලන ඉතිහාසය, වර්තමානය වගේම අනාගතයත්.
+I think that many state leaders were killed in the history of the history of the history of Sri Lanka.. Otherwise, the heads of state have survived. So this is the political history of Sri Lanka, the present and future.
+
+For example, if we take, we cannot go to some countries in the world as a typical citizen. If so, he will bring his body to Sri Lanka. There is plenty of areas where Sri Lanka cannot go alone in Sri Lanka and its rapity. So this is why I think he must protect her.
 
 ...
 
 [Data](articles/e8f003c7.json)
+
+[Extended Data](ext_articles/e8f003c7.ext.json)
 
 ---
 
@@ -307,6 +751,24 @@ It is significant that the Central Bus Stand will be re-modernized after 60 year
 [Data](articles/572ebe7b.json)
 
 [Extended Data](ext_articles/572ebe7b.ext.json)
+
+---
+
+### Fire in three boats in the Savo Priya River in Bengok
+
+*2025-09-15 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225109) · `ta`
+
+International media reports that three boats in the Bangkok -Sawo Priya River
+
+A fire broke out at a passenger boat that was anchored on the Wat Ratsinkon Ship near the popular tourist atmosphere, Asia, the fire broke out at 6.43 pm yesterday.
+
+Within four minutes of flames spread to two ships nearby, and the boats burning in the fire have fallen in the middle of the river as the ropes that protect the boats have been broken.
+
+◼️
+
+[Data](articles/87bd5e23.json)
+
+[Extended Data](ext_articles/87bd5e23.ext.json)
 
 ---
 
@@ -560,6 +1022,36 @@ The tabed the police is to be produced before the Kahatagasdigiliya Magistrate's
 
 ---
 
+### Sri Lanka rupee weaker against dollar, bond yields flat
+
+*2025-09-15 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-flat-240501/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.90/302.00 to the US dollar on Monday, slightly weaker from 301.99/95 Friday, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
+
+A bond maturing on 15.06.2029 was quoted at 9.40/50 percent.
+
+A bond maturing 15.12.2029 was quoted flat at 9.50/55 percent.
+
+A bond maturing on 01.12.2032 was quoted at 10.38/45 percent.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.7314 buying, and 415.0732 selling, and the euro was 347.8515 buying, 359.0567 selling.
+
+The Colombo Stocks Exchange was trading in red; The ASPI was down 0.08 percent, or 17.44 points, at 20,594; the S&P SL20 was down 0.20 percent, or 17.05 points, at 5,861.
+
+Rs. 75,000 million Treasury bills are to be issued through an auction on 17th September. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/d429c501.json)
+
+[Extended Data](ext_articles/d429c501.ext.json)
+
+---
+
 ### 11-year old boy drowns in Dewahuwa Reservoir
 
 *2025-09-15 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112508/11-year-old-boy-drowns-in-dewahuwa-reservoir) · `en`
@@ -679,6 +1171,28 @@ Later, relatives and the people of the area rescued the drowning boy and admitte
 [Data](articles/03c448aa.json)
 
 [Extended Data](ext_articles/03c448aa.ext.json)
+
+---
+
+### Pali grammar book launched in Sri Lanka
+
+*2025-09-15 09:00:00* · [`economynextcom`](https://economynext.com/pali-grammar-book-launched-in-sri-lanka-240532/) · `en`
+
+ECONOMYNEXT – An ancient Pali grammar book ‘Balawatharo’ has been reprinted by Pathfinder Foundation with the support of the High Commission of India, Colombo and Indian Council of Cultural Relations (ICCR).
+
+“The reprint will make this valuable text, which has, for generations, served as a cornerstone of Pali studies in Sri Lankan Pirivenas and schools, accessible to students of Pali in Sri Lanka,” the High Commission said.
+
+Deputy High Commissioner Satyanjal Pandey launched the reprint at the sacred Dalada Maligawa Temple, Kandy.
+
+Copies were presented to the chief prelates and other monks of the Malwatte and Asgiriya chapters.
+
+Pathfinder, the High Commission, and ICCR have previously reprinted the Pali grammar treatise ‘Namamala’. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/a755f47f.json)
+
+[Extended Data](ext_articles/a755f47f.ext.json)
 
 ---
 
@@ -953,6 +1467,26 @@ The union further stated that it will make an announcement regarding the next ph
 [Data](articles/7a054a82.json)
 
 [Extended Data](ext_articles/7a054a82.ext.json)
+
+---
+
+### Prime Lands buys land in Bambalapitiya, Sri Lanka for Rs3.5bn
+
+*2025-09-15 08:00:00* · [`economynextcom`](https://economynext.com/prime-lands-buys-land-in-bambalapitiya-sri-lanka-for-rs3-5bn-240520/) · `en`
+
+ECONOMYNEXT – Sri Lanka property developer Prime Lands Residencies PLC said it had bought a land at Bambalapitiya Station Road for 3.5 billion rupees.
+
+The property was bought at an auction on Friday (12), the company said in a stock exchange filing.
+
+The company has paid 350,000,010 rupees of the total 3,500,000,100, or 10 percent of the selling price, as the advance payment and the balance will be settled within 30 days from the date of communication from the bank, Prime Lands said.
+
+The stock war trading up 2.10 rupees at 34.20. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/67708843.json)
+
+[Extended Data](ext_articles/67708843.ext.json)
 
 ---
 
@@ -1539,517 +2073,5 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 [Data](articles/9b58f579.json)
 
 [Extended Data](ext_articles/9b58f579.ext.json)
-
----
-
-### Sword Cut in Kuttanai: trio wound
-
-*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-மூவர்-காயம்/175-364588) · `ta`
-
-Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
-
-Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
-
-Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
-
-At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
-
-The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
-
-◼️
-
-[Data](articles/7fed0e3c.json)
-
-[Extended Data](ext_articles/7fed0e3c.ext.json)
-
----
-
-### Sword cut in Kuttanai: trio injured
-
-*2025-09-15 03:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடத்தனையில்-வாள்-வெட்டு-சம்பவம்-மூவர்-காயம்/175-364588) · `ta`
-
-Yall. Vadamarachchi has been admitted to hospital after being injured in a sword cutting group in Vadamarachchi East Kudana.
-
-Govindasamy Udayagala (age 59) from Kudana West, his son Govindasamy Kapilraj (age 25) and his nephew Kandasamy Nitarshan (33) were admitted to the Pedro Base Hospital.
-
-Both Kapilraj and Nitarshan have been transferred to the Jaffna Teaching Hospital for further treatment.
-
-At around 9.00 pm on Saturday night, the violent gangs broke into the house of Sakitham.
-
-The victim's family said that although the Marudankeni police had informed the police, the sword was delayed at 11.00 pm later at 11.00 pm.. (A)
-
-◼️
-
-[Data](articles/8bf2c316.json)
-
-[Extended Data](ext_articles/8bf2c316.ext.json)
-
----
-
-### Foreign Minister Vijitha Herath concludes visit to Geneva
-
-*2025-09-15 03:45:01* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Minister-Vijitha-Herath-concludes-visit-to-Geneva/56-781688) · `en`
-
-Foreign Minister Vijitha Herath with Human Rights Council President Ambassador Jürg Lauber of Switzerland
-
-Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath concluded his visit to Geneva, where he addressed the 60th Session of the UN Human Rights Council (UNHRC) on 8 September, delivering the Government statement during the Interactive Dialogue on Sri Lanka.
-
-Minister Herath reiterated Sri Lanka’s commitment to achieving reconciliation through domestic processes and outlined the measures already taken by the Government for transformation to advance the rights and well-being of all Sri Lankans.
-
-The Foreign Minister further reaffirmed Sri Lanka’s opposition to externally imposed mechanisms.
-
-...
-
-[Data](articles/a568d1dc.json)
-
-[Extended Data](ext_articles/a568d1dc.ext.json)
-
----
-
-### SL votes and welcomes UN adoption of resolution on Palestine
-
-*2025-09-15 03:44:33* · [`dailyftlk`](https://www.ft.lk/news/SL-votes-and-welcomes-UN-adoption-of-resolution-on-Palestine/56-781687) · `en`
-
-Sri Lanka yesterday welcomed the adoption by the UN General Assembly of the resolution endorsing the New York Declaration on the peaceful settlement of the Question of Palestine and the implementation of the two-State solution.
-
-“We extend our sincere appreciation to Saudi Arabia and France for their leadership in this important initiative,” the Foreign Affairs Ministry said.
-
-“Sri Lanka reaffirms its unwavering support for the inalienable right of the Palestinian people to Statehood, in accordance with the purposes and principles of the Charter of the UN and the relevant UN resolutions,” it added.
-
-◼️
-
-[Data](articles/1dd2abb5.json)
-
-[Extended Data](ext_articles/1dd2abb5.ext.json)
-
----
-
-### Govt. to step back from running businesses, focus on facilitation
-
-*2025-09-15 03:43:16* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-step-back-from-running-businesses-focus-on-facilitation/34-781686) · `en`
-
-Industry and Entrepreneurship Development Minister Sunil Handunneththi outlines plans to liquidate 33 non-functional SOEs
-
-Says many SOEs originally set up to provide public services or promote strategic economic activities are defunct institutions and no longer relevant
-
-Notes move is part of Govt.'s broader reform agenda to rationalise State ownership, improve efficiency and allow private sector-led growth
-
-Industry and Entrepreneurship Development Minister Sunil Handunneththi last Friday asserted that the Government’s primary role is to create a conducive environment for businesses to thrive, rather than directly managing enterprises.
-
-Speaking at the 35th Annual General Meeting of the Sri Lanka Tea Factory Owners’ Association, he outlined plans to liquidate 33 State-owned enterprises (SOEs) deemed non-functional, underscoring the administration’s focus on reducing the financial burden on taxpayers, while encouraging private sector growth.
-
-...
-
-[Data](articles/00c399c9.json)
-
-[Extended Data](ext_articles/00c399c9.ext.json)
-
----
-
-### Immigration Department sees revenue surge amid passport service expansion
-
-*2025-09-15 03:41:01* · [`dailyftlk`](https://www.ft.lk/business/Immigration-Department-sees-revenue-surge-amid-passport-service-expansion/34-781685) · `en`
-
-Deputy Controller General Mahesh Karunadasa attributes growth to Department’s efficiency in issuing passports
-
-Issues around 1,500-2,000 one-day passports and 1,000 normal service passports daily
-
-Department of Immigration and Emigration Deputy Controller General Mahesh Karunadasa
-
-The Department of Immigration and Emigration has seen a significant increase in monthly revenue, now ranging between Rs. 3 billion and Rs. 5 billion, thanks to enhanced passport services.
-
-Speaking to the media, Deputy Controller General Mahesh Karunadasa attributed the growth to the department’s efficiency in issuing passports.
-
-“Within four hours, we now provide one-day service passports, issuing around 1,500-2,000 daily. Through the normal service, around 1,000 passports are issued each day,” he explained.
-
-Karunadasa said depending on the demand the total daily output ranges between 4,000-5,000 passports.
-
-...
-
-[Data](articles/25409b87.json)
-
-[Extended Data](ext_articles/25409b87.ext.json)
-
----
-
-### Brantel ups Resus Energy stake
-
-*2025-09-15 03:38:56* · [`dailyftlk`](https://www.ft.lk/business/Brantel-ups-Resus-Energy-stake/34-781684) · `en`
-
-Brantel Lanka Ltd. has increased its stake in Resus Energy PLC to 10% after purchasing over 5 million shares ranging between Rs. 42 and Rs. 42.10 a share for an estimated Rs. 214 million.
-
-Resus Energy reported a net asset per share of Rs. 29.92 in the June 2025 quarter.
-
-Resus Energy’s major shareholders are private equity firm Trydan Partners Ltd., (32.54%) and ACL Cables PLC (32.53%).
-
-◼️
-
-[Data](articles/8769b2db.json)
-
-[Extended Data](ext_articles/8769b2db.ext.json)
-
----
-
-### Third round of Sri Lanka-Philippines political consultations concludes in Colombo
-
-*2025-09-15 03:37:59* · [`dailyftlk`](https://www.ft.lk/news/Thirdround-of-Sri-Lanka-Philippines-political-consultations-concludes-in-Colombo/56-781683) · `en`
-
-The third round of political consultations between Sri Lanka and the Republic of the Philippines was successfully concluded in Colombo on 12 September.
-
-Delivering the opening remarks, Foreign Affairs, Foreign Employment and Tourism Ministry Secretary Aruni Ranaraja highlighted the need to expand and strengthen the warm and friendly relations that exist between the two countries. She expressed hope that the Philippines would consider re-opening the resident Mission of the Philippines in Colombo, particularly in view of the 65th anniversary of diplomatic relations that takes place in 2026.
-
-She further expressed that Sri Lanka looks forward to working closely with the Philippines as they undertake the forthcoming chairmanship of the Association of Southeast Asian Nations (ASEAN).
-
-...
-
-[Data](articles/5381416c.json)
-
-[Extended Data](ext_articles/5381416c.ext.json)
-
----
-
-### Sri Lanka joins Commonwealth countries in backing new strategic plan for shared prosperity
-
-*2025-09-15 03:35:03* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-joins-Commonwealth-countries-in-backing-new-strategic-plan-for-shared-prosperity/56-781682) · `en`
-
-Commonwealth High Commissioners, including representatives from Sri Lanka, have approved a five-year strategic plan for the Commonwealth Secretariat to deliver focused support for the 2.7 billion people it serves.
-
-To set the stage for a new era of effective results, the Secretariat developed its strategic plan covering the period 2025 to 2030, after extensive consultations with member countries, sister and accredited organisations, development partners, staff members and other stakeholders.
-
-Early in her tenure in April 2025, Commonwealth Secretary-General Shirley Botchwey outlined a bold and ambitious vision for the Secretariat, the executive arm of the 56-member association.
-
-The new strategic plan will make the Commonwealth more focused, strategic and impactful in its delivery for the benefit of the people and planet it is mandated to serve.
-
-...
-
-[Data](articles/1ea97cb4.json)
-
-[Extended Data](ext_articles/1ea97cb4.ext.json)
-
----
-
-### Repeal of Presidents’ Entitlements Act: Reform or retrospective punishment?
-
-*2025-09-15 01:55:08* · [`dailyftlk`](https://www.ft.lk/columns/Repeal-of-Presidents-Entitlements-Act-Reform-or-retrospective-punishment/4-781649) · `en`
-
-In considering the repeal of the Presidents’ Entitlements Act, the nation must weigh the difference between cutting extravagance and eroding respect. Historical judgment is unforgiving, and societies are often remembered not just for their policies but for their treatment of those who served them at great personal cost. Stripping entitlements retroactively, however well-intentioned, risks leaving a record of pettiness rather than prudence
-
-In recent months, the repeal of Sri Lanka’s Presidents’ Entitlements Act has sparked intense debate across political and social circles. At first glance, the move seems a demonstration of fiscal prudence—a government taking decisive steps to curb what many perceive as excessive privileges.
-
-...
-
-[Data](articles/b08499d7.json)
-
-[Extended Data](ext_articles/b08499d7.ext.json)
-
----
-
-### Independent central bank is for citizens and not for politicians
-
-*2025-09-15 01:33:43* · [`dailyftlk`](https://www.ft.lk/columns/Independent-central-bank-is-for-citizens-and-not-for-politicians/4-781647) · `en`
-
-Three years ago, in 2022, inflation as measured by the Colombo Consumers’ Price Index or CCPI was running on average at about 63% and the official exchange rate was unstable with a lucrative black market for foreign currencies. All indications were that Sri Lanka, unless proper policies would be adopted, would descend to a basket case like Lebanon. This did not happen because the central bank’s management, with financial as well as policy support of the International Monetary Fund or IMF, was able to tame the rising inflation and keep the exchange rate at a stable level
-
-In a recent talk show titled ‘Modern Talk’ hosted by Channel 7 television, successor to the former YA Television, the young talk show hostess Nimna Perera asked me whether the current central bank management had been doing its job properly in managing the economy.1
-
-...
-
-[Data](articles/d4c5a810.json)
-
-[Extended Data](ext_articles/d4c5a810.ext.json)
-
----
-
-### Case of “unknowns” hijacking isolated protests with “anti-corruption” rhetoric
-
-*2025-09-15 01:01:47* · [`dailyftlk`](https://www.ft.lk/columns/Case-of-unknowns-hijacking-isolated-protests-with-anti-corruption-rhetoric/4-781645) · `en`
-
-Both students in Bangla and youth in Nepal were ultimately represented by small groups the military accepted and were projected as instruments of change
-
-In Bangladesh and in Nepal, though with commonalities in the initial “leaderless” single issue protests, establishing a new rule was different to Sri Lanka and remains unconstitutional too. From nowhere a few youth in Bangladesh claiming to represent the university student protest and accepted as such by the military usurped the right to nominate Muhammud Yunus, the former head of the Grameen Bank as interim PM. He was in self-exile in France, and there were no indications of any discussions and dialogue among students and protesting groups, on who should head the interim government and how it should be constituted
-
-...
-
-[Data](articles/8ddc5d12.json)
-
-[Extended Data](ext_articles/8ddc5d12.ext.json)
-
----
-
-### Ranil Wickremesinghe, who brought the country on the right path - Vajira Abeywardena
-
-*2025-09-15 00:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225088) · `ta`
-
-The entire nation must be honored with former President Ranil Wickremesinghe for protecting our country from that situation and taking it on the right path.. United National Party (UNP) Chairman Vajira Abeywardena said that sowing jealousy and hatred in the hearts of the people could not benefit Sri Lanka.
-
-We know about the tragic situation that took place last week in Nepal. The same incident took place in our country 3 years ago. When the situation returns to the serious state, Ranil Wickremesinghe, the Prime Minister of our country, quickly took steps to stop the burning of others after his home was burnt.
-
-So the entire nation must be honored with Ranil Wickremesinghe, who protected our country from that situation and brought it on the right path.. Causing problems is the highlight of a democratic community. It must be remembered that controlling them is a highlight of a democratic society.
-
-...
-
-[Data](articles/3da60533.json)
-
-[Extended Data](ext_articles/3da60533.ext.json)
-
----
-
-### President of the Central Bus Stand in Pettah Fort
-
-*2025-09-15 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225087) · `ta`
-
-The development work of the Central Bus Stand, Pettah Central Bus Stand, will be launched on Sunday (14) by President Anura Kumara Dissanayake.
-
-424 million rupees has been allocated for the full development of the Central Bus Stand after 60 years.. The development work is scheduled to be completed before the New Year New Year.
-
-Similarly, the development work of the Maradana Railway Station will be officially launched by President Anura Kumara Dissanayake at 11 am today under the dream target of modernizing 100 railway stations.
-
-With Sri Lanka's main transport media, it is expected to protect the heritage of the Maradana Railway Station and to improve the infrastructure of the Public Passengers, and to modernize the role of the private sector under the dream target.
-
-424 million has been allocated for this.. He said that the bus station will be included in the bus station, including the restroom, the Technical Information Division and the Safety Division, and the sanitation facilities.
-
-...
-
-[Data](articles/e84e6803.json)
-
-[Extended Data](ext_articles/e84e6803.ext.json)
-
----
-
-### Three youth arrested with heroin in Jaffna
-
-*2025-09-15 00:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225086) · `ta`
-
-Three youths have been arrested on Sunday (14) with 530 milligrams of heroin in the Jaffna - Thirunagar area.
-
-The arrest was carried out by the Jaffna Police Station Drug Prevention Unit of confidential information received by the Police Intelligence Unit under the Jaffna District Senior Superintendent of Police.
-
-Police are taking steps to bring the suspects in court after investigations.
-
-◼️
-
-[Data](articles/194e81df.json)
-
-[Extended Data](ext_articles/194e81df.ext.json)
-
----
-
-### India won Pakistan by 7 wickets
-
-*2025-09-15 00:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225085) · `ta`
-
-The Indian team won Pakistan by 7 wickets in the 20th cricket match of the Asia Cup on Sunday, the 14th.
-
-The match was held in Dubai in Dubai as a team A match, and Pakistan were able to score only 127 runs for the loss of 9 wickets in 20 overs.
-
-Accordingly, the Indian team scored 128 runs and scored 131 runs for the loss of 3 wickets in the 16 (15.5) overs of the match.
-
-With this victory, the Indian team, which won the two matches played, continues to lead the list.
-
-With today's victory, India have won the last three T20 matches against Pakistan.
-
-◼️
-
-[Data](articles/9b4c81f9.json)
-
-[Extended Data](ext_articles/9b4c81f9.ext.json)
-
----
-
-### 2025-09-14 (Sunday)
-
-### India beat Pakistan
-
-*2025-09-14 23:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214574) · `si`
-
-India beat Pakistani, defeated the Pakistan won the Ven.
-
-Batting first, Pakistan won only 127 runs in the 20 overs.
-
-Chasing a target of 128 runs, the Indian team scored 131 runs in the final and scored 131 runs in the final.
-
-The Indian team has survived both of the matches played with this winter.
-
-◼️
-
-[Data](articles/eabaf1db.json)
-
-[Extended Data](ext_articles/eabaf1db.ext.json)
-
----
-
-### Sigiriya mirror walls arrest
-
-*2025-09-14 23:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214573) · `si`
-
-The Sigiriya Police have arrested a crucified girl today to damage the mirror wall of a world heritage.
-
-A 21 year old resident of Avissawella, a 21 year old resident of the Avissawella area, was carried out when she visited Sigiriya.
-
-◼️
-
-[Data](articles/fcefb56f.json)
-
-[Extended Data](ext_articles/fcefb56f.ext.json)
-
----
-
-### Explosion from suspected gas leak kills 1 person and injures 25 in Madrid
-
-*2025-09-14 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112498/explosion-from-suspected-gas-leak-kills-1-person-and-injures-25-in-madrid) · `en`
-
-A suspected gas leak explosion in a building in Madrid killed one person and injured 25, emergency services for the Spanish capital said on Sunday.
-
-Rescue workers found the body of a man in a rescue operation with search dogs following the explosion on Saturday, authorities said.
-
-Spanish news agency EFE said that firefighters suspect that the explosion was caused by a gas leak, but police were still investigating its cause.
-
-Firefighter chief Javier Romero said that firefighters pulled four people from the rubble after the explosion occurred at around 3 p.m. Saturday on the ground floor of a three-story building. He said that the blast damaged a cafe, a store and other properties.
-
-◼️
-
-[Data](articles/128ee55e.json)
-
-[Extended Data](ext_articles/128ee55e.ext.json)
-
----
-
-### Sandener of drugs around Mirigama arrested
-
-*2025-09-14 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214572) · `si`
-
-One of the suspects were raided and arrested with drugs and weapons during a reflection conducted by Western Provincial intelligence today (14).
-
-The arrested person is the man who had the journalist and said that he was 28 years of resident of the Kalliya area.
-
-In collaboration with the officers of Pallewela Police Station, 300 grams of ice, electronic measure, toy pistol, a multiple-shaped pisses, a multiple-shaped pisses, Rs.. 46,060, three mobile phones and a tap computer was taken into custody.
-
-Police say that the value of ice drugs and heroin was Rs. 75 lakhs.
-
-It has been revealed that the drug trafficking has been carried out with a person who is hiding in Dubai connected to drug traffickers.
-
-Gemunu is a resident of Havarigama and the police have been arrested and produced before the court on several occasions in Sri Lanka before flementing the wave of drugs.
-
-◼️
-
-[Data](articles/636cfce0.json)
-
-[Extended Data](ext_articles/636cfce0.ext.json)
-
----
-
-### MP's vehicle crashed into a car
-
-*2025-09-14 21:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/எம்-பியின்-வாகனம்-காருடன்-மோதி-விபத்து-எம்-பி-படுகாயம்/73-364587) · `ta`
-
-The vehicle of the Batticaloa Tamil National Alliance (TNA) parliamentarian Gnanamuthu Srinesan has been admitted to the Madhu Teaching Hospital after a parliamentarian crashed into a car with a car in Kaluwangsikudi area this afternoon.
-
-A car near the Kaluwanchikudi Divisional Secretariat was hit by a parliamentarian's vehicle while traveling to Batticaloa at 4.00 pm.
-
-The parliamentarian who was traveling in the Batticaloa Teaching Hospital was admitted to the Ambulance Car and was admitted to the Ambulance Unit.
-
-◼️
-
-[Data](articles/566d4d67.json)
-
-[Extended Data](ext_articles/566d4d67.ext.json)
-
----
-
-### Govt urged to provide solution to shortage of Keeri Samba
-
-*2025-09-14 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112497/govt-urged-to-provide-solution-to-shortage-of-keeri-samba) · `en`
-
-Rice wholesalers in Pettah say that they are refraining from selling Keeri Samba rice because rice producers are supplying it to them at a price exceeding the control price of Rs. 260.
-
-In view of this situation, retailers are also refraining from selling Keeri Samba rice.
-
-Therefore, the United Rice Producers’ Association says it is requesting the government to remove the maximum retail price imposed on Samba and Keeri Samba rice.
-
-However, the Sri Lanka Small and Medium Scale Paddy Mill Owners’ Association is requesting that no steps be taken to remove the maximum retail price of rice as they claim that large-scale rice mill owners are trying to create an artificial shortage of rice and gain profits.
-
-Meanwhile, the National Farmers’ Union says that the government should intervene immediately and provide solutions to this issue.
-
-◼️
-
-[Data](articles/d9a6b260.json)
-
-[Extended Data](ext_articles/d9a6b260.ext.json)
-
----
-
-### 6 months to animal census
-
-*2025-09-14 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214571) · `si`
-
-The farmers around Kataragama say that they are suffering from monkeys, but the monkeys and strikes have been severely affected by the monkeys and strips.
-
-The cotton shows that the pilgrims of the sacred exaltation of monkeys and rich in the rapidly breeding devotees.
-
-A large number of people will arrive at Kataragama daily for the purpose of Ruhunu Maha Kataragama Devalaya and Kirihehehe.
-
-They are a big problem not only for their sacrifices and the remaining foods.
-
-They point out that these monkeys and fast breeding have been doubled due to the problem.
-
-During the recent past, the animals have been launched a systematic program to release these animals to Yala National Park.
-
-Moreover, hundreds of thousands of iron celebrations have been decomposed by the use of hundreds of thousands of people to use these animals.
-
-The people who live in the villages in the surrounding villages have severely affected the people who live farming.
-
-...
-
-[Data](articles/a48edc55.json)
-
-[Extended Data](ext_articles/a48edc55.ext.json)
-
----
-
-### Independent Central Bank Is For Citizens & Not For Politicians
-
-*2025-09-14 21:11:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/independent-central-bank-is-for-citizens-not-for-politicians/) · `en`
-
-In a recent talk show titled ‘Modern Talk’ hosted by Channel 7 television, successor to the former YA Television, the young talk show hostess Nimna Perera asked me whether the current central bank management had been doing its job properly in managing the economy.[1]
-
-As a journalist, she was voicing the sentiments of the public openly in that talk show. There should not be objection to this approach because that is the duty of an anchor-woman by her viewers. In answering her question, I summarily told her that the central bank is an independent organisation as mandated by the new Central Bank of Sri Lanka Act or CBA and, under the mandate given to it by the new legislation, it is doing perfectly well in taming inflation and restoring the stability of the exchange rate. However, it requires further elaboration.
-
-...
-
-[Data](articles/55c472fe.json)
-
-[Extended Data](ext_articles/55c472fe.ext.json)
-
----
-
-### Corruption and fraud within the government will not be retreated in legal action - Minister Samantha Vidyaratne
-
-*2025-09-14 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225084) · `ta`
-
-Corruption and fraud within the government are not going to back down on their actions. Investigations are being carried out on the release of container. Minister Samantha Vidyaratne said that the law will be implemented properly, no matter who fails to do so.
-
-He further stated that he was speaking to the media after attending an event in Colombo on Saturday (13).
-
-Drugs are not completely eradicated. We are currently taking the initial blow. Can travel until the end. The actual surroundings of justice have just begun. In the past, actions were carried out only for a particular community. But now the law is being implemented equally.
-
-...
-
-[Data](articles/96506e2e.json)
-
-[Extended Data](ext_articles/96506e2e.ext.json)
-
----
-
-### Ricky Hatton dies former World Boxing Championship
-
-*2025-09-14 20:35:01* · [`adalk`](https://www.ada.lk/sports/හිටපු-ලෝක-බොක්සිං-ශූර-රිකී-හැටන්-මිය-යයි/9-418493) · `si`
-
-Former World Boxing Champion Ricky Hatton has died in 46 years. Police said the 46-year-old man was found dead at his home in the Hyde of Tymside, Mancheside. Police say his death is not suspicious.
-
-◼️
-
-[Data](articles/f42bcbde.json)
-
-[Extended Data](ext_articles/f42bcbde.ext.json)
 
 ---

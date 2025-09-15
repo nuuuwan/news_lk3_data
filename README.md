@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-15 19:11:33**
+As of **2025-09-15 21:07:30**
 
 ## Newspaper Stats
 
-*Scraped **76,133** Articles*
+*Scraped **76,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,225 @@ economynextcom | 4,613
 islandlk | 4,680
 dailymirrorlk | 4,733
 dailyftlk | 5,389
-adalk | 7,388
-adaderanalk | 9,801
+adalk | 7,392
+adaderanalk | 9,804
 tamilmirrorlk | 11,396
-virakesarilk | 12,406
-adaderanasinhalalk | 13,286
+virakesarilk | 12,410
+adaderanasinhalalk | 13,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,198 (94.8%) of 76,133 articles have been extended.
+72,324 (95.0%) of 76,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-15 (Monday)
 
-### පස්දේවා රඳවාගෙන ප්‍රශ්න කරන බව පොලීසිය අධිකරණයට දැනුම්දෙයි
+### ගින්නකින් මැනිලා නුවර පැල්පත් නිවාස දහසක් වැනසේ
 
-*2025-09-15 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214609) · `si`
+*2025-09-15 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214611) · `si`
 
-අත්අඩංගුවේ පසුවන කෙහෙල්බද්දර පද්මේ නමැත්තාගේ සමීපතමයකු බව කියන දිසානායක දේවගේ දිසානායක නොහොත් "පස්දේවා" නමැත්තා ආරක්ෂක ලේකම්වරයාගේ නියෝගයක් මත ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර පළාත් උතුර අපරාධ කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුනි.
+පිලිපීනයේ මැනිලා අගනුවර ඇති වූ ගින්නකින් පැල්පත් නිවාස දහසකට වැඩි සංඛ්‍යාවක් වැනසී ඒවායේ වාසය කළ දහස් සංඛ්‍යාත පිරිසක් අවතැන්වී තිබේ.
 
-ඒ අනුව අදාළ සැකකරු දින 90ක් කාලයක් රඳවාගෙන ප්‍රශ්න කරන බවත් එම කොට්ඨාසය විසින් කොළඹ අතිරේක මහෙස්ත්‍රාත් එච්.ඩී.ඩී.ජේ ප්‍රේමරත්න මහත්මිය වෙත දැනුම් දී තිබේ.
+පැය 10කට ආසන්න කාලයක් සිදුකළ දැවැන්ත මෙහෙයුමකින් අනතුරුව ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
 
-පොලීසිය අධිකරණය හමුවේ කරුණු දක්වමින් "පස්දේවා" නැමැති සැකකරු අත්අඩංගුවට ගැනීමෙන් පසු ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී කෙහෙල්බද්දර පද්මෙ නමැත්තාට අයත්ව තිබූ හෝටලයකින් මත්ද්‍රව්‍ය ග්‍රෑම් 440ක් හා ජීව උණ්ඩ කීපයක් සොයාගත් බව සඳහන් කළේය.
+පිලිපීනයේ මැනිලා අගනුවර තදාසන්න කලාපයක පිහිටි පැල්පත් නිවාස දහස් ගණනක් ගින්නකට හසුව විනාශ වී තිබේ.
 
-මෙම සැකකාරු අත්අඩංගුවට ගත් අවස්ථාවේදී කෙහෙල්බද්දර පද්මේ නැමැත්තා විදෙස්ගතව සිට ඇති බවද පොලීසිය විසින් සඳහන් කළ අතර මෙම සැකකරු අත්අඩංගුවට ගැනීමේ තොරතුරු ආරංචි වී කෙහෙල් බද්දර පද්මේ නැමැත්තා කෝපයට පත්ව දුරකතන මගින්  ප්‍රධාන පොලිස් පරීක්ෂක ලින්ටන් සිල්වා මහතාට තර්ජනය කර තිබෙන බවත් සඳහන් කර සිටියේය.
+මේ අනුව නිවාස 1100ක් පමණ වැනසී ගොස් ඇති අතර, දහස් සංඛ්‍යාත ජනතාවක් අවතැන් වී ඇතැයි ද විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+එරට වේලාවෙන් ඊයේ රාත්‍රියේ හටගත් ගින්න නිවාදැමීම අසීරු වී ඇත්තේ එය වේගයෙන් ව්‍යාප්ත වීම හේතුවෙන්ය.
+
+ගිනි නිවන රථ රැසක් යොදවා ගින්න නිවාදැමීමට බලධාරීන්ට හැකිව තිබුණේ අද අලුයමයි.
+
+ගින්න හේතුවෙන් අවතැන් වූ පිරිස් මේ වනවිට රජයේ පාසල් සහ රජයේ කාර්යාල වෙත යොමුකර තිබේ.
+
+මැනිලා නුවර පැල්පත් නිවාස පිහිටි කලාප රැසක් ඇති අතර, එම කලාපවල මෙවන් බරපතළ අනතුරු සිදුවූ අවස්ථා රැසක්ම පසුගිය කාලයේදී වාර්තා වුණි.
+
+◼️
+
+[Data](articles/71ac56d3.json)
+
+---
+
+### Clean Sri Lanka  வேலைத்திட்டத்தின் கீழ், மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஆரம்பம்
+
+*2025-09-15 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225176) · `ta`
+
+Clean Sri Lanka வேலைத்திட்டத்துடன் இணைந்த வகையில், Dream Destination திட்டத்தின் கீழ் மருதானை புகையிரத நிலையத்தை நவீனமயமாக்கும் திட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் திங்கட்கிழமை (15) முற்பகல் ஆரம்பித்து வைக்கப்பட்டது.
+
+" வளமான நாடு - அழகான வாழ்க்கை" உருவாக்கும் அரசாங்கத்தின் திட்டத்தின் படி நிலைபேறான, நவீன மற்றும் தரப்படுத்தப்பட்ட பொது போக்குவரத்து கட்டமைப்புடன் கூடிய அழகான வாழ்க்கை முறையை அடைவதற்காக, புகையிரத நிலையங்களில் பொது வசதிகளை மேம்படுத்தல், புகையிரத நிலையங்களை வசதியான மற்றும் பாதுகாப்பான இடங்களாக மாற்றும் நோக்கத்துடன், போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சு மற்றும் Clean Sri Lanka  வேலைத்திட்டம், அரச-தனியார் பங்களிப்பின் கீழ் நாட்டில் நூறு புகையிரத நிலையங்களை நவீனமயமாக்கும் தேசிய திட்டம் தொடங்கப்பட்டுள்ளது.
+
+விசேட தேவைகள் உள்ள சமூகம் உட்பட அனைத்துப் பயணிகளுக்கும் பாதுகாப்பு மற்றும் வசதியை வழங்கும் சுத்தமான, அழகான புகையிரத நிலைய கட்டமைப்பை நாட்டில் உருவாக்குவதை இந்த திட்டம் நோக்கமாகக் கொண்டுள்ளது.
 
 ...
 
+[Data](articles/0273543b.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2025-09-15 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214610) · `si`
+
+Sri Lanka is the second match of the Asia Cup Twenty20 cricket match today (15) with Hong Kong team.
+
+Accordingly, the captain of the Sri Lankan team has invited the Hong Kong group to bat first.
+
+This is the first time Sri Lanka and Hong Kong will meet each other on the international cricket.
+
+However, Sri Lanka won the first match against Bangladesh by six wickets in the first match of the tournament.
+
+◼️
+
+[Data](articles/b4d0f615.json)
+
+[Extended Data](ext_articles/b4d0f615.ext.json)
+
+---
+
+### பாராளுமன்றில் வலுக்கட்டாயமாக எதிர்க்கட்சியின் வாயை மூடச் செய்யும் நடவடிக்கைகள் முன்னெடுக்கப்படுகின்றன - எதிர்க்கட்சித் தலைவர் சஜித்
+
+*2025-09-15 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225175) · `ta`
+
+மக்கள் பிரச்சினைகளைக் கேட்டறிந்து நடைமுறை ரீதியான பதில்களை பெற்றுக் கொடுக்கும் பணியையே அரசாங்கம் முன்னெடுக்க வேண்டும். தீர்வுகளை வழங்கும் யுகத்துக்கு மாறாக எதிர்க்கட்சியின் குரலை அடக்கும், பொய்யான கதைகளை முன்வைக்கும் யுகமே தற்சமயம் காணப்படுகின்றது என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+எதிர்க்கட்சித் தலைவரின் நடமாடும் சேவையின் கீழ், அநுராதபுரம் மாவட்டம், மதவாச்சி மற்றும் கெபித்திகொல்லாவ பிரதேச விவசாயிகள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பில் ஆராய திங்கட்கிழமை (15) மதவாச்சி பிரதேசத்திற்கு விஜயம் செய்தபோதே, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+
+தற்போது, பாராளுமன்றத்தில் பொது மக்கள் எதிர்நோக்கும் பிரச்சினைகளை முன்வைப்பதற்கான சந்தர்ப்பங்கள் குறைக்கப்பட்டுள்ளன. மக்களின் பிரச்சனைகளை சுட்டிக்காட்டப்படும்போது, ஒலிவாங்கியைத் துண்டிக்கும் நிலைக்கு  அரசாங்கம் வந்துள்ளது. எதிர்க்கட்சித் தலைவராக, நானும் எதிர்க்கட்சியைச் சேர்ந்த சக உறுப்பினர்களும் தனிப்பட்ட விடயங்களை வெளிப்படுத்துவதை விடுத்து, மக்கள் பிரச்சினைகளை முன்வைப்பதற்காகவே எழுந்து நிற்கிறோம்.
+
+...
+
+[Data](articles/322bbfe8.json)
+
+---
+
+### புதுக்குடியிருப்பில் மான் இறைச்சியுடன் ஒருவர் கைது
+
+*2025-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225174) · `ta`
+
+முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட கைவேலியை பகுதியை சேர்ந்த நபர் ஒருவர் மான் இறைச்சியுடன் 15ஆம் திகதி திங்கட்கிழமை புதுக்குடியிருப்பு பொலிசாரால் கைது செய்யப்பட்டுள்ளார்.
+
+முல்லைத்தீவு மாவட்ட புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசியத் தகவலின் அடிப்படையில் கைவேலி பகுதியில் நடத்தப்பட்ட விஷேட சோதனை நடவடிக்கையில் 3 கிலோ கிராம் மான் இறைச்சி உடமையில் வைத்திருந்த குற்றச்சாட்டில் கைவேலி பகுதியினை சேர்ந்த 40 வயதுடைய நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட நபர் விசாரணைகளின் பின்னர் 16ஆம் திகதி செவ்வாய்க்கிழமை முல்லைத்தீவு நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/467df8aa.json)
+
+---
+
+### මාගම්පුර වරාය කළමනාකරණ සමාගම ලබාගත් ඩොලර් ණයක් නොගෙවලා
+
+*2025-09-15 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/මාගම්පුර-වරාය-කළමනාකරණ-සමාගම-ලබාගත්-ඩොලර්-ණයක්-නොගෙවලා/11-418511) · `si`
+
+මාගම්පුර වරාය කළමනාකරණ සමාගම මගින් පෞද්ගලික බැංකුවකින් ලබාගත් ණය නොගෙවීම සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභා‍වේදී (කෝප්) දීර්ඝවශයෙන් සාකච්ඡා කිරීමෙන් අනතුරුව ඒ වෙනුවෙන් ගත යුතු නිර්දේශ නිකුත් කිරීම සිදු විය.
+
+මෙම නිර්දේශ නිකුත් කිරීම සිදු වූයේ ශ්‍රී ලංකා වරාය අධිකාරියේ 2022, 2023 වර්ෂයන්හි විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගිය 10 වැනි දා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+...
+
+[Data](articles/b7badceb.json)
+
+---
+
+### විදුලි පනත සංශෝධනය නොකළානම් සේවකයන් 12000කගේ රැකියා අනතුරේ
+
+*2025-09-15 19:13:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පනත-සංශෝධනය-නොකළානම්-සේවකයන්-12000කගේ-රැකියා-අනතුරේ/11-418510) · `si`
+
+"පසුගිය රනිල්-රාජපක්ෂ රජය විදුලිබල ක්ෂේත්‍රය පුද්ගලිකකරණ වැඩපිළිවෙලක් හරහා විශේෂයෙන්ම සේවක වරප්‍රසාද, අයිතිවාසිකම් සම්බන්ධයෙන් සැලකිල්ලක් දක්වන්නෙ නැතුව ක්‍රියාත්මක කරපු වැඩ පිළිවෙල අපි පරාජය කළා විතරක් නෙවෙයි, ආපසු හැරෙව්වා.ඒ වගේම බලශක්ති ක්ෂේත්‍රයේ රාජ්‍ය හිමිකාරීත්වය තහවුරු කළා.
+
+රටේ සංවර්ධන ඉලක්ක සමග සමගාමීව විදුලිබල ක්ෂේත්‍රය සංවර්ධනය කරන්න අවශ්‍ය ව්‍යුහාත්මක වෙනස්කම් කරමින් 100%ක් පූර්ණ රාජ්‍ය හිමිකාරීත්වය තියෙන ආයතන පිහිටුවා අවසන්. ඒ අනුව සැළසුම් කළ පරිදි ඒ වැඩපිළිවෙල ඉදිරියට යනවා“ යනුවෙන් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා අද (15) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක් වෙමින් ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/73aea13b.json)
+
+---
+
+### Police informed the court that Padamawa is detained and interrogation
+
+*2025-09-15 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214609) · `si`
+
+The Western Provincial Council Magistrate's Court informed the Colombo Magistrate's Court that Dissanayake's Deva Dissanayake, who is a close association of Kehelbaddara Padma.
+
+Accordingly, the suspect is detained and interrogated by additional Magistrate HDJ Prevenittra.
+
+The police said that after the arrest of the suspect, "Pasyawa 'was taken by the suspect, he said he had found 440 g of drugs and a number of living bullets.
+
+The police stated that the suspects were abroad to arrest the suspect, said the suspect had been abroad and became angry and angry with the Telephone Chief Inspector General Inspector Lynton Silva.
+
+The suspect was conducting a wider investigation into the crimes committed by the suspect under the operation of Kehel Bedma Padma.
+
+After considering the submissions, the police stipulated to the police to report to court in the future.
+
+◼️
+
 [Data](articles/49876ce9.json)
+
+[Extended Data](ext_articles/49876ce9.ext.json)
+
+---
+
+### அரிசிக்கான கட்டுப்பாட்டு விலை வர்த்தமானியில் திருத்தம் மேற்கொள்ளப்போவதில்லை - நுகர்வோர் அதிகாரசபையின் தலைவர் ஹேமன்த சமரகோன்
+
+*2025-09-15 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225173) · `ta`
+
+சந்தையில் ஏற்பட்டுள்ள கீரி  சம்பா மற்றும் சம்பா அரிசிக்கான தட்டுப்பாட்டை  காரணமாகக்கொண்டு அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயித்து விடுக்கப்பட்டுள்ள  வர்த்தமானி அறிவிப்பில் திருத்தத்தம் மேற்கொள்ள எண்ணம் இல்லை என நுகர்வோர் நடவடிக்கை தொடர்பான அதிகார சபையின் தலைவர் ஹேமன்த சமரகோன் தெரிவித்தார்.
+
+சந்தையில் கீரி மற்றும்  சம்பா அரிசிக்கு ஏற்பட்டுள்ள தட்டுப்பாடு தொடர்பாக கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+கீரி சம்பா மற்றும் சம்பா அரிசிக்கு சந்தையில் தட்டுப்பாடு நிலவி வருவது தொடர்பான தகவல் நுகர்வோர் நடவடிக்கை தொடர்பான அதிகார சபைக்கு கிடைத்திருந்தது. இதுதொடர்பில் தேடிப்பாத்தபோது, அவ்வாறு அரிசி தட்டுப்பாடு தொடர்பில் அதிகாரசபைக்கு தகவல் கிடைத்தது.
+
+என்றாலும் வர்த்தமானி அறிவிப்பொன்றின் மூலம் அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயிக்கப்பட்டுள்ளது. அந்த விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்தால், நடைமுறையில் உள்ள சட்டத்தின் கீழ் தேவையான சட்ட நடவடிக்கை மேற்கொள்ள அதிகாரசபை நடவடிக்கை எடுத்துள்ளது.
+
+...
+
+[Data](articles/4c0984f6.json)
+
+---
+
+### China opposes U.S. demand for tariffs on China over Russian oil purchase
+
+*2025-09-15 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112535/china-opposes-us-demand-for-tariffs-on-china-over-russian-oil-purchase) · `en`
+
+China firmly opposes a U.S. demand that Group of Seven (G7) and North Atlantic Treaty Organization (NATO) countries impose tariffs of 50 to 100 percent on China due to the country’s purchase of Russian oil, a spokesperson for the Ministry of Commerce said Monday.
+
+In response to a media query, the spokesperson said China has always opposed trade and economic restrictions against China under the pretext of so-called “Russia-related” issues.
+
+The U.S. attempt to coerce relevant parties into imposing “secondary tariffs” on China over its purchase of Russian oil is a typical act of unilateral bullying and economic coercion, the spokesperson noted.
+
+Such a move seriously violates the consensus reached during a phone call between the two heads of state and could severely impact global trade and disrupt the stability of industrial and supply chains, the spokesperson added.
+
+...
+
+[Data](articles/e790e238.json)
+
+[Extended Data](ext_articles/e790e238.ext.json)
+
+---
+
+### Four invasive ornamental fish species banned by Fisheries Ministry
+
+*2025-09-15 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112534/four-invasive-ornamental-fish-species-banned-by-fisheries-ministry) · `en`
+
+A gazette notification has been issued banning the import and sale of four invasive ornamental fish species by the Ministry of Fisheries, Aquatic Resources, and Ocean Resources.
+
+Accordingly, the ban applies to Piranha, Knife Fish, Alligator Gar and Redline Snakehead.
+
+According to the notification, breeding, releasing the fish species into water systems, transporting, purchasing, selling or displaying for sale, possessing, importing and exporting are banned.
+
+The Ministry has stated that the restrictions are only applicable to live fish while catching them from natural water bodies for consumption is permitted, provided that prior approval is obtained from the National Aquaculture Development Authority of Sri Lanka (NAQDA), as stipulated under the Sri Lanka Aquaculture Development Act No. 53 of 1998.
+
+According to the gazette, these fish are defined as ‘invasive species’ since they are capable of rapidly spreading at high population densities and causing harm to other aquatic species.
+
+◼️
+
+[Data](articles/5797338d.json)
+
+[Extended Data](ext_articles/5797338d.ext.json)
 
 ---
 
@@ -87,6 +275,20 @@ According to these orders, "the fisheries species" of the fisheries
 [Data](articles/6848d174.json)
 
 [Extended Data](ext_articles/6848d174.ext.json)
+
+---
+
+### Resource Manampehi ready to be assumed
+
+*2025-09-15 17:57:59* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකරණයට-භාරවීමට-සූදානම්/11-418509) · `si`
+
+The Court of Appeal today (15), his lawyer was asked to arrest the chemicals to be arrested in connection with the discovery of chemicals in the discovery of the chemicals to be arrested.
+
+◼️
+
+[Data](articles/e99ab2c7.json)
+
+[Extended Data](ext_articles/e99ab2c7.ext.json)
 
 ---
 
@@ -200,6 +402,26 @@ Maithripala: I laughed and said, "I am not bringing people."
 
 ---
 
+### Army deployed to contain fire in ‘Nonpareil Reserve’, over 1,000 acres of land destroyed
+
+*2025-09-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112532/army-deployed-to-contain-fire-in-nonpareil-reserve-over-1000-acres-of-land-destroyed) · `en`
+
+Sri Lanka Army personnel have been deployed to help control the forest fire that broke out in the Nonpareil Reserve in Balangoda, according to Ada Derana reporter.
+
+The fire, which has been raging for several days, is reported to have already destroyed over 1,000 acres of land.
+
+Our correspondent stated that the Sri Lanka Army, along with the Disaster Management Unit of the Ratnapura District, is currently engaged in firefighting efforts.
+
+Although strong winds in the area have made it difficult to fully contain the fire, it is reported that some progress has been made in bringing the blaze under control.
+
+◼️
+
+[Data](articles/4934693a.json)
+
+[Extended Data](ext_articles/4934693a.ext.json)
+
+---
+
 ### Warm weather advisory issued for several districts including Colombo
 
 *2025-09-15 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112531/warm-weather-advisory-issued-for-several-districts-including-colombo) · `en`
@@ -263,6 +485,28 @@ The Court of Appeal issued the order after considering the writ petition filed b
 [Data](articles/dd5c6aee.json)
 
 [Extended Data](ext_articles/dd5c6aee.ext.json)
+
+---
+
+### Approval for the Korea Examination begins
+
+*2025-09-15 16:59:06* · [`adalk`](https://www.ada.lk/breaking_news/2025-කොරියා-විභාගයට-ප්‍රවේෂපත්‍ර-නිකුත්-කිරීම-ඇරඹේ/11-418508) · `si`
+
+Issuing Exam Ticketing for the Korean Language Proficiency Ticketing for the Korean Language Proficiency Ticketing for the Korean Products and Fisheries Fields in South Korea.
+
+Registration is available to obtain applications for the examination on the official website of the Sri Lanka Bureau of Foreign Employment www.slbfe.lk
+
+For this year, the year, which is not a cases, unaccepted, unaccepted, or unpredted by the unpredted, or unpredted in the E-9 and E-9 and E-10, including collision, or unpredted by the unpredted in the case of color blindness (2007.09.2007). People who have not been served in South Korea for more than 5.
+
+Application for the Obtain Examination Adverly. The exam cost is Rs. 8,428.40 and the Bank of Ceylon, People's Bank or the National Savings Bank requires the payment receipt. (Cash Account Numbers refer to at www.slbfe.lk)
+
+More information on the issue of this exam and examination tickets can be obtained through the official website of www.slbfe.lk www.slbfe.lk.
+
+◼️
+
+[Data](articles/6eda5a72.json)
+
+[Extended Data](ext_articles/6eda5a72.ext.json)
 
 ---
 
@@ -1807,251 +2051,5 @@ For example, if we take, we cannot go to some countries in the world as a typica
 [Data](articles/e8f003c7.json)
 
 [Extended Data](ext_articles/e8f003c7.ext.json)
-
----
-
-### Boat for Boating in his own firearm
-
-*2025-09-15 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214587) · `si`
-
-In the Radnanara area of ​​the Radnanara area, a person was traveling on a gun in front of his motorcycle and was killed due to the gun.
-
-Initial police investigations have revealed that he had also kept a barrel of barrel to filter an illegal alcohol in addition to the gun.
-
-◼️
-
-[Data](articles/6d8a1033.json)
-
-[Extended Data](ext_articles/6d8a1033.ext.json)
-
----
-
-### Central Bus Stand development begins in Pittu Fort
-
-*2025-09-15 10:52:18* · [`adalk`](https://www.ada.lk/breaking_news/පිට-කොටුව-මධ්‍යම-බස්-නැවතුම්පොළ-සංවර්ධනය-ඇරඹෙයි/11-418499) · `si`
-
-Renovation of Central Bus Stand Central Pettah has commenced a short moum before. Anura Kumara Dissanayake was conducted under the patronage of President Anura Kumara Dissanayake.
-
-424 million for the project. The Colombo Central Bus Stand consisting of modern facilities. The renovation work is to be completed in April next year.
-
-It is significant that the Central Bus Stand will be re-modernized after 60 years.
-
-◼️
-
-[Data](articles/572ebe7b.json)
-
-[Extended Data](ext_articles/572ebe7b.ext.json)
-
----
-
-### Fire in three boats in the Savo Priya River in Bengok
-
-*2025-09-15 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225109) · `ta`
-
-International media reports that three boats in the Bangkok -Sawo Priya River
-
-A fire broke out at a passenger boat that was anchored on the Wat Ratsinkon Ship near the popular tourist atmosphere, Asia, the fire broke out at 6.43 pm yesterday.
-
-Within four minutes of flames spread to two ships nearby, and the boats burning in the fire have fallen in the middle of the river as the ropes that protect the boats have been broken.
-
-◼️
-
-[Data](articles/87bd5e23.json)
-
-[Extended Data](ext_articles/87bd5e23.ext.json)
-
----
-
-### The President started the work of the bus stand in Pettah Fort
-
-*2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-மத்திய-பேருந்து-நிலையத்தின்-புனரமைப்புப்-பணிகள்-ஆரம்பம்/175-364606) · `ta`
-
-The renovation work of the Belikottai bus stand has been officially started under the leadership of President Anura Kumara Dissanayake.
-
-Built in 1964, the bus station has been subjected to large improvements for the first time in 60 years.
-
-The project is expected to cost Rs 424 million. The Central Bus Stand will be constructed with modern facilities, including new toilets, information and communication centers, upgraded security organizations and other major infrastructure improvements aimed at improving the experience of passengers.
-
-◼️
-
-[Data](articles/e3d62ce7.json)
-
-[Extended Data](ext_articles/e3d62ce7.ext.json)
-
----
-
-### The President started the reconstruction work of the bus stand
-
-*2025-09-15 10:50:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-பேருந்து-நிலைய-புனரமைப்புப்-பணிகளை-ஆரம்பித்தார்-ஜனாதிபதி/175-364606) · `ta`
-
-The renovation work of the Belikottai bus stand has been officially started under the leadership of President Anura Kumara Dissanayake.
-
-Built in 1964, the bus station has been subjected to large improvements for the first time in 60 years.
-
-The project is expected to cost Rs 424 million. The Central Bus Stand will be constructed with modern facilities, including new toilets, information and communication centers, upgraded security organizations and other major infrastructure improvements aimed at improving the experience of passengers.
-
-◼️
-
-[Data](articles/f83b93ad.json)
-
-[Extended Data](ext_articles/f83b93ad.ext.json)
-
----
-
-### Ulse in the lifts: leaked views
-
-*2025-09-15 10:49:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிஃப்டுக்குள்-உல்லாசம்-கசிந்த-காட்சிகள்/175-364604) · `ta`
-
-The controversy between famous culinary artist and actor Madhampatti Rangaraj and clothing designer Joy Chrisilda has reached a new twist with the lift photos that are going viral on the Internet.
-
-These photos, which are said to have been close and flirted, have spread on social networks and shocked the public.
-
-This issue has caused a fierce debate in the community focusing on the dual standards of men's community.
-
-Madhampatti Rangaraj first accused Joy of Joy Chrisilda that he was already married to his fame and wealth, knowing that he was already married. ஆனால், ஜாய் தனது தரப்பு நியாயங்களை சமூக வலைதளங்களில் பதிவு செய்த பிறகு, பொதுமக்களின் கருத்து மாறத் தொடங்கியுள்ளது.
-
-Madhampatti Rangaraj first accused Joy of Joy Chrisilda that he was already married to his fame and wealth, knowing that he was already married. But after Joy has recorded his judgment on social networks, the public's opinion has begun to change.
-
-...
-
-[Data](articles/ab1f34f5.json)
-
-[Extended Data](ext_articles/ab1f34f5.ext.json)
-
----
-
-### Former army soldier arrested with elephant tusks in Moragoda
-
-*2025-09-15 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112512/former-army-soldier-arrested-with-elephant-tusks-in-moragoda) · `en`
-
-A retired army soldier was arrested while in possession of a pair of elephant tusks during an operation conducted by officers at the Moragoda Police Station.
-
-The suspect is a 46-year-old retired army soldier from Halmillawewa, Police said.
-
-Following a tip-off received by the Moragoda Police, the pair of elephant tusks were found during an operation conducted in the Halmillawewa area of Moragoda.
-
-The tusks, each about one foot in length, were discovered carefully concealed under a pile of rubble in a paddy field belonging to the suspect, police said.
-
-The pair of elephant tusks were taken into custody by the police and the suspect is scheduled to be produced before the Kahatagasdigiliya Magistrate’s Court today (15).
-
-◼️
-
-[Data](articles/d27fa078.json)
-
-[Extended Data](ext_articles/d27fa078.ext.json)
-
----
-
-### The boy drowned in the water
-
-*2025-09-15 10:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீராடச்-சென்ற-சிறுவன்-நீரில்-மூழ்கி-மரணம்/175-364602) · `ta`
-
-An 11 -year -old boy who was drowned in the Devahuwa reservoir in Galewela area was drowned.
-
-This was the case when the deceased boy went to the reservoir with his father and relatives.
-
-Initial investigations revealed that the relatives and the residents of the area rescued the boy and admitted to the Galewela Hospital.. Remble
-
-◼️
-
-[Data](articles/4e66906e.json)
-
-[Extended Data](ext_articles/4e66906e.ext.json)
-
----
-
-### “Embilipitiya Mines
-
-*2025-09-15 10:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்பிலிப்பிட்டியே-சுரங்க-கக்கினார்-ஈரானியர்கள்-பறந்தனர்/175-364601) · `ta`
-
-The Kalutara Criminal Investigation Department said that suspected equipment, chemicals and a car were seized at a holiday hotel in the Hambantota area suspected to make ice drugs.
-
-These were seized based on information obtained from the "Embilipitiya Mines" which is being investigated by the Prevention of the Kalutara Criminal Investigation Committee.
-
-இந்தோனேசியாவிலிருந்து நாட்டிற்கு கொண்டு வரப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் தொடர்பாக கைது செய்யப்பட்டு விசாரணைக்காக தடுத்து வைக்கப்பட்டுள்ள எம்பிலிப்பிட்டியே சுரங்காவிடம் இருந்து கிடைத்த தகவலின் பேரில் விசாரணைகள் நடத்தப்பட்டன. ​​
-
-According to police, 13 cans of 52 liters of chemicals suspected to have been used to produce ice and several equipment suspected of using ice drugs were found, police said.
-
-A luxury car parked in the restaurant, which is currently registered in the name of an organized criminal gang abroad, has been confiscated, police said.
-
-...
-
-[Data](articles/01a7ee5a.json)
-
-[Extended Data](ext_articles/01a7ee5a.ext.json)
-
----
-
-### Renovation of Pettah Central Bus Stand inaugurated under President’s patronage
-
-*2025-09-15 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112511/renovation-of-pettah-central-bus-stand-inaugurated-under-presidents-patronage) · `en`
-
-The inauguration ceremony for the renovation of the Pettah Central Bus Stand has officially commenced this morning (15).
-
-The event was graced by by President Anura Kumara Dissanayake.
-
-The long-awaited project marks the first major upgrade to the facility since its construction in 1964. The project is estimated to cost Rs. 424 million.
-
-As part of the renovation, modern facilities will be introduced, including new restrooms, information and communication stations, enhanced security systems, and several other improvements aimed at upgrading the overall infrastructure of the bus stand.
-
-◼️
-
-[Data](articles/495c1d7d.json)
-
-[Extended Data](ext_articles/495c1d7d.ext.json)
-
----
-
-### Small gun recovery from the Vienna Canal
-
-*2025-09-15 10:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வியன்னா-கால்வாயில்-இருந்து-சிறிய-துப்பாக்கி-மீட்பு/76-364599) · `ta`
-
-Mahiyanganaya police said that a small amount of gun and overseas -made ammunition were found in the Lokalla Oya Vienna Canal on Sunday evening.
-
-Police have reported that the service number and identity number of the gun has been recorded, and that twelve hole gun bullets, five T-56 bullets and seven 9 mm bullets have been found in a polythene bag.
-
-The guns and ammunition were known as the water was reduced and the bottom of the Vienna Canal was visible.
-
-◼️
-
-[Data](articles/f224a8c7.json)
-
-[Extended Data](ext_articles/f224a8c7.ext.json)
-
----
-
-### Israel intensifies Gaza City bombing as Rubio arrives
-
-*2025-09-15 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112510/israel-intensifies-gaza-city-bombing-as-rubio-arrives) · `en`
-
-Israeli forces destroyed at least 30 residential buildings in Gaza City and forced thousands of people from their homes, Palestinian officials said, as US Secretary of State Marco Rubio arrived on Sunday (Sep 14) to discuss the future of the conflict.
-
-Israel has said it plans to seize the city, where about a million Palestinians have been sheltering, as part of its declared aim of eliminating the militant group Hamas, and has intensified attacks on what it has called the last bastion of the militant Palestinian group.
-
-Hamas’ political leadership, which has engaged in on-and-off negotiations on a possible ceasefire and hostage release deal, was targeted by Israel in an airstrike in Doha on Tuesday in an attack that drew widespread condemnation.
-
-...
-
-[Data](articles/7f513bb9.json)
-
-[Extended Data](ext_articles/7f513bb9.ext.json)
-
----
-
-### Exit the settlers: 1.10 lakh people participated in London: What is the background?
-
-*2025-09-15 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குடியேறிகளே-வெளியேறுங்கள்-லண்டனில்-1-10-லட்சம்-பேர்-பங்கேற்ற-பேரணி-பின்னணி-என்ன/50-364598) · `ta`
-
-About 1.10 lakh people participated in the United Kingdom rally, coordinated by Tommy Robinson, an ardent right -wing activist in London, UK.. A group of people who participated in the rally then clashed with the police.
-
-The rally was held on Saturday from Big Pen to Waterloo, along the banks of the Thames of London. Supporting the rally, the participants chanted against the migrants from abroad and that they were a threat to national identity.
-
-At the same time, anti -racists carried out a protest against Tommy Robinson's rally against fascism. About 5,000 people participated. The conflict erupted when the right -wing supporters tried to block those who protested their rally. The police have then attacked. Bottles have also been thrown towards the police.
-
-...
-
-[Data](articles/4492200f.json)
-
-[Extended Data](ext_articles/4492200f.ext.json)
 
 ---

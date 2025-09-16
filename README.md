@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 16:20:12**
+As of **2025-09-16 16:09:10**
 
 ## Newspaper Stats
 
@@ -26,31 +26,29 @@ adaderanasinhalalk | 13,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,193 (95.9%) of 76,323 articles have been extended.
+73,187 (95.9%) of 76,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### Inmates killed in Kalutara prison
+### කළුතර බන්ධනාගාරයේ රැඳවියෙක් මරුට
 
 *2025-09-16 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214641) · `si`
 
-The inmate has died, who is being treated with injuries and injuring the Kalutara Prison in the Kalutara Prison.
+කළුතර බන්ධනාගාරයේ බෝ ගසට නැග බිමට පැන තුවාල ලබා ප්‍රතිකාර ලබමින් සිටී රැඳවියෙකු මියගොස් ඇති බව කළුතර උතුර පොලීසිය පවසයි.
 
-The deceased has been identified as Sampkaduwawa, a detainee named Sampkaduwa.
+මෙසේ මියගොස් ඇත්තේ කළුතර වස්කඩුව ප්‍රදේශයේ පදිංචිව සිටී සම්පත් මෙන්ඩිස් නමැති රැඳවියෙකු බව සඳහන් ය.
 
-On July 21, July 21st while the deceased was charged with drugs and jailed on July 21.
+මියගොස් ඇති රැඳවියා මත්කුඩු සම්බන්ධයෙන් චෝදනා ලැබ බන්ධනාගාරගතව සිටියදී ඉකුත් ජුලි 21 වනදා මෙලෙස බන්ධනාගාර පරිශ්‍රයේ ඇති බෝ ගසට නැඟ ඉන් බිමට පැන තිබුණි.
 
-He was admitted to the Nagoda hospital for treatment and remanded after healing.
+ඒ අනුව ඔහුව ප්‍රතිකාර සඳහා නාගොඩ රෝහලට ඇතුළත් කර තිබූ අතර සුවවීමෙන් පසු නැවත බන්ධනාගාරගත කර තිබුණි.
 
-However, the inmate has been taken back to the resurgence of the intentional situation and the inmate has died yesterday.
+කෙසේවෙතත් අදාළ රැඳවියාගේ රෝගී තත්ත්වය නැවත උත්සන්නවීමෙන් යළිත් රෝහල්ගත කර තිබෙන අතර ඊයේ (15) රාත්‍රියේ රැඳවියා මියගොස් තිබේ.
 
 ◼️
 
 [Data](articles/d6332d13.json)
-
-[Extended Data](ext_articles/d6332d13.ext.json)
 
 ---
 
@@ -452,21 +450,19 @@ The arrested Chinese national has been handed over to the tourist police connect
 
 ---
 
-### Reduce the travel study in the bata roundabout
+### ලෝටස් වටරවුමේ ට්‍රැෆික් අඩු කරන්න ශක්‍යතා අධ්‍යනයක්
 
 *2025-09-16 13:55:18* · [`adalk`](https://www.ada.lk/breaking_news/ලෝටස්-වටරවුමේ-ට්‍රැෆික්-අඩු-කරන්න-ශක්‍යතා-අධ්‍යනයක්/11-418528) · `si`
 
-To reduce feasibility study to minimize the high traffic congestion in Lotus Roundabout
+කොළඹ ලෝටස් වටරවුම ආශ්‍රිතව පවතින අධික රථවාහන තදබදය අවම කිරීම වෙනුවෙන් ශක්‍යතා අධ්‍යයක් සිදු කිරීමට
 
-Cabinet approval has been approved. It is expected to find a consulting service.
+කැබිනට් අනුමැතිය ලැබී තිබේ. මේ හරහා උපදේශන සේවා ආයතනයක් සොයා ගැනීමට නියමිතය.
 
-Meanwhile, the cabinet paper, the Minister of Transport and Civil Aviation has been approved using the construction of the local funds.
+මේ අතර ගැටඹේ ගුවන් පාලමේ ඉදිකිරීම් දේශීය අරමුදල් යොදා ගෙන නැවත ආරම්භ කිරීමටද ප්‍රවාහන හා සිවිල් ගුවන් සේවා අමාත්‍යවරයා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබී තිබේ.
 
 ◼️
 
 [Data](articles/4635419c.json)
-
-[Extended Data](ext_articles/4635419c.ext.json)
 
 ---
 
@@ -484,29 +480,21 @@ Cabinet approval has been approved to appoint a committee consisting of several 
 
 ---
 
-### Sergeants, drunk duties, are in the hands of OIC
+### බීමතින් රාජකාරී කළ සැරයන් ඕඅයිසීගේ අතටම හසුවෙයි
 
 *2025-09-16 13:48:23* · [`adalk`](https://www.ada.lk/breaking_news/බීමතින්-රාජකාරී-කළ-සැරයන්-ඕඅයිසීගේ-අතටම-හසුවෙයි/11-418527) · `si`
 
-Anamaduwa had taken place after the police sergeant was taken into custody by the police officer in the area of ​​the Anamaduwa Police Station, following the latter of the Anamaduwa Ordinance.
+ආණමඩුව තෝනිගල පොලිස් මාර්ග බාධකයේ බිමතින් රාජකාරි කල පොලිස් සැරයන් වරයකු එම මාර්ග බාධකය හදිසි පරික්ෂාවකට ලක්කල ආණමඩුව පොලිස්ථානාධිපතිවරයාගේ අතටම අසුවිමේන් පසු පොලිස් භාරයට  ගෙන වෛද්‍ය පරික්ෂණ සදහා යොමු කිරීමට 15 දින සවස කටයුතු කර තිබුුු.ණි
 
-The 59 year old residents of the Kurunegala, who was attached to the Anamaduwa Police Station, has been attached to the Anamaduwa Police Station.
+මෙලෙස බිමතින් රාජකාරි වල නිරතව ඇත්තේ ආණමඩුව පොලිස්ථානයට අනුයුක්තව තෝනිගල මාර්ග බාධකයේ රාජකාරි වල යොදවා සිටි අවුරුදු 59 ක්  පමන වයසැති කුරුණැගල ප්‍රදේශයෙ පදිංචි විවාහක පොලිස් සැරයන්වරයකු බව කියයි.
 
-It is said that the police sergeant has been attached to the Anamaduwa Police Station.
+අදාල පොලිස් සැරයන්වරයා මාස කිපයකට පෙර ආණමඩුව පොලිස්ථානයට අනුයුක්ත කර ඇති අතර ඉන් පසු විවිධ රාජකාරි සදහා යොදවා සිට ඇති බවත් 15 දින තෝනිගල මාර්ග බාධකයට රාජකාරි සදහා යොමු කර සිටි බවද පැවසෙයි.
 
-However, there is a billion of duty and thereafter in the duties of the police station.
+කෙසේ නමුත් එම රාජකාරියට පැමින ඇත්තේද බිමතින් බවද ඉන් පසුව බීමත් රාජකාරි වල යෙදි ඇති බවද කියයි.පසුව අදාල පොලිස් මාර්ග බාධකය ආණමඩුව පොලිස්ථානාධිපතිවරයා හදිසි පරික්ෂාවකට ලක්කර ඇත්තේ 15 දින සවසය.
 
-The sergeant has not even been drinking the police sergeant to even carrying the police sergeant.
-
-Medical reports have confirmed that it was drunk at the medical test. Later, the inquiry commenced on the instructions of the Assistant Superintendent of Police of Anamaduwa.
-
-However, the Anaamaduwa Assistant Superintendent of Anamaduwa was working to commence investigations into the police officer.
-
-◼️
+...
 
 [Data](articles/3ca6819b.json)
-
-[Extended Data](ext_articles/3ca6819b.ext.json)
 
 ---
 

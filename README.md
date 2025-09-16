@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 13:56:53**
+As of **2025-09-16 12:55:47**
 
 ## Newspaper Stats
 
-*Scraped **76,292** Articles*
+*Scraped **76,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,275 +16,21 @@ economynextcom | 4,618
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,404
-adaderanalk | 9,830
-tamilmirrorlk | 11,423
-virakesarilk | 12,429
-adaderanasinhalalk | 13,311
+adalk | 7,402
+adaderanalk | 9,825
+tamilmirrorlk | 11,419
+virakesarilk | 12,426
+adaderanasinhalalk | 13,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,050 (95.8%) of 76,292 articles have been extended.
+72,984 (95.7%) of 76,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### කොළඹ ප්‍රදේශ රැසකට ජල කප්පාදුවක්
-
-*2025-09-16 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214635) · `si`
-
-කොළඹ ප්‍රදේශ කිහිපයකට අනිද්දා (18) පැය 09ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
-
-අඹතලේ ජල පවිත්‍රාගාරයට ජලය ලබා ගන්නා ප්‍රධාන තුළුමුව පොම්පාගාරයට සැපයෙන විදුලිය අත්හිටු වීමට සිදුවන බැවින් අඹතලේ ජල පවිත්‍රාගාරය මඟින් සැපයෙන ජලය අත්හිටු වීමට සිදුව ඇති බව එම මණ්ඩලය සඳහන් කරයි
-
-ඒ අනුව පෙ.ව 10.00 සිට ප.ව 07.00 දක්වා කාලය තුළ මෙලෙස ජල සැපයුම අත්හිටුවන බව වාර්තා වේ.
-
-කොළඹ 01 සිට 15 දක්වා ප්‍රදේශවල මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
-
-බත්තරමුල්ල, පැලවත්ත, හෝකන්දර, කොස්වත්ත, තලවතුගොඩ, කෝට්ටේ, රාජගිරිය, මිරිහාන,මාදිවෙල, නුගේගොඩ, නාවල, කොලොන්නාව, IDH, කොටිකාවත්ත, අංගොඩ, වැල්ලම්පිටිය, ඔරුගොඩවත්ත, මහරගම, බොරලැස්ගමුව, දෙහිවල, රත්මලාන, මොරටුව යන ප්‍රදේශවලට ද ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
-
-ජල සැපයුම අත්හිටුවීම හේතුවෙන් ජල පාරිභෝගිකයන්ට සිදුවන අපහසුතාවය පිළිබඳව මණ්ඩලය සිය කණගාටුව පල කරන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/600e1200.json)
-
----
-
-### පොලිස්පති චීන සංචාරයක
-
-*2025-09-16 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214634) · `si`
-
-චීනයේ පැවැත්වෙන පොලිස් සමුළුවකට සහභාගිවීමට පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා දිවයිනෙන් පිටත්ව ගොස් තිබේ.
-
-ඒ අනුව පොලිස්පතිධූරයේ වැඩබැලීම සඳහා මධ්‍යම පළාත් සහ පොලිස් පරිපාලන අංශය භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලලිත් පතිනායක මහතා පත්කර ඇත.
-
-ප්‍රියන්ත වීරසූරිය මහතා  චීනයේ පැවැත්වෙන සමුළුවේදී දේශනයක් පැවැත්වීමට නියමිතව ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
-
-අදාළ සංචාරවය නිමකරමින් පොලිස්පති ප්‍රියන්ත වීරසූරිය ලබන 20 වෙනිදා යළි දිවයිනට පැමිණීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/45d0902e.json)
-
----
-
-### காசாவில் இஸ்ரேல் இனப்படுகொலை செய்தது உறுதி : ஐ.நா அறிவிப்பு
-
-*2025-09-16 13:23:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-இஸ்ரேல்-இனப்படுகொலை-செய்தது-உறுதி-ஐ-நா-அறிவிப்பு/50-364695) · `ta`
-
-காசாவில் பாலஸ்தீனியர்களுக்கு எதிராக இஸ்ரேல் இனப்படுகொலை செய்துள்ளதாக ஐக்கிய நாடுகளின் விசாரணை ஆணைக்குழு முடிவு செய்துள்ளது.
-
-சர்வதேச சட்டத்தின் கீழ் ஐந்து இனப்படுகொலை செயல்களில்  படுகொலைகள், கடுமையான தீங்கு விளைவித்தல், அழிவுகரமான வாழ்க்கை நிலைமைகளை விதித்தல் மற்றும் பிறப்புகளைத் தடுத்தல் போன்ற 4 இனப்படுகொலை செயல்களை இஸ்ரேல் புரிந்துள்ளதாக அந்த விசாரணை ஆணைக்குழுவின் அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
-
-இஸ்ரேலிய தலைவர்களின் அறிக்கைகள் மற்றும் இராணுவ நடத்தை, இனப்படுகொலை நோக்கத்தைக் காட்டுகின்றன என்று ஆணைக்குகுழு குறிப்பிடுகிறது.
-
-2023 ஒக்டோபர் முதல் குறைந்தது 64,900 பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர் என்றும் பரவலான இடம்பெயர்வு, பஞ்சம் மற்றும் முக்கிய உள்கட்டமைப்பு அழிவு ஆகியவற்றையும் அறிக்கை குறிப்பிடுகிறது.
-
-இஸ்ரேலிய ஜனாதிபதி ஐசக் ஹெர்சாக், பிரதமர் பெஞ்சமின் நெதன்யாகு மற்றும் முன்னாள் பாதுகாப்பு அமைச்சர் யோவ் கேலண்ட் ஆகியோர் இனப்படுகொலையைத் தூண்டியதாகவும் அந்த அறிக்கை குற்றம் சாட்டுகிறது.
-
-...
-
-[Data](articles/e920a394.json)
-
----
-
-### Intervene to take to the world: President
-
-*2025-09-16 13:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகிற்கு-எடுத்துச்-செல்ல-தலையிடுங்கள்-ஜனாதிபதி/175-364694) · `ta`
-
-President Anura Kumara Dissanayake told the World Bank representatives that steps would be taken to clarify the international community on the current plans of corrupt Sri Lanka and the opportunity to attract new investment in Sri Lanka.
-
-The World Bank representatives, including Johannes Zutt, who visited Sri Lanka, visited President Anura Kumara Dissanayake at the Presidential Secretariat on Monday afternoon.
-
-A detailed discussion was held on how the World Bank Group could support Sri Lanka's future development goals.
-
-The World Bank representatives, who congratulated Sri Lanka's current economic plan, suggested that more attention should be paid to the creation of economic growth and employment.. Special attention was paid to the development of the North and East, not only to identify the fields of short -term benefits, including digitalization, tourism, agriculture and infrastructure.
-
-...
-
-[Data](articles/db9281d2.json)
-
-[Extended Data](ext_articles/db9281d2.ext.json)
-
----
-
-### Another bus accident: 15 people injured
-
-*2025-09-16 13:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-பேருந்து-விபத்து-15-பேர்-படுகாயம்/175-364693) · `ta`
-
-At least 15 people were injured in a bus accident in Eppittawala area in Horana - Ratnapura road this morning.
-
-The accident occurred when a bus carrying employees of a private company collided with a lorry.
-
-◼️
-
-[Data](articles/534173e0.json)
-
-[Extended Data](ext_articles/534173e0.ext.json)
-
----
-
-### UN has made a genocide in Gaza
-
-*2025-09-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214633) · `si`
-
-The United Nations Investigation Commission (UN) the Investigation Commission (UN)
-
-A new record contains justice that there is a four-dimensional acts in 2023 with Hamas with Hamas in 2023 with Hamas with Hamas in 2023 with Hamas.
-
-The assassination of members of a group, deliberately cause serious physical and mental harm to them, and prevented child births and preventing their plans.
-
-It is quoted as evidence of the manifesto of Israeli leaders and the behavior of the Israeli Army.
-
-The Israeli Foreign Ministry said that the report condemns the report as "mutable and false".
-
-◼️
-
-[Data](articles/29e50780.json)
-
-[Extended Data](ext_articles/29e50780.ext.json)
-
----
-
-### நாமலை சந்தித்தார் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா
-
-*2025-09-16 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225220) · `ta`
-
-இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினர்  நாமல் ராஜபக்ஷவை சந்தித்து கலந்துரையாடியுள்ளார்.
-
-இந்தியா மற்றும் இலங்கை ஆகிய நாடுகளுக்கிடையிலான  இருதரப்பு  இராஜதந்திர உறவு குறித்து கலந்துரையாடப்பட்டுள்ளது.
-
-இந்திய உயர்ஸ்தானிகரை சந்தித்தமை குறித்து நாமல் ராஜபக்ஷ தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ள கருத்தில்,
-
-இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவை நேற்று கொழும்பில் சந்தித்தது மகிழ்ச்சியாக இருந்தது. இந்தியாவுடனான எங்கள் நீண்டகால நட்பையும், வலுவான இருதரப்பு உறவுகளையும் பொதுஜன பெரமுன பெரிதும் மதிக்கிறது. இந்தப் பங்காளித்துவத்தை மேலும் வலுப்படுத்த நாங்கள் ஆவலுடன் எதிர்பார்க்கிறோம்" என்று பதிவிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/f855ab52.json)
-
----
-
-### Tamanna dressed in g-shring underwear
-
-*2025-09-16 12:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஜி-ஸ்ட்ரிங்-உள்ளாடை-அணிந்து-ஆடிய-தமன்னா/54-364692) · `ta`
-
-Aryan Khan's highly anticipated director's debut, The BA*DS of Bollywood series has begun.
-
-The cheering is at its peak as the series is primarily released in Netflix on September 18.
-
-To further excitement, the film crew has released the revolutionary new song, Ghafoor Promo.
-
-Tamanna Patia's shimmering appearance along with the elder villains Shakti Kapoor, Gulshan Grover and Ranjith.
-
-For the first time, Tamanna has been wearing underwear known as G-string.
-
-◼️
-
-[Data](articles/aabfbf30.json)
-
-[Extended Data](ext_articles/aabfbf30.ext.json)
-
----
-
-### 15 injured in Epitawala accident involving bus and lorry
-
-*2025-09-16 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112565/15-injured-in-epitawala-accident-involving-bus-and-lorry) · `en`
-
-A total of 15 individuals have sustained injuries in an accident involving a private bus and a lorry in Epitawala, along the Horana–Ratnapura main road this morning (16), police stated.
-
-It has been revealed that the bus was transporting employees of a private company.
-
-The injured have been admitted to Idangoda and Ratnapura hospitals.
-
-◼️
-
-[Data](articles/127d729a.json)
-
----
-
-### Chinese Ambassador to Maithri
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214631) · `si`
-
-The Chinese Ambassador of Sri Lanka met with former President Maithripala Sirisena.
-
-The meeting was held at the official residence of former President Maithripala Sirisena at Hector Kobbekaduwa Mawatha.
-
-It is reported that the present political situation and the future has held discussions.
-
-The Chinese Ambassador Mahinda Rajapaksa, the former presidents and Ranil Wickremesinghe has also been found before the Chinese Ambassador to the former President Maithripala Sirisena.
-
-According to the provisions of the President's provisions of the President of the Presidents' Arrangements have to be handed over to the government to restore the official quarters given to former presidents.
-
-Accordingly, former President Maithripala Sirisena, the official residence will be handed over after the relevant documents.
-
-◼️
-
-[Data](articles/1cb67be7.json)
-
-[Extended Data](ext_articles/1cb67be7.ext.json)
-
----
-
-### Bus and lorry collide
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214632) · `si`
-
-A private bus and a lorry collided in the Epitawela area on the Horana - Ratnapura main road and 15 others suffered injuries.
-
-The bus was revealed as a bus to transport employees of a private institution.
-
-The injured have been admitted to Atalangoda and Ratnapura hospital while Kiriella police are conducting further investigations.
-
-◼️
-
-[Data](articles/df4e2fa5.json)
-
-[Extended Data](ext_articles/df4e2fa5.ext.json)
-
----
-
-### இலங்கையில் அனைத்து அரச சேவைகளும் GovPay ஊடாக செயற்படுத்தப்படும் மாகாணமாக மாறியுள்ளது தென் மாகாணம்
-
-*2025-09-16 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225221) · `ta`
-
-தென் மாகாணத்தின் அனைத்து மாவட்ட மற்றும் பிரதேச செயலகங்களும் இனி GovPay டிஜிட்டல் கட்டண தளத்தின் மூலம் சேவைகளை வழங்க ஆரம்பித்துள்ளன. இதன் மூலம், GovPay உடன் முழுமையாக இணைந்த இலங்கையின் முதல் மாகாணமாக தென் மாகாணம் வரலாறு படைத்துள்ளது.
-
-மாத்தறை மாவட்ட செயலகத்தில் நேற்று (15)  டிஜிட்டல் பொருளாதார துணை அமைச்சர் எரங்க வீரரத்னவின் தலைமையில் நடைபெற்ற விழாவில், 3 மாவட்ட செயலகங்களும் 53 பிரதேச செயலகங்களும் GovPay தளத்தில் இணைக்கப்பட்டன.
-
-இதன் மூலம் பொதுமக்கள் வங்கிகளின் இணைய வங்கி/மொபைல் வங்கி போர்டல்கள் அல்லது GovPay உடன் இணைக்கப்பட்ட FinTech பயன்பாடுகள் மூலம் எப்போது வேண்டுமானாலும் எங்கு இருந்தும் பாதுகாப்பாக பணம் செலுத்த முடியும்.
-
-இந்நிகழ்வில் நாடாளுமன்ற உறுப்பினர்கள் அக்ரம் இல்லியாஸ், லால் பிரேமதிலக, ஹர்ஷ புரசிங்க, LankaPay தலைமை நிர்வாக அதிகாரி சன்னா டி சில்வா உள்ளிட்ட பிரமுகர்கள் கலந்து கொண்டனர்.
-
-“ஒரு மாகாணமாக, தென் மாகாணம் GovPay இல் இணைந்தது நாட்டை முழுமையாக டிஜிட்டல் மயமாக்கிய பொது சேவைக்கான முக்கிய முன்னேற்றமாகும். இதனால் பொதுமக்களின் நம்பிக்கையும் அதிகரிக்கும்,” என்றார்.
-
-...
-
-[Data](articles/a1180974.json)
-
----
-
-### Southern Province first to adopt GovPay for digital payments across all Secretariats
-
-*2025-09-16 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112564/southern-province-first-to-adopt-govpay-for-digital-payments-across-all-secretariats) · `en`
-
-All District and Divisional Secretariats across the Southern Province are now empowered to accept digital payments following the adoption of GovPay, the Government Digital Payments Platform.
-
-This historic milestone was officially launched yesterday (15), at the Matara District Secretariat under the patronage of Eng. Eranga Weeraratna, Deputy Minister of Digital Economy.
-
-Accordingly, the Southern Province has become the first province in the country where all District and Divisional Secretariats are supported through digital payments via GovPay, the Ministry of Digital Economy said.
-
-The ceremonial launch was graced by Members of Parliament Akram Ismail, Lal Premananth and MP Harsha Purasinghe – Board Director of ICTA, Channa De Silva – Chief Executive Officer of LankaPay, Chandana Thilakarathna – District Secretary of Matara, along with many other distinguished guests.
-
-...
-
-[Data](articles/fad7a5b5.json)
-
----
 
 ### Digital signature for state officials
 
@@ -305,22 +51,6 @@ The implementation, which was carried out under the Electronic Transactions Act 
 [Data](articles/91ed8580.json)
 
 [Extended Data](ext_articles/91ed8580.ext.json)
-
----
-
-### Sri Lanka Customs Sitigate
-
-*2025-09-16 12:10:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-රේගුව-සරුවෙයි/11-418524) · `si`
-
-The following is the following 825, the Sri Lanka Customs revenue Rs. 1,471 billion in 8 months.
-
-200 billion of Rs. 231 billion in June this year and Rs. 244 billion in August Rs. 244 billion. They say this is a rapid rate of last year. (I J)
-
-◼️
-
-[Data](articles/c05a12e8.json)
-
-[Extended Data](ext_articles/c05a12e8.ext.json)
 
 ---
 
@@ -364,50 +94,6 @@ The court issued the court, refusing to request the bail of the suspect.
 
 ---
 
-### Six Sri Lankans abandoned in seas off Talaimannar by traffickers rescued
-
-*2025-09-16 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112563/six-sri-lankans-abandoned-in-seas-off-talaimannar-by-traffickers-rescued) · `en`
-
-The Sri Lanka Navy has taken hold of six Sri Lankans, who were abandoned in seas off Talaimannar by human traffickers.
-
-The group was illegally transported by sea from India and subsequently deserted in the sea area off Sand Dunes, Talaimannar, the Navy stated.
-
-The Navy stated that acting on credible information received by SLNS Thammanna of the North Central Naval Command, a search was carried out in the Sand Dune sea area of Talaimannar.
-
-The operation led to the discovery of the individuals on a remote Sand Dune, where they had been abandoned by human smugglers.
-
-The group was found to be suffering from severe dehydration, the Navy stated.
-
-The individuals, aged between eight and 56 are residents of Vavuniya, Madhu, and Kokkadicholai.
-
-The group has been subsequently handed over to the Talaimannar Police for further legal proceedings.
-
-◼️
-
-[Data](articles/acc382d0.json)
-
----
-
-### Acting Director of Police Cultural Division SSP Sathish Gamage further remanded
-
-*2025-09-16 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112562/acting-director-of-police-cultural-division-ssp-sathish-gamage-further-remanded) · `en`
-
-The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 30, Ada Derana reporter said.
-
-The Colombo Magistrate’s Court ordered the further remand of the SSP, who was taken into custody under the provisions of the Prevention of Money Laundering Act.
-
-Colombo Chief Magistrate Asanka S. Bodaragama also rejected the suspect’s bail application, said Ada Derana reporter.
-
-The Magistrate issued the order after considering the facts presented by officials of the Bribery Commission and the defense counsel representing the suspect.
-
-SSP Sathish Gamage was arrested and produced before court by the Bribery Commission in connection with allegations of accepting bribes amounting to approximately Rs. 14 million from drug traffickers, organized criminals, and members of the public seeking services from police.
-
-◼️
-
-[Data](articles/db9de6d6.json)
-
----
-
 ### Southern province becomes the first to empower the GOVPA Digital Services
 
 *2025-09-16 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214628) · `si`
@@ -429,22 +115,6 @@ The Ministry has already taken a value of over Rs.
 [Data](articles/bbdebf92.json)
 
 [Extended Data](ext_articles/bbdebf92.ext.json)
-
----
-
-### CEB workers to report sick in groups to oppose restructuring
-
-*2025-09-16 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112561/ceb-workers-to-report-sick-in-groups-to-oppose-restructuring-) · `en`
-
-The Executive Committee Member of the Ceylon Electricity Board Engineers’ Union (CEBEU), Dhanushka Parakramasinghe announced that the trade union action launched in protest against the government’s decision to divide the Ceylon Electricity Board (CEB) into four entities, will be intensified from today (16).
-
-He stated that the first phase of the “work-to-rule” strike, which was carried out to object to the proposed division, concluded yesterday, and the union has now decided to move into the second phase of its trade union action.
-
-Parakramasinghe emphasized that the public will not be inconvenienced by these measures, noting that the actions have been carefully planned in a manner that ensures the government remains informed.
-
-...
-
-[Data](articles/9230e052.json)
 
 ---
 
@@ -505,22 +175,6 @@ Analysts said Starmer is hoping the display of royal flattery for the US preside
 [Data](articles/33ad04dd.json)
 
 [Extended Data](ext_articles/33ad04dd.ext.json)
-
----
-
-### தியதலாவ - வெலன்ஹின்ன பகுதியில் காட்டு தீப்பரவல்
-
-*2025-09-16 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/225211) · `ta`
-
-தியதலாவ - வெலன்ஹின்ன பகுதியில் காட்டுத் தீப்பரவலில் ஐந்து ஏக்கருக்கும் அதிகமான நிலப்பரப்பு எரிந்து நாசமாகியுள்ளது.
-
-இந்த தீ விபத்து நேற்று திங்கட்கிழமை (15) தீ விபத்து ஏற்பட்டதாக அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் பதுளை மாவட்ட அலுவலகம் தெரிவித்துள்ளது.
-
-இருப்பினும், தியதலாவ பகுதியில் உள்ள வன பாதுகாப்பு அதிகாரிகள் மற்றும் இராணுவ வீரர்கள் தீயை கட்டுக்குள் கொண்டு வந்துள்ளனர்.
-
-◼️
-
-[Data](articles/6638eb3a.json)
 
 ---
 
@@ -652,25 +306,21 @@ However, Suppliers’ Delivery Time continued to lengthen during the month; “w
 
 *2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/150-364679) · `ta`
 
-Information on the Clemore bombing targeting the prison bus has been exposed.
+சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்த திட்டமிட்டிருந்தமை தொடர்பிலான தகவல் அம்பலமாகியுள்ளது.
 
-Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+பாதாள உலகத் தலைவர் ஹரக் கட்டாவை நீதிமன்றத்திற்கு அழைத்து வரும்போது சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்தி கொல்லத் திட்டமிட்டிருந்ததாக  அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+கெஹல்பத்தர பத்மே கமாண்டோ சாலிந்தா உள்ளிட்ட பாதாள உலகக் கும்பலே இந்த திட்டத்தை தீட்டியிருந்துள்ளது.
 
-This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+பாதாள உலக கும்பலுக்கு மிகவும் சக்திவாய்ந்த ஆயுதங்களை விற்பனை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட  இராணுவ லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது இது தெரியவந்தது.
 
-During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+சந்தேகத்திற்குரிய லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது, ​​ பல சந்தர்ப்பங்களில் தன்னை தொலைபேசியில் அழைத்த கமாண்டோ சாலிந்தா, இரண்டு கிளேமோர் குண்டுகளைக் கேட்டு வற்புறுத்தியதாகக் கூறியுள்ளார்.
 
-However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
-
-If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+இருப்பினும், சந்தேகத்திற்குரிய லெப்டினன்ட் கேணல்,  இரண்டு கிளேமோர் குண்டுகளை கமாண்டோ சாலிந்தாவிடம் கொடுத்திருக்கலாம் என்று விசாரணை அதிகாரிகள் சந்தேகிக்கின்றனர்.
 
 ...
 
 [Data](articles/0c770556.json)
-
-[Extended Data](ext_articles/0c770556.ext.json)
 
 ---
 
@@ -764,21 +414,19 @@ The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for Augus
 
 ---
 
-### Shop owner (video connection)
+### நாய் மீது வெந்நீர் ஊற்றிய கடை உரிமையாளர் (வீடியோ இணைப்பு)
 
 *2025-09-16 10:34:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்-மீது-வெந்நீர்-ஊற்றிய-கடை-உரிமையாளர்-வீடியோ-இணைப்பு/76-364677) · `ta`
 
-A security camera in Bogawantalawa was reported on Monday (15).
+ஒரு கடையின் முன் தூங்கிக் கொண்டிருந்த நாய் மீது வெந்நீர் ஊற்றி விரட்டும் சம்பவம், பொகவந்தலாவை நகரில் உள்ள ஒரு பாதுகாப்பு கேமராவில் திங்கட்கிழமை (15) பதிவாகியுள்ளது.
 
-The dog was quietly sleeping in Bogawantalawa, and the owner of the shop gathering old iron items near the shop poured water on the dog.
+பொகவந்தலாவை  நகரில் சுற்றித் திரிந்த அந்த நாய் அமைதியாகத் தூங்கிக் கொண்டிருந்தது, கடைக்கு அருகில் பழைய இரும்புப் பொருட்களை சேகரிக்கும் கடையின் உரிமையாளர் அந்த நாய் மீது வெந்நீர் ஊற்றியுள்ளார்.
 
-A group of people nearby said that the dog, drenched in hot water, ran away from the place where he was screaming in pain.
+சூடான நீரில் நனைந்த நாய், வலியால் அலறிக் கொண்டு தூங்கிக் கொண்டிருந்த இடத்திலிருந்து ஓடிவிட்டதாக அருகிலுள்ள மக்கள் குழு தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/34a59504.json)
-
-[Extended Data](ext_articles/34a59504.ext.json)
 
 ---
 
@@ -997,22 +645,6 @@ The Colombo Stocks Exchange was trading in red; The ASPI was down 0.39 percent, 
 [Data](articles/3c907988.json)
 
 [Extended Data](ext_articles/3c907988.ext.json)
-
----
-
-### SLTB and private buses go to raz without bordering passenger life
-
-*2025-09-16 09:42:25* · [`adalk`](https://www.ada.lk/picture_story/මගී-ජීවිත-තඹයකට-මායිම්-නොකරමින්-ලංගම-හා-පෞද්ගලික-බස්-රේස්-යයි/10-418523) · `si`
-
-The bus operated in the morning of the Western Slope of the Central Hatcher (15), despite the heavy rains and rushes from the Hatton Talawakele road, was chaired by a camera attached to the bus.
-
-A large number of passengers, including the SLTB and private buses in Talawakele to Hatton, the passengers of buses will be operated on the ride of the buses.
-
-◼️
-
-[Data](articles/2749c3b8.json)
-
-[Extended Data](ext_articles/2749c3b8.ext.json)
 
 ---
 
@@ -2021,5 +1653,371 @@ With a large number of first-time female councillors having been elected to loca
 [Data](articles/976883c9.json)
 
 [Extended Data](ext_articles/976883c9.ext.json)
+
+---
+
+### H’tota house seized for alleged ‘Ice’ production
+
+*2025-09-16 05:08:38* · [`dailyftlk`](https://www.ft.lk/news/H-tota-house-seized-for-alleged-Ice-production/56-781749) · `en`
+
+The Kalutara District Crimes Division yesterday uncovered a house in Mayurapura, Hambantota, allegedly used by underworld figures ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’ to manufacture the drug ‘Ice.’
+
+Police said the search of the house uncovered 52 litres of chemicals suspected to be used in producing Ice. One room had been set up as a laboratory, containing four white iron cauldrons, six plastic buckets, and other equipment believed to be linked to narcotics production. A vehicle allegedly used to transport the drugs was also seized. Investigations show it is registered to an organised criminal residing overseas and had previously been in police custody before being released.
+
+Earlier this month, sleuths seized about 50,000kg of chemicals at a residence in Thalawa, Middeniya, suspected to be used for Ice production. Tests by the National Dangerous Drugs Control Board confirmed that 17 of 20 samples taken contained substances used to manufacture methamphetamine.
+
+◼️
+
+[Data](articles/f56ef0fc.json)
+
+[Extended Data](ext_articles/f56ef0fc.ext.json)
+
+---
+
+### Court fixes Rambukwella asset case for 1 October
+
+*2025-09-16 05:08:19* · [`dailyftlk`](https://www.ft.lk/news/Court-fixes-Rambukwella-asset-case-for-1-October/56-781748) · `en`
+
+The Colombo High Court yesterday ordered that the case against former Minister Keheliya Rambukwella, his wife, three daughters, and son-in-law over alleged unlawfully acquired assets be recalled on 1 October.
+
+High Court Judge Lanka Jayaratne made the order when the matter was taken up, according to court reporters. During proceedings, the prosecution submitted several documents in open court that had been requested by the defence.
+
+The judge directed the defence to inform the court within two weeks if further documents were required. The case is to be taken up again on October 1.
+
+The indictment names Keheliya Rambukwella, his wife Kusum Priyadarshani Epa, daughters Chamithree Jayanika Rambukwella, Chandula Ramali Rambukwella, and Amali Nayanika Rambukwella, as well as his son-in-law Isuru Pulasthi Bandara Polgasdeniya.
+
+...
+
+[Data](articles/227d50af.json)
+
+[Extended Data](ext_articles/227d50af.ext.json)
+
+---
+
+### First-ever EFC National Best Employer Awards up for grabs
+
+*2025-09-16 05:06:07* · [`dailyftlk`](https://www.ft.lk/business/First-ever-EFC-National-Best-Employer-Awards-up-for-grabs/34-781747) · `en`
+
+At a time when Sri Lanka is rediscovering its strength and optimism, the Employers’ Federation of Ceylon (EFC) has announced the launch of the inaugural EFC National Best Employer Awards 2025. This landmark initiative comes at a pivotal moment in the nation’s journey, as organisations and communities embrace resilience, innovation, and purpose.
+
+The awards represent a national movement to honour organisations that redefine what it means to be truly great employers—entities that go beyond profit to create workplaces where people thrive, communities are uplifted, and values are lived with purpose. The programme will recognise those who champion holistic wellbeing while driving sustainable business practices and meaningful social impact.
+
+...
+
+[Data](articles/867621da.json)
+
+[Extended Data](ext_articles/867621da.ext.json)
+
+---
+
+### Slim Pharmaceuticals appoints Riza Cassim as CEO
+
+*2025-09-16 05:04:45* · [`dailyftlk`](https://www.ft.lk/business/Slim-Pharmaceuticals-appoints-Riza-Cassim-as-CEO/34-781746) · `en`
+
+Slim Pharmaceuticals Ltd., has announced the appointment of Riza Cassim as its new Chief Executive Officer.
+
+With over three decades of experience across multinational pharmaceutical giants, Cassim brings a wealth of expertise, a proven track record of leadership, and a clear vision for the future of Slim Pharmaceuticals.
+
+...
+
+[Data](articles/4f9e58dc.json)
+
+[Extended Data](ext_articles/4f9e58dc.ext.json)
+
+---
+
+### Govt. assures no forced job cuts in CEB reforms: Minister
+
+*2025-09-16 05:01:47* · [`dailyftlk`](https://www.ft.lk/news/Govt-assures-no-forced-job-cuts-in-CEB-reforms-Minister/56-781745) · `en`
+
+Energy Minister Eng. Kumara Jayakody says all employees notified to express their views within two months; stresses process is legal requirement and not move by Govt. to pressure workers
+
+Announces Govt. opted to offer more favourable package, extending Rs. 5 m VRS to all employees without discrimination
+
+Criticises certain trade unions, questioning whether their actions truly represented employee welfare or politically motivated
+
+Energy Minister Eng. Kumara Jayakody yesterday assured that the Government’s restructuring of the Ceylon Electricity Board (CEB) will not undermine employee job security or labour rights, despite trade union concerns and ongoing protest threats.
+
+...
+
+[Data](articles/578b8cb1.json)
+
+[Extended Data](ext_articles/578b8cb1.ext.json)
+
+---
+
+### Major transport hubs face overhaul under Clean Sri Lanka program
+
+*2025-09-16 04:59:49* · [`dailyftlk`](https://www.ft.lk/news/Major-transport-hubs-face-overhaul-under-Clean-Sri-Lanka-program/56-781744) · `en`
+
+Colombo Central Bus Terminal gets complete facelift for first time in 60 years, with Rs. 425 m; expects project to be completed by April 2026
+
+Begins renovation of historic Maradana Railway Station as part of broader plan to upgrade 100 stations countrywide via PPP under Dream Destination initiative
+
+Transport, Highways, Ports, and Civil Aviation Minister Bimal Rathnayake reveals plans to set up 50 multimodal transport centres by 2029 with 15 of them expected next year
+
+The Government yesterday launched two landmark transport infrastructure projects; the full redevelopment of the Colombo Central Bus Terminal and the renovation of the historic Maradana Railway Station under the Clean Sri Lanka program and its broader policy vision of “A Thriving Nation – A Beautiful Life.”
+
+...
+
+[Data](articles/27766c39.json)
+
+[Extended Data](ext_articles/27766c39.ext.json)
+
+---
+
+### Hakeem calls out Govt.’s Israel foreign policy stance
+
+*2025-09-16 04:57:47* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-calls-out-Govt-s-Israel-foreign-policy-stance/56-781743) · `en`
+
+Slams Govt. statement on Israel’s Qatar strikes as apathetic, one-sided, distorted
+
+Sri Lanka Muslim Congress Leader MP Rauff Hakeem yesterday accused the Government of shielding Israel in its foreign policy, saying the Foreign Ministry’s statement on the recent attack on Qatar downplayed Israeli aggression, ignored international law, and risked undermining Sri Lanka’s ties with key Gulf partners.
+
+“At the time of Israel’s recent attack on Qatar, I was in Tehran, Iran, attending the World Islamic Solidarity Conference on Palestine, which was attended by representatives from more than 50 countries.
+
+While returning from there, I came across a statement issued by the Sri Lankan Ministry of Foreign Affairs following Israel’s attack on Qatar.
+
+Sri Lanka’s Foreign Ministry has demonstrated once again not just how incapable it is or distinguishing between an occupier and the occupied, or between an air attack and an incident, or even worse, between a mercenary behaviour and solidarity with victims.
+
+...
+
+[Data](articles/09ca5441.json)
+
+[Extended Data](ext_articles/09ca5441.ext.json)
+
+---
+
+### We don't want the port of Point Pedro
+
+*2025-09-16 04:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறை-துறைமுகம்-எமக்கு-வேண்டாம்/175-364662) · `ta`
+
+Representatives of the Fishermen's Association, Point Pedro Father Vinson Poll Douglas Ball and Point Pedro Divisional Secretary N.R trilinganathan have handed over the Mahajas on behalf of the people of Jaffna and Point Pedro.
+
+Point Pedro Fisheries Co -operative Society Secretary Siriwarathan Sulaksan and Treasurer Sivapadasundaram Sathis on Monday. A media meeting was also held at the Vadamarachchi Media Home.
+
+Our village is in danger of being destroyed by the development of the Point Port. When the port is set up, our supermadam fishing village is the first village to face the western side of the sea.
+
+The Indian government is conducting inspections to develop the port at a cost of Rs 1000 crore.
+
+...
+
+[Data](articles/96eb3a50.json)
+
+[Extended Data](ext_articles/96eb3a50.ext.json)
+
+---
+
+### Seaman criticizes Vijay
+
+*2025-09-16 04:16:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-மீது-சீமான்-விமர்சனம்/175-364661) · `ta`
+
+It is not right to read and read people's problems. The chief coordinator of the Tamil party, Seeman, has criticized leader Vijay.
+
+He told reporters at the Chennai airport yesterday that he said.
+
+In every constituency, every town should come from the heart to tell people what's the problem. It is not right to read and read it. Even if you write to US President Trump, he will climb the stage and read that this is the problem.
+
+DMK, AIADMK. They say that I am busy opposing leader Vijay. Anna is the founder of the DMK. MGR Founder of AIADMK. Vijay is sleeping with them. Is it enough to put the image of the two on the platform?
+
+I have great pride on Anna. There is nothing to blame in his rule. It was only after Anna came to politics that the history and literature of the Tamils ​​spoke on the political platform. That pride will join Anna. Don't talk about him for a half hour?
+
+...
+
+[Data](articles/7aba7b17.json)
+
+[Extended Data](ext_articles/7aba7b17.ext.json)
+
+---
+
+### Planning to modernize the Maradana railway station
+
+*2025-09-16 04:02:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருதானை-ரயில்-நிலையத்தை-நவீனமயமாக்கும்-திட்டம்/175-364660) · `ta`
+
+The project to modernize the Maradana Railway Station under the Dream Destination Program in conjunction with the Clean Sri Lanka Program was launched yesterday (15) under the patronage of President Anura Kumara Dissanayake.
+
+According to the 'prosperous country - beautiful life', the government is planning to make a beautiful lifestyle with a modern and standardized public transport system, with the aim of transforming public facilities at railway stations, railway stations into convenient and safe places, and the National Scheme of Transport, Highways, Ports and Civil Aviation Services and Clean Sri Lanka Organization Has been launched.
+
+The project is aimed at creating a clean and beautiful railway structure in the country to provide security and facilities to all travelers, including the community with special needs.
+
+...
+
+[Data](articles/a2e18a2c.json)
+
+[Extended Data](ext_articles/a2e18a2c.ext.json)
+
+---
+
+### North, East and West: Navigating  Sri Lanka’s compass in new world order
+
+*2025-09-16 02:46:46* · [`dailyftlk`](https://www.ft.lk/columns/North-East-and-West-Navigating-Sri-Lanka-s-compass-in-new-world-order/4-781707) · `en`
+
+The IMF senior mission chief Peter Breuer, presenting the approval of the third review of Sri Lanka’s $ 2.9 b bailout (Source: Al Jazeera)
+
+When the National People’s Power (NPP) Government assumed office in September 2024, it inherited more than a fragile economy and the hopes of a disillusioned citizenry. It also assumed responsibility for steering Sri Lanka through arguably the most significant moment of international recalibration since the end of the Cold War. The global order is shifting once again, with China and Russia presenting themselves as alternatives to Western dominance, and smaller states forced to reposition themselves in ways that are both delicate and strategic.
+
+Signals of a profound reordering of the international system have been apparent for some time. Early indications of this impending shift can be, perhaps, traced to the rise of far-right nationalism and systemic dissatisfaction that emerged in many parts of the world over the past decade.
+
+...
+
+[Data](articles/3a921f86.json)
+
+[Extended Data](ext_articles/3a921f86.ext.json)
+
+---
+
+### Budget 2026 imperative: Making housing affordable through tax reform
+
+*2025-09-16 02:36:58* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-imperative-Making-housing-affordable-through-tax-reform/4-781705) · `en`
+
+By incentivising private homeownership through tax relief, the burden shifts from public provision to empowered individual ownership
+
+Housing is a fundamental human need. Yet, for many Sri Lankans, the dream of owning a home remains elusive due to rising property prices, volatility of interest rates, and limited access to affordable financing. In this context, it is both timely and necessary for the Government of Sri Lanka to reintroduce housing loan interest as a qualifying payment relief under personal income tax—reviving a policy that once existed in the Sri Lankan income tax Law.
+
+...
+
+[Data](articles/c2067d3f.json)
+
+[Extended Data](ext_articles/c2067d3f.ext.json)
+
+---
+
+### M.H.M. Ashraff PC: Power of  education to transform communities
+
+*2025-09-16 02:27:34* · [`dailyftlk`](https://www.ft.lk/opinion/M-H-M-Ashraff-PC-Power-of-education-to-transform-communities/14-781704) · `en`
+
+When history remembers leaders, it often lists their victories, their alliances, or their parliamentary debates. But the truest measure of a leader lies in the legacy that endures long after their voice has fallen silent. On 16 September 2025, the day which marks the 25th anniversary of the passing of M.H.M. Ashraff PC, that is the very question that begs a response.
+
+For Ashraff, his enduring legacy was neither in the party he founded nor the speeches he delivered. Rather, it was in the institutions he envisioned and enabled, the most notable of such achievements being the South Eastern University of Sri Lanka (SEUSL). Education was, for him, more than a policy matter. It was the foundation of empowerment, the key to dignity, and the one tool capable of transforming the lives of entire communities. In establishing the SEUSL at Oluvil, he did not merely create a campus. He opened a doorway for thousands who had, until then, been denied access to opportunity.
+
+...
+
+[Data](articles/0eacc91b.json)
+
+[Extended Data](ext_articles/0eacc91b.ext.json)
+
+---
+
+### M.H.M. Ashraff PC: Power of  education to transform communities
+
+*2025-09-16 02:27:34* · [`dailyftlk`](https://www.ft.lk/columns/M-H-M-Ashraff-PC-Power-of-education-to-transform-communities/4-781704) · `en`
+
+When history remembers leaders, it often lists their victories, their alliances, or their parliamentary debates. But the truest measure of a leader lies in the legacy that endures long after their voice has fallen silent. On 16 September 2025, the day which marks the 25th anniversary of the passing of M.H.M. Ashraff PC, that is the very question that begs a response.
+
+For Ashraff, his enduring legacy was neither in the party he founded nor the speeches he delivered. Rather, it was in the institutions he envisioned and enabled, the most notable of such achievements being the South Eastern University of Sri Lanka (SEUSL). Education was, for him, more than a policy matter. It was the foundation of empowerment, the key to dignity, and the one tool capable of transforming the lives of entire communities. In establishing the SEUSL at Oluvil, he did not merely create a campus. He opened a doorway for thousands who had, until then, been denied access to opportunity.
+
+...
+
+[Data](articles/2066908a.json)
+
+[Extended Data](ext_articles/2066908a.ext.json)
+
+---
+
+### National Shoora Council urges UN to suspend Israel from UN
+
+*2025-09-16 02:23:57* · [`dailyftlk`](https://www.ft.lk/opinion/National-Shoora-Council-urges-UN-to-suspend-Israel-from-UN/14-781703) · `en`
+
+The National Shoora Council (NSC) yesterday urged UN Secretary General Antonio Guterres to facilitate the grant of full membership in the UN to Palestine and to suspend Israel from the UN until Israel’s Prime Minister Benjamin Netanyahu is surrendered to the International Criminal Court (ICC) in pursuance of the international
+
+warrant issued by the ICC for the arrest of Israel’s PM. The following is the text of the letter dated 14 September 2025 addressed to the SG of the UN.
+
+“We believe that by now, you are well aware of the despicable chain of unpardonable crimes being committed, for well over a hundred years, by the Zionist regime to destroy Palestine and its multi-religious people! What must have become more clear is that the ongoing cruel facets of genocide of the Palestinians are aimed at establishing a territorially expanding nuclear armed Zionist ethno-religious European colonial power in the Middle East.
+
+...
+
+[Data](articles/092a4303.json)
+
+[Extended Data](ext_articles/092a4303.ext.json)
+
+---
+
+### AI fundamentals: Demystifying technology that’s reshaping our world
+
+*2025-09-16 02:18:45* · [`dailyftlk`](https://www.ft.lk/columns/AI-fundamentals-Demystifying-technology-that-s-reshaping-our-world/4-781702) · `en`
+
+AI won’t replace people. People who understand AI will replace people who don’t
+
+Following my previous articles, many readers reached out with a specific request: explain AI and its impact in language everyone can understand. While AI has sparked widespread interest, the lack of accessible explanations has kept it in the ‘too complex to approach’ category for many, even among executives at major corporations. There’s no shame in acknowledging knowledge gaps; we’re not expected to master every emerging technology overnight. However, staying current with transformational forces isn’t optional in today’s business environment. This article addresses those requests by covering the fundamentals of AI, providing clarity on what it is, how it’s already reshaping our lives, and the vast opportunities it creates for those willing to engage with it.
+
+...
+
+[Data](articles/2213a41d.json)
+
+[Extended Data](ext_articles/2213a41d.ext.json)
+
+---
+
+### 2025-09-15 (Monday)
+
+### Sri Lanka team beat Hong Kong
+
+*2025-09-15 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225180) · `ta`
+
+Sri Lanka won the match against Hong Kong in the Asian Cup on Sunday 15th.
+
+Sri Lanka Captain Sarid Asalanga first chose the field in Dubai.
+
+Accordingly, the Hong Kong team scored 149 runs for the loss of 4 wickets in 20 overs.
+
+In response, the Sri Lankan team made 153 runs for the loss of 6 wickets in 18.5 overs.
+
+◼️
+
+[Data](articles/c1b667e4.json)
+
+[Extended Data](ext_articles/c1b667e4.ext.json)
+
+---
+
+### Sri Lanka beat Sri Lanka
+
+*2025-09-15 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214614) · `si`
+
+Sri Lanka won the match by 4 wickets in a 4 wicket win against Hong Kong.
+
+This was in Dubai as a BC competition, and Sri Lanka was able to reach the first place in the bonus mark.
+
+The 150 runs in the Hong Kong group to Sri Lanka scored 150 runs for the loss of 6 wickets at the end of 18 overs.
+
+The wishes of the Sri Lankan team were able to score 68 runs.
+
+Sri Lanka captain Charith won the toss of the match first, decided to bowl first.
+
+Accordingly, Hong Kong team completed a score of 149 runs for the loss of 4 wickets.
+
+The relationship was collapsed with the loss of a charging of Seshan Ali.
+
+Armyan Rath and Daman also strengthened Hong Kong innings to build 61 runs for the third wicket.
+
+Dammahanth Chameera has taken two wickets in bowling and took the wicket each.
+
+Athumanan Rath scored 48 runs and Drugs and Khan scored 52 not out.
+
+This is the first time Sri Lanka and Hong Kong has been hostile to the international cricket.
+
+◼️
+
+[Data](articles/08dc5f7d.json)
+
+[Extended Data](ext_articles/08dc5f7d.ext.json)
+
+---
+
+### “Bank of Ceylon Stands as a cornerstone of Sri Lanka’s Economic Progress through Capital Formation, Inclusion and Stability”
+
+*2025-09-15 23:14:00* · [`islandlk`](http://island.lk/bank-of-ceylon-stands-as-a-cornerstone-of-sri-lankas-economic-progress-through-capital-formation-inclusion-and-stability/) · `en`
+
+*  In conversation with Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC
+
+Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC a Senior Chartered Accountant and a seasoned professional in the sector, discusses the hospital’s evolution, its collaboration with the country’s largest bank, and the shared vision of advancing healthcare and economic growth in Sri Lanka. In this interview we discuss how Bank of Ceylon has been a strategically, enabling efficient financial operations, supporting medical professionals, and strengthening the hospital’s role as a trusted national institution. In this interview,
+
+*  Lanka Hospitals has established itself as a leading healthcare institution in Sri Lanka. Could you share a brief overview of the hospital’s journey, key areas of service, and its vision for the future?
+
+...
+
+[Data](articles/23040fa3.json)
+
+[Extended Data](ext_articles/23040fa3.ext.json)
 
 ---

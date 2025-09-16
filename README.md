@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 13:06:11**
+As of **2025-09-16 12:55:47**
 
 ## Newspaper Stats
 
-*Scraped **76,277** Articles*
+*Scraped **76,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,79 +16,21 @@ economynextcom | 4,618
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,403
+adalk | 7,402
 adaderanalk | 9,825
-tamilmirrorlk | 11,420
+tamilmirrorlk | 11,419
 virakesarilk | 12,426
-adaderanasinhalalk | 13,308
+adaderanasinhalalk | 13,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,005 (95.7%) of 76,277 articles have been extended.
+72,984 (95.7%) of 76,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### ஜி-ஸ்ட்ரிங் உள்ளாடை அணிந்து ஆடிய  தமன்னா
-
-*2025-09-16 12:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஜி-ஸ்ட்ரிங்-உள்ளாடை-அணிந்து-ஆடிய-தமன்னா/54-364692) · `ta`
-
-ஆர்யன் கானின் மிகவும் எதிர்பார்க்கப்பட்ட இயக்குநர் அறிமுகமான The Ba*ds of Bollywood தொடரின் கவுண்ட்டவுன் தொடங்கிவிட்டது.
-
-இந்தத் தொடர் செப்டம்பர் 18 அன்று நெட்ஃபிளிக்ஸில் முதன்மையாக வெளியாக உள்ளதால், இதற்கான ஆரவாரம் உச்சத்தை அடைந்து வருகிறது.
-
-மேலும் உற்சாகத்தைத் தூண்டும் வகையில், புரட்சிகரமான புதிய பாடலான Ghafoor ப்ரோமோவை படக்குழு வெளியிட்டுள்ளது.
-
-இதில் மூத்த வில்லன்களான ஷக்தி கபூர், குல்ஷன் க்ரோவர், ரஞ்சீத் ஆகியோருடன் தமன்னா பாட்டியாவின் மின்னும் தோற்றமும் இடம்பெற்றுள்ளது.
-
-முதன் முறையாக, ஜி-ஸ்ட்ரிங் என்று அழைக்கப்படும் உள்ளாடை அணிந்து கொண்டு ஆட்டம் போட்டுள்ளார் தமன்னா.
-
-◼️
-
-[Data](articles/aabfbf30.json)
-
----
-
-### චීන තානාපති මෛත්‍රීව හමුවෙයි
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214631) · `si`
-
-මෙරට චීන තානාපතිවරයා, හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාව හමුවී සාකච්ඡාවක් පවත්වා තිබේ.
-
-පසුගියදා මෙම හමුව සිදුව තිබුණේ හෙක්ටර් කොබ්බෑකඩුව මාවතේ පිහිටි හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ නිල නිවසේදීය.
-
-එහිදී වත්මන් දේශපාලන තත්ත්වය සහ ඉදිරි දේශපාලන තත්ත්තවය පිළිබඳව සාකච්ඡා පවත්වා ඇති බව වාර්තා වෙයි.
-
-චීන තානාපතිවරයා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා හමුවීමට පෙර හිටපු ජනාධිපතිවරුන් වන මහින්ද රාජපක්ෂ සහ රනිල් වික්‍රමසිංහ යන මහත්වරුන්ද හමුවී ඇති බව සඳහන්ය.
-
-"ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ" පනතේ විධිවිධානයන් අනුව හිටපු ජනාධිපතිවරුන් සඳහා ලබා දී ඇති නිල නිවාස ඔවුන්ට යළි රජයට භාරදීමට සිදුව තිබේ.
-
-ඒ අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාද ඊට අදාළ ලියකියවිලි ලැබීමෙන් පසු නිල නිවස භාරදීමට කටයුතු කරන බව පසුගියදා පැවසීය.
-
-◼️
-
-[Data](articles/1cb67be7.json)
-
----
-
-### බස් රථයක් සහ ලොරි රථයක් මුහුණට මුහුණ ගැටෙයි
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214632) · `si`
-
-හොරණ - රත්නපුර ප්‍රධාන මාර්ගයේ එපිටවෙල ප්‍රදේශයේ දී අද (16) උදෑසන පෞද්ගලික බස් රථයක් සහ ලොරි රථයක් එකිනෙක ගැටී සිදුවු අනතුරකින් 15 දෙනෙකු තුවාල ලබා තිබේ.
-
-අදාළ බස් රථය පෞද්ගලික ආයතනයක සේවකයින් ප්‍රවාහනය කරනු ලබන බස් රථයක් බවට අනාවරණය වුණි.
-
-තුවාලකරුවන් ඉඩංගොඩ සහ රත්නපුර රෝහලට ඇතුළත් කර ඇති අතර, කිරිඇල්ල පොලීසිය අනතුර සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/df4e2fa5.json)
-
----
 
 ### Digital signature for state officials
 
@@ -109,20 +51,6 @@ The implementation, which was carried out under the Electronic Transactions Act 
 [Data](articles/91ed8580.json)
 
 [Extended Data](ext_articles/91ed8580.ext.json)
-
----
-
-### ශ්‍රී ලංකා රේගුව සරුවෙයි
-
-*2025-09-16 12:10:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-රේගුව-සරුවෙයි/11-418524) · `si`
-
-2025 වර්ශයේ ගෙවුනු මාස 8 තුල ‌ශ්‍රී ලංකා රේගුව රුපියල් බිලියන 1,471ක ආදායමක් ලබූ බව එම දෙපාර්ථ මේන්තුව තහවුරුකරයි.
-
-මේ වසරේ ජූනි මාසයේ රුපියල් බිලියන 200ක්, ජූලි මාසයේ රුපියල් බිලියන 231ක් සහ අගෝස්තු මාසයේ ආදායම රුපියල් බිලියන 244ක් වශයෙන් වර්ධනයක් ඇති බව දක්වා සිටියි. මෙම තත්වය පසුගිය වසරට සාපේක්ෂව සීඝ්‍ර වර්ධනයක් බව ඔවුන් පවසයි. ( I J )
-
-◼️
-
-[Data](articles/c05a12e8.json)
 
 ---
 
@@ -374,29 +302,25 @@ However, Suppliers’ Delivery Time continued to lengthen during the month; “w
 
 ---
 
-### Clemore's attack on prison bus
+### சிறைச்சாலை பஸ் மீது ‘கிளேமோர்‘ தாக்குதல் நடத்த திட்டம்
 
 *2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/150-364679) · `ta`
 
-Information on the Clemore bombing targeting the prison bus has been exposed.
+சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்த திட்டமிட்டிருந்தமை தொடர்பிலான தகவல் அம்பலமாகியுள்ளது.
 
-Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+பாதாள உலகத் தலைவர் ஹரக் கட்டாவை நீதிமன்றத்திற்கு அழைத்து வரும்போது சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்தி கொல்லத் திட்டமிட்டிருந்ததாக  அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+கெஹல்பத்தர பத்மே கமாண்டோ சாலிந்தா உள்ளிட்ட பாதாள உலகக் கும்பலே இந்த திட்டத்தை தீட்டியிருந்துள்ளது.
 
-This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+பாதாள உலக கும்பலுக்கு மிகவும் சக்திவாய்ந்த ஆயுதங்களை விற்பனை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட  இராணுவ லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது இது தெரியவந்தது.
 
-During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+சந்தேகத்திற்குரிய லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது, ​​ பல சந்தர்ப்பங்களில் தன்னை தொலைபேசியில் அழைத்த கமாண்டோ சாலிந்தா, இரண்டு கிளேமோர் குண்டுகளைக் கேட்டு வற்புறுத்தியதாகக் கூறியுள்ளார்.
 
-However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
-
-If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+இருப்பினும், சந்தேகத்திற்குரிய லெப்டினன்ட் கேணல்,  இரண்டு கிளேமோர் குண்டுகளை கமாண்டோ சாலிந்தாவிடம் கொடுத்திருக்கலாம் என்று விசாரணை அதிகாரிகள் சந்தேகிக்கின்றனர்.
 
 ...
 
 [Data](articles/0c770556.json)
-
-[Extended Data](ext_articles/0c770556.ext.json)
 
 ---
 
@@ -490,21 +414,19 @@ The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for Augus
 
 ---
 
-### Shop owner (video connection)
+### நாய் மீது வெந்நீர் ஊற்றிய கடை உரிமையாளர் (வீடியோ இணைப்பு)
 
 *2025-09-16 10:34:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்-மீது-வெந்நீர்-ஊற்றிய-கடை-உரிமையாளர்-வீடியோ-இணைப்பு/76-364677) · `ta`
 
-A security camera in Bogawantalawa was reported on Monday (15).
+ஒரு கடையின் முன் தூங்கிக் கொண்டிருந்த நாய் மீது வெந்நீர் ஊற்றி விரட்டும் சம்பவம், பொகவந்தலாவை நகரில் உள்ள ஒரு பாதுகாப்பு கேமராவில் திங்கட்கிழமை (15) பதிவாகியுள்ளது.
 
-The dog was quietly sleeping in Bogawantalawa, and the owner of the shop gathering old iron items near the shop poured water on the dog.
+பொகவந்தலாவை  நகரில் சுற்றித் திரிந்த அந்த நாய் அமைதியாகத் தூங்கிக் கொண்டிருந்தது, கடைக்கு அருகில் பழைய இரும்புப் பொருட்களை சேகரிக்கும் கடையின் உரிமையாளர் அந்த நாய் மீது வெந்நீர் ஊற்றியுள்ளார்.
 
-A group of people nearby said that the dog, drenched in hot water, ran away from the place where he was screaming in pain.
+சூடான நீரில் நனைந்த நாய், வலியால் அலறிக் கொண்டு தூங்கிக் கொண்டிருந்த இடத்திலிருந்து ஓடிவிட்டதாக அருகிலுள்ள மக்கள் குழு தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/34a59504.json)
-
-[Extended Data](ext_articles/34a59504.ext.json)
 
 ---
 
@@ -2007,5 +1929,95 @@ warrant issued by the ICC for the arrest of Israel’s PM. The following is the 
 [Data](articles/092a4303.json)
 
 [Extended Data](ext_articles/092a4303.ext.json)
+
+---
+
+### AI fundamentals: Demystifying technology that’s reshaping our world
+
+*2025-09-16 02:18:45* · [`dailyftlk`](https://www.ft.lk/columns/AI-fundamentals-Demystifying-technology-that-s-reshaping-our-world/4-781702) · `en`
+
+AI won’t replace people. People who understand AI will replace people who don’t
+
+Following my previous articles, many readers reached out with a specific request: explain AI and its impact in language everyone can understand. While AI has sparked widespread interest, the lack of accessible explanations has kept it in the ‘too complex to approach’ category for many, even among executives at major corporations. There’s no shame in acknowledging knowledge gaps; we’re not expected to master every emerging technology overnight. However, staying current with transformational forces isn’t optional in today’s business environment. This article addresses those requests by covering the fundamentals of AI, providing clarity on what it is, how it’s already reshaping our lives, and the vast opportunities it creates for those willing to engage with it.
+
+...
+
+[Data](articles/2213a41d.json)
+
+[Extended Data](ext_articles/2213a41d.ext.json)
+
+---
+
+### 2025-09-15 (Monday)
+
+### Sri Lanka team beat Hong Kong
+
+*2025-09-15 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225180) · `ta`
+
+Sri Lanka won the match against Hong Kong in the Asian Cup on Sunday 15th.
+
+Sri Lanka Captain Sarid Asalanga first chose the field in Dubai.
+
+Accordingly, the Hong Kong team scored 149 runs for the loss of 4 wickets in 20 overs.
+
+In response, the Sri Lankan team made 153 runs for the loss of 6 wickets in 18.5 overs.
+
+◼️
+
+[Data](articles/c1b667e4.json)
+
+[Extended Data](ext_articles/c1b667e4.ext.json)
+
+---
+
+### Sri Lanka beat Sri Lanka
+
+*2025-09-15 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214614) · `si`
+
+Sri Lanka won the match by 4 wickets in a 4 wicket win against Hong Kong.
+
+This was in Dubai as a BC competition, and Sri Lanka was able to reach the first place in the bonus mark.
+
+The 150 runs in the Hong Kong group to Sri Lanka scored 150 runs for the loss of 6 wickets at the end of 18 overs.
+
+The wishes of the Sri Lankan team were able to score 68 runs.
+
+Sri Lanka captain Charith won the toss of the match first, decided to bowl first.
+
+Accordingly, Hong Kong team completed a score of 149 runs for the loss of 4 wickets.
+
+The relationship was collapsed with the loss of a charging of Seshan Ali.
+
+Armyan Rath and Daman also strengthened Hong Kong innings to build 61 runs for the third wicket.
+
+Dammahanth Chameera has taken two wickets in bowling and took the wicket each.
+
+Athumanan Rath scored 48 runs and Drugs and Khan scored 52 not out.
+
+This is the first time Sri Lanka and Hong Kong has been hostile to the international cricket.
+
+◼️
+
+[Data](articles/08dc5f7d.json)
+
+[Extended Data](ext_articles/08dc5f7d.ext.json)
+
+---
+
+### “Bank of Ceylon Stands as a cornerstone of Sri Lanka’s Economic Progress through Capital Formation, Inclusion and Stability”
+
+*2025-09-15 23:14:00* · [`islandlk`](http://island.lk/bank-of-ceylon-stands-as-a-cornerstone-of-sri-lankas-economic-progress-through-capital-formation-inclusion-and-stability/) · `en`
+
+*  In conversation with Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC
+
+Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC a Senior Chartered Accountant and a seasoned professional in the sector, discusses the hospital’s evolution, its collaboration with the country’s largest bank, and the shared vision of advancing healthcare and economic growth in Sri Lanka. In this interview we discuss how Bank of Ceylon has been a strategically, enabling efficient financial operations, supporting medical professionals, and strengthening the hospital’s role as a trusted national institution. In this interview,
+
+*  Lanka Hospitals has established itself as a leading healthcare institution in Sri Lanka. Could you share a brief overview of the hospital’s journey, key areas of service, and its vision for the future?
+
+...
+
+[Data](articles/23040fa3.json)
+
+[Extended Data](ext_articles/23040fa3.ext.json)
 
 ---

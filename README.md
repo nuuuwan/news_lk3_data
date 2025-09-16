@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 21:56:45**
+As of **2025-09-16 20:09:13**
 
 ## Newspaper Stats
 
-*Scraped **76,370** Articles*
+*Scraped **76,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,197 +16,37 @@ economynextcom | 4,627
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,419
-adaderanalk | 9,846
-tamilmirrorlk | 11,434
-virakesarilk | 12,441
-adaderanasinhalalk | 13,325
+adalk | 7,417
+adaderanalk | 9,845
+tamilmirrorlk | 11,433
+virakesarilk | 12,436
+adaderanasinhalalk | 13,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,409 (96.1%) of 76,370 articles have been extended.
+73,360 (96.1%) of 76,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### பாதாள உலக குழுக்களின் கைதுகளால் பலர் கலக்கமடைந்துள்ளனர்
-
-*2025-09-16 21:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுக்களின்-கைதுகளால்-பலர்-கலக்கமடைந்துள்ளனர்/175-364717) · `ta`
-
-பாதாள குழுக்களின் பிரதான உறுப்பினர்கள் கைது செய்யப்படுகின்ற நிலையில் அவர்களுடன் தொடர்பில் இருந்தவர்கள் தற்போது கலக்கமடைந்துள்ளார்கள் என தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
-
-கொழும்பில் இன்று (16) இடம்பெற்ற நிகழ்வில் கலந்துகொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பாதாளக் குழுக்களுடன் தொடர்புடைய 80 அரசியல்வாதிகளின் பெயர் விபரங்களை மாகந்துரே மதூஷ் முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷவுக்கு அறிவுறுத்தியுள்ளார்.
-
-ஆனால் எவ்வித விசாரணைகளும் மேற்கொள்ளப்படவில்லை. உண்மை வெளிப்படுத்தப்படவில்லை. மாகந்துரே மதூஷ் கொல்லப்படுகிறார். அத்தோடு பல விடயங்கள் மூடி மறைக்கப்பட்டன.
-
-கொலை செய்யப்பட்ட மாகந்துரே மதுாஷிற்கு நேர்ந்த கதி கெஹல்பத்தரே பத்மேவுக்கு  நேராது என்பதை உறுதியாக குறிப்பிட முடியும்.
-
-விசாரணைகளில்  வெளியாகும் பல விடயங்களை கொண்டு உரிய சட்ட நடவடிக்கைகள் எடுக்கப்படும்.குற்றச்சாட்டுக்களை முன்வைப்பவர்களின் கருத்துகளுக்கு முக்கியத்துவம் கொடுக்க போவதில்லை என்றார். R
-
-◼️
-
-[Data](articles/abe0cf0c.json)
-
----
-
-### මූල්‍ය ආරවුල් පිළිබඳ විශේෂ සමථ මණ්ඩල පිහිටු වීමට පියවර
-
-*2025-09-16 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214651) · `si`
-
-අධිකරණයට යොමුවන මූල්‍ය ආරවුල් අවම කිරීම සඳහා මූල්‍ය ආරවුල් පිළිබඳ විශේෂ සමථ මණ්ඩල පිහිටු වීමට පියවර ගන්නා බව අධිකරණ අමාත්‍ය හර්ෂණ නානයක්කාර මහතා පවසයි.
-
-එහි පළමු අදියර යටතේ කොළඹ, ගම්පහ, අනුරාධපුර, පොළොන්නරුව, මහනුවර සහ මොනරාගල දිස්ත්‍රික්ක තුළ විශේෂ මුල්‍ය ආරවුල් පිළිබඳ සමථ මණ්ඩල පිහිටුවීමට කටයුතු කරන බව අමාත්‍යවරයා සඳහන් කළේය.
-
-2025 ජාතික සමථ මණ්ඩල දිනය වෙනුවෙන් සමථ මණ්ඩල කොමිෂන් සභාවේ පැවති වැඩසටහනට එක්වෙමින් අමාත්‍ය හර්ෂණ නානායක්කාර මහතා මෙම අදහස් පළ කළේය.
-
-...
-
-[Data](articles/14a8631d.json)
-
----
-
-### Preliminary Discussion for 2026 Budget with Otomobile and Electronic Importers
-
-*2025-09-16 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225263) · `ta`
-
-The budget preliminary discussion on Otomobile and Electronic Equipment Industries was held on Tuesday (16) at the Presidential Office.
-
-Ottomobile and Electronic Equipment Importers said they would provide their full support for the economic development program carried out by the government headed by President Anura Kumara Dissanayake.
-
-Vehicle importers said the vehicle imports department has expanded due to the decision of the current government on vehicle imports. They also made many useful recommendations for the next budget.
-
-The problems facing importers of electronic equipment were also investigated.  Electronic equipment importers pointed out that the stealth of electronic equipment is being taken into the country without paying taxes, especially organized groups.
-
-They also pointed out that the government is causing a higher tax revenue loss and the quality of consumers is facing problems.
-
-...
-
-[Data](articles/01dbb32a.json)
-
-[Extended Data](ext_articles/01dbb32a.ext.json)
-
----
-
-### Relief loans to small scale entrepreneurs of Western Province
-
-*2025-09-16 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214650) · `si`
-
-Plans to launch a concessionary loan scheme for micro and small entrepreneurs in the Western Province.
-
-Western Province Chief Secretary Pradeep Pushpakumara said that at the Colombo District Coordinating Committee meeting.
-
-"Inaugured a system to operate a concessionary loan scheme for micro and small-scale entries in the Western Province. The interest rate of loan is 3%. 3 million as a maximum loan. The debt is to end in seven years. To the balance system. Notifications through Divisional Secretariats. "
-
-Meanwhile, Transport and Highways Minister Minister of Transport and Highways Minister Bimja said that the project expanding and development project will be launched in the coming year.
-
-◼️
-
-[Data](articles/64c0bae3.json)
-
-[Extended Data](ext_articles/64c0bae3.ext.json)
-
----
-
-### Increase oil storage capacity
+### තෙල් ගබඩා ධාරිතාව වැඩි කරන්න සංස්ථාවෙන් සැලසුම්
 
 *2025-09-16 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214649) · `si`
 
-The Ceylon Petroleum Corporation (CPC) says that steps will be taken to establish 6 additional tanks to increase the oil reserve capacity in the country.
+රට තුළ තෙල් සංචිත ධාරිතාව ඉහළ දැමීම සඳහා තවත් තෙල් ටැංකි 6ක් ස්ථාපිත කිරීමට අවශ්‍ය කටයුතු ආරම්භ කරන බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.
 
-Chairman of the President DJ Karuna stated that the construction of oil tanks that have been stopped in the construction of the construction over the recent past is being started.
+එහි සභාපති ඩී.ජේ රාජකරුණා මහතා සඳහන් කළේ පසුගිය කාලය තුළ ඉදිකිරීම් අතරමග නවතා දමා තිබු තෙල් ටැංකි ඉදිකිරීම් මෙලෙස ආරම්භ කිරීමට කටයුතු කරන බවය.
 
-Addressing a media briefing today, Lanka Petroleum Corporation Chairman DJ Karuna expressed these views.
+අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ඩී.ජේ රාජකරුණා මහතා මෙම අදහස් පළ කළේය.
 
-Meanwhile, DJ Rajakaratu expressed two new pipes from the port to Kolonnawa Oil Stores Terminal.
+මේ අතර වරායේ සිට කොළොන්නාව තෙල් ගබඩා පර්යන්තය දක්වා නව නළ මාර්ග දෙකක් ඉදිකිරීම සම්බන්ධයෙන් ද ඩී.ජේ රාජකරුණා මහතා එහිදී අදහස් පළකළේය.
 
 ◼️
 
 [Data](articles/74d133a6.json)
-
-[Extended Data](ext_articles/74d133a6.ext.json)
-
----
-
-### Preliminary budget discussion on the Transport Distribution Department of Maritime Products
-
-*2025-09-16 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225262) · `ta`
-
-The budget preliminary discussion on the distribution of maritime goods was held on Tuesday (16) at the Presidential Office under the patronage of Labor Minister and Deputy Minister of Economic Development Dr. Anil Anil Jayantha Fernando.
-
-The parties involved in the transportation distribution sector have made their full support to the President -led government's plan to build the country's economy.
-
-Moreover, the role of the maritime industry in the development of the tourism industry was extensively investigated.
-
-The contribution of the Maritime Products Transport Department in increasing imports and exports was also investigated.  The focus was also on the development of the now inactivated ports.
-
-By investing in infrastructure, providing competitive -based services and the possibility of Sri Lanka to achieve a significant role in the global maritime trade.
-
-...
-
-[Data](articles/df8a5b7f.json)
-
-[Extended Data](ext_articles/df8a5b7f.ext.json)
-
----
-
-### Famous actor Robert Redford has passed away
-
-*2025-09-16 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225261) · `ta`
-
-US actor and director Robert Redford (89) passed away on Tuesday (16) at a residence in Utta State.
-
-Ordinary People படத்திற்காக ஆஸ்கர் வென்ற அவர், Sundance திரைப்பட விழாவை நிறுவியதாலும் பரவலாக அறியப்பட்டார்.
-
-◼️
-
-[Data](articles/da6afbf6.json)
-
-[Extended Data](ext_articles/da6afbf6.ext.json)
-
----
-
-### There is no truth in the news of the closure of the Sri Lanka Fisheries Corporation - Minister Ramalingam Chandrasekhar
-
-*2025-09-16 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225260) · `ta`
-
-Minister of Fisheries, Aquatic Resources and Marine Resources Ramalingam Chandrasekhar said that the future decision on the Oluvil port will be taken only after the new possibility is conducted.
-
-The Ministry of Fisheries, Aquatic Resources and Marine Resources Affairs Advisory Committee held a recent meeting chaired by Minister Ramalingam Chandrasekhar.. Deputy Minister Ratna Kamage of Fisheries, Aquatic Resources and Marine Resources was also present.
-
-It was discussed in detail about the implementation of the Oluvil fishing port.. The Minister said that the new possibilities will be carried out on the basis of a new possibility of remedying the effects of the port of Oluvil without proper studies.
-
-The Deputy Minister also stated that the fishing harbor in the Valaichenai area is scheduled to be set up in 2026 to address the need for a fishing port for the Eastern Province, including the factory for fishing.
-
-...
-
-[Data](articles/91a0c99f.json)
-
-[Extended Data](ext_articles/91a0c99f.ext.json)
-
----
-
-### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
-
-*2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
-
-Sri Lanka expects Chinese state energy giant Sinopec to start work on a $3.7 billion refinery this year and is considering the company’s long-standing demand to sell more fuel locally, the energy minister said on Tuesday.
-
-The Sinopec refinery, approved in 2023, will have capacity to process 200,000 barrels of crude oil per day and will be located near the Chinese-built and operated Hambantota port in southern Sri Lanka, Energy Minister Kumara Jayakody said in an interview at his office.
-
-“The land we already have allocated for them, and they have done the other facilities too,” he said. “The government ... we all have the same idea and the same expectation on this project (that it will start this year).”
-
-Sri Lanka’s deputy economic development minister, Anil Jayantha Fernando, separately told Reuters that Sinopec could take about three years to complete the project.
-
-...
-
-[Data](articles/89630496.json)
-
-[Extended Data](ext_articles/89630496.ext.json)
 
 ---
 
@@ -227,26 +67,6 @@ The Minister made this statement in response to a question raised by the journal
 [Data](articles/ba01e7d7.json)
 
 [Extended Data](ext_articles/ba01e7d7.ext.json)
-
----
-
-### New Building for Jaffna University at a cost of 2,234 million
-
-*2025-09-16 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225259) · `ta`
-
-The Cabinet has granted permission to construct a new five -storey building with modern facilities including lecture halls, laboratory and auditorium to the Faculty of Jaffna University of Jaffna.. The estimated cost is 2,234 million rupees, the Cabinet spokesman said.
-
-The proposal submitted by the Minister of Education, Higher Education and Vocational Education has approved the Cabinet. In 2006, state universities were introduced by sub -health science degrees.
-
-Accordingly, three degrees were started in the Department of Medical Laboratory Science, Drug Chemistry and Naturalism at the University of Jaffna. Currently, 952 students from all ethnicity are educated in the four syllabus of medical laboratory science, pharmaceuticals, nursing and physical education, the Cabinet spokesman said.
-
-Although the Cabinet approved the construction of the building for the Faculty of Assistant Health Sciences in 2017, the funds were not allocated due to the financial crisis.
-
-...
-
-[Data](articles/84ea7292.json)
-
-[Extended Data](ext_articles/84ea7292.ext.json)
 
 ---
 
@@ -406,18 +226,6 @@ The Deputy Minister said that those reports were not true.
 
 ---
 
-### ජනපතිගේ ජපන් සංචාරය සැප්. 26 දා ඇරඹෙයි
-
-*2025-09-16 17:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ජපන්-සංචාරය-සැප්--26-දා-ඇරඹෙයි/11-418539) · `si`
-
-ජනපති අනුර කුමාර දිසානායක මහතාගේ මීළඟ සංචාරය ලෙස ජපාන සංචාරය ලබන 26 දා ආරම්භ වෙයි. මෙහිදී ජනපතිවරයා ජපාන එක්ස්පෝ ප්‍රදර්ශනයට එක්වීමට නියමිතය. ජපාන රජයේ ආරාධනාවක් අනුව ජනපතිවරයා මෙම සංචාරයට එක්වෙයි.
-
-◼️
-
-[Data](articles/c0e7e59d.json)
-
----
-
 ### 2 years of sexual harassment for a 16 -year -old boy: 14 people suit
 
 *2025-09-16 17:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுவனுக்கு-2-ஆண்டுகளாக-பாலியல்-வன்கொடுமை-14-பேர்-மீது-வழக்கு/175-364713) · `ta`
@@ -477,22 +285,6 @@ In this case, the UN to investigate international human rights violations. The H
 [Data](articles/bebae64b.json)
 
 [Extended Data](ext_articles/bebae64b.ext.json)
-
----
-
-### No decision to liquidate Fisheries Corporation
-
-*2025-09-16 16:57:16* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සංස්ථාව-ඈවර-කිරීමට-තීරණයක්-නෑ/11-418538) · `si`
-
-Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekam Chandrasekam Chandrasekar said that the Oluvil Port can be used after a new feasibility study.. The Ministry of Fisheries, Aquatic Resources and Marine Resources Advisory Committee on the Ministry of Fisheries. Fisheries, Aquatic and Ocean Resources Deputy Minister Ratna Gamage was also present at the occasion.
-
-At the meeting, the operation of Oluvil Fisheries Harbor was lengthy. The Minister stated that new feasibility studies are conducted to correct the damage caused by the Oluvil Port without proper studies and that future plans will be prepared based on it.. The Deputy Minister said that the Fisheries Harbor in Walachchenai has been planned to be a wider fishing harbor in 2026, to meet the need for fishing fisheries.
-
-...
-
-[Data](articles/edb9f4e4.json)
-
-[Extended Data](ext_articles/edb9f4e4.ext.json)
 
 ---
 
@@ -598,27 +390,19 @@ President Anura Dissanayake will sign the relevant exchange sheets and other doc
 
 ---
 
-### Father remanded his daughter abused
+### තම දියණිය අපයෝජනය කළ පියා රිමාන්ඩ්
 
 *2025-09-16 16:21:10* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-අපයෝජනය-කළ-පියා-රිමාන්ඩ්/11-418536) · `si`
 
-Kuliyapitiya Magistrate Mihinna Sathurna, the father of the girl who was abused by the 13-month girl was appointed as abusing a 8 month old girl.
+වයස අවුරුදු 13 මාස 8ක දැරියක් අපයෝජනය කළැයි කියන දැරියගේ පියා මේ මස 22 දක්වා රිමාන්ඞ් බාරයට පත්කරන්නැයි කුලියාපිටිය මහේස්ත‍්‍රාත් මිහිල් චිරන්තන සතුරුසිංහ මහතා ඊයේ (15දා) නියම කළේය.
 
-Earlier was remanded, a resident of Kuliyapitiya Cultural Center, a resident of Kuliyapitiya and a resident of Kuliyapitiya.
+එලෙසින් රක්‍ෂිත බන්ධනාගාර ගතවූයේ කුලියාපිටිය බෝගොඩ සංස්කෘතික මධ්‍යස්ථානය අසල පදිංචිකරුවෙකු වූ අධිකාරි මුදියන්සේලාගේ හසිත නුවන් අධිකාරි නැමැත්තෙකි.
 
-The suspect had arrested that the father had been arrested following a far matched by the parcer in Marawila and had been abused by the elderly sister of the mother abroad.
-
-The girl had been depressed at the Kuliyapitiya Police Division and that the investigatory reports have been placed in the house where the investigation were taken from the house.
-
-Attorneysi demanding the suspect, lawyers pointed out that the girl had lodged a false complaint as the girl rebuked.
-
-ඉදිරිපත්වූ සියලූ කරුණු කෙරෙහි අවධානය යොමුකළ මහේස්ත‍්‍රාත්වරයා සැකකරුයේ ඇප ඉල්ලීම ප‍්‍රතික්‍ෂේප කරමින් ඉදිරිදිනයේ පරීක්‍ෂණ ප‍්‍රගතිය රැගත් වැඩිදුර වාර්තාවක් ඉදිරි දිනයේ ඉදිරිපත් කරන්නැයි පොලිසියට නියම කළේය.
+මව විදෙස්ගතව ඇති වින්ධිත දැරියගේ වැඩිමහල් සහෝදරිය රැකියාවකට යාම හේතුවෙන් මාරවිල ප‍්‍රදේශයේ කන්‍යාරාමයක නවතා ගොස් සිටියදී එම පාලිකාවක් විසින් ලබාදුන් දුරඇමතුමක් අනුව විමර්ශනය කිරීමෙන් අනතුරුව ස්ථාන කිහිපයකදී සිවු දෙනෙකු විසින් වින්ධිත දැරිය අපයෝජනයට  ලක්කර ඇතැයි අනාවරණයවූ කරුණු අනුව අදාළ සැකකාර පියා අත්අඩංගුවට ගෙන තිබූ බව පොලිසිය අධිකරණයට කරුණු දැක්වීය.
 
 ...
 
 [Data](articles/439b5da7.json)
-
-[Extended Data](ext_articles/439b5da7.ext.json)
 
 ---
 
@@ -2047,5 +1831,247 @@ Employment continued to increase in August, reflecting “recruitments in severa
 [Data](articles/fa351514.json)
 
 [Extended Data](ext_articles/fa351514.ext.json)
+
+---
+
+### Britain to roll out red carpet, royal fanfare for Trump visit
+
+*2025-09-16 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112560/britain-to-roll-out-red-carpet-royal-fanfare-for-trump-visit) · `en`
+
+United States President Donald Trump will arrive in Britain on Tuesday (Sep 16) for a three-day trip.
+
+An elaborate show of pomp and pageantry awaits the American leader during his historic second state visit, as the United Kingdom spares no effort to charm its most unpredictable transatlantic guest.
+
+The last time Trump visited the storied Windsor Castle was for tea with the late Queen Elizabeth II, during his first term in office in 2019.
+
+This time, he will be hosted to a state banquet by King Charles III at the almost 1,000-year-old castle west of London, and meet with British Prime Minister Keir Starmer at his country estate.
+
+It is unusual for non-royals to receive the full ceremony of a second state visit, rendering Trump’s invitation a striking exception.
+
+Analysts said Starmer is hoping the display of royal flattery for the US president – Trump has long expressed a fascination with the royal family – will help keep UK-US ties on a friendly footing.
+
+...
+
+[Data](articles/33ad04dd.json)
+
+[Extended Data](ext_articles/33ad04dd.ext.json)
+
+---
+
+### Diyathalawa - Wild Fire in the Velanhinna area
+
+*2025-09-16 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/225211) · `ta`
+
+More than five acres of land in the Wild Fire in the Diyatalawa - Welanhehinna area has been destroyed.
+
+The fire broke out on Monday (15), the Badulla District Office of the Disaster Management Center said.
+
+However, forest security officers and soldiers in the Diyatalawa area have brought the fire under control.
+
+◼️
+
+[Data](articles/6638eb3a.json)
+
+[Extended Data](ext_articles/6638eb3a.ext.json)
+
+---
+
+### Namal met the Indian High Commission
+
+*2025-09-16 11:13:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்-ஸ்தானிகரை-சந்தித்தார்-நாமல்/175-364682) · `ta`
+
+Indian High Commissioner Santosh Ja meets Namal Rajapaksa, National Organizer and Member of Parliament of the Sri Lanka PA, has met at the Indian High Commission office.
+
+The meeting was organized by the Indian High Commission on the request of MP Namal Rajapaksa.
+
+Former President Mahinda Rajapakse met with the Chinese Ambassador in Colombo at his official residence in Wijerama Mawatha before his departure from his official residence in Colombo.
+
+When Ranil Wickremesinghe was arrested, the Chinese Ambassador telephoned President Anura Kumara Dissanayake and inquired about the arrest.
+
+◼️
+
+[Data](articles/e7568b4c.json)
+
+[Extended Data](ext_articles/e7568b4c.ext.json)
+
+---
+
+### World Bank Vice President concludes first official visit to Sri Lanka
+
+*2025-09-16 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112559/world-bank-vice-president-concludes-first-official-visit-to-sri-lanka) · `en`
+
+The World Bank’s Vice President for South Asia, Johannes Zutt, concluded his first official visit to Sri Lanka yesterday (15).
+
+During his two-day visit, he met with President Anura Kumara Dissanayake, Central Bank Governor Dr. Nandalal Weerasinghe, Secretary to the Treasury Dr. Harshana Suriyapperuma, and other senior officials.
+
+The visit built on World Bank Group (WBG) President Ajay Banga’s visit in May, when the Bank pledged over US$1 billion in financing for the country over the next three years. Since then, the WBG and Sri Lanka have partnered on two programs—a renewable energy program targeting 1 GW with private investment (US$150 million) and an agriculture project ($100 million). Additional operations are planned over the next 12 months in tourism, regional development with a focus on the Northern and Eastern provinces, digital development, and ports and logistics.
+
+...
+
+[Data](articles/530205dc.json)
+
+[Extended Data](ext_articles/530205dc.ext.json)
+
+---
+
+### World Bank representatives meet President
+
+*2025-09-16 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214627) · `si`
+
+President Anura Kumara Dissanayake said that Sri Lanka could educate the world community to educate the world community in Sri Lanka without corruption.
+
+The World Bank Group, Vice President of the South Asian region of the World Bank Group, met President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (15).
+
+It was widely discussed how the World Bank Group was able to support the future development goals in Sri Lanka.
+
+The World Bank representatives, who expressed their admiration on the current economic program in Sri Lanka, proposed to pay more attention to economic growth and employment generation.
+
+Special attention was focused on the development of the North and East as well as to promote areas where the demonstration of digital, tourism, agriculture and infrastructure.
+
+It was also revealed that the assistance of the Government of Sri Lanka has been approved by the Government of Sri Lanka.
+
+...
+
+[Data](articles/b9de099b.json)
+
+[Extended Data](ext_articles/b9de099b.ext.json)
+
+---
+
+### Dawn
+
+*2025-09-16 11:06:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-குறைந்த-மருந்து-மக்களிடையே-சென்றடையும்-அபாயம்/175-364681) · `ta`
+
+In examination of some of the unusual costs sold at private pharmacies, it has been confirmed that there are no proper additives in some drugs, which has raised serious concerns over the safety of the patient, said the president of the Medical and Civil Rights Professional Association, expert Sanjeewa Daily Miruk.
+
+He said that some drugs were imported to the country without proper registration at the National Pharmaceutical Regulatory Authority (NMRA) and that it was sold in private pharmacies without adequate supervision.. Although the country produced on labels is shown, he warned that such details may be fake local.
+
+Citing an instance, papaverine. 300 is available, but in fact, it is a fake product brought to the country without the consent of NMRA.
+
+"No one knows whether the drugs sold in such pharmacies have the right active ingredient or are mixed with harmful chemicals," he warned that these products are sold at very low or at a very high price, especially near large hospitals.
+
+...
+
+[Data](articles/5742872f.json)
+
+[Extended Data](ext_articles/5742872f.ext.json)
+
+---
+
+### Rescue of bullets from the hotel toilet
+
+*2025-09-16 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-கழிப்பறையில்-இருந்து-தோட்டாக்கள்-மீட்பு/175-364680) · `ta`
+
+Pirikkottai police said that 17 bullets were found from a garbage bin in a hotel toilet in Pettah, Colombo, Colombo.
+
+Employees who saw the bullets in the garbage bin when they went to the toilet have informed the police about this.
+
+According to the police, the police have seized the bullets and found that 9mm of bullets were found.. Police suspect that someone may have entered the toilet and poured bullets in the trash bin.
+
+◼️
+
+[Data](articles/026a4c9b.json)
+
+[Extended Data](ext_articles/026a4c9b.ext.json)
+
+---
+
+### Sri Lanka manufacturing expands at slower rate in August 2025: PMI
+
+*2025-09-16 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-expands-at-slower-rate-in-august-2025-pmi-240710/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing sector expanded at a slower rate to 55.2 in August, compared to 62.2 in July, according to a Purchasing Managers Index compiled by the central bank.
+
+All sub-indices registered lower rates of expansion compared to the previous month.
+
+The growth in the New Orders and Production sub-indices were supported by strong performances in the food and beverages manufacturing sector, CBSL said.
+
+The Employment sub-index remained in the positive territory during August, indicating favourable Employment conditions.
+
+However, Suppliers’ Delivery Time continued to lengthen during the month; “with some respondents reported delays in international shipping”.
+
+“Manufacturing activities over the next three months remain positive, largely underpinned by the anticipated seasonal demand towards the year end.” (Colombo/Sep16/2025)
+
+◼️
+
+[Data](articles/ffb21b45.json)
+
+[Extended Data](ext_articles/ffb21b45.ext.json)
+
+---
+
+### சிறைச்சாலை பஸ் மீது ‘கிளேமோர்‘ தாக்குதல் நடத்த திட்டம்
+
+*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/150-364679) · `ta`
+
+Information on the Clemore bombing targeting the prison bus has been exposed.
+
+Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+
+The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+
+This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+
+During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+
+However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
+
+If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+
+...
+
+[Data](articles/0c770556.json)
+
+[Extended Data](ext_articles/0c770556.ext.json)
+
+---
+
+### Clemore's attack on prison bus
+
+*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/175-364679) · `ta`
+
+Information on the Clemore bombing targeting the prison bus has been exposed.
+
+Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+
+The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+
+This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+
+During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+
+However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
+
+If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+
+...
+
+[Data](articles/3694b4a0.json)
+
+[Extended Data](ext_articles/3694b4a0.ext.json)
+
+---
+
+### Profession of the Electrical Engineering Association escalates
+
+*2025-09-16 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214626) · `si`
+
+The Ceylon Electricity Board (CEB) Executive Committee Member Dhanushka Parakrakarakka Parakasusinghe said that the Ceylon Electricity Board (CEB)
+
+He said that the first course of action taken to work so far was over yesterday and that his union has decided to take up its second step since today.
+
+However, he said that the public measures would not be expected to embarrass the people due to the professional measures.
+
+Accordingly, the involvement of tender committees is informed of other committees, in addition to the work in the future.
+
+He also decided to report sick leave for tomorrow (17) and two teams on the day and tomorrow.
+
+However, he said that the professional measures would not be interrupted by any other activities or any other activities.
+
+◼️
+
+[Data](articles/f96269e5.json)
+
+[Extended Data](ext_articles/f96269e5.ext.json)
 
 ---

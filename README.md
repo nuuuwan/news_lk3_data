@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 15:20:27**
+As of **2025-09-16 15:08:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,154 (95.9%) of 76,317 articles have been extended.
+73,147 (95.8%) of 76,317 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,21 @@ He said they look forward to strengthening the partnership between the two count
 
 ---
 
-### The people of Colombo! Model Thursday
+### கொழும்பு வாழ் மக்களே! ’வியாழன்’ உஷார்
 
 *2025-09-16 14:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வாழ்-மக்களே-வியாழன்-உஷார்/175-364701) · `ta`
 
-The National Water Supply and Drainage Board (NWSDB) has announced a 9 -hour water cut in Colombo on Thursday 18 September.
+தேசிய நீர் வழங்கல் மற்றும் வடிகால் சபை (NWSDB) செப்டம்பர் 18, வியாழக்கிழமை அன்று கொழும்பில் 9 மணி நேர நீர் வெட்டு அறிவித்துள்ளது.
 
-Water supply will be stopped from 10:00 am to 7:00 pm in areas from Colombo 01 to Colombo 15.
+கொழும்பு 01 முதல் கொழும்பு 15 வரை உள்ள பகுதிகளில் காலை 10:00 மணி முதல் மாலை 7:00 மணி வரை நீர் விநியோகம் நிறுத்தப்படும்.
 
-The National Water Supply Board has advised residents to take adequate water in advance and take necessary precautions.
+இப் பகுதிகளில் வசிப்பவர்கள் முன்கூட்டியே போதுமான தண்ணீரை சேமித்து வைத்து தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு தேசிய நீர் வழங்கல் வாரியம் அறிவுறுத்தியுள்ளது.
 
-The public has been asked to cooperate by protecting the water during the barrier and afterwards.
+தடையின் போதும் அதற்குப் பிறகும் தண்ணீரைப் பாதுகாப்பதன் மூலம் பொதுமக்கள் ஒத்துழைக்க வேண்டும் என்றும் கேட்டுக் கொள்ளப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/250c8674.json)
-
-[Extended Data](ext_articles/250c8674.ext.json)
 
 ---
 
@@ -386,7 +384,7 @@ The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour w
 
 The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
 
-In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
+In light of this, the NWSDB urges the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
 
 ◼️
 
@@ -520,19 +518,17 @@ The accident occurred when a bus carrying employees of a private company collide
 
 ---
 
-### 4 invasion fish species banned
+### ආක්‍රමණ මත්ස්‍ය විශේෂ 4ක් තහනම් කරයි
 
 *2025-09-16 13:11:59* · [`adalk`](https://www.ada.lk/breaking_news/ආක්‍රමණ-මත්ස්‍ය-විශේෂ-4ක්-තහනම්-කරයි/11-418526) · `si`
 
-Fisheries, Aquaculture Resources, Minister of Fisheries, Aquatic and Ocean Resources at a special press conference held at a special media briefing held and selling an aggressive foreign fish species to the local aquatic ecosystem and native fish resources.
+මෙරට දේශීය ජලජ පරිසර පද්ධතියට සහ ස්වදේශික මත්ස්‍ය සම්පතට දැඩි තර්ජනයක් එල්ල කරන ආක්‍රමණශීලී විදේශීය මත්ස්‍ය විශේෂ හතරක් ආනයනය, ලඟ තබා ගැනීම, අභිජනනය සහ විකිණීම තහනම් කිරීමට පියවර ගැනීමට නියමිත බව ධීවර, ජලජ හා සාගර සම්පත් අමාත්‍ය, රාමලිංගම් චන්ද්‍රසේකර් මහතා ඊයේ (15) පැවති විශේෂ මාධ්‍ය හමුවකදී නිවේදනය කළේය.
 
-Secretary to the Ministry Dr. B also. K. The Director General of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chairman of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chief Attorney Susantha Fire Firellemi Wickramaratne.
+මෙම අවස්ථාව සඳහා අමාත්‍යාංශ ලේකම් ආචාර්ය බී. කේ. කෝලිත කමල් ජිනදාස, ජාතික ජලජීවී වගා සංවර්ධන අධිකාරියේ (NAQDA) සභාපති කිත්සිරි ධර්මප්‍රිය සහ ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත, ඇන්ගිලින් ප්‍රජාව ස්පොර්ටි ෆිශිං සංගමයේ, ප්‍රධාන අනුශාසක, ප්‍රසන්න ප්‍රියකැලුමි වික්‍රමරත්න මහතා යන මහත්වරු ද එක්ව සිටියහ.
 
 ...
 
 [Data](articles/170b6b3e.json)
-
-[Extended Data](ext_articles/170b6b3e.ext.json)
 
 ---
 

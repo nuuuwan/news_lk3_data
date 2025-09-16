@@ -1,248 +1,80 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 10:20:30**
+As of **2025-09-16 09:12:17**
 
 ## Newspaper Stats
 
-*Scraped **76,240** Articles*
+*Scraped **76,230** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 629
+dbsjeyarajcom | 628
 bbccomsinhala | 677
 colombotelegraphcom | 773
 economynextcom | 4,615
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,398
-adaderanalk | 9,819
-tamilmirrorlk | 11,406
-virakesarilk | 12,426
-adaderanasinhalalk | 13,299
+adalk | 7,397
+adaderanalk | 9,817
+tamilmirrorlk | 11,404
+virakesarilk | 12,424
+adaderanasinhalalk | 13,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,848 (95.6%) of 76,240 articles have been extended.
+72,773 (95.5%) of 76,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### இந்திய-பாகிஸ்தான் அணிகளிடம் இல்லாது போன ‘விளையாட்டு அறம்’
-
-*2025-09-16 10:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-பாகிஸ்தான்-அணிகளிடம்-இல்லாது-போன-விளையாட்டு-அறம்/175-364670) · `ta`
-
-ஐக்கிய அரபு அமீரகத்தில் தற்போது நடைபெற்றுவருகின்ற ஆசியக் கிண்ணத் தொடரில், ஞாயிற்றுக்கிழமை(14) அன்று நடைபெற்ற இந்தியாவுக்கும் பாகிஸ்தானுக்கும் இடையிலான போட்டி, கிரிக்கெட் ரசிகர்களின் கவனத்தை வெகுவாக ஈர்த்திருந்தது. இந்த போட்டியில் இந்தியா வென்றது.
-
-ஆசிய கிண்ண தொடரில் ஞாயிற்றுக்கிழமை (14) அன்று நடைபெற்ற 6ஆவது லீக் ஆட்டத்தில் பரம எதிரிகளான இந்தியா-பாகிஸ்தான் அணிகள் மோதின. இந்தியா, பஹல்காமில் பாகிஸ்தான் பயங்கரவாதிகளின் கொடூர தாக்குதல், அதற்கு இந்தியாவின் பதிலடியால் உருவான போர் பதற்றம் தணிந்த பிறகு இவ்விரு அணிகளும் சந்தித்த முதல் போட்டி என்பதால் கிரிக்கெட் உலகின் ஒட்டுமொத்த கவனத்தையும் ஈர்த்து இருந்தது.
-
-எந்தவொரு விளையாட்டுப் போட்டியாக இருந்தாலும் வெற்றி, தோல்வியை ஏற்றுக்கொள்ளவேண்டும். வெற்றியால் தலைக்கணம் வரக்கூடாது. தோல்வியால் துவண்டுவிழுந்துவிடக்கூடாது. அதிலிருந்து கற்றுக்கொள்ளவேண்டும் என்பதை பாடசாலை காலங்களில் இருந்தே ஆசிரியர்கள் கற்றுத்தந்துள்ளனர்.
-
-...
-
-[Data](articles/46dda34f.json)
-
----
-
-### பிலிப்பைன்ஸின் மணிலா நகரில் குடியிருப்புப் பகுதியில் தீ பரவல்
-
-*2025-09-16 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225197) · `ta`
-
-இந்த தீப்பரவலினால், 1,100க்கும் மேற்பட்ட குடும்பங்கள் தங்கள் வீடுகளை இழந்து தற்காலிக முகாம்களில்; தங்க வைக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/c57ef50b.json)
-
----
-
-### Sri Lanka eyes 6% growth in 2026, but 2025 outlook dims amid spending delays: Dy Minister
-
-*2025-09-16 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112553/sri-lanka-eyes-6-gdp-growth-in-2026-but-2025-outlook-dims-amid-spending-delays-dy-minister) · `en`
-
-Sri Lanka is aiming to boost its economic growth to up to 6% in 2026, partly through record government capital expenditure, though delays in passing the budget could drag on its performance this year, Deputy Minister of Economic Development Anil Jayantha Fernando said.
-
-Deputy Minister Anil Jayantha said Sri Lankans and investors should be “hopeful” as the country climbs out of the economic crisis that hit in 2022, its worst since independence.
-
-Sri Lanka recorded economic growth of 5% in 2024. That would likely slow to 4% to 4.5% this year, as delays in passing the budget slowed government spending, Fernando told Reuters in an interview.
-
-“Next year ... we will need to go for 5 to 6% growth. We will aim for that,” he said. “In the long run, after five years, we target to maintain an average GDP growth that emerging countries are maintaining. That is around 6 to 7%.”
-
-...
-
-[Data](articles/d21d6f07.json)
-
----
-
-### Conventions in Chinese-American trade negotiations
-
-*2025-09-16 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214623) · `si`
-
-Agreement has been reached in the Spanish discussions on the Chinese-American Economic and Trade.
-
-The head of the Chinese party, head of the Chinese side, the head of the Chinese party, headed by the President of the Chinese party, He Lifeng, the Chief of Parliament, the Head of the United States, Treasury Jamieson Greeer, was presented to the latest talks.
-
-The discussion was held yesterday (14) at the agreement of the two countries on the agreement of both parties on the concurrence of both parties.
-
-The two parties have agreed on the resolution of tiktok issues, reducing investment obstructions, economic and trade cooperation promotion.
-
-Deputy Minister of Commerce Li Cheengggggggggggang, a Deputy Minister of Commerce Discussion on Thiktok's problem, said that China is also opposed to the politicization and nationalization related to economic and trade problems.
-
-He also said that China is never prepared to give up the principles and companies to an agreement to resolve these issues.
-
-...
-
-[Data](articles/72e06839.json)
-
-[Extended Data](ext_articles/72e06839.ext.json)
-
----
-
-### Digital signature introduced for government entities to enhance efficiency
-
-*2025-09-16 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112552/digital-signature-introduced-for-government-entities-to-enhance-efficiency) · `en`
-
-A digital signature system has been introduced for public officials with the aim of making official duties easier and more efficient.
-
-Minister of Public Administration, Provincial Councils and Local Government, Dr. Chandana Abeyratne, stated that the government’s objective is to digitize public services and lead them onto a new path.
-
-He made these remarks while attending the event held yesterday (15) to formally recognize the use of digital signatures for public officials of the Home Affairs Division of the Ministry of Public Administration, Provincial Councils and Local Government.
-
-The Minister further emphasized that his vision is to create an efficient public service that meets the expectations of the people, and that this technology should be extended to Grama Niladhari officials as well.
-
-...
-
-[Data](articles/a7b9f14b.json)
-
----
-
-### School vans that are unworthy
-
-*2025-09-16 09:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகுதியற்ற-நிலையில்-இருக்கும்-பாடசாலை-வேன்கள்/175-364668) · `ta`
-
-Of the 54 vans carrying school children, 53 vans are not eligible to carry students, police said.
-
-In addition, 24 vehicles were issued during the inspection, according to the Month Traffic Police Division.
-
-With the help of the police, 54 buses and vans carrying school children in the Madampe, Chilaw and Arachchikattuwa police areas were inspected.
-
-Only one vehicle was suitable for transporting students, police said. Remble
-
-◼️
-
-[Data](articles/f3208645.json)
-
-[Extended Data](ext_articles/f3208645.ext.json)
-
----
-
-### Japan's tourist arrivals fall after struggle
-
-*2025-09-16 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214622) · `si`
-
-The conflict held in Nepal has pressurized the tourism section.
-
-Foreign media reporting, the tourist arrivals of Nepal have fallen by 30%.
-
-The Nepalese Tourist Authority, Hotel owners and tourism organizers said that there was a 30% tournament with last year, some tourist arrivals have fallen by 30% and have been canceled.
-
-Foreign media reports that busy travel centers, shops and restaurants in Kathmandu have gone to the weighted tourist centers, shops and restaurants.
-
-59 of them are protesters and there are 10 inmates and three policemen.
-
-Protest in general area Kathmandu, Kathmandu, was against the decision to ban 26 social media columns.
-
-The majority of the new generation of new teenagers, which have been protesting against social media censorship, are young.
-
-◼️
-
-[Data](articles/b83449c1.json)
-
-[Extended Data](ext_articles/b83449c1.ext.json)
-
----
-
-### Gaza people have to leave due to Israel's heavy attack!
-
-*2025-09-16 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225195) · `ta`
-
-The people of Gaza are forced to leave due to Israel's extreme attacks
-
-Israel has bombed the al-Kafri building, the tallest residential building in Gaza.
-
-Hundreds of thousands of residents were forced to leave the city as a massive attacks on the city of Gaza last evening.
-
-Israeli media reports that exceptionally intense air strikes have been concentrated in the north and west of the city.
-
-At the same time, the Palestinian Civil Defense Ministry said that about 50 buildings were recently demolished as Israeli forces intensified attacks to capture the city.
-
-In Jidown, more than 1,500 homes and buildings have been destroyed since the beginning of August.
-
-Israel has once again attacked residential areas, schools and hospitals during its 23 -month genocide war.
-
-Gaza's Health Ministry said that 51 Palestinians, including six -year -old twins, were killed in the last 24 hours.
-
-◼️
-
-[Data](articles/f7f78814.json)
-
-[Extended Data](ext_articles/f7f78814.ext.json)
-
----
-
-### Motorcycle accident at Wellavawaya - Hambantota Road
+### வெல்லவாய - அம்பாந்தொட்டை வீதியில் மோட்டார் சைக்கிள் விபத்து
 
 *2025-09-16 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225192) · `ta`
 
-A motorcycle traveling from Veeraveli to Pannekamuwa in the Sethawatta area of ​​the Veerawila Police Division on the Wellawaya - Hambantota road crashed into a motorcycle.
+வெல்லவாய - அம்பாந்தொட்டை வீதியில் வீரவில பொலிஸ் பிரிவிற்குட்பட்ட சேதவத்த பகுதியில், வீரவிலயிலிருந்து பன்னேகமுவ நோக்கி சென்ற மோட்டார் சைக்கில் ஒன்று முன்னால் சென்ற மற்றுமொரு மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
 
-In the accident, four people who were traveling on a motorcycle were injured and admitted to the Thebarawela Hospital.
+இந்த விபத்தில், மோட்டார் சைக்கிளில் பயணித்த நால்வரும் காயமடைந்து தெபரவெல வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
 
-The deceased has been revealed to be a 25 -year -old soldier from Welimada.
+உயிரிழந்தவர் வெலிமடை பகுதியைச் சேர்ந்த 25 வயதுடைய இராணுவ வீரர் என தெரியவந்துள்ளது.
 
-The body is being kept at the Thebarawela Hospital and further investigations into the incident are being carried out by Veerawila Police.
+சடலம் தெபரவெல வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை  வீரவில பொலிஸார் மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/e81b0676.json)
 
-[Extended Data](ext_articles/e81b0676.ext.json)
-
 ---
 
-### Mahinda has not received a house so far
+### இதுவரை மஹிந்தவுக்கு ஒரு வீடு கிடைக்கவில்லை
 
 *2025-09-16 08:54:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-மஹிந்தவுக்கு-ஒரு-வீடு-கிடைக்கவில்லை/175-364667) · `ta`
 
-Former President Mahinda Rajapaksa is looking for places to settle in Colombo, but it is reported that there is still no suitable house.
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கொழும்பில் குடியேற இடங்களைத் தேடி வருகிறார், ஆனால் இன்னும் பொருத்தமான வீடு கிடைக்கவில்லை என்று தெரிவிக்கப்படுகிறது.
 
-Sri Lanka PA's Secretary of State Attorney Sagara Kariyawasam said the expectation is to choose a house in the area with adequate and appropriate road facilities.
+போதுமான மற்றும் பொருத்தமான சாலை வசதிகள் உள்ள பகுதியில் ஒரு வீட்டைத் தேர்ந்தெடுப்பதே எதிர்பார்ப்பு என்று ஸ்ரீலங்கா பொதுஜன பெரமுன செயலாளர் சட்டத்தரணி சாகர காரியவசம் குறிப்பிட்டார்.
 
-Sakara Kariyawasam added that the suitable house for the former president will soon be available. Remble
+முன்னாள் ஜனாதிபதிக்கு ஏற்ற பொருத்தமான வீடு விரைவில் கிடைக்கும் என்றும் சாகர காரியவசம் மேலும் கூறினார். R
 
 ◼️
 
 [Data](articles/d75fbb9f.json)
 
-[Extended Data](ext_articles/d75fbb9f.ext.json)
-
 ---
 
-### A digital signature to public officials
+### රාජ්‍ය නිලධාරීන්ට ඩිජිටල් අත්සනක්
 
 *2025-09-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214621) · `si`
 
-Public officials have introduced a digital signature to make functioning and efficient.
+රාජකාරි කටයුතු පහසු සහ කාර්යක්ෂම කිරීම රාජ්‍ය නිලධාරීන්ට  ඩිජිටල් අත්සනක් හඳුන්වා දී තිබේ.
 
 ◼️
 
 [Data](articles/9e481ab9.json)
-
-[Extended Data](ext_articles/9e481ab9.ext.json)
 
 ---
 
@@ -286,21 +118,19 @@ The driver of the van and two women were admitted to the Kalubowila hospital and
 
 ---
 
-### India - Russia does not affect the relationship between
+### இந்தியா – ரஷ்யா இடையிலான உறவு பாதிக்காது
 
 *2025-09-16 08:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-ரஷ்யா-இடையிலான-உறவு-பாதிக்காது/50-364665) · `ta`
 
-The Russian Foreign Ministry has explained that although various efforts have been made to affect the relationship between India and Russia, they will not benefit.
+இந்தியா – ரஷ்யா இடையேயான உறவை பாதிக்க பல்வேறு முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அவை பயனளிக்காது என ரஷ்ய வெளியுறவுத்துறை விளக்கம் அளித்துள்ளது.
 
-Due to long -term friendship and cultural interactions, the relationship of the two countries cannot be broken.
+நீண்டகால நட்பு மற்றும் கலாசார தொடர்புகள் காரணமாக, இரு நாடுகளின் உறவை முறிக்க முடியாது.
 
-Any effort can be failed. The report states that India -Russia relations continue to improve. (A)
+எந்தவொரு முயற்சியும் தோல்வியிலேயே முடியும். இந்தியா - ரஷ்யா உறவுகள் தொடர்ந்து முன்னேற்றம் கண்டு வருகின்றன என்று அந்த அறிக்கையில் கூறப்பட்டுள்ளது. (a)
 
 ◼️
 
 [Data](articles/06760e9f.json)
-
-[Extended Data](ext_articles/06760e9f.ext.json)
 
 ---
 
@@ -320,8 +150,6 @@ A total of 198,235 foreign nationals visited the country in August which was an 
 
 [Data](articles/f4cbff17.json)
 
-[Extended Data](ext_articles/f4cbff17.ext.json)
-
 ---
 
 ### Nepal’s deadly protests hammer tourism sector as arrivals fall 30%
@@ -339,8 +167,6 @@ Nepal’s tourism authority, hotel owners and trek organisers said arrivals had 
 ...
 
 [Data](articles/c69ab2fd.json)
-
-[Extended Data](ext_articles/c69ab2fd.ext.json)
 
 ---
 
@@ -379,22 +205,6 @@ There is a possibility of rain or thundershowers after 1.00 pm. (A)
 [Data](articles/543f1d35.json)
 
 [Extended Data](ext_articles/543f1d35.ext.json)
-
----
-
-### කැටපත් පවුරට හානි කළ තරුණිය 26 දක්වා රිමාන්ඩ්
-
-*2025-09-16 07:48:32* · [`adalk`](https://www.ada.lk/breaking_news/කැටපත්-පවුරට-හානි-කළ-තරුණිය-26-දක්වා-රිමාන්ඩ්/11-418516) · `si`
-
-Archaeological Officers arrested a 21-year-old girl who was harming the unique castic walls of Sigiriya last Sunday (14).
-
-Twaruniya, handed over to Sigiriya Police on Monday, and was remanded until September 15 after he was produced before the Dambulla Magistrate and submitted to the Sigiriya Police on the 14th of September.. .
-
-◼️
-
-[Data](articles/fc805da2.json)
-
-[Extended Data](ext_articles/fc805da2.ext.json)
 
 ---
 
@@ -1568,22 +1378,6 @@ When I was a member of the Opposition in 2017, I had presented an individual ref
 
 ---
 
-### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
-
-*2025-09-15 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
-
-...
-
-[Data](articles/39f24b3f.json)
-
-[Extended Data](ext_articles/39f24b3f.ext.json)
-
----
-
 ### 30 acres of land in Kilinochchi
 
 *2025-09-15 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225177) · `ta`
@@ -2007,5 +1801,219 @@ Ten of the protesting teachers have been allowed to participate in the discussio
 [Data](articles/821f9692.json)
 
 [Extended Data](ext_articles/821f9692.ext.json)
+
+---
+
+### 4 invasive fish species banned - a gazette released
+
+*2025-09-15 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214608) · `si`
+
+Fisheries, Aquatic and Ocean Resources has issued a gazette notification banned by 4 aggressive fish species.
+
+The ban has been imposed on aggressive fish species, Piriana, NiF Fish, Algetor Gar, Red Line Sneak Head.
+
+Accordingly, the release of the above fish species, release, release, release, exhibit, ensure, and export, release, sale, sale, sale and sale.
+
+The Sri Lankan National Aquaculture Development Authority (J) has been incorporated by the Sri Lankan Act No. 53 of 1998 for food.
+
+According to these orders, "the fisheries species" of the fisheries
+
+◼️
+
+[Data](articles/6848d174.json)
+
+[Extended Data](ext_articles/6848d174.ext.json)
+
+---
+
+### Resource Manampehi ready to be assumed
+
+*2025-09-15 17:57:59* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකරණයට-භාරවීමට-සූදානම්/11-418509) · `si`
+
+The Court of Appeal today (15), his lawyer was asked to arrest the chemicals to be arrested in connection with the discovery of chemicals in the discovery of the chemicals to be arrested.
+
+◼️
+
+[Data](articles/e99ab2c7.json)
+
+[Extended Data](ext_articles/e99ab2c7.ext.json)
+
+---
+
+### Army exploits the fire in Nanpathal forest reserve
+
+*2025-09-15 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214607) · `si`
+
+The army has obtained military assistance to control the fire at Nanpaeral Reserve in Nanpaeral Reserve, "says Ada Derana reporter.
+
+It is said that more than a thousand acres have been destroyed due to the fire.
+
+The Army, the Army and the Ratnapura District Disaster Division is working together.
+
+The strong winds in the area was difficult to control the fire.
+
+But when inquired, our correspondent said that the fire had been able to control somewhat.
+
+◼️
+
+[Data](articles/52989027.json)
+
+[Extended Data](ext_articles/52989027.ext.json)
+
+---
+
+### “Turn off the opposition's Mike”
+
+*2025-09-15 17:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சியினரின்-மைக்-ஐ-அணைக்கின்றனர்/175-364642) · `ta`
+
+Opposition leader Sajith Premadasa today accused the opposition of the opposition to reduce the time being allocated to Parliament to raise the real problems faced by the people.
+
+Speaking during the event during the "Kamat Kamada Thordar Thorada" (Village, Village, Home House), MPs said that when the MPs got up to speak, the time was allocated to the opposition by turning off the microphones.
+
+Premadasa added that "people should listen to what they say and solve the problems they face."
+
+◼️
+
+[Data](articles/dce7a765.json)
+
+[Extended Data](ext_articles/dce7a765.ext.json)
+
+---
+
+### Murder
+
+*2025-09-15 17:44:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணமடைந்ததாகக்-கூறப்படும்-பெண்-கொலை/175-364641) · `ta`
+
+An autopsy of the mother of a child allegedly alleged to have died of sleep revealed that his death was a murder.
+
+Dambulla police said that the husband of the deceased woman who came to testify on the death was arrested on suspicion.
+
+The deceased is 34 years old. He is the mother of a child and he belongs to the Tithavelkolla area.
+
+He was working as a management service officer at the Galewela Zonal Education Office.
+
+On the 13th of this month, police received information that a woman had died in a sleeping room in a house in Dambulla, Dambulla.
+
+Her husband told the police that he had gone to bed at 4.00 pm and told him to wake him at 9 pm.
+
+Accordingly, the woman's husband had told the police that she had gone to raise his wife at night, but she did not wake up because she did not get up and called her an ambulance service.
+
+◼️
+
+[Data](articles/3d62cf75.json)
+
+[Extended Data](ext_articles/3d62cf75.ext.json)
+
+---
+
+### Australia reports decline in HIV, surge in common STIs
+
+*2025-09-15 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112533/australia-reports-decline-in-hiv-surge-in-common-stis) · `en`
+
+Australia’s 2024 sexual health report shows a concerning rise in common sexually transmitted infections (STIs) alongside a decline in human immunodeficiency virus (HIV) diagnoses.
+
+Over the past decade, syphilis and gonorrhea cases more than doubled, with 5,866 and 44,210 diagnoses, respectively, in 2024, according to Australia’s 2024 Sexual Health Check-up released Monday by the University of New South Wales’ Kirby Institute.
+
+The new national surveillance data, released at the Australasian HIV&AIDS Conference in Australia’s Adelaide, revealed significant gaps in sexual health testing alongside a sharp increase in syphilis and gonorrhea cases over the past decade.
+
+Syphilis cases among women quadrupled, raising serious concerns about congenital syphilis, which has more than doubled since 2015 and caused 34 infant deaths, disproportionately affecting Indigenous Australians, the report said.
+
+...
+
+[Data](articles/8fa15492.json)
+
+[Extended Data](ext_articles/8fa15492.ext.json)
+
+---
+
+### I don't arrange people to see me
+
+*2025-09-15 17:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னைப்-பார்க்க-மக்களை-நான்-ஏற்பாடு-செய்வதில்லை/175-364640) · `ta`
+
+Journalists met with former President Maithripala Sirisena on Monday (15) at home in Colombo. Maithripala Sirisena's answer to the question they asked…
+
+Maithripala: “No, no, if you are staying, we will be two more days.. Some more work has to be done ”.
+
+Maithripala: “Former President JR Jayawardena is a law passed in Parliament to bring blessings to former presidents and cabinet ministers.. According to the law, the former were given to those who were.
+
+The current government was told to repeal the law. We are going. We have no problem ”.
+
+Journalist: We saw a large crowd around Mahinda Rajapaksa. No one came to see you?
+
+Maithripala: I laughed and said, "I am not bringing people."
+
+◼️
+
+[Data](articles/38088cdd.json)
+
+[Extended Data](ext_articles/38088cdd.ext.json)
+
+---
+
+### Army deployed to contain fire in ‘Nonpareil Reserve’, over 1,000 acres of land destroyed
+
+*2025-09-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112532/army-deployed-to-contain-fire-in-nonpareil-reserve-over-1000-acres-of-land-destroyed) · `en`
+
+Sri Lanka Army personnel have been deployed to help control the forest fire that broke out in the Nonpareil Reserve in Balangoda, according to Ada Derana reporter.
+
+The fire, which has been raging for several days, is reported to have already destroyed over 1,000 acres of land.
+
+Our correspondent stated that the Sri Lanka Army, along with the Disaster Management Unit of the Ratnapura District, is currently engaged in firefighting efforts.
+
+Although strong winds in the area have made it difficult to fully contain the fire, it is reported that some progress has been made in bringing the blaze under control.
+
+◼️
+
+[Data](articles/4934693a.json)
+
+[Extended Data](ext_articles/4934693a.ext.json)
+
+---
+
+### Warm weather advisory issued for several districts including Colombo
+
+*2025-09-15 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112531/warm-weather-advisory-issued-for-several-districts-including-colombo) · `en`
+
+A warm weather advisory has been issued for residents of the Northern, North-central, North-western and Eastern provinces and in the Colombo, Gampaha, Hambantota and Monaragala districts.
+
+The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (16), according to the Department of Meteorology.
+
+“The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body”, said the Met Department in a statement.
+
+The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
+
+Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
+
+◼️
+
+[Data](articles/bd5680ab.json)
+
+[Extended Data](ext_articles/bd5680ab.ext.json)
+
+---
+
+### World GDP forecasts raised, but evidence of US slowdown rises: Fitch
+
+*2025-09-15 17:15:00* · [`economynextcom`](https://economynext.com/world-gdp-forecasts-raised-but-evidence-of-us-slowdown-rises-fitch-240572/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has raised its world growth forecasts for the year since the June Global Economic Outlook (GEO) on better-than-expected incoming data for 2Q25, but expects world GDP to slow significantly this year, it said.
+
+“There is now evidence of an underlying US slowdown in ‘hard’ economic data and positive surprises on eurozone growth have partly reflected US tariff front-running,” the ratings agency said.
+
+Global growth is now forecast to be 2.4 percent in 2025, Fitch said.
+
+This is up 0.2pp since June, but is a ‘sizeable’ slowdown from 2.9 percent last year and below trend.
+
+China’s forecast has been raised to 4.7 percent from 4.2 percent, the eurozone’s to 1.1 percent from 0.8 percent and the US’s to 1.6 percent from 1.5 percent.
+
+“There has been a reduction in uncertainty over US tariff policy after a flurry of announcements.
+
+“Our latest estimate of the average US effective tariff rate (ETR) is 16%, very close to the rate assumed in June.
+
+...
+
+[Data](articles/a1051313.json)
+
+[Extended Data](ext_articles/a1051313.ext.json)
 
 ---

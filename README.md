@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 14:56:16**
+As of **2025-09-16 15:20:27**
 
 ## Newspaper Stats
 
-*Scraped **76,308** Articles*
+*Scraped **76,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,105 @@ economynextcom | 4,618
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,407
-adaderanalk | 9,833
-tamilmirrorlk | 11,428
-virakesarilk | 12,429
+adalk | 7,408
+adaderanalk | 9,839
+tamilmirrorlk | 11,429
+virakesarilk | 12,430
 adaderanasinhalalk | 13,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,147 (95.9%) of 76,308 articles have been extended.
+73,154 (95.9%) of 76,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### கொழும்பு வாழ் மக்களே! ’வியாழன்’ உஷார்
+### Namal meets Indian High Commissioner to discuss on-going political developments
+
+*2025-09-16 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112574/namal-meets-indian-high-commissioner-to-discuss-on-going-political-developments-) · `en`
+
+The National Organiser of the Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Namal Rajapaksa has met with Indian High Commissioner in Colombo Santosh Jha at the India House this afternoon (16).
+
+During the meeting, both parties discussed on-going developments in India and Sri Lanka, High Commissioner Jha stated.
+
+Following the meeting, MP Rajapaksa stated that the SLPP greatly values the longstanding friendship and strong bilateral ties with India.
+
+He said they look forward to strengthening the partnership between the two countries further.
+
+◼️
+
+[Data](articles/bebc2acc.json)
+
+---
+
+### The people of Colombo! Model Thursday
 
 *2025-09-16 14:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வாழ்-மக்களே-வியாழன்-உஷார்/175-364701) · `ta`
 
-தேசிய நீர் வழங்கல் மற்றும் வடிகால் வாரியம் (NWSDB) செப்டம்பர் 18, வியாழக்கிழமை அன்று கொழும்பில் 9 மணி நேர நீர் வெட்டு அறிவித்துள்ளது.
+The National Water Supply and Drainage Board (NWSDB) has announced a 9 -hour water cut in Colombo on Thursday 18 September.
 
-கொழும்பு 01 முதல் கொழும்பு 15 வரை உள்ள பகுதிகளில் காலை 10:00 மணி முதல் மாலை 7:00 மணி வரை நீர் விநியோகம் நிறுத்தப்படும்.
+Water supply will be stopped from 10:00 am to 7:00 pm in areas from Colombo 01 to Colombo 15.
 
-இப் பகுதிகளில் வசிப்பவர்கள் முன்கூட்டியே போதுமான தண்ணீரை சேமித்து வைத்து தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு தேசிய நீர் வழங்கல் வாரியம் அறிவுறுத்தியுள்ளது.
+The National Water Supply Board has advised residents to take adequate water in advance and take necessary precautions.
 
-தடையின் போதும் அதற்குப் பிறகும் தண்ணீரைப் பாதுகாப்பதன் மூலம் பொதுமக்கள் ஒத்துழைக்க வேண்டும் என்றும் கேட்டுக் கொள்ளப்பட்டுள்ளது.
+The public has been asked to cooperate by protecting the water during the barrier and afterwards.
 
 ◼️
 
 [Data](articles/250c8674.json)
+
+[Extended Data](ext_articles/250c8674.ext.json)
+
+---
+
+### புராதன பாளி இலக்கண நூலான பாலவதரோ மீள்பதிப்பின் வெளியீடு
+
+*2025-09-16 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225230) · `ta`
+
+இந்திய அரசாங்கத்தின் கீழான கலாசார உறவுகளுக்கான இந்திய பேரவை, மற்றும் கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயம் ஆகியவற்றின் ஆதரவுடன் பாத்பைண்டர் மன்றம் புராதன பாளி இலக்கண நூலான பாலவதரோவை மீள் பதிப்பு செய்துள்ளது.
+
+இந்நூல் கண்டியில் உள்ள ஶ்ரீ தலதா மாளிகையில் 13 ஆம் திகதி பிரதி உயர் ஸ்தானிகர் சத்யாஞ்சல் பாண்டே மற்றும் பாத்பைண்டர் மன்றத்தினால் வெளியிட்டு வைக்கப்பட்டது.
+
+அத்துடன் மல்வத்து பீடத்தின் அநுநாயக்க தேரர் சங்கைக்குரிய திம்புல்கும்புரே ஶ்ரீ சரணங்கர விமலதம்மபிதன தேரர், மல்வத்து பீடத்தின் அநுநாயக்க தேரர் சங்கைக்குரிய கலாநிதி நியாங்கொட விஜிதஶ்ரீ தேரர், அஸ்கிரிய பீடத்தின் அநுநாயக்க தேரர் சங்கைக்குரிய  வெதருவே தர்மகீர்த்தி ஶ்ரீ இரத்தினபால உபாலி தேரர்,  மற்றும் மல்வத்து & அஸ்கிரிய பீடங்களின் ஏனைய தேரர்களிடம் இந்நூலின் பிரதிகள் கையளிக்கப்பட்டன.
+
+...
+
+[Data](articles/b10094a5.json)
+
+---
+
+### Cabinet approves proposal to conduct feasibility study to ease traffic congestion in Colombo
+
+*2025-09-16 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112573/cabinet-approves-proposal-to-conduct-feasibility-study-to-ease-traffic-congestion-in-colombo) · `en`
+
+The Cabinet of Ministers has granted approval to select a consultancy agency, through the procurement process, to conduct a detailed feasibility study aimed at formulating a sustainable solution to improve connectivity with major transport corridors and minimize traffic congestion at the Lotus Road crossing in Colombo, including the ramps of the Port Access Road and the extension of the coastal road.
+
+The decision has been taken considering the heavy traffic congestion at the Lotus Roundabout area in Colombo especially during peak hours.
+
+It has been found that the issue will be further aggravated with the completion of the Colombo Port City and the Port Access Road, and the completion of major development works currently underway in Colombo.
+
+...
+
+[Data](articles/53eef4ae.json)
+
+---
+
+### Substandard drug imports case: Indictments served on Keheliya and others
+
+*2025-09-16 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112572/substandard-drug-imports-case-indictments-served-on-keheliya-and-others-) · `en`
+
+Former Minister Keheliya Rambukwella and several other defendants, accused of misusing government funds through the purchase of substandard human immunoglobulin vials during the previous government, were indicted before a three-judge bench of the Colombo High Court today (16).
+
+After serving indictments, Deputy Solicitor General Lakmini Girihagama informed court that the Attorney General opposes granting bail to the defendants, said Ada Derana reporter.
+
+Subsequently, the defense counsel commenced presenting facts in support of the defendants’ bail applications.
+
+◼️
+
+[Data](articles/7cba2828.json)
 
 ---
 
@@ -81,6 +149,36 @@ The Cuddalore Forest Department has initiated action. The people of the area hav
 [Data](articles/3694a38b.json)
 
 [Extended Data](ext_articles/3694a38b.ext.json)
+
+---
+
+### සෙවනගල ගිනි තැබූ උක් ටොන් එකකට රු. 7000ක් ගෙවයි
+
+*2025-09-16 14:10:46* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-ගිනි-තැබූ-උක්-ටොන්-එකකට-රු--7000ක්-ගෙවයි/11-418530) · `si`
+
+සෙවනගල  උක් වගාවන් ගිනි තැබීම නිසා ගැටලුවට පත් උක් ගොවීන් වෙනුවෙන් මෙට්‍රික් ටොන් ඒකක් රුපියල් 7000ක මිලක් යටතේ මිල‍දී ගැනීමට කැබිනට් අනුමැතිය  ලැබී තිබේ.
+
+ජනපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට මෙසේ කැබිනට් අනුමැතිය ලැබී තිබේ. ගිනි තැබීම් නිසා උක් මෙට්‍රික් ටොන් 19000ක් පමණ විනාශ වී ඇති බවට ගණන් බලා තිබේ.
+
+◼️
+
+[Data](articles/7b04a08e.json)
+
+---
+
+### Cabinet approves compensation for sugarcane farmers affected by fires at Sevanagala plantations
+
+*2025-09-16 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112571/govt-to-grant-compensation-of-rs-7000-per-mt-of-sugarcane-destroyed-by-fire-at-sevanagala-plantations) · `en`
+
+The Cabinet has granted approval to provide compensation to sugarcane farmers whose crops were damaged due to fires that broke out in the sugarcane plantations of the Sevanagala Sugar Factory.
+
+Accordingly, a committee comprising officials from the Sugarcane Research Institute and the Lanka Sugar (Pvt) Ltd in Sevanagala has been appointed to collect accurate data on the extent of sugarcane destroyed and the farmers affected. Based on this data, compensation of Rs. 7,000 per metric ton of sugarcane destroyed by the fires will be granted to the affected farmers.
+
+The decision has been made following a joint proposal submitted by the President, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, and the Minister of Industries and Entrepreneurship Development.
+
+...
+
+[Data](articles/f0599bf8.json)
 
 ---
 
@@ -138,6 +236,24 @@ A committee consisting of the Ministries and Institutions to formulate the laws 
 
 ---
 
+### Govt. allocates Rs. 6 billion to purchase paddy during 2025 Yala season
+
+*2025-09-16 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112570/govt-allocates-rs-6-billion-to-purchase-paddy-during-2025-yala-season-) · `en`
+
+The Cabinet of Ministers has approved the proposal to obtain additional provisions to implement purchase of paddy from farmers in the 2025 Yala season under controlled price announced by the government.
+
+Accordingly, the government has allocated Rs. 6,000 million for the program to purchase paddy for the 2025 Yala season, and the Paddy Marketing Board has already purchased 43,891 metric tons of paddy, using Rs. 5,288 million in 16 districts.
+
+Therefore, the Paddy Marketing Board has planned to purchase the paddy from the Polonnaruwa, Anuradhapura, and Trincomalee districts, where the harvesting is still going on.
+
+Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Agriculture, Livestock, Land, and Irrigation to obtain the additional provisions to implement the purchase of paddy from the farmers in the 2025 Yala season under the fixed price of the government.
+
+◼️
+
+[Data](articles/08dcf951.json)
+
+---
+
 ### The actress who said without shyness
 
 *2025-09-16 14:02:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அந்த-உறுப்பை-வெளியே-இழுத்து-கொடுமை-கூச்சமின்றி-கூறிய-நடிகை/54-364698) · `ta`
@@ -159,6 +275,26 @@ Let's see if others can follow this, they can't! ”He laughed and challenged hi
 [Data](articles/63ad1894.json)
 
 [Extended Data](ext_articles/63ad1894.ext.json)
+
+---
+
+### Committee to be appointed to amend laws to grant voting rights to Sri Lankans residing overseas
+
+*2025-09-16 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112569/committee-to-be-appointed-to-amend-laws-to-grant-voting-rights-to-sri-lankans-residing-overseas) · `en`
+
+The Cabinet of Ministers has granted approval to examine the necessary legal amendments and formulate new laws to safeguard the voting rights of Sri Lankan citizens residing overseas.
+
+As per the Article 3 of the Constitution of the Democratic Socialist Republic of Sri Lanka, the sovereignty rights reserved with people is used in an election.
+
+The right to vote is reserved only by the citizens living within Sri Lanka and registered their names in the electoral register as per the elections law.
+
+According to the current elections law there is no provision to secure any method to cast votes for the citizens residing overseas or no law has been formulated in this regard.
+
+However, many Asian countries such as India, Bangladesh, Philippines have formulated laws to enable their citizens residing overseas to cast votes and it has been recognized as a timely requirement to amend such types of laws for Sri Lanka as well.
+
+...
+
+[Data](articles/aeb1f6d0.json)
 
 ---
 
@@ -195,6 +331,20 @@ The arrested Chinese national has been handed over to the tourist police connect
 [Data](articles/102f4cf0.json)
 
 [Extended Data](ext_articles/102f4cf0.ext.json)
+
+---
+
+### கண்டியில் ட்ரோன் விட்ட  வெளிநாட்டவர் கைது
+
+*2025-09-16 13:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-ட்ரோன்-விட்ட-வெளிநாட்டவர்-கைது/76-364696) · `ta`
+
+கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையின் தியவடன நிலமேவின் உத்தியோகபூர்வ இல்லத்திற்கு அருகில் உள்ள உயர் பாதுகாப்பு வலயத்தில் இருந்து ட்ரோன் கேமரா பறக்கவிட்ட சீன நாட்டவரை தலதா மாளிகை பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சீன நாட்டவர், ட்ரோன் கேமரா மற்றும் அதைப் பறக்கவிடப் பயன்படுத்தப்பட்ட உபகரணங்களுடன், கண்டி தலைமையக பொலிஸ் நிலையத்துடன் இணைக்கப்பட்ட சுற்றுலா பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7b101589.json)
 
 ---
 
@@ -236,7 +386,7 @@ The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour w
 
 The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
 
-In light of this, the NWSDB urges the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
+In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
 
 ◼️
 
@@ -370,17 +520,19 @@ The accident occurred when a bus carrying employees of a private company collide
 
 ---
 
-### ආක්‍රමණ මත්ස්‍ය විශේෂ 4ක් තහනම් කරයි
+### 4 invasion fish species banned
 
 *2025-09-16 13:11:59* · [`adalk`](https://www.ada.lk/breaking_news/ආක්‍රමණ-මත්ස්‍ය-විශේෂ-4ක්-තහනම්-කරයි/11-418526) · `si`
 
-මෙරට දේශීය ජලජ පරිසර පද්ධතියට සහ ස්වදේශික මත්ස්‍ය සම්පතට දැඩි තර්ජනයක් එල්ල කරන ආක්‍රමණශීලී විදේශීය මත්ස්‍ය විශේෂ හතරක් ආනයනය, ලඟ තබා ගැනීම, අභිජනනය සහ විකිණීම තහනම් කිරීමට පියවර ගැනීමට නියමිත බව ධීවර, ජලජ හා සාගර සම්පත් අමාත්‍ය, රාමලිංගම් චන්ද්‍රසේකර් මහතා ඊයේ (15) පැවති විශේෂ මාධ්‍ය හමුවකදී නිවේදනය කළේය.
+Fisheries, Aquaculture Resources, Minister of Fisheries, Aquatic and Ocean Resources at a special press conference held at a special media briefing held and selling an aggressive foreign fish species to the local aquatic ecosystem and native fish resources.
 
-මෙම අවස්ථාව සඳහා අමාත්‍යාංශ ලේකම් ආචාර්ය බී. කේ. කෝලිත කමල් ජිනදාස, ජාතික ජලජීවී වගා සංවර්ධන අධිකාරියේ (NAQDA) සභාපති කිත්සිරි ධර්මප්‍රිය සහ ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත, ඇන්ගිලින් ප්‍රජාව ස්පොර්ටි ෆිශිං සංගමයේ, ප්‍රධාන අනුශාසක, ප්‍රසන්න ප්‍රියකැලුමි වික්‍රමරත්න මහතා යන මහත්වරු ද එක්ව සිටියහ.
+Secretary to the Ministry Dr. B also. K. The Director General of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chairman of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chief Attorney Susantha Fire Firellemi Wickramaratne.
 
 ...
 
 [Data](articles/170b6b3e.json)
+
+[Extended Data](ext_articles/170b6b3e.ext.json)
 
 ---
 
@@ -1068,9 +1220,19 @@ The economy pointed out that the economy grew 4.9% from the year 2025, said the 
 
 *2025-09-16 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112558/sri-lankas-pmi-for-august-expands) · `en`
 
-The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for August 2025 has shown that the manufacturing index expanded to 55.2 in the month of August this year.
+The Central Bank of Sri Lanka’s (CBSL) Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 55.2 in August 2025.
 
-◼️
+The CBSL said that most of the sub-indices expanded on a month-on-month basis which contributed to the expansion of the PMI.
+
+The report indicated that the increase in new orders and production was mainly attributable to the manufacture of food and beverage sectors.
+
+Meanwhile, the employment sub-index remained positive in August 2025, indicating favourable employment conditions, as per the CBSL report.
+
+The services Purchasing Manager’s Index (PMI) indicated a further expansion in service activities in August 2025 as reflected by the Business Activity Index, which recorded an index value of 68.9.
+
+Furthermore, new businesses increased in August 2025 primarily due to the expansions observed in wholesale and retail trade, and financial services related activities.
+
+...
 
 [Data](articles/00a50fad.json)
 
@@ -1841,193 +2003,5 @@ Still ICC. Sri Lanka's former Sri Lanka's chief trainer, a non-fullest country, 
 [Data](articles/ebcf558d.json)
 
 [Extended Data](ext_articles/ebcf558d.ext.json)
-
----
-
-### Dy Minister Sunil Watagala lodges complaint with CID over defamatory social media posts
-
-*2025-09-16 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112548/dy-minister-sunil-watagala-lodges-complaint-with-cid-over-defamatory-social-media-posts) · `en`
-
-Deputy Minister of Public Security Sunil Watagala states that he has lodged a complaint with the Criminal Investigation Department (CID) regarding malicious and false statements being circulated about him on social media.
-
-He emphasized that legal action will be taken, both under civil and criminal law, against those who created and distributed these false claims online.
-
-Recent posts on social media alleged that the Deputy Minister had purchased a luxury apartment in a residential complex in Colombo.
-
-Addressing these allegations through a post on his official Facebook account, Deputy Minister Watagala described the claims as false, defamatory, and intentionally misleading.
-
-He stated that there is absolutely no truth to these allegations and that he has not engaged in any action that would in any way harm the trust placed in him by his political party or the general public.
-
-...
-
-[Data](articles/9f36c12d.json)
-
-[Extended Data](ext_articles/9f36c12d.ext.json)
-
----
-
-### 8 people arrested for treasure in Matale - Pallapola area
-
-*2025-09-16 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225186) · `ta`
-
-Eight people have been arrested for allegedly excavating treasure in the Matale - Pallapola area.
-
-They were arrested yesterday (15) while digging the treasure in the Mathipola area.
-
-The arrested suspects are said to be from Millana, Taminna, Mathipola, Tehiyakkanda and Welikanda.
-
-◼️
-
-[Data](articles/aab5857f.json)
-
-[Extended Data](ext_articles/aab5857f.ext.json)
-
----
-
-### CID complains from Deputy Minister Sunil Watagala
-
-*2025-09-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214619) · `si`
-
-Deputy Minister of Defense Sunil Watagala says that a complaint has been lodged with the CID to investigate the malicious and false statement carried out by his social media.
-
-He points out that the statement will be taken to civilian and criminal law against the parties who created the statement and acted through social media.
-
-Sunil Watagala had purchased the Deputy Minister of Defense Sunil Watagala, a house of a housing complex in Colombo.
-
-Deputy Minister Sunil Watagala points out a note in his Facebook account, which is involved in the publicity.
-
-There is no truth in that propaganda and the party and the party have not had a harm of Abimal River to trust in him.
-
-Deputy Minister Sunil Watagala points out that he is unconditionally to the freedom of expression as a lawyer and a political activist.
-
-The Deputy Minister has further stated that action will be taken to recover under the civil law against the parties identified in the respective malicious and false propaganda.
-
-◼️
-
-[Data](articles/30ff4b2e.json)
-
-[Extended Data](ext_articles/30ff4b2e.ext.json)
-
----
-
-### Donald Trump says Netanyahu “won’t be hitting” Qatar again
-
-*2025-09-16 07:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112547/donald-trump-says-netanyahu-wont-be-hitting-qatar-again) · `en`
-
-US President Donald Trump insisted Monday that Israeli Prime Minister Benjamin Netanyahu would not strike Qatar again, after an attack on Hamas last week that infuriated Washington’s Gulf ally.
-
-“He won’t be hitting in Qatar,” Trump told reporters in the Oval Office, after Netanyahu failed to rule out further strikes during a meeting with US Secretary of State Marco Rubio in Jerusalem.
-
-The U.S. State Department says Secretary of State Marco Rubio will head to Qatar after meeting with Prime Minister Benjamin Netanyahu in Israel. The visit announced Monday comes as the region is still reeling from Israel’s strike targeting Hamas leaders in the Qatari capital, Doha.
-
-The U.S. has sought to ease tensions between Israel and Qatar, two close American allies. Netanyahu and Rubio stood shoulder-to-shoulder in Jerusalem and downplayed the furor that had, at least for a short time, taken the Trump administration aback.
-
-...
-
-[Data](articles/d415c4d6.json)
-
-[Extended Data](ext_articles/d415c4d6.ext.json)
-
----
-
-### Youth killed in high -speed highway accident; 7 people injured
-
-*2025-09-16 06:52:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்தில்-யுவதி-பலி-7-பேர்-படுகாயம்/175-364663) · `ta`
-
-Southern highway traffic police said a young woman was killed and seven others were injured when a van collided with eight people, including three children, including three children on the southern highway.
-
-Van Moragahahena, 10.6 km from Tawalama to Katunayake International Airport to bring a man in Israel to the country today. Police said the accident occurred when the truck crashed into the back of the truck
-
-◼️
-
-[Data](articles/40b4c8be.json)
-
-[Extended Data](ext_articles/40b4c8be.ext.json)
-
----
-
-### Woman dead, seven injured in fatal accident on Southern Expressway
-
-*2025-09-16 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112546/woman-dead-seven-injured-in-fatal-accident-on-southern-expressway) · `en`
-
-A woman has died while seven others have sustained injuries in an accident that occurred between the Galanigama and Kahathuduwa interchanges on the Southern Expressway, police stated.
-
-Police said the accident took place in the early hours of today (16), when a van traveling from Galle to Colombo collided with the rear of a lorry.
-
-Among the injured were the driver of the van, a male passenger, and two women.
-
-They were admitted to the Homagama Hospital, while three children have been taken to the Kalubowila Teaching Hospital for treatment.
-
-One of the women admitted to the Homagama Hospital succumbed to her injuries.
-
-The body has been placed at the morgue of the Homagama Hospital.
-
-◼️
-
-[Data](articles/aeacae3f.json)
-
-[Extended Data](ext_articles/aeacae3f.ext.json)
-
----
-
-### Facebook recorded former President Mahinda Rajapaksa
-
-*2025-09-16 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214618) · `si`
-
-Former President Mahinda Rajapaksa says that a politician who is not committed with emotions cannot be a People's Leader.
-
-Former President, the former President has said note on its official Facebook page, and the honorary gathering of the Honor he had come to him to date and blessed the Maha Sangha.
-
-Between the people of my life. So is the same today. May end up as a period of time, but people's love exceeds. It doesn't end. The people were with Mahinda Rajapakse, on the time of power and lack of power.
-
-Our supportives and rod are familiar with us. Talks of young children make me happy. Because young children are not with a former president, this conversation delicious. So I have suffered it.
-
-A politician who is not committed to the country's people can never be a people's leader.
-
-...
-
-[Data](articles/898a79a4.json)
-
-[Extended Data](ext_articles/898a79a4.ext.json)
-
----
-
-### ‘I am humbly proud to have been a people’s leader’: Mahinda Rajapaksa
-
-*2025-09-16 06:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112545/i-am-humbly-proud-to-have-been-a-peoples-leader-mahinda-rajapaksa) · `en`
-
-Former President Mahinda Rajapaksa says he has spent the greater part of his life among the people and even today, that remains the same.
-
-In a post on his social media account, former President Rajapaksa stated that “official terms may come to an end, but the love of the people transcends such boundaries. It does not fade. Whether in power or not, the people have stood by Mahinda Rajapaksa.”
-
-Former President Mahinda Rajapaksa noted that he is humbly proud to have been a people’s leader — one who rose through the strength of the people, transcending barriers of race and religion — and also to have been a neighbor and one of the closest companions.
-
-...
-
-[Data](articles/c001d0ce.json)
-
-[Extended Data](ext_articles/c001d0ce.ext.json)
-
----
-
-### Woman dies after Southern Expressway
-
-*2025-09-16 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214617) · `si`
-
-Woman was killed and another injured were killed and another injured were killed and six others were injured in an accident on the Southern Expressway.
-
-The police said that the accident had occurred when a van hit by a lorry traveling from Galle to Colombo today (16).
-
-The driver of the van and two women were admitted to the Kalubowila hospital and three children in the Homagama Hospital.
-
-The victim was a 35 year old woman, police said.
-
-The remains are placed at the Homagama hospital morgue and Moragahahena police are conducting further investigations.
-
-◼️
-
-[Data](articles/9f69a330.json)
-
-[Extended Data](ext_articles/9f69a330.ext.json)
 
 ---

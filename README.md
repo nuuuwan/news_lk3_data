@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 23:06:42**
+As of **2025-09-17 00:12:31**
 
 ## Newspaper Stats
 
-*Scraped **76,377** Articles*
+*Scraped **76,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ economynextcom | 4,627
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,419
-adaderanalk | 9,847
+adalk | 7,421
+adaderanalk | 9,850
 tamilmirrorlk | 11,435
-virakesarilk | 12,444
+virakesarilk | 12,445
 adaderanasinhalalk | 13,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,452 (96.2%) of 76,377 articles have been extended.
+73,467 (96.2%) of 76,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
+
+### පානදුරේ නිලංගගේ බැංකු ගිණුම් දෙකකින් විශාල මුදල් සංසරණයක්
+
+*2025-09-16 23:33:27* · [`adalk`](https://www.ada.lk/breaking_news/පානදුරේ-නිලංගගේ-බැංකු-ගිණුම්-දෙකකින්-විශාල-මුදල්-සංසරණයක්/11-418542) · `si`
+
+ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මේ වනවිට රැඳවුම් භාරයට පත්කර ප්‍රශ්න කරමින් සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් හා සංවිධානාත්මක අපරාධකරුවෙක් වන පානදුරේ නිලංග නමැත්තාගේ බැංකු ගිණුම් පිළිබඳ වාර්තාවක් කැඳවීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවසර ලබාදුනි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුවයි. සැකකරුගේ බැංකු ගිණුම් දෙකක් හරහා විශාල වශයෙන් මුදල් සංසරණය වී ඇති බවට තොරතුරු ලැබී ඇතැ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට පැවැසීය.
+
+◼️
+
+[Data](articles/f16c22dd.json)
+
+---
+
+### Minister holds pre-budget discussion with automobile and electronics importers
+
+*2025-09-16 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112587/minister-holds-pre-budget-discussion-with-automobile-and-electronics-importers-) · `en`
+
+A pre-budget discussion on the automobile and electronic equipment industries was held this afternoon (16) at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+Importers of automobiles and electronic equipment expressed their full support for the government’s economic development programme, led by President Anura Kumara Dissanayake, the Presidential Media Division (PMD) said.
+
+Vehicle importers noted that the sector has expanded due to recent government decision regarding vehicle imports and they presented several productive proposals for consideration in the upcoming budget.
+
+...
+
+[Data](articles/5a0e869a.json)
+
+---
+
+### Cabinet approval for submitting allocation legislation to Parliament
+
+*2025-09-16 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225267) · `ta`
+
+The Cabinet has approved a complete schedule for the submission of the 2026 Allocation Bill to Parliament. The Cabinet was approved on September 8, 2025, to publish the law in the Gazette.
+
+The first reading of the Bill will be presented in Parliament on the 26th of this month, according to the Parliamentary Sessions on the 2026 Budget prepared by the Prime Minister's Office.
+
+Second reading and budget text will be held on November 7. The debate on the second reading will take place from November 8 to November 14.
+
+The debate on the third reading will be held from November 15 to December 5. The final budget referendum will take place on December 5, 2025, the Cabinet spokesman said.
+
+◼️
+
+[Data](articles/87673d51.json)
+
+[Extended Data](ext_articles/87673d51.ext.json)
+
+---
 
 ### Tipper vehicle Woman hurt!
 
@@ -49,6 +99,42 @@ Eyewitnesses said that the driver of the yellow color tipper, which caused the a
 [Data](articles/0a29c44c.json)
 
 [Extended Data](ext_articles/0a29c44c.ext.json)
+
+---
+
+### Special Mediation Boards for financial disputes to be established – Minister of Justice
+
+*2025-09-16 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112586/special-mediation-boards-for-financial-disputes-to-be-established-minister-of-justice) · `en`
+
+Minister of Justice and National Integration Harshana Nanayakkara stated that measures will be taken to establish special mediation boards (Samatha Mandala) for financial disputes with the aim of reducing the number of such cases brought before the courts.
+
+Under the first phase, special mediation boards dedicated to financial disputes will be established in the districts of Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Monaragala, Minister Nanayakkara said.
+
+He expressed these remarks while participating in a program held at the Mediation Boards Commission on the occasion of the 2025 National Mediation Boards Day.
+
+...
+
+[Data](articles/e18a722d.json)
+
+[Extended Data](ext_articles/e18a722d.ext.json)
+
+---
+
+### Sri Lanka targets Indian wedding market with multi-city shows
+
+*2025-09-16 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112585/sri-lanka-targets-indian-wedding-market-with-multi-city-shows) · `en`
+
+Sri Lanka Tourism is aiming to attract the growing Indian wedding market and recently organised multi-city luxury wedding shows across the country for the first time, seeking to position Sri Lanka as a wedding destination for Indian couples, covering cities including Ahmedabad, Mumbai and New Delhi.
+
+Fourteen Sri Lankan exhibitors, including wedding planners and hotels, took part in the shows to engage directly with Indian travel agents, wedding planners and other stakeholders.
+
+“Traditionally, our southern province destinations like Bentota, Hambantota and Weligama have been popular for Indian weddings which have the presence of hotels such as Hilton and Shangri-La that can accommodate large gatherings. However, we are now also promoting emerging destinations like Trincomalee, Pasikudah and Arugam Bay for Indian weddings,” said Buddhika Hewawasam, chairman of the Sri Lanka Tourism Promotion Bureau (SLTPB), while speaking to TTG Asia during the Delhi edition of the wedding shows.
+
+...
+
+[Data](articles/ecfb9305.json)
+
+[Extended Data](ext_articles/ecfb9305.ext.json)
 
 ---
 
@@ -490,6 +576,26 @@ The order was issued by Mahesh Weeraman, Pradeep Abeyratne and Amali Ranaweera, 
 
 ---
 
+### අවශ්‍යතාවක් ඇතිවුණොත් සහල් ආනයනය කරනවා
+
+*2025-09-16 17:51:59* · [`adalk`](https://www.ada.lk/breaking_news/අවශ්‍යතාවක්-ඇතිවුණොත්-සහල්-ආනයනය-කරනවා/11-418540) · `si`
+
+කීරි සම්බා සහල් හිඟයක් ඇති වීමට ඉඩ නොදෙන බවත් අවශ්‍යතාවක් ඇතිවුවහොත් සහල් ආනයනය කිරීමට හෝ ආදේශක සහල් සඳහා අනුමැතිය හිමිවී ඇති බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක , සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ අද (16) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවට එක්වෙමිනි.
+
+පසුගිය මහ කන්නයේ මෙට්‍රික් ටොන් ලක්ෂ 25කට ආසන්න සහල් අස්වැන්නක් ලැබී ඇති බව සඳහන් කරන අමාත්‍යවරයා මෙවර යල කන්නයේදී සහල් අස්වැන්න මෙට්‍රික්ටොන් ලක්ෂ 22ක් පමණ අපේක්ෂා කරන බවත් පෙන්වා දුන්නේය.
+
+එසේම මේ වනවිට සියයට 79කට ආසන්න ප්‍රමාණයක් අස්වැන්න නෙලා ඇති අතර අස්වැන්න සම්බන්ධයෙන් තබන ලද ඉලක්කවලට ගොවීන් ළඟා වී ඇත අතර වගා කිරීමේදී මෙම කන්නයේදී නාඩු සියයට 62ක් වන අතර කීරි සම්බා වගා කර ඇත්තේ සියයට 7ක් බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+තවද කීරිසම්බා වගා කිරීමේ අඩුවක් මිස සමස්ත නිෂ්පාදනයේ අඩුවත් නොවන බව පෙන්වා දුන් අමාත්‍යවරයා මෙම ඇතිවී තිබෙන කීරි සම්බා සහල් ගැටලුව නිරාකරණය කිරීමට රජය මැදිහත් වී ඇති බවත් පැවසීය.
+
+...
+
+[Data](articles/e944080d.json)
+
+---
+
 ### Sri Lanka may miss 2025 tourism arrival, earning targets: CT Smith
 
 *2025-09-16 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-miss-2025-tourism-arrival-earning-targets-ct-smith-240749/) · `en`
@@ -904,7 +1010,7 @@ More than 150 journalists have signed a petition to repeal the legal source, but
 
 ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday following a cooling off, brokers said.
 
-The All Share Price Index was up 1.30 percent, or 263.98 points, at 20,619; while the S&P SL20 was up 1.41 percent, or 81.75 points, at 5,880.
+The All Share Price Index was up 1.30 percent, or 263.98 points, at 20,619; while the S&P SL20 was up 1.19 percent, or 69.27 points, at 5,868.
 
 “There are bound to be a few corrections here and there, but overall there is nothing too negative impacting the market,” Shadini Silva, Co-Head of Research at Softlogic Stockbrokers, said.
 
@@ -1933,123 +2039,5 @@ The ceremonial launch was graced by Members of Parliament Akram Ismail, Lal Prem
 [Data](articles/fad7a5b5.json)
 
 [Extended Data](ext_articles/fad7a5b5.ext.json)
-
----
-
-### President meets the World Bank representatives
-
-*2025-09-16 12:17:43* · [`adalk`](https://www.ada.lk/business/ජනපති-හා-ලෝක-බැංකු-නියෝජිතයන්-අතර-හමුවක්/7-418525) · `si`
-
-President Anura Kumara Dissanayake said that Sri Lanka could educate the world community to educate the world community in Sri Lanka without corruption.
-
-The World Bank Group, Vice President of the South Asian region of the World Bank Group, met President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (15).
-
-It was widely discussed how the World Bank Group could provide assistance in the World Bank to meet the future development goals of Sri Lanka.. The World Bank representatives, who expressed their admiration on the current economic program in Sri Lanka, proposed to pay more attention to economic growth and employment generation.
-
-Special attention was focused on the development of the North and East, as well as to promote fields of benefits, including digitizing, tourism, agriculture and infrastructure.. It was also revealed that the assistance of the Government of Sri Lanka has been approved by the Government of Sri Lanka.
-
-...
-
-[Data](articles/e7060861.json)
-
-[Extended Data](ext_articles/e7060861.ext.json)
-
----
-
-### World Bank VP Johannes Zutt pledges ongoing support for Sri Lanka
-
-*2025-09-16 12:16:00* · [`economynextcom`](https://economynext.com/world-bank-vp-johannes-zutt-pledges-ongoing-support-for-sri-lanka-240731/) · `en`
-
-ECONOMYNEXT – World Bank Vice President for South Asia, Johannes Zutt, has committed to continue supporting Sri Lanka in implementing reforms that create jobs, attract private investment, and modernize key sectors.
-
-“The groundwork for recovery has been laid. Now is the time to focus on jobs, investment, and inclusive development,” Zutt, on his first official visit to Sri Lanka, said.
-
-“The World Bank Group is ready to support Sri Lanka in this journey, prioritizing mobilization of private capital and attracting foreign direct investment to expand services and create jobs.”
-
-With nearly a million young people expected to enter the country’s workforce over the next decade but only 300,000 new jobs projected, Zutt stressed that unlocking private sector growth for job creation will be essential.
-
-...
-
-[Data](articles/ec1399f6.json)
-
-[Extended Data](ext_articles/ec1399f6.ext.json)
-
----
-
-### Digital signature for state officials
-
-*2025-09-16 12:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அதிகாரிகளுக்கு-டிஜிட்டல்-கையொப்பம்/175-364689) · `ta`
-
-The Ministry of Public Administration has introduced a digital signature to state officials as a measure to regulate administrative processes and improve performance throughout public services.
-
-During the ceremony of recognizing digital signatures for the officers in the Home Division, the Minister of Public Administration, Provincial Councils and Local Government Sandana Abeyratne inaugurated the initiative.
-
-The Minister said that the government's vast objective was to digitally digitally digitally digitally digitally and change the public sector to meet modern expectations.
-
-“Our goal is to create the efficient public service that people expect. This digital signature effort must even reach the Grama Niladhari level, ”said Abeyratne.
-
-The implementation, which was carried out under the Electronic Transactions Act in 2006, started with the authorities of the District Secretariats and Divisional Secretariats within the Interior Division.. Provided by the appointed Langabe under the law.
-
-...
-
-[Data](articles/91ed8580.json)
-
-[Extended Data](ext_articles/91ed8580.ext.json)
-
----
-
-### Sri Lanka Customs Sitigate
-
-*2025-09-16 12:10:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-රේගුව-සරුවෙයි/11-418524) · `si`
-
-The following is the following 825, the Sri Lanka Customs revenue Rs. 1,471 billion in 8 months.
-
-200 billion of Rs. 231 billion in June this year and Rs. 244 billion in August Rs. 244 billion. They say this is a rapid rate of last year. (I J)
-
-◼️
-
-[Data](articles/c05a12e8.json)
-
-[Extended Data](ext_articles/c05a12e8.ext.json)
-
----
-
-### Six lost in human traffickers to be taken into custody
-
-*2025-09-16 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214630) · `si`
-
-Six persons who suspect is lost by human traffickers have been taken into custody in the Talaimannar coastal areas.
-
-The group was taken into custody during a special operation conducted on the 13th.
-
-The human traffickers have been illegally brought to Sri Lanka by the Sri Lankan sea to Sri Lanka.
-
-They have been residents of Vavuniya, Madhu and Kokkadichle areas agent between eight and 56 years.
-
-It is reported that they have been dejected and severely disturbed when they were taken to the Navy.
-
-They were handed over to Talaimannar Police for further legal.
-
-◼️
-
-[Data](articles/2208b00e.json)
-
-[Extended Data](ext_articles/2208b00e.ext.json)
-
----
-
-### Former SSP too further remanded
-
-*2025-09-16 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214629) · `si`
-
-The former Superintendent of Police Saturnar Shalm Gamage was remanded until the 30th of this month.
-
-The court issued the court, refusing to request the bail of the suspect.
-
-◼️
-
-[Data](articles/c7a2519e.json)
-
-[Extended Data](ext_articles/c7a2519e.ext.json)
 
 ---

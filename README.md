@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 23:57:09**
+As of **2025-09-17 00:12:31**
 
 ## Newspaper Stats
 
-*Scraped **76,381** Articles*
+*Scraped **76,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,627
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,420
-adaderanalk | 9,849
+adalk | 7,421
+adaderanalk | 9,850
 tamilmirrorlk | 11,435
 virakesarilk | 12,445
 adaderanasinhalalk | 13,327
@@ -26,11 +26,41 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,467 (96.2%) of 76,381 articles have been extended.
+73,467 (96.2%) of 76,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
+
+### පානදුරේ නිලංගගේ බැංකු ගිණුම් දෙකකින් විශාල මුදල් සංසරණයක්
+
+*2025-09-16 23:33:27* · [`adalk`](https://www.ada.lk/breaking_news/පානදුරේ-නිලංගගේ-බැංකු-ගිණුම්-දෙකකින්-විශාල-මුදල්-සංසරණයක්/11-418542) · `si`
+
+ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මේ වනවිට රැඳවුම් භාරයට පත්කර ප්‍රශ්න කරමින් සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් හා සංවිධානාත්මක අපරාධකරුවෙක් වන පානදුරේ නිලංග නමැත්තාගේ බැංකු ගිණුම් පිළිබඳ වාර්තාවක් කැඳවීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවසර ලබාදුනි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුවයි. සැකකරුගේ බැංකු ගිණුම් දෙකක් හරහා විශාල වශයෙන් මුදල් සංසරණය වී ඇති බවට තොරතුරු ලැබී ඇතැ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට පැවැසීය.
+
+◼️
+
+[Data](articles/f16c22dd.json)
+
+---
+
+### Minister holds pre-budget discussion with automobile and electronics importers
+
+*2025-09-16 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112587/minister-holds-pre-budget-discussion-with-automobile-and-electronics-importers-) · `en`
+
+A pre-budget discussion on the automobile and electronic equipment industries was held this afternoon (16) at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+Importers of automobiles and electronic equipment expressed their full support for the government’s economic development programme, led by President Anura Kumara Dissanayake, the Presidential Media Division (PMD) said.
+
+Vehicle importers noted that the sector has expanded due to recent government decision regarding vehicle imports and they presented several productive proposals for consideration in the upcoming budget.
+
+...
+
+[Data](articles/5a0e869a.json)
+
+---
 
 ### Cabinet approval for submitting allocation legislation to Parliament
 
@@ -2009,45 +2039,5 @@ The ceremonial launch was graced by Members of Parliament Akram Ismail, Lal Prem
 [Data](articles/fad7a5b5.json)
 
 [Extended Data](ext_articles/fad7a5b5.ext.json)
-
----
-
-### President meets the World Bank representatives
-
-*2025-09-16 12:17:43* · [`adalk`](https://www.ada.lk/business/ජනපති-හා-ලෝක-බැංකු-නියෝජිතයන්-අතර-හමුවක්/7-418525) · `si`
-
-President Anura Kumara Dissanayake said that Sri Lanka could educate the world community to educate the world community in Sri Lanka without corruption.
-
-The World Bank Group, Vice President of the South Asian region of the World Bank Group, met President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (15).
-
-It was widely discussed how the World Bank Group could provide assistance in the World Bank to meet the future development goals of Sri Lanka.. The World Bank representatives, who expressed their admiration on the current economic program in Sri Lanka, proposed to pay more attention to economic growth and employment generation.
-
-Special attention was focused on the development of the North and East, as well as to promote fields of benefits, including digitizing, tourism, agriculture and infrastructure.. It was also revealed that the assistance of the Government of Sri Lanka has been approved by the Government of Sri Lanka.
-
-...
-
-[Data](articles/e7060861.json)
-
-[Extended Data](ext_articles/e7060861.ext.json)
-
----
-
-### World Bank VP Johannes Zutt pledges ongoing support for Sri Lanka
-
-*2025-09-16 12:16:00* · [`economynextcom`](https://economynext.com/world-bank-vp-johannes-zutt-pledges-ongoing-support-for-sri-lanka-240731/) · `en`
-
-ECONOMYNEXT – World Bank Vice President for South Asia, Johannes Zutt, has committed to continue supporting Sri Lanka in implementing reforms that create jobs, attract private investment, and modernize key sectors.
-
-“The groundwork for recovery has been laid. Now is the time to focus on jobs, investment, and inclusive development,” Zutt, on his first official visit to Sri Lanka, said.
-
-“The World Bank Group is ready to support Sri Lanka in this journey, prioritizing mobilization of private capital and attracting foreign direct investment to expand services and create jobs.”
-
-With nearly a million young people expected to enter the country’s workforce over the next decade but only 300,000 new jobs projected, Zutt stressed that unlocking private sector growth for job creation will be essential.
-
-...
-
-[Data](articles/ec1399f6.json)
-
-[Extended Data](ext_articles/ec1399f6.ext.json)
 
 ---

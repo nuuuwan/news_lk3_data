@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 09:21:46**
+As of **2025-09-16 09:12:17**
 
 ## Newspaper Stats
 
-*Scraped **76,232** Articles*
+*Scraped **76,230** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 629
+dbsjeyarajcom | 628
 bbccomsinhala | 677
 colombotelegraphcom | 773
 economynextcom | 4,615
@@ -19,42 +19,18 @@ dailyftlk | 5,409
 adalk | 7,397
 adaderanalk | 9,817
 tamilmirrorlk | 11,404
-virakesarilk | 12,425
+virakesarilk | 12,424
 adaderanasinhalalk | 13,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,773 (95.5%) of 76,232 articles have been extended.
+72,773 (95.5%) of 76,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### இஸ்ரேலின் கடும் தாக்குதலால் காசா மக்கள் வெளியேற வேண்டிய நிலை!
-
-*2025-09-16 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225195) · `ta`
-
-இஸ்ரேலின் தீவிர தாக்குதல்களால் காசா நகர மக்கள் வெளியேற வேண்டிய கட்டாயம் ஏற்பட்டுள்ளது
-
-காசாவில் உள்ள மிக உயரமான குடியிருப்பு கட்டிடமான அல்-காஃப்ரி கட்டிடத்தை இஸ்ரேல் குண்டுவீசி அழித்துள்ளது.
-
-காசா நகரத்தின் மீது நேற்று மாலை பாரிய தாக்குதல்களை நடத்தியதால், இலட்சக்கணக்கான குடியிருப்பாளர்கள் நகரத்தை விட்டு வெளியேற வேண்டிய கட்டாயம் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-விதிவிலக்காக தீவிரமான வான்வழித் தாக்குதல்கள் நகரின் வடக்கு மற்றும் மேற்கில் குவிந்துள்ளதாக இஸ்ரேலிய ஊடகங்கள் தெரிவித்துள்ளன.
-
-அதே நேரத்தில் இஸ்ரேலிய படைகள் நகரத்தைக் கைப்பற்ற தாக்குதல்களை தீவிரப்படுத்தியதால் அண்மையில் சுமார் 50 கட்டிடங்கள் தரைமட்டமாக்கப்பட்டதாக பாலஸ்தீன சிவில் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-ஜெய்டவுனில், ஒகஸ்ட் தொடக்கத்தில் இருந்து 1,500 க்கும் மேற்பட்ட வீடுகள் மற்றும் கட்டிடங்கள் அழிக்கப்பட்டுள்ளன.
-
-இஸ்ரேல் அதன் 23 மாத இனப்படுகொலைப் போரின் போது குடியிருப்புப் பகுதிகள், பாடசாலைகள் மற்றும் வைத்தியசாலைகளை மீண்டும் தாக்கியுள்ளது.
-
-...
-
-[Data](articles/f7f78814.json)
-
----
 
 ### வெல்லவாய - அம்பாந்தொட்டை வீதியில் மோட்டார் சைக்கிள் விபத்து
 
@@ -1402,22 +1378,6 @@ When I was a member of the Opposition in 2017, I had presented an individual ref
 
 ---
 
-### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
-
-*2025-09-15 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
-
-...
-
-[Data](articles/39f24b3f.json)
-
-[Extended Data](ext_articles/39f24b3f.ext.json)
-
----
-
 ### 30 acres of land in Kilinochchi
 
 *2025-09-15 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225177) · `ta`
@@ -1866,20 +1826,6 @@ According to these orders, "the fisheries species" of the fisheries
 
 ---
 
-### பத்திரிகையாளர் வீரகத்தி தனபாலசிங்கம் எழுதிய ‘ தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம் ‘ நூல் வெளியீட்டு நிகழ்வு
-
-*2025-09-15 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86419) · `en`
-
-பத்திரிகையாளர் வீரகத்தி தனபாலசிங்கம் எழுதிய ‘ தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம் ‘ நூல் வெளியீட்டு நிகழ்வு கொழும்பு தமிழ்ச் சங்கத்தின் விநோதன் மண்டபத்தில் எதிர்வரும் வெள்ளிக்கிழமை (19/9) மாலை 5 மணிக்கு நடைபெறவிருக்கிறது.
-
-எழுத்தாளர் வசந்தி தயாபரன் தலைமையில் நடைபெறும் இந்த நிகழ்வில் வெளியீட்டுரையை எழுத்தாளர் வி.ரி. இளங்கோவனும் கருத்துரைகளை தகவல் அறியும் உரிமை ஆணைக்குழு உறுப்பினர் ஏ.எம். ந.ஹியா, கிழக்கு பல்கலைக்கழக நுண்கலைத்துறை பேராசிரியர் எஸ்.ஜெய்சங்கர், சமூக அரசியல் செயற்பாடடாளர்கள் தெ..மதுசூதனன், யதீந்திரா ஆகியோரும் நிகழ்ந்துவர். இந்த நூல் மார்க்சிய கற்கைகளுக்கான சண்முகதாசன் நிலையத்தின் வெளியீடாகும்.
-
-◼️
-
-[Data](articles/b731ff2f.json)
-
----
-
 ### Resource Manampehi ready to be assumed
 
 *2025-09-15 17:57:59* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකරණයට-භාරවීමට-සූදානම්/11-418509) · `si`
@@ -2001,5 +1947,73 @@ Maithripala: I laughed and said, "I am not bringing people."
 [Data](articles/38088cdd.json)
 
 [Extended Data](ext_articles/38088cdd.ext.json)
+
+---
+
+### Army deployed to contain fire in ‘Nonpareil Reserve’, over 1,000 acres of land destroyed
+
+*2025-09-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112532/army-deployed-to-contain-fire-in-nonpareil-reserve-over-1000-acres-of-land-destroyed) · `en`
+
+Sri Lanka Army personnel have been deployed to help control the forest fire that broke out in the Nonpareil Reserve in Balangoda, according to Ada Derana reporter.
+
+The fire, which has been raging for several days, is reported to have already destroyed over 1,000 acres of land.
+
+Our correspondent stated that the Sri Lanka Army, along with the Disaster Management Unit of the Ratnapura District, is currently engaged in firefighting efforts.
+
+Although strong winds in the area have made it difficult to fully contain the fire, it is reported that some progress has been made in bringing the blaze under control.
+
+◼️
+
+[Data](articles/4934693a.json)
+
+[Extended Data](ext_articles/4934693a.ext.json)
+
+---
+
+### Warm weather advisory issued for several districts including Colombo
+
+*2025-09-15 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112531/warm-weather-advisory-issued-for-several-districts-including-colombo) · `en`
+
+A warm weather advisory has been issued for residents of the Northern, North-central, North-western and Eastern provinces and in the Colombo, Gampaha, Hambantota and Monaragala districts.
+
+The heat index — the temperature felt by the human body — is expected to rise to the ‘Caution Level’ in several areas tomorrow (16), according to the Department of Meteorology.
+
+“The Heat Index Forecast is calculated by using relative humidity and maximum temperature and this is the condition that is felt on your body”, said the Met Department in a statement.
+
+The Department noted that prolonged exposure to the sun and outdoor activity will result in fatigue while continuing activity could lead to heat cramps.
+
+Therefore, residents have been requested to stay hydrated and to limit strenuous outdoor activities.
+
+◼️
+
+[Data](articles/bd5680ab.json)
+
+[Extended Data](ext_articles/bd5680ab.ext.json)
+
+---
+
+### World GDP forecasts raised, but evidence of US slowdown rises: Fitch
+
+*2025-09-15 17:15:00* · [`economynextcom`](https://economynext.com/world-gdp-forecasts-raised-but-evidence-of-us-slowdown-rises-fitch-240572/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has raised its world growth forecasts for the year since the June Global Economic Outlook (GEO) on better-than-expected incoming data for 2Q25, but expects world GDP to slow significantly this year, it said.
+
+“There is now evidence of an underlying US slowdown in ‘hard’ economic data and positive surprises on eurozone growth have partly reflected US tariff front-running,” the ratings agency said.
+
+Global growth is now forecast to be 2.4 percent in 2025, Fitch said.
+
+This is up 0.2pp since June, but is a ‘sizeable’ slowdown from 2.9 percent last year and below trend.
+
+China’s forecast has been raised to 4.7 percent from 4.2 percent, the eurozone’s to 1.1 percent from 0.8 percent and the US’s to 1.6 percent from 1.5 percent.
+
+“There has been a reduction in uncertainty over US tariff policy after a flurry of announcements.
+
+“Our latest estimate of the average US effective tariff rate (ETR) is 16%, very close to the rate assumed in June.
+
+...
+
+[Data](articles/a1051313.json)
+
+[Extended Data](ext_articles/a1051313.ext.json)
 
 ---

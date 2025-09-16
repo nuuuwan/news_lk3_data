@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 00:12:31**
+As of **2025-09-17 00:53:01**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,467 (96.2%) of 76,383 articles have been extended.
+73,481 (96.2%) of 76,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### පානදුරේ නිලංගගේ බැංකු ගිණුම් දෙකකින් විශාල මුදල් සංසරණයක්
+### Large cash circulation of two bank accounts of Panadura Nilanga's bank accounts
 
 *2025-09-16 23:33:27* · [`adalk`](https://www.ada.lk/breaking_news/පානදුරේ-නිලංගගේ-බැංකු-ගිණුම්-දෙකකින්-විශාල-මුදල්-සංසරණයක්/11-418542) · `si`
 
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මේ වනවිට රැඳවුම් භාරයට පත්කර ප්‍රශ්න කරමින් සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් හා සංවිධානාත්මක අපරාධකරුවෙක් වන පානදුරේ නිලංග නමැත්තාගේ බැංකු ගිණුම් පිළිබඳ වාර්තාවක් කැඳවීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවසර ලබාදුනි.
+The Colombo Magistrate's Court today (16) permitted the CID today (16) to summon with the bank accounts of the nabbed and an organized criminal, an organized criminal in Indonesia.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුවයි. සැකකරුගේ බැංකු ගිණුම් දෙකක් හරහා විශාල වශයෙන් මුදල් සංසරණය වී ඇති බවට තොරතුරු ලැබී ඇතැ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට පැවැසීය.
+After considering the request made by the Criminal Investigation Department. The Criminal Investigations Department (CID) said in court that the suspect has circulated a large amount of money through two bank accounts of the suspect.
 
 ◼️
 
 [Data](articles/f16c22dd.json)
+
+[Extended Data](ext_articles/f16c22dd.ext.json)
 
 ---
 
@@ -59,6 +61,8 @@ Vehicle importers noted that the sector has expanded due to recent government de
 ...
 
 [Data](articles/5a0e869a.json)
+
+[Extended Data](ext_articles/5a0e869a.ext.json)
 
 ---
 
@@ -576,23 +580,27 @@ The order was issued by Mahesh Weeraman, Pradeep Abeyratne and Amali Ranaweera, 
 
 ---
 
-### අවශ්‍යතාවක් ඇතිවුණොත් සහල් ආනයනය කරනවා
+### If there is a need, the rice is imported
 
 *2025-09-16 17:51:59* · [`adalk`](https://www.ada.lk/breaking_news/අවශ්‍යතාවක්-ඇතිවුණොත්-සහල්-ආනයනය-කරනවා/11-418540) · `si`
 
-කීරි සම්බා සහල් හිඟයක් ඇති වීමට ඉඩ නොදෙන බවත් අවශ්‍යතාවක් ඇතිවුවහොත් සහල් ආනයනය කිරීමට හෝ ආදේශක සහල් සඳහා අනුමැතිය හිමිවී ඇති බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක , සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+Cabinet Media Spokesperson Health and Mass Media Spokesperson Dr. Nalinda Jayatissa says that if a hair samba will not be allowed to cause a shortage of rice and imports to the importation of rice.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ අද (16) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවට එක්වෙමිනි.
+The Minister was speaking at a press conference to inform the Cabinet decisions held in the Department of Government Information today.
 
-පසුගිය මහ කන්නයේ මෙට්‍රික් ටොන් ලක්ෂ 25කට ආසන්න සහල් අස්වැන්නක් ලැබී ඇති බව සඳහන් කරන අමාත්‍යවරයා මෙවර යල කන්නයේදී සහල් අස්වැන්න මෙට්‍රික්ටොන් ලක්ෂ 22ක් පමණ අපේක්ෂා කරන බවත් පෙන්වා දුන්නේය.
+The Minister also pointed out that the rice harvest of nearly 2.5 million rice, said that the rice harvest of nearly 25 metric tons of the Maha season.
 
-එසේම මේ වනවිට සියයට 79කට ආසන්න ප්‍රමාණයක් අස්වැන්න නෙලා ඇති අතර අස්වැන්න සම්බන්ධයෙන් තබන ලද ඉලක්කවලට ගොවීන් ළඟා වී ඇත අතර වගා කිරීමේදී මෙම කන්නයේදී නාඩු සියයට 62ක් වන අතර කීරි සම්බා වගා කර ඇත්තේ සියයට 7ක් බවත් අමාත්‍යවරයා සඳහන් කළේය.
+Also, the farmers have reached nearly 79 percent of their targets for the harvest and the farmers have been in the same season, the said Minister said.
 
-තවද කීරිසම්බා වගා කිරීමේ අඩුවක් මිස සමස්ත නිෂ්පාදනයේ අඩුවත් නොවන බව පෙන්වා දුන් අමාත්‍යවරයා මෙම ඇතිවී තිබෙන කීරි සම්බා සහල් ගැටලුව නිරාකරණය කිරීමට රජය මැදිහත් වී ඇති බවත් පැවසීය.
+He also said that the Minister pointed out that the government is not a lack of Caremboba cultivation, but the government has intervened to resolve the Key Samba Rice problem.
 
-...
+The Minister said that the government is prepared to import rice in accordance with the needs of the rice in the market with the needs of the market.
+
+◼️
 
 [Data](articles/e944080d.json)
+
+[Extended Data](ext_articles/e944080d.ext.json)
 
 ---
 
